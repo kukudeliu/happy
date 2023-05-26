@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-26 23:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-26 23:27:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [五月天唱了步步](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%E5%94%B1%E4%BA%86%E6%AD%A5%E6%AD%A5&t=31&band_rank=5&Refer=top)<br />
 6. [黄子韬淘汰谢娜](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E6%B7%98%E6%B1%B0%E8%B0%A2%E5%A8%9C%23&t=31&band_rank=6&Refer=top)<br />
 7. [晋江防盗](https://s.weibo.com/weibo?q=%E6%99%8B%E6%B1%9F%E9%98%B2%E7%9B%97&t=31&band_rank=7&Refer=top)<br />
-8. [向往的生活](https://s.weibo.com/weibo?q=%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB&t=31&band_rank=8&Refer=top)<br />
+8. [王心凌 直播](https://s.weibo.com/weibo?q=%E7%8E%8B%E5%BF%83%E5%87%8C%20%E7%9B%B4%E6%92%AD&t=31&band_rank=8&Refer=top)<br />
 9. [女子诞下百万分之一镜面宝宝](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%AF%9E%E4%B8%8B%E7%99%BE%E4%B8%87%E5%88%86%E4%B9%8B%E4%B8%80%E9%95%9C%E9%9D%A2%E5%AE%9D%E5%AE%9D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
