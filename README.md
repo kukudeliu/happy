@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-26 22:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-26 22:29:01</h4></div>
 
 > 微博  
 
@@ -32,9 +32,9 @@
 4. [酒泉卫星发射中心的“五月天”](https://www.baidu.com/s?wd=%E9%85%92%E6%B3%89%E5%8D%AB%E6%98%9F%E5%8F%91%E5%B0%84%E4%B8%AD%E5%BF%83%E7%9A%84%E2%80%9C%E4%BA%94%E6%9C%88%E5%A4%A9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [五月天鸟巢演唱会场外大合唱](https://www.baidu.com/s?wd=%E4%BA%94%E6%9C%88%E5%A4%A9%E9%B8%9F%E5%B7%A2%E6%BC%94%E5%94%B1%E4%BC%9A%E5%9C%BA%E5%A4%96%E5%A4%A7%E5%90%88%E5%94%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [妻子离婚时才知丈夫年入300万](https://www.baidu.com/s?wd=%E5%A6%BB%E5%AD%90%E7%A6%BB%E5%A9%9A%E6%97%B6%E6%89%8D%E7%9F%A5%E4%B8%88%E5%A4%AB%E5%B9%B4%E5%85%A5300%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [姑娘嗓子疼从就诊到去世仅10分钟](https://www.baidu.com/s?wd=%E5%A7%91%E5%A8%98%E5%97%93%E5%AD%90%E7%96%BC%E4%BB%8E%E5%B0%B1%E8%AF%8A%E5%88%B0%E5%8E%BB%E4%B8%96%E4%BB%8510%E5%88%86%E9%92%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [蔡少芬二公造型撞脸步惊云](https://www.baidu.com/s?wd=%E8%94%A1%E5%B0%91%E8%8A%AC%E4%BA%8C%E5%85%AC%E9%80%A0%E5%9E%8B%E6%92%9E%E8%84%B8%E6%AD%A5%E6%83%8A%E4%BA%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [乘风4再曝名场面](https://www.baidu.com/s?wd=%E4%B9%98%E9%A3%8E4%E5%86%8D%E6%9B%9D%E5%90%8D%E5%9C%BA%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [媒体评学院副书记逃进女厕 ：荒诞](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E5%AD%A6%E9%99%A2%E5%89%AF%E4%B9%A6%E8%AE%B0%E9%80%83%E8%BF%9B%E5%A5%B3%E5%8E%95+%EF%BC%9A%E8%8D%92%E8%AF%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [姑娘嗓子疼从就诊到去世仅10分钟](https://www.baidu.com/s?wd=%E5%A7%91%E5%A8%98%E5%97%93%E5%AD%90%E7%96%BC%E4%BB%8E%E5%B0%B1%E8%AF%8A%E5%88%B0%E5%8E%BB%E4%B8%96%E4%BB%8510%E5%88%86%E9%92%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子疑轻生悬挂高楼外大喊我累了](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%96%91%E8%BD%BB%E7%94%9F%E6%82%AC%E6%8C%82%E9%AB%98%E6%A5%BC%E5%A4%96%E5%A4%A7%E5%96%8A%E6%88%91%E7%B4%AF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [酒泉卫星发射中心的“五月天”](https://www.baidu.com/s?wd=%E9%85%92%E6%B3%89%E5%8D%AB%E6%98%9F%E5%8F%91%E5%B0%84%E4%B8%AD%E5%BF%83%E7%9A%84%E2%80%9C%E4%BA%94%E6%9C%88%E5%A4%A9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [五月天鸟巢演唱会场外大合唱](https://www.baidu.com/s?wd=%E4%BA%94%E6%9C%88%E5%A4%A9%E9%B8%9F%E5%B7%A2%E6%BC%94%E5%94%B1%E4%BC%9A%E5%9C%BA%E5%A4%96%E5%A4%A7%E5%90%88%E5%94%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [妻子离婚时才知丈夫年入300万](https://www.baidu.com/s?wd=%E5%A6%BB%E5%AD%90%E7%A6%BB%E5%A9%9A%E6%97%B6%E6%89%8D%E7%9F%A5%E4%B8%88%E5%A4%AB%E5%B9%B4%E5%85%A5300%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [姑娘嗓子疼从就诊到去世仅10分钟](https://www.baidu.com/s?wd=%E5%A7%91%E5%A8%98%E5%97%93%E5%AD%90%E7%96%BC%E4%BB%8E%E5%B0%B1%E8%AF%8A%E5%88%B0%E5%8E%BB%E4%B8%96%E4%BB%8510%E5%88%86%E9%92%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [蔡少芬二公造型撞脸步惊云](https://www.baidu.com/s?wd=%E8%94%A1%E5%B0%91%E8%8A%AC%E4%BA%8C%E5%85%AC%E9%80%A0%E5%9E%8B%E6%92%9E%E8%84%B8%E6%AD%A5%E6%83%8A%E4%BA%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [乘风4再曝名场面](https://www.baidu.com/s?wd=%E4%B9%98%E9%A3%8E4%E5%86%8D%E6%9B%9D%E5%90%8D%E5%9C%BA%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [媒体评学院副书记逃进女厕 ：荒诞](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E5%AD%A6%E9%99%A2%E5%89%AF%E4%B9%A6%E8%AE%B0%E9%80%83%E8%BF%9B%E5%A5%B3%E5%8E%95+%EF%BC%9A%E8%8D%92%E8%AF%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [姑娘嗓子疼从就诊到去世仅10分钟](https://www.baidu.com/s?wd=%E5%A7%91%E5%A8%98%E5%97%93%E5%AD%90%E7%96%BC%E4%BB%8E%E5%B0%B1%E8%AF%8A%E5%88%B0%E5%8E%BB%E4%B8%96%E4%BB%8510%E5%88%86%E9%92%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子疑轻生悬挂高楼外大喊我累了](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%96%91%E8%BD%BB%E7%94%9F%E6%82%AC%E6%8C%82%E9%AB%98%E6%A5%BC%E5%A4%96%E5%A4%A7%E5%96%8A%E6%88%91%E7%B4%AF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
