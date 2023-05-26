@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-26 18:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-26 18:54:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [儿子扔掉妈妈囤积的20斤陈年冻肉](https://www.baidu.com/s?wd=%E5%84%BF%E5%AD%90%E6%89%94%E6%8E%89%E5%A6%88%E5%A6%88%E5%9B%A4%E7%A7%AF%E7%9A%8420%E6%96%A4%E9%99%88%E5%B9%B4%E5%86%BB%E8%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [医生打20分钟电话不看诊](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E6%89%9320%E5%88%86%E9%92%9F%E7%94%B5%E8%AF%9D%E4%B8%8D%E7%9C%8B%E8%AF%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [你的购物车打折了](https://www.baidu.com/s?wd=%E4%BD%A0%E7%9A%84%E8%B4%AD%E7%89%A9%E8%BD%A6%E6%89%93%E6%8A%98%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [长沙一家5死 男子杀害家人后自杀](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E4%B8%80%E5%AE%B65%E6%AD%BB+%E7%94%B7%E5%AD%90%E6%9D%80%E5%AE%B3%E5%AE%B6%E4%BA%BA%E5%90%8E%E8%87%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [蔡少芬二公造型撞脸步惊云](https://www.baidu.com/s?wd=%E8%94%A1%E5%B0%91%E8%8A%AC%E4%BA%8C%E5%85%AC%E9%80%A0%E5%9E%8B%E6%92%9E%E8%84%B8%E6%AD%A5%E6%83%8A%E4%BA%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [儿子扔掉妈妈囤积的20斤陈年冻肉](https://www.baidu.com/s?wd=%E5%84%BF%E5%AD%90%E6%89%94%E6%8E%89%E5%A6%88%E5%A6%88%E5%9B%A4%E7%A7%AF%E7%9A%8420%E6%96%A4%E9%99%88%E5%B9%B4%E5%86%BB%E8%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [医生打20分钟电话不看诊](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E6%89%9320%E5%88%86%E9%92%9F%E7%94%B5%E8%AF%9D%E4%B8%8D%E7%9C%8B%E8%AF%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [你的购物车打折了](https://www.baidu.com/s?wd=%E4%BD%A0%E7%9A%84%E8%B4%AD%E7%89%A9%E8%BD%A6%E6%89%93%E6%8A%98%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [长沙一家5死 男子杀害家人后自杀](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E4%B8%80%E5%AE%B65%E6%AD%BB+%E7%94%B7%E5%AD%90%E6%9D%80%E5%AE%B3%E5%AE%B6%E4%BA%BA%E5%90%8E%E8%87%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [蔡少芬二公造型撞脸步惊云](https://www.baidu.com/s?wd=%E8%94%A1%E5%B0%91%E8%8A%AC%E4%BA%8C%E5%85%AC%E9%80%A0%E5%9E%8B%E6%92%9E%E8%84%B8%E6%AD%A5%E6%83%8A%E4%BA%91&sa=fyb_news&rsv_dl=fyb_news)<br />
