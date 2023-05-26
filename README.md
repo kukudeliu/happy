@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-26 19:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-26 19:59:01</h4></div>
 
 > 微博  
 
@@ -31,10 +31,10 @@
 3. [湖北潜江暴雨致医院住院部1楼被淹](https://www.baidu.com/s?wd=%E6%B9%96%E5%8C%97%E6%BD%9C%E6%B1%9F%E6%9A%B4%E9%9B%A8%E8%87%B4%E5%8C%BB%E9%99%A2%E4%BD%8F%E9%99%A2%E9%83%A81%E6%A5%BC%E8%A2%AB%E6%B7%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [一路奔赴 百县同行](https://www.baidu.com/s?wd=%E4%B8%80%E8%B7%AF%E5%A5%94%E8%B5%B4+%E7%99%BE%E5%8E%BF%E5%90%8C%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [副市长违停与交警发生冲突?官方否认](https://www.baidu.com/s?wd=%E5%89%AF%E5%B8%82%E9%95%BF%E8%BF%9D%E5%81%9C%E4%B8%8E%E4%BA%A4%E8%AD%A6%E5%8F%91%E7%94%9F%E5%86%B2%E7%AA%81%3F%E5%AE%98%E6%96%B9%E5%90%A6%E8%AE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [北京一高尔夫球场2人被雷击](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E4%B8%80%E9%AB%98%E5%B0%94%E5%A4%AB%E7%90%83%E5%9C%BA2%E4%BA%BA%E8%A2%AB%E9%9B%B7%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [男子疑轻生悬挂高楼外大喊我累了](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%96%91%E8%BD%BB%E7%94%9F%E6%82%AC%E6%8C%82%E9%AB%98%E6%A5%BC%E5%A4%96%E5%A4%A7%E5%96%8A%E6%88%91%E7%B4%AF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [长沙一家5死 男子杀害家人后自杀](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E4%B8%80%E5%AE%B65%E6%AD%BB+%E7%94%B7%E5%AD%90%E6%9D%80%E5%AE%B3%E5%AE%B6%E4%BA%BA%E5%90%8E%E8%87%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [你的购物车打折了](https://www.baidu.com/s?wd=%E4%BD%A0%E7%9A%84%E8%B4%AD%E7%89%A9%E8%BD%A6%E6%89%93%E6%8A%98%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男生炫酷“海胆头”参加毕业典礼](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E7%82%AB%E9%85%B7%E2%80%9C%E6%B5%B7%E8%83%86%E5%A4%B4%E2%80%9D%E5%8F%82%E5%8A%A0%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [北京一高尔夫球场2人被雷击](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E4%B8%80%E9%AB%98%E5%B0%94%E5%A4%AB%E7%90%83%E5%9C%BA2%E4%BA%BA%E8%A2%AB%E9%9B%B7%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [湖北潜江暴雨致医院住院部1楼被淹](https://www.baidu.com/s?wd=%E6%B9%96%E5%8C%97%E6%BD%9C%E6%B1%9F%E6%9A%B4%E9%9B%A8%E8%87%B4%E5%8C%BB%E9%99%A2%E4%BD%8F%E9%99%A2%E9%83%A81%E6%A5%BC%E8%A2%AB%E6%B7%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [一路奔赴 百县同行](https://www.baidu.com/s?wd=%E4%B8%80%E8%B7%AF%E5%A5%94%E8%B5%B4+%E7%99%BE%E5%8E%BF%E5%90%8C%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [副市长违停与交警发生冲突?官方否认](https://www.baidu.com/s?wd=%E5%89%AF%E5%B8%82%E9%95%BF%E8%BF%9D%E5%81%9C%E4%B8%8E%E4%BA%A4%E8%AD%A6%E5%8F%91%E7%94%9F%E5%86%B2%E7%AA%81%3F%E5%AE%98%E6%96%B9%E5%90%A6%E8%AE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [北京一高尔夫球场2人被雷击](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E4%B8%80%E9%AB%98%E5%B0%94%E5%A4%AB%E7%90%83%E5%9C%BA2%E4%BA%BA%E8%A2%AB%E9%9B%B7%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [男子疑轻生悬挂高楼外大喊我累了](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%96%91%E8%BD%BB%E7%94%9F%E6%82%AC%E6%8C%82%E9%AB%98%E6%A5%BC%E5%A4%96%E5%A4%A7%E5%96%8A%E6%88%91%E7%B4%AF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [长沙一家5死 男子杀害家人后自杀](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E4%B8%80%E5%AE%B65%E6%AD%BB+%E7%94%B7%E5%AD%90%E6%9D%80%E5%AE%B3%E5%AE%B6%E4%BA%BA%E5%90%8E%E8%87%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [你的购物车打折了](https://www.baidu.com/s?wd=%E4%BD%A0%E7%9A%84%E8%B4%AD%E7%89%A9%E8%BD%A6%E6%89%93%E6%8A%98%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男生炫酷“海胆头”参加毕业典礼](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E7%82%AB%E9%85%B7%E2%80%9C%E6%B5%B7%E8%83%86%E5%A4%B4%E2%80%9D%E5%8F%82%E5%8A%A0%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [北京一高尔夫球场2人被雷击](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E4%B8%80%E9%AB%98%E5%B0%94%E5%A4%AB%E7%90%83%E5%9C%BA2%E4%BA%BA%E8%A2%AB%E9%9B%B7%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
