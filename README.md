@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-26 19:53:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-26 19:54:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [北京一高尔夫球场2人被雷击](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E4%B8%80%E9%AB%98%E5%B0%94%E5%A4%AB%E7%90%83%E5%9C%BA2%E4%BA%BA%E8%A2%AB%E9%9B%B7%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [长沙一家5死 男子杀害家人后自杀](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E4%B8%80%E5%AE%B65%E6%AD%BB+%E7%94%B7%E5%AD%90%E6%9D%80%E5%AE%B3%E5%AE%B6%E4%BA%BA%E5%90%8E%E8%87%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [你的购物车打折了](https://www.baidu.com/s?wd=%E4%BD%A0%E7%9A%84%E8%B4%AD%E7%89%A9%E8%BD%A6%E6%89%93%E6%8A%98%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [正午阳光赢麻了](https://www.baidu.com/s?wd=%E6%AD%A3%E5%8D%88%E9%98%B3%E5%85%89%E8%B5%A2%E9%BA%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男生炫酷“海胆头”参加毕业典礼](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E7%82%AB%E9%85%B7%E2%80%9C%E6%B5%B7%E8%83%86%E5%A4%B4%E2%80%9D%E5%8F%82%E5%8A%A0%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [北京一高尔夫球场2人被雷击](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E4%B8%80%E9%AB%98%E5%B0%94%E5%A4%AB%E7%90%83%E5%9C%BA2%E4%BA%BA%E8%A2%AB%E9%9B%B7%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [长沙一家5死 男子杀害家人后自杀](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E4%B8%80%E5%AE%B65%E6%AD%BB+%E7%94%B7%E5%AD%90%E6%9D%80%E5%AE%B3%E5%AE%B6%E4%BA%BA%E5%90%8E%E8%87%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [你的购物车打折了](https://www.baidu.com/s?wd=%E4%BD%A0%E7%9A%84%E8%B4%AD%E7%89%A9%E8%BD%A6%E6%89%93%E6%8A%98%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [正午阳光赢麻了](https://www.baidu.com/s?wd=%E6%AD%A3%E5%8D%88%E9%98%B3%E5%85%89%E8%B5%A2%E9%BA%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男生炫酷“海胆头”参加毕业典礼](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E7%82%AB%E9%85%B7%E2%80%9C%E6%B5%B7%E8%83%86%E5%A4%B4%E2%80%9D%E5%8F%82%E5%8A%A0%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
