@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-26 17:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-26 17:57:01</h4></div>
 
 > 微博  
 
 1. [姑娘嗓子疼从就诊到去世仅10分钟](https://s.weibo.com/weibo?q=%23%E5%A7%91%E5%A8%98%E5%97%93%E5%AD%90%E7%96%BC%E4%BB%8E%E5%B0%B1%E8%AF%8A%E5%88%B0%E5%8E%BB%E4%B8%96%E4%BB%8510%E5%88%86%E9%92%9F%23&t=31&band_rank=1&Refer=top)<br />
 2. [五月天 华晨宇](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%20%E5%8D%8E%E6%99%A8%E5%AE%87&t=31&band_rank=2&Refer=top)<br />
 3. [C919本周日商业航班首航](https://s.weibo.com/weibo?q=%23C919%E6%9C%AC%E5%91%A8%E6%97%A5%E5%95%86%E4%B8%9A%E8%88%AA%E7%8F%AD%E9%A6%96%E8%88%AA%23&t=31&band_rank=3&Refer=top)<br />
-4. [王宝强 愿老爷子您一路走好](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%9D%E5%BC%BA%20%E6%84%BF%E8%80%81%E7%88%B7%E5%AD%90%E6%82%A8%E4%B8%80%E8%B7%AF%E8%B5%B0%E5%A5%BD%23&t=31&band_rank=4&Refer=top)<br />
-5. [香港演员怒斥国泰空乘歧视乘客](https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E6%BC%94%E5%91%98%E6%80%92%E6%96%A5%E5%9B%BD%E6%B3%B0%E7%A9%BA%E4%B9%98%E6%AD%A7%E8%A7%86%E4%B9%98%E5%AE%A2%23&t=31&band_rank=5&Refer=top)<br />
+4. [香港演员怒斥国泰空乘歧视乘客](https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E6%BC%94%E5%91%98%E6%80%92%E6%96%A5%E5%9B%BD%E6%B3%B0%E7%A9%BA%E4%B9%98%E6%AD%A7%E8%A7%86%E4%B9%98%E5%AE%A2%23&t=31&band_rank=4&Refer=top)<br />
+5. [王宝强 愿老爷子您一路走好](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%9D%E5%BC%BA%20%E6%84%BF%E8%80%81%E7%88%B7%E5%AD%90%E6%82%A8%E4%B8%80%E8%B7%AF%E8%B5%B0%E5%A5%BD%23&t=31&band_rank=5&Refer=top)<br />
 6. [警方通报长沙一家5口死亡](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E9%95%BF%E6%B2%99%E4%B8%80%E5%AE%B65%E5%8F%A3%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=6&Refer=top)<br />
-7. [白玉兰0提](https://s.weibo.com/weibo?q=%23%E7%99%BD%E7%8E%89%E5%85%B00%E6%8F%90%23&t=31&band_rank=7&Refer=top)<br />
-8. [五月天嘉宾](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%E5%98%89%E5%AE%BE&t=31&band_rank=8&Refer=top)<br />
-9. [视障女孩为自救9年写120首歌](https://s.weibo.com/weibo?q=%23%E8%A7%86%E9%9A%9C%E5%A5%B3%E5%AD%A9%E4%B8%BA%E8%87%AA%E6%95%919%E5%B9%B4%E5%86%99120%E9%A6%96%E6%AD%8C%23&t=31&band_rank=9&Refer=top)<br />
+7. [视障女孩为自救9年写120首歌](https://s.weibo.com/weibo?q=%23%E8%A7%86%E9%9A%9C%E5%A5%B3%E5%AD%A9%E4%B8%BA%E8%87%AA%E6%95%919%E5%B9%B4%E5%86%99120%E9%A6%96%E6%AD%8C%23&t=31&band_rank=7&Refer=top)<br />
+8. [松狮成了奶奶用来盘线的工具狗](https://s.weibo.com/weibo?q=%23%E6%9D%BE%E7%8B%AE%E6%88%90%E4%BA%86%E5%A5%B6%E5%A5%B6%E7%94%A8%E6%9D%A5%E7%9B%98%E7%BA%BF%E7%9A%84%E5%B7%A5%E5%85%B7%E7%8B%97%23&t=31&band_rank=8&Refer=top)<br />
+9. [孕妇地铁站出血轨道公安紧急救助](https://s.weibo.com/weibo?q=%23%E5%AD%95%E5%A6%87%E5%9C%B0%E9%93%81%E7%AB%99%E5%87%BA%E8%A1%80%E8%BD%A8%E9%81%93%E5%85%AC%E5%AE%89%E7%B4%A7%E6%80%A5%E6%95%91%E5%8A%A9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
