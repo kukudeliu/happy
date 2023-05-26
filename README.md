@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-26 16:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-26 16:52:01</h4></div>
 
 > 微博  
 
 1. [姑娘嗓子疼从就诊到去世仅10分钟](https://s.weibo.com/weibo?q=%23%E5%A7%91%E5%A8%98%E5%97%93%E5%AD%90%E7%96%BC%E4%BB%8E%E5%B0%B1%E8%AF%8A%E5%88%B0%E5%8E%BB%E4%B8%96%E4%BB%8510%E5%88%86%E9%92%9F%23&t=31&band_rank=1&Refer=top)<br />
-2. [王宝强 愿老爷子您一路走好](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%9D%E5%BC%BA%20%E6%84%BF%E8%80%81%E7%88%B7%E5%AD%90%E6%82%A8%E4%B8%80%E8%B7%AF%E8%B5%B0%E5%A5%BD%23&t=31&band_rank=2&Refer=top)<br />
+2. [白玉兰0提](https://s.weibo.com/weibo?q=%23%E7%99%BD%E7%8E%89%E5%85%B00%E6%8F%90%23&t=31&band_rank=2&Refer=top)<br />
 3. [30秒看中关村论坛展览的前沿科技](https://s.weibo.com/weibo?q=%2330%E7%A7%92%E7%9C%8B%E4%B8%AD%E5%85%B3%E6%9D%91%E8%AE%BA%E5%9D%9B%E5%B1%95%E8%A7%88%E7%9A%84%E5%89%8D%E6%B2%BF%E7%A7%91%E6%8A%80%23&t=31&band_rank=3&Refer=top)<br />
-4. [白玉兰0提](https://s.weibo.com/weibo?q=%23%E7%99%BD%E7%8E%89%E5%85%B00%E6%8F%90%23&t=31&band_rank=4&Refer=top)<br />
+4. [王宝强 愿老爷子您一路走好](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%9D%E5%BC%BA%20%E6%84%BF%E8%80%81%E7%88%B7%E5%AD%90%E6%82%A8%E4%B8%80%E8%B7%AF%E8%B5%B0%E5%A5%BD%23&t=31&band_rank=4&Refer=top)<br />
 5. [18层地狱 1到18都是地狱](https://s.weibo.com/weibo?q=18%E5%B1%82%E5%9C%B0%E7%8B%B1%201%E5%88%B018%E9%83%BD%E6%98%AF%E5%9C%B0%E7%8B%B1&t=31&band_rank=5&Refer=top)<br />
 6. [公诉定档](https://s.weibo.com/weibo?q=%E5%85%AC%E8%AF%89%E5%AE%9A%E6%A1%A3&t=31&band_rank=6&Refer=top)<br />
 7. [罗京民去世](https://s.weibo.com/weibo?q=%23%E7%BD%97%E4%BA%AC%E6%B0%91%E5%8E%BB%E4%B8%96%23&t=31&band_rank=7&Refer=top)<br />
