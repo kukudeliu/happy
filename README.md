@@ -1,4 +1,4 @@
-<div align="center"><h1>实时热搜榜</h1><h4>2023-05-26 15:17:34</h4></div>
+<div align="center"><h1>实时热搜榜</h1><h4>2023-05-26 15:18:00</h4></div>
 
 > 微博  
 
@@ -20,6 +20,6 @@
 4. [加多宝和王老吉的关系是什么？](https://www.zhihu.com/question/20342773)<br />
 5. [人民币对美元汇率中间价破 7，创近期新低，如何看待人民币汇率的震荡，未来还会走低吗？](https://www.zhihu.com/question/603126472)<br />
 6. [中国东航 C919 预计将于近期投入实际运营，对我国民航事业将会产生哪些有利影响？](https://www.zhihu.com/question/602957130)<br />
-7. [为什么在地上画个圈，猫会钻进去？](https://www.zhihu.com/question/582895328)<br />
-8. [《鬼灭之刃》为什么没有人选择变成鬼来对抗鬼呢？](https://www.zhihu.com/question/510896411)<br />
-9. [东航 C919 首个商业航班飞行计划公布，5 月 28 日起飞，具有哪些重要意义？对民航业有何影响？](https://www.zhihu.com/question/603121856)<br />
+7. [「月薪两万不敢在老乡鸡点三个肉菜」，打工人实现中式快餐自由有多难？你每个月的工作餐预算是多少？](https://www.zhihu.com/question/602730177)<br />
+8. [为什么在地上画个圈，猫会钻进去？](https://www.zhihu.com/question/582895328)<br />
+9. [《鬼灭之刃》为什么没有人选择变成鬼来对抗鬼呢？](https://www.zhihu.com/question/510896411)<br />
