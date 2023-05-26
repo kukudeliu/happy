@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-27 04:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-27 04:48:02</h4></div>
 
 > 微博  
 
 1. [林志颖车祸后再度开赛车](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%97%E9%A2%96%E8%BD%A6%E7%A5%B8%E5%90%8E%E5%86%8D%E5%BA%A6%E5%BC%80%E8%B5%9B%E8%BD%A6%23&t=31&band_rank=1&Refer=top)<br />
-2. [送命式熬夜 经常性失落](https://s.weibo.com/weibo?q=%E9%80%81%E5%91%BD%E5%BC%8F%E7%86%AC%E5%A4%9C%20%E7%BB%8F%E5%B8%B8%E6%80%A7%E5%A4%B1%E8%90%BD&t=31&band_rank=2&Refer=top)<br />
+2. [江西一对表兄妹结婚10年育1子](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E4%B8%80%E5%AF%B9%E8%A1%A8%E5%85%84%E5%A6%B9%E7%BB%93%E5%A9%9A10%E5%B9%B4%E8%82%B21%E5%AD%90%23&t=31&band_rank=2&Refer=top)<br />
 3. [探馆中关村论坛展览领略前沿科技魅力](https://s.weibo.com/weibo?q=%23%E6%8E%A2%E9%A6%86%E4%B8%AD%E5%85%B3%E6%9D%91%E8%AE%BA%E5%9D%9B%E5%B1%95%E8%A7%88%E9%A2%86%E7%95%A5%E5%89%8D%E6%B2%BF%E7%A7%91%E6%8A%80%E9%AD%85%E5%8A%9B%23&t=31&band_rank=3&Refer=top)<br />
-4. [江西一对表兄妹结婚10年育1子](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E4%B8%80%E5%AF%B9%E8%A1%A8%E5%85%84%E5%A6%B9%E7%BB%93%E5%A9%9A10%E5%B9%B4%E8%82%B21%E5%AD%90%23&t=31&band_rank=4&Refer=top)<br />
+4. [送命式熬夜 经常性失落](https://s.weibo.com/weibo?q=%E9%80%81%E5%91%BD%E5%BC%8F%E7%86%AC%E5%A4%9C%20%E7%BB%8F%E5%B8%B8%E6%80%A7%E5%A4%B1%E8%90%BD&t=31&band_rank=4&Refer=top)<br />
 5. [狂飙片方没有为高启强报名](https://s.weibo.com/weibo?q=%23%E7%8B%82%E9%A3%99%E7%89%87%E6%96%B9%E6%B2%A1%E6%9C%89%E4%B8%BA%E9%AB%98%E5%90%AF%E5%BC%BA%E6%8A%A5%E5%90%8D%23&t=31&band_rank=5&Refer=top)<br />
 6. [陈梦](https://s.weibo.com/weibo?q=%E9%99%88%E6%A2%A6&t=31&band_rank=6&Refer=top)<br />
 7. [哈尔滨回应网传副市长与交警发生冲突](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E5%89%AF%E5%B8%82%E9%95%BF%E4%B8%8E%E4%BA%A4%E8%AD%A6%E5%8F%91%E7%94%9F%E5%86%B2%E7%AA%81%23&t=31&band_rank=7&Refer=top)<br />
