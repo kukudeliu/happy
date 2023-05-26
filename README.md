@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-26 23:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-26 23:06:01</h4></div>
 
 > 微博  
 
-1. [狂飙](https://s.weibo.com/weibo?q=%E7%8B%82%E9%A3%99&t=31&band_rank=1&Refer=top)<br />
-2. [狂飙片方没有为高启强报名](https://s.weibo.com/weibo?q=%23%E7%8B%82%E9%A3%99%E7%89%87%E6%96%B9%E6%B2%A1%E6%9C%89%E4%B8%BA%E9%AB%98%E5%90%AF%E5%BC%BA%E6%8A%A5%E5%90%8D%23&t=31&band_rank=2&Refer=top)<br />
+1. [狂飙片方没有为高启强报名](https://s.weibo.com/weibo?q=%23%E7%8B%82%E9%A3%99%E7%89%87%E6%96%B9%E6%B2%A1%E6%9C%89%E4%B8%BA%E9%AB%98%E5%90%AF%E5%BC%BA%E6%8A%A5%E5%90%8D%23&t=31&band_rank=1&Refer=top)<br />
+2. [狂飙](https://s.weibo.com/weibo?q=%E7%8B%82%E9%A3%99&t=31&band_rank=2&Refer=top)<br />
 3. [中美双方同意建立经贸沟通渠道](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%8F%8C%E6%96%B9%E5%90%8C%E6%84%8F%E5%BB%BA%E7%AB%8B%E7%BB%8F%E8%B4%B8%E6%B2%9F%E9%80%9A%E6%B8%A0%E9%81%93%23&t=31&band_rank=3&Refer=top)<br />
 4. [何丹彤巴黎被抢劫](https://s.weibo.com/weibo?q=%E4%BD%95%E4%B8%B9%E5%BD%A4%E5%B7%B4%E9%BB%8E%E8%A2%AB%E6%8A%A2%E5%8A%AB&t=31&band_rank=4&Refer=top)<br />
 5. [黄子韬淘汰谢娜](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E6%B7%98%E6%B1%B0%E8%B0%A2%E5%A8%9C%23&t=31&band_rank=5&Refer=top)<br />
