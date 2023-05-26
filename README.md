@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-27 03:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-27 03:53:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [狂飙](https://s.weibo.com/weibo?q=%E7%8B%82%E9%A3%99&t=31&band_rank=5&Refer=top)<br />
 6. [狂飙片方没有为高启强报名](https://s.weibo.com/weibo?q=%23%E7%8B%82%E9%A3%99%E7%89%87%E6%96%B9%E6%B2%A1%E6%9C%89%E4%B8%BA%E9%AB%98%E5%90%AF%E5%BC%BA%E6%8A%A5%E5%90%8D%23&t=31&band_rank=6&Refer=top)<br />
 7. [张元英AI换脸叶夕雾](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%85%83%E8%8B%B1AI%E6%8D%A2%E8%84%B8%E5%8F%B6%E5%A4%95%E9%9B%BE%23&t=31&band_rank=7&Refer=top)<br />
-8. [五月天唱了粉丝在微博点的歌](https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E5%94%B1%E4%BA%86%E7%B2%89%E4%B8%9D%E5%9C%A8%E5%BE%AE%E5%8D%9A%E7%82%B9%E7%9A%84%E6%AD%8C%23&t=31&band_rank=8&Refer=top)<br />
-9. [陈梦](https://s.weibo.com/weibo?q=%E9%99%88%E6%A2%A6&t=31&band_rank=9&Refer=top)<br />
+8. [陈梦](https://s.weibo.com/weibo?q=%E9%99%88%E6%A2%A6&t=31&band_rank=8&Refer=top)<br />
+9. [五月天唱了粉丝在微博点的歌](https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E5%94%B1%E4%BA%86%E7%B2%89%E4%B8%9D%E5%9C%A8%E5%BE%AE%E5%8D%9A%E7%82%B9%E7%9A%84%E6%AD%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
