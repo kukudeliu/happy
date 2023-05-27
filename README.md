@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 00:20:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 00:21:01</h4></div>
 
 > 微博  
 
-1. [BLACKPINK演唱会被扔上台的玩偶有摄像头](https://s.weibo.com/weibo?q=%23BLACKPINK%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E6%89%94%E4%B8%8A%E5%8F%B0%E7%9A%84%E7%8E%A9%E5%81%B6%E6%9C%89%E6%91%84%E5%83%8F%E5%A4%B4%23&t=31&band_rank=1&Refer=top)<br />
-2. [假球](https://s.weibo.com/weibo?q=%E5%81%87%E7%90%83&t=31&band_rank=2&Refer=top)<br />
+1. [假球](https://s.weibo.com/weibo?q=%E5%81%87%E7%90%83&t=31&band_rank=1&Refer=top)<br />
+2. [BLACKPINK演唱会被扔上台的玩偶有摄像头](https://s.weibo.com/weibo?q=%23BLACKPINK%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E6%89%94%E4%B8%8A%E5%8F%B0%E7%9A%84%E7%8E%A9%E5%81%B6%E6%9C%89%E6%91%84%E5%83%8F%E5%A4%B4%23&t=31&band_rank=2&Refer=top)<br />
 3. [白色大熊猫与大熊猫罕见同框](https://s.weibo.com/weibo?q=%23%E7%99%BD%E8%89%B2%E5%A4%A7%E7%86%8A%E7%8C%AB%E4%B8%8E%E5%A4%A7%E7%86%8A%E7%8C%AB%E7%BD%95%E8%A7%81%E5%90%8C%E6%A1%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [老舅 淘汰](https://s.weibo.com/weibo?q=%E8%80%81%E8%88%85%20%E6%B7%98%E6%B1%B0&t=31&band_rank=4&Refer=top)<br />
 5. [武汉财政局公开催债](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E8%B4%A2%E6%94%BF%E5%B1%80%E5%85%AC%E5%BC%80%E5%82%AC%E5%80%BA%23&t=31&band_rank=5&Refer=top)<br />
