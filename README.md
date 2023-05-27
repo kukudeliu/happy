@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 00:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 00:49:02</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [水电站突然放水 两名教师被卷走](https://www.baidu.com/s?wd=%E6%B0%B4%E7%94%B5%E7%AB%99%E7%AA%81%E7%84%B6%E6%94%BE%E6%B0%B4+%E4%B8%A4%E5%90%8D%E6%95%99%E5%B8%88%E8%A2%AB%E5%8D%B7%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男孩之死：再嫁的母亲与暴躁的继父](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E4%B9%8B%E6%AD%BB%EF%BC%9A%E5%86%8D%E5%AB%81%E7%9A%84%E6%AF%8D%E4%BA%B2%E4%B8%8E%E6%9A%B4%E8%BA%81%E7%9A%84%E7%BB%A7%E7%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [派出所爆炸现场曝光：部分建筑坍塌](https://www.baidu.com/s?wd=%E6%B4%BE%E5%87%BA%E6%89%80%E7%88%86%E7%82%B8%E7%8E%B0%E5%9C%BA%E6%9B%9D%E5%85%89%EF%BC%9A%E9%83%A8%E5%88%86%E5%BB%BA%E7%AD%91%E5%9D%8D%E5%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [浙江一无人岛挂牌拍卖](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E6%97%A0%E4%BA%BA%E5%B2%9B%E6%8C%82%E7%89%8C%E6%8B%8D%E5%8D%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [目击者讲述男童从26楼坠下生还](https://www.baidu.com/s?wd=%E7%9B%AE%E5%87%BB%E8%80%85%E8%AE%B2%E8%BF%B0%E7%94%B7%E7%AB%A5%E4%BB%8E26%E6%A5%BC%E5%9D%A0%E4%B8%8B%E7%94%9F%E8%BF%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [永久关闭6万多个自媒体账号](https://www.baidu.com/s?wd=%E6%B0%B8%E4%B9%85%E5%85%B3%E9%97%AD6%E4%B8%87%E5%A4%9A%E4%B8%AA%E8%87%AA%E5%AA%92%E4%BD%93%E8%B4%A6%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [校长被教育局长喊人打伤？警方通报](https://www.baidu.com/s?wd=%E6%A0%A1%E9%95%BF%E8%A2%AB%E6%95%99%E8%82%B2%E5%B1%80%E9%95%BF%E5%96%8A%E4%BA%BA%E6%89%93%E4%BC%A4%EF%BC%9F%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [水电站突然放水 两名教师被卷走](https://www.baidu.com/s?wd=%E6%B0%B4%E7%94%B5%E7%AB%99%E7%AA%81%E7%84%B6%E6%94%BE%E6%B0%B4+%E4%B8%A4%E5%90%8D%E6%95%99%E5%B8%88%E8%A2%AB%E5%8D%B7%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男孩之死：再嫁的母亲与暴躁的继父](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E4%B9%8B%E6%AD%BB%EF%BC%9A%E5%86%8D%E5%AB%81%E7%9A%84%E6%AF%8D%E4%BA%B2%E4%B8%8E%E6%9A%B4%E8%BA%81%E7%9A%84%E7%BB%A7%E7%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [派出所爆炸现场曝光：部分建筑坍塌](https://www.baidu.com/s?wd=%E6%B4%BE%E5%87%BA%E6%89%80%E7%88%86%E7%82%B8%E7%8E%B0%E5%9C%BA%E6%9B%9D%E5%85%89%EF%BC%9A%E9%83%A8%E5%88%86%E5%BB%BA%E7%AD%91%E5%9D%8D%E5%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [浙江一无人岛挂牌拍卖](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E6%97%A0%E4%BA%BA%E5%B2%9B%E6%8C%82%E7%89%8C%E6%8B%8D%E5%8D%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [目击者讲述男童从26楼坠下生还](https://www.baidu.com/s?wd=%E7%9B%AE%E5%87%BB%E8%80%85%E8%AE%B2%E8%BF%B0%E7%94%B7%E7%AB%A5%E4%BB%8E26%E6%A5%BC%E5%9D%A0%E4%B8%8B%E7%94%9F%E8%BF%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [永久关闭6万多个自媒体账号](https://www.baidu.com/s?wd=%E6%B0%B8%E4%B9%85%E5%85%B3%E9%97%AD6%E4%B8%87%E5%A4%9A%E4%B8%AA%E8%87%AA%E5%AA%92%E4%BD%93%E8%B4%A6%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [校长被教育局长喊人打伤？警方通报](https://www.baidu.com/s?wd=%E6%A0%A1%E9%95%BF%E8%A2%AB%E6%95%99%E8%82%B2%E5%B1%80%E9%95%BF%E5%96%8A%E4%BA%BA%E6%89%93%E4%BC%A4%EF%BC%9F%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
