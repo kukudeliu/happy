@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-27 21:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-27 21:01:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [非婚生育](https://s.weibo.com/weibo?q=%E9%9D%9E%E5%A9%9A%E7%94%9F%E8%82%B2&t=31&band_rank=4&Refer=top)<br />
 5. [虞书欣与甘比母女合影](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E4%B8%8E%E7%94%98%E6%AF%94%E6%AF%8D%E5%A5%B3%E5%90%88%E5%BD%B1%23&t=31&band_rank=5&Refer=top)<br />
 6. [张子枫 美人鱼](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%AD%90%E6%9E%AB%20%E7%BE%8E%E4%BA%BA%E9%B1%BC&t=31&band_rank=6&Refer=top)<br />
-7. [李玉刚 你们销量不好是有原因的](https://s.weibo.com/weibo?q=%E6%9D%8E%E7%8E%89%E5%88%9A%20%E4%BD%A0%E4%BB%AC%E9%94%80%E9%87%8F%E4%B8%8D%E5%A5%BD%E6%98%AF%E6%9C%89%E5%8E%9F%E5%9B%A0%E7%9A%84&t=31&band_rank=7&Refer=top)<br />
+7. [掉了](https://s.weibo.com/weibo?q=%E6%8E%89%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [南航](https://s.weibo.com/weibo?q=%E5%8D%97%E8%88%AA&t=31&band_rank=8&Refer=top)<br />
-9. [掉了](https://s.weibo.com/weibo?q=%E6%8E%89%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [李玉刚 你们销量不好是有原因的](https://s.weibo.com/weibo?q=%E6%9D%8E%E7%8E%89%E5%88%9A%20%E4%BD%A0%E4%BB%AC%E9%94%80%E9%87%8F%E4%B8%8D%E5%A5%BD%E6%98%AF%E6%9C%89%E5%8E%9F%E5%9B%A0%E7%9A%84&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [椰树椰汁模特团首次淘宝直播，未带货却带火同款背心短裤，反映了消费者怎样的消费心理？](https://www.zhihu.com/question/603161031)<br />
 7. [女童理发店内剪掉女顾客一大撮头发，其母赔一万多，如何看待此事？谁该为「熊孩子」的错误言行买单？](https://www.zhihu.com/question/603155943)<br />
 8. [C919 商业化首飞，这具有哪些意义？哪些信息值得关注?](https://www.zhihu.com/question/603314923)<br />
-9. []()<br />
+9. [为什么歌手唱歌，音高有微小偏移颤动，会觉得有感情好听，过准了反而怪异，有什么作曲理论可解释这点吗？](https://www.zhihu.com/question/510931489)<br />
 
 > 百度  
 
