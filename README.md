@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 07:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 07:49:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [拒绝董明珠3次的主播评孟羽童离职](https://www.baidu.com/s?wd=%E6%8B%92%E7%BB%9D%E8%91%A3%E6%98%8E%E7%8F%A03%E6%AC%A1%E7%9A%84%E4%B8%BB%E6%92%AD%E8%AF%84%E5%AD%9F%E7%BE%BD%E7%AB%A5%E7%A6%BB%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女团演唱会被扔上台的玩偶有摄像头](https://www.baidu.com/s?wd=%E5%A5%B3%E5%9B%A2%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E6%89%94%E4%B8%8A%E5%8F%B0%E7%9A%84%E7%8E%A9%E5%81%B6%E6%9C%89%E6%91%84%E5%83%8F%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [家人拉横幅欢迎闫啸天回家](https://www.baidu.com/s?wd=%E5%AE%B6%E4%BA%BA%E6%8B%89%E6%A8%AA%E5%B9%85%E6%AC%A2%E8%BF%8E%E9%97%AB%E5%95%B8%E5%A4%A9%E5%9B%9E%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [水电站突然放水 两名教师被卷走](https://www.baidu.com/s?wd=%E6%B0%B4%E7%94%B5%E7%AB%99%E7%AA%81%E7%84%B6%E6%94%BE%E6%B0%B4+%E4%B8%A4%E5%90%8D%E6%95%99%E5%B8%88%E8%A2%AB%E5%8D%B7%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男孩之死：再嫁的母亲与暴躁的继父](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E4%B9%8B%E6%AD%BB%EF%BC%9A%E5%86%8D%E5%AB%81%E7%9A%84%E6%AF%8D%E4%BA%B2%E4%B8%8E%E6%9A%B4%E8%BA%81%E7%9A%84%E7%BB%A7%E7%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [徐怀钰状态回来了](https://www.baidu.com/s?wd=%E5%BE%90%E6%80%80%E9%92%B0%E7%8A%B6%E6%80%81%E5%9B%9E%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [水电站突然放水 两名教师被卷走](https://www.baidu.com/s?wd=%E6%B0%B4%E7%94%B5%E7%AB%99%E7%AA%81%E7%84%B6%E6%94%BE%E6%B0%B4+%E4%B8%A4%E5%90%8D%E6%95%99%E5%B8%88%E8%A2%AB%E5%8D%B7%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [拒绝董明珠3次的主播评孟羽童离职](https://www.baidu.com/s?wd=%E6%8B%92%E7%BB%9D%E8%91%A3%E6%98%8E%E7%8F%A03%E6%AC%A1%E7%9A%84%E4%B8%BB%E6%92%AD%E8%AF%84%E5%AD%9F%E7%BE%BD%E7%AB%A5%E7%A6%BB%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女团演唱会被扔上台的玩偶有摄像头](https://www.baidu.com/s?wd=%E5%A5%B3%E5%9B%A2%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E6%89%94%E4%B8%8A%E5%8F%B0%E7%9A%84%E7%8E%A9%E5%81%B6%E6%9C%89%E6%91%84%E5%83%8F%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [家人拉横幅欢迎闫啸天回家](https://www.baidu.com/s?wd=%E5%AE%B6%E4%BA%BA%E6%8B%89%E6%A8%AA%E5%B9%85%E6%AC%A2%E8%BF%8E%E9%97%AB%E5%95%B8%E5%A4%A9%E5%9B%9E%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [水电站突然放水 两名教师被卷走](https://www.baidu.com/s?wd=%E6%B0%B4%E7%94%B5%E7%AB%99%E7%AA%81%E7%84%B6%E6%94%BE%E6%B0%B4+%E4%B8%A4%E5%90%8D%E6%95%99%E5%B8%88%E8%A2%AB%E5%8D%B7%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男孩之死：再嫁的母亲与暴躁的继父](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E4%B9%8B%E6%AD%BB%EF%BC%9A%E5%86%8D%E5%AB%81%E7%9A%84%E6%AF%8D%E4%BA%B2%E4%B8%8E%E6%9A%B4%E8%BA%81%E7%9A%84%E7%BB%A7%E7%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [徐怀钰状态回来了](https://www.baidu.com/s?wd=%E5%BE%90%E6%80%80%E9%92%B0%E7%8A%B6%E6%80%81%E5%9B%9E%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [水电站突然放水 两名教师被卷走](https://www.baidu.com/s?wd=%E6%B0%B4%E7%94%B5%E7%AB%99%E7%AA%81%E7%84%B6%E6%94%BE%E6%B0%B4+%E4%B8%A4%E5%90%8D%E6%95%99%E5%B8%88%E8%A2%AB%E5%8D%B7%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
