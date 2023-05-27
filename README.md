@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 00:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 00:13:02</h4></div>
 
 > 微博  
 
 1. [BLACKPINK演唱会被扔上台的玩偶有摄像头](https://s.weibo.com/weibo?q=%23BLACKPINK%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E6%89%94%E4%B8%8A%E5%8F%B0%E7%9A%84%E7%8E%A9%E5%81%B6%E6%9C%89%E6%91%84%E5%83%8F%E5%A4%B4%23&t=31&band_rank=1&Refer=top)<br />
-2. [孟子义回应迪幂孟扎称号](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E5%9B%9E%E5%BA%94%E8%BF%AA%E5%B9%82%E5%AD%9F%E6%89%8E%E7%A7%B0%E5%8F%B7%23&t=31&band_rank=2&Refer=top)<br />
+2. [假球](https://s.weibo.com/weibo?q=%E5%81%87%E7%90%83&t=31&band_rank=2&Refer=top)<br />
 3. [白色大熊猫与大熊猫罕见同框](https://s.weibo.com/weibo?q=%23%E7%99%BD%E8%89%B2%E5%A4%A7%E7%86%8A%E7%8C%AB%E4%B8%8E%E5%A4%A7%E7%86%8A%E7%8C%AB%E7%BD%95%E8%A7%81%E5%90%8C%E6%A1%86%23&t=31&band_rank=3&Refer=top)<br />
-4. [假球](https://s.weibo.com/weibo?q=%E5%81%87%E7%90%83&t=31&band_rank=4&Refer=top)<br />
+4. [孟子义回应迪幂孟扎称号](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E5%9B%9E%E5%BA%94%E8%BF%AA%E5%B9%82%E5%AD%9F%E6%89%8E%E7%A7%B0%E5%8F%B7%23&t=31&band_rank=4&Refer=top)<br />
 5. [老舅 淘汰](https://s.weibo.com/weibo?q=%E8%80%81%E8%88%85%20%E6%B7%98%E6%B1%B0&t=31&band_rank=5&Refer=top)<br />
 6. [小白恋爱脑](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%99%BD%E6%81%8B%E7%88%B1%E8%84%91%23&t=31&band_rank=6&Refer=top)<br />
 7. [武汉财政局公开催债](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E8%B4%A2%E6%94%BF%E5%B1%80%E5%85%AC%E5%BC%80%E5%82%AC%E5%80%BA%23&t=31&band_rank=7&Refer=top)<br />
@@ -19,8 +19,8 @@
 3. [山东舰航母编队 3 艘舰船，27 日午间通过台湾海峡，透露了哪些信号？](https://www.zhihu.com/question/603320386)<br />
 4. [女童理发店内剪掉女顾客一大撮头发，其母赔一万多，如何看待此事？谁该为「熊孩子」的错误言行买单？](https://www.zhihu.com/question/603155943)<br />
 5. [英伟达冲向万亿美元市值俱乐部，单日涨出「1.6 个英特尔」、「1 个中国石油」，哪些信息值得关注？](https://www.zhihu.com/question/603327119)<br />
-6. [姑娘喉咙疼患急性会厌炎，从就诊到去世仅十分钟，什么是急性会厌炎？哪些因素会诱发该疾病？](https://www.zhihu.com/question/603275623)<br />
-7. []()<br />
+6. []()<br />
+7. [姑娘喉咙疼患急性会厌炎，从就诊到去世仅十分钟，什么是急性会厌炎？哪些因素会诱发该疾病？](https://www.zhihu.com/question/603275623)<br />
 8. [国产率 60% 的 C919 正式投入商用，意味着什么？](https://www.zhihu.com/question/603289064)<br />
 9. [如何评价《塞尔达传说：王国之泪》中，塞尔达和四贤者明知盖农在地下却不告诉后代，导致海拉鲁王国覆灭？](https://www.zhihu.com/question/600944248)<br />
 
