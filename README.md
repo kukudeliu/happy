@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-27 11:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-27 11:15:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [张凌赫好惨一男的](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%A5%BD%E6%83%A8%E4%B8%80%E7%94%B7%E7%9A%84%23&t=31&band_rank=6&Refer=top)<br />
 7. [椰树 不带货纯擦](https://s.weibo.com/weibo?q=%E6%A4%B0%E6%A0%91%20%E4%B8%8D%E5%B8%A6%E8%B4%A7%E7%BA%AF%E6%93%A6&t=31&band_rank=7&Refer=top)<br />
 8. [美依礼芽的坐姿](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%BE%9D%E7%A4%BC%E8%8A%BD%E7%9A%84%E5%9D%90%E5%A7%BF%23&t=31&band_rank=8&Refer=top)<br />
-9. [五月天又放票了](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%E5%8F%88%E6%94%BE%E7%A5%A8%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [秋瓷炫南韩酒鬼人设](https://s.weibo.com/weibo?q=%23%E7%A7%8B%E7%93%B7%E7%82%AB%E5%8D%97%E9%9F%A9%E9%85%92%E9%AC%BC%E4%BA%BA%E8%AE%BE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
