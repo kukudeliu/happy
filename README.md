@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-27 13:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-27 13:28:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [一千多赞的朋友圈原来长这样](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%8D%83%E5%A4%9A%E8%B5%9E%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%8E%9F%E6%9D%A5%E9%95%BF%E8%BF%99%E6%A0%B7%23&t=31&band_rank=6&Refer=top)<br />
 7. [逃犯去看周杰伦演唱会路上被抓](https://s.weibo.com/weibo?q=%23%E9%80%83%E7%8A%AF%E5%8E%BB%E7%9C%8B%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E8%B7%AF%E4%B8%8A%E8%A2%AB%E6%8A%93%23&t=31&band_rank=7&Refer=top)<br />
 8. [Amber谢欣第一](https://s.weibo.com/weibo?q=%23Amber%E8%B0%A2%E6%AC%A3%E7%AC%AC%E4%B8%80%23&t=31&band_rank=8&Refer=top)<br />
-9. [迷迭香二公最佳](https://s.weibo.com/weibo?q=%E8%BF%B7%E8%BF%AD%E9%A6%99%E4%BA%8C%E5%85%AC%E6%9C%80%E4%BD%B3&t=31&band_rank=9&Refer=top)<br />
+9. [塞尔维亚](https://s.weibo.com/weibo?q=%23%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
