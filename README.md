@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-27 09:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-27 09:28:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [五月天又放票了](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%E5%8F%88%E6%94%BE%E7%A5%A8%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [河北一派出所烟花取样时发生爆炸](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8C%97%E4%B8%80%E6%B4%BE%E5%87%BA%E6%89%80%E7%83%9F%E8%8A%B1%E5%8F%96%E6%A0%B7%E6%97%B6%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%23&t=31&band_rank=7&Refer=top)<br />
 8. [韩方称要做好亚运会不公平待遇准备](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E6%96%B9%E7%A7%B0%E8%A6%81%E5%81%9A%E5%A5%BD%E4%BA%9A%E8%BF%90%E4%BC%9A%E4%B8%8D%E5%85%AC%E5%B9%B3%E5%BE%85%E9%81%87%E5%87%86%E5%A4%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [美依礼芽的坐姿](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%BE%9D%E7%A4%BC%E8%8A%BD%E7%9A%84%E5%9D%90%E5%A7%BF%23&t=31&band_rank=9&Refer=top)<br />
+9. [古人吃剩的螺蛳壳堆成一座山](https://s.weibo.com/weibo?q=%23%E5%8F%A4%E4%BA%BA%E5%90%83%E5%89%A9%E7%9A%84%E8%9E%BA%E8%9B%B3%E5%A3%B3%E5%A0%86%E6%88%90%E4%B8%80%E5%BA%A7%E5%B1%B1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
