@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-27 21:05:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-27 21:06:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [虞书欣与甘比母女合影](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E4%B8%8E%E7%94%98%E6%AF%94%E6%AF%8D%E5%A5%B3%E5%90%88%E5%BD%B1%23&t=31&band_rank=5&Refer=top)<br />
 6. [二阳是因为免疫力到期了吗](https://s.weibo.com/weibo?q=%23%E4%BA%8C%E9%98%B3%E6%98%AF%E5%9B%A0%E4%B8%BA%E5%85%8D%E7%96%AB%E5%8A%9B%E5%88%B0%E6%9C%9F%E4%BA%86%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [掉了](https://s.weibo.com/weibo?q=%E6%8E%89%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
-8. [李玉刚 你们销量不好是有原因的](https://s.weibo.com/weibo?q=%E6%9D%8E%E7%8E%89%E5%88%9A%20%E4%BD%A0%E4%BB%AC%E9%94%80%E9%87%8F%E4%B8%8D%E5%A5%BD%E6%98%AF%E6%9C%89%E5%8E%9F%E5%9B%A0%E7%9A%84&t=31&band_rank=8&Refer=top)<br />
+8. [德国男子连做3次断骨增高至1米9](https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%9B%BD%E7%94%B7%E5%AD%90%E8%BF%9E%E5%81%9A3%E6%AC%A1%E6%96%AD%E9%AA%A8%E5%A2%9E%E9%AB%98%E8%87%B31%E7%B1%B39%23&t=31&band_rank=8&Refer=top)<br />
 9. [南航](https://s.weibo.com/weibo?q=%E5%8D%97%E8%88%AA&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
