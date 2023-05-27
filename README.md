@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 06:04:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 06:05:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [国产率 60% 的 C919 正式投入商用，意味着什么？](https://www.zhihu.com/question/603289064)<br />
 7. [椰树椰汁模特团首次淘宝直播，未带货却带火同款背心短裤，反映了消费者怎样的消费心理？](https://www.zhihu.com/question/603161031)<br />
 8. []()<br />
-9. [22-23 赛季德甲拜仁 2:1 绝杀科隆夺冠，末轮逆转多特实现 11 连冠，如何评价这场比赛？](https://www.zhihu.com/question/603380639)<br />
+9. [LCK 赛区是怎么从当初上单强人辈出到如今 Doran 也能称王的？](https://www.zhihu.com/question/602121980)<br />
 
 > 百度  
 
