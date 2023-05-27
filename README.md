@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-27 18:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-27 18:42:01</h4></div>
 
 > 微博  
 
@@ -31,9 +31,9 @@
 3. [香港公民党宣布解散](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%85%AC%E6%B0%91%E5%85%9A%E5%AE%A3%E5%B8%83%E8%A7%A3%E6%95%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [2023中关村论坛如何推动合作与共享](https://www.baidu.com/s?wd=2023%E4%B8%AD%E5%85%B3%E6%9D%91%E8%AE%BA%E5%9D%9B%E5%A6%82%E4%BD%95%E6%8E%A8%E5%8A%A8%E5%90%88%E4%BD%9C%E4%B8%8E%E5%85%B1%E4%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [南航回应旅客新加坡乘机被骂是狗](https://www.baidu.com/s?wd=%E5%8D%97%E8%88%AA%E5%9B%9E%E5%BA%94%E6%97%85%E5%AE%A2%E6%96%B0%E5%8A%A0%E5%9D%A1%E4%B9%98%E6%9C%BA%E8%A2%AB%E9%AA%82%E6%98%AF%E7%8B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [古人吃剩的螺蛳壳堆成一座山](https://www.baidu.com/s?wd=%E5%8F%A4%E4%BA%BA%E5%90%83%E5%89%A9%E7%9A%84%E8%9E%BA%E8%9B%B3%E5%A3%B3%E5%A0%86%E6%88%90%E4%B8%80%E5%BA%A7%E5%B1%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [李玉刚四美图被认成回美国](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%89%E5%88%9A%E5%9B%9B%E7%BE%8E%E5%9B%BE%E8%A2%AB%E8%AE%A4%E6%88%90%E5%9B%9E%E7%BE%8E%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [反派“高启强”有没有资格得奖？](https://www.baidu.com/s?wd=%E5%8F%8D%E6%B4%BE%E2%80%9C%E9%AB%98%E5%90%AF%E5%BC%BA%E2%80%9D%E6%9C%89%E6%B2%A1%E6%9C%89%E8%B5%84%E6%A0%BC%E5%BE%97%E5%A5%96%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [多人称被苹果充电头电伤](https://www.baidu.com/s?wd=%E5%A4%9A%E4%BA%BA%E7%A7%B0%E8%A2%AB%E8%8B%B9%E6%9E%9C%E5%85%85%E7%94%B5%E5%A4%B4%E7%94%B5%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [古人吃剩的螺蛳壳堆成一座山](https://www.baidu.com/s?wd=%E5%8F%A4%E4%BA%BA%E5%90%83%E5%89%A9%E7%9A%84%E8%9E%BA%E8%9B%B3%E5%A3%B3%E5%A0%86%E6%88%90%E4%B8%80%E5%BA%A7%E5%B1%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [农残标准上调25倍 还能放心吃韭菜吗](https://www.baidu.com/s?wd=%E5%86%9C%E6%AE%8B%E6%A0%87%E5%87%86%E4%B8%8A%E8%B0%8325%E5%80%8D+%E8%BF%98%E8%83%BD%E6%94%BE%E5%BF%83%E5%90%83%E9%9F%AD%E8%8F%9C%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [武契奇下令军队开拔 会否引发战争？](https://www.baidu.com/s?wd=%E6%AD%A6%E5%A5%91%E5%A5%87%E4%B8%8B%E4%BB%A4%E5%86%9B%E9%98%9F%E5%BC%80%E6%8B%94+%E4%BC%9A%E5%90%A6%E5%BC%95%E5%8F%91%E6%88%98%E4%BA%89%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -43,7 +43,7 @@
 3. [香港公民党宣布解散](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%85%AC%E6%B0%91%E5%85%9A%E5%AE%A3%E5%B8%83%E8%A7%A3%E6%95%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [2023中关村论坛如何推动合作与共享](https://www.baidu.com/s?wd=2023%E4%B8%AD%E5%85%B3%E6%9D%91%E8%AE%BA%E5%9D%9B%E5%A6%82%E4%BD%95%E6%8E%A8%E5%8A%A8%E5%90%88%E4%BD%9C%E4%B8%8E%E5%85%B1%E4%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [南航回应旅客新加坡乘机被骂是狗](https://www.baidu.com/s?wd=%E5%8D%97%E8%88%AA%E5%9B%9E%E5%BA%94%E6%97%85%E5%AE%A2%E6%96%B0%E5%8A%A0%E5%9D%A1%E4%B9%98%E6%9C%BA%E8%A2%AB%E9%AA%82%E6%98%AF%E7%8B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [古人吃剩的螺蛳壳堆成一座山](https://www.baidu.com/s?wd=%E5%8F%A4%E4%BA%BA%E5%90%83%E5%89%A9%E7%9A%84%E8%9E%BA%E8%9B%B3%E5%A3%B3%E5%A0%86%E6%88%90%E4%B8%80%E5%BA%A7%E5%B1%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [李玉刚四美图被认成回美国](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%89%E5%88%9A%E5%9B%9B%E7%BE%8E%E5%9B%BE%E8%A2%AB%E8%AE%A4%E6%88%90%E5%9B%9E%E7%BE%8E%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [反派“高启强”有没有资格得奖？](https://www.baidu.com/s?wd=%E5%8F%8D%E6%B4%BE%E2%80%9C%E9%AB%98%E5%90%AF%E5%BC%BA%E2%80%9D%E6%9C%89%E6%B2%A1%E6%9C%89%E8%B5%84%E6%A0%BC%E5%BE%97%E5%A5%96%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [多人称被苹果充电头电伤](https://www.baidu.com/s?wd=%E5%A4%9A%E4%BA%BA%E7%A7%B0%E8%A2%AB%E8%8B%B9%E6%9E%9C%E5%85%85%E7%94%B5%E5%A4%B4%E7%94%B5%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [古人吃剩的螺蛳壳堆成一座山](https://www.baidu.com/s?wd=%E5%8F%A4%E4%BA%BA%E5%90%83%E5%89%A9%E7%9A%84%E8%9E%BA%E8%9B%B3%E5%A3%B3%E5%A0%86%E6%88%90%E4%B8%80%E5%BA%A7%E5%B1%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [农残标准上调25倍 还能放心吃韭菜吗](https://www.baidu.com/s?wd=%E5%86%9C%E6%AE%8B%E6%A0%87%E5%87%86%E4%B8%8A%E8%B0%8325%E5%80%8D+%E8%BF%98%E8%83%BD%E6%94%BE%E5%BF%83%E5%90%83%E9%9F%AD%E8%8F%9C%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [武契奇下令军队开拔 会否引发战争？](https://www.baidu.com/s?wd=%E6%AD%A6%E5%A5%91%E5%A5%87%E4%B8%8B%E4%BB%A4%E5%86%9B%E9%98%9F%E5%BC%80%E6%8B%94+%E4%BC%9A%E5%90%A6%E5%BC%95%E5%8F%91%E6%88%98%E4%BA%89%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
