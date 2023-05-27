@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 03:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 03:51:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [孟子义回应迪幂孟扎称号](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E5%9B%9E%E5%BA%94%E8%BF%AA%E5%B9%82%E5%AD%9F%E6%89%8E%E7%A7%B0%E5%8F%B7%23&t=31&band_rank=6&Refer=top)<br />
 7. [武汉财政局公开催债](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E8%B4%A2%E6%94%BF%E5%B1%80%E5%85%AC%E5%BC%80%E5%82%AC%E5%80%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [老舅 淘汰](https://s.weibo.com/weibo?q=%E8%80%81%E8%88%85%20%E6%B7%98%E6%B1%B0&t=31&band_rank=8&Refer=top)<br />
-9. [赵露思鞠婧祎直播状态](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E9%9E%A0%E5%A9%A7%E7%A5%8E%E7%9B%B4%E6%92%AD%E7%8A%B6%E6%80%81%23&t=31&band_rank=9&Refer=top)<br />
+9. [小白恋爱脑](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%99%BD%E6%81%8B%E7%88%B1%E8%84%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
