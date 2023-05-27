@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-27 13:06:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-27 13:07:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [鹿晗 抢票](https://s.weibo.com/weibo?q=%E9%B9%BF%E6%99%97%20%E6%8A%A2%E7%A5%A8&t=31&band_rank=6&Refer=top)<br />
 7. [古人吃剩的螺蛳壳堆成一座山](https://s.weibo.com/weibo?q=%23%E5%8F%A4%E4%BA%BA%E5%90%83%E5%89%A9%E7%9A%84%E8%9E%BA%E8%9B%B3%E5%A3%B3%E5%A0%86%E6%88%90%E4%B8%80%E5%BA%A7%E5%B1%B1%23&t=31&band_rank=7&Refer=top)<br />
 8. [一千多赞的朋友圈原来长这样](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%8D%83%E5%A4%9A%E8%B5%9E%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%8E%9F%E6%9D%A5%E9%95%BF%E8%BF%99%E6%A0%B7%23&t=31&band_rank=8&Refer=top)<br />
-9. [美依礼芽的坐姿](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%BE%9D%E7%A4%BC%E8%8A%BD%E7%9A%84%E5%9D%90%E5%A7%BF%23&t=31&band_rank=9&Refer=top)<br />
+9. [Amber谢欣第一](https://s.weibo.com/weibo?q=%23Amber%E8%B0%A2%E6%AC%A3%E7%AC%AC%E4%B8%80%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
