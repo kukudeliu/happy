@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-27 19:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-27 19:21:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [9岁男孩失踪13年尸骨现身山林地缝](https://s.weibo.com/weibo?q=%239%E5%B2%81%E7%94%B7%E5%AD%A9%E5%A4%B1%E8%B8%AA13%E5%B9%B4%E5%B0%B8%E9%AA%A8%E7%8E%B0%E8%BA%AB%E5%B1%B1%E6%9E%97%E5%9C%B0%E7%BC%9D%23&t=31&band_rank=6&Refer=top)<br />
 7. [大熊猫丫丫即将结束隔离](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E4%B8%AB%E4%B8%AB%E5%8D%B3%E5%B0%86%E7%BB%93%E6%9D%9F%E9%9A%94%E7%A6%BB%23&t=31&band_rank=7&Refer=top)<br />
 8. [李玉刚 你们销量不好是有原因的](https://s.weibo.com/weibo?q=%E6%9D%8E%E7%8E%89%E5%88%9A%20%E4%BD%A0%E4%BB%AC%E9%94%80%E9%87%8F%E4%B8%8D%E5%A5%BD%E6%98%AF%E6%9C%89%E5%8E%9F%E5%9B%A0%E7%9A%84&t=31&band_rank=8&Refer=top)<br />
-9. [重庆市在TikTok上成功出圈](https://s.weibo.com/weibo?q=%E9%87%8D%E5%BA%86%E5%B8%82%E5%9C%A8TikTok%E4%B8%8A%E6%88%90%E5%8A%9F%E5%87%BA%E5%9C%88&t=31&band_rank=9&Refer=top)<br />
+9. [那英唱掉了全程开大](https://s.weibo.com/weibo?q=%23%E9%82%A3%E8%8B%B1%E5%94%B1%E6%8E%89%E4%BA%86%E5%85%A8%E7%A8%8B%E5%BC%80%E5%A4%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
