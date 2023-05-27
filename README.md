@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 03:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 03:31:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [女童理发店内剪掉女顾客一大撮头发，其母赔一万多，如何看待此事？谁该为「熊孩子」的错误言行买单？](https://www.zhihu.com/question/603155943)<br />
 6. [英伟达冲向万亿美元市值俱乐部，单日涨出「1.6 个英特尔」、「1 个中国石油」，哪些信息值得关注？](https://www.zhihu.com/question/603327119)<br />
 7. [国产率 60% 的 C919 正式投入商用，意味着什么？](https://www.zhihu.com/question/603289064)<br />
-8. []()<br />
-9. [LCK 赛区是怎么从当初上单强人辈出到如今 Doran 也能称王的？](https://www.zhihu.com/question/602121980)<br />
+8. [LCK 赛区是怎么从当初上单强人辈出到如今 Doran 也能称王的？](https://www.zhihu.com/question/602121980)<br />
+9. [22-23 赛季德甲拜仁 2:1 绝杀科隆夺冠，末轮逆转多特实现 11 连冠，如何评价这场比赛？](https://www.zhihu.com/question/603380639)<br />
 
 > 百度  
 
