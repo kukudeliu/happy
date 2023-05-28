@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 22:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 22:43:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [哪些行为最伤汽车发动机？](https://www.zhihu.com/question/549794480)<br />
 6. [近期国内「二阳」患者有所增加，专家称「二阳」症状普遍更轻，当前疫情形势如何？怎样科学应对「二阳」风险？](https://www.zhihu.com/question/603498072)<br />
 7. [水电站放水致教师被卷走溺亡，家属称「被学校指派迎上级检查」，官方回应「系个人行为」，真实情况如何？](https://www.zhihu.com/question/603479264)<br />
-8. [反中乱港组织香港公民党宣布解散，哪些信息值得关注？](https://www.zhihu.com/question/603330804)<br />
-9. [吕布为什么杀丁原？](https://www.zhihu.com/question/603439674)<br />
+8. [如何看待华为 P60 系列降价 1000 元？](https://www.zhihu.com/question/603098372)<br />
+9. [反中乱港组织香港公民党宣布解散，哪些信息值得关注？](https://www.zhihu.com/question/603330804)<br />
 
 > 百度  
 
