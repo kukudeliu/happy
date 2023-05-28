@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 10:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 10:28:01</h4></div>
 
 > 微博  
 
@@ -17,8 +17,8 @@
 1. [「数十万人」雨中集结听武契奇发表「告别演讲」，武契奇为何辞去执政党党主席一职？塞国内政局将如何发展？](https://www.zhihu.com/question/603283312)<br />
 2. [国产率 60% 的 C919 正式投入商用，意味着什么？](https://www.zhihu.com/question/603289064)<br />
 3. [英伟达冲向万亿美元市值俱乐部，单日涨出「1.6 个英特尔」、「1 个中国石油」，哪些信息值得关注？](https://www.zhihu.com/question/603327119)<br />
-4. [山东舰航母编队 3 艘舰船，27 日午间通过台湾海峡，透露了哪些信号？](https://www.zhihu.com/question/603320386)<br />
-5. [为什么好多研究生都不愿意继续读博士了？](https://www.zhihu.com/question/575717530)<br />
+4. [为什么好多研究生都不愿意继续读博士了？](https://www.zhihu.com/question/575717530)<br />
+5. [山东舰航母编队 3 艘舰船，27 日午间通过台湾海峡，透露了哪些信号？](https://www.zhihu.com/question/603320386)<br />
 6. [报道称美国白宫和共和党达成债务上限协议，这意味着什么？哪些信息值得关注？](https://www.zhihu.com/question/603453790)<br />
 7. [公务员上岸已公示，但有了考研想法，要不要申请取消录用去考研?](https://www.zhihu.com/question/602976700)<br />
 8. [相关调查表明性侵有 85% 是熟人作案 ，为什么熟人性侵高发？如何防范？](https://www.zhihu.com/question/598215313)<br />
