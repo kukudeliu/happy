@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 08:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 08:14:01</h4></div>
 
 > 微博  
 
@@ -27,23 +27,23 @@
 > 百度  
 
 1. [“千万工程”塑造美丽乡村](https://www.baidu.com/s?wd=%E2%80%9C%E5%8D%83%E4%B8%87%E5%B7%A5%E7%A8%8B%E2%80%9D%E5%A1%91%E9%80%A0%E7%BE%8E%E4%B8%BD%E4%B9%A1%E6%9D%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [马斯克回应多年前嘲笑比亚迪](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%9B%9E%E5%BA%94%E5%A4%9A%E5%B9%B4%E5%89%8D%E5%98%B2%E7%AC%91%E6%AF%94%E4%BA%9A%E8%BF%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [国产大飞机C919商业首飞](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E9%A3%9E%E6%9C%BAC919%E5%95%86%E4%B8%9A%E9%A6%96%E9%A3%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [高考倒计时10天](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E5%80%92%E8%AE%A1%E6%97%B610%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [永不止步 勇攀新高](https://www.baidu.com/s?wd=%E6%B0%B8%E4%B8%8D%E6%AD%A2%E6%AD%A5+%E5%8B%87%E6%94%80%E6%96%B0%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [拒绝董明珠3次的主播评孟羽童离职](https://www.baidu.com/s?wd=%E6%8B%92%E7%BB%9D%E8%91%A3%E6%98%8E%E7%8F%A03%E6%AC%A1%E7%9A%84%E4%B8%BB%E6%92%AD%E8%AF%84%E5%AD%9F%E7%BE%BD%E7%AB%A5%E7%A6%BB%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女团演唱会被扔上台的玩偶有摄像头](https://www.baidu.com/s?wd=%E5%A5%B3%E5%9B%A2%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E6%89%94%E4%B8%8A%E5%8F%B0%E7%9A%84%E7%8E%A9%E5%81%B6%E6%9C%89%E6%91%84%E5%83%8F%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [家人拉横幅欢迎闫啸天回家](https://www.baidu.com/s?wd=%E5%AE%B6%E4%BA%BA%E6%8B%89%E6%A8%AA%E5%B9%85%E6%AC%A2%E8%BF%8E%E9%97%AB%E5%95%B8%E5%A4%A9%E5%9B%9E%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [水电站突然放水 两名教师被卷走](https://www.baidu.com/s?wd=%E6%B0%B4%E7%94%B5%E7%AB%99%E7%AA%81%E7%84%B6%E6%94%BE%E6%B0%B4+%E4%B8%A4%E5%90%8D%E6%95%99%E5%B8%88%E8%A2%AB%E5%8D%B7%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [吴京回应张译华表奖封帝](https://www.baidu.com/s?wd=%E5%90%B4%E4%BA%AC%E5%9B%9E%E5%BA%94%E5%BC%A0%E8%AF%91%E5%8D%8E%E8%A1%A8%E5%A5%96%E5%B0%81%E5%B8%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [武契奇宣布辞去执政党主席职务](https://www.baidu.com/s?wd=%E6%AD%A6%E5%A5%91%E5%A5%87%E5%AE%A3%E5%B8%83%E8%BE%9E%E5%8E%BB%E6%89%A7%E6%94%BF%E5%85%9A%E4%B8%BB%E5%B8%AD%E8%81%8C%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [水电站突然放水 两名教师被卷走](https://www.baidu.com/s?wd=%E6%B0%B4%E7%94%B5%E7%AB%99%E7%AA%81%E7%84%B6%E6%94%BE%E6%B0%B4+%E4%B8%A4%E5%90%8D%E6%95%99%E5%B8%88%E8%A2%AB%E5%8D%B7%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [“千万工程”塑造美丽乡村](https://www.baidu.com/s?wd=%E2%80%9C%E5%8D%83%E4%B8%87%E5%B7%A5%E7%A8%8B%E2%80%9D%E5%A1%91%E9%80%A0%E7%BE%8E%E4%B8%BD%E4%B9%A1%E6%9D%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [马斯克回应多年前嘲笑比亚迪](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%9B%9E%E5%BA%94%E5%A4%9A%E5%B9%B4%E5%89%8D%E5%98%B2%E7%AC%91%E6%AF%94%E4%BA%9A%E8%BF%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [国产大飞机C919商业首飞](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E9%A3%9E%E6%9C%BAC919%E5%95%86%E4%B8%9A%E9%A6%96%E9%A3%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [高考倒计时10天](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E5%80%92%E8%AE%A1%E6%97%B610%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [永不止步 勇攀新高](https://www.baidu.com/s?wd=%E6%B0%B8%E4%B8%8D%E6%AD%A2%E6%AD%A5+%E5%8B%87%E6%94%80%E6%96%B0%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [拒绝董明珠3次的主播评孟羽童离职](https://www.baidu.com/s?wd=%E6%8B%92%E7%BB%9D%E8%91%A3%E6%98%8E%E7%8F%A03%E6%AC%A1%E7%9A%84%E4%B8%BB%E6%92%AD%E8%AF%84%E5%AD%9F%E7%BE%BD%E7%AB%A5%E7%A6%BB%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女团演唱会被扔上台的玩偶有摄像头](https://www.baidu.com/s?wd=%E5%A5%B3%E5%9B%A2%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E6%89%94%E4%B8%8A%E5%8F%B0%E7%9A%84%E7%8E%A9%E5%81%B6%E6%9C%89%E6%91%84%E5%83%8F%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [家人拉横幅欢迎闫啸天回家](https://www.baidu.com/s?wd=%E5%AE%B6%E4%BA%BA%E6%8B%89%E6%A8%AA%E5%B9%85%E6%AC%A2%E8%BF%8E%E9%97%AB%E5%95%B8%E5%A4%A9%E5%9B%9E%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [水电站突然放水 两名教师被卷走](https://www.baidu.com/s?wd=%E6%B0%B4%E7%94%B5%E7%AB%99%E7%AA%81%E7%84%B6%E6%94%BE%E6%B0%B4+%E4%B8%A4%E5%90%8D%E6%95%99%E5%B8%88%E8%A2%AB%E5%8D%B7%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [吴京回应张译华表奖封帝](https://www.baidu.com/s?wd=%E5%90%B4%E4%BA%AC%E5%9B%9E%E5%BA%94%E5%BC%A0%E8%AF%91%E5%8D%8E%E8%A1%A8%E5%A5%96%E5%B0%81%E5%B8%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [武契奇宣布辞去执政党主席职务](https://www.baidu.com/s?wd=%E6%AD%A6%E5%A5%91%E5%A5%87%E5%AE%A3%E5%B8%83%E8%BE%9E%E5%8E%BB%E6%89%A7%E6%94%BF%E5%85%9A%E4%B8%BB%E5%B8%AD%E8%81%8C%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [水电站突然放水 两名教师被卷走](https://www.baidu.com/s?wd=%E6%B0%B4%E7%94%B5%E7%AB%99%E7%AA%81%E7%84%B6%E6%94%BE%E6%B0%B4+%E4%B8%A4%E5%90%8D%E6%95%99%E5%B8%88%E8%A2%AB%E5%8D%B7%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
