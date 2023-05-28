@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 19:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 19:10:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [修真玄幻小说中一个超级宗门的底蕴都体现在哪些方面？](https://www.zhihu.com/question/602539766)<br />
 6. [韩国一客机降落前舱门被打开，9 名乘客被送医，1 名乘客被逮捕，涉事乘客将承担哪些责任？](https://www.zhihu.com/question/603142998)<br />
 7. [《王者荣耀》后期的马瑶组合应该怎么反制？](https://www.zhihu.com/question/602741079)<br />
-8. [当有人对程序猿说「给我装个系统呗」为什么他们会生气？](https://www.zhihu.com/question/600082606)<br />
-9. [《原神》自须弥开始，对女性角色的设计是否有在走下坡路？](https://www.zhihu.com/question/596242382)<br />
+8. [《原神》自须弥开始，对女性角色的设计是否有在走下坡路？](https://www.zhihu.com/question/596242382)<br />
+9. []()<br />
 
 > 百度  
 
