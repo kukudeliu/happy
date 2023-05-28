@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 11:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 11:28:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [巴特勒怎么了](https://s.weibo.com/weibo?q=%E5%B7%B4%E7%89%B9%E5%8B%92%E6%80%8E%E4%B9%88%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [看迪丽热巴眼神不用审就招了](https://s.weibo.com/weibo?q=%23%E7%9C%8B%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9C%BC%E7%A5%9E%E4%B8%8D%E7%94%A8%E5%AE%A1%E5%B0%B1%E6%8B%9B%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [戛纳最佳着装](https://s.weibo.com/weibo?q=%E6%88%9B%E7%BA%B3%E6%9C%80%E4%BD%B3%E7%9D%80%E8%A3%85&t=31&band_rank=8&Refer=top)<br />
-9. [凯尔特人vs热火](https://s.weibo.com/weibo?q=%23%E5%87%AF%E5%B0%94%E7%89%B9%E4%BA%BAvs%E7%83%AD%E7%81%AB%23&t=31&band_rank=9&Refer=top)<br />
+9. [怀特绝杀](https://s.weibo.com/weibo?q=%23%E6%80%80%E7%89%B9%E7%BB%9D%E6%9D%80%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [公务员上岸已公示，但有了考研想法，要不要申请取消录用去考研?](https://www.zhihu.com/question/602976700)<br />
 7. [相关调查表明性侵有 85% 是熟人作案 ，为什么熟人性侵高发？如何防范？](https://www.zhihu.com/question/598215313)<br />
 8. [真的存在奠柏这种可以食人的树吗？](https://www.zhihu.com/question/30746016)<br />
-9. [英伟达冲向万亿美元市值俱乐部，单日涨出「1.6 个英特尔」、「1 个中国石油」，哪些信息值得关注？](https://www.zhihu.com/question/603327119)<br />
+9. [《西游记》里老龟因唐僧没帮他问寿命，把师徒四人弄下河，谁对谁错？](https://www.zhihu.com/question/602287339)<br />
 
 > 百度  
 
