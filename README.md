@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 14:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 14:40:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [Lisa不发比基尼照的原因](https://s.weibo.com/weibo?q=%23Lisa%E4%B8%8D%E5%8F%91%E6%AF%94%E5%9F%BA%E5%B0%BC%E7%85%A7%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=5&Refer=top)<br />
 6. [苏炳添二胎得子](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%82%B3%E6%B7%BB%E4%BA%8C%E8%83%8E%E5%BE%97%E5%AD%90%23&t=31&band_rank=6&Refer=top)<br />
 7. [从26楼撑伞跳下男童生命体征平稳](https://s.weibo.com/weibo?q=%23%E4%BB%8E26%E6%A5%BC%E6%92%91%E4%BC%9E%E8%B7%B3%E4%B8%8B%E7%94%B7%E7%AB%A5%E7%94%9F%E5%91%BD%E4%BD%93%E5%BE%81%E5%B9%B3%E7%A8%B3%23&t=31&band_rank=7&Refer=top)<br />
-8. [中国人终于要坐上国产大飞机](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%BB%88%E4%BA%8E%E8%A6%81%E5%9D%90%E4%B8%8A%E5%9B%BD%E4%BA%A7%E5%A4%A7%E9%A3%9E%E6%9C%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [女子乘坐重庆网红电梯不慎摔倒滚落](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B9%98%E5%9D%90%E9%87%8D%E5%BA%86%E7%BD%91%E7%BA%A2%E7%94%B5%E6%A2%AF%E4%B8%8D%E6%85%8E%E6%91%94%E5%80%92%E6%BB%9A%E8%90%BD%23&t=31&band_rank=9&Refer=top)<br />
+8. [女子乘坐重庆网红电梯不慎摔倒滚落](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B9%98%E5%9D%90%E9%87%8D%E5%BA%86%E7%BD%91%E7%BA%A2%E7%94%B5%E6%A2%AF%E4%B8%8D%E6%85%8E%E6%91%94%E5%80%92%E6%BB%9A%E8%90%BD%23&t=31&band_rank=8&Refer=top)<br />
+9. [中国人终于要坐上国产大飞机](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%BB%88%E4%BA%8E%E8%A6%81%E5%9D%90%E4%B8%8A%E5%9B%BD%E4%BA%A7%E5%A4%A7%E9%A3%9E%E6%9C%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
