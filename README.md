@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 18:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 18:25:01</h4></div>
 
 > 微博  
 
@@ -20,8 +20,8 @@
 4. [武汉财政局公开催债，涉及 259 家债务单位，总额超过 1 亿元，如何看待此事？会有哪些影响？](https://www.zhihu.com/question/603411942)<br />
 5. [答辩你能只答不辩吗？](https://www.zhihu.com/question/602700479)<br />
 6. [五角大楼称已提出中美防长会面请求，但中方至今未回复，释放了哪些信号？美方为何频频寻求与中方对话？](https://www.zhihu.com/question/603327489)<br />
-7. [当有人对程序猿说「给我装个系统呗」为什么他们会生气？](https://www.zhihu.com/question/600082606)<br />
-8. [如何看待热火凯尔特人三比三打平？](https://www.zhihu.com/question/603465676)<br />
+7. [如何看待热火凯尔特人三比三打平？](https://www.zhihu.com/question/603465676)<br />
+8. [当有人对程序猿说「给我装个系统呗」为什么他们会生气？](https://www.zhihu.com/question/600082606)<br />
 9. [美国选择提升债务上限，会对中国在内的债权国造成哪些影响？世界金融市场会被波及吗？](https://www.zhihu.com/question/602982084)<br />
 
 > 百度  
