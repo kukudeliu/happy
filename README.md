@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 18:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 18:23:01</h4></div>
 
 > 微博  
 
@@ -18,11 +18,11 @@
 2. [「数十万人」雨中集结听武契奇发表「告别演讲」，武契奇为何辞去执政党党主席一职？塞国内政局将如何发展？](https://www.zhihu.com/question/603283312)<br />
 3. [反中乱港组织香港公民党宣布解散，哪些信息值得关注？](https://www.zhihu.com/question/603330804)<br />
 4. [武汉财政局公开催债，涉及 259 家债务单位，总额超过 1 亿元，如何看待此事？会有哪些影响？](https://www.zhihu.com/question/603411942)<br />
-5. [当有人对程序猿说「给我装个系统呗」为什么他们会生气？](https://www.zhihu.com/question/600082606)<br />
-6. [答辩你能只答不辩吗？](https://www.zhihu.com/question/602700479)<br />
-7. [五角大楼称已提出中美防长会面请求，但中方至今未回复，释放了哪些信号？美方为何频频寻求与中方对话？](https://www.zhihu.com/question/603327489)<br />
+5. [答辩你能只答不辩吗？](https://www.zhihu.com/question/602700479)<br />
+6. [五角大楼称已提出中美防长会面请求，但中方至今未回复，释放了哪些信号？美方为何频频寻求与中方对话？](https://www.zhihu.com/question/603327489)<br />
+7. [当有人对程序猿说「给我装个系统呗」为什么他们会生气？](https://www.zhihu.com/question/600082606)<br />
 8. [如何看待热火凯尔特人三比三打平？](https://www.zhihu.com/question/603465676)<br />
-9. [三极管到底放大什么东西呀？](https://www.zhihu.com/question/600754019)<br />
+9. [美国选择提升债务上限，会对中国在内的债权国造成哪些影响？世界金融市场会被波及吗？](https://www.zhihu.com/question/602982084)<br />
 
 > 百度  
 
