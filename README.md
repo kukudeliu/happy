@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 10:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 10:37:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [2教师疑为迎接领导捡鹅卵石溺亡](https://www.baidu.com/s?wd=2%E6%95%99%E5%B8%88%E7%96%91%E4%B8%BA%E8%BF%8E%E6%8E%A5%E9%A2%86%E5%AF%BC%E6%8D%A1%E9%B9%85%E5%8D%B5%E7%9F%B3%E6%BA%BA%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [从26楼撑伞跳下男童生命体征平稳](https://www.baidu.com/s?wd=%E4%BB%8E26%E6%A5%BC%E6%92%91%E4%BC%9E%E8%B7%B3%E4%B8%8B%E7%94%B7%E7%AB%A5%E7%94%9F%E5%91%BD%E4%BD%93%E5%BE%81%E5%B9%B3%E7%A8%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [日本6月起禁止出售或放生小龙虾](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC6%E6%9C%88%E8%B5%B7%E7%A6%81%E6%AD%A2%E5%87%BA%E5%94%AE%E6%88%96%E6%94%BE%E7%94%9F%E5%B0%8F%E9%BE%99%E8%99%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [7省市将现大到暴雨](https://www.baidu.com/s?wd=7%E7%9C%81%E5%B8%82%E5%B0%86%E7%8E%B0%E5%A4%A7%E5%88%B0%E6%9A%B4%E9%9B%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [大学生网购零食放虫子敲诈40多次](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%BD%91%E8%B4%AD%E9%9B%B6%E9%A3%9F%E6%94%BE%E8%99%AB%E5%AD%90%E6%95%B2%E8%AF%8840%E5%A4%9A%E6%AC%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [2教师疑为迎接领导捡鹅卵石溺亡](https://www.baidu.com/s?wd=2%E6%95%99%E5%B8%88%E7%96%91%E4%B8%BA%E8%BF%8E%E6%8E%A5%E9%A2%86%E5%AF%BC%E6%8D%A1%E9%B9%85%E5%8D%B5%E7%9F%B3%E6%BA%BA%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [从26楼撑伞跳下男童生命体征平稳](https://www.baidu.com/s?wd=%E4%BB%8E26%E6%A5%BC%E6%92%91%E4%BC%9E%E8%B7%B3%E4%B8%8B%E7%94%B7%E7%AB%A5%E7%94%9F%E5%91%BD%E4%BD%93%E5%BE%81%E5%B9%B3%E7%A8%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [日本6月起禁止出售或放生小龙虾](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC6%E6%9C%88%E8%B5%B7%E7%A6%81%E6%AD%A2%E5%87%BA%E5%94%AE%E6%88%96%E6%94%BE%E7%94%9F%E5%B0%8F%E9%BE%99%E8%99%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [7省市将现大到暴雨](https://www.baidu.com/s?wd=7%E7%9C%81%E5%B8%82%E5%B0%86%E7%8E%B0%E5%A4%A7%E5%88%B0%E6%9A%B4%E9%9B%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [大学生网购零食放虫子敲诈40多次](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%BD%91%E8%B4%AD%E9%9B%B6%E9%A3%9F%E6%94%BE%E8%99%AB%E5%AD%90%E6%95%B2%E8%AF%8840%E5%A4%9A%E6%AC%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
