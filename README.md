@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 07:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 08:00:02</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [白色大熊猫与大熊猫罕见同框](https://s.weibo.com/weibo?q=%23%E7%99%BD%E8%89%B2%E5%A4%A7%E7%86%8A%E7%8C%AB%E4%B8%8E%E5%A4%A7%E7%86%8A%E7%8C%AB%E7%BD%95%E8%A7%81%E5%90%8C%E6%A1%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [BLACKPINK演唱会被扔上台的玩偶有摄像头](https://s.weibo.com/weibo?q=%23BLACKPINK%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E6%89%94%E4%B8%8A%E5%8F%B0%E7%9A%84%E7%8E%A9%E5%81%B6%E6%9C%89%E6%91%84%E5%83%8F%E5%A4%B4%23&t=31&band_rank=4&Refer=top)<br />
 5. [孟子义回应迪幂孟扎称号](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E5%9B%9E%E5%BA%94%E8%BF%AA%E5%B9%82%E5%AD%9F%E6%89%8E%E7%A7%B0%E5%8F%B7%23&t=31&band_rank=5&Refer=top)<br />
-6. [假球](https://s.weibo.com/weibo?q=%E5%81%87%E7%90%83&t=31&band_rank=6&Refer=top)<br />
-7. [程潇录节目玩手机](https://s.weibo.com/weibo?q=%23%E7%A8%8B%E6%BD%87%E5%BD%95%E8%8A%82%E7%9B%AE%E7%8E%A9%E6%89%8B%E6%9C%BA%23&t=31&band_rank=7&Refer=top)<br />
+6. [程潇录节目玩手机](https://s.weibo.com/weibo?q=%23%E7%A8%8B%E6%BD%87%E5%BD%95%E8%8A%82%E7%9B%AE%E7%8E%A9%E6%89%8B%E6%9C%BA%23&t=31&band_rank=6&Refer=top)<br />
+7. [假球](https://s.weibo.com/weibo?q=%E5%81%87%E7%90%83&t=31&band_rank=7&Refer=top)<br />
 8. [老舅 淘汰](https://s.weibo.com/weibo?q=%E8%80%81%E8%88%85%20%E6%B7%98%E6%B1%B0&t=31&band_rank=8&Refer=top)<br />
 9. [梅西收获职业生涯第43冠](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E6%94%B6%E8%8E%B7%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E7%AC%AC43%E5%86%A0%23&t=31&band_rank=9&Refer=top)<br />
 
@@ -33,8 +33,8 @@
 5. [拒绝董明珠3次的主播评孟羽童离职](https://www.baidu.com/s?wd=%E6%8B%92%E7%BB%9D%E8%91%A3%E6%98%8E%E7%8F%A03%E6%AC%A1%E7%9A%84%E4%B8%BB%E6%92%AD%E8%AF%84%E5%AD%9F%E7%BE%BD%E7%AB%A5%E7%A6%BB%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女团演唱会被扔上台的玩偶有摄像头](https://www.baidu.com/s?wd=%E5%A5%B3%E5%9B%A2%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E6%89%94%E4%B8%8A%E5%8F%B0%E7%9A%84%E7%8E%A9%E5%81%B6%E6%9C%89%E6%91%84%E5%83%8F%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [家人拉横幅欢迎闫啸天回家](https://www.baidu.com/s?wd=%E5%AE%B6%E4%BA%BA%E6%8B%89%E6%A8%AA%E5%B9%85%E6%AC%A2%E8%BF%8E%E9%97%AB%E5%95%B8%E5%A4%A9%E5%9B%9E%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [徐怀钰状态回来了](https://www.baidu.com/s?wd=%E5%BE%90%E6%80%80%E9%92%B0%E7%8A%B6%E6%80%81%E5%9B%9E%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [派出所爆炸现场曝光：部分建筑坍塌](https://www.baidu.com/s?wd=%E6%B4%BE%E5%87%BA%E6%89%80%E7%88%86%E7%82%B8%E7%8E%B0%E5%9C%BA%E6%9B%9D%E5%85%89%EF%BC%9A%E9%83%A8%E5%88%86%E5%BB%BA%E7%AD%91%E5%9D%8D%E5%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [水电站突然放水 两名教师被卷走](https://www.baidu.com/s?wd=%E6%B0%B4%E7%94%B5%E7%AB%99%E7%AA%81%E7%84%B6%E6%94%BE%E6%B0%B4+%E4%B8%A4%E5%90%8D%E6%95%99%E5%B8%88%E8%A2%AB%E5%8D%B7%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [狗头萝莉卖煎饼被当面辱骂 警方回应](https://www.baidu.com/s?wd=%E7%8B%97%E5%A4%B4%E8%90%9D%E8%8E%89%E5%8D%96%E7%85%8E%E9%A5%BC%E8%A2%AB%E5%BD%93%E9%9D%A2%E8%BE%B1%E9%AA%82+%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [拒绝董明珠3次的主播评孟羽童离职](https://www.baidu.com/s?wd=%E6%8B%92%E7%BB%9D%E8%91%A3%E6%98%8E%E7%8F%A03%E6%AC%A1%E7%9A%84%E4%B8%BB%E6%92%AD%E8%AF%84%E5%AD%9F%E7%BE%BD%E7%AB%A5%E7%A6%BB%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女团演唱会被扔上台的玩偶有摄像头](https://www.baidu.com/s?wd=%E5%A5%B3%E5%9B%A2%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E6%89%94%E4%B8%8A%E5%8F%B0%E7%9A%84%E7%8E%A9%E5%81%B6%E6%9C%89%E6%91%84%E5%83%8F%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [家人拉横幅欢迎闫啸天回家](https://www.baidu.com/s?wd=%E5%AE%B6%E4%BA%BA%E6%8B%89%E6%A8%AA%E5%B9%85%E6%AC%A2%E8%BF%8E%E9%97%AB%E5%95%B8%E5%A4%A9%E5%9B%9E%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [徐怀钰状态回来了](https://www.baidu.com/s?wd=%E5%BE%90%E6%80%80%E9%92%B0%E7%8A%B6%E6%80%81%E5%9B%9E%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [派出所爆炸现场曝光：部分建筑坍塌](https://www.baidu.com/s?wd=%E6%B4%BE%E5%87%BA%E6%89%80%E7%88%86%E7%82%B8%E7%8E%B0%E5%9C%BA%E6%9B%9D%E5%85%89%EF%BC%9A%E9%83%A8%E5%88%86%E5%BB%BA%E7%AD%91%E5%9D%8D%E5%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [水电站突然放水 两名教师被卷走](https://www.baidu.com/s?wd=%E6%B0%B4%E7%94%B5%E7%AB%99%E7%AA%81%E7%84%B6%E6%94%BE%E6%B0%B4+%E4%B8%A4%E5%90%8D%E6%95%99%E5%B8%88%E8%A2%AB%E5%8D%B7%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [狗头萝莉卖煎饼被当面辱骂 警方回应](https://www.baidu.com/s?wd=%E7%8B%97%E5%A4%B4%E8%90%9D%E8%8E%89%E5%8D%96%E7%85%8E%E9%A5%BC%E8%A2%AB%E5%BD%93%E9%9D%A2%E8%BE%B1%E9%AA%82+%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
