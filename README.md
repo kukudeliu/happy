@@ -1,15 +1,15 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 21:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 21:59:01</h4></div>
 
 > 微博  
 
-1. [丫丫离开上海回京](https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E7%A6%BB%E5%BC%80%E4%B8%8A%E6%B5%B7%E5%9B%9E%E4%BA%AC%23&t=31&band_rank=1&Refer=top)<br />
-2. [宋丹丹暂时退出桃花坞](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%B8%B9%E4%B8%B9%E6%9A%82%E6%97%B6%E9%80%80%E5%87%BA%E6%A1%83%E8%8A%B1%E5%9D%9E%23&t=31&band_rank=2&Refer=top)<br />
+1. [宋丹丹暂时退出桃花坞](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%B8%B9%E4%B8%B9%E6%9A%82%E6%97%B6%E9%80%80%E5%87%BA%E6%A1%83%E8%8A%B1%E5%9D%9E%23&t=31&band_rank=1&Refer=top)<br />
+2. [丫丫离开上海回京](https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E7%A6%BB%E5%BC%80%E4%B8%8A%E6%B5%B7%E5%9B%9E%E4%BA%AC%23&t=31&band_rank=2&Refer=top)<br />
 3. [沉浸式体验虚拟未来世界](https://s.weibo.com/weibo?q=%23%E6%B2%89%E6%B5%B8%E5%BC%8F%E4%BD%93%E9%AA%8C%E8%99%9A%E6%8B%9F%E6%9C%AA%E6%9D%A5%E4%B8%96%E7%95%8C%23&t=31&band_rank=3&Refer=top)<br />
 4. [祝绪丹说迪丽热巴照片有她拍的](https://s.weibo.com/weibo?q=%23%E7%A5%9D%E7%BB%AA%E4%B8%B9%E8%AF%B4%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%85%A7%E7%89%87%E6%9C%89%E5%A5%B9%E6%8B%8D%E7%9A%84%23&t=31&band_rank=4&Refer=top)<br />
 5. [樊振东vs王楚钦](https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9Cvs%E7%8E%8B%E6%A5%9A%E9%92%A6&t=31&band_rank=5&Refer=top)<br />
 6. [五月天欠下九十万斤水饺的债](https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E6%AC%A0%E4%B8%8B%E4%B9%9D%E5%8D%81%E4%B8%87%E6%96%A4%E6%B0%B4%E9%A5%BA%E7%9A%84%E5%80%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [Ella采访谈SHE哭了](https://s.weibo.com/weibo?q=%23Ella%E9%87%87%E8%AE%BF%E8%B0%88SHE%E5%93%AD%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [袁姗姗戴绿帽子直播](https://s.weibo.com/weibo?q=%23%E8%A2%81%E5%A7%97%E5%A7%97%E6%88%B4%E7%BB%BF%E5%B8%BD%E5%AD%90%E7%9B%B4%E6%92%AD%23&t=31&band_rank=8&Refer=top)<br />
+8. [迪丽热巴私服](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%A7%81%E6%9C%8D&t=31&band_rank=8&Refer=top)<br />
 9. [北京动物园](https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E5%8A%A8%E7%89%A9%E5%9B%AD&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
