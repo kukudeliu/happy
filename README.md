@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 11:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 11:04:02</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [公务员上岸已公示，但有了考研想法，要不要申请取消录用去考研?](https://www.zhihu.com/question/602976700)<br />
 7. [相关调查表明性侵有 85% 是熟人作案 ，为什么熟人性侵高发？如何防范？](https://www.zhihu.com/question/598215313)<br />
 8. [真的存在奠柏这种可以食人的树吗？](https://www.zhihu.com/question/30746016)<br />
-9. [读书真的是最简单的出路吗？](https://www.zhihu.com/question/603367206)<br />
+9. []()<br />
 
 > 百度  
 
