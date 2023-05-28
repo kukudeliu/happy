@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 14:36:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 14:37:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [什么样的自然数同时能被 1 到 9 整除？](https://www.zhihu.com/question/602168996)<br />
 6. [如何评价《中国说唱巅峰对决 2023》第四期？](https://www.zhihu.com/question/603332646)<br />
 7. [印度最高面值纸币将停用，如何看待这一规定？「废钞令」会对当地带来哪些影响？](https://www.zhihu.com/question/603453473)<br />
-8. [5 月 28 日高考倒计时 10 天，你准备的如何了？有哪些备考建议？](https://www.zhihu.com/question/603316992)<br />
-9. [有没有描写下雨的古诗词？](https://www.zhihu.com/question/603453448)<br />
+8. [石楠花又腥又臭为何还大面积种？你认为应该用其他植物替代石楠花吗？](https://www.zhihu.com/question/594892492)<br />
+9. [5 月 28 日高考倒计时 10 天，你准备的如何了？有哪些备考建议？](https://www.zhihu.com/question/603316992)<br />
 
 > 百度  
 
