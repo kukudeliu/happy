@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 21:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 21:08:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [迪丽热巴私服](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%A7%81%E6%9C%8D&t=31&band_rank=6&Refer=top)<br />
 7. [宋仲基说做爸爸是人生最重要的事](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BB%B2%E5%9F%BA%E8%AF%B4%E5%81%9A%E7%88%B8%E7%88%B8%E6%98%AF%E4%BA%BA%E7%94%9F%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E4%BA%8B%23&t=31&band_rank=7&Refer=top)<br />
 8. [樊振东vs王楚钦](https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9Cvs%E7%8E%8B%E6%A5%9A%E9%92%A6&t=31&band_rank=8&Refer=top)<br />
-9. [四川大学](https://s.weibo.com/weibo?q=%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6&t=31&band_rank=9&Refer=top)<br />
+9. [精致羞耻症](https://s.weibo.com/weibo?q=%23%E7%B2%BE%E8%87%B4%E7%BE%9E%E8%80%BB%E7%97%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
