@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 13:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 13:37:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [《西游记》里老龟因唐僧没帮他问寿命，把师徒四人弄下河，谁对谁错？](https://www.zhihu.com/question/602287339)<br />
 6. [什么样的自然数同时能被 1 到 9 整除？](https://www.zhihu.com/question/602168996)<br />
 7. [德班世乒赛中为什么马龙打王楚钦这么下风呀？](https://www.zhihu.com/question/603420990)<br />
-8. [问大家是喜欢伤害超高但攻击速度巨慢的武器还是伤害超低但攻击速度巨快的武器？](https://www.zhihu.com/question/603027656)<br />
-9. [德国媒体报道，拜仁董事会主席卡恩和体育总监萨利已被解雇，如何看待这个决定？](https://www.zhihu.com/question/603420916)<br />
+8. [德国媒体报道，拜仁董事会主席卡恩和体育总监萨利已被解雇，如何看待这个决定？](https://www.zhihu.com/question/603420916)<br />
+9. [面对各种皮肤衰老问题，用射频美容仪真的有效吗？该如何选择合适自己的？](https://www.zhihu.com/question/603418759)<br />
 
 > 百度  
 
