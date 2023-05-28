@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 15:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 15:09:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [Lisa不发比基尼照的原因](https://s.weibo.com/weibo?q=%23Lisa%E4%B8%8D%E5%8F%91%E6%AF%94%E5%9F%BA%E5%B0%BC%E7%85%A7%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=5&Refer=top)<br />
 6. [网购虾条居然收到了差评返现卡](https://s.weibo.com/weibo?q=%23%E7%BD%91%E8%B4%AD%E8%99%BE%E6%9D%A1%E5%B1%85%E7%84%B6%E6%94%B6%E5%88%B0%E4%BA%86%E5%B7%AE%E8%AF%84%E8%BF%94%E7%8E%B0%E5%8D%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [老舅董宝石骂人没脏字](https://s.weibo.com/weibo?q=%E8%80%81%E8%88%85%E8%91%A3%E5%AE%9D%E7%9F%B3%E9%AA%82%E4%BA%BA%E6%B2%A1%E8%84%8F%E5%AD%97&t=31&band_rank=7&Refer=top)<br />
-8. [五月天演唱会志愿者伙食](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BF%97%E6%84%BF%E8%80%85%E4%BC%99%E9%A3%9F&t=31&band_rank=8&Refer=top)<br />
-9. [MBTI](https://s.weibo.com/weibo?q=MBTI&t=31&band_rank=9&Refer=top)<br />
+8. [MBTI](https://s.weibo.com/weibo?q=MBTI&t=31&band_rank=8&Refer=top)<br />
+9. [张子豪 活死人](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%AD%90%E8%B1%AA%20%E6%B4%BB%E6%AD%BB%E4%BA%BA&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -34,7 +34,7 @@
 6. [5元以下饮料为什么越来越少](https://www.baidu.com/s?wd=5%E5%85%83%E4%BB%A5%E4%B8%8B%E9%A5%AE%E6%96%99%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [小孩把景区钟乳石敲断带走](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A9%E6%8A%8A%E6%99%AF%E5%8C%BA%E9%92%9F%E4%B9%B3%E7%9F%B3%E6%95%B2%E6%96%AD%E5%B8%A6%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [日本6月起禁止出售或放生小龙虾](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC6%E6%9C%88%E8%B5%B7%E7%A6%81%E6%AD%A2%E5%87%BA%E5%94%AE%E6%88%96%E6%94%BE%E7%94%9F%E5%B0%8F%E9%BE%99%E8%99%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [苏炳添官宣二胎得子](https://www.baidu.com/s?wd=%E8%8B%8F%E7%82%B3%E6%B7%BB%E5%AE%98%E5%AE%A3%E4%BA%8C%E8%83%8E%E5%BE%97%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [独生女双亲过世后冒出22位继承人](https://www.baidu.com/s?wd=%E7%8B%AC%E7%94%9F%E5%A5%B3%E5%8F%8C%E4%BA%B2%E8%BF%87%E4%B8%96%E5%90%8E%E5%86%92%E5%87%BA22%E4%BD%8D%E7%BB%A7%E6%89%BF%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [5元以下饮料为什么越来越少](https://www.baidu.com/s?wd=5%E5%85%83%E4%BB%A5%E4%B8%8B%E9%A5%AE%E6%96%99%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [小孩把景区钟乳石敲断带走](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A9%E6%8A%8A%E6%99%AF%E5%8C%BA%E9%92%9F%E4%B9%B3%E7%9F%B3%E6%95%B2%E6%96%AD%E5%B8%A6%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [日本6月起禁止出售或放生小龙虾](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC6%E6%9C%88%E8%B5%B7%E7%A6%81%E6%AD%A2%E5%87%BA%E5%94%AE%E6%88%96%E6%94%BE%E7%94%9F%E5%B0%8F%E9%BE%99%E8%99%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [苏炳添官宣二胎得子](https://www.baidu.com/s?wd=%E8%8B%8F%E7%82%B3%E6%B7%BB%E5%AE%98%E5%AE%A3%E4%BA%8C%E8%83%8E%E5%BE%97%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [独生女双亲过世后冒出22位继承人](https://www.baidu.com/s?wd=%E7%8B%AC%E7%94%9F%E5%A5%B3%E5%8F%8C%E4%BA%B2%E8%BF%87%E4%B8%96%E5%90%8E%E5%86%92%E5%87%BA22%E4%BD%8D%E7%BB%A7%E6%89%BF%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
