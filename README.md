@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 18:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 18:04:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [宋丹丹被气到吸氧](https://www.baidu.com/s?wd=%E5%AE%8B%E4%B8%B9%E4%B8%B9%E8%A2%AB%E6%B0%94%E5%88%B0%E5%90%B8%E6%B0%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [宋丹丹分房没人选](https://www.baidu.com/s?wd=%E5%AE%8B%E4%B8%B9%E4%B8%B9%E5%88%86%E6%88%BF%E6%B2%A1%E4%BA%BA%E9%80%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [高考将至 多地首次配备智能安检门](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E5%B0%86%E8%87%B3+%E5%A4%9A%E5%9C%B0%E9%A6%96%E6%AC%A1%E9%85%8D%E5%A4%87%E6%99%BA%E8%83%BD%E5%AE%89%E6%A3%80%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [5元以下饮料为什么越来越少](https://www.baidu.com/s?wd=5%E5%85%83%E4%BB%A5%E4%B8%8B%E9%A5%AE%E6%96%99%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [独生女双亲过世后冒出22位继承人](https://www.baidu.com/s?wd=%E7%8B%AC%E7%94%9F%E5%A5%B3%E5%8F%8C%E4%BA%B2%E8%BF%87%E4%B8%96%E5%90%8E%E5%86%92%E5%87%BA22%E4%BD%8D%E7%BB%A7%E6%89%BF%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [宋丹丹被气到吸氧](https://www.baidu.com/s?wd=%E5%AE%8B%E4%B8%B9%E4%B8%B9%E8%A2%AB%E6%B0%94%E5%88%B0%E5%90%B8%E6%B0%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [宋丹丹分房没人选](https://www.baidu.com/s?wd=%E5%AE%8B%E4%B8%B9%E4%B8%B9%E5%88%86%E6%88%BF%E6%B2%A1%E4%BA%BA%E9%80%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [高考将至 多地首次配备智能安检门](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E5%B0%86%E8%87%B3+%E5%A4%9A%E5%9C%B0%E9%A6%96%E6%AC%A1%E9%85%8D%E5%A4%87%E6%99%BA%E8%83%BD%E5%AE%89%E6%A3%80%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [5元以下饮料为什么越来越少](https://www.baidu.com/s?wd=5%E5%85%83%E4%BB%A5%E4%B8%8B%E9%A5%AE%E6%96%99%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [独生女双亲过世后冒出22位继承人](https://www.baidu.com/s?wd=%E7%8B%AC%E7%94%9F%E5%A5%B3%E5%8F%8C%E4%BA%B2%E8%BF%87%E4%B8%96%E5%90%8E%E5%86%92%E5%87%BA22%E4%BD%8D%E7%BB%A7%E6%89%BF%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
