@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 16:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 16:07:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [C919全球首次商业载客飞行](https://s.weibo.com/weibo?q=%23C919%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%A1%E5%95%86%E4%B8%9A%E8%BD%BD%E5%AE%A2%E9%A3%9E%E8%A1%8C%23&t=31&band_rank=3&Refer=top)<br />
 4. [孙悟空被压了500年都没有黑化](https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%82%9F%E7%A9%BA%E8%A2%AB%E5%8E%8B%E4%BA%86500%E5%B9%B4%E9%83%BD%E6%B2%A1%E6%9C%89%E9%BB%91%E5%8C%96%23&t=31&band_rank=4&Refer=top)<br />
 5. [网购虾条居然收到了差评返现卡](https://s.weibo.com/weibo?q=%23%E7%BD%91%E8%B4%AD%E8%99%BE%E6%9D%A1%E5%B1%85%E7%84%B6%E6%94%B6%E5%88%B0%E4%BA%86%E5%B7%AE%E8%AF%84%E8%BF%94%E7%8E%B0%E5%8D%A1%23&t=31&band_rank=5&Refer=top)<br />
-6. [老舅董宝石骂人没脏字](https://s.weibo.com/weibo?q=%E8%80%81%E8%88%85%E8%91%A3%E5%AE%9D%E7%9F%B3%E9%AA%82%E4%BA%BA%E6%B2%A1%E8%84%8F%E5%AD%97&t=31&band_rank=6&Refer=top)<br />
-7. [宋丹丹分房没人选](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%B8%B9%E4%B8%B9%E5%88%86%E6%88%BF%E6%B2%A1%E4%BA%BA%E9%80%89%23&t=31&band_rank=7&Refer=top)<br />
-8. [官方回应水电站放水致2教师溺亡](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E6%B0%B4%E7%94%B5%E7%AB%99%E6%94%BE%E6%B0%B4%E8%87%B42%E6%95%99%E5%B8%88%E6%BA%BA%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [宋丹丹被气到吸氧](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%B8%B9%E4%B8%B9%E8%A2%AB%E6%B0%94%E5%88%B0%E5%90%B8%E6%B0%A7%23&t=31&band_rank=9&Refer=top)<br />
+6. [宋丹丹分房没人选](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%B8%B9%E4%B8%B9%E5%88%86%E6%88%BF%E6%B2%A1%E4%BA%BA%E9%80%89%23&t=31&band_rank=6&Refer=top)<br />
+7. [老舅董宝石骂人没脏字](https://s.weibo.com/weibo?q=%E8%80%81%E8%88%85%E8%91%A3%E5%AE%9D%E7%9F%B3%E9%AA%82%E4%BA%BA%E6%B2%A1%E8%84%8F%E5%AD%97&t=31&band_rank=7&Refer=top)<br />
+8. [宋丹丹被气到吸氧](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%B8%B9%E4%B8%B9%E8%A2%AB%E6%B0%94%E5%88%B0%E5%90%B8%E6%B0%A7%23&t=31&band_rank=8&Refer=top)<br />
+9. [官方回应水电站放水致2教师溺亡](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E6%B0%B4%E7%94%B5%E7%AB%99%E6%94%BE%E6%B0%B4%E8%87%B42%E6%95%99%E5%B8%88%E6%BA%BA%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -20,7 +20,7 @@
 4. [《西游记》里老龟因唐僧没帮他问寿命，把师徒四人弄下河，谁对谁错？](https://www.zhihu.com/question/602287339)<br />
 5. [什么样的自然数同时能被 1 到 9 整除？](https://www.zhihu.com/question/602168996)<br />
 6. [石楠花又腥又臭为何还大面积种？你认为应该用其他植物替代石楠花吗？](https://www.zhihu.com/question/594892492)<br />
-7. []()<br />
+7. [武汉财政局公开催债，涉及 259 家债务单位，总额超过 1 亿元，如何看待此事？会有哪些影响？](https://www.zhihu.com/question/603411942)<br />
 8. [印度最高面值纸币将停用，如何看待这一规定？「废钞令」会对当地带来哪些影响？](https://www.zhihu.com/question/603453473)<br />
 9. [怀特 0.1 秒绝杀热火，总比分扳成 3：3，凯尔特人真的要创历史了，如何评价这场比赛？](https://www.zhihu.com/question/603465957)<br />
 
