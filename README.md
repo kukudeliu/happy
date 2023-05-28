@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 13:43:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 13:44:01</h4></div>
 
 > 微博  
 
@@ -17,12 +17,12 @@
 1. [「数十万人」雨中集结听武契奇发表「告别演讲」，武契奇为何辞去执政党党主席一职？塞国内政局将如何发展？](https://www.zhihu.com/question/603283312)<br />
 2. [东航 C919 于 5 月 28 日成功商业首飞，此举意味着什么？你对国产大飞机后续研发有何期待？](https://www.zhihu.com/question/603336072)<br />
 3. [反中乱港组织香港公民党宣布解散，哪些信息值得关注？](https://www.zhihu.com/question/603330804)<br />
-4. [2022-23 赛季 NBA 东决绿军险胜热火拖入抢七，怀特绝杀，塔图姆 31 分，如何评价这场比赛？](https://www.zhihu.com/question/603452338)<br />
-5. [《西游记》里老龟因唐僧没帮他问寿命，把师徒四人弄下河，谁对谁错？](https://www.zhihu.com/question/602287339)<br />
+4. [《西游记》里老龟因唐僧没帮他问寿命，把师徒四人弄下河，谁对谁错？](https://www.zhihu.com/question/602287339)<br />
+5. [2022-23 赛季 NBA 东决绿军险胜热火拖入抢七，怀特绝杀，塔图姆 31 分，如何评价这场比赛？](https://www.zhihu.com/question/603452338)<br />
 6. [什么样的自然数同时能被 1 到 9 整除？](https://www.zhihu.com/question/602168996)<br />
 7. [德班世乒赛中为什么马龙打王楚钦这么下风呀？](https://www.zhihu.com/question/603420990)<br />
 8. [德国媒体报道，拜仁董事会主席卡恩和体育总监萨利已被解雇，如何看待这个决定？](https://www.zhihu.com/question/603420916)<br />
-9. [面对各种皮肤衰老问题，用射频美容仪真的有效吗？该如何选择合适自己的？](https://www.zhihu.com/question/603418759)<br />
+9. [如何评价《中国说唱巅峰对决 2023》第四期？](https://www.zhihu.com/question/603332646)<br />
 
 > 百度  
 
