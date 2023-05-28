@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 15:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 15:13:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [Lisa不发比基尼照的原因](https://s.weibo.com/weibo?q=%23Lisa%E4%B8%8D%E5%8F%91%E6%AF%94%E5%9F%BA%E5%B0%BC%E7%85%A7%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=5&Refer=top)<br />
 6. [女子回家发现出租屋变灵堂](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9B%9E%E5%AE%B6%E5%8F%91%E7%8E%B0%E5%87%BA%E7%A7%9F%E5%B1%8B%E5%8F%98%E7%81%B5%E5%A0%82%23&t=31&band_rank=6&Refer=top)<br />
 7. [老舅董宝石骂人没脏字](https://s.weibo.com/weibo?q=%E8%80%81%E8%88%85%E8%91%A3%E5%AE%9D%E7%9F%B3%E9%AA%82%E4%BA%BA%E6%B2%A1%E8%84%8F%E5%AD%97&t=31&band_rank=7&Refer=top)<br />
-8. [MBTI](https://s.weibo.com/weibo?q=MBTI&t=31&band_rank=8&Refer=top)<br />
+8. [好热](https://s.weibo.com/weibo?q=%E5%A5%BD%E7%83%AD&t=31&band_rank=8&Refer=top)<br />
 9. [张子豪 活死人](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%AD%90%E8%B1%AA%20%E6%B4%BB%E6%AD%BB%E4%BA%BA&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
