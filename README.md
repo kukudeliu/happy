@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 15:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 15:26:01</h4></div>
 
 > 微博  
 
@@ -19,8 +19,8 @@
 3. [反中乱港组织香港公民党宣布解散，哪些信息值得关注？](https://www.zhihu.com/question/603330804)<br />
 4. [《西游记》里老龟因唐僧没帮他问寿命，把师徒四人弄下河，谁对谁错？](https://www.zhihu.com/question/602287339)<br />
 5. [什么样的自然数同时能被 1 到 9 整除？](https://www.zhihu.com/question/602168996)<br />
-6. [印度最高面值纸币将停用，如何看待这一规定？「废钞令」会对当地带来哪些影响？](https://www.zhihu.com/question/603453473)<br />
-7. [石楠花又腥又臭为何还大面积种？你认为应该用其他植物替代石楠花吗？](https://www.zhihu.com/question/594892492)<br />
+6. [石楠花又腥又臭为何还大面积种？你认为应该用其他植物替代石楠花吗？](https://www.zhihu.com/question/594892492)<br />
+7. [印度最高面值纸币将停用，如何看待这一规定？「废钞令」会对当地带来哪些影响？](https://www.zhihu.com/question/603453473)<br />
 8. [如何评价《中国说唱巅峰对决 2023》第四期？](https://www.zhihu.com/question/603332646)<br />
 9. [5 月 28 日高考倒计时 10 天，你准备的如何了？有哪些备考建议？](https://www.zhihu.com/question/603316992)<br />
 
