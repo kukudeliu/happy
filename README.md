@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 16:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 16:44:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [黄奕擅拿展品拍照被美术馆批评](https://www.baidu.com/s?wd=%E9%BB%84%E5%A5%95%E6%93%85%E6%8B%BF%E5%B1%95%E5%93%81%E6%8B%8D%E7%85%A7%E8%A2%AB%E7%BE%8E%E6%9C%AF%E9%A6%86%E6%89%B9%E8%AF%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [宋丹丹被气到吸氧](https://www.baidu.com/s?wd=%E5%AE%8B%E4%B8%B9%E4%B8%B9%E8%A2%AB%E6%B0%94%E5%88%B0%E5%90%B8%E6%B0%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [美议员：让俄罗斯人死 美国花得钱值](https://www.baidu.com/s?wd=%E7%BE%8E%E8%AE%AE%E5%91%98%EF%BC%9A%E8%AE%A9%E4%BF%84%E7%BD%97%E6%96%AF%E4%BA%BA%E6%AD%BB+%E7%BE%8E%E5%9B%BD%E8%8A%B1%E5%BE%97%E9%92%B1%E5%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [老板帮女子换钱被要求支付手续费](https://www.baidu.com/s?wd=%E8%80%81%E6%9D%BF%E5%B8%AE%E5%A5%B3%E5%AD%90%E6%8D%A2%E9%92%B1%E8%A2%AB%E8%A6%81%E6%B1%82%E6%94%AF%E4%BB%98%E6%89%8B%E7%BB%AD%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [独生女双亲过世后冒出22位继承人](https://www.baidu.com/s?wd=%E7%8B%AC%E7%94%9F%E5%A5%B3%E5%8F%8C%E4%BA%B2%E8%BF%87%E4%B8%96%E5%90%8E%E5%86%92%E5%87%BA22%E4%BD%8D%E7%BB%A7%E6%89%BF%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [独生女双亲过世后冒出22位继承人](https://www.baidu.com/s?wd=%E7%8B%AC%E7%94%9F%E5%A5%B3%E5%8F%8C%E4%BA%B2%E8%BF%87%E4%B8%96%E5%90%8E%E5%86%92%E5%87%BA22%E4%BD%8D%E7%BB%A7%E6%89%BF%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [校长被教育局长喊人打伤？警方通报](https://www.baidu.com/s?wd=%E6%A0%A1%E9%95%BF%E8%A2%AB%E6%95%99%E8%82%B2%E5%B1%80%E9%95%BF%E5%96%8A%E4%BA%BA%E6%89%93%E4%BC%A4%EF%BC%9F%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [黄奕擅拿展品拍照被美术馆批评](https://www.baidu.com/s?wd=%E9%BB%84%E5%A5%95%E6%93%85%E6%8B%BF%E5%B1%95%E5%93%81%E6%8B%8D%E7%85%A7%E8%A2%AB%E7%BE%8E%E6%9C%AF%E9%A6%86%E6%89%B9%E8%AF%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [宋丹丹被气到吸氧](https://www.baidu.com/s?wd=%E5%AE%8B%E4%B8%B9%E4%B8%B9%E8%A2%AB%E6%B0%94%E5%88%B0%E5%90%B8%E6%B0%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [美议员：让俄罗斯人死 美国花得钱值](https://www.baidu.com/s?wd=%E7%BE%8E%E8%AE%AE%E5%91%98%EF%BC%9A%E8%AE%A9%E4%BF%84%E7%BD%97%E6%96%AF%E4%BA%BA%E6%AD%BB+%E7%BE%8E%E5%9B%BD%E8%8A%B1%E5%BE%97%E9%92%B1%E5%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [老板帮女子换钱被要求支付手续费](https://www.baidu.com/s?wd=%E8%80%81%E6%9D%BF%E5%B8%AE%E5%A5%B3%E5%AD%90%E6%8D%A2%E9%92%B1%E8%A2%AB%E8%A6%81%E6%B1%82%E6%94%AF%E4%BB%98%E6%89%8B%E7%BB%AD%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [独生女双亲过世后冒出22位继承人](https://www.baidu.com/s?wd=%E7%8B%AC%E7%94%9F%E5%A5%B3%E5%8F%8C%E4%BA%B2%E8%BF%87%E4%B8%96%E5%90%8E%E5%86%92%E5%87%BA22%E4%BD%8D%E7%BB%A7%E6%89%BF%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [独生女双亲过世后冒出22位继承人](https://www.baidu.com/s?wd=%E7%8B%AC%E7%94%9F%E5%A5%B3%E5%8F%8C%E4%BA%B2%E8%BF%87%E4%B8%96%E5%90%8E%E5%86%92%E5%87%BA22%E4%BD%8D%E7%BB%A7%E6%89%BF%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [校长被教育局长喊人打伤？警方通报](https://www.baidu.com/s?wd=%E6%A0%A1%E9%95%BF%E8%A2%AB%E6%95%99%E8%82%B2%E5%B1%80%E9%95%BF%E5%96%8A%E4%BA%BA%E6%89%93%E4%BC%A4%EF%BC%9F%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
