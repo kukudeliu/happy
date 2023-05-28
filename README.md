@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 13:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 13:31:01</h4></div>
 
 > 微博  
 
-1. [Lisa不发比基尼照的原因](https://s.weibo.com/weibo?q=%23Lisa%E4%B8%8D%E5%8F%91%E6%AF%94%E5%9F%BA%E5%B0%BC%E7%85%A7%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=1&Refer=top)<br />
-2. [情侣十年前因父母反对分手](https://s.weibo.com/weibo?q=%23%E6%83%85%E4%BE%A3%E5%8D%81%E5%B9%B4%E5%89%8D%E5%9B%A0%E7%88%B6%E6%AF%8D%E5%8F%8D%E5%AF%B9%E5%88%86%E6%89%8B%23&t=31&band_rank=2&Refer=top)<br />
+1. [情侣十年前因父母反对分手](https://s.weibo.com/weibo?q=%23%E6%83%85%E4%BE%A3%E5%8D%81%E5%B9%B4%E5%89%8D%E5%9B%A0%E7%88%B6%E6%AF%8D%E5%8F%8D%E5%AF%B9%E5%88%86%E6%89%8B%23&t=31&band_rank=1&Refer=top)<br />
+2. [Lisa不发比基尼照的原因](https://s.weibo.com/weibo?q=%23Lisa%E4%B8%8D%E5%8F%91%E6%AF%94%E5%9F%BA%E5%B0%BC%E7%85%A7%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=2&Refer=top)<br />
 3. [白色大熊猫与大熊猫罕见同框](https://s.weibo.com/weibo?q=%23%E7%99%BD%E8%89%B2%E5%A4%A7%E7%86%8A%E7%8C%AB%E4%B8%8E%E5%A4%A7%E7%86%8A%E7%8C%AB%E7%BD%95%E8%A7%81%E5%90%8C%E6%A1%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [王一博肖战今日微博开屏](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%82%96%E6%88%98%E4%BB%8A%E6%97%A5%E5%BE%AE%E5%8D%9A%E5%BC%80%E5%B1%8F%23&t=31&band_rank=4&Refer=top)<br />
 5. [从26楼撑伞跳下男童生命体征平稳](https://s.weibo.com/weibo?q=%23%E4%BB%8E26%E6%A5%BC%E6%92%91%E4%BC%9E%E8%B7%B3%E4%B8%8B%E7%94%B7%E7%AB%A5%E7%94%9F%E5%91%BD%E4%BD%93%E5%BE%81%E5%B9%B3%E7%A8%B3%23&t=31&band_rank=5&Refer=top)<br />
@@ -22,7 +22,7 @@
 6. [什么样的自然数同时能被 1 到 9 整除？](https://www.zhihu.com/question/602168996)<br />
 7. [问大家是喜欢伤害超高但攻击速度巨慢的武器还是伤害超低但攻击速度巨快的武器？](https://www.zhihu.com/question/603027656)<br />
 8. [德班世乒赛中为什么马龙打王楚钦这么下风呀？](https://www.zhihu.com/question/603420990)<br />
-9. [公务员上岸已公示，但有了考研想法，要不要申请取消录用去考研?](https://www.zhihu.com/question/602976700)<br />
+9. [德国媒体报道，拜仁董事会主席卡恩和体育总监萨利已被解雇，如何看待这个决定？](https://www.zhihu.com/question/603420916)<br />
 
 > 百度  
 
