@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 12:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 12:50:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [县城拆迁所现“塌方式”腐败](https://www.baidu.com/s?wd=%E5%8E%BF%E5%9F%8E%E6%8B%86%E8%BF%81%E6%89%80%E7%8E%B0%E2%80%9C%E5%A1%8C%E6%96%B9%E5%BC%8F%E2%80%9D%E8%85%90%E8%B4%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [国企董事长接受异性有偿陪侍被查](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BC%81%E8%91%A3%E4%BA%8B%E9%95%BF%E6%8E%A5%E5%8F%97%E5%BC%82%E6%80%A7%E6%9C%89%E5%81%BF%E9%99%AA%E4%BE%8D%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [独生女双亲过世后冒出22位继承人](https://www.baidu.com/s?wd=%E7%8B%AC%E7%94%9F%E5%A5%B3%E5%8F%8C%E4%BA%B2%E8%BF%87%E4%B8%96%E5%90%8E%E5%86%92%E5%87%BA22%E4%BD%8D%E7%BB%A7%E6%89%BF%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [日本6月起禁止出售或放生小龙虾](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC6%E6%9C%88%E8%B5%B7%E7%A6%81%E6%AD%A2%E5%87%BA%E5%94%AE%E6%88%96%E6%94%BE%E7%94%9F%E5%B0%8F%E9%BE%99%E8%99%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [埃及宣布发现两座木乃伊作坊](https://www.baidu.com/s?wd=%E5%9F%83%E5%8F%8A%E5%AE%A3%E5%B8%83%E5%8F%91%E7%8E%B0%E4%B8%A4%E5%BA%A7%E6%9C%A8%E4%B9%83%E4%BC%8A%E4%BD%9C%E5%9D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [县城拆迁所现“塌方式”腐败](https://www.baidu.com/s?wd=%E5%8E%BF%E5%9F%8E%E6%8B%86%E8%BF%81%E6%89%80%E7%8E%B0%E2%80%9C%E5%A1%8C%E6%96%B9%E5%BC%8F%E2%80%9D%E8%85%90%E8%B4%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [国企董事长接受异性有偿陪侍被查](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BC%81%E8%91%A3%E4%BA%8B%E9%95%BF%E6%8E%A5%E5%8F%97%E5%BC%82%E6%80%A7%E6%9C%89%E5%81%BF%E9%99%AA%E4%BE%8D%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [独生女双亲过世后冒出22位继承人](https://www.baidu.com/s?wd=%E7%8B%AC%E7%94%9F%E5%A5%B3%E5%8F%8C%E4%BA%B2%E8%BF%87%E4%B8%96%E5%90%8E%E5%86%92%E5%87%BA22%E4%BD%8D%E7%BB%A7%E6%89%BF%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [日本6月起禁止出售或放生小龙虾](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC6%E6%9C%88%E8%B5%B7%E7%A6%81%E6%AD%A2%E5%87%BA%E5%94%AE%E6%88%96%E6%94%BE%E7%94%9F%E5%B0%8F%E9%BE%99%E8%99%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [埃及宣布发现两座木乃伊作坊](https://www.baidu.com/s?wd=%E5%9F%83%E5%8F%8A%E5%AE%A3%E5%B8%83%E5%8F%91%E7%8E%B0%E4%B8%A4%E5%BA%A7%E6%9C%A8%E4%B9%83%E4%BC%8A%E4%BD%9C%E5%9D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
