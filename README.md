@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 14:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 14:08:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [德班世乒赛中为什么马龙打王楚钦这么下风呀？](https://www.zhihu.com/question/603420990)<br />
 7. [如何评价《中国说唱巅峰对决 2023》第四期？](https://www.zhihu.com/question/603332646)<br />
 8. [德国媒体报道，拜仁董事会主席卡恩和体育总监萨利已被解雇，如何看待这个决定？](https://www.zhihu.com/question/603420916)<br />
-9. [如何看待线下演出热度持续上涨，未来「双演模式」会不会成为演出市场新常态？](https://www.zhihu.com/question/603355346)<br />
+9. [第一学历真的最重要吗？](https://www.zhihu.com/question/444990493)<br />
 
 > 百度  
 
