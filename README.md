@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 11:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 11:32:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 2. [国产率 60% 的 C919 正式投入商用，意味着什么？](https://www.zhihu.com/question/603289064)<br />
 3. [为什么好多研究生都不愿意继续读博士了？](https://www.zhihu.com/question/575717530)<br />
 4. [报道称美国白宫和共和党达成债务上限协议，这意味着什么？哪些信息值得关注？](https://www.zhihu.com/question/603453790)<br />
-5. [东航 C919 于 5 月 28 日迎来商业首飞，此举意味着什么？你对国产大飞机后续研发有何期待？](https://www.zhihu.com/question/603336072)<br />
+5. [东航 C919 于 5 月 28 日成功商业首飞，此举意味着什么？你对国产大飞机后续研发有何期待？](https://www.zhihu.com/question/603336072)<br />
 6. [公务员上岸已公示，但有了考研想法，要不要申请取消录用去考研?](https://www.zhihu.com/question/602976700)<br />
 7. [相关调查表明性侵有 85% 是熟人作案 ，为什么熟人性侵高发？如何防范？](https://www.zhihu.com/question/598215313)<br />
 8. [真的存在奠柏这种可以食人的树吗？](https://www.zhihu.com/question/30746016)<br />
