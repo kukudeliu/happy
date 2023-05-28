@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 15:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 15:20:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [5元以下饮料为什么越来越少](https://www.baidu.com/s?wd=5%E5%85%83%E4%BB%A5%E4%B8%8B%E9%A5%AE%E6%96%99%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [独生女双亲过世后冒出22位继承人](https://www.baidu.com/s?wd=%E7%8B%AC%E7%94%9F%E5%A5%B3%E5%8F%8C%E4%BA%B2%E8%BF%87%E4%B8%96%E5%90%8E%E5%86%92%E5%87%BA22%E4%BD%8D%E7%BB%A7%E6%89%BF%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [小孩把景区钟乳石敲断带走](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A9%E6%8A%8A%E6%99%AF%E5%8C%BA%E9%92%9F%E4%B9%B3%E7%9F%B3%E6%95%B2%E6%96%AD%E5%B8%A6%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [日本6月起禁止出售或放生小龙虾](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC6%E6%9C%88%E8%B5%B7%E7%A6%81%E6%AD%A2%E5%87%BA%E5%94%AE%E6%88%96%E6%94%BE%E7%94%9F%E5%B0%8F%E9%BE%99%E8%99%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [国企董事长接受异性有偿陪侍被查](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BC%81%E8%91%A3%E4%BA%8B%E9%95%BF%E6%8E%A5%E5%8F%97%E5%BC%82%E6%80%A7%E6%9C%89%E5%81%BF%E9%99%AA%E4%BE%8D%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [5元以下饮料为什么越来越少](https://www.baidu.com/s?wd=5%E5%85%83%E4%BB%A5%E4%B8%8B%E9%A5%AE%E6%96%99%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [独生女双亲过世后冒出22位继承人](https://www.baidu.com/s?wd=%E7%8B%AC%E7%94%9F%E5%A5%B3%E5%8F%8C%E4%BA%B2%E8%BF%87%E4%B8%96%E5%90%8E%E5%86%92%E5%87%BA22%E4%BD%8D%E7%BB%A7%E6%89%BF%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [小孩把景区钟乳石敲断带走](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A9%E6%8A%8A%E6%99%AF%E5%8C%BA%E9%92%9F%E4%B9%B3%E7%9F%B3%E6%95%B2%E6%96%AD%E5%B8%A6%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [日本6月起禁止出售或放生小龙虾](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC6%E6%9C%88%E8%B5%B7%E7%A6%81%E6%AD%A2%E5%87%BA%E5%94%AE%E6%88%96%E6%94%BE%E7%94%9F%E5%B0%8F%E9%BE%99%E8%99%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [国企董事长接受异性有偿陪侍被查](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BC%81%E8%91%A3%E4%BA%8B%E9%95%BF%E6%8E%A5%E5%8F%97%E5%BC%82%E6%80%A7%E6%9C%89%E5%81%BF%E9%99%AA%E4%BE%8D%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
