@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 08:00:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 08:01:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [BLACKPINK演唱会被扔上台的玩偶有摄像头](https://s.weibo.com/weibo?q=%23BLACKPINK%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E6%89%94%E4%B8%8A%E5%8F%B0%E7%9A%84%E7%8E%A9%E5%81%B6%E6%9C%89%E6%91%84%E5%83%8F%E5%A4%B4%23&t=31&band_rank=4&Refer=top)<br />
 5. [孟子义回应迪幂孟扎称号](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E5%9B%9E%E5%BA%94%E8%BF%AA%E5%B9%82%E5%AD%9F%E6%89%8E%E7%A7%B0%E5%8F%B7%23&t=31&band_rank=5&Refer=top)<br />
 6. [程潇录节目玩手机](https://s.weibo.com/weibo?q=%23%E7%A8%8B%E6%BD%87%E5%BD%95%E8%8A%82%E7%9B%AE%E7%8E%A9%E6%89%8B%E6%9C%BA%23&t=31&band_rank=6&Refer=top)<br />
-7. [假球](https://s.weibo.com/weibo?q=%E5%81%87%E7%90%83&t=31&band_rank=7&Refer=top)<br />
-8. [老舅 淘汰](https://s.weibo.com/weibo?q=%E8%80%81%E8%88%85%20%E6%B7%98%E6%B1%B0&t=31&band_rank=8&Refer=top)<br />
+7. [老舅 淘汰](https://s.weibo.com/weibo?q=%E8%80%81%E8%88%85%20%E6%B7%98%E6%B1%B0&t=31&band_rank=7&Refer=top)<br />
+8. [假球](https://s.weibo.com/weibo?q=%E5%81%87%E7%90%83&t=31&band_rank=8&Refer=top)<br />
 9. [梅西收获职业生涯第43冠](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E6%94%B6%E8%8E%B7%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E7%AC%AC43%E5%86%A0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -22,7 +22,7 @@
 6. [为何只有图片描绘公的成年古猿演化成智人的过程，而从没有图片描绘母的成年古猿携带幼崽演化智人的过程呢？](https://www.zhihu.com/question/552387727)<br />
 7. [美光科技被中国制裁禁售后，英伟达 CEO 称「没有另一个中国，只有一个中国」，这传递出什么信息？](https://www.zhihu.com/question/602921030)<br />
 8. [椰树椰汁模特团首次淘宝直播，未带货却带火同款背心短裤，反映了消费者怎样的消费心理？](https://www.zhihu.com/question/603161031)<br />
-9. [你见过最厉害的「打脸」经历是什么？](https://www.zhihu.com/question/473217817)<br />
+9. [当你老了，你愿意回农村养老吗？](https://www.zhihu.com/question/278775655)<br />
 
 > 百度  
 
