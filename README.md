@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 11:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 11:20:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [看迪丽热巴眼神不用审就招了](https://s.weibo.com/weibo?q=%23%E7%9C%8B%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9C%BC%E7%A5%9E%E4%B8%8D%E7%94%A8%E5%AE%A1%E5%B0%B1%E6%8B%9B%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [戛纳最佳着装](https://s.weibo.com/weibo?q=%E6%88%9B%E7%BA%B3%E6%9C%80%E4%BD%B3%E7%9D%80%E8%A3%85&t=31&band_rank=7&Refer=top)<br />
 8. [宁艺卓ins个人简介更新](https://s.weibo.com/weibo?q=%23%E5%AE%81%E8%89%BA%E5%8D%93ins%E4%B8%AA%E4%BA%BA%E7%AE%80%E4%BB%8B%E6%9B%B4%E6%96%B0%23&t=31&band_rank=8&Refer=top)<br />
-9. [女子回家发现出租屋变灵堂](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9B%9E%E5%AE%B6%E5%8F%91%E7%8E%B0%E5%87%BA%E7%A7%9F%E5%B1%8B%E5%8F%98%E7%81%B5%E5%A0%82%23&t=31&band_rank=9&Refer=top)<br />
+9. [巴特勒怎么了](https://s.weibo.com/weibo?q=%E5%B7%B4%E7%89%B9%E5%8B%92%E6%80%8E%E4%B9%88%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
