@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 18:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 18:58:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [五角大楼称已提出中美防长会面请求，但中方至今未回复，释放了哪些信号？美方为何频频寻求与中方对话？](https://www.zhihu.com/question/603327489)<br />
 5. [如何看待热火凯尔特人三比三打平？](https://www.zhihu.com/question/603465676)<br />
 6. [美国选择提升债务上限，会对中国在内的债权国造成哪些影响？世界金融市场会被波及吗？](https://www.zhihu.com/question/602982084)<br />
-7. [答辩应该只答不辩吗？](https://www.zhihu.com/question/602700479)<br />
-8. [修真玄幻小说中一个超级宗门的底蕴都体现在哪些方面？](https://www.zhihu.com/question/602539766)<br />
-9. [当有人对程序猿说「给我装个系统呗」为什么他们会生气？](https://www.zhihu.com/question/600082606)<br />
+7. [修真玄幻小说中一个超级宗门的底蕴都体现在哪些方面？](https://www.zhihu.com/question/602539766)<br />
+8. [当有人对程序猿说「给我装个系统呗」为什么他们会生气？](https://www.zhihu.com/question/600082606)<br />
+9. [韩国一客机降落前舱门被打开，9 名乘客被送医，1 名乘客被逮捕，涉事乘客将承担哪些责任？](https://www.zhihu.com/question/603142998)<br />
 
 > 百度  
 
