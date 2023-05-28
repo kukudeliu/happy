@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 13:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 13:09:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [怀特绝杀 凯尔特人连扳三场进抢七](https://www.baidu.com/s?wd=%E6%80%80%E7%89%B9%E7%BB%9D%E6%9D%80+%E5%87%AF%E5%B0%94%E7%89%B9%E4%BA%BA%E8%BF%9E%E6%89%B3%E4%B8%89%E5%9C%BA%E8%BF%9B%E6%8A%A2%E4%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [县城拆迁所现“塌方式”腐败](https://www.baidu.com/s?wd=%E5%8E%BF%E5%9F%8E%E6%8B%86%E8%BF%81%E6%89%80%E7%8E%B0%E2%80%9C%E5%A1%8C%E6%96%B9%E5%BC%8F%E2%80%9D%E8%85%90%E8%B4%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [国企董事长接受异性有偿陪侍被查](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BC%81%E8%91%A3%E4%BA%8B%E9%95%BF%E6%8E%A5%E5%8F%97%E5%BC%82%E6%80%A7%E6%9C%89%E5%81%BF%E9%99%AA%E4%BE%8D%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [校长被教育局长喊人打伤？警方通报](https://www.baidu.com/s?wd=%E6%A0%A1%E9%95%BF%E8%A2%AB%E6%95%99%E8%82%B2%E5%B1%80%E9%95%BF%E5%96%8A%E4%BA%BA%E6%89%93%E4%BC%A4%EF%BC%9F%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [2教师疑为迎接领导捡鹅卵石溺亡](https://www.baidu.com/s?wd=2%E6%95%99%E5%B8%88%E7%96%91%E4%B8%BA%E8%BF%8E%E6%8E%A5%E9%A2%86%E5%AF%BC%E6%8D%A1%E9%B9%85%E5%8D%B5%E7%9F%B3%E6%BA%BA%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [怀特绝杀 凯尔特人连扳三场进抢七](https://www.baidu.com/s?wd=%E6%80%80%E7%89%B9%E7%BB%9D%E6%9D%80+%E5%87%AF%E5%B0%94%E7%89%B9%E4%BA%BA%E8%BF%9E%E6%89%B3%E4%B8%89%E5%9C%BA%E8%BF%9B%E6%8A%A2%E4%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [县城拆迁所现“塌方式”腐败](https://www.baidu.com/s?wd=%E5%8E%BF%E5%9F%8E%E6%8B%86%E8%BF%81%E6%89%80%E7%8E%B0%E2%80%9C%E5%A1%8C%E6%96%B9%E5%BC%8F%E2%80%9D%E8%85%90%E8%B4%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [国企董事长接受异性有偿陪侍被查](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BC%81%E8%91%A3%E4%BA%8B%E9%95%BF%E6%8E%A5%E5%8F%97%E5%BC%82%E6%80%A7%E6%9C%89%E5%81%BF%E9%99%AA%E4%BE%8D%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [校长被教育局长喊人打伤？警方通报](https://www.baidu.com/s?wd=%E6%A0%A1%E9%95%BF%E8%A2%AB%E6%95%99%E8%82%B2%E5%B1%80%E9%95%BF%E5%96%8A%E4%BA%BA%E6%89%93%E4%BC%A4%EF%BC%9F%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [2教师疑为迎接领导捡鹅卵石溺亡](https://www.baidu.com/s?wd=2%E6%95%99%E5%B8%88%E7%96%91%E4%B8%BA%E8%BF%8E%E6%8E%A5%E9%A2%86%E5%AF%BC%E6%8D%A1%E9%B9%85%E5%8D%B5%E7%9F%B3%E6%BA%BA%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
