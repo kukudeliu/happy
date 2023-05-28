@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 14:59:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 15:00:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [看迪丽热巴眼神不用审就招了](https://s.weibo.com/weibo?q=%23%E7%9C%8B%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9C%BC%E7%A5%9E%E4%B8%8D%E7%94%A8%E5%AE%A1%E5%B0%B1%E6%8B%9B%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [五月天演唱会志愿者伙食](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BF%97%E6%84%BF%E8%80%85%E4%BC%99%E9%A3%9F&t=31&band_rank=7&Refer=top)<br />
 8. [苏炳添二胎得子](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%82%B3%E6%B7%BB%E4%BA%8C%E8%83%8E%E5%BE%97%E5%AD%90%23&t=31&band_rank=8&Refer=top)<br />
-9. [从26楼撑伞跳下男童生命体征平稳](https://s.weibo.com/weibo?q=%23%E4%BB%8E26%E6%A5%BC%E6%92%91%E4%BC%9E%E8%B7%B3%E4%B8%8B%E7%94%B7%E7%AB%A5%E7%94%9F%E5%91%BD%E4%BD%93%E5%BE%81%E5%B9%B3%E7%A8%B3%23&t=31&band_rank=9&Refer=top)<br />
+9. [女子乘坐重庆网红电梯不慎摔倒滚落](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B9%98%E5%9D%90%E9%87%8D%E5%BA%86%E7%BD%91%E7%BA%A2%E7%94%B5%E6%A2%AF%E4%B8%8D%E6%85%8E%E6%91%94%E5%80%92%E6%BB%9A%E8%90%BD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
