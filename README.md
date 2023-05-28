@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 19:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 19:40:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [沈腾真睡啊](https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E7%9C%9F%E7%9D%A1%E5%95%8A%23&t=31&band_rank=6&Refer=top)<br />
 7. [市民被压车底20多人瞬间跑来救人](https://s.weibo.com/weibo?q=%23%E5%B8%82%E6%B0%91%E8%A2%AB%E5%8E%8B%E8%BD%A6%E5%BA%9520%E5%A4%9A%E4%BA%BA%E7%9E%AC%E9%97%B4%E8%B7%91%E6%9D%A5%E6%95%91%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [网购虾条居然收到了差评返现卡](https://s.weibo.com/weibo?q=%23%E7%BD%91%E8%B4%AD%E8%99%BE%E6%9D%A1%E5%B1%85%E7%84%B6%E6%94%B6%E5%88%B0%E4%BA%86%E5%B7%AE%E8%AF%84%E8%BF%94%E7%8E%B0%E5%8D%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [孙颖莎对战陈梦](https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E5%AF%B9%E6%88%98%E9%99%88%E6%A2%A6&t=31&band_rank=9&Refer=top)<br />
+9. [精致羞耻症](https://s.weibo.com/weibo?q=%23%E7%B2%BE%E8%87%B4%E7%BE%9E%E8%80%BB%E7%97%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
