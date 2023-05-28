@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 15:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 15:40:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [网购虾条居然收到了差评返现卡](https://s.weibo.com/weibo?q=%23%E7%BD%91%E8%B4%AD%E8%99%BE%E6%9D%A1%E5%B1%85%E7%84%B6%E6%94%B6%E5%88%B0%E4%BA%86%E5%B7%AE%E8%AF%84%E8%BF%94%E7%8E%B0%E5%8D%A1%23&t=31&band_rank=5&Refer=top)<br />
 6. [Lisa不发比基尼照的原因](https://s.weibo.com/weibo?q=%23Lisa%E4%B8%8D%E5%8F%91%E6%AF%94%E5%9F%BA%E5%B0%BC%E7%85%A7%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=6&Refer=top)<br />
 7. [老舅董宝石骂人没脏字](https://s.weibo.com/weibo?q=%E8%80%81%E8%88%85%E8%91%A3%E5%AE%9D%E7%9F%B3%E9%AA%82%E4%BA%BA%E6%B2%A1%E8%84%8F%E5%AD%97&t=31&band_rank=7&Refer=top)<br />
-8. [女子回家发现出租屋变灵堂](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9B%9E%E5%AE%B6%E5%8F%91%E7%8E%B0%E5%87%BA%E7%A7%9F%E5%B1%8B%E5%8F%98%E7%81%B5%E5%A0%82%23&t=31&band_rank=8&Refer=top)<br />
-9. [MBTI](https://s.weibo.com/weibo?q=MBTI&t=31&band_rank=9&Refer=top)<br />
+8. [MBTI](https://s.weibo.com/weibo?q=MBTI&t=31&band_rank=8&Refer=top)<br />
+9. [女子回家发现出租屋变灵堂](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9B%9E%E5%AE%B6%E5%8F%91%E7%8E%B0%E5%87%BA%E7%A7%9F%E5%B1%8B%E5%8F%98%E7%81%B5%E5%A0%82%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [石楠花又腥又臭为何还大面积种？你认为应该用其他植物替代石楠花吗？](https://www.zhihu.com/question/594892492)<br />
 7. [印度最高面值纸币将停用，如何看待这一规定？「废钞令」会对当地带来哪些影响？](https://www.zhihu.com/question/603453473)<br />
 8. []()<br />
-9. [如何评价《中国说唱巅峰对决 2023》第四期？](https://www.zhihu.com/question/603332646)<br />
+9. [5 月 28 日高考倒计时 10 天，你准备的如何了？有哪些备考建议？](https://www.zhihu.com/question/603316992)<br />
 
 > 百度  
 
