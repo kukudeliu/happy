@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 15:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 15:59:01</h4></div>
 
 > 微博  
 
@@ -32,9 +32,9 @@
 4. [中国顶级实验室来了](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A1%B6%E7%BA%A7%E5%AE%9E%E9%AA%8C%E5%AE%A4%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [教师为迎检查捡鹅卵石溺亡?官方回应](https://www.baidu.com/s?wd=%E6%95%99%E5%B8%88%E4%B8%BA%E8%BF%8E%E6%A3%80%E6%9F%A5%E6%8D%A1%E9%B9%85%E5%8D%B5%E7%9F%B3%E6%BA%BA%E4%BA%A1%3F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [小孩把景区钟乳石敲断带走](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A9%E6%8A%8A%E6%99%AF%E5%8C%BA%E9%92%9F%E4%B9%B3%E7%9F%B3%E6%95%B2%E6%96%AD%E5%B8%A6%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [医生公示学历为“祖传” 院方回应](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E5%85%AC%E7%A4%BA%E5%AD%A6%E5%8E%86%E4%B8%BA%E2%80%9C%E7%A5%96%E4%BC%A0%E2%80%9D+%E9%99%A2%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [县城拆迁所现“塌方式”腐败](https://www.baidu.com/s?wd=%E5%8E%BF%E5%9F%8E%E6%8B%86%E8%BF%81%E6%89%80%E7%8E%B0%E2%80%9C%E5%A1%8C%E6%96%B9%E5%BC%8F%E2%80%9D%E8%85%90%E8%B4%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女团演唱会被扔上台的玩偶有摄像头](https://www.baidu.com/s?wd=%E5%A5%B3%E5%9B%A2%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E6%89%94%E4%B8%8A%E5%8F%B0%E7%9A%84%E7%8E%A9%E5%81%B6%E6%9C%89%E6%91%84%E5%83%8F%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [从26楼撑伞跳下男童生命体征平稳](https://www.baidu.com/s?wd=%E4%BB%8E26%E6%A5%BC%E6%92%91%E4%BC%9E%E8%B7%B3%E4%B8%8B%E7%94%B7%E7%AB%A5%E7%94%9F%E5%91%BD%E4%BD%93%E5%BE%81%E5%B9%B3%E7%A8%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [医生公示学历为“祖传” 院方回应](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E5%85%AC%E7%A4%BA%E5%AD%A6%E5%8E%86%E4%B8%BA%E2%80%9C%E7%A5%96%E4%BC%A0%E2%80%9D+%E9%99%A2%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [中国顶级实验室来了](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A1%B6%E7%BA%A7%E5%AE%9E%E9%AA%8C%E5%AE%A4%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [教师为迎检查捡鹅卵石溺亡?官方回应](https://www.baidu.com/s?wd=%E6%95%99%E5%B8%88%E4%B8%BA%E8%BF%8E%E6%A3%80%E6%9F%A5%E6%8D%A1%E9%B9%85%E5%8D%B5%E7%9F%B3%E6%BA%BA%E4%BA%A1%3F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [小孩把景区钟乳石敲断带走](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A9%E6%8A%8A%E6%99%AF%E5%8C%BA%E9%92%9F%E4%B9%B3%E7%9F%B3%E6%95%B2%E6%96%AD%E5%B8%A6%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [医生公示学历为“祖传” 院方回应](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E5%85%AC%E7%A4%BA%E5%AD%A6%E5%8E%86%E4%B8%BA%E2%80%9C%E7%A5%96%E4%BC%A0%E2%80%9D+%E9%99%A2%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [县城拆迁所现“塌方式”腐败](https://www.baidu.com/s?wd=%E5%8E%BF%E5%9F%8E%E6%8B%86%E8%BF%81%E6%89%80%E7%8E%B0%E2%80%9C%E5%A1%8C%E6%96%B9%E5%BC%8F%E2%80%9D%E8%85%90%E8%B4%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女团演唱会被扔上台的玩偶有摄像头](https://www.baidu.com/s?wd=%E5%A5%B3%E5%9B%A2%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E6%89%94%E4%B8%8A%E5%8F%B0%E7%9A%84%E7%8E%A9%E5%81%B6%E6%9C%89%E6%91%84%E5%83%8F%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [从26楼撑伞跳下男童生命体征平稳](https://www.baidu.com/s?wd=%E4%BB%8E26%E6%A5%BC%E6%92%91%E4%BC%9E%E8%B7%B3%E4%B8%8B%E7%94%B7%E7%AB%A5%E7%94%9F%E5%91%BD%E4%BD%93%E5%BE%81%E5%B9%B3%E7%A8%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [医生公示学历为“祖传” 院方回应](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E5%85%AC%E7%A4%BA%E5%AD%A6%E5%8E%86%E4%B8%BA%E2%80%9C%E7%A5%96%E4%BC%A0%E2%80%9D+%E9%99%A2%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
