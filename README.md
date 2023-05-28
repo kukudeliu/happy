@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 10:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-28 10:35:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [报道称美国白宫和共和党达成债务上限协议，这意味着什么？哪些信息值得关注？](https://www.zhihu.com/question/603453790)<br />
 7. [公务员上岸已公示，但有了考研想法，要不要申请取消录用去考研?](https://www.zhihu.com/question/602976700)<br />
 8. [相关调查表明性侵有 85% 是熟人作案 ，为什么熟人性侵高发？如何防范？](https://www.zhihu.com/question/598215313)<br />
-9. [读书真的是最简单的出路吗？](https://www.zhihu.com/question/603367206)<br />
+9. [真的存在奠柏这种可以食人的树吗？](https://www.zhihu.com/question/30746016)<br />
 
 > 百度  
 
