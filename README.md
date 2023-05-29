@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 06:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 06:22:01</h4></div>
 
 > 微博  
 
@@ -18,11 +18,11 @@
 2. [俄对乌开出停火「四要求」，包括回到中立不结盟地位、宣布俄语为国语，如何解读？](https://www.zhihu.com/question/603591105)<br />
 3. [曝阿根廷中国行将获至少 500 万美元出场费 + 其他收入，保证梅西出场 45 分钟，有哪些信息值得关注？](https://www.zhihu.com/question/603618670)<br />
 4. [曾经风靡一时的 ghost 系统，为什么销声匿迹了？](https://www.zhihu.com/question/600905979)<br />
-5. []()<br />
-6. [为什么有些人宁愿选择坐 5 个小时的高铁，也不愿选择坐 2 个小时的飞机？](https://www.zhihu.com/question/266525950)<br />
-7. [英伟达 RTX 4060 Ti 性能测试正式解禁，性能到底如何，值得买吗？](https://www.zhihu.com/question/602839726)<br />
+5. [英伟达 RTX 4060 Ti 性能测试正式解禁，性能到底如何，值得买吗？](https://www.zhihu.com/question/602839726)<br />
+6. [如果父母都不在了，你还会再回故乡吗？](https://www.zhihu.com/question/575489954)<br />
+7. [为什么有些人宁愿选择坐 5 个小时的高铁，也不愿选择坐 2 个小时的飞机？](https://www.zhihu.com/question/266525950)<br />
 8. [当前美国银行业危机是否仍在蔓延？提升债务上限能抵消美联储加息的作用吗？美国通胀水平能否得到遏制？](https://www.zhihu.com/question/602979053)<br />
-9. [如果父母都不在了，你还会再回故乡吗？](https://www.zhihu.com/question/575489954)<br />
+9. []()<br />
 
 > 百度  
 
