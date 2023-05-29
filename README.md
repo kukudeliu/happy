@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-29 17:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-29 17:50:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [河南多地连日阴雨天致小麦受损严重，多地已开始抢收小麦，目前各地情况如何？保障粮食安全有多不容易？](https://www.zhihu.com/question/603608559)<br />
 6. [游戏《魔兽世界》有什么让你破防的瞬间？](https://www.zhihu.com/question/466341366)<br />
 7. [为什么有些人宁愿选择坐 5 个小时的高铁，也不愿选择坐 2 个小时的飞机？](https://www.zhihu.com/question/266525950)<br />
-8. [普通人应该知道哪些法律常识？](https://www.zhihu.com/question/19844498)<br />
-9. [如何评价杨紫琼、关继威、吴彦祖主演的美剧《 西游 ABC》？](https://www.zhihu.com/question/592827221)<br />
+8. [如何评价杨紫琼、关继威、吴彦祖主演的美剧《 西游 ABC》？](https://www.zhihu.com/question/592827221)<br />
+9. [上班和做家务，哪个更辛苦？](https://www.zhihu.com/question/600886546)<br />
 
 > 百度  
 
