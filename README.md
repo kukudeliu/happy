@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 05:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 05:39:01</h4></div>
 
 > 微博  
 
@@ -31,10 +31,10 @@
 3. [地铁上女子充电宝突然爆炸 烟雾弥漫](https://www.baidu.com/s?wd=%E5%9C%B0%E9%93%81%E4%B8%8A%E5%A5%B3%E5%AD%90%E5%85%85%E7%94%B5%E5%AE%9D%E7%AA%81%E7%84%B6%E7%88%86%E7%82%B8+%E7%83%9F%E9%9B%BE%E5%BC%A5%E6%BC%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [计划2030年前实现中国人登月](https://www.baidu.com/s?wd=%E8%AE%A1%E5%88%922030%E5%B9%B4%E5%89%8D%E5%AE%9E%E7%8E%B0%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%99%BB%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [河南79岁老农手捧发芽小麦抹泪](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%9779%E5%B2%81%E8%80%81%E5%86%9C%E6%89%8B%E6%8D%A7%E5%8F%91%E8%8A%BD%E5%B0%8F%E9%BA%A6%E6%8A%B9%E6%B3%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男子砍杀柯基威胁妻子 被拘12日](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A0%8D%E6%9D%80%E6%9F%AF%E5%9F%BA%E5%A8%81%E8%83%81%E5%A6%BB%E5%AD%90+%E8%A2%AB%E6%8B%9812%E6%97%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [高考307分女孩考研逆袭211](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83307%E5%88%86%E5%A5%B3%E5%AD%A9%E8%80%83%E7%A0%94%E9%80%86%E8%A2%AD211&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [演员顾本彬去世](https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E9%A1%BE%E6%9C%AC%E5%BD%AC%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子吃火锅遇假茅台被服务员提醒](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%90%83%E7%81%AB%E9%94%85%E9%81%87%E5%81%87%E8%8C%85%E5%8F%B0%E8%A2%AB%E6%9C%8D%E5%8A%A1%E5%91%98%E6%8F%90%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [多地立法处罚过马路玩手机](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E7%AB%8B%E6%B3%95%E5%A4%84%E7%BD%9A%E8%BF%87%E9%A9%AC%E8%B7%AF%E7%8E%A9%E6%89%8B%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [怀孕4个月被家暴？当地：女子先动手](https://www.baidu.com/s?wd=%E6%80%80%E5%AD%954%E4%B8%AA%E6%9C%88%E8%A2%AB%E5%AE%B6%E6%9A%B4%EF%BC%9F%E5%BD%93%E5%9C%B0%EF%BC%9A%E5%A5%B3%E5%AD%90%E5%85%88%E5%8A%A8%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [地铁上女子充电宝突然爆炸 烟雾弥漫](https://www.baidu.com/s?wd=%E5%9C%B0%E9%93%81%E4%B8%8A%E5%A5%B3%E5%AD%90%E5%85%85%E7%94%B5%E5%AE%9D%E7%AA%81%E7%84%B6%E7%88%86%E7%82%B8+%E7%83%9F%E9%9B%BE%E5%BC%A5%E6%BC%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [计划2030年前实现中国人登月](https://www.baidu.com/s?wd=%E8%AE%A1%E5%88%922030%E5%B9%B4%E5%89%8D%E5%AE%9E%E7%8E%B0%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%99%BB%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [河南79岁老农手捧发芽小麦抹泪](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%9779%E5%B2%81%E8%80%81%E5%86%9C%E6%89%8B%E6%8D%A7%E5%8F%91%E8%8A%BD%E5%B0%8F%E9%BA%A6%E6%8A%B9%E6%B3%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男子砍杀柯基威胁妻子 被拘12日](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A0%8D%E6%9D%80%E6%9F%AF%E5%9F%BA%E5%A8%81%E8%83%81%E5%A6%BB%E5%AD%90+%E8%A2%AB%E6%8B%9812%E6%97%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [高考307分女孩考研逆袭211](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83307%E5%88%86%E5%A5%B3%E5%AD%A9%E8%80%83%E7%A0%94%E9%80%86%E8%A2%AD211&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [演员顾本彬去世](https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E9%A1%BE%E6%9C%AC%E5%BD%AC%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子吃火锅遇假茅台被服务员提醒](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%90%83%E7%81%AB%E9%94%85%E9%81%87%E5%81%87%E8%8C%85%E5%8F%B0%E8%A2%AB%E6%9C%8D%E5%8A%A1%E5%91%98%E6%8F%90%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [多地立法处罚过马路玩手机](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E7%AB%8B%E6%B3%95%E5%A4%84%E7%BD%9A%E8%BF%87%E9%A9%AC%E8%B7%AF%E7%8E%A9%E6%89%8B%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [怀孕4个月被家暴？当地：女子先动手](https://www.baidu.com/s?wd=%E6%80%80%E5%AD%954%E4%B8%AA%E6%9C%88%E8%A2%AB%E5%AE%B6%E6%9A%B4%EF%BC%9F%E5%BD%93%E5%9C%B0%EF%BC%9A%E5%A5%B3%E5%AD%90%E5%85%88%E5%8A%A8%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
