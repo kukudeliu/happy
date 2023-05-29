@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-29 13:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-29 13:52:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [俄对乌开出停火要求](https://s.weibo.com/weibo?q=%23%E4%BF%84%E5%AF%B9%E4%B9%8C%E5%BC%80%E5%87%BA%E5%81%9C%E7%81%AB%E8%A6%81%E6%B1%82%23&t=31&band_rank=6&Refer=top)<br />
 7. [互联网真换了一批人啊](https://s.weibo.com/weibo?q=%23%E4%BA%92%E8%81%94%E7%BD%91%E7%9C%9F%E6%8D%A2%E4%BA%86%E4%B8%80%E6%89%B9%E4%BA%BA%E5%95%8A%23&t=31&band_rank=7&Refer=top)<br />
 8. [张萌问我出轨的角色这么经典吗](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%90%8C%E9%97%AE%E6%88%91%E5%87%BA%E8%BD%A8%E7%9A%84%E8%A7%92%E8%89%B2%E8%BF%99%E4%B9%88%E7%BB%8F%E5%85%B8%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [迪丽热巴的假蛇玩具](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9A%84%E5%81%87%E8%9B%87%E7%8E%A9%E5%85%B7%23&t=31&band_rank=9&Refer=top)<br />
+9. [上厕所途中千万不要冲厕所](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E5%8E%95%E6%89%80%E9%80%94%E4%B8%AD%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E5%86%B2%E5%8E%95%E6%89%80%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
