@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 04:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 04:49:01</h4></div>
 
 > 微博  
 
@@ -31,10 +31,10 @@
 3. [地铁上女子充电宝突然爆炸 烟雾弥漫](https://www.baidu.com/s?wd=%E5%9C%B0%E9%93%81%E4%B8%8A%E5%A5%B3%E5%AD%90%E5%85%85%E7%94%B5%E5%AE%9D%E7%AA%81%E7%84%B6%E7%88%86%E7%82%B8+%E7%83%9F%E9%9B%BE%E5%BC%A5%E6%BC%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [计划2030年前实现中国人登月](https://www.baidu.com/s?wd=%E8%AE%A1%E5%88%922030%E5%B9%B4%E5%89%8D%E5%AE%9E%E7%8E%B0%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%99%BB%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [河南79岁老农手捧发芽小麦抹泪](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%9779%E5%B2%81%E8%80%81%E5%86%9C%E6%89%8B%E6%8D%A7%E5%8F%91%E8%8A%BD%E5%B0%8F%E9%BA%A6%E6%8A%B9%E6%B3%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [医疗纠纷引出毒品案 51人被抓](https://www.baidu.com/s?wd=%E5%8C%BB%E7%96%97%E7%BA%A0%E7%BA%B7%E5%BC%95%E5%87%BA%E6%AF%92%E5%93%81%E6%A1%88+51%E4%BA%BA%E8%A2%AB%E6%8A%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [镇长酒驾被查三月后获提拔 当地回应](https://www.baidu.com/s?wd=%E9%95%87%E9%95%BF%E9%85%92%E9%A9%BE%E8%A2%AB%E6%9F%A5%E4%B8%89%E6%9C%88%E5%90%8E%E8%8E%B7%E6%8F%90%E6%8B%94+%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [镇长酒驾被查三月后获提拔 当地回应](https://www.baidu.com/s?wd=%E9%95%87%E9%95%BF%E9%85%92%E9%A9%BE%E8%A2%AB%E6%9F%A5%E4%B8%89%E6%9C%88%E5%90%8E%E8%8E%B7%E6%8F%90%E6%8B%94+%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子吃火锅遇假茅台被服务员提醒](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%90%83%E7%81%AB%E9%94%85%E9%81%87%E5%81%87%E8%8C%85%E5%8F%B0%E8%A2%AB%E6%9C%8D%E5%8A%A1%E5%91%98%E6%8F%90%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [一条龙鱼居然能换一套房](https://www.baidu.com/s?wd=%E4%B8%80%E6%9D%A1%E9%BE%99%E9%B1%BC%E5%B1%85%E7%84%B6%E8%83%BD%E6%8D%A2%E4%B8%80%E5%A5%97%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [演员顾本彬去世](https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E9%A1%BE%E6%9C%AC%E5%BD%AC%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [成熟麦子因降雨发芽？当地回应](https://www.baidu.com/s?wd=%E6%88%90%E7%86%9F%E9%BA%A6%E5%AD%90%E5%9B%A0%E9%99%8D%E9%9B%A8%E5%8F%91%E8%8A%BD%EF%BC%9F%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [地铁上女子充电宝突然爆炸 烟雾弥漫](https://www.baidu.com/s?wd=%E5%9C%B0%E9%93%81%E4%B8%8A%E5%A5%B3%E5%AD%90%E5%85%85%E7%94%B5%E5%AE%9D%E7%AA%81%E7%84%B6%E7%88%86%E7%82%B8+%E7%83%9F%E9%9B%BE%E5%BC%A5%E6%BC%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [计划2030年前实现中国人登月](https://www.baidu.com/s?wd=%E8%AE%A1%E5%88%922030%E5%B9%B4%E5%89%8D%E5%AE%9E%E7%8E%B0%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%99%BB%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [河南79岁老农手捧发芽小麦抹泪](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%9779%E5%B2%81%E8%80%81%E5%86%9C%E6%89%8B%E6%8D%A7%E5%8F%91%E8%8A%BD%E5%B0%8F%E9%BA%A6%E6%8A%B9%E6%B3%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [医疗纠纷引出毒品案 51人被抓](https://www.baidu.com/s?wd=%E5%8C%BB%E7%96%97%E7%BA%A0%E7%BA%B7%E5%BC%95%E5%87%BA%E6%AF%92%E5%93%81%E6%A1%88+51%E4%BA%BA%E8%A2%AB%E6%8A%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [镇长酒驾被查三月后获提拔 当地回应](https://www.baidu.com/s?wd=%E9%95%87%E9%95%BF%E9%85%92%E9%A9%BE%E8%A2%AB%E6%9F%A5%E4%B8%89%E6%9C%88%E5%90%8E%E8%8E%B7%E6%8F%90%E6%8B%94+%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [镇长酒驾被查三月后获提拔 当地回应](https://www.baidu.com/s?wd=%E9%95%87%E9%95%BF%E9%85%92%E9%A9%BE%E8%A2%AB%E6%9F%A5%E4%B8%89%E6%9C%88%E5%90%8E%E8%8E%B7%E6%8F%90%E6%8B%94+%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子吃火锅遇假茅台被服务员提醒](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%90%83%E7%81%AB%E9%94%85%E9%81%87%E5%81%87%E8%8C%85%E5%8F%B0%E8%A2%AB%E6%9C%8D%E5%8A%A1%E5%91%98%E6%8F%90%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [一条龙鱼居然能换一套房](https://www.baidu.com/s?wd=%E4%B8%80%E6%9D%A1%E9%BE%99%E9%B1%BC%E5%B1%85%E7%84%B6%E8%83%BD%E6%8D%A2%E4%B8%80%E5%A5%97%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [演员顾本彬去世](https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E9%A1%BE%E6%9C%AC%E5%BD%AC%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [成熟麦子因降雨发芽？当地回应](https://www.baidu.com/s?wd=%E6%88%90%E7%86%9F%E9%BA%A6%E5%AD%90%E5%9B%A0%E9%99%8D%E9%9B%A8%E5%8F%91%E8%8A%BD%EF%BC%9F%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
