@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-29 23:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-29 23:43:01</h4></div>
 
 > 微博  
 
@@ -21,7 +21,7 @@
 5. [《红楼梦》中你们所记得的最小的细节是什么？](https://www.zhihu.com/question/39926189)<br />
 6. [如果父母都不在了，你还会再回故乡吗？](https://www.zhihu.com/question/575489954)<br />
 7. [英伟达 RTX 4060 Ti 性能测试正式解禁，性能到底如何，值得买吗？](https://www.zhihu.com/question/602839726)<br />
-8. [曾经风靡一时的 ghost 系统，为什么销声匿迹了？](https://www.zhihu.com/question/600905979)<br />
+8. [当前美国银行业危机是否仍在蔓延？提升债务上限能抵消美联储加息的作用吗？美国通胀水平能否得到遏制？](https://www.zhihu.com/question/602979053)<br />
 9. [神舟十六号瞄准 5 月 30 日发射，航天员为景海鹏、朱杨柱、桂海潮，此次任务有哪些亮点值得期待？](https://www.zhihu.com/question/603578672)<br />
 
 > 百度  
