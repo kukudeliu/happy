@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 07:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 07:13:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [曾经风靡一时的 ghost 系统，为什么销声匿迹了？](https://www.zhihu.com/question/600905979)<br />
 6. [年轻人的生育意愿为什么越来越低？该如何提高年轻人的生育意愿？](https://www.zhihu.com/question/603504362)<br />
 7. [在古代拿块小石头镀银后，能当银子去买东西吗？](https://www.zhihu.com/question/589065183)<br />
-8. [如果父母都不在了，你还会再回故乡吗？](https://www.zhihu.com/question/575489954)<br />
-9. []()<br />
+8. [《教父》中，女婿家暴女儿，老教父为什么不管？](https://www.zhihu.com/question/277718004)<br />
+9. [你是在什么时候突然看懂了一部经典电影？](https://www.zhihu.com/question/601570261)<br />
 
 > 百度  
 
