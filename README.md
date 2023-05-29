@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 04:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 04:50:01</h4></div>
 
 > 微博  
 
@@ -17,8 +17,8 @@
 1. [俄对乌开出停火「四要求」，包括回到中立不结盟地位、宣布俄语为国语，如何解读？](https://www.zhihu.com/question/603591105)<br />
 2. [年轻人的生育意愿为什么越来越低？该如何提高年轻人的生育意愿？](https://www.zhihu.com/question/603504362)<br />
 3. [曝阿根廷中国行将获至少 500 万美元出场费 + 其他收入，保证梅西出场 45 分钟，有哪些信息值得关注？](https://www.zhihu.com/question/603618670)<br />
-4. [为什么有些人宁愿选择坐 5 个小时的高铁，也不愿选择坐 2 个小时的飞机？](https://www.zhihu.com/question/266525950)<br />
-5. [曾经风靡一时的 ghost 系统，为什么销声匿迹了？](https://www.zhihu.com/question/600905979)<br />
+4. [曾经风靡一时的 ghost 系统，为什么销声匿迹了？](https://www.zhihu.com/question/600905979)<br />
+5. [为什么有些人宁愿选择坐 5 个小时的高铁，也不愿选择坐 2 个小时的飞机？](https://www.zhihu.com/question/266525950)<br />
 6. []()<br />
 7. [你曾使用过的最靠谱的驱蚊方式是什么？](https://www.zhihu.com/question/21439242)<br />
 8. []()<br />
