@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 07:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 07:27:01</h4></div>
 
 > 微博  
 
@@ -8,14 +8,14 @@
 4. [刘浩存在海底捞给路人唱生日歌](https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B5%A9%E5%AD%98%E5%9C%A8%E6%B5%B7%E5%BA%95%E6%8D%9E%E7%BB%99%E8%B7%AF%E4%BA%BA%E5%94%B1%E7%94%9F%E6%97%A5%E6%AD%8C%23&t=31&band_rank=4&Refer=top)<br />
 5. [韩亚航空事件中空姐一直用身体挡住舱门](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E4%BA%9A%E8%88%AA%E7%A9%BA%E4%BA%8B%E4%BB%B6%E4%B8%AD%E7%A9%BA%E5%A7%90%E4%B8%80%E7%9B%B4%E7%94%A8%E8%BA%AB%E4%BD%93%E6%8C%A1%E4%BD%8F%E8%88%B1%E9%97%A8%23&t=31&band_rank=5&Refer=top)<br />
 6. [上海一老人误将地铁扶手当售卖机](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%B8%80%E8%80%81%E4%BA%BA%E8%AF%AF%E5%B0%86%E5%9C%B0%E9%93%81%E6%89%B6%E6%89%8B%E5%BD%93%E5%94%AE%E5%8D%96%E6%9C%BA%23&t=31&band_rank=6&Refer=top)<br />
-7. [白敬亭他叔](https://s.weibo.com/weibo?q=%E7%99%BD%E6%95%AC%E4%BA%AD%E4%BB%96%E5%8F%94&t=31&band_rank=7&Refer=top)<br />
-8. [四个显眼包](https://s.weibo.com/weibo?q=%E5%9B%9B%E4%B8%AA%E6%98%BE%E7%9C%BC%E5%8C%85&t=31&band_rank=8&Refer=top)<br />
+7. [四个显眼包](https://s.weibo.com/weibo?q=%E5%9B%9B%E4%B8%AA%E6%98%BE%E7%9C%BC%E5%8C%85&t=31&band_rank=7&Refer=top)<br />
+8. [白敬亭他叔](https://s.weibo.com/weibo?q=%E7%99%BD%E6%95%AC%E4%BA%AD%E4%BB%96%E5%8F%94&t=31&band_rank=8&Refer=top)<br />
 9. [你管周也这张脸叫普普通通](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%AE%A1%E5%91%A8%E4%B9%9F%E8%BF%99%E5%BC%A0%E8%84%B8%E5%8F%AB%E6%99%AE%E6%99%AE%E9%80%9A%E9%80%9A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [俄对乌开出停火「四要求」，包括回到中立不结盟地位、宣布俄语为国语，如何解读？](https://www.zhihu.com/question/603591105)<br />
-2. []()<br />
+2. [如何看待《中国说唱巅峰对决 2023》第四期中宝石 Gem 被淘汰？](https://www.zhihu.com/question/603335415)<br />
 3. [2023 LPL 夏季赛 UP 2:1 AL，如何评价这场比赛？](https://www.zhihu.com/question/603637760)<br />
 4. [曝阿根廷中国行将获至少 500 万美元出场费 + 其他收入，保证梅西出场 45 分钟，有哪些信息值得关注？](https://www.zhihu.com/question/603618670)<br />
 5. [曾经风靡一时的 ghost 系统，为什么销声匿迹了？](https://www.zhihu.com/question/600905979)<br />
