@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 07:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 07:05:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [在古代拿块小石头镀银后，能当银子去买东西吗？](https://www.zhihu.com/question/589065183)<br />
 7. [为什么有些人宁愿选择坐 5 个小时的高铁，也不愿选择坐 2 个小时的飞机？](https://www.zhihu.com/question/266525950)<br />
 8. [《教父》中，女婿家暴女儿，老教父为什么不管？](https://www.zhihu.com/question/277718004)<br />
-9. [有性价比高的洗地机推荐吗？](https://www.zhihu.com/question/462060503)<br />
+9. [2023年618有哪些家电值得入手？](https://www.zhihu.com/question/599809337)<br />
 
 > 百度  
 
