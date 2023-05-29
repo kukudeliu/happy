@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 07:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 07:29:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [在古代拿块小石头镀银后，能当银子去买东西吗？](https://www.zhihu.com/question/589065183)<br />
 7. [《教父》中，女婿家暴女儿，老教父为什么不管？](https://www.zhihu.com/question/277718004)<br />
 8. [为什么狗的体型有大有小，而猫的体型却都差不多，基本属于同一「量级」？](https://www.zhihu.com/question/602902935)<br />
-9. [为什么狗喜欢等主人回家后再吃饭？](https://www.zhihu.com/question/588761128)<br />
+9. [为什么我学猫走路，猫反而被我吓到了？](https://www.zhihu.com/question/602628777)<br />
 
 > 百度  
 
