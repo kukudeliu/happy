@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 07:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 07:17:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [韩亚航空事件中空姐一直用身体挡住舱门](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E4%BA%9A%E8%88%AA%E7%A9%BA%E4%BA%8B%E4%BB%B6%E4%B8%AD%E7%A9%BA%E5%A7%90%E4%B8%80%E7%9B%B4%E7%94%A8%E8%BA%AB%E4%BD%93%E6%8C%A1%E4%BD%8F%E8%88%B1%E9%97%A8%23&t=31&band_rank=5&Refer=top)<br />
 6. [白敬亭他叔](https://s.weibo.com/weibo?q=%E7%99%BD%E6%95%AC%E4%BA%AD%E4%BB%96%E5%8F%94&t=31&band_rank=6&Refer=top)<br />
 7. [四个显眼包](https://s.weibo.com/weibo?q=%E5%9B%9B%E4%B8%AA%E6%98%BE%E7%9C%BC%E5%8C%85&t=31&band_rank=7&Refer=top)<br />
-8. [河南79岁老农手捧发芽小麦抹泪](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%9779%E5%B2%81%E8%80%81%E5%86%9C%E6%89%8B%E6%8D%A7%E5%8F%91%E8%8A%BD%E5%B0%8F%E9%BA%A6%E6%8A%B9%E6%B3%AA%23&t=31&band_rank=8&Refer=top)<br />
-9. [你管周也这张脸叫普普通通](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%AE%A1%E5%91%A8%E4%B9%9F%E8%BF%99%E5%BC%A0%E8%84%B8%E5%8F%AB%E6%99%AE%E6%99%AE%E9%80%9A%E9%80%9A%23&t=31&band_rank=9&Refer=top)<br />
+8. [你管周也这张脸叫普普通通](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%AE%A1%E5%91%A8%E4%B9%9F%E8%BF%99%E5%BC%A0%E8%84%B8%E5%8F%AB%E6%99%AE%E6%99%AE%E9%80%9A%E9%80%9A%23&t=31&band_rank=8&Refer=top)<br />
+9. [河南79岁老农手捧发芽小麦抹泪](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%9779%E5%B2%81%E8%80%81%E5%86%9C%E6%89%8B%E6%8D%A7%E5%8F%91%E8%8A%BD%E5%B0%8F%E9%BA%A6%E6%8A%B9%E6%B3%AA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [年轻人的生育意愿为什么越来越低？该如何提高年轻人的生育意愿？](https://www.zhihu.com/question/603504362)<br />
 7. [在古代拿块小石头镀银后，能当银子去买东西吗？](https://www.zhihu.com/question/589065183)<br />
 8. [《教父》中，女婿家暴女儿，老教父为什么不管？](https://www.zhihu.com/question/277718004)<br />
-9. [投影仪为何越来越受年轻消费者青睐？未来有取代传统电视的可能吗？](https://www.zhihu.com/question/591265768)<br />
+9. [骑自行车上坡为什么比推着更累？](https://www.zhihu.com/question/602559078)<br />
 
 > 百度  
 
