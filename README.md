@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 04:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 04:48:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [你管周也这张脸叫普普通通](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%AE%A1%E5%91%A8%E4%B9%9F%E8%BF%99%E5%BC%A0%E8%84%B8%E5%8F%AB%E6%99%AE%E6%99%AE%E9%80%9A%E9%80%9A%23&t=31&band_rank=6&Refer=top)<br />
 7. [肠道是熬夜猝死元凶之一](https://s.weibo.com/weibo?q=%23%E8%82%A0%E9%81%93%E6%98%AF%E7%86%AC%E5%A4%9C%E7%8C%9D%E6%AD%BB%E5%85%83%E5%87%B6%E4%B9%8B%E4%B8%80%23&t=31&band_rank=7&Refer=top)<br />
 8. [四个显眼包](https://s.weibo.com/weibo?q=%E5%9B%9B%E4%B8%AA%E6%98%BE%E7%9C%BC%E5%8C%85&t=31&band_rank=8&Refer=top)<br />
-9. [韩式演技](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%BC%8F%E6%BC%94%E6%8A%80&t=31&band_rank=9&Refer=top)<br />
+9. [河南79岁老农手捧发芽小麦抹泪](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%9779%E5%B2%81%E8%80%81%E5%86%9C%E6%89%8B%E6%8D%A7%E5%8F%91%E8%8A%BD%E5%B0%8F%E9%BA%A6%E6%8A%B9%E6%B3%AA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
