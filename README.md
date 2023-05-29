@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 04:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 04:20:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [四个显眼包](https://s.weibo.com/weibo?q=%E5%9B%9B%E4%B8%AA%E6%98%BE%E7%9C%BC%E5%8C%85&t=31&band_rank=6&Refer=top)<br />
 7. [肠道是熬夜猝死元凶之一](https://s.weibo.com/weibo?q=%23%E8%82%A0%E9%81%93%E6%98%AF%E7%86%AC%E5%A4%9C%E7%8C%9D%E6%AD%BB%E5%85%83%E5%87%B6%E4%B9%8B%E4%B8%80%23&t=31&band_rank=7&Refer=top)<br />
 8. [原来这是焦虑的表现](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E8%BF%99%E6%98%AF%E7%84%A6%E8%99%91%E7%9A%84%E8%A1%A8%E7%8E%B0&t=31&band_rank=8&Refer=top)<br />
-9. [你管周也这张脸叫普普通通](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%AE%A1%E5%91%A8%E4%B9%9F%E8%BF%99%E5%BC%A0%E8%84%B8%E5%8F%AB%E6%99%AE%E6%99%AE%E9%80%9A%E9%80%9A%23&t=31&band_rank=9&Refer=top)<br />
+9. [韩式演技](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%BC%8F%E6%BC%94%E6%8A%80&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
