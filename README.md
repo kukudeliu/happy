@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 03:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 03:07:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [韩亚航空事件中空姐一直用身体挡住舱门](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E4%BA%9A%E8%88%AA%E7%A9%BA%E4%BA%8B%E4%BB%B6%E4%B8%AD%E7%A9%BA%E5%A7%90%E4%B8%80%E7%9B%B4%E7%94%A8%E8%BA%AB%E4%BD%93%E6%8C%A1%E4%BD%8F%E8%88%B1%E9%97%A8%23&t=31&band_rank=5&Refer=top)<br />
 6. [四个显眼包](https://s.weibo.com/weibo?q=%E5%9B%9B%E4%B8%AA%E6%98%BE%E7%9C%BC%E5%8C%85&t=31&band_rank=6&Refer=top)<br />
 7. [肠道是熬夜猝死元凶之一](https://s.weibo.com/weibo?q=%23%E8%82%A0%E9%81%93%E6%98%AF%E7%86%AC%E5%A4%9C%E7%8C%9D%E6%AD%BB%E5%85%83%E5%87%B6%E4%B9%8B%E4%B8%80%23&t=31&band_rank=7&Refer=top)<br />
-8. [生死遗言](https://s.weibo.com/weibo?q=%E7%94%9F%E6%AD%BB%E9%81%97%E8%A8%80&t=31&band_rank=8&Refer=top)<br />
-9. [你管周也这张脸叫普普通通](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%AE%A1%E5%91%A8%E4%B9%9F%E8%BF%99%E5%BC%A0%E8%84%B8%E5%8F%AB%E6%99%AE%E6%99%AE%E9%80%9A%E9%80%9A%23&t=31&band_rank=9&Refer=top)<br />
+8. [你管周也这张脸叫普普通通](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%AE%A1%E5%91%A8%E4%B9%9F%E8%BF%99%E5%BC%A0%E8%84%B8%E5%8F%AB%E6%99%AE%E6%99%AE%E9%80%9A%E9%80%9A%23&t=31&band_rank=8&Refer=top)<br />
+9. [生死遗言](https://s.weibo.com/weibo?q=%E7%94%9F%E6%AD%BB%E9%81%97%E8%A8%80&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. []()<br />
 7. []()<br />
 8. []()<br />
-9. []()<br />
+9. [曾经风靡一时的 ghost 系统，为什么销声匿迹了？](https://www.zhihu.com/question/600905979)<br />
 
 > 百度  
 
