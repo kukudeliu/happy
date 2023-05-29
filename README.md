@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 00:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 00:10:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [全世界都在等你们分手](https://s.weibo.com/weibo?q=%E5%85%A8%E4%B8%96%E7%95%8C%E9%83%BD%E5%9C%A8%E7%AD%89%E4%BD%A0%E4%BB%AC%E5%88%86%E6%89%8B&t=31&band_rank=6&Refer=top)<br />
 7. [刘浩存在海底捞给路人唱生日歌](https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B5%A9%E5%AD%98%E5%9C%A8%E6%B5%B7%E5%BA%95%E6%8D%9E%E7%BB%99%E8%B7%AF%E4%BA%BA%E5%94%B1%E7%94%9F%E6%97%A5%E6%AD%8C%23&t=31&band_rank=7&Refer=top)<br />
 8. [韩亚航空事件中空姐一直用身体挡住舱门](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E4%BA%9A%E8%88%AA%E7%A9%BA%E4%BA%8B%E4%BB%B6%E4%B8%AD%E7%A9%BA%E5%A7%90%E4%B8%80%E7%9B%B4%E7%94%A8%E8%BA%AB%E4%BD%93%E6%8C%A1%E4%BD%8F%E8%88%B1%E9%97%A8%23&t=31&band_rank=8&Refer=top)<br />
-9. [韩式演技](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%BC%8F%E6%BC%94%E6%8A%80&t=31&band_rank=9&Refer=top)<br />
+9. [你管周也这张脸叫普普通通](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%AE%A1%E5%91%A8%E4%B9%9F%E8%BF%99%E5%BC%A0%E8%84%B8%E5%8F%AB%E6%99%AE%E6%99%AE%E9%80%9A%E9%80%9A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -19,9 +19,9 @@
 3. [为什么有些人宁愿选择坐 5 个小时的高铁，也不愿选择坐 2 个小时的飞机？](https://www.zhihu.com/question/266525950)<br />
 4. [曝阿根廷中国行将获至少 500 万美元出场费 + 其他收入，保证梅西出场 45 分钟，有哪些信息值得关注？](https://www.zhihu.com/question/603618670)<br />
 5. [如果父母都不在了，你还会再回故乡吗？](https://www.zhihu.com/question/575489954)<br />
-6. [《红楼梦》中你们所记得的最小的细节是什么？](https://www.zhihu.com/question/39926189)<br />
-7. [当前美国银行业危机是否仍在蔓延？提升债务上限能抵消美联储加息的作用吗？美国通胀水平能否得到遏制？](https://www.zhihu.com/question/602979053)<br />
-8. []()<br />
+6. [当前美国银行业危机是否仍在蔓延？提升债务上限能抵消美联储加息的作用吗？美国通胀水平能否得到遏制？](https://www.zhihu.com/question/602979053)<br />
+7. []()<br />
+8. [《红楼梦》中你们所记得的最小的细节是什么？](https://www.zhihu.com/question/39926189)<br />
 9. [曾经风靡一时的 ghost 系统，为什么销声匿迹了？](https://www.zhihu.com/question/600905979)<br />
 
 > 百度  
