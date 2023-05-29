@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-29 21:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-29 21:10:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [腾讯视频排播](https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%E6%8E%92%E6%92%AD%23&t=31&band_rank=6&Refer=top)<br />
 7. [TFBOYS十周年有望合体](https://s.weibo.com/weibo?q=%23TFBOYS%E5%8D%81%E5%91%A8%E5%B9%B4%E6%9C%89%E6%9C%9B%E5%90%88%E4%BD%93%23&t=31&band_rank=7&Refer=top)<br />
 8. [丫丫](https://s.weibo.com/weibo?q=%E4%B8%AB%E4%B8%AB&t=31&band_rank=8&Refer=top)<br />
-9. [椰树审美](https://s.weibo.com/weibo?q=%E6%A4%B0%E6%A0%91%E5%AE%A1%E7%BE%8E&t=31&band_rank=9&Refer=top)<br />
+9. [柯基被砍当事人称将起诉离婚](https://s.weibo.com/weibo?q=%23%E6%9F%AF%E5%9F%BA%E8%A2%AB%E7%A0%8D%E5%BD%93%E4%BA%8B%E4%BA%BA%E7%A7%B0%E5%B0%86%E8%B5%B7%E8%AF%89%E7%A6%BB%E5%A9%9A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
