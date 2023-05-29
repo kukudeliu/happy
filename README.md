@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-29 19:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-29 19:50:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [刘浩存五月天演唱会和宋威龙视频](https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B5%A9%E5%AD%98%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E5%92%8C%E5%AE%8B%E5%A8%81%E9%BE%99%E8%A7%86%E9%A2%91%23&t=31&band_rank=6&Refer=top)<br />
 7. [丫丫和萌兰在国画里先见面啦](https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E5%92%8C%E8%90%8C%E5%85%B0%E5%9C%A8%E5%9B%BD%E7%94%BB%E9%87%8C%E5%85%88%E8%A7%81%E9%9D%A2%E5%95%A6%23&t=31&band_rank=7&Refer=top)<br />
 8. [时代峰峻备案十年](https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E5%A4%87%E6%A1%88%E5%8D%81%E5%B9%B4%23&t=31&band_rank=8&Refer=top)<br />
-9. [付辛博带路人儿子上厕所](https://s.weibo.com/weibo?q=%23%E4%BB%98%E8%BE%9B%E5%8D%9A%E5%B8%A6%E8%B7%AF%E4%BA%BA%E5%84%BF%E5%AD%90%E4%B8%8A%E5%8E%95%E6%89%80%23&t=31&band_rank=9&Refer=top)<br />
+9. [迪丽热巴直播](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9B%B4%E6%92%AD&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
