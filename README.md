@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 06:32:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 06:33:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [白敬亭他叔](https://s.weibo.com/weibo?q=%E7%99%BD%E6%95%AC%E4%BA%AD%E4%BB%96%E5%8F%94&t=31&band_rank=6&Refer=top)<br />
 7. [河南79岁老农手捧发芽小麦抹泪](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%9779%E5%B2%81%E8%80%81%E5%86%9C%E6%89%8B%E6%8D%A7%E5%8F%91%E8%8A%BD%E5%B0%8F%E9%BA%A6%E6%8A%B9%E6%B3%AA%23&t=31&band_rank=7&Refer=top)<br />
 8. [你管周也这张脸叫普普通通](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%AE%A1%E5%91%A8%E4%B9%9F%E8%BF%99%E5%BC%A0%E8%84%B8%E5%8F%AB%E6%99%AE%E6%99%AE%E9%80%9A%E9%80%9A%23&t=31&band_rank=8&Refer=top)<br />
-9. [四个显眼包](https://s.weibo.com/weibo?q=%E5%9B%9B%E4%B8%AA%E6%98%BE%E7%9C%BC%E5%8C%85&t=31&band_rank=9&Refer=top)<br />
+9. [上海一老人误将地铁扶手当售卖机](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%B8%80%E8%80%81%E4%BA%BA%E8%AF%AF%E5%B0%86%E5%9C%B0%E9%93%81%E6%89%B6%E6%89%8B%E5%BD%93%E5%94%AE%E5%8D%96%E6%9C%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
