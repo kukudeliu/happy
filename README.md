@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-29 23:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-29 23:28:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [四个显眼包](https://s.weibo.com/weibo?q=%E5%9B%9B%E4%B8%AA%E6%98%BE%E7%9C%BC%E5%8C%85&t=31&band_rank=6&Refer=top)<br />
 7. [男子吃火锅遇假茅台被服务员提醒](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%90%83%E7%81%AB%E9%94%85%E9%81%87%E5%81%87%E8%8C%85%E5%8F%B0%E8%A2%AB%E6%9C%8D%E5%8A%A1%E5%91%98%E6%8F%90%E9%86%92%23&t=31&band_rank=7&Refer=top)<br />
 8. [韩亚航空事件中空姐一直用身体挡住舱门](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E4%BA%9A%E8%88%AA%E7%A9%BA%E4%BA%8B%E4%BB%B6%E4%B8%AD%E7%A9%BA%E5%A7%90%E4%B8%80%E7%9B%B4%E7%94%A8%E8%BA%AB%E4%BD%93%E6%8C%A1%E4%BD%8F%E8%88%B1%E9%97%A8%23&t=31&band_rank=8&Refer=top)<br />
-9. [白敬亭他叔](https://s.weibo.com/weibo?q=%E7%99%BD%E6%95%AC%E4%BA%AD%E4%BB%96%E5%8F%94&t=31&band_rank=9&Refer=top)<br />
+9. [刘浩存在海底捞给路人唱生日歌](https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B5%A9%E5%AD%98%E5%9C%A8%E6%B5%B7%E5%BA%95%E6%8D%9E%E7%BB%99%E8%B7%AF%E4%BA%BA%E5%94%B1%E7%94%9F%E6%97%A5%E6%AD%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
