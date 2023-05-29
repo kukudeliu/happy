@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-29 13:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-29 13:25:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [BLACKPINK文案引争议](https://s.weibo.com/weibo?q=%23BLACKPINK%E6%96%87%E6%A1%88%E5%BC%95%E4%BA%89%E8%AE%AE%23&t=31&band_rank=6&Refer=top)<br />
 7. [上厕所途中千万不要冲厕所](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E5%8E%95%E6%89%80%E9%80%94%E4%B8%AD%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E5%86%B2%E5%8E%95%E6%89%80%23&t=31&band_rank=7&Refer=top)<br />
 8. [互联网真换了一批人啊](https://s.weibo.com/weibo?q=%23%E4%BA%92%E8%81%94%E7%BD%91%E7%9C%9F%E6%8D%A2%E4%BA%86%E4%B8%80%E6%89%B9%E4%BA%BA%E5%95%8A%23&t=31&band_rank=8&Refer=top)<br />
-9. [迪丽热巴的假蛇玩具](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9A%84%E5%81%87%E8%9B%87%E7%8E%A9%E5%85%B7%23&t=31&band_rank=9&Refer=top)<br />
+9. [丫丫一到家就被竹子包围了](https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E4%B8%80%E5%88%B0%E5%AE%B6%E5%B0%B1%E8%A2%AB%E7%AB%B9%E5%AD%90%E5%8C%85%E5%9B%B4%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
