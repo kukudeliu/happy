@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 04:36:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 04:37:02</h4></div>
 
 > 微博  
 
@@ -20,8 +20,8 @@
 4. [为什么有些人宁愿选择坐 5 个小时的高铁，也不愿选择坐 2 个小时的飞机？](https://www.zhihu.com/question/266525950)<br />
 5. [曾经风靡一时的 ghost 系统，为什么销声匿迹了？](https://www.zhihu.com/question/600905979)<br />
 6. []()<br />
-7. []()<br />
-8. [你曾使用过的最靠谱的驱蚊方式是什么？](https://www.zhihu.com/question/21439242)<br />
+7. [你曾使用过的最靠谱的驱蚊方式是什么？](https://www.zhihu.com/question/21439242)<br />
+8. []()<br />
 9. []()<br />
 
 > 百度  
