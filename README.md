@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 18:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 18:56:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [时尚芭莎红毯](https://s.weibo.com/weibo?q=%E6%97%B6%E5%B0%9A%E8%8A%AD%E8%8E%8E%E7%BA%A2%E6%AF%AF&t=31&band_rank=6&Refer=top)<br />
 7. [凌晨4点民警上门拥抱安慰哭泣男孩](https://s.weibo.com/weibo?q=%23%E5%87%8C%E6%99%A84%E7%82%B9%E6%B0%91%E8%AD%A6%E4%B8%8A%E9%97%A8%E6%8B%A5%E6%8A%B1%E5%AE%89%E6%85%B0%E5%93%AD%E6%B3%A3%E7%94%B7%E5%AD%A9%23&t=31&band_rank=7&Refer=top)<br />
 8. [迪丽热巴出图了吗](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%87%BA%E5%9B%BE%E4%BA%86%E5%90%97&t=31&band_rank=8&Refer=top)<br />
-9. [金鸡奖15个评委都投给了朱一龙](https://s.weibo.com/weibo?q=%23%E9%87%91%E9%B8%A1%E5%A5%9615%E4%B8%AA%E8%AF%84%E5%A7%94%E9%83%BD%E6%8A%95%E7%BB%99%E4%BA%86%E6%9C%B1%E4%B8%80%E9%BE%99%23&t=31&band_rank=9&Refer=top)<br />
+9. [唐嫣对我眼睛很友好](https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E5%AF%B9%E6%88%91%E7%9C%BC%E7%9D%9B%E5%BE%88%E5%8F%8B%E5%A5%BD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
