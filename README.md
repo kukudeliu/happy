@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 12:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 12:10:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [小县城十八万八的彩礼合理吗](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%8E%BF%E5%9F%8E%E5%8D%81%E5%85%AB%E4%B8%87%E5%85%AB%E7%9A%84%E5%BD%A9%E7%A4%BC%E5%90%88%E7%90%86%E5%90%97%23&t=31&band_rank=4&Refer=top)<br />
 5. [大熊猫园润遭男子泼水](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E5%9B%AD%E6%B6%A6%E9%81%AD%E7%94%B7%E5%AD%90%E6%B3%BC%E6%B0%B4%23&t=31&band_rank=5&Refer=top)<br />
 6. [五月天](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9&t=31&band_rank=6&Refer=top)<br />
-7. [03 你还有七个学生没毕业](https://s.weibo.com/weibo?q=%2303%20%E4%BD%A0%E8%BF%98%E6%9C%89%E4%B8%83%E4%B8%AA%E5%AD%A6%E7%94%9F%E6%B2%A1%E6%AF%95%E4%B8%9A%23&t=31&band_rank=7&Refer=top)<br />
-8. [考研进清华和高考进清华的区别](https://s.weibo.com/weibo?q=%23%E8%80%83%E7%A0%94%E8%BF%9B%E6%B8%85%E5%8D%8E%E5%92%8C%E9%AB%98%E8%80%83%E8%BF%9B%E6%B8%85%E5%8D%8E%E7%9A%84%E5%8C%BA%E5%88%AB%23&t=31&band_rank=8&Refer=top)<br />
-9. [演唱会门票秒罄黄牛党捞钱术升级](https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E7%A7%92%E7%BD%84%E9%BB%84%E7%89%9B%E5%85%9A%E6%8D%9E%E9%92%B1%E6%9C%AF%E5%8D%87%E7%BA%A7%23&t=31&band_rank=9&Refer=top)<br />
+7. [演唱会门票秒罄黄牛党捞钱术升级](https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E7%A7%92%E7%BD%84%E9%BB%84%E7%89%9B%E5%85%9A%E6%8D%9E%E9%92%B1%E6%9C%AF%E5%8D%87%E7%BA%A7%23&t=31&band_rank=7&Refer=top)<br />
+8. [03 你还有七个学生没毕业](https://s.weibo.com/weibo?q=%2303%20%E4%BD%A0%E8%BF%98%E6%9C%89%E4%B8%83%E4%B8%AA%E5%AD%A6%E7%94%9F%E6%B2%A1%E6%AF%95%E4%B8%9A%23&t=31&band_rank=8&Refer=top)<br />
+9. [考研进清华和高考进清华的区别](https://s.weibo.com/weibo?q=%23%E8%80%83%E7%A0%94%E8%BF%9B%E6%B8%85%E5%8D%8E%E5%92%8C%E9%AB%98%E8%80%83%E8%BF%9B%E6%B8%85%E5%8D%8E%E7%9A%84%E5%8C%BA%E5%88%AB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -21,8 +21,8 @@
 5. [24 年老网站直播「续命」，8 小时卖了 4 万块，这一波浩大的「重启」能拯救天涯吗？](https://www.zhihu.com/question/603776523)<br />
 6. [吴谢宇案二审开庭宣判，驳回上诉维持死刑原判，哪些信息值得关注？](https://www.zhihu.com/question/603786730)<br />
 7. [C 罗世界杯成绩差，真的要怪葡萄牙世界杯底蕴差，没有夺冠经验吗？](https://www.zhihu.com/question/600905823)<br />
-8. [《大明王朝 1566》里李妃面对裕王为什么轻蔑地笑了一下？](https://www.zhihu.com/question/603494099)<br />
-9. []()<br />
+8. [和男朋友一年多，能力上没法帮助我，也不能提供很多情绪价值，交往还有意义吗？](https://www.zhihu.com/question/600477983)<br />
+9. [《大明王朝 1566》里李妃面对裕王为什么轻蔑地笑了一下？](https://www.zhihu.com/question/603494099)<br />
 
 > 百度  
 
