@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 23:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 23:21:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [李晓峰帮杨颖提裙子](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%99%93%E5%B3%B0%E5%B8%AE%E6%9D%A8%E9%A2%96%E6%8F%90%E8%A3%99%E5%AD%90%23&t=31&band_rank=6&Refer=top)<br />
 7. [Angelababy红毯从来没有失手过](https://s.weibo.com/weibo?q=%23Angelababy%E7%BA%A2%E6%AF%AF%E4%BB%8E%E6%9D%A5%E6%B2%A1%E6%9C%89%E5%A4%B1%E6%89%8B%E8%BF%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [Cat](https://s.weibo.com/weibo?q=Cat&t=31&band_rank=8&Refer=top)<br />
-9. [北京WB](https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%ACWB&t=31&band_rank=9&Refer=top)<br />
+9. [婴儿输液致心率异常死亡](https://s.weibo.com/weibo?q=%23%E5%A9%B4%E5%84%BF%E8%BE%93%E6%B6%B2%E8%87%B4%E5%BF%83%E7%8E%87%E5%BC%82%E5%B8%B8%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
