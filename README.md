@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-31 07:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-31 07:02:01</h4></div>
 
 > 微博  
 
@@ -19,9 +19,9 @@
 3. [2023 新一线城市名单揭晓，成都、重庆、杭州排名前三，如何看待这一榜单？哪些信息值得关注？](https://www.zhihu.com/question/603827354)<br />
 4. [26 岁，本科肄业，家里蹲 5 年，没工作过，没社交，与社会脱节，怎么自救？](https://www.zhihu.com/question/299259221)<br />
 5. [河南紧急下拨 2 亿元，专项用于小麦烘干，全省小麦目前收获 4.52%，这意味着什么？将产生哪些影响？](https://www.zhihu.com/question/603823460)<br />
-6. [燃气热水器该如何进行选购，有哪些选购技巧？](https://www.zhihu.com/question/435616929)<br />
-7. []()<br />
-8. [净水器该如何挑选？](https://www.zhihu.com/question/27201497)<br />
+6. []()<br />
+7. [燃气热水器该如何进行选购，有哪些选购技巧？](https://www.zhihu.com/question/435616929)<br />
+8. [马斯克发推评价中国航天工程计划， 称「比大多数人意识到的更加超前」，如何评价？](https://www.zhihu.com/question/603792670)<br />
 9. [台湾海峡之间理论上可以建大桥吗？](https://www.zhihu.com/question/53828775)<br />
 
 > 百度  
