@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 20:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 20:44:02</h4></div>
 
 > 微博  
 
@@ -18,10 +18,10 @@
 2. [北航教授将进入中国空间站，网友玩梗「03，你还有七个学生没毕业」，科研人从小镇走入太空，你有哪些感受？](https://www.zhihu.com/question/603802527)<br />
 3. [莫斯科遭无人机袭击，市长称有几座建筑轻微受损，针对俄本土的袭击越发频繁，释放了哪些信号？](https://www.zhihu.com/question/603814229)<br />
 4. [马斯克私人飞机降落北京，三年来首次访华，外交部回应欢迎各国工商界人士访华，他此行有哪些值得关注的地方？](https://www.zhihu.com/question/603832271)<br />
-5. [AI 换脸诈骗频发，有人 10 分钟被骗 430 万，应该如何防范？](https://www.zhihu.com/theater/24968)<br />
+5. [过去一年美国 AI 诈骗增涨 50%，据称「连哭腔都无比真实」，应该怎么防？](https://www.zhihu.com/theater/24968)<br />
 6. [神舟十六号载人飞船发射任务圆满成功，三位乘组航天员景海鹏朱杨柱桂海潮，顺利出征，有何期待和祝福？](https://www.zhihu.com/question/601725007)<br />
-7. [怎样得到一杯 π°C 的水？](https://www.zhihu.com/question/591997512)<br />
-8. [2023 新一线城市名单揭晓，成都、重庆、杭州排名前三，如何看待这一榜单？哪些信息值得关注？](https://www.zhihu.com/question/603827354)<br />
+7. [2023 新一线城市名单揭晓，成都、重庆、杭州排名前三，如何看待这一榜单？哪些信息值得关注？](https://www.zhihu.com/question/603827354)<br />
+8. [怎样得到一杯 π°C 的水？](https://www.zhihu.com/question/591997512)<br />
 9. [五角大楼称中方拒绝中美防长会面请求，外交部回应「原因美方是清楚的」，释放了哪些信号？](https://www.zhihu.com/question/603829127)<br />
 
 > 百度  
@@ -32,9 +32,9 @@
 4. [数字经济释放新增长动力](https://www.baidu.com/s?wd=%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E%E9%87%8A%E6%94%BE%E6%96%B0%E5%A2%9E%E9%95%BF%E5%8A%A8%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中纪委“内鬼”崔玉男被查](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BA%AA%E5%A7%94%E2%80%9C%E5%86%85%E9%AC%BC%E2%80%9D%E5%B4%94%E7%8E%89%E7%94%B7%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [浙江台州一押钞车运送998万现金彩礼](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E5%8F%B0%E5%B7%9E%E4%B8%80%E6%8A%BC%E9%92%9E%E8%BD%A6%E8%BF%90%E9%80%81998%E4%B8%87%E7%8E%B0%E9%87%91%E5%BD%A9%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [贤合庄北京门店全部关闭](https://www.baidu.com/s?wd=%E8%B4%A4%E5%90%88%E5%BA%84%E5%8C%97%E4%BA%AC%E9%97%A8%E5%BA%97%E5%85%A8%E9%83%A8%E5%85%B3%E9%97%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [坠楼瞬间他用身体死死护住小女孩](https://www.baidu.com/s?wd=%E5%9D%A0%E6%A5%BC%E7%9E%AC%E9%97%B4%E4%BB%96%E7%94%A8%E8%BA%AB%E4%BD%93%E6%AD%BB%E6%AD%BB%E6%8A%A4%E4%BD%8F%E5%B0%8F%E5%A5%B3%E5%AD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [杨幂缺席芭莎盛典](https://www.baidu.com/s?wd=%E6%9D%A8%E5%B9%82%E7%BC%BA%E5%B8%AD%E8%8A%AD%E8%8E%8E%E7%9B%9B%E5%85%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [坠楼瞬间他用身体死死护住小女孩](https://www.baidu.com/s?wd=%E5%9D%A0%E6%A5%BC%E7%9E%AC%E9%97%B4%E4%BB%96%E7%94%A8%E8%BA%AB%E4%BD%93%E6%AD%BB%E6%AD%BB%E6%8A%A4%E4%BD%8F%E5%B0%8F%E5%A5%B3%E5%AD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [陕西紧急通知全力抢收小麦减损](https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF%E7%B4%A7%E6%80%A5%E9%80%9A%E7%9F%A5%E5%85%A8%E5%8A%9B%E6%8A%A2%E6%94%B6%E5%B0%8F%E9%BA%A6%E5%87%8F%E6%8D%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [贤合庄北京门店全部关闭](https://www.baidu.com/s?wd=%E8%B4%A4%E5%90%88%E5%BA%84%E5%8C%97%E4%BA%AC%E9%97%A8%E5%BA%97%E5%85%A8%E9%83%A8%E5%85%B3%E9%97%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [数字经济释放新增长动力](https://www.baidu.com/s?wd=%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E%E9%87%8A%E6%94%BE%E6%96%B0%E5%A2%9E%E9%95%BF%E5%8A%A8%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中纪委“内鬼”崔玉男被查](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BA%AA%E5%A7%94%E2%80%9C%E5%86%85%E9%AC%BC%E2%80%9D%E5%B4%94%E7%8E%89%E7%94%B7%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [浙江台州一押钞车运送998万现金彩礼](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E5%8F%B0%E5%B7%9E%E4%B8%80%E6%8A%BC%E9%92%9E%E8%BD%A6%E8%BF%90%E9%80%81998%E4%B8%87%E7%8E%B0%E9%87%91%E5%BD%A9%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [贤合庄北京门店全部关闭](https://www.baidu.com/s?wd=%E8%B4%A4%E5%90%88%E5%BA%84%E5%8C%97%E4%BA%AC%E9%97%A8%E5%BA%97%E5%85%A8%E9%83%A8%E5%85%B3%E9%97%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [坠楼瞬间他用身体死死护住小女孩](https://www.baidu.com/s?wd=%E5%9D%A0%E6%A5%BC%E7%9E%AC%E9%97%B4%E4%BB%96%E7%94%A8%E8%BA%AB%E4%BD%93%E6%AD%BB%E6%AD%BB%E6%8A%A4%E4%BD%8F%E5%B0%8F%E5%A5%B3%E5%AD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [杨幂缺席芭莎盛典](https://www.baidu.com/s?wd=%E6%9D%A8%E5%B9%82%E7%BC%BA%E5%B8%AD%E8%8A%AD%E8%8E%8E%E7%9B%9B%E5%85%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [坠楼瞬间他用身体死死护住小女孩](https://www.baidu.com/s?wd=%E5%9D%A0%E6%A5%BC%E7%9E%AC%E9%97%B4%E4%BB%96%E7%94%A8%E8%BA%AB%E4%BD%93%E6%AD%BB%E6%AD%BB%E6%8A%A4%E4%BD%8F%E5%B0%8F%E5%A5%B3%E5%AD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [陕西紧急通知全力抢收小麦减损](https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF%E7%B4%A7%E6%80%A5%E9%80%9A%E7%9F%A5%E5%85%A8%E5%8A%9B%E6%8A%A2%E6%94%B6%E5%B0%8F%E9%BA%A6%E5%87%8F%E6%8D%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [贤合庄北京门店全部关闭](https://www.baidu.com/s?wd=%E8%B4%A4%E5%90%88%E5%BA%84%E5%8C%97%E4%BA%AC%E9%97%A8%E5%BA%97%E5%85%A8%E9%83%A8%E5%85%B3%E9%97%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
