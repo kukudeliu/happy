@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 20:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 20:25:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [点亮精神火炬](https://s.weibo.com/weibo?q=%23%E7%82%B9%E4%BA%AE%E7%B2%BE%E7%A5%9E%E7%81%AB%E7%82%AC%23&t=31&band_rank=3&Refer=top)<br />
 4. [杨幂牛奶长靴](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E7%89%9B%E5%A5%B6%E9%95%BF%E9%9D%B4%23&t=31&band_rank=4&Refer=top)<br />
 5. [丫丫回家后判若两熊](https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E5%9B%9E%E5%AE%B6%E5%90%8E%E5%88%A4%E8%8B%A5%E4%B8%A4%E7%86%8A%23&t=31&band_rank=5&Refer=top)<br />
-6. [黄晓明尹正亲上了](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E5%B0%B9%E6%AD%A3%E4%BA%B2%E4%B8%8A%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [Angelababy红毯从来没有失手过](https://s.weibo.com/weibo?q=%23Angelababy%E7%BA%A2%E6%AF%AF%E4%BB%8E%E6%9D%A5%E6%B2%A1%E6%9C%89%E5%A4%B1%E6%89%8B%E8%BF%87%23&t=31&band_rank=7&Refer=top)<br />
+6. [Angelababy红毯从来没有失手过](https://s.weibo.com/weibo?q=%23Angelababy%E7%BA%A2%E6%AF%AF%E4%BB%8E%E6%9D%A5%E6%B2%A1%E6%9C%89%E5%A4%B1%E6%89%8B%E8%BF%87%23&t=31&band_rank=6&Refer=top)<br />
+7. [黄晓明尹正亲上了](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E5%B0%B9%E6%AD%A3%E4%BA%B2%E4%B8%8A%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [贤合庄北京门店全部关闭](https://s.weibo.com/weibo?q=%23%E8%B4%A4%E5%90%88%E5%BA%84%E5%8C%97%E4%BA%AC%E9%97%A8%E5%BA%97%E5%85%A8%E9%83%A8%E5%85%B3%E9%97%AD%23&t=31&band_rank=8&Refer=top)<br />
 9. [清清 挂牌](https://s.weibo.com/weibo?q=%E6%B8%85%E6%B8%85%20%E6%8C%82%E7%89%8C&t=31&band_rank=9&Refer=top)<br />
 
@@ -21,8 +21,8 @@
 5. [神舟十六号载人飞船发射任务圆满成功，三位乘组航天员景海鹏朱杨柱桂海潮，顺利出征，有何期待和祝福？](https://www.zhihu.com/question/601725007)<br />
 6. [怎样得到一杯 π°C 的水？](https://www.zhihu.com/question/591997512)<br />
 7. [2023 新一线城市名单揭晓，成都、重庆、杭州排名前三，如何看待这一榜单？哪些信息值得关注？](https://www.zhihu.com/question/603827354)<br />
-8. [为什么 Mac 可以一直不关机而 Windows 电脑不行？](https://www.zhihu.com/question/602382675)<br />
-9. [五角大楼称中方拒绝中美防长会面请求，外交部回应「原因美方是清楚的」，释放了哪些信号？](https://www.zhihu.com/question/603829127)<br />
+8. [五角大楼称中方拒绝中美防长会面请求，外交部回应「原因美方是清楚的」，释放了哪些信号？](https://www.zhihu.com/question/603829127)<br />
+9. [如何看待华晨宇注册成为《和平精英》PEL 职业选手？](https://www.zhihu.com/question/603809412)<br />
 
 > 百度  
 
