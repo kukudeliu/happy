@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 12:25:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 12:26:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [吴谢宇案二审开庭宣判，驳回上诉维持死刑原判，哪些信息值得关注？](https://www.zhihu.com/question/603786730)<br />
 7. []()<br />
 8. [《大明王朝 1566》里李妃面对裕王为什么轻蔑地笑了一下？](https://www.zhihu.com/question/603494099)<br />
-9. [和男朋友一年多，能力上没法帮助我，也不能提供很多情绪价值，交往还有意义吗？](https://www.zhihu.com/question/600477983)<br />
+9. [深蹲时，屁股眨眼怎么办？](https://www.zhihu.com/question/598679072)<br />
 
 > 百度  
 
