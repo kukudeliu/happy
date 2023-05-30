@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 13:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 13:39:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [全网都在谢谢虞书欣](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BD%91%E9%83%BD%E5%9C%A8%E8%B0%A2%E8%B0%A2%E8%99%9E%E4%B9%A6%E6%AC%A3%23&t=31&band_rank=4&Refer=top)<br />
 5. [华晨宇加入LGD](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E5%8A%A0%E5%85%A5LGD%23&t=31&band_rank=5&Refer=top)<br />
 6. [演唱会门票秒罄黄牛党捞钱术升级](https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E7%A7%92%E7%BD%84%E9%BB%84%E7%89%9B%E5%85%9A%E6%8D%9E%E9%92%B1%E6%9C%AF%E5%8D%87%E7%BA%A7%23&t=31&band_rank=6&Refer=top)<br />
-7. [四川自来水公司呼吁每月洗澡2到4次](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E8%87%AA%E6%9D%A5%E6%B0%B4%E5%85%AC%E5%8F%B8%E5%91%BC%E5%90%81%E6%AF%8F%E6%9C%88%E6%B4%97%E6%BE%A12%E5%88%B04%E6%AC%A1%23&t=31&band_rank=7&Refer=top)<br />
-8. [女子输液被陌生男子拔针扎进水桶](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%BE%93%E6%B6%B2%E8%A2%AB%E9%99%8C%E7%94%9F%E7%94%B7%E5%AD%90%E6%8B%94%E9%92%88%E6%89%8E%E8%BF%9B%E6%B0%B4%E6%A1%B6%23&t=31&band_rank=8&Refer=top)<br />
+7. [女子输液被陌生男子拔针扎进水桶](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%BE%93%E6%B6%B2%E8%A2%AB%E9%99%8C%E7%94%9F%E7%94%B7%E5%AD%90%E6%8B%94%E9%92%88%E6%89%8E%E8%BF%9B%E6%B0%B4%E6%A1%B6%23&t=31&band_rank=7&Refer=top)<br />
+8. [四川自来水公司呼吁每月洗澡2到4次](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E8%87%AA%E6%9D%A5%E6%B0%B4%E5%85%AC%E5%8F%B8%E5%91%BC%E5%90%81%E6%AF%8F%E6%9C%88%E6%B4%97%E6%BE%A12%E5%88%B04%E6%AC%A1%23&t=31&band_rank=8&Refer=top)<br />
 9. [一杯奶茶钱可以买这么多东西](https://s.weibo.com/weibo?q=%E4%B8%80%E6%9D%AF%E5%A5%B6%E8%8C%B6%E9%92%B1%E5%8F%AF%E4%BB%A5%E4%B9%B0%E8%BF%99%E4%B9%88%E5%A4%9A%E4%B8%9C%E8%A5%BF&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
