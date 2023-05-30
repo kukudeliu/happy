@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 19:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 19:15:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [中纪委“内鬼”崔玉男被查](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BA%AA%E5%A7%94%E2%80%9C%E5%86%85%E9%AC%BC%E2%80%9D%E5%B4%94%E7%8E%89%E7%94%B7%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [华晨宇加入LGD](https://www.baidu.com/s?wd=%E5%8D%8E%E6%99%A8%E5%AE%87%E5%8A%A0%E5%85%A5LGD&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [媒体评剩菜盲盒被疯抢](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E5%89%A9%E8%8F%9C%E7%9B%B2%E7%9B%92%E8%A2%AB%E7%96%AF%E6%8A%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [失联的河南前首富朱文臣找到了](https://www.baidu.com/s?wd=%E5%A4%B1%E8%81%94%E7%9A%84%E6%B2%B3%E5%8D%97%E5%89%8D%E9%A6%96%E5%AF%8C%E6%9C%B1%E6%96%87%E8%87%A3%E6%89%BE%E5%88%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [快播公司正式宣告破产](https://www.baidu.com/s?wd=%E5%BF%AB%E6%92%AD%E5%85%AC%E5%8F%B8%E6%AD%A3%E5%BC%8F%E5%AE%A3%E5%91%8A%E7%A0%B4%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [中纪委“内鬼”崔玉男被查](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BA%AA%E5%A7%94%E2%80%9C%E5%86%85%E9%AC%BC%E2%80%9D%E5%B4%94%E7%8E%89%E7%94%B7%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [华晨宇加入LGD](https://www.baidu.com/s?wd=%E5%8D%8E%E6%99%A8%E5%AE%87%E5%8A%A0%E5%85%A5LGD&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [媒体评剩菜盲盒被疯抢](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E5%89%A9%E8%8F%9C%E7%9B%B2%E7%9B%92%E8%A2%AB%E7%96%AF%E6%8A%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [失联的河南前首富朱文臣找到了](https://www.baidu.com/s?wd=%E5%A4%B1%E8%81%94%E7%9A%84%E6%B2%B3%E5%8D%97%E5%89%8D%E9%A6%96%E5%AF%8C%E6%9C%B1%E6%96%87%E8%87%A3%E6%89%BE%E5%88%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [快播公司正式宣告破产](https://www.baidu.com/s?wd=%E5%BF%AB%E6%92%AD%E5%85%AC%E5%8F%B8%E6%AD%A3%E5%BC%8F%E5%AE%A3%E5%91%8A%E7%A0%B4%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
