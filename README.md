@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-31 06:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-31 06:13:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [台湾海峡之间理论上可以建大桥吗？](https://www.zhihu.com/question/53828775)<br />
 7. [燃气热水器该如何进行选购，有哪些选购技巧？](https://www.zhihu.com/question/435616929)<br />
 8. [净水器该如何挑选？](https://www.zhihu.com/question/27201497)<br />
-9. [今年有什么「家电新物种」让你相见恨晚？](https://www.zhihu.com/question/595318533)<br />
+9. []()<br />
 
 > 百度  
 
