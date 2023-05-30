@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 09:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 09:13:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [曝阿根廷中国行将获至少 500 万美元出场费 + 其他收入，保证梅西出场 45 分钟，有哪些信息值得关注？](https://www.zhihu.com/question/603618670)<br />
 5. [神舟十六号载人飞船于 9 时 31 分发射，三位乘组航天员景海鹏朱杨柱桂海潮，已进入返回舱，有何期待和祝福？](https://www.zhihu.com/question/601725007)<br />
 6. [怎样把握主观能动性与客观规律性的辩证关系?](https://www.zhihu.com/question/352453095)<br />
-7. [2023 LPL 夏季赛 UP 2:1 AL，如何评价这场比赛？](https://www.zhihu.com/question/603637760)<br />
-8. [在古代拿块小石头镀银后，能当银子去买东西吗？](https://www.zhihu.com/question/589065183)<br />
-9. [曾经风靡一时的 ghost 系统，为什么销声匿迹了？](https://www.zhihu.com/question/600905979)<br />
+7. []()<br />
+8. [2023 LPL 夏季赛 UP 2:1 AL，如何评价这场比赛？](https://www.zhihu.com/question/603637760)<br />
+9. [在古代拿块小石头镀银后，能当银子去买东西吗？](https://www.zhihu.com/question/589065183)<br />
 
 > 百度  
 
