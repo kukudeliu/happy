@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 18:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 18:22:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [时尚芭莎红毯](https://s.weibo.com/weibo?q=%E6%97%B6%E5%B0%9A%E8%8A%AD%E8%8E%8E%E7%BA%A2%E6%AF%AF&t=31&band_rank=6&Refer=top)<br />
 7. [为头盔侠们点赞](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E5%A4%B4%E7%9B%94%E4%BE%A0%E4%BB%AC%E7%82%B9%E8%B5%9E%23&t=31&band_rank=7&Refer=top)<br />
 8. [杨紫摄影师出来聊聊](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E6%91%84%E5%BD%B1%E5%B8%88%E5%87%BA%E6%9D%A5%E8%81%8A%E8%81%8A%23&t=31&band_rank=8&Refer=top)<br />
-9. [丫丫回家后判若两熊](https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E5%9B%9E%E5%AE%B6%E5%90%8E%E5%88%A4%E8%8B%A5%E4%B8%A4%E7%86%8A%23&t=31&band_rank=9&Refer=top)<br />
+9. [唐嫣对我眼睛很友好](https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E5%AF%B9%E6%88%91%E7%9C%BC%E7%9D%9B%E5%BE%88%E5%8F%8B%E5%A5%BD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
