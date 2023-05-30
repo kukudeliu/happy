@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 14:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 14:04:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [失联的河南前首富朱文臣找到了](https://www.baidu.com/s?wd=%E5%A4%B1%E8%81%94%E7%9A%84%E6%B2%B3%E5%8D%97%E5%89%8D%E9%A6%96%E5%AF%8C%E6%9C%B1%E6%96%87%E8%87%A3%E6%89%BE%E5%88%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [陶昕然发博寻5年前飞机邻座男士](https://www.baidu.com/s?wd=%E9%99%B6%E6%98%95%E7%84%B6%E5%8F%91%E5%8D%9A%E5%AF%BB5%E5%B9%B4%E5%89%8D%E9%A3%9E%E6%9C%BA%E9%82%BB%E5%BA%A7%E7%94%B7%E5%A3%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [河南下拨2亿用于小麦烘干](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%8B%E6%8B%A82%E4%BA%BF%E7%94%A8%E4%BA%8E%E5%B0%8F%E9%BA%A6%E7%83%98%E5%B9%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [医院回应厕所全英文标识无中文](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E5%8E%95%E6%89%80%E5%85%A8%E8%8B%B1%E6%96%87%E6%A0%87%E8%AF%86%E6%97%A0%E4%B8%AD%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [曝梅西父亲接受沙特合同报价](https://www.baidu.com/s?wd=%E6%9B%9D%E6%A2%85%E8%A5%BF%E7%88%B6%E4%BA%B2%E6%8E%A5%E5%8F%97%E6%B2%99%E7%89%B9%E5%90%88%E5%90%8C%E6%8A%A5%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [失联的河南前首富朱文臣找到了](https://www.baidu.com/s?wd=%E5%A4%B1%E8%81%94%E7%9A%84%E6%B2%B3%E5%8D%97%E5%89%8D%E9%A6%96%E5%AF%8C%E6%9C%B1%E6%96%87%E8%87%A3%E6%89%BE%E5%88%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [陶昕然发博寻5年前飞机邻座男士](https://www.baidu.com/s?wd=%E9%99%B6%E6%98%95%E7%84%B6%E5%8F%91%E5%8D%9A%E5%AF%BB5%E5%B9%B4%E5%89%8D%E9%A3%9E%E6%9C%BA%E9%82%BB%E5%BA%A7%E7%94%B7%E5%A3%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [河南下拨2亿用于小麦烘干](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%8B%E6%8B%A82%E4%BA%BF%E7%94%A8%E4%BA%8E%E5%B0%8F%E9%BA%A6%E7%83%98%E5%B9%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [医院回应厕所全英文标识无中文](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E5%8E%95%E6%89%80%E5%85%A8%E8%8B%B1%E6%96%87%E6%A0%87%E8%AF%86%E6%97%A0%E4%B8%AD%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [曝梅西父亲接受沙特合同报价](https://www.baidu.com/s?wd=%E6%9B%9D%E6%A2%85%E8%A5%BF%E7%88%B6%E4%BA%B2%E6%8E%A5%E5%8F%97%E6%B2%99%E7%89%B9%E5%90%88%E5%90%8C%E6%8A%A5%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
