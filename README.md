@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 08:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 08:08:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 2. [如何看待《中国说唱巅峰对决 2023》第四期中宝石 Gem 被淘汰？](https://www.zhihu.com/question/603335415)<br />
 3. [2023 LPL 夏季赛 UP 2:1 AL，如何评价这场比赛？](https://www.zhihu.com/question/603637760)<br />
 4. [曝阿根廷中国行将获至少 500 万美元出场费 + 其他收入，保证梅西出场 45 分钟，有哪些信息值得关注？](https://www.zhihu.com/question/603618670)<br />
-5. []()<br />
+5. [离职时，老板说「以后要回来的话，随时欢迎」，能信吗？](https://www.zhihu.com/question/593757199)<br />
 6. [曾经风靡一时的 ghost 系统，为什么销声匿迹了？](https://www.zhihu.com/question/600905979)<br />
 7. [在古代拿块小石头镀银后，能当银子去买东西吗？](https://www.zhihu.com/question/589065183)<br />
 8. [为什么狗的体型有大有小，而猫的体型却都差不多，基本属于同一「量级」？](https://www.zhihu.com/question/602902935)<br />
