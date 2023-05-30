@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 13:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 13:56:01</h4></div>
 
 > 微博  
 
-1. [吴谢宇死刑](https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%B0%A2%E5%AE%87%E6%AD%BB%E5%88%91%23&t=31&band_rank=1&Refer=top)<br />
-2. [陶昕然发博寻5年前飞机邻座男士](https://s.weibo.com/weibo?q=%23%E9%99%B6%E6%98%95%E7%84%B6%E5%8F%91%E5%8D%9A%E5%AF%BB5%E5%B9%B4%E5%89%8D%E9%A3%9E%E6%9C%BA%E9%82%BB%E5%BA%A7%E7%94%B7%E5%A3%AB%23&t=31&band_rank=2&Refer=top)<br />
+1. [陶昕然发博寻5年前飞机邻座男士](https://s.weibo.com/weibo?q=%23%E9%99%B6%E6%98%95%E7%84%B6%E5%8F%91%E5%8D%9A%E5%AF%BB5%E5%B9%B4%E5%89%8D%E9%A3%9E%E6%9C%BA%E9%82%BB%E5%BA%A7%E7%94%B7%E5%A3%AB%23&t=31&band_rank=1&Refer=top)<br />
+2. [吴谢宇死刑](https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%B0%A2%E5%AE%87%E6%AD%BB%E5%88%91%23&t=31&band_rank=2&Refer=top)<br />
 3. [一人一句祝福神十六](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%BA%BA%E4%B8%80%E5%8F%A5%E7%A5%9D%E7%A6%8F%E7%A5%9E%E5%8D%81%E5%85%AD%23&t=31&band_rank=3&Refer=top)<br />
 4. [全网都在谢谢虞书欣](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BD%91%E9%83%BD%E5%9C%A8%E8%B0%A2%E8%B0%A2%E8%99%9E%E4%B9%A6%E6%AC%A3%23&t=31&band_rank=4&Refer=top)<br />
 5. [华晨宇加入LGD](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E5%8A%A0%E5%85%A5LGD%23&t=31&band_rank=5&Refer=top)<br />
