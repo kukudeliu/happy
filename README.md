@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-31 06:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-31 06:08:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [河南紧急下拨 2 亿元，专项用于小麦烘干，全省小麦目前收获 4.52%，这意味着什么？将产生哪些影响？](https://www.zhihu.com/question/603823460)<br />
 6. [台湾海峡之间理论上可以建大桥吗？](https://www.zhihu.com/question/53828775)<br />
 7. [燃气热水器该如何进行选购，有哪些选购技巧？](https://www.zhihu.com/question/435616929)<br />
-8. []()<br />
-9. [净水器该如何挑选？](https://www.zhihu.com/question/27201497)<br />
+8. [净水器该如何挑选？](https://www.zhihu.com/question/27201497)<br />
+9. [今年有什么「家电新物种」让你相见恨晚？](https://www.zhihu.com/question/595318533)<br />
 
 > 百度  
 
