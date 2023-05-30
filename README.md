@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 14:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 14:57:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [吴谢宇死刑](https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%B0%A2%E5%AE%87%E6%AD%BB%E5%88%91%23&t=31&band_rank=6&Refer=top)<br />
 7. [秦昊恋爱脑](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E6%98%8A%E6%81%8B%E7%88%B1%E8%84%91%23&t=31&band_rank=7&Refer=top)<br />
 8. [陶昕然发博寻5年前飞机邻座男士](https://s.weibo.com/weibo?q=%23%E9%99%B6%E6%98%95%E7%84%B6%E5%8F%91%E5%8D%9A%E5%AF%BB5%E5%B9%B4%E5%89%8D%E9%A3%9E%E6%9C%BA%E9%82%BB%E5%BA%A7%E7%94%B7%E5%A3%AB%23&t=31&band_rank=8&Refer=top)<br />
-9. [四川自来水公司呼吁每月洗澡2到4次](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E8%87%AA%E6%9D%A5%E6%B0%B4%E5%85%AC%E5%8F%B8%E5%91%BC%E5%90%81%E6%AF%8F%E6%9C%88%E6%B4%97%E6%BE%A12%E5%88%B04%E6%AC%A1%23&t=31&band_rank=9&Refer=top)<br />
+9. [20岁小伙月入6000背百万房贷](https://s.weibo.com/weibo?q=%2320%E5%B2%81%E5%B0%8F%E4%BC%99%E6%9C%88%E5%85%A56000%E8%83%8C%E7%99%BE%E4%B8%87%E6%88%BF%E8%B4%B7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -33,7 +33,7 @@
 5. [一千买一套房 失意者涌入河南鹤壁](https://www.baidu.com/s?wd=%E4%B8%80%E5%8D%83%E4%B9%B0%E4%B8%80%E5%A5%97%E6%88%BF+%E5%A4%B1%E6%84%8F%E8%80%85%E6%B6%8C%E5%85%A5%E6%B2%B3%E5%8D%97%E9%B9%A4%E5%A3%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [失联的河南前首富朱文臣找到了](https://www.baidu.com/s?wd=%E5%A4%B1%E8%81%94%E7%9A%84%E6%B2%B3%E5%8D%97%E5%89%8D%E9%A6%96%E5%AF%8C%E6%9C%B1%E6%96%87%E8%87%A3%E6%89%BE%E5%88%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [华晨宇加入LGD](https://www.baidu.com/s?wd=%E5%8D%8E%E6%99%A8%E5%AE%87%E5%8A%A0%E5%85%A5LGD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [警方通报男子地铁上偷拍女生裙照](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%90%E5%9C%B0%E9%93%81%E4%B8%8A%E5%81%B7%E6%8B%8D%E5%A5%B3%E7%94%9F%E8%A3%99%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [20岁小伙月入6000背百万房贷](https://www.baidu.com/s?wd=20%E5%B2%81%E5%B0%8F%E4%BC%99%E6%9C%88%E5%85%A56000%E8%83%8C%E7%99%BE%E4%B8%87%E6%88%BF%E8%B4%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [陶昕然发博寻5年前飞机邻座男士](https://www.baidu.com/s?wd=%E9%99%B6%E6%98%95%E7%84%B6%E5%8F%91%E5%8D%9A%E5%AF%BB5%E5%B9%B4%E5%89%8D%E9%A3%9E%E6%9C%BA%E9%82%BB%E5%BA%A7%E7%94%B7%E5%A3%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [一千买一套房 失意者涌入河南鹤壁](https://www.baidu.com/s?wd=%E4%B8%80%E5%8D%83%E4%B9%B0%E4%B8%80%E5%A5%97%E6%88%BF+%E5%A4%B1%E6%84%8F%E8%80%85%E6%B6%8C%E5%85%A5%E6%B2%B3%E5%8D%97%E9%B9%A4%E5%A3%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [失联的河南前首富朱文臣找到了](https://www.baidu.com/s?wd=%E5%A4%B1%E8%81%94%E7%9A%84%E6%B2%B3%E5%8D%97%E5%89%8D%E9%A6%96%E5%AF%8C%E6%9C%B1%E6%96%87%E8%87%A3%E6%89%BE%E5%88%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [华晨宇加入LGD](https://www.baidu.com/s?wd=%E5%8D%8E%E6%99%A8%E5%AE%87%E5%8A%A0%E5%85%A5LGD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [警方通报男子地铁上偷拍女生裙照](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%90%E5%9C%B0%E9%93%81%E4%B8%8A%E5%81%B7%E6%8B%8D%E5%A5%B3%E7%94%9F%E8%A3%99%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [20岁小伙月入6000背百万房贷](https://www.baidu.com/s?wd=20%E5%B2%81%E5%B0%8F%E4%BC%99%E6%9C%88%E5%85%A56000%E8%83%8C%E7%99%BE%E4%B8%87%E6%88%BF%E8%B4%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [陶昕然发博寻5年前飞机邻座男士](https://www.baidu.com/s?wd=%E9%99%B6%E6%98%95%E7%84%B6%E5%8F%91%E5%8D%9A%E5%AF%BB5%E5%B9%B4%E5%89%8D%E9%A3%9E%E6%9C%BA%E9%82%BB%E5%BA%A7%E7%94%B7%E5%A3%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
