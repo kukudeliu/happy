@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-31 00:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-31 00:04:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [TFBOYS](https://s.weibo.com/weibo?q=TFBOYS&t=31&band_rank=5&Refer=top)<br />
 6. [李晓峰帮杨颖提裙子](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%99%93%E5%B3%B0%E5%B8%AE%E6%9D%A8%E9%A2%96%E6%8F%90%E8%A3%99%E5%AD%90%23&t=31&band_rank=6&Refer=top)<br />
 7. [杨幂 谢依霖](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%20%E8%B0%A2%E4%BE%9D%E9%9C%96&t=31&band_rank=7&Refer=top)<br />
-8. [北京WB](https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%ACWB&t=31&band_rank=8&Refer=top)<br />
+8. [你每个月洗澡多少次](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%AF%8F%E4%B8%AA%E6%9C%88%E6%B4%97%E6%BE%A1%E5%A4%9A%E5%B0%91%E6%AC%A1%23&t=31&band_rank=8&Refer=top)<br />
 9. [婴儿输液致心率异常死亡](https://s.weibo.com/weibo?q=%23%E5%A9%B4%E5%84%BF%E8%BE%93%E6%B6%B2%E8%87%B4%E5%BF%83%E7%8E%87%E5%BC%82%E5%B8%B8%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
