@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-31 03:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-31 03:29:02</h4></div>
 
 > 微博  
 
@@ -18,9 +18,9 @@
 2. [2023 新一线城市名单揭晓，成都、重庆、杭州排名前三，如何看待这一榜单？哪些信息值得关注？](https://www.zhihu.com/question/603827354)<br />
 3. [五角大楼称中方拒绝中美防长会面请求，外交部回应「原因美方是清楚的」，释放了哪些信号？](https://www.zhihu.com/question/603829127)<br />
 4. [北上广等地二手房房东「开卷」，为卖房送中介红包、手机和车，楼市是否迎来了重要拐点？房价会降价吗？](https://www.zhihu.com/question/603843052)<br />
-5. [如何看待华晨宇注册成为《和平精英》PEL 职业选手？](https://www.zhihu.com/question/603809412)<br />
-6. [26 岁，本科肄业，家里蹲 5 年，没工作过，没社交，与社会脱节，怎么自救？](https://www.zhihu.com/question/299259221)<br />
-7. [河南紧急下拨 2 亿元，专项用于小麦烘干，全省小麦目前收获 4.52%，这意味着什么？将产生哪些影响？](https://www.zhihu.com/question/603823460)<br />
+5. [26 岁，本科肄业，家里蹲 5 年，没工作过，没社交，与社会脱节，怎么自救？](https://www.zhihu.com/question/299259221)<br />
+6. [河南紧急下拨 2 亿元，专项用于小麦烘干，全省小麦目前收获 4.52%，这意味着什么？将产生哪些影响？](https://www.zhihu.com/question/603823460)<br />
+7. [如何看待华晨宇注册成为《和平精英》PEL 职业选手？](https://www.zhihu.com/question/603809412)<br />
 8. [纪录片中动物之间打斗，明明都没受伤，怎么就放弃了认输了？谁能解释一下他们的规则是什么，怎么定输赢？](https://www.zhihu.com/question/339743957)<br />
 9. []()<br />
 
@@ -33,8 +33,8 @@
 5. [贤合庄北京门店全部关闭](https://www.baidu.com/s?wd=%E8%B4%A4%E5%90%88%E5%BA%84%E5%8C%97%E4%BA%AC%E9%97%A8%E5%BA%97%E5%85%A8%E9%83%A8%E5%85%B3%E9%97%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [南京儿童医院回应婴儿输液死亡](https://www.baidu.com/s?wd=%E5%8D%97%E4%BA%AC%E5%84%BF%E7%AB%A5%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E5%A9%B4%E5%84%BF%E8%BE%93%E6%B6%B2%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [麻将馆内女子抱孩子遭暴打](https://www.baidu.com/s?wd=%E9%BA%BB%E5%B0%86%E9%A6%86%E5%86%85%E5%A5%B3%E5%AD%90%E6%8A%B1%E5%AD%A9%E5%AD%90%E9%81%AD%E6%9A%B4%E6%89%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [北京核酸亭重新上线？工作人员回应](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E6%A0%B8%E9%85%B8%E4%BA%AD%E9%87%8D%E6%96%B0%E4%B8%8A%E7%BA%BF%EF%BC%9F%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [坠楼瞬间他用身体死死护住小女孩](https://www.baidu.com/s?wd=%E5%9D%A0%E6%A5%BC%E7%9E%AC%E9%97%B4%E4%BB%96%E7%94%A8%E8%BA%AB%E4%BD%93%E6%AD%BB%E6%AD%BB%E6%8A%A4%E4%BD%8F%E5%B0%8F%E5%A5%B3%E5%AD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [官方：鼓励高校生参加基本医保](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%EF%BC%9A%E9%BC%93%E5%8A%B1%E9%AB%98%E6%A0%A1%E7%94%9F%E5%8F%82%E5%8A%A0%E5%9F%BA%E6%9C%AC%E5%8C%BB%E4%BF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [中纪委“内鬼”崔玉男被查](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BA%AA%E5%A7%94%E2%80%9C%E5%86%85%E9%AC%BC%E2%80%9D%E5%B4%94%E7%8E%89%E7%94%B7%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [贤合庄北京门店全部关闭](https://www.baidu.com/s?wd=%E8%B4%A4%E5%90%88%E5%BA%84%E5%8C%97%E4%BA%AC%E9%97%A8%E5%BA%97%E5%85%A8%E9%83%A8%E5%85%B3%E9%97%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [南京儿童医院回应婴儿输液死亡](https://www.baidu.com/s?wd=%E5%8D%97%E4%BA%AC%E5%84%BF%E7%AB%A5%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E5%A9%B4%E5%84%BF%E8%BE%93%E6%B6%B2%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [麻将馆内女子抱孩子遭暴打](https://www.baidu.com/s?wd=%E9%BA%BB%E5%B0%86%E9%A6%86%E5%86%85%E5%A5%B3%E5%AD%90%E6%8A%B1%E5%AD%A9%E5%AD%90%E9%81%AD%E6%9A%B4%E6%89%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [北京核酸亭重新上线？工作人员回应](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E6%A0%B8%E9%85%B8%E4%BA%AD%E9%87%8D%E6%96%B0%E4%B8%8A%E7%BA%BF%EF%BC%9F%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [坠楼瞬间他用身体死死护住小女孩](https://www.baidu.com/s?wd=%E5%9D%A0%E6%A5%BC%E7%9E%AC%E9%97%B4%E4%BB%96%E7%94%A8%E8%BA%AB%E4%BD%93%E6%AD%BB%E6%AD%BB%E6%8A%A4%E4%BD%8F%E5%B0%8F%E5%A5%B3%E5%AD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [官方：鼓励高校生参加基本医保](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%EF%BC%9A%E9%BC%93%E5%8A%B1%E9%AB%98%E6%A0%A1%E7%94%9F%E5%8F%82%E5%8A%A0%E5%9F%BA%E6%9C%AC%E5%8C%BB%E4%BF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [中纪委“内鬼”崔玉男被查](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BA%AA%E5%A7%94%E2%80%9C%E5%86%85%E9%AC%BC%E2%80%9D%E5%B4%94%E7%8E%89%E7%94%B7%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
