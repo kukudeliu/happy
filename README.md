@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 15:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 15:28:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [兄妹四人同时查出肠道肿瘤](https://s.weibo.com/weibo?q=%23%E5%85%84%E5%A6%B9%E5%9B%9B%E4%BA%BA%E5%90%8C%E6%97%B6%E6%9F%A5%E5%87%BA%E8%82%A0%E9%81%93%E8%82%BF%E7%98%A4%23&t=31&band_rank=5&Refer=top)<br />
 6. [秦昊恋爱脑](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E6%98%8A%E6%81%8B%E7%88%B1%E8%84%91%23&t=31&band_rank=6&Refer=top)<br />
 7. [吴谢宇死刑](https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%B0%A2%E5%AE%87%E6%AD%BB%E5%88%91%23&t=31&band_rank=7&Refer=top)<br />
-8. [演唱会门票秒罄黄牛党捞钱术升级](https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E7%A7%92%E7%BD%84%E9%BB%84%E7%89%9B%E5%85%9A%E6%8D%9E%E9%92%B1%E6%9C%AF%E5%8D%87%E7%BA%A7%23&t=31&band_rank=8&Refer=top)<br />
-9. [河南紧急下拨2亿元用于小麦烘干](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E7%B4%A7%E6%80%A5%E4%B8%8B%E6%8B%A82%E4%BA%BF%E5%85%83%E7%94%A8%E4%BA%8E%E5%B0%8F%E9%BA%A6%E7%83%98%E5%B9%B2%23&t=31&band_rank=9&Refer=top)<br />
+8. [河南紧急下拨2亿元用于小麦烘干](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E7%B4%A7%E6%80%A5%E4%B8%8B%E6%8B%A82%E4%BA%BF%E5%85%83%E7%94%A8%E4%BA%8E%E5%B0%8F%E9%BA%A6%E7%83%98%E5%B9%B2%23&t=31&band_rank=8&Refer=top)<br />
+9. [演唱会门票秒罄黄牛党捞钱术升级](https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E7%A7%92%E7%BD%84%E9%BB%84%E7%89%9B%E5%85%9A%E6%8D%9E%E9%92%B1%E6%9C%AF%E5%8D%87%E7%BA%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [如何评价《海贼王》 漫画第 1085 话情报？](https://www.zhihu.com/question/603751034)<br />
 7. [网传阿根廷中国赛球票信息最贵 4880 元，最便宜 680，超印尼站两倍价格，如何看待这样的标价？](https://www.zhihu.com/question/603790970)<br />
 8. [夏天到了，你有哪些避暑神器？](https://www.zhihu.com/question/277377529)<br />
-9. [为何《崩坏：星穹铁道》下个版本只更新支线剧情而不更新主线剧情？](https://www.zhihu.com/question/603297891)<br />
+9. [武术圈真的存在同一个师傅教的导致破不了招的情况吗?](https://www.zhihu.com/question/596966237)<br />
 
 > 百度  
 
