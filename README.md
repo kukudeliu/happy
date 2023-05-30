@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 13:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 13:29:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [华晨宇加入LGD](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E5%8A%A0%E5%85%A5LGD%23&t=31&band_rank=5&Refer=top)<br />
 6. [演唱会门票秒罄黄牛党捞钱术升级](https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E7%A7%92%E7%BD%84%E9%BB%84%E7%89%9B%E5%85%9A%E6%8D%9E%E9%92%B1%E6%9C%AF%E5%8D%87%E7%BA%A7%23&t=31&band_rank=6&Refer=top)<br />
 7. [四川自来水公司呼吁每月洗澡2到4次](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E8%87%AA%E6%9D%A5%E6%B0%B4%E5%85%AC%E5%8F%B8%E5%91%BC%E5%90%81%E6%AF%8F%E6%9C%88%E6%B4%97%E6%BE%A12%E5%88%B04%E6%AC%A1%23&t=31&band_rank=7&Refer=top)<br />
-8. [一杯奶茶钱可以买这么多东西](https://s.weibo.com/weibo?q=%E4%B8%80%E6%9D%AF%E5%A5%B6%E8%8C%B6%E9%92%B1%E5%8F%AF%E4%BB%A5%E4%B9%B0%E8%BF%99%E4%B9%88%E5%A4%9A%E4%B8%9C%E8%A5%BF&t=31&band_rank=8&Refer=top)<br />
-9. [03 你还有七个学生没毕业](https://s.weibo.com/weibo?q=%2303%20%E4%BD%A0%E8%BF%98%E6%9C%89%E4%B8%83%E4%B8%AA%E5%AD%A6%E7%94%9F%E6%B2%A1%E6%AF%95%E4%B8%9A%23&t=31&band_rank=9&Refer=top)<br />
+8. [03 你还有七个学生没毕业](https://s.weibo.com/weibo?q=%2303%20%E4%BD%A0%E8%BF%98%E6%9C%89%E4%B8%83%E4%B8%AA%E5%AD%A6%E7%94%9F%E6%B2%A1%E6%AF%95%E4%B8%9A%23&t=31&band_rank=8&Refer=top)<br />
+9. [一杯奶茶钱可以买这么多东西](https://s.weibo.com/weibo?q=%E4%B8%80%E6%9D%AF%E5%A5%B6%E8%8C%B6%E9%92%B1%E5%8F%AF%E4%BB%A5%E4%B9%B0%E8%BF%99%E4%B9%88%E5%A4%9A%E4%B8%9C%E8%A5%BF&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [《大明王朝 1566》里李妃面对裕王为什么轻蔑地笑了一下？](https://www.zhihu.com/question/603494099)<br />
 7. [和男朋友一年多，能力上没法帮助我，也不能提供很多情绪价值，交往还有意义吗？](https://www.zhihu.com/question/600477983)<br />
 8. []()<br />
-9. [徐家汇站气温 36.1℃，上海打破了百年来 5 月气温最高纪录，哪些原因导致？可能带来哪些影响？](https://www.zhihu.com/question/603618063)<br />
+9. []()<br />
 
 > 百度  
 
