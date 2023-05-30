@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 17:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 17:29:02</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [神舟十六号载人飞船发射任务圆满成功，三位乘组航天员景海鹏朱杨柱桂海潮，顺利出征，有何期待和祝福？](https://www.zhihu.com/question/601725007)<br />
 6. [安卓已经进入 16G 时代，为什么 iPhone14 系列运行内存最大只有 6G ？](https://www.zhihu.com/question/602238086)<br />
 7. [离岸人民币兑美元日内跌超 200 点，跌破 7.10，为去年 11 月来首次，哪些信息值得关注？](https://www.zhihu.com/question/603805125)<br />
-8. [玩《崩坏：星穹铁道》有什么体验?](https://www.zhihu.com/question/603047482)<br />
-9. []()<br />
+8. []()<br />
+9. [投期刊返修写 Response 的时候，应该写详细一些还是简要点？](https://www.zhihu.com/question/512498367)<br />
 
 > 百度  
 
