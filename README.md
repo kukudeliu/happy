@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 21:39:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 21:40:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [10 分钟被骗 430 万，AI 诈骗成功率近 100%，普通人该如何识别？](https://www.zhihu.com/theater/24968)<br />
 6. [神舟十六号载人飞船发射任务圆满成功，三位乘组航天员景海鹏朱杨柱桂海潮，顺利出征，有何期待和祝福？](https://www.zhihu.com/question/601725007)<br />
 7. [五角大楼称中方拒绝中美防长会面请求，外交部回应「原因美方是清楚的」，释放了哪些信号？](https://www.zhihu.com/question/603829127)<br />
-8. [怎样得到一杯 π°C 的水？](https://www.zhihu.com/question/591997512)<br />
-9. [如何看待华晨宇注册成为《和平精英》PEL 职业选手？](https://www.zhihu.com/question/603809412)<br />
+8. [如何看待华晨宇注册成为《和平精英》PEL 职业选手？](https://www.zhihu.com/question/603809412)<br />
+9. [怎样得到一杯 π°C 的水？](https://www.zhihu.com/question/591997512)<br />
 
 > 百度  
 
