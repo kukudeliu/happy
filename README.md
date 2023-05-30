@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-31 06:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-31 06:01:01</h4></div>
 
 > 微博  
 
@@ -6,9 +6,9 @@
 2. [TFBOYS](https://s.weibo.com/weibo?q=TFBOYS&t=31&band_rank=2&Refer=top)<br />
 3. [掘地三万尺中国又一壮举](https://s.weibo.com/weibo?q=%23%E6%8E%98%E5%9C%B0%E4%B8%89%E4%B8%87%E5%B0%BA%E4%B8%AD%E5%9B%BD%E5%8F%88%E4%B8%80%E5%A3%AE%E4%B8%BE%23&t=31&band_rank=3&Refer=top)<br />
 4. [李晓峰帮杨颖提裙子](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%99%93%E5%B3%B0%E5%B8%AE%E6%9D%A8%E9%A2%96%E6%8F%90%E8%A3%99%E5%AD%90%23&t=31&band_rank=4&Refer=top)<br />
-5. [杨幂 谢依霖](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%20%E8%B0%A2%E4%BE%9D%E9%9C%96&t=31&band_rank=5&Refer=top)<br />
-6. [迪丽热巴 刚出水的美人鱼](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E5%88%9A%E5%87%BA%E6%B0%B4%E7%9A%84%E7%BE%8E%E4%BA%BA%E9%B1%BC&t=31&band_rank=6&Refer=top)<br />
-7. [福建高校女生坠亡家属发声](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E9%AB%98%E6%A0%A1%E5%A5%B3%E7%94%9F%E5%9D%A0%E4%BA%A1%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0%23&t=31&band_rank=7&Refer=top)<br />
+5. [福建高校女生坠亡家属发声](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E9%AB%98%E6%A0%A1%E5%A5%B3%E7%94%9F%E5%9D%A0%E4%BA%A1%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0%23&t=31&band_rank=5&Refer=top)<br />
+6. [杨幂 谢依霖](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%20%E8%B0%A2%E4%BE%9D%E9%9C%96&t=31&band_rank=6&Refer=top)<br />
+7. [迪丽热巴 刚出水的美人鱼](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E5%88%9A%E5%87%BA%E6%B0%B4%E7%9A%84%E7%BE%8E%E4%BA%BA%E9%B1%BC&t=31&band_rank=7&Refer=top)<br />
 8. [年轻人有必要背上高额房贷买房吗](https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%9C%89%E5%BF%85%E8%A6%81%E8%83%8C%E4%B8%8A%E9%AB%98%E9%A2%9D%E6%88%BF%E8%B4%B7%E4%B9%B0%E6%88%BF%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
 9. [贤合庄北京门店全部关闭](https://s.weibo.com/weibo?q=%23%E8%B4%A4%E5%90%88%E5%BA%84%E5%8C%97%E4%BA%AC%E9%97%A8%E5%BA%97%E5%85%A8%E9%83%A8%E5%85%B3%E9%97%AD%23&t=31&band_rank=9&Refer=top)<br />
 
@@ -20,9 +20,9 @@
 4. [26 岁，本科肄业，家里蹲 5 年，没工作过，没社交，与社会脱节，怎么自救？](https://www.zhihu.com/question/299259221)<br />
 5. [河南紧急下拨 2 亿元，专项用于小麦烘干，全省小麦目前收获 4.52%，这意味着什么？将产生哪些影响？](https://www.zhihu.com/question/603823460)<br />
 6. [台湾海峡之间理论上可以建大桥吗？](https://www.zhihu.com/question/53828775)<br />
-7. []()<br />
+7. [燃气热水器该如何进行选购，有哪些选购技巧？](https://www.zhihu.com/question/435616929)<br />
 8. []()<br />
-9. [燃气热水器该如何进行选购，有哪些选购技巧？](https://www.zhihu.com/question/435616929)<br />
+9. [净水器该如何挑选？](https://www.zhihu.com/question/27201497)<br />
 
 > 百度  
 
