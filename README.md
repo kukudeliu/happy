@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 21:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 21:58:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [Angelababy红毯从来没有失手过](https://s.weibo.com/weibo?q=%23Angelababy%E7%BA%A2%E6%AF%AF%E4%BB%8E%E6%9D%A5%E6%B2%A1%E6%9C%89%E5%A4%B1%E6%89%8B%E8%BF%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [贤合庄北京门店全部关闭](https://s.weibo.com/weibo?q=%23%E8%B4%A4%E5%90%88%E5%BA%84%E5%8C%97%E4%BA%AC%E9%97%A8%E5%BA%97%E5%85%A8%E9%83%A8%E5%85%B3%E9%97%AD%23&t=31&band_rank=7&Refer=top)<br />
 8. [Cat](https://s.weibo.com/weibo?q=Cat&t=31&band_rank=8&Refer=top)<br />
-9. [丫丫回家后判若两熊](https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E5%9B%9E%E5%AE%B6%E5%90%8E%E5%88%A4%E8%8B%A5%E4%B8%A4%E7%86%8A%23&t=31&band_rank=9&Refer=top)<br />
+9. [上海白蚁](https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E7%99%BD%E8%9A%81&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
