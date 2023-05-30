@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-31 05:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-31 05:05:01</h4></div>
 
 > 微博  
 
-1. [TFBOYS](https://s.weibo.com/weibo?q=TFBOYS&t=31&band_rank=1&Refer=top)<br />
-2. [你每个月洗澡多少次](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%AF%8F%E4%B8%AA%E6%9C%88%E6%B4%97%E6%BE%A1%E5%A4%9A%E5%B0%91%E6%AC%A1%23&t=31&band_rank=2&Refer=top)<br />
+1. [你每个月洗澡多少次](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%AF%8F%E4%B8%AA%E6%9C%88%E6%B4%97%E6%BE%A1%E5%A4%9A%E5%B0%91%E6%AC%A1%23&t=31&band_rank=1&Refer=top)<br />
+2. [TFBOYS](https://s.weibo.com/weibo?q=TFBOYS&t=31&band_rank=2&Refer=top)<br />
 3. [掘地三万尺中国又一壮举](https://s.weibo.com/weibo?q=%23%E6%8E%98%E5%9C%B0%E4%B8%89%E4%B8%87%E5%B0%BA%E4%B8%AD%E5%9B%BD%E5%8F%88%E4%B8%80%E5%A3%AE%E4%B8%BE%23&t=31&band_rank=3&Refer=top)<br />
 4. [李晓峰帮杨颖提裙子](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%99%93%E5%B3%B0%E5%B8%AE%E6%9D%A8%E9%A2%96%E6%8F%90%E8%A3%99%E5%AD%90%23&t=31&band_rank=4&Refer=top)<br />
 5. [迪丽热巴 刚出水的美人鱼](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E5%88%9A%E5%87%BA%E6%B0%B4%E7%9A%84%E7%BE%8E%E4%BA%BA%E9%B1%BC&t=31&band_rank=5&Refer=top)<br />
