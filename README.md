@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 13:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 13:40:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [演唱会门票秒罄黄牛党捞钱术升级](https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E7%A7%92%E7%BD%84%E9%BB%84%E7%89%9B%E5%85%9A%E6%8D%9E%E9%92%B1%E6%9C%AF%E5%8D%87%E7%BA%A7%23&t=31&band_rank=6&Refer=top)<br />
 7. [女子输液被陌生男子拔针扎进水桶](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%BE%93%E6%B6%B2%E8%A2%AB%E9%99%8C%E7%94%9F%E7%94%B7%E5%AD%90%E6%8B%94%E9%92%88%E6%89%8E%E8%BF%9B%E6%B0%B4%E6%A1%B6%23&t=31&band_rank=7&Refer=top)<br />
 8. [四川自来水公司呼吁每月洗澡2到4次](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E8%87%AA%E6%9D%A5%E6%B0%B4%E5%85%AC%E5%8F%B8%E5%91%BC%E5%90%81%E6%AF%8F%E6%9C%88%E6%B4%97%E6%BE%A12%E5%88%B04%E6%AC%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [一杯奶茶钱可以买这么多东西](https://s.weibo.com/weibo?q=%E4%B8%80%E6%9D%AF%E5%A5%B6%E8%8C%B6%E9%92%B1%E5%8F%AF%E4%BB%A5%E4%B9%B0%E8%BF%99%E4%B9%88%E5%A4%9A%E4%B8%9C%E8%A5%BF&t=31&band_rank=9&Refer=top)<br />
+9. [03 你还有七个学生没毕业](https://s.weibo.com/weibo?q=%2303%20%E4%BD%A0%E8%BF%98%E6%9C%89%E4%B8%83%E4%B8%AA%E5%AD%A6%E7%94%9F%E6%B2%A1%E6%AF%95%E4%B8%9A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
