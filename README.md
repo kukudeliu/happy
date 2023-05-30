@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 17:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-30 17:25:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [玩《崩坏：星穹铁道》有什么体验?](https://www.zhihu.com/question/603047482)<br />
 7. [安卓已经进入 16G 时代，为什么 iPhone14 系列运行内存最大只有 6G ？](https://www.zhihu.com/question/602238086)<br />
 8. [离岸人民币兑美元日内跌超 200 点，跌破 7.10，为去年 11 月来首次，哪些信息值得关注？](https://www.zhihu.com/question/603805125)<br />
-9. [切尔西官宣波切蒂诺出任主教练，签约 2+1 年，如何看待他的执教前景？](https://www.zhihu.com/question/603698155)<br />
+9. []()<br />
 
 > 百度  
 
