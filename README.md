@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 00:36:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 00:37:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [杨紫化妆师删博](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%8C%96%E5%A6%86%E5%B8%88%E5%88%A0%E5%8D%9A%23&t=31&band_rank=5&Refer=top)<br />
 6. [宋妍霏对王嘉尔的小动作](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E5%A6%8D%E9%9C%8F%E5%AF%B9%E7%8E%8B%E5%98%89%E5%B0%94%E7%9A%84%E5%B0%8F%E5%8A%A8%E4%BD%9C%23&t=31&band_rank=6&Refer=top)<br />
 7. [官方通报柳州一干部相关情况](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%9F%B3%E5%B7%9E%E4%B8%80%E5%B9%B2%E9%83%A8%E7%9B%B8%E5%85%B3%E6%83%85%E5%86%B5%23&t=31&band_rank=7&Refer=top)<br />
-8. [虞书欣 杨天真](https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%20%E6%9D%A8%E5%A4%A9%E7%9C%9F&t=31&band_rank=8&Refer=top)<br />
-9. [胡可说不要把另一半当自己人](https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%8F%AF%E8%AF%B4%E4%B8%8D%E8%A6%81%E6%8A%8A%E5%8F%A6%E4%B8%80%E5%8D%8A%E5%BD%93%E8%87%AA%E5%B7%B1%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
+8. [胡可说不要把另一半当自己人](https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%8F%AF%E8%AF%B4%E4%B8%8D%E8%A6%81%E6%8A%8A%E5%8F%A6%E4%B8%80%E5%8D%8A%E5%BD%93%E8%87%AA%E5%B7%B1%E4%BA%BA%23&t=31&band_rank=8&Refer=top)<br />
+9. [苹果14](https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C14&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
