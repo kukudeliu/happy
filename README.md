@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-31 19:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-31 19:56:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [医生跟踪3年治好女大学生天疱疮](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E8%B7%9F%E8%B8%AA3%E5%B9%B4%E6%B2%BB%E5%A5%BD%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%A4%A9%E7%96%B1%E7%96%AE%23&t=31&band_rank=5&Refer=top)<br />
 6. [冯小刚香港卖房大赚6000万港元](https://s.weibo.com/weibo?q=%23%E5%86%AF%E5%B0%8F%E5%88%9A%E9%A6%99%E6%B8%AF%E5%8D%96%E6%88%BF%E5%A4%A7%E8%B5%9A6000%E4%B8%87%E6%B8%AF%E5%85%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [外卖骑手取餐闻到煤气味机智救下2人](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%8D%96%E9%AA%91%E6%89%8B%E5%8F%96%E9%A4%90%E9%97%BB%E5%88%B0%E7%85%A4%E6%B0%94%E5%91%B3%E6%9C%BA%E6%99%BA%E6%95%91%E4%B8%8B2%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
-8. [一年级都火了](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%B9%B4%E7%BA%A7%E9%83%BD%E7%81%AB%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [TFBOYS演唱会最终章](https://s.weibo.com/weibo?q=%23TFBOYS%E6%BC%94%E5%94%B1%E4%BC%9A%E6%9C%80%E7%BB%88%E7%AB%A0%23&t=31&band_rank=9&Refer=top)<br />
+8. [TFBOYS演唱会最终章](https://s.weibo.com/weibo?q=%23TFBOYS%E6%BC%94%E5%94%B1%E4%BC%9A%E6%9C%80%E7%BB%88%E7%AB%A0%23&t=31&band_rank=8&Refer=top)<br />
+9. [一年级都火了](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%B9%B4%E7%BA%A7%E9%83%BD%E7%81%AB%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
