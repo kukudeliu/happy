@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-31 23:31:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-31 23:32:01</h4></div>
 
 > 微博  
 
 1. [网传柳州一干部与情人聊天记录被群发](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E6%9F%B3%E5%B7%9E%E4%B8%80%E5%B9%B2%E9%83%A8%E4%B8%8E%E6%83%85%E4%BA%BA%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%E8%A2%AB%E7%BE%A4%E5%8F%91%23&t=31&band_rank=1&Refer=top)<br />
-2. [苹果14](https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C14&t=31&band_rank=2&Refer=top)<br />
+2. [退款](https://s.weibo.com/weibo?q=%E9%80%80%E6%AC%BE&t=31&band_rank=2&Refer=top)<br />
 3. [中国好书六一专榜](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%BD%E4%B9%A6%E5%85%AD%E4%B8%80%E4%B8%93%E6%A6%9C%23&t=31&band_rank=3&Refer=top)<br />
 4. [聊天记录](https://s.weibo.com/weibo?q=%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95&t=31&band_rank=4&Refer=top)<br />
-5. [退款](https://s.weibo.com/weibo?q=%E9%80%80%E6%AC%BE&t=31&band_rank=5&Refer=top)<br />
+5. [苹果14](https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C14&t=31&band_rank=5&Refer=top)<br />
 6. [坐飞机要称体重了](https://s.weibo.com/weibo?q=%23%E5%9D%90%E9%A3%9E%E6%9C%BA%E8%A6%81%E7%A7%B0%E4%BD%93%E9%87%8D%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [杨紫化妆师删博](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%8C%96%E5%A6%86%E5%B8%88%E5%88%A0%E5%8D%9A%23&t=31&band_rank=7&Refer=top)<br />
-8. [赵露思 妆发团队](https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%20%E5%A6%86%E5%8F%91%E5%9B%A2%E9%98%9F&t=31&band_rank=8&Refer=top)<br />
-9. [虞书欣 杨天真](https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%20%E6%9D%A8%E5%A4%A9%E7%9C%9F&t=31&band_rank=9&Refer=top)<br />
+8. [虞书欣 杨天真](https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%20%E6%9D%A8%E5%A4%A9%E7%9C%9F&t=31&band_rank=8&Refer=top)<br />
+9. [赵露思 妆发团队](https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%20%E5%A6%86%E5%8F%91%E5%9B%A2%E9%98%9F&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -21,8 +21,8 @@
 5. [大额存单「突现」高利率，多地中小银行推出 4.05% 利率大额存单，如何评价中小银行此举？](https://www.zhihu.com/question/604069185)<br />
 6. [男朋友哄我睡着后往往要一个人打游戏到很晚释放压力，这是为什么？因此分手合适吗？](https://www.zhihu.com/question/597228825)<br />
 7. [外交部回应「中印相互驱逐记者」，称「印方无理打压，中方不得不反制」，如何评价印方这一系列举措？](https://www.zhihu.com/question/604040117)<br />
-8. [如果孩子的智商是足够的，家里的经济实力也是够的，怎么系统的培养，孩子将来可以考上清华？](https://www.zhihu.com/question/603609989)<br />
-9. [被公司开除是怎样一种体验？](https://www.zhihu.com/question/44336628)<br />
+8. [被公司开除是怎样一种体验？](https://www.zhihu.com/question/44336628)<br />
+9. [2023 LPL 夏季赛 LNG 2:1 TES 取得赛季开门红，如何评价这场比赛？](https://www.zhihu.com/question/604066709)<br />
 
 > 百度  
 
