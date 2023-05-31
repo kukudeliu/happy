@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-31 08:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-31 08:14:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [5亿身家高中生坠亡案曝出新疑点](https://www.baidu.com/s?wd=5%E4%BA%BF%E8%BA%AB%E5%AE%B6%E9%AB%98%E4%B8%AD%E7%94%9F%E5%9D%A0%E4%BA%A1%E6%A1%88%E6%9B%9D%E5%87%BA%E6%96%B0%E7%96%91%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [马斯克到北京第一天吃了啥](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%88%B0%E5%8C%97%E4%BA%AC%E7%AC%AC%E4%B8%80%E5%A4%A9%E5%90%83%E4%BA%86%E5%95%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [俄外交部就莫斯科遭袭发表声明](https://www.baidu.com/s?wd=%E4%BF%84%E5%A4%96%E4%BA%A4%E9%83%A8%E5%B0%B1%E8%8E%AB%E6%96%AF%E7%A7%91%E9%81%AD%E8%A2%AD%E5%8F%91%E8%A1%A8%E5%A3%B0%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [六问河南上百台收割机无法下高速](https://www.baidu.com/s?wd=%E5%85%AD%E9%97%AE%E6%B2%B3%E5%8D%97%E4%B8%8A%E7%99%BE%E5%8F%B0%E6%94%B6%E5%89%B2%E6%9C%BA%E6%97%A0%E6%B3%95%E4%B8%8B%E9%AB%98%E9%80%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [近七成受访年轻人认为必须有房](https://www.baidu.com/s?wd=%E8%BF%91%E4%B8%83%E6%88%90%E5%8F%97%E8%AE%BF%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%AE%A4%E4%B8%BA%E5%BF%85%E9%A1%BB%E6%9C%89%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [5亿身家高中生坠亡案曝出新疑点](https://www.baidu.com/s?wd=5%E4%BA%BF%E8%BA%AB%E5%AE%B6%E9%AB%98%E4%B8%AD%E7%94%9F%E5%9D%A0%E4%BA%A1%E6%A1%88%E6%9B%9D%E5%87%BA%E6%96%B0%E7%96%91%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [马斯克到北京第一天吃了啥](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%88%B0%E5%8C%97%E4%BA%AC%E7%AC%AC%E4%B8%80%E5%A4%A9%E5%90%83%E4%BA%86%E5%95%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [俄外交部就莫斯科遭袭发表声明](https://www.baidu.com/s?wd=%E4%BF%84%E5%A4%96%E4%BA%A4%E9%83%A8%E5%B0%B1%E8%8E%AB%E6%96%AF%E7%A7%91%E9%81%AD%E8%A2%AD%E5%8F%91%E8%A1%A8%E5%A3%B0%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [六问河南上百台收割机无法下高速](https://www.baidu.com/s?wd=%E5%85%AD%E9%97%AE%E6%B2%B3%E5%8D%97%E4%B8%8A%E7%99%BE%E5%8F%B0%E6%94%B6%E5%89%B2%E6%9C%BA%E6%97%A0%E6%B3%95%E4%B8%8B%E9%AB%98%E9%80%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [近七成受访年轻人认为必须有房](https://www.baidu.com/s?wd=%E8%BF%91%E4%B8%83%E6%88%90%E5%8F%97%E8%AE%BF%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%AE%A4%E4%B8%BA%E5%BF%85%E9%A1%BB%E6%9C%89%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
