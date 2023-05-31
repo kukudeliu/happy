@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 01:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 01:20:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [副部级刘宏武受审 被控受贿8373万](https://www.baidu.com/s?wd=%E5%89%AF%E9%83%A8%E7%BA%A7%E5%88%98%E5%AE%8F%E6%AD%A6%E5%8F%97%E5%AE%A1+%E8%A2%AB%E6%8E%A7%E5%8F%97%E8%B4%BF8373%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [韩美指责朝鲜发射卫星 外交部回应](https://www.baidu.com/s?wd=%E9%9F%A9%E7%BE%8E%E6%8C%87%E8%B4%A3%E6%9C%9D%E9%B2%9C%E5%8F%91%E5%B0%84%E5%8D%AB%E6%98%9F+%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [酒驾被查三月后获提拔官员已免职](https://www.baidu.com/s?wd=%E9%85%92%E9%A9%BE%E8%A2%AB%E6%9F%A5%E4%B8%89%E6%9C%88%E5%90%8E%E8%8E%B7%E6%8F%90%E6%8B%94%E5%AE%98%E5%91%98%E5%B7%B2%E5%85%8D%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [承德露露回应“露露黄了”](https://www.baidu.com/s?wd=%E6%89%BF%E5%BE%B7%E9%9C%B2%E9%9C%B2%E5%9B%9E%E5%BA%94%E2%80%9C%E9%9C%B2%E9%9C%B2%E9%BB%84%E4%BA%86%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [苹果发布虚假广告被罚20万](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E8%99%9A%E5%81%87%E5%B9%BF%E5%91%8A%E8%A2%AB%E7%BD%9A20%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [副部级刘宏武受审 被控受贿8373万](https://www.baidu.com/s?wd=%E5%89%AF%E9%83%A8%E7%BA%A7%E5%88%98%E5%AE%8F%E6%AD%A6%E5%8F%97%E5%AE%A1+%E8%A2%AB%E6%8E%A7%E5%8F%97%E8%B4%BF8373%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [韩美指责朝鲜发射卫星 外交部回应](https://www.baidu.com/s?wd=%E9%9F%A9%E7%BE%8E%E6%8C%87%E8%B4%A3%E6%9C%9D%E9%B2%9C%E5%8F%91%E5%B0%84%E5%8D%AB%E6%98%9F+%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [酒驾被查三月后获提拔官员已免职](https://www.baidu.com/s?wd=%E9%85%92%E9%A9%BE%E8%A2%AB%E6%9F%A5%E4%B8%89%E6%9C%88%E5%90%8E%E8%8E%B7%E6%8F%90%E6%8B%94%E5%AE%98%E5%91%98%E5%B7%B2%E5%85%8D%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [承德露露回应“露露黄了”](https://www.baidu.com/s?wd=%E6%89%BF%E5%BE%B7%E9%9C%B2%E9%9C%B2%E5%9B%9E%E5%BA%94%E2%80%9C%E9%9C%B2%E9%9C%B2%E9%BB%84%E4%BA%86%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [苹果发布虚假广告被罚20万](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E8%99%9A%E5%81%87%E5%B9%BF%E5%91%8A%E8%A2%AB%E7%BD%9A20%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
