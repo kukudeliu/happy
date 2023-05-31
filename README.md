@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-31 18:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-31 18:47:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. []()<br />
 6. [FF 91 2.0 Futurist 售价 30.9 万美元，赛道版车型将率先交付，有哪些技术亮点？](https://www.zhihu.com/question/604005942)<br />
 7. []()<br />
-8. [如何评价 5 月 31 日发布的 vivo S17 系列，有哪些亮点和不足？](https://www.zhihu.com/question/604002176)<br />
-9. [迈尔斯辞去勇士总经理职务，他曾给球队带来哪些改变？勇士休赛期会有大换血吗？](https://www.zhihu.com/question/603982332)<br />
+8. [迈尔斯辞去勇士总经理职务，他曾给球队带来哪些改变？勇士休赛期会有大换血吗？](https://www.zhihu.com/question/603982332)<br />
+9. [长城汽车品牌公关总经理果铁夫离职，他离职后将给公司发展带来哪些影响？](https://www.zhihu.com/question/603994079)<br />
 
 > 百度  
 
