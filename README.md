@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-31 16:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-31 16:37:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [砍杀柯基男子被曝任职公益岗](https://s.weibo.com/weibo?q=%23%E7%A0%8D%E6%9D%80%E6%9F%AF%E5%9F%BA%E7%94%B7%E5%AD%90%E8%A2%AB%E6%9B%9D%E4%BB%BB%E8%81%8C%E5%85%AC%E7%9B%8A%E5%B2%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [Angelababy 火山口走出的女战神](https://s.weibo.com/weibo?q=Angelababy%20%E7%81%AB%E5%B1%B1%E5%8F%A3%E8%B5%B0%E5%87%BA%E7%9A%84%E5%A5%B3%E6%88%98%E7%A5%9E&t=31&band_rank=7&Refer=top)<br />
 8. [同事阳了对着我哈气](https://s.weibo.com/weibo?q=%23%E5%90%8C%E4%BA%8B%E9%98%B3%E4%BA%86%E5%AF%B9%E7%9D%80%E6%88%91%E5%93%88%E6%B0%94%23&t=31&band_rank=8&Refer=top)<br />
-9. [沈月说因为丢工作经常焦虑](https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%9C%88%E8%AF%B4%E5%9B%A0%E4%B8%BA%E4%B8%A2%E5%B7%A5%E4%BD%9C%E7%BB%8F%E5%B8%B8%E7%84%A6%E8%99%91%23&t=31&band_rank=9&Refer=top)<br />
+9. [朱珠化妆台](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E7%8F%A0%E5%8C%96%E5%A6%86%E5%8F%B0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [为什么月球的中心天体不是太阳?](https://www.zhihu.com/question/603421493)<br />
 7. [秦刚会见特斯拉首席执行官马斯克，秦刚称「发展好中美关系，需要把准方向盘」，这一会见有哪些意义？](https://www.zhihu.com/question/603879051)<br />
 8. [为啥现在的衣服越来越贵，质量却越来越差？](https://www.zhihu.com/question/60977852)<br />
-9. [一天健身 6 小时一个月健身 5 天和一天健身 1 小时一个月健身 30 天，哪种模式更好？](https://www.zhihu.com/question/601189534)<br />
+9. [有什么历史常识因新的出土文物而被推翻？](https://www.zhihu.com/question/28526451)<br />
 
 > 百度  
 
