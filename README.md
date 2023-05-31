@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-31 15:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-31 15:09:01</h4></div>
 
 > 微博  
 
@@ -27,23 +27,23 @@
 > 百度  
 
 1. [以教育之强夯实富强之基](https://www.baidu.com/s?wd=%E4%BB%A5%E6%95%99%E8%82%B2%E4%B9%8B%E5%BC%BA%E5%A4%AF%E5%AE%9E%E5%AF%8C%E5%BC%BA%E4%B9%8B%E5%9F%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [丫丫加入西直门群聊](https://www.baidu.com/s?wd=%E4%B8%AB%E4%B8%AB%E5%8A%A0%E5%85%A5%E8%A5%BF%E7%9B%B4%E9%97%A8%E7%BE%A4%E8%81%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [四川一地严重缺水 已限压供水](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E5%9C%B0%E4%B8%A5%E9%87%8D%E7%BC%BA%E6%B0%B4+%E5%B7%B2%E9%99%90%E5%8E%8B%E4%BE%9B%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [贾跃亭造车梦成：FF91售价超200万](https://www.baidu.com/s?wd=%E8%B4%BE%E8%B7%83%E4%BA%AD%E9%80%A0%E8%BD%A6%E6%A2%A6%E6%88%90%EF%BC%9AFF91%E5%94%AE%E4%BB%B7%E8%B6%85200%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [逐梦太空永无止境](https://www.baidu.com/s?wd=%E9%80%90%E6%A2%A6%E5%A4%AA%E7%A9%BA%E6%B0%B8%E6%97%A0%E6%AD%A2%E5%A2%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [陌生人闯家门骂女子小三后称认错人](https://www.baidu.com/s?wd=%E9%99%8C%E7%94%9F%E4%BA%BA%E9%97%AF%E5%AE%B6%E9%97%A8%E9%AA%82%E5%A5%B3%E5%AD%90%E5%B0%8F%E4%B8%89%E5%90%8E%E7%A7%B0%E8%AE%A4%E9%94%99%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [成都一男子驾车街头乱撞多车后裸奔](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E4%B8%80%E7%94%B7%E5%AD%90%E9%A9%BE%E8%BD%A6%E8%A1%97%E5%A4%B4%E4%B9%B1%E6%92%9E%E5%A4%9A%E8%BD%A6%E5%90%8E%E8%A3%B8%E5%A5%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [阚清子回应被男友求婚](https://www.baidu.com/s?wd=%E9%98%9A%E6%B8%85%E5%AD%90%E5%9B%9E%E5%BA%94%E8%A2%AB%E7%94%B7%E5%8F%8B%E6%B1%82%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [成都一男子驾车街头乱撞多车后裸奔](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E4%B8%80%E7%94%B7%E5%AD%90%E9%A9%BE%E8%BD%A6%E8%A1%97%E5%A4%B4%E4%B9%B1%E6%92%9E%E5%A4%9A%E8%BD%A6%E5%90%8E%E8%A3%B8%E5%A5%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [社区回应一层6户墙面被砸穿](https://www.baidu.com/s?wd=%E7%A4%BE%E5%8C%BA%E5%9B%9E%E5%BA%94%E4%B8%80%E5%B1%826%E6%88%B7%E5%A2%99%E9%9D%A2%E8%A2%AB%E7%A0%B8%E7%A9%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [演唱会票价涨3倍黄牛还说不赚钱](https://www.baidu.com/s?wd=%E6%BC%94%E5%94%B1%E4%BC%9A%E7%A5%A8%E4%BB%B7%E6%B6%A83%E5%80%8D%E9%BB%84%E7%89%9B%E8%BF%98%E8%AF%B4%E4%B8%8D%E8%B5%9A%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [今天也辛苦了](https://www.baidu.com/s?wd=%23%E4%BB%8A%E5%A4%A9%E4%B9%9F%E8%BE%9B%E8%8B%A6%E4%BA%86%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [阿东履新 成第二位“70后”正部级](https://www.baidu.com/s?wd=%E9%98%BF%E4%B8%9C%E5%B1%A5%E6%96%B0+%E6%88%90%E7%AC%AC%E4%BA%8C%E4%BD%8D%E2%80%9C70%E5%90%8E%E2%80%9D%E6%AD%A3%E9%83%A8%E7%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [阚清子回应被男友求婚](https://www.baidu.com/s?wd=%E9%98%9A%E6%B8%85%E5%AD%90%E5%9B%9E%E5%BA%94%E8%A2%AB%E7%94%B7%E5%8F%8B%E6%B1%82%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [以教育之强夯实富强之基](https://www.baidu.com/s?wd=%E4%BB%A5%E6%95%99%E8%82%B2%E4%B9%8B%E5%BC%BA%E5%A4%AF%E5%AE%9E%E5%AF%8C%E5%BC%BA%E4%B9%8B%E5%9F%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [丫丫加入西直门群聊](https://www.baidu.com/s?wd=%E4%B8%AB%E4%B8%AB%E5%8A%A0%E5%85%A5%E8%A5%BF%E7%9B%B4%E9%97%A8%E7%BE%A4%E8%81%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [四川一地严重缺水 已限压供水](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E5%9C%B0%E4%B8%A5%E9%87%8D%E7%BC%BA%E6%B0%B4+%E5%B7%B2%E9%99%90%E5%8E%8B%E4%BE%9B%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [贾跃亭造车梦成：FF91售价超200万](https://www.baidu.com/s?wd=%E8%B4%BE%E8%B7%83%E4%BA%AD%E9%80%A0%E8%BD%A6%E6%A2%A6%E6%88%90%EF%BC%9AFF91%E5%94%AE%E4%BB%B7%E8%B6%85200%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [逐梦太空永无止境](https://www.baidu.com/s?wd=%E9%80%90%E6%A2%A6%E5%A4%AA%E7%A9%BA%E6%B0%B8%E6%97%A0%E6%AD%A2%E5%A2%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [陌生人闯家门骂女子小三后称认错人](https://www.baidu.com/s?wd=%E9%99%8C%E7%94%9F%E4%BA%BA%E9%97%AF%E5%AE%B6%E9%97%A8%E9%AA%82%E5%A5%B3%E5%AD%90%E5%B0%8F%E4%B8%89%E5%90%8E%E7%A7%B0%E8%AE%A4%E9%94%99%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [成都一男子驾车街头乱撞多车后裸奔](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E4%B8%80%E7%94%B7%E5%AD%90%E9%A9%BE%E8%BD%A6%E8%A1%97%E5%A4%B4%E4%B9%B1%E6%92%9E%E5%A4%9A%E8%BD%A6%E5%90%8E%E8%A3%B8%E5%A5%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [阚清子回应被男友求婚](https://www.baidu.com/s?wd=%E9%98%9A%E6%B8%85%E5%AD%90%E5%9B%9E%E5%BA%94%E8%A2%AB%E7%94%B7%E5%8F%8B%E6%B1%82%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [成都一男子驾车街头乱撞多车后裸奔](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E4%B8%80%E7%94%B7%E5%AD%90%E9%A9%BE%E8%BD%A6%E8%A1%97%E5%A4%B4%E4%B9%B1%E6%92%9E%E5%A4%9A%E8%BD%A6%E5%90%8E%E8%A3%B8%E5%A5%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [社区回应一层6户墙面被砸穿](https://www.baidu.com/s?wd=%E7%A4%BE%E5%8C%BA%E5%9B%9E%E5%BA%94%E4%B8%80%E5%B1%826%E6%88%B7%E5%A2%99%E9%9D%A2%E8%A2%AB%E7%A0%B8%E7%A9%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [演唱会票价涨3倍黄牛还说不赚钱](https://www.baidu.com/s?wd=%E6%BC%94%E5%94%B1%E4%BC%9A%E7%A5%A8%E4%BB%B7%E6%B6%A83%E5%80%8D%E9%BB%84%E7%89%9B%E8%BF%98%E8%AF%B4%E4%B8%8D%E8%B5%9A%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [今天也辛苦了](https://www.baidu.com/s?wd=%23%E4%BB%8A%E5%A4%A9%E4%B9%9F%E8%BE%9B%E8%8B%A6%E4%BA%86%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [阿东履新 成第二位“70后”正部级](https://www.baidu.com/s?wd=%E9%98%BF%E4%B8%9C%E5%B1%A5%E6%96%B0+%E6%88%90%E7%AC%AC%E4%BA%8C%E4%BD%8D%E2%80%9C70%E5%90%8E%E2%80%9D%E6%AD%A3%E9%83%A8%E7%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [阚清子回应被男友求婚](https://www.baidu.com/s?wd=%E9%98%9A%E6%B8%85%E5%AD%90%E5%9B%9E%E5%BA%94%E8%A2%AB%E7%94%B7%E5%8F%8B%E6%B1%82%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
