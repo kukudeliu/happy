@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-31 12:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-31 12:38:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [同款蛋糕杭州卖 165 元上海卖 95 元，山姆超市称不同城市受成本、市场、优惠等影响，如何看待此事？](https://www.zhihu.com/question/603600909)<br />
 7. [多位知名学者最新警告「AI 可能灭绝人类」，ChatGPT 之父和 AI 教父都参与联名，如何理解？](https://www.zhihu.com/question/603915413)<br />
 8. [HMPV 在美国传播，感染百天后死亡率达 43％ ，症状与新冠相同，如何防护？将带来哪些影响？](https://www.zhihu.com/question/603980078)<br />
-9. [预算 3000 左右，2023 年 618 平板怎么选？](https://www.zhihu.com/question/603980177)<br />
+9. [新发布的 OPPO Reno10 Pro+ 会成为 4K 以内旗舰机的人像天花板吗？](https://www.zhihu.com/question/603893667)<br />
 
 > 百度  
 
