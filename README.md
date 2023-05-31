@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-31 23:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-31 23:37:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [大额存单「突现」高利率，多地中小银行推出 4.05% 利率大额存单，如何评价中小银行此举？](https://www.zhihu.com/question/604069185)<br />
 6. [男朋友哄我睡着后往往要一个人打游戏到很晚释放压力，这是为什么？因此分手合适吗？](https://www.zhihu.com/question/597228825)<br />
 7. [外交部回应「中印相互驱逐记者」，称「印方无理打压，中方不得不反制」，如何评价印方这一系列举措？](https://www.zhihu.com/question/604040117)<br />
-8. [被公司开除是怎样一种体验？](https://www.zhihu.com/question/44336628)<br />
-9. [2023 LPL 夏季赛 LNG 2:1 TES 取得赛季开门红，如何评价这场比赛？](https://www.zhihu.com/question/604066709)<br />
+8. [2023 LPL 夏季赛 LNG 2:1 TES 取得赛季开门红，如何评价这场比赛？](https://www.zhihu.com/question/604066709)<br />
+9. [为什么中国很多火车站的设计都是二楼候车，一楼站台，地下层出站？](https://www.zhihu.com/question/21422520)<br />
 
 > 百度  
 
