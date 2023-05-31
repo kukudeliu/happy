@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-31 16:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-31 16:58:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [有什么历史常识因新的出土文物而被推翻？](https://www.zhihu.com/question/28526451)<br />
 7. [如何评价 5 月 31 日发布的 vivo S17 系列，有哪些亮点和不足？](https://www.zhihu.com/question/604002176)<br />
 8. []()<br />
-9. [vivo S17 系列售价 2499 元起，其会是 2k 价位段的人像天花板吗？](https://www.zhihu.com/question/604028320)<br />
+9. []()<br />
 
 > 百度  
 
