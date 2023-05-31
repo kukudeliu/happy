@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-31 13:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-31 13:36:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [梦中的那片海定档](https://s.weibo.com/weibo?q=%23%E6%A2%A6%E4%B8%AD%E7%9A%84%E9%82%A3%E7%89%87%E6%B5%B7%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=6&Refer=top)<br />
 7. [女婴出生2天就被母亲打耳洞](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%A9%B4%E5%87%BA%E7%94%9F2%E5%A4%A9%E5%B0%B1%E8%A2%AB%E6%AF%8D%E4%BA%B2%E6%89%93%E8%80%B3%E6%B4%9E%23&t=31&band_rank=7&Refer=top)<br />
 8. [苏芒](https://s.weibo.com/weibo?q=%E8%8B%8F%E8%8A%92&t=31&band_rank=8&Refer=top)<br />
-9. [2023端午节放假通知](https://s.weibo.com/weibo?q=%232023%E7%AB%AF%E5%8D%88%E8%8A%82%E6%94%BE%E5%81%87%E9%80%9A%E7%9F%A5%23&t=31&band_rank=9&Refer=top)<br />
+9. [乐乐茶 loopy](https://s.weibo.com/weibo?q=%E4%B9%90%E4%B9%90%E8%8C%B6%20loopy&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
