@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-31 21:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-31 21:46:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [冯小刚香港卖房大赚6000万港元](https://s.weibo.com/weibo?q=%23%E5%86%AF%E5%B0%8F%E5%88%9A%E9%A6%99%E6%B8%AF%E5%8D%96%E6%88%BF%E5%A4%A7%E8%B5%9A6000%E4%B8%87%E6%B8%AF%E5%85%83%23&t=31&band_rank=5&Refer=top)<br />
 6. [TFBOYS演唱会最终章](https://s.weibo.com/weibo?q=%23TFBOYS%E6%BC%94%E5%94%B1%E4%BC%9A%E6%9C%80%E7%BB%88%E7%AB%A0%23&t=31&band_rank=6&Refer=top)<br />
 7. [赵露思 妆发团队](https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%20%E5%A6%86%E5%8F%91%E5%9B%A2%E9%98%9F&t=31&band_rank=7&Refer=top)<br />
-8. [官方通报柳州一干部相关情况](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%9F%B3%E5%B7%9E%E4%B8%80%E5%B9%B2%E9%83%A8%E7%9B%B8%E5%85%B3%E6%83%85%E5%86%B5%23&t=31&band_rank=8&Refer=top)<br />
-9. [卡琳娜](https://s.weibo.com/weibo?q=%E5%8D%A1%E7%90%B3%E5%A8%9C&t=31&band_rank=9&Refer=top)<br />
+8. [卡琳娜](https://s.weibo.com/weibo?q=%E5%8D%A1%E7%90%B3%E5%A8%9C&t=31&band_rank=8&Refer=top)<br />
+9. [官方通报柳州一干部相关情况](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%9F%B3%E5%B7%9E%E4%B8%80%E5%B9%B2%E9%83%A8%E7%9B%B8%E5%85%B3%E6%83%85%E5%86%B5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -18,7 +18,7 @@
 2. [长城汽车品牌公关总经理果铁夫离职，他离职后将给公司发展带来哪些影响？](https://www.zhihu.com/question/603994079)<br />
 3. [马斯克来华首日，特斯拉市值一夜大涨逾 250 亿美元，传达了什么信号？哪些信息值得关注？](https://www.zhihu.com/question/604022867)<br />
 4. [孙悟空为什么不把七十二变教给自己的猴子猴孙？](https://www.zhihu.com/question/603305444)<br />
-5. [北京 10 所高校新增 16 个本科专业，「人工智能」成热门，报对专业就能抓住风口吗？](https://www.zhihu.com/theater/10768)<br />
+5. [新增 21 种新专业，撤销 925 个专业点，就业率高就是好专业吗？](https://www.zhihu.com/theater/10768)<br />
 6. [男朋友哄我睡着后往往要一个人打游戏到很晚释放压力，这是为什么？因此分手合适吗？](https://www.zhihu.com/question/597228825)<br />
 7. [哈兰德当选英超赛季最佳球员，35 场 36 球 8 助攻，如何评价他的表现？](https://www.zhihu.com/question/603367998)<br />
 8. [今年 618 有哪些智能门锁值得入手？](https://www.zhihu.com/question/604023224)<br />
