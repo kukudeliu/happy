@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 04:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 04:19:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [70岁老人6小时没等到一辆公交](https://www.baidu.com/s?wd=70%E5%B2%81%E8%80%81%E4%BA%BA6%E5%B0%8F%E6%97%B6%E6%B2%A1%E7%AD%89%E5%88%B0%E4%B8%80%E8%BE%86%E5%85%AC%E4%BA%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [iPhone14全系跳水最高降1900](https://www.baidu.com/s?wd=iPhone14%E5%85%A8%E7%B3%BB%E8%B7%B3%E6%B0%B4%E6%9C%80%E9%AB%98%E9%99%8D1900&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [马斯克中国行24小时见了3位部长](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%AD%E5%9B%BD%E8%A1%8C24%E5%B0%8F%E6%97%B6%E8%A7%81%E4%BA%863%E4%BD%8D%E9%83%A8%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [人大代表被台陆委会处以罚款](https://www.baidu.com/s?wd=%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8%E8%A2%AB%E5%8F%B0%E9%99%86%E5%A7%94%E4%BC%9A%E5%A4%84%E4%BB%A5%E7%BD%9A%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [居民举报村干部杀人抛尸 警方：诬告](https://www.baidu.com/s?wd=%E5%B1%85%E6%B0%91%E4%B8%BE%E6%8A%A5%E6%9D%91%E5%B9%B2%E9%83%A8%E6%9D%80%E4%BA%BA%E6%8A%9B%E5%B0%B8+%E8%AD%A6%E6%96%B9%EF%BC%9A%E8%AF%AC%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [70岁老人6小时没等到一辆公交](https://www.baidu.com/s?wd=70%E5%B2%81%E8%80%81%E4%BA%BA6%E5%B0%8F%E6%97%B6%E6%B2%A1%E7%AD%89%E5%88%B0%E4%B8%80%E8%BE%86%E5%85%AC%E4%BA%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [iPhone14全系跳水最高降1900](https://www.baidu.com/s?wd=iPhone14%E5%85%A8%E7%B3%BB%E8%B7%B3%E6%B0%B4%E6%9C%80%E9%AB%98%E9%99%8D1900&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [马斯克中国行24小时见了3位部长](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%AD%E5%9B%BD%E8%A1%8C24%E5%B0%8F%E6%97%B6%E8%A7%81%E4%BA%863%E4%BD%8D%E9%83%A8%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [人大代表被台陆委会处以罚款](https://www.baidu.com/s?wd=%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8%E8%A2%AB%E5%8F%B0%E9%99%86%E5%A7%94%E4%BC%9A%E5%A4%84%E4%BB%A5%E7%BD%9A%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [居民举报村干部杀人抛尸 警方：诬告](https://www.baidu.com/s?wd=%E5%B1%85%E6%B0%91%E4%B8%BE%E6%8A%A5%E6%9D%91%E5%B9%B2%E9%83%A8%E6%9D%80%E4%BA%BA%E6%8A%9B%E5%B0%B8+%E8%AD%A6%E6%96%B9%EF%BC%9A%E8%AF%AC%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
