@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-31 21:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-31 21:41:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 2. [长城汽车品牌公关总经理果铁夫离职，他离职后将给公司发展带来哪些影响？](https://www.zhihu.com/question/603994079)<br />
 3. [马斯克来华首日，特斯拉市值一夜大涨逾 250 亿美元，传达了什么信号？哪些信息值得关注？](https://www.zhihu.com/question/604022867)<br />
 4. [孙悟空为什么不把七十二变教给自己的猴子猴孙？](https://www.zhihu.com/question/603305444)<br />
-5. [专业报考该选择大城市的专科还是小城市的本科？](https://www.zhihu.com/theater/10768)<br />
+5. [北京 10 所高校新增 16 个本科专业，「人工智能」成热门，报对专业就能抓住风口吗？](https://www.zhihu.com/theater/10768)<br />
 6. [男朋友哄我睡着后往往要一个人打游戏到很晚释放压力，这是为什么？因此分手合适吗？](https://www.zhihu.com/question/597228825)<br />
 7. [哈兰德当选英超赛季最佳球员，35 场 36 球 8 助攻，如何评价他的表现？](https://www.zhihu.com/question/603367998)<br />
 8. [今年 618 有哪些智能门锁值得入手？](https://www.zhihu.com/question/604023224)<br />
