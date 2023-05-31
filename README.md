@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-31 09:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-31 09:20:01</h4></div>
 
 > 微博  
 
 1. [韩国警报](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E8%AD%A6%E6%8A%A5%23&t=31&band_rank=1&Refer=top)<br />
 2. [你每个月洗澡多少次](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%AF%8F%E4%B8%AA%E6%9C%88%E6%B4%97%E6%BE%A1%E5%A4%9A%E5%B0%91%E6%AC%A1%23&t=31&band_rank=2&Refer=top)<br />
 3. [掘地三万尺中国又一壮举](https://s.weibo.com/weibo?q=%23%E6%8E%98%E5%9C%B0%E4%B8%89%E4%B8%87%E5%B0%BA%E4%B8%AD%E5%9B%BD%E5%8F%88%E4%B8%80%E5%A3%AE%E4%B8%BE%23&t=31&band_rank=3&Refer=top)<br />
-4. [丫丫加入西直门群聊](https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E5%8A%A0%E5%85%A5%E8%A5%BF%E7%9B%B4%E9%97%A8%E7%BE%A4%E8%81%8A%23&t=31&band_rank=4&Refer=top)<br />
-5. [女子3千割眼袋3个月眼睛闭不合](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%903%E5%8D%83%E5%89%B2%E7%9C%BC%E8%A2%8B3%E4%B8%AA%E6%9C%88%E7%9C%BC%E7%9D%9B%E9%97%AD%E4%B8%8D%E5%90%88%23&t=31&band_rank=5&Refer=top)<br />
+4. [女子3千割眼袋3个月眼睛闭不合](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%903%E5%8D%83%E5%89%B2%E7%9C%BC%E8%A2%8B3%E4%B8%AA%E6%9C%88%E7%9C%BC%E7%9D%9B%E9%97%AD%E4%B8%8D%E5%90%88%23&t=31&band_rank=4&Refer=top)<br />
+5. [丫丫加入西直门群聊](https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E5%8A%A0%E5%85%A5%E8%A5%BF%E7%9B%B4%E9%97%A8%E7%BE%A4%E8%81%8A%23&t=31&band_rank=5&Refer=top)<br />
 6. [迪丽热巴 刚出水的美人鱼](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E5%88%9A%E5%87%BA%E6%B0%B4%E7%9A%84%E7%BE%8E%E4%BA%BA%E9%B1%BC&t=31&band_rank=6&Refer=top)<br />
 7. [新人订婚用押钞车运送998万现金](https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%BA%BA%E8%AE%A2%E5%A9%9A%E7%94%A8%E6%8A%BC%E9%92%9E%E8%BD%A6%E8%BF%90%E9%80%81998%E4%B8%87%E7%8E%B0%E9%87%91%23&t=31&band_rank=7&Refer=top)<br />
 8. [亚运会名单](https://s.weibo.com/weibo?q=%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%90%8D%E5%8D%95&t=31&band_rank=8&Refer=top)<br />
