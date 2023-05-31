@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-31 18:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-31 18:35:01</h4></div>
 
 > 微博  
 
-1. [答错了试卷 却答对了人生](https://s.weibo.com/weibo?q=%E7%AD%94%E9%94%99%E4%BA%86%E8%AF%95%E5%8D%B7%20%E5%8D%B4%E7%AD%94%E5%AF%B9%E4%BA%86%E4%BA%BA%E7%94%9F&t=31&band_rank=1&Refer=top)<br />
+1. [早睡可以解决80%以上的问题](https://s.weibo.com/weibo?q=%E6%97%A9%E7%9D%A1%E5%8F%AF%E4%BB%A5%E8%A7%A3%E5%86%B380%25%E4%BB%A5%E4%B8%8A%E7%9A%84%E9%97%AE%E9%A2%98&t=31&band_rank=1&Refer=top)<br />
 2. [女子偷偷卖掉所有黄金首饰帮老公还账](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%81%B7%E5%81%B7%E5%8D%96%E6%8E%89%E6%89%80%E6%9C%89%E9%BB%84%E9%87%91%E9%A6%96%E9%A5%B0%E5%B8%AE%E8%80%81%E5%85%AC%E8%BF%98%E8%B4%A6%23&t=31&band_rank=2&Refer=top)<br />
 3. [今天世界无烟日](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E4%B8%96%E7%95%8C%E6%97%A0%E7%83%9F%E6%97%A5%23&t=31&band_rank=3&Refer=top)<br />
-4. [早睡可以解决80%以上的问题](https://s.weibo.com/weibo?q=%E6%97%A9%E7%9D%A1%E5%8F%AF%E4%BB%A5%E8%A7%A3%E5%86%B380%25%E4%BB%A5%E4%B8%8A%E7%9A%84%E9%97%AE%E9%A2%98&t=31&band_rank=4&Refer=top)<br />
+4. [答错了试卷 却答对了人生](https://s.weibo.com/weibo?q=%E7%AD%94%E9%94%99%E4%BA%86%E8%AF%95%E5%8D%B7%20%E5%8D%B4%E7%AD%94%E5%AF%B9%E4%BA%86%E4%BA%BA%E7%94%9F&t=31&band_rank=4&Refer=top)<br />
 5. [医生跟踪3年治好女大学生天疱疮](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E8%B7%9F%E8%B8%AA3%E5%B9%B4%E6%B2%BB%E5%A5%BD%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%A4%A9%E7%96%B1%E7%96%AE%23&t=31&band_rank=5&Refer=top)<br />
 6. [TFBOYS演唱会最终章](https://s.weibo.com/weibo?q=%23TFBOYS%E6%BC%94%E5%94%B1%E4%BC%9A%E6%9C%80%E7%BB%88%E7%AB%A0%23&t=31&band_rank=6&Refer=top)<br />
 7. [外卖骑手取餐闻到煤气味机智救下2人](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%8D%96%E9%AA%91%E6%89%8B%E5%8F%96%E9%A4%90%E9%97%BB%E5%88%B0%E7%85%A4%E6%B0%94%E5%91%B3%E6%9C%BA%E6%99%BA%E6%95%91%E4%B8%8B2%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
@@ -34,7 +34,7 @@
 6. [业主448万买到歪楼](https://www.baidu.com/s?wd=%E4%B8%9A%E4%B8%BB448%E4%B8%87%E4%B9%B0%E5%88%B0%E6%AD%AA%E6%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [韩总统府指责首尔市反应过度](https://www.baidu.com/s?wd=%E9%9F%A9%E6%80%BB%E7%BB%9F%E5%BA%9C%E6%8C%87%E8%B4%A3%E9%A6%96%E5%B0%94%E5%B8%82%E5%8F%8D%E5%BA%94%E8%BF%87%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [沈月说因为丢工作经常焦虑](https://www.baidu.com/s?wd=%E6%B2%88%E6%9C%88%E8%AF%B4%E5%9B%A0%E4%B8%BA%E4%B8%A2%E5%B7%A5%E4%BD%9C%E7%BB%8F%E5%B8%B8%E7%84%A6%E8%99%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [杭州姑娘万元LV鞋放家门口被偷](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%A7%91%E5%A8%98%E4%B8%87%E5%85%83LV%E9%9E%8B%E6%94%BE%E5%AE%B6%E9%97%A8%E5%8F%A3%E8%A2%AB%E5%81%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [峨眉山一男子跳崖 警方：人救上来了](https://www.baidu.com/s?wd=%E5%B3%A8%E7%9C%89%E5%B1%B1%E4%B8%80%E7%94%B7%E5%AD%90%E8%B7%B3%E5%B4%96+%E8%AD%A6%E6%96%B9%EF%BC%9A%E4%BA%BA%E6%95%91%E4%B8%8A%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [业主448万买到歪楼](https://www.baidu.com/s?wd=%E4%B8%9A%E4%B8%BB448%E4%B8%87%E4%B9%B0%E5%88%B0%E6%AD%AA%E6%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [韩总统府指责首尔市反应过度](https://www.baidu.com/s?wd=%E9%9F%A9%E6%80%BB%E7%BB%9F%E5%BA%9C%E6%8C%87%E8%B4%A3%E9%A6%96%E5%B0%94%E5%B8%82%E5%8F%8D%E5%BA%94%E8%BF%87%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [沈月说因为丢工作经常焦虑](https://www.baidu.com/s?wd=%E6%B2%88%E6%9C%88%E8%AF%B4%E5%9B%A0%E4%B8%BA%E4%B8%A2%E5%B7%A5%E4%BD%9C%E7%BB%8F%E5%B8%B8%E7%84%A6%E8%99%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [杭州姑娘万元LV鞋放家门口被偷](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%A7%91%E5%A8%98%E4%B8%87%E5%85%83LV%E9%9E%8B%E6%94%BE%E5%AE%B6%E9%97%A8%E5%8F%A3%E8%A2%AB%E5%81%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [峨眉山一男子跳崖 警方：人救上来了](https://www.baidu.com/s?wd=%E5%B3%A8%E7%9C%89%E5%B1%B1%E4%B8%80%E7%94%B7%E5%AD%90%E8%B7%B3%E5%B4%96+%E8%AD%A6%E6%96%B9%EF%BC%9A%E4%BA%BA%E6%95%91%E4%B8%8A%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
