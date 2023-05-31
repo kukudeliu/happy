@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-31 10:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-31 10:17:01</h4></div>
 
 > 微博  
 
@@ -22,15 +22,15 @@
 6. [台湾海峡之间理论上可以建大桥吗？](https://www.zhihu.com/question/53828775)<br />
 7. [詹姆斯的四个冠军，为什么总觉得都有瑕疵？](https://www.zhihu.com/question/602452712)<br />
 8. [如何评价《一人之下》漫画番外《锈铁》第 36（40）话?](https://www.zhihu.com/question/603947531)<br />
-9. [五角大楼称中方拒绝中美防长会面请求，外交部回应「原因美方是清楚的」，释放了哪些信号？](https://www.zhihu.com/question/603829127)<br />
+9. [多位知名学者最新警告「AI 可能灭绝人类」，ChatGPT 之父和 AI 教父都参与联名，如何理解？](https://www.zhihu.com/question/603915413)<br />
 
 > 百度  
 
 1. [神十六成功对接空间站组合体](https://www.baidu.com/s?wd=%E7%A5%9E%E5%8D%81%E5%85%AD%E6%88%90%E5%8A%9F%E5%AF%B9%E6%8E%A5%E7%A9%BA%E9%97%B4%E7%AB%99%E7%BB%84%E5%90%88%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [马斯克到北京第一天吃了啥](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%88%B0%E5%8C%97%E4%BA%AC%E7%AC%AC%E4%B8%80%E5%A4%A9%E5%90%83%E4%BA%86%E5%95%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [处长地铁猥亵他人 被调至事业单位](https://www.baidu.com/s?wd=%E5%A4%84%E9%95%BF%E5%9C%B0%E9%93%81%E7%8C%A5%E4%BA%B5%E4%BB%96%E4%BA%BA+%E8%A2%AB%E8%B0%83%E8%87%B3%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [解放军军机南海拦截美军侦察机](https://www.baidu.com/s?wd=%E8%A7%A3%E6%94%BE%E5%86%9B%E5%86%9B%E6%9C%BA%E5%8D%97%E6%B5%B7%E6%8B%A6%E6%88%AA%E7%BE%8E%E5%86%9B%E4%BE%A6%E5%AF%9F%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [数字经济释放新增长动力](https://www.baidu.com/s?wd=%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E%E9%87%8A%E6%94%BE%E6%96%B0%E5%A2%9E%E9%95%BF%E5%8A%A8%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [解放军军机南海拦截美军侦察机](https://www.baidu.com/s?wd=%E8%A7%A3%E6%94%BE%E5%86%9B%E5%86%9B%E6%9C%BA%E5%8D%97%E6%B5%B7%E6%8B%A6%E6%88%AA%E7%BE%8E%E5%86%9B%E4%BE%A6%E5%AF%9F%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [处长地铁猥亵他人 被调至事业单位](https://www.baidu.com/s?wd=%E5%A4%84%E9%95%BF%E5%9C%B0%E9%93%81%E7%8C%A5%E4%BA%B5%E4%BB%96%E4%BA%BA+%E8%A2%AB%E8%B0%83%E8%87%B3%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [2023年端午节放假通知来了](https://www.baidu.com/s?wd=2023%E5%B9%B4%E7%AB%AF%E5%8D%88%E8%8A%82%E6%94%BE%E5%81%87%E9%80%9A%E7%9F%A5%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [大爷在菜市场猥亵多名女性被拍下](https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E5%9C%A8%E8%8F%9C%E5%B8%82%E5%9C%BA%E7%8C%A5%E4%BA%B5%E5%A4%9A%E5%90%8D%E5%A5%B3%E6%80%A7%E8%A2%AB%E6%8B%8D%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [朝鲜宣布卫星发射失败](https://www.baidu.com/s?wd=%E6%9C%9D%E9%B2%9C%E5%AE%A3%E5%B8%83%E5%8D%AB%E6%98%9F%E5%8F%91%E5%B0%84%E5%A4%B1%E8%B4%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -40,9 +40,9 @@
 
 1. [神十六成功对接空间站组合体](https://www.baidu.com/s?wd=%E7%A5%9E%E5%8D%81%E5%85%AD%E6%88%90%E5%8A%9F%E5%AF%B9%E6%8E%A5%E7%A9%BA%E9%97%B4%E7%AB%99%E7%BB%84%E5%90%88%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [马斯克到北京第一天吃了啥](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%88%B0%E5%8C%97%E4%BA%AC%E7%AC%AC%E4%B8%80%E5%A4%A9%E5%90%83%E4%BA%86%E5%95%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [处长地铁猥亵他人 被调至事业单位](https://www.baidu.com/s?wd=%E5%A4%84%E9%95%BF%E5%9C%B0%E9%93%81%E7%8C%A5%E4%BA%B5%E4%BB%96%E4%BA%BA+%E8%A2%AB%E8%B0%83%E8%87%B3%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [解放军军机南海拦截美军侦察机](https://www.baidu.com/s?wd=%E8%A7%A3%E6%94%BE%E5%86%9B%E5%86%9B%E6%9C%BA%E5%8D%97%E6%B5%B7%E6%8B%A6%E6%88%AA%E7%BE%8E%E5%86%9B%E4%BE%A6%E5%AF%9F%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [数字经济释放新增长动力](https://www.baidu.com/s?wd=%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E%E9%87%8A%E6%94%BE%E6%96%B0%E5%A2%9E%E9%95%BF%E5%8A%A8%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [解放军军机南海拦截美军侦察机](https://www.baidu.com/s?wd=%E8%A7%A3%E6%94%BE%E5%86%9B%E5%86%9B%E6%9C%BA%E5%8D%97%E6%B5%B7%E6%8B%A6%E6%88%AA%E7%BE%8E%E5%86%9B%E4%BE%A6%E5%AF%9F%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [处长地铁猥亵他人 被调至事业单位](https://www.baidu.com/s?wd=%E5%A4%84%E9%95%BF%E5%9C%B0%E9%93%81%E7%8C%A5%E4%BA%B5%E4%BB%96%E4%BA%BA+%E8%A2%AB%E8%B0%83%E8%87%B3%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [2023年端午节放假通知来了](https://www.baidu.com/s?wd=2023%E5%B9%B4%E7%AB%AF%E5%8D%88%E8%8A%82%E6%94%BE%E5%81%87%E9%80%9A%E7%9F%A5%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [大爷在菜市场猥亵多名女性被拍下](https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E5%9C%A8%E8%8F%9C%E5%B8%82%E5%9C%BA%E7%8C%A5%E4%BA%B5%E5%A4%9A%E5%90%8D%E5%A5%B3%E6%80%A7%E8%A2%AB%E6%8B%8D%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [朝鲜宣布卫星发射失败](https://www.baidu.com/s?wd=%E6%9C%9D%E9%B2%9C%E5%AE%A3%E5%B8%83%E5%8D%AB%E6%98%9F%E5%8F%91%E5%B0%84%E5%A4%B1%E8%B4%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
