@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-31 21:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-31 21:05:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [早睡可以解决80%以上的问题](https://s.weibo.com/weibo?q=%E6%97%A9%E7%9D%A1%E5%8F%AF%E4%BB%A5%E8%A7%A3%E5%86%B380%25%E4%BB%A5%E4%B8%8A%E7%9A%84%E9%97%AE%E9%A2%98&t=31&band_rank=6&Refer=top)<br />
 7. [TFBOYS演唱会最终章](https://s.weibo.com/weibo?q=%23TFBOYS%E6%BC%94%E5%94%B1%E4%BC%9A%E6%9C%80%E7%BB%88%E7%AB%A0%23&t=31&band_rank=7&Refer=top)<br />
 8. [肖战说谢谢淇哥](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%AF%B4%E8%B0%A2%E8%B0%A2%E6%B7%87%E5%93%A5%23&t=31&band_rank=8&Refer=top)<br />
-9. [一年级都火了](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%B9%B4%E7%BA%A7%E9%83%BD%E7%81%AB%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [卡琳娜](https://s.weibo.com/weibo?q=%E5%8D%A1%E7%90%B3%E5%A8%9C&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
