@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-31 15:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-31 15:56:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [Angelababy 火山口走出的女战神](https://s.weibo.com/weibo?q=Angelababy%20%E7%81%AB%E5%B1%B1%E5%8F%A3%E8%B5%B0%E5%87%BA%E7%9A%84%E5%A5%B3%E6%88%98%E7%A5%9E&t=31&band_rank=6&Refer=top)<br />
 7. [同事阳了对着我哈气](https://s.weibo.com/weibo?q=%23%E5%90%8C%E4%BA%8B%E9%98%B3%E4%BA%86%E5%AF%B9%E7%9D%80%E6%88%91%E5%93%88%E6%B0%94%23&t=31&band_rank=7&Refer=top)<br />
 8. [二十岁以后基本形象都靠人民币和自律维持](https://s.weibo.com/weibo?q=%E4%BA%8C%E5%8D%81%E5%B2%81%E4%BB%A5%E5%90%8E%E5%9F%BA%E6%9C%AC%E5%BD%A2%E8%B1%A1%E9%83%BD%E9%9D%A0%E4%BA%BA%E6%B0%91%E5%B8%81%E5%92%8C%E8%87%AA%E5%BE%8B%E7%BB%B4%E6%8C%81&t=31&band_rank=8&Refer=top)<br />
-9. [迪丽热巴裙子钻掉了](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%A3%99%E5%AD%90%E9%92%BB%E6%8E%89%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [警方称记者被打事件已成立专案组](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E7%A7%B0%E8%AE%B0%E8%80%85%E8%A2%AB%E6%89%93%E4%BA%8B%E4%BB%B6%E5%B7%B2%E6%88%90%E7%AB%8B%E4%B8%93%E6%A1%88%E7%BB%84%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
