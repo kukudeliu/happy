@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 00:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 00:03:02</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [退款](https://s.weibo.com/weibo?q=%E9%80%80%E6%AC%BE&t=31&band_rank=2&Refer=top)<br />
 3. [中国好书六一专榜](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%BD%E4%B9%A6%E5%85%AD%E4%B8%80%E4%B8%93%E6%A6%9C%23&t=31&band_rank=3&Refer=top)<br />
 4. [坐飞机要称体重了](https://s.weibo.com/weibo?q=%23%E5%9D%90%E9%A3%9E%E6%9C%BA%E8%A6%81%E7%A7%B0%E4%BD%93%E9%87%8D%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
-5. [苹果14](https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C14&t=31&band_rank=5&Refer=top)<br />
-6. [聊天记录](https://s.weibo.com/weibo?q=%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95&t=31&band_rank=6&Refer=top)<br />
-7. [虞书欣 杨天真](https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%20%E6%9D%A8%E5%A4%A9%E7%9C%9F&t=31&band_rank=7&Refer=top)<br />
-8. [胡可说不要把另一半当自己人](https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%8F%AF%E8%AF%B4%E4%B8%8D%E8%A6%81%E6%8A%8A%E5%8F%A6%E4%B8%80%E5%8D%8A%E5%BD%93%E8%87%AA%E5%B7%B1%E4%BA%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [杨紫化妆师删博](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%8C%96%E5%A6%86%E5%B8%88%E5%88%A0%E5%8D%9A%23&t=31&band_rank=9&Refer=top)<br />
+5. [男子多次性侵女友孙女致其染上妇科病](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%A4%9A%E6%AC%A1%E6%80%A7%E4%BE%B5%E5%A5%B3%E5%8F%8B%E5%AD%99%E5%A5%B3%E8%87%B4%E5%85%B6%E6%9F%93%E4%B8%8A%E5%A6%87%E7%A7%91%E7%97%85%23&t=31&band_rank=5&Refer=top)<br />
+6. [苹果14](https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C14&t=31&band_rank=6&Refer=top)<br />
+7. [杨紫化妆师删博](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%8C%96%E5%A6%86%E5%B8%88%E5%88%A0%E5%8D%9A%23&t=31&band_rank=7&Refer=top)<br />
+8. [虞书欣 杨天真](https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%20%E6%9D%A8%E5%A4%A9%E7%9C%9F&t=31&band_rank=8&Refer=top)<br />
+9. [胡可说不要把另一半当自己人](https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%8F%AF%E8%AF%B4%E4%B8%8D%E8%A6%81%E6%8A%8A%E5%8F%A6%E4%B8%80%E5%8D%8A%E5%BD%93%E8%87%AA%E5%B7%B1%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
