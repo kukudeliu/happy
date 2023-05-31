@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 02:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 02:59:01</h4></div>
 
 > 微博  
 
@@ -32,9 +32,9 @@
 4. [天宫再“会师” 对接新挑战](https://www.baidu.com/s?wd=%E5%A4%A9%E5%AE%AB%E5%86%8D%E2%80%9C%E4%BC%9A%E5%B8%88%E2%80%9D+%E5%AF%B9%E6%8E%A5%E6%96%B0%E6%8C%91%E6%88%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [干部与情人聊天记录被群发?柳州回应](https://www.baidu.com/s?wd=%E5%B9%B2%E9%83%A8%E4%B8%8E%E6%83%85%E4%BA%BA%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%E8%A2%AB%E7%BE%A4%E5%8F%91%3F%E6%9F%B3%E5%B7%9E%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [俄称摧毁乌海军最后一艘作战舰艇](https://www.baidu.com/s?wd=%E4%BF%84%E7%A7%B0%E6%91%A7%E6%AF%81%E4%B9%8C%E6%B5%B7%E5%86%9B%E6%9C%80%E5%90%8E%E4%B8%80%E8%89%98%E4%BD%9C%E6%88%98%E8%88%B0%E8%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [多地高温破历史极值 是否影响高考？](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E9%AB%98%E6%B8%A9%E7%A0%B4%E5%8E%86%E5%8F%B2%E6%9E%81%E5%80%BC+%E6%98%AF%E5%90%A6%E5%BD%B1%E5%93%8D%E9%AB%98%E8%80%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [70岁老人6小时没等到一辆公交](https://www.baidu.com/s?wd=70%E5%B2%81%E8%80%81%E4%BA%BA6%E5%B0%8F%E6%97%B6%E6%B2%A1%E7%AD%89%E5%88%B0%E4%B8%80%E8%BE%86%E5%85%AC%E4%BA%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [马斯克中国行24小时见了3位部长](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%AD%E5%9B%BD%E8%A1%8C24%E5%B0%8F%E6%97%B6%E8%A7%81%E4%BA%863%E4%BD%8D%E9%83%A8%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [70岁老人6小时没等到一辆公交](https://www.baidu.com/s?wd=70%E5%B2%81%E8%80%81%E4%BA%BA6%E5%B0%8F%E6%97%B6%E6%B2%A1%E7%AD%89%E5%88%B0%E4%B8%80%E8%BE%86%E5%85%AC%E4%BA%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [马斯克中国行24小时见了3位部长](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%AD%E5%9B%BD%E8%A1%8C24%E5%B0%8F%E6%97%B6%E8%A7%81%E4%BA%863%E4%BD%8D%E9%83%A8%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [iPhone14全系跳水最高降1900](https://www.baidu.com/s?wd=iPhone14%E5%85%A8%E7%B3%BB%E8%B7%B3%E6%B0%B4%E6%9C%80%E9%AB%98%E9%99%8D1900&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [天宫再“会师” 对接新挑战](https://www.baidu.com/s?wd=%E5%A4%A9%E5%AE%AB%E5%86%8D%E2%80%9C%E4%BC%9A%E5%B8%88%E2%80%9D+%E5%AF%B9%E6%8E%A5%E6%96%B0%E6%8C%91%E6%88%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [干部与情人聊天记录被群发?柳州回应](https://www.baidu.com/s?wd=%E5%B9%B2%E9%83%A8%E4%B8%8E%E6%83%85%E4%BA%BA%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%E8%A2%AB%E7%BE%A4%E5%8F%91%3F%E6%9F%B3%E5%B7%9E%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [俄称摧毁乌海军最后一艘作战舰艇](https://www.baidu.com/s?wd=%E4%BF%84%E7%A7%B0%E6%91%A7%E6%AF%81%E4%B9%8C%E6%B5%B7%E5%86%9B%E6%9C%80%E5%90%8E%E4%B8%80%E8%89%98%E4%BD%9C%E6%88%98%E8%88%B0%E8%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [多地高温破历史极值 是否影响高考？](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E9%AB%98%E6%B8%A9%E7%A0%B4%E5%8E%86%E5%8F%B2%E6%9E%81%E5%80%BC+%E6%98%AF%E5%90%A6%E5%BD%B1%E5%93%8D%E9%AB%98%E8%80%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [70岁老人6小时没等到一辆公交](https://www.baidu.com/s?wd=70%E5%B2%81%E8%80%81%E4%BA%BA6%E5%B0%8F%E6%97%B6%E6%B2%A1%E7%AD%89%E5%88%B0%E4%B8%80%E8%BE%86%E5%85%AC%E4%BA%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [马斯克中国行24小时见了3位部长](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%AD%E5%9B%BD%E8%A1%8C24%E5%B0%8F%E6%97%B6%E8%A7%81%E4%BA%863%E4%BD%8D%E9%83%A8%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [70岁老人6小时没等到一辆公交](https://www.baidu.com/s?wd=70%E5%B2%81%E8%80%81%E4%BA%BA6%E5%B0%8F%E6%97%B6%E6%B2%A1%E7%AD%89%E5%88%B0%E4%B8%80%E8%BE%86%E5%85%AC%E4%BA%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [马斯克中国行24小时见了3位部长](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%AD%E5%9B%BD%E8%A1%8C24%E5%B0%8F%E6%97%B6%E8%A7%81%E4%BA%863%E4%BD%8D%E9%83%A8%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [iPhone14全系跳水最高降1900](https://www.baidu.com/s?wd=iPhone14%E5%85%A8%E7%B3%BB%E8%B7%B3%E6%B0%B4%E6%9C%80%E9%AB%98%E9%99%8D1900&sa=fyb_news&rsv_dl=fyb_news)<br />
