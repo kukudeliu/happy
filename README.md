@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-31 21:55:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-31 21:56:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [孙悟空为什么不把七十二变教给自己的猴子猴孙？](https://www.zhihu.com/question/603305444)<br />
 5. [高校新增 21 种新专业，撤销 925 个专业点，就业率高就是好专业吗？](https://www.zhihu.com/theater/10768)<br />
 6. [男朋友哄我睡着后往往要一个人打游戏到很晚释放压力，这是为什么？因此分手合适吗？](https://www.zhihu.com/question/597228825)<br />
-7. [今年 618 有哪些智能门锁值得入手？](https://www.zhihu.com/question/604023224)<br />
-8. [大额存单「突现」高利率，多地中小银行推出 4.05% 利率大额存单，如何评价中小银行此举？](https://www.zhihu.com/question/604069185)<br />
-9. [被公司开除是怎样一种体验？](https://www.zhihu.com/question/44336628)<br />
+7. [大额存单「突现」高利率，多地中小银行推出 4.05% 利率大额存单，如何评价中小银行此举？](https://www.zhihu.com/question/604069185)<br />
+8. [被公司开除是怎样一种体验？](https://www.zhihu.com/question/44336628)<br />
+9. [网上这么多浴霸，我该怎么选择呢？](https://www.zhihu.com/question/364404487)<br />
 
 > 百度  
 
