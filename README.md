@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-31 11:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-31 11:02:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [台湾海峡之间理论上可以建大桥吗？](https://www.zhihu.com/question/53828775)<br />
 7. [如何评价《一人之下》漫画番外《锈铁》第 36（40）话?](https://www.zhihu.com/question/603947531)<br />
 8. [多位知名学者最新警告「AI 可能灭绝人类」，ChatGPT 之父和 AI 教父都参与联名，如何理解？](https://www.zhihu.com/question/603915413)<br />
-9. []()<br />
+9. [同款蛋糕杭州卖 165 元上海卖 95 元，山姆超市称不同城市受成本、市场、优惠等影响，如何看待此事？](https://www.zhihu.com/question/603600909)<br />
 
 > 百度  
 
