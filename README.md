@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 02:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 02:50:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [贾跃亭能否靠FF还清负债？](https://www.baidu.com/s?wd=%E8%B4%BE%E8%B7%83%E4%BA%AD%E8%83%BD%E5%90%A6%E9%9D%A0FF%E8%BF%98%E6%B8%85%E8%B4%9F%E5%80%BA%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [马斯克中国行24小时见了3位部长](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%AD%E5%9B%BD%E8%A1%8C24%E5%B0%8F%E6%97%B6%E8%A7%81%E4%BA%863%E4%BD%8D%E9%83%A8%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [iPhone14全系跳水最高降1900](https://www.baidu.com/s?wd=iPhone14%E5%85%A8%E7%B3%BB%E8%B7%B3%E6%B0%B4%E6%9C%80%E9%AB%98%E9%99%8D1900&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [承德露露回应“露露黄了”](https://www.baidu.com/s?wd=%E6%89%BF%E5%BE%B7%E9%9C%B2%E9%9C%B2%E5%9B%9E%E5%BA%94%E2%80%9C%E9%9C%B2%E9%9C%B2%E9%BB%84%E4%BA%86%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [公安部：网络赌博在农村蔓延](https://www.baidu.com/s?wd=%E5%85%AC%E5%AE%89%E9%83%A8%EF%BC%9A%E7%BD%91%E7%BB%9C%E8%B5%8C%E5%8D%9A%E5%9C%A8%E5%86%9C%E6%9D%91%E8%94%93%E5%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [贾跃亭能否靠FF还清负债？](https://www.baidu.com/s?wd=%E8%B4%BE%E8%B7%83%E4%BA%AD%E8%83%BD%E5%90%A6%E9%9D%A0FF%E8%BF%98%E6%B8%85%E8%B4%9F%E5%80%BA%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [马斯克中国行24小时见了3位部长](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%AD%E5%9B%BD%E8%A1%8C24%E5%B0%8F%E6%97%B6%E8%A7%81%E4%BA%863%E4%BD%8D%E9%83%A8%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [iPhone14全系跳水最高降1900](https://www.baidu.com/s?wd=iPhone14%E5%85%A8%E7%B3%BB%E8%B7%B3%E6%B0%B4%E6%9C%80%E9%AB%98%E9%99%8D1900&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [承德露露回应“露露黄了”](https://www.baidu.com/s?wd=%E6%89%BF%E5%BE%B7%E9%9C%B2%E9%9C%B2%E5%9B%9E%E5%BA%94%E2%80%9C%E9%9C%B2%E9%9C%B2%E9%BB%84%E4%BA%86%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [公安部：网络赌博在农村蔓延](https://www.baidu.com/s?wd=%E5%85%AC%E5%AE%89%E9%83%A8%EF%BC%9A%E7%BD%91%E7%BB%9C%E8%B5%8C%E5%8D%9A%E5%9C%A8%E5%86%9C%E6%9D%91%E8%94%93%E5%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
