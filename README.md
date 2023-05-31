@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-31 12:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-31 12:43:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [同款蛋糕杭州卖 165 元上海卖 95 元，山姆超市称不同城市受成本、市场、优惠等影响，如何看待此事？](https://www.zhihu.com/question/603600909)<br />
 7. [HMPV 在美国传播，感染百天后死亡率达 43％ ，症状与新冠相同，如何防护？将带来哪些影响？](https://www.zhihu.com/question/603980078)<br />
 8. [关于「要不要因为同事关系而离职」，你的观点是什么？你会因为同事关系离职吗？](https://www.zhihu.com/question/603615640)<br />
-9. [多位知名学者最新警告「AI 可能灭绝人类」，ChatGPT 之父和 AI 教父都参与联名，如何理解？](https://www.zhihu.com/question/603915413)<br />
+9. [如何看待 2023 年 5 月 31 日 A 股市场？](https://www.zhihu.com/question/603899041)<br />
 
 > 百度  
 
