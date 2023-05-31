@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 07:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 07:58:02</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [男朋友哄我睡着后往往要一个人打游戏到很晚释放压力，这是为什么？因此分手合适吗？](https://www.zhihu.com/question/597228825)<br />
 7. []()<br />
 8. [各位亲爱的小朋友们，你童年最快乐的一天是怎样的一天？](https://www.zhihu.com/question/603835706)<br />
-9. [空调一级能效和三级能效开 10 小时，能差多少电费？](https://www.zhihu.com/question/329341284)<br />
+9. [你为哪一款游戏流过泪？](https://www.zhihu.com/question/603778072)<br />
 
 > 百度  
 
