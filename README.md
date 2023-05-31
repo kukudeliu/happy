@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-31 20:05:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-31 20:06:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [TFBOYS演唱会最终章](https://s.weibo.com/weibo?q=%23TFBOYS%E6%BC%94%E5%94%B1%E4%BC%9A%E6%9C%80%E7%BB%88%E7%AB%A0%23&t=31&band_rank=6&Refer=top)<br />
 7. [一年级都火了](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%B9%B4%E7%BA%A7%E9%83%BD%E7%81%AB%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [女子偷偷卖掉所有黄金首饰帮老公还账](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%81%B7%E5%81%B7%E5%8D%96%E6%8E%89%E6%89%80%E6%9C%89%E9%BB%84%E9%87%91%E9%A6%96%E9%A5%B0%E5%B8%AE%E8%80%81%E5%85%AC%E8%BF%98%E8%B4%A6%23&t=31&band_rank=8&Refer=top)<br />
-9. [舒淇为肖战梦中的那片海打call](https://s.weibo.com/weibo?q=%23%E8%88%92%E6%B7%87%E4%B8%BA%E8%82%96%E6%88%98%E6%A2%A6%E4%B8%AD%E7%9A%84%E9%82%A3%E7%89%87%E6%B5%B7%E6%89%93call%23&t=31&band_rank=9&Refer=top)<br />
+9. [贵州教师溺亡河边发现一堆鹅卵石](https://s.weibo.com/weibo?q=%23%E8%B4%B5%E5%B7%9E%E6%95%99%E5%B8%88%E6%BA%BA%E4%BA%A1%E6%B2%B3%E8%BE%B9%E5%8F%91%E7%8E%B0%E4%B8%80%E5%A0%86%E9%B9%85%E5%8D%B5%E7%9F%B3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -18,11 +18,11 @@
 2. [长城汽车品牌公关总经理果铁夫离职，他离职后将给公司发展带来哪些影响？](https://www.zhihu.com/question/603994079)<br />
 3. [男朋友哄我睡着后往往要一个人打游戏到很晚释放压力，这是为什么？因此分手合适吗？](https://www.zhihu.com/question/597228825)<br />
 4. [马斯克来华首日，特斯拉市值一夜大涨逾 250 亿美元，传达了什么信号？哪些信息值得关注？](https://www.zhihu.com/question/604022867)<br />
-5. [今年 618 想买一台价格不错、品质好的手机用 3 年，大家有什么推荐？](https://www.zhihu.com/question/604018961)<br />
+5. [为什么很多大学专业都在劝退？有哪些隐藏的好专业？](https://www.zhihu.com/theater/10768)<br />
 6. [秦刚会见特斯拉首席执行官马斯克，秦刚称「发展好中美关系，需要把准方向盘」，这一会见有哪些意义？](https://www.zhihu.com/question/603879051)<br />
 7. [如何看待 5 月 30 日詹姆斯称「我退役以后就是所有人心目中当之无愧的历史第一人」?](https://www.zhihu.com/question/603812096)<br />
-8. [迈尔斯辞去勇士总经理职务，他曾给球队带来哪些改变？勇士休赛期会有大换血吗？](https://www.zhihu.com/question/603982332)<br />
-9. []()<br />
+8. [今年 618 想买一台价格不错、品质好的手机用 3 年，大家有什么推荐？](https://www.zhihu.com/question/604018961)<br />
+9. [迈尔斯辞去勇士总经理职务，他曾给球队带来哪些改变？勇士休赛期会有大换血吗？](https://www.zhihu.com/question/603982332)<br />
 
 > 百度  
 
