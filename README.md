@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-31 20:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-31 20:48:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [冯小刚香港卖房大赚6000万港元](https://s.weibo.com/weibo?q=%23%E5%86%AF%E5%B0%8F%E5%88%9A%E9%A6%99%E6%B8%AF%E5%8D%96%E6%88%BF%E5%A4%A7%E8%B5%9A6000%E4%B8%87%E6%B8%AF%E5%85%83%23&t=31&band_rank=5&Refer=top)<br />
 6. [TFBOYS演唱会最终章](https://s.weibo.com/weibo?q=%23TFBOYS%E6%BC%94%E5%94%B1%E4%BC%9A%E6%9C%80%E7%BB%88%E7%AB%A0%23&t=31&band_rank=6&Refer=top)<br />
 7. [京东红包](https://s.weibo.com/weibo?q=%E4%BA%AC%E4%B8%9C%E7%BA%A2%E5%8C%85&t=31&band_rank=7&Refer=top)<br />
-8. [一年级都火了](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%B9%B4%E7%BA%A7%E9%83%BD%E7%81%AB%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [女子偷偷卖掉所有黄金首饰帮老公还账](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%81%B7%E5%81%B7%E5%8D%96%E6%8E%89%E6%89%80%E6%9C%89%E9%BB%84%E9%87%91%E9%A6%96%E9%A5%B0%E5%B8%AE%E8%80%81%E5%85%AC%E8%BF%98%E8%B4%A6%23&t=31&band_rank=9&Refer=top)<br />
+8. [肖战说谢谢淇哥](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%AF%B4%E8%B0%A2%E8%B0%A2%E6%B7%87%E5%93%A5%23&t=31&band_rank=8&Refer=top)<br />
+9. [一年级都火了](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%B9%B4%E7%BA%A7%E9%83%BD%E7%81%AB%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -18,7 +18,7 @@
 2. [长城汽车品牌公关总经理果铁夫离职，他离职后将给公司发展带来哪些影响？](https://www.zhihu.com/question/603994079)<br />
 3. [马斯克来华首日，特斯拉市值一夜大涨逾 250 亿美元，传达了什么信号？哪些信息值得关注？](https://www.zhihu.com/question/604022867)<br />
 4. [曝利雅得新月再次提高对梅西报价，合同已加码至 2 年 14 亿欧元，你认为梅西会选择去沙特吗？](https://www.zhihu.com/question/603998625)<br />
-5. [北京 10 所高校新增 16 个本科专业，「人工智能」成热门，报对专业就能抓住风口吗？](https://www.zhihu.com/theater/10768)<br />
+5. [张雪峰正连线：「生化环材」为什么是天坑？就业率高的专业就是好专业吗？](https://www.zhihu.com/theater/10768)<br />
 6. [男朋友哄我睡着后往往要一个人打游戏到很晚释放压力，这是为什么？因此分手合适吗？](https://www.zhihu.com/question/597228825)<br />
 7. [为什么中国很多火车站的设计都是二楼候车，一楼站台，地下层出站？](https://www.zhihu.com/question/21422520)<br />
 8. [今年 618 有哪些智能门锁值得入手？](https://www.zhihu.com/question/604023224)<br />
@@ -34,7 +34,7 @@
 6. [干部与情人聊天记录被群发?柳州回应](https://www.baidu.com/s?wd=%E5%B9%B2%E9%83%A8%E4%B8%8E%E6%83%85%E4%BA%BA%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%E8%A2%AB%E7%BE%A4%E5%8F%91%3F%E6%9F%B3%E5%B7%9E%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [日本最大啤酒商：要重返中国](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%9C%80%E5%A4%A7%E5%95%A4%E9%85%92%E5%95%86%EF%BC%9A%E8%A6%81%E9%87%8D%E8%BF%94%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [贾跃亭能否靠FF还清负债？](https://www.baidu.com/s?wd=%E8%B4%BE%E8%B7%83%E4%BA%AD%E8%83%BD%E5%90%A6%E9%9D%A0FF%E8%BF%98%E6%B8%85%E8%B4%9F%E5%80%BA%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [冯小刚香港卖房大赚6000万港元](https://www.baidu.com/s?wd=%E5%86%AF%E5%B0%8F%E5%88%9A%E9%A6%99%E6%B8%AF%E5%8D%96%E6%88%BF%E5%A4%A7%E8%B5%9A6000%E4%B8%87%E6%B8%AF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [媒体评记者被打：打人者是否被指使](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E8%AE%B0%E8%80%85%E8%A2%AB%E6%89%93%EF%BC%9A%E6%89%93%E4%BA%BA%E8%80%85%E6%98%AF%E5%90%A6%E8%A2%AB%E6%8C%87%E4%BD%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [干部与情人聊天记录被群发?柳州回应](https://www.baidu.com/s?wd=%E5%B9%B2%E9%83%A8%E4%B8%8E%E6%83%85%E4%BA%BA%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%E8%A2%AB%E7%BE%A4%E5%8F%91%3F%E6%9F%B3%E5%B7%9E%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [日本最大啤酒商：要重返中国](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%9C%80%E5%A4%A7%E5%95%A4%E9%85%92%E5%95%86%EF%BC%9A%E8%A6%81%E9%87%8D%E8%BF%94%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [贾跃亭能否靠FF还清负债？](https://www.baidu.com/s?wd=%E8%B4%BE%E8%B7%83%E4%BA%AD%E8%83%BD%E5%90%A6%E9%9D%A0FF%E8%BF%98%E6%B8%85%E8%B4%9F%E5%80%BA%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [冯小刚香港卖房大赚6000万港元](https://www.baidu.com/s?wd=%E5%86%AF%E5%B0%8F%E5%88%9A%E9%A6%99%E6%B8%AF%E5%8D%96%E6%88%BF%E5%A4%A7%E8%B5%9A6000%E4%B8%87%E6%B8%AF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [媒体评记者被打：打人者是否被指使](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E8%AE%B0%E8%80%85%E8%A2%AB%E6%89%93%EF%BC%9A%E6%89%93%E4%BA%BA%E8%80%85%E6%98%AF%E5%90%A6%E8%A2%AB%E6%8C%87%E4%BD%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
