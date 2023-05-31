@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-05-31 23:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-05-31 23:43:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [坐飞机要称体重了](https://s.weibo.com/weibo?q=%23%E5%9D%90%E9%A3%9E%E6%9C%BA%E8%A6%81%E7%A7%B0%E4%BD%93%E9%87%8D%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [杨紫化妆师删博](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%8C%96%E5%A6%86%E5%B8%88%E5%88%A0%E5%8D%9A%23&t=31&band_rank=7&Refer=top)<br />
 8. [虞书欣 杨天真](https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%20%E6%9D%A8%E5%A4%A9%E7%9C%9F&t=31&band_rank=8&Refer=top)<br />
-9. [赵露思 妆发团队](https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%20%E5%A6%86%E5%8F%91%E5%9B%A2%E9%98%9F&t=31&band_rank=9&Refer=top)<br />
+9. [胡可说不要把另一半当自己人](https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%8F%AF%E8%AF%B4%E4%B8%8D%E8%A6%81%E6%8A%8A%E5%8F%A6%E4%B8%80%E5%8D%8A%E5%BD%93%E8%87%AA%E5%B7%B1%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
