@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 20:59:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 21:00:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [弟弟故意输掉比赛守护坐轮椅姐姐](https://s.weibo.com/weibo?q=%23%E5%BC%9F%E5%BC%9F%E6%95%85%E6%84%8F%E8%BE%93%E6%8E%89%E6%AF%94%E8%B5%9B%E5%AE%88%E6%8A%A4%E5%9D%90%E8%BD%AE%E6%A4%85%E5%A7%90%E5%A7%90%23&t=31&band_rank=5&Refer=top)<br />
 6. [梦中的那片海](https://s.weibo.com/weibo?q=%E6%A2%A6%E4%B8%AD%E7%9A%84%E9%82%A3%E7%89%87%E6%B5%B7&t=31&band_rank=6&Refer=top)<br />
 7. [杨洋王楚然剧照 太阳的后裔](https://s.weibo.com/weibo?q=%E6%9D%A8%E6%B4%8B%E7%8E%8B%E6%A5%9A%E7%84%B6%E5%89%A7%E7%85%A7%20%E5%A4%AA%E9%98%B3%E7%9A%84%E5%90%8E%E8%A3%94&t=31&band_rank=7&Refer=top)<br />
-8. [酷云](https://s.weibo.com/weibo?q=%E9%85%B7%E4%BA%91&t=31&band_rank=8&Refer=top)<br />
-9. [肖战台词](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%8F%B0%E8%AF%8D&t=31&band_rank=9&Refer=top)<br />
+8. [五月天王源唱如果我们不曾相遇](https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E7%8E%8B%E6%BA%90%E5%94%B1%E5%A6%82%E6%9E%9C%E6%88%91%E4%BB%AC%E4%B8%8D%E6%9B%BE%E7%9B%B8%E9%81%87%23&t=31&band_rank=8&Refer=top)<br />
+9. [WBG对战JDG](https://s.weibo.com/weibo?q=%23WBG%E5%AF%B9%E6%88%98JDG%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -34,7 +34,7 @@
 6. [云南洪灾有4名孩子被冲走?官方通报](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E6%B4%AA%E7%81%BE%E6%9C%894%E5%90%8D%E5%AD%A9%E5%AD%90%E8%A2%AB%E5%86%B2%E8%B5%B0%3F%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李念官宣三胎产子](https://www.baidu.com/s?wd=%E6%9D%8E%E5%BF%B5%E5%AE%98%E5%AE%A3%E4%B8%89%E8%83%8E%E4%BA%A7%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [幼儿园摆20桌请200孩子吃席庆六一](https://www.baidu.com/s?wd=%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%91%8620%E6%A1%8C%E8%AF%B7200%E5%AD%A9%E5%AD%90%E5%90%83%E5%B8%AD%E5%BA%86%E5%85%AD%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [江歌母亲称已收到刘鑫全部赔偿款](https://www.baidu.com/s?wd=%E6%B1%9F%E6%AD%8C%E6%AF%8D%E4%BA%B2%E7%A7%B0%E5%B7%B2%E6%94%B6%E5%88%B0%E5%88%98%E9%91%AB%E5%85%A8%E9%83%A8%E8%B5%94%E5%81%BF%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [官方再通报临时工棚爆燃致5死](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%86%8D%E9%80%9A%E6%8A%A5%E4%B8%B4%E6%97%B6%E5%B7%A5%E6%A3%9A%E7%88%86%E7%87%83%E8%87%B45%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [云南洪灾有4名孩子被冲走?官方通报](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E6%B4%AA%E7%81%BE%E6%9C%894%E5%90%8D%E5%AD%A9%E5%AD%90%E8%A2%AB%E5%86%B2%E8%B5%B0%3F%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李念官宣三胎产子](https://www.baidu.com/s?wd=%E6%9D%8E%E5%BF%B5%E5%AE%98%E5%AE%A3%E4%B8%89%E8%83%8E%E4%BA%A7%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [幼儿园摆20桌请200孩子吃席庆六一](https://www.baidu.com/s?wd=%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%91%8620%E6%A1%8C%E8%AF%B7200%E5%AD%A9%E5%AD%90%E5%90%83%E5%B8%AD%E5%BA%86%E5%85%AD%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [江歌母亲称已收到刘鑫全部赔偿款](https://www.baidu.com/s?wd=%E6%B1%9F%E6%AD%8C%E6%AF%8D%E4%BA%B2%E7%A7%B0%E5%B7%B2%E6%94%B6%E5%88%B0%E5%88%98%E9%91%AB%E5%85%A8%E9%83%A8%E8%B5%94%E5%81%BF%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [官方再通报临时工棚爆燃致5死](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%86%8D%E9%80%9A%E6%8A%A5%E4%B8%B4%E6%97%B6%E5%B7%A5%E6%A3%9A%E7%88%86%E7%87%83%E8%87%B45%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
