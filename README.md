@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 19:57:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 19:58:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [如何看待王源演唱会女生穿婚纱?](https://www.zhihu.com/question/604035655)<br />
 7. [如何不提雨，能描述雨很大？](https://www.zhihu.com/question/603676744)<br />
 8. [如何评价动画电影《哆啦 A 梦：大雄与天空的理想乡》？](https://www.zhihu.com/question/601904074)<br />
-9. [问问司机们，你们开长途的极限是多少公里？](https://www.zhihu.com/question/601256527)<br />
+9. [哪些关于抽屉的妙用让你大开眼界?](https://www.zhihu.com/question/601467401)<br />
 
 > 百度  
 
