@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 17:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 17:22:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [迪丽热巴回应脸不像检察官](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%9B%9E%E5%BA%94%E8%84%B8%E4%B8%8D%E5%83%8F%E6%A3%80%E5%AF%9F%E5%AE%98%23&t=31&band_rank=6&Refer=top)<br />
 7. [杨洋王楚然剧照 太阳的后裔](https://s.weibo.com/weibo?q=%E6%9D%A8%E6%B4%8B%E7%8E%8B%E6%A5%9A%E7%84%B6%E5%89%A7%E7%85%A7%20%E5%A4%AA%E9%98%B3%E7%9A%84%E5%90%8E%E8%A3%94&t=31&band_rank=7&Refer=top)<br />
 8. [辽宁阜新疑似出现龙卷风](https://s.weibo.com/weibo?q=%23%E8%BE%BD%E5%AE%81%E9%98%9C%E6%96%B0%E7%96%91%E4%BC%BC%E5%87%BA%E7%8E%B0%E9%BE%99%E5%8D%B7%E9%A3%8E%23&t=31&band_rank=8&Refer=top)<br />
-9. [挖呀挖黄老师发视频祝六一快乐](https://s.weibo.com/weibo?q=%23%E6%8C%96%E5%91%80%E6%8C%96%E9%BB%84%E8%80%81%E5%B8%88%E5%8F%91%E8%A7%86%E9%A2%91%E7%A5%9D%E5%85%AD%E4%B8%80%E5%BF%AB%E4%B9%90%23&t=31&band_rank=9&Refer=top)<br />
+9. [EXO新歌MV拍摄取消](https://s.weibo.com/weibo?q=%23EXO%E6%96%B0%E6%AD%8CMV%E6%8B%8D%E6%91%84%E5%8F%96%E6%B6%88%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
