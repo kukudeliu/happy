@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 13:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 13:17:01</h4></div>
 
 > 微博  
 
@@ -8,7 +8,7 @@
 4. [杨幂IP地址在香港](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82IP%E5%9C%B0%E5%9D%80%E5%9C%A8%E9%A6%99%E6%B8%AF%23&t=31&band_rank=4&Refer=top)<br />
 5. [边伯贤金珉锡金钟大与SMTOWN解约](https://s.weibo.com/weibo?q=%23%E8%BE%B9%E4%BC%AF%E8%B4%A4%E9%87%91%E7%8F%89%E9%94%A1%E9%87%91%E9%92%9F%E5%A4%A7%E4%B8%8ESMTOWN%E8%A7%A3%E7%BA%A6%23&t=31&band_rank=5&Refer=top)<br />
 6. [事业单位](https://s.weibo.com/weibo?q=%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D&t=31&band_rank=6&Refer=top)<br />
-7. [肖战刘芮麟新剧演兄弟](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%88%98%E8%8A%AE%E9%BA%9F%E6%96%B0%E5%89%A7%E6%BC%94%E5%85%84%E5%BC%9F%23&t=31&band_rank=7&Refer=top)<br />
+7. [别把医术拍成了法术](https://s.weibo.com/weibo?q=%23%E5%88%AB%E6%8A%8A%E5%8C%BB%E6%9C%AF%E6%8B%8D%E6%88%90%E4%BA%86%E6%B3%95%E6%9C%AF%23&t=31&band_rank=7&Refer=top)<br />
 8. [假性亲密关系](https://s.weibo.com/weibo?q=%E5%81%87%E6%80%A7%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB&t=31&band_rank=8&Refer=top)<br />
 9. [杭州LGD更名](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9ELGD%E6%9B%B4%E5%90%8D%23&t=31&band_rank=9&Refer=top)<br />
 
@@ -22,7 +22,7 @@
 6. [贾跃亭的 FF 再次花式延期交付，提车先付 220 万元全款，哪些信息值得关注？](https://www.zhihu.com/question/604057913)<br />
 7. [如何评价《王者荣耀世界》5 月 30 日发布的多人战斗实机演示视频？](https://www.zhihu.com/question/603940332)<br />
 8. []()<br />
-9. [报道称英伟达 CEO 黄仁勋拟本月赴华，会见腾讯、字节跳动等企业高管，哪些信息值得关注？](https://www.zhihu.com/question/604175403)<br />
+9. [美国众议院投票通过暂缓债务上限法案，将送交参议院进行投票，哪些信息值得关注？](https://www.zhihu.com/question/604181201)<br />
 
 > 百度  
 
