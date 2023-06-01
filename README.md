@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 22:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 22:07:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [梦中的那片海开播收视率](https://s.weibo.com/weibo?q=%23%E6%A2%A6%E4%B8%AD%E7%9A%84%E9%82%A3%E7%89%87%E6%B5%B7%E5%BC%80%E6%92%AD%E6%94%B6%E8%A7%86%E7%8E%87%23&t=31&band_rank=5&Refer=top)<br />
 6. [虞书欣直播](https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%9B%B4%E6%92%AD&t=31&band_rank=6&Refer=top)<br />
 7. [五月天王源合唱](https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E7%8E%8B%E6%BA%90%E5%90%88%E5%94%B1%23&t=31&band_rank=7&Refer=top)<br />
-8. [江歌母亲称已收到刘鑫全部赔偿款](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E6%AD%8C%E6%AF%8D%E4%BA%B2%E7%A7%B0%E5%B7%B2%E6%94%B6%E5%88%B0%E5%88%98%E9%91%AB%E5%85%A8%E9%83%A8%E8%B5%94%E5%81%BF%E6%AC%BE%23&t=31&band_rank=8&Refer=top)<br />
-9. [WBG零封JDG](https://s.weibo.com/weibo?q=%23WBG%E9%9B%B6%E5%B0%81JDG%23&t=31&band_rank=9&Refer=top)<br />
+8. [WBG零封JDG](https://s.weibo.com/weibo?q=%23WBG%E9%9B%B6%E5%B0%81JDG%23&t=31&band_rank=8&Refer=top)<br />
+9. [江歌母亲称已收到刘鑫全部赔偿款](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E6%AD%8C%E6%AF%8D%E4%BA%B2%E7%A7%B0%E5%B7%B2%E6%94%B6%E5%88%B0%E5%88%98%E9%91%AB%E5%85%A8%E9%83%A8%E8%B5%94%E5%81%BF%E6%AC%BE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -18,11 +18,11 @@
 2. [教育部表示 2023 年全国高考报名人数 1291 万人，再创历史新高，哪些信息值得关注？](https://www.zhihu.com/question/604181829)<br />
 3. [莫斯科遭大规模无人机袭击，目前局势如何？如何看待无人机在现代战争中的作用？](https://www.zhihu.com/question/604170757)<br />
 4. [陪领导出差，应该注意些什么？](https://www.zhihu.com/question/48114643)<br />
-5. [高考报名人数 1291 万人创新高，人工智能、生物工程会是 4 年后的风口专业吗？](https://www.zhihu.com/theater/10768)<br />
-6. [2023 LPL 夏季赛 WBG 2:0 爆冷击败新晋季中赛冠军 JDG，如何评价这场比赛？](https://www.zhihu.com/question/604285477)<br />
-7. [黄蓉死在襄阳的时候，黄药师为什么不来救女儿？](https://www.zhihu.com/question/598195157)<br />
-8. [新能源车企五月交付数据显示理想、小鹏环比增长，蔚来环比下降，比亚迪五月销 24 万辆，反映出哪些问题？](https://www.zhihu.com/question/604271324)<br />
-9. [邻居说让他儿子到我家吃中饭，按 15 元一顿给钱，能同意吗?](https://www.zhihu.com/question/603469319)<br />
+5. [2023 LPL 夏季赛 WBG 2:0 爆冷击败新晋季中赛冠军 JDG，如何评价这场比赛？](https://www.zhihu.com/question/604285477)<br />
+6. [黄蓉死在襄阳的时候，黄药师为什么不来救女儿？](https://www.zhihu.com/question/598195157)<br />
+7. [新能源车企五月交付数据显示理想、小鹏环比增长，蔚来环比下降，比亚迪五月销 24 万辆，反映出哪些问题？](https://www.zhihu.com/question/604271324)<br />
+8. [邻居说让他儿子到我家吃中饭，按 15 元一顿给钱，能同意吗?](https://www.zhihu.com/question/603469319)<br />
+9. [亲爱的大朋友，你童年最快乐的一天是怎样的一天？](https://www.zhihu.com/question/603835706)<br />
 
 > 百度  
 
