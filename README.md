@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 20:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 20:13:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [酷云](https://s.weibo.com/weibo?q=%E9%85%B7%E4%BA%91&t=31&band_rank=6&Refer=top)<br />
 7. [WBG对战JDG](https://s.weibo.com/weibo?q=%23WBG%E5%AF%B9%E6%88%98JDG%23&t=31&band_rank=7&Refer=top)<br />
 8. [二三十了还觉得自己是个小孩正常吗](https://s.weibo.com/weibo?q=%23%E4%BA%8C%E4%B8%89%E5%8D%81%E4%BA%86%E8%BF%98%E8%A7%89%E5%BE%97%E8%87%AA%E5%B7%B1%E6%98%AF%E4%B8%AA%E5%B0%8F%E5%AD%A9%E6%AD%A3%E5%B8%B8%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [椿山漫 抄袭](https://s.weibo.com/weibo?q=%E6%A4%BF%E5%B1%B1%E6%BC%AB%20%E6%8A%84%E8%A2%AD&t=31&band_rank=9&Refer=top)<br />
+9. [EXO是我们公司非常珍惜的艺人](https://s.weibo.com/weibo?q=%23EXO%E6%98%AF%E6%88%91%E4%BB%AC%E5%85%AC%E5%8F%B8%E9%9D%9E%E5%B8%B8%E7%8F%8D%E6%83%9C%E7%9A%84%E8%89%BA%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
