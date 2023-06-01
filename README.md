@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 22:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 22:54:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [研究生辞谢信彰显卧龙凤雏](https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E7%94%9F%E8%BE%9E%E8%B0%A2%E4%BF%A1%E5%BD%B0%E6%98%BE%E5%8D%A7%E9%BE%99%E5%87%A4%E9%9B%8F%23&t=31&band_rank=5&Refer=top)<br />
 6. [梦中的那片海开播收视率](https://s.weibo.com/weibo?q=%23%E6%A2%A6%E4%B8%AD%E7%9A%84%E9%82%A3%E7%89%87%E6%B5%B7%E5%BC%80%E6%92%AD%E6%94%B6%E8%A7%86%E7%8E%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [Jennie小松菜奈热聊](https://s.weibo.com/weibo?q=%23Jennie%E5%B0%8F%E6%9D%BE%E8%8F%9C%E5%A5%88%E7%83%AD%E8%81%8A%23&t=31&band_rank=7&Refer=top)<br />
-8. [男人眼中的6分女和6分男](https://s.weibo.com/weibo?q=%E7%94%B7%E4%BA%BA%E7%9C%BC%E4%B8%AD%E7%9A%846%E5%88%86%E5%A5%B3%E5%92%8C6%E5%88%86%E7%94%B7&t=31&band_rank=8&Refer=top)<br />
-9. [五月天王源合唱](https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E7%8E%8B%E6%BA%90%E5%90%88%E5%94%B1%23&t=31&band_rank=9&Refer=top)<br />
+8. [虞书欣直播](https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%9B%B4%E6%92%AD&t=31&band_rank=8&Refer=top)<br />
+9. [男人眼中的6分女和6分男](https://s.weibo.com/weibo?q=%E7%94%B7%E4%BA%BA%E7%9C%BC%E4%B8%AD%E7%9A%846%E5%88%86%E5%A5%B3%E5%92%8C6%E5%88%86%E7%94%B7&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -34,7 +34,7 @@
 6. [酒驾司机遭交警追缉 撞树死亡](https://www.baidu.com/s?wd=%E9%85%92%E9%A9%BE%E5%8F%B8%E6%9C%BA%E9%81%AD%E4%BA%A4%E8%AD%A6%E8%BF%BD%E7%BC%89+%E6%92%9E%E6%A0%91%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [美记：掘金若夺冠含金量史上最低](https://www.baidu.com/s?wd=%E7%BE%8E%E8%AE%B0%EF%BC%9A%E6%8E%98%E9%87%91%E8%8B%A5%E5%A4%BA%E5%86%A0%E5%90%AB%E9%87%91%E9%87%8F%E5%8F%B2%E4%B8%8A%E6%9C%80%E4%BD%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [林青霞邀请莫言家中做客吃饺子](https://www.baidu.com/s?wd=%E6%9E%97%E9%9D%92%E9%9C%9E%E9%82%80%E8%AF%B7%E8%8E%AB%E8%A8%80%E5%AE%B6%E4%B8%AD%E5%81%9A%E5%AE%A2%E5%90%83%E9%A5%BA%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [物业腾车库给住户晾晒小麦](https://www.baidu.com/s?wd=%E7%89%A9%E4%B8%9A%E8%85%BE%E8%BD%A6%E5%BA%93%E7%BB%99%E4%BD%8F%E6%88%B7%E6%99%BE%E6%99%92%E5%B0%8F%E9%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子退猫被拒后直接把猫摔死](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%80%80%E7%8C%AB%E8%A2%AB%E6%8B%92%E5%90%8E%E7%9B%B4%E6%8E%A5%E6%8A%8A%E7%8C%AB%E6%91%94%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [酒驾司机遭交警追缉 撞树死亡](https://www.baidu.com/s?wd=%E9%85%92%E9%A9%BE%E5%8F%B8%E6%9C%BA%E9%81%AD%E4%BA%A4%E8%AD%A6%E8%BF%BD%E7%BC%89+%E6%92%9E%E6%A0%91%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [美记：掘金若夺冠含金量史上最低](https://www.baidu.com/s?wd=%E7%BE%8E%E8%AE%B0%EF%BC%9A%E6%8E%98%E9%87%91%E8%8B%A5%E5%A4%BA%E5%86%A0%E5%90%AB%E9%87%91%E9%87%8F%E5%8F%B2%E4%B8%8A%E6%9C%80%E4%BD%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [林青霞邀请莫言家中做客吃饺子](https://www.baidu.com/s?wd=%E6%9E%97%E9%9D%92%E9%9C%9E%E9%82%80%E8%AF%B7%E8%8E%AB%E8%A8%80%E5%AE%B6%E4%B8%AD%E5%81%9A%E5%AE%A2%E5%90%83%E9%A5%BA%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [物业腾车库给住户晾晒小麦](https://www.baidu.com/s?wd=%E7%89%A9%E4%B8%9A%E8%85%BE%E8%BD%A6%E5%BA%93%E7%BB%99%E4%BD%8F%E6%88%B7%E6%99%BE%E6%99%92%E5%B0%8F%E9%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子退猫被拒后直接把猫摔死](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%80%80%E7%8C%AB%E8%A2%AB%E6%8B%92%E5%90%8E%E7%9B%B4%E6%8E%A5%E6%8A%8A%E7%8C%AB%E6%91%94%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
