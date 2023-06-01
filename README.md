@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 16:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 16:12:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [杨洋王楚然剧照 太阳的后裔](https://s.weibo.com/weibo?q=%E6%9D%A8%E6%B4%8B%E7%8E%8B%E6%A5%9A%E7%84%B6%E5%89%A7%E7%85%A7%20%E5%A4%AA%E9%98%B3%E7%9A%84%E5%90%8E%E8%A3%94&t=31&band_rank=6&Refer=top)<br />
 7. [赵雅芝70岁状态有多绝](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9B%85%E8%8A%9D70%E5%B2%81%E7%8A%B6%E6%80%81%E6%9C%89%E5%A4%9A%E7%BB%9D%23&t=31&band_rank=7&Refer=top)<br />
 8. [8岁摄影师拍李现是被人抱起来的](https://s.weibo.com/weibo?q=%238%E5%B2%81%E6%91%84%E5%BD%B1%E5%B8%88%E6%8B%8D%E6%9D%8E%E7%8E%B0%E6%98%AF%E8%A2%AB%E4%BA%BA%E6%8A%B1%E8%B5%B7%E6%9D%A5%E7%9A%84%23&t=31&band_rank=8&Refer=top)<br />
-9. [ChatGPT高三考试仅物理得零分](https://s.weibo.com/weibo?q=%23ChatGPT%E9%AB%98%E4%B8%89%E8%80%83%E8%AF%95%E4%BB%85%E7%89%A9%E7%90%86%E5%BE%97%E9%9B%B6%E5%88%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [莫文蔚让张韶涵杨宗纬赶快结婚](https://s.weibo.com/weibo?q=%23%E8%8E%AB%E6%96%87%E8%94%9A%E8%AE%A9%E5%BC%A0%E9%9F%B6%E6%B6%B5%E6%9D%A8%E5%AE%97%E7%BA%AC%E8%B5%B6%E5%BF%AB%E7%BB%93%E5%A9%9A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
