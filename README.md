@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 10:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 10:32:01</h4></div>
 
 > 微博  
 
 1. [边伯贤金珉锡金钟大与SMTOWN解约](https://s.weibo.com/weibo?q=%23%E8%BE%B9%E4%BC%AF%E8%B4%A4%E9%87%91%E7%8F%89%E9%94%A1%E9%87%91%E9%92%9F%E5%A4%A7%E4%B8%8ESMTOWN%E8%A7%A3%E7%BA%A6%23&t=31&band_rank=1&Refer=top)<br />
-2. [明星谴责虐待动物者却遭曝光个人信息](https://s.weibo.com/weibo?q=%23%E6%98%8E%E6%98%9F%E8%B0%B4%E8%B4%A3%E8%99%90%E5%BE%85%E5%8A%A8%E7%89%A9%E8%80%85%E5%8D%B4%E9%81%AD%E6%9B%9D%E5%85%89%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%23&t=31&band_rank=2&Refer=top)<br />
+2. [假性亲密关系](https://s.weibo.com/weibo?q=%E5%81%87%E6%80%A7%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB&t=31&band_rank=2&Refer=top)<br />
 3. [中国航天员太空会师名场面再现](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%91%98%E5%A4%AA%E7%A9%BA%E4%BC%9A%E5%B8%88%E5%90%8D%E5%9C%BA%E9%9D%A2%E5%86%8D%E7%8E%B0%23&t=31&band_rank=3&Refer=top)<br />
-4. [假性亲密关系](https://s.weibo.com/weibo?q=%E5%81%87%E6%80%A7%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB&t=31&band_rank=4&Refer=top)<br />
+4. [明星谴责虐待动物者却遭曝光个人信息](https://s.weibo.com/weibo?q=%23%E6%98%8E%E6%98%9F%E8%B0%B4%E8%B4%A3%E8%99%90%E5%BE%85%E5%8A%A8%E7%89%A9%E8%80%85%E5%8D%B4%E9%81%AD%E6%9B%9D%E5%85%89%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%23&t=31&band_rank=4&Refer=top)<br />
 5. [EXO还回归吗](https://s.weibo.com/weibo?q=EXO%E8%BF%98%E5%9B%9E%E5%BD%92%E5%90%97&t=31&band_rank=5&Refer=top)<br />
 6. [别把医术拍成了法术](https://s.weibo.com/weibo?q=%23%E5%88%AB%E6%8A%8A%E5%8C%BB%E6%9C%AF%E6%8B%8D%E6%88%90%E4%BA%86%E6%B3%95%E6%9C%AF%23&t=31&band_rank=6&Refer=top)<br />
 7. [胡可说不要把另一半当自己人](https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%8F%AF%E8%AF%B4%E4%B8%8D%E8%A6%81%E6%8A%8A%E5%8F%A6%E4%B8%80%E5%8D%8A%E5%BD%93%E8%87%AA%E5%B7%B1%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
@@ -34,7 +34,7 @@
 6. [母女在幼儿园门口被撞身亡](https://www.baidu.com/s?wd=%E6%AF%8D%E5%A5%B3%E5%9C%A8%E5%B9%BC%E5%84%BF%E5%9B%AD%E9%97%A8%E5%8F%A3%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子捧场朋友店被提前点7472元餐](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8D%A7%E5%9C%BA%E6%9C%8B%E5%8F%8B%E5%BA%97%E8%A2%AB%E6%8F%90%E5%89%8D%E7%82%B97472%E5%85%83%E9%A4%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [人民币汇率跌破7.1！原因找到了](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E5%B8%81%E6%B1%87%E7%8E%87%E8%B7%8C%E7%A0%B47.1%EF%BC%81%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [今年高考报名人数1291万创历史新高](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E9%AB%98%E8%80%83%E6%8A%A5%E5%90%8D%E4%BA%BA%E6%95%B01291%E4%B8%87%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [巴西总统向11国喊话：抛弃美元](https://www.baidu.com/s?wd=%E5%B7%B4%E8%A5%BF%E6%80%BB%E7%BB%9F%E5%90%9111%E5%9B%BD%E5%96%8A%E8%AF%9D%EF%BC%9A%E6%8A%9B%E5%BC%83%E7%BE%8E%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [母女在幼儿园门口被撞身亡](https://www.baidu.com/s?wd=%E6%AF%8D%E5%A5%B3%E5%9C%A8%E5%B9%BC%E5%84%BF%E5%9B%AD%E9%97%A8%E5%8F%A3%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子捧场朋友店被提前点7472元餐](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8D%A7%E5%9C%BA%E6%9C%8B%E5%8F%8B%E5%BA%97%E8%A2%AB%E6%8F%90%E5%89%8D%E7%82%B97472%E5%85%83%E9%A4%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [人民币汇率跌破7.1！原因找到了](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E5%B8%81%E6%B1%87%E7%8E%87%E8%B7%8C%E7%A0%B47.1%EF%BC%81%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [今年高考报名人数1291万创历史新高](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E9%AB%98%E8%80%83%E6%8A%A5%E5%90%8D%E4%BA%BA%E6%95%B01291%E4%B8%87%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [巴西总统向11国喊话：抛弃美元](https://www.baidu.com/s?wd=%E5%B7%B4%E8%A5%BF%E6%80%BB%E7%BB%9F%E5%90%9111%E5%9B%BD%E5%96%8A%E8%AF%9D%EF%BC%9A%E6%8A%9B%E5%BC%83%E7%BE%8E%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
