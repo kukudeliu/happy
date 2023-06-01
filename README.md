@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 05:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 05:44:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. []()<br />
 5. [邻居说让他儿子到我家吃中饭，按 15 元一顿给钱，能同意吗?](https://www.zhihu.com/question/603469319)<br />
 6. []()<br />
-7. [2000 多的预算，大家能推荐一款油烟机吗，希望便宜性价比高？](https://www.zhihu.com/question/432203350)<br />
-8. []()<br />
-9. [2023 LPL 夏季赛 WBG 2:0 爆冷击败新晋季中赛冠军 JDG，如何评价这场比赛？](https://www.zhihu.com/question/604285477)<br />
+7. []()<br />
+8. [2023 LPL 夏季赛 WBG 2:0 爆冷击败新晋季中赛冠军 JDG，如何评价这场比赛？](https://www.zhihu.com/question/604285477)<br />
+9. [2000 多的预算，大家能推荐一款油烟机吗，希望便宜性价比高？](https://www.zhihu.com/question/432203350)<br />
 
 > 百度  
 
