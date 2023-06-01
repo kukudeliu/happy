@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 20:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 20:55:01</h4></div>
 
 > 微博  
 
@@ -20,7 +20,7 @@
 4. [贾跃亭的 FF 再次花式延期交付，提车先付 220 万元全款，哪些信息值得关注？](https://www.zhihu.com/question/604057913)<br />
 5. [2023 高考报名人数 1291 万人创历史新高，高考多少分才能上本科？哪些专业宁愿复读也不考虑？](https://www.zhihu.com/theater/10768)<br />
 6. [视力一直在下降，但是手机和电脑又不能不用，该怎样减缓视力下降呢？](https://www.zhihu.com/question/604228361)<br />
-7. [邻居说让他儿子到我家吃中饭，按 15 元一顿给钱，能同意吗?](https://www.zhihu.com/question/603469319)<br />
+7. [陪领导出差，应该注意些什么？](https://www.zhihu.com/question/48114643)<br />
 8. [如何不提雨，能描述雨很大？](https://www.zhihu.com/question/603676744)<br />
 9. [如何评价动画电影《哆啦 A 梦：大雄与天空的理想乡》？](https://www.zhihu.com/question/601904074)<br />
 
