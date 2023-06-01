@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 07:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 07:03:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [早知道烂厂里了](https://s.weibo.com/weibo?q=%E6%97%A9%E7%9F%A5%E9%81%93%E7%83%82%E5%8E%82%E9%87%8C%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [梦中的那片海开播收视率](https://s.weibo.com/weibo?q=%23%E6%A2%A6%E4%B8%AD%E7%9A%84%E9%82%A3%E7%89%87%E6%B5%B7%E5%BC%80%E6%92%AD%E6%94%B6%E8%A7%86%E7%8E%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [王诗龄晒健身照](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%AF%97%E9%BE%84%E6%99%92%E5%81%A5%E8%BA%AB%E7%85%A7%23&t=31&band_rank=8&Refer=top)<br />
-9. [辛选主播将成人喝的牛奶推荐给孩子](https://s.weibo.com/weibo?q=%23%E8%BE%9B%E9%80%89%E4%B8%BB%E6%92%AD%E5%B0%86%E6%88%90%E4%BA%BA%E5%96%9D%E7%9A%84%E7%89%9B%E5%A5%B6%E6%8E%A8%E8%8D%90%E7%BB%99%E5%AD%A9%E5%AD%90%23&t=31&band_rank=9&Refer=top)<br />
+9. [铁路回应老人高铁上用菜刀削苹果](https://s.weibo.com/weibo?q=%23%E9%93%81%E8%B7%AF%E5%9B%9E%E5%BA%94%E8%80%81%E4%BA%BA%E9%AB%98%E9%93%81%E4%B8%8A%E7%94%A8%E8%8F%9C%E5%88%80%E5%89%8A%E8%8B%B9%E6%9E%9C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
