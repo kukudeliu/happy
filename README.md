@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 10:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 10:45:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [吴磊 快走吧哥们要累死了](https://s.weibo.com/weibo?q=%E5%90%B4%E7%A3%8A%20%E5%BF%AB%E8%B5%B0%E5%90%A7%E5%93%A5%E4%BB%AC%E8%A6%81%E7%B4%AF%E6%AD%BB%E4%BA%86&t=31&band_rank=2&Refer=top)<br />
 3. [中国航天员太空会师名场面再现](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%91%98%E5%A4%AA%E7%A9%BA%E4%BC%9A%E5%B8%88%E5%90%8D%E5%9C%BA%E9%9D%A2%E5%86%8D%E7%8E%B0%23&t=31&band_rank=3&Refer=top)<br />
 4. [假性亲密关系](https://s.weibo.com/weibo?q=%E5%81%87%E6%80%A7%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB&t=31&band_rank=4&Refer=top)<br />
-5. [明星谴责虐待动物者却遭曝光个人信息](https://s.weibo.com/weibo?q=%23%E6%98%8E%E6%98%9F%E8%B0%B4%E8%B4%A3%E8%99%90%E5%BE%85%E5%8A%A8%E7%89%A9%E8%80%85%E5%8D%B4%E9%81%AD%E6%9B%9D%E5%85%89%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%23&t=31&band_rank=5&Refer=top)<br />
-6. [产妇羊水栓塞医生集体赶来抢救](https://s.weibo.com/weibo?q=%23%E4%BA%A7%E5%A6%87%E7%BE%8A%E6%B0%B4%E6%A0%93%E5%A1%9E%E5%8C%BB%E7%94%9F%E9%9B%86%E4%BD%93%E8%B5%B6%E6%9D%A5%E6%8A%A2%E6%95%91%23&t=31&band_rank=6&Refer=top)<br />
+5. [产妇羊水栓塞医生集体赶来抢救](https://s.weibo.com/weibo?q=%23%E4%BA%A7%E5%A6%87%E7%BE%8A%E6%B0%B4%E6%A0%93%E5%A1%9E%E5%8C%BB%E7%94%9F%E9%9B%86%E4%BD%93%E8%B5%B6%E6%9D%A5%E6%8A%A2%E6%95%91%23&t=31&band_rank=5&Refer=top)<br />
+6. [明星谴责虐待动物者却遭曝光个人信息](https://s.weibo.com/weibo?q=%23%E6%98%8E%E6%98%9F%E8%B0%B4%E8%B4%A3%E8%99%90%E5%BE%85%E5%8A%A8%E7%89%A9%E8%80%85%E5%8D%B4%E9%81%AD%E6%9B%9D%E5%85%89%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%23&t=31&band_rank=6&Refer=top)<br />
 7. [EXO还回归吗](https://s.weibo.com/weibo?q=EXO%E8%BF%98%E5%9B%9E%E5%BD%92%E5%90%97&t=31&band_rank=7&Refer=top)<br />
 8. [鞠婧祎每部戏妆容都差不多](https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E6%AF%8F%E9%83%A8%E6%88%8F%E5%A6%86%E5%AE%B9%E9%83%BD%E5%B7%AE%E4%B8%8D%E5%A4%9A%23&t=31&band_rank=8&Refer=top)<br />
-9. [别把医术拍成了法术](https://s.weibo.com/weibo?q=%23%E5%88%AB%E6%8A%8A%E5%8C%BB%E6%9C%AF%E6%8B%8D%E6%88%90%E4%BA%86%E6%B3%95%E6%9C%AF%23&t=31&band_rank=9&Refer=top)<br />
+9. [出租房装的空调是5级能耗](https://s.weibo.com/weibo?q=%23%E5%87%BA%E7%A7%9F%E6%88%BF%E8%A3%85%E7%9A%84%E7%A9%BA%E8%B0%83%E6%98%AF5%E7%BA%A7%E8%83%BD%E8%80%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
