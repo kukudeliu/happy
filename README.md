@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 07:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 07:56:01</h4></div>
 
 > 微博  
 
@@ -18,11 +18,11 @@
 2. [罗永浩直播卖房，上架 1 分钟就被订下，总价 205 万，直播卖房会引发跟风吗？直播买房有哪些风险？](https://www.zhihu.com/question/604265383)<br />
 3. [香格里拉对话会 6 月 2 日召开，中国新防长将首次出席，此次香会有哪些看点值得关注？](https://www.zhihu.com/question/604227433)<br />
 4. [邻居说让他儿子到我家吃中饭，按 15 元一顿给钱，能同意吗?](https://www.zhihu.com/question/603469319)<br />
-5. [如何评价原神 3.7 版本，6 月 1 日新深渊？](https://www.zhihu.com/question/604176024)<br />
+5. []()<br />
 6. [有人让 ChatGPT 做高三试卷，英语、历史等文字性内容成功率非常高，只有物理得零分，如何看待此事？](https://www.zhihu.com/question/604261512)<br />
-7. [黄蓉死在襄阳的时候，黄药师为什么不来救女儿？](https://www.zhihu.com/question/598195157)<br />
-8. [为什么我们中学物理课本，只承认古希腊的阿基米德的杠杆定理，而不认墨子的杠杆定理？](https://www.zhihu.com/question/603979051)<br />
-9. [为什么苹果和安卓厂商几乎都放弃了小屏市场？](https://www.zhihu.com/question/603801469)<br />
+7. [如何评价原神 3.7 版本，6 月 1 日新深渊？](https://www.zhihu.com/question/604176024)<br />
+8. [黄蓉死在襄阳的时候，黄药师为什么不来救女儿？](https://www.zhihu.com/question/598195157)<br />
+9. [为什么我们中学物理课本，只承认古希腊的阿基米德的杠杆定理，而不认墨子的杠杆定理？](https://www.zhihu.com/question/603979051)<br />
 
 > 百度  
 
