@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 14:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 14:48:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [报道称英伟达 CEO 黄仁勋拟本月赴华，会见腾讯、字节跳动等企业高管，哪些信息值得关注？](https://www.zhihu.com/question/604175403)<br />
 7. [普通人打巅峰泰森，泰森只能躲闪不能出拳，有多大机会赢？](https://www.zhihu.com/question/590109572)<br />
 8. [为什么很多人都把 thing 读成 sing？](https://www.zhihu.com/question/592089213)<br />
-9. [2023 年 618 有哪些降价幅度「超预期」的手机推荐？](https://www.zhihu.com/question/604132920)<br />
+9. [期望使用寿命三年以上的手机应该有哪些配置？](https://www.zhihu.com/question/604068014)<br />
 
 > 百度  
 
