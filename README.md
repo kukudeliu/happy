@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 16:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 16:27:01</h4></div>
 
 > 微博  
 
-1. [挖呀挖黄老师发视频祝六一快乐](https://s.weibo.com/weibo?q=%23%E6%8C%96%E5%91%80%E6%8C%96%E9%BB%84%E8%80%81%E5%B8%88%E5%8F%91%E8%A7%86%E9%A2%91%E7%A5%9D%E5%85%AD%E4%B8%80%E5%BF%AB%E4%B9%90%23&t=31&band_rank=1&Refer=top)<br />
-2. [男生接女友下班遭车祸致1死1病危](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E6%8E%A5%E5%A5%B3%E5%8F%8B%E4%B8%8B%E7%8F%AD%E9%81%AD%E8%BD%A6%E7%A5%B8%E8%87%B41%E6%AD%BB1%E7%97%85%E5%8D%B1%23&t=31&band_rank=2&Refer=top)<br />
+1. [男生接女友下班遭车祸致1死1病危](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E6%8E%A5%E5%A5%B3%E5%8F%8B%E4%B8%8B%E7%8F%AD%E9%81%AD%E8%BD%A6%E7%A5%B8%E8%87%B41%E6%AD%BB1%E7%97%85%E5%8D%B1%23&t=31&band_rank=1&Refer=top)<br />
+2. [挖呀挖黄老师发视频祝六一快乐](https://s.weibo.com/weibo?q=%23%E6%8C%96%E5%91%80%E6%8C%96%E9%BB%84%E8%80%81%E5%B8%88%E5%8F%91%E8%A7%86%E9%A2%91%E7%A5%9D%E5%85%AD%E4%B8%80%E5%BF%AB%E4%B9%90%23&t=31&band_rank=2&Refer=top)<br />
 3. [无论几岁快乐万岁](https://s.weibo.com/weibo?q=%23%E6%97%A0%E8%AE%BA%E5%87%A0%E5%B2%81%E5%BF%AB%E4%B9%90%E4%B8%87%E5%B2%81%23&t=31&band_rank=3&Refer=top)<br />
 4. [迪丽热巴回应脸不像检察官](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%9B%9E%E5%BA%94%E8%84%B8%E4%B8%8D%E5%83%8F%E6%A3%80%E5%AF%9F%E5%AE%98%23&t=31&band_rank=4&Refer=top)<br />
 5. [EXO是我们公司非常珍惜的艺人](https://s.weibo.com/weibo?q=%23EXO%E6%98%AF%E6%88%91%E4%BB%AC%E5%85%AC%E5%8F%B8%E9%9D%9E%E5%B8%B8%E7%8F%8D%E6%83%9C%E7%9A%84%E8%89%BA%E4%BA%BA%23&t=31&band_rank=5&Refer=top)<br />
