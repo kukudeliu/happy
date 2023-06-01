@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 00:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 00:19:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [高三师生的双向奔赴太戳了](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%89%E5%B8%88%E7%94%9F%E7%9A%84%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4%E5%A4%AA%E6%88%B3%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子退猫被拒后直接把猫摔死](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%80%80%E7%8C%AB%E8%A2%AB%E6%8B%92%E5%90%8E%E7%9B%B4%E6%8E%A5%E6%8A%8A%E7%8C%AB%E6%91%94%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [酒驾司机遭交警追缉 撞树死亡](https://www.baidu.com/s?wd=%E9%85%92%E9%A9%BE%E5%8F%B8%E6%9C%BA%E9%81%AD%E4%BA%A4%E8%AD%A6%E8%BF%BD%E7%BC%89+%E6%92%9E%E6%A0%91%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [5月百强房企销售规模继续下滑](https://www.baidu.com/s?wd=5%E6%9C%88%E7%99%BE%E5%BC%BA%E6%88%BF%E4%BC%81%E9%94%80%E5%94%AE%E8%A7%84%E6%A8%A1%E7%BB%A7%E7%BB%AD%E4%B8%8B%E6%BB%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [幼儿园摆20桌请200孩子吃席庆六一](https://www.baidu.com/s?wd=%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%91%8620%E6%A1%8C%E8%AF%B7200%E5%AD%A9%E5%AD%90%E5%90%83%E5%B8%AD%E5%BA%86%E5%85%AD%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [高三师生的双向奔赴太戳了](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%89%E5%B8%88%E7%94%9F%E7%9A%84%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4%E5%A4%AA%E6%88%B3%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子退猫被拒后直接把猫摔死](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%80%80%E7%8C%AB%E8%A2%AB%E6%8B%92%E5%90%8E%E7%9B%B4%E6%8E%A5%E6%8A%8A%E7%8C%AB%E6%91%94%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [酒驾司机遭交警追缉 撞树死亡](https://www.baidu.com/s?wd=%E9%85%92%E9%A9%BE%E5%8F%B8%E6%9C%BA%E9%81%AD%E4%BA%A4%E8%AD%A6%E8%BF%BD%E7%BC%89+%E6%92%9E%E6%A0%91%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [5月百强房企销售规模继续下滑](https://www.baidu.com/s?wd=5%E6%9C%88%E7%99%BE%E5%BC%BA%E6%88%BF%E4%BC%81%E9%94%80%E5%94%AE%E8%A7%84%E6%A8%A1%E7%BB%A7%E7%BB%AD%E4%B8%8B%E6%BB%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [幼儿园摆20桌请200孩子吃席庆六一](https://www.baidu.com/s?wd=%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%91%8620%E6%A1%8C%E8%AF%B7200%E5%AD%A9%E5%AD%90%E5%90%83%E5%B8%AD%E5%BA%86%E5%85%AD%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
