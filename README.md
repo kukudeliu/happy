@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 13:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 13:35:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. []()<br />
 6. [贾跃亭的 FF 再次花式延期交付，提车先付 220 万元全款，哪些信息值得关注？](https://www.zhihu.com/question/604057913)<br />
 7. [如何评价《王者荣耀世界》5 月 30 日发布的多人战斗实机演示视频？](https://www.zhihu.com/question/603940332)<br />
-8. [报道称英伟达 CEO 黄仁勋拟本月赴华，会见腾讯、字节跳动等企业高管，哪些信息值得关注？](https://www.zhihu.com/question/604175403)<br />
-9. [期望使用寿命三年以上的手机应该有哪些配置？](https://www.zhihu.com/question/604068014)<br />
+8. [期望使用寿命三年以上的手机应该有哪些配置？](https://www.zhihu.com/question/604068014)<br />
+9. [南部战区回应南海处置美军侦察机「依法依规，操作专业规范」，哪些信息值得关注？](https://www.zhihu.com/question/604177453)<br />
 
 > 百度  
 
