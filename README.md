@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 07:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 07:45:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [王诗龄晒健身照](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%AF%97%E9%BE%84%E6%99%92%E5%81%A5%E8%BA%AB%E7%85%A7%23&t=31&band_rank=4&Refer=top)<br />
 5. [早知道烂厂里了](https://s.weibo.com/weibo?q=%E6%97%A9%E7%9F%A5%E9%81%93%E7%83%82%E5%8E%82%E9%87%8C%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
 6. [学术妲己](https://s.weibo.com/weibo?q=%E5%AD%A6%E6%9C%AF%E5%A6%B2%E5%B7%B1&t=31&band_rank=6&Refer=top)<br />
-7. [网传老人在高铁上用菜刀削苹果](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E8%80%81%E4%BA%BA%E5%9C%A8%E9%AB%98%E9%93%81%E4%B8%8A%E7%94%A8%E8%8F%9C%E5%88%80%E5%89%8A%E8%8B%B9%E6%9E%9C%23&t=31&band_rank=7&Refer=top)<br />
-8. [我其实是一只水母 装成人的模样社交](https://s.weibo.com/weibo?q=%E6%88%91%E5%85%B6%E5%AE%9E%E6%98%AF%E4%B8%80%E5%8F%AA%E6%B0%B4%E6%AF%8D%20%E8%A3%85%E6%88%90%E4%BA%BA%E7%9A%84%E6%A8%A1%E6%A0%B7%E7%A4%BE%E4%BA%A4&t=31&band_rank=8&Refer=top)<br />
-9. [二三十了还觉得自己是个小孩正常吗](https://s.weibo.com/weibo?q=%23%E4%BA%8C%E4%B8%89%E5%8D%81%E4%BA%86%E8%BF%98%E8%A7%89%E5%BE%97%E8%87%AA%E5%B7%B1%E6%98%AF%E4%B8%AA%E5%B0%8F%E5%AD%A9%E6%AD%A3%E5%B8%B8%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
+7. [我其实是一只水母 装成人的模样社交](https://s.weibo.com/weibo?q=%E6%88%91%E5%85%B6%E5%AE%9E%E6%98%AF%E4%B8%80%E5%8F%AA%E6%B0%B4%E6%AF%8D%20%E8%A3%85%E6%88%90%E4%BA%BA%E7%9A%84%E6%A8%A1%E6%A0%B7%E7%A4%BE%E4%BA%A4&t=31&band_rank=7&Refer=top)<br />
+8. [网传老人在高铁上用菜刀削苹果](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E8%80%81%E4%BA%BA%E5%9C%A8%E9%AB%98%E9%93%81%E4%B8%8A%E7%94%A8%E8%8F%9C%E5%88%80%E5%89%8A%E8%8B%B9%E6%9E%9C%23&t=31&band_rank=8&Refer=top)<br />
+9. [肖战台词](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%8F%B0%E8%AF%8D&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
