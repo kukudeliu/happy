@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 07:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 07:30:01</h4></div>
 
 > 微博  
 
@@ -15,7 +15,7 @@
 > 知乎  
 
 1. [中方在台湾问题上借冲绳举例，日方破防「冲绳绝不会独立」，冲绳和台湾有哪些不同？日方为何就台频频拱火？](https://www.zhihu.com/question/604246792)<br />
-2. []()<br />
+2. [有人让 ChatGPT 做高三试卷，英语、历史等文字性内容成功率非常高，只有物理得零分，如何看待此事？](https://www.zhihu.com/question/604261512)<br />
 3. []()<br />
 4. []()<br />
 5. [邻居说让他儿子到我家吃中饭，按 15 元一顿给钱，能同意吗?](https://www.zhihu.com/question/603469319)<br />
@@ -30,11 +30,11 @@
 2. [拜登在毕业典礼上狠狠摔了一跤](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E5%9C%A8%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E4%B8%8A%E7%8B%A0%E7%8B%A0%E6%91%94%E4%BA%86%E4%B8%80%E8%B7%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [林青霞邀请莫言家中做客吃饺子](https://www.baidu.com/s?wd=%E6%9E%97%E9%9D%92%E9%9C%9E%E9%82%80%E8%AF%B7%E8%8E%AB%E8%A8%80%E5%AE%B6%E4%B8%AD%E5%81%9A%E5%AE%A2%E5%90%83%E9%A5%BA%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [从未见过发射的航天人](https://www.baidu.com/s?wd=%E4%BB%8E%E6%9C%AA%E8%A7%81%E8%BF%87%E5%8F%91%E5%B0%84%E7%9A%84%E8%88%AA%E5%A4%A9%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [浙江一娱乐公司发生抢劫案 警方通报](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E5%A8%B1%E4%B9%90%E5%85%AC%E5%8F%B8%E5%8F%91%E7%94%9F%E6%8A%A2%E5%8A%AB%E6%A1%88+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [老人高铁上用菜刀削苹果？铁路回应](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E9%AB%98%E9%93%81%E4%B8%8A%E7%94%A8%E8%8F%9C%E5%88%80%E5%89%8A%E8%8B%B9%E6%9E%9C%EF%BC%9F%E9%93%81%E8%B7%AF%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [酒驾司机遭交警追缉 撞树死亡](https://www.baidu.com/s?wd=%E9%85%92%E9%A9%BE%E5%8F%B8%E6%9C%BA%E9%81%AD%E4%BA%A4%E8%AD%A6%E8%BF%BD%E7%BC%89+%E6%92%9E%E6%A0%91%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [高三师生的双向奔赴太戳了](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%89%E5%B8%88%E7%94%9F%E7%9A%84%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4%E5%A4%AA%E6%88%B3%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [罗永浩直播卖房 上架1分钟就被订下](https://www.baidu.com/s?wd=%E7%BD%97%E6%B0%B8%E6%B5%A9%E7%9B%B4%E6%92%AD%E5%8D%96%E6%88%BF+%E4%B8%8A%E6%9E%B61%E5%88%86%E9%92%9F%E5%B0%B1%E8%A2%AB%E8%AE%A2%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [侵害不满14周岁未成年人犯罪上升](https://www.baidu.com/s?wd=%E4%BE%B5%E5%AE%B3%E4%B8%8D%E6%BB%A114%E5%91%A8%E5%B2%81%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E7%8A%AF%E7%BD%AA%E4%B8%8A%E5%8D%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [浙江一娱乐公司发生抢劫案 警方通报](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E5%A8%B1%E4%B9%90%E5%85%AC%E5%8F%B8%E5%8F%91%E7%94%9F%E6%8A%A2%E5%8A%AB%E6%A1%88+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -42,8 +42,8 @@
 2. [拜登在毕业典礼上狠狠摔了一跤](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E5%9C%A8%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E4%B8%8A%E7%8B%A0%E7%8B%A0%E6%91%94%E4%BA%86%E4%B8%80%E8%B7%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [林青霞邀请莫言家中做客吃饺子](https://www.baidu.com/s?wd=%E6%9E%97%E9%9D%92%E9%9C%9E%E9%82%80%E8%AF%B7%E8%8E%AB%E8%A8%80%E5%AE%B6%E4%B8%AD%E5%81%9A%E5%AE%A2%E5%90%83%E9%A5%BA%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [从未见过发射的航天人](https://www.baidu.com/s?wd=%E4%BB%8E%E6%9C%AA%E8%A7%81%E8%BF%87%E5%8F%91%E5%B0%84%E7%9A%84%E8%88%AA%E5%A4%A9%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [浙江一娱乐公司发生抢劫案 警方通报](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E5%A8%B1%E4%B9%90%E5%85%AC%E5%8F%B8%E5%8F%91%E7%94%9F%E6%8A%A2%E5%8A%AB%E6%A1%88+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [老人高铁上用菜刀削苹果？铁路回应](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E9%AB%98%E9%93%81%E4%B8%8A%E7%94%A8%E8%8F%9C%E5%88%80%E5%89%8A%E8%8B%B9%E6%9E%9C%EF%BC%9F%E9%93%81%E8%B7%AF%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [酒驾司机遭交警追缉 撞树死亡](https://www.baidu.com/s?wd=%E9%85%92%E9%A9%BE%E5%8F%B8%E6%9C%BA%E9%81%AD%E4%BA%A4%E8%AD%A6%E8%BF%BD%E7%BC%89+%E6%92%9E%E6%A0%91%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [高三师生的双向奔赴太戳了](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%89%E5%B8%88%E7%94%9F%E7%9A%84%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4%E5%A4%AA%E6%88%B3%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [罗永浩直播卖房 上架1分钟就被订下](https://www.baidu.com/s?wd=%E7%BD%97%E6%B0%B8%E6%B5%A9%E7%9B%B4%E6%92%AD%E5%8D%96%E6%88%BF+%E4%B8%8A%E6%9E%B61%E5%88%86%E9%92%9F%E5%B0%B1%E8%A2%AB%E8%AE%A2%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [侵害不满14周岁未成年人犯罪上升](https://www.baidu.com/s?wd=%E4%BE%B5%E5%AE%B3%E4%B8%8D%E6%BB%A114%E5%91%A8%E5%B2%81%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E7%8A%AF%E7%BD%AA%E4%B8%8A%E5%8D%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [浙江一娱乐公司发生抢劫案 警方通报](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E5%A8%B1%E4%B9%90%E5%85%AC%E5%8F%B8%E5%8F%91%E7%94%9F%E6%8A%A2%E5%8A%AB%E6%A1%88+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
