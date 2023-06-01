@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 19:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 19:15:01</h4></div>
 
 > 微博  
 
@@ -20,7 +20,7 @@
 4. [教育部表示 2023 年全国高考报名人数 1291 万人，再创历史新高，哪些信息值得关注？](https://www.zhihu.com/question/604181829)<br />
 5. [如何看待中医宣传电视剧《后浪》对中医声誉的影响？](https://www.zhihu.com/question/602238708)<br />
 6. [国产武侠动画《镖人》开播，有哪些关注点？](https://www.zhihu.com/question/604055033)<br />
-7. []()<br />
+7. [视力一直在下降，但是手机和电脑又不能不用，该怎样减缓视力下降呢？](https://www.zhihu.com/question/604228361)<br />
 8. [618 有什么值得买的油烟机推荐？](https://www.zhihu.com/question/604195674)<br />
 9. [问问司机们，你们开长途的极限是多少公里？](https://www.zhihu.com/question/601256527)<br />
 
