@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 20:06:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 20:07:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [杨洋王楚然剧照 太阳的后裔](https://s.weibo.com/weibo?q=%E6%9D%A8%E6%B4%8B%E7%8E%8B%E6%A5%9A%E7%84%B6%E5%89%A7%E7%85%A7%20%E5%A4%AA%E9%98%B3%E7%9A%84%E5%90%8E%E8%A3%94&t=31&band_rank=4&Refer=top)<br />
 5. [二三十了还觉得自己是个小孩正常吗](https://s.weibo.com/weibo?q=%23%E4%BA%8C%E4%B8%89%E5%8D%81%E4%BA%86%E8%BF%98%E8%A7%89%E5%BE%97%E8%87%AA%E5%B7%B1%E6%98%AF%E4%B8%AA%E5%B0%8F%E5%AD%A9%E6%AD%A3%E5%B8%B8%E5%90%97%23&t=31&band_rank=5&Refer=top)<br />
 6. [酷云](https://s.weibo.com/weibo?q=%E9%85%B7%E4%BA%91&t=31&band_rank=6&Refer=top)<br />
-7. [护心热度](https://s.weibo.com/weibo?q=%E6%8A%A4%E5%BF%83%E7%83%AD%E5%BA%A6&t=31&band_rank=7&Refer=top)<br />
-8. [EXO是我们公司非常珍惜的艺人](https://s.weibo.com/weibo?q=%23EXO%E6%98%AF%E6%88%91%E4%BB%AC%E5%85%AC%E5%8F%B8%E9%9D%9E%E5%B8%B8%E7%8F%8D%E6%83%9C%E7%9A%84%E8%89%BA%E4%BA%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [少爷和我再合体](https://s.weibo.com/weibo?q=%23%E5%B0%91%E7%88%B7%E5%92%8C%E6%88%91%E5%86%8D%E5%90%88%E4%BD%93%23&t=31&band_rank=9&Refer=top)<br />
+7. [EXO是我们公司非常珍惜的艺人](https://s.weibo.com/weibo?q=%23EXO%E6%98%AF%E6%88%91%E4%BB%AC%E5%85%AC%E5%8F%B8%E9%9D%9E%E5%B8%B8%E7%8F%8D%E6%83%9C%E7%9A%84%E8%89%BA%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
+8. [护心热度](https://s.weibo.com/weibo?q=%E6%8A%A4%E5%BF%83%E7%83%AD%E5%BA%A6&t=31&band_rank=8&Refer=top)<br />
+9. [弟弟故意输掉比赛守护坐轮椅姐姐](https://s.weibo.com/weibo?q=%23%E5%BC%9F%E5%BC%9F%E6%95%85%E6%84%8F%E8%BE%93%E6%8E%89%E6%AF%94%E8%B5%9B%E5%AE%88%E6%8A%A4%E5%9D%90%E8%BD%AE%E6%A4%85%E5%A7%90%E5%A7%90%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -18,7 +18,7 @@
 2. [贾跃亭的 FF 再次花式延期交付，提车先付 220 万元全款，哪些信息值得关注？](https://www.zhihu.com/question/604057913)<br />
 3. [莫斯科遭大规模无人机袭击，目前局势如何？如何看待无人机在现代战争中的作用？](https://www.zhihu.com/question/604170757)<br />
 4. [教育部表示 2023 年全国高考报名人数 1291 万人，再创历史新高，哪些信息值得关注？](https://www.zhihu.com/question/604181829)<br />
-5. [2023 高考报名人数 1291 万人创历史新高，哪些专业宁愿复读也不考虑？](https://www.zhihu.com/theater/10768)<br />
+5. [人工智能、生物工程会是 4 年后的风口专业吗？还有哪些专业比较合适？](https://www.zhihu.com/theater/10768)<br />
 6. [视力一直在下降，但是手机和电脑又不能不用，该怎样减缓视力下降呢？](https://www.zhihu.com/question/604228361)<br />
 7. [如何不提雨，能描述雨很大？](https://www.zhihu.com/question/603676744)<br />
 8. [如何评价动画电影《哆啦 A 梦：大雄与天空的理想乡》？](https://www.zhihu.com/question/601904074)<br />
