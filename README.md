@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 07:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 07:47:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [早知道烂厂里了](https://s.weibo.com/weibo?q=%E6%97%A9%E7%9F%A5%E9%81%93%E7%83%82%E5%8E%82%E9%87%8C%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
 5. [王诗龄晒健身照](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%AF%97%E9%BE%84%E6%99%92%E5%81%A5%E8%BA%AB%E7%85%A7%23&t=31&band_rank=5&Refer=top)<br />
 6. [我其实是一只水母 装成人的模样社交](https://s.weibo.com/weibo?q=%E6%88%91%E5%85%B6%E5%AE%9E%E6%98%AF%E4%B8%80%E5%8F%AA%E6%B0%B4%E6%AF%8D%20%E8%A3%85%E6%88%90%E4%BA%BA%E7%9A%84%E6%A8%A1%E6%A0%B7%E7%A4%BE%E4%BA%A4&t=31&band_rank=6&Refer=top)<br />
-7. [学术妲己](https://s.weibo.com/weibo?q=%E5%AD%A6%E6%9C%AF%E5%A6%B2%E5%B7%B1&t=31&band_rank=7&Refer=top)<br />
-8. [网传老人在高铁上用菜刀削苹果](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E8%80%81%E4%BA%BA%E5%9C%A8%E9%AB%98%E9%93%81%E4%B8%8A%E7%94%A8%E8%8F%9C%E5%88%80%E5%89%8A%E8%8B%B9%E6%9E%9C%23&t=31&band_rank=8&Refer=top)<br />
-9. [肖战台词](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%8F%B0%E8%AF%8D&t=31&band_rank=9&Refer=top)<br />
+7. [肖战台词](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%8F%B0%E8%AF%8D&t=31&band_rank=7&Refer=top)<br />
+8. [学术妲己](https://s.weibo.com/weibo?q=%E5%AD%A6%E6%9C%AF%E5%A6%B2%E5%B7%B1&t=31&band_rank=8&Refer=top)<br />
+9. [网传老人在高铁上用菜刀削苹果](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E8%80%81%E4%BA%BA%E5%9C%A8%E9%AB%98%E9%93%81%E4%B8%8A%E7%94%A8%E8%8F%9C%E5%88%80%E5%89%8A%E8%8B%B9%E6%9E%9C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -18,7 +18,7 @@
 2. [罗永浩直播卖房，上架 1 分钟就被订下，总价 205 万，直播卖房会引发跟风吗？直播买房有哪些风险？](https://www.zhihu.com/question/604265383)<br />
 3. [如何评价原神 3.7 版本，6 月 1 日新深渊？](https://www.zhihu.com/question/604176024)<br />
 4. [邻居说让他儿子到我家吃中饭，按 15 元一顿给钱，能同意吗?](https://www.zhihu.com/question/603469319)<br />
-5. []()<br />
+5. [香格里拉对话会 6 月 2 日召开，中国新防长将首次出席，此次香会有哪些看点值得关注？](https://www.zhihu.com/question/604227433)<br />
 6. [有人让 ChatGPT 做高三试卷，英语、历史等文字性内容成功率非常高，只有物理得零分，如何看待此事？](https://www.zhihu.com/question/604261512)<br />
 7. [黄蓉死在襄阳的时候，黄药师为什么不来救女儿？](https://www.zhihu.com/question/598195157)<br />
 8. [为什么我们中学物理课本，只承认古希腊的阿基米德的杠杆定理，而不认墨子的杠杆定理？](https://www.zhihu.com/question/603979051)<br />
