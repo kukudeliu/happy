@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 23:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 23:23:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [梦中的那片海开播收视率](https://s.weibo.com/weibo?q=%23%E6%A2%A6%E4%B8%AD%E7%9A%84%E9%82%A3%E7%89%87%E6%B5%B7%E5%BC%80%E6%92%AD%E6%94%B6%E8%A7%86%E7%8E%87%23&t=31&band_rank=5&Refer=top)<br />
 6. [五月天王源合唱](https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E7%8E%8B%E6%BA%90%E5%90%88%E5%94%B1%23&t=31&band_rank=6&Refer=top)<br />
 7. [Jennie小松菜奈热聊](https://s.weibo.com/weibo?q=%23Jennie%E5%B0%8F%E6%9D%BE%E8%8F%9C%E5%A5%88%E7%83%AD%E8%81%8A%23&t=31&band_rank=7&Refer=top)<br />
-8. [柳州与女子不雅聊天公职人员被免职](https://s.weibo.com/weibo?q=%23%E6%9F%B3%E5%B7%9E%E4%B8%8E%E5%A5%B3%E5%AD%90%E4%B8%8D%E9%9B%85%E8%81%8A%E5%A4%A9%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E8%A2%AB%E5%85%8D%E8%81%8C%23&t=31&band_rank=8&Refer=top)<br />
-9. [专家称不排除二阳后还会有三阳](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E4%B8%8D%E6%8E%92%E9%99%A4%E4%BA%8C%E9%98%B3%E5%90%8E%E8%BF%98%E4%BC%9A%E6%9C%89%E4%B8%89%E9%98%B3%23&t=31&band_rank=9&Refer=top)<br />
+8. [专家称不排除二阳后还会有三阳](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E4%B8%8D%E6%8E%92%E9%99%A4%E4%BA%8C%E9%98%B3%E5%90%8E%E8%BF%98%E4%BC%9A%E6%9C%89%E4%B8%89%E9%98%B3%23&t=31&band_rank=8&Refer=top)<br />
+9. [柳州与女子不雅聊天公职人员被免职](https://s.weibo.com/weibo?q=%23%E6%9F%B3%E5%B7%9E%E4%B8%8E%E5%A5%B3%E5%AD%90%E4%B8%8D%E9%9B%85%E8%81%8A%E5%A4%A9%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E8%A2%AB%E5%85%8D%E8%81%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -33,8 +33,8 @@
 5. [金智秀新冠确诊](https://www.baidu.com/s?wd=%E9%87%91%E6%99%BA%E7%A7%80%E6%96%B0%E5%86%A0%E7%A1%AE%E8%AF%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [酒驾司机遭交警追缉 撞树死亡](https://www.baidu.com/s?wd=%E9%85%92%E9%A9%BE%E5%8F%B8%E6%9C%BA%E9%81%AD%E4%BA%A4%E8%AD%A6%E8%BF%BD%E7%BC%89+%E6%92%9E%E6%A0%91%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [海南警方儿童节又整活了](https://www.baidu.com/s?wd=%E6%B5%B7%E5%8D%97%E8%AD%A6%E6%96%B9%E5%84%BF%E7%AB%A5%E8%8A%82%E5%8F%88%E6%95%B4%E6%B4%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [周冬雨现身五月天演唱会](https://www.baidu.com/s?wd=%E5%91%A8%E5%86%AC%E9%9B%A8%E7%8E%B0%E8%BA%AB%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [李念官宣三胎产子](https://www.baidu.com/s?wd=%E6%9D%8E%E5%BF%B5%E5%AE%98%E5%AE%A3%E4%B8%89%E8%83%8E%E4%BA%A7%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [幼儿园3岁女童死亡 警方介入](https://www.baidu.com/s?wd=%E5%B9%BC%E5%84%BF%E5%9B%AD3%E5%B2%81%E5%A5%B3%E7%AB%A5%E6%AD%BB%E4%BA%A1+%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [高三师生的双向奔赴太戳了](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%89%E5%B8%88%E7%94%9F%E7%9A%84%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4%E5%A4%AA%E6%88%B3%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [金智秀新冠确诊](https://www.baidu.com/s?wd=%E9%87%91%E6%99%BA%E7%A7%80%E6%96%B0%E5%86%A0%E7%A1%AE%E8%AF%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [酒驾司机遭交警追缉 撞树死亡](https://www.baidu.com/s?wd=%E9%85%92%E9%A9%BE%E5%8F%B8%E6%9C%BA%E9%81%AD%E4%BA%A4%E8%AD%A6%E8%BF%BD%E7%BC%89+%E6%92%9E%E6%A0%91%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [海南警方儿童节又整活了](https://www.baidu.com/s?wd=%E6%B5%B7%E5%8D%97%E8%AD%A6%E6%96%B9%E5%84%BF%E7%AB%A5%E8%8A%82%E5%8F%88%E6%95%B4%E6%B4%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [周冬雨现身五月天演唱会](https://www.baidu.com/s?wd=%E5%91%A8%E5%86%AC%E9%9B%A8%E7%8E%B0%E8%BA%AB%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [李念官宣三胎产子](https://www.baidu.com/s?wd=%E6%9D%8E%E5%BF%B5%E5%AE%98%E5%AE%A3%E4%B8%89%E8%83%8E%E4%BA%A7%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [幼儿园3岁女童死亡 警方介入](https://www.baidu.com/s?wd=%E5%B9%BC%E5%84%BF%E5%9B%AD3%E5%B2%81%E5%A5%B3%E7%AB%A5%E6%AD%BB%E4%BA%A1+%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [高三师生的双向奔赴太戳了](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%89%E5%B8%88%E7%94%9F%E7%9A%84%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4%E5%A4%AA%E6%88%B3%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
