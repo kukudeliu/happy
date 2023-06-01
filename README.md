@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 04:43:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 04:44:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [酒驾司机遭交警追缉 撞树死亡](https://www.baidu.com/s?wd=%E9%85%92%E9%A9%BE%E5%8F%B8%E6%9C%BA%E9%81%AD%E4%BA%A4%E8%AD%A6%E8%BF%BD%E7%BC%89+%E6%92%9E%E6%A0%91%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [河南一村庄修路挖出大石龟](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E6%9D%91%E5%BA%84%E4%BF%AE%E8%B7%AF%E6%8C%96%E5%87%BA%E5%A4%A7%E7%9F%B3%E9%BE%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [李念官宣三胎产子](https://www.baidu.com/s?wd=%E6%9D%8E%E5%BF%B5%E5%AE%98%E5%AE%A3%E4%B8%89%E8%83%8E%E4%BA%A7%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [老人街头寻女被骗77万元](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E8%A1%97%E5%A4%B4%E5%AF%BB%E5%A5%B3%E8%A2%AB%E9%AA%9777%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [迪丽热巴回应脸不像检察官](https://www.baidu.com/s?wd=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%9B%9E%E5%BA%94%E8%84%B8%E4%B8%8D%E5%83%8F%E6%A3%80%E5%AF%9F%E5%AE%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [酒驾司机遭交警追缉 撞树死亡](https://www.baidu.com/s?wd=%E9%85%92%E9%A9%BE%E5%8F%B8%E6%9C%BA%E9%81%AD%E4%BA%A4%E8%AD%A6%E8%BF%BD%E7%BC%89+%E6%92%9E%E6%A0%91%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [河南一村庄修路挖出大石龟](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E6%9D%91%E5%BA%84%E4%BF%AE%E8%B7%AF%E6%8C%96%E5%87%BA%E5%A4%A7%E7%9F%B3%E9%BE%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [李念官宣三胎产子](https://www.baidu.com/s?wd=%E6%9D%8E%E5%BF%B5%E5%AE%98%E5%AE%A3%E4%B8%89%E8%83%8E%E4%BA%A7%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [老人街头寻女被骗77万元](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E8%A1%97%E5%A4%B4%E5%AF%BB%E5%A5%B3%E8%A2%AB%E9%AA%9777%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [迪丽热巴回应脸不像检察官](https://www.baidu.com/s?wd=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%9B%9E%E5%BA%94%E8%84%B8%E4%B8%8D%E5%83%8F%E6%A3%80%E5%AF%9F%E5%AE%98&sa=fyb_news&rsv_dl=fyb_news)<br />
