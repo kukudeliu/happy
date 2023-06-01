@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 23:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 23:39:01</h4></div>
 
 > 微博  
 
@@ -32,8 +32,8 @@
 4. [以教育之强夯实国家富强之基](https://www.baidu.com/s?wd=%E4%BB%A5%E6%95%99%E8%82%B2%E4%B9%8B%E5%BC%BA%E5%A4%AF%E5%AE%9E%E5%9B%BD%E5%AE%B6%E5%AF%8C%E5%BC%BA%E4%B9%8B%E5%9F%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [金智秀新冠确诊](https://www.baidu.com/s?wd=%E9%87%91%E6%99%BA%E7%A7%80%E6%96%B0%E5%86%A0%E7%A1%AE%E8%AF%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [酒驾司机遭交警追缉 撞树死亡](https://www.baidu.com/s?wd=%E9%85%92%E9%A9%BE%E5%8F%B8%E6%9C%BA%E9%81%AD%E4%BA%A4%E8%AD%A6%E8%BF%BD%E7%BC%89+%E6%92%9E%E6%A0%91%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [幼儿园3岁女童死亡 警方介入](https://www.baidu.com/s?wd=%E5%B9%BC%E5%84%BF%E5%9B%AD3%E5%B2%81%E5%A5%B3%E7%AB%A5%E6%AD%BB%E4%BA%A1+%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [高三师生的双向奔赴太戳了](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%89%E5%B8%88%E7%94%9F%E7%9A%84%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4%E5%A4%AA%E6%88%B3%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [高三师生的双向奔赴太戳了](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%89%E5%B8%88%E7%94%9F%E7%9A%84%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4%E5%A4%AA%E6%88%B3%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [幼儿园3岁女童死亡 警方介入](https://www.baidu.com/s?wd=%E5%B9%BC%E5%84%BF%E5%9B%AD3%E5%B2%81%E5%A5%B3%E7%AB%A5%E6%AD%BB%E4%BA%A1+%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [中方回应是否参加“乌和平峰会”](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%98%AF%E5%90%A6%E5%8F%82%E5%8A%A0%E2%80%9C%E4%B9%8C%E5%92%8C%E5%B9%B3%E5%B3%B0%E4%BC%9A%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -44,6 +44,6 @@
 4. [以教育之强夯实国家富强之基](https://www.baidu.com/s?wd=%E4%BB%A5%E6%95%99%E8%82%B2%E4%B9%8B%E5%BC%BA%E5%A4%AF%E5%AE%9E%E5%9B%BD%E5%AE%B6%E5%AF%8C%E5%BC%BA%E4%B9%8B%E5%9F%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [金智秀新冠确诊](https://www.baidu.com/s?wd=%E9%87%91%E6%99%BA%E7%A7%80%E6%96%B0%E5%86%A0%E7%A1%AE%E8%AF%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [酒驾司机遭交警追缉 撞树死亡](https://www.baidu.com/s?wd=%E9%85%92%E9%A9%BE%E5%8F%B8%E6%9C%BA%E9%81%AD%E4%BA%A4%E8%AD%A6%E8%BF%BD%E7%BC%89+%E6%92%9E%E6%A0%91%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [幼儿园3岁女童死亡 警方介入](https://www.baidu.com/s?wd=%E5%B9%BC%E5%84%BF%E5%9B%AD3%E5%B2%81%E5%A5%B3%E7%AB%A5%E6%AD%BB%E4%BA%A1+%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [高三师生的双向奔赴太戳了](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%89%E5%B8%88%E7%94%9F%E7%9A%84%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4%E5%A4%AA%E6%88%B3%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [高三师生的双向奔赴太戳了](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%89%E5%B8%88%E7%94%9F%E7%9A%84%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4%E5%A4%AA%E6%88%B3%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [幼儿园3岁女童死亡 警方介入](https://www.baidu.com/s?wd=%E5%B9%BC%E5%84%BF%E5%9B%AD3%E5%B2%81%E5%A5%B3%E7%AB%A5%E6%AD%BB%E4%BA%A1+%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [中方回应是否参加“乌和平峰会”](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%98%AF%E5%90%A6%E5%8F%82%E5%8A%A0%E2%80%9C%E4%B9%8C%E5%92%8C%E5%B9%B3%E5%B3%B0%E4%BC%9A%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
