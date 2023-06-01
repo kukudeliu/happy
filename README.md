@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 15:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 15:39:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [罗永浩直播卖房 上架1分钟就被订下](https://www.baidu.com/s?wd=%E7%BD%97%E6%B0%B8%E6%B5%A9%E7%9B%B4%E6%92%AD%E5%8D%96%E6%88%BF+%E4%B8%8A%E6%9E%B61%E5%88%86%E9%92%9F%E5%B0%B1%E8%A2%AB%E8%AE%A2%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [人民币汇率跌破7.1！原因找到了](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E5%B8%81%E6%B1%87%E7%8E%87%E8%B7%8C%E7%A0%B47.1%EF%BC%81%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子亲吻海报上女医生照片 医院回应](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%BA%B2%E5%90%BB%E6%B5%B7%E6%8A%A5%E4%B8%8A%E5%A5%B3%E5%8C%BB%E7%94%9F%E7%85%A7%E7%89%87+%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子输液被拔针扎进水桶系摆拍](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%BE%93%E6%B6%B2%E8%A2%AB%E6%8B%94%E9%92%88%E6%89%8E%E8%BF%9B%E6%B0%B4%E6%A1%B6%E7%B3%BB%E6%91%86%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [吴磊 快走吧哥们要累死了](https://www.baidu.com/s?wd=%E5%90%B4%E7%A3%8A+%E5%BF%AB%E8%B5%B0%E5%90%A7%E5%93%A5%E4%BB%AC%E8%A6%81%E7%B4%AF%E6%AD%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [罗永浩直播卖房 上架1分钟就被订下](https://www.baidu.com/s?wd=%E7%BD%97%E6%B0%B8%E6%B5%A9%E7%9B%B4%E6%92%AD%E5%8D%96%E6%88%BF+%E4%B8%8A%E6%9E%B61%E5%88%86%E9%92%9F%E5%B0%B1%E8%A2%AB%E8%AE%A2%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [人民币汇率跌破7.1！原因找到了](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E5%B8%81%E6%B1%87%E7%8E%87%E8%B7%8C%E7%A0%B47.1%EF%BC%81%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子亲吻海报上女医生照片 医院回应](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%BA%B2%E5%90%BB%E6%B5%B7%E6%8A%A5%E4%B8%8A%E5%A5%B3%E5%8C%BB%E7%94%9F%E7%85%A7%E7%89%87+%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子输液被拔针扎进水桶系摆拍](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%BE%93%E6%B6%B2%E8%A2%AB%E6%8B%94%E9%92%88%E6%89%8E%E8%BF%9B%E6%B0%B4%E6%A1%B6%E7%B3%BB%E6%91%86%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [吴磊 快走吧哥们要累死了](https://www.baidu.com/s?wd=%E5%90%B4%E7%A3%8A+%E5%BF%AB%E8%B5%B0%E5%90%A7%E5%93%A5%E4%BB%AC%E8%A6%81%E7%B4%AF%E6%AD%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
