@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 20:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 20:06:02</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [江歌母亲称已收到刘鑫全部赔偿款](https://www.baidu.com/s?wd=%E6%B1%9F%E6%AD%8C%E6%AF%8D%E4%BA%B2%E7%A7%B0%E5%B7%B2%E6%94%B6%E5%88%B0%E5%88%98%E9%91%AB%E5%85%A8%E9%83%A8%E8%B5%94%E5%81%BF%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [财阀家的小儿子将拍第二季](https://www.baidu.com/s?wd=%E8%B4%A2%E9%98%80%E5%AE%B6%E7%9A%84%E5%B0%8F%E5%84%BF%E5%AD%90%E5%B0%86%E6%8B%8D%E7%AC%AC%E4%BA%8C%E5%AD%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [8岁摄影师拍李现是被人抱起来的](https://www.baidu.com/s?wd=8%E5%B2%81%E6%91%84%E5%BD%B1%E5%B8%88%E6%8B%8D%E6%9D%8E%E7%8E%B0%E6%98%AF%E8%A2%AB%E4%BA%BA%E6%8A%B1%E8%B5%B7%E6%9D%A5%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [河南一村庄修路挖出大石龟](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E6%9D%91%E5%BA%84%E4%BF%AE%E8%B7%AF%E6%8C%96%E5%87%BA%E5%A4%A7%E7%9F%B3%E9%BE%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [挖呀挖黄老师发视频祝六一快乐](https://www.baidu.com/s?wd=%E6%8C%96%E5%91%80%E6%8C%96%E9%BB%84%E8%80%81%E5%B8%88%E5%8F%91%E8%A7%86%E9%A2%91%E7%A5%9D%E5%85%AD%E4%B8%80%E5%BF%AB%E4%B9%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [江歌母亲称已收到刘鑫全部赔偿款](https://www.baidu.com/s?wd=%E6%B1%9F%E6%AD%8C%E6%AF%8D%E4%BA%B2%E7%A7%B0%E5%B7%B2%E6%94%B6%E5%88%B0%E5%88%98%E9%91%AB%E5%85%A8%E9%83%A8%E8%B5%94%E5%81%BF%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [财阀家的小儿子将拍第二季](https://www.baidu.com/s?wd=%E8%B4%A2%E9%98%80%E5%AE%B6%E7%9A%84%E5%B0%8F%E5%84%BF%E5%AD%90%E5%B0%86%E6%8B%8D%E7%AC%AC%E4%BA%8C%E5%AD%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [8岁摄影师拍李现是被人抱起来的](https://www.baidu.com/s?wd=8%E5%B2%81%E6%91%84%E5%BD%B1%E5%B8%88%E6%8B%8D%E6%9D%8E%E7%8E%B0%E6%98%AF%E8%A2%AB%E4%BA%BA%E6%8A%B1%E8%B5%B7%E6%9D%A5%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [河南一村庄修路挖出大石龟](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E6%9D%91%E5%BA%84%E4%BF%AE%E8%B7%AF%E6%8C%96%E5%87%BA%E5%A4%A7%E7%9F%B3%E9%BE%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [挖呀挖黄老师发视频祝六一快乐](https://www.baidu.com/s?wd=%E6%8C%96%E5%91%80%E6%8C%96%E9%BB%84%E8%80%81%E5%B8%88%E5%8F%91%E8%A7%86%E9%A2%91%E7%A5%9D%E5%85%AD%E4%B8%80%E5%BF%AB%E4%B9%90&sa=fyb_news&rsv_dl=fyb_news)<br />
