@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 13:30:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 13:31:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [吴磊 快走吧哥们要累死了](https://s.weibo.com/weibo?q=%E5%90%B4%E7%A3%8A%20%E5%BF%AB%E8%B5%B0%E5%90%A7%E5%93%A5%E4%BB%AC%E8%A6%81%E7%B4%AF%E6%AD%BB%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [边伯贤金珉锡金钟大与SMTOWN解约](https://s.weibo.com/weibo?q=%23%E8%BE%B9%E4%BC%AF%E8%B4%A4%E9%87%91%E7%8F%89%E9%94%A1%E9%87%91%E9%92%9F%E5%A4%A7%E4%B8%8ESMTOWN%E8%A7%A3%E7%BA%A6%23&t=31&band_rank=7&Refer=top)<br />
 8. [情侣之间有必要过六一吗](https://s.weibo.com/weibo?q=%E6%83%85%E4%BE%A3%E4%B9%8B%E9%97%B4%E6%9C%89%E5%BF%85%E8%A6%81%E8%BF%87%E5%85%AD%E4%B8%80%E5%90%97&t=31&band_rank=8&Refer=top)<br />
-9. [假性亲密关系](https://s.weibo.com/weibo?q=%E5%81%87%E6%80%A7%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB&t=31&band_rank=9&Refer=top)<br />
+9. [杭州LGD更名](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9ELGD%E6%9B%B4%E5%90%8D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [贾跃亭的 FF 再次花式延期交付，提车先付 220 万元全款，哪些信息值得关注？](https://www.zhihu.com/question/604057913)<br />
 7. [如何评价《王者荣耀世界》5 月 30 日发布的多人战斗实机演示视频？](https://www.zhihu.com/question/603940332)<br />
 8. []()<br />
-9. [《塞尔达传说》系列为什么没中配？](https://www.zhihu.com/question/603774618)<br />
+9. [报道称英伟达 CEO 黄仁勋拟本月赴华，会见腾讯、字节跳动等企业高管，哪些信息值得关注？](https://www.zhihu.com/question/604175403)<br />
 
 > 百度  
 
