@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 03:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 03:08:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [专家称不排除二阳后还会有三阳](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E4%B8%8D%E6%8E%92%E9%99%A4%E4%BA%8C%E9%98%B3%E5%90%8E%E8%BF%98%E4%BC%9A%E6%9C%89%E4%B8%89%E9%98%B3%23&t=31&band_rank=6&Refer=top)<br />
 7. [辛选主播将成人喝的牛奶推荐给孩子](https://s.weibo.com/weibo?q=%23%E8%BE%9B%E9%80%89%E4%B8%BB%E6%92%AD%E5%B0%86%E6%88%90%E4%BA%BA%E5%96%9D%E7%9A%84%E7%89%9B%E5%A5%B6%E6%8E%A8%E8%8D%90%E7%BB%99%E5%AD%A9%E5%AD%90%23&t=31&band_rank=7&Refer=top)<br />
 8. [五月天王源合唱](https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E7%8E%8B%E6%BA%90%E5%90%88%E5%94%B1%23&t=31&band_rank=8&Refer=top)<br />
-9. [二三十了还觉得自己是个小孩正常吗](https://s.weibo.com/weibo?q=%23%E4%BA%8C%E4%B8%89%E5%8D%81%E4%BA%86%E8%BF%98%E8%A7%89%E5%BE%97%E8%87%AA%E5%B7%B1%E6%98%AF%E4%B8%AA%E5%B0%8F%E5%AD%A9%E6%AD%A3%E5%B8%B8%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
+9. [知道的以为你是追姑娘](https://s.weibo.com/weibo?q=%E7%9F%A5%E9%81%93%E7%9A%84%E4%BB%A5%E4%B8%BA%E4%BD%A0%E6%98%AF%E8%BF%BD%E5%A7%91%E5%A8%98&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. []()<br />
 7. [为什么我们中学物理课本，只承认古希腊的阿基米德的杠杆定理，而不认墨子的杠杆定理？](https://www.zhihu.com/question/603979051)<br />
 8. []()<br />
-9. [莫斯科遭大规模无人机袭击，目前局势如何？如何看待无人机在现代战争中的作用？](https://www.zhihu.com/question/604170757)<br />
+9. []()<br />
 
 > 百度  
 
