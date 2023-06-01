@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 19:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 19:39:01</h4></div>
 
 > 微博  
 
@@ -31,10 +31,10 @@
 3. [浙江一娱乐公司发生抢劫案 警方通报](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E5%A8%B1%E4%B9%90%E5%85%AC%E5%8F%B8%E5%8F%91%E7%94%9F%E6%8A%A2%E5%8A%AB%E6%A1%88+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [以教育之强夯实国家富强之基](https://www.baidu.com/s?wd=%E4%BB%A5%E6%95%99%E8%82%B2%E4%B9%8B%E5%BC%BA%E5%A4%AF%E5%AE%9E%E5%9B%BD%E5%AE%B6%E5%AF%8C%E5%BC%BA%E4%B9%8B%E5%9F%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [温州4起摘杨梅坠树警情 2人心跳停止](https://www.baidu.com/s?wd=%E6%B8%A9%E5%B7%9E4%E8%B5%B7%E6%91%98%E6%9D%A8%E6%A2%85%E5%9D%A0%E6%A0%91%E8%AD%A6%E6%83%85+2%E4%BA%BA%E5%BF%83%E8%B7%B3%E5%81%9C%E6%AD%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [女子称逛街被陌生男子直播造黄谣](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E9%80%9B%E8%A1%97%E8%A2%AB%E9%99%8C%E7%94%9F%E7%94%B7%E5%AD%90%E7%9B%B4%E6%92%AD%E9%80%A0%E9%BB%84%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [副乡长贪8万外逃5年 曾跳江自杀未果](https://www.baidu.com/s?wd=%E5%89%AF%E4%B9%A1%E9%95%BF%E8%B4%AA8%E4%B8%87%E5%A4%96%E9%80%835%E5%B9%B4+%E6%9B%BE%E8%B7%B3%E6%B1%9F%E8%87%AA%E6%9D%80%E6%9C%AA%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [江歌母亲称已收到刘鑫全部赔偿款](https://www.baidu.com/s?wd=%E6%B1%9F%E6%AD%8C%E6%AF%8D%E4%BA%B2%E7%A7%B0%E5%B7%B2%E6%94%B6%E5%88%B0%E5%88%98%E9%91%AB%E5%85%A8%E9%83%A8%E8%B5%94%E5%81%BF%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [罗永浩直播卖房 上架1分钟就被订下](https://www.baidu.com/s?wd=%E7%BD%97%E6%B0%B8%E6%B5%A9%E7%9B%B4%E6%92%AD%E5%8D%96%E6%88%BF+%E4%B8%8A%E6%9E%B61%E5%88%86%E9%92%9F%E5%B0%B1%E8%A2%AB%E8%AE%A2%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男生接女友下班遭车祸致1死1病危](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E6%8E%A5%E5%A5%B3%E5%8F%8B%E4%B8%8B%E7%8F%AD%E9%81%AD%E8%BD%A6%E7%A5%B8%E8%87%B41%E6%AD%BB1%E7%97%85%E5%8D%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [阜外医院徐波涉嫌严重违纪违法](https://www.baidu.com/s?wd=%E9%98%9C%E5%A4%96%E5%8C%BB%E9%99%A2%E5%BE%90%E6%B3%A2%E6%B6%89%E5%AB%8C%E4%B8%A5%E9%87%8D%E8%BF%9D%E7%BA%AA%E8%BF%9D%E6%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [浙江一娱乐公司发生抢劫案 警方通报](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E5%A8%B1%E4%B9%90%E5%85%AC%E5%8F%B8%E5%8F%91%E7%94%9F%E6%8A%A2%E5%8A%AB%E6%A1%88+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [以教育之强夯实国家富强之基](https://www.baidu.com/s?wd=%E4%BB%A5%E6%95%99%E8%82%B2%E4%B9%8B%E5%BC%BA%E5%A4%AF%E5%AE%9E%E5%9B%BD%E5%AE%B6%E5%AF%8C%E5%BC%BA%E4%B9%8B%E5%9F%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [温州4起摘杨梅坠树警情 2人心跳停止](https://www.baidu.com/s?wd=%E6%B8%A9%E5%B7%9E4%E8%B5%B7%E6%91%98%E6%9D%A8%E6%A2%85%E5%9D%A0%E6%A0%91%E8%AD%A6%E6%83%85+2%E4%BA%BA%E5%BF%83%E8%B7%B3%E5%81%9C%E6%AD%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [女子称逛街被陌生男子直播造黄谣](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E9%80%9B%E8%A1%97%E8%A2%AB%E9%99%8C%E7%94%9F%E7%94%B7%E5%AD%90%E7%9B%B4%E6%92%AD%E9%80%A0%E9%BB%84%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [副乡长贪8万外逃5年 曾跳江自杀未果](https://www.baidu.com/s?wd=%E5%89%AF%E4%B9%A1%E9%95%BF%E8%B4%AA8%E4%B8%87%E5%A4%96%E9%80%835%E5%B9%B4+%E6%9B%BE%E8%B7%B3%E6%B1%9F%E8%87%AA%E6%9D%80%E6%9C%AA%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [江歌母亲称已收到刘鑫全部赔偿款](https://www.baidu.com/s?wd=%E6%B1%9F%E6%AD%8C%E6%AF%8D%E4%BA%B2%E7%A7%B0%E5%B7%B2%E6%94%B6%E5%88%B0%E5%88%98%E9%91%AB%E5%85%A8%E9%83%A8%E8%B5%94%E5%81%BF%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [罗永浩直播卖房 上架1分钟就被订下](https://www.baidu.com/s?wd=%E7%BD%97%E6%B0%B8%E6%B5%A9%E7%9B%B4%E6%92%AD%E5%8D%96%E6%88%BF+%E4%B8%8A%E6%9E%B61%E5%88%86%E9%92%9F%E5%B0%B1%E8%A2%AB%E8%AE%A2%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男生接女友下班遭车祸致1死1病危](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E6%8E%A5%E5%A5%B3%E5%8F%8B%E4%B8%8B%E7%8F%AD%E9%81%AD%E8%BD%A6%E7%A5%B8%E8%87%B41%E6%AD%BB1%E7%97%85%E5%8D%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [阜外医院徐波涉嫌严重违纪违法](https://www.baidu.com/s?wd=%E9%98%9C%E5%A4%96%E5%8C%BB%E9%99%A2%E5%BE%90%E6%B3%A2%E6%B6%89%E5%AB%8C%E4%B8%A5%E9%87%8D%E8%BF%9D%E7%BA%AA%E8%BF%9D%E6%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
