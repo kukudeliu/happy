@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 04:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 04:14:01</h4></div>
 
 > 微博  
 
@@ -31,10 +31,10 @@
 3. [浙江一娱乐公司发生抢劫案 警方通报](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E5%A8%B1%E4%B9%90%E5%85%AC%E5%8F%B8%E5%8F%91%E7%94%9F%E6%8A%A2%E5%8A%AB%E6%A1%88+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [从未见过发射的航天人](https://www.baidu.com/s?wd=%E4%BB%8E%E6%9C%AA%E8%A7%81%E8%BF%87%E5%8F%91%E5%B0%84%E7%9A%84%E8%88%AA%E5%A4%A9%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [金智秀新冠确诊](https://www.baidu.com/s?wd=%E9%87%91%E6%99%BA%E7%A7%80%E6%96%B0%E5%86%A0%E7%A1%AE%E8%AF%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [温州4起摘杨梅坠树警情 2人心跳停止](https://www.baidu.com/s?wd=%E6%B8%A9%E5%B7%9E4%E8%B5%B7%E6%91%98%E6%9D%A8%E6%A2%85%E5%9D%A0%E6%A0%91%E8%AD%A6%E6%83%85+2%E4%BA%BA%E5%BF%83%E8%B7%B3%E5%81%9C%E6%AD%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [多地明确高考生自主决定是否戴口罩](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E6%98%8E%E7%A1%AE%E9%AB%98%E8%80%83%E7%94%9F%E8%87%AA%E4%B8%BB%E5%86%B3%E5%AE%9A%E6%98%AF%E5%90%A6%E6%88%B4%E5%8F%A3%E7%BD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [酒驾司机遭交警追缉 撞树死亡](https://www.baidu.com/s?wd=%E9%85%92%E9%A9%BE%E5%8F%B8%E6%9C%BA%E9%81%AD%E4%BA%A4%E8%AD%A6%E8%BF%BD%E7%BC%89+%E6%92%9E%E6%A0%91%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子退猫被拒后直接把猫摔死](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%80%80%E7%8C%AB%E8%A2%AB%E6%8B%92%E5%90%8E%E7%9B%B4%E6%8E%A5%E6%8A%8A%E7%8C%AB%E6%91%94%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [李念官宣三胎产子](https://www.baidu.com/s?wd=%E6%9D%8E%E5%BF%B5%E5%AE%98%E5%AE%A3%E4%B8%89%E8%83%8E%E4%BA%A7%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [温州4起摘杨梅坠树警情 2人心跳停止](https://www.baidu.com/s?wd=%E6%B8%A9%E5%B7%9E4%E8%B5%B7%E6%91%98%E6%9D%A8%E6%A2%85%E5%9D%A0%E6%A0%91%E8%AD%A6%E6%83%85+2%E4%BA%BA%E5%BF%83%E8%B7%B3%E5%81%9C%E6%AD%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子退猫被拒后直接把猫摔死](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%80%80%E7%8C%AB%E8%A2%AB%E6%8B%92%E5%90%8E%E7%9B%B4%E6%8E%A5%E6%8A%8A%E7%8C%AB%E6%91%94%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [浙江一娱乐公司发生抢劫案 警方通报](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E5%A8%B1%E4%B9%90%E5%85%AC%E5%8F%B8%E5%8F%91%E7%94%9F%E6%8A%A2%E5%8A%AB%E6%A1%88+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [从未见过发射的航天人](https://www.baidu.com/s?wd=%E4%BB%8E%E6%9C%AA%E8%A7%81%E8%BF%87%E5%8F%91%E5%B0%84%E7%9A%84%E8%88%AA%E5%A4%A9%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [金智秀新冠确诊](https://www.baidu.com/s?wd=%E9%87%91%E6%99%BA%E7%A7%80%E6%96%B0%E5%86%A0%E7%A1%AE%E8%AF%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [温州4起摘杨梅坠树警情 2人心跳停止](https://www.baidu.com/s?wd=%E6%B8%A9%E5%B7%9E4%E8%B5%B7%E6%91%98%E6%9D%A8%E6%A2%85%E5%9D%A0%E6%A0%91%E8%AD%A6%E6%83%85+2%E4%BA%BA%E5%BF%83%E8%B7%B3%E5%81%9C%E6%AD%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [多地明确高考生自主决定是否戴口罩](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E6%98%8E%E7%A1%AE%E9%AB%98%E8%80%83%E7%94%9F%E8%87%AA%E4%B8%BB%E5%86%B3%E5%AE%9A%E6%98%AF%E5%90%A6%E6%88%B4%E5%8F%A3%E7%BD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [酒驾司机遭交警追缉 撞树死亡](https://www.baidu.com/s?wd=%E9%85%92%E9%A9%BE%E5%8F%B8%E6%9C%BA%E9%81%AD%E4%BA%A4%E8%AD%A6%E8%BF%BD%E7%BC%89+%E6%92%9E%E6%A0%91%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子退猫被拒后直接把猫摔死](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%80%80%E7%8C%AB%E8%A2%AB%E6%8B%92%E5%90%8E%E7%9B%B4%E6%8E%A5%E6%8A%8A%E7%8C%AB%E6%91%94%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [李念官宣三胎产子](https://www.baidu.com/s?wd=%E6%9D%8E%E5%BF%B5%E5%AE%98%E5%AE%A3%E4%B8%89%E8%83%8E%E4%BA%A7%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [温州4起摘杨梅坠树警情 2人心跳停止](https://www.baidu.com/s?wd=%E6%B8%A9%E5%B7%9E4%E8%B5%B7%E6%91%98%E6%9D%A8%E6%A2%85%E5%9D%A0%E6%A0%91%E8%AD%A6%E6%83%85+2%E4%BA%BA%E5%BF%83%E8%B7%B3%E5%81%9C%E6%AD%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子退猫被拒后直接把猫摔死](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%80%80%E7%8C%AB%E8%A2%AB%E6%8B%92%E5%90%8E%E7%9B%B4%E6%8E%A5%E6%8A%8A%E7%8C%AB%E6%91%94%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
