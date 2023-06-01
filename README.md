@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 01:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 01:23:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [邻居说让他儿子到我家吃中饭，按 15 元一顿给钱，能同意吗?](https://www.zhihu.com/question/603469319)<br />
 6. []()<br />
 7. []()<br />
-8. [为什么我们中学物理课本，只承认古希腊的阿基米德的杠杆定理，而不认墨子的杠杆定理？](https://www.zhihu.com/question/603979051)<br />
-9. [请问这个是用什么软件画出来的图 (已排除 MATLAB）？](https://www.zhihu.com/question/597481574)<br />
+8. [请问这个是用什么软件画出来的图 (已排除 MATLAB）？](https://www.zhihu.com/question/597481574)<br />
+9. []()<br />
 
 > 百度  
 
