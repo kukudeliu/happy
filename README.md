@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 13:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 13:49:01</h4></div>
 
 > 微博  
 
@@ -33,7 +33,7 @@
 5. [云南昭通暴雨引发山洪致3死1失联](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E6%98%AD%E9%80%9A%E6%9A%B4%E9%9B%A8%E5%BC%95%E5%8F%91%E5%B1%B1%E6%B4%AA%E8%87%B43%E6%AD%BB1%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [观众称花千元在演唱会上看柱子](https://www.baidu.com/s?wd=%E8%A7%82%E4%BC%97%E7%A7%B0%E8%8A%B1%E5%8D%83%E5%85%83%E5%9C%A8%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E7%9C%8B%E6%9F%B1%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [赵立坚现身云南边境地区调研](https://www.baidu.com/s?wd=%E8%B5%B5%E7%AB%8B%E5%9D%9A%E7%8E%B0%E8%BA%AB%E4%BA%91%E5%8D%97%E8%BE%B9%E5%A2%83%E5%9C%B0%E5%8C%BA%E8%B0%83%E7%A0%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [高温下广东人的生活现状](https://www.baidu.com/s?wd=%E9%AB%98%E6%B8%A9%E4%B8%8B%E5%B9%BF%E4%B8%9C%E4%BA%BA%E7%9A%84%E7%94%9F%E6%B4%BB%E7%8E%B0%E7%8A%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [被人类幼崽萌化的瞬间](https://www.baidu.com/s?wd=%E8%A2%AB%E4%BA%BA%E7%B1%BB%E5%B9%BC%E5%B4%BD%E8%90%8C%E5%8C%96%E7%9A%84%E7%9E%AC%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [女子捧场朋友店被提前点7472元餐](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8D%A7%E5%9C%BA%E6%9C%8B%E5%8F%8B%E5%BA%97%E8%A2%AB%E6%8F%90%E5%89%8D%E7%82%B97472%E5%85%83%E9%A4%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [云南昭通暴雨引发山洪致3死1失联](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E6%98%AD%E9%80%9A%E6%9A%B4%E9%9B%A8%E5%BC%95%E5%8F%91%E5%B1%B1%E6%B4%AA%E8%87%B43%E6%AD%BB1%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [观众称花千元在演唱会上看柱子](https://www.baidu.com/s?wd=%E8%A7%82%E4%BC%97%E7%A7%B0%E8%8A%B1%E5%8D%83%E5%85%83%E5%9C%A8%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E7%9C%8B%E6%9F%B1%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [赵立坚现身云南边境地区调研](https://www.baidu.com/s?wd=%E8%B5%B5%E7%AB%8B%E5%9D%9A%E7%8E%B0%E8%BA%AB%E4%BA%91%E5%8D%97%E8%BE%B9%E5%A2%83%E5%9C%B0%E5%8C%BA%E8%B0%83%E7%A0%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [高温下广东人的生活现状](https://www.baidu.com/s?wd=%E9%AB%98%E6%B8%A9%E4%B8%8B%E5%B9%BF%E4%B8%9C%E4%BA%BA%E7%9A%84%E7%94%9F%E6%B4%BB%E7%8E%B0%E7%8A%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [被人类幼崽萌化的瞬间](https://www.baidu.com/s?wd=%E8%A2%AB%E4%BA%BA%E7%B1%BB%E5%B9%BC%E5%B4%BD%E8%90%8C%E5%8C%96%E7%9A%84%E7%9E%AC%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [女子捧场朋友店被提前点7472元餐](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8D%A7%E5%9C%BA%E6%9C%8B%E5%8F%8B%E5%BA%97%E8%A2%AB%E6%8F%90%E5%89%8D%E7%82%B97472%E5%85%83%E9%A4%90&sa=fyb_news&rsv_dl=fyb_news)<br />
