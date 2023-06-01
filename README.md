@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 21:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 21:37:01</h4></div>
 
 > 微博  
 
@@ -19,8 +19,8 @@
 3. [莫斯科遭大规模无人机袭击，目前局势如何？如何看待无人机在现代战争中的作用？](https://www.zhihu.com/question/604170757)<br />
 4. [陪领导出差，应该注意些什么？](https://www.zhihu.com/question/48114643)<br />
 5. [高考报名人数 1291 万人创新高，人工智能、生物工程会是 4 年后的风口专业吗？](https://www.zhihu.com/theater/10768)<br />
-6. [黄蓉死在襄阳的时候，黄药师为什么不来救女儿？](https://www.zhihu.com/question/598195157)<br />
-7. [2023 LPL 夏季赛 WBG 2:0 爆冷击败新晋季中赛冠军 JDG，如何评价这场比赛？](https://www.zhihu.com/question/604285477)<br />
+6. [2023 LPL 夏季赛 WBG 2:0 爆冷击败新晋季中赛冠军 JDG，如何评价这场比赛？](https://www.zhihu.com/question/604285477)<br />
+7. [黄蓉死在襄阳的时候，黄药师为什么不来救女儿？](https://www.zhihu.com/question/598195157)<br />
 8. [如果中国古代王朝，从小训练一批小男孩骑马射箭，这些男孩长大后，是否能够打仗打赢游牧民族的骑兵?](https://www.zhihu.com/question/603982529)<br />
 9. [邻居说让他儿子到我家吃中饭，按 15 元一顿给钱，能同意吗?](https://www.zhihu.com/question/603469319)<br />
 
