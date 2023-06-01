@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 17:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 17:41:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [如何看待中医题材电视剧《后浪》对中医的宣传？这可能会对社会造成哪些积极和消极影响？](https://www.zhihu.com/question/600901972)<br />
 7. [福州房地产中介协会出台指导意见，买、卖双方各收 1.5% 中介费，将带来哪些影响？](https://www.zhihu.com/question/604212660)<br />
 8. [为什么猫经常将自己的身体拉得很长?](https://www.zhihu.com/question/588627524)<br />
-9. [为什么很多人都把 thing 读成 sing？](https://www.zhihu.com/question/592089213)<br />
+9. [5 月财新中国制造业 PMI 录得 50.9 ，时隔两个月重回扩张区间，如何解读？](https://www.zhihu.com/question/604184178)<br />
 
 > 百度  
 
