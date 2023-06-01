@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 12:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 12:40:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [吴磊 快走吧哥们要累死了](https://s.weibo.com/weibo?q=%E5%90%B4%E7%A3%8A%20%E5%BF%AB%E8%B5%B0%E5%90%A7%E5%93%A5%E4%BB%AC%E8%A6%81%E7%B4%AF%E6%AD%BB%E4%BA%86&t=31&band_rank=2&Refer=top)<br />
 3. [中国航天员太空会师名场面再现](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%91%98%E5%A4%AA%E7%A9%BA%E4%BC%9A%E5%B8%88%E5%90%8D%E5%9C%BA%E9%9D%A2%E5%86%8D%E7%8E%B0%23&t=31&band_rank=3&Refer=top)<br />
 4. [杨幂IP地址在香港](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82IP%E5%9C%B0%E5%9D%80%E5%9C%A8%E9%A6%99%E6%B8%AF%23&t=31&band_rank=4&Refer=top)<br />
-5. [边伯贤金珉锡金钟大与SMTOWN解约](https://s.weibo.com/weibo?q=%23%E8%BE%B9%E4%BC%AF%E8%B4%A4%E9%87%91%E7%8F%89%E9%94%A1%E9%87%91%E9%92%9F%E5%A4%A7%E4%B8%8ESMTOWN%E8%A7%A3%E7%BA%A6%23&t=31&band_rank=5&Refer=top)<br />
-6. [事业单位](https://s.weibo.com/weibo?q=%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D&t=31&band_rank=6&Refer=top)<br />
+5. [事业单位](https://s.weibo.com/weibo?q=%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D&t=31&band_rank=5&Refer=top)<br />
+6. [边伯贤金珉锡金钟大与SMTOWN解约](https://s.weibo.com/weibo?q=%23%E8%BE%B9%E4%BC%AF%E8%B4%A4%E9%87%91%E7%8F%89%E9%94%A1%E9%87%91%E9%92%9F%E5%A4%A7%E4%B8%8ESMTOWN%E8%A7%A3%E7%BA%A6%23&t=31&band_rank=6&Refer=top)<br />
 7. [肖战刘芮麟新剧演兄弟](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%88%98%E8%8A%AE%E9%BA%9F%E6%96%B0%E5%89%A7%E6%BC%94%E5%85%84%E5%BC%9F%23&t=31&band_rank=7&Refer=top)<br />
 8. [出租房装的空调是5级能耗](https://s.weibo.com/weibo?q=%23%E5%87%BA%E7%A7%9F%E6%88%BF%E8%A3%85%E7%9A%84%E7%A9%BA%E8%B0%83%E6%98%AF5%E7%BA%A7%E8%83%BD%E8%80%97%23&t=31&band_rank=8&Refer=top)<br />
 9. [假性亲密关系](https://s.weibo.com/weibo?q=%E5%81%87%E6%80%A7%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB&t=31&band_rank=9&Refer=top)<br />
