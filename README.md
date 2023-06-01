@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 14:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 14:28:02</h4></div>
 
 > 微博  
 
@@ -18,8 +18,8 @@
 2. [莫斯科遭大规模无人机袭击，目前局势如何？如何看待无人机在现代战争中的作用？](https://www.zhihu.com/question/604170757)<br />
 3. [贾跃亭的 FF 再次花式延期交付，提车先付 220 万元全款，哪些信息值得关注？](https://www.zhihu.com/question/604057913)<br />
 4. [南部战区回应南海处置美军侦察机「依法依规，操作专业规范」，哪些信息值得关注？](https://www.zhihu.com/question/604177453)<br />
-5. [马斯克来华首日，特斯拉市值一夜大涨逾 250 亿美元，传达了什么信号？哪些信息值得关注？](https://www.zhihu.com/question/604022867)<br />
-6. [期望使用寿命三年以上的手机应该有哪些配置？](https://www.zhihu.com/question/604068014)<br />
+5. [期望使用寿命三年以上的手机应该有哪些配置？](https://www.zhihu.com/question/604068014)<br />
+6. [马斯克来华首日，特斯拉市值一夜大涨逾 250 亿美元，传达了什么信号？哪些信息值得关注？](https://www.zhihu.com/question/604022867)<br />
 7. [报道称英伟达 CEO 黄仁勋拟本月赴华，会见腾讯、字节跳动等企业高管，哪些信息值得关注？](https://www.zhihu.com/question/604175403)<br />
 8. [如何看待中医宣传电视剧《后浪》对中医声誉的影响？](https://www.zhihu.com/question/602238708)<br />
 9. [喜欢的男生也喜欢我，但是一直回避恋爱的话题，怎么推男生一把让他直面我们的关系？](https://www.zhihu.com/question/597339734)<br />
