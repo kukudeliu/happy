@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 14:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 14:58:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [如何看待中医宣传电视剧《后浪》对中医声誉的影响？](https://www.zhihu.com/question/602238708)<br />
 6. [报道称英伟达 CEO 黄仁勋拟本月赴华，会见腾讯、字节跳动等企业高管，哪些信息值得关注？](https://www.zhihu.com/question/604175403)<br />
 7. [为什么很多人都把 thing 读成 sing？](https://www.zhihu.com/question/592089213)<br />
-8. [2023 年 618，有哪些微单相机值得推荐？](https://www.zhihu.com/question/604133278)<br />
-9. [本泽马被曝收到来自沙特 2 年 4 亿欧元的报价，且他已将此消息告知皇马，你认为本泽马会离开皇马吗？](https://www.zhihu.com/question/603981363)<br />
+8. [22/23 赛季 欧联杯之王塞维利亚从 0:1 到 5:2 战胜罗马，第 7 次夺得欧联杯冠军，如何评价这场比赛？](https://www.zhihu.com/question/604164996)<br />
+9. [2023 年 618，有哪些微单相机值得推荐？](https://www.zhihu.com/question/604133278)<br />
 
 > 百度  
 
