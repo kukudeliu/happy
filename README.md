@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 19:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 20:00:02</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [教育部表示 2023 年全国高考报名人数 1291 万人，再创历史新高，哪些信息值得关注？](https://www.zhihu.com/question/604181829)<br />
 5. [人工智能、生物工程会是 4 年后的风口专业吗？还有哪些专业比较合适？](https://www.zhihu.com/theater/10768)<br />
 6. [视力一直在下降，但是手机和电脑又不能不用，该怎样减缓视力下降呢？](https://www.zhihu.com/question/604228361)<br />
-7. [如何看待王源演唱会女生穿婚纱?](https://www.zhihu.com/question/604035655)<br />
-8. [如何不提雨，能描述雨很大？](https://www.zhihu.com/question/603676744)<br />
-9. [如何评价动画电影《哆啦 A 梦：大雄与天空的理想乡》？](https://www.zhihu.com/question/601904074)<br />
+7. [如何不提雨，能描述雨很大？](https://www.zhihu.com/question/603676744)<br />
+8. [如何评价动画电影《哆啦 A 梦：大雄与天空的理想乡》？](https://www.zhihu.com/question/601904074)<br />
+9. [问问司机们，你们开长途的极限是多少公里？](https://www.zhihu.com/question/601256527)<br />
 
 > 百度  
 
