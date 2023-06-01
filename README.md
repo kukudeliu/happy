@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 15:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 15:22:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [莫斯科遭大规模无人机袭击，目前局势如何？如何看待无人机在现代战争中的作用？](https://www.zhihu.com/question/604170757)<br />
 5. [如何看待中医宣传电视剧《后浪》对中医声誉的影响？](https://www.zhihu.com/question/602238708)<br />
 6. [报道称英伟达 CEO 黄仁勋拟本月赴华，会见腾讯、字节跳动等企业高管，哪些信息值得关注？](https://www.zhihu.com/question/604175403)<br />
-7. [为什么很多人都把 thing 读成 sing？](https://www.zhihu.com/question/592089213)<br />
-8. [本人女生，想玩对抗路但是操作意识都没有，朋友也建议我玩辅助法师，我应该放弃练对抗路英雄吗？](https://www.zhihu.com/question/603807042)<br />
-9. [22/23 赛季 欧联杯之王塞维利亚从 0:1 到 5:2 战胜罗马，第 7 次夺得欧联杯冠军，如何评价这场比赛？](https://www.zhihu.com/question/604164996)<br />
+7. [教育部表示 2023 年全国高考报名人数 1291 万人，再创历史新高，哪些信息值得关注？](https://www.zhihu.com/question/604181829)<br />
+8. [为什么很多人都把 thing 读成 sing？](https://www.zhihu.com/question/592089213)<br />
+9. [本人女生，想玩对抗路但是操作意识都没有，朋友也建议我玩辅助法师，我应该放弃练对抗路英雄吗？](https://www.zhihu.com/question/603807042)<br />
 
 > 百度  
 
