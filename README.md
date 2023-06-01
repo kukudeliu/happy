@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 06:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 06:35:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [黄蓉死在襄阳的时候，黄药师为什么不来救女儿？](https://www.zhihu.com/question/598195157)<br />
 7. []()<br />
 8. []()<br />
-9. []()<br />
+9. [请问这个是用什么软件画出来的图 (已排除 MATLAB）？](https://www.zhihu.com/question/597481574)<br />
 
 > 百度  
 
