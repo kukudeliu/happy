@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 00:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 00:18:01</h4></div>
 
 > 微博  
 
 1. [专家称不排除二阳后还会有三阳](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E4%B8%8D%E6%8E%92%E9%99%A4%E4%BA%8C%E9%98%B3%E5%90%8E%E8%BF%98%E4%BC%9A%E6%9C%89%E4%B8%89%E9%98%B3%23&t=31&band_rank=1&Refer=top)<br />
-2. [肖战台词](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%8F%B0%E8%AF%8D&t=31&band_rank=2&Refer=top)<br />
+2. [学术妲己](https://s.weibo.com/weibo?q=%E5%AD%A6%E6%9C%AF%E5%A6%B2%E5%B7%B1&t=31&band_rank=2&Refer=top)<br />
 3. [这群幕后航天人对代码有着极致追求](https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%BE%A4%E5%B9%95%E5%90%8E%E8%88%AA%E5%A4%A9%E4%BA%BA%E5%AF%B9%E4%BB%A3%E7%A0%81%E6%9C%89%E7%9D%80%E6%9E%81%E8%87%B4%E8%BF%BD%E6%B1%82%23&t=31&band_rank=3&Refer=top)<br />
-4. [早知道烂厂里了](https://s.weibo.com/weibo?q=%E6%97%A9%E7%9F%A5%E9%81%93%E7%83%82%E5%8E%82%E9%87%8C%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
-5. [学术妲己](https://s.weibo.com/weibo?q=%E5%AD%A6%E6%9C%AF%E5%A6%B2%E5%B7%B1&t=31&band_rank=5&Refer=top)<br />
+4. [肖战台词](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%8F%B0%E8%AF%8D&t=31&band_rank=4&Refer=top)<br />
+5. [早知道烂厂里了](https://s.weibo.com/weibo?q=%E6%97%A9%E7%9F%A5%E9%81%93%E7%83%82%E5%8E%82%E9%87%8C%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
 6. [五月天王源合唱](https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E7%8E%8B%E6%BA%90%E5%90%88%E5%94%B1%23&t=31&band_rank=6&Refer=top)<br />
 7. [金智秀新冠确诊](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%BA%E7%A7%80%E6%96%B0%E5%86%A0%E7%A1%AE%E8%AF%8A%23&t=31&band_rank=7&Refer=top)<br />
 8. [女生穿婚纱看王源演唱会系盗图造谣](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E7%A9%BF%E5%A9%9A%E7%BA%B1%E7%9C%8B%E7%8E%8B%E6%BA%90%E6%BC%94%E5%94%B1%E4%BC%9A%E7%B3%BB%E7%9B%97%E5%9B%BE%E9%80%A0%E8%B0%A3%23&t=31&band_rank=8&Refer=top)<br />
