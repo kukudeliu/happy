@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 13:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 13:30:02</h4></div>
 
 > 微博  
 
@@ -31,10 +31,10 @@
 3. [网红扎堆到麦地直播割麦](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E6%89%8E%E5%A0%86%E5%88%B0%E9%BA%A6%E5%9C%B0%E7%9B%B4%E6%92%AD%E5%89%B2%E9%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [天宫再“会师” 对接新挑战](https://www.baidu.com/s?wd=%E5%A4%A9%E5%AE%AB%E5%86%8D%E2%80%9C%E4%BC%9A%E5%B8%88%E2%80%9D+%E5%AF%B9%E6%8E%A5%E6%96%B0%E6%8C%91%E6%88%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [成年人要理直气壮过儿童节](https://www.baidu.com/s?wd=%E6%88%90%E5%B9%B4%E4%BA%BA%E8%A6%81%E7%90%86%E7%9B%B4%E6%B0%94%E5%A3%AE%E8%BF%87%E5%84%BF%E7%AB%A5%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [女子捧场朋友店被提前点7472元餐](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8D%A7%E5%9C%BA%E6%9C%8B%E5%8F%8B%E5%BA%97%E8%A2%AB%E6%8F%90%E5%89%8D%E7%82%B97472%E5%85%83%E9%A4%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [观众称花千元在演唱会上看柱子](https://www.baidu.com/s?wd=%E8%A7%82%E4%BC%97%E7%A7%B0%E8%8A%B1%E5%8D%83%E5%85%83%E5%9C%A8%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E7%9C%8B%E6%9F%B1%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [吴磊 快走吧哥们要累死了](https://www.baidu.com/s?wd=%E5%90%B4%E7%A3%8A+%E5%BF%AB%E8%B5%B0%E5%90%A7%E5%93%A5%E4%BB%AC%E8%A6%81%E7%B4%AF%E6%AD%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [襄阳一初中学生集体宣誓终生不买烟](https://www.baidu.com/s?wd=%E8%A5%84%E9%98%B3%E4%B8%80%E5%88%9D%E4%B8%AD%E5%AD%A6%E7%94%9F%E9%9B%86%E4%BD%93%E5%AE%A3%E8%AA%93%E7%BB%88%E7%94%9F%E4%B8%8D%E4%B9%B0%E7%83%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [观众称花千元在演唱会上看柱子](https://www.baidu.com/s?wd=%E8%A7%82%E4%BC%97%E7%A7%B0%E8%8A%B1%E5%8D%83%E5%85%83%E5%9C%A8%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E7%9C%8B%E6%9F%B1%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子捧场朋友店被提前点7472元餐](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8D%A7%E5%9C%BA%E6%9C%8B%E5%8F%8B%E5%BA%97%E8%A2%AB%E6%8F%90%E5%89%8D%E7%82%B97472%E5%85%83%E9%A4%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [赵立坚现身云南边境地区调研](https://www.baidu.com/s?wd=%E8%B5%B5%E7%AB%8B%E5%9D%9A%E7%8E%B0%E8%BA%AB%E4%BA%91%E5%8D%97%E8%BE%B9%E5%A2%83%E5%9C%B0%E5%8C%BA%E8%B0%83%E7%A0%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [吴磊 快走吧哥们要累死了](https://www.baidu.com/s?wd=%E5%90%B4%E7%A3%8A+%E5%BF%AB%E8%B5%B0%E5%90%A7%E5%93%A5%E4%BB%AC%E8%A6%81%E7%B4%AF%E6%AD%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [网红扎堆到麦地直播割麦](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E6%89%8E%E5%A0%86%E5%88%B0%E9%BA%A6%E5%9C%B0%E7%9B%B4%E6%92%AD%E5%89%B2%E9%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [天宫再“会师” 对接新挑战](https://www.baidu.com/s?wd=%E5%A4%A9%E5%AE%AB%E5%86%8D%E2%80%9C%E4%BC%9A%E5%B8%88%E2%80%9D+%E5%AF%B9%E6%8E%A5%E6%96%B0%E6%8C%91%E6%88%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [成年人要理直气壮过儿童节](https://www.baidu.com/s?wd=%E6%88%90%E5%B9%B4%E4%BA%BA%E8%A6%81%E7%90%86%E7%9B%B4%E6%B0%94%E5%A3%AE%E8%BF%87%E5%84%BF%E7%AB%A5%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [女子捧场朋友店被提前点7472元餐](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8D%A7%E5%9C%BA%E6%9C%8B%E5%8F%8B%E5%BA%97%E8%A2%AB%E6%8F%90%E5%89%8D%E7%82%B97472%E5%85%83%E9%A4%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [观众称花千元在演唱会上看柱子](https://www.baidu.com/s?wd=%E8%A7%82%E4%BC%97%E7%A7%B0%E8%8A%B1%E5%8D%83%E5%85%83%E5%9C%A8%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E7%9C%8B%E6%9F%B1%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [吴磊 快走吧哥们要累死了](https://www.baidu.com/s?wd=%E5%90%B4%E7%A3%8A+%E5%BF%AB%E8%B5%B0%E5%90%A7%E5%93%A5%E4%BB%AC%E8%A6%81%E7%B4%AF%E6%AD%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [襄阳一初中学生集体宣誓终生不买烟](https://www.baidu.com/s?wd=%E8%A5%84%E9%98%B3%E4%B8%80%E5%88%9D%E4%B8%AD%E5%AD%A6%E7%94%9F%E9%9B%86%E4%BD%93%E5%AE%A3%E8%AA%93%E7%BB%88%E7%94%9F%E4%B8%8D%E4%B9%B0%E7%83%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [观众称花千元在演唱会上看柱子](https://www.baidu.com/s?wd=%E8%A7%82%E4%BC%97%E7%A7%B0%E8%8A%B1%E5%8D%83%E5%85%83%E5%9C%A8%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E7%9C%8B%E6%9F%B1%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子捧场朋友店被提前点7472元餐](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8D%A7%E5%9C%BA%E6%9C%8B%E5%8F%8B%E5%BA%97%E8%A2%AB%E6%8F%90%E5%89%8D%E7%82%B97472%E5%85%83%E9%A4%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [赵立坚现身云南边境地区调研](https://www.baidu.com/s?wd=%E8%B5%B5%E7%AB%8B%E5%9D%9A%E7%8E%B0%E8%BA%AB%E4%BA%91%E5%8D%97%E8%BE%B9%E5%A2%83%E5%9C%B0%E5%8C%BA%E8%B0%83%E7%A0%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [吴磊 快走吧哥们要累死了](https://www.baidu.com/s?wd=%E5%90%B4%E7%A3%8A+%E5%BF%AB%E8%B5%B0%E5%90%A7%E5%93%A5%E4%BB%AC%E8%A6%81%E7%B4%AF%E6%AD%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
