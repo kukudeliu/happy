@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 10:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 10:18:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [假性亲密关系](https://s.weibo.com/weibo?q=%E5%81%87%E6%80%A7%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB&t=31&band_rank=4&Refer=top)<br />
 5. [胡可说不要把另一半当自己人](https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%8F%AF%E8%AF%B4%E4%B8%8D%E8%A6%81%E6%8A%8A%E5%8F%A6%E4%B8%80%E5%8D%8A%E5%BD%93%E8%87%AA%E5%B7%B1%E4%BA%BA%23&t=31&band_rank=5&Refer=top)<br />
 6. [EXO还回归吗](https://s.weibo.com/weibo?q=EXO%E8%BF%98%E5%9B%9E%E5%BD%92%E5%90%97&t=31&band_rank=6&Refer=top)<br />
-7. [出租房装的空调是5级能耗](https://s.weibo.com/weibo?q=%23%E5%87%BA%E7%A7%9F%E6%88%BF%E8%A3%85%E7%9A%84%E7%A9%BA%E8%B0%83%E6%98%AF5%E7%BA%A7%E8%83%BD%E8%80%97%23&t=31&band_rank=7&Refer=top)<br />
-8. [别把医术拍成了法术](https://s.weibo.com/weibo?q=%23%E5%88%AB%E6%8A%8A%E5%8C%BB%E6%9C%AF%E6%8B%8D%E6%88%90%E4%BA%86%E6%B3%95%E6%9C%AF%23&t=31&band_rank=8&Refer=top)<br />
+7. [别把医术拍成了法术](https://s.weibo.com/weibo?q=%23%E5%88%AB%E6%8A%8A%E5%8C%BB%E6%9C%AF%E6%8B%8D%E6%88%90%E4%BA%86%E6%B3%95%E6%9C%AF%23&t=31&band_rank=7&Refer=top)<br />
+8. [出租房装的空调是5级能耗](https://s.weibo.com/weibo?q=%23%E5%87%BA%E7%A7%9F%E6%88%BF%E8%A3%85%E7%9A%84%E7%A9%BA%E8%B0%83%E6%98%AF5%E7%BA%A7%E8%83%BD%E8%80%97%23&t=31&band_rank=8&Refer=top)<br />
 9. [鞠婧祎每部戏妆容都差不多](https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E6%AF%8F%E9%83%A8%E6%88%8F%E5%A6%86%E5%AE%B9%E9%83%BD%E5%B7%AE%E4%B8%8D%E5%A4%9A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
