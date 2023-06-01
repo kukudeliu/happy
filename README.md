@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 23:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 23:53:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [五月天王源合唱](https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E7%8E%8B%E6%BA%90%E5%90%88%E5%94%B1%23&t=31&band_rank=5&Refer=top)<br />
 6. [梦中的那片海开播收视率](https://s.weibo.com/weibo?q=%23%E6%A2%A6%E4%B8%AD%E7%9A%84%E9%82%A3%E7%89%87%E6%B5%B7%E5%BC%80%E6%92%AD%E6%94%B6%E8%A7%86%E7%8E%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [百度网盘被苹果AppStore下架](https://s.weibo.com/weibo?q=%23%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E8%A2%AB%E8%8B%B9%E6%9E%9CAppStore%E4%B8%8B%E6%9E%B6%23&t=31&band_rank=7&Refer=top)<br />
-8. [研究生辞谢信彰显卧龙凤雏](https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E7%94%9F%E8%BE%9E%E8%B0%A2%E4%BF%A1%E5%BD%B0%E6%98%BE%E5%8D%A7%E9%BE%99%E5%87%A4%E9%9B%8F%23&t=31&band_rank=8&Refer=top)<br />
-9. [女生穿婚纱看王源演唱会系盗图造谣](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E7%A9%BF%E5%A9%9A%E7%BA%B1%E7%9C%8B%E7%8E%8B%E6%BA%90%E6%BC%94%E5%94%B1%E4%BC%9A%E7%B3%BB%E7%9B%97%E5%9B%BE%E9%80%A0%E8%B0%A3%23&t=31&band_rank=9&Refer=top)<br />
+8. [女生穿婚纱看王源演唱会系盗图造谣](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E7%A9%BF%E5%A9%9A%E7%BA%B1%E7%9C%8B%E7%8E%8B%E6%BA%90%E6%BC%94%E5%94%B1%E4%BC%9A%E7%B3%BB%E7%9B%97%E5%9B%BE%E9%80%A0%E8%B0%A3%23&t=31&band_rank=8&Refer=top)<br />
+9. [Jennie小松菜奈热聊](https://s.weibo.com/weibo?q=%23Jennie%E5%B0%8F%E6%9D%BE%E8%8F%9C%E5%A5%88%E7%83%AD%E8%81%8A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
