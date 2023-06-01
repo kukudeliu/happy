@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 03:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 03:49:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [金智秀新冠确诊](https://www.baidu.com/s?wd=%E9%87%91%E6%99%BA%E7%A7%80%E6%96%B0%E5%86%A0%E7%A1%AE%E8%AF%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [温州4起摘杨梅坠树警情 2人心跳停止](https://www.baidu.com/s?wd=%E6%B8%A9%E5%B7%9E4%E8%B5%B7%E6%91%98%E6%9D%A8%E6%A2%85%E5%9D%A0%E6%A0%91%E8%AD%A6%E6%83%85+2%E4%BA%BA%E5%BF%83%E8%B7%B3%E5%81%9C%E6%AD%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [酒驾司机遭交警追缉 撞树死亡](https://www.baidu.com/s?wd=%E9%85%92%E9%A9%BE%E5%8F%B8%E6%9C%BA%E9%81%AD%E4%BA%A4%E8%AD%A6%E8%BF%BD%E7%BC%89+%E6%92%9E%E6%A0%91%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [广西一厅官被逮捕：热衷批条子](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E4%B8%80%E5%8E%85%E5%AE%98%E8%A2%AB%E9%80%AE%E6%8D%95%EF%BC%9A%E7%83%AD%E8%A1%B7%E6%89%B9%E6%9D%A1%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [辽宁突发龙卷风 行驶中的车辆被卷起](https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E7%AA%81%E5%8F%91%E9%BE%99%E5%8D%B7%E9%A3%8E+%E8%A1%8C%E9%A9%B6%E4%B8%AD%E7%9A%84%E8%BD%A6%E8%BE%86%E8%A2%AB%E5%8D%B7%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [辽宁突发龙卷风 行驶中的车辆被卷起](https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E7%AA%81%E5%8F%91%E9%BE%99%E5%8D%B7%E9%A3%8E+%E8%A1%8C%E9%A9%B6%E4%B8%AD%E7%9A%84%E8%BD%A6%E8%BE%86%E8%A2%AB%E5%8D%B7%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [广西一厅官被逮捕：热衷批条子](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E4%B8%80%E5%8E%85%E5%AE%98%E8%A2%AB%E9%80%AE%E6%8D%95%EF%BC%9A%E7%83%AD%E8%A1%B7%E6%89%B9%E6%9D%A1%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [金智秀新冠确诊](https://www.baidu.com/s?wd=%E9%87%91%E6%99%BA%E7%A7%80%E6%96%B0%E5%86%A0%E7%A1%AE%E8%AF%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [温州4起摘杨梅坠树警情 2人心跳停止](https://www.baidu.com/s?wd=%E6%B8%A9%E5%B7%9E4%E8%B5%B7%E6%91%98%E6%9D%A8%E6%A2%85%E5%9D%A0%E6%A0%91%E8%AD%A6%E6%83%85+2%E4%BA%BA%E5%BF%83%E8%B7%B3%E5%81%9C%E6%AD%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [酒驾司机遭交警追缉 撞树死亡](https://www.baidu.com/s?wd=%E9%85%92%E9%A9%BE%E5%8F%B8%E6%9C%BA%E9%81%AD%E4%BA%A4%E8%AD%A6%E8%BF%BD%E7%BC%89+%E6%92%9E%E6%A0%91%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [广西一厅官被逮捕：热衷批条子](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E4%B8%80%E5%8E%85%E5%AE%98%E8%A2%AB%E9%80%AE%E6%8D%95%EF%BC%9A%E7%83%AD%E8%A1%B7%E6%89%B9%E6%9D%A1%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [辽宁突发龙卷风 行驶中的车辆被卷起](https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E7%AA%81%E5%8F%91%E9%BE%99%E5%8D%B7%E9%A3%8E+%E8%A1%8C%E9%A9%B6%E4%B8%AD%E7%9A%84%E8%BD%A6%E8%BE%86%E8%A2%AB%E5%8D%B7%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [辽宁突发龙卷风 行驶中的车辆被卷起](https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E7%AA%81%E5%8F%91%E9%BE%99%E5%8D%B7%E9%A3%8E+%E8%A1%8C%E9%A9%B6%E4%B8%AD%E7%9A%84%E8%BD%A6%E8%BE%86%E8%A2%AB%E5%8D%B7%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [广西一厅官被逮捕：热衷批条子](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E4%B8%80%E5%8E%85%E5%AE%98%E8%A2%AB%E9%80%AE%E6%8D%95%EF%BC%9A%E7%83%AD%E8%A1%B7%E6%89%B9%E6%9D%A1%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
