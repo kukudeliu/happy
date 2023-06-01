@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 01:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 01:37:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [金智秀新冠确诊](https://www.baidu.com/s?wd=%E9%87%91%E6%99%BA%E7%A7%80%E6%96%B0%E5%86%A0%E7%A1%AE%E8%AF%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [如何吸引男生注意？高校讲座引争议](https://www.baidu.com/s?wd=%E5%A6%82%E4%BD%95%E5%90%B8%E5%BC%95%E7%94%B7%E7%94%9F%E6%B3%A8%E6%84%8F%EF%BC%9F%E9%AB%98%E6%A0%A1%E8%AE%B2%E5%BA%A7%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [酒驾司机遭交警追缉 撞树死亡](https://www.baidu.com/s?wd=%E9%85%92%E9%A9%BE%E5%8F%B8%E6%9C%BA%E9%81%AD%E4%BA%A4%E8%AD%A6%E8%BF%BD%E7%BC%89+%E6%92%9E%E6%A0%91%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [金龟子问当年的小朋友还好吗](https://www.baidu.com/s?wd=%E9%87%91%E9%BE%9F%E5%AD%90%E9%97%AE%E5%BD%93%E5%B9%B4%E7%9A%84%E5%B0%8F%E6%9C%8B%E5%8F%8B%E8%BF%98%E5%A5%BD%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子输液被拔针扎进水桶系摆拍](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%BE%93%E6%B6%B2%E8%A2%AB%E6%8B%94%E9%92%88%E6%89%8E%E8%BF%9B%E6%B0%B4%E6%A1%B6%E7%B3%BB%E6%91%86%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子输液被拔针扎进水桶系摆拍](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%BE%93%E6%B6%B2%E8%A2%AB%E6%8B%94%E9%92%88%E6%89%8E%E8%BF%9B%E6%B0%B4%E6%A1%B6%E7%B3%BB%E6%91%86%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子退猫被拒后直接把猫摔死](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%80%80%E7%8C%AB%E8%A2%AB%E6%8B%92%E5%90%8E%E7%9B%B4%E6%8E%A5%E6%8A%8A%E7%8C%AB%E6%91%94%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [金智秀新冠确诊](https://www.baidu.com/s?wd=%E9%87%91%E6%99%BA%E7%A7%80%E6%96%B0%E5%86%A0%E7%A1%AE%E8%AF%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [如何吸引男生注意？高校讲座引争议](https://www.baidu.com/s?wd=%E5%A6%82%E4%BD%95%E5%90%B8%E5%BC%95%E7%94%B7%E7%94%9F%E6%B3%A8%E6%84%8F%EF%BC%9F%E9%AB%98%E6%A0%A1%E8%AE%B2%E5%BA%A7%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [酒驾司机遭交警追缉 撞树死亡](https://www.baidu.com/s?wd=%E9%85%92%E9%A9%BE%E5%8F%B8%E6%9C%BA%E9%81%AD%E4%BA%A4%E8%AD%A6%E8%BF%BD%E7%BC%89+%E6%92%9E%E6%A0%91%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [金龟子问当年的小朋友还好吗](https://www.baidu.com/s?wd=%E9%87%91%E9%BE%9F%E5%AD%90%E9%97%AE%E5%BD%93%E5%B9%B4%E7%9A%84%E5%B0%8F%E6%9C%8B%E5%8F%8B%E8%BF%98%E5%A5%BD%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子输液被拔针扎进水桶系摆拍](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%BE%93%E6%B6%B2%E8%A2%AB%E6%8B%94%E9%92%88%E6%89%8E%E8%BF%9B%E6%B0%B4%E6%A1%B6%E7%B3%BB%E6%91%86%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子输液被拔针扎进水桶系摆拍](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%BE%93%E6%B6%B2%E8%A2%AB%E6%8B%94%E9%92%88%E6%89%8E%E8%BF%9B%E6%B0%B4%E6%A1%B6%E7%B3%BB%E6%91%86%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子退猫被拒后直接把猫摔死](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%80%80%E7%8C%AB%E8%A2%AB%E6%8B%92%E5%90%8E%E7%9B%B4%E6%8E%A5%E6%8A%8A%E7%8C%AB%E6%91%94%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
