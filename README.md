@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 22:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 22:09:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [温州4起摘杨梅坠树警情 2人心跳停止](https://www.baidu.com/s?wd=%E6%B8%A9%E5%B7%9E4%E8%B5%B7%E6%91%98%E6%9D%A8%E6%A2%85%E5%9D%A0%E6%A0%91%E8%AD%A6%E6%83%85+2%E4%BA%BA%E5%BF%83%E8%B7%B3%E5%81%9C%E6%AD%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [与情人不雅聊天曝光 柳州一局长被免](https://www.baidu.com/s?wd=%E4%B8%8E%E6%83%85%E4%BA%BA%E4%B8%8D%E9%9B%85%E8%81%8A%E5%A4%A9%E6%9B%9D%E5%85%89+%E6%9F%B3%E5%B7%9E%E4%B8%80%E5%B1%80%E9%95%BF%E8%A2%AB%E5%85%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [林青霞邀请莫言家中做客吃饺子](https://www.baidu.com/s?wd=%E6%9E%97%E9%9D%92%E9%9C%9E%E9%82%80%E8%AF%B7%E8%8E%AB%E8%A8%80%E5%AE%B6%E4%B8%AD%E5%81%9A%E5%AE%A2%E5%90%83%E9%A5%BA%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [李念官宣三胎产子](https://www.baidu.com/s?wd=%E6%9D%8E%E5%BF%B5%E5%AE%98%E5%AE%A3%E4%B8%89%E8%83%8E%E4%BA%A7%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [河南一村庄修路挖出大石龟](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E6%9D%91%E5%BA%84%E4%BF%AE%E8%B7%AF%E6%8C%96%E5%87%BA%E5%A4%A7%E7%9F%B3%E9%BE%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [河南一村庄修路挖出大石龟](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E6%9D%91%E5%BA%84%E4%BF%AE%E8%B7%AF%E6%8C%96%E5%87%BA%E5%A4%A7%E7%9F%B3%E9%BE%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男生接女友下班遭车祸致1死1病危](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E6%8E%A5%E5%A5%B3%E5%8F%8B%E4%B8%8B%E7%8F%AD%E9%81%AD%E8%BD%A6%E7%A5%B8%E8%87%B41%E6%AD%BB1%E7%97%85%E5%8D%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [温州4起摘杨梅坠树警情 2人心跳停止](https://www.baidu.com/s?wd=%E6%B8%A9%E5%B7%9E4%E8%B5%B7%E6%91%98%E6%9D%A8%E6%A2%85%E5%9D%A0%E6%A0%91%E8%AD%A6%E6%83%85+2%E4%BA%BA%E5%BF%83%E8%B7%B3%E5%81%9C%E6%AD%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [与情人不雅聊天曝光 柳州一局长被免](https://www.baidu.com/s?wd=%E4%B8%8E%E6%83%85%E4%BA%BA%E4%B8%8D%E9%9B%85%E8%81%8A%E5%A4%A9%E6%9B%9D%E5%85%89+%E6%9F%B3%E5%B7%9E%E4%B8%80%E5%B1%80%E9%95%BF%E8%A2%AB%E5%85%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [林青霞邀请莫言家中做客吃饺子](https://www.baidu.com/s?wd=%E6%9E%97%E9%9D%92%E9%9C%9E%E9%82%80%E8%AF%B7%E8%8E%AB%E8%A8%80%E5%AE%B6%E4%B8%AD%E5%81%9A%E5%AE%A2%E5%90%83%E9%A5%BA%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [李念官宣三胎产子](https://www.baidu.com/s?wd=%E6%9D%8E%E5%BF%B5%E5%AE%98%E5%AE%A3%E4%B8%89%E8%83%8E%E4%BA%A7%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [河南一村庄修路挖出大石龟](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E6%9D%91%E5%BA%84%E4%BF%AE%E8%B7%AF%E6%8C%96%E5%87%BA%E5%A4%A7%E7%9F%B3%E9%BE%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [河南一村庄修路挖出大石龟](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E6%9D%91%E5%BA%84%E4%BF%AE%E8%B7%AF%E6%8C%96%E5%87%BA%E5%A4%A7%E7%9F%B3%E9%BE%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男生接女友下班遭车祸致1死1病危](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E6%8E%A5%E5%A5%B3%E5%8F%8B%E4%B8%8B%E7%8F%AD%E9%81%AD%E8%BD%A6%E7%A5%B8%E8%87%B41%E6%AD%BB1%E7%97%85%E5%8D%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
