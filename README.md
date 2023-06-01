@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 07:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 07:31:01</h4></div>
 
 > 微博  
 
@@ -7,16 +7,16 @@
 3. [这群幕后航天人对代码有着极致追求](https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%BE%A4%E5%B9%95%E5%90%8E%E8%88%AA%E5%A4%A9%E4%BA%BA%E5%AF%B9%E4%BB%A3%E7%A0%81%E6%9C%89%E7%9D%80%E6%9E%81%E8%87%B4%E8%BF%BD%E6%B1%82%23&t=31&band_rank=3&Refer=top)<br />
 4. [专家称不排除二阳后还会有三阳](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E4%B8%8D%E6%8E%92%E9%99%A4%E4%BA%8C%E9%98%B3%E5%90%8E%E8%BF%98%E4%BC%9A%E6%9C%89%E4%B8%89%E9%98%B3%23&t=31&band_rank=4&Refer=top)<br />
 5. [早知道烂厂里了](https://s.weibo.com/weibo?q=%E6%97%A9%E7%9F%A5%E9%81%93%E7%83%82%E5%8E%82%E9%87%8C%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
-6. [肖战台词](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%8F%B0%E8%AF%8D&t=31&band_rank=6&Refer=top)<br />
-7. [王诗龄晒健身照](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%AF%97%E9%BE%84%E6%99%92%E5%81%A5%E8%BA%AB%E7%85%A7%23&t=31&band_rank=7&Refer=top)<br />
+6. [王诗龄晒健身照](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%AF%97%E9%BE%84%E6%99%92%E5%81%A5%E8%BA%AB%E7%85%A7%23&t=31&band_rank=6&Refer=top)<br />
+7. [肖战台词](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%8F%B0%E8%AF%8D&t=31&band_rank=7&Refer=top)<br />
 8. [二三十了还觉得自己是个小孩正常吗](https://s.weibo.com/weibo?q=%23%E4%BA%8C%E4%B8%89%E5%8D%81%E4%BA%86%E8%BF%98%E8%A7%89%E5%BE%97%E8%87%AA%E5%B7%B1%E6%98%AF%E4%B8%AA%E5%B0%8F%E5%AD%A9%E6%AD%A3%E5%B8%B8%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [梦中的那片海开播收视率](https://s.weibo.com/weibo?q=%23%E6%A2%A6%E4%B8%AD%E7%9A%84%E9%82%A3%E7%89%87%E6%B5%B7%E5%BC%80%E6%92%AD%E6%94%B6%E8%A7%86%E7%8E%87%23&t=31&band_rank=9&Refer=top)<br />
+9. [拜登](https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [中方在台湾问题上借冲绳举例，日方破防「冲绳绝不会独立」，冲绳和台湾有哪些不同？日方为何就台频频拱火？](https://www.zhihu.com/question/604246792)<br />
 2. [有人让 ChatGPT 做高三试卷，英语、历史等文字性内容成功率非常高，只有物理得零分，如何看待此事？](https://www.zhihu.com/question/604261512)<br />
-3. []()<br />
+3. [罗永浩直播卖房，上架 1 分钟就被订下，总价 205 万，直播卖房会引发跟风吗？直播买房有哪些风险？](https://www.zhihu.com/question/604265383)<br />
 4. []()<br />
 5. [邻居说让他儿子到我家吃中饭，按 15 元一顿给钱，能同意吗?](https://www.zhihu.com/question/603469319)<br />
 6. [黄蓉死在襄阳的时候，黄药师为什么不来救女儿？](https://www.zhihu.com/question/598195157)<br />
