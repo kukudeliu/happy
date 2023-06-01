@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 14:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 14:39:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [观众称花千元在演唱会上看柱子](https://www.baidu.com/s?wd=%E8%A7%82%E4%BC%97%E7%A7%B0%E8%8A%B1%E5%8D%83%E5%85%83%E5%9C%A8%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E7%9C%8B%E6%9F%B1%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [波兰总统：普京还没输过一场战争](https://www.baidu.com/s?wd=%E6%B3%A2%E5%85%B0%E6%80%BB%E7%BB%9F%EF%BC%9A%E6%99%AE%E4%BA%AC%E8%BF%98%E6%B2%A1%E8%BE%93%E8%BF%87%E4%B8%80%E5%9C%BA%E6%88%98%E4%BA%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [吴磊 快走吧哥们要累死了](https://www.baidu.com/s?wd=%E5%90%B4%E7%A3%8A+%E5%BF%AB%E8%B5%B0%E5%90%A7%E5%93%A5%E4%BB%AC%E8%A6%81%E7%B4%AF%E6%AD%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [襄阳一初中学生集体宣誓终生不买烟](https://www.baidu.com/s?wd=%E8%A5%84%E9%98%B3%E4%B8%80%E5%88%9D%E4%B8%AD%E5%AD%A6%E7%94%9F%E9%9B%86%E4%BD%93%E5%AE%A3%E8%AA%93%E7%BB%88%E7%94%9F%E4%B8%8D%E4%B9%B0%E7%83%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [高温下广东人的生活现状](https://www.baidu.com/s?wd=%E9%AB%98%E6%B8%A9%E4%B8%8B%E5%B9%BF%E4%B8%9C%E4%BA%BA%E7%9A%84%E7%94%9F%E6%B4%BB%E7%8E%B0%E7%8A%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [观众称花千元在演唱会上看柱子](https://www.baidu.com/s?wd=%E8%A7%82%E4%BC%97%E7%A7%B0%E8%8A%B1%E5%8D%83%E5%85%83%E5%9C%A8%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E7%9C%8B%E6%9F%B1%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [波兰总统：普京还没输过一场战争](https://www.baidu.com/s?wd=%E6%B3%A2%E5%85%B0%E6%80%BB%E7%BB%9F%EF%BC%9A%E6%99%AE%E4%BA%AC%E8%BF%98%E6%B2%A1%E8%BE%93%E8%BF%87%E4%B8%80%E5%9C%BA%E6%88%98%E4%BA%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [吴磊 快走吧哥们要累死了](https://www.baidu.com/s?wd=%E5%90%B4%E7%A3%8A+%E5%BF%AB%E8%B5%B0%E5%90%A7%E5%93%A5%E4%BB%AC%E8%A6%81%E7%B4%AF%E6%AD%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [襄阳一初中学生集体宣誓终生不买烟](https://www.baidu.com/s?wd=%E8%A5%84%E9%98%B3%E4%B8%80%E5%88%9D%E4%B8%AD%E5%AD%A6%E7%94%9F%E9%9B%86%E4%BD%93%E5%AE%A3%E8%AA%93%E7%BB%88%E7%94%9F%E4%B8%8D%E4%B9%B0%E7%83%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [高温下广东人的生活现状](https://www.baidu.com/s?wd=%E9%AB%98%E6%B8%A9%E4%B8%8B%E5%B9%BF%E4%B8%9C%E4%BA%BA%E7%9A%84%E7%94%9F%E6%B4%BB%E7%8E%B0%E7%8A%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
