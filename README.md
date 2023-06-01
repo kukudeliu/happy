@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 12:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 12:42:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [男子亲吻海报上女医生照片 医院回应](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%BA%B2%E5%90%BB%E6%B5%B7%E6%8A%A5%E4%B8%8A%E5%A5%B3%E5%8C%BB%E7%94%9F%E7%85%A7%E7%89%87+%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [吴磊 快走吧哥们要累死了](https://www.baidu.com/s?wd=%E5%90%B4%E7%A3%8A+%E5%BF%AB%E8%B5%B0%E5%90%A7%E5%93%A5%E4%BB%AC%E8%A6%81%E7%B4%AF%E6%AD%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [关键时刻，武契奇向中国求助](https://www.baidu.com/s?wd=%E5%85%B3%E9%94%AE%E6%97%B6%E5%88%BB%EF%BC%8C%E6%AD%A6%E5%A5%91%E5%A5%87%E5%90%91%E4%B8%AD%E5%9B%BD%E6%B1%82%E5%8A%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [赵立坚现身云南边境地区调研](https://www.baidu.com/s?wd=%E8%B5%B5%E7%AB%8B%E5%9D%9A%E7%8E%B0%E8%BA%AB%E4%BA%91%E5%8D%97%E8%BE%B9%E5%A2%83%E5%9C%B0%E5%8C%BA%E8%B0%83%E7%A0%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [襄阳一初中学生集体宣誓终生不买烟](https://www.baidu.com/s?wd=%E8%A5%84%E9%98%B3%E4%B8%80%E5%88%9D%E4%B8%AD%E5%AD%A6%E7%94%9F%E9%9B%86%E4%BD%93%E5%AE%A3%E8%AA%93%E7%BB%88%E7%94%9F%E4%B8%8D%E4%B9%B0%E7%83%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [男子亲吻海报上女医生照片 医院回应](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%BA%B2%E5%90%BB%E6%B5%B7%E6%8A%A5%E4%B8%8A%E5%A5%B3%E5%8C%BB%E7%94%9F%E7%85%A7%E7%89%87+%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [吴磊 快走吧哥们要累死了](https://www.baidu.com/s?wd=%E5%90%B4%E7%A3%8A+%E5%BF%AB%E8%B5%B0%E5%90%A7%E5%93%A5%E4%BB%AC%E8%A6%81%E7%B4%AF%E6%AD%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [关键时刻，武契奇向中国求助](https://www.baidu.com/s?wd=%E5%85%B3%E9%94%AE%E6%97%B6%E5%88%BB%EF%BC%8C%E6%AD%A6%E5%A5%91%E5%A5%87%E5%90%91%E4%B8%AD%E5%9B%BD%E6%B1%82%E5%8A%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [赵立坚现身云南边境地区调研](https://www.baidu.com/s?wd=%E8%B5%B5%E7%AB%8B%E5%9D%9A%E7%8E%B0%E8%BA%AB%E4%BA%91%E5%8D%97%E8%BE%B9%E5%A2%83%E5%9C%B0%E5%8C%BA%E8%B0%83%E7%A0%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [襄阳一初中学生集体宣誓终生不买烟](https://www.baidu.com/s?wd=%E8%A5%84%E9%98%B3%E4%B8%80%E5%88%9D%E4%B8%AD%E5%AD%A6%E7%94%9F%E9%9B%86%E4%BD%93%E5%AE%A3%E8%AA%93%E7%BB%88%E7%94%9F%E4%B8%8D%E4%B9%B0%E7%83%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
