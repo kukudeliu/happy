@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 21:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 21:25:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [百度网盘被苹果AppStore下架](https://s.weibo.com/weibo?q=%23%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E8%A2%AB%E8%8B%B9%E6%9E%9CAppStore%E4%B8%8B%E6%9E%B6%23&t=31&band_rank=6&Refer=top)<br />
 7. [梦中的那片海](https://s.weibo.com/weibo?q=%E6%A2%A6%E4%B8%AD%E7%9A%84%E9%82%A3%E7%89%87%E6%B5%B7&t=31&band_rank=7&Refer=top)<br />
 8. [五月天王源唱如果我们不曾相遇](https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E7%8E%8B%E6%BA%90%E5%94%B1%E5%A6%82%E6%9E%9C%E6%88%91%E4%BB%AC%E4%B8%8D%E6%9B%BE%E7%9B%B8%E9%81%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [女子退猫被拒后直接把猫摔死](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%80%80%E7%8C%AB%E8%A2%AB%E6%8B%92%E5%90%8E%E7%9B%B4%E6%8E%A5%E6%8A%8A%E7%8C%AB%E6%91%94%E6%AD%BB%23&t=31&band_rank=9&Refer=top)<br />
+9. [WBG对战JDG](https://s.weibo.com/weibo?q=%23WBG%E5%AF%B9%E6%88%98JDG%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -20,8 +20,8 @@
 4. [陪领导出差，应该注意些什么？](https://www.zhihu.com/question/48114643)<br />
 5. [高考报名人数 1291 万人创新高，人工智能、生物工程会是 4 年后的风口专业吗？](https://www.zhihu.com/theater/10768)<br />
 6. [黄蓉死在襄阳的时候，黄药师为什么不来救女儿？](https://www.zhihu.com/question/598195157)<br />
-7. [如何评价动画电影《哆啦 A 梦：大雄与天空的理想乡》？](https://www.zhihu.com/question/601904074)<br />
-8. [如果中国古代王朝，从小训练一批小男孩骑马射箭，这些男孩长大后，是否能够打仗打赢游牧民族的骑兵?](https://www.zhihu.com/question/603982529)<br />
+7. [如果中国古代王朝，从小训练一批小男孩骑马射箭，这些男孩长大后，是否能够打仗打赢游牧民族的骑兵?](https://www.zhihu.com/question/603982529)<br />
+8. [2023 LPL 夏季赛 WBG 2:0 爆冷击败新晋季中赛冠军 JDG，如何评价这场比赛？](https://www.zhihu.com/question/604285477)<br />
 9. [邻居说让他儿子到我家吃中饭，按 15 元一顿给钱，能同意吗?](https://www.zhihu.com/question/603469319)<br />
 
 > 百度  
