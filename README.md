@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 19:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 19:09:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [重庆暴雨倒灌车库 居民用绳救人](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E6%9A%B4%E9%9B%A8%E5%80%92%E7%81%8C%E8%BD%A6%E5%BA%93+%E5%B1%85%E6%B0%91%E7%94%A8%E7%BB%B3%E6%95%91%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男生接女友下班遭车祸致1死1病危](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E6%8E%A5%E5%A5%B3%E5%8F%8B%E4%B8%8B%E7%8F%AD%E9%81%AD%E8%BD%A6%E7%A5%B8%E8%87%B41%E6%AD%BB1%E7%97%85%E5%8D%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [明星谴责虐待动物疑遭曝光个人信息](https://www.baidu.com/s?wd=%E6%98%8E%E6%98%9F%E8%B0%B4%E8%B4%A3%E8%99%90%E5%BE%85%E5%8A%A8%E7%89%A9%E7%96%91%E9%81%AD%E6%9B%9D%E5%85%89%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [关键时刻，武契奇向中国求助](https://www.baidu.com/s?wd=%E5%85%B3%E9%94%AE%E6%97%B6%E5%88%BB%EF%BC%8C%E6%AD%A6%E5%A5%91%E5%A5%87%E5%90%91%E4%B8%AD%E5%9B%BD%E6%B1%82%E5%8A%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [物业腾车库给住户晾晒小麦](https://www.baidu.com/s?wd=%E7%89%A9%E4%B8%9A%E8%85%BE%E8%BD%A6%E5%BA%93%E7%BB%99%E4%BD%8F%E6%88%B7%E6%99%BE%E6%99%92%E5%B0%8F%E9%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [重庆暴雨倒灌车库 居民用绳救人](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E6%9A%B4%E9%9B%A8%E5%80%92%E7%81%8C%E8%BD%A6%E5%BA%93+%E5%B1%85%E6%B0%91%E7%94%A8%E7%BB%B3%E6%95%91%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男生接女友下班遭车祸致1死1病危](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E6%8E%A5%E5%A5%B3%E5%8F%8B%E4%B8%8B%E7%8F%AD%E9%81%AD%E8%BD%A6%E7%A5%B8%E8%87%B41%E6%AD%BB1%E7%97%85%E5%8D%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [明星谴责虐待动物疑遭曝光个人信息](https://www.baidu.com/s?wd=%E6%98%8E%E6%98%9F%E8%B0%B4%E8%B4%A3%E8%99%90%E5%BE%85%E5%8A%A8%E7%89%A9%E7%96%91%E9%81%AD%E6%9B%9D%E5%85%89%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [关键时刻，武契奇向中国求助](https://www.baidu.com/s?wd=%E5%85%B3%E9%94%AE%E6%97%B6%E5%88%BB%EF%BC%8C%E6%AD%A6%E5%A5%91%E5%A5%87%E5%90%91%E4%B8%AD%E5%9B%BD%E6%B1%82%E5%8A%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [物业腾车库给住户晾晒小麦](https://www.baidu.com/s?wd=%E7%89%A9%E4%B8%9A%E8%85%BE%E8%BD%A6%E5%BA%93%E7%BB%99%E4%BD%8F%E6%88%B7%E6%99%BE%E6%99%92%E5%B0%8F%E9%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
