@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 20:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 20:03:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [护心热度](https://s.weibo.com/weibo?q=%E6%8A%A4%E5%BF%83%E7%83%AD%E5%BA%A6&t=31&band_rank=6&Refer=top)<br />
 7. [EXO是我们公司非常珍惜的艺人](https://s.weibo.com/weibo?q=%23EXO%E6%98%AF%E6%88%91%E4%BB%AC%E5%85%AC%E5%8F%B8%E9%9D%9E%E5%B8%B8%E7%8F%8D%E6%83%9C%E7%9A%84%E8%89%BA%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [少爷和我再合体](https://s.weibo.com/weibo?q=%23%E5%B0%91%E7%88%B7%E5%92%8C%E6%88%91%E5%86%8D%E5%90%88%E4%BD%93%23&t=31&band_rank=8&Refer=top)<br />
-9. [椿山漫 抄袭](https://s.weibo.com/weibo?q=%E6%A4%BF%E5%B1%B1%E6%BC%AB%20%E6%8A%84%E8%A2%AD&t=31&band_rank=9&Refer=top)<br />
+9. [酷云](https://s.weibo.com/weibo?q=%E9%85%B7%E4%BA%91&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
