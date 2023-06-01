@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 23:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 23:25:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [五月天王源合唱](https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E7%8E%8B%E6%BA%90%E5%90%88%E5%94%B1%23&t=31&band_rank=6&Refer=top)<br />
 7. [Jennie小松菜奈热聊](https://s.weibo.com/weibo?q=%23Jennie%E5%B0%8F%E6%9D%BE%E8%8F%9C%E5%A5%88%E7%83%AD%E8%81%8A%23&t=31&band_rank=7&Refer=top)<br />
 8. [专家称不排除二阳后还会有三阳](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E4%B8%8D%E6%8E%92%E9%99%A4%E4%BA%8C%E9%98%B3%E5%90%8E%E8%BF%98%E4%BC%9A%E6%9C%89%E4%B8%89%E9%98%B3%23&t=31&band_rank=8&Refer=top)<br />
-9. [柳州与女子不雅聊天公职人员被免职](https://s.weibo.com/weibo?q=%23%E6%9F%B3%E5%B7%9E%E4%B8%8E%E5%A5%B3%E5%AD%90%E4%B8%8D%E9%9B%85%E8%81%8A%E5%A4%A9%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E8%A2%AB%E5%85%8D%E8%81%8C%23&t=31&band_rank=9&Refer=top)<br />
+9. [百度网盘被苹果AppStore下架](https://s.weibo.com/weibo?q=%23%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E8%A2%AB%E8%8B%B9%E6%9E%9CAppStore%E4%B8%8B%E6%9E%B6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -27,7 +27,7 @@
 > 百度  
 
 1. [少年志](https://www.baidu.com/s?wd=%E5%B0%91%E5%B9%B4%E5%BF%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [多地明确高考生自主决定是否戴口罩](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E6%98%8E%E7%A1%AE%E9%AB%98%E8%80%83%E7%94%9F%E8%87%AA%E4%B8%BB%E5%86%B3%E5%AE%9A%E6%98%AF%E5%90%A6%E6%88%B4%E5%8F%A3%E7%BD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [林青霞邀请莫言家中做客吃饺子](https://www.baidu.com/s?wd=%E6%9E%97%E9%9D%92%E9%9C%9E%E9%82%80%E8%AF%B7%E8%8E%AB%E8%A8%80%E5%AE%B6%E4%B8%AD%E5%81%9A%E5%AE%A2%E5%90%83%E9%A5%BA%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [浙江一娱乐公司发生抢劫案 警方通报](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E5%A8%B1%E4%B9%90%E5%85%AC%E5%8F%B8%E5%8F%91%E7%94%9F%E6%8A%A2%E5%8A%AB%E6%A1%88+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [以教育之强夯实国家富强之基](https://www.baidu.com/s?wd=%E4%BB%A5%E6%95%99%E8%82%B2%E4%B9%8B%E5%BC%BA%E5%A4%AF%E5%AE%9E%E5%9B%BD%E5%AE%B6%E5%AF%8C%E5%BC%BA%E4%B9%8B%E5%9F%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [金智秀新冠确诊](https://www.baidu.com/s?wd=%E9%87%91%E6%99%BA%E7%A7%80%E6%96%B0%E5%86%A0%E7%A1%AE%E8%AF%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -39,7 +39,7 @@
 > 哔哩哔哩  
 
 1. [少年志](https://www.baidu.com/s?wd=%E5%B0%91%E5%B9%B4%E5%BF%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [多地明确高考生自主决定是否戴口罩](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E6%98%8E%E7%A1%AE%E9%AB%98%E8%80%83%E7%94%9F%E8%87%AA%E4%B8%BB%E5%86%B3%E5%AE%9A%E6%98%AF%E5%90%A6%E6%88%B4%E5%8F%A3%E7%BD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [林青霞邀请莫言家中做客吃饺子](https://www.baidu.com/s?wd=%E6%9E%97%E9%9D%92%E9%9C%9E%E9%82%80%E8%AF%B7%E8%8E%AB%E8%A8%80%E5%AE%B6%E4%B8%AD%E5%81%9A%E5%AE%A2%E5%90%83%E9%A5%BA%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [浙江一娱乐公司发生抢劫案 警方通报](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E5%A8%B1%E4%B9%90%E5%85%AC%E5%8F%B8%E5%8F%91%E7%94%9F%E6%8A%A2%E5%8A%AB%E6%A1%88+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [以教育之强夯实国家富强之基](https://www.baidu.com/s?wd=%E4%BB%A5%E6%95%99%E8%82%B2%E4%B9%8B%E5%BC%BA%E5%A4%AF%E5%AE%9E%E5%9B%BD%E5%AE%B6%E5%AF%8C%E5%BC%BA%E4%B9%8B%E5%9F%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [金智秀新冠确诊](https://www.baidu.com/s?wd=%E9%87%91%E6%99%BA%E7%A7%80%E6%96%B0%E5%86%A0%E7%A1%AE%E8%AF%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
