@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 00:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 00:40:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [高三师生的双向奔赴太戳了](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%89%E5%B8%88%E7%94%9F%E7%9A%84%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4%E5%A4%AA%E6%88%B3%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李念官宣三胎产子](https://www.baidu.com/s?wd=%E6%9D%8E%E5%BF%B5%E5%AE%98%E5%AE%A3%E4%B8%89%E8%83%8E%E4%BA%A7%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [河南一村庄修路挖出大石龟](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E6%9D%91%E5%BA%84%E4%BF%AE%E8%B7%AF%E6%8C%96%E5%87%BA%E5%A4%A7%E7%9F%B3%E9%BE%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [襄阳一初中学生集体宣誓终生不买烟](https://www.baidu.com/s?wd=%E8%A5%84%E9%98%B3%E4%B8%80%E5%88%9D%E4%B8%AD%E5%AD%A6%E7%94%9F%E9%9B%86%E4%BD%93%E5%AE%A3%E8%AA%93%E7%BB%88%E7%94%9F%E4%B8%8D%E4%B9%B0%E7%83%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子退猫被拒后直接把猫摔死](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%80%80%E7%8C%AB%E8%A2%AB%E6%8B%92%E5%90%8E%E7%9B%B4%E6%8E%A5%E6%8A%8A%E7%8C%AB%E6%91%94%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [高三师生的双向奔赴太戳了](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%89%E5%B8%88%E7%94%9F%E7%9A%84%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4%E5%A4%AA%E6%88%B3%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李念官宣三胎产子](https://www.baidu.com/s?wd=%E6%9D%8E%E5%BF%B5%E5%AE%98%E5%AE%A3%E4%B8%89%E8%83%8E%E4%BA%A7%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [河南一村庄修路挖出大石龟](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E6%9D%91%E5%BA%84%E4%BF%AE%E8%B7%AF%E6%8C%96%E5%87%BA%E5%A4%A7%E7%9F%B3%E9%BE%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [襄阳一初中学生集体宣誓终生不买烟](https://www.baidu.com/s?wd=%E8%A5%84%E9%98%B3%E4%B8%80%E5%88%9D%E4%B8%AD%E5%AD%A6%E7%94%9F%E9%9B%86%E4%BD%93%E5%AE%A3%E8%AA%93%E7%BB%88%E7%94%9F%E4%B8%8D%E4%B9%B0%E7%83%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子退猫被拒后直接把猫摔死](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%80%80%E7%8C%AB%E8%A2%AB%E6%8B%92%E5%90%8E%E7%9B%B4%E6%8E%A5%E6%8A%8A%E7%8C%AB%E6%91%94%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
