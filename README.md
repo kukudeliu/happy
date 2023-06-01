@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 07:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 07:02:01</h4></div>
 
 > 微博  
 
 1. [学术妲己](https://s.weibo.com/weibo?q=%E5%AD%A6%E6%9C%AF%E5%A6%B2%E5%B7%B1&t=31&band_rank=1&Refer=top)<br />
 2. [网传老人在高铁上用菜刀削苹果](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E8%80%81%E4%BA%BA%E5%9C%A8%E9%AB%98%E9%93%81%E4%B8%8A%E7%94%A8%E8%8F%9C%E5%88%80%E5%89%8A%E8%8B%B9%E6%9E%9C%23&t=31&band_rank=2&Refer=top)<br />
 3. [这群幕后航天人对代码有着极致追求](https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%BE%A4%E5%B9%95%E5%90%8E%E8%88%AA%E5%A4%A9%E4%BA%BA%E5%AF%B9%E4%BB%A3%E7%A0%81%E6%9C%89%E7%9D%80%E6%9E%81%E8%87%B4%E8%BF%BD%E6%B1%82%23&t=31&band_rank=3&Refer=top)<br />
-4. [肖战台词](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%8F%B0%E8%AF%8D&t=31&band_rank=4&Refer=top)<br />
-5. [专家称不排除二阳后还会有三阳](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E4%B8%8D%E6%8E%92%E9%99%A4%E4%BA%8C%E9%98%B3%E5%90%8E%E8%BF%98%E4%BC%9A%E6%9C%89%E4%B8%89%E9%98%B3%23&t=31&band_rank=5&Refer=top)<br />
+4. [专家称不排除二阳后还会有三阳](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E4%B8%8D%E6%8E%92%E9%99%A4%E4%BA%8C%E9%98%B3%E5%90%8E%E8%BF%98%E4%BC%9A%E6%9C%89%E4%B8%89%E9%98%B3%23&t=31&band_rank=4&Refer=top)<br />
+5. [肖战台词](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%8F%B0%E8%AF%8D&t=31&band_rank=5&Refer=top)<br />
 6. [早知道烂厂里了](https://s.weibo.com/weibo?q=%E6%97%A9%E7%9F%A5%E9%81%93%E7%83%82%E5%8E%82%E9%87%8C%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [梦中的那片海开播收视率](https://s.weibo.com/weibo?q=%23%E6%A2%A6%E4%B8%AD%E7%9A%84%E9%82%A3%E7%89%87%E6%B5%B7%E5%BC%80%E6%92%AD%E6%94%B6%E8%A7%86%E7%8E%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [王诗龄晒健身照](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%AF%97%E9%BE%84%E6%99%92%E5%81%A5%E8%BA%AB%E7%85%A7%23&t=31&band_rank=8&Refer=top)<br />
