@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 19:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 19:13:01</h4></div>
 
 > 微博  
 
@@ -31,10 +31,10 @@
 3. [浙江一娱乐公司发生抢劫案 警方通报](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E5%A8%B1%E4%B9%90%E5%85%AC%E5%8F%B8%E5%8F%91%E7%94%9F%E6%8A%A2%E5%8A%AB%E6%A1%88+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [以教育之强夯实国家富强之基](https://www.baidu.com/s?wd=%E4%BB%A5%E6%95%99%E8%82%B2%E4%B9%8B%E5%BC%BA%E5%A4%AF%E5%AE%9E%E5%9B%BD%E5%AE%B6%E5%AF%8C%E5%BC%BA%E4%B9%8B%E5%9F%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [温州4起摘杨梅坠树警情 2人心跳停止](https://www.baidu.com/s?wd=%E6%B8%A9%E5%B7%9E4%E8%B5%B7%E6%91%98%E6%9D%A8%E6%A2%85%E5%9D%A0%E6%A0%91%E8%AD%A6%E6%83%85+2%E4%BA%BA%E5%BF%83%E8%B7%B3%E5%81%9C%E6%AD%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [重庆暴雨倒灌车库 居民用绳救人](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E6%9A%B4%E9%9B%A8%E5%80%92%E7%81%8C%E8%BD%A6%E5%BA%93+%E5%B1%85%E6%B0%91%E7%94%A8%E7%BB%B3%E6%95%91%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男生接女友下班遭车祸致1死1病危](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E6%8E%A5%E5%A5%B3%E5%8F%8B%E4%B8%8B%E7%8F%AD%E9%81%AD%E8%BD%A6%E7%A5%B8%E8%87%B41%E6%AD%BB1%E7%97%85%E5%8D%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [明星谴责虐待动物疑遭曝光个人信息](https://www.baidu.com/s?wd=%E6%98%8E%E6%98%9F%E8%B0%B4%E8%B4%A3%E8%99%90%E5%BE%85%E5%8A%A8%E7%89%A9%E7%96%91%E9%81%AD%E6%9B%9D%E5%85%89%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [物业腾车库给住户晾晒小麦](https://www.baidu.com/s?wd=%E7%89%A9%E4%B8%9A%E8%85%BE%E8%BD%A6%E5%BA%93%E7%BB%99%E4%BD%8F%E6%88%B7%E6%99%BE%E6%99%92%E5%B0%8F%E9%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [男生接女友下班遭车祸致1死1病危](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E6%8E%A5%E5%A5%B3%E5%8F%8B%E4%B8%8B%E7%8F%AD%E9%81%AD%E8%BD%A6%E7%A5%B8%E8%87%B41%E6%AD%BB1%E7%97%85%E5%8D%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [物业腾车库给住户晾晒小麦](https://www.baidu.com/s?wd=%E7%89%A9%E4%B8%9A%E8%85%BE%E8%BD%A6%E5%BA%93%E7%BB%99%E4%BD%8F%E6%88%B7%E6%99%BE%E6%99%92%E5%B0%8F%E9%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子亲吻海报上女医生照片 医院回应](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%BA%B2%E5%90%BB%E6%B5%B7%E6%8A%A5%E4%B8%8A%E5%A5%B3%E5%8C%BB%E7%94%9F%E7%85%A7%E7%89%87+%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [关键时刻，武契奇向中国求助](https://www.baidu.com/s?wd=%E5%85%B3%E9%94%AE%E6%97%B6%E5%88%BB%EF%BC%8C%E6%AD%A6%E5%A5%91%E5%A5%87%E5%90%91%E4%B8%AD%E5%9B%BD%E6%B1%82%E5%8A%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [浙江一娱乐公司发生抢劫案 警方通报](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E5%A8%B1%E4%B9%90%E5%85%AC%E5%8F%B8%E5%8F%91%E7%94%9F%E6%8A%A2%E5%8A%AB%E6%A1%88+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [以教育之强夯实国家富强之基](https://www.baidu.com/s?wd=%E4%BB%A5%E6%95%99%E8%82%B2%E4%B9%8B%E5%BC%BA%E5%A4%AF%E5%AE%9E%E5%9B%BD%E5%AE%B6%E5%AF%8C%E5%BC%BA%E4%B9%8B%E5%9F%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [温州4起摘杨梅坠树警情 2人心跳停止](https://www.baidu.com/s?wd=%E6%B8%A9%E5%B7%9E4%E8%B5%B7%E6%91%98%E6%9D%A8%E6%A2%85%E5%9D%A0%E6%A0%91%E8%AD%A6%E6%83%85+2%E4%BA%BA%E5%BF%83%E8%B7%B3%E5%81%9C%E6%AD%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [重庆暴雨倒灌车库 居民用绳救人](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E6%9A%B4%E9%9B%A8%E5%80%92%E7%81%8C%E8%BD%A6%E5%BA%93+%E5%B1%85%E6%B0%91%E7%94%A8%E7%BB%B3%E6%95%91%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男生接女友下班遭车祸致1死1病危](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E6%8E%A5%E5%A5%B3%E5%8F%8B%E4%B8%8B%E7%8F%AD%E9%81%AD%E8%BD%A6%E7%A5%B8%E8%87%B41%E6%AD%BB1%E7%97%85%E5%8D%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [明星谴责虐待动物疑遭曝光个人信息](https://www.baidu.com/s?wd=%E6%98%8E%E6%98%9F%E8%B0%B4%E8%B4%A3%E8%99%90%E5%BE%85%E5%8A%A8%E7%89%A9%E7%96%91%E9%81%AD%E6%9B%9D%E5%85%89%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [物业腾车库给住户晾晒小麦](https://www.baidu.com/s?wd=%E7%89%A9%E4%B8%9A%E8%85%BE%E8%BD%A6%E5%BA%93%E7%BB%99%E4%BD%8F%E6%88%B7%E6%99%BE%E6%99%92%E5%B0%8F%E9%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [男生接女友下班遭车祸致1死1病危](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E6%8E%A5%E5%A5%B3%E5%8F%8B%E4%B8%8B%E7%8F%AD%E9%81%AD%E8%BD%A6%E7%A5%B8%E8%87%B41%E6%AD%BB1%E7%97%85%E5%8D%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [物业腾车库给住户晾晒小麦](https://www.baidu.com/s?wd=%E7%89%A9%E4%B8%9A%E8%85%BE%E8%BD%A6%E5%BA%93%E7%BB%99%E4%BD%8F%E6%88%B7%E6%99%BE%E6%99%92%E5%B0%8F%E9%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子亲吻海报上女医生照片 医院回应](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%BA%B2%E5%90%BB%E6%B5%B7%E6%8A%A5%E4%B8%8A%E5%A5%B3%E5%8C%BB%E7%94%9F%E7%85%A7%E7%89%87+%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [关键时刻，武契奇向中国求助](https://www.baidu.com/s?wd=%E5%85%B3%E9%94%AE%E6%97%B6%E5%88%BB%EF%BC%8C%E6%AD%A6%E5%A5%91%E5%A5%87%E5%90%91%E4%B8%AD%E5%9B%BD%E6%B1%82%E5%8A%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
