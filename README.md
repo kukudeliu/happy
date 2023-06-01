@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 20:45:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 20:46:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [弟弟故意输掉比赛守护坐轮椅姐姐](https://s.weibo.com/weibo?q=%23%E5%BC%9F%E5%BC%9F%E6%95%85%E6%84%8F%E8%BE%93%E6%8E%89%E6%AF%94%E8%B5%9B%E5%AE%88%E6%8A%A4%E5%9D%90%E8%BD%AE%E6%A4%85%E5%A7%90%E5%A7%90%23&t=31&band_rank=4&Refer=top)<br />
 5. [女子退猫被拒后直接把猫摔死](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%80%80%E7%8C%AB%E8%A2%AB%E6%8B%92%E5%90%8E%E7%9B%B4%E6%8E%A5%E6%8A%8A%E7%8C%AB%E6%91%94%E6%AD%BB%23&t=31&band_rank=5&Refer=top)<br />
 6. [酷云](https://s.weibo.com/weibo?q=%E9%85%B7%E4%BA%91&t=31&band_rank=6&Refer=top)<br />
-7. [幼儿园摆20桌请200孩子吃席庆六一](https://s.weibo.com/weibo?q=%23%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%91%8620%E6%A1%8C%E8%AF%B7200%E5%AD%A9%E5%AD%90%E5%90%83%E5%B8%AD%E5%BA%86%E5%85%AD%E4%B8%80%23&t=31&band_rank=7&Refer=top)<br />
-8. [杨洋王楚然剧照 太阳的后裔](https://s.weibo.com/weibo?q=%E6%9D%A8%E6%B4%8B%E7%8E%8B%E6%A5%9A%E7%84%B6%E5%89%A7%E7%85%A7%20%E5%A4%AA%E9%98%B3%E7%9A%84%E5%90%8E%E8%A3%94&t=31&band_rank=8&Refer=top)<br />
+7. [杨洋王楚然剧照 太阳的后裔](https://s.weibo.com/weibo?q=%E6%9D%A8%E6%B4%8B%E7%8E%8B%E6%A5%9A%E7%84%B6%E5%89%A7%E7%85%A7%20%E5%A4%AA%E9%98%B3%E7%9A%84%E5%90%8E%E8%A3%94&t=31&band_rank=7&Refer=top)<br />
+8. [幼儿园摆20桌请200孩子吃席庆六一](https://s.weibo.com/weibo?q=%23%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%91%8620%E6%A1%8C%E8%AF%B7200%E5%AD%A9%E5%AD%90%E5%90%83%E5%B8%AD%E5%BA%86%E5%85%AD%E4%B8%80%23&t=31&band_rank=8&Refer=top)<br />
 9. [椿山漫 抄袭](https://s.weibo.com/weibo?q=%E6%A4%BF%E5%B1%B1%E6%BC%AB%20%E6%8A%84%E8%A2%AD&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -20,8 +20,8 @@
 4. [贾跃亭的 FF 再次花式延期交付，提车先付 220 万元全款，哪些信息值得关注？](https://www.zhihu.com/question/604057913)<br />
 5. [高考报名人数，为什么持续创下新高？大学报什么专业能不被替代？](https://www.zhihu.com/theater/10768)<br />
 6. [视力一直在下降，但是手机和电脑又不能不用，该怎样减缓视力下降呢？](https://www.zhihu.com/question/604228361)<br />
-7. [如何不提雨，能描述雨很大？](https://www.zhihu.com/question/603676744)<br />
-8. [邻居说让他儿子到我家吃中饭，按 15 元一顿给钱，能同意吗?](https://www.zhihu.com/question/603469319)<br />
+7. []()<br />
+8. [如何不提雨，能描述雨很大？](https://www.zhihu.com/question/603676744)<br />
 9. [如何评价动画电影《哆啦 A 梦：大雄与天空的理想乡》？](https://www.zhihu.com/question/601904074)<br />
 
 > 百度  
