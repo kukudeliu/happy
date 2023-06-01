@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 06:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 06:49:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [酒驾司机遭交警追缉 撞树死亡](https://www.baidu.com/s?wd=%E9%85%92%E9%A9%BE%E5%8F%B8%E6%9C%BA%E9%81%AD%E4%BA%A4%E8%AD%A6%E8%BF%BD%E7%BC%89+%E6%92%9E%E6%A0%91%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李念官宣三胎产子](https://www.baidu.com/s?wd=%E6%9D%8E%E5%BF%B5%E5%AE%98%E5%AE%A3%E4%B8%89%E8%83%8E%E4%BA%A7%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [辽宁突发龙卷风 行驶中的车辆被卷起](https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E7%AA%81%E5%8F%91%E9%BE%99%E5%8D%B7%E9%A3%8E+%E8%A1%8C%E9%A9%B6%E4%B8%AD%E7%9A%84%E8%BD%A6%E8%BE%86%E8%A2%AB%E5%8D%B7%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [高三师生的双向奔赴太戳了](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%89%E5%B8%88%E7%94%9F%E7%9A%84%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4%E5%A4%AA%E6%88%B3%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [8岁摄影师拍李现是被人抱起来的](https://www.baidu.com/s?wd=8%E5%B2%81%E6%91%84%E5%BD%B1%E5%B8%88%E6%8B%8D%E6%9D%8E%E7%8E%B0%E6%98%AF%E8%A2%AB%E4%BA%BA%E6%8A%B1%E8%B5%B7%E6%9D%A5%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [酒驾司机遭交警追缉 撞树死亡](https://www.baidu.com/s?wd=%E9%85%92%E9%A9%BE%E5%8F%B8%E6%9C%BA%E9%81%AD%E4%BA%A4%E8%AD%A6%E8%BF%BD%E7%BC%89+%E6%92%9E%E6%A0%91%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李念官宣三胎产子](https://www.baidu.com/s?wd=%E6%9D%8E%E5%BF%B5%E5%AE%98%E5%AE%A3%E4%B8%89%E8%83%8E%E4%BA%A7%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [辽宁突发龙卷风 行驶中的车辆被卷起](https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E7%AA%81%E5%8F%91%E9%BE%99%E5%8D%B7%E9%A3%8E+%E8%A1%8C%E9%A9%B6%E4%B8%AD%E7%9A%84%E8%BD%A6%E8%BE%86%E8%A2%AB%E5%8D%B7%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [高三师生的双向奔赴太戳了](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%89%E5%B8%88%E7%94%9F%E7%9A%84%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4%E5%A4%AA%E6%88%B3%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [8岁摄影师拍李现是被人抱起来的](https://www.baidu.com/s?wd=8%E5%B2%81%E6%91%84%E5%BD%B1%E5%B8%88%E6%8B%8D%E6%9D%8E%E7%8E%B0%E6%98%AF%E8%A2%AB%E4%BA%BA%E6%8A%B1%E8%B5%B7%E6%9D%A5%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
