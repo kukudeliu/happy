@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 08:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 08:30:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [退款](https://s.weibo.com/weibo?q=%E9%80%80%E6%AC%BE&t=31&band_rank=5&Refer=top)<br />
 6. [学校回应小学生将螺丝刀插进同学背部](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%B0%86%E8%9E%BA%E4%B8%9D%E5%88%80%E6%8F%92%E8%BF%9B%E5%90%8C%E5%AD%A6%E8%83%8C%E9%83%A8%23&t=31&band_rank=6&Refer=top)<br />
 7. [宋妍霏对王嘉尔的小动作](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E5%A6%8D%E9%9C%8F%E5%AF%B9%E7%8E%8B%E5%98%89%E5%B0%94%E7%9A%84%E5%B0%8F%E5%8A%A8%E4%BD%9C%23&t=31&band_rank=7&Refer=top)<br />
-8. [毕节涉记者治安案件3人被行拘](https://s.weibo.com/weibo?q=%23%E6%AF%95%E8%8A%82%E6%B6%89%E8%AE%B0%E8%80%85%E6%B2%BB%E5%AE%89%E6%A1%88%E4%BB%B63%E4%BA%BA%E8%A2%AB%E8%A1%8C%E6%8B%98%23&t=31&band_rank=8&Refer=top)<br />
-9. [早睡可以解决80%以上的问题](https://s.weibo.com/weibo?q=%E6%97%A9%E7%9D%A1%E5%8F%AF%E4%BB%A5%E8%A7%A3%E5%86%B380%25%E4%BB%A5%E4%B8%8A%E7%9A%84%E9%97%AE%E9%A2%98&t=31&band_rank=9&Refer=top)<br />
+8. [早睡可以解决80%以上的问题](https://s.weibo.com/weibo?q=%E6%97%A9%E7%9D%A1%E5%8F%AF%E4%BB%A5%E8%A7%A3%E5%86%B380%25%E4%BB%A5%E4%B8%8A%E7%9A%84%E9%97%AE%E9%A2%98&t=31&band_rank=8&Refer=top)<br />
+9. [毕节涉记者治安案件3人被行拘](https://s.weibo.com/weibo?q=%23%E6%AF%95%E8%8A%82%E6%B6%89%E8%AE%B0%E8%80%85%E6%B2%BB%E5%AE%89%E6%A1%88%E4%BB%B63%E4%BA%BA%E8%A2%AB%E8%A1%8C%E6%8B%98%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
