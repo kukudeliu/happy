@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 21:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 21:57:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [梦中的那片海开播收视率](https://s.weibo.com/weibo?q=%23%E6%A2%A6%E4%B8%AD%E7%9A%84%E9%82%A3%E7%89%87%E6%B5%B7%E5%BC%80%E6%92%AD%E6%94%B6%E8%A7%86%E7%8E%87%23&t=31&band_rank=5&Refer=top)<br />
 6. [WBG零封JDG](https://s.weibo.com/weibo?q=%23WBG%E9%9B%B6%E5%B0%81JDG%23&t=31&band_rank=6&Refer=top)<br />
 7. [五月天王源合唱](https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E7%8E%8B%E6%BA%90%E5%90%88%E5%94%B1%23&t=31&band_rank=7&Refer=top)<br />
-8. [百度网盘被苹果AppStore下架](https://s.weibo.com/weibo?q=%23%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E8%A2%AB%E8%8B%B9%E6%9E%9CAppStore%E4%B8%8B%E6%9E%B6%23&t=31&band_rank=8&Refer=top)<br />
-9. [五月天王源唱如果我们不曾相遇](https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E7%8E%8B%E6%BA%90%E5%94%B1%E5%A6%82%E6%9E%9C%E6%88%91%E4%BB%AC%E4%B8%8D%E6%9B%BE%E7%9B%B8%E9%81%87%23&t=31&band_rank=9&Refer=top)<br />
+8. [虞书欣直播](https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%9B%B4%E6%92%AD&t=31&band_rank=8&Refer=top)<br />
+9. [百度网盘被苹果AppStore下架](https://s.weibo.com/weibo?q=%23%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E8%A2%AB%E8%8B%B9%E6%9E%9CAppStore%E4%B8%8B%E6%9E%B6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
