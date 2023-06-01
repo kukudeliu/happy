@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 07:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 07:24:01</h4></div>
 
 > 微博  
 
@@ -33,7 +33,7 @@
 5. [金智秀新冠确诊](https://www.baidu.com/s?wd=%E9%87%91%E6%99%BA%E7%A7%80%E6%96%B0%E5%86%A0%E7%A1%AE%E8%AF%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [酒驾司机遭交警追缉 撞树死亡](https://www.baidu.com/s?wd=%E9%85%92%E9%A9%BE%E5%8F%B8%E6%9C%BA%E9%81%AD%E4%BA%A4%E8%AD%A6%E8%BF%BD%E7%BC%89+%E6%92%9E%E6%A0%91%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [高三师生的双向奔赴太戳了](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%89%E5%B8%88%E7%94%9F%E7%9A%84%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4%E5%A4%AA%E6%88%B3%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [李念官宣三胎产子](https://www.baidu.com/s?wd=%E6%9D%8E%E5%BF%B5%E5%AE%98%E5%AE%A3%E4%B8%89%E8%83%8E%E4%BA%A7%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [罗永浩直播卖房 上架1分钟就被订下](https://www.baidu.com/s?wd=%E7%BD%97%E6%B0%B8%E6%B5%A9%E7%9B%B4%E6%92%AD%E5%8D%96%E6%88%BF+%E4%B8%8A%E6%9E%B61%E5%88%86%E9%92%9F%E5%B0%B1%E8%A2%AB%E8%AE%A2%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [河南一村庄修路挖出大石龟](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E6%9D%91%E5%BA%84%E4%BF%AE%E8%B7%AF%E6%8C%96%E5%87%BA%E5%A4%A7%E7%9F%B3%E9%BE%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [金智秀新冠确诊](https://www.baidu.com/s?wd=%E9%87%91%E6%99%BA%E7%A7%80%E6%96%B0%E5%86%A0%E7%A1%AE%E8%AF%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [酒驾司机遭交警追缉 撞树死亡](https://www.baidu.com/s?wd=%E9%85%92%E9%A9%BE%E5%8F%B8%E6%9C%BA%E9%81%AD%E4%BA%A4%E8%AD%A6%E8%BF%BD%E7%BC%89+%E6%92%9E%E6%A0%91%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [高三师生的双向奔赴太戳了](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%89%E5%B8%88%E7%94%9F%E7%9A%84%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4%E5%A4%AA%E6%88%B3%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [李念官宣三胎产子](https://www.baidu.com/s?wd=%E6%9D%8E%E5%BF%B5%E5%AE%98%E5%AE%A3%E4%B8%89%E8%83%8E%E4%BA%A7%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [罗永浩直播卖房 上架1分钟就被订下](https://www.baidu.com/s?wd=%E7%BD%97%E6%B0%B8%E6%B5%A9%E7%9B%B4%E6%92%AD%E5%8D%96%E6%88%BF+%E4%B8%8A%E6%9E%B61%E5%88%86%E9%92%9F%E5%B0%B1%E8%A2%AB%E8%AE%A2%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [河南一村庄修路挖出大石龟](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E6%9D%91%E5%BA%84%E4%BF%AE%E8%B7%AF%E6%8C%96%E5%87%BA%E5%A4%A7%E7%9F%B3%E9%BE%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
