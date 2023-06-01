@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 15:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 15:40:01</h4></div>
 
 > 微博  
 
@@ -27,7 +27,7 @@
 > 百度  
 
 1. [当德智体美劳全面发展的好儿童](https://www.baidu.com/s?wd=%E5%BD%93%E5%BE%B7%E6%99%BA%E4%BD%93%E7%BE%8E%E5%8A%B3%E5%85%A8%E9%9D%A2%E5%8F%91%E5%B1%95%E7%9A%84%E5%A5%BD%E5%84%BF%E7%AB%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [贪官假释期威胁媒体删除忏悔视频](https://www.baidu.com/s?wd=%E8%B4%AA%E5%AE%98%E5%81%87%E9%87%8A%E6%9C%9F%E5%A8%81%E8%83%81%E5%AA%92%E4%BD%93%E5%88%A0%E9%99%A4%E5%BF%8F%E6%82%94%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [赵立坚现身云南边境地区调研](https://www.baidu.com/s?wd=%E8%B5%B5%E7%AB%8B%E5%9D%9A%E7%8E%B0%E8%BA%AB%E4%BA%91%E5%8D%97%E8%BE%B9%E5%A2%83%E5%9C%B0%E5%8C%BA%E8%B0%83%E7%A0%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [网红扎堆到麦地直播割麦](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E6%89%8E%E5%A0%86%E5%88%B0%E9%BA%A6%E5%9C%B0%E7%9B%B4%E6%92%AD%E5%89%B2%E9%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [一份特殊的儿童节礼物](https://www.baidu.com/s?wd=%E4%B8%80%E4%BB%BD%E7%89%B9%E6%AE%8A%E7%9A%84%E5%84%BF%E7%AB%A5%E8%8A%82%E7%A4%BC%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [波兰总统：普京还没输过一场战争](https://www.baidu.com/s?wd=%E6%B3%A2%E5%85%B0%E6%80%BB%E7%BB%9F%EF%BC%9A%E6%99%AE%E4%BA%AC%E8%BF%98%E6%B2%A1%E8%BE%93%E8%BF%87%E4%B8%80%E5%9C%BA%E6%88%98%E4%BA%89&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -39,7 +39,7 @@
 > 哔哩哔哩  
 
 1. [当德智体美劳全面发展的好儿童](https://www.baidu.com/s?wd=%E5%BD%93%E5%BE%B7%E6%99%BA%E4%BD%93%E7%BE%8E%E5%8A%B3%E5%85%A8%E9%9D%A2%E5%8F%91%E5%B1%95%E7%9A%84%E5%A5%BD%E5%84%BF%E7%AB%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [贪官假释期威胁媒体删除忏悔视频](https://www.baidu.com/s?wd=%E8%B4%AA%E5%AE%98%E5%81%87%E9%87%8A%E6%9C%9F%E5%A8%81%E8%83%81%E5%AA%92%E4%BD%93%E5%88%A0%E9%99%A4%E5%BF%8F%E6%82%94%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [赵立坚现身云南边境地区调研](https://www.baidu.com/s?wd=%E8%B5%B5%E7%AB%8B%E5%9D%9A%E7%8E%B0%E8%BA%AB%E4%BA%91%E5%8D%97%E8%BE%B9%E5%A2%83%E5%9C%B0%E5%8C%BA%E8%B0%83%E7%A0%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [网红扎堆到麦地直播割麦](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E6%89%8E%E5%A0%86%E5%88%B0%E9%BA%A6%E5%9C%B0%E7%9B%B4%E6%92%AD%E5%89%B2%E9%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [一份特殊的儿童节礼物](https://www.baidu.com/s?wd=%E4%B8%80%E4%BB%BD%E7%89%B9%E6%AE%8A%E7%9A%84%E5%84%BF%E7%AB%A5%E8%8A%82%E7%A4%BC%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [波兰总统：普京还没输过一场战争](https://www.baidu.com/s?wd=%E6%B3%A2%E5%85%B0%E6%80%BB%E7%BB%9F%EF%BC%9A%E6%99%AE%E4%BA%AC%E8%BF%98%E6%B2%A1%E8%BE%93%E8%BF%87%E4%B8%80%E5%9C%BA%E6%88%98%E4%BA%89&sa=fyb_news&rsv_dl=fyb_news)<br />
