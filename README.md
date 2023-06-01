@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 02:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 02:50:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [女子称逛街被陌生男子直播造黄谣](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E9%80%9B%E8%A1%97%E8%A2%AB%E9%99%8C%E7%94%9F%E7%94%B7%E5%AD%90%E7%9B%B4%E6%92%AD%E9%80%A0%E9%BB%84%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [贝嫂晒全家看演唱会合照](https://www.baidu.com/s?wd=%E8%B4%9D%E5%AB%82%E6%99%92%E5%85%A8%E5%AE%B6%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E5%90%88%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [罗永浩直播卖房 上架1分钟就被订下](https://www.baidu.com/s?wd=%E7%BD%97%E6%B0%B8%E6%B5%A9%E7%9B%B4%E6%92%AD%E5%8D%96%E6%88%BF+%E4%B8%8A%E6%9E%B61%E5%88%86%E9%92%9F%E5%B0%B1%E8%A2%AB%E8%AE%A2%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [迪丽热巴回应脸不像检察官](https://www.baidu.com/s?wd=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%9B%9E%E5%BA%94%E8%84%B8%E4%B8%8D%E5%83%8F%E6%A3%80%E5%AF%9F%E5%AE%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [酒驾司机遭交警追缉 撞树死亡](https://www.baidu.com/s?wd=%E9%85%92%E9%A9%BE%E5%8F%B8%E6%9C%BA%E9%81%AD%E4%BA%A4%E8%AD%A6%E8%BF%BD%E7%BC%89+%E6%92%9E%E6%A0%91%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [女子称逛街被陌生男子直播造黄谣](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E9%80%9B%E8%A1%97%E8%A2%AB%E9%99%8C%E7%94%9F%E7%94%B7%E5%AD%90%E7%9B%B4%E6%92%AD%E9%80%A0%E9%BB%84%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [贝嫂晒全家看演唱会合照](https://www.baidu.com/s?wd=%E8%B4%9D%E5%AB%82%E6%99%92%E5%85%A8%E5%AE%B6%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E5%90%88%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [罗永浩直播卖房 上架1分钟就被订下](https://www.baidu.com/s?wd=%E7%BD%97%E6%B0%B8%E6%B5%A9%E7%9B%B4%E6%92%AD%E5%8D%96%E6%88%BF+%E4%B8%8A%E6%9E%B61%E5%88%86%E9%92%9F%E5%B0%B1%E8%A2%AB%E8%AE%A2%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [迪丽热巴回应脸不像检察官](https://www.baidu.com/s?wd=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%9B%9E%E5%BA%94%E8%84%B8%E4%B8%8D%E5%83%8F%E6%A3%80%E5%AF%9F%E5%AE%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [酒驾司机遭交警追缉 撞树死亡](https://www.baidu.com/s?wd=%E9%85%92%E9%A9%BE%E5%8F%B8%E6%9C%BA%E9%81%AD%E4%BA%A4%E8%AD%A6%E8%BF%BD%E7%BC%89+%E6%92%9E%E6%A0%91%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
