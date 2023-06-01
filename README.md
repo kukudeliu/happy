@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 18:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 18:32:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [如何看待中医宣传电视剧《后浪》对中医声誉的影响？](https://www.zhihu.com/question/602238708)<br />
 5. [教育部表示 2023 年全国高考报名人数 1291 万人，再创历史新高，哪些信息值得关注？](https://www.zhihu.com/question/604181829)<br />
 6. [福州房地产中介协会出台指导意见，买、卖双方各收 1.5% 中介费，将带来哪些影响？](https://www.zhihu.com/question/604212660)<br />
-7. [为什么猫经常将自己的身体拉得很长?](https://www.zhihu.com/question/588627524)<br />
-8. [5 月财新中国制造业 PMI 录得 50.9 ，时隔两个月重回扩张区间，如何解读？](https://www.zhihu.com/question/604184178)<br />
-9. [2023 年 618，荣耀有哪些「闭眼可入」的好产品？](https://www.zhihu.com/question/604174705)<br />
+7. [5 月财新中国制造业 PMI 录得 50.9 ，时隔两个月重回扩张区间，如何解读？](https://www.zhihu.com/question/604184178)<br />
+8. [2023 年 618，荣耀有哪些「闭眼可入」的好产品？](https://www.zhihu.com/question/604174705)<br />
+9. [为什么猫经常将自己的身体拉得很长?](https://www.zhihu.com/question/588627524)<br />
 
 > 百度  
 
