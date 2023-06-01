@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 01:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 01:09:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [重庆暴雨倒灌车库 居民用绳救人](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E6%9A%B4%E9%9B%A8%E5%80%92%E7%81%8C%E8%BD%A6%E5%BA%93+%E5%B1%85%E6%B0%91%E7%94%A8%E7%BB%B3%E6%95%91%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [罗永浩直播卖房 上架1分钟就被订下](https://www.baidu.com/s?wd=%E7%BD%97%E6%B0%B8%E6%B5%A9%E7%9B%B4%E6%92%AD%E5%8D%96%E6%88%BF+%E4%B8%8A%E6%9E%B61%E5%88%86%E9%92%9F%E5%B0%B1%E8%A2%AB%E8%AE%A2%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [高三师生的双向奔赴太戳了](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%89%E5%B8%88%E7%94%9F%E7%9A%84%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4%E5%A4%AA%E6%88%B3%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [老人街头寻女被骗77万元](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E8%A1%97%E5%A4%B4%E5%AF%BB%E5%A5%B3%E8%A2%AB%E9%AA%9777%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子自称我爸是人大代表 官方:失实](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%87%AA%E7%A7%B0%E6%88%91%E7%88%B8%E6%98%AF%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8+%E5%AE%98%E6%96%B9%3A%E5%A4%B1%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [重庆暴雨倒灌车库 居民用绳救人](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E6%9A%B4%E9%9B%A8%E5%80%92%E7%81%8C%E8%BD%A6%E5%BA%93+%E5%B1%85%E6%B0%91%E7%94%A8%E7%BB%B3%E6%95%91%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [罗永浩直播卖房 上架1分钟就被订下](https://www.baidu.com/s?wd=%E7%BD%97%E6%B0%B8%E6%B5%A9%E7%9B%B4%E6%92%AD%E5%8D%96%E6%88%BF+%E4%B8%8A%E6%9E%B61%E5%88%86%E9%92%9F%E5%B0%B1%E8%A2%AB%E8%AE%A2%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [高三师生的双向奔赴太戳了](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%89%E5%B8%88%E7%94%9F%E7%9A%84%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4%E5%A4%AA%E6%88%B3%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [老人街头寻女被骗77万元](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E8%A1%97%E5%A4%B4%E5%AF%BB%E5%A5%B3%E8%A2%AB%E9%AA%9777%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子自称我爸是人大代表 官方:失实](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%87%AA%E7%A7%B0%E6%88%91%E7%88%B8%E6%98%AF%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8+%E5%AE%98%E6%96%B9%3A%E5%A4%B1%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
