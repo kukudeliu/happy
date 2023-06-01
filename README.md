@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 21:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 21:11:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [打卡中国](https://s.weibo.com/weibo?q=%23%E6%89%93%E5%8D%A1%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top)<br />
 4. [WBG零封JDG](https://s.weibo.com/weibo?q=%23WBG%E9%9B%B6%E5%B0%81JDG%23&t=31&band_rank=4&Refer=top)<br />
 5. [百度网盘被苹果AppStore下架](https://s.weibo.com/weibo?q=%23%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E8%A2%AB%E8%8B%B9%E6%9E%9CAppStore%E4%B8%8B%E6%9E%B6%23&t=31&band_rank=5&Refer=top)<br />
-6. [梦中的那片海](https://s.weibo.com/weibo?q=%E6%A2%A6%E4%B8%AD%E7%9A%84%E9%82%A3%E7%89%87%E6%B5%B7&t=31&band_rank=6&Refer=top)<br />
-7. [弟弟故意输掉比赛守护坐轮椅姐姐](https://s.weibo.com/weibo?q=%23%E5%BC%9F%E5%BC%9F%E6%95%85%E6%84%8F%E8%BE%93%E6%8E%89%E6%AF%94%E8%B5%9B%E5%AE%88%E6%8A%A4%E5%9D%90%E8%BD%AE%E6%A4%85%E5%A7%90%E5%A7%90%23&t=31&band_rank=7&Refer=top)<br />
+6. [弟弟故意输掉比赛守护坐轮椅姐姐](https://s.weibo.com/weibo?q=%23%E5%BC%9F%E5%BC%9F%E6%95%85%E6%84%8F%E8%BE%93%E6%8E%89%E6%AF%94%E8%B5%9B%E5%AE%88%E6%8A%A4%E5%9D%90%E8%BD%AE%E6%A4%85%E5%A7%90%E5%A7%90%23&t=31&band_rank=6&Refer=top)<br />
+7. [梦中的那片海](https://s.weibo.com/weibo?q=%E6%A2%A6%E4%B8%AD%E7%9A%84%E9%82%A3%E7%89%87%E6%B5%B7&t=31&band_rank=7&Refer=top)<br />
 8. [WBG对战JDG](https://s.weibo.com/weibo?q=%23WBG%E5%AF%B9%E6%88%98JDG%23&t=31&band_rank=8&Refer=top)<br />
-9. [五月天王源唱如果我们不曾相遇](https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E7%8E%8B%E6%BA%90%E5%94%B1%E5%A6%82%E6%9E%9C%E6%88%91%E4%BB%AC%E4%B8%8D%E6%9B%BE%E7%9B%B8%E9%81%87%23&t=31&band_rank=9&Refer=top)<br />
+9. [肖战台词](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%8F%B0%E8%AF%8D&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -18,7 +18,7 @@
 2. [教育部表示 2023 年全国高考报名人数 1291 万人，再创历史新高，哪些信息值得关注？](https://www.zhihu.com/question/604181829)<br />
 3. [莫斯科遭大规模无人机袭击，目前局势如何？如何看待无人机在现代战争中的作用？](https://www.zhihu.com/question/604170757)<br />
 4. [陪领导出差，应该注意些什么？](https://www.zhihu.com/question/48114643)<br />
-5. [2023 高考报名人数 1291 万人创历史新高，高考多少分才能上本科？哪些专业宁愿复读也不考虑？](https://www.zhihu.com/theater/10768)<br />
+5. [高考报名人数 1291 万人创新高，人工智能、生物工程会是 4 年后的风口专业吗？](https://www.zhihu.com/theater/10768)<br />
 6. [如何评价动画电影《哆啦 A 梦：大雄与天空的理想乡》？](https://www.zhihu.com/question/601904074)<br />
 7. [哪些关于抽屉的妙用让你大开眼界?](https://www.zhihu.com/question/601467401)<br />
 8. [黄蓉死在襄阳的时候，黄药师为什么不来救女儿？](https://www.zhihu.com/question/598195157)<br />
