@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 17:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 17:10:01</h4></div>
 
 > 微博  
 
@@ -19,10 +19,10 @@
 3. [如何看待中医宣传电视剧《后浪》对中医声誉的影响？](https://www.zhihu.com/question/602238708)<br />
 4. [教育部表示 2023 年全国高考报名人数 1291 万人，再创历史新高，哪些信息值得关注？](https://www.zhihu.com/question/604181829)<br />
 5. [为什么很多人都把 thing 读成 sing？](https://www.zhihu.com/question/592089213)<br />
-6. [报道称英伟达 CEO 黄仁勋拟本月赴华，会见腾讯、字节跳动等企业高管，哪些信息值得关注？](https://www.zhihu.com/question/604175403)<br />
-7. [提出离职，领导许诺升职加薪，并且能够给到心理价位，要不要留下来？](https://www.zhihu.com/question/595284716)<br />
-8. [如何看待中医题材电视剧《后浪》对中医的宣传？这可能会对社会造成哪些积极和消极影响？](https://www.zhihu.com/question/600901972)<br />
-9. [为什么宫崎骏的《天空之城》那么打动人心？](https://www.zhihu.com/question/40330235)<br />
+6. [提出离职，领导许诺升职加薪，并且能够给到心理价位，要不要留下来？](https://www.zhihu.com/question/595284716)<br />
+7. [如何看待中医题材电视剧《后浪》对中医的宣传？这可能会对社会造成哪些积极和消极影响？](https://www.zhihu.com/question/600901972)<br />
+8. [为什么宫崎骏的《天空之城》那么打动人心？](https://www.zhihu.com/question/40330235)<br />
+9. [报道称英伟达 CEO 黄仁勋拟本月赴华，会见腾讯、字节跳动等企业高管，哪些信息值得关注？](https://www.zhihu.com/question/604175403)<br />
 
 > 百度  
 
