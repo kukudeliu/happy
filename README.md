@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 20:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 20:54:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 2. [教育部表示 2023 年全国高考报名人数 1291 万人，再创历史新高，哪些信息值得关注？](https://www.zhihu.com/question/604181829)<br />
 3. [莫斯科遭大规模无人机袭击，目前局势如何？如何看待无人机在现代战争中的作用？](https://www.zhihu.com/question/604170757)<br />
 4. [贾跃亭的 FF 再次花式延期交付，提车先付 220 万元全款，哪些信息值得关注？](https://www.zhihu.com/question/604057913)<br />
-5. [56 岁梁实将迎第 27 次高考，今年高考报名人数又创新高，考生报对专业能实现「逆袭」吗？](https://www.zhihu.com/theater/10768)<br />
+5. [2023 高考报名人数 1291 万人创历史新高，高考多少分才能上本科？哪些专业宁愿复读也不考虑？](https://www.zhihu.com/theater/10768)<br />
 6. [视力一直在下降，但是手机和电脑又不能不用，该怎样减缓视力下降呢？](https://www.zhihu.com/question/604228361)<br />
 7. [邻居说让他儿子到我家吃中饭，按 15 元一顿给钱，能同意吗?](https://www.zhihu.com/question/603469319)<br />
 8. [如何不提雨，能描述雨很大？](https://www.zhihu.com/question/603676744)<br />
@@ -32,9 +32,9 @@
 4. [以教育之强夯实国家富强之基](https://www.baidu.com/s?wd=%E4%BB%A5%E6%95%99%E8%82%B2%E4%B9%8B%E5%BC%BA%E5%A4%AF%E5%AE%9E%E5%9B%BD%E5%AE%B6%E5%AF%8C%E5%BC%BA%E4%B9%8B%E5%9F%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [温州4起摘杨梅坠树警情 2人心跳停止](https://www.baidu.com/s?wd=%E6%B8%A9%E5%B7%9E4%E8%B5%B7%E6%91%98%E6%9D%A8%E6%A2%85%E5%9D%A0%E6%A0%91%E8%AD%A6%E6%83%85+2%E4%BA%BA%E5%BF%83%E8%B7%B3%E5%81%9C%E6%AD%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李念官宣三胎产子](https://www.baidu.com/s?wd=%E6%9D%8E%E5%BF%B5%E5%AE%98%E5%AE%A3%E4%B8%89%E8%83%8E%E4%BA%A7%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [幼儿园摆20桌请200孩子吃席庆六一](https://www.baidu.com/s?wd=%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%91%8620%E6%A1%8C%E8%AF%B7200%E5%AD%A9%E5%AD%90%E5%90%83%E5%B8%AD%E5%BA%86%E5%85%AD%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [江歌母亲称已收到刘鑫全部赔偿款](https://www.baidu.com/s?wd=%E6%B1%9F%E6%AD%8C%E6%AF%8D%E4%BA%B2%E7%A7%B0%E5%B7%B2%E6%94%B6%E5%88%B0%E5%88%98%E9%91%AB%E5%85%A8%E9%83%A8%E8%B5%94%E5%81%BF%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男生接女友下班遭车祸致1死1病危](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E6%8E%A5%E5%A5%B3%E5%8F%8B%E4%B8%8B%E7%8F%AD%E9%81%AD%E8%BD%A6%E7%A5%B8%E8%87%B41%E6%AD%BB1%E7%97%85%E5%8D%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [官方再通报临时工棚爆燃致5死](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%86%8D%E9%80%9A%E6%8A%A5%E4%B8%B4%E6%97%B6%E5%B7%A5%E6%A3%9A%E7%88%86%E7%87%83%E8%87%B45%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [幼儿园摆20桌请200孩子吃席庆六一](https://www.baidu.com/s?wd=%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%91%8620%E6%A1%8C%E8%AF%B7200%E5%AD%A9%E5%AD%90%E5%90%83%E5%B8%AD%E5%BA%86%E5%85%AD%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [江歌母亲称已收到刘鑫全部赔偿款](https://www.baidu.com/s?wd=%E6%B1%9F%E6%AD%8C%E6%AF%8D%E4%BA%B2%E7%A7%B0%E5%B7%B2%E6%94%B6%E5%88%B0%E5%88%98%E9%91%AB%E5%85%A8%E9%83%A8%E8%B5%94%E5%81%BF%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [以教育之强夯实国家富强之基](https://www.baidu.com/s?wd=%E4%BB%A5%E6%95%99%E8%82%B2%E4%B9%8B%E5%BC%BA%E5%A4%AF%E5%AE%9E%E5%9B%BD%E5%AE%B6%E5%AF%8C%E5%BC%BA%E4%B9%8B%E5%9F%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [温州4起摘杨梅坠树警情 2人心跳停止](https://www.baidu.com/s?wd=%E6%B8%A9%E5%B7%9E4%E8%B5%B7%E6%91%98%E6%9D%A8%E6%A2%85%E5%9D%A0%E6%A0%91%E8%AD%A6%E6%83%85+2%E4%BA%BA%E5%BF%83%E8%B7%B3%E5%81%9C%E6%AD%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李念官宣三胎产子](https://www.baidu.com/s?wd=%E6%9D%8E%E5%BF%B5%E5%AE%98%E5%AE%A3%E4%B8%89%E8%83%8E%E4%BA%A7%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [幼儿园摆20桌请200孩子吃席庆六一](https://www.baidu.com/s?wd=%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%91%8620%E6%A1%8C%E8%AF%B7200%E5%AD%A9%E5%AD%90%E5%90%83%E5%B8%AD%E5%BA%86%E5%85%AD%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [江歌母亲称已收到刘鑫全部赔偿款](https://www.baidu.com/s?wd=%E6%B1%9F%E6%AD%8C%E6%AF%8D%E4%BA%B2%E7%A7%B0%E5%B7%B2%E6%94%B6%E5%88%B0%E5%88%98%E9%91%AB%E5%85%A8%E9%83%A8%E8%B5%94%E5%81%BF%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男生接女友下班遭车祸致1死1病危](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E6%8E%A5%E5%A5%B3%E5%8F%8B%E4%B8%8B%E7%8F%AD%E9%81%AD%E8%BD%A6%E7%A5%B8%E8%87%B41%E6%AD%BB1%E7%97%85%E5%8D%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [官方再通报临时工棚爆燃致5死](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%86%8D%E9%80%9A%E6%8A%A5%E4%B8%B4%E6%97%B6%E5%B7%A5%E6%A3%9A%E7%88%86%E7%87%83%E8%87%B45%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [幼儿园摆20桌请200孩子吃席庆六一](https://www.baidu.com/s?wd=%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%91%8620%E6%A1%8C%E8%AF%B7200%E5%AD%A9%E5%AD%90%E5%90%83%E5%B8%AD%E5%BA%86%E5%85%AD%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [江歌母亲称已收到刘鑫全部赔偿款](https://www.baidu.com/s?wd=%E6%B1%9F%E6%AD%8C%E6%AF%8D%E4%BA%B2%E7%A7%B0%E5%B7%B2%E6%94%B6%E5%88%B0%E5%88%98%E9%91%AB%E5%85%A8%E9%83%A8%E8%B5%94%E5%81%BF%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
