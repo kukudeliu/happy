@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 22:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 22:08:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [梦中的那片海开播收视率](https://s.weibo.com/weibo?q=%23%E6%A2%A6%E4%B8%AD%E7%9A%84%E9%82%A3%E7%89%87%E6%B5%B7%E5%BC%80%E6%92%AD%E6%94%B6%E8%A7%86%E7%8E%87%23&t=31&band_rank=5&Refer=top)<br />
 6. [虞书欣直播](https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%9B%B4%E6%92%AD&t=31&band_rank=6&Refer=top)<br />
 7. [五月天王源合唱](https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E7%8E%8B%E6%BA%90%E5%90%88%E5%94%B1%23&t=31&band_rank=7&Refer=top)<br />
-8. [WBG零封JDG](https://s.weibo.com/weibo?q=%23WBG%E9%9B%B6%E5%B0%81JDG%23&t=31&band_rank=8&Refer=top)<br />
-9. [江歌母亲称已收到刘鑫全部赔偿款](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E6%AD%8C%E6%AF%8D%E4%BA%B2%E7%A7%B0%E5%B7%B2%E6%94%B6%E5%88%B0%E5%88%98%E9%91%AB%E5%85%A8%E9%83%A8%E8%B5%94%E5%81%BF%E6%AC%BE%23&t=31&band_rank=9&Refer=top)<br />
+8. [男人眼中的6分女和6分男](https://s.weibo.com/weibo?q=%E7%94%B7%E4%BA%BA%E7%9C%BC%E4%B8%AD%E7%9A%846%E5%88%86%E5%A5%B3%E5%92%8C6%E5%88%86%E7%94%B7&t=31&band_rank=8&Refer=top)<br />
+9. [WBG零封JDG](https://s.weibo.com/weibo?q=%23WBG%E9%9B%B6%E5%B0%81JDG%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
