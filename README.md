@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 14:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-01 14:07:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [情侣之间有必要过六一吗](https://s.weibo.com/weibo?q=%E6%83%85%E4%BE%A3%E4%B9%8B%E9%97%B4%E6%9C%89%E5%BF%85%E8%A6%81%E8%BF%87%E5%85%AD%E4%B8%80%E5%90%97&t=31&band_rank=6&Refer=top)<br />
 7. [边伯贤金珉锡金钟大与SMTOWN解约](https://s.weibo.com/weibo?q=%23%E8%BE%B9%E4%BC%AF%E8%B4%A4%E9%87%91%E7%8F%89%E9%94%A1%E9%87%91%E9%92%9F%E5%A4%A7%E4%B8%8ESMTOWN%E8%A7%A3%E7%BA%A6%23&t=31&band_rank=7&Refer=top)<br />
 8. [假性亲密关系](https://s.weibo.com/weibo?q=%E5%81%87%E6%80%A7%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB&t=31&band_rank=8&Refer=top)<br />
-9. [吴磊 快走吧哥们要累死了](https://s.weibo.com/weibo?q=%E5%90%B4%E7%A3%8A%20%E5%BF%AB%E8%B5%B0%E5%90%A7%E5%93%A5%E4%BB%AC%E8%A6%81%E7%B4%AF%E6%AD%BB%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [8岁摄影师拍李现是被人抱起来的](https://s.weibo.com/weibo?q=%238%E5%B2%81%E6%91%84%E5%BD%B1%E5%B8%88%E6%8B%8D%E6%9D%8E%E7%8E%B0%E6%98%AF%E8%A2%AB%E4%BA%BA%E6%8A%B1%E8%B5%B7%E6%9D%A5%E7%9A%84%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
