@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 09:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 09:50:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [早知道烂厂里了](https://s.weibo.com/weibo?q=%E6%97%A9%E7%9F%A5%E9%81%93%E7%83%82%E5%8E%82%E9%87%8C%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [Jennie在香奈儿表演](https://s.weibo.com/weibo?q=%23Jennie%E5%9C%A8%E9%A6%99%E5%A5%88%E5%84%BF%E8%A1%A8%E6%BC%94%23&t=31&band_rank=7&Refer=top)<br />
 8. [NBA总决赛](https://s.weibo.com/weibo?q=NBA%E6%80%BB%E5%86%B3%E8%B5%9B&t=31&band_rank=8&Refer=top)<br />
-9. [王诗龄晒健身照](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%AF%97%E9%BE%84%E6%99%92%E5%81%A5%E8%BA%AB%E7%85%A7%23&t=31&band_rank=9&Refer=top)<br />
+9. [三分野](https://s.weibo.com/weibo?q=%E4%B8%89%E5%88%86%E9%87%8E&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
