@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 08:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 08:35:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [房东给出租房装5级能耗空调](https://www.baidu.com/s?wd=%E6%88%BF%E4%B8%9C%E7%BB%99%E5%87%BA%E7%A7%9F%E6%88%BF%E8%A3%855%E7%BA%A7%E8%83%BD%E8%80%97%E7%A9%BA%E8%B0%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子为拍照被卷入海中不幸身亡](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%BA%E6%8B%8D%E7%85%A7%E8%A2%AB%E5%8D%B7%E5%85%A5%E6%B5%B7%E4%B8%AD%E4%B8%8D%E5%B9%B8%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [江苏南通发生命案 居民称死者是母子](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E5%8D%97%E9%80%9A%E5%8F%91%E7%94%9F%E5%91%BD%E6%A1%88+%E5%B1%85%E6%B0%91%E7%A7%B0%E6%AD%BB%E8%80%85%E6%98%AF%E6%AF%8D%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [林青霞邀请莫言家中做客吃饺子](https://www.baidu.com/s?wd=%E6%9E%97%E9%9D%92%E9%9C%9E%E9%82%80%E8%AF%B7%E8%8E%AB%E8%A8%80%E5%AE%B6%E4%B8%AD%E5%81%9A%E5%AE%A2%E5%90%83%E9%A5%BA%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [苹果全球首播不带货 130万人围观](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%85%A8%E7%90%83%E9%A6%96%E6%92%AD%E4%B8%8D%E5%B8%A6%E8%B4%A7+130%E4%B8%87%E4%BA%BA%E5%9B%B4%E8%A7%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [房东给出租房装5级能耗空调](https://www.baidu.com/s?wd=%E6%88%BF%E4%B8%9C%E7%BB%99%E5%87%BA%E7%A7%9F%E6%88%BF%E8%A3%855%E7%BA%A7%E8%83%BD%E8%80%97%E7%A9%BA%E8%B0%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子为拍照被卷入海中不幸身亡](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%BA%E6%8B%8D%E7%85%A7%E8%A2%AB%E5%8D%B7%E5%85%A5%E6%B5%B7%E4%B8%AD%E4%B8%8D%E5%B9%B8%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [江苏南通发生命案 居民称死者是母子](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E5%8D%97%E9%80%9A%E5%8F%91%E7%94%9F%E5%91%BD%E6%A1%88+%E5%B1%85%E6%B0%91%E7%A7%B0%E6%AD%BB%E8%80%85%E6%98%AF%E6%AF%8D%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [林青霞邀请莫言家中做客吃饺子](https://www.baidu.com/s?wd=%E6%9E%97%E9%9D%92%E9%9C%9E%E9%82%80%E8%AF%B7%E8%8E%AB%E8%A8%80%E5%AE%B6%E4%B8%AD%E5%81%9A%E5%AE%A2%E5%90%83%E9%A5%BA%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [苹果全球首播不带货 130万人围观](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%85%A8%E7%90%83%E9%A6%96%E6%92%AD%E4%B8%8D%E5%B8%A6%E8%B4%A7+130%E4%B8%87%E4%BA%BA%E5%9B%B4%E8%A7%82&sa=fyb_news&rsv_dl=fyb_news)<br />
