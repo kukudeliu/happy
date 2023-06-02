@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 13:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 13:28:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [蔡康永把林志玲问哭](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BA%B7%E6%B0%B8%E6%8A%8A%E6%9E%97%E5%BF%97%E7%8E%B2%E9%97%AE%E5%93%AD%23&t=31&band_rank=5&Refer=top)<br />
 6. [被骗到缅甸6小伙已被解救](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E9%AA%97%E5%88%B0%E7%BC%85%E7%94%B86%E5%B0%8F%E4%BC%99%E5%B7%B2%E8%A2%AB%E8%A7%A3%E6%95%91%23&t=31&band_rank=6&Refer=top)<br />
 7. [梦中的那片海有狂飙高晓晨](https://s.weibo.com/weibo?q=%23%E6%A2%A6%E4%B8%AD%E7%9A%84%E9%82%A3%E7%89%87%E6%B5%B7%E6%9C%89%E7%8B%82%E9%A3%99%E9%AB%98%E6%99%93%E6%99%A8%23&t=31&band_rank=7&Refer=top)<br />
-8. [24岁研究生生日当天救了一个人](https://s.weibo.com/weibo?q=%2324%E5%B2%81%E7%A0%94%E7%A9%B6%E7%94%9F%E7%94%9F%E6%97%A5%E5%BD%93%E5%A4%A9%E6%95%91%E4%BA%86%E4%B8%80%E4%B8%AA%E4%BA%BA%23&t=31&band_rank=8&Refer=top)<br />
+8. [难听](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%90%AC&t=31&band_rank=8&Refer=top)<br />
 9. [原来高清的五月天长这样](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E9%AB%98%E6%B8%85%E7%9A%84%E4%BA%94%E6%9C%88%E5%A4%A9%E9%95%BF%E8%BF%99%E6%A0%B7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -21,8 +21,8 @@
 5. [邻居说让他儿子到我家吃中饭，按 15 元一顿给钱，能同意吗?](https://www.zhihu.com/question/603469319)<br />
 6. [据不完全统计，《崩坏：星穹铁道》五月流水约为《原神》同月的 2.7 倍，如何评价？](https://www.zhihu.com/question/604195870)<br />
 7. [女朋友因为我没给她过六一儿童节，没发红包而和我分手，我该怎么办？](https://www.zhihu.com/question/604201618)<br />
-8. [5 月百城新房价格止涨转跌，二手房跌幅扩大，房地产市场现状如何？「以价换量」会成为趋势吗？](https://www.zhihu.com/question/604220951)<br />
-9. [为什么我喝酒感觉是苦的难喝，而有的人感觉是醇香的很美味？](https://www.zhihu.com/question/32287872)<br />
+8. [为什么我喝酒感觉是苦的难喝，而有的人感觉是醇香的很美味？](https://www.zhihu.com/question/32287872)<br />
+9. [RCEP 对 15 个签署国全面生效，将为中国企业带来哪些红利？对经济发展有何重要意义？](https://www.zhihu.com/question/604377442)<br />
 
 > 百度  
 
