@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 22:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 22:26:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [护心31集 封神](https://s.weibo.com/weibo?q=%E6%8A%A4%E5%BF%8331%E9%9B%86%20%E5%B0%81%E7%A5%9E&t=31&band_rank=6&Refer=top)<br />
 7. [张雪峰公司将实行上四休三](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%85%AC%E5%8F%B8%E5%B0%86%E5%AE%9E%E8%A1%8C%E4%B8%8A%E5%9B%9B%E4%BC%91%E4%B8%89%23&t=31&band_rank=7&Refer=top)<br />
 8. [吴所谓得知吴京去开家长会的反应](https://s.weibo.com/weibo?q=%23%E5%90%B4%E6%89%80%E8%B0%93%E5%BE%97%E7%9F%A5%E5%90%B4%E4%BA%AC%E5%8E%BB%E5%BC%80%E5%AE%B6%E9%95%BF%E4%BC%9A%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=8&Refer=top)<br />
-9. [爷爷去世前发给我的](https://s.weibo.com/weibo?q=%E7%88%B7%E7%88%B7%E5%8E%BB%E4%B8%96%E5%89%8D%E5%8F%91%E7%BB%99%E6%88%91%E7%9A%84&t=31&band_rank=9&Refer=top)<br />
+9. [周也演技值得一个热搜](https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%B9%9F%E6%BC%94%E6%8A%80%E5%80%BC%E5%BE%97%E4%B8%80%E4%B8%AA%E7%83%AD%E6%90%9C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
