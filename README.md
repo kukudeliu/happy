@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 18:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 18:17:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [林志玲说是她跟Akira求婚的](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%97%E7%8E%B2%E8%AF%B4%E6%98%AF%E5%A5%B9%E8%B7%9FAkira%E6%B1%82%E5%A9%9A%E7%9A%84%23&t=31&band_rank=6&Refer=top)<br />
 7. [收费员多问一句救下一条命](https://s.weibo.com/weibo?q=%23%E6%94%B6%E8%B4%B9%E5%91%98%E5%A4%9A%E9%97%AE%E4%B8%80%E5%8F%A5%E6%95%91%E4%B8%8B%E4%B8%80%E6%9D%A1%E5%91%BD%23&t=31&band_rank=7&Refer=top)<br />
 8. [黄晓明救了我的手机](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E6%95%91%E4%BA%86%E6%88%91%E7%9A%84%E6%89%8B%E6%9C%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [赵丽颖迪士尼](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%BF%AA%E5%A3%AB%E5%B0%BC&t=31&band_rank=9&Refer=top)<br />
+9. [吴倩没有镜头](https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%80%A9%E6%B2%A1%E6%9C%89%E9%95%9C%E5%A4%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
