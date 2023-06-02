@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 16:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 16:28:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [领导喜欢时常汇报的员工，还是喜欢直接解决事务的员工？](https://www.zhihu.com/question/604113667)<br />
 6. [范进中举那么风光，为什么贾雨村是举人却连进京赶考的钱都没?](https://www.zhihu.com/question/601881989)<br />
 7. [摩尔线程发布全新 MTT S70 显卡，该款产品有何亮点？](https://www.zhihu.com/question/604029452)<br />
-8. [中方在台湾问题上借冲绳举例，日方破防「冲绳绝不会独立」，冲绳和台湾有哪些不同？日方为何就台频频拱火？](https://www.zhihu.com/question/604246792)<br />
-9. [新一轮降雨过程来袭，河南全力「雨口夺粮」，目前进展如何？如何看待此事？](https://www.zhihu.com/question/604384669)<br />
+8. [新一轮降雨过程来袭，河南全力「雨口夺粮」，目前进展如何？如何看待此事？](https://www.zhihu.com/question/604384669)<br />
+9. [为什么我在现实生活中遇到的 infj 逻辑性相对较差而 infp 逻辑相对较好（这似乎并不符合荣格八维）？](https://www.zhihu.com/question/603829808)<br />
 
 > 百度  
 
