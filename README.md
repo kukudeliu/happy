@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 18:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 18:21:01</h4></div>
 
 > 微博  
 
@@ -6,9 +6,9 @@
 2. [老伴走后第二天浙大老教师又去捡垃圾了](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BC%B4%E8%B5%B0%E5%90%8E%E7%AC%AC%E4%BA%8C%E5%A4%A9%E6%B5%99%E5%A4%A7%E8%80%81%E6%95%99%E5%B8%88%E5%8F%88%E5%8E%BB%E6%8D%A1%E5%9E%83%E5%9C%BE%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [长江金色航道百舸争流好壮美](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B1%9F%E9%87%91%E8%89%B2%E8%88%AA%E9%81%93%E7%99%BE%E8%88%B8%E4%BA%89%E6%B5%81%E5%A5%BD%E5%A3%AE%E7%BE%8E%23&t=31&band_rank=3&Refer=top)<br />
 4. [陶白白你自己算到了吗](https://s.weibo.com/weibo?q=%23%E9%99%B6%E7%99%BD%E7%99%BD%E4%BD%A0%E8%87%AA%E5%B7%B1%E7%AE%97%E5%88%B0%E4%BA%86%E5%90%97%23&t=31&band_rank=4&Refer=top)<br />
-5. [14岁少年捡到4岁娃帮忙找妈妈](https://s.weibo.com/weibo?q=%2314%E5%B2%81%E5%B0%91%E5%B9%B4%E6%8D%A1%E5%88%B04%E5%B2%81%E5%A8%83%E5%B8%AE%E5%BF%99%E6%89%BE%E5%A6%88%E5%A6%88%23&t=31&band_rank=5&Refer=top)<br />
+5. [收费员多问一句救下一条命](https://s.weibo.com/weibo?q=%23%E6%94%B6%E8%B4%B9%E5%91%98%E5%A4%9A%E9%97%AE%E4%B8%80%E5%8F%A5%E6%95%91%E4%B8%8B%E4%B8%80%E6%9D%A1%E5%91%BD%23&t=31&band_rank=5&Refer=top)<br />
 6. [林志玲说是她跟Akira求婚的](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%97%E7%8E%B2%E8%AF%B4%E6%98%AF%E5%A5%B9%E8%B7%9FAkira%E6%B1%82%E5%A9%9A%E7%9A%84%23&t=31&band_rank=6&Refer=top)<br />
-7. [收费员多问一句救下一条命](https://s.weibo.com/weibo?q=%23%E6%94%B6%E8%B4%B9%E5%91%98%E5%A4%9A%E9%97%AE%E4%B8%80%E5%8F%A5%E6%95%91%E4%B8%8B%E4%B8%80%E6%9D%A1%E5%91%BD%23&t=31&band_rank=7&Refer=top)<br />
+7. [14岁少年捡到4岁娃帮忙找妈妈](https://s.weibo.com/weibo?q=%2314%E5%B2%81%E5%B0%91%E5%B9%B4%E6%8D%A1%E5%88%B04%E5%B2%81%E5%A8%83%E5%B8%AE%E5%BF%99%E6%89%BE%E5%A6%88%E5%A6%88%23&t=31&band_rank=7&Refer=top)<br />
 8. [黄晓明救了我的手机](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E6%95%91%E4%BA%86%E6%88%91%E7%9A%84%E6%89%8B%E6%9C%BA%23&t=31&band_rank=8&Refer=top)<br />
 9. [吴倩没有镜头](https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%80%A9%E6%B2%A1%E6%9C%89%E9%95%9C%E5%A4%B4%23&t=31&band_rank=9&Refer=top)<br />
 
@@ -30,7 +30,7 @@
 2. [中方特别代表通报访问俄乌情况](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E7%89%B9%E5%88%AB%E4%BB%A3%E8%A1%A8%E9%80%9A%E6%8A%A5%E8%AE%BF%E9%97%AE%E4%BF%84%E4%B9%8C%E6%83%85%E5%86%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [再婚祝寿等酒席拟一律禁办?当地回应](https://www.baidu.com/s?wd=%E5%86%8D%E5%A9%9A%E7%A5%9D%E5%AF%BF%E7%AD%89%E9%85%92%E5%B8%AD%E6%8B%9F%E4%B8%80%E5%BE%8B%E7%A6%81%E5%8A%9E%3F%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [做“新时尚”的践行者](https://www.baidu.com/s?wd=%E5%81%9A%E2%80%9C%E6%96%B0%E6%97%B6%E5%B0%9A%E2%80%9D%E7%9A%84%E8%B7%B5%E8%A1%8C%E8%80%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [武汉小学生校内被撞身亡后 其母坠亡](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%A0%A1%E5%86%85%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1%E5%90%8E+%E5%85%B6%E6%AF%8D%E5%9D%A0%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [校内被撞身亡小学生母亲坠楼身亡](https://www.baidu.com/s?wd=%E6%A0%A1%E5%86%85%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%AF%8D%E4%BA%B2%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [林志玲说自己主动求婚的](https://www.baidu.com/s?wd=%E6%9E%97%E5%BF%97%E7%8E%B2%E8%AF%B4%E8%87%AA%E5%B7%B1%E4%B8%BB%E5%8A%A8%E6%B1%82%E5%A9%9A%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李荣浩提前给杨丞琳庆生](https://www.baidu.com/s?wd=%E6%9D%8E%E8%8D%A3%E6%B5%A9%E6%8F%90%E5%89%8D%E7%BB%99%E6%9D%A8%E4%B8%9E%E7%90%B3%E5%BA%86%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [57岁北漂阿姨白天当保洁晚上做画家](https://www.baidu.com/s?wd=57%E5%B2%81%E5%8C%97%E6%BC%82%E9%98%BF%E5%A7%A8%E7%99%BD%E5%A4%A9%E5%BD%93%E4%BF%9D%E6%B4%81%E6%99%9A%E4%B8%8A%E5%81%9A%E7%94%BB%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -42,7 +42,7 @@
 2. [中方特别代表通报访问俄乌情况](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E7%89%B9%E5%88%AB%E4%BB%A3%E8%A1%A8%E9%80%9A%E6%8A%A5%E8%AE%BF%E9%97%AE%E4%BF%84%E4%B9%8C%E6%83%85%E5%86%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [再婚祝寿等酒席拟一律禁办?当地回应](https://www.baidu.com/s?wd=%E5%86%8D%E5%A9%9A%E7%A5%9D%E5%AF%BF%E7%AD%89%E9%85%92%E5%B8%AD%E6%8B%9F%E4%B8%80%E5%BE%8B%E7%A6%81%E5%8A%9E%3F%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [做“新时尚”的践行者](https://www.baidu.com/s?wd=%E5%81%9A%E2%80%9C%E6%96%B0%E6%97%B6%E5%B0%9A%E2%80%9D%E7%9A%84%E8%B7%B5%E8%A1%8C%E8%80%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [武汉小学生校内被撞身亡后 其母坠亡](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%A0%A1%E5%86%85%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1%E5%90%8E+%E5%85%B6%E6%AF%8D%E5%9D%A0%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [校内被撞身亡小学生母亲坠楼身亡](https://www.baidu.com/s?wd=%E6%A0%A1%E5%86%85%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%AF%8D%E4%BA%B2%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [林志玲说自己主动求婚的](https://www.baidu.com/s?wd=%E6%9E%97%E5%BF%97%E7%8E%B2%E8%AF%B4%E8%87%AA%E5%B7%B1%E4%B8%BB%E5%8A%A8%E6%B1%82%E5%A9%9A%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李荣浩提前给杨丞琳庆生](https://www.baidu.com/s?wd=%E6%9D%8E%E8%8D%A3%E6%B5%A9%E6%8F%90%E5%89%8D%E7%BB%99%E6%9D%A8%E4%B8%9E%E7%90%B3%E5%BA%86%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [57岁北漂阿姨白天当保洁晚上做画家](https://www.baidu.com/s?wd=57%E5%B2%81%E5%8C%97%E6%BC%82%E9%98%BF%E5%A7%A8%E7%99%BD%E5%A4%A9%E5%BD%93%E4%BF%9D%E6%B4%81%E6%99%9A%E4%B8%8A%E5%81%9A%E7%94%BB%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
