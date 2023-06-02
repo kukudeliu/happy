@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 15:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 15:11:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [A 股房企退市第一股诞生，多家地产也濒临退市，房企「退市潮」来了？房价呢？投资地产股是机会还是陷阱？](https://www.zhihu.com/question/604271815)<br />
 7. [领导喜欢时常汇报的员工，还是喜欢直接解决事务的员工？](https://www.zhihu.com/question/604113667)<br />
 8. []()<br />
-9. [C 罗接受采访表示「沙特联赛的裁判和 VAR 需要改进，有机会成为世界前五联赛」，如何看待他的说法？](https://www.zhihu.com/question/604384506)<br />
+9. [2023 LPL 夏季赛 JDG 爆冷不敌 WBG，这场比赛他们输在哪？](https://www.zhihu.com/question/604308460)<br />
 
 > 百度  
 
