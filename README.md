@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 20:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 20:58:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [我国一孩生育率跌至0.5](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E4%B8%80%E5%AD%A9%E7%94%9F%E8%82%B2%E7%8E%87%E8%B7%8C%E8%87%B30.5%23&t=31&band_rank=4&Refer=top)<br />
 5. [吴所谓得知吴京去开家长会的反应](https://s.weibo.com/weibo?q=%23%E5%90%B4%E6%89%80%E8%B0%93%E5%BE%97%E7%9F%A5%E5%90%B4%E4%BA%AC%E5%8E%BB%E5%BC%80%E5%AE%B6%E9%95%BF%E4%BC%9A%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=5&Refer=top)<br />
 6. [网友花8万拍下椰树直播间蹦迪票](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E8%8A%B18%E4%B8%87%E6%8B%8D%E4%B8%8B%E6%A4%B0%E6%A0%91%E7%9B%B4%E6%92%AD%E9%97%B4%E8%B9%A6%E8%BF%AA%E7%A5%A8%23&t=31&band_rank=6&Refer=top)<br />
-7. [陈采尼敦煌时装秀](https://s.weibo.com/weibo?q=%E9%99%88%E9%87%87%E5%B0%BC%E6%95%A6%E7%85%8C%E6%97%B6%E8%A3%85%E7%A7%80&t=31&band_rank=7&Refer=top)<br />
-8. [黄晓明救了我的手机](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E6%95%91%E4%BA%86%E6%88%91%E7%9A%84%E6%89%8B%E6%9C%BA%23&t=31&band_rank=8&Refer=top)<br />
+7. [黄晓明救了我的手机](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E6%95%91%E4%BA%86%E6%88%91%E7%9A%84%E6%89%8B%E6%9C%BA%23&t=31&band_rank=7&Refer=top)<br />
+8. [陈采尼敦煌时装秀](https://s.weibo.com/weibo?q=%E9%99%88%E9%87%87%E5%B0%BC%E6%95%A6%E7%85%8C%E6%97%B6%E8%A3%85%E7%A7%80&t=31&band_rank=8&Refer=top)<br />
 9. [老伴走后第二天浙大老教师又去捡垃圾了](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BC%B4%E8%B5%B0%E5%90%8E%E7%AC%AC%E4%BA%8C%E5%A4%A9%E6%B5%99%E5%A4%A7%E8%80%81%E6%95%99%E5%B8%88%E5%8F%88%E5%8E%BB%E6%8D%A1%E5%9E%83%E5%9C%BE%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
