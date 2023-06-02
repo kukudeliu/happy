@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 21:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 21:34:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [一天近 2000 套房降价，有人降价 20 万「只求一卖」，二手房价格为何遇冷？](https://www.zhihu.com/theater/10104)<br />
 6. [如何看待梁实第二十六次参加高考获得 428 分，未过二本线？](https://www.zhihu.com/question/536402778)<br />
 7. [销售端一个西瓜超百元，供应商称 7 - 9 月价格也不会下降，西瓜涨价原因有哪些？](https://www.zhihu.com/question/604403671)<br />
-8. [请问一万多的冰箱和三四千元的冰箱有什么不同？](https://www.zhihu.com/question/494932195)<br />
-9. [中国计划在 2030 年前实现登月，NASA 局长又泼脏水「美国要抢先，以防中国抢资源」，如何评价？](https://www.zhihu.com/question/604239481)<br />
+8. [中国计划在 2030 年前实现登月，NASA 局长又泼脏水「美国要抢先，以防中国抢资源」，如何评价？](https://www.zhihu.com/question/604239481)<br />
+9. [请问一万多的冰箱和三四千元的冰箱有什么不同？](https://www.zhihu.com/question/494932195)<br />
 
 > 百度  
 
