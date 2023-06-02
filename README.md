@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 16:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 16:14:02</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [湖南：高考考试期间科学佩戴口罩](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%EF%BC%9A%E9%AB%98%E8%80%83%E8%80%83%E8%AF%95%E6%9C%9F%E9%97%B4%E7%A7%91%E5%AD%A6%E4%BD%A9%E6%88%B4%E5%8F%A3%E7%BD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [蔡康永把林志玲问哭](https://www.baidu.com/s?wd=%E8%94%A1%E5%BA%B7%E6%B0%B8%E6%8A%8A%E6%9E%97%E5%BF%97%E7%8E%B2%E9%97%AE%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [谢娜二公第一](https://www.baidu.com/s?wd=%E8%B0%A2%E5%A8%9C%E4%BA%8C%E5%85%AC%E7%AC%AC%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [西游记主题公园游客吵架牛魔王劝架](https://www.baidu.com/s?wd=%E8%A5%BF%E6%B8%B8%E8%AE%B0%E4%B8%BB%E9%A2%98%E5%85%AC%E5%9B%AD%E6%B8%B8%E5%AE%A2%E5%90%B5%E6%9E%B6%E7%89%9B%E9%AD%94%E7%8E%8B%E5%8A%9D%E6%9E%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [东风本田4s店借车震宣传新车被罚](https://www.baidu.com/s?wd=%E4%B8%9C%E9%A3%8E%E6%9C%AC%E7%94%B04s%E5%BA%97%E5%80%9F%E8%BD%A6%E9%9C%87%E5%AE%A3%E4%BC%A0%E6%96%B0%E8%BD%A6%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [广西一厅官被逮捕：热衷批条子](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E4%B8%80%E5%8E%85%E5%AE%98%E8%A2%AB%E9%80%AE%E6%8D%95%EF%BC%9A%E7%83%AD%E8%A1%B7%E6%89%B9%E6%9D%A1%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [西游记主题公园游客吵架牛魔王劝架](https://www.baidu.com/s?wd=%E8%A5%BF%E6%B8%B8%E8%AE%B0%E4%B8%BB%E9%A2%98%E5%85%AC%E5%9B%AD%E6%B8%B8%E5%AE%A2%E5%90%B5%E6%9E%B6%E7%89%9B%E9%AD%94%E7%8E%8B%E5%8A%9D%E6%9E%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [湖南：高考考试期间科学佩戴口罩](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%EF%BC%9A%E9%AB%98%E8%80%83%E8%80%83%E8%AF%95%E6%9C%9F%E9%97%B4%E7%A7%91%E5%AD%A6%E4%BD%A9%E6%88%B4%E5%8F%A3%E7%BD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [蔡康永把林志玲问哭](https://www.baidu.com/s?wd=%E8%94%A1%E5%BA%B7%E6%B0%B8%E6%8A%8A%E6%9E%97%E5%BF%97%E7%8E%B2%E9%97%AE%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [谢娜二公第一](https://www.baidu.com/s?wd=%E8%B0%A2%E5%A8%9C%E4%BA%8C%E5%85%AC%E7%AC%AC%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [西游记主题公园游客吵架牛魔王劝架](https://www.baidu.com/s?wd=%E8%A5%BF%E6%B8%B8%E8%AE%B0%E4%B8%BB%E9%A2%98%E5%85%AC%E5%9B%AD%E6%B8%B8%E5%AE%A2%E5%90%B5%E6%9E%B6%E7%89%9B%E9%AD%94%E7%8E%8B%E5%8A%9D%E6%9E%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [东风本田4s店借车震宣传新车被罚](https://www.baidu.com/s?wd=%E4%B8%9C%E9%A3%8E%E6%9C%AC%E7%94%B04s%E5%BA%97%E5%80%9F%E8%BD%A6%E9%9C%87%E5%AE%A3%E4%BC%A0%E6%96%B0%E8%BD%A6%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [广西一厅官被逮捕：热衷批条子](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E4%B8%80%E5%8E%85%E5%AE%98%E8%A2%AB%E9%80%AE%E6%8D%95%EF%BC%9A%E7%83%AD%E8%A1%B7%E6%89%B9%E6%9D%A1%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [西游记主题公园游客吵架牛魔王劝架](https://www.baidu.com/s?wd=%E8%A5%BF%E6%B8%B8%E8%AE%B0%E4%B8%BB%E9%A2%98%E5%85%AC%E5%9B%AD%E6%B8%B8%E5%AE%A2%E5%90%B5%E6%9E%B6%E7%89%9B%E9%AD%94%E7%8E%8B%E5%8A%9D%E6%9E%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
