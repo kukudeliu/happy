@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 07:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 07:45:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [警方回应校内被撞身亡小学生母亲坠亡](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E6%A0%A1%E5%86%85%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%AF%8D%E4%BA%B2%E5%9D%A0%E4%BA%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [8岁男孩摆摊1小时赚584元](https://s.weibo.com/weibo?q=%238%E5%B2%81%E7%94%B7%E5%AD%A9%E6%91%86%E6%91%8A1%E5%B0%8F%E6%97%B6%E8%B5%9A584%E5%85%83%23&t=31&band_rank=7&Refer=top)<br />
 8. [2女孩穿婚纱买20份王源同款美食](https://s.weibo.com/weibo?q=%232%E5%A5%B3%E5%AD%A9%E7%A9%BF%E5%A9%9A%E7%BA%B1%E4%B9%B020%E4%BB%BD%E7%8E%8B%E6%BA%90%E5%90%8C%E6%AC%BE%E7%BE%8E%E9%A3%9F%23&t=31&band_rank=8&Refer=top)<br />
-9. [张雪峰公司将实行上四休三](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%85%AC%E5%8F%B8%E5%B0%86%E5%AE%9E%E8%A1%8C%E4%B8%8A%E5%9B%9B%E4%BC%91%E4%B8%89%23&t=31&band_rank=9&Refer=top)<br />
+9. [赵丽颖回应被造谣与谢娜友情破裂](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%9B%9E%E5%BA%94%E8%A2%AB%E9%80%A0%E8%B0%A3%E4%B8%8E%E8%B0%A2%E5%A8%9C%E5%8F%8B%E6%83%85%E7%A0%B4%E8%A3%82%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
