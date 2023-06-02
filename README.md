@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 12:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 12:59:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [学生网购小石头收到7斤巨石](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E7%BD%91%E8%B4%AD%E5%B0%8F%E7%9F%B3%E5%A4%B4%E6%94%B6%E5%88%B07%E6%96%A4%E5%B7%A8%E7%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [章莹颖父亲当司机月薪2050元](https://www.baidu.com/s?wd=%E7%AB%A0%E8%8E%B9%E9%A2%96%E7%88%B6%E4%BA%B2%E5%BD%93%E5%8F%B8%E6%9C%BA%E6%9C%88%E8%96%AA2050%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [保姆扶老人进卧室后一把推倒](https://www.baidu.com/s?wd=%E4%BF%9D%E5%A7%86%E6%89%B6%E8%80%81%E4%BA%BA%E8%BF%9B%E5%8D%A7%E5%AE%A4%E5%90%8E%E4%B8%80%E6%8A%8A%E6%8E%A8%E5%80%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男童将玩具甩进邻桌火锅烫到婴儿](https://www.baidu.com/s?wd=%E7%94%B7%E7%AB%A5%E5%B0%86%E7%8E%A9%E5%85%B7%E7%94%A9%E8%BF%9B%E9%82%BB%E6%A1%8C%E7%81%AB%E9%94%85%E7%83%AB%E5%88%B0%E5%A9%B4%E5%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [江西4岁女童坠楼昏迷90天后苏醒](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF4%E5%B2%81%E5%A5%B3%E7%AB%A5%E5%9D%A0%E6%A5%BC%E6%98%8F%E8%BF%B790%E5%A4%A9%E5%90%8E%E8%8B%8F%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [学生网购小石头收到7斤巨石](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E7%BD%91%E8%B4%AD%E5%B0%8F%E7%9F%B3%E5%A4%B4%E6%94%B6%E5%88%B07%E6%96%A4%E5%B7%A8%E7%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [章莹颖父亲当司机月薪2050元](https://www.baidu.com/s?wd=%E7%AB%A0%E8%8E%B9%E9%A2%96%E7%88%B6%E4%BA%B2%E5%BD%93%E5%8F%B8%E6%9C%BA%E6%9C%88%E8%96%AA2050%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [保姆扶老人进卧室后一把推倒](https://www.baidu.com/s?wd=%E4%BF%9D%E5%A7%86%E6%89%B6%E8%80%81%E4%BA%BA%E8%BF%9B%E5%8D%A7%E5%AE%A4%E5%90%8E%E4%B8%80%E6%8A%8A%E6%8E%A8%E5%80%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男童将玩具甩进邻桌火锅烫到婴儿](https://www.baidu.com/s?wd=%E7%94%B7%E7%AB%A5%E5%B0%86%E7%8E%A9%E5%85%B7%E7%94%A9%E8%BF%9B%E9%82%BB%E6%A1%8C%E7%81%AB%E9%94%85%E7%83%AB%E5%88%B0%E5%A9%B4%E5%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [江西4岁女童坠楼昏迷90天后苏醒](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF4%E5%B2%81%E5%A5%B3%E7%AB%A5%E5%9D%A0%E6%A5%BC%E6%98%8F%E8%BF%B790%E5%A4%A9%E5%90%8E%E8%8B%8F%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
