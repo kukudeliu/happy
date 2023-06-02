@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 07:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 07:59:01</h4></div>
 
 > 微博  
 
@@ -20,8 +20,8 @@
 4. [邻居说让他儿子到我家吃中饭，按 15 元一顿给钱，能同意吗?](https://www.zhihu.com/question/603469319)<br />
 5. []()<br />
 6. [有人让 ChatGPT 做高三试卷，英语、历史等文字性内容成功率非常高，只有物理得零分，如何看待此事？](https://www.zhihu.com/question/604261512)<br />
-7. [如何评价原神 3.7 版本，6 月 1 日新深渊？](https://www.zhihu.com/question/604176024)<br />
-8. [黄蓉死在襄阳的时候，黄药师为什么不来救女儿？](https://www.zhihu.com/question/598195157)<br />
+7. [黄蓉死在襄阳的时候，黄药师为什么不来救女儿？](https://www.zhihu.com/question/598195157)<br />
+8. [如何评价原神 3.7 版本，6 月 1 日新深渊？](https://www.zhihu.com/question/604176024)<br />
 9. [为什么我们中学物理课本，只承认古希腊的阿基米德的杠杆定理，而不认墨子的杠杆定理？](https://www.zhihu.com/question/603979051)<br />
 
 > 百度  
@@ -31,10 +31,10 @@
 3. [林青霞邀请莫言家中做客吃饺子](https://www.baidu.com/s?wd=%E6%9E%97%E9%9D%92%E9%9C%9E%E9%82%80%E8%AF%B7%E8%8E%AB%E8%A8%80%E5%AE%B6%E4%B8%AD%E5%81%9A%E5%AE%A2%E5%90%83%E9%A5%BA%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [从未见过发射的航天人](https://www.baidu.com/s?wd=%E4%BB%8E%E6%9C%AA%E8%A7%81%E8%BF%87%E5%8F%91%E5%B0%84%E7%9A%84%E8%88%AA%E5%A4%A9%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [高三师生的双向奔赴太戳了](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%89%E5%B8%88%E7%94%9F%E7%9A%84%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4%E5%A4%AA%E6%88%B3%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [多地明确高考生自主决定是否戴口罩](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E6%98%8E%E7%A1%AE%E9%AB%98%E8%80%83%E7%94%9F%E8%87%AA%E4%B8%BB%E5%86%B3%E5%AE%9A%E6%98%AF%E5%90%A6%E6%88%B4%E5%8F%A3%E7%BD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [SM公司：EXO是我们非常珍惜的艺人](https://www.baidu.com/s?wd=SM%E5%85%AC%E5%8F%B8%EF%BC%9AEXO%E6%98%AF%E6%88%91%E4%BB%AC%E9%9D%9E%E5%B8%B8%E7%8F%8D%E6%83%9C%E7%9A%84%E8%89%BA%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [酒驾司机遭交警追缉 撞树死亡](https://www.baidu.com/s?wd=%E9%85%92%E9%A9%BE%E5%8F%B8%E6%9C%BA%E9%81%AD%E4%BA%A4%E8%AD%A6%E8%BF%BD%E7%BC%89+%E6%92%9E%E6%A0%91%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [李念官宣三胎产子](https://www.baidu.com/s?wd=%E6%9D%8E%E5%BF%B5%E5%AE%98%E5%AE%A3%E4%B8%89%E8%83%8E%E4%BA%A7%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [温州4起摘杨梅坠树警情 2人心跳停止](https://www.baidu.com/s?wd=%E6%B8%A9%E5%B7%9E4%E8%B5%B7%E6%91%98%E6%9D%A8%E6%A2%85%E5%9D%A0%E6%A0%91%E8%AD%A6%E6%83%85+2%E4%BA%BA%E5%BF%83%E8%B7%B3%E5%81%9C%E6%AD%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [多地明确高考生自主决定是否戴口罩](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E6%98%8E%E7%A1%AE%E9%AB%98%E8%80%83%E7%94%9F%E8%87%AA%E4%B8%BB%E5%86%B3%E5%AE%9A%E6%98%AF%E5%90%A6%E6%88%B4%E5%8F%A3%E7%BD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [李念官宣三胎产子](https://www.baidu.com/s?wd=%E6%9D%8E%E5%BF%B5%E5%AE%98%E5%AE%A3%E4%B8%89%E8%83%8E%E4%BA%A7%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [林青霞邀请莫言家中做客吃饺子](https://www.baidu.com/s?wd=%E6%9E%97%E9%9D%92%E9%9C%9E%E9%82%80%E8%AF%B7%E8%8E%AB%E8%A8%80%E5%AE%B6%E4%B8%AD%E5%81%9A%E5%AE%A2%E5%90%83%E9%A5%BA%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [从未见过发射的航天人](https://www.baidu.com/s?wd=%E4%BB%8E%E6%9C%AA%E8%A7%81%E8%BF%87%E5%8F%91%E5%B0%84%E7%9A%84%E8%88%AA%E5%A4%A9%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [高三师生的双向奔赴太戳了](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%89%E5%B8%88%E7%94%9F%E7%9A%84%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4%E5%A4%AA%E6%88%B3%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [多地明确高考生自主决定是否戴口罩](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E6%98%8E%E7%A1%AE%E9%AB%98%E8%80%83%E7%94%9F%E8%87%AA%E4%B8%BB%E5%86%B3%E5%AE%9A%E6%98%AF%E5%90%A6%E6%88%B4%E5%8F%A3%E7%BD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [SM公司：EXO是我们非常珍惜的艺人](https://www.baidu.com/s?wd=SM%E5%85%AC%E5%8F%B8%EF%BC%9AEXO%E6%98%AF%E6%88%91%E4%BB%AC%E9%9D%9E%E5%B8%B8%E7%8F%8D%E6%83%9C%E7%9A%84%E8%89%BA%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [酒驾司机遭交警追缉 撞树死亡](https://www.baidu.com/s?wd=%E9%85%92%E9%A9%BE%E5%8F%B8%E6%9C%BA%E9%81%AD%E4%BA%A4%E8%AD%A6%E8%BF%BD%E7%BC%89+%E6%92%9E%E6%A0%91%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [李念官宣三胎产子](https://www.baidu.com/s?wd=%E6%9D%8E%E5%BF%B5%E5%AE%98%E5%AE%A3%E4%B8%89%E8%83%8E%E4%BA%A7%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [温州4起摘杨梅坠树警情 2人心跳停止](https://www.baidu.com/s?wd=%E6%B8%A9%E5%B7%9E4%E8%B5%B7%E6%91%98%E6%9D%A8%E6%A2%85%E5%9D%A0%E6%A0%91%E8%AD%A6%E6%83%85+2%E4%BA%BA%E5%BF%83%E8%B7%B3%E5%81%9C%E6%AD%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [多地明确高考生自主决定是否戴口罩](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E6%98%8E%E7%A1%AE%E9%AB%98%E8%80%83%E7%94%9F%E8%87%AA%E4%B8%BB%E5%86%B3%E5%AE%9A%E6%98%AF%E5%90%A6%E6%88%B4%E5%8F%A3%E7%BD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [李念官宣三胎产子](https://www.baidu.com/s?wd=%E6%9D%8E%E5%BF%B5%E5%AE%98%E5%AE%A3%E4%B8%89%E8%83%8E%E4%BA%A7%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
