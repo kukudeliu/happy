@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 12:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 12:35:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [早知道烂厂里了](https://s.weibo.com/weibo?q=%E6%97%A9%E7%9F%A5%E9%81%93%E7%83%82%E5%8E%82%E9%87%8C%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
 6. [鞠婧祎反手一个大比兜](https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E5%8F%8D%E6%89%8B%E4%B8%80%E4%B8%AA%E5%A4%A7%E6%AF%94%E5%85%9C%23&t=31&band_rank=6&Refer=top)<br />
 7. [王一博外网生图状态](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%A4%96%E7%BD%91%E7%94%9F%E5%9B%BE%E7%8A%B6%E6%80%81%23&t=31&band_rank=7&Refer=top)<br />
-8. [24岁研究生生日当天救了一个人](https://s.weibo.com/weibo?q=%2324%E5%B2%81%E7%A0%94%E7%A9%B6%E7%94%9F%E7%94%9F%E6%97%A5%E5%BD%93%E5%A4%A9%E6%95%91%E4%BA%86%E4%B8%80%E4%B8%AA%E4%BA%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [边伯贤金珉锡金钟大称SMTOWN说谎](https://s.weibo.com/weibo?q=%23%E8%BE%B9%E4%BC%AF%E8%B4%A4%E9%87%91%E7%8F%89%E9%94%A1%E9%87%91%E9%92%9F%E5%A4%A7%E7%A7%B0SMTOWN%E8%AF%B4%E8%B0%8E%23&t=31&band_rank=9&Refer=top)<br />
+8. [边伯贤金珉锡金钟大称SMTOWN说谎](https://s.weibo.com/weibo?q=%23%E8%BE%B9%E4%BC%AF%E8%B4%A4%E9%87%91%E7%8F%89%E9%94%A1%E9%87%91%E9%92%9F%E5%A4%A7%E7%A7%B0SMTOWN%E8%AF%B4%E8%B0%8E%23&t=31&band_rank=8&Refer=top)<br />
+9. [24岁研究生生日当天救了一个人](https://s.weibo.com/weibo?q=%2324%E5%B2%81%E7%A0%94%E7%A9%B6%E7%94%9F%E7%94%9F%E6%97%A5%E5%BD%93%E5%A4%A9%E6%95%91%E4%BA%86%E4%B8%80%E4%B8%AA%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
