@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 19:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 19:14:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [被撞死小学生母亲坠亡 曾被指责衣着](https://www.baidu.com/s?wd=%E8%A2%AB%E6%92%9E%E6%AD%BB%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%AF%8D%E4%BA%B2%E5%9D%A0%E4%BA%A1+%E6%9B%BE%E8%A2%AB%E6%8C%87%E8%B4%A3%E8%A1%A3%E7%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [多次感染对身体的危害有多大](https://www.baidu.com/s?wd=%E5%A4%9A%E6%AC%A1%E6%84%9F%E6%9F%93%E5%AF%B9%E8%BA%AB%E4%BD%93%E7%9A%84%E5%8D%B1%E5%AE%B3%E6%9C%89%E5%A4%9A%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [王栎鑫自驾上班被保安拦](https://www.baidu.com/s?wd=%E7%8E%8B%E6%A0%8E%E9%91%AB%E8%87%AA%E9%A9%BE%E4%B8%8A%E7%8F%AD%E8%A2%AB%E4%BF%9D%E5%AE%89%E6%8B%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子开咖啡店日入0元](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BC%80%E5%92%96%E5%95%A1%E5%BA%97%E6%97%A5%E5%85%A50%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女孩放弃入职后收到HR千字回复](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E6%94%BE%E5%BC%83%E5%85%A5%E8%81%8C%E5%90%8E%E6%94%B6%E5%88%B0HR%E5%8D%83%E5%AD%97%E5%9B%9E%E5%A4%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [被撞死小学生母亲坠亡 曾被指责衣着](https://www.baidu.com/s?wd=%E8%A2%AB%E6%92%9E%E6%AD%BB%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%AF%8D%E4%BA%B2%E5%9D%A0%E4%BA%A1+%E6%9B%BE%E8%A2%AB%E6%8C%87%E8%B4%A3%E8%A1%A3%E7%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [多次感染对身体的危害有多大](https://www.baidu.com/s?wd=%E5%A4%9A%E6%AC%A1%E6%84%9F%E6%9F%93%E5%AF%B9%E8%BA%AB%E4%BD%93%E7%9A%84%E5%8D%B1%E5%AE%B3%E6%9C%89%E5%A4%9A%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [王栎鑫自驾上班被保安拦](https://www.baidu.com/s?wd=%E7%8E%8B%E6%A0%8E%E9%91%AB%E8%87%AA%E9%A9%BE%E4%B8%8A%E7%8F%AD%E8%A2%AB%E4%BF%9D%E5%AE%89%E6%8B%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子开咖啡店日入0元](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BC%80%E5%92%96%E5%95%A1%E5%BA%97%E6%97%A5%E5%85%A50%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女孩放弃入职后收到HR千字回复](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E6%94%BE%E5%BC%83%E5%85%A5%E8%81%8C%E5%90%8E%E6%94%B6%E5%88%B0HR%E5%8D%83%E5%AD%97%E5%9B%9E%E5%A4%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
