@@ -1,22 +1,22 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 18:30:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 18:31:01</h4></div>
 
 > 微博  
 
 1. [校内被撞身亡小学生母亲坠楼身亡](https://s.weibo.com/weibo?q=%23%E6%A0%A1%E5%86%85%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%AF%8D%E4%BA%B2%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=1&Refer=top)<br />
-2. [老伴走后第二天浙大老教师又去捡垃圾了](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BC%B4%E8%B5%B0%E5%90%8E%E7%AC%AC%E4%BA%8C%E5%A4%A9%E6%B5%99%E5%A4%A7%E8%80%81%E6%95%99%E5%B8%88%E5%8F%88%E5%8E%BB%E6%8D%A1%E5%9E%83%E5%9C%BE%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
-3. [长江金色航道百舸争流好壮美](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B1%9F%E9%87%91%E8%89%B2%E8%88%AA%E9%81%93%E7%99%BE%E8%88%B8%E4%BA%89%E6%B5%81%E5%A5%BD%E5%A3%AE%E7%BE%8E%23&t=31&band_rank=3&Refer=top)<br />
-4. [顾姓老师已调离华南理工](https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%A7%93%E8%80%81%E5%B8%88%E5%B7%B2%E8%B0%83%E7%A6%BB%E5%8D%8E%E5%8D%97%E7%90%86%E5%B7%A5%23&t=31&band_rank=4&Refer=top)<br />
+2. [顾姓老师已调离华南理工](https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%A7%93%E8%80%81%E5%B8%88%E5%B7%B2%E8%B0%83%E7%A6%BB%E5%8D%8E%E5%8D%97%E7%90%86%E5%B7%A5%23&t=31&band_rank=2&Refer=top)<br />
+3. [老伴走后第二天浙大老教师又去捡垃圾了](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BC%B4%E8%B5%B0%E5%90%8E%E7%AC%AC%E4%BA%8C%E5%A4%A9%E6%B5%99%E5%A4%A7%E8%80%81%E6%95%99%E5%B8%88%E5%8F%88%E5%8E%BB%E6%8D%A1%E5%9E%83%E5%9C%BE%E4%BA%86%23&t=31&band_rank=3&Refer=top)<br />
+4. [陶白白你自己算到了吗](https://s.weibo.com/weibo?q=%23%E9%99%B6%E7%99%BD%E7%99%BD%E4%BD%A0%E8%87%AA%E5%B7%B1%E7%AE%97%E5%88%B0%E4%BA%86%E5%90%97%23&t=31&band_rank=4&Refer=top)<br />
 5. [收费员多问一句救下一条命](https://s.weibo.com/weibo?q=%23%E6%94%B6%E8%B4%B9%E5%91%98%E5%A4%9A%E9%97%AE%E4%B8%80%E5%8F%A5%E6%95%91%E4%B8%8B%E4%B8%80%E6%9D%A1%E5%91%BD%23&t=31&band_rank=5&Refer=top)<br />
-6. [陶白白你自己算到了吗](https://s.weibo.com/weibo?q=%23%E9%99%B6%E7%99%BD%E7%99%BD%E4%BD%A0%E8%87%AA%E5%B7%B1%E7%AE%97%E5%88%B0%E4%BA%86%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
+6. [林志玲说是她跟Akira求婚的](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%97%E7%8E%B2%E8%AF%B4%E6%98%AF%E5%A5%B9%E8%B7%9FAkira%E6%B1%82%E5%A9%9A%E7%9A%84%23&t=31&band_rank=6&Refer=top)<br />
 7. [14岁少年捡到4岁娃帮忙找妈妈](https://s.weibo.com/weibo?q=%2314%E5%B2%81%E5%B0%91%E5%B9%B4%E6%8D%A1%E5%88%B04%E5%B2%81%E5%A8%83%E5%B8%AE%E5%BF%99%E6%89%BE%E5%A6%88%E5%A6%88%23&t=31&band_rank=7&Refer=top)<br />
-8. [林志玲说是她跟Akira求婚的](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%97%E7%8E%B2%E8%AF%B4%E6%98%AF%E5%A5%B9%E8%B7%9FAkira%E6%B1%82%E5%A9%9A%E7%9A%84%23&t=31&band_rank=8&Refer=top)<br />
-9. [黄晓明救了我的手机](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E6%95%91%E4%BA%86%E6%88%91%E7%9A%84%E6%89%8B%E6%9C%BA%23&t=31&band_rank=9&Refer=top)<br />
+8. [黄晓明救了我的手机](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E6%95%91%E4%BA%86%E6%88%91%E7%9A%84%E6%89%8B%E6%9C%BA%23&t=31&band_rank=8&Refer=top)<br />
+9. [吴倩没有镜头](https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%80%A9%E6%B2%A1%E6%9C%89%E9%95%9C%E5%A4%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [韩国出口连跌 8 个月，对中美欧出口全部下滑，芯片出口大跌 36.2%，受哪些因素影响？](https://www.zhihu.com/question/604222429)<br />
-2. [炖肉的时候，有时肉越炖越烂，有的时候却越炖越硬，这是为什么呢？背后有什么科学道理呢？](https://www.zhihu.com/question/507310446)<br />
-3. [上海一对夫妻月薪超 60 万元，两年入职 300 家公司，牵出数百人的「职业骗薪」团伙，如何看待此事？](https://www.zhihu.com/question/604403306)<br />
+2. [上海一对夫妻月薪超 60 万元，两年入职 300 家公司，牵出数百人的「职业骗薪」团伙，如何看待此事？](https://www.zhihu.com/question/604403306)<br />
+3. [炖肉的时候，有时肉越炖越烂，有的时候却越炖越硬，这是为什么呢？背后有什么科学道理呢？](https://www.zhihu.com/question/507310446)<br />
 4. [长寿是一种灾难，你认同吗？](https://www.zhihu.com/question/597336124)<br />
 5. [女生穿婚纱看王源演唱会被分手系谣言，当事人称「聊天记录是伪造」，如何看待此事？ 造谣者需要负责吗？](https://www.zhihu.com/question/604390809)<br />
 6. [想问问大家，是觉得一米八的蟑螂恐怖还是一百八十万只蟑螂恐怖？如果一定要面对其中之一，你会怎么办？](https://www.zhihu.com/question/600068717)<br />
