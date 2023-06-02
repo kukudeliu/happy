@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 19:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 19:52:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [被撞死小学生母亲坠亡 曾被指责衣着](https://www.baidu.com/s?wd=%E8%A2%AB%E6%92%9E%E6%AD%BB%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%AF%8D%E4%BA%B2%E5%9D%A0%E4%BA%A1+%E6%9B%BE%E8%A2%AB%E6%8C%87%E8%B4%A3%E8%A1%A3%E7%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [议论被撞小学生母亲妆容有多残忍](https://www.baidu.com/s?wd=%E8%AE%AE%E8%AE%BA%E8%A2%AB%E6%92%9E%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%AF%8D%E4%BA%B2%E5%A6%86%E5%AE%B9%E6%9C%89%E5%A4%9A%E6%AE%8B%E5%BF%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [吴所谓得知吴京去开家长会的反应](https://www.baidu.com/s?wd=%E5%90%B4%E6%89%80%E8%B0%93%E5%BE%97%E7%9F%A5%E5%90%B4%E4%BA%AC%E5%8E%BB%E5%BC%80%E5%AE%B6%E9%95%BF%E4%BC%9A%E7%9A%84%E5%8F%8D%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [78岁老人参加超市促销被挤倒骨折](https://www.baidu.com/s?wd=78%E5%B2%81%E8%80%81%E4%BA%BA%E5%8F%82%E5%8A%A0%E8%B6%85%E5%B8%82%E4%BF%83%E9%94%80%E8%A2%AB%E6%8C%A4%E5%80%92%E9%AA%A8%E6%8A%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [江苏发生命案一对母子遇害 警方通报](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E5%8F%91%E7%94%9F%E5%91%BD%E6%A1%88%E4%B8%80%E5%AF%B9%E6%AF%8D%E5%AD%90%E9%81%87%E5%AE%B3+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [被撞死小学生母亲坠亡 曾被指责衣着](https://www.baidu.com/s?wd=%E8%A2%AB%E6%92%9E%E6%AD%BB%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%AF%8D%E4%BA%B2%E5%9D%A0%E4%BA%A1+%E6%9B%BE%E8%A2%AB%E6%8C%87%E8%B4%A3%E8%A1%A3%E7%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [议论被撞小学生母亲妆容有多残忍](https://www.baidu.com/s?wd=%E8%AE%AE%E8%AE%BA%E8%A2%AB%E6%92%9E%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%AF%8D%E4%BA%B2%E5%A6%86%E5%AE%B9%E6%9C%89%E5%A4%9A%E6%AE%8B%E5%BF%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [吴所谓得知吴京去开家长会的反应](https://www.baidu.com/s?wd=%E5%90%B4%E6%89%80%E8%B0%93%E5%BE%97%E7%9F%A5%E5%90%B4%E4%BA%AC%E5%8E%BB%E5%BC%80%E5%AE%B6%E9%95%BF%E4%BC%9A%E7%9A%84%E5%8F%8D%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [78岁老人参加超市促销被挤倒骨折](https://www.baidu.com/s?wd=78%E5%B2%81%E8%80%81%E4%BA%BA%E5%8F%82%E5%8A%A0%E8%B6%85%E5%B8%82%E4%BF%83%E9%94%80%E8%A2%AB%E6%8C%A4%E5%80%92%E9%AA%A8%E6%8A%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [江苏发生命案一对母子遇害 警方通报](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E5%8F%91%E7%94%9F%E5%91%BD%E6%A1%88%E4%B8%80%E5%AF%B9%E6%AF%8D%E5%AD%90%E9%81%87%E5%AE%B3+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
