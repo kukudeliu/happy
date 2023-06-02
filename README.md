@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 15:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 15:24:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [夫妻入职300家公司骗工资60万](https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E5%85%A5%E8%81%8C300%E5%AE%B6%E5%85%AC%E5%8F%B8%E9%AA%97%E5%B7%A5%E8%B5%8460%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [王鹤棣要去泰国录跑男](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E8%A6%81%E5%8E%BB%E6%B3%B0%E5%9B%BD%E5%BD%95%E8%B7%91%E7%94%B7%23&t=31&band_rank=7&Refer=top)<br />
 8. [蔡康永把林志玲问哭](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BA%B7%E6%B0%B8%E6%8A%8A%E6%9E%97%E5%BF%97%E7%8E%B2%E9%97%AE%E5%93%AD%23&t=31&band_rank=8&Refer=top)<br />
-9. [谢娜给曾可妮乘风创始人](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E7%BB%99%E6%9B%BE%E5%8F%AF%E5%A6%AE%E4%B9%98%E9%A3%8E%E5%88%9B%E5%A7%8B%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
+9. [北航已经有三名航天员了](https://s.weibo.com/weibo?q=%E5%8C%97%E8%88%AA%E5%B7%B2%E7%BB%8F%E6%9C%89%E4%B8%89%E5%90%8D%E8%88%AA%E5%A4%A9%E5%91%98%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -33,8 +33,8 @@
 5. [西游记主题公园游客吵架牛魔王劝架](https://www.baidu.com/s?wd=%E8%A5%BF%E6%B8%B8%E8%AE%B0%E4%B8%BB%E9%A2%98%E5%85%AC%E5%9B%AD%E6%B8%B8%E5%AE%A2%E5%90%B5%E6%9E%B6%E7%89%9B%E9%AD%94%E7%8E%8B%E5%8A%9D%E6%9E%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [蔡康永把林志玲问哭](https://www.baidu.com/s?wd=%E8%94%A1%E5%BA%B7%E6%B0%B8%E6%8A%8A%E6%9E%97%E5%BF%97%E7%8E%B2%E9%97%AE%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [东风本田4s店借车震宣传新车被罚](https://www.baidu.com/s?wd=%E4%B8%9C%E9%A3%8E%E6%9C%AC%E7%94%B04s%E5%BA%97%E5%80%9F%E8%BD%A6%E9%9C%87%E5%AE%A3%E4%BC%A0%E6%96%B0%E8%BD%A6%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [学生网购小石头收到7斤巨石](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E7%BD%91%E8%B4%AD%E5%B0%8F%E7%9F%B3%E5%A4%B4%E6%94%B6%E5%88%B07%E6%96%A4%E5%B7%A8%E7%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女孩放弃入职后收到HR千字回复](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E6%94%BE%E5%BC%83%E5%85%A5%E8%81%8C%E5%90%8E%E6%94%B6%E5%88%B0HR%E5%8D%83%E5%AD%97%E5%9B%9E%E5%A4%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女孩放弃入职后收到HR千字回复](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E6%94%BE%E5%BC%83%E5%85%A5%E8%81%8C%E5%90%8E%E6%94%B6%E5%88%B0HR%E5%8D%83%E5%AD%97%E5%9B%9E%E5%A4%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [学生网购小石头收到7斤巨石](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E7%BD%91%E8%B4%AD%E5%B0%8F%E7%9F%B3%E5%A4%B4%E6%94%B6%E5%88%B07%E6%96%A4%E5%B7%A8%E7%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [西游记主题公园游客吵架牛魔王劝架](https://www.baidu.com/s?wd=%E8%A5%BF%E6%B8%B8%E8%AE%B0%E4%B8%BB%E9%A2%98%E5%85%AC%E5%9B%AD%E6%B8%B8%E5%AE%A2%E5%90%B5%E6%9E%B6%E7%89%9B%E9%AD%94%E7%8E%8B%E5%8A%9D%E6%9E%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [蔡康永把林志玲问哭](https://www.baidu.com/s?wd=%E8%94%A1%E5%BA%B7%E6%B0%B8%E6%8A%8A%E6%9E%97%E5%BF%97%E7%8E%B2%E9%97%AE%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [东风本田4s店借车震宣传新车被罚](https://www.baidu.com/s?wd=%E4%B8%9C%E9%A3%8E%E6%9C%AC%E7%94%B04s%E5%BA%97%E5%80%9F%E8%BD%A6%E9%9C%87%E5%AE%A3%E4%BC%A0%E6%96%B0%E8%BD%A6%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [学生网购小石头收到7斤巨石](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E7%BD%91%E8%B4%AD%E5%B0%8F%E7%9F%B3%E5%A4%B4%E6%94%B6%E5%88%B07%E6%96%A4%E5%B7%A8%E7%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女孩放弃入职后收到HR千字回复](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E6%94%BE%E5%BC%83%E5%85%A5%E8%81%8C%E5%90%8E%E6%94%B6%E5%88%B0HR%E5%8D%83%E5%AD%97%E5%9B%9E%E5%A4%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女孩放弃入职后收到HR千字回复](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E6%94%BE%E5%BC%83%E5%85%A5%E8%81%8C%E5%90%8E%E6%94%B6%E5%88%B0HR%E5%8D%83%E5%AD%97%E5%9B%9E%E5%A4%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [学生网购小石头收到7斤巨石](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E7%BD%91%E8%B4%AD%E5%B0%8F%E7%9F%B3%E5%A4%B4%E6%94%B6%E5%88%B07%E6%96%A4%E5%B7%A8%E7%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
