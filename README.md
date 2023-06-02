@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 17:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 17:40:01</h4></div>
 
 > 微博  
 
 1. [顾姓老师已调离华南理工](https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%A7%93%E8%80%81%E5%B8%88%E5%B7%B2%E8%B0%83%E7%A6%BB%E5%8D%8E%E5%8D%97%E7%90%86%E5%B7%A5%23&t=31&band_rank=1&Refer=top)<br />
-2. [高校回应女博士毕业答辩争议](https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%8D%9A%E5%A3%AB%E6%AF%95%E4%B8%9A%E7%AD%94%E8%BE%A9%E4%BA%89%E8%AE%AE%23&t=31&band_rank=2&Refer=top)<br />
+2. [林志玲说是她跟Akira求婚的](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%97%E7%8E%B2%E8%AF%B4%E6%98%AF%E5%A5%B9%E8%B7%9FAkira%E6%B1%82%E5%A9%9A%E7%9A%84%23&t=31&band_rank=2&Refer=top)<br />
 3. [长江金色航道百舸争流好壮美](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B1%9F%E9%87%91%E8%89%B2%E8%88%AA%E9%81%93%E7%99%BE%E8%88%B8%E4%BA%89%E6%B5%81%E5%A5%BD%E5%A3%AE%E7%BE%8E%23&t=31&band_rank=3&Refer=top)<br />
-4. [林志玲说是她跟Akira求婚的](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%97%E7%8E%B2%E8%AF%B4%E6%98%AF%E5%A5%B9%E8%B7%9FAkira%E6%B1%82%E5%A9%9A%E7%9A%84%23&t=31&band_rank=4&Refer=top)<br />
+4. [高校回应女博士毕业答辩争议](https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%8D%9A%E5%A3%AB%E6%AF%95%E4%B8%9A%E7%AD%94%E8%BE%A9%E4%BA%89%E8%AE%AE%23&t=31&band_rank=4&Refer=top)<br />
 5. [黄晓明救了我的手机](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E6%95%91%E4%BA%86%E6%88%91%E7%9A%84%E6%89%8B%E6%9C%BA%23&t=31&band_rank=5&Refer=top)<br />
 6. [老伴走后第二天浙大老教师又去捡垃圾了](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BC%B4%E8%B5%B0%E5%90%8E%E7%AC%AC%E4%BA%8C%E5%A4%A9%E6%B5%99%E5%A4%A7%E8%80%81%E6%95%99%E5%B8%88%E5%8F%88%E5%8E%BB%E6%8D%A1%E5%9E%83%E5%9C%BE%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [陶白白你自己算到了吗](https://s.weibo.com/weibo?q=%23%E9%99%B6%E7%99%BD%E7%99%BD%E4%BD%A0%E8%87%AA%E5%B7%B1%E7%AE%97%E5%88%B0%E4%BA%86%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
-8. [四川大学回应女博士生介入导师婚姻](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%8D%9A%E5%A3%AB%E7%94%9F%E4%BB%8B%E5%85%A5%E5%AF%BC%E5%B8%88%E5%A9%9A%E5%A7%BB%23&t=31&band_rank=8&Refer=top)<br />
-9. [中国邮政](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E9%82%AE%E6%94%BF&t=31&band_rank=9&Refer=top)<br />
+8. [中国邮政](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E9%82%AE%E6%94%BF&t=31&band_rank=8&Refer=top)<br />
+9. [四川大学回应女博士生介入导师婚姻](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%8D%9A%E5%A3%AB%E7%94%9F%E4%BB%8B%E5%85%A5%E5%AF%BC%E5%B8%88%E5%A9%9A%E5%A7%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
