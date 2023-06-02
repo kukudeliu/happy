@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 08:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 08:26:02</h4></div>
 
 > 微博  
 
@@ -22,28 +22,28 @@
 6. [有人让 ChatGPT 做高三试卷，英语、历史等文字性内容成功率非常高，只有物理得零分，如何看待此事？](https://www.zhihu.com/question/604261512)<br />
 7. [黄蓉死在襄阳的时候，黄药师为什么不来救女儿？](https://www.zhihu.com/question/598195157)<br />
 8. [为什么我们中学物理课本，只承认古希腊的阿基米德的杠杆定理，而不认墨子的杠杆定理？](https://www.zhihu.com/question/603979051)<br />
-9. [如何评价原神 3.7 版本，6 月 1 日新深渊？](https://www.zhihu.com/question/604176024)<br />
+9. [为什么苹果和安卓厂商几乎都放弃了小屏市场？](https://www.zhihu.com/question/603801469)<br />
 
 > 百度  
 
 1. [少年志](https://www.baidu.com/s?wd=%E5%B0%91%E5%B9%B4%E5%BF%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [拜登出席毕业典礼被绊倒](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E5%87%BA%E5%B8%AD%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E8%A2%AB%E7%BB%8A%E5%80%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [林青霞邀请莫言家中做客吃饺子](https://www.baidu.com/s?wd=%E6%9E%97%E9%9D%92%E9%9C%9E%E9%82%80%E8%AF%B7%E8%8E%AB%E8%A8%80%E5%AE%B6%E4%B8%AD%E5%81%9A%E5%AE%A2%E5%90%83%E9%A5%BA%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [谁来拯救岌岌可危的油价？](https://www.baidu.com/s?wd=%E8%B0%81%E6%9D%A5%E6%8B%AF%E6%95%91%E5%B2%8C%E5%B2%8C%E5%8F%AF%E5%8D%B1%E7%9A%84%E6%B2%B9%E4%BB%B7%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [从未见过发射的航天人](https://www.baidu.com/s?wd=%E4%BB%8E%E6%9C%AA%E8%A7%81%E8%BF%87%E5%8F%91%E5%B0%84%E7%9A%84%E8%88%AA%E5%A4%A9%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [高三师生的双向奔赴太戳了](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%89%E5%B8%88%E7%94%9F%E7%9A%84%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4%E5%A4%AA%E6%88%B3%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子为拍照被卷入海中不幸身亡](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%BA%E6%8B%8D%E7%85%A7%E8%A2%AB%E5%8D%B7%E5%85%A5%E6%B5%B7%E4%B8%AD%E4%B8%8D%E5%B9%B8%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [谁来拯救岌岌可危的油价？](https://www.baidu.com/s?wd=%E8%B0%81%E6%9D%A5%E6%8B%AF%E6%95%91%E5%B2%8C%E5%B2%8C%E5%8F%AF%E5%8D%B1%E7%9A%84%E6%B2%B9%E4%BB%B7%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [江苏南通发生命案 居民称死者是母子](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E5%8D%97%E9%80%9A%E5%8F%91%E7%94%9F%E5%91%BD%E6%A1%88+%E5%B1%85%E6%B0%91%E7%A7%B0%E6%AD%BB%E8%80%85%E6%98%AF%E6%AF%8D%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [江苏南通发生命案 居民称死者是母子](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E5%8D%97%E9%80%9A%E5%8F%91%E7%94%9F%E5%91%BD%E6%A1%88+%E5%B1%85%E6%B0%91%E7%A7%B0%E6%AD%BB%E8%80%85%E6%98%AF%E6%AF%8D%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [林青霞邀请莫言家中做客吃饺子](https://www.baidu.com/s?wd=%E6%9E%97%E9%9D%92%E9%9C%9E%E9%82%80%E8%AF%B7%E8%8E%AB%E8%A8%80%E5%AE%B6%E4%B8%AD%E5%81%9A%E5%AE%A2%E5%90%83%E9%A5%BA%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [幼儿园摆20桌请200孩子吃席庆六一](https://www.baidu.com/s?wd=%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%91%8620%E6%A1%8C%E8%AF%B7200%E5%AD%A9%E5%AD%90%E5%90%83%E5%B8%AD%E5%BA%86%E5%85%AD%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [少年志](https://www.baidu.com/s?wd=%E5%B0%91%E5%B9%B4%E5%BF%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [拜登出席毕业典礼被绊倒](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E5%87%BA%E5%B8%AD%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E8%A2%AB%E7%BB%8A%E5%80%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [林青霞邀请莫言家中做客吃饺子](https://www.baidu.com/s?wd=%E6%9E%97%E9%9D%92%E9%9C%9E%E9%82%80%E8%AF%B7%E8%8E%AB%E8%A8%80%E5%AE%B6%E4%B8%AD%E5%81%9A%E5%AE%A2%E5%90%83%E9%A5%BA%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [谁来拯救岌岌可危的油价？](https://www.baidu.com/s?wd=%E8%B0%81%E6%9D%A5%E6%8B%AF%E6%95%91%E5%B2%8C%E5%B2%8C%E5%8F%AF%E5%8D%B1%E7%9A%84%E6%B2%B9%E4%BB%B7%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [从未见过发射的航天人](https://www.baidu.com/s?wd=%E4%BB%8E%E6%9C%AA%E8%A7%81%E8%BF%87%E5%8F%91%E5%B0%84%E7%9A%84%E8%88%AA%E5%A4%A9%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [高三师生的双向奔赴太戳了](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%89%E5%B8%88%E7%94%9F%E7%9A%84%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4%E5%A4%AA%E6%88%B3%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子为拍照被卷入海中不幸身亡](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%BA%E6%8B%8D%E7%85%A7%E8%A2%AB%E5%8D%B7%E5%85%A5%E6%B5%B7%E4%B8%AD%E4%B8%8D%E5%B9%B8%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [谁来拯救岌岌可危的油价？](https://www.baidu.com/s?wd=%E8%B0%81%E6%9D%A5%E6%8B%AF%E6%95%91%E5%B2%8C%E5%B2%8C%E5%8F%AF%E5%8D%B1%E7%9A%84%E6%B2%B9%E4%BB%B7%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [江苏南通发生命案 居民称死者是母子](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E5%8D%97%E9%80%9A%E5%8F%91%E7%94%9F%E5%91%BD%E6%A1%88+%E5%B1%85%E6%B0%91%E7%A7%B0%E6%AD%BB%E8%80%85%E6%98%AF%E6%AF%8D%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [江苏南通发生命案 居民称死者是母子](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E5%8D%97%E9%80%9A%E5%8F%91%E7%94%9F%E5%91%BD%E6%A1%88+%E5%B1%85%E6%B0%91%E7%A7%B0%E6%AD%BB%E8%80%85%E6%98%AF%E6%AF%8D%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [林青霞邀请莫言家中做客吃饺子](https://www.baidu.com/s?wd=%E6%9E%97%E9%9D%92%E9%9C%9E%E9%82%80%E8%AF%B7%E8%8E%AB%E8%A8%80%E5%AE%B6%E4%B8%AD%E5%81%9A%E5%AE%A2%E5%90%83%E9%A5%BA%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [幼儿园摆20桌请200孩子吃席庆六一](https://www.baidu.com/s?wd=%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%91%8620%E6%A1%8C%E8%AF%B7200%E5%AD%A9%E5%AD%90%E5%90%83%E5%B8%AD%E5%BA%86%E5%85%AD%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
