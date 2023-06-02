@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 14:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 14:25:02</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [拼多多在电商竞争中靠什么生存？](https://www.zhihu.com/question/603808015)<br />
 7. [维吾尔语能否和土耳其语互通？如果能的话，能互通多少？](https://www.zhihu.com/question/526103427)<br />
 8. [A 股房企退市第一股诞生，多家地产也濒临退市，房企「退市潮」来了？房价呢？投资地产股是机会还是陷阱？](https://www.zhihu.com/question/604271815)<br />
-9. [合租室友带男友回家怎么办？](https://www.zhihu.com/question/603882925)<br />
+9. [为什么令狐冲的独孤九剑，在岳不群等人眼里只是「乱七八糟」的剑法？](https://www.zhihu.com/question/597063631)<br />
 
 > 百度  
 
