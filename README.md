@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 10:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 10:16:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [被骗到缅甸6小伙已被解救](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E9%AA%97%E5%88%B0%E7%BC%85%E7%94%B86%E5%B0%8F%E4%BC%99%E5%B7%B2%E8%A2%AB%E8%A7%A3%E6%95%91%23&t=31&band_rank=5&Refer=top)<br />
 6. [专家称不排除二阳后还会有三阳](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E4%B8%8D%E6%8E%92%E9%99%A4%E4%BA%8C%E9%98%B3%E5%90%8E%E8%BF%98%E4%BC%9A%E6%9C%89%E4%B8%89%E9%98%B3%23&t=31&band_rank=6&Refer=top)<br />
 7. [NBA总决赛](https://s.weibo.com/weibo?q=NBA%E6%80%BB%E5%86%B3%E8%B5%9B&t=31&band_rank=7&Refer=top)<br />
-8. [早知道烂厂里了](https://s.weibo.com/weibo?q=%E6%97%A9%E7%9F%A5%E9%81%93%E7%83%82%E5%8E%82%E9%87%8C%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [Jennie在香奈儿表演](https://s.weibo.com/weibo?q=%23Jennie%E5%9C%A8%E9%A6%99%E5%A5%88%E5%84%BF%E8%A1%A8%E6%BC%94%23&t=31&band_rank=9&Refer=top)<br />
+8. [Jennie在香奈儿表演](https://s.weibo.com/weibo?q=%23Jennie%E5%9C%A8%E9%A6%99%E5%A5%88%E5%84%BF%E8%A1%A8%E6%BC%94%23&t=31&band_rank=8&Refer=top)<br />
+9. [早知道烂厂里了](https://s.weibo.com/weibo?q=%E6%97%A9%E7%9F%A5%E9%81%93%E7%83%82%E5%8E%82%E9%87%8C%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
