@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 09:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 09:34:02</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [房东给出租房装5级能耗空调](https://www.baidu.com/s?wd=%E6%88%BF%E4%B8%9C%E7%BB%99%E5%87%BA%E7%A7%9F%E6%88%BF%E8%A3%855%E7%BA%A7%E8%83%BD%E8%80%97%E7%A9%BA%E8%B0%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [央视网评女孩被抛弃后拒认父母](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E7%BD%91%E8%AF%84%E5%A5%B3%E5%AD%A9%E8%A2%AB%E6%8A%9B%E5%BC%83%E5%90%8E%E6%8B%92%E8%AE%A4%E7%88%B6%E6%AF%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [谁来拯救岌岌可危的油价？](https://www.baidu.com/s?wd=%E8%B0%81%E6%9D%A5%E6%8B%AF%E6%95%91%E5%B2%8C%E5%B2%8C%E5%8F%AF%E5%8D%B1%E7%9A%84%E6%B2%B9%E4%BB%B7%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [苹果全球首播不带货 130万人围观](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%85%A8%E7%90%83%E9%A6%96%E6%92%AD%E4%B8%8D%E5%B8%A6%E8%B4%A7+130%E4%B8%87%E4%BA%BA%E5%9B%B4%E8%A7%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [江苏南通发生命案 居民称死者是母子](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E5%8D%97%E9%80%9A%E5%8F%91%E7%94%9F%E5%91%BD%E6%A1%88+%E5%B1%85%E6%B0%91%E7%A7%B0%E6%AD%BB%E8%80%85%E6%98%AF%E6%AF%8D%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [房东给出租房装5级能耗空调](https://www.baidu.com/s?wd=%E6%88%BF%E4%B8%9C%E7%BB%99%E5%87%BA%E7%A7%9F%E6%88%BF%E8%A3%855%E7%BA%A7%E8%83%BD%E8%80%97%E7%A9%BA%E8%B0%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [央视网评女孩被抛弃后拒认父母](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E7%BD%91%E8%AF%84%E5%A5%B3%E5%AD%A9%E8%A2%AB%E6%8A%9B%E5%BC%83%E5%90%8E%E6%8B%92%E8%AE%A4%E7%88%B6%E6%AF%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [谁来拯救岌岌可危的油价？](https://www.baidu.com/s?wd=%E8%B0%81%E6%9D%A5%E6%8B%AF%E6%95%91%E5%B2%8C%E5%B2%8C%E5%8F%AF%E5%8D%B1%E7%9A%84%E6%B2%B9%E4%BB%B7%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [苹果全球首播不带货 130万人围观](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%85%A8%E7%90%83%E9%A6%96%E6%92%AD%E4%B8%8D%E5%B8%A6%E8%B4%A7+130%E4%B8%87%E4%BA%BA%E5%9B%B4%E8%A7%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [江苏南通发生命案 居民称死者是母子](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E5%8D%97%E9%80%9A%E5%8F%91%E7%94%9F%E5%91%BD%E6%A1%88+%E5%B1%85%E6%B0%91%E7%A7%B0%E6%AD%BB%E8%80%85%E6%98%AF%E6%AF%8D%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
