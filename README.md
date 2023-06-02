@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 09:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 09:12:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [王诗龄晒健身照](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%AF%97%E9%BE%84%E6%99%92%E5%81%A5%E8%BA%AB%E7%85%A7%23&t=31&band_rank=6&Refer=top)<br />
 7. [早知道烂厂里了](https://s.weibo.com/weibo?q=%E6%97%A9%E7%9F%A5%E9%81%93%E7%83%82%E5%8E%82%E9%87%8C%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [NBA总决赛](https://s.weibo.com/weibo?q=NBA%E6%80%BB%E5%86%B3%E8%B5%9B&t=31&band_rank=8&Refer=top)<br />
-9. [拜登又摔了](https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E5%8F%88%E6%91%94%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [练车两分钟就疲劳驾驶了](https://s.weibo.com/weibo?q=%E7%BB%83%E8%BD%A6%E4%B8%A4%E5%88%86%E9%92%9F%E5%B0%B1%E7%96%B2%E5%8A%B3%E9%A9%BE%E9%A9%B6%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
