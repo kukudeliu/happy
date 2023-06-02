@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 11:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 11:05:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [邻居说让他儿子到我家吃中饭，按 15 元一顿给钱，能同意吗?](https://www.zhihu.com/question/603469319)<br />
 5. [继「村 BA」后「村超」火了，韩乔生将赴现场解说，如何看待此现象？「村超」能救中国足球吗？](https://www.zhihu.com/question/604276146)<br />
 6. [5 月百城新房价格止涨转跌，二手房跌幅扩大，房地产市场现状如何？「以价换量」会成为趋势吗？](https://www.zhihu.com/question/604220951)<br />
-7. [阿根廷国家队中国行票务公布：最高 4800 元、最低 580 元，你会选择去现场看梅西吗？](https://www.zhihu.com/question/604305667)<br />
-8. [如何评价 2023 年 LPL 夏季赛 WBG 2：0 战胜 JDG?](https://www.zhihu.com/question/604307628)<br />
-9. [如何评价《蜘蛛侠：纵横宇宙》？](https://www.zhihu.com/question/604207622)<br />
+7. [如何评价 2023 年 LPL 夏季赛 WBG 2：0 战胜 JDG?](https://www.zhihu.com/question/604307628)<br />
+8. [阿根廷国家队中国行票务公布：最高 4800 元、最低 580 元，你会选择去现场看梅西吗？](https://www.zhihu.com/question/604305667)<br />
+9. [2022-23 赛季 NBA 总决赛掘金扑灭热火先拔头筹，约基奇 27+10+14，如何评价这场比赛？](https://www.zhihu.com/question/604369865)<br />
 
 > 百度  
 
