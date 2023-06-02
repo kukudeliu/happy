@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 19:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 19:28:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [收费员多问一句救下一条命](https://s.weibo.com/weibo?q=%23%E6%94%B6%E8%B4%B9%E5%91%98%E5%A4%9A%E9%97%AE%E4%B8%80%E5%8F%A5%E6%95%91%E4%B8%8B%E4%B8%80%E6%9D%A1%E5%91%BD%23&t=31&band_rank=5&Refer=top)<br />
 6. [陶白白你自己算到了吗](https://s.weibo.com/weibo?q=%23%E9%99%B6%E7%99%BD%E7%99%BD%E4%BD%A0%E8%87%AA%E5%B7%B1%E7%AE%97%E5%88%B0%E4%BA%86%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [黄晓明救了我的手机](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E6%95%91%E4%BA%86%E6%88%91%E7%9A%84%E6%89%8B%E6%9C%BA%23&t=31&band_rank=7&Refer=top)<br />
-8. [四川大学回应女博士生介入导师婚姻](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%8D%9A%E5%A3%AB%E7%94%9F%E4%BB%8B%E5%85%A5%E5%AF%BC%E5%B8%88%E5%A9%9A%E5%A7%BB%23&t=31&band_rank=8&Refer=top)<br />
-9. [林志玲说是她跟Akira求婚的](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%97%E7%8E%B2%E8%AF%B4%E6%98%AF%E5%A5%B9%E8%B7%9FAkira%E6%B1%82%E5%A9%9A%E7%9A%84%23&t=31&band_rank=9&Refer=top)<br />
+8. [学生捡手机交派出所民警送奖到学校](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E6%8D%A1%E6%89%8B%E6%9C%BA%E4%BA%A4%E6%B4%BE%E5%87%BA%E6%89%80%E6%B0%91%E8%AD%A6%E9%80%81%E5%A5%96%E5%88%B0%E5%AD%A6%E6%A0%A1%23&t=31&band_rank=8&Refer=top)<br />
+9. [四川大学回应女博士生介入导师婚姻](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%8D%9A%E5%A3%AB%E7%94%9F%E4%BB%8B%E5%85%A5%E5%AF%BC%E5%B8%88%E5%A9%9A%E5%A7%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -34,7 +34,7 @@
 6. [被撞死小学生母亲坠亡 曾被指责衣着](https://www.baidu.com/s?wd=%E8%A2%AB%E6%92%9E%E6%AD%BB%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%AF%8D%E4%BA%B2%E5%9D%A0%E4%BA%A1+%E6%9B%BE%E8%A2%AB%E6%8C%87%E8%B4%A3%E8%A1%A3%E7%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [议论被撞小学生母亲妆容有多残忍](https://www.baidu.com/s?wd=%E8%AE%AE%E8%AE%BA%E8%A2%AB%E6%92%9E%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%AF%8D%E4%BA%B2%E5%A6%86%E5%AE%B9%E6%9C%89%E5%A4%9A%E6%AE%8B%E5%BF%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [李荣浩提前给杨丞琳庆生](https://www.baidu.com/s?wd=%E6%9D%8E%E8%8D%A3%E6%B5%A9%E6%8F%90%E5%89%8D%E7%BB%99%E6%9D%A8%E4%B8%9E%E7%90%B3%E5%BA%86%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女孩放弃入职后收到HR千字回复](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E6%94%BE%E5%BC%83%E5%85%A5%E8%81%8C%E5%90%8E%E6%94%B6%E5%88%B0HR%E5%8D%83%E5%AD%97%E5%9B%9E%E5%A4%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [蔡康永把林志玲问哭](https://www.baidu.com/s?wd=%E8%94%A1%E5%BA%B7%E6%B0%B8%E6%8A%8A%E6%9E%97%E5%BF%97%E7%8E%B2%E9%97%AE%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [被撞死小学生母亲坠亡 曾被指责衣着](https://www.baidu.com/s?wd=%E8%A2%AB%E6%92%9E%E6%AD%BB%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%AF%8D%E4%BA%B2%E5%9D%A0%E4%BA%A1+%E6%9B%BE%E8%A2%AB%E6%8C%87%E8%B4%A3%E8%A1%A3%E7%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [议论被撞小学生母亲妆容有多残忍](https://www.baidu.com/s?wd=%E8%AE%AE%E8%AE%BA%E8%A2%AB%E6%92%9E%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%AF%8D%E4%BA%B2%E5%A6%86%E5%AE%B9%E6%9C%89%E5%A4%9A%E6%AE%8B%E5%BF%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [李荣浩提前给杨丞琳庆生](https://www.baidu.com/s?wd=%E6%9D%8E%E8%8D%A3%E6%B5%A9%E6%8F%90%E5%89%8D%E7%BB%99%E6%9D%A8%E4%B8%9E%E7%90%B3%E5%BA%86%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女孩放弃入职后收到HR千字回复](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E6%94%BE%E5%BC%83%E5%85%A5%E8%81%8C%E5%90%8E%E6%94%B6%E5%88%B0HR%E5%8D%83%E5%AD%97%E5%9B%9E%E5%A4%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [蔡康永把林志玲问哭](https://www.baidu.com/s?wd=%E8%94%A1%E5%BA%B7%E6%B0%B8%E6%8A%8A%E6%9E%97%E5%BF%97%E7%8E%B2%E9%97%AE%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
