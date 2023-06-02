@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 15:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 15:42:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [吴倩没有镜头](https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%80%A9%E6%B2%A1%E6%9C%89%E9%95%9C%E5%A4%B4%23&t=31&band_rank=6&Refer=top)<br />
 7. [夫妻入职300家公司骗工资60万](https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E5%85%A5%E8%81%8C300%E5%AE%B6%E5%85%AC%E5%8F%B8%E9%AA%97%E5%B7%A5%E8%B5%8460%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [王鹤棣要去泰国录跑男](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E8%A6%81%E5%8E%BB%E6%B3%B0%E5%9B%BD%E5%BD%95%E8%B7%91%E7%94%B7%23&t=31&band_rank=8&Refer=top)<br />
-9. [蔡康永把林志玲问哭](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BA%B7%E6%B0%B8%E6%8A%8A%E6%9E%97%E5%BF%97%E7%8E%B2%E9%97%AE%E5%93%AD%23&t=31&band_rank=9&Refer=top)<br />
+9. [五月天因为余佳运不再当音乐节目评委](https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E5%9B%A0%E4%B8%BA%E4%BD%99%E4%BD%B3%E8%BF%90%E4%B8%8D%E5%86%8D%E5%BD%93%E9%9F%B3%E4%B9%90%E8%8A%82%E7%9B%AE%E8%AF%84%E5%A7%94%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -33,8 +33,8 @@
 5. [西游记主题公园游客吵架牛魔王劝架](https://www.baidu.com/s?wd=%E8%A5%BF%E6%B8%B8%E8%AE%B0%E4%B8%BB%E9%A2%98%E5%85%AC%E5%9B%AD%E6%B8%B8%E5%AE%A2%E5%90%B5%E6%9E%B6%E7%89%9B%E9%AD%94%E7%8E%8B%E5%8A%9D%E6%9E%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [蔡康永把林志玲问哭](https://www.baidu.com/s?wd=%E8%94%A1%E5%BA%B7%E6%B0%B8%E6%8A%8A%E6%9E%97%E5%BF%97%E7%8E%B2%E9%97%AE%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [东风本田4s店借车震宣传新车被罚](https://www.baidu.com/s?wd=%E4%B8%9C%E9%A3%8E%E6%9C%AC%E7%94%B04s%E5%BA%97%E5%80%9F%E8%BD%A6%E9%9C%87%E5%AE%A3%E4%BC%A0%E6%96%B0%E8%BD%A6%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [谢娜二公第一](https://www.baidu.com/s?wd=%E8%B0%A2%E5%A8%9C%E4%BA%8C%E5%85%AC%E7%AC%AC%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [长沙两摩托车笼中表演时相撞](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E4%B8%A4%E6%91%A9%E6%89%98%E8%BD%A6%E7%AC%BC%E4%B8%AD%E8%A1%A8%E6%BC%94%E6%97%B6%E7%9B%B8%E6%92%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [赵丽娜、李彩桦、汪小敏淘汰](https://www.baidu.com/s?wd=%E8%B5%B5%E4%B8%BD%E5%A8%9C%E3%80%81%E6%9D%8E%E5%BD%A9%E6%A1%A6%E3%80%81%E6%B1%AA%E5%B0%8F%E6%95%8F%E6%B7%98%E6%B1%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [谢娜二公第一](https://www.baidu.com/s?wd=%E8%B0%A2%E5%A8%9C%E4%BA%8C%E5%85%AC%E7%AC%AC%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [西游记主题公园游客吵架牛魔王劝架](https://www.baidu.com/s?wd=%E8%A5%BF%E6%B8%B8%E8%AE%B0%E4%B8%BB%E9%A2%98%E5%85%AC%E5%9B%AD%E6%B8%B8%E5%AE%A2%E5%90%B5%E6%9E%B6%E7%89%9B%E9%AD%94%E7%8E%8B%E5%8A%9D%E6%9E%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [蔡康永把林志玲问哭](https://www.baidu.com/s?wd=%E8%94%A1%E5%BA%B7%E6%B0%B8%E6%8A%8A%E6%9E%97%E5%BF%97%E7%8E%B2%E9%97%AE%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [东风本田4s店借车震宣传新车被罚](https://www.baidu.com/s?wd=%E4%B8%9C%E9%A3%8E%E6%9C%AC%E7%94%B04s%E5%BA%97%E5%80%9F%E8%BD%A6%E9%9C%87%E5%AE%A3%E4%BC%A0%E6%96%B0%E8%BD%A6%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [谢娜二公第一](https://www.baidu.com/s?wd=%E8%B0%A2%E5%A8%9C%E4%BA%8C%E5%85%AC%E7%AC%AC%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [长沙两摩托车笼中表演时相撞](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E4%B8%A4%E6%91%A9%E6%89%98%E8%BD%A6%E7%AC%BC%E4%B8%AD%E8%A1%A8%E6%BC%94%E6%97%B6%E7%9B%B8%E6%92%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [赵丽娜、李彩桦、汪小敏淘汰](https://www.baidu.com/s?wd=%E8%B5%B5%E4%B8%BD%E5%A8%9C%E3%80%81%E6%9D%8E%E5%BD%A9%E6%A1%A6%E3%80%81%E6%B1%AA%E5%B0%8F%E6%95%8F%E6%B7%98%E6%B1%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [谢娜二公第一](https://www.baidu.com/s?wd=%E8%B0%A2%E5%A8%9C%E4%BA%8C%E5%85%AC%E7%AC%AC%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
