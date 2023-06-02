@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 10:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 10:14:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [网红车评人区长拿出了三款电动车电池包做暴力安全测试，这种安全测试对消费者购车有参考意义吗？](https://www.zhihu.com/question/604202511)<br />
 6. [在《笑傲江湖》中，为啥令狐冲能够与人人喊打的魔教中人打成一片？](https://www.zhihu.com/question/604133289)<br />
 7. [如何评价 2023 年 LPL 夏季赛 WBG 2：0 战胜 JDG?](https://www.zhihu.com/question/604307628)<br />
-8. [如何评价《蜘蛛侠：纵横宇宙》？](https://www.zhihu.com/question/604207622)<br />
-9. [5 月百城新房价格止涨转跌，二手房跌幅扩大，房地产市场现状如何？「以价换量」会成为趋势吗？](https://www.zhihu.com/question/604220951)<br />
+8. [5 月百城新房价格止涨转跌，二手房跌幅扩大，房地产市场现状如何？「以价换量」会成为趋势吗？](https://www.zhihu.com/question/604220951)<br />
+9. [如何评价《蜘蛛侠：纵横宇宙》？](https://www.zhihu.com/question/604207622)<br />
 
 > 百度  
 
