@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 15:27:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 15:28:02</h4></div>
 
 > 微博  
 
-1. [毕业后租一辈子房可行吗](https://s.weibo.com/weibo?q=%23%E6%AF%95%E4%B8%9A%E5%90%8E%E7%A7%9F%E4%B8%80%E8%BE%88%E5%AD%90%E6%88%BF%E5%8F%AF%E8%A1%8C%E5%90%97%23&t=31&band_rank=1&Refer=top)<br />
-2. [章莹颖遇害六年后](https://s.weibo.com/weibo?q=%23%E7%AB%A0%E8%8E%B9%E9%A2%96%E9%81%87%E5%AE%B3%E5%85%AD%E5%B9%B4%E5%90%8E%23&t=31&band_rank=2&Refer=top)<br />
+1. [章莹颖遇害六年后](https://s.weibo.com/weibo?q=%23%E7%AB%A0%E8%8E%B9%E9%A2%96%E9%81%87%E5%AE%B3%E5%85%AD%E5%B9%B4%E5%90%8E%23&t=31&band_rank=1&Refer=top)<br />
+2. [谢娜二公第一](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E4%BA%8C%E5%85%AC%E7%AC%AC%E4%B8%80%23&t=31&band_rank=2&Refer=top)<br />
 3. [距2023高考还有5天](https://s.weibo.com/weibo?q=%23%E8%B7%9D2023%E9%AB%98%E8%80%83%E8%BF%98%E6%9C%895%E5%A4%A9%23&t=31&band_rank=3&Refer=top)<br />
 4. [学校正核查学术妲己事件](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E6%A0%A1%E6%AD%A3%E6%A0%B8%E6%9F%A5%E5%AD%A6%E6%9C%AF%E5%A6%B2%E5%B7%B1%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=4&Refer=top)<br />
-5. [谢娜二公第一](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E4%BA%8C%E5%85%AC%E7%AC%AC%E4%B8%80%23&t=31&band_rank=5&Refer=top)<br />
+5. [毕业后租一辈子房可行吗](https://s.weibo.com/weibo?q=%23%E6%AF%95%E4%B8%9A%E5%90%8E%E7%A7%9F%E4%B8%80%E8%BE%88%E5%AD%90%E6%88%BF%E5%8F%AF%E8%A1%8C%E5%90%97%23&t=31&band_rank=5&Refer=top)<br />
 6. [夫妻入职300家公司骗工资60万](https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E5%85%A5%E8%81%8C300%E5%AE%B6%E5%85%AC%E5%8F%B8%E9%AA%97%E5%B7%A5%E8%B5%8460%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [王鹤棣要去泰国录跑男](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E8%A6%81%E5%8E%BB%E6%B3%B0%E5%9B%BD%E5%BD%95%E8%B7%91%E7%94%B7%23&t=31&band_rank=7&Refer=top)<br />
 8. [蔡康永把林志玲问哭](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BA%B7%E6%B0%B8%E6%8A%8A%E6%9E%97%E5%BF%97%E7%8E%B2%E9%97%AE%E5%93%AD%23&t=31&band_rank=8&Refer=top)<br />
-9. [北航已经有三名航天员了](https://s.weibo.com/weibo?q=%E5%8C%97%E8%88%AA%E5%B7%B2%E7%BB%8F%E6%9C%89%E4%B8%89%E5%90%8D%E8%88%AA%E5%A4%A9%E5%91%98%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [吴倩没有镜头](https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%80%A9%E6%B2%A1%E6%9C%89%E9%95%9C%E5%A4%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [领导喜欢时常汇报的员工，还是喜欢直接解决事务的员工？](https://www.zhihu.com/question/604113667)<br />
 7. [摩尔线程发布全新 MTT S70 显卡，该款产品有何亮点？](https://www.zhihu.com/question/604029452)<br />
 8. [2023 LPL 夏季赛 JDG 爆冷不敌 WBG，这场比赛他们输在哪？](https://www.zhihu.com/question/604308460)<br />
-9. [如何评价《塞尔达传说：王国之泪》的地下区？](https://www.zhihu.com/question/603871845)<br />
+9. []()<br />
 
 > 百度  
 
