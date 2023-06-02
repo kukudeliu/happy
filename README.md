@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 12:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 12:42:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [距2023高考还有5天](https://s.weibo.com/weibo?q=%23%E8%B7%9D2023%E9%AB%98%E8%80%83%E8%BF%98%E6%9C%895%E5%A4%A9%23&t=31&band_rank=3&Refer=top)<br />
 4. [蔡康永把林志玲问哭](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BA%B7%E6%B0%B8%E6%8A%8A%E6%9E%97%E5%BF%97%E7%8E%B2%E9%97%AE%E5%93%AD%23&t=31&band_rank=4&Refer=top)<br />
 5. [24岁研究生生日当天救了一个人](https://s.weibo.com/weibo?q=%2324%E5%B2%81%E7%A0%94%E7%A9%B6%E7%94%9F%E7%94%9F%E6%97%A5%E5%BD%93%E5%A4%A9%E6%95%91%E4%BA%86%E4%B8%80%E4%B8%AA%E4%BA%BA%23&t=31&band_rank=5&Refer=top)<br />
-6. [早知道烂厂里了](https://s.weibo.com/weibo?q=%E6%97%A9%E7%9F%A5%E9%81%93%E7%83%82%E5%8E%82%E9%87%8C%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
+6. [谢娜二公第一](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E4%BA%8C%E5%85%AC%E7%AC%AC%E4%B8%80%23&t=31&band_rank=6&Refer=top)<br />
 7. [鞠婧祎反手一个大比兜](https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E5%8F%8D%E6%89%8B%E4%B8%80%E4%B8%AA%E5%A4%A7%E6%AF%94%E5%85%9C%23&t=31&band_rank=7&Refer=top)<br />
-8. [王一博外网生图状态](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%A4%96%E7%BD%91%E7%94%9F%E5%9B%BE%E7%8A%B6%E6%80%81%23&t=31&band_rank=8&Refer=top)<br />
-9. [边伯贤金珉锡金钟大称SMTOWN说谎](https://s.weibo.com/weibo?q=%23%E8%BE%B9%E4%BC%AF%E8%B4%A4%E9%87%91%E7%8F%89%E9%94%A1%E9%87%91%E9%92%9F%E5%A4%A7%E7%A7%B0SMTOWN%E8%AF%B4%E8%B0%8E%23&t=31&band_rank=9&Refer=top)<br />
+8. [早知道烂厂里了](https://s.weibo.com/weibo?q=%E6%97%A9%E7%9F%A5%E9%81%93%E7%83%82%E5%8E%82%E9%87%8C%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
+9. [王一博外网生图状态](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%A4%96%E7%BD%91%E7%94%9F%E5%9B%BE%E7%8A%B6%E6%80%81%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
