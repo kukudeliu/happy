@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 10:50:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 10:51:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [NBA总决赛](https://s.weibo.com/weibo?q=NBA%E6%80%BB%E5%86%B3%E8%B5%9B&t=31&band_rank=6&Refer=top)<br />
 7. [虞书欣妆造](https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%A6%86%E9%80%A0&t=31&band_rank=7&Refer=top)<br />
 8. [早知道烂厂里了](https://s.weibo.com/weibo?q=%E6%97%A9%E7%9F%A5%E9%81%93%E7%83%82%E5%8E%82%E9%87%8C%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [专家称不排除二阳后还会有三阳](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E4%B8%8D%E6%8E%92%E9%99%A4%E4%BA%8C%E9%98%B3%E5%90%8E%E8%BF%98%E4%BC%9A%E6%9C%89%E4%B8%89%E9%98%B3%23&t=31&band_rank=9&Refer=top)<br />
+9. [王一博外网生图状态](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%A4%96%E7%BD%91%E7%94%9F%E5%9B%BE%E7%8A%B6%E6%80%81%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
