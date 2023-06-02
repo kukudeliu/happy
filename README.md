@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 10:59:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 11:00:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [女孩放弃入职后收到HR千字回复](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E6%94%BE%E5%BC%83%E5%85%A5%E8%81%8C%E5%90%8E%E6%94%B6%E5%88%B0HR%E5%8D%83%E5%AD%97%E5%9B%9E%E5%A4%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子开咖啡店日入0元](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BC%80%E5%92%96%E5%95%A1%E5%BA%97%E6%97%A5%E5%85%A50%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [饭店厕所隔间门设计成冰箱门](https://www.baidu.com/s?wd=%E9%A5%AD%E5%BA%97%E5%8E%95%E6%89%80%E9%9A%94%E9%97%B4%E9%97%A8%E8%AE%BE%E8%AE%A1%E6%88%90%E5%86%B0%E7%AE%B1%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [Jennie小松菜奈热聊](https://www.baidu.com/s?wd=Jennie%E5%B0%8F%E6%9D%BE%E8%8F%9C%E5%A5%88%E7%83%AD%E8%81%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [比亚迪西安工厂起火](https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%A5%BF%E5%AE%89%E5%B7%A5%E5%8E%82%E8%B5%B7%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [女孩放弃入职后收到HR千字回复](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E6%94%BE%E5%BC%83%E5%85%A5%E8%81%8C%E5%90%8E%E6%94%B6%E5%88%B0HR%E5%8D%83%E5%AD%97%E5%9B%9E%E5%A4%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子开咖啡店日入0元](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BC%80%E5%92%96%E5%95%A1%E5%BA%97%E6%97%A5%E5%85%A50%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [饭店厕所隔间门设计成冰箱门](https://www.baidu.com/s?wd=%E9%A5%AD%E5%BA%97%E5%8E%95%E6%89%80%E9%9A%94%E9%97%B4%E9%97%A8%E8%AE%BE%E8%AE%A1%E6%88%90%E5%86%B0%E7%AE%B1%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [Jennie小松菜奈热聊](https://www.baidu.com/s?wd=Jennie%E5%B0%8F%E6%9D%BE%E8%8F%9C%E5%A5%88%E7%83%AD%E8%81%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [比亚迪西安工厂起火](https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%A5%BF%E5%AE%89%E5%B7%A5%E5%8E%82%E8%B5%B7%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
