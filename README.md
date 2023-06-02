@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 20:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 20:31:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [吴所谓得知吴京去开家长会的反应](https://s.weibo.com/weibo?q=%23%E5%90%B4%E6%89%80%E8%B0%93%E5%BE%97%E7%9F%A5%E5%90%B4%E4%BA%AC%E5%8E%BB%E5%BC%80%E5%AE%B6%E9%95%BF%E4%BC%9A%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=4&Refer=top)<br />
 5. [顾姓老师已调离华南理工](https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%A7%93%E8%80%81%E5%B8%88%E5%B7%B2%E8%B0%83%E7%A6%BB%E5%8D%8E%E5%8D%97%E7%90%86%E5%B7%A5%23&t=31&band_rank=5&Refer=top)<br />
 6. [校内被撞身亡小学生母亲坠楼身亡](https://s.weibo.com/weibo?q=%23%E6%A0%A1%E5%86%85%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%AF%8D%E4%BA%B2%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=6&Refer=top)<br />
-7. [顾姓老师与苏某曾共同发明专利](https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%A7%93%E8%80%81%E5%B8%88%E4%B8%8E%E8%8B%8F%E6%9F%90%E6%9B%BE%E5%85%B1%E5%90%8C%E5%8F%91%E6%98%8E%E4%B8%93%E5%88%A9%23&t=31&band_rank=7&Refer=top)<br />
-8. [陶白白你自己算到了吗](https://s.weibo.com/weibo?q=%23%E9%99%B6%E7%99%BD%E7%99%BD%E4%BD%A0%E8%87%AA%E5%B7%B1%E7%AE%97%E5%88%B0%E4%BA%86%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
+7. [陶白白你自己算到了吗](https://s.weibo.com/weibo?q=%23%E9%99%B6%E7%99%BD%E7%99%BD%E4%BD%A0%E8%87%AA%E5%B7%B1%E7%AE%97%E5%88%B0%E4%BA%86%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
+8. [顾姓老师与苏某曾共同发明专利](https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%A7%93%E8%80%81%E5%B8%88%E4%B8%8E%E8%8B%8F%E6%9F%90%E6%9B%BE%E5%85%B1%E5%90%8C%E5%8F%91%E6%98%8E%E4%B8%93%E5%88%A9%23&t=31&band_rank=8&Refer=top)<br />
 9. [黄晓明救了我的手机](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E6%95%91%E4%BA%86%E6%88%91%E7%9A%84%E6%89%8B%E6%9C%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
