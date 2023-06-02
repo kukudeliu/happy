@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 16:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 16:01:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [谢娜二公第一](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E4%BA%8C%E5%85%AC%E7%AC%AC%E4%B8%80%23&t=31&band_rank=2&Refer=top)<br />
 3. [迎接神十五乘组回家](https://s.weibo.com/weibo?q=%23%E8%BF%8E%E6%8E%A5%E7%A5%9E%E5%8D%81%E4%BA%94%E4%B9%98%E7%BB%84%E5%9B%9E%E5%AE%B6%23&t=31&band_rank=3&Refer=top)<br />
 4. [毕业后租一辈子房可行吗](https://s.weibo.com/weibo?q=%23%E6%AF%95%E4%B8%9A%E5%90%8E%E7%A7%9F%E4%B8%80%E8%BE%88%E5%AD%90%E6%88%BF%E5%8F%AF%E8%A1%8C%E5%90%97%23&t=31&band_rank=4&Refer=top)<br />
-5. [章莹颖遇害六年后](https://s.weibo.com/weibo?q=%23%E7%AB%A0%E8%8E%B9%E9%A2%96%E9%81%87%E5%AE%B3%E5%85%AD%E5%B9%B4%E5%90%8E%23&t=31&band_rank=5&Refer=top)<br />
-6. [老伴走后第二天浙大老教师又去捡垃圾了](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BC%B4%E8%B5%B0%E5%90%8E%E7%AC%AC%E4%BA%8C%E5%A4%A9%E6%B5%99%E5%A4%A7%E8%80%81%E6%95%99%E5%B8%88%E5%8F%88%E5%8E%BB%E6%8D%A1%E5%9E%83%E5%9C%BE%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
+5. [老伴走后第二天浙大老教师又去捡垃圾了](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BC%B4%E8%B5%B0%E5%90%8E%E7%AC%AC%E4%BA%8C%E5%A4%A9%E6%B5%99%E5%A4%A7%E8%80%81%E6%95%99%E5%B8%88%E5%8F%88%E5%8E%BB%E6%8D%A1%E5%9E%83%E5%9C%BE%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
+6. [章莹颖遇害六年后](https://s.weibo.com/weibo?q=%23%E7%AB%A0%E8%8E%B9%E9%A2%96%E9%81%87%E5%AE%B3%E5%85%AD%E5%B9%B4%E5%90%8E%23&t=31&band_rank=6&Refer=top)<br />
 7. [五月天因为余佳运不再当音乐节目评委](https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E5%9B%A0%E4%B8%BA%E4%BD%99%E4%BD%B3%E8%BF%90%E4%B8%8D%E5%86%8D%E5%BD%93%E9%9F%B3%E4%B9%90%E8%8A%82%E7%9B%AE%E8%AF%84%E5%A7%94%23&t=31&band_rank=7&Refer=top)<br />
 8. [王鹤棣要去泰国录跑男](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E8%A6%81%E5%8E%BB%E6%B3%B0%E5%9B%BD%E5%BD%95%E8%B7%91%E7%94%B7%23&t=31&band_rank=8&Refer=top)<br />
 9. [林志玲说是她跟Akira求婚的](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%97%E7%8E%B2%E8%AF%B4%E6%98%AF%E5%A5%B9%E8%B7%9FAkira%E6%B1%82%E5%A9%9A%E7%9A%84%23&t=31&band_rank=9&Refer=top)<br />
