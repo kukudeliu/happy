@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 11:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 11:46:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [千万不要觉得成绩已经定型了](https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E8%A7%89%E5%BE%97%E6%88%90%E7%BB%A9%E5%B7%B2%E7%BB%8F%E5%AE%9A%E5%9E%8B%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [王一博外网生图状态](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%A4%96%E7%BD%91%E7%94%9F%E5%9B%BE%E7%8A%B6%E6%80%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [边伯贤金珉锡金钟大称SMTOWN说谎](https://s.weibo.com/weibo?q=%23%E8%BE%B9%E4%BC%AF%E8%B4%A4%E9%87%91%E7%8F%89%E9%94%A1%E9%87%91%E9%92%9F%E5%A4%A7%E7%A7%B0SMTOWN%E8%AF%B4%E8%B0%8E%23&t=31&band_rank=7&Refer=top)<br />
-8. [五月天武汉](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%E6%AD%A6%E6%B1%89&t=31&band_rank=8&Refer=top)<br />
-9. [江西4岁女童坠楼昏迷90天后苏醒](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF4%E5%B2%81%E5%A5%B3%E7%AB%A5%E5%9D%A0%E6%A5%BC%E6%98%8F%E8%BF%B790%E5%A4%A9%E5%90%8E%E8%8B%8F%E9%86%92%23&t=31&band_rank=9&Refer=top)<br />
+8. [江西4岁女童坠楼昏迷90天后苏醒](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF4%E5%B2%81%E5%A5%B3%E7%AB%A5%E5%9D%A0%E6%A5%BC%E6%98%8F%E8%BF%B790%E5%A4%A9%E5%90%8E%E8%8B%8F%E9%86%92%23&t=31&band_rank=8&Refer=top)<br />
+9. [五月天武汉](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%E6%AD%A6%E6%B1%89&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -20,9 +20,9 @@
 4. [邻居说让他儿子到我家吃中饭，按 15 元一顿给钱，能同意吗?](https://www.zhihu.com/question/603469319)<br />
 5. [继「村 BA」后「村超」火了，韩乔生将赴现场解说，如何看待此现象？「村超」能救中国足球吗？](https://www.zhihu.com/question/604276146)<br />
 6. [2022-23 赛季 NBA 总决赛掘金扑灭热火先拔头筹，约基奇 27+10+14，如何评价这场比赛？](https://www.zhihu.com/question/604369865)<br />
-7. [5 月百城新房价格止涨转跌，二手房跌幅扩大，房地产市场现状如何？「以价换量」会成为趋势吗？](https://www.zhihu.com/question/604220951)<br />
-8. [在《原神》3.7 活动里，与雪中刀的对决中，神里绫华是不是有些冷淡？](https://www.zhihu.com/question/603777594)<br />
-9. [女朋友因为我没给她过六一儿童节，没发红包而和我分手，我该怎么办？](https://www.zhihu.com/question/604201618)<br />
+7. [据不完全统计，《崩坏：星穹铁道》五月流水约为《原神》同月的 2.7 倍，如何评价？](https://www.zhihu.com/question/604195870)<br />
+8. [5 月百城新房价格止涨转跌，二手房跌幅扩大，房地产市场现状如何？「以价换量」会成为趋势吗？](https://www.zhihu.com/question/604220951)<br />
+9. [在《原神》3.7 活动里，与雪中刀的对决中，神里绫华是不是有些冷淡？](https://www.zhihu.com/question/603777594)<br />
 
 > 百度  
 
