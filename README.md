@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 10:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 10:44:02</h4></div>
 
 > 微博  
 
@@ -31,10 +31,10 @@
 3. [房东给出租房装5级能耗空调](https://www.baidu.com/s?wd=%E6%88%BF%E4%B8%9C%E7%BB%99%E5%87%BA%E7%A7%9F%E6%88%BF%E8%A3%855%E7%BA%A7%E8%83%BD%E8%80%97%E7%A9%BA%E8%B0%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [从未见过发射的航天人](https://www.baidu.com/s?wd=%E4%BB%8E%E6%9C%AA%E8%A7%81%E8%BF%87%E5%8F%91%E5%B0%84%E7%9A%84%E8%88%AA%E5%A4%A9%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [高三师生的双向奔赴太戳了](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%89%E5%B8%88%E7%94%9F%E7%9A%84%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4%E5%A4%AA%E6%88%B3%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男子开咖啡店日入0元](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BC%80%E5%92%96%E5%95%A1%E5%BA%97%E6%97%A5%E5%85%A50%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [苹果全球首播不带货 130万人围观](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%85%A8%E7%90%83%E9%A6%96%E6%92%AD%E4%B8%8D%E5%B8%A6%E8%B4%A7+130%E4%B8%87%E4%BA%BA%E5%9B%B4%E8%A7%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [李尚福谈台湾问题强调三个“决不”](https://www.baidu.com/s?wd=%E6%9D%8E%E5%B0%9A%E7%A6%8F%E8%B0%88%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E5%BC%BA%E8%B0%83%E4%B8%89%E4%B8%AA%E2%80%9C%E5%86%B3%E4%B8%8D%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [饭店厕所隔间门设计成冰箱门](https://www.baidu.com/s?wd=%E9%A5%AD%E5%BA%97%E5%8E%95%E6%89%80%E9%9A%94%E9%97%B4%E9%97%A8%E8%AE%BE%E8%AE%A1%E6%88%90%E5%86%B0%E7%AE%B1%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [女孩放弃入职后收到HR千字回复](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E6%94%BE%E5%BC%83%E5%85%A5%E8%81%8C%E5%90%8E%E6%94%B6%E5%88%B0HR%E5%8D%83%E5%AD%97%E5%9B%9E%E5%A4%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子开咖啡店日入0元](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BC%80%E5%92%96%E5%95%A1%E5%BA%97%E6%97%A5%E5%85%A50%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [饭店厕所隔间门设计成冰箱门](https://www.baidu.com/s?wd=%E9%A5%AD%E5%BA%97%E5%8E%95%E6%89%80%E9%9A%94%E9%97%B4%E9%97%A8%E8%AE%BE%E8%AE%A1%E6%88%90%E5%86%B0%E7%AE%B1%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [美记：掘金若夺冠含金量史上最低](https://www.baidu.com/s?wd=%E7%BE%8E%E8%AE%B0%EF%BC%9A%E6%8E%98%E9%87%91%E8%8B%A5%E5%A4%BA%E5%86%A0%E5%90%AB%E9%87%91%E9%87%8F%E5%8F%B2%E4%B8%8A%E6%9C%80%E4%BD%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [房东给出租房装5级能耗空调](https://www.baidu.com/s?wd=%E6%88%BF%E4%B8%9C%E7%BB%99%E5%87%BA%E7%A7%9F%E6%88%BF%E8%A3%855%E7%BA%A7%E8%83%BD%E8%80%97%E7%A9%BA%E8%B0%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [从未见过发射的航天人](https://www.baidu.com/s?wd=%E4%BB%8E%E6%9C%AA%E8%A7%81%E8%BF%87%E5%8F%91%E5%B0%84%E7%9A%84%E8%88%AA%E5%A4%A9%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [高三师生的双向奔赴太戳了](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%89%E5%B8%88%E7%94%9F%E7%9A%84%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4%E5%A4%AA%E6%88%B3%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男子开咖啡店日入0元](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BC%80%E5%92%96%E5%95%A1%E5%BA%97%E6%97%A5%E5%85%A50%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [苹果全球首播不带货 130万人围观](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%85%A8%E7%90%83%E9%A6%96%E6%92%AD%E4%B8%8D%E5%B8%A6%E8%B4%A7+130%E4%B8%87%E4%BA%BA%E5%9B%B4%E8%A7%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [李尚福谈台湾问题强调三个“决不”](https://www.baidu.com/s?wd=%E6%9D%8E%E5%B0%9A%E7%A6%8F%E8%B0%88%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E5%BC%BA%E8%B0%83%E4%B8%89%E4%B8%AA%E2%80%9C%E5%86%B3%E4%B8%8D%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [饭店厕所隔间门设计成冰箱门](https://www.baidu.com/s?wd=%E9%A5%AD%E5%BA%97%E5%8E%95%E6%89%80%E9%9A%94%E9%97%B4%E9%97%A8%E8%AE%BE%E8%AE%A1%E6%88%90%E5%86%B0%E7%AE%B1%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [女孩放弃入职后收到HR千字回复](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E6%94%BE%E5%BC%83%E5%85%A5%E8%81%8C%E5%90%8E%E6%94%B6%E5%88%B0HR%E5%8D%83%E5%AD%97%E5%9B%9E%E5%A4%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子开咖啡店日入0元](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BC%80%E5%92%96%E5%95%A1%E5%BA%97%E6%97%A5%E5%85%A50%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [饭店厕所隔间门设计成冰箱门](https://www.baidu.com/s?wd=%E9%A5%AD%E5%BA%97%E5%8E%95%E6%89%80%E9%9A%94%E9%97%B4%E9%97%A8%E8%AE%BE%E8%AE%A1%E6%88%90%E5%86%B0%E7%AE%B1%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [美记：掘金若夺冠含金量史上最低](https://www.baidu.com/s?wd=%E7%BE%8E%E8%AE%B0%EF%BC%9A%E6%8E%98%E9%87%91%E8%8B%A5%E5%A4%BA%E5%86%A0%E5%90%AB%E9%87%91%E9%87%8F%E5%8F%B2%E4%B8%8A%E6%9C%80%E4%BD%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
