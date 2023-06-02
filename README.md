@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 14:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 14:23:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [多次感染对身体的危害有多大](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%AC%A1%E6%84%9F%E6%9F%93%E5%AF%B9%E8%BA%AB%E4%BD%93%E7%9A%84%E5%8D%B1%E5%AE%B3%E6%9C%89%E5%A4%9A%E5%A4%A7%23&t=31&band_rank=6&Refer=top)<br />
 7. [蔡康永把林志玲问哭](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BA%B7%E6%B0%B8%E6%8A%8A%E6%9E%97%E5%BF%97%E7%8E%B2%E9%97%AE%E5%93%AD%23&t=31&band_rank=7&Refer=top)<br />
 8. [跑步的多巴胺仅次于谈恋爱](https://s.weibo.com/weibo?q=%E8%B7%91%E6%AD%A5%E7%9A%84%E5%A4%9A%E5%B7%B4%E8%83%BA%E4%BB%85%E6%AC%A1%E4%BA%8E%E8%B0%88%E6%81%8B%E7%88%B1&t=31&band_rank=8&Refer=top)<br />
-9. [梦中的那片海有狂飙高晓晨](https://s.weibo.com/weibo?q=%23%E6%A2%A6%E4%B8%AD%E7%9A%84%E9%82%A3%E7%89%87%E6%B5%B7%E6%9C%89%E7%8B%82%E9%A3%99%E9%AB%98%E6%99%93%E6%99%A8%23&t=31&band_rank=9&Refer=top)<br />
+9. [王鹤棣要去泰国录跑男](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E8%A6%81%E5%8E%BB%E6%B3%B0%E5%9B%BD%E5%BD%95%E8%B7%91%E7%94%B7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [拼多多在电商竞争中靠什么生存？](https://www.zhihu.com/question/603808015)<br />
 7. [维吾尔语能否和土耳其语互通？如果能的话，能互通多少？](https://www.zhihu.com/question/526103427)<br />
 8. [A 股房企退市第一股诞生，多家地产也濒临退市，房企「退市潮」来了？房价呢？投资地产股是机会还是陷阱？](https://www.zhihu.com/question/604271815)<br />
-9. [为什么令狐冲的独孤九剑，在岳不群等人眼里只是「乱七八糟」的剑法？](https://www.zhihu.com/question/597063631)<br />
+9. [合租室友带男友回家怎么办？](https://www.zhihu.com/question/603882925)<br />
 
 > 百度  
 
