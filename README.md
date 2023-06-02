@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 23:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 23:24:01</h4></div>
 
 > 微博  
 
@@ -31,10 +31,10 @@
 3. [张雪峰公司将实行4天工作制](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%85%AC%E5%8F%B8%E5%B0%86%E5%AE%9E%E8%A1%8C4%E5%A4%A9%E5%B7%A5%E4%BD%9C%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [高考前心理调适指南请查收](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E5%89%8D%E5%BF%83%E7%90%86%E8%B0%83%E9%80%82%E6%8C%87%E5%8D%97%E8%AF%B7%E6%9F%A5%E6%94%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [椰树首次回应直播风格争议](https://www.baidu.com/s?wd=%E6%A4%B0%E6%A0%91%E9%A6%96%E6%AC%A1%E5%9B%9E%E5%BA%94%E7%9B%B4%E6%92%AD%E9%A3%8E%E6%A0%BC%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [57岁北漂阿姨白天当保洁晚上做画家](https://www.baidu.com/s?wd=57%E5%B2%81%E5%8C%97%E6%BC%82%E9%98%BF%E5%A7%A8%E7%99%BD%E5%A4%A9%E5%BD%93%E4%BF%9D%E6%B4%81%E6%99%9A%E4%B8%8A%E5%81%9A%E7%94%BB%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [78岁老人参加超市促销被挤倒骨折](https://www.baidu.com/s?wd=78%E5%B2%81%E8%80%81%E4%BA%BA%E5%8F%82%E5%8A%A0%E8%B6%85%E5%B8%82%E4%BF%83%E9%94%80%E8%A2%AB%E6%8C%A4%E5%80%92%E9%AA%A8%E6%8A%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [校内被撞身亡小学生母亲坠楼身亡](https://www.baidu.com/s?wd=%E6%A0%A1%E5%86%85%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%AF%8D%E4%BA%B2%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [老伴走后第2天浙大老教师又去捡垃圾](https://www.baidu.com/s?wd=%E8%80%81%E4%BC%B4%E8%B5%B0%E5%90%8E%E7%AC%AC2%E5%A4%A9%E6%B5%99%E5%A4%A7%E8%80%81%E6%95%99%E5%B8%88%E5%8F%88%E5%8E%BB%E6%8D%A1%E5%9E%83%E5%9C%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [神秘买家8万拍下椰树直播间蹦迪权](https://www.baidu.com/s?wd=%E7%A5%9E%E7%A7%98%E4%B9%B0%E5%AE%B68%E4%B8%87%E6%8B%8D%E4%B8%8B%E6%A4%B0%E6%A0%91%E7%9B%B4%E6%92%AD%E9%97%B4%E8%B9%A6%E8%BF%AA%E6%9D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [57岁北漂阿姨白天当保洁晚上做画家](https://www.baidu.com/s?wd=57%E5%B2%81%E5%8C%97%E6%BC%82%E9%98%BF%E5%A7%A8%E7%99%BD%E5%A4%A9%E5%BD%93%E4%BF%9D%E6%B4%81%E6%99%9A%E4%B8%8A%E5%81%9A%E7%94%BB%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [老伴走后第2天浙大老教师又去捡垃圾](https://www.baidu.com/s?wd=%E8%80%81%E4%BC%B4%E8%B5%B0%E5%90%8E%E7%AC%AC2%E5%A4%A9%E6%B5%99%E5%A4%A7%E8%80%81%E6%95%99%E5%B8%88%E5%8F%88%E5%8E%BB%E6%8D%A1%E5%9E%83%E5%9C%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [张雪峰公司将实行4天工作制](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%85%AC%E5%8F%B8%E5%B0%86%E5%AE%9E%E8%A1%8C4%E5%A4%A9%E5%B7%A5%E4%BD%9C%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [高考前心理调适指南请查收](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E5%89%8D%E5%BF%83%E7%90%86%E8%B0%83%E9%80%82%E6%8C%87%E5%8D%97%E8%AF%B7%E6%9F%A5%E6%94%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [椰树首次回应直播风格争议](https://www.baidu.com/s?wd=%E6%A4%B0%E6%A0%91%E9%A6%96%E6%AC%A1%E5%9B%9E%E5%BA%94%E7%9B%B4%E6%92%AD%E9%A3%8E%E6%A0%BC%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [57岁北漂阿姨白天当保洁晚上做画家](https://www.baidu.com/s?wd=57%E5%B2%81%E5%8C%97%E6%BC%82%E9%98%BF%E5%A7%A8%E7%99%BD%E5%A4%A9%E5%BD%93%E4%BF%9D%E6%B4%81%E6%99%9A%E4%B8%8A%E5%81%9A%E7%94%BB%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [78岁老人参加超市促销被挤倒骨折](https://www.baidu.com/s?wd=78%E5%B2%81%E8%80%81%E4%BA%BA%E5%8F%82%E5%8A%A0%E8%B6%85%E5%B8%82%E4%BF%83%E9%94%80%E8%A2%AB%E6%8C%A4%E5%80%92%E9%AA%A8%E6%8A%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [校内被撞身亡小学生母亲坠楼身亡](https://www.baidu.com/s?wd=%E6%A0%A1%E5%86%85%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%AF%8D%E4%BA%B2%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [老伴走后第2天浙大老教师又去捡垃圾](https://www.baidu.com/s?wd=%E8%80%81%E4%BC%B4%E8%B5%B0%E5%90%8E%E7%AC%AC2%E5%A4%A9%E6%B5%99%E5%A4%A7%E8%80%81%E6%95%99%E5%B8%88%E5%8F%88%E5%8E%BB%E6%8D%A1%E5%9E%83%E5%9C%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [神秘买家8万拍下椰树直播间蹦迪权](https://www.baidu.com/s?wd=%E7%A5%9E%E7%A7%98%E4%B9%B0%E5%AE%B68%E4%B8%87%E6%8B%8D%E4%B8%8B%E6%A4%B0%E6%A0%91%E7%9B%B4%E6%92%AD%E9%97%B4%E8%B9%A6%E8%BF%AA%E6%9D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [57岁北漂阿姨白天当保洁晚上做画家](https://www.baidu.com/s?wd=57%E5%B2%81%E5%8C%97%E6%BC%82%E9%98%BF%E5%A7%A8%E7%99%BD%E5%A4%A9%E5%BD%93%E4%BF%9D%E6%B4%81%E6%99%9A%E4%B8%8A%E5%81%9A%E7%94%BB%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [老伴走后第2天浙大老教师又去捡垃圾](https://www.baidu.com/s?wd=%E8%80%81%E4%BC%B4%E8%B5%B0%E5%90%8E%E7%AC%AC2%E5%A4%A9%E6%B5%99%E5%A4%A7%E8%80%81%E6%95%99%E5%B8%88%E5%8F%88%E5%8E%BB%E6%8D%A1%E5%9E%83%E5%9C%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
