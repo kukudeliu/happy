@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 23:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 23:20:01</h4></div>
 
 > 微博  
 
@@ -18,8 +18,8 @@
 2. [《小美人鱼》三天票房不到 2000 万，口碑彻底崩了，你对该影片有哪些评价？](https://www.zhihu.com/question/603592302)<br />
 3. [销售端一个西瓜超百元，供应商称 7 - 9 月价格也不会下降，西瓜涨价原因有哪些？](https://www.zhihu.com/question/604403671)<br />
 4. [是不是小领导都喜欢为难员工？为什么？](https://www.zhihu.com/question/603242743)<br />
-5. [美台签署 「 21 世纪贸易倡议」第一阶段协议，外交部称「已向美方提出严正交涉」，有哪些信息值得关注？](https://www.zhihu.com/question/604421093)<br />
-6. [朋友借给我一万，用了半年。还钱时候要不要给点利息？](https://www.zhihu.com/question/602415682)<br />
+5. [朋友借给我一万，用了半年。还钱时候要不要给点利息？](https://www.zhihu.com/question/602415682)<br />
+6. [美台签署 「 21 世纪贸易倡议」第一阶段协议，外交部称「已向美方提出严正交涉」，有哪些信息值得关注？](https://www.zhihu.com/question/604421093)<br />
 7. [6 月 2 日沪指收涨 0.79% ，新能源、房地产走强，两市超 3400 股上涨，如何看待今日行情？](https://www.zhihu.com/question/604379977)<br />
 8. [一季度美国银行存款总额下降 4720 亿美元，连续四个季度下降，降幅创历史纪录，银行业状况何时能改善？](https://www.zhihu.com/question/604379959)<br />
 9. [烘干机可以代替阳台晾晒吗？实际体验怎么样？](https://www.zhihu.com/question/531431853)<br />
@@ -28,9 +28,9 @@
 
 1. [太空牧“码”人](https://www.baidu.com/s?wd=%E5%A4%AA%E7%A9%BA%E7%89%A7%E2%80%9C%E7%A0%81%E2%80%9D%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [人民日报评贪官威胁媒体删忏悔视频](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E8%B4%AA%E5%AE%98%E5%A8%81%E8%83%81%E5%AA%92%E4%BD%93%E5%88%A0%E5%BF%8F%E6%82%94%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [椰树首次回应直播风格争议](https://www.baidu.com/s?wd=%E6%A4%B0%E6%A0%91%E9%A6%96%E6%AC%A1%E5%9B%9E%E5%BA%94%E7%9B%B4%E6%92%AD%E9%A3%8E%E6%A0%BC%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [张雪峰公司将实行4天工作制](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%85%AC%E5%8F%B8%E5%B0%86%E5%AE%9E%E8%A1%8C4%E5%A4%A9%E5%B7%A5%E4%BD%9C%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [高考前心理调适指南请查收](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E5%89%8D%E5%BF%83%E7%90%86%E8%B0%83%E9%80%82%E6%8C%87%E5%8D%97%E8%AF%B7%E6%9F%A5%E6%94%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [张雪峰公司将实行4天工作制](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%85%AC%E5%8F%B8%E5%B0%86%E5%AE%9E%E8%A1%8C4%E5%A4%A9%E5%B7%A5%E4%BD%9C%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [椰树首次回应直播风格争议](https://www.baidu.com/s?wd=%E6%A4%B0%E6%A0%91%E9%A6%96%E6%AC%A1%E5%9B%9E%E5%BA%94%E7%9B%B4%E6%92%AD%E9%A3%8E%E6%A0%BC%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [57岁北漂阿姨白天当保洁晚上做画家](https://www.baidu.com/s?wd=57%E5%B2%81%E5%8C%97%E6%BC%82%E9%98%BF%E5%A7%A8%E7%99%BD%E5%A4%A9%E5%BD%93%E4%BF%9D%E6%B4%81%E6%99%9A%E4%B8%8A%E5%81%9A%E7%94%BB%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [校内被撞身亡小学生母亲坠楼身亡](https://www.baidu.com/s?wd=%E6%A0%A1%E5%86%85%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%AF%8D%E4%BA%B2%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [老伴走后第2天浙大老教师又去捡垃圾](https://www.baidu.com/s?wd=%E8%80%81%E4%BC%B4%E8%B5%B0%E5%90%8E%E7%AC%AC2%E5%A4%A9%E6%B5%99%E5%A4%A7%E8%80%81%E6%95%99%E5%B8%88%E5%8F%88%E5%8E%BB%E6%8D%A1%E5%9E%83%E5%9C%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -40,9 +40,9 @@
 
 1. [太空牧“码”人](https://www.baidu.com/s?wd=%E5%A4%AA%E7%A9%BA%E7%89%A7%E2%80%9C%E7%A0%81%E2%80%9D%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [人民日报评贪官威胁媒体删忏悔视频](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E8%B4%AA%E5%AE%98%E5%A8%81%E8%83%81%E5%AA%92%E4%BD%93%E5%88%A0%E5%BF%8F%E6%82%94%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [椰树首次回应直播风格争议](https://www.baidu.com/s?wd=%E6%A4%B0%E6%A0%91%E9%A6%96%E6%AC%A1%E5%9B%9E%E5%BA%94%E7%9B%B4%E6%92%AD%E9%A3%8E%E6%A0%BC%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [张雪峰公司将实行4天工作制](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%85%AC%E5%8F%B8%E5%B0%86%E5%AE%9E%E8%A1%8C4%E5%A4%A9%E5%B7%A5%E4%BD%9C%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [高考前心理调适指南请查收](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E5%89%8D%E5%BF%83%E7%90%86%E8%B0%83%E9%80%82%E6%8C%87%E5%8D%97%E8%AF%B7%E6%9F%A5%E6%94%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [张雪峰公司将实行4天工作制](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%85%AC%E5%8F%B8%E5%B0%86%E5%AE%9E%E8%A1%8C4%E5%A4%A9%E5%B7%A5%E4%BD%9C%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [椰树首次回应直播风格争议](https://www.baidu.com/s?wd=%E6%A4%B0%E6%A0%91%E9%A6%96%E6%AC%A1%E5%9B%9E%E5%BA%94%E7%9B%B4%E6%92%AD%E9%A3%8E%E6%A0%BC%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [57岁北漂阿姨白天当保洁晚上做画家](https://www.baidu.com/s?wd=57%E5%B2%81%E5%8C%97%E6%BC%82%E9%98%BF%E5%A7%A8%E7%99%BD%E5%A4%A9%E5%BD%93%E4%BF%9D%E6%B4%81%E6%99%9A%E4%B8%8A%E5%81%9A%E7%94%BB%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [校内被撞身亡小学生母亲坠楼身亡](https://www.baidu.com/s?wd=%E6%A0%A1%E5%86%85%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%AF%8D%E4%BA%B2%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [老伴走后第2天浙大老教师又去捡垃圾](https://www.baidu.com/s?wd=%E8%80%81%E4%BC%B4%E8%B5%B0%E5%90%8E%E7%AC%AC2%E5%A4%A9%E6%B5%99%E5%A4%A7%E8%80%81%E6%95%99%E5%B8%88%E5%8F%88%E5%8E%BB%E6%8D%A1%E5%9E%83%E5%9C%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
