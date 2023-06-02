@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 11:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 11:24:01</h4></div>
 
 > 微博  
 
 1. [被骗到缅甸6小伙已被解救](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E9%AA%97%E5%88%B0%E7%BC%85%E7%94%B86%E5%B0%8F%E4%BC%99%E5%B7%B2%E8%A2%AB%E8%A7%A3%E6%95%91%23&t=31&band_rank=1&Refer=top)<br />
 2. [为什么不能坐别人的热凳子](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E8%83%BD%E5%9D%90%E5%88%AB%E4%BA%BA%E7%9A%84%E7%83%AD%E5%87%B3%E5%AD%90%23&t=31&band_rank=2&Refer=top)<br />
 3. [这群幕后航天人对代码有着极致追求](https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%BE%A4%E5%B9%95%E5%90%8E%E8%88%AA%E5%A4%A9%E4%BA%BA%E5%AF%B9%E4%BB%A3%E7%A0%81%E6%9C%89%E7%9D%80%E6%9E%81%E8%87%B4%E8%BF%BD%E6%B1%82%23&t=31&band_rank=3&Refer=top)<br />
-4. [千万不要觉得成绩已经定型了](https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E8%A7%89%E5%BE%97%E6%88%90%E7%BB%A9%E5%B7%B2%E7%BB%8F%E5%AE%9A%E5%9E%8B%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
-5. [跑步的多巴胺仅次于谈恋爱](https://s.weibo.com/weibo?q=%E8%B7%91%E6%AD%A5%E7%9A%84%E5%A4%9A%E5%B7%B4%E8%83%BA%E4%BB%85%E6%AC%A1%E4%BA%8E%E8%B0%88%E6%81%8B%E7%88%B1&t=31&band_rank=5&Refer=top)<br />
+4. [跑步的多巴胺仅次于谈恋爱](https://s.weibo.com/weibo?q=%E8%B7%91%E6%AD%A5%E7%9A%84%E5%A4%9A%E5%B7%B4%E8%83%BA%E4%BB%85%E6%AC%A1%E4%BA%8E%E8%B0%88%E6%81%8B%E7%88%B1&t=31&band_rank=4&Refer=top)<br />
+5. [千万不要觉得成绩已经定型了](https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E8%A7%89%E5%BE%97%E6%88%90%E7%BB%A9%E5%B7%B2%E7%BB%8F%E5%AE%9A%E5%9E%8B%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [五月天武汉](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%E6%AD%A6%E6%B1%89&t=31&band_rank=6&Refer=top)<br />
 7. [边伯贤金珉锡金钟大称SMTOWN说谎](https://s.weibo.com/weibo?q=%23%E8%BE%B9%E4%BC%AF%E8%B4%A4%E9%87%91%E7%8F%89%E9%94%A1%E9%87%91%E9%92%9F%E5%A4%A7%E7%A7%B0SMTOWN%E8%AF%B4%E8%B0%8E%23&t=31&band_rank=7&Refer=top)<br />
 8. [王一博外网生图状态](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%A4%96%E7%BD%91%E7%94%9F%E5%9B%BE%E7%8A%B6%E6%80%81%23&t=31&band_rank=8&Refer=top)<br />
