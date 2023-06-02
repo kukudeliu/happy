@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 13:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 13:43:02</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [据不完全统计，《崩坏：星穹铁道》五月流水约为《原神》同月的 2.7 倍，如何评价？](https://www.zhihu.com/question/604195870)<br />
 6. [女朋友因为我没给她过六一儿童节，没发红包而和我分手，我该怎么办？](https://www.zhihu.com/question/604201618)<br />
 7. [为什么我喝酒感觉是苦的难喝，而有的人感觉是醇香的很美味？](https://www.zhihu.com/question/32287872)<br />
-8. [邻居说让他儿子到我家吃中饭，按 15 元一顿给钱，能同意吗?](https://www.zhihu.com/question/603469319)<br />
-9. [RCEP 对 15 个签署国全面生效，将为中国企业带来哪些红利？对经济发展有何重要意义？](https://www.zhihu.com/question/604377442)<br />
+8. [RCEP 对 15 个签署国全面生效，将为中国企业带来哪些红利？对经济发展有何重要意义？](https://www.zhihu.com/question/604377442)<br />
+9. [邻居说让他儿子到我家吃中饭，按 15 元一顿给钱，能同意吗?](https://www.zhihu.com/question/603469319)<br />
 
 > 百度  
 
