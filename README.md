@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 15:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 15:59:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [老伴走后第二天浙大老教师又去捡垃圾了](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BC%B4%E8%B5%B0%E5%90%8E%E7%AC%AC%E4%BA%8C%E5%A4%A9%E6%B5%99%E5%A4%A7%E8%80%81%E6%95%99%E5%B8%88%E5%8F%88%E5%8E%BB%E6%8D%A1%E5%9E%83%E5%9C%BE%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [五月天因为余佳运不再当音乐节目评委](https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E5%9B%A0%E4%B8%BA%E4%BD%99%E4%BD%B3%E8%BF%90%E4%B8%8D%E5%86%8D%E5%BD%93%E9%9F%B3%E4%B9%90%E8%8A%82%E7%9B%AE%E8%AF%84%E5%A7%94%23&t=31&band_rank=7&Refer=top)<br />
 8. [王鹤棣要去泰国录跑男](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E8%A6%81%E5%8E%BB%E6%B3%B0%E5%9B%BD%E5%BD%95%E8%B7%91%E7%94%B7%23&t=31&band_rank=8&Refer=top)<br />
-9. [距2023高考还有5天](https://s.weibo.com/weibo?q=%23%E8%B7%9D2023%E9%AB%98%E8%80%83%E8%BF%98%E6%9C%895%E5%A4%A9%23&t=31&band_rank=9&Refer=top)<br />
+9. [林志玲说是她跟Akira求婚的](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%97%E7%8E%B2%E8%AF%B4%E6%98%AF%E5%A5%B9%E8%B7%9FAkira%E6%B1%82%E5%A9%9A%E7%9A%84%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
