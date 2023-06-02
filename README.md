@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 14:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 14:59:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [毕业后租一辈子房可行吗](https://s.weibo.com/weibo?q=%23%E6%AF%95%E4%B8%9A%E5%90%8E%E7%A7%9F%E4%B8%80%E8%BE%88%E5%AD%90%E6%88%BF%E5%8F%AF%E8%A1%8C%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [王鹤棣要去泰国录跑男](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E8%A6%81%E5%8E%BB%E6%B3%B0%E5%9B%BD%E5%BD%95%E8%B7%91%E7%94%B7%23&t=31&band_rank=7&Refer=top)<br />
 8. [谢娜给曾可妮乘风创始人](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E7%BB%99%E6%9B%BE%E5%8F%AF%E5%A6%AE%E4%B9%98%E9%A3%8E%E5%88%9B%E5%A7%8B%E4%BA%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [SMTOWN自动续约条款](https://s.weibo.com/weibo?q=%23SMTOWN%E8%87%AA%E5%8A%A8%E7%BB%AD%E7%BA%A6%E6%9D%A1%E6%AC%BE%23&t=31&band_rank=9&Refer=top)<br />
+9. [蔡康永把林志玲问哭](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BA%B7%E6%B0%B8%E6%8A%8A%E6%9E%97%E5%BF%97%E7%8E%B2%E9%97%AE%E5%93%AD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -19,8 +19,8 @@
 3. [炖肉的时候，有时肉越炖越烂，有的时候却越炖越硬，这是为什么呢？背后有什么科学道理呢？](https://www.zhihu.com/question/507310446)<br />
 4. [女朋友因为我没给她过六一儿童节，没发红包而和我分手，我该怎么办？](https://www.zhihu.com/question/604201618)<br />
 5. [拼多多在电商竞争中靠什么生存？](https://www.zhihu.com/question/603808015)<br />
-6. [继「村 BA」后「村超」火了，韩乔生将赴现场解说，如何看待此现象？「村超」能救中国足球吗？](https://www.zhihu.com/question/604276146)<br />
-7. [A 股房企退市第一股诞生，多家地产也濒临退市，房企「退市潮」来了？房价呢？投资地产股是机会还是陷阱？](https://www.zhihu.com/question/604271815)<br />
+6. [A 股房企退市第一股诞生，多家地产也濒临退市，房企「退市潮」来了？房价呢？投资地产股是机会还是陷阱？](https://www.zhihu.com/question/604271815)<br />
+7. [继「村 BA」后「村超」火了，韩乔生将赴现场解说，如何看待此现象？「村超」能救中国足球吗？](https://www.zhihu.com/question/604276146)<br />
 8. [为什么令狐冲的独孤九剑，在岳不群等人眼里只是「乱七八糟」的剑法？](https://www.zhihu.com/question/597063631)<br />
 9. [领导喜欢时常汇报的员工，还是喜欢直接解决事务的员工？](https://www.zhihu.com/question/604113667)<br />
 
