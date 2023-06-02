@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 15:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 15:16:02</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [A 股房企退市第一股诞生，多家地产也濒临退市，房企「退市潮」来了？房价呢？投资地产股是机会还是陷阱？](https://www.zhihu.com/question/604271815)<br />
 6. [领导喜欢时常汇报的员工，还是喜欢直接解决事务的员工？](https://www.zhihu.com/question/604113667)<br />
 7. []()<br />
-8. [拼多多在电商竞争中靠什么生存？](https://www.zhihu.com/question/603808015)<br />
-9. [2023 LPL 夏季赛 JDG 爆冷不敌 WBG，这场比赛他们输在哪？](https://www.zhihu.com/question/604308460)<br />
+8. [2023 LPL 夏季赛 JDG 爆冷不敌 WBG，这场比赛他们输在哪？](https://www.zhihu.com/question/604308460)<br />
+9. [摩尔线程发布全新 MTT S70 显卡，该款产品有何亮点？](https://www.zhihu.com/question/604029452)<br />
 
 > 百度  
 
