@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 15:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 15:54:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [章莹颖遇害六年后](https://s.weibo.com/weibo?q=%23%E7%AB%A0%E8%8E%B9%E9%A2%96%E9%81%87%E5%AE%B3%E5%85%AD%E5%B9%B4%E5%90%8E%23&t=31&band_rank=5&Refer=top)<br />
 6. [五月天因为余佳运不再当音乐节目评委](https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E5%9B%A0%E4%B8%BA%E4%BD%99%E4%BD%B3%E8%BF%90%E4%B8%8D%E5%86%8D%E5%BD%93%E9%9F%B3%E4%B9%90%E8%8A%82%E7%9B%AE%E8%AF%84%E5%A7%94%23&t=31&band_rank=6&Refer=top)<br />
 7. [王鹤棣要去泰国录跑男](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E8%A6%81%E5%8E%BB%E6%B3%B0%E5%9B%BD%E5%BD%95%E8%B7%91%E7%94%B7%23&t=31&band_rank=7&Refer=top)<br />
-8. [学校正核查学术妲己事件](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E6%A0%A1%E6%AD%A3%E6%A0%B8%E6%9F%A5%E5%AD%A6%E6%9C%AF%E5%A6%B2%E5%B7%B1%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=8&Refer=top)<br />
-9. [夫妻入职300家公司骗工资60万](https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E5%85%A5%E8%81%8C300%E5%AE%B6%E5%85%AC%E5%8F%B8%E9%AA%97%E5%B7%A5%E8%B5%8460%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
+8. [老伴走后第二天浙大老教师又去捡垃圾了](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BC%B4%E8%B5%B0%E5%90%8E%E7%AC%AC%E4%BA%8C%E5%A4%A9%E6%B5%99%E5%A4%A7%E8%80%81%E6%95%99%E5%B8%88%E5%8F%88%E5%8E%BB%E6%8D%A1%E5%9E%83%E5%9C%BE%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [学校正核查学术妲己事件](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E6%A0%A1%E6%AD%A3%E6%A0%B8%E6%9F%A5%E5%AD%A6%E6%9C%AF%E5%A6%B2%E5%B7%B1%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -32,8 +32,8 @@
 4. [为爱“轻装上阵”](https://www.baidu.com/s?wd=%E4%B8%BA%E7%88%B1%E2%80%9C%E8%BD%BB%E8%A3%85%E4%B8%8A%E9%98%B5%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [西游记主题公园游客吵架牛魔王劝架](https://www.baidu.com/s?wd=%E8%A5%BF%E6%B8%B8%E8%AE%B0%E4%B8%BB%E9%A2%98%E5%85%AC%E5%9B%AD%E6%B8%B8%E5%AE%A2%E5%90%B5%E6%9E%B6%E7%89%9B%E9%AD%94%E7%8E%8B%E5%8A%9D%E6%9E%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [蔡康永把林志玲问哭](https://www.baidu.com/s?wd=%E8%94%A1%E5%BA%B7%E6%B0%B8%E6%8A%8A%E6%9E%97%E5%BF%97%E7%8E%B2%E9%97%AE%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [香港一住宅楼被雷击中](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E4%B8%80%E4%BD%8F%E5%AE%85%E6%A5%BC%E8%A2%AB%E9%9B%B7%E5%87%BB%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [谢娜二公第一](https://www.baidu.com/s?wd=%E8%B0%A2%E5%A8%9C%E4%BA%8C%E5%85%AC%E7%AC%AC%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [谢娜二公第一](https://www.baidu.com/s?wd=%E8%B0%A2%E5%A8%9C%E4%BA%8C%E5%85%AC%E7%AC%AC%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [长沙两摩托车笼中表演时相撞](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E4%B8%A4%E6%91%A9%E6%89%98%E8%BD%A6%E7%AC%BC%E4%B8%AD%E8%A1%A8%E6%BC%94%E6%97%B6%E7%9B%B8%E6%92%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [东风本田4s店借车震宣传新车被罚](https://www.baidu.com/s?wd=%E4%B8%9C%E9%A3%8E%E6%9C%AC%E7%94%B04s%E5%BA%97%E5%80%9F%E8%BD%A6%E9%9C%87%E5%AE%A3%E4%BC%A0%E6%96%B0%E8%BD%A6%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -44,6 +44,6 @@
 4. [为爱“轻装上阵”](https://www.baidu.com/s?wd=%E4%B8%BA%E7%88%B1%E2%80%9C%E8%BD%BB%E8%A3%85%E4%B8%8A%E9%98%B5%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [西游记主题公园游客吵架牛魔王劝架](https://www.baidu.com/s?wd=%E8%A5%BF%E6%B8%B8%E8%AE%B0%E4%B8%BB%E9%A2%98%E5%85%AC%E5%9B%AD%E6%B8%B8%E5%AE%A2%E5%90%B5%E6%9E%B6%E7%89%9B%E9%AD%94%E7%8E%8B%E5%8A%9D%E6%9E%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [蔡康永把林志玲问哭](https://www.baidu.com/s?wd=%E8%94%A1%E5%BA%B7%E6%B0%B8%E6%8A%8A%E6%9E%97%E5%BF%97%E7%8E%B2%E9%97%AE%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [香港一住宅楼被雷击中](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E4%B8%80%E4%BD%8F%E5%AE%85%E6%A5%BC%E8%A2%AB%E9%9B%B7%E5%87%BB%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [谢娜二公第一](https://www.baidu.com/s?wd=%E8%B0%A2%E5%A8%9C%E4%BA%8C%E5%85%AC%E7%AC%AC%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [谢娜二公第一](https://www.baidu.com/s?wd=%E8%B0%A2%E5%A8%9C%E4%BA%8C%E5%85%AC%E7%AC%AC%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [长沙两摩托车笼中表演时相撞](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E4%B8%A4%E6%91%A9%E6%89%98%E8%BD%A6%E7%AC%BC%E4%B8%AD%E8%A1%A8%E6%BC%94%E6%97%B6%E7%9B%B8%E6%92%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [东风本田4s店借车震宣传新车被罚](https://www.baidu.com/s?wd=%E4%B8%9C%E9%A3%8E%E6%9C%AC%E7%94%B04s%E5%BA%97%E5%80%9F%E8%BD%A6%E9%9C%87%E5%AE%A3%E4%BC%A0%E6%96%B0%E8%BD%A6%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
