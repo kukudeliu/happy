@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 23:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 23:37:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [我国一孩生育率跌至0.5](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E4%B8%80%E5%AD%A9%E7%94%9F%E8%82%B2%E7%8E%87%E8%B7%8C%E8%87%B30.5%23&t=31&band_rank=4&Refer=top)<br />
 5. [太阳的后裔原型 李云龙原型歼灭的](https://s.weibo.com/weibo?q=%E5%A4%AA%E9%98%B3%E7%9A%84%E5%90%8E%E8%A3%94%E5%8E%9F%E5%9E%8B%20%E6%9D%8E%E4%BA%91%E9%BE%99%E5%8E%9F%E5%9E%8B%E6%AD%BC%E7%81%AD%E7%9A%84&t=31&band_rank=5&Refer=top)<br />
 6. [黄子韬说我们不需要什么澄清](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E8%AF%B4%E6%88%91%E4%BB%AC%E4%B8%8D%E9%9C%80%E8%A6%81%E4%BB%80%E4%B9%88%E6%BE%84%E6%B8%85%23&t=31&band_rank=6&Refer=top)<br />
-7. [梦中的那片海 替身BE美学](https://s.weibo.com/weibo?q=%E6%A2%A6%E4%B8%AD%E7%9A%84%E9%82%A3%E7%89%87%E6%B5%B7%20%E6%9B%BF%E8%BA%ABBE%E7%BE%8E%E5%AD%A6&t=31&band_rank=7&Refer=top)<br />
-8. [护心31集 封神](https://s.weibo.com/weibo?q=%E6%8A%A4%E5%BF%8331%E9%9B%86%20%E5%B0%81%E7%A5%9E&t=31&band_rank=8&Refer=top)<br />
+7. [护心31集 封神](https://s.weibo.com/weibo?q=%E6%8A%A4%E5%BF%8331%E9%9B%86%20%E5%B0%81%E7%A5%9E&t=31&band_rank=7&Refer=top)<br />
+8. [梦中的那片海 替身BE美学](https://s.weibo.com/weibo?q=%E6%A2%A6%E4%B8%AD%E7%9A%84%E9%82%A3%E7%89%87%E6%B5%B7%20%E6%9B%BF%E8%BA%ABBE%E7%BE%8E%E5%AD%A6&t=31&band_rank=8&Refer=top)<br />
 9. [韩国23岁女子杀害陌生同龄女子](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD23%E5%B2%81%E5%A5%B3%E5%AD%90%E6%9D%80%E5%AE%B3%E9%99%8C%E7%94%9F%E5%90%8C%E9%BE%84%E5%A5%B3%E5%AD%90%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
