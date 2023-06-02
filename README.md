@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 18:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 18:22:01</h4></div>
 
 > 微博  
 
@@ -10,14 +10,14 @@
 6. [林志玲说是她跟Akira求婚的](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%97%E7%8E%B2%E8%AF%B4%E6%98%AF%E5%A5%B9%E8%B7%9FAkira%E6%B1%82%E5%A9%9A%E7%9A%84%23&t=31&band_rank=6&Refer=top)<br />
 7. [14岁少年捡到4岁娃帮忙找妈妈](https://s.weibo.com/weibo?q=%2314%E5%B2%81%E5%B0%91%E5%B9%B4%E6%8D%A1%E5%88%B04%E5%B2%81%E5%A8%83%E5%B8%AE%E5%BF%99%E6%89%BE%E5%A6%88%E5%A6%88%23&t=31&band_rank=7&Refer=top)<br />
 8. [黄晓明救了我的手机](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E6%95%91%E4%BA%86%E6%88%91%E7%9A%84%E6%89%8B%E6%9C%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [吴倩没有镜头](https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%80%A9%E6%B2%A1%E6%9C%89%E9%95%9C%E5%A4%B4%23&t=31&band_rank=9&Refer=top)<br />
+9. [校内被撞身亡小学生母亲坠楼身亡](https://s.weibo.com/weibo?q=%23%E6%A0%A1%E5%86%85%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%AF%8D%E4%BA%B2%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [韩国出口连跌 8 个月，对中美欧出口全部下滑，芯片出口大跌 36.2%，受哪些因素影响？](https://www.zhihu.com/question/604222429)<br />
 2. [炖肉的时候，有时肉越炖越烂，有的时候却越炖越硬，这是为什么呢？背后有什么科学道理呢？](https://www.zhihu.com/question/507310446)<br />
-3. [长寿是一种灾难，你认同吗？](https://www.zhihu.com/question/597336124)<br />
-4. [上海一对夫妻月薪超 60 万元，两年入职 300 家公司，牵出数百人的「职业骗薪」团伙，如何看待此事？](https://www.zhihu.com/question/604403306)<br />
+3. [上海一对夫妻月薪超 60 万元，两年入职 300 家公司，牵出数百人的「职业骗薪」团伙，如何看待此事？](https://www.zhihu.com/question/604403306)<br />
+4. [长寿是一种灾难，你认同吗？](https://www.zhihu.com/question/597336124)<br />
 5. [女生穿婚纱看王源演唱会被分手系谣言，当事人称「聊天记录是伪造」，如何看待此事？ 造谣者需要负责吗？](https://www.zhihu.com/question/604390809)<br />
 6. [想问问大家，是觉得一米八的蟑螂恐怖还是一百八十万只蟑螂恐怖？如果一定要面对其中之一，你会怎么办？](https://www.zhihu.com/question/600068717)<br />
 7. [内马尔只想加盟曼联，拒绝大巴黎要求，转会费狂跌 1.9 亿，你认为该球员下一站将去往何处？](https://www.zhihu.com/question/604201925)<br />
