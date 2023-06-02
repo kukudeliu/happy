@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 07:31:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 07:32:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [警方回应校内被撞身亡小学生母亲坠亡](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E6%A0%A1%E5%86%85%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%AF%8D%E4%BA%B2%E5%9D%A0%E4%BA%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [昆明机场一女子取行李被撞身亡](https://s.weibo.com/weibo?q=%23%E6%98%86%E6%98%8E%E6%9C%BA%E5%9C%BA%E4%B8%80%E5%A5%B3%E5%AD%90%E5%8F%96%E8%A1%8C%E6%9D%8E%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=7&Refer=top)<br />
 8. [2女孩穿婚纱买20份王源同款美食](https://s.weibo.com/weibo?q=%232%E5%A5%B3%E5%AD%A9%E7%A9%BF%E5%A9%9A%E7%BA%B1%E4%B9%B020%E4%BB%BD%E7%8E%8B%E6%BA%90%E5%90%8C%E6%AC%BE%E7%BE%8E%E9%A3%9F%23&t=31&band_rank=8&Refer=top)<br />
-9. [原来举案齐眉是这么个举案齐眉](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E4%B8%BE%E6%A1%88%E9%BD%90%E7%9C%89%E6%98%AF%E8%BF%99%E4%B9%88%E4%B8%AA%E4%B8%BE%E6%A1%88%E9%BD%90%E7%9C%89&t=31&band_rank=9&Refer=top)<br />
+9. [今晚的观众好忙](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E6%99%9A%E7%9A%84%E8%A7%82%E4%BC%97%E5%A5%BD%E5%BF%99%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
