@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 13:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 13:48:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [距2023高考还有5天](https://s.weibo.com/weibo?q=%23%E8%B7%9D2023%E9%AB%98%E8%80%83%E8%BF%98%E6%9C%895%E5%A4%A9%23&t=31&band_rank=3&Refer=top)<br />
 4. [夫妻入职300家公司骗工资60万](https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E5%85%A5%E8%81%8C300%E5%AE%B6%E5%85%AC%E5%8F%B8%E9%AA%97%E5%B7%A5%E8%B5%8460%E4%B8%87%23&t=31&band_rank=4&Refer=top)<br />
 5. [跑步的多巴胺仅次于谈恋爱](https://s.weibo.com/weibo?q=%E8%B7%91%E6%AD%A5%E7%9A%84%E5%A4%9A%E5%B7%B4%E8%83%BA%E4%BB%85%E6%AC%A1%E4%BA%8E%E8%B0%88%E6%81%8B%E7%88%B1&t=31&band_rank=5&Refer=top)<br />
-6. [蔡康永把林志玲问哭](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BA%B7%E6%B0%B8%E6%8A%8A%E6%9E%97%E5%BF%97%E7%8E%B2%E9%97%AE%E5%93%AD%23&t=31&band_rank=6&Refer=top)<br />
-7. [梦中的那片海有狂飙高晓晨](https://s.weibo.com/weibo?q=%23%E6%A2%A6%E4%B8%AD%E7%9A%84%E9%82%A3%E7%89%87%E6%B5%B7%E6%9C%89%E7%8B%82%E9%A3%99%E9%AB%98%E6%99%93%E6%99%A8%23&t=31&band_rank=7&Refer=top)<br />
+6. [梦中的那片海有狂飙高晓晨](https://s.weibo.com/weibo?q=%23%E6%A2%A6%E4%B8%AD%E7%9A%84%E9%82%A3%E7%89%87%E6%B5%B7%E6%9C%89%E7%8B%82%E9%A3%99%E9%AB%98%E6%99%93%E6%99%A8%23&t=31&band_rank=6&Refer=top)<br />
+7. [蔡康永把林志玲问哭](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BA%B7%E6%B0%B8%E6%8A%8A%E6%9E%97%E5%BF%97%E7%8E%B2%E9%97%AE%E5%93%AD%23&t=31&band_rank=7&Refer=top)<br />
 8. [难听](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%90%AC&t=31&band_rank=8&Refer=top)<br />
 9. [被骗到缅甸6小伙已被解救](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E9%AA%97%E5%88%B0%E7%BC%85%E7%94%B86%E5%B0%8F%E4%BC%99%E5%B7%B2%E8%A2%AB%E8%A7%A3%E6%95%91%23&t=31&band_rank=9&Refer=top)<br />
 
