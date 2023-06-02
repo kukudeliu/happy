@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 22:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 22:42:01</h4></div>
 
 > 微博  
 
@@ -17,12 +17,12 @@
 1. [上海一对夫妻月薪超 60 万元，两年入职 300 家公司，牵出数百人的「职业骗薪」团伙，如何看待此事？](https://www.zhihu.com/question/604403306)<br />
 2. [《小美人鱼》三天票房不到 2000 万，口碑彻底崩了，你对该影片有哪些评价？](https://www.zhihu.com/question/603592302)<br />
 3. [销售端一个西瓜超百元，供应商称 7 - 9 月价格也不会下降，西瓜涨价原因有哪些？](https://www.zhihu.com/question/604403671)<br />
-4. []()<br />
-5. []()<br />
-6. [友情里是否也存在「备胎」？](https://www.zhihu.com/question/603610520)<br />
-7. [6 月 2 日沪指收涨 0.79% ，新能源、房地产走强，两市超 3400 股上涨，如何看待今日行情？](https://www.zhihu.com/question/604379977)<br />
-8. [一季度美国银行存款总额下降 4720 亿美元，连续四个季度下降，降幅创历史纪录，银行业状况何时能改善？](https://www.zhihu.com/question/604379959)<br />
-9. [插混有哪些避坑点？](https://www.zhihu.com/question/602943961)<br />
+4. [你见过最冷静的人是怎么样的？](https://www.zhihu.com/question/315251005)<br />
+5. [友情里是否也存在「备胎」？](https://www.zhihu.com/question/603610520)<br />
+6. [6 月 2 日沪指收涨 0.79% ，新能源、房地产走强，两市超 3400 股上涨，如何看待今日行情？](https://www.zhihu.com/question/604379977)<br />
+7. [一季度美国银行存款总额下降 4720 亿美元，连续四个季度下降，降幅创历史纪录，银行业状况何时能改善？](https://www.zhihu.com/question/604379959)<br />
+8. [插混有哪些避坑点？](https://www.zhihu.com/question/602943961)<br />
+9. []()<br />
 
 > 百度  
 
