@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 19:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 19:05:01</h4></div>
 
 > 微博  
 
@@ -18,11 +18,11 @@
 2. [上海一对夫妻月薪超 60 万元，两年入职 300 家公司，牵出数百人的「职业骗薪」团伙，如何看待此事？](https://www.zhihu.com/question/604403306)<br />
 3. [女生穿婚纱看王源演唱会被分手系谣言，当事人称「聊天记录是伪造」，如何看待此事？ 造谣者需要负责吗？](https://www.zhihu.com/question/604390809)<br />
 4. [想问问大家，是觉得一米八的蟑螂恐怖还是一百八十万只蟑螂恐怖？如果一定要面对其中之一，你会怎么办？](https://www.zhihu.com/question/600068717)<br />
-5. [PS5 已经发布 3 年了，2023 年还值得入手吗？](https://www.zhihu.com/question/540585488)<br />
-6. [从生物演化角度，为什么子女没有遗传父母的知识经验，而是重置再学习？](https://www.zhihu.com/question/601678910)<br />
-7. [伊布在足坛是什么级别的球员？](https://www.zhihu.com/question/603338479)<br />
-8. []()<br />
-9. [想换轮胎，哪位大神推荐个性价比高的品牌？](https://www.zhihu.com/question/445276720)<br />
+5. [从生物演化角度，为什么子女没有遗传父母的知识经验，而是重置再学习？](https://www.zhihu.com/question/601678910)<br />
+6. [PS5 已经发布 3 年了，2023 年还值得入手吗？](https://www.zhihu.com/question/540585488)<br />
+7. []()<br />
+8. [想换轮胎，哪位大神推荐个性价比高的品牌？](https://www.zhihu.com/question/445276720)<br />
+9. [有什么值得推荐的燃气灶吗？](https://www.zhihu.com/question/290811440)<br />
 
 > 百度  
 
