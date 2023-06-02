@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 19:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 19:07:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [PS5 已经发布 3 年了，2023 年还值得入手吗？](https://www.zhihu.com/question/540585488)<br />
 7. []()<br />
 8. [想换轮胎，哪位大神推荐个性价比高的品牌？](https://www.zhihu.com/question/445276720)<br />
-9. [有什么值得推荐的燃气灶吗？](https://www.zhihu.com/question/290811440)<br />
+9. [《小美人鱼》三天票房不到 2000 万，口碑彻底崩了，你对该影片有哪些评价？](https://www.zhihu.com/question/603592302)<br />
 
 > 百度  
 
