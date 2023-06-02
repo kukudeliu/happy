@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 14:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 14:31:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [压力给到华晨宇站姐](https://s.weibo.com/weibo?q=%23%E5%8E%8B%E5%8A%9B%E7%BB%99%E5%88%B0%E5%8D%8E%E6%99%A8%E5%AE%87%E7%AB%99%E5%A7%90%23&t=31&band_rank=6&Refer=top)<br />
 7. [跑步的多巴胺仅次于谈恋爱](https://s.weibo.com/weibo?q=%E8%B7%91%E6%AD%A5%E7%9A%84%E5%A4%9A%E5%B7%B4%E8%83%BA%E4%BB%85%E6%AC%A1%E4%BA%8E%E8%B0%88%E6%81%8B%E7%88%B1&t=31&band_rank=7&Refer=top)<br />
 8. [多次感染对身体的危害有多大](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%AC%A1%E6%84%9F%E6%9F%93%E5%AF%B9%E8%BA%AB%E4%BD%93%E7%9A%84%E5%8D%B1%E5%AE%B3%E6%9C%89%E5%A4%9A%E5%A4%A7%23&t=31&band_rank=8&Refer=top)<br />
-9. [蔡康永把林志玲问哭](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BA%B7%E6%B0%B8%E6%8A%8A%E6%9E%97%E5%BF%97%E7%8E%B2%E9%97%AE%E5%93%AD%23&t=31&band_rank=9&Refer=top)<br />
+9. [王鹤棣要去泰国录跑男](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E8%A6%81%E5%8E%BB%E6%B3%B0%E5%9B%BD%E5%BD%95%E8%B7%91%E7%94%B7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
