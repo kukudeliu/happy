@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 10:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 10:46:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [女孩放弃入职后收到HR千字回复](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E6%94%BE%E5%BC%83%E5%85%A5%E8%81%8C%E5%90%8E%E6%94%B6%E5%88%B0HR%E5%8D%83%E5%AD%97%E5%9B%9E%E5%A4%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子开咖啡店日入0元](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BC%80%E5%92%96%E5%95%A1%E5%BA%97%E6%97%A5%E5%85%A50%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [饭店厕所隔间门设计成冰箱门](https://www.baidu.com/s?wd=%E9%A5%AD%E5%BA%97%E5%8E%95%E6%89%80%E9%9A%94%E9%97%B4%E9%97%A8%E8%AE%BE%E8%AE%A1%E6%88%90%E5%86%B0%E7%AE%B1%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [苹果全球首播不带货 130万人围观](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%85%A8%E7%90%83%E9%A6%96%E6%92%AD%E4%B8%8D%E5%B8%A6%E8%B4%A7+130%E4%B8%87%E4%BA%BA%E5%9B%B4%E8%A7%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [美记：掘金若夺冠含金量史上最低](https://www.baidu.com/s?wd=%E7%BE%8E%E8%AE%B0%EF%BC%9A%E6%8E%98%E9%87%91%E8%8B%A5%E5%A4%BA%E5%86%A0%E5%90%AB%E9%87%91%E9%87%8F%E5%8F%B2%E4%B8%8A%E6%9C%80%E4%BD%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [女孩放弃入职后收到HR千字回复](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E6%94%BE%E5%BC%83%E5%85%A5%E8%81%8C%E5%90%8E%E6%94%B6%E5%88%B0HR%E5%8D%83%E5%AD%97%E5%9B%9E%E5%A4%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子开咖啡店日入0元](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BC%80%E5%92%96%E5%95%A1%E5%BA%97%E6%97%A5%E5%85%A50%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [饭店厕所隔间门设计成冰箱门](https://www.baidu.com/s?wd=%E9%A5%AD%E5%BA%97%E5%8E%95%E6%89%80%E9%9A%94%E9%97%B4%E9%97%A8%E8%AE%BE%E8%AE%A1%E6%88%90%E5%86%B0%E7%AE%B1%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [苹果全球首播不带货 130万人围观](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%85%A8%E7%90%83%E9%A6%96%E6%92%AD%E4%B8%8D%E5%B8%A6%E8%B4%A7+130%E4%B8%87%E4%BA%BA%E5%9B%B4%E8%A7%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [美记：掘金若夺冠含金量史上最低](https://www.baidu.com/s?wd=%E7%BE%8E%E8%AE%B0%EF%BC%9A%E6%8E%98%E9%87%91%E8%8B%A5%E5%A4%BA%E5%86%A0%E5%90%AB%E9%87%91%E9%87%8F%E5%8F%B2%E4%B8%8A%E6%9C%80%E4%BD%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
