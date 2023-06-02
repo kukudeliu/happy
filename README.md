@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 11:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 11:31:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [边伯贤金珉锡金钟大称SMTOWN说谎](https://s.weibo.com/weibo?q=%23%E8%BE%B9%E4%BC%AF%E8%B4%A4%E9%87%91%E7%8F%89%E9%94%A1%E9%87%91%E9%92%9F%E5%A4%A7%E7%A7%B0SMTOWN%E8%AF%B4%E8%B0%8E%23&t=31&band_rank=6&Refer=top)<br />
 7. [王一博外网生图状态](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%A4%96%E7%BD%91%E7%94%9F%E5%9B%BE%E7%8A%B6%E6%80%81%23&t=31&band_rank=7&Refer=top)<br />
 8. [鞠婧祎反手一个大比兜](https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E5%8F%8D%E6%89%8B%E4%B8%80%E4%B8%AA%E5%A4%A7%E6%AF%94%E5%85%9C%23&t=31&band_rank=8&Refer=top)<br />
-9. [五月天演唱会为何一票难求](https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%BA%E4%BD%95%E4%B8%80%E7%A5%A8%E9%9A%BE%E6%B1%82%23&t=31&band_rank=9&Refer=top)<br />
+9. [蔡康永把林志玲问哭](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BA%B7%E6%B0%B8%E6%8A%8A%E6%9E%97%E5%BF%97%E7%8E%B2%E9%97%AE%E5%93%AD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [2022-23 赛季 NBA 总决赛掘金扑灭热火先拔头筹，约基奇 27+10+14，如何评价这场比赛？](https://www.zhihu.com/question/604369865)<br />
 7. [5 月百城新房价格止涨转跌，二手房跌幅扩大，房地产市场现状如何？「以价换量」会成为趋势吗？](https://www.zhihu.com/question/604220951)<br />
 8. [如何评价 2023 年 LPL 夏季赛 WBG 2：0 战胜 JDG?](https://www.zhihu.com/question/604307628)<br />
-9. [在《原神》3.7 活动里，与雪中刀的对决中，神里绫华是不是有些冷淡？](https://www.zhihu.com/question/603777594)<br />
+9. [炖肉的时候，有时肉越炖越烂，有的时候却越炖越硬，这是为什么呢？背后有什么科学道理呢？](https://www.zhihu.com/question/507310446)<br />
 
 > 百度  
 
