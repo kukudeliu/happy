@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 03:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 03:41:01</h4></div>
 
 > 微博  
 
@@ -20,8 +20,8 @@
 4. [美台签署 「 21 世纪贸易倡议」第一阶段协议，外交部称「已向美方提出严正交涉」，有哪些信息值得关注？](https://www.zhihu.com/question/604421093)<br />
 5. [东鹏特饮外面那层透明的盖子有什么用？](https://www.zhihu.com/question/39324406)<br />
 6. [有哪些演员错过了某个角色，让你倍感遗憾？](https://www.zhihu.com/question/41078046)<br />
-7. [朋友借给我一万，用了半年。还钱时候要不要给点利息？](https://www.zhihu.com/question/602415682)<br />
-8. [为什么让狗狗做的坏事被主人发现后，它就会开始发抖？真的是害怕和愧疚吗？](https://www.zhihu.com/question/602543843)<br />
+7. [为什么让狗狗做的坏事被主人发现后，它就会开始发抖？真的是害怕和愧疚吗？](https://www.zhihu.com/question/602543843)<br />
+8. [朋友借给我一万，用了半年。还钱时候要不要给点利息？](https://www.zhihu.com/question/602415682)<br />
 9. []()<br />
 
 > 百度  
