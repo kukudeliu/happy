@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 19:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 19:57:01</h4></div>
 
 > 微博  
 
-1. [校内被撞身亡小学生母亲坠楼身亡](https://s.weibo.com/weibo?q=%23%E6%A0%A1%E5%86%85%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%AF%8D%E4%BA%B2%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=1&Refer=top)<br />
+1. [顾姓老师已调离华南理工](https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%A7%93%E8%80%81%E5%B8%88%E5%B7%B2%E8%B0%83%E7%A6%BB%E5%8D%8E%E5%8D%97%E7%90%86%E5%B7%A5%23&t=31&band_rank=1&Refer=top)<br />
 2. [老伴走后第二天浙大老教师又去捡垃圾了](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BC%B4%E8%B5%B0%E5%90%8E%E7%AC%AC%E4%BA%8C%E5%A4%A9%E6%B5%99%E5%A4%A7%E8%80%81%E6%95%99%E5%B8%88%E5%8F%88%E5%8E%BB%E6%8D%A1%E5%9E%83%E5%9C%BE%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [神舟十六号飞天全回顾](https://s.weibo.com/weibo?q=%23%E7%A5%9E%E8%88%9F%E5%8D%81%E5%85%AD%E5%8F%B7%E9%A3%9E%E5%A4%A9%E5%85%A8%E5%9B%9E%E9%A1%BE%23&t=31&band_rank=3&Refer=top)<br />
-4. [顾姓老师已调离华南理工](https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%A7%93%E8%80%81%E5%B8%88%E5%B7%B2%E8%B0%83%E7%A6%BB%E5%8D%8E%E5%8D%97%E7%90%86%E5%B7%A5%23&t=31&band_rank=4&Refer=top)<br />
+4. [校内被撞身亡小学生母亲坠楼身亡](https://s.weibo.com/weibo?q=%23%E6%A0%A1%E5%86%85%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%AF%8D%E4%BA%B2%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=4&Refer=top)<br />
 5. [收费员多问一句救下一条命](https://s.weibo.com/weibo?q=%23%E6%94%B6%E8%B4%B9%E5%91%98%E5%A4%9A%E9%97%AE%E4%B8%80%E5%8F%A5%E6%95%91%E4%B8%8B%E4%B8%80%E6%9D%A1%E5%91%BD%23&t=31&band_rank=5&Refer=top)<br />
 6. [我国一孩生育率跌至0.5](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E4%B8%80%E5%AD%A9%E7%94%9F%E8%82%B2%E7%8E%87%E8%B7%8C%E8%87%B30.5%23&t=31&band_rank=6&Refer=top)<br />
 7. [千万网友点赞宁波志愿奶奶](https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E7%BD%91%E5%8F%8B%E7%82%B9%E8%B5%9E%E5%AE%81%E6%B3%A2%E5%BF%97%E6%84%BF%E5%A5%B6%E5%A5%B6%23&t=31&band_rank=7&Refer=top)<br />
