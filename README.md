@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 22:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 22:53:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [韩国23岁女子杀害陌生同龄女子](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD23%E5%B2%81%E5%A5%B3%E5%AD%90%E6%9D%80%E5%AE%B3%E9%99%8C%E7%94%9F%E5%90%8C%E9%BE%84%E5%A5%B3%E5%AD%90%23&t=31&band_rank=6&Refer=top)<br />
 7. [护心31集 封神](https://s.weibo.com/weibo?q=%E6%8A%A4%E5%BF%8331%E9%9B%86%20%E5%B0%81%E7%A5%9E&t=31&band_rank=7&Refer=top)<br />
 8. [吴所谓得知吴京去开家长会的反应](https://s.weibo.com/weibo?q=%23%E5%90%B4%E6%89%80%E8%B0%93%E5%BE%97%E7%9F%A5%E5%90%B4%E4%BA%AC%E5%8E%BB%E5%BC%80%E5%AE%B6%E9%95%BF%E4%BC%9A%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=8&Refer=top)<br />
-9. [周也演技值得一个热搜](https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%B9%9F%E6%BC%94%E6%8A%80%E5%80%BC%E5%BE%97%E4%B8%80%E4%B8%AA%E7%83%AD%E6%90%9C%23&t=31&band_rank=9&Refer=top)<br />
+9. [梦中的那片海 替身BE美学](https://s.weibo.com/weibo?q=%E6%A2%A6%E4%B8%AD%E7%9A%84%E9%82%A3%E7%89%87%E6%B5%B7%20%E6%9B%BF%E8%BA%ABBE%E7%BE%8E%E5%AD%A6&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
