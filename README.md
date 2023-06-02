@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 20:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 20:01:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [想问问大家，是觉得一米八的蟑螂恐怖还是一百八十万只蟑螂恐怖？如果一定要面对其中之一，你会怎么办？](https://www.zhihu.com/question/600068717)<br />
 5. [《小美人鱼》三天票房不到 2000 万，口碑彻底崩了，你对该影片有哪些评价？](https://www.zhihu.com/question/603592302)<br />
 6. [PS5 已经发布 3 年了，2023 年还值得入手吗？](https://www.zhihu.com/question/540585488)<br />
-7. [从生物演化角度，为什么子女没有遗传父母的知识经验，而是重置再学习？](https://www.zhihu.com/question/601678910)<br />
-8. []()<br />
-9. [为什么越讲道理, 孩子越不听话？](https://www.zhihu.com/question/598809389)<br />
+7. []()<br />
+8. [为什么越讲道理, 孩子越不听话？](https://www.zhihu.com/question/598809389)<br />
+9. [从生物演化角度，为什么子女没有遗传父母的知识经验，而是重置再学习？](https://www.zhihu.com/question/601678910)<br />
 
 > 百度  
 
