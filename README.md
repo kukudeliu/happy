@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 14:10:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 14:11:01</h4></div>
 
 > 微博  
 
@@ -19,10 +19,10 @@
 3. [继「村 BA」后「村超」火了，韩乔生将赴现场解说，如何看待此现象？「村超」能救中国足球吗？](https://www.zhihu.com/question/604276146)<br />
 4. [女朋友因为我没给她过六一儿童节，没发红包而和我分手，我该怎么办？](https://www.zhihu.com/question/604201618)<br />
 5. [炖肉的时候，有时肉越炖越烂，有的时候却越炖越硬，这是为什么呢？背后有什么科学道理呢？](https://www.zhihu.com/question/507310446)<br />
-6. [为什么我喝酒感觉是苦的难喝，而有的人感觉是醇香的很美味？](https://www.zhihu.com/question/32287872)<br />
+6. [5 月百城新房价格止涨转跌，二手房跌幅扩大，房地产市场现状如何？「以价换量」会成为趋势吗？](https://www.zhihu.com/question/604220951)<br />
 7. [合租室友带男友回家怎么办？](https://www.zhihu.com/question/603882925)<br />
-8. [5 月百城新房价格止涨转跌，二手房跌幅扩大，房地产市场现状如何？「以价换量」会成为趋势吗？](https://www.zhihu.com/question/604220951)<br />
-9. [据不完全统计，《崩坏：星穹铁道》五月流水约为《原神》同月的 2.7 倍，如何评价？](https://www.zhihu.com/question/604195870)<br />
+8. [拼多多在电商竞争中靠什么生存？](https://www.zhihu.com/question/603808015)<br />
+9. [为什么我喝酒感觉是苦的难喝，而有的人感觉是醇香的很美味？](https://www.zhihu.com/question/32287872)<br />
 
 > 百度  
 
