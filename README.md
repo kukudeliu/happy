@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 10:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 10:36:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [这群幕后航天人对代码有着极致追求](https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%BE%A4%E5%B9%95%E5%90%8E%E8%88%AA%E5%A4%A9%E4%BA%BA%E5%AF%B9%E4%BB%A3%E7%A0%81%E6%9C%89%E7%9D%80%E6%9E%81%E8%87%B4%E8%BF%BD%E6%B1%82%23&t=31&band_rank=3&Refer=top)<br />
 4. [被骗到缅甸6小伙已被解救](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E9%AA%97%E5%88%B0%E7%BC%85%E7%94%B86%E5%B0%8F%E4%BC%99%E5%B7%B2%E8%A2%AB%E8%A7%A3%E6%95%91%23&t=31&band_rank=4&Refer=top)<br />
 5. [专家称不排除二阳后还会有三阳](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E4%B8%8D%E6%8E%92%E9%99%A4%E4%BA%8C%E9%98%B3%E5%90%8E%E8%BF%98%E4%BC%9A%E6%9C%89%E4%B8%89%E9%98%B3%23&t=31&band_rank=5&Refer=top)<br />
-6. [NBA总决赛](https://s.weibo.com/weibo?q=NBA%E6%80%BB%E5%86%B3%E8%B5%9B&t=31&band_rank=6&Refer=top)<br />
-7. [早知道烂厂里了](https://s.weibo.com/weibo?q=%E6%97%A9%E7%9F%A5%E9%81%93%E7%83%82%E5%8E%82%E9%87%8C%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
-8. [我其实是一只水母 装成人的模样社交](https://s.weibo.com/weibo?q=%E6%88%91%E5%85%B6%E5%AE%9E%E6%98%AF%E4%B8%80%E5%8F%AA%E6%B0%B4%E6%AF%8D%20%E8%A3%85%E6%88%90%E4%BA%BA%E7%9A%84%E6%A8%A1%E6%A0%B7%E7%A4%BE%E4%BA%A4&t=31&band_rank=8&Refer=top)<br />
-9. [Jennie在香奈儿表演](https://s.weibo.com/weibo?q=%23Jennie%E5%9C%A8%E9%A6%99%E5%A5%88%E5%84%BF%E8%A1%A8%E6%BC%94%23&t=31&band_rank=9&Refer=top)<br />
+6. [为什么不能坐别人的热凳子](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E8%83%BD%E5%9D%90%E5%88%AB%E4%BA%BA%E7%9A%84%E7%83%AD%E5%87%B3%E5%AD%90%23&t=31&band_rank=6&Refer=top)<br />
+7. [NBA总决赛](https://s.weibo.com/weibo?q=NBA%E6%80%BB%E5%86%B3%E8%B5%9B&t=31&band_rank=7&Refer=top)<br />
+8. [早知道烂厂里了](https://s.weibo.com/weibo?q=%E6%97%A9%E7%9F%A5%E9%81%93%E7%83%82%E5%8E%82%E9%87%8C%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
+9. [我其实是一只水母 装成人的模样社交](https://s.weibo.com/weibo?q=%E6%88%91%E5%85%B6%E5%AE%9E%E6%98%AF%E4%B8%80%E5%8F%AA%E6%B0%B4%E6%AF%8D%20%E8%A3%85%E6%88%90%E4%BA%BA%E7%9A%84%E6%A8%A1%E6%A0%B7%E7%A4%BE%E4%BA%A4&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -32,9 +32,9 @@
 4. [从未见过发射的航天人](https://www.baidu.com/s?wd=%E4%BB%8E%E6%9C%AA%E8%A7%81%E8%BF%87%E5%8F%91%E5%B0%84%E7%9A%84%E8%88%AA%E5%A4%A9%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [高三师生的双向奔赴太戳了](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%89%E5%B8%88%E7%94%9F%E7%9A%84%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4%E5%A4%AA%E6%88%B3%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子开咖啡店日入0元](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BC%80%E5%92%96%E5%95%A1%E5%BA%97%E6%97%A5%E5%85%A50%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [李尚福谈台湾问题强调三个“决不”](https://www.baidu.com/s?wd=%E6%9D%8E%E5%B0%9A%E7%A6%8F%E8%B0%88%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E5%BC%BA%E8%B0%83%E4%B8%89%E4%B8%AA%E2%80%9C%E5%86%B3%E4%B8%8D%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [金智秀新冠确诊](https://www.baidu.com/s?wd=%E9%87%91%E6%99%BA%E7%A7%80%E6%96%B0%E5%86%A0%E7%A1%AE%E8%AF%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [重庆暴雨倒灌车库 居民用绳救人](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E6%9A%B4%E9%9B%A8%E5%80%92%E7%81%8C%E8%BD%A6%E5%BA%93+%E5%B1%85%E6%B0%91%E7%94%A8%E7%BB%B3%E6%95%91%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [金智秀新冠确诊](https://www.baidu.com/s?wd=%E9%87%91%E6%99%BA%E7%A7%80%E6%96%B0%E5%86%A0%E7%A1%AE%E8%AF%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [重庆暴雨倒灌车库 居民用绳救人](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E6%9A%B4%E9%9B%A8%E5%80%92%E7%81%8C%E8%BD%A6%E5%BA%93+%E5%B1%85%E6%B0%91%E7%94%A8%E7%BB%B3%E6%95%91%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [李尚福谈台湾问题强调三个“决不”](https://www.baidu.com/s?wd=%E6%9D%8E%E5%B0%9A%E7%A6%8F%E8%B0%88%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E5%BC%BA%E8%B0%83%E4%B8%89%E4%B8%AA%E2%80%9C%E5%86%B3%E4%B8%8D%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [从未见过发射的航天人](https://www.baidu.com/s?wd=%E4%BB%8E%E6%9C%AA%E8%A7%81%E8%BF%87%E5%8F%91%E5%B0%84%E7%9A%84%E8%88%AA%E5%A4%A9%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [高三师生的双向奔赴太戳了](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%89%E5%B8%88%E7%94%9F%E7%9A%84%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4%E5%A4%AA%E6%88%B3%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子开咖啡店日入0元](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BC%80%E5%92%96%E5%95%A1%E5%BA%97%E6%97%A5%E5%85%A50%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [李尚福谈台湾问题强调三个“决不”](https://www.baidu.com/s?wd=%E6%9D%8E%E5%B0%9A%E7%A6%8F%E8%B0%88%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E5%BC%BA%E8%B0%83%E4%B8%89%E4%B8%AA%E2%80%9C%E5%86%B3%E4%B8%8D%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [金智秀新冠确诊](https://www.baidu.com/s?wd=%E9%87%91%E6%99%BA%E7%A7%80%E6%96%B0%E5%86%A0%E7%A1%AE%E8%AF%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [重庆暴雨倒灌车库 居民用绳救人](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E6%9A%B4%E9%9B%A8%E5%80%92%E7%81%8C%E8%BD%A6%E5%BA%93+%E5%B1%85%E6%B0%91%E7%94%A8%E7%BB%B3%E6%95%91%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [金智秀新冠确诊](https://www.baidu.com/s?wd=%E9%87%91%E6%99%BA%E7%A7%80%E6%96%B0%E5%86%A0%E7%A1%AE%E8%AF%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [重庆暴雨倒灌车库 居民用绳救人](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E6%9A%B4%E9%9B%A8%E5%80%92%E7%81%8C%E8%BD%A6%E5%BA%93+%E5%B1%85%E6%B0%91%E7%94%A8%E7%BB%B3%E6%95%91%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [李尚福谈台湾问题强调三个“决不”](https://www.baidu.com/s?wd=%E6%9D%8E%E5%B0%9A%E7%A6%8F%E8%B0%88%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E5%BC%BA%E8%B0%83%E4%B8%89%E4%B8%AA%E2%80%9C%E5%86%B3%E4%B8%8D%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
