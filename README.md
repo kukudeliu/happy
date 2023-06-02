@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 20:15:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 20:16:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [我的梦想是关于文学的，但是当多次被退稿以后，我该不该放弃?](https://www.zhihu.com/question/604011027)<br />
 7. [为什么越讲道理, 孩子越不听话？](https://www.zhihu.com/question/598809389)<br />
 8. []()<br />
-9. []()<br />
+9. [请问一万多的冰箱和三四千元的冰箱有什么不同？](https://www.zhihu.com/question/494932195)<br />
 
 > 百度  
 
