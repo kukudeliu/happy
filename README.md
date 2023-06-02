@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 10:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 10:56:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [NBA总决赛](https://s.weibo.com/weibo?q=NBA%E6%80%BB%E5%86%B3%E8%B5%9B&t=31&band_rank=6&Refer=top)<br />
 7. [虞书欣妆造](https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%A6%86%E9%80%A0&t=31&band_rank=7&Refer=top)<br />
 8. [王一博外网生图状态](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%A4%96%E7%BD%91%E7%94%9F%E5%9B%BE%E7%8A%B6%E6%80%81%23&t=31&band_rank=8&Refer=top)<br />
-9. [早知道烂厂里了](https://s.weibo.com/weibo?q=%E6%97%A9%E7%9F%A5%E9%81%93%E7%83%82%E5%8E%82%E9%87%8C%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [边伯贤金珉锡金钟大称SMTOWN说谎](https://s.weibo.com/weibo?q=%23%E8%BE%B9%E4%BC%AF%E8%B4%A4%E9%87%91%E7%8F%89%E9%94%A1%E9%87%91%E9%92%9F%E5%A4%A7%E7%A7%B0SMTOWN%E8%AF%B4%E8%B0%8E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -20,8 +20,8 @@
 4. [邻居说让他儿子到我家吃中饭，按 15 元一顿给钱，能同意吗?](https://www.zhihu.com/question/603469319)<br />
 5. []()<br />
 6. []()<br />
-7. [网红车评人区长拿出了三款电动车电池包做暴力安全测试，这种安全测试对消费者购车有参考意义吗？](https://www.zhihu.com/question/604202511)<br />
-8. [5 月百城新房价格止涨转跌，二手房跌幅扩大，房地产市场现状如何？「以价换量」会成为趋势吗？](https://www.zhihu.com/question/604220951)<br />
+7. [5 月百城新房价格止涨转跌，二手房跌幅扩大，房地产市场现状如何？「以价换量」会成为趋势吗？](https://www.zhihu.com/question/604220951)<br />
+8. [网红车评人区长拿出了三款电动车电池包做暴力安全测试，这种安全测试对消费者购车有参考意义吗？](https://www.zhihu.com/question/604202511)<br />
 9. [在《笑傲江湖》中，为啥令狐冲能够与人人喊打的魔教中人打成一片？](https://www.zhihu.com/question/604133289)<br />
 
 > 百度  
