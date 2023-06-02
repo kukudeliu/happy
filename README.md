@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 10:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 10:40:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [男子开咖啡店日入0元](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BC%80%E5%92%96%E5%95%A1%E5%BA%97%E6%97%A5%E5%85%A50%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [苹果全球首播不带货 130万人围观](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%85%A8%E7%90%83%E9%A6%96%E6%92%AD%E4%B8%8D%E5%B8%A6%E8%B4%A7+130%E4%B8%87%E4%BA%BA%E5%9B%B4%E8%A7%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [李尚福谈台湾问题强调三个“决不”](https://www.baidu.com/s?wd=%E6%9D%8E%E5%B0%9A%E7%A6%8F%E8%B0%88%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E5%BC%BA%E8%B0%83%E4%B8%89%E4%B8%AA%E2%80%9C%E5%86%B3%E4%B8%8D%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子自称我爸是人大代表 官方:失实](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%87%AA%E7%A7%B0%E6%88%91%E7%88%B8%E6%98%AF%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8+%E5%AE%98%E6%96%B9%3A%E5%A4%B1%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [饭店厕所隔间门设计成冰箱门](https://www.baidu.com/s?wd=%E9%A5%AD%E5%BA%97%E5%8E%95%E6%89%80%E9%9A%94%E9%97%B4%E9%97%A8%E8%AE%BE%E8%AE%A1%E6%88%90%E5%86%B0%E7%AE%B1%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [男子开咖啡店日入0元](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BC%80%E5%92%96%E5%95%A1%E5%BA%97%E6%97%A5%E5%85%A50%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [苹果全球首播不带货 130万人围观](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%85%A8%E7%90%83%E9%A6%96%E6%92%AD%E4%B8%8D%E5%B8%A6%E8%B4%A7+130%E4%B8%87%E4%BA%BA%E5%9B%B4%E8%A7%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [李尚福谈台湾问题强调三个“决不”](https://www.baidu.com/s?wd=%E6%9D%8E%E5%B0%9A%E7%A6%8F%E8%B0%88%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E5%BC%BA%E8%B0%83%E4%B8%89%E4%B8%AA%E2%80%9C%E5%86%B3%E4%B8%8D%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子自称我爸是人大代表 官方:失实](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%87%AA%E7%A7%B0%E6%88%91%E7%88%B8%E6%98%AF%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8+%E5%AE%98%E6%96%B9%3A%E5%A4%B1%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [饭店厕所隔间门设计成冰箱门](https://www.baidu.com/s?wd=%E9%A5%AD%E5%BA%97%E5%8E%95%E6%89%80%E9%9A%94%E9%97%B4%E9%97%A8%E8%AE%BE%E8%AE%A1%E6%88%90%E5%86%B0%E7%AE%B1%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
