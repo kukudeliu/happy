@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 13:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 13:40:02</h4></div>
 
 > 微博  
 
@@ -7,17 +7,17 @@
 3. [距2023高考还有5天](https://s.weibo.com/weibo?q=%23%E8%B7%9D2023%E9%AB%98%E8%80%83%E8%BF%98%E6%9C%895%E5%A4%A9%23&t=31&band_rank=3&Refer=top)<br />
 4. [跑步的多巴胺仅次于谈恋爱](https://s.weibo.com/weibo?q=%E8%B7%91%E6%AD%A5%E7%9A%84%E5%A4%9A%E5%B7%B4%E8%83%BA%E4%BB%85%E6%AC%A1%E4%BA%8E%E8%B0%88%E6%81%8B%E7%88%B1&t=31&band_rank=4&Refer=top)<br />
 5. [夫妻入职300家公司骗工资60万](https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E5%85%A5%E8%81%8C300%E5%AE%B6%E5%85%AC%E5%8F%B8%E9%AA%97%E5%B7%A5%E8%B5%8460%E4%B8%87%23&t=31&band_rank=5&Refer=top)<br />
-6. [梦中的那片海有狂飙高晓晨](https://s.weibo.com/weibo?q=%23%E6%A2%A6%E4%B8%AD%E7%9A%84%E9%82%A3%E7%89%87%E6%B5%B7%E6%9C%89%E7%8B%82%E9%A3%99%E9%AB%98%E6%99%93%E6%99%A8%23&t=31&band_rank=6&Refer=top)<br />
-7. [难听](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%90%AC&t=31&band_rank=7&Refer=top)<br />
-8. [被骗到缅甸6小伙已被解救](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E9%AA%97%E5%88%B0%E7%BC%85%E7%94%B86%E5%B0%8F%E4%BC%99%E5%B7%B2%E8%A2%AB%E8%A7%A3%E6%95%91%23&t=31&band_rank=8&Refer=top)<br />
-9. [蔡康永把林志玲问哭](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BA%B7%E6%B0%B8%E6%8A%8A%E6%9E%97%E5%BF%97%E7%8E%B2%E9%97%AE%E5%93%AD%23&t=31&band_rank=9&Refer=top)<br />
+6. [难听](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%90%AC&t=31&band_rank=6&Refer=top)<br />
+7. [梦中的那片海有狂飙高晓晨](https://s.weibo.com/weibo?q=%23%E6%A2%A6%E4%B8%AD%E7%9A%84%E9%82%A3%E7%89%87%E6%B5%B7%E6%9C%89%E7%8B%82%E9%A3%99%E9%AB%98%E6%99%93%E6%99%A8%23&t=31&band_rank=7&Refer=top)<br />
+8. [蔡康永把林志玲问哭](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BA%B7%E6%B0%B8%E6%8A%8A%E6%9E%97%E5%BF%97%E7%8E%B2%E9%97%AE%E5%93%AD%23&t=31&band_rank=8&Refer=top)<br />
+9. [被骗到缅甸6小伙已被解救](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E9%AA%97%E5%88%B0%E7%BC%85%E7%94%B86%E5%B0%8F%E4%BC%99%E5%B7%B2%E8%A2%AB%E8%A7%A3%E6%95%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [中方在台湾问题上借冲绳举例，日方破防「冲绳绝不会独立」，冲绳和台湾有哪些不同？日方为何就台频频拱火？](https://www.zhihu.com/question/604246792)<br />
 2. [韩国出口连跌 8 个月，对中美欧出口全部下滑，芯片出口大跌 36.2%，受哪些因素影响？](https://www.zhihu.com/question/604222429)<br />
-3. [罗永浩直播卖房，上架 1 分钟就被订下，总价 205 万，直播卖房会引发跟风吗？直播买房有哪些风险？](https://www.zhihu.com/question/604265383)<br />
-4. [继「村 BA」后「村超」火了，韩乔生将赴现场解说，如何看待此现象？「村超」能救中国足球吗？](https://www.zhihu.com/question/604276146)<br />
+3. [继「村 BA」后「村超」火了，韩乔生将赴现场解说，如何看待此现象？「村超」能救中国足球吗？](https://www.zhihu.com/question/604276146)<br />
+4. [罗永浩直播卖房，上架 1 分钟就被订下，总价 205 万，直播卖房会引发跟风吗？直播买房有哪些风险？](https://www.zhihu.com/question/604265383)<br />
 5. [据不完全统计，《崩坏：星穹铁道》五月流水约为《原神》同月的 2.7 倍，如何评价？](https://www.zhihu.com/question/604195870)<br />
 6. [女朋友因为我没给她过六一儿童节，没发红包而和我分手，我该怎么办？](https://www.zhihu.com/question/604201618)<br />
 7. [为什么我喝酒感觉是苦的难喝，而有的人感觉是醇香的很美味？](https://www.zhihu.com/question/32287872)<br />
