@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 03:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 03:10:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [知情人辟谣被撞小学生父亲坠楼](https://s.weibo.com/weibo?q=%23%E7%9F%A5%E6%83%85%E4%BA%BA%E8%BE%9F%E8%B0%A3%E8%A2%AB%E6%92%9E%E5%B0%8F%E5%AD%A6%E7%94%9F%E7%88%B6%E4%BA%B2%E5%9D%A0%E6%A5%BC%23&t=31&band_rank=6&Refer=top)<br />
 7. [吴所谓得知吴京去开家长会的反应](https://s.weibo.com/weibo?q=%23%E5%90%B4%E6%89%80%E8%B0%93%E5%BE%97%E7%9F%A5%E5%90%B4%E4%BA%AC%E5%8E%BB%E5%BC%80%E5%AE%B6%E9%95%BF%E4%BC%9A%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=7&Refer=top)<br />
 8. [今晚的观众好忙](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E6%99%9A%E7%9A%84%E8%A7%82%E4%BC%97%E5%A5%BD%E5%BF%99%23&t=31&band_rank=8&Refer=top)<br />
-9. [吴建豪淘汰赵丽颖](https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%BB%BA%E8%B1%AA%E6%B7%98%E6%B1%B0%E8%B5%B5%E4%B8%BD%E9%A2%96%23&t=31&band_rank=9&Refer=top)<br />
+9. [8岁男孩摆摊1小时赚584元](https://s.weibo.com/weibo?q=%238%E5%B2%81%E7%94%B7%E5%AD%A9%E6%91%86%E6%91%8A1%E5%B0%8F%E6%97%B6%E8%B5%9A584%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -21,8 +21,8 @@
 5. [东鹏特饮外面那层透明的盖子有什么用？](https://www.zhihu.com/question/39324406)<br />
 6. []()<br />
 7. []()<br />
-8. []()<br />
-9. [朋友借给我一万，用了半年。还钱时候要不要给点利息？](https://www.zhihu.com/question/602415682)<br />
+8. [朋友借给我一万，用了半年。还钱时候要不要给点利息？](https://www.zhihu.com/question/602415682)<br />
+9. [为什么让狗狗做的坏事被主人发现后，它就会开始发抖？真的是害怕和愧疚吗？](https://www.zhihu.com/question/602543843)<br />
 
 > 百度  
 
