@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 22:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 22:24:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [护心31集 封神](https://s.weibo.com/weibo?q=%E6%8A%A4%E5%BF%8331%E9%9B%86%20%E5%B0%81%E7%A5%9E&t=31&band_rank=6&Refer=top)<br />
 7. [张雪峰公司将实行上四休三](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%85%AC%E5%8F%B8%E5%B0%86%E5%AE%9E%E8%A1%8C%E4%B8%8A%E5%9B%9B%E4%BC%91%E4%B8%89%23&t=31&band_rank=7&Refer=top)<br />
 8. [吴所谓得知吴京去开家长会的反应](https://s.weibo.com/weibo?q=%23%E5%90%B4%E6%89%80%E8%B0%93%E5%BE%97%E7%9F%A5%E5%90%B4%E4%BA%AC%E5%8E%BB%E5%BC%80%E5%AE%B6%E9%95%BF%E4%BC%9A%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=8&Refer=top)<br />
-9. [周也演技值得一个热搜](https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%B9%9F%E6%BC%94%E6%8A%80%E5%80%BC%E5%BE%97%E4%B8%80%E4%B8%AA%E7%83%AD%E6%90%9C%23&t=31&band_rank=9&Refer=top)<br />
+9. [爷爷去世前发给我的](https://s.weibo.com/weibo?q=%E7%88%B7%E7%88%B7%E5%8E%BB%E4%B8%96%E5%89%8D%E5%8F%91%E7%BB%99%E6%88%91%E7%9A%84&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -34,7 +34,7 @@
 6. [张雪峰公司将实行4天工作制](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%85%AC%E5%8F%B8%E5%B0%86%E5%AE%9E%E8%A1%8C4%E5%A4%A9%E5%B7%A5%E4%BD%9C%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [校内被撞身亡小学生母亲坠楼身亡](https://www.baidu.com/s?wd=%E6%A0%A1%E5%86%85%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%AF%8D%E4%BA%B2%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [吴所谓得知吴京去开家长会的反应](https://www.baidu.com/s?wd=%E5%90%B4%E6%89%80%E8%B0%93%E5%BE%97%E7%9F%A5%E5%90%B4%E4%BA%AC%E5%8E%BB%E5%BC%80%E5%AE%B6%E9%95%BF%E4%BC%9A%E7%9A%84%E5%8F%8D%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [香港一住宅楼被雷击中](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E4%B8%80%E4%BD%8F%E5%AE%85%E6%A5%BC%E8%A2%AB%E9%9B%B7%E5%87%BB%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [老伴走后第2天浙大老教师又去捡垃圾](https://www.baidu.com/s?wd=%E8%80%81%E4%BC%B4%E8%B5%B0%E5%90%8E%E7%AC%AC2%E5%A4%A9%E6%B5%99%E5%A4%A7%E8%80%81%E6%95%99%E5%B8%88%E5%8F%88%E5%8E%BB%E6%8D%A1%E5%9E%83%E5%9C%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [张雪峰公司将实行4天工作制](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%85%AC%E5%8F%B8%E5%B0%86%E5%AE%9E%E8%A1%8C4%E5%A4%A9%E5%B7%A5%E4%BD%9C%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [校内被撞身亡小学生母亲坠楼身亡](https://www.baidu.com/s?wd=%E6%A0%A1%E5%86%85%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%AF%8D%E4%BA%B2%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [吴所谓得知吴京去开家长会的反应](https://www.baidu.com/s?wd=%E5%90%B4%E6%89%80%E8%B0%93%E5%BE%97%E7%9F%A5%E5%90%B4%E4%BA%AC%E5%8E%BB%E5%BC%80%E5%AE%B6%E9%95%BF%E4%BC%9A%E7%9A%84%E5%8F%8D%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [香港一住宅楼被雷击中](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E4%B8%80%E4%BD%8F%E5%AE%85%E6%A5%BC%E8%A2%AB%E9%9B%B7%E5%87%BB%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [老伴走后第2天浙大老教师又去捡垃圾](https://www.baidu.com/s?wd=%E8%80%81%E4%BC%B4%E8%B5%B0%E5%90%8E%E7%AC%AC2%E5%A4%A9%E6%B5%99%E5%A4%A7%E8%80%81%E6%95%99%E5%B8%88%E5%8F%88%E5%8E%BB%E6%8D%A1%E5%9E%83%E5%9C%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
