@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 20:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 20:08:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [校内被撞身亡小学生母亲坠楼身亡](https://s.weibo.com/weibo?q=%23%E6%A0%A1%E5%86%85%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%AF%8D%E4%BA%B2%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [3未成年男性酒店轮流猥亵2少女](https://s.weibo.com/weibo?q=%233%E6%9C%AA%E6%88%90%E5%B9%B4%E7%94%B7%E6%80%A7%E9%85%92%E5%BA%97%E8%BD%AE%E6%B5%81%E7%8C%A5%E4%BA%B52%E5%B0%91%E5%A5%B3%23&t=31&band_rank=7&Refer=top)<br />
 8. [陶白白你自己算到了吗](https://s.weibo.com/weibo?q=%23%E9%99%B6%E7%99%BD%E7%99%BD%E4%BD%A0%E8%87%AA%E5%B7%B1%E7%AE%97%E5%88%B0%E4%BA%86%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [老伴走后第二天浙大老教师又去捡垃圾了](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BC%B4%E8%B5%B0%E5%90%8E%E7%AC%AC%E4%BA%8C%E5%A4%A9%E6%B5%99%E5%A4%A7%E8%80%81%E6%95%99%E5%B8%88%E5%8F%88%E5%8E%BB%E6%8D%A1%E5%9E%83%E5%9C%BE%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [黄晓明救了我的手机](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E6%95%91%E4%BA%86%E6%88%91%E7%9A%84%E6%89%8B%E6%9C%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
