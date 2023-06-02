@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 16:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 16:48:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [吴倩没有镜头](https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%80%A9%E6%B2%A1%E6%9C%89%E9%95%9C%E5%A4%B4%23&t=31&band_rank=5&Refer=top)<br />
 6. [陶白白你自己算到了吗](https://s.weibo.com/weibo?q=%23%E9%99%B6%E7%99%BD%E7%99%BD%E4%BD%A0%E8%87%AA%E5%B7%B1%E7%AE%97%E5%88%B0%E4%BA%86%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [五月天因为余佳运不再当音乐节目评委](https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E5%9B%A0%E4%B8%BA%E4%BD%99%E4%BD%B3%E8%BF%90%E4%B8%8D%E5%86%8D%E5%BD%93%E9%9F%B3%E4%B9%90%E8%8A%82%E7%9B%AE%E8%AF%84%E5%A7%94%23&t=31&band_rank=7&Refer=top)<br />
-8. [谢娜二公第一](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E4%BA%8C%E5%85%AC%E7%AC%AC%E4%B8%80%23&t=31&band_rank=8&Refer=top)<br />
-9. [王鹤棣要去泰国录跑男](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E8%A6%81%E5%8E%BB%E6%B3%B0%E5%9B%BD%E5%BD%95%E8%B7%91%E7%94%B7%23&t=31&band_rank=9&Refer=top)<br />
+8. [黄晓明救了我的手机](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E6%95%91%E4%BA%86%E6%88%91%E7%9A%84%E6%89%8B%E6%9C%BA%23&t=31&band_rank=8&Refer=top)<br />
+9. [谢娜二公第一](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E4%BA%8C%E5%85%AC%E7%AC%AC%E4%B8%80%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
