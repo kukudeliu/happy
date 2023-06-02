@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 14:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 14:13:02</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [5 月百城新房价格止涨转跌，二手房跌幅扩大，房地产市场现状如何？「以价换量」会成为趋势吗？](https://www.zhihu.com/question/604220951)<br />
 7. [合租室友带男友回家怎么办？](https://www.zhihu.com/question/603882925)<br />
 8. [拼多多在电商竞争中靠什么生存？](https://www.zhihu.com/question/603808015)<br />
-9. [为什么我喝酒感觉是苦的难喝，而有的人感觉是醇香的很美味？](https://www.zhihu.com/question/32287872)<br />
+9. [维吾尔语能否和土耳其语互通？如果能的话，能互通多少？](https://www.zhihu.com/question/526103427)<br />
 
 > 百度  
 
