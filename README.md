@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 07:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 07:43:01</h4></div>
 
 > 微博  
 
@@ -16,13 +16,13 @@
 
 1. [《小美人鱼》三天票房不到 2000 万，口碑彻底崩了，你对该影片有哪些评价？](https://www.zhihu.com/question/603592302)<br />
 2. [上海一对夫妻月薪超 60 万元，两年入职 300 家公司，牵出数百人的「职业骗薪」团伙，如何看待此事？](https://www.zhihu.com/question/604403306)<br />
-3. [东鹏特饮外面那层透明的盖子有什么用？](https://www.zhihu.com/question/39324406)<br />
-4. [美台签署 「 21 世纪贸易倡议」第一阶段协议，外交部称「已向美方提出严正交涉」，有哪些信息值得关注？](https://www.zhihu.com/question/604421093)<br />
-5. [Steam 上有哪些必买游戏？](https://www.zhihu.com/question/35296900)<br />
+3. [美台签署 「 21 世纪贸易倡议」第一阶段协议，外交部称「已向美方提出严正交涉」，有哪些信息值得关注？](https://www.zhihu.com/question/604421093)<br />
+4. [Steam 上有哪些必买游戏？](https://www.zhihu.com/question/35296900)<br />
+5. [为什么让狗狗做的坏事被主人发现后，它就会开始发抖？真的是害怕和愧疚吗？](https://www.zhihu.com/question/602543843)<br />
 6. []()<br />
-7. [为什么让狗狗做的坏事被主人发现后，它就会开始发抖？真的是害怕和愧疚吗？](https://www.zhihu.com/question/602543843)<br />
-8. [销售端一个西瓜超百元，供应商称 7 - 9 月价格也不会下降，西瓜涨价原因有哪些？](https://www.zhihu.com/question/604403671)<br />
-9. []()<br />
+7. [销售端一个西瓜超百元，供应商称 7 - 9 月价格也不会下降，西瓜涨价原因有哪些？](https://www.zhihu.com/question/604403671)<br />
+8. []()<br />
+9. [俄罗斯别尔哥罗德州州长称「24 小时内该州遭袭超 300 次」，目前当地局势如何？](https://www.zhihu.com/question/603813963)<br />
 
 > 百度  
 
