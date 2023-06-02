@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 08:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 08:55:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [王诗龄晒健身照](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%AF%97%E9%BE%84%E6%99%92%E5%81%A5%E8%BA%AB%E7%85%A7%23&t=31&band_rank=6&Refer=top)<br />
 7. [千万不要觉得成绩已经定型了](https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E8%A7%89%E5%BE%97%E6%88%90%E7%BB%A9%E5%B7%B2%E7%BB%8F%E5%AE%9A%E5%9E%8B%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [早知道烂厂里了](https://s.weibo.com/weibo?q=%E6%97%A9%E7%9F%A5%E9%81%93%E7%83%82%E5%8E%82%E9%87%8C%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [还没有一个人有我全部的账号](https://s.weibo.com/weibo?q=%E8%BF%98%E6%B2%A1%E6%9C%89%E4%B8%80%E4%B8%AA%E4%BA%BA%E6%9C%89%E6%88%91%E5%85%A8%E9%83%A8%E7%9A%84%E8%B4%A6%E5%8F%B7&t=31&band_rank=9&Refer=top)<br />
+9. [练车两分钟就疲劳驾驶了](https://s.weibo.com/weibo?q=%E7%BB%83%E8%BD%A6%E4%B8%A4%E5%88%86%E9%92%9F%E5%B0%B1%E7%96%B2%E5%8A%B3%E9%A9%BE%E9%A9%B6%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -21,8 +21,8 @@
 5. [香格里拉对话会 6 月 2 日召开，中国新防长将首次出席，此次香会有哪些看点值得关注？](https://www.zhihu.com/question/604227433)<br />
 6. [有人让 ChatGPT 做高三试卷，英语、历史等文字性内容成功率非常高，只有物理得零分，如何看待此事？](https://www.zhihu.com/question/604261512)<br />
 7. []()<br />
-8. [网红车评人区长拿出了三款电动车电池包做暴力安全测试，这种安全测试对消费者购车有参考意义吗？](https://www.zhihu.com/question/604202511)<br />
-9. [黄蓉死在襄阳的时候，黄药师为什么不来救女儿？](https://www.zhihu.com/question/598195157)<br />
+8. []()<br />
+9. [网红车评人区长拿出了三款电动车电池包做暴力安全测试，这种安全测试对消费者购车有参考意义吗？](https://www.zhihu.com/question/604202511)<br />
 
 > 百度  
 
