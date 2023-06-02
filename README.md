@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 11:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-02 11:19:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [5 月百城新房价格止涨转跌，二手房跌幅扩大，房地产市场现状如何？「以价换量」会成为趋势吗？](https://www.zhihu.com/question/604220951)<br />
 7. [2022-23 赛季 NBA 总决赛掘金扑灭热火先拔头筹，约基奇 27+10+14，如何评价这场比赛？](https://www.zhihu.com/question/604369865)<br />
 8. [如何评价 2023 年 LPL 夏季赛 WBG 2：0 战胜 JDG?](https://www.zhihu.com/question/604307628)<br />
-9. [如何评价《蜘蛛侠：纵横宇宙》？](https://www.zhihu.com/question/604207622)<br />
+9. []()<br />
 
 > 百度  
 
@@ -34,7 +34,7 @@
 6. [女孩放弃入职后收到HR千字回复](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E6%94%BE%E5%BC%83%E5%85%A5%E8%81%8C%E5%90%8E%E6%94%B6%E5%88%B0HR%E5%8D%83%E5%AD%97%E5%9B%9E%E5%A4%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [夫妻职业骗薪2年入职300家公司](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E8%81%8C%E4%B8%9A%E9%AA%97%E8%96%AA2%E5%B9%B4%E5%85%A5%E8%81%8C300%E5%AE%B6%E5%85%AC%E5%8F%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [多次感染对身体的危害有多大](https://www.baidu.com/s?wd=%E5%A4%9A%E6%AC%A1%E6%84%9F%E6%9F%93%E5%AF%B9%E8%BA%AB%E4%BD%93%E7%9A%84%E5%8D%B1%E5%AE%B3%E6%9C%89%E5%A4%9A%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子开咖啡店日入0元](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BC%80%E5%92%96%E5%95%A1%E5%BA%97%E6%97%A5%E5%85%A50%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [比亚迪西安工厂起火](https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%A5%BF%E5%AE%89%E5%B7%A5%E5%8E%82%E8%B5%B7%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [女孩放弃入职后收到HR千字回复](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E6%94%BE%E5%BC%83%E5%85%A5%E8%81%8C%E5%90%8E%E6%94%B6%E5%88%B0HR%E5%8D%83%E5%AD%97%E5%9B%9E%E5%A4%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [夫妻职业骗薪2年入职300家公司](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E8%81%8C%E4%B8%9A%E9%AA%97%E8%96%AA2%E5%B9%B4%E5%85%A5%E8%81%8C300%E5%AE%B6%E5%85%AC%E5%8F%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [多次感染对身体的危害有多大](https://www.baidu.com/s?wd=%E5%A4%9A%E6%AC%A1%E6%84%9F%E6%9F%93%E5%AF%B9%E8%BA%AB%E4%BD%93%E7%9A%84%E5%8D%B1%E5%AE%B3%E6%9C%89%E5%A4%9A%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子开咖啡店日入0元](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BC%80%E5%92%96%E5%95%A1%E5%BA%97%E6%97%A5%E5%85%A50%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [比亚迪西安工厂起火](https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%A5%BF%E5%AE%89%E5%B7%A5%E5%8E%82%E8%B5%B7%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
