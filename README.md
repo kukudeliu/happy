@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 02:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 02:40:01</h4></div>
 
 > 微博  
 
@@ -32,9 +32,9 @@
 4. [探源历史 致远未来](https://www.baidu.com/s?wd=%E6%8E%A2%E6%BA%90%E5%8E%86%E5%8F%B2+%E8%87%B4%E8%BF%9C%E6%9C%AA%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [4个月卖1751.5亿 彩票盯上年轻人？](https://www.baidu.com/s?wd=4%E4%B8%AA%E6%9C%88%E5%8D%961751.5%E4%BA%BF+%E5%BD%A9%E7%A5%A8%E7%9B%AF%E4%B8%8A%E5%B9%B4%E8%BD%BB%E4%BA%BA%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [俄罗斯多地遭攻击 24小时内上百次](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E5%A4%9A%E5%9C%B0%E9%81%AD%E6%94%BB%E5%87%BB+24%E5%B0%8F%E6%97%B6%E5%86%85%E4%B8%8A%E7%99%BE%E6%AC%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [拜登：美国避免了一次经济崩溃](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%EF%BC%9A%E7%BE%8E%E5%9B%BD%E9%81%BF%E5%85%8D%E4%BA%86%E4%B8%80%E6%AC%A1%E7%BB%8F%E6%B5%8E%E5%B4%A9%E6%BA%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [五月天演唱会华晨宇冷场](https://www.baidu.com/s?wd=%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8D%8E%E6%99%A8%E5%AE%87%E5%86%B7%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [赵丽颖街边哄儿子被拍](https://www.baidu.com/s?wd=%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%A1%97%E8%BE%B9%E5%93%84%E5%84%BF%E5%AD%90%E8%A2%AB%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [五月天演唱会华晨宇冷场](https://www.baidu.com/s?wd=%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8D%8E%E6%99%A8%E5%AE%87%E5%86%B7%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [赵丽颖街边哄儿子被拍](https://www.baidu.com/s?wd=%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%A1%97%E8%BE%B9%E5%93%84%E5%84%BF%E5%AD%90%E8%A2%AB%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [陈伟霆新剧不拿观众当外人](https://www.baidu.com/s?wd=%E9%99%88%E4%BC%9F%E9%9C%86%E6%96%B0%E5%89%A7%E4%B8%8D%E6%8B%BF%E8%A7%82%E4%BC%97%E5%BD%93%E5%A4%96%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [探源历史 致远未来](https://www.baidu.com/s?wd=%E6%8E%A2%E6%BA%90%E5%8E%86%E5%8F%B2+%E8%87%B4%E8%BF%9C%E6%9C%AA%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [4个月卖1751.5亿 彩票盯上年轻人？](https://www.baidu.com/s?wd=4%E4%B8%AA%E6%9C%88%E5%8D%961751.5%E4%BA%BF+%E5%BD%A9%E7%A5%A8%E7%9B%AF%E4%B8%8A%E5%B9%B4%E8%BD%BB%E4%BA%BA%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [俄罗斯多地遭攻击 24小时内上百次](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E5%A4%9A%E5%9C%B0%E9%81%AD%E6%94%BB%E5%87%BB+24%E5%B0%8F%E6%97%B6%E5%86%85%E4%B8%8A%E7%99%BE%E6%AC%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [拜登：美国避免了一次经济崩溃](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%EF%BC%9A%E7%BE%8E%E5%9B%BD%E9%81%BF%E5%85%8D%E4%BA%86%E4%B8%80%E6%AC%A1%E7%BB%8F%E6%B5%8E%E5%B4%A9%E6%BA%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [五月天演唱会华晨宇冷场](https://www.baidu.com/s?wd=%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8D%8E%E6%99%A8%E5%AE%87%E5%86%B7%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [赵丽颖街边哄儿子被拍](https://www.baidu.com/s?wd=%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%A1%97%E8%BE%B9%E5%93%84%E5%84%BF%E5%AD%90%E8%A2%AB%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [五月天演唱会华晨宇冷场](https://www.baidu.com/s?wd=%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8D%8E%E6%99%A8%E5%AE%87%E5%86%B7%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [赵丽颖街边哄儿子被拍](https://www.baidu.com/s?wd=%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%A1%97%E8%BE%B9%E5%93%84%E5%84%BF%E5%AD%90%E8%A2%AB%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [陈伟霆新剧不拿观众当外人](https://www.baidu.com/s?wd=%E9%99%88%E4%BC%9F%E9%9C%86%E6%96%B0%E5%89%A7%E4%B8%8D%E6%8B%BF%E8%A7%82%E4%BC%97%E5%BD%93%E5%A4%96%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
