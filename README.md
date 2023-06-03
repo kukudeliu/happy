@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 17:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 17:11:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [平心而论，《王国之泪》四贤者的人物设定是否远比《旷野之息》四英杰丰满？](https://www.zhihu.com/question/604201885)<br />
 7. [朋友或情侣一起玩真人恐怖密室会有考验人性的情况发生吗？](https://www.zhihu.com/question/342169389)<br />
 8. [为什么《崩坏 3》里的角色到了《崩坏：星穹铁道》里就没有姓了？](https://www.zhihu.com/question/602795318)<br />
-9. [女朋友送的 switch 被亲戚要求送小孩我该怎么办？](https://www.zhihu.com/question/596647831)<br />
+9. [如果取消中国象棋里马绊腿的规则会怎样？](https://www.zhihu.com/question/604075483)<br />
 
 > 百度  
 
