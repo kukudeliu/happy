@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 18:24:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 18:25:02</h4></div>
 
 > 微博  
 
@@ -20,8 +20,8 @@
 4. [把下班后的时间都用来刷手机，对人生对生活究竟有没有影响？](https://www.zhihu.com/question/598823194)<br />
 5. [如何看待国内服装尺码越来越小的现象？](https://www.zhihu.com/question/499028779)<br />
 6. []()<br />
-7. [为什么《崩坏 3》里的角色到了《崩坏：星穹铁道》里就没有姓了？](https://www.zhihu.com/question/602795318)<br />
-8. [高考期间，孩子住校好还是住家好？](https://www.zhihu.com/question/603971061)<br />
+7. [高考期间，孩子住校好还是住家好？](https://www.zhihu.com/question/603971061)<br />
+8. [为什么《崩坏 3》里的角色到了《崩坏：星穹铁道》里就没有姓了？](https://www.zhihu.com/question/602795318)<br />
 9. [空调一开一关费电，还是一直开着费电？](https://www.zhihu.com/question/285831334)<br />
 
 > 百度  
