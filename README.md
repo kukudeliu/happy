@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 16:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 16:17:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [上海迪士尼回应「迪士尼落子武汉」称是假新闻，具体情况如何？哪个城市有希望落户中国第三家迪士尼？](https://www.zhihu.com/question/604556644)<br />
 5. [如果给岳飞安排的帝王是刘禅会怎么样？](https://www.zhihu.com/question/547840158)<br />
 6. [现在的网文市场不适合性格内向的作者吗？](https://www.zhihu.com/question/505310524)<br />
-7. [猫经常坐在院子中间，偶尔舔舔身上的毛，然后坐在那一个下午，它坐在那干什么？](https://www.zhihu.com/question/603451215)<br />
-8. [看刘慈欣的小说可笑吗？](https://www.zhihu.com/question/601783884)<br />
-9. [为什么米哈游不公布《原神》深渊每期的满星率呢？](https://www.zhihu.com/question/604339495)<br />
+7. [看刘慈欣的小说可笑吗？](https://www.zhihu.com/question/601783884)<br />
+8. [为什么米哈游不公布《原神》深渊每期的满星率呢？](https://www.zhihu.com/question/604339495)<br />
+9. [如果取消中国象棋里马绊腿的规则会怎样？](https://www.zhihu.com/question/604075483)<br />
 
 > 百度  
 
