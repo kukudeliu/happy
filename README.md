@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 11:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 11:40:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [陈采尼 抄](https://s.weibo.com/weibo?q=%E9%99%88%E9%87%87%E5%B0%BC%20%E6%8A%84&t=31&band_rank=4&Refer=top)<br />
 5. [半藏森林克隆人一年收入可高达72万](https://s.weibo.com/weibo?q=%23%E5%8D%8A%E8%97%8F%E6%A3%AE%E6%9E%97%E5%85%8B%E9%9A%86%E4%BA%BA%E4%B8%80%E5%B9%B4%E6%94%B6%E5%85%A5%E5%8F%AF%E9%AB%98%E8%BE%BE72%E4%B8%87%23&t=31&band_rank=5&Refer=top)<br />
 6. [迪丽热巴是祝绪丹最爱的女人](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%98%AF%E7%A5%9D%E7%BB%AA%E4%B8%B9%E6%9C%80%E7%88%B1%E7%9A%84%E5%A5%B3%E4%BA%BA%23&t=31&band_rank=6&Refer=top)<br />
-7. [Angelababy回归 跑男收视率](https://s.weibo.com/weibo?q=Angelababy%E5%9B%9E%E5%BD%92%20%E8%B7%91%E7%94%B7%E6%94%B6%E8%A7%86%E7%8E%87&t=31&band_rank=7&Refer=top)<br />
-8. [爸爸到上海出差把女儿冰箱塞满](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E5%88%B0%E4%B8%8A%E6%B5%B7%E5%87%BA%E5%B7%AE%E6%8A%8A%E5%A5%B3%E5%84%BF%E5%86%B0%E7%AE%B1%E5%A1%9E%E6%BB%A1%23&t=31&band_rank=8&Refer=top)<br />
+7. [爸爸到上海出差把女儿冰箱塞满](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E5%88%B0%E4%B8%8A%E6%B5%B7%E5%87%BA%E5%B7%AE%E6%8A%8A%E5%A5%B3%E5%84%BF%E5%86%B0%E7%AE%B1%E5%A1%9E%E6%BB%A1%23&t=31&band_rank=7&Refer=top)<br />
+8. [Angelababy回归 跑男收视率](https://s.weibo.com/weibo?q=Angelababy%E5%9B%9E%E5%BD%92%20%E8%B7%91%E7%94%B7%E6%94%B6%E8%A7%86%E7%8E%87&t=31&band_rank=8&Refer=top)<br />
 9. [那英劝周迅别去浪姐](https://s.weibo.com/weibo?q=%23%E9%82%A3%E8%8B%B1%E5%8A%9D%E5%91%A8%E8%BF%85%E5%88%AB%E5%8E%BB%E6%B5%AA%E5%A7%90%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -21,8 +21,8 @@
 5. [诸葛亮为什么会对张苞的死，痛心到吐血？](https://www.zhihu.com/question/602162906)<br />
 6. [做科研怎么知道自己是不是在闭门造车呢？](https://www.zhihu.com/question/497343251)<br />
 7. [最近大火的厨房空调有必要吗？是不是智商税？](https://www.zhihu.com/question/604448257)<br />
-8. [618 有哪些好用又便宜的厨房小电器推荐？](https://www.zhihu.com/question/602551377)<br />
-9. []()<br />
+8. [报道称美军工厂 24 小时连轴转，每月造两万枚炮弹，美对乌军援总额已达 376 亿美元，这意味着什么？](https://www.zhihu.com/question/604500833)<br />
+9. [618 有哪些好用又便宜的厨房小电器推荐？](https://www.zhihu.com/question/602551377)<br />
 
 > 百度  
 
