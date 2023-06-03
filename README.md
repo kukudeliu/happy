@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 09:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 09:56:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [警方回应校内被撞身亡小学生母亲坠亡](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E6%A0%A1%E5%86%85%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%AF%8D%E4%BA%B2%E5%9D%A0%E4%BA%A1%23&t=31&band_rank=5&Refer=top)<br />
 6. [千万不要长期喝热咖啡](https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E9%95%BF%E6%9C%9F%E5%96%9D%E7%83%AD%E5%92%96%E5%95%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [Angelababy回归 跑男收视率](https://s.weibo.com/weibo?q=Angelababy%E5%9B%9E%E5%BD%92%20%E8%B7%91%E7%94%B7%E6%94%B6%E8%A7%86%E7%8E%87&t=31&band_rank=7&Refer=top)<br />
-8. [爸爸到上海出差把女儿冰箱塞满](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E5%88%B0%E4%B8%8A%E6%B5%B7%E5%87%BA%E5%B7%AE%E6%8A%8A%E5%A5%B3%E5%84%BF%E5%86%B0%E7%AE%B1%E5%A1%9E%E6%BB%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [华南理工女博士答辩完整视频](https://s.weibo.com/weibo?q=%E5%8D%8E%E5%8D%97%E7%90%86%E5%B7%A5%E5%A5%B3%E5%8D%9A%E5%A3%AB%E7%AD%94%E8%BE%A9%E5%AE%8C%E6%95%B4%E8%A7%86%E9%A2%91&t=31&band_rank=9&Refer=top)<br />
+8. [华南理工女博士答辩完整视频](https://s.weibo.com/weibo?q=%E5%8D%8E%E5%8D%97%E7%90%86%E5%B7%A5%E5%A5%B3%E5%8D%9A%E5%A3%AB%E7%AD%94%E8%BE%A9%E5%AE%8C%E6%95%B4%E8%A7%86%E9%A2%91&t=31&band_rank=8&Refer=top)<br />
+9. [爸爸到上海出差把女儿冰箱塞满](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E5%88%B0%E4%B8%8A%E6%B5%B7%E5%87%BA%E5%B7%AE%E6%8A%8A%E5%A5%B3%E5%84%BF%E5%86%B0%E7%AE%B1%E5%A1%9E%E6%BB%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
