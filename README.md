@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 06:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 06:40:02</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [如何看待国内服装尺码越来越小的现象？](https://www.zhihu.com/question/499028779)<br />
 7. [真人版《小美人鱼》口碑与票房双失利，仅仅是因为电影的选角吗？根本原因是什么？](https://www.zhihu.com/question/603607588)<br />
 8. []()<br />
-9. []()<br />
+9. [2023 LPL 夏季赛 TES 2:1 EDG，如何评价这场比赛？](https://www.zhihu.com/question/604601328)<br />
 
 > 百度  
 
