@@ -1,13 +1,13 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 18:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 18:58:01</h4></div>
 
 > 微博  
 
-1. [吴倩说女儿和自己长得一模一样](https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%80%A9%E8%AF%B4%E5%A5%B3%E5%84%BF%E5%92%8C%E8%87%AA%E5%B7%B1%E9%95%BF%E5%BE%97%E4%B8%80%E6%A8%A1%E4%B8%80%E6%A0%B7%23&t=31&band_rank=1&Refer=top)<br />
+1. [曲婉婷被拍卖房产以219.9万成交](https://s.weibo.com/weibo?q=%23%E6%9B%B2%E5%A9%89%E5%A9%B7%E8%A2%AB%E6%8B%8D%E5%8D%96%E6%88%BF%E4%BA%A7%E4%BB%A5219.9%E4%B8%87%E6%88%90%E4%BA%A4%23&t=31&band_rank=1&Refer=top)<br />
 2. [高三学生写永久请假条告别班主任](https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%B8%89%E5%AD%A6%E7%94%9F%E5%86%99%E6%B0%B8%E4%B9%85%E8%AF%B7%E5%81%87%E6%9D%A1%E5%91%8A%E5%88%AB%E7%8F%AD%E4%B8%BB%E4%BB%BB%23&t=31&band_rank=2&Refer=top)<br />
 3. [带着我的梦想上天宫](https://s.weibo.com/weibo?q=%23%E5%B8%A6%E7%9D%80%E6%88%91%E7%9A%84%E6%A2%A6%E6%83%B3%E4%B8%8A%E5%A4%A9%E5%AE%AB%23&t=31&band_rank=3&Refer=top)<br />
 4. [赵露思是曾黎的人形挂件吧](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%98%AF%E6%9B%BE%E9%BB%8E%E7%9A%84%E4%BA%BA%E5%BD%A2%E6%8C%82%E4%BB%B6%E5%90%A7%23&t=31&band_rank=4&Refer=top)<br />
 5. [女儿在爸爸朋友圈发长文拜托别劝酒](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E5%9C%A8%E7%88%B8%E7%88%B8%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%8F%91%E9%95%BF%E6%96%87%E6%8B%9C%E6%89%98%E5%88%AB%E5%8A%9D%E9%85%92%23&t=31&band_rank=5&Refer=top)<br />
-6. [曲婉婷被拍卖房产以219.9万成交](https://s.weibo.com/weibo?q=%23%E6%9B%B2%E5%A9%89%E5%A9%B7%E8%A2%AB%E6%8B%8D%E5%8D%96%E6%88%BF%E4%BA%A7%E4%BB%A5219.9%E4%B8%87%E6%88%90%E4%BA%A4%23&t=31&band_rank=6&Refer=top)<br />
+6. [吴倩说女儿和自己长得一模一样](https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%80%A9%E8%AF%B4%E5%A5%B3%E5%84%BF%E5%92%8C%E8%87%AA%E5%B7%B1%E9%95%BF%E5%BE%97%E4%B8%80%E6%A8%A1%E4%B8%80%E6%A0%B7%23&t=31&band_rank=6&Refer=top)<br />
 7. [女孩不舍得父母买钢琴进门瞬间喜极而泣](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E4%B8%8D%E8%88%8D%E5%BE%97%E7%88%B6%E6%AF%8D%E4%B9%B0%E9%92%A2%E7%90%B4%E8%BF%9B%E9%97%A8%E7%9E%AC%E9%97%B4%E5%96%9C%E6%9E%81%E8%80%8C%E6%B3%A3%23&t=31&band_rank=7&Refer=top)<br />
 8. [徐开骋被AI换脸](https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%BC%80%E9%AA%8B%E8%A2%ABAI%E6%8D%A2%E8%84%B8%23&t=31&band_rank=8&Refer=top)<br />
 9. [卢靖姗顺产用了三十六个小时](https://s.weibo.com/weibo?q=%23%E5%8D%A2%E9%9D%96%E5%A7%97%E9%A1%BA%E4%BA%A7%E7%94%A8%E4%BA%86%E4%B8%89%E5%8D%81%E5%85%AD%E4%B8%AA%E5%B0%8F%E6%97%B6%23&t=31&band_rank=9&Refer=top)<br />
