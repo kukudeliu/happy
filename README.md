@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 23:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 23:46:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [原配抓小三路人帮腔大骂男方不要脸](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E9%85%8D%E6%8A%93%E5%B0%8F%E4%B8%89%E8%B7%AF%E4%BA%BA%E5%B8%AE%E8%85%94%E5%A4%A7%E9%AA%82%E7%94%B7%E6%96%B9%E4%B8%8D%E8%A6%81%E8%84%B8%23&t=31&band_rank=6&Refer=top)<br />
 7. [女孩父母回应网传黄渤放弃资助](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E7%88%B6%E6%AF%8D%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E9%BB%84%E6%B8%A4%E6%94%BE%E5%BC%83%E8%B5%84%E5%8A%A9%23&t=31&band_rank=7&Refer=top)<br />
 8. [陈伟霆亲到耳朵红了](https://s.weibo.com/weibo?q=%23%E9%99%88%E4%BC%9F%E9%9C%86%E4%BA%B2%E5%88%B0%E8%80%B3%E6%9C%B5%E7%BA%A2%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [张艺兴 买票请认准官方票务平台](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%89%BA%E5%85%B4%20%E4%B9%B0%E7%A5%A8%E8%AF%B7%E8%AE%A4%E5%87%86%E5%AE%98%E6%96%B9%E7%A5%A8%E5%8A%A1%E5%B9%B3%E5%8F%B0&t=31&band_rank=9&Refer=top)<br />
+9. [总裁带员工去蔡徐坤演唱会团建](https://s.weibo.com/weibo?q=%23%E6%80%BB%E8%A3%81%E5%B8%A6%E5%91%98%E5%B7%A5%E5%8E%BB%E8%94%A1%E5%BE%90%E5%9D%A4%E6%BC%94%E5%94%B1%E4%BC%9A%E5%9B%A2%E5%BB%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
