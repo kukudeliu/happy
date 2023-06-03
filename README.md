@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 07:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 07:02:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [如何看待国内服装尺码越来越小的现象？](https://www.zhihu.com/question/499028779)<br />
 7. [李斌回应蔚来巨亏，称「主要赔在研发上，研发的赔钱我觉得是投资」，具体情况如何？蔚来发展前景如何？](https://www.zhihu.com/question/602722590)<br />
 8. [《西游记》中的世界地图是什么样的？](https://www.zhihu.com/question/37555090)<br />
-9. []()<br />
+9. [是大部分动物都喜欢被摸头吗？](https://www.zhihu.com/question/442523187)<br />
 
 > 百度  
 
