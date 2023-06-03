@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 12:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 12:17:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [诸葛亮为什么会对张苞的死，痛心到吐血？](https://www.zhihu.com/question/602162906)<br />
 6. [最近大火的厨房空调有必要吗？是不是智商税？](https://www.zhihu.com/question/604448257)<br />
 7. []()<br />
-8. [618 有哪些好用又便宜的厨房小电器推荐？](https://www.zhihu.com/question/602551377)<br />
-9. []()<br />
+8. []()<br />
+9. [618 有哪些好用又便宜的厨房小电器推荐？](https://www.zhihu.com/question/602551377)<br />
 
 > 百度  
 
