@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 12:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 12:35:01</h4></div>
 
 > 微博  
 
@@ -19,8 +19,8 @@
 3. [猫经常坐在院子中间，偶尔舔舔身上的毛，然后坐在那一个下午，它坐在那干什么？](https://www.zhihu.com/question/603451215)<br />
 4. [报道称美军工厂 24 小时连轴转，每月造两万枚炮弹，美对乌军援总额已达 376 亿美元，这意味着什么？](https://www.zhihu.com/question/604500833)<br />
 5. [上海迪士尼回应「迪士尼落子武汉」称是假新闻，具体情况如何？哪个城市有希望落户中国第三家迪士尼？](https://www.zhihu.com/question/604556644)<br />
-6. [诸葛亮为什么会对张苞的死，痛心到吐血？](https://www.zhihu.com/question/602162906)<br />
-7. [最近大火的厨房空调有必要吗？是不是智商税？](https://www.zhihu.com/question/604448257)<br />
+6. [最近大火的厨房空调有必要吗？是不是智商税？](https://www.zhihu.com/question/604448257)<br />
+7. [诸葛亮为什么会对张苞的死，痛心到吐血？](https://www.zhihu.com/question/602162906)<br />
 8. [作为西北地区，为什么今年陕西降雨开启「超长待机」模式？](https://www.zhihu.com/question/604228404)<br />
 9. []()<br />
 
