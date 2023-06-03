@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 07:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 07:23:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [黄渤回应贫困女孩争议](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%B8%A4%E5%9B%9E%E5%BA%94%E8%B4%AB%E5%9B%B0%E5%A5%B3%E5%AD%A9%E4%BA%89%E8%AE%AE%23&t=31&band_rank=6&Refer=top)<br />
 7. [一人说一个奇怪的生理反应](https://s.weibo.com/weibo?q=%E4%B8%80%E4%BA%BA%E8%AF%B4%E4%B8%80%E4%B8%AA%E5%A5%87%E6%80%AA%E7%9A%84%E7%94%9F%E7%90%86%E5%8F%8D%E5%BA%94&t=31&band_rank=7&Refer=top)<br />
 8. [女孩家长称黄渤赠送手表未送给弟弟](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%AE%B6%E9%95%BF%E7%A7%B0%E9%BB%84%E6%B8%A4%E8%B5%A0%E9%80%81%E6%89%8B%E8%A1%A8%E6%9C%AA%E9%80%81%E7%BB%99%E5%BC%9F%E5%BC%9F%23&t=31&band_rank=8&Refer=top)<br />
-9. [东部战区就美加军舰过航台湾海峡发表谈话](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E5%B0%B1%E7%BE%8E%E5%8A%A0%E5%86%9B%E8%88%B0%E8%BF%87%E8%88%AA%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1%E5%8F%91%E8%A1%A8%E8%B0%88%E8%AF%9D%23&t=31&band_rank=9&Refer=top)<br />
+9. [陈伟霆亲到耳朵红了](https://s.weibo.com/weibo?q=%23%E9%99%88%E4%BC%9F%E9%9C%86%E4%BA%B2%E5%88%B0%E8%80%B3%E6%9C%B5%E7%BA%A2%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
