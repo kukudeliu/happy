@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 12:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 12:06:01</h4></div>
 
 > 微博  
 
 1. [武汉迪士尼](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E8%BF%AA%E5%A3%AB%E5%B0%BC%23&t=31&band_rank=1&Refer=top)<br />
 2. [爸爸到上海出差把女儿冰箱塞满](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E5%88%B0%E4%B8%8A%E6%B5%B7%E5%87%BA%E5%B7%AE%E6%8A%8A%E5%A5%B3%E5%84%BF%E5%86%B0%E7%AE%B1%E5%A1%9E%E6%BB%A1%23&t=31&band_rank=2&Refer=top)<br />
 3. [祝福2023高考生](https://s.weibo.com/weibo?q=%23%E7%A5%9D%E7%A6%8F2023%E9%AB%98%E8%80%83%E7%94%9F%23&t=31&band_rank=3&Refer=top)<br />
-4. [半藏森林克隆人一年收入可高达72万](https://s.weibo.com/weibo?q=%23%E5%8D%8A%E8%97%8F%E6%A3%AE%E6%9E%97%E5%85%8B%E9%9A%86%E4%BA%BA%E4%B8%80%E5%B9%B4%E6%94%B6%E5%85%A5%E5%8F%AF%E9%AB%98%E8%BE%BE72%E4%B8%87%23&t=31&band_rank=4&Refer=top)<br />
-5. [陈采尼 抄](https://s.weibo.com/weibo?q=%E9%99%88%E9%87%87%E5%B0%BC%20%E6%8A%84&t=31&band_rank=5&Refer=top)<br />
+4. [陈采尼 抄](https://s.weibo.com/weibo?q=%E9%99%88%E9%87%87%E5%B0%BC%20%E6%8A%84&t=31&band_rank=4&Refer=top)<br />
+5. [半藏森林克隆人一年收入可高达72万](https://s.weibo.com/weibo?q=%23%E5%8D%8A%E8%97%8F%E6%A3%AE%E6%9E%97%E5%85%8B%E9%9A%86%E4%BA%BA%E4%B8%80%E5%B9%B4%E6%94%B6%E5%85%A5%E5%8F%AF%E9%AB%98%E8%BE%BE72%E4%B8%87%23&t=31&band_rank=5&Refer=top)<br />
 6. [千万不要长期喝热咖啡](https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E9%95%BF%E6%9C%9F%E5%96%9D%E7%83%AD%E5%92%96%E5%95%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [迪丽热巴是祝绪丹最爱的女人](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%98%AF%E7%A5%9D%E7%BB%AA%E4%B8%B9%E6%9C%80%E7%88%B1%E7%9A%84%E5%A5%B3%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [Angelababy回归 跑男收视率](https://s.weibo.com/weibo?q=Angelababy%E5%9B%9E%E5%BD%92%20%E8%B7%91%E7%94%B7%E6%94%B6%E8%A7%86%E7%8E%87&t=31&band_rank=8&Refer=top)<br />
