@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 05:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 05:05:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [黄渤回应贫困女孩争议](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%B8%A4%E5%9B%9E%E5%BA%94%E8%B4%AB%E5%9B%B0%E5%A5%B3%E5%AD%A9%E4%BA%89%E8%AE%AE%23&t=31&band_rank=6&Refer=top)<br />
 7. [东部战区就美加军舰过航台湾海峡发表谈话](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E5%B0%B1%E7%BE%8E%E5%8A%A0%E5%86%9B%E8%88%B0%E8%BF%87%E8%88%AA%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1%E5%8F%91%E8%A1%A8%E8%B0%88%E8%AF%9D%23&t=31&band_rank=7&Refer=top)<br />
 8. [一人说一个奇怪的生理反应](https://s.weibo.com/weibo?q=%E4%B8%80%E4%BA%BA%E8%AF%B4%E4%B8%80%E4%B8%AA%E5%A5%87%E6%80%AA%E7%9A%84%E7%94%9F%E7%90%86%E5%8F%8D%E5%BA%94&t=31&band_rank=8&Refer=top)<br />
-9. [陈伟霆亲到耳朵红了](https://s.weibo.com/weibo?q=%23%E9%99%88%E4%BC%9F%E9%9C%86%E4%BA%B2%E5%88%B0%E8%80%B3%E6%9C%B5%E7%BA%A2%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [Meiko 暂停](https://s.weibo.com/weibo?q=Meiko%20%E6%9A%82%E5%81%9C&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
