@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 11:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 11:33:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [知情人辟谣被撞小学生父亲坠楼](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%E8%BE%9F%E8%B0%A3%E8%A2%AB%E6%92%9E%E5%B0%8F%E5%AD%A6%E7%94%9F%E7%88%B6%E4%BA%B2%E5%9D%A0%E6%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [校内被撞身亡小学生母亲坠楼身亡](https://www.baidu.com/s?wd=%E6%A0%A1%E5%86%85%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%AF%8D%E4%BA%B2%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [媒体：半藏森林克隆人年入可达72万](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E5%8D%8A%E8%97%8F%E6%A3%AE%E6%9E%97%E5%85%8B%E9%9A%86%E4%BA%BA%E5%B9%B4%E5%85%A5%E5%8F%AF%E8%BE%BE72%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [刘畊宏20秒短视频要价60万](https://www.baidu.com/s?wd=%E5%88%98%E7%95%8A%E5%AE%8F20%E7%A7%92%E7%9F%AD%E8%A7%86%E9%A2%91%E8%A6%81%E4%BB%B760%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [宿舍厕所自带“粪围灯”](https://www.baidu.com/s?wd=%E5%AE%BF%E8%88%8D%E5%8E%95%E6%89%80%E8%87%AA%E5%B8%A6%E2%80%9C%E7%B2%AA%E5%9B%B4%E7%81%AF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [知情人辟谣被撞小学生父亲坠楼](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%E8%BE%9F%E8%B0%A3%E8%A2%AB%E6%92%9E%E5%B0%8F%E5%AD%A6%E7%94%9F%E7%88%B6%E4%BA%B2%E5%9D%A0%E6%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [校内被撞身亡小学生母亲坠楼身亡](https://www.baidu.com/s?wd=%E6%A0%A1%E5%86%85%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%AF%8D%E4%BA%B2%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [媒体：半藏森林克隆人年入可达72万](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E5%8D%8A%E8%97%8F%E6%A3%AE%E6%9E%97%E5%85%8B%E9%9A%86%E4%BA%BA%E5%B9%B4%E5%85%A5%E5%8F%AF%E8%BE%BE72%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [刘畊宏20秒短视频要价60万](https://www.baidu.com/s?wd=%E5%88%98%E7%95%8A%E5%AE%8F20%E7%A7%92%E7%9F%AD%E8%A7%86%E9%A2%91%E8%A6%81%E4%BB%B760%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [宿舍厕所自带“粪围灯”](https://www.baidu.com/s?wd=%E5%AE%BF%E8%88%8D%E5%8E%95%E6%89%80%E8%87%AA%E5%B8%A6%E2%80%9C%E7%B2%AA%E5%9B%B4%E7%81%AF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
