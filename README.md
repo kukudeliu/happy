@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 17:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 17:57:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [徐开骋被AI换脸](https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%BC%80%E9%AA%8B%E8%A2%ABAI%E6%8D%A2%E8%84%B8%23&t=31&band_rank=4&Refer=top)<br />
 5. [高三学生写永久请假条告别班主任](https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%B8%89%E5%AD%A6%E7%94%9F%E5%86%99%E6%B0%B8%E4%B9%85%E8%AF%B7%E5%81%87%E6%9D%A1%E5%91%8A%E5%88%AB%E7%8F%AD%E4%B8%BB%E4%BB%BB%23&t=31&band_rank=5&Refer=top)<br />
 6. [赵露思是曾黎的人形挂件吧](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%98%AF%E6%9B%BE%E9%BB%8E%E7%9A%84%E4%BA%BA%E5%BD%A2%E6%8C%82%E4%BB%B6%E5%90%A7%23&t=31&band_rank=6&Refer=top)<br />
-7. [黄觉牵张艺凡](https://s.weibo.com/weibo?q=%23%E9%BB%84%E8%A7%89%E7%89%B5%E5%BC%A0%E8%89%BA%E5%87%A1%23&t=31&band_rank=7&Refer=top)<br />
-8. [4篇论文现同一划痕钢尺遭撤稿](https://s.weibo.com/weibo?q=%234%E7%AF%87%E8%AE%BA%E6%96%87%E7%8E%B0%E5%90%8C%E4%B8%80%E5%88%92%E7%97%95%E9%92%A2%E5%B0%BA%E9%81%AD%E6%92%A4%E7%A8%BF%23&t=31&band_rank=8&Refer=top)<br />
-9. [女孩不舍得父母买钢琴进门瞬间喜极而泣](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E4%B8%8D%E8%88%8D%E5%BE%97%E7%88%B6%E6%AF%8D%E4%B9%B0%E9%92%A2%E7%90%B4%E8%BF%9B%E9%97%A8%E7%9E%AC%E9%97%B4%E5%96%9C%E6%9E%81%E8%80%8C%E6%B3%A3%23&t=31&band_rank=9&Refer=top)<br />
+7. [女孩不舍得父母买钢琴进门瞬间喜极而泣](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E4%B8%8D%E8%88%8D%E5%BE%97%E7%88%B6%E6%AF%8D%E4%B9%B0%E9%92%A2%E7%90%B4%E8%BF%9B%E9%97%A8%E7%9E%AC%E9%97%B4%E5%96%9C%E6%9E%81%E8%80%8C%E6%B3%A3%23&t=31&band_rank=7&Refer=top)<br />
+8. [黄觉牵张艺凡](https://s.weibo.com/weibo?q=%23%E9%BB%84%E8%A7%89%E7%89%B5%E5%BC%A0%E8%89%BA%E5%87%A1%23&t=31&band_rank=8&Refer=top)<br />
+9. [4篇论文现同一划痕钢尺遭撤稿](https://s.weibo.com/weibo?q=%234%E7%AF%87%E8%AE%BA%E6%96%87%E7%8E%B0%E5%90%8C%E4%B8%80%E5%88%92%E7%97%95%E9%92%A2%E5%B0%BA%E9%81%AD%E6%92%A4%E7%A8%BF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
