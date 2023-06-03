@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 14:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 14:48:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [印度火车相撞已致288人死亡](https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E7%81%AB%E8%BD%A6%E7%9B%B8%E6%92%9E%E5%B7%B2%E8%87%B4288%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [4篇论文现同一划痕钢尺遭撤稿](https://s.weibo.com/weibo?q=%234%E7%AF%87%E8%AE%BA%E6%96%87%E7%8E%B0%E5%90%8C%E4%B8%80%E5%88%92%E7%97%95%E9%92%A2%E5%B0%BA%E9%81%AD%E6%92%A4%E7%A8%BF%23&t=31&band_rank=7&Refer=top)<br />
 8. [黄磊 有的满意有的都不敢聊](https://s.weibo.com/weibo?q=%E9%BB%84%E7%A3%8A%20%E6%9C%89%E7%9A%84%E6%BB%A1%E6%84%8F%E6%9C%89%E7%9A%84%E9%83%BD%E4%B8%8D%E6%95%A2%E8%81%8A&t=31&band_rank=8&Refer=top)<br />
-9. [EXO是真的勇](https://s.weibo.com/weibo?q=%23EXO%E6%98%AF%E7%9C%9F%E7%9A%84%E5%8B%87%23&t=31&band_rank=9&Refer=top)<br />
+9. [刘雅瑟多穿裙子吧](https://s.weibo.com/weibo?q=%23%E5%88%98%E9%9B%85%E7%91%9F%E5%A4%9A%E7%A9%BF%E8%A3%99%E5%AD%90%E5%90%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
