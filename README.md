@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 19:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 19:58:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [吴倩说女儿和自己长得一模一样](https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%80%A9%E8%AF%B4%E5%A5%B3%E5%84%BF%E5%92%8C%E8%87%AA%E5%B7%B1%E9%95%BF%E5%BE%97%E4%B8%80%E6%A8%A1%E4%B8%80%E6%A0%B7%23&t=31&band_rank=6&Refer=top)<br />
 7. [女儿在爸爸朋友圈发长文拜托别劝酒](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E5%9C%A8%E7%88%B8%E7%88%B8%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%8F%91%E9%95%BF%E6%96%87%E6%8B%9C%E6%89%98%E5%88%AB%E5%8A%9D%E9%85%92%23&t=31&band_rank=7&Refer=top)<br />
 8. [陈伟霆章若楠真的没在谈吗](https://s.weibo.com/weibo?q=%23%E9%99%88%E4%BC%9F%E9%9C%86%E7%AB%A0%E8%8B%A5%E6%A5%A0%E7%9C%9F%E7%9A%84%E6%B2%A1%E5%9C%A8%E8%B0%88%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [赵露思是曾黎的人形挂件吧](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%98%AF%E6%9B%BE%E9%BB%8E%E7%9A%84%E4%BA%BA%E5%BD%A2%E6%8C%82%E4%BB%B6%E5%90%A7%23&t=31&band_rank=9&Refer=top)<br />
+9. [四川一男子当街持刀捅伤女子后自杀](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E4%B8%80%E7%94%B7%E5%AD%90%E5%BD%93%E8%A1%97%E6%8C%81%E5%88%80%E6%8D%85%E4%BC%A4%E5%A5%B3%E5%AD%90%E5%90%8E%E8%87%AA%E6%9D%80%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
