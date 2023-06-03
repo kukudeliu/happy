@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 00:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 00:33:01</h4></div>
 
 > 微博  
 
-1. [梅西自宣离队](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%87%AA%E5%AE%A3%E7%A6%BB%E9%98%9F%23&t=31&band_rank=1&Refer=top)<br />
-2. [黄渤回应贫困女孩争议](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%B8%A4%E5%9B%9E%E5%BA%94%E8%B4%AB%E5%9B%B0%E5%A5%B3%E5%AD%A9%E4%BA%89%E8%AE%AE%23&t=31&band_rank=2&Refer=top)<br />
+1. [黄渤回应贫困女孩争议](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%B8%A4%E5%9B%9E%E5%BA%94%E8%B4%AB%E5%9B%B0%E5%A5%B3%E5%AD%A9%E4%BA%89%E8%AE%AE%23&t=31&band_rank=1&Refer=top)<br />
+2. [梅西自宣离队](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%87%AA%E5%AE%A3%E7%A6%BB%E9%98%9F%23&t=31&band_rank=2&Refer=top)<br />
 3. [首艘国产大型邮轮先睹为快](https://s.weibo.com/weibo?q=%23%E9%A6%96%E8%89%98%E5%9B%BD%E4%BA%A7%E5%A4%A7%E5%9E%8B%E9%82%AE%E8%BD%AE%E5%85%88%E7%9D%B9%E4%B8%BA%E5%BF%AB%23&t=31&band_rank=3&Refer=top)<br />
 4. [成都七中一学生被开除](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E4%B8%83%E4%B8%AD%E4%B8%80%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%BC%80%E9%99%A4%23&t=31&band_rank=4&Refer=top)<br />
 5. [原配抓小三路人帮腔大骂男方不要脸](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E9%85%8D%E6%8A%93%E5%B0%8F%E4%B8%89%E8%B7%AF%E4%BA%BA%E5%B8%AE%E8%85%94%E5%A4%A7%E9%AA%82%E7%94%B7%E6%96%B9%E4%B8%8D%E8%A6%81%E8%84%B8%23&t=31&band_rank=5&Refer=top)<br />
