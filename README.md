@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 14:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 14:29:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [空调一开一关费电，还是一直开着费电？](https://www.zhihu.com/question/285831334)<br />
 7. [如何评价《崩坏：星穹铁道》银狼角色 PV：「有点意思」？](https://www.zhihu.com/question/604408377)<br />
 8. []()<br />
-9. [作为西北地区，为什么今年陕西降雨开启「超长待机」模式？](https://www.zhihu.com/question/604228404)<br />
+9. [当职场沟通不带「呀、哈~」等词会怎样？「文字讨好症」是社交礼仪还是社交内耗？](https://www.zhihu.com/question/603825519)<br />
 
 > 百度  
 
@@ -33,8 +33,8 @@
 5. [印度列车相撞事故已致288死900伤](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E5%88%97%E8%BD%A6%E7%9B%B8%E6%92%9E%E4%BA%8B%E6%95%85%E5%B7%B2%E8%87%B4288%E6%AD%BB900%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子云南穿破洞裤7小时腿被晒伤](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%BA%91%E5%8D%97%E7%A9%BF%E7%A0%B4%E6%B4%9E%E8%A3%A47%E5%B0%8F%E6%97%B6%E8%85%BF%E8%A2%AB%E6%99%92%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [杭州部分小区房价跌回2017年](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E9%83%A8%E5%88%86%E5%B0%8F%E5%8C%BA%E6%88%BF%E4%BB%B7%E8%B7%8C%E5%9B%9E2017%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [于大宝被推倒后出现短暂失忆](https://www.baidu.com/s?wd=%E4%BA%8E%E5%A4%A7%E5%AE%9D%E8%A2%AB%E6%8E%A8%E5%80%92%E5%90%8E%E5%87%BA%E7%8E%B0%E7%9F%AD%E6%9A%82%E5%A4%B1%E5%BF%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [宿舍厕所自带“粪围灯”](https://www.baidu.com/s?wd=%E5%AE%BF%E8%88%8D%E5%8E%95%E6%89%80%E8%87%AA%E5%B8%A6%E2%80%9C%E7%B2%AA%E5%9B%B4%E7%81%AF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [宿舍厕所自带“粪围灯”](https://www.baidu.com/s?wd=%E5%AE%BF%E8%88%8D%E5%8E%95%E6%89%80%E8%87%AA%E5%B8%A6%E2%80%9C%E7%B2%AA%E5%9B%B4%E7%81%AF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [8岁男孩摆摊1小时赚584元](https://www.baidu.com/s?wd=8%E5%B2%81%E7%94%B7%E5%AD%A9%E6%91%86%E6%91%8A1%E5%B0%8F%E6%97%B6%E8%B5%9A584%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [印度列车相撞事故已致288死900伤](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E5%88%97%E8%BD%A6%E7%9B%B8%E6%92%9E%E4%BA%8B%E6%95%85%E5%B7%B2%E8%87%B4288%E6%AD%BB900%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子云南穿破洞裤7小时腿被晒伤](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%BA%91%E5%8D%97%E7%A9%BF%E7%A0%B4%E6%B4%9E%E8%A3%A47%E5%B0%8F%E6%97%B6%E8%85%BF%E8%A2%AB%E6%99%92%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [杭州部分小区房价跌回2017年](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E9%83%A8%E5%88%86%E5%B0%8F%E5%8C%BA%E6%88%BF%E4%BB%B7%E8%B7%8C%E5%9B%9E2017%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [于大宝被推倒后出现短暂失忆](https://www.baidu.com/s?wd=%E4%BA%8E%E5%A4%A7%E5%AE%9D%E8%A2%AB%E6%8E%A8%E5%80%92%E5%90%8E%E5%87%BA%E7%8E%B0%E7%9F%AD%E6%9A%82%E5%A4%B1%E5%BF%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [宿舍厕所自带“粪围灯”](https://www.baidu.com/s?wd=%E5%AE%BF%E8%88%8D%E5%8E%95%E6%89%80%E8%87%AA%E5%B8%A6%E2%80%9C%E7%B2%AA%E5%9B%B4%E7%81%AF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [宿舍厕所自带“粪围灯”](https://www.baidu.com/s?wd=%E5%AE%BF%E8%88%8D%E5%8E%95%E6%89%80%E8%87%AA%E5%B8%A6%E2%80%9C%E7%B2%AA%E5%9B%B4%E7%81%AF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [8岁男孩摆摊1小时赚584元](https://www.baidu.com/s?wd=8%E5%B2%81%E7%94%B7%E5%AD%A9%E6%91%86%E6%91%8A1%E5%B0%8F%E6%97%B6%E8%B5%9A584%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
