@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 23:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 23:44:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [成都七中一学生被开除](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E4%B8%83%E4%B8%AD%E4%B8%80%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%BC%80%E9%99%A4%23&t=31&band_rank=5&Refer=top)<br />
 6. [原配抓小三路人帮腔大骂男方不要脸](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E9%85%8D%E6%8A%93%E5%B0%8F%E4%B8%89%E8%B7%AF%E4%BA%BA%E5%B8%AE%E8%85%94%E5%A4%A7%E9%AA%82%E7%94%B7%E6%96%B9%E4%B8%8D%E8%A6%81%E8%84%B8%23&t=31&band_rank=6&Refer=top)<br />
 7. [女孩父母回应网传黄渤放弃资助](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E7%88%B6%E6%AF%8D%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E9%BB%84%E6%B8%A4%E6%94%BE%E5%BC%83%E8%B5%84%E5%8A%A9%23&t=31&band_rank=7&Refer=top)<br />
-8. [张艺兴 买票请认准官方票务平台](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%89%BA%E5%85%B4%20%E4%B9%B0%E7%A5%A8%E8%AF%B7%E8%AE%A4%E5%87%86%E5%AE%98%E6%96%B9%E7%A5%A8%E5%8A%A1%E5%B9%B3%E5%8F%B0&t=31&band_rank=8&Refer=top)<br />
-9. [陈伟霆亲到耳朵红了](https://s.weibo.com/weibo?q=%23%E9%99%88%E4%BC%9F%E9%9C%86%E4%BA%B2%E5%88%B0%E8%80%B3%E6%9C%B5%E7%BA%A2%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+8. [陈伟霆亲到耳朵红了](https://s.weibo.com/weibo?q=%23%E9%99%88%E4%BC%9F%E9%9C%86%E4%BA%B2%E5%88%B0%E8%80%B3%E6%9C%B5%E7%BA%A2%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [张艺兴 买票请认准官方票务平台](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%89%BA%E5%85%B4%20%E4%B9%B0%E7%A5%A8%E8%AF%B7%E8%AE%A4%E5%87%86%E5%AE%98%E6%96%B9%E7%A5%A8%E5%8A%A1%E5%B9%B3%E5%8F%B0&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -34,7 +34,7 @@
 6. [俄罗斯多地遭攻击 24小时内上百次](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E5%A4%9A%E5%9C%B0%E9%81%AD%E6%94%BB%E5%87%BB+24%E5%B0%8F%E6%97%B6%E5%86%85%E4%B8%8A%E7%99%BE%E6%AC%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [五月天演唱会华晨宇冷场](https://www.baidu.com/s?wd=%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8D%8E%E6%99%A8%E5%AE%87%E5%86%B7%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [“多巴胺”穿搭真会让人快乐吗？](https://www.baidu.com/s?wd=%E2%80%9C%E5%A4%9A%E5%B7%B4%E8%83%BA%E2%80%9D%E7%A9%BF%E6%90%AD%E7%9C%9F%E4%BC%9A%E8%AE%A9%E4%BA%BA%E5%BF%AB%E4%B9%90%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [赵丽颖街边哄儿子被拍](https://www.baidu.com/s?wd=%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%A1%97%E8%BE%B9%E5%93%84%E5%84%BF%E5%AD%90%E8%A2%AB%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [印度列车相撞事故已致死伤超千人](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E5%88%97%E8%BD%A6%E7%9B%B8%E6%92%9E%E4%BA%8B%E6%95%85%E5%B7%B2%E8%87%B4%E6%AD%BB%E4%BC%A4%E8%B6%85%E5%8D%83%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [俄罗斯多地遭攻击 24小时内上百次](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E5%A4%9A%E5%9C%B0%E9%81%AD%E6%94%BB%E5%87%BB+24%E5%B0%8F%E6%97%B6%E5%86%85%E4%B8%8A%E7%99%BE%E6%AC%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [五月天演唱会华晨宇冷场](https://www.baidu.com/s?wd=%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8D%8E%E6%99%A8%E5%AE%87%E5%86%B7%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [“多巴胺”穿搭真会让人快乐吗？](https://www.baidu.com/s?wd=%E2%80%9C%E5%A4%9A%E5%B7%B4%E8%83%BA%E2%80%9D%E7%A9%BF%E6%90%AD%E7%9C%9F%E4%BC%9A%E8%AE%A9%E4%BA%BA%E5%BF%AB%E4%B9%90%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [赵丽颖街边哄儿子被拍](https://www.baidu.com/s?wd=%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%A1%97%E8%BE%B9%E5%93%84%E5%84%BF%E5%AD%90%E8%A2%AB%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [印度列车相撞事故已致死伤超千人](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E5%88%97%E8%BD%A6%E7%9B%B8%E6%92%9E%E4%BA%8B%E6%95%85%E5%B7%B2%E8%87%B4%E6%AD%BB%E4%BC%A4%E8%B6%85%E5%8D%83%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
