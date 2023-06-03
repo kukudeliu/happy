@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 08:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 08:40:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [Steam 上有哪些必买游戏？](https://www.zhihu.com/question/35296900)<br />
 5. [为什么让狗狗做的坏事被主人发现后，它就会开始发抖？真的是害怕和愧疚吗？](https://www.zhihu.com/question/602543843)<br />
 6. [你觉得大学不谈恋爱会有遗憾吗？](https://www.zhihu.com/question/604254909)<br />
-7. [销售端一个西瓜超百元，供应商称 7 - 9 月价格也不会下降，西瓜涨价原因有哪些？](https://www.zhihu.com/question/604403671)<br />
-8. []()<br />
-9. [为什么说不懂电脑的不要碰 AMD？](https://www.zhihu.com/question/337065369)<br />
+7. []()<br />
+8. [为什么说不懂电脑的不要碰 AMD？](https://www.zhihu.com/question/337065369)<br />
+9. [销售端一个西瓜超百元，供应商称 7 - 9 月价格也不会下降，西瓜涨价原因有哪些？](https://www.zhihu.com/question/604403671)<br />
 
 > 百度  
 
