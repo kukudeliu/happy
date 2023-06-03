@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 15:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 15:17:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [空调一开一关费电，还是一直开着费电？](https://www.zhihu.com/question/285831334)<br />
 7. []()<br />
 8. [如何评价《崩坏：星穹铁道》银狼角色 PV：「有点意思」？](https://www.zhihu.com/question/604408377)<br />
-9. [现在的网文市场不适合性格内向的作者吗？](https://www.zhihu.com/question/505310524)<br />
+9. [当职场沟通不带「呀、哈~」等词会怎样？「文字讨好症」是社交礼仪还是社交内耗？](https://www.zhihu.com/question/603825519)<br />
 
 > 百度  
 
