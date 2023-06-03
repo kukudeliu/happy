@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 01:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 01:17:01</h4></div>
 
 > 微博  
 
@@ -21,7 +21,7 @@
 5. [郭帆导演凭什么能「化缘」成功？](https://www.zhihu.com/question/581527683)<br />
 6. [英格兰足总杯决赛，曼城 2:1 曼联斩赛季第二冠，京多安梅开二度，B 费点球破门，如何评价本场比赛？](https://www.zhihu.com/question/604629595)<br />
 7. [《西游记》中的世界地图是什么样的？](https://www.zhihu.com/question/37555090)<br />
-8. [2023 LPL 夏季赛 TES 2:1 EDG，如何评价这场比赛？](https://www.zhihu.com/question/604601328)<br />
+8. []()<br />
 9. []()<br />
 
 > 百度  
