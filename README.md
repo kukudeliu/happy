@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 08:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 08:49:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [你觉得大学不谈恋爱会有遗憾吗？](https://www.zhihu.com/question/604254909)<br />
 7. []()<br />
 8. [为什么让狗狗做的坏事被主人发现后，它就会开始发抖？真的是害怕和愧疚吗？](https://www.zhihu.com/question/602543843)<br />
-9. [为什么说不懂电脑的不要碰 AMD？](https://www.zhihu.com/question/337065369)<br />
+9. [如何看待谢娜获得《乘风 2023》二公第一名？](https://www.zhihu.com/question/604406455)<br />
 
 > 百度  
 
@@ -34,7 +34,7 @@
 6. [多个账号网暴被撞小学生母亲被封](https://www.baidu.com/s?wd=%E5%A4%9A%E4%B8%AA%E8%B4%A6%E5%8F%B7%E7%BD%91%E6%9A%B4%E8%A2%AB%E6%92%9E%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%AF%8D%E4%BA%B2%E8%A2%AB%E5%B0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [校内被撞身亡小学生母亲坠楼身亡](https://www.baidu.com/s?wd=%E6%A0%A1%E5%86%85%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%AF%8D%E4%BA%B2%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [吴所谓得知吴京去开家长会的反应](https://www.baidu.com/s?wd=%E5%90%B4%E6%89%80%E8%B0%93%E5%BE%97%E7%9F%A5%E5%90%B4%E4%BA%AC%E5%8E%BB%E5%BC%80%E5%AE%B6%E9%95%BF%E4%BC%9A%E7%9A%84%E5%8F%8D%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [卖崽青蛙的崽被城管敲烂扔垃圾桶](https://www.baidu.com/s?wd=%E5%8D%96%E5%B4%BD%E9%9D%92%E8%9B%99%E7%9A%84%E5%B4%BD%E8%A2%AB%E5%9F%8E%E7%AE%A1%E6%95%B2%E7%83%82%E6%89%94%E5%9E%83%E5%9C%BE%E6%A1%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [谢娜二公第一](https://www.baidu.com/s?wd=%E8%B0%A2%E5%A8%9C%E4%BA%8C%E5%85%AC%E7%AC%AC%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [多个账号网暴被撞小学生母亲被封](https://www.baidu.com/s?wd=%E5%A4%9A%E4%B8%AA%E8%B4%A6%E5%8F%B7%E7%BD%91%E6%9A%B4%E8%A2%AB%E6%92%9E%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%AF%8D%E4%BA%B2%E8%A2%AB%E5%B0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [校内被撞身亡小学生母亲坠楼身亡](https://www.baidu.com/s?wd=%E6%A0%A1%E5%86%85%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%AF%8D%E4%BA%B2%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [吴所谓得知吴京去开家长会的反应](https://www.baidu.com/s?wd=%E5%90%B4%E6%89%80%E8%B0%93%E5%BE%97%E7%9F%A5%E5%90%B4%E4%BA%AC%E5%8E%BB%E5%BC%80%E5%AE%B6%E9%95%BF%E4%BC%9A%E7%9A%84%E5%8F%8D%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [卖崽青蛙的崽被城管敲烂扔垃圾桶](https://www.baidu.com/s?wd=%E5%8D%96%E5%B4%BD%E9%9D%92%E8%9B%99%E7%9A%84%E5%B4%BD%E8%A2%AB%E5%9F%8E%E7%AE%A1%E6%95%B2%E7%83%82%E6%89%94%E5%9E%83%E5%9C%BE%E6%A1%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [谢娜二公第一](https://www.baidu.com/s?wd=%E8%B0%A2%E5%A8%9C%E4%BA%8C%E5%85%AC%E7%AC%AC%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
