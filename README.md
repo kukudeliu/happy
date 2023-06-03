@@ -1,13 +1,13 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 13:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 13:23:01</h4></div>
 
 > 微博  
 
 1. [武汉迪士尼](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E8%BF%AA%E5%A3%AB%E5%B0%BC%23&t=31&band_rank=1&Refer=top)<br />
-2. [女儿在爸爸朋友圈发长文拜托别劝酒](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E5%9C%A8%E7%88%B8%E7%88%B8%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%8F%91%E9%95%BF%E6%96%87%E6%8B%9C%E6%89%98%E5%88%AB%E5%8A%9D%E9%85%92%23&t=31&band_rank=2&Refer=top)<br />
+2. [程潇跳一半骨折了](https://s.weibo.com/weibo?q=%23%E7%A8%8B%E6%BD%87%E8%B7%B3%E4%B8%80%E5%8D%8A%E9%AA%A8%E6%8A%98%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [祝福2023高考生](https://s.weibo.com/weibo?q=%23%E7%A5%9D%E7%A6%8F2023%E9%AB%98%E8%80%83%E7%94%9F%23&t=31&band_rank=3&Refer=top)<br />
-4. [程潇跳一半骨折了](https://s.weibo.com/weibo?q=%23%E7%A8%8B%E6%BD%87%E8%B7%B3%E4%B8%80%E5%8D%8A%E9%AA%A8%E6%8A%98%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
-5. [黄磊 有的满意有的都不敢聊](https://s.weibo.com/weibo?q=%E9%BB%84%E7%A3%8A%20%E6%9C%89%E7%9A%84%E6%BB%A1%E6%84%8F%E6%9C%89%E7%9A%84%E9%83%BD%E4%B8%8D%E6%95%A2%E8%81%8A&t=31&band_rank=5&Refer=top)<br />
-6. [朱珠问吴倩看过人生大事吗](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E7%8F%A0%E9%97%AE%E5%90%B4%E5%80%A9%E7%9C%8B%E8%BF%87%E4%BA%BA%E7%94%9F%E5%A4%A7%E4%BA%8B%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
+4. [女儿在爸爸朋友圈发长文拜托别劝酒](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E5%9C%A8%E7%88%B8%E7%88%B8%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%8F%91%E9%95%BF%E6%96%87%E6%8B%9C%E6%89%98%E5%88%AB%E5%8A%9D%E9%85%92%23&t=31&band_rank=4&Refer=top)<br />
+5. [朱珠问吴倩看过人生大事吗](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E7%8F%A0%E9%97%AE%E5%90%B4%E5%80%A9%E7%9C%8B%E8%BF%87%E4%BA%BA%E7%94%9F%E5%A4%A7%E4%BA%8B%E5%90%97%23&t=31&band_rank=5&Refer=top)<br />
+6. [黄磊 有的满意有的都不敢聊](https://s.weibo.com/weibo?q=%E9%BB%84%E7%A3%8A%20%E6%9C%89%E7%9A%84%E6%BB%A1%E6%84%8F%E6%9C%89%E7%9A%84%E9%83%BD%E4%B8%8D%E6%95%A2%E8%81%8A&t=31&band_rank=6&Refer=top)<br />
 7. [家属正在安排被撞小学生母亲后事](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E5%B1%9E%E6%AD%A3%E5%9C%A8%E5%AE%89%E6%8E%92%E8%A2%AB%E6%92%9E%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%AF%8D%E4%BA%B2%E5%90%8E%E4%BA%8B%23&t=31&band_rank=7&Refer=top)<br />
 8. [杨紫穿旗袍了](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E7%A9%BF%E6%97%97%E8%A2%8D%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [苹果80](https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C80&t=31&band_rank=9&Refer=top)<br />
@@ -21,8 +21,8 @@
 5. [上海迪士尼回应「迪士尼落子武汉」称是假新闻，具体情况如何？哪个城市有希望落户中国第三家迪士尼？](https://www.zhihu.com/question/604556644)<br />
 6. [作为西北地区，为什么今年陕西降雨开启「超长待机」模式？](https://www.zhihu.com/question/604228404)<br />
 7. [国常会表示要延续和优化新能源汽车车辆购置税减免政策，会对购车者、新能源车企有哪些影响？](https://www.zhihu.com/question/604552749)<br />
-8. [有没有东北人来描述一下酸菜馅的饺子好吃吗？](https://www.zhihu.com/question/604399515)<br />
-9. [目前推进的职教高考，在高考大环境中占比如何？会对竞争环境有哪些影响？](https://www.zhihu.com/question/604528355)<br />
+8. [目前推进的职教高考，在高考大环境中占比如何？会对竞争环境有哪些影响？](https://www.zhihu.com/question/604528355)<br />
+9. [空调一开一关费电，还是一直开着费电？](https://www.zhihu.com/question/285831334)<br />
 
 > 百度  
 
