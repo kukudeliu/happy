@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 22:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 22:06:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [瘦子真帅](https://s.weibo.com/weibo?q=%E7%98%A6%E5%AD%90%E7%9C%9F%E5%B8%85&t=31&band_rank=4&Refer=top)<br />
 5. [女孩父母回应网传黄渤放弃资助](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E7%88%B6%E6%AF%8D%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E9%BB%84%E6%B8%A4%E6%94%BE%E5%BC%83%E8%B5%84%E5%8A%A9%23&t=31&band_rank=5&Refer=top)<br />
 6. [华晨宇麦粒肿](https://s.weibo.com/weibo?q=%E5%8D%8E%E6%99%A8%E5%AE%87%E9%BA%A6%E7%B2%92%E8%82%BF&t=31&band_rank=6&Refer=top)<br />
-7. [曲婉婷被拍卖房产以219.9万成交](https://s.weibo.com/weibo?q=%23%E6%9B%B2%E5%A9%89%E5%A9%B7%E8%A2%AB%E6%8B%8D%E5%8D%96%E6%88%BF%E4%BA%A7%E4%BB%A5219.9%E4%B8%87%E6%88%90%E4%BA%A4%23&t=31&band_rank=7&Refer=top)<br />
-8. [高三学生写永久请假条告别班主任](https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%B8%89%E5%AD%A6%E7%94%9F%E5%86%99%E6%B0%B8%E4%B9%85%E8%AF%B7%E5%81%87%E6%9D%A1%E5%91%8A%E5%88%AB%E7%8F%AD%E4%B8%BB%E4%BB%BB%23&t=31&band_rank=8&Refer=top)<br />
+7. [高三学生写永久请假条告别班主任](https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%B8%89%E5%AD%A6%E7%94%9F%E5%86%99%E6%B0%B8%E4%B9%85%E8%AF%B7%E5%81%87%E6%9D%A1%E5%91%8A%E5%88%AB%E7%8F%AD%E4%B8%BB%E4%BB%BB%23&t=31&band_rank=7&Refer=top)<br />
+8. [曲婉婷被拍卖房产以219.9万成交](https://s.weibo.com/weibo?q=%23%E6%9B%B2%E5%A9%89%E5%A9%B7%E8%A2%AB%E6%8B%8D%E5%8D%96%E6%88%BF%E4%BA%A7%E4%BB%A5219.9%E4%B8%87%E6%88%90%E4%BA%A4%23&t=31&band_rank=8&Refer=top)<br />
 9. [小伙1.2万元拍下单颗荔枝送女友](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%991.2%E4%B8%87%E5%85%83%E6%8B%8D%E4%B8%8B%E5%8D%95%E9%A2%97%E8%8D%94%E6%9E%9D%E9%80%81%E5%A5%B3%E5%8F%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
