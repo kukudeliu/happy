@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 16:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 16:14:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [猫经常坐在院子中间，偶尔舔舔身上的毛，然后坐在那一个下午，它坐在那干什么？](https://www.zhihu.com/question/603451215)<br />
 6. [如果给岳飞安排的帝王是刘禅会怎么样？](https://www.zhihu.com/question/547840158)<br />
 7. [现在的网文市场不适合性格内向的作者吗？](https://www.zhihu.com/question/505310524)<br />
-8. [如何评价《崩坏：星穹铁道》银狼角色 PV：「有点意思」？](https://www.zhihu.com/question/604408377)<br />
-9. [看刘慈欣的小说可笑吗？](https://www.zhihu.com/question/601783884)<br />
+8. [看刘慈欣的小说可笑吗？](https://www.zhihu.com/question/601783884)<br />
+9. [如何评价《崩坏：星穹铁道》银狼角色 PV：「有点意思」？](https://www.zhihu.com/question/604408377)<br />
 
 > 百度  
 
