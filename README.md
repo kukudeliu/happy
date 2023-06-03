@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 23:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 23:17:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [印度发生列车相撞事故，已致超过 300 人死亡，1000 多人受伤，目前情况如何？事故原因可能是什么？](https://www.zhihu.com/question/604551488)<br />
 6. [学术圈有哪些造假被揭露之后颠覆了我们的认知？](https://www.zhihu.com/question/441393440)<br />
 7. [2023 LPL 夏季赛 RNG 0:2 LNG，如何评价这场比赛？](https://www.zhihu.com/question/604595425)<br />
-8. []()<br />
-9. [2023 LPL 夏季赛 TES 2:1 EDG，如何评价这场比赛？](https://www.zhihu.com/question/604601328)<br />
+8. [2023 LPL 夏季赛 TES 2:1 EDG，如何评价这场比赛？](https://www.zhihu.com/question/604601328)<br />
+9. []()<br />
 
 > 百度  
 
