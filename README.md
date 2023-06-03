@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 13:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 13:16:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [杨紫穿旗袍了](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E7%A9%BF%E6%97%97%E8%A2%8D%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [朱珠问吴倩看过人生大事吗](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E7%8F%A0%E9%97%AE%E5%90%B4%E5%80%A9%E7%9C%8B%E8%BF%87%E4%BA%BA%E7%94%9F%E5%A4%A7%E4%BA%8B%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
 8. [苹果80](https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C80&t=31&band_rank=8&Refer=top)<br />
-9. [陈采尼 抄](https://s.weibo.com/weibo?q=%E9%99%88%E9%87%87%E5%B0%BC%20%E6%8A%84&t=31&band_rank=9&Refer=top)<br />
+9. [家属正在安排被撞小学生母亲后事](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E5%B1%9E%E6%AD%A3%E5%9C%A8%E5%AE%89%E6%8E%92%E8%A2%AB%E6%92%9E%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%AF%8D%E4%BA%B2%E5%90%8E%E4%BA%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
