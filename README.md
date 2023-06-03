@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 10:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 10:40:02</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [2023 LPL 夏季赛 FPX 0:2 UP，如何评价这场比赛？](https://www.zhihu.com/question/604471476)<br />
 7. [大量运动之后是不是更容易生病？如何判断自己的运动量是否合适？](https://www.zhihu.com/question/600620004)<br />
 8. [做科研怎么知道自己是不是在闭门造车呢？](https://www.zhihu.com/question/497343251)<br />
-9. []()<br />
+9. [诸葛亮为什么会对张苞的死，痛心到吐血？](https://www.zhihu.com/question/602162906)<br />
 
 > 百度  
 
