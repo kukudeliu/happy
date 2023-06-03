@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 09:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 09:06:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [刘畊宏20秒短视频要价60万](https://s.weibo.com/weibo?q=%23%E5%88%98%E7%95%8A%E5%AE%8F20%E7%A7%92%E7%9F%AD%E8%A7%86%E9%A2%91%E8%A6%81%E4%BB%B760%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [警方回应校内被撞身亡小学生母亲坠亡](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E6%A0%A1%E5%86%85%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%AF%8D%E4%BA%B2%E5%9D%A0%E4%BA%A1%23&t=31&band_rank=7&Refer=top)<br />
 8. [Angelababy回归 跑男收视率](https://s.weibo.com/weibo?q=Angelababy%E5%9B%9E%E5%BD%92%20%E8%B7%91%E7%94%B7%E6%94%B6%E8%A7%86%E7%8E%87&t=31&band_rank=8&Refer=top)<br />
-9. [印度发生列车脱轨相撞事故](https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%8F%91%E7%94%9F%E5%88%97%E8%BD%A6%E8%84%B1%E8%BD%A8%E7%9B%B8%E6%92%9E%E4%BA%8B%E6%95%85%23&t=31&band_rank=9&Refer=top)<br />
+9. [爸爸到上海出差把女儿冰箱塞满](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E5%88%B0%E4%B8%8A%E6%B5%B7%E5%87%BA%E5%B7%AE%E6%8A%8A%E5%A5%B3%E5%84%BF%E5%86%B0%E7%AE%B1%E5%A1%9E%E6%BB%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
