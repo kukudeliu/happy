@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 23:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 23:22:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [学术圈有哪些造假被揭露之后颠覆了我们的认知？](https://www.zhihu.com/question/441393440)<br />
 7. [2023 LPL 夏季赛 RNG 0:2 LNG，如何评价这场比赛？](https://www.zhihu.com/question/604595425)<br />
 8. [2023 LPL 夏季赛 TES 2:1 EDG，如何评价这场比赛？](https://www.zhihu.com/question/604601328)<br />
-9. []()<br />
+9. [主动与中国防长握手后，美防长奥斯汀称「保持沟通渠道至关重要」，哪些信息值得关注？](https://www.zhihu.com/question/604590355)<br />
 
 > 百度  
 
