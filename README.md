@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 00:15:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 00:16:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [2023 LPL 夏季赛 TES 2:1 EDG，如何评价这场比赛？](https://www.zhihu.com/question/604601328)<br />
 7. [2023 LPL 夏季赛 RNG 0:2 LNG，如何评价这场比赛？](https://www.zhihu.com/question/604595425)<br />
 8. []()<br />
-9. [不吼不叫真的能培养出好孩子吗？](https://www.zhihu.com/question/590640899)<br />
+9. []()<br />
 
 > 百度  
 
