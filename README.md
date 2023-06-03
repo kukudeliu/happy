@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 12:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 12:46:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [陈采尼 抄](https://s.weibo.com/weibo?q=%E9%99%88%E9%87%87%E5%B0%BC%20%E6%8A%84&t=31&band_rank=5&Refer=top)<br />
 6. [苹果80](https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C80&t=31&band_rank=6&Refer=top)<br />
 7. [阿信是TFBOYS端水大师](https://s.weibo.com/weibo?q=%23%E9%98%BF%E4%BF%A1%E6%98%AFTFBOYS%E7%AB%AF%E6%B0%B4%E5%A4%A7%E5%B8%88%23&t=31&band_rank=7&Refer=top)<br />
-8. [爸爸到上海出差把女儿冰箱塞满](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E5%88%B0%E4%B8%8A%E6%B5%B7%E5%87%BA%E5%B7%AE%E6%8A%8A%E5%A5%B3%E5%84%BF%E5%86%B0%E7%AE%B1%E5%A1%9E%E6%BB%A1%23&t=31&band_rank=8&Refer=top)<br />
+8. [女儿在爸爸朋友圈发长文拜托别劝酒](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E5%9C%A8%E7%88%B8%E7%88%B8%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%8F%91%E9%95%BF%E6%96%87%E6%8B%9C%E6%89%98%E5%88%AB%E5%8A%9D%E9%85%92%23&t=31&band_rank=8&Refer=top)<br />
 9. [千万不要长期喝热咖啡](https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E9%95%BF%E6%9C%9F%E5%96%9D%E7%83%AD%E5%92%96%E5%95%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
