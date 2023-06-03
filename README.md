@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 22:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 22:23:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [巴黎圣日耳曼官方宣布 37 岁拉莫斯合同到期离队，两年出战 57 场，如何评价拉莫斯的职业生涯？](https://www.zhihu.com/question/604566341)<br />
 7. [从公路车运动到周末休闲方式，为什么「自行车骑行潮流」开始兴起？你是如何参与这项运动的？](https://www.zhihu.com/question/603622247)<br />
 8. [什么样的跑步鞋比较好？如何选购？](https://www.zhihu.com/question/19937281)<br />
-9. []()<br />
+9. [2023 LPL 夏季赛 RNG 0:2 LNG，如何评价这场比赛？](https://www.zhihu.com/question/604595425)<br />
 
 > 百度  
 
