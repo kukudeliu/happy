@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 19:18:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 19:19:01</h4></div>
 
 > 微博  
 
@@ -31,9 +31,9 @@
 3. [医院因夸大病情、强迫交易 15人被捕](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%9B%A0%E5%A4%B8%E5%A4%A7%E7%97%85%E6%83%85%E3%80%81%E5%BC%BA%E8%BF%AB%E4%BA%A4%E6%98%93+15%E4%BA%BA%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [三夏大规模小麦机收全面展开](https://www.baidu.com/s?wd=%E4%B8%89%E5%A4%8F%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%B0%8F%E9%BA%A6%E6%9C%BA%E6%94%B6%E5%85%A8%E9%9D%A2%E5%B1%95%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [山西恒山发生火灾](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E6%81%92%E5%B1%B1%E5%8F%91%E7%94%9F%E7%81%AB%E7%81%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [小学发的美术本上印有涉黄二维码](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E5%8F%91%E7%9A%84%E7%BE%8E%E6%9C%AF%E6%9C%AC%E4%B8%8A%E5%8D%B0%E6%9C%89%E6%B6%89%E9%BB%84%E4%BA%8C%E7%BB%B4%E7%A0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子云南穿破洞裤7小时腿被晒伤](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%BA%91%E5%8D%97%E7%A9%BF%E7%A0%B4%E6%B4%9E%E8%A3%A47%E5%B0%8F%E6%97%B6%E8%85%BF%E8%A2%AB%E6%99%92%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [交警实测SUV盲区能藏75个孩子](https://www.baidu.com/s?wd=%E4%BA%A4%E8%AD%A6%E5%AE%9E%E6%B5%8BSUV%E7%9B%B2%E5%8C%BA%E8%83%BD%E8%97%8F75%E4%B8%AA%E5%AD%A9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [阿根廷中国行票价被指球票刺客](https://www.baidu.com/s?wd=%E9%98%BF%E6%A0%B9%E5%BB%B7%E4%B8%AD%E5%9B%BD%E8%A1%8C%E7%A5%A8%E4%BB%B7%E8%A2%AB%E6%8C%87%E7%90%83%E7%A5%A8%E5%88%BA%E5%AE%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [小学发的美术本上印有涉黄二维码](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E5%8F%91%E7%9A%84%E7%BE%8E%E6%9C%AF%E6%9C%AC%E4%B8%8A%E5%8D%B0%E6%9C%89%E6%B6%89%E9%BB%84%E4%BA%8C%E7%BB%B4%E7%A0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子云南穿破洞裤7小时腿被晒伤](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%BA%91%E5%8D%97%E7%A9%BF%E7%A0%B4%E6%B4%9E%E8%A3%A47%E5%B0%8F%E6%97%B6%E8%85%BF%E8%A2%AB%E6%99%92%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [刘畊宏20秒短视频要价60万](https://www.baidu.com/s?wd=%E5%88%98%E7%95%8A%E5%AE%8F20%E7%A7%92%E7%9F%AD%E8%A7%86%E9%A2%91%E8%A6%81%E4%BB%B760%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -43,7 +43,7 @@
 3. [医院因夸大病情、强迫交易 15人被捕](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%9B%A0%E5%A4%B8%E5%A4%A7%E7%97%85%E6%83%85%E3%80%81%E5%BC%BA%E8%BF%AB%E4%BA%A4%E6%98%93+15%E4%BA%BA%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [三夏大规模小麦机收全面展开](https://www.baidu.com/s?wd=%E4%B8%89%E5%A4%8F%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%B0%8F%E9%BA%A6%E6%9C%BA%E6%94%B6%E5%85%A8%E9%9D%A2%E5%B1%95%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [山西恒山发生火灾](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E6%81%92%E5%B1%B1%E5%8F%91%E7%94%9F%E7%81%AB%E7%81%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [小学发的美术本上印有涉黄二维码](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E5%8F%91%E7%9A%84%E7%BE%8E%E6%9C%AF%E6%9C%AC%E4%B8%8A%E5%8D%B0%E6%9C%89%E6%B6%89%E9%BB%84%E4%BA%8C%E7%BB%B4%E7%A0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子云南穿破洞裤7小时腿被晒伤](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%BA%91%E5%8D%97%E7%A9%BF%E7%A0%B4%E6%B4%9E%E8%A3%A47%E5%B0%8F%E6%97%B6%E8%85%BF%E8%A2%AB%E6%99%92%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [交警实测SUV盲区能藏75个孩子](https://www.baidu.com/s?wd=%E4%BA%A4%E8%AD%A6%E5%AE%9E%E6%B5%8BSUV%E7%9B%B2%E5%8C%BA%E8%83%BD%E8%97%8F75%E4%B8%AA%E5%AD%A9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [阿根廷中国行票价被指球票刺客](https://www.baidu.com/s?wd=%E9%98%BF%E6%A0%B9%E5%BB%B7%E4%B8%AD%E5%9B%BD%E8%A1%8C%E7%A5%A8%E4%BB%B7%E8%A2%AB%E6%8C%87%E7%90%83%E7%A5%A8%E5%88%BA%E5%AE%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [小学发的美术本上印有涉黄二维码](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E5%8F%91%E7%9A%84%E7%BE%8E%E6%9C%AF%E6%9C%AC%E4%B8%8A%E5%8D%B0%E6%9C%89%E6%B6%89%E9%BB%84%E4%BA%8C%E7%BB%B4%E7%A0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子云南穿破洞裤7小时腿被晒伤](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%BA%91%E5%8D%97%E7%A9%BF%E7%A0%B4%E6%B4%9E%E8%A3%A47%E5%B0%8F%E6%97%B6%E8%85%BF%E8%A2%AB%E6%99%92%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [刘畊宏20秒短视频要价60万](https://www.baidu.com/s?wd=%E5%88%98%E7%95%8A%E5%AE%8F20%E7%A7%92%E7%9F%AD%E8%A7%86%E9%A2%91%E8%A6%81%E4%BB%B760%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
