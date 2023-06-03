@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 17:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 17:38:02</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [马斯克之后，英伟达、摩根大通、星巴克、路威酩轩等公司 CEO 等外企高管再掀「来华潮」，释放哪些信号？](https://www.zhihu.com/question/604506301)<br />
 5. [朋友或情侣一起玩真人恐怖密室会有考验人性的情况发生吗？](https://www.zhihu.com/question/342169389)<br />
 6. [为什么《崩坏 3》里的角色到了《崩坏：星穹铁道》里就没有姓了？](https://www.zhihu.com/question/602795318)<br />
-7. [如何评价荣耀自研芯片？](https://www.zhihu.com/question/604270829)<br />
-8. [如果取消中国象棋里马绊腿的规则会怎样？](https://www.zhihu.com/question/604075483)<br />
-9. [空调一开一关费电，还是一直开着费电？](https://www.zhihu.com/question/285831334)<br />
+7. [如果取消中国象棋里马绊腿的规则会怎样？](https://www.zhihu.com/question/604075483)<br />
+8. [空调一开一关费电，还是一直开着费电？](https://www.zhihu.com/question/285831334)<br />
+9. [如何评价荣耀自研芯片？](https://www.zhihu.com/question/604270829)<br />
 
 > 百度  
 
