@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 15:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 15:49:02</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [黄觉牵张艺凡](https://s.weibo.com/weibo?q=%23%E9%BB%84%E8%A7%89%E7%89%B5%E5%BC%A0%E8%89%BA%E5%87%A1%23&t=31&band_rank=4&Refer=top)<br />
 5. [程潇跳一半骨折了](https://s.weibo.com/weibo?q=%23%E7%A8%8B%E6%BD%87%E8%B7%B3%E4%B8%80%E5%8D%8A%E9%AA%A8%E6%8A%98%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [朱珠问吴倩看过人生大事吗](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E7%8F%A0%E9%97%AE%E5%90%B4%E5%80%A9%E7%9C%8B%E8%BF%87%E4%BA%BA%E7%94%9F%E5%A4%A7%E4%BA%8B%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
-7. [张艺兴 抢票](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%89%BA%E5%85%B4%20%E6%8A%A2%E7%A5%A8&t=31&band_rank=7&Refer=top)<br />
-8. [徐开骋被AI换脸](https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%BC%80%E9%AA%8B%E8%A2%ABAI%E6%8D%A2%E8%84%B8%23&t=31&band_rank=8&Refer=top)<br />
+7. [徐开骋被AI换脸](https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%BC%80%E9%AA%8B%E8%A2%ABAI%E6%8D%A2%E8%84%B8%23&t=31&band_rank=7&Refer=top)<br />
+8. [张艺兴 抢票](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%89%BA%E5%85%B4%20%E6%8A%A2%E7%A5%A8&t=31&band_rank=8&Refer=top)<br />
 9. [4篇论文现同一划痕钢尺遭撤稿](https://s.weibo.com/weibo?q=%234%E7%AF%87%E8%AE%BA%E6%96%87%E7%8E%B0%E5%90%8C%E4%B8%80%E5%88%92%E7%97%95%E9%92%A2%E5%B0%BA%E9%81%AD%E6%92%A4%E7%A8%BF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
