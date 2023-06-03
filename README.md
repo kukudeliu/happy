@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 19:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 19:05:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [《崩坏：星穹铁道》会与国铁集团联动吗？](https://www.zhihu.com/question/604565928)<br />
 7. [考虑在北京买房的，都考虑哪里的房子？](https://www.zhihu.com/question/452857081)<br />
 8. [高考期间，孩子住校好还是住家好？](https://www.zhihu.com/question/603971061)<br />
-9. []()<br />
+9. [空调一开一关费电，还是一直开着费电？](https://www.zhihu.com/question/285831334)<br />
 
 > 百度  
 
