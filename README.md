@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 08:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 08:15:01</h4></div>
 
 > 微博  
 
@@ -27,7 +27,7 @@
 > 百度  
 
 1. [太空牧“码”人](https://www.baidu.com/s?wd=%E5%A4%AA%E7%A9%BA%E7%89%A7%E2%80%9C%E7%A0%81%E2%80%9D%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [印度列车相撞事故已致120死超800伤](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E5%88%97%E8%BD%A6%E7%9B%B8%E6%92%9E%E4%BA%8B%E6%95%85%E5%B7%B2%E8%87%B4120%E6%AD%BB%E8%B6%85800%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [印度列车相撞事故已致207死900伤](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E5%88%97%E8%BD%A6%E7%9B%B8%E6%92%9E%E4%BA%8B%E6%95%85%E5%B7%B2%E8%87%B4207%E6%AD%BB900%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [美防长跨越2座位主动与中国防长握手](https://www.baidu.com/s?wd=%E7%BE%8E%E9%98%B2%E9%95%BF%E8%B7%A8%E8%B6%8A2%E5%BA%A7%E4%BD%8D%E4%B8%BB%E5%8A%A8%E4%B8%8E%E4%B8%AD%E5%9B%BD%E9%98%B2%E9%95%BF%E6%8F%A1%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [高考前心理调适指南请查收](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E5%89%8D%E5%BF%83%E7%90%86%E8%B0%83%E9%80%82%E6%8C%87%E5%8D%97%E8%AF%B7%E6%9F%A5%E6%94%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [张雪峰公司将实行4天工作制](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%85%AC%E5%8F%B8%E5%B0%86%E5%AE%9E%E8%A1%8C4%E5%A4%A9%E5%B7%A5%E4%BD%9C%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -39,7 +39,7 @@
 > 哔哩哔哩  
 
 1. [太空牧“码”人](https://www.baidu.com/s?wd=%E5%A4%AA%E7%A9%BA%E7%89%A7%E2%80%9C%E7%A0%81%E2%80%9D%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [印度列车相撞事故已致120死超800伤](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E5%88%97%E8%BD%A6%E7%9B%B8%E6%92%9E%E4%BA%8B%E6%95%85%E5%B7%B2%E8%87%B4120%E6%AD%BB%E8%B6%85800%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [印度列车相撞事故已致207死900伤](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E5%88%97%E8%BD%A6%E7%9B%B8%E6%92%9E%E4%BA%8B%E6%95%85%E5%B7%B2%E8%87%B4207%E6%AD%BB900%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [美防长跨越2座位主动与中国防长握手](https://www.baidu.com/s?wd=%E7%BE%8E%E9%98%B2%E9%95%BF%E8%B7%A8%E8%B6%8A2%E5%BA%A7%E4%BD%8D%E4%B8%BB%E5%8A%A8%E4%B8%8E%E4%B8%AD%E5%9B%BD%E9%98%B2%E9%95%BF%E6%8F%A1%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [高考前心理调适指南请查收](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E5%89%8D%E5%BF%83%E7%90%86%E8%B0%83%E9%80%82%E6%8C%87%E5%8D%97%E8%AF%B7%E6%9F%A5%E6%94%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [张雪峰公司将实行4天工作制](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%85%AC%E5%8F%B8%E5%B0%86%E5%AE%9E%E8%A1%8C4%E5%A4%A9%E5%B7%A5%E4%BD%9C%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
