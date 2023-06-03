@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 16:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 16:53:01</h4></div>
 
 > 微博  
 
@@ -19,10 +19,10 @@
 3. [女朋友送的 switch 被亲戚要求送小孩我该怎么办？](https://www.zhihu.com/question/596647831)<br />
 4. [如果给岳飞安排的帝王是刘禅会怎么样？](https://www.zhihu.com/question/547840158)<br />
 5. [现在的网文市场不适合性格内向的作者吗？](https://www.zhihu.com/question/505310524)<br />
-6. [看刘慈欣的小说可笑吗？](https://www.zhihu.com/question/601783884)<br />
-7. [如果取消中国象棋里马绊腿的规则会怎样？](https://www.zhihu.com/question/604075483)<br />
+6. [如果取消中国象棋里马绊腿的规则会怎样？](https://www.zhihu.com/question/604075483)<br />
+7. [看刘慈欣的小说可笑吗？](https://www.zhihu.com/question/601783884)<br />
 8. [如何评价荣耀自研芯片？](https://www.zhihu.com/question/604270829)<br />
-9. [平心而论，《王国之泪》四贤者的人物设定是否远比《旷野之息》四英杰丰满？](https://www.zhihu.com/question/604201885)<br />
+9. [马斯克之后，英伟达、摩根大通、星巴克、路威酩轩等公司 CEO 等外企高管再掀「来华潮」，释放哪些信号？](https://www.zhihu.com/question/604506301)<br />
 
 > 百度  
 
