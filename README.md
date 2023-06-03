@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 14:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 14:26:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [黄磊 有的满意有的都不敢聊](https://s.weibo.com/weibo?q=%E9%BB%84%E7%A3%8A%20%E6%9C%89%E7%9A%84%E6%BB%A1%E6%84%8F%E6%9C%89%E7%9A%84%E9%83%BD%E4%B8%8D%E6%95%A2%E8%81%8A&t=31&band_rank=6&Refer=top)<br />
 7. [女儿在爸爸朋友圈发长文拜托别劝酒](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E5%9C%A8%E7%88%B8%E7%88%B8%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%8F%91%E9%95%BF%E6%96%87%E6%8B%9C%E6%89%98%E5%88%AB%E5%8A%9D%E9%85%92%23&t=31&band_rank=7&Refer=top)<br />
 8. [EXO是真的勇](https://s.weibo.com/weibo?q=%23EXO%E6%98%AF%E7%9C%9F%E7%9A%84%E5%8B%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [武汉迪士尼](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E8%BF%AA%E5%A3%AB%E5%B0%BC%23&t=31&band_rank=9&Refer=top)<br />
+9. [印度火车相撞已致288人死亡](https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E7%81%AB%E8%BD%A6%E7%9B%B8%E6%92%9E%E5%B7%B2%E8%87%B4288%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -19,8 +19,8 @@
 3. [报道称美军工厂 24 小时连轴转，每月造两万枚炮弹，美对乌军援总额已达 376 亿美元，这意味着什么？](https://www.zhihu.com/question/604500833)<br />
 4. [猫经常坐在院子中间，偶尔舔舔身上的毛，然后坐在那一个下午，它坐在那干什么？](https://www.zhihu.com/question/603451215)<br />
 5. [上海迪士尼回应「迪士尼落子武汉」称是假新闻，具体情况如何？哪个城市有希望落户中国第三家迪士尼？](https://www.zhihu.com/question/604556644)<br />
-6. [作为西北地区，为什么今年陕西降雨开启「超长待机」模式？](https://www.zhihu.com/question/604228404)<br />
-7. [空调一开一关费电，还是一直开着费电？](https://www.zhihu.com/question/285831334)<br />
+6. [空调一开一关费电，还是一直开着费电？](https://www.zhihu.com/question/285831334)<br />
+7. [作为西北地区，为什么今年陕西降雨开启「超长待机」模式？](https://www.zhihu.com/question/604228404)<br />
 8. [如何评价《崩坏：星穹铁道》银狼角色 PV：「有点意思」？](https://www.zhihu.com/question/604408377)<br />
 9. []()<br />
 
