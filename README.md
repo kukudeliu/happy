@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 15:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 15:32:01</h4></div>
 
 > 微博  
 
-1. [程潇跳一半骨折了](https://s.weibo.com/weibo?q=%23%E7%A8%8B%E6%BD%87%E8%B7%B3%E4%B8%80%E5%8D%8A%E9%AA%A8%E6%8A%98%E4%BA%86%23&t=31&band_rank=1&Refer=top)<br />
-2. [女儿在爸爸朋友圈发长文拜托别劝酒](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E5%9C%A8%E7%88%B8%E7%88%B8%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%8F%91%E9%95%BF%E6%96%87%E6%8B%9C%E6%89%98%E5%88%AB%E5%8A%9D%E9%85%92%23&t=31&band_rank=2&Refer=top)<br />
+1. [女儿在爸爸朋友圈发长文拜托别劝酒](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E5%9C%A8%E7%88%B8%E7%88%B8%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%8F%91%E9%95%BF%E6%96%87%E6%8B%9C%E6%89%98%E5%88%AB%E5%8A%9D%E9%85%92%23&t=31&band_rank=1&Refer=top)<br />
+2. [程潇跳一半骨折了](https://s.weibo.com/weibo?q=%23%E7%A8%8B%E6%BD%87%E8%B7%B3%E4%B8%80%E5%8D%8A%E9%AA%A8%E6%8A%98%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [祝福2023高考生](https://s.weibo.com/weibo?q=%23%E7%A5%9D%E7%A6%8F2023%E9%AB%98%E8%80%83%E7%94%9F%23&t=31&band_rank=3&Refer=top)<br />
 4. [黄觉牵张艺凡](https://s.weibo.com/weibo?q=%23%E9%BB%84%E8%A7%89%E7%89%B5%E5%BC%A0%E8%89%BA%E5%87%A1%23&t=31&band_rank=4&Refer=top)<br />
 5. [张艺兴 抢票](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%89%BA%E5%85%B4%20%E6%8A%A2%E7%A5%A8&t=31&band_rank=5&Refer=top)<br />
@@ -20,9 +20,9 @@
 4. [上海迪士尼回应「迪士尼落子武汉」称是假新闻，具体情况如何？哪个城市有希望落户中国第三家迪士尼？](https://www.zhihu.com/question/604556644)<br />
 5. [空调一开一关费电，还是一直开着费电？](https://www.zhihu.com/question/285831334)<br />
 6. [女朋友送的 switch 被亲戚要求送小孩我该怎么办？](https://www.zhihu.com/question/596647831)<br />
-7. [报道称美军工厂 24 小时连轴转，每月造两万枚炮弹，美对乌军援总额已达 376 亿美元，这意味着什么？](https://www.zhihu.com/question/604500833)<br />
-8. [如何评价《崩坏：星穹铁道》银狼角色 PV：「有点意思」？](https://www.zhihu.com/question/604408377)<br />
-9. [当职场沟通不带「呀、哈~」等词会怎样？「文字讨好症」是社交礼仪还是社交内耗？](https://www.zhihu.com/question/603825519)<br />
+7. [如何评价《崩坏：星穹铁道》银狼角色 PV：「有点意思」？](https://www.zhihu.com/question/604408377)<br />
+8. [当职场沟通不带「呀、哈~」等词会怎样？「文字讨好症」是社交礼仪还是社交内耗？](https://www.zhihu.com/question/603825519)<br />
+9. [现在的网文市场不适合性格内向的作者吗？](https://www.zhihu.com/question/505310524)<br />
 
 > 百度  
 
