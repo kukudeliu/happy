@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 00:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 00:40:01</h4></div>
 
 > 微博  
 
@@ -19,10 +19,10 @@
 3. [波音 CEO 称 C919 是一架好飞机，但想满足需求还有很久，不该对全球有三家供应商生畏，如何解读？](https://www.zhihu.com/question/604411935)<br />
 4. [主动与中国防长握手后，美防长奥斯汀称「保持沟通渠道至关重要」，哪些信息值得关注？](https://www.zhihu.com/question/604590355)<br />
 5. [2023 LPL 夏季赛 TES 2:1 EDG，如何评价这场比赛？](https://www.zhihu.com/question/604601328)<br />
-6. [学术圈有哪些造假被揭露之后颠覆了我们的认知？](https://www.zhihu.com/question/441393440)<br />
+6. []()<br />
 7. []()<br />
 8. []()<br />
-9. []()<br />
+9. [学术圈有哪些造假被揭露之后颠覆了我们的认知？](https://www.zhihu.com/question/441393440)<br />
 
 > 百度  
 
