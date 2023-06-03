@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 16:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 16:16:01</h4></div>
 
 > 微博  
 
@@ -18,11 +18,11 @@
 2. [印度发生列车相撞事故，已致 233 人死亡，900 人受伤，目前情况如何？事故原因可能是什么？](https://www.zhihu.com/question/604551488)<br />
 3. [女朋友送的 switch 被亲戚要求送小孩我该怎么办？](https://www.zhihu.com/question/596647831)<br />
 4. [上海迪士尼回应「迪士尼落子武汉」称是假新闻，具体情况如何？哪个城市有希望落户中国第三家迪士尼？](https://www.zhihu.com/question/604556644)<br />
-5. [猫经常坐在院子中间，偶尔舔舔身上的毛，然后坐在那一个下午，它坐在那干什么？](https://www.zhihu.com/question/603451215)<br />
-6. [如果给岳飞安排的帝王是刘禅会怎么样？](https://www.zhihu.com/question/547840158)<br />
-7. [现在的网文市场不适合性格内向的作者吗？](https://www.zhihu.com/question/505310524)<br />
+5. [如果给岳飞安排的帝王是刘禅会怎么样？](https://www.zhihu.com/question/547840158)<br />
+6. [现在的网文市场不适合性格内向的作者吗？](https://www.zhihu.com/question/505310524)<br />
+7. [猫经常坐在院子中间，偶尔舔舔身上的毛，然后坐在那一个下午，它坐在那干什么？](https://www.zhihu.com/question/603451215)<br />
 8. [看刘慈欣的小说可笑吗？](https://www.zhihu.com/question/601783884)<br />
-9. [如何评价《崩坏：星穹铁道》银狼角色 PV：「有点意思」？](https://www.zhihu.com/question/604408377)<br />
+9. [为什么米哈游不公布《原神》深渊每期的满星率呢？](https://www.zhihu.com/question/604339495)<br />
 
 > 百度  
 
