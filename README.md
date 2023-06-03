@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 12:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 12:13:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [祝福2023高考生](https://s.weibo.com/weibo?q=%23%E7%A5%9D%E7%A6%8F2023%E9%AB%98%E8%80%83%E7%94%9F%23&t=31&band_rank=3&Refer=top)<br />
 4. [陈采尼 抄](https://s.weibo.com/weibo?q=%E9%99%88%E9%87%87%E5%B0%BC%20%E6%8A%84&t=31&band_rank=4&Refer=top)<br />
 5. [千万不要长期喝热咖啡](https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E9%95%BF%E6%9C%9F%E5%96%9D%E7%83%AD%E5%92%96%E5%95%A1%23&t=31&band_rank=5&Refer=top)<br />
-6. [迪丽热巴是祝绪丹最爱的女人](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%98%AF%E7%A5%9D%E7%BB%AA%E4%B8%B9%E6%9C%80%E7%88%B1%E7%9A%84%E5%A5%B3%E4%BA%BA%23&t=31&band_rank=6&Refer=top)<br />
-7. [阿信是TFBOYS端水大师](https://s.weibo.com/weibo?q=%23%E9%98%BF%E4%BF%A1%E6%98%AFTFBOYS%E7%AB%AF%E6%B0%B4%E5%A4%A7%E5%B8%88%23&t=31&band_rank=7&Refer=top)<br />
-8. [Angelababy回归 跑男收视率](https://s.weibo.com/weibo?q=Angelababy%E5%9B%9E%E5%BD%92%20%E8%B7%91%E7%94%B7%E6%94%B6%E8%A7%86%E7%8E%87&t=31&band_rank=8&Refer=top)<br />
-9. [半藏森林克隆人一年收入可高达72万](https://s.weibo.com/weibo?q=%23%E5%8D%8A%E8%97%8F%E6%A3%AE%E6%9E%97%E5%85%8B%E9%9A%86%E4%BA%BA%E4%B8%80%E5%B9%B4%E6%94%B6%E5%85%A5%E5%8F%AF%E9%AB%98%E8%BE%BE72%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
+6. [阿信是TFBOYS端水大师](https://s.weibo.com/weibo?q=%23%E9%98%BF%E4%BF%A1%E6%98%AFTFBOYS%E7%AB%AF%E6%B0%B4%E5%A4%A7%E5%B8%88%23&t=31&band_rank=6&Refer=top)<br />
+7. [迪丽热巴是祝绪丹最爱的女人](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%98%AF%E7%A5%9D%E7%BB%AA%E4%B8%B9%E6%9C%80%E7%88%B1%E7%9A%84%E5%A5%B3%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
+8. [那英劝周迅别去浪姐](https://s.weibo.com/weibo?q=%23%E9%82%A3%E8%8B%B1%E5%8A%9D%E5%91%A8%E8%BF%85%E5%88%AB%E5%8E%BB%E6%B5%AA%E5%A7%90%23&t=31&band_rank=8&Refer=top)<br />
+9. [杨紫穿旗袍了](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E7%A9%BF%E6%97%97%E8%A2%8D%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
