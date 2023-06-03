@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 22:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 22:56:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [原配抓小三路人帮腔大骂男方不要脸](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E9%85%8D%E6%8A%93%E5%B0%8F%E4%B8%89%E8%B7%AF%E4%BA%BA%E5%B8%AE%E8%85%94%E5%A4%A7%E9%AA%82%E7%94%B7%E6%96%B9%E4%B8%8D%E8%A6%81%E8%84%B8%23&t=31&band_rank=6&Refer=top)<br />
 7. [离职时HR把我的职位写高了](https://s.weibo.com/weibo?q=%23%E7%A6%BB%E8%81%8C%E6%97%B6HR%E6%8A%8A%E6%88%91%E7%9A%84%E8%81%8C%E4%BD%8D%E5%86%99%E9%AB%98%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [Meiko 暂停](https://s.weibo.com/weibo?q=Meiko%20%E6%9A%82%E5%81%9C&t=31&band_rank=8&Refer=top)<br />
-9. [华晨宇麦粒肿](https://s.weibo.com/weibo?q=%E5%8D%8E%E6%99%A8%E5%AE%87%E9%BA%A6%E7%B2%92%E8%82%BF&t=31&band_rank=9&Refer=top)<br />
+9. [高三学生写永久请假条告别班主任](https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%B8%89%E5%AD%A6%E7%94%9F%E5%86%99%E6%B0%B8%E4%B9%85%E8%AF%B7%E5%81%87%E6%9D%A1%E5%91%8A%E5%88%AB%E7%8F%AD%E4%B8%BB%E4%BB%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
