@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 07:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 07:56:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [如何看待国内服装尺码越来越小的现象？](https://www.zhihu.com/question/499028779)<br />
 5. [真人版《小美人鱼》口碑与票房双失利，仅仅是因为电影的选角吗？根本原因是什么？](https://www.zhihu.com/question/603607588)<br />
 6. [现代汉语是否应该引入「冇」的概念来更精准表达「没有」的含义?](https://www.zhihu.com/question/604176704)<br />
-7. [《西游记》中的世界地图是什么样的？](https://www.zhihu.com/question/37555090)<br />
-8. [是大部分动物都喜欢被摸头吗？](https://www.zhihu.com/question/442523187)<br />
-9. [李斌回应蔚来巨亏，称「主要赔在研发上，研发的赔钱我觉得是投资」，具体情况如何？蔚来发展前景如何？](https://www.zhihu.com/question/602722590)<br />
+7. [李斌回应蔚来巨亏，称「主要赔在研发上，研发的赔钱我觉得是投资」，具体情况如何？蔚来发展前景如何？](https://www.zhihu.com/question/602722590)<br />
+8. [《西游记》中的世界地图是什么样的？](https://www.zhihu.com/question/37555090)<br />
+9. [是大部分动物都喜欢被摸头吗？](https://www.zhihu.com/question/442523187)<br />
 
 > 百度  
 
