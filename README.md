@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 14:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 14:28:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [猫经常坐在院子中间，偶尔舔舔身上的毛，然后坐在那一个下午，它坐在那干什么？](https://www.zhihu.com/question/603451215)<br />
 5. [上海迪士尼回应「迪士尼落子武汉」称是假新闻，具体情况如何？哪个城市有希望落户中国第三家迪士尼？](https://www.zhihu.com/question/604556644)<br />
 6. [空调一开一关费电，还是一直开着费电？](https://www.zhihu.com/question/285831334)<br />
-7. [作为西北地区，为什么今年陕西降雨开启「超长待机」模式？](https://www.zhihu.com/question/604228404)<br />
-8. [如何评价《崩坏：星穹铁道》银狼角色 PV：「有点意思」？](https://www.zhihu.com/question/604408377)<br />
-9. []()<br />
+7. [如何评价《崩坏：星穹铁道》银狼角色 PV：「有点意思」？](https://www.zhihu.com/question/604408377)<br />
+8. []()<br />
+9. [作为西北地区，为什么今年陕西降雨开启「超长待机」模式？](https://www.zhihu.com/question/604228404)<br />
 
 > 百度  
 
