@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 17:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 17:02:01</h4></div>
 
 > 微博  
 
-1. [卢靖姗顺产用了三十六个小时](https://s.weibo.com/weibo?q=%23%E5%8D%A2%E9%9D%96%E5%A7%97%E9%A1%BA%E4%BA%A7%E7%94%A8%E4%BA%86%E4%B8%89%E5%8D%81%E5%85%AD%E4%B8%AA%E5%B0%8F%E6%97%B6%23&t=31&band_rank=1&Refer=top)<br />
-2. [徐开骋被AI换脸](https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%BC%80%E9%AA%8B%E8%A2%ABAI%E6%8D%A2%E8%84%B8%23&t=31&band_rank=2&Refer=top)<br />
+1. [徐开骋被AI换脸](https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%BC%80%E9%AA%8B%E8%A2%ABAI%E6%8D%A2%E8%84%B8%23&t=31&band_rank=1&Refer=top)<br />
+2. [卢靖姗顺产用了三十六个小时](https://s.weibo.com/weibo?q=%23%E5%8D%A2%E9%9D%96%E5%A7%97%E9%A1%BA%E4%BA%A7%E7%94%A8%E4%BA%86%E4%B8%89%E5%8D%81%E5%85%AD%E4%B8%AA%E5%B0%8F%E6%97%B6%23&t=31&band_rank=2&Refer=top)<br />
 3. [三夏已至农事正忙](https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%A4%8F%E5%B7%B2%E8%87%B3%E5%86%9C%E4%BA%8B%E6%AD%A3%E5%BF%99%23&t=31&band_rank=3&Refer=top)<br />
 4. [黄觉牵张艺凡](https://s.weibo.com/weibo?q=%23%E9%BB%84%E8%A7%89%E7%89%B5%E5%BC%A0%E8%89%BA%E5%87%A1%23&t=31&band_rank=4&Refer=top)<br />
 5. [吴倩说女儿和自己长得一模一样](https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%80%A9%E8%AF%B4%E5%A5%B3%E5%84%BF%E5%92%8C%E8%87%AA%E5%B7%B1%E9%95%BF%E5%BE%97%E4%B8%80%E6%A8%A1%E4%B8%80%E6%A0%B7%23&t=31&band_rank=5&Refer=top)<br />
