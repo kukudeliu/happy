@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 14:41:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 14:42:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [祝福2023高考生](https://s.weibo.com/weibo?q=%23%E7%A5%9D%E7%A6%8F2023%E9%AB%98%E8%80%83%E7%94%9F%23&t=31&band_rank=3&Refer=top)<br />
 4. [朱珠问吴倩看过人生大事吗](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E7%8F%A0%E9%97%AE%E5%90%B4%E5%80%A9%E7%9C%8B%E8%BF%87%E4%BA%BA%E7%94%9F%E5%A4%A7%E4%BA%8B%E5%90%97%23&t=31&band_rank=4&Refer=top)<br />
 5. [女儿在爸爸朋友圈发长文拜托别劝酒](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E5%9C%A8%E7%88%B8%E7%88%B8%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%8F%91%E9%95%BF%E6%96%87%E6%8B%9C%E6%89%98%E5%88%AB%E5%8A%9D%E9%85%92%23&t=31&band_rank=5&Refer=top)<br />
-6. [黄磊 有的满意有的都不敢聊](https://s.weibo.com/weibo?q=%E9%BB%84%E7%A3%8A%20%E6%9C%89%E7%9A%84%E6%BB%A1%E6%84%8F%E6%9C%89%E7%9A%84%E9%83%BD%E4%B8%8D%E6%95%A2%E8%81%8A&t=31&band_rank=6&Refer=top)<br />
-7. [印度火车相撞已致288人死亡](https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E7%81%AB%E8%BD%A6%E7%9B%B8%E6%92%9E%E5%B7%B2%E8%87%B4288%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=7&Refer=top)<br />
+6. [印度火车相撞已致288人死亡](https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E7%81%AB%E8%BD%A6%E7%9B%B8%E6%92%9E%E5%B7%B2%E8%87%B4288%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=6&Refer=top)<br />
+7. [黄磊 有的满意有的都不敢聊](https://s.weibo.com/weibo?q=%E9%BB%84%E7%A3%8A%20%E6%9C%89%E7%9A%84%E6%BB%A1%E6%84%8F%E6%9C%89%E7%9A%84%E9%83%BD%E4%B8%8D%E6%95%A2%E8%81%8A&t=31&band_rank=7&Refer=top)<br />
 8. [EXO是真的勇](https://s.weibo.com/weibo?q=%23EXO%E6%98%AF%E7%9C%9F%E7%9A%84%E5%8B%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [奥运冠军王懿律宣布退出国家队](https://s.weibo.com/weibo?q=%23%E5%A5%A5%E8%BF%90%E5%86%A0%E5%86%9B%E7%8E%8B%E6%87%BF%E5%BE%8B%E5%AE%A3%E5%B8%83%E9%80%80%E5%87%BA%E5%9B%BD%E5%AE%B6%E9%98%9F%23&t=31&band_rank=9&Refer=top)<br />
+9. [4篇论文现同一划痕钢尺遭撤稿](https://s.weibo.com/weibo?q=%234%E7%AF%87%E8%AE%BA%E6%96%87%E7%8E%B0%E5%90%8C%E4%B8%80%E5%88%92%E7%97%95%E9%92%A2%E5%B0%BA%E9%81%AD%E6%92%A4%E7%A8%BF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -34,7 +34,7 @@
 6. [女子云南穿破洞裤7小时腿被晒伤](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%BA%91%E5%8D%97%E7%A9%BF%E7%A0%B4%E6%B4%9E%E8%A3%A47%E5%B0%8F%E6%97%B6%E8%85%BF%E8%A2%AB%E6%99%92%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [程潇舞跳一半骨折了](https://www.baidu.com/s?wd=%E7%A8%8B%E6%BD%87%E8%88%9E%E8%B7%B3%E4%B8%80%E5%8D%8A%E9%AA%A8%E6%8A%98%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [杭州部分小区房价跌回2017年](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E9%83%A8%E5%88%86%E5%B0%8F%E5%8C%BA%E6%88%BF%E4%BB%B7%E8%B7%8C%E5%9B%9E2017%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [宿舍厕所自带“粪围灯”](https://www.baidu.com/s?wd=%E5%AE%BF%E8%88%8D%E5%8E%95%E6%89%80%E8%87%AA%E5%B8%A6%E2%80%9C%E7%B2%AA%E5%9B%B4%E7%81%AF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [黄渤 贫困女孩](https://www.baidu.com/s?wd=%E9%BB%84%E6%B8%A4+%E8%B4%AB%E5%9B%B0%E5%A5%B3%E5%AD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [女子云南穿破洞裤7小时腿被晒伤](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%BA%91%E5%8D%97%E7%A9%BF%E7%A0%B4%E6%B4%9E%E8%A3%A47%E5%B0%8F%E6%97%B6%E8%85%BF%E8%A2%AB%E6%99%92%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [程潇舞跳一半骨折了](https://www.baidu.com/s?wd=%E7%A8%8B%E6%BD%87%E8%88%9E%E8%B7%B3%E4%B8%80%E5%8D%8A%E9%AA%A8%E6%8A%98%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [杭州部分小区房价跌回2017年](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E9%83%A8%E5%88%86%E5%B0%8F%E5%8C%BA%E6%88%BF%E4%BB%B7%E8%B7%8C%E5%9B%9E2017%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [宿舍厕所自带“粪围灯”](https://www.baidu.com/s?wd=%E5%AE%BF%E8%88%8D%E5%8E%95%E6%89%80%E8%87%AA%E5%B8%A6%E2%80%9C%E7%B2%AA%E5%9B%B4%E7%81%AF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [黄渤 贫困女孩](https://www.baidu.com/s?wd=%E9%BB%84%E6%B8%A4+%E8%B4%AB%E5%9B%B0%E5%A5%B3%E5%AD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
