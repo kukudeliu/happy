@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 09:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 09:25:01</h4></div>
 
 > 微博  
 
@@ -19,8 +19,8 @@
 3. [上海一对夫妻月薪超 60 万元，两年入职 300 家公司，牵出数百人的「职业骗薪」团伙，如何看待此事？](https://www.zhihu.com/question/604403306)<br />
 4. [多个账号因网暴武汉被撞身亡学生母亲被封禁，网暴者是否应该承担责任？如何从法律角度解读？](https://www.zhihu.com/question/604552148)<br />
 5. [2023 LPL 夏季赛 FPX 0:2 UP，如何评价这场比赛？](https://www.zhihu.com/question/604471476)<br />
-6. [你觉得大学不谈恋爱会有遗憾吗？](https://www.zhihu.com/question/604254909)<br />
-7. []()<br />
+6. []()<br />
+7. [你觉得大学不谈恋爱会有遗憾吗？](https://www.zhihu.com/question/604254909)<br />
 8. [Steam 上有哪些必买游戏？](https://www.zhihu.com/question/35296900)<br />
 9. [为什么让狗狗做的坏事被主人发现后，它就会开始发抖？真的是害怕和愧疚吗？](https://www.zhihu.com/question/602543843)<br />
 
