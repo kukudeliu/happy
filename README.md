@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 15:49:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 15:50:02</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [上海迪士尼回应「迪士尼落子武汉」称是假新闻，具体情况如何？哪个城市有希望落户中国第三家迪士尼？](https://www.zhihu.com/question/604556644)<br />
 5. [女朋友送的 switch 被亲戚要求送小孩我该怎么办？](https://www.zhihu.com/question/596647831)<br />
 6. [空调一开一关费电，还是一直开着费电？](https://www.zhihu.com/question/285831334)<br />
-7. [当职场沟通不带「呀、哈~」等词会怎样？「文字讨好症」是社交礼仪还是社交内耗？](https://www.zhihu.com/question/603825519)<br />
-8. [如何评价《崩坏：星穹铁道》银狼角色 PV：「有点意思」？](https://www.zhihu.com/question/604408377)<br />
-9. [现在的网文市场不适合性格内向的作者吗？](https://www.zhihu.com/question/505310524)<br />
+7. [如何评价《崩坏：星穹铁道》银狼角色 PV：「有点意思」？](https://www.zhihu.com/question/604408377)<br />
+8. [现在的网文市场不适合性格内向的作者吗？](https://www.zhihu.com/question/505310524)<br />
+9. [如果给岳飞安排的帝王是刘禅会怎么样？](https://www.zhihu.com/question/547840158)<br />
 
 > 百度  
 
