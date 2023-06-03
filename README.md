@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 04:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 04:24:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [俄罗斯多地遭攻击 24小时内上百次](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E5%A4%9A%E5%9C%B0%E9%81%AD%E6%94%BB%E5%87%BB+24%E5%B0%8F%E6%97%B6%E5%86%85%E4%B8%8A%E7%99%BE%E6%AC%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [五月天演唱会华晨宇冷场](https://www.baidu.com/s?wd=%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8D%8E%E6%99%A8%E5%AE%87%E5%86%B7%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [小学发的美术本上印有涉黄二维码](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E5%8F%91%E7%9A%84%E7%BE%8E%E6%9C%AF%E6%9C%AC%E4%B8%8A%E5%8D%B0%E6%9C%89%E6%B6%89%E9%BB%84%E4%BA%8C%E7%BB%B4%E7%A0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [赵丽颖街边哄儿子被拍](https://www.baidu.com/s?wd=%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%A1%97%E8%BE%B9%E5%93%84%E5%84%BF%E5%AD%90%E8%A2%AB%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [美防长跨越2座位主动与中国防长握手](https://www.baidu.com/s?wd=%E7%BE%8E%E9%98%B2%E9%95%BF%E8%B7%A8%E8%B6%8A2%E5%BA%A7%E4%BD%8D%E4%B8%BB%E5%8A%A8%E4%B8%8E%E4%B8%AD%E5%9B%BD%E9%98%B2%E9%95%BF%E6%8F%A1%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [俄罗斯多地遭攻击 24小时内上百次](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E5%A4%9A%E5%9C%B0%E9%81%AD%E6%94%BB%E5%87%BB+24%E5%B0%8F%E6%97%B6%E5%86%85%E4%B8%8A%E7%99%BE%E6%AC%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [五月天演唱会华晨宇冷场](https://www.baidu.com/s?wd=%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8D%8E%E6%99%A8%E5%AE%87%E5%86%B7%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [小学发的美术本上印有涉黄二维码](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E5%8F%91%E7%9A%84%E7%BE%8E%E6%9C%AF%E6%9C%AC%E4%B8%8A%E5%8D%B0%E6%9C%89%E6%B6%89%E9%BB%84%E4%BA%8C%E7%BB%B4%E7%A0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [赵丽颖街边哄儿子被拍](https://www.baidu.com/s?wd=%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%A1%97%E8%BE%B9%E5%93%84%E5%84%BF%E5%AD%90%E8%A2%AB%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [美防长跨越2座位主动与中国防长握手](https://www.baidu.com/s?wd=%E7%BE%8E%E9%98%B2%E9%95%BF%E8%B7%A8%E8%B6%8A2%E5%BA%A7%E4%BD%8D%E4%B8%BB%E5%8A%A8%E4%B8%8E%E4%B8%AD%E5%9B%BD%E9%98%B2%E9%95%BF%E6%8F%A1%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
