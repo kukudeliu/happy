@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 11:57:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 11:58:02</h4></div>
 
 > 微博  
 
@@ -18,9 +18,9 @@
 2. [印度发生列车相撞事故，已致 233 人死亡，900 人受伤，目前情况如何？事故原因可能是什么？](https://www.zhihu.com/question/604551488)<br />
 3. [猫经常坐在院子中间，偶尔舔舔身上的毛，然后坐在那一个下午，它坐在那干什么？](https://www.zhihu.com/question/603451215)<br />
 4. [诸葛亮为什么会对张苞的死，痛心到吐血？](https://www.zhihu.com/question/602162906)<br />
-5. [大量运动之后是不是更容易生病？如何判断自己的运动量是否合适？](https://www.zhihu.com/question/600620004)<br />
-6. [报道称美军工厂 24 小时连轴转，每月造两万枚炮弹，美对乌军援总额已达 376 亿美元，这意味着什么？](https://www.zhihu.com/question/604500833)<br />
-7. [最近大火的厨房空调有必要吗？是不是智商税？](https://www.zhihu.com/question/604448257)<br />
+5. [报道称美军工厂 24 小时连轴转，每月造两万枚炮弹，美对乌军援总额已达 376 亿美元，这意味着什么？](https://www.zhihu.com/question/604500833)<br />
+6. [最近大火的厨房空调有必要吗？是不是智商税？](https://www.zhihu.com/question/604448257)<br />
+7. [大量运动之后是不是更容易生病？如何判断自己的运动量是否合适？](https://www.zhihu.com/question/600620004)<br />
 8. [618 有哪些好用又便宜的厨房小电器推荐？](https://www.zhihu.com/question/602551377)<br />
 9. []()<br />
 
