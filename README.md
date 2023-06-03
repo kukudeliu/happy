@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 10:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 10:49:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [做科研怎么知道自己是不是在闭门造车呢？](https://www.zhihu.com/question/497343251)<br />
 7. [诸葛亮为什么会对张苞的死，痛心到吐血？](https://www.zhihu.com/question/602162906)<br />
 8. [618 有哪些好用又便宜的厨房小电器推荐？](https://www.zhihu.com/question/602551377)<br />
-9. [化学有何种特殊性使其脱离物理成为一门独立学科，而不是和力学、热学、电学等并列？](https://www.zhihu.com/question/599287344)<br />
+9. []()<br />
 
 > 百度  
 
