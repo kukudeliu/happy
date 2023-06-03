@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 15:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 15:58:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [黄觉牵张艺凡](https://s.weibo.com/weibo?q=%23%E9%BB%84%E8%A7%89%E7%89%B5%E5%BC%A0%E8%89%BA%E5%87%A1%23&t=31&band_rank=4&Refer=top)<br />
 5. [程潇跳一半骨折了](https://s.weibo.com/weibo?q=%23%E7%A8%8B%E6%BD%87%E8%B7%B3%E4%B8%80%E5%8D%8A%E9%AA%A8%E6%8A%98%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [朱珠问吴倩看过人生大事吗](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E7%8F%A0%E9%97%AE%E5%90%B4%E5%80%A9%E7%9C%8B%E8%BF%87%E4%BA%BA%E7%94%9F%E5%A4%A7%E4%BA%8B%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
-7. [庾澄庆频繁在线](https://s.weibo.com/weibo?q=%23%E5%BA%BE%E6%BE%84%E5%BA%86%E9%A2%91%E7%B9%81%E5%9C%A8%E7%BA%BF%23&t=31&band_rank=7&Refer=top)<br />
-8. [4篇论文现同一划痕钢尺遭撤稿](https://s.weibo.com/weibo?q=%234%E7%AF%87%E8%AE%BA%E6%96%87%E7%8E%B0%E5%90%8C%E4%B8%80%E5%88%92%E7%97%95%E9%92%A2%E5%B0%BA%E9%81%AD%E6%92%A4%E7%A8%BF%23&t=31&band_rank=8&Refer=top)<br />
-9. [印度火车相撞已致288人死亡](https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E7%81%AB%E8%BD%A6%E7%9B%B8%E6%92%9E%E5%B7%B2%E8%87%B4288%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
+7. [4篇论文现同一划痕钢尺遭撤稿](https://s.weibo.com/weibo?q=%234%E7%AF%87%E8%AE%BA%E6%96%87%E7%8E%B0%E5%90%8C%E4%B8%80%E5%88%92%E7%97%95%E9%92%A2%E5%B0%BA%E9%81%AD%E6%92%A4%E7%A8%BF%23&t=31&band_rank=7&Refer=top)<br />
+8. [印度火车相撞已致288人死亡](https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E7%81%AB%E8%BD%A6%E7%9B%B8%E6%92%9E%E5%B7%B2%E8%87%B4288%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
+9. [花花和大家打招呼](https://s.weibo.com/weibo?q=%E8%8A%B1%E8%8A%B1%E5%92%8C%E5%A4%A7%E5%AE%B6%E6%89%93%E6%8B%9B%E5%91%BC&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
