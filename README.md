@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 13:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 13:39:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [上海迪士尼辟谣乐园将落户武汉](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E8%BF%AA%E5%A3%AB%E5%B0%BC%E8%BE%9F%E8%B0%A3%E4%B9%90%E5%9B%AD%E5%B0%86%E8%90%BD%E6%88%B7%E6%AD%A6%E6%B1%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [知情人辟谣被撞小学生父亲坠楼](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%E8%BE%9F%E8%B0%A3%E8%A2%AB%E6%92%9E%E5%B0%8F%E5%AD%A6%E7%94%9F%E7%88%B6%E4%BA%B2%E5%9D%A0%E6%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [#校内被撞身亡小学生的母亲坠亡#](https://www.baidu.com/s?wd=%23%E6%A0%A1%E5%86%85%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1%E5%B0%8F%E5%AD%A6%E7%94%9F%E7%9A%84%E6%AF%8D%E4%BA%B2%E5%9D%A0%E4%BA%A1%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [宿舍厕所自带“粪围灯”](https://www.baidu.com/s?wd=%E5%AE%BF%E8%88%8D%E5%8E%95%E6%89%80%E8%87%AA%E5%B8%A6%E2%80%9C%E7%B2%AA%E5%9B%B4%E7%81%AF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [杭州部分小区房价跌回2017年](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E9%83%A8%E5%88%86%E5%B0%8F%E5%8C%BA%E6%88%BF%E4%BB%B7%E8%B7%8C%E5%9B%9E2017%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [杭州部分小区房价跌回2017年](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E9%83%A8%E5%88%86%E5%B0%8F%E5%8C%BA%E6%88%BF%E4%BB%B7%E8%B7%8C%E5%9B%9E2017%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [宿舍厕所自带“粪围灯”](https://www.baidu.com/s?wd=%E5%AE%BF%E8%88%8D%E5%8E%95%E6%89%80%E8%87%AA%E5%B8%A6%E2%80%9C%E7%B2%AA%E5%9B%B4%E7%81%AF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [上海迪士尼辟谣乐园将落户武汉](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E8%BF%AA%E5%A3%AB%E5%B0%BC%E8%BE%9F%E8%B0%A3%E4%B9%90%E5%9B%AD%E5%B0%86%E8%90%BD%E6%88%B7%E6%AD%A6%E6%B1%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [知情人辟谣被撞小学生父亲坠楼](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%E8%BE%9F%E8%B0%A3%E8%A2%AB%E6%92%9E%E5%B0%8F%E5%AD%A6%E7%94%9F%E7%88%B6%E4%BA%B2%E5%9D%A0%E6%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [#校内被撞身亡小学生的母亲坠亡#](https://www.baidu.com/s?wd=%23%E6%A0%A1%E5%86%85%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1%E5%B0%8F%E5%AD%A6%E7%94%9F%E7%9A%84%E6%AF%8D%E4%BA%B2%E5%9D%A0%E4%BA%A1%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [宿舍厕所自带“粪围灯”](https://www.baidu.com/s?wd=%E5%AE%BF%E8%88%8D%E5%8E%95%E6%89%80%E8%87%AA%E5%B8%A6%E2%80%9C%E7%B2%AA%E5%9B%B4%E7%81%AF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [杭州部分小区房价跌回2017年](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E9%83%A8%E5%88%86%E5%B0%8F%E5%8C%BA%E6%88%BF%E4%BB%B7%E8%B7%8C%E5%9B%9E2017%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [杭州部分小区房价跌回2017年](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E9%83%A8%E5%88%86%E5%B0%8F%E5%8C%BA%E6%88%BF%E4%BB%B7%E8%B7%8C%E5%9B%9E2017%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [宿舍厕所自带“粪围灯”](https://www.baidu.com/s?wd=%E5%AE%BF%E8%88%8D%E5%8E%95%E6%89%80%E8%87%AA%E5%B8%A6%E2%80%9C%E7%B2%AA%E5%9B%B4%E7%81%AF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
