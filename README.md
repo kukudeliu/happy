@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 14:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 14:15:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [朱珠问吴倩看过人生大事吗](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E7%8F%A0%E9%97%AE%E5%90%B4%E5%80%A9%E7%9C%8B%E8%BF%87%E4%BA%BA%E7%94%9F%E5%A4%A7%E4%BA%8B%E5%90%97%23&t=31&band_rank=5&Refer=top)<br />
 6. [黄磊 有的满意有的都不敢聊](https://s.weibo.com/weibo?q=%E9%BB%84%E7%A3%8A%20%E6%9C%89%E7%9A%84%E6%BB%A1%E6%84%8F%E6%9C%89%E7%9A%84%E9%83%BD%E4%B8%8D%E6%95%A2%E8%81%8A&t=31&band_rank=6&Refer=top)<br />
 7. [女儿在爸爸朋友圈发长文拜托别劝酒](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E5%9C%A8%E7%88%B8%E7%88%B8%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%8F%91%E9%95%BF%E6%96%87%E6%8B%9C%E6%89%98%E5%88%AB%E5%8A%9D%E9%85%92%23&t=31&band_rank=7&Refer=top)<br />
-8. [杨紫穿旗袍了](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E7%A9%BF%E6%97%97%E8%A2%8D%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+8. [EXO是真的勇](https://s.weibo.com/weibo?q=%23EXO%E6%98%AF%E7%9C%9F%E7%9A%84%E5%8B%87%23&t=31&band_rank=8&Refer=top)<br />
 9. [武汉迪士尼](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E8%BF%AA%E5%A3%AB%E5%B0%BC%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
