@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 08:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 08:01:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [警方回应校内被撞身亡小学生母亲坠亡](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E6%A0%A1%E5%86%85%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%AF%8D%E4%BA%B2%E5%9D%A0%E4%BA%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [吴所谓得知吴京去开家长会的反应](https://s.weibo.com/weibo?q=%23%E5%90%B4%E6%89%80%E8%B0%93%E5%BE%97%E7%9F%A5%E5%90%B4%E4%BA%AC%E5%8E%BB%E5%BC%80%E5%AE%B6%E9%95%BF%E4%BC%9A%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=7&Refer=top)<br />
 8. [8岁男孩摆摊1小时赚584元](https://s.weibo.com/weibo?q=%238%E5%B2%81%E7%94%B7%E5%AD%A9%E6%91%86%E6%91%8A1%E5%B0%8F%E6%97%B6%E8%B5%9A584%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [昆明机场一女子取行李被撞身亡](https://s.weibo.com/weibo?q=%23%E6%98%86%E6%98%8E%E6%9C%BA%E5%9C%BA%E4%B8%80%E5%A5%B3%E5%AD%90%E5%8F%96%E8%A1%8C%E6%9D%8E%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
+9. [爸爸到上海出差把女儿冰箱塞满](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E5%88%B0%E4%B8%8A%E6%B5%B7%E5%87%BA%E5%B7%AE%E6%8A%8A%E5%A5%B3%E5%84%BF%E5%86%B0%E7%AE%B1%E5%A1%9E%E6%BB%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
