@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 19:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 19:08:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [如何看待国内服装尺码越来越小的现象？](https://www.zhihu.com/question/499028779)<br />
 5. [波音 CEO 称 C919 是一架好飞机，但想满足需求还有很久，不该对全球有三家供应商生畏，如何解读？](https://www.zhihu.com/question/604411935)<br />
 6. [《崩坏：星穹铁道》会与国铁集团联动吗？](https://www.zhihu.com/question/604565928)<br />
-7. [考虑在北京买房的，都考虑哪里的房子？](https://www.zhihu.com/question/452857081)<br />
-8. [高考期间，孩子住校好还是住家好？](https://www.zhihu.com/question/603971061)<br />
-9. [空调一开一关费电，还是一直开着费电？](https://www.zhihu.com/question/285831334)<br />
+7. []()<br />
+8. [考虑在北京买房的，都考虑哪里的房子？](https://www.zhihu.com/question/452857081)<br />
+9. [高考期间，孩子住校好还是住家好？](https://www.zhihu.com/question/603971061)<br />
 
 > 百度  
 
