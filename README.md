@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 09:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 09:58:01</h4></div>
 
 > 微博  
 
@@ -19,10 +19,10 @@
 3. [印度发生列车相撞事故，已致 233 人死亡，900 人受伤，目前情况如何？事故原因可能是什么？](https://www.zhihu.com/question/604551488)<br />
 4. [2023 LPL 夏季赛 FPX 0:2 UP，如何评价这场比赛？](https://www.zhihu.com/question/604471476)<br />
 5. []()<br />
-6. [做科研怎么知道自己是不是在闭门造车呢？](https://www.zhihu.com/question/497343251)<br />
-7. [大量运动之后是不是更容易生病？如何判断自己的运动量是否合适？](https://www.zhihu.com/question/600620004)<br />
-8. [为什么让狗狗做的坏事被主人发现后，它就会开始发抖？真的是害怕和愧疚吗？](https://www.zhihu.com/question/602543843)<br />
-9. [朋友借给我一万，用了半年。还钱时候要不要给点利息？](https://www.zhihu.com/question/602415682)<br />
+6. [猫经常坐在院子中间，偶尔舔舔身上的毛，然后坐在那一个下午，它坐在那干什么？](https://www.zhihu.com/question/603451215)<br />
+7. [做科研怎么知道自己是不是在闭门造车呢？](https://www.zhihu.com/question/497343251)<br />
+8. [大量运动之后是不是更容易生病？如何判断自己的运动量是否合适？](https://www.zhihu.com/question/600620004)<br />
+9. []()<br />
 
 > 百度  
 
