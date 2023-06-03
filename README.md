@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 03:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 03:45:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [俄罗斯多地遭攻击 24小时内上百次](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E5%A4%9A%E5%9C%B0%E9%81%AD%E6%94%BB%E5%87%BB+24%E5%B0%8F%E6%97%B6%E5%86%85%E4%B8%8A%E7%99%BE%E6%AC%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [五月天演唱会华晨宇冷场](https://www.baidu.com/s?wd=%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8D%8E%E6%99%A8%E5%AE%87%E5%86%B7%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [赵丽颖街边哄儿子被拍](https://www.baidu.com/s?wd=%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%A1%97%E8%BE%B9%E5%93%84%E5%84%BF%E5%AD%90%E8%A2%AB%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [人民币对美元汇率强劲反弹](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E5%B8%81%E5%AF%B9%E7%BE%8E%E5%85%83%E6%B1%87%E7%8E%87%E5%BC%BA%E5%8A%B2%E5%8F%8D%E5%BC%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [拜登：美国避免了一次经济崩溃](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%EF%BC%9A%E7%BE%8E%E5%9B%BD%E9%81%BF%E5%85%8D%E4%BA%86%E4%B8%80%E6%AC%A1%E7%BB%8F%E6%B5%8E%E5%B4%A9%E6%BA%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [俄罗斯多地遭攻击 24小时内上百次](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E5%A4%9A%E5%9C%B0%E9%81%AD%E6%94%BB%E5%87%BB+24%E5%B0%8F%E6%97%B6%E5%86%85%E4%B8%8A%E7%99%BE%E6%AC%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [五月天演唱会华晨宇冷场](https://www.baidu.com/s?wd=%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8D%8E%E6%99%A8%E5%AE%87%E5%86%B7%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [赵丽颖街边哄儿子被拍](https://www.baidu.com/s?wd=%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%A1%97%E8%BE%B9%E5%93%84%E5%84%BF%E5%AD%90%E8%A2%AB%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [人民币对美元汇率强劲反弹](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E5%B8%81%E5%AF%B9%E7%BE%8E%E5%85%83%E6%B1%87%E7%8E%87%E5%BC%BA%E5%8A%B2%E5%8F%8D%E5%BC%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [拜登：美国避免了一次经济崩溃](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%EF%BC%9A%E7%BE%8E%E5%9B%BD%E9%81%BF%E5%85%8D%E4%BA%86%E4%B8%80%E6%AC%A1%E7%BB%8F%E6%B5%8E%E5%B4%A9%E6%BA%83&sa=fyb_news&rsv_dl=fyb_news)<br />
