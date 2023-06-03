@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 19:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-03 19:04:01</h4></div>
 
 > 微博  
 
@@ -18,9 +18,9 @@
 2. [印度发生列车相撞事故，已致超过 300 人死亡，1000 多人受伤，目前情况如何？事故原因可能是什么？](https://www.zhihu.com/question/604551488)<br />
 3. [马斯克之后，英伟达、摩根大通、星巴克、路威酩轩等公司 CEO 等外企高管再掀「来华潮」，释放哪些信号？](https://www.zhihu.com/question/604506301)<br />
 4. [如何看待国内服装尺码越来越小的现象？](https://www.zhihu.com/question/499028779)<br />
-5. []()<br />
+5. [波音 CEO 称 C919 是一架好飞机，但想满足需求还有很久，不该对全球有三家供应商生畏，如何解读？](https://www.zhihu.com/question/604411935)<br />
 6. [《崩坏：星穹铁道》会与国铁集团联动吗？](https://www.zhihu.com/question/604565928)<br />
-7. []()<br />
+7. [考虑在北京买房的，都考虑哪里的房子？](https://www.zhihu.com/question/452857081)<br />
 8. [高考期间，孩子住校好还是住家好？](https://www.zhihu.com/question/603971061)<br />
 9. []()<br />
 
