@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 20:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 21:00:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [男子为考清华复读14年](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%BA%E8%80%83%E6%B8%85%E5%8D%8E%E5%A4%8D%E8%AF%BB14%E5%B9%B4%23&t=31&band_rank=5&Refer=top)<br />
 6. [国内出现偏肺病毒感染](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%86%85%E5%87%BA%E7%8E%B0%E5%81%8F%E8%82%BA%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93%23&t=31&band_rank=6&Refer=top)<br />
 7. [清清恋爱](https://s.weibo.com/weibo?q=%E6%B8%85%E6%B8%85%E6%81%8B%E7%88%B1&t=31&band_rank=7&Refer=top)<br />
-8. [刘亦菲林志颖20年前合照](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E6%9E%97%E5%BF%97%E9%A2%9620%E5%B9%B4%E5%89%8D%E5%90%88%E7%85%A7%23&t=31&band_rank=8&Refer=top)<br />
-9. [沈月cos陈小希](https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%9C%88cos%E9%99%88%E5%B0%8F%E5%B8%8C%23&t=31&band_rank=9&Refer=top)<br />
+8. [沈月cos陈小希](https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%9C%88cos%E9%99%88%E5%B0%8F%E5%B8%8C%23&t=31&band_rank=8&Refer=top)<br />
+9. [刘亦菲林志颖20年前合照](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E6%9E%97%E5%BF%97%E9%A2%9620%E5%B9%B4%E5%89%8D%E5%90%88%E7%85%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
