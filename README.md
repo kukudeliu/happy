@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 20:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 20:18:01</h4></div>
 
 > 微博  
 
@@ -32,8 +32,8 @@
 4. [揭秘航天搜救队](https://www.baidu.com/s?wd=%E6%8F%AD%E7%A7%98%E8%88%AA%E5%A4%A9%E6%90%9C%E6%95%91%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [2名法师私吞善款？五台山佛协回应](https://www.baidu.com/s?wd=2%E5%90%8D%E6%B3%95%E5%B8%88%E7%A7%81%E5%90%9E%E5%96%84%E6%AC%BE%EF%BC%9F%E4%BA%94%E5%8F%B0%E5%B1%B1%E4%BD%9B%E5%8D%8F%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [最“卷”618来了 消费者买单吗？](https://www.baidu.com/s?wd=%E6%9C%80%E2%80%9C%E5%8D%B7%E2%80%9D618%E6%9D%A5%E4%BA%86+%E6%B6%88%E8%B4%B9%E8%80%85%E4%B9%B0%E5%8D%95%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [姑姑拍到侄女做梦吃雪糕](https://www.baidu.com/s?wd=%E5%A7%91%E5%A7%91%E6%8B%8D%E5%88%B0%E4%BE%84%E5%A5%B3%E5%81%9A%E6%A2%A6%E5%90%83%E9%9B%AA%E7%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [降压神药实为几毛钱的淀粉](https://www.baidu.com/s?wd=%E9%99%8D%E5%8E%8B%E7%A5%9E%E8%8D%AF%E5%AE%9E%E4%B8%BA%E5%87%A0%E6%AF%9B%E9%92%B1%E7%9A%84%E6%B7%80%E7%B2%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [奶奶看小鬼演唱会捂耳朵](https://www.baidu.com/s?wd=%E5%A5%B6%E5%A5%B6%E7%9C%8B%E5%B0%8F%E9%AC%BC%E6%BC%94%E5%94%B1%E4%BC%9A%E6%8D%82%E8%80%B3%E6%9C%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [姑姑拍到侄女做梦吃雪糕](https://www.baidu.com/s?wd=%E5%A7%91%E5%A7%91%E6%8B%8D%E5%88%B0%E4%BE%84%E5%A5%B3%E5%81%9A%E6%A2%A6%E5%90%83%E9%9B%AA%E7%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [多国出现偏肺病毒感染 尚无治疗药物](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E5%87%BA%E7%8E%B0%E5%81%8F%E8%82%BA%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93+%E5%B0%9A%E6%97%A0%E6%B2%BB%E7%96%97%E8%8D%AF%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -44,6 +44,6 @@
 4. [揭秘航天搜救队](https://www.baidu.com/s?wd=%E6%8F%AD%E7%A7%98%E8%88%AA%E5%A4%A9%E6%90%9C%E6%95%91%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [2名法师私吞善款？五台山佛协回应](https://www.baidu.com/s?wd=2%E5%90%8D%E6%B3%95%E5%B8%88%E7%A7%81%E5%90%9E%E5%96%84%E6%AC%BE%EF%BC%9F%E4%BA%94%E5%8F%B0%E5%B1%B1%E4%BD%9B%E5%8D%8F%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [最“卷”618来了 消费者买单吗？](https://www.baidu.com/s?wd=%E6%9C%80%E2%80%9C%E5%8D%B7%E2%80%9D618%E6%9D%A5%E4%BA%86+%E6%B6%88%E8%B4%B9%E8%80%85%E4%B9%B0%E5%8D%95%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [姑姑拍到侄女做梦吃雪糕](https://www.baidu.com/s?wd=%E5%A7%91%E5%A7%91%E6%8B%8D%E5%88%B0%E4%BE%84%E5%A5%B3%E5%81%9A%E6%A2%A6%E5%90%83%E9%9B%AA%E7%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [降压神药实为几毛钱的淀粉](https://www.baidu.com/s?wd=%E9%99%8D%E5%8E%8B%E7%A5%9E%E8%8D%AF%E5%AE%9E%E4%B8%BA%E5%87%A0%E6%AF%9B%E9%92%B1%E7%9A%84%E6%B7%80%E7%B2%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [奶奶看小鬼演唱会捂耳朵](https://www.baidu.com/s?wd=%E5%A5%B6%E5%A5%B6%E7%9C%8B%E5%B0%8F%E9%AC%BC%E6%BC%94%E5%94%B1%E4%BC%9A%E6%8D%82%E8%80%B3%E6%9C%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [姑姑拍到侄女做梦吃雪糕](https://www.baidu.com/s?wd=%E5%A7%91%E5%A7%91%E6%8B%8D%E5%88%B0%E4%BE%84%E5%A5%B3%E5%81%9A%E6%A2%A6%E5%90%83%E9%9B%AA%E7%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [多国出现偏肺病毒感染 尚无治疗药物](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E5%87%BA%E7%8E%B0%E5%81%8F%E8%82%BA%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93+%E5%B0%9A%E6%97%A0%E6%B2%BB%E7%96%97%E8%8D%AF%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
