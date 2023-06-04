@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 15:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 15:38:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [你是从什么时候爱上骑自行车的？你骑车最远一次骑到了哪里，总共花了多长时间？](https://www.zhihu.com/question/603621804)<br />
 7. [在《笑傲江湖》中，为啥令狐冲能够与人人喊打的魔教中人打成一片？](https://www.zhihu.com/question/604133289)<br />
 8. [微软宣布 Win11 原生支持解压 rar 文件，WinRAR 发图自嘲，你对此有何看法？](https://www.zhihu.com/question/604180951)<br />
-9. [22-23 赛季法甲巴黎圣日耳曼 2:3 克莱蒙，梅西拉莫斯告别姆巴佩点射夺金靴，如何评价这场比赛？](https://www.zhihu.com/question/604675441)<br />
+9. [漫步者新出的 M330 音箱值得买吗？对比同级音箱效果怎么样？](https://www.zhihu.com/question/601282358)<br />
 
 > 百度  
 
