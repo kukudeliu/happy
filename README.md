@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 10:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 10:24:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [那英送何炅的衣服竟然是童装](https://s.weibo.com/weibo?q=%23%E9%82%A3%E8%8B%B1%E9%80%81%E4%BD%95%E7%82%85%E7%9A%84%E8%A1%A3%E6%9C%8D%E7%AB%9F%E7%84%B6%E6%98%AF%E7%AB%A5%E8%A3%85%23&t=31&band_rank=6&Refer=top)<br />
 7. [一人说一个奇怪的生理反应](https://s.weibo.com/weibo?q=%E4%B8%80%E4%BA%BA%E8%AF%B4%E4%B8%80%E4%B8%AA%E5%A5%87%E6%80%AA%E7%9A%84%E7%94%9F%E7%90%86%E5%8F%8D%E5%BA%94&t=31&band_rank=7&Refer=top)<br />
 8. [五月天鸟巢尾场唱任意门](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%E9%B8%9F%E5%B7%A2%E5%B0%BE%E5%9C%BA%E5%94%B1%E4%BB%BB%E6%84%8F%E9%97%A8&t=31&band_rank=8&Refer=top)<br />
-9. [梅西自宣离队](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%87%AA%E5%AE%A3%E7%A6%BB%E9%98%9F%23&t=31&band_rank=9&Refer=top)<br />
+9. [萌娃检查身体时突然向医生wink](https://s.weibo.com/weibo?q=%23%E8%90%8C%E5%A8%83%E6%A3%80%E6%9F%A5%E8%BA%AB%E4%BD%93%E6%97%B6%E7%AA%81%E7%84%B6%E5%90%91%E5%8C%BB%E7%94%9Fwink%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -21,8 +21,8 @@
 5. [日系车的溃缩吸能设计，是否有其理论上的合理性？](https://www.zhihu.com/question/604203550)<br />
 6. [什么叫做二次元游戏？](https://www.zhihu.com/question/30989488)<br />
 7. [距离高考还有四天的时候你们在想什么？有些焦虑，考不上好大学该怎么办？](https://www.zhihu.com/question/604608358)<br />
-8. [距离高考还有几天，有哪些建议给即将高考的学弟学妹们？](https://www.zhihu.com/question/461994623)<br />
-9. [艺考是一种捷径吗？](https://www.zhihu.com/question/596641667)<br />
+8. [艺考是一种捷径吗？](https://www.zhihu.com/question/596641667)<br />
+9. [波音 CEO 称 C919 是一架好飞机，但想满足需求还有很久，不该对全球有三家供应商生畏，如何解读？](https://www.zhihu.com/question/604411935)<br />
 
 > 百度  
 
