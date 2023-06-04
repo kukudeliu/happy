@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 18:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 18:07:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [四川乐山高位山体塌方14人遇难](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E4%B9%90%E5%B1%B1%E9%AB%98%E4%BD%8D%E5%B1%B1%E4%BD%93%E5%A1%8C%E6%96%B914%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=6&Refer=top)<br />
 7. [孟子义锐评任敏汤晶媚乐队事件](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E9%94%90%E8%AF%84%E4%BB%BB%E6%95%8F%E6%B1%A4%E6%99%B6%E5%AA%9A%E4%B9%90%E9%98%9F%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=7&Refer=top)<br />
 8. [小S大女儿获韩国舞蹈大赛第一名](https://s.weibo.com/weibo?q=%23%E5%B0%8FS%E5%A4%A7%E5%A5%B3%E5%84%BF%E8%8E%B7%E9%9F%A9%E5%9B%BD%E8%88%9E%E8%B9%88%E5%A4%A7%E8%B5%9B%E7%AC%AC%E4%B8%80%E5%90%8D%23&t=31&band_rank=8&Refer=top)<br />
-9. [蔡徐坤说叫我坤就可以了](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E8%AF%B4%E5%8F%AB%E6%88%91%E5%9D%A4%E5%B0%B1%E5%8F%AF%E4%BB%A5%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [瓜子厂老板停产帮乡亲烘麦子超10万斤](https://s.weibo.com/weibo?q=%23%E7%93%9C%E5%AD%90%E5%8E%82%E8%80%81%E6%9D%BF%E5%81%9C%E4%BA%A7%E5%B8%AE%E4%B9%A1%E4%BA%B2%E7%83%98%E9%BA%A6%E5%AD%90%E8%B6%8510%E4%B8%87%E6%96%A4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
