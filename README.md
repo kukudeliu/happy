@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 18:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 18:13:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [任敏 鸟鸟](https://s.weibo.com/weibo?q=%E4%BB%BB%E6%95%8F%20%E9%B8%9F%E9%B8%9F&t=31&band_rank=4&Refer=top)<br />
 5. [女店主拎起灭火器冲上前救火](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%BA%97%E4%B8%BB%E6%8B%8E%E8%B5%B7%E7%81%AD%E7%81%AB%E5%99%A8%E5%86%B2%E4%B8%8A%E5%89%8D%E6%95%91%E7%81%AB%23&t=31&band_rank=5&Refer=top)<br />
 6. [四川乐山高位山体塌方14人遇难](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E4%B9%90%E5%B1%B1%E9%AB%98%E4%BD%8D%E5%B1%B1%E4%BD%93%E5%A1%8C%E6%96%B914%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=6&Refer=top)<br />
-7. [孟子义锐评任敏汤晶媚乐队事件](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E9%94%90%E8%AF%84%E4%BB%BB%E6%95%8F%E6%B1%A4%E6%99%B6%E5%AA%9A%E4%B9%90%E9%98%9F%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=7&Refer=top)<br />
-8. [小S大女儿获韩国舞蹈大赛第一名](https://s.weibo.com/weibo?q=%23%E5%B0%8FS%E5%A4%A7%E5%A5%B3%E5%84%BF%E8%8E%B7%E9%9F%A9%E5%9B%BD%E8%88%9E%E8%B9%88%E5%A4%A7%E8%B5%9B%E7%AC%AC%E4%B8%80%E5%90%8D%23&t=31&band_rank=8&Refer=top)<br />
-9. [蔡徐坤说叫我坤就可以了](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E8%AF%B4%E5%8F%AB%E6%88%91%E5%9D%A4%E5%B0%B1%E5%8F%AF%E4%BB%A5%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+7. [瓜子厂老板停产帮乡亲烘麦子超10万斤](https://s.weibo.com/weibo?q=%23%E7%93%9C%E5%AD%90%E5%8E%82%E8%80%81%E6%9D%BF%E5%81%9C%E4%BA%A7%E5%B8%AE%E4%B9%A1%E4%BA%B2%E7%83%98%E9%BA%A6%E5%AD%90%E8%B6%8510%E4%B8%87%E6%96%A4%23&t=31&band_rank=7&Refer=top)<br />
+8. [孟子义锐评任敏汤晶媚乐队事件](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E9%94%90%E8%AF%84%E4%BB%BB%E6%95%8F%E6%B1%A4%E6%99%B6%E5%AA%9A%E4%B9%90%E9%98%9F%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=8&Refer=top)<br />
+9. [小S大女儿获韩国舞蹈大赛第一名](https://s.weibo.com/weibo?q=%23%E5%B0%8FS%E5%A4%A7%E5%A5%B3%E5%84%BF%E8%8E%B7%E9%9F%A9%E5%9B%BD%E8%88%9E%E8%B9%88%E5%A4%A7%E8%B5%9B%E7%AC%AC%E4%B8%80%E5%90%8D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -18,11 +18,11 @@
 2. [为什么一道几何题不添加辅助线就做不出来，添加了才做的出来，添加辅助线后多了条件吗?](https://www.zhihu.com/question/600468143)<br />
 3. [你请客吃饭，结账时发现有人私下拿好烟好酒记在账上，怎么应对？](https://www.zhihu.com/question/465991724)<br />
 4. [2022-23 赛季 NBA 总决赛掘金扑灭热火先拔头筹，约基奇 27+10+14，如何评价这场比赛？](https://www.zhihu.com/question/604369865)<br />
-5. [有哪些值得推荐的轻薄本型号？](https://www.zhihu.com/question/597627064)<br />
-6. [如何评价罗纳尔迪尼奥这名球星？](https://www.zhihu.com/question/597635714)<br />
-7. [在《笑傲江湖》中，为啥令狐冲能够与人人喊打的魔教中人打成一片？](https://www.zhihu.com/question/604133289)<br />
+5. [如何评价罗纳尔迪尼奥这名球星？](https://www.zhihu.com/question/597635714)<br />
+6. [在《笑傲江湖》中，为啥令狐冲能够与人人喊打的魔教中人打成一片？](https://www.zhihu.com/question/604133289)<br />
+7. [孩子在楼下玩被打了脸，对方家长下楼拒绝道歉该怎么办？](https://www.zhihu.com/question/602941549)<br />
 8. [微软宣布 Win11 原生支持解压 rar 文件，WinRAR 发图自嘲，你对此有何看法？](https://www.zhihu.com/question/604180951)<br />
-9. [孩子在楼下玩被打了脸，对方家长下楼拒绝道歉该怎么办？](https://www.zhihu.com/question/602941549)<br />
+9. [黄仁勋为什么只有 3.5% 的英伟达股份？](https://www.zhihu.com/question/603714039)<br />
 
 > 百度  
 
