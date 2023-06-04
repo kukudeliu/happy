@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 13:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 14:00:01</h4></div>
 
 > 微博  
 
-1. [任敏哭了](https://s.weibo.com/weibo?q=%E4%BB%BB%E6%95%8F%E5%93%AD%E4%BA%86&t=31&band_rank=1&Refer=top)<br />
-2. [我的脸被隐翅虫毁容了](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E8%84%B8%E8%A2%AB%E9%9A%90%E7%BF%85%E8%99%AB%E6%AF%81%E5%AE%B9%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
+1. [我的脸被隐翅虫毁容了](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E8%84%B8%E8%A2%AB%E9%9A%90%E7%BF%85%E8%99%AB%E6%AF%81%E5%AE%B9%E4%BA%86%23&t=31&band_rank=1&Refer=top)<br />
+2. [任敏哭了](https://s.weibo.com/weibo?q=%E4%BB%BB%E6%95%8F%E5%93%AD%E4%BA%86&t=31&band_rank=2&Refer=top)<br />
 3. [神十五航天员回地球](https://s.weibo.com/weibo?q=%23%E7%A5%9E%E5%8D%81%E4%BA%94%E8%88%AA%E5%A4%A9%E5%91%98%E5%9B%9E%E5%9C%B0%E7%90%83%23&t=31&band_rank=3&Refer=top)<br />
 4. [跑男打错范丞丞名字](https://s.weibo.com/weibo?q=%23%E8%B7%91%E7%94%B7%E6%89%93%E9%94%99%E8%8C%83%E4%B8%9E%E4%B8%9E%E5%90%8D%E5%AD%97%23&t=31&band_rank=4&Refer=top)<br />
 5. [79岁老人欲取离世儿子41万存款被拒](https://s.weibo.com/weibo?q=%2379%E5%B2%81%E8%80%81%E4%BA%BA%E6%AC%B2%E5%8F%96%E7%A6%BB%E4%B8%96%E5%84%BF%E5%AD%9041%E4%B8%87%E5%AD%98%E6%AC%BE%E8%A2%AB%E6%8B%92%23&t=31&band_rank=5&Refer=top)<br />
