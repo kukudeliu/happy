@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 13:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 13:14:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [女子考科三系错安全带考官面如死灰](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%80%83%E7%A7%91%E4%B8%89%E7%B3%BB%E9%94%99%E5%AE%89%E5%85%A8%E5%B8%A6%E8%80%83%E5%AE%98%E9%9D%A2%E5%A6%82%E6%AD%BB%E7%81%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [姑姑拍到侄女做梦吃雪糕](https://www.baidu.com/s?wd=%E5%A7%91%E5%A7%91%E6%8B%8D%E5%88%B0%E4%BE%84%E5%A5%B3%E5%81%9A%E6%A2%A6%E5%90%83%E9%9B%AA%E7%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [德国总理朔尔茨演讲时遭嘘](https://www.baidu.com/s?wd=%E5%BE%B7%E5%9B%BD%E6%80%BB%E7%90%86%E6%9C%94%E5%B0%94%E8%8C%A8%E6%BC%94%E8%AE%B2%E6%97%B6%E9%81%AD%E5%98%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [大叔和大爷抢占座位被乘客捶脸](https://www.baidu.com/s?wd=%E5%A4%A7%E5%8F%94%E5%92%8C%E5%A4%A7%E7%88%B7%E6%8A%A2%E5%8D%A0%E5%BA%A7%E4%BD%8D%E8%A2%AB%E4%B9%98%E5%AE%A2%E6%8D%B6%E8%84%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [张陆刚回地球就在想下次去太空了](https://www.baidu.com/s?wd=%E5%BC%A0%E9%99%86%E5%88%9A%E5%9B%9E%E5%9C%B0%E7%90%83%E5%B0%B1%E5%9C%A8%E6%83%B3%E4%B8%8B%E6%AC%A1%E5%8E%BB%E5%A4%AA%E7%A9%BA%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [女子考科三系错安全带考官面如死灰](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%80%83%E7%A7%91%E4%B8%89%E7%B3%BB%E9%94%99%E5%AE%89%E5%85%A8%E5%B8%A6%E8%80%83%E5%AE%98%E9%9D%A2%E5%A6%82%E6%AD%BB%E7%81%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [姑姑拍到侄女做梦吃雪糕](https://www.baidu.com/s?wd=%E5%A7%91%E5%A7%91%E6%8B%8D%E5%88%B0%E4%BE%84%E5%A5%B3%E5%81%9A%E6%A2%A6%E5%90%83%E9%9B%AA%E7%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [德国总理朔尔茨演讲时遭嘘](https://www.baidu.com/s?wd=%E5%BE%B7%E5%9B%BD%E6%80%BB%E7%90%86%E6%9C%94%E5%B0%94%E8%8C%A8%E6%BC%94%E8%AE%B2%E6%97%B6%E9%81%AD%E5%98%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [大叔和大爷抢占座位被乘客捶脸](https://www.baidu.com/s?wd=%E5%A4%A7%E5%8F%94%E5%92%8C%E5%A4%A7%E7%88%B7%E6%8A%A2%E5%8D%A0%E5%BA%A7%E4%BD%8D%E8%A2%AB%E4%B9%98%E5%AE%A2%E6%8D%B6%E8%84%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [张陆刚回地球就在想下次去太空了](https://www.baidu.com/s?wd=%E5%BC%A0%E9%99%86%E5%88%9A%E5%9B%9E%E5%9C%B0%E7%90%83%E5%B0%B1%E5%9C%A8%E6%83%B3%E4%B8%8B%E6%AC%A1%E5%8E%BB%E5%A4%AA%E7%A9%BA%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
