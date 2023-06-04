@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 19:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 19:39:01</h4></div>
 
 > 微博  
 
@@ -31,10 +31,10 @@
 3. [35岁男子为考清华复读14年](https://www.baidu.com/s?wd=35%E5%B2%81%E7%94%B7%E5%AD%90%E4%B8%BA%E8%80%83%E6%B8%85%E5%8D%8E%E5%A4%8D%E8%AF%BB14%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [揭秘航天搜救队](https://www.baidu.com/s?wd=%E6%8F%AD%E7%A7%98%E8%88%AA%E5%A4%A9%E6%90%9C%E6%95%91%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [多国出现偏肺病毒感染 尚无治疗药物](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E5%87%BA%E7%8E%B0%E5%81%8F%E8%82%BA%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93+%E5%B0%9A%E6%97%A0%E6%B2%BB%E7%96%97%E8%8D%AF%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [女生半夜嗦田螺肿成香肠嘴](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%8D%8A%E5%A4%9C%E5%97%A6%E7%94%B0%E8%9E%BA%E8%82%BF%E6%88%90%E9%A6%99%E8%82%A0%E5%98%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [四川山体塌方已致14人遇难5人失联](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%B1%B1%E4%BD%93%E5%A1%8C%E6%96%B9%E5%B7%B2%E8%87%B414%E4%BA%BA%E9%81%87%E9%9A%BE5%E4%BA%BA%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子路遇纸片鸟一查竟是国保动物](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B7%AF%E9%81%87%E7%BA%B8%E7%89%87%E9%B8%9F%E4%B8%80%E6%9F%A5%E7%AB%9F%E6%98%AF%E5%9B%BD%E4%BF%9D%E5%8A%A8%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [降压神药实为几毛钱的淀粉](https://www.baidu.com/s?wd=%E9%99%8D%E5%8E%8B%E7%A5%9E%E8%8D%AF%E5%AE%9E%E4%B8%BA%E5%87%A0%E6%AF%9B%E9%92%B1%E7%9A%84%E6%B7%80%E7%B2%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [男子路遇纸片鸟一查竟是国保动物](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B7%AF%E9%81%87%E7%BA%B8%E7%89%87%E9%B8%9F%E4%B8%80%E6%9F%A5%E7%AB%9F%E6%98%AF%E5%9B%BD%E4%BF%9D%E5%8A%A8%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女生半夜嗦田螺肿成香肠嘴](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%8D%8A%E5%A4%9C%E5%97%A6%E7%94%B0%E8%9E%BA%E8%82%BF%E6%88%90%E9%A6%99%E8%82%A0%E5%98%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [降压神药实为几毛钱的淀粉](https://www.baidu.com/s?wd=%E9%99%8D%E5%8E%8B%E7%A5%9E%E8%8D%AF%E5%AE%9E%E4%B8%BA%E5%87%A0%E6%AF%9B%E9%92%B1%E7%9A%84%E6%B7%80%E7%B2%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [高考临近阿姨们在夜店里跳广场舞](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E4%B8%B4%E8%BF%91%E9%98%BF%E5%A7%A8%E4%BB%AC%E5%9C%A8%E5%A4%9C%E5%BA%97%E9%87%8C%E8%B7%B3%E5%B9%BF%E5%9C%BA%E8%88%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [35岁男子为考清华复读14年](https://www.baidu.com/s?wd=35%E5%B2%81%E7%94%B7%E5%AD%90%E4%B8%BA%E8%80%83%E6%B8%85%E5%8D%8E%E5%A4%8D%E8%AF%BB14%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [揭秘航天搜救队](https://www.baidu.com/s?wd=%E6%8F%AD%E7%A7%98%E8%88%AA%E5%A4%A9%E6%90%9C%E6%95%91%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [多国出现偏肺病毒感染 尚无治疗药物](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E5%87%BA%E7%8E%B0%E5%81%8F%E8%82%BA%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93+%E5%B0%9A%E6%97%A0%E6%B2%BB%E7%96%97%E8%8D%AF%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [女生半夜嗦田螺肿成香肠嘴](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%8D%8A%E5%A4%9C%E5%97%A6%E7%94%B0%E8%9E%BA%E8%82%BF%E6%88%90%E9%A6%99%E8%82%A0%E5%98%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [四川山体塌方已致14人遇难5人失联](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%B1%B1%E4%BD%93%E5%A1%8C%E6%96%B9%E5%B7%B2%E8%87%B414%E4%BA%BA%E9%81%87%E9%9A%BE5%E4%BA%BA%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子路遇纸片鸟一查竟是国保动物](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B7%AF%E9%81%87%E7%BA%B8%E7%89%87%E9%B8%9F%E4%B8%80%E6%9F%A5%E7%AB%9F%E6%98%AF%E5%9B%BD%E4%BF%9D%E5%8A%A8%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [降压神药实为几毛钱的淀粉](https://www.baidu.com/s?wd=%E9%99%8D%E5%8E%8B%E7%A5%9E%E8%8D%AF%E5%AE%9E%E4%B8%BA%E5%87%A0%E6%AF%9B%E9%92%B1%E7%9A%84%E6%B7%80%E7%B2%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [男子路遇纸片鸟一查竟是国保动物](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B7%AF%E9%81%87%E7%BA%B8%E7%89%87%E9%B8%9F%E4%B8%80%E6%9F%A5%E7%AB%9F%E6%98%AF%E5%9B%BD%E4%BF%9D%E5%8A%A8%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女生半夜嗦田螺肿成香肠嘴](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%8D%8A%E5%A4%9C%E5%97%A6%E7%94%B0%E8%9E%BA%E8%82%BF%E6%88%90%E9%A6%99%E8%82%A0%E5%98%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [降压神药实为几毛钱的淀粉](https://www.baidu.com/s?wd=%E9%99%8D%E5%8E%8B%E7%A5%9E%E8%8D%AF%E5%AE%9E%E4%B8%BA%E5%87%A0%E6%AF%9B%E9%92%B1%E7%9A%84%E6%B7%80%E7%B2%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [高考临近阿姨们在夜店里跳广场舞](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E4%B8%B4%E8%BF%91%E9%98%BF%E5%A7%A8%E4%BB%AC%E5%9C%A8%E5%A4%9C%E5%BA%97%E9%87%8C%E8%B7%B3%E5%B9%BF%E5%9C%BA%E8%88%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
