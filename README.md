@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 18:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 18:59:01</h4></div>
 
 > 微博  
 
@@ -17,8 +17,8 @@
 1. [美加军舰过航台湾海峡，东部战区回应「全程跟监警戒，依法依规处置」，如何解读美、加此举意图？](https://www.zhihu.com/question/604645738)<br />
 2. [为什么一道几何题不添加辅助线就做不出来，添加了才做的出来，添加辅助线后多了条件吗?](https://www.zhihu.com/question/600468143)<br />
 3. [为什么很多课上会规定「学生可以喝白水，茶也勉强可以，但不能喝饮料」？这些饮料有什么本质区别吗？](https://www.zhihu.com/question/601191918)<br />
-4. [你请客吃饭，结账时发现有人私下拿好烟好酒记在账上，怎么应对？](https://www.zhihu.com/question/465991724)<br />
-5. [苏武在贝加尔湖牧羊，条件恶劣，挖食鼠粮草根为生，他为什么不吃羊？](https://www.zhihu.com/question/25483987)<br />
+4. [苏武在贝加尔湖牧羊，条件恶劣，挖食鼠粮草根为生，他为什么不吃羊？](https://www.zhihu.com/question/25483987)<br />
+5. [你请客吃饭，结账时发现有人私下拿好烟好酒记在账上，怎么应对？](https://www.zhihu.com/question/465991724)<br />
 6. [2022-23 赛季 NBA 总决赛掘金扑灭热火先拔头筹，约基奇 27+10+14，如何评价这场比赛？](https://www.zhihu.com/question/604369865)<br />
 7. [如何看待答主楚云卿的原创诗句「被选入」《诗经》？](https://www.zhihu.com/question/604719253)<br />
 8. [为什么中国没有「逻辑」这个词汇？](https://www.zhihu.com/question/602626141)<br />
@@ -33,8 +33,8 @@
 5. [多国出现偏肺病毒感染 尚无治疗药物](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E5%87%BA%E7%8E%B0%E5%81%8F%E8%82%BA%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93+%E5%B0%9A%E6%97%A0%E6%B2%BB%E7%96%97%E8%8D%AF%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女生半夜嗦田螺肿成香肠嘴](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%8D%8A%E5%A4%9C%E5%97%A6%E7%94%B0%E8%9E%BA%E8%82%BF%E6%88%90%E9%A6%99%E8%82%A0%E5%98%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子掉入鱼塘前紧急扔出手机](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8E%89%E5%85%A5%E9%B1%BC%E5%A1%98%E5%89%8D%E7%B4%A7%E6%80%A5%E6%89%94%E5%87%BA%E6%89%8B%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [环卫督查车人员抡铁棍威胁前车](https://www.baidu.com/s?wd=%E7%8E%AF%E5%8D%AB%E7%9D%A3%E6%9F%A5%E8%BD%A6%E4%BA%BA%E5%91%98%E6%8A%A1%E9%93%81%E6%A3%8D%E5%A8%81%E8%83%81%E5%89%8D%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [姑姑拍到侄女做梦吃雪糕](https://www.baidu.com/s?wd=%E5%A7%91%E5%A7%91%E6%8B%8D%E5%88%B0%E4%BE%84%E5%A5%B3%E5%81%9A%E6%A2%A6%E5%90%83%E9%9B%AA%E7%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [姑姑拍到侄女做梦吃雪糕](https://www.baidu.com/s?wd=%E5%A7%91%E5%A7%91%E6%8B%8D%E5%88%B0%E4%BE%84%E5%A5%B3%E5%81%9A%E6%A2%A6%E5%90%83%E9%9B%AA%E7%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [学校食堂吃出老鼠头？校方：鸭脖](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E9%A3%9F%E5%A0%82%E5%90%83%E5%87%BA%E8%80%81%E9%BC%A0%E5%A4%B4%EF%BC%9F%E6%A0%A1%E6%96%B9%EF%BC%9A%E9%B8%AD%E8%84%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [多国出现偏肺病毒感染 尚无治疗药物](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E5%87%BA%E7%8E%B0%E5%81%8F%E8%82%BA%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93+%E5%B0%9A%E6%97%A0%E6%B2%BB%E7%96%97%E8%8D%AF%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女生半夜嗦田螺肿成香肠嘴](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%8D%8A%E5%A4%9C%E5%97%A6%E7%94%B0%E8%9E%BA%E8%82%BF%E6%88%90%E9%A6%99%E8%82%A0%E5%98%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子掉入鱼塘前紧急扔出手机](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8E%89%E5%85%A5%E9%B1%BC%E5%A1%98%E5%89%8D%E7%B4%A7%E6%80%A5%E6%89%94%E5%87%BA%E6%89%8B%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [环卫督查车人员抡铁棍威胁前车](https://www.baidu.com/s?wd=%E7%8E%AF%E5%8D%AB%E7%9D%A3%E6%9F%A5%E8%BD%A6%E4%BA%BA%E5%91%98%E6%8A%A1%E9%93%81%E6%A3%8D%E5%A8%81%E8%83%81%E5%89%8D%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [姑姑拍到侄女做梦吃雪糕](https://www.baidu.com/s?wd=%E5%A7%91%E5%A7%91%E6%8B%8D%E5%88%B0%E4%BE%84%E5%A5%B3%E5%81%9A%E6%A2%A6%E5%90%83%E9%9B%AA%E7%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [姑姑拍到侄女做梦吃雪糕](https://www.baidu.com/s?wd=%E5%A7%91%E5%A7%91%E6%8B%8D%E5%88%B0%E4%BE%84%E5%A5%B3%E5%81%9A%E6%A2%A6%E5%90%83%E9%9B%AA%E7%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [学校食堂吃出老鼠头？校方：鸭脖](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E9%A3%9F%E5%A0%82%E5%90%83%E5%87%BA%E8%80%81%E9%BC%A0%E5%A4%B4%EF%BC%9F%E6%A0%A1%E6%96%B9%EF%BC%9A%E9%B8%AD%E8%84%96&sa=fyb_news&rsv_dl=fyb_news)<br />
