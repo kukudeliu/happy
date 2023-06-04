@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 23:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 23:05:01</h4></div>
 
 > 微博  
 
@@ -18,9 +18,9 @@
 2. [苏武在贝加尔湖牧羊，条件恶劣，挖食鼠粮草根为生，他为什么不吃羊？](https://www.zhihu.com/question/25483987)<br />
 3. [为什么很多课上会规定「学生可以喝白水，茶也勉强可以，但不能喝饮料」？这些饮料有什么本质区别吗？](https://www.zhihu.com/question/601191918)<br />
 4. [本田合资零部件厂商安斯泰莫承认造假，造假数量超 2 亿件，最长可追溯至 40 年前，此事暴露哪些问题？](https://www.zhihu.com/question/602979872)<br />
-5. [为什么英语没有把像 virtual 这样「出现即歧义」的单词淘汰掉?](https://www.zhihu.com/question/603452321)<br />
-6. [皇马官方宣布本泽马合同到期自由身离队，14 年 647 场打进 353 球，如何评价他的皇马生涯？](https://www.zhihu.com/question/604741814)<br />
-7. [2023 LPL 夏季赛 OMG 2:1 击败 WBG，如何评价这场比赛？](https://www.zhihu.com/question/604739881)<br />
+5. [2023 LPL 夏季赛 OMG 2:1 击败 WBG，如何评价这场比赛？](https://www.zhihu.com/question/604739881)<br />
+6. [为什么英语没有把像 virtual 这样「出现即歧义」的单词淘汰掉?](https://www.zhihu.com/question/603452321)<br />
+7. [皇马官方宣布本泽马合同到期自由身离队，14 年 647 场打进 353 球，如何评价他的皇马生涯？](https://www.zhihu.com/question/604741814)<br />
 8. [炖肉的时候，有时肉越炖越烂，有的时候却越炖越硬，这是为什么呢？背后有什么科学道理呢？](https://www.zhihu.com/question/507310446)<br />
 9. [如何评价《崩坏：星穹铁道》中的四星角色素裳？](https://www.zhihu.com/question/599375788)<br />
 
