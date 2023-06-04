@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 07:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 07:09:02</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [25岁女孩体重只有60多斤](https://www.baidu.com/s?wd=25%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%BD%93%E9%87%8D%E5%8F%AA%E6%9C%8960%E5%A4%9A%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [马斯克来华首日晚宴费用疑曝光](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%9D%A5%E5%8D%8E%E9%A6%96%E6%97%A5%E6%99%9A%E5%AE%B4%E8%B4%B9%E7%94%A8%E7%96%91%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [多国出现偏肺病毒感染 尚无治疗药物](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E5%87%BA%E7%8E%B0%E5%81%8F%E8%82%BA%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93+%E5%B0%9A%E6%97%A0%E6%B2%BB%E7%96%97%E8%8D%AF%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [孩子严重烫伤9天才被家长送医](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E4%B8%A5%E9%87%8D%E7%83%AB%E4%BC%A49%E5%A4%A9%E6%89%8D%E8%A2%AB%E5%AE%B6%E9%95%BF%E9%80%81%E5%8C%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [宁静即兴演皇后一秒入戏](https://www.baidu.com/s?wd=%E5%AE%81%E9%9D%99%E5%8D%B3%E5%85%B4%E6%BC%94%E7%9A%87%E5%90%8E%E4%B8%80%E7%A7%92%E5%85%A5%E6%88%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [宁静即兴演皇后一秒入戏](https://www.baidu.com/s?wd=%E5%AE%81%E9%9D%99%E5%8D%B3%E5%85%B4%E6%BC%94%E7%9A%87%E5%90%8E%E4%B8%80%E7%A7%92%E5%85%A5%E6%88%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [孩子严重烫伤9天才被家长送医](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E4%B8%A5%E9%87%8D%E7%83%AB%E4%BC%A49%E5%A4%A9%E6%89%8D%E8%A2%AB%E5%AE%B6%E9%95%BF%E9%80%81%E5%8C%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [25岁女孩体重只有60多斤](https://www.baidu.com/s?wd=25%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%BD%93%E9%87%8D%E5%8F%AA%E6%9C%8960%E5%A4%9A%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [马斯克来华首日晚宴费用疑曝光](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%9D%A5%E5%8D%8E%E9%A6%96%E6%97%A5%E6%99%9A%E5%AE%B4%E8%B4%B9%E7%94%A8%E7%96%91%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [多国出现偏肺病毒感染 尚无治疗药物](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E5%87%BA%E7%8E%B0%E5%81%8F%E8%82%BA%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93+%E5%B0%9A%E6%97%A0%E6%B2%BB%E7%96%97%E8%8D%AF%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [孩子严重烫伤9天才被家长送医](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E4%B8%A5%E9%87%8D%E7%83%AB%E4%BC%A49%E5%A4%A9%E6%89%8D%E8%A2%AB%E5%AE%B6%E9%95%BF%E9%80%81%E5%8C%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [宁静即兴演皇后一秒入戏](https://www.baidu.com/s?wd=%E5%AE%81%E9%9D%99%E5%8D%B3%E5%85%B4%E6%BC%94%E7%9A%87%E5%90%8E%E4%B8%80%E7%A7%92%E5%85%A5%E6%88%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [宁静即兴演皇后一秒入戏](https://www.baidu.com/s?wd=%E5%AE%81%E9%9D%99%E5%8D%B3%E5%85%B4%E6%BC%94%E7%9A%87%E5%90%8E%E4%B8%80%E7%A7%92%E5%85%A5%E6%88%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [孩子严重烫伤9天才被家长送医](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E4%B8%A5%E9%87%8D%E7%83%AB%E4%BC%A49%E5%A4%A9%E6%89%8D%E8%A2%AB%E5%AE%B6%E9%95%BF%E9%80%81%E5%8C%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
