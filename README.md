@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 23:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 23:52:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [4 个月卖出 1751.5 亿元，彩票正在以更多元的方式吸引着年轻人，年轻人为什么热衷买彩票？](https://www.zhihu.com/question/604618222)<br />
 5. [为什么很多课上会规定「学生可以喝白水，茶也勉强可以，但不能喝饮料」？这些饮料有什么本质区别吗？](https://www.zhihu.com/question/601191918)<br />
 6. [韩国出口连跌 8 个月，对中美欧出口全部下滑，芯片出口大跌 36.2%，受哪些因素影响？](https://www.zhihu.com/question/604222429)<br />
-7. [2023 LPL 夏季赛 OMG 2:1 击败 WBG，如何评价这场比赛？](https://www.zhihu.com/question/604739881)<br />
-8. [据不完全统计，《崩坏：星穹铁道》五月流水约为《原神》同月的 2.7 倍，如何评价？](https://www.zhihu.com/question/604195870)<br />
-9. [炖肉的时候，有时肉越炖越烂，有的时候却越炖越硬，这是为什么呢？背后有什么科学道理呢？](https://www.zhihu.com/question/507310446)<br />
+7. [据不完全统计，《崩坏：星穹铁道》五月流水约为《原神》同月的 2.7 倍，如何评价？](https://www.zhihu.com/question/604195870)<br />
+8. [炖肉的时候，有时肉越炖越烂，有的时候却越炖越硬，这是为什么呢？背后有什么科学道理呢？](https://www.zhihu.com/question/507310446)<br />
+9. [2023 LPL 夏季赛 OMG 2:1 击败 WBG，如何评价这场比赛？](https://www.zhihu.com/question/604739881)<br />
 
 > 百度  
 
@@ -31,10 +31,10 @@
 3. [最“卷”618来了 消费者买单吗？](https://www.baidu.com/s?wd=%E6%9C%80%E2%80%9C%E5%8D%B7%E2%80%9D618%E6%9D%A5%E4%BA%86+%E6%B6%88%E8%B4%B9%E8%80%85%E4%B9%B0%E5%8D%95%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [128秒回顾中国航天高燃时刻](https://www.baidu.com/s?wd=128%E7%A7%92%E5%9B%9E%E9%A1%BE%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E9%AB%98%E7%87%83%E6%97%B6%E5%88%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [25岁女孩体重只有60多斤](https://www.baidu.com/s?wd=25%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%BD%93%E9%87%8D%E5%8F%AA%E6%9C%8960%E5%A4%9A%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [女生半夜嗦田螺肿成香肠嘴](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%8D%8A%E5%A4%9C%E5%97%A6%E7%94%B0%E8%9E%BA%E8%82%BF%E6%88%90%E9%A6%99%E8%82%A0%E5%98%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [35岁男子为考清华复读14年](https://www.baidu.com/s?wd=35%E5%B2%81%E7%94%B7%E5%AD%90%E4%B8%BA%E8%80%83%E6%B8%85%E5%8D%8E%E5%A4%8D%E8%AF%BB14%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [国防部长：请各国管好自家军舰飞机](https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E9%83%A8%E9%95%BF%EF%BC%9A%E8%AF%B7%E5%90%84%E5%9B%BD%E7%AE%A1%E5%A5%BD%E8%87%AA%E5%AE%B6%E5%86%9B%E8%88%B0%E9%A3%9E%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [隐翅虫的毒液堪比硫酸](https://www.baidu.com/s?wd=%E9%9A%90%E7%BF%85%E8%99%AB%E7%9A%84%E6%AF%92%E6%B6%B2%E5%A0%AA%E6%AF%94%E7%A1%AB%E9%85%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [国防部长：请各国管好自家军舰飞机](https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E9%83%A8%E9%95%BF%EF%BC%9A%E8%AF%B7%E5%90%84%E5%9B%BD%E7%AE%A1%E5%A5%BD%E8%87%AA%E5%AE%B6%E5%86%9B%E8%88%B0%E9%A3%9E%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女生半夜嗦田螺肿成香肠嘴](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%8D%8A%E5%A4%9C%E5%97%A6%E7%94%B0%E8%9E%BA%E8%82%BF%E6%88%90%E9%A6%99%E8%82%A0%E5%98%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [35岁男子为考清华复读14年](https://www.baidu.com/s?wd=35%E5%B2%81%E7%94%B7%E5%AD%90%E4%B8%BA%E8%80%83%E6%B8%85%E5%8D%8E%E5%A4%8D%E8%AF%BB14%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [多国出现偏肺病毒感染 尚无治疗药物](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E5%87%BA%E7%8E%B0%E5%81%8F%E8%82%BA%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93+%E5%B0%9A%E6%97%A0%E6%B2%BB%E7%96%97%E8%8D%AF%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [最“卷”618来了 消费者买单吗？](https://www.baidu.com/s?wd=%E6%9C%80%E2%80%9C%E5%8D%B7%E2%80%9D618%E6%9D%A5%E4%BA%86+%E6%B6%88%E8%B4%B9%E8%80%85%E4%B9%B0%E5%8D%95%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [128秒回顾中国航天高燃时刻](https://www.baidu.com/s?wd=128%E7%A7%92%E5%9B%9E%E9%A1%BE%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E9%AB%98%E7%87%83%E6%97%B6%E5%88%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [25岁女孩体重只有60多斤](https://www.baidu.com/s?wd=25%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%BD%93%E9%87%8D%E5%8F%AA%E6%9C%8960%E5%A4%9A%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [女生半夜嗦田螺肿成香肠嘴](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%8D%8A%E5%A4%9C%E5%97%A6%E7%94%B0%E8%9E%BA%E8%82%BF%E6%88%90%E9%A6%99%E8%82%A0%E5%98%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [35岁男子为考清华复读14年](https://www.baidu.com/s?wd=35%E5%B2%81%E7%94%B7%E5%AD%90%E4%B8%BA%E8%80%83%E6%B8%85%E5%8D%8E%E5%A4%8D%E8%AF%BB14%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [国防部长：请各国管好自家军舰飞机](https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E9%83%A8%E9%95%BF%EF%BC%9A%E8%AF%B7%E5%90%84%E5%9B%BD%E7%AE%A1%E5%A5%BD%E8%87%AA%E5%AE%B6%E5%86%9B%E8%88%B0%E9%A3%9E%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [隐翅虫的毒液堪比硫酸](https://www.baidu.com/s?wd=%E9%9A%90%E7%BF%85%E8%99%AB%E7%9A%84%E6%AF%92%E6%B6%B2%E5%A0%AA%E6%AF%94%E7%A1%AB%E9%85%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [国防部长：请各国管好自家军舰飞机](https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E9%83%A8%E9%95%BF%EF%BC%9A%E8%AF%B7%E5%90%84%E5%9B%BD%E7%AE%A1%E5%A5%BD%E8%87%AA%E5%AE%B6%E5%86%9B%E8%88%B0%E9%A3%9E%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女生半夜嗦田螺肿成香肠嘴](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%8D%8A%E5%A4%9C%E5%97%A6%E7%94%B0%E8%9E%BA%E8%82%BF%E6%88%90%E9%A6%99%E8%82%A0%E5%98%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [35岁男子为考清华复读14年](https://www.baidu.com/s?wd=35%E5%B2%81%E7%94%B7%E5%AD%90%E4%B8%BA%E8%80%83%E6%B8%85%E5%8D%8E%E5%A4%8D%E8%AF%BB14%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [多国出现偏肺病毒感染 尚无治疗药物](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E5%87%BA%E7%8E%B0%E5%81%8F%E8%82%BA%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93+%E5%B0%9A%E6%97%A0%E6%B2%BB%E7%96%97%E8%8D%AF%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
