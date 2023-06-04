@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 21:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 21:10:01</h4></div>
 
 > 微博  
 
@@ -6,9 +6,9 @@
 2. [男子为考清华复读14年](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%BA%E8%80%83%E6%B8%85%E5%8D%8E%E5%A4%8D%E8%AF%BB14%E5%B9%B4%23&t=31&band_rank=2&Refer=top)<br />
 3. [圆梦乘组的高清笑颜](https://s.weibo.com/weibo?q=%23%E5%9C%86%E6%A2%A6%E4%B9%98%E7%BB%84%E7%9A%84%E9%AB%98%E6%B8%85%E7%AC%91%E9%A2%9C%23&t=31&band_rank=3&Refer=top)<br />
 4. [宋茜做错了什么](https://s.weibo.com/weibo?q=%E5%AE%8B%E8%8C%9C%E5%81%9A%E9%94%99%E4%BA%86%E4%BB%80%E4%B9%88&t=31&band_rank=4&Refer=top)<br />
-5. [市监局再次确认高校饭菜异物是鸭脖](https://s.weibo.com/weibo?q=%23%E5%B8%82%E7%9B%91%E5%B1%80%E5%86%8D%E6%AC%A1%E7%A1%AE%E8%AE%A4%E9%AB%98%E6%A0%A1%E9%A5%AD%E8%8F%9C%E5%BC%82%E7%89%A9%E6%98%AF%E9%B8%AD%E8%84%96%23&t=31&band_rank=5&Refer=top)<br />
-6. [国内出现偏肺病毒感染](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%86%85%E5%87%BA%E7%8E%B0%E5%81%8F%E8%82%BA%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93%23&t=31&band_rank=6&Refer=top)<br />
-7. [沈月cos陈小希](https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%9C%88cos%E9%99%88%E5%B0%8F%E5%B8%8C%23&t=31&band_rank=7&Refer=top)<br />
+5. [沈月cos陈小希](https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%9C%88cos%E9%99%88%E5%B0%8F%E5%B8%8C%23&t=31&band_rank=5&Refer=top)<br />
+6. [市监局再次确认高校饭菜异物是鸭脖](https://s.weibo.com/weibo?q=%23%E5%B8%82%E7%9B%91%E5%B1%80%E5%86%8D%E6%AC%A1%E7%A1%AE%E8%AE%A4%E9%AB%98%E6%A0%A1%E9%A5%AD%E8%8F%9C%E5%BC%82%E7%89%A9%E6%98%AF%E9%B8%AD%E8%84%96%23&t=31&band_rank=6&Refer=top)<br />
+7. [国内出现偏肺病毒感染](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%86%85%E5%87%BA%E7%8E%B0%E5%81%8F%E8%82%BA%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93%23&t=31&band_rank=7&Refer=top)<br />
 8. [孟子义用的什么化妆品](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E7%94%A8%E7%9A%84%E4%BB%80%E4%B9%88%E5%8C%96%E5%A6%86%E5%93%81%23&t=31&band_rank=8&Refer=top)<br />
 9. [宋茜汤晶媚聊天门遭罪](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%8C%9C%E6%B1%A4%E6%99%B6%E5%AA%9A%E8%81%8A%E5%A4%A9%E9%97%A8%E9%81%AD%E7%BD%AA%23&t=31&band_rank=9&Refer=top)<br />
 
