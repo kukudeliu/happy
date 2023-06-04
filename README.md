@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 08:46:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 08:47:01</h4></div>
 
 > 微博  
 
@@ -17,12 +17,12 @@
 1. [主动与中国防长握手后，美防长奥斯汀称「保持沟通渠道至关重要」，哪些信息值得关注？](https://www.zhihu.com/question/604590355)<br />
 2. [波音 CEO 称 C919 是一架好飞机，但想满足需求还有很久，不该对全球有三家供应商生畏，如何解读？](https://www.zhihu.com/question/604411935)<br />
 3. [2023 高考临近，作为考生或家长的你现在状态如何？是否会感到紧张焦虑？有哪些调节经验分享？](https://www.zhihu.com/question/604554083)<br />
-4. [什么叫做二次元游戏？](https://www.zhihu.com/question/30989488)<br />
-5. [每天花两个小时背单词，值得吗？](https://www.zhihu.com/question/445968666)<br />
-6. [马斯克之后，英伟达、摩根大通、星巴克、路威酩轩等公司 CEO 等外企高管再掀「来华潮」，释放哪些信号？](https://www.zhihu.com/question/604506301)<br />
+4. [为什么很多课上会规定「学生可以喝白水，茶也勉强可以，但不能喝饮料」？这些饮料有什么本质区别吗？](https://www.zhihu.com/question/601191918)<br />
+5. [什么叫做二次元游戏？](https://www.zhihu.com/question/30989488)<br />
+6. [每天花两个小时背单词，值得吗？](https://www.zhihu.com/question/445968666)<br />
 7. [如何看待国内服装尺码越来越小的现象？](https://www.zhihu.com/question/499028779)<br />
-8. [是大部分动物都喜欢被摸头吗？](https://www.zhihu.com/question/442523187)<br />
-9. [真人版《小美人鱼》口碑与票房双失利，仅仅是因为电影的选角吗？根本原因是什么？](https://www.zhihu.com/question/603607588)<br />
+8. [马斯克之后，英伟达、摩根大通、星巴克、路威酩轩等公司 CEO 等外企高管再掀「来华潮」，释放哪些信号？](https://www.zhihu.com/question/604506301)<br />
+9. [是大部分动物都喜欢被摸头吗？](https://www.zhihu.com/question/442523187)<br />
 
 > 百度  
 
