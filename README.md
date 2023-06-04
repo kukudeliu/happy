@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 16:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 16:36:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [直女发言聊天记录](https://s.weibo.com/weibo?q=%E7%9B%B4%E5%A5%B3%E5%8F%91%E8%A8%80%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95&t=31&band_rank=6&Refer=top)<br />
 7. [孟子义锐评任敏汤晶媚乐队事件](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E9%94%90%E8%AF%84%E4%BB%BB%E6%95%8F%E6%B1%A4%E6%99%B6%E5%AA%9A%E4%B9%90%E9%98%9F%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=7&Refer=top)<br />
 8. [蔡徐坤说叫我坤就可以了](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E8%AF%B4%E5%8F%AB%E6%88%91%E5%9D%A4%E5%B0%B1%E5%8F%AF%E4%BB%A5%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [卡卡 北京](https://s.weibo.com/weibo?q=%E5%8D%A1%E5%8D%A1%20%E5%8C%97%E4%BA%AC&t=31&band_rank=9&Refer=top)<br />
+9. [金智秀看了都得愣一下](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%BA%E7%A7%80%E7%9C%8B%E4%BA%86%E9%83%BD%E5%BE%97%E6%84%A3%E4%B8%80%E4%B8%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
