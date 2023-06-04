@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 20:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 20:34:01</h4></div>
 
 > 微博  
 
@@ -32,9 +32,9 @@
 4. [揭秘航天搜救队](https://www.baidu.com/s?wd=%E6%8F%AD%E7%A7%98%E8%88%AA%E5%A4%A9%E6%90%9C%E6%95%91%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [高考临近阿姨们在夜店里跳广场舞](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E4%B8%B4%E8%BF%91%E9%98%BF%E5%A7%A8%E4%BB%AC%E5%9C%A8%E5%A4%9C%E5%BA%97%E9%87%8C%E8%B7%B3%E5%B9%BF%E5%9C%BA%E8%88%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [最“卷”618来了 消费者买单吗？](https://www.baidu.com/s?wd=%E6%9C%80%E2%80%9C%E5%8D%B7%E2%80%9D618%E6%9D%A5%E4%BA%86+%E6%B6%88%E8%B4%B9%E8%80%85%E4%B9%B0%E5%8D%95%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [高考期间不要突击式补充能量](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4%E4%B8%8D%E8%A6%81%E7%AA%81%E5%87%BB%E5%BC%8F%E8%A1%A5%E5%85%85%E8%83%BD%E9%87%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [宁静即兴演皇后一秒入戏](https://www.baidu.com/s?wd=%E5%AE%81%E9%9D%99%E5%8D%B3%E5%85%B4%E6%BC%94%E7%9A%87%E5%90%8E%E4%B8%80%E7%A7%92%E5%85%A5%E6%88%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子掉入鱼塘前紧急扔出手机](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8E%89%E5%85%A5%E9%B1%BC%E5%A1%98%E5%89%8D%E7%B4%A7%E6%80%A5%E6%89%94%E5%87%BA%E6%89%8B%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [村庄修路挖出大石龟？官方通报](https://www.baidu.com/s?wd=%E6%9D%91%E5%BA%84%E4%BF%AE%E8%B7%AF%E6%8C%96%E5%87%BA%E5%A4%A7%E7%9F%B3%E9%BE%9F%EF%BC%9F%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子考科三系错安全带考官面如死灰](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%80%83%E7%A7%91%E4%B8%89%E7%B3%BB%E9%94%99%E5%AE%89%E5%85%A8%E5%B8%A6%E8%80%83%E5%AE%98%E9%9D%A2%E5%A6%82%E6%AD%BB%E7%81%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [揭秘航天搜救队](https://www.baidu.com/s?wd=%E6%8F%AD%E7%A7%98%E8%88%AA%E5%A4%A9%E6%90%9C%E6%95%91%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [高考临近阿姨们在夜店里跳广场舞](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E4%B8%B4%E8%BF%91%E9%98%BF%E5%A7%A8%E4%BB%AC%E5%9C%A8%E5%A4%9C%E5%BA%97%E9%87%8C%E8%B7%B3%E5%B9%BF%E5%9C%BA%E8%88%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [最“卷”618来了 消费者买单吗？](https://www.baidu.com/s?wd=%E6%9C%80%E2%80%9C%E5%8D%B7%E2%80%9D618%E6%9D%A5%E4%BA%86+%E6%B6%88%E8%B4%B9%E8%80%85%E4%B9%B0%E5%8D%95%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [高考期间不要突击式补充能量](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4%E4%B8%8D%E8%A6%81%E7%AA%81%E5%87%BB%E5%BC%8F%E8%A1%A5%E5%85%85%E8%83%BD%E9%87%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [宁静即兴演皇后一秒入戏](https://www.baidu.com/s?wd=%E5%AE%81%E9%9D%99%E5%8D%B3%E5%85%B4%E6%BC%94%E7%9A%87%E5%90%8E%E4%B8%80%E7%A7%92%E5%85%A5%E6%88%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子掉入鱼塘前紧急扔出手机](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8E%89%E5%85%A5%E9%B1%BC%E5%A1%98%E5%89%8D%E7%B4%A7%E6%80%A5%E6%89%94%E5%87%BA%E6%89%8B%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [村庄修路挖出大石龟？官方通报](https://www.baidu.com/s?wd=%E6%9D%91%E5%BA%84%E4%BF%AE%E8%B7%AF%E6%8C%96%E5%87%BA%E5%A4%A7%E7%9F%B3%E9%BE%9F%EF%BC%9F%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子考科三系错安全带考官面如死灰](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%80%83%E7%A7%91%E4%B8%89%E7%B3%BB%E9%94%99%E5%AE%89%E5%85%A8%E5%B8%A6%E8%80%83%E5%AE%98%E9%9D%A2%E5%A6%82%E6%AD%BB%E7%81%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
