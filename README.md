@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 14:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 14:27:02</h4></div>
 
 > 微博  
 
@@ -6,9 +6,9 @@
 2. [任敏哭了](https://s.weibo.com/weibo?q=%E4%BB%BB%E6%95%8F%E5%93%AD%E4%BA%86&t=31&band_rank=2&Refer=top)<br />
 3. [神十五航天员回地球](https://s.weibo.com/weibo?q=%23%E7%A5%9E%E5%8D%81%E4%BA%94%E8%88%AA%E5%A4%A9%E5%91%98%E5%9B%9E%E5%9C%B0%E7%90%83%23&t=31&band_rank=3&Refer=top)<br />
 4. [卡卡 北京](https://s.weibo.com/weibo?q=%E5%8D%A1%E5%8D%A1%20%E5%8C%97%E4%BA%AC&t=31&band_rank=4&Refer=top)<br />
-5. [你觉得椰树直播算擦边吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%A7%89%E5%BE%97%E6%A4%B0%E6%A0%91%E7%9B%B4%E6%92%AD%E7%AE%97%E6%93%A6%E8%BE%B9%E5%90%97%23&t=31&band_rank=5&Refer=top)<br />
-6. [蔡徐坤说叫我坤就可以了](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E8%AF%B4%E5%8F%AB%E6%88%91%E5%9D%A4%E5%B0%B1%E5%8F%AF%E4%BB%A5%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [因为开玩笑把我哥订婚搅黄了](https://s.weibo.com/weibo?q=%23%E5%9B%A0%E4%B8%BA%E5%BC%80%E7%8E%A9%E7%AC%91%E6%8A%8A%E6%88%91%E5%93%A5%E8%AE%A2%E5%A9%9A%E6%90%85%E9%BB%84%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+5. [因为开玩笑把我哥订婚搅黄了](https://s.weibo.com/weibo?q=%23%E5%9B%A0%E4%B8%BA%E5%BC%80%E7%8E%A9%E7%AC%91%E6%8A%8A%E6%88%91%E5%93%A5%E8%AE%A2%E5%A9%9A%E6%90%85%E9%BB%84%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
+6. [你觉得椰树直播算擦边吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%A7%89%E5%BE%97%E6%A4%B0%E6%A0%91%E7%9B%B4%E6%92%AD%E7%AE%97%E6%93%A6%E8%BE%B9%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
+7. [蔡徐坤说叫我坤就可以了](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E8%AF%B4%E5%8F%AB%E6%88%91%E5%9D%A4%E5%B0%B1%E5%8F%AF%E4%BB%A5%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [张子豪 淘汰](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%AD%90%E8%B1%AA%20%E6%B7%98%E6%B1%B0&t=31&band_rank=8&Refer=top)<br />
 9. [79岁老人欲取离世儿子41万存款被拒](https://s.weibo.com/weibo?q=%2379%E5%B2%81%E8%80%81%E4%BA%BA%E6%AC%B2%E5%8F%96%E7%A6%BB%E4%B8%96%E5%84%BF%E5%AD%9041%E4%B8%87%E5%AD%98%E6%AC%BE%E8%A2%AB%E6%8B%92%23&t=31&band_rank=9&Refer=top)<br />
 
