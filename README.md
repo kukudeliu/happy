@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 16:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 16:05:01</h4></div>
 
 > 微博  
 
@@ -17,12 +17,12 @@
 1. [美加军舰过航台湾海峡，东部战区回应「全程跟监警戒，依法依规处置」，如何解读美、加此举意图？](https://www.zhihu.com/question/604645738)<br />
 2. [为什么一道几何题不添加辅助线就做不出来，添加了才做的出来，添加辅助线后多了条件吗?](https://www.zhihu.com/question/600468143)<br />
 3. [你请客吃饭，结账时发现有人私下拿好烟好酒记在账上，怎么应对？](https://www.zhihu.com/question/465991724)<br />
-4. [小朋友到底应不应该购买 Switch?](https://www.zhihu.com/question/595138566)<br />
+4. [在《笑傲江湖》中，为啥令狐冲能够与人人喊打的魔教中人打成一片？](https://www.zhihu.com/question/604133289)<br />
 5. [神舟十五号载人飞船返回舱成功着陆，航天员费俊龙邓清明张陆顺利出舱健康状态良好，如何评价这次任务的意义？](https://www.zhihu.com/question/604011587)<br />
-6. [在《笑傲江湖》中，为啥令狐冲能够与人人喊打的魔教中人打成一片？](https://www.zhihu.com/question/604133289)<br />
-7. [你是从什么时候爱上骑自行车的？你骑车最远一次骑到了哪里，总共花了多长时间？](https://www.zhihu.com/question/603621804)<br />
+6. [你是从什么时候爱上骑自行车的？你骑车最远一次骑到了哪里，总共花了多长时间？](https://www.zhihu.com/question/603621804)<br />
+7. [如何评价罗纳尔迪尼奥这名球星？](https://www.zhihu.com/question/597635714)<br />
 8. [微软宣布 Win11 原生支持解压 rar 文件，WinRAR 发图自嘲，你对此有何看法？](https://www.zhihu.com/question/604180951)<br />
-9. [如何评价罗纳尔迪尼奥这名球星？](https://www.zhihu.com/question/597635714)<br />
+9. [小朋友到底应不应该购买 Switch?](https://www.zhihu.com/question/595138566)<br />
 
 > 百度  
 
