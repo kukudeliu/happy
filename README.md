@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 11:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 11:38:01</h4></div>
 
 > 微博  
 
 1. [你觉得椰树直播算擦边吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%A7%89%E5%BE%97%E6%A4%B0%E6%A0%91%E7%9B%B4%E6%92%AD%E7%AE%97%E6%93%A6%E8%BE%B9%E5%90%97%23&t=31&band_rank=1&Refer=top)<br />
-2. [姑姑拍到侄女做梦吃雪糕](https://s.weibo.com/weibo?q=%23%E5%A7%91%E5%A7%91%E6%8B%8D%E5%88%B0%E4%BE%84%E5%A5%B3%E5%81%9A%E6%A2%A6%E5%90%83%E9%9B%AA%E7%B3%95%23&t=31&band_rank=2&Refer=top)<br />
+2. [79岁老人欲取离世儿子41万存款被拒](https://s.weibo.com/weibo?q=%2379%E5%B2%81%E8%80%81%E4%BA%BA%E6%AC%B2%E5%8F%96%E7%A6%BB%E4%B8%96%E5%84%BF%E5%AD%9041%E4%B8%87%E5%AD%98%E6%AC%BE%E8%A2%AB%E6%8B%92%23&t=31&band_rank=2&Refer=top)<br />
 3. [神十五航天员回地球](https://s.weibo.com/weibo?q=%23%E7%A5%9E%E5%8D%81%E4%BA%94%E8%88%AA%E5%A4%A9%E5%91%98%E5%9B%9E%E5%9C%B0%E7%90%83%23&t=31&band_rank=3&Refer=top)<br />
-4. [79岁老人欲取离世儿子41万存款被拒](https://s.weibo.com/weibo?q=%2379%E5%B2%81%E8%80%81%E4%BA%BA%E6%AC%B2%E5%8F%96%E7%A6%BB%E4%B8%96%E5%84%BF%E5%AD%9041%E4%B8%87%E5%AD%98%E6%AC%BE%E8%A2%AB%E6%8B%92%23&t=31&band_rank=4&Refer=top)<br />
+4. [姑姑拍到侄女做梦吃雪糕](https://s.weibo.com/weibo?q=%23%E5%A7%91%E5%A7%91%E6%8B%8D%E5%88%B0%E4%BE%84%E5%A5%B3%E5%81%9A%E6%A2%A6%E5%90%83%E9%9B%AA%E7%B3%95%23&t=31&band_rank=4&Refer=top)<br />
 5. [我曾一度认为是超市算错了](https://s.weibo.com/weibo?q=%E6%88%91%E6%9B%BE%E4%B8%80%E5%BA%A6%E8%AE%A4%E4%B8%BA%E6%98%AF%E8%B6%85%E5%B8%82%E7%AE%97%E9%94%99%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
 6. [千万不要把水果当饭吃](https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E6%8A%8A%E6%B0%B4%E6%9E%9C%E5%BD%93%E9%A5%AD%E5%90%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [肖战迪丽热巴赵露思V榜破9](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%B5%B5%E9%9C%B2%E6%80%9DV%E6%A6%9C%E7%A0%B49%23&t=31&band_rank=7&Refer=top)<br />
