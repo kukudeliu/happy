@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 06:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 06:11:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [为什么篮球比赛进入小球时代?](https://www.zhihu.com/question/603469936)<br />
 6. [高考前该怎么调整心态？](https://www.zhihu.com/question/604041092)<br />
 7. [为什么英语没有把像 virtual 这样「出现即歧义」的单词淘汰掉?](https://www.zhihu.com/question/603452321)<br />
-8. []()<br />
-9. [炖肉的时候，有时肉越炖越烂，有的时候却越炖越硬，这是为什么呢？背后有什么科学道理呢？](https://www.zhihu.com/question/507310446)<br />
+8. [炖肉的时候，有时肉越炖越烂，有的时候却越炖越硬，这是为什么呢？背后有什么科学道理呢？](https://www.zhihu.com/question/507310446)<br />
+9. [《塞尔达传说：王国之泪》地下世界感觉有点压抑，怎么玩比较好？](https://www.zhihu.com/question/600762687)<br />
 
 > 百度  
 
