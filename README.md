@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 21:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 21:35:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [宋茜做错了什么](https://s.weibo.com/weibo?q=%E5%AE%8B%E8%8C%9C%E5%81%9A%E9%94%99%E4%BA%86%E4%BB%80%E4%B9%88&t=31&band_rank=5&Refer=top)<br />
 6. [国内出现偏肺病毒感染](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%86%85%E5%87%BA%E7%8E%B0%E5%81%8F%E8%82%BA%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93%23&t=31&band_rank=6&Refer=top)<br />
 7. [黑莲花 成毅](https://s.weibo.com/weibo?q=%E9%BB%91%E8%8E%B2%E8%8A%B1%20%E6%88%90%E6%AF%85&t=31&band_rank=7&Refer=top)<br />
-8. [男子为考清华复读14年](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%BA%E8%80%83%E6%B8%85%E5%8D%8E%E5%A4%8D%E8%AF%BB14%E5%B9%B4%23&t=31&band_rank=8&Refer=top)<br />
-9. [沈月cos陈小希](https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%9C%88cos%E9%99%88%E5%B0%8F%E5%B8%8C%23&t=31&band_rank=9&Refer=top)<br />
+8. [沈月cos陈小希](https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%9C%88cos%E9%99%88%E5%B0%8F%E5%B8%8C%23&t=31&band_rank=8&Refer=top)<br />
+9. [男子为考清华复读14年](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%BA%E8%80%83%E6%B8%85%E5%8D%8E%E5%A4%8D%E8%AF%BB14%E5%B9%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -33,8 +33,8 @@
 5. [中国防长“香会”发言释放哪些信号](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%98%B2%E9%95%BF%E2%80%9C%E9%A6%99%E4%BC%9A%E2%80%9D%E5%8F%91%E8%A8%80%E9%87%8A%E6%94%BE%E5%93%AA%E4%BA%9B%E4%BF%A1%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [孩子严重烫伤9天才被家长送医](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E4%B8%A5%E9%87%8D%E7%83%AB%E4%BC%A49%E5%A4%A9%E6%89%8D%E8%A2%AB%E5%AE%B6%E9%95%BF%E9%80%81%E5%8C%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [小麦机收大比武主持人一句话引热议](https://www.baidu.com/s?wd=%E5%B0%8F%E9%BA%A6%E6%9C%BA%E6%94%B6%E5%A4%A7%E6%AF%94%E6%AD%A6%E4%B8%BB%E6%8C%81%E4%BA%BA%E4%B8%80%E5%8F%A5%E8%AF%9D%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [姑姑拍到侄女做梦吃雪糕](https://www.baidu.com/s?wd=%E5%A7%91%E5%A7%91%E6%8B%8D%E5%88%B0%E4%BE%84%E5%A5%B3%E5%81%9A%E6%A2%A6%E5%90%83%E9%9B%AA%E7%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [多国出现偏肺病毒感染 尚无治疗药物](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E5%87%BA%E7%8E%B0%E5%81%8F%E8%82%BA%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93+%E5%B0%9A%E6%97%A0%E6%B2%BB%E7%96%97%E8%8D%AF%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [多国出现偏肺病毒感染 尚无治疗药物](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E5%87%BA%E7%8E%B0%E5%81%8F%E8%82%BA%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93+%E5%B0%9A%E6%97%A0%E6%B2%BB%E7%96%97%E8%8D%AF%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [宁静即兴演皇后一秒入戏](https://www.baidu.com/s?wd=%E5%AE%81%E9%9D%99%E5%8D%B3%E5%85%B4%E6%BC%94%E7%9A%87%E5%90%8E%E4%B8%80%E7%A7%92%E5%85%A5%E6%88%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [中国防长“香会”发言释放哪些信号](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%98%B2%E9%95%BF%E2%80%9C%E9%A6%99%E4%BC%9A%E2%80%9D%E5%8F%91%E8%A8%80%E9%87%8A%E6%94%BE%E5%93%AA%E4%BA%9B%E4%BF%A1%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [孩子严重烫伤9天才被家长送医](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E4%B8%A5%E9%87%8D%E7%83%AB%E4%BC%A49%E5%A4%A9%E6%89%8D%E8%A2%AB%E5%AE%B6%E9%95%BF%E9%80%81%E5%8C%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [小麦机收大比武主持人一句话引热议](https://www.baidu.com/s?wd=%E5%B0%8F%E9%BA%A6%E6%9C%BA%E6%94%B6%E5%A4%A7%E6%AF%94%E6%AD%A6%E4%B8%BB%E6%8C%81%E4%BA%BA%E4%B8%80%E5%8F%A5%E8%AF%9D%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [姑姑拍到侄女做梦吃雪糕](https://www.baidu.com/s?wd=%E5%A7%91%E5%A7%91%E6%8B%8D%E5%88%B0%E4%BE%84%E5%A5%B3%E5%81%9A%E6%A2%A6%E5%90%83%E9%9B%AA%E7%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [多国出现偏肺病毒感染 尚无治疗药物](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E5%87%BA%E7%8E%B0%E5%81%8F%E8%82%BA%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93+%E5%B0%9A%E6%97%A0%E6%B2%BB%E7%96%97%E8%8D%AF%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [多国出现偏肺病毒感染 尚无治疗药物](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E5%87%BA%E7%8E%B0%E5%81%8F%E8%82%BA%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93+%E5%B0%9A%E6%97%A0%E6%B2%BB%E7%96%97%E8%8D%AF%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [宁静即兴演皇后一秒入戏](https://www.baidu.com/s?wd=%E5%AE%81%E9%9D%99%E5%8D%B3%E5%85%B4%E6%BC%94%E7%9A%87%E5%90%8E%E4%B8%80%E7%A7%92%E5%85%A5%E6%88%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
