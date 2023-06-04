@@ -1,16 +1,7 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 09:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 09:05:01</h4></div>
 
 > 微博  
 
-1. [千万不要把水果当饭吃](https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E6%8A%8A%E6%B0%B4%E6%9E%9C%E5%BD%93%E9%A5%AD%E5%90%83%23&t=31&band_rank=1&Refer=top)<br />
-2. [女孩父母回应网传黄渤放弃资助](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E7%88%B6%E6%AF%8D%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E9%BB%84%E6%B8%A4%E6%94%BE%E5%BC%83%E8%B5%84%E5%8A%A9%23&t=31&band_rank=2&Refer=top)<br />
-3. [神十五航天员回地球](https://s.weibo.com/weibo?q=%23%E7%A5%9E%E5%8D%81%E4%BA%94%E8%88%AA%E5%A4%A9%E5%91%98%E5%9B%9E%E5%9C%B0%E7%90%83%23&t=31&band_rank=3&Refer=top)<br />
-4. [女孩家长称黄渤赠送手表未送给弟弟](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%AE%B6%E9%95%BF%E7%A7%B0%E9%BB%84%E6%B8%A4%E8%B5%A0%E9%80%81%E6%89%8B%E8%A1%A8%E6%9C%AA%E9%80%81%E7%BB%99%E5%BC%9F%E5%BC%9F%23&t=31&band_rank=4&Refer=top)<br />
-5. [原配抓小三路人帮腔大骂男方不要脸](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E9%85%8D%E6%8A%93%E5%B0%8F%E4%B8%89%E8%B7%AF%E4%BA%BA%E5%B8%AE%E8%85%94%E5%A4%A7%E9%AA%82%E7%94%B7%E6%96%B9%E4%B8%8D%E8%A6%81%E8%84%B8%23&t=31&band_rank=5&Refer=top)<br />
-6. [梅西自宣离队](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%87%AA%E5%AE%A3%E7%A6%BB%E9%98%9F%23&t=31&band_rank=6&Refer=top)<br />
-7. [萌娃检查身体时突然向医生wink](https://s.weibo.com/weibo?q=%23%E8%90%8C%E5%A8%83%E6%A3%80%E6%9F%A5%E8%BA%AB%E4%BD%93%E6%97%B6%E7%AA%81%E7%84%B6%E5%90%91%E5%8C%BB%E7%94%9Fwink%23&t=31&band_rank=7&Refer=top)<br />
-8. [一人说一个奇怪的生理反应](https://s.weibo.com/weibo?q=%E4%B8%80%E4%BA%BA%E8%AF%B4%E4%B8%80%E4%B8%AA%E5%A5%87%E6%80%AA%E7%9A%84%E7%94%9F%E7%90%86%E5%8F%8D%E5%BA%94&t=31&band_rank=8&Refer=top)<br />
-9. [杨紫撑伞回眸](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E6%92%91%E4%BC%9E%E5%9B%9E%E7%9C%B8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +13,7 @@
 6. [如何看待国内服装尺码越来越小的现象？](https://www.zhihu.com/question/499028779)<br />
 7. [马斯克之后，英伟达、摩根大通、星巴克、路威酩轩等公司 CEO 等外企高管再掀「来华潮」，释放哪些信号？](https://www.zhihu.com/question/604506301)<br />
 8. [现代汉语是否应该引入「冇」的概念来更精准表达「没有」的含义?](https://www.zhihu.com/question/604176704)<br />
-9. [《西游记》中的世界地图是什么样的？](https://www.zhihu.com/question/37555090)<br />
+9. [真人版《小美人鱼》口碑与票房双失利，仅仅是因为电影的选角吗？根本原因是什么？](https://www.zhihu.com/question/603607588)<br />
 
 > 百度  
 
