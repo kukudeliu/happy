@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 16:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 16:20:02</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [35岁男子为考清华复读14年](https://www.baidu.com/s?wd=35%E5%B2%81%E7%94%B7%E5%AD%90%E4%B8%BA%E8%80%83%E6%B8%85%E5%8D%8E%E5%A4%8D%E8%AF%BB14%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [莫迪视察事故现场 这两幕激怒印度人](https://www.baidu.com/s?wd=%E8%8E%AB%E8%BF%AA%E8%A7%86%E5%AF%9F%E4%BA%8B%E6%95%85%E7%8E%B0%E5%9C%BA+%E8%BF%99%E4%B8%A4%E5%B9%95%E6%BF%80%E6%80%92%E5%8D%B0%E5%BA%A6%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [神十五乘组平安抵京](https://www.baidu.com/s?wd=%E7%A5%9E%E5%8D%81%E4%BA%94%E4%B9%98%E7%BB%84%E5%B9%B3%E5%AE%89%E6%8A%B5%E4%BA%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [加媒称目睹中国军舰横切逼美舰改道](https://www.baidu.com/s?wd=%E5%8A%A0%E5%AA%92%E7%A7%B0%E7%9B%AE%E7%9D%B9%E4%B8%AD%E5%9B%BD%E5%86%9B%E8%88%B0%E6%A8%AA%E5%88%87%E9%80%BC%E7%BE%8E%E8%88%B0%E6%94%B9%E9%81%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [学生溺亡学校只让家属看脸?校方通报](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E6%BA%BA%E4%BA%A1%E5%AD%A6%E6%A0%A1%E5%8F%AA%E8%AE%A9%E5%AE%B6%E5%B1%9E%E7%9C%8B%E8%84%B8%3F%E6%A0%A1%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [35岁男子为考清华复读14年](https://www.baidu.com/s?wd=35%E5%B2%81%E7%94%B7%E5%AD%90%E4%B8%BA%E8%80%83%E6%B8%85%E5%8D%8E%E5%A4%8D%E8%AF%BB14%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [莫迪视察事故现场 这两幕激怒印度人](https://www.baidu.com/s?wd=%E8%8E%AB%E8%BF%AA%E8%A7%86%E5%AF%9F%E4%BA%8B%E6%95%85%E7%8E%B0%E5%9C%BA+%E8%BF%99%E4%B8%A4%E5%B9%95%E6%BF%80%E6%80%92%E5%8D%B0%E5%BA%A6%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [神十五乘组平安抵京](https://www.baidu.com/s?wd=%E7%A5%9E%E5%8D%81%E4%BA%94%E4%B9%98%E7%BB%84%E5%B9%B3%E5%AE%89%E6%8A%B5%E4%BA%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [加媒称目睹中国军舰横切逼美舰改道](https://www.baidu.com/s?wd=%E5%8A%A0%E5%AA%92%E7%A7%B0%E7%9B%AE%E7%9D%B9%E4%B8%AD%E5%9B%BD%E5%86%9B%E8%88%B0%E6%A8%AA%E5%88%87%E9%80%BC%E7%BE%8E%E8%88%B0%E6%94%B9%E9%81%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [学生溺亡学校只让家属看脸?校方通报](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E6%BA%BA%E4%BA%A1%E5%AD%A6%E6%A0%A1%E5%8F%AA%E8%AE%A9%E5%AE%B6%E5%B1%9E%E7%9C%8B%E8%84%B8%3F%E6%A0%A1%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
