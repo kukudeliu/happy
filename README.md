@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 06:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 06:43:01</h4></div>
 
 > 微博  
 
@@ -20,8 +20,8 @@
 4. [为什么篮球比赛进入小球时代?](https://www.zhihu.com/question/603469936)<br />
 5. []()<br />
 6. []()<br />
-7. [炖肉的时候，有时肉越炖越烂，有的时候却越炖越硬，这是为什么呢？背后有什么科学道理呢？](https://www.zhihu.com/question/507310446)<br />
-8. [在县城，公务员晋升正科难吗？](https://www.zhihu.com/question/597393632)<br />
+7. [在县城，公务员晋升正科难吗？](https://www.zhihu.com/question/597393632)<br />
+8. [炖肉的时候，有时肉越炖越烂，有的时候却越炖越硬，这是为什么呢？背后有什么科学道理呢？](https://www.zhihu.com/question/507310446)<br />
 9. []()<br />
 
 > 百度  
