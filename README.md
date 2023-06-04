@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 13:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 13:59:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [姑姑拍到侄女做梦吃雪糕](https://www.baidu.com/s?wd=%E5%A7%91%E5%A7%91%E6%8B%8D%E5%88%B0%E4%BE%84%E5%A5%B3%E5%81%9A%E6%A2%A6%E5%90%83%E9%9B%AA%E7%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [印度列车相撞事故或由信号错误导致](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E5%88%97%E8%BD%A6%E7%9B%B8%E6%92%9E%E4%BA%8B%E6%95%85%E6%88%96%E7%94%B1%E4%BF%A1%E5%8F%B7%E9%94%99%E8%AF%AF%E5%AF%BC%E8%87%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [跑男打错范丞丞名字](https://www.baidu.com/s?wd=%E8%B7%91%E7%94%B7%E6%89%93%E9%94%99%E8%8C%83%E4%B8%9E%E4%B8%9E%E5%90%8D%E5%AD%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子路遇纸片鸟一查竟是国保动物](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B7%AF%E9%81%87%E7%BA%B8%E7%89%87%E9%B8%9F%E4%B8%80%E6%9F%A5%E7%AB%9F%E6%98%AF%E5%9B%BD%E4%BF%9D%E5%8A%A8%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [“多巴胺”穿搭真会让人快乐吗？](https://www.baidu.com/s?wd=%E2%80%9C%E5%A4%9A%E5%B7%B4%E8%83%BA%E2%80%9D%E7%A9%BF%E6%90%AD%E7%9C%9F%E4%BC%9A%E8%AE%A9%E4%BA%BA%E5%BF%AB%E4%B9%90%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [姑姑拍到侄女做梦吃雪糕](https://www.baidu.com/s?wd=%E5%A7%91%E5%A7%91%E6%8B%8D%E5%88%B0%E4%BE%84%E5%A5%B3%E5%81%9A%E6%A2%A6%E5%90%83%E9%9B%AA%E7%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [印度列车相撞事故或由信号错误导致](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E5%88%97%E8%BD%A6%E7%9B%B8%E6%92%9E%E4%BA%8B%E6%95%85%E6%88%96%E7%94%B1%E4%BF%A1%E5%8F%B7%E9%94%99%E8%AF%AF%E5%AF%BC%E8%87%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [跑男打错范丞丞名字](https://www.baidu.com/s?wd=%E8%B7%91%E7%94%B7%E6%89%93%E9%94%99%E8%8C%83%E4%B8%9E%E4%B8%9E%E5%90%8D%E5%AD%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子路遇纸片鸟一查竟是国保动物](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B7%AF%E9%81%87%E7%BA%B8%E7%89%87%E9%B8%9F%E4%B8%80%E6%9F%A5%E7%AB%9F%E6%98%AF%E5%9B%BD%E4%BF%9D%E5%8A%A8%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [“多巴胺”穿搭真会让人快乐吗？](https://www.baidu.com/s?wd=%E2%80%9C%E5%A4%9A%E5%B7%B4%E8%83%BA%E2%80%9D%E7%A9%BF%E6%90%AD%E7%9C%9F%E4%BC%9A%E8%AE%A9%E4%BA%BA%E5%BF%AB%E4%B9%90%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
