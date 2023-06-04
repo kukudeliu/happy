@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 23:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 23:16:01</h4></div>
 
 > 微博  
 
@@ -32,9 +32,9 @@
 4. [128秒回顾中国航天高燃时刻](https://www.baidu.com/s?wd=128%E7%A7%92%E5%9B%9E%E9%A1%BE%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E9%AB%98%E7%87%83%E6%97%B6%E5%88%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [四川山体垮塌已致19死 原因正调查](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%B1%B1%E4%BD%93%E5%9E%AE%E5%A1%8C%E5%B7%B2%E8%87%B419%E6%AD%BB+%E5%8E%9F%E5%9B%A0%E6%AD%A3%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [25岁女孩体重只有60多斤](https://www.baidu.com/s?wd=25%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%BD%93%E9%87%8D%E5%8F%AA%E6%9C%8960%E5%A4%9A%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [宁静即兴演皇后一秒入戏](https://www.baidu.com/s?wd=%E5%AE%81%E9%9D%99%E5%8D%B3%E5%85%B4%E6%BC%94%E7%9A%87%E5%90%8E%E4%B8%80%E7%A7%92%E5%85%A5%E6%88%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [孩子严重烫伤9天才被家长送医](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E4%B8%A5%E9%87%8D%E7%83%AB%E4%BC%A49%E5%A4%A9%E6%89%8D%E8%A2%AB%E5%AE%B6%E9%95%BF%E9%80%81%E5%8C%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [日本女团成员灌男粉丝喝洗洁精](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%9B%A2%E6%88%90%E5%91%98%E7%81%8C%E7%94%B7%E7%B2%89%E4%B8%9D%E5%96%9D%E6%B4%97%E6%B4%81%E7%B2%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [孩子严重烫伤9天才被家长送医](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E4%B8%A5%E9%87%8D%E7%83%AB%E4%BC%A49%E5%A4%A9%E6%89%8D%E8%A2%AB%E5%AE%B6%E9%95%BF%E9%80%81%E5%8C%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [日本女团成员灌男粉丝喝洗洁精](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%9B%A2%E6%88%90%E5%91%98%E7%81%8C%E7%94%B7%E7%B2%89%E4%B8%9D%E5%96%9D%E6%B4%97%E6%B4%81%E7%B2%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [宁静即兴演皇后一秒入戏](https://www.baidu.com/s?wd=%E5%AE%81%E9%9D%99%E5%8D%B3%E5%85%B4%E6%BC%94%E7%9A%87%E5%90%8E%E4%B8%80%E7%A7%92%E5%85%A5%E6%88%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [128秒回顾中国航天高燃时刻](https://www.baidu.com/s?wd=128%E7%A7%92%E5%9B%9E%E9%A1%BE%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E9%AB%98%E7%87%83%E6%97%B6%E5%88%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [四川山体垮塌已致19死 原因正调查](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%B1%B1%E4%BD%93%E5%9E%AE%E5%A1%8C%E5%B7%B2%E8%87%B419%E6%AD%BB+%E5%8E%9F%E5%9B%A0%E6%AD%A3%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [25岁女孩体重只有60多斤](https://www.baidu.com/s?wd=25%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%BD%93%E9%87%8D%E5%8F%AA%E6%9C%8960%E5%A4%9A%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [宁静即兴演皇后一秒入戏](https://www.baidu.com/s?wd=%E5%AE%81%E9%9D%99%E5%8D%B3%E5%85%B4%E6%BC%94%E7%9A%87%E5%90%8E%E4%B8%80%E7%A7%92%E5%85%A5%E6%88%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [孩子严重烫伤9天才被家长送医](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E4%B8%A5%E9%87%8D%E7%83%AB%E4%BC%A49%E5%A4%A9%E6%89%8D%E8%A2%AB%E5%AE%B6%E9%95%BF%E9%80%81%E5%8C%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [日本女团成员灌男粉丝喝洗洁精](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%9B%A2%E6%88%90%E5%91%98%E7%81%8C%E7%94%B7%E7%B2%89%E4%B8%9D%E5%96%9D%E6%B4%97%E6%B4%81%E7%B2%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [孩子严重烫伤9天才被家长送医](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E4%B8%A5%E9%87%8D%E7%83%AB%E4%BC%A49%E5%A4%A9%E6%89%8D%E8%A2%AB%E5%AE%B6%E9%95%BF%E9%80%81%E5%8C%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [日本女团成员灌男粉丝喝洗洁精](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%9B%A2%E6%88%90%E5%91%98%E7%81%8C%E7%94%B7%E7%B2%89%E4%B8%9D%E5%96%9D%E6%B4%97%E6%B4%81%E7%B2%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [宁静即兴演皇后一秒入戏](https://www.baidu.com/s?wd=%E5%AE%81%E9%9D%99%E5%8D%B3%E5%85%B4%E6%BC%94%E7%9A%87%E5%90%8E%E4%B8%80%E7%A7%92%E5%85%A5%E6%88%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
