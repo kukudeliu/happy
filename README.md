@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 09:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 09:12:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [原配抓小三路人帮腔大骂男方不要脸](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E9%85%8D%E6%8A%93%E5%B0%8F%E4%B8%89%E8%B7%AF%E4%BA%BA%E5%B8%AE%E8%85%94%E5%A4%A7%E9%AA%82%E7%94%B7%E6%96%B9%E4%B8%8D%E8%A6%81%E8%84%B8%23&t=31&band_rank=5&Refer=top)<br />
 6. [梅西自宣离队](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%87%AA%E5%AE%A3%E7%A6%BB%E9%98%9F%23&t=31&band_rank=6&Refer=top)<br />
 7. [一人说一个奇怪的生理反应](https://s.weibo.com/weibo?q=%E4%B8%80%E4%BA%BA%E8%AF%B4%E4%B8%80%E4%B8%AA%E5%A5%87%E6%80%AA%E7%9A%84%E7%94%9F%E7%90%86%E5%8F%8D%E5%BA%94&t=31&band_rank=7&Refer=top)<br />
-8. [萌娃检查身体时突然向医生wink](https://s.weibo.com/weibo?q=%23%E8%90%8C%E5%A8%83%E6%A3%80%E6%9F%A5%E8%BA%AB%E4%BD%93%E6%97%B6%E7%AA%81%E7%84%B6%E5%90%91%E5%8C%BB%E7%94%9Fwink%23&t=31&band_rank=8&Refer=top)<br />
-9. [杨紫撑伞回眸](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E6%92%91%E4%BC%9E%E5%9B%9E%E7%9C%B8%23&t=31&band_rank=9&Refer=top)<br />
+8. [杨紫撑伞回眸](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E6%92%91%E4%BC%9E%E5%9B%9E%E7%9C%B8%23&t=31&band_rank=8&Refer=top)<br />
+9. [阿信说谢谢华晨宇同台飙歌](https://s.weibo.com/weibo?q=%23%E9%98%BF%E4%BF%A1%E8%AF%B4%E8%B0%A2%E8%B0%A2%E5%8D%8E%E6%99%A8%E5%AE%87%E5%90%8C%E5%8F%B0%E9%A3%99%E6%AD%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
