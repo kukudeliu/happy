@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 11:21:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 11:22:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [黄仁勋为什么只有 3.5% 的英伟达股份？](https://www.zhihu.com/question/603714039)<br />
 7. [微软宣布 Win11 原生支持解压 rar 文件，WinRAR 发图自嘲，你对此有何看法？](https://www.zhihu.com/question/604180951)<br />
 8. [五月百城二手住宅均价环比下跌 0.25%，北京二手房成交量跌破 1.3 万套，六月楼市会怎么走？](https://www.zhihu.com/question/604444104)<br />
-9. [距离高考还有四天的时候你们在想什么？有些焦虑，考不上好大学该怎么办？](https://www.zhihu.com/question/604608358)<br />
+9. [皇马官宣阿扎尔离队提前一年解约，四年收获 8 冠共出战 76 场打进 7 球，如何评价他的表现？](https://www.zhihu.com/question/604699099)<br />
 
 > 百度  
 
