@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 19:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 19:28:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [沈月cos陈小希](https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%9C%88cos%E9%99%88%E5%B0%8F%E5%B8%8C%23&t=31&band_rank=6&Refer=top)<br />
 7. [女店主拎起灭火器冲上前救火](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%BA%97%E4%B8%BB%E6%8B%8E%E8%B5%B7%E7%81%AD%E7%81%AB%E5%99%A8%E5%86%B2%E4%B8%8A%E5%89%8D%E6%95%91%E7%81%AB%23&t=31&band_rank=7&Refer=top)<br />
 8. [孟子义锐评任敏汤晶媚乐队事件](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E9%94%90%E8%AF%84%E4%BB%BB%E6%95%8F%E6%B1%A4%E6%99%B6%E5%AA%9A%E4%B9%90%E9%98%9F%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=8&Refer=top)<br />
-9. [直女发言聊天记录](https://s.weibo.com/weibo?q=%E7%9B%B4%E5%A5%B3%E5%8F%91%E8%A8%80%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95&t=31&band_rank=9&Refer=top)<br />
+9. [市监局再次确认高校饭菜异物是鸭脖](https://s.weibo.com/weibo?q=%23%E5%B8%82%E7%9B%91%E5%B1%80%E5%86%8D%E6%AC%A1%E7%A1%AE%E8%AE%A4%E9%AB%98%E6%A0%A1%E9%A5%AD%E8%8F%9C%E5%BC%82%E7%89%A9%E6%98%AF%E9%B8%AD%E8%84%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -21,8 +21,8 @@
 5. [你请客吃饭，结账时发现有人私下拿好烟好酒记在账上，怎么应对？](https://www.zhihu.com/question/465991724)<br />
 6. [如何看待答主楚云卿的原创诗句被自媒体「选入」《诗经》？](https://www.zhihu.com/question/604719253)<br />
 7. [为什么中国没有「逻辑」这个词汇？](https://www.zhihu.com/question/602626141)<br />
-8. [2022-23 赛季 NBA 总决赛掘金扑灭热火先拔头筹，约基奇 27+10+14，如何评价这场比赛？](https://www.zhihu.com/question/604369865)<br />
-9. []()<br />
+8. []()<br />
+9. [2022-23 赛季 NBA 总决赛掘金扑灭热火先拔头筹，约基奇 27+10+14，如何评价这场比赛？](https://www.zhihu.com/question/604369865)<br />
 
 > 百度  
 
