@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 20:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 20:25:01</h4></div>
 
 > 微博  
 
@@ -27,10 +27,10 @@
 > 百度  
 
 1. [新时代新的文化使命](https://www.baidu.com/s?wd=%E6%96%B0%E6%97%B6%E4%BB%A3%E6%96%B0%E7%9A%84%E6%96%87%E5%8C%96%E4%BD%BF%E5%91%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [国防部长：请各国管好自家军舰飞机](https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E9%83%A8%E9%95%BF%EF%BC%9A%E8%AF%B7%E5%90%84%E5%9B%BD%E7%AE%A1%E5%A5%BD%E8%87%AA%E5%AE%B6%E5%86%9B%E8%88%B0%E9%A3%9E%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [高校饭菜吃出老鼠头？市监局：鸭脖](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E9%A5%AD%E8%8F%9C%E5%90%83%E5%87%BA%E8%80%81%E9%BC%A0%E5%A4%B4%EF%BC%9F%E5%B8%82%E7%9B%91%E5%B1%80%EF%BC%9A%E9%B8%AD%E8%84%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [35岁男子为考清华复读14年](https://www.baidu.com/s?wd=35%E5%B2%81%E7%94%B7%E5%AD%90%E4%B8%BA%E8%80%83%E6%B8%85%E5%8D%8E%E5%A4%8D%E8%AF%BB14%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [揭秘航天搜救队](https://www.baidu.com/s?wd=%E6%8F%AD%E7%A7%98%E8%88%AA%E5%A4%A9%E6%90%9C%E6%95%91%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [高校饭菜吃出老鼠头？市监局：鸭脖](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E9%A5%AD%E8%8F%9C%E5%90%83%E5%87%BA%E8%80%81%E9%BC%A0%E5%A4%B4%EF%BC%9F%E5%B8%82%E7%9B%91%E5%B1%80%EF%BC%9A%E9%B8%AD%E8%84%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [丁薛祥检查高考准备工作](https://www.baidu.com/s?wd=%E4%B8%81%E8%96%9B%E7%A5%A5%E6%A3%80%E6%9F%A5%E9%AB%98%E8%80%83%E5%87%86%E5%A4%87%E5%B7%A5%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [最“卷”618来了 消费者买单吗？](https://www.baidu.com/s?wd=%E6%9C%80%E2%80%9C%E5%8D%B7%E2%80%9D618%E6%9D%A5%E4%BA%86+%E6%B6%88%E8%B4%B9%E8%80%85%E4%B9%B0%E5%8D%95%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [广西出台新规防“烂尾楼”](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E5%87%BA%E5%8F%B0%E6%96%B0%E8%A7%84%E9%98%B2%E2%80%9C%E7%83%82%E5%B0%BE%E6%A5%BC%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [北岳恒山山火系人为用火引发](https://www.baidu.com/s?wd=%E5%8C%97%E5%B2%B3%E6%81%92%E5%B1%B1%E5%B1%B1%E7%81%AB%E7%B3%BB%E4%BA%BA%E4%B8%BA%E7%94%A8%E7%81%AB%E5%BC%95%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -39,10 +39,10 @@
 > 哔哩哔哩  
 
 1. [新时代新的文化使命](https://www.baidu.com/s?wd=%E6%96%B0%E6%97%B6%E4%BB%A3%E6%96%B0%E7%9A%84%E6%96%87%E5%8C%96%E4%BD%BF%E5%91%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [国防部长：请各国管好自家军舰飞机](https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E9%83%A8%E9%95%BF%EF%BC%9A%E8%AF%B7%E5%90%84%E5%9B%BD%E7%AE%A1%E5%A5%BD%E8%87%AA%E5%AE%B6%E5%86%9B%E8%88%B0%E9%A3%9E%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [高校饭菜吃出老鼠头？市监局：鸭脖](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E9%A5%AD%E8%8F%9C%E5%90%83%E5%87%BA%E8%80%81%E9%BC%A0%E5%A4%B4%EF%BC%9F%E5%B8%82%E7%9B%91%E5%B1%80%EF%BC%9A%E9%B8%AD%E8%84%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [35岁男子为考清华复读14年](https://www.baidu.com/s?wd=35%E5%B2%81%E7%94%B7%E5%AD%90%E4%B8%BA%E8%80%83%E6%B8%85%E5%8D%8E%E5%A4%8D%E8%AF%BB14%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [揭秘航天搜救队](https://www.baidu.com/s?wd=%E6%8F%AD%E7%A7%98%E8%88%AA%E5%A4%A9%E6%90%9C%E6%95%91%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [高校饭菜吃出老鼠头？市监局：鸭脖](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E9%A5%AD%E8%8F%9C%E5%90%83%E5%87%BA%E8%80%81%E9%BC%A0%E5%A4%B4%EF%BC%9F%E5%B8%82%E7%9B%91%E5%B1%80%EF%BC%9A%E9%B8%AD%E8%84%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [丁薛祥检查高考准备工作](https://www.baidu.com/s?wd=%E4%B8%81%E8%96%9B%E7%A5%A5%E6%A3%80%E6%9F%A5%E9%AB%98%E8%80%83%E5%87%86%E5%A4%87%E5%B7%A5%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [最“卷”618来了 消费者买单吗？](https://www.baidu.com/s?wd=%E6%9C%80%E2%80%9C%E5%8D%B7%E2%80%9D618%E6%9D%A5%E4%BA%86+%E6%B6%88%E8%B4%B9%E8%80%85%E4%B9%B0%E5%8D%95%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [广西出台新规防“烂尾楼”](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E5%87%BA%E5%8F%B0%E6%96%B0%E8%A7%84%E9%98%B2%E2%80%9C%E7%83%82%E5%B0%BE%E6%A5%BC%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [北岳恒山山火系人为用火引发](https://www.baidu.com/s?wd=%E5%8C%97%E5%B2%B3%E6%81%92%E5%B1%B1%E5%B1%B1%E7%81%AB%E7%B3%BB%E4%BA%BA%E4%B8%BA%E7%94%A8%E7%81%AB%E5%BC%95%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
