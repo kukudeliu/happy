@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 20:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 20:35:01</h4></div>
 
 > 微博  
 
@@ -17,8 +17,8 @@
 1. [美加军舰过航台湾海峡，东部战区回应「全程跟监警戒，依法依规处置」，如何解读美、加此举意图？](https://www.zhihu.com/question/604645738)<br />
 2. [为什么很多课上会规定「学生可以喝白水，茶也勉强可以，但不能喝饮料」？这些饮料有什么本质区别吗？](https://www.zhihu.com/question/601191918)<br />
 3. [苏武在贝加尔湖牧羊，条件恶劣，挖食鼠粮草根为生，他为什么不吃羊？](https://www.zhihu.com/question/25483987)<br />
-4. [为什么中国没有「逻辑」这个词汇？](https://www.zhihu.com/question/602626141)<br />
-5. [如何看待答主楚云卿的原创诗句被自媒体「选入」《诗经》？](https://www.zhihu.com/question/604719253)<br />
+4. [如何看待答主楚云卿的原创诗句被自媒体「选入」《诗经》？](https://www.zhihu.com/question/604719253)<br />
+5. [为什么中国没有「逻辑」这个词汇？](https://www.zhihu.com/question/602626141)<br />
 6. [你是如何理解「TCP 是面向字节流的协议」的？](https://www.zhihu.com/question/602003556)<br />
 7. [今年有多少护士辞职?](https://www.zhihu.com/question/597224517)<br />
 8. [你请客吃饭，结账时发现有人私下拿好烟好酒记在账上，怎么应对？](https://www.zhihu.com/question/465991724)<br />
