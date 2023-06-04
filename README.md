@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 19:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 19:59:02</h4></div>
 
 > 微博  
 
@@ -17,10 +17,10 @@
 1. [美加军舰过航台湾海峡，东部战区回应「全程跟监警戒，依法依规处置」，如何解读美、加此举意图？](https://www.zhihu.com/question/604645738)<br />
 2. [为什么很多课上会规定「学生可以喝白水，茶也勉强可以，但不能喝饮料」？这些饮料有什么本质区别吗？](https://www.zhihu.com/question/601191918)<br />
 3. [苏武在贝加尔湖牧羊，条件恶劣，挖食鼠粮草根为生，他为什么不吃羊？](https://www.zhihu.com/question/25483987)<br />
-4. [如何看待答主楚云卿的原创诗句被自媒体「选入」《诗经》？](https://www.zhihu.com/question/604719253)<br />
-5. [为什么中国没有「逻辑」这个词汇？](https://www.zhihu.com/question/602626141)<br />
-6. [你请客吃饭，结账时发现有人私下拿好烟好酒记在账上，怎么应对？](https://www.zhihu.com/question/465991724)<br />
-7. [你是如何理解「TCP 是面向字节流的协议」的？](https://www.zhihu.com/question/602003556)<br />
+4. [为什么中国没有「逻辑」这个词汇？](https://www.zhihu.com/question/602626141)<br />
+5. [如何看待答主楚云卿的原创诗句被自媒体「选入」《诗经》？](https://www.zhihu.com/question/604719253)<br />
+6. [你是如何理解「TCP 是面向字节流的协议」的？](https://www.zhihu.com/question/602003556)<br />
+7. [你请客吃饭，结账时发现有人私下拿好烟好酒记在账上，怎么应对？](https://www.zhihu.com/question/465991724)<br />
 8. [今年有多少护士辞职?](https://www.zhihu.com/question/597224517)<br />
 9. [为什么一道几何题不添加辅助线就做不出来，添加了才做的出来，添加辅助线后多了条件吗?](https://www.zhihu.com/question/600468143)<br />
 
@@ -31,10 +31,10 @@
 3. [35岁男子为考清华复读14年](https://www.baidu.com/s?wd=35%E5%B2%81%E7%94%B7%E5%AD%90%E4%B8%BA%E8%80%83%E6%B8%85%E5%8D%8E%E5%A4%8D%E8%AF%BB14%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [揭秘航天搜救队](https://www.baidu.com/s?wd=%E6%8F%AD%E7%A7%98%E8%88%AA%E5%A4%A9%E6%90%9C%E6%95%91%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [多国出现偏肺病毒感染 尚无治疗药物](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E5%87%BA%E7%8E%B0%E5%81%8F%E8%82%BA%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93+%E5%B0%9A%E6%97%A0%E6%B2%BB%E7%96%97%E8%8D%AF%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [78岁科学家任洪都拉斯首任驻华大使](https://www.baidu.com/s?wd=78%E5%B2%81%E7%A7%91%E5%AD%A6%E5%AE%B6%E4%BB%BB%E6%B4%AA%E9%83%BD%E6%8B%89%E6%96%AF%E9%A6%96%E4%BB%BB%E9%A9%BB%E5%8D%8E%E5%A4%A7%E4%BD%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [降压神药实为几毛钱的淀粉](https://www.baidu.com/s?wd=%E9%99%8D%E5%8E%8B%E7%A5%9E%E8%8D%AF%E5%AE%9E%E4%B8%BA%E5%87%A0%E6%AF%9B%E9%92%B1%E7%9A%84%E6%B7%80%E7%B2%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女生半夜嗦田螺肿成香肠嘴](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%8D%8A%E5%A4%9C%E5%97%A6%E7%94%B0%E8%9E%BA%E8%82%BF%E6%88%90%E9%A6%99%E8%82%A0%E5%98%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [高考临近阿姨们在夜店里跳广场舞](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E4%B8%B4%E8%BF%91%E9%98%BF%E5%A7%A8%E4%BB%AC%E5%9C%A8%E5%A4%9C%E5%BA%97%E9%87%8C%E8%B7%B3%E5%B9%BF%E5%9C%BA%E8%88%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [降压神药实为几毛钱的淀粉](https://www.baidu.com/s?wd=%E9%99%8D%E5%8E%8B%E7%A5%9E%E8%8D%AF%E5%AE%9E%E4%B8%BA%E5%87%A0%E6%AF%9B%E9%92%B1%E7%9A%84%E6%B7%80%E7%B2%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女生半夜嗦田螺肿成香肠嘴](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%8D%8A%E5%A4%9C%E5%97%A6%E7%94%B0%E8%9E%BA%E8%82%BF%E6%88%90%E9%A6%99%E8%82%A0%E5%98%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [高考临近阿姨们在夜店里跳广场舞](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E4%B8%B4%E8%BF%91%E9%98%BF%E5%A7%A8%E4%BB%AC%E5%9C%A8%E5%A4%9C%E5%BA%97%E9%87%8C%E8%B7%B3%E5%B9%BF%E5%9C%BA%E8%88%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [姑姑拍到侄女做梦吃雪糕](https://www.baidu.com/s?wd=%E5%A7%91%E5%A7%91%E6%8B%8D%E5%88%B0%E4%BE%84%E5%A5%B3%E5%81%9A%E6%A2%A6%E5%90%83%E9%9B%AA%E7%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [35岁男子为考清华复读14年](https://www.baidu.com/s?wd=35%E5%B2%81%E7%94%B7%E5%AD%90%E4%B8%BA%E8%80%83%E6%B8%85%E5%8D%8E%E5%A4%8D%E8%AF%BB14%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [揭秘航天搜救队](https://www.baidu.com/s?wd=%E6%8F%AD%E7%A7%98%E8%88%AA%E5%A4%A9%E6%90%9C%E6%95%91%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [多国出现偏肺病毒感染 尚无治疗药物](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E5%87%BA%E7%8E%B0%E5%81%8F%E8%82%BA%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93+%E5%B0%9A%E6%97%A0%E6%B2%BB%E7%96%97%E8%8D%AF%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [78岁科学家任洪都拉斯首任驻华大使](https://www.baidu.com/s?wd=78%E5%B2%81%E7%A7%91%E5%AD%A6%E5%AE%B6%E4%BB%BB%E6%B4%AA%E9%83%BD%E6%8B%89%E6%96%AF%E9%A6%96%E4%BB%BB%E9%A9%BB%E5%8D%8E%E5%A4%A7%E4%BD%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [降压神药实为几毛钱的淀粉](https://www.baidu.com/s?wd=%E9%99%8D%E5%8E%8B%E7%A5%9E%E8%8D%AF%E5%AE%9E%E4%B8%BA%E5%87%A0%E6%AF%9B%E9%92%B1%E7%9A%84%E6%B7%80%E7%B2%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女生半夜嗦田螺肿成香肠嘴](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%8D%8A%E5%A4%9C%E5%97%A6%E7%94%B0%E8%9E%BA%E8%82%BF%E6%88%90%E9%A6%99%E8%82%A0%E5%98%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [高考临近阿姨们在夜店里跳广场舞](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E4%B8%B4%E8%BF%91%E9%98%BF%E5%A7%A8%E4%BB%AC%E5%9C%A8%E5%A4%9C%E5%BA%97%E9%87%8C%E8%B7%B3%E5%B9%BF%E5%9C%BA%E8%88%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [降压神药实为几毛钱的淀粉](https://www.baidu.com/s?wd=%E9%99%8D%E5%8E%8B%E7%A5%9E%E8%8D%AF%E5%AE%9E%E4%B8%BA%E5%87%A0%E6%AF%9B%E9%92%B1%E7%9A%84%E6%B7%80%E7%B2%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女生半夜嗦田螺肿成香肠嘴](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%8D%8A%E5%A4%9C%E5%97%A6%E7%94%B0%E8%9E%BA%E8%82%BF%E6%88%90%E9%A6%99%E8%82%A0%E5%98%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [高考临近阿姨们在夜店里跳广场舞](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E4%B8%B4%E8%BF%91%E9%98%BF%E5%A7%A8%E4%BB%AC%E5%9C%A8%E5%A4%9C%E5%BA%97%E9%87%8C%E8%B7%B3%E5%B9%BF%E5%9C%BA%E8%88%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [姑姑拍到侄女做梦吃雪糕](https://www.baidu.com/s?wd=%E5%A7%91%E5%A7%91%E6%8B%8D%E5%88%B0%E4%BE%84%E5%A5%B3%E5%81%9A%E6%A2%A6%E5%90%83%E9%9B%AA%E7%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
