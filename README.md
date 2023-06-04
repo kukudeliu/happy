@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 23:23:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 23:24:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [宋茜做错了什么](https://s.weibo.com/weibo?q=%E5%AE%8B%E8%8C%9C%E5%81%9A%E9%94%99%E4%BA%86%E4%BB%80%E4%B9%88&t=31&band_rank=5&Refer=top)<br />
 6. [国内出现偏肺病毒感染](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%86%85%E5%87%BA%E7%8E%B0%E5%81%8F%E8%82%BA%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93%23&t=31&band_rank=6&Refer=top)<br />
 7. [爷爷把微信当书信用](https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E6%8A%8A%E5%BE%AE%E4%BF%A1%E5%BD%93%E4%B9%A6%E4%BF%A1%E7%94%A8%23&t=31&band_rank=7&Refer=top)<br />
-8. [全世界都在等你们分手](https://s.weibo.com/weibo?q=%E5%85%A8%E4%B8%96%E7%95%8C%E9%83%BD%E5%9C%A8%E7%AD%89%E4%BD%A0%E4%BB%AC%E5%88%86%E6%89%8B&t=31&band_rank=8&Refer=top)<br />
-9. [王鹤棣孟子义不考虑合作现偶吗](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%AD%9F%E5%AD%90%E4%B9%89%E4%B8%8D%E8%80%83%E8%99%91%E5%90%88%E4%BD%9C%E7%8E%B0%E5%81%B6%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
+8. [王鹤棣孟子义不考虑合作现偶吗](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%AD%9F%E5%AD%90%E4%B9%89%E4%B8%8D%E8%80%83%E8%99%91%E5%90%88%E4%BD%9C%E7%8E%B0%E5%81%B6%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
+9. [全世界都在等你们分手](https://s.weibo.com/weibo?q=%E5%85%A8%E4%B8%96%E7%95%8C%E9%83%BD%E5%9C%A8%E7%AD%89%E4%BD%A0%E4%BB%AC%E5%88%86%E6%89%8B&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -30,11 +30,11 @@
 2. [海霞、欧阳夏丹已不再任央视主持人](https://www.baidu.com/s?wd=%E6%B5%B7%E9%9C%9E%E3%80%81%E6%AC%A7%E9%98%B3%E5%A4%8F%E4%B8%B9%E5%B7%B2%E4%B8%8D%E5%86%8D%E4%BB%BB%E5%A4%AE%E8%A7%86%E4%B8%BB%E6%8C%81%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [最“卷”618来了 消费者买单吗？](https://www.baidu.com/s?wd=%E6%9C%80%E2%80%9C%E5%8D%B7%E2%80%9D618%E6%9D%A5%E4%BA%86+%E6%B6%88%E8%B4%B9%E8%80%85%E4%B9%B0%E5%8D%95%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [128秒回顾中国航天高燃时刻](https://www.baidu.com/s?wd=128%E7%A7%92%E5%9B%9E%E9%A1%BE%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E9%AB%98%E7%87%83%E6%97%B6%E5%88%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [四川山体垮塌已致19死 原因正调查](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%B1%B1%E4%BD%93%E5%9E%AE%E5%A1%8C%E5%B7%B2%E8%87%B419%E6%AD%BB+%E5%8E%9F%E5%9B%A0%E6%AD%A3%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [25岁女孩体重只有60多斤](https://www.baidu.com/s?wd=25%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%BD%93%E9%87%8D%E5%8F%AA%E6%9C%8960%E5%A4%9A%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [航天员张陆成为青少年追的星](https://www.baidu.com/s?wd=%E8%88%AA%E5%A4%A9%E5%91%98%E5%BC%A0%E9%99%86%E6%88%90%E4%B8%BA%E9%9D%92%E5%B0%91%E5%B9%B4%E8%BF%BD%E7%9A%84%E6%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [孩子严重烫伤9天才被家长送医](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E4%B8%A5%E9%87%8D%E7%83%AB%E4%BC%A49%E5%A4%A9%E6%89%8D%E8%A2%AB%E5%AE%B6%E9%95%BF%E9%80%81%E5%8C%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [日本女团成员灌男粉丝喝洗洁精](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%9B%A2%E6%88%90%E5%91%98%E7%81%8C%E7%94%B7%E7%B2%89%E4%B8%9D%E5%96%9D%E6%B4%97%E6%B4%81%E7%B2%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [25岁女孩体重只有60多斤](https://www.baidu.com/s?wd=25%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%BD%93%E9%87%8D%E5%8F%AA%E6%9C%8960%E5%A4%9A%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [孩子严重烫伤9天才被家长送医](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E4%B8%A5%E9%87%8D%E7%83%AB%E4%BC%A49%E5%A4%A9%E6%89%8D%E8%A2%AB%E5%AE%B6%E9%95%BF%E9%80%81%E5%8C%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [四川山体垮塌已致19死 原因正调查](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%B1%B1%E4%BD%93%E5%9E%AE%E5%A1%8C%E5%B7%B2%E8%87%B419%E6%AD%BB+%E5%8E%9F%E5%9B%A0%E6%AD%A3%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子考科三系错安全带考官面如死灰](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%80%83%E7%A7%91%E4%B8%89%E7%B3%BB%E9%94%99%E5%AE%89%E5%85%A8%E5%B8%A6%E8%80%83%E5%AE%98%E9%9D%A2%E5%A6%82%E6%AD%BB%E7%81%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [35岁男子为考清华复读14年](https://www.baidu.com/s?wd=35%E5%B2%81%E7%94%B7%E5%AD%90%E4%B8%BA%E8%80%83%E6%B8%85%E5%8D%8E%E5%A4%8D%E8%AF%BB14%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -42,8 +42,8 @@
 2. [海霞、欧阳夏丹已不再任央视主持人](https://www.baidu.com/s?wd=%E6%B5%B7%E9%9C%9E%E3%80%81%E6%AC%A7%E9%98%B3%E5%A4%8F%E4%B8%B9%E5%B7%B2%E4%B8%8D%E5%86%8D%E4%BB%BB%E5%A4%AE%E8%A7%86%E4%B8%BB%E6%8C%81%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [最“卷”618来了 消费者买单吗？](https://www.baidu.com/s?wd=%E6%9C%80%E2%80%9C%E5%8D%B7%E2%80%9D618%E6%9D%A5%E4%BA%86+%E6%B6%88%E8%B4%B9%E8%80%85%E4%B9%B0%E5%8D%95%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [128秒回顾中国航天高燃时刻](https://www.baidu.com/s?wd=128%E7%A7%92%E5%9B%9E%E9%A1%BE%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E9%AB%98%E7%87%83%E6%97%B6%E5%88%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [四川山体垮塌已致19死 原因正调查](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%B1%B1%E4%BD%93%E5%9E%AE%E5%A1%8C%E5%B7%B2%E8%87%B419%E6%AD%BB+%E5%8E%9F%E5%9B%A0%E6%AD%A3%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [25岁女孩体重只有60多斤](https://www.baidu.com/s?wd=25%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%BD%93%E9%87%8D%E5%8F%AA%E6%9C%8960%E5%A4%9A%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [航天员张陆成为青少年追的星](https://www.baidu.com/s?wd=%E8%88%AA%E5%A4%A9%E5%91%98%E5%BC%A0%E9%99%86%E6%88%90%E4%B8%BA%E9%9D%92%E5%B0%91%E5%B9%B4%E8%BF%BD%E7%9A%84%E6%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [孩子严重烫伤9天才被家长送医](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E4%B8%A5%E9%87%8D%E7%83%AB%E4%BC%A49%E5%A4%A9%E6%89%8D%E8%A2%AB%E5%AE%B6%E9%95%BF%E9%80%81%E5%8C%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [日本女团成员灌男粉丝喝洗洁精](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%9B%A2%E6%88%90%E5%91%98%E7%81%8C%E7%94%B7%E7%B2%89%E4%B8%9D%E5%96%9D%E6%B4%97%E6%B4%81%E7%B2%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [25岁女孩体重只有60多斤](https://www.baidu.com/s?wd=25%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%BD%93%E9%87%8D%E5%8F%AA%E6%9C%8960%E5%A4%9A%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [孩子严重烫伤9天才被家长送医](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E4%B8%A5%E9%87%8D%E7%83%AB%E4%BC%A49%E5%A4%A9%E6%89%8D%E8%A2%AB%E5%AE%B6%E9%95%BF%E9%80%81%E5%8C%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [四川山体垮塌已致19死 原因正调查](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%B1%B1%E4%BD%93%E5%9E%AE%E5%A1%8C%E5%B7%B2%E8%87%B419%E6%AD%BB+%E5%8E%9F%E5%9B%A0%E6%AD%A3%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子考科三系错安全带考官面如死灰](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%80%83%E7%A7%91%E4%B8%89%E7%B3%BB%E9%94%99%E5%AE%89%E5%85%A8%E5%B8%A6%E8%80%83%E5%AE%98%E9%9D%A2%E5%A6%82%E6%AD%BB%E7%81%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [35岁男子为考清华复读14年](https://www.baidu.com/s?wd=35%E5%B2%81%E7%94%B7%E5%AD%90%E4%B8%BA%E8%80%83%E6%B8%85%E5%8D%8E%E5%A4%8D%E8%AF%BB14%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
