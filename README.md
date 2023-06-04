@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 14:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 14:55:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [莫迪视察事故现场 这两幕激怒印度人](https://www.baidu.com/s?wd=%E8%8E%AB%E8%BF%AA%E8%A7%86%E5%AF%9F%E4%BA%8B%E6%95%85%E7%8E%B0%E5%9C%BA+%E8%BF%99%E4%B8%A4%E5%B9%95%E6%BF%80%E6%80%92%E5%8D%B0%E5%BA%A6%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [教育部发布2023高考预警信息](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E5%B8%832023%E9%AB%98%E8%80%83%E9%A2%84%E8%AD%A6%E4%BF%A1%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [神十五返回遇上绝美日出朝霞](https://www.baidu.com/s?wd=%E7%A5%9E%E5%8D%81%E4%BA%94%E8%BF%94%E5%9B%9E%E9%81%87%E4%B8%8A%E7%BB%9D%E7%BE%8E%E6%97%A5%E5%87%BA%E6%9C%9D%E9%9C%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [那英送何炅的衣服竟然是童装](https://www.baidu.com/s?wd=%E9%82%A3%E8%8B%B1%E9%80%81%E4%BD%95%E7%82%85%E7%9A%84%E8%A1%A3%E6%9C%8D%E7%AB%9F%E7%84%B6%E6%98%AF%E7%AB%A5%E8%A3%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [姑姑拍到侄女做梦吃雪糕](https://www.baidu.com/s?wd=%E5%A7%91%E5%A7%91%E6%8B%8D%E5%88%B0%E4%BE%84%E5%A5%B3%E5%81%9A%E6%A2%A6%E5%90%83%E9%9B%AA%E7%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [莫迪视察事故现场 这两幕激怒印度人](https://www.baidu.com/s?wd=%E8%8E%AB%E8%BF%AA%E8%A7%86%E5%AF%9F%E4%BA%8B%E6%95%85%E7%8E%B0%E5%9C%BA+%E8%BF%99%E4%B8%A4%E5%B9%95%E6%BF%80%E6%80%92%E5%8D%B0%E5%BA%A6%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [教育部发布2023高考预警信息](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E5%B8%832023%E9%AB%98%E8%80%83%E9%A2%84%E8%AD%A6%E4%BF%A1%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [神十五返回遇上绝美日出朝霞](https://www.baidu.com/s?wd=%E7%A5%9E%E5%8D%81%E4%BA%94%E8%BF%94%E5%9B%9E%E9%81%87%E4%B8%8A%E7%BB%9D%E7%BE%8E%E6%97%A5%E5%87%BA%E6%9C%9D%E9%9C%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [那英送何炅的衣服竟然是童装](https://www.baidu.com/s?wd=%E9%82%A3%E8%8B%B1%E9%80%81%E4%BD%95%E7%82%85%E7%9A%84%E8%A1%A3%E6%9C%8D%E7%AB%9F%E7%84%B6%E6%98%AF%E7%AB%A5%E8%A3%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [姑姑拍到侄女做梦吃雪糕](https://www.baidu.com/s?wd=%E5%A7%91%E5%A7%91%E6%8B%8D%E5%88%B0%E4%BE%84%E5%A5%B3%E5%81%9A%E6%A2%A6%E5%90%83%E9%9B%AA%E7%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
