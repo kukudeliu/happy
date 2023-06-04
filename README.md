@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 09:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 09:40:01</h4></div>
 
 > 微博  
 
 1. [千万不要把水果当饭吃](https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E6%8A%8A%E6%B0%B4%E6%9E%9C%E5%BD%93%E9%A5%AD%E5%90%83%23&t=31&band_rank=1&Refer=top)<br />
 2. [女孩家长称黄渤赠送手表未送给弟弟](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%AE%B6%E9%95%BF%E7%A7%B0%E9%BB%84%E6%B8%A4%E8%B5%A0%E9%80%81%E6%89%8B%E8%A1%A8%E6%9C%AA%E9%80%81%E7%BB%99%E5%BC%9F%E5%BC%9F%23&t=31&band_rank=2&Refer=top)<br />
 3. [神十五航天员回地球](https://s.weibo.com/weibo?q=%23%E7%A5%9E%E5%8D%81%E4%BA%94%E8%88%AA%E5%A4%A9%E5%91%98%E5%9B%9E%E5%9C%B0%E7%90%83%23&t=31&band_rank=3&Refer=top)<br />
-4. [一人说一个奇怪的生理反应](https://s.weibo.com/weibo?q=%E4%B8%80%E4%BA%BA%E8%AF%B4%E4%B8%80%E4%B8%AA%E5%A5%87%E6%80%AA%E7%9A%84%E7%94%9F%E7%90%86%E5%8F%8D%E5%BA%94&t=31&band_rank=4&Refer=top)<br />
-5. [梅西自宣离队](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%87%AA%E5%AE%A3%E7%A6%BB%E9%98%9F%23&t=31&band_rank=5&Refer=top)<br />
+4. [梅西自宣离队](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%87%AA%E5%AE%A3%E7%A6%BB%E9%98%9F%23&t=31&band_rank=4&Refer=top)<br />
+5. [一人说一个奇怪的生理反应](https://s.weibo.com/weibo?q=%E4%B8%80%E4%BA%BA%E8%AF%B4%E4%B8%80%E4%B8%AA%E5%A5%87%E6%80%AA%E7%9A%84%E7%94%9F%E7%90%86%E5%8F%8D%E5%BA%94&t=31&band_rank=5&Refer=top)<br />
 6. [女孩父母回应网传黄渤放弃资助](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E7%88%B6%E6%AF%8D%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E9%BB%84%E6%B8%A4%E6%94%BE%E5%BC%83%E8%B5%84%E5%8A%A9%23&t=31&band_rank=6&Refer=top)<br />
 7. [萌娃检查身体时突然向医生wink](https://s.weibo.com/weibo?q=%23%E8%90%8C%E5%A8%83%E6%A3%80%E6%9F%A5%E8%BA%AB%E4%BD%93%E6%97%B6%E7%AA%81%E7%84%B6%E5%90%91%E5%8C%BB%E7%94%9Fwink%23&t=31&band_rank=7&Refer=top)<br />
 8. [杨紫撑伞回眸](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E6%92%91%E4%BC%9E%E5%9B%9E%E7%9C%B8%23&t=31&band_rank=8&Refer=top)<br />
@@ -33,7 +33,7 @@
 5. [巴黎官宣梅西离队 一夜掉粉24万](https://www.baidu.com/s?wd=%E5%B7%B4%E9%BB%8E%E5%AE%98%E5%AE%A3%E6%A2%85%E8%A5%BF%E7%A6%BB%E9%98%9F+%E4%B8%80%E5%A4%9C%E6%8E%89%E7%B2%8924%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [薛之谦把伴舞的鞋子扔了](https://www.baidu.com/s?wd=%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%8A%8A%E4%BC%B4%E8%88%9E%E7%9A%84%E9%9E%8B%E5%AD%90%E6%89%94%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [疾控提醒血吸虫接触10秒即可感染](https://www.baidu.com/s?wd=%E7%96%BE%E6%8E%A7%E6%8F%90%E9%86%92%E8%A1%80%E5%90%B8%E8%99%AB%E6%8E%A5%E8%A7%A610%E7%A7%92%E5%8D%B3%E5%8F%AF%E6%84%9F%E6%9F%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [自带电脑上班不合格就充公?公司回应](https://www.baidu.com/s?wd=%E8%87%AA%E5%B8%A6%E7%94%B5%E8%84%91%E4%B8%8A%E7%8F%AD%E4%B8%8D%E5%90%88%E6%A0%BC%E5%B0%B1%E5%85%85%E5%85%AC%3F%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [五月天演唱会偶遇李现](https://www.baidu.com/s?wd=%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E5%81%B6%E9%81%87%E6%9D%8E%E7%8E%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [陈伟霆新剧不拿观众当外人](https://www.baidu.com/s?wd=%E9%99%88%E4%BC%9F%E9%9C%86%E6%96%B0%E5%89%A7%E4%B8%8D%E6%8B%BF%E8%A7%82%E4%BC%97%E5%BD%93%E5%A4%96%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [巴黎官宣梅西离队 一夜掉粉24万](https://www.baidu.com/s?wd=%E5%B7%B4%E9%BB%8E%E5%AE%98%E5%AE%A3%E6%A2%85%E8%A5%BF%E7%A6%BB%E9%98%9F+%E4%B8%80%E5%A4%9C%E6%8E%89%E7%B2%8924%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [薛之谦把伴舞的鞋子扔了](https://www.baidu.com/s?wd=%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%8A%8A%E4%BC%B4%E8%88%9E%E7%9A%84%E9%9E%8B%E5%AD%90%E6%89%94%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [疾控提醒血吸虫接触10秒即可感染](https://www.baidu.com/s?wd=%E7%96%BE%E6%8E%A7%E6%8F%90%E9%86%92%E8%A1%80%E5%90%B8%E8%99%AB%E6%8E%A5%E8%A7%A610%E7%A7%92%E5%8D%B3%E5%8F%AF%E6%84%9F%E6%9F%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [自带电脑上班不合格就充公?公司回应](https://www.baidu.com/s?wd=%E8%87%AA%E5%B8%A6%E7%94%B5%E8%84%91%E4%B8%8A%E7%8F%AD%E4%B8%8D%E5%90%88%E6%A0%BC%E5%B0%B1%E5%85%85%E5%85%AC%3F%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [五月天演唱会偶遇李现](https://www.baidu.com/s?wd=%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E5%81%B6%E9%81%87%E6%9D%8E%E7%8E%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [陈伟霆新剧不拿观众当外人](https://www.baidu.com/s?wd=%E9%99%88%E4%BC%9F%E9%9C%86%E6%96%B0%E5%89%A7%E4%B8%8D%E6%8B%BF%E8%A7%82%E4%BC%97%E5%BD%93%E5%A4%96%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
