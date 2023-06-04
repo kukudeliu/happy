@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 08:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 08:20:01</h4></div>
 
 > 微博  
 
 1. [女孩父母回应网传黄渤放弃资助](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E7%88%B6%E6%AF%8D%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E9%BB%84%E6%B8%A4%E6%94%BE%E5%BC%83%E8%B5%84%E5%8A%A9%23&t=31&band_rank=1&Refer=top)<br />
-2. [梅西自宣离队](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%87%AA%E5%AE%A3%E7%A6%BB%E9%98%9F%23&t=31&band_rank=2&Refer=top)<br />
+2. [萌娃检查身体时突然向医生wink](https://s.weibo.com/weibo?q=%23%E8%90%8C%E5%A8%83%E6%A3%80%E6%9F%A5%E8%BA%AB%E4%BD%93%E6%97%B6%E7%AA%81%E7%84%B6%E5%90%91%E5%8C%BB%E7%94%9Fwink%23&t=31&band_rank=2&Refer=top)<br />
 3. [神十五航天员回地球](https://s.weibo.com/weibo?q=%23%E7%A5%9E%E5%8D%81%E4%BA%94%E8%88%AA%E5%A4%A9%E5%91%98%E5%9B%9E%E5%9C%B0%E7%90%83%23&t=31&band_rank=3&Refer=top)<br />
 4. [原配抓小三路人帮腔大骂男方不要脸](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E9%85%8D%E6%8A%93%E5%B0%8F%E4%B8%89%E8%B7%AF%E4%BA%BA%E5%B8%AE%E8%85%94%E5%A4%A7%E9%AA%82%E7%94%B7%E6%96%B9%E4%B8%8D%E8%A6%81%E8%84%B8%23&t=31&band_rank=4&Refer=top)<br />
-5. [萌娃检查身体时突然向医生wink](https://s.weibo.com/weibo?q=%23%E8%90%8C%E5%A8%83%E6%A3%80%E6%9F%A5%E8%BA%AB%E4%BD%93%E6%97%B6%E7%AA%81%E7%84%B6%E5%90%91%E5%8C%BB%E7%94%9Fwink%23&t=31&band_rank=5&Refer=top)<br />
-6. [成都七中一学生被开除](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E4%B8%83%E4%B8%AD%E4%B8%80%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%BC%80%E9%99%A4%23&t=31&band_rank=6&Refer=top)<br />
-7. [一人说一个奇怪的生理反应](https://s.weibo.com/weibo?q=%E4%B8%80%E4%BA%BA%E8%AF%B4%E4%B8%80%E4%B8%AA%E5%A5%87%E6%80%AA%E7%9A%84%E7%94%9F%E7%90%86%E5%8F%8D%E5%BA%94&t=31&band_rank=7&Refer=top)<br />
+5. [梅西自宣离队](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%87%AA%E5%AE%A3%E7%A6%BB%E9%98%9F%23&t=31&band_rank=5&Refer=top)<br />
+6. [一人说一个奇怪的生理反应](https://s.weibo.com/weibo?q=%E4%B8%80%E4%BA%BA%E8%AF%B4%E4%B8%80%E4%B8%AA%E5%A5%87%E6%80%AA%E7%9A%84%E7%94%9F%E7%90%86%E5%8F%8D%E5%BA%94&t=31&band_rank=6&Refer=top)<br />
+7. [成都七中一学生被开除](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E4%B8%83%E4%B8%AD%E4%B8%80%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%BC%80%E9%99%A4%23&t=31&band_rank=7&Refer=top)<br />
 8. [黄渤回应贫困女孩争议](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%B8%A4%E5%9B%9E%E5%BA%94%E8%B4%AB%E5%9B%B0%E5%A5%B3%E5%AD%A9%E4%BA%89%E8%AE%AE%23&t=31&band_rank=8&Refer=top)<br />
-9. [欢迎费俊龙邓清明张陆回家](https://s.weibo.com/weibo?q=%23%E6%AC%A2%E8%BF%8E%E8%B4%B9%E4%BF%8A%E9%BE%99%E9%82%93%E6%B8%85%E6%98%8E%E5%BC%A0%E9%99%86%E5%9B%9E%E5%AE%B6%23&t=31&band_rank=9&Refer=top)<br />
+9. [14岁女生心脏骤停教室上演生死救援](https://s.weibo.com/weibo?q=%2314%E5%B2%81%E5%A5%B3%E7%94%9F%E5%BF%83%E8%84%8F%E9%AA%A4%E5%81%9C%E6%95%99%E5%AE%A4%E4%B8%8A%E6%BC%94%E7%94%9F%E6%AD%BB%E6%95%91%E6%8F%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,28 +22,28 @@
 6. [真人版《小美人鱼》口碑与票房双失利，仅仅是因为电影的选角吗？根本原因是什么？](https://www.zhihu.com/question/603607588)<br />
 7. [《西游记》中的世界地图是什么样的？](https://www.zhihu.com/question/37555090)<br />
 8. [现代汉语是否应该引入「冇」的概念来更精准表达「没有」的含义?](https://www.zhihu.com/question/604176704)<br />
-9. [是大部分动物都喜欢被摸头吗？](https://www.zhihu.com/question/442523187)<br />
+9. [李斌回应蔚来巨亏，称「主要赔在研发上，研发的赔钱我觉得是投资」，具体情况如何？蔚来发展前景如何？](https://www.zhihu.com/question/602722590)<br />
 
 > 百度  
 
 1. [中国航天员从“天宫”发来的回信](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%91%98%E4%BB%8E%E2%80%9C%E5%A4%A9%E5%AE%AB%E2%80%9D%E5%8F%91%E6%9D%A5%E7%9A%84%E5%9B%9E%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [3分钟回顾神十五航天员返回全程](https://www.baidu.com/s?wd=3%E5%88%86%E9%92%9F%E5%9B%9E%E9%A1%BE%E7%A5%9E%E5%8D%81%E4%BA%94%E8%88%AA%E5%A4%A9%E5%91%98%E8%BF%94%E5%9B%9E%E5%85%A8%E7%A8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [女孩父母回应网传黄渤放弃资助](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E7%88%B6%E6%AF%8D%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E9%BB%84%E6%B8%A4%E6%94%BE%E5%BC%83%E8%B5%84%E5%8A%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [神十五任务圆满成功](https://www.baidu.com/s?wd=%E7%A5%9E%E5%8D%81%E4%BA%94%E4%BB%BB%E5%8A%A1%E5%9C%86%E6%BB%A1%E6%88%90%E5%8A%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [3分钟回顾神十五航天员返回全程](https://www.baidu.com/s?wd=3%E5%88%86%E9%92%9F%E5%9B%9E%E9%A1%BE%E7%A5%9E%E5%8D%81%E4%BA%94%E8%88%AA%E5%A4%A9%E5%91%98%E8%BF%94%E5%9B%9E%E5%85%A8%E7%A8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [探源历史 致远未来](https://www.baidu.com/s?wd=%E6%8E%A2%E6%BA%90%E5%8E%86%E5%8F%B2+%E8%87%B4%E8%BF%9C%E6%9C%AA%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [神十五返回遇上绝美日出朝霞](https://www.baidu.com/s?wd=%E7%A5%9E%E5%8D%81%E4%BA%94%E8%BF%94%E5%9B%9E%E9%81%87%E4%B8%8A%E7%BB%9D%E7%BE%8E%E6%97%A5%E5%87%BA%E6%9C%9D%E9%9C%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [俄罗斯多地遭攻击 24小时内上百次](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E5%A4%9A%E5%9C%B0%E9%81%AD%E6%94%BB%E5%87%BB+24%E5%B0%8F%E6%97%B6%E5%86%85%E4%B8%8A%E7%99%BE%E6%AC%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [赵丽颖街边哄儿子被拍](https://www.baidu.com/s?wd=%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%A1%97%E8%BE%B9%E5%93%84%E5%84%BF%E5%AD%90%E8%A2%AB%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [五月天演唱会华晨宇冷场](https://www.baidu.com/s?wd=%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8D%8E%E6%99%A8%E5%AE%87%E5%86%B7%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [陈伟霆新剧不拿观众当外人](https://www.baidu.com/s?wd=%E9%99%88%E4%BC%9F%E9%9C%86%E6%96%B0%E5%89%A7%E4%B8%8D%E6%8B%BF%E8%A7%82%E4%BC%97%E5%BD%93%E5%A4%96%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女孩父母回应网传黄渤放弃资助](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E7%88%B6%E6%AF%8D%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E9%BB%84%E6%B8%A4%E6%94%BE%E5%BC%83%E8%B5%84%E5%8A%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [赵丽颖街边哄儿子被拍](https://www.baidu.com/s?wd=%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%A1%97%E8%BE%B9%E5%93%84%E5%84%BF%E5%AD%90%E8%A2%AB%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [五月天演唱会华晨宇冷场](https://www.baidu.com/s?wd=%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8D%8E%E6%99%A8%E5%AE%87%E5%86%B7%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [中国航天员从“天宫”发来的回信](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%91%98%E4%BB%8E%E2%80%9C%E5%A4%A9%E5%AE%AB%E2%80%9D%E5%8F%91%E6%9D%A5%E7%9A%84%E5%9B%9E%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [3分钟回顾神十五航天员返回全程](https://www.baidu.com/s?wd=3%E5%88%86%E9%92%9F%E5%9B%9E%E9%A1%BE%E7%A5%9E%E5%8D%81%E4%BA%94%E8%88%AA%E5%A4%A9%E5%91%98%E8%BF%94%E5%9B%9E%E5%85%A8%E7%A8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [女孩父母回应网传黄渤放弃资助](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E7%88%B6%E6%AF%8D%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E9%BB%84%E6%B8%A4%E6%94%BE%E5%BC%83%E8%B5%84%E5%8A%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [神十五任务圆满成功](https://www.baidu.com/s?wd=%E7%A5%9E%E5%8D%81%E4%BA%94%E4%BB%BB%E5%8A%A1%E5%9C%86%E6%BB%A1%E6%88%90%E5%8A%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [3分钟回顾神十五航天员返回全程](https://www.baidu.com/s?wd=3%E5%88%86%E9%92%9F%E5%9B%9E%E9%A1%BE%E7%A5%9E%E5%8D%81%E4%BA%94%E8%88%AA%E5%A4%A9%E5%91%98%E8%BF%94%E5%9B%9E%E5%85%A8%E7%A8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [探源历史 致远未来](https://www.baidu.com/s?wd=%E6%8E%A2%E6%BA%90%E5%8E%86%E5%8F%B2+%E8%87%B4%E8%BF%9C%E6%9C%AA%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [神十五返回遇上绝美日出朝霞](https://www.baidu.com/s?wd=%E7%A5%9E%E5%8D%81%E4%BA%94%E8%BF%94%E5%9B%9E%E9%81%87%E4%B8%8A%E7%BB%9D%E7%BE%8E%E6%97%A5%E5%87%BA%E6%9C%9D%E9%9C%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [俄罗斯多地遭攻击 24小时内上百次](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E5%A4%9A%E5%9C%B0%E9%81%AD%E6%94%BB%E5%87%BB+24%E5%B0%8F%E6%97%B6%E5%86%85%E4%B8%8A%E7%99%BE%E6%AC%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [赵丽颖街边哄儿子被拍](https://www.baidu.com/s?wd=%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%A1%97%E8%BE%B9%E5%93%84%E5%84%BF%E5%AD%90%E8%A2%AB%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [五月天演唱会华晨宇冷场](https://www.baidu.com/s?wd=%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8D%8E%E6%99%A8%E5%AE%87%E5%86%B7%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [陈伟霆新剧不拿观众当外人](https://www.baidu.com/s?wd=%E9%99%88%E4%BC%9F%E9%9C%86%E6%96%B0%E5%89%A7%E4%B8%8D%E6%8B%BF%E8%A7%82%E4%BC%97%E5%BD%93%E5%A4%96%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女孩父母回应网传黄渤放弃资助](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E7%88%B6%E6%AF%8D%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E9%BB%84%E6%B8%A4%E6%94%BE%E5%BC%83%E8%B5%84%E5%8A%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [赵丽颖街边哄儿子被拍](https://www.baidu.com/s?wd=%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%A1%97%E8%BE%B9%E5%93%84%E5%84%BF%E5%AD%90%E8%A2%AB%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [五月天演唱会华晨宇冷场](https://www.baidu.com/s?wd=%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8D%8E%E6%99%A8%E5%AE%87%E5%86%B7%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
