@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 09:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 09:42:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [神舟十五号载人飞船返回舱成功着陆，航天员费俊龙邓清明张陆顺利出舱健康状态良好，如何评价这次任务的意义？](https://www.zhihu.com/question/604011587)<br />
 6. [每天花两个小时背单词，值得吗？](https://www.zhihu.com/question/445968666)<br />
 7. [什么叫做二次元游戏？](https://www.zhihu.com/question/30989488)<br />
-8. [今年有多少护士辞职?](https://www.zhihu.com/question/597224517)<br />
-9. [距离高考还有几天，有哪些建议给即将高考的学弟学妹们？](https://www.zhihu.com/question/461994623)<br />
+8. [距离高考还有几天，有哪些建议给即将高考的学弟学妹们？](https://www.zhihu.com/question/461994623)<br />
+9. [距离高考还有四天的时候你们当时再想什么，考不上好大学该怎么办？有些焦虑?](https://www.zhihu.com/question/604608358)<br />
 
 > 百度  
 
