@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 07:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 07:46:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [女子游野泳溺亡家属索赔166万被驳](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%B8%B8%E9%87%8E%E6%B3%B3%E6%BA%BA%E4%BA%A1%E5%AE%B6%E5%B1%9E%E7%B4%A2%E8%B5%94166%E4%B8%87%E8%A2%AB%E9%A9%B3%23&t=31&band_rank=5&Refer=top)<br />
 6. [国内出现偏肺病毒感染](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%86%85%E5%87%BA%E7%8E%B0%E5%81%8F%E8%82%BA%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93%23&t=31&band_rank=6&Refer=top)<br />
 7. [教育部发布2023高考预警](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E5%B8%832023%E9%AB%98%E8%80%83%E9%A2%84%E8%AD%A6%23&t=31&band_rank=7&Refer=top)<br />
-8. [全世界都在等你们分手](https://s.weibo.com/weibo?q=%E5%85%A8%E4%B8%96%E7%95%8C%E9%83%BD%E5%9C%A8%E7%AD%89%E4%BD%A0%E4%BB%AC%E5%88%86%E6%89%8B&t=31&band_rank=8&Refer=top)<br />
-9. [日本女团成员灌男粉喝洗洁精](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%9B%A2%E6%88%90%E5%91%98%E7%81%8C%E7%94%B7%E7%B2%89%E5%96%9D%E6%B4%97%E6%B4%81%E7%B2%BE%23&t=31&band_rank=9&Refer=top)<br />
+8. [日本女团成员灌男粉喝洗洁精](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%9B%A2%E6%88%90%E5%91%98%E7%81%8C%E7%94%B7%E7%B2%89%E5%96%9D%E6%B4%97%E6%B4%81%E7%B2%BE%23&t=31&band_rank=8&Refer=top)<br />
+9. [全世界都在等你们分手](https://s.weibo.com/weibo?q=%E5%85%A8%E4%B8%96%E7%95%8C%E9%83%BD%E5%9C%A8%E7%AD%89%E4%BD%A0%E4%BB%AC%E5%88%86%E6%89%8B&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -18,9 +18,9 @@
 2. [韩国出口连跌 8 个月，对中美欧出口全部下滑，芯片出口大跌 36.2%，受哪些因素影响？](https://www.zhihu.com/question/604222429)<br />
 3. [苏武在贝加尔湖牧羊，条件恶劣，挖食鼠粮草根为生，他为什么不吃羊？](https://www.zhihu.com/question/25483987)<br />
 4. []()<br />
-5. [为什么篮球比赛进入小球时代?](https://www.zhihu.com/question/603469936)<br />
-6. [为什么一战说法国「打光了一代人」而没有说英国「打光了一代人」?](https://www.zhihu.com/question/571031038)<br />
-7. [一定要靠读书才能出人头地吗？](https://www.zhihu.com/question/602090050)<br />
+5. [为什么一战说法国「打光了一代人」而没有说英国「打光了一代人」?](https://www.zhihu.com/question/571031038)<br />
+6. [一定要靠读书才能出人头地吗？](https://www.zhihu.com/question/602090050)<br />
+7. [为什么篮球比赛进入小球时代?](https://www.zhihu.com/question/603469936)<br />
 8. [为什么很多课上会规定「学生可以喝白水，茶也勉强可以，但不能喝饮料」？这些饮料有什么本质区别吗？](https://www.zhihu.com/question/601191918)<br />
 9. [炖肉的时候，有时肉越炖越烂，有的时候却越炖越硬，这是为什么呢？背后有什么科学道理呢？](https://www.zhihu.com/question/507310446)<br />
 
