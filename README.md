@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 01:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 01:10:01</h4></div>
 
 > 微博  
 
@@ -32,8 +32,8 @@
 4. [128秒回顾中国航天高燃时刻](https://www.baidu.com/s?wd=128%E7%A7%92%E5%9B%9E%E9%A1%BE%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E9%AB%98%E7%87%83%E6%97%B6%E5%88%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [25岁女孩体重只有60多斤](https://www.baidu.com/s?wd=25%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%BD%93%E9%87%8D%E5%8F%AA%E6%9C%8960%E5%A4%9A%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [马斯克来华首日晚宴费用疑曝光](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%9D%A5%E5%8D%8E%E9%A6%96%E6%97%A5%E6%99%9A%E5%AE%B4%E8%B4%B9%E7%94%A8%E7%96%91%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [广西出台新规防“烂尾楼”](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E5%87%BA%E5%8F%B0%E6%96%B0%E8%A7%84%E9%98%B2%E2%80%9C%E7%83%82%E5%B0%BE%E6%A5%BC%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [小麦机收大比武主持人一句话引热议](https://www.baidu.com/s?wd=%E5%B0%8F%E9%BA%A6%E6%9C%BA%E6%94%B6%E5%A4%A7%E6%AF%94%E6%AD%A6%E4%B8%BB%E6%8C%81%E4%BA%BA%E4%B8%80%E5%8F%A5%E8%AF%9D%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [小麦机收大比武主持人一句话引热议](https://www.baidu.com/s?wd=%E5%B0%8F%E9%BA%A6%E6%9C%BA%E6%94%B6%E5%A4%A7%E6%AF%94%E6%AD%A6%E4%B8%BB%E6%8C%81%E4%BA%BA%E4%B8%80%E5%8F%A5%E8%AF%9D%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女生半夜嗦田螺肿成香肠嘴](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%8D%8A%E5%A4%9C%E5%97%A6%E7%94%B0%E8%9E%BA%E8%82%BF%E6%88%90%E9%A6%99%E8%82%A0%E5%98%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [35岁男子为考清华复读14年](https://www.baidu.com/s?wd=35%E5%B2%81%E7%94%B7%E5%AD%90%E4%B8%BA%E8%80%83%E6%B8%85%E5%8D%8E%E5%A4%8D%E8%AF%BB14%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -44,6 +44,6 @@
 4. [128秒回顾中国航天高燃时刻](https://www.baidu.com/s?wd=128%E7%A7%92%E5%9B%9E%E9%A1%BE%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E9%AB%98%E7%87%83%E6%97%B6%E5%88%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [25岁女孩体重只有60多斤](https://www.baidu.com/s?wd=25%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%BD%93%E9%87%8D%E5%8F%AA%E6%9C%8960%E5%A4%9A%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [马斯克来华首日晚宴费用疑曝光](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%9D%A5%E5%8D%8E%E9%A6%96%E6%97%A5%E6%99%9A%E5%AE%B4%E8%B4%B9%E7%94%A8%E7%96%91%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [广西出台新规防“烂尾楼”](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E5%87%BA%E5%8F%B0%E6%96%B0%E8%A7%84%E9%98%B2%E2%80%9C%E7%83%82%E5%B0%BE%E6%A5%BC%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [小麦机收大比武主持人一句话引热议](https://www.baidu.com/s?wd=%E5%B0%8F%E9%BA%A6%E6%9C%BA%E6%94%B6%E5%A4%A7%E6%AF%94%E6%AD%A6%E4%B8%BB%E6%8C%81%E4%BA%BA%E4%B8%80%E5%8F%A5%E8%AF%9D%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [小麦机收大比武主持人一句话引热议](https://www.baidu.com/s?wd=%E5%B0%8F%E9%BA%A6%E6%9C%BA%E6%94%B6%E5%A4%A7%E6%AF%94%E6%AD%A6%E4%B8%BB%E6%8C%81%E4%BA%BA%E4%B8%80%E5%8F%A5%E8%AF%9D%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女生半夜嗦田螺肿成香肠嘴](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%8D%8A%E5%A4%9C%E5%97%A6%E7%94%B0%E8%9E%BA%E8%82%BF%E6%88%90%E9%A6%99%E8%82%A0%E5%98%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [35岁男子为考清华复读14年](https://www.baidu.com/s?wd=35%E5%B2%81%E7%94%B7%E5%AD%90%E4%B8%BA%E8%80%83%E6%B8%85%E5%8D%8E%E5%A4%8D%E8%AF%BB14%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
