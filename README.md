@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 06:22:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 06:23:01</h4></div>
 
 > 微博  
 
@@ -19,10 +19,10 @@
 3. [韩国出口连跌 8 个月，对中美欧出口全部下滑，芯片出口大跌 36.2%，受哪些因素影响？](https://www.zhihu.com/question/604222429)<br />
 4. [为什么篮球比赛进入小球时代?](https://www.zhihu.com/question/603469936)<br />
 5. []()<br />
-6. [美加军舰过航台湾海峡，东部战区回应「全程跟监警戒，依法依规处置」，如何解读美、加此举意图？](https://www.zhihu.com/question/604645738)<br />
-7. [在县城，公务员晋升正科难吗？](https://www.zhihu.com/question/597393632)<br />
-8. [炖肉的时候，有时肉越炖越烂，有的时候却越炖越硬，这是为什么呢？背后有什么科学道理呢？](https://www.zhihu.com/question/507310446)<br />
-9. [游戏《闪耀暖暖》和《以闪亮之名》到底哪个好?](https://www.zhihu.com/question/553106542)<br />
+6. [游戏《闪耀暖暖》和《以闪亮之名》到底哪个好?](https://www.zhihu.com/question/553106542)<br />
+7. [美加军舰过航台湾海峡，东部战区回应「全程跟监警戒，依法依规处置」，如何解读美、加此举意图？](https://www.zhihu.com/question/604645738)<br />
+8. [在县城，公务员晋升正科难吗？](https://www.zhihu.com/question/597393632)<br />
+9. [炖肉的时候，有时肉越炖越烂，有的时候却越炖越硬，这是为什么呢？背后有什么科学道理呢？](https://www.zhihu.com/question/507310446)<br />
 
 > 百度  
 
