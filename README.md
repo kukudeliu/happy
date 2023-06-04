@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 14:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 14:11:01</h4></div>
 
 > 微博  
 
-1. [任敏哭了](https://s.weibo.com/weibo?q=%E4%BB%BB%E6%95%8F%E5%93%AD%E4%BA%86&t=31&band_rank=1&Refer=top)<br />
-2. [我的脸被隐翅虫毁容了](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E8%84%B8%E8%A2%AB%E9%9A%90%E7%BF%85%E8%99%AB%E6%AF%81%E5%AE%B9%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
+1. [我的脸被隐翅虫毁容了](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E8%84%B8%E8%A2%AB%E9%9A%90%E7%BF%85%E8%99%AB%E6%AF%81%E5%AE%B9%E4%BA%86%23&t=31&band_rank=1&Refer=top)<br />
+2. [任敏哭了](https://s.weibo.com/weibo?q=%E4%BB%BB%E6%95%8F%E5%93%AD%E4%BA%86&t=31&band_rank=2&Refer=top)<br />
 3. [神十五航天员回地球](https://s.weibo.com/weibo?q=%23%E7%A5%9E%E5%8D%81%E4%BA%94%E8%88%AA%E5%A4%A9%E5%91%98%E5%9B%9E%E5%9C%B0%E7%90%83%23&t=31&band_rank=3&Refer=top)<br />
 4. [你觉得椰树直播算擦边吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%A7%89%E5%BE%97%E6%A4%B0%E6%A0%91%E7%9B%B4%E6%92%AD%E7%AE%97%E6%93%A6%E8%BE%B9%E5%90%97%23&t=31&band_rank=4&Refer=top)<br />
 5. [卡卡 北京](https://s.weibo.com/weibo?q=%E5%8D%A1%E5%8D%A1%20%E5%8C%97%E4%BA%AC&t=31&band_rank=5&Refer=top)<br />
@@ -20,9 +20,9 @@
 4. [22-23 赛季法甲巴黎圣日耳曼 2:3 克莱蒙，梅西拉莫斯告别姆巴佩点射夺金靴，如何评价这场比赛？](https://www.zhihu.com/question/604675441)<br />
 5. [神舟十五号载人飞船返回舱成功着陆，航天员费俊龙邓清明张陆顺利出舱健康状态良好，如何评价这次任务的意义？](https://www.zhihu.com/question/604011587)<br />
 6. [你请客吃饭，结账时发现有人私下拿好烟好酒记在账上，怎么应对？](https://www.zhihu.com/question/465991724)<br />
-7. [哪个瞬间你觉得宠物好像真的听懂你说话了？](https://www.zhihu.com/question/603807166)<br />
-8. [35 岁了还一事无成，怎么办呢？](https://www.zhihu.com/question/593756955)<br />
-9. [小学生现在还有必要学奥数吗？](https://www.zhihu.com/question/428103688)<br />
+7. [35 岁了还一事无成，怎么办呢？](https://www.zhihu.com/question/593756955)<br />
+8. [小学生现在还有必要学奥数吗？](https://www.zhihu.com/question/428103688)<br />
+9. [哪个瞬间你觉得宠物好像真的听懂你说话了？](https://www.zhihu.com/question/603807166)<br />
 
 > 百度  
 
@@ -32,8 +32,8 @@
 4. [神十五任务圆满成功](https://www.baidu.com/s?wd=%E7%A5%9E%E5%8D%81%E4%BA%94%E4%BB%BB%E5%8A%A1%E5%9C%86%E6%BB%A1%E6%88%90%E5%8A%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子考科三系错安全带考官面如死灰](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%80%83%E7%A7%91%E4%B8%89%E7%B3%BB%E9%94%99%E5%AE%89%E5%85%A8%E5%B8%A6%E8%80%83%E5%AE%98%E9%9D%A2%E5%A6%82%E6%AD%BB%E7%81%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [姑姑拍到侄女做梦吃雪糕](https://www.baidu.com/s?wd=%E5%A7%91%E5%A7%91%E6%8B%8D%E5%88%B0%E4%BE%84%E5%A5%B3%E5%81%9A%E6%A2%A6%E5%90%83%E9%9B%AA%E7%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [印度布地毯上浇沥青当新路](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E5%B8%83%E5%9C%B0%E6%AF%AF%E4%B8%8A%E6%B5%87%E6%B2%A5%E9%9D%92%E5%BD%93%E6%96%B0%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [教育部发布2023高考预警信息](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E5%B8%832023%E9%AB%98%E8%80%83%E9%A2%84%E8%AD%A6%E4%BF%A1%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [教育部发布2023高考预警信息](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E5%B8%832023%E9%AB%98%E8%80%83%E9%A2%84%E8%AD%A6%E4%BF%A1%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [印度布地毯上浇沥青当新路](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E5%B8%83%E5%9C%B0%E6%AF%AF%E4%B8%8A%E6%B5%87%E6%B2%A5%E9%9D%92%E5%BD%93%E6%96%B0%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [跑男打错范丞丞名字](https://www.baidu.com/s?wd=%E8%B7%91%E7%94%B7%E6%89%93%E9%94%99%E8%8C%83%E4%B8%9E%E4%B8%9E%E5%90%8D%E5%AD%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -44,6 +44,6 @@
 4. [神十五任务圆满成功](https://www.baidu.com/s?wd=%E7%A5%9E%E5%8D%81%E4%BA%94%E4%BB%BB%E5%8A%A1%E5%9C%86%E6%BB%A1%E6%88%90%E5%8A%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子考科三系错安全带考官面如死灰](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%80%83%E7%A7%91%E4%B8%89%E7%B3%BB%E9%94%99%E5%AE%89%E5%85%A8%E5%B8%A6%E8%80%83%E5%AE%98%E9%9D%A2%E5%A6%82%E6%AD%BB%E7%81%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [姑姑拍到侄女做梦吃雪糕](https://www.baidu.com/s?wd=%E5%A7%91%E5%A7%91%E6%8B%8D%E5%88%B0%E4%BE%84%E5%A5%B3%E5%81%9A%E6%A2%A6%E5%90%83%E9%9B%AA%E7%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [印度布地毯上浇沥青当新路](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E5%B8%83%E5%9C%B0%E6%AF%AF%E4%B8%8A%E6%B5%87%E6%B2%A5%E9%9D%92%E5%BD%93%E6%96%B0%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [教育部发布2023高考预警信息](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E5%B8%832023%E9%AB%98%E8%80%83%E9%A2%84%E8%AD%A6%E4%BF%A1%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [教育部发布2023高考预警信息](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E5%B8%832023%E9%AB%98%E8%80%83%E9%A2%84%E8%AD%A6%E4%BF%A1%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [印度布地毯上浇沥青当新路](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E5%B8%83%E5%9C%B0%E6%AF%AF%E4%B8%8A%E6%B5%87%E6%B2%A5%E9%9D%92%E5%BD%93%E6%96%B0%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [跑男打错范丞丞名字](https://www.baidu.com/s?wd=%E8%B7%91%E7%94%B7%E6%89%93%E9%94%99%E8%8C%83%E4%B8%9E%E4%B8%9E%E5%90%8D%E5%AD%97&sa=fyb_news&rsv_dl=fyb_news)<br />
