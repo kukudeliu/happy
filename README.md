@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 13:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 13:36:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [神十五航天员回地球](https://s.weibo.com/weibo?q=%23%E7%A5%9E%E5%8D%81%E4%BA%94%E8%88%AA%E5%A4%A9%E5%91%98%E5%9B%9E%E5%9C%B0%E7%90%83%23&t=31&band_rank=3&Refer=top)<br />
 4. [跑男打错范丞丞名字](https://s.weibo.com/weibo?q=%23%E8%B7%91%E7%94%B7%E6%89%93%E9%94%99%E8%8C%83%E4%B8%9E%E4%B8%9E%E5%90%8D%E5%AD%97%23&t=31&band_rank=4&Refer=top)<br />
 5. [任敏哭了](https://s.weibo.com/weibo?q=%E4%BB%BB%E6%95%8F%E5%93%AD%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
-6. [你觉得椰树直播算擦边吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%A7%89%E5%BE%97%E6%A4%B0%E6%A0%91%E7%9B%B4%E6%92%AD%E7%AE%97%E6%93%A6%E8%BE%B9%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
-7. [张子豪 淘汰](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%AD%90%E8%B1%AA%20%E6%B7%98%E6%B1%B0&t=31&band_rank=7&Refer=top)<br />
+6. [张子豪 淘汰](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%AD%90%E8%B1%AA%20%E6%B7%98%E6%B1%B0&t=31&band_rank=6&Refer=top)<br />
+7. [你觉得椰树直播算擦边吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%A7%89%E5%BE%97%E6%A4%B0%E6%A0%91%E7%9B%B4%E6%92%AD%E7%AE%97%E6%93%A6%E8%BE%B9%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
 8. [蔡徐坤说叫我坤就可以了](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E8%AF%B4%E5%8F%AB%E6%88%91%E5%9D%A4%E5%B0%B1%E5%8F%AF%E4%BB%A5%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [肖战迪丽热巴赵露思V榜破9](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%B5%B5%E9%9C%B2%E6%80%9DV%E6%A6%9C%E7%A0%B49%23&t=31&band_rank=9&Refer=top)<br />
 
