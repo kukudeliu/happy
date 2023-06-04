@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 19:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 19:23:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [苏武在贝加尔湖牧羊，条件恶劣，挖食鼠粮草根为生，他为什么不吃羊？](https://www.zhihu.com/question/25483987)<br />
 5. [你请客吃饭，结账时发现有人私下拿好烟好酒记在账上，怎么应对？](https://www.zhihu.com/question/465991724)<br />
 6. [2022-23 赛季 NBA 总决赛掘金扑灭热火先拔头筹，约基奇 27+10+14，如何评价这场比赛？](https://www.zhihu.com/question/604369865)<br />
-7. [如何看待答主楚云卿的原创诗句「被选入」《诗经》？](https://www.zhihu.com/question/604719253)<br />
+7. [如何看待答主楚云卿的原创诗句被自媒体「选入」《诗经》？](https://www.zhihu.com/question/604719253)<br />
 8. [为什么中国没有「逻辑」这个词汇？](https://www.zhihu.com/question/602626141)<br />
-9. [今年有多少护士辞职?](https://www.zhihu.com/question/597224517)<br />
+9. []()<br />
 
 > 百度  
 
