@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 02:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 02:14:01</h4></div>
 
 > 微博  
 
@@ -32,9 +32,9 @@
 4. [128秒回顾中国航天高燃时刻](https://www.baidu.com/s?wd=128%E7%A7%92%E5%9B%9E%E9%A1%BE%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E9%AB%98%E7%87%83%E6%97%B6%E5%88%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [25岁女孩体重只有60多斤](https://www.baidu.com/s?wd=25%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%BD%93%E9%87%8D%E5%8F%AA%E6%9C%8960%E5%A4%9A%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [马斯克来华首日晚宴费用疑曝光](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%9D%A5%E5%8D%8E%E9%A6%96%E6%97%A5%E6%99%9A%E5%AE%B4%E8%B4%B9%E7%94%A8%E7%96%91%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子考科三系错安全带考官面如死灰](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%80%83%E7%A7%91%E4%B8%89%E7%B3%BB%E9%94%99%E5%AE%89%E5%85%A8%E5%B8%A6%E8%80%83%E5%AE%98%E9%9D%A2%E5%A6%82%E6%AD%BB%E7%81%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [瓜帅跳到哈兰德身上庆祝夺冠](https://www.baidu.com/s?wd=%E7%93%9C%E5%B8%85%E8%B7%B3%E5%88%B0%E5%93%88%E5%85%B0%E5%BE%B7%E8%BA%AB%E4%B8%8A%E5%BA%86%E7%A5%9D%E5%A4%BA%E5%86%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [隐翅虫的毒液堪比硫酸](https://www.baidu.com/s?wd=%E9%9A%90%E7%BF%85%E8%99%AB%E7%9A%84%E6%AF%92%E6%B6%B2%E5%A0%AA%E6%AF%94%E7%A1%AB%E9%85%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [35岁男子为考清华复读14年](https://www.baidu.com/s?wd=35%E5%B2%81%E7%94%B7%E5%AD%90%E4%B8%BA%E8%80%83%E6%B8%85%E5%8D%8E%E5%A4%8D%E8%AF%BB14%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子考科三系错安全带考官面如死灰](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%80%83%E7%A7%91%E4%B8%89%E7%B3%BB%E9%94%99%E5%AE%89%E5%85%A8%E5%B8%A6%E8%80%83%E5%AE%98%E9%9D%A2%E5%A6%82%E6%AD%BB%E7%81%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [莫迪视察事故现场 这两幕激怒印度人](https://www.baidu.com/s?wd=%E8%8E%AB%E8%BF%AA%E8%A7%86%E5%AF%9F%E4%BA%8B%E6%95%85%E7%8E%B0%E5%9C%BA+%E8%BF%99%E4%B8%A4%E5%B9%95%E6%BF%80%E6%80%92%E5%8D%B0%E5%BA%A6%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [128秒回顾中国航天高燃时刻](https://www.baidu.com/s?wd=128%E7%A7%92%E5%9B%9E%E9%A1%BE%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E9%AB%98%E7%87%83%E6%97%B6%E5%88%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [25岁女孩体重只有60多斤](https://www.baidu.com/s?wd=25%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%BD%93%E9%87%8D%E5%8F%AA%E6%9C%8960%E5%A4%9A%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [马斯克来华首日晚宴费用疑曝光](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%9D%A5%E5%8D%8E%E9%A6%96%E6%97%A5%E6%99%9A%E5%AE%B4%E8%B4%B9%E7%94%A8%E7%96%91%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子考科三系错安全带考官面如死灰](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%80%83%E7%A7%91%E4%B8%89%E7%B3%BB%E9%94%99%E5%AE%89%E5%85%A8%E5%B8%A6%E8%80%83%E5%AE%98%E9%9D%A2%E5%A6%82%E6%AD%BB%E7%81%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [瓜帅跳到哈兰德身上庆祝夺冠](https://www.baidu.com/s?wd=%E7%93%9C%E5%B8%85%E8%B7%B3%E5%88%B0%E5%93%88%E5%85%B0%E5%BE%B7%E8%BA%AB%E4%B8%8A%E5%BA%86%E7%A5%9D%E5%A4%BA%E5%86%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [隐翅虫的毒液堪比硫酸](https://www.baidu.com/s?wd=%E9%9A%90%E7%BF%85%E8%99%AB%E7%9A%84%E6%AF%92%E6%B6%B2%E5%A0%AA%E6%AF%94%E7%A1%AB%E9%85%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [35岁男子为考清华复读14年](https://www.baidu.com/s?wd=35%E5%B2%81%E7%94%B7%E5%AD%90%E4%B8%BA%E8%80%83%E6%B8%85%E5%8D%8E%E5%A4%8D%E8%AF%BB14%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子考科三系错安全带考官面如死灰](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%80%83%E7%A7%91%E4%B8%89%E7%B3%BB%E9%94%99%E5%AE%89%E5%85%A8%E5%B8%A6%E8%80%83%E5%AE%98%E9%9D%A2%E5%A6%82%E6%AD%BB%E7%81%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [莫迪视察事故现场 这两幕激怒印度人](https://www.baidu.com/s?wd=%E8%8E%AB%E8%BF%AA%E8%A7%86%E5%AF%9F%E4%BA%8B%E6%95%85%E7%8E%B0%E5%9C%BA+%E8%BF%99%E4%B8%A4%E5%B9%95%E6%BF%80%E6%80%92%E5%8D%B0%E5%BA%A6%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
