@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 14:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 14:39:01</h4></div>
 
 > 微博  
 
@@ -31,8 +31,8 @@
 3. [李尚福：中国必须统一也必然统一](https://www.baidu.com/s?wd=%E6%9D%8E%E5%B0%9A%E7%A6%8F%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%BF%85%E9%A1%BB%E7%BB%9F%E4%B8%80%E4%B9%9F%E5%BF%85%E7%84%B6%E7%BB%9F%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [神十五任务圆满成功](https://www.baidu.com/s?wd=%E7%A5%9E%E5%8D%81%E4%BA%94%E4%BB%BB%E5%8A%A1%E5%9C%86%E6%BB%A1%E6%88%90%E5%8A%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子考科三系错安全带考官面如死灰](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%80%83%E7%A7%91%E4%B8%89%E7%B3%BB%E9%94%99%E5%AE%89%E5%85%A8%E5%B8%A6%E8%80%83%E5%AE%98%E9%9D%A2%E5%A6%82%E6%AD%BB%E7%81%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [教育部发布2023高考预警信息](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E5%B8%832023%E9%AB%98%E8%80%83%E9%A2%84%E8%AD%A6%E4%BF%A1%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [莫迪视察事故现场 这两幕激怒印度人](https://www.baidu.com/s?wd=%E8%8E%AB%E8%BF%AA%E8%A7%86%E5%AF%9F%E4%BA%8B%E6%95%85%E7%8E%B0%E5%9C%BA+%E8%BF%99%E4%B8%A4%E5%B9%95%E6%BF%80%E6%80%92%E5%8D%B0%E5%BA%A6%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [莫迪视察事故现场 这两幕激怒印度人](https://www.baidu.com/s?wd=%E8%8E%AB%E8%BF%AA%E8%A7%86%E5%AF%9F%E4%BA%8B%E6%95%85%E7%8E%B0%E5%9C%BA+%E8%BF%99%E4%B8%A4%E5%B9%95%E6%BF%80%E6%80%92%E5%8D%B0%E5%BA%A6%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [教育部发布2023高考预警信息](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E5%B8%832023%E9%AB%98%E8%80%83%E9%A2%84%E8%AD%A6%E4%BF%A1%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [姑姑拍到侄女做梦吃雪糕](https://www.baidu.com/s?wd=%E5%A7%91%E5%A7%91%E6%8B%8D%E5%88%B0%E4%BE%84%E5%A5%B3%E5%81%9A%E6%A2%A6%E5%90%83%E9%9B%AA%E7%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [面包车着火路过洒水车1分钟灭火](https://www.baidu.com/s?wd=%E9%9D%A2%E5%8C%85%E8%BD%A6%E7%9D%80%E7%81%AB%E8%B7%AF%E8%BF%87%E6%B4%92%E6%B0%B4%E8%BD%A61%E5%88%86%E9%92%9F%E7%81%AD%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -43,7 +43,7 @@
 3. [李尚福：中国必须统一也必然统一](https://www.baidu.com/s?wd=%E6%9D%8E%E5%B0%9A%E7%A6%8F%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%BF%85%E9%A1%BB%E7%BB%9F%E4%B8%80%E4%B9%9F%E5%BF%85%E7%84%B6%E7%BB%9F%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [神十五任务圆满成功](https://www.baidu.com/s?wd=%E7%A5%9E%E5%8D%81%E4%BA%94%E4%BB%BB%E5%8A%A1%E5%9C%86%E6%BB%A1%E6%88%90%E5%8A%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子考科三系错安全带考官面如死灰](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%80%83%E7%A7%91%E4%B8%89%E7%B3%BB%E9%94%99%E5%AE%89%E5%85%A8%E5%B8%A6%E8%80%83%E5%AE%98%E9%9D%A2%E5%A6%82%E6%AD%BB%E7%81%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [教育部发布2023高考预警信息](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E5%B8%832023%E9%AB%98%E8%80%83%E9%A2%84%E8%AD%A6%E4%BF%A1%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [莫迪视察事故现场 这两幕激怒印度人](https://www.baidu.com/s?wd=%E8%8E%AB%E8%BF%AA%E8%A7%86%E5%AF%9F%E4%BA%8B%E6%95%85%E7%8E%B0%E5%9C%BA+%E8%BF%99%E4%B8%A4%E5%B9%95%E6%BF%80%E6%80%92%E5%8D%B0%E5%BA%A6%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [莫迪视察事故现场 这两幕激怒印度人](https://www.baidu.com/s?wd=%E8%8E%AB%E8%BF%AA%E8%A7%86%E5%AF%9F%E4%BA%8B%E6%95%85%E7%8E%B0%E5%9C%BA+%E8%BF%99%E4%B8%A4%E5%B9%95%E6%BF%80%E6%80%92%E5%8D%B0%E5%BA%A6%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [教育部发布2023高考预警信息](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E5%B8%832023%E9%AB%98%E8%80%83%E9%A2%84%E8%AD%A6%E4%BF%A1%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [姑姑拍到侄女做梦吃雪糕](https://www.baidu.com/s?wd=%E5%A7%91%E5%A7%91%E6%8B%8D%E5%88%B0%E4%BE%84%E5%A5%B3%E5%81%9A%E6%A2%A6%E5%90%83%E9%9B%AA%E7%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [面包车着火路过洒水车1分钟灭火](https://www.baidu.com/s?wd=%E9%9D%A2%E5%8C%85%E8%BD%A6%E7%9D%80%E7%81%AB%E8%B7%AF%E8%BF%87%E6%B4%92%E6%B0%B4%E8%BD%A61%E5%88%86%E9%92%9F%E7%81%AD%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
