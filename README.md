@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 06:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 06:02:02</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [为什么篮球比赛进入小球时代?](https://www.zhihu.com/question/603469936)<br />
 6. [2023 赛季 F1 西班牙大奖赛，维斯塔潘夺冠，周冠宇第九，如何评价这场比赛？](https://www.zhihu.com/question/604771008)<br />
 7. []()<br />
-8. [如何评价原神 3.7 版本，6 月 1 日开的新深渊？](https://www.zhihu.com/question/604176024)<br />
-9. []()<br />
+8. []()<br />
+9. [如何评价原神 3.7 版本，6 月 1 日开的新深渊？](https://www.zhihu.com/question/604176024)<br />
 
 > 百度  
 
