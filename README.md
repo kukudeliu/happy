@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 13:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 13:22:01</h4></div>
 
 > 微博  
 
@@ -10,17 +10,17 @@
 6. [我曾一度认为是超市算错了](https://s.weibo.com/weibo?q=%E6%88%91%E6%9B%BE%E4%B8%80%E5%BA%A6%E8%AE%A4%E4%B8%BA%E6%98%AF%E8%B6%85%E5%B8%82%E7%AE%97%E9%94%99%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [张子豪 淘汰](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%AD%90%E8%B1%AA%20%E6%B7%98%E6%B1%B0&t=31&band_rank=7&Refer=top)<br />
 8. [肖战迪丽热巴赵露思V榜破9](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%B5%B5%E9%9C%B2%E6%80%9DV%E6%A6%9C%E7%A0%B49%23&t=31&band_rank=8&Refer=top)<br />
-9. [男子结婚4战友随2厚本刮刮乐](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%BB%93%E5%A9%9A4%E6%88%98%E5%8F%8B%E9%9A%8F2%E5%8E%9A%E6%9C%AC%E5%88%AE%E5%88%AE%E4%B9%90%23&t=31&band_rank=9&Refer=top)<br />
+9. [蔡徐坤说叫我坤就可以了](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E8%AF%B4%E5%8F%AB%E6%88%91%E5%9D%A4%E5%B0%B1%E5%8F%AF%E4%BB%A5%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [美加军舰过航台湾海峡，东部战区回应「全程跟监警戒，依法依规处置」，如何解读美、加此举意图？](https://www.zhihu.com/question/604645738)<br />
 2. [巴黎官方宣布梅西合同到期离队，两年 74 场收获 32 球 +35 助攻，如何评价梅西的表现？](https://www.zhihu.com/question/604699006)<br />
 3. [微软宣布 Win11 原生支持解压 rar 文件，WinRAR 发图自嘲，你对此有何看法？](https://www.zhihu.com/question/604180951)<br />
-4. [皇马官宣阿扎尔离队提前一年解约，四年收获 8 冠共出战 76 场打进 7 球，如何评价他的表现？](https://www.zhihu.com/question/604699099)<br />
+4. [4 个月卖出 1751.5 亿元，彩票正在以更多元的方式吸引着年轻人，年轻人为什么热衷买彩票？](https://www.zhihu.com/question/604618222)<br />
 5. [神舟十五号载人飞船返回舱成功着陆，航天员费俊龙邓清明张陆顺利出舱健康状态良好，如何评价这次任务的意义？](https://www.zhihu.com/question/604011587)<br />
 6. [黄仁勋为什么只有 3.5% 的英伟达股份？](https://www.zhihu.com/question/603714039)<br />
-7. [4 个月卖出 1751.5 亿元，彩票正在以更多元的方式吸引着年轻人，年轻人为什么热衷买彩票？](https://www.zhihu.com/question/604618222)<br />
+7. [皇马官宣阿扎尔离队提前一年解约，四年收获 8 冠共出战 76 场打进 7 球，如何评价他的表现？](https://www.zhihu.com/question/604699099)<br />
 8. [一个人怎样拥有很好的气质？](https://www.zhihu.com/question/598457632)<br />
 9. [你请客吃饭，结账时发现有人私下拿好烟好酒记在账上，怎么应对？](https://www.zhihu.com/question/465991724)<br />
 
