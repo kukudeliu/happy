@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 07:58:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 07:59:01</h4></div>
 
 > 微博  
 
@@ -19,31 +19,31 @@
 3. [马斯克之后，英伟达、摩根大通、星巴克、路威酩轩等公司 CEO 等外企高管再掀「来华潮」，释放哪些信号？](https://www.zhihu.com/question/604506301)<br />
 4. [如何看待国内服装尺码越来越小的现象？](https://www.zhihu.com/question/499028779)<br />
 5. [真人版《小美人鱼》口碑与票房双失利，仅仅是因为电影的选角吗？根本原因是什么？](https://www.zhihu.com/question/603607588)<br />
-6. [现代汉语是否应该引入「冇」的概念来更精准表达「没有」的含义?](https://www.zhihu.com/question/604176704)<br />
-7. [李斌回应蔚来巨亏，称「主要赔在研发上，研发的赔钱我觉得是投资」，具体情况如何？蔚来发展前景如何？](https://www.zhihu.com/question/602722590)<br />
+6. [李斌回应蔚来巨亏，称「主要赔在研发上，研发的赔钱我觉得是投资」，具体情况如何？蔚来发展前景如何？](https://www.zhihu.com/question/602722590)<br />
+7. [现代汉语是否应该引入「冇」的概念来更精准表达「没有」的含义?](https://www.zhihu.com/question/604176704)<br />
 8. [《西游记》中的世界地图是什么样的？](https://www.zhihu.com/question/37555090)<br />
 9. [是大部分动物都喜欢被摸头吗？](https://www.zhihu.com/question/442523187)<br />
 
 > 百度  
 
 1. [中国航天员从“天宫”发来的回信](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%91%98%E4%BB%8E%E2%80%9C%E5%A4%A9%E5%AE%AB%E2%80%9D%E5%8F%91%E6%9D%A5%E7%9A%84%E5%9B%9E%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [神十五返回遇上绝美日出朝霞](https://www.baidu.com/s?wd=%E7%A5%9E%E5%8D%81%E4%BA%94%E8%BF%94%E5%9B%9E%E9%81%87%E4%B8%8A%E7%BB%9D%E7%BE%8E%E6%97%A5%E5%87%BA%E6%9C%9D%E9%9C%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [神十五任务圆满成功](https://www.baidu.com/s?wd=%E7%A5%9E%E5%8D%81%E4%BA%94%E4%BB%BB%E5%8A%A1%E5%9C%86%E6%BB%A1%E6%88%90%E5%8A%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [女孩父母回应网传黄渤放弃资助](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E7%88%B6%E6%AF%8D%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E9%BB%84%E6%B8%A4%E6%94%BE%E5%BC%83%E8%B5%84%E5%8A%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [探源历史 致远未来](https://www.baidu.com/s?wd=%E6%8E%A2%E6%BA%90%E5%8E%86%E5%8F%B2+%E8%87%B4%E8%BF%9C%E6%9C%AA%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [费俊龙连说3个很好](https://www.baidu.com/s?wd=%E8%B4%B9%E4%BF%8A%E9%BE%99%E8%BF%9E%E8%AF%B43%E4%B8%AA%E5%BE%88%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [赵丽颖街边哄儿子被拍](https://www.baidu.com/s?wd=%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%A1%97%E8%BE%B9%E5%93%84%E5%84%BF%E5%AD%90%E8%A2%AB%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [男子用锤子凿墙壁救出4只小猫](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%94%A8%E9%94%A4%E5%AD%90%E5%87%BF%E5%A2%99%E5%A3%81%E6%95%91%E5%87%BA4%E5%8F%AA%E5%B0%8F%E7%8C%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [俄罗斯多地遭攻击 24小时内上百次](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E5%A4%9A%E5%9C%B0%E9%81%AD%E6%94%BB%E5%87%BB+24%E5%B0%8F%E6%97%B6%E5%86%85%E4%B8%8A%E7%99%BE%E6%AC%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [五月天演唱会华晨宇冷场](https://www.baidu.com/s?wd=%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8D%8E%E6%99%A8%E5%AE%87%E5%86%B7%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [医院因夸大病情、强迫交易 15人被捕](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%9B%A0%E5%A4%B8%E5%A4%A7%E7%97%85%E6%83%85%E3%80%81%E5%BC%BA%E8%BF%AB%E4%BA%A4%E6%98%93+15%E4%BA%BA%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [赵丽颖街边哄儿子被拍](https://www.baidu.com/s?wd=%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%A1%97%E8%BE%B9%E5%93%84%E5%84%BF%E5%AD%90%E8%A2%AB%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [五月天演唱会华晨宇冷场](https://www.baidu.com/s?wd=%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8D%8E%E6%99%A8%E5%AE%87%E5%86%B7%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [中国航天员从“天宫”发来的回信](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%91%98%E4%BB%8E%E2%80%9C%E5%A4%A9%E5%AE%AB%E2%80%9D%E5%8F%91%E6%9D%A5%E7%9A%84%E5%9B%9E%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [神十五返回遇上绝美日出朝霞](https://www.baidu.com/s?wd=%E7%A5%9E%E5%8D%81%E4%BA%94%E8%BF%94%E5%9B%9E%E9%81%87%E4%B8%8A%E7%BB%9D%E7%BE%8E%E6%97%A5%E5%87%BA%E6%9C%9D%E9%9C%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [神十五任务圆满成功](https://www.baidu.com/s?wd=%E7%A5%9E%E5%8D%81%E4%BA%94%E4%BB%BB%E5%8A%A1%E5%9C%86%E6%BB%A1%E6%88%90%E5%8A%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [女孩父母回应网传黄渤放弃资助](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E7%88%B6%E6%AF%8D%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E9%BB%84%E6%B8%A4%E6%94%BE%E5%BC%83%E8%B5%84%E5%8A%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [探源历史 致远未来](https://www.baidu.com/s?wd=%E6%8E%A2%E6%BA%90%E5%8E%86%E5%8F%B2+%E8%87%B4%E8%BF%9C%E6%9C%AA%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [费俊龙连说3个很好](https://www.baidu.com/s?wd=%E8%B4%B9%E4%BF%8A%E9%BE%99%E8%BF%9E%E8%AF%B43%E4%B8%AA%E5%BE%88%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [赵丽颖街边哄儿子被拍](https://www.baidu.com/s?wd=%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%A1%97%E8%BE%B9%E5%93%84%E5%84%BF%E5%AD%90%E8%A2%AB%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [男子用锤子凿墙壁救出4只小猫](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%94%A8%E9%94%A4%E5%AD%90%E5%87%BF%E5%A2%99%E5%A3%81%E6%95%91%E5%87%BA4%E5%8F%AA%E5%B0%8F%E7%8C%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [俄罗斯多地遭攻击 24小时内上百次](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E5%A4%9A%E5%9C%B0%E9%81%AD%E6%94%BB%E5%87%BB+24%E5%B0%8F%E6%97%B6%E5%86%85%E4%B8%8A%E7%99%BE%E6%AC%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [五月天演唱会华晨宇冷场](https://www.baidu.com/s?wd=%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8D%8E%E6%99%A8%E5%AE%87%E5%86%B7%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [医院因夸大病情、强迫交易 15人被捕](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%9B%A0%E5%A4%B8%E5%A4%A7%E7%97%85%E6%83%85%E3%80%81%E5%BC%BA%E8%BF%AB%E4%BA%A4%E6%98%93+15%E4%BA%BA%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [赵丽颖街边哄儿子被拍](https://www.baidu.com/s?wd=%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%A1%97%E8%BE%B9%E5%93%84%E5%84%BF%E5%AD%90%E8%A2%AB%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [五月天演唱会华晨宇冷场](https://www.baidu.com/s?wd=%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8D%8E%E6%99%A8%E5%AE%87%E5%86%B7%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
