@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 18:39:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 18:40:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [60秒回顾神十五返回舱着陆](https://s.weibo.com/weibo?q=%2360%E7%A7%92%E5%9B%9E%E9%A1%BE%E7%A5%9E%E5%8D%81%E4%BA%94%E8%BF%94%E5%9B%9E%E8%88%B1%E7%9D%80%E9%99%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [男子为考清华复读14年](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%BA%E8%80%83%E6%B8%85%E5%8D%8E%E5%A4%8D%E8%AF%BB14%E5%B9%B4%23&t=31&band_rank=4&Refer=top)<br />
 5. [男子江边观潮好心人嘶吼喊回一命](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%B1%9F%E8%BE%B9%E8%A7%82%E6%BD%AE%E5%A5%BD%E5%BF%83%E4%BA%BA%E5%98%B6%E5%90%BC%E5%96%8A%E5%9B%9E%E4%B8%80%E5%91%BD%23&t=31&band_rank=5&Refer=top)<br />
-6. [任敏 鸟鸟](https://s.weibo.com/weibo?q=%E4%BB%BB%E6%95%8F%20%E9%B8%9F%E9%B8%9F&t=31&band_rank=6&Refer=top)<br />
+6. [沈月cos陈小希](https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%9C%88cos%E9%99%88%E5%B0%8F%E5%B8%8C%23&t=31&band_rank=6&Refer=top)<br />
 7. [女店主拎起灭火器冲上前救火](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%BA%97%E4%B8%BB%E6%8B%8E%E8%B5%B7%E7%81%AD%E7%81%AB%E5%99%A8%E5%86%B2%E4%B8%8A%E5%89%8D%E6%95%91%E7%81%AB%23&t=31&band_rank=7&Refer=top)<br />
-8. [孟子义锐评任敏汤晶媚乐队事件](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E9%94%90%E8%AF%84%E4%BB%BB%E6%95%8F%E6%B1%A4%E6%99%B6%E5%AA%9A%E4%B9%90%E9%98%9F%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=8&Refer=top)<br />
-9. [沈月cos陈小希](https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%9C%88cos%E9%99%88%E5%B0%8F%E5%B8%8C%23&t=31&band_rank=9&Refer=top)<br />
+8. [任敏 鸟鸟](https://s.weibo.com/weibo?q=%E4%BB%BB%E6%95%8F%20%E9%B8%9F%E9%B8%9F&t=31&band_rank=8&Refer=top)<br />
+9. [四川乐山高位山体塌方14人遇难](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E4%B9%90%E5%B1%B1%E9%AB%98%E4%BD%8D%E5%B1%B1%E4%BD%93%E5%A1%8C%E6%96%B914%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
