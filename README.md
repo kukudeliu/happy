@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 14:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 14:25:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [你请客吃饭，结账时发现有人私下拿好烟好酒记在账上，怎么应对？](https://www.zhihu.com/question/465991724)<br />
 5. [神舟十五号载人飞船返回舱成功着陆，航天员费俊龙邓清明张陆顺利出舱健康状态良好，如何评价这次任务的意义？](https://www.zhihu.com/question/604011587)<br />
 6. [35 岁了还一事无成，怎么办呢？](https://www.zhihu.com/question/593756955)<br />
-7. [小学生现在还有必要学奥数吗？](https://www.zhihu.com/question/428103688)<br />
+7. [孩子在楼下玩被打了脸，对方家长下楼拒绝道歉该怎么办？](https://www.zhihu.com/question/602941549)<br />
 8. [微软宣布 Win11 原生支持解压 rar 文件，WinRAR 发图自嘲，你对此有何看法？](https://www.zhihu.com/question/604180951)<br />
-9. [孩子在楼下玩被打了脸，对方家长下楼拒绝道歉该怎么办？](https://www.zhihu.com/question/602941549)<br />
+9. [为什么一道几何题不添加辅助线就做不出来，添加了才做的出来，添加辅助线后多了条件吗?](https://www.zhihu.com/question/600468143)<br />
 
 > 百度  
 
