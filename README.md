@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 20:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 20:06:02</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [60秒回顾神十五返回舱着陆](https://s.weibo.com/weibo?q=%2360%E7%A7%92%E5%9B%9E%E9%A1%BE%E7%A5%9E%E5%8D%81%E4%BA%94%E8%BF%94%E5%9B%9E%E8%88%B1%E7%9D%80%E9%99%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [男子为考清华复读14年](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%BA%E8%80%83%E6%B8%85%E5%8D%8E%E5%A4%8D%E8%AF%BB14%E5%B9%B4%23&t=31&band_rank=4&Refer=top)<br />
 5. [爷爷把微信当书信用](https://s.weibo.com/weibo?q=%E7%88%B7%E7%88%B7%E6%8A%8A%E5%BE%AE%E4%BF%A1%E5%BD%93%E4%B9%A6%E4%BF%A1%E7%94%A8&t=31&band_rank=5&Refer=top)<br />
-6. [沈月cos陈小希](https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%9C%88cos%E9%99%88%E5%B0%8F%E5%B8%8C%23&t=31&band_rank=6&Refer=top)<br />
-7. [宋茜做错了什么](https://s.weibo.com/weibo?q=%E5%AE%8B%E8%8C%9C%E5%81%9A%E9%94%99%E4%BA%86%E4%BB%80%E4%B9%88&t=31&band_rank=7&Refer=top)<br />
+6. [宋茜做错了什么](https://s.weibo.com/weibo?q=%E5%AE%8B%E8%8C%9C%E5%81%9A%E9%94%99%E4%BA%86%E4%BB%80%E4%B9%88&t=31&band_rank=6&Refer=top)<br />
+7. [沈月cos陈小希](https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%9C%88cos%E9%99%88%E5%B0%8F%E5%B8%8C%23&t=31&band_rank=7&Refer=top)<br />
 8. [刘亦菲林志颖20年前合照](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E6%9E%97%E5%BF%97%E9%A2%9620%E5%B9%B4%E5%89%8D%E5%90%88%E7%85%A7%23&t=31&band_rank=8&Refer=top)<br />
-9. [孟子义锐评任敏汤晶媚乐队事件](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E9%94%90%E8%AF%84%E4%BB%BB%E6%95%8F%E6%B1%A4%E6%99%B6%E5%AA%9A%E4%B9%90%E9%98%9F%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=9&Refer=top)<br />
+9. [何炅的身材这么好吗](https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%E7%9A%84%E8%BA%AB%E6%9D%90%E8%BF%99%E4%B9%88%E5%A5%BD%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
