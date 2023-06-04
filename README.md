@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 06:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 06:52:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. []()<br />
 6. []()<br />
 7. [为何郑州与长沙的地铁客流量差距这么大？](https://www.zhihu.com/question/603935230)<br />
-8. [高考前该怎么调整心态？](https://www.zhihu.com/question/604041092)<br />
-9. [在县城，公务员晋升正科难吗？](https://www.zhihu.com/question/597393632)<br />
+8. [在县城，公务员晋升正科难吗？](https://www.zhihu.com/question/597393632)<br />
+9. [高考前该怎么调整心态？](https://www.zhihu.com/question/604041092)<br />
 
 > 百度  
 
