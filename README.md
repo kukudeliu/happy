@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 20:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 20:24:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [高校饭菜吃出老鼠头？市监局：鸭脖](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E9%A5%AD%E8%8F%9C%E5%90%83%E5%87%BA%E8%80%81%E9%BC%A0%E5%A4%B4%EF%BC%9F%E5%B8%82%E7%9B%91%E5%B1%80%EF%BC%9A%E9%B8%AD%E8%84%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [最“卷”618来了 消费者买单吗？](https://www.baidu.com/s?wd=%E6%9C%80%E2%80%9C%E5%8D%B7%E2%80%9D618%E6%9D%A5%E4%BA%86+%E6%B6%88%E8%B4%B9%E8%80%85%E4%B9%B0%E5%8D%95%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [广西出台新规防“烂尾楼”](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E5%87%BA%E5%8F%B0%E6%96%B0%E8%A7%84%E9%98%B2%E2%80%9C%E7%83%82%E5%B0%BE%E6%A5%BC%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [奶奶看小鬼演唱会捂耳朵](https://www.baidu.com/s?wd=%E5%A5%B6%E5%A5%B6%E7%9C%8B%E5%B0%8F%E9%AC%BC%E6%BC%94%E5%94%B1%E4%BC%9A%E6%8D%82%E8%80%B3%E6%9C%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [高考期间不要突击式补充能量](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4%E4%B8%8D%E8%A6%81%E7%AA%81%E5%87%BB%E5%BC%8F%E8%A1%A5%E5%85%85%E8%83%BD%E9%87%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [北岳恒山山火系人为用火引发](https://www.baidu.com/s?wd=%E5%8C%97%E5%B2%B3%E6%81%92%E5%B1%B1%E5%B1%B1%E7%81%AB%E7%B3%BB%E4%BA%BA%E4%B8%BA%E7%94%A8%E7%81%AB%E5%BC%95%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [奶奶看小鬼演唱会捂耳朵](https://www.baidu.com/s?wd=%E5%A5%B6%E5%A5%B6%E7%9C%8B%E5%B0%8F%E9%AC%BC%E6%BC%94%E5%94%B1%E4%BC%9A%E6%8D%82%E8%80%B3%E6%9C%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [高校饭菜吃出老鼠头？市监局：鸭脖](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E9%A5%AD%E8%8F%9C%E5%90%83%E5%87%BA%E8%80%81%E9%BC%A0%E5%A4%B4%EF%BC%9F%E5%B8%82%E7%9B%91%E5%B1%80%EF%BC%9A%E9%B8%AD%E8%84%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [最“卷”618来了 消费者买单吗？](https://www.baidu.com/s?wd=%E6%9C%80%E2%80%9C%E5%8D%B7%E2%80%9D618%E6%9D%A5%E4%BA%86+%E6%B6%88%E8%B4%B9%E8%80%85%E4%B9%B0%E5%8D%95%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [广西出台新规防“烂尾楼”](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E5%87%BA%E5%8F%B0%E6%96%B0%E8%A7%84%E9%98%B2%E2%80%9C%E7%83%82%E5%B0%BE%E6%A5%BC%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [奶奶看小鬼演唱会捂耳朵](https://www.baidu.com/s?wd=%E5%A5%B6%E5%A5%B6%E7%9C%8B%E5%B0%8F%E9%AC%BC%E6%BC%94%E5%94%B1%E4%BC%9A%E6%8D%82%E8%80%B3%E6%9C%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [高考期间不要突击式补充能量](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4%E4%B8%8D%E8%A6%81%E7%AA%81%E5%87%BB%E5%BC%8F%E8%A1%A5%E5%85%85%E8%83%BD%E9%87%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [北岳恒山山火系人为用火引发](https://www.baidu.com/s?wd=%E5%8C%97%E5%B2%B3%E6%81%92%E5%B1%B1%E5%B1%B1%E7%81%AB%E7%B3%BB%E4%BA%BA%E4%B8%BA%E7%94%A8%E7%81%AB%E5%BC%95%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [奶奶看小鬼演唱会捂耳朵](https://www.baidu.com/s?wd=%E5%A5%B6%E5%A5%B6%E7%9C%8B%E5%B0%8F%E9%AC%BC%E6%BC%94%E5%94%B1%E4%BC%9A%E6%8D%82%E8%80%B3%E6%9C%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
