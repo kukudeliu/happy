@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 12:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 12:05:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [黄仁勋为什么只有 3.5% 的英伟达股份？](https://www.zhihu.com/question/603714039)<br />
 7. [五月百城二手住宅均价环比下跌 0.25%，北京二手房成交量跌破 1.3 万套，六月楼市会怎么走？](https://www.zhihu.com/question/604444104)<br />
 8. [皇马官宣阿扎尔离队提前一年解约，四年收获 8 冠共出战 76 场打进 7 球，如何评价他的表现？](https://www.zhihu.com/question/604699099)<br />
-9. [礼物一定要贵的才好吗？](https://www.zhihu.com/question/455738832)<br />
+9. [一个人怎样拥有很好的气质？](https://www.zhihu.com/question/598457632)<br />
 
 > 百度  
 
