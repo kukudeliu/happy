@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 11:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 11:53:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [我曾一度认为是超市算错了](https://s.weibo.com/weibo?q=%E6%88%91%E6%9B%BE%E4%B8%80%E5%BA%A6%E8%AE%A4%E4%B8%BA%E6%98%AF%E8%B6%85%E5%B8%82%E7%AE%97%E9%94%99%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [千万不要把水果当饭吃](https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E6%8A%8A%E6%B0%B4%E6%9E%9C%E5%BD%93%E9%A5%AD%E5%90%83%23&t=31&band_rank=7&Refer=top)<br />
 8. [那英送何炅的衣服竟然是童装](https://s.weibo.com/weibo?q=%23%E9%82%A3%E8%8B%B1%E9%80%81%E4%BD%95%E7%82%85%E7%9A%84%E8%A1%A3%E6%9C%8D%E7%AB%9F%E7%84%B6%E6%98%AF%E7%AB%A5%E8%A3%85%23&t=31&band_rank=8&Refer=top)<br />
-9. [一人说一个奇怪的生理反应](https://s.weibo.com/weibo?q=%E4%B8%80%E4%BA%BA%E8%AF%B4%E4%B8%80%E4%B8%AA%E5%A5%87%E6%80%AA%E7%9A%84%E7%94%9F%E7%90%86%E5%8F%8D%E5%BA%94&t=31&band_rank=9&Refer=top)<br />
+9. [跑男打错范丞丞名字](https://s.weibo.com/weibo?q=%23%E8%B7%91%E7%94%B7%E6%89%93%E9%94%99%E8%8C%83%E4%B8%9E%E4%B8%9E%E5%90%8D%E5%AD%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
