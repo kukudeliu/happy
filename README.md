@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 14:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 14:44:01</h4></div>
 
 > 微博  
 
 1. [任敏哭了](https://s.weibo.com/weibo?q=%E4%BB%BB%E6%95%8F%E5%93%AD%E4%BA%86&t=31&band_rank=1&Refer=top)<br />
-2. [因为开玩笑把我哥订婚搅黄了](https://s.weibo.com/weibo?q=%23%E5%9B%A0%E4%B8%BA%E5%BC%80%E7%8E%A9%E7%AC%91%E6%8A%8A%E6%88%91%E5%93%A5%E8%AE%A2%E5%A9%9A%E6%90%85%E9%BB%84%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
+2. [我的脸被隐翅虫毁容了](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E8%84%B8%E8%A2%AB%E9%9A%90%E7%BF%85%E8%99%AB%E6%AF%81%E5%AE%B9%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [神十五航天员回地球](https://s.weibo.com/weibo?q=%23%E7%A5%9E%E5%8D%81%E4%BA%94%E8%88%AA%E5%A4%A9%E5%91%98%E5%9B%9E%E5%9C%B0%E7%90%83%23&t=31&band_rank=3&Refer=top)<br />
-4. [我的脸被隐翅虫毁容了](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E8%84%B8%E8%A2%AB%E9%9A%90%E7%BF%85%E8%99%AB%E6%AF%81%E5%AE%B9%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
+4. [因为开玩笑把我哥订婚搅黄了](https://s.weibo.com/weibo?q=%23%E5%9B%A0%E4%B8%BA%E5%BC%80%E7%8E%A9%E7%AC%91%E6%8A%8A%E6%88%91%E5%93%A5%E8%AE%A2%E5%A9%9A%E6%90%85%E9%BB%84%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [卡卡 北京](https://s.weibo.com/weibo?q=%E5%8D%A1%E5%8D%A1%20%E5%8C%97%E4%BA%AC&t=31&band_rank=5&Refer=top)<br />
 6. [蔡徐坤说叫我坤就可以了](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E8%AF%B4%E5%8F%AB%E6%88%91%E5%9D%A4%E5%B0%B1%E5%8F%AF%E4%BB%A5%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [重庆震感](https://s.weibo.com/weibo?q=%E9%87%8D%E5%BA%86%E9%9C%87%E6%84%9F&t=31&band_rank=7&Refer=top)<br />
-8. [你觉得椰树直播算擦边吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%A7%89%E5%BE%97%E6%A4%B0%E6%A0%91%E7%9B%B4%E6%92%AD%E7%AE%97%E6%93%A6%E8%BE%B9%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [张子豪 淘汰](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%AD%90%E8%B1%AA%20%E6%B7%98%E6%B1%B0&t=31&band_rank=9&Refer=top)<br />
+8. [张子豪 淘汰](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%AD%90%E8%B1%AA%20%E6%B7%98%E6%B1%B0&t=31&band_rank=8&Refer=top)<br />
+9. [你觉得椰树直播算擦边吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%A7%89%E5%BE%97%E6%A4%B0%E6%A0%91%E7%9B%B4%E6%92%AD%E7%AE%97%E6%93%A6%E8%BE%B9%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -33,7 +33,7 @@
 5. [女子考科三系错安全带考官面如死灰](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%80%83%E7%A7%91%E4%B8%89%E7%B3%BB%E9%94%99%E5%AE%89%E5%85%A8%E5%B8%A6%E8%80%83%E5%AE%98%E9%9D%A2%E5%A6%82%E6%AD%BB%E7%81%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [莫迪视察事故现场 这两幕激怒印度人](https://www.baidu.com/s?wd=%E8%8E%AB%E8%BF%AA%E8%A7%86%E5%AF%9F%E4%BA%8B%E6%95%85%E7%8E%B0%E5%9C%BA+%E8%BF%99%E4%B8%A4%E5%B9%95%E6%BF%80%E6%80%92%E5%8D%B0%E5%BA%A6%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [教育部发布2023高考预警信息](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E5%B8%832023%E9%AB%98%E8%80%83%E9%A2%84%E8%AD%A6%E4%BF%A1%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [姑姑拍到侄女做梦吃雪糕](https://www.baidu.com/s?wd=%E5%A7%91%E5%A7%91%E6%8B%8D%E5%88%B0%E4%BE%84%E5%A5%B3%E5%81%9A%E6%A2%A6%E5%90%83%E9%9B%AA%E7%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [费俊龙连说3个很好](https://www.baidu.com/s?wd=%E8%B4%B9%E4%BF%8A%E9%BE%99%E8%BF%9E%E8%AF%B43%E4%B8%AA%E5%BE%88%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [面包车着火路过洒水车1分钟灭火](https://www.baidu.com/s?wd=%E9%9D%A2%E5%8C%85%E8%BD%A6%E7%9D%80%E7%81%AB%E8%B7%AF%E8%BF%87%E6%B4%92%E6%B0%B4%E8%BD%A61%E5%88%86%E9%92%9F%E7%81%AD%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [女子考科三系错安全带考官面如死灰](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%80%83%E7%A7%91%E4%B8%89%E7%B3%BB%E9%94%99%E5%AE%89%E5%85%A8%E5%B8%A6%E8%80%83%E5%AE%98%E9%9D%A2%E5%A6%82%E6%AD%BB%E7%81%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [莫迪视察事故现场 这两幕激怒印度人](https://www.baidu.com/s?wd=%E8%8E%AB%E8%BF%AA%E8%A7%86%E5%AF%9F%E4%BA%8B%E6%95%85%E7%8E%B0%E5%9C%BA+%E8%BF%99%E4%B8%A4%E5%B9%95%E6%BF%80%E6%80%92%E5%8D%B0%E5%BA%A6%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [教育部发布2023高考预警信息](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E5%B8%832023%E9%AB%98%E8%80%83%E9%A2%84%E8%AD%A6%E4%BF%A1%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [姑姑拍到侄女做梦吃雪糕](https://www.baidu.com/s?wd=%E5%A7%91%E5%A7%91%E6%8B%8D%E5%88%B0%E4%BE%84%E5%A5%B3%E5%81%9A%E6%A2%A6%E5%90%83%E9%9B%AA%E7%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [费俊龙连说3个很好](https://www.baidu.com/s?wd=%E8%B4%B9%E4%BF%8A%E9%BE%99%E8%BF%9E%E8%AF%B43%E4%B8%AA%E5%BE%88%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [面包车着火路过洒水车1分钟灭火](https://www.baidu.com/s?wd=%E9%9D%A2%E5%8C%85%E8%BD%A6%E7%9D%80%E7%81%AB%E8%B7%AF%E8%BF%87%E6%B4%92%E6%B0%B4%E8%BD%A61%E5%88%86%E9%92%9F%E7%81%AD%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
