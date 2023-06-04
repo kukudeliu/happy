@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 06:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 06:08:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. []()<br />
 7. [原生家庭不好的孩子会失去爱别人的能力吗？](https://www.zhihu.com/question/603427798)<br />
 8. [高考前该怎么调整心态？](https://www.zhihu.com/question/604041092)<br />
-9. []()<br />
+9. [为什么英语没有把像 virtual 这样「出现即歧义」的单词淘汰掉?](https://www.zhihu.com/question/603452321)<br />
 
 > 百度  
 
