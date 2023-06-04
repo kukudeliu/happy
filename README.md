@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 10:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 10:46:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [日系车的溃缩吸能设计，是否有其理论上的合理性？](https://www.zhihu.com/question/604203550)<br />
 6. [什么叫做二次元游戏？](https://www.zhihu.com/question/30989488)<br />
 7. [距离高考还有四天的时候你们在想什么？有些焦虑，考不上好大学该怎么办？](https://www.zhihu.com/question/604608358)<br />
-8. [每天花两个小时背单词，值得吗？](https://www.zhihu.com/question/445968666)<br />
-9. [在单位，升职加薪无望，领导又经常给安排活儿，想做边缘人怎么办？](https://www.zhihu.com/question/604023905)<br />
+8. [在单位，升职加薪无望，领导又经常给安排活儿，想做边缘人怎么办？](https://www.zhihu.com/question/604023905)<br />
+9. [微软宣布 Win11 原生支持解压 rar 文件，WinRAR 发图自嘲，你对此有何看法？](https://www.zhihu.com/question/604180951)<br />
 
 > 百度  
 
