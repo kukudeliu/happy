@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 06:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 06:10:01</h4></div>
 
 > 微博  
 
@@ -19,10 +19,10 @@
 3. [韩国出口连跌 8 个月，对中美欧出口全部下滑，芯片出口大跌 36.2%，受哪些因素影响？](https://www.zhihu.com/question/604222429)<br />
 4. []()<br />
 5. [为什么篮球比赛进入小球时代?](https://www.zhihu.com/question/603469936)<br />
-6. []()<br />
-7. [原生家庭不好的孩子会失去爱别人的能力吗？](https://www.zhihu.com/question/603427798)<br />
-8. [高考前该怎么调整心态？](https://www.zhihu.com/question/604041092)<br />
-9. [为什么英语没有把像 virtual 这样「出现即歧义」的单词淘汰掉?](https://www.zhihu.com/question/603452321)<br />
+6. [高考前该怎么调整心态？](https://www.zhihu.com/question/604041092)<br />
+7. [为什么英语没有把像 virtual 这样「出现即歧义」的单词淘汰掉?](https://www.zhihu.com/question/603452321)<br />
+8. []()<br />
+9. [炖肉的时候，有时肉越炖越烂，有的时候却越炖越硬，这是为什么呢？背后有什么科学道理呢？](https://www.zhihu.com/question/507310446)<br />
 
 > 百度  
 
