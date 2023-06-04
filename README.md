@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 22:49:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 22:50:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [本田合资零部件厂商安斯泰莫承认造假，造假数量超 2 亿件，最长可追溯至 40 年前，此事暴露哪些问题？](https://www.zhihu.com/question/602979872)<br />
 5. [皇马官方宣布本泽马合同到期自由身离队，14 年 647 场打进 353 球，如何评价他的皇马生涯？](https://www.zhihu.com/question/604741814)<br />
 6. [为什么英语没有把像 virtual 这样「出现即歧义」的单词淘汰掉?](https://www.zhihu.com/question/603452321)<br />
-7. [电影《蜘蛛侠：纵横宇宙》有哪些亮点？](https://www.zhihu.com/question/504215688)<br />
-8. [2023 LPL 夏季赛 OMG 2:1 击败 WBG，如何评价这场比赛？](https://www.zhihu.com/question/604739881)<br />
-9. [如何评价《塞尔达传说：王国之泪》？](https://www.zhihu.com/question/593908300)<br />
+7. [2023 LPL 夏季赛 OMG 2:1 击败 WBG，如何评价这场比赛？](https://www.zhihu.com/question/604739881)<br />
+8. [如何评价《塞尔达传说：王国之泪》？](https://www.zhihu.com/question/593908300)<br />
+9. [新房装修，需不需要安装前置过滤器和净水器？](https://www.zhihu.com/question/450419506)<br />
 
 > 百度  
 
