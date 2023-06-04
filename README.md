@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 19:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 19:09:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [多国出现偏肺病毒感染 尚无治疗药物](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E5%87%BA%E7%8E%B0%E5%81%8F%E8%82%BA%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93+%E5%B0%9A%E6%97%A0%E6%B2%BB%E7%96%97%E8%8D%AF%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女生半夜嗦田螺肿成香肠嘴](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%8D%8A%E5%A4%9C%E5%97%A6%E7%94%B0%E8%9E%BA%E8%82%BF%E6%88%90%E9%A6%99%E8%82%A0%E5%98%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子掉入鱼塘前紧急扔出手机](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8E%89%E5%85%A5%E9%B1%BC%E5%A1%98%E5%89%8D%E7%B4%A7%E6%80%A5%E6%89%94%E5%87%BA%E6%89%8B%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [学校食堂吃出老鼠头？校方：鸭脖](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E9%A3%9F%E5%A0%82%E5%90%83%E5%87%BA%E8%80%81%E9%BC%A0%E5%A4%B4%EF%BC%9F%E6%A0%A1%E6%96%B9%EF%BC%9A%E9%B8%AD%E8%84%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子结婚4战友随2厚本刮刮乐](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%BB%93%E5%A9%9A4%E6%88%98%E5%8F%8B%E9%9A%8F2%E5%8E%9A%E6%9C%AC%E5%88%AE%E5%88%AE%E4%B9%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子结婚4战友随2厚本刮刮乐](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%BB%93%E5%A9%9A4%E6%88%98%E5%8F%8B%E9%9A%8F2%E5%8E%9A%E6%9C%AC%E5%88%AE%E5%88%AE%E4%B9%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [学校食堂吃出老鼠头？校方：鸭脖](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E9%A3%9F%E5%A0%82%E5%90%83%E5%87%BA%E8%80%81%E9%BC%A0%E5%A4%B4%EF%BC%9F%E6%A0%A1%E6%96%B9%EF%BC%9A%E9%B8%AD%E8%84%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [多国出现偏肺病毒感染 尚无治疗药物](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E5%87%BA%E7%8E%B0%E5%81%8F%E8%82%BA%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93+%E5%B0%9A%E6%97%A0%E6%B2%BB%E7%96%97%E8%8D%AF%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女生半夜嗦田螺肿成香肠嘴](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%8D%8A%E5%A4%9C%E5%97%A6%E7%94%B0%E8%9E%BA%E8%82%BF%E6%88%90%E9%A6%99%E8%82%A0%E5%98%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子掉入鱼塘前紧急扔出手机](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8E%89%E5%85%A5%E9%B1%BC%E5%A1%98%E5%89%8D%E7%B4%A7%E6%80%A5%E6%89%94%E5%87%BA%E6%89%8B%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [学校食堂吃出老鼠头？校方：鸭脖](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E9%A3%9F%E5%A0%82%E5%90%83%E5%87%BA%E8%80%81%E9%BC%A0%E5%A4%B4%EF%BC%9F%E6%A0%A1%E6%96%B9%EF%BC%9A%E9%B8%AD%E8%84%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子结婚4战友随2厚本刮刮乐](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%BB%93%E5%A9%9A4%E6%88%98%E5%8F%8B%E9%9A%8F2%E5%8E%9A%E6%9C%AC%E5%88%AE%E5%88%AE%E4%B9%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子结婚4战友随2厚本刮刮乐](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%BB%93%E5%A9%9A4%E6%88%98%E5%8F%8B%E9%9A%8F2%E5%8E%9A%E6%9C%AC%E5%88%AE%E5%88%AE%E4%B9%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [学校食堂吃出老鼠头？校方：鸭脖](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E9%A3%9F%E5%A0%82%E5%90%83%E5%87%BA%E8%80%81%E9%BC%A0%E5%A4%B4%EF%BC%9F%E6%A0%A1%E6%96%B9%EF%BC%9A%E9%B8%AD%E8%84%96&sa=fyb_news&rsv_dl=fyb_news)<br />
