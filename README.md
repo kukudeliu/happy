@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 20:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 20:20:01</h4></div>
 
 > 微博  
 
@@ -30,7 +30,7 @@
 2. [国防部长：请各国管好自家军舰飞机](https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E9%83%A8%E9%95%BF%EF%BC%9A%E8%AF%B7%E5%90%84%E5%9B%BD%E7%AE%A1%E5%A5%BD%E8%87%AA%E5%AE%B6%E5%86%9B%E8%88%B0%E9%A3%9E%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [35岁男子为考清华复读14年](https://www.baidu.com/s?wd=35%E5%B2%81%E7%94%B7%E5%AD%90%E4%B8%BA%E8%80%83%E6%B8%85%E5%8D%8E%E5%A4%8D%E8%AF%BB14%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [揭秘航天搜救队](https://www.baidu.com/s?wd=%E6%8F%AD%E7%A7%98%E8%88%AA%E5%A4%A9%E6%90%9C%E6%95%91%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [2名法师私吞善款？五台山佛协回应](https://www.baidu.com/s?wd=2%E5%90%8D%E6%B3%95%E5%B8%88%E7%A7%81%E5%90%9E%E5%96%84%E6%AC%BE%EF%BC%9F%E4%BA%94%E5%8F%B0%E5%B1%B1%E4%BD%9B%E5%8D%8F%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [高校饭菜吃出老鼠头？市监局：鸭脖](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E9%A5%AD%E8%8F%9C%E5%90%83%E5%87%BA%E8%80%81%E9%BC%A0%E5%A4%B4%EF%BC%9F%E5%B8%82%E7%9B%91%E5%B1%80%EF%BC%9A%E9%B8%AD%E8%84%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [最“卷”618来了 消费者买单吗？](https://www.baidu.com/s?wd=%E6%9C%80%E2%80%9C%E5%8D%B7%E2%80%9D618%E6%9D%A5%E4%BA%86+%E6%B6%88%E8%B4%B9%E8%80%85%E4%B9%B0%E5%8D%95%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [广西出台新规防“烂尾楼”](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E5%87%BA%E5%8F%B0%E6%96%B0%E8%A7%84%E9%98%B2%E2%80%9C%E7%83%82%E5%B0%BE%E6%A5%BC%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [奶奶看小鬼演唱会捂耳朵](https://www.baidu.com/s?wd=%E5%A5%B6%E5%A5%B6%E7%9C%8B%E5%B0%8F%E9%AC%BC%E6%BC%94%E5%94%B1%E4%BC%9A%E6%8D%82%E8%80%B3%E6%9C%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -42,7 +42,7 @@
 2. [国防部长：请各国管好自家军舰飞机](https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E9%83%A8%E9%95%BF%EF%BC%9A%E8%AF%B7%E5%90%84%E5%9B%BD%E7%AE%A1%E5%A5%BD%E8%87%AA%E5%AE%B6%E5%86%9B%E8%88%B0%E9%A3%9E%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [35岁男子为考清华复读14年](https://www.baidu.com/s?wd=35%E5%B2%81%E7%94%B7%E5%AD%90%E4%B8%BA%E8%80%83%E6%B8%85%E5%8D%8E%E5%A4%8D%E8%AF%BB14%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [揭秘航天搜救队](https://www.baidu.com/s?wd=%E6%8F%AD%E7%A7%98%E8%88%AA%E5%A4%A9%E6%90%9C%E6%95%91%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [2名法师私吞善款？五台山佛协回应](https://www.baidu.com/s?wd=2%E5%90%8D%E6%B3%95%E5%B8%88%E7%A7%81%E5%90%9E%E5%96%84%E6%AC%BE%EF%BC%9F%E4%BA%94%E5%8F%B0%E5%B1%B1%E4%BD%9B%E5%8D%8F%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [高校饭菜吃出老鼠头？市监局：鸭脖](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E9%A5%AD%E8%8F%9C%E5%90%83%E5%87%BA%E8%80%81%E9%BC%A0%E5%A4%B4%EF%BC%9F%E5%B8%82%E7%9B%91%E5%B1%80%EF%BC%9A%E9%B8%AD%E8%84%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [最“卷”618来了 消费者买单吗？](https://www.baidu.com/s?wd=%E6%9C%80%E2%80%9C%E5%8D%B7%E2%80%9D618%E6%9D%A5%E4%BA%86+%E6%B6%88%E8%B4%B9%E8%80%85%E4%B9%B0%E5%8D%95%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [广西出台新规防“烂尾楼”](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E5%87%BA%E5%8F%B0%E6%96%B0%E8%A7%84%E9%98%B2%E2%80%9C%E7%83%82%E5%B0%BE%E6%A5%BC%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [奶奶看小鬼演唱会捂耳朵](https://www.baidu.com/s?wd=%E5%A5%B6%E5%A5%B6%E7%9C%8B%E5%B0%8F%E9%AC%BC%E6%BC%94%E5%94%B1%E4%BC%9A%E6%8D%82%E8%80%B3%E6%9C%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
