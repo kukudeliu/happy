@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 22:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 22:47:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [国内出现偏肺病毒感染](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%86%85%E5%87%BA%E7%8E%B0%E5%81%8F%E8%82%BA%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93%23&t=31&band_rank=6&Refer=top)<br />
 7. [爷爷把微信当书信用](https://s.weibo.com/weibo?q=%E7%88%B7%E7%88%B7%E6%8A%8A%E5%BE%AE%E4%BF%A1%E5%BD%93%E4%B9%A6%E4%BF%A1%E7%94%A8&t=31&band_rank=7&Refer=top)<br />
 8. [全世界都在等你们分手](https://s.weibo.com/weibo?q=%E5%85%A8%E4%B8%96%E7%95%8C%E9%83%BD%E5%9C%A8%E7%AD%89%E4%BD%A0%E4%BB%AC%E5%88%86%E6%89%8B&t=31&band_rank=8&Refer=top)<br />
-9. [偏肺病毒](https://s.weibo.com/weibo?q=%23%E5%81%8F%E8%82%BA%E7%97%85%E6%AF%92%23&t=31&band_rank=9&Refer=top)<br />
+9. [妃子笑荔枝](https://s.weibo.com/weibo?q=%E5%A6%83%E5%AD%90%E7%AC%91%E8%8D%94%E6%9E%9D&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -18,8 +18,8 @@
 2. [苏武在贝加尔湖牧羊，条件恶劣，挖食鼠粮草根为生，他为什么不吃羊？](https://www.zhihu.com/question/25483987)<br />
 3. [为什么很多课上会规定「学生可以喝白水，茶也勉强可以，但不能喝饮料」？这些饮料有什么本质区别吗？](https://www.zhihu.com/question/601191918)<br />
 4. [本田合资零部件厂商安斯泰莫承认造假，造假数量超 2 亿件，最长可追溯至 40 年前，此事暴露哪些问题？](https://www.zhihu.com/question/602979872)<br />
-5. [电影《蜘蛛侠：纵横宇宙》有哪些亮点？](https://www.zhihu.com/question/504215688)<br />
-6. [皇马官方宣布本泽马合同到期自由身离队，14 年 647 场打进 353 球，如何评价他的皇马生涯？](https://www.zhihu.com/question/604741814)<br />
+5. [皇马官方宣布本泽马合同到期自由身离队，14 年 647 场打进 353 球，如何评价他的皇马生涯？](https://www.zhihu.com/question/604741814)<br />
+6. [电影《蜘蛛侠：纵横宇宙》有哪些亮点？](https://www.zhihu.com/question/504215688)<br />
 7. [为什么英语没有把像 virtual 这样「出现即歧义」的单词淘汰掉?](https://www.zhihu.com/question/603452321)<br />
 8. [2023 LPL 夏季赛 OMG 2:1 击败 WBG，如何评价这场比赛？](https://www.zhihu.com/question/604739881)<br />
 9. [如何评价《塞尔达传说：王国之泪》？](https://www.zhihu.com/question/593908300)<br />
