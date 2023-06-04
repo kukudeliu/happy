@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 14:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 14:34:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [女子考科三系错安全带考官面如死灰](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%80%83%E7%A7%91%E4%B8%89%E7%B3%BB%E9%94%99%E5%AE%89%E5%85%A8%E5%B8%A6%E8%80%83%E5%AE%98%E9%9D%A2%E5%A6%82%E6%AD%BB%E7%81%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [教育部发布2023高考预警信息](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E5%B8%832023%E9%AB%98%E8%80%83%E9%A2%84%E8%AD%A6%E4%BF%A1%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [姑姑拍到侄女做梦吃雪糕](https://www.baidu.com/s?wd=%E5%A7%91%E5%A7%91%E6%8B%8D%E5%88%B0%E4%BE%84%E5%A5%B3%E5%81%9A%E6%A2%A6%E5%90%83%E9%9B%AA%E7%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [美加军舰过航台湾海峡 东部战区回应](https://www.baidu.com/s?wd=%E7%BE%8E%E5%8A%A0%E5%86%9B%E8%88%B0%E8%BF%87%E8%88%AA%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1+%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女孩家长称黄渤赠送手表没有给弟弟](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%AE%B6%E9%95%BF%E7%A7%B0%E9%BB%84%E6%B8%A4%E8%B5%A0%E9%80%81%E6%89%8B%E8%A1%A8%E6%B2%A1%E6%9C%89%E7%BB%99%E5%BC%9F%E5%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女孩家长称黄渤赠送手表没有给弟弟](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%AE%B6%E9%95%BF%E7%A7%B0%E9%BB%84%E6%B8%A4%E8%B5%A0%E9%80%81%E6%89%8B%E8%A1%A8%E6%B2%A1%E6%9C%89%E7%BB%99%E5%BC%9F%E5%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [印度布地毯上浇沥青当新路](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E5%B8%83%E5%9C%B0%E6%AF%AF%E4%B8%8A%E6%B5%87%E6%B2%A5%E9%9D%92%E5%BD%93%E6%96%B0%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [女子考科三系错安全带考官面如死灰](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%80%83%E7%A7%91%E4%B8%89%E7%B3%BB%E9%94%99%E5%AE%89%E5%85%A8%E5%B8%A6%E8%80%83%E5%AE%98%E9%9D%A2%E5%A6%82%E6%AD%BB%E7%81%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [教育部发布2023高考预警信息](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E5%B8%832023%E9%AB%98%E8%80%83%E9%A2%84%E8%AD%A6%E4%BF%A1%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [姑姑拍到侄女做梦吃雪糕](https://www.baidu.com/s?wd=%E5%A7%91%E5%A7%91%E6%8B%8D%E5%88%B0%E4%BE%84%E5%A5%B3%E5%81%9A%E6%A2%A6%E5%90%83%E9%9B%AA%E7%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [美加军舰过航台湾海峡 东部战区回应](https://www.baidu.com/s?wd=%E7%BE%8E%E5%8A%A0%E5%86%9B%E8%88%B0%E8%BF%87%E8%88%AA%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1+%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女孩家长称黄渤赠送手表没有给弟弟](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%AE%B6%E9%95%BF%E7%A7%B0%E9%BB%84%E6%B8%A4%E8%B5%A0%E9%80%81%E6%89%8B%E8%A1%A8%E6%B2%A1%E6%9C%89%E7%BB%99%E5%BC%9F%E5%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女孩家长称黄渤赠送手表没有给弟弟](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%AE%B6%E9%95%BF%E7%A7%B0%E9%BB%84%E6%B8%A4%E8%B5%A0%E9%80%81%E6%89%8B%E8%A1%A8%E6%B2%A1%E6%9C%89%E7%BB%99%E5%BC%9F%E5%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [印度布地毯上浇沥青当新路](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E5%B8%83%E5%9C%B0%E6%AF%AF%E4%B8%8A%E6%B5%87%E6%B2%A5%E9%9D%92%E5%BD%93%E6%96%B0%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
