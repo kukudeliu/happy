@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 10:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 10:02:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [我曾一度认为是超市算错了](https://s.weibo.com/weibo?q=%E6%88%91%E6%9B%BE%E4%B8%80%E5%BA%A6%E8%AE%A4%E4%B8%BA%E6%98%AF%E8%B6%85%E5%B8%82%E7%AE%97%E9%94%99%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
 5. [那英送何炅的衣服竟然是童装](https://s.weibo.com/weibo?q=%23%E9%82%A3%E8%8B%B1%E9%80%81%E4%BD%95%E7%82%85%E7%9A%84%E8%A1%A3%E6%9C%8D%E7%AB%9F%E7%84%B6%E6%98%AF%E7%AB%A5%E8%A3%85%23&t=31&band_rank=5&Refer=top)<br />
 6. [一人说一个奇怪的生理反应](https://s.weibo.com/weibo?q=%E4%B8%80%E4%BA%BA%E8%AF%B4%E4%B8%80%E4%B8%AA%E5%A5%87%E6%80%AA%E7%9A%84%E7%94%9F%E7%90%86%E5%8F%8D%E5%BA%94&t=31&band_rank=6&Refer=top)<br />
-7. [梅西自宣离队](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%87%AA%E5%AE%A3%E7%A6%BB%E9%98%9F%23&t=31&band_rank=7&Refer=top)<br />
-8. [五月天鸟巢尾场唱任意门](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%E9%B8%9F%E5%B7%A2%E5%B0%BE%E5%9C%BA%E5%94%B1%E4%BB%BB%E6%84%8F%E9%97%A8&t=31&band_rank=8&Refer=top)<br />
+7. [五月天鸟巢尾场唱任意门](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%E9%B8%9F%E5%B7%A2%E5%B0%BE%E5%9C%BA%E5%94%B1%E4%BB%BB%E6%84%8F%E9%97%A8&t=31&band_rank=7&Refer=top)<br />
+8. [梅西自宣离队](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%87%AA%E5%AE%A3%E7%A6%BB%E9%98%9F%23&t=31&band_rank=8&Refer=top)<br />
 9. [女孩父母回应网传黄渤放弃资助](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E7%88%B6%E6%AF%8D%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E9%BB%84%E6%B8%A4%E6%94%BE%E5%BC%83%E8%B5%84%E5%8A%A9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -22,7 +22,7 @@
 6. [每天花两个小时背单词，值得吗？](https://www.zhihu.com/question/445968666)<br />
 7. [什么叫做二次元游戏？](https://www.zhihu.com/question/30989488)<br />
 8. [日系车的溃缩吸能设计，是否有其理论上的合理性？](https://www.zhihu.com/question/604203550)<br />
-9. [距离高考还有几天，有哪些建议给即将高考的学弟学妹们？](https://www.zhihu.com/question/461994623)<br />
+9. [距离高考还有四天的时候你们当时再想什么，考不上好大学该怎么办？有些焦虑?](https://www.zhihu.com/question/604608358)<br />
 
 > 百度  
 
