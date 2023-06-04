@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 07:19:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 07:20:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [国内出现偏肺病毒感染](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%86%85%E5%87%BA%E7%8E%B0%E5%81%8F%E8%82%BA%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93%23&t=31&band_rank=6&Refer=top)<br />
 7. [教育部发布2023高考预警](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E5%B8%832023%E9%AB%98%E8%80%83%E9%A2%84%E8%AD%A6%23&t=31&band_rank=7&Refer=top)<br />
 8. [宋雨琦奔跑吧12期只录了4期](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E9%9B%A8%E7%90%A6%E5%A5%94%E8%B7%91%E5%90%A712%E6%9C%9F%E5%8F%AA%E5%BD%95%E4%BA%864%E6%9C%9F%23&t=31&band_rank=8&Refer=top)<br />
-9. [汤晶媚任敏我们和好啦](https://s.weibo.com/weibo?q=%23%E6%B1%A4%E6%99%B6%E5%AA%9A%E4%BB%BB%E6%95%8F%E6%88%91%E4%BB%AC%E5%92%8C%E5%A5%BD%E5%95%A6%23&t=31&band_rank=9&Refer=top)<br />
+9. [25岁女孩体重只有60多斤](https://s.weibo.com/weibo?q=%2325%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%BD%93%E9%87%8D%E5%8F%AA%E6%9C%8960%E5%A4%9A%E6%96%A4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -21,8 +21,8 @@
 5. [一定要靠读书才能出人头地吗？](https://www.zhihu.com/question/602090050)<br />
 6. [为什么很多课上会规定「学生可以喝白水，茶也勉强可以，但不能喝饮料」？这些饮料有什么本质区别吗？](https://www.zhihu.com/question/601191918)<br />
 7. [在县城，公务员晋升正科难吗？](https://www.zhihu.com/question/597393632)<br />
-8. [为何郑州与长沙的地铁客流量差距这么大？](https://www.zhihu.com/question/603935230)<br />
-9. [为什么苹果和安卓厂商几乎都放弃了小屏市场？](https://www.zhihu.com/question/603801469)<br />
+8. [为什么苹果和安卓厂商几乎都放弃了小屏市场？](https://www.zhihu.com/question/603801469)<br />
+9. [为何郑州与长沙的地铁客流量差距这么大？](https://www.zhihu.com/question/603935230)<br />
 
 > 百度  
 
