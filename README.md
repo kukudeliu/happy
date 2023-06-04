@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 19:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 19:53:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [男子为考清华复读14年](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%BA%E8%80%83%E6%B8%85%E5%8D%8E%E5%A4%8D%E8%AF%BB14%E5%B9%B4%23&t=31&band_rank=4&Refer=top)<br />
 5. [男子江边观潮好心人嘶吼喊回一命](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%B1%9F%E8%BE%B9%E8%A7%82%E6%BD%AE%E5%A5%BD%E5%BF%83%E4%BA%BA%E5%98%B6%E5%90%BC%E5%96%8A%E5%9B%9E%E4%B8%80%E5%91%BD%23&t=31&band_rank=5&Refer=top)<br />
 6. [爷爷把微信当书信用](https://s.weibo.com/weibo?q=%E7%88%B7%E7%88%B7%E6%8A%8A%E5%BE%AE%E4%BF%A1%E5%BD%93%E4%B9%A6%E4%BF%A1%E7%94%A8&t=31&band_rank=6&Refer=top)<br />
-7. [市监局再次确认高校饭菜异物是鸭脖](https://s.weibo.com/weibo?q=%23%E5%B8%82%E7%9B%91%E5%B1%80%E5%86%8D%E6%AC%A1%E7%A1%AE%E8%AE%A4%E9%AB%98%E6%A0%A1%E9%A5%AD%E8%8F%9C%E5%BC%82%E7%89%A9%E6%98%AF%E9%B8%AD%E8%84%96%23&t=31&band_rank=7&Refer=top)<br />
-8. [沈月cos陈小希](https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%9C%88cos%E9%99%88%E5%B0%8F%E5%B8%8C%23&t=31&band_rank=8&Refer=top)<br />
-9. [31岁孤独症康复师离世捐出全部器官](https://s.weibo.com/weibo?q=%2331%E5%B2%81%E5%AD%A4%E7%8B%AC%E7%97%87%E5%BA%B7%E5%A4%8D%E5%B8%88%E7%A6%BB%E4%B8%96%E6%8D%90%E5%87%BA%E5%85%A8%E9%83%A8%E5%99%A8%E5%AE%98%23&t=31&band_rank=9&Refer=top)<br />
+7. [31岁孤独症康复师离世捐出全部器官](https://s.weibo.com/weibo?q=%2331%E5%B2%81%E5%AD%A4%E7%8B%AC%E7%97%87%E5%BA%B7%E5%A4%8D%E5%B8%88%E7%A6%BB%E4%B8%96%E6%8D%90%E5%87%BA%E5%85%A8%E9%83%A8%E5%99%A8%E5%AE%98%23&t=31&band_rank=7&Refer=top)<br />
+8. [市监局再次确认高校饭菜异物是鸭脖](https://s.weibo.com/weibo?q=%23%E5%B8%82%E7%9B%91%E5%B1%80%E5%86%8D%E6%AC%A1%E7%A1%AE%E8%AE%A4%E9%AB%98%E6%A0%A1%E9%A5%AD%E8%8F%9C%E5%BC%82%E7%89%A9%E6%98%AF%E9%B8%AD%E8%84%96%23&t=31&band_rank=8&Refer=top)<br />
+9. [沈月cos陈小希](https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%9C%88cos%E9%99%88%E5%B0%8F%E5%B8%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
