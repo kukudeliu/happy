@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 07:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 07:26:01</h4></div>
 
 > 微博  
 
@@ -19,10 +19,10 @@
 3. [苏武在贝加尔湖牧羊，条件恶劣，挖食鼠粮草根为生，他为什么不吃羊？](https://www.zhihu.com/question/25483987)<br />
 4. [为什么篮球比赛进入小球时代?](https://www.zhihu.com/question/603469936)<br />
 5. [一定要靠读书才能出人头地吗？](https://www.zhihu.com/question/602090050)<br />
-6. [为什么很多课上会规定「学生可以喝白水，茶也勉强可以，但不能喝饮料」？这些饮料有什么本质区别吗？](https://www.zhihu.com/question/601191918)<br />
-7. [为什么苹果和安卓厂商几乎都放弃了小屏市场？](https://www.zhihu.com/question/603801469)<br />
-8. [为何郑州与长沙的地铁客流量差距这么大？](https://www.zhihu.com/question/603935230)<br />
-9. [在县城，公务员晋升正科难吗？](https://www.zhihu.com/question/597393632)<br />
+6. [为什么一战说法国「打光了一代人」而没有说英国「打光了一代人」?](https://www.zhihu.com/question/571031038)<br />
+7. [为什么很多课上会规定「学生可以喝白水，茶也勉强可以，但不能喝饮料」？这些饮料有什么本质区别吗？](https://www.zhihu.com/question/601191918)<br />
+8. [为什么苹果和安卓厂商几乎都放弃了小屏市场？](https://www.zhihu.com/question/603801469)<br />
+9. [为何郑州与长沙的地铁客流量差距这么大？](https://www.zhihu.com/question/603935230)<br />
 
 > 百度  
 
