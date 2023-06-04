@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 05:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 05:35:01</h4></div>
 
 > 微博  
 
@@ -17,12 +17,12 @@
 1. [苏武在贝加尔湖牧羊，条件恶劣，挖食鼠粮草根为生，他为什么不吃羊？](https://www.zhihu.com/question/25483987)<br />
 2. [本田合资零部件厂商安斯泰莫承认造假，造假数量超 2 亿件，最长可追溯至 40 年前，此事暴露哪些问题？](https://www.zhihu.com/question/602979872)<br />
 3. [韩国出口连跌 8 个月，对中美欧出口全部下滑，芯片出口大跌 36.2%，受哪些因素影响？](https://www.zhihu.com/question/604222429)<br />
-4. [美加军舰过航台湾海峡，东部战区回应「全程跟监警戒，依法依规处置」，如何解读美、加此举意图？](https://www.zhihu.com/question/604645738)<br />
-5. []()<br />
-6. [为什么篮球比赛进入小球时代?](https://www.zhihu.com/question/603469936)<br />
+4. []()<br />
+5. [为什么篮球比赛进入小球时代?](https://www.zhihu.com/question/603469936)<br />
+6. [美加军舰过航台湾海峡，东部战区回应「全程跟监警戒，依法依规处置」，如何解读美、加此举意图？](https://www.zhihu.com/question/604645738)<br />
 7. [《塞尔达传说：王国之泪》地下世界感觉有点压抑，怎么玩比较好？](https://www.zhihu.com/question/600762687)<br />
-8. [原生家庭不好的孩子会失去爱别人的能力吗？](https://www.zhihu.com/question/603427798)<br />
-9. [在县城，公务员晋升正科难吗？](https://www.zhihu.com/question/597393632)<br />
+8. [在县城，公务员晋升正科难吗？](https://www.zhihu.com/question/597393632)<br />
+9. [原生家庭不好的孩子会失去爱别人的能力吗？](https://www.zhihu.com/question/603427798)<br />
 
 > 百度  
 
