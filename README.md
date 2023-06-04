@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 08:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 08:15:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [萌娃检查身体时突然向医生wink](https://s.weibo.com/weibo?q=%23%E8%90%8C%E5%A8%83%E6%A3%80%E6%9F%A5%E8%BA%AB%E4%BD%93%E6%97%B6%E7%AA%81%E7%84%B6%E5%90%91%E5%8C%BB%E7%94%9Fwink%23&t=31&band_rank=6&Refer=top)<br />
 7. [一人说一个奇怪的生理反应](https://s.weibo.com/weibo?q=%E4%B8%80%E4%BA%BA%E8%AF%B4%E4%B8%80%E4%B8%AA%E5%A5%87%E6%80%AA%E7%9A%84%E7%94%9F%E7%90%86%E5%8F%8D%E5%BA%94&t=31&band_rank=7&Refer=top)<br />
 8. [黄渤回应贫困女孩争议](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%B8%A4%E5%9B%9E%E5%BA%94%E8%B4%AB%E5%9B%B0%E5%A5%B3%E5%AD%A9%E4%BA%89%E8%AE%AE%23&t=31&band_rank=8&Refer=top)<br />
-9. [欢迎费俊龙邓清明张陆回家](https://s.weibo.com/weibo?q=%23%E6%AC%A2%E8%BF%8E%E8%B4%B9%E4%BF%8A%E9%BE%99%E9%82%93%E6%B8%85%E6%98%8E%E5%BC%A0%E9%99%86%E5%9B%9E%E5%AE%B6%23&t=31&band_rank=9&Refer=top)<br />
+9. [14岁女生心脏骤停教室上演生死救援](https://s.weibo.com/weibo?q=%2314%E5%B2%81%E5%A5%B3%E7%94%9F%E5%BF%83%E8%84%8F%E9%AA%A4%E5%81%9C%E6%95%99%E5%AE%A4%E4%B8%8A%E6%BC%94%E7%94%9F%E6%AD%BB%E6%95%91%E6%8F%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
