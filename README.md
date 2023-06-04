@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 07:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 07:01:01</h4></div>
 
 > 微博  
 
@@ -18,11 +18,11 @@
 2. [苏武在贝加尔湖牧羊，条件恶劣，挖食鼠粮草根为生，他为什么不吃羊？](https://www.zhihu.com/question/25483987)<br />
 3. [韩国出口连跌 8 个月，对中美欧出口全部下滑，芯片出口大跌 36.2%，受哪些因素影响？](https://www.zhihu.com/question/604222429)<br />
 4. [为什么篮球比赛进入小球时代?](https://www.zhihu.com/question/603469936)<br />
-5. []()<br />
-6. []()<br />
+5. [一定要靠读书才能出人头地吗？](https://www.zhihu.com/question/602090050)<br />
+6. [为什么苹果和安卓厂商几乎都放弃了小屏市场？](https://www.zhihu.com/question/603801469)<br />
 7. [为什么很多课上会规定「学生可以喝白水，茶也勉强可以，但不能喝饮料」？这些饮料有什么本质区别吗？](https://www.zhihu.com/question/601191918)<br />
-8. [游戏《闪耀暖暖》和《以闪亮之名》到底哪个好?](https://www.zhihu.com/question/553106542)<br />
-9. [炖肉的时候，有时肉越炖越烂，有的时候却越炖越硬，这是为什么呢？背后有什么科学道理呢？](https://www.zhihu.com/question/507310446)<br />
+8. [炖肉的时候，有时肉越炖越烂，有的时候却越炖越硬，这是为什么呢？背后有什么科学道理呢？](https://www.zhihu.com/question/507310446)<br />
+9. [游戏《闪耀暖暖》和《以闪亮之名》到底哪个好?](https://www.zhihu.com/question/553106542)<br />
 
 > 百度  
 
