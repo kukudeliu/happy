@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 09:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 09:29:01</h4></div>
 
 > 微博  
 
@@ -17,12 +17,12 @@
 1. [主动与中国防长握手后，美防长奥斯汀称「保持沟通渠道至关重要」，哪些信息值得关注？](https://www.zhihu.com/question/604590355)<br />
 2. [波音 CEO 称 C919 是一架好飞机，但想满足需求还有很久，不该对全球有三家供应商生畏，如何解读？](https://www.zhihu.com/question/604411935)<br />
 3. [2023 高考临近，作为考生或家长的你现在状态如何？是否会感到紧张焦虑？有哪些调节经验分享？](https://www.zhihu.com/question/604554083)<br />
-4. [什么叫做二次元游戏？](https://www.zhihu.com/question/30989488)<br />
-5. [每天花两个小时背单词，值得吗？](https://www.zhihu.com/question/445968666)<br />
-6. [距离高考还有四天的时候你们当时再想什么，考不上好大学该怎么办？有些焦虑?](https://www.zhihu.com/question/604608358)<br />
-7. [如何看待国内服装尺码越来越小的现象？](https://www.zhihu.com/question/499028779)<br />
-8. [现代汉语是否应该引入「冇」的概念来更精准表达「没有」的含义?](https://www.zhihu.com/question/604176704)<br />
-9. [真人版《小美人鱼》口碑与票房双失利，仅仅是因为电影的选角吗？根本原因是什么？](https://www.zhihu.com/question/603607588)<br />
+4. [美加军舰过航台湾海峡，东部战区回应「全程跟监警戒，依法依规处置」，如何解读美、加此举意图？](https://www.zhihu.com/question/604645738)<br />
+5. [什么叫做二次元游戏？](https://www.zhihu.com/question/30989488)<br />
+6. [每天花两个小时背单词，值得吗？](https://www.zhihu.com/question/445968666)<br />
+7. [距离高考还有四天的时候你们当时再想什么，考不上好大学该怎么办？有些焦虑?](https://www.zhihu.com/question/604608358)<br />
+8. [如何看待国内服装尺码越来越小的现象？](https://www.zhihu.com/question/499028779)<br />
+9. [现代汉语是否应该引入「冇」的概念来更精准表达「没有」的含义?](https://www.zhihu.com/question/604176704)<br />
 
 > 百度  
 
