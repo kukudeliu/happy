@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 13:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 13:54:01</h4></div>
 
 > 微博  
 
@@ -32,9 +32,9 @@
 4. [神十五任务圆满成功](https://www.baidu.com/s?wd=%E7%A5%9E%E5%8D%81%E4%BA%94%E4%BB%BB%E5%8A%A1%E5%9C%86%E6%BB%A1%E6%88%90%E5%8A%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子考科三系错安全带考官面如死灰](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%80%83%E7%A7%91%E4%B8%89%E7%B3%BB%E9%94%99%E5%AE%89%E5%85%A8%E5%B8%A6%E8%80%83%E5%AE%98%E9%9D%A2%E5%A6%82%E6%AD%BB%E7%81%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [姑姑拍到侄女做梦吃雪糕](https://www.baidu.com/s?wd=%E5%A7%91%E5%A7%91%E6%8B%8D%E5%88%B0%E4%BE%84%E5%A5%B3%E5%81%9A%E6%A2%A6%E5%90%83%E9%9B%AA%E7%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [3分钟回顾神十五航天员返回全程](https://www.baidu.com/s?wd=3%E5%88%86%E9%92%9F%E5%9B%9E%E9%A1%BE%E7%A5%9E%E5%8D%81%E4%BA%94%E8%88%AA%E5%A4%A9%E5%91%98%E8%BF%94%E5%9B%9E%E5%85%A8%E7%A8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子路遇纸片鸟一查竟是国保动物](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B7%AF%E9%81%87%E7%BA%B8%E7%89%87%E9%B8%9F%E4%B8%80%E6%9F%A5%E7%AB%9F%E6%98%AF%E5%9B%BD%E4%BF%9D%E5%8A%A8%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [跑男打错范丞丞名字](https://www.baidu.com/s?wd=%E8%B7%91%E7%94%B7%E6%89%93%E9%94%99%E8%8C%83%E4%B8%9E%E4%B8%9E%E5%90%8D%E5%AD%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [印度列车相撞事故或由信号错误导致](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E5%88%97%E8%BD%A6%E7%9B%B8%E6%92%9E%E4%BA%8B%E6%95%85%E6%88%96%E7%94%B1%E4%BF%A1%E5%8F%B7%E9%94%99%E8%AF%AF%E5%AF%BC%E8%87%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [跑男打错范丞丞名字](https://www.baidu.com/s?wd=%E8%B7%91%E7%94%B7%E6%89%93%E9%94%99%E8%8C%83%E4%B8%9E%E4%B8%9E%E5%90%8D%E5%AD%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子路遇纸片鸟一查竟是国保动物](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B7%AF%E9%81%87%E7%BA%B8%E7%89%87%E9%B8%9F%E4%B8%80%E6%9F%A5%E7%AB%9F%E6%98%AF%E5%9B%BD%E4%BF%9D%E5%8A%A8%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [神十五任务圆满成功](https://www.baidu.com/s?wd=%E7%A5%9E%E5%8D%81%E4%BA%94%E4%BB%BB%E5%8A%A1%E5%9C%86%E6%BB%A1%E6%88%90%E5%8A%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子考科三系错安全带考官面如死灰](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%80%83%E7%A7%91%E4%B8%89%E7%B3%BB%E9%94%99%E5%AE%89%E5%85%A8%E5%B8%A6%E8%80%83%E5%AE%98%E9%9D%A2%E5%A6%82%E6%AD%BB%E7%81%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [姑姑拍到侄女做梦吃雪糕](https://www.baidu.com/s?wd=%E5%A7%91%E5%A7%91%E6%8B%8D%E5%88%B0%E4%BE%84%E5%A5%B3%E5%81%9A%E6%A2%A6%E5%90%83%E9%9B%AA%E7%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [3分钟回顾神十五航天员返回全程](https://www.baidu.com/s?wd=3%E5%88%86%E9%92%9F%E5%9B%9E%E9%A1%BE%E7%A5%9E%E5%8D%81%E4%BA%94%E8%88%AA%E5%A4%A9%E5%91%98%E8%BF%94%E5%9B%9E%E5%85%A8%E7%A8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子路遇纸片鸟一查竟是国保动物](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B7%AF%E9%81%87%E7%BA%B8%E7%89%87%E9%B8%9F%E4%B8%80%E6%9F%A5%E7%AB%9F%E6%98%AF%E5%9B%BD%E4%BF%9D%E5%8A%A8%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [跑男打错范丞丞名字](https://www.baidu.com/s?wd=%E8%B7%91%E7%94%B7%E6%89%93%E9%94%99%E8%8C%83%E4%B8%9E%E4%B8%9E%E5%90%8D%E5%AD%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [印度列车相撞事故或由信号错误导致](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E5%88%97%E8%BD%A6%E7%9B%B8%E6%92%9E%E4%BA%8B%E6%95%85%E6%88%96%E7%94%B1%E4%BF%A1%E5%8F%B7%E9%94%99%E8%AF%AF%E5%AF%BC%E8%87%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [跑男打错范丞丞名字](https://www.baidu.com/s?wd=%E8%B7%91%E7%94%B7%E6%89%93%E9%94%99%E8%8C%83%E4%B8%9E%E4%B8%9E%E5%90%8D%E5%AD%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子路遇纸片鸟一查竟是国保动物](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B7%AF%E9%81%87%E7%BA%B8%E7%89%87%E9%B8%9F%E4%B8%80%E6%9F%A5%E7%AB%9F%E6%98%AF%E5%9B%BD%E4%BF%9D%E5%8A%A8%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
