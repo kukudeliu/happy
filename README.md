@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 13:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 13:30:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [张子豪 淘汰](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%AD%90%E8%B1%AA%20%E6%B7%98%E6%B1%B0&t=31&band_rank=5&Refer=top)<br />
 6. [你觉得椰树直播算擦边吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%A7%89%E5%BE%97%E6%A4%B0%E6%A0%91%E7%9B%B4%E6%92%AD%E7%AE%97%E6%93%A6%E8%BE%B9%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [任敏哭了](https://s.weibo.com/weibo?q=%E4%BB%BB%E6%95%8F%E5%93%AD%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
-8. [我曾一度认为是超市算错了](https://s.weibo.com/weibo?q=%E6%88%91%E6%9B%BE%E4%B8%80%E5%BA%A6%E8%AE%A4%E4%B8%BA%E6%98%AF%E8%B6%85%E5%B8%82%E7%AE%97%E9%94%99%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [蔡徐坤说叫我坤就可以了](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E8%AF%B4%E5%8F%AB%E6%88%91%E5%9D%A4%E5%B0%B1%E5%8F%AF%E4%BB%A5%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+8. [蔡徐坤说叫我坤就可以了](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E8%AF%B4%E5%8F%AB%E6%88%91%E5%9D%A4%E5%B0%B1%E5%8F%AF%E4%BB%A5%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [我曾一度认为是超市算错了](https://s.weibo.com/weibo?q=%E6%88%91%E6%9B%BE%E4%B8%80%E5%BA%A6%E8%AE%A4%E4%B8%BA%E6%98%AF%E8%B6%85%E5%B8%82%E7%AE%97%E9%94%99%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
