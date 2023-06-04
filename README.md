@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 21:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 21:03:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [宁静即兴演皇后一秒入戏](https://www.baidu.com/s?wd=%E5%AE%81%E9%9D%99%E5%8D%B3%E5%85%B4%E6%BC%94%E7%9A%87%E5%90%8E%E4%B8%80%E7%A7%92%E5%85%A5%E6%88%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [隐翅虫的毒液堪比硫酸](https://www.baidu.com/s?wd=%E9%9A%90%E7%BF%85%E8%99%AB%E7%9A%84%E6%AF%92%E6%B6%B2%E5%A0%AA%E6%AF%94%E7%A1%AB%E9%85%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [奶奶看小鬼演唱会捂耳朵](https://www.baidu.com/s?wd=%E5%A5%B6%E5%A5%B6%E7%9C%8B%E5%B0%8F%E9%AC%BC%E6%BC%94%E5%94%B1%E4%BC%9A%E6%8D%82%E8%80%B3%E6%9C%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [高校饭菜吃出老鼠头？市监局：鸭脖](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E9%A5%AD%E8%8F%9C%E5%90%83%E5%87%BA%E8%80%81%E9%BC%A0%E5%A4%B4%EF%BC%9F%E5%B8%82%E7%9B%91%E5%B1%80%EF%BC%9A%E9%B8%AD%E8%84%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子考科三系错安全带考官面如死灰](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%80%83%E7%A7%91%E4%B8%89%E7%B3%BB%E9%94%99%E5%AE%89%E5%85%A8%E5%B8%A6%E8%80%83%E5%AE%98%E9%9D%A2%E5%A6%82%E6%AD%BB%E7%81%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [宁静即兴演皇后一秒入戏](https://www.baidu.com/s?wd=%E5%AE%81%E9%9D%99%E5%8D%B3%E5%85%B4%E6%BC%94%E7%9A%87%E5%90%8E%E4%B8%80%E7%A7%92%E5%85%A5%E6%88%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [隐翅虫的毒液堪比硫酸](https://www.baidu.com/s?wd=%E9%9A%90%E7%BF%85%E8%99%AB%E7%9A%84%E6%AF%92%E6%B6%B2%E5%A0%AA%E6%AF%94%E7%A1%AB%E9%85%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [奶奶看小鬼演唱会捂耳朵](https://www.baidu.com/s?wd=%E5%A5%B6%E5%A5%B6%E7%9C%8B%E5%B0%8F%E9%AC%BC%E6%BC%94%E5%94%B1%E4%BC%9A%E6%8D%82%E8%80%B3%E6%9C%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [高校饭菜吃出老鼠头？市监局：鸭脖](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E9%A5%AD%E8%8F%9C%E5%90%83%E5%87%BA%E8%80%81%E9%BC%A0%E5%A4%B4%EF%BC%9F%E5%B8%82%E7%9B%91%E5%B1%80%EF%BC%9A%E9%B8%AD%E8%84%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子考科三系错安全带考官面如死灰](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%80%83%E7%A7%91%E4%B8%89%E7%B3%BB%E9%94%99%E5%AE%89%E5%85%A8%E5%B8%A6%E8%80%83%E5%AE%98%E9%9D%A2%E5%A6%82%E6%AD%BB%E7%81%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
