@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 08:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 08:50:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [每天花两个小时背单词，值得吗？](https://www.zhihu.com/question/445968666)<br />
 6. [如何看待国内服装尺码越来越小的现象？](https://www.zhihu.com/question/499028779)<br />
 7. [马斯克之后，英伟达、摩根大通、星巴克、路威酩轩等公司 CEO 等外企高管再掀「来华潮」，释放哪些信号？](https://www.zhihu.com/question/604506301)<br />
-8. [是大部分动物都喜欢被摸头吗？](https://www.zhihu.com/question/442523187)<br />
-9. [《西游记》中的世界地图是什么样的？](https://www.zhihu.com/question/37555090)<br />
+8. [《西游记》中的世界地图是什么样的？](https://www.zhihu.com/question/37555090)<br />
+9. [现代汉语是否应该引入「冇」的概念来更精准表达「没有」的含义?](https://www.zhihu.com/question/604176704)<br />
 
 > 百度  
 
