@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 15:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 15:47:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [35岁男子为考清华复读14年](https://www.baidu.com/s?wd=35%E5%B2%81%E7%94%B7%E5%AD%90%E4%B8%BA%E8%80%83%E6%B8%85%E5%8D%8E%E5%A4%8D%E8%AF%BB14%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [莫迪视察事故现场 这两幕激怒印度人](https://www.baidu.com/s?wd=%E8%8E%AB%E8%BF%AA%E8%A7%86%E5%AF%9F%E4%BA%8B%E6%95%85%E7%8E%B0%E5%9C%BA+%E8%BF%99%E4%B8%A4%E5%B9%95%E6%BF%80%E6%80%92%E5%8D%B0%E5%BA%A6%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子考科三系错安全带考官面如死灰](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%80%83%E7%A7%91%E4%B8%89%E7%B3%BB%E9%94%99%E5%AE%89%E5%85%A8%E5%B8%A6%E8%80%83%E5%AE%98%E9%9D%A2%E5%A6%82%E6%AD%BB%E7%81%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [印度布地毯上浇沥青当新路](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E5%B8%83%E5%9C%B0%E6%AF%AF%E4%B8%8A%E6%B5%87%E6%B2%A5%E9%9D%92%E5%BD%93%E6%96%B0%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女孩家长称黄渤赠送手表没有给弟弟](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%AE%B6%E9%95%BF%E7%A7%B0%E9%BB%84%E6%B8%A4%E8%B5%A0%E9%80%81%E6%89%8B%E8%A1%A8%E6%B2%A1%E6%9C%89%E7%BB%99%E5%BC%9F%E5%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [面包车着火路过洒水车1分钟灭火](https://www.baidu.com/s?wd=%E9%9D%A2%E5%8C%85%E8%BD%A6%E7%9D%80%E7%81%AB%E8%B7%AF%E8%BF%87%E6%B4%92%E6%B0%B4%E8%BD%A61%E5%88%86%E9%92%9F%E7%81%AD%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [印度布地毯上浇沥青当新路](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E5%B8%83%E5%9C%B0%E6%AF%AF%E4%B8%8A%E6%B5%87%E6%B2%A5%E9%9D%92%E5%BD%93%E6%96%B0%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [35岁男子为考清华复读14年](https://www.baidu.com/s?wd=35%E5%B2%81%E7%94%B7%E5%AD%90%E4%B8%BA%E8%80%83%E6%B8%85%E5%8D%8E%E5%A4%8D%E8%AF%BB14%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [莫迪视察事故现场 这两幕激怒印度人](https://www.baidu.com/s?wd=%E8%8E%AB%E8%BF%AA%E8%A7%86%E5%AF%9F%E4%BA%8B%E6%95%85%E7%8E%B0%E5%9C%BA+%E8%BF%99%E4%B8%A4%E5%B9%95%E6%BF%80%E6%80%92%E5%8D%B0%E5%BA%A6%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子考科三系错安全带考官面如死灰](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%80%83%E7%A7%91%E4%B8%89%E7%B3%BB%E9%94%99%E5%AE%89%E5%85%A8%E5%B8%A6%E8%80%83%E5%AE%98%E9%9D%A2%E5%A6%82%E6%AD%BB%E7%81%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [印度布地毯上浇沥青当新路](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E5%B8%83%E5%9C%B0%E6%AF%AF%E4%B8%8A%E6%B5%87%E6%B2%A5%E9%9D%92%E5%BD%93%E6%96%B0%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女孩家长称黄渤赠送手表没有给弟弟](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%AE%B6%E9%95%BF%E7%A7%B0%E9%BB%84%E6%B8%A4%E8%B5%A0%E9%80%81%E6%89%8B%E8%A1%A8%E6%B2%A1%E6%9C%89%E7%BB%99%E5%BC%9F%E5%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [面包车着火路过洒水车1分钟灭火](https://www.baidu.com/s?wd=%E9%9D%A2%E5%8C%85%E8%BD%A6%E7%9D%80%E7%81%AB%E8%B7%AF%E8%BF%87%E6%B4%92%E6%B0%B4%E8%BD%A61%E5%88%86%E9%92%9F%E7%81%AD%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [印度布地毯上浇沥青当新路](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E5%B8%83%E5%9C%B0%E6%AF%AF%E4%B8%8A%E6%B5%87%E6%B2%A5%E9%9D%92%E5%BD%93%E6%96%B0%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
