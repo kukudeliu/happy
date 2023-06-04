@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 21:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 21:27:01</h4></div>
 
 > 微博  
 
@@ -21,7 +21,7 @@
 5. [本田合资零部件厂商安斯泰莫承认造假，造假数量超 2 亿件，最长可追溯至 40 年前，此事暴露哪些问题？](https://www.zhihu.com/question/602979872)<br />
 6. [电影《蜘蛛侠：纵横宇宙》有哪些亮点？](https://www.zhihu.com/question/504215688)<br />
 7. [新房装修，需不需要安装前置过滤器和净水器？](https://www.zhihu.com/question/450419506)<br />
-8. []()<br />
+8. [为什么英语没有把像 virtual 这样「出现即歧义」的单词淘汰掉?](https://www.zhihu.com/question/603452321)<br />
 9. [如何评价《塞尔达传说：王国之泪》？](https://www.zhihu.com/question/593908300)<br />
 
 > 百度  
@@ -33,8 +33,8 @@
 5. [中国防长“香会”发言释放哪些信号](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%98%B2%E9%95%BF%E2%80%9C%E9%A6%99%E4%BC%9A%E2%80%9D%E5%8F%91%E8%A8%80%E9%87%8A%E6%94%BE%E5%93%AA%E4%BA%9B%E4%BF%A1%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [孩子严重烫伤9天才被家长送医](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E4%B8%A5%E9%87%8D%E7%83%AB%E4%BC%A49%E5%A4%A9%E6%89%8D%E8%A2%AB%E5%AE%B6%E9%95%BF%E9%80%81%E5%8C%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [姑姑拍到侄女做梦吃雪糕](https://www.baidu.com/s?wd=%E5%A7%91%E5%A7%91%E6%8B%8D%E5%88%B0%E4%BE%84%E5%A5%B3%E5%81%9A%E6%A2%A6%E5%90%83%E9%9B%AA%E7%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [国防部长：请各国管好自家军舰飞机](https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E9%83%A8%E9%95%BF%EF%BC%9A%E8%AF%B7%E5%90%84%E5%9B%BD%E7%AE%A1%E5%A5%BD%E8%87%AA%E5%AE%B6%E5%86%9B%E8%88%B0%E9%A3%9E%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [多国出现偏肺病毒感染 尚无治疗药物](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E5%87%BA%E7%8E%B0%E5%81%8F%E8%82%BA%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93+%E5%B0%9A%E6%97%A0%E6%B2%BB%E7%96%97%E8%8D%AF%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [多国出现偏肺病毒感染 尚无治疗药物](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E5%87%BA%E7%8E%B0%E5%81%8F%E8%82%BA%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93+%E5%B0%9A%E6%97%A0%E6%B2%BB%E7%96%97%E8%8D%AF%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [国防部长：请各国管好自家军舰飞机](https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E9%83%A8%E9%95%BF%EF%BC%9A%E8%AF%B7%E5%90%84%E5%9B%BD%E7%AE%A1%E5%A5%BD%E8%87%AA%E5%AE%B6%E5%86%9B%E8%88%B0%E9%A3%9E%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [中国防长“香会”发言释放哪些信号](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%98%B2%E9%95%BF%E2%80%9C%E9%A6%99%E4%BC%9A%E2%80%9D%E5%8F%91%E8%A8%80%E9%87%8A%E6%94%BE%E5%93%AA%E4%BA%9B%E4%BF%A1%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [孩子严重烫伤9天才被家长送医](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E4%B8%A5%E9%87%8D%E7%83%AB%E4%BC%A49%E5%A4%A9%E6%89%8D%E8%A2%AB%E5%AE%B6%E9%95%BF%E9%80%81%E5%8C%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [姑姑拍到侄女做梦吃雪糕](https://www.baidu.com/s?wd=%E5%A7%91%E5%A7%91%E6%8B%8D%E5%88%B0%E4%BE%84%E5%A5%B3%E5%81%9A%E6%A2%A6%E5%90%83%E9%9B%AA%E7%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [国防部长：请各国管好自家军舰飞机](https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E9%83%A8%E9%95%BF%EF%BC%9A%E8%AF%B7%E5%90%84%E5%9B%BD%E7%AE%A1%E5%A5%BD%E8%87%AA%E5%AE%B6%E5%86%9B%E8%88%B0%E9%A3%9E%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [多国出现偏肺病毒感染 尚无治疗药物](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E5%87%BA%E7%8E%B0%E5%81%8F%E8%82%BA%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93+%E5%B0%9A%E6%97%A0%E6%B2%BB%E7%96%97%E8%8D%AF%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [多国出现偏肺病毒感染 尚无治疗药物](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E5%87%BA%E7%8E%B0%E5%81%8F%E8%82%BA%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93+%E5%B0%9A%E6%97%A0%E6%B2%BB%E7%96%97%E8%8D%AF%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [国防部长：请各国管好自家军舰飞机](https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E9%83%A8%E9%95%BF%EF%BC%9A%E8%AF%B7%E5%90%84%E5%9B%BD%E7%AE%A1%E5%A5%BD%E8%87%AA%E5%AE%B6%E5%86%9B%E8%88%B0%E9%A3%9E%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
