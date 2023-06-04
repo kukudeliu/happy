@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 23:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 23:41:02</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [杨紫 唯一纯白茉莉花](https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%20%E5%94%AF%E4%B8%80%E7%BA%AF%E7%99%BD%E8%8C%89%E8%8E%89%E8%8A%B1&t=31&band_rank=4&Refer=top)<br />
 5. [汤晶媚任敏我们和好啦](https://s.weibo.com/weibo?q=%23%E6%B1%A4%E6%99%B6%E5%AA%9A%E4%BB%BB%E6%95%8F%E6%88%91%E4%BB%AC%E5%92%8C%E5%A5%BD%E5%95%A6%23&t=31&band_rank=5&Refer=top)<br />
 6. [国内出现偏肺病毒感染](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%86%85%E5%87%BA%E7%8E%B0%E5%81%8F%E8%82%BA%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93%23&t=31&band_rank=6&Refer=top)<br />
-7. [宋茜做错了什么](https://s.weibo.com/weibo?q=%E5%AE%8B%E8%8C%9C%E5%81%9A%E9%94%99%E4%BA%86%E4%BB%80%E4%B9%88&t=31&band_rank=7&Refer=top)<br />
-8. [88斤女生穿不进去S码牛仔裙](https://s.weibo.com/weibo?q=%2388%E6%96%A4%E5%A5%B3%E7%94%9F%E7%A9%BF%E4%B8%8D%E8%BF%9B%E5%8E%BBS%E7%A0%81%E7%89%9B%E4%BB%94%E8%A3%99%23&t=31&band_rank=8&Refer=top)<br />
+7. [88斤女生穿不进去S码牛仔裙](https://s.weibo.com/weibo?q=%2388%E6%96%A4%E5%A5%B3%E7%94%9F%E7%A9%BF%E4%B8%8D%E8%BF%9B%E5%8E%BBS%E7%A0%81%E7%89%9B%E4%BB%94%E8%A3%99%23&t=31&band_rank=7&Refer=top)<br />
+8. [宋茜做错了什么](https://s.weibo.com/weibo?q=%E5%AE%8B%E8%8C%9C%E5%81%9A%E9%94%99%E4%BA%86%E4%BB%80%E4%B9%88&t=31&band_rank=8&Refer=top)<br />
 9. [爷爷把微信当书信用](https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E6%8A%8A%E5%BE%AE%E4%BF%A1%E5%BD%93%E4%B9%A6%E4%BF%A1%E7%94%A8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -17,8 +17,8 @@
 1. [美加军舰过航台湾海峡，东部战区回应「全程跟监警戒，依法依规处置」，如何解读美、加此举意图？](https://www.zhihu.com/question/604645738)<br />
 2. [苏武在贝加尔湖牧羊，条件恶劣，挖食鼠粮草根为生，他为什么不吃羊？](https://www.zhihu.com/question/25483987)<br />
 3. [本田合资零部件厂商安斯泰莫承认造假，造假数量超 2 亿件，最长可追溯至 40 年前，此事暴露哪些问题？](https://www.zhihu.com/question/602979872)<br />
-4. [为什么很多课上会规定「学生可以喝白水，茶也勉强可以，但不能喝饮料」？这些饮料有什么本质区别吗？](https://www.zhihu.com/question/601191918)<br />
-5. [4 个月卖出 1751.5 亿元，彩票正在以更多元的方式吸引着年轻人，年轻人为什么热衷买彩票？](https://www.zhihu.com/question/604618222)<br />
+4. [4 个月卖出 1751.5 亿元，彩票正在以更多元的方式吸引着年轻人，年轻人为什么热衷买彩票？](https://www.zhihu.com/question/604618222)<br />
+5. [为什么很多课上会规定「学生可以喝白水，茶也勉强可以，但不能喝饮料」？这些饮料有什么本质区别吗？](https://www.zhihu.com/question/601191918)<br />
 6. [韩国出口连跌 8 个月，对中美欧出口全部下滑，芯片出口大跌 36.2%，受哪些因素影响？](https://www.zhihu.com/question/604222429)<br />
 7. [2023 LPL 夏季赛 OMG 2:1 击败 WBG，如何评价这场比赛？](https://www.zhihu.com/question/604739881)<br />
 8. [据不完全统计，《崩坏：星穹铁道》五月流水约为《原神》同月的 2.7 倍，如何评价？](https://www.zhihu.com/question/604195870)<br />
