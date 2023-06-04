@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 18:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 18:30:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [男子江边观潮好心人嘶吼喊回一命](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%B1%9F%E8%BE%B9%E8%A7%82%E6%BD%AE%E5%A5%BD%E5%BF%83%E4%BA%BA%E5%98%B6%E5%90%BC%E5%96%8A%E5%9B%9E%E4%B8%80%E5%91%BD%23&t=31&band_rank=5&Refer=top)<br />
 6. [任敏 鸟鸟](https://s.weibo.com/weibo?q=%E4%BB%BB%E6%95%8F%20%E9%B8%9F%E9%B8%9F&t=31&band_rank=6&Refer=top)<br />
 7. [女店主拎起灭火器冲上前救火](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%BA%97%E4%B8%BB%E6%8B%8E%E8%B5%B7%E7%81%AD%E7%81%AB%E5%99%A8%E5%86%B2%E4%B8%8A%E5%89%8D%E6%95%91%E7%81%AB%23&t=31&band_rank=7&Refer=top)<br />
-8. [孟子义锐评任敏汤晶媚乐队事件](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E9%94%90%E8%AF%84%E4%BB%BB%E6%95%8F%E6%B1%A4%E6%99%B6%E5%AA%9A%E4%B9%90%E9%98%9F%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=8&Refer=top)<br />
-9. [四川乐山高位山体塌方14人遇难](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E4%B9%90%E5%B1%B1%E9%AB%98%E4%BD%8D%E5%B1%B1%E4%BD%93%E5%A1%8C%E6%96%B914%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=9&Refer=top)<br />
+8. [四川乐山高位山体塌方14人遇难](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E4%B9%90%E5%B1%B1%E9%AB%98%E4%BD%8D%E5%B1%B1%E4%BD%93%E5%A1%8C%E6%96%B914%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=8&Refer=top)<br />
+9. [孟子义锐评任敏汤晶媚乐队事件](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E9%94%90%E8%AF%84%E4%BB%BB%E6%95%8F%E6%B1%A4%E6%99%B6%E5%AA%9A%E4%B9%90%E9%98%9F%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -18,7 +18,7 @@
 2. [为什么一道几何题不添加辅助线就做不出来，添加了才做的出来，添加辅助线后多了条件吗?](https://www.zhihu.com/question/600468143)<br />
 3. [你请客吃饭，结账时发现有人私下拿好烟好酒记在账上，怎么应对？](https://www.zhihu.com/question/465991724)<br />
 4. [2022-23 赛季 NBA 总决赛掘金扑灭热火先拔头筹，约基奇 27+10+14，如何评价这场比赛？](https://www.zhihu.com/question/604369865)<br />
-5. []()<br />
+5. [苏武在贝加尔湖牧羊，条件恶劣，挖食鼠粮草根为生，他为什么不吃羊？](https://www.zhihu.com/question/25483987)<br />
 6. [如何评价罗纳尔迪尼奥这名球星？](https://www.zhihu.com/question/597635714)<br />
 7. [在《笑傲江湖》中，为啥令狐冲能够与人人喊打的魔教中人打成一片？](https://www.zhihu.com/question/604133289)<br />
 8. [微软宣布 Win11 原生支持解压 rar 文件，WinRAR 发图自嘲，你对此有何看法？](https://www.zhihu.com/question/604180951)<br />
