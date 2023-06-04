@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 20:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 20:43:01</h4></div>
 
 > 微博  
 
@@ -19,8 +19,8 @@
 3. [苏武在贝加尔湖牧羊，条件恶劣，挖食鼠粮草根为生，他为什么不吃羊？](https://www.zhihu.com/question/25483987)<br />
 4. [如何看待答主楚云卿的原创诗句被自媒体「选入」《诗经》？](https://www.zhihu.com/question/604719253)<br />
 5. [你是如何理解「TCP 是面向字节流的协议」的？](https://www.zhihu.com/question/602003556)<br />
-6. [为什么中国没有「逻辑」这个词汇？](https://www.zhihu.com/question/602626141)<br />
-7. [今年有多少护士辞职?](https://www.zhihu.com/question/597224517)<br />
+6. [今年有多少护士辞职?](https://www.zhihu.com/question/597224517)<br />
+7. [为什么中国没有「逻辑」这个词汇？](https://www.zhihu.com/question/602626141)<br />
 8. [你请客吃饭，结账时发现有人私下拿好烟好酒记在账上，怎么应对？](https://www.zhihu.com/question/465991724)<br />
 9. [为什么一道几何题不添加辅助线就做不出来，添加了才做的出来，添加辅助线后多了条件吗?](https://www.zhihu.com/question/600468143)<br />
 
@@ -31,8 +31,8 @@
 3. [35岁男子为考清华复读14年](https://www.baidu.com/s?wd=35%E5%B2%81%E7%94%B7%E5%AD%90%E4%B8%BA%E8%80%83%E6%B8%85%E5%8D%8E%E5%A4%8D%E8%AF%BB14%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [揭秘航天搜救队](https://www.baidu.com/s?wd=%E6%8F%AD%E7%A7%98%E8%88%AA%E5%A4%A9%E6%90%9C%E6%95%91%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [高考临近阿姨们在夜店里跳广场舞](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E4%B8%B4%E8%BF%91%E9%98%BF%E5%A7%A8%E4%BB%AC%E5%9C%A8%E5%A4%9C%E5%BA%97%E9%87%8C%E8%B7%B3%E5%B9%BF%E5%9C%BA%E8%88%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [宁静即兴演皇后一秒入戏](https://www.baidu.com/s?wd=%E5%AE%81%E9%9D%99%E5%8D%B3%E5%85%B4%E6%BC%94%E7%9A%87%E5%90%8E%E4%B8%80%E7%A7%92%E5%85%A5%E6%88%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [最“卷”618来了 消费者买单吗？](https://www.baidu.com/s?wd=%E6%9C%80%E2%80%9C%E5%8D%B7%E2%80%9D618%E6%9D%A5%E4%BA%86+%E6%B6%88%E8%B4%B9%E8%80%85%E4%B9%B0%E5%8D%95%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [最“卷”618来了 消费者买单吗？](https://www.baidu.com/s?wd=%E6%9C%80%E2%80%9C%E5%8D%B7%E2%80%9D618%E6%9D%A5%E4%BA%86+%E6%B6%88%E8%B4%B9%E8%80%85%E4%B9%B0%E5%8D%95%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [宁静即兴演皇后一秒入戏](https://www.baidu.com/s?wd=%E5%AE%81%E9%9D%99%E5%8D%B3%E5%85%B4%E6%BC%94%E7%9A%87%E5%90%8E%E4%B8%80%E7%A7%92%E5%85%A5%E6%88%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子结婚4战友随2厚本刮刮乐](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%BB%93%E5%A9%9A4%E6%88%98%E5%8F%8B%E9%9A%8F2%E5%8E%9A%E6%9C%AC%E5%88%AE%E5%88%AE%E4%B9%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [女子考科三系错安全带考官面如死灰](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%80%83%E7%A7%91%E4%B8%89%E7%B3%BB%E9%94%99%E5%AE%89%E5%85%A8%E5%B8%A6%E8%80%83%E5%AE%98%E9%9D%A2%E5%A6%82%E6%AD%BB%E7%81%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -43,7 +43,7 @@
 3. [35岁男子为考清华复读14年](https://www.baidu.com/s?wd=35%E5%B2%81%E7%94%B7%E5%AD%90%E4%B8%BA%E8%80%83%E6%B8%85%E5%8D%8E%E5%A4%8D%E8%AF%BB14%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [揭秘航天搜救队](https://www.baidu.com/s?wd=%E6%8F%AD%E7%A7%98%E8%88%AA%E5%A4%A9%E6%90%9C%E6%95%91%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [高考临近阿姨们在夜店里跳广场舞](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E4%B8%B4%E8%BF%91%E9%98%BF%E5%A7%A8%E4%BB%AC%E5%9C%A8%E5%A4%9C%E5%BA%97%E9%87%8C%E8%B7%B3%E5%B9%BF%E5%9C%BA%E8%88%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [宁静即兴演皇后一秒入戏](https://www.baidu.com/s?wd=%E5%AE%81%E9%9D%99%E5%8D%B3%E5%85%B4%E6%BC%94%E7%9A%87%E5%90%8E%E4%B8%80%E7%A7%92%E5%85%A5%E6%88%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [最“卷”618来了 消费者买单吗？](https://www.baidu.com/s?wd=%E6%9C%80%E2%80%9C%E5%8D%B7%E2%80%9D618%E6%9D%A5%E4%BA%86+%E6%B6%88%E8%B4%B9%E8%80%85%E4%B9%B0%E5%8D%95%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [最“卷”618来了 消费者买单吗？](https://www.baidu.com/s?wd=%E6%9C%80%E2%80%9C%E5%8D%B7%E2%80%9D618%E6%9D%A5%E4%BA%86+%E6%B6%88%E8%B4%B9%E8%80%85%E4%B9%B0%E5%8D%95%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [宁静即兴演皇后一秒入戏](https://www.baidu.com/s?wd=%E5%AE%81%E9%9D%99%E5%8D%B3%E5%85%B4%E6%BC%94%E7%9A%87%E5%90%8E%E4%B8%80%E7%A7%92%E5%85%A5%E6%88%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子结婚4战友随2厚本刮刮乐](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%BB%93%E5%A9%9A4%E6%88%98%E5%8F%8B%E9%9A%8F2%E5%8E%9A%E6%9C%AC%E5%88%AE%E5%88%AE%E4%B9%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [女子考科三系错安全带考官面如死灰](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%80%83%E7%A7%91%E4%B8%89%E7%B3%BB%E9%94%99%E5%AE%89%E5%85%A8%E5%B8%A6%E8%80%83%E5%AE%98%E9%9D%A2%E5%A6%82%E6%AD%BB%E7%81%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
