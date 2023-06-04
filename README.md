@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 06:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 06:07:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. []()<br />
 5. [为什么篮球比赛进入小球时代?](https://www.zhihu.com/question/603469936)<br />
 6. []()<br />
-7. []()<br />
-8. [原生家庭不好的孩子会失去爱别人的能力吗？](https://www.zhihu.com/question/603427798)<br />
-9. [2023 赛季 F1 西班牙大奖赛，维斯塔潘夺冠，周冠宇第九，如何评价这场比赛？](https://www.zhihu.com/question/604771008)<br />
+7. [原生家庭不好的孩子会失去爱别人的能力吗？](https://www.zhihu.com/question/603427798)<br />
+8. [高考前该怎么调整心态？](https://www.zhihu.com/question/604041092)<br />
+9. []()<br />
 
 > 百度  
 
