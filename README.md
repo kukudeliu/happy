@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 11:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 11:49:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [神舟十五号载人飞船返回舱成功着陆，航天员费俊龙邓清明张陆顺利出舱健康状态良好，如何评价这次任务的意义？](https://www.zhihu.com/question/604011587)<br />
 6. [黄仁勋为什么只有 3.5% 的英伟达股份？](https://www.zhihu.com/question/603714039)<br />
 7. [微软宣布 Win11 原生支持解压 rar 文件，WinRAR 发图自嘲，你对此有何看法？](https://www.zhihu.com/question/604180951)<br />
-8. [巴黎官方宣布梅西合同到期离队，两年 74 场收获 32 球 +35 助攻，如何评价梅西的表现？](https://www.zhihu.com/question/604699006)<br />
-9. [五月百城二手住宅均价环比下跌 0.25%，北京二手房成交量跌破 1.3 万套，六月楼市会怎么走？](https://www.zhihu.com/question/604444104)<br />
+8. [五月百城二手住宅均价环比下跌 0.25%，北京二手房成交量跌破 1.3 万套，六月楼市会怎么走？](https://www.zhihu.com/question/604444104)<br />
+9. [皇马官宣阿扎尔离队提前一年解约，四年收获 8 冠共出战 76 场打进 7 球，如何评价他的表现？](https://www.zhihu.com/question/604699099)<br />
 
 > 百度  
 
@@ -32,9 +32,9 @@
 4. [神十五任务圆满成功](https://www.baidu.com/s?wd=%E7%A5%9E%E5%8D%81%E4%BA%94%E4%BB%BB%E5%8A%A1%E5%9C%86%E6%BB%A1%E6%88%90%E5%8A%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子路遇纸片鸟一查竟是国保动物](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B7%AF%E9%81%87%E7%BA%B8%E7%89%87%E9%B8%9F%E4%B8%80%E6%9F%A5%E7%AB%9F%E6%98%AF%E5%9B%BD%E4%BF%9D%E5%8A%A8%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李尚福：中国必须统一也必然统一](https://www.baidu.com/s?wd=%E6%9D%8E%E5%B0%9A%E7%A6%8F%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%BF%85%E9%A1%BB%E7%BB%9F%E4%B8%80%E4%B9%9F%E5%BF%85%E7%84%B6%E7%BB%9F%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女孩家长称黄渤赠送手表没有给弟弟](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%AE%B6%E9%95%BF%E7%A7%B0%E9%BB%84%E6%B8%A4%E8%B5%A0%E9%80%81%E6%89%8B%E8%A1%A8%E6%B2%A1%E6%9C%89%E7%BB%99%E5%BC%9F%E5%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [4个月卖1751.5亿 彩票盯上年轻人？](https://www.baidu.com/s?wd=4%E4%B8%AA%E6%9C%88%E5%8D%961751.5%E4%BA%BF+%E5%BD%A9%E7%A5%A8%E7%9B%AF%E4%B8%8A%E5%B9%B4%E8%BD%BB%E4%BA%BA%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [疾控提醒血吸虫接触10秒即可感染](https://www.baidu.com/s?wd=%E7%96%BE%E6%8E%A7%E6%8F%90%E9%86%92%E8%A1%80%E5%90%B8%E8%99%AB%E6%8E%A5%E8%A7%A610%E7%A7%92%E5%8D%B3%E5%8F%AF%E6%84%9F%E6%9F%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [印度外长：金砖国家已是中流砥柱](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E5%A4%96%E9%95%BF%EF%BC%9A%E9%87%91%E7%A0%96%E5%9B%BD%E5%AE%B6%E5%B7%B2%E6%98%AF%E4%B8%AD%E6%B5%81%E7%A0%A5%E6%9F%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [大叔和大爷抢占座位被乘客捶脸](https://www.baidu.com/s?wd=%E5%A4%A7%E5%8F%94%E5%92%8C%E5%A4%A7%E7%88%B7%E6%8A%A2%E5%8D%A0%E5%BA%A7%E4%BD%8D%E8%A2%AB%E4%B9%98%E5%AE%A2%E6%8D%B6%E8%84%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女孩家长称黄渤赠送手表没有给弟弟](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%AE%B6%E9%95%BF%E7%A7%B0%E9%BB%84%E6%B8%A4%E8%B5%A0%E9%80%81%E6%89%8B%E8%A1%A8%E6%B2%A1%E6%9C%89%E7%BB%99%E5%BC%9F%E5%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [神十五任务圆满成功](https://www.baidu.com/s?wd=%E7%A5%9E%E5%8D%81%E4%BA%94%E4%BB%BB%E5%8A%A1%E5%9C%86%E6%BB%A1%E6%88%90%E5%8A%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子路遇纸片鸟一查竟是国保动物](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B7%AF%E9%81%87%E7%BA%B8%E7%89%87%E9%B8%9F%E4%B8%80%E6%9F%A5%E7%AB%9F%E6%98%AF%E5%9B%BD%E4%BF%9D%E5%8A%A8%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李尚福：中国必须统一也必然统一](https://www.baidu.com/s?wd=%E6%9D%8E%E5%B0%9A%E7%A6%8F%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%BF%85%E9%A1%BB%E7%BB%9F%E4%B8%80%E4%B9%9F%E5%BF%85%E7%84%B6%E7%BB%9F%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女孩家长称黄渤赠送手表没有给弟弟](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%AE%B6%E9%95%BF%E7%A7%B0%E9%BB%84%E6%B8%A4%E8%B5%A0%E9%80%81%E6%89%8B%E8%A1%A8%E6%B2%A1%E6%9C%89%E7%BB%99%E5%BC%9F%E5%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [4个月卖1751.5亿 彩票盯上年轻人？](https://www.baidu.com/s?wd=4%E4%B8%AA%E6%9C%88%E5%8D%961751.5%E4%BA%BF+%E5%BD%A9%E7%A5%A8%E7%9B%AF%E4%B8%8A%E5%B9%B4%E8%BD%BB%E4%BA%BA%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [疾控提醒血吸虫接触10秒即可感染](https://www.baidu.com/s?wd=%E7%96%BE%E6%8E%A7%E6%8F%90%E9%86%92%E8%A1%80%E5%90%B8%E8%99%AB%E6%8E%A5%E8%A7%A610%E7%A7%92%E5%8D%B3%E5%8F%AF%E6%84%9F%E6%9F%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [印度外长：金砖国家已是中流砥柱](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E5%A4%96%E9%95%BF%EF%BC%9A%E9%87%91%E7%A0%96%E5%9B%BD%E5%AE%B6%E5%B7%B2%E6%98%AF%E4%B8%AD%E6%B5%81%E7%A0%A5%E6%9F%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [大叔和大爷抢占座位被乘客捶脸](https://www.baidu.com/s?wd=%E5%A4%A7%E5%8F%94%E5%92%8C%E5%A4%A7%E7%88%B7%E6%8A%A2%E5%8D%A0%E5%BA%A7%E4%BD%8D%E8%A2%AB%E4%B9%98%E5%AE%A2%E6%8D%B6%E8%84%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女孩家长称黄渤赠送手表没有给弟弟](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%AE%B6%E9%95%BF%E7%A7%B0%E9%BB%84%E6%B8%A4%E8%B5%A0%E9%80%81%E6%89%8B%E8%A1%A8%E6%B2%A1%E6%9C%89%E7%BB%99%E5%BC%9F%E5%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
