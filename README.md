@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 23:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 23:40:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [国内出现偏肺病毒感染](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%86%85%E5%87%BA%E7%8E%B0%E5%81%8F%E8%82%BA%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93%23&t=31&band_rank=6&Refer=top)<br />
 7. [宋茜做错了什么](https://s.weibo.com/weibo?q=%E5%AE%8B%E8%8C%9C%E5%81%9A%E9%94%99%E4%BA%86%E4%BB%80%E4%B9%88&t=31&band_rank=7&Refer=top)<br />
 8. [88斤女生穿不进去S码牛仔裙](https://s.weibo.com/weibo?q=%2388%E6%96%A4%E5%A5%B3%E7%94%9F%E7%A9%BF%E4%B8%8D%E8%BF%9B%E5%8E%BBS%E7%A0%81%E7%89%9B%E4%BB%94%E8%A3%99%23&t=31&band_rank=8&Refer=top)<br />
-9. [王诗龄生图](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%AF%97%E9%BE%84%E7%94%9F%E5%9B%BE%23&t=31&band_rank=9&Refer=top)<br />
+9. [爷爷把微信当书信用](https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E6%8A%8A%E5%BE%AE%E4%BF%A1%E5%BD%93%E4%B9%A6%E4%BF%A1%E7%94%A8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -32,8 +32,8 @@
 4. [128秒回顾中国航天高燃时刻](https://www.baidu.com/s?wd=128%E7%A7%92%E5%9B%9E%E9%A1%BE%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E9%AB%98%E7%87%83%E6%97%B6%E5%88%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [25岁女孩体重只有60多斤](https://www.baidu.com/s?wd=25%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%BD%93%E9%87%8D%E5%8F%AA%E6%9C%8960%E5%A4%9A%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [35岁男子为考清华复读14年](https://www.baidu.com/s?wd=35%E5%B2%81%E7%94%B7%E5%AD%90%E4%B8%BA%E8%80%83%E6%B8%85%E5%8D%8E%E5%A4%8D%E8%AF%BB14%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子考科三系错安全带考官面如死灰](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%80%83%E7%A7%91%E4%B8%89%E7%B3%BB%E9%94%99%E5%AE%89%E5%85%A8%E5%B8%A6%E8%80%83%E5%AE%98%E9%9D%A2%E5%A6%82%E6%AD%BB%E7%81%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [瓜帅跳到哈兰德身上庆祝夺冠](https://www.baidu.com/s?wd=%E7%93%9C%E5%B8%85%E8%B7%B3%E5%88%B0%E5%93%88%E5%85%B0%E5%BE%B7%E8%BA%AB%E4%B8%8A%E5%BA%86%E7%A5%9D%E5%A4%BA%E5%86%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [瓜帅跳到哈兰德身上庆祝夺冠](https://www.baidu.com/s?wd=%E7%93%9C%E5%B8%85%E8%B7%B3%E5%88%B0%E5%93%88%E5%85%B0%E5%BE%B7%E8%BA%AB%E4%B8%8A%E5%BA%86%E7%A5%9D%E5%A4%BA%E5%86%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子考科三系错安全带考官面如死灰](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%80%83%E7%A7%91%E4%B8%89%E7%B3%BB%E9%94%99%E5%AE%89%E5%85%A8%E5%B8%A6%E8%80%83%E5%AE%98%E9%9D%A2%E5%A6%82%E6%AD%BB%E7%81%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [隐翅虫的毒液堪比硫酸](https://www.baidu.com/s?wd=%E9%9A%90%E7%BF%85%E8%99%AB%E7%9A%84%E6%AF%92%E6%B6%B2%E5%A0%AA%E6%AF%94%E7%A1%AB%E9%85%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -44,6 +44,6 @@
 4. [128秒回顾中国航天高燃时刻](https://www.baidu.com/s?wd=128%E7%A7%92%E5%9B%9E%E9%A1%BE%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E9%AB%98%E7%87%83%E6%97%B6%E5%88%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [25岁女孩体重只有60多斤](https://www.baidu.com/s?wd=25%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%BD%93%E9%87%8D%E5%8F%AA%E6%9C%8960%E5%A4%9A%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [35岁男子为考清华复读14年](https://www.baidu.com/s?wd=35%E5%B2%81%E7%94%B7%E5%AD%90%E4%B8%BA%E8%80%83%E6%B8%85%E5%8D%8E%E5%A4%8D%E8%AF%BB14%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子考科三系错安全带考官面如死灰](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%80%83%E7%A7%91%E4%B8%89%E7%B3%BB%E9%94%99%E5%AE%89%E5%85%A8%E5%B8%A6%E8%80%83%E5%AE%98%E9%9D%A2%E5%A6%82%E6%AD%BB%E7%81%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [瓜帅跳到哈兰德身上庆祝夺冠](https://www.baidu.com/s?wd=%E7%93%9C%E5%B8%85%E8%B7%B3%E5%88%B0%E5%93%88%E5%85%B0%E5%BE%B7%E8%BA%AB%E4%B8%8A%E5%BA%86%E7%A5%9D%E5%A4%BA%E5%86%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [瓜帅跳到哈兰德身上庆祝夺冠](https://www.baidu.com/s?wd=%E7%93%9C%E5%B8%85%E8%B7%B3%E5%88%B0%E5%93%88%E5%85%B0%E5%BE%B7%E8%BA%AB%E4%B8%8A%E5%BA%86%E7%A5%9D%E5%A4%BA%E5%86%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子考科三系错安全带考官面如死灰](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%80%83%E7%A7%91%E4%B8%89%E7%B3%BB%E9%94%99%E5%AE%89%E5%85%A8%E5%B8%A6%E8%80%83%E5%AE%98%E9%9D%A2%E5%A6%82%E6%AD%BB%E7%81%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [隐翅虫的毒液堪比硫酸](https://www.baidu.com/s?wd=%E9%9A%90%E7%BF%85%E8%99%AB%E7%9A%84%E6%AF%92%E6%B6%B2%E5%A0%AA%E6%AF%94%E7%A1%AB%E9%85%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
