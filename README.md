@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 18:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 18:35:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. []()<br />
 7. [如何评价罗纳尔迪尼奥这名球星？](https://www.zhihu.com/question/597635714)<br />
 8. [微软宣布 Win11 原生支持解压 rar 文件，WinRAR 发图自嘲，你对此有何看法？](https://www.zhihu.com/question/604180951)<br />
-9. [在《笑傲江湖》中，为啥令狐冲能够与人人喊打的魔教中人打成一片？](https://www.zhihu.com/question/604133289)<br />
+9. [黄仁勋为什么只有 3.5% 的英伟达股份？](https://www.zhihu.com/question/603714039)<br />
 
 > 百度  
 
