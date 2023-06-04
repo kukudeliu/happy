@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 13:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 13:13:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [黄仁勋为什么只有 3.5% 的英伟达股份？](https://www.zhihu.com/question/603714039)<br />
 7. [4 个月卖出 1751.5 亿元，彩票正在以更多元的方式吸引着年轻人，年轻人为什么热衷买彩票？](https://www.zhihu.com/question/604618222)<br />
 8. [一个人怎样拥有很好的气质？](https://www.zhihu.com/question/598457632)<br />
-9. [哪个瞬间你觉得宠物好像真的听懂你说话了？](https://www.zhihu.com/question/603807166)<br />
+9. [你请客吃饭，结账时发现有人私下拿好烟好酒记在账上，怎么应对？](https://www.zhihu.com/question/465991724)<br />
 
 > 百度  
 
