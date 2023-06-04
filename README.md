@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 15:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 15:39:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [你是从什么时候爱上骑自行车的？你骑车最远一次骑到了哪里，总共花了多长时间？](https://www.zhihu.com/question/603621804)<br />
 7. [在《笑傲江湖》中，为啥令狐冲能够与人人喊打的魔教中人打成一片？](https://www.zhihu.com/question/604133289)<br />
 8. [微软宣布 Win11 原生支持解压 rar 文件，WinRAR 发图自嘲，你对此有何看法？](https://www.zhihu.com/question/604180951)<br />
-9. [漫步者新出的 M330 音箱值得买吗？对比同级音箱效果怎么样？](https://www.zhihu.com/question/601282358)<br />
+9. [22-23 赛季法甲巴黎圣日耳曼 2:3 克莱蒙，梅西拉莫斯告别姆巴佩点射夺金靴，如何评价这场比赛？](https://www.zhihu.com/question/604675441)<br />
 
 > 百度  
 
@@ -32,9 +32,9 @@
 4. [神十五任务圆满成功](https://www.baidu.com/s?wd=%E7%A5%9E%E5%8D%81%E4%BA%94%E4%BB%BB%E5%8A%A1%E5%9C%86%E6%BB%A1%E6%88%90%E5%8A%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [35岁男子为考清华复读14年](https://www.baidu.com/s?wd=35%E5%B2%81%E7%94%B7%E5%AD%90%E4%B8%BA%E8%80%83%E6%B8%85%E5%8D%8E%E5%A4%8D%E8%AF%BB14%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [莫迪视察事故现场 这两幕激怒印度人](https://www.baidu.com/s?wd=%E8%8E%AB%E8%BF%AA%E8%A7%86%E5%AF%9F%E4%BA%8B%E6%95%85%E7%8E%B0%E5%9C%BA+%E8%BF%99%E4%B8%A4%E5%B9%95%E6%BF%80%E6%80%92%E5%8D%B0%E5%BA%A6%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女孩家长称黄渤赠送手表没有给弟弟](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%AE%B6%E9%95%BF%E7%A7%B0%E9%BB%84%E6%B8%A4%E8%B5%A0%E9%80%81%E6%89%8B%E8%A1%A8%E6%B2%A1%E6%9C%89%E7%BB%99%E5%BC%9F%E5%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子考科三系错安全带考官面如死灰](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%80%83%E7%A7%91%E4%B8%89%E7%B3%BB%E9%94%99%E5%AE%89%E5%85%A8%E5%B8%A6%E8%80%83%E5%AE%98%E9%9D%A2%E5%A6%82%E6%AD%BB%E7%81%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [教育部发布2023高考预警信息](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E5%B8%832023%E9%AB%98%E8%80%83%E9%A2%84%E8%AD%A6%E4%BF%A1%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [德国总理朔尔茨演讲时遭嘘](https://www.baidu.com/s?wd=%E5%BE%B7%E5%9B%BD%E6%80%BB%E7%90%86%E6%9C%94%E5%B0%94%E8%8C%A8%E6%BC%94%E8%AE%B2%E6%97%B6%E9%81%AD%E5%98%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女孩家长称黄渤赠送手表没有给弟弟](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%AE%B6%E9%95%BF%E7%A7%B0%E9%BB%84%E6%B8%A4%E8%B5%A0%E9%80%81%E6%89%8B%E8%A1%A8%E6%B2%A1%E6%9C%89%E7%BB%99%E5%BC%9F%E5%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子考科三系错安全带考官面如死灰](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%80%83%E7%A7%91%E4%B8%89%E7%B3%BB%E9%94%99%E5%AE%89%E5%85%A8%E5%B8%A6%E8%80%83%E5%AE%98%E9%9D%A2%E5%A6%82%E6%AD%BB%E7%81%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [神十五任务圆满成功](https://www.baidu.com/s?wd=%E7%A5%9E%E5%8D%81%E4%BA%94%E4%BB%BB%E5%8A%A1%E5%9C%86%E6%BB%A1%E6%88%90%E5%8A%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [35岁男子为考清华复读14年](https://www.baidu.com/s?wd=35%E5%B2%81%E7%94%B7%E5%AD%90%E4%B8%BA%E8%80%83%E6%B8%85%E5%8D%8E%E5%A4%8D%E8%AF%BB14%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [莫迪视察事故现场 这两幕激怒印度人](https://www.baidu.com/s?wd=%E8%8E%AB%E8%BF%AA%E8%A7%86%E5%AF%9F%E4%BA%8B%E6%95%85%E7%8E%B0%E5%9C%BA+%E8%BF%99%E4%B8%A4%E5%B9%95%E6%BF%80%E6%80%92%E5%8D%B0%E5%BA%A6%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女孩家长称黄渤赠送手表没有给弟弟](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%AE%B6%E9%95%BF%E7%A7%B0%E9%BB%84%E6%B8%A4%E8%B5%A0%E9%80%81%E6%89%8B%E8%A1%A8%E6%B2%A1%E6%9C%89%E7%BB%99%E5%BC%9F%E5%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子考科三系错安全带考官面如死灰](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%80%83%E7%A7%91%E4%B8%89%E7%B3%BB%E9%94%99%E5%AE%89%E5%85%A8%E5%B8%A6%E8%80%83%E5%AE%98%E9%9D%A2%E5%A6%82%E6%AD%BB%E7%81%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [教育部发布2023高考预警信息](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E5%B8%832023%E9%AB%98%E8%80%83%E9%A2%84%E8%AD%A6%E4%BF%A1%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [德国总理朔尔茨演讲时遭嘘](https://www.baidu.com/s?wd=%E5%BE%B7%E5%9B%BD%E6%80%BB%E7%90%86%E6%9C%94%E5%B0%94%E8%8C%A8%E6%BC%94%E8%AE%B2%E6%97%B6%E9%81%AD%E5%98%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女孩家长称黄渤赠送手表没有给弟弟](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%AE%B6%E9%95%BF%E7%A7%B0%E9%BB%84%E6%B8%A4%E8%B5%A0%E9%80%81%E6%89%8B%E8%A1%A8%E6%B2%A1%E6%9C%89%E7%BB%99%E5%BC%9F%E5%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子考科三系错安全带考官面如死灰](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%80%83%E7%A7%91%E4%B8%89%E7%B3%BB%E9%94%99%E5%AE%89%E5%85%A8%E5%B8%A6%E8%80%83%E5%AE%98%E9%9D%A2%E5%A6%82%E6%AD%BB%E7%81%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
