@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 13:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 13:10:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [黄仁勋为什么只有 3.5% 的英伟达股份？](https://www.zhihu.com/question/603714039)<br />
 7. [4 个月卖出 1751.5 亿元，彩票正在以更多元的方式吸引着年轻人，年轻人为什么热衷买彩票？](https://www.zhihu.com/question/604618222)<br />
 8. [一个人怎样拥有很好的气质？](https://www.zhihu.com/question/598457632)<br />
-9. [主动与中国防长握手后，美防长奥斯汀称「保持沟通渠道至关重要」，哪些信息值得关注？](https://www.zhihu.com/question/604590355)<br />
+9. [哪个瞬间你觉得宠物好像真的听懂你说话了？](https://www.zhihu.com/question/603807166)<br />
 
 > 百度  
 
@@ -34,7 +34,7 @@
 6. [女子考科三系错安全带考官面如死灰](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%80%83%E7%A7%91%E4%B8%89%E7%B3%BB%E9%94%99%E5%AE%89%E5%85%A8%E5%B8%A6%E8%80%83%E5%AE%98%E9%9D%A2%E5%A6%82%E6%AD%BB%E7%81%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [姑姑拍到侄女做梦吃雪糕](https://www.baidu.com/s?wd=%E5%A7%91%E5%A7%91%E6%8B%8D%E5%88%B0%E4%BE%84%E5%A5%B3%E5%81%9A%E6%A2%A6%E5%90%83%E9%9B%AA%E7%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [德国总理朔尔茨演讲时遭嘘](https://www.baidu.com/s?wd=%E5%BE%B7%E5%9B%BD%E6%80%BB%E7%90%86%E6%9C%94%E5%B0%94%E8%8C%A8%E6%BC%94%E8%AE%B2%E6%97%B6%E9%81%AD%E5%98%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女孩家长称黄渤赠送手表没有给弟弟](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%AE%B6%E9%95%BF%E7%A7%B0%E9%BB%84%E6%B8%A4%E8%B5%A0%E9%80%81%E6%89%8B%E8%A1%A8%E6%B2%A1%E6%9C%89%E7%BB%99%E5%BC%9F%E5%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [大叔和大爷抢占座位被乘客捶脸](https://www.baidu.com/s?wd=%E5%A4%A7%E5%8F%94%E5%92%8C%E5%A4%A7%E7%88%B7%E6%8A%A2%E5%8D%A0%E5%BA%A7%E4%BD%8D%E8%A2%AB%E4%B9%98%E5%AE%A2%E6%8D%B6%E8%84%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [女子考科三系错安全带考官面如死灰](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%80%83%E7%A7%91%E4%B8%89%E7%B3%BB%E9%94%99%E5%AE%89%E5%85%A8%E5%B8%A6%E8%80%83%E5%AE%98%E9%9D%A2%E5%A6%82%E6%AD%BB%E7%81%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [姑姑拍到侄女做梦吃雪糕](https://www.baidu.com/s?wd=%E5%A7%91%E5%A7%91%E6%8B%8D%E5%88%B0%E4%BE%84%E5%A5%B3%E5%81%9A%E6%A2%A6%E5%90%83%E9%9B%AA%E7%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [德国总理朔尔茨演讲时遭嘘](https://www.baidu.com/s?wd=%E5%BE%B7%E5%9B%BD%E6%80%BB%E7%90%86%E6%9C%94%E5%B0%94%E8%8C%A8%E6%BC%94%E8%AE%B2%E6%97%B6%E9%81%AD%E5%98%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女孩家长称黄渤赠送手表没有给弟弟](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%AE%B6%E9%95%BF%E7%A7%B0%E9%BB%84%E6%B8%A4%E8%B5%A0%E9%80%81%E6%89%8B%E8%A1%A8%E6%B2%A1%E6%9C%89%E7%BB%99%E5%BC%9F%E5%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [大叔和大爷抢占座位被乘客捶脸](https://www.baidu.com/s?wd=%E5%A4%A7%E5%8F%94%E5%92%8C%E5%A4%A7%E7%88%B7%E6%8A%A2%E5%8D%A0%E5%BA%A7%E4%BD%8D%E8%A2%AB%E4%B9%98%E5%AE%A2%E6%8D%B6%E8%84%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
