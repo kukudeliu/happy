@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 11:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 11:36:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [79岁老人欲取离世儿子41万存款被拒](https://s.weibo.com/weibo?q=%2379%E5%B2%81%E8%80%81%E4%BA%BA%E6%AC%B2%E5%8F%96%E7%A6%BB%E4%B8%96%E5%84%BF%E5%AD%9041%E4%B8%87%E5%AD%98%E6%AC%BE%E8%A2%AB%E6%8B%92%23&t=31&band_rank=4&Refer=top)<br />
 5. [我曾一度认为是超市算错了](https://s.weibo.com/weibo?q=%E6%88%91%E6%9B%BE%E4%B8%80%E5%BA%A6%E8%AE%A4%E4%B8%BA%E6%98%AF%E8%B6%85%E5%B8%82%E7%AE%97%E9%94%99%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
 6. [千万不要把水果当饭吃](https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E6%8A%8A%E6%B0%B4%E6%9E%9C%E5%BD%93%E9%A5%AD%E5%90%83%23&t=31&band_rank=6&Refer=top)<br />
-7. [女孩家长称黄渤赠送手表未送给弟弟](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%AE%B6%E9%95%BF%E7%A7%B0%E9%BB%84%E6%B8%A4%E8%B5%A0%E9%80%81%E6%89%8B%E8%A1%A8%E6%9C%AA%E9%80%81%E7%BB%99%E5%BC%9F%E5%BC%9F%23&t=31&band_rank=7&Refer=top)<br />
-8. [肖战迪丽热巴赵露思V榜破9](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%B5%B5%E9%9C%B2%E6%80%9DV%E6%A6%9C%E7%A0%B49%23&t=31&band_rank=8&Refer=top)<br />
+7. [肖战迪丽热巴赵露思V榜破9](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%B5%B5%E9%9C%B2%E6%80%9DV%E6%A6%9C%E7%A0%B49%23&t=31&band_rank=7&Refer=top)<br />
+8. [女孩家长称黄渤赠送手表未送给弟弟](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%AE%B6%E9%95%BF%E7%A7%B0%E9%BB%84%E6%B8%A4%E8%B5%A0%E9%80%81%E6%89%8B%E8%A1%A8%E6%9C%AA%E9%80%81%E7%BB%99%E5%BC%9F%E5%BC%9F%23&t=31&band_rank=8&Refer=top)<br />
 9. [一人说一个奇怪的生理反应](https://s.weibo.com/weibo?q=%E4%B8%80%E4%BA%BA%E8%AF%B4%E4%B8%80%E4%B8%AA%E5%A5%87%E6%80%AA%E7%9A%84%E7%94%9F%E7%90%86%E5%8F%8D%E5%BA%94&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
