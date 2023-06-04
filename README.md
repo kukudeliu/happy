@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 23:55:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 23:56:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [国内出现偏肺病毒感染](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%86%85%E5%87%BA%E7%8E%B0%E5%81%8F%E8%82%BA%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93%23&t=31&band_rank=6&Refer=top)<br />
 7. [25岁女孩体重只有60多斤](https://s.weibo.com/weibo?q=%2325%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%BD%93%E9%87%8D%E5%8F%AA%E6%9C%8960%E5%A4%9A%E6%96%A4%23&t=31&band_rank=7&Refer=top)<br />
 8. [王诗龄生图](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%AF%97%E9%BE%84%E7%94%9F%E5%9B%BE%23&t=31&band_rank=8&Refer=top)<br />
-9. [王鹤棣孟子义不考虑合作现偶吗](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%AD%9F%E5%AD%90%E4%B9%89%E4%B8%8D%E8%80%83%E8%99%91%E5%90%88%E4%BD%9C%E7%8E%B0%E5%81%B6%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
+9. [蔡徐坤妈妈](https://s.weibo.com/weibo?q=%E8%94%A1%E5%BE%90%E5%9D%A4%E5%A6%88%E5%A6%88&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
