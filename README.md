@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 13:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 13:24:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [男子路遇纸片鸟一查竟是国保动物](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B7%AF%E9%81%87%E7%BA%B8%E7%89%87%E9%B8%9F%E4%B8%80%E6%9F%A5%E7%AB%9F%E6%98%AF%E5%9B%BD%E4%BF%9D%E5%8A%A8%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子考科三系错安全带考官面如死灰](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%80%83%E7%A7%91%E4%B8%89%E7%B3%BB%E9%94%99%E5%AE%89%E5%85%A8%E5%B8%A6%E8%80%83%E5%AE%98%E9%9D%A2%E5%A6%82%E6%AD%BB%E7%81%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [姑姑拍到侄女做梦吃雪糕](https://www.baidu.com/s?wd=%E5%A7%91%E5%A7%91%E6%8B%8D%E5%88%B0%E4%BE%84%E5%A5%B3%E5%81%9A%E6%A2%A6%E5%90%83%E9%9B%AA%E7%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [张陆刚回地球就在想下次去太空了](https://www.baidu.com/s?wd=%E5%BC%A0%E9%99%86%E5%88%9A%E5%9B%9E%E5%9C%B0%E7%90%83%E5%B0%B1%E5%9C%A8%E6%83%B3%E4%B8%8B%E6%AC%A1%E5%8E%BB%E5%A4%AA%E7%A9%BA%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [薛之谦把伴舞的鞋子扔了](https://www.baidu.com/s?wd=%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%8A%8A%E4%BC%B4%E8%88%9E%E7%9A%84%E9%9E%8B%E5%AD%90%E6%89%94%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [费俊龙连说3个很好](https://www.baidu.com/s?wd=%E8%B4%B9%E4%BF%8A%E9%BE%99%E8%BF%9E%E8%AF%B43%E4%B8%AA%E5%BE%88%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [张陆刚回地球就在想下次去太空了](https://www.baidu.com/s?wd=%E5%BC%A0%E9%99%86%E5%88%9A%E5%9B%9E%E5%9C%B0%E7%90%83%E5%B0%B1%E5%9C%A8%E6%83%B3%E4%B8%8B%E6%AC%A1%E5%8E%BB%E5%A4%AA%E7%A9%BA%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [男子路遇纸片鸟一查竟是国保动物](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B7%AF%E9%81%87%E7%BA%B8%E7%89%87%E9%B8%9F%E4%B8%80%E6%9F%A5%E7%AB%9F%E6%98%AF%E5%9B%BD%E4%BF%9D%E5%8A%A8%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子考科三系错安全带考官面如死灰](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%80%83%E7%A7%91%E4%B8%89%E7%B3%BB%E9%94%99%E5%AE%89%E5%85%A8%E5%B8%A6%E8%80%83%E5%AE%98%E9%9D%A2%E5%A6%82%E6%AD%BB%E7%81%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [姑姑拍到侄女做梦吃雪糕](https://www.baidu.com/s?wd=%E5%A7%91%E5%A7%91%E6%8B%8D%E5%88%B0%E4%BE%84%E5%A5%B3%E5%81%9A%E6%A2%A6%E5%90%83%E9%9B%AA%E7%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [张陆刚回地球就在想下次去太空了](https://www.baidu.com/s?wd=%E5%BC%A0%E9%99%86%E5%88%9A%E5%9B%9E%E5%9C%B0%E7%90%83%E5%B0%B1%E5%9C%A8%E6%83%B3%E4%B8%8B%E6%AC%A1%E5%8E%BB%E5%A4%AA%E7%A9%BA%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [薛之谦把伴舞的鞋子扔了](https://www.baidu.com/s?wd=%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%8A%8A%E4%BC%B4%E8%88%9E%E7%9A%84%E9%9E%8B%E5%AD%90%E6%89%94%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [费俊龙连说3个很好](https://www.baidu.com/s?wd=%E8%B4%B9%E4%BF%8A%E9%BE%99%E8%BF%9E%E8%AF%B43%E4%B8%AA%E5%BE%88%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [张陆刚回地球就在想下次去太空了](https://www.baidu.com/s?wd=%E5%BC%A0%E9%99%86%E5%88%9A%E5%9B%9E%E5%9C%B0%E7%90%83%E5%B0%B1%E5%9C%A8%E6%83%B3%E4%B8%8B%E6%AC%A1%E5%8E%BB%E5%A4%AA%E7%A9%BA%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
