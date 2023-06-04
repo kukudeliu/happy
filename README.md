@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 17:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 17:14:01</h4></div>
 
 > 微博  
 
@@ -32,8 +32,8 @@
 4. [揭秘航天搜救队](https://www.baidu.com/s?wd=%E6%8F%AD%E7%A7%98%E8%88%AA%E5%A4%A9%E6%90%9C%E6%95%91%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [多国出现偏肺病毒感染 尚无治疗药物](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E5%87%BA%E7%8E%B0%E5%81%8F%E8%82%BA%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93+%E5%B0%9A%E6%97%A0%E6%B2%BB%E7%96%97%E8%8D%AF%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子掉入鱼塘前紧急扔出手机](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8E%89%E5%85%A5%E9%B1%BC%E5%A1%98%E5%89%8D%E7%B4%A7%E6%80%A5%E6%89%94%E5%87%BA%E6%89%8B%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [35岁男子为考清华复读14年](https://www.baidu.com/s?wd=35%E5%B2%81%E7%94%B7%E5%AD%90%E4%B8%BA%E8%80%83%E6%B8%85%E5%8D%8E%E5%A4%8D%E8%AF%BB14%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [高考临近阿姨们在夜店里跳广场舞](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E4%B8%B4%E8%BF%91%E9%98%BF%E5%A7%A8%E4%BB%AC%E5%9C%A8%E5%A4%9C%E5%BA%97%E9%87%8C%E8%B7%B3%E5%B9%BF%E5%9C%BA%E8%88%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [高考临近阿姨们在夜店里跳广场舞](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E4%B8%B4%E8%BF%91%E9%98%BF%E5%A7%A8%E4%BB%AC%E5%9C%A8%E5%A4%9C%E5%BA%97%E9%87%8C%E8%B7%B3%E5%B9%BF%E5%9C%BA%E8%88%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [35岁男子为考清华复读14年](https://www.baidu.com/s?wd=35%E5%B2%81%E7%94%B7%E5%AD%90%E4%B8%BA%E8%80%83%E6%B8%85%E5%8D%8E%E5%A4%8D%E8%AF%BB14%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [村庄修路挖出大石龟？官方通报](https://www.baidu.com/s?wd=%E6%9D%91%E5%BA%84%E4%BF%AE%E8%B7%AF%E6%8C%96%E5%87%BA%E5%A4%A7%E7%9F%B3%E9%BE%9F%EF%BC%9F%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -44,6 +44,6 @@
 4. [揭秘航天搜救队](https://www.baidu.com/s?wd=%E6%8F%AD%E7%A7%98%E8%88%AA%E5%A4%A9%E6%90%9C%E6%95%91%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [多国出现偏肺病毒感染 尚无治疗药物](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E5%87%BA%E7%8E%B0%E5%81%8F%E8%82%BA%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93+%E5%B0%9A%E6%97%A0%E6%B2%BB%E7%96%97%E8%8D%AF%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子掉入鱼塘前紧急扔出手机](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8E%89%E5%85%A5%E9%B1%BC%E5%A1%98%E5%89%8D%E7%B4%A7%E6%80%A5%E6%89%94%E5%87%BA%E6%89%8B%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [35岁男子为考清华复读14年](https://www.baidu.com/s?wd=35%E5%B2%81%E7%94%B7%E5%AD%90%E4%B8%BA%E8%80%83%E6%B8%85%E5%8D%8E%E5%A4%8D%E8%AF%BB14%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [高考临近阿姨们在夜店里跳广场舞](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E4%B8%B4%E8%BF%91%E9%98%BF%E5%A7%A8%E4%BB%AC%E5%9C%A8%E5%A4%9C%E5%BA%97%E9%87%8C%E8%B7%B3%E5%B9%BF%E5%9C%BA%E8%88%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [高考临近阿姨们在夜店里跳广场舞](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E4%B8%B4%E8%BF%91%E9%98%BF%E5%A7%A8%E4%BB%AC%E5%9C%A8%E5%A4%9C%E5%BA%97%E9%87%8C%E8%B7%B3%E5%B9%BF%E5%9C%BA%E8%88%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [35岁男子为考清华复读14年](https://www.baidu.com/s?wd=35%E5%B2%81%E7%94%B7%E5%AD%90%E4%B8%BA%E8%80%83%E6%B8%85%E5%8D%8E%E5%A4%8D%E8%AF%BB14%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [村庄修路挖出大石龟？官方通报](https://www.baidu.com/s?wd=%E6%9D%91%E5%BA%84%E4%BF%AE%E8%B7%AF%E6%8C%96%E5%87%BA%E5%A4%A7%E7%9F%B3%E9%BE%9F%EF%BC%9F%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
