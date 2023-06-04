@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 13:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 13:39:01</h4></div>
 
 > 微博  
 
-1. [79岁老人欲取离世儿子41万存款被拒](https://s.weibo.com/weibo?q=%2379%E5%B2%81%E8%80%81%E4%BA%BA%E6%AC%B2%E5%8F%96%E7%A6%BB%E4%B8%96%E5%84%BF%E5%AD%9041%E4%B8%87%E5%AD%98%E6%AC%BE%E8%A2%AB%E6%8B%92%23&t=31&band_rank=1&Refer=top)<br />
-2. [我的脸被隐翅虫毁容了](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E8%84%B8%E8%A2%AB%E9%9A%90%E7%BF%85%E8%99%AB%E6%AF%81%E5%AE%B9%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
+1. [我的脸被隐翅虫毁容了](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E8%84%B8%E8%A2%AB%E9%9A%90%E7%BF%85%E8%99%AB%E6%AF%81%E5%AE%B9%E4%BA%86%23&t=31&band_rank=1&Refer=top)<br />
+2. [79岁老人欲取离世儿子41万存款被拒](https://s.weibo.com/weibo?q=%2379%E5%B2%81%E8%80%81%E4%BA%BA%E6%AC%B2%E5%8F%96%E7%A6%BB%E4%B8%96%E5%84%BF%E5%AD%9041%E4%B8%87%E5%AD%98%E6%AC%BE%E8%A2%AB%E6%8B%92%23&t=31&band_rank=2&Refer=top)<br />
 3. [神十五航天员回地球](https://s.weibo.com/weibo?q=%23%E7%A5%9E%E5%8D%81%E4%BA%94%E8%88%AA%E5%A4%A9%E5%91%98%E5%9B%9E%E5%9C%B0%E7%90%83%23&t=31&band_rank=3&Refer=top)<br />
 4. [任敏哭了](https://s.weibo.com/weibo?q=%E4%BB%BB%E6%95%8F%E5%93%AD%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
 5. [跑男打错范丞丞名字](https://s.weibo.com/weibo?q=%23%E8%B7%91%E7%94%B7%E6%89%93%E9%94%99%E8%8C%83%E4%B8%9E%E4%B8%9E%E5%90%8D%E5%AD%97%23&t=31&band_rank=5&Refer=top)<br />
@@ -33,8 +33,8 @@
 5. [男子路遇纸片鸟一查竟是国保动物](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B7%AF%E9%81%87%E7%BA%B8%E7%89%87%E9%B8%9F%E4%B8%80%E6%9F%A5%E7%AB%9F%E6%98%AF%E5%9B%BD%E4%BF%9D%E5%8A%A8%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子考科三系错安全带考官面如死灰](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%80%83%E7%A7%91%E4%B8%89%E7%B3%BB%E9%94%99%E5%AE%89%E5%85%A8%E5%B8%A6%E8%80%83%E5%AE%98%E9%9D%A2%E5%A6%82%E6%AD%BB%E7%81%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [姑姑拍到侄女做梦吃雪糕](https://www.baidu.com/s?wd=%E5%A7%91%E5%A7%91%E6%8B%8D%E5%88%B0%E4%BE%84%E5%A5%B3%E5%81%9A%E6%A2%A6%E5%90%83%E9%9B%AA%E7%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [跑男打错范丞丞名字](https://www.baidu.com/s?wd=%E8%B7%91%E7%94%B7%E6%89%93%E9%94%99%E8%8C%83%E4%B8%9E%E4%B8%9E%E5%90%8D%E5%AD%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [印度布地毯上浇沥青当新路](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E5%B8%83%E5%9C%B0%E6%AF%AF%E4%B8%8A%E6%B5%87%E6%B2%A5%E9%9D%92%E5%BD%93%E6%96%B0%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [神十五返回遇上绝美日出朝霞](https://www.baidu.com/s?wd=%E7%A5%9E%E5%8D%81%E4%BA%94%E8%BF%94%E5%9B%9E%E9%81%87%E4%B8%8A%E7%BB%9D%E7%BE%8E%E6%97%A5%E5%87%BA%E6%9C%9D%E9%9C%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [梅西巴黎告别战被嘘](https://www.baidu.com/s?wd=%E6%A2%85%E8%A5%BF%E5%B7%B4%E9%BB%8E%E5%91%8A%E5%88%AB%E6%88%98%E8%A2%AB%E5%98%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [男子路遇纸片鸟一查竟是国保动物](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B7%AF%E9%81%87%E7%BA%B8%E7%89%87%E9%B8%9F%E4%B8%80%E6%9F%A5%E7%AB%9F%E6%98%AF%E5%9B%BD%E4%BF%9D%E5%8A%A8%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子考科三系错安全带考官面如死灰](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%80%83%E7%A7%91%E4%B8%89%E7%B3%BB%E9%94%99%E5%AE%89%E5%85%A8%E5%B8%A6%E8%80%83%E5%AE%98%E9%9D%A2%E5%A6%82%E6%AD%BB%E7%81%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [姑姑拍到侄女做梦吃雪糕](https://www.baidu.com/s?wd=%E5%A7%91%E5%A7%91%E6%8B%8D%E5%88%B0%E4%BE%84%E5%A5%B3%E5%81%9A%E6%A2%A6%E5%90%83%E9%9B%AA%E7%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [跑男打错范丞丞名字](https://www.baidu.com/s?wd=%E8%B7%91%E7%94%B7%E6%89%93%E9%94%99%E8%8C%83%E4%B8%9E%E4%B8%9E%E5%90%8D%E5%AD%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [印度布地毯上浇沥青当新路](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E5%B8%83%E5%9C%B0%E6%AF%AF%E4%B8%8A%E6%B5%87%E6%B2%A5%E9%9D%92%E5%BD%93%E6%96%B0%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [神十五返回遇上绝美日出朝霞](https://www.baidu.com/s?wd=%E7%A5%9E%E5%8D%81%E4%BA%94%E8%BF%94%E5%9B%9E%E9%81%87%E4%B8%8A%E7%BB%9D%E7%BE%8E%E6%97%A5%E5%87%BA%E6%9C%9D%E9%9C%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [梅西巴黎告别战被嘘](https://www.baidu.com/s?wd=%E6%A2%85%E8%A5%BF%E5%B7%B4%E9%BB%8E%E5%91%8A%E5%88%AB%E6%88%98%E8%A2%AB%E5%98%98&sa=fyb_news&rsv_dl=fyb_news)<br />
