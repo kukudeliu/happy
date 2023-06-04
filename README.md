@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 06:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 06:16:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [炖肉的时候，有时肉越炖越烂，有的时候却越炖越硬，这是为什么呢？背后有什么科学道理呢？](https://www.zhihu.com/question/507310446)<br />
 7. [《塞尔达传说：王国之泪》地下世界感觉有点压抑，怎么玩比较好？](https://www.zhihu.com/question/600762687)<br />
 8. [美加军舰过航台湾海峡，东部战区回应「全程跟监警戒，依法依规处置」，如何解读美、加此举意图？](https://www.zhihu.com/question/604645738)<br />
-9. [高考前该怎么调整心态？](https://www.zhihu.com/question/604041092)<br />
+9. [在县城，公务员晋升正科难吗？](https://www.zhihu.com/question/597393632)<br />
 
 > 百度  
 
