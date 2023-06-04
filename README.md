@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 10:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 10:04:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [一人说一个奇怪的生理反应](https://s.weibo.com/weibo?q=%E4%B8%80%E4%BA%BA%E8%AF%B4%E4%B8%80%E4%B8%AA%E5%A5%87%E6%80%AA%E7%9A%84%E7%94%9F%E7%90%86%E5%8F%8D%E5%BA%94&t=31&band_rank=6&Refer=top)<br />
 7. [五月天鸟巢尾场唱任意门](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%E9%B8%9F%E5%B7%A2%E5%B0%BE%E5%9C%BA%E5%94%B1%E4%BB%BB%E6%84%8F%E9%97%A8&t=31&band_rank=7&Refer=top)<br />
 8. [梅西自宣离队](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%87%AA%E5%AE%A3%E7%A6%BB%E9%98%9F%23&t=31&band_rank=8&Refer=top)<br />
-9. [你觉得椰树直播算擦边吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%A7%89%E5%BE%97%E6%A4%B0%E6%A0%91%E7%9B%B4%E6%92%AD%E7%AE%97%E6%93%A6%E8%BE%B9%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
+9. [萌娃检查身体时突然向医生wink](https://s.weibo.com/weibo?q=%23%E8%90%8C%E5%A8%83%E6%A3%80%E6%9F%A5%E8%BA%AB%E4%BD%93%E6%97%B6%E7%AA%81%E7%84%B6%E5%90%91%E5%8C%BB%E7%94%9Fwink%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -18,9 +18,9 @@
 2. [美加军舰过航台湾海峡，东部战区回应「全程跟监警戒，依法依规处置」，如何解读美、加此举意图？](https://www.zhihu.com/question/604645738)<br />
 3. [波音 CEO 称 C919 是一架好飞机，但想满足需求还有很久，不该对全球有三家供应商生畏，如何解读？](https://www.zhihu.com/question/604411935)<br />
 4. [神舟十五号载人飞船返回舱成功着陆，航天员费俊龙邓清明张陆顺利出舱健康状态良好，如何评价这次任务的意义？](https://www.zhihu.com/question/604011587)<br />
-5. [2023 高考临近，作为考生或家长的你现在状态如何？是否会感到紧张焦虑？有哪些调节经验分享？](https://www.zhihu.com/question/604554083)<br />
-6. [每天花两个小时背单词，值得吗？](https://www.zhihu.com/question/445968666)<br />
-7. [什么叫做二次元游戏？](https://www.zhihu.com/question/30989488)<br />
+5. [每天花两个小时背单词，值得吗？](https://www.zhihu.com/question/445968666)<br />
+6. [什么叫做二次元游戏？](https://www.zhihu.com/question/30989488)<br />
+7. [2023 高考临近，作为考生或家长的你现在状态如何？是否会感到紧张焦虑？有哪些调节经验分享？](https://www.zhihu.com/question/604554083)<br />
 8. [日系车的溃缩吸能设计，是否有其理论上的合理性？](https://www.zhihu.com/question/604203550)<br />
 9. [距离高考还有四天的时候你们当时再想什么，考不上好大学该怎么办？有些焦虑?](https://www.zhihu.com/question/604608358)<br />
 
@@ -32,9 +32,9 @@
 4. [探源历史 致远未来](https://www.baidu.com/s?wd=%E6%8E%A2%E6%BA%90%E5%8E%86%E5%8F%B2+%E8%87%B4%E8%BF%9C%E6%9C%AA%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [加媒称目睹中国军舰横切逼美舰改道](https://www.baidu.com/s?wd=%E5%8A%A0%E5%AA%92%E7%A7%B0%E7%9B%AE%E7%9D%B9%E4%B8%AD%E5%9B%BD%E5%86%9B%E8%88%B0%E6%A8%AA%E5%88%87%E9%80%BC%E7%BE%8E%E8%88%B0%E6%94%B9%E9%81%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [那英送何炅的衣服竟然是童装](https://www.baidu.com/s?wd=%E9%82%A3%E8%8B%B1%E9%80%81%E4%BD%95%E7%82%85%E7%9A%84%E8%A1%A3%E6%9C%8D%E7%AB%9F%E7%84%B6%E6%98%AF%E7%AB%A5%E8%A3%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [疾控提醒血吸虫接触10秒即可感染](https://www.baidu.com/s?wd=%E7%96%BE%E6%8E%A7%E6%8F%90%E9%86%92%E8%A1%80%E5%90%B8%E8%99%AB%E6%8E%A5%E8%A7%A610%E7%A7%92%E5%8D%B3%E5%8F%AF%E6%84%9F%E6%9F%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [薛之谦把伴舞的鞋子扔了](https://www.baidu.com/s?wd=%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%8A%8A%E4%BC%B4%E8%88%9E%E7%9A%84%E9%9E%8B%E5%AD%90%E6%89%94%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [大叔和大爷抢占座位被乘客捶脸](https://www.baidu.com/s?wd=%E5%A4%A7%E5%8F%94%E5%92%8C%E5%A4%A7%E7%88%B7%E6%8A%A2%E5%8D%A0%E5%BA%A7%E4%BD%8D%E8%A2%AB%E4%B9%98%E5%AE%A2%E6%8D%B6%E8%84%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [大叔和大爷抢占座位被乘客捶脸](https://www.baidu.com/s?wd=%E5%A4%A7%E5%8F%94%E5%92%8C%E5%A4%A7%E7%88%B7%E6%8A%A2%E5%8D%A0%E5%BA%A7%E4%BD%8D%E8%A2%AB%E4%B9%98%E5%AE%A2%E6%8D%B6%E8%84%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [疾控提醒血吸虫接触10秒即可感染](https://www.baidu.com/s?wd=%E7%96%BE%E6%8E%A7%E6%8F%90%E9%86%92%E8%A1%80%E5%90%B8%E8%99%AB%E6%8E%A5%E8%A7%A610%E7%A7%92%E5%8D%B3%E5%8F%AF%E6%84%9F%E6%9F%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [梅西巴黎告别战被嘘](https://www.baidu.com/s?wd=%E6%A2%85%E8%A5%BF%E5%B7%B4%E9%BB%8E%E5%91%8A%E5%88%AB%E6%88%98%E8%A2%AB%E5%98%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [探源历史 致远未来](https://www.baidu.com/s?wd=%E6%8E%A2%E6%BA%90%E5%8E%86%E5%8F%B2+%E8%87%B4%E8%BF%9C%E6%9C%AA%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [加媒称目睹中国军舰横切逼美舰改道](https://www.baidu.com/s?wd=%E5%8A%A0%E5%AA%92%E7%A7%B0%E7%9B%AE%E7%9D%B9%E4%B8%AD%E5%9B%BD%E5%86%9B%E8%88%B0%E6%A8%AA%E5%88%87%E9%80%BC%E7%BE%8E%E8%88%B0%E6%94%B9%E9%81%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [那英送何炅的衣服竟然是童装](https://www.baidu.com/s?wd=%E9%82%A3%E8%8B%B1%E9%80%81%E4%BD%95%E7%82%85%E7%9A%84%E8%A1%A3%E6%9C%8D%E7%AB%9F%E7%84%B6%E6%98%AF%E7%AB%A5%E8%A3%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [疾控提醒血吸虫接触10秒即可感染](https://www.baidu.com/s?wd=%E7%96%BE%E6%8E%A7%E6%8F%90%E9%86%92%E8%A1%80%E5%90%B8%E8%99%AB%E6%8E%A5%E8%A7%A610%E7%A7%92%E5%8D%B3%E5%8F%AF%E6%84%9F%E6%9F%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [薛之谦把伴舞的鞋子扔了](https://www.baidu.com/s?wd=%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%8A%8A%E4%BC%B4%E8%88%9E%E7%9A%84%E9%9E%8B%E5%AD%90%E6%89%94%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [大叔和大爷抢占座位被乘客捶脸](https://www.baidu.com/s?wd=%E5%A4%A7%E5%8F%94%E5%92%8C%E5%A4%A7%E7%88%B7%E6%8A%A2%E5%8D%A0%E5%BA%A7%E4%BD%8D%E8%A2%AB%E4%B9%98%E5%AE%A2%E6%8D%B6%E8%84%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [大叔和大爷抢占座位被乘客捶脸](https://www.baidu.com/s?wd=%E5%A4%A7%E5%8F%94%E5%92%8C%E5%A4%A7%E7%88%B7%E6%8A%A2%E5%8D%A0%E5%BA%A7%E4%BD%8D%E8%A2%AB%E4%B9%98%E5%AE%A2%E6%8D%B6%E8%84%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [疾控提醒血吸虫接触10秒即可感染](https://www.baidu.com/s?wd=%E7%96%BE%E6%8E%A7%E6%8F%90%E9%86%92%E8%A1%80%E5%90%B8%E8%99%AB%E6%8E%A5%E8%A7%A610%E7%A7%92%E5%8D%B3%E5%8F%AF%E6%84%9F%E6%9F%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [梅西巴黎告别战被嘘](https://www.baidu.com/s?wd=%E6%A2%85%E8%A5%BF%E5%B7%B4%E9%BB%8E%E5%91%8A%E5%88%AB%E6%88%98%E8%A2%AB%E5%98%98&sa=fyb_news&rsv_dl=fyb_news)<br />
