@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 10:49:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 10:50:01</h4></div>
 
 > 微博  
 
@@ -18,11 +18,11 @@
 2. [美加军舰过航台湾海峡，东部战区回应「全程跟监警戒，依法依规处置」，如何解读美、加此举意图？](https://www.zhihu.com/question/604645738)<br />
 3. [神舟十五号载人飞船返回舱成功着陆，航天员费俊龙邓清明张陆顺利出舱健康状态良好，如何评价这次任务的意义？](https://www.zhihu.com/question/604011587)<br />
 4. [日系车的溃缩吸能设计，是否有其理论上的合理性？](https://www.zhihu.com/question/604203550)<br />
-5. [距离高考还有四天的时候你们在想什么？有些焦虑，考不上好大学该怎么办？](https://www.zhihu.com/question/604608358)<br />
+5. [在单位，升职加薪无望，领导又经常给安排活儿，想做边缘人怎么办？](https://www.zhihu.com/question/604023905)<br />
 6. [黄仁勋为什么只有 3.5% 的英伟达股份？](https://www.zhihu.com/question/603714039)<br />
-7. [在单位，升职加薪无望，领导又经常给安排活儿，想做边缘人怎么办？](https://www.zhihu.com/question/604023905)<br />
-8. [微软宣布 Win11 原生支持解压 rar 文件，WinRAR 发图自嘲，你对此有何看法？](https://www.zhihu.com/question/604180951)<br />
-9. [礼物一定要贵的才好吗？](https://www.zhihu.com/question/455738832)<br />
+7. [距离高考还有四天的时候你们在想什么？有些焦虑，考不上好大学该怎么办？](https://www.zhihu.com/question/604608358)<br />
+8. [五月百城二手住宅均价环比下跌 0.25%，北京二手房成交量跌破 1.3 万套，六月楼市会怎么走？](https://www.zhihu.com/question/604444104)<br />
+9. [微软宣布 Win11 原生支持解压 rar 文件，WinRAR 发图自嘲，你对此有何看法？](https://www.zhihu.com/question/604180951)<br />
 
 > 百度  
 
