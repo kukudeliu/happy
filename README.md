@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 14:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 14:13:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [你请客吃饭，结账时发现有人私下拿好烟好酒记在账上，怎么应对？](https://www.zhihu.com/question/465991724)<br />
 7. [35 岁了还一事无成，怎么办呢？](https://www.zhihu.com/question/593756955)<br />
 8. [小学生现在还有必要学奥数吗？](https://www.zhihu.com/question/428103688)<br />
-9. [哪个瞬间你觉得宠物好像真的听懂你说话了？](https://www.zhihu.com/question/603807166)<br />
+9. [孩子在楼下玩被打了脸，对方家长下楼拒绝道歉该怎么办？](https://www.zhihu.com/question/602941549)<br />
 
 > 百度  
 
