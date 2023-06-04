@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 11:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 11:44:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [男子路遇纸片鸟一查竟是国保动物](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B7%AF%E9%81%87%E7%BA%B8%E7%89%87%E9%B8%9F%E4%B8%80%E6%9F%A5%E7%AB%9F%E6%98%AF%E5%9B%BD%E4%BF%9D%E5%8A%A8%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李尚福：中国必须统一也必然统一](https://www.baidu.com/s?wd=%E6%9D%8E%E5%B0%9A%E7%A6%8F%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%BF%85%E9%A1%BB%E7%BB%9F%E4%B8%80%E4%B9%9F%E5%BF%85%E7%84%B6%E7%BB%9F%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女孩家长称黄渤赠送手表没有给弟弟](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%AE%B6%E9%95%BF%E7%A7%B0%E9%BB%84%E6%B8%A4%E8%B5%A0%E9%80%81%E6%89%8B%E8%A1%A8%E6%B2%A1%E6%9C%89%E7%BB%99%E5%BC%9F%E5%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [疾控提醒血吸虫接触10秒即可感染](https://www.baidu.com/s?wd=%E7%96%BE%E6%8E%A7%E6%8F%90%E9%86%92%E8%A1%80%E5%90%B8%E8%99%AB%E6%8E%A5%E8%A7%A610%E7%A7%92%E5%8D%B3%E5%8F%AF%E6%84%9F%E6%9F%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [4个月卖1751.5亿 彩票盯上年轻人？](https://www.baidu.com/s?wd=4%E4%B8%AA%E6%9C%88%E5%8D%961751.5%E4%BA%BF+%E5%BD%A9%E7%A5%A8%E7%9B%AF%E4%B8%8A%E5%B9%B4%E8%BD%BB%E4%BA%BA%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [男子路遇纸片鸟一查竟是国保动物](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B7%AF%E9%81%87%E7%BA%B8%E7%89%87%E9%B8%9F%E4%B8%80%E6%9F%A5%E7%AB%9F%E6%98%AF%E5%9B%BD%E4%BF%9D%E5%8A%A8%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李尚福：中国必须统一也必然统一](https://www.baidu.com/s?wd=%E6%9D%8E%E5%B0%9A%E7%A6%8F%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%BF%85%E9%A1%BB%E7%BB%9F%E4%B8%80%E4%B9%9F%E5%BF%85%E7%84%B6%E7%BB%9F%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女孩家长称黄渤赠送手表没有给弟弟](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%AE%B6%E9%95%BF%E7%A7%B0%E9%BB%84%E6%B8%A4%E8%B5%A0%E9%80%81%E6%89%8B%E8%A1%A8%E6%B2%A1%E6%9C%89%E7%BB%99%E5%BC%9F%E5%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [疾控提醒血吸虫接触10秒即可感染](https://www.baidu.com/s?wd=%E7%96%BE%E6%8E%A7%E6%8F%90%E9%86%92%E8%A1%80%E5%90%B8%E8%99%AB%E6%8E%A5%E8%A7%A610%E7%A7%92%E5%8D%B3%E5%8F%AF%E6%84%9F%E6%9F%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [4个月卖1751.5亿 彩票盯上年轻人？](https://www.baidu.com/s?wd=4%E4%B8%AA%E6%9C%88%E5%8D%961751.5%E4%BA%BF+%E5%BD%A9%E7%A5%A8%E7%9B%AF%E4%B8%8A%E5%B9%B4%E8%BD%BB%E4%BA%BA%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
