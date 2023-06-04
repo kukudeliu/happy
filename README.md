@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 16:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 16:06:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [孟子义锐评任敏汤晶媚乐队事件](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E9%94%90%E8%AF%84%E4%BB%BB%E6%95%8F%E6%B1%A4%E6%99%B6%E5%AA%9A%E4%B9%90%E9%98%9F%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=6&Refer=top)<br />
 7. [迪丽热巴 嘉人](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E5%98%89%E4%BA%BA&t=31&band_rank=7&Refer=top)<br />
 8. [卡卡 北京](https://s.weibo.com/weibo?q=%E5%8D%A1%E5%8D%A1%20%E5%8C%97%E4%BA%AC&t=31&band_rank=8&Refer=top)<br />
-9. [79岁老人欲取离世儿子41万存款被拒](https://s.weibo.com/weibo?q=%2379%E5%B2%81%E8%80%81%E4%BA%BA%E6%AC%B2%E5%8F%96%E7%A6%BB%E4%B8%96%E5%84%BF%E5%AD%9041%E4%B8%87%E5%AD%98%E6%AC%BE%E8%A2%AB%E6%8B%92%23&t=31&band_rank=9&Refer=top)<br />
+9. [直女发言聊天记录](https://s.weibo.com/weibo?q=%E7%9B%B4%E5%A5%B3%E5%8F%91%E8%A8%80%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
