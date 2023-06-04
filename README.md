@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 22:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 22:34:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [孩子严重烫伤9天才被家长送医](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E4%B8%A5%E9%87%8D%E7%83%AB%E4%BC%A49%E5%A4%A9%E6%89%8D%E8%A2%AB%E5%AE%B6%E9%95%BF%E9%80%81%E5%8C%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女生半夜嗦田螺肿成香肠嘴](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%8D%8A%E5%A4%9C%E5%97%A6%E7%94%B0%E8%9E%BA%E8%82%BF%E6%88%90%E9%A6%99%E8%82%A0%E5%98%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [河北廊坊灭门案被告申请出庭被拒](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E5%BB%8A%E5%9D%8A%E7%81%AD%E9%97%A8%E6%A1%88%E8%A2%AB%E5%91%8A%E7%94%B3%E8%AF%B7%E5%87%BA%E5%BA%AD%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子考科三系错安全带考官面如死灰](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%80%83%E7%A7%91%E4%B8%89%E7%B3%BB%E9%94%99%E5%AE%89%E5%85%A8%E5%B8%A6%E8%80%83%E5%AE%98%E9%9D%A2%E5%A6%82%E6%AD%BB%E7%81%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [国防部长：请各国管好自家军舰飞机](https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E9%83%A8%E9%95%BF%EF%BC%9A%E8%AF%B7%E5%90%84%E5%9B%BD%E7%AE%A1%E5%A5%BD%E8%87%AA%E5%AE%B6%E5%86%9B%E8%88%B0%E9%A3%9E%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [孩子严重烫伤9天才被家长送医](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E4%B8%A5%E9%87%8D%E7%83%AB%E4%BC%A49%E5%A4%A9%E6%89%8D%E8%A2%AB%E5%AE%B6%E9%95%BF%E9%80%81%E5%8C%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女生半夜嗦田螺肿成香肠嘴](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%8D%8A%E5%A4%9C%E5%97%A6%E7%94%B0%E8%9E%BA%E8%82%BF%E6%88%90%E9%A6%99%E8%82%A0%E5%98%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [河北廊坊灭门案被告申请出庭被拒](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E5%BB%8A%E5%9D%8A%E7%81%AD%E9%97%A8%E6%A1%88%E8%A2%AB%E5%91%8A%E7%94%B3%E8%AF%B7%E5%87%BA%E5%BA%AD%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子考科三系错安全带考官面如死灰](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%80%83%E7%A7%91%E4%B8%89%E7%B3%BB%E9%94%99%E5%AE%89%E5%85%A8%E5%B8%A6%E8%80%83%E5%AE%98%E9%9D%A2%E5%A6%82%E6%AD%BB%E7%81%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [国防部长：请各国管好自家军舰飞机](https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E9%83%A8%E9%95%BF%EF%BC%9A%E8%AF%B7%E5%90%84%E5%9B%BD%E7%AE%A1%E5%A5%BD%E8%87%AA%E5%AE%B6%E5%86%9B%E8%88%B0%E9%A3%9E%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
