@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 22:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 22:29:01</h4></div>
 
 > 微博  
 
 1. [25岁女孩体重只有60多斤](https://s.weibo.com/weibo?q=%2325%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%BD%93%E9%87%8D%E5%8F%AA%E6%9C%8960%E5%A4%9A%E6%96%A4%23&t=31&band_rank=1&Refer=top)<br />
-2. [偏肺病毒](https://s.weibo.com/weibo?q=%23%E5%81%8F%E8%82%BA%E7%97%85%E6%AF%92%23&t=31&band_rank=2&Refer=top)<br />
+2. [宋雨琦奔跑吧12期只录了4期](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E9%9B%A8%E7%90%A6%E5%A5%94%E8%B7%91%E5%90%A712%E6%9C%9F%E5%8F%AA%E5%BD%95%E4%BA%864%E6%9C%9F%23&t=31&band_rank=2&Refer=top)<br />
 3. [圆梦乘组的高清笑颜](https://s.weibo.com/weibo?q=%23%E5%9C%86%E6%A2%A6%E4%B9%98%E7%BB%84%E7%9A%84%E9%AB%98%E6%B8%85%E7%AC%91%E9%A2%9C%23&t=31&band_rank=3&Refer=top)<br />
-4. [杨紫 唯一纯白茉莉花](https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%20%E5%94%AF%E4%B8%80%E7%BA%AF%E7%99%BD%E8%8C%89%E8%8E%89%E8%8A%B1&t=31&band_rank=4&Refer=top)<br />
-5. [宋雨琦奔跑吧12期只录了4期](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E9%9B%A8%E7%90%A6%E5%A5%94%E8%B7%91%E5%90%A712%E6%9C%9F%E5%8F%AA%E5%BD%95%E4%BA%864%E6%9C%9F%23&t=31&band_rank=5&Refer=top)<br />
+4. [偏肺病毒](https://s.weibo.com/weibo?q=%23%E5%81%8F%E8%82%BA%E7%97%85%E6%AF%92%23&t=31&band_rank=4&Refer=top)<br />
+5. [杨紫 唯一纯白茉莉花](https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%20%E5%94%AF%E4%B8%80%E7%BA%AF%E7%99%BD%E8%8C%89%E8%8E%89%E8%8A%B1&t=31&band_rank=5&Refer=top)<br />
 6. [国内出现偏肺病毒感染](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%86%85%E5%87%BA%E7%8E%B0%E5%81%8F%E8%82%BA%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93%23&t=31&band_rank=6&Refer=top)<br />
 7. [宋茜做错了什么](https://s.weibo.com/weibo?q=%E5%AE%8B%E8%8C%9C%E5%81%9A%E9%94%99%E4%BA%86%E4%BB%80%E4%B9%88&t=31&band_rank=7&Refer=top)<br />
 8. [爷爷把微信当书信用](https://s.weibo.com/weibo?q=%E7%88%B7%E7%88%B7%E6%8A%8A%E5%BE%AE%E4%BF%A1%E5%BD%93%E4%B9%A6%E4%BF%A1%E7%94%A8&t=31&band_rank=8&Refer=top)<br />
@@ -22,7 +22,7 @@
 6. [皇马官方宣布本泽马合同到期自由身离队，14 年 647 场打进 353 球，如何评价他的皇马生涯？](https://www.zhihu.com/question/604741814)<br />
 7. [为什么英语没有把像 virtual 这样「出现即歧义」的单词淘汰掉?](https://www.zhihu.com/question/603452321)<br />
 8. [2023 LPL 夏季赛 OMG 2:1 击败 WBG，如何评价这场比赛？](https://www.zhihu.com/question/604739881)<br />
-9. [新房装修，需不需要安装前置过滤器和净水器？](https://www.zhihu.com/question/450419506)<br />
+9. [如何评价《塞尔达传说：王国之泪》？](https://www.zhihu.com/question/593908300)<br />
 
 > 百度  
 
