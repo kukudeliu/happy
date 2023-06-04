@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 10:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 10:43:01</h4></div>
 
 > 微博  
 
@@ -18,9 +18,9 @@
 2. [美加军舰过航台湾海峡，东部战区回应「全程跟监警戒，依法依规处置」，如何解读美、加此举意图？](https://www.zhihu.com/question/604645738)<br />
 3. [黄仁勋为什么只有 3.5% 的英伟达股份？](https://www.zhihu.com/question/603714039)<br />
 4. [神舟十五号载人飞船返回舱成功着陆，航天员费俊龙邓清明张陆顺利出舱健康状态良好，如何评价这次任务的意义？](https://www.zhihu.com/question/604011587)<br />
-5. [每天花两个小时背单词，值得吗？](https://www.zhihu.com/question/445968666)<br />
-6. [日系车的溃缩吸能设计，是否有其理论上的合理性？](https://www.zhihu.com/question/604203550)<br />
-7. [什么叫做二次元游戏？](https://www.zhihu.com/question/30989488)<br />
+5. [日系车的溃缩吸能设计，是否有其理论上的合理性？](https://www.zhihu.com/question/604203550)<br />
+6. [什么叫做二次元游戏？](https://www.zhihu.com/question/30989488)<br />
+7. [每天花两个小时背单词，值得吗？](https://www.zhihu.com/question/445968666)<br />
 8. [距离高考还有四天的时候你们在想什么？有些焦虑，考不上好大学该怎么办？](https://www.zhihu.com/question/604608358)<br />
 9. []()<br />
 
