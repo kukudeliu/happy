@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 21:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 21:39:01</h4></div>
 
 > 微博  
 
@@ -32,8 +32,8 @@
 4. [128秒回顾中国航天高燃时刻](https://www.baidu.com/s?wd=128%E7%A7%92%E5%9B%9E%E9%A1%BE%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E9%AB%98%E7%87%83%E6%97%B6%E5%88%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中国防长“香会”发言释放哪些信号](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%98%B2%E9%95%BF%E2%80%9C%E9%A6%99%E4%BC%9A%E2%80%9D%E5%8F%91%E8%A8%80%E9%87%8A%E6%94%BE%E5%93%AA%E4%BA%9B%E4%BF%A1%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [孩子严重烫伤9天才被家长送医](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E4%B8%A5%E9%87%8D%E7%83%AB%E4%BC%A49%E5%A4%A9%E6%89%8D%E8%A2%AB%E5%AE%B6%E9%95%BF%E9%80%81%E5%8C%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [小麦机收大比武主持人一句话引热议](https://www.baidu.com/s?wd=%E5%B0%8F%E9%BA%A6%E6%9C%BA%E6%94%B6%E5%A4%A7%E6%AF%94%E6%AD%A6%E4%B8%BB%E6%8C%81%E4%BA%BA%E4%B8%80%E5%8F%A5%E8%AF%9D%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [多国出现偏肺病毒感染 尚无治疗药物](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E5%87%BA%E7%8E%B0%E5%81%8F%E8%82%BA%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93+%E5%B0%9A%E6%97%A0%E6%B2%BB%E7%96%97%E8%8D%AF%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [北岳恒山山火系人为用火引发](https://www.baidu.com/s?wd=%E5%8C%97%E5%B2%B3%E6%81%92%E5%B1%B1%E5%B1%B1%E7%81%AB%E7%B3%BB%E4%BA%BA%E4%B8%BA%E7%94%A8%E7%81%AB%E5%BC%95%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [村庄修路挖出大石龟？官方通报](https://www.baidu.com/s?wd=%E6%9D%91%E5%BA%84%E4%BF%AE%E8%B7%AF%E6%8C%96%E5%87%BA%E5%A4%A7%E7%9F%B3%E9%BE%9F%EF%BC%9F%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [宁静即兴演皇后一秒入戏](https://www.baidu.com/s?wd=%E5%AE%81%E9%9D%99%E5%8D%B3%E5%85%B4%E6%BC%94%E7%9A%87%E5%90%8E%E4%B8%80%E7%A7%92%E5%85%A5%E6%88%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -44,6 +44,6 @@
 4. [128秒回顾中国航天高燃时刻](https://www.baidu.com/s?wd=128%E7%A7%92%E5%9B%9E%E9%A1%BE%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E9%AB%98%E7%87%83%E6%97%B6%E5%88%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中国防长“香会”发言释放哪些信号](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%98%B2%E9%95%BF%E2%80%9C%E9%A6%99%E4%BC%9A%E2%80%9D%E5%8F%91%E8%A8%80%E9%87%8A%E6%94%BE%E5%93%AA%E4%BA%9B%E4%BF%A1%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [孩子严重烫伤9天才被家长送医](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E4%B8%A5%E9%87%8D%E7%83%AB%E4%BC%A49%E5%A4%A9%E6%89%8D%E8%A2%AB%E5%AE%B6%E9%95%BF%E9%80%81%E5%8C%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [小麦机收大比武主持人一句话引热议](https://www.baidu.com/s?wd=%E5%B0%8F%E9%BA%A6%E6%9C%BA%E6%94%B6%E5%A4%A7%E6%AF%94%E6%AD%A6%E4%B8%BB%E6%8C%81%E4%BA%BA%E4%B8%80%E5%8F%A5%E8%AF%9D%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [多国出现偏肺病毒感染 尚无治疗药物](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E5%87%BA%E7%8E%B0%E5%81%8F%E8%82%BA%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93+%E5%B0%9A%E6%97%A0%E6%B2%BB%E7%96%97%E8%8D%AF%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [北岳恒山山火系人为用火引发](https://www.baidu.com/s?wd=%E5%8C%97%E5%B2%B3%E6%81%92%E5%B1%B1%E5%B1%B1%E7%81%AB%E7%B3%BB%E4%BA%BA%E4%B8%BA%E7%94%A8%E7%81%AB%E5%BC%95%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [村庄修路挖出大石龟？官方通报](https://www.baidu.com/s?wd=%E6%9D%91%E5%BA%84%E4%BF%AE%E8%B7%AF%E6%8C%96%E5%87%BA%E5%A4%A7%E7%9F%B3%E9%BE%9F%EF%BC%9F%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [宁静即兴演皇后一秒入戏](https://www.baidu.com/s?wd=%E5%AE%81%E9%9D%99%E5%8D%B3%E5%85%B4%E6%BC%94%E7%9A%87%E5%90%8E%E4%B8%80%E7%A7%92%E5%85%A5%E6%88%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
