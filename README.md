@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 23:18:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 23:19:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [国内出现偏肺病毒感染](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%86%85%E5%87%BA%E7%8E%B0%E5%81%8F%E8%82%BA%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93%23&t=31&band_rank=6&Refer=top)<br />
 7. [爷爷把微信当书信用](https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E6%8A%8A%E5%BE%AE%E4%BF%A1%E5%BD%93%E4%B9%A6%E4%BF%A1%E7%94%A8%23&t=31&band_rank=7&Refer=top)<br />
 8. [全世界都在等你们分手](https://s.weibo.com/weibo?q=%E5%85%A8%E4%B8%96%E7%95%8C%E9%83%BD%E5%9C%A8%E7%AD%89%E4%BD%A0%E4%BB%AC%E5%88%86%E6%89%8B&t=31&band_rank=8&Refer=top)<br />
-9. [王诗龄生图](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%AF%97%E9%BE%84%E7%94%9F%E5%9B%BE%23&t=31&band_rank=9&Refer=top)<br />
+9. [王鹤棣孟子义不考虑合作现偶吗](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%AD%9F%E5%AD%90%E4%B9%89%E4%B8%8D%E8%80%83%E8%99%91%E5%90%88%E4%BD%9C%E7%8E%B0%E5%81%B6%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -18,11 +18,11 @@
 2. [苏武在贝加尔湖牧羊，条件恶劣，挖食鼠粮草根为生，他为什么不吃羊？](https://www.zhihu.com/question/25483987)<br />
 3. [本田合资零部件厂商安斯泰莫承认造假，造假数量超 2 亿件，最长可追溯至 40 年前，此事暴露哪些问题？](https://www.zhihu.com/question/602979872)<br />
 4. [为什么很多课上会规定「学生可以喝白水，茶也勉强可以，但不能喝饮料」？这些饮料有什么本质区别吗？](https://www.zhihu.com/question/601191918)<br />
-5. [2023 LPL 夏季赛 OMG 2:1 击败 WBG，如何评价这场比赛？](https://www.zhihu.com/question/604739881)<br />
-6. [炖肉的时候，有时肉越炖越烂，有的时候却越炖越硬，这是为什么呢？背后有什么科学道理呢？](https://www.zhihu.com/question/507310446)<br />
-7. [如何评价《崩坏：星穹铁道》中的四星角色素裳？](https://www.zhihu.com/question/599375788)<br />
-8. []()<br />
-9. [为什么英语没有把像 virtual 这样「出现即歧义」的单词淘汰掉?](https://www.zhihu.com/question/603452321)<br />
+5. [4 个月卖出 1751.5 亿元，彩票正在以更多元的方式吸引着年轻人，年轻人为什么热衷买彩票？](https://www.zhihu.com/question/604618222)<br />
+6. [为何郑州与长沙的地铁客流量差距这么大？](https://www.zhihu.com/question/603935230)<br />
+7. [2023 LPL 夏季赛 OMG 2:1 击败 WBG，如何评价这场比赛？](https://www.zhihu.com/question/604739881)<br />
+8. [炖肉的时候，有时肉越炖越烂，有的时候却越炖越硬，这是为什么呢？背后有什么科学道理呢？](https://www.zhihu.com/question/507310446)<br />
+9. [如何评价《崩坏：星穹铁道》中的四星角色素裳？](https://www.zhihu.com/question/599375788)<br />
 
 > 百度  
 
@@ -32,9 +32,9 @@
 4. [128秒回顾中国航天高燃时刻](https://www.baidu.com/s?wd=128%E7%A7%92%E5%9B%9E%E9%A1%BE%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E9%AB%98%E7%87%83%E6%97%B6%E5%88%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [四川山体垮塌已致19死 原因正调查](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%B1%B1%E4%BD%93%E5%9E%AE%E5%A1%8C%E5%B7%B2%E8%87%B419%E6%AD%BB+%E5%8E%9F%E5%9B%A0%E6%AD%A3%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [25岁女孩体重只有60多斤](https://www.baidu.com/s?wd=25%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%BD%93%E9%87%8D%E5%8F%AA%E6%9C%8960%E5%A4%9A%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [孩子严重烫伤9天才被家长送医](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E4%B8%A5%E9%87%8D%E7%83%AB%E4%BC%A49%E5%A4%A9%E6%89%8D%E8%A2%AB%E5%AE%B6%E9%95%BF%E9%80%81%E5%8C%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [日本女团成员灌男粉丝喝洗洁精](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%9B%A2%E6%88%90%E5%91%98%E7%81%8C%E7%94%B7%E7%B2%89%E4%B8%9D%E5%96%9D%E6%B4%97%E6%B4%81%E7%B2%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [宁静即兴演皇后一秒入戏](https://www.baidu.com/s?wd=%E5%AE%81%E9%9D%99%E5%8D%B3%E5%85%B4%E6%BC%94%E7%9A%87%E5%90%8E%E4%B8%80%E7%A7%92%E5%85%A5%E6%88%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [航天员张陆成为青少年追的星](https://www.baidu.com/s?wd=%E8%88%AA%E5%A4%A9%E5%91%98%E5%BC%A0%E9%99%86%E6%88%90%E4%B8%BA%E9%9D%92%E5%B0%91%E5%B9%B4%E8%BF%BD%E7%9A%84%E6%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [孩子严重烫伤9天才被家长送医](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E4%B8%A5%E9%87%8D%E7%83%AB%E4%BC%A49%E5%A4%A9%E6%89%8D%E8%A2%AB%E5%AE%B6%E9%95%BF%E9%80%81%E5%8C%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [日本女团成员灌男粉丝喝洗洁精](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%9B%A2%E6%88%90%E5%91%98%E7%81%8C%E7%94%B7%E7%B2%89%E4%B8%9D%E5%96%9D%E6%B4%97%E6%B4%81%E7%B2%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [128秒回顾中国航天高燃时刻](https://www.baidu.com/s?wd=128%E7%A7%92%E5%9B%9E%E9%A1%BE%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E9%AB%98%E7%87%83%E6%97%B6%E5%88%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [四川山体垮塌已致19死 原因正调查](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%B1%B1%E4%BD%93%E5%9E%AE%E5%A1%8C%E5%B7%B2%E8%87%B419%E6%AD%BB+%E5%8E%9F%E5%9B%A0%E6%AD%A3%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [25岁女孩体重只有60多斤](https://www.baidu.com/s?wd=25%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%BD%93%E9%87%8D%E5%8F%AA%E6%9C%8960%E5%A4%9A%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [孩子严重烫伤9天才被家长送医](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E4%B8%A5%E9%87%8D%E7%83%AB%E4%BC%A49%E5%A4%A9%E6%89%8D%E8%A2%AB%E5%AE%B6%E9%95%BF%E9%80%81%E5%8C%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [日本女团成员灌男粉丝喝洗洁精](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%9B%A2%E6%88%90%E5%91%98%E7%81%8C%E7%94%B7%E7%B2%89%E4%B8%9D%E5%96%9D%E6%B4%97%E6%B4%81%E7%B2%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [宁静即兴演皇后一秒入戏](https://www.baidu.com/s?wd=%E5%AE%81%E9%9D%99%E5%8D%B3%E5%85%B4%E6%BC%94%E7%9A%87%E5%90%8E%E4%B8%80%E7%A7%92%E5%85%A5%E6%88%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [航天员张陆成为青少年追的星](https://www.baidu.com/s?wd=%E8%88%AA%E5%A4%A9%E5%91%98%E5%BC%A0%E9%99%86%E6%88%90%E4%B8%BA%E9%9D%92%E5%B0%91%E5%B9%B4%E8%BF%BD%E7%9A%84%E6%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [孩子严重烫伤9天才被家长送医](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E4%B8%A5%E9%87%8D%E7%83%AB%E4%BC%A49%E5%A4%A9%E6%89%8D%E8%A2%AB%E5%AE%B6%E9%95%BF%E9%80%81%E5%8C%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [日本女团成员灌男粉丝喝洗洁精](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%9B%A2%E6%88%90%E5%91%98%E7%81%8C%E7%94%B7%E7%B2%89%E4%B8%9D%E5%96%9D%E6%B4%97%E6%B4%81%E7%B2%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
