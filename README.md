@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 19:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 19:47:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [男子为考清华复读14年](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%BA%E8%80%83%E6%B8%85%E5%8D%8E%E5%A4%8D%E8%AF%BB14%E5%B9%B4%23&t=31&band_rank=4&Refer=top)<br />
 5. [男子江边观潮好心人嘶吼喊回一命](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%B1%9F%E8%BE%B9%E8%A7%82%E6%BD%AE%E5%A5%BD%E5%BF%83%E4%BA%BA%E5%98%B6%E5%90%BC%E5%96%8A%E5%9B%9E%E4%B8%80%E5%91%BD%23&t=31&band_rank=5&Refer=top)<br />
 6. [爷爷把微信当书信用](https://s.weibo.com/weibo?q=%E7%88%B7%E7%88%B7%E6%8A%8A%E5%BE%AE%E4%BF%A1%E5%BD%93%E4%B9%A6%E4%BF%A1%E7%94%A8&t=31&band_rank=6&Refer=top)<br />
-7. [女店主拎起灭火器冲上前救火](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%BA%97%E4%B8%BB%E6%8B%8E%E8%B5%B7%E7%81%AD%E7%81%AB%E5%99%A8%E5%86%B2%E4%B8%8A%E5%89%8D%E6%95%91%E7%81%AB%23&t=31&band_rank=7&Refer=top)<br />
+7. [市监局再次确认高校饭菜异物是鸭脖](https://s.weibo.com/weibo?q=%23%E5%B8%82%E7%9B%91%E5%B1%80%E5%86%8D%E6%AC%A1%E7%A1%AE%E8%AE%A4%E9%AB%98%E6%A0%A1%E9%A5%AD%E8%8F%9C%E5%BC%82%E7%89%A9%E6%98%AF%E9%B8%AD%E8%84%96%23&t=31&band_rank=7&Refer=top)<br />
 8. [沈月cos陈小希](https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%9C%88cos%E9%99%88%E5%B0%8F%E5%B8%8C%23&t=31&band_rank=8&Refer=top)<br />
-9. [市监局再次确认高校饭菜异物是鸭脖](https://s.weibo.com/weibo?q=%23%E5%B8%82%E7%9B%91%E5%B1%80%E5%86%8D%E6%AC%A1%E7%A1%AE%E8%AE%A4%E9%AB%98%E6%A0%A1%E9%A5%AD%E8%8F%9C%E5%BC%82%E7%89%A9%E6%98%AF%E9%B8%AD%E8%84%96%23&t=31&band_rank=9&Refer=top)<br />
+9. [孟子义锐评任敏汤晶媚乐队事件](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E9%94%90%E8%AF%84%E4%BB%BB%E6%95%8F%E6%B1%A4%E6%99%B6%E5%AA%9A%E4%B9%90%E9%98%9F%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -21,8 +21,8 @@
 5. [如何看待答主楚云卿的原创诗句被自媒体「选入」《诗经》？](https://www.zhihu.com/question/604719253)<br />
 6. [为什么中国没有「逻辑」这个词汇？](https://www.zhihu.com/question/602626141)<br />
 7. [你是如何理解「TCP 是面向字节流的协议」的？](https://www.zhihu.com/question/602003556)<br />
-8. [为什么一道几何题不添加辅助线就做不出来，添加了才做的出来，添加辅助线后多了条件吗?](https://www.zhihu.com/question/600468143)<br />
-9. [今年有多少护士辞职?](https://www.zhihu.com/question/597224517)<br />
+8. [今年有多少护士辞职?](https://www.zhihu.com/question/597224517)<br />
+9. [为什么一道几何题不添加辅助线就做不出来，添加了才做的出来，添加辅助线后多了条件吗?](https://www.zhihu.com/question/600468143)<br />
 
 > 百度  
 
