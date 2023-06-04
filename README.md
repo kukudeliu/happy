@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 17:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 18:00:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [直女发言聊天记录](https://s.weibo.com/weibo?q=%E7%9B%B4%E5%A5%B3%E5%8F%91%E8%A8%80%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95&t=31&band_rank=6&Refer=top)<br />
 7. [司机攒空瓶给拾荒残疾男子](https://s.weibo.com/weibo?q=%23%E5%8F%B8%E6%9C%BA%E6%94%92%E7%A9%BA%E7%93%B6%E7%BB%99%E6%8B%BE%E8%8D%92%E6%AE%8B%E7%96%BE%E7%94%B7%E5%AD%90%23&t=31&band_rank=7&Refer=top)<br />
 8. [孟子义锐评任敏汤晶媚乐队事件](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E9%94%90%E8%AF%84%E4%BB%BB%E6%95%8F%E6%B1%A4%E6%99%B6%E5%AA%9A%E4%B9%90%E9%98%9F%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=8&Refer=top)<br />
-9. [小S大女儿获韩国舞蹈大赛第一名](https://s.weibo.com/weibo?q=%23%E5%B0%8FS%E5%A4%A7%E5%A5%B3%E5%84%BF%E8%8E%B7%E9%9F%A9%E5%9B%BD%E8%88%9E%E8%B9%88%E5%A4%A7%E8%B5%9B%E7%AC%AC%E4%B8%80%E5%90%8D%23&t=31&band_rank=9&Refer=top)<br />
+9. [蔡徐坤说叫我坤就可以了](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E8%AF%B4%E5%8F%AB%E6%88%91%E5%9D%A4%E5%B0%B1%E5%8F%AF%E4%BB%A5%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
