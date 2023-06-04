@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 13:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 13:29:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [4 个月卖出 1751.5 亿元，彩票正在以更多元的方式吸引着年轻人，年轻人为什么热衷买彩票？](https://www.zhihu.com/question/604618222)<br />
 5. [神舟十五号载人飞船返回舱成功着陆，航天员费俊龙邓清明张陆顺利出舱健康状态良好，如何评价这次任务的意义？](https://www.zhihu.com/question/604011587)<br />
 6. [黄仁勋为什么只有 3.5% 的英伟达股份？](https://www.zhihu.com/question/603714039)<br />
-7. [你请客吃饭，结账时发现有人私下拿好烟好酒记在账上，怎么应对？](https://www.zhihu.com/question/465991724)<br />
-8. [哪个瞬间你觉得宠物好像真的听懂你说话了？](https://www.zhihu.com/question/603807166)<br />
-9. [35 岁了还一事无成，怎么办呢？](https://www.zhihu.com/question/593756955)<br />
+7. [22-23 赛季法甲巴黎圣日耳曼 2:3 克莱蒙，梅西拉莫斯告别姆巴佩点射夺金靴，如何评价这场比赛？](https://www.zhihu.com/question/604675441)<br />
+8. [你请客吃饭，结账时发现有人私下拿好烟好酒记在账上，怎么应对？](https://www.zhihu.com/question/465991724)<br />
+9. [哪个瞬间你觉得宠物好像真的听懂你说话了？](https://www.zhihu.com/question/603807166)<br />
 
 > 百度  
 
@@ -34,7 +34,7 @@
 6. [女子考科三系错安全带考官面如死灰](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%80%83%E7%A7%91%E4%B8%89%E7%B3%BB%E9%94%99%E5%AE%89%E5%85%A8%E5%B8%A6%E8%80%83%E5%AE%98%E9%9D%A2%E5%A6%82%E6%AD%BB%E7%81%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [姑姑拍到侄女做梦吃雪糕](https://www.baidu.com/s?wd=%E5%A7%91%E5%A7%91%E6%8B%8D%E5%88%B0%E4%BE%84%E5%A5%B3%E5%81%9A%E6%A2%A6%E5%90%83%E9%9B%AA%E7%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [费俊龙连说3个很好](https://www.baidu.com/s?wd=%E8%B4%B9%E4%BF%8A%E9%BE%99%E8%BF%9E%E8%AF%B43%E4%B8%AA%E5%BE%88%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [张陆刚回地球就在想下次去太空了](https://www.baidu.com/s?wd=%E5%BC%A0%E9%99%86%E5%88%9A%E5%9B%9E%E5%9C%B0%E7%90%83%E5%B0%B1%E5%9C%A8%E6%83%B3%E4%B8%8B%E6%AC%A1%E5%8E%BB%E5%A4%AA%E7%A9%BA%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [薛之谦把伴舞的鞋子扔了](https://www.baidu.com/s?wd=%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%8A%8A%E4%BC%B4%E8%88%9E%E7%9A%84%E9%9E%8B%E5%AD%90%E6%89%94%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [女子考科三系错安全带考官面如死灰](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%80%83%E7%A7%91%E4%B8%89%E7%B3%BB%E9%94%99%E5%AE%89%E5%85%A8%E5%B8%A6%E8%80%83%E5%AE%98%E9%9D%A2%E5%A6%82%E6%AD%BB%E7%81%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [姑姑拍到侄女做梦吃雪糕](https://www.baidu.com/s?wd=%E5%A7%91%E5%A7%91%E6%8B%8D%E5%88%B0%E4%BE%84%E5%A5%B3%E5%81%9A%E6%A2%A6%E5%90%83%E9%9B%AA%E7%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [费俊龙连说3个很好](https://www.baidu.com/s?wd=%E8%B4%B9%E4%BF%8A%E9%BE%99%E8%BF%9E%E8%AF%B43%E4%B8%AA%E5%BE%88%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [张陆刚回地球就在想下次去太空了](https://www.baidu.com/s?wd=%E5%BC%A0%E9%99%86%E5%88%9A%E5%9B%9E%E5%9C%B0%E7%90%83%E5%B0%B1%E5%9C%A8%E6%83%B3%E4%B8%8B%E6%AC%A1%E5%8E%BB%E5%A4%AA%E7%A9%BA%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [薛之谦把伴舞的鞋子扔了](https://www.baidu.com/s?wd=%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%8A%8A%E4%BC%B4%E8%88%9E%E7%9A%84%E9%9E%8B%E5%AD%90%E6%89%94%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
