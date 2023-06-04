@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 21:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 21:01:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [宋茜做错了什么](https://s.weibo.com/weibo?q=%E5%AE%8B%E8%8C%9C%E5%81%9A%E9%94%99%E4%BA%86%E4%BB%80%E4%B9%88&t=31&band_rank=4&Refer=top)<br />
 5. [男子为考清华复读14年](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%BA%E8%80%83%E6%B8%85%E5%8D%8E%E5%A4%8D%E8%AF%BB14%E5%B9%B4%23&t=31&band_rank=5&Refer=top)<br />
 6. [国内出现偏肺病毒感染](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%86%85%E5%87%BA%E7%8E%B0%E5%81%8F%E8%82%BA%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93%23&t=31&band_rank=6&Refer=top)<br />
-7. [清清恋爱](https://s.weibo.com/weibo?q=%E6%B8%85%E6%B8%85%E6%81%8B%E7%88%B1&t=31&band_rank=7&Refer=top)<br />
-8. [沈月cos陈小希](https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%9C%88cos%E9%99%88%E5%B0%8F%E5%B8%8C%23&t=31&band_rank=8&Refer=top)<br />
-9. [刘亦菲林志颖20年前合照](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E6%9E%97%E5%BF%97%E9%A2%9620%E5%B9%B4%E5%89%8D%E5%90%88%E7%85%A7%23&t=31&band_rank=9&Refer=top)<br />
+7. [沈月cos陈小希](https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%9C%88cos%E9%99%88%E5%B0%8F%E5%B8%8C%23&t=31&band_rank=7&Refer=top)<br />
+8. [清清恋爱](https://s.weibo.com/weibo?q=%E6%B8%85%E6%B8%85%E6%81%8B%E7%88%B1&t=31&band_rank=8&Refer=top)<br />
+9. [高考卖花](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%8D%96%E8%8A%B1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -20,9 +20,9 @@
 4. [今年有多少护士辞职?](https://www.zhihu.com/question/597224517)<br />
 5. [你是如何理解「TCP 是面向字节流的协议」的？](https://www.zhihu.com/question/602003556)<br />
 6. [电影《蜘蛛侠：纵横宇宙》有哪些亮点？](https://www.zhihu.com/question/504215688)<br />
-7. [本田合资零部件厂商安斯泰莫承认造假，造假数量超 2 亿件，最长可追溯至 40 年前，此事暴露哪些问题？](https://www.zhihu.com/question/602979872)<br />
-8. [如何评价《塞尔达传说：王国之泪》？](https://www.zhihu.com/question/593908300)<br />
-9. [如何看待答主楚云卿的原创诗句被自媒体「选入」《诗经》？](https://www.zhihu.com/question/604719253)<br />
+7. [新房装修，需不需要安装前置过滤器和净水器？](https://www.zhihu.com/question/450419506)<br />
+8. [本田合资零部件厂商安斯泰莫承认造假，造假数量超 2 亿件，最长可追溯至 40 年前，此事暴露哪些问题？](https://www.zhihu.com/question/602979872)<br />
+9. [如何评价《塞尔达传说：王国之泪》？](https://www.zhihu.com/question/593908300)<br />
 
 > 百度  
 
