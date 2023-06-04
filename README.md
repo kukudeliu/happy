@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 15:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 15:06:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [我的脸被隐翅虫毁容了](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E8%84%B8%E8%A2%AB%E9%9A%90%E7%BF%85%E8%99%AB%E6%AF%81%E5%AE%B9%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [任敏 鸟鸟](https://s.weibo.com/weibo?q=%E4%BB%BB%E6%95%8F%20%E9%B8%9F%E9%B8%9F&t=31&band_rank=5&Refer=top)<br />
 6. [孟子义锐评任敏汤晶媚乐队事件](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E9%94%90%E8%AF%84%E4%BB%BB%E6%95%8F%E6%B1%A4%E6%99%B6%E5%AA%9A%E4%B9%90%E9%98%9F%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=6&Refer=top)<br />
-7. [蔡徐坤说叫我坤就可以了](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E8%AF%B4%E5%8F%AB%E6%88%91%E5%9D%A4%E5%B0%B1%E5%8F%AF%E4%BB%A5%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [卡卡 北京](https://s.weibo.com/weibo?q=%E5%8D%A1%E5%8D%A1%20%E5%8C%97%E4%BA%AC&t=31&band_rank=8&Refer=top)<br />
+7. [卡卡 北京](https://s.weibo.com/weibo?q=%E5%8D%A1%E5%8D%A1%20%E5%8C%97%E4%BA%AC&t=31&band_rank=7&Refer=top)<br />
+8. [蔡徐坤说叫我坤就可以了](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E8%AF%B4%E5%8F%AB%E6%88%91%E5%9D%A4%E5%B0%B1%E5%8F%AF%E4%BB%A5%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [重庆震感](https://s.weibo.com/weibo?q=%E9%87%8D%E5%BA%86%E9%9C%87%E6%84%9F&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
