@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 06:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 06:29:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [为什么篮球比赛进入小球时代?](https://www.zhihu.com/question/603469936)<br />
 5. []()<br />
 6. []()<br />
-7. [据不完全统计，《崩坏：星穹铁道》五月流水约为《原神》同月的 2.7 倍，如何评价？](https://www.zhihu.com/question/604195870)<br />
+7. [炖肉的时候，有时肉越炖越烂，有的时候却越炖越硬，这是为什么呢？背后有什么科学道理呢？](https://www.zhihu.com/question/507310446)<br />
 8. []()<br />
-9. [炖肉的时候，有时肉越炖越烂，有的时候却越炖越硬，这是为什么呢？背后有什么科学道理呢？](https://www.zhihu.com/question/507310446)<br />
+9. [据不完全统计，《崩坏：星穹铁道》五月流水约为《原神》同月的 2.7 倍，如何评价？](https://www.zhihu.com/question/604195870)<br />
 
 > 百度  
 
@@ -34,7 +34,7 @@
 6. [多国出现偏肺病毒感染 尚无治疗药物](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E5%87%BA%E7%8E%B0%E5%81%8F%E8%82%BA%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93+%E5%B0%9A%E6%97%A0%E6%B2%BB%E7%96%97%E8%8D%AF%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [孩子严重烫伤9天才被家长送医](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E4%B8%A5%E9%87%8D%E7%83%AB%E4%BC%A49%E5%A4%A9%E6%89%8D%E8%A2%AB%E5%AE%B6%E9%95%BF%E9%80%81%E5%8C%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [马斯克来华首日晚宴费用疑曝光](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%9D%A5%E5%8D%8E%E9%A6%96%E6%97%A5%E6%99%9A%E5%AE%B4%E8%B4%B9%E7%94%A8%E7%96%91%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子考科三系错安全带考官面如死灰](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%80%83%E7%A7%91%E4%B8%89%E7%B3%BB%E9%94%99%E5%AE%89%E5%85%A8%E5%B8%A6%E8%80%83%E5%AE%98%E9%9D%A2%E5%A6%82%E6%AD%BB%E7%81%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子掉入鱼塘前紧急扔出手机](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8E%89%E5%85%A5%E9%B1%BC%E5%A1%98%E5%89%8D%E7%B4%A7%E6%80%A5%E6%89%94%E5%87%BA%E6%89%8B%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [多国出现偏肺病毒感染 尚无治疗药物](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E5%87%BA%E7%8E%B0%E5%81%8F%E8%82%BA%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93+%E5%B0%9A%E6%97%A0%E6%B2%BB%E7%96%97%E8%8D%AF%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [孩子严重烫伤9天才被家长送医](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E4%B8%A5%E9%87%8D%E7%83%AB%E4%BC%A49%E5%A4%A9%E6%89%8D%E8%A2%AB%E5%AE%B6%E9%95%BF%E9%80%81%E5%8C%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [马斯克来华首日晚宴费用疑曝光](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%9D%A5%E5%8D%8E%E9%A6%96%E6%97%A5%E6%99%9A%E5%AE%B4%E8%B4%B9%E7%94%A8%E7%96%91%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子考科三系错安全带考官面如死灰](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%80%83%E7%A7%91%E4%B8%89%E7%B3%BB%E9%94%99%E5%AE%89%E5%85%A8%E5%B8%A6%E8%80%83%E5%AE%98%E9%9D%A2%E5%A6%82%E6%AD%BB%E7%81%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子掉入鱼塘前紧急扔出手机](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8E%89%E5%85%A5%E9%B1%BC%E5%A1%98%E5%89%8D%E7%B4%A7%E6%80%A5%E6%89%94%E5%87%BA%E6%89%8B%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
