@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 08:40:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-04 08:41:01</h4></div>
 
 > 微博  
 
 1. [女孩父母回应网传黄渤放弃资助](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E7%88%B6%E6%AF%8D%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E9%BB%84%E6%B8%A4%E6%94%BE%E5%BC%83%E8%B5%84%E5%8A%A9%23&t=31&band_rank=1&Refer=top)<br />
-2. [萌娃检查身体时突然向医生wink](https://s.weibo.com/weibo?q=%23%E8%90%8C%E5%A8%83%E6%A3%80%E6%9F%A5%E8%BA%AB%E4%BD%93%E6%97%B6%E7%AA%81%E7%84%B6%E5%90%91%E5%8C%BB%E7%94%9Fwink%23&t=31&band_rank=2&Refer=top)<br />
+2. [梅西自宣离队](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%87%AA%E5%AE%A3%E7%A6%BB%E9%98%9F%23&t=31&band_rank=2&Refer=top)<br />
 3. [神十五航天员回地球](https://s.weibo.com/weibo?q=%23%E7%A5%9E%E5%8D%81%E4%BA%94%E8%88%AA%E5%A4%A9%E5%91%98%E5%9B%9E%E5%9C%B0%E7%90%83%23&t=31&band_rank=3&Refer=top)<br />
 4. [原配抓小三路人帮腔大骂男方不要脸](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E9%85%8D%E6%8A%93%E5%B0%8F%E4%B8%89%E8%B7%AF%E4%BA%BA%E5%B8%AE%E8%85%94%E5%A4%A7%E9%AA%82%E7%94%B7%E6%96%B9%E4%B8%8D%E8%A6%81%E8%84%B8%23&t=31&band_rank=4&Refer=top)<br />
-5. [梅西自宣离队](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%87%AA%E5%AE%A3%E7%A6%BB%E9%98%9F%23&t=31&band_rank=5&Refer=top)<br />
+5. [萌娃检查身体时突然向医生wink](https://s.weibo.com/weibo?q=%23%E8%90%8C%E5%A8%83%E6%A3%80%E6%9F%A5%E8%BA%AB%E4%BD%93%E6%97%B6%E7%AA%81%E7%84%B6%E5%90%91%E5%8C%BB%E7%94%9Fwink%23&t=31&band_rank=5&Refer=top)<br />
 6. [女孩家长称黄渤赠送手表未送给弟弟](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%AE%B6%E9%95%BF%E7%A7%B0%E9%BB%84%E6%B8%A4%E8%B5%A0%E9%80%81%E6%89%8B%E8%A1%A8%E6%9C%AA%E9%80%81%E7%BB%99%E5%BC%9F%E5%BC%9F%23&t=31&band_rank=6&Refer=top)<br />
 7. [一人说一个奇怪的生理反应](https://s.weibo.com/weibo?q=%E4%B8%80%E4%BA%BA%E8%AF%B4%E4%B8%80%E4%B8%AA%E5%A5%87%E6%80%AA%E7%9A%84%E7%94%9F%E7%90%86%E5%8F%8D%E5%BA%94&t=31&band_rank=7&Refer=top)<br />
 8. [黄渤回应贫困女孩争议](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%B8%A4%E5%9B%9E%E5%BA%94%E8%B4%AB%E5%9B%B0%E5%A5%B3%E5%AD%A9%E4%BA%89%E8%AE%AE%23&t=31&band_rank=8&Refer=top)<br />
@@ -17,11 +17,11 @@
 1. [主动与中国防长握手后，美防长奥斯汀称「保持沟通渠道至关重要」，哪些信息值得关注？](https://www.zhihu.com/question/604590355)<br />
 2. [波音 CEO 称 C919 是一架好飞机，但想满足需求还有很久，不该对全球有三家供应商生畏，如何解读？](https://www.zhihu.com/question/604411935)<br />
 3. [2023 高考临近，作为考生或家长的你现在状态如何？是否会感到紧张焦虑？有哪些调节经验分享？](https://www.zhihu.com/question/604554083)<br />
-4. [马斯克之后，英伟达、摩根大通、星巴克、路威酩轩等公司 CEO 等外企高管再掀「来华潮」，释放哪些信号？](https://www.zhihu.com/question/604506301)<br />
-5. [如何看待国内服装尺码越来越小的现象？](https://www.zhihu.com/question/499028779)<br />
-6. [真人版《小美人鱼》口碑与票房双失利，仅仅是因为电影的选角吗？根本原因是什么？](https://www.zhihu.com/question/603607588)<br />
+4. [每天花两个小时背单词，值得吗？](https://www.zhihu.com/question/445968666)<br />
+5. [马斯克之后，英伟达、摩根大通、星巴克、路威酩轩等公司 CEO 等外企高管再掀「来华潮」，释放哪些信号？](https://www.zhihu.com/question/604506301)<br />
+6. [如何看待国内服装尺码越来越小的现象？](https://www.zhihu.com/question/499028779)<br />
 7. [是大部分动物都喜欢被摸头吗？](https://www.zhihu.com/question/442523187)<br />
-8. [李斌回应蔚来巨亏，称「主要赔在研发上，研发的赔钱我觉得是投资」，具体情况如何？蔚来发展前景如何？](https://www.zhihu.com/question/602722590)<br />
+8. [真人版《小美人鱼》口碑与票房双失利，仅仅是因为电影的选角吗？根本原因是什么？](https://www.zhihu.com/question/603607588)<br />
 9. [《西游记》中的世界地图是什么样的？](https://www.zhihu.com/question/37555090)<br />
 
 > 百度  
