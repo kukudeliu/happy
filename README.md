@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 21:17:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 21:18:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [娜扎七年前生图](https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8E%E4%B8%83%E5%B9%B4%E5%89%8D%E7%94%9F%E5%9B%BE%23&t=31&band_rank=5&Refer=top)<br />
 6. [别信了梅西不会来敬酒](https://s.weibo.com/weibo?q=%23%E5%88%AB%E4%BF%A1%E4%BA%86%E6%A2%85%E8%A5%BF%E4%B8%8D%E4%BC%9A%E6%9D%A5%E6%95%AC%E9%85%92%23&t=31&band_rank=6&Refer=top)<br />
 7. [南昌市监局已介入高校食堂老鼠事件](https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%98%8C%E5%B8%82%E7%9B%91%E5%B1%80%E5%B7%B2%E4%BB%8B%E5%85%A5%E9%AB%98%E6%A0%A1%E9%A3%9F%E5%A0%82%E8%80%81%E9%BC%A0%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=7&Refer=top)<br />
-8. [某某影视化](https://s.weibo.com/weibo?q=%E6%9F%90%E6%9F%90%E5%BD%B1%E8%A7%86%E5%8C%96&t=31&band_rank=8&Refer=top)<br />
-9. [男子嘴贴保鲜膜忍不住亲亲宝宝](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%98%B4%E8%B4%B4%E4%BF%9D%E9%B2%9C%E8%86%9C%E5%BF%8D%E4%B8%8D%E4%BD%8F%E4%BA%B2%E4%BA%B2%E5%AE%9D%E5%AE%9D%23&t=31&band_rank=9&Refer=top)<br />
+8. [男子嘴贴保鲜膜忍不住亲亲宝宝](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%98%B4%E8%B4%B4%E4%BF%9D%E9%B2%9C%E8%86%9C%E5%BF%8D%E4%B8%8D%E4%BD%8F%E4%BA%B2%E4%BA%B2%E5%AE%9D%E5%AE%9D%23&t=31&band_rank=8&Refer=top)<br />
+9. [某某影视化](https://s.weibo.com/weibo?q=%E6%9F%90%E6%9F%90%E5%BD%B1%E8%A7%86%E5%8C%96&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
