@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 11:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 11:09:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [毛坦厂中学万人雨中送考](https://www.baidu.com/s?wd=%E6%AF%9B%E5%9D%A6%E5%8E%82%E4%B8%AD%E5%AD%A6%E4%B8%87%E4%BA%BA%E9%9B%A8%E4%B8%AD%E9%80%81%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [涉事学校曾因老鼠事件被联合执法](https://www.baidu.com/s?wd=%E6%B6%89%E4%BA%8B%E5%AD%A6%E6%A0%A1%E6%9B%BE%E5%9B%A0%E8%80%81%E9%BC%A0%E4%BA%8B%E4%BB%B6%E8%A2%AB%E8%81%94%E5%90%88%E6%89%A7%E6%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [老父亲半夜去田里收麦忙到天亮](https://www.baidu.com/s?wd=%E8%80%81%E7%88%B6%E4%BA%B2%E5%8D%8A%E5%A4%9C%E5%8E%BB%E7%94%B0%E9%87%8C%E6%94%B6%E9%BA%A6%E5%BF%99%E5%88%B0%E5%A4%A9%E4%BA%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [米线门店回应员工脚踩鸡肉解冻](https://www.baidu.com/s?wd=%E7%B1%B3%E7%BA%BF%E9%97%A8%E5%BA%97%E5%9B%9E%E5%BA%94%E5%91%98%E5%B7%A5%E8%84%9A%E8%B8%A9%E9%B8%A1%E8%82%89%E8%A7%A3%E5%86%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [为啥高考试卷是中国邮政送？](https://www.baidu.com/s?wd=%E4%B8%BA%E5%95%A5%E9%AB%98%E8%80%83%E8%AF%95%E5%8D%B7%E6%98%AF%E4%B8%AD%E5%9B%BD%E9%82%AE%E6%94%BF%E9%80%81%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [毛坦厂中学万人雨中送考](https://www.baidu.com/s?wd=%E6%AF%9B%E5%9D%A6%E5%8E%82%E4%B8%AD%E5%AD%A6%E4%B8%87%E4%BA%BA%E9%9B%A8%E4%B8%AD%E9%80%81%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [涉事学校曾因老鼠事件被联合执法](https://www.baidu.com/s?wd=%E6%B6%89%E4%BA%8B%E5%AD%A6%E6%A0%A1%E6%9B%BE%E5%9B%A0%E8%80%81%E9%BC%A0%E4%BA%8B%E4%BB%B6%E8%A2%AB%E8%81%94%E5%90%88%E6%89%A7%E6%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [老父亲半夜去田里收麦忙到天亮](https://www.baidu.com/s?wd=%E8%80%81%E7%88%B6%E4%BA%B2%E5%8D%8A%E5%A4%9C%E5%8E%BB%E7%94%B0%E9%87%8C%E6%94%B6%E9%BA%A6%E5%BF%99%E5%88%B0%E5%A4%A9%E4%BA%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [米线门店回应员工脚踩鸡肉解冻](https://www.baidu.com/s?wd=%E7%B1%B3%E7%BA%BF%E9%97%A8%E5%BA%97%E5%9B%9E%E5%BA%94%E5%91%98%E5%B7%A5%E8%84%9A%E8%B8%A9%E9%B8%A1%E8%82%89%E8%A7%A3%E5%86%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [为啥高考试卷是中国邮政送？](https://www.baidu.com/s?wd=%E4%B8%BA%E5%95%A5%E9%AB%98%E8%80%83%E8%AF%95%E5%8D%B7%E6%98%AF%E4%B8%AD%E5%9B%BD%E9%82%AE%E6%94%BF%E9%80%81%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
