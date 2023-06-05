@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 17:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 17:03:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [魏晨差点错过孩子出生第一刻](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E6%99%A8%E5%B7%AE%E7%82%B9%E9%94%99%E8%BF%87%E5%AD%A9%E5%AD%90%E5%87%BA%E7%94%9F%E7%AC%AC%E4%B8%80%E5%88%BB%23&t=31&band_rank=5&Refer=top)<br />
 6. [张一山眼球怎么了](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%B8%80%E5%B1%B1%E7%9C%BC%E7%90%83%E6%80%8E%E4%B9%88%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [周震南父亲等被恢复执行1046万](https://s.weibo.com/weibo?q=%23%E5%91%A8%E9%9C%87%E5%8D%97%E7%88%B6%E4%BA%B2%E7%AD%89%E8%A2%AB%E6%81%A2%E5%A4%8D%E6%89%A7%E8%A1%8C1046%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
-8. [第一眼被任敏惊艳到了](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E7%9C%BC%E8%A2%AB%E4%BB%BB%E6%95%8F%E6%83%8A%E8%89%B3%E5%88%B0%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [肖战被强行拉cp](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%A2%AB%E5%BC%BA%E8%A1%8C%E6%8B%89cp%23&t=31&band_rank=9&Refer=top)<br />
+8. [网友路上偶遇高考试卷押运车](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E8%B7%AF%E4%B8%8A%E5%81%B6%E9%81%87%E9%AB%98%E8%80%83%E8%AF%95%E5%8D%B7%E6%8A%BC%E8%BF%90%E8%BD%A6%23&t=31&band_rank=8&Refer=top)<br />
+9. [第一眼被任敏惊艳到了](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E7%9C%BC%E8%A2%AB%E4%BB%BB%E6%95%8F%E6%83%8A%E8%89%B3%E5%88%B0%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
