@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 00:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 00:14:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [日本女子因华航空姐没讲日语暴怒辱骂](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%AD%90%E5%9B%A0%E5%8D%8E%E8%88%AA%E7%A9%BA%E5%A7%90%E6%B2%A1%E8%AE%B2%E6%97%A5%E8%AF%AD%E6%9A%B4%E6%80%92%E8%BE%B1%E9%AA%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [娜扎时隔七年重开评论区](https://www.baidu.com/s?wd=%E5%A8%9C%E6%89%8E%E6%97%B6%E9%9A%94%E4%B8%83%E5%B9%B4%E9%87%8D%E5%BC%80%E8%AF%84%E8%AE%BA%E5%8C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [婆婆与儿媳争执将农药倒进其水井](https://www.baidu.com/s?wd=%E5%A9%86%E5%A9%86%E4%B8%8E%E5%84%BF%E5%AA%B3%E4%BA%89%E6%89%A7%E5%B0%86%E5%86%9C%E8%8D%AF%E5%80%92%E8%BF%9B%E5%85%B6%E6%B0%B4%E4%BA%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [杭州千岛湖欢乐水世界回应游客溺亡](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%8D%83%E5%B2%9B%E6%B9%96%E6%AC%A2%E4%B9%90%E6%B0%B4%E4%B8%96%E7%95%8C%E5%9B%9E%E5%BA%94%E6%B8%B8%E5%AE%A2%E6%BA%BA%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [北航硕士毕业后当健身教练](https://www.baidu.com/s?wd=%E5%8C%97%E8%88%AA%E7%A1%95%E5%A3%AB%E6%AF%95%E4%B8%9A%E5%90%8E%E5%BD%93%E5%81%A5%E8%BA%AB%E6%95%99%E7%BB%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [日本女子因华航空姐没讲日语暴怒辱骂](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%AD%90%E5%9B%A0%E5%8D%8E%E8%88%AA%E7%A9%BA%E5%A7%90%E6%B2%A1%E8%AE%B2%E6%97%A5%E8%AF%AD%E6%9A%B4%E6%80%92%E8%BE%B1%E9%AA%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [娜扎时隔七年重开评论区](https://www.baidu.com/s?wd=%E5%A8%9C%E6%89%8E%E6%97%B6%E9%9A%94%E4%B8%83%E5%B9%B4%E9%87%8D%E5%BC%80%E8%AF%84%E8%AE%BA%E5%8C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [婆婆与儿媳争执将农药倒进其水井](https://www.baidu.com/s?wd=%E5%A9%86%E5%A9%86%E4%B8%8E%E5%84%BF%E5%AA%B3%E4%BA%89%E6%89%A7%E5%B0%86%E5%86%9C%E8%8D%AF%E5%80%92%E8%BF%9B%E5%85%B6%E6%B0%B4%E4%BA%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [杭州千岛湖欢乐水世界回应游客溺亡](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%8D%83%E5%B2%9B%E6%B9%96%E6%AC%A2%E4%B9%90%E6%B0%B4%E4%B8%96%E7%95%8C%E5%9B%9E%E5%BA%94%E6%B8%B8%E5%AE%A2%E6%BA%BA%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [北航硕士毕业后当健身教练](https://www.baidu.com/s?wd=%E5%8C%97%E8%88%AA%E7%A1%95%E5%A3%AB%E6%AF%95%E4%B8%9A%E5%90%8E%E5%BD%93%E5%81%A5%E8%BA%AB%E6%95%99%E7%BB%83&sa=fyb_news&rsv_dl=fyb_news)<br />
