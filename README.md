@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 15:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 15:15:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [多地对网约车按下“暂停键”](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%AF%B9%E7%BD%91%E7%BA%A6%E8%BD%A6%E6%8C%89%E4%B8%8B%E2%80%9C%E6%9A%82%E5%81%9C%E9%94%AE%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [6000元喜宴16道菜有7成是预制](https://www.baidu.com/s?wd=6000%E5%85%83%E5%96%9C%E5%AE%B416%E9%81%93%E8%8F%9C%E6%9C%897%E6%88%90%E6%98%AF%E9%A2%84%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [高考前最后一个晚自习还记得多少](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E5%89%8D%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E6%99%9A%E8%87%AA%E4%B9%A0%E8%BF%98%E8%AE%B0%E5%BE%97%E5%A4%9A%E5%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [于正新剧又是双女主](https://www.baidu.com/s?wd=%E4%BA%8E%E6%AD%A3%E6%96%B0%E5%89%A7%E5%8F%88%E6%98%AF%E5%8F%8C%E5%A5%B3%E4%B8%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [山东：高考期高校学生不得请假离校](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%EF%BC%9A%E9%AB%98%E8%80%83%E6%9C%9F%E9%AB%98%E6%A0%A1%E5%AD%A6%E7%94%9F%E4%B8%8D%E5%BE%97%E8%AF%B7%E5%81%87%E7%A6%BB%E6%A0%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [多地对网约车按下“暂停键”](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%AF%B9%E7%BD%91%E7%BA%A6%E8%BD%A6%E6%8C%89%E4%B8%8B%E2%80%9C%E6%9A%82%E5%81%9C%E9%94%AE%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [6000元喜宴16道菜有7成是预制](https://www.baidu.com/s?wd=6000%E5%85%83%E5%96%9C%E5%AE%B416%E9%81%93%E8%8F%9C%E6%9C%897%E6%88%90%E6%98%AF%E9%A2%84%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [高考前最后一个晚自习还记得多少](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E5%89%8D%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E6%99%9A%E8%87%AA%E4%B9%A0%E8%BF%98%E8%AE%B0%E5%BE%97%E5%A4%9A%E5%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [于正新剧又是双女主](https://www.baidu.com/s?wd=%E4%BA%8E%E6%AD%A3%E6%96%B0%E5%89%A7%E5%8F%88%E6%98%AF%E5%8F%8C%E5%A5%B3%E4%B8%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [山东：高考期高校学生不得请假离校](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%EF%BC%9A%E9%AB%98%E8%80%83%E6%9C%9F%E9%AB%98%E6%A0%A1%E5%AD%A6%E7%94%9F%E4%B8%8D%E5%BE%97%E8%AF%B7%E5%81%87%E7%A6%BB%E6%A0%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
