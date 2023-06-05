@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 04:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 04:59:01</h4></div>
 
 > 微博  
 
@@ -17,12 +17,12 @@
 1. [如何看待珠峰攀登者为救遇险女子放弃登顶，被救女子只愿承担 4 成救援费？](https://www.zhihu.com/question/604842993)<br />
 2. [财政部表示，中央对地方转移支付预算正按规定抓紧下达，整体来看我国财政状况健康、安全，哪些信息值得关注？](https://www.zhihu.com/question/604877884)<br />
 3. []()<br />
-4. [如何看待哔哩哔哩上架的《成龙历险记》重新配音前 13 集，并删除了旧版的几十万弹幕？](https://www.zhihu.com/question/604251906)<br />
-5. [6 月 5 日在岸、离岸人民币对美元分别跌破 7.12 、 7.13，跌去前一交易日全部涨幅，后势将如何？](https://www.zhihu.com/question/604888554)<br />
+4. [6 月 5 日在岸、离岸人民币对美元分别跌破 7.12 、 7.13，跌去前一交易日全部涨幅，后势将如何？](https://www.zhihu.com/question/604888554)<br />
+5. [如何看待哔哩哔哩上架的《成龙历险记》重新配音前 13 集，并删除了旧版的几十万弹幕？](https://www.zhihu.com/question/604251906)<br />
 6. [中国什么地方最安全不会地震？](https://www.zhihu.com/question/24769341)<br />
 7. []()<br />
-8. [6 月 5 日是「世界环境日」，你理想中人与自然的关系是怎样的？为此我们可以做些什么？](https://www.zhihu.com/question/604432723)<br />
-9. []()<br />
+8. []()<br />
+9. [华为已申请 GPT 相关商标，此前曾表示「底层技术不比 ChatGPT 少」，哪些信息值得关注？](https://www.zhihu.com/question/604871143)<br />
 
 > 百度  
 
@@ -31,9 +31,9 @@
 3. [花30万可让梅西敬酒？北京警方回应](https://www.baidu.com/s?wd=%E8%8A%B130%E4%B8%87%E5%8F%AF%E8%AE%A9%E6%A2%85%E8%A5%BF%E6%95%AC%E9%85%92%EF%BC%9F%E5%8C%97%E4%BA%AC%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [环境保护的耀眼“实绩”](https://www.baidu.com/s?wd=%E7%8E%AF%E5%A2%83%E4%BF%9D%E6%8A%A4%E7%9A%84%E8%80%80%E7%9C%BC%E2%80%9C%E5%AE%9E%E7%BB%A9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [#苹果WWDC2023#](https://www.baidu.com/s?wd=%23%E8%8B%B9%E6%9E%9CWWDC2023%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [官方通报重庆一小区地面沉降下陷](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E9%87%8D%E5%BA%86%E4%B8%80%E5%B0%8F%E5%8C%BA%E5%9C%B0%E9%9D%A2%E6%B2%89%E9%99%8D%E4%B8%8B%E9%99%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [毛坦厂中学88辆大巴送考 万人助威](https://www.baidu.com/s?wd=%E6%AF%9B%E5%9D%A6%E5%8E%82%E4%B8%AD%E5%AD%A688%E8%BE%86%E5%A4%A7%E5%B7%B4%E9%80%81%E8%80%83+%E4%B8%87%E4%BA%BA%E5%8A%A9%E5%A8%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [弟弟开黄腔把哥哥婚事搅黄](https://www.baidu.com/s?wd=%E5%BC%9F%E5%BC%9F%E5%BC%80%E9%BB%84%E8%85%94%E6%8A%8A%E5%93%A5%E5%93%A5%E5%A9%9A%E4%BA%8B%E6%90%85%E9%BB%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [江歌妈妈回应捐出全部赔偿](https://www.baidu.com/s?wd=%E6%B1%9F%E6%AD%8C%E5%A6%88%E5%A6%88%E5%9B%9E%E5%BA%94%E6%8D%90%E5%87%BA%E5%85%A8%E9%83%A8%E8%B5%94%E5%81%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [弟弟开黄腔把哥哥婚事搅黄](https://www.baidu.com/s?wd=%E5%BC%9F%E5%BC%9F%E5%BC%80%E9%BB%84%E8%85%94%E6%8A%8A%E5%93%A5%E5%93%A5%E5%A9%9A%E4%BA%8B%E6%90%85%E9%BB%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [母亲病危家人让高考孩子见最后一面](https://www.baidu.com/s?wd=%E6%AF%8D%E4%BA%B2%E7%97%85%E5%8D%B1%E5%AE%B6%E4%BA%BA%E8%AE%A9%E9%AB%98%E8%80%83%E5%AD%A9%E5%AD%90%E8%A7%81%E6%9C%80%E5%90%8E%E4%B8%80%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [浙大学霸应聘机场驱鸟员](https://www.baidu.com/s?wd=%E6%B5%99%E5%A4%A7%E5%AD%A6%E9%9C%B8%E5%BA%94%E8%81%98%E6%9C%BA%E5%9C%BA%E9%A9%B1%E9%B8%9F%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -43,7 +43,7 @@
 3. [花30万可让梅西敬酒？北京警方回应](https://www.baidu.com/s?wd=%E8%8A%B130%E4%B8%87%E5%8F%AF%E8%AE%A9%E6%A2%85%E8%A5%BF%E6%95%AC%E9%85%92%EF%BC%9F%E5%8C%97%E4%BA%AC%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [环境保护的耀眼“实绩”](https://www.baidu.com/s?wd=%E7%8E%AF%E5%A2%83%E4%BF%9D%E6%8A%A4%E7%9A%84%E8%80%80%E7%9C%BC%E2%80%9C%E5%AE%9E%E7%BB%A9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [#苹果WWDC2023#](https://www.baidu.com/s?wd=%23%E8%8B%B9%E6%9E%9CWWDC2023%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [官方通报重庆一小区地面沉降下陷](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E9%87%8D%E5%BA%86%E4%B8%80%E5%B0%8F%E5%8C%BA%E5%9C%B0%E9%9D%A2%E6%B2%89%E9%99%8D%E4%B8%8B%E9%99%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [毛坦厂中学88辆大巴送考 万人助威](https://www.baidu.com/s?wd=%E6%AF%9B%E5%9D%A6%E5%8E%82%E4%B8%AD%E5%AD%A688%E8%BE%86%E5%A4%A7%E5%B7%B4%E9%80%81%E8%80%83+%E4%B8%87%E4%BA%BA%E5%8A%A9%E5%A8%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [弟弟开黄腔把哥哥婚事搅黄](https://www.baidu.com/s?wd=%E5%BC%9F%E5%BC%9F%E5%BC%80%E9%BB%84%E8%85%94%E6%8A%8A%E5%93%A5%E5%93%A5%E5%A9%9A%E4%BA%8B%E6%90%85%E9%BB%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [江歌妈妈回应捐出全部赔偿](https://www.baidu.com/s?wd=%E6%B1%9F%E6%AD%8C%E5%A6%88%E5%A6%88%E5%9B%9E%E5%BA%94%E6%8D%90%E5%87%BA%E5%85%A8%E9%83%A8%E8%B5%94%E5%81%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [弟弟开黄腔把哥哥婚事搅黄](https://www.baidu.com/s?wd=%E5%BC%9F%E5%BC%9F%E5%BC%80%E9%BB%84%E8%85%94%E6%8A%8A%E5%93%A5%E5%93%A5%E5%A9%9A%E4%BA%8B%E6%90%85%E9%BB%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [母亲病危家人让高考孩子见最后一面](https://www.baidu.com/s?wd=%E6%AF%8D%E4%BA%B2%E7%97%85%E5%8D%B1%E5%AE%B6%E4%BA%BA%E8%AE%A9%E9%AB%98%E8%80%83%E5%AD%A9%E5%AD%90%E8%A7%81%E6%9C%80%E5%90%8E%E4%B8%80%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [浙大学霸应聘机场驱鸟员](https://www.baidu.com/s?wd=%E6%B5%99%E5%A4%A7%E5%AD%A6%E9%9C%B8%E5%BA%94%E8%81%98%E6%9C%BA%E5%9C%BA%E9%A9%B1%E9%B8%9F%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
