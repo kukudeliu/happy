@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 19:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 19:50:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [一个村考出300多大学生6个北大](https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E6%9D%91%E8%80%83%E5%87%BA300%E5%A4%9A%E5%A4%A7%E5%AD%A6%E7%94%9F6%E4%B8%AA%E5%8C%97%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [网友发布“三亚被宰记” 官方通报](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%8F%91%E5%B8%83%E2%80%9C%E4%B8%89%E4%BA%9A%E8%A2%AB%E5%AE%B0%E8%AE%B0%E2%80%9D+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [杭州一居民家门口地面有80℃](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%B8%80%E5%B1%85%E6%B0%91%E5%AE%B6%E9%97%A8%E5%8F%A3%E5%9C%B0%E9%9D%A2%E6%9C%8980%E2%84%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [游客观潮险被卷逃跑时还在拍照](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E8%A7%82%E6%BD%AE%E9%99%A9%E8%A2%AB%E5%8D%B7%E9%80%83%E8%B7%91%E6%97%B6%E8%BF%98%E5%9C%A8%E6%8B%8D%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [救护车送人进张杰演唱会？官方回应](https://www.baidu.com/s?wd=%E6%95%91%E6%8A%A4%E8%BD%A6%E9%80%81%E4%BA%BA%E8%BF%9B%E5%BC%A0%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [一个村考出300多大学生6个北大](https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E6%9D%91%E8%80%83%E5%87%BA300%E5%A4%9A%E5%A4%A7%E5%AD%A6%E7%94%9F6%E4%B8%AA%E5%8C%97%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [网友发布“三亚被宰记” 官方通报](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%8F%91%E5%B8%83%E2%80%9C%E4%B8%89%E4%BA%9A%E8%A2%AB%E5%AE%B0%E8%AE%B0%E2%80%9D+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [杭州一居民家门口地面有80℃](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%B8%80%E5%B1%85%E6%B0%91%E5%AE%B6%E9%97%A8%E5%8F%A3%E5%9C%B0%E9%9D%A2%E6%9C%8980%E2%84%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [游客观潮险被卷逃跑时还在拍照](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E8%A7%82%E6%BD%AE%E9%99%A9%E8%A2%AB%E5%8D%B7%E9%80%83%E8%B7%91%E6%97%B6%E8%BF%98%E5%9C%A8%E6%8B%8D%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [救护车送人进张杰演唱会？官方回应](https://www.baidu.com/s?wd=%E6%95%91%E6%8A%A4%E8%BD%A6%E9%80%81%E4%BA%BA%E8%BF%9B%E5%BC%A0%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
