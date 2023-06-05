@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 10:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 10:43:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [日本女团成员灌男粉喝洗洁精](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%9B%A2%E6%88%90%E5%91%98%E7%81%8C%E7%94%B7%E7%B2%89%E5%96%9D%E6%B4%97%E6%B4%81%E7%B2%BE%23&t=31&band_rank=5&Refer=top)<br />
 6. [shanji](https://s.weibo.com/weibo?q=shanji&t=31&band_rank=6&Refer=top)<br />
 7. [章若楠观众缘](https://s.weibo.com/weibo?q=%23%E7%AB%A0%E8%8B%A5%E6%A5%A0%E8%A7%82%E4%BC%97%E7%BC%98%23&t=31&band_rank=7&Refer=top)<br />
-8. [涉事学校曾因老鼠事件被联合执法](https://s.weibo.com/weibo?q=%23%E6%B6%89%E4%BA%8B%E5%AD%A6%E6%A0%A1%E6%9B%BE%E5%9B%A0%E8%80%81%E9%BC%A0%E4%BA%8B%E4%BB%B6%E8%A2%AB%E8%81%94%E5%90%88%E6%89%A7%E6%B3%95%23&t=31&band_rank=8&Refer=top)<br />
-9. [做拔智齿手术要提前录个音](https://s.weibo.com/weibo?q=%23%E5%81%9A%E6%8B%94%E6%99%BA%E9%BD%BF%E6%89%8B%E6%9C%AF%E8%A6%81%E6%8F%90%E5%89%8D%E5%BD%95%E4%B8%AA%E9%9F%B3%23&t=31&band_rank=9&Refer=top)<br />
+8. [高铁站台为什么不能打伞](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E7%AB%99%E5%8F%B0%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E8%83%BD%E6%89%93%E4%BC%9E%23&t=31&band_rank=8&Refer=top)<br />
+9. [涉事学校曾因老鼠事件被联合执法](https://s.weibo.com/weibo?q=%23%E6%B6%89%E4%BA%8B%E5%AD%A6%E6%A0%A1%E6%9B%BE%E5%9B%A0%E8%80%81%E9%BC%A0%E4%BA%8B%E4%BB%B6%E8%A2%AB%E8%81%94%E5%90%88%E6%89%A7%E6%B3%95%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
