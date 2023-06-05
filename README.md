@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 16:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 17:00:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [张一山眼球怎么了](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%B8%80%E5%B1%B1%E7%9C%BC%E7%90%83%E6%80%8E%E4%B9%88%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [周震南父亲等被恢复执行1046万](https://s.weibo.com/weibo?q=%23%E5%91%A8%E9%9C%87%E5%8D%97%E7%88%B6%E4%BA%B2%E7%AD%89%E8%A2%AB%E6%81%A2%E5%A4%8D%E6%89%A7%E8%A1%8C1046%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [第一眼被任敏惊艳到了](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E7%9C%BC%E8%A2%AB%E4%BB%BB%E6%95%8F%E6%83%8A%E8%89%B3%E5%88%B0%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [孩子烫伤9天才送医院爸爸拒绝手术](https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E7%83%AB%E4%BC%A49%E5%A4%A9%E6%89%8D%E9%80%81%E5%8C%BB%E9%99%A2%E7%88%B8%E7%88%B8%E6%8B%92%E7%BB%9D%E6%89%8B%E6%9C%AF%23&t=31&band_rank=9&Refer=top)<br />
+9. [肖战被强行拉cp](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%A2%AB%E5%BC%BA%E8%A1%8C%E6%8B%89cp%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -34,7 +34,7 @@
 6. [弟弟开黄腔把哥哥婚事搅黄](https://www.baidu.com/s?wd=%E5%BC%9F%E5%BC%9F%E5%BC%80%E9%BB%84%E8%85%94%E6%8A%8A%E5%93%A5%E5%93%A5%E5%A9%9A%E4%BA%8B%E6%90%85%E9%BB%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [高三学生买蛋糕庆祝被纪律老师砸坏](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%89%E5%AD%A6%E7%94%9F%E4%B9%B0%E8%9B%8B%E7%B3%95%E5%BA%86%E7%A5%9D%E8%A2%AB%E7%BA%AA%E5%BE%8B%E8%80%81%E5%B8%88%E7%A0%B8%E5%9D%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [业主：为了卖房 我被中介“pua”了](https://www.baidu.com/s?wd=%E4%B8%9A%E4%B8%BB%EF%BC%9A%E4%B8%BA%E4%BA%86%E5%8D%96%E6%88%BF+%E6%88%91%E8%A2%AB%E4%B8%AD%E4%BB%8B%E2%80%9Cpua%E2%80%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [香港3名女童死亡 母亲疑是凶手](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF3%E5%90%8D%E5%A5%B3%E7%AB%A5%E6%AD%BB%E4%BA%A1+%E6%AF%8D%E4%BA%B2%E7%96%91%E6%98%AF%E5%87%B6%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [长沙夜市现爆炒鹅卵石](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E5%A4%9C%E5%B8%82%E7%8E%B0%E7%88%86%E7%82%92%E9%B9%85%E5%8D%B5%E7%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [弟弟开黄腔把哥哥婚事搅黄](https://www.baidu.com/s?wd=%E5%BC%9F%E5%BC%9F%E5%BC%80%E9%BB%84%E8%85%94%E6%8A%8A%E5%93%A5%E5%93%A5%E5%A9%9A%E4%BA%8B%E6%90%85%E9%BB%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [高三学生买蛋糕庆祝被纪律老师砸坏](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%89%E5%AD%A6%E7%94%9F%E4%B9%B0%E8%9B%8B%E7%B3%95%E5%BA%86%E7%A5%9D%E8%A2%AB%E7%BA%AA%E5%BE%8B%E8%80%81%E5%B8%88%E7%A0%B8%E5%9D%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [业主：为了卖房 我被中介“pua”了](https://www.baidu.com/s?wd=%E4%B8%9A%E4%B8%BB%EF%BC%9A%E4%B8%BA%E4%BA%86%E5%8D%96%E6%88%BF+%E6%88%91%E8%A2%AB%E4%B8%AD%E4%BB%8B%E2%80%9Cpua%E2%80%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [香港3名女童死亡 母亲疑是凶手](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF3%E5%90%8D%E5%A5%B3%E7%AB%A5%E6%AD%BB%E4%BA%A1+%E6%AF%8D%E4%BA%B2%E7%96%91%E6%98%AF%E5%87%B6%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [长沙夜市现爆炒鹅卵石](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E5%A4%9C%E5%B8%82%E7%8E%B0%E7%88%86%E7%82%92%E9%B9%85%E5%8D%B5%E7%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
