@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 05:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 05:25:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. []()<br />
 7. []()<br />
 8. [LPL 的中国选手为什么不用中文 ID？](https://www.zhihu.com/question/594864998)<br />
-9. []()<br />
+9. [新入手的苹果电脑有哪些适合安装的 App ?](https://www.zhihu.com/question/413488573)<br />
 
 > 百度  
 
