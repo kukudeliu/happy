@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 17:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 17:24:01</h4></div>
 
 > 微博  
 
@@ -32,9 +32,9 @@
 4. [环境保护的耀眼“实绩”](https://www.baidu.com/s?wd=%E7%8E%AF%E5%A2%83%E4%BF%9D%E6%8A%A4%E7%9A%84%E8%80%80%E7%9C%BC%E2%80%9C%E5%AE%9E%E7%BB%A9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子过生日蛋糕上名字10年被写错](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%BF%87%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95%E4%B8%8A%E5%90%8D%E5%AD%9710%E5%B9%B4%E8%A2%AB%E5%86%99%E9%94%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [弟弟开黄腔把哥哥婚事搅黄](https://www.baidu.com/s?wd=%E5%BC%9F%E5%BC%9F%E5%BC%80%E9%BB%84%E8%85%94%E6%8A%8A%E5%93%A5%E5%93%A5%E5%A9%9A%E4%BA%8B%E6%90%85%E9%BB%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [高三学生买蛋糕庆祝被纪律老师砸坏](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%89%E5%AD%A6%E7%94%9F%E4%B9%B0%E8%9B%8B%E7%B3%95%E5%BA%86%E7%A5%9D%E8%A2%AB%E7%BA%AA%E5%BE%8B%E8%80%81%E5%B8%88%E7%A0%B8%E5%9D%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [杭州一居民家门口地面有80℃](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%B8%80%E5%B1%85%E6%B0%91%E5%AE%B6%E9%97%A8%E5%8F%A3%E5%9C%B0%E9%9D%A2%E6%9C%8980%E2%84%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [湖南一村厕改后村民还要挑水冲厕所](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E4%B8%80%E6%9D%91%E5%8E%95%E6%94%B9%E5%90%8E%E6%9D%91%E6%B0%91%E8%BF%98%E8%A6%81%E6%8C%91%E6%B0%B4%E5%86%B2%E5%8E%95%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [湖南一村厕改后村民还要挑水冲厕所](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E4%B8%80%E6%9D%91%E5%8E%95%E6%94%B9%E5%90%8E%E6%9D%91%E6%B0%91%E8%BF%98%E8%A6%81%E6%8C%91%E6%B0%B4%E5%86%B2%E5%8E%95%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [高三学生买蛋糕庆祝被纪律老师砸坏](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%89%E5%AD%A6%E7%94%9F%E4%B9%B0%E8%9B%8B%E7%B3%95%E5%BA%86%E7%A5%9D%E8%A2%AB%E7%BA%AA%E5%BE%8B%E8%80%81%E5%B8%88%E7%A0%B8%E5%9D%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [美国高官为何“跑步”访华](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E9%AB%98%E5%AE%98%E4%B8%BA%E4%BD%95%E2%80%9C%E8%B7%91%E6%AD%A5%E2%80%9D%E8%AE%BF%E5%8D%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [环境保护的耀眼“实绩”](https://www.baidu.com/s?wd=%E7%8E%AF%E5%A2%83%E4%BF%9D%E6%8A%A4%E7%9A%84%E8%80%80%E7%9C%BC%E2%80%9C%E5%AE%9E%E7%BB%A9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子过生日蛋糕上名字10年被写错](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%BF%87%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95%E4%B8%8A%E5%90%8D%E5%AD%9710%E5%B9%B4%E8%A2%AB%E5%86%99%E9%94%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [弟弟开黄腔把哥哥婚事搅黄](https://www.baidu.com/s?wd=%E5%BC%9F%E5%BC%9F%E5%BC%80%E9%BB%84%E8%85%94%E6%8A%8A%E5%93%A5%E5%93%A5%E5%A9%9A%E4%BA%8B%E6%90%85%E9%BB%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [高三学生买蛋糕庆祝被纪律老师砸坏](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%89%E5%AD%A6%E7%94%9F%E4%B9%B0%E8%9B%8B%E7%B3%95%E5%BA%86%E7%A5%9D%E8%A2%AB%E7%BA%AA%E5%BE%8B%E8%80%81%E5%B8%88%E7%A0%B8%E5%9D%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [杭州一居民家门口地面有80℃](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%B8%80%E5%B1%85%E6%B0%91%E5%AE%B6%E9%97%A8%E5%8F%A3%E5%9C%B0%E9%9D%A2%E6%9C%8980%E2%84%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [湖南一村厕改后村民还要挑水冲厕所](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E4%B8%80%E6%9D%91%E5%8E%95%E6%94%B9%E5%90%8E%E6%9D%91%E6%B0%91%E8%BF%98%E8%A6%81%E6%8C%91%E6%B0%B4%E5%86%B2%E5%8E%95%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [湖南一村厕改后村民还要挑水冲厕所](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E4%B8%80%E6%9D%91%E5%8E%95%E6%94%B9%E5%90%8E%E6%9D%91%E6%B0%91%E8%BF%98%E8%A6%81%E6%8C%91%E6%B0%B4%E5%86%B2%E5%8E%95%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [高三学生买蛋糕庆祝被纪律老师砸坏](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%89%E5%AD%A6%E7%94%9F%E4%B9%B0%E8%9B%8B%E7%B3%95%E5%BA%86%E7%A5%9D%E8%A2%AB%E7%BA%AA%E5%BE%8B%E8%80%81%E5%B8%88%E7%A0%B8%E5%9D%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [美国高官为何“跑步”访华](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E9%AB%98%E5%AE%98%E4%B8%BA%E4%BD%95%E2%80%9C%E8%B7%91%E6%AD%A5%E2%80%9D%E8%AE%BF%E5%8D%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
