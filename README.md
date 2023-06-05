@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 19:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 19:04:01</h4></div>
 
 > 微博  
 
@@ -32,9 +32,9 @@
 4. [环境保护的耀眼“实绩”](https://www.baidu.com/s?wd=%E7%8E%AF%E5%A2%83%E4%BF%9D%E6%8A%A4%E7%9A%84%E8%80%80%E7%9C%BC%E2%80%9C%E5%AE%9E%E7%BB%A9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子过生日蛋糕上名字10年被写错](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%BF%87%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95%E4%B8%8A%E5%90%8D%E5%AD%9710%E5%B9%B4%E8%A2%AB%E5%86%99%E9%94%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [一个村考出300多大学生6个北大](https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E6%9D%91%E8%80%83%E5%87%BA300%E5%A4%9A%E5%A4%A7%E5%AD%A6%E7%94%9F6%E4%B8%AA%E5%8C%97%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [迪士尼一边涨价一边裁员](https://www.baidu.com/s?wd=%E8%BF%AA%E5%A3%AB%E5%B0%BC%E4%B8%80%E8%BE%B9%E6%B6%A8%E4%BB%B7%E4%B8%80%E8%BE%B9%E8%A3%81%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [因口角引发纠纷 男子厕所杀害女子](https://www.baidu.com/s?wd=%E5%9B%A0%E5%8F%A3%E8%A7%92%E5%BC%95%E5%8F%91%E7%BA%A0%E7%BA%B7+%E7%94%B7%E5%AD%90%E5%8E%95%E6%89%80%E6%9D%80%E5%AE%B3%E5%A5%B3%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [高三学生买蛋糕庆祝被纪律老师砸坏](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%89%E5%AD%A6%E7%94%9F%E4%B9%B0%E8%9B%8B%E7%B3%95%E5%BA%86%E7%A5%9D%E8%A2%AB%E7%BA%AA%E5%BE%8B%E8%80%81%E5%B8%88%E7%A0%B8%E5%9D%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [6000元喜宴16道菜有7成是预制](https://www.baidu.com/s?wd=6000%E5%85%83%E5%96%9C%E5%AE%B416%E9%81%93%E8%8F%9C%E6%9C%897%E6%88%90%E6%98%AF%E9%A2%84%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子开路虎插队洗车：我就猖狂了](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BC%80%E8%B7%AF%E8%99%8E%E6%8F%92%E9%98%9F%E6%B4%97%E8%BD%A6%EF%BC%9A%E6%88%91%E5%B0%B1%E7%8C%96%E7%8B%82%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [40斤蟒蛇爬进派出所110求助119](https://www.baidu.com/s?wd=40%E6%96%A4%E8%9F%92%E8%9B%87%E7%88%AC%E8%BF%9B%E6%B4%BE%E5%87%BA%E6%89%80110%E6%B1%82%E5%8A%A9119&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [环境保护的耀眼“实绩”](https://www.baidu.com/s?wd=%E7%8E%AF%E5%A2%83%E4%BF%9D%E6%8A%A4%E7%9A%84%E8%80%80%E7%9C%BC%E2%80%9C%E5%AE%9E%E7%BB%A9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子过生日蛋糕上名字10年被写错](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%BF%87%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95%E4%B8%8A%E5%90%8D%E5%AD%9710%E5%B9%B4%E8%A2%AB%E5%86%99%E9%94%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [一个村考出300多大学生6个北大](https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E6%9D%91%E8%80%83%E5%87%BA300%E5%A4%9A%E5%A4%A7%E5%AD%A6%E7%94%9F6%E4%B8%AA%E5%8C%97%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [迪士尼一边涨价一边裁员](https://www.baidu.com/s?wd=%E8%BF%AA%E5%A3%AB%E5%B0%BC%E4%B8%80%E8%BE%B9%E6%B6%A8%E4%BB%B7%E4%B8%80%E8%BE%B9%E8%A3%81%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [因口角引发纠纷 男子厕所杀害女子](https://www.baidu.com/s?wd=%E5%9B%A0%E5%8F%A3%E8%A7%92%E5%BC%95%E5%8F%91%E7%BA%A0%E7%BA%B7+%E7%94%B7%E5%AD%90%E5%8E%95%E6%89%80%E6%9D%80%E5%AE%B3%E5%A5%B3%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [高三学生买蛋糕庆祝被纪律老师砸坏](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%89%E5%AD%A6%E7%94%9F%E4%B9%B0%E8%9B%8B%E7%B3%95%E5%BA%86%E7%A5%9D%E8%A2%AB%E7%BA%AA%E5%BE%8B%E8%80%81%E5%B8%88%E7%A0%B8%E5%9D%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [6000元喜宴16道菜有7成是预制](https://www.baidu.com/s?wd=6000%E5%85%83%E5%96%9C%E5%AE%B416%E9%81%93%E8%8F%9C%E6%9C%897%E6%88%90%E6%98%AF%E9%A2%84%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子开路虎插队洗车：我就猖狂了](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BC%80%E8%B7%AF%E8%99%8E%E6%8F%92%E9%98%9F%E6%B4%97%E8%BD%A6%EF%BC%9A%E6%88%91%E5%B0%B1%E7%8C%96%E7%8B%82%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [40斤蟒蛇爬进派出所110求助119](https://www.baidu.com/s?wd=40%E6%96%A4%E8%9F%92%E8%9B%87%E7%88%AC%E8%BF%9B%E6%B4%BE%E5%87%BA%E6%89%80110%E6%B1%82%E5%8A%A9119&sa=fyb_news&rsv_dl=fyb_news)<br />
