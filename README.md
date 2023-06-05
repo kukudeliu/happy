@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 15:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 15:19:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [娜扎时隔七年重开评论区](https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8E%E6%97%B6%E9%9A%94%E4%B8%83%E5%B9%B4%E9%87%8D%E5%BC%80%E8%AF%84%E8%AE%BA%E5%8C%BA%23&t=31&band_rank=5&Refer=top)<br />
 6. [安茂元 三亚被宰记](https://s.weibo.com/weibo?q=%E5%AE%89%E8%8C%82%E5%85%83%20%E4%B8%89%E4%BA%9A%E8%A2%AB%E5%AE%B0%E8%AE%B0&t=31&band_rank=6&Refer=top)<br />
 7. [周震南父亲等被恢复执行1046万](https://s.weibo.com/weibo?q=%23%E5%91%A8%E9%9C%87%E5%8D%97%E7%88%B6%E4%BA%B2%E7%AD%89%E8%A2%AB%E6%81%A2%E5%A4%8D%E6%89%A7%E8%A1%8C1046%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
-8. [高三学生买蛋糕庆祝被纪律老师砸坏](https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%B8%89%E5%AD%A6%E7%94%9F%E4%B9%B0%E8%9B%8B%E7%B3%95%E5%BA%86%E7%A5%9D%E8%A2%AB%E7%BA%AA%E5%BE%8B%E8%80%81%E5%B8%88%E7%A0%B8%E5%9D%8F%23&t=31&band_rank=8&Refer=top)<br />
-9. [肖战被强行拉cp](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%A2%AB%E5%BC%BA%E8%A1%8C%E6%8B%89cp%23&t=31&band_rank=9&Refer=top)<br />
+8. [肖战被强行拉cp](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%A2%AB%E5%BC%BA%E8%A1%8C%E6%8B%89cp%23&t=31&band_rank=8&Refer=top)<br />
+9. [高三学生买蛋糕庆祝被纪律老师砸坏](https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%B8%89%E5%AD%A6%E7%94%9F%E4%B9%B0%E8%9B%8B%E7%B3%95%E5%BA%86%E7%A5%9D%E8%A2%AB%E7%BA%AA%E5%BE%8B%E8%80%81%E5%B8%88%E7%A0%B8%E5%9D%8F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -21,8 +21,8 @@
 5. [阿里巴巴全球数学竞赛参赛选手 95 后快递小哥，曾用两周证明欧拉常数公式，你身边有这样的数学隐藏高手吗？](https://www.zhihu.com/question/604783697)<br />
 6. [中年男人为什么还在玩十年前的游戏?](https://www.zhihu.com/question/602764416)<br />
 7. [为什么跑步后吃不下，游完泳却变「饿死鬼」？](https://www.zhihu.com/question/598002295)<br />
-8. [Character.AI 首周下载量碾压 ChatGPT，这一应用有哪些特点？将会带来哪些影响？](https://www.zhihu.com/question/604552431)<br />
-9. [《狂飙》中穷苦出身的程程，考上了名牌大学，在大公司身居要职，如此励志的人，为什么最后死得那么惨？](https://www.zhihu.com/question/604132619)<br />
+8. [《狂飙》中穷苦出身的程程，考上了名牌大学，在大公司身居要职，如此励志的人，为什么最后死得那么惨？](https://www.zhihu.com/question/604132619)<br />
+9. [Character.AI 首周下载量碾压 ChatGPT，这一应用有哪些特点？将会带来哪些影响？](https://www.zhihu.com/question/604552431)<br />
 
 > 百度  
 
@@ -31,10 +31,10 @@
 3. [印度耗资百亿卢比的大桥又塌了](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E8%80%97%E8%B5%84%E7%99%BE%E4%BA%BF%E5%8D%A2%E6%AF%94%E7%9A%84%E5%A4%A7%E6%A1%A5%E5%8F%88%E5%A1%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [神舟十五号载人飞行任务全记录](https://www.baidu.com/s?wd=%E7%A5%9E%E8%88%9F%E5%8D%81%E4%BA%94%E5%8F%B7%E8%BD%BD%E4%BA%BA%E9%A3%9E%E8%A1%8C%E4%BB%BB%E5%8A%A1%E5%85%A8%E8%AE%B0%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [毛坦厂中学88辆大巴送考 万人助威](https://www.baidu.com/s?wd=%E6%AF%9B%E5%9D%A6%E5%8E%82%E4%B8%AD%E5%AD%A688%E8%BE%86%E5%A4%A7%E5%B7%B4%E9%80%81%E8%80%83+%E4%B8%87%E4%BA%BA%E5%8A%A9%E5%A8%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [多地对网约车按下“暂停键”](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%AF%B9%E7%BD%91%E7%BA%A6%E8%BD%A6%E6%8C%89%E4%B8%8B%E2%80%9C%E6%9A%82%E5%81%9C%E9%94%AE%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [6000元喜宴16道菜有7成是预制](https://www.baidu.com/s?wd=6000%E5%85%83%E5%96%9C%E5%AE%B416%E9%81%93%E8%8F%9C%E6%9C%897%E6%88%90%E6%98%AF%E9%A2%84%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [6000元喜宴16道菜有7成是预制](https://www.baidu.com/s?wd=6000%E5%85%83%E5%96%9C%E5%AE%B416%E9%81%93%E8%8F%9C%E6%9C%897%E6%88%90%E6%98%AF%E9%A2%84%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [多地对网约车按下“暂停键”](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%AF%B9%E7%BD%91%E7%BA%A6%E8%BD%A6%E6%8C%89%E4%B8%8B%E2%80%9C%E6%9A%82%E5%81%9C%E9%94%AE%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [高考前最后一个晚自习还记得多少](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E5%89%8D%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E6%99%9A%E8%87%AA%E4%B9%A0%E8%BF%98%E8%AE%B0%E5%BE%97%E5%A4%9A%E5%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [山东：高考期高校学生不得请假离校](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%EF%BC%9A%E9%AB%98%E8%80%83%E6%9C%9F%E9%AB%98%E6%A0%A1%E5%AD%A6%E7%94%9F%E4%B8%8D%E5%BE%97%E8%AF%B7%E5%81%87%E7%A6%BB%E6%A0%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [遇到这种虫子别打 有人差点毁容](https://www.baidu.com/s?wd=%E9%81%87%E5%88%B0%E8%BF%99%E7%A7%8D%E8%99%AB%E5%AD%90%E5%88%AB%E6%89%93+%E6%9C%89%E4%BA%BA%E5%B7%AE%E7%82%B9%E6%AF%81%E5%AE%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [印度耗资百亿卢比的大桥又塌了](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E8%80%97%E8%B5%84%E7%99%BE%E4%BA%BF%E5%8D%A2%E6%AF%94%E7%9A%84%E5%A4%A7%E6%A1%A5%E5%8F%88%E5%A1%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [神舟十五号载人飞行任务全记录](https://www.baidu.com/s?wd=%E7%A5%9E%E8%88%9F%E5%8D%81%E4%BA%94%E5%8F%B7%E8%BD%BD%E4%BA%BA%E9%A3%9E%E8%A1%8C%E4%BB%BB%E5%8A%A1%E5%85%A8%E8%AE%B0%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [毛坦厂中学88辆大巴送考 万人助威](https://www.baidu.com/s?wd=%E6%AF%9B%E5%9D%A6%E5%8E%82%E4%B8%AD%E5%AD%A688%E8%BE%86%E5%A4%A7%E5%B7%B4%E9%80%81%E8%80%83+%E4%B8%87%E4%BA%BA%E5%8A%A9%E5%A8%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [多地对网约车按下“暂停键”](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%AF%B9%E7%BD%91%E7%BA%A6%E8%BD%A6%E6%8C%89%E4%B8%8B%E2%80%9C%E6%9A%82%E5%81%9C%E9%94%AE%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [6000元喜宴16道菜有7成是预制](https://www.baidu.com/s?wd=6000%E5%85%83%E5%96%9C%E5%AE%B416%E9%81%93%E8%8F%9C%E6%9C%897%E6%88%90%E6%98%AF%E9%A2%84%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [6000元喜宴16道菜有7成是预制](https://www.baidu.com/s?wd=6000%E5%85%83%E5%96%9C%E5%AE%B416%E9%81%93%E8%8F%9C%E6%9C%897%E6%88%90%E6%98%AF%E9%A2%84%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [多地对网约车按下“暂停键”](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%AF%B9%E7%BD%91%E7%BA%A6%E8%BD%A6%E6%8C%89%E4%B8%8B%E2%80%9C%E6%9A%82%E5%81%9C%E9%94%AE%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [高考前最后一个晚自习还记得多少](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E5%89%8D%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E6%99%9A%E8%87%AA%E4%B9%A0%E8%BF%98%E8%AE%B0%E5%BE%97%E5%A4%9A%E5%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [山东：高考期高校学生不得请假离校](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%EF%BC%9A%E9%AB%98%E8%80%83%E6%9C%9F%E9%AB%98%E6%A0%A1%E5%AD%A6%E7%94%9F%E4%B8%8D%E5%BE%97%E8%AF%B7%E5%81%87%E7%A6%BB%E6%A0%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [遇到这种虫子别打 有人差点毁容](https://www.baidu.com/s?wd=%E9%81%87%E5%88%B0%E8%BF%99%E7%A7%8D%E8%99%AB%E5%AD%90%E5%88%AB%E6%89%93+%E6%9C%89%E4%BA%BA%E5%B7%AE%E7%82%B9%E6%AF%81%E5%AE%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
