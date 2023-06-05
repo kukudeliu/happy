@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 12:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 12:55:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [黄旭熙 泡泡](https://s.weibo.com/weibo?q=%E9%BB%84%E6%97%AD%E7%86%99%20%E6%B3%A1%E6%B3%A1&t=31&band_rank=5&Refer=top)<br />
 6. [珠峰被救女子不愿支付全部救援费用](https://s.weibo.com/weibo?q=%23%E7%8F%A0%E5%B3%B0%E8%A2%AB%E6%95%91%E5%A5%B3%E5%AD%90%E4%B8%8D%E6%84%BF%E6%94%AF%E4%BB%98%E5%85%A8%E9%83%A8%E6%95%91%E6%8F%B4%E8%B4%B9%E7%94%A8%23&t=31&band_rank=6&Refer=top)<br />
 7. [高铁站台为什么不能打伞](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E7%AB%99%E5%8F%B0%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E8%83%BD%E6%89%93%E4%BC%9E%23&t=31&band_rank=7&Refer=top)<br />
-8. [奖励多少你会考虑多生孩子](https://s.weibo.com/weibo?q=%23%E5%A5%96%E5%8A%B1%E5%A4%9A%E5%B0%91%E4%BD%A0%E4%BC%9A%E8%80%83%E8%99%91%E5%A4%9A%E7%94%9F%E5%AD%A9%E5%AD%90%23&t=31&band_rank=8&Refer=top)<br />
-9. [杨紫工作室P图不P镜子](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%B7%A5%E4%BD%9C%E5%AE%A4P%E5%9B%BE%E4%B8%8DP%E9%95%9C%E5%AD%90%23&t=31&band_rank=9&Refer=top)<br />
+8. [杨紫工作室P图不P镜子](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%B7%A5%E4%BD%9C%E5%AE%A4P%E5%9B%BE%E4%B8%8DP%E9%95%9C%E5%AD%90%23&t=31&band_rank=8&Refer=top)<br />
+9. [奖励多少你会考虑多生孩子](https://s.weibo.com/weibo?q=%23%E5%A5%96%E5%8A%B1%E5%A4%9A%E5%B0%91%E4%BD%A0%E4%BC%9A%E8%80%83%E8%99%91%E5%A4%9A%E7%94%9F%E5%AD%A9%E5%AD%90%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -20,9 +20,9 @@
 4. [中国有哪些逆天的文物？](https://www.zhihu.com/question/22638720)<br />
 5. [大量安卓用户逃离换 iPhone，Android 13 保有量不足 15%，背后原因有哪些？](https://www.zhihu.com/question/604820761)<br />
 6. [你见过最冷静的人是怎么样的？](https://www.zhihu.com/question/315251005)<br />
-7. [隐藏式门把手会不会是汽车的一个安全隐患？](https://www.zhihu.com/question/604174782)<br />
-8. [报告称毕业生租房租金主要来自父母，有人 45% 收入用于交房租，如何看待此数据？毕业后一直租房可行吗？](https://www.zhihu.com/question/604420104)<br />
-9. [如何看待哔哩哔哩上架的《成龙历险记》重新配音前 13 集，并删除了旧版的几十万弹幕？](https://www.zhihu.com/question/604251906)<br />
+7. [如何看待哔哩哔哩上架的《成龙历险记》重新配音前 13 集，并删除了旧版的几十万弹幕？](https://www.zhihu.com/question/604251906)<br />
+8. [隐藏式门把手会不会是汽车的一个安全隐患？](https://www.zhihu.com/question/604174782)<br />
+9. [报告称毕业生租房租金主要来自父母，有人 45% 收入用于交房租，如何看待此数据？毕业后一直租房可行吗？](https://www.zhihu.com/question/604420104)<br />
 
 > 百度  
 
