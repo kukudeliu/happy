@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 11:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 11:42:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [杨紫工作室P图不P镜子](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%B7%A5%E4%BD%9C%E5%AE%A4P%E5%9B%BE%E4%B8%8DP%E9%95%9C%E5%AD%90%23&t=31&band_rank=5&Refer=top)<br />
 6. [于正新剧又是双女主](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E6%96%B0%E5%89%A7%E5%8F%88%E6%98%AF%E5%8F%8C%E5%A5%B3%E4%B8%BB%23&t=31&band_rank=6&Refer=top)<br />
 7. [高铁站台为什么不能打伞](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E7%AB%99%E5%8F%B0%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E8%83%BD%E6%89%93%E4%BC%9E%23&t=31&band_rank=7&Refer=top)<br />
-8. [无意识刷手机的危害有多大](https://s.weibo.com/weibo?q=%23%E6%97%A0%E6%84%8F%E8%AF%86%E5%88%B7%E6%89%8B%E6%9C%BA%E7%9A%84%E5%8D%B1%E5%AE%B3%E6%9C%89%E5%A4%9A%E5%A4%A7%23&t=31&band_rank=8&Refer=top)<br />
-9. [教育部发布2023高考预警](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E5%B8%832023%E9%AB%98%E8%80%83%E9%A2%84%E8%AD%A6%23&t=31&band_rank=9&Refer=top)<br />
+8. [教育部发布2023高考预警](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E5%B8%832023%E9%AB%98%E8%80%83%E9%A2%84%E8%AD%A6%23&t=31&band_rank=8&Refer=top)<br />
+9. [无意识刷手机的危害有多大](https://s.weibo.com/weibo?q=%23%E6%97%A0%E6%84%8F%E8%AF%86%E5%88%B7%E6%89%8B%E6%9C%BA%E7%9A%84%E5%8D%B1%E5%AE%B3%E6%9C%89%E5%A4%9A%E5%A4%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
