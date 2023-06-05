@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 22:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 22:11:01</h4></div>
 
 > 微博  
 
@@ -10,19 +10,19 @@
 6. [娜扎七年前生图](https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8E%E4%B8%83%E5%B9%B4%E5%89%8D%E7%94%9F%E5%9B%BE%23&t=31&band_rank=6&Refer=top)<br />
 7. [难怪白鹿许凯不帮于正新剧宣传](https://s.weibo.com/weibo?q=%23%E9%9A%BE%E6%80%AA%E7%99%BD%E9%B9%BF%E8%AE%B8%E5%87%AF%E4%B8%8D%E5%B8%AE%E4%BA%8E%E6%AD%A3%E6%96%B0%E5%89%A7%E5%AE%A3%E4%BC%A0%23&t=31&band_rank=7&Refer=top)<br />
 8. [男子嘴贴保鲜膜忍不住亲亲宝宝](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%98%B4%E8%B4%B4%E4%BF%9D%E9%B2%9C%E8%86%9C%E5%BF%8D%E4%B8%8D%E4%BD%8F%E4%BA%B2%E4%BA%B2%E5%AE%9D%E5%AE%9D%23&t=31&band_rank=8&Refer=top)<br />
-9. [初级会计](https://s.weibo.com/weibo?q=%E5%88%9D%E7%BA%A7%E4%BC%9A%E8%AE%A1&t=31&band_rank=9&Refer=top)<br />
+9. [某某影视化](https://s.weibo.com/weibo?q=%E6%9F%90%E6%9F%90%E5%BD%B1%E8%A7%86%E5%8C%96&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [我们这代人存不下钱的原因是什么？](https://www.zhihu.com/question/603826642)<br />
 2. [如何看待珠峰攀登者为救遇险女子放弃登顶，被救女子只愿承担 4 成救援费？](https://www.zhihu.com/question/604842993)<br />
 3. [如何看待哔哩哔哩上架的《成龙历险记》重新配音前 13 集，并删除了旧版的几十万弹幕？](https://www.zhihu.com/question/604251906)<br />
-4. [随着 AI 技术的发展，人工智能是否会成为热门专业？未来想从事这方面工作该报考哪些专业？](https://www.zhihu.com/theater/10768)<br />
-5. [财政部表示，中央对地方转移支付预算正按规定抓紧下达，整体来看我国财政状况健康、安全，哪些信息值得关注？](https://www.zhihu.com/question/604877884)<br />
-6. [高三学生买蛋糕庆祝被纪律老师砸坏，「很多学生被气哭」，老师的做法会给学生心理造成什么影响？](https://www.zhihu.com/question/604864874)<br />
-7. [6 月 5 日在岸、离岸人民币对美元分别跌破 7.12 、 7.13，跌去前一交易日全部涨幅，后势将如何？](https://www.zhihu.com/question/604888554)<br />
-8. [华为已申请 GPT 相关商标，此前曾表示「底层技术不比 ChatGPT 少」，哪些信息值得关注？](https://www.zhihu.com/question/604871143)<br />
-9. [苹果 WWDC 开发者大会定档北京时间 6 月 6 凌晨 1 点，有哪些值得关注的点？](https://www.zhihu.com/question/603949196)<br />
+4. [财政部表示，中央对地方转移支付预算正按规定抓紧下达，整体来看我国财政状况健康、安全，哪些信息值得关注？](https://www.zhihu.com/question/604877884)<br />
+5. [高三学生买蛋糕庆祝被纪律老师砸坏，「很多学生被气哭」，老师的做法会给学生心理造成什么影响？](https://www.zhihu.com/question/604864874)<br />
+6. [6 月 5 日在岸、离岸人民币对美元分别跌破 7.12 、 7.13，跌去前一交易日全部涨幅，后势将如何？](https://www.zhihu.com/question/604888554)<br />
+7. [华为已申请 GPT 相关商标，此前曾表示「底层技术不比 ChatGPT 少」，哪些信息值得关注？](https://www.zhihu.com/question/604871143)<br />
+8. [苹果 WWDC 开发者大会定档北京时间 6 月 6 凌晨 1 点，有哪些值得关注的点？](https://www.zhihu.com/question/603949196)<br />
+9. [《暗黑破坏神 4》全球媒体评分解禁，MC 评分网站均分 88，如何评价该评分？是否符合你的预期？](https://www.zhihu.com/question/603994809)<br />
 
 > 百度  
 
