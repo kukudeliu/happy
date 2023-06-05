@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 19:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 19:41:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [男子嘴贴保鲜膜忍不住亲亲宝宝](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%98%B4%E8%B4%B4%E4%BF%9D%E9%B2%9C%E8%86%9C%E5%BF%8D%E4%B8%8D%E4%BD%8F%E4%BA%B2%E4%BA%B2%E5%AE%9D%E5%AE%9D%23&t=31&band_rank=5&Refer=top)<br />
 6. [SMTOWN曾用EXO威胁边伯贤](https://s.weibo.com/weibo?q=%23SMTOWN%E6%9B%BE%E7%94%A8EXO%E5%A8%81%E8%83%81%E8%BE%B9%E4%BC%AF%E8%B4%A4%23&t=31&band_rank=6&Refer=top)<br />
 7. [49岁你还有勇气参加高考吗](https://s.weibo.com/weibo?q=%2349%E5%B2%81%E4%BD%A0%E8%BF%98%E6%9C%89%E5%8B%87%E6%B0%94%E5%8F%82%E5%8A%A0%E9%AB%98%E8%80%83%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
-8. [难听](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%90%AC&t=31&band_rank=8&Refer=top)<br />
-9. [难怪白鹿许凯不帮于正新剧宣传](https://s.weibo.com/weibo?q=%23%E9%9A%BE%E6%80%AA%E7%99%BD%E9%B9%BF%E8%AE%B8%E5%87%AF%E4%B8%8D%E5%B8%AE%E4%BA%8E%E6%AD%A3%E6%96%B0%E5%89%A7%E5%AE%A3%E4%BC%A0%23&t=31&band_rank=9&Refer=top)<br />
+8. [难怪白鹿许凯不帮于正新剧宣传](https://s.weibo.com/weibo?q=%23%E9%9A%BE%E6%80%AA%E7%99%BD%E9%B9%BF%E8%AE%B8%E5%87%AF%E4%B8%8D%E5%B8%AE%E4%BA%8E%E6%AD%A3%E6%96%B0%E5%89%A7%E5%AE%A3%E4%BC%A0%23&t=31&band_rank=8&Refer=top)<br />
+9. [难听](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%90%AC&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -20,8 +20,8 @@
 4. [如何看待珠峰攀登者为救遇险女子放弃登顶，被救女子只愿承担 4 成救援费？](https://www.zhihu.com/question/604842993)<br />
 5. [《狂飙》中穷苦出身的程程，考上了名牌大学，在大公司身居要职，如此励志的人，为什么最后死得那么惨？](https://www.zhihu.com/question/604132619)<br />
 6. [财政部表示，中央对地方转移支付预算正按规定抓紧下达，整体来看我国财政状况健康、安全，哪些信息值得关注？](https://www.zhihu.com/question/604877884)<br />
-7. [为什么进口牛肉反而比国产牛肉更便宜？](https://www.zhihu.com/question/600043391)<br />
-8. [孙立成、谢晓亮由中科院外籍院士转为中科院院士，越来越多科学家回归，哪些信息值得关注？](https://www.zhihu.com/question/604569330)<br />
+7. [孙立成、谢晓亮由中科院外籍院士转为中科院院士，越来越多科学家回归，哪些信息值得关注？](https://www.zhihu.com/question/604569330)<br />
+8. [为什么进口牛肉反而比国产牛肉更便宜？](https://www.zhihu.com/question/600043391)<br />
 9. [AI 过热后套现来了，罗斯柴尔德家族出手，「减持」英伟达，如何看待此举？英伟达的估值是否过高？](https://www.zhihu.com/question/604832745)<br />
 
 > 百度  
