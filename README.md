@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 14:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 14:16:01</h4></div>
 
 > 微博  
 
 1. [孩子烫伤9天才送医院爸爸拒绝手术](https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E7%83%AB%E4%BC%A49%E5%A4%A9%E6%89%8D%E9%80%81%E5%8C%BB%E9%99%A2%E7%88%B8%E7%88%B8%E6%8B%92%E7%BB%9D%E6%89%8B%E6%9C%AF%23&t=31&band_rank=1&Refer=top)<br />
-2. [本周狗屎运最旺的星座](https://s.weibo.com/weibo?q=%E6%9C%AC%E5%91%A8%E7%8B%97%E5%B1%8E%E8%BF%90%E6%9C%80%E6%97%BA%E7%9A%84%E6%98%9F%E5%BA%A7&t=31&band_rank=2&Refer=top)<br />
+2. [亲戚小孩毁了我的动漫周边](https://s.weibo.com/weibo?q=%E4%BA%B2%E6%88%9A%E5%B0%8F%E5%AD%A9%E6%AF%81%E4%BA%86%E6%88%91%E7%9A%84%E5%8A%A8%E6%BC%AB%E5%91%A8%E8%BE%B9&t=31&band_rank=2&Refer=top)<br />
 3. [距2023高考还有2天](https://s.weibo.com/weibo?q=%23%E8%B7%9D2023%E9%AB%98%E8%80%83%E8%BF%98%E6%9C%892%E5%A4%A9%23&t=31&band_rank=3&Refer=top)<br />
 4. [张一山眼球怎么了](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%B8%80%E5%B1%B1%E7%9C%BC%E7%90%83%E6%80%8E%E4%B9%88%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
-5. [亲戚小孩毁了我的动漫周边](https://s.weibo.com/weibo?q=%E4%BA%B2%E6%88%9A%E5%B0%8F%E5%AD%A9%E6%AF%81%E4%BA%86%E6%88%91%E7%9A%84%E5%8A%A8%E6%BC%AB%E5%91%A8%E8%BE%B9&t=31&band_rank=5&Refer=top)<br />
+5. [本周狗屎运最旺的星座](https://s.weibo.com/weibo?q=%E6%9C%AC%E5%91%A8%E7%8B%97%E5%B1%8E%E8%BF%90%E6%9C%80%E6%97%BA%E7%9A%84%E6%98%9F%E5%BA%A7&t=31&band_rank=5&Refer=top)<br />
 6. [珠峰被救女子不愿支付全部救援费用](https://s.weibo.com/weibo?q=%23%E7%8F%A0%E5%B3%B0%E8%A2%AB%E6%95%91%E5%A5%B3%E5%AD%90%E4%B8%8D%E6%84%BF%E6%94%AF%E4%BB%98%E5%85%A8%E9%83%A8%E6%95%91%E6%8F%B4%E8%B4%B9%E7%94%A8%23&t=31&band_rank=6&Refer=top)<br />
 7. [黄旭熙 泡泡](https://s.weibo.com/weibo?q=%E9%BB%84%E6%97%AD%E7%86%99%20%E6%B3%A1%E6%B3%A1&t=31&band_rank=7&Refer=top)<br />
 8. [杨紫工作室P图不P镜子](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%B7%A5%E4%BD%9C%E5%AE%A4P%E5%9B%BE%E4%B8%8DP%E9%95%9C%E5%AD%90%23&t=31&band_rank=8&Refer=top)<br />
@@ -22,7 +22,7 @@
 6. [中年男人为什么还在玩十年前的游戏?](https://www.zhihu.com/question/602764416)<br />
 7. [Character.AI 首周下载量碾压 ChatGPT，这一应用有哪些特点？将会带来哪些影响？](https://www.zhihu.com/question/604552431)<br />
 8. [阿里巴巴全球数学竞赛参赛选手 95 后快递小哥，曾用两周证明欧拉常数公式，你身边有这样的数学隐藏高手吗？](https://www.zhihu.com/question/604783697)<br />
-9. [《狂飙》中穷苦出身的程程，考上了名牌大学，在大公司身居要职，如此励志的人，为什么最后死得那么惨？](https://www.zhihu.com/question/604132619)<br />
+9. [如何看待《五十公里桃花坞 3》中任敏汤晶媚乐队矛盾？](https://www.zhihu.com/question/604722511)<br />
 
 > 百度  
 
