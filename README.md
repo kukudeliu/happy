@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 04:34:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 04:35:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [天津碧桂园](https://s.weibo.com/weibo?q=%E5%A4%A9%E6%B4%A5%E7%A2%A7%E6%A1%82%E5%9B%AD&t=31&band_rank=6&Refer=top)<br />
 7. [AppleVisionPro售价](https://s.weibo.com/weibo?q=AppleVisionPro%E5%94%AE%E4%BB%B7&t=31&band_rank=7&Refer=top)<br />
 8. [有刘海的刘浩存](https://s.weibo.com/weibo?q=%23%E6%9C%89%E5%88%98%E6%B5%B7%E7%9A%84%E5%88%98%E6%B5%A9%E5%AD%98%23&t=31&band_rank=8&Refer=top)<br />
-9. [库克 今年将是最精彩WWDC](https://s.weibo.com/weibo?q=%E5%BA%93%E5%85%8B%20%E4%BB%8A%E5%B9%B4%E5%B0%86%E6%98%AF%E6%9C%80%E7%B2%BE%E5%BD%A9WWDC&t=31&band_rank=9&Refer=top)<br />
+9. [27岁游戏主播抗癌半年后去世](https://s.weibo.com/weibo?q=%2327%E5%B2%81%E6%B8%B8%E6%88%8F%E4%B8%BB%E6%92%AD%E6%8A%97%E7%99%8C%E5%8D%8A%E5%B9%B4%E5%90%8E%E5%8E%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
