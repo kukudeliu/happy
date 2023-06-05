@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 14:00:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 14:01:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [如何看待哔哩哔哩上架的《成龙历险记》重新配音前 13 集，并删除了旧版的几十万弹幕？](https://www.zhihu.com/question/604251906)<br />
 6. [中年男人为什么还在玩十年前的游戏?](https://www.zhihu.com/question/602764416)<br />
 7. [你见过最冷静的人是怎么样的？](https://www.zhihu.com/question/315251005)<br />
-8. [《狂飙》中穷苦出身的程程，考上了名牌大学，在大公司身居要职，如此励志的人，为什么最后死得那么惨？](https://www.zhihu.com/question/604132619)<br />
-9. [如果以现在的你的能力水平去参加高考，会有不一样的结果吗？](https://www.zhihu.com/question/597439864)<br />
+8. [如果以现在的你的能力水平去参加高考，会有不一样的结果吗？](https://www.zhihu.com/question/597439864)<br />
+9. [Character.AI 首周下载量碾压 ChatGPT，这一应用有哪些特点？将会带来哪些影响？](https://www.zhihu.com/question/604552431)<br />
 
 > 百度  
 
