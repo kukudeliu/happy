@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 09:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 09:54:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [章若楠观众缘](https://s.weibo.com/weibo?q=%23%E7%AB%A0%E8%8B%A5%E6%A5%A0%E8%A7%82%E4%BC%97%E7%BC%98%23&t=31&band_rank=6&Refer=top)<br />
 7. [日本女团成员灌男粉喝洗洁精](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%9B%A2%E6%88%90%E5%91%98%E7%81%8C%E7%94%B7%E7%B2%89%E5%96%9D%E6%B4%97%E6%B4%81%E7%B2%BE%23&t=31&band_rank=7&Refer=top)<br />
 8. [涉事学校曾因老鼠事件被联合执法](https://s.weibo.com/weibo?q=%23%E6%B6%89%E4%BA%8B%E5%AD%A6%E6%A0%A1%E6%9B%BE%E5%9B%A0%E8%80%81%E9%BC%A0%E4%BA%8B%E4%BB%B6%E8%A2%AB%E8%81%94%E5%90%88%E6%89%A7%E6%B3%95%23&t=31&band_rank=8&Refer=top)<br />
-9. [本周狗屎运最旺的星座](https://s.weibo.com/weibo?q=%E6%9C%AC%E5%91%A8%E7%8B%97%E5%B1%8E%E8%BF%90%E6%9C%80%E6%97%BA%E7%9A%84%E6%98%9F%E5%BA%A7&t=31&band_rank=9&Refer=top)<br />
+9. [男子连吃100天麦当劳减重53斤](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%BF%9E%E5%90%83100%E5%A4%A9%E9%BA%A6%E5%BD%93%E5%8A%B3%E5%87%8F%E9%87%8D53%E6%96%A4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -33,8 +33,8 @@
 5. [印度耗资百亿卢比的大桥又塌了](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E8%80%97%E8%B5%84%E7%99%BE%E4%BA%BF%E5%8D%A2%E6%AF%94%E7%9A%84%E5%A4%A7%E6%A1%A5%E5%8F%88%E5%A1%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [毛坦厂中学万人雨中送考](https://www.baidu.com/s?wd=%E6%AF%9B%E5%9D%A6%E5%8E%82%E4%B8%AD%E5%AD%A6%E4%B8%87%E4%BA%BA%E9%9B%A8%E4%B8%AD%E9%80%81%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [北大自杀女生男友涉虐待罪案7日宣判](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E8%87%AA%E6%9D%80%E5%A5%B3%E7%94%9F%E7%94%B7%E5%8F%8B%E6%B6%89%E8%99%90%E5%BE%85%E7%BD%AA%E6%A1%887%E6%97%A5%E5%AE%A3%E5%88%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [为啥高考试卷是中国邮政送？](https://www.baidu.com/s?wd=%E4%B8%BA%E5%95%A5%E9%AB%98%E8%80%83%E8%AF%95%E5%8D%B7%E6%98%AF%E4%B8%AD%E5%9B%BD%E9%82%AE%E6%94%BF%E9%80%81%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [罕见画面！俄米格31战机坠毁前喷火](https://www.baidu.com/s?wd=%E7%BD%95%E8%A7%81%E7%94%BB%E9%9D%A2%EF%BC%81%E4%BF%84%E7%B1%B3%E6%A0%BC31%E6%88%98%E6%9C%BA%E5%9D%A0%E6%AF%81%E5%89%8D%E5%96%B7%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [12306可在线核验学生优惠资质](https://www.baidu.com/s?wd=12306%E5%8F%AF%E5%9C%A8%E7%BA%BF%E6%A0%B8%E9%AA%8C%E5%AD%A6%E7%94%9F%E4%BC%98%E6%83%A0%E8%B5%84%E8%B4%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [为啥高考试卷是中国邮政送？](https://www.baidu.com/s?wd=%E4%B8%BA%E5%95%A5%E9%AB%98%E8%80%83%E8%AF%95%E5%8D%B7%E6%98%AF%E4%B8%AD%E5%9B%BD%E9%82%AE%E6%94%BF%E9%80%81%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [印度耗资百亿卢比的大桥又塌了](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E8%80%97%E8%B5%84%E7%99%BE%E4%BA%BF%E5%8D%A2%E6%AF%94%E7%9A%84%E5%A4%A7%E6%A1%A5%E5%8F%88%E5%A1%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [毛坦厂中学万人雨中送考](https://www.baidu.com/s?wd=%E6%AF%9B%E5%9D%A6%E5%8E%82%E4%B8%AD%E5%AD%A6%E4%B8%87%E4%BA%BA%E9%9B%A8%E4%B8%AD%E9%80%81%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [北大自杀女生男友涉虐待罪案7日宣判](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E8%87%AA%E6%9D%80%E5%A5%B3%E7%94%9F%E7%94%B7%E5%8F%8B%E6%B6%89%E8%99%90%E5%BE%85%E7%BD%AA%E6%A1%887%E6%97%A5%E5%AE%A3%E5%88%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [为啥高考试卷是中国邮政送？](https://www.baidu.com/s?wd=%E4%B8%BA%E5%95%A5%E9%AB%98%E8%80%83%E8%AF%95%E5%8D%B7%E6%98%AF%E4%B8%AD%E5%9B%BD%E9%82%AE%E6%94%BF%E9%80%81%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [罕见画面！俄米格31战机坠毁前喷火](https://www.baidu.com/s?wd=%E7%BD%95%E8%A7%81%E7%94%BB%E9%9D%A2%EF%BC%81%E4%BF%84%E7%B1%B3%E6%A0%BC31%E6%88%98%E6%9C%BA%E5%9D%A0%E6%AF%81%E5%89%8D%E5%96%B7%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [12306可在线核验学生优惠资质](https://www.baidu.com/s?wd=12306%E5%8F%AF%E5%9C%A8%E7%BA%BF%E6%A0%B8%E9%AA%8C%E5%AD%A6%E7%94%9F%E4%BC%98%E6%83%A0%E8%B5%84%E8%B4%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [为啥高考试卷是中国邮政送？](https://www.baidu.com/s?wd=%E4%B8%BA%E5%95%A5%E9%AB%98%E8%80%83%E8%AF%95%E5%8D%B7%E6%98%AF%E4%B8%AD%E5%9B%BD%E9%82%AE%E6%94%BF%E9%80%81%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
