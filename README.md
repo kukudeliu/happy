@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 04:17:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 04:18:01</h4></div>
 
 > 微博  
 
@@ -32,9 +32,9 @@
 4. [环境保护的耀眼“实绩”](https://www.baidu.com/s?wd=%E7%8E%AF%E5%A2%83%E4%BF%9D%E6%8A%A4%E7%9A%84%E8%80%80%E7%9C%BC%E2%80%9C%E5%AE%9E%E7%BB%A9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [#苹果WWDC2023#](https://www.baidu.com/s?wd=%23%E8%8B%B9%E6%9E%9CWWDC2023%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [印度又一列车脱轨 暂无伤亡报告](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E5%8F%88%E4%B8%80%E5%88%97%E8%BD%A6%E8%84%B1%E8%BD%A8+%E6%9A%82%E6%97%A0%E4%BC%A4%E4%BA%A1%E6%8A%A5%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [网友发布“三亚被宰记” 官方通报](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%8F%91%E5%B8%83%E2%80%9C%E4%B8%89%E4%BA%9A%E8%A2%AB%E5%AE%B0%E8%AE%B0%E2%80%9D+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [多地对网约车按下“暂停键”](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%AF%B9%E7%BD%91%E7%BA%A6%E8%BD%A6%E6%8C%89%E4%B8%8B%E2%80%9C%E6%9A%82%E5%81%9C%E9%94%AE%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子车位被占装地桩包围对方车辆](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%BD%A6%E4%BD%8D%E8%A2%AB%E5%8D%A0%E8%A3%85%E5%9C%B0%E6%A1%A9%E5%8C%85%E5%9B%B4%E5%AF%B9%E6%96%B9%E8%BD%A6%E8%BE%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [多地对网约车按下“暂停键”](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%AF%B9%E7%BD%91%E7%BA%A6%E8%BD%A6%E6%8C%89%E4%B8%8B%E2%80%9C%E6%9A%82%E5%81%9C%E9%94%AE%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [日本女子因华航空姐没讲日语暴怒辱骂](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%AD%90%E5%9B%A0%E5%8D%8E%E8%88%AA%E7%A9%BA%E5%A7%90%E6%B2%A1%E8%AE%B2%E6%97%A5%E8%AF%AD%E6%9A%B4%E6%80%92%E8%BE%B1%E9%AA%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [登珠峰获救女子只愿承担4成救援费](https://www.baidu.com/s?wd=%E7%99%BB%E7%8F%A0%E5%B3%B0%E8%8E%B7%E6%95%91%E5%A5%B3%E5%AD%90%E5%8F%AA%E6%84%BF%E6%89%BF%E6%8B%854%E6%88%90%E6%95%91%E6%8F%B4%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [环境保护的耀眼“实绩”](https://www.baidu.com/s?wd=%E7%8E%AF%E5%A2%83%E4%BF%9D%E6%8A%A4%E7%9A%84%E8%80%80%E7%9C%BC%E2%80%9C%E5%AE%9E%E7%BB%A9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [#苹果WWDC2023#](https://www.baidu.com/s?wd=%23%E8%8B%B9%E6%9E%9CWWDC2023%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [印度又一列车脱轨 暂无伤亡报告](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E5%8F%88%E4%B8%80%E5%88%97%E8%BD%A6%E8%84%B1%E8%BD%A8+%E6%9A%82%E6%97%A0%E4%BC%A4%E4%BA%A1%E6%8A%A5%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [网友发布“三亚被宰记” 官方通报](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%8F%91%E5%B8%83%E2%80%9C%E4%B8%89%E4%BA%9A%E8%A2%AB%E5%AE%B0%E8%AE%B0%E2%80%9D+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [多地对网约车按下“暂停键”](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%AF%B9%E7%BD%91%E7%BA%A6%E8%BD%A6%E6%8C%89%E4%B8%8B%E2%80%9C%E6%9A%82%E5%81%9C%E9%94%AE%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子车位被占装地桩包围对方车辆](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%BD%A6%E4%BD%8D%E8%A2%AB%E5%8D%A0%E8%A3%85%E5%9C%B0%E6%A1%A9%E5%8C%85%E5%9B%B4%E5%AF%B9%E6%96%B9%E8%BD%A6%E8%BE%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [多地对网约车按下“暂停键”](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%AF%B9%E7%BD%91%E7%BA%A6%E8%BD%A6%E6%8C%89%E4%B8%8B%E2%80%9C%E6%9A%82%E5%81%9C%E9%94%AE%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [日本女子因华航空姐没讲日语暴怒辱骂](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%AD%90%E5%9B%A0%E5%8D%8E%E8%88%AA%E7%A9%BA%E5%A7%90%E6%B2%A1%E8%AE%B2%E6%97%A5%E8%AF%AD%E6%9A%B4%E6%80%92%E8%BE%B1%E9%AA%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [登珠峰获救女子只愿承担4成救援费](https://www.baidu.com/s?wd=%E7%99%BB%E7%8F%A0%E5%B3%B0%E8%8E%B7%E6%95%91%E5%A5%B3%E5%AD%90%E5%8F%AA%E6%84%BF%E6%89%BF%E6%8B%854%E6%88%90%E6%95%91%E6%8F%B4%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
