@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 22:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 22:34:01</h4></div>
 
 > 微博  
 
@@ -31,9 +31,9 @@
 3. [花30万可让梅西敬酒？北京警方回应](https://www.baidu.com/s?wd=%E8%8A%B130%E4%B8%87%E5%8F%AF%E8%AE%A9%E6%A2%85%E8%A5%BF%E6%95%AC%E9%85%92%EF%BC%9F%E5%8C%97%E4%BA%AC%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [环境保护的耀眼“实绩”](https://www.baidu.com/s?wd=%E7%8E%AF%E5%A2%83%E4%BF%9D%E6%8A%A4%E7%9A%84%E8%80%80%E7%9C%BC%E2%80%9C%E5%AE%9E%E7%BB%A9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [业主买42套房欲打通 楼上墙壁现裂缝](https://www.baidu.com/s?wd=%E4%B8%9A%E4%B8%BB%E4%B9%B042%E5%A5%97%E6%88%BF%E6%AC%B2%E6%89%93%E9%80%9A+%E6%A5%BC%E4%B8%8A%E5%A2%99%E5%A3%81%E7%8E%B0%E8%A3%82%E7%BC%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [公交司机肇事撞人后拒让120载走](https://www.baidu.com/s?wd=%E5%85%AC%E4%BA%A4%E5%8F%B8%E6%9C%BA%E8%82%87%E4%BA%8B%E6%92%9E%E4%BA%BA%E5%90%8E%E6%8B%92%E8%AE%A9120%E8%BD%BD%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [男子摆摊遭劝离把货物扔地上任人捡](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%91%86%E6%91%8A%E9%81%AD%E5%8A%9D%E7%A6%BB%E6%8A%8A%E8%B4%A7%E7%89%A9%E6%89%94%E5%9C%B0%E4%B8%8A%E4%BB%BB%E4%BA%BA%E6%8D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [婆婆与儿媳争执将农药倒进其水井](https://www.baidu.com/s?wd=%E5%A9%86%E5%A9%86%E4%B8%8E%E5%84%BF%E5%AA%B3%E4%BA%89%E6%89%A7%E5%B0%86%E5%86%9C%E8%8D%AF%E5%80%92%E8%BF%9B%E5%85%B6%E6%B0%B4%E4%BA%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子摆摊遭劝离把货物扔地上任人捡](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%91%86%E6%91%8A%E9%81%AD%E5%8A%9D%E7%A6%BB%E6%8A%8A%E8%B4%A7%E7%89%A9%E6%89%94%E5%9C%B0%E4%B8%8A%E4%BB%BB%E4%BA%BA%E6%8D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [公交司机肇事撞人后拒让120载走](https://www.baidu.com/s?wd=%E5%85%AC%E4%BA%A4%E5%8F%B8%E6%9C%BA%E8%82%87%E4%BA%8B%E6%92%9E%E4%BA%BA%E5%90%8E%E6%8B%92%E8%AE%A9120%E8%BD%BD%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [浙大学霸应聘机场驱鸟员](https://www.baidu.com/s?wd=%E6%B5%99%E5%A4%A7%E5%AD%A6%E9%9C%B8%E5%BA%94%E8%81%98%E6%9C%BA%E5%9C%BA%E9%A9%B1%E9%B8%9F%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -43,7 +43,7 @@
 3. [花30万可让梅西敬酒？北京警方回应](https://www.baidu.com/s?wd=%E8%8A%B130%E4%B8%87%E5%8F%AF%E8%AE%A9%E6%A2%85%E8%A5%BF%E6%95%AC%E9%85%92%EF%BC%9F%E5%8C%97%E4%BA%AC%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [环境保护的耀眼“实绩”](https://www.baidu.com/s?wd=%E7%8E%AF%E5%A2%83%E4%BF%9D%E6%8A%A4%E7%9A%84%E8%80%80%E7%9C%BC%E2%80%9C%E5%AE%9E%E7%BB%A9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [业主买42套房欲打通 楼上墙壁现裂缝](https://www.baidu.com/s?wd=%E4%B8%9A%E4%B8%BB%E4%B9%B042%E5%A5%97%E6%88%BF%E6%AC%B2%E6%89%93%E9%80%9A+%E6%A5%BC%E4%B8%8A%E5%A2%99%E5%A3%81%E7%8E%B0%E8%A3%82%E7%BC%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [公交司机肇事撞人后拒让120载走](https://www.baidu.com/s?wd=%E5%85%AC%E4%BA%A4%E5%8F%B8%E6%9C%BA%E8%82%87%E4%BA%8B%E6%92%9E%E4%BA%BA%E5%90%8E%E6%8B%92%E8%AE%A9120%E8%BD%BD%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [男子摆摊遭劝离把货物扔地上任人捡](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%91%86%E6%91%8A%E9%81%AD%E5%8A%9D%E7%A6%BB%E6%8A%8A%E8%B4%A7%E7%89%A9%E6%89%94%E5%9C%B0%E4%B8%8A%E4%BB%BB%E4%BA%BA%E6%8D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [婆婆与儿媳争执将农药倒进其水井](https://www.baidu.com/s?wd=%E5%A9%86%E5%A9%86%E4%B8%8E%E5%84%BF%E5%AA%B3%E4%BA%89%E6%89%A7%E5%B0%86%E5%86%9C%E8%8D%AF%E5%80%92%E8%BF%9B%E5%85%B6%E6%B0%B4%E4%BA%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子摆摊遭劝离把货物扔地上任人捡](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%91%86%E6%91%8A%E9%81%AD%E5%8A%9D%E7%A6%BB%E6%8A%8A%E8%B4%A7%E7%89%A9%E6%89%94%E5%9C%B0%E4%B8%8A%E4%BB%BB%E4%BA%BA%E6%8D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [公交司机肇事撞人后拒让120载走](https://www.baidu.com/s?wd=%E5%85%AC%E4%BA%A4%E5%8F%B8%E6%9C%BA%E8%82%87%E4%BA%8B%E6%92%9E%E4%BA%BA%E5%90%8E%E6%8B%92%E8%AE%A9120%E8%BD%BD%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [浙大学霸应聘机场驱鸟员](https://www.baidu.com/s?wd=%E6%B5%99%E5%A4%A7%E5%AD%A6%E9%9C%B8%E5%BA%94%E8%81%98%E6%9C%BA%E5%9C%BA%E9%A9%B1%E9%B8%9F%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
