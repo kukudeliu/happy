@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 11:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 11:45:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [飞机闯入华盛顿禁飞区被拦截后坠毁](https://www.baidu.com/s?wd=%E9%A3%9E%E6%9C%BA%E9%97%AF%E5%85%A5%E5%8D%8E%E7%9B%9B%E9%A1%BF%E7%A6%81%E9%A3%9E%E5%8C%BA%E8%A2%AB%E6%8B%A6%E6%88%AA%E5%90%8E%E5%9D%A0%E6%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [40斤蟒蛇爬进派出所110求助119](https://www.baidu.com/s?wd=40%E6%96%A4%E8%9F%92%E8%9B%87%E7%88%AC%E8%BF%9B%E6%B4%BE%E5%87%BA%E6%89%80110%E6%B1%82%E5%8A%A9119&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [登珠峰获救女子只愿承担4成救援费](https://www.baidu.com/s?wd=%E7%99%BB%E7%8F%A0%E5%B3%B0%E8%8E%B7%E6%95%91%E5%A5%B3%E5%AD%90%E5%8F%AA%E6%84%BF%E6%89%BF%E6%8B%854%E6%88%90%E6%95%91%E6%8F%B4%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [毛坦厂中学万人雨中送考](https://www.baidu.com/s?wd=%E6%AF%9B%E5%9D%A6%E5%8E%82%E4%B8%AD%E5%AD%A6%E4%B8%87%E4%BA%BA%E9%9B%A8%E4%B8%AD%E9%80%81%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [离异男子独自养儿到17岁发现非亲生](https://www.baidu.com/s?wd=%E7%A6%BB%E5%BC%82%E7%94%B7%E5%AD%90%E7%8B%AC%E8%87%AA%E5%85%BB%E5%84%BF%E5%88%B017%E5%B2%81%E5%8F%91%E7%8E%B0%E9%9D%9E%E4%BA%B2%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [杭州一车辆碰撞收费站起火致4死](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%B8%80%E8%BD%A6%E8%BE%86%E7%A2%B0%E6%92%9E%E6%94%B6%E8%B4%B9%E7%AB%99%E8%B5%B7%E7%81%AB%E8%87%B44%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [毛坦厂中学万人雨中送考](https://www.baidu.com/s?wd=%E6%AF%9B%E5%9D%A6%E5%8E%82%E4%B8%AD%E5%AD%A6%E4%B8%87%E4%BA%BA%E9%9B%A8%E4%B8%AD%E9%80%81%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [飞机闯入华盛顿禁飞区被拦截后坠毁](https://www.baidu.com/s?wd=%E9%A3%9E%E6%9C%BA%E9%97%AF%E5%85%A5%E5%8D%8E%E7%9B%9B%E9%A1%BF%E7%A6%81%E9%A3%9E%E5%8C%BA%E8%A2%AB%E6%8B%A6%E6%88%AA%E5%90%8E%E5%9D%A0%E6%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [40斤蟒蛇爬进派出所110求助119](https://www.baidu.com/s?wd=40%E6%96%A4%E8%9F%92%E8%9B%87%E7%88%AC%E8%BF%9B%E6%B4%BE%E5%87%BA%E6%89%80110%E6%B1%82%E5%8A%A9119&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [登珠峰获救女子只愿承担4成救援费](https://www.baidu.com/s?wd=%E7%99%BB%E7%8F%A0%E5%B3%B0%E8%8E%B7%E6%95%91%E5%A5%B3%E5%AD%90%E5%8F%AA%E6%84%BF%E6%89%BF%E6%8B%854%E6%88%90%E6%95%91%E6%8F%B4%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [毛坦厂中学万人雨中送考](https://www.baidu.com/s?wd=%E6%AF%9B%E5%9D%A6%E5%8E%82%E4%B8%AD%E5%AD%A6%E4%B8%87%E4%BA%BA%E9%9B%A8%E4%B8%AD%E9%80%81%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [离异男子独自养儿到17岁发现非亲生](https://www.baidu.com/s?wd=%E7%A6%BB%E5%BC%82%E7%94%B7%E5%AD%90%E7%8B%AC%E8%87%AA%E5%85%BB%E5%84%BF%E5%88%B017%E5%B2%81%E5%8F%91%E7%8E%B0%E9%9D%9E%E4%BA%B2%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [杭州一车辆碰撞收费站起火致4死](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%B8%80%E8%BD%A6%E8%BE%86%E7%A2%B0%E6%92%9E%E6%94%B6%E8%B4%B9%E7%AB%99%E8%B5%B7%E7%81%AB%E8%87%B44%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [毛坦厂中学万人雨中送考](https://www.baidu.com/s?wd=%E6%AF%9B%E5%9D%A6%E5%8E%82%E4%B8%AD%E5%AD%A6%E4%B8%87%E4%BA%BA%E9%9B%A8%E4%B8%AD%E9%80%81%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
