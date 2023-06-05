@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 12:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 12:12:02</h4></div>
 
 > 微博  
 
@@ -21,7 +21,7 @@
 5. [你见过最冷静的人是怎么样的？](https://www.zhihu.com/question/315251005)<br />
 6. [大量安卓用户逃离换 iPhone，Android 13 保有量不足 15%，背后原因有哪些？](https://www.zhihu.com/question/604820761)<br />
 7. [隐藏式门把手会不会是汽车的一个安全隐患？](https://www.zhihu.com/question/604174782)<br />
-8. []()<br />
+8. [报告称毕业生租房租金主要来自父母，有人 45% 收入用于交房租，如何看待此数据？毕业后一直租房可行吗？](https://www.zhihu.com/question/604420104)<br />
 9. [618 有哪些「不踩雷」的个护单品值得入手？](https://www.zhihu.com/question/602603559)<br />
 
 > 百度  
