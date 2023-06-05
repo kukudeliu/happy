@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 08:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 08:30:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [本周狗屎运最旺的星座](https://s.weibo.com/weibo?q=%E6%9C%AC%E5%91%A8%E7%8B%97%E5%B1%8E%E8%BF%90%E6%9C%80%E6%97%BA%E7%9A%84%E6%98%9F%E5%BA%A7&t=31&band_rank=4&Refer=top)<br />
 5. [杨紫 唯一纯白茉莉花](https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%20%E5%94%AF%E4%B8%80%E7%BA%AF%E7%99%BD%E8%8C%89%E8%8E%89%E8%8A%B1&t=31&band_rank=5&Refer=top)<br />
 6. [国内出现偏肺病毒感染](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%86%85%E5%87%BA%E7%8E%B0%E5%81%8F%E8%82%BA%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93%23&t=31&band_rank=6&Refer=top)<br />
-7. [做拔智齿手术要提前录个音](https://s.weibo.com/weibo?q=%23%E5%81%9A%E6%8B%94%E6%99%BA%E9%BD%BF%E6%89%8B%E6%9C%AF%E8%A6%81%E6%8F%90%E5%89%8D%E5%BD%95%E4%B8%AA%E9%9F%B3%23&t=31&band_rank=7&Refer=top)<br />
-8. [女子游野泳溺亡家属索赔166万被驳](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%B8%B8%E9%87%8E%E6%B3%B3%E6%BA%BA%E4%BA%A1%E5%AE%B6%E5%B1%9E%E7%B4%A2%E8%B5%94166%E4%B8%87%E8%A2%AB%E9%A9%B3%23&t=31&band_rank=8&Refer=top)<br />
+7. [女子游野泳溺亡家属索赔166万被驳](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%B8%B8%E9%87%8E%E6%B3%B3%E6%BA%BA%E4%BA%A1%E5%AE%B6%E5%B1%9E%E7%B4%A2%E8%B5%94166%E4%B8%87%E8%A2%AB%E9%A9%B3%23&t=31&band_rank=7&Refer=top)<br />
+8. [做拔智齿手术要提前录个音](https://s.weibo.com/weibo?q=%23%E5%81%9A%E6%8B%94%E6%99%BA%E9%BD%BF%E6%89%8B%E6%9C%AF%E8%A6%81%E6%8F%90%E5%89%8D%E5%BD%95%E4%B8%AA%E9%9F%B3%23&t=31&band_rank=8&Refer=top)<br />
 9. [88斤女生穿不进去S码牛仔裙](https://s.weibo.com/weibo?q=%2388%E6%96%A4%E5%A5%B3%E7%94%9F%E7%A9%BF%E4%B8%8D%E8%BF%9B%E5%8E%BBS%E7%A0%81%E7%89%9B%E4%BB%94%E8%A3%99%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -28,7 +28,7 @@
 
 1. [新时代新的文化使命](https://www.baidu.com/s?wd=%E6%96%B0%E6%97%B6%E4%BB%A3%E6%96%B0%E7%9A%84%E6%96%87%E5%8C%96%E4%BD%BF%E5%91%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [海霞、欧阳夏丹已不再任央视主持人](https://www.baidu.com/s?wd=%E6%B5%B7%E9%9C%9E%E3%80%81%E6%AC%A7%E9%98%B3%E5%A4%8F%E4%B8%B9%E5%B7%B2%E4%B8%8D%E5%86%8D%E4%BB%BB%E5%A4%AE%E8%A7%86%E4%B8%BB%E6%8C%81%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [最“卷”618来了 消费者买单吗？](https://www.baidu.com/s?wd=%E6%9C%80%E2%80%9C%E5%8D%B7%E2%80%9D618%E6%9D%A5%E4%BA%86+%E6%B6%88%E8%B4%B9%E8%80%85%E4%B9%B0%E5%8D%95%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [网友高速偶遇高考试卷押送车队](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E9%AB%98%E9%80%9F%E5%81%B6%E9%81%87%E9%AB%98%E8%80%83%E8%AF%95%E5%8D%B7%E6%8A%BC%E9%80%81%E8%BD%A6%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [128秒回顾中国航天高燃时刻](https://www.baidu.com/s?wd=128%E7%A7%92%E5%9B%9E%E9%A1%BE%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E9%AB%98%E7%87%83%E6%97%B6%E5%88%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [印度耗资百亿卢比的大桥又塌了](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E8%80%97%E8%B5%84%E7%99%BE%E4%BA%BF%E5%8D%A2%E6%AF%94%E7%9A%84%E5%A4%A7%E6%A1%A5%E5%8F%88%E5%A1%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大量安卓用户逃离换iPhone](https://www.baidu.com/s?wd=%E5%A4%A7%E9%87%8F%E5%AE%89%E5%8D%93%E7%94%A8%E6%88%B7%E9%80%83%E7%A6%BB%E6%8D%A2iPhone&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -40,7 +40,7 @@
 
 1. [新时代新的文化使命](https://www.baidu.com/s?wd=%E6%96%B0%E6%97%B6%E4%BB%A3%E6%96%B0%E7%9A%84%E6%96%87%E5%8C%96%E4%BD%BF%E5%91%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [海霞、欧阳夏丹已不再任央视主持人](https://www.baidu.com/s?wd=%E6%B5%B7%E9%9C%9E%E3%80%81%E6%AC%A7%E9%98%B3%E5%A4%8F%E4%B8%B9%E5%B7%B2%E4%B8%8D%E5%86%8D%E4%BB%BB%E5%A4%AE%E8%A7%86%E4%B8%BB%E6%8C%81%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [最“卷”618来了 消费者买单吗？](https://www.baidu.com/s?wd=%E6%9C%80%E2%80%9C%E5%8D%B7%E2%80%9D618%E6%9D%A5%E4%BA%86+%E6%B6%88%E8%B4%B9%E8%80%85%E4%B9%B0%E5%8D%95%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [网友高速偶遇高考试卷押送车队](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E9%AB%98%E9%80%9F%E5%81%B6%E9%81%87%E9%AB%98%E8%80%83%E8%AF%95%E5%8D%B7%E6%8A%BC%E9%80%81%E8%BD%A6%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [128秒回顾中国航天高燃时刻](https://www.baidu.com/s?wd=128%E7%A7%92%E5%9B%9E%E9%A1%BE%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E9%AB%98%E7%87%83%E6%97%B6%E5%88%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [印度耗资百亿卢比的大桥又塌了](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E8%80%97%E8%B5%84%E7%99%BE%E4%BA%BF%E5%8D%A2%E6%AF%94%E7%9A%84%E5%A4%A7%E6%A1%A5%E5%8F%88%E5%A1%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大量安卓用户逃离换iPhone](https://www.baidu.com/s?wd=%E5%A4%A7%E9%87%8F%E5%AE%89%E5%8D%93%E7%94%A8%E6%88%B7%E9%80%83%E7%A6%BB%E6%8D%A2iPhone&sa=fyb_news&rsv_dl=fyb_news)<br />
