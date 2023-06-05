@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 14:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 14:10:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [黄旭熙 泡泡](https://s.weibo.com/weibo?q=%E9%BB%84%E6%97%AD%E7%86%99%20%E6%B3%A1%E6%B3%A1&t=31&band_rank=5&Refer=top)<br />
 6. [珠峰被救女子不愿支付全部救援费用](https://s.weibo.com/weibo?q=%23%E7%8F%A0%E5%B3%B0%E8%A2%AB%E6%95%91%E5%A5%B3%E5%AD%90%E4%B8%8D%E6%84%BF%E6%94%AF%E4%BB%98%E5%85%A8%E9%83%A8%E6%95%91%E6%8F%B4%E8%B4%B9%E7%94%A8%23&t=31&band_rank=6&Refer=top)<br />
 7. [杨紫工作室P图不P镜子](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%B7%A5%E4%BD%9C%E5%AE%A4P%E5%9B%BE%E4%B8%8DP%E9%95%9C%E5%AD%90%23&t=31&band_rank=7&Refer=top)<br />
-8. [于正新剧又是双女主](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E6%96%B0%E5%89%A7%E5%8F%88%E6%98%AF%E5%8F%8C%E5%A5%B3%E4%B8%BB%23&t=31&band_rank=8&Refer=top)<br />
-9. [高铁站台为什么不能打伞](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E7%AB%99%E5%8F%B0%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E8%83%BD%E6%89%93%E4%BC%9E%23&t=31&band_rank=9&Refer=top)<br />
+8. [亲戚小孩毁了我的动漫周边](https://s.weibo.com/weibo?q=%E4%BA%B2%E6%88%9A%E5%B0%8F%E5%AD%A9%E6%AF%81%E4%BA%86%E6%88%91%E7%9A%84%E5%8A%A8%E6%BC%AB%E5%91%A8%E8%BE%B9&t=31&band_rank=8&Refer=top)<br />
+9. [于正新剧又是双女主](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E6%96%B0%E5%89%A7%E5%8F%88%E6%98%AF%E5%8F%8C%E5%A5%B3%E4%B8%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -20,9 +20,9 @@
 4. [中国有哪些逆天的文物？](https://www.zhihu.com/question/22638720)<br />
 5. [如何看待哔哩哔哩上架的《成龙历险记》重新配音前 13 集，并删除了旧版的几十万弹幕？](https://www.zhihu.com/question/604251906)<br />
 6. [中年男人为什么还在玩十年前的游戏?](https://www.zhihu.com/question/602764416)<br />
-7. [《狂飙》中穷苦出身的程程，考上了名牌大学，在大公司身居要职，如此励志的人，为什么最后死得那么惨？](https://www.zhihu.com/question/604132619)<br />
-8. [Character.AI 首周下载量碾压 ChatGPT，这一应用有哪些特点？将会带来哪些影响？](https://www.zhihu.com/question/604552431)<br />
-9. [阿里巴巴全球数学竞赛参赛选手 95 后快递小哥，曾用两周证明欧拉常数公式，你身边有这样的数学隐藏高手吗？](https://www.zhihu.com/question/604783697)<br />
+7. [Character.AI 首周下载量碾压 ChatGPT，这一应用有哪些特点？将会带来哪些影响？](https://www.zhihu.com/question/604552431)<br />
+8. [阿里巴巴全球数学竞赛参赛选手 95 后快递小哥，曾用两周证明欧拉常数公式，你身边有这样的数学隐藏高手吗？](https://www.zhihu.com/question/604783697)<br />
+9. [如何看待《五十公里桃花坞 3》中任敏汤晶媚乐队矛盾？](https://www.zhihu.com/question/604722511)<br />
 
 > 百度  
 
