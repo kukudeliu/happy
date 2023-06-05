@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 18:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 18:14:01</h4></div>
 
 > 微博  
 
-1. [娜扎时隔七年重开评论区](https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8E%E6%97%B6%E9%9A%94%E4%B8%83%E5%B9%B4%E9%87%8D%E5%BC%80%E8%AF%84%E8%AE%BA%E5%8C%BA%23&t=31&band_rank=1&Refer=top)<br />
+1. [某某影视化](https://s.weibo.com/weibo?q=%E6%9F%90%E6%9F%90%E5%BD%B1%E8%A7%86%E5%8C%96&t=31&band_rank=1&Refer=top)<br />
 2. [一个村考出300多大学生6个北大](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E6%9D%91%E8%80%83%E5%87%BA300%E5%A4%9A%E5%A4%A7%E5%AD%A6%E7%94%9F6%E4%B8%AA%E5%8C%97%E5%A4%A7%23&t=31&band_rank=2&Refer=top)<br />
 3. [2023高考加油短片](https://s.weibo.com/weibo?q=%232023%E9%AB%98%E8%80%83%E5%8A%A0%E6%B2%B9%E7%9F%AD%E7%89%87%23&t=31&band_rank=3&Refer=top)<br />
-4. [某某影视化](https://s.weibo.com/weibo?q=%E6%9F%90%E6%9F%90%E5%BD%B1%E8%A7%86%E5%8C%96&t=31&band_rank=4&Refer=top)<br />
+4. [娜扎时隔七年重开评论区](https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8E%E6%97%B6%E9%9A%94%E4%B8%83%E5%B9%B4%E9%87%8D%E5%BC%80%E8%AF%84%E8%AE%BA%E5%8C%BA%23&t=31&band_rank=4&Refer=top)<br />
 5. [男子嘴贴保鲜膜忍不住亲亲宝宝](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%98%B4%E8%B4%B4%E4%BF%9D%E9%B2%9C%E8%86%9C%E5%BF%8D%E4%B8%8D%E4%BD%8F%E4%BA%B2%E4%BA%B2%E5%AE%9D%E5%AE%9D%23&t=31&band_rank=5&Refer=top)<br />
 6. [魏晨差点错过孩子出生第一刻](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E6%99%A8%E5%B7%AE%E7%82%B9%E9%94%99%E8%BF%87%E5%AD%A9%E5%AD%90%E5%87%BA%E7%94%9F%E7%AC%AC%E4%B8%80%E5%88%BB%23&t=31&band_rank=6&Refer=top)<br />
 7. [哥哥听到妹妹哭声一路小跑来安抚](https://s.weibo.com/weibo?q=%23%E5%93%A5%E5%93%A5%E5%90%AC%E5%88%B0%E5%A6%B9%E5%A6%B9%E5%93%AD%E5%A3%B0%E4%B8%80%E8%B7%AF%E5%B0%8F%E8%B7%91%E6%9D%A5%E5%AE%89%E6%8A%9A%23&t=31&band_rank=7&Refer=top)<br />
@@ -22,7 +22,7 @@
 6. [为什么进口牛肉反而比国产牛肉更便宜？](https://www.zhihu.com/question/600043391)<br />
 7. [杭州交警通报一起小客车撞击高速收费站设施起火事故，致 4 人死亡，具体情况如何？类似汽车安全隐患如何避免？](https://www.zhihu.com/question/604857286)<br />
 8. [孙立成、谢晓亮由中科院外籍院士转为中科院院士，越来越多科学家回归，哪些信息值得关注？](https://www.zhihu.com/question/604569330)<br />
-9. [苹果 WWDC 开发者大会定档北京时间 6 月 6 凌晨 1 点，有哪些值得关注的点？](https://www.zhihu.com/question/603949196)<br />
+9. [为什么狗上厕所不刨坑，而猫上厕所会刨坑埋掉，这是出于猫狗的什么心理？](https://www.zhihu.com/question/595774135)<br />
 
 > 百度  
 
@@ -33,8 +33,8 @@
 5. [男子过生日蛋糕上名字10年被写错](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%BF%87%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95%E4%B8%8A%E5%90%8D%E5%AD%9710%E5%B9%B4%E8%A2%AB%E5%86%99%E9%94%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [弟弟开黄腔把哥哥婚事搅黄](https://www.baidu.com/s?wd=%E5%BC%9F%E5%BC%9F%E5%BC%80%E9%BB%84%E8%85%94%E6%8A%8A%E5%93%A5%E5%93%A5%E5%A9%9A%E4%BA%8B%E6%90%85%E9%BB%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [因口角引发纠纷 男子厕所杀害女子](https://www.baidu.com/s?wd=%E5%9B%A0%E5%8F%A3%E8%A7%92%E5%BC%95%E5%8F%91%E7%BA%A0%E7%BA%B7+%E7%94%B7%E5%AD%90%E5%8E%95%E6%89%80%E6%9D%80%E5%AE%B3%E5%A5%B3%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [业主：为了卖房 我被中介“pua”了](https://www.baidu.com/s?wd=%E4%B8%9A%E4%B8%BB%EF%BC%9A%E4%B8%BA%E4%BA%86%E5%8D%96%E6%88%BF+%E6%88%91%E8%A2%AB%E4%B8%AD%E4%BB%8B%E2%80%9Cpua%E2%80%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [网红安茂元回应三亚被宰](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E5%AE%89%E8%8C%82%E5%85%83%E5%9B%9E%E5%BA%94%E4%B8%89%E4%BA%9A%E8%A2%AB%E5%AE%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [多地对网约车按下“暂停键”](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%AF%B9%E7%BD%91%E7%BA%A6%E8%BD%A6%E6%8C%89%E4%B8%8B%E2%80%9C%E6%9A%82%E5%81%9C%E9%94%AE%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [业主：为了卖房 我被中介“pua”了](https://www.baidu.com/s?wd=%E4%B8%9A%E4%B8%BB%EF%BC%9A%E4%B8%BA%E4%BA%86%E5%8D%96%E6%88%BF+%E6%88%91%E8%A2%AB%E4%B8%AD%E4%BB%8B%E2%80%9Cpua%E2%80%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [男子过生日蛋糕上名字10年被写错](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%BF%87%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95%E4%B8%8A%E5%90%8D%E5%AD%9710%E5%B9%B4%E8%A2%AB%E5%86%99%E9%94%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [弟弟开黄腔把哥哥婚事搅黄](https://www.baidu.com/s?wd=%E5%BC%9F%E5%BC%9F%E5%BC%80%E9%BB%84%E8%85%94%E6%8A%8A%E5%93%A5%E5%93%A5%E5%A9%9A%E4%BA%8B%E6%90%85%E9%BB%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [因口角引发纠纷 男子厕所杀害女子](https://www.baidu.com/s?wd=%E5%9B%A0%E5%8F%A3%E8%A7%92%E5%BC%95%E5%8F%91%E7%BA%A0%E7%BA%B7+%E7%94%B7%E5%AD%90%E5%8E%95%E6%89%80%E6%9D%80%E5%AE%B3%E5%A5%B3%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [业主：为了卖房 我被中介“pua”了](https://www.baidu.com/s?wd=%E4%B8%9A%E4%B8%BB%EF%BC%9A%E4%B8%BA%E4%BA%86%E5%8D%96%E6%88%BF+%E6%88%91%E8%A2%AB%E4%B8%AD%E4%BB%8B%E2%80%9Cpua%E2%80%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [网红安茂元回应三亚被宰](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E5%AE%89%E8%8C%82%E5%85%83%E5%9B%9E%E5%BA%94%E4%B8%89%E4%BA%9A%E8%A2%AB%E5%AE%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [多地对网约车按下“暂停键”](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%AF%B9%E7%BD%91%E7%BA%A6%E8%BD%A6%E6%8C%89%E4%B8%8B%E2%80%9C%E6%9A%82%E5%81%9C%E9%94%AE%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [业主：为了卖房 我被中介“pua”了](https://www.baidu.com/s?wd=%E4%B8%9A%E4%B8%BB%EF%BC%9A%E4%B8%BA%E4%BA%86%E5%8D%96%E6%88%BF+%E6%88%91%E8%A2%AB%E4%B8%AD%E4%BB%8B%E2%80%9Cpua%E2%80%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
