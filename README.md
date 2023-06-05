@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 08:49:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 08:50:02</h4></div>
 
 > 微博  
 
@@ -17,8 +17,8 @@
 1. [本田合资零部件厂商安斯泰莫承认造假，造假数量超 2 亿件，最长可追溯至 40 年前，此事暴露哪些问题？](https://www.zhihu.com/question/602979872)<br />
 2. [韩国出口连跌 8 个月，对中美欧出口全部下滑，芯片出口大跌 36.2%，受哪些因素影响？](https://www.zhihu.com/question/604222429)<br />
 3. [我们这代人存不下钱的原因是什么？](https://www.zhihu.com/question/603826642)<br />
-4. [苏武在贝加尔湖牧羊，条件恶劣，挖食鼠粮草根为生，他为什么不吃羊？](https://www.zhihu.com/question/25483987)<br />
-5. [《原神》和《崩坏：星穹铁道》的爆火，业界有什么看法或者启发？](https://www.zhihu.com/question/603634431)<br />
+4. [《原神》和《崩坏：星穹铁道》的爆火，业界有什么看法或者启发？](https://www.zhihu.com/question/603634431)<br />
+5. [苏武在贝加尔湖牧羊，条件恶劣，挖食鼠粮草根为生，他为什么不吃羊？](https://www.zhihu.com/question/25483987)<br />
 6. [为什么一战说法国「打光了一代人」而没有说英国「打光了一代人」?](https://www.zhihu.com/question/571031038)<br />
 7. [为什么我们中学物理课本，只承认古希腊的阿基米德的杠杆定理，而不认墨子的杠杆定理？](https://www.zhihu.com/question/603979051)<br />
 8. [有哪些生僻但很美的字或词语?](https://www.zhihu.com/question/68594276)<br />
