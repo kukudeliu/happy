@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 06:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 06:07:01</h4></div>
 
 > 微博  
 
@@ -19,9 +19,9 @@
 3. []()<br />
 4. [6 月 5 日在岸、离岸人民币对美元分别跌破 7.12 、 7.13，跌去前一交易日全部涨幅，后势将如何？](https://www.zhihu.com/question/604888554)<br />
 5. []()<br />
-6. [伊朗计划同沙特等海湾国家组建海军联盟，将产生哪些影响？](https://www.zhihu.com/question/604873437)<br />
+6. [LPL 的中国选手为什么不用中文 ID？](https://www.zhihu.com/question/594864998)<br />
 7. []()<br />
-8. [LPL 的中国选手为什么不用中文 ID？](https://www.zhihu.com/question/594864998)<br />
+8. [伊朗计划同沙特等海湾国家组建海军联盟，将产生哪些影响？](https://www.zhihu.com/question/604873437)<br />
 9. []()<br />
 
 > 百度  
