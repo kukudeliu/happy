@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 19:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 19:33:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [男子嘴贴保鲜膜忍不住亲亲宝宝](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%98%B4%E8%B4%B4%E4%BF%9D%E9%B2%9C%E8%86%9C%E5%BF%8D%E4%B8%8D%E4%BD%8F%E4%BA%B2%E4%BA%B2%E5%AE%9D%E5%AE%9D%23&t=31&band_rank=5&Refer=top)<br />
 6. [难听](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%90%AC&t=31&band_rank=6&Refer=top)<br />
 7. [49岁你还有勇气参加高考吗](https://s.weibo.com/weibo?q=%2349%E5%B2%81%E4%BD%A0%E8%BF%98%E6%9C%89%E5%8B%87%E6%B0%94%E5%8F%82%E5%8A%A0%E9%AB%98%E8%80%83%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
-8. [SMTOWN曾用EXO威胁边伯贤](https://s.weibo.com/weibo?q=%23SMTOWN%E6%9B%BE%E7%94%A8EXO%E5%A8%81%E8%83%81%E8%BE%B9%E4%BC%AF%E8%B4%A4%23&t=31&band_rank=8&Refer=top)<br />
-9. [建议实现一户一曜](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%AE%9E%E7%8E%B0%E4%B8%80%E6%88%B7%E4%B8%80%E6%9B%9C%23&t=31&band_rank=9&Refer=top)<br />
+8. [建议实现一户一曜](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%AE%9E%E7%8E%B0%E4%B8%80%E6%88%B7%E4%B8%80%E6%9B%9C%23&t=31&band_rank=8&Refer=top)<br />
+9. [SMTOWN曾用EXO威胁边伯贤](https://s.weibo.com/weibo?q=%23SMTOWN%E6%9B%BE%E7%94%A8EXO%E5%A8%81%E8%83%81%E8%BE%B9%E4%BC%AF%E8%B4%A4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
