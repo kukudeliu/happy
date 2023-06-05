@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 10:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 10:36:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [做拔智齿手术要提前录个音](https://s.weibo.com/weibo?q=%23%E5%81%9A%E6%8B%94%E6%99%BA%E9%BD%BF%E6%89%8B%E6%9C%AF%E8%A6%81%E6%8F%90%E5%89%8D%E5%BD%95%E4%B8%AA%E9%9F%B3%23&t=31&band_rank=6&Refer=top)<br />
 7. [日本女团成员灌男粉喝洗洁精](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%9B%A2%E6%88%90%E5%91%98%E7%81%8C%E7%94%B7%E7%B2%89%E5%96%9D%E6%B4%97%E6%B4%81%E7%B2%BE%23&t=31&band_rank=7&Refer=top)<br />
 8. [章若楠观众缘](https://s.weibo.com/weibo?q=%23%E7%AB%A0%E8%8B%A5%E6%A5%A0%E8%A7%82%E4%BC%97%E7%BC%98%23&t=31&band_rank=8&Refer=top)<br />
-9. [教育部发布2023高考预警](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E5%B8%832023%E9%AB%98%E8%80%83%E9%A2%84%E8%AD%A6%23&t=31&band_rank=9&Refer=top)<br />
+9. [shanji](https://s.weibo.com/weibo?q=shanji&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
