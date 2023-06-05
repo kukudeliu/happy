@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 20:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 20:34:01</h4></div>
 
 > 微博  
 
@@ -18,11 +18,11 @@
 2. [如何看待珠峰攀登者为救遇险女子放弃登顶，被救女子只愿承担 4 成救援费？](https://www.zhihu.com/question/604842993)<br />
 3. [如何看待哔哩哔哩上架的《成龙历险记》重新配音前 13 集，并删除了旧版的几十万弹幕？](https://www.zhihu.com/question/604251906)<br />
 4. [阿里巴巴全球数学竞赛参赛选手 95 后快递小哥，曾用两周证明欧拉常数公式，你身边有这样的数学隐藏高手吗？](https://www.zhihu.com/question/604783697)<br />
-5. [财政部表示，中央对地方转移支付预算正按规定抓紧下达，整体来看我国财政状况健康、安全，哪些信息值得关注？](https://www.zhihu.com/question/604877884)<br />
-6. [《狂飙》中穷苦出身的程程，考上了名牌大学，在大公司身居要职，如此励志的人，为什么最后死得那么惨？](https://www.zhihu.com/question/604132619)<br />
-7. [AI 过热后套现来了，罗斯柴尔德家族出手，「减持」英伟达，如何看待此举？英伟达的估值是否过高？](https://www.zhihu.com/question/604832745)<br />
-8. [为杜绝替考，高考期间山东大学生不得请假离校，如何评价该措施，是否还有其他合理的防替考措施？](https://www.zhihu.com/question/604871319)<br />
-9. [为什么进口牛肉反而比国产牛肉更便宜？](https://www.zhihu.com/question/600043391)<br />
+5. [都说生化环材是「四大天坑」，到底坑在哪里？](https://www.zhihu.com/theater/10768)<br />
+6. [财政部表示，中央对地方转移支付预算正按规定抓紧下达，整体来看我国财政状况健康、安全，哪些信息值得关注？](https://www.zhihu.com/question/604877884)<br />
+7. [《狂飙》中穷苦出身的程程，考上了名牌大学，在大公司身居要职，如此励志的人，为什么最后死得那么惨？](https://www.zhihu.com/question/604132619)<br />
+8. [AI 过热后套现来了，罗斯柴尔德家族出手，「减持」英伟达，如何看待此举？英伟达的估值是否过高？](https://www.zhihu.com/question/604832745)<br />
+9. [为杜绝替考，高考期间山东大学生不得请假离校，如何评价该措施，是否还有其他合理的防替考措施？](https://www.zhihu.com/question/604871319)<br />
 
 > 百度  
 
@@ -32,9 +32,9 @@
 4. [环境保护的耀眼“实绩”](https://www.baidu.com/s?wd=%E7%8E%AF%E5%A2%83%E4%BF%9D%E6%8A%A4%E7%9A%84%E8%80%80%E7%9C%BC%E2%80%9C%E5%AE%9E%E7%BB%A9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [花30万可让梅西敬酒？北京警方回应](https://www.baidu.com/s?wd=%E8%8A%B130%E4%B8%87%E5%8F%AF%E8%AE%A9%E6%A2%85%E8%A5%BF%E6%95%AC%E9%85%92%EF%BC%9F%E5%8C%97%E4%BA%AC%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [婆婆与儿媳争执将农药倒进其水井](https://www.baidu.com/s?wd=%E5%A9%86%E5%A9%86%E4%B8%8E%E5%84%BF%E5%AA%B3%E4%BA%89%E6%89%A7%E5%B0%86%E5%86%9C%E8%8D%AF%E5%80%92%E8%BF%9B%E5%85%B6%E6%B0%B4%E4%BA%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [一个村考出300多大学生6个北大](https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E6%9D%91%E8%80%83%E5%87%BA300%E5%A4%9A%E5%A4%A7%E5%AD%A6%E7%94%9F6%E4%B8%AA%E5%8C%97%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [淄博张店烧烤倡议高考停业三天](https://www.baidu.com/s?wd=%E6%B7%84%E5%8D%9A%E5%BC%A0%E5%BA%97%E7%83%A7%E7%83%A4%E5%80%A1%E8%AE%AE%E9%AB%98%E8%80%83%E5%81%9C%E4%B8%9A%E4%B8%89%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [娜扎时隔七年重开评论区](https://www.baidu.com/s?wd=%E5%A8%9C%E6%89%8E%E6%97%B6%E9%9A%94%E4%B8%83%E5%B9%B4%E9%87%8D%E5%BC%80%E8%AF%84%E8%AE%BA%E5%8C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [淄博张店烧烤倡议高考停业三天](https://www.baidu.com/s?wd=%E6%B7%84%E5%8D%9A%E5%BC%A0%E5%BA%97%E7%83%A7%E7%83%A4%E5%80%A1%E8%AE%AE%E9%AB%98%E8%80%83%E5%81%9C%E4%B8%9A%E4%B8%89%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [一个村考出300多大学生6个北大](https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E6%9D%91%E8%80%83%E5%87%BA300%E5%A4%9A%E5%A4%A7%E5%AD%A6%E7%94%9F6%E4%B8%AA%E5%8C%97%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [业主：为了卖房 我被中介“pua”了](https://www.baidu.com/s?wd=%E4%B8%9A%E4%B8%BB%EF%BC%9A%E4%B8%BA%E4%BA%86%E5%8D%96%E6%88%BF+%E6%88%91%E8%A2%AB%E4%B8%AD%E4%BB%8B%E2%80%9Cpua%E2%80%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [环境保护的耀眼“实绩”](https://www.baidu.com/s?wd=%E7%8E%AF%E5%A2%83%E4%BF%9D%E6%8A%A4%E7%9A%84%E8%80%80%E7%9C%BC%E2%80%9C%E5%AE%9E%E7%BB%A9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [花30万可让梅西敬酒？北京警方回应](https://www.baidu.com/s?wd=%E8%8A%B130%E4%B8%87%E5%8F%AF%E8%AE%A9%E6%A2%85%E8%A5%BF%E6%95%AC%E9%85%92%EF%BC%9F%E5%8C%97%E4%BA%AC%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [婆婆与儿媳争执将农药倒进其水井](https://www.baidu.com/s?wd=%E5%A9%86%E5%A9%86%E4%B8%8E%E5%84%BF%E5%AA%B3%E4%BA%89%E6%89%A7%E5%B0%86%E5%86%9C%E8%8D%AF%E5%80%92%E8%BF%9B%E5%85%B6%E6%B0%B4%E4%BA%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [一个村考出300多大学生6个北大](https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E6%9D%91%E8%80%83%E5%87%BA300%E5%A4%9A%E5%A4%A7%E5%AD%A6%E7%94%9F6%E4%B8%AA%E5%8C%97%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [淄博张店烧烤倡议高考停业三天](https://www.baidu.com/s?wd=%E6%B7%84%E5%8D%9A%E5%BC%A0%E5%BA%97%E7%83%A7%E7%83%A4%E5%80%A1%E8%AE%AE%E9%AB%98%E8%80%83%E5%81%9C%E4%B8%9A%E4%B8%89%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [娜扎时隔七年重开评论区](https://www.baidu.com/s?wd=%E5%A8%9C%E6%89%8E%E6%97%B6%E9%9A%94%E4%B8%83%E5%B9%B4%E9%87%8D%E5%BC%80%E8%AF%84%E8%AE%BA%E5%8C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [淄博张店烧烤倡议高考停业三天](https://www.baidu.com/s?wd=%E6%B7%84%E5%8D%9A%E5%BC%A0%E5%BA%97%E7%83%A7%E7%83%A4%E5%80%A1%E8%AE%AE%E9%AB%98%E8%80%83%E5%81%9C%E4%B8%9A%E4%B8%89%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [一个村考出300多大学生6个北大](https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E6%9D%91%E8%80%83%E5%87%BA300%E5%A4%9A%E5%A4%A7%E5%AD%A6%E7%94%9F6%E4%B8%AA%E5%8C%97%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [业主：为了卖房 我被中介“pua”了](https://www.baidu.com/s?wd=%E4%B8%9A%E4%B8%BB%EF%BC%9A%E4%B8%BA%E4%BA%86%E5%8D%96%E6%88%BF+%E6%88%91%E8%A2%AB%E4%B8%AD%E4%BB%8B%E2%80%9Cpua%E2%80%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
