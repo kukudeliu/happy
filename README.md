@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 09:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 09:25:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [男子连吃100天麦当劳减重53斤](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%BF%9E%E5%90%83100%E5%A4%A9%E9%BA%A6%E5%BD%93%E5%8A%B3%E5%87%8F%E9%87%8D53%E6%96%A4%23&t=31&band_rank=6&Refer=top)<br />
 7. [章若楠观众缘](https://s.weibo.com/weibo?q=%23%E7%AB%A0%E8%8B%A5%E6%A5%A0%E8%A7%82%E4%BC%97%E7%BC%98%23&t=31&band_rank=7&Refer=top)<br />
 8. [杨紫 唯一纯白茉莉花](https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%20%E5%94%AF%E4%B8%80%E7%BA%AF%E7%99%BD%E8%8C%89%E8%8E%89%E8%8A%B1&t=31&band_rank=8&Refer=top)<br />
-9. [国内出现偏肺病毒感染](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%86%85%E5%87%BA%E7%8E%B0%E5%81%8F%E8%82%BA%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93%23&t=31&band_rank=9&Refer=top)<br />
+9. [教育部发布2023高考预警](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E5%B8%832023%E9%AB%98%E8%80%83%E9%A2%84%E8%AD%A6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
