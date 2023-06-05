@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 02:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 02:17:01</h4></div>
 
 > 微博  
 
@@ -9,15 +9,15 @@
 5. [苹果出头显你会买吗](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%87%BA%E5%A4%B4%E6%98%BE%E4%BD%A0%E4%BC%9A%E4%B9%B0%E5%90%97%23&t=31&band_rank=5&Refer=top)<br />
 6. [天津碧桂园](https://s.weibo.com/weibo?q=%E5%A4%A9%E6%B4%A5%E7%A2%A7%E6%A1%82%E5%9B%AD&t=31&band_rank=6&Refer=top)<br />
 7. [有刘海的刘浩存](https://s.weibo.com/weibo?q=%23%E6%9C%89%E5%88%98%E6%B5%B7%E7%9A%84%E5%88%98%E6%B5%A9%E5%AD%98%23&t=31&band_rank=7&Refer=top)<br />
-8. [M2 Ultra](https://s.weibo.com/weibo?q=M2%20Ultra&t=31&band_rank=8&Refer=top)<br />
-9. [死亡搁浅将登陆Mac](https://s.weibo.com/weibo?q=%E6%AD%BB%E4%BA%A1%E6%90%81%E6%B5%85%E5%B0%86%E7%99%BB%E9%99%86Mac&t=31&band_rank=9&Refer=top)<br />
+8. [死亡搁浅将登陆Mac](https://s.weibo.com/weibo?q=%E6%AD%BB%E4%BA%A1%E6%90%81%E6%B5%85%E5%B0%86%E7%99%BB%E9%99%86Mac&t=31&band_rank=8&Refer=top)<br />
+9. [M2 Ultra](https://s.weibo.com/weibo?q=M2%20Ultra&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [如何看待珠峰攀登者为救遇险女子放弃登顶，被救女子只愿承担 4 成救援费？](https://www.zhihu.com/question/604842993)<br />
 2. [财政部表示，中央对地方转移支付预算正按规定抓紧下达，整体来看我国财政状况健康、安全，哪些信息值得关注？](https://www.zhihu.com/question/604877884)<br />
-3. [我们这代人存不下钱的原因是什么？](https://www.zhihu.com/question/603826642)<br />
-4. [如何看待哔哩哔哩上架的《成龙历险记》重新配音前 13 集，并删除了旧版的几十万弹幕？](https://www.zhihu.com/question/604251906)<br />
+3. [如何看待哔哩哔哩上架的《成龙历险记》重新配音前 13 集，并删除了旧版的几十万弹幕？](https://www.zhihu.com/question/604251906)<br />
+4. [我们这代人存不下钱的原因是什么？](https://www.zhihu.com/question/603826642)<br />
 5. [6 月 5 日在岸、离岸人民币对美元分别跌破 7.12 、 7.13，跌去前一交易日全部涨幅，后势将如何？](https://www.zhihu.com/question/604888554)<br />
 6. [中国什么地方最安全不会地震？](https://www.zhihu.com/question/24769341)<br />
 7. [华为已申请 GPT 相关商标，此前曾表示「底层技术不比 ChatGPT 少」，哪些信息值得关注？](https://www.zhihu.com/question/604871143)<br />
