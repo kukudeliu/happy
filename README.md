@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 04:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 04:22:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [多地对网约车按下“暂停键”](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%AF%B9%E7%BD%91%E7%BA%A6%E8%BD%A6%E6%8C%89%E4%B8%8B%E2%80%9C%E6%9A%82%E5%81%9C%E9%94%AE%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [日本女子因华航空姐没讲日语暴怒辱骂](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%AD%90%E5%9B%A0%E5%8D%8E%E8%88%AA%E7%A9%BA%E5%A7%90%E6%B2%A1%E8%AE%B2%E6%97%A5%E8%AF%AD%E6%9A%B4%E6%80%92%E8%BE%B1%E9%AA%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [登珠峰获救女子只愿承担4成救援费](https://www.baidu.com/s?wd=%E7%99%BB%E7%8F%A0%E5%B3%B0%E8%8E%B7%E6%95%91%E5%A5%B3%E5%AD%90%E5%8F%AA%E6%84%BF%E6%89%BF%E6%8B%854%E6%88%90%E6%95%91%E6%8F%B4%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [香港3名女童死亡 母亲疑是凶手](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF3%E5%90%8D%E5%A5%B3%E7%AB%A5%E6%AD%BB%E4%BA%A1+%E6%AF%8D%E4%BA%B2%E7%96%91%E6%98%AF%E5%87%B6%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [6000元喜宴16道菜有7成是预制](https://www.baidu.com/s?wd=6000%E5%85%83%E5%96%9C%E5%AE%B416%E9%81%93%E8%8F%9C%E6%9C%897%E6%88%90%E6%98%AF%E9%A2%84%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [多地对网约车按下“暂停键”](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%AF%B9%E7%BD%91%E7%BA%A6%E8%BD%A6%E6%8C%89%E4%B8%8B%E2%80%9C%E6%9A%82%E5%81%9C%E9%94%AE%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [日本女子因华航空姐没讲日语暴怒辱骂](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%AD%90%E5%9B%A0%E5%8D%8E%E8%88%AA%E7%A9%BA%E5%A7%90%E6%B2%A1%E8%AE%B2%E6%97%A5%E8%AF%AD%E6%9A%B4%E6%80%92%E8%BE%B1%E9%AA%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [登珠峰获救女子只愿承担4成救援费](https://www.baidu.com/s?wd=%E7%99%BB%E7%8F%A0%E5%B3%B0%E8%8E%B7%E6%95%91%E5%A5%B3%E5%AD%90%E5%8F%AA%E6%84%BF%E6%89%BF%E6%8B%854%E6%88%90%E6%95%91%E6%8F%B4%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [香港3名女童死亡 母亲疑是凶手](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF3%E5%90%8D%E5%A5%B3%E7%AB%A5%E6%AD%BB%E4%BA%A1+%E6%AF%8D%E4%BA%B2%E7%96%91%E6%98%AF%E5%87%B6%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [6000元喜宴16道菜有7成是预制](https://www.baidu.com/s?wd=6000%E5%85%83%E5%96%9C%E5%AE%B416%E9%81%93%E8%8F%9C%E6%9C%897%E6%88%90%E6%98%AF%E9%A2%84%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
