@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 02:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 02:40:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [华为已申请 GPT 相关商标，此前曾表示「底层技术不比 ChatGPT 少」，哪些信息值得关注？](https://www.zhihu.com/question/604871143)<br />
 7. [LPL 的中国选手为什么不用中文 ID？](https://www.zhihu.com/question/594864998)<br />
 8. []()<br />
-9. [我们这代人存不下钱的原因是什么？](https://www.zhihu.com/question/603826642)<br />
+9. []()<br />
 
 > 百度  
 
@@ -32,9 +32,9 @@
 4. [环境保护的耀眼“实绩”](https://www.baidu.com/s?wd=%E7%8E%AF%E5%A2%83%E4%BF%9D%E6%8A%A4%E7%9A%84%E8%80%80%E7%9C%BC%E2%80%9C%E5%AE%9E%E7%BB%A9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [#苹果WWDC2023#](https://www.baidu.com/s?wd=%23%E8%8B%B9%E6%9E%9CWWDC2023%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女酒托点万元酒水被逼喝完系谣言](https://www.baidu.com/s?wd=%E5%A5%B3%E9%85%92%E6%89%98%E7%82%B9%E4%B8%87%E5%85%83%E9%85%92%E6%B0%B4%E8%A2%AB%E9%80%BC%E5%96%9D%E5%AE%8C%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [一个村考出300多大学生6个北大](https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E6%9D%91%E8%80%83%E5%87%BA300%E5%A4%9A%E5%A4%A7%E5%AD%A6%E7%94%9F6%E4%B8%AA%E5%8C%97%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [北航硕士毕业后当健身教练](https://www.baidu.com/s?wd=%E5%8C%97%E8%88%AA%E7%A1%95%E5%A3%AB%E6%AF%95%E4%B8%9A%E5%90%8E%E5%BD%93%E5%81%A5%E8%BA%AB%E6%95%99%E7%BB%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [官方通报重庆一小区地面沉降下陷](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E9%87%8D%E5%BA%86%E4%B8%80%E5%B0%8F%E5%8C%BA%E5%9C%B0%E9%9D%A2%E6%B2%89%E9%99%8D%E4%B8%8B%E9%99%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [北航硕士毕业后当健身教练](https://www.baidu.com/s?wd=%E5%8C%97%E8%88%AA%E7%A1%95%E5%A3%AB%E6%AF%95%E4%B8%9A%E5%90%8E%E5%BD%93%E5%81%A5%E8%BA%AB%E6%95%99%E7%BB%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [一个村考出300多大学生6个北大](https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E6%9D%91%E8%80%83%E5%87%BA300%E5%A4%9A%E5%A4%A7%E5%AD%A6%E7%94%9F6%E4%B8%AA%E5%8C%97%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [日本女子因华航空姐没讲日语暴怒辱骂](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%AD%90%E5%9B%A0%E5%8D%8E%E8%88%AA%E7%A9%BA%E5%A7%90%E6%B2%A1%E8%AE%B2%E6%97%A5%E8%AF%AD%E6%9A%B4%E6%80%92%E8%BE%B1%E9%AA%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [环境保护的耀眼“实绩”](https://www.baidu.com/s?wd=%E7%8E%AF%E5%A2%83%E4%BF%9D%E6%8A%A4%E7%9A%84%E8%80%80%E7%9C%BC%E2%80%9C%E5%AE%9E%E7%BB%A9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [#苹果WWDC2023#](https://www.baidu.com/s?wd=%23%E8%8B%B9%E6%9E%9CWWDC2023%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女酒托点万元酒水被逼喝完系谣言](https://www.baidu.com/s?wd=%E5%A5%B3%E9%85%92%E6%89%98%E7%82%B9%E4%B8%87%E5%85%83%E9%85%92%E6%B0%B4%E8%A2%AB%E9%80%BC%E5%96%9D%E5%AE%8C%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [一个村考出300多大学生6个北大](https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E6%9D%91%E8%80%83%E5%87%BA300%E5%A4%9A%E5%A4%A7%E5%AD%A6%E7%94%9F6%E4%B8%AA%E5%8C%97%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [北航硕士毕业后当健身教练](https://www.baidu.com/s?wd=%E5%8C%97%E8%88%AA%E7%A1%95%E5%A3%AB%E6%AF%95%E4%B8%9A%E5%90%8E%E5%BD%93%E5%81%A5%E8%BA%AB%E6%95%99%E7%BB%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [官方通报重庆一小区地面沉降下陷](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E9%87%8D%E5%BA%86%E4%B8%80%E5%B0%8F%E5%8C%BA%E5%9C%B0%E9%9D%A2%E6%B2%89%E9%99%8D%E4%B8%8B%E9%99%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [北航硕士毕业后当健身教练](https://www.baidu.com/s?wd=%E5%8C%97%E8%88%AA%E7%A1%95%E5%A3%AB%E6%AF%95%E4%B8%9A%E5%90%8E%E5%BD%93%E5%81%A5%E8%BA%AB%E6%95%99%E7%BB%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [一个村考出300多大学生6个北大](https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E6%9D%91%E8%80%83%E5%87%BA300%E5%A4%9A%E5%A4%A7%E5%AD%A6%E7%94%9F6%E4%B8%AA%E5%8C%97%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [日本女子因华航空姐没讲日语暴怒辱骂](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%AD%90%E5%9B%A0%E5%8D%8E%E8%88%AA%E7%A9%BA%E5%A7%90%E6%B2%A1%E8%AE%B2%E6%97%A5%E8%AF%AD%E6%9A%B4%E6%80%92%E8%BE%B1%E9%AA%82&sa=fyb_news&rsv_dl=fyb_news)<br />
