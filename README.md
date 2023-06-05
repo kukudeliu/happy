@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 03:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 03:43:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [吴倩 退赛](https://s.weibo.com/weibo?q=%E5%90%B4%E5%80%A9%20%E9%80%80%E8%B5%9B&t=31&band_rank=2&Refer=top)<br />
 3. [首艘国产大型邮轮有2500万个零部件](https://s.weibo.com/weibo?q=%23%E9%A6%96%E8%89%98%E5%9B%BD%E4%BA%A7%E5%A4%A7%E5%9E%8B%E9%82%AE%E8%BD%AE%E6%9C%892500%E4%B8%87%E4%B8%AA%E9%9B%B6%E9%83%A8%E4%BB%B6%23&t=31&band_rank=3&Refer=top)<br />
 4. [苹果发布会](https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=4&Refer=top)<br />
-5. [iOS17](https://s.weibo.com/weibo?q=iOS17&t=31&band_rank=5&Refer=top)<br />
-6. [Vision Pro 眼睛手势操作](https://s.weibo.com/weibo?q=Vision%20Pro%20%E7%9C%BC%E7%9D%9B%E6%89%8B%E5%8A%BF%E6%93%8D%E4%BD%9C&t=31&band_rank=6&Refer=top)<br />
+5. [Vision Pro 眼睛手势操作](https://s.weibo.com/weibo?q=Vision%20Pro%20%E7%9C%BC%E7%9D%9B%E6%89%8B%E5%8A%BF%E6%93%8D%E4%BD%9C&t=31&band_rank=5&Refer=top)<br />
+6. [iOS17](https://s.weibo.com/weibo?q=iOS17&t=31&band_rank=6&Refer=top)<br />
 7. [苹果出头显你会买吗](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%87%BA%E5%A4%B4%E6%98%BE%E4%BD%A0%E4%BC%9A%E4%B9%B0%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
 8. [库克 今年将是最精彩WWDC](https://s.weibo.com/weibo?q=%E5%BA%93%E5%85%8B%20%E4%BB%8A%E5%B9%B4%E5%B0%86%E6%98%AF%E6%9C%80%E7%B2%BE%E5%BD%A9WWDC&t=31&band_rank=8&Refer=top)<br />
 9. [天津碧桂园](https://s.weibo.com/weibo?q=%E5%A4%A9%E6%B4%A5%E7%A2%A7%E6%A1%82%E5%9B%AD&t=31&band_rank=9&Refer=top)<br />
@@ -21,8 +21,8 @@
 5. []()<br />
 6. []()<br />
 7. [LPL 的中国选手为什么不用中文 ID？](https://www.zhihu.com/question/594864998)<br />
-8. [华为已申请 GPT 相关商标，此前曾表示「底层技术不比 ChatGPT 少」，哪些信息值得关注？](https://www.zhihu.com/question/604871143)<br />
-9. []()<br />
+8. []()<br />
+9. [中国什么地方最安全不会地震？](https://www.zhihu.com/question/24769341)<br />
 
 > 百度  
 
