@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 00:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 00:44:02</h4></div>
 
 > 微博  
 
@@ -32,9 +32,9 @@
 4. [环境保护的耀眼“实绩”](https://www.baidu.com/s?wd=%E7%8E%AF%E5%A2%83%E4%BF%9D%E6%8A%A4%E7%9A%84%E8%80%80%E7%9C%BC%E2%80%9C%E5%AE%9E%E7%BB%A9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [#苹果WWDC2023#](https://www.baidu.com/s?wd=%23%E8%8B%B9%E6%9E%9CWWDC2023%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [日本女子因华航空姐没讲日语暴怒辱骂](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%AD%90%E5%9B%A0%E5%8D%8E%E8%88%AA%E7%A9%BA%E5%A7%90%E6%B2%A1%E8%AE%B2%E6%97%A5%E8%AF%AD%E6%9A%B4%E6%80%92%E8%BE%B1%E9%AA%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [为救遇险女子放弃登顶当事人发声](https://www.baidu.com/s?wd=%E4%B8%BA%E6%95%91%E9%81%87%E9%99%A9%E5%A5%B3%E5%AD%90%E6%94%BE%E5%BC%83%E7%99%BB%E9%A1%B6%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [母亲病危家人让高考孩子见最后一面](https://www.baidu.com/s?wd=%E6%AF%8D%E4%BA%B2%E7%97%85%E5%8D%B1%E5%AE%B6%E4%BA%BA%E8%AE%A9%E9%AB%98%E8%80%83%E5%AD%A9%E5%AD%90%E8%A7%81%E6%9C%80%E5%90%8E%E4%B8%80%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [主办方回应张杰演唱会救护车带人进场](https://www.baidu.com/s?wd=%E4%B8%BB%E5%8A%9E%E6%96%B9%E5%9B%9E%E5%BA%94%E5%BC%A0%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E6%95%91%E6%8A%A4%E8%BD%A6%E5%B8%A6%E4%BA%BA%E8%BF%9B%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [主办方回应张杰演唱会救护车带人进场](https://www.baidu.com/s?wd=%E4%B8%BB%E5%8A%9E%E6%96%B9%E5%9B%9E%E5%BA%94%E5%BC%A0%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E6%95%91%E6%8A%A4%E8%BD%A6%E5%B8%A6%E4%BA%BA%E8%BF%9B%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [校长发3000个红包为高考生加油](https://www.baidu.com/s?wd=%E6%A0%A1%E9%95%BF%E5%8F%913000%E4%B8%AA%E7%BA%A2%E5%8C%85%E4%B8%BA%E9%AB%98%E8%80%83%E7%94%9F%E5%8A%A0%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [母亲病危家人让高考孩子见最后一面](https://www.baidu.com/s?wd=%E6%AF%8D%E4%BA%B2%E7%97%85%E5%8D%B1%E5%AE%B6%E4%BA%BA%E8%AE%A9%E9%AB%98%E8%80%83%E5%AD%A9%E5%AD%90%E8%A7%81%E6%9C%80%E5%90%8E%E4%B8%80%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [环境保护的耀眼“实绩”](https://www.baidu.com/s?wd=%E7%8E%AF%E5%A2%83%E4%BF%9D%E6%8A%A4%E7%9A%84%E8%80%80%E7%9C%BC%E2%80%9C%E5%AE%9E%E7%BB%A9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [#苹果WWDC2023#](https://www.baidu.com/s?wd=%23%E8%8B%B9%E6%9E%9CWWDC2023%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [日本女子因华航空姐没讲日语暴怒辱骂](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%AD%90%E5%9B%A0%E5%8D%8E%E8%88%AA%E7%A9%BA%E5%A7%90%E6%B2%A1%E8%AE%B2%E6%97%A5%E8%AF%AD%E6%9A%B4%E6%80%92%E8%BE%B1%E9%AA%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [为救遇险女子放弃登顶当事人发声](https://www.baidu.com/s?wd=%E4%B8%BA%E6%95%91%E9%81%87%E9%99%A9%E5%A5%B3%E5%AD%90%E6%94%BE%E5%BC%83%E7%99%BB%E9%A1%B6%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [母亲病危家人让高考孩子见最后一面](https://www.baidu.com/s?wd=%E6%AF%8D%E4%BA%B2%E7%97%85%E5%8D%B1%E5%AE%B6%E4%BA%BA%E8%AE%A9%E9%AB%98%E8%80%83%E5%AD%A9%E5%AD%90%E8%A7%81%E6%9C%80%E5%90%8E%E4%B8%80%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [主办方回应张杰演唱会救护车带人进场](https://www.baidu.com/s?wd=%E4%B8%BB%E5%8A%9E%E6%96%B9%E5%9B%9E%E5%BA%94%E5%BC%A0%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E6%95%91%E6%8A%A4%E8%BD%A6%E5%B8%A6%E4%BA%BA%E8%BF%9B%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [主办方回应张杰演唱会救护车带人进场](https://www.baidu.com/s?wd=%E4%B8%BB%E5%8A%9E%E6%96%B9%E5%9B%9E%E5%BA%94%E5%BC%A0%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E6%95%91%E6%8A%A4%E8%BD%A6%E5%B8%A6%E4%BA%BA%E8%BF%9B%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [校长发3000个红包为高考生加油](https://www.baidu.com/s?wd=%E6%A0%A1%E9%95%BF%E5%8F%913000%E4%B8%AA%E7%BA%A2%E5%8C%85%E4%B8%BA%E9%AB%98%E8%80%83%E7%94%9F%E5%8A%A0%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [母亲病危家人让高考孩子见最后一面](https://www.baidu.com/s?wd=%E6%AF%8D%E4%BA%B2%E7%97%85%E5%8D%B1%E5%AE%B6%E4%BA%BA%E8%AE%A9%E9%AB%98%E8%80%83%E5%AD%A9%E5%AD%90%E8%A7%81%E6%9C%80%E5%90%8E%E4%B8%80%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
