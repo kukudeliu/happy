@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 13:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 13:13:02</h4></div>
 
 > 微博  
 
@@ -19,9 +19,9 @@
 3. [中国有哪些逆天的文物？](https://www.zhihu.com/question/22638720)<br />
 4. [大量安卓用户逃离换 iPhone，Android 13 保有量不足 15%，背后原因有哪些？](https://www.zhihu.com/question/604820761)<br />
 5. [你见过最冷静的人是怎么样的？](https://www.zhihu.com/question/315251005)<br />
-6. [2022-23 赛季 NBA 总决赛热火险胜掘金扳成 1:1，巴特勒 21+9，如何评价这场比赛？](https://www.zhihu.com/question/604817391)<br />
+6. [报告称毕业生租房租金主要来自父母，有人 45% 收入用于交房租，如何看待此数据？毕业后一直租房可行吗？](https://www.zhihu.com/question/604420104)<br />
 7. [如何看待哔哩哔哩上架的《成龙历险记》重新配音前 13 集，并删除了旧版的几十万弹幕？](https://www.zhihu.com/question/604251906)<br />
-8. [报告称毕业生租房租金主要来自父母，有人 45% 收入用于交房租，如何看待此数据？毕业后一直租房可行吗？](https://www.zhihu.com/question/604420104)<br />
+8. [2022-23 赛季 NBA 总决赛热火险胜掘金扳成 1:1，巴特勒 21+9，如何评价这场比赛？](https://www.zhihu.com/question/604817391)<br />
 9. [隐藏式门把手会不会是汽车的一个安全隐患？](https://www.zhihu.com/question/604174782)<br />
 
 > 百度  
