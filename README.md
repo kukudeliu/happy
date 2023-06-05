@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 11:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 11:52:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [隐藏式门把手会不会是汽车的一个安全隐患？](https://www.zhihu.com/question/604174782)<br />
 7. [618 有哪些「不踩雷」的个护单品值得入手？](https://www.zhihu.com/question/602603559)<br />
 8. []()<br />
-9. [比亚迪「冠军版」海豹中搭载的 CTB 和 iTAC 技术，能给日常用车带来怎样的提升？](https://www.zhihu.com/question/604671112)<br />
+9. []()<br />
 
 > 百度  
 
