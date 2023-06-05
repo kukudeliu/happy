@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 07:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 07:45:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [有刘海的刘浩存](https://s.weibo.com/weibo?q=%23%E6%9C%89%E5%88%98%E6%B5%B7%E7%9A%84%E5%88%98%E6%B5%A9%E5%AD%98%23&t=31&band_rank=5&Refer=top)<br />
 6. [夫妻离婚均不愿养娃法院判不许离](https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E7%A6%BB%E5%A9%9A%E5%9D%87%E4%B8%8D%E6%84%BF%E5%85%BB%E5%A8%83%E6%B3%95%E9%99%A2%E5%88%A4%E4%B8%8D%E8%AE%B8%E7%A6%BB%23&t=31&band_rank=6&Refer=top)<br />
 7. [业主购42套房全部打通墙体](https://s.weibo.com/weibo?q=%23%E4%B8%9A%E4%B8%BB%E8%B4%AD42%E5%A5%97%E6%88%BF%E5%85%A8%E9%83%A8%E6%89%93%E9%80%9A%E5%A2%99%E4%BD%93%23&t=31&band_rank=7&Refer=top)<br />
-8. [空姐未讲日语被日本女子辱骂](https://s.weibo.com/weibo?q=%23%E7%A9%BA%E5%A7%90%E6%9C%AA%E8%AE%B2%E6%97%A5%E8%AF%AD%E8%A2%AB%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%AD%90%E8%BE%B1%E9%AA%82%23&t=31&band_rank=8&Refer=top)<br />
-9. [长牙的鸭脖令人如鲠在喉](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%89%99%E7%9A%84%E9%B8%AD%E8%84%96%E4%BB%A4%E4%BA%BA%E5%A6%82%E9%B2%A0%E5%9C%A8%E5%96%89%23&t=31&band_rank=9&Refer=top)<br />
+8. [长牙的鸭脖令人如鲠在喉](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%89%99%E7%9A%84%E9%B8%AD%E8%84%96%E4%BB%A4%E4%BA%BA%E5%A6%82%E9%B2%A0%E5%9C%A8%E5%96%89%23&t=31&band_rank=8&Refer=top)<br />
+9. [空姐未讲日语被日本女子辱骂](https://s.weibo.com/weibo?q=%23%E7%A9%BA%E5%A7%90%E6%9C%AA%E8%AE%B2%E6%97%A5%E8%AF%AD%E8%A2%AB%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%AD%90%E8%BE%B1%E9%AA%82%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -20,7 +20,7 @@
 4. [6 月 5 日在岸、离岸人民币对美元分别跌破 7.12 、 7.13，跌去前一交易日全部涨幅，后势将如何？](https://www.zhihu.com/question/604888554)<br />
 5. [如何评价苹果于 2023 年 6 月 6 日发布的新款 Mac Pro?](https://www.zhihu.com/question/604990649)<br />
 6. [你们博士毕业的时候，最初的学术梦想还在吗？](https://www.zhihu.com/question/437154680)<br />
-7. []()<br />
+7. [高考考不上本科，是复读还是上大专?](https://www.zhihu.com/question/604518335)<br />
 8. []()<br />
 9. [苹果 WWDC 开发者大会定档北京时间 6 月 6 凌晨 1 点，有哪些值得关注的点？](https://www.zhihu.com/question/603949196)<br />
 
