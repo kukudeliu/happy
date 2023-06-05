@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 21:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 21:50:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [建议实现一户一曜](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%AE%9E%E7%8E%B0%E4%B8%80%E6%88%B7%E4%B8%80%E6%9B%9C%23&t=31&band_rank=6&Refer=top)<br />
 7. [某某影视化](https://s.weibo.com/weibo?q=%E6%9F%90%E6%9F%90%E5%BD%B1%E8%A7%86%E5%8C%96&t=31&band_rank=7&Refer=top)<br />
 8. [男子嘴贴保鲜膜忍不住亲亲宝宝](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%98%B4%E8%B4%B4%E4%BF%9D%E9%B2%9C%E8%86%9C%E5%BF%8D%E4%B8%8D%E4%BD%8F%E4%BA%B2%E4%BA%B2%E5%AE%9D%E5%AE%9D%23&t=31&band_rank=8&Refer=top)<br />
-9. [别信了梅西不会来敬酒](https://s.weibo.com/weibo?q=%23%E5%88%AB%E4%BF%A1%E4%BA%86%E6%A2%85%E8%A5%BF%E4%B8%8D%E4%BC%9A%E6%9D%A5%E6%95%AC%E9%85%92%23&t=31&band_rank=9&Refer=top)<br />
+9. [她只是长得好看并且很健谈罢了](https://s.weibo.com/weibo?q=%E5%A5%B9%E5%8F%AA%E6%98%AF%E9%95%BF%E5%BE%97%E5%A5%BD%E7%9C%8B%E5%B9%B6%E4%B8%94%E5%BE%88%E5%81%A5%E8%B0%88%E7%BD%A2%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
