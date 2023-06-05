@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 06:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 06:29:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [6 月 5 日在岸、离岸人民币对美元分别跌破 7.12 、 7.13，跌去前一交易日全部涨幅，后势将如何？](https://www.zhihu.com/question/604888554)<br />
 5. []()<br />
 6. []()<br />
-7. [华为已申请 GPT 相关商标，此前曾表示「底层技术不比 ChatGPT 少」，哪些信息值得关注？](https://www.zhihu.com/question/604871143)<br />
-8. []()<br />
-9. [你这一辈子，悟出一个最大的道理是什么?](https://www.zhihu.com/question/599006651)<br />
+7. [你这一辈子，悟出一个最大的道理是什么?](https://www.zhihu.com/question/599006651)<br />
+8. [LPL 的中国选手为什么不用中文 ID？](https://www.zhihu.com/question/594864998)<br />
+9. []()<br />
 
 > 百度  
 
