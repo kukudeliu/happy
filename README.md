@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 16:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 16:24:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [男子过生日蛋糕上名字10年被写错](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%BF%87%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95%E4%B8%8A%E5%90%8D%E5%AD%9710%E5%B9%B4%E8%A2%AB%E5%86%99%E9%94%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [高三学生买蛋糕庆祝被纪律老师砸坏](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%89%E5%AD%A6%E7%94%9F%E4%B9%B0%E8%9B%8B%E7%B3%95%E5%BA%86%E7%A5%9D%E8%A2%AB%E7%BA%AA%E5%BE%8B%E8%80%81%E5%B8%88%E7%A0%B8%E5%9D%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [6000元喜宴16道菜有7成是预制](https://www.baidu.com/s?wd=6000%E5%85%83%E5%96%9C%E5%AE%B416%E9%81%93%E8%8F%9C%E6%9C%897%E6%88%90%E6%98%AF%E9%A2%84%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [武汉市副市长王清华被查](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E5%B8%82%E5%89%AF%E5%B8%82%E9%95%BF%E7%8E%8B%E6%B8%85%E5%8D%8E%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [于正新剧又是双女主](https://www.baidu.com/s?wd=%E4%BA%8E%E6%AD%A3%E6%96%B0%E5%89%A7%E5%8F%88%E6%98%AF%E5%8F%8C%E5%A5%B3%E4%B8%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [山东：高考期高校学生不得请假离校](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%EF%BC%9A%E9%AB%98%E8%80%83%E6%9C%9F%E9%AB%98%E6%A0%A1%E5%AD%A6%E7%94%9F%E4%B8%8D%E5%BE%97%E8%AF%B7%E5%81%87%E7%A6%BB%E6%A0%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [武汉市副市长王清华被查](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E5%B8%82%E5%89%AF%E5%B8%82%E9%95%BF%E7%8E%8B%E6%B8%85%E5%8D%8E%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [男子过生日蛋糕上名字10年被写错](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%BF%87%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95%E4%B8%8A%E5%90%8D%E5%AD%9710%E5%B9%B4%E8%A2%AB%E5%86%99%E9%94%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [高三学生买蛋糕庆祝被纪律老师砸坏](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%89%E5%AD%A6%E7%94%9F%E4%B9%B0%E8%9B%8B%E7%B3%95%E5%BA%86%E7%A5%9D%E8%A2%AB%E7%BA%AA%E5%BE%8B%E8%80%81%E5%B8%88%E7%A0%B8%E5%9D%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [6000元喜宴16道菜有7成是预制](https://www.baidu.com/s?wd=6000%E5%85%83%E5%96%9C%E5%AE%B416%E9%81%93%E8%8F%9C%E6%9C%897%E6%88%90%E6%98%AF%E9%A2%84%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [武汉市副市长王清华被查](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E5%B8%82%E5%89%AF%E5%B8%82%E9%95%BF%E7%8E%8B%E6%B8%85%E5%8D%8E%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [于正新剧又是双女主](https://www.baidu.com/s?wd=%E4%BA%8E%E6%AD%A3%E6%96%B0%E5%89%A7%E5%8F%88%E6%98%AF%E5%8F%8C%E5%A5%B3%E4%B8%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [山东：高考期高校学生不得请假离校](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%EF%BC%9A%E9%AB%98%E8%80%83%E6%9C%9F%E9%AB%98%E6%A0%A1%E5%AD%A6%E7%94%9F%E4%B8%8D%E5%BE%97%E8%AF%B7%E5%81%87%E7%A6%BB%E6%A0%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [武汉市副市长王清华被查](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E5%B8%82%E5%89%AF%E5%B8%82%E9%95%BF%E7%8E%8B%E6%B8%85%E5%8D%8E%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
