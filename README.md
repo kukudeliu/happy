@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 10:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 10:34:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [手机摄影的进步是否已经打破相机「底大一级压死人」的规律?](https://www.zhihu.com/question/604440814)<br />
 7. [重庆男子养儿子 17 年发现非亲生，重病之际起诉前妻索要 19.9 万，如何从法律角度解读此案件？](https://www.zhihu.com/question/604728463)<br />
 8. [《射雕英雄传》大结局的郭靖斗玄冥二老，以一敌二，几几开？](https://www.zhihu.com/question/604144281)<br />
-9. [从生物演化角度，为什么子女没有遗传父母的知识经验，而是重置再学习？](https://www.zhihu.com/question/601678910)<br />
+9. [中国有哪些逆天的文物？](https://www.zhihu.com/question/22638720)<br />
 
 > 百度  
 
