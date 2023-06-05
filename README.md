@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 05:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 05:39:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [一个村考出300多大学生6个北大](https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E6%9D%91%E8%80%83%E5%87%BA300%E5%A4%9A%E5%A4%A7%E5%AD%A6%E7%94%9F6%E4%B8%AA%E5%8C%97%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子嘴贴保鲜膜忍不住亲亲宝宝](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%98%B4%E8%B4%B4%E4%BF%9D%E9%B2%9C%E8%86%9C%E5%BF%8D%E4%B8%8D%E4%BD%8F%E4%BA%B2%E4%BA%B2%E5%AE%9D%E5%AE%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [多地对网约车按下“暂停键”](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%AF%B9%E7%BD%91%E7%BA%A6%E8%BD%A6%E6%8C%89%E4%B8%8B%E2%80%9C%E6%9A%82%E5%81%9C%E9%94%AE%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [浙大学霸应聘机场驱鸟员](https://www.baidu.com/s?wd=%E6%B5%99%E5%A4%A7%E5%AD%A6%E9%9C%B8%E5%BA%94%E8%81%98%E6%9C%BA%E5%9C%BA%E9%A9%B1%E9%B8%9F%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [面粉厂不收今年新小麦？当地回应](https://www.baidu.com/s?wd=%E9%9D%A2%E7%B2%89%E5%8E%82%E4%B8%8D%E6%94%B6%E4%BB%8A%E5%B9%B4%E6%96%B0%E5%B0%8F%E9%BA%A6%EF%BC%9F%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [一个村考出300多大学生6个北大](https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E6%9D%91%E8%80%83%E5%87%BA300%E5%A4%9A%E5%A4%A7%E5%AD%A6%E7%94%9F6%E4%B8%AA%E5%8C%97%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子嘴贴保鲜膜忍不住亲亲宝宝](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%98%B4%E8%B4%B4%E4%BF%9D%E9%B2%9C%E8%86%9C%E5%BF%8D%E4%B8%8D%E4%BD%8F%E4%BA%B2%E4%BA%B2%E5%AE%9D%E5%AE%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [多地对网约车按下“暂停键”](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%AF%B9%E7%BD%91%E7%BA%A6%E8%BD%A6%E6%8C%89%E4%B8%8B%E2%80%9C%E6%9A%82%E5%81%9C%E9%94%AE%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [浙大学霸应聘机场驱鸟员](https://www.baidu.com/s?wd=%E6%B5%99%E5%A4%A7%E5%AD%A6%E9%9C%B8%E5%BA%94%E8%81%98%E6%9C%BA%E5%9C%BA%E9%A9%B1%E9%B8%9F%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [面粉厂不收今年新小麦？当地回应](https://www.baidu.com/s?wd=%E9%9D%A2%E7%B2%89%E5%8E%82%E4%B8%8D%E6%94%B6%E4%BB%8A%E5%B9%B4%E6%96%B0%E5%B0%8F%E9%BA%A6%EF%BC%9F%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
