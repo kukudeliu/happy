@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 19:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 19:56:02</h4></div>
 
 > 微博  
 
-1. [一个村考出300多大学生6个北大](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E6%9D%91%E8%80%83%E5%87%BA300%E5%A4%9A%E5%A4%A7%E5%AD%A6%E7%94%9F6%E4%B8%AA%E5%8C%97%E5%A4%A7%23&t=31&band_rank=1&Refer=top)<br />
-2. [难怪白鹿许凯不帮于正新剧宣传](https://s.weibo.com/weibo?q=%23%E9%9A%BE%E6%80%AA%E7%99%BD%E9%B9%BF%E8%AE%B8%E5%87%AF%E4%B8%8D%E5%B8%AE%E4%BA%8E%E6%AD%A3%E6%96%B0%E5%89%A7%E5%AE%A3%E4%BC%A0%23&t=31&band_rank=2&Refer=top)<br />
+1. [难怪白鹿许凯不帮于正新剧宣传](https://s.weibo.com/weibo?q=%23%E9%9A%BE%E6%80%AA%E7%99%BD%E9%B9%BF%E8%AE%B8%E5%87%AF%E4%B8%8D%E5%B8%AE%E4%BA%8E%E6%AD%A3%E6%96%B0%E5%89%A7%E5%AE%A3%E4%BC%A0%23&t=31&band_rank=1&Refer=top)<br />
+2. [一个村考出300多大学生6个北大](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E6%9D%91%E8%80%83%E5%87%BA300%E5%A4%9A%E5%A4%A7%E5%AD%A6%E7%94%9F6%E4%B8%AA%E5%8C%97%E5%A4%A7%23&t=31&band_rank=2&Refer=top)<br />
 3. [哪一刻让你觉得读书特别有用](https://s.weibo.com/weibo?q=%23%E5%93%AA%E4%B8%80%E5%88%BB%E8%AE%A9%E4%BD%A0%E8%A7%89%E5%BE%97%E8%AF%BB%E4%B9%A6%E7%89%B9%E5%88%AB%E6%9C%89%E7%94%A8%23&t=31&band_rank=3&Refer=top)<br />
 4. [孙怡对汤晶媚说你不要在这道德绑架我](https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%80%A1%E5%AF%B9%E6%B1%A4%E6%99%B6%E5%AA%9A%E8%AF%B4%E4%BD%A0%E4%B8%8D%E8%A6%81%E5%9C%A8%E8%BF%99%E9%81%93%E5%BE%B7%E7%BB%91%E6%9E%B6%E6%88%91%23&t=31&band_rank=4&Refer=top)<br />
 5. [男子嘴贴保鲜膜忍不住亲亲宝宝](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%98%B4%E8%B4%B4%E4%BF%9D%E9%B2%9C%E8%86%9C%E5%BF%8D%E4%B8%8D%E4%BD%8F%E4%BA%B2%E4%BA%B2%E5%AE%9D%E5%AE%9D%23&t=31&band_rank=5&Refer=top)<br />
@@ -16,8 +16,8 @@
 
 1. [我们这代人存不下钱的原因是什么？](https://www.zhihu.com/question/603826642)<br />
 2. [阿里巴巴全球数学竞赛参赛选手 95 后快递小哥，曾用两周证明欧拉常数公式，你身边有这样的数学隐藏高手吗？](https://www.zhihu.com/question/604783697)<br />
-3. [如何看待哔哩哔哩上架的《成龙历险记》重新配音前 13 集，并删除了旧版的几十万弹幕？](https://www.zhihu.com/question/604251906)<br />
-4. [如何看待珠峰攀登者为救遇险女子放弃登顶，被救女子只愿承担 4 成救援费？](https://www.zhihu.com/question/604842993)<br />
+3. [如何看待珠峰攀登者为救遇险女子放弃登顶，被救女子只愿承担 4 成救援费？](https://www.zhihu.com/question/604842993)<br />
+4. [如何看待哔哩哔哩上架的《成龙历险记》重新配音前 13 集，并删除了旧版的几十万弹幕？](https://www.zhihu.com/question/604251906)<br />
 5. [《狂飙》中穷苦出身的程程，考上了名牌大学，在大公司身居要职，如此励志的人，为什么最后死得那么惨？](https://www.zhihu.com/question/604132619)<br />
 6. [财政部表示，中央对地方转移支付预算正按规定抓紧下达，整体来看我国财政状况健康、安全，哪些信息值得关注？](https://www.zhihu.com/question/604877884)<br />
 7. [为什么进口牛肉反而比国产牛肉更便宜？](https://www.zhihu.com/question/600043391)<br />
