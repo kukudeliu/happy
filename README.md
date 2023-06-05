@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 13:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 13:47:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [于正新剧又是双女主](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E6%96%B0%E5%89%A7%E5%8F%88%E6%98%AF%E5%8F%8C%E5%A5%B3%E4%B8%BB%23&t=31&band_rank=4&Refer=top)<br />
 5. [黄旭熙 泡泡](https://s.weibo.com/weibo?q=%E9%BB%84%E6%97%AD%E7%86%99%20%E6%B3%A1%E6%B3%A1&t=31&band_rank=5&Refer=top)<br />
 6. [珠峰被救女子不愿支付全部救援费用](https://s.weibo.com/weibo?q=%23%E7%8F%A0%E5%B3%B0%E8%A2%AB%E6%95%91%E5%A5%B3%E5%AD%90%E4%B8%8D%E6%84%BF%E6%94%AF%E4%BB%98%E5%85%A8%E9%83%A8%E6%95%91%E6%8F%B4%E8%B4%B9%E7%94%A8%23&t=31&band_rank=6&Refer=top)<br />
-7. [杨紫工作室P图不P镜子](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%B7%A5%E4%BD%9C%E5%AE%A4P%E5%9B%BE%E4%B8%8DP%E9%95%9C%E5%AD%90%23&t=31&band_rank=7&Refer=top)<br />
-8. [本周狗屎运最旺的星座](https://s.weibo.com/weibo?q=%E6%9C%AC%E5%91%A8%E7%8B%97%E5%B1%8E%E8%BF%90%E6%9C%80%E6%97%BA%E7%9A%84%E6%98%9F%E5%BA%A7&t=31&band_rank=8&Refer=top)<br />
+7. [本周狗屎运最旺的星座](https://s.weibo.com/weibo?q=%E6%9C%AC%E5%91%A8%E7%8B%97%E5%B1%8E%E8%BF%90%E6%9C%80%E6%97%BA%E7%9A%84%E6%98%9F%E5%BA%A7&t=31&band_rank=7&Refer=top)<br />
+8. [杨紫工作室P图不P镜子](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%B7%A5%E4%BD%9C%E5%AE%A4P%E5%9B%BE%E4%B8%8DP%E9%95%9C%E5%AD%90%23&t=31&band_rank=8&Refer=top)<br />
 9. [赌王三太 粤剧艺术团](https://s.weibo.com/weibo?q=%E8%B5%8C%E7%8E%8B%E4%B8%89%E5%A4%AA%20%E7%B2%A4%E5%89%A7%E8%89%BA%E6%9C%AF%E5%9B%A2&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -22,7 +22,7 @@
 6. [如何看待哔哩哔哩上架的《成龙历险记》重新配音前 13 集，并删除了旧版的几十万弹幕？](https://www.zhihu.com/question/604251906)<br />
 7. [报告称毕业生租房租金主要来自父母，有人 45% 收入用于交房租，如何看待此数据？毕业后一直租房可行吗？](https://www.zhihu.com/question/604420104)<br />
 8. [如果以现在的你的能力水平去参加高考，会有不一样的结果吗？](https://www.zhihu.com/question/597439864)<br />
-9. [《大明王朝 1566》中富商沈一石为什么穿布衣食粗粮，用粗碗喝开水？](https://www.zhihu.com/question/335888097)<br />
+9. [你高考前的最后一课，你的老师讲了什么？](https://www.zhihu.com/question/604067804)<br />
 
 > 百度  
 
