@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 03:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 03:23:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. []()<br />
 6. []()<br />
 7. [中国什么地方最安全不会地震？](https://www.zhihu.com/question/24769341)<br />
-8. [LPL 的中国选手为什么不用中文 ID？](https://www.zhihu.com/question/594864998)<br />
-9. [华为已申请 GPT 相关商标，此前曾表示「底层技术不比 ChatGPT 少」，哪些信息值得关注？](https://www.zhihu.com/question/604871143)<br />
+8. [华为已申请 GPT 相关商标，此前曾表示「底层技术不比 ChatGPT 少」，哪些信息值得关注？](https://www.zhihu.com/question/604871143)<br />
+9. [LPL 的中国选手为什么不用中文 ID？](https://www.zhihu.com/question/594864998)<br />
 
 > 百度  
 
