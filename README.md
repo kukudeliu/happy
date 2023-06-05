@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 08:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 08:28:01</h4></div>
 
 > 微博  
 
@@ -18,11 +18,11 @@
 2. [韩国出口连跌 8 个月，对中美欧出口全部下滑，芯片出口大跌 36.2%，受哪些因素影响？](https://www.zhihu.com/question/604222429)<br />
 3. [我们这代人存不下钱的原因是什么？](https://www.zhihu.com/question/603826642)<br />
 4. [苏武在贝加尔湖牧羊，条件恶劣，挖食鼠粮草根为生，他为什么不吃羊？](https://www.zhihu.com/question/25483987)<br />
-5. [《原神》和《崩坏：星穹铁道》的爆火，业界有什么看法或者启发？](https://www.zhihu.com/question/603634431)<br />
-6. [为什么一战说法国「打光了一代人」而没有说英国「打光了一代人」?](https://www.zhihu.com/question/571031038)<br />
-7. []()<br />
-8. [为什么篮球比赛进入小球时代?](https://www.zhihu.com/question/603469936)<br />
-9. [为什么很多课上会规定「学生可以喝白水，茶也勉强可以，但不能喝饮料」？这些饮料有什么本质区别吗？](https://www.zhihu.com/question/601191918)<br />
+5. [如何看待王源演唱会女生穿婚纱?](https://www.zhihu.com/question/604035655)<br />
+6. [《原神》和《崩坏：星穹铁道》的爆火，业界有什么看法或者启发？](https://www.zhihu.com/question/603634431)<br />
+7. [为什么一战说法国「打光了一代人」而没有说英国「打光了一代人」?](https://www.zhihu.com/question/571031038)<br />
+8. []()<br />
+9. [为什么篮球比赛进入小球时代?](https://www.zhihu.com/question/603469936)<br />
 
 > 百度  
 
