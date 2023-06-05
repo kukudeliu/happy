@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 16:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 16:13:01</h4></div>
 
 > 微博  
 
@@ -18,10 +18,10 @@
 2. [阿里巴巴全球数学竞赛参赛选手 95 后快递小哥，曾用两周证明欧拉常数公式，你身边有这样的数学隐藏高手吗？](https://www.zhihu.com/question/604783697)<br />
 3. [如何看待哔哩哔哩上架的《成龙历险记》重新配音前 13 集，并删除了旧版的几十万弹幕？](https://www.zhihu.com/question/604251906)<br />
 4. [《狂飙》中穷苦出身的程程，考上了名牌大学，在大公司身居要职，如此励志的人，为什么最后死得那么惨？](https://www.zhihu.com/question/604132619)<br />
-5. [中年男人为什么还在玩十年前的游戏?](https://www.zhihu.com/question/602764416)<br />
-6. [北大自杀女生包丽男友牟某翰涉嫌虐待罪案，将于 6 月 7 日宣判，宣判结果可能会是什么？](https://www.zhihu.com/question/604835005)<br />
-7. [米卢是什么水平的足球教练？](https://www.zhihu.com/question/21168956)<br />
-8. [学生党有必要趁着 618 大促，买一台平板自用吗？有哪些推荐？](https://www.zhihu.com/question/604829996)<br />
+5. [北大自杀女生包丽男友牟某翰涉嫌虐待罪案，将于 6 月 7 日宣判，宣判结果可能会是什么？](https://www.zhihu.com/question/604835005)<br />
+6. [米卢是什么水平的足球教练？](https://www.zhihu.com/question/21168956)<br />
+7. [学生党有必要趁着 618 大促，买一台平板自用吗？有哪些推荐？](https://www.zhihu.com/question/604829996)<br />
+8. [中年男人为什么还在玩十年前的游戏?](https://www.zhihu.com/question/602764416)<br />
 9. [《重返未来：1999》的剧情及剧情演出，能否称作国产二游的第一梯队？](https://www.zhihu.com/question/604144422)<br />
 
 > 百度  
