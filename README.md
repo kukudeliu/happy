@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 14:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 14:52:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [珠峰被救女子不愿支付全部救援费用](https://s.weibo.com/weibo?q=%23%E7%8F%A0%E5%B3%B0%E8%A2%AB%E6%95%91%E5%A5%B3%E5%AD%90%E4%B8%8D%E6%84%BF%E6%94%AF%E4%BB%98%E5%85%A8%E9%83%A8%E6%95%91%E6%8F%B4%E8%B4%B9%E7%94%A8%23&t=31&band_rank=6&Refer=top)<br />
 7. [杨紫工作室 动起来的boss更美](https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E5%B7%A5%E4%BD%9C%E5%AE%A4%20%E5%8A%A8%E8%B5%B7%E6%9D%A5%E7%9A%84boss%E6%9B%B4%E7%BE%8E&t=31&band_rank=7&Refer=top)<br />
 8. [肖战被强行拉cp](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%A2%AB%E5%BC%BA%E8%A1%8C%E6%8B%89cp%23&t=31&band_rank=8&Refer=top)<br />
-9. [杨紫工作室P图不P镜子](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%B7%A5%E4%BD%9C%E5%AE%A4P%E5%9B%BE%E4%B8%8DP%E9%95%9C%E5%AD%90%23&t=31&band_rank=9&Refer=top)<br />
+9. [高三学生买蛋糕庆祝被纪律老师砸坏](https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%B8%89%E5%AD%A6%E7%94%9F%E4%B9%B0%E8%9B%8B%E7%B3%95%E5%BA%86%E7%A5%9D%E8%A2%AB%E7%BA%AA%E5%BE%8B%E8%80%81%E5%B8%88%E7%A0%B8%E5%9D%8F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
