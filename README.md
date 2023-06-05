@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 15:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 16:00:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [6000元喜宴16道菜有7成是预制](https://www.baidu.com/s?wd=6000%E5%85%83%E5%96%9C%E5%AE%B416%E9%81%93%E8%8F%9C%E6%9C%897%E6%88%90%E6%98%AF%E9%A2%84%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [多地对网约车按下“暂停键”](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%AF%B9%E7%BD%91%E7%BA%A6%E8%BD%A6%E6%8C%89%E4%B8%8B%E2%80%9C%E6%9A%82%E5%81%9C%E9%94%AE%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [杭州一居民家门口地面有80℃](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%B8%80%E5%B1%85%E6%B0%91%E5%AE%B6%E9%97%A8%E5%8F%A3%E5%9C%B0%E9%9D%A2%E6%9C%8980%E2%84%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [长沙夜市现爆炒鹅卵石](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E5%A4%9C%E5%B8%82%E7%8E%B0%E7%88%86%E7%82%92%E9%B9%85%E5%8D%B5%E7%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [武汉市副市长王清华被查](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E5%B8%82%E5%89%AF%E5%B8%82%E9%95%BF%E7%8E%8B%E6%B8%85%E5%8D%8E%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [6000元喜宴16道菜有7成是预制](https://www.baidu.com/s?wd=6000%E5%85%83%E5%96%9C%E5%AE%B416%E9%81%93%E8%8F%9C%E6%9C%897%E6%88%90%E6%98%AF%E9%A2%84%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [多地对网约车按下“暂停键”](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%AF%B9%E7%BD%91%E7%BA%A6%E8%BD%A6%E6%8C%89%E4%B8%8B%E2%80%9C%E6%9A%82%E5%81%9C%E9%94%AE%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [杭州一居民家门口地面有80℃](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%B8%80%E5%B1%85%E6%B0%91%E5%AE%B6%E9%97%A8%E5%8F%A3%E5%9C%B0%E9%9D%A2%E6%9C%8980%E2%84%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [长沙夜市现爆炒鹅卵石](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E5%A4%9C%E5%B8%82%E7%8E%B0%E7%88%86%E7%82%92%E9%B9%85%E5%8D%B5%E7%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [武汉市副市长王清华被查](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E5%B8%82%E5%89%AF%E5%B8%82%E9%95%BF%E7%8E%8B%E6%B8%85%E5%8D%8E%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
