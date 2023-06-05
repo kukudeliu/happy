@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 13:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 13:24:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [网友高速偶遇高考试卷押送车队](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E9%AB%98%E9%80%9F%E5%81%B6%E9%81%87%E9%AB%98%E8%80%83%E8%AF%95%E5%8D%B7%E6%8A%BC%E9%80%81%E8%BD%A6%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [业主：为了卖房 我被中介“pua”了](https://www.baidu.com/s?wd=%E4%B8%9A%E4%B8%BB%EF%BC%9A%E4%B8%BA%E4%BA%86%E5%8D%96%E6%88%BF+%E6%88%91%E8%A2%AB%E4%B8%AD%E4%BB%8B%E2%80%9Cpua%E2%80%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [杭州一居民家门口地面有80℃](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%B8%80%E5%B1%85%E6%B0%91%E5%AE%B6%E9%97%A8%E5%8F%A3%E5%9C%B0%E9%9D%A2%E6%9C%8980%E2%84%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [40斤蟒蛇爬进派出所110求助119](https://www.baidu.com/s?wd=40%E6%96%A4%E8%9F%92%E8%9B%87%E7%88%AC%E8%BF%9B%E6%B4%BE%E5%87%BA%E6%89%80110%E6%B1%82%E5%8A%A9119&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [江歌妈妈回应捐出全部赔偿](https://www.baidu.com/s?wd=%E6%B1%9F%E6%AD%8C%E5%A6%88%E5%A6%88%E5%9B%9E%E5%BA%94%E6%8D%90%E5%87%BA%E5%85%A8%E9%83%A8%E8%B5%94%E5%81%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [江歌妈妈回应捐出全部赔偿](https://www.baidu.com/s?wd=%E6%B1%9F%E6%AD%8C%E5%A6%88%E5%A6%88%E5%9B%9E%E5%BA%94%E6%8D%90%E5%87%BA%E5%85%A8%E9%83%A8%E8%B5%94%E5%81%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [珠峰登山季结束 已致12死5失踪](https://www.baidu.com/s?wd=%E7%8F%A0%E5%B3%B0%E7%99%BB%E5%B1%B1%E5%AD%A3%E7%BB%93%E6%9D%9F+%E5%B7%B2%E8%87%B412%E6%AD%BB5%E5%A4%B1%E8%B8%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [网友高速偶遇高考试卷押送车队](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E9%AB%98%E9%80%9F%E5%81%B6%E9%81%87%E9%AB%98%E8%80%83%E8%AF%95%E5%8D%B7%E6%8A%BC%E9%80%81%E8%BD%A6%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [业主：为了卖房 我被中介“pua”了](https://www.baidu.com/s?wd=%E4%B8%9A%E4%B8%BB%EF%BC%9A%E4%B8%BA%E4%BA%86%E5%8D%96%E6%88%BF+%E6%88%91%E8%A2%AB%E4%B8%AD%E4%BB%8B%E2%80%9Cpua%E2%80%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [杭州一居民家门口地面有80℃](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%B8%80%E5%B1%85%E6%B0%91%E5%AE%B6%E9%97%A8%E5%8F%A3%E5%9C%B0%E9%9D%A2%E6%9C%8980%E2%84%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [40斤蟒蛇爬进派出所110求助119](https://www.baidu.com/s?wd=40%E6%96%A4%E8%9F%92%E8%9B%87%E7%88%AC%E8%BF%9B%E6%B4%BE%E5%87%BA%E6%89%80110%E6%B1%82%E5%8A%A9119&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [江歌妈妈回应捐出全部赔偿](https://www.baidu.com/s?wd=%E6%B1%9F%E6%AD%8C%E5%A6%88%E5%A6%88%E5%9B%9E%E5%BA%94%E6%8D%90%E5%87%BA%E5%85%A8%E9%83%A8%E8%B5%94%E5%81%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [江歌妈妈回应捐出全部赔偿](https://www.baidu.com/s?wd=%E6%B1%9F%E6%AD%8C%E5%A6%88%E5%A6%88%E5%9B%9E%E5%BA%94%E6%8D%90%E5%87%BA%E5%85%A8%E9%83%A8%E8%B5%94%E5%81%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [珠峰登山季结束 已致12死5失踪](https://www.baidu.com/s?wd=%E7%8F%A0%E5%B3%B0%E7%99%BB%E5%B1%B1%E5%AD%A3%E7%BB%93%E6%9D%9F+%E5%B7%B2%E8%87%B412%E6%AD%BB5%E5%A4%B1%E8%B8%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
