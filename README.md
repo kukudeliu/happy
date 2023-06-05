@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 09:47:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 09:48:01</h4></div>
 
 > 微博  
 
@@ -31,10 +31,10 @@
 3. [海霞、欧阳夏丹已不再任央视主持人](https://www.baidu.com/s?wd=%E6%B5%B7%E9%9C%9E%E3%80%81%E6%AC%A7%E9%98%B3%E5%A4%8F%E4%B8%B9%E5%B7%B2%E4%B8%8D%E5%86%8D%E4%BB%BB%E5%A4%AE%E8%A7%86%E4%B8%BB%E6%8C%81%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [128秒回顾中国航天高燃时刻](https://www.baidu.com/s?wd=128%E7%A7%92%E5%9B%9E%E9%A1%BE%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E9%AB%98%E7%87%83%E6%97%B6%E5%88%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [印度耗资百亿卢比的大桥又塌了](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E8%80%97%E8%B5%84%E7%99%BE%E4%BA%BF%E5%8D%A2%E6%AF%94%E7%9A%84%E5%A4%A7%E6%A1%A5%E5%8F%88%E5%A1%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [北大自杀女生男友涉虐待罪案7日宣判](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E8%87%AA%E6%9D%80%E5%A5%B3%E7%94%9F%E7%94%B7%E5%8F%8B%E6%B6%89%E8%99%90%E5%BE%85%E7%BD%AA%E6%A1%887%E6%97%A5%E5%AE%A3%E5%88%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [毛坦厂中学万人雨中送考](https://www.baidu.com/s?wd=%E6%AF%9B%E5%9D%A6%E5%8E%82%E4%B8%AD%E5%AD%A6%E4%B8%87%E4%BA%BA%E9%9B%A8%E4%B8%AD%E9%80%81%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [福岛核污染水“4年后流到台湾”](https://www.baidu.com/s?wd=%E7%A6%8F%E5%B2%9B%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E2%80%9C4%E5%B9%B4%E5%90%8E%E6%B5%81%E5%88%B0%E5%8F%B0%E6%B9%BE%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [为啥高考试卷是中国邮政送？](https://www.baidu.com/s?wd=%E4%B8%BA%E5%95%A5%E9%AB%98%E8%80%83%E8%AF%95%E5%8D%B7%E6%98%AF%E4%B8%AD%E5%9B%BD%E9%82%AE%E6%94%BF%E9%80%81%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [毛坦厂中学万人雨中送考](https://www.baidu.com/s?wd=%E6%AF%9B%E5%9D%A6%E5%8E%82%E4%B8%AD%E5%AD%A6%E4%B8%87%E4%BA%BA%E9%9B%A8%E4%B8%AD%E9%80%81%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [北大自杀女生男友涉虐待罪案7日宣判](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E8%87%AA%E6%9D%80%E5%A5%B3%E7%94%9F%E7%94%B7%E5%8F%8B%E6%B6%89%E8%99%90%E5%BE%85%E7%BD%AA%E6%A1%887%E6%97%A5%E5%AE%A3%E5%88%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [为啥高考试卷是中国邮政送？](https://www.baidu.com/s?wd=%E4%B8%BA%E5%95%A5%E9%AB%98%E8%80%83%E8%AF%95%E5%8D%B7%E6%98%AF%E4%B8%AD%E5%9B%BD%E9%82%AE%E6%94%BF%E9%80%81%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [罕见画面！俄米格31战机坠毁前喷火](https://www.baidu.com/s?wd=%E7%BD%95%E8%A7%81%E7%94%BB%E9%9D%A2%EF%BC%81%E4%BF%84%E7%B1%B3%E6%A0%BC31%E6%88%98%E6%9C%BA%E5%9D%A0%E6%AF%81%E5%89%8D%E5%96%B7%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [海霞、欧阳夏丹已不再任央视主持人](https://www.baidu.com/s?wd=%E6%B5%B7%E9%9C%9E%E3%80%81%E6%AC%A7%E9%98%B3%E5%A4%8F%E4%B8%B9%E5%B7%B2%E4%B8%8D%E5%86%8D%E4%BB%BB%E5%A4%AE%E8%A7%86%E4%B8%BB%E6%8C%81%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [128秒回顾中国航天高燃时刻](https://www.baidu.com/s?wd=128%E7%A7%92%E5%9B%9E%E9%A1%BE%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E9%AB%98%E7%87%83%E6%97%B6%E5%88%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [印度耗资百亿卢比的大桥又塌了](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E8%80%97%E8%B5%84%E7%99%BE%E4%BA%BF%E5%8D%A2%E6%AF%94%E7%9A%84%E5%A4%A7%E6%A1%A5%E5%8F%88%E5%A1%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [北大自杀女生男友涉虐待罪案7日宣判](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E8%87%AA%E6%9D%80%E5%A5%B3%E7%94%9F%E7%94%B7%E5%8F%8B%E6%B6%89%E8%99%90%E5%BE%85%E7%BD%AA%E6%A1%887%E6%97%A5%E5%AE%A3%E5%88%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [毛坦厂中学万人雨中送考](https://www.baidu.com/s?wd=%E6%AF%9B%E5%9D%A6%E5%8E%82%E4%B8%AD%E5%AD%A6%E4%B8%87%E4%BA%BA%E9%9B%A8%E4%B8%AD%E9%80%81%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [福岛核污染水“4年后流到台湾”](https://www.baidu.com/s?wd=%E7%A6%8F%E5%B2%9B%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E2%80%9C4%E5%B9%B4%E5%90%8E%E6%B5%81%E5%88%B0%E5%8F%B0%E6%B9%BE%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [为啥高考试卷是中国邮政送？](https://www.baidu.com/s?wd=%E4%B8%BA%E5%95%A5%E9%AB%98%E8%80%83%E8%AF%95%E5%8D%B7%E6%98%AF%E4%B8%AD%E5%9B%BD%E9%82%AE%E6%94%BF%E9%80%81%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [毛坦厂中学万人雨中送考](https://www.baidu.com/s?wd=%E6%AF%9B%E5%9D%A6%E5%8E%82%E4%B8%AD%E5%AD%A6%E4%B8%87%E4%BA%BA%E9%9B%A8%E4%B8%AD%E9%80%81%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [北大自杀女生男友涉虐待罪案7日宣判](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E8%87%AA%E6%9D%80%E5%A5%B3%E7%94%9F%E7%94%B7%E5%8F%8B%E6%B6%89%E8%99%90%E5%BE%85%E7%BD%AA%E6%A1%887%E6%97%A5%E5%AE%A3%E5%88%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [为啥高考试卷是中国邮政送？](https://www.baidu.com/s?wd=%E4%B8%BA%E5%95%A5%E9%AB%98%E8%80%83%E8%AF%95%E5%8D%B7%E6%98%AF%E4%B8%AD%E5%9B%BD%E9%82%AE%E6%94%BF%E9%80%81%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [罕见画面！俄米格31战机坠毁前喷火](https://www.baidu.com/s?wd=%E7%BD%95%E8%A7%81%E7%94%BB%E9%9D%A2%EF%BC%81%E4%BF%84%E7%B1%B3%E6%A0%BC31%E6%88%98%E6%9C%BA%E5%9D%A0%E6%AF%81%E5%89%8D%E5%96%B7%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
