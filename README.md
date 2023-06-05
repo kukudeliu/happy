@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 21:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 21:43:01</h4></div>
 
 > 微博  
 
@@ -32,9 +32,9 @@
 4. [环境保护的耀眼“实绩”](https://www.baidu.com/s?wd=%E7%8E%AF%E5%A2%83%E4%BF%9D%E6%8A%A4%E7%9A%84%E8%80%80%E7%9C%BC%E2%80%9C%E5%AE%9E%E7%BB%A9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [花30万可让梅西敬酒？北京警方回应](https://www.baidu.com/s?wd=%E8%8A%B130%E4%B8%87%E5%8F%AF%E8%AE%A9%E6%A2%85%E8%A5%BF%E6%95%AC%E9%85%92%EF%BC%9F%E5%8C%97%E4%BA%AC%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [业主买42套房欲打通 楼上墙壁现裂缝](https://www.baidu.com/s?wd=%E4%B8%9A%E4%B8%BB%E4%B9%B042%E5%A5%97%E6%88%BF%E6%AC%B2%E6%89%93%E9%80%9A+%E6%A5%BC%E4%B8%8A%E5%A2%99%E5%A3%81%E7%8E%B0%E8%A3%82%E7%BC%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [商场内展车被男童开动撞上扶梯](https://www.baidu.com/s?wd=%E5%95%86%E5%9C%BA%E5%86%85%E5%B1%95%E8%BD%A6%E8%A2%AB%E7%94%B7%E7%AB%A5%E5%BC%80%E5%8A%A8%E6%92%9E%E4%B8%8A%E6%89%B6%E6%A2%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [浙大学霸应聘机场驱鸟员](https://www.baidu.com/s?wd=%E6%B5%99%E5%A4%A7%E5%AD%A6%E9%9C%B8%E5%BA%94%E8%81%98%E6%9C%BA%E5%9C%BA%E9%A9%B1%E9%B8%9F%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [2名制服人员被指歧视农村卖菜老人](https://www.baidu.com/s?wd=2%E5%90%8D%E5%88%B6%E6%9C%8D%E4%BA%BA%E5%91%98%E8%A2%AB%E6%8C%87%E6%AD%A7%E8%A7%86%E5%86%9C%E6%9D%91%E5%8D%96%E8%8F%9C%E8%80%81%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [浙大学霸应聘机场驱鸟员](https://www.baidu.com/s?wd=%E6%B5%99%E5%A4%A7%E5%AD%A6%E9%9C%B8%E5%BA%94%E8%81%98%E6%9C%BA%E5%9C%BA%E9%A9%B1%E9%B8%9F%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [2名制服人员被指歧视农村卖菜老人](https://www.baidu.com/s?wd=2%E5%90%8D%E5%88%B6%E6%9C%8D%E4%BA%BA%E5%91%98%E8%A2%AB%E6%8C%87%E6%AD%A7%E8%A7%86%E5%86%9C%E6%9D%91%E5%8D%96%E8%8F%9C%E8%80%81%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女酒托点万元酒水被逼喝完系谣言](https://www.baidu.com/s?wd=%E5%A5%B3%E9%85%92%E6%89%98%E7%82%B9%E4%B8%87%E5%85%83%E9%85%92%E6%B0%B4%E8%A2%AB%E9%80%BC%E5%96%9D%E5%AE%8C%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [环境保护的耀眼“实绩”](https://www.baidu.com/s?wd=%E7%8E%AF%E5%A2%83%E4%BF%9D%E6%8A%A4%E7%9A%84%E8%80%80%E7%9C%BC%E2%80%9C%E5%AE%9E%E7%BB%A9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [花30万可让梅西敬酒？北京警方回应](https://www.baidu.com/s?wd=%E8%8A%B130%E4%B8%87%E5%8F%AF%E8%AE%A9%E6%A2%85%E8%A5%BF%E6%95%AC%E9%85%92%EF%BC%9F%E5%8C%97%E4%BA%AC%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [业主买42套房欲打通 楼上墙壁现裂缝](https://www.baidu.com/s?wd=%E4%B8%9A%E4%B8%BB%E4%B9%B042%E5%A5%97%E6%88%BF%E6%AC%B2%E6%89%93%E9%80%9A+%E6%A5%BC%E4%B8%8A%E5%A2%99%E5%A3%81%E7%8E%B0%E8%A3%82%E7%BC%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [商场内展车被男童开动撞上扶梯](https://www.baidu.com/s?wd=%E5%95%86%E5%9C%BA%E5%86%85%E5%B1%95%E8%BD%A6%E8%A2%AB%E7%94%B7%E7%AB%A5%E5%BC%80%E5%8A%A8%E6%92%9E%E4%B8%8A%E6%89%B6%E6%A2%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [浙大学霸应聘机场驱鸟员](https://www.baidu.com/s?wd=%E6%B5%99%E5%A4%A7%E5%AD%A6%E9%9C%B8%E5%BA%94%E8%81%98%E6%9C%BA%E5%9C%BA%E9%A9%B1%E9%B8%9F%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [2名制服人员被指歧视农村卖菜老人](https://www.baidu.com/s?wd=2%E5%90%8D%E5%88%B6%E6%9C%8D%E4%BA%BA%E5%91%98%E8%A2%AB%E6%8C%87%E6%AD%A7%E8%A7%86%E5%86%9C%E6%9D%91%E5%8D%96%E8%8F%9C%E8%80%81%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [浙大学霸应聘机场驱鸟员](https://www.baidu.com/s?wd=%E6%B5%99%E5%A4%A7%E5%AD%A6%E9%9C%B8%E5%BA%94%E8%81%98%E6%9C%BA%E5%9C%BA%E9%A9%B1%E9%B8%9F%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [2名制服人员被指歧视农村卖菜老人](https://www.baidu.com/s?wd=2%E5%90%8D%E5%88%B6%E6%9C%8D%E4%BA%BA%E5%91%98%E8%A2%AB%E6%8C%87%E6%AD%A7%E8%A7%86%E5%86%9C%E6%9D%91%E5%8D%96%E8%8F%9C%E8%80%81%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女酒托点万元酒水被逼喝完系谣言](https://www.baidu.com/s?wd=%E5%A5%B3%E9%85%92%E6%89%98%E7%82%B9%E4%B8%87%E5%85%83%E9%85%92%E6%B0%B4%E8%A2%AB%E9%80%BC%E5%96%9D%E5%AE%8C%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
