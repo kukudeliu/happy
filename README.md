@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 03:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 03:29:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. []()<br />
 7. [华为已申请 GPT 相关商标，此前曾表示「底层技术不比 ChatGPT 少」，哪些信息值得关注？](https://www.zhihu.com/question/604871143)<br />
 8. [LPL 的中国选手为什么不用中文 ID？](https://www.zhihu.com/question/594864998)<br />
-9. [中国什么地方最安全不会地震？](https://www.zhihu.com/question/24769341)<br />
+9. []()<br />
 
 > 百度  
 
@@ -31,10 +31,10 @@
 3. [花30万可让梅西敬酒？北京警方回应](https://www.baidu.com/s?wd=%E8%8A%B130%E4%B8%87%E5%8F%AF%E8%AE%A9%E6%A2%85%E8%A5%BF%E6%95%AC%E9%85%92%EF%BC%9F%E5%8C%97%E4%BA%AC%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [环境保护的耀眼“实绩”](https://www.baidu.com/s?wd=%E7%8E%AF%E5%A2%83%E4%BF%9D%E6%8A%A4%E7%9A%84%E8%80%80%E7%9C%BC%E2%80%9C%E5%AE%9E%E7%BB%A9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [#苹果WWDC2023#](https://www.baidu.com/s?wd=%23%E8%8B%B9%E6%9E%9CWWDC2023%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [公交司机肇事撞人后拒让120载走](https://www.baidu.com/s?wd=%E5%85%AC%E4%BA%A4%E5%8F%B8%E6%9C%BA%E8%82%87%E4%BA%8B%E6%92%9E%E4%BA%BA%E5%90%8E%E6%8B%92%E8%AE%A9120%E8%BD%BD%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [弟弟开黄腔把哥哥婚事搅黄](https://www.baidu.com/s?wd=%E5%BC%9F%E5%BC%9F%E5%BC%80%E9%BB%84%E8%85%94%E6%8A%8A%E5%93%A5%E5%93%A5%E5%A9%9A%E4%BA%8B%E6%90%85%E9%BB%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子嘴贴保鲜膜忍不住亲亲宝宝](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%98%B4%E8%B4%B4%E4%BF%9D%E9%B2%9C%E8%86%9C%E5%BF%8D%E4%B8%8D%E4%BD%8F%E4%BA%B2%E4%BA%B2%E5%AE%9D%E5%AE%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [小学修校门要花1000万?当地回应](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E4%BF%AE%E6%A0%A1%E9%97%A8%E8%A6%81%E8%8A%B11000%E4%B8%87%3F%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [弟弟开黄腔把哥哥婚事搅黄](https://www.baidu.com/s?wd=%E5%BC%9F%E5%BC%9F%E5%BC%80%E9%BB%84%E8%85%94%E6%8A%8A%E5%93%A5%E5%93%A5%E5%A9%9A%E4%BA%8B%E6%90%85%E9%BB%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子嘴贴保鲜膜忍不住亲亲宝宝](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%98%B4%E8%B4%B4%E4%BF%9D%E9%B2%9C%E8%86%9C%E5%BF%8D%E4%B8%8D%E4%BD%8F%E4%BA%B2%E4%BA%B2%E5%AE%9D%E5%AE%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [小学修校门要花1000万?当地回应](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E4%BF%AE%E6%A0%A1%E9%97%A8%E8%A6%81%E8%8A%B11000%E4%B8%87%3F%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子开路虎插队洗车：我就猖狂了](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BC%80%E8%B7%AF%E8%99%8E%E6%8F%92%E9%98%9F%E6%B4%97%E8%BD%A6%EF%BC%9A%E6%88%91%E5%B0%B1%E7%8C%96%E7%8B%82%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [花30万可让梅西敬酒？北京警方回应](https://www.baidu.com/s?wd=%E8%8A%B130%E4%B8%87%E5%8F%AF%E8%AE%A9%E6%A2%85%E8%A5%BF%E6%95%AC%E9%85%92%EF%BC%9F%E5%8C%97%E4%BA%AC%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [环境保护的耀眼“实绩”](https://www.baidu.com/s?wd=%E7%8E%AF%E5%A2%83%E4%BF%9D%E6%8A%A4%E7%9A%84%E8%80%80%E7%9C%BC%E2%80%9C%E5%AE%9E%E7%BB%A9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [#苹果WWDC2023#](https://www.baidu.com/s?wd=%23%E8%8B%B9%E6%9E%9CWWDC2023%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [公交司机肇事撞人后拒让120载走](https://www.baidu.com/s?wd=%E5%85%AC%E4%BA%A4%E5%8F%B8%E6%9C%BA%E8%82%87%E4%BA%8B%E6%92%9E%E4%BA%BA%E5%90%8E%E6%8B%92%E8%AE%A9120%E8%BD%BD%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [弟弟开黄腔把哥哥婚事搅黄](https://www.baidu.com/s?wd=%E5%BC%9F%E5%BC%9F%E5%BC%80%E9%BB%84%E8%85%94%E6%8A%8A%E5%93%A5%E5%93%A5%E5%A9%9A%E4%BA%8B%E6%90%85%E9%BB%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子嘴贴保鲜膜忍不住亲亲宝宝](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%98%B4%E8%B4%B4%E4%BF%9D%E9%B2%9C%E8%86%9C%E5%BF%8D%E4%B8%8D%E4%BD%8F%E4%BA%B2%E4%BA%B2%E5%AE%9D%E5%AE%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [小学修校门要花1000万?当地回应](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E4%BF%AE%E6%A0%A1%E9%97%A8%E8%A6%81%E8%8A%B11000%E4%B8%87%3F%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [弟弟开黄腔把哥哥婚事搅黄](https://www.baidu.com/s?wd=%E5%BC%9F%E5%BC%9F%E5%BC%80%E9%BB%84%E8%85%94%E6%8A%8A%E5%93%A5%E5%93%A5%E5%A9%9A%E4%BA%8B%E6%90%85%E9%BB%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子嘴贴保鲜膜忍不住亲亲宝宝](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%98%B4%E8%B4%B4%E4%BF%9D%E9%B2%9C%E8%86%9C%E5%BF%8D%E4%B8%8D%E4%BD%8F%E4%BA%B2%E4%BA%B2%E5%AE%9D%E5%AE%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [小学修校门要花1000万?当地回应](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E4%BF%AE%E6%A0%A1%E9%97%A8%E8%A6%81%E8%8A%B11000%E4%B8%87%3F%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子开路虎插队洗车：我就猖狂了](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BC%80%E8%B7%AF%E8%99%8E%E6%8F%92%E9%98%9F%E6%B4%97%E8%BD%A6%EF%BC%9A%E6%88%91%E5%B0%B1%E7%8C%96%E7%8B%82%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
