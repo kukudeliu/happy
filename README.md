@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 18:43:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 18:44:02</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [男子过生日蛋糕上名字10年被写错](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%BF%87%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95%E4%B8%8A%E5%90%8D%E5%AD%9710%E5%B9%B4%E8%A2%AB%E5%86%99%E9%94%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [一个村考出300多大学生6个北大](https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E6%9D%91%E8%80%83%E5%87%BA300%E5%A4%9A%E5%A4%A7%E5%AD%A6%E7%94%9F6%E4%B8%AA%E5%8C%97%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [因口角引发纠纷 男子厕所杀害女子](https://www.baidu.com/s?wd=%E5%9B%A0%E5%8F%A3%E8%A7%92%E5%BC%95%E5%8F%91%E7%BA%A0%E7%BA%B7+%E7%94%B7%E5%AD%90%E5%8E%95%E6%89%80%E6%9D%80%E5%AE%B3%E5%A5%B3%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [包丽母亲称牟某翰仍无歉意](https://www.baidu.com/s?wd=%E5%8C%85%E4%B8%BD%E6%AF%8D%E4%BA%B2%E7%A7%B0%E7%89%9F%E6%9F%90%E7%BF%B0%E4%BB%8D%E6%97%A0%E6%AD%89%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [湖南一村厕改后村民还要挑水冲厕所](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E4%B8%80%E6%9D%91%E5%8E%95%E6%94%B9%E5%90%8E%E6%9D%91%E6%B0%91%E8%BF%98%E8%A6%81%E6%8C%91%E6%B0%B4%E5%86%B2%E5%8E%95%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [高三学生买蛋糕庆祝被纪律老师砸坏](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%89%E5%AD%A6%E7%94%9F%E4%B9%B0%E8%9B%8B%E7%B3%95%E5%BA%86%E7%A5%9D%E8%A2%AB%E7%BA%AA%E5%BE%8B%E8%80%81%E5%B8%88%E7%A0%B8%E5%9D%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [收费站4死车祸：疑网约车疲劳驾驶](https://www.baidu.com/s?wd=%E6%94%B6%E8%B4%B9%E7%AB%994%E6%AD%BB%E8%BD%A6%E7%A5%B8%EF%BC%9A%E7%96%91%E7%BD%91%E7%BA%A6%E8%BD%A6%E7%96%B2%E5%8A%B3%E9%A9%BE%E9%A9%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [男子过生日蛋糕上名字10年被写错](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%BF%87%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95%E4%B8%8A%E5%90%8D%E5%AD%9710%E5%B9%B4%E8%A2%AB%E5%86%99%E9%94%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [一个村考出300多大学生6个北大](https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E6%9D%91%E8%80%83%E5%87%BA300%E5%A4%9A%E5%A4%A7%E5%AD%A6%E7%94%9F6%E4%B8%AA%E5%8C%97%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [因口角引发纠纷 男子厕所杀害女子](https://www.baidu.com/s?wd=%E5%9B%A0%E5%8F%A3%E8%A7%92%E5%BC%95%E5%8F%91%E7%BA%A0%E7%BA%B7+%E7%94%B7%E5%AD%90%E5%8E%95%E6%89%80%E6%9D%80%E5%AE%B3%E5%A5%B3%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [包丽母亲称牟某翰仍无歉意](https://www.baidu.com/s?wd=%E5%8C%85%E4%B8%BD%E6%AF%8D%E4%BA%B2%E7%A7%B0%E7%89%9F%E6%9F%90%E7%BF%B0%E4%BB%8D%E6%97%A0%E6%AD%89%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [湖南一村厕改后村民还要挑水冲厕所](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E4%B8%80%E6%9D%91%E5%8E%95%E6%94%B9%E5%90%8E%E6%9D%91%E6%B0%91%E8%BF%98%E8%A6%81%E6%8C%91%E6%B0%B4%E5%86%B2%E5%8E%95%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [高三学生买蛋糕庆祝被纪律老师砸坏](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%89%E5%AD%A6%E7%94%9F%E4%B9%B0%E8%9B%8B%E7%B3%95%E5%BA%86%E7%A5%9D%E8%A2%AB%E7%BA%AA%E5%BE%8B%E8%80%81%E5%B8%88%E7%A0%B8%E5%9D%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [收费站4死车祸：疑网约车疲劳驾驶](https://www.baidu.com/s?wd=%E6%94%B6%E8%B4%B9%E7%AB%994%E6%AD%BB%E8%BD%A6%E7%A5%B8%EF%BC%9A%E7%96%91%E7%BD%91%E7%BA%A6%E8%BD%A6%E7%96%B2%E5%8A%B3%E9%A9%BE%E9%A9%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
