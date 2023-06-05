@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 15:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 15:41:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [距2023高考还有2天](https://s.weibo.com/weibo?q=%23%E8%B7%9D2023%E9%AB%98%E8%80%83%E8%BF%98%E6%9C%892%E5%A4%A9%23&t=31&band_rank=3&Refer=top)<br />
 4. [张一山眼球怎么了](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%B8%80%E5%B1%B1%E7%9C%BC%E7%90%83%E6%80%8E%E4%B9%88%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [孩子烫伤9天才送医院爸爸拒绝手术](https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E7%83%AB%E4%BC%A49%E5%A4%A9%E6%89%8D%E9%80%81%E5%8C%BB%E9%99%A2%E7%88%B8%E7%88%B8%E6%8B%92%E7%BB%9D%E6%89%8B%E6%9C%AF%23&t=31&band_rank=5&Refer=top)<br />
-6. [安茂元 三亚被宰记](https://s.weibo.com/weibo?q=%E5%AE%89%E8%8C%82%E5%85%83%20%E4%B8%89%E4%BA%9A%E8%A2%AB%E5%AE%B0%E8%AE%B0&t=31&band_rank=6&Refer=top)<br />
-7. [周震南父亲等被恢复执行1046万](https://s.weibo.com/weibo?q=%23%E5%91%A8%E9%9C%87%E5%8D%97%E7%88%B6%E4%BA%B2%E7%AD%89%E8%A2%AB%E6%81%A2%E5%A4%8D%E6%89%A7%E8%A1%8C1046%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
+6. [周震南父亲等被恢复执行1046万](https://s.weibo.com/weibo?q=%23%E5%91%A8%E9%9C%87%E5%8D%97%E7%88%B6%E4%BA%B2%E7%AD%89%E8%A2%AB%E6%81%A2%E5%A4%8D%E6%89%A7%E8%A1%8C1046%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
+7. [安茂元 三亚被宰记](https://s.weibo.com/weibo?q=%E5%AE%89%E8%8C%82%E5%85%83%20%E4%B8%89%E4%BA%9A%E8%A2%AB%E5%AE%B0%E8%AE%B0&t=31&band_rank=7&Refer=top)<br />
 8. [肖战被强行拉cp](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%A2%AB%E5%BC%BA%E8%A1%8C%E6%8B%89cp%23&t=31&band_rank=8&Refer=top)<br />
 9. [第一眼被任敏惊艳到了](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E7%9C%BC%E8%A2%AB%E4%BB%BB%E6%95%8F%E6%83%8A%E8%89%B3%E5%88%B0%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
@@ -18,11 +18,11 @@
 2. [如何看待哔哩哔哩上架的《成龙历险记》重新配音前 13 集，并删除了旧版的几十万弹幕？](https://www.zhihu.com/question/604251906)<br />
 3. [阿里巴巴全球数学竞赛参赛选手 95 后快递小哥，曾用两周证明欧拉常数公式，你身边有这样的数学隐藏高手吗？](https://www.zhihu.com/question/604783697)<br />
 4. [中年男人为什么还在玩十年前的游戏?](https://www.zhihu.com/question/602764416)<br />
-5. [重庆男子养儿子 17 年发现非亲生，重病之际起诉前妻索要 19.9 万，如何从法律角度解读此案件？](https://www.zhihu.com/question/604728463)<br />
-6. [《狂飙》中穷苦出身的程程，考上了名牌大学，在大公司身居要职，如此励志的人，为什么最后死得那么惨？](https://www.zhihu.com/question/604132619)<br />
+5. [《狂飙》中穷苦出身的程程，考上了名牌大学，在大公司身居要职，如此励志的人，为什么最后死得那么惨？](https://www.zhihu.com/question/604132619)<br />
+6. [重庆男子养儿子 17 年发现非亲生，重病之际起诉前妻索要 19.9 万，如何从法律角度解读此案件？](https://www.zhihu.com/question/604728463)<br />
 7. [科研上瘾是怎样的体验？](https://www.zhihu.com/question/456385091)<br />
 8. [学生党有必要趁着 618 大促，买一台平板自用吗？有哪些推荐？](https://www.zhihu.com/question/604829996)<br />
-9. [写小说时，晚上脑子里会不停的跑画面，入睡很困难，怎么办？](https://www.zhihu.com/question/578888328)<br />
+9. [米卢是什么水平的足球教练？](https://www.zhihu.com/question/21168956)<br />
 
 > 百度  
 
