@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 06:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 06:55:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [日本女子因华航空姐没讲日语暴怒辱骂](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%AD%90%E5%9B%A0%E5%8D%8E%E8%88%AA%E7%A9%BA%E5%A7%90%E6%B2%A1%E8%AE%B2%E6%97%A5%E8%AF%AD%E6%9A%B4%E6%80%92%E8%BE%B1%E9%AA%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [校长发3000个红包为高考生加油](https://www.baidu.com/s?wd=%E6%A0%A1%E9%95%BF%E5%8F%913000%E4%B8%AA%E7%BA%A2%E5%8C%85%E4%B8%BA%E9%AB%98%E8%80%83%E7%94%9F%E5%8A%A0%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [弟弟开黄腔把哥哥婚事搅黄](https://www.baidu.com/s?wd=%E5%BC%9F%E5%BC%9F%E5%BC%80%E9%BB%84%E8%85%94%E6%8A%8A%E5%93%A5%E5%93%A5%E5%A9%9A%E4%BA%8B%E6%90%85%E9%BB%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [母亲病危家人让高考孩子见最后一面](https://www.baidu.com/s?wd=%E6%AF%8D%E4%BA%B2%E7%97%85%E5%8D%B1%E5%AE%B6%E4%BA%BA%E8%AE%A9%E9%AB%98%E8%80%83%E5%AD%A9%E5%AD%90%E8%A7%81%E6%9C%80%E5%90%8E%E4%B8%80%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [花30万可让梅西敬酒？北京警方回应](https://www.baidu.com/s?wd=%E8%8A%B130%E4%B8%87%E5%8F%AF%E8%AE%A9%E6%A2%85%E8%A5%BF%E6%95%AC%E9%85%92%EF%BC%9F%E5%8C%97%E4%BA%AC%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [日本女子因华航空姐没讲日语暴怒辱骂](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%AD%90%E5%9B%A0%E5%8D%8E%E8%88%AA%E7%A9%BA%E5%A7%90%E6%B2%A1%E8%AE%B2%E6%97%A5%E8%AF%AD%E6%9A%B4%E6%80%92%E8%BE%B1%E9%AA%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [校长发3000个红包为高考生加油](https://www.baidu.com/s?wd=%E6%A0%A1%E9%95%BF%E5%8F%913000%E4%B8%AA%E7%BA%A2%E5%8C%85%E4%B8%BA%E9%AB%98%E8%80%83%E7%94%9F%E5%8A%A0%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [弟弟开黄腔把哥哥婚事搅黄](https://www.baidu.com/s?wd=%E5%BC%9F%E5%BC%9F%E5%BC%80%E9%BB%84%E8%85%94%E6%8A%8A%E5%93%A5%E5%93%A5%E5%A9%9A%E4%BA%8B%E6%90%85%E9%BB%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [母亲病危家人让高考孩子见最后一面](https://www.baidu.com/s?wd=%E6%AF%8D%E4%BA%B2%E7%97%85%E5%8D%B1%E5%AE%B6%E4%BA%BA%E8%AE%A9%E9%AB%98%E8%80%83%E5%AD%A9%E5%AD%90%E8%A7%81%E6%9C%80%E5%90%8E%E4%B8%80%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [花30万可让梅西敬酒？北京警方回应](https://www.baidu.com/s?wd=%E8%8A%B130%E4%B8%87%E5%8F%AF%E8%AE%A9%E6%A2%85%E8%A5%BF%E6%95%AC%E9%85%92%EF%BC%9F%E5%8C%97%E4%BA%AC%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
