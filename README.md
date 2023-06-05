@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 12:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 12:53:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [中国有哪些逆天的文物？](https://www.zhihu.com/question/22638720)<br />
 5. [大量安卓用户逃离换 iPhone，Android 13 保有量不足 15%，背后原因有哪些？](https://www.zhihu.com/question/604820761)<br />
 6. [你见过最冷静的人是怎么样的？](https://www.zhihu.com/question/315251005)<br />
-7. [如何看待哔哩哔哩上架的《成龙历险记》重新配音前 13 集，并删除了旧版的几十万弹幕？](https://www.zhihu.com/question/604251906)<br />
-8. [隐藏式门把手会不会是汽车的一个安全隐患？](https://www.zhihu.com/question/604174782)<br />
-9. [报告称毕业生租房租金主要来自父母，有人 45% 收入用于交房租，如何看待此数据？毕业后一直租房可行吗？](https://www.zhihu.com/question/604420104)<br />
+7. [隐藏式门把手会不会是汽车的一个安全隐患？](https://www.zhihu.com/question/604174782)<br />
+8. [报告称毕业生租房租金主要来自父母，有人 45% 收入用于交房租，如何看待此数据？毕业后一直租房可行吗？](https://www.zhihu.com/question/604420104)<br />
+9. [如何看待哔哩哔哩上架的《成龙历险记》重新配音前 13 集，并删除了旧版的几十万弹幕？](https://www.zhihu.com/question/604251906)<br />
 
 > 百度  
 
