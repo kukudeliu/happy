@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 22:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 22:06:02</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [加油高考生](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%B9%E9%AB%98%E8%80%83%E7%94%9F%23&t=31&band_rank=3&Refer=top)<br />
 4. [建议实现一户一曜](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%AE%9E%E7%8E%B0%E4%B8%80%E6%88%B7%E4%B8%80%E6%9B%9C%23&t=31&band_rank=4&Refer=top)<br />
 5. [她只是长得好看并且很健谈罢了](https://s.weibo.com/weibo?q=%E5%A5%B9%E5%8F%AA%E6%98%AF%E9%95%BF%E5%BE%97%E5%A5%BD%E7%9C%8B%E5%B9%B6%E4%B8%94%E5%BE%88%E5%81%A5%E8%B0%88%E7%BD%A2%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
-6. [蔡依林 玫瑰少年](https://s.weibo.com/weibo?q=%E8%94%A1%E4%BE%9D%E6%9E%97%20%E7%8E%AB%E7%91%B0%E5%B0%91%E5%B9%B4&t=31&band_rank=6&Refer=top)<br />
-7. [娜扎七年前生图](https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8E%E4%B8%83%E5%B9%B4%E5%89%8D%E7%94%9F%E5%9B%BE%23&t=31&band_rank=7&Refer=top)<br />
+6. [娜扎七年前生图](https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8E%E4%B8%83%E5%B9%B4%E5%89%8D%E7%94%9F%E5%9B%BE%23&t=31&band_rank=6&Refer=top)<br />
+7. [蔡依林 玫瑰少年](https://s.weibo.com/weibo?q=%E8%94%A1%E4%BE%9D%E6%9E%97%20%E7%8E%AB%E7%91%B0%E5%B0%91%E5%B9%B4&t=31&band_rank=7&Refer=top)<br />
 8. [难怪白鹿许凯不帮于正新剧宣传](https://s.weibo.com/weibo?q=%23%E9%9A%BE%E6%80%AA%E7%99%BD%E9%B9%BF%E8%AE%B8%E5%87%AF%E4%B8%8D%E5%B8%AE%E4%BA%8E%E6%AD%A3%E6%96%B0%E5%89%A7%E5%AE%A3%E4%BC%A0%23&t=31&band_rank=8&Refer=top)<br />
 9. [男子嘴贴保鲜膜忍不住亲亲宝宝](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%98%B4%E8%B4%B4%E4%BF%9D%E9%B2%9C%E8%86%9C%E5%BF%8D%E4%B8%8D%E4%BD%8F%E4%BA%B2%E4%BA%B2%E5%AE%9D%E5%AE%9D%23&t=31&band_rank=9&Refer=top)<br />
 
