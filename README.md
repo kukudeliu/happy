@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 13:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 13:31:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [珠峰被救女子不愿支付全部救援费用](https://s.weibo.com/weibo?q=%23%E7%8F%A0%E5%B3%B0%E8%A2%AB%E6%95%91%E5%A5%B3%E5%AD%90%E4%B8%8D%E6%84%BF%E6%94%AF%E4%BB%98%E5%85%A8%E9%83%A8%E6%95%91%E6%8F%B4%E8%B4%B9%E7%94%A8%23&t=31&band_rank=6&Refer=top)<br />
 7. [孩子烫伤9天才送医院爸爸拒绝手术](https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E7%83%AB%E4%BC%A49%E5%A4%A9%E6%89%8D%E9%80%81%E5%8C%BB%E9%99%A2%E7%88%B8%E7%88%B8%E6%8B%92%E7%BB%9D%E6%89%8B%E6%9C%AF%23&t=31&band_rank=7&Refer=top)<br />
 8. [赌王三太 粤剧艺术团](https://s.weibo.com/weibo?q=%E8%B5%8C%E7%8E%8B%E4%B8%89%E5%A4%AA%20%E7%B2%A4%E5%89%A7%E8%89%BA%E6%9C%AF%E5%9B%A2&t=31&band_rank=8&Refer=top)<br />
-9. [杨紫工作室P图不P镜子](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%B7%A5%E4%BD%9C%E5%AE%A4P%E5%9B%BE%E4%B8%8DP%E9%95%9C%E5%AD%90%23&t=31&band_rank=9&Refer=top)<br />
+9. [瑞幸](https://s.weibo.com/weibo?q=%E7%91%9E%E5%B9%B8&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
