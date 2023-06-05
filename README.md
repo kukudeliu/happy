@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 21:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 21:29:02</h4></div>
 
 > 微博  
 
@@ -17,7 +17,7 @@
 1. [我们这代人存不下钱的原因是什么？](https://www.zhihu.com/question/603826642)<br />
 2. [如何看待珠峰攀登者为救遇险女子放弃登顶，被救女子只愿承担 4 成救援费？](https://www.zhihu.com/question/604842993)<br />
 3. [如何看待哔哩哔哩上架的《成龙历险记》重新配音前 13 集，并删除了旧版的几十万弹幕？](https://www.zhihu.com/question/604251906)<br />
-4. [对计算机一窍不通，该不该顺应 AI 的发展，大学选个「前景好但不擅长」的专业？](https://www.zhihu.com/theater/10768)<br />
+4. [跟着喜欢的人选择报考的大学或者城市，值不值？](https://www.zhihu.com/theater/10768)<br />
 5. [财政部表示，中央对地方转移支付预算正按规定抓紧下达，整体来看我国财政状况健康、安全，哪些信息值得关注？](https://www.zhihu.com/question/604877884)<br />
 6. [高三学生买蛋糕庆祝被纪律老师砸坏，「很多学生被气哭」，老师的做法会给学生心理造成什么影响？](https://www.zhihu.com/question/604864874)<br />
 7. [为杜绝替考，高考期间山东大学生不得请假离校，如何评价该措施，是否还有其他合理的防替考措施？](https://www.zhihu.com/question/604871319)<br />
@@ -34,7 +34,7 @@
 6. [业主买42套房欲打通 楼上墙壁现裂缝](https://www.baidu.com/s?wd=%E4%B8%9A%E4%B8%BB%E4%B9%B042%E5%A5%97%E6%88%BF%E6%AC%B2%E6%89%93%E9%80%9A+%E6%A5%BC%E4%B8%8A%E5%A2%99%E5%A3%81%E7%8E%B0%E8%A3%82%E7%BC%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [周震南父亲等被恢复执行1046万](https://www.baidu.com/s?wd=%E5%91%A8%E9%9C%87%E5%8D%97%E7%88%B6%E4%BA%B2%E7%AD%89%E8%A2%AB%E6%81%A2%E5%A4%8D%E6%89%A7%E8%A1%8C1046%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [浙大学霸应聘机场驱鸟员](https://www.baidu.com/s?wd=%E6%B5%99%E5%A4%A7%E5%AD%A6%E9%9C%B8%E5%BA%94%E8%81%98%E6%9C%BA%E5%9C%BA%E9%A9%B1%E9%B8%9F%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子嘴贴保鲜膜忍不住亲亲宝宝](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%98%B4%E8%B4%B4%E4%BF%9D%E9%B2%9C%E8%86%9C%E5%BF%8D%E4%B8%8D%E4%BD%8F%E4%BA%B2%E4%BA%B2%E5%AE%9D%E5%AE%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [婆婆与儿媳争执将农药倒进其水井](https://www.baidu.com/s?wd=%E5%A9%86%E5%A9%86%E4%B8%8E%E5%84%BF%E5%AA%B3%E4%BA%89%E6%89%A7%E5%B0%86%E5%86%9C%E8%8D%AF%E5%80%92%E8%BF%9B%E5%85%B6%E6%B0%B4%E4%BA%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [业主买42套房欲打通 楼上墙壁现裂缝](https://www.baidu.com/s?wd=%E4%B8%9A%E4%B8%BB%E4%B9%B042%E5%A5%97%E6%88%BF%E6%AC%B2%E6%89%93%E9%80%9A+%E6%A5%BC%E4%B8%8A%E5%A2%99%E5%A3%81%E7%8E%B0%E8%A3%82%E7%BC%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [周震南父亲等被恢复执行1046万](https://www.baidu.com/s?wd=%E5%91%A8%E9%9C%87%E5%8D%97%E7%88%B6%E4%BA%B2%E7%AD%89%E8%A2%AB%E6%81%A2%E5%A4%8D%E6%89%A7%E8%A1%8C1046%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [浙大学霸应聘机场驱鸟员](https://www.baidu.com/s?wd=%E6%B5%99%E5%A4%A7%E5%AD%A6%E9%9C%B8%E5%BA%94%E8%81%98%E6%9C%BA%E5%9C%BA%E9%A9%B1%E9%B8%9F%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子嘴贴保鲜膜忍不住亲亲宝宝](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%98%B4%E8%B4%B4%E4%BF%9D%E9%B2%9C%E8%86%9C%E5%BF%8D%E4%B8%8D%E4%BD%8F%E4%BA%B2%E4%BA%B2%E5%AE%9D%E5%AE%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [婆婆与儿媳争执将农药倒进其水井](https://www.baidu.com/s?wd=%E5%A9%86%E5%A9%86%E4%B8%8E%E5%84%BF%E5%AA%B3%E4%BA%89%E6%89%A7%E5%B0%86%E5%86%9C%E8%8D%AF%E5%80%92%E8%BF%9B%E5%85%B6%E6%B0%B4%E4%BA%95&sa=fyb_news&rsv_dl=fyb_news)<br />
