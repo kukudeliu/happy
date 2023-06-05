@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 03:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 03:14:01</h4></div>
 
 > 微博  
 
@@ -32,9 +32,9 @@
 4. [环境保护的耀眼“实绩”](https://www.baidu.com/s?wd=%E7%8E%AF%E5%A2%83%E4%BF%9D%E6%8A%A4%E7%9A%84%E8%80%80%E7%9C%BC%E2%80%9C%E5%AE%9E%E7%BB%A9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [#苹果WWDC2023#](https://www.baidu.com/s?wd=%23%E8%8B%B9%E6%9E%9CWWDC2023%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [救护车送人进张杰演唱会？官方回应](https://www.baidu.com/s?wd=%E6%95%91%E6%8A%A4%E8%BD%A6%E9%80%81%E4%BA%BA%E8%BF%9B%E5%BC%A0%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [瓜子厂老板停生产线帮忙烘干麦子](https://www.baidu.com/s?wd=%E7%93%9C%E5%AD%90%E5%8E%82%E8%80%81%E6%9D%BF%E5%81%9C%E7%94%9F%E4%BA%A7%E7%BA%BF%E5%B8%AE%E5%BF%99%E7%83%98%E5%B9%B2%E9%BA%A6%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [日本女子因华航空姐没讲日语暴怒辱骂](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%AD%90%E5%9B%A0%E5%8D%8E%E8%88%AA%E7%A9%BA%E5%A7%90%E6%B2%A1%E8%AE%B2%E6%97%A5%E8%AF%AD%E6%9A%B4%E6%80%92%E8%BE%B1%E9%AA%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [多地对网约车按下“暂停键”](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%AF%B9%E7%BD%91%E7%BA%A6%E8%BD%A6%E6%8C%89%E4%B8%8B%E2%80%9C%E6%9A%82%E5%81%9C%E9%94%AE%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [日本女子因华航空姐没讲日语暴怒辱骂](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%AD%90%E5%9B%A0%E5%8D%8E%E8%88%AA%E7%A9%BA%E5%A7%90%E6%B2%A1%E8%AE%B2%E6%97%A5%E8%AF%AD%E6%9A%B4%E6%80%92%E8%BE%B1%E9%AA%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [瓜子厂老板停生产线帮忙烘干麦子](https://www.baidu.com/s?wd=%E7%93%9C%E5%AD%90%E5%8E%82%E8%80%81%E6%9D%BF%E5%81%9C%E7%94%9F%E4%BA%A7%E7%BA%BF%E5%B8%AE%E5%BF%99%E7%83%98%E5%B9%B2%E9%BA%A6%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [湖南一村厕改后村民还要挑水冲厕所](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E4%B8%80%E6%9D%91%E5%8E%95%E6%94%B9%E5%90%8E%E6%9D%91%E6%B0%91%E8%BF%98%E8%A6%81%E6%8C%91%E6%B0%B4%E5%86%B2%E5%8E%95%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [环境保护的耀眼“实绩”](https://www.baidu.com/s?wd=%E7%8E%AF%E5%A2%83%E4%BF%9D%E6%8A%A4%E7%9A%84%E8%80%80%E7%9C%BC%E2%80%9C%E5%AE%9E%E7%BB%A9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [#苹果WWDC2023#](https://www.baidu.com/s?wd=%23%E8%8B%B9%E6%9E%9CWWDC2023%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [救护车送人进张杰演唱会？官方回应](https://www.baidu.com/s?wd=%E6%95%91%E6%8A%A4%E8%BD%A6%E9%80%81%E4%BA%BA%E8%BF%9B%E5%BC%A0%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [瓜子厂老板停生产线帮忙烘干麦子](https://www.baidu.com/s?wd=%E7%93%9C%E5%AD%90%E5%8E%82%E8%80%81%E6%9D%BF%E5%81%9C%E7%94%9F%E4%BA%A7%E7%BA%BF%E5%B8%AE%E5%BF%99%E7%83%98%E5%B9%B2%E9%BA%A6%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [日本女子因华航空姐没讲日语暴怒辱骂](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%AD%90%E5%9B%A0%E5%8D%8E%E8%88%AA%E7%A9%BA%E5%A7%90%E6%B2%A1%E8%AE%B2%E6%97%A5%E8%AF%AD%E6%9A%B4%E6%80%92%E8%BE%B1%E9%AA%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [多地对网约车按下“暂停键”](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%AF%B9%E7%BD%91%E7%BA%A6%E8%BD%A6%E6%8C%89%E4%B8%8B%E2%80%9C%E6%9A%82%E5%81%9C%E9%94%AE%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [日本女子因华航空姐没讲日语暴怒辱骂](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%AD%90%E5%9B%A0%E5%8D%8E%E8%88%AA%E7%A9%BA%E5%A7%90%E6%B2%A1%E8%AE%B2%E6%97%A5%E8%AF%AD%E6%9A%B4%E6%80%92%E8%BE%B1%E9%AA%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [瓜子厂老板停生产线帮忙烘干麦子](https://www.baidu.com/s?wd=%E7%93%9C%E5%AD%90%E5%8E%82%E8%80%81%E6%9D%BF%E5%81%9C%E7%94%9F%E4%BA%A7%E7%BA%BF%E5%B8%AE%E5%BF%99%E7%83%98%E5%B9%B2%E9%BA%A6%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [湖南一村厕改后村民还要挑水冲厕所](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E4%B8%80%E6%9D%91%E5%8E%95%E6%94%B9%E5%90%8E%E6%9D%91%E6%B0%91%E8%BF%98%E8%A6%81%E6%8C%91%E6%B0%B4%E5%86%B2%E5%8E%95%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
