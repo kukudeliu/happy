@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 10:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 10:46:01</h4></div>
 
 > 微博  
 
@@ -8,17 +8,17 @@
 4. [海霞欧阳夏丹已不再任央视主持人](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E9%9C%9E%E6%AC%A7%E9%98%B3%E5%A4%8F%E4%B8%B9%E5%B7%B2%E4%B8%8D%E5%86%8D%E4%BB%BB%E5%A4%AE%E8%A7%86%E4%B8%BB%E6%8C%81%E4%BA%BA%23&t=31&band_rank=4&Refer=top)<br />
 5. [shanji](https://s.weibo.com/weibo?q=shanji&t=31&band_rank=5&Refer=top)<br />
 6. [日本女团成员灌男粉喝洗洁精](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%9B%A2%E6%88%90%E5%91%98%E7%81%8C%E7%94%B7%E7%B2%89%E5%96%9D%E6%B4%97%E6%B4%81%E7%B2%BE%23&t=31&band_rank=6&Refer=top)<br />
-7. [做拔智齿手术要提前录个音](https://s.weibo.com/weibo?q=%23%E5%81%9A%E6%8B%94%E6%99%BA%E9%BD%BF%E6%89%8B%E6%9C%AF%E8%A6%81%E6%8F%90%E5%89%8D%E5%BD%95%E4%B8%AA%E9%9F%B3%23&t=31&band_rank=7&Refer=top)<br />
-8. [章若楠观众缘](https://s.weibo.com/weibo?q=%23%E7%AB%A0%E8%8B%A5%E6%A5%A0%E8%A7%82%E4%BC%97%E7%BC%98%23&t=31&band_rank=8&Refer=top)<br />
-9. [高铁站台为什么不能打伞](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E7%AB%99%E5%8F%B0%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E8%83%BD%E6%89%93%E4%BC%9E%23&t=31&band_rank=9&Refer=top)<br />
+7. [章若楠观众缘](https://s.weibo.com/weibo?q=%23%E7%AB%A0%E8%8B%A5%E6%A5%A0%E8%A7%82%E4%BC%97%E7%BC%98%23&t=31&band_rank=7&Refer=top)<br />
+8. [高铁站台为什么不能打伞](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E7%AB%99%E5%8F%B0%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E8%83%BD%E6%89%93%E4%BC%9E%23&t=31&band_rank=8&Refer=top)<br />
+9. [做拔智齿手术要提前录个音](https://s.weibo.com/weibo?q=%23%E5%81%9A%E6%8B%94%E6%99%BA%E9%BD%BF%E6%89%8B%E6%9C%AF%E8%A6%81%E6%8F%90%E5%89%8D%E5%BD%95%E4%B8%AA%E9%9F%B3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [我们这代人存不下钱的原因是什么？](https://www.zhihu.com/question/603826642)<br />
 2. [本田合资零部件厂商安斯泰莫承认造假，造假数量超 2 亿件，最长可追溯至 40 年前，此事暴露哪些问题？](https://www.zhihu.com/question/602979872)<br />
 3. [为什么我们中学物理课本，只承认古希腊的阿基米德的杠杆定理，而不认墨子的杠杆定理？](https://www.zhihu.com/question/603979051)<br />
-4. [来时王者去时仙！41 岁伊布宣布退役，结束 24 年职业生涯，如何评价他的职业生涯？](https://www.zhihu.com/question/604704769)<br />
-5. [重庆男子养儿子 17 年发现非亲生，重病之际起诉前妻索要 19.9 万，如何从法律角度解读此案件？](https://www.zhihu.com/question/604728463)<br />
+4. [重庆男子养儿子 17 年发现非亲生，重病之际起诉前妻索要 19.9 万，如何从法律角度解读此案件？](https://www.zhihu.com/question/604728463)<br />
+5. [来时王者去时仙！41 岁伊布宣布退役，结束 24 年职业生涯，如何评价他的职业生涯？](https://www.zhihu.com/question/604704769)<br />
 6. [有报告指今年春招市场求稳心态明显，45% 求职者考虑过降级就业，当前形势下，应抱什么样的就业观和择业观？](https://www.zhihu.com/question/604195542)<br />
 7. [手机摄影的进步是否已经打破相机「底大一级压死人」的规律?](https://www.zhihu.com/question/604440814)<br />
 8. [中国有哪些逆天的文物？](https://www.zhihu.com/question/22638720)<br />
