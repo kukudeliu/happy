@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 17:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 17:27:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [哪一刻让你觉得读书特别有用](https://s.weibo.com/weibo?q=%23%E5%93%AA%E4%B8%80%E5%88%BB%E8%AE%A9%E4%BD%A0%E8%A7%89%E5%BE%97%E8%AF%BB%E4%B9%A6%E7%89%B9%E5%88%AB%E6%9C%89%E7%94%A8%23&t=31&band_rank=3&Refer=top)<br />
 4. [魏晨差点错过孩子出生第一刻](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E6%99%A8%E5%B7%AE%E7%82%B9%E9%94%99%E8%BF%87%E5%AD%A9%E5%AD%90%E5%87%BA%E7%94%9F%E7%AC%AC%E4%B8%80%E5%88%BB%23&t=31&band_rank=4&Refer=top)<br />
 5. [张一山眼球怎么了](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%B8%80%E5%B1%B1%E7%9C%BC%E7%90%83%E6%80%8E%E4%B9%88%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
-6. [周震南父亲等被恢复执行1046万](https://s.weibo.com/weibo?q=%23%E5%91%A8%E9%9C%87%E5%8D%97%E7%88%B6%E4%BA%B2%E7%AD%89%E8%A2%AB%E6%81%A2%E5%A4%8D%E6%89%A7%E8%A1%8C1046%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
-7. [一个村考出300多大学生6个北大](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E6%9D%91%E8%80%83%E5%87%BA300%E5%A4%9A%E5%A4%A7%E5%AD%A6%E7%94%9F6%E4%B8%AA%E5%8C%97%E5%A4%A7%23&t=31&band_rank=7&Refer=top)<br />
-8. [距2023高考还有2天](https://s.weibo.com/weibo?q=%23%E8%B7%9D2023%E9%AB%98%E8%80%83%E8%BF%98%E6%9C%892%E5%A4%A9%23&t=31&band_rank=8&Refer=top)<br />
-9. [亲爱的李华以后信要自己写了](https://s.weibo.com/weibo?q=%23%E4%BA%B2%E7%88%B1%E7%9A%84%E6%9D%8E%E5%8D%8E%E4%BB%A5%E5%90%8E%E4%BF%A1%E8%A6%81%E8%87%AA%E5%B7%B1%E5%86%99%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+6. [一个村考出300多大学生6个北大](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E6%9D%91%E8%80%83%E5%87%BA300%E5%A4%9A%E5%A4%A7%E5%AD%A6%E7%94%9F6%E4%B8%AA%E5%8C%97%E5%A4%A7%23&t=31&band_rank=6&Refer=top)<br />
+7. [周震南父亲等被恢复执行1046万](https://s.weibo.com/weibo?q=%23%E5%91%A8%E9%9C%87%E5%8D%97%E7%88%B6%E4%BA%B2%E7%AD%89%E8%A2%AB%E6%81%A2%E5%A4%8D%E6%89%A7%E8%A1%8C1046%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
+8. [亲爱的李华以后信要自己写了](https://s.weibo.com/weibo?q=%23%E4%BA%B2%E7%88%B1%E7%9A%84%E6%9D%8E%E5%8D%8E%E4%BB%A5%E5%90%8E%E4%BF%A1%E8%A6%81%E8%87%AA%E5%B7%B1%E5%86%99%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [某某影视化](https://s.weibo.com/weibo?q=%E6%9F%90%E6%9F%90%E5%BD%B1%E8%A7%86%E5%8C%96&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
