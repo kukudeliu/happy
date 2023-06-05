@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 00:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 00:34:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [任豪求求了你们好好谈恋爱吧](https://s.weibo.com/weibo?q=%23%E4%BB%BB%E8%B1%AA%E6%B1%82%E6%B1%82%E4%BA%86%E4%BD%A0%E4%BB%AC%E5%A5%BD%E5%A5%BD%E8%B0%88%E6%81%8B%E7%88%B1%E5%90%A7%23&t=31&band_rank=6&Refer=top)<br />
 7. [库克 今年将是最精彩WWDC](https://s.weibo.com/weibo?q=%E5%BA%93%E5%85%8B%20%E4%BB%8A%E5%B9%B4%E5%B0%86%E6%98%AF%E6%9C%80%E7%B2%BE%E5%BD%A9WWDC&t=31&band_rank=7&Refer=top)<br />
 8. [美依礼芽四公 青鸟](https://s.weibo.com/weibo?q=%E7%BE%8E%E4%BE%9D%E7%A4%BC%E8%8A%BD%E5%9B%9B%E5%85%AC%20%E9%9D%92%E9%B8%9F&t=31&band_rank=8&Refer=top)<br />
-9. [27岁游戏主播抗癌半年后去世](https://s.weibo.com/weibo?q=%2327%E5%B2%81%E6%B8%B8%E6%88%8F%E4%B8%BB%E6%92%AD%E6%8A%97%E7%99%8C%E5%8D%8A%E5%B9%B4%E5%90%8E%E5%8E%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
+9. [母亲病危家人让高考孩子见最后一面](https://s.weibo.com/weibo?q=%23%E6%AF%8D%E4%BA%B2%E7%97%85%E5%8D%B1%E5%AE%B6%E4%BA%BA%E8%AE%A9%E9%AB%98%E8%80%83%E5%AD%A9%E5%AD%90%E8%A7%81%E6%9C%80%E5%90%8E%E4%B8%80%E9%9D%A2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -31,10 +31,10 @@
 3. [花30万可让梅西敬酒？北京警方回应](https://www.baidu.com/s?wd=%E8%8A%B130%E4%B8%87%E5%8F%AF%E8%AE%A9%E6%A2%85%E8%A5%BF%E6%95%AC%E9%85%92%EF%BC%9F%E5%8C%97%E4%BA%AC%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [环境保护的耀眼“实绩”](https://www.baidu.com/s?wd=%E7%8E%AF%E5%A2%83%E4%BF%9D%E6%8A%A4%E7%9A%84%E8%80%80%E7%9C%BC%E2%80%9C%E5%AE%9E%E7%BB%A9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [#苹果WWDC2023#](https://www.baidu.com/s?wd=%23%E8%8B%B9%E6%9E%9CWWDC2023%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [日本女子因华航空姐没讲日语暴怒辱骂](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%AD%90%E5%9B%A0%E5%8D%8E%E8%88%AA%E7%A9%BA%E5%A7%90%E6%B2%A1%E8%AE%B2%E6%97%A5%E8%AF%AD%E6%9A%B4%E6%80%92%E8%BE%B1%E9%AA%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [母亲病危家人让高考孩子见最后一面](https://www.baidu.com/s?wd=%E6%AF%8D%E4%BA%B2%E7%97%85%E5%8D%B1%E5%AE%B6%E4%BA%BA%E8%AE%A9%E9%AB%98%E8%80%83%E5%AD%A9%E5%AD%90%E8%A7%81%E6%9C%80%E5%90%8E%E4%B8%80%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [黑龙江现龙卷风 如灰柱直通云天](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E7%8E%B0%E9%BE%99%E5%8D%B7%E9%A3%8E+%E5%A6%82%E7%81%B0%E6%9F%B1%E7%9B%B4%E9%80%9A%E4%BA%91%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [为救遇险女子放弃登顶当事人发声](https://www.baidu.com/s?wd=%E4%B8%BA%E6%95%91%E9%81%87%E9%99%A9%E5%A5%B3%E5%AD%90%E6%94%BE%E5%BC%83%E7%99%BB%E9%A1%B6%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [为救遇险女子放弃登顶当事人发声](https://www.baidu.com/s?wd=%E4%B8%BA%E6%95%91%E9%81%87%E9%99%A9%E5%A5%B3%E5%AD%90%E6%94%BE%E5%BC%83%E7%99%BB%E9%A1%B6%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [印度又一列车脱轨 暂无伤亡报告](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E5%8F%88%E4%B8%80%E5%88%97%E8%BD%A6%E8%84%B1%E8%BD%A8+%E6%9A%82%E6%97%A0%E4%BC%A4%E4%BA%A1%E6%8A%A5%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [日本女子因华航空姐没讲日语暴怒辱骂](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%AD%90%E5%9B%A0%E5%8D%8E%E8%88%AA%E7%A9%BA%E5%A7%90%E6%B2%A1%E8%AE%B2%E6%97%A5%E8%AF%AD%E6%9A%B4%E6%80%92%E8%BE%B1%E9%AA%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [母亲病危家人让高考孩子见最后一面](https://www.baidu.com/s?wd=%E6%AF%8D%E4%BA%B2%E7%97%85%E5%8D%B1%E5%AE%B6%E4%BA%BA%E8%AE%A9%E9%AB%98%E8%80%83%E5%AD%A9%E5%AD%90%E8%A7%81%E6%9C%80%E5%90%8E%E4%B8%80%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [花30万可让梅西敬酒？北京警方回应](https://www.baidu.com/s?wd=%E8%8A%B130%E4%B8%87%E5%8F%AF%E8%AE%A9%E6%A2%85%E8%A5%BF%E6%95%AC%E9%85%92%EF%BC%9F%E5%8C%97%E4%BA%AC%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [环境保护的耀眼“实绩”](https://www.baidu.com/s?wd=%E7%8E%AF%E5%A2%83%E4%BF%9D%E6%8A%A4%E7%9A%84%E8%80%80%E7%9C%BC%E2%80%9C%E5%AE%9E%E7%BB%A9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [#苹果WWDC2023#](https://www.baidu.com/s?wd=%23%E8%8B%B9%E6%9E%9CWWDC2023%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [日本女子因华航空姐没讲日语暴怒辱骂](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%AD%90%E5%9B%A0%E5%8D%8E%E8%88%AA%E7%A9%BA%E5%A7%90%E6%B2%A1%E8%AE%B2%E6%97%A5%E8%AF%AD%E6%9A%B4%E6%80%92%E8%BE%B1%E9%AA%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [母亲病危家人让高考孩子见最后一面](https://www.baidu.com/s?wd=%E6%AF%8D%E4%BA%B2%E7%97%85%E5%8D%B1%E5%AE%B6%E4%BA%BA%E8%AE%A9%E9%AB%98%E8%80%83%E5%AD%A9%E5%AD%90%E8%A7%81%E6%9C%80%E5%90%8E%E4%B8%80%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [黑龙江现龙卷风 如灰柱直通云天](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E7%8E%B0%E9%BE%99%E5%8D%B7%E9%A3%8E+%E5%A6%82%E7%81%B0%E6%9F%B1%E7%9B%B4%E9%80%9A%E4%BA%91%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [为救遇险女子放弃登顶当事人发声](https://www.baidu.com/s?wd=%E4%B8%BA%E6%95%91%E9%81%87%E9%99%A9%E5%A5%B3%E5%AD%90%E6%94%BE%E5%BC%83%E7%99%BB%E9%A1%B6%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [为救遇险女子放弃登顶当事人发声](https://www.baidu.com/s?wd=%E4%B8%BA%E6%95%91%E9%81%87%E9%99%A9%E5%A5%B3%E5%AD%90%E6%94%BE%E5%BC%83%E7%99%BB%E9%A1%B6%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [印度又一列车脱轨 暂无伤亡报告](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E5%8F%88%E4%B8%80%E5%88%97%E8%BD%A6%E8%84%B1%E8%BD%A8+%E6%9A%82%E6%97%A0%E4%BC%A4%E4%BA%A1%E6%8A%A5%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [日本女子因华航空姐没讲日语暴怒辱骂](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%AD%90%E5%9B%A0%E5%8D%8E%E8%88%AA%E7%A9%BA%E5%A7%90%E6%B2%A1%E8%AE%B2%E6%97%A5%E8%AF%AD%E6%9A%B4%E6%80%92%E8%BE%B1%E9%AA%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [母亲病危家人让高考孩子见最后一面](https://www.baidu.com/s?wd=%E6%AF%8D%E4%BA%B2%E7%97%85%E5%8D%B1%E5%AE%B6%E4%BA%BA%E8%AE%A9%E9%AB%98%E8%80%83%E5%AD%A9%E5%AD%90%E8%A7%81%E6%9C%80%E5%90%8E%E4%B8%80%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
