@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 15:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 15:32:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [《狂飙》中穷苦出身的程程，考上了名牌大学，在大公司身居要职，如此励志的人，为什么最后死得那么惨？](https://www.zhihu.com/question/604132619)<br />
 7. [为什么跑步后吃不下，游完泳却变「饿死鬼」？](https://www.zhihu.com/question/598002295)<br />
 8. [科研上瘾是怎样的体验？](https://www.zhihu.com/question/456385091)<br />
-9. [米卢是什么水平的足球教练？](https://www.zhihu.com/question/21168956)<br />
+9. [学生党有必要趁着 618 大促，买一台平板自用吗？有哪些推荐？](https://www.zhihu.com/question/604829996)<br />
 
 > 百度  
 
