@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 14:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 14:28:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [中年男人为什么还在玩十年前的游戏?](https://www.zhihu.com/question/602764416)<br />
 6. [阿里巴巴全球数学竞赛参赛选手 95 后快递小哥，曾用两周证明欧拉常数公式，你身边有这样的数学隐藏高手吗？](https://www.zhihu.com/question/604783697)<br />
 7. [Character.AI 首周下载量碾压 ChatGPT，这一应用有哪些特点？将会带来哪些影响？](https://www.zhihu.com/question/604552431)<br />
-8. [中国有哪些逆天的文物？](https://www.zhihu.com/question/22638720)<br />
-9. [为什么跑步后吃不下，游完泳却变「饿死鬼」？](https://www.zhihu.com/question/598002295)<br />
+8. [为什么跑步后吃不下，游完泳却变「饿死鬼」？](https://www.zhihu.com/question/598002295)<br />
+9. [如何看待《五十公里桃花坞 3》中任敏汤晶媚乐队矛盾？](https://www.zhihu.com/question/604722511)<br />
 
 > 百度  
 
