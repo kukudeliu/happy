@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 22:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 22:16:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [业主购42套房全部打通墙体](https://s.weibo.com/weibo?q=%23%E4%B8%9A%E4%B8%BB%E8%B4%AD42%E5%A5%97%E6%88%BF%E5%85%A8%E9%83%A8%E6%89%93%E9%80%9A%E5%A2%99%E4%BD%93%23&t=31&band_rank=4&Refer=top)<br />
 5. [她只是长得好看并且很健谈罢了](https://s.weibo.com/weibo?q=%E5%A5%B9%E5%8F%AA%E6%98%AF%E9%95%BF%E5%BE%97%E5%A5%BD%E7%9C%8B%E5%B9%B6%E4%B8%94%E5%BE%88%E5%81%A5%E8%B0%88%E7%BD%A2%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
 6. [建议实现一户一曜](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%AE%9E%E7%8E%B0%E4%B8%80%E6%88%B7%E4%B8%80%E6%9B%9C%23&t=31&band_rank=6&Refer=top)<br />
-7. [难怪白鹿许凯不帮于正新剧宣传](https://s.weibo.com/weibo?q=%23%E9%9A%BE%E6%80%AA%E7%99%BD%E9%B9%BF%E8%AE%B8%E5%87%AF%E4%B8%8D%E5%B8%AE%E4%BA%8E%E6%AD%A3%E6%96%B0%E5%89%A7%E5%AE%A3%E4%BC%A0%23&t=31&band_rank=7&Refer=top)<br />
-8. [任豪求求了你们好好谈恋爱吧](https://s.weibo.com/weibo?q=%23%E4%BB%BB%E8%B1%AA%E6%B1%82%E6%B1%82%E4%BA%86%E4%BD%A0%E4%BB%AC%E5%A5%BD%E5%A5%BD%E8%B0%88%E6%81%8B%E7%88%B1%E5%90%A7%23&t=31&band_rank=8&Refer=top)<br />
-9. [娜扎七年前生图](https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8E%E4%B8%83%E5%B9%B4%E5%89%8D%E7%94%9F%E5%9B%BE%23&t=31&band_rank=9&Refer=top)<br />
+7. [任豪求求了你们好好谈恋爱吧](https://s.weibo.com/weibo?q=%23%E4%BB%BB%E8%B1%AA%E6%B1%82%E6%B1%82%E4%BA%86%E4%BD%A0%E4%BB%AC%E5%A5%BD%E5%A5%BD%E8%B0%88%E6%81%8B%E7%88%B1%E5%90%A7%23&t=31&band_rank=7&Refer=top)<br />
+8. [娜扎七年前生图](https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8E%E4%B8%83%E5%B9%B4%E5%89%8D%E7%94%9F%E5%9B%BE%23&t=31&band_rank=8&Refer=top)<br />
+9. [难怪白鹿许凯不帮于正新剧宣传](https://s.weibo.com/weibo?q=%23%E9%9A%BE%E6%80%AA%E7%99%BD%E9%B9%BF%E8%AE%B8%E5%87%AF%E4%B8%8D%E5%B8%AE%E4%BA%8E%E6%AD%A3%E6%96%B0%E5%89%A7%E5%AE%A3%E4%BC%A0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [6 月 5 日在岸、离岸人民币对美元分别跌破 7.12 、 7.13，跌去前一交易日全部涨幅，后势将如何？](https://www.zhihu.com/question/604888554)<br />
 7. [华为已申请 GPT 相关商标，此前曾表示「底层技术不比 ChatGPT 少」，哪些信息值得关注？](https://www.zhihu.com/question/604871143)<br />
 8. [苹果 WWDC 开发者大会定档北京时间 6 月 6 凌晨 1 点，有哪些值得关注的点？](https://www.zhihu.com/question/603949196)<br />
-9. [中国什么地方最安全不会地震？](https://www.zhihu.com/question/24769341)<br />
+9. [伊朗计划同沙特等海湾国家组建海军联盟，将产生哪些影响？](https://www.zhihu.com/question/604873437)<br />
 
 > 百度  
 
