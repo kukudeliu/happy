@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 01:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 01:54:01</h4></div>
 
 > 微博  
 
@@ -31,10 +31,10 @@
 3. [花30万可让梅西敬酒？北京警方回应](https://www.baidu.com/s?wd=%E8%8A%B130%E4%B8%87%E5%8F%AF%E8%AE%A9%E6%A2%85%E8%A5%BF%E6%95%AC%E9%85%92%EF%BC%9F%E5%8C%97%E4%BA%AC%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [环境保护的耀眼“实绩”](https://www.baidu.com/s?wd=%E7%8E%AF%E5%A2%83%E4%BF%9D%E6%8A%A4%E7%9A%84%E8%80%80%E7%9C%BC%E2%80%9C%E5%AE%9E%E7%BB%A9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [#苹果WWDC2023#](https://www.baidu.com/s?wd=%23%E8%8B%B9%E6%9E%9CWWDC2023%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [为救遇险女子放弃登顶当事人发声](https://www.baidu.com/s?wd=%E4%B8%BA%E6%95%91%E9%81%87%E9%99%A9%E5%A5%B3%E5%AD%90%E6%94%BE%E5%BC%83%E7%99%BB%E9%A1%B6%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [印度又一列车脱轨 暂无伤亡报告](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E5%8F%88%E4%B8%80%E5%88%97%E8%BD%A6%E8%84%B1%E8%BD%A8+%E6%9A%82%E6%97%A0%E4%BC%A4%E4%BA%A1%E6%8A%A5%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [母亲病危家人让高考孩子见最后一面](https://www.baidu.com/s?wd=%E6%AF%8D%E4%BA%B2%E7%97%85%E5%8D%B1%E5%AE%B6%E4%BA%BA%E8%AE%A9%E9%AB%98%E8%80%83%E5%AD%A9%E5%AD%90%E8%A7%81%E6%9C%80%E5%90%8E%E4%B8%80%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [主办方回应张杰演唱会救护车带人进场](https://www.baidu.com/s?wd=%E4%B8%BB%E5%8A%9E%E6%96%B9%E5%9B%9E%E5%BA%94%E5%BC%A0%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E6%95%91%E6%8A%A4%E8%BD%A6%E5%B8%A6%E4%BA%BA%E8%BF%9B%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [男子车位被占装地桩包围对方车辆](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%BD%A6%E4%BD%8D%E8%A2%AB%E5%8D%A0%E8%A3%85%E5%9C%B0%E6%A1%A9%E5%8C%85%E5%9B%B4%E5%AF%B9%E6%96%B9%E8%BD%A6%E8%BE%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [校长发3000个红包为高考生加油](https://www.baidu.com/s?wd=%E6%A0%A1%E9%95%BF%E5%8F%913000%E4%B8%AA%E7%BA%A2%E5%8C%85%E4%B8%BA%E9%AB%98%E8%80%83%E7%94%9F%E5%8A%A0%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [游客观潮险被卷逃跑时还在拍照](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E8%A7%82%E6%BD%AE%E9%99%A9%E8%A2%AB%E5%8D%B7%E9%80%83%E8%B7%91%E6%97%B6%E8%BF%98%E5%9C%A8%E6%8B%8D%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [湖南一村厕改后村民还要挑水冲厕所](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E4%B8%80%E6%9D%91%E5%8E%95%E6%94%B9%E5%90%8E%E6%9D%91%E6%B0%91%E8%BF%98%E8%A6%81%E6%8C%91%E6%B0%B4%E5%86%B2%E5%8E%95%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [花30万可让梅西敬酒？北京警方回应](https://www.baidu.com/s?wd=%E8%8A%B130%E4%B8%87%E5%8F%AF%E8%AE%A9%E6%A2%85%E8%A5%BF%E6%95%AC%E9%85%92%EF%BC%9F%E5%8C%97%E4%BA%AC%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [环境保护的耀眼“实绩”](https://www.baidu.com/s?wd=%E7%8E%AF%E5%A2%83%E4%BF%9D%E6%8A%A4%E7%9A%84%E8%80%80%E7%9C%BC%E2%80%9C%E5%AE%9E%E7%BB%A9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [#苹果WWDC2023#](https://www.baidu.com/s?wd=%23%E8%8B%B9%E6%9E%9CWWDC2023%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [为救遇险女子放弃登顶当事人发声](https://www.baidu.com/s?wd=%E4%B8%BA%E6%95%91%E9%81%87%E9%99%A9%E5%A5%B3%E5%AD%90%E6%94%BE%E5%BC%83%E7%99%BB%E9%A1%B6%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [印度又一列车脱轨 暂无伤亡报告](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E5%8F%88%E4%B8%80%E5%88%97%E8%BD%A6%E8%84%B1%E8%BD%A8+%E6%9A%82%E6%97%A0%E4%BC%A4%E4%BA%A1%E6%8A%A5%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [母亲病危家人让高考孩子见最后一面](https://www.baidu.com/s?wd=%E6%AF%8D%E4%BA%B2%E7%97%85%E5%8D%B1%E5%AE%B6%E4%BA%BA%E8%AE%A9%E9%AB%98%E8%80%83%E5%AD%A9%E5%AD%90%E8%A7%81%E6%9C%80%E5%90%8E%E4%B8%80%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [主办方回应张杰演唱会救护车带人进场](https://www.baidu.com/s?wd=%E4%B8%BB%E5%8A%9E%E6%96%B9%E5%9B%9E%E5%BA%94%E5%BC%A0%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E6%95%91%E6%8A%A4%E8%BD%A6%E5%B8%A6%E4%BA%BA%E8%BF%9B%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [男子车位被占装地桩包围对方车辆](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%BD%A6%E4%BD%8D%E8%A2%AB%E5%8D%A0%E8%A3%85%E5%9C%B0%E6%A1%A9%E5%8C%85%E5%9B%B4%E5%AF%B9%E6%96%B9%E8%BD%A6%E8%BE%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [校长发3000个红包为高考生加油](https://www.baidu.com/s?wd=%E6%A0%A1%E9%95%BF%E5%8F%913000%E4%B8%AA%E7%BA%A2%E5%8C%85%E4%B8%BA%E9%AB%98%E8%80%83%E7%94%9F%E5%8A%A0%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [游客观潮险被卷逃跑时还在拍照](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E8%A7%82%E6%BD%AE%E9%99%A9%E8%A2%AB%E5%8D%B7%E9%80%83%E8%B7%91%E6%97%B6%E8%BF%98%E5%9C%A8%E6%8B%8D%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [湖南一村厕改后村民还要挑水冲厕所](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E4%B8%80%E6%9D%91%E5%8E%95%E6%94%B9%E5%90%8E%E6%9D%91%E6%B0%91%E8%BF%98%E8%A6%81%E6%8C%91%E6%B0%B4%E5%86%B2%E5%8E%95%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
