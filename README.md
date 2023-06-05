@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 16:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 16:40:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [男子过生日蛋糕上名字10年被写错](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%BF%87%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95%E4%B8%8A%E5%90%8D%E5%AD%9710%E5%B9%B4%E8%A2%AB%E5%86%99%E9%94%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [高三学生买蛋糕庆祝被纪律老师砸坏](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%89%E5%AD%A6%E7%94%9F%E4%B9%B0%E8%9B%8B%E7%B3%95%E5%BA%86%E7%A5%9D%E8%A2%AB%E7%BA%AA%E5%BE%8B%E8%80%81%E5%B8%88%E7%A0%B8%E5%9D%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [迪士尼一边涨价一边裁员](https://www.baidu.com/s?wd=%E8%BF%AA%E5%A3%AB%E5%B0%BC%E4%B8%80%E8%BE%B9%E6%B6%A8%E4%BB%B7%E4%B8%80%E8%BE%B9%E8%A3%81%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [遇到这种虫子别打 有人差点毁容](https://www.baidu.com/s?wd=%E9%81%87%E5%88%B0%E8%BF%99%E7%A7%8D%E8%99%AB%E5%AD%90%E5%88%AB%E6%89%93+%E6%9C%89%E4%BA%BA%E5%B7%AE%E7%82%B9%E6%AF%81%E5%AE%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [重庆一小区道路沉降 官方:不影响建筑](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E5%B0%8F%E5%8C%BA%E9%81%93%E8%B7%AF%E6%B2%89%E9%99%8D+%E5%AE%98%E6%96%B9%3A%E4%B8%8D%E5%BD%B1%E5%93%8D%E5%BB%BA%E7%AD%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [重庆一小区道路沉降 官方:不影响建筑](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E5%B0%8F%E5%8C%BA%E9%81%93%E8%B7%AF%E6%B2%89%E9%99%8D+%E5%AE%98%E6%96%B9%3A%E4%B8%8D%E5%BD%B1%E5%93%8D%E5%BB%BA%E7%AD%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [遇到这种虫子别打 有人差点毁容](https://www.baidu.com/s?wd=%E9%81%87%E5%88%B0%E8%BF%99%E7%A7%8D%E8%99%AB%E5%AD%90%E5%88%AB%E6%89%93+%E6%9C%89%E4%BA%BA%E5%B7%AE%E7%82%B9%E6%AF%81%E5%AE%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [男子过生日蛋糕上名字10年被写错](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%BF%87%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95%E4%B8%8A%E5%90%8D%E5%AD%9710%E5%B9%B4%E8%A2%AB%E5%86%99%E9%94%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [高三学生买蛋糕庆祝被纪律老师砸坏](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%89%E5%AD%A6%E7%94%9F%E4%B9%B0%E8%9B%8B%E7%B3%95%E5%BA%86%E7%A5%9D%E8%A2%AB%E7%BA%AA%E5%BE%8B%E8%80%81%E5%B8%88%E7%A0%B8%E5%9D%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [迪士尼一边涨价一边裁员](https://www.baidu.com/s?wd=%E8%BF%AA%E5%A3%AB%E5%B0%BC%E4%B8%80%E8%BE%B9%E6%B6%A8%E4%BB%B7%E4%B8%80%E8%BE%B9%E8%A3%81%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [遇到这种虫子别打 有人差点毁容](https://www.baidu.com/s?wd=%E9%81%87%E5%88%B0%E8%BF%99%E7%A7%8D%E8%99%AB%E5%AD%90%E5%88%AB%E6%89%93+%E6%9C%89%E4%BA%BA%E5%B7%AE%E7%82%B9%E6%AF%81%E5%AE%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [重庆一小区道路沉降 官方:不影响建筑](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E5%B0%8F%E5%8C%BA%E9%81%93%E8%B7%AF%E6%B2%89%E9%99%8D+%E5%AE%98%E6%96%B9%3A%E4%B8%8D%E5%BD%B1%E5%93%8D%E5%BB%BA%E7%AD%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [重庆一小区道路沉降 官方:不影响建筑](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E5%B0%8F%E5%8C%BA%E9%81%93%E8%B7%AF%E6%B2%89%E9%99%8D+%E5%AE%98%E6%96%B9%3A%E4%B8%8D%E5%BD%B1%E5%93%8D%E5%BB%BA%E7%AD%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [遇到这种虫子别打 有人差点毁容](https://www.baidu.com/s?wd=%E9%81%87%E5%88%B0%E8%BF%99%E7%A7%8D%E8%99%AB%E5%AD%90%E5%88%AB%E6%89%93+%E6%9C%89%E4%BA%BA%E5%B7%AE%E7%82%B9%E6%AF%81%E5%AE%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
