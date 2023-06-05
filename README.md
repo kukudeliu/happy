@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 06:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 06:08:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [LPL 的中国选手为什么不用中文 ID？](https://www.zhihu.com/question/594864998)<br />
 7. []()<br />
 8. [伊朗计划同沙特等海湾国家组建海军联盟，将产生哪些影响？](https://www.zhihu.com/question/604873437)<br />
-9. []()<br />
+9. [空气炸锅和蒸烤一体机之间怎么选，什么更实用？](https://www.zhihu.com/question/437319297)<br />
 
 > 百度  
 
