@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 21:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 21:20:01</h4></div>
 
 > 微博  
 
@@ -9,20 +9,20 @@
 5. [娜扎七年前生图](https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8E%E4%B8%83%E5%B9%B4%E5%89%8D%E7%94%9F%E5%9B%BE%23&t=31&band_rank=5&Refer=top)<br />
 6. [别信了梅西不会来敬酒](https://s.weibo.com/weibo?q=%23%E5%88%AB%E4%BF%A1%E4%BA%86%E6%A2%85%E8%A5%BF%E4%B8%8D%E4%BC%9A%E6%9D%A5%E6%95%AC%E9%85%92%23&t=31&band_rank=6&Refer=top)<br />
 7. [南昌市监局已介入高校食堂老鼠事件](https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%98%8C%E5%B8%82%E7%9B%91%E5%B1%80%E5%B7%B2%E4%BB%8B%E5%85%A5%E9%AB%98%E6%A0%A1%E9%A3%9F%E5%A0%82%E8%80%81%E9%BC%A0%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=7&Refer=top)<br />
-8. [男子嘴贴保鲜膜忍不住亲亲宝宝](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%98%B4%E8%B4%B4%E4%BF%9D%E9%B2%9C%E8%86%9C%E5%BF%8D%E4%B8%8D%E4%BD%8F%E4%BA%B2%E4%BA%B2%E5%AE%9D%E5%AE%9D%23&t=31&band_rank=8&Refer=top)<br />
-9. [某某影视化](https://s.weibo.com/weibo?q=%E6%9F%90%E6%9F%90%E5%BD%B1%E8%A7%86%E5%8C%96&t=31&band_rank=9&Refer=top)<br />
+8. [某某影视化](https://s.weibo.com/weibo?q=%E6%9F%90%E6%9F%90%E5%BD%B1%E8%A7%86%E5%8C%96&t=31&band_rank=8&Refer=top)<br />
+9. [男子嘴贴保鲜膜忍不住亲亲宝宝](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%98%B4%E8%B4%B4%E4%BF%9D%E9%B2%9C%E8%86%9C%E5%BF%8D%E4%B8%8D%E4%BD%8F%E4%BA%B2%E4%BA%B2%E5%AE%9D%E5%AE%9D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [我们这代人存不下钱的原因是什么？](https://www.zhihu.com/question/603826642)<br />
 2. [如何看待珠峰攀登者为救遇险女子放弃登顶，被救女子只愿承担 4 成救援费？](https://www.zhihu.com/question/604842993)<br />
 3. [如何看待哔哩哔哩上架的《成龙历险记》重新配音前 13 集，并删除了旧版的几十万弹幕？](https://www.zhihu.com/question/604251906)<br />
-4. [对计算机一窍不通，该不该顺应 AI 的发展，大学选个「前景好但不擅长」的专业？](https://www.zhihu.com/theater/10768)<br />
+4. [高考模考 500 分，高不成低不就的怎么选学校？](https://www.zhihu.com/theater/10768)<br />
 5. [财政部表示，中央对地方转移支付预算正按规定抓紧下达，整体来看我国财政状况健康、安全，哪些信息值得关注？](https://www.zhihu.com/question/604877884)<br />
 6. [高三学生买蛋糕庆祝被纪律老师砸坏，「很多学生被气哭」，老师的做法会给学生心理造成什么影响？](https://www.zhihu.com/question/604864874)<br />
 7. [为杜绝替考，高考期间山东大学生不得请假离校，如何评价该措施，是否还有其他合理的防替考措施？](https://www.zhihu.com/question/604871319)<br />
 8. [AI 过热后套现来了，罗斯柴尔德家族出手，「减持」英伟达，如何看待此举？英伟达的估值是否过高？](https://www.zhihu.com/question/604832745)<br />
-9. [修仙小说能否反着来，开始是最高等级，每过一个劫会下降一个等级?](https://www.zhihu.com/question/603426949)<br />
+9. [《暗黑破坏神 4》全球媒体评分解禁，MC 评分网站均分 88，如何评价该评分？是否符合你的预期？](https://www.zhihu.com/question/603994809)<br />
 
 > 百度  
 
