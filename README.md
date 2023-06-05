@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 07:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 07:50:02</h4></div>
 
 > 微博  
 
@@ -14,8 +14,8 @@
 
 > 知乎  
 
-1. [如何看待珠峰攀登者为救遇险女子放弃登顶，被救女子只愿承担 4 成救援费？](https://www.zhihu.com/question/604842993)<br />
-2. [如何评价苹果 WWDC23 新发布的 Apple Vision Pro？](https://www.zhihu.com/question/604992942)<br />
+1. [如何评价苹果 WWDC23 新发布的 Apple Vision Pro？](https://www.zhihu.com/question/604992942)<br />
+2. [如何看待珠峰攀登者为救遇险女子放弃登顶，被救女子只愿承担 4 成救援费？](https://www.zhihu.com/question/604842993)<br />
 3. [财政部表示，中央对地方转移支付预算正按规定抓紧下达，整体来看我国财政状况健康、安全，哪些信息值得关注？](https://www.zhihu.com/question/604877884)<br />
 4. [6 月 5 日在岸、离岸人民币对美元分别跌破 7.12 、 7.13，跌去前一交易日全部涨幅，后势将如何？](https://www.zhihu.com/question/604888554)<br />
 5. [如何评价苹果于 2023 年 6 月 6 日发布的新款 Mac Pro?](https://www.zhihu.com/question/604990649)<br />
