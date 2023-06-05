@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 18:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 18:59:01</h4></div>
 
 > 微博  
 
@@ -19,10 +19,10 @@
 3. [如何看待哔哩哔哩上架的《成龙历险记》重新配音前 13 集，并删除了旧版的几十万弹幕？](https://www.zhihu.com/question/604251906)<br />
 4. [如何看待珠峰攀登者为救遇险女子放弃登顶，被救女子只愿承担 4 成救援费？](https://www.zhihu.com/question/604842993)<br />
 5. [《狂飙》中穷苦出身的程程，考上了名牌大学，在大公司身居要职，如此励志的人，为什么最后死得那么惨？](https://www.zhihu.com/question/604132619)<br />
-6. [杭州交警通报一起小客车撞击高速收费站设施起火事故，致 4 人死亡，具体情况如何？类似汽车安全隐患如何避免？](https://www.zhihu.com/question/604857286)<br />
-7. [为什么进口牛肉反而比国产牛肉更便宜？](https://www.zhihu.com/question/600043391)<br />
-8. [孙立成、谢晓亮由中科院外籍院士转为中科院院士，越来越多科学家回归，哪些信息值得关注？](https://www.zhihu.com/question/604569330)<br />
-9. []()<br />
+6. [为什么进口牛肉反而比国产牛肉更便宜？](https://www.zhihu.com/question/600043391)<br />
+7. [孙立成、谢晓亮由中科院外籍院士转为中科院院士，越来越多科学家回归，哪些信息值得关注？](https://www.zhihu.com/question/604569330)<br />
+8. []()<br />
+9. [这次《暗黑破坏神 4》游戏评分很高，为什么还有很多人批评？](https://www.zhihu.com/question/604399227)<br />
 
 > 百度  
 
@@ -32,9 +32,9 @@
 4. [环境保护的耀眼“实绩”](https://www.baidu.com/s?wd=%E7%8E%AF%E5%A2%83%E4%BF%9D%E6%8A%A4%E7%9A%84%E8%80%80%E7%9C%BC%E2%80%9C%E5%AE%9E%E7%BB%A9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子过生日蛋糕上名字10年被写错](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%BF%87%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95%E4%B8%8A%E5%90%8D%E5%AD%9710%E5%B9%B4%E8%A2%AB%E5%86%99%E9%94%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [一个村考出300多大学生6个北大](https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E6%9D%91%E8%80%83%E5%87%BA300%E5%A4%9A%E5%A4%A7%E5%AD%A6%E7%94%9F6%E4%B8%AA%E5%8C%97%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [周震南父亲等被恢复执行1046万](https://www.baidu.com/s?wd=%E5%91%A8%E9%9C%87%E5%8D%97%E7%88%B6%E4%BA%B2%E7%AD%89%E8%A2%AB%E6%81%A2%E5%A4%8D%E6%89%A7%E8%A1%8C1046%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [迪士尼一边涨价一边裁员](https://www.baidu.com/s?wd=%E8%BF%AA%E5%A3%AB%E5%B0%BC%E4%B8%80%E8%BE%B9%E6%B6%A8%E4%BB%B7%E4%B8%80%E8%BE%B9%E8%A3%81%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [高三学生买蛋糕庆祝被纪律老师砸坏](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%89%E5%AD%A6%E7%94%9F%E4%B9%B0%E8%9B%8B%E7%B3%95%E5%BA%86%E7%A5%9D%E8%A2%AB%E7%BA%AA%E5%BE%8B%E8%80%81%E5%B8%88%E7%A0%B8%E5%9D%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [因口角引发纠纷 男子厕所杀害女子](https://www.baidu.com/s?wd=%E5%9B%A0%E5%8F%A3%E8%A7%92%E5%BC%95%E5%8F%91%E7%BA%A0%E7%BA%B7+%E7%94%B7%E5%AD%90%E5%8E%95%E6%89%80%E6%9D%80%E5%AE%B3%E5%A5%B3%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [收费站4死车祸：疑网约车疲劳驾驶](https://www.baidu.com/s?wd=%E6%94%B6%E8%B4%B9%E7%AB%994%E6%AD%BB%E8%BD%A6%E7%A5%B8%EF%BC%9A%E7%96%91%E7%BD%91%E7%BA%A6%E8%BD%A6%E7%96%B2%E5%8A%B3%E9%A9%BE%E9%A9%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [环境保护的耀眼“实绩”](https://www.baidu.com/s?wd=%E7%8E%AF%E5%A2%83%E4%BF%9D%E6%8A%A4%E7%9A%84%E8%80%80%E7%9C%BC%E2%80%9C%E5%AE%9E%E7%BB%A9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子过生日蛋糕上名字10年被写错](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%BF%87%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95%E4%B8%8A%E5%90%8D%E5%AD%9710%E5%B9%B4%E8%A2%AB%E5%86%99%E9%94%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [一个村考出300多大学生6个北大](https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E6%9D%91%E8%80%83%E5%87%BA300%E5%A4%9A%E5%A4%A7%E5%AD%A6%E7%94%9F6%E4%B8%AA%E5%8C%97%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [周震南父亲等被恢复执行1046万](https://www.baidu.com/s?wd=%E5%91%A8%E9%9C%87%E5%8D%97%E7%88%B6%E4%BA%B2%E7%AD%89%E8%A2%AB%E6%81%A2%E5%A4%8D%E6%89%A7%E8%A1%8C1046%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [迪士尼一边涨价一边裁员](https://www.baidu.com/s?wd=%E8%BF%AA%E5%A3%AB%E5%B0%BC%E4%B8%80%E8%BE%B9%E6%B6%A8%E4%BB%B7%E4%B8%80%E8%BE%B9%E8%A3%81%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [高三学生买蛋糕庆祝被纪律老师砸坏](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%89%E5%AD%A6%E7%94%9F%E4%B9%B0%E8%9B%8B%E7%B3%95%E5%BA%86%E7%A5%9D%E8%A2%AB%E7%BA%AA%E5%BE%8B%E8%80%81%E5%B8%88%E7%A0%B8%E5%9D%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [因口角引发纠纷 男子厕所杀害女子](https://www.baidu.com/s?wd=%E5%9B%A0%E5%8F%A3%E8%A7%92%E5%BC%95%E5%8F%91%E7%BA%A0%E7%BA%B7+%E7%94%B7%E5%AD%90%E5%8E%95%E6%89%80%E6%9D%80%E5%AE%B3%E5%A5%B3%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [收费站4死车祸：疑网约车疲劳驾驶](https://www.baidu.com/s?wd=%E6%94%B6%E8%B4%B9%E7%AB%994%E6%AD%BB%E8%BD%A6%E7%A5%B8%EF%BC%9A%E7%96%91%E7%BD%91%E7%BA%A6%E8%BD%A6%E7%96%B2%E5%8A%B3%E9%A9%BE%E9%A9%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
