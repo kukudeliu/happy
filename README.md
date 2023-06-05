@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 13:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 13:55:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [如何看待哔哩哔哩上架的《成龙历险记》重新配音前 13 集，并删除了旧版的几十万弹幕？](https://www.zhihu.com/question/604251906)<br />
 7. [中年男人为什么还在玩十年前的游戏?](https://www.zhihu.com/question/602764416)<br />
 8. [如果以现在的你的能力水平去参加高考，会有不一样的结果吗？](https://www.zhihu.com/question/597439864)<br />
-9. [报告称毕业生租房租金主要来自父母，有人 45% 收入用于交房租，如何看待此数据？毕业后一直租房可行吗？](https://www.zhihu.com/question/604420104)<br />
+9. [Character.AI 首周下载量碾压 ChatGPT，这一应用有哪些特点？将会带来哪些影响？](https://www.zhihu.com/question/604552431)<br />
 
 > 百度  
 
