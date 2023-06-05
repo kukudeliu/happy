@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 21:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 21:37:02</h4></div>
 
 > 微博  
 
 1. [海天品牌回应蚝油内疑发现生蚝](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%A4%A9%E5%93%81%E7%89%8C%E5%9B%9E%E5%BA%94%E8%9A%9D%E6%B2%B9%E5%86%85%E7%96%91%E5%8F%91%E7%8E%B0%E7%94%9F%E8%9A%9D%23&t=31&band_rank=1&Refer=top)<br />
 2. [难怪白鹿许凯不帮于正新剧宣传](https://s.weibo.com/weibo?q=%23%E9%9A%BE%E6%80%AA%E7%99%BD%E9%B9%BF%E8%AE%B8%E5%87%AF%E4%B8%8D%E5%B8%AE%E4%BA%8E%E6%AD%A3%E6%96%B0%E5%89%A7%E5%AE%A3%E4%BC%A0%23&t=31&band_rank=2&Refer=top)<br />
-3. [哪一刻让你觉得读书特别有用](https://s.weibo.com/weibo?q=%23%E5%93%AA%E4%B8%80%E5%88%BB%E8%AE%A9%E4%BD%A0%E8%A7%89%E5%BE%97%E8%AF%BB%E4%B9%A6%E7%89%B9%E5%88%AB%E6%9C%89%E7%94%A8%23&t=31&band_rank=3&Refer=top)<br />
+3. [首艘国产大型邮轮有2500万个零部件](https://s.weibo.com/weibo?q=%23%E9%A6%96%E8%89%98%E5%9B%BD%E4%BA%A7%E5%A4%A7%E5%9E%8B%E9%82%AE%E8%BD%AE%E6%9C%892500%E4%B8%87%E4%B8%AA%E9%9B%B6%E9%83%A8%E4%BB%B6%23&t=31&band_rank=3&Refer=top)<br />
 4. [建议实现一户一曜](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%AE%9E%E7%8E%B0%E4%B8%80%E6%88%B7%E4%B8%80%E6%9B%9C%23&t=31&band_rank=4&Refer=top)<br />
 5. [娜扎七年前生图](https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8E%E4%B8%83%E5%B9%B4%E5%89%8D%E7%94%9F%E5%9B%BE%23&t=31&band_rank=5&Refer=top)<br />
 6. [美依礼芽四公 青鸟](https://s.weibo.com/weibo?q=%E7%BE%8E%E4%BE%9D%E7%A4%BC%E8%8A%BD%E5%9B%9B%E5%85%AC%20%E9%9D%92%E9%B8%9F&t=31&band_rank=6&Refer=top)<br />
 7. [孙怡对汤晶媚说你不要在这道德绑架我](https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%80%A1%E5%AF%B9%E6%B1%A4%E6%99%B6%E5%AA%9A%E8%AF%B4%E4%BD%A0%E4%B8%8D%E8%A6%81%E5%9C%A8%E8%BF%99%E9%81%93%E5%BE%B7%E7%BB%91%E6%9E%B6%E6%88%91%23&t=31&band_rank=7&Refer=top)<br />
-8. [南昌市监局已介入高校食堂老鼠事件](https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%98%8C%E5%B8%82%E7%9B%91%E5%B1%80%E5%B7%B2%E4%BB%8B%E5%85%A5%E9%AB%98%E6%A0%A1%E9%A3%9F%E5%A0%82%E8%80%81%E9%BC%A0%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=8&Refer=top)<br />
-9. [男子嘴贴保鲜膜忍不住亲亲宝宝](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%98%B4%E8%B4%B4%E4%BF%9D%E9%B2%9C%E8%86%9C%E5%BF%8D%E4%B8%8D%E4%BD%8F%E4%BA%B2%E4%BA%B2%E5%AE%9D%E5%AE%9D%23&t=31&band_rank=9&Refer=top)<br />
+8. [男子嘴贴保鲜膜忍不住亲亲宝宝](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%98%B4%E8%B4%B4%E4%BF%9D%E9%B2%9C%E8%86%9C%E5%BF%8D%E4%B8%8D%E4%BD%8F%E4%BA%B2%E4%BA%B2%E5%AE%9D%E5%AE%9D%23&t=31&band_rank=8&Refer=top)<br />
+9. [哪一刻让你觉得读书特别有用](https://s.weibo.com/weibo?q=%23%E5%93%AA%E4%B8%80%E5%88%BB%E8%AE%A9%E4%BD%A0%E8%A7%89%E5%BE%97%E8%AF%BB%E4%B9%A6%E7%89%B9%E5%88%AB%E6%9C%89%E7%94%A8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
