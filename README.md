@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 19:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 19:24:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [一个村考出300多大学生6个北大](https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E6%9D%91%E8%80%83%E5%87%BA300%E5%A4%9A%E5%A4%A7%E5%AD%A6%E7%94%9F6%E4%B8%AA%E5%8C%97%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [业主：为了卖房 我被中介“pua”了](https://www.baidu.com/s?wd=%E4%B8%9A%E4%B8%BB%EF%BC%9A%E4%B8%BA%E4%BA%86%E5%8D%96%E6%88%BF+%E6%88%91%E8%A2%AB%E4%B8%AD%E4%BB%8B%E2%80%9Cpua%E2%80%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [哥哥听到妹妹哭声一路小跑来安抚](https://www.baidu.com/s?wd=%E5%93%A5%E5%93%A5%E5%90%AC%E5%88%B0%E5%A6%B9%E5%A6%B9%E5%93%AD%E5%A3%B0%E4%B8%80%E8%B7%AF%E5%B0%8F%E8%B7%91%E6%9D%A5%E5%AE%89%E6%8A%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [长沙夜市现爆炒鹅卵石](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E5%A4%9C%E5%B8%82%E7%8E%B0%E7%88%86%E7%82%92%E9%B9%85%E5%8D%B5%E7%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [弟弟开黄腔把哥哥婚事搅黄](https://www.baidu.com/s?wd=%E5%BC%9F%E5%BC%9F%E5%BC%80%E9%BB%84%E8%85%94%E6%8A%8A%E5%93%A5%E5%93%A5%E5%A9%9A%E4%BA%8B%E6%90%85%E9%BB%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [一个村考出300多大学生6个北大](https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E6%9D%91%E8%80%83%E5%87%BA300%E5%A4%9A%E5%A4%A7%E5%AD%A6%E7%94%9F6%E4%B8%AA%E5%8C%97%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [业主：为了卖房 我被中介“pua”了](https://www.baidu.com/s?wd=%E4%B8%9A%E4%B8%BB%EF%BC%9A%E4%B8%BA%E4%BA%86%E5%8D%96%E6%88%BF+%E6%88%91%E8%A2%AB%E4%B8%AD%E4%BB%8B%E2%80%9Cpua%E2%80%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [哥哥听到妹妹哭声一路小跑来安抚](https://www.baidu.com/s?wd=%E5%93%A5%E5%93%A5%E5%90%AC%E5%88%B0%E5%A6%B9%E5%A6%B9%E5%93%AD%E5%A3%B0%E4%B8%80%E8%B7%AF%E5%B0%8F%E8%B7%91%E6%9D%A5%E5%AE%89%E6%8A%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [长沙夜市现爆炒鹅卵石](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E5%A4%9C%E5%B8%82%E7%8E%B0%E7%88%86%E7%82%92%E9%B9%85%E5%8D%B5%E7%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [弟弟开黄腔把哥哥婚事搅黄](https://www.baidu.com/s?wd=%E5%BC%9F%E5%BC%9F%E5%BC%80%E9%BB%84%E8%85%94%E6%8A%8A%E5%93%A5%E5%93%A5%E5%A9%9A%E4%BA%8B%E6%90%85%E9%BB%84&sa=fyb_news&rsv_dl=fyb_news)<br />
