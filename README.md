@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 10:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 10:08:01</h4></div>
 
 > 微博  
 
@@ -33,7 +33,7 @@
 5. [印度耗资百亿卢比的大桥又塌了](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E8%80%97%E8%B5%84%E7%99%BE%E4%BA%BF%E5%8D%A2%E6%AF%94%E7%9A%84%E5%A4%A7%E6%A1%A5%E5%8F%88%E5%A1%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [毛坦厂中学万人雨中送考](https://www.baidu.com/s?wd=%E6%AF%9B%E5%9D%A6%E5%8E%82%E4%B8%AD%E5%AD%A6%E4%B8%87%E4%BA%BA%E9%9B%A8%E4%B8%AD%E9%80%81%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [北大自杀女生男友涉虐待罪案7日宣判](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E8%87%AA%E6%9D%80%E5%A5%B3%E7%94%9F%E7%94%B7%E5%8F%8B%E6%B6%89%E8%99%90%E5%BE%85%E7%BD%AA%E6%A1%887%E6%97%A5%E5%AE%A3%E5%88%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [罕见画面！俄米格31战机坠毁前喷火](https://www.baidu.com/s?wd=%E7%BD%95%E8%A7%81%E7%94%BB%E9%9D%A2%EF%BC%81%E4%BF%84%E7%B1%B3%E6%A0%BC31%E6%88%98%E6%9C%BA%E5%9D%A0%E6%AF%81%E5%89%8D%E5%96%B7%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [飞机闯入华盛顿禁飞区被拦截后坠毁](https://www.baidu.com/s?wd=%E9%A3%9E%E6%9C%BA%E9%97%AF%E5%85%A5%E5%8D%8E%E7%9B%9B%E9%A1%BF%E7%A6%81%E9%A3%9E%E5%8C%BA%E8%A2%AB%E6%8B%A6%E6%88%AA%E5%90%8E%E5%9D%A0%E6%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [男子连吃100天麦当劳减重53斤](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%BF%9E%E5%90%83100%E5%A4%A9%E9%BA%A6%E5%BD%93%E5%8A%B3%E5%87%8F%E9%87%8D53%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [印度耗资百亿卢比的大桥又塌了](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E8%80%97%E8%B5%84%E7%99%BE%E4%BA%BF%E5%8D%A2%E6%AF%94%E7%9A%84%E5%A4%A7%E6%A1%A5%E5%8F%88%E5%A1%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [毛坦厂中学万人雨中送考](https://www.baidu.com/s?wd=%E6%AF%9B%E5%9D%A6%E5%8E%82%E4%B8%AD%E5%AD%A6%E4%B8%87%E4%BA%BA%E9%9B%A8%E4%B8%AD%E9%80%81%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [北大自杀女生男友涉虐待罪案7日宣判](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E8%87%AA%E6%9D%80%E5%A5%B3%E7%94%9F%E7%94%B7%E5%8F%8B%E6%B6%89%E8%99%90%E5%BE%85%E7%BD%AA%E6%A1%887%E6%97%A5%E5%AE%A3%E5%88%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [罕见画面！俄米格31战机坠毁前喷火](https://www.baidu.com/s?wd=%E7%BD%95%E8%A7%81%E7%94%BB%E9%9D%A2%EF%BC%81%E4%BF%84%E7%B1%B3%E6%A0%BC31%E6%88%98%E6%9C%BA%E5%9D%A0%E6%AF%81%E5%89%8D%E5%96%B7%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [飞机闯入华盛顿禁飞区被拦截后坠毁](https://www.baidu.com/s?wd=%E9%A3%9E%E6%9C%BA%E9%97%AF%E5%85%A5%E5%8D%8E%E7%9B%9B%E9%A1%BF%E7%A6%81%E9%A3%9E%E5%8C%BA%E8%A2%AB%E6%8B%A6%E6%88%AA%E5%90%8E%E5%9D%A0%E6%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [男子连吃100天麦当劳减重53斤](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%BF%9E%E5%90%83100%E5%A4%A9%E9%BA%A6%E5%BD%93%E5%8A%B3%E5%87%8F%E9%87%8D53%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
