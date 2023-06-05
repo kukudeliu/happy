@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 20:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 20:06:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [哪一刻让你觉得读书特别有用](https://s.weibo.com/weibo?q=%23%E5%93%AA%E4%B8%80%E5%88%BB%E8%AE%A9%E4%BD%A0%E8%A7%89%E5%BE%97%E8%AF%BB%E4%B9%A6%E7%89%B9%E5%88%AB%E6%9C%89%E7%94%A8%23&t=31&band_rank=3&Refer=top)<br />
 4. [孙怡对汤晶媚说你不要在这道德绑架我](https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%80%A1%E5%AF%B9%E6%B1%A4%E6%99%B6%E5%AA%9A%E8%AF%B4%E4%BD%A0%E4%B8%8D%E8%A6%81%E5%9C%A8%E8%BF%99%E9%81%93%E5%BE%B7%E7%BB%91%E6%9E%B6%E6%88%91%23&t=31&band_rank=4&Refer=top)<br />
 5. [一个村考出300多大学生6个北大](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E6%9D%91%E8%80%83%E5%87%BA300%E5%A4%9A%E5%A4%A7%E5%AD%A6%E7%94%9F6%E4%B8%AA%E5%8C%97%E5%A4%A7%23&t=31&band_rank=5&Refer=top)<br />
-6. [某某影视化](https://s.weibo.com/weibo?q=%E6%9F%90%E6%9F%90%E5%BD%B1%E8%A7%86%E5%8C%96&t=31&band_rank=6&Refer=top)<br />
-7. [建议实现一户一曜](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%AE%9E%E7%8E%B0%E4%B8%80%E6%88%B7%E4%B8%80%E6%9B%9C%23&t=31&band_rank=7&Refer=top)<br />
+6. [建议实现一户一曜](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%AE%9E%E7%8E%B0%E4%B8%80%E6%88%B7%E4%B8%80%E6%9B%9C%23&t=31&band_rank=6&Refer=top)<br />
+7. [某某影视化](https://s.weibo.com/weibo?q=%E6%9F%90%E6%9F%90%E5%BD%B1%E8%A7%86%E5%8C%96&t=31&band_rank=7&Refer=top)<br />
 8. [男子嘴贴保鲜膜忍不住亲亲宝宝](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%98%B4%E8%B4%B4%E4%BF%9D%E9%B2%9C%E8%86%9C%E5%BF%8D%E4%B8%8D%E4%BD%8F%E4%BA%B2%E4%BA%B2%E5%AE%9D%E5%AE%9D%23&t=31&band_rank=8&Refer=top)<br />
-9. [best道歉](https://s.weibo.com/weibo?q=%23best%E9%81%93%E6%AD%89%23&t=31&band_rank=9&Refer=top)<br />
+9. [江歌妈妈 捐出全部赔偿不是冲动](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E6%AD%8C%E5%A6%88%E5%A6%88%20%E6%8D%90%E5%87%BA%E5%85%A8%E9%83%A8%E8%B5%94%E5%81%BF%E4%B8%8D%E6%98%AF%E5%86%B2%E5%8A%A8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
