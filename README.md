@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 03:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 03:16:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [LPL 的中国选手为什么不用中文 ID？](https://www.zhihu.com/question/594864998)<br />
 7. []()<br />
 8. []()<br />
-9. []()<br />
+9. [华为已申请 GPT 相关商标，此前曾表示「底层技术不比 ChatGPT 少」，哪些信息值得关注？](https://www.zhihu.com/question/604871143)<br />
 
 > 百度  
 
