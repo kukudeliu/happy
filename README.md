@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 09:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 09:36:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [印度耗资百亿卢比的大桥又塌了](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E8%80%97%E8%B5%84%E7%99%BE%E4%BA%BF%E5%8D%A2%E6%AF%94%E7%9A%84%E5%A4%A7%E6%A1%A5%E5%8F%88%E5%A1%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大量安卓用户逃离换iPhone](https://www.baidu.com/s?wd=%E5%A4%A7%E9%87%8F%E5%AE%89%E5%8D%93%E7%94%A8%E6%88%B7%E9%80%83%E7%A6%BB%E6%8D%A2iPhone&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [北大自杀女生男友涉虐待罪案7日宣判](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E8%87%AA%E6%9D%80%E5%A5%B3%E7%94%9F%E7%94%B7%E5%8F%8B%E6%B6%89%E8%99%90%E5%BE%85%E7%BD%AA%E6%A1%887%E6%97%A5%E5%AE%A3%E5%88%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子将农药倒入饮料给丈夫喝获刑](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B0%86%E5%86%9C%E8%8D%AF%E5%80%92%E5%85%A5%E9%A5%AE%E6%96%99%E7%BB%99%E4%B8%88%E5%A4%AB%E5%96%9D%E8%8E%B7%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [为啥高考试卷是中国邮政送？](https://www.baidu.com/s?wd=%E4%B8%BA%E5%95%A5%E9%AB%98%E8%80%83%E8%AF%95%E5%8D%B7%E6%98%AF%E4%B8%AD%E5%9B%BD%E9%82%AE%E6%94%BF%E9%80%81%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [为啥高考试卷是中国邮政送？](https://www.baidu.com/s?wd=%E4%B8%BA%E5%95%A5%E9%AB%98%E8%80%83%E8%AF%95%E5%8D%B7%E6%98%AF%E4%B8%AD%E5%9B%BD%E9%82%AE%E6%94%BF%E9%80%81%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子将农药倒入饮料给丈夫喝获刑](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B0%86%E5%86%9C%E8%8D%AF%E5%80%92%E5%85%A5%E9%A5%AE%E6%96%99%E7%BB%99%E4%B8%88%E5%A4%AB%E5%96%9D%E8%8E%B7%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [印度耗资百亿卢比的大桥又塌了](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E8%80%97%E8%B5%84%E7%99%BE%E4%BA%BF%E5%8D%A2%E6%AF%94%E7%9A%84%E5%A4%A7%E6%A1%A5%E5%8F%88%E5%A1%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大量安卓用户逃离换iPhone](https://www.baidu.com/s?wd=%E5%A4%A7%E9%87%8F%E5%AE%89%E5%8D%93%E7%94%A8%E6%88%B7%E9%80%83%E7%A6%BB%E6%8D%A2iPhone&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [北大自杀女生男友涉虐待罪案7日宣判](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E8%87%AA%E6%9D%80%E5%A5%B3%E7%94%9F%E7%94%B7%E5%8F%8B%E6%B6%89%E8%99%90%E5%BE%85%E7%BD%AA%E6%A1%887%E6%97%A5%E5%AE%A3%E5%88%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子将农药倒入饮料给丈夫喝获刑](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B0%86%E5%86%9C%E8%8D%AF%E5%80%92%E5%85%A5%E9%A5%AE%E6%96%99%E7%BB%99%E4%B8%88%E5%A4%AB%E5%96%9D%E8%8E%B7%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [为啥高考试卷是中国邮政送？](https://www.baidu.com/s?wd=%E4%B8%BA%E5%95%A5%E9%AB%98%E8%80%83%E8%AF%95%E5%8D%B7%E6%98%AF%E4%B8%AD%E5%9B%BD%E9%82%AE%E6%94%BF%E9%80%81%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [为啥高考试卷是中国邮政送？](https://www.baidu.com/s?wd=%E4%B8%BA%E5%95%A5%E9%AB%98%E8%80%83%E8%AF%95%E5%8D%B7%E6%98%AF%E4%B8%AD%E5%9B%BD%E9%82%AE%E6%94%BF%E9%80%81%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子将农药倒入饮料给丈夫喝获刑](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B0%86%E5%86%9C%E8%8D%AF%E5%80%92%E5%85%A5%E9%A5%AE%E6%96%99%E7%BB%99%E4%B8%88%E5%A4%AB%E5%96%9D%E8%8E%B7%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
