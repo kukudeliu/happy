@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 23:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 23:04:01</h4></div>
 
 > 微博  
 
@@ -31,10 +31,10 @@
 3. [花30万可让梅西敬酒？北京警方回应](https://www.baidu.com/s?wd=%E8%8A%B130%E4%B8%87%E5%8F%AF%E8%AE%A9%E6%A2%85%E8%A5%BF%E6%95%AC%E9%85%92%EF%BC%9F%E5%8C%97%E4%BA%AC%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [环境保护的耀眼“实绩”](https://www.baidu.com/s?wd=%E7%8E%AF%E5%A2%83%E4%BF%9D%E6%8A%A4%E7%9A%84%E8%80%80%E7%9C%BC%E2%80%9C%E5%AE%9E%E7%BB%A9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [业主买42套房欲打通 楼上墙壁现裂缝](https://www.baidu.com/s?wd=%E4%B8%9A%E4%B8%BB%E4%B9%B042%E5%A5%97%E6%88%BF%E6%AC%B2%E6%89%93%E9%80%9A+%E6%A5%BC%E4%B8%8A%E5%A2%99%E5%A3%81%E7%8E%B0%E8%A3%82%E7%BC%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [北航硕士毕业后当健身教练](https://www.baidu.com/s?wd=%E5%8C%97%E8%88%AA%E7%A1%95%E5%A3%AB%E6%AF%95%E4%B8%9A%E5%90%8E%E5%BD%93%E5%81%A5%E8%BA%AB%E6%95%99%E7%BB%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [6000元喜宴16道菜有7成是预制](https://www.baidu.com/s?wd=6000%E5%85%83%E5%96%9C%E5%AE%B416%E9%81%93%E8%8F%9C%E6%9C%897%E6%88%90%E6%98%AF%E9%A2%84%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [淄博张店烧烤倡议高考停业三天](https://www.baidu.com/s?wd=%E6%B7%84%E5%8D%9A%E5%BC%A0%E5%BA%97%E7%83%A7%E7%83%A4%E5%80%A1%E8%AE%AE%E9%AB%98%E8%80%83%E5%81%9C%E4%B8%9A%E4%B8%89%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [婆婆与儿媳争执将农药倒进其水井](https://www.baidu.com/s?wd=%E5%A9%86%E5%A9%86%E4%B8%8E%E5%84%BF%E5%AA%B3%E4%BA%89%E6%89%A7%E5%B0%86%E5%86%9C%E8%8D%AF%E5%80%92%E8%BF%9B%E5%85%B6%E6%B0%B4%E4%BA%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [美指责中国军舰危险拦截 外交部回应](https://www.baidu.com/s?wd=%E7%BE%8E%E6%8C%87%E8%B4%A3%E4%B8%AD%E5%9B%BD%E5%86%9B%E8%88%B0%E5%8D%B1%E9%99%A9%E6%8B%A6%E6%88%AA+%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [网红安茂元回应三亚被宰](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E5%AE%89%E8%8C%82%E5%85%83%E5%9B%9E%E5%BA%94%E4%B8%89%E4%BA%9A%E8%A2%AB%E5%AE%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [北航硕士毕业后当健身教练](https://www.baidu.com/s?wd=%E5%8C%97%E8%88%AA%E7%A1%95%E5%A3%AB%E6%AF%95%E4%B8%9A%E5%90%8E%E5%BD%93%E5%81%A5%E8%BA%AB%E6%95%99%E7%BB%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [淄博张店烧烤倡议高考停业三天](https://www.baidu.com/s?wd=%E6%B7%84%E5%8D%9A%E5%BC%A0%E5%BA%97%E7%83%A7%E7%83%A4%E5%80%A1%E8%AE%AE%E9%AB%98%E8%80%83%E5%81%9C%E4%B8%9A%E4%B8%89%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [花30万可让梅西敬酒？北京警方回应](https://www.baidu.com/s?wd=%E8%8A%B130%E4%B8%87%E5%8F%AF%E8%AE%A9%E6%A2%85%E8%A5%BF%E6%95%AC%E9%85%92%EF%BC%9F%E5%8C%97%E4%BA%AC%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [环境保护的耀眼“实绩”](https://www.baidu.com/s?wd=%E7%8E%AF%E5%A2%83%E4%BF%9D%E6%8A%A4%E7%9A%84%E8%80%80%E7%9C%BC%E2%80%9C%E5%AE%9E%E7%BB%A9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [业主买42套房欲打通 楼上墙壁现裂缝](https://www.baidu.com/s?wd=%E4%B8%9A%E4%B8%BB%E4%B9%B042%E5%A5%97%E6%88%BF%E6%AC%B2%E6%89%93%E9%80%9A+%E6%A5%BC%E4%B8%8A%E5%A2%99%E5%A3%81%E7%8E%B0%E8%A3%82%E7%BC%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [北航硕士毕业后当健身教练](https://www.baidu.com/s?wd=%E5%8C%97%E8%88%AA%E7%A1%95%E5%A3%AB%E6%AF%95%E4%B8%9A%E5%90%8E%E5%BD%93%E5%81%A5%E8%BA%AB%E6%95%99%E7%BB%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [6000元喜宴16道菜有7成是预制](https://www.baidu.com/s?wd=6000%E5%85%83%E5%96%9C%E5%AE%B416%E9%81%93%E8%8F%9C%E6%9C%897%E6%88%90%E6%98%AF%E9%A2%84%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [淄博张店烧烤倡议高考停业三天](https://www.baidu.com/s?wd=%E6%B7%84%E5%8D%9A%E5%BC%A0%E5%BA%97%E7%83%A7%E7%83%A4%E5%80%A1%E8%AE%AE%E9%AB%98%E8%80%83%E5%81%9C%E4%B8%9A%E4%B8%89%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [婆婆与儿媳争执将农药倒进其水井](https://www.baidu.com/s?wd=%E5%A9%86%E5%A9%86%E4%B8%8E%E5%84%BF%E5%AA%B3%E4%BA%89%E6%89%A7%E5%B0%86%E5%86%9C%E8%8D%AF%E5%80%92%E8%BF%9B%E5%85%B6%E6%B0%B4%E4%BA%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [美指责中国军舰危险拦截 外交部回应](https://www.baidu.com/s?wd=%E7%BE%8E%E6%8C%87%E8%B4%A3%E4%B8%AD%E5%9B%BD%E5%86%9B%E8%88%B0%E5%8D%B1%E9%99%A9%E6%8B%A6%E6%88%AA+%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [网红安茂元回应三亚被宰](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E5%AE%89%E8%8C%82%E5%85%83%E5%9B%9E%E5%BA%94%E4%B8%89%E4%BA%9A%E8%A2%AB%E5%AE%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [北航硕士毕业后当健身教练](https://www.baidu.com/s?wd=%E5%8C%97%E8%88%AA%E7%A1%95%E5%A3%AB%E6%AF%95%E4%B8%9A%E5%90%8E%E5%BD%93%E5%81%A5%E8%BA%AB%E6%95%99%E7%BB%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [淄博张店烧烤倡议高考停业三天](https://www.baidu.com/s?wd=%E6%B7%84%E5%8D%9A%E5%BC%A0%E5%BA%97%E7%83%A7%E7%83%A4%E5%80%A1%E8%AE%AE%E9%AB%98%E8%80%83%E5%81%9C%E4%B8%9A%E4%B8%89%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
