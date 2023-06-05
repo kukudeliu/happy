@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 07:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 07:13:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [6 月 5 日在岸、离岸人民币对美元分别跌破 7.12 、 7.13，跌去前一交易日全部涨幅，后势将如何？](https://www.zhihu.com/question/604888554)<br />
 5. []()<br />
 6. []()<br />
-7. [《暗黑破坏神 4》全球媒体评分解禁，MC 评分网站均分 88，如何评价该评分？是否符合你的预期？](https://www.zhihu.com/question/603994809)<br />
-8. []()<br />
-9. [华为已申请 GPT 相关商标，此前曾表示「底层技术不比 ChatGPT 少」，哪些信息值得关注？](https://www.zhihu.com/question/604871143)<br />
+7. [华为已申请 GPT 相关商标，此前曾表示「底层技术不比 ChatGPT 少」，哪些信息值得关注？](https://www.zhihu.com/question/604871143)<br />
+8. [如何看待哔哩哔哩上架的《成龙历险记》重新配音前 13 集，并删除了旧版的几十万弹幕？](https://www.zhihu.com/question/604251906)<br />
+9. [在边界感强烈的人群中，如何表达情感？](https://www.zhihu.com/question/604414099)<br />
 
 > 百度  
 
