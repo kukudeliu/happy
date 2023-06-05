@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 09:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 09:40:01</h4></div>
 
 > 微博  
 
@@ -31,10 +31,10 @@
 3. [海霞、欧阳夏丹已不再任央视主持人](https://www.baidu.com/s?wd=%E6%B5%B7%E9%9C%9E%E3%80%81%E6%AC%A7%E9%98%B3%E5%A4%8F%E4%B8%B9%E5%B7%B2%E4%B8%8D%E5%86%8D%E4%BB%BB%E5%A4%AE%E8%A7%86%E4%B8%BB%E6%8C%81%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [128秒回顾中国航天高燃时刻](https://www.baidu.com/s?wd=128%E7%A7%92%E5%9B%9E%E9%A1%BE%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E9%AB%98%E7%87%83%E6%97%B6%E5%88%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [印度耗资百亿卢比的大桥又塌了](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E8%80%97%E8%B5%84%E7%99%BE%E4%BA%BF%E5%8D%A2%E6%AF%94%E7%9A%84%E5%A4%A7%E6%A1%A5%E5%8F%88%E5%A1%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [传奇球星伊布宣布退役](https://www.baidu.com/s?wd=%E4%BC%A0%E5%A5%87%E7%90%83%E6%98%9F%E4%BC%8A%E5%B8%83%E5%AE%A3%E5%B8%83%E9%80%80%E5%BD%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [北大自杀女生男友涉虐待罪案7日宣判](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E8%87%AA%E6%9D%80%E5%A5%B3%E7%94%9F%E7%94%B7%E5%8F%8B%E6%B6%89%E8%99%90%E5%BE%85%E7%BD%AA%E6%A1%887%E6%97%A5%E5%AE%A3%E5%88%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [大量安卓用户逃离换iPhone](https://www.baidu.com/s?wd=%E5%A4%A7%E9%87%8F%E5%AE%89%E5%8D%93%E7%94%A8%E6%88%B7%E9%80%83%E7%A6%BB%E6%8D%A2iPhone&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [为啥高考试卷是中国邮政送？](https://www.baidu.com/s?wd=%E4%B8%BA%E5%95%A5%E9%AB%98%E8%80%83%E8%AF%95%E5%8D%B7%E6%98%AF%E4%B8%AD%E5%9B%BD%E9%82%AE%E6%94%BF%E9%80%81%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [北大自杀女生男友涉虐待罪案7日宣判](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E8%87%AA%E6%9D%80%E5%A5%B3%E7%94%9F%E7%94%B7%E5%8F%8B%E6%B6%89%E8%99%90%E5%BE%85%E7%BD%AA%E6%A1%887%E6%97%A5%E5%AE%A3%E5%88%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [传奇球星伊布宣布退役](https://www.baidu.com/s?wd=%E4%BC%A0%E5%A5%87%E7%90%83%E6%98%9F%E4%BC%8A%E5%B8%83%E5%AE%A3%E5%B8%83%E9%80%80%E5%BD%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [毛坦厂中学万人雨中送考](https://www.baidu.com/s?wd=%E6%AF%9B%E5%9D%A6%E5%8E%82%E4%B8%AD%E5%AD%A6%E4%B8%87%E4%BA%BA%E9%9B%A8%E4%B8%AD%E9%80%81%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [大量安卓用户逃离换iPhone](https://www.baidu.com/s?wd=%E5%A4%A7%E9%87%8F%E5%AE%89%E5%8D%93%E7%94%A8%E6%88%B7%E9%80%83%E7%A6%BB%E6%8D%A2iPhone&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [海霞、欧阳夏丹已不再任央视主持人](https://www.baidu.com/s?wd=%E6%B5%B7%E9%9C%9E%E3%80%81%E6%AC%A7%E9%98%B3%E5%A4%8F%E4%B8%B9%E5%B7%B2%E4%B8%8D%E5%86%8D%E4%BB%BB%E5%A4%AE%E8%A7%86%E4%B8%BB%E6%8C%81%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [128秒回顾中国航天高燃时刻](https://www.baidu.com/s?wd=128%E7%A7%92%E5%9B%9E%E9%A1%BE%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E9%AB%98%E7%87%83%E6%97%B6%E5%88%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [印度耗资百亿卢比的大桥又塌了](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E8%80%97%E8%B5%84%E7%99%BE%E4%BA%BF%E5%8D%A2%E6%AF%94%E7%9A%84%E5%A4%A7%E6%A1%A5%E5%8F%88%E5%A1%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [传奇球星伊布宣布退役](https://www.baidu.com/s?wd=%E4%BC%A0%E5%A5%87%E7%90%83%E6%98%9F%E4%BC%8A%E5%B8%83%E5%AE%A3%E5%B8%83%E9%80%80%E5%BD%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [北大自杀女生男友涉虐待罪案7日宣判](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E8%87%AA%E6%9D%80%E5%A5%B3%E7%94%9F%E7%94%B7%E5%8F%8B%E6%B6%89%E8%99%90%E5%BE%85%E7%BD%AA%E6%A1%887%E6%97%A5%E5%AE%A3%E5%88%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [大量安卓用户逃离换iPhone](https://www.baidu.com/s?wd=%E5%A4%A7%E9%87%8F%E5%AE%89%E5%8D%93%E7%94%A8%E6%88%B7%E9%80%83%E7%A6%BB%E6%8D%A2iPhone&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [为啥高考试卷是中国邮政送？](https://www.baidu.com/s?wd=%E4%B8%BA%E5%95%A5%E9%AB%98%E8%80%83%E8%AF%95%E5%8D%B7%E6%98%AF%E4%B8%AD%E5%9B%BD%E9%82%AE%E6%94%BF%E9%80%81%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [北大自杀女生男友涉虐待罪案7日宣判](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E8%87%AA%E6%9D%80%E5%A5%B3%E7%94%9F%E7%94%B7%E5%8F%8B%E6%B6%89%E8%99%90%E5%BE%85%E7%BD%AA%E6%A1%887%E6%97%A5%E5%AE%A3%E5%88%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [传奇球星伊布宣布退役](https://www.baidu.com/s?wd=%E4%BC%A0%E5%A5%87%E7%90%83%E6%98%9F%E4%BC%8A%E5%B8%83%E5%AE%A3%E5%B8%83%E9%80%80%E5%BD%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [毛坦厂中学万人雨中送考](https://www.baidu.com/s?wd=%E6%AF%9B%E5%9D%A6%E5%8E%82%E4%B8%AD%E5%AD%A6%E4%B8%87%E4%BA%BA%E9%9B%A8%E4%B8%AD%E9%80%81%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [大量安卓用户逃离换iPhone](https://www.baidu.com/s?wd=%E5%A4%A7%E9%87%8F%E5%AE%89%E5%8D%93%E7%94%A8%E6%88%B7%E9%80%83%E7%A6%BB%E6%8D%A2iPhone&sa=fyb_news&rsv_dl=fyb_news)<br />
