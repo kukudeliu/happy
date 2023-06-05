@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 20:43:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 20:44:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [财政部表示，中央对地方转移支付预算正按规定抓紧下达，整体来看我国财政状况健康、安全，哪些信息值得关注？](https://www.zhihu.com/question/604877884)<br />
 6. [阿里巴巴全球数学竞赛参赛选手 95 后快递小哥，曾用两周证明欧拉常数公式，你身边有这样的数学隐藏高手吗？](https://www.zhihu.com/question/604783697)<br />
 7. [《狂飙》中穷苦出身的程程，考上了名牌大学，在大公司身居要职，如此励志的人，为什么最后死得那么惨？](https://www.zhihu.com/question/604132619)<br />
-8. [AI 过热后套现来了，罗斯柴尔德家族出手，「减持」英伟达，如何看待此举？英伟达的估值是否过高？](https://www.zhihu.com/question/604832745)<br />
-9. [为杜绝替考，高考期间山东大学生不得请假离校，如何评价该措施，是否还有其他合理的防替考措施？](https://www.zhihu.com/question/604871319)<br />
+8. [高三学生买蛋糕庆祝被纪律老师砸坏，「很多学生被气哭」，老师的做法会给学生心理造成什么影响？](https://www.zhihu.com/question/604864874)<br />
+9. [AI 过热后套现来了，罗斯柴尔德家族出手，「减持」英伟达，如何看待此举？英伟达的估值是否过高？](https://www.zhihu.com/question/604832745)<br />
 
 > 百度  
 
@@ -31,10 +31,10 @@
 3. [欧阳夏丹成艺考老师？机构回应](https://www.baidu.com/s?wd=%E6%AC%A7%E9%98%B3%E5%A4%8F%E4%B8%B9%E6%88%90%E8%89%BA%E8%80%83%E8%80%81%E5%B8%88%EF%BC%9F%E6%9C%BA%E6%9E%84%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [环境保护的耀眼“实绩”](https://www.baidu.com/s?wd=%E7%8E%AF%E5%A2%83%E4%BF%9D%E6%8A%A4%E7%9A%84%E8%80%80%E7%9C%BC%E2%80%9C%E5%AE%9E%E7%BB%A9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [花30万可让梅西敬酒？北京警方回应](https://www.baidu.com/s?wd=%E8%8A%B130%E4%B8%87%E5%8F%AF%E8%AE%A9%E6%A2%85%E8%A5%BF%E6%95%AC%E9%85%92%EF%BC%9F%E5%8C%97%E4%BA%AC%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [婆婆与儿媳争执将农药倒进其水井](https://www.baidu.com/s?wd=%E5%A9%86%E5%A9%86%E4%B8%8E%E5%84%BF%E5%AA%B3%E4%BA%89%E6%89%A7%E5%B0%86%E5%86%9C%E8%8D%AF%E5%80%92%E8%BF%9B%E5%85%B6%E6%B0%B4%E4%BA%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [弟弟开黄腔把哥哥婚事搅黄](https://www.baidu.com/s?wd=%E5%BC%9F%E5%BC%9F%E5%BC%80%E9%BB%84%E8%85%94%E6%8A%8A%E5%93%A5%E5%93%A5%E5%A9%9A%E4%BA%8B%E6%90%85%E9%BB%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [业主：为了卖房 我被中介“pua”了](https://www.baidu.com/s?wd=%E4%B8%9A%E4%B8%BB%EF%BC%9A%E4%B8%BA%E4%BA%86%E5%8D%96%E6%88%BF+%E6%88%91%E8%A2%AB%E4%B8%AD%E4%BB%8B%E2%80%9Cpua%E2%80%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [罕见画面！俄米格31战机坠毁前喷火](https://www.baidu.com/s?wd=%E7%BD%95%E8%A7%81%E7%94%BB%E9%9D%A2%EF%BC%81%E4%BF%84%E7%B1%B3%E6%A0%BC31%E6%88%98%E6%9C%BA%E5%9D%A0%E6%AF%81%E5%89%8D%E5%96%B7%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [阿根廷中国行首轮开票售罄](https://www.baidu.com/s?wd=%E9%98%BF%E6%A0%B9%E5%BB%B7%E4%B8%AD%E5%9B%BD%E8%A1%8C%E9%A6%96%E8%BD%AE%E5%BC%80%E7%A5%A8%E5%94%AE%E7%BD%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [婆婆与儿媳争执将农药倒进其水井](https://www.baidu.com/s?wd=%E5%A9%86%E5%A9%86%E4%B8%8E%E5%84%BF%E5%AA%B3%E4%BA%89%E6%89%A7%E5%B0%86%E5%86%9C%E8%8D%AF%E5%80%92%E8%BF%9B%E5%85%B6%E6%B0%B4%E4%BA%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [黑龙江现龙卷风 如灰柱直通云天](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E7%8E%B0%E9%BE%99%E5%8D%B7%E9%A3%8E+%E5%A6%82%E7%81%B0%E6%9F%B1%E7%9B%B4%E9%80%9A%E4%BA%91%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [弟弟开黄腔把哥哥婚事搅黄](https://www.baidu.com/s?wd=%E5%BC%9F%E5%BC%9F%E5%BC%80%E9%BB%84%E8%85%94%E6%8A%8A%E5%93%A5%E5%93%A5%E5%A9%9A%E4%BA%8B%E6%90%85%E9%BB%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [欧阳夏丹成艺考老师？机构回应](https://www.baidu.com/s?wd=%E6%AC%A7%E9%98%B3%E5%A4%8F%E4%B8%B9%E6%88%90%E8%89%BA%E8%80%83%E8%80%81%E5%B8%88%EF%BC%9F%E6%9C%BA%E6%9E%84%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [环境保护的耀眼“实绩”](https://www.baidu.com/s?wd=%E7%8E%AF%E5%A2%83%E4%BF%9D%E6%8A%A4%E7%9A%84%E8%80%80%E7%9C%BC%E2%80%9C%E5%AE%9E%E7%BB%A9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [花30万可让梅西敬酒？北京警方回应](https://www.baidu.com/s?wd=%E8%8A%B130%E4%B8%87%E5%8F%AF%E8%AE%A9%E6%A2%85%E8%A5%BF%E6%95%AC%E9%85%92%EF%BC%9F%E5%8C%97%E4%BA%AC%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [婆婆与儿媳争执将农药倒进其水井](https://www.baidu.com/s?wd=%E5%A9%86%E5%A9%86%E4%B8%8E%E5%84%BF%E5%AA%B3%E4%BA%89%E6%89%A7%E5%B0%86%E5%86%9C%E8%8D%AF%E5%80%92%E8%BF%9B%E5%85%B6%E6%B0%B4%E4%BA%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [弟弟开黄腔把哥哥婚事搅黄](https://www.baidu.com/s?wd=%E5%BC%9F%E5%BC%9F%E5%BC%80%E9%BB%84%E8%85%94%E6%8A%8A%E5%93%A5%E5%93%A5%E5%A9%9A%E4%BA%8B%E6%90%85%E9%BB%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [业主：为了卖房 我被中介“pua”了](https://www.baidu.com/s?wd=%E4%B8%9A%E4%B8%BB%EF%BC%9A%E4%B8%BA%E4%BA%86%E5%8D%96%E6%88%BF+%E6%88%91%E8%A2%AB%E4%B8%AD%E4%BB%8B%E2%80%9Cpua%E2%80%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [罕见画面！俄米格31战机坠毁前喷火](https://www.baidu.com/s?wd=%E7%BD%95%E8%A7%81%E7%94%BB%E9%9D%A2%EF%BC%81%E4%BF%84%E7%B1%B3%E6%A0%BC31%E6%88%98%E6%9C%BA%E5%9D%A0%E6%AF%81%E5%89%8D%E5%96%B7%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [阿根廷中国行首轮开票售罄](https://www.baidu.com/s?wd=%E9%98%BF%E6%A0%B9%E5%BB%B7%E4%B8%AD%E5%9B%BD%E8%A1%8C%E9%A6%96%E8%BD%AE%E5%BC%80%E7%A5%A8%E5%94%AE%E7%BD%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [婆婆与儿媳争执将农药倒进其水井](https://www.baidu.com/s?wd=%E5%A9%86%E5%A9%86%E4%B8%8E%E5%84%BF%E5%AA%B3%E4%BA%89%E6%89%A7%E5%B0%86%E5%86%9C%E8%8D%AF%E5%80%92%E8%BF%9B%E5%85%B6%E6%B0%B4%E4%BA%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [黑龙江现龙卷风 如灰柱直通云天](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E7%8E%B0%E9%BE%99%E5%8D%B7%E9%A3%8E+%E5%A6%82%E7%81%B0%E6%9F%B1%E7%9B%B4%E9%80%9A%E4%BA%91%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [弟弟开黄腔把哥哥婚事搅黄](https://www.baidu.com/s?wd=%E5%BC%9F%E5%BC%9F%E5%BC%80%E9%BB%84%E8%85%94%E6%8A%8A%E5%93%A5%E5%93%A5%E5%A9%9A%E4%BA%8B%E6%90%85%E9%BB%84&sa=fyb_news&rsv_dl=fyb_news)<br />
