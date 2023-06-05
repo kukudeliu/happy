@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 18:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 18:13:01</h4></div>
 
 > 微博  
 
@@ -32,9 +32,9 @@
 4. [环境保护的耀眼“实绩”](https://www.baidu.com/s?wd=%E7%8E%AF%E5%A2%83%E4%BF%9D%E6%8A%A4%E7%9A%84%E8%80%80%E7%9C%BC%E2%80%9C%E5%AE%9E%E7%BB%A9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子过生日蛋糕上名字10年被写错](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%BF%87%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95%E4%B8%8A%E5%90%8D%E5%AD%9710%E5%B9%B4%E8%A2%AB%E5%86%99%E9%94%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [弟弟开黄腔把哥哥婚事搅黄](https://www.baidu.com/s?wd=%E5%BC%9F%E5%BC%9F%E5%BC%80%E9%BB%84%E8%85%94%E6%8A%8A%E5%93%A5%E5%93%A5%E5%A9%9A%E4%BA%8B%E6%90%85%E9%BB%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [业主：为了卖房 我被中介“pua”了](https://www.baidu.com/s?wd=%E4%B8%9A%E4%B8%BB%EF%BC%9A%E4%B8%BA%E4%BA%86%E5%8D%96%E6%88%BF+%E6%88%91%E8%A2%AB%E4%B8%AD%E4%BB%8B%E2%80%9Cpua%E2%80%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [网红安茂元回应三亚被宰](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E5%AE%89%E8%8C%82%E5%85%83%E5%9B%9E%E5%BA%94%E4%B8%89%E4%BA%9A%E8%A2%AB%E5%AE%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [因口角引发纠纷 男子厕所杀害女子](https://www.baidu.com/s?wd=%E5%9B%A0%E5%8F%A3%E8%A7%92%E5%BC%95%E5%8F%91%E7%BA%A0%E7%BA%B7+%E7%94%B7%E5%AD%90%E5%8E%95%E6%89%80%E6%9D%80%E5%AE%B3%E5%A5%B3%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [因口角引发纠纷 男子厕所杀害女子](https://www.baidu.com/s?wd=%E5%9B%A0%E5%8F%A3%E8%A7%92%E5%BC%95%E5%8F%91%E7%BA%A0%E7%BA%B7+%E7%94%B7%E5%AD%90%E5%8E%95%E6%89%80%E6%9D%80%E5%AE%B3%E5%A5%B3%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [业主：为了卖房 我被中介“pua”了](https://www.baidu.com/s?wd=%E4%B8%9A%E4%B8%BB%EF%BC%9A%E4%B8%BA%E4%BA%86%E5%8D%96%E6%88%BF+%E6%88%91%E8%A2%AB%E4%B8%AD%E4%BB%8B%E2%80%9Cpua%E2%80%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [网红安茂元回应三亚被宰](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E5%AE%89%E8%8C%82%E5%85%83%E5%9B%9E%E5%BA%94%E4%B8%89%E4%BA%9A%E8%A2%AB%E5%AE%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [环境保护的耀眼“实绩”](https://www.baidu.com/s?wd=%E7%8E%AF%E5%A2%83%E4%BF%9D%E6%8A%A4%E7%9A%84%E8%80%80%E7%9C%BC%E2%80%9C%E5%AE%9E%E7%BB%A9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子过生日蛋糕上名字10年被写错](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%BF%87%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95%E4%B8%8A%E5%90%8D%E5%AD%9710%E5%B9%B4%E8%A2%AB%E5%86%99%E9%94%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [弟弟开黄腔把哥哥婚事搅黄](https://www.baidu.com/s?wd=%E5%BC%9F%E5%BC%9F%E5%BC%80%E9%BB%84%E8%85%94%E6%8A%8A%E5%93%A5%E5%93%A5%E5%A9%9A%E4%BA%8B%E6%90%85%E9%BB%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [业主：为了卖房 我被中介“pua”了](https://www.baidu.com/s?wd=%E4%B8%9A%E4%B8%BB%EF%BC%9A%E4%B8%BA%E4%BA%86%E5%8D%96%E6%88%BF+%E6%88%91%E8%A2%AB%E4%B8%AD%E4%BB%8B%E2%80%9Cpua%E2%80%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [网红安茂元回应三亚被宰](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E5%AE%89%E8%8C%82%E5%85%83%E5%9B%9E%E5%BA%94%E4%B8%89%E4%BA%9A%E8%A2%AB%E5%AE%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [因口角引发纠纷 男子厕所杀害女子](https://www.baidu.com/s?wd=%E5%9B%A0%E5%8F%A3%E8%A7%92%E5%BC%95%E5%8F%91%E7%BA%A0%E7%BA%B7+%E7%94%B7%E5%AD%90%E5%8E%95%E6%89%80%E6%9D%80%E5%AE%B3%E5%A5%B3%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [因口角引发纠纷 男子厕所杀害女子](https://www.baidu.com/s?wd=%E5%9B%A0%E5%8F%A3%E8%A7%92%E5%BC%95%E5%8F%91%E7%BA%A0%E7%BA%B7+%E7%94%B7%E5%AD%90%E5%8E%95%E6%89%80%E6%9D%80%E5%AE%B3%E5%A5%B3%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [业主：为了卖房 我被中介“pua”了](https://www.baidu.com/s?wd=%E4%B8%9A%E4%B8%BB%EF%BC%9A%E4%B8%BA%E4%BA%86%E5%8D%96%E6%88%BF+%E6%88%91%E8%A2%AB%E4%B8%AD%E4%BB%8B%E2%80%9Cpua%E2%80%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [网红安茂元回应三亚被宰](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E5%AE%89%E8%8C%82%E5%85%83%E5%9B%9E%E5%BA%94%E4%B8%89%E4%BA%9A%E8%A2%AB%E5%AE%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
