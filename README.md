@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 17:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 17:59:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [一个村考出300多大学生6个北大](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E6%9D%91%E8%80%83%E5%87%BA300%E5%A4%9A%E5%A4%A7%E5%AD%A6%E7%94%9F6%E4%B8%AA%E5%8C%97%E5%A4%A7%23&t=31&band_rank=2&Refer=top)<br />
 3. [2023高考加油短片](https://s.weibo.com/weibo?q=%232023%E9%AB%98%E8%80%83%E5%8A%A0%E6%B2%B9%E7%9F%AD%E7%89%87%23&t=31&band_rank=3&Refer=top)<br />
 4. [某某影视化](https://s.weibo.com/weibo?q=%E6%9F%90%E6%9F%90%E5%BD%B1%E8%A7%86%E5%8C%96&t=31&band_rank=4&Refer=top)<br />
-5. [魏晨差点错过孩子出生第一刻](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E6%99%A8%E5%B7%AE%E7%82%B9%E9%94%99%E8%BF%87%E5%AD%A9%E5%AD%90%E5%87%BA%E7%94%9F%E7%AC%AC%E4%B8%80%E5%88%BB%23&t=31&band_rank=5&Refer=top)<br />
-6. [男子嘴贴保鲜膜忍不住亲亲宝宝](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%98%B4%E8%B4%B4%E4%BF%9D%E9%B2%9C%E8%86%9C%E5%BF%8D%E4%B8%8D%E4%BD%8F%E4%BA%B2%E4%BA%B2%E5%AE%9D%E5%AE%9D%23&t=31&band_rank=6&Refer=top)<br />
+5. [男子嘴贴保鲜膜忍不住亲亲宝宝](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%98%B4%E8%B4%B4%E4%BF%9D%E9%B2%9C%E8%86%9C%E5%BF%8D%E4%B8%8D%E4%BD%8F%E4%BA%B2%E4%BA%B2%E5%AE%9D%E5%AE%9D%23&t=31&band_rank=5&Refer=top)<br />
+6. [魏晨差点错过孩子出生第一刻](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E6%99%A8%E5%B7%AE%E7%82%B9%E9%94%99%E8%BF%87%E5%AD%A9%E5%AD%90%E5%87%BA%E7%94%9F%E7%AC%AC%E4%B8%80%E5%88%BB%23&t=31&band_rank=6&Refer=top)<br />
 7. [49岁你还有勇气参加高考吗](https://s.weibo.com/weibo?q=%2349%E5%B2%81%E4%BD%A0%E8%BF%98%E6%9C%89%E5%8B%87%E6%B0%94%E5%8F%82%E5%8A%A0%E9%AB%98%E8%80%83%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
 8. [江歌妈妈 捐出全部赔偿不是冲动](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E6%AD%8C%E5%A6%88%E5%A6%88%20%E6%8D%90%E5%87%BA%E5%85%A8%E9%83%A8%E8%B5%94%E5%81%BF%E4%B8%8D%E6%98%AF%E5%86%B2%E5%8A%A8%23&t=31&band_rank=8&Refer=top)<br />
 9. [亲爱的李华以后信要自己写了](https://s.weibo.com/weibo?q=%23%E4%BA%B2%E7%88%B1%E7%9A%84%E6%9D%8E%E5%8D%8E%E4%BB%A5%E5%90%8E%E4%BF%A1%E8%A6%81%E8%87%AA%E5%B7%B1%E5%86%99%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
@@ -33,8 +33,8 @@
 5. [男子过生日蛋糕上名字10年被写错](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%BF%87%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95%E4%B8%8A%E5%90%8D%E5%AD%9710%E5%B9%B4%E8%A2%AB%E5%86%99%E9%94%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [弟弟开黄腔把哥哥婚事搅黄](https://www.baidu.com/s?wd=%E5%BC%9F%E5%BC%9F%E5%BC%80%E9%BB%84%E8%85%94%E6%8A%8A%E5%93%A5%E5%93%A5%E5%A9%9A%E4%BA%8B%E6%90%85%E9%BB%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子开路虎插队洗车：我就猖狂了](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BC%80%E8%B7%AF%E8%99%8E%E6%8F%92%E9%98%9F%E6%B4%97%E8%BD%A6%EF%BC%9A%E6%88%91%E5%B0%B1%E7%8C%96%E7%8B%82%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [重庆一小区道路沉降 官方:不影响建筑](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E5%B0%8F%E5%8C%BA%E9%81%93%E8%B7%AF%E6%B2%89%E9%99%8D+%E5%AE%98%E6%96%B9%3A%E4%B8%8D%E5%BD%B1%E5%93%8D%E5%BB%BA%E7%AD%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [于正新剧又是双女主](https://www.baidu.com/s?wd=%E4%BA%8E%E6%AD%A3%E6%96%B0%E5%89%A7%E5%8F%88%E6%98%AF%E5%8F%8C%E5%A5%B3%E4%B8%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [于正新剧又是双女主](https://www.baidu.com/s?wd=%E4%BA%8E%E6%AD%A3%E6%96%B0%E5%89%A7%E5%8F%88%E6%98%AF%E5%8F%8C%E5%A5%B3%E4%B8%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [40斤蟒蛇爬进派出所110求助119](https://www.baidu.com/s?wd=40%E6%96%A4%E8%9F%92%E8%9B%87%E7%88%AC%E8%BF%9B%E6%B4%BE%E5%87%BA%E6%89%80110%E6%B1%82%E5%8A%A9119&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [男子过生日蛋糕上名字10年被写错](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%BF%87%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95%E4%B8%8A%E5%90%8D%E5%AD%9710%E5%B9%B4%E8%A2%AB%E5%86%99%E9%94%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [弟弟开黄腔把哥哥婚事搅黄](https://www.baidu.com/s?wd=%E5%BC%9F%E5%BC%9F%E5%BC%80%E9%BB%84%E8%85%94%E6%8A%8A%E5%93%A5%E5%93%A5%E5%A9%9A%E4%BA%8B%E6%90%85%E9%BB%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子开路虎插队洗车：我就猖狂了](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BC%80%E8%B7%AF%E8%99%8E%E6%8F%92%E9%98%9F%E6%B4%97%E8%BD%A6%EF%BC%9A%E6%88%91%E5%B0%B1%E7%8C%96%E7%8B%82%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [重庆一小区道路沉降 官方:不影响建筑](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E5%B0%8F%E5%8C%BA%E9%81%93%E8%B7%AF%E6%B2%89%E9%99%8D+%E5%AE%98%E6%96%B9%3A%E4%B8%8D%E5%BD%B1%E5%93%8D%E5%BB%BA%E7%AD%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [于正新剧又是双女主](https://www.baidu.com/s?wd=%E4%BA%8E%E6%AD%A3%E6%96%B0%E5%89%A7%E5%8F%88%E6%98%AF%E5%8F%8C%E5%A5%B3%E4%B8%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [于正新剧又是双女主](https://www.baidu.com/s?wd=%E4%BA%8E%E6%AD%A3%E6%96%B0%E5%89%A7%E5%8F%88%E6%98%AF%E5%8F%8C%E5%A5%B3%E4%B8%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [40斤蟒蛇爬进派出所110求助119](https://www.baidu.com/s?wd=40%E6%96%A4%E8%9F%92%E8%9B%87%E7%88%AC%E8%BF%9B%E6%B4%BE%E5%87%BA%E6%89%80110%E6%B1%82%E5%8A%A9119&sa=fyb_news&rsv_dl=fyb_news)<br />
