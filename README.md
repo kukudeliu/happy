@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 16:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 16:11:02</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. []()<br />
 7. [米卢是什么水平的足球教练？](https://www.zhihu.com/question/21168956)<br />
 8. [学生党有必要趁着 618 大促，买一台平板自用吗？有哪些推荐？](https://www.zhihu.com/question/604829996)<br />
-9. [科研上瘾是怎样的体验？](https://www.zhihu.com/question/456385091)<br />
+9. [《重返未来：1999》的剧情及剧情演出，能否称作国产二游的第一梯队？](https://www.zhihu.com/question/604144422)<br />
 
 > 百度  
 
