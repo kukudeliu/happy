@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 09:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 09:23:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [男子连吃100天麦当劳减重53斤](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%BF%9E%E5%90%83100%E5%A4%A9%E9%BA%A6%E5%BD%93%E5%8A%B3%E5%87%8F%E9%87%8D53%E6%96%A4%23&t=31&band_rank=6&Refer=top)<br />
 7. [章若楠观众缘](https://s.weibo.com/weibo?q=%23%E7%AB%A0%E8%8B%A5%E6%A5%A0%E8%A7%82%E4%BC%97%E7%BC%98%23&t=31&band_rank=7&Refer=top)<br />
 8. [杨紫 唯一纯白茉莉花](https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%20%E5%94%AF%E4%B8%80%E7%BA%AF%E7%99%BD%E8%8C%89%E8%8E%89%E8%8A%B1&t=31&band_rank=8&Refer=top)<br />
-9. [做拔智齿手术要提前录个音](https://s.weibo.com/weibo?q=%23%E5%81%9A%E6%8B%94%E6%99%BA%E9%BD%BF%E6%89%8B%E6%9C%AF%E8%A6%81%E6%8F%90%E5%89%8D%E5%BD%95%E4%B8%AA%E9%9F%B3%23&t=31&band_rank=9&Refer=top)<br />
+9. [国内出现偏肺病毒感染](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%86%85%E5%87%BA%E7%8E%B0%E5%81%8F%E8%82%BA%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -19,10 +19,10 @@
 3. [韩国出口连跌 8 个月，对中美欧出口全部下滑，芯片出口大跌 36.2%，受哪些因素影响？](https://www.zhihu.com/question/604222429)<br />
 4. [《原神》和《崩坏：星穹铁道》的爆火，业界有什么看法或者启发？](https://www.zhihu.com/question/603634431)<br />
 5. [为什么一战说法国「打光了一代人」而没有说英国「打光了一代人」?](https://www.zhihu.com/question/571031038)<br />
-6. [为什么我们中学物理课本，只承认古希腊的阿基米德的杠杆定理，而不认墨子的杠杆定理？](https://www.zhihu.com/question/603979051)<br />
-7. [有报告指今年春招市场求稳心态明显，45% 求职者考虑过降级就业，当前形势下，应抱什么样的就业观和择业观？](https://www.zhihu.com/question/604195542)<br />
-8. [手机摄影的进步是否已经打破相机「底大一级压死人」的规律?](https://www.zhihu.com/question/604440814)<br />
-9. []()<br />
+6. [邻居说让他儿子到我家吃中饭，按 15 元一顿给钱，能同意吗?](https://www.zhihu.com/question/603469319)<br />
+7. [为什么我们中学物理课本，只承认古希腊的阿基米德的杠杆定理，而不认墨子的杠杆定理？](https://www.zhihu.com/question/603979051)<br />
+8. [有报告指今年春招市场求稳心态明显，45% 求职者考虑过降级就业，当前形势下，应抱什么样的就业观和择业观？](https://www.zhihu.com/question/604195542)<br />
+9. [手机摄影的进步是否已经打破相机「底大一级压死人」的规律?](https://www.zhihu.com/question/604440814)<br />
 
 > 百度  
 
