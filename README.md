@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 21:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 21:27:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [业主买42套房欲打通 楼上墙壁现裂缝](https://www.baidu.com/s?wd=%E4%B8%9A%E4%B8%BB%E4%B9%B042%E5%A5%97%E6%88%BF%E6%AC%B2%E6%89%93%E9%80%9A+%E6%A5%BC%E4%B8%8A%E5%A2%99%E5%A3%81%E7%8E%B0%E8%A3%82%E7%BC%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [周震南父亲等被恢复执行1046万](https://www.baidu.com/s?wd=%E5%91%A8%E9%9C%87%E5%8D%97%E7%88%B6%E4%BA%B2%E7%AD%89%E8%A2%AB%E6%81%A2%E5%A4%8D%E6%89%A7%E8%A1%8C1046%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [浙大学霸应聘机场驱鸟员](https://www.baidu.com/s?wd=%E6%B5%99%E5%A4%A7%E5%AD%A6%E9%9C%B8%E5%BA%94%E8%81%98%E6%9C%BA%E5%9C%BA%E9%A9%B1%E9%B8%9F%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [公交司机肇事撞人后拒让120载走](https://www.baidu.com/s?wd=%E5%85%AC%E4%BA%A4%E5%8F%B8%E6%9C%BA%E8%82%87%E4%BA%8B%E6%92%9E%E4%BA%BA%E5%90%8E%E6%8B%92%E8%AE%A9120%E8%BD%BD%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子嘴贴保鲜膜忍不住亲亲宝宝](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%98%B4%E8%B4%B4%E4%BF%9D%E9%B2%9C%E8%86%9C%E5%BF%8D%E4%B8%8D%E4%BD%8F%E4%BA%B2%E4%BA%B2%E5%AE%9D%E5%AE%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [业主买42套房欲打通 楼上墙壁现裂缝](https://www.baidu.com/s?wd=%E4%B8%9A%E4%B8%BB%E4%B9%B042%E5%A5%97%E6%88%BF%E6%AC%B2%E6%89%93%E9%80%9A+%E6%A5%BC%E4%B8%8A%E5%A2%99%E5%A3%81%E7%8E%B0%E8%A3%82%E7%BC%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [周震南父亲等被恢复执行1046万](https://www.baidu.com/s?wd=%E5%91%A8%E9%9C%87%E5%8D%97%E7%88%B6%E4%BA%B2%E7%AD%89%E8%A2%AB%E6%81%A2%E5%A4%8D%E6%89%A7%E8%A1%8C1046%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [浙大学霸应聘机场驱鸟员](https://www.baidu.com/s?wd=%E6%B5%99%E5%A4%A7%E5%AD%A6%E9%9C%B8%E5%BA%94%E8%81%98%E6%9C%BA%E5%9C%BA%E9%A9%B1%E9%B8%9F%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [公交司机肇事撞人后拒让120载走](https://www.baidu.com/s?wd=%E5%85%AC%E4%BA%A4%E5%8F%B8%E6%9C%BA%E8%82%87%E4%BA%8B%E6%92%9E%E4%BA%BA%E5%90%8E%E6%8B%92%E8%AE%A9120%E8%BD%BD%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子嘴贴保鲜膜忍不住亲亲宝宝](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%98%B4%E8%B4%B4%E4%BF%9D%E9%B2%9C%E8%86%9C%E5%BF%8D%E4%B8%8D%E4%BD%8F%E4%BA%B2%E4%BA%B2%E5%AE%9D%E5%AE%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
