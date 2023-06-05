@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 22:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 22:38:02</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [海天品牌回应蚝油内疑发现生蚝](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%A4%A9%E5%93%81%E7%89%8C%E5%9B%9E%E5%BA%94%E8%9A%9D%E6%B2%B9%E5%86%85%E7%96%91%E5%8F%91%E7%8E%B0%E7%94%9F%E8%9A%9D%23&t=31&band_rank=4&Refer=top)<br />
 5. [任豪求求了你们好好谈恋爱吧](https://s.weibo.com/weibo?q=%23%E4%BB%BB%E8%B1%AA%E6%B1%82%E6%B1%82%E4%BA%86%E4%BD%A0%E4%BB%AC%E5%A5%BD%E5%A5%BD%E8%B0%88%E6%81%8B%E7%88%B1%E5%90%A7%23&t=31&band_rank=5&Refer=top)<br />
 6. [娜扎七年前生图](https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8E%E4%B8%83%E5%B9%B4%E5%89%8D%E7%94%9F%E5%9B%BE%23&t=31&band_rank=6&Refer=top)<br />
-7. [建议实现一户一曜](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%AE%9E%E7%8E%B0%E4%B8%80%E6%88%B7%E4%B8%80%E6%9B%9C%23&t=31&band_rank=7&Refer=top)<br />
-8. [鼠头还是鸭脖怎么就成了罗生门](https://s.weibo.com/weibo?q=%23%E9%BC%A0%E5%A4%B4%E8%BF%98%E6%98%AF%E9%B8%AD%E8%84%96%E6%80%8E%E4%B9%88%E5%B0%B1%E6%88%90%E4%BA%86%E7%BD%97%E7%94%9F%E9%97%A8%23&t=31&band_rank=8&Refer=top)<br />
+7. [鼠头还是鸭脖怎么就成了罗生门](https://s.weibo.com/weibo?q=%23%E9%BC%A0%E5%A4%B4%E8%BF%98%E6%98%AF%E9%B8%AD%E8%84%96%E6%80%8E%E4%B9%88%E5%B0%B1%E6%88%90%E4%BA%86%E7%BD%97%E7%94%9F%E9%97%A8%23&t=31&band_rank=7&Refer=top)<br />
+8. [建议实现一户一曜](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%AE%9E%E7%8E%B0%E4%B8%80%E6%88%B7%E4%B8%80%E6%9B%9C%23&t=31&band_rank=8&Refer=top)<br />
 9. [孙怡对汤晶媚说你不要在这道德绑架我](https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%80%A1%E5%AF%B9%E6%B1%A4%E6%99%B6%E5%AA%9A%E8%AF%B4%E4%BD%A0%E4%B8%8D%E8%A6%81%E5%9C%A8%E8%BF%99%E9%81%93%E5%BE%B7%E7%BB%91%E6%9E%B6%E6%88%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
