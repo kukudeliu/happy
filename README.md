@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 02:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 02:32:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [有刘海的刘浩存](https://s.weibo.com/weibo?q=%23%E6%9C%89%E5%88%98%E6%B5%B7%E7%9A%84%E5%88%98%E6%B5%A9%E5%AD%98%23&t=31&band_rank=6&Refer=top)<br />
 7. [天津碧桂园](https://s.weibo.com/weibo?q=%E5%A4%A9%E6%B4%A5%E7%A2%A7%E6%A1%82%E5%9B%AD&t=31&band_rank=7&Refer=top)<br />
 8. [死亡搁浅将登陆Mac](https://s.weibo.com/weibo?q=%E6%AD%BB%E4%BA%A1%E6%90%81%E6%B5%85%E5%B0%86%E7%99%BB%E9%99%86Mac&t=31&band_rank=8&Refer=top)<br />
-9. [27岁游戏主播抗癌半年后去世](https://s.weibo.com/weibo?q=%2327%E5%B2%81%E6%B8%B8%E6%88%8F%E4%B8%BB%E6%92%AD%E6%8A%97%E7%99%8C%E5%8D%8A%E5%B9%B4%E5%90%8E%E5%8E%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
+9. [库克 今年将是最精彩WWDC](https://s.weibo.com/weibo?q=%E5%BA%93%E5%85%8B%20%E4%BB%8A%E5%B9%B4%E5%B0%86%E6%98%AF%E6%9C%80%E7%B2%BE%E5%BD%A9WWDC&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -19,8 +19,8 @@
 3. [如何看待哔哩哔哩上架的《成龙历险记》重新配音前 13 集，并删除了旧版的几十万弹幕？](https://www.zhihu.com/question/604251906)<br />
 4. [6 月 5 日在岸、离岸人民币对美元分别跌破 7.12 、 7.13，跌去前一交易日全部涨幅，后势将如何？](https://www.zhihu.com/question/604888554)<br />
 5. [中国什么地方最安全不会地震？](https://www.zhihu.com/question/24769341)<br />
-6. [我们这代人存不下钱的原因是什么？](https://www.zhihu.com/question/603826642)<br />
-7. [华为已申请 GPT 相关商标，此前曾表示「底层技术不比 ChatGPT 少」，哪些信息值得关注？](https://www.zhihu.com/question/604871143)<br />
+6. [华为已申请 GPT 相关商标，此前曾表示「底层技术不比 ChatGPT 少」，哪些信息值得关注？](https://www.zhihu.com/question/604871143)<br />
+7. [我们这代人存不下钱的原因是什么？](https://www.zhihu.com/question/603826642)<br />
 8. [LPL 的中国选手为什么不用中文 ID？](https://www.zhihu.com/question/594864998)<br />
 9. []()<br />
 
