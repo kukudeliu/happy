@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 04:48:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 04:49:01</h4></div>
 
 > 微博  
 
@@ -19,9 +19,9 @@
 3. []()<br />
 4. [如何看待哔哩哔哩上架的《成龙历险记》重新配音前 13 集，并删除了旧版的几十万弹幕？](https://www.zhihu.com/question/604251906)<br />
 5. [6 月 5 日在岸、离岸人民币对美元分别跌破 7.12 、 7.13，跌去前一交易日全部涨幅，后势将如何？](https://www.zhihu.com/question/604888554)<br />
-6. []()<br />
-7. [6 月 5 日是「世界环境日」，你理想中人与自然的关系是怎样的？为此我们可以做些什么？](https://www.zhihu.com/question/604432723)<br />
-8. [中国什么地方最安全不会地震？](https://www.zhihu.com/question/24769341)<br />
+6. [6 月 5 日是「世界环境日」，你理想中人与自然的关系是怎样的？为此我们可以做些什么？](https://www.zhihu.com/question/604432723)<br />
+7. [中国什么地方最安全不会地震？](https://www.zhihu.com/question/24769341)<br />
+8. []()<br />
 9. []()<br />
 
 > 百度  
@@ -31,10 +31,10 @@
 3. [花30万可让梅西敬酒？北京警方回应](https://www.baidu.com/s?wd=%E8%8A%B130%E4%B8%87%E5%8F%AF%E8%AE%A9%E6%A2%85%E8%A5%BF%E6%95%AC%E9%85%92%EF%BC%9F%E5%8C%97%E4%BA%AC%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [环境保护的耀眼“实绩”](https://www.baidu.com/s?wd=%E7%8E%AF%E5%A2%83%E4%BF%9D%E6%8A%A4%E7%9A%84%E8%80%80%E7%9C%BC%E2%80%9C%E5%AE%9E%E7%BB%A9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [#苹果WWDC2023#](https://www.baidu.com/s?wd=%23%E8%8B%B9%E6%9E%9CWWDC2023%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [快递小哥两周证明欧拉常数公式](https://www.baidu.com/s?wd=%E5%BF%AB%E9%80%92%E5%B0%8F%E5%93%A5%E4%B8%A4%E5%91%A8%E8%AF%81%E6%98%8E%E6%AC%A7%E6%8B%89%E5%B8%B8%E6%95%B0%E5%85%AC%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [福岛核污染水“4年后流到台湾”](https://www.baidu.com/s?wd=%E7%A6%8F%E5%B2%9B%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E2%80%9C4%E5%B9%B4%E5%90%8E%E6%B5%81%E5%88%B0%E5%8F%B0%E6%B9%BE%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [吴磊把新疆带回来的馕送给粉丝](https://www.baidu.com/s?wd=%E5%90%B4%E7%A3%8A%E6%8A%8A%E6%96%B0%E7%96%86%E5%B8%A6%E5%9B%9E%E6%9D%A5%E7%9A%84%E9%A6%95%E9%80%81%E7%BB%99%E7%B2%89%E4%B8%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [弟弟开黄腔把哥哥婚事搅黄](https://www.baidu.com/s?wd=%E5%BC%9F%E5%BC%9F%E5%BC%80%E9%BB%84%E8%85%94%E6%8A%8A%E5%93%A5%E5%93%A5%E5%A9%9A%E4%BA%8B%E6%90%85%E9%BB%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [2名制服人员被指歧视农村卖菜老人](https://www.baidu.com/s?wd=2%E5%90%8D%E5%88%B6%E6%9C%8D%E4%BA%BA%E5%91%98%E8%A2%AB%E6%8C%87%E6%AD%A7%E8%A7%86%E5%86%9C%E6%9D%91%E5%8D%96%E8%8F%9C%E8%80%81%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [迪士尼一边涨价一边裁员](https://www.baidu.com/s?wd=%E8%BF%AA%E5%A3%AB%E5%B0%BC%E4%B8%80%E8%BE%B9%E6%B6%A8%E4%BB%B7%E4%B8%80%E8%BE%B9%E8%A3%81%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [山东：高考期高校学生不得请假离校](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%EF%BC%9A%E9%AB%98%E8%80%83%E6%9C%9F%E9%AB%98%E6%A0%A1%E5%AD%A6%E7%94%9F%E4%B8%8D%E5%BE%97%E8%AF%B7%E5%81%87%E7%A6%BB%E6%A0%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [为啥高考试卷是中国邮政送？](https://www.baidu.com/s?wd=%E4%B8%BA%E5%95%A5%E9%AB%98%E8%80%83%E8%AF%95%E5%8D%B7%E6%98%AF%E4%B8%AD%E5%9B%BD%E9%82%AE%E6%94%BF%E9%80%81%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [花30万可让梅西敬酒？北京警方回应](https://www.baidu.com/s?wd=%E8%8A%B130%E4%B8%87%E5%8F%AF%E8%AE%A9%E6%A2%85%E8%A5%BF%E6%95%AC%E9%85%92%EF%BC%9F%E5%8C%97%E4%BA%AC%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [环境保护的耀眼“实绩”](https://www.baidu.com/s?wd=%E7%8E%AF%E5%A2%83%E4%BF%9D%E6%8A%A4%E7%9A%84%E8%80%80%E7%9C%BC%E2%80%9C%E5%AE%9E%E7%BB%A9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [#苹果WWDC2023#](https://www.baidu.com/s?wd=%23%E8%8B%B9%E6%9E%9CWWDC2023%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [快递小哥两周证明欧拉常数公式](https://www.baidu.com/s?wd=%E5%BF%AB%E9%80%92%E5%B0%8F%E5%93%A5%E4%B8%A4%E5%91%A8%E8%AF%81%E6%98%8E%E6%AC%A7%E6%8B%89%E5%B8%B8%E6%95%B0%E5%85%AC%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [福岛核污染水“4年后流到台湾”](https://www.baidu.com/s?wd=%E7%A6%8F%E5%B2%9B%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E2%80%9C4%E5%B9%B4%E5%90%8E%E6%B5%81%E5%88%B0%E5%8F%B0%E6%B9%BE%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [吴磊把新疆带回来的馕送给粉丝](https://www.baidu.com/s?wd=%E5%90%B4%E7%A3%8A%E6%8A%8A%E6%96%B0%E7%96%86%E5%B8%A6%E5%9B%9E%E6%9D%A5%E7%9A%84%E9%A6%95%E9%80%81%E7%BB%99%E7%B2%89%E4%B8%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [弟弟开黄腔把哥哥婚事搅黄](https://www.baidu.com/s?wd=%E5%BC%9F%E5%BC%9F%E5%BC%80%E9%BB%84%E8%85%94%E6%8A%8A%E5%93%A5%E5%93%A5%E5%A9%9A%E4%BA%8B%E6%90%85%E9%BB%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [2名制服人员被指歧视农村卖菜老人](https://www.baidu.com/s?wd=2%E5%90%8D%E5%88%B6%E6%9C%8D%E4%BA%BA%E5%91%98%E8%A2%AB%E6%8C%87%E6%AD%A7%E8%A7%86%E5%86%9C%E6%9D%91%E5%8D%96%E8%8F%9C%E8%80%81%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [迪士尼一边涨价一边裁员](https://www.baidu.com/s?wd=%E8%BF%AA%E5%A3%AB%E5%B0%BC%E4%B8%80%E8%BE%B9%E6%B6%A8%E4%BB%B7%E4%B8%80%E8%BE%B9%E8%A3%81%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [山东：高考期高校学生不得请假离校](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%EF%BC%9A%E9%AB%98%E8%80%83%E6%9C%9F%E9%AB%98%E6%A0%A1%E5%AD%A6%E7%94%9F%E4%B8%8D%E5%BE%97%E8%AF%B7%E5%81%87%E7%A6%BB%E6%A0%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [为啥高考试卷是中国邮政送？](https://www.baidu.com/s?wd=%E4%B8%BA%E5%95%A5%E9%AB%98%E8%80%83%E8%AF%95%E5%8D%B7%E6%98%AF%E4%B8%AD%E5%9B%BD%E9%82%AE%E6%94%BF%E9%80%81%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
