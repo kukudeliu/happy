@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 18:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 18:37:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [2023高考加油短片](https://s.weibo.com/weibo?q=%232023%E9%AB%98%E8%80%83%E5%8A%A0%E6%B2%B9%E7%9F%AD%E7%89%87%23&t=31&band_rank=3&Refer=top)<br />
 4. [难听](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%90%AC&t=31&band_rank=4&Refer=top)<br />
 5. [男子嘴贴保鲜膜忍不住亲亲宝宝](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%98%B4%E8%B4%B4%E4%BF%9D%E9%B2%9C%E8%86%9C%E5%BF%8D%E4%B8%8D%E4%BD%8F%E4%BA%B2%E4%BA%B2%E5%AE%9D%E5%AE%9D%23&t=31&band_rank=5&Refer=top)<br />
-6. [娜扎时隔七年重开评论区](https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8E%E6%97%B6%E9%9A%94%E4%B8%83%E5%B9%B4%E9%87%8D%E5%BC%80%E8%AF%84%E8%AE%BA%E5%8C%BA%23&t=31&band_rank=6&Refer=top)<br />
+6. [魏晨差点错过孩子出生第一刻](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E6%99%A8%E5%B7%AE%E7%82%B9%E9%94%99%E8%BF%87%E5%AD%A9%E5%AD%90%E5%87%BA%E7%94%9F%E7%AC%AC%E4%B8%80%E5%88%BB%23&t=31&band_rank=6&Refer=top)<br />
 7. [哥哥听到妹妹哭声一路小跑来安抚](https://s.weibo.com/weibo?q=%23%E5%93%A5%E5%93%A5%E5%90%AC%E5%88%B0%E5%A6%B9%E5%A6%B9%E5%93%AD%E5%A3%B0%E4%B8%80%E8%B7%AF%E5%B0%8F%E8%B7%91%E6%9D%A5%E5%AE%89%E6%8A%9A%23&t=31&band_rank=7&Refer=top)<br />
-8. [魏晨差点错过孩子出生第一刻](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E6%99%A8%E5%B7%AE%E7%82%B9%E9%94%99%E8%BF%87%E5%AD%A9%E5%AD%90%E5%87%BA%E7%94%9F%E7%AC%AC%E4%B8%80%E5%88%BB%23&t=31&band_rank=8&Refer=top)<br />
-9. [周震南父亲等被恢复执行1046万](https://s.weibo.com/weibo?q=%23%E5%91%A8%E9%9C%87%E5%8D%97%E7%88%B6%E4%BA%B2%E7%AD%89%E8%A2%AB%E6%81%A2%E5%A4%8D%E6%89%A7%E8%A1%8C1046%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
+8. [娜扎时隔七年重开评论区](https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8E%E6%97%B6%E9%9A%94%E4%B8%83%E5%B9%B4%E9%87%8D%E5%BC%80%E8%AF%84%E8%AE%BA%E5%8C%BA%23&t=31&band_rank=8&Refer=top)<br />
+9. [孙怡对汤晶媚说你不要在这道德绑架我](https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%80%A1%E5%AF%B9%E6%B1%A4%E6%99%B6%E5%AA%9A%E8%AF%B4%E4%BD%A0%E4%B8%8D%E8%A6%81%E5%9C%A8%E8%BF%99%E9%81%93%E5%BE%B7%E7%BB%91%E6%9E%B6%E6%88%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
