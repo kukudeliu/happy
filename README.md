@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 08:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 08:14:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [印度耗资百亿卢比的大桥又塌了](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E8%80%97%E8%B5%84%E7%99%BE%E4%BA%BF%E5%8D%A2%E6%AF%94%E7%9A%84%E5%A4%A7%E6%A1%A5%E5%8F%88%E5%A1%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大量安卓用户逃离换iPhone](https://www.baidu.com/s?wd=%E5%A4%A7%E9%87%8F%E5%AE%89%E5%8D%93%E7%94%A8%E6%88%B7%E9%80%83%E7%A6%BB%E6%8D%A2iPhone&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子连吃100天麦当劳减重53斤](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%BF%9E%E5%90%83100%E5%A4%A9%E9%BA%A6%E5%BD%93%E5%8A%B3%E5%87%8F%E9%87%8D53%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [离异男子独自养儿到17岁发现非亲生](https://www.baidu.com/s?wd=%E7%A6%BB%E5%BC%82%E7%94%B7%E5%AD%90%E7%8B%AC%E8%87%AA%E5%85%BB%E5%84%BF%E5%88%B017%E5%B2%81%E5%8F%91%E7%8E%B0%E9%9D%9E%E4%BA%B2%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [网友发布“三亚被宰记” 官方通报](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%8F%91%E5%B8%83%E2%80%9C%E4%B8%89%E4%BA%9A%E8%A2%AB%E5%AE%B0%E8%AE%B0%E2%80%9D+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [网友路上偶遇高考试卷押运车](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E8%B7%AF%E4%B8%8A%E5%81%B6%E9%81%87%E9%AB%98%E8%80%83%E8%AF%95%E5%8D%B7%E6%8A%BC%E8%BF%90%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [离异男子独自养儿到17岁发现非亲生](https://www.baidu.com/s?wd=%E7%A6%BB%E5%BC%82%E7%94%B7%E5%AD%90%E7%8B%AC%E8%87%AA%E5%85%BB%E5%84%BF%E5%88%B017%E5%B2%81%E5%8F%91%E7%8E%B0%E9%9D%9E%E4%BA%B2%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [印度耗资百亿卢比的大桥又塌了](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E8%80%97%E8%B5%84%E7%99%BE%E4%BA%BF%E5%8D%A2%E6%AF%94%E7%9A%84%E5%A4%A7%E6%A1%A5%E5%8F%88%E5%A1%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大量安卓用户逃离换iPhone](https://www.baidu.com/s?wd=%E5%A4%A7%E9%87%8F%E5%AE%89%E5%8D%93%E7%94%A8%E6%88%B7%E9%80%83%E7%A6%BB%E6%8D%A2iPhone&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子连吃100天麦当劳减重53斤](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%BF%9E%E5%90%83100%E5%A4%A9%E9%BA%A6%E5%BD%93%E5%8A%B3%E5%87%8F%E9%87%8D53%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [离异男子独自养儿到17岁发现非亲生](https://www.baidu.com/s?wd=%E7%A6%BB%E5%BC%82%E7%94%B7%E5%AD%90%E7%8B%AC%E8%87%AA%E5%85%BB%E5%84%BF%E5%88%B017%E5%B2%81%E5%8F%91%E7%8E%B0%E9%9D%9E%E4%BA%B2%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [网友发布“三亚被宰记” 官方通报](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%8F%91%E5%B8%83%E2%80%9C%E4%B8%89%E4%BA%9A%E8%A2%AB%E5%AE%B0%E8%AE%B0%E2%80%9D+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [网友路上偶遇高考试卷押运车](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E8%B7%AF%E4%B8%8A%E5%81%B6%E9%81%87%E9%AB%98%E8%80%83%E8%AF%95%E5%8D%B7%E6%8A%BC%E8%BF%90%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [离异男子独自养儿到17岁发现非亲生](https://www.baidu.com/s?wd=%E7%A6%BB%E5%BC%82%E7%94%B7%E5%AD%90%E7%8B%AC%E8%87%AA%E5%85%BB%E5%84%BF%E5%88%B017%E5%B2%81%E5%8F%91%E7%8E%B0%E9%9D%9E%E4%BA%B2%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
