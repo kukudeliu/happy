@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 18:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 18:08:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [2023高考加油短片](https://s.weibo.com/weibo?q=%232023%E9%AB%98%E8%80%83%E5%8A%A0%E6%B2%B9%E7%9F%AD%E7%89%87%23&t=31&band_rank=3&Refer=top)<br />
 4. [某某影视化](https://s.weibo.com/weibo?q=%E6%9F%90%E6%9F%90%E5%BD%B1%E8%A7%86%E5%8C%96&t=31&band_rank=4&Refer=top)<br />
 5. [男子嘴贴保鲜膜忍不住亲亲宝宝](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%98%B4%E8%B4%B4%E4%BF%9D%E9%B2%9C%E8%86%9C%E5%BF%8D%E4%B8%8D%E4%BD%8F%E4%BA%B2%E4%BA%B2%E5%AE%9D%E5%AE%9D%23&t=31&band_rank=5&Refer=top)<br />
-6. [魏晨差点错过孩子出生第一刻](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E6%99%A8%E5%B7%AE%E7%82%B9%E9%94%99%E8%BF%87%E5%AD%A9%E5%AD%90%E5%87%BA%E7%94%9F%E7%AC%AC%E4%B8%80%E5%88%BB%23&t=31&band_rank=6&Refer=top)<br />
+6. [周震南父亲等被恢复执行1046万](https://s.weibo.com/weibo?q=%23%E5%91%A8%E9%9C%87%E5%8D%97%E7%88%B6%E4%BA%B2%E7%AD%89%E8%A2%AB%E6%81%A2%E5%A4%8D%E6%89%A7%E8%A1%8C1046%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [哥哥听到妹妹哭声一路小跑来安抚](https://s.weibo.com/weibo?q=%23%E5%93%A5%E5%93%A5%E5%90%AC%E5%88%B0%E5%A6%B9%E5%A6%B9%E5%93%AD%E5%A3%B0%E4%B8%80%E8%B7%AF%E5%B0%8F%E8%B7%91%E6%9D%A5%E5%AE%89%E6%8A%9A%23&t=31&band_rank=7&Refer=top)<br />
-8. [周震南父亲等被恢复执行1046万](https://s.weibo.com/weibo?q=%23%E5%91%A8%E9%9C%87%E5%8D%97%E7%88%B6%E4%BA%B2%E7%AD%89%E8%A2%AB%E6%81%A2%E5%A4%8D%E6%89%A7%E8%A1%8C1046%E4%B8%87%23&t=31&band_rank=8&Refer=top)<br />
+8. [魏晨差点错过孩子出生第一刻](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E6%99%A8%E5%B7%AE%E7%82%B9%E9%94%99%E8%BF%87%E5%AD%A9%E5%AD%90%E5%87%BA%E7%94%9F%E7%AC%AC%E4%B8%80%E5%88%BB%23&t=31&band_rank=8&Refer=top)<br />
 9. [亲爱的李华以后信要自己写了](https://s.weibo.com/weibo?q=%23%E4%BA%B2%E7%88%B1%E7%9A%84%E6%9D%8E%E5%8D%8E%E4%BB%A5%E5%90%8E%E4%BF%A1%E8%A6%81%E8%87%AA%E5%B7%B1%E5%86%99%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -17,8 +17,8 @@
 1. [我们这代人存不下钱的原因是什么？](https://www.zhihu.com/question/603826642)<br />
 2. [阿里巴巴全球数学竞赛参赛选手 95 后快递小哥，曾用两周证明欧拉常数公式，你身边有这样的数学隐藏高手吗？](https://www.zhihu.com/question/604783697)<br />
 3. [如何看待哔哩哔哩上架的《成龙历险记》重新配音前 13 集，并删除了旧版的几十万弹幕？](https://www.zhihu.com/question/604251906)<br />
-4. [《狂飙》中穷苦出身的程程，考上了名牌大学，在大公司身居要职，如此励志的人，为什么最后死得那么惨？](https://www.zhihu.com/question/604132619)<br />
-5. [如何看待珠峰攀登者为救遇险女子放弃登顶，被救女子只愿承担 4 成救援费？](https://www.zhihu.com/question/604842993)<br />
+4. [如何看待珠峰攀登者为救遇险女子放弃登顶，被救女子只愿承担 4 成救援费？](https://www.zhihu.com/question/604842993)<br />
+5. [《狂飙》中穷苦出身的程程，考上了名牌大学，在大公司身居要职，如此励志的人，为什么最后死得那么惨？](https://www.zhihu.com/question/604132619)<br />
 6. [为什么进口牛肉反而比国产牛肉更便宜？](https://www.zhihu.com/question/600043391)<br />
 7. [杭州交警通报一起小客车撞击高速收费站设施起火事故，致 4 人死亡，具体情况如何？类似汽车安全隐患如何避免？](https://www.zhihu.com/question/604857286)<br />
 8. [孙立成、谢晓亮由中科院外籍院士转为中科院院士，越来越多科学家回归，哪些信息值得关注？](https://www.zhihu.com/question/604569330)<br />
