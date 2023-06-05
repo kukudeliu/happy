@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 02:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 02:27:01</h4></div>
 
 > 微博  
 
@@ -31,8 +31,8 @@
 3. [花30万可让梅西敬酒？北京警方回应](https://www.baidu.com/s?wd=%E8%8A%B130%E4%B8%87%E5%8F%AF%E8%AE%A9%E6%A2%85%E8%A5%BF%E6%95%AC%E9%85%92%EF%BC%9F%E5%8C%97%E4%BA%AC%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [环境保护的耀眼“实绩”](https://www.baidu.com/s?wd=%E7%8E%AF%E5%A2%83%E4%BF%9D%E6%8A%A4%E7%9A%84%E8%80%80%E7%9C%BC%E2%80%9C%E5%AE%9E%E7%BB%A9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [#苹果WWDC2023#](https://www.baidu.com/s?wd=%23%E8%8B%B9%E6%9E%9CWWDC2023%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [弟弟开黄腔把哥哥婚事搅黄](https://www.baidu.com/s?wd=%E5%BC%9F%E5%BC%9F%E5%BC%80%E9%BB%84%E8%85%94%E6%8A%8A%E5%93%A5%E5%93%A5%E5%A9%9A%E4%BA%8B%E6%90%85%E9%BB%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [山东：高考期高校学生不得请假离校](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%EF%BC%9A%E9%AB%98%E8%80%83%E6%9C%9F%E9%AB%98%E6%A0%A1%E5%AD%A6%E7%94%9F%E4%B8%8D%E5%BE%97%E8%AF%B7%E5%81%87%E7%A6%BB%E6%A0%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [山东：高考期高校学生不得请假离校](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%EF%BC%9A%E9%AB%98%E8%80%83%E6%9C%9F%E9%AB%98%E6%A0%A1%E5%AD%A6%E7%94%9F%E4%B8%8D%E5%BE%97%E8%AF%B7%E5%81%87%E7%A6%BB%E6%A0%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [弟弟开黄腔把哥哥婚事搅黄](https://www.baidu.com/s?wd=%E5%BC%9F%E5%BC%9F%E5%BC%80%E9%BB%84%E8%85%94%E6%8A%8A%E5%93%A5%E5%93%A5%E5%A9%9A%E4%BA%8B%E6%90%85%E9%BB%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [一个村考出300多大学生6个北大](https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E6%9D%91%E8%80%83%E5%87%BA300%E5%A4%9A%E5%A4%A7%E5%AD%A6%E7%94%9F6%E4%B8%AA%E5%8C%97%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [杭州一车辆碰撞收费站起火致4死](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%B8%80%E8%BD%A6%E8%BE%86%E7%A2%B0%E6%92%9E%E6%94%B6%E8%B4%B9%E7%AB%99%E8%B5%B7%E7%81%AB%E8%87%B44%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -43,7 +43,7 @@
 3. [花30万可让梅西敬酒？北京警方回应](https://www.baidu.com/s?wd=%E8%8A%B130%E4%B8%87%E5%8F%AF%E8%AE%A9%E6%A2%85%E8%A5%BF%E6%95%AC%E9%85%92%EF%BC%9F%E5%8C%97%E4%BA%AC%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [环境保护的耀眼“实绩”](https://www.baidu.com/s?wd=%E7%8E%AF%E5%A2%83%E4%BF%9D%E6%8A%A4%E7%9A%84%E8%80%80%E7%9C%BC%E2%80%9C%E5%AE%9E%E7%BB%A9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [#苹果WWDC2023#](https://www.baidu.com/s?wd=%23%E8%8B%B9%E6%9E%9CWWDC2023%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [弟弟开黄腔把哥哥婚事搅黄](https://www.baidu.com/s?wd=%E5%BC%9F%E5%BC%9F%E5%BC%80%E9%BB%84%E8%85%94%E6%8A%8A%E5%93%A5%E5%93%A5%E5%A9%9A%E4%BA%8B%E6%90%85%E9%BB%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [山东：高考期高校学生不得请假离校](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%EF%BC%9A%E9%AB%98%E8%80%83%E6%9C%9F%E9%AB%98%E6%A0%A1%E5%AD%A6%E7%94%9F%E4%B8%8D%E5%BE%97%E8%AF%B7%E5%81%87%E7%A6%BB%E6%A0%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [山东：高考期高校学生不得请假离校](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%EF%BC%9A%E9%AB%98%E8%80%83%E6%9C%9F%E9%AB%98%E6%A0%A1%E5%AD%A6%E7%94%9F%E4%B8%8D%E5%BE%97%E8%AF%B7%E5%81%87%E7%A6%BB%E6%A0%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [弟弟开黄腔把哥哥婚事搅黄](https://www.baidu.com/s?wd=%E5%BC%9F%E5%BC%9F%E5%BC%80%E9%BB%84%E8%85%94%E6%8A%8A%E5%93%A5%E5%93%A5%E5%A9%9A%E4%BA%8B%E6%90%85%E9%BB%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [一个村考出300多大学生6个北大](https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E6%9D%91%E8%80%83%E5%87%BA300%E5%A4%9A%E5%A4%A7%E5%AD%A6%E7%94%9F6%E4%B8%AA%E5%8C%97%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [杭州一车辆碰撞收费站起火致4死](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%B8%80%E8%BD%A6%E8%BE%86%E7%A2%B0%E6%92%9E%E6%94%B6%E8%B4%B9%E7%AB%99%E8%B5%B7%E7%81%AB%E8%87%B44%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
