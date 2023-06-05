@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 07:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 07:46:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [你们博士毕业的时候，最初的学术梦想还在吗？](https://www.zhihu.com/question/437154680)<br />
 7. [高考考不上本科，是复读还是上大专?](https://www.zhihu.com/question/604518335)<br />
 8. []()<br />
-9. [苹果 WWDC 开发者大会定档北京时间 6 月 6 凌晨 1 点，有哪些值得关注的点？](https://www.zhihu.com/question/603949196)<br />
+9. [LPL 的中国选手为什么不用中文 ID？](https://www.zhihu.com/question/594864998)<br />
 
 > 百度  
 
