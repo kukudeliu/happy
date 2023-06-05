@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 15:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 15:43:01</h4></div>
 
 > 微博  
 
@@ -21,13 +21,13 @@
 5. [《狂飙》中穷苦出身的程程，考上了名牌大学，在大公司身居要职，如此励志的人，为什么最后死得那么惨？](https://www.zhihu.com/question/604132619)<br />
 6. [重庆男子养儿子 17 年发现非亲生，重病之际起诉前妻索要 19.9 万，如何从法律角度解读此案件？](https://www.zhihu.com/question/604728463)<br />
 7. [科研上瘾是怎样的体验？](https://www.zhihu.com/question/456385091)<br />
-8. [学生党有必要趁着 618 大促，买一台平板自用吗？有哪些推荐？](https://www.zhihu.com/question/604829996)<br />
-9. [米卢是什么水平的足球教练？](https://www.zhihu.com/question/21168956)<br />
+8. [米卢是什么水平的足球教练？](https://www.zhihu.com/question/21168956)<br />
+9. [学生党有必要趁着 618 大促，买一台平板自用吗？有哪些推荐？](https://www.zhihu.com/question/604829996)<br />
 
 > 百度  
 
 1. [一起保护好传承好历史文化](https://www.baidu.com/s?wd=%E4%B8%80%E8%B5%B7%E4%BF%9D%E6%8A%A4%E5%A5%BD%E4%BC%A0%E6%89%BF%E5%A5%BD%E5%8E%86%E5%8F%B2%E6%96%87%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [登珠峰获救女子只愿承担4成救援费](https://www.baidu.com/s?wd=%E7%99%BB%E7%8F%A0%E5%B3%B0%E8%8E%B7%E6%95%91%E5%A5%B3%E5%AD%90%E5%8F%AA%E6%84%BF%E6%89%BF%E6%8B%854%E6%88%90%E6%95%91%E6%8F%B4%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [美指责中国军舰危险拦截 外交部回应](https://www.baidu.com/s?wd=%E7%BE%8E%E6%8C%87%E8%B4%A3%E4%B8%AD%E5%9B%BD%E5%86%9B%E8%88%B0%E5%8D%B1%E9%99%A9%E6%8B%A6%E6%88%AA+%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [印度耗资百亿卢比的大桥又塌了](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E8%80%97%E8%B5%84%E7%99%BE%E4%BA%BF%E5%8D%A2%E6%AF%94%E7%9A%84%E5%A4%A7%E6%A1%A5%E5%8F%88%E5%A1%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [神舟十五号载人飞行任务全记录](https://www.baidu.com/s?wd=%E7%A5%9E%E8%88%9F%E5%8D%81%E4%BA%94%E5%8F%B7%E8%BD%BD%E4%BA%BA%E9%A3%9E%E8%A1%8C%E4%BB%BB%E5%8A%A1%E5%85%A8%E8%AE%B0%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [毛坦厂中学88辆大巴送考 万人助威](https://www.baidu.com/s?wd=%E6%AF%9B%E5%9D%A6%E5%8E%82%E4%B8%AD%E5%AD%A688%E8%BE%86%E5%A4%A7%E5%B7%B4%E9%80%81%E8%80%83+%E4%B8%87%E4%BA%BA%E5%8A%A9%E5%A8%81&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -39,7 +39,7 @@
 > 哔哩哔哩  
 
 1. [一起保护好传承好历史文化](https://www.baidu.com/s?wd=%E4%B8%80%E8%B5%B7%E4%BF%9D%E6%8A%A4%E5%A5%BD%E4%BC%A0%E6%89%BF%E5%A5%BD%E5%8E%86%E5%8F%B2%E6%96%87%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [登珠峰获救女子只愿承担4成救援费](https://www.baidu.com/s?wd=%E7%99%BB%E7%8F%A0%E5%B3%B0%E8%8E%B7%E6%95%91%E5%A5%B3%E5%AD%90%E5%8F%AA%E6%84%BF%E6%89%BF%E6%8B%854%E6%88%90%E6%95%91%E6%8F%B4%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [美指责中国军舰危险拦截 外交部回应](https://www.baidu.com/s?wd=%E7%BE%8E%E6%8C%87%E8%B4%A3%E4%B8%AD%E5%9B%BD%E5%86%9B%E8%88%B0%E5%8D%B1%E9%99%A9%E6%8B%A6%E6%88%AA+%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [印度耗资百亿卢比的大桥又塌了](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E8%80%97%E8%B5%84%E7%99%BE%E4%BA%BF%E5%8D%A2%E6%AF%94%E7%9A%84%E5%A4%A7%E6%A1%A5%E5%8F%88%E5%A1%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [神舟十五号载人飞行任务全记录](https://www.baidu.com/s?wd=%E7%A5%9E%E8%88%9F%E5%8D%81%E4%BA%94%E5%8F%B7%E8%BD%BD%E4%BA%BA%E9%A3%9E%E8%A1%8C%E4%BB%BB%E5%8A%A1%E5%85%A8%E8%AE%B0%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [毛坦厂中学88辆大巴送考 万人助威](https://www.baidu.com/s?wd=%E6%AF%9B%E5%9D%A6%E5%8E%82%E4%B8%AD%E5%AD%A688%E8%BE%86%E5%A4%A7%E5%B7%B4%E9%80%81%E8%80%83+%E4%B8%87%E4%BA%BA%E5%8A%A9%E5%A8%81&sa=fyb_news&rsv_dl=fyb_news)<br />
