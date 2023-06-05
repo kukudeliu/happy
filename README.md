@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 08:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 08:08:01</h4></div>
 
 > 微博  
 
 1. [男子连吃100天麦当劳减重53斤](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%BF%9E%E5%90%83100%E5%A4%A9%E9%BA%A6%E5%BD%93%E5%8A%B3%E5%87%8F%E9%87%8D53%E6%96%A4%23&t=31&band_rank=1&Refer=top)<br />
-2. [88斤女生穿不进去S码牛仔裙](https://s.weibo.com/weibo?q=%2388%E6%96%A4%E5%A5%B3%E7%94%9F%E7%A9%BF%E4%B8%8D%E8%BF%9B%E5%8E%BBS%E7%A0%81%E7%89%9B%E4%BB%94%E8%A3%99%23&t=31&band_rank=2&Refer=top)<br />
+2. [日本女团成员灌男粉喝洗洁精](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%9B%A2%E6%88%90%E5%91%98%E7%81%8C%E7%94%B7%E7%B2%89%E5%96%9D%E6%B4%97%E6%B4%81%E7%B2%BE%23&t=31&band_rank=2&Refer=top)<br />
 3. [圆梦乘组的高清笑颜](https://s.weibo.com/weibo?q=%23%E5%9C%86%E6%A2%A6%E4%B9%98%E7%BB%84%E7%9A%84%E9%AB%98%E6%B8%85%E7%AC%91%E9%A2%9C%23&t=31&band_rank=3&Refer=top)<br />
-4. [日本女团成员灌男粉喝洗洁精](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%9B%A2%E6%88%90%E5%91%98%E7%81%8C%E7%94%B7%E7%B2%89%E5%96%9D%E6%B4%97%E6%B4%81%E7%B2%BE%23&t=31&band_rank=4&Refer=top)<br />
+4. [88斤女生穿不进去S码牛仔裙](https://s.weibo.com/weibo?q=%2388%E6%96%A4%E5%A5%B3%E7%94%9F%E7%A9%BF%E4%B8%8D%E8%BF%9B%E5%8E%BBS%E7%A0%81%E7%89%9B%E4%BB%94%E8%A3%99%23&t=31&band_rank=4&Refer=top)<br />
 5. [女子游野泳溺亡家属索赔166万被驳](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%B8%B8%E9%87%8E%E6%B3%B3%E6%BA%BA%E4%BA%A1%E5%AE%B6%E5%B1%9E%E7%B4%A2%E8%B5%94166%E4%B8%87%E8%A2%AB%E9%A9%B3%23&t=31&band_rank=5&Refer=top)<br />
 6. [国内出现偏肺病毒感染](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%86%85%E5%87%BA%E7%8E%B0%E5%81%8F%E8%82%BA%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93%23&t=31&band_rank=6&Refer=top)<br />
 7. [杨紫 唯一纯白茉莉花](https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%20%E5%94%AF%E4%B8%80%E7%BA%AF%E7%99%BD%E8%8C%89%E8%8E%89%E8%8A%B1&t=31&band_rank=7&Refer=top)<br />
