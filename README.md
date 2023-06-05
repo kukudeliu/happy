@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 16:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 16:22:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [米卢是什么水平的足球教练？](https://www.zhihu.com/question/21168956)<br />
 7. [学生党有必要趁着 618 大促，买一台平板自用吗？有哪些推荐？](https://www.zhihu.com/question/604829996)<br />
 8. [美债务上限提高后或迎美债发行潮，这意味着什么？将对金融市场带来哪些影响？](https://www.zhihu.com/question/604845882)<br />
-9. [《重返未来：1999》的剧情及剧情演出，能否称作国产二游的第一梯队？](https://www.zhihu.com/question/604144422)<br />
+9. [《塞尔达传说：王国之泪》开场林克为什么打不过盖侬？](https://www.zhihu.com/question/603276471)<br />
 
 > 百度  
 
