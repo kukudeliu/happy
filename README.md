@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 15:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 15:16:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [距2023高考还有2天](https://s.weibo.com/weibo?q=%23%E8%B7%9D2023%E9%AB%98%E8%80%83%E8%BF%98%E6%9C%892%E5%A4%A9%23&t=31&band_rank=3&Refer=top)<br />
 4. [张一山眼球怎么了](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%B8%80%E5%B1%B1%E7%9C%BC%E7%90%83%E6%80%8E%E4%B9%88%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [娜扎时隔七年重开评论区](https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8E%E6%97%B6%E9%9A%94%E4%B8%83%E5%B9%B4%E9%87%8D%E5%BC%80%E8%AF%84%E8%AE%BA%E5%8C%BA%23&t=31&band_rank=5&Refer=top)<br />
-6. [高三学生买蛋糕庆祝被纪律老师砸坏](https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%B8%89%E5%AD%A6%E7%94%9F%E4%B9%B0%E8%9B%8B%E7%B3%95%E5%BA%86%E7%A5%9D%E8%A2%AB%E7%BA%AA%E5%BE%8B%E8%80%81%E5%B8%88%E7%A0%B8%E5%9D%8F%23&t=31&band_rank=6&Refer=top)<br />
-7. [周震南父亲等被恢复执行1046万](https://s.weibo.com/weibo?q=%23%E5%91%A8%E9%9C%87%E5%8D%97%E7%88%B6%E4%BA%B2%E7%AD%89%E8%A2%AB%E6%81%A2%E5%A4%8D%E6%89%A7%E8%A1%8C1046%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
+6. [周震南父亲等被恢复执行1046万](https://s.weibo.com/weibo?q=%23%E5%91%A8%E9%9C%87%E5%8D%97%E7%88%B6%E4%BA%B2%E7%AD%89%E8%A2%AB%E6%81%A2%E5%A4%8D%E6%89%A7%E8%A1%8C1046%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
+7. [高三学生买蛋糕庆祝被纪律老师砸坏](https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%B8%89%E5%AD%A6%E7%94%9F%E4%B9%B0%E8%9B%8B%E7%B3%95%E5%BA%86%E7%A5%9D%E8%A2%AB%E7%BA%AA%E5%BE%8B%E8%80%81%E5%B8%88%E7%A0%B8%E5%9D%8F%23&t=31&band_rank=7&Refer=top)<br />
 8. [安茂元 三亚被宰记](https://s.weibo.com/weibo?q=%E5%AE%89%E8%8C%82%E5%85%83%20%E4%B8%89%E4%BA%9A%E8%A2%AB%E5%AE%B0%E8%AE%B0&t=31&band_rank=8&Refer=top)<br />
 9. [肖战被强行拉cp](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%A2%AB%E5%BC%BA%E8%A1%8C%E6%8B%89cp%23&t=31&band_rank=9&Refer=top)<br />
 
