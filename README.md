@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 15:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 15:20:01</h4></div>
 
 > 微博  
 
@@ -15,14 +15,14 @@
 > 知乎  
 
 1. [我们这代人存不下钱的原因是什么？](https://www.zhihu.com/question/603826642)<br />
-2. [大量安卓用户逃离换 iPhone，Android 13 保有量不足 15%，背后原因有哪些？](https://www.zhihu.com/question/604820761)<br />
-3. [重庆男子养儿子 17 年发现非亲生，重病之际起诉前妻索要 19.9 万，如何从法律角度解读此案件？](https://www.zhihu.com/question/604728463)<br />
-4. [如何看待哔哩哔哩上架的《成龙历险记》重新配音前 13 集，并删除了旧版的几十万弹幕？](https://www.zhihu.com/question/604251906)<br />
+2. [重庆男子养儿子 17 年发现非亲生，重病之际起诉前妻索要 19.9 万，如何从法律角度解读此案件？](https://www.zhihu.com/question/604728463)<br />
+3. [如何看待哔哩哔哩上架的《成龙历险记》重新配音前 13 集，并删除了旧版的几十万弹幕？](https://www.zhihu.com/question/604251906)<br />
+4. [大量安卓用户逃离换 iPhone，Android 13 保有量不足 15%，背后原因有哪些？](https://www.zhihu.com/question/604820761)<br />
 5. [阿里巴巴全球数学竞赛参赛选手 95 后快递小哥，曾用两周证明欧拉常数公式，你身边有这样的数学隐藏高手吗？](https://www.zhihu.com/question/604783697)<br />
 6. [中年男人为什么还在玩十年前的游戏?](https://www.zhihu.com/question/602764416)<br />
 7. [为什么跑步后吃不下，游完泳却变「饿死鬼」？](https://www.zhihu.com/question/598002295)<br />
 8. [《狂飙》中穷苦出身的程程，考上了名牌大学，在大公司身居要职，如此励志的人，为什么最后死得那么惨？](https://www.zhihu.com/question/604132619)<br />
-9. [Character.AI 首周下载量碾压 ChatGPT，这一应用有哪些特点？将会带来哪些影响？](https://www.zhihu.com/question/604552431)<br />
+9. [隐藏式门把手会不会是汽车的一个安全隐患？](https://www.zhihu.com/question/604174782)<br />
 
 > 百度  
 
