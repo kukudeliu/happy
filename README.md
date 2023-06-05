@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 08:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 08:40:01</h4></div>
 
 > 微博  
 
 1. [本周狗屎运最旺的星座](https://s.weibo.com/weibo?q=%E6%9C%AC%E5%91%A8%E7%8B%97%E5%B1%8E%E8%BF%90%E6%9C%80%E6%97%BA%E7%9A%84%E6%98%9F%E5%BA%A7&t=31&band_rank=1&Refer=top)<br />
 2. [男子连吃100天麦当劳减重53斤](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%BF%9E%E5%90%83100%E5%A4%A9%E9%BA%A6%E5%BD%93%E5%8A%B3%E5%87%8F%E9%87%8D53%E6%96%A4%23&t=31&band_rank=2&Refer=top)<br />
 3. [圆梦乘组的高清笑颜](https://s.weibo.com/weibo?q=%23%E5%9C%86%E6%A2%A6%E4%B9%98%E7%BB%84%E7%9A%84%E9%AB%98%E6%B8%85%E7%AC%91%E9%A2%9C%23&t=31&band_rank=3&Refer=top)<br />
-4. [长期喝粥会让胃越来越脆弱](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E5%96%9D%E7%B2%A5%E4%BC%9A%E8%AE%A9%E8%83%83%E8%B6%8A%E6%9D%A5%E8%B6%8A%E8%84%86%E5%BC%B1%23&t=31&band_rank=4&Refer=top)<br />
-5. [日本女团成员灌男粉喝洗洁精](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%9B%A2%E6%88%90%E5%91%98%E7%81%8C%E7%94%B7%E7%B2%89%E5%96%9D%E6%B4%97%E6%B4%81%E7%B2%BE%23&t=31&band_rank=5&Refer=top)<br />
+4. [日本女团成员灌男粉喝洗洁精](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%9B%A2%E6%88%90%E5%91%98%E7%81%8C%E7%94%B7%E7%B2%89%E5%96%9D%E6%B4%97%E6%B4%81%E7%B2%BE%23&t=31&band_rank=4&Refer=top)<br />
+5. [长期喝粥会让胃越来越脆弱](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E5%96%9D%E7%B2%A5%E4%BC%9A%E8%AE%A9%E8%83%83%E8%B6%8A%E6%9D%A5%E8%B6%8A%E8%84%86%E5%BC%B1%23&t=31&band_rank=5&Refer=top)<br />
 6. [国内出现偏肺病毒感染](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%86%85%E5%87%BA%E7%8E%B0%E5%81%8F%E8%82%BA%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93%23&t=31&band_rank=6&Refer=top)<br />
 7. [杨紫 唯一纯白茉莉花](https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%20%E5%94%AF%E4%B8%80%E7%BA%AF%E7%99%BD%E8%8C%89%E8%8E%89%E8%8A%B1&t=31&band_rank=7&Refer=top)<br />
 8. [做拔智齿手术要提前录个音](https://s.weibo.com/weibo?q=%23%E5%81%9A%E6%8B%94%E6%99%BA%E9%BD%BF%E6%89%8B%E6%9C%AF%E8%A6%81%E6%8F%90%E5%89%8D%E5%BD%95%E4%B8%AA%E9%9F%B3%23&t=31&band_rank=8&Refer=top)<br />
@@ -17,12 +17,12 @@
 1. [本田合资零部件厂商安斯泰莫承认造假，造假数量超 2 亿件，最长可追溯至 40 年前，此事暴露哪些问题？](https://www.zhihu.com/question/602979872)<br />
 2. [韩国出口连跌 8 个月，对中美欧出口全部下滑，芯片出口大跌 36.2%，受哪些因素影响？](https://www.zhihu.com/question/604222429)<br />
 3. [我们这代人存不下钱的原因是什么？](https://www.zhihu.com/question/603826642)<br />
-4. [苏武在贝加尔湖牧羊，条件恶劣，挖食鼠粮草根为生，他为什么不吃羊？](https://www.zhihu.com/question/25483987)<br />
-5. [如何看待王源演唱会女生穿婚纱?](https://www.zhihu.com/question/604035655)<br />
+4. [如何看待王源演唱会女生穿婚纱?](https://www.zhihu.com/question/604035655)<br />
+5. [苏武在贝加尔湖牧羊，条件恶劣，挖食鼠粮草根为生，他为什么不吃羊？](https://www.zhihu.com/question/25483987)<br />
 6. [《原神》和《崩坏：星穹铁道》的爆火，业界有什么看法或者启发？](https://www.zhihu.com/question/603634431)<br />
 7. [为什么一战说法国「打光了一代人」而没有说英国「打光了一代人」?](https://www.zhihu.com/question/571031038)<br />
-8. [中方在台湾问题上借冲绳举例，日方破防「冲绳绝不会独立」，冲绳和台湾有哪些不同？日方为何就台频频拱火？](https://www.zhihu.com/question/604246792)<br />
-9. [有哪些生僻但很美的字或词语?](https://www.zhihu.com/question/68594276)<br />
+8. [有哪些生僻但很美的字或词语?](https://www.zhihu.com/question/68594276)<br />
+9. [为什么篮球比赛进入小球时代?](https://www.zhihu.com/question/603469936)<br />
 
 > 百度  
 
