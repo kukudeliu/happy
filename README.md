@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 19:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-05 19:49:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [难怪白鹿许凯不帮于正新剧宣传](https://s.weibo.com/weibo?q=%23%E9%9A%BE%E6%80%AA%E7%99%BD%E9%B9%BF%E8%AE%B8%E5%87%AF%E4%B8%8D%E5%B8%AE%E4%BA%8E%E6%AD%A3%E6%96%B0%E5%89%A7%E5%AE%A3%E4%BC%A0%23&t=31&band_rank=6&Refer=top)<br />
 7. [49岁你还有勇气参加高考吗](https://s.weibo.com/weibo?q=%2349%E5%B2%81%E4%BD%A0%E8%BF%98%E6%9C%89%E5%8B%87%E6%B0%94%E5%8F%82%E5%8A%A0%E9%AB%98%E8%80%83%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
 8. [SMTOWN曾用EXO威胁边伯贤](https://s.weibo.com/weibo?q=%23SMTOWN%E6%9B%BE%E7%94%A8EXO%E5%A8%81%E8%83%81%E8%BE%B9%E4%BC%AF%E8%B4%A4%23&t=31&band_rank=8&Refer=top)<br />
-9. [建议实现一户一曜](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%AE%9E%E7%8E%B0%E4%B8%80%E6%88%B7%E4%B8%80%E6%9B%9C%23&t=31&band_rank=9&Refer=top)<br />
+9. [难听](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%90%AC&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -32,9 +32,9 @@
 4. [环境保护的耀眼“实绩”](https://www.baidu.com/s?wd=%E7%8E%AF%E5%A2%83%E4%BF%9D%E6%8A%A4%E7%9A%84%E8%80%80%E7%9C%BC%E2%80%9C%E5%AE%9E%E7%BB%A9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子过生日蛋糕上名字10年被写错](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%BF%87%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95%E4%B8%8A%E5%90%8D%E5%AD%9710%E5%B9%B4%E8%A2%AB%E5%86%99%E9%94%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [一个村考出300多大学生6个北大](https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E6%9D%91%E8%80%83%E5%87%BA300%E5%A4%9A%E5%A4%A7%E5%AD%A6%E7%94%9F6%E4%B8%AA%E5%8C%97%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [游客观潮险被卷逃跑时还在拍照](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E8%A7%82%E6%BD%AE%E9%99%A9%E8%A2%AB%E5%8D%B7%E9%80%83%E8%B7%91%E6%97%B6%E8%BF%98%E5%9C%A8%E6%8B%8D%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [多地对网约车按下“暂停键”](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%AF%B9%E7%BD%91%E7%BA%A6%E8%BD%A6%E6%8C%89%E4%B8%8B%E2%80%9C%E6%9A%82%E5%81%9C%E9%94%AE%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [杭州一居民家门口地面有80℃](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%B8%80%E5%B1%85%E6%B0%91%E5%AE%B6%E9%97%A8%E5%8F%A3%E5%9C%B0%E9%9D%A2%E6%9C%8980%E2%84%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [网友发布“三亚被宰记” 官方通报](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%8F%91%E5%B8%83%E2%80%9C%E4%B8%89%E4%BA%9A%E8%A2%AB%E5%AE%B0%E8%AE%B0%E2%80%9D+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [杭州一居民家门口地面有80℃](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%B8%80%E5%B1%85%E6%B0%91%E5%AE%B6%E9%97%A8%E5%8F%A3%E5%9C%B0%E9%9D%A2%E6%9C%8980%E2%84%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [游客观潮险被卷逃跑时还在拍照](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E8%A7%82%E6%BD%AE%E9%99%A9%E8%A2%AB%E5%8D%B7%E9%80%83%E8%B7%91%E6%97%B6%E8%BF%98%E5%9C%A8%E6%8B%8D%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [环境保护的耀眼“实绩”](https://www.baidu.com/s?wd=%E7%8E%AF%E5%A2%83%E4%BF%9D%E6%8A%A4%E7%9A%84%E8%80%80%E7%9C%BC%E2%80%9C%E5%AE%9E%E7%BB%A9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子过生日蛋糕上名字10年被写错](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%BF%87%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95%E4%B8%8A%E5%90%8D%E5%AD%9710%E5%B9%B4%E8%A2%AB%E5%86%99%E9%94%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [一个村考出300多大学生6个北大](https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E6%9D%91%E8%80%83%E5%87%BA300%E5%A4%9A%E5%A4%A7%E5%AD%A6%E7%94%9F6%E4%B8%AA%E5%8C%97%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [游客观潮险被卷逃跑时还在拍照](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E8%A7%82%E6%BD%AE%E9%99%A9%E8%A2%AB%E5%8D%B7%E9%80%83%E8%B7%91%E6%97%B6%E8%BF%98%E5%9C%A8%E6%8B%8D%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [多地对网约车按下“暂停键”](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%AF%B9%E7%BD%91%E7%BA%A6%E8%BD%A6%E6%8C%89%E4%B8%8B%E2%80%9C%E6%9A%82%E5%81%9C%E9%94%AE%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [杭州一居民家门口地面有80℃](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%B8%80%E5%B1%85%E6%B0%91%E5%AE%B6%E9%97%A8%E5%8F%A3%E5%9C%B0%E9%9D%A2%E6%9C%8980%E2%84%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [网友发布“三亚被宰记” 官方通报](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%8F%91%E5%B8%83%E2%80%9C%E4%B8%89%E4%BA%9A%E8%A2%AB%E5%AE%B0%E8%AE%B0%E2%80%9D+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [杭州一居民家门口地面有80℃](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%B8%80%E5%B1%85%E6%B0%91%E5%AE%B6%E9%97%A8%E5%8F%A3%E5%9C%B0%E9%9D%A2%E6%9C%8980%E2%84%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [游客观潮险被卷逃跑时还在拍照](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E8%A7%82%E6%BD%AE%E9%99%A9%E8%A2%AB%E5%8D%B7%E9%80%83%E8%B7%91%E6%97%B6%E8%BF%98%E5%9C%A8%E6%8B%8D%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
