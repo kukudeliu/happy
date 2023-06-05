@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 04:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 04:17:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [iOS17](https://s.weibo.com/weibo?q=iOS17&t=31&band_rank=5&Refer=top)<br />
 6. [天津碧桂园](https://s.weibo.com/weibo?q=%E5%A4%A9%E6%B4%A5%E7%A2%A7%E6%A1%82%E5%9B%AD&t=31&band_rank=6&Refer=top)<br />
 7. [AppleVisionPro售价](https://s.weibo.com/weibo?q=AppleVisionPro%E5%94%AE%E4%BB%B7&t=31&band_rank=7&Refer=top)<br />
-8. [有刘海的刘浩存](https://s.weibo.com/weibo?q=%23%E6%9C%89%E5%88%98%E6%B5%B7%E7%9A%84%E5%88%98%E6%B5%A9%E5%AD%98%23&t=31&band_rank=8&Refer=top)<br />
-9. [库克 今年将是最精彩WWDC](https://s.weibo.com/weibo?q=%E5%BA%93%E5%85%8B%20%E4%BB%8A%E5%B9%B4%E5%B0%86%E6%98%AF%E6%9C%80%E7%B2%BE%E5%BD%A9WWDC&t=31&band_rank=9&Refer=top)<br />
+8. [库克 今年将是最精彩WWDC](https://s.weibo.com/weibo?q=%E5%BA%93%E5%85%8B%20%E4%BB%8A%E5%B9%B4%E5%B0%86%E6%98%AF%E6%9C%80%E7%B2%BE%E5%BD%A9WWDC&t=31&band_rank=8&Refer=top)<br />
+9. [有刘海的刘浩存](https://s.weibo.com/weibo?q=%23%E6%9C%89%E5%88%98%E6%B5%B7%E7%9A%84%E5%88%98%E6%B5%A9%E5%AD%98%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -21,8 +21,8 @@
 5. [6 月 5 日在岸、离岸人民币对美元分别跌破 7.12 、 7.13，跌去前一交易日全部涨幅，后势将如何？](https://www.zhihu.com/question/604888554)<br />
 6. []()<br />
 7. []()<br />
-8. []()<br />
-9. [6 月 5 日是「世界环境日」，你理想中人与自然的关系是怎样的？为此我们可以做些什么？](https://www.zhihu.com/question/604432723)<br />
+8. [6 月 5 日是「世界环境日」，你理想中人与自然的关系是怎样的？为此我们可以做些什么？](https://www.zhihu.com/question/604432723)<br />
+9. [中国什么地方最安全不会地震？](https://www.zhihu.com/question/24769341)<br />
 
 > 百度  
 
