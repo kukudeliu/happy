@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 23:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 23:46:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [猴痘](https://s.weibo.com/weibo?q=%E7%8C%B4%E7%97%98&t=31&band_rank=6&Refer=top)<br />
 7. [弟弟一眼认出流浪乞讨人员是亲哥](https://s.weibo.com/weibo?q=%23%E5%BC%9F%E5%BC%9F%E4%B8%80%E7%9C%BC%E8%AE%A4%E5%87%BA%E6%B5%81%E6%B5%AA%E4%B9%9E%E8%AE%A8%E4%BA%BA%E5%91%98%E6%98%AF%E4%BA%B2%E5%93%A5%23&t=31&band_rank=7&Refer=top)<br />
 8. [高考加油](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E5%8A%A0%E6%B2%B9&t=31&band_rank=8&Refer=top)<br />
-9. [吴磊虞书欣 骄阳似我](https://s.weibo.com/weibo?q=%E5%90%B4%E7%A3%8A%E8%99%9E%E4%B9%A6%E6%AC%A3%20%E9%AA%84%E9%98%B3%E4%BC%BC%E6%88%91&t=31&band_rank=9&Refer=top)<br />
+9. [梦回王俊凯用易烊千玺读秒](https://s.weibo.com/weibo?q=%23%E6%A2%A6%E5%9B%9E%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%94%A8%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%AF%BB%E7%A7%92%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
