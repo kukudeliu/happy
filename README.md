@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 10:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 10:31:01</h4></div>
 
 > 微博  
 
@@ -19,8 +19,8 @@
 3. [施耐庵是确有其人，还是某古代文学大咖的马甲？](https://www.zhihu.com/question/533898457)<br />
 4. [你通过打游戏学到的最有用的东西是什么？](https://www.zhihu.com/question/596914550)<br />
 5. [英超大结局，曼城六年 5 次夺冠，瓜迪奥拉麾下的曼城在英超的统治力如何？](https://www.zhihu.com/question/604822451)<br />
-6. [曝 AC 米兰解雇马尔蒂尼，因管理层与资方有重大分歧，如何看待这样的决定？](https://www.zhihu.com/question/605015881)<br />
-7. [如何评价中国 A 队 4：2 加拿大，夺得 2023 年《帝国时代 2》国家杯冠军？](https://www.zhihu.com/question/604676388)<br />
+6. [如何评价中国 A 队 4：2 加拿大，夺得 2023 年《帝国时代 2》国家杯冠军？](https://www.zhihu.com/question/604676388)<br />
+7. [曝 AC 米兰解雇马尔蒂尼，因管理层与资方有重大分歧，如何看待这样的决定？](https://www.zhihu.com/question/605015881)<br />
 8. [马上就要高考了，大家有什么建议吗？](https://www.zhihu.com/question/604744944)<br />
 9. [租房有什么推荐的小家电提高幸福感？](https://www.zhihu.com/question/597011185)<br />
 
