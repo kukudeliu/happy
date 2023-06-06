@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 10:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 10:58:01</h4></div>
 
 > 微博  
 
@@ -16,8 +16,8 @@
 
 1. [如何看待珠峰攀登者为救遇险女子放弃登顶，被救女子只愿承担 4 成救援费？](https://www.zhihu.com/question/604842993)<br />
 2. [你通过打游戏学到的最有用的东西是什么？](https://www.zhihu.com/question/596914550)<br />
-3. [英超大结局，曼城六年 5 次夺冠，瓜迪奥拉麾下的曼城在英超的统治力如何？](https://www.zhihu.com/question/604822451)<br />
-4. [如何评价中国 A 队 4：2 加拿大，夺得 2023 年《帝国时代 2》国家杯冠军？](https://www.zhihu.com/question/604676388)<br />
+3. [如何评价中国 A 队 4：2 加拿大，夺得 2023 年《帝国时代 2》国家杯冠军？](https://www.zhihu.com/question/604676388)<br />
+4. [英超大结局，曼城六年 5 次夺冠，瓜迪奥拉麾下的曼城在英超的统治力如何？](https://www.zhihu.com/question/604822451)<br />
 5. [曝 AC 米兰解雇马尔蒂尼，因管理层与资方有重大分歧，如何看待这样的决定？](https://www.zhihu.com/question/605015881)<br />
 6. [美前情报官员称「俄新型雷达卫星将改变俄乌冲突进程，乌将打不动这场仗」，如何评价俄新发射的雷达卫星？](https://www.zhihu.com/question/604952577)<br />
 7. [铁了心想考公务员，给些建议，怎么准备？](https://www.zhihu.com/question/474808569)<br />
@@ -33,8 +33,8 @@
 5. [2023高考生的高中进度条已达99%](https://www.baidu.com/s?wd=2023%E9%AB%98%E8%80%83%E7%94%9F%E7%9A%84%E9%AB%98%E4%B8%AD%E8%BF%9B%E5%BA%A6%E6%9D%A1%E5%B7%B2%E8%BE%BE99%25&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [AI生成马斯克婴儿照被疯传](https://www.baidu.com/s?wd=AI%E7%94%9F%E6%88%90%E9%A9%AC%E6%96%AF%E5%85%8B%E5%A9%B4%E5%84%BF%E7%85%A7%E8%A2%AB%E7%96%AF%E4%BC%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [老人寻亲被发现是31年前命案逃犯](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E5%AF%BB%E4%BA%B2%E8%A2%AB%E5%8F%91%E7%8E%B0%E6%98%AF31%E5%B9%B4%E5%89%8D%E5%91%BD%E6%A1%88%E9%80%83%E7%8A%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [库克 今年将是最精彩WWDC](https://www.baidu.com/s?wd=%E5%BA%93%E5%85%8B+%E4%BB%8A%E5%B9%B4%E5%B0%86%E6%98%AF%E6%9C%80%E7%B2%BE%E5%BD%A9WWDC&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [唯品会崩了相关负责人被免职](https://www.baidu.com/s?wd=%E5%94%AF%E5%93%81%E4%BC%9A%E5%B4%A9%E4%BA%86%E7%9B%B8%E5%85%B3%E8%B4%9F%E8%B4%A3%E4%BA%BA%E8%A2%AB%E5%85%8D%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [唯品会崩了相关负责人被免职](https://www.baidu.com/s?wd=%E5%94%AF%E5%93%81%E4%BC%9A%E5%B4%A9%E4%BA%86%E7%9B%B8%E5%85%B3%E8%B4%9F%E8%B4%A3%E4%BA%BA%E8%A2%AB%E5%85%8D%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男老师集体为高考生跳女团舞解压](https://www.baidu.com/s?wd=%E7%94%B7%E8%80%81%E5%B8%88%E9%9B%86%E4%BD%93%E4%B8%BA%E9%AB%98%E8%80%83%E7%94%9F%E8%B7%B3%E5%A5%B3%E5%9B%A2%E8%88%9E%E8%A7%A3%E5%8E%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [2023高考生的高中进度条已达99%](https://www.baidu.com/s?wd=2023%E9%AB%98%E8%80%83%E7%94%9F%E7%9A%84%E9%AB%98%E4%B8%AD%E8%BF%9B%E5%BA%A6%E6%9D%A1%E5%B7%B2%E8%BE%BE99%25&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [AI生成马斯克婴儿照被疯传](https://www.baidu.com/s?wd=AI%E7%94%9F%E6%88%90%E9%A9%AC%E6%96%AF%E5%85%8B%E5%A9%B4%E5%84%BF%E7%85%A7%E8%A2%AB%E7%96%AF%E4%BC%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [老人寻亲被发现是31年前命案逃犯](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E5%AF%BB%E4%BA%B2%E8%A2%AB%E5%8F%91%E7%8E%B0%E6%98%AF31%E5%B9%B4%E5%89%8D%E5%91%BD%E6%A1%88%E9%80%83%E7%8A%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [库克 今年将是最精彩WWDC](https://www.baidu.com/s?wd=%E5%BA%93%E5%85%8B+%E4%BB%8A%E5%B9%B4%E5%B0%86%E6%98%AF%E6%9C%80%E7%B2%BE%E5%BD%A9WWDC&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [唯品会崩了相关负责人被免职](https://www.baidu.com/s?wd=%E5%94%AF%E5%93%81%E4%BC%9A%E5%B4%A9%E4%BA%86%E7%9B%B8%E5%85%B3%E8%B4%9F%E8%B4%A3%E4%BA%BA%E8%A2%AB%E5%85%8D%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [唯品会崩了相关负责人被免职](https://www.baidu.com/s?wd=%E5%94%AF%E5%93%81%E4%BC%9A%E5%B4%A9%E4%BA%86%E7%9B%B8%E5%85%B3%E8%B4%9F%E8%B4%A3%E4%BA%BA%E8%A2%AB%E5%85%8D%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男老师集体为高考生跳女团舞解压](https://www.baidu.com/s?wd=%E7%94%B7%E8%80%81%E5%B8%88%E9%9B%86%E4%BD%93%E4%B8%BA%E9%AB%98%E8%80%83%E7%94%9F%E8%B7%B3%E5%A5%B3%E5%9B%A2%E8%88%9E%E8%A7%A3%E5%8E%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
