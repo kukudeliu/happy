@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 14:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 14:18:01</h4></div>
 
 > 微博  
 
@@ -27,23 +27,23 @@
 > 百度  
 
 1. [祝愿每位考生“忙而不茫”](https://www.baidu.com/s?wd=%E7%A5%9D%E6%84%BF%E6%AF%8F%E4%BD%8D%E8%80%83%E7%94%9F%E2%80%9C%E5%BF%99%E8%80%8C%E4%B8%8D%E8%8C%AB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [中美防长为何“只握手不会谈”](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E9%98%B2%E9%95%BF%E4%B8%BA%E4%BD%95%E2%80%9C%E5%8F%AA%E6%8F%A1%E6%89%8B%E4%B8%8D%E4%BC%9A%E8%B0%88%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [乌克兰一水电站大坝被毁](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E4%B8%80%E6%B0%B4%E7%94%B5%E7%AB%99%E5%A4%A7%E5%9D%9D%E8%A2%AB%E6%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [商家被大学生“占便宜”到崩溃](https://www.baidu.com/s?wd=%E5%95%86%E5%AE%B6%E8%A2%AB%E5%A4%A7%E5%AD%A6%E7%94%9F%E2%80%9C%E5%8D%A0%E4%BE%BF%E5%AE%9C%E2%80%9D%E5%88%B0%E5%B4%A9%E6%BA%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全国麦收过四成](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E9%BA%A6%E6%94%B6%E8%BF%87%E5%9B%9B%E6%88%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [丫丫最新视频：抓起竹子就开啃](https://www.baidu.com/s?wd=%E4%B8%AB%E4%B8%AB%E6%9C%80%E6%96%B0%E8%A7%86%E9%A2%91%EF%BC%9A%E6%8A%93%E8%B5%B7%E7%AB%B9%E5%AD%90%E5%B0%B1%E5%BC%80%E5%95%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [22岁女子出门拿快递后失联](https://www.baidu.com/s?wd=22%E5%B2%81%E5%A5%B3%E5%AD%90%E5%87%BA%E9%97%A8%E6%8B%BF%E5%BF%AB%E9%80%92%E5%90%8E%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [乌克兰一水电站大坝被毁](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E4%B8%80%E6%B0%B4%E7%94%B5%E7%AB%99%E5%A4%A7%E5%9D%9D%E8%A2%AB%E6%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [小学生发现深沟露出车轮救人一命](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%8F%91%E7%8E%B0%E6%B7%B1%E6%B2%9F%E9%9C%B2%E5%87%BA%E8%BD%A6%E8%BD%AE%E6%95%91%E4%BA%BA%E4%B8%80%E5%91%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [喝酒去世网红家墙壁写着钱比命重要](https://www.baidu.com/s?wd=%E5%96%9D%E9%85%92%E5%8E%BB%E4%B8%96%E7%BD%91%E7%BA%A2%E5%AE%B6%E5%A2%99%E5%A3%81%E5%86%99%E7%9D%80%E9%92%B1%E6%AF%94%E5%91%BD%E9%87%8D%E8%A6%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [小学生发现深沟露出车轮救人一命](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%8F%91%E7%8E%B0%E6%B7%B1%E6%B2%9F%E9%9C%B2%E5%87%BA%E8%BD%A6%E8%BD%AE%E6%95%91%E4%BA%BA%E4%B8%80%E5%91%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [喝酒去世网红家墙壁写着钱比命重要](https://www.baidu.com/s?wd=%E5%96%9D%E9%85%92%E5%8E%BB%E4%B8%96%E7%BD%91%E7%BA%A2%E5%AE%B6%E5%A2%99%E5%A3%81%E5%86%99%E7%9D%80%E9%92%B1%E6%AF%94%E5%91%BD%E9%87%8D%E8%A6%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [牛肉干店把牛犊拴门口吆喝现点现做](https://www.baidu.com/s?wd=%E7%89%9B%E8%82%89%E5%B9%B2%E5%BA%97%E6%8A%8A%E7%89%9B%E7%8A%8A%E6%8B%B4%E9%97%A8%E5%8F%A3%E5%90%86%E5%96%9D%E7%8E%B0%E7%82%B9%E7%8E%B0%E5%81%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [祝愿每位考生“忙而不茫”](https://www.baidu.com/s?wd=%E7%A5%9D%E6%84%BF%E6%AF%8F%E4%BD%8D%E8%80%83%E7%94%9F%E2%80%9C%E5%BF%99%E8%80%8C%E4%B8%8D%E8%8C%AB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [中美防长为何“只握手不会谈”](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E9%98%B2%E9%95%BF%E4%B8%BA%E4%BD%95%E2%80%9C%E5%8F%AA%E6%8F%A1%E6%89%8B%E4%B8%8D%E4%BC%9A%E8%B0%88%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [乌克兰一水电站大坝被毁](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E4%B8%80%E6%B0%B4%E7%94%B5%E7%AB%99%E5%A4%A7%E5%9D%9D%E8%A2%AB%E6%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [商家被大学生“占便宜”到崩溃](https://www.baidu.com/s?wd=%E5%95%86%E5%AE%B6%E8%A2%AB%E5%A4%A7%E5%AD%A6%E7%94%9F%E2%80%9C%E5%8D%A0%E4%BE%BF%E5%AE%9C%E2%80%9D%E5%88%B0%E5%B4%A9%E6%BA%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全国麦收过四成](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E9%BA%A6%E6%94%B6%E8%BF%87%E5%9B%9B%E6%88%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [丫丫最新视频：抓起竹子就开啃](https://www.baidu.com/s?wd=%E4%B8%AB%E4%B8%AB%E6%9C%80%E6%96%B0%E8%A7%86%E9%A2%91%EF%BC%9A%E6%8A%93%E8%B5%B7%E7%AB%B9%E5%AD%90%E5%B0%B1%E5%BC%80%E5%95%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [22岁女子出门拿快递后失联](https://www.baidu.com/s?wd=22%E5%B2%81%E5%A5%B3%E5%AD%90%E5%87%BA%E9%97%A8%E6%8B%BF%E5%BF%AB%E9%80%92%E5%90%8E%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [乌克兰一水电站大坝被毁](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E4%B8%80%E6%B0%B4%E7%94%B5%E7%AB%99%E5%A4%A7%E5%9D%9D%E8%A2%AB%E6%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [小学生发现深沟露出车轮救人一命](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%8F%91%E7%8E%B0%E6%B7%B1%E6%B2%9F%E9%9C%B2%E5%87%BA%E8%BD%A6%E8%BD%AE%E6%95%91%E4%BA%BA%E4%B8%80%E5%91%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [喝酒去世网红家墙壁写着钱比命重要](https://www.baidu.com/s?wd=%E5%96%9D%E9%85%92%E5%8E%BB%E4%B8%96%E7%BD%91%E7%BA%A2%E5%AE%B6%E5%A2%99%E5%A3%81%E5%86%99%E7%9D%80%E9%92%B1%E6%AF%94%E5%91%BD%E9%87%8D%E8%A6%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [小学生发现深沟露出车轮救人一命](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%8F%91%E7%8E%B0%E6%B7%B1%E6%B2%9F%E9%9C%B2%E5%87%BA%E8%BD%A6%E8%BD%AE%E6%95%91%E4%BA%BA%E4%B8%80%E5%91%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [喝酒去世网红家墙壁写着钱比命重要](https://www.baidu.com/s?wd=%E5%96%9D%E9%85%92%E5%8E%BB%E4%B8%96%E7%BD%91%E7%BA%A2%E5%AE%B6%E5%A2%99%E5%A3%81%E5%86%99%E7%9D%80%E9%92%B1%E6%AF%94%E5%91%BD%E9%87%8D%E8%A6%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [牛肉干店把牛犊拴门口吆喝现点现做](https://www.baidu.com/s?wd=%E7%89%9B%E8%82%89%E5%B9%B2%E5%BA%97%E6%8A%8A%E7%89%9B%E7%8A%8A%E6%8B%B4%E9%97%A8%E5%8F%A3%E5%90%86%E5%96%9D%E7%8E%B0%E7%82%B9%E7%8E%B0%E5%81%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
