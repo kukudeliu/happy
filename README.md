@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 22:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 22:29:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [中国中等收入群体超4亿人 标准曝光](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%B8%AD%E7%AD%89%E6%94%B6%E5%85%A5%E7%BE%A4%E4%BD%93%E8%B6%854%E4%BA%BF%E4%BA%BA+%E6%A0%87%E5%87%86%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [2023年第一个弄丢证件的考生出现了](https://www.baidu.com/s?wd=2023%E5%B9%B4%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%BC%84%E4%B8%A2%E8%AF%81%E4%BB%B6%E7%9A%84%E8%80%83%E7%94%9F%E5%87%BA%E7%8E%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [11岁男孩开电动车失控撞死3岁男童](https://www.baidu.com/s?wd=11%E5%B2%81%E7%94%B7%E5%AD%A9%E5%BC%80%E7%94%B5%E5%8A%A8%E8%BD%A6%E5%A4%B1%E6%8E%A7%E6%92%9E%E6%AD%BB3%E5%B2%81%E7%94%B7%E7%AB%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [云南一导游暗讽游客不消费 官方通报](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E4%B8%80%E5%AF%BC%E6%B8%B8%E6%9A%97%E8%AE%BD%E6%B8%B8%E5%AE%A2%E4%B8%8D%E6%B6%88%E8%B4%B9+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [喝酒去世网红家墙壁写着钱比命重要](https://www.baidu.com/s?wd=%E5%96%9D%E9%85%92%E5%8E%BB%E4%B8%96%E7%BD%91%E7%BA%A2%E5%AE%B6%E5%A2%99%E5%A3%81%E5%86%99%E7%9D%80%E9%92%B1%E6%AF%94%E5%91%BD%E9%87%8D%E8%A6%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [中国中等收入群体超4亿人 标准曝光](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%B8%AD%E7%AD%89%E6%94%B6%E5%85%A5%E7%BE%A4%E4%BD%93%E8%B6%854%E4%BA%BF%E4%BA%BA+%E6%A0%87%E5%87%86%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [2023年第一个弄丢证件的考生出现了](https://www.baidu.com/s?wd=2023%E5%B9%B4%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%BC%84%E4%B8%A2%E8%AF%81%E4%BB%B6%E7%9A%84%E8%80%83%E7%94%9F%E5%87%BA%E7%8E%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [11岁男孩开电动车失控撞死3岁男童](https://www.baidu.com/s?wd=11%E5%B2%81%E7%94%B7%E5%AD%A9%E5%BC%80%E7%94%B5%E5%8A%A8%E8%BD%A6%E5%A4%B1%E6%8E%A7%E6%92%9E%E6%AD%BB3%E5%B2%81%E7%94%B7%E7%AB%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [云南一导游暗讽游客不消费 官方通报](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E4%B8%80%E5%AF%BC%E6%B8%B8%E6%9A%97%E8%AE%BD%E6%B8%B8%E5%AE%A2%E4%B8%8D%E6%B6%88%E8%B4%B9+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [喝酒去世网红家墙壁写着钱比命重要](https://www.baidu.com/s?wd=%E5%96%9D%E9%85%92%E5%8E%BB%E4%B8%96%E7%BD%91%E7%BA%A2%E5%AE%B6%E5%A2%99%E5%A3%81%E5%86%99%E7%9D%80%E9%92%B1%E6%AF%94%E5%91%BD%E9%87%8D%E8%A6%81&sa=fyb_news&rsv_dl=fyb_news)<br />
