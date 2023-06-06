@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 22:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 22:02:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [种地吧直播](https://s.weibo.com/weibo?q=%E7%A7%8D%E5%9C%B0%E5%90%A7%E7%9B%B4%E6%92%AD&t=31&band_rank=4&Refer=top)<br />
 5. [人体最大的器官是什么](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E4%BD%93%E6%9C%80%E5%A4%A7%E7%9A%84%E5%99%A8%E5%AE%98%E6%98%AF%E4%BB%80%E4%B9%88%23&t=31&band_rank=5&Refer=top)<br />
 6. [猴痘](https://s.weibo.com/weibo?q=%E7%8C%B4%E7%97%98&t=31&band_rank=6&Refer=top)<br />
-7. [广东明确停课不停考](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%98%8E%E7%A1%AE%E5%81%9C%E8%AF%BE%E4%B8%8D%E5%81%9C%E8%80%83%23&t=31&band_rank=7&Refer=top)<br />
-8. [杭州姑娘20元刮刮乐刮中百万](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%A7%91%E5%A8%9820%E5%85%83%E5%88%AE%E5%88%AE%E4%B9%90%E5%88%AE%E4%B8%AD%E7%99%BE%E4%B8%87%23&t=31&band_rank=8&Refer=top)<br />
+7. [杭州姑娘20元刮刮乐刮中百万](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%A7%91%E5%A8%9820%E5%85%83%E5%88%AE%E5%88%AE%E4%B9%90%E5%88%AE%E4%B8%AD%E7%99%BE%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
+8. [广东明确停课不停考](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%98%8E%E7%A1%AE%E5%81%9C%E8%AF%BE%E4%B8%8D%E5%81%9C%E8%80%83%23&t=31&band_rank=8&Refer=top)<br />
 9. [种地吧感恩音乐会](https://s.weibo.com/weibo?q=%23%E7%A7%8D%E5%9C%B0%E5%90%A7%E6%84%9F%E6%81%A9%E9%9F%B3%E4%B9%90%E4%BC%9A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
