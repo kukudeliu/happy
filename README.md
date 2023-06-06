@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 12:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 12:43:02</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [现在插混车，真的是「有电一条龙，没电一条虫」吗？](https://www.zhihu.com/question/604920502)<br />
 7. [如果男朋友是个在学校风评很低的人， 身边人都让我和他保持距离怎么办？](https://www.zhihu.com/question/604255099)<br />
 8. [为什么蜘蛛侠从一开始的从身体射蛛丝变成了合成蛛丝？](https://www.zhihu.com/question/372266242)<br />
-9. [漫威粉丝看完《蜘蛛侠：纵横宇宙》有什么样的感受？](https://www.zhihu.com/question/604290657)<br />
+9. [洪都拉斯总统将于 6 月 9 日访华，系中洪建交后首次，具有何意义？](https://www.zhihu.com/question/605017623)<br />
 
 > 百度  
 
