@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 21:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 21:24:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 2. [为什么男朋友愿意给我买 8 千的手机，不愿意让我买 5 千的包包？](https://www.zhihu.com/question/603599168)<br />
 3. [56 岁「考王」梁实第 27 次参加高考，称「目标重点本科 ，希望是最后一次」，他有哪些精神值得学习？](https://www.zhihu.com/question/604886385)<br />
 4. [美官员称中方舰机拦截或导致事故，外交部回应「是美国军用舰机不远万里跑到中国家门口挑衅」，如何解读？](https://www.zhihu.com/question/605094826)<br />
-5. [Apple Vision Pro 续航仅 2 小时，能否满足用户需求？](https://www.zhihu.com/theater/83147)<br />
+5. [苹果 MR 头显能否重现下一个「iPhone 时刻」？](https://www.zhihu.com/theater/83147)<br />
 6. [业主壕购 42 套公寓，欲将墙体全部打通，楼上住宅现裂痕住户心慌，相关部门已责令停工，如何看待此事？](https://www.zhihu.com/question/605035212)<br />
 7. [珠峰攀登者放弃登顶花费 10000 美元救起濒死女子，获救者只愿承担四成费用，如何评价这一行为？](https://www.zhihu.com/question/604852845)<br />
 8. [中俄两军 6 月 6 日在日本海、东海相关空域组织实施第 6 次联合空中战略巡航，有哪些信息值得关注？](https://www.zhihu.com/question/605078253)<br />
@@ -33,7 +33,7 @@
 5. [专家谈鸭脖争议：大概率是老鼠头](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E8%B0%88%E9%B8%AD%E8%84%96%E4%BA%89%E8%AE%AE%EF%BC%9A%E5%A4%A7%E6%A6%82%E7%8E%87%E6%98%AF%E8%80%81%E9%BC%A0%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [2023年第一个弄丢证件的考生出现了](https://www.baidu.com/s?wd=2023%E5%B9%B4%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%BC%84%E4%B8%A2%E8%AF%81%E4%BB%B6%E7%9A%84%E8%80%83%E7%94%9F%E5%87%BA%E7%8E%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [广东明确停课不停考](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E6%98%8E%E7%A1%AE%E5%81%9C%E8%AF%BE%E4%B8%8D%E5%81%9C%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [招聘方回应录用浙大毕业生驱鸟](https://www.baidu.com/s?wd=%E6%8B%9B%E8%81%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%BD%95%E7%94%A8%E6%B5%99%E5%A4%A7%E6%AF%95%E4%B8%9A%E7%94%9F%E9%A9%B1%E9%B8%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [俄媒：卡霍夫卡大坝已坍塌近半](https://www.baidu.com/s?wd=%E4%BF%84%E5%AA%92%EF%BC%9A%E5%8D%A1%E9%9C%8D%E5%A4%AB%E5%8D%A1%E5%A4%A7%E5%9D%9D%E5%B7%B2%E5%9D%8D%E5%A1%8C%E8%BF%91%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [男子因家庭纠纷跳河 妻子施救身亡](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9B%A0%E5%AE%B6%E5%BA%AD%E7%BA%A0%E7%BA%B7%E8%B7%B3%E6%B2%B3+%E5%A6%BB%E5%AD%90%E6%96%BD%E6%95%91%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [专家谈鸭脖争议：大概率是老鼠头](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E8%B0%88%E9%B8%AD%E8%84%96%E4%BA%89%E8%AE%AE%EF%BC%9A%E5%A4%A7%E6%A6%82%E7%8E%87%E6%98%AF%E8%80%81%E9%BC%A0%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [2023年第一个弄丢证件的考生出现了](https://www.baidu.com/s?wd=2023%E5%B9%B4%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%BC%84%E4%B8%A2%E8%AF%81%E4%BB%B6%E7%9A%84%E8%80%83%E7%94%9F%E5%87%BA%E7%8E%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [广东明确停课不停考](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E6%98%8E%E7%A1%AE%E5%81%9C%E8%AF%BE%E4%B8%8D%E5%81%9C%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [招聘方回应录用浙大毕业生驱鸟](https://www.baidu.com/s?wd=%E6%8B%9B%E8%81%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%BD%95%E7%94%A8%E6%B5%99%E5%A4%A7%E6%AF%95%E4%B8%9A%E7%94%9F%E9%A9%B1%E9%B8%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [俄媒：卡霍夫卡大坝已坍塌近半](https://www.baidu.com/s?wd=%E4%BF%84%E5%AA%92%EF%BC%9A%E5%8D%A1%E9%9C%8D%E5%A4%AB%E5%8D%A1%E5%A4%A7%E5%9D%9D%E5%B7%B2%E5%9D%8D%E5%A1%8C%E8%BF%91%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [男子因家庭纠纷跳河 妻子施救身亡](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9B%A0%E5%AE%B6%E5%BA%AD%E7%BA%A0%E7%BA%B7%E8%B7%B3%E6%B2%B3+%E5%A6%BB%E5%AD%90%E6%96%BD%E6%95%91%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
