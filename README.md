@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 14:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 14:29:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [22岁女子出门拿快递后失联](https://www.baidu.com/s?wd=22%E5%B2%81%E5%A5%B3%E5%AD%90%E5%87%BA%E9%97%A8%E6%8B%BF%E5%BF%AB%E9%80%92%E5%90%8E%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [喝酒去世网红家墙壁写着钱比命重要](https://www.baidu.com/s?wd=%E5%96%9D%E9%85%92%E5%8E%BB%E4%B8%96%E7%BD%91%E7%BA%A2%E5%AE%B6%E5%A2%99%E5%A3%81%E5%86%99%E7%9D%80%E9%92%B1%E6%AF%94%E5%91%BD%E9%87%8D%E8%A6%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [中国电商让韩国海关爆仓](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%95%86%E8%AE%A9%E9%9F%A9%E5%9B%BD%E6%B5%B7%E5%85%B3%E7%88%86%E4%BB%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [小学生发现深沟露出车轮救人一命](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%8F%91%E7%8E%B0%E6%B7%B1%E6%B2%9F%E9%9C%B2%E5%87%BA%E8%BD%A6%E8%BD%AE%E6%95%91%E4%BA%BA%E4%B8%80%E5%91%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [牛肉干店把牛犊拴门口吆喝现点现做](https://www.baidu.com/s?wd=%E7%89%9B%E8%82%89%E5%B9%B2%E5%BA%97%E6%8A%8A%E7%89%9B%E7%8A%8A%E6%8B%B4%E9%97%A8%E5%8F%A3%E5%90%86%E5%96%9D%E7%8E%B0%E7%82%B9%E7%8E%B0%E5%81%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [22岁女子出门拿快递后失联](https://www.baidu.com/s?wd=22%E5%B2%81%E5%A5%B3%E5%AD%90%E5%87%BA%E9%97%A8%E6%8B%BF%E5%BF%AB%E9%80%92%E5%90%8E%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [喝酒去世网红家墙壁写着钱比命重要](https://www.baidu.com/s?wd=%E5%96%9D%E9%85%92%E5%8E%BB%E4%B8%96%E7%BD%91%E7%BA%A2%E5%AE%B6%E5%A2%99%E5%A3%81%E5%86%99%E7%9D%80%E9%92%B1%E6%AF%94%E5%91%BD%E9%87%8D%E8%A6%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [中国电商让韩国海关爆仓](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%95%86%E8%AE%A9%E9%9F%A9%E5%9B%BD%E6%B5%B7%E5%85%B3%E7%88%86%E4%BB%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [小学生发现深沟露出车轮救人一命](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%8F%91%E7%8E%B0%E6%B7%B1%E6%B2%9F%E9%9C%B2%E5%87%BA%E8%BD%A6%E8%BD%AE%E6%95%91%E4%BA%BA%E4%B8%80%E5%91%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [牛肉干店把牛犊拴门口吆喝现点现做](https://www.baidu.com/s?wd=%E7%89%9B%E8%82%89%E5%B9%B2%E5%BA%97%E6%8A%8A%E7%89%9B%E7%8A%8A%E6%8B%B4%E9%97%A8%E5%8F%A3%E5%90%86%E5%96%9D%E7%8E%B0%E7%82%B9%E7%8E%B0%E5%81%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
