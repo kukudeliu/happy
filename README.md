@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 04:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 04:17:01</h4></div>
 
 > 微博  
 
-1. [叶国华已被移出群聊](https://s.weibo.com/weibo?q=%23%E5%8F%B6%E5%9B%BD%E5%8D%8E%E5%B7%B2%E8%A2%AB%E7%A7%BB%E5%87%BA%E7%BE%A4%E8%81%8A%23&t=31&band_rank=1&Refer=top)<br />
-2. [辅导员自费给全班买咖啡抽中电车](https://s.weibo.com/weibo?q=%23%E8%BE%85%E5%AF%BC%E5%91%98%E8%87%AA%E8%B4%B9%E7%BB%99%E5%85%A8%E7%8F%AD%E4%B9%B0%E5%92%96%E5%95%A1%E6%8A%BD%E4%B8%AD%E7%94%B5%E8%BD%A6%23&t=31&band_rank=2&Refer=top)<br />
+1. [辅导员自费给全班买咖啡抽中电车](https://s.weibo.com/weibo?q=%23%E8%BE%85%E5%AF%BC%E5%91%98%E8%87%AA%E8%B4%B9%E7%BB%99%E5%85%A8%E7%8F%AD%E4%B9%B0%E5%92%96%E5%95%A1%E6%8A%BD%E4%B8%AD%E7%94%B5%E8%BD%A6%23&t=31&band_rank=1&Refer=top)<br />
+2. [叶国华已被移出群聊](https://s.weibo.com/weibo?q=%23%E5%8F%B6%E5%9B%BD%E5%8D%8E%E5%B7%B2%E8%A2%AB%E7%A7%BB%E5%87%BA%E7%BE%A4%E8%81%8A%23&t=31&band_rank=2&Refer=top)<br />
 3. [首艘国产大型邮轮爱达魔都号出坞](https://s.weibo.com/weibo?q=%23%E9%A6%96%E8%89%98%E5%9B%BD%E4%BA%A7%E5%A4%A7%E5%9E%8B%E9%82%AE%E8%BD%AE%E7%88%B1%E8%BE%BE%E9%AD%94%E9%83%BD%E5%8F%B7%E5%87%BA%E5%9D%9E%23&t=31&band_rank=3&Refer=top)<br />
 4. [人体最大的器官是什么](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E4%BD%93%E6%9C%80%E5%A4%A7%E7%9A%84%E5%99%A8%E5%AE%98%E6%98%AF%E4%BB%80%E4%B9%88%23&t=31&band_rank=4&Refer=top)<br />
 5. [弟弟一眼认出流浪乞讨人员是亲哥](https://s.weibo.com/weibo?q=%23%E5%BC%9F%E5%BC%9F%E4%B8%80%E7%9C%BC%E8%AE%A4%E5%87%BA%E6%B5%81%E6%B5%AA%E4%B9%9E%E8%AE%A8%E4%BA%BA%E5%91%98%E6%98%AF%E4%BA%B2%E5%93%A5%23&t=31&band_rank=5&Refer=top)<br />
@@ -34,7 +34,7 @@
 6. [杭州姑娘20元刮刮乐刮中百万](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%A7%91%E5%A8%9820%E5%85%83%E5%88%AE%E5%88%AE%E4%B9%90%E5%88%AE%E4%B8%AD%E7%99%BE%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [广东明确停课不停考](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E6%98%8E%E7%A1%AE%E5%81%9C%E8%AF%BE%E4%B8%8D%E5%81%9C%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [5亿身家高中生坠亡 尸检报告公布](https://www.baidu.com/s?wd=5%E4%BA%BF%E8%BA%AB%E5%AE%B6%E9%AB%98%E4%B8%AD%E7%94%9F%E5%9D%A0%E4%BA%A1+%E5%B0%B8%E6%A3%80%E6%8A%A5%E5%91%8A%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [淄博夜空500架无人机助力高考](https://www.baidu.com/s?wd=%E6%B7%84%E5%8D%9A%E5%A4%9C%E7%A9%BA500%E6%9E%B6%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%8A%A9%E5%8A%9B%E9%AB%98%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [北大包丽案7日宣判取消](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E5%8C%85%E4%B8%BD%E6%A1%887%E6%97%A5%E5%AE%A3%E5%88%A4%E5%8F%96%E6%B6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [杭州姑娘20元刮刮乐刮中百万](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%A7%91%E5%A8%9820%E5%85%83%E5%88%AE%E5%88%AE%E4%B9%90%E5%88%AE%E4%B8%AD%E7%99%BE%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [广东明确停课不停考](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E6%98%8E%E7%A1%AE%E5%81%9C%E8%AF%BE%E4%B8%8D%E5%81%9C%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [5亿身家高中生坠亡 尸检报告公布](https://www.baidu.com/s?wd=5%E4%BA%BF%E8%BA%AB%E5%AE%B6%E9%AB%98%E4%B8%AD%E7%94%9F%E5%9D%A0%E4%BA%A1+%E5%B0%B8%E6%A3%80%E6%8A%A5%E5%91%8A%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [淄博夜空500架无人机助力高考](https://www.baidu.com/s?wd=%E6%B7%84%E5%8D%9A%E5%A4%9C%E7%A9%BA500%E6%9E%B6%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%8A%A9%E5%8A%9B%E9%AB%98%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [北大包丽案7日宣判取消](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E5%8C%85%E4%B8%BD%E6%A1%887%E6%97%A5%E5%AE%A3%E5%88%A4%E5%8F%96%E6%B6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
