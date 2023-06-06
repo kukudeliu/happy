@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 17:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 17:29:01</h4></div>
 
 > 微博  
 
@@ -18,11 +18,11 @@
 2. [贵州「村超」获业界大咖点赞，韩乔生现场解说：这收视率超过中超，民间体育为何能深受大家的喜爱？](https://www.zhihu.com/question/604895219)<br />
 3. [能预测一下 2023 年的高考语文作文题吗？](https://www.zhihu.com/question/598414587)<br />
 4. [公司聚餐你要点菜时，领导说你不够格，你该怎么回答？](https://www.zhihu.com/question/604650772)<br />
-5. [如何评价郝蕾、王鸥、唐艺昕、刘奕君主演的电视剧《熟年》？](https://www.zhihu.com/question/602189528)<br />
+5. [如何评价《暗黑破坏神 4》?](https://www.zhihu.com/question/353664383)<br />
 6. [业主壕购 42 套公寓，欲将墙体全部打通，楼上住宅现裂痕住户心慌，相关部门已责令停工，如何看待此事？](https://www.zhihu.com/question/605035212)<br />
-7. [美前情报官员称「俄新型雷达卫星将改变俄乌冲突进程，乌将打不动这场仗」，如何评价俄新发射的雷达卫星？](https://www.zhihu.com/question/604952577)<br />
-8. [如何评价《暗黑破坏神 4》?](https://www.zhihu.com/question/353664383)<br />
-9. []()<br />
+7. [如何评价郝蕾、王鸥、唐艺昕、刘奕君主演的电视剧《熟年》？](https://www.zhihu.com/question/602189528)<br />
+8. []()<br />
+9. [狗狗真的能听懂人话吗?](https://www.zhihu.com/question/603864621)<br />
 
 > 百度  
 
@@ -32,9 +32,9 @@
 4. [神十五乘组返回纪实](https://www.baidu.com/s?wd=%E7%A5%9E%E5%8D%81%E4%BA%94%E4%B9%98%E7%BB%84%E8%BF%94%E5%9B%9E%E7%BA%AA%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子驾车连撞9人逃跑 目前已落网](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%A9%BE%E8%BD%A6%E8%BF%9E%E6%92%9E9%E4%BA%BA%E9%80%83%E8%B7%91+%E7%9B%AE%E5%89%8D%E5%B7%B2%E8%90%BD%E7%BD%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [宝妈因孩子吃了同学生日蛋糕发飙](https://www.baidu.com/s?wd=%E5%AE%9D%E5%A6%88%E5%9B%A0%E5%AD%A9%E5%AD%90%E5%90%83%E4%BA%86%E5%90%8C%E5%AD%A6%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95%E5%8F%91%E9%A3%99&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子回家忘关门陌生男尾随闯入](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%9B%9E%E5%AE%B6%E5%BF%98%E5%85%B3%E9%97%A8%E9%99%8C%E7%94%9F%E7%94%B7%E5%B0%BE%E9%9A%8F%E9%97%AF%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [24岁男子修电梯时被夹头身亡](https://www.baidu.com/s?wd=24%E5%B2%81%E7%94%B7%E5%AD%90%E4%BF%AE%E7%94%B5%E6%A2%AF%E6%97%B6%E8%A2%AB%E5%A4%B9%E5%A4%B4%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [包丽母亲：不用道歉只要牟某翰坐牢](https://www.baidu.com/s?wd=%E5%8C%85%E4%B8%BD%E6%AF%8D%E4%BA%B2%EF%BC%9A%E4%B8%8D%E7%94%A8%E9%81%93%E6%AD%89%E5%8F%AA%E8%A6%81%E7%89%9F%E6%9F%90%E7%BF%B0%E5%9D%90%E7%89%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [24岁男子修电梯时被夹头身亡](https://www.baidu.com/s?wd=24%E5%B2%81%E7%94%B7%E5%AD%90%E4%BF%AE%E7%94%B5%E6%A2%AF%E6%97%B6%E8%A2%AB%E5%A4%B9%E5%A4%B4%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [5亿身家高中生坠亡 尸检报告公布](https://www.baidu.com/s?wd=5%E4%BA%BF%E8%BA%AB%E5%AE%B6%E9%AB%98%E4%B8%AD%E7%94%9F%E5%9D%A0%E4%BA%A1+%E5%B0%B8%E6%A3%80%E6%8A%A5%E5%91%8A%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子回家忘关门陌生男尾随闯入](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%9B%9E%E5%AE%B6%E5%BF%98%E5%85%B3%E9%97%A8%E9%99%8C%E7%94%9F%E7%94%B7%E5%B0%BE%E9%9A%8F%E9%97%AF%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [神十五乘组返回纪实](https://www.baidu.com/s?wd=%E7%A5%9E%E5%8D%81%E4%BA%94%E4%B9%98%E7%BB%84%E8%BF%94%E5%9B%9E%E7%BA%AA%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子驾车连撞9人逃跑 目前已落网](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%A9%BE%E8%BD%A6%E8%BF%9E%E6%92%9E9%E4%BA%BA%E9%80%83%E8%B7%91+%E7%9B%AE%E5%89%8D%E5%B7%B2%E8%90%BD%E7%BD%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [宝妈因孩子吃了同学生日蛋糕发飙](https://www.baidu.com/s?wd=%E5%AE%9D%E5%A6%88%E5%9B%A0%E5%AD%A9%E5%AD%90%E5%90%83%E4%BA%86%E5%90%8C%E5%AD%A6%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95%E5%8F%91%E9%A3%99&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子回家忘关门陌生男尾随闯入](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%9B%9E%E5%AE%B6%E5%BF%98%E5%85%B3%E9%97%A8%E9%99%8C%E7%94%9F%E7%94%B7%E5%B0%BE%E9%9A%8F%E9%97%AF%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [24岁男子修电梯时被夹头身亡](https://www.baidu.com/s?wd=24%E5%B2%81%E7%94%B7%E5%AD%90%E4%BF%AE%E7%94%B5%E6%A2%AF%E6%97%B6%E8%A2%AB%E5%A4%B9%E5%A4%B4%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [包丽母亲：不用道歉只要牟某翰坐牢](https://www.baidu.com/s?wd=%E5%8C%85%E4%B8%BD%E6%AF%8D%E4%BA%B2%EF%BC%9A%E4%B8%8D%E7%94%A8%E9%81%93%E6%AD%89%E5%8F%AA%E8%A6%81%E7%89%9F%E6%9F%90%E7%BF%B0%E5%9D%90%E7%89%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [24岁男子修电梯时被夹头身亡](https://www.baidu.com/s?wd=24%E5%B2%81%E7%94%B7%E5%AD%90%E4%BF%AE%E7%94%B5%E6%A2%AF%E6%97%B6%E8%A2%AB%E5%A4%B9%E5%A4%B4%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [5亿身家高中生坠亡 尸检报告公布](https://www.baidu.com/s?wd=5%E4%BA%BF%E8%BA%AB%E5%AE%B6%E9%AB%98%E4%B8%AD%E7%94%9F%E5%9D%A0%E4%BA%A1+%E5%B0%B8%E6%A3%80%E6%8A%A5%E5%91%8A%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子回家忘关门陌生男尾随闯入](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%9B%9E%E5%AE%B6%E5%BF%98%E5%85%B3%E9%97%A8%E9%99%8C%E7%94%9F%E7%94%B7%E5%B0%BE%E9%9A%8F%E9%97%AF%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
