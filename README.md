@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 21:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 21:03:01</h4></div>
 
 > 微博  
 
@@ -32,9 +32,9 @@
 4. [候鸟迁飞舞动命运与共](https://www.baidu.com/s?wd=%E5%80%99%E9%B8%9F%E8%BF%81%E9%A3%9E%E8%88%9E%E5%8A%A8%E5%91%BD%E8%BF%90%E4%B8%8E%E5%85%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [专家谈鸭脖争议：大概率是老鼠头](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E8%B0%88%E9%B8%AD%E8%84%96%E4%BA%89%E8%AE%AE%EF%BC%9A%E5%A4%A7%E6%A6%82%E7%8E%87%E6%98%AF%E8%80%81%E9%BC%A0%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [2023年第一个弄丢证件的考生出现了](https://www.baidu.com/s?wd=2023%E5%B9%B4%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%BC%84%E4%B8%A2%E8%AF%81%E4%BB%B6%E7%9A%84%E8%80%83%E7%94%9F%E5%87%BA%E7%8E%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [广东明确停课不停考](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E6%98%8E%E7%A1%AE%E5%81%9C%E8%AF%BE%E4%B8%8D%E5%81%9C%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [大润发当天上架的椰子变质发黑](https://www.baidu.com/s?wd=%E5%A4%A7%E6%B6%A6%E5%8F%91%E5%BD%93%E5%A4%A9%E4%B8%8A%E6%9E%B6%E7%9A%84%E6%A4%B0%E5%AD%90%E5%8F%98%E8%B4%A8%E5%8F%91%E9%BB%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [苹果市值蒸发6000亿](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%916000%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [俄媒：卡霍夫卡大坝已坍塌近半](https://www.baidu.com/s?wd=%E4%BF%84%E5%AA%92%EF%BC%9A%E5%8D%A1%E9%9C%8D%E5%A4%AB%E5%8D%A1%E5%A4%A7%E5%9D%9D%E5%B7%B2%E5%9D%8D%E5%A1%8C%E8%BF%91%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [广东明确停课不停考](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E6%98%8E%E7%A1%AE%E5%81%9C%E8%AF%BE%E4%B8%8D%E5%81%9C%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [大润发当天上架的椰子变质发黑](https://www.baidu.com/s?wd=%E5%A4%A7%E6%B6%A6%E5%8F%91%E5%BD%93%E5%A4%A9%E4%B8%8A%E6%9E%B6%E7%9A%84%E6%A4%B0%E5%AD%90%E5%8F%98%E8%B4%A8%E5%8F%91%E9%BB%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [候鸟迁飞舞动命运与共](https://www.baidu.com/s?wd=%E5%80%99%E9%B8%9F%E8%BF%81%E9%A3%9E%E8%88%9E%E5%8A%A8%E5%91%BD%E8%BF%90%E4%B8%8E%E5%85%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [专家谈鸭脖争议：大概率是老鼠头](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E8%B0%88%E9%B8%AD%E8%84%96%E4%BA%89%E8%AE%AE%EF%BC%9A%E5%A4%A7%E6%A6%82%E7%8E%87%E6%98%AF%E8%80%81%E9%BC%A0%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [2023年第一个弄丢证件的考生出现了](https://www.baidu.com/s?wd=2023%E5%B9%B4%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%BC%84%E4%B8%A2%E8%AF%81%E4%BB%B6%E7%9A%84%E8%80%83%E7%94%9F%E5%87%BA%E7%8E%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [广东明确停课不停考](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E6%98%8E%E7%A1%AE%E5%81%9C%E8%AF%BE%E4%B8%8D%E5%81%9C%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [大润发当天上架的椰子变质发黑](https://www.baidu.com/s?wd=%E5%A4%A7%E6%B6%A6%E5%8F%91%E5%BD%93%E5%A4%A9%E4%B8%8A%E6%9E%B6%E7%9A%84%E6%A4%B0%E5%AD%90%E5%8F%98%E8%B4%A8%E5%8F%91%E9%BB%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [苹果市值蒸发6000亿](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%916000%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [俄媒：卡霍夫卡大坝已坍塌近半](https://www.baidu.com/s?wd=%E4%BF%84%E5%AA%92%EF%BC%9A%E5%8D%A1%E9%9C%8D%E5%A4%AB%E5%8D%A1%E5%A4%A7%E5%9D%9D%E5%B7%B2%E5%9D%8D%E5%A1%8C%E8%BF%91%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [广东明确停课不停考](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E6%98%8E%E7%A1%AE%E5%81%9C%E8%AF%BE%E4%B8%8D%E5%81%9C%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [大润发当天上架的椰子变质发黑](https://www.baidu.com/s?wd=%E5%A4%A7%E6%B6%A6%E5%8F%91%E5%BD%93%E5%A4%A9%E4%B8%8A%E6%9E%B6%E7%9A%84%E6%A4%B0%E5%AD%90%E5%8F%98%E8%B4%A8%E5%8F%91%E9%BB%91&sa=fyb_news&rsv_dl=fyb_news)<br />
