@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 01:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 01:05:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [虞书欣工作人员的手机壳](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E7%9A%84%E6%89%8B%E6%9C%BA%E5%A3%B3%23&t=31&band_rank=6&Refer=top)<br />
 7. [杭州姑娘20元刮刮乐刮中百万](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%A7%91%E5%A8%9820%E5%85%83%E5%88%AE%E5%88%AE%E4%B9%90%E5%88%AE%E4%B8%AD%E7%99%BE%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [弟弟一眼认出流浪乞讨人员是亲哥](https://s.weibo.com/weibo?q=%23%E5%BC%9F%E5%BC%9F%E4%B8%80%E7%9C%BC%E8%AE%A4%E5%87%BA%E6%B5%81%E6%B5%AA%E4%B9%9E%E8%AE%A8%E4%BA%BA%E5%91%98%E6%98%AF%E4%BA%B2%E5%93%A5%23&t=31&band_rank=8&Refer=top)<br />
-9. [00后打零工攒3千给爷爷装空调](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E6%89%93%E9%9B%B6%E5%B7%A5%E6%94%923%E5%8D%83%E7%BB%99%E7%88%B7%E7%88%B7%E8%A3%85%E7%A9%BA%E8%B0%83%23&t=31&band_rank=9&Refer=top)<br />
+9. [贷款上班](https://s.weibo.com/weibo?q=%E8%B4%B7%E6%AC%BE%E4%B8%8A%E7%8F%AD&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
