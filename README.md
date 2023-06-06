@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 22:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 22:27:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [珠峰攀登者放弃登顶花费 10000 美元救起濒死女子，获救者只愿承担四成费用，如何评价这一行为？](https://www.zhihu.com/question/604852845)<br />
 6. [业主壕购 42 套公寓，欲将墙体全部打通，楼上住宅现裂痕住户心慌，相关部门已责令停工，如何看待此事？](https://www.zhihu.com/question/605035212)<br />
 7. [2023 年高考数学还会继续难吗?](https://www.zhihu.com/question/540430079)<br />
-8. [高考前最后一天，考生应该做好哪些准备？](https://www.zhihu.com/question/605048866)<br />
-9. [小猫知道自己在别人眼中有多可爱吗？](https://www.zhihu.com/question/271875206)<br />
+8. [小猫知道自己在别人眼中有多可爱吗？](https://www.zhihu.com/question/271875206)<br />
+9. [1291 万高考生即将奔赴考场，你认为 2023 年高考与往年相比最值得关注的变化是什么？](https://www.zhihu.com/question/605100302)<br />
 
 > 百度  
 
