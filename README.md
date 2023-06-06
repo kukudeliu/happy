@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 16:07:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 16:08:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [24岁男子修电梯时被夹头身亡](https://www.baidu.com/s?wd=24%E5%B2%81%E7%94%B7%E5%AD%90%E4%BF%AE%E7%94%B5%E6%A2%AF%E6%97%B6%E8%A2%AB%E5%A4%B9%E5%A4%B4%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [人均千元餐厅拒绝12岁以下儿童](https://www.baidu.com/s?wd=%E4%BA%BA%E5%9D%87%E5%8D%83%E5%85%83%E9%A4%90%E5%8E%85%E6%8B%92%E7%BB%9D12%E5%B2%81%E4%BB%A5%E4%B8%8B%E5%84%BF%E7%AB%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [电影《封神》第一部定档](https://www.baidu.com/s?wd=%E7%94%B5%E5%BD%B1%E3%80%8A%E5%B0%81%E7%A5%9E%E3%80%8B%E7%AC%AC%E4%B8%80%E9%83%A8%E5%AE%9A%E6%A1%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [喝酒去世网红家墙壁写着钱比命重要](https://www.baidu.com/s?wd=%E5%96%9D%E9%85%92%E5%8E%BB%E4%B8%96%E7%BD%91%E7%BA%A2%E5%AE%B6%E5%A2%99%E5%A3%81%E5%86%99%E7%9D%80%E9%92%B1%E6%AF%94%E5%91%BD%E9%87%8D%E8%A6%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [22岁女子出门拿快递后失联](https://www.baidu.com/s?wd=22%E5%B2%81%E5%A5%B3%E5%AD%90%E5%87%BA%E9%97%A8%E6%8B%BF%E5%BF%AB%E9%80%92%E5%90%8E%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [电梯突发故障丈夫下意识护妻儿](https://www.baidu.com/s?wd=%E7%94%B5%E6%A2%AF%E7%AA%81%E5%8F%91%E6%95%85%E9%9A%9C%E4%B8%88%E5%A4%AB%E4%B8%8B%E6%84%8F%E8%AF%86%E6%8A%A4%E5%A6%BB%E5%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [喝酒去世网红家墙壁写着钱比命重要](https://www.baidu.com/s?wd=%E5%96%9D%E9%85%92%E5%8E%BB%E4%B8%96%E7%BD%91%E7%BA%A2%E5%AE%B6%E5%A2%99%E5%A3%81%E5%86%99%E7%9D%80%E9%92%B1%E6%AF%94%E5%91%BD%E9%87%8D%E8%A6%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [24岁男子修电梯时被夹头身亡](https://www.baidu.com/s?wd=24%E5%B2%81%E7%94%B7%E5%AD%90%E4%BF%AE%E7%94%B5%E6%A2%AF%E6%97%B6%E8%A2%AB%E5%A4%B9%E5%A4%B4%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [人均千元餐厅拒绝12岁以下儿童](https://www.baidu.com/s?wd=%E4%BA%BA%E5%9D%87%E5%8D%83%E5%85%83%E9%A4%90%E5%8E%85%E6%8B%92%E7%BB%9D12%E5%B2%81%E4%BB%A5%E4%B8%8B%E5%84%BF%E7%AB%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [电影《封神》第一部定档](https://www.baidu.com/s?wd=%E7%94%B5%E5%BD%B1%E3%80%8A%E5%B0%81%E7%A5%9E%E3%80%8B%E7%AC%AC%E4%B8%80%E9%83%A8%E5%AE%9A%E6%A1%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [喝酒去世网红家墙壁写着钱比命重要](https://www.baidu.com/s?wd=%E5%96%9D%E9%85%92%E5%8E%BB%E4%B8%96%E7%BD%91%E7%BA%A2%E5%AE%B6%E5%A2%99%E5%A3%81%E5%86%99%E7%9D%80%E9%92%B1%E6%AF%94%E5%91%BD%E9%87%8D%E8%A6%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [22岁女子出门拿快递后失联](https://www.baidu.com/s?wd=22%E5%B2%81%E5%A5%B3%E5%AD%90%E5%87%BA%E9%97%A8%E6%8B%BF%E5%BF%AB%E9%80%92%E5%90%8E%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [电梯突发故障丈夫下意识护妻儿](https://www.baidu.com/s?wd=%E7%94%B5%E6%A2%AF%E7%AA%81%E5%8F%91%E6%95%85%E9%9A%9C%E4%B8%88%E5%A4%AB%E4%B8%8B%E6%84%8F%E8%AF%86%E6%8A%A4%E5%A6%BB%E5%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [喝酒去世网红家墙壁写着钱比命重要](https://www.baidu.com/s?wd=%E5%96%9D%E9%85%92%E5%8E%BB%E4%B8%96%E7%BD%91%E7%BA%A2%E5%AE%B6%E5%A2%99%E5%A3%81%E5%86%99%E7%9D%80%E9%92%B1%E6%AF%94%E5%91%BD%E9%87%8D%E8%A6%81&sa=fyb_news&rsv_dl=fyb_news)<br />
