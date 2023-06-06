@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 16:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 16:06:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [芒种至农事忙](https://s.weibo.com/weibo?q=%23%E8%8A%92%E7%A7%8D%E8%87%B3%E5%86%9C%E4%BA%8B%E5%BF%99%23&t=31&band_rank=3&Refer=top)<br />
 4. [鲍蕾晒花絮力证没给贝儿P腿](https://s.weibo.com/weibo?q=%23%E9%B2%8D%E8%95%BE%E6%99%92%E8%8A%B1%E7%B5%AE%E5%8A%9B%E8%AF%81%E6%B2%A1%E7%BB%99%E8%B4%9D%E5%84%BFP%E8%85%BF%23&t=31&band_rank=4&Refer=top)<br />
 5. [26岁网红直播喝酒后去世](https://s.weibo.com/weibo?q=%2326%E5%B2%81%E7%BD%91%E7%BA%A2%E7%9B%B4%E6%92%AD%E5%96%9D%E9%85%92%E5%90%8E%E5%8E%BB%E4%B8%96%23&t=31&band_rank=5&Refer=top)<br />
-6. [胡锡进发博评鼠头鸭脖事件](https://s.weibo.com/weibo?q=%E8%83%A1%E9%94%A1%E8%BF%9B%E5%8F%91%E5%8D%9A%E8%AF%84%E9%BC%A0%E5%A4%B4%E9%B8%AD%E8%84%96%E4%BA%8B%E4%BB%B6&t=31&band_rank=6&Refer=top)<br />
-7. [B太 我可能又被众筹了](https://s.weibo.com/weibo?q=B%E5%A4%AA%20%E6%88%91%E5%8F%AF%E8%83%BD%E5%8F%88%E8%A2%AB%E4%BC%97%E7%AD%B9%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
+6. [B太 我可能又被众筹了](https://s.weibo.com/weibo?q=B%E5%A4%AA%20%E6%88%91%E5%8F%AF%E8%83%BD%E5%8F%88%E8%A2%AB%E4%BC%97%E7%AD%B9%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
+7. [胡锡进发博评鼠头鸭脖事件](https://s.weibo.com/weibo?q=%E8%83%A1%E9%94%A1%E8%BF%9B%E5%8F%91%E5%8D%9A%E8%AF%84%E9%BC%A0%E5%A4%B4%E9%B8%AD%E8%84%96%E4%BA%8B%E4%BB%B6&t=31&band_rank=7&Refer=top)<br />
 8. [中国电商让韩国海关爆仓](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%95%86%E8%AE%A9%E9%9F%A9%E5%9B%BD%E6%B5%B7%E5%85%B3%E7%88%86%E4%BB%93%23&t=31&band_rank=8&Refer=top)<br />
 9. [丫丫](https://s.weibo.com/weibo?q=%E4%B8%AB%E4%B8%AB&t=31&band_rank=9&Refer=top)<br />
 
