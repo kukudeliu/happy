@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 17:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 17:39:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [男子驾车连撞9人逃跑 目前已落网](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%A9%BE%E8%BD%A6%E8%BF%9E%E6%92%9E9%E4%BA%BA%E9%80%83%E8%B7%91+%E7%9B%AE%E5%89%8D%E5%B7%B2%E8%90%BD%E7%BD%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [5亿身家高中生坠亡 尸检报告公布](https://www.baidu.com/s?wd=5%E4%BA%BF%E8%BA%AB%E5%AE%B6%E9%AB%98%E4%B8%AD%E7%94%9F%E5%9D%A0%E4%BA%A1+%E5%B0%B8%E6%A3%80%E6%8A%A5%E5%91%8A%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [宝妈因孩子吃了同学生日蛋糕发飙](https://www.baidu.com/s?wd=%E5%AE%9D%E5%A6%88%E5%9B%A0%E5%AD%A9%E5%AD%90%E5%90%83%E4%BA%86%E5%90%8C%E5%AD%A6%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95%E5%8F%91%E9%A3%99&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [包丽母亲：不用道歉只要牟某翰坐牢](https://www.baidu.com/s?wd=%E5%8C%85%E4%B8%BD%E6%AF%8D%E4%BA%B2%EF%BC%9A%E4%B8%8D%E7%94%A8%E9%81%93%E6%AD%89%E5%8F%AA%E8%A6%81%E7%89%9F%E6%9F%90%E7%BF%B0%E5%9D%90%E7%89%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子为上清华迎第15次高考](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%BA%E4%B8%8A%E6%B8%85%E5%8D%8E%E8%BF%8E%E7%AC%AC15%E6%AC%A1%E9%AB%98%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女儿发长文让爸爸的朋友别劝酒](https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF%E5%8F%91%E9%95%BF%E6%96%87%E8%AE%A9%E7%88%B8%E7%88%B8%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%88%AB%E5%8A%9D%E9%85%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [包丽母亲：不用道歉只要牟某翰坐牢](https://www.baidu.com/s?wd=%E5%8C%85%E4%B8%BD%E6%AF%8D%E4%BA%B2%EF%BC%9A%E4%B8%8D%E7%94%A8%E9%81%93%E6%AD%89%E5%8F%AA%E8%A6%81%E7%89%9F%E6%9F%90%E7%BF%B0%E5%9D%90%E7%89%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [男子驾车连撞9人逃跑 目前已落网](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%A9%BE%E8%BD%A6%E8%BF%9E%E6%92%9E9%E4%BA%BA%E9%80%83%E8%B7%91+%E7%9B%AE%E5%89%8D%E5%B7%B2%E8%90%BD%E7%BD%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [5亿身家高中生坠亡 尸检报告公布](https://www.baidu.com/s?wd=5%E4%BA%BF%E8%BA%AB%E5%AE%B6%E9%AB%98%E4%B8%AD%E7%94%9F%E5%9D%A0%E4%BA%A1+%E5%B0%B8%E6%A3%80%E6%8A%A5%E5%91%8A%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [宝妈因孩子吃了同学生日蛋糕发飙](https://www.baidu.com/s?wd=%E5%AE%9D%E5%A6%88%E5%9B%A0%E5%AD%A9%E5%AD%90%E5%90%83%E4%BA%86%E5%90%8C%E5%AD%A6%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95%E5%8F%91%E9%A3%99&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [包丽母亲：不用道歉只要牟某翰坐牢](https://www.baidu.com/s?wd=%E5%8C%85%E4%B8%BD%E6%AF%8D%E4%BA%B2%EF%BC%9A%E4%B8%8D%E7%94%A8%E9%81%93%E6%AD%89%E5%8F%AA%E8%A6%81%E7%89%9F%E6%9F%90%E7%BF%B0%E5%9D%90%E7%89%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子为上清华迎第15次高考](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%BA%E4%B8%8A%E6%B8%85%E5%8D%8E%E8%BF%8E%E7%AC%AC15%E6%AC%A1%E9%AB%98%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女儿发长文让爸爸的朋友别劝酒](https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF%E5%8F%91%E9%95%BF%E6%96%87%E8%AE%A9%E7%88%B8%E7%88%B8%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%88%AB%E5%8A%9D%E9%85%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [包丽母亲：不用道歉只要牟某翰坐牢](https://www.baidu.com/s?wd=%E5%8C%85%E4%B8%BD%E6%AF%8D%E4%BA%B2%EF%BC%9A%E4%B8%8D%E7%94%A8%E9%81%93%E6%AD%89%E5%8F%AA%E8%A6%81%E7%89%9F%E6%9F%90%E7%BF%B0%E5%9D%90%E7%89%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
