@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 16:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 16:49:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [男子驾车连撞9人逃跑 目前已落网](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%A9%BE%E8%BD%A6%E8%BF%9E%E6%92%9E9%E4%BA%BA%E9%80%83%E8%B7%91+%E7%9B%AE%E5%89%8D%E5%B7%B2%E8%90%BD%E7%BD%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [宝妈因孩子吃了同学生日蛋糕发飙](https://www.baidu.com/s?wd=%E5%AE%9D%E5%A6%88%E5%9B%A0%E5%AD%A9%E5%AD%90%E5%90%83%E4%BA%86%E5%90%8C%E5%AD%A6%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95%E5%8F%91%E9%A3%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [24岁男子修电梯时被夹头身亡](https://www.baidu.com/s?wd=24%E5%B2%81%E7%94%B7%E5%AD%90%E4%BF%AE%E7%94%B5%E6%A2%AF%E6%97%B6%E8%A2%AB%E5%A4%B9%E5%A4%B4%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [美制裁中国实体和个人 商务部回应](https://www.baidu.com/s?wd=%E7%BE%8E%E5%88%B6%E8%A3%81%E4%B8%AD%E5%9B%BD%E5%AE%9E%E4%BD%93%E5%92%8C%E4%B8%AA%E4%BA%BA+%E5%95%86%E5%8A%A1%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [人均千元餐厅拒绝12岁以下儿童](https://www.baidu.com/s?wd=%E4%BA%BA%E5%9D%87%E5%8D%83%E5%85%83%E9%A4%90%E5%8E%85%E6%8B%92%E7%BB%9D12%E5%B2%81%E4%BB%A5%E4%B8%8B%E5%84%BF%E7%AB%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [人均千元餐厅拒绝12岁以下儿童](https://www.baidu.com/s?wd=%E4%BA%BA%E5%9D%87%E5%8D%83%E5%85%83%E9%A4%90%E5%8E%85%E6%8B%92%E7%BB%9D12%E5%B2%81%E4%BB%A5%E4%B8%8B%E5%84%BF%E7%AB%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [商家被大学生“占便宜”到崩溃](https://www.baidu.com/s?wd=%E5%95%86%E5%AE%B6%E8%A2%AB%E5%A4%A7%E5%AD%A6%E7%94%9F%E2%80%9C%E5%8D%A0%E4%BE%BF%E5%AE%9C%E2%80%9D%E5%88%B0%E5%B4%A9%E6%BA%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [男子驾车连撞9人逃跑 目前已落网](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%A9%BE%E8%BD%A6%E8%BF%9E%E6%92%9E9%E4%BA%BA%E9%80%83%E8%B7%91+%E7%9B%AE%E5%89%8D%E5%B7%B2%E8%90%BD%E7%BD%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [宝妈因孩子吃了同学生日蛋糕发飙](https://www.baidu.com/s?wd=%E5%AE%9D%E5%A6%88%E5%9B%A0%E5%AD%A9%E5%AD%90%E5%90%83%E4%BA%86%E5%90%8C%E5%AD%A6%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95%E5%8F%91%E9%A3%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [24岁男子修电梯时被夹头身亡](https://www.baidu.com/s?wd=24%E5%B2%81%E7%94%B7%E5%AD%90%E4%BF%AE%E7%94%B5%E6%A2%AF%E6%97%B6%E8%A2%AB%E5%A4%B9%E5%A4%B4%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [美制裁中国实体和个人 商务部回应](https://www.baidu.com/s?wd=%E7%BE%8E%E5%88%B6%E8%A3%81%E4%B8%AD%E5%9B%BD%E5%AE%9E%E4%BD%93%E5%92%8C%E4%B8%AA%E4%BA%BA+%E5%95%86%E5%8A%A1%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [人均千元餐厅拒绝12岁以下儿童](https://www.baidu.com/s?wd=%E4%BA%BA%E5%9D%87%E5%8D%83%E5%85%83%E9%A4%90%E5%8E%85%E6%8B%92%E7%BB%9D12%E5%B2%81%E4%BB%A5%E4%B8%8B%E5%84%BF%E7%AB%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [人均千元餐厅拒绝12岁以下儿童](https://www.baidu.com/s?wd=%E4%BA%BA%E5%9D%87%E5%8D%83%E5%85%83%E9%A4%90%E5%8E%85%E6%8B%92%E7%BB%9D12%E5%B2%81%E4%BB%A5%E4%B8%8B%E5%84%BF%E7%AB%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [商家被大学生“占便宜”到崩溃](https://www.baidu.com/s?wd=%E5%95%86%E5%AE%B6%E8%A2%AB%E5%A4%A7%E5%AD%A6%E7%94%9F%E2%80%9C%E5%8D%A0%E4%BE%BF%E5%AE%9C%E2%80%9D%E5%88%B0%E5%B4%A9%E6%BA%83&sa=fyb_news&rsv_dl=fyb_news)<br />
