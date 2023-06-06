@@ -1,14 +1,14 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 17:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 17:38:01</h4></div>
 
 > 微博  
 
 1. [绝味鸭脖股价下跌](https://s.weibo.com/weibo?q=%23%E7%BB%9D%E5%91%B3%E9%B8%AD%E8%84%96%E8%82%A1%E4%BB%B7%E4%B8%8B%E8%B7%8C%23&t=31&band_rank=1&Refer=top)<br />
-2. [中餐厅7嘉宾](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E9%A4%90%E5%8E%857%E5%98%89%E5%AE%BE%23&t=31&band_rank=2&Refer=top)<br />
+2. [蔡徐坤 回归跑男](https://s.weibo.com/weibo?q=%E8%94%A1%E5%BE%90%E5%9D%A4%20%E5%9B%9E%E5%BD%92%E8%B7%91%E7%94%B7&t=31&band_rank=2&Refer=top)<br />
 3. [祝考生们大胜归来](https://s.weibo.com/weibo?q=%23%E7%A5%9D%E8%80%83%E7%94%9F%E4%BB%AC%E5%A4%A7%E8%83%9C%E5%BD%92%E6%9D%A5%23&t=31&band_rank=3&Refer=top)<br />
 4. [车银优肿么了](https://s.weibo.com/weibo?q=%23%E8%BD%A6%E9%93%B6%E4%BC%98%E8%82%BF%E4%B9%88%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [鲍蕾晒花絮力证没给贝儿P腿](https://s.weibo.com/weibo?q=%23%E9%B2%8D%E8%95%BE%E6%99%92%E8%8A%B1%E7%B5%AE%E5%8A%9B%E8%AF%81%E6%B2%A1%E7%BB%99%E8%B4%9D%E5%84%BFP%E8%85%BF%23&t=31&band_rank=5&Refer=top)<br />
 6. [四大顶级舞担](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%A4%A7%E9%A1%B6%E7%BA%A7%E8%88%9E%E6%8B%85%23&t=31&band_rank=6&Refer=top)<br />
-7. [蔡徐坤 回归跑男](https://s.weibo.com/weibo?q=%E8%94%A1%E5%BE%90%E5%9D%A4%20%E5%9B%9E%E5%BD%92%E8%B7%91%E7%94%B7&t=31&band_rank=7&Refer=top)<br />
+7. [中餐厅7嘉宾](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E9%A4%90%E5%8E%857%E5%98%89%E5%AE%BE%23&t=31&band_rank=7&Refer=top)<br />
 8. [地铁站里妈妈含泪掌掴小孩称太委屈](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%93%81%E7%AB%99%E9%87%8C%E5%A6%88%E5%A6%88%E5%90%AB%E6%B3%AA%E6%8E%8C%E6%8E%B4%E5%B0%8F%E5%AD%A9%E7%A7%B0%E5%A4%AA%E5%A7%94%E5%B1%88%23&t=31&band_rank=8&Refer=top)<br />
 9. [B太 我可能又被众筹了](https://s.weibo.com/weibo?q=B%E5%A4%AA%20%E6%88%91%E5%8F%AF%E8%83%BD%E5%8F%88%E8%A2%AB%E4%BC%97%E7%AD%B9%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
