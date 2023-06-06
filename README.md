@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 13:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 13:06:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [芒种至农事忙](https://s.weibo.com/weibo?q=%23%E8%8A%92%E7%A7%8D%E8%87%B3%E5%86%9C%E4%BA%8B%E5%BF%99%23&t=31&band_rank=3&Refer=top)<br />
 4. [26岁网红直播喝酒后去世](https://s.weibo.com/weibo?q=%2326%E5%B2%81%E7%BD%91%E7%BA%A2%E7%9B%B4%E6%92%AD%E5%96%9D%E9%85%92%E5%90%8E%E5%8E%BB%E4%B8%96%23&t=31&band_rank=4&Refer=top)<br />
 5. [谢娜四公 没拉票](https://s.weibo.com/weibo?q=%E8%B0%A2%E5%A8%9C%E5%9B%9B%E5%85%AC%20%E6%B2%A1%E6%8B%89%E7%A5%A8&t=31&band_rank=5&Refer=top)<br />
-6. [向佐郭碧婷牵手逛街](https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%E9%83%AD%E7%A2%A7%E5%A9%B7%E7%89%B5%E6%89%8B%E9%80%9B%E8%A1%97%23&t=31&band_rank=6&Refer=top)<br />
-7. [陈采尼回应抄袭争议](https://s.weibo.com/weibo?q=%23%E9%99%88%E9%87%87%E5%B0%BC%E5%9B%9E%E5%BA%94%E6%8A%84%E8%A2%AD%E4%BA%89%E8%AE%AE%23&t=31&band_rank=7&Refer=top)<br />
+6. [陈采尼回应抄袭争议](https://s.weibo.com/weibo?q=%23%E9%99%88%E9%87%87%E5%B0%BC%E5%9B%9E%E5%BA%94%E6%8A%84%E8%A2%AD%E4%BA%89%E8%AE%AE%23&t=31&band_rank=6&Refer=top)<br />
+7. [向佐郭碧婷牵手逛街](https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%E9%83%AD%E7%A2%A7%E5%A9%B7%E7%89%B5%E6%89%8B%E9%80%9B%E8%A1%97%23&t=31&band_rank=7&Refer=top)<br />
 8. [秋瓷炫四公 淘汰](https://s.weibo.com/weibo?q=%E7%A7%8B%E7%93%B7%E7%82%AB%E5%9B%9B%E5%85%AC%20%E6%B7%98%E6%B1%B0&t=31&band_rank=8&Refer=top)<br />
 9. [黄奕发博支持49岁高考妈妈](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%A5%95%E5%8F%91%E5%8D%9A%E6%94%AF%E6%8C%8149%E5%B2%81%E9%AB%98%E8%80%83%E5%A6%88%E5%A6%88%23&t=31&band_rank=9&Refer=top)<br />
 
