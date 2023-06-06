@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 08:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 08:31:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [苹果发布会](https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=5&Refer=top)<br />
 6. [Apple Vision Pro 苹果首款头显](https://s.weibo.com/weibo?q=Apple%20Vision%20Pro%20%E8%8B%B9%E6%9E%9C%E9%A6%96%E6%AC%BE%E5%A4%B4%E6%98%BE&t=31&band_rank=6&Refer=top)<br />
 7. [吴倩镜头少原因](https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%80%A9%E9%95%9C%E5%A4%B4%E5%B0%91%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=7&Refer=top)<br />
-8. [27岁游戏主播抗癌半年后去世](https://s.weibo.com/weibo?q=%2327%E5%B2%81%E6%B8%B8%E6%88%8F%E4%B8%BB%E6%92%AD%E6%8A%97%E7%99%8C%E5%8D%8A%E5%B9%B4%E5%90%8E%E5%8E%BB%E4%B8%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [明天高考](https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%A4%A9%E9%AB%98%E8%80%83%23&t=31&band_rank=9&Refer=top)<br />
+8. [明天高考](https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%A4%A9%E9%AB%98%E8%80%83%23&t=31&band_rank=8&Refer=top)<br />
+9. [27岁游戏主播抗癌半年后去世](https://s.weibo.com/weibo?q=%2327%E5%B2%81%E6%B8%B8%E6%88%8F%E4%B8%BB%E6%92%AD%E6%8A%97%E7%99%8C%E5%8D%8A%E5%B9%B4%E5%90%8E%E5%8E%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [你们博士毕业的时候，最初的学术梦想还在吗？](https://www.zhihu.com/question/437154680)<br />
 7. [矩阵中，为什么 AB＝AC 时，当 A 可逆时，B＝C？](https://www.zhihu.com/question/594440726)<br />
 8. [高考考不上本科，是复读还是上大专?](https://www.zhihu.com/question/604518335)<br />
-9. [LPL 的中国选手为什么不用中文 ID？](https://www.zhihu.com/question/594864998)<br />
+9. []()<br />
 
 > 百度  
 
