@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 17:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 17:56:01</h4></div>
 
 > 微博  
 
 1. [绝味鸭脖股价下跌](https://s.weibo.com/weibo?q=%23%E7%BB%9D%E5%91%B3%E9%B8%AD%E8%84%96%E8%82%A1%E4%BB%B7%E4%B8%8B%E8%B7%8C%23&t=31&band_rank=1&Refer=top)<br />
-2. [蔡徐坤 回归跑男](https://s.weibo.com/weibo?q=%E8%94%A1%E5%BE%90%E5%9D%A4%20%E5%9B%9E%E5%BD%92%E8%B7%91%E7%94%B7&t=31&band_rank=2&Refer=top)<br />
+2. [弟弟一眼认出流浪乞讨人员是亲哥](https://s.weibo.com/weibo?q=%23%E5%BC%9F%E5%BC%9F%E4%B8%80%E7%9C%BC%E8%AE%A4%E5%87%BA%E6%B5%81%E6%B5%AA%E4%B9%9E%E8%AE%A8%E4%BA%BA%E5%91%98%E6%98%AF%E4%BA%B2%E5%93%A5%23&t=31&band_rank=2&Refer=top)<br />
 3. [祝考生们大胜归来](https://s.weibo.com/weibo?q=%23%E7%A5%9D%E8%80%83%E7%94%9F%E4%BB%AC%E5%A4%A7%E8%83%9C%E5%BD%92%E6%9D%A5%23&t=31&band_rank=3&Refer=top)<br />
 4. [车银优肿么了](https://s.weibo.com/weibo?q=%23%E8%BD%A6%E9%93%B6%E4%BC%98%E8%82%BF%E4%B9%88%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [原来丫丫有一张微笑脸](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%B8%AB%E4%B8%AB%E6%9C%89%E4%B8%80%E5%BC%A0%E5%BE%AE%E7%AC%91%E8%84%B8%23&t=31&band_rank=5&Refer=top)<br />
-6. [弟弟一眼认出流浪乞讨人员是亲哥](https://s.weibo.com/weibo?q=%23%E5%BC%9F%E5%BC%9F%E4%B8%80%E7%9C%BC%E8%AE%A4%E5%87%BA%E6%B5%81%E6%B5%AA%E4%B9%9E%E8%AE%A8%E4%BA%BA%E5%91%98%E6%98%AF%E4%BA%B2%E5%93%A5%23&t=31&band_rank=6&Refer=top)<br />
+6. [蔡徐坤 回归跑男](https://s.weibo.com/weibo?q=%E8%94%A1%E5%BE%90%E5%9D%A4%20%E5%9B%9E%E5%BD%92%E8%B7%91%E7%94%B7&t=31&band_rank=6&Refer=top)<br />
 7. [鲍蕾晒花絮力证没给贝儿P腿](https://s.weibo.com/weibo?q=%23%E9%B2%8D%E8%95%BE%E6%99%92%E8%8A%B1%E7%B5%AE%E5%8A%9B%E8%AF%81%E6%B2%A1%E7%BB%99%E8%B4%9D%E5%84%BFP%E8%85%BF%23&t=31&band_rank=7&Refer=top)<br />
 8. [四大顶级舞担](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%A4%A7%E9%A1%B6%E7%BA%A7%E8%88%9E%E6%8B%85%23&t=31&band_rank=8&Refer=top)<br />
-9. [地铁站里妈妈含泪掌掴小孩称太委屈](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%93%81%E7%AB%99%E9%87%8C%E5%A6%88%E5%A6%88%E5%90%AB%E6%B3%AA%E6%8E%8C%E6%8E%B4%E5%B0%8F%E5%AD%A9%E7%A7%B0%E5%A4%AA%E5%A7%94%E5%B1%88%23&t=31&band_rank=9&Refer=top)<br />
+9. [中餐厅7嘉宾](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E9%A4%90%E5%8E%857%E5%98%89%E5%AE%BE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -34,7 +34,7 @@
 6. [5亿身家高中生坠亡 尸检报告公布](https://www.baidu.com/s?wd=5%E4%BA%BF%E8%BA%AB%E5%AE%B6%E9%AB%98%E4%B8%AD%E7%94%9F%E5%9D%A0%E4%BA%A1+%E5%B0%B8%E6%A3%80%E6%8A%A5%E5%91%8A%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [宝妈因孩子吃了同学生日蛋糕发飙](https://www.baidu.com/s?wd=%E5%AE%9D%E5%A6%88%E5%9B%A0%E5%AD%A9%E5%AD%90%E5%90%83%E4%BA%86%E5%90%8C%E5%AD%A6%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95%E5%8F%91%E9%A3%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [动物园一黑熊骨瘦如柴？园方回应](https://www.baidu.com/s?wd=%E5%8A%A8%E7%89%A9%E5%9B%AD%E4%B8%80%E9%BB%91%E7%86%8A%E9%AA%A8%E7%98%A6%E5%A6%82%E6%9F%B4%EF%BC%9F%E5%9B%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [包丽母亲：不用道歉只要牟某翰坐牢](https://www.baidu.com/s?wd=%E5%8C%85%E4%B8%BD%E6%AF%8D%E4%BA%B2%EF%BC%9A%E4%B8%8D%E7%94%A8%E9%81%93%E6%AD%89%E5%8F%AA%E8%A6%81%E7%89%9F%E6%9F%90%E7%BF%B0%E5%9D%90%E7%89%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [专家谈鸭脖争议：大概率是老鼠头](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E8%B0%88%E9%B8%AD%E8%84%96%E4%BA%89%E8%AE%AE%EF%BC%9A%E5%A4%A7%E6%A6%82%E7%8E%87%E6%98%AF%E8%80%81%E9%BC%A0%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [5亿身家高中生坠亡 尸检报告公布](https://www.baidu.com/s?wd=5%E4%BA%BF%E8%BA%AB%E5%AE%B6%E9%AB%98%E4%B8%AD%E7%94%9F%E5%9D%A0%E4%BA%A1+%E5%B0%B8%E6%A3%80%E6%8A%A5%E5%91%8A%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [宝妈因孩子吃了同学生日蛋糕发飙](https://www.baidu.com/s?wd=%E5%AE%9D%E5%A6%88%E5%9B%A0%E5%AD%A9%E5%AD%90%E5%90%83%E4%BA%86%E5%90%8C%E5%AD%A6%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95%E5%8F%91%E9%A3%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [动物园一黑熊骨瘦如柴？园方回应](https://www.baidu.com/s?wd=%E5%8A%A8%E7%89%A9%E5%9B%AD%E4%B8%80%E9%BB%91%E7%86%8A%E9%AA%A8%E7%98%A6%E5%A6%82%E6%9F%B4%EF%BC%9F%E5%9B%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [包丽母亲：不用道歉只要牟某翰坐牢](https://www.baidu.com/s?wd=%E5%8C%85%E4%B8%BD%E6%AF%8D%E4%BA%B2%EF%BC%9A%E4%B8%8D%E7%94%A8%E9%81%93%E6%AD%89%E5%8F%AA%E8%A6%81%E7%89%9F%E6%9F%90%E7%BF%B0%E5%9D%90%E7%89%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [专家谈鸭脖争议：大概率是老鼠头](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E8%B0%88%E9%B8%AD%E8%84%96%E4%BA%89%E8%AE%AE%EF%BC%9A%E5%A4%A7%E6%A6%82%E7%8E%87%E6%98%AF%E8%80%81%E9%BC%A0%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
