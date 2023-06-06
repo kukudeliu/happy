@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 16:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 16:32:01</h4></div>
 
 > 微博  
 
@@ -33,7 +33,7 @@
 5. [24岁男子修电梯时被夹头身亡](https://www.baidu.com/s?wd=24%E5%B2%81%E7%94%B7%E5%AD%90%E4%BF%AE%E7%94%B5%E6%A2%AF%E6%97%B6%E8%A2%AB%E5%A4%B9%E5%A4%B4%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [宝妈因孩子吃了同学生日蛋糕发飙](https://www.baidu.com/s?wd=%E5%AE%9D%E5%A6%88%E5%9B%A0%E5%AD%A9%E5%AD%90%E5%90%83%E4%BA%86%E5%90%8C%E5%AD%A6%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95%E5%8F%91%E9%A3%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [人均千元餐厅拒绝12岁以下儿童](https://www.baidu.com/s?wd=%E4%BA%BA%E5%9D%87%E5%8D%83%E5%85%83%E9%A4%90%E5%8E%85%E6%8B%92%E7%BB%9D12%E5%B2%81%E4%BB%A5%E4%B8%8B%E5%84%BF%E7%AB%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [牛肉干店把牛犊拴门口吆喝现点现做](https://www.baidu.com/s?wd=%E7%89%9B%E8%82%89%E5%B9%B2%E5%BA%97%E6%8A%8A%E7%89%9B%E7%8A%8A%E6%8B%B4%E9%97%A8%E5%8F%A3%E5%90%86%E5%96%9D%E7%8E%B0%E7%82%B9%E7%8E%B0%E5%81%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [广东一公司进口日本核辐射食品被罚](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E5%85%AC%E5%8F%B8%E8%BF%9B%E5%8F%A3%E6%97%A5%E6%9C%AC%E6%A0%B8%E8%BE%90%E5%B0%84%E9%A3%9F%E5%93%81%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [电影《封神》第一部定档](https://www.baidu.com/s?wd=%E7%94%B5%E5%BD%B1%E3%80%8A%E5%B0%81%E7%A5%9E%E3%80%8B%E7%AC%AC%E4%B8%80%E9%83%A8%E5%AE%9A%E6%A1%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [24岁男子修电梯时被夹头身亡](https://www.baidu.com/s?wd=24%E5%B2%81%E7%94%B7%E5%AD%90%E4%BF%AE%E7%94%B5%E6%A2%AF%E6%97%B6%E8%A2%AB%E5%A4%B9%E5%A4%B4%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [宝妈因孩子吃了同学生日蛋糕发飙](https://www.baidu.com/s?wd=%E5%AE%9D%E5%A6%88%E5%9B%A0%E5%AD%A9%E5%AD%90%E5%90%83%E4%BA%86%E5%90%8C%E5%AD%A6%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95%E5%8F%91%E9%A3%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [人均千元餐厅拒绝12岁以下儿童](https://www.baidu.com/s?wd=%E4%BA%BA%E5%9D%87%E5%8D%83%E5%85%83%E9%A4%90%E5%8E%85%E6%8B%92%E7%BB%9D12%E5%B2%81%E4%BB%A5%E4%B8%8B%E5%84%BF%E7%AB%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [牛肉干店把牛犊拴门口吆喝现点现做](https://www.baidu.com/s?wd=%E7%89%9B%E8%82%89%E5%B9%B2%E5%BA%97%E6%8A%8A%E7%89%9B%E7%8A%8A%E6%8B%B4%E9%97%A8%E5%8F%A3%E5%90%86%E5%96%9D%E7%8E%B0%E7%82%B9%E7%8E%B0%E5%81%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [广东一公司进口日本核辐射食品被罚](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E5%85%AC%E5%8F%B8%E8%BF%9B%E5%8F%A3%E6%97%A5%E6%9C%AC%E6%A0%B8%E8%BE%90%E5%B0%84%E9%A3%9F%E5%93%81%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [电影《封神》第一部定档](https://www.baidu.com/s?wd=%E7%94%B5%E5%BD%B1%E3%80%8A%E5%B0%81%E7%A5%9E%E3%80%8B%E7%AC%AC%E4%B8%80%E9%83%A8%E5%AE%9A%E6%A1%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
