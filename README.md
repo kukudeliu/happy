@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 18:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 18:30:01</h4></div>
 
 > 微博  
 
@@ -27,23 +27,23 @@
 > 百度  
 
 1. [加油，向未来冲刺！](https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%B9%EF%BC%8C%E5%90%91%E6%9C%AA%E6%9D%A5%E5%86%B2%E5%88%BA%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [美称中方变得咄咄逼人 外交部驳斥](https://www.baidu.com/s?wd=%E7%BE%8E%E7%A7%B0%E4%B8%AD%E6%96%B9%E5%8F%98%E5%BE%97%E5%92%84%E5%92%84%E9%80%BC%E4%BA%BA+%E5%A4%96%E4%BA%A4%E9%83%A8%E9%A9%B3%E6%96%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [专家谈鸭脖争议：大概率是老鼠头](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E8%B0%88%E9%B8%AD%E8%84%96%E4%BA%89%E8%AE%AE%EF%BC%9A%E5%A4%A7%E6%A6%82%E7%8E%87%E6%98%AF%E8%80%81%E9%BC%A0%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [电梯突发故障丈夫下意识护妻儿](https://www.baidu.com/s?wd=%E7%94%B5%E6%A2%AF%E7%AA%81%E5%8F%91%E6%95%85%E9%9A%9C%E4%B8%88%E5%A4%AB%E4%B8%8B%E6%84%8F%E8%AF%86%E6%8A%A4%E5%A6%BB%E5%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [神十五乘组返回纪实](https://www.baidu.com/s?wd=%E7%A5%9E%E5%8D%81%E4%BA%94%E4%B9%98%E7%BB%84%E8%BF%94%E5%9B%9E%E7%BA%AA%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [男子驾车连撞9人逃跑 目前已落网](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%A9%BE%E8%BD%A6%E8%BF%9E%E6%92%9E9%E4%BA%BA%E9%80%83%E8%B7%91+%E7%9B%AE%E5%89%8D%E5%B7%B2%E8%90%BD%E7%BD%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [专家谈鸭脖争议：大概率是老鼠头](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E8%B0%88%E9%B8%AD%E8%84%96%E4%BA%89%E8%AE%AE%EF%BC%9A%E5%A4%A7%E6%A6%82%E7%8E%87%E6%98%AF%E8%80%81%E9%BC%A0%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [5亿身家高中生坠亡 尸检报告公布](https://www.baidu.com/s?wd=5%E4%BA%BF%E8%BA%AB%E5%AE%B6%E9%AB%98%E4%B8%AD%E7%94%9F%E5%9D%A0%E4%BA%A1+%E5%B0%B8%E6%A3%80%E6%8A%A5%E5%91%8A%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [鼠头受害股出现 绝味鸭脖股价下跌](https://www.baidu.com/s?wd=%E9%BC%A0%E5%A4%B4%E5%8F%97%E5%AE%B3%E8%82%A1%E5%87%BA%E7%8E%B0+%E7%BB%9D%E5%91%B3%E9%B8%AD%E8%84%96%E8%82%A1%E4%BB%B7%E4%B8%8B%E8%B7%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [造谣女孩穿婚纱看演唱会的网友道歉](https://www.baidu.com/s?wd=%E9%80%A0%E8%B0%A3%E5%A5%B3%E5%AD%A9%E7%A9%BF%E5%A9%9A%E7%BA%B1%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E7%9A%84%E7%BD%91%E5%8F%8B%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [高三生考前在教室门口排队顶粽子](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%89%E7%94%9F%E8%80%83%E5%89%8D%E5%9C%A8%E6%95%99%E5%AE%A4%E9%97%A8%E5%8F%A3%E6%8E%92%E9%98%9F%E9%A1%B6%E7%B2%BD%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [5亿身家高中生坠亡 尸检报告公布](https://www.baidu.com/s?wd=5%E4%BA%BF%E8%BA%AB%E5%AE%B6%E9%AB%98%E4%B8%AD%E7%94%9F%E5%9D%A0%E4%BA%A1+%E5%B0%B8%E6%A3%80%E6%8A%A5%E5%91%8A%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [鼠头受害股出现 绝味鸭脖股价下跌](https://www.baidu.com/s?wd=%E9%BC%A0%E5%A4%B4%E5%8F%97%E5%AE%B3%E8%82%A1%E5%87%BA%E7%8E%B0+%E7%BB%9D%E5%91%B3%E9%B8%AD%E8%84%96%E8%82%A1%E4%BB%B7%E4%B8%8B%E8%B7%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [苹果市值蒸发6000亿](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%916000%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [妈妈含泪掌掴小孩称太委屈](https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E5%90%AB%E6%B3%AA%E6%8E%8C%E6%8E%B4%E5%B0%8F%E5%AD%A9%E7%A7%B0%E5%A4%AA%E5%A7%94%E5%B1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [加油，向未来冲刺！](https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%B9%EF%BC%8C%E5%90%91%E6%9C%AA%E6%9D%A5%E5%86%B2%E5%88%BA%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [美称中方变得咄咄逼人 外交部驳斥](https://www.baidu.com/s?wd=%E7%BE%8E%E7%A7%B0%E4%B8%AD%E6%96%B9%E5%8F%98%E5%BE%97%E5%92%84%E5%92%84%E9%80%BC%E4%BA%BA+%E5%A4%96%E4%BA%A4%E9%83%A8%E9%A9%B3%E6%96%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [专家谈鸭脖争议：大概率是老鼠头](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E8%B0%88%E9%B8%AD%E8%84%96%E4%BA%89%E8%AE%AE%EF%BC%9A%E5%A4%A7%E6%A6%82%E7%8E%87%E6%98%AF%E8%80%81%E9%BC%A0%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [电梯突发故障丈夫下意识护妻儿](https://www.baidu.com/s?wd=%E7%94%B5%E6%A2%AF%E7%AA%81%E5%8F%91%E6%95%85%E9%9A%9C%E4%B8%88%E5%A4%AB%E4%B8%8B%E6%84%8F%E8%AF%86%E6%8A%A4%E5%A6%BB%E5%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [神十五乘组返回纪实](https://www.baidu.com/s?wd=%E7%A5%9E%E5%8D%81%E4%BA%94%E4%B9%98%E7%BB%84%E8%BF%94%E5%9B%9E%E7%BA%AA%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [男子驾车连撞9人逃跑 目前已落网](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%A9%BE%E8%BD%A6%E8%BF%9E%E6%92%9E9%E4%BA%BA%E9%80%83%E8%B7%91+%E7%9B%AE%E5%89%8D%E5%B7%B2%E8%90%BD%E7%BD%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [专家谈鸭脖争议：大概率是老鼠头](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E8%B0%88%E9%B8%AD%E8%84%96%E4%BA%89%E8%AE%AE%EF%BC%9A%E5%A4%A7%E6%A6%82%E7%8E%87%E6%98%AF%E8%80%81%E9%BC%A0%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [5亿身家高中生坠亡 尸检报告公布](https://www.baidu.com/s?wd=5%E4%BA%BF%E8%BA%AB%E5%AE%B6%E9%AB%98%E4%B8%AD%E7%94%9F%E5%9D%A0%E4%BA%A1+%E5%B0%B8%E6%A3%80%E6%8A%A5%E5%91%8A%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [鼠头受害股出现 绝味鸭脖股价下跌](https://www.baidu.com/s?wd=%E9%BC%A0%E5%A4%B4%E5%8F%97%E5%AE%B3%E8%82%A1%E5%87%BA%E7%8E%B0+%E7%BB%9D%E5%91%B3%E9%B8%AD%E8%84%96%E8%82%A1%E4%BB%B7%E4%B8%8B%E8%B7%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [造谣女孩穿婚纱看演唱会的网友道歉](https://www.baidu.com/s?wd=%E9%80%A0%E8%B0%A3%E5%A5%B3%E5%AD%A9%E7%A9%BF%E5%A9%9A%E7%BA%B1%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E7%9A%84%E7%BD%91%E5%8F%8B%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [高三生考前在教室门口排队顶粽子](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%89%E7%94%9F%E8%80%83%E5%89%8D%E5%9C%A8%E6%95%99%E5%AE%A4%E9%97%A8%E5%8F%A3%E6%8E%92%E9%98%9F%E9%A1%B6%E7%B2%BD%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [5亿身家高中生坠亡 尸检报告公布](https://www.baidu.com/s?wd=5%E4%BA%BF%E8%BA%AB%E5%AE%B6%E9%AB%98%E4%B8%AD%E7%94%9F%E5%9D%A0%E4%BA%A1+%E5%B0%B8%E6%A3%80%E6%8A%A5%E5%91%8A%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [鼠头受害股出现 绝味鸭脖股价下跌](https://www.baidu.com/s?wd=%E9%BC%A0%E5%A4%B4%E5%8F%97%E5%AE%B3%E8%82%A1%E5%87%BA%E7%8E%B0+%E7%BB%9D%E5%91%B3%E9%B8%AD%E8%84%96%E8%82%A1%E4%BB%B7%E4%B8%8B%E8%B7%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [苹果市值蒸发6000亿](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%916000%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [妈妈含泪掌掴小孩称太委屈](https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E5%90%AB%E6%B3%AA%E6%8E%8C%E6%8E%B4%E5%B0%8F%E5%AD%A9%E7%A7%B0%E5%A4%AA%E5%A7%94%E5%B1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
