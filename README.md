@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 09:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 09:41:01</h4></div>
 
 > 微博  
 
@@ -18,10 +18,10 @@
 2. [如何看待珠峰攀登者为救遇险女子放弃登顶，被救女子只愿承担 4 成救援费？](https://www.zhihu.com/question/604842993)<br />
 3. [财政部表示，中央对地方转移支付预算正按规定抓紧下达，整体来看我国财政状况健康、安全，哪些信息值得关注？](https://www.zhihu.com/question/604877884)<br />
 4. []()<br />
-5. []()<br />
-6. [施耐庵是确有其人，还是某古代文学大咖的马甲？](https://www.zhihu.com/question/533898457)<br />
-7. [如何评价苹果于 2023 年 6 月 6 日发布的 15 寸 Macbook Air?](https://www.zhihu.com/question/604990393)<br />
-8. [曝 AC 米兰解雇马尔蒂尼，因管理层与资方有重大分歧，如何看待这样的决定？](https://www.zhihu.com/question/605015881)<br />
+5. [施耐庵是确有其人，还是某古代文学大咖的马甲？](https://www.zhihu.com/question/533898457)<br />
+6. [如何评价苹果于 2023 年 6 月 6 日发布的 15 寸 Macbook Air?](https://www.zhihu.com/question/604990393)<br />
+7. [曝 AC 米兰解雇马尔蒂尼，因管理层与资方有重大分歧，如何看待这样的决定？](https://www.zhihu.com/question/605015881)<br />
+8. [你通过打游戏学到的最有用的东西是什么？](https://www.zhihu.com/question/596914550)<br />
 9. [矩阵中，为什么 AB＝AC 时，当 A 可逆时，B＝C？](https://www.zhihu.com/question/594440726)<br />
 
 > 百度  
