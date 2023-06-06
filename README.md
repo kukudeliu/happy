@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 08:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 08:52:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [首艘国产大型邮轮有2500万个零部件](https://s.weibo.com/weibo?q=%23%E9%A6%96%E8%89%98%E5%9B%BD%E4%BA%A7%E5%A4%A7%E5%9E%8B%E9%82%AE%E8%BD%AE%E6%9C%892500%E4%B8%87%E4%B8%AA%E9%9B%B6%E9%83%A8%E4%BB%B6%23&t=31&band_rank=3&Refer=top)<br />
 4. [苹果发布会](https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=4&Refer=top)<br />
 5. [吴倩镜头少原因](https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%80%A9%E9%95%9C%E5%A4%B4%E5%B0%91%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=5&Refer=top)<br />
-6. [长牙的鸭脖令人如鲠在喉](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%89%99%E7%9A%84%E9%B8%AD%E8%84%96%E4%BB%A4%E4%BA%BA%E5%A6%82%E9%B2%A0%E5%9C%A8%E5%96%89%23&t=31&band_rank=6&Refer=top)<br />
-7. [明天高考](https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%A4%A9%E9%AB%98%E8%80%83%23&t=31&band_rank=7&Refer=top)<br />
-8. [3499美元的苹果头显值得买吗](https://s.weibo.com/weibo?q=%233499%E7%BE%8E%E5%85%83%E7%9A%84%E8%8B%B9%E6%9E%9C%E5%A4%B4%E6%98%BE%E5%80%BC%E5%BE%97%E4%B9%B0%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [Apple Vision Pro 苹果首款头显](https://s.weibo.com/weibo?q=Apple%20Vision%20Pro%20%E8%8B%B9%E6%9E%9C%E9%A6%96%E6%AC%BE%E5%A4%B4%E6%98%BE&t=31&band_rank=9&Refer=top)<br />
+6. [不用再说HeySiri了](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E7%94%A8%E5%86%8D%E8%AF%B4HeySiri%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
+7. [长牙的鸭脖令人如鲠在喉](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%89%99%E7%9A%84%E9%B8%AD%E8%84%96%E4%BB%A4%E4%BA%BA%E5%A6%82%E9%B2%A0%E5%9C%A8%E5%96%89%23&t=31&band_rank=7&Refer=top)<br />
+8. [明天高考](https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%A4%A9%E9%AB%98%E8%80%83%23&t=31&band_rank=8&Refer=top)<br />
+9. [3499美元的苹果头显值得买吗](https://s.weibo.com/weibo?q=%233499%E7%BE%8E%E5%85%83%E7%9A%84%E8%8B%B9%E6%9E%9C%E5%A4%B4%E6%98%BE%E5%80%BC%E5%BE%97%E4%B9%B0%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -19,8 +19,8 @@
 3. [财政部表示，中央对地方转移支付预算正按规定抓紧下达，整体来看我国财政状况健康、安全，哪些信息值得关注？](https://www.zhihu.com/question/604877884)<br />
 4. [如何评价苹果于 2023 年 6 月 6 日发布的新款 Mac Pro?](https://www.zhihu.com/question/604990649)<br />
 5. [6 月 5 日在岸、离岸人民币对美元分别跌破 7.12 、 7.13，跌去前一交易日全部涨幅，后势将如何？](https://www.zhihu.com/question/604888554)<br />
-6. [你们博士毕业的时候，最初的学术梦想还在吗？](https://www.zhihu.com/question/437154680)<br />
-7. [iOS 17 发布，有哪些更新点值得关注？](https://www.zhihu.com/question/604990885)<br />
+6. [iOS 17 发布，有哪些更新点值得关注？](https://www.zhihu.com/question/604990885)<br />
+7. [你们博士毕业的时候，最初的学术梦想还在吗？](https://www.zhihu.com/question/437154680)<br />
 8. [矩阵中，为什么 AB＝AC 时，当 A 可逆时，B＝C？](https://www.zhihu.com/question/594440726)<br />
 9. [高考考不上本科，是复读还是上大专?](https://www.zhihu.com/question/604518335)<br />
 
