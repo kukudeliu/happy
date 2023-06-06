@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 13:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 13:43:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [洪都拉斯总统将于 6 月 9 日访华，系中洪建交后首次，具有何意义？](https://www.zhihu.com/question/605017623)<br />
 7. [有哪些流芳一世的经典车型？](https://www.zhihu.com/question/337800865)<br />
 8. [公司聚餐你要点菜时，领导说你不够格，你该怎么回答？](https://www.zhihu.com/question/604650772)<br />
-9. [电影《封神第一部》官宣定档 7 月 20 日，你对该影片有哪些期待？](https://www.zhihu.com/question/604906036)<br />
+9. [《塞尔达传说：王国之泪》主创团队平均年龄 55 岁，他们通过什么机制了解年轻用户需求的？](https://www.zhihu.com/question/604825694)<br />
 
 > 百度  
 
