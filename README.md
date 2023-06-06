@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 19:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 19:40:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [杭州姑娘20元刮刮乐刮中百万](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%A7%91%E5%A8%9820%E5%85%83%E5%88%AE%E5%88%AE%E4%B9%90%E5%88%AE%E4%B8%AD%E7%99%BE%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [电梯突发故障丈夫下意识护妻儿](https://s.weibo.com/weibo?q=%23%E7%94%B5%E6%A2%AF%E7%AA%81%E5%8F%91%E6%95%85%E9%9A%9C%E4%B8%88%E5%A4%AB%E4%B8%8B%E6%84%8F%E8%AF%86%E6%8A%A4%E5%A6%BB%E5%84%BF%23&t=31&band_rank=7&Refer=top)<br />
 8. [四大顶级舞担](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%A4%A7%E9%A1%B6%E7%BA%A7%E8%88%9E%E6%8B%85%23&t=31&band_rank=8&Refer=top)<br />
-9. [地铁站里妈妈含泪掌掴小孩称太委屈](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%93%81%E7%AB%99%E9%87%8C%E5%A6%88%E5%A6%88%E5%90%AB%E6%B3%AA%E6%8E%8C%E6%8E%B4%E5%B0%8F%E5%AD%A9%E7%A7%B0%E5%A4%AA%E5%A7%94%E5%B1%88%23&t=31&band_rank=9&Refer=top)<br />
+9. [广东明确停课不停考](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%98%8E%E7%A1%AE%E5%81%9C%E8%AF%BE%E4%B8%8D%E5%81%9C%E8%80%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
