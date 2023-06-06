@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 11:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 11:26:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [向佐郭碧婷牵手逛街](https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%E9%83%AD%E7%A2%A7%E5%A9%B7%E7%89%B5%E6%89%8B%E9%80%9B%E8%A1%97%23&t=31&band_rank=4&Refer=top)<br />
 5. [空姐未讲日语被日本女子辱骂](https://s.weibo.com/weibo?q=%23%E7%A9%BA%E5%A7%90%E6%9C%AA%E8%AE%B2%E6%97%A5%E8%AF%AD%E8%A2%AB%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%AD%90%E8%BE%B1%E9%AA%82%23&t=31&band_rank=5&Refer=top)<br />
 6. [汤晶媚竟然上过乘风破浪的姐姐第二季](https://s.weibo.com/weibo?q=%23%E6%B1%A4%E6%99%B6%E5%AA%9A%E7%AB%9F%E7%84%B6%E4%B8%8A%E8%BF%87%E4%B9%98%E9%A3%8E%E7%A0%B4%E6%B5%AA%E7%9A%84%E5%A7%90%E5%A7%90%E7%AC%AC%E4%BA%8C%E5%AD%A3%23&t=31&band_rank=6&Refer=top)<br />
-7. [明天高考](https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%A4%A9%E9%AB%98%E8%80%83%23&t=31&band_rank=7&Refer=top)<br />
-8. [专家称要警惕终身不婚不育情况](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E8%A6%81%E8%AD%A6%E6%83%95%E7%BB%88%E8%BA%AB%E4%B8%8D%E5%A9%9A%E4%B8%8D%E8%82%B2%E6%83%85%E5%86%B5%23&t=31&band_rank=8&Refer=top)<br />
-9. [在欧洲千万不要轻易蹲地上](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E6%AC%A7%E6%B4%B2%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E8%BD%BB%E6%98%93%E8%B9%B2%E5%9C%B0%E4%B8%8A%23&t=31&band_rank=9&Refer=top)<br />
+7. [在欧洲千万不要轻易蹲地上](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E6%AC%A7%E6%B4%B2%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E8%BD%BB%E6%98%93%E8%B9%B2%E5%9C%B0%E4%B8%8A%23&t=31&band_rank=7&Refer=top)<br />
+8. [明天高考](https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%A4%A9%E9%AB%98%E8%80%83%23&t=31&band_rank=8&Refer=top)<br />
+9. [专家称要警惕终身不婚不育情况](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E8%A6%81%E8%AD%A6%E6%83%95%E7%BB%88%E8%BA%AB%E4%B8%8D%E5%A9%9A%E4%B8%8D%E8%82%B2%E6%83%85%E5%86%B5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -34,7 +34,7 @@
 6. [AI生成马斯克婴儿照被疯传](https://www.baidu.com/s?wd=AI%E7%94%9F%E6%88%90%E9%A9%AC%E6%96%AF%E5%85%8B%E5%A9%B4%E5%84%BF%E7%85%A7%E8%A2%AB%E7%96%AF%E4%BC%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [老人寻亲被发现是31年前命案逃犯](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E5%AF%BB%E4%BA%B2%E8%A2%AB%E5%8F%91%E7%8E%B0%E6%98%AF31%E5%B9%B4%E5%89%8D%E5%91%BD%E6%A1%88%E9%80%83%E7%8A%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [3个留家孩子见下雨合力抢收麦子](https://www.baidu.com/s?wd=3%E4%B8%AA%E7%95%99%E5%AE%B6%E5%AD%A9%E5%AD%90%E8%A7%81%E4%B8%8B%E9%9B%A8%E5%90%88%E5%8A%9B%E6%8A%A2%E6%94%B6%E9%BA%A6%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [造谣女孩穿婚纱看演唱会的网友道歉](https://www.baidu.com/s?wd=%E9%80%A0%E8%B0%A3%E5%A5%B3%E5%AD%A9%E7%A9%BF%E5%A9%9A%E7%BA%B1%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E7%9A%84%E7%BD%91%E5%8F%8B%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男老师集体为高考生跳女团舞解压](https://www.baidu.com/s?wd=%E7%94%B7%E8%80%81%E5%B8%88%E9%9B%86%E4%BD%93%E4%B8%BA%E9%AB%98%E8%80%83%E7%94%9F%E8%B7%B3%E5%A5%B3%E5%9B%A2%E8%88%9E%E8%A7%A3%E5%8E%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [AI生成马斯克婴儿照被疯传](https://www.baidu.com/s?wd=AI%E7%94%9F%E6%88%90%E9%A9%AC%E6%96%AF%E5%85%8B%E5%A9%B4%E5%84%BF%E7%85%A7%E8%A2%AB%E7%96%AF%E4%BC%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [老人寻亲被发现是31年前命案逃犯](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E5%AF%BB%E4%BA%B2%E8%A2%AB%E5%8F%91%E7%8E%B0%E6%98%AF31%E5%B9%B4%E5%89%8D%E5%91%BD%E6%A1%88%E9%80%83%E7%8A%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [3个留家孩子见下雨合力抢收麦子](https://www.baidu.com/s?wd=3%E4%B8%AA%E7%95%99%E5%AE%B6%E5%AD%A9%E5%AD%90%E8%A7%81%E4%B8%8B%E9%9B%A8%E5%90%88%E5%8A%9B%E6%8A%A2%E6%94%B6%E9%BA%A6%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [造谣女孩穿婚纱看演唱会的网友道歉](https://www.baidu.com/s?wd=%E9%80%A0%E8%B0%A3%E5%A5%B3%E5%AD%A9%E7%A9%BF%E5%A9%9A%E7%BA%B1%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E7%9A%84%E7%BD%91%E5%8F%8B%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男老师集体为高考生跳女团舞解压](https://www.baidu.com/s?wd=%E7%94%B7%E8%80%81%E5%B8%88%E9%9B%86%E4%BD%93%E4%B8%BA%E9%AB%98%E8%80%83%E7%94%9F%E8%B7%B3%E5%A5%B3%E5%9B%A2%E8%88%9E%E8%A7%A3%E5%8E%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
