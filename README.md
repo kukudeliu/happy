@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 17:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 17:13:01</h4></div>
 
 > 微博  
 
-1. [中餐厅7嘉宾](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E9%A4%90%E5%8E%857%E5%98%89%E5%AE%BE%23&t=31&band_rank=1&Refer=top)<br />
-2. [种地吧直播](https://s.weibo.com/weibo?q=%E7%A7%8D%E5%9C%B0%E5%90%A7%E7%9B%B4%E6%92%AD&t=31&band_rank=2&Refer=top)<br />
+1. [种地吧直播](https://s.weibo.com/weibo?q=%E7%A7%8D%E5%9C%B0%E5%90%A7%E7%9B%B4%E6%92%AD&t=31&band_rank=1&Refer=top)<br />
+2. [中餐厅7嘉宾](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E9%A4%90%E5%8E%857%E5%98%89%E5%AE%BE%23&t=31&band_rank=2&Refer=top)<br />
 3. [祝考生们大胜归来](https://s.weibo.com/weibo?q=%23%E7%A5%9D%E8%80%83%E7%94%9F%E4%BB%AC%E5%A4%A7%E8%83%9C%E5%BD%92%E6%9D%A5%23&t=31&band_rank=3&Refer=top)<br />
 4. [车银优肿么了](https://s.weibo.com/weibo?q=%23%E8%BD%A6%E9%93%B6%E4%BC%98%E8%82%BF%E4%B9%88%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [鲍蕾晒花絮力证没给贝儿P腿](https://s.weibo.com/weibo?q=%23%E9%B2%8D%E8%95%BE%E6%99%92%E8%8A%B1%E7%B5%AE%E5%8A%9B%E8%AF%81%E6%B2%A1%E7%BB%99%E8%B4%9D%E5%84%BFP%E8%85%BF%23&t=31&band_rank=5&Refer=top)<br />
