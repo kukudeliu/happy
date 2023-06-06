@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 07:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 07:35:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [中国中等收入群体超4亿人 标准曝光](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%B8%AD%E7%AD%89%E6%94%B6%E5%85%A5%E7%BE%A4%E4%BD%93%E8%B6%854%E4%BA%BF%E4%BA%BA+%E6%A0%87%E5%87%86%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [伴娘堵门要红包被伴郎连人带门踹飞](https://www.baidu.com/s?wd=%E4%BC%B4%E5%A8%98%E5%A0%B5%E9%97%A8%E8%A6%81%E7%BA%A2%E5%8C%85%E8%A2%AB%E4%BC%B4%E9%83%8E%E8%BF%9E%E4%BA%BA%E5%B8%A6%E9%97%A8%E8%B8%B9%E9%A3%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [网红直播喝酒去世：儿子哭着找爸爸](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E7%9B%B4%E6%92%AD%E5%96%9D%E9%85%92%E5%8E%BB%E4%B8%96%EF%BC%9A%E5%84%BF%E5%AD%90%E5%93%AD%E7%9D%80%E6%89%BE%E7%88%B8%E7%88%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [弟弟一眼认出流浪乞讨人员是亲哥](https://www.baidu.com/s?wd=%E5%BC%9F%E5%BC%9F%E4%B8%80%E7%9C%BC%E8%AE%A4%E5%87%BA%E6%B5%81%E6%B5%AA%E4%B9%9E%E8%AE%A8%E4%BA%BA%E5%91%98%E6%98%AF%E4%BA%B2%E5%93%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [2023年第一个弄丢证件的考生出现了](https://www.baidu.com/s?wd=2023%E5%B9%B4%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%BC%84%E4%B8%A2%E8%AF%81%E4%BB%B6%E7%9A%84%E8%80%83%E7%94%9F%E5%87%BA%E7%8E%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [中国中等收入群体超4亿人 标准曝光](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%B8%AD%E7%AD%89%E6%94%B6%E5%85%A5%E7%BE%A4%E4%BD%93%E8%B6%854%E4%BA%BF%E4%BA%BA+%E6%A0%87%E5%87%86%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [伴娘堵门要红包被伴郎连人带门踹飞](https://www.baidu.com/s?wd=%E4%BC%B4%E5%A8%98%E5%A0%B5%E9%97%A8%E8%A6%81%E7%BA%A2%E5%8C%85%E8%A2%AB%E4%BC%B4%E9%83%8E%E8%BF%9E%E4%BA%BA%E5%B8%A6%E9%97%A8%E8%B8%B9%E9%A3%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [网红直播喝酒去世：儿子哭着找爸爸](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E7%9B%B4%E6%92%AD%E5%96%9D%E9%85%92%E5%8E%BB%E4%B8%96%EF%BC%9A%E5%84%BF%E5%AD%90%E5%93%AD%E7%9D%80%E6%89%BE%E7%88%B8%E7%88%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [弟弟一眼认出流浪乞讨人员是亲哥](https://www.baidu.com/s?wd=%E5%BC%9F%E5%BC%9F%E4%B8%80%E7%9C%BC%E8%AE%A4%E5%87%BA%E6%B5%81%E6%B5%AA%E4%B9%9E%E8%AE%A8%E4%BA%BA%E5%91%98%E6%98%AF%E4%BA%B2%E5%93%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [2023年第一个弄丢证件的考生出现了](https://www.baidu.com/s?wd=2023%E5%B9%B4%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%BC%84%E4%B8%A2%E8%AF%81%E4%BB%B6%E7%9A%84%E8%80%83%E7%94%9F%E5%87%BA%E7%8E%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
