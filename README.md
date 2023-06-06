@@ -1,13 +1,13 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 18:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 18:06:01</h4></div>
 
 > 微博  
 
 1. [绝味鸭脖股价下跌](https://s.weibo.com/weibo?q=%23%E7%BB%9D%E5%91%B3%E9%B8%AD%E8%84%96%E8%82%A1%E4%BB%B7%E4%B8%8B%E8%B7%8C%23&t=31&band_rank=1&Refer=top)<br />
 2. [弟弟一眼认出流浪乞讨人员是亲哥](https://s.weibo.com/weibo?q=%23%E5%BC%9F%E5%BC%9F%E4%B8%80%E7%9C%BC%E8%AE%A4%E5%87%BA%E6%B5%81%E6%B5%AA%E4%B9%9E%E8%AE%A8%E4%BA%BA%E5%91%98%E6%98%AF%E4%BA%B2%E5%93%A5%23&t=31&band_rank=2&Refer=top)<br />
 3. [祝考生们大胜归来](https://s.weibo.com/weibo?q=%23%E7%A5%9D%E8%80%83%E7%94%9F%E4%BB%AC%E5%A4%A7%E8%83%9C%E5%BD%92%E6%9D%A5%23&t=31&band_rank=3&Refer=top)<br />
-4. [车银优肿么了](https://s.weibo.com/weibo?q=%23%E8%BD%A6%E9%93%B6%E4%BC%98%E8%82%BF%E4%B9%88%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
+4. [宋轶现身医院抽血采样](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%BD%B6%E7%8E%B0%E8%BA%AB%E5%8C%BB%E9%99%A2%E6%8A%BD%E8%A1%80%E9%87%87%E6%A0%B7%23&t=31&band_rank=4&Refer=top)<br />
 5. [原来丫丫有一张微笑脸](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%B8%AB%E4%B8%AB%E6%9C%89%E4%B8%80%E5%BC%A0%E5%BE%AE%E7%AC%91%E8%84%B8%23&t=31&band_rank=5&Refer=top)<br />
-6. [宋轶现身医院抽血采样](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%BD%B6%E7%8E%B0%E8%BA%AB%E5%8C%BB%E9%99%A2%E6%8A%BD%E8%A1%80%E9%87%87%E6%A0%B7%23&t=31&band_rank=6&Refer=top)<br />
+6. [车银优肿么了](https://s.weibo.com/weibo?q=%23%E8%BD%A6%E9%93%B6%E4%BC%98%E8%82%BF%E4%B9%88%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [电梯突发故障丈夫下意识护妻儿](https://s.weibo.com/weibo?q=%23%E7%94%B5%E6%A2%AF%E7%AA%81%E5%8F%91%E6%95%85%E9%9A%9C%E4%B8%88%E5%A4%AB%E4%B8%8B%E6%84%8F%E8%AF%86%E6%8A%A4%E5%A6%BB%E5%84%BF%23&t=31&band_rank=7&Refer=top)<br />
 8. [蔡徐坤 回归跑男](https://s.weibo.com/weibo?q=%E8%94%A1%E5%BE%90%E5%9D%A4%20%E5%9B%9E%E5%BD%92%E8%B7%91%E7%94%B7&t=31&band_rank=8&Refer=top)<br />
 9. [四大顶级舞担](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%A4%A7%E9%A1%B6%E7%BA%A7%E8%88%9E%E6%8B%85%23&t=31&band_rank=9&Refer=top)<br />
@@ -33,8 +33,8 @@
 5. [男子驾车连撞9人逃跑 目前已落网](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%A9%BE%E8%BD%A6%E8%BF%9E%E6%92%9E9%E4%BA%BA%E9%80%83%E8%B7%91+%E7%9B%AE%E5%89%8D%E5%B7%B2%E8%90%BD%E7%BD%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [5亿身家高中生坠亡 尸检报告公布](https://www.baidu.com/s?wd=5%E4%BA%BF%E8%BA%AB%E5%AE%B6%E9%AB%98%E4%B8%AD%E7%94%9F%E5%9D%A0%E4%BA%A1+%E5%B0%B8%E6%A3%80%E6%8A%A5%E5%91%8A%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [宝妈因孩子吃了同学生日蛋糕发飙](https://www.baidu.com/s?wd=%E5%AE%9D%E5%A6%88%E5%9B%A0%E5%AD%A9%E5%AD%90%E5%90%83%E4%BA%86%E5%90%8C%E5%AD%A6%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95%E5%8F%91%E9%A3%99&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [鼠头受害股出现 绝味鸭脖股价下跌](https://www.baidu.com/s?wd=%E9%BC%A0%E5%A4%B4%E5%8F%97%E5%AE%B3%E8%82%A1%E5%87%BA%E7%8E%B0+%E7%BB%9D%E5%91%B3%E9%B8%AD%E8%84%96%E8%82%A1%E4%BB%B7%E4%B8%8B%E8%B7%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [专家谈鸭脖争议：大概率是老鼠头](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E8%B0%88%E9%B8%AD%E8%84%96%E4%BA%89%E8%AE%AE%EF%BC%9A%E5%A4%A7%E6%A6%82%E7%8E%87%E6%98%AF%E8%80%81%E9%BC%A0%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [专家谈鸭脖争议：大概率是老鼠头](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E8%B0%88%E9%B8%AD%E8%84%96%E4%BA%89%E8%AE%AE%EF%BC%9A%E5%A4%A7%E6%A6%82%E7%8E%87%E6%98%AF%E8%80%81%E9%BC%A0%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [鼠头受害股出现 绝味鸭脖股价下跌](https://www.baidu.com/s?wd=%E9%BC%A0%E5%A4%B4%E5%8F%97%E5%AE%B3%E8%82%A1%E5%87%BA%E7%8E%B0+%E7%BB%9D%E5%91%B3%E9%B8%AD%E8%84%96%E8%82%A1%E4%BB%B7%E4%B8%8B%E8%B7%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [男子驾车连撞9人逃跑 目前已落网](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%A9%BE%E8%BD%A6%E8%BF%9E%E6%92%9E9%E4%BA%BA%E9%80%83%E8%B7%91+%E7%9B%AE%E5%89%8D%E5%B7%B2%E8%90%BD%E7%BD%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [5亿身家高中生坠亡 尸检报告公布](https://www.baidu.com/s?wd=5%E4%BA%BF%E8%BA%AB%E5%AE%B6%E9%AB%98%E4%B8%AD%E7%94%9F%E5%9D%A0%E4%BA%A1+%E5%B0%B8%E6%A3%80%E6%8A%A5%E5%91%8A%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [宝妈因孩子吃了同学生日蛋糕发飙](https://www.baidu.com/s?wd=%E5%AE%9D%E5%A6%88%E5%9B%A0%E5%AD%A9%E5%AD%90%E5%90%83%E4%BA%86%E5%90%8C%E5%AD%A6%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95%E5%8F%91%E9%A3%99&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [鼠头受害股出现 绝味鸭脖股价下跌](https://www.baidu.com/s?wd=%E9%BC%A0%E5%A4%B4%E5%8F%97%E5%AE%B3%E8%82%A1%E5%87%BA%E7%8E%B0+%E7%BB%9D%E5%91%B3%E9%B8%AD%E8%84%96%E8%82%A1%E4%BB%B7%E4%B8%8B%E8%B7%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [专家谈鸭脖争议：大概率是老鼠头](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E8%B0%88%E9%B8%AD%E8%84%96%E4%BA%89%E8%AE%AE%EF%BC%9A%E5%A4%A7%E6%A6%82%E7%8E%87%E6%98%AF%E8%80%81%E9%BC%A0%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [专家谈鸭脖争议：大概率是老鼠头](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E8%B0%88%E9%B8%AD%E8%84%96%E4%BA%89%E8%AE%AE%EF%BC%9A%E5%A4%A7%E6%A6%82%E7%8E%87%E6%98%AF%E8%80%81%E9%BC%A0%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [鼠头受害股出现 绝味鸭脖股价下跌](https://www.baidu.com/s?wd=%E9%BC%A0%E5%A4%B4%E5%8F%97%E5%AE%B3%E8%82%A1%E5%87%BA%E7%8E%B0+%E7%BB%9D%E5%91%B3%E9%B8%AD%E8%84%96%E8%82%A1%E4%BB%B7%E4%B8%8B%E8%B7%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
