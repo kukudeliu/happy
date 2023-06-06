@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 20:53:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 20:54:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [2023年第一个弄丢证件的考生出现了](https://www.baidu.com/s?wd=2023%E5%B9%B4%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%BC%84%E4%B8%A2%E8%AF%81%E4%BB%B6%E7%9A%84%E8%80%83%E7%94%9F%E5%87%BA%E7%8E%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [广东明确停课不停考](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E6%98%8E%E7%A1%AE%E5%81%9C%E8%AF%BE%E4%B8%8D%E5%81%9C%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [辅警以把你拍好看为由智擒逃犯](https://www.baidu.com/s?wd=%E8%BE%85%E8%AD%A6%E4%BB%A5%E6%8A%8A%E4%BD%A0%E6%8B%8D%E5%A5%BD%E7%9C%8B%E4%B8%BA%E7%94%B1%E6%99%BA%E6%93%92%E9%80%83%E7%8A%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [宝妈因孩子吃了同学生日蛋糕发飙](https://www.baidu.com/s?wd=%E5%AE%9D%E5%A6%88%E5%9B%A0%E5%AD%A9%E5%AD%90%E5%90%83%E4%BA%86%E5%90%8C%E5%AD%A6%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95%E5%8F%91%E9%A3%99&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [迷信985211房号 家长别给商家递刀子](https://www.baidu.com/s?wd=%E8%BF%B7%E4%BF%A1985211%E6%88%BF%E5%8F%B7+%E5%AE%B6%E9%95%BF%E5%88%AB%E7%BB%99%E5%95%86%E5%AE%B6%E9%80%92%E5%88%80%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [2023年第一个弄丢证件的考生出现了](https://www.baidu.com/s?wd=2023%E5%B9%B4%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%BC%84%E4%B8%A2%E8%AF%81%E4%BB%B6%E7%9A%84%E8%80%83%E7%94%9F%E5%87%BA%E7%8E%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [广东明确停课不停考](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E6%98%8E%E7%A1%AE%E5%81%9C%E8%AF%BE%E4%B8%8D%E5%81%9C%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [辅警以把你拍好看为由智擒逃犯](https://www.baidu.com/s?wd=%E8%BE%85%E8%AD%A6%E4%BB%A5%E6%8A%8A%E4%BD%A0%E6%8B%8D%E5%A5%BD%E7%9C%8B%E4%B8%BA%E7%94%B1%E6%99%BA%E6%93%92%E9%80%83%E7%8A%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [宝妈因孩子吃了同学生日蛋糕发飙](https://www.baidu.com/s?wd=%E5%AE%9D%E5%A6%88%E5%9B%A0%E5%AD%A9%E5%AD%90%E5%90%83%E4%BA%86%E5%90%8C%E5%AD%A6%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95%E5%8F%91%E9%A3%99&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [迷信985211房号 家长别给商家递刀子](https://www.baidu.com/s?wd=%E8%BF%B7%E4%BF%A1985211%E6%88%BF%E5%8F%B7+%E5%AE%B6%E9%95%BF%E5%88%AB%E7%BB%99%E5%95%86%E5%AE%B6%E9%80%92%E5%88%80%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
