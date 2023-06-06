@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 21:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 21:41:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [一起为2023高考生加油](https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%B5%B7%E4%B8%BA2023%E9%AB%98%E8%80%83%E7%94%9F%E5%8A%A0%E6%B2%B9%23&t=31&band_rank=3&Refer=top)<br />
 4. [北京发现两例猴痘病例](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%8F%91%E7%8E%B0%E4%B8%A4%E4%BE%8B%E7%8C%B4%E7%97%98%E7%97%85%E4%BE%8B%23&t=31&band_rank=4&Refer=top)<br />
 5. [林徽因名字 文化版的招娣](https://s.weibo.com/weibo?q=%E6%9E%97%E5%BE%BD%E5%9B%A0%E5%90%8D%E5%AD%97%20%E6%96%87%E5%8C%96%E7%89%88%E7%9A%84%E6%8B%9B%E5%A8%A3&t=31&band_rank=5&Refer=top)<br />
-6. [广东明确停课不停考](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%98%8E%E7%A1%AE%E5%81%9C%E8%AF%BE%E4%B8%8D%E5%81%9C%E8%80%83%23&t=31&band_rank=6&Refer=top)<br />
-7. [杭州姑娘20元刮刮乐刮中百万](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%A7%91%E5%A8%9820%E5%85%83%E5%88%AE%E5%88%AE%E4%B9%90%E5%88%AE%E4%B8%AD%E7%99%BE%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
+6. [杭州姑娘20元刮刮乐刮中百万](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%A7%91%E5%A8%9820%E5%85%83%E5%88%AE%E5%88%AE%E4%B9%90%E5%88%AE%E4%B8%AD%E7%99%BE%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
+7. [广东明确停课不停考](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%98%8E%E7%A1%AE%E5%81%9C%E8%AF%BE%E4%B8%8D%E5%81%9C%E8%80%83%23&t=31&band_rank=7&Refer=top)<br />
 8. [鹭卓好稳](https://s.weibo.com/weibo?q=%E9%B9%AD%E5%8D%93%E5%A5%BD%E7%A8%B3&t=31&band_rank=8&Refer=top)<br />
 9. [吴磊虞书欣 骄阳似我](https://s.weibo.com/weibo?q=%E5%90%B4%E7%A3%8A%E8%99%9E%E4%B9%A6%E6%AC%A3%20%E9%AA%84%E9%98%B3%E4%BC%BC%E6%88%91&t=31&band_rank=9&Refer=top)<br />
 
