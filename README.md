@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 13:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 13:50:01</h4></div>
 
 > 微博  
 
@@ -14,15 +14,15 @@
 
 > 知乎  
 
-1. [美前情报官员称「俄新型雷达卫星将改变俄乌冲突进程，乌将打不动这场仗」，如何评价俄新发射的雷达卫星？](https://www.zhihu.com/question/604952577)<br />
-2. [想象两个超能力，一个是看起来很强其实很废，一个是看起来很废其实很强，你的想法是什么？](https://www.zhihu.com/question/603689171)<br />
-3. [为什么蜘蛛侠从一开始的从身体射蛛丝变成了合成蛛丝？](https://www.zhihu.com/question/372266242)<br />
-4. [洪都拉斯总统将于 6 月 9 日访华，系中洪建交后首次，具有何意义？](https://www.zhihu.com/question/605017623)<br />
+1. [如何看待珠峰攀登者为救遇险女子放弃登顶，被救女子只愿承担 4 成救援费？](https://www.zhihu.com/question/604842993)<br />
+2. [美前情报官员称「俄新型雷达卫星将改变俄乌冲突进程，乌将打不动这场仗」，如何评价俄新发射的雷达卫星？](https://www.zhihu.com/question/604952577)<br />
+3. [想象两个超能力，一个是看起来很强其实很废，一个是看起来很废其实很强，你的想法是什么？](https://www.zhihu.com/question/603689171)<br />
+4. [为什么蜘蛛侠从一开始的从身体射蛛丝变成了合成蛛丝？](https://www.zhihu.com/question/372266242)<br />
 5. [如果男朋友是个在学校风评很低的人， 身边人都让我和他保持距离怎么办？](https://www.zhihu.com/question/604255099)<br />
-6. [有哪些流芳一世的经典车型？](https://www.zhihu.com/question/337800865)<br />
-7. [A 股房企退市第一股诞生，*ST 蓝光摘牌退市，如何看待出现房企退市现象？对房地产板块有何影响？](https://www.zhihu.com/question/605031357)<br />
+6. [洪都拉斯总统将于 6 月 9 日访华，系中洪建交后首次，具有何意义？](https://www.zhihu.com/question/605017623)<br />
+7. [有哪些流芳一世的经典车型？](https://www.zhihu.com/question/337800865)<br />
 8. [公司聚餐你要点菜时，领导说你不够格，你该怎么回答？](https://www.zhihu.com/question/604650772)<br />
-9. [66 全国爱眼日，你平时有好好对待自己的眼睛吗?](https://www.zhihu.com/question/604896485)<br />
+9. [A 股房企退市第一股诞生，*ST 蓝光摘牌退市，如何看待出现房企退市现象？对房地产板块有何影响？](https://www.zhihu.com/question/605031357)<br />
 
 > 百度  
 
