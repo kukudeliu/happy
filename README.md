@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 17:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 17:34:01</h4></div>
 
 > 微博  
 
@@ -33,7 +33,7 @@
 5. [男子驾车连撞9人逃跑 目前已落网](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%A9%BE%E8%BD%A6%E8%BF%9E%E6%92%9E9%E4%BA%BA%E9%80%83%E8%B7%91+%E7%9B%AE%E5%89%8D%E5%B7%B2%E8%90%BD%E7%BD%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [宝妈因孩子吃了同学生日蛋糕发飙](https://www.baidu.com/s?wd=%E5%AE%9D%E5%A6%88%E5%9B%A0%E5%AD%A9%E5%AD%90%E5%90%83%E4%BA%86%E5%90%8C%E5%AD%A6%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95%E5%8F%91%E9%A3%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [5亿身家高中生坠亡 尸检报告公布](https://www.baidu.com/s?wd=5%E4%BA%BF%E8%BA%AB%E5%AE%B6%E9%AB%98%E4%B8%AD%E7%94%9F%E5%9D%A0%E4%BA%A1+%E5%B0%B8%E6%A3%80%E6%8A%A5%E5%91%8A%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [24岁男子修电梯时被夹头身亡](https://www.baidu.com/s?wd=24%E5%B2%81%E7%94%B7%E5%AD%90%E4%BF%AE%E7%94%B5%E6%A2%AF%E6%97%B6%E8%A2%AB%E5%A4%B9%E5%A4%B4%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子为上清华迎第15次高考](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%BA%E4%B8%8A%E6%B8%85%E5%8D%8E%E8%BF%8E%E7%AC%AC15%E6%AC%A1%E9%AB%98%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [李荣浩说明天都给我好好考](https://www.baidu.com/s?wd=%E6%9D%8E%E8%8D%A3%E6%B5%A9%E8%AF%B4%E6%98%8E%E5%A4%A9%E9%83%BD%E7%BB%99%E6%88%91%E5%A5%BD%E5%A5%BD%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [男子驾车连撞9人逃跑 目前已落网](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%A9%BE%E8%BD%A6%E8%BF%9E%E6%92%9E9%E4%BA%BA%E9%80%83%E8%B7%91+%E7%9B%AE%E5%89%8D%E5%B7%B2%E8%90%BD%E7%BD%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [宝妈因孩子吃了同学生日蛋糕发飙](https://www.baidu.com/s?wd=%E5%AE%9D%E5%A6%88%E5%9B%A0%E5%AD%A9%E5%AD%90%E5%90%83%E4%BA%86%E5%90%8C%E5%AD%A6%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95%E5%8F%91%E9%A3%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [5亿身家高中生坠亡 尸检报告公布](https://www.baidu.com/s?wd=5%E4%BA%BF%E8%BA%AB%E5%AE%B6%E9%AB%98%E4%B8%AD%E7%94%9F%E5%9D%A0%E4%BA%A1+%E5%B0%B8%E6%A3%80%E6%8A%A5%E5%91%8A%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [24岁男子修电梯时被夹头身亡](https://www.baidu.com/s?wd=24%E5%B2%81%E7%94%B7%E5%AD%90%E4%BF%AE%E7%94%B5%E6%A2%AF%E6%97%B6%E8%A2%AB%E5%A4%B9%E5%A4%B4%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子为上清华迎第15次高考](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%BA%E4%B8%8A%E6%B8%85%E5%8D%8E%E8%BF%8E%E7%AC%AC15%E6%AC%A1%E9%AB%98%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [李荣浩说明天都给我好好考](https://www.baidu.com/s?wd=%E6%9D%8E%E8%8D%A3%E6%B5%A9%E8%AF%B4%E6%98%8E%E5%A4%A9%E9%83%BD%E7%BB%99%E6%88%91%E5%A5%BD%E5%A5%BD%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
