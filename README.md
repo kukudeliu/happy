@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 09:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 09:25:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [iOS 17 发布，有哪些更新点值得关注？](https://www.zhihu.com/question/604990885)<br />
 6. [矩阵中，为什么 AB＝AC 时，当 A 可逆时，B＝C？](https://www.zhihu.com/question/594440726)<br />
 7. [施耐庵是确有其人，还是某古代文学大咖的马甲？](https://www.zhihu.com/question/533898457)<br />
-8. [高考考不上本科，是复读还是上大专?](https://www.zhihu.com/question/604518335)<br />
-9. []()<br />
+8. []()<br />
+9. [高考考不上本科，是复读还是上大专?](https://www.zhihu.com/question/604518335)<br />
 
 > 百度  
 
