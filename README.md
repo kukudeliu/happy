@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 12:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 12:38:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [专家称要警惕终身不婚不育情况](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E8%A6%81%E8%AD%A6%E6%83%95%E7%BB%88%E8%BA%AB%E4%B8%8D%E5%A9%9A%E4%B8%8D%E8%82%B2%E6%83%85%E5%86%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [AI生成马斯克婴儿照被疯传](https://www.baidu.com/s?wd=AI%E7%94%9F%E6%88%90%E9%A9%AC%E6%96%AF%E5%85%8B%E5%A9%B4%E5%84%BF%E7%85%A7%E8%A2%AB%E7%96%AF%E4%BC%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [淄博夜空500架无人机助力高考](https://www.baidu.com/s?wd=%E6%B7%84%E5%8D%9A%E5%A4%9C%E7%A9%BA500%E6%9E%B6%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%8A%A9%E5%8A%9B%E9%AB%98%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [广西烧烤竹签长1米8](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E7%83%A7%E7%83%A4%E7%AB%B9%E7%AD%BE%E9%95%BF1%E7%B1%B38&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [3个留家孩子见下雨合力抢收麦子](https://www.baidu.com/s?wd=3%E4%B8%AA%E7%95%99%E5%AE%B6%E5%AD%A9%E5%AD%90%E8%A7%81%E4%B8%8B%E9%9B%A8%E5%90%88%E5%8A%9B%E6%8A%A2%E6%94%B6%E9%BA%A6%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [专家称要警惕终身不婚不育情况](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E8%A6%81%E8%AD%A6%E6%83%95%E7%BB%88%E8%BA%AB%E4%B8%8D%E5%A9%9A%E4%B8%8D%E8%82%B2%E6%83%85%E5%86%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [AI生成马斯克婴儿照被疯传](https://www.baidu.com/s?wd=AI%E7%94%9F%E6%88%90%E9%A9%AC%E6%96%AF%E5%85%8B%E5%A9%B4%E5%84%BF%E7%85%A7%E8%A2%AB%E7%96%AF%E4%BC%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [淄博夜空500架无人机助力高考](https://www.baidu.com/s?wd=%E6%B7%84%E5%8D%9A%E5%A4%9C%E7%A9%BA500%E6%9E%B6%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%8A%A9%E5%8A%9B%E9%AB%98%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [广西烧烤竹签长1米8](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E7%83%A7%E7%83%A4%E7%AB%B9%E7%AD%BE%E9%95%BF1%E7%B1%B38&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [3个留家孩子见下雨合力抢收麦子](https://www.baidu.com/s?wd=3%E4%B8%AA%E7%95%99%E5%AE%B6%E5%AD%A9%E5%AD%90%E8%A7%81%E4%B8%8B%E9%9B%A8%E5%90%88%E5%8A%9B%E6%8A%A2%E6%94%B6%E9%BA%A6%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
