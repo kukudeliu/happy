@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 22:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 22:08:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [专家谈鸭脖争议：大概率是老鼠头](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E8%B0%88%E9%B8%AD%E8%84%96%E4%BA%89%E8%AE%AE%EF%BC%9A%E5%A4%A7%E6%A6%82%E7%8E%87%E6%98%AF%E8%80%81%E9%BC%A0%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [2023年第一个弄丢证件的考生出现了](https://www.baidu.com/s?wd=2023%E5%B9%B4%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%BC%84%E4%B8%A2%E8%AF%81%E4%BB%B6%E7%9A%84%E8%80%83%E7%94%9F%E5%87%BA%E7%8E%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [浙江一渔船发生火灾4人死亡](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E6%B8%94%E8%88%B9%E5%8F%91%E7%94%9F%E7%81%AB%E7%81%BE4%E4%BA%BA%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [网红直播喝酒去世：儿子哭着找爸爸](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E7%9B%B4%E6%92%AD%E5%96%9D%E9%85%92%E5%8E%BB%E4%B8%96%EF%BC%9A%E5%84%BF%E5%AD%90%E5%93%AD%E7%9D%80%E6%89%BE%E7%88%B8%E7%88%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [学生：鼠头鸭脖涉事窗口仍营业](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%EF%BC%9A%E9%BC%A0%E5%A4%B4%E9%B8%AD%E8%84%96%E6%B6%89%E4%BA%8B%E7%AA%97%E5%8F%A3%E4%BB%8D%E8%90%A5%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [宝妈因孩子吃了同学生日蛋糕发飙](https://www.baidu.com/s?wd=%E5%AE%9D%E5%A6%88%E5%9B%A0%E5%AD%A9%E5%AD%90%E5%90%83%E4%BA%86%E5%90%8C%E5%AD%A6%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95%E5%8F%91%E9%A3%99&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [网红直播喝酒去世：儿子哭着找爸爸](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E7%9B%B4%E6%92%AD%E5%96%9D%E9%85%92%E5%8E%BB%E4%B8%96%EF%BC%9A%E5%84%BF%E5%AD%90%E5%93%AD%E7%9D%80%E6%89%BE%E7%88%B8%E7%88%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [专家谈鸭脖争议：大概率是老鼠头](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E8%B0%88%E9%B8%AD%E8%84%96%E4%BA%89%E8%AE%AE%EF%BC%9A%E5%A4%A7%E6%A6%82%E7%8E%87%E6%98%AF%E8%80%81%E9%BC%A0%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [2023年第一个弄丢证件的考生出现了](https://www.baidu.com/s?wd=2023%E5%B9%B4%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%BC%84%E4%B8%A2%E8%AF%81%E4%BB%B6%E7%9A%84%E8%80%83%E7%94%9F%E5%87%BA%E7%8E%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [浙江一渔船发生火灾4人死亡](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E6%B8%94%E8%88%B9%E5%8F%91%E7%94%9F%E7%81%AB%E7%81%BE4%E4%BA%BA%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [网红直播喝酒去世：儿子哭着找爸爸](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E7%9B%B4%E6%92%AD%E5%96%9D%E9%85%92%E5%8E%BB%E4%B8%96%EF%BC%9A%E5%84%BF%E5%AD%90%E5%93%AD%E7%9D%80%E6%89%BE%E7%88%B8%E7%88%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [学生：鼠头鸭脖涉事窗口仍营业](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%EF%BC%9A%E9%BC%A0%E5%A4%B4%E9%B8%AD%E8%84%96%E6%B6%89%E4%BA%8B%E7%AA%97%E5%8F%A3%E4%BB%8D%E8%90%A5%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [宝妈因孩子吃了同学生日蛋糕发飙](https://www.baidu.com/s?wd=%E5%AE%9D%E5%A6%88%E5%9B%A0%E5%AD%A9%E5%AD%90%E5%90%83%E4%BA%86%E5%90%8C%E5%AD%A6%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95%E5%8F%91%E9%A3%99&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [网红直播喝酒去世：儿子哭着找爸爸](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E7%9B%B4%E6%92%AD%E5%96%9D%E9%85%92%E5%8E%BB%E4%B8%96%EF%BC%9A%E5%84%BF%E5%AD%90%E5%93%AD%E7%9D%80%E6%89%BE%E7%88%B8%E7%88%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
