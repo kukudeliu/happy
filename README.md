@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 09:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 09:52:01</h4></div>
 
 > 微博  
 
@@ -9,16 +9,16 @@
 5. [空姐未讲日语被日本女子辱骂](https://s.weibo.com/weibo?q=%23%E7%A9%BA%E5%A7%90%E6%9C%AA%E8%AE%B2%E6%97%A5%E8%AF%AD%E8%A2%AB%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%AD%90%E8%BE%B1%E9%AA%82%23&t=31&band_rank=5&Refer=top)<br />
 6. [明天高考](https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%A4%A9%E9%AB%98%E8%80%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [吴倩 退赛](https://s.weibo.com/weibo?q=%E5%90%B4%E5%80%A9%20%E9%80%80%E8%B5%9B&t=31&band_rank=7&Refer=top)<br />
-8. [不用再说HeySiri了](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E7%94%A8%E5%86%8D%E8%AF%B4HeySiri%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [在欧洲千万不要轻易蹲地上](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E6%AC%A7%E6%B4%B2%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E8%BD%BB%E6%98%93%E8%B9%B2%E5%9C%B0%E4%B8%8A%23&t=31&band_rank=9&Refer=top)<br />
+8. [业主购42套房全部打通墙体](https://s.weibo.com/weibo?q=%23%E4%B8%9A%E4%B8%BB%E8%B4%AD42%E5%A5%97%E6%88%BF%E5%85%A8%E9%83%A8%E6%89%93%E9%80%9A%E5%A2%99%E4%BD%93%23&t=31&band_rank=8&Refer=top)<br />
+9. [不用再说HeySiri了](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E7%94%A8%E5%86%8D%E8%AF%B4HeySiri%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [如何看待珠峰攀登者为救遇险女子放弃登顶，被救女子只愿承担 4 成救援费？](https://www.zhihu.com/question/604842993)<br />
 2. [财政部表示，中央对地方转移支付预算正按规定抓紧下达，整体来看我国财政状况健康、安全，哪些信息值得关注？](https://www.zhihu.com/question/604877884)<br />
 3. [施耐庵是确有其人，还是某古代文学大咖的马甲？](https://www.zhihu.com/question/533898457)<br />
-4. [曝 AC 米兰解雇马尔蒂尼，因管理层与资方有重大分歧，如何看待这样的决定？](https://www.zhihu.com/question/605015881)<br />
-5. []()<br />
+4. []()<br />
+5. [曝 AC 米兰解雇马尔蒂尼，因管理层与资方有重大分歧，如何看待这样的决定？](https://www.zhihu.com/question/605015881)<br />
 6. [你通过打游戏学到的最有用的东西是什么？](https://www.zhihu.com/question/596914550)<br />
 7. []()<br />
 8. [矩阵中，为什么 AB＝AC 时，当 A 可逆时，B＝C？](https://www.zhihu.com/question/594440726)<br />
