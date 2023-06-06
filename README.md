@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 10:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 10:35:01</h4></div>
 
 > 微博  
 
@@ -16,13 +16,13 @@
 
 1. [财政部表示，中央对地方转移支付预算正按规定抓紧下达，整体来看我国财政状况健康、安全，哪些信息值得关注？](https://www.zhihu.com/question/604877884)<br />
 2. [如何看待珠峰攀登者为救遇险女子放弃登顶，被救女子只愿承担 4 成救援费？](https://www.zhihu.com/question/604842993)<br />
-3. [施耐庵是确有其人，还是某古代文学大咖的马甲？](https://www.zhihu.com/question/533898457)<br />
-4. [你通过打游戏学到的最有用的东西是什么？](https://www.zhihu.com/question/596914550)<br />
+3. [你通过打游戏学到的最有用的东西是什么？](https://www.zhihu.com/question/596914550)<br />
+4. [施耐庵是确有其人，还是某古代文学大咖的马甲？](https://www.zhihu.com/question/533898457)<br />
 5. [英超大结局，曼城六年 5 次夺冠，瓜迪奥拉麾下的曼城在英超的统治力如何？](https://www.zhihu.com/question/604822451)<br />
 6. [如何评价中国 A 队 4：2 加拿大，夺得 2023 年《帝国时代 2》国家杯冠军？](https://www.zhihu.com/question/604676388)<br />
 7. [曝 AC 米兰解雇马尔蒂尼，因管理层与资方有重大分歧，如何看待这样的决定？](https://www.zhihu.com/question/605015881)<br />
 8. [美前情报官员称「俄新型雷达卫星将改变俄乌冲突进程，乌将打不动这场仗」，如何评价俄新发射的雷达卫星？](https://www.zhihu.com/question/604952577)<br />
-9. [马上就要高考了，大家有什么建议吗？](https://www.zhihu.com/question/604744944)<br />
+9. [铁了心想考公务员，给些建议，怎么准备？](https://www.zhihu.com/question/474808569)<br />
 
 > 百度  
 
