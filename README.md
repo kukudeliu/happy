@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 10:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 10:59:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [美前情报官员称「俄新型雷达卫星将改变俄乌冲突进程，乌将打不动这场仗」，如何评价俄新发射的雷达卫星？](https://www.zhihu.com/question/604952577)<br />
 7. [铁了心想考公务员，给些建议，怎么准备？](https://www.zhihu.com/question/474808569)<br />
 8. [玄幻小说中，主角最后为什么不把所有自己会的功法武技整合一下公布全世界?](https://www.zhihu.com/question/604749818)<br />
-9. [轿车的重量与安全性到底有没有关系?](https://www.zhihu.com/question/604187029)<br />
+9. [如何评价苹果于 2023 年 6 月 6 日发布的全新芯片 M2 Ultra?](https://www.zhihu.com/question/604990539)<br />
 
 > 百度  
 
