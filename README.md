@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 11:07:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 11:08:02</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [如何看待短视频十二年给文化、生活与商业带来的改变？未来会怎么发展？](https://www.zhihu.com/question/604927786)<br />
 6. [玄幻小说中，主角最后为什么不把所有自己会的功法武技整合一下公布全世界?](https://www.zhihu.com/question/604749818)<br />
 7. [租房有什么推荐的小家电提高幸福感？](https://www.zhihu.com/question/597011185)<br />
-8. [轿车的重量与安全性到底有没有关系?](https://www.zhihu.com/question/604187029)<br />
-9. [马上就要高考了，大家有什么建议吗？](https://www.zhihu.com/question/604744944)<br />
+8. [如何囤货才能既让自己省钱，又让毛孩子「吃好玩好」？](https://www.zhihu.com/question/602576766)<br />
+9. [轿车的重量与安全性到底有没有关系?](https://www.zhihu.com/question/604187029)<br />
 
 > 百度  
 
