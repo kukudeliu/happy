@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 08:37:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 08:38:01</h4></div>
 
 > 微博  
 
-1. [长牙的鸭脖令人如鲠在喉](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%89%99%E7%9A%84%E9%B8%AD%E8%84%96%E4%BB%A4%E4%BA%BA%E5%A6%82%E9%B2%A0%E5%9C%A8%E5%96%89%23&t=31&band_rank=1&Refer=top)<br />
-2. [夫妻离婚均不愿养娃法院判不许离](https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E7%A6%BB%E5%A9%9A%E5%9D%87%E4%B8%8D%E6%84%BF%E5%85%BB%E5%A8%83%E6%B3%95%E9%99%A2%E5%88%A4%E4%B8%8D%E8%AE%B8%E7%A6%BB%23&t=31&band_rank=2&Refer=top)<br />
+1. [夫妻离婚均不愿养娃法院判不许离](https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E7%A6%BB%E5%A9%9A%E5%9D%87%E4%B8%8D%E6%84%BF%E5%85%BB%E5%A8%83%E6%B3%95%E9%99%A2%E5%88%A4%E4%B8%8D%E8%AE%B8%E7%A6%BB%23&t=31&band_rank=1&Refer=top)<br />
+2. [长牙的鸭脖令人如鲠在喉](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%89%99%E7%9A%84%E9%B8%AD%E8%84%96%E4%BB%A4%E4%BA%BA%E5%A6%82%E9%B2%A0%E5%9C%A8%E5%96%89%23&t=31&band_rank=2&Refer=top)<br />
 3. [首艘国产大型邮轮有2500万个零部件](https://s.weibo.com/weibo?q=%23%E9%A6%96%E8%89%98%E5%9B%BD%E4%BA%A7%E5%A4%A7%E5%9E%8B%E9%82%AE%E8%BD%AE%E6%9C%892500%E4%B8%87%E4%B8%AA%E9%9B%B6%E9%83%A8%E4%BB%B6%23&t=31&band_rank=3&Refer=top)<br />
 4. [吴倩 退赛](https://s.weibo.com/weibo?q=%E5%90%B4%E5%80%A9%20%E9%80%80%E8%B5%9B&t=31&band_rank=4&Refer=top)<br />
 5. [苹果发布会](https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=5&Refer=top)<br />
