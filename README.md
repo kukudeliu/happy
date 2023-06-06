@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 11:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 11:02:01</h4></div>
 
 > 微博  
 
@@ -17,12 +17,12 @@
 1. [如何看待珠峰攀登者为救遇险女子放弃登顶，被救女子只愿承担 4 成救援费？](https://www.zhihu.com/question/604842993)<br />
 2. [你通过打游戏学到的最有用的东西是什么？](https://www.zhihu.com/question/596914550)<br />
 3. [英超大结局，曼城六年 5 次夺冠，瓜迪奥拉麾下的曼城在英超的统治力如何？](https://www.zhihu.com/question/604822451)<br />
-4. [曝 AC 米兰解雇马尔蒂尼，因管理层与资方有重大分歧，如何看待这样的决定？](https://www.zhihu.com/question/605015881)<br />
-5. [美前情报官员称「俄新型雷达卫星将改变俄乌冲突进程，乌将打不动这场仗」，如何评价俄新发射的雷达卫星？](https://www.zhihu.com/question/604952577)<br />
+4. [美前情报官员称「俄新型雷达卫星将改变俄乌冲突进程，乌将打不动这场仗」，如何评价俄新发射的雷达卫星？](https://www.zhihu.com/question/604952577)<br />
+5. [曝 AC 米兰解雇马尔蒂尼，因管理层与资方有重大分歧，如何看待这样的决定？](https://www.zhihu.com/question/605015881)<br />
 6. [玄幻小说中，主角最后为什么不把所有自己会的功法武技整合一下公布全世界?](https://www.zhihu.com/question/604749818)<br />
-7. [如何评价苹果于 2023 年 6 月 6 日发布的全新芯片 M2 Ultra?](https://www.zhihu.com/question/604990539)<br />
-8. [轿车的重量与安全性到底有没有关系?](https://www.zhihu.com/question/604187029)<br />
-9. [马上就要高考了，大家有什么建议吗？](https://www.zhihu.com/question/604744944)<br />
+7. [轿车的重量与安全性到底有没有关系?](https://www.zhihu.com/question/604187029)<br />
+8. [马上就要高考了，大家有什么建议吗？](https://www.zhihu.com/question/604744944)<br />
+9. [租房有什么推荐的小家电提高幸福感？](https://www.zhihu.com/question/597011185)<br />
 
 > 百度  
 
