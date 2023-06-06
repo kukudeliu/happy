@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 21:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 21:54:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [2023年第一个弄丢证件的考生出现了](https://www.baidu.com/s?wd=2023%E5%B9%B4%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%BC%84%E4%B8%A2%E8%AF%81%E4%BB%B6%E7%9A%84%E8%80%83%E7%94%9F%E5%87%BA%E7%8E%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [河北一过山车停电多名游客倒挂半空](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E4%B8%80%E8%BF%87%E5%B1%B1%E8%BD%A6%E5%81%9C%E7%94%B5%E5%A4%9A%E5%90%8D%E6%B8%B8%E5%AE%A2%E5%80%92%E6%8C%82%E5%8D%8A%E7%A9%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [高三生考前在教室门口排队顶粽子](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%89%E7%94%9F%E8%80%83%E5%89%8D%E5%9C%A8%E6%95%99%E5%AE%A4%E9%97%A8%E5%8F%A3%E6%8E%92%E9%98%9F%E9%A1%B6%E7%B2%BD%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [广东明确停课不停考](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E6%98%8E%E7%A1%AE%E5%81%9C%E8%AF%BE%E4%B8%8D%E5%81%9C%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [网红直播喝酒去世：儿子哭着找爸爸](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E7%9B%B4%E6%92%AD%E5%96%9D%E9%85%92%E5%8E%BB%E4%B8%96%EF%BC%9A%E5%84%BF%E5%AD%90%E5%93%AD%E7%9D%80%E6%89%BE%E7%88%B8%E7%88%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [2023年第一个弄丢证件的考生出现了](https://www.baidu.com/s?wd=2023%E5%B9%B4%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%BC%84%E4%B8%A2%E8%AF%81%E4%BB%B6%E7%9A%84%E8%80%83%E7%94%9F%E5%87%BA%E7%8E%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [河北一过山车停电多名游客倒挂半空](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E4%B8%80%E8%BF%87%E5%B1%B1%E8%BD%A6%E5%81%9C%E7%94%B5%E5%A4%9A%E5%90%8D%E6%B8%B8%E5%AE%A2%E5%80%92%E6%8C%82%E5%8D%8A%E7%A9%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [高三生考前在教室门口排队顶粽子](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%89%E7%94%9F%E8%80%83%E5%89%8D%E5%9C%A8%E6%95%99%E5%AE%A4%E9%97%A8%E5%8F%A3%E6%8E%92%E9%98%9F%E9%A1%B6%E7%B2%BD%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [广东明确停课不停考](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E6%98%8E%E7%A1%AE%E5%81%9C%E8%AF%BE%E4%B8%8D%E5%81%9C%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [网红直播喝酒去世：儿子哭着找爸爸](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E7%9B%B4%E6%92%AD%E5%96%9D%E9%85%92%E5%8E%BB%E4%B8%96%EF%BC%9A%E5%84%BF%E5%AD%90%E5%93%AD%E7%9D%80%E6%89%BE%E7%88%B8%E7%88%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
