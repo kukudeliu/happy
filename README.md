@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 14:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 14:25:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [搞科研需要舍弃什么?](https://www.zhihu.com/question/478613645)<br />
 7. [为什么蜘蛛侠从一开始的从身体射蛛丝变成了合成蛛丝？](https://www.zhihu.com/question/372266242)<br />
 8. [中美外交官员在北京举行会谈，中方就台湾等重大原则问题阐明严正立场，具有哪些重要意义？](https://www.zhihu.com/question/605018467)<br />
-9. [想象两个超能力，一个是看起来很强其实很废，一个是看起来很废其实很强，你的想法是什么？](https://www.zhihu.com/question/603689171)<br />
+9. [男士机械表有哪些比较推荐的品牌？](https://www.zhihu.com/question/602523504)<br />
 
 > 百度  
 
