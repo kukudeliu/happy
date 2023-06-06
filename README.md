@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 20:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 20:15:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [中国第3座迪士尼会建在哪个城市](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%AC%AC3%E5%BA%A7%E8%BF%AA%E5%A3%AB%E5%B0%BC%E4%BC%9A%E5%BB%BA%E5%9C%A8%E5%93%AA%E4%B8%AA%E5%9F%8E%E5%B8%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [广东明确停课不停考](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E6%98%8E%E7%A1%AE%E5%81%9C%E8%AF%BE%E4%B8%8D%E5%81%9C%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [杭州姑娘20元刮刮乐刮中百万](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%A7%91%E5%A8%9820%E5%85%83%E5%88%AE%E5%88%AE%E4%B9%90%E5%88%AE%E4%B8%AD%E7%99%BE%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [网红直播喝酒去世：儿子哭着找爸爸](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E7%9B%B4%E6%92%AD%E5%96%9D%E9%85%92%E5%8E%BB%E4%B8%96%EF%BC%9A%E5%84%BF%E5%AD%90%E5%93%AD%E7%9D%80%E6%89%BE%E7%88%B8%E7%88%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [教育局回应学生伤害老师被开除](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E4%BC%A4%E5%AE%B3%E8%80%81%E5%B8%88%E8%A2%AB%E5%BC%80%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [教育局回应学生伤害老师被开除](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E4%BC%A4%E5%AE%B3%E8%80%81%E5%B8%88%E8%A2%AB%E5%BC%80%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [网红直播喝酒去世：儿子哭着找爸爸](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E7%9B%B4%E6%92%AD%E5%96%9D%E9%85%92%E5%8E%BB%E4%B8%96%EF%BC%9A%E5%84%BF%E5%AD%90%E5%93%AD%E7%9D%80%E6%89%BE%E7%88%B8%E7%88%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [中国第3座迪士尼会建在哪个城市](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%AC%AC3%E5%BA%A7%E8%BF%AA%E5%A3%AB%E5%B0%BC%E4%BC%9A%E5%BB%BA%E5%9C%A8%E5%93%AA%E4%B8%AA%E5%9F%8E%E5%B8%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [广东明确停课不停考](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E6%98%8E%E7%A1%AE%E5%81%9C%E8%AF%BE%E4%B8%8D%E5%81%9C%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [杭州姑娘20元刮刮乐刮中百万](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%A7%91%E5%A8%9820%E5%85%83%E5%88%AE%E5%88%AE%E4%B9%90%E5%88%AE%E4%B8%AD%E7%99%BE%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [网红直播喝酒去世：儿子哭着找爸爸](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E7%9B%B4%E6%92%AD%E5%96%9D%E9%85%92%E5%8E%BB%E4%B8%96%EF%BC%9A%E5%84%BF%E5%AD%90%E5%93%AD%E7%9D%80%E6%89%BE%E7%88%B8%E7%88%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [教育局回应学生伤害老师被开除](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E4%BC%A4%E5%AE%B3%E8%80%81%E5%B8%88%E8%A2%AB%E5%BC%80%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [教育局回应学生伤害老师被开除](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E4%BC%A4%E5%AE%B3%E8%80%81%E5%B8%88%E8%A2%AB%E5%BC%80%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [网红直播喝酒去世：儿子哭着找爸爸](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E7%9B%B4%E6%92%AD%E5%96%9D%E9%85%92%E5%8E%BB%E4%B8%96%EF%BC%9A%E5%84%BF%E5%AD%90%E5%93%AD%E7%9D%80%E6%89%BE%E7%88%B8%E7%88%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
