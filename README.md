@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 09:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 09:17:02</h4></div>
 
 > 微博  
 
@@ -20,8 +20,8 @@
 4. [如何评价苹果于 2023 年 6 月 6 日发布的新款 Mac Pro?](https://www.zhihu.com/question/604990649)<br />
 5. [iOS 17 发布，有哪些更新点值得关注？](https://www.zhihu.com/question/604990885)<br />
 6. [矩阵中，为什么 AB＝AC 时，当 A 可逆时，B＝C？](https://www.zhihu.com/question/594440726)<br />
-7. [你们博士毕业的时候，最初的学术梦想还在吗？](https://www.zhihu.com/question/437154680)<br />
-8. [高考考不上本科，是复读还是上大专?](https://www.zhihu.com/question/604518335)<br />
+7. [高考考不上本科，是复读还是上大专?](https://www.zhihu.com/question/604518335)<br />
+8. [你们博士毕业的时候，最初的学术梦想还在吗？](https://www.zhihu.com/question/437154680)<br />
 9. [施耐庵是确有其人，还是某古代文学大咖的马甲？](https://www.zhihu.com/question/533898457)<br />
 
 > 百度  
@@ -30,7 +30,7 @@
 2. [取代iPhone？苹果发布首款MR头显](https://www.baidu.com/s?wd=%E5%8F%96%E4%BB%A3iPhone%EF%BC%9F%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E9%A6%96%E6%AC%BEMR%E5%A4%B4%E6%98%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [专家称要警惕终身不婚不育情况](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E8%A6%81%E8%AD%A6%E6%83%95%E7%BB%88%E8%BA%AB%E4%B8%8D%E5%A9%9A%E4%B8%8D%E8%82%B2%E6%83%85%E5%86%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [环境保护的耀眼“实绩”](https://www.baidu.com/s?wd=%E7%8E%AF%E5%A2%83%E4%BF%9D%E6%8A%A4%E7%9A%84%E8%80%80%E7%9C%BC%E2%80%9C%E5%AE%9E%E7%BB%A9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [倒计时1天！直击多地高考送考](https://www.baidu.com/s?wd=%E5%80%92%E8%AE%A1%E6%97%B61%E5%A4%A9%EF%BC%81%E7%9B%B4%E5%87%BB%E5%A4%9A%E5%9C%B0%E9%AB%98%E8%80%83%E9%80%81%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [2023高考生的高中进度条已达99%](https://www.baidu.com/s?wd=2023%E9%AB%98%E8%80%83%E7%94%9F%E7%9A%84%E9%AB%98%E4%B8%AD%E8%BF%9B%E5%BA%A6%E6%9D%A1%E5%B7%B2%E8%BE%BE99%25&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [商家被大学生“占便宜”到崩溃](https://www.baidu.com/s?wd=%E5%95%86%E5%AE%B6%E8%A2%AB%E5%A4%A7%E5%AD%A6%E7%94%9F%E2%80%9C%E5%8D%A0%E4%BE%BF%E5%AE%9C%E2%80%9D%E5%88%B0%E5%B4%A9%E6%BA%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [不用再说“嘿 Siri”了](https://www.baidu.com/s?wd=%E4%B8%8D%E7%94%A8%E5%86%8D%E8%AF%B4%E2%80%9C%E5%98%BF+Siri%E2%80%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [广西烧烤竹签长1米8](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E7%83%A7%E7%83%A4%E7%AB%B9%E7%AD%BE%E9%95%BF1%E7%B1%B38&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -42,7 +42,7 @@
 2. [取代iPhone？苹果发布首款MR头显](https://www.baidu.com/s?wd=%E5%8F%96%E4%BB%A3iPhone%EF%BC%9F%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E9%A6%96%E6%AC%BEMR%E5%A4%B4%E6%98%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [专家称要警惕终身不婚不育情况](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E8%A6%81%E8%AD%A6%E6%83%95%E7%BB%88%E8%BA%AB%E4%B8%8D%E5%A9%9A%E4%B8%8D%E8%82%B2%E6%83%85%E5%86%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [环境保护的耀眼“实绩”](https://www.baidu.com/s?wd=%E7%8E%AF%E5%A2%83%E4%BF%9D%E6%8A%A4%E7%9A%84%E8%80%80%E7%9C%BC%E2%80%9C%E5%AE%9E%E7%BB%A9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [倒计时1天！直击多地高考送考](https://www.baidu.com/s?wd=%E5%80%92%E8%AE%A1%E6%97%B61%E5%A4%A9%EF%BC%81%E7%9B%B4%E5%87%BB%E5%A4%9A%E5%9C%B0%E9%AB%98%E8%80%83%E9%80%81%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [2023高考生的高中进度条已达99%](https://www.baidu.com/s?wd=2023%E9%AB%98%E8%80%83%E7%94%9F%E7%9A%84%E9%AB%98%E4%B8%AD%E8%BF%9B%E5%BA%A6%E6%9D%A1%E5%B7%B2%E8%BE%BE99%25&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [商家被大学生“占便宜”到崩溃](https://www.baidu.com/s?wd=%E5%95%86%E5%AE%B6%E8%A2%AB%E5%A4%A7%E5%AD%A6%E7%94%9F%E2%80%9C%E5%8D%A0%E4%BE%BF%E5%AE%9C%E2%80%9D%E5%88%B0%E5%B4%A9%E6%BA%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [不用再说“嘿 Siri”了](https://www.baidu.com/s?wd=%E4%B8%8D%E7%94%A8%E5%86%8D%E8%AF%B4%E2%80%9C%E5%98%BF+Siri%E2%80%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [广西烧烤竹签长1米8](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E7%83%A7%E7%83%A4%E7%AB%B9%E7%AD%BE%E9%95%BF1%E7%B1%B38&sa=fyb_news&rsv_dl=fyb_news)<br />
