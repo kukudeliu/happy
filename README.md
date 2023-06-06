@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 03:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 04:00:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [弟弟一眼认出流浪乞讨人员是亲哥](https://s.weibo.com/weibo?q=%23%E5%BC%9F%E5%BC%9F%E4%B8%80%E7%9C%BC%E8%AE%A4%E5%87%BA%E6%B5%81%E6%B5%AA%E4%B9%9E%E8%AE%A8%E4%BA%BA%E5%91%98%E6%98%AF%E4%BA%B2%E5%93%A5%23&t=31&band_rank=5&Refer=top)<br />
 6. [鼠头受害股](https://s.weibo.com/weibo?q=%E9%BC%A0%E5%A4%B4%E5%8F%97%E5%AE%B3%E8%82%A1&t=31&band_rank=6&Refer=top)<br />
 7. [梦回王俊凯用易烊千玺读秒](https://s.weibo.com/weibo?q=%23%E6%A2%A6%E5%9B%9E%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%94%A8%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%AF%BB%E7%A7%92%23&t=31&band_rank=7&Refer=top)<br />
-8. [虞书欣工作人员的手机壳](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E7%9A%84%E6%89%8B%E6%9C%BA%E5%A3%B3%23&t=31&band_rank=8&Refer=top)<br />
-9. [很难忘记周深的高考祝福](https://s.weibo.com/weibo?q=%23%E5%BE%88%E9%9A%BE%E5%BF%98%E8%AE%B0%E5%91%A8%E6%B7%B1%E7%9A%84%E9%AB%98%E8%80%83%E7%A5%9D%E7%A6%8F%23&t=31&band_rank=9&Refer=top)<br />
+8. [很难忘记周深的高考祝福](https://s.weibo.com/weibo?q=%23%E5%BE%88%E9%9A%BE%E5%BF%98%E8%AE%B0%E5%91%A8%E6%B7%B1%E7%9A%84%E9%AB%98%E8%80%83%E7%A5%9D%E7%A6%8F%23&t=31&band_rank=8&Refer=top)<br />
+9. [虞书欣工作人员的手机壳](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E7%9A%84%E6%89%8B%E6%9C%BA%E5%A3%B3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -33,8 +33,8 @@
 5. [中国中等收入群体超4亿人 标准曝光](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%B8%AD%E7%AD%89%E6%94%B6%E5%85%A5%E7%BE%A4%E4%BD%93%E8%B6%854%E4%BA%BF%E4%BA%BA+%E6%A0%87%E5%87%86%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [2023年第一个弄丢证件的考生出现了](https://www.baidu.com/s?wd=2023%E5%B9%B4%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%BC%84%E4%B8%A2%E8%AF%81%E4%BB%B6%E7%9A%84%E8%80%83%E7%94%9F%E5%87%BA%E7%8E%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [鼠头受害股出现 绝味鸭脖股价下跌](https://www.baidu.com/s?wd=%E9%BC%A0%E5%A4%B4%E5%8F%97%E5%AE%B3%E8%82%A1%E5%87%BA%E7%8E%B0+%E7%BB%9D%E5%91%B3%E9%B8%AD%E8%84%96%E8%82%A1%E4%BB%B7%E4%B8%8B%E8%B7%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [11岁男孩开电动车失控撞死3岁男童](https://www.baidu.com/s?wd=11%E5%B2%81%E7%94%B7%E5%AD%A9%E5%BC%80%E7%94%B5%E5%8A%A8%E8%BD%A6%E5%A4%B1%E6%8E%A7%E6%92%9E%E6%AD%BB3%E5%B2%81%E7%94%B7%E7%AB%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [俄媒：卡霍夫卡大坝已坍塌近半](https://www.baidu.com/s?wd=%E4%BF%84%E5%AA%92%EF%BC%9A%E5%8D%A1%E9%9C%8D%E5%A4%AB%E5%8D%A1%E5%A4%A7%E5%9D%9D%E5%B7%B2%E5%9D%8D%E5%A1%8C%E8%BF%91%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [MTG正式更名为郑州MTG](https://www.baidu.com/s?wd=MTG%E6%AD%A3%E5%BC%8F%E6%9B%B4%E5%90%8D%E4%B8%BA%E9%83%91%E5%B7%9EMTG&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [11岁男孩开电动车失控撞死3岁男童](https://www.baidu.com/s?wd=11%E5%B2%81%E7%94%B7%E5%AD%A9%E5%BC%80%E7%94%B5%E5%8A%A8%E8%BD%A6%E5%A4%B1%E6%8E%A7%E6%92%9E%E6%AD%BB3%E5%B2%81%E7%94%B7%E7%AB%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [中国中等收入群体超4亿人 标准曝光](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%B8%AD%E7%AD%89%E6%94%B6%E5%85%A5%E7%BE%A4%E4%BD%93%E8%B6%854%E4%BA%BF%E4%BA%BA+%E6%A0%87%E5%87%86%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [2023年第一个弄丢证件的考生出现了](https://www.baidu.com/s?wd=2023%E5%B9%B4%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%BC%84%E4%B8%A2%E8%AF%81%E4%BB%B6%E7%9A%84%E8%80%83%E7%94%9F%E5%87%BA%E7%8E%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [鼠头受害股出现 绝味鸭脖股价下跌](https://www.baidu.com/s?wd=%E9%BC%A0%E5%A4%B4%E5%8F%97%E5%AE%B3%E8%82%A1%E5%87%BA%E7%8E%B0+%E7%BB%9D%E5%91%B3%E9%B8%AD%E8%84%96%E8%82%A1%E4%BB%B7%E4%B8%8B%E8%B7%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [11岁男孩开电动车失控撞死3岁男童](https://www.baidu.com/s?wd=11%E5%B2%81%E7%94%B7%E5%AD%A9%E5%BC%80%E7%94%B5%E5%8A%A8%E8%BD%A6%E5%A4%B1%E6%8E%A7%E6%92%9E%E6%AD%BB3%E5%B2%81%E7%94%B7%E7%AB%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [俄媒：卡霍夫卡大坝已坍塌近半](https://www.baidu.com/s?wd=%E4%BF%84%E5%AA%92%EF%BC%9A%E5%8D%A1%E9%9C%8D%E5%A4%AB%E5%8D%A1%E5%A4%A7%E5%9D%9D%E5%B7%B2%E5%9D%8D%E5%A1%8C%E8%BF%91%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [MTG正式更名为郑州MTG](https://www.baidu.com/s?wd=MTG%E6%AD%A3%E5%BC%8F%E6%9B%B4%E5%90%8D%E4%B8%BA%E9%83%91%E5%B7%9EMTG&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [11岁男孩开电动车失控撞死3岁男童](https://www.baidu.com/s?wd=11%E5%B2%81%E7%94%B7%E5%AD%A9%E5%BC%80%E7%94%B5%E5%8A%A8%E8%BD%A6%E5%A4%B1%E6%8E%A7%E6%92%9E%E6%AD%BB3%E5%B2%81%E7%94%B7%E7%AB%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
