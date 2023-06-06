@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 19:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 19:13:01</h4></div>
 
 > 微博  
 
@@ -17,8 +17,8 @@
 1. [中美外交官员在北京举行会谈，中方就台湾等重大原则问题阐明严正立场，具有哪些重要意义？](https://www.zhihu.com/question/605018467)<br />
 2. [贵州「村超」获业界大咖点赞，韩乔生现场解说：这收视率超过中超，民间体育为何能深受大家的喜爱？](https://www.zhihu.com/question/604895219)<br />
 3. [为什么男朋友愿意给我买 8 千的手机，不愿意让我买 5 千的包包？](https://www.zhihu.com/question/603599168)<br />
-4. [如何评价《暗黑破坏神 4》?](https://www.zhihu.com/question/353664383)<br />
-5. [如何评价原神的《世界探索体验调研问卷》？](https://www.zhihu.com/question/604478566)<br />
+4. [如何评价原神的《世界探索体验调研问卷》？](https://www.zhihu.com/question/604478566)<br />
+5. [如何评价《暗黑破坏神 4》?](https://www.zhihu.com/question/353664383)<br />
 6. [业主壕购 42 套公寓，欲将墙体全部打通，楼上住宅现裂痕住户心慌，相关部门已责令停工，如何看待此事？](https://www.zhihu.com/question/605035212)<br />
 7. [56 岁「考王」梁实第 27 次参加高考，称「目标重点本科 ，希望是最后一次」，他有哪些精神值得学习？](https://www.zhihu.com/question/604886385)<br />
 8. [《大明王朝 1566》里，沈一石把十七岁的芸娘送给太监，为什么还骂她「贱」？](https://www.zhihu.com/question/604690309)<br />
