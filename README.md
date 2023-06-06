@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 08:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 08:50:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [苹果发布会](https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=4&Refer=top)<br />
 5. [吴倩镜头少原因](https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%80%A9%E9%95%9C%E5%A4%B4%E5%B0%91%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=5&Refer=top)<br />
 6. [长牙的鸭脖令人如鲠在喉](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%89%99%E7%9A%84%E9%B8%AD%E8%84%96%E4%BB%A4%E4%BA%BA%E5%A6%82%E9%B2%A0%E5%9C%A8%E5%96%89%23&t=31&band_rank=6&Refer=top)<br />
-7. [Apple Vision Pro 苹果首款头显](https://s.weibo.com/weibo?q=Apple%20Vision%20Pro%20%E8%8B%B9%E6%9E%9C%E9%A6%96%E6%AC%BE%E5%A4%B4%E6%98%BE&t=31&band_rank=7&Refer=top)<br />
-8. [明天高考](https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%A4%A9%E9%AB%98%E8%80%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [27岁游戏主播抗癌半年后去世](https://s.weibo.com/weibo?q=%2327%E5%B2%81%E6%B8%B8%E6%88%8F%E4%B8%BB%E6%92%AD%E6%8A%97%E7%99%8C%E5%8D%8A%E5%B9%B4%E5%90%8E%E5%8E%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
+7. [明天高考](https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%A4%A9%E9%AB%98%E8%80%83%23&t=31&band_rank=7&Refer=top)<br />
+8. [3499美元的苹果头显值得买吗](https://s.weibo.com/weibo?q=%233499%E7%BE%8E%E5%85%83%E7%9A%84%E8%8B%B9%E6%9E%9C%E5%A4%B4%E6%98%BE%E5%80%BC%E5%BE%97%E4%B9%B0%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
+9. [Apple Vision Pro 苹果首款头显](https://s.weibo.com/weibo?q=Apple%20Vision%20Pro%20%E8%8B%B9%E6%9E%9C%E9%A6%96%E6%AC%BE%E5%A4%B4%E6%98%BE&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
