@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 09:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 09:26:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [吴倩 退赛](https://s.weibo.com/weibo?q=%E5%90%B4%E5%80%A9%20%E9%80%80%E8%B5%9B&t=31&band_rank=5&Refer=top)<br />
 6. [明天高考](https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%A4%A9%E9%AB%98%E8%80%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [空姐未讲日语被日本女子辱骂](https://s.weibo.com/weibo?q=%23%E7%A9%BA%E5%A7%90%E6%9C%AA%E8%AE%B2%E6%97%A5%E8%AF%AD%E8%A2%AB%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%AD%90%E8%BE%B1%E9%AA%82%23&t=31&band_rank=7&Refer=top)<br />
-8. [3499美元的苹果头显值得买吗](https://s.weibo.com/weibo?q=%233499%E7%BE%8E%E5%85%83%E7%9A%84%E8%8B%B9%E6%9E%9C%E5%A4%B4%E6%98%BE%E5%80%BC%E5%BE%97%E4%B9%B0%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [汤晶媚竟然上过乘风破浪的姐姐第二季](https://s.weibo.com/weibo?q=%23%E6%B1%A4%E6%99%B6%E5%AA%9A%E7%AB%9F%E7%84%B6%E4%B8%8A%E8%BF%87%E4%B9%98%E9%A3%8E%E7%A0%B4%E6%B5%AA%E7%9A%84%E5%A7%90%E5%A7%90%E7%AC%AC%E4%BA%8C%E5%AD%A3%23&t=31&band_rank=9&Refer=top)<br />
+8. [汤晶媚竟然上过乘风破浪的姐姐第二季](https://s.weibo.com/weibo?q=%23%E6%B1%A4%E6%99%B6%E5%AA%9A%E7%AB%9F%E7%84%B6%E4%B8%8A%E8%BF%87%E4%B9%98%E9%A3%8E%E7%A0%B4%E6%B5%AA%E7%9A%84%E5%A7%90%E5%A7%90%E7%AC%AC%E4%BA%8C%E5%AD%A3%23&t=31&band_rank=8&Refer=top)<br />
+9. [3499美元的苹果头显值得买吗](https://s.weibo.com/weibo?q=%233499%E7%BE%8E%E5%85%83%E7%9A%84%E8%8B%B9%E6%9E%9C%E5%A4%B4%E6%98%BE%E5%80%BC%E5%BE%97%E4%B9%B0%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -21,7 +21,7 @@
 5. [iOS 17 发布，有哪些更新点值得关注？](https://www.zhihu.com/question/604990885)<br />
 6. [矩阵中，为什么 AB＝AC 时，当 A 可逆时，B＝C？](https://www.zhihu.com/question/594440726)<br />
 7. [施耐庵是确有其人，还是某古代文学大咖的马甲？](https://www.zhihu.com/question/533898457)<br />
-8. []()<br />
+8. [如何评价苹果于 2023 年 6 月 6 日发布的 15 寸 Macbook Air?](https://www.zhihu.com/question/604990393)<br />
 9. [高考考不上本科，是复读还是上大专?](https://www.zhihu.com/question/604518335)<br />
 
 > 百度  
