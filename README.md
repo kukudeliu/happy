@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 10:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 10:13:01</h4></div>
 
 > 微博  
 
-1. [吴倩镜头少原因](https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%80%A9%E9%95%9C%E5%A4%B4%E5%B0%91%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=1&Refer=top)<br />
-2. [没想到经常挖鼻孔会影响颜值](https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E7%BB%8F%E5%B8%B8%E6%8C%96%E9%BC%BB%E5%AD%94%E4%BC%9A%E5%BD%B1%E5%93%8D%E9%A2%9C%E5%80%BC%23&t=31&band_rank=2&Refer=top)<br />
+1. [没想到经常挖鼻孔会影响颜值](https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E7%BB%8F%E5%B8%B8%E6%8C%96%E9%BC%BB%E5%AD%94%E4%BC%9A%E5%BD%B1%E5%93%8D%E9%A2%9C%E5%80%BC%23&t=31&band_rank=1&Refer=top)<br />
+2. [吴倩镜头少原因](https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%80%A9%E9%95%9C%E5%A4%B4%E5%B0%91%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=2&Refer=top)<br />
 3. [首艘国产大型邮轮有2500万个零部件](https://s.weibo.com/weibo?q=%23%E9%A6%96%E8%89%98%E5%9B%BD%E4%BA%A7%E5%A4%A7%E5%9E%8B%E9%82%AE%E8%BD%AE%E6%9C%892500%E4%B8%87%E4%B8%AA%E9%9B%B6%E9%83%A8%E4%BB%B6%23&t=31&band_rank=3&Refer=top)<br />
 4. [空姐未讲日语被日本女子辱骂](https://s.weibo.com/weibo?q=%23%E7%A9%BA%E5%A7%90%E6%9C%AA%E8%AE%B2%E6%97%A5%E8%AF%AD%E8%A2%AB%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%AD%90%E8%BE%B1%E9%AA%82%23&t=31&band_rank=4&Refer=top)<br />
 5. [明天高考](https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%A4%A9%E9%AB%98%E8%80%83%23&t=31&band_rank=5&Refer=top)<br />
