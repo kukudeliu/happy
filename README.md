@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 09:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 09:51:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [汤晶媚竟然上过乘风破浪的姐姐第二季](https://s.weibo.com/weibo?q=%23%E6%B1%A4%E6%99%B6%E5%AA%9A%E7%AB%9F%E7%84%B6%E4%B8%8A%E8%BF%87%E4%B9%98%E9%A3%8E%E7%A0%B4%E6%B5%AA%E7%9A%84%E5%A7%90%E5%A7%90%E7%AC%AC%E4%BA%8C%E5%AD%A3%23&t=31&band_rank=4&Refer=top)<br />
 5. [空姐未讲日语被日本女子辱骂](https://s.weibo.com/weibo?q=%23%E7%A9%BA%E5%A7%90%E6%9C%AA%E8%AE%B2%E6%97%A5%E8%AF%AD%E8%A2%AB%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%AD%90%E8%BE%B1%E9%AA%82%23&t=31&band_rank=5&Refer=top)<br />
 6. [明天高考](https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%A4%A9%E9%AB%98%E8%80%83%23&t=31&band_rank=6&Refer=top)<br />
-7. [不用再说HeySiri了](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E7%94%A8%E5%86%8D%E8%AF%B4HeySiri%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [吴倩 退赛](https://s.weibo.com/weibo?q=%E5%90%B4%E5%80%A9%20%E9%80%80%E8%B5%9B&t=31&band_rank=8&Refer=top)<br />
+7. [吴倩 退赛](https://s.weibo.com/weibo?q=%E5%90%B4%E5%80%A9%20%E9%80%80%E8%B5%9B&t=31&band_rank=7&Refer=top)<br />
+8. [不用再说HeySiri了](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E7%94%A8%E5%86%8D%E8%AF%B4HeySiri%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [在欧洲千万不要轻易蹲地上](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E6%AC%A7%E6%B4%B2%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E8%BD%BB%E6%98%93%E8%B9%B2%E5%9C%B0%E4%B8%8A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -20,9 +20,9 @@
 4. [曝 AC 米兰解雇马尔蒂尼，因管理层与资方有重大分歧，如何看待这样的决定？](https://www.zhihu.com/question/605015881)<br />
 5. []()<br />
 6. [你通过打游戏学到的最有用的东西是什么？](https://www.zhihu.com/question/596914550)<br />
-7. [如何评价苹果 WWDC23 新发布的 Apple Vision Pro？](https://www.zhihu.com/question/604992942)<br />
-8. []()<br />
-9. [矩阵中，为什么 AB＝AC 时，当 A 可逆时，B＝C？](https://www.zhihu.com/question/594440726)<br />
+7. []()<br />
+8. [矩阵中，为什么 AB＝AC 时，当 A 可逆时，B＝C？](https://www.zhihu.com/question/594440726)<br />
+9. [6 月 5 日在岸、离岸人民币对美元分别跌破 7.12 、 7.13，跌去前一交易日全部涨幅，后势将如何？](https://www.zhihu.com/question/604888554)<br />
 
 > 百度  
 
