@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 07:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 07:52:01</h4></div>
 
 > 微博  
 
 1. [高考](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83&t=31&band_rank=1&Refer=top)<br />
 2. [高校鼠头事件涉事窗口几乎没人去吃饭](https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E9%BC%A0%E5%A4%B4%E4%BA%8B%E4%BB%B6%E6%B6%89%E4%BA%8B%E7%AA%97%E5%8F%A3%E5%87%A0%E4%B9%8E%E6%B2%A1%E4%BA%BA%E5%8E%BB%E5%90%83%E9%A5%AD%23&t=31&band_rank=2&Refer=top)<br />
 3. [首艘国产大型邮轮爱达魔都号出坞](https://s.weibo.com/weibo?q=%23%E9%A6%96%E8%89%98%E5%9B%BD%E4%BA%A7%E5%A4%A7%E5%9E%8B%E9%82%AE%E8%BD%AE%E7%88%B1%E8%BE%BE%E9%AD%94%E9%83%BD%E5%8F%B7%E5%87%BA%E5%9D%9E%23&t=31&band_rank=3&Refer=top)<br />
-4. [叶国华已被移出群聊](https://s.weibo.com/weibo?q=%23%E5%8F%B6%E5%9B%BD%E5%8D%8E%E5%B7%B2%E8%A2%AB%E7%A7%BB%E5%87%BA%E7%BE%A4%E8%81%8A%23&t=31&band_rank=4&Refer=top)<br />
-5. [辅导员自费给全班买咖啡抽中电车](https://s.weibo.com/weibo?q=%23%E8%BE%85%E5%AF%BC%E5%91%98%E8%87%AA%E8%B4%B9%E7%BB%99%E5%85%A8%E7%8F%AD%E4%B9%B0%E5%92%96%E5%95%A1%E6%8A%BD%E4%B8%AD%E7%94%B5%E8%BD%A6%23&t=31&band_rank=5&Refer=top)<br />
+4. [辅导员自费给全班买咖啡抽中电车](https://s.weibo.com/weibo?q=%23%E8%BE%85%E5%AF%BC%E5%91%98%E8%87%AA%E8%B4%B9%E7%BB%99%E5%85%A8%E7%8F%AD%E4%B9%B0%E5%92%96%E5%95%A1%E6%8A%BD%E4%B8%AD%E7%94%B5%E8%BD%A6%23&t=31&band_rank=4&Refer=top)<br />
+5. [叶国华已被移出群聊](https://s.weibo.com/weibo?q=%23%E5%8F%B6%E5%9B%BD%E5%8D%8E%E5%B7%B2%E8%A2%AB%E7%A7%BB%E5%87%BA%E7%BE%A4%E8%81%8A%23&t=31&band_rank=5&Refer=top)<br />
 6. [6年前忘带准考证受助考生成交警新同事](https://s.weibo.com/weibo?q=%236%E5%B9%B4%E5%89%8D%E5%BF%98%E5%B8%A6%E5%87%86%E8%80%83%E8%AF%81%E5%8F%97%E5%8A%A9%E8%80%83%E7%94%9F%E6%88%90%E4%BA%A4%E8%AD%A6%E6%96%B0%E5%90%8C%E4%BA%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [人体最大的器官是什么](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E4%BD%93%E6%9C%80%E5%A4%A7%E7%9A%84%E5%99%A8%E5%AE%98%E6%98%AF%E4%BB%80%E4%B9%88%23&t=31&band_rank=7&Refer=top)<br />
 8. [娜扎方否认高考596分](https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8E%E6%96%B9%E5%90%A6%E8%AE%A4%E9%AB%98%E8%80%83596%E5%88%86%23&t=31&band_rank=8&Refer=top)<br />
@@ -21,8 +21,8 @@
 5. [1291 万高考生即将奔赴考场，你认为 2023 年高考与往年相比最值得关注的变化是什么？](https://www.zhihu.com/question/605100302)<br />
 6. [浙江一房东在出租房装 5 级能耗空调，引租客吐槽，你对此有何看法？](https://www.zhihu.com/question/604418376)<br />
 7. [即将推出的 16T 固态盘是否意味着机械盘将要退出消费级市场？](https://www.zhihu.com/question/604750109)<br />
-8. [卡霍夫卡水电站大坝遭破坏，将带来哪些影响？](https://www.zhihu.com/question/605159905)<br />
-9. [本泽马与沙特联赛冠军吉达联合签约两年，年薪超过 2 亿欧元，对本泽马转会沙特联赛有何期待？](https://www.zhihu.com/question/604909706)<br />
+8. [本泽马与沙特联赛冠军吉达联合签约两年，年薪超过 2 亿欧元，对本泽马转会沙特联赛有何期待？](https://www.zhihu.com/question/604909706)<br />
+9. [如何丰富科研之外时间的生活？](https://www.zhihu.com/question/456373100)<br />
 
 > 百度  
 
@@ -34,7 +34,7 @@
 6. [中国中等收入群体超4亿人 标准曝光](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%B8%AD%E7%AD%89%E6%94%B6%E5%85%A5%E7%BE%A4%E4%BD%93%E8%B6%854%E4%BA%BF%E4%BA%BA+%E6%A0%87%E5%87%86%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [伴娘堵门要红包被伴郎连人带门踹飞](https://www.baidu.com/s?wd=%E4%BC%B4%E5%A8%98%E5%A0%B5%E9%97%A8%E8%A6%81%E7%BA%A2%E5%8C%85%E8%A2%AB%E4%BC%B4%E9%83%8E%E8%BF%9E%E4%BA%BA%E5%B8%A6%E9%97%A8%E8%B8%B9%E9%A3%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [2023年第一个弄丢证件的考生出现了](https://www.baidu.com/s?wd=2023%E5%B9%B4%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%BC%84%E4%B8%A2%E8%AF%81%E4%BB%B6%E7%9A%84%E8%80%83%E7%94%9F%E5%87%BA%E7%8E%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子因家庭纠纷跳河 妻子施救身亡](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9B%A0%E5%AE%B6%E5%BA%AD%E7%BA%A0%E7%BA%B7%E8%B7%B3%E6%B2%B3+%E5%A6%BB%E5%AD%90%E6%96%BD%E6%95%91%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [6年前忘带准考证考生成交警新同事](https://www.baidu.com/s?wd=6%E5%B9%B4%E5%89%8D%E5%BF%98%E5%B8%A6%E5%87%86%E8%80%83%E8%AF%81%E8%80%83%E7%94%9F%E6%88%90%E4%BA%A4%E8%AD%A6%E6%96%B0%E5%90%8C%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [中国中等收入群体超4亿人 标准曝光](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%B8%AD%E7%AD%89%E6%94%B6%E5%85%A5%E7%BE%A4%E4%BD%93%E8%B6%854%E4%BA%BF%E4%BA%BA+%E6%A0%87%E5%87%86%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [伴娘堵门要红包被伴郎连人带门踹飞](https://www.baidu.com/s?wd=%E4%BC%B4%E5%A8%98%E5%A0%B5%E9%97%A8%E8%A6%81%E7%BA%A2%E5%8C%85%E8%A2%AB%E4%BC%B4%E9%83%8E%E8%BF%9E%E4%BA%BA%E5%B8%A6%E9%97%A8%E8%B8%B9%E9%A3%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [2023年第一个弄丢证件的考生出现了](https://www.baidu.com/s?wd=2023%E5%B9%B4%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%BC%84%E4%B8%A2%E8%AF%81%E4%BB%B6%E7%9A%84%E8%80%83%E7%94%9F%E5%87%BA%E7%8E%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子因家庭纠纷跳河 妻子施救身亡](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9B%A0%E5%AE%B6%E5%BA%AD%E7%BA%A0%E7%BA%B7%E8%B7%B3%E6%B2%B3+%E5%A6%BB%E5%AD%90%E6%96%BD%E6%95%91%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [6年前忘带准考证考生成交警新同事](https://www.baidu.com/s?wd=6%E5%B9%B4%E5%89%8D%E5%BF%98%E5%B8%A6%E5%87%86%E8%80%83%E8%AF%81%E8%80%83%E7%94%9F%E6%88%90%E4%BA%A4%E8%AD%A6%E6%96%B0%E5%90%8C%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
