@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 18:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 18:52:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [杭州姑娘20元刮刮乐刮中百万](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%A7%91%E5%A8%9820%E5%85%83%E5%88%AE%E5%88%AE%E4%B9%90%E5%88%AE%E4%B8%AD%E7%99%BE%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [电梯突发故障丈夫下意识护妻儿](https://s.weibo.com/weibo?q=%23%E7%94%B5%E6%A2%AF%E7%AA%81%E5%8F%91%E6%95%85%E9%9A%9C%E4%B8%88%E5%A4%AB%E4%B8%8B%E6%84%8F%E8%AF%86%E6%8A%A4%E5%A6%BB%E5%84%BF%23&t=31&band_rank=7&Refer=top)<br />
 8. [四大顶级舞担](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%A4%A7%E9%A1%B6%E7%BA%A7%E8%88%9E%E6%8B%85%23&t=31&band_rank=8&Refer=top)<br />
-9. [车银优肿么了](https://s.weibo.com/weibo?q=%23%E8%BD%A6%E9%93%B6%E4%BC%98%E8%82%BF%E4%B9%88%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [蔡徐坤 回归跑男](https://s.weibo.com/weibo?q=%E8%94%A1%E5%BE%90%E5%9D%A4%20%E5%9B%9E%E5%BD%92%E8%B7%91%E7%94%B7&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
