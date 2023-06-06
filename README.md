@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 22:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 22:49:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [中国中等收入群体超4亿人 标准曝光](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%B8%AD%E7%AD%89%E6%94%B6%E5%85%A5%E7%BE%A4%E4%BD%93%E8%B6%854%E4%BA%BF%E4%BA%BA+%E6%A0%87%E5%87%86%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [弟弟一眼认出流浪乞讨人员是亲哥](https://www.baidu.com/s?wd=%E5%BC%9F%E5%BC%9F%E4%B8%80%E7%9C%BC%E8%AE%A4%E5%87%BA%E6%B5%81%E6%B5%AA%E4%B9%9E%E8%AE%A8%E4%BA%BA%E5%91%98%E6%98%AF%E4%BA%B2%E5%93%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [11岁男孩开电动车失控撞死3岁男童](https://www.baidu.com/s?wd=11%E5%B2%81%E7%94%B7%E5%AD%A9%E5%BC%80%E7%94%B5%E5%8A%A8%E8%BD%A6%E5%A4%B1%E6%8E%A7%E6%92%9E%E6%AD%BB3%E5%B2%81%E7%94%B7%E7%AB%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [2023年第一个弄丢证件的考生出现了](https://www.baidu.com/s?wd=2023%E5%B9%B4%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%BC%84%E4%B8%A2%E8%AF%81%E4%BB%B6%E7%9A%84%E8%80%83%E7%94%9F%E5%87%BA%E7%8E%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [广东明确停课不停考](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E6%98%8E%E7%A1%AE%E5%81%9C%E8%AF%BE%E4%B8%8D%E5%81%9C%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [中国中等收入群体超4亿人 标准曝光](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%B8%AD%E7%AD%89%E6%94%B6%E5%85%A5%E7%BE%A4%E4%BD%93%E8%B6%854%E4%BA%BF%E4%BA%BA+%E6%A0%87%E5%87%86%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [弟弟一眼认出流浪乞讨人员是亲哥](https://www.baidu.com/s?wd=%E5%BC%9F%E5%BC%9F%E4%B8%80%E7%9C%BC%E8%AE%A4%E5%87%BA%E6%B5%81%E6%B5%AA%E4%B9%9E%E8%AE%A8%E4%BA%BA%E5%91%98%E6%98%AF%E4%BA%B2%E5%93%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [11岁男孩开电动车失控撞死3岁男童](https://www.baidu.com/s?wd=11%E5%B2%81%E7%94%B7%E5%AD%A9%E5%BC%80%E7%94%B5%E5%8A%A8%E8%BD%A6%E5%A4%B1%E6%8E%A7%E6%92%9E%E6%AD%BB3%E5%B2%81%E7%94%B7%E7%AB%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [2023年第一个弄丢证件的考生出现了](https://www.baidu.com/s?wd=2023%E5%B9%B4%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%BC%84%E4%B8%A2%E8%AF%81%E4%BB%B6%E7%9A%84%E8%80%83%E7%94%9F%E5%87%BA%E7%8E%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [广东明确停课不停考](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E6%98%8E%E7%A1%AE%E5%81%9C%E8%AF%BE%E4%B8%8D%E5%81%9C%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
