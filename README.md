@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 11:04:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 11:05:01</h4></div>
 
 > 微博  
 
@@ -20,8 +20,8 @@
 4. [曝 AC 米兰解雇马尔蒂尼，因管理层与资方有重大分歧，如何看待这样的决定？](https://www.zhihu.com/question/605015881)<br />
 5. []()<br />
 6. [玄幻小说中，主角最后为什么不把所有自己会的功法武技整合一下公布全世界?](https://www.zhihu.com/question/604749818)<br />
-7. [轿车的重量与安全性到底有没有关系?](https://www.zhihu.com/question/604187029)<br />
-8. [租房有什么推荐的小家电提高幸福感？](https://www.zhihu.com/question/597011185)<br />
+7. [租房有什么推荐的小家电提高幸福感？](https://www.zhihu.com/question/597011185)<br />
+8. [轿车的重量与安全性到底有没有关系?](https://www.zhihu.com/question/604187029)<br />
 9. [马上就要高考了，大家有什么建议吗？](https://www.zhihu.com/question/604744944)<br />
 
 > 百度  
@@ -34,7 +34,7 @@
 6. [AI生成马斯克婴儿照被疯传](https://www.baidu.com/s?wd=AI%E7%94%9F%E6%88%90%E9%A9%AC%E6%96%AF%E5%85%8B%E5%A9%B4%E5%84%BF%E7%85%A7%E8%A2%AB%E7%96%AF%E4%BC%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [老人寻亲被发现是31年前命案逃犯](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E5%AF%BB%E4%BA%B2%E8%A2%AB%E5%8F%91%E7%8E%B0%E6%98%AF31%E5%B9%B4%E5%89%8D%E5%91%BD%E6%A1%88%E9%80%83%E7%8A%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [华航称辱骂空姐日本乘客被航警带走](https://www.baidu.com/s?wd=%E5%8D%8E%E8%88%AA%E7%A7%B0%E8%BE%B1%E9%AA%82%E7%A9%BA%E5%A7%90%E6%97%A5%E6%9C%AC%E4%B9%98%E5%AE%A2%E8%A2%AB%E8%88%AA%E8%AD%A6%E5%B8%A6%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [唯品会崩了相关负责人被免职](https://www.baidu.com/s?wd=%E5%94%AF%E5%93%81%E4%BC%9A%E5%B4%A9%E4%BA%86%E7%9B%B8%E5%85%B3%E8%B4%9F%E8%B4%A3%E4%BA%BA%E8%A2%AB%E5%85%8D%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [迷信985211房号 家长别给商家递刀子](https://www.baidu.com/s?wd=%E8%BF%B7%E4%BF%A1985211%E6%88%BF%E5%8F%B7+%E5%AE%B6%E9%95%BF%E5%88%AB%E7%BB%99%E5%95%86%E5%AE%B6%E9%80%92%E5%88%80%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [AI生成马斯克婴儿照被疯传](https://www.baidu.com/s?wd=AI%E7%94%9F%E6%88%90%E9%A9%AC%E6%96%AF%E5%85%8B%E5%A9%B4%E5%84%BF%E7%85%A7%E8%A2%AB%E7%96%AF%E4%BC%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [老人寻亲被发现是31年前命案逃犯](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E5%AF%BB%E4%BA%B2%E8%A2%AB%E5%8F%91%E7%8E%B0%E6%98%AF31%E5%B9%B4%E5%89%8D%E5%91%BD%E6%A1%88%E9%80%83%E7%8A%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [华航称辱骂空姐日本乘客被航警带走](https://www.baidu.com/s?wd=%E5%8D%8E%E8%88%AA%E7%A7%B0%E8%BE%B1%E9%AA%82%E7%A9%BA%E5%A7%90%E6%97%A5%E6%9C%AC%E4%B9%98%E5%AE%A2%E8%A2%AB%E8%88%AA%E8%AD%A6%E5%B8%A6%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [唯品会崩了相关负责人被免职](https://www.baidu.com/s?wd=%E5%94%AF%E5%93%81%E4%BC%9A%E5%B4%A9%E4%BA%86%E7%9B%B8%E5%85%B3%E8%B4%9F%E8%B4%A3%E4%BA%BA%E8%A2%AB%E5%85%8D%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [迷信985211房号 家长别给商家递刀子](https://www.baidu.com/s?wd=%E8%BF%B7%E4%BF%A1985211%E6%88%BF%E5%8F%B7+%E5%AE%B6%E9%95%BF%E5%88%AB%E7%BB%99%E5%95%86%E5%AE%B6%E9%80%92%E5%88%80%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
