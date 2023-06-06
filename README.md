@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 12:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 12:39:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [谢娜四公 没拉票](https://s.weibo.com/weibo?q=%E8%B0%A2%E5%A8%9C%E5%9B%9B%E5%85%AC%20%E6%B2%A1%E6%8B%89%E7%A5%A8&t=31&band_rank=6&Refer=top)<br />
 7. [在欧洲千万不要轻易蹲地上](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E6%AC%A7%E6%B4%B2%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E8%BD%BB%E6%98%93%E8%B9%B2%E5%9C%B0%E4%B8%8A%23&t=31&band_rank=7&Refer=top)<br />
 8. [明天高考](https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%A4%A9%E9%AB%98%E8%80%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [黄奕发博支持49岁高考妈妈](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%A5%95%E5%8F%91%E5%8D%9A%E6%94%AF%E6%8C%8149%E5%B2%81%E9%AB%98%E8%80%83%E5%A6%88%E5%A6%88%23&t=31&band_rank=9&Refer=top)<br />
+9. [26岁网红直播喝酒后去世](https://s.weibo.com/weibo?q=%2326%E5%B2%81%E7%BD%91%E7%BA%A2%E7%9B%B4%E6%92%AD%E5%96%9D%E9%85%92%E5%90%8E%E5%8E%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -31,10 +31,10 @@
 3. [商家被大学生“占便宜”到崩溃](https://www.baidu.com/s?wd=%E5%95%86%E5%AE%B6%E8%A2%AB%E5%A4%A7%E5%AD%A6%E7%94%9F%E2%80%9C%E5%8D%A0%E4%BE%BF%E5%AE%9C%E2%80%9D%E5%88%B0%E5%B4%A9%E6%BA%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全国麦收过四成](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E9%BA%A6%E6%94%B6%E8%BF%87%E5%9B%9B%E6%88%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [丫丫最新视频：抓起竹子就开啃](https://www.baidu.com/s?wd=%E4%B8%AB%E4%B8%AB%E6%9C%80%E6%96%B0%E8%A7%86%E9%A2%91%EF%BC%9A%E6%8A%93%E8%B5%B7%E7%AB%B9%E5%AD%90%E5%B0%B1%E5%BC%80%E5%95%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [专家称要警惕终身不婚不育情况](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E8%A6%81%E8%AD%A6%E6%83%95%E7%BB%88%E8%BA%AB%E4%B8%8D%E5%A9%9A%E4%B8%8D%E8%82%B2%E6%83%85%E5%86%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [AI生成马斯克婴儿照被疯传](https://www.baidu.com/s?wd=AI%E7%94%9F%E6%88%90%E9%A9%AC%E6%96%AF%E5%85%8B%E5%A9%B4%E5%84%BF%E7%85%A7%E8%A2%AB%E7%96%AF%E4%BC%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [淄博夜空500架无人机助力高考](https://www.baidu.com/s?wd=%E6%B7%84%E5%8D%9A%E5%A4%9C%E7%A9%BA500%E6%9E%B6%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%8A%A9%E5%8A%9B%E9%AB%98%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [3个留家孩子见下雨合力抢收麦子](https://www.baidu.com/s?wd=3%E4%B8%AA%E7%95%99%E5%AE%B6%E5%AD%A9%E5%AD%90%E8%A7%81%E4%B8%8B%E9%9B%A8%E5%90%88%E5%8A%9B%E6%8A%A2%E6%94%B6%E9%BA%A6%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [iOS17可自动清除短信验证码](https://www.baidu.com/s?wd=iOS17%E5%8F%AF%E8%87%AA%E5%8A%A8%E6%B8%85%E9%99%A4%E7%9F%AD%E4%BF%A1%E9%AA%8C%E8%AF%81%E7%A0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [专家称要警惕终身不婚不育情况](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E8%A6%81%E8%AD%A6%E6%83%95%E7%BB%88%E8%BA%AB%E4%B8%8D%E5%A9%9A%E4%B8%8D%E8%82%B2%E6%83%85%E5%86%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [苹果iOS 17正式发布](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9CiOS+17%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [淄博夜空500架无人机助力高考](https://www.baidu.com/s?wd=%E6%B7%84%E5%8D%9A%E5%A4%9C%E7%A9%BA500%E6%9E%B6%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%8A%A9%E5%8A%9B%E9%AB%98%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [商家被大学生“占便宜”到崩溃](https://www.baidu.com/s?wd=%E5%95%86%E5%AE%B6%E8%A2%AB%E5%A4%A7%E5%AD%A6%E7%94%9F%E2%80%9C%E5%8D%A0%E4%BE%BF%E5%AE%9C%E2%80%9D%E5%88%B0%E5%B4%A9%E6%BA%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全国麦收过四成](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E9%BA%A6%E6%94%B6%E8%BF%87%E5%9B%9B%E6%88%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [丫丫最新视频：抓起竹子就开啃](https://www.baidu.com/s?wd=%E4%B8%AB%E4%B8%AB%E6%9C%80%E6%96%B0%E8%A7%86%E9%A2%91%EF%BC%9A%E6%8A%93%E8%B5%B7%E7%AB%B9%E5%AD%90%E5%B0%B1%E5%BC%80%E5%95%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [专家称要警惕终身不婚不育情况](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E8%A6%81%E8%AD%A6%E6%83%95%E7%BB%88%E8%BA%AB%E4%B8%8D%E5%A9%9A%E4%B8%8D%E8%82%B2%E6%83%85%E5%86%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [AI生成马斯克婴儿照被疯传](https://www.baidu.com/s?wd=AI%E7%94%9F%E6%88%90%E9%A9%AC%E6%96%AF%E5%85%8B%E5%A9%B4%E5%84%BF%E7%85%A7%E8%A2%AB%E7%96%AF%E4%BC%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [淄博夜空500架无人机助力高考](https://www.baidu.com/s?wd=%E6%B7%84%E5%8D%9A%E5%A4%9C%E7%A9%BA500%E6%9E%B6%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%8A%A9%E5%8A%9B%E9%AB%98%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [3个留家孩子见下雨合力抢收麦子](https://www.baidu.com/s?wd=3%E4%B8%AA%E7%95%99%E5%AE%B6%E5%AD%A9%E5%AD%90%E8%A7%81%E4%B8%8B%E9%9B%A8%E5%90%88%E5%8A%9B%E6%8A%A2%E6%94%B6%E9%BA%A6%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [iOS17可自动清除短信验证码](https://www.baidu.com/s?wd=iOS17%E5%8F%AF%E8%87%AA%E5%8A%A8%E6%B8%85%E9%99%A4%E7%9F%AD%E4%BF%A1%E9%AA%8C%E8%AF%81%E7%A0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [专家称要警惕终身不婚不育情况](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E8%A6%81%E8%AD%A6%E6%83%95%E7%BB%88%E8%BA%AB%E4%B8%8D%E5%A9%9A%E4%B8%8D%E8%82%B2%E6%83%85%E5%86%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [苹果iOS 17正式发布](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9CiOS+17%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [淄博夜空500架无人机助力高考](https://www.baidu.com/s?wd=%E6%B7%84%E5%8D%9A%E5%A4%9C%E7%A9%BA500%E6%9E%B6%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%8A%A9%E5%8A%9B%E9%AB%98%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
