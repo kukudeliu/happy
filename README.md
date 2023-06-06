@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 17:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 17:05:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [车银优肿么了](https://s.weibo.com/weibo?q=%23%E8%BD%A6%E9%93%B6%E4%BC%98%E8%82%BF%E4%B9%88%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [鲍蕾晒花絮力证没给贝儿P腿](https://s.weibo.com/weibo?q=%23%E9%B2%8D%E8%95%BE%E6%99%92%E8%8A%B1%E7%B5%AE%E5%8A%9B%E8%AF%81%E6%B2%A1%E7%BB%99%E8%B4%9D%E5%84%BFP%E8%85%BF%23&t=31&band_rank=5&Refer=top)<br />
 6. [绝味鸭脖股价下跌](https://s.weibo.com/weibo?q=%23%E7%BB%9D%E5%91%B3%E9%B8%AD%E8%84%96%E8%82%A1%E4%BB%B7%E4%B8%8B%E8%B7%8C%23&t=31&band_rank=6&Refer=top)<br />
-7. [26岁网红直播喝酒后去世](https://s.weibo.com/weibo?q=%2326%E5%B2%81%E7%BD%91%E7%BA%A2%E7%9B%B4%E6%92%AD%E5%96%9D%E9%85%92%E5%90%8E%E5%8E%BB%E4%B8%96%23&t=31&band_rank=7&Refer=top)<br />
-8. [蔡徐坤 回归跑男](https://s.weibo.com/weibo?q=%E8%94%A1%E5%BE%90%E5%9D%A4%20%E5%9B%9E%E5%BD%92%E8%B7%91%E7%94%B7&t=31&band_rank=8&Refer=top)<br />
+7. [蔡徐坤 回归跑男](https://s.weibo.com/weibo?q=%E8%94%A1%E5%BE%90%E5%9D%A4%20%E5%9B%9E%E5%BD%92%E8%B7%91%E7%94%B7&t=31&band_rank=7&Refer=top)<br />
+8. [26岁网红直播喝酒后去世](https://s.weibo.com/weibo?q=%2326%E5%B2%81%E7%BD%91%E7%BA%A2%E7%9B%B4%E6%92%AD%E5%96%9D%E9%85%92%E5%90%8E%E5%8E%BB%E4%B8%96%23&t=31&band_rank=8&Refer=top)<br />
 9. [四大顶级舞担](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%A4%A7%E9%A1%B6%E7%BA%A7%E8%88%9E%E6%8B%85%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
