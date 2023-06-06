@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 22:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 22:32:01</h4></div>
 
 > 微博  
 
@@ -31,10 +31,10 @@
 3. [北京发现两例猴痘病例](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%8F%91%E7%8E%B0%E4%B8%A4%E4%BE%8B%E7%8C%B4%E7%97%98%E7%97%85%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [候鸟迁飞舞动命运与共](https://www.baidu.com/s?wd=%E5%80%99%E9%B8%9F%E8%BF%81%E9%A3%9E%E8%88%9E%E5%8A%A8%E5%91%BD%E8%BF%90%E4%B8%8E%E5%85%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中国第3座迪士尼会建在哪个城市](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%AC%AC3%E5%BA%A7%E8%BF%AA%E5%A3%AB%E5%B0%BC%E4%BC%9A%E5%BB%BA%E5%9C%A8%E5%93%AA%E4%B8%AA%E5%9F%8E%E5%B8%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [中国中等收入群体超4亿人 标准曝光](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%B8%AD%E7%AD%89%E6%94%B6%E5%85%A5%E7%BE%A4%E4%BD%93%E8%B6%854%E4%BA%BF%E4%BA%BA+%E6%A0%87%E5%87%86%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [2023年第一个弄丢证件的考生出现了](https://www.baidu.com/s?wd=2023%E5%B9%B4%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%BC%84%E4%B8%A2%E8%AF%81%E4%BB%B6%E7%9A%84%E8%80%83%E7%94%9F%E5%87%BA%E7%8E%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [11岁男孩开电动车失控撞死3岁男童](https://www.baidu.com/s?wd=11%E5%B2%81%E7%94%B7%E5%AD%A9%E5%BC%80%E7%94%B5%E5%8A%A8%E8%BD%A6%E5%A4%B1%E6%8E%A7%E6%92%9E%E6%AD%BB3%E5%B2%81%E7%94%B7%E7%AB%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [喝酒去世网红家墙壁写着钱比命重要](https://www.baidu.com/s?wd=%E5%96%9D%E9%85%92%E5%8E%BB%E4%B8%96%E7%BD%91%E7%BA%A2%E5%AE%B6%E5%A2%99%E5%A3%81%E5%86%99%E7%9D%80%E9%92%B1%E6%AF%94%E5%91%BD%E9%87%8D%E8%A6%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [2023年第一个弄丢证件的考生出现了](https://www.baidu.com/s?wd=2023%E5%B9%B4%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%BC%84%E4%B8%A2%E8%AF%81%E4%BB%B6%E7%9A%84%E8%80%83%E7%94%9F%E5%87%BA%E7%8E%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [11岁男孩开电动车失控撞死3岁男童](https://www.baidu.com/s?wd=11%E5%B2%81%E7%94%B7%E5%AD%A9%E5%BC%80%E7%94%B5%E5%8A%A8%E8%BD%A6%E5%A4%B1%E6%8E%A7%E6%92%9E%E6%AD%BB3%E5%B2%81%E7%94%B7%E7%AB%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中国中等收入群体超4亿人 标准曝光](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%B8%AD%E7%AD%89%E6%94%B6%E5%85%A5%E7%BE%A4%E4%BD%93%E8%B6%854%E4%BA%BF%E4%BA%BA+%E6%A0%87%E5%87%86%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [24岁男子修电梯时被夹头身亡](https://www.baidu.com/s?wd=24%E5%B2%81%E7%94%B7%E5%AD%90%E4%BF%AE%E7%94%B5%E6%A2%AF%E6%97%B6%E8%A2%AB%E5%A4%B9%E5%A4%B4%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [北京发现两例猴痘病例](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%8F%91%E7%8E%B0%E4%B8%A4%E4%BE%8B%E7%8C%B4%E7%97%98%E7%97%85%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [候鸟迁飞舞动命运与共](https://www.baidu.com/s?wd=%E5%80%99%E9%B8%9F%E8%BF%81%E9%A3%9E%E8%88%9E%E5%8A%A8%E5%91%BD%E8%BF%90%E4%B8%8E%E5%85%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中国第3座迪士尼会建在哪个城市](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%AC%AC3%E5%BA%A7%E8%BF%AA%E5%A3%AB%E5%B0%BC%E4%BC%9A%E5%BB%BA%E5%9C%A8%E5%93%AA%E4%B8%AA%E5%9F%8E%E5%B8%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [中国中等收入群体超4亿人 标准曝光](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%B8%AD%E7%AD%89%E6%94%B6%E5%85%A5%E7%BE%A4%E4%BD%93%E8%B6%854%E4%BA%BF%E4%BA%BA+%E6%A0%87%E5%87%86%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [2023年第一个弄丢证件的考生出现了](https://www.baidu.com/s?wd=2023%E5%B9%B4%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%BC%84%E4%B8%A2%E8%AF%81%E4%BB%B6%E7%9A%84%E8%80%83%E7%94%9F%E5%87%BA%E7%8E%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [11岁男孩开电动车失控撞死3岁男童](https://www.baidu.com/s?wd=11%E5%B2%81%E7%94%B7%E5%AD%A9%E5%BC%80%E7%94%B5%E5%8A%A8%E8%BD%A6%E5%A4%B1%E6%8E%A7%E6%92%9E%E6%AD%BB3%E5%B2%81%E7%94%B7%E7%AB%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [喝酒去世网红家墙壁写着钱比命重要](https://www.baidu.com/s?wd=%E5%96%9D%E9%85%92%E5%8E%BB%E4%B8%96%E7%BD%91%E7%BA%A2%E5%AE%B6%E5%A2%99%E5%A3%81%E5%86%99%E7%9D%80%E9%92%B1%E6%AF%94%E5%91%BD%E9%87%8D%E8%A6%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [2023年第一个弄丢证件的考生出现了](https://www.baidu.com/s?wd=2023%E5%B9%B4%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%BC%84%E4%B8%A2%E8%AF%81%E4%BB%B6%E7%9A%84%E8%80%83%E7%94%9F%E5%87%BA%E7%8E%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [11岁男孩开电动车失控撞死3岁男童](https://www.baidu.com/s?wd=11%E5%B2%81%E7%94%B7%E5%AD%A9%E5%BC%80%E7%94%B5%E5%8A%A8%E8%BD%A6%E5%A4%B1%E6%8E%A7%E6%92%9E%E6%AD%BB3%E5%B2%81%E7%94%B7%E7%AB%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中国中等收入群体超4亿人 标准曝光](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%B8%AD%E7%AD%89%E6%94%B6%E5%85%A5%E7%BE%A4%E4%BD%93%E8%B6%854%E4%BA%BF%E4%BA%BA+%E6%A0%87%E5%87%86%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [24岁男子修电梯时被夹头身亡](https://www.baidu.com/s?wd=24%E5%B2%81%E7%94%B7%E5%AD%90%E4%BF%AE%E7%94%B5%E6%A2%AF%E6%97%B6%E8%A2%AB%E5%A4%B9%E5%A4%B4%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
