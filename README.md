@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 00:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 00:09:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [猴痘](https://s.weibo.com/weibo?q=%E7%8C%B4%E7%97%98&t=31&band_rank=6&Refer=top)<br />
 7. [杭州姑娘20元刮刮乐刮中百万](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%A7%91%E5%A8%9820%E5%85%83%E5%88%AE%E5%88%AE%E4%B9%90%E5%88%AE%E4%B8%AD%E7%99%BE%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [虞书欣工作人员的手机壳](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E7%9A%84%E6%89%8B%E6%9C%BA%E5%A3%B3%23&t=31&band_rank=8&Refer=top)<br />
-9. [北京发现两例猴痘病例](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%8F%91%E7%8E%B0%E4%B8%A4%E4%BE%8B%E7%8C%B4%E7%97%98%E7%97%85%E4%BE%8B%23&t=31&band_rank=9&Refer=top)<br />
+9. [辅导员自费给全班买咖啡抽中电车](https://s.weibo.com/weibo?q=%23%E8%BE%85%E5%AF%BC%E5%91%98%E8%87%AA%E8%B4%B9%E7%BB%99%E5%85%A8%E7%8F%AD%E4%B9%B0%E5%92%96%E5%95%A1%E6%8A%BD%E4%B8%AD%E7%94%B5%E8%BD%A6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -33,8 +33,8 @@
 5. [中国中等收入群体超4亿人 标准曝光](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%B8%AD%E7%AD%89%E6%94%B6%E5%85%A5%E7%BE%A4%E4%BD%93%E8%B6%854%E4%BA%BF%E4%BA%BA+%E6%A0%87%E5%87%86%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [伴娘堵门要红包被伴郎连人带门踹飞](https://www.baidu.com/s?wd=%E4%BC%B4%E5%A8%98%E5%A0%B5%E9%97%A8%E8%A6%81%E7%BA%A2%E5%8C%85%E8%A2%AB%E4%BC%B4%E9%83%8E%E8%BF%9E%E4%BA%BA%E5%B8%A6%E9%97%A8%E8%B8%B9%E9%A3%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [2023年第一个弄丢证件的考生出现了](https://www.baidu.com/s?wd=2023%E5%B9%B4%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%BC%84%E4%B8%A2%E8%AF%81%E4%BB%B6%E7%9A%84%E8%80%83%E7%94%9F%E5%87%BA%E7%8E%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [动物园一黑熊骨瘦如柴？园方回应](https://www.baidu.com/s?wd=%E5%8A%A8%E7%89%A9%E5%9B%AD%E4%B8%80%E9%BB%91%E7%86%8A%E9%AA%A8%E7%98%A6%E5%A6%82%E6%9F%B4%EF%BC%9F%E5%9B%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [11岁男孩开电动车失控撞死3岁男童](https://www.baidu.com/s?wd=11%E5%B2%81%E7%94%B7%E5%AD%A9%E5%BC%80%E7%94%B5%E5%8A%A8%E8%BD%A6%E5%A4%B1%E6%8E%A7%E6%92%9E%E6%AD%BB3%E5%B2%81%E7%94%B7%E7%AB%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [杭州姑娘20元刮刮乐刮中百万](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%A7%91%E5%A8%9820%E5%85%83%E5%88%AE%E5%88%AE%E4%B9%90%E5%88%AE%E4%B8%AD%E7%99%BE%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [广东明确停课不停考](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E6%98%8E%E7%A1%AE%E5%81%9C%E8%AF%BE%E4%B8%8D%E5%81%9C%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [中国中等收入群体超4亿人 标准曝光](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%B8%AD%E7%AD%89%E6%94%B6%E5%85%A5%E7%BE%A4%E4%BD%93%E8%B6%854%E4%BA%BF%E4%BA%BA+%E6%A0%87%E5%87%86%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [伴娘堵门要红包被伴郎连人带门踹飞](https://www.baidu.com/s?wd=%E4%BC%B4%E5%A8%98%E5%A0%B5%E9%97%A8%E8%A6%81%E7%BA%A2%E5%8C%85%E8%A2%AB%E4%BC%B4%E9%83%8E%E8%BF%9E%E4%BA%BA%E5%B8%A6%E9%97%A8%E8%B8%B9%E9%A3%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [2023年第一个弄丢证件的考生出现了](https://www.baidu.com/s?wd=2023%E5%B9%B4%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%BC%84%E4%B8%A2%E8%AF%81%E4%BB%B6%E7%9A%84%E8%80%83%E7%94%9F%E5%87%BA%E7%8E%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [动物园一黑熊骨瘦如柴？园方回应](https://www.baidu.com/s?wd=%E5%8A%A8%E7%89%A9%E5%9B%AD%E4%B8%80%E9%BB%91%E7%86%8A%E9%AA%A8%E7%98%A6%E5%A6%82%E6%9F%B4%EF%BC%9F%E5%9B%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [11岁男孩开电动车失控撞死3岁男童](https://www.baidu.com/s?wd=11%E5%B2%81%E7%94%B7%E5%AD%A9%E5%BC%80%E7%94%B5%E5%8A%A8%E8%BD%A6%E5%A4%B1%E6%8E%A7%E6%92%9E%E6%AD%BB3%E5%B2%81%E7%94%B7%E7%AB%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [杭州姑娘20元刮刮乐刮中百万](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%A7%91%E5%A8%9820%E5%85%83%E5%88%AE%E5%88%AE%E4%B9%90%E5%88%AE%E4%B8%AD%E7%99%BE%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [广东明确停课不停考](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E6%98%8E%E7%A1%AE%E5%81%9C%E8%AF%BE%E4%B8%8D%E5%81%9C%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
