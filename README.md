@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 06:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 06:21:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [人体最大的器官是什么](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E4%BD%93%E6%9C%80%E5%A4%A7%E7%9A%84%E5%99%A8%E5%AE%98%E6%98%AF%E4%BB%80%E4%B9%88%23&t=31&band_rank=6&Refer=top)<br />
 7. [大熊猫萌兰吃窝头突然定了十几秒](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E8%90%8C%E5%85%B0%E5%90%83%E7%AA%9D%E5%A4%B4%E7%AA%81%E7%84%B6%E5%AE%9A%E4%BA%86%E5%8D%81%E5%87%A0%E7%A7%92%23&t=31&band_rank=7&Refer=top)<br />
 8. [很难忘记周深的高考祝福](https://s.weibo.com/weibo?q=%23%E5%BE%88%E9%9A%BE%E5%BF%98%E8%AE%B0%E5%91%A8%E6%B7%B1%E7%9A%84%E9%AB%98%E8%80%83%E7%A5%9D%E7%A6%8F%23&t=31&band_rank=8&Refer=top)<br />
-9. [梦回王俊凯用易烊千玺读秒](https://s.weibo.com/weibo?q=%23%E6%A2%A6%E5%9B%9E%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%94%A8%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%AF%BB%E7%A7%92%23&t=31&band_rank=9&Refer=top)<br />
+9. [00后打零工攒3千给爷爷装空调](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E6%89%93%E9%9B%B6%E5%B7%A5%E6%94%923%E5%8D%83%E7%BB%99%E7%88%B7%E7%88%B7%E8%A3%85%E7%A9%BA%E8%B0%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
