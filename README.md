@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 11:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 11:53:01</h4></div>
 
 > 微博  
 
@@ -19,8 +19,8 @@
 3. [如何看待珠峰攀登者为救遇险女子放弃登顶，被救女子只愿承担 4 成救援费？](https://www.zhihu.com/question/604842993)<br />
 4. [如何看待短视频十二年给文化、生活与商业带来的改变？未来会怎么发展？](https://www.zhihu.com/question/604927786)<br />
 5. [玄幻小说中，主角最后为什么不把所有自己会的功法武技整合一下公布全世界?](https://www.zhihu.com/question/604749818)<br />
-6. [你通过打游戏学到的最有用的东西是什么？](https://www.zhihu.com/question/596914550)<br />
-7. [想象两个超能力，一个是看起来很强其实很废，一个是看起来很废其实很强，你的想法是什么？](https://www.zhihu.com/question/603689171)<br />
+6. [想象两个超能力，一个是看起来很强其实很废，一个是看起来很废其实很强，你的想法是什么？](https://www.zhihu.com/question/603689171)<br />
+7. [你通过打游戏学到的最有用的东西是什么？](https://www.zhihu.com/question/596914550)<br />
 8. [年轻人熬夜会导致老年痴呆吗？](https://www.zhihu.com/question/427249533)<br />
 9. [轿车的重量与安全性到底有没有关系?](https://www.zhihu.com/question/604187029)<br />
 
