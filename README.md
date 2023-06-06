@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 07:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 07:22:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [人体最大的器官是什么](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E4%BD%93%E6%9C%80%E5%A4%A7%E7%9A%84%E5%99%A8%E5%AE%98%E6%98%AF%E4%BB%80%E4%B9%88%23&t=31&band_rank=5&Refer=top)<br />
 6. [弟弟一眼认出流浪乞讨人员是亲哥](https://s.weibo.com/weibo?q=%23%E5%BC%9F%E5%BC%9F%E4%B8%80%E7%9C%BC%E8%AE%A4%E5%87%BA%E6%B5%81%E6%B5%AA%E4%B9%9E%E8%AE%A8%E4%BA%BA%E5%91%98%E6%98%AF%E4%BA%B2%E5%93%A5%23&t=31&band_rank=6&Refer=top)<br />
 7. [小伙被吸入涵洞口30人紧紧拉回](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E8%A2%AB%E5%90%B8%E5%85%A5%E6%B6%B5%E6%B4%9E%E5%8F%A330%E4%BA%BA%E7%B4%A7%E7%B4%A7%E6%8B%89%E5%9B%9E%23&t=31&band_rank=7&Refer=top)<br />
-8. [梦回王俊凯用易烊千玺读秒](https://s.weibo.com/weibo?q=%23%E6%A2%A6%E5%9B%9E%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%94%A8%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%AF%BB%E7%A7%92%23&t=31&band_rank=8&Refer=top)<br />
-9. [高校鼠头事件涉事窗口几乎没人去吃饭](https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E9%BC%A0%E5%A4%B4%E4%BA%8B%E4%BB%B6%E6%B6%89%E4%BA%8B%E7%AA%97%E5%8F%A3%E5%87%A0%E4%B9%8E%E6%B2%A1%E4%BA%BA%E5%8E%BB%E5%90%83%E9%A5%AD%23&t=31&band_rank=9&Refer=top)<br />
+8. [高校鼠头事件涉事窗口几乎没人去吃饭](https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E9%BC%A0%E5%A4%B4%E4%BA%8B%E4%BB%B6%E6%B6%89%E4%BA%8B%E7%AA%97%E5%8F%A3%E5%87%A0%E4%B9%8E%E6%B2%A1%E4%BA%BA%E5%8E%BB%E5%90%83%E9%A5%AD%23&t=31&band_rank=8&Refer=top)<br />
+9. [梦回王俊凯用易烊千玺读秒](https://s.weibo.com/weibo?q=%23%E6%A2%A6%E5%9B%9E%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%94%A8%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%AF%BB%E7%A7%92%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -28,22 +28,22 @@
 
 1. [加油，向未来冲刺！](https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%B9%EF%BC%8C%E5%90%91%E6%9C%AA%E6%9D%A5%E5%86%B2%E5%88%BA%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [今日高考](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [南京夫子庙挤满为高考祈福的人](https://www.baidu.com/s?wd=%E5%8D%97%E4%BA%AC%E5%A4%AB%E5%AD%90%E5%BA%99%E6%8C%A4%E6%BB%A1%E4%B8%BA%E9%AB%98%E8%80%83%E7%A5%88%E7%A6%8F%E7%9A%84%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [直击2023高考现场](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB2023%E9%AB%98%E8%80%83%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [候鸟迁飞舞动命运与共](https://www.baidu.com/s?wd=%E5%80%99%E9%B8%9F%E8%BF%81%E9%A3%9E%E8%88%9E%E5%8A%A8%E5%91%BD%E8%BF%90%E4%B8%8E%E5%85%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [中国中等收入群体超4亿人 标准曝光](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%B8%AD%E7%AD%89%E6%94%B6%E5%85%A5%E7%BE%A4%E4%BD%93%E8%B6%854%E4%BA%BF%E4%BA%BA+%E6%A0%87%E5%87%86%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [伴娘堵门要红包被伴郎连人带门踹飞](https://www.baidu.com/s?wd=%E4%BC%B4%E5%A8%98%E5%A0%B5%E9%97%A8%E8%A6%81%E7%BA%A2%E5%8C%85%E8%A2%AB%E4%BC%B4%E9%83%8E%E8%BF%9E%E4%BA%BA%E5%B8%A6%E9%97%A8%E8%B8%B9%E9%A3%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [云南一导游暗讽游客不消费 官方通报](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E4%B8%80%E5%AF%BC%E6%B8%B8%E6%9A%97%E8%AE%BD%E6%B8%B8%E5%AE%A2%E4%B8%8D%E6%B6%88%E8%B4%B9+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [弟弟一眼认出流浪乞讨人员是亲哥](https://www.baidu.com/s?wd=%E5%BC%9F%E5%BC%9F%E4%B8%80%E7%9C%BC%E8%AE%A4%E5%87%BA%E6%B5%81%E6%B5%AA%E4%B9%9E%E8%AE%A8%E4%BA%BA%E5%91%98%E6%98%AF%E4%BA%B2%E5%93%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中国第3座迪士尼会建在哪个城市](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%AC%AC3%E5%BA%A7%E8%BF%AA%E5%A3%AB%E5%B0%BC%E4%BC%9A%E5%BB%BA%E5%9C%A8%E5%93%AA%E4%B8%AA%E5%9F%8E%E5%B8%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [张桂梅连续13年送学生高考](https://www.baidu.com/s?wd=%E5%BC%A0%E6%A1%82%E6%A2%85%E8%BF%9E%E7%BB%AD13%E5%B9%B4%E9%80%81%E5%AD%A6%E7%94%9F%E9%AB%98%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [中国中等收入群体超4亿人 标准曝光](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%B8%AD%E7%AD%89%E6%94%B6%E5%85%A5%E7%BE%A4%E4%BD%93%E8%B6%854%E4%BA%BF%E4%BA%BA+%E6%A0%87%E5%87%86%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [伴娘堵门要红包被伴郎连人带门踹飞](https://www.baidu.com/s?wd=%E4%BC%B4%E5%A8%98%E5%A0%B5%E9%97%A8%E8%A6%81%E7%BA%A2%E5%8C%85%E8%A2%AB%E4%BC%B4%E9%83%8E%E8%BF%9E%E4%BA%BA%E5%B8%A6%E9%97%A8%E8%B8%B9%E9%A3%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [云南一导游暗讽游客不消费 官方通报](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E4%B8%80%E5%AF%BC%E6%B8%B8%E6%9A%97%E8%AE%BD%E6%B8%B8%E5%AE%A2%E4%B8%8D%E6%B6%88%E8%B4%B9+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [弟弟一眼认出流浪乞讨人员是亲哥](https://www.baidu.com/s?wd=%E5%BC%9F%E5%BC%9F%E4%B8%80%E7%9C%BC%E8%AE%A4%E5%87%BA%E6%B5%81%E6%B5%AA%E4%B9%9E%E8%AE%A8%E4%BA%BA%E5%91%98%E6%98%AF%E4%BA%B2%E5%93%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [加油，向未来冲刺！](https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%B9%EF%BC%8C%E5%90%91%E6%9C%AA%E6%9D%A5%E5%86%B2%E5%88%BA%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [今日高考](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [南京夫子庙挤满为高考祈福的人](https://www.baidu.com/s?wd=%E5%8D%97%E4%BA%AC%E5%A4%AB%E5%AD%90%E5%BA%99%E6%8C%A4%E6%BB%A1%E4%B8%BA%E9%AB%98%E8%80%83%E7%A5%88%E7%A6%8F%E7%9A%84%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [直击2023高考现场](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB2023%E9%AB%98%E8%80%83%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [候鸟迁飞舞动命运与共](https://www.baidu.com/s?wd=%E5%80%99%E9%B8%9F%E8%BF%81%E9%A3%9E%E8%88%9E%E5%8A%A8%E5%91%BD%E8%BF%90%E4%B8%8E%E5%85%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [中国中等收入群体超4亿人 标准曝光](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%B8%AD%E7%AD%89%E6%94%B6%E5%85%A5%E7%BE%A4%E4%BD%93%E8%B6%854%E4%BA%BF%E4%BA%BA+%E6%A0%87%E5%87%86%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [伴娘堵门要红包被伴郎连人带门踹飞](https://www.baidu.com/s?wd=%E4%BC%B4%E5%A8%98%E5%A0%B5%E9%97%A8%E8%A6%81%E7%BA%A2%E5%8C%85%E8%A2%AB%E4%BC%B4%E9%83%8E%E8%BF%9E%E4%BA%BA%E5%B8%A6%E9%97%A8%E8%B8%B9%E9%A3%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [云南一导游暗讽游客不消费 官方通报](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E4%B8%80%E5%AF%BC%E6%B8%B8%E6%9A%97%E8%AE%BD%E6%B8%B8%E5%AE%A2%E4%B8%8D%E6%B6%88%E8%B4%B9+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [弟弟一眼认出流浪乞讨人员是亲哥](https://www.baidu.com/s?wd=%E5%BC%9F%E5%BC%9F%E4%B8%80%E7%9C%BC%E8%AE%A4%E5%87%BA%E6%B5%81%E6%B5%AA%E4%B9%9E%E8%AE%A8%E4%BA%BA%E5%91%98%E6%98%AF%E4%BA%B2%E5%93%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中国第3座迪士尼会建在哪个城市](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%AC%AC3%E5%BA%A7%E8%BF%AA%E5%A3%AB%E5%B0%BC%E4%BC%9A%E5%BB%BA%E5%9C%A8%E5%93%AA%E4%B8%AA%E5%9F%8E%E5%B8%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [张桂梅连续13年送学生高考](https://www.baidu.com/s?wd=%E5%BC%A0%E6%A1%82%E6%A2%85%E8%BF%9E%E7%BB%AD13%E5%B9%B4%E9%80%81%E5%AD%A6%E7%94%9F%E9%AB%98%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [中国中等收入群体超4亿人 标准曝光](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%B8%AD%E7%AD%89%E6%94%B6%E5%85%A5%E7%BE%A4%E4%BD%93%E8%B6%854%E4%BA%BF%E4%BA%BA+%E6%A0%87%E5%87%86%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [伴娘堵门要红包被伴郎连人带门踹飞](https://www.baidu.com/s?wd=%E4%BC%B4%E5%A8%98%E5%A0%B5%E9%97%A8%E8%A6%81%E7%BA%A2%E5%8C%85%E8%A2%AB%E4%BC%B4%E9%83%8E%E8%BF%9E%E4%BA%BA%E5%B8%A6%E9%97%A8%E8%B8%B9%E9%A3%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [云南一导游暗讽游客不消费 官方通报](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E4%B8%80%E5%AF%BC%E6%B8%B8%E6%9A%97%E8%AE%BD%E6%B8%B8%E5%AE%A2%E4%B8%8D%E6%B6%88%E8%B4%B9+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [弟弟一眼认出流浪乞讨人员是亲哥](https://www.baidu.com/s?wd=%E5%BC%9F%E5%BC%9F%E4%B8%80%E7%9C%BC%E8%AE%A4%E5%87%BA%E6%B5%81%E6%B5%AA%E4%B9%9E%E8%AE%A8%E4%BA%BA%E5%91%98%E6%98%AF%E4%BA%B2%E5%93%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
