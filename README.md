@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 16:23:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 16:24:01</h4></div>
 
 > 微博  
 
@@ -31,10 +31,10 @@
 3. [业主买42套房欲全打通 被责令停工](https://www.baidu.com/s?wd=%E4%B8%9A%E4%B8%BB%E4%B9%B042%E5%A5%97%E6%88%BF%E6%AC%B2%E5%85%A8%E6%89%93%E9%80%9A+%E8%A2%AB%E8%B4%A3%E4%BB%A4%E5%81%9C%E5%B7%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全国麦收过四成](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E9%BA%A6%E6%94%B6%E8%BF%87%E5%9B%9B%E6%88%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [24岁男子修电梯时被夹头身亡](https://www.baidu.com/s?wd=24%E5%B2%81%E7%94%B7%E5%AD%90%E4%BF%AE%E7%94%B5%E6%A2%AF%E6%97%B6%E8%A2%AB%E5%A4%B9%E5%A4%B4%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [人均千元餐厅拒绝12岁以下儿童](https://www.baidu.com/s?wd=%E4%BA%BA%E5%9D%87%E5%8D%83%E5%85%83%E9%A4%90%E5%8E%85%E6%8B%92%E7%BB%9D12%E5%B2%81%E4%BB%A5%E4%B8%8B%E5%84%BF%E7%AB%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [广东一公司进口日本核辐射食品被罚](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E5%85%AC%E5%8F%B8%E8%BF%9B%E5%8F%A3%E6%97%A5%E6%9C%AC%E6%A0%B8%E8%BE%90%E5%B0%84%E9%A3%9F%E5%93%81%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [22岁女子出门拿快递后失联](https://www.baidu.com/s?wd=22%E5%B2%81%E5%A5%B3%E5%AD%90%E5%87%BA%E9%97%A8%E6%8B%BF%E5%BF%AB%E9%80%92%E5%90%8E%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [电梯突发故障丈夫下意识护妻儿](https://www.baidu.com/s?wd=%E7%94%B5%E6%A2%AF%E7%AA%81%E5%8F%91%E6%95%85%E9%9A%9C%E4%B8%88%E5%A4%AB%E4%B8%8B%E6%84%8F%E8%AF%86%E6%8A%A4%E5%A6%BB%E5%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [宝妈因孩子吃了同学生日蛋糕发飙](https://www.baidu.com/s?wd=%E5%AE%9D%E5%A6%88%E5%9B%A0%E5%AD%A9%E5%AD%90%E5%90%83%E4%BA%86%E5%90%8C%E5%AD%A6%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95%E5%8F%91%E9%A3%99&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [人均千元餐厅拒绝12岁以下儿童](https://www.baidu.com/s?wd=%E4%BA%BA%E5%9D%87%E5%8D%83%E5%85%83%E9%A4%90%E5%8E%85%E6%8B%92%E7%BB%9D12%E5%B2%81%E4%BB%A5%E4%B8%8B%E5%84%BF%E7%AB%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [广东一公司进口日本核辐射食品被罚](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E5%85%AC%E5%8F%B8%E8%BF%9B%E5%8F%A3%E6%97%A5%E6%9C%AC%E6%A0%B8%E8%BE%90%E5%B0%84%E9%A3%9F%E5%93%81%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [牛肉干店把牛犊拴门口吆喝现点现做](https://www.baidu.com/s?wd=%E7%89%9B%E8%82%89%E5%B9%B2%E5%BA%97%E6%8A%8A%E7%89%9B%E7%8A%8A%E6%8B%B4%E9%97%A8%E5%8F%A3%E5%90%86%E5%96%9D%E7%8E%B0%E7%82%B9%E7%8E%B0%E5%81%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [业主买42套房欲全打通 被责令停工](https://www.baidu.com/s?wd=%E4%B8%9A%E4%B8%BB%E4%B9%B042%E5%A5%97%E6%88%BF%E6%AC%B2%E5%85%A8%E6%89%93%E9%80%9A+%E8%A2%AB%E8%B4%A3%E4%BB%A4%E5%81%9C%E5%B7%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全国麦收过四成](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E9%BA%A6%E6%94%B6%E8%BF%87%E5%9B%9B%E6%88%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [24岁男子修电梯时被夹头身亡](https://www.baidu.com/s?wd=24%E5%B2%81%E7%94%B7%E5%AD%90%E4%BF%AE%E7%94%B5%E6%A2%AF%E6%97%B6%E8%A2%AB%E5%A4%B9%E5%A4%B4%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [人均千元餐厅拒绝12岁以下儿童](https://www.baidu.com/s?wd=%E4%BA%BA%E5%9D%87%E5%8D%83%E5%85%83%E9%A4%90%E5%8E%85%E6%8B%92%E7%BB%9D12%E5%B2%81%E4%BB%A5%E4%B8%8B%E5%84%BF%E7%AB%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [广东一公司进口日本核辐射食品被罚](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E5%85%AC%E5%8F%B8%E8%BF%9B%E5%8F%A3%E6%97%A5%E6%9C%AC%E6%A0%B8%E8%BE%90%E5%B0%84%E9%A3%9F%E5%93%81%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [22岁女子出门拿快递后失联](https://www.baidu.com/s?wd=22%E5%B2%81%E5%A5%B3%E5%AD%90%E5%87%BA%E9%97%A8%E6%8B%BF%E5%BF%AB%E9%80%92%E5%90%8E%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [电梯突发故障丈夫下意识护妻儿](https://www.baidu.com/s?wd=%E7%94%B5%E6%A2%AF%E7%AA%81%E5%8F%91%E6%95%85%E9%9A%9C%E4%B8%88%E5%A4%AB%E4%B8%8B%E6%84%8F%E8%AF%86%E6%8A%A4%E5%A6%BB%E5%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [宝妈因孩子吃了同学生日蛋糕发飙](https://www.baidu.com/s?wd=%E5%AE%9D%E5%A6%88%E5%9B%A0%E5%AD%A9%E5%AD%90%E5%90%83%E4%BA%86%E5%90%8C%E5%AD%A6%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95%E5%8F%91%E9%A3%99&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [人均千元餐厅拒绝12岁以下儿童](https://www.baidu.com/s?wd=%E4%BA%BA%E5%9D%87%E5%8D%83%E5%85%83%E9%A4%90%E5%8E%85%E6%8B%92%E7%BB%9D12%E5%B2%81%E4%BB%A5%E4%B8%8B%E5%84%BF%E7%AB%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [广东一公司进口日本核辐射食品被罚](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E5%85%AC%E5%8F%B8%E8%BF%9B%E5%8F%A3%E6%97%A5%E6%9C%AC%E6%A0%B8%E8%BE%90%E5%B0%84%E9%A3%9F%E5%93%81%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [牛肉干店把牛犊拴门口吆喝现点现做](https://www.baidu.com/s?wd=%E7%89%9B%E8%82%89%E5%B9%B2%E5%BA%97%E6%8A%8A%E7%89%9B%E7%8A%8A%E6%8B%B4%E9%97%A8%E5%8F%A3%E5%90%86%E5%96%9D%E7%8E%B0%E7%82%B9%E7%8E%B0%E5%81%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
