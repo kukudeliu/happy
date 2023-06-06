@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 18:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 18:39:01</h4></div>
 
 > 微博  
 
 1. [弟弟一眼认出流浪乞讨人员是亲哥](https://s.weibo.com/weibo?q=%23%E5%BC%9F%E5%BC%9F%E4%B8%80%E7%9C%BC%E8%AE%A4%E5%87%BA%E6%B5%81%E6%B5%AA%E4%B9%9E%E8%AE%A8%E4%BA%BA%E5%91%98%E6%98%AF%E4%BA%B2%E5%93%A5%23&t=31&band_rank=1&Refer=top)<br />
 2. [绝味鸭脖股价下跌](https://s.weibo.com/weibo?q=%23%E7%BB%9D%E5%91%B3%E9%B8%AD%E8%84%96%E8%82%A1%E4%BB%B7%E4%B8%8B%E8%B7%8C%23&t=31&band_rank=2&Refer=top)<br />
 3. [祝考生们大胜归来](https://s.weibo.com/weibo?q=%23%E7%A5%9D%E8%80%83%E7%94%9F%E4%BB%AC%E5%A4%A7%E8%83%9C%E5%BD%92%E6%9D%A5%23&t=31&band_rank=3&Refer=top)<br />
-4. [宋轶现身医院抽血采样](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%BD%B6%E7%8E%B0%E8%BA%AB%E5%8C%BB%E9%99%A2%E6%8A%BD%E8%A1%80%E9%87%87%E6%A0%B7%23&t=31&band_rank=4&Refer=top)<br />
+4. [四大顶级舞担](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%A4%A7%E9%A1%B6%E7%BA%A7%E8%88%9E%E6%8B%85%23&t=31&band_rank=4&Refer=top)<br />
 5. [原来丫丫有一张微笑脸](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%B8%AB%E4%B8%AB%E6%9C%89%E4%B8%80%E5%BC%A0%E5%BE%AE%E7%AC%91%E8%84%B8%23&t=31&band_rank=5&Refer=top)<br />
-6. [四大顶级舞担](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%A4%A7%E9%A1%B6%E7%BA%A7%E8%88%9E%E6%8B%85%23&t=31&band_rank=6&Refer=top)<br />
+6. [宋轶现身医院抽血采样](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%BD%B6%E7%8E%B0%E8%BA%AB%E5%8C%BB%E9%99%A2%E6%8A%BD%E8%A1%80%E9%87%87%E6%A0%B7%23&t=31&band_rank=6&Refer=top)<br />
 7. [电梯突发故障丈夫下意识护妻儿](https://s.weibo.com/weibo?q=%23%E7%94%B5%E6%A2%AF%E7%AA%81%E5%8F%91%E6%95%85%E9%9A%9C%E4%B8%88%E5%A4%AB%E4%B8%8B%E6%84%8F%E8%AF%86%E6%8A%A4%E5%A6%BB%E5%84%BF%23&t=31&band_rank=7&Refer=top)<br />
-8. [车银优肿么了](https://s.weibo.com/weibo?q=%23%E8%BD%A6%E9%93%B6%E4%BC%98%E8%82%BF%E4%B9%88%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [蔡徐坤 回归跑男](https://s.weibo.com/weibo?q=%E8%94%A1%E5%BE%90%E5%9D%A4%20%E5%9B%9E%E5%BD%92%E8%B7%91%E7%94%B7&t=31&band_rank=9&Refer=top)<br />
+8. [我出生那天 四海八荒都沉默了](https://s.weibo.com/weibo?q=%E6%88%91%E5%87%BA%E7%94%9F%E9%82%A3%E5%A4%A9%20%E5%9B%9B%E6%B5%B7%E5%85%AB%E8%8D%92%E9%83%BD%E6%B2%89%E9%BB%98%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
+9. [车银优肿么了](https://s.weibo.com/weibo?q=%23%E8%BD%A6%E9%93%B6%E4%BC%98%E8%82%BF%E4%B9%88%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
