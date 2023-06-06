@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 10:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 10:01:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [明天高考](https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%A4%A9%E9%AB%98%E8%80%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [业主购42套房全部打通墙体](https://s.weibo.com/weibo?q=%23%E4%B8%9A%E4%B8%BB%E8%B4%AD42%E5%A5%97%E6%88%BF%E5%85%A8%E9%83%A8%E6%89%93%E9%80%9A%E5%A2%99%E4%BD%93%23&t=31&band_rank=7&Refer=top)<br />
 8. [吴倩 退赛](https://s.weibo.com/weibo?q=%E5%90%B4%E5%80%A9%20%E9%80%80%E8%B5%9B&t=31&band_rank=8&Refer=top)<br />
-9. [PDD直播弹幕](https://s.weibo.com/weibo?q=PDD%E7%9B%B4%E6%92%AD%E5%BC%B9%E5%B9%95&t=31&band_rank=9&Refer=top)<br />
+9. [没想到经常挖鼻孔会影响颜值](https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E7%BB%8F%E5%B8%B8%E6%8C%96%E9%BC%BB%E5%AD%94%E4%BC%9A%E5%BD%B1%E5%93%8D%E9%A2%9C%E5%80%BC%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
