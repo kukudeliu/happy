@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 10:33:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 10:34:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [首艘国产大型邮轮有2500万个零部件](https://s.weibo.com/weibo?q=%23%E9%A6%96%E8%89%98%E5%9B%BD%E4%BA%A7%E5%A4%A7%E5%9E%8B%E9%82%AE%E8%BD%AE%E6%9C%892500%E4%B8%87%E4%B8%AA%E9%9B%B6%E9%83%A8%E4%BB%B6%23&t=31&band_rank=3&Refer=top)<br />
 4. [李湘祝贺王诗龄获奖学金](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B9%98%E7%A5%9D%E8%B4%BA%E7%8E%8B%E8%AF%97%E9%BE%84%E8%8E%B7%E5%A5%96%E5%AD%A6%E9%87%91%23&t=31&band_rank=4&Refer=top)<br />
 5. [向佐郭碧婷牵手逛街](https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%E9%83%AD%E7%A2%A7%E5%A9%B7%E7%89%B5%E6%89%8B%E9%80%9B%E8%A1%97%23&t=31&band_rank=5&Refer=top)<br />
-6. [空姐未讲日语被日本女子辱骂](https://s.weibo.com/weibo?q=%23%E7%A9%BA%E5%A7%90%E6%9C%AA%E8%AE%B2%E6%97%A5%E8%AF%AD%E8%A2%AB%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%AD%90%E8%BE%B1%E9%AA%82%23&t=31&band_rank=6&Refer=top)<br />
-7. [汤晶媚竟然上过乘风破浪的姐姐第二季](https://s.weibo.com/weibo?q=%23%E6%B1%A4%E6%99%B6%E5%AA%9A%E7%AB%9F%E7%84%B6%E4%B8%8A%E8%BF%87%E4%B9%98%E9%A3%8E%E7%A0%B4%E6%B5%AA%E7%9A%84%E5%A7%90%E5%A7%90%E7%AC%AC%E4%BA%8C%E5%AD%A3%23&t=31&band_rank=7&Refer=top)<br />
+6. [汤晶媚竟然上过乘风破浪的姐姐第二季](https://s.weibo.com/weibo?q=%23%E6%B1%A4%E6%99%B6%E5%AA%9A%E7%AB%9F%E7%84%B6%E4%B8%8A%E8%BF%87%E4%B9%98%E9%A3%8E%E7%A0%B4%E6%B5%AA%E7%9A%84%E5%A7%90%E5%A7%90%E7%AC%AC%E4%BA%8C%E5%AD%A3%23&t=31&band_rank=6&Refer=top)<br />
+7. [空姐未讲日语被日本女子辱骂](https://s.weibo.com/weibo?q=%23%E7%A9%BA%E5%A7%90%E6%9C%AA%E8%AE%B2%E6%97%A5%E8%AF%AD%E8%A2%AB%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%AD%90%E8%BE%B1%E9%AA%82%23&t=31&band_rank=7&Refer=top)<br />
 8. [明天高考](https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%A4%A9%E9%AB%98%E8%80%83%23&t=31&band_rank=8&Refer=top)<br />
 9. [在欧洲千万不要轻易蹲地上](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E6%AC%A7%E6%B4%B2%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E8%BD%BB%E6%98%93%E8%B9%B2%E5%9C%B0%E4%B8%8A%23&t=31&band_rank=9&Refer=top)<br />
 
@@ -32,7 +32,7 @@
 4. [环境保护的耀眼“实绩”](https://www.baidu.com/s?wd=%E7%8E%AF%E5%A2%83%E4%BF%9D%E6%8A%A4%E7%9A%84%E8%80%80%E7%9C%BC%E2%80%9C%E5%AE%9E%E7%BB%A9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [2023高考生的高中进度条已达99%](https://www.baidu.com/s?wd=2023%E9%AB%98%E8%80%83%E7%94%9F%E7%9A%84%E9%AB%98%E4%B8%AD%E8%BF%9B%E5%BA%A6%E6%9D%A1%E5%B7%B2%E8%BE%BE99%25&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [老人寻亲被发现是31年前命案逃犯](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E5%AF%BB%E4%BA%B2%E8%A2%AB%E5%8F%91%E7%8E%B0%E6%98%AF31%E5%B9%B4%E5%89%8D%E5%91%BD%E6%A1%88%E9%80%83%E7%8A%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [中国排名CNN2023世界美食榜第二](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%8E%92%E5%90%8DCNN2023%E4%B8%96%E7%95%8C%E7%BE%8E%E9%A3%9F%E6%A6%9C%E7%AC%AC%E4%BA%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [广西烧烤竹签长1米8](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E7%83%A7%E7%83%A4%E7%AB%B9%E7%AD%BE%E9%95%BF1%E7%B1%B38&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [迷信985211房号 家长别给商家递刀子](https://www.baidu.com/s?wd=%E8%BF%B7%E4%BF%A1985211%E6%88%BF%E5%8F%B7+%E5%AE%B6%E9%95%BF%E5%88%AB%E7%BB%99%E5%95%86%E5%AE%B6%E9%80%92%E5%88%80%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [夫妻离婚都不愿养娃法院判不许离](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E7%A6%BB%E5%A9%9A%E9%83%BD%E4%B8%8D%E6%84%BF%E5%85%BB%E5%A8%83%E6%B3%95%E9%99%A2%E5%88%A4%E4%B8%8D%E8%AE%B8%E7%A6%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -44,6 +44,6 @@
 4. [环境保护的耀眼“实绩”](https://www.baidu.com/s?wd=%E7%8E%AF%E5%A2%83%E4%BF%9D%E6%8A%A4%E7%9A%84%E8%80%80%E7%9C%BC%E2%80%9C%E5%AE%9E%E7%BB%A9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [2023高考生的高中进度条已达99%](https://www.baidu.com/s?wd=2023%E9%AB%98%E8%80%83%E7%94%9F%E7%9A%84%E9%AB%98%E4%B8%AD%E8%BF%9B%E5%BA%A6%E6%9D%A1%E5%B7%B2%E8%BE%BE99%25&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [老人寻亲被发现是31年前命案逃犯](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E5%AF%BB%E4%BA%B2%E8%A2%AB%E5%8F%91%E7%8E%B0%E6%98%AF31%E5%B9%B4%E5%89%8D%E5%91%BD%E6%A1%88%E9%80%83%E7%8A%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [中国排名CNN2023世界美食榜第二](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%8E%92%E5%90%8DCNN2023%E4%B8%96%E7%95%8C%E7%BE%8E%E9%A3%9F%E6%A6%9C%E7%AC%AC%E4%BA%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [广西烧烤竹签长1米8](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E7%83%A7%E7%83%A4%E7%AB%B9%E7%AD%BE%E9%95%BF1%E7%B1%B38&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [迷信985211房号 家长别给商家递刀子](https://www.baidu.com/s?wd=%E8%BF%B7%E4%BF%A1985211%E6%88%BF%E5%8F%B7+%E5%AE%B6%E9%95%BF%E5%88%AB%E7%BB%99%E5%95%86%E5%AE%B6%E9%80%92%E5%88%80%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [夫妻离婚都不愿养娃法院判不许离](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E7%A6%BB%E5%A9%9A%E9%83%BD%E4%B8%8D%E6%84%BF%E5%85%BB%E5%A8%83%E6%B3%95%E9%99%A2%E5%88%A4%E4%B8%8D%E8%AE%B8%E7%A6%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
