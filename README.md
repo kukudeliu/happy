@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 21:27:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 21:28:02</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [专家谈鸭脖争议：大概率是老鼠头](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E8%B0%88%E9%B8%AD%E8%84%96%E4%BA%89%E8%AE%AE%EF%BC%9A%E5%A4%A7%E6%A6%82%E7%8E%87%E6%98%AF%E8%80%81%E9%BC%A0%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [2023年第一个弄丢证件的考生出现了](https://www.baidu.com/s?wd=2023%E5%B9%B4%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%BC%84%E4%B8%A2%E8%AF%81%E4%BB%B6%E7%9A%84%E8%80%83%E7%94%9F%E5%87%BA%E7%8E%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [广东明确停课不停考](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E6%98%8E%E7%A1%AE%E5%81%9C%E8%AF%BE%E4%B8%8D%E5%81%9C%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [俄媒：卡霍夫卡大坝已坍塌近半](https://www.baidu.com/s?wd=%E4%BF%84%E5%AA%92%EF%BC%9A%E5%8D%A1%E9%9C%8D%E5%A4%AB%E5%8D%A1%E5%A4%A7%E5%9D%9D%E5%B7%B2%E5%9D%8D%E5%A1%8C%E8%BF%91%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子因家庭纠纷跳河 妻子施救身亡](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9B%A0%E5%AE%B6%E5%BA%AD%E7%BA%A0%E7%BA%B7%E8%B7%B3%E6%B2%B3+%E5%A6%BB%E5%AD%90%E6%96%BD%E6%95%91%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子因家庭纠纷跳河 妻子施救身亡](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9B%A0%E5%AE%B6%E5%BA%AD%E7%BA%A0%E7%BA%B7%E8%B7%B3%E6%B2%B3+%E5%A6%BB%E5%AD%90%E6%96%BD%E6%95%91%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [俄媒：卡霍夫卡大坝已坍塌近半](https://www.baidu.com/s?wd=%E4%BF%84%E5%AA%92%EF%BC%9A%E5%8D%A1%E9%9C%8D%E5%A4%AB%E5%8D%A1%E5%A4%A7%E5%9D%9D%E5%B7%B2%E5%9D%8D%E5%A1%8C%E8%BF%91%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [专家谈鸭脖争议：大概率是老鼠头](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E8%B0%88%E9%B8%AD%E8%84%96%E4%BA%89%E8%AE%AE%EF%BC%9A%E5%A4%A7%E6%A6%82%E7%8E%87%E6%98%AF%E8%80%81%E9%BC%A0%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [2023年第一个弄丢证件的考生出现了](https://www.baidu.com/s?wd=2023%E5%B9%B4%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%BC%84%E4%B8%A2%E8%AF%81%E4%BB%B6%E7%9A%84%E8%80%83%E7%94%9F%E5%87%BA%E7%8E%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [广东明确停课不停考](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E6%98%8E%E7%A1%AE%E5%81%9C%E8%AF%BE%E4%B8%8D%E5%81%9C%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [俄媒：卡霍夫卡大坝已坍塌近半](https://www.baidu.com/s?wd=%E4%BF%84%E5%AA%92%EF%BC%9A%E5%8D%A1%E9%9C%8D%E5%A4%AB%E5%8D%A1%E5%A4%A7%E5%9D%9D%E5%B7%B2%E5%9D%8D%E5%A1%8C%E8%BF%91%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子因家庭纠纷跳河 妻子施救身亡](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9B%A0%E5%AE%B6%E5%BA%AD%E7%BA%A0%E7%BA%B7%E8%B7%B3%E6%B2%B3+%E5%A6%BB%E5%AD%90%E6%96%BD%E6%95%91%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子因家庭纠纷跳河 妻子施救身亡](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9B%A0%E5%AE%B6%E5%BA%AD%E7%BA%A0%E7%BA%B7%E8%B7%B3%E6%B2%B3+%E5%A6%BB%E5%AD%90%E6%96%BD%E6%95%91%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [俄媒：卡霍夫卡大坝已坍塌近半](https://www.baidu.com/s?wd=%E4%BF%84%E5%AA%92%EF%BC%9A%E5%8D%A1%E9%9C%8D%E5%A4%AB%E5%8D%A1%E5%A4%A7%E5%9D%9D%E5%B7%B2%E5%9D%8D%E5%A1%8C%E8%BF%91%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
