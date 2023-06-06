@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 09:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 09:54:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [明天高考](https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%A4%A9%E9%AB%98%E8%80%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [吴倩 退赛](https://s.weibo.com/weibo?q=%E5%90%B4%E5%80%A9%20%E9%80%80%E8%B5%9B&t=31&band_rank=7&Refer=top)<br />
 8. [业主购42套房全部打通墙体](https://s.weibo.com/weibo?q=%23%E4%B8%9A%E4%B8%BB%E8%B4%AD42%E5%A5%97%E6%88%BF%E5%85%A8%E9%83%A8%E6%89%93%E9%80%9A%E5%A2%99%E4%BD%93%23&t=31&band_rank=8&Refer=top)<br />
-9. [不用再说HeySiri了](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E7%94%A8%E5%86%8D%E8%AF%B4HeySiri%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [在欧洲千万不要轻易蹲地上](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E6%AC%A7%E6%B4%B2%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E8%BD%BB%E6%98%93%E8%B9%B2%E5%9C%B0%E4%B8%8A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -21,7 +21,7 @@
 5. [曝 AC 米兰解雇马尔蒂尼，因管理层与资方有重大分歧，如何看待这样的决定？](https://www.zhihu.com/question/605015881)<br />
 6. [你通过打游戏学到的最有用的东西是什么？](https://www.zhihu.com/question/596914550)<br />
 7. []()<br />
-8. []()<br />
+8. [同样是中原王朝南迁，为什么南宋能延续一个半世纪之久，而南明却只坚持了十几年？](https://www.zhihu.com/question/21135490)<br />
 9. [矩阵中，为什么 AB＝AC 时，当 A 可逆时，B＝C？](https://www.zhihu.com/question/594440726)<br />
 
 > 百度  
@@ -34,7 +34,7 @@
 6. [媒体：长牙的鸭脖令人如鲠在喉](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E9%95%BF%E7%89%99%E7%9A%84%E9%B8%AD%E8%84%96%E4%BB%A4%E4%BA%BA%E5%A6%82%E9%B2%A0%E5%9C%A8%E5%96%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [广西烧烤竹签长1米8](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E7%83%A7%E7%83%A4%E7%AB%B9%E7%AD%BE%E9%95%BF1%E7%B1%B38&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [3个留家孩子见下雨合力抢收麦子](https://www.baidu.com/s?wd=3%E4%B8%AA%E7%95%99%E5%AE%B6%E5%AD%A9%E5%AD%90%E8%A7%81%E4%B8%8B%E9%9B%A8%E5%90%88%E5%8A%9B%E6%8A%A2%E6%94%B6%E9%BA%A6%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [洪都拉斯总统称将访华](https://www.baidu.com/s?wd=%E6%B4%AA%E9%83%BD%E6%8B%89%E6%96%AF%E6%80%BB%E7%BB%9F%E7%A7%B0%E5%B0%86%E8%AE%BF%E5%8D%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [迷信985211房号 家长别给商家递刀子](https://www.baidu.com/s?wd=%E8%BF%B7%E4%BF%A1985211%E6%88%BF%E5%8F%B7+%E5%AE%B6%E9%95%BF%E5%88%AB%E7%BB%99%E5%95%86%E5%AE%B6%E9%80%92%E5%88%80%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [媒体：长牙的鸭脖令人如鲠在喉](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E9%95%BF%E7%89%99%E7%9A%84%E9%B8%AD%E8%84%96%E4%BB%A4%E4%BA%BA%E5%A6%82%E9%B2%A0%E5%9C%A8%E5%96%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [广西烧烤竹签长1米8](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E7%83%A7%E7%83%A4%E7%AB%B9%E7%AD%BE%E9%95%BF1%E7%B1%B38&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [3个留家孩子见下雨合力抢收麦子](https://www.baidu.com/s?wd=3%E4%B8%AA%E7%95%99%E5%AE%B6%E5%AD%A9%E5%AD%90%E8%A7%81%E4%B8%8B%E9%9B%A8%E5%90%88%E5%8A%9B%E6%8A%A2%E6%94%B6%E9%BA%A6%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [洪都拉斯总统称将访华](https://www.baidu.com/s?wd=%E6%B4%AA%E9%83%BD%E6%8B%89%E6%96%AF%E6%80%BB%E7%BB%9F%E7%A7%B0%E5%B0%86%E8%AE%BF%E5%8D%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [迷信985211房号 家长别给商家递刀子](https://www.baidu.com/s?wd=%E8%BF%B7%E4%BF%A1985211%E6%88%BF%E5%8F%B7+%E5%AE%B6%E9%95%BF%E5%88%AB%E7%BB%99%E5%95%86%E5%AE%B6%E9%80%92%E5%88%80%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
