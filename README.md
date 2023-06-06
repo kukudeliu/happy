@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 17:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 17:20:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [业主壕购 42 套公寓，欲将墙体全部打通，楼上住宅现裂痕住户心慌，相关部门已责令停工，如何看待此事？](https://www.zhihu.com/question/605035212)<br />
 7. []()<br />
 8. [狗狗真的能听懂人话吗?](https://www.zhihu.com/question/603864621)<br />
-9. [猫猫竖起尾巴在主人身上蹭是为什么？](https://www.zhihu.com/question/577816691)<br />
+9. [内存和处理器，哪个是影响电脑运行速度的核心因素?](https://www.zhihu.com/question/604440801)<br />
 
 > 百度  
 
