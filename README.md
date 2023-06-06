@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 23:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 23:37:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [北京发现两例猴痘病例](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%8F%91%E7%8E%B0%E4%B8%A4%E4%BE%8B%E7%8C%B4%E7%97%98%E7%97%85%E4%BE%8B%23&t=31&band_rank=4&Refer=top)<br />
 5. [杭州姑娘20元刮刮乐刮中百万](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%A7%91%E5%A8%9820%E5%85%83%E5%88%AE%E5%88%AE%E4%B9%90%E5%88%AE%E4%B8%AD%E7%99%BE%E4%B8%87%23&t=31&band_rank=5&Refer=top)<br />
 6. [猴痘](https://s.weibo.com/weibo?q=%E7%8C%B4%E7%97%98&t=31&band_rank=6&Refer=top)<br />
-7. [乌克兰大坝被炸](https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%85%8B%E5%85%B0%E5%A4%A7%E5%9D%9D%E8%A2%AB%E7%82%B8%23&t=31&band_rank=7&Refer=top)<br />
-8. [弟弟一眼认出流浪乞讨人员是亲哥](https://s.weibo.com/weibo?q=%23%E5%BC%9F%E5%BC%9F%E4%B8%80%E7%9C%BC%E8%AE%A4%E5%87%BA%E6%B5%81%E6%B5%AA%E4%B9%9E%E8%AE%A8%E4%BA%BA%E5%91%98%E6%98%AF%E4%BA%B2%E5%93%A5%23&t=31&band_rank=8&Refer=top)<br />
+7. [弟弟一眼认出流浪乞讨人员是亲哥](https://s.weibo.com/weibo?q=%23%E5%BC%9F%E5%BC%9F%E4%B8%80%E7%9C%BC%E8%AE%A4%E5%87%BA%E6%B5%81%E6%B5%AA%E4%B9%9E%E8%AE%A8%E4%BA%BA%E5%91%98%E6%98%AF%E4%BA%B2%E5%93%A5%23&t=31&band_rank=7&Refer=top)<br />
+8. [乌克兰大坝被炸](https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%85%8B%E5%85%B0%E5%A4%A7%E5%9D%9D%E8%A2%AB%E7%82%B8%23&t=31&band_rank=8&Refer=top)<br />
 9. [高考加油](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E5%8A%A0%E6%B2%B9&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -21,8 +21,8 @@
 5. [1291 万高考生即将奔赴考场，你认为 2023 年高考与往年相比最值得关注的变化是什么？](https://www.zhihu.com/question/605100302)<br />
 6. [珠峰攀登者放弃登顶花费 10000 美元救起濒死女子，获救者只愿承担四成费用，如何评价这一行为？](https://www.zhihu.com/question/604852845)<br />
 7. [2023 年高考数学还会继续难吗?](https://www.zhihu.com/question/540430079)<br />
-8. [小猫知道自己在别人眼中有多可爱吗？](https://www.zhihu.com/question/271875206)<br />
-9. []()<br />
+8. []()<br />
+9. [小猫知道自己在别人眼中有多可爱吗？](https://www.zhihu.com/question/271875206)<br />
 
 > 百度  
 
