@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 12:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 12:52:01</h4></div>
 
 > 微博  
 
@@ -16,8 +16,8 @@
 
 1. [美前情报官员称「俄新型雷达卫星将改变俄乌冲突进程，乌将打不动这场仗」，如何评价俄新发射的雷达卫星？](https://www.zhihu.com/question/604952577)<br />
 2. [如何看待珠峰攀登者为救遇险女子放弃登顶，被救女子只愿承担 4 成救援费？](https://www.zhihu.com/question/604842993)<br />
-3. [玄幻小说中，主角最后为什么不把所有自己会的功法武技整合一下公布全世界?](https://www.zhihu.com/question/604749818)<br />
-4. [年轻人熬夜会导致老年痴呆吗？](https://www.zhihu.com/question/427249533)<br />
+3. [年轻人熬夜会导致老年痴呆吗？](https://www.zhihu.com/question/427249533)<br />
+4. [玄幻小说中，主角最后为什么不把所有自己会的功法武技整合一下公布全世界?](https://www.zhihu.com/question/604749818)<br />
 5. [想象两个超能力，一个是看起来很强其实很废，一个是看起来很废其实很强，你的想法是什么？](https://www.zhihu.com/question/603689171)<br />
 6. [现在插混车，真的是「有电一条龙，没电一条虫」吗？](https://www.zhihu.com/question/604920502)<br />
 7. [如果男朋友是个在学校风评很低的人， 身边人都让我和他保持距离怎么办？](https://www.zhihu.com/question/604255099)<br />
