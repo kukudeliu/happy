@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 21:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 22:00:01</h4></div>
 
 > 微博  
 
@@ -32,9 +32,9 @@
 4. [候鸟迁飞舞动命运与共](https://www.baidu.com/s?wd=%E5%80%99%E9%B8%9F%E8%BF%81%E9%A3%9E%E8%88%9E%E5%8A%A8%E5%91%BD%E8%BF%90%E4%B8%8E%E5%85%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [专家谈鸭脖争议：大概率是老鼠头](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E8%B0%88%E9%B8%AD%E8%84%96%E4%BA%89%E8%AE%AE%EF%BC%9A%E5%A4%A7%E6%A6%82%E7%8E%87%E6%98%AF%E8%80%81%E9%BC%A0%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [2023年第一个弄丢证件的考生出现了](https://www.baidu.com/s?wd=2023%E5%B9%B4%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%BC%84%E4%B8%A2%E8%AF%81%E4%BB%B6%E7%9A%84%E8%80%83%E7%94%9F%E5%87%BA%E7%8E%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [网红直播喝酒去世：儿子哭着找爸爸](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E7%9B%B4%E6%92%AD%E5%96%9D%E9%85%92%E5%8E%BB%E4%B8%96%EF%BC%9A%E5%84%BF%E5%AD%90%E5%93%AD%E7%9D%80%E6%89%BE%E7%88%B8%E7%88%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [学生：鼠头鸭脖涉事窗口仍营业](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%EF%BC%9A%E9%BC%A0%E5%A4%B4%E9%B8%AD%E8%84%96%E6%B6%89%E4%BA%8B%E7%AA%97%E5%8F%A3%E4%BB%8D%E8%90%A5%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [11岁男孩开电动车失控撞死3岁男童](https://www.baidu.com/s?wd=11%E5%B2%81%E7%94%B7%E5%AD%A9%E5%BC%80%E7%94%B5%E5%8A%A8%E8%BD%A6%E5%A4%B1%E6%8E%A7%E6%92%9E%E6%AD%BB3%E5%B2%81%E7%94%B7%E7%AB%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [11岁男孩开电动车失控撞死3岁男童](https://www.baidu.com/s?wd=11%E5%B2%81%E7%94%B7%E5%AD%A9%E5%BC%80%E7%94%B5%E5%8A%A8%E8%BD%A6%E5%A4%B1%E6%8E%A7%E6%92%9E%E6%AD%BB3%E5%B2%81%E7%94%B7%E7%AB%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [网红直播喝酒去世：儿子哭着找爸爸](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E7%9B%B4%E6%92%AD%E5%96%9D%E9%85%92%E5%8E%BB%E4%B8%96%EF%BC%9A%E5%84%BF%E5%AD%90%E5%93%AD%E7%9D%80%E6%89%BE%E7%88%B8%E7%88%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [学生：鼠头鸭脖涉事窗口仍营业](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%EF%BC%9A%E9%BC%A0%E5%A4%B4%E9%B8%AD%E8%84%96%E6%B6%89%E4%BA%8B%E7%AA%97%E5%8F%A3%E4%BB%8D%E8%90%A5%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [候鸟迁飞舞动命运与共](https://www.baidu.com/s?wd=%E5%80%99%E9%B8%9F%E8%BF%81%E9%A3%9E%E8%88%9E%E5%8A%A8%E5%91%BD%E8%BF%90%E4%B8%8E%E5%85%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [专家谈鸭脖争议：大概率是老鼠头](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E8%B0%88%E9%B8%AD%E8%84%96%E4%BA%89%E8%AE%AE%EF%BC%9A%E5%A4%A7%E6%A6%82%E7%8E%87%E6%98%AF%E8%80%81%E9%BC%A0%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [2023年第一个弄丢证件的考生出现了](https://www.baidu.com/s?wd=2023%E5%B9%B4%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%BC%84%E4%B8%A2%E8%AF%81%E4%BB%B6%E7%9A%84%E8%80%83%E7%94%9F%E5%87%BA%E7%8E%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [网红直播喝酒去世：儿子哭着找爸爸](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E7%9B%B4%E6%92%AD%E5%96%9D%E9%85%92%E5%8E%BB%E4%B8%96%EF%BC%9A%E5%84%BF%E5%AD%90%E5%93%AD%E7%9D%80%E6%89%BE%E7%88%B8%E7%88%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [学生：鼠头鸭脖涉事窗口仍营业](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%EF%BC%9A%E9%BC%A0%E5%A4%B4%E9%B8%AD%E8%84%96%E6%B6%89%E4%BA%8B%E7%AA%97%E5%8F%A3%E4%BB%8D%E8%90%A5%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [11岁男孩开电动车失控撞死3岁男童](https://www.baidu.com/s?wd=11%E5%B2%81%E7%94%B7%E5%AD%A9%E5%BC%80%E7%94%B5%E5%8A%A8%E8%BD%A6%E5%A4%B1%E6%8E%A7%E6%92%9E%E6%AD%BB3%E5%B2%81%E7%94%B7%E7%AB%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [11岁男孩开电动车失控撞死3岁男童](https://www.baidu.com/s?wd=11%E5%B2%81%E7%94%B7%E5%AD%A9%E5%BC%80%E7%94%B5%E5%8A%A8%E8%BD%A6%E5%A4%B1%E6%8E%A7%E6%92%9E%E6%AD%BB3%E5%B2%81%E7%94%B7%E7%AB%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [网红直播喝酒去世：儿子哭着找爸爸](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E7%9B%B4%E6%92%AD%E5%96%9D%E9%85%92%E5%8E%BB%E4%B8%96%EF%BC%9A%E5%84%BF%E5%AD%90%E5%93%AD%E7%9D%80%E6%89%BE%E7%88%B8%E7%88%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [学生：鼠头鸭脖涉事窗口仍营业](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%EF%BC%9A%E9%BC%A0%E5%A4%B4%E9%B8%AD%E8%84%96%E6%B6%89%E4%BA%8B%E7%AA%97%E5%8F%A3%E4%BB%8D%E8%90%A5%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
