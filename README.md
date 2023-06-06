@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 00:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 00:05:01</h4></div>
 
 > 微博  
 
@@ -6,10 +6,10 @@
 2. [人体最大的器官是什么](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E4%BD%93%E6%9C%80%E5%A4%A7%E7%9A%84%E5%99%A8%E5%AE%98%E6%98%AF%E4%BB%80%E4%B9%88%23&t=31&band_rank=2&Refer=top)<br />
 3. [一起为2023高考生加油](https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%B5%B7%E4%B8%BA2023%E9%AB%98%E8%80%83%E7%94%9F%E5%8A%A0%E6%B2%B9%23&t=31&band_rank=3&Refer=top)<br />
 4. [梦回王俊凯用易烊千玺读秒](https://s.weibo.com/weibo?q=%23%E6%A2%A6%E5%9B%9E%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%94%A8%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%AF%BB%E7%A7%92%23&t=31&band_rank=4&Refer=top)<br />
-5. [杭州姑娘20元刮刮乐刮中百万](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%A7%91%E5%A8%9820%E5%85%83%E5%88%AE%E5%88%AE%E4%B9%90%E5%88%AE%E4%B8%AD%E7%99%BE%E4%B8%87%23&t=31&band_rank=5&Refer=top)<br />
+5. [弟弟一眼认出流浪乞讨人员是亲哥](https://s.weibo.com/weibo?q=%23%E5%BC%9F%E5%BC%9F%E4%B8%80%E7%9C%BC%E8%AE%A4%E5%87%BA%E6%B5%81%E6%B5%AA%E4%B9%9E%E8%AE%A8%E4%BA%BA%E5%91%98%E6%98%AF%E4%BA%B2%E5%93%A5%23&t=31&band_rank=5&Refer=top)<br />
 6. [猴痘](https://s.weibo.com/weibo?q=%E7%8C%B4%E7%97%98&t=31&band_rank=6&Refer=top)<br />
-7. [北京发现两例猴痘病例](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%8F%91%E7%8E%B0%E4%B8%A4%E4%BE%8B%E7%8C%B4%E7%97%98%E7%97%85%E4%BE%8B%23&t=31&band_rank=7&Refer=top)<br />
-8. [弟弟一眼认出流浪乞讨人员是亲哥](https://s.weibo.com/weibo?q=%23%E5%BC%9F%E5%BC%9F%E4%B8%80%E7%9C%BC%E8%AE%A4%E5%87%BA%E6%B5%81%E6%B5%AA%E4%B9%9E%E8%AE%A8%E4%BA%BA%E5%91%98%E6%98%AF%E4%BA%B2%E5%93%A5%23&t=31&band_rank=8&Refer=top)<br />
+7. [杭州姑娘20元刮刮乐刮中百万](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%A7%91%E5%A8%9820%E5%85%83%E5%88%AE%E5%88%AE%E4%B9%90%E5%88%AE%E4%B8%AD%E7%99%BE%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
+8. [北京发现两例猴痘病例](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%8F%91%E7%8E%B0%E4%B8%A4%E4%BE%8B%E7%8C%B4%E7%97%98%E7%97%85%E4%BE%8B%23&t=31&band_rank=8&Refer=top)<br />
 9. [虞书欣工作人员的手机壳](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E7%9A%84%E6%89%8B%E6%9C%BA%E5%A3%B3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
