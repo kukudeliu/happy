@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 18:13:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 18:14:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [男子驾车连撞9人逃跑 目前已落网](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%A9%BE%E8%BD%A6%E8%BF%9E%E6%92%9E9%E4%BA%BA%E9%80%83%E8%B7%91+%E7%9B%AE%E5%89%8D%E5%B7%B2%E8%90%BD%E7%BD%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [5亿身家高中生坠亡 尸检报告公布](https://www.baidu.com/s?wd=5%E4%BA%BF%E8%BA%AB%E5%AE%B6%E9%AB%98%E4%B8%AD%E7%94%9F%E5%9D%A0%E4%BA%A1+%E5%B0%B8%E6%A3%80%E6%8A%A5%E5%91%8A%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [专家谈鸭脖争议：大概率是老鼠头](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E8%B0%88%E9%B8%AD%E8%84%96%E4%BA%89%E8%AE%AE%EF%BC%9A%E5%A4%A7%E6%A6%82%E7%8E%87%E6%98%AF%E8%80%81%E9%BC%A0%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [宝妈因孩子吃了同学生日蛋糕发飙](https://www.baidu.com/s?wd=%E5%AE%9D%E5%A6%88%E5%9B%A0%E5%AD%A9%E5%AD%90%E5%90%83%E4%BA%86%E5%90%8C%E5%AD%A6%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95%E5%8F%91%E9%A3%99&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [鼠头受害股出现 绝味鸭脖股价下跌](https://www.baidu.com/s?wd=%E9%BC%A0%E5%A4%B4%E5%8F%97%E5%AE%B3%E8%82%A1%E5%87%BA%E7%8E%B0+%E7%BB%9D%E5%91%B3%E9%B8%AD%E8%84%96%E8%82%A1%E4%BB%B7%E4%B8%8B%E8%B7%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [鼠头受害股出现 绝味鸭脖股价下跌](https://www.baidu.com/s?wd=%E9%BC%A0%E5%A4%B4%E5%8F%97%E5%AE%B3%E8%82%A1%E5%87%BA%E7%8E%B0+%E7%BB%9D%E5%91%B3%E9%B8%AD%E8%84%96%E8%82%A1%E4%BB%B7%E4%B8%8B%E8%B7%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [记者被打涉事派出所拟申一级派出所](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E8%A2%AB%E6%89%93%E6%B6%89%E4%BA%8B%E6%B4%BE%E5%87%BA%E6%89%80%E6%8B%9F%E7%94%B3%E4%B8%80%E7%BA%A7%E6%B4%BE%E5%87%BA%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [男子驾车连撞9人逃跑 目前已落网](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%A9%BE%E8%BD%A6%E8%BF%9E%E6%92%9E9%E4%BA%BA%E9%80%83%E8%B7%91+%E7%9B%AE%E5%89%8D%E5%B7%B2%E8%90%BD%E7%BD%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [5亿身家高中生坠亡 尸检报告公布](https://www.baidu.com/s?wd=5%E4%BA%BF%E8%BA%AB%E5%AE%B6%E9%AB%98%E4%B8%AD%E7%94%9F%E5%9D%A0%E4%BA%A1+%E5%B0%B8%E6%A3%80%E6%8A%A5%E5%91%8A%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [专家谈鸭脖争议：大概率是老鼠头](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E8%B0%88%E9%B8%AD%E8%84%96%E4%BA%89%E8%AE%AE%EF%BC%9A%E5%A4%A7%E6%A6%82%E7%8E%87%E6%98%AF%E8%80%81%E9%BC%A0%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [宝妈因孩子吃了同学生日蛋糕发飙](https://www.baidu.com/s?wd=%E5%AE%9D%E5%A6%88%E5%9B%A0%E5%AD%A9%E5%AD%90%E5%90%83%E4%BA%86%E5%90%8C%E5%AD%A6%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95%E5%8F%91%E9%A3%99&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [鼠头受害股出现 绝味鸭脖股价下跌](https://www.baidu.com/s?wd=%E9%BC%A0%E5%A4%B4%E5%8F%97%E5%AE%B3%E8%82%A1%E5%87%BA%E7%8E%B0+%E7%BB%9D%E5%91%B3%E9%B8%AD%E8%84%96%E8%82%A1%E4%BB%B7%E4%B8%8B%E8%B7%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [鼠头受害股出现 绝味鸭脖股价下跌](https://www.baidu.com/s?wd=%E9%BC%A0%E5%A4%B4%E5%8F%97%E5%AE%B3%E8%82%A1%E5%87%BA%E7%8E%B0+%E7%BB%9D%E5%91%B3%E9%B8%AD%E8%84%96%E8%82%A1%E4%BB%B7%E4%B8%8B%E8%B7%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [记者被打涉事派出所拟申一级派出所](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E8%A2%AB%E6%89%93%E6%B6%89%E4%BA%8B%E6%B4%BE%E5%87%BA%E6%89%80%E6%8B%9F%E7%94%B3%E4%B8%80%E7%BA%A7%E6%B4%BE%E5%87%BA%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
