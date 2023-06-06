@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 04:25:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 04:26:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [很难忘记周深的高考祝福](https://s.weibo.com/weibo?q=%23%E5%BE%88%E9%9A%BE%E5%BF%98%E8%AE%B0%E5%91%A8%E6%B7%B1%E7%9A%84%E9%AB%98%E8%80%83%E7%A5%9D%E7%A6%8F%23&t=31&band_rank=6&Refer=top)<br />
 7. [鼠头受害股](https://s.weibo.com/weibo?q=%E9%BC%A0%E5%A4%B4%E5%8F%97%E5%AE%B3%E8%82%A1&t=31&band_rank=7&Refer=top)<br />
 8. [梦回王俊凯用易烊千玺读秒](https://s.weibo.com/weibo?q=%23%E6%A2%A6%E5%9B%9E%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%94%A8%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%AF%BB%E7%A7%92%23&t=31&band_rank=8&Refer=top)<br />
-9. [虞书欣工作人员的手机壳](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E7%9A%84%E6%89%8B%E6%9C%BA%E5%A3%B3%23&t=31&band_rank=9&Refer=top)<br />
+9. [大熊猫萌兰吃窝头突然定了十几秒](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E8%90%8C%E5%85%B0%E5%90%83%E7%AA%9D%E5%A4%B4%E7%AA%81%E7%84%B6%E5%AE%9A%E4%BA%86%E5%8D%81%E5%87%A0%E7%A7%92%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
