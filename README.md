@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 10:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 10:56:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [汤晶媚竟然上过乘风破浪的姐姐第二季](https://s.weibo.com/weibo?q=%23%E6%B1%A4%E6%99%B6%E5%AA%9A%E7%AB%9F%E7%84%B6%E4%B8%8A%E8%BF%87%E4%B9%98%E9%A3%8E%E7%A0%B4%E6%B5%AA%E7%9A%84%E5%A7%90%E5%A7%90%E7%AC%AC%E4%BA%8C%E5%AD%A3%23&t=31&band_rank=5&Refer=top)<br />
 6. [明天高考](https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%A4%A9%E9%AB%98%E8%80%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [吴倩镜头少原因](https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%80%A9%E9%95%9C%E5%A4%B4%E5%B0%91%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=7&Refer=top)<br />
-8. [在欧洲千万不要轻易蹲地上](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E6%AC%A7%E6%B4%B2%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E8%BD%BB%E6%98%93%E8%B9%B2%E5%9C%B0%E4%B8%8A%23&t=31&band_rank=8&Refer=top)<br />
+8. [高考倒计时](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%80%92%E8%AE%A1%E6%97%B6%23&t=31&band_rank=8&Refer=top)<br />
 9. [吴倩 退赛](https://s.weibo.com/weibo?q=%E5%90%B4%E5%80%A9%20%E9%80%80%E8%B5%9B&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -22,7 +22,7 @@
 6. [美前情报官员称「俄新型雷达卫星将改变俄乌冲突进程，乌将打不动这场仗」，如何评价俄新发射的雷达卫星？](https://www.zhihu.com/question/604952577)<br />
 7. [铁了心想考公务员，给些建议，怎么准备？](https://www.zhihu.com/question/474808569)<br />
 8. [玄幻小说中，主角最后为什么不把所有自己会的功法武技整合一下公布全世界?](https://www.zhihu.com/question/604749818)<br />
-9. [财政部表示，中央对地方转移支付预算正按规定抓紧下达，整体来看我国财政状况健康、安全，哪些信息值得关注？](https://www.zhihu.com/question/604877884)<br />
+9. [轿车的重量与安全性到底有没有关系?](https://www.zhihu.com/question/604187029)<br />
 
 > 百度  
 
