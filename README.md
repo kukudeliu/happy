@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 09:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 09:20:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [吴倩 退赛](https://s.weibo.com/weibo?q=%E5%90%B4%E5%80%A9%20%E9%80%80%E8%B5%9B&t=31&band_rank=5&Refer=top)<br />
 6. [3499美元的苹果头显值得买吗](https://s.weibo.com/weibo?q=%233499%E7%BE%8E%E5%85%83%E7%9A%84%E8%8B%B9%E6%9E%9C%E5%A4%B4%E6%98%BE%E5%80%BC%E5%BE%97%E4%B9%B0%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [明天高考](https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%A4%A9%E9%AB%98%E8%80%83%23&t=31&band_rank=7&Refer=top)<br />
-8. [苹果发布会](https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=8&Refer=top)<br />
-9. [空姐未讲日语被日本女子辱骂](https://s.weibo.com/weibo?q=%23%E7%A9%BA%E5%A7%90%E6%9C%AA%E8%AE%B2%E6%97%A5%E8%AF%AD%E8%A2%AB%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%AD%90%E8%BE%B1%E9%AA%82%23&t=31&band_rank=9&Refer=top)<br />
+8. [空姐未讲日语被日本女子辱骂](https://s.weibo.com/weibo?q=%23%E7%A9%BA%E5%A7%90%E6%9C%AA%E8%AE%B2%E6%97%A5%E8%AF%AD%E8%A2%AB%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%AD%90%E8%BE%B1%E9%AA%82%23&t=31&band_rank=8&Refer=top)<br />
+9. [苹果发布会](https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
