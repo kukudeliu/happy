@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 18:45:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 18:46:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [四大顶级舞担](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%A4%A7%E9%A1%B6%E7%BA%A7%E8%88%9E%E6%8B%85%23&t=31&band_rank=6&Refer=top)<br />
 7. [电梯突发故障丈夫下意识护妻儿](https://s.weibo.com/weibo?q=%23%E7%94%B5%E6%A2%AF%E7%AA%81%E5%8F%91%E6%95%85%E9%9A%9C%E4%B8%88%E5%A4%AB%E4%B8%8B%E6%84%8F%E8%AF%86%E6%8A%A4%E5%A6%BB%E5%84%BF%23&t=31&band_rank=7&Refer=top)<br />
 8. [车银优肿么了](https://s.weibo.com/weibo?q=%23%E8%BD%A6%E9%93%B6%E4%BC%98%E8%82%BF%E4%B9%88%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [宋轶现身医院抽血采样](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%BD%B6%E7%8E%B0%E8%BA%AB%E5%8C%BB%E9%99%A2%E6%8A%BD%E8%A1%80%E9%87%87%E6%A0%B7%23&t=31&band_rank=9&Refer=top)<br />
+9. [蔡徐坤 回归跑男](https://s.weibo.com/weibo?q=%E8%94%A1%E5%BE%90%E5%9D%A4%20%E5%9B%9E%E5%BD%92%E8%B7%91%E7%94%B7&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
