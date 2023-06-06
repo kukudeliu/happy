@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 18:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 18:07:01</h4></div>
 
 > 微博  
 
-1. [绝味鸭脖股价下跌](https://s.weibo.com/weibo?q=%23%E7%BB%9D%E5%91%B3%E9%B8%AD%E8%84%96%E8%82%A1%E4%BB%B7%E4%B8%8B%E8%B7%8C%23&t=31&band_rank=1&Refer=top)<br />
-2. [弟弟一眼认出流浪乞讨人员是亲哥](https://s.weibo.com/weibo?q=%23%E5%BC%9F%E5%BC%9F%E4%B8%80%E7%9C%BC%E8%AE%A4%E5%87%BA%E6%B5%81%E6%B5%AA%E4%B9%9E%E8%AE%A8%E4%BA%BA%E5%91%98%E6%98%AF%E4%BA%B2%E5%93%A5%23&t=31&band_rank=2&Refer=top)<br />
+1. [弟弟一眼认出流浪乞讨人员是亲哥](https://s.weibo.com/weibo?q=%23%E5%BC%9F%E5%BC%9F%E4%B8%80%E7%9C%BC%E8%AE%A4%E5%87%BA%E6%B5%81%E6%B5%AA%E4%B9%9E%E8%AE%A8%E4%BA%BA%E5%91%98%E6%98%AF%E4%BA%B2%E5%93%A5%23&t=31&band_rank=1&Refer=top)<br />
+2. [绝味鸭脖股价下跌](https://s.weibo.com/weibo?q=%23%E7%BB%9D%E5%91%B3%E9%B8%AD%E8%84%96%E8%82%A1%E4%BB%B7%E4%B8%8B%E8%B7%8C%23&t=31&band_rank=2&Refer=top)<br />
 3. [祝考生们大胜归来](https://s.weibo.com/weibo?q=%23%E7%A5%9D%E8%80%83%E7%94%9F%E4%BB%AC%E5%A4%A7%E8%83%9C%E5%BD%92%E6%9D%A5%23&t=31&band_rank=3&Refer=top)<br />
 4. [宋轶现身医院抽血采样](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%BD%B6%E7%8E%B0%E8%BA%AB%E5%8C%BB%E9%99%A2%E6%8A%BD%E8%A1%80%E9%87%87%E6%A0%B7%23&t=31&band_rank=4&Refer=top)<br />
 5. [原来丫丫有一张微笑脸](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%B8%AB%E4%B8%AB%E6%9C%89%E4%B8%80%E5%BC%A0%E5%BE%AE%E7%AC%91%E8%84%B8%23&t=31&band_rank=5&Refer=top)<br />
@@ -20,9 +20,9 @@
 4. [如何评价《暗黑破坏神 4》?](https://www.zhihu.com/question/353664383)<br />
 5. []()<br />
 6. [业主壕购 42 套公寓，欲将墙体全部打通，楼上住宅现裂痕住户心慌，相关部门已责令停工，如何看待此事？](https://www.zhihu.com/question/605035212)<br />
-7. []()<br />
-8. []()<br />
-9. [内存和处理器，哪个是影响电脑运行速度的核心因素?](https://www.zhihu.com/question/604440801)<br />
+7. [为什么男朋友愿意给我买 8 千的手机，不愿意让我买 5 千的包包？](https://www.zhihu.com/question/603599168)<br />
+8. [内存和处理器，哪个是影响电脑运行速度的核心因素?](https://www.zhihu.com/question/604440801)<br />
+9. []()<br />
 
 > 百度  
 
