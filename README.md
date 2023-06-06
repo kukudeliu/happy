@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 18:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 18:31:02</h4></div>
 
 > 微博  
 
@@ -21,7 +21,7 @@
 5. [如何评价原神的《世界探索体验调研问卷》？](https://www.zhihu.com/question/604478566)<br />
 6. [业主壕购 42 套公寓，欲将墙体全部打通，楼上住宅现裂痕住户心慌，相关部门已责令停工，如何看待此事？](https://www.zhihu.com/question/605035212)<br />
 7. [内存和处理器，哪个是影响电脑运行速度的核心因素?](https://www.zhihu.com/question/604440801)<br />
-8. [如何评价 vivo S 系列在人像拍照上的探索，最近的 vivo S17 系列值得在 618 入手吗？](https://www.zhihu.com/question/605040010)<br />
+8. [56 岁「考王」梁实第 27 次参加高考，称「目标重点本科 ，希望是最后一次」，他有哪些精神值得学习？](https://www.zhihu.com/question/604886385)<br />
 9. [高考前最后一天，考生应该做好哪些准备？](https://www.zhihu.com/question/605048866)<br />
 
 > 百度  
