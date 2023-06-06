@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 16:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 16:37:01</h4></div>
 
 > 微博  
 
-1. [宝妈因孩子吃了同学生日蛋糕发飙](https://s.weibo.com/weibo?q=%23%E5%AE%9D%E5%A6%88%E5%9B%A0%E5%AD%A9%E5%AD%90%E5%90%83%E4%BA%86%E5%90%8C%E5%AD%A6%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95%E5%8F%91%E9%A3%99%23&t=31&band_rank=1&Refer=top)<br />
-2. [黑犬酱就老公被叫河童回应](https://s.weibo.com/weibo?q=%23%E9%BB%91%E7%8A%AC%E9%85%B1%E5%B0%B1%E8%80%81%E5%85%AC%E8%A2%AB%E5%8F%AB%E6%B2%B3%E7%AB%A5%E5%9B%9E%E5%BA%94%23&t=31&band_rank=2&Refer=top)<br />
+1. [黑犬酱就老公被叫河童回应](https://s.weibo.com/weibo?q=%23%E9%BB%91%E7%8A%AC%E9%85%B1%E5%B0%B1%E8%80%81%E5%85%AC%E8%A2%AB%E5%8F%AB%E6%B2%B3%E7%AB%A5%E5%9B%9E%E5%BA%94%23&t=31&band_rank=1&Refer=top)<br />
+2. [宝妈因孩子吃了同学生日蛋糕发飙](https://s.weibo.com/weibo?q=%23%E5%AE%9D%E5%A6%88%E5%9B%A0%E5%AD%A9%E5%AD%90%E5%90%83%E4%BA%86%E5%90%8C%E5%AD%A6%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95%E5%8F%91%E9%A3%99%23&t=31&band_rank=2&Refer=top)<br />
 3. [祝考生们大胜归来](https://s.weibo.com/weibo?q=%23%E7%A5%9D%E8%80%83%E7%94%9F%E4%BB%AC%E5%A4%A7%E8%83%9C%E5%BD%92%E6%9D%A5%23&t=31&band_rank=3&Refer=top)<br />
 4. [车银优肿么了](https://s.weibo.com/weibo?q=%23%E8%BD%A6%E9%93%B6%E4%BC%98%E8%82%BF%E4%B9%88%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [鲍蕾晒花絮力证没给贝儿P腿](https://s.weibo.com/weibo?q=%23%E9%B2%8D%E8%95%BE%E6%99%92%E8%8A%B1%E7%B5%AE%E5%8A%9B%E8%AF%81%E6%B2%A1%E7%BB%99%E8%B4%9D%E5%84%BFP%E8%85%BF%23&t=31&band_rank=5&Refer=top)<br />
