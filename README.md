@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 13:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 13:20:01</h4></div>
 
 > 微博  
 
@@ -19,8 +19,8 @@
 3. [想象两个超能力，一个是看起来很强其实很废，一个是看起来很废其实很强，你的想法是什么？](https://www.zhihu.com/question/603689171)<br />
 4. [为什么蜘蛛侠从一开始的从身体射蛛丝变成了合成蛛丝？](https://www.zhihu.com/question/372266242)<br />
 5. [如果男朋友是个在学校风评很低的人， 身边人都让我和他保持距离怎么办？](https://www.zhihu.com/question/604255099)<br />
-6. [现在插混车，真的是「有电一条龙，没电一条虫」吗？](https://www.zhihu.com/question/604920502)<br />
-7. [有什么关于高考的信息差？](https://www.zhihu.com/question/603935198)<br />
+6. [有什么关于高考的信息差？](https://www.zhihu.com/question/603935198)<br />
+7. [现在插混车，真的是「有电一条龙，没电一条虫」吗？](https://www.zhihu.com/question/604920502)<br />
 8. [洪都拉斯总统将于 6 月 9 日访华，系中洪建交后首次，具有何意义？](https://www.zhihu.com/question/605017623)<br />
 9. [公司聚餐你要点菜时，领导说你不够格，你该怎么回答？](https://www.zhihu.com/question/604650772)<br />
 
