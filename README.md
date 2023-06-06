@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 14:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 14:31:01</h4></div>
 
 > 微博  
 
-1. [26岁网红直播喝酒后去世](https://s.weibo.com/weibo?q=%2326%E5%B2%81%E7%BD%91%E7%BA%A2%E7%9B%B4%E6%92%AD%E5%96%9D%E9%85%92%E5%90%8E%E5%8E%BB%E4%B8%96%23&t=31&band_rank=1&Refer=top)<br />
-2. [宝妈因孩子吃了同学生日蛋糕发飙](https://s.weibo.com/weibo?q=%E5%AE%9D%E5%A6%88%E5%9B%A0%E5%AD%A9%E5%AD%90%E5%90%83%E4%BA%86%E5%90%8C%E5%AD%A6%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95%E5%8F%91%E9%A3%99&t=31&band_rank=2&Refer=top)<br />
+1. [宝妈因孩子吃了同学生日蛋糕发飙](https://s.weibo.com/weibo?q=%E5%AE%9D%E5%A6%88%E5%9B%A0%E5%AD%A9%E5%AD%90%E5%90%83%E4%BA%86%E5%90%8C%E5%AD%A6%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95%E5%8F%91%E9%A3%99&t=31&band_rank=1&Refer=top)<br />
+2. [26岁网红直播喝酒后去世](https://s.weibo.com/weibo?q=%2326%E5%B2%81%E7%BD%91%E7%BA%A2%E7%9B%B4%E6%92%AD%E5%96%9D%E9%85%92%E5%90%8E%E5%8E%BB%E4%B8%96%23&t=31&band_rank=2&Refer=top)<br />
 3. [芒种至农事忙](https://s.weibo.com/weibo?q=%23%E8%8A%92%E7%A7%8D%E8%87%B3%E5%86%9C%E4%BA%8B%E5%BF%99%23&t=31&band_rank=3&Refer=top)<br />
 4. [李健丁克的原因](https://s.weibo.com/weibo?q=%E6%9D%8E%E5%81%A5%E4%B8%81%E5%85%8B%E7%9A%84%E5%8E%9F%E5%9B%A0&t=31&band_rank=4&Refer=top)<br />
 5. [黑犬酱就老公被叫河童回应](https://s.weibo.com/weibo?q=%23%E9%BB%91%E7%8A%AC%E9%85%B1%E5%B0%B1%E8%80%81%E5%85%AC%E8%A2%AB%E5%8F%AB%E6%B2%B3%E7%AB%A5%E5%9B%9E%E5%BA%94%23&t=31&band_rank=5&Refer=top)<br />
@@ -19,9 +19,9 @@
 3. [有哪些流芳一世的经典车型？](https://www.zhihu.com/question/337800865)<br />
 4. [《塞尔达传说：王国之泪》主创团队平均年龄 55 岁，他们通过什么机制了解年轻用户需求的？](https://www.zhihu.com/question/604825694)<br />
 5. [公司聚餐你要点菜时，领导说你不够格，你该怎么回答？](https://www.zhihu.com/question/604650772)<br />
-6. [为什么蜘蛛侠从一开始的从身体射蛛丝变成了合成蛛丝？](https://www.zhihu.com/question/372266242)<br />
-7. [搞科研需要舍弃什么?](https://www.zhihu.com/question/478613645)<br />
-8. [中美外交官员在北京举行会谈，中方就台湾等重大原则问题阐明严正立场，具有哪些重要意义？](https://www.zhihu.com/question/605018467)<br />
+6. [搞科研需要舍弃什么?](https://www.zhihu.com/question/478613645)<br />
+7. [中美外交官员在北京举行会谈，中方就台湾等重大原则问题阐明严正立场，具有哪些重要意义？](https://www.zhihu.com/question/605018467)<br />
+8. [为什么蜘蛛侠从一开始的从身体射蛛丝变成了合成蛛丝？](https://www.zhihu.com/question/372266242)<br />
 9. [男士机械表有哪些比较推荐的品牌？](https://www.zhihu.com/question/602523504)<br />
 
 > 百度  
