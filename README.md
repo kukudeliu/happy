@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 07:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 07:56:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [6年前忘带准考证受助考生成交警新同事](https://s.weibo.com/weibo?q=%236%E5%B9%B4%E5%89%8D%E5%BF%98%E5%B8%A6%E5%87%86%E8%80%83%E8%AF%81%E5%8F%97%E5%8A%A9%E8%80%83%E7%94%9F%E6%88%90%E4%BA%A4%E8%AD%A6%E6%96%B0%E5%90%8C%E4%BA%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [娜扎方否认高考596分](https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8E%E6%96%B9%E5%90%A6%E8%AE%A4%E9%AB%98%E8%80%83596%E5%88%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [人体最大的器官是什么](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E4%BD%93%E6%9C%80%E5%A4%A7%E7%9A%84%E5%99%A8%E5%AE%98%E6%98%AF%E4%BB%80%E4%B9%88%23&t=31&band_rank=8&Refer=top)<br />
-9. [梦回王俊凯用易烊千玺读秒](https://s.weibo.com/weibo?q=%23%E6%A2%A6%E5%9B%9E%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%94%A8%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%AF%BB%E7%A7%92%23&t=31&band_rank=9&Refer=top)<br />
+9. [今年高考生17年才刚小学毕业](https://s.weibo.com/weibo?q=%E4%BB%8A%E5%B9%B4%E9%AB%98%E8%80%83%E7%94%9F17%E5%B9%B4%E6%89%8D%E5%88%9A%E5%B0%8F%E5%AD%A6%E6%AF%95%E4%B8%9A&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
