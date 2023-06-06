@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 11:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-06 11:37:01</h4></div>
 
 > 微博  
 
@@ -19,8 +19,8 @@
 3. [美前情报官员称「俄新型雷达卫星将改变俄乌冲突进程，乌将打不动这场仗」，如何评价俄新发射的雷达卫星？](https://www.zhihu.com/question/604952577)<br />
 4. [如何看待短视频十二年给文化、生活与商业带来的改变？未来会怎么发展？](https://www.zhihu.com/question/604927786)<br />
 5. [玄幻小说中，主角最后为什么不把所有自己会的功法武技整合一下公布全世界?](https://www.zhihu.com/question/604749818)<br />
-6. [轿车的重量与安全性到底有没有关系?](https://www.zhihu.com/question/604187029)<br />
-7. [想象两个超能力，一个是看起来很强其实很废，一个是看起来很废其实很强，你的想法是什么？](https://www.zhihu.com/question/603689171)<br />
+6. [想象两个超能力，一个是看起来很强其实很废，一个是看起来很废其实很强，你的想法是什么？](https://www.zhihu.com/question/603689171)<br />
+7. [轿车的重量与安全性到底有没有关系?](https://www.zhihu.com/question/604187029)<br />
 8. [马上就要高考了，大家有什么建议吗？](https://www.zhihu.com/question/604744944)<br />
 9. [年轻人熬夜会导致老年痴呆吗？](https://www.zhihu.com/question/427249533)<br />
 
