@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 04:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 04:39:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [人体最大的器官是什么](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E4%BD%93%E6%9C%80%E5%A4%A7%E7%9A%84%E5%99%A8%E5%AE%98%E6%98%AF%E4%BB%80%E4%B9%88%23&t=31&band_rank=5&Refer=top)<br />
 6. [很难忘记周深的高考祝福](https://s.weibo.com/weibo?q=%23%E5%BE%88%E9%9A%BE%E5%BF%98%E8%AE%B0%E5%91%A8%E6%B7%B1%E7%9A%84%E9%AB%98%E8%80%83%E7%A5%9D%E7%A6%8F%23&t=31&band_rank=6&Refer=top)<br />
 7. [大熊猫萌兰吃窝头突然定了十几秒](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E8%90%8C%E5%85%B0%E5%90%83%E7%AA%9D%E5%A4%B4%E7%AA%81%E7%84%B6%E5%AE%9A%E4%BA%86%E5%8D%81%E5%87%A0%E7%A7%92%23&t=31&band_rank=7&Refer=top)<br />
-8. [梦回王俊凯用易烊千玺读秒](https://s.weibo.com/weibo?q=%23%E6%A2%A6%E5%9B%9E%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%94%A8%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%AF%BB%E7%A7%92%23&t=31&band_rank=8&Refer=top)<br />
-9. [鼠头受害股](https://s.weibo.com/weibo?q=%E9%BC%A0%E5%A4%B4%E5%8F%97%E5%AE%B3%E8%82%A1&t=31&band_rank=9&Refer=top)<br />
+8. [00后打零工攒3千给爷爷装空调](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E6%89%93%E9%9B%B6%E5%B7%A5%E6%94%923%E5%8D%83%E7%BB%99%E7%88%B7%E7%88%B7%E8%A3%85%E7%A9%BA%E8%B0%83%23&t=31&band_rank=8&Refer=top)<br />
+9. [梦回王俊凯用易烊千玺读秒](https://s.weibo.com/weibo?q=%23%E6%A2%A6%E5%9B%9E%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%94%A8%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%AF%BB%E7%A7%92%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -32,9 +32,9 @@
 4. [候鸟迁飞舞动命运与共](https://www.baidu.com/s?wd=%E5%80%99%E9%B8%9F%E8%BF%81%E9%A3%9E%E8%88%9E%E5%8A%A8%E5%91%BD%E8%BF%90%E4%B8%8E%E5%85%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中国中等收入群体超4亿人 标准曝光](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%B8%AD%E7%AD%89%E6%94%B6%E5%85%A5%E7%BE%A4%E4%BD%93%E8%B6%854%E4%BA%BF%E4%BA%BA+%E6%A0%87%E5%87%86%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [5亿身家高中生坠亡 尸检报告公布](https://www.baidu.com/s?wd=5%E4%BA%BF%E8%BA%AB%E5%AE%B6%E9%AB%98%E4%B8%AD%E7%94%9F%E5%9D%A0%E4%BA%A1+%E5%B0%B8%E6%A3%80%E6%8A%A5%E5%91%8A%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [广东明确停课不停考](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E6%98%8E%E7%A1%AE%E5%81%9C%E8%AF%BE%E4%B8%8D%E5%81%9C%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [伴娘堵门要红包被伴郎连人带门踹飞](https://www.baidu.com/s?wd=%E4%BC%B4%E5%A8%98%E5%A0%B5%E9%97%A8%E8%A6%81%E7%BA%A2%E5%8C%85%E8%A2%AB%E4%BC%B4%E9%83%8E%E8%BF%9E%E4%BA%BA%E5%B8%A6%E9%97%A8%E8%B8%B9%E9%A3%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [苹果市值蒸发6000亿](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%916000%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [伴娘堵门要红包被伴郎连人带门踹飞](https://www.baidu.com/s?wd=%E4%BC%B4%E5%A8%98%E5%A0%B5%E9%97%A8%E8%A6%81%E7%BA%A2%E5%8C%85%E8%A2%AB%E4%BC%B4%E9%83%8E%E8%BF%9E%E4%BA%BA%E5%B8%A6%E9%97%A8%E8%B8%B9%E9%A3%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [苹果市值蒸发6000亿](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%916000%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [广东明确停课不停考](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E6%98%8E%E7%A1%AE%E5%81%9C%E8%AF%BE%E4%B8%8D%E5%81%9C%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [候鸟迁飞舞动命运与共](https://www.baidu.com/s?wd=%E5%80%99%E9%B8%9F%E8%BF%81%E9%A3%9E%E8%88%9E%E5%8A%A8%E5%91%BD%E8%BF%90%E4%B8%8E%E5%85%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中国中等收入群体超4亿人 标准曝光](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%B8%AD%E7%AD%89%E6%94%B6%E5%85%A5%E7%BE%A4%E4%BD%93%E8%B6%854%E4%BA%BF%E4%BA%BA+%E6%A0%87%E5%87%86%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [5亿身家高中生坠亡 尸检报告公布](https://www.baidu.com/s?wd=5%E4%BA%BF%E8%BA%AB%E5%AE%B6%E9%AB%98%E4%B8%AD%E7%94%9F%E5%9D%A0%E4%BA%A1+%E5%B0%B8%E6%A3%80%E6%8A%A5%E5%91%8A%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [广东明确停课不停考](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E6%98%8E%E7%A1%AE%E5%81%9C%E8%AF%BE%E4%B8%8D%E5%81%9C%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [伴娘堵门要红包被伴郎连人带门踹飞](https://www.baidu.com/s?wd=%E4%BC%B4%E5%A8%98%E5%A0%B5%E9%97%A8%E8%A6%81%E7%BA%A2%E5%8C%85%E8%A2%AB%E4%BC%B4%E9%83%8E%E8%BF%9E%E4%BA%BA%E5%B8%A6%E9%97%A8%E8%B8%B9%E9%A3%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [苹果市值蒸发6000亿](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%916000%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [伴娘堵门要红包被伴郎连人带门踹飞](https://www.baidu.com/s?wd=%E4%BC%B4%E5%A8%98%E5%A0%B5%E9%97%A8%E8%A6%81%E7%BA%A2%E5%8C%85%E8%A2%AB%E4%BC%B4%E9%83%8E%E8%BF%9E%E4%BA%BA%E5%B8%A6%E9%97%A8%E8%B8%B9%E9%A3%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [苹果市值蒸发6000亿](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%916000%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [广东明确停课不停考](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E6%98%8E%E7%A1%AE%E5%81%9C%E8%AF%BE%E4%B8%8D%E5%81%9C%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
