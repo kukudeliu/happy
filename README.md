@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 04:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 04:12:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [与国企领导逛街女子手提包疑为奢侈品](https://s.weibo.com/weibo?q=%23%E4%B8%8E%E5%9B%BD%E4%BC%81%E9%A2%86%E5%AF%BC%E9%80%9B%E8%A1%97%E5%A5%B3%E5%AD%90%E6%89%8B%E6%8F%90%E5%8C%85%E7%96%91%E4%B8%BA%E5%A5%A2%E4%BE%88%E5%93%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [梅西决定加盟迈阿密国际](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E5%86%B3%E5%AE%9A%E5%8A%A0%E7%9B%9F%E8%BF%88%E9%98%BF%E5%AF%86%E5%9B%BD%E9%99%85%23&t=31&band_rank=7&Refer=top)<br />
 8. [贾玲为了新角色要减重100斤](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E4%B8%BA%E4%BA%86%E6%96%B0%E8%A7%92%E8%89%B2%E8%A6%81%E5%87%8F%E9%87%8D100%E6%96%A4%23&t=31&band_rank=8&Refer=top)<br />
-9. [粉丝齐喊China抗议主持人涉港台不当言论](https://s.weibo.com/weibo?q=%23%E7%B2%89%E4%B8%9D%E9%BD%90%E5%96%8AChina%E6%8A%97%E8%AE%AE%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%B6%89%E6%B8%AF%E5%8F%B0%E4%B8%8D%E5%BD%93%E8%A8%80%E8%AE%BA%23&t=31&band_rank=9&Refer=top)<br />
+9. [张艺兴工作室再回应](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%86%8D%E5%9B%9E%E5%BA%94%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
