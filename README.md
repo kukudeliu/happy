@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 10:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 10:27:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [梁文博终身禁赛](https://s.weibo.com/weibo?q=%23%E6%A2%81%E6%96%87%E5%8D%9A%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B%23&t=31&band_rank=4&Refer=top)<br />
 5. [高考作文预测](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%E9%A2%84%E6%B5%8B%23&t=31&band_rank=5&Refer=top)<br />
 6. [2023年高考第一个丢准考证的同学](https://s.weibo.com/weibo?q=%232023%E5%B9%B4%E9%AB%98%E8%80%83%E7%AC%AC%E4%B8%80%E4%B8%AA%E4%B8%A2%E5%87%86%E8%80%83%E8%AF%81%E7%9A%84%E5%90%8C%E5%AD%A6%23&t=31&band_rank=6&Refer=top)<br />
-7. [保送男生穿旗袍为高考同学加油](https://s.weibo.com/weibo?q=%23%E4%BF%9D%E9%80%81%E7%94%B7%E7%94%9F%E7%A9%BF%E6%97%97%E8%A2%8D%E4%B8%BA%E9%AB%98%E8%80%83%E5%90%8C%E5%AD%A6%E5%8A%A0%E6%B2%B9%23&t=31&band_rank=7&Refer=top)<br />
-8. [今年高考生17年才刚小学毕业](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E9%AB%98%E8%80%83%E7%94%9F17%E5%B9%B4%E6%89%8D%E5%88%9A%E5%B0%8F%E5%AD%A6%E6%AF%95%E4%B8%9A%23&t=31&band_rank=8&Refer=top)<br />
+7. [今年高考生17年才刚小学毕业](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E9%AB%98%E8%80%83%E7%94%9F17%E5%B9%B4%E6%89%8D%E5%88%9A%E5%B0%8F%E5%AD%A6%E6%AF%95%E4%B8%9A%23&t=31&band_rank=7&Refer=top)<br />
+8. [保送男生穿旗袍为高考同学加油](https://s.weibo.com/weibo?q=%23%E4%BF%9D%E9%80%81%E7%94%B7%E7%94%9F%E7%A9%BF%E6%97%97%E8%A2%8D%E4%B8%BA%E9%AB%98%E8%80%83%E5%90%8C%E5%AD%A6%E5%8A%A0%E6%B2%B9%23&t=31&band_rank=8&Refer=top)<br />
 9. [一公司称花2千万可和蔡徐坤吃饭](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%85%AC%E5%8F%B8%E7%A7%B0%E8%8A%B12%E5%8D%83%E4%B8%87%E5%8F%AF%E5%92%8C%E8%94%A1%E5%BE%90%E5%9D%A4%E5%90%83%E9%A5%AD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -19,8 +19,8 @@
 3. [马克龙反对北约在日本设立办事处，称「管好北大西洋地区，否则将犯下大错误」，如何解读？后续将如何发展？](https://www.zhihu.com/question/605033420)<br />
 4. [上汽大众新能源车碰撞后起火 4 人遇难，具体情况如何？为什么起火速度这么快？](https://www.zhihu.com/question/604916015)<br />
 5. [1291 万高考生奔赴考场，你认为 2023 年高考与往年相比最值得关注的变化是什么？](https://www.zhihu.com/question/605100302)<br />
-6. [为什么我觉得数学才是最不讲逻辑的学科？](https://www.zhihu.com/question/603637246)<br />
-7. [珠峰救援者呼吁「不要网暴被救女子」，出于哪些考虑？](https://www.zhihu.com/question/605020694)<br />
+6. [珠峰救援者呼吁「不要网暴被救女子」，出于哪些考虑？](https://www.zhihu.com/question/605020694)<br />
+7. [为什么我觉得数学才是最不讲逻辑的学科？](https://www.zhihu.com/question/603637246)<br />
 8. [即将推出的 16T 固态盘是否意味着机械盘将要退出消费级市场？](https://www.zhihu.com/question/604750109)<br />
 9. [梅西转会新进展优先考虑巴萨报价，梅西父亲称「梅西想回巴萨，我也希望他回来」，你认为梅西会回到巴萨吗？](https://www.zhihu.com/question/604958538)<br />
 
@@ -34,7 +34,7 @@
 6. [保送男生穿旗袍为高考同学加油](https://www.baidu.com/s?wd=%E4%BF%9D%E9%80%81%E7%94%B7%E7%94%9F%E7%A9%BF%E6%97%97%E8%A2%8D%E4%B8%BA%E9%AB%98%E8%80%83%E5%90%8C%E5%AD%A6%E5%8A%A0%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [高校鼠头涉事窗口几乎没人去吃饭](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E9%BC%A0%E5%A4%B4%E6%B6%89%E4%BA%8B%E7%AA%97%E5%8F%A3%E5%87%A0%E4%B9%8E%E6%B2%A1%E4%BA%BA%E5%8E%BB%E5%90%83%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [开考前大妈在考点发复读广告](https://www.baidu.com/s?wd=%E5%BC%80%E8%80%83%E5%89%8D%E5%A4%A7%E5%A6%88%E5%9C%A8%E8%80%83%E7%82%B9%E5%8F%91%E5%A4%8D%E8%AF%BB%E5%B9%BF%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [一公司称花2千万可和蔡徐坤吃饭](https://www.baidu.com/s?wd=%E4%B8%80%E5%85%AC%E5%8F%B8%E7%A7%B0%E8%8A%B12%E5%8D%83%E4%B8%87%E5%8F%AF%E5%92%8C%E8%94%A1%E5%BE%90%E5%9D%A4%E5%90%83%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [央视网追问地面沉降3000人离家后续](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E7%BD%91%E8%BF%BD%E9%97%AE%E5%9C%B0%E9%9D%A2%E6%B2%89%E9%99%8D3000%E4%BA%BA%E7%A6%BB%E5%AE%B6%E5%90%8E%E7%BB%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [保送男生穿旗袍为高考同学加油](https://www.baidu.com/s?wd=%E4%BF%9D%E9%80%81%E7%94%B7%E7%94%9F%E7%A9%BF%E6%97%97%E8%A2%8D%E4%B8%BA%E9%AB%98%E8%80%83%E5%90%8C%E5%AD%A6%E5%8A%A0%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [高校鼠头涉事窗口几乎没人去吃饭](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E9%BC%A0%E5%A4%B4%E6%B6%89%E4%BA%8B%E7%AA%97%E5%8F%A3%E5%87%A0%E4%B9%8E%E6%B2%A1%E4%BA%BA%E5%8E%BB%E5%90%83%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [开考前大妈在考点发复读广告](https://www.baidu.com/s?wd=%E5%BC%80%E8%80%83%E5%89%8D%E5%A4%A7%E5%A6%88%E5%9C%A8%E8%80%83%E7%82%B9%E5%8F%91%E5%A4%8D%E8%AF%BB%E5%B9%BF%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [一公司称花2千万可和蔡徐坤吃饭](https://www.baidu.com/s?wd=%E4%B8%80%E5%85%AC%E5%8F%B8%E7%A7%B0%E8%8A%B12%E5%8D%83%E4%B8%87%E5%8F%AF%E5%92%8C%E8%94%A1%E5%BE%90%E5%9D%A4%E5%90%83%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [央视网追问地面沉降3000人离家后续](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E7%BD%91%E8%BF%BD%E9%97%AE%E5%9C%B0%E9%9D%A2%E6%B2%89%E9%99%8D3000%E4%BA%BA%E7%A6%BB%E5%AE%B6%E5%90%8E%E7%BB%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
