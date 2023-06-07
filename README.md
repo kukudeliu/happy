@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 20:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 20:09:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [贾玲为了新角色要减重100斤](https://www.baidu.com/s?wd=%E8%B4%BE%E7%8E%B2%E4%B8%BA%E4%BA%86%E6%96%B0%E8%A7%92%E8%89%B2%E8%A6%81%E5%87%8F%E9%87%8D100%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [哥哥拿弟弟身份证高考8点45分才发现](https://www.baidu.com/s?wd=%E5%93%A5%E5%93%A5%E6%8B%BF%E5%BC%9F%E5%BC%9F%E8%BA%AB%E4%BB%BD%E8%AF%81%E9%AB%98%E8%80%838%E7%82%B945%E5%88%86%E6%89%8D%E5%8F%91%E7%8E%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [母亲坚持1948天给高考儿子写信](https://www.baidu.com/s?wd=%E6%AF%8D%E4%BA%B2%E5%9D%9A%E6%8C%811948%E5%A4%A9%E7%BB%99%E9%AB%98%E8%80%83%E5%84%BF%E5%AD%90%E5%86%99%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [山河令制片人马韬去世](https://www.baidu.com/s?wd=%E5%B1%B1%E6%B2%B3%E4%BB%A4%E5%88%B6%E7%89%87%E4%BA%BA%E9%A9%AC%E9%9F%AC%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [上海男子开车闯红灯与3车碰撞 致1死](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E7%94%B7%E5%AD%90%E5%BC%80%E8%BD%A6%E9%97%AF%E7%BA%A2%E7%81%AF%E4%B8%8E3%E8%BD%A6%E7%A2%B0%E6%92%9E+%E8%87%B41%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [贾玲为了新角色要减重100斤](https://www.baidu.com/s?wd=%E8%B4%BE%E7%8E%B2%E4%B8%BA%E4%BA%86%E6%96%B0%E8%A7%92%E8%89%B2%E8%A6%81%E5%87%8F%E9%87%8D100%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [哥哥拿弟弟身份证高考8点45分才发现](https://www.baidu.com/s?wd=%E5%93%A5%E5%93%A5%E6%8B%BF%E5%BC%9F%E5%BC%9F%E8%BA%AB%E4%BB%BD%E8%AF%81%E9%AB%98%E8%80%838%E7%82%B945%E5%88%86%E6%89%8D%E5%8F%91%E7%8E%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [母亲坚持1948天给高考儿子写信](https://www.baidu.com/s?wd=%E6%AF%8D%E4%BA%B2%E5%9D%9A%E6%8C%811948%E5%A4%A9%E7%BB%99%E9%AB%98%E8%80%83%E5%84%BF%E5%AD%90%E5%86%99%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [山河令制片人马韬去世](https://www.baidu.com/s?wd=%E5%B1%B1%E6%B2%B3%E4%BB%A4%E5%88%B6%E7%89%87%E4%BA%BA%E9%A9%AC%E9%9F%AC%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [上海男子开车闯红灯与3车碰撞 致1死](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E7%94%B7%E5%AD%90%E5%BC%80%E8%BD%A6%E9%97%AF%E7%BA%A2%E7%81%AF%E4%B8%8E3%E8%BD%A6%E7%A2%B0%E6%92%9E+%E8%87%B41%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
