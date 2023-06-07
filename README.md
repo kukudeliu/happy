@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 05:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 05:58:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [2023 高考数学题难度如何？哪道题让人印象深刻？](https://www.zhihu.com/question/605281198)<br />
 7. []()<br />
 8. [如何看待 Apple Vision Pro 发布后，苹果股价不涨反跌？](https://www.zhihu.com/question/604993519)<br />
-9. [怎么文艺地说生日快乐？](https://www.zhihu.com/question/38686146)<br />
+9. [如果考研能重来一次，你会做出什么改变？](https://www.zhihu.com/question/458823146)<br />
 
 > 百度  
 
