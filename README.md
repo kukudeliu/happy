@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 14:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 14:52:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [林俊杰巡演下半年场次官宣](https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%B7%A1%E6%BC%94%E4%B8%8B%E5%8D%8A%E5%B9%B4%E5%9C%BA%E6%AC%A1%E5%AE%98%E5%AE%A3%23&t=31&band_rank=6&Refer=top)<br />
 7. [这声985谁听了不迷糊](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%A3%B0985%E8%B0%81%E5%90%AC%E4%BA%86%E4%B8%8D%E8%BF%B7%E7%B3%8A%23&t=31&band_rank=7&Refer=top)<br />
 8. [高考作文](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87&t=31&band_rank=8&Refer=top)<br />
-9. [Angelababy 蒂芙尼](https://s.weibo.com/weibo?q=%23Angelababy%20%E8%92%82%E8%8A%99%E5%B0%BC%23&t=31&band_rank=9&Refer=top)<br />
+9. [高考防作弊磁弹枪亮相考点现场](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E9%98%B2%E4%BD%9C%E5%BC%8A%E7%A3%81%E5%BC%B9%E6%9E%AA%E4%BA%AE%E7%9B%B8%E8%80%83%E7%82%B9%E7%8E%B0%E5%9C%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [杭州某酒店婚宴七成为预制， 六千元酒席配货不超 1500 元，蒸蒸摆盘就上桌，预制菜进入婚宴合理吗？](https://www.zhihu.com/question/604884736)<br />
 7. [世界银行上调中国 2023 年经济增速预期至 5.6%，释放了哪些信号？](https://www.zhihu.com/question/605183325)<br />
 8. [我不想和男朋友一起用公积金买房是自私吗？](https://www.zhihu.com/question/600695811)<br />
-9. [多地网约车市场进入饱和期，日均订单量十余单，有司机空车率达 50%，相关许可被暂停，透露哪些信息？](https://www.zhihu.com/question/605110954)<br />
+9. [男子驾驶面包车在长沙连撞 9 人，肇事后弃车逃跑，目前已落网，如何看待此事？司机需承担哪些法律责任？](https://www.zhihu.com/question/605101070)<br />
 
 > 百度  
 
