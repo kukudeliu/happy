@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 08:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 08:09:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [娜扎方否认高考596分](https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8E%E6%96%B9%E5%90%A6%E8%AE%A4%E9%AB%98%E8%80%83596%E5%88%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [今年高考生17年才刚小学毕业](https://s.weibo.com/weibo?q=%E4%BB%8A%E5%B9%B4%E9%AB%98%E8%80%83%E7%94%9F17%E5%B9%B4%E6%89%8D%E5%88%9A%E5%B0%8F%E5%AD%A6%E6%AF%95%E4%B8%9A&t=31&band_rank=6&Refer=top)<br />
 7. [人体最大的器官是什么](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E4%BD%93%E6%9C%80%E5%A4%A7%E7%9A%84%E5%99%A8%E5%AE%98%E6%98%AF%E4%BB%80%E4%B9%88%23&t=31&band_rank=7&Refer=top)<br />
-8. [辅导员自费给全班买咖啡抽中电车](https://s.weibo.com/weibo?q=%23%E8%BE%85%E5%AF%BC%E5%91%98%E8%87%AA%E8%B4%B9%E7%BB%99%E5%85%A8%E7%8F%AD%E4%B9%B0%E5%92%96%E5%95%A1%E6%8A%BD%E4%B8%AD%E7%94%B5%E8%BD%A6%23&t=31&band_rank=8&Refer=top)<br />
-9. [叶国华已被移出群聊](https://s.weibo.com/weibo?q=%23%E5%8F%B6%E5%9B%BD%E5%8D%8E%E5%B7%B2%E8%A2%AB%E7%A7%BB%E5%87%BA%E7%BE%A4%E8%81%8A%23&t=31&band_rank=9&Refer=top)<br />
+8. [叶国华已被移出群聊](https://s.weibo.com/weibo?q=%23%E5%8F%B6%E5%9B%BD%E5%8D%8E%E5%B7%B2%E8%A2%AB%E7%A7%BB%E5%87%BA%E7%BE%A4%E8%81%8A%23&t=31&band_rank=8&Refer=top)<br />
+9. [辅导员自费给全班买咖啡抽中电车](https://s.weibo.com/weibo?q=%23%E8%BE%85%E5%AF%BC%E5%91%98%E8%87%AA%E8%B4%B9%E7%BB%99%E5%85%A8%E7%8F%AD%E4%B9%B0%E5%92%96%E5%95%A1%E6%8A%BD%E4%B8%AD%E7%94%B5%E8%BD%A6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -34,7 +34,7 @@
 6. [梁文博被终身禁赛](https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E5%8D%9A%E8%A2%AB%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [好日子！高考日期谐音是录取吧](https://www.baidu.com/s?wd=%E5%A5%BD%E6%97%A5%E5%AD%90%EF%BC%81%E9%AB%98%E8%80%83%E6%97%A5%E6%9C%9F%E8%B0%90%E9%9F%B3%E6%98%AF%E5%BD%95%E5%8F%96%E5%90%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [6年前忘带准考证考生成交警新同事](https://www.baidu.com/s?wd=6%E5%B9%B4%E5%89%8D%E5%BF%98%E5%B8%A6%E5%87%86%E8%80%83%E8%AF%81%E8%80%83%E7%94%9F%E6%88%90%E4%BA%A4%E8%AD%A6%E6%96%B0%E5%90%8C%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [四川考生摸985车牌沾好运](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E8%80%83%E7%94%9F%E6%91%B8985%E8%BD%A6%E7%89%8C%E6%B2%BE%E5%A5%BD%E8%BF%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [一到高考就下雨，究竟是不是错觉？](https://www.baidu.com/s?wd=%E4%B8%80%E5%88%B0%E9%AB%98%E8%80%83%E5%B0%B1%E4%B8%8B%E9%9B%A8%EF%BC%8C%E7%A9%B6%E7%AB%9F%E6%98%AF%E4%B8%8D%E6%98%AF%E9%94%99%E8%A7%89%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [梁文博被终身禁赛](https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E5%8D%9A%E8%A2%AB%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [好日子！高考日期谐音是录取吧](https://www.baidu.com/s?wd=%E5%A5%BD%E6%97%A5%E5%AD%90%EF%BC%81%E9%AB%98%E8%80%83%E6%97%A5%E6%9C%9F%E8%B0%90%E9%9F%B3%E6%98%AF%E5%BD%95%E5%8F%96%E5%90%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [6年前忘带准考证考生成交警新同事](https://www.baidu.com/s?wd=6%E5%B9%B4%E5%89%8D%E5%BF%98%E5%B8%A6%E5%87%86%E8%80%83%E8%AF%81%E8%80%83%E7%94%9F%E6%88%90%E4%BA%A4%E8%AD%A6%E6%96%B0%E5%90%8C%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [四川考生摸985车牌沾好运](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E8%80%83%E7%94%9F%E6%91%B8985%E8%BD%A6%E7%89%8C%E6%B2%BE%E5%A5%BD%E8%BF%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [一到高考就下雨，究竟是不是错觉？](https://www.baidu.com/s?wd=%E4%B8%80%E5%88%B0%E9%AB%98%E8%80%83%E5%B0%B1%E4%B8%8B%E9%9B%A8%EF%BC%8C%E7%A9%B6%E7%AB%9F%E6%98%AF%E4%B8%8D%E6%98%AF%E9%94%99%E8%A7%89%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
