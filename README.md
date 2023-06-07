@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 17:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 17:05:01</h4></div>
 
 > 微博  
 
@@ -6,9 +6,9 @@
 2. [山河令制片人马韬去世](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E6%B2%B3%E4%BB%A4%E5%88%B6%E7%89%87%E4%BA%BA%E9%A9%AC%E9%9F%AC%E5%8E%BB%E4%B8%96%23&t=31&band_rank=2&Refer=top)<br />
 3. [硬核黑科技助力高考](https://s.weibo.com/weibo?q=%23%E7%A1%AC%E6%A0%B8%E9%BB%91%E7%A7%91%E6%8A%80%E5%8A%A9%E5%8A%9B%E9%AB%98%E8%80%83%23&t=31&band_rank=3&Refer=top)<br />
 4. [马思纯瘦了30斤](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%80%9D%E7%BA%AF%E7%98%A6%E4%BA%8630%E6%96%A4%23&t=31&band_rank=4&Refer=top)<br />
-5. [任嘉伦押中高考作文题](https://s.weibo.com/weibo?q=%23%E4%BB%BB%E5%98%89%E4%BC%A6%E6%8A%BC%E4%B8%AD%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%E9%A2%98%23&t=31&band_rank=5&Refer=top)<br />
+5. [高考完了不用去打暑期工](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E5%AE%8C%E4%BA%86%E4%B8%8D%E7%94%A8%E5%8E%BB%E6%89%93%E6%9A%91%E6%9C%9F%E5%B7%A5&t=31&band_rank=5&Refer=top)<br />
 6. [国企负责人与异性牵手逛街被拍](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BC%81%E8%B4%9F%E8%B4%A3%E4%BA%BA%E4%B8%8E%E5%BC%82%E6%80%A7%E7%89%B5%E6%89%8B%E9%80%9B%E8%A1%97%E8%A2%AB%E6%8B%8D%23&t=31&band_rank=6&Refer=top)<br />
-7. [高考完了不用去打暑期工](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E5%AE%8C%E4%BA%86%E4%B8%8D%E7%94%A8%E5%8E%BB%E6%89%93%E6%9A%91%E6%9C%9F%E5%B7%A5&t=31&band_rank=7&Refer=top)<br />
+7. [任嘉伦押中高考作文题](https://s.weibo.com/weibo?q=%23%E4%BB%BB%E5%98%89%E4%BC%A6%E6%8A%BC%E4%B8%AD%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%E9%A2%98%23&t=31&band_rank=7&Refer=top)<br />
 8. [高考作文](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87&t=31&band_rank=8&Refer=top)<br />
 9. [这声985谁听了不迷糊](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%A3%B0985%E8%B0%81%E5%90%AC%E4%BA%86%E4%B8%8D%E8%BF%B7%E7%B3%8A%23&t=31&band_rank=9&Refer=top)<br />
 
