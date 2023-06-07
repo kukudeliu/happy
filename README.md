@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 07:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 07:19:02</h4></div>
 
 > 微博  
 
@@ -10,13 +10,13 @@
 6. [免职裙](https://s.weibo.com/weibo?q=%E5%85%8D%E8%81%8C%E8%A3%99&t=31&band_rank=6&Refer=top)<br />
 7. [凤凰传奇一个火上辈子一个火下辈子](https://s.weibo.com/weibo?q=%23%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E4%B8%80%E4%B8%AA%E7%81%AB%E4%B8%8A%E8%BE%88%E5%AD%90%E4%B8%80%E4%B8%AA%E7%81%AB%E4%B8%8B%E8%BE%88%E5%AD%90%23&t=31&band_rank=7&Refer=top)<br />
 8. [梅西决定加盟迈阿密国际](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E5%86%B3%E5%AE%9A%E5%8A%A0%E7%9B%9F%E8%BF%88%E9%98%BF%E5%AF%86%E5%9B%BD%E9%99%85%23&t=31&band_rank=8&Refer=top)<br />
-9. [意林又承包了高考作文题](https://s.weibo.com/weibo?q=%23%E6%84%8F%E6%9E%97%E5%8F%88%E6%89%BF%E5%8C%85%E4%BA%86%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%E9%A2%98%23&t=31&band_rank=9&Refer=top)<br />
+9. [高考](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [共享单车悄然涨价，1 小时 6.5 元，已贵过公交地铁，如何看待这一涨价行为？](https://www.zhihu.com/question/605241957)<br />
-2. [长沙夜市现爆炒鹅卵石 16 元一份，对此你有何看法？](https://www.zhihu.com/question/604881315)<br />
-3. [杭州有楼盘买房最多送两斤黄金，折合 47.28 万返现，当地楼市情况如何？开发商「内卷」会成常态吗？](https://www.zhihu.com/question/605337792)<br />
+2. [杭州有楼盘买房最多送两斤黄金，折合 47.28 万返现，当地楼市情况如何？开发商「内卷」会成常态吗？](https://www.zhihu.com/question/605337792)<br />
+3. [长沙夜市现爆炒鹅卵石 16 元一份，对此你有何看法？](https://www.zhihu.com/question/604881315)<br />
 4. [微软宣布放弃 Win10 后用户反向增多了，对此你怎么看？](https://www.zhihu.com/question/605027427)<br />
 5. [梅西宣布加盟迈阿密国际，将穿 10 号球衣，告别欧洲转会美国大联盟，如何评价梅西的选择？](https://www.zhihu.com/question/605363198)<br />
 6. [2023 高考数学题难度如何？哪道题让人印象深刻？](https://www.zhihu.com/question/605281198)<br />
