@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 06:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 06:40:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [与国企领导逛街女子手提包疑为奢侈品](https://s.weibo.com/weibo?q=%23%E4%B8%8E%E5%9B%BD%E4%BC%81%E9%A2%86%E5%AF%BC%E9%80%9B%E8%A1%97%E5%A5%B3%E5%AD%90%E6%89%8B%E6%8F%90%E5%8C%85%E7%96%91%E4%B8%BA%E5%A5%A2%E4%BE%88%E5%93%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [凤凰传奇一个火上辈子一个火下辈子](https://s.weibo.com/weibo?q=%23%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E4%B8%80%E4%B8%AA%E7%81%AB%E4%B8%8A%E8%BE%88%E5%AD%90%E4%B8%80%E4%B8%AA%E7%81%AB%E4%B8%8B%E8%BE%88%E5%AD%90%23&t=31&band_rank=7&Refer=top)<br />
 8. [张艺兴工作室再回应](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%86%8D%E5%9B%9E%E5%BA%94%23&t=31&band_rank=8&Refer=top)<br />
-9. [梅西决定加盟迈阿密国际](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E5%86%B3%E5%AE%9A%E5%8A%A0%E7%9B%9F%E8%BF%88%E9%98%BF%E5%AF%86%E5%9B%BD%E9%99%85%23&t=31&band_rank=9&Refer=top)<br />
+9. [意林又承包了高考作文题](https://s.weibo.com/weibo?q=%23%E6%84%8F%E6%9E%97%E5%8F%88%E6%89%BF%E5%8C%85%E4%BA%86%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%E9%A2%98%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
