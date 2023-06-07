@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 20:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 20:35:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [粉丝齐喊China抗议主持人涉港台不当言论](https://s.weibo.com/weibo?q=%23%E7%B2%89%E4%B8%9D%E9%BD%90%E5%96%8AChina%E6%8A%97%E8%AE%AE%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%B6%89%E6%B8%AF%E5%8F%B0%E4%B8%8D%E5%BD%93%E8%A8%80%E8%AE%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [新高考一卷数学 大题难](https://s.weibo.com/weibo?q=%E6%96%B0%E9%AB%98%E8%80%83%E4%B8%80%E5%8D%B7%E6%95%B0%E5%AD%A6%20%E5%A4%A7%E9%A2%98%E9%9A%BE&t=31&band_rank=7&Refer=top)<br />
 8. [双胞胎拿错准考证骁骑5分钟调换](https://s.weibo.com/weibo?q=%23%E5%8F%8C%E8%83%9E%E8%83%8E%E6%8B%BF%E9%94%99%E5%87%86%E8%80%83%E8%AF%81%E9%AA%81%E9%AA%915%E5%88%86%E9%92%9F%E8%B0%83%E6%8D%A2%23&t=31&band_rank=8&Refer=top)<br />
-9. [郑业成工作室回应轧戏](https://s.weibo.com/weibo?q=%23%E9%83%91%E4%B8%9A%E6%88%90%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%9B%9E%E5%BA%94%E8%BD%A7%E6%88%8F%23&t=31&band_rank=9&Refer=top)<br />
+9. [哥哥拿弟弟身份证高考8点45才发现](https://s.weibo.com/weibo?q=%23%E5%93%A5%E5%93%A5%E6%8B%BF%E5%BC%9F%E5%BC%9F%E8%BA%AB%E4%BB%BD%E8%AF%81%E9%AB%98%E8%80%838%E7%82%B945%E6%89%8D%E5%8F%91%E7%8E%B0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
