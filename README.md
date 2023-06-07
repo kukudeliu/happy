@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 10:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 10:47:01</h4></div>
 
 > 微博  
 
@@ -32,9 +32,9 @@
 4. [候鸟迁飞舞动命运与共](https://www.baidu.com/s?wd=%E5%80%99%E9%B8%9F%E8%BF%81%E9%A3%9E%E8%88%9E%E5%8A%A8%E5%91%BD%E8%BF%90%E4%B8%8E%E5%85%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [湖南一监考老师忘带监考证](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E4%B8%80%E7%9B%91%E8%80%83%E8%80%81%E5%B8%88%E5%BF%98%E5%B8%A6%E7%9B%91%E8%80%83%E8%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [保送男生穿旗袍为高考同学加油](https://www.baidu.com/s?wd=%E4%BF%9D%E9%80%81%E7%94%B7%E7%94%9F%E7%A9%BF%E6%97%97%E8%A2%8D%E4%B8%BA%E9%AB%98%E8%80%83%E5%90%8C%E5%AD%A6%E5%8A%A0%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [南京夫子庙挤满为高考祈福的人](https://www.baidu.com/s?wd=%E5%8D%97%E4%BA%AC%E5%A4%AB%E5%AD%90%E5%BA%99%E6%8C%A4%E6%BB%A1%E4%B8%BA%E9%AB%98%E8%80%83%E7%A5%88%E7%A6%8F%E7%9A%84%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [央视网追问地面沉降3000人离家后续](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E7%BD%91%E8%BF%BD%E9%97%AE%E5%9C%B0%E9%9D%A2%E6%B2%89%E9%99%8D3000%E4%BA%BA%E7%A6%BB%E5%AE%B6%E5%90%8E%E7%BB%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [开考前大妈在考点发复读广告](https://www.baidu.com/s?wd=%E5%BC%80%E8%80%83%E5%89%8D%E5%A4%A7%E5%A6%88%E5%9C%A8%E8%80%83%E7%82%B9%E5%8F%91%E5%A4%8D%E8%AF%BB%E5%B9%BF%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [央视网追问地面沉降3000人离家后续](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E7%BD%91%E8%BF%BD%E9%97%AE%E5%9C%B0%E9%9D%A2%E6%B2%89%E9%99%8D3000%E4%BA%BA%E7%A6%BB%E5%AE%B6%E5%90%8E%E7%BB%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [开考前大妈在考点发复读广告](https://www.baidu.com/s?wd=%E5%BC%80%E8%80%83%E5%89%8D%E5%A4%A7%E5%A6%88%E5%9C%A8%E8%80%83%E7%82%B9%E5%8F%91%E5%A4%8D%E8%AF%BB%E5%B9%BF%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [高考首个忘带证件考生出炉](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E9%A6%96%E4%B8%AA%E5%BF%98%E5%B8%A6%E8%AF%81%E4%BB%B6%E8%80%83%E7%94%9F%E5%87%BA%E7%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [候鸟迁飞舞动命运与共](https://www.baidu.com/s?wd=%E5%80%99%E9%B8%9F%E8%BF%81%E9%A3%9E%E8%88%9E%E5%8A%A8%E5%91%BD%E8%BF%90%E4%B8%8E%E5%85%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [湖南一监考老师忘带监考证](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E4%B8%80%E7%9B%91%E8%80%83%E8%80%81%E5%B8%88%E5%BF%98%E5%B8%A6%E7%9B%91%E8%80%83%E8%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [保送男生穿旗袍为高考同学加油](https://www.baidu.com/s?wd=%E4%BF%9D%E9%80%81%E7%94%B7%E7%94%9F%E7%A9%BF%E6%97%97%E8%A2%8D%E4%B8%BA%E9%AB%98%E8%80%83%E5%90%8C%E5%AD%A6%E5%8A%A0%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [南京夫子庙挤满为高考祈福的人](https://www.baidu.com/s?wd=%E5%8D%97%E4%BA%AC%E5%A4%AB%E5%AD%90%E5%BA%99%E6%8C%A4%E6%BB%A1%E4%B8%BA%E9%AB%98%E8%80%83%E7%A5%88%E7%A6%8F%E7%9A%84%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [央视网追问地面沉降3000人离家后续](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E7%BD%91%E8%BF%BD%E9%97%AE%E5%9C%B0%E9%9D%A2%E6%B2%89%E9%99%8D3000%E4%BA%BA%E7%A6%BB%E5%AE%B6%E5%90%8E%E7%BB%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [开考前大妈在考点发复读广告](https://www.baidu.com/s?wd=%E5%BC%80%E8%80%83%E5%89%8D%E5%A4%A7%E5%A6%88%E5%9C%A8%E8%80%83%E7%82%B9%E5%8F%91%E5%A4%8D%E8%AF%BB%E5%B9%BF%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [央视网追问地面沉降3000人离家后续](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E7%BD%91%E8%BF%BD%E9%97%AE%E5%9C%B0%E9%9D%A2%E6%B2%89%E9%99%8D3000%E4%BA%BA%E7%A6%BB%E5%AE%B6%E5%90%8E%E7%BB%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [开考前大妈在考点发复读广告](https://www.baidu.com/s?wd=%E5%BC%80%E8%80%83%E5%89%8D%E5%A4%A7%E5%A6%88%E5%9C%A8%E8%80%83%E7%82%B9%E5%8F%91%E5%A4%8D%E8%AF%BB%E5%B9%BF%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [高考首个忘带证件考生出炉](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E9%A6%96%E4%B8%AA%E5%BF%98%E5%B8%A6%E8%AF%81%E4%BB%B6%E8%80%83%E7%94%9F%E5%87%BA%E7%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
