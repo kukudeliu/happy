@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 10:10:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 10:11:02</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [高校鼠头涉事窗口几乎没人去吃饭](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E9%BC%A0%E5%A4%B4%E6%B6%89%E4%BA%8B%E7%AA%97%E5%8F%A3%E5%87%A0%E4%B9%8E%E6%B2%A1%E4%BA%BA%E5%8E%BB%E5%90%83%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [高考首日 衡水中学高考生6点跑操](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E9%A6%96%E6%97%A5+%E8%A1%A1%E6%B0%B4%E4%B8%AD%E5%AD%A6%E9%AB%98%E8%80%83%E7%94%9F6%E7%82%B9%E8%B7%91%E6%93%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [考点外公交车门改成清华北大校门](https://www.baidu.com/s?wd=%E8%80%83%E7%82%B9%E5%A4%96%E5%85%AC%E4%BA%A4%E8%BD%A6%E9%97%A8%E6%94%B9%E6%88%90%E6%B8%85%E5%8D%8E%E5%8C%97%E5%A4%A7%E6%A0%A1%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [娜扎方否认高考596分](https://www.baidu.com/s?wd=%E5%A8%9C%E6%89%8E%E6%96%B9%E5%90%A6%E8%AE%A4%E9%AB%98%E8%80%83596%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [一公司称花2千万可和蔡徐坤吃饭](https://www.baidu.com/s?wd=%E4%B8%80%E5%85%AC%E5%8F%B8%E7%A7%B0%E8%8A%B12%E5%8D%83%E4%B8%87%E5%8F%AF%E5%92%8C%E8%94%A1%E5%BE%90%E5%9D%A4%E5%90%83%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [高校鼠头涉事窗口几乎没人去吃饭](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E9%BC%A0%E5%A4%B4%E6%B6%89%E4%BA%8B%E7%AA%97%E5%8F%A3%E5%87%A0%E4%B9%8E%E6%B2%A1%E4%BA%BA%E5%8E%BB%E5%90%83%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [高考首日 衡水中学高考生6点跑操](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E9%A6%96%E6%97%A5+%E8%A1%A1%E6%B0%B4%E4%B8%AD%E5%AD%A6%E9%AB%98%E8%80%83%E7%94%9F6%E7%82%B9%E8%B7%91%E6%93%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [考点外公交车门改成清华北大校门](https://www.baidu.com/s?wd=%E8%80%83%E7%82%B9%E5%A4%96%E5%85%AC%E4%BA%A4%E8%BD%A6%E9%97%A8%E6%94%B9%E6%88%90%E6%B8%85%E5%8D%8E%E5%8C%97%E5%A4%A7%E6%A0%A1%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [娜扎方否认高考596分](https://www.baidu.com/s?wd=%E5%A8%9C%E6%89%8E%E6%96%B9%E5%90%A6%E8%AE%A4%E9%AB%98%E8%80%83596%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [一公司称花2千万可和蔡徐坤吃饭](https://www.baidu.com/s?wd=%E4%B8%80%E5%85%AC%E5%8F%B8%E7%A7%B0%E8%8A%B12%E5%8D%83%E4%B8%87%E5%8F%AF%E5%92%8C%E8%94%A1%E5%BE%90%E5%9D%A4%E5%90%83%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
