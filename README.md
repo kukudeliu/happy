@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 21:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 21:53:01</h4></div>
 
 > 微博  
 
@@ -15,8 +15,8 @@
 > 知乎  
 
 1. [赫尔松地区大坝被炸毁，洪水泛滥，俄乌各执一词，事实真相是什么？俄乌战争将走向何方？](https://www.zhihu.com/question/605068506)<br />
-2. [我不想和男朋友一起用公积金买房是自私吗？](https://www.zhihu.com/question/600695811)<br />
-3. [共享单车悄然涨价，1 小时 6.5 元，已贵过公交地铁，如何看待这一涨价行为？](https://www.zhihu.com/question/605241957)<br />
+2. [共享单车悄然涨价，1 小时 6.5 元，已贵过公交地铁，如何看待这一涨价行为？](https://www.zhihu.com/question/605241957)<br />
+3. [我不想和男朋友一起用公积金买房是自私吗？](https://www.zhihu.com/question/600695811)<br />
 4. [长沙夜市现爆炒鹅卵石 16 元一份，对此你有何看法？](https://www.zhihu.com/question/604881315)<br />
 5. [「高考语文和数学的满分其实是 180 分」，如何看待这个观点？](https://www.zhihu.com/theater/93379)<br />
 6. [2023 高考数学题难度如何？哪道题让人印象深刻？](https://www.zhihu.com/question/605281198)<br />
