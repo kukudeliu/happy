@@ -1,14 +1,14 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 10:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 10:52:01</h4></div>
 
 > 微博  
 
-1. [高考语文](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E8%AF%AD%E6%96%87%23&t=31&band_rank=1&Refer=top)<br />
+1. [高考语文](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E8%AF%AD%E6%96%87&t=31&band_rank=1&Refer=top)<br />
 2. [高考](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83&t=31&band_rank=2&Refer=top)<br />
 3. [首艘国产大型邮轮爱达魔都号出坞](https://s.weibo.com/weibo?q=%23%E9%A6%96%E8%89%98%E5%9B%BD%E4%BA%A7%E5%A4%A7%E5%9E%8B%E9%82%AE%E8%BD%AE%E7%88%B1%E8%BE%BE%E9%AD%94%E9%83%BD%E5%8F%B7%E5%87%BA%E5%9D%9E%23&t=31&band_rank=3&Refer=top)<br />
 4. [高考作文预测](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%E9%A2%84%E6%B5%8B%23&t=31&band_rank=4&Refer=top)<br />
 5. [梁文博终身禁赛](https://s.weibo.com/weibo?q=%23%E6%A2%81%E6%96%87%E5%8D%9A%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B%23&t=31&band_rank=5&Refer=top)<br />
 6. [保送男生穿旗袍为高考同学加油](https://s.weibo.com/weibo?q=%23%E4%BF%9D%E9%80%81%E7%94%B7%E7%94%9F%E7%A9%BF%E6%97%97%E8%A2%8D%E4%B8%BA%E9%AB%98%E8%80%83%E5%90%8C%E5%AD%A6%E5%8A%A0%E6%B2%B9%23&t=31&band_rank=6&Refer=top)<br />
-7. [高考试卷](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E8%AF%95%E5%8D%B7&t=31&band_rank=7&Refer=top)<br />
+7. [高考试卷](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E8%AF%95%E5%8D%B7%23&t=31&band_rank=7&Refer=top)<br />
 8. [2023年高考第一个丢准考证的同学](https://s.weibo.com/weibo?q=%232023%E5%B9%B4%E9%AB%98%E8%80%83%E7%AC%AC%E4%B8%80%E4%B8%AA%E4%B8%A2%E5%87%86%E8%80%83%E8%AF%81%E7%9A%84%E5%90%8C%E5%AD%A6%23&t=31&band_rank=8&Refer=top)<br />
 9. [一公司称花2千万可和蔡徐坤吃饭](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%85%AC%E5%8F%B8%E7%A7%B0%E8%8A%B12%E5%8D%83%E4%B8%87%E5%8F%AF%E5%92%8C%E8%94%A1%E5%BE%90%E5%9D%A4%E5%90%83%E9%A5%AD%23&t=31&band_rank=9&Refer=top)<br />
 
