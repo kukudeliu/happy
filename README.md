@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 13:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 13:16:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [第一个出考场的考生麻烦你了](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%87%BA%E8%80%83%E5%9C%BA%E7%9A%84%E8%80%83%E7%94%9F%E9%BA%BB%E7%83%A6%E4%BD%A0%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [Angelababy 蒂芙尼](https://s.weibo.com/weibo?q=%23Angelababy%20%E8%92%82%E8%8A%99%E5%B0%BC%23&t=31&band_rank=7&Refer=top)<br />
 8. [比亚迪押题成功](https://s.weibo.com/weibo?q=%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%8A%BC%E9%A2%98%E6%88%90%E5%8A%9F&t=31&band_rank=8&Refer=top)<br />
-9. [高考语文](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E8%AF%AD%E6%96%87&t=31&band_rank=9&Refer=top)<br />
+9. [高考](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
