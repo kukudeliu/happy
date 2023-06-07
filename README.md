@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 13:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 13:03:01</h4></div>
 
 > 微博  
 
-1. [高考作文](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87&t=31&band_rank=1&Refer=top)<br />
-2. [高考作文 简单](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%20%E7%AE%80%E5%8D%95&t=31&band_rank=2&Refer=top)<br />
-3. [高考入场时发现身份证6月6日过期](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%85%A5%E5%9C%BA%E6%97%B6%E5%8F%91%E7%8E%B0%E8%BA%AB%E4%BB%BD%E8%AF%816%E6%9C%886%E6%97%A5%E8%BF%87%E6%9C%9F%23&t=31&band_rank=3&Refer=top)<br />
-4. [受伤的只有22届](https://s.weibo.com/weibo?q=%E5%8F%97%E4%BC%A4%E7%9A%84%E5%8F%AA%E6%9C%8922%E5%B1%8A&t=31&band_rank=4&Refer=top)<br />
-5. [高考语文](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E8%AF%AD%E6%96%87&t=31&band_rank=5&Refer=top)<br />
-6. [第一个出考场的考生麻烦你了](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%87%BA%E8%80%83%E5%9C%BA%E7%9A%84%E8%80%83%E7%94%9F%E9%BA%BB%E7%83%A6%E4%BD%A0%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [Angelababy 蒂芙尼](https://s.weibo.com/weibo?q=%23Angelababy%20%E8%92%82%E8%8A%99%E5%B0%BC%23&t=31&band_rank=7&Refer=top)<br />
-8. [新课标一卷 故事是有力量的](https://s.weibo.com/weibo?q=%E6%96%B0%E8%AF%BE%E6%A0%87%E4%B8%80%E5%8D%B7%20%E6%95%85%E4%BA%8B%E6%98%AF%E6%9C%89%E5%8A%9B%E9%87%8F%E7%9A%84&t=31&band_rank=8&Refer=top)<br />
-9. [一样的孩子鲍蕾为什么生两次](https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%A0%B7%E7%9A%84%E5%AD%A9%E5%AD%90%E9%B2%8D%E8%95%BE%E4%B8%BA%E4%BB%80%E4%B9%88%E7%94%9F%E4%B8%A4%E6%AC%A1%23&t=31&band_rank=9&Refer=top)<br />
+1. [高考作文 简单](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%20%E7%AE%80%E5%8D%95&t=31&band_rank=1&Refer=top)<br />
+2. [高考作文](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87&t=31&band_rank=2&Refer=top)<br />
+3. [今天把最好的祝福送给高考生](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E6%8A%8A%E6%9C%80%E5%A5%BD%E7%9A%84%E7%A5%9D%E7%A6%8F%E9%80%81%E7%BB%99%E9%AB%98%E8%80%83%E7%94%9F%23&t=31&band_rank=3&Refer=top)<br />
+4. [高考入场时发现身份证6月6日过期](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%85%A5%E5%9C%BA%E6%97%B6%E5%8F%91%E7%8E%B0%E8%BA%AB%E4%BB%BD%E8%AF%816%E6%9C%886%E6%97%A5%E8%BF%87%E6%9C%9F%23&t=31&band_rank=4&Refer=top)<br />
+5. [受伤的只有22届](https://s.weibo.com/weibo?q=%E5%8F%97%E4%BC%A4%E7%9A%84%E5%8F%AA%E6%9C%8922%E5%B1%8A&t=31&band_rank=5&Refer=top)<br />
+6. [高考语文](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E8%AF%AD%E6%96%87&t=31&band_rank=6&Refer=top)<br />
+7. [第一个出考场的考生麻烦你了](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%87%BA%E8%80%83%E5%9C%BA%E7%9A%84%E8%80%83%E7%94%9F%E9%BA%BB%E7%83%A6%E4%BD%A0%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+8. [Angelababy 蒂芙尼](https://s.weibo.com/weibo?q=%23Angelababy%20%E8%92%82%E8%8A%99%E5%B0%BC%23&t=31&band_rank=8&Refer=top)<br />
+9. [新课标一卷 故事是有力量的](https://s.weibo.com/weibo?q=%E6%96%B0%E8%AF%BE%E6%A0%87%E4%B8%80%E5%8D%B7%20%E6%95%85%E4%BA%8B%E6%98%AF%E6%9C%89%E5%8A%9B%E9%87%8F%E7%9A%84&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
