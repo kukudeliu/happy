@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 08:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 08:24:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [6年前忘带准考证考生成交警新同事](https://www.baidu.com/s?wd=6%E5%B9%B4%E5%89%8D%E5%BF%98%E5%B8%A6%E5%87%86%E8%80%83%E8%AF%81%E8%80%83%E7%94%9F%E6%88%90%E4%BA%A4%E8%AD%A6%E6%96%B0%E5%90%8C%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [梁文博被终身禁赛](https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E5%8D%9A%E8%A2%AB%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [好日子！高考日期谐音是录取吧](https://www.baidu.com/s?wd=%E5%A5%BD%E6%97%A5%E5%AD%90%EF%BC%81%E9%AB%98%E8%80%83%E6%97%A5%E6%9C%9F%E8%B0%90%E9%9F%B3%E6%98%AF%E5%BD%95%E5%8F%96%E5%90%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [很难忘记周深的高考祝福](https://www.baidu.com/s?wd=%E5%BE%88%E9%9A%BE%E5%BF%98%E8%AE%B0%E5%91%A8%E6%B7%B1%E7%9A%84%E9%AB%98%E8%80%83%E7%A5%9D%E7%A6%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [广东明确停课不停考](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E6%98%8E%E7%A1%AE%E5%81%9C%E8%AF%BE%E4%B8%8D%E5%81%9C%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [广东明确停课不停考](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E6%98%8E%E7%A1%AE%E5%81%9C%E8%AF%BE%E4%B8%8D%E5%81%9C%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [2023年第一个弄丢证件的考生出现了](https://www.baidu.com/s?wd=2023%E5%B9%B4%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%BC%84%E4%B8%A2%E8%AF%81%E4%BB%B6%E7%9A%84%E8%80%83%E7%94%9F%E5%87%BA%E7%8E%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [6年前忘带准考证考生成交警新同事](https://www.baidu.com/s?wd=6%E5%B9%B4%E5%89%8D%E5%BF%98%E5%B8%A6%E5%87%86%E8%80%83%E8%AF%81%E8%80%83%E7%94%9F%E6%88%90%E4%BA%A4%E8%AD%A6%E6%96%B0%E5%90%8C%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [梁文博被终身禁赛](https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E5%8D%9A%E8%A2%AB%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [好日子！高考日期谐音是录取吧](https://www.baidu.com/s?wd=%E5%A5%BD%E6%97%A5%E5%AD%90%EF%BC%81%E9%AB%98%E8%80%83%E6%97%A5%E6%9C%9F%E8%B0%90%E9%9F%B3%E6%98%AF%E5%BD%95%E5%8F%96%E5%90%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [很难忘记周深的高考祝福](https://www.baidu.com/s?wd=%E5%BE%88%E9%9A%BE%E5%BF%98%E8%AE%B0%E5%91%A8%E6%B7%B1%E7%9A%84%E9%AB%98%E8%80%83%E7%A5%9D%E7%A6%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [广东明确停课不停考](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E6%98%8E%E7%A1%AE%E5%81%9C%E8%AF%BE%E4%B8%8D%E5%81%9C%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [广东明确停课不停考](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E6%98%8E%E7%A1%AE%E5%81%9C%E8%AF%BE%E4%B8%8D%E5%81%9C%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [2023年第一个弄丢证件的考生出现了](https://www.baidu.com/s?wd=2023%E5%B9%B4%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%BC%84%E4%B8%A2%E8%AF%81%E4%BB%B6%E7%9A%84%E8%80%83%E7%94%9F%E5%87%BA%E7%8E%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
