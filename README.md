@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 19:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 19:40:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [高考数学难不难？考生：比去年简单](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E9%9A%BE%E4%B8%8D%E9%9A%BE%EF%BC%9F%E8%80%83%E7%94%9F%EF%BC%9A%E6%AF%94%E5%8E%BB%E5%B9%B4%E7%AE%80%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [哥哥拿弟弟身份证高考8点45分才发现](https://www.baidu.com/s?wd=%E5%93%A5%E5%93%A5%E6%8B%BF%E5%BC%9F%E5%BC%9F%E8%BA%AB%E4%BB%BD%E8%AF%81%E9%AB%98%E8%80%838%E7%82%B945%E5%88%86%E6%89%8D%E5%8F%91%E7%8E%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [考生:数学出卷老师手下留情了但不多](https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%3A%E6%95%B0%E5%AD%A6%E5%87%BA%E5%8D%B7%E8%80%81%E5%B8%88%E6%89%8B%E4%B8%8B%E7%95%99%E6%83%85%E4%BA%86%E4%BD%86%E4%B8%8D%E5%A4%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [任嘉伦押中高考作文题](https://www.baidu.com/s?wd=%E4%BB%BB%E5%98%89%E4%BC%A6%E6%8A%BC%E4%B8%AD%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [大爷公交车上强吻女孩被围堵](https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E5%85%AC%E4%BA%A4%E8%BD%A6%E4%B8%8A%E5%BC%BA%E5%90%BB%E5%A5%B3%E5%AD%A9%E8%A2%AB%E5%9B%B4%E5%A0%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [大爷公交车上强吻女孩被围堵](https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E5%85%AC%E4%BA%A4%E8%BD%A6%E4%B8%8A%E5%BC%BA%E5%90%BB%E5%A5%B3%E5%AD%A9%E8%A2%AB%E5%9B%B4%E5%A0%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [今年高考数学难吗？多地考生发声](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E9%9A%BE%E5%90%97%EF%BC%9F%E5%A4%9A%E5%9C%B0%E8%80%83%E7%94%9F%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [高考数学难不难？考生：比去年简单](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E9%9A%BE%E4%B8%8D%E9%9A%BE%EF%BC%9F%E8%80%83%E7%94%9F%EF%BC%9A%E6%AF%94%E5%8E%BB%E5%B9%B4%E7%AE%80%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [哥哥拿弟弟身份证高考8点45分才发现](https://www.baidu.com/s?wd=%E5%93%A5%E5%93%A5%E6%8B%BF%E5%BC%9F%E5%BC%9F%E8%BA%AB%E4%BB%BD%E8%AF%81%E9%AB%98%E8%80%838%E7%82%B945%E5%88%86%E6%89%8D%E5%8F%91%E7%8E%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [考生:数学出卷老师手下留情了但不多](https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%3A%E6%95%B0%E5%AD%A6%E5%87%BA%E5%8D%B7%E8%80%81%E5%B8%88%E6%89%8B%E4%B8%8B%E7%95%99%E6%83%85%E4%BA%86%E4%BD%86%E4%B8%8D%E5%A4%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [任嘉伦押中高考作文题](https://www.baidu.com/s?wd=%E4%BB%BB%E5%98%89%E4%BC%A6%E6%8A%BC%E4%B8%AD%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [大爷公交车上强吻女孩被围堵](https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E5%85%AC%E4%BA%A4%E8%BD%A6%E4%B8%8A%E5%BC%BA%E5%90%BB%E5%A5%B3%E5%AD%A9%E8%A2%AB%E5%9B%B4%E5%A0%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [大爷公交车上强吻女孩被围堵](https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E5%85%AC%E4%BA%A4%E8%BD%A6%E4%B8%8A%E5%BC%BA%E5%90%BB%E5%A5%B3%E5%AD%A9%E8%A2%AB%E5%9B%B4%E5%A0%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [今年高考数学难吗？多地考生发声](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E9%9A%BE%E5%90%97%EF%BC%9F%E5%A4%9A%E5%9C%B0%E8%80%83%E7%94%9F%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
