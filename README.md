@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 10:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 10:05:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [2023年高考第一个丢准考证的同学](https://s.weibo.com/weibo?q=%232023%E5%B9%B4%E9%AB%98%E8%80%83%E7%AC%AC%E4%B8%80%E4%B8%AA%E4%B8%A2%E5%87%86%E8%80%83%E8%AF%81%E7%9A%84%E5%90%8C%E5%AD%A6%23&t=31&band_rank=5&Refer=top)<br />
 6. [一公司称花2千万可和蔡徐坤吃饭](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%85%AC%E5%8F%B8%E7%A7%B0%E8%8A%B12%E5%8D%83%E4%B8%87%E5%8F%AF%E5%92%8C%E8%94%A1%E5%BE%90%E5%9D%A4%E5%90%83%E9%A5%AD%23&t=31&band_rank=6&Refer=top)<br />
 7. [今年高考生17年才刚小学毕业](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E9%AB%98%E8%80%83%E7%94%9F17%E5%B9%B4%E6%89%8D%E5%88%9A%E5%B0%8F%E5%AD%A6%E6%AF%95%E4%B8%9A%23&t=31&band_rank=7&Refer=top)<br />
-8. [高校鼠头事件涉事窗口几乎没人去吃饭](https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E9%BC%A0%E5%A4%B4%E4%BA%8B%E4%BB%B6%E6%B6%89%E4%BA%8B%E7%AA%97%E5%8F%A3%E5%87%A0%E4%B9%8E%E6%B2%A1%E4%BA%BA%E5%8E%BB%E5%90%83%E9%A5%AD%23&t=31&band_rank=8&Refer=top)<br />
-9. [高考作文预测](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%E9%A2%84%E6%B5%8B&t=31&band_rank=9&Refer=top)<br />
+8. [高考作文预测](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%E9%A2%84%E6%B5%8B&t=31&band_rank=8&Refer=top)<br />
+9. [高校鼠头事件涉事窗口几乎没人去吃饭](https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E9%BC%A0%E5%A4%B4%E4%BA%8B%E4%BB%B6%E6%B6%89%E4%BA%8B%E7%AA%97%E5%8F%A3%E5%87%A0%E4%B9%8E%E6%B2%A1%E4%BA%BA%E5%8E%BB%E5%90%83%E9%A5%AD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
