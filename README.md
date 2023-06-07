@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 00:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 00:32:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [2023 高考数学题难度如何？哪道题让人印象深刻？](https://www.zhihu.com/question/605281198)<br />
 7. [2023 LPL 夏季赛 EDG 1:2 不敌 BLG，如何评价这场比赛？](https://www.zhihu.com/question/605336971)<br />
 8. []()<br />
-9. []()<br />
+9. [如果迈阿密热火今年真的夺冠会发生哪些有趣的事？](https://www.zhihu.com/question/605217228)<br />
 
 > 百度  
 
