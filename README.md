@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 20:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 20:43:01</h4></div>
 
 > 微博  
 
 1. [中石油胡继勇被免职](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%9F%B3%E6%B2%B9%E8%83%A1%E7%BB%A7%E5%8B%87%E8%A2%AB%E5%85%8D%E8%81%8C%23&t=31&band_rank=1&Refer=top)<br />
 2. [某某](https://s.weibo.com/weibo?q=%E6%9F%90%E6%9F%90&t=31&band_rank=2&Refer=top)<br />
 3. [硬核黑科技助力高考](https://s.weibo.com/weibo?q=%23%E7%A1%AC%E6%A0%B8%E9%BB%91%E7%A7%91%E6%8A%80%E5%8A%A9%E5%8A%9B%E9%AB%98%E8%80%83%23&t=31&band_rank=3&Refer=top)<br />
-4. [贾玲为了新角色要减重100斤](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E4%B8%BA%E4%BA%86%E6%96%B0%E8%A7%92%E8%89%B2%E8%A6%81%E5%87%8F%E9%87%8D100%E6%96%A4%23&t=31&band_rank=4&Refer=top)<br />
-5. [粉丝齐喊China抗议主持人涉港台不当言论](https://s.weibo.com/weibo?q=%23%E7%B2%89%E4%B8%9D%E9%BD%90%E5%96%8AChina%E6%8A%97%E8%AE%AE%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%B6%89%E6%B8%AF%E5%8F%B0%E4%B8%8D%E5%BD%93%E8%A8%80%E8%AE%BA%23&t=31&band_rank=5&Refer=top)<br />
+4. [粉丝齐喊China抗议主持人涉港台不当言论](https://s.weibo.com/weibo?q=%23%E7%B2%89%E4%B8%9D%E9%BD%90%E5%96%8AChina%E6%8A%97%E8%AE%AE%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%B6%89%E6%B8%AF%E5%8F%B0%E4%B8%8D%E5%BD%93%E8%A8%80%E8%AE%BA%23&t=31&band_rank=4&Refer=top)<br />
+5. [贾玲为了新角色要减重100斤](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E4%B8%BA%E4%BA%86%E6%96%B0%E8%A7%92%E8%89%B2%E8%A6%81%E5%87%8F%E9%87%8D100%E6%96%A4%23&t=31&band_rank=5&Refer=top)<br />
 6. [高考数学](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6&t=31&band_rank=6&Refer=top)<br />
 7. [新高考一卷数学 大题难](https://s.weibo.com/weibo?q=%E6%96%B0%E9%AB%98%E8%80%83%E4%B8%80%E5%8D%B7%E6%95%B0%E5%AD%A6%20%E5%A4%A7%E9%A2%98%E9%9A%BE&t=31&band_rank=7&Refer=top)<br />
 8. [双胞胎拿错准考证骁骑5分钟调换](https://s.weibo.com/weibo?q=%23%E5%8F%8C%E8%83%9E%E8%83%8E%E6%8B%BF%E9%94%99%E5%87%86%E8%80%83%E8%AF%81%E9%AA%81%E9%AA%915%E5%88%86%E9%92%9F%E8%B0%83%E6%8D%A2%23&t=31&band_rank=8&Refer=top)<br />
