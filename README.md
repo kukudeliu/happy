@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 09:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 09:24:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [6年前忘带准考证考生成交警新同事](https://www.baidu.com/s?wd=6%E5%B9%B4%E5%89%8D%E5%BF%98%E5%B8%A6%E5%87%86%E8%80%83%E8%AF%81%E8%80%83%E7%94%9F%E6%88%90%E4%BA%A4%E8%AD%A6%E6%96%B0%E5%90%8C%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [高校鼠头涉事窗口几乎没人去吃饭](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E9%BC%A0%E5%A4%B4%E6%B6%89%E4%BA%8B%E7%AA%97%E5%8F%A3%E5%87%A0%E4%B9%8E%E6%B2%A1%E4%BA%BA%E5%8E%BB%E5%90%83%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [梁文博被终身禁赛](https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E5%8D%9A%E8%A2%AB%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [娜扎方否认高考596分](https://www.baidu.com/s?wd=%E5%A8%9C%E6%89%8E%E6%96%B9%E5%90%A6%E8%AE%A4%E9%AB%98%E8%80%83596%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [周鸿祎天价离婚案后续](https://www.baidu.com/s?wd=%E5%91%A8%E9%B8%BF%E7%A5%8E%E5%A4%A9%E4%BB%B7%E7%A6%BB%E5%A9%9A%E6%A1%88%E5%90%8E%E7%BB%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [周鸿祎天价离婚案后续](https://www.baidu.com/s?wd=%E5%91%A8%E9%B8%BF%E7%A5%8E%E5%A4%A9%E4%BB%B7%E7%A6%BB%E5%A9%9A%E6%A1%88%E5%90%8E%E7%BB%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [赵心童道歉：给中国斯诺克蒙羞](https://www.baidu.com/s?wd=%E8%B5%B5%E5%BF%83%E7%AB%A5%E9%81%93%E6%AD%89%EF%BC%9A%E7%BB%99%E4%B8%AD%E5%9B%BD%E6%96%AF%E8%AF%BA%E5%85%8B%E8%92%99%E7%BE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [6年前忘带准考证考生成交警新同事](https://www.baidu.com/s?wd=6%E5%B9%B4%E5%89%8D%E5%BF%98%E5%B8%A6%E5%87%86%E8%80%83%E8%AF%81%E8%80%83%E7%94%9F%E6%88%90%E4%BA%A4%E8%AD%A6%E6%96%B0%E5%90%8C%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [高校鼠头涉事窗口几乎没人去吃饭](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E9%BC%A0%E5%A4%B4%E6%B6%89%E4%BA%8B%E7%AA%97%E5%8F%A3%E5%87%A0%E4%B9%8E%E6%B2%A1%E4%BA%BA%E5%8E%BB%E5%90%83%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [梁文博被终身禁赛](https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E5%8D%9A%E8%A2%AB%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [娜扎方否认高考596分](https://www.baidu.com/s?wd=%E5%A8%9C%E6%89%8E%E6%96%B9%E5%90%A6%E8%AE%A4%E9%AB%98%E8%80%83596%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [周鸿祎天价离婚案后续](https://www.baidu.com/s?wd=%E5%91%A8%E9%B8%BF%E7%A5%8E%E5%A4%A9%E4%BB%B7%E7%A6%BB%E5%A9%9A%E6%A1%88%E5%90%8E%E7%BB%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [周鸿祎天价离婚案后续](https://www.baidu.com/s?wd=%E5%91%A8%E9%B8%BF%E7%A5%8E%E5%A4%A9%E4%BB%B7%E7%A6%BB%E5%A9%9A%E6%A1%88%E5%90%8E%E7%BB%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [赵心童道歉：给中国斯诺克蒙羞](https://www.baidu.com/s?wd=%E8%B5%B5%E5%BF%83%E7%AB%A5%E9%81%93%E6%AD%89%EF%BC%9A%E7%BB%99%E4%B8%AD%E5%9B%BD%E6%96%AF%E8%AF%BA%E5%85%8B%E8%92%99%E7%BE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
