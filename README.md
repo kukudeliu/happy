@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 23:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 23:32:02</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [多家国有大行 6 月 8 日起下调人民币存款利率，释放了什么信号？将带来哪些影响？](https://www.zhihu.com/question/605298719)<br />
 7. [农业农村部、体育总局发文，举办全国和美乡村篮球大赛「 村 BA 」，哪些信息值得关注？](https://www.zhihu.com/question/605304366)<br />
 8. [如果所有人都对你很刻薄，只能变成刻薄的人才能对抗吗？](https://www.zhihu.com/question/605091434)<br />
-9. [2023 年 618 有哪些好用的数码产品让你觉得是「早买早享受」？](https://www.zhihu.com/question/605153475)<br />
+9. [2023 LPL 夏季赛 EDG 1:2 不敌 BLG，如何评价这场比赛？](https://www.zhihu.com/question/605336971)<br />
 
 > 百度  
 
