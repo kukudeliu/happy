@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 09:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 09:22:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [6年前忘带准考证受助考生成交警新同事](https://s.weibo.com/weibo?q=%236%E5%B9%B4%E5%89%8D%E5%BF%98%E5%B8%A6%E5%87%86%E8%80%83%E8%AF%81%E5%8F%97%E5%8A%A9%E8%80%83%E7%94%9F%E6%88%90%E4%BA%A4%E8%AD%A6%E6%96%B0%E5%90%8C%E4%BA%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [娜扎方否认高考596分](https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8E%E6%96%B9%E5%90%A6%E8%AE%A4%E9%AB%98%E8%80%83596%E5%88%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [一公司称花2千万可和蔡徐坤吃饭](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%85%AC%E5%8F%B8%E7%A7%B0%E8%8A%B12%E5%8D%83%E4%B8%87%E5%8F%AF%E5%92%8C%E8%94%A1%E5%BE%90%E5%9D%A4%E5%90%83%E9%A5%AD%23&t=31&band_rank=8&Refer=top)<br />
-9. [人体最大的器官是什么](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E4%BD%93%E6%9C%80%E5%A4%A7%E7%9A%84%E5%99%A8%E5%AE%98%E6%98%AF%E4%BB%80%E4%B9%88%23&t=31&band_rank=9&Refer=top)<br />
+9. [2023年高考第一个丢准考证的同学](https://s.weibo.com/weibo?q=%232023%E5%B9%B4%E9%AB%98%E8%80%83%E7%AC%AC%E4%B8%80%E4%B8%AA%E4%B8%A2%E5%87%86%E8%80%83%E8%AF%81%E7%9A%84%E5%90%8C%E5%AD%A6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -21,8 +21,8 @@
 5. [1291 万高考生奔赴考场，你认为 2023 年高考与往年相比最值得关注的变化是什么？](https://www.zhihu.com/question/605100302)<br />
 6. [即将推出的 16T 固态盘是否意味着机械盘将要退出消费级市场？](https://www.zhihu.com/question/604750109)<br />
 7. [上汽大众新能源车碰撞后起火 4 人遇难，具体情况如何？为什么起火速度这么快？](https://www.zhihu.com/question/604916015)<br />
-8. [2023 高考今日开考，1291 万考生奔赴考场，你有哪些祝福要送给他们？对于高考，你有哪些记忆？](https://www.zhihu.com/question/605215397)<br />
-9. [可以为今年的高考生预测一道数学题吗？](https://www.zhihu.com/question/604848651)<br />
+8. [克里姆林宫称卡霍夫卡大坝遭到乌克兰的破坏，这会给当地带来哪些损失？](https://www.zhihu.com/question/605141750)<br />
+9. [2023 高考今日开考，1291 万考生奔赴考场，你有哪些祝福要送给他们？对于高考，你有哪些记忆？](https://www.zhihu.com/question/605215397)<br />
 
 > 百度  
 
@@ -34,7 +34,7 @@
 6. [高校鼠头涉事窗口几乎没人去吃饭](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E9%BC%A0%E5%A4%B4%E6%B6%89%E4%BA%8B%E7%AA%97%E5%8F%A3%E5%87%A0%E4%B9%8E%E6%B2%A1%E4%BA%BA%E5%8E%BB%E5%90%83%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [梁文博被终身禁赛](https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E5%8D%9A%E8%A2%AB%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [娜扎方否认高考596分](https://www.baidu.com/s?wd=%E5%A8%9C%E6%89%8E%E6%96%B9%E5%90%A6%E8%AE%A4%E9%AB%98%E8%80%83596%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [拜登一言不发微笑注视记者被赶走](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E4%B8%80%E8%A8%80%E4%B8%8D%E5%8F%91%E5%BE%AE%E7%AC%91%E6%B3%A8%E8%A7%86%E8%AE%B0%E8%80%85%E8%A2%AB%E8%B5%B6%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [周鸿祎天价离婚案后续](https://www.baidu.com/s?wd=%E5%91%A8%E9%B8%BF%E7%A5%8E%E5%A4%A9%E4%BB%B7%E7%A6%BB%E5%A9%9A%E6%A1%88%E5%90%8E%E7%BB%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [高校鼠头涉事窗口几乎没人去吃饭](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E9%BC%A0%E5%A4%B4%E6%B6%89%E4%BA%8B%E7%AA%97%E5%8F%A3%E5%87%A0%E4%B9%8E%E6%B2%A1%E4%BA%BA%E5%8E%BB%E5%90%83%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [梁文博被终身禁赛](https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E5%8D%9A%E8%A2%AB%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [娜扎方否认高考596分](https://www.baidu.com/s?wd=%E5%A8%9C%E6%89%8E%E6%96%B9%E5%90%A6%E8%AE%A4%E9%AB%98%E8%80%83596%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [拜登一言不发微笑注视记者被赶走](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E4%B8%80%E8%A8%80%E4%B8%8D%E5%8F%91%E5%BE%AE%E7%AC%91%E6%B3%A8%E8%A7%86%E8%AE%B0%E8%80%85%E8%A2%AB%E8%B5%B6%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [周鸿祎天价离婚案后续](https://www.baidu.com/s?wd=%E5%91%A8%E9%B8%BF%E7%A5%8E%E5%A4%A9%E4%BB%B7%E7%A6%BB%E5%A9%9A%E6%A1%88%E5%90%8E%E7%BB%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
