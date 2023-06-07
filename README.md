@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 15:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 15:52:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [首位走出考场的考生喊话马化腾](https://www.baidu.com/s?wd=%E9%A6%96%E4%BD%8D%E8%B5%B0%E5%87%BA%E8%80%83%E5%9C%BA%E7%9A%84%E8%80%83%E7%94%9F%E5%96%8A%E8%AF%9D%E9%A9%AC%E5%8C%96%E8%85%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [国企领导与异性亲密逛街 公司回应](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BC%81%E9%A2%86%E5%AF%BC%E4%B8%8E%E5%BC%82%E6%80%A7%E4%BA%B2%E5%AF%86%E9%80%9B%E8%A1%97+%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [AI考生迎战高考语文](https://www.baidu.com/s?wd=AI%E8%80%83%E7%94%9F%E8%BF%8E%E6%88%98%E9%AB%98%E8%80%83%E8%AF%AD%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [巡视组回应国企领导疑出差带小三](https://www.baidu.com/s?wd=%E5%B7%A1%E8%A7%86%E7%BB%84%E5%9B%9E%E5%BA%94%E5%9B%BD%E4%BC%81%E9%A2%86%E5%AF%BC%E7%96%91%E5%87%BA%E5%B7%AE%E5%B8%A6%E5%B0%8F%E4%B8%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [大学生校内遇害 嫌疑人已被控制](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%A0%A1%E5%86%85%E9%81%87%E5%AE%B3+%E5%AB%8C%E7%96%91%E4%BA%BA%E5%B7%B2%E8%A2%AB%E6%8E%A7%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [首位走出考场的考生喊话马化腾](https://www.baidu.com/s?wd=%E9%A6%96%E4%BD%8D%E8%B5%B0%E5%87%BA%E8%80%83%E5%9C%BA%E7%9A%84%E8%80%83%E7%94%9F%E5%96%8A%E8%AF%9D%E9%A9%AC%E5%8C%96%E8%85%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [国企领导与异性亲密逛街 公司回应](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BC%81%E9%A2%86%E5%AF%BC%E4%B8%8E%E5%BC%82%E6%80%A7%E4%BA%B2%E5%AF%86%E9%80%9B%E8%A1%97+%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [AI考生迎战高考语文](https://www.baidu.com/s?wd=AI%E8%80%83%E7%94%9F%E8%BF%8E%E6%88%98%E9%AB%98%E8%80%83%E8%AF%AD%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [巡视组回应国企领导疑出差带小三](https://www.baidu.com/s?wd=%E5%B7%A1%E8%A7%86%E7%BB%84%E5%9B%9E%E5%BA%94%E5%9B%BD%E4%BC%81%E9%A2%86%E5%AF%BC%E7%96%91%E5%87%BA%E5%B7%AE%E5%B8%A6%E5%B0%8F%E4%B8%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [大学生校内遇害 嫌疑人已被控制](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%A0%A1%E5%86%85%E9%81%87%E5%AE%B3+%E5%AB%8C%E7%96%91%E4%BA%BA%E5%B7%B2%E8%A2%AB%E6%8E%A7%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
