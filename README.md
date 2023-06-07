@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 13:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 13:58:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [AI写高考作文](https://s.weibo.com/weibo?q=%23AI%E5%86%99%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [Angelababy 蒂芙尼](https://s.weibo.com/weibo?q=%23Angelababy%20%E8%92%82%E8%8A%99%E5%B0%BC%23&t=31&band_rank=7&Refer=top)<br />
 8. [高考](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83&t=31&band_rank=8&Refer=top)<br />
-9. [第一个出考场的考生麻烦你了](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%87%BA%E8%80%83%E5%9C%BA%E7%9A%84%E8%80%83%E7%94%9F%E9%BA%BB%E7%83%A6%E4%BD%A0%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [任嘉伦押中高考作文题](https://s.weibo.com/weibo?q=%23%E4%BB%BB%E5%98%89%E4%BC%A6%E6%8A%BC%E4%B8%AD%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%E9%A2%98%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [斯诺克假球案十位中国球员遭处罚，梁文博李行终身禁赛，颜丙涛禁赛五年，赵心童 20 个月，哪些信息值得关注？](https://www.zhihu.com/question/605220735)<br />
 7. [浙江一房东在出租房装 5 级能耗空调，引租客吐槽，你对此有何看法？](https://www.zhihu.com/question/604418376)<br />
 8. []()<br />
-9. [杭州某酒店婚宴七成为预制， 六千元酒席配货不超 1500 元，蒸蒸摆盘就上桌，预制菜进入婚宴合理吗？](https://www.zhihu.com/question/604884736)<br />
+9. [世界银行上调中国 2023 年经济增速预期至 5.6%，释放了哪些信号？](https://www.zhihu.com/question/605183325)<br />
 
 > 百度  
 
