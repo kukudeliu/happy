@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 17:41:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 17:42:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [多家饭店因在凉皮内放黄瓜丝被罚](https://www.baidu.com/s?wd=%E5%A4%9A%E5%AE%B6%E9%A5%AD%E5%BA%97%E5%9B%A0%E5%9C%A8%E5%87%89%E7%9A%AE%E5%86%85%E6%94%BE%E9%BB%84%E7%93%9C%E4%B8%9D%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [任嘉伦押中高考作文题](https://www.baidu.com/s?wd=%E4%BB%BB%E5%98%89%E4%BC%A6%E6%8A%BC%E4%B8%AD%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [AI考生迎战高考语文](https://www.baidu.com/s?wd=AI%E8%80%83%E7%94%9F%E8%BF%8E%E6%88%98%E9%AB%98%E8%80%83%E8%AF%AD%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [家长送孩子高考竟把小女儿忘考场](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E9%80%81%E5%AD%A9%E5%AD%90%E9%AB%98%E8%80%83%E7%AB%9F%E6%8A%8A%E5%B0%8F%E5%A5%B3%E5%84%BF%E5%BF%98%E8%80%83%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [22届考生比23届更着急看到数学试卷](https://www.baidu.com/s?wd=22%E5%B1%8A%E8%80%83%E7%94%9F%E6%AF%9423%E5%B1%8A%E6%9B%B4%E7%9D%80%E6%80%A5%E7%9C%8B%E5%88%B0%E6%95%B0%E5%AD%A6%E8%AF%95%E5%8D%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [多家饭店因在凉皮内放黄瓜丝被罚](https://www.baidu.com/s?wd=%E5%A4%9A%E5%AE%B6%E9%A5%AD%E5%BA%97%E5%9B%A0%E5%9C%A8%E5%87%89%E7%9A%AE%E5%86%85%E6%94%BE%E9%BB%84%E7%93%9C%E4%B8%9D%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [任嘉伦押中高考作文题](https://www.baidu.com/s?wd=%E4%BB%BB%E5%98%89%E4%BC%A6%E6%8A%BC%E4%B8%AD%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [AI考生迎战高考语文](https://www.baidu.com/s?wd=AI%E8%80%83%E7%94%9F%E8%BF%8E%E6%88%98%E9%AB%98%E8%80%83%E8%AF%AD%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [家长送孩子高考竟把小女儿忘考场](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E9%80%81%E5%AD%A9%E5%AD%90%E9%AB%98%E8%80%83%E7%AB%9F%E6%8A%8A%E5%B0%8F%E5%A5%B3%E5%84%BF%E5%BF%98%E8%80%83%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [22届考生比23届更着急看到数学试卷](https://www.baidu.com/s?wd=22%E5%B1%8A%E8%80%83%E7%94%9F%E6%AF%9423%E5%B1%8A%E6%9B%B4%E7%9D%80%E6%80%A5%E7%9C%8B%E5%88%B0%E6%95%B0%E5%AD%A6%E8%AF%95%E5%8D%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
