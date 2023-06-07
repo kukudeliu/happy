@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 18:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 18:12:02</h4></div>
 
 > 微博  
 
@@ -20,8 +20,8 @@
 4. [我不想和男朋友一起用公积金买房是自私吗？](https://www.zhihu.com/question/600695811)<br />
 5. [杭州某酒店婚宴七成为预制， 六千元酒席配货不超 1500 元，蒸蒸摆盘就上桌，预制菜进入婚宴合理吗？](https://www.zhihu.com/question/604884736)<br />
 6. [金融行业降薪潮已至，有券商部分员工下调幅度为 6000 元至 1 万元不等。此举意味着什么？](https://www.zhihu.com/question/605232027)<br />
-7. [珠峰救援者呼吁「不要网暴被救女子」，出于哪些考虑？](https://www.zhihu.com/question/605020694)<br />
-8. [如何评价 2023 年新高考全国 Ⅰ 卷数学题？与去年相比难度如何？](https://www.zhihu.com/question/605250572)<br />
+7. [如何评价 2023 年新高考全国 Ⅰ 卷数学题？与去年相比难度如何？](https://www.zhihu.com/question/605250572)<br />
+8. [珠峰救援者呼吁「不要网暴被救女子」，出于哪些考虑？](https://www.zhihu.com/question/605020694)<br />
 9. [2023 高考数学题难度如何？哪道题让人印象深刻？](https://www.zhihu.com/question/605281198)<br />
 
 > 百度  
