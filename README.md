@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 14:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 14:17:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [高考入场时发现身份证6月6日过期](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%85%A5%E5%9C%BA%E6%97%B6%E5%8F%91%E7%8E%B0%E8%BA%AB%E4%BB%BD%E8%AF%816%E6%9C%886%E6%97%A5%E8%BF%87%E6%9C%9F%23&t=31&band_rank=4&Refer=top)<br />
 5. [任嘉伦押中高考作文题](https://s.weibo.com/weibo?q=%23%E4%BB%BB%E5%98%89%E4%BC%A6%E6%8A%BC%E4%B8%AD%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%E9%A2%98%23&t=31&band_rank=5&Refer=top)<br />
 6. [高考作文](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87&t=31&band_rank=6&Refer=top)<br />
-7. [人体最硬的部位是什么](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E4%BD%93%E6%9C%80%E7%A1%AC%E7%9A%84%E9%83%A8%E4%BD%8D%E6%98%AF%E4%BB%80%E4%B9%88%23&t=31&band_rank=7&Refer=top)<br />
-8. [AI写高考作文](https://s.weibo.com/weibo?q=%23AI%E5%86%99%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%23&t=31&band_rank=8&Refer=top)<br />
+7. [AI写高考作文](https://s.weibo.com/weibo?q=%23AI%E5%86%99%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%23&t=31&band_rank=7&Refer=top)<br />
+8. [人体最硬的部位是什么](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E4%BD%93%E6%9C%80%E7%A1%AC%E7%9A%84%E9%83%A8%E4%BD%8D%E6%98%AF%E4%BB%80%E4%B9%88%23&t=31&band_rank=8&Refer=top)<br />
 9. [Angelababy 蒂芙尼](https://s.weibo.com/weibo?q=%23Angelababy%20%E8%92%82%E8%8A%99%E5%B0%BC%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
