@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 21:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 21:56:02</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [2023 高考数学题难度如何？哪道题让人印象深刻？](https://www.zhihu.com/question/605281198)<br />
 7. [《大明王朝 1566》中，嘉靖帝为什么不感恩沈一石替他解围，反而要杀了他？](https://www.zhihu.com/question/604357966)<br />
 8. [多家国有大行 6 月 8 日起下调人民币存款利率，释放了什么信号？将带来哪些影响？](https://www.zhihu.com/question/605298719)<br />
-9. [2023 年 618，有哪些超高性价比降噪耳机推荐？](https://www.zhihu.com/question/605153317)<br />
+9. [老板的一句话：「我要功劳，不要苦劳」，你怎么看？](https://www.zhihu.com/question/599044001)<br />
 
 > 百度  
 
