@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 22:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 22:16:01</h4></div>
 
 > 微博  
 
@@ -20,8 +20,8 @@
 4. [《大明王朝 1566》中，嘉靖帝为什么不感恩沈一石替他解围，反而要杀了他？](https://www.zhihu.com/question/604357966)<br />
 5. [2023 高考数学题难度如何？哪道题让人印象深刻？](https://www.zhihu.com/question/605281198)<br />
 6. [多家国有大行 6 月 8 日起下调人民币存款利率，释放了什么信号？将带来哪些影响？](https://www.zhihu.com/question/605298719)<br />
-7. [我不想和男朋友一起用公积金买房是自私吗？](https://www.zhihu.com/question/600695811)<br />
-8. [老板的一句话：「我要功劳，不要苦劳」，你怎么看？](https://www.zhihu.com/question/599044001)<br />
+7. [老板的一句话：「我要功劳，不要苦劳」，你怎么看？](https://www.zhihu.com/question/599044001)<br />
+8. [我不想和男朋友一起用公积金买房是自私吗？](https://www.zhihu.com/question/600695811)<br />
 9. [农业农村部、体育总局发文，举办全国和美乡村篮球大赛「 村 BA 」，哪些信息值得关注？](https://www.zhihu.com/question/605304366)<br />
 
 > 百度  
