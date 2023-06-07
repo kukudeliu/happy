@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 14:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 14:40:01</h4></div>
 
 > 微博  
 
-1. [受伤的只有22届](https://s.weibo.com/weibo?q=%E5%8F%97%E4%BC%A4%E7%9A%84%E5%8F%AA%E6%9C%8922%E5%B1%8A&t=31&band_rank=1&Refer=top)<br />
-2. [任嘉伦押中高考作文题](https://s.weibo.com/weibo?q=%23%E4%BB%BB%E5%98%89%E4%BC%A6%E6%8A%BC%E4%B8%AD%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%E9%A2%98%23&t=31&band_rank=2&Refer=top)<br />
+1. [任嘉伦押中高考作文题](https://s.weibo.com/weibo?q=%23%E4%BB%BB%E5%98%89%E4%BC%A6%E6%8A%BC%E4%B8%AD%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%E9%A2%98%23&t=31&band_rank=1&Refer=top)<br />
+2. [受伤的只有22届](https://s.weibo.com/weibo?q=%E5%8F%97%E4%BC%A4%E7%9A%84%E5%8F%AA%E6%9C%8922%E5%B1%8A&t=31&band_rank=2&Refer=top)<br />
 3. [今天把最好的祝福送给高考生](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E6%8A%8A%E6%9C%80%E5%A5%BD%E7%9A%84%E7%A5%9D%E7%A6%8F%E9%80%81%E7%BB%99%E9%AB%98%E8%80%83%E7%94%9F%23&t=31&band_rank=3&Refer=top)<br />
 4. [高考作文 简单](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%20%E7%AE%80%E5%8D%95&t=31&band_rank=4&Refer=top)<br />
 5. [高考入场时发现身份证6月6日过期](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%85%A5%E5%9C%BA%E6%97%B6%E5%8F%91%E7%8E%B0%E8%BA%AB%E4%BB%BD%E8%AF%816%E6%9C%886%E6%97%A5%E8%BF%87%E6%9C%9F%23&t=31&band_rank=5&Refer=top)<br />
