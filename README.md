@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 12:28:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 12:29:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [第一个出考场的考生麻烦你了](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%87%BA%E8%80%83%E5%9C%BA%E7%9A%84%E8%80%83%E7%94%9F%E9%BA%BB%E7%83%A6%E4%BD%A0%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [新课标一卷 故事是有力量的](https://s.weibo.com/weibo?q=%E6%96%B0%E8%AF%BE%E6%A0%87%E4%B8%80%E5%8D%B7%20%E6%95%85%E4%BA%8B%E6%98%AF%E6%9C%89%E5%8A%9B%E9%87%8F%E7%9A%84&t=31&band_rank=6&Refer=top)<br />
 7. [高考](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83&t=31&band_rank=7&Refer=top)<br />
-8. [Angelababy 蒂芙尼](https://s.weibo.com/weibo?q=%23Angelababy%20%E8%92%82%E8%8A%99%E5%B0%BC%23&t=31&band_rank=8&Refer=top)<br />
-9. [全国甲卷 时间的仆人](https://s.weibo.com/weibo?q=%E5%85%A8%E5%9B%BD%E7%94%B2%E5%8D%B7%20%E6%97%B6%E9%97%B4%E7%9A%84%E4%BB%86%E4%BA%BA&t=31&band_rank=9&Refer=top)<br />
+8. [全国甲卷 时间的仆人](https://s.weibo.com/weibo?q=%E5%85%A8%E5%9B%BD%E7%94%B2%E5%8D%B7%20%E6%97%B6%E9%97%B4%E7%9A%84%E4%BB%86%E4%BA%BA&t=31&band_rank=8&Refer=top)<br />
+9. [Angelababy 蒂芙尼](https://s.weibo.com/weibo?q=%23Angelababy%20%E8%92%82%E8%8A%99%E5%B0%BC%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -32,9 +32,9 @@
 4. [毕业的寄语听着听着眼睛就湿了](https://www.baidu.com/s?wd=%E6%AF%95%E4%B8%9A%E7%9A%84%E5%AF%84%E8%AF%AD%E5%90%AC%E7%9D%80%E5%90%AC%E7%9D%80%E7%9C%BC%E7%9D%9B%E5%B0%B1%E6%B9%BF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [今年高考这些新闻还是来了](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E9%AB%98%E8%80%83%E8%BF%99%E4%BA%9B%E6%96%B0%E9%97%BB%E8%BF%98%E6%98%AF%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [考生今日高考 发现昨日身份证过期](https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%E4%BB%8A%E6%97%A5%E9%AB%98%E8%80%83+%E5%8F%91%E7%8E%B0%E6%98%A8%E6%97%A5%E8%BA%AB%E4%BB%BD%E8%AF%81%E8%BF%87%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [高考试卷是在监狱印刷的？揭秘](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E8%AF%95%E5%8D%B7%E6%98%AF%E5%9C%A8%E7%9B%91%E7%8B%B1%E5%8D%B0%E5%88%B7%E7%9A%84%EF%BC%9F%E6%8F%AD%E7%A7%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [北京第一位考生走出考场谈作文](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E7%AC%AC%E4%B8%80%E4%BD%8D%E8%80%83%E7%94%9F%E8%B5%B0%E5%87%BA%E8%80%83%E5%9C%BA%E8%B0%88%E4%BD%9C%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [高考防作弊磁弹枪亮相考点现场](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E9%98%B2%E4%BD%9C%E5%BC%8A%E7%A3%81%E5%BC%B9%E6%9E%AA%E4%BA%AE%E7%9B%B8%E8%80%83%E7%82%B9%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [谁炸毁了大坝？俄乌各执一词](https://www.baidu.com/s?wd=%E8%B0%81%E7%82%B8%E6%AF%81%E4%BA%86%E5%A4%A7%E5%9D%9D%EF%BC%9F%E4%BF%84%E4%B9%8C%E5%90%84%E6%89%A7%E4%B8%80%E8%AF%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [高考试卷是在监狱印刷的？揭秘](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E8%AF%95%E5%8D%B7%E6%98%AF%E5%9C%A8%E7%9B%91%E7%8B%B1%E5%8D%B0%E5%88%B7%E7%9A%84%EF%BC%9F%E6%8F%AD%E7%A7%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [北京第一位考生走出考场谈作文](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E7%AC%AC%E4%B8%80%E4%BD%8D%E8%80%83%E7%94%9F%E8%B5%B0%E5%87%BA%E8%80%83%E5%9C%BA%E8%B0%88%E4%BD%9C%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [毕业的寄语听着听着眼睛就湿了](https://www.baidu.com/s?wd=%E6%AF%95%E4%B8%9A%E7%9A%84%E5%AF%84%E8%AF%AD%E5%90%AC%E7%9D%80%E5%90%AC%E7%9D%80%E7%9C%BC%E7%9D%9B%E5%B0%B1%E6%B9%BF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [今年高考这些新闻还是来了](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E9%AB%98%E8%80%83%E8%BF%99%E4%BA%9B%E6%96%B0%E9%97%BB%E8%BF%98%E6%98%AF%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [考生今日高考 发现昨日身份证过期](https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%E4%BB%8A%E6%97%A5%E9%AB%98%E8%80%83+%E5%8F%91%E7%8E%B0%E6%98%A8%E6%97%A5%E8%BA%AB%E4%BB%BD%E8%AF%81%E8%BF%87%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [高考试卷是在监狱印刷的？揭秘](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E8%AF%95%E5%8D%B7%E6%98%AF%E5%9C%A8%E7%9B%91%E7%8B%B1%E5%8D%B0%E5%88%B7%E7%9A%84%EF%BC%9F%E6%8F%AD%E7%A7%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [北京第一位考生走出考场谈作文](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E7%AC%AC%E4%B8%80%E4%BD%8D%E8%80%83%E7%94%9F%E8%B5%B0%E5%87%BA%E8%80%83%E5%9C%BA%E8%B0%88%E4%BD%9C%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [高考防作弊磁弹枪亮相考点现场](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E9%98%B2%E4%BD%9C%E5%BC%8A%E7%A3%81%E5%BC%B9%E6%9E%AA%E4%BA%AE%E7%9B%B8%E8%80%83%E7%82%B9%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [谁炸毁了大坝？俄乌各执一词](https://www.baidu.com/s?wd=%E8%B0%81%E7%82%B8%E6%AF%81%E4%BA%86%E5%A4%A7%E5%9D%9D%EF%BC%9F%E4%BF%84%E4%B9%8C%E5%90%84%E6%89%A7%E4%B8%80%E8%AF%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [高考试卷是在监狱印刷的？揭秘](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E8%AF%95%E5%8D%B7%E6%98%AF%E5%9C%A8%E7%9B%91%E7%8B%B1%E5%8D%B0%E5%88%B7%E7%9A%84%EF%BC%9F%E6%8F%AD%E7%A7%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [北京第一位考生走出考场谈作文](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E7%AC%AC%E4%B8%80%E4%BD%8D%E8%80%83%E7%94%9F%E8%B5%B0%E5%87%BA%E8%80%83%E5%9C%BA%E8%B0%88%E4%BD%9C%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
