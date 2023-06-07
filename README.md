@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 11:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 11:31:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [梁文博终身禁赛](https://s.weibo.com/weibo?q=%23%E6%A2%81%E6%96%87%E5%8D%9A%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B%23&t=31&band_rank=6&Refer=top)<br />
 7. [2023年高考第一个丢准考证的同学](https://s.weibo.com/weibo?q=%232023%E5%B9%B4%E9%AB%98%E8%80%83%E7%AC%AC%E4%B8%80%E4%B8%AA%E4%B8%A2%E5%87%86%E8%80%83%E8%AF%81%E7%9A%84%E5%90%8C%E5%AD%A6%23&t=31&band_rank=7&Refer=top)<br />
 8. [今年高考生17年才刚小学毕业](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E9%AB%98%E8%80%83%E7%94%9F17%E5%B9%B4%E6%89%8D%E5%88%9A%E5%B0%8F%E5%AD%A6%E6%AF%95%E4%B8%9A%23&t=31&band_rank=8&Refer=top)<br />
-9. [高考防作弊磁弹枪亮相考点现场](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E9%98%B2%E4%BD%9C%E5%BC%8A%E7%A3%81%E5%BC%B9%E6%9E%AA%E4%BA%AE%E7%9B%B8%E8%80%83%E7%82%B9%E7%8E%B0%E5%9C%BA%23&t=31&band_rank=9&Refer=top)<br />
+9. [高考各科时间表](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%90%84%E7%A7%91%E6%97%B6%E9%97%B4%E8%A1%A8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
