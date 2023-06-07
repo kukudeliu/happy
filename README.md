@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 09:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 09:39:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [首艘国产大型邮轮爱达魔都号出坞](https://s.weibo.com/weibo?q=%23%E9%A6%96%E8%89%98%E5%9B%BD%E4%BA%A7%E5%A4%A7%E5%9E%8B%E9%82%AE%E8%BD%AE%E7%88%B1%E8%BE%BE%E9%AD%94%E9%83%BD%E5%8F%B7%E5%87%BA%E5%9D%9E%23&t=31&band_rank=3&Refer=top)<br />
 4. [一公司称花2千万可和蔡徐坤吃饭](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%85%AC%E5%8F%B8%E7%A7%B0%E8%8A%B12%E5%8D%83%E4%B8%87%E5%8F%AF%E5%92%8C%E8%94%A1%E5%BE%90%E5%9D%A4%E5%90%83%E9%A5%AD%23&t=31&band_rank=4&Refer=top)<br />
 5. [今年高考生17年才刚小学毕业](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E9%AB%98%E8%80%83%E7%94%9F17%E5%B9%B4%E6%89%8D%E5%88%9A%E5%B0%8F%E5%AD%A6%E6%AF%95%E4%B8%9A%23&t=31&band_rank=5&Refer=top)<br />
-6. [高校鼠头事件涉事窗口几乎没人去吃饭](https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E9%BC%A0%E5%A4%B4%E4%BA%8B%E4%BB%B6%E6%B6%89%E4%BA%8B%E7%AA%97%E5%8F%A3%E5%87%A0%E4%B9%8E%E6%B2%A1%E4%BA%BA%E5%8E%BB%E5%90%83%E9%A5%AD%23&t=31&band_rank=6&Refer=top)<br />
-7. [6年前忘带准考证受助考生成交警新同事](https://s.weibo.com/weibo?q=%236%E5%B9%B4%E5%89%8D%E5%BF%98%E5%B8%A6%E5%87%86%E8%80%83%E8%AF%81%E5%8F%97%E5%8A%A9%E8%80%83%E7%94%9F%E6%88%90%E4%BA%A4%E8%AD%A6%E6%96%B0%E5%90%8C%E4%BA%8B%23&t=31&band_rank=7&Refer=top)<br />
+6. [6年前忘带准考证受助考生成交警新同事](https://s.weibo.com/weibo?q=%236%E5%B9%B4%E5%89%8D%E5%BF%98%E5%B8%A6%E5%87%86%E8%80%83%E8%AF%81%E5%8F%97%E5%8A%A9%E8%80%83%E7%94%9F%E6%88%90%E4%BA%A4%E8%AD%A6%E6%96%B0%E5%90%8C%E4%BA%8B%23&t=31&band_rank=6&Refer=top)<br />
+7. [高校鼠头事件涉事窗口几乎没人去吃饭](https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E9%BC%A0%E5%A4%B4%E4%BA%8B%E4%BB%B6%E6%B6%89%E4%BA%8B%E7%AA%97%E5%8F%A3%E5%87%A0%E4%B9%8E%E6%B2%A1%E4%BA%BA%E5%8E%BB%E5%90%83%E9%A5%AD%23&t=31&band_rank=7&Refer=top)<br />
 8. [娜扎方否认高考596分](https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8E%E6%96%B9%E5%90%A6%E8%AE%A4%E9%AB%98%E8%80%83596%E5%88%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [2023年高考第一个丢准考证的同学](https://s.weibo.com/weibo?q=%232023%E5%B9%B4%E9%AB%98%E8%80%83%E7%AC%AC%E4%B8%80%E4%B8%AA%E4%B8%A2%E5%87%86%E8%80%83%E8%AF%81%E7%9A%84%E5%90%8C%E5%AD%A6%23&t=31&band_rank=9&Refer=top)<br />
 
@@ -21,8 +21,8 @@
 5. [1291 万高考生奔赴考场，你认为 2023 年高考与往年相比最值得关注的变化是什么？](https://www.zhihu.com/question/605100302)<br />
 6. [上汽大众新能源车碰撞后起火 4 人遇难，具体情况如何？为什么起火速度这么快？](https://www.zhihu.com/question/604916015)<br />
 7. [2023 高考今日开考，1291 万考生奔赴考场，你有哪些祝福要送给他们？对于高考，你有哪些记忆？](https://www.zhihu.com/question/605215397)<br />
-8. [美官员称中方舰机拦截或导致事故，外交部回应「是美国军用舰机不远万里跑到中国家门口挑衅」，如何解读？](https://www.zhihu.com/question/605094826)<br />
-9. [珠峰救援者呼吁「不要网暴被救女子」，出于哪些考虑？](https://www.zhihu.com/question/605020694)<br />
+8. [珠峰救援者呼吁「不要网暴被救女子」，出于哪些考虑？](https://www.zhihu.com/question/605020694)<br />
+9. [可以为今年的高考生预测一道数学题吗？](https://www.zhihu.com/question/604848651)<br />
 
 > 百度  
 
