@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 20:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 20:48:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [妻子南非出轨染艾滋生下混血婴儿](https://www.baidu.com/s?wd=%E5%A6%BB%E5%AD%90%E5%8D%97%E9%9D%9E%E5%87%BA%E8%BD%A8%E6%9F%93%E8%89%BE%E6%BB%8B%E7%94%9F%E4%B8%8B%E6%B7%B7%E8%A1%80%E5%A9%B4%E5%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [贾玲为了新角色要减重100斤](https://www.baidu.com/s?wd=%E8%B4%BE%E7%8E%B2%E4%B8%BA%E4%BA%86%E6%96%B0%E8%A7%92%E8%89%B2%E8%A6%81%E5%87%8F%E9%87%8D100%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [多家大行8日起下调人民币存款利率](https://www.baidu.com/s?wd=%E5%A4%9A%E5%AE%B6%E5%A4%A7%E8%A1%8C8%E6%97%A5%E8%B5%B7%E4%B8%8B%E8%B0%83%E4%BA%BA%E6%B0%91%E5%B8%81%E5%AD%98%E6%AC%BE%E5%88%A9%E7%8E%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [大爷公交车上强吻女孩被围堵](https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E5%85%AC%E4%BA%A4%E8%BD%A6%E4%B8%8A%E5%BC%BA%E5%90%BB%E5%A5%B3%E5%AD%A9%E8%A2%AB%E5%9B%B4%E5%A0%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [甲卷数学 边考边哭](https://www.baidu.com/s?wd=%E7%94%B2%E5%8D%B7%E6%95%B0%E5%AD%A6+%E8%BE%B9%E8%80%83%E8%BE%B9%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [妻子南非出轨染艾滋生下混血婴儿](https://www.baidu.com/s?wd=%E5%A6%BB%E5%AD%90%E5%8D%97%E9%9D%9E%E5%87%BA%E8%BD%A8%E6%9F%93%E8%89%BE%E6%BB%8B%E7%94%9F%E4%B8%8B%E6%B7%B7%E8%A1%80%E5%A9%B4%E5%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [贾玲为了新角色要减重100斤](https://www.baidu.com/s?wd=%E8%B4%BE%E7%8E%B2%E4%B8%BA%E4%BA%86%E6%96%B0%E8%A7%92%E8%89%B2%E8%A6%81%E5%87%8F%E9%87%8D100%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [多家大行8日起下调人民币存款利率](https://www.baidu.com/s?wd=%E5%A4%9A%E5%AE%B6%E5%A4%A7%E8%A1%8C8%E6%97%A5%E8%B5%B7%E4%B8%8B%E8%B0%83%E4%BA%BA%E6%B0%91%E5%B8%81%E5%AD%98%E6%AC%BE%E5%88%A9%E7%8E%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [大爷公交车上强吻女孩被围堵](https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E5%85%AC%E4%BA%A4%E8%BD%A6%E4%B8%8A%E5%BC%BA%E5%90%BB%E5%A5%B3%E5%AD%A9%E8%A2%AB%E5%9B%B4%E5%A0%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [甲卷数学 边考边哭](https://www.baidu.com/s?wd=%E7%94%B2%E5%8D%B7%E6%95%B0%E5%AD%A6+%E8%BE%B9%E8%80%83%E8%BE%B9%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
