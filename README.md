@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 14:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 14:10:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [任嘉伦押中高考作文题](https://s.weibo.com/weibo?q=%23%E4%BB%BB%E5%98%89%E4%BC%A6%E6%8A%BC%E4%B8%AD%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%E9%A2%98%23&t=31&band_rank=5&Refer=top)<br />
 6. [高考作文](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87&t=31&band_rank=6&Refer=top)<br />
 7. [AI写高考作文](https://s.weibo.com/weibo?q=%23AI%E5%86%99%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%23&t=31&band_rank=7&Refer=top)<br />
-8. [Angelababy 蒂芙尼](https://s.weibo.com/weibo?q=%23Angelababy%20%E8%92%82%E8%8A%99%E5%B0%BC%23&t=31&band_rank=8&Refer=top)<br />
-9. [高考](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83&t=31&band_rank=9&Refer=top)<br />
+8. [高考](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83&t=31&band_rank=8&Refer=top)<br />
+9. [Angelababy 蒂芙尼](https://s.weibo.com/weibo?q=%23Angelababy%20%E8%92%82%E8%8A%99%E5%B0%BC%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
