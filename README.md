@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 17:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 17:19:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [国企负责人与异性牵手逛街被拍](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BC%81%E8%B4%9F%E8%B4%A3%E4%BA%BA%E4%B8%8E%E5%BC%82%E6%80%A7%E7%89%B5%E6%89%8B%E9%80%9B%E8%A1%97%E8%A2%AB%E6%8B%8D%23&t=31&band_rank=6&Refer=top)<br />
 7. [22届考生比23届更着急看到数学试卷](https://s.weibo.com/weibo?q=22%E5%B1%8A%E8%80%83%E7%94%9F%E6%AF%9423%E5%B1%8A%E6%9B%B4%E7%9D%80%E6%80%A5%E7%9C%8B%E5%88%B0%E6%95%B0%E5%AD%A6%E8%AF%95%E5%8D%B7&t=31&band_rank=7&Refer=top)<br />
 8. [高考完了不用去打暑期工](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E5%AE%8C%E4%BA%86%E4%B8%8D%E7%94%A8%E5%8E%BB%E6%89%93%E6%9A%91%E6%9C%9F%E5%B7%A5&t=31&band_rank=8&Refer=top)<br />
-9. [高考作文](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87&t=31&band_rank=9&Refer=top)<br />
+9. [数学到底难不难](https://s.weibo.com/weibo?q=%E6%95%B0%E5%AD%A6%E5%88%B0%E5%BA%95%E9%9A%BE%E4%B8%8D%E9%9A%BE&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -20,8 +20,8 @@
 4. [我不想和男朋友一起用公积金买房是自私吗？](https://www.zhihu.com/question/600695811)<br />
 5. [杭州某酒店婚宴七成为预制， 六千元酒席配货不超 1500 元，蒸蒸摆盘就上桌，预制菜进入婚宴合理吗？](https://www.zhihu.com/question/604884736)<br />
 6. [金融行业降薪潮已至，有券商部分员工下调幅度为 6000 元至 1 万元不等。此举意味着什么？](https://www.zhihu.com/question/605232027)<br />
-7. [如果你穿进了乙女游戏，你会怎么办？](https://www.zhihu.com/question/511876153)<br />
-8. [如何看待 Apple Vision Pro 发布后，苹果股价不涨反跌？](https://www.zhihu.com/question/604993519)<br />
+7. [如何看待 Apple Vision Pro 发布后，苹果股价不涨反跌？](https://www.zhihu.com/question/604993519)<br />
+8. [如果你穿进了乙女游戏，你会怎么办？](https://www.zhihu.com/question/511876153)<br />
 9. [漫画里有哪些角色情绪崩溃大哭的片段?](https://www.zhihu.com/question/603192975)<br />
 
 > 百度  
