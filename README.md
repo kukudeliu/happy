@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 16:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 16:18:02</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [任嘉伦押中高考作文题](https://s.weibo.com/weibo?q=%23%E4%BB%BB%E5%98%89%E4%BC%A6%E6%8A%BC%E4%B8%AD%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%E9%A2%98%23&t=31&band_rank=2&Refer=top)<br />
 3. [各地考场门口温暖直拍](https://s.weibo.com/weibo?q=%23%E5%90%84%E5%9C%B0%E8%80%83%E5%9C%BA%E9%97%A8%E5%8F%A3%E6%B8%A9%E6%9A%96%E7%9B%B4%E6%8B%8D%23&t=31&band_rank=3&Refer=top)<br />
 4. [受伤的只有22届](https://s.weibo.com/weibo?q=%E5%8F%97%E4%BC%A4%E7%9A%84%E5%8F%AA%E6%9C%8922%E5%B1%8A&t=31&band_rank=4&Refer=top)<br />
-5. [南京一高校学生宿舍内被杀害](https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E4%B8%80%E9%AB%98%E6%A0%A1%E5%AD%A6%E7%94%9F%E5%AE%BF%E8%88%8D%E5%86%85%E8%A2%AB%E6%9D%80%E5%AE%B3%23&t=31&band_rank=5&Refer=top)<br />
+5. [马思纯瘦了30斤](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%80%9D%E7%BA%AF%E7%98%A6%E4%BA%8630%E6%96%A4%23&t=31&band_rank=5&Refer=top)<br />
 6. [国企负责人与异性牵手逛街被拍](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BC%81%E8%B4%9F%E8%B4%A3%E4%BA%BA%E4%B8%8E%E5%BC%82%E6%80%A7%E7%89%B5%E6%89%8B%E9%80%9B%E8%A1%97%E8%A2%AB%E6%8B%8D%23&t=31&band_rank=6&Refer=top)<br />
-7. [马思纯瘦了30斤](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%80%9D%E7%BA%AF%E7%98%A6%E4%BA%8630%E6%96%A4%23&t=31&band_rank=7&Refer=top)<br />
-8. [今天把最好的祝福送给高考生](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E6%8A%8A%E6%9C%80%E5%A5%BD%E7%9A%84%E7%A5%9D%E7%A6%8F%E9%80%81%E7%BB%99%E9%AB%98%E8%80%83%E7%94%9F%23&t=31&band_rank=8&Refer=top)<br />
-9. [高考作文](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87&t=31&band_rank=9&Refer=top)<br />
+7. [南京一高校学生宿舍内被杀害](https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E4%B8%80%E9%AB%98%E6%A0%A1%E5%AD%A6%E7%94%9F%E5%AE%BF%E8%88%8D%E5%86%85%E8%A2%AB%E6%9D%80%E5%AE%B3%23&t=31&band_rank=7&Refer=top)<br />
+8. [高考作文](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87&t=31&band_rank=8&Refer=top)<br />
+9. [高考入场时发现身份证6月6日过期](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%85%A5%E5%9C%BA%E6%97%B6%E5%8F%91%E7%8E%B0%E8%BA%AB%E4%BB%BD%E8%AF%816%E6%9C%886%E6%97%A5%E8%BF%87%E6%9C%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -20,8 +20,8 @@
 4. [斯诺克假球案十位中国球员遭处罚，梁文博李行终身禁赛，颜丙涛禁赛五年，赵心童 20 个月，哪些信息值得关注？](https://www.zhihu.com/question/605220735)<br />
 5. [杭州某酒店婚宴七成为预制， 六千元酒席配货不超 1500 元，蒸蒸摆盘就上桌，预制菜进入婚宴合理吗？](https://www.zhihu.com/question/604884736)<br />
 6. [我不想和男朋友一起用公积金买房是自私吗？](https://www.zhihu.com/question/600695811)<br />
-7. [世界银行上调中国 2023 年经济增速预期至 5.6%，释放了哪些信号？](https://www.zhihu.com/question/605183325)<br />
-8. [和男朋友吃饭几乎都要吵架，是因为我挑食导致的吗？](https://www.zhihu.com/question/604746077)<br />
+7. [和男朋友吃饭几乎都要吵架，是因为我挑食导致的吗？](https://www.zhihu.com/question/604746077)<br />
+8. [世界银行上调中国 2023 年经济增速预期至 5.6%，释放了哪些信号？](https://www.zhihu.com/question/605183325)<br />
 9. [为什么在许多文章和报道中把「阴历」说成了「农历」？](https://www.zhihu.com/question/496279838)<br />
 
 > 百度  
