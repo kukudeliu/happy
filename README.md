@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 11:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 11:46:01</h4></div>
 
 > 微博  
 
-1. [高考语文](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E8%AF%AD%E6%96%87&t=31&band_rank=1&Refer=top)<br />
-2. [高考作文](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87&t=31&band_rank=2&Refer=top)<br />
+1. [高考作文](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87&t=31&band_rank=1&Refer=top)<br />
+2. [高考语文](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E8%AF%AD%E6%96%87&t=31&band_rank=2&Refer=top)<br />
 3. [我的高考回忆](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E9%AB%98%E8%80%83%E5%9B%9E%E5%BF%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [高考](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83&t=31&band_rank=4&Refer=top)<br />
 5. [第一个出考场的考生麻烦你了](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%87%BA%E8%80%83%E5%9C%BA%E7%9A%84%E8%80%83%E7%94%9F%E9%BA%BB%E7%83%A6%E4%BD%A0%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
