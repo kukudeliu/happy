@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 14:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 14:56:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [高考入场时发现身份证6月6日过期](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%85%A5%E5%9C%BA%E6%97%B6%E5%8F%91%E7%8E%B0%E8%BA%AB%E4%BB%BD%E8%AF%816%E6%9C%886%E6%97%A5%E8%BF%87%E6%9C%9F%23&t=31&band_rank=5&Refer=top)<br />
 6. [这声985谁听了不迷糊](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%A3%B0985%E8%B0%81%E5%90%AC%E4%BA%86%E4%B8%8D%E8%BF%B7%E7%B3%8A%23&t=31&band_rank=6&Refer=top)<br />
 7. [林俊杰巡演下半年场次官宣](https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%B7%A1%E6%BC%94%E4%B8%8B%E5%8D%8A%E5%B9%B4%E5%9C%BA%E6%AC%A1%E5%AE%98%E5%AE%A3%23&t=31&band_rank=7&Refer=top)<br />
-8. [高考作文](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87&t=31&band_rank=8&Refer=top)<br />
-9. [山河令制片人马韬去世](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E6%B2%B3%E4%BB%A4%E5%88%B6%E7%89%87%E4%BA%BA%E9%A9%AC%E9%9F%AC%E5%8E%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
+8. [山河令制片人马韬去世](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E6%B2%B3%E4%BB%A4%E5%88%B6%E7%89%87%E4%BA%BA%E9%A9%AC%E9%9F%AC%E5%8E%BB%E4%B8%96%23&t=31&band_rank=8&Refer=top)<br />
+9. [高考作文](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
