@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 13:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 13:35:02</h4></div>
 
 > 微博  
 
@@ -31,10 +31,10 @@
 3. [高考作文解析来了 哪家最难？](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%E8%A7%A3%E6%9E%90%E6%9D%A5%E4%BA%86+%E5%93%AA%E5%AE%B6%E6%9C%80%E9%9A%BE%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [毕业的寄语听着听着眼睛就湿了](https://www.baidu.com/s?wd=%E6%AF%95%E4%B8%9A%E7%9A%84%E5%AF%84%E8%AF%AD%E5%90%AC%E7%9D%80%E5%90%AC%E7%9D%80%E7%9C%BC%E7%9D%9B%E5%B0%B1%E6%B9%BF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [高考各地第一个走出考场的考生](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E5%90%84%E5%9C%B0%E7%AC%AC%E4%B8%80%E4%B8%AA%E8%B5%B0%E5%87%BA%E8%80%83%E5%9C%BA%E7%9A%84%E8%80%83%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [南京一大学生宿舍内被杀害 校方回应](https://www.baidu.com/s?wd=%E5%8D%97%E4%BA%AC%E4%B8%80%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%AE%BF%E8%88%8D%E5%86%85%E8%A2%AB%E6%9D%80%E5%AE%B3+%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [省教育厅介入食堂老鼠头事件调查](https://www.baidu.com/s?wd=%E7%9C%81%E6%95%99%E8%82%B2%E5%8E%85%E4%BB%8B%E5%85%A5%E9%A3%9F%E5%A0%82%E8%80%81%E9%BC%A0%E5%A4%B4%E4%BA%8B%E4%BB%B6%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [国企领导与异性牵手被拍 引发关注](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BC%81%E9%A2%86%E5%AF%BC%E4%B8%8E%E5%BC%82%E6%80%A7%E7%89%B5%E6%89%8B%E8%A2%AB%E6%8B%8D+%E5%BC%95%E5%8F%91%E5%85%B3%E6%B3%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [高考首个忘带证件考生出炉](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E9%A6%96%E4%B8%AA%E5%BF%98%E5%B8%A6%E8%AF%81%E4%BB%B6%E8%80%83%E7%94%9F%E5%87%BA%E7%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [比亚迪押中高考作文](https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%8A%BC%E4%B8%AD%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [国企领导与异性牵手被拍 引发关注](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BC%81%E9%A2%86%E5%AF%BC%E4%B8%8E%E5%BC%82%E6%80%A7%E7%89%B5%E6%89%8B%E8%A2%AB%E6%8B%8D+%E5%BC%95%E5%8F%91%E5%85%B3%E6%B3%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [省教育厅介入食堂老鼠头事件调查](https://www.baidu.com/s?wd=%E7%9C%81%E6%95%99%E8%82%B2%E5%8E%85%E4%BB%8B%E5%85%A5%E9%A3%9F%E5%A0%82%E8%80%81%E9%BC%A0%E5%A4%B4%E4%BA%8B%E4%BB%B6%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [央视网追问地面沉降3000人离家后续](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E7%BD%91%E8%BF%BD%E9%97%AE%E5%9C%B0%E9%9D%A2%E6%B2%89%E9%99%8D3000%E4%BA%BA%E7%A6%BB%E5%AE%B6%E5%90%8E%E7%BB%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [高考作文解析来了 哪家最难？](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%E8%A7%A3%E6%9E%90%E6%9D%A5%E4%BA%86+%E5%93%AA%E5%AE%B6%E6%9C%80%E9%9A%BE%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [毕业的寄语听着听着眼睛就湿了](https://www.baidu.com/s?wd=%E6%AF%95%E4%B8%9A%E7%9A%84%E5%AF%84%E8%AF%AD%E5%90%AC%E7%9D%80%E5%90%AC%E7%9D%80%E7%9C%BC%E7%9D%9B%E5%B0%B1%E6%B9%BF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [高考各地第一个走出考场的考生](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E5%90%84%E5%9C%B0%E7%AC%AC%E4%B8%80%E4%B8%AA%E8%B5%B0%E5%87%BA%E8%80%83%E5%9C%BA%E7%9A%84%E8%80%83%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [南京一大学生宿舍内被杀害 校方回应](https://www.baidu.com/s?wd=%E5%8D%97%E4%BA%AC%E4%B8%80%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%AE%BF%E8%88%8D%E5%86%85%E8%A2%AB%E6%9D%80%E5%AE%B3+%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [省教育厅介入食堂老鼠头事件调查](https://www.baidu.com/s?wd=%E7%9C%81%E6%95%99%E8%82%B2%E5%8E%85%E4%BB%8B%E5%85%A5%E9%A3%9F%E5%A0%82%E8%80%81%E9%BC%A0%E5%A4%B4%E4%BA%8B%E4%BB%B6%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [国企领导与异性牵手被拍 引发关注](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BC%81%E9%A2%86%E5%AF%BC%E4%B8%8E%E5%BC%82%E6%80%A7%E7%89%B5%E6%89%8B%E8%A2%AB%E6%8B%8D+%E5%BC%95%E5%8F%91%E5%85%B3%E6%B3%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [高考首个忘带证件考生出炉](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E9%A6%96%E4%B8%AA%E5%BF%98%E5%B8%A6%E8%AF%81%E4%BB%B6%E8%80%83%E7%94%9F%E5%87%BA%E7%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [比亚迪押中高考作文](https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%8A%BC%E4%B8%AD%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [国企领导与异性牵手被拍 引发关注](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BC%81%E9%A2%86%E5%AF%BC%E4%B8%8E%E5%BC%82%E6%80%A7%E7%89%B5%E6%89%8B%E8%A2%AB%E6%8B%8D+%E5%BC%95%E5%8F%91%E5%85%B3%E6%B3%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [省教育厅介入食堂老鼠头事件调查](https://www.baidu.com/s?wd=%E7%9C%81%E6%95%99%E8%82%B2%E5%8E%85%E4%BB%8B%E5%85%A5%E9%A3%9F%E5%A0%82%E8%80%81%E9%BC%A0%E5%A4%B4%E4%BA%8B%E4%BB%B6%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [央视网追问地面沉降3000人离家后续](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E7%BD%91%E8%BF%BD%E9%97%AE%E5%9C%B0%E9%9D%A2%E6%B2%89%E9%99%8D3000%E4%BA%BA%E7%A6%BB%E5%AE%B6%E5%90%8E%E7%BB%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
