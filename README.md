@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 06:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 06:23:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [2023 高考数学题难度如何？哪道题让人印象深刻？](https://www.zhihu.com/question/605281198)<br />
 7. [2023 年深圳刚需还买房吗?](https://www.zhihu.com/question/583020787)<br />
 8. [2023 年上海高考查分是一种什么样的体验？](https://www.zhihu.com/question/545040470)<br />
-9. [如何看待 Apple Vision Pro 发布后，苹果股价不涨反跌？](https://www.zhihu.com/question/604993519)<br />
+9. [《大明王朝 1566》中，嘉靖帝为什么不感恩沈一石替他解围，反而要杀了他？](https://www.zhihu.com/question/604357966)<br />
 
 > 百度  
 
