@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 19:09:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 19:10:01</h4></div>
 
 > 微博  
 
-1. [高考数学](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6&t=31&band_rank=1&Refer=top)<br />
-2. [中石油胡继勇被免职](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%9F%B3%E6%B2%B9%E8%83%A1%E7%BB%A7%E5%8B%87%E8%A2%AB%E5%85%8D%E8%81%8C%23&t=31&band_rank=2&Refer=top)<br />
+1. [中石油胡继勇被免职](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%9F%B3%E6%B2%B9%E8%83%A1%E7%BB%A7%E5%8B%87%E8%A2%AB%E5%85%8D%E8%81%8C%23&t=31&band_rank=1&Refer=top)<br />
+2. [高考数学](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6&t=31&band_rank=2&Refer=top)<br />
 3. [硬核黑科技助力高考](https://s.weibo.com/weibo?q=%23%E7%A1%AC%E6%A0%B8%E9%BB%91%E7%A7%91%E6%8A%80%E5%8A%A9%E5%8A%9B%E9%AB%98%E8%80%83%23&t=31&band_rank=3&Refer=top)<br />
 4. [甲卷数学 边考边哭](https://s.weibo.com/weibo?q=%E7%94%B2%E5%8D%B7%E6%95%B0%E5%AD%A6%20%E8%BE%B9%E8%80%83%E8%BE%B9%E5%93%AD&t=31&band_rank=4&Refer=top)<br />
 5. [这声985谁听了不迷糊](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%A3%B0985%E8%B0%81%E5%90%AC%E4%BA%86%E4%B8%8D%E8%BF%B7%E7%B3%8A%23&t=31&band_rank=5&Refer=top)<br />
