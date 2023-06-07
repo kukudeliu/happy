@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 00:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 00:11:01</h4></div>
 
 > 微博  
 
-1. [中石油胡继勇被免职](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%9F%B3%E6%B2%B9%E8%83%A1%E7%BB%A7%E5%8B%87%E8%A2%AB%E5%85%8D%E8%81%8C%23&t=31&band_rank=1&Refer=top)<br />
-2. [姜广涛](https://s.weibo.com/weibo?q=%E5%A7%9C%E5%B9%BF%E6%B6%9B&t=31&band_rank=2&Refer=top)<br />
+1. [姜广涛](https://s.weibo.com/weibo?q=%E5%A7%9C%E5%B9%BF%E6%B6%9B&t=31&band_rank=1&Refer=top)<br />
+2. [中石油胡继勇被免职](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%9F%B3%E6%B2%B9%E8%83%A1%E7%BB%A7%E5%8B%87%E8%A2%AB%E5%85%8D%E8%81%8C%23&t=31&band_rank=2&Refer=top)<br />
 3. [这份高考祝福穿越百年](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BB%BD%E9%AB%98%E8%80%83%E7%A5%9D%E7%A6%8F%E7%A9%BF%E8%B6%8A%E7%99%BE%E5%B9%B4%23&t=31&band_rank=3&Refer=top)<br />
 4. [一个人死去了但他不是死于一个瞬间](https://s.weibo.com/weibo?q=%E4%B8%80%E4%B8%AA%E4%BA%BA%E6%AD%BB%E5%8E%BB%E4%BA%86%E4%BD%86%E4%BB%96%E4%B8%8D%E6%98%AF%E6%AD%BB%E4%BA%8E%E4%B8%80%E4%B8%AA%E7%9E%AC%E9%97%B4&t=31&band_rank=4&Refer=top)<br />
 5. [张艺兴工作室再回应](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%86%8D%E5%9B%9E%E5%BA%94%23&t=31&band_rank=5&Refer=top)<br />
