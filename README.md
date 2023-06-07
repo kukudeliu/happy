@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 13:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 13:44:01</h4></div>
 
 > 微博  
 
 1. [高考作文 简单](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%20%E7%AE%80%E5%8D%95&t=31&band_rank=1&Refer=top)<br />
 2. [受伤的只有22届](https://s.weibo.com/weibo?q=%E5%8F%97%E4%BC%A4%E7%9A%84%E5%8F%AA%E6%9C%8922%E5%B1%8A&t=31&band_rank=2&Refer=top)<br />
 3. [今天把最好的祝福送给高考生](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E6%8A%8A%E6%9C%80%E5%A5%BD%E7%9A%84%E7%A5%9D%E7%A6%8F%E9%80%81%E7%BB%99%E9%AB%98%E8%80%83%E7%94%9F%23&t=31&band_rank=3&Refer=top)<br />
-4. [比亚迪押题成功](https://s.weibo.com/weibo?q=%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%8A%BC%E9%A2%98%E6%88%90%E5%8A%9F&t=31&band_rank=4&Refer=top)<br />
-5. [高考作文](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87&t=31&band_rank=5&Refer=top)<br />
+4. [高考作文](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87&t=31&band_rank=4&Refer=top)<br />
+5. [比亚迪押题成功](https://s.weibo.com/weibo?q=%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%8A%BC%E9%A2%98%E6%88%90%E5%8A%9F&t=31&band_rank=5&Refer=top)<br />
 6. [高考入场时发现身份证6月6日过期](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%85%A5%E5%9C%BA%E6%97%B6%E5%8F%91%E7%8E%B0%E8%BA%AB%E4%BB%BD%E8%AF%816%E6%9C%886%E6%97%A5%E8%BF%87%E6%9C%9F%23&t=31&band_rank=6&Refer=top)<br />
 7. [Angelababy 蒂芙尼](https://s.weibo.com/weibo?q=%23Angelababy%20%E8%92%82%E8%8A%99%E5%B0%BC%23&t=31&band_rank=7&Refer=top)<br />
-8. [第一个出考场的考生麻烦你了](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%87%BA%E8%80%83%E5%9C%BA%E7%9A%84%E8%80%83%E7%94%9F%E9%BA%BB%E7%83%A6%E4%BD%A0%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [AI写高考作文](https://s.weibo.com/weibo?q=%23AI%E5%86%99%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%23&t=31&band_rank=9&Refer=top)<br />
+8. [AI写高考作文](https://s.weibo.com/weibo?q=%23AI%E5%86%99%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%23&t=31&band_rank=8&Refer=top)<br />
+9. [第一个出考场的考生麻烦你了](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%87%BA%E8%80%83%E5%9C%BA%E7%9A%84%E8%80%83%E7%94%9F%E9%BA%BB%E7%83%A6%E4%BD%A0%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -34,7 +34,7 @@
 6. [比亚迪押中高考作文](https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%8A%BC%E4%B8%AD%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [省教育厅介入食堂老鼠头事件调查](https://www.baidu.com/s?wd=%E7%9C%81%E6%95%99%E8%82%B2%E5%8E%85%E4%BB%8B%E5%85%A5%E9%A3%9F%E5%A0%82%E8%80%81%E9%BC%A0%E5%A4%B4%E4%BA%8B%E4%BB%B6%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [国企领导与异性牵手被拍 引发关注](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BC%81%E9%A2%86%E5%AF%BC%E4%B8%8E%E5%BC%82%E6%80%A7%E7%89%B5%E6%89%8B%E8%A2%AB%E6%8B%8D+%E5%BC%95%E5%8F%91%E5%85%B3%E6%B3%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [车牌985警车连续18年送考](https://www.baidu.com/s?wd=%E8%BD%A6%E7%89%8C985%E8%AD%A6%E8%BD%A6%E8%BF%9E%E7%BB%AD18%E5%B9%B4%E9%80%81%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [记者：沙特又对梅西提高了报价](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%EF%BC%9A%E6%B2%99%E7%89%B9%E5%8F%88%E5%AF%B9%E6%A2%85%E8%A5%BF%E6%8F%90%E9%AB%98%E4%BA%86%E6%8A%A5%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [比亚迪押中高考作文](https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%8A%BC%E4%B8%AD%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [省教育厅介入食堂老鼠头事件调查](https://www.baidu.com/s?wd=%E7%9C%81%E6%95%99%E8%82%B2%E5%8E%85%E4%BB%8B%E5%85%A5%E9%A3%9F%E5%A0%82%E8%80%81%E9%BC%A0%E5%A4%B4%E4%BA%8B%E4%BB%B6%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [国企领导与异性牵手被拍 引发关注](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BC%81%E9%A2%86%E5%AF%BC%E4%B8%8E%E5%BC%82%E6%80%A7%E7%89%B5%E6%89%8B%E8%A2%AB%E6%8B%8D+%E5%BC%95%E5%8F%91%E5%85%B3%E6%B3%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [车牌985警车连续18年送考](https://www.baidu.com/s?wd=%E8%BD%A6%E7%89%8C985%E8%AD%A6%E8%BD%A6%E8%BF%9E%E7%BB%AD18%E5%B9%B4%E9%80%81%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [记者：沙特又对梅西提高了报价](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%EF%BC%9A%E6%B2%99%E7%89%B9%E5%8F%88%E5%AF%B9%E6%A2%85%E8%A5%BF%E6%8F%90%E9%AB%98%E4%BA%86%E6%8A%A5%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
