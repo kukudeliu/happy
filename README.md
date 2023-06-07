@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 15:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 15:49:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [国企负责人与异性牵手逛街被拍](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BC%81%E8%B4%9F%E8%B4%A3%E4%BA%BA%E4%B8%8E%E5%BC%82%E6%80%A7%E7%89%B5%E6%89%8B%E9%80%9B%E8%A1%97%E8%A2%AB%E6%8B%8D%23&t=31&band_rank=6&Refer=top)<br />
 7. [花儿与少年第五季嘉宾](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%84%BF%E4%B8%8E%E5%B0%91%E5%B9%B4%E7%AC%AC%E4%BA%94%E5%AD%A3%E5%98%89%E5%AE%BE%23&t=31&band_rank=7&Refer=top)<br />
 8. [高考作文 简单](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%20%E7%AE%80%E5%8D%95&t=31&band_rank=8&Refer=top)<br />
-9. [这声985谁听了不迷糊](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%A3%B0985%E8%B0%81%E5%90%AC%E4%BA%86%E4%B8%8D%E8%BF%B7%E7%B3%8A%23&t=31&band_rank=9&Refer=top)<br />
+9. [高考作文](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
