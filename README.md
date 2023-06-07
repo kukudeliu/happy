@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 11:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 11:20:02</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [高考](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83&t=31&band_rank=2&Refer=top)<br />
 3. [我的高考回忆](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E9%AB%98%E8%80%83%E5%9B%9E%E5%BF%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [高考作文](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87&t=31&band_rank=4&Refer=top)<br />
-5. [高考作文预测](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%E9%A2%84%E6%B5%8B%23&t=31&band_rank=5&Refer=top)<br />
-6. [梁文博终身禁赛](https://s.weibo.com/weibo?q=%23%E6%A2%81%E6%96%87%E5%8D%9A%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B%23&t=31&band_rank=6&Refer=top)<br />
-7. [保送男生穿旗袍为高考同学加油](https://s.weibo.com/weibo?q=%23%E4%BF%9D%E9%80%81%E7%94%B7%E7%94%9F%E7%A9%BF%E6%97%97%E8%A2%8D%E4%B8%BA%E9%AB%98%E8%80%83%E5%90%8C%E5%AD%A6%E5%8A%A0%E6%B2%B9%23&t=31&band_rank=7&Refer=top)<br />
-8. [2023年高考第一个丢准考证的同学](https://s.weibo.com/weibo?q=%232023%E5%B9%B4%E9%AB%98%E8%80%83%E7%AC%AC%E4%B8%80%E4%B8%AA%E4%B8%A2%E5%87%86%E8%80%83%E8%AF%81%E7%9A%84%E5%90%8C%E5%AD%A6%23&t=31&band_rank=8&Refer=top)<br />
-9. [一公司称花2千万可和蔡徐坤吃饭](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%85%AC%E5%8F%B8%E7%A7%B0%E8%8A%B12%E5%8D%83%E4%B8%87%E5%8F%AF%E5%92%8C%E8%94%A1%E5%BE%90%E5%9D%A4%E5%90%83%E9%A5%AD%23&t=31&band_rank=9&Refer=top)<br />
+5. [梁文博终身禁赛](https://s.weibo.com/weibo?q=%23%E6%A2%81%E6%96%87%E5%8D%9A%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B%23&t=31&band_rank=5&Refer=top)<br />
+6. [保送男生穿旗袍为高考同学加油](https://s.weibo.com/weibo?q=%23%E4%BF%9D%E9%80%81%E7%94%B7%E7%94%9F%E7%A9%BF%E6%97%97%E8%A2%8D%E4%B8%BA%E9%AB%98%E8%80%83%E5%90%8C%E5%AD%A6%E5%8A%A0%E6%B2%B9%23&t=31&band_rank=6&Refer=top)<br />
+7. [2023年高考第一个丢准考证的同学](https://s.weibo.com/weibo?q=%232023%E5%B9%B4%E9%AB%98%E8%80%83%E7%AC%AC%E4%B8%80%E4%B8%AA%E4%B8%A2%E5%87%86%E8%80%83%E8%AF%81%E7%9A%84%E5%90%8C%E5%AD%A6%23&t=31&band_rank=7&Refer=top)<br />
+8. [一公司称花2千万可和蔡徐坤吃饭](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%85%AC%E5%8F%B8%E7%A7%B0%E8%8A%B12%E5%8D%83%E4%B8%87%E5%8F%AF%E5%92%8C%E8%94%A1%E5%BE%90%E5%9D%A4%E5%90%83%E9%A5%AD%23&t=31&band_rank=8&Refer=top)<br />
+9. [高考作文预测](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%E9%A2%84%E6%B5%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -32,9 +32,9 @@
 4. [候鸟迁飞舞动命运与共](https://www.baidu.com/s?wd=%E5%80%99%E9%B8%9F%E8%BF%81%E9%A3%9E%E8%88%9E%E5%8A%A8%E5%91%BD%E8%BF%90%E4%B8%8E%E5%85%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [湖南一监考老师忘带监考证](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E4%B8%80%E7%9B%91%E8%80%83%E8%80%81%E5%B8%88%E5%BF%98%E5%B8%A6%E7%9B%91%E8%80%83%E8%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [高考试卷是在监狱印刷的？揭秘](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E8%AF%95%E5%8D%B7%E6%98%AF%E5%9C%A8%E7%9B%91%E7%8B%B1%E5%8D%B0%E5%88%B7%E7%9A%84%EF%BC%9F%E6%8F%AD%E7%A7%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [保送男生穿旗袍为高考同学加油](https://www.baidu.com/s?wd=%E4%BF%9D%E9%80%81%E7%94%B7%E7%94%9F%E7%A9%BF%E6%97%97%E8%A2%8D%E4%B8%BA%E9%AB%98%E8%80%83%E5%90%8C%E5%AD%A6%E5%8A%A0%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [央视网追问地面沉降3000人离家后续](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E7%BD%91%E8%BF%BD%E9%97%AE%E5%9C%B0%E9%9D%A2%E6%B2%89%E9%99%8D3000%E4%BA%BA%E7%A6%BB%E5%AE%B6%E5%90%8E%E7%BB%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [考生今日高考 发现昨日身份证过期](https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%E4%BB%8A%E6%97%A5%E9%AB%98%E8%80%83+%E5%8F%91%E7%8E%B0%E6%98%A8%E6%97%A5%E8%BA%AB%E4%BB%BD%E8%AF%81%E8%BF%87%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [考生今日高考 发现昨日身份证过期](https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%E4%BB%8A%E6%97%A5%E9%AB%98%E8%80%83+%E5%8F%91%E7%8E%B0%E6%98%A8%E6%97%A5%E8%BA%AB%E4%BB%BD%E8%AF%81%E8%BF%87%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [保送男生穿旗袍为高考同学加油](https://www.baidu.com/s?wd=%E4%BF%9D%E9%80%81%E7%94%B7%E7%94%9F%E7%A9%BF%E6%97%97%E8%A2%8D%E4%B8%BA%E9%AB%98%E8%80%83%E5%90%8C%E5%AD%A6%E5%8A%A0%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [央视网追问地面沉降3000人离家后续](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E7%BD%91%E8%BF%BD%E9%97%AE%E5%9C%B0%E9%9D%A2%E6%B2%89%E9%99%8D3000%E4%BA%BA%E7%A6%BB%E5%AE%B6%E5%90%8E%E7%BB%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [候鸟迁飞舞动命运与共](https://www.baidu.com/s?wd=%E5%80%99%E9%B8%9F%E8%BF%81%E9%A3%9E%E8%88%9E%E5%8A%A8%E5%91%BD%E8%BF%90%E4%B8%8E%E5%85%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [湖南一监考老师忘带监考证](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E4%B8%80%E7%9B%91%E8%80%83%E8%80%81%E5%B8%88%E5%BF%98%E5%B8%A6%E7%9B%91%E8%80%83%E8%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [高考试卷是在监狱印刷的？揭秘](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E8%AF%95%E5%8D%B7%E6%98%AF%E5%9C%A8%E7%9B%91%E7%8B%B1%E5%8D%B0%E5%88%B7%E7%9A%84%EF%BC%9F%E6%8F%AD%E7%A7%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [保送男生穿旗袍为高考同学加油](https://www.baidu.com/s?wd=%E4%BF%9D%E9%80%81%E7%94%B7%E7%94%9F%E7%A9%BF%E6%97%97%E8%A2%8D%E4%B8%BA%E9%AB%98%E8%80%83%E5%90%8C%E5%AD%A6%E5%8A%A0%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [央视网追问地面沉降3000人离家后续](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E7%BD%91%E8%BF%BD%E9%97%AE%E5%9C%B0%E9%9D%A2%E6%B2%89%E9%99%8D3000%E4%BA%BA%E7%A6%BB%E5%AE%B6%E5%90%8E%E7%BB%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [考生今日高考 发现昨日身份证过期](https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%E4%BB%8A%E6%97%A5%E9%AB%98%E8%80%83+%E5%8F%91%E7%8E%B0%E6%98%A8%E6%97%A5%E8%BA%AB%E4%BB%BD%E8%AF%81%E8%BF%87%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [考生今日高考 发现昨日身份证过期](https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%E4%BB%8A%E6%97%A5%E9%AB%98%E8%80%83+%E5%8F%91%E7%8E%B0%E6%98%A8%E6%97%A5%E8%BA%AB%E4%BB%BD%E8%AF%81%E8%BF%87%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [保送男生穿旗袍为高考同学加油](https://www.baidu.com/s?wd=%E4%BF%9D%E9%80%81%E7%94%B7%E7%94%9F%E7%A9%BF%E6%97%97%E8%A2%8D%E4%B8%BA%E9%AB%98%E8%80%83%E5%90%8C%E5%AD%A6%E5%8A%A0%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [央视网追问地面沉降3000人离家后续](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E7%BD%91%E8%BF%BD%E9%97%AE%E5%9C%B0%E9%9D%A2%E6%B2%89%E9%99%8D3000%E4%BA%BA%E7%A6%BB%E5%AE%B6%E5%90%8E%E7%BB%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
