@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 11:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 11:51:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [第一个出考场的考生麻烦你了](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%87%BA%E8%80%83%E5%9C%BA%E7%9A%84%E8%80%83%E7%94%9F%E9%BA%BB%E7%83%A6%E4%BD%A0%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [Angelababy 蒂芙尼](https://s.weibo.com/weibo?q=%23Angelababy%20%E8%92%82%E8%8A%99%E5%B0%BC%23&t=31&band_rank=6&Refer=top)<br />
 7. [TFBOYS为王源下个路口打call](https://s.weibo.com/weibo?q=%23TFBOYS%E4%B8%BA%E7%8E%8B%E6%BA%90%E4%B8%8B%E4%B8%AA%E8%B7%AF%E5%8F%A3%E6%89%93call%23&t=31&band_rank=7&Refer=top)<br />
-8. [保送男生穿旗袍为高考同学加油](https://s.weibo.com/weibo?q=%23%E4%BF%9D%E9%80%81%E7%94%B7%E7%94%9F%E7%A9%BF%E6%97%97%E8%A2%8D%E4%B8%BA%E9%AB%98%E8%80%83%E5%90%8C%E5%AD%A6%E5%8A%A0%E6%B2%B9%23&t=31&band_rank=8&Refer=top)<br />
-9. [梁文博终身禁赛](https://s.weibo.com/weibo?q=%23%E6%A2%81%E6%96%87%E5%8D%9A%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B%23&t=31&band_rank=9&Refer=top)<br />
+8. [高考防作弊磁弹枪亮相考点现场](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E9%98%B2%E4%BD%9C%E5%BC%8A%E7%A3%81%E5%BC%B9%E6%9E%AA%E4%BA%AE%E7%9B%B8%E8%80%83%E7%82%B9%E7%8E%B0%E5%9C%BA%23&t=31&band_rank=8&Refer=top)<br />
+9. [保送男生穿旗袍为高考同学加油](https://s.weibo.com/weibo?q=%23%E4%BF%9D%E9%80%81%E7%94%B7%E7%94%9F%E7%A9%BF%E6%97%97%E8%A2%8D%E4%B8%BA%E9%AB%98%E8%80%83%E5%90%8C%E5%AD%A6%E5%8A%A0%E6%B2%B9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [斯诺克假球案十位中国球员遭处罚，梁文博李行终身禁赛，颜丙涛禁赛五年，赵心童 20 个月，哪些信息值得关注？](https://www.zhihu.com/question/605220735)<br />
 7. [多地购房政策优化力度加大，专家预计房地产业 6 月或迎新政策出台，或涉及哪些举措？房地产未来走势如何？](https://www.zhihu.com/question/605219260)<br />
 8. [如何评价 2023 年高考作文题？各卷作文题有哪些亮点？](https://www.zhihu.com/question/605232938)<br />
-9. [为什么我觉得数学才是最不讲逻辑的学科？](https://www.zhihu.com/question/603637246)<br />
+9. []()<br />
 
 > 百度  
 
