@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 11:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 11:54:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [考生今日高考 发现昨日身份证过期](https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%E4%BB%8A%E6%97%A5%E9%AB%98%E8%80%83+%E5%8F%91%E7%8E%B0%E6%98%A8%E6%97%A5%E8%BA%AB%E4%BB%BD%E8%AF%81%E8%BF%87%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [高考试卷是在监狱印刷的？揭秘](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E8%AF%95%E5%8D%B7%E6%98%AF%E5%9C%A8%E7%9B%91%E7%8B%B1%E5%8D%B0%E5%88%B7%E7%9A%84%EF%BC%9F%E6%8F%AD%E7%A7%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [高考防作弊磁弹枪亮相考点现场](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E9%98%B2%E4%BD%9C%E5%BC%8A%E7%A3%81%E5%BC%B9%E6%9E%AA%E4%BA%AE%E7%9B%B8%E8%80%83%E7%82%B9%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [湖南一监考老师忘带监考证](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E4%B8%80%E7%9B%91%E8%80%83%E8%80%81%E5%B8%88%E5%BF%98%E5%B8%A6%E7%9B%91%E8%80%83%E8%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [怕上新闻？走错考场考生捂得严实](https://www.baidu.com/s?wd=%E6%80%95%E4%B8%8A%E6%96%B0%E9%97%BB%EF%BC%9F%E8%B5%B0%E9%94%99%E8%80%83%E5%9C%BA%E8%80%83%E7%94%9F%E6%8D%82%E5%BE%97%E4%B8%A5%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [考生今日高考 发现昨日身份证过期](https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%E4%BB%8A%E6%97%A5%E9%AB%98%E8%80%83+%E5%8F%91%E7%8E%B0%E6%98%A8%E6%97%A5%E8%BA%AB%E4%BB%BD%E8%AF%81%E8%BF%87%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [高考试卷是在监狱印刷的？揭秘](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E8%AF%95%E5%8D%B7%E6%98%AF%E5%9C%A8%E7%9B%91%E7%8B%B1%E5%8D%B0%E5%88%B7%E7%9A%84%EF%BC%9F%E6%8F%AD%E7%A7%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [高考防作弊磁弹枪亮相考点现场](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E9%98%B2%E4%BD%9C%E5%BC%8A%E7%A3%81%E5%BC%B9%E6%9E%AA%E4%BA%AE%E7%9B%B8%E8%80%83%E7%82%B9%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [湖南一监考老师忘带监考证](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E4%B8%80%E7%9B%91%E8%80%83%E8%80%81%E5%B8%88%E5%BF%98%E5%B8%A6%E7%9B%91%E8%80%83%E8%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [怕上新闻？走错考场考生捂得严实](https://www.baidu.com/s?wd=%E6%80%95%E4%B8%8A%E6%96%B0%E9%97%BB%EF%BC%9F%E8%B5%B0%E9%94%99%E8%80%83%E5%9C%BA%E8%80%83%E7%94%9F%E6%8D%82%E5%BE%97%E4%B8%A5%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
