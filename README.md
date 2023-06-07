@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 17:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 17:09:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [高考完了不用去打暑期工](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E5%AE%8C%E4%BA%86%E4%B8%8D%E7%94%A8%E5%8E%BB%E6%89%93%E6%9A%91%E6%9C%9F%E5%B7%A5&t=31&band_rank=5&Refer=top)<br />
 6. [国企负责人与异性牵手逛街被拍](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BC%81%E8%B4%9F%E8%B4%A3%E4%BA%BA%E4%B8%8E%E5%BC%82%E6%80%A7%E7%89%B5%E6%89%8B%E9%80%9B%E8%A1%97%E8%A2%AB%E6%8B%8D%23&t=31&band_rank=6&Refer=top)<br />
 7. [任嘉伦押中高考作文题](https://s.weibo.com/weibo?q=%23%E4%BB%BB%E5%98%89%E4%BC%A6%E6%8A%BC%E4%B8%AD%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%E9%A2%98%23&t=31&band_rank=7&Refer=top)<br />
-8. [高考作文](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87&t=31&band_rank=8&Refer=top)<br />
-9. [腾讯QQ回应考生喊话](https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AFQQ%E5%9B%9E%E5%BA%94%E8%80%83%E7%94%9F%E5%96%8A%E8%AF%9D%23&t=31&band_rank=9&Refer=top)<br />
+8. [腾讯QQ回应考生喊话](https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AFQQ%E5%9B%9E%E5%BA%94%E8%80%83%E7%94%9F%E5%96%8A%E8%AF%9D%23&t=31&band_rank=8&Refer=top)<br />
+9. [高考作文](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -20,8 +20,8 @@
 4. [我不想和男朋友一起用公积金买房是自私吗？](https://www.zhihu.com/question/600695811)<br />
 5. [杭州某酒店婚宴七成为预制， 六千元酒席配货不超 1500 元，蒸蒸摆盘就上桌，预制菜进入婚宴合理吗？](https://www.zhihu.com/question/604884736)<br />
 6. [贵州「村超」氛围火爆，现场近 5 万人观赛，韩乔生坐梯子上解说，如何看待这样的民间足球赛事？](https://www.zhihu.com/question/605094646)<br />
-7. [俄防长称「已挫败乌军 3 日内多次反攻，歼敌 3700 余人」，当前俄乌战场形势如何？](https://www.zhihu.com/question/605224337)<br />
-8. []()<br />
+7. []()<br />
+8. [金融行业降薪潮已至，有券商部分员工下调幅度为 6000 元至 1 万元不等。此举意味着什么？](https://www.zhihu.com/question/605232027)<br />
 9. []()<br />
 
 > 百度  
