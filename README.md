@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 11:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 11:07:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [保送男生穿旗袍为高考同学加油](https://s.weibo.com/weibo?q=%23%E4%BF%9D%E9%80%81%E7%94%B7%E7%94%9F%E7%A9%BF%E6%97%97%E8%A2%8D%E4%B8%BA%E9%AB%98%E8%80%83%E5%90%8C%E5%AD%A6%E5%8A%A0%E6%B2%B9%23&t=31&band_rank=6&Refer=top)<br />
 7. [高考试卷](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E8%AF%95%E5%8D%B7%23&t=31&band_rank=7&Refer=top)<br />
 8. [2023年高考第一个丢准考证的同学](https://s.weibo.com/weibo?q=%232023%E5%B9%B4%E9%AB%98%E8%80%83%E7%AC%AC%E4%B8%80%E4%B8%AA%E4%B8%A2%E5%87%86%E8%80%83%E8%AF%81%E7%9A%84%E5%90%8C%E5%AD%A6%23&t=31&band_rank=8&Refer=top)<br />
-9. [今年高考生17年才刚小学毕业](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E9%AB%98%E8%80%83%E7%94%9F17%E5%B9%B4%E6%89%8D%E5%88%9A%E5%B0%8F%E5%AD%A6%E6%AF%95%E4%B8%9A%23&t=31&band_rank=9&Refer=top)<br />
+9. [一公司称花2千万可和蔡徐坤吃饭](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%85%AC%E5%8F%B8%E7%A7%B0%E8%8A%B12%E5%8D%83%E4%B8%87%E5%8F%AF%E5%92%8C%E8%94%A1%E5%BE%90%E5%9D%A4%E5%90%83%E9%A5%AD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -21,8 +21,8 @@
 5. [1291 万高考生奔赴考场，你认为 2023 年高考与往年相比最值得关注的变化是什么？](https://www.zhihu.com/question/605100302)<br />
 6. [斯诺克假球案十位中国球员遭处罚，梁文博李行终身禁赛，颜丙涛禁赛五年，赵心童 20 个月，哪些信息值得关注？](https://www.zhihu.com/question/605220735)<br />
 7. [赫尔松地区大坝被炸毁，洪水泛滥，俄乌各执一词，事实真相是什么？俄乌战争将走向何方？](https://www.zhihu.com/question/605068506)<br />
-8. [你有没有「梦回高考」的经历？回头看，高考这件事如何影响了你的人生？](https://www.zhihu.com/question/603646472)<br />
-9. [多地购房政策优化力度加大，专家预计房地产业 6 月或迎新政策出台，或涉及哪些举措？房地产未来走势如何？](https://www.zhihu.com/question/605219260)<br />
+8. [多地购房政策优化力度加大，专家预计房地产业 6 月或迎新政策出台，或涉及哪些举措？房地产未来走势如何？](https://www.zhihu.com/question/605219260)<br />
+9. [你有没有「梦回高考」的经历？回头看，高考这件事如何影响了你的人生？](https://www.zhihu.com/question/603646472)<br />
 
 > 百度  
 
