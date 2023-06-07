@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 13:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 13:04:01</h4></div>
 
 > 微博  
 
@@ -32,9 +32,9 @@
 4. [毕业的寄语听着听着眼睛就湿了](https://www.baidu.com/s?wd=%E6%AF%95%E4%B8%9A%E7%9A%84%E5%AF%84%E8%AF%AD%E5%90%AC%E7%9D%80%E5%90%AC%E7%9D%80%E7%9C%BC%E7%9D%9B%E5%B0%B1%E6%B9%BF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [高考各地第一个走出考场的考生](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E5%90%84%E5%9C%B0%E7%AC%AC%E4%B8%80%E4%B8%AA%E8%B5%B0%E5%87%BA%E8%80%83%E5%9C%BA%E7%9A%84%E8%80%83%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [南京一大学生宿舍内被杀害 校方回应](https://www.baidu.com/s?wd=%E5%8D%97%E4%BA%AC%E4%B8%80%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%AE%BF%E8%88%8D%E5%86%85%E8%A2%AB%E6%9D%80%E5%AE%B3+%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [考生今日高考 发现昨日身份证过期](https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%E4%BB%8A%E6%97%A5%E9%AB%98%E8%80%83+%E5%8F%91%E7%8E%B0%E6%98%A8%E6%97%A5%E8%BA%AB%E4%BB%BD%E8%AF%81%E8%BF%87%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [高考试卷是在监狱印刷的？揭秘](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E8%AF%95%E5%8D%B7%E6%98%AF%E5%9C%A8%E7%9B%91%E7%8B%B1%E5%8D%B0%E5%88%B7%E7%9A%84%EF%BC%9F%E6%8F%AD%E7%A7%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [1小时6.5元！共享单车悄然涨价](https://www.baidu.com/s?wd=1%E5%B0%8F%E6%97%B66.5%E5%85%83%EF%BC%81%E5%85%B1%E4%BA%AB%E5%8D%95%E8%BD%A6%E6%82%84%E7%84%B6%E6%B6%A8%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [保送男生穿旗袍为高考同学加油](https://www.baidu.com/s?wd=%E4%BF%9D%E9%80%81%E7%94%B7%E7%94%9F%E7%A9%BF%E6%97%97%E8%A2%8D%E4%B8%BA%E9%AB%98%E8%80%83%E5%90%8C%E5%AD%A6%E5%8A%A0%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [1小时6.5元！共享单车悄然涨价](https://www.baidu.com/s?wd=1%E5%B0%8F%E6%97%B66.5%E5%85%83%EF%BC%81%E5%85%B1%E4%BA%AB%E5%8D%95%E8%BD%A6%E6%82%84%E7%84%B6%E6%B6%A8%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [车牌985警车连续18年送考](https://www.baidu.com/s?wd=%E8%BD%A6%E7%89%8C985%E8%AD%A6%E8%BD%A6%E8%BF%9E%E7%BB%AD18%E5%B9%B4%E9%80%81%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [毕业的寄语听着听着眼睛就湿了](https://www.baidu.com/s?wd=%E6%AF%95%E4%B8%9A%E7%9A%84%E5%AF%84%E8%AF%AD%E5%90%AC%E7%9D%80%E5%90%AC%E7%9D%80%E7%9C%BC%E7%9D%9B%E5%B0%B1%E6%B9%BF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [高考各地第一个走出考场的考生](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E5%90%84%E5%9C%B0%E7%AC%AC%E4%B8%80%E4%B8%AA%E8%B5%B0%E5%87%BA%E8%80%83%E5%9C%BA%E7%9A%84%E8%80%83%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [南京一大学生宿舍内被杀害 校方回应](https://www.baidu.com/s?wd=%E5%8D%97%E4%BA%AC%E4%B8%80%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%AE%BF%E8%88%8D%E5%86%85%E8%A2%AB%E6%9D%80%E5%AE%B3+%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [考生今日高考 发现昨日身份证过期](https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%E4%BB%8A%E6%97%A5%E9%AB%98%E8%80%83+%E5%8F%91%E7%8E%B0%E6%98%A8%E6%97%A5%E8%BA%AB%E4%BB%BD%E8%AF%81%E8%BF%87%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [高考试卷是在监狱印刷的？揭秘](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E8%AF%95%E5%8D%B7%E6%98%AF%E5%9C%A8%E7%9B%91%E7%8B%B1%E5%8D%B0%E5%88%B7%E7%9A%84%EF%BC%9F%E6%8F%AD%E7%A7%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [1小时6.5元！共享单车悄然涨价](https://www.baidu.com/s?wd=1%E5%B0%8F%E6%97%B66.5%E5%85%83%EF%BC%81%E5%85%B1%E4%BA%AB%E5%8D%95%E8%BD%A6%E6%82%84%E7%84%B6%E6%B6%A8%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [保送男生穿旗袍为高考同学加油](https://www.baidu.com/s?wd=%E4%BF%9D%E9%80%81%E7%94%B7%E7%94%9F%E7%A9%BF%E6%97%97%E8%A2%8D%E4%B8%BA%E9%AB%98%E8%80%83%E5%90%8C%E5%AD%A6%E5%8A%A0%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [1小时6.5元！共享单车悄然涨价](https://www.baidu.com/s?wd=1%E5%B0%8F%E6%97%B66.5%E5%85%83%EF%BC%81%E5%85%B1%E4%BA%AB%E5%8D%95%E8%BD%A6%E6%82%84%E7%84%B6%E6%B6%A8%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [车牌985警车连续18年送考](https://www.baidu.com/s?wd=%E8%BD%A6%E7%89%8C985%E8%AD%A6%E8%BD%A6%E8%BF%9E%E7%BB%AD18%E5%B9%B4%E9%80%81%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
