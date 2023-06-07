@@ -1,10 +1,10 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 11:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 11:10:01</h4></div>
 
 > 微博  
 
 1. [高考语文](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E8%AF%AD%E6%96%87&t=31&band_rank=1&Refer=top)<br />
 2. [高考](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83&t=31&band_rank=2&Refer=top)<br />
-3. [今天把最好的祝福送给高考生](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E6%8A%8A%E6%9C%80%E5%A5%BD%E7%9A%84%E7%A5%9D%E7%A6%8F%E9%80%81%E7%BB%99%E9%AB%98%E8%80%83%E7%94%9F%23&t=31&band_rank=3&Refer=top)<br />
+3. [我的高考回忆](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E9%AB%98%E8%80%83%E5%9B%9E%E5%BF%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [高考作文预测](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%E9%A2%84%E6%B5%8B%23&t=31&band_rank=4&Refer=top)<br />
 5. [梁文博终身禁赛](https://s.weibo.com/weibo?q=%23%E6%A2%81%E6%96%87%E5%8D%9A%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B%23&t=31&band_rank=5&Refer=top)<br />
 6. [保送男生穿旗袍为高考同学加油](https://s.weibo.com/weibo?q=%23%E4%BF%9D%E9%80%81%E7%94%B7%E7%94%9F%E7%A9%BF%E6%97%97%E8%A2%8D%E4%B8%BA%E9%AB%98%E8%80%83%E5%90%8C%E5%AD%A6%E5%8A%A0%E6%B2%B9%23&t=31&band_rank=6&Refer=top)<br />
