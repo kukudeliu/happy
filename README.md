@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 03:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 03:13:01</h4></div>
 
 > 微博  
 
@@ -20,8 +20,8 @@
 4. [多家国有大行 6 月 8 日起下调人民币存款利率，释放了什么信号？将带来哪些影响？](https://www.zhihu.com/question/605298719)<br />
 5. []()<br />
 6. [2023 高考数学题难度如何？哪道题让人印象深刻？](https://www.zhihu.com/question/605281198)<br />
-7. [赫尔松地区大坝被炸毁，洪水泛滥，俄乌各执一词，事实真相是什么？俄乌战争将走向何方？](https://www.zhihu.com/question/605068506)<br />
-8. []()<br />
+7. []()<br />
+8. [赫尔松地区大坝被炸毁，洪水泛滥，俄乌各执一词，事实真相是什么？俄乌战争将走向何方？](https://www.zhihu.com/question/605068506)<br />
 9. [如何看待 Apple Vision Pro 发布后，苹果股价不涨反跌？](https://www.zhihu.com/question/604993519)<br />
 
 > 百度  
