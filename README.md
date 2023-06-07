@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 10:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 10:19:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [今年高考生17年才刚小学毕业](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E9%AB%98%E8%80%83%E7%94%9F17%E5%B9%B4%E6%89%8D%E5%88%9A%E5%B0%8F%E5%AD%A6%E6%AF%95%E4%B8%9A%23&t=31&band_rank=6&Refer=top)<br />
 7. [高考作文预测](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%E9%A2%84%E6%B5%8B&t=31&band_rank=7&Refer=top)<br />
 8. [一公司称花2千万可和蔡徐坤吃饭](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%85%AC%E5%8F%B8%E7%A7%B0%E8%8A%B12%E5%8D%83%E4%B8%87%E5%8F%AF%E5%92%8C%E8%94%A1%E5%BE%90%E5%9D%A4%E5%90%83%E9%A5%AD%23&t=31&band_rank=8&Refer=top)<br />
-9. [6年前忘带准考证受助考生成交警新同事](https://s.weibo.com/weibo?q=%236%E5%B9%B4%E5%89%8D%E5%BF%98%E5%B8%A6%E5%87%86%E8%80%83%E8%AF%81%E5%8F%97%E5%8A%A9%E8%80%83%E7%94%9F%E6%88%90%E4%BA%A4%E8%AD%A6%E6%96%B0%E5%90%8C%E4%BA%8B%23&t=31&band_rank=9&Refer=top)<br />
+9. [保送男生穿旗袍为高考同学加油](https://s.weibo.com/weibo?q=%23%E4%BF%9D%E9%80%81%E7%94%B7%E7%94%9F%E7%A9%BF%E6%97%97%E8%A2%8D%E4%B8%BA%E9%AB%98%E8%80%83%E5%90%8C%E5%AD%A6%E5%8A%A0%E6%B2%B9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -31,9 +31,9 @@
 3. [今日高考](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [候鸟迁飞舞动命运与共](https://www.baidu.com/s?wd=%E5%80%99%E9%B8%9F%E8%BF%81%E9%A3%9E%E8%88%9E%E5%8A%A8%E5%91%BD%E8%BF%90%E4%B8%8E%E5%85%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [湖南一监考老师忘带监考证](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E4%B8%80%E7%9B%91%E8%80%83%E8%80%81%E5%B8%88%E5%BF%98%E5%B8%A6%E7%9B%91%E8%80%83%E8%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [高校鼠头涉事窗口几乎没人去吃饭](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E9%BC%A0%E5%A4%B4%E6%B6%89%E4%BA%8B%E7%AA%97%E5%8F%A3%E5%87%A0%E4%B9%8E%E6%B2%A1%E4%BA%BA%E5%8E%BB%E5%90%83%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [开考前大妈在考点发复读广告](https://www.baidu.com/s?wd=%E5%BC%80%E8%80%83%E5%89%8D%E5%A4%A7%E5%A6%88%E5%9C%A8%E8%80%83%E7%82%B9%E5%8F%91%E5%A4%8D%E8%AF%BB%E5%B9%BF%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [高考首日 衡水中学高考生6点跑操](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E9%A6%96%E6%97%A5+%E8%A1%A1%E6%B0%B4%E4%B8%AD%E5%AD%A6%E9%AB%98%E8%80%83%E7%94%9F6%E7%82%B9%E8%B7%91%E6%93%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [保送男生穿旗袍为高考同学加油](https://www.baidu.com/s?wd=%E4%BF%9D%E9%80%81%E7%94%B7%E7%94%9F%E7%A9%BF%E6%97%97%E8%A2%8D%E4%B8%BA%E9%AB%98%E8%80%83%E5%90%8C%E5%AD%A6%E5%8A%A0%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [高校鼠头涉事窗口几乎没人去吃饭](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E9%BC%A0%E5%A4%B4%E6%B6%89%E4%BA%8B%E7%AA%97%E5%8F%A3%E5%87%A0%E4%B9%8E%E6%B2%A1%E4%BA%BA%E5%8E%BB%E5%90%83%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [开考前大妈在考点发复读广告](https://www.baidu.com/s?wd=%E5%BC%80%E8%80%83%E5%89%8D%E5%A4%A7%E5%A6%88%E5%9C%A8%E8%80%83%E7%82%B9%E5%8F%91%E5%A4%8D%E8%AF%BB%E5%B9%BF%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [一公司称花2千万可和蔡徐坤吃饭](https://www.baidu.com/s?wd=%E4%B8%80%E5%85%AC%E5%8F%B8%E7%A7%B0%E8%8A%B12%E5%8D%83%E4%B8%87%E5%8F%AF%E5%92%8C%E8%94%A1%E5%BE%90%E5%9D%A4%E5%90%83%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -43,7 +43,7 @@
 3. [今日高考](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [候鸟迁飞舞动命运与共](https://www.baidu.com/s?wd=%E5%80%99%E9%B8%9F%E8%BF%81%E9%A3%9E%E8%88%9E%E5%8A%A8%E5%91%BD%E8%BF%90%E4%B8%8E%E5%85%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [湖南一监考老师忘带监考证](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E4%B8%80%E7%9B%91%E8%80%83%E8%80%81%E5%B8%88%E5%BF%98%E5%B8%A6%E7%9B%91%E8%80%83%E8%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [高校鼠头涉事窗口几乎没人去吃饭](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E9%BC%A0%E5%A4%B4%E6%B6%89%E4%BA%8B%E7%AA%97%E5%8F%A3%E5%87%A0%E4%B9%8E%E6%B2%A1%E4%BA%BA%E5%8E%BB%E5%90%83%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [开考前大妈在考点发复读广告](https://www.baidu.com/s?wd=%E5%BC%80%E8%80%83%E5%89%8D%E5%A4%A7%E5%A6%88%E5%9C%A8%E8%80%83%E7%82%B9%E5%8F%91%E5%A4%8D%E8%AF%BB%E5%B9%BF%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [高考首日 衡水中学高考生6点跑操](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E9%A6%96%E6%97%A5+%E8%A1%A1%E6%B0%B4%E4%B8%AD%E5%AD%A6%E9%AB%98%E8%80%83%E7%94%9F6%E7%82%B9%E8%B7%91%E6%93%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [保送男生穿旗袍为高考同学加油](https://www.baidu.com/s?wd=%E4%BF%9D%E9%80%81%E7%94%B7%E7%94%9F%E7%A9%BF%E6%97%97%E8%A2%8D%E4%B8%BA%E9%AB%98%E8%80%83%E5%90%8C%E5%AD%A6%E5%8A%A0%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [高校鼠头涉事窗口几乎没人去吃饭](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E9%BC%A0%E5%A4%B4%E6%B6%89%E4%BA%8B%E7%AA%97%E5%8F%A3%E5%87%A0%E4%B9%8E%E6%B2%A1%E4%BA%BA%E5%8E%BB%E5%90%83%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [开考前大妈在考点发复读广告](https://www.baidu.com/s?wd=%E5%BC%80%E8%80%83%E5%89%8D%E5%A4%A7%E5%A6%88%E5%9C%A8%E8%80%83%E7%82%B9%E5%8F%91%E5%A4%8D%E8%AF%BB%E5%B9%BF%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [一公司称花2千万可和蔡徐坤吃饭](https://www.baidu.com/s?wd=%E4%B8%80%E5%85%AC%E5%8F%B8%E7%A7%B0%E8%8A%B12%E5%8D%83%E4%B8%87%E5%8F%AF%E5%92%8C%E8%94%A1%E5%BE%90%E5%9D%A4%E5%90%83%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
