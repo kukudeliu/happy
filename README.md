@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 00:17:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 00:18:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [贾玲为了新角色要减重100斤](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E4%B8%BA%E4%BA%86%E6%96%B0%E8%A7%92%E8%89%B2%E8%A6%81%E5%87%8F%E9%87%8D100%E6%96%A4%23&t=31&band_rank=6&Refer=top)<br />
 7. [张艺兴工作室再回应](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%86%8D%E5%9B%9E%E5%BA%94%23&t=31&band_rank=7&Refer=top)<br />
 8. [多家餐饮店因在凉皮放黄瓜丝被罚](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%AE%B6%E9%A4%90%E9%A5%AE%E5%BA%97%E5%9B%A0%E5%9C%A8%E5%87%89%E7%9A%AE%E6%94%BE%E9%BB%84%E7%93%9C%E4%B8%9D%E8%A2%AB%E7%BD%9A%23&t=31&band_rank=8&Refer=top)<br />
-9. [凤凰传奇一个火上辈子一个火下辈子](https://s.weibo.com/weibo?q=%23%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E4%B8%80%E4%B8%AA%E7%81%AB%E4%B8%8A%E8%BE%88%E5%AD%90%E4%B8%80%E4%B8%AA%E7%81%AB%E4%B8%8B%E8%BE%88%E5%AD%90%23&t=31&band_rank=9&Refer=top)<br />
+9. [高考数学](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
