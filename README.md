@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 21:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 21:50:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [姜广涛](https://s.weibo.com/weibo?q=%E5%A7%9C%E5%B9%BF%E6%B6%9B&t=31&band_rank=4&Refer=top)<br />
 5. [贾玲为了新角色要减重100斤](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E4%B8%BA%E4%BA%86%E6%96%B0%E8%A7%92%E8%89%B2%E8%A6%81%E5%87%8F%E9%87%8D100%E6%96%A4%23&t=31&band_rank=5&Refer=top)<br />
 6. [某某](https://s.weibo.com/weibo?q=%E6%9F%90%E6%9F%90&t=31&band_rank=6&Refer=top)<br />
-7. [双胞胎拿错准考证骁骑5分钟调换](https://s.weibo.com/weibo?q=%23%E5%8F%8C%E8%83%9E%E8%83%8E%E6%8B%BF%E9%94%99%E5%87%86%E8%80%83%E8%AF%81%E9%AA%81%E9%AA%915%E5%88%86%E9%92%9F%E8%B0%83%E6%8D%A2%23&t=31&band_rank=7&Refer=top)<br />
-8. [新高考一卷数学 大题难](https://s.weibo.com/weibo?q=%E6%96%B0%E9%AB%98%E8%80%83%E4%B8%80%E5%8D%B7%E6%95%B0%E5%AD%A6%20%E5%A4%A7%E9%A2%98%E9%9A%BE&t=31&band_rank=8&Refer=top)<br />
+7. [新高考一卷数学 大题难](https://s.weibo.com/weibo?q=%E6%96%B0%E9%AB%98%E8%80%83%E4%B8%80%E5%8D%B7%E6%95%B0%E5%AD%A6%20%E5%A4%A7%E9%A2%98%E9%9A%BE&t=31&band_rank=7&Refer=top)<br />
+8. [双胞胎拿错准考证骁骑5分钟调换](https://s.weibo.com/weibo?q=%23%E5%8F%8C%E8%83%9E%E8%83%8E%E6%8B%BF%E9%94%99%E5%87%86%E8%80%83%E8%AF%81%E9%AA%81%E9%AA%915%E5%88%86%E9%92%9F%E8%B0%83%E6%8D%A2%23&t=31&band_rank=8&Refer=top)<br />
 9. [高考数学](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -22,7 +22,7 @@
 6. [2023 高考数学题难度如何？哪道题让人印象深刻？](https://www.zhihu.com/question/605281198)<br />
 7. [《大明王朝 1566》中，嘉靖帝为什么不感恩沈一石替他解围，反而要杀了他？](https://www.zhihu.com/question/604357966)<br />
 8. [多家国有大行 6 月 8 日起下调人民币存款利率，释放了什么信号？将带来哪些影响？](https://www.zhihu.com/question/605298719)<br />
-9. [如何在字数够的前提下写出高考 0 分作文？](https://www.zhihu.com/question/605300883)<br />
+9. [2023 年 618，有哪些超高性价比降噪耳机推荐？](https://www.zhihu.com/question/605153317)<br />
 
 > 百度  
 
