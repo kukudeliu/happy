@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 17:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 17:35:01</h4></div>
 
 > 微博  
 
 1. [高考数学](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6&t=31&band_rank=1&Refer=top)<br />
 2. [数学到底难不难](https://s.weibo.com/weibo?q=%E6%95%B0%E5%AD%A6%E5%88%B0%E5%BA%95%E9%9A%BE%E4%B8%8D%E9%9A%BE&t=31&band_rank=2&Refer=top)<br />
 3. [硬核黑科技助力高考](https://s.weibo.com/weibo?q=%23%E7%A1%AC%E6%A0%B8%E9%BB%91%E7%A7%91%E6%8A%80%E5%8A%A9%E5%8A%9B%E9%AB%98%E8%80%83%23&t=31&band_rank=3&Refer=top)<br />
-4. [22届考生比23届更着急看到数学试卷](https://s.weibo.com/weibo?q=22%E5%B1%8A%E8%80%83%E7%94%9F%E6%AF%9423%E5%B1%8A%E6%9B%B4%E7%9D%80%E6%80%A5%E7%9C%8B%E5%88%B0%E6%95%B0%E5%AD%A6%E8%AF%95%E5%8D%B7&t=31&band_rank=4&Refer=top)<br />
-5. [高考数学乙卷](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E4%B9%99%E5%8D%B7&t=31&band_rank=5&Refer=top)<br />
+4. [高考数学乙卷](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E4%B9%99%E5%8D%B7&t=31&band_rank=4&Refer=top)<br />
+5. [22届考生比23届更着急看到数学试卷](https://s.weibo.com/weibo?q=22%E5%B1%8A%E8%80%83%E7%94%9F%E6%AF%9423%E5%B1%8A%E6%9B%B4%E7%9D%80%E6%80%A5%E7%9C%8B%E5%88%B0%E6%95%B0%E5%AD%A6%E8%AF%95%E5%8D%B7&t=31&band_rank=5&Refer=top)<br />
 6. [国企负责人与异性牵手逛街被拍](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BC%81%E8%B4%9F%E8%B4%A3%E4%BA%BA%E4%B8%8E%E5%BC%82%E6%80%A7%E7%89%B5%E6%89%8B%E9%80%9B%E8%A1%97%E8%A2%AB%E6%8B%8D%23&t=31&band_rank=6&Refer=top)<br />
 7. [这是工资1W以上才需考虑的事情](https://s.weibo.com/weibo?q=%E8%BF%99%E6%98%AF%E5%B7%A5%E8%B5%841W%E4%BB%A5%E4%B8%8A%E6%89%8D%E9%9C%80%E8%80%83%E8%99%91%E7%9A%84%E4%BA%8B%E6%83%85&t=31&band_rank=7&Refer=top)<br />
 8. [马思纯瘦了30斤](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%80%9D%E7%BA%AF%E7%98%A6%E4%BA%8630%E6%96%A4%23&t=31&band_rank=8&Refer=top)<br />
