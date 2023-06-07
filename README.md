@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 19:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 19:32:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [硬核黑科技助力高考](https://s.weibo.com/weibo?q=%23%E7%A1%AC%E6%A0%B8%E9%BB%91%E7%A7%91%E6%8A%80%E5%8A%A9%E5%8A%9B%E9%AB%98%E8%80%83%23&t=31&band_rank=3&Refer=top)<br />
 4. [甲卷数学 边考边哭](https://s.weibo.com/weibo?q=%E7%94%B2%E5%8D%B7%E6%95%B0%E5%AD%A6%20%E8%BE%B9%E8%80%83%E8%BE%B9%E5%93%AD&t=31&band_rank=4&Refer=top)<br />
 5. [这声985谁听了不迷糊](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%A3%B0985%E8%B0%81%E5%90%AC%E4%BA%86%E4%B8%8D%E8%BF%B7%E7%B3%8A%23&t=31&band_rank=5&Refer=top)<br />
-6. [官方通报国企领导与女子逛街](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%9B%BD%E4%BC%81%E9%A2%86%E5%AF%BC%E4%B8%8E%E5%A5%B3%E5%AD%90%E9%80%9B%E8%A1%97%23&t=31&band_rank=6&Refer=top)<br />
+6. [22届在骂 23届崩溃 24届焦虑](https://s.weibo.com/weibo?q=22%E5%B1%8A%E5%9C%A8%E9%AA%82%2023%E5%B1%8A%E5%B4%A9%E6%BA%83%2024%E5%B1%8A%E7%84%A6%E8%99%91&t=31&band_rank=6&Refer=top)<br />
 7. [双胞胎拿错准考证骁骑5分钟调换](https://s.weibo.com/weibo?q=%23%E5%8F%8C%E8%83%9E%E8%83%8E%E6%8B%BF%E9%94%99%E5%87%86%E8%80%83%E8%AF%81%E9%AA%81%E9%AA%915%E5%88%86%E9%92%9F%E8%B0%83%E6%8D%A2%23&t=31&band_rank=7&Refer=top)<br />
-8. [贾玲为了新角色要减重100斤](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E4%B8%BA%E4%BA%86%E6%96%B0%E8%A7%92%E8%89%B2%E8%A6%81%E5%87%8F%E9%87%8D100%E6%96%A4%23&t=31&band_rank=8&Refer=top)<br />
-9. [22届在骂 23届崩溃 24届焦虑](https://s.weibo.com/weibo?q=22%E5%B1%8A%E5%9C%A8%E9%AA%82%2023%E5%B1%8A%E5%B4%A9%E6%BA%83%2024%E5%B1%8A%E7%84%A6%E8%99%91&t=31&band_rank=9&Refer=top)<br />
+8. [官方通报国企领导与女子逛街](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%9B%BD%E4%BC%81%E9%A2%86%E5%AF%BC%E4%B8%8E%E5%A5%B3%E5%AD%90%E9%80%9B%E8%A1%97%23&t=31&band_rank=8&Refer=top)<br />
+9. [贾玲为了新角色要减重100斤](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E4%B8%BA%E4%BA%86%E6%96%B0%E8%A7%92%E8%89%B2%E8%A6%81%E5%87%8F%E9%87%8D100%E6%96%A4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
