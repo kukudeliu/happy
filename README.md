@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 15:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 15:21:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [高考作文 简单](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%20%E7%AE%80%E5%8D%95&t=31&band_rank=6&Refer=top)<br />
 7. [这声985谁听了不迷糊](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%A3%B0985%E8%B0%81%E5%90%AC%E4%BA%86%E4%B8%8D%E8%BF%B7%E7%B3%8A%23&t=31&band_rank=7&Refer=top)<br />
 8. [花儿与少年第五季嘉宾](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%84%BF%E4%B8%8E%E5%B0%91%E5%B9%B4%E7%AC%AC%E4%BA%94%E5%AD%A3%E5%98%89%E5%AE%BE%23&t=31&band_rank=8&Refer=top)<br />
-9. [高考作文](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87&t=31&band_rank=9&Refer=top)<br />
+9. [高考入场时发现身份证6月6日过期](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%85%A5%E5%9C%BA%E6%97%B6%E5%8F%91%E7%8E%B0%E8%BA%AB%E4%BB%BD%E8%AF%816%E6%9C%886%E6%97%A5%E8%BF%87%E6%9C%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
