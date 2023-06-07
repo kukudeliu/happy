@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 10:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 10:22:02</h4></div>
 
 > 微博  
 
@@ -19,9 +19,9 @@
 3. [马克龙反对北约在日本设立办事处，称「管好北大西洋地区，否则将犯下大错误」，如何解读？后续将如何发展？](https://www.zhihu.com/question/605033420)<br />
 4. [上汽大众新能源车碰撞后起火 4 人遇难，具体情况如何？为什么起火速度这么快？](https://www.zhihu.com/question/604916015)<br />
 5. [1291 万高考生奔赴考场，你认为 2023 年高考与往年相比最值得关注的变化是什么？](https://www.zhihu.com/question/605100302)<br />
-6. [即将推出的 16T 固态盘是否意味着机械盘将要退出消费级市场？](https://www.zhihu.com/question/604750109)<br />
-7. [为什么我觉得数学才是最不讲逻辑的学科？](https://www.zhihu.com/question/603637246)<br />
-8. [珠峰救援者呼吁「不要网暴被救女子」，出于哪些考虑？](https://www.zhihu.com/question/605020694)<br />
+6. [为什么我觉得数学才是最不讲逻辑的学科？](https://www.zhihu.com/question/603637246)<br />
+7. [珠峰救援者呼吁「不要网暴被救女子」，出于哪些考虑？](https://www.zhihu.com/question/605020694)<br />
+8. [即将推出的 16T 固态盘是否意味着机械盘将要退出消费级市场？](https://www.zhihu.com/question/604750109)<br />
 9. [梅西转会新进展优先考虑巴萨报价，梅西父亲称「梅西想回巴萨，我也希望他回来」，你认为梅西会回到巴萨吗？](https://www.zhihu.com/question/604958538)<br />
 
 > 百度  
