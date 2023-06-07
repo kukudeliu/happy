@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 00:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 00:52:01</h4></div>
 
 > 微博  
 
@@ -20,8 +20,8 @@
 4. [杭州有楼盘买房最多送两斤黄金，折合 47.28 万返现，当地楼市情况如何？开发商「内卷」会成常态吗？](https://www.zhihu.com/question/605337792)<br />
 5. [多家国有大行 6 月 8 日起下调人民币存款利率，释放了什么信号？将带来哪些影响？](https://www.zhihu.com/question/605298719)<br />
 6. [2023 高考数学题难度如何？哪道题让人印象深刻？](https://www.zhihu.com/question/605281198)<br />
-7. [2023 LPL 夏季赛 EDG 1:2 不敌 BLG，如何评价这场比赛？](https://www.zhihu.com/question/605336971)<br />
-8. []()<br />
+7. []()<br />
+8. [2023 LPL 夏季赛 EDG 1:2 不敌 BLG，如何评价这场比赛？](https://www.zhihu.com/question/605336971)<br />
 9. []()<br />
 
 > 百度  
