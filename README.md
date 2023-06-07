@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 11:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 11:43:01</h4></div>
 
 > 微博  
 
@@ -27,10 +27,10 @@
 > 百度  
 
 1. [各地推出多项举措护航高考](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E6%8E%A8%E5%87%BA%E5%A4%9A%E9%A1%B9%E4%B8%BE%E6%8E%AA%E6%8A%A4%E8%88%AA%E9%AB%98%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [2023高考作文题目汇总](https://www.baidu.com/s?wd=2023%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%E9%A2%98%E7%9B%AE%E6%B1%87%E6%80%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [直击2023高考现场](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB2023%E9%AB%98%E8%80%83%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [直击2023高考现场](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB2023%E9%AB%98%E8%80%83%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [今年高考这些新闻还是来了](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E9%AB%98%E8%80%83%E8%BF%99%E4%BA%9B%E6%96%B0%E9%97%BB%E8%BF%98%E6%98%AF%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [毕业的寄语听着听着眼睛就湿了](https://www.baidu.com/s?wd=%E6%AF%95%E4%B8%9A%E7%9A%84%E5%AF%84%E8%AF%AD%E5%90%AC%E7%9D%80%E5%90%AC%E7%9D%80%E7%9C%BC%E7%9D%9B%E5%B0%B1%E6%B9%BF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [今年高考这些新闻还是来了](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E9%AB%98%E8%80%83%E8%BF%99%E4%BA%9B%E6%96%B0%E9%97%BB%E8%BF%98%E6%98%AF%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [2023高考作文题目汇总](https://www.baidu.com/s?wd=2023%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%E9%A2%98%E7%9B%AE%E6%B1%87%E6%80%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [高考试卷是在监狱印刷的？揭秘](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E8%AF%95%E5%8D%B7%E6%98%AF%E5%9C%A8%E7%9B%91%E7%8B%B1%E5%8D%B0%E5%88%B7%E7%9A%84%EF%BC%9F%E6%8F%AD%E7%A7%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [考生今日高考 发现昨日身份证过期](https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%E4%BB%8A%E6%97%A5%E9%AB%98%E8%80%83+%E5%8F%91%E7%8E%B0%E6%98%A8%E6%97%A5%E8%BA%AB%E4%BB%BD%E8%AF%81%E8%BF%87%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [高考防作弊磁弹枪亮相考点现场](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E9%98%B2%E4%BD%9C%E5%BC%8A%E7%A3%81%E5%BC%B9%E6%9E%AA%E4%BA%AE%E7%9B%B8%E8%80%83%E7%82%B9%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -39,10 +39,10 @@
 > 哔哩哔哩  
 
 1. [各地推出多项举措护航高考](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E6%8E%A8%E5%87%BA%E5%A4%9A%E9%A1%B9%E4%B8%BE%E6%8E%AA%E6%8A%A4%E8%88%AA%E9%AB%98%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [2023高考作文题目汇总](https://www.baidu.com/s?wd=2023%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%E9%A2%98%E7%9B%AE%E6%B1%87%E6%80%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [直击2023高考现场](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB2023%E9%AB%98%E8%80%83%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [直击2023高考现场](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB2023%E9%AB%98%E8%80%83%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [今年高考这些新闻还是来了](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E9%AB%98%E8%80%83%E8%BF%99%E4%BA%9B%E6%96%B0%E9%97%BB%E8%BF%98%E6%98%AF%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [毕业的寄语听着听着眼睛就湿了](https://www.baidu.com/s?wd=%E6%AF%95%E4%B8%9A%E7%9A%84%E5%AF%84%E8%AF%AD%E5%90%AC%E7%9D%80%E5%90%AC%E7%9D%80%E7%9C%BC%E7%9D%9B%E5%B0%B1%E6%B9%BF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [今年高考这些新闻还是来了](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E9%AB%98%E8%80%83%E8%BF%99%E4%BA%9B%E6%96%B0%E9%97%BB%E8%BF%98%E6%98%AF%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [2023高考作文题目汇总](https://www.baidu.com/s?wd=2023%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%E9%A2%98%E7%9B%AE%E6%B1%87%E6%80%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [高考试卷是在监狱印刷的？揭秘](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E8%AF%95%E5%8D%B7%E6%98%AF%E5%9C%A8%E7%9B%91%E7%8B%B1%E5%8D%B0%E5%88%B7%E7%9A%84%EF%BC%9F%E6%8F%AD%E7%A7%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [考生今日高考 发现昨日身份证过期](https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%E4%BB%8A%E6%97%A5%E9%AB%98%E8%80%83+%E5%8F%91%E7%8E%B0%E6%98%A8%E6%97%A5%E8%BA%AB%E4%BB%BD%E8%AF%81%E8%BF%87%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [高考防作弊磁弹枪亮相考点现场](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E9%98%B2%E4%BD%9C%E5%BC%8A%E7%A3%81%E5%BC%B9%E6%9E%AA%E4%BA%AE%E7%9B%B8%E8%80%83%E7%82%B9%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
