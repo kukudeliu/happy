@@ -1,8 +1,8 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 10:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 10:46:01</h4></div>
 
 > 微博  
 
-1. [高考语文](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E8%AF%AD%E6%96%87&t=31&band_rank=1&Refer=top)<br />
+1. [高考语文](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E8%AF%AD%E6%96%87%23&t=31&band_rank=1&Refer=top)<br />
 2. [高考](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83&t=31&band_rank=2&Refer=top)<br />
 3. [首艘国产大型邮轮爱达魔都号出坞](https://s.weibo.com/weibo?q=%23%E9%A6%96%E8%89%98%E5%9B%BD%E4%BA%A7%E5%A4%A7%E5%9E%8B%E9%82%AE%E8%BD%AE%E7%88%B1%E8%BE%BE%E9%AD%94%E9%83%BD%E5%8F%B7%E5%87%BA%E5%9D%9E%23&t=31&band_rank=3&Refer=top)<br />
 4. [高考作文预测](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%E9%A2%84%E6%B5%8B%23&t=31&band_rank=4&Refer=top)<br />
@@ -22,7 +22,7 @@
 6. [为什么我觉得数学才是最不讲逻辑的学科？](https://www.zhihu.com/question/603637246)<br />
 7. [马克龙反对北约在日本设立办事处，称「管好北大西洋地区，否则将犯下大错误」，如何解读？后续将如何发展？](https://www.zhihu.com/question/605033420)<br />
 8. [赫尔松地区大坝被炸毁，洪水泛滥，俄乌各执一词，事实真相是什么？俄乌战争将走向何方？](https://www.zhihu.com/question/605068506)<br />
-9. [梅西转会新进展优先考虑巴萨报价，梅西父亲称「梅西想回巴萨，我也希望他回来」，你认为梅西会回到巴萨吗？](https://www.zhihu.com/question/604958538)<br />
+9. [你有没有「梦回高考」的经历？回头看，高考这件事如何影响了你的人生？](https://www.zhihu.com/question/603646472)<br />
 
 > 百度  
 
