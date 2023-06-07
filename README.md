@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 15:23:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-07 15:24:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [今天把最好的祝福送给高考生](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E6%8A%8A%E6%9C%80%E5%A5%BD%E7%9A%84%E7%A5%9D%E7%A6%8F%E9%80%81%E7%BB%99%E9%AB%98%E8%80%83%E7%94%9F%23&t=31&band_rank=3&Refer=top)<br />
 4. [国企负责人与异性牵手逛街被拍](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BC%81%E8%B4%9F%E8%B4%A3%E4%BA%BA%E4%B8%8E%E5%BC%82%E6%80%A7%E7%89%B5%E6%89%8B%E9%80%9B%E8%A1%97%E8%A2%AB%E6%8B%8D%23&t=31&band_rank=4&Refer=top)<br />
 5. [受伤的只有22届](https://s.weibo.com/weibo?q=%E5%8F%97%E4%BC%A4%E7%9A%84%E5%8F%AA%E6%9C%8922%E5%B1%8A&t=31&band_rank=5&Refer=top)<br />
-6. [高考作文 简单](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%20%E7%AE%80%E5%8D%95&t=31&band_rank=6&Refer=top)<br />
-7. [这声985谁听了不迷糊](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%A3%B0985%E8%B0%81%E5%90%AC%E4%BA%86%E4%B8%8D%E8%BF%B7%E7%B3%8A%23&t=31&band_rank=7&Refer=top)<br />
-8. [花儿与少年第五季嘉宾](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%84%BF%E4%B8%8E%E5%B0%91%E5%B9%B4%E7%AC%AC%E4%BA%94%E5%AD%A3%E5%98%89%E5%AE%BE%23&t=31&band_rank=8&Refer=top)<br />
-9. [高考入场时发现身份证6月6日过期](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%85%A5%E5%9C%BA%E6%97%B6%E5%8F%91%E7%8E%B0%E8%BA%AB%E4%BB%BD%E8%AF%816%E6%9C%886%E6%97%A5%E8%BF%87%E6%9C%9F%23&t=31&band_rank=9&Refer=top)<br />
+6. [高考入场时发现身份证6月6日过期](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%85%A5%E5%9C%BA%E6%97%B6%E5%8F%91%E7%8E%B0%E8%BA%AB%E4%BB%BD%E8%AF%816%E6%9C%886%E6%97%A5%E8%BF%87%E6%9C%9F%23&t=31&band_rank=6&Refer=top)<br />
+7. [高考作文 简单](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%20%E7%AE%80%E5%8D%95&t=31&band_rank=7&Refer=top)<br />
+8. [这声985谁听了不迷糊](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%A3%B0985%E8%B0%81%E5%90%AC%E4%BA%86%E4%B8%8D%E8%BF%B7%E7%B3%8A%23&t=31&band_rank=8&Refer=top)<br />
+9. [花儿与少年第五季嘉宾](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%84%BF%E4%B8%8E%E5%B0%91%E5%B9%B4%E7%AC%AC%E4%BA%94%E5%AD%A3%E5%98%89%E5%AE%BE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -34,7 +34,7 @@
 6. [首位走出考场的考生喊话马化腾](https://www.baidu.com/s?wd=%E9%A6%96%E4%BD%8D%E8%B5%B0%E5%87%BA%E8%80%83%E5%9C%BA%E7%9A%84%E8%80%83%E7%94%9F%E5%96%8A%E8%AF%9D%E9%A9%AC%E5%8C%96%E8%85%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [巡视组回应国企领导疑出差带小三](https://www.baidu.com/s?wd=%E5%B7%A1%E8%A7%86%E7%BB%84%E5%9B%9E%E5%BA%94%E5%9B%BD%E4%BC%81%E9%A2%86%E5%AF%BC%E7%96%91%E5%87%BA%E5%B7%AE%E5%B8%A6%E5%B0%8F%E4%B8%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [AI考生迎战高考语文](https://www.baidu.com/s?wd=AI%E8%80%83%E7%94%9F%E8%BF%8E%E6%88%98%E9%AB%98%E8%80%83%E8%AF%AD%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [高考试卷是在监狱印刷的？揭秘](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E8%AF%95%E5%8D%B7%E6%98%AF%E5%9C%A8%E7%9B%91%E7%8B%B1%E5%8D%B0%E5%88%B7%E7%9A%84%EF%BC%9F%E6%8F%AD%E7%A7%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [一到高考就下雨，究竟是不是错觉？](https://www.baidu.com/s?wd=%E4%B8%80%E5%88%B0%E9%AB%98%E8%80%83%E5%B0%B1%E4%B8%8B%E9%9B%A8%EF%BC%8C%E7%A9%B6%E7%AB%9F%E6%98%AF%E4%B8%8D%E6%98%AF%E9%94%99%E8%A7%89%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [首位走出考场的考生喊话马化腾](https://www.baidu.com/s?wd=%E9%A6%96%E4%BD%8D%E8%B5%B0%E5%87%BA%E8%80%83%E5%9C%BA%E7%9A%84%E8%80%83%E7%94%9F%E5%96%8A%E8%AF%9D%E9%A9%AC%E5%8C%96%E8%85%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [巡视组回应国企领导疑出差带小三](https://www.baidu.com/s?wd=%E5%B7%A1%E8%A7%86%E7%BB%84%E5%9B%9E%E5%BA%94%E5%9B%BD%E4%BC%81%E9%A2%86%E5%AF%BC%E7%96%91%E5%87%BA%E5%B7%AE%E5%B8%A6%E5%B0%8F%E4%B8%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [AI考生迎战高考语文](https://www.baidu.com/s?wd=AI%E8%80%83%E7%94%9F%E8%BF%8E%E6%88%98%E9%AB%98%E8%80%83%E8%AF%AD%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [高考试卷是在监狱印刷的？揭秘](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E8%AF%95%E5%8D%B7%E6%98%AF%E5%9C%A8%E7%9B%91%E7%8B%B1%E5%8D%B0%E5%88%B7%E7%9A%84%EF%BC%9F%E6%8F%AD%E7%A7%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [一到高考就下雨，究竟是不是错觉？](https://www.baidu.com/s?wd=%E4%B8%80%E5%88%B0%E9%AB%98%E8%80%83%E5%B0%B1%E4%B8%8B%E9%9B%A8%EF%BC%8C%E7%A9%B6%E7%AB%9F%E6%98%AF%E4%B8%8D%E6%98%AF%E9%94%99%E8%A7%89%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
