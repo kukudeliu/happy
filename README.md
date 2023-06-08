@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 07:08:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 07:09:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [高考结束张桂梅又躲进空教室](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E5%BC%A0%E6%A1%82%E6%A2%85%E5%8F%88%E8%BA%B2%E8%BF%9B%E7%A9%BA%E6%95%99%E5%AE%A4%23&t=31&band_rank=5&Refer=top)<br />
 6. [Amber单杀Uzi](https://s.weibo.com/weibo?q=%23Amber%E5%8D%95%E6%9D%80Uzi%23&t=31&band_rank=6&Refer=top)<br />
 7. [杨紫赵露思撞衫](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%92%9E%E8%A1%AB%23&t=31&band_rank=7&Refer=top)<br />
-8. [通知他们仨了吗](https://s.weibo.com/weibo?q=%23%E9%80%9A%E7%9F%A5%E4%BB%96%E4%BB%AC%E4%BB%A8%E4%BA%86%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [肖战梦中的那片海杀青1周年](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%A2%A6%E4%B8%AD%E7%9A%84%E9%82%A3%E7%89%87%E6%B5%B7%E6%9D%80%E9%9D%921%E5%91%A8%E5%B9%B4%23&t=31&band_rank=9&Refer=top)<br />
+8. [女生在宿舍发现学姐2年前留信](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E5%9C%A8%E5%AE%BF%E8%88%8D%E5%8F%91%E7%8E%B0%E5%AD%A6%E5%A7%902%E5%B9%B4%E5%89%8D%E7%95%99%E4%BF%A1%23&t=31&band_rank=8&Refer=top)<br />
+9. [通知他们仨了吗](https://s.weibo.com/weibo?q=%23%E9%80%9A%E7%9F%A5%E4%BB%96%E4%BB%AC%E4%BB%A8%E4%BA%86%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -33,7 +33,7 @@
 5. [梁实谈第27次高考：文综重大失误](https://www.baidu.com/s?wd=%E6%A2%81%E5%AE%9E%E8%B0%88%E7%AC%AC27%E6%AC%A1%E9%AB%98%E8%80%83%EF%BC%9A%E6%96%87%E7%BB%BC%E9%87%8D%E5%A4%A7%E5%A4%B1%E8%AF%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [马克龙：持刀袭击事件令全国震惊](https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%8B%E9%BE%99%EF%BC%9A%E6%8C%81%E5%88%80%E8%A2%AD%E5%87%BB%E4%BA%8B%E4%BB%B6%E4%BB%A4%E5%85%A8%E5%9B%BD%E9%9C%87%E6%83%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [第一生育大省也开始催生了](https://www.baidu.com/s?wd=%E7%AC%AC%E4%B8%80%E7%94%9F%E8%82%B2%E5%A4%A7%E7%9C%81%E4%B9%9F%E5%BC%80%E5%A7%8B%E5%82%AC%E7%94%9F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [高考生开考在即被反锁家中](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E7%94%9F%E5%BC%80%E8%80%83%E5%9C%A8%E5%8D%B3%E8%A2%AB%E5%8F%8D%E9%94%81%E5%AE%B6%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [高考监控有多清晰](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E7%9B%91%E6%8E%A7%E6%9C%89%E5%A4%9A%E6%B8%85%E6%99%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [天津局部地面沉降 官方:属地质灾害](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E5%B1%80%E9%83%A8%E5%9C%B0%E9%9D%A2%E6%B2%89%E9%99%8D+%E5%AE%98%E6%96%B9%3A%E5%B1%9E%E5%9C%B0%E8%B4%A8%E7%81%BE%E5%AE%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [梁实谈第27次高考：文综重大失误](https://www.baidu.com/s?wd=%E6%A2%81%E5%AE%9E%E8%B0%88%E7%AC%AC27%E6%AC%A1%E9%AB%98%E8%80%83%EF%BC%9A%E6%96%87%E7%BB%BC%E9%87%8D%E5%A4%A7%E5%A4%B1%E8%AF%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [马克龙：持刀袭击事件令全国震惊](https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%8B%E9%BE%99%EF%BC%9A%E6%8C%81%E5%88%80%E8%A2%AD%E5%87%BB%E4%BA%8B%E4%BB%B6%E4%BB%A4%E5%85%A8%E5%9B%BD%E9%9C%87%E6%83%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [第一生育大省也开始催生了](https://www.baidu.com/s?wd=%E7%AC%AC%E4%B8%80%E7%94%9F%E8%82%B2%E5%A4%A7%E7%9C%81%E4%B9%9F%E5%BC%80%E5%A7%8B%E5%82%AC%E7%94%9F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [高考生开考在即被反锁家中](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E7%94%9F%E5%BC%80%E8%80%83%E5%9C%A8%E5%8D%B3%E8%A2%AB%E5%8F%8D%E9%94%81%E5%AE%B6%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [高考监控有多清晰](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E7%9B%91%E6%8E%A7%E6%9C%89%E5%A4%9A%E6%B8%85%E6%99%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [天津局部地面沉降 官方:属地质灾害](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E5%B1%80%E9%83%A8%E5%9C%B0%E9%9D%A2%E6%B2%89%E9%99%8D+%E5%AE%98%E6%96%B9%3A%E5%B1%9E%E5%9C%B0%E8%B4%A8%E7%81%BE%E5%AE%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
