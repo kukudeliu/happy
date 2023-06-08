@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 22:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 22:13:01</h4></div>
 
 > 微博  
 
 1. [Uzi EDG](https://s.weibo.com/weibo?q=Uzi%20EDG&t=31&band_rank=1&Refer=top)<br />
 2. [Amber单杀Uzi](https://s.weibo.com/weibo?q=%23Amber%E5%8D%95%E6%9D%80Uzi%23&t=31&band_rank=2&Refer=top)<br />
 3. [高考第二天](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E7%AC%AC%E4%BA%8C%E5%A4%A9%23&t=31&band_rank=3&Refer=top)<br />
-4. [鼠头鸭脖高校学生称又吃出大青虫](https://s.weibo.com/weibo?q=%23%E9%BC%A0%E5%A4%B4%E9%B8%AD%E8%84%96%E9%AB%98%E6%A0%A1%E5%AD%A6%E7%94%9F%E7%A7%B0%E5%8F%88%E5%90%83%E5%87%BA%E5%A4%A7%E9%9D%92%E8%99%AB%23&t=31&band_rank=4&Refer=top)<br />
-5. [杨紫赵露思撞衫](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%92%9E%E8%A1%AB%23&t=31&band_rank=5&Refer=top)<br />
+4. [杨紫赵露思撞衫](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%92%9E%E8%A1%AB%23&t=31&band_rank=4&Refer=top)<br />
+5. [鼠头鸭脖高校学生称又吃出大青虫](https://s.weibo.com/weibo?q=%23%E9%BC%A0%E5%A4%B4%E9%B8%AD%E8%84%96%E9%AB%98%E6%A0%A1%E5%AD%A6%E7%94%9F%E7%A7%B0%E5%8F%88%E5%90%83%E5%87%BA%E5%A4%A7%E9%9D%92%E8%99%AB%23&t=31&band_rank=5&Refer=top)<br />
 6. [成都太古里明确禁止未经允许街拍](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%A4%AA%E5%8F%A4%E9%87%8C%E6%98%8E%E7%A1%AE%E7%A6%81%E6%AD%A2%E6%9C%AA%E7%BB%8F%E5%85%81%E8%AE%B8%E8%A1%97%E6%8B%8D%23&t=31&band_rank=6&Refer=top)<br />
 7. [爱奇艺暑期档排播剧集](https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E6%9A%91%E6%9C%9F%E6%A1%A3%E6%8E%92%E6%92%AD%E5%89%A7%E9%9B%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [957确认Uzi加入EDG](https://s.weibo.com/weibo?q=%23957%E7%A1%AE%E8%AE%A4Uzi%E5%8A%A0%E5%85%A5EDG%23&t=31&band_rank=8&Refer=top)<br />
