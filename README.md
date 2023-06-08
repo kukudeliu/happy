@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 15:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 15:17:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [董某某被停职](https://s.weibo.com/weibo?q=%23%E8%91%A3%E6%9F%90%E6%9F%90%E8%A2%AB%E5%81%9C%E8%81%8C%23&t=31&band_rank=6&Refer=top)<br />
 7. [中国石油大学回应](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%9F%B3%E6%B2%B9%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%23&t=31&band_rank=7&Refer=top)<br />
 8. [河南考生吐槽统一配备文具不好用](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E8%80%83%E7%94%9F%E5%90%90%E6%A7%BD%E7%BB%9F%E4%B8%80%E9%85%8D%E5%A4%87%E6%96%87%E5%85%B7%E4%B8%8D%E5%A5%BD%E7%94%A8%23&t=31&band_rank=8&Refer=top)<br />
-9. [宿管多次强奸学生聋哑母亲获刑4年](https://s.weibo.com/weibo?q=%23%E5%AE%BF%E7%AE%A1%E5%A4%9A%E6%AC%A1%E5%BC%BA%E5%A5%B8%E5%AD%A6%E7%94%9F%E8%81%8B%E5%93%91%E6%AF%8D%E4%BA%B2%E8%8E%B7%E5%88%914%E5%B9%B4%23&t=31&band_rank=9&Refer=top)<br />
+9. [庆余年2](https://s.weibo.com/weibo?q=%23%E5%BA%86%E4%BD%99%E5%B9%B42%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
