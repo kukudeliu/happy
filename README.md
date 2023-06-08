@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 20:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 20:17:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [高考英语](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E8%8B%B1%E8%AF%AD&t=31&band_rank=6&Refer=top)<br />
 7. [成都太古里明确禁止未经允许街拍](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%A4%AA%E5%8F%A4%E9%87%8C%E6%98%8E%E7%A1%AE%E7%A6%81%E6%AD%A2%E6%9C%AA%E7%BB%8F%E5%85%81%E8%AE%B8%E8%A1%97%E6%8B%8D%23&t=31&band_rank=7&Refer=top)<br />
 8. [金毛误入考场被民警请出](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%AF%9B%E8%AF%AF%E5%85%A5%E8%80%83%E5%9C%BA%E8%A2%AB%E6%B0%91%E8%AD%A6%E8%AF%B7%E5%87%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [圣枪哥确认Uzi在EDG基地](https://s.weibo.com/weibo?q=%23%E5%9C%A3%E6%9E%AA%E5%93%A5%E7%A1%AE%E8%AE%A4Uzi%E5%9C%A8EDG%E5%9F%BA%E5%9C%B0%23&t=31&band_rank=9&Refer=top)<br />
+9. [通知他们仨了吗](https://s.weibo.com/weibo?q=%23%E9%80%9A%E7%9F%A5%E4%BB%96%E4%BB%AC%E4%BB%A8%E4%BA%86%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -20,8 +20,8 @@
 4. [罕见病唯一药物唯铭赞即将退出中国，如何从商业角度解读此举？](https://www.zhihu.com/question/605244647)<br />
 5. [计算机专业毕业就要去互联网大厂吗？](https://www.zhihu.com/theater/17316)<br />
 6. [迈阿密国际官宣梅西后官号涨粉超 200 万，巴黎宣布梅西离队掉粉 200 万，如何评价梅西的影响力？](https://www.zhihu.com/question/605423631)<br />
-7. []()<br />
-8. []()<br />
+7. [吴磊骑电助力自行车（e-bike）去新疆，相比纯人力自行车这类车有哪些优势？](https://www.zhihu.com/question/604844013)<br />
+8. [手机被监听是不是比监视更难发现？](https://www.zhihu.com/question/275704975)<br />
 9. [如何看待「高考解决的是社会问题，但没有解决人才选拔的难题」这一观点?](https://www.zhihu.com/question/605215208)<br />
 
 > 百度  
