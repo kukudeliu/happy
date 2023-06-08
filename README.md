@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 14:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 14:20:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [中国石油大学回应](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%9F%B3%E6%B2%B9%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%23&t=31&band_rank=6&Refer=top)<br />
 7. [长得还行迪丽热巴](https://s.weibo.com/weibo?q=%23%E9%95%BF%E5%BE%97%E8%BF%98%E8%A1%8C%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%23&t=31&band_rank=7&Refer=top)<br />
 8. [庆余年2](https://s.weibo.com/weibo?q=%23%E5%BA%86%E4%BD%99%E5%B9%B42%23&t=31&band_rank=8&Refer=top)<br />
-9. [王润泽和奶奶](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%B6%A6%E6%B3%BD%E5%92%8C%E5%A5%B6%E5%A5%B6&t=31&band_rank=9&Refer=top)<br />
+9. [高考](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -27,7 +27,7 @@
 > 百度  
 
 1. [启程的少年们 愿你们大胜归来](https://www.baidu.com/s?wd=%E5%90%AF%E7%A8%8B%E7%9A%84%E5%B0%91%E5%B9%B4%E4%BB%AC+%E6%84%BF%E4%BD%A0%E4%BB%AC%E5%A4%A7%E8%83%9C%E5%BD%92%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [一考生开心出考场：物理简单](https://www.baidu.com/s?wd=%E4%B8%80%E8%80%83%E7%94%9F%E5%BC%80%E5%BF%83%E5%87%BA%E8%80%83%E5%9C%BA%EF%BC%9A%E7%89%A9%E7%90%86%E7%AE%80%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [考生迟到37分钟仍进考场 江西回应](https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%E8%BF%9F%E5%88%B037%E5%88%86%E9%92%9F%E4%BB%8D%E8%BF%9B%E8%80%83%E5%9C%BA+%E6%B1%9F%E8%A5%BF%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [鼠头鸭脖食堂意见反馈群曝光](https://www.baidu.com/s?wd=%E9%BC%A0%E5%A4%B4%E9%B8%AD%E8%84%96%E9%A3%9F%E5%A0%82%E6%84%8F%E8%A7%81%E5%8F%8D%E9%A6%88%E7%BE%A4%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [以平和心态看待高考](https://www.baidu.com/s?wd=%E4%BB%A5%E5%B9%B3%E5%92%8C%E5%BF%83%E6%80%81%E7%9C%8B%E5%BE%85%E9%AB%98%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [定期存款利率告别“3时代”](https://www.baidu.com/s?wd=%E5%AE%9A%E6%9C%9F%E5%AD%98%E6%AC%BE%E5%88%A9%E7%8E%87%E5%91%8A%E5%88%AB%E2%80%9C3%E6%97%B6%E4%BB%A3%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -39,7 +39,7 @@
 > 哔哩哔哩  
 
 1. [启程的少年们 愿你们大胜归来](https://www.baidu.com/s?wd=%E5%90%AF%E7%A8%8B%E7%9A%84%E5%B0%91%E5%B9%B4%E4%BB%AC+%E6%84%BF%E4%BD%A0%E4%BB%AC%E5%A4%A7%E8%83%9C%E5%BD%92%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [一考生开心出考场：物理简单](https://www.baidu.com/s?wd=%E4%B8%80%E8%80%83%E7%94%9F%E5%BC%80%E5%BF%83%E5%87%BA%E8%80%83%E5%9C%BA%EF%BC%9A%E7%89%A9%E7%90%86%E7%AE%80%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [考生迟到37分钟仍进考场 江西回应](https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%E8%BF%9F%E5%88%B037%E5%88%86%E9%92%9F%E4%BB%8D%E8%BF%9B%E8%80%83%E5%9C%BA+%E6%B1%9F%E8%A5%BF%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [鼠头鸭脖食堂意见反馈群曝光](https://www.baidu.com/s?wd=%E9%BC%A0%E5%A4%B4%E9%B8%AD%E8%84%96%E9%A3%9F%E5%A0%82%E6%84%8F%E8%A7%81%E5%8F%8D%E9%A6%88%E7%BE%A4%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [以平和心态看待高考](https://www.baidu.com/s?wd=%E4%BB%A5%E5%B9%B3%E5%92%8C%E5%BF%83%E6%80%81%E7%9C%8B%E5%BE%85%E9%AB%98%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [定期存款利率告别“3时代”](https://www.baidu.com/s?wd=%E5%AE%9A%E6%9C%9F%E5%AD%98%E6%AC%BE%E5%88%A9%E7%8E%87%E5%91%8A%E5%88%AB%E2%80%9C3%E6%97%B6%E4%BB%A3%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
