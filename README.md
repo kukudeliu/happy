@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 18:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 18:07:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [高考第二天](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E7%AC%AC%E4%BA%8C%E5%A4%A9%23&t=31&band_rank=3&Refer=top)<br />
 4. [Uzi EDG](https://s.weibo.com/weibo?q=Uzi%20EDG&t=31&band_rank=4&Refer=top)<br />
 5. [金毛误入考场被民警请出](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%AF%9B%E8%AF%AF%E5%85%A5%E8%80%83%E5%9C%BA%E8%A2%AB%E6%B0%91%E8%AD%A6%E8%AF%B7%E5%87%BA%23&t=31&band_rank=5&Refer=top)<br />
-6. [通知他们仨了吗](https://s.weibo.com/weibo?q=%23%E9%80%9A%E7%9F%A5%E4%BB%96%E4%BB%AC%E4%BB%A8%E4%BA%86%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
+6. [上海英语 我是吴磊](https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E8%8B%B1%E8%AF%AD%20%E6%88%91%E6%98%AF%E5%90%B4%E7%A3%8A&t=31&band_rank=6&Refer=top)<br />
 7. [张桂梅还穿着那件泛白的黑衬衣](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%A1%82%E6%A2%85%E8%BF%98%E7%A9%BF%E7%9D%80%E9%82%A3%E4%BB%B6%E6%B3%9B%E7%99%BD%E7%9A%84%E9%BB%91%E8%A1%AC%E8%A1%A3%23&t=31&band_rank=7&Refer=top)<br />
-8. [上海英语 我是吴磊](https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E8%8B%B1%E8%AF%AD%20%E6%88%91%E6%98%AF%E5%90%B4%E7%A3%8A&t=31&band_rank=8&Refer=top)<br />
+8. [通知他们仨了吗](https://s.weibo.com/weibo?q=%23%E9%80%9A%E7%9F%A5%E4%BB%96%E4%BB%AC%E4%BB%A8%E4%BA%86%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
 9. [董某某被停职](https://s.weibo.com/weibo?q=%23%E8%91%A3%E6%9F%90%E6%9F%90%E8%A2%AB%E5%81%9C%E8%81%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -18,8 +18,8 @@
 2. [网传中国电信广东地区崩了，接打电话受限，客服称网络异常，正在进行抢修，目前情况如何？什么原因导致的？](https://www.zhihu.com/question/605482217)<br />
 3. [DeepMind AI 创造出比人类快 70% 的排序算法，会产生哪些影响？](https://www.zhihu.com/question/605448432)<br />
 4. [英国又以安全风险为由，拟要求政府部门拆除中企生产的监控设备，如何评价此事？](https://www.zhihu.com/question/605365721)<br />
-5. [为什么说「不要把同事当朋友」？你支持这种观点吗？](https://www.zhihu.com/question/605243415)<br />
-6. [「鼠头鸭脖」涉事食堂意见反馈群曝光，每月大量投诉，虫子异物屡见不鲜，如何看待此事？食品安全如何保障？](https://www.zhihu.com/question/605474959)<br />
+5. [「鼠头鸭脖」涉事食堂意见反馈群曝光，每月大量投诉，虫子异物屡见不鲜，如何看待此事？食品安全如何保障？](https://www.zhihu.com/question/605474959)<br />
+6. [为什么说「不要把同事当朋友」？你支持这种观点吗？](https://www.zhihu.com/question/605243415)<br />
 7. [「国企领导牵手门」最新进展，涉事女子也已停职并接受核查，如何看待此事？](https://www.zhihu.com/question/605315436)<br />
 8. [河南高考生吐槽统一配笔难用，招生办回应「有问题的笔已封存，积极配合换笔」，文具对于考生影响有多大？](https://www.zhihu.com/question/605486604)<br />
 9. [参加 2023 年高考是一种怎样的体验？考完感受如何？](https://www.zhihu.com/question/604195740)<br />
