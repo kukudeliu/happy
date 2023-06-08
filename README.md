@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 17:43:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 17:44:01</h4></div>
 
 > 微博  
 
@@ -33,7 +33,7 @@
 5. [多地高考今日结束 直击场外](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E9%AB%98%E8%80%83%E4%BB%8A%E6%97%A5%E7%BB%93%E6%9D%9F+%E7%9B%B4%E5%87%BB%E5%9C%BA%E5%A4%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [香港女子在公共场所拍裸照被捕](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%A5%B3%E5%AD%90%E5%9C%A8%E5%85%AC%E5%85%B1%E5%9C%BA%E6%89%80%E6%8B%8D%E8%A3%B8%E7%85%A7%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [牵手门涉事女子已被停职并接受调查](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E6%B6%89%E4%BA%8B%E5%A5%B3%E5%AD%90%E5%B7%B2%E8%A2%AB%E5%81%9C%E8%81%8C%E5%B9%B6%E6%8E%A5%E5%8F%97%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [考点执勤多年终于当上了陪考家长](https://www.baidu.com/s?wd=%E8%80%83%E7%82%B9%E6%89%A7%E5%8B%A4%E5%A4%9A%E5%B9%B4%E7%BB%88%E4%BA%8E%E5%BD%93%E4%B8%8A%E4%BA%86%E9%99%AA%E8%80%83%E5%AE%B6%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [老师身穿“稳”上衣为考生加油](https://www.baidu.com/s?wd=%E8%80%81%E5%B8%88%E8%BA%AB%E7%A9%BF%E2%80%9C%E7%A8%B3%E2%80%9D%E4%B8%8A%E8%A1%A3%E4%B8%BA%E8%80%83%E7%94%9F%E5%8A%A0%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [专家解读“10年高考8年雨”](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E8%A7%A3%E8%AF%BB%E2%80%9C10%E5%B9%B4%E9%AB%98%E8%80%838%E5%B9%B4%E9%9B%A8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [多地高考今日结束 直击场外](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E9%AB%98%E8%80%83%E4%BB%8A%E6%97%A5%E7%BB%93%E6%9D%9F+%E7%9B%B4%E5%87%BB%E5%9C%BA%E5%A4%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [香港女子在公共场所拍裸照被捕](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%A5%B3%E5%AD%90%E5%9C%A8%E5%85%AC%E5%85%B1%E5%9C%BA%E6%89%80%E6%8B%8D%E8%A3%B8%E7%85%A7%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [牵手门涉事女子已被停职并接受调查](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E6%B6%89%E4%BA%8B%E5%A5%B3%E5%AD%90%E5%B7%B2%E8%A2%AB%E5%81%9C%E8%81%8C%E5%B9%B6%E6%8E%A5%E5%8F%97%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [考点执勤多年终于当上了陪考家长](https://www.baidu.com/s?wd=%E8%80%83%E7%82%B9%E6%89%A7%E5%8B%A4%E5%A4%9A%E5%B9%B4%E7%BB%88%E4%BA%8E%E5%BD%93%E4%B8%8A%E4%BA%86%E9%99%AA%E8%80%83%E5%AE%B6%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [老师身穿“稳”上衣为考生加油](https://www.baidu.com/s?wd=%E8%80%81%E5%B8%88%E8%BA%AB%E7%A9%BF%E2%80%9C%E7%A8%B3%E2%80%9D%E4%B8%8A%E8%A1%A3%E4%B8%BA%E8%80%83%E7%94%9F%E5%8A%A0%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [专家解读“10年高考8年雨”](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E8%A7%A3%E8%AF%BB%E2%80%9C10%E5%B9%B4%E9%AB%98%E8%80%838%E5%B9%B4%E9%9B%A8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
