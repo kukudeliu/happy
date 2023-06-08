@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 20:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 20:23:01</h4></div>
 
 > 微博  
 
@@ -28,7 +28,7 @@
 
 1. [这一波“高考表情”值得定格](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%80%E6%B3%A2%E2%80%9C%E9%AB%98%E8%80%83%E8%A1%A8%E6%83%85%E2%80%9D%E5%80%BC%E5%BE%97%E5%AE%9A%E6%A0%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [鼠头鸭脖涉事高校学生称吃出大青虫](https://www.baidu.com/s?wd=%E9%BC%A0%E5%A4%B4%E9%B8%AD%E8%84%96%E6%B6%89%E4%BA%8B%E9%AB%98%E6%A0%A1%E5%AD%A6%E7%94%9F%E7%A7%B0%E5%90%83%E5%87%BA%E5%A4%A7%E9%9D%92%E8%99%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [天津小区地面沉降 初判为地质灾害](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E5%B0%8F%E5%8C%BA%E5%9C%B0%E9%9D%A2%E6%B2%89%E9%99%8D+%E5%88%9D%E5%88%A4%E4%B8%BA%E5%9C%B0%E8%B4%A8%E7%81%BE%E5%AE%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [天津小区地面沉降 官方:属地质灾害](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E5%B0%8F%E5%8C%BA%E5%9C%B0%E9%9D%A2%E6%B2%89%E9%99%8D+%E5%AE%98%E6%96%B9%3A%E5%B1%9E%E5%9C%B0%E8%B4%A8%E7%81%BE%E5%AE%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全国“三夏”麦收进度过半](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E2%80%9C%E4%B8%89%E5%A4%8F%E2%80%9D%E9%BA%A6%E6%94%B6%E8%BF%9B%E5%BA%A6%E8%BF%87%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [江西通报考生迟到37分钟仍进入考场](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E9%80%9A%E6%8A%A5%E8%80%83%E7%94%9F%E8%BF%9F%E5%88%B037%E5%88%86%E9%92%9F%E4%BB%8D%E8%BF%9B%E5%85%A5%E8%80%83%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [高考生睡过头外卖小哥将其送到考场](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E7%94%9F%E7%9D%A1%E8%BF%87%E5%A4%B4%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E5%B0%86%E5%85%B6%E9%80%81%E5%88%B0%E8%80%83%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -40,7 +40,7 @@
 
 1. [这一波“高考表情”值得定格](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%80%E6%B3%A2%E2%80%9C%E9%AB%98%E8%80%83%E8%A1%A8%E6%83%85%E2%80%9D%E5%80%BC%E5%BE%97%E5%AE%9A%E6%A0%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [鼠头鸭脖涉事高校学生称吃出大青虫](https://www.baidu.com/s?wd=%E9%BC%A0%E5%A4%B4%E9%B8%AD%E8%84%96%E6%B6%89%E4%BA%8B%E9%AB%98%E6%A0%A1%E5%AD%A6%E7%94%9F%E7%A7%B0%E5%90%83%E5%87%BA%E5%A4%A7%E9%9D%92%E8%99%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [天津小区地面沉降 初判为地质灾害](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E5%B0%8F%E5%8C%BA%E5%9C%B0%E9%9D%A2%E6%B2%89%E9%99%8D+%E5%88%9D%E5%88%A4%E4%B8%BA%E5%9C%B0%E8%B4%A8%E7%81%BE%E5%AE%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [天津小区地面沉降 官方:属地质灾害](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E5%B0%8F%E5%8C%BA%E5%9C%B0%E9%9D%A2%E6%B2%89%E9%99%8D+%E5%AE%98%E6%96%B9%3A%E5%B1%9E%E5%9C%B0%E8%B4%A8%E7%81%BE%E5%AE%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全国“三夏”麦收进度过半](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E2%80%9C%E4%B8%89%E5%A4%8F%E2%80%9D%E9%BA%A6%E6%94%B6%E8%BF%9B%E5%BA%A6%E8%BF%87%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [江西通报考生迟到37分钟仍进入考场](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E9%80%9A%E6%8A%A5%E8%80%83%E7%94%9F%E8%BF%9F%E5%88%B037%E5%88%86%E9%92%9F%E4%BB%8D%E8%BF%9B%E5%85%A5%E8%80%83%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [高考生睡过头外卖小哥将其送到考场](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E7%94%9F%E7%9D%A1%E8%BF%87%E5%A4%B4%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E5%B0%86%E5%85%B6%E9%80%81%E5%88%B0%E8%80%83%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
