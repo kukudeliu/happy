@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 11:59:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 12:00:01</h4></div>
 
 > 微博  
 
@@ -16,12 +16,12 @@
 
 1. [梅西宣布加盟迈阿密国际，将穿 10 号球衣，告别欧洲转会美国大联盟，如何评价梅西的选择？](https://www.zhihu.com/question/605363198)<br />
 2. [杭州有楼盘买房最多送两斤黄金，折合 47.28 万返现，当地楼市情况如何？开发商「内卷」会成常态吗？](https://www.zhihu.com/question/605337792)<br />
-3. [夏尔巴人如此擅长登山，为什么攀登珠穆朗玛峰的各种纪录，没有夏尔巴人？](https://www.zhihu.com/question/509831714)<br />
-4. [2022-23 赛季 NBA 总决赛掘金轻取热火，总比分 2:1，约基奇、穆雷三双，如何评价这场比赛？](https://www.zhihu.com/question/605421218)<br />
+3. [2022-23 赛季 NBA 总决赛掘金轻取热火，总比分 2:1，约基奇、穆雷三双，如何评价这场比赛？](https://www.zhihu.com/question/605421218)<br />
+4. [夏尔巴人如此擅长登山，为什么攀登珠穆朗玛峰的各种纪录，没有夏尔巴人？](https://www.zhihu.com/question/509831714)<br />
 5. [为什么王语嫣会认为段誉会是天下第一？](https://www.zhihu.com/question/603262456)<br />
 6. [如何评价 2023 年高考数学全国甲卷？](https://www.zhihu.com/question/605308700)<br />
-7. [长沙夜市现爆炒鹅卵石 16 元一份，对此你有何看法？](https://www.zhihu.com/question/604881315)<br />
-8. [梅西选择美职联，C 罗征战沙特联赛，欧洲足坛「梅罗时代」彻底画上句号，如何评价这样的足坛格局？](https://www.zhihu.com/question/605423210)<br />
+7. [梅西选择美职联，C 罗征战沙特联赛，欧洲足坛「梅罗时代」彻底画上句号，如何评价这样的足坛格局？](https://www.zhihu.com/question/605423210)<br />
+8. [长沙夜市现爆炒鹅卵石 16 元一份，对此你有何看法？](https://www.zhihu.com/question/604881315)<br />
 9. [在孟加拉国生活是怎么样的体验？](https://www.zhihu.com/question/27391527)<br />
 
 > 百度  
