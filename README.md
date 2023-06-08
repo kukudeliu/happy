@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 16:14:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 16:15:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [成都太古里明确禁止未经允许街拍](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E5%A4%AA%E5%8F%A4%E9%87%8C%E6%98%8E%E7%A1%AE%E7%A6%81%E6%AD%A2%E6%9C%AA%E7%BB%8F%E5%85%81%E8%AE%B8%E8%A1%97%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [牵手门涉事女子已被停职并接受调查](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E6%B6%89%E4%BA%8B%E5%A5%B3%E5%AD%90%E5%B7%B2%E8%A2%AB%E5%81%9C%E8%81%8C%E5%B9%B6%E6%8E%A5%E5%8F%97%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [孩子们围抱张桂梅时喊抱轻一点](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E4%BB%AC%E5%9B%B4%E6%8A%B1%E5%BC%A0%E6%A1%82%E6%A2%85%E6%97%B6%E5%96%8A%E6%8A%B1%E8%BD%BB%E4%B8%80%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [考生上吐下泻铁骑送医考前送回](https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%E4%B8%8A%E5%90%90%E4%B8%8B%E6%B3%BB%E9%93%81%E9%AA%91%E9%80%81%E5%8C%BB%E8%80%83%E5%89%8D%E9%80%81%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [顾客在茶颜悦色饮品中喝出整个镊子](https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E5%9C%A8%E8%8C%B6%E9%A2%9C%E6%82%A6%E8%89%B2%E9%A5%AE%E5%93%81%E4%B8%AD%E5%96%9D%E5%87%BA%E6%95%B4%E4%B8%AA%E9%95%8A%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [成都太古里明确禁止未经允许街拍](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E5%A4%AA%E5%8F%A4%E9%87%8C%E6%98%8E%E7%A1%AE%E7%A6%81%E6%AD%A2%E6%9C%AA%E7%BB%8F%E5%85%81%E8%AE%B8%E8%A1%97%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [牵手门涉事女子已被停职并接受调查](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E6%B6%89%E4%BA%8B%E5%A5%B3%E5%AD%90%E5%B7%B2%E8%A2%AB%E5%81%9C%E8%81%8C%E5%B9%B6%E6%8E%A5%E5%8F%97%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [孩子们围抱张桂梅时喊抱轻一点](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E4%BB%AC%E5%9B%B4%E6%8A%B1%E5%BC%A0%E6%A1%82%E6%A2%85%E6%97%B6%E5%96%8A%E6%8A%B1%E8%BD%BB%E4%B8%80%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [考生上吐下泻铁骑送医考前送回](https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%E4%B8%8A%E5%90%90%E4%B8%8B%E6%B3%BB%E9%93%81%E9%AA%91%E9%80%81%E5%8C%BB%E8%80%83%E5%89%8D%E9%80%81%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [顾客在茶颜悦色饮品中喝出整个镊子](https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E5%9C%A8%E8%8C%B6%E9%A2%9C%E6%82%A6%E8%89%B2%E9%A5%AE%E5%93%81%E4%B8%AD%E5%96%9D%E5%87%BA%E6%95%B4%E4%B8%AA%E9%95%8A%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
