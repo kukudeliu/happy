@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 11:26:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 11:27:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [复旦研究生嫖娼被开除起诉学校被驳](https://s.weibo.com/weibo?q=%23%E5%A4%8D%E6%97%A6%E7%A0%94%E7%A9%B6%E7%94%9F%E5%AB%96%E5%A8%BC%E8%A2%AB%E5%BC%80%E9%99%A4%E8%B5%B7%E8%AF%89%E5%AD%A6%E6%A0%A1%E8%A2%AB%E9%A9%B3%23&t=31&band_rank=5&Refer=top)<br />
 6. [中石油胡继勇被免职](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%9F%B3%E6%B2%B9%E8%83%A1%E7%BB%A7%E5%8B%87%E8%A2%AB%E5%85%8D%E8%81%8C%23&t=31&band_rank=6&Refer=top)<br />
 7. [高考](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83&t=31&band_rank=7&Refer=top)<br />
-8. [巴厘岛命案](https://s.weibo.com/weibo?q=%E5%B7%B4%E5%8E%98%E5%B2%9B%E5%91%BD%E6%A1%88&t=31&band_rank=8&Refer=top)<br />
-9. [陈晓更新小说](https://s.weibo.com/weibo?q=%E9%99%88%E6%99%93%E6%9B%B4%E6%96%B0%E5%B0%8F%E8%AF%B4&t=31&band_rank=9&Refer=top)<br />
+8. [陈晓更新小说](https://s.weibo.com/weibo?q=%E9%99%88%E6%99%93%E6%9B%B4%E6%96%B0%E5%B0%8F%E8%AF%B4&t=31&band_rank=8&Refer=top)<br />
+9. [一卷物理难不难](https://s.weibo.com/weibo?q=%E4%B8%80%E5%8D%B7%E7%89%A9%E7%90%86%E9%9A%BE%E4%B8%8D%E9%9A%BE&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [2023 高考数学题难度如何？哪道题让人印象深刻？](https://www.zhihu.com/question/605281198)<br />
 7. [长沙夜市现爆炒鹅卵石 16 元一份，对此你有何看法？](https://www.zhihu.com/question/604881315)<br />
 8. [离岸人民币兑美元跌破 7.14，触及 2023 年新低，哪些信息值得关注？](https://www.zhihu.com/question/605172547)<br />
-9. [如何评价林志颖成为小鹏 G6 品牌智友？](https://www.zhihu.com/question/605038425)<br />
+9. [《暗黑破坏神 4》有哪些实用的开荒建议？](https://www.zhihu.com/question/604407231)<br />
 
 > 百度  
 
