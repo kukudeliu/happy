@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 11:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 11:52:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [高考物理](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E7%89%A9%E7%90%86&t=31&band_rank=4&Refer=top)<br />
 5. [高考历史](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E5%8E%86%E5%8F%B2&t=31&band_rank=5&Refer=top)<br />
 6. [高考](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83&t=31&band_rank=6&Refer=top)<br />
-7. [复旦研究生嫖娼被开除起诉学校被驳](https://s.weibo.com/weibo?q=%23%E5%A4%8D%E6%97%A6%E7%A0%94%E7%A9%B6%E7%94%9F%E5%AB%96%E5%A8%BC%E8%A2%AB%E5%BC%80%E9%99%A4%E8%B5%B7%E8%AF%89%E5%AD%A6%E6%A0%A1%E8%A2%AB%E9%A9%B3%23&t=31&band_rank=7&Refer=top)<br />
-8. [高考理综](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E7%90%86%E7%BB%BC&t=31&band_rank=8&Refer=top)<br />
+7. [高考理综](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E7%90%86%E7%BB%BC&t=31&band_rank=7&Refer=top)<br />
+8. [复旦研究生嫖娼被开除起诉学校被驳](https://s.weibo.com/weibo?q=%23%E5%A4%8D%E6%97%A6%E7%A0%94%E7%A9%B6%E7%94%9F%E5%AB%96%E5%A8%BC%E8%A2%AB%E5%BC%80%E9%99%A4%E8%B5%B7%E8%AF%89%E5%AD%A6%E6%A0%A1%E8%A2%AB%E9%A9%B3%23&t=31&band_rank=8&Refer=top)<br />
 9. [中石油胡继勇被免职](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%9F%B3%E6%B2%B9%E8%83%A1%E7%BB%A7%E5%8B%87%E8%A2%AB%E5%85%8D%E8%81%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -17,11 +17,11 @@
 1. [梅西宣布加盟迈阿密国际，将穿 10 号球衣，告别欧洲转会美国大联盟，如何评价梅西的选择？](https://www.zhihu.com/question/605363198)<br />
 2. [杭州有楼盘买房最多送两斤黄金，折合 47.28 万返现，当地楼市情况如何？开发商「内卷」会成常态吗？](https://www.zhihu.com/question/605337792)<br />
 3. [夏尔巴人如此擅长登山，为什么攀登珠穆朗玛峰的各种纪录，没有夏尔巴人？](https://www.zhihu.com/question/509831714)<br />
-4. [海关总署消息「今年前 5 个月我国进出口总值 16.77 万亿元，同比增长 4.7%」，如何解读？](https://www.zhihu.com/question/605246256)<br />
-5. [2022-23 赛季 NBA 总决赛掘金轻取热火，总比分 2:1，约基奇、穆雷三双，如何评价这场比赛？](https://www.zhihu.com/question/605421218)<br />
+4. [2022-23 赛季 NBA 总决赛掘金轻取热火，总比分 2:1，约基奇、穆雷三双，如何评价这场比赛？](https://www.zhihu.com/question/605421218)<br />
+5. [海关总署消息「今年前 5 个月我国进出口总值 16.77 万亿元，同比增长 4.7%」，如何解读？](https://www.zhihu.com/question/605246256)<br />
 6. [2023 高考数学题难度如何？哪道题让人印象深刻？](https://www.zhihu.com/question/605281198)<br />
-7. [离岸人民币兑美元跌破 7.14，触及 2023 年新低，哪些信息值得关注？](https://www.zhihu.com/question/605172547)<br />
-8. [为什么王语嫣会认为段誉会是天下第一？](https://www.zhihu.com/question/603262456)<br />
+7. [为什么王语嫣会认为段誉会是天下第一？](https://www.zhihu.com/question/603262456)<br />
+8. [离岸人民币兑美元跌破 7.14，触及 2023 年新低，哪些信息值得关注？](https://www.zhihu.com/question/605172547)<br />
 9. [长沙夜市现爆炒鹅卵石 16 元一份，对此你有何看法？](https://www.zhihu.com/question/604881315)<br />
 
 > 百度  
