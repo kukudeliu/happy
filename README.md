@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 13:14:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 13:15:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [中国石油大学回应](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%9F%B3%E6%B2%B9%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%23&t=31&band_rank=2&Refer=top)<br />
 3. [这份高考祝福穿越百年](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BB%BD%E9%AB%98%E8%80%83%E7%A5%9D%E7%A6%8F%E7%A9%BF%E8%B6%8A%E7%99%BE%E5%B9%B4%23&t=31&band_rank=3&Refer=top)<br />
 4. [庆余年2](https://s.weibo.com/weibo?q=%23%E5%BA%86%E4%BD%99%E5%B9%B42%23&t=31&band_rank=4&Refer=top)<br />
-5. [文综乙卷 写不完](https://s.weibo.com/weibo?q=%E6%96%87%E7%BB%BC%E4%B9%99%E5%8D%B7%20%E5%86%99%E4%B8%8D%E5%AE%8C&t=31&band_rank=5&Refer=top)<br />
-6. [复旦研究生嫖娼被开除起诉学校被驳](https://s.weibo.com/weibo?q=%23%E5%A4%8D%E6%97%A6%E7%A0%94%E7%A9%B6%E7%94%9F%E5%AB%96%E5%A8%BC%E8%A2%AB%E5%BC%80%E9%99%A4%E8%B5%B7%E8%AF%89%E5%AD%A6%E6%A0%A1%E8%A2%AB%E9%A9%B3%23&t=31&band_rank=6&Refer=top)<br />
+5. [复旦研究生嫖娼被开除起诉学校被驳](https://s.weibo.com/weibo?q=%23%E5%A4%8D%E6%97%A6%E7%A0%94%E7%A9%B6%E7%94%9F%E5%AB%96%E5%A8%BC%E8%A2%AB%E5%BC%80%E9%99%A4%E8%B5%B7%E8%AF%89%E5%AD%A6%E6%A0%A1%E8%A2%AB%E9%A9%B3%23&t=31&band_rank=5&Refer=top)<br />
+6. [文综乙卷 写不完](https://s.weibo.com/weibo?q=%E6%96%87%E7%BB%BC%E4%B9%99%E5%8D%B7%20%E5%86%99%E4%B8%8D%E5%AE%8C&t=31&band_rank=6&Refer=top)<br />
 7. [高考历史](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E5%8E%86%E5%8F%B2&t=31&band_rank=7&Refer=top)<br />
 8. [鼠头鸭脖食堂意见反馈群曝光](https://s.weibo.com/weibo?q=%23%E9%BC%A0%E5%A4%B4%E9%B8%AD%E8%84%96%E9%A3%9F%E5%A0%82%E6%84%8F%E8%A7%81%E5%8F%8D%E9%A6%88%E7%BE%A4%E6%9B%9D%E5%85%89%23&t=31&band_rank=8&Refer=top)<br />
 9. [高考物理](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E7%89%A9%E7%90%86&t=31&band_rank=9&Refer=top)<br />
