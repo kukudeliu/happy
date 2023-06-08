@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 07:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 07:44:01</h4></div>
 
 > 微博  
 
@@ -33,7 +33,7 @@
 5. [957确认Uzi复出加入EDG](https://www.baidu.com/s?wd=957%E7%A1%AE%E8%AE%A4Uzi%E5%A4%8D%E5%87%BA%E5%8A%A0%E5%85%A5EDG&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [广东空调卖爆了](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E7%A9%BA%E8%B0%83%E5%8D%96%E7%88%86%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [学生打架老师要求用英语说明过程](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E6%89%93%E6%9E%B6%E8%80%81%E5%B8%88%E8%A6%81%E6%B1%82%E7%94%A8%E8%8B%B1%E8%AF%AD%E8%AF%B4%E6%98%8E%E8%BF%87%E7%A8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [官方要求广东电信查明网络中断原因](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%A6%81%E6%B1%82%E5%B9%BF%E4%B8%9C%E7%94%B5%E4%BF%A1%E6%9F%A5%E6%98%8E%E7%BD%91%E7%BB%9C%E4%B8%AD%E6%96%AD%E5%8E%9F%E5%9B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [高考考场外秒变小型食堂](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E8%80%83%E5%9C%BA%E5%A4%96%E7%A7%92%E5%8F%98%E5%B0%8F%E5%9E%8B%E9%A3%9F%E5%A0%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [天津局部地面沉降 官方:属地质灾害](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E5%B1%80%E9%83%A8%E5%9C%B0%E9%9D%A2%E6%B2%89%E9%99%8D+%E5%AE%98%E6%96%B9%3A%E5%B1%9E%E5%9C%B0%E8%B4%A8%E7%81%BE%E5%AE%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [957确认Uzi复出加入EDG](https://www.baidu.com/s?wd=957%E7%A1%AE%E8%AE%A4Uzi%E5%A4%8D%E5%87%BA%E5%8A%A0%E5%85%A5EDG&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [广东空调卖爆了](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E7%A9%BA%E8%B0%83%E5%8D%96%E7%88%86%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [学生打架老师要求用英语说明过程](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E6%89%93%E6%9E%B6%E8%80%81%E5%B8%88%E8%A6%81%E6%B1%82%E7%94%A8%E8%8B%B1%E8%AF%AD%E8%AF%B4%E6%98%8E%E8%BF%87%E7%A8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [官方要求广东电信查明网络中断原因](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%A6%81%E6%B1%82%E5%B9%BF%E4%B8%9C%E7%94%B5%E4%BF%A1%E6%9F%A5%E6%98%8E%E7%BD%91%E7%BB%9C%E4%B8%AD%E6%96%AD%E5%8E%9F%E5%9B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [高考考场外秒变小型食堂](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E8%80%83%E5%9C%BA%E5%A4%96%E7%A7%92%E5%8F%98%E5%B0%8F%E5%9E%8B%E9%A3%9F%E5%A0%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [天津局部地面沉降 官方:属地质灾害](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E5%B1%80%E9%83%A8%E5%9C%B0%E9%9D%A2%E6%B2%89%E9%99%8D+%E5%AE%98%E6%96%B9%3A%E5%B1%9E%E5%9C%B0%E8%B4%A8%E7%81%BE%E5%AE%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
