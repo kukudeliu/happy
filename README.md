@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 20:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 20:08:01</h4></div>
 
 > 微博  
 
@@ -30,11 +30,11 @@
 2. [第一生育大省也开始催生了](https://www.baidu.com/s?wd=%E7%AC%AC%E4%B8%80%E7%94%9F%E8%82%B2%E5%A4%A7%E7%9C%81%E4%B9%9F%E5%BC%80%E5%A7%8B%E5%82%AC%E7%94%9F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [鼠头鸭脖涉事高校学生称吃出大青虫](https://www.baidu.com/s?wd=%E9%BC%A0%E5%A4%B4%E9%B8%AD%E8%84%96%E6%B6%89%E4%BA%8B%E9%AB%98%E6%A0%A1%E5%AD%A6%E7%94%9F%E7%A7%B0%E5%90%83%E5%87%BA%E5%A4%A7%E9%9D%92%E8%99%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全国“三夏”麦收进度过半](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E2%80%9C%E4%B8%89%E5%A4%8F%E2%80%9D%E9%BA%A6%E6%94%B6%E8%BF%9B%E5%BA%A6%E8%BF%87%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [多地高考落下帷幕 直击考生出场瞬间](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E9%AB%98%E8%80%83%E8%90%BD%E4%B8%8B%E5%B8%B7%E5%B9%95+%E7%9B%B4%E5%87%BB%E8%80%83%E7%94%9F%E5%87%BA%E5%9C%BA%E7%9E%AC%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [江西通报考生迟到37分钟仍进入考场](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E9%80%9A%E6%8A%A5%E8%80%83%E7%94%9F%E8%BF%9F%E5%88%B037%E5%88%86%E9%92%9F%E4%BB%8D%E8%BF%9B%E5%85%A5%E8%80%83%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [江苏母亲致俩幼女饿死 被判无期](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E6%AF%8D%E4%BA%B2%E8%87%B4%E4%BF%A9%E5%B9%BC%E5%A5%B3%E9%A5%BF%E6%AD%BB+%E8%A2%AB%E5%88%A4%E6%97%A0%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [“街头牵手门”警示了什么？](https://www.baidu.com/s?wd=%E2%80%9C%E8%A1%97%E5%A4%B4%E7%89%B5%E6%89%8B%E9%97%A8%E2%80%9D%E8%AD%A6%E7%A4%BA%E4%BA%86%E4%BB%80%E4%B9%88%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [老师身穿“稳”上衣为考生加油](https://www.baidu.com/s?wd=%E8%80%81%E5%B8%88%E8%BA%AB%E7%A9%BF%E2%80%9C%E7%A8%B3%E2%80%9D%E4%B8%8A%E8%A1%A3%E4%B8%BA%E8%80%83%E7%94%9F%E5%8A%A0%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [每个考场都有自己的显眼包](https://www.baidu.com/s?wd=%E6%AF%8F%E4%B8%AA%E8%80%83%E5%9C%BA%E9%83%BD%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84%E6%98%BE%E7%9C%BC%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [多地高考落下帷幕 直击考生出场瞬间](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E9%AB%98%E8%80%83%E8%90%BD%E4%B8%8B%E5%B8%B7%E5%B9%95+%E7%9B%B4%E5%87%BB%E8%80%83%E7%94%9F%E5%87%BA%E5%9C%BA%E7%9E%AC%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -42,8 +42,8 @@
 2. [第一生育大省也开始催生了](https://www.baidu.com/s?wd=%E7%AC%AC%E4%B8%80%E7%94%9F%E8%82%B2%E5%A4%A7%E7%9C%81%E4%B9%9F%E5%BC%80%E5%A7%8B%E5%82%AC%E7%94%9F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [鼠头鸭脖涉事高校学生称吃出大青虫](https://www.baidu.com/s?wd=%E9%BC%A0%E5%A4%B4%E9%B8%AD%E8%84%96%E6%B6%89%E4%BA%8B%E9%AB%98%E6%A0%A1%E5%AD%A6%E7%94%9F%E7%A7%B0%E5%90%83%E5%87%BA%E5%A4%A7%E9%9D%92%E8%99%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全国“三夏”麦收进度过半](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E2%80%9C%E4%B8%89%E5%A4%8F%E2%80%9D%E9%BA%A6%E6%94%B6%E8%BF%9B%E5%BA%A6%E8%BF%87%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [多地高考落下帷幕 直击考生出场瞬间](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E9%AB%98%E8%80%83%E8%90%BD%E4%B8%8B%E5%B8%B7%E5%B9%95+%E7%9B%B4%E5%87%BB%E8%80%83%E7%94%9F%E5%87%BA%E5%9C%BA%E7%9E%AC%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [江西通报考生迟到37分钟仍进入考场](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E9%80%9A%E6%8A%A5%E8%80%83%E7%94%9F%E8%BF%9F%E5%88%B037%E5%88%86%E9%92%9F%E4%BB%8D%E8%BF%9B%E5%85%A5%E8%80%83%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [江苏母亲致俩幼女饿死 被判无期](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E6%AF%8D%E4%BA%B2%E8%87%B4%E4%BF%A9%E5%B9%BC%E5%A5%B3%E9%A5%BF%E6%AD%BB+%E8%A2%AB%E5%88%A4%E6%97%A0%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [“街头牵手门”警示了什么？](https://www.baidu.com/s?wd=%E2%80%9C%E8%A1%97%E5%A4%B4%E7%89%B5%E6%89%8B%E9%97%A8%E2%80%9D%E8%AD%A6%E7%A4%BA%E4%BA%86%E4%BB%80%E4%B9%88%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [老师身穿“稳”上衣为考生加油](https://www.baidu.com/s?wd=%E8%80%81%E5%B8%88%E8%BA%AB%E7%A9%BF%E2%80%9C%E7%A8%B3%E2%80%9D%E4%B8%8A%E8%A1%A3%E4%B8%BA%E8%80%83%E7%94%9F%E5%8A%A0%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [每个考场都有自己的显眼包](https://www.baidu.com/s?wd=%E6%AF%8F%E4%B8%AA%E8%80%83%E5%9C%BA%E9%83%BD%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84%E6%98%BE%E7%9C%BC%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [多地高考落下帷幕 直击考生出场瞬间](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E9%AB%98%E8%80%83%E8%90%BD%E4%B8%8B%E5%B8%B7%E5%B9%95+%E7%9B%B4%E5%87%BB%E8%80%83%E7%94%9F%E5%87%BA%E5%9C%BA%E7%9E%AC%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
