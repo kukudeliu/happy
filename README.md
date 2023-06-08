@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 21:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 21:01:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [成都太古里明确禁止未经允许街拍](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%A4%AA%E5%8F%A4%E9%87%8C%E6%98%8E%E7%A1%AE%E7%A6%81%E6%AD%A2%E6%9C%AA%E7%BB%8F%E5%85%81%E8%AE%B8%E8%A1%97%E6%8B%8D%23&t=31&band_rank=6&Refer=top)<br />
 7. [金毛误入考场被民警请出](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%AF%9B%E8%AF%AF%E5%85%A5%E8%80%83%E5%9C%BA%E8%A2%AB%E6%B0%91%E8%AD%A6%E8%AF%B7%E5%87%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [高考英语](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E8%8B%B1%E8%AF%AD&t=31&band_rank=8&Refer=top)<br />
-9. [上海英语 我是吴磊](https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E8%8B%B1%E8%AF%AD%20%E6%88%91%E6%98%AF%E5%90%B4%E7%A3%8A&t=31&band_rank=9&Refer=top)<br />
+9. [江西通报考生迟到37分钟仍能进考场](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E9%80%9A%E6%8A%A5%E8%80%83%E7%94%9F%E8%BF%9F%E5%88%B037%E5%88%86%E9%92%9F%E4%BB%8D%E8%83%BD%E8%BF%9B%E8%80%83%E5%9C%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
