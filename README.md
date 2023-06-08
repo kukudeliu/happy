@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 08:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 08:59:01</h4></div>
 
 > 微博  
 
@@ -33,7 +33,7 @@
 5. [巴厘岛命案男方聊天记录:他们想害我](https://www.baidu.com/s?wd=%E5%B7%B4%E5%8E%98%E5%B2%9B%E5%91%BD%E6%A1%88%E7%94%B7%E6%96%B9%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%3A%E4%BB%96%E4%BB%AC%E6%83%B3%E5%AE%B3%E6%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [高考钉子户梁实愁眉苦脸出考场](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E9%92%89%E5%AD%90%E6%88%B7%E6%A2%81%E5%AE%9E%E6%84%81%E7%9C%89%E8%8B%A6%E8%84%B8%E5%87%BA%E8%80%83%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [国企领导与女同事牵手逛街 被免职](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BC%81%E9%A2%86%E5%AF%BC%E4%B8%8E%E5%A5%B3%E5%90%8C%E4%BA%8B%E7%89%B5%E6%89%8B%E9%80%9B%E8%A1%97+%E8%A2%AB%E5%85%8D%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [拍领导牵手的摄影师立功还是担责？](https://www.baidu.com/s?wd=%E6%8B%8D%E9%A2%86%E5%AF%BC%E7%89%B5%E6%89%8B%E7%9A%84%E6%91%84%E5%BD%B1%E5%B8%88%E7%AB%8B%E5%8A%9F%E8%BF%98%E6%98%AF%E6%8B%85%E8%B4%A3%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [定期存款利率告别“3时代”](https://www.baidu.com/s?wd=%E5%AE%9A%E6%9C%9F%E5%AD%98%E6%AC%BE%E5%88%A9%E7%8E%87%E5%91%8A%E5%88%AB%E2%80%9C3%E6%97%B6%E4%BB%A3%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [梅西加盟迈阿密国际 老板是贝克汉姆](https://www.baidu.com/s?wd=%E6%A2%85%E8%A5%BF%E5%8A%A0%E7%9B%9F%E8%BF%88%E9%98%BF%E5%AF%86%E5%9B%BD%E9%99%85+%E8%80%81%E6%9D%BF%E6%98%AF%E8%B4%9D%E5%85%8B%E6%B1%89%E5%A7%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [巴厘岛命案男方聊天记录:他们想害我](https://www.baidu.com/s?wd=%E5%B7%B4%E5%8E%98%E5%B2%9B%E5%91%BD%E6%A1%88%E7%94%B7%E6%96%B9%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%3A%E4%BB%96%E4%BB%AC%E6%83%B3%E5%AE%B3%E6%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [高考钉子户梁实愁眉苦脸出考场](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E9%92%89%E5%AD%90%E6%88%B7%E6%A2%81%E5%AE%9E%E6%84%81%E7%9C%89%E8%8B%A6%E8%84%B8%E5%87%BA%E8%80%83%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [国企领导与女同事牵手逛街 被免职](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BC%81%E9%A2%86%E5%AF%BC%E4%B8%8E%E5%A5%B3%E5%90%8C%E4%BA%8B%E7%89%B5%E6%89%8B%E9%80%9B%E8%A1%97+%E8%A2%AB%E5%85%8D%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [拍领导牵手的摄影师立功还是担责？](https://www.baidu.com/s?wd=%E6%8B%8D%E9%A2%86%E5%AF%BC%E7%89%B5%E6%89%8B%E7%9A%84%E6%91%84%E5%BD%B1%E5%B8%88%E7%AB%8B%E5%8A%9F%E8%BF%98%E6%98%AF%E6%8B%85%E8%B4%A3%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [定期存款利率告别“3时代”](https://www.baidu.com/s?wd=%E5%AE%9A%E6%9C%9F%E5%AD%98%E6%AC%BE%E5%88%A9%E7%8E%87%E5%91%8A%E5%88%AB%E2%80%9C3%E6%97%B6%E4%BB%A3%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [梅西加盟迈阿密国际 老板是贝克汉姆](https://www.baidu.com/s?wd=%E6%A2%85%E8%A5%BF%E5%8A%A0%E7%9B%9F%E8%BF%88%E9%98%BF%E5%AF%86%E5%9B%BD%E9%99%85+%E8%80%81%E6%9D%BF%E6%98%AF%E8%B4%9D%E5%85%8B%E6%B1%89%E5%A7%86&sa=fyb_news&rsv_dl=fyb_news)<br />
