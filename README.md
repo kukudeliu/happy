@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 07:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 07:42:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [肝脏移植前后肤色对比](https://s.weibo.com/weibo?q=%E8%82%9D%E8%84%8F%E7%A7%BB%E6%A4%8D%E5%89%8D%E5%90%8E%E8%82%A4%E8%89%B2%E5%AF%B9%E6%AF%94&t=31&band_rank=6&Refer=top)<br />
 7. [高考结束张桂梅又躲进空教室](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E5%BC%A0%E6%A1%82%E6%A2%85%E5%8F%88%E8%BA%B2%E8%BF%9B%E7%A9%BA%E6%95%99%E5%AE%A4%23&t=31&band_rank=7&Refer=top)<br />
 8. [Amber单杀Uzi](https://s.weibo.com/weibo?q=%23Amber%E5%8D%95%E6%9D%80Uzi%23&t=31&band_rank=8&Refer=top)<br />
-9. [杨紫赵露思撞衫](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%92%9E%E8%A1%AB%23&t=31&band_rank=9&Refer=top)<br />
+9. [阿布](https://s.weibo.com/weibo?q=%E9%98%BF%E5%B8%83&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -33,7 +33,7 @@
 5. [957确认Uzi复出加入EDG](https://www.baidu.com/s?wd=957%E7%A1%AE%E8%AE%A4Uzi%E5%A4%8D%E5%87%BA%E5%8A%A0%E5%85%A5EDG&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [广东空调卖爆了](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E7%A9%BA%E8%B0%83%E5%8D%96%E7%88%86%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [学生打架老师要求用英语说明过程](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E6%89%93%E6%9E%B6%E8%80%81%E5%B8%88%E8%A6%81%E6%B1%82%E7%94%A8%E8%8B%B1%E8%AF%AD%E8%AF%B4%E6%98%8E%E8%BF%87%E7%A8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [Amber单杀Uzi](https://www.baidu.com/s?wd=Amber%E5%8D%95%E6%9D%80Uzi&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [官方要求广东电信查明网络中断原因](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%A6%81%E6%B1%82%E5%B9%BF%E4%B8%9C%E7%94%B5%E4%BF%A1%E6%9F%A5%E6%98%8E%E7%BD%91%E7%BB%9C%E4%B8%AD%E6%96%AD%E5%8E%9F%E5%9B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [天津局部地面沉降 官方:属地质灾害](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E5%B1%80%E9%83%A8%E5%9C%B0%E9%9D%A2%E6%B2%89%E9%99%8D+%E5%AE%98%E6%96%B9%3A%E5%B1%9E%E5%9C%B0%E8%B4%A8%E7%81%BE%E5%AE%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [957确认Uzi复出加入EDG](https://www.baidu.com/s?wd=957%E7%A1%AE%E8%AE%A4Uzi%E5%A4%8D%E5%87%BA%E5%8A%A0%E5%85%A5EDG&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [广东空调卖爆了](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E7%A9%BA%E8%B0%83%E5%8D%96%E7%88%86%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [学生打架老师要求用英语说明过程](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E6%89%93%E6%9E%B6%E8%80%81%E5%B8%88%E8%A6%81%E6%B1%82%E7%94%A8%E8%8B%B1%E8%AF%AD%E8%AF%B4%E6%98%8E%E8%BF%87%E7%A8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [Amber单杀Uzi](https://www.baidu.com/s?wd=Amber%E5%8D%95%E6%9D%80Uzi&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [官方要求广东电信查明网络中断原因](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%A6%81%E6%B1%82%E5%B9%BF%E4%B8%9C%E7%94%B5%E4%BF%A1%E6%9F%A5%E6%98%8E%E7%BD%91%E7%BB%9C%E4%B8%AD%E6%96%AD%E5%8E%9F%E5%9B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [天津局部地面沉降 官方:属地质灾害](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E5%B1%80%E9%83%A8%E5%9C%B0%E9%9D%A2%E6%B2%89%E9%99%8D+%E5%AE%98%E6%96%B9%3A%E5%B1%9E%E5%9C%B0%E8%B4%A8%E7%81%BE%E5%AE%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
