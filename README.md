@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 23:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 23:33:01</h4></div>
 
 > 微博  
 
-1. [Uzi EDG](https://s.weibo.com/weibo?q=Uzi%20EDG&t=31&band_rank=1&Refer=top)<br />
-2. [Amber单杀Uzi](https://s.weibo.com/weibo?q=%23Amber%E5%8D%95%E6%9D%80Uzi%23&t=31&band_rank=2&Refer=top)<br />
+1. [Amber单杀Uzi](https://s.weibo.com/weibo?q=%23Amber%E5%8D%95%E6%9D%80Uzi%23&t=31&band_rank=1&Refer=top)<br />
+2. [Uzi EDG](https://s.weibo.com/weibo?q=Uzi%20EDG&t=31&band_rank=2&Refer=top)<br />
 3. [高考第二天](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E7%AC%AC%E4%BA%8C%E5%A4%A9%23&t=31&band_rank=3&Refer=top)<br />
 4. [杨紫赵露思撞衫](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%92%9E%E8%A1%AB%23&t=31&band_rank=4&Refer=top)<br />
 5. [Lisa留刘海的原因](https://s.weibo.com/weibo?q=%23Lisa%E7%95%99%E5%88%98%E6%B5%B7%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=5&Refer=top)<br />
