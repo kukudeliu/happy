@@ -1,13 +1,13 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 10:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 10:54:01</h4></div>
 
 > 微博  
 
-1. [复旦研究生嫖娼被开除起诉学校被驳](https://s.weibo.com/weibo?q=%23%E5%A4%8D%E6%97%A6%E7%A0%94%E7%A9%B6%E7%94%9F%E5%AB%96%E5%A8%BC%E8%A2%AB%E5%BC%80%E9%99%A4%E8%B5%B7%E8%AF%89%E5%AD%A6%E6%A0%A1%E8%A2%AB%E9%A9%B3%23&t=31&band_rank=1&Refer=top)<br />
-2. [高考物理](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E7%89%A9%E7%90%86&t=31&band_rank=2&Refer=top)<br />
+1. [高考物理](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E7%89%A9%E7%90%86&t=31&band_rank=1&Refer=top)<br />
+2. [复旦研究生嫖娼被开除起诉学校被驳](https://s.weibo.com/weibo?q=%23%E5%A4%8D%E6%97%A6%E7%A0%94%E7%A9%B6%E7%94%9F%E5%AB%96%E5%A8%BC%E8%A2%AB%E5%BC%80%E9%99%A4%E8%B5%B7%E8%AF%89%E5%AD%A6%E6%A0%A1%E8%A2%AB%E9%A9%B3%23&t=31&band_rank=2&Refer=top)<br />
 3. [我国成功发射一箭26星](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E4%B8%80%E7%AE%AD26%E6%98%9F%23&t=31&band_rank=3&Refer=top)<br />
-4. [巴厘岛命案](https://s.weibo.com/weibo?q=%E5%B7%B4%E5%8E%98%E5%B2%9B%E5%91%BD%E6%A1%88&t=31&band_rank=4&Refer=top)<br />
-5. [高考历史](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E5%8E%86%E5%8F%B2&t=31&band_rank=5&Refer=top)<br />
-6. [中石油胡继勇被免职](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%9F%B3%E6%B2%B9%E8%83%A1%E7%BB%A7%E5%8B%87%E8%A2%AB%E5%85%8D%E8%81%8C%23&t=31&band_rank=6&Refer=top)<br />
+4. [高考历史](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E5%8E%86%E5%8F%B2&t=31&band_rank=4&Refer=top)<br />
+5. [巴厘岛命案](https://s.weibo.com/weibo?q=%E5%B7%B4%E5%8E%98%E5%B2%9B%E5%91%BD%E6%A1%88&t=31&band_rank=5&Refer=top)<br />
+6. [牵手胡某勇女子同款裙子销量激增](https://s.weibo.com/weibo?q=%23%E7%89%B5%E6%89%8B%E8%83%A1%E6%9F%90%E5%8B%87%E5%A5%B3%E5%AD%90%E5%90%8C%E6%AC%BE%E8%A3%99%E5%AD%90%E9%94%80%E9%87%8F%E6%BF%80%E5%A2%9E%23&t=31&band_rank=6&Refer=top)<br />
 7. [高考](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83&t=31&band_rank=7&Refer=top)<br />
 8. [陈晓更新小说](https://s.weibo.com/weibo?q=%E9%99%88%E6%99%93%E6%9B%B4%E6%96%B0%E5%B0%8F%E8%AF%B4&t=31&band_rank=8&Refer=top)<br />
 9. [演女丑出圈是一种什么体验](https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%A5%B3%E4%B8%91%E5%87%BA%E5%9C%88%E6%98%AF%E4%B8%80%E7%A7%8D%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23&t=31&band_rank=9&Refer=top)<br />
@@ -22,7 +22,7 @@
 6. [2023 高考数学题难度如何？哪道题让人印象深刻？](https://www.zhihu.com/question/605281198)<br />
 7. [如何评价林志颖成为小鹏 G6 品牌智友？](https://www.zhihu.com/question/605038425)<br />
 8. [海关总署消息「今年前 5 个月我国进出口总值 16.77 万亿元，同比增长 4.7%」，如何解读？](https://www.zhihu.com/question/605246256)<br />
-9. [今年立法工作计划公布，专家称「今年不会推进个税改革及房地产税改革」，税收改革一般受哪些因素影响？](https://www.zhihu.com/question/605361770)<br />
+9. [《暗黑破坏神 4》有哪些实用的开荒建议？](https://www.zhihu.com/question/604407231)<br />
 
 > 百度  
 
