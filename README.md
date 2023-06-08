@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 15:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 15:18:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [董某某被停职](https://s.weibo.com/weibo?q=%23%E8%91%A3%E6%9F%90%E6%9F%90%E8%A2%AB%E5%81%9C%E8%81%8C%23&t=31&band_rank=6&Refer=top)<br />
 7. [中国石油大学回应](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%9F%B3%E6%B2%B9%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%23&t=31&band_rank=7&Refer=top)<br />
 8. [河南考生吐槽统一配备文具不好用](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E8%80%83%E7%94%9F%E5%90%90%E6%A7%BD%E7%BB%9F%E4%B8%80%E9%85%8D%E5%A4%87%E6%96%87%E5%85%B7%E4%B8%8D%E5%A5%BD%E7%94%A8%23&t=31&band_rank=8&Refer=top)<br />
-9. [庆余年2](https://s.weibo.com/weibo?q=%23%E5%BA%86%E4%BD%99%E5%B9%B42%23&t=31&band_rank=9&Refer=top)<br />
+9. [中国电信](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%94%B5%E4%BF%A1&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -18,8 +18,8 @@
 2. [媒体评「多家餐馆因在凉皮内放黄瓜丝被罚」，称「普法能否做在前面？」，如何看待此事？食品安全如何保障？](https://www.zhihu.com/question/605336026)<br />
 3. [夏尔巴人如此擅长登山，为什么攀登珠穆朗玛峰的各种纪录，没有夏尔巴人？](https://www.zhihu.com/question/509831714)<br />
 4. [美国 4 月贸易逆差环比增长 23%，增幅为 8 年来最大，透露了哪些信息？](https://www.zhihu.com/question/605428364)<br />
-5. [曝太阳将裁掉克里斯 - 保罗，保罗下一站会去哪？](https://www.zhihu.com/question/605440088)<br />
-6. [调查称超 6 成女性在求职中被问婚育状况，有单位隐晦暗示女性入职后工作晋升困难，如何看待此现象？](https://www.zhihu.com/question/604820170)<br />
+5. [调查称超 6 成女性在求职中被问婚育状况，有单位隐晦暗示女性入职后工作晋升困难，如何看待此现象？](https://www.zhihu.com/question/604820170)<br />
+6. [曝太阳将裁掉克里斯 - 保罗，保罗下一站会去哪？](https://www.zhihu.com/question/605440088)<br />
 7. [五大国有银行 6 月 8 日起调整存款挂牌利率，3 年期利率下调 15 个基点，利率还会继续下降吗？](https://www.zhihu.com/question/605424218)<br />
 8. [《暗黑破坏神 4》的主线剧情是怎样的？](https://www.zhihu.com/question/604407190)<br />
 9. [孩子「社恐」该怎么办？应该如何锻炼孩子的社交能力？](https://www.zhihu.com/question/604506882)<br />
