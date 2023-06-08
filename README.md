@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 14:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 14:48:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [中国石油大学回应](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%9F%B3%E6%B2%B9%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%23&t=31&band_rank=6&Refer=top)<br />
 7. [长得还行迪丽热巴](https://s.weibo.com/weibo?q=%23%E9%95%BF%E5%BE%97%E8%BF%98%E8%A1%8C%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%23&t=31&band_rank=7&Refer=top)<br />
 8. [庆余年2](https://s.weibo.com/weibo?q=%23%E5%BA%86%E4%BD%99%E5%B9%B42%23&t=31&band_rank=8&Refer=top)<br />
-9. [高考](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83&t=31&band_rank=9&Refer=top)<br />
+9. [柯以敏直播大怒](https://s.weibo.com/weibo?q=%23%E6%9F%AF%E4%BB%A5%E6%95%8F%E7%9B%B4%E6%92%AD%E5%A4%A7%E6%80%92%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
