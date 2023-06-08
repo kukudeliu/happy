@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 12:07:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 12:08:01</h4></div>
 
 > 微博  
 
 1. [中国石油大学回应](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%9F%B3%E6%B2%B9%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%23&t=31&band_rank=1&Refer=top)<br />
 2. [董某某被停职](https://s.weibo.com/weibo?q=%23%E8%91%A3%E6%9F%90%E6%9F%90%E8%A2%AB%E5%81%9C%E8%81%8C%23&t=31&band_rank=2&Refer=top)<br />
-3. [高考物理](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E7%89%A9%E7%90%86&t=31&band_rank=3&Refer=top)<br />
-4. [高考历史](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E5%8E%86%E5%8F%B2&t=31&band_rank=4&Refer=top)<br />
-5. [高考](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83&t=31&band_rank=5&Refer=top)<br />
-6. [复旦研究生嫖娼被开除起诉学校被驳](https://s.weibo.com/weibo?q=%23%E5%A4%8D%E6%97%A6%E7%A0%94%E7%A9%B6%E7%94%9F%E5%AB%96%E5%A8%BC%E8%A2%AB%E5%BC%80%E9%99%A4%E8%B5%B7%E8%AF%89%E5%AD%A6%E6%A0%A1%E8%A2%AB%E9%A9%B3%23&t=31&band_rank=6&Refer=top)<br />
-7. [高考理综](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E7%90%86%E7%BB%BC&t=31&band_rank=7&Refer=top)<br />
-8. [高考文综](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E6%96%87%E7%BB%BC&t=31&band_rank=8&Refer=top)<br />
-9. [陈晓更新小说](https://s.weibo.com/weibo?q=%E9%99%88%E6%99%93%E6%9B%B4%E6%96%B0%E5%B0%8F%E8%AF%B4&t=31&band_rank=9&Refer=top)<br />
+3. [这份高考祝福穿越百年](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BB%BD%E9%AB%98%E8%80%83%E7%A5%9D%E7%A6%8F%E7%A9%BF%E8%B6%8A%E7%99%BE%E5%B9%B4%23&t=31&band_rank=3&Refer=top)<br />
+4. [高考物理](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E7%89%A9%E7%90%86&t=31&band_rank=4&Refer=top)<br />
+5. [高考历史](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E5%8E%86%E5%8F%B2&t=31&band_rank=5&Refer=top)<br />
+6. [高考](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83&t=31&band_rank=6&Refer=top)<br />
+7. [复旦研究生嫖娼被开除起诉学校被驳](https://s.weibo.com/weibo?q=%23%E5%A4%8D%E6%97%A6%E7%A0%94%E7%A9%B6%E7%94%9F%E5%AB%96%E5%A8%BC%E8%A2%AB%E5%BC%80%E9%99%A4%E8%B5%B7%E8%AF%89%E5%AD%A6%E6%A0%A1%E8%A2%AB%E9%A9%B3%23&t=31&band_rank=7&Refer=top)<br />
+8. [高考理综](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E7%90%86%E7%BB%BC&t=31&band_rank=8&Refer=top)<br />
+9. [高考文综](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E6%96%87%E7%BB%BC&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [如何评价 2023 年高考数学全国甲卷？](https://www.zhihu.com/question/605308700)<br />
 7. [梅西选择美职联，C 罗征战沙特联赛，欧洲足坛「梅罗时代」彻底画上句号，如何评价这样的足坛格局？](https://www.zhihu.com/question/605423210)<br />
 8. [在孟加拉国生活是怎么样的体验？](https://www.zhihu.com/question/27391527)<br />
-9. [长沙夜市现爆炒鹅卵石 16 元一份，对此你有何看法？](https://www.zhihu.com/question/604881315)<br />
+9. [为什么那么多人只喜欢苹果手机?](https://www.zhihu.com/question/598594462)<br />
 
 > 百度  
 
