@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 21:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 21:04:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [女子将俩幼女锁房间月余致其饿死](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%B0%86%E4%BF%A9%E5%B9%BC%E5%A5%B3%E9%94%81%E6%88%BF%E9%97%B4%E6%9C%88%E4%BD%99%E8%87%B4%E5%85%B6%E9%A5%BF%E6%AD%BB%23&t=31&band_rank=4&Refer=top)<br />
 5. [易梦玲主动加沈月微信](https://s.weibo.com/weibo?q=%23%E6%98%93%E6%A2%A6%E7%8E%B2%E4%B8%BB%E5%8A%A8%E5%8A%A0%E6%B2%88%E6%9C%88%E5%BE%AE%E4%BF%A1%23&t=31&band_rank=5&Refer=top)<br />
 6. [成都太古里明确禁止未经允许街拍](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%A4%AA%E5%8F%A4%E9%87%8C%E6%98%8E%E7%A1%AE%E7%A6%81%E6%AD%A2%E6%9C%AA%E7%BB%8F%E5%85%81%E8%AE%B8%E8%A1%97%E6%8B%8D%23&t=31&band_rank=6&Refer=top)<br />
-7. [金毛误入考场被民警请出](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%AF%9B%E8%AF%AF%E5%85%A5%E8%80%83%E5%9C%BA%E8%A2%AB%E6%B0%91%E8%AD%A6%E8%AF%B7%E5%87%BA%23&t=31&band_rank=7&Refer=top)<br />
-8. [江西通报考生迟到37分钟仍能进考场](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E9%80%9A%E6%8A%A5%E8%80%83%E7%94%9F%E8%BF%9F%E5%88%B037%E5%88%86%E9%92%9F%E4%BB%8D%E8%83%BD%E8%BF%9B%E8%80%83%E5%9C%BA%23&t=31&band_rank=8&Refer=top)<br />
+7. [江西通报考生迟到37分钟仍能进考场](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E9%80%9A%E6%8A%A5%E8%80%83%E7%94%9F%E8%BF%9F%E5%88%B037%E5%88%86%E9%92%9F%E4%BB%8D%E8%83%BD%E8%BF%9B%E8%80%83%E5%9C%BA%23&t=31&band_rank=7&Refer=top)<br />
+8. [金毛误入考场被民警请出](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%AF%9B%E8%AF%AF%E5%85%A5%E8%80%83%E5%9C%BA%E8%A2%AB%E6%B0%91%E8%AD%A6%E8%AF%B7%E5%87%BA%23&t=31&band_rank=8&Refer=top)<br />
 9. [高考英语](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E8%8B%B1%E8%AF%AD&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -21,8 +21,8 @@
 5. [AI 会带动今年计算机基础学科的报考吗？](https://www.zhihu.com/theater/17316)<br />
 6. [吴磊骑电助力自行车（e-bike）去新疆，相比纯人力自行车这类车有哪些优势？](https://www.zhihu.com/question/604844013)<br />
 7. [迈阿密国际官宣梅西后官号涨粉超 200 万，巴黎宣布梅西离队掉粉 200 万，如何评价梅西的影响力？](https://www.zhihu.com/question/605423631)<br />
-8. [手机被监听是不是比监视更难发现？](https://www.zhihu.com/question/275704975)<br />
-9. [媒体评《狂飙》「不能为了反派人物生动性、丰满性过分给予『人性』加持」，如何看待反派塑造的「善恶边界」？](https://www.zhihu.com/question/605467664)<br />
+8. [媒体评《狂飙》「不能为了反派人物生动性、丰满性过分给予『人性』加持」，如何看待反派塑造的「善恶边界」？](https://www.zhihu.com/question/605467664)<br />
+9. [如何看待 EDG 粉丝在队伍登上大巴车的路上狂喷 leave 选手？](https://www.zhihu.com/question/605448354)<br />
 
 > 百度  
 
@@ -34,7 +34,7 @@
 6. [男生高考四门科目全部第1名出考场](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E9%AB%98%E8%80%83%E5%9B%9B%E9%97%A8%E7%A7%91%E7%9B%AE%E5%85%A8%E9%83%A8%E7%AC%AC1%E5%90%8D%E5%87%BA%E8%80%83%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [天津局部地面沉降 官方:属地质灾害](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E5%B1%80%E9%83%A8%E5%9C%B0%E9%9D%A2%E6%B2%89%E9%99%8D+%E5%AE%98%E6%96%B9%3A%E5%B1%9E%E5%9C%B0%E8%B4%A8%E7%81%BE%E5%AE%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [游客吐槽石老人浴场2元冲水30秒](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E5%90%90%E6%A7%BD%E7%9F%B3%E8%80%81%E4%BA%BA%E6%B5%B4%E5%9C%BA2%E5%85%83%E5%86%B2%E6%B0%B430%E7%A7%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [张颂文曾因AI合成视频失眠](https://www.baidu.com/s?wd=%E5%BC%A0%E9%A2%82%E6%96%87%E6%9B%BE%E5%9B%A0AI%E5%90%88%E6%88%90%E8%A7%86%E9%A2%91%E5%A4%B1%E7%9C%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [考生上吐下泻铁骑送医考前送回](https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%E4%B8%8A%E5%90%90%E4%B8%8B%E6%B3%BB%E9%93%81%E9%AA%91%E9%80%81%E5%8C%BB%E8%80%83%E5%89%8D%E9%80%81%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [男生高考四门科目全部第1名出考场](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E9%AB%98%E8%80%83%E5%9B%9B%E9%97%A8%E7%A7%91%E7%9B%AE%E5%85%A8%E9%83%A8%E7%AC%AC1%E5%90%8D%E5%87%BA%E8%80%83%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [天津局部地面沉降 官方:属地质灾害](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E5%B1%80%E9%83%A8%E5%9C%B0%E9%9D%A2%E6%B2%89%E9%99%8D+%E5%AE%98%E6%96%B9%3A%E5%B1%9E%E5%9C%B0%E8%B4%A8%E7%81%BE%E5%AE%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [游客吐槽石老人浴场2元冲水30秒](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E5%90%90%E6%A7%BD%E7%9F%B3%E8%80%81%E4%BA%BA%E6%B5%B4%E5%9C%BA2%E5%85%83%E5%86%B2%E6%B0%B430%E7%A7%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [张颂文曾因AI合成视频失眠](https://www.baidu.com/s?wd=%E5%BC%A0%E9%A2%82%E6%96%87%E6%9B%BE%E5%9B%A0AI%E5%90%88%E6%88%90%E8%A7%86%E9%A2%91%E5%A4%B1%E7%9C%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [考生上吐下泻铁骑送医考前送回](https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%E4%B8%8A%E5%90%90%E4%B8%8B%E6%B3%BB%E9%93%81%E9%AA%91%E9%80%81%E5%8C%BB%E8%80%83%E5%89%8D%E9%80%81%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
