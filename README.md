@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 13:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 13:06:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [庆余年2](https://s.weibo.com/weibo?q=%23%E5%BA%86%E4%BD%99%E5%B9%B42%23&t=31&band_rank=5&Refer=top)<br />
 6. [复旦研究生嫖娼被开除起诉学校被驳](https://s.weibo.com/weibo?q=%23%E5%A4%8D%E6%97%A6%E7%A0%94%E7%A9%B6%E7%94%9F%E5%AB%96%E5%A8%BC%E8%A2%AB%E5%BC%80%E9%99%A4%E8%B5%B7%E8%AF%89%E5%AD%A6%E6%A0%A1%E8%A2%AB%E9%A9%B3%23&t=31&band_rank=6&Refer=top)<br />
 7. [高考物理](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E7%89%A9%E7%90%86&t=31&band_rank=7&Refer=top)<br />
-8. [高考](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83&t=31&band_rank=8&Refer=top)<br />
-9. [高考历史](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E5%8E%86%E5%8F%B2&t=31&band_rank=9&Refer=top)<br />
+8. [高考历史](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E5%8E%86%E5%8F%B2&t=31&band_rank=8&Refer=top)<br />
+9. [高考](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [夏尔巴人如此擅长登山，为什么攀登珠穆朗玛峰的各种纪录，没有夏尔巴人？](https://www.zhihu.com/question/509831714)<br />
 7. [梅西选择美职联，C 罗征战沙特联赛，欧洲足坛「梅罗时代」彻底画上句号，如何评价这样的足坛格局？](https://www.zhihu.com/question/605423210)<br />
 8. [离岸人民币兑美元跌破 7.14，触及 2023 年新低，哪些信息值得关注？](https://www.zhihu.com/question/605172547)<br />
-9. [「虎博科技」发布自研多模态大模型 TigerBot，该模型都有哪些值得关注的亮点？](https://www.zhihu.com/question/605263984)<br />
+9. [如何看待格力一直是压缩机领域标准制定的主导者？](https://www.zhihu.com/question/605247049)<br />
 
 > 百度  
 
