@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 12:53:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 12:54:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [为什么王语嫣会认为段誉会是天下第一？](https://www.zhihu.com/question/603262456)<br />
 5. [夏尔巴人如此擅长登山，为什么攀登珠穆朗玛峰的各种纪录，没有夏尔巴人？](https://www.zhihu.com/question/509831714)<br />
 6. [为什么那么多人只喜欢苹果手机?](https://www.zhihu.com/question/598594462)<br />
-7. [如何评价 2023 年高考数学全国甲卷？](https://www.zhihu.com/question/605308700)<br />
-8. [梅西选择美职联，C 罗征战沙特联赛，欧洲足坛「梅罗时代」彻底画上句号，如何评价这样的足坛格局？](https://www.zhihu.com/question/605423210)<br />
-9. [在孟加拉国生活是怎么样的体验？](https://www.zhihu.com/question/27391527)<br />
+7. [梅西选择美职联，C 罗征战沙特联赛，欧洲足坛「梅罗时代」彻底画上句号，如何评价这样的足坛格局？](https://www.zhihu.com/question/605423210)<br />
+8. [如何评价 2023 年高考数学全国甲卷？](https://www.zhihu.com/question/605308700)<br />
+9. [离岸人民币兑美元跌破 7.14，触及 2023 年新低，哪些信息值得关注？](https://www.zhihu.com/question/605172547)<br />
 
 > 百度  
 
