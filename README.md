@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 17:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 17:31:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [英国又以安全风险为由，拟要求政府部门拆除中企生产的监控设备，如何评价此事？](https://www.zhihu.com/question/605365721)<br />
 7. []()<br />
 8. [高考当天，你印象最深的是什么？](https://www.zhihu.com/question/605171418)<br />
-9. [技术和学历，哪个更重要？](https://www.zhihu.com/question/598795697)<br />
+9. [有哪些净水器值得推荐，好的净水器要怎么选择？](https://www.zhihu.com/question/600034018)<br />
 
 > 百度  
 
