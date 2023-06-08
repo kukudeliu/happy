@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 15:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 15:52:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [曝太阳将裁掉克里斯 - 保罗，保罗下一站会去哪？](https://www.zhihu.com/question/605440088)<br />
 7. [五大国有银行 6 月 8 日起调整存款挂牌利率，3 年期利率下调 15 个基点，利率还会继续下降吗？](https://www.zhihu.com/question/605424218)<br />
 8. [《暗黑破坏神 4》的主线剧情是怎样的？](https://www.zhihu.com/question/604407190)<br />
-9. [高考后准大一新生，在 618 买笔记本电脑便宜还是等到开学前的暑促？](https://www.zhihu.com/question/605452901)<br />
+9. [为什么我总被说要摆脱「学生思维」，它到底指什么？](https://www.zhihu.com/question/604936279)<br />
 
 > 百度  
 
