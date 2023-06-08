@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 12:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 12:02:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [高考](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83&t=31&band_rank=5&Refer=top)<br />
 6. [复旦研究生嫖娼被开除起诉学校被驳](https://s.weibo.com/weibo?q=%23%E5%A4%8D%E6%97%A6%E7%A0%94%E7%A9%B6%E7%94%9F%E5%AB%96%E5%A8%BC%E8%A2%AB%E5%BC%80%E9%99%A4%E8%B5%B7%E8%AF%89%E5%AD%A6%E6%A0%A1%E8%A2%AB%E9%A9%B3%23&t=31&band_rank=6&Refer=top)<br />
 7. [高考理综](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E7%90%86%E7%BB%BC&t=31&band_rank=7&Refer=top)<br />
-8. [我国成功发射一箭26星](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E4%B8%80%E7%AE%AD26%E6%98%9F%23&t=31&band_rank=8&Refer=top)<br />
-9. [高考文综](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E6%96%87%E7%BB%BC&t=31&band_rank=9&Refer=top)<br />
+8. [高考文综](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E6%96%87%E7%BB%BC&t=31&band_rank=8&Refer=top)<br />
+9. [陈晓更新小说](https://s.weibo.com/weibo?q=%E9%99%88%E6%99%93%E6%9B%B4%E6%96%B0%E5%B0%8F%E8%AF%B4&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
