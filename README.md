@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 12:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 12:39:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [高考物理](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E7%89%A9%E7%90%86&t=31&band_rank=4&Refer=top)<br />
 5. [庆余年2](https://s.weibo.com/weibo?q=%23%E5%BA%86%E4%BD%99%E5%B9%B42%23&t=31&band_rank=5&Refer=top)<br />
 6. [高考](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83&t=31&band_rank=6&Refer=top)<br />
-7. [复旦研究生嫖娼被开除起诉学校被驳](https://s.weibo.com/weibo?q=%23%E5%A4%8D%E6%97%A6%E7%A0%94%E7%A9%B6%E7%94%9F%E5%AB%96%E5%A8%BC%E8%A2%AB%E5%BC%80%E9%99%A4%E8%B5%B7%E8%AF%89%E5%AD%A6%E6%A0%A1%E8%A2%AB%E9%A9%B3%23&t=31&band_rank=7&Refer=top)<br />
-8. [文综乙卷 写不完](https://s.weibo.com/weibo?q=%E6%96%87%E7%BB%BC%E4%B9%99%E5%8D%B7%20%E5%86%99%E4%B8%8D%E5%AE%8C&t=31&band_rank=8&Refer=top)<br />
+7. [文综乙卷 写不完](https://s.weibo.com/weibo?q=%E6%96%87%E7%BB%BC%E4%B9%99%E5%8D%B7%20%E5%86%99%E4%B8%8D%E5%AE%8C&t=31&band_rank=7&Refer=top)<br />
+8. [复旦研究生嫖娼被开除起诉学校被驳](https://s.weibo.com/weibo?q=%23%E5%A4%8D%E6%97%A6%E7%A0%94%E7%A9%B6%E7%94%9F%E5%AB%96%E5%A8%BC%E8%A2%AB%E5%BC%80%E9%99%A4%E8%B5%B7%E8%AF%89%E5%AD%A6%E6%A0%A1%E8%A2%AB%E9%A9%B3%23&t=31&band_rank=8&Refer=top)<br />
 9. [高考历史](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E5%8E%86%E5%8F%B2&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -17,8 +17,8 @@
 1. [梅西宣布加盟迈阿密国际，将穿 10 号球衣，告别欧洲转会美国大联盟，如何评价梅西的选择？](https://www.zhihu.com/question/605363198)<br />
 2. [杭州有楼盘买房最多送两斤黄金，折合 47.28 万返现，当地楼市情况如何？开发商「内卷」会成常态吗？](https://www.zhihu.com/question/605337792)<br />
 3. [2022-23 赛季 NBA 总决赛掘金轻取热火，总比分 2:1，约基奇、穆雷三双，如何评价这场比赛？](https://www.zhihu.com/question/605421218)<br />
-4. [夏尔巴人如此擅长登山，为什么攀登珠穆朗玛峰的各种纪录，没有夏尔巴人？](https://www.zhihu.com/question/509831714)<br />
-5. [为什么王语嫣会认为段誉会是天下第一？](https://www.zhihu.com/question/603262456)<br />
+4. [为什么王语嫣会认为段誉会是天下第一？](https://www.zhihu.com/question/603262456)<br />
+5. [夏尔巴人如此擅长登山，为什么攀登珠穆朗玛峰的各种纪录，没有夏尔巴人？](https://www.zhihu.com/question/509831714)<br />
 6. [如何评价 2023 年高考数学全国甲卷？](https://www.zhihu.com/question/605308700)<br />
 7. [为什么那么多人只喜欢苹果手机?](https://www.zhihu.com/question/598594462)<br />
 8. [梅西选择美职联，C 罗征战沙特联赛，欧洲足坛「梅罗时代」彻底画上句号，如何评价这样的足坛格局？](https://www.zhihu.com/question/605423210)<br />
@@ -34,7 +34,7 @@
 6. [“中国老公”悄然失宠东南亚](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BD%E8%80%81%E5%85%AC%E2%80%9D%E6%82%84%E7%84%B6%E5%A4%B1%E5%AE%A0%E4%B8%9C%E5%8D%97%E4%BA%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [牵手门涉事女子已被停职并接受调查](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E6%B6%89%E4%BA%8B%E5%A5%B3%E5%AD%90%E5%B7%B2%E8%A2%AB%E5%81%9C%E8%81%8C%E5%B9%B6%E6%8E%A5%E5%8F%97%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [高考时没有一个孔子是饿着的](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E6%97%B6%E6%B2%A1%E6%9C%89%E4%B8%80%E4%B8%AA%E5%AD%94%E5%AD%90%E6%98%AF%E9%A5%BF%E7%9D%80%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [到底是鼠是鸭不应该这么难查](https://www.baidu.com/s?wd=%E5%88%B0%E5%BA%95%E6%98%AF%E9%BC%A0%E6%98%AF%E9%B8%AD%E4%B8%8D%E5%BA%94%E8%AF%A5%E8%BF%99%E4%B9%88%E9%9A%BE%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [大妈占科三考场晒麦 多名学员挂科](https://www.baidu.com/s?wd=%E5%A4%A7%E5%A6%88%E5%8D%A0%E7%A7%91%E4%B8%89%E8%80%83%E5%9C%BA%E6%99%92%E9%BA%A6+%E5%A4%9A%E5%90%8D%E5%AD%A6%E5%91%98%E6%8C%82%E7%A7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [“中国老公”悄然失宠东南亚](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BD%E8%80%81%E5%85%AC%E2%80%9D%E6%82%84%E7%84%B6%E5%A4%B1%E5%AE%A0%E4%B8%9C%E5%8D%97%E4%BA%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [牵手门涉事女子已被停职并接受调查](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E6%B6%89%E4%BA%8B%E5%A5%B3%E5%AD%90%E5%B7%B2%E8%A2%AB%E5%81%9C%E8%81%8C%E5%B9%B6%E6%8E%A5%E5%8F%97%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [高考时没有一个孔子是饿着的](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E6%97%B6%E6%B2%A1%E6%9C%89%E4%B8%80%E4%B8%AA%E5%AD%94%E5%AD%90%E6%98%AF%E9%A5%BF%E7%9D%80%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [到底是鼠是鸭不应该这么难查](https://www.baidu.com/s?wd=%E5%88%B0%E5%BA%95%E6%98%AF%E9%BC%A0%E6%98%AF%E9%B8%AD%E4%B8%8D%E5%BA%94%E8%AF%A5%E8%BF%99%E4%B9%88%E9%9A%BE%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [大妈占科三考场晒麦 多名学员挂科](https://www.baidu.com/s?wd=%E5%A4%A7%E5%A6%88%E5%8D%A0%E7%A7%91%E4%B8%89%E8%80%83%E5%9C%BA%E6%99%92%E9%BA%A6+%E5%A4%9A%E5%90%8D%E5%AD%A6%E5%91%98%E6%8C%82%E7%A7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
