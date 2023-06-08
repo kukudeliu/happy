@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 12:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 12:06:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [为什么王语嫣会认为段誉会是天下第一？](https://www.zhihu.com/question/603262456)<br />
 6. [如何评价 2023 年高考数学全国甲卷？](https://www.zhihu.com/question/605308700)<br />
 7. [梅西选择美职联，C 罗征战沙特联赛，欧洲足坛「梅罗时代」彻底画上句号，如何评价这样的足坛格局？](https://www.zhihu.com/question/605423210)<br />
-8. [长沙夜市现爆炒鹅卵石 16 元一份，对此你有何看法？](https://www.zhihu.com/question/604881315)<br />
-9. [在孟加拉国生活是怎么样的体验？](https://www.zhihu.com/question/27391527)<br />
+8. [在孟加拉国生活是怎么样的体验？](https://www.zhihu.com/question/27391527)<br />
+9. [长沙夜市现爆炒鹅卵石 16 元一份，对此你有何看法？](https://www.zhihu.com/question/604881315)<br />
 
 > 百度  
 
