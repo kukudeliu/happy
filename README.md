@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 21:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 21:50:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [957确认Uzi加入EDG](https://s.weibo.com/weibo?q=%23957%E7%A1%AE%E8%AE%A4Uzi%E5%8A%A0%E5%85%A5EDG%23&t=31&band_rank=6&Refer=top)<br />
 7. [成都太古里明确禁止未经允许街拍](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%A4%AA%E5%8F%A4%E9%87%8C%E6%98%8E%E7%A1%AE%E7%A6%81%E6%AD%A2%E6%9C%AA%E7%BB%8F%E5%85%81%E8%AE%B8%E8%A1%97%E6%8B%8D%23&t=31&band_rank=7&Refer=top)<br />
 8. [TFBOYS演唱会流程图](https://s.weibo.com/weibo?q=%23TFBOYS%E6%BC%94%E5%94%B1%E4%BC%9A%E6%B5%81%E7%A8%8B%E5%9B%BE%23&t=31&band_rank=8&Refer=top)<br />
-9. [高考英语](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E8%8B%B1%E8%AF%AD&t=31&band_rank=9&Refer=top)<br />
+9. [Amber单杀Uzi](https://s.weibo.com/weibo?q=%23Amber%E5%8D%95%E6%9D%80Uzi%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
