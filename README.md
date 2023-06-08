@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 17:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 17:14:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [香港女子在公共场所拍裸照被捕](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%A5%B3%E5%AD%90%E5%9C%A8%E5%85%AC%E5%85%B1%E5%9C%BA%E6%89%80%E6%8B%8D%E8%A3%B8%E7%85%A7%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [牵手门涉事女子已被停职并接受调查](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E6%B6%89%E4%BA%8B%E5%A5%B3%E5%AD%90%E5%B7%B2%E8%A2%AB%E5%81%9C%E8%81%8C%E5%B9%B6%E6%8E%A5%E5%8F%97%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [中国电信广东地区崩了？客服回应](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B5%E4%BF%A1%E5%B9%BF%E4%B8%9C%E5%9C%B0%E5%8C%BA%E5%B4%A9%E4%BA%86%EF%BC%9F%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [俄传奇双面间谍在美监狱去世](https://www.baidu.com/s?wd=%E4%BF%84%E4%BC%A0%E5%A5%87%E5%8F%8C%E9%9D%A2%E9%97%B4%E8%B0%8D%E5%9C%A8%E7%BE%8E%E7%9B%91%E7%8B%B1%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [工行人民币活期存款利率降至0.2％](https://www.baidu.com/s?wd=%E5%B7%A5%E8%A1%8C%E4%BA%BA%E6%B0%91%E5%B8%81%E6%B4%BB%E6%9C%9F%E5%AD%98%E6%AC%BE%E5%88%A9%E7%8E%87%E9%99%8D%E8%87%B30.2%EF%BC%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [香港女子在公共场所拍裸照被捕](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%A5%B3%E5%AD%90%E5%9C%A8%E5%85%AC%E5%85%B1%E5%9C%BA%E6%89%80%E6%8B%8D%E8%A3%B8%E7%85%A7%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [牵手门涉事女子已被停职并接受调查](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E6%B6%89%E4%BA%8B%E5%A5%B3%E5%AD%90%E5%B7%B2%E8%A2%AB%E5%81%9C%E8%81%8C%E5%B9%B6%E6%8E%A5%E5%8F%97%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [中国电信广东地区崩了？客服回应](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B5%E4%BF%A1%E5%B9%BF%E4%B8%9C%E5%9C%B0%E5%8C%BA%E5%B4%A9%E4%BA%86%EF%BC%9F%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [俄传奇双面间谍在美监狱去世](https://www.baidu.com/s?wd=%E4%BF%84%E4%BC%A0%E5%A5%87%E5%8F%8C%E9%9D%A2%E9%97%B4%E8%B0%8D%E5%9C%A8%E7%BE%8E%E7%9B%91%E7%8B%B1%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [工行人民币活期存款利率降至0.2％](https://www.baidu.com/s?wd=%E5%B7%A5%E8%A1%8C%E4%BA%BA%E6%B0%91%E5%B8%81%E6%B4%BB%E6%9C%9F%E5%AD%98%E6%AC%BE%E5%88%A9%E7%8E%87%E9%99%8D%E8%87%B30.2%EF%BC%85&sa=fyb_news&rsv_dl=fyb_news)<br />
