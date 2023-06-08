@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 01:07:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 01:08:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [通知他们仨了吗](https://s.weibo.com/weibo?q=%23%E9%80%9A%E7%9F%A5%E4%BB%96%E4%BB%AC%E4%BB%A8%E4%BA%86%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [杨紫赵露思撞衫](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%92%9E%E8%A1%AB%23&t=31&band_rank=7&Refer=top)<br />
 8. [Angelababy张大大有默契但不多](https://s.weibo.com/weibo?q=%23Angelababy%E5%BC%A0%E5%A4%A7%E5%A4%A7%E6%9C%89%E9%BB%98%E5%A5%91%E4%BD%86%E4%B8%8D%E5%A4%9A%23&t=31&band_rank=8&Refer=top)<br />
-9. [Lisa留刘海的原因](https://s.weibo.com/weibo?q=%23Lisa%E7%95%99%E5%88%98%E6%B5%B7%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=9&Refer=top)<br />
+9. [徐云](https://s.weibo.com/weibo?q=%E5%BE%90%E4%BA%91&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
