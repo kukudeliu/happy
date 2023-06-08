@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 07:25:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 07:26:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [高考结束张桂梅又躲进空教室](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E5%BC%A0%E6%A1%82%E6%A2%85%E5%8F%88%E8%BA%B2%E8%BF%9B%E7%A9%BA%E6%95%99%E5%AE%A4%23&t=31&band_rank=6&Refer=top)<br />
 7. [Amber单杀Uzi](https://s.weibo.com/weibo?q=%23Amber%E5%8D%95%E6%9D%80Uzi%23&t=31&band_rank=7&Refer=top)<br />
 8. [杨紫赵露思撞衫](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%92%9E%E8%A1%AB%23&t=31&band_rank=8&Refer=top)<br />
-9. [女生在宿舍发现学姐2年前留信](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E5%9C%A8%E5%AE%BF%E8%88%8D%E5%8F%91%E7%8E%B0%E5%AD%A6%E5%A7%902%E5%B9%B4%E5%89%8D%E7%95%99%E4%BF%A1%23&t=31&band_rank=9&Refer=top)<br />
+9. [外媒曝Jennie将加入漫威](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%AA%92%E6%9B%9DJennie%E5%B0%86%E5%8A%A0%E5%85%A5%E6%BC%AB%E5%A8%81%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -18,8 +18,8 @@
 2. [媒体评《狂飙》「不能为了反派人物生动性、丰满性过分给予『人性』加持」，如何看待反派塑造的「善恶边界」？](https://www.zhihu.com/question/605467664)<br />
 3. [近 700 万粉丝的汽车博主蔡老板侵犯特斯拉名誉权败诉，拒不向特斯拉道歉，被强制执行，如何看待此事？](https://www.zhihu.com/question/605112962)<br />
 4. [吴磊骑电助力自行车（e-bike）去新疆，相比纯人力自行车这类车有哪些优势？](https://www.zhihu.com/question/604844013)<br />
-5. []()<br />
-6. []()<br />
+5. [九江一幼儿园员工在小便池清洗餐具，官方通报「情况属实，停业整顿」，如何看待此事？](https://www.zhihu.com/question/605473307)<br />
+6. [卫星首次成功向地球传送太阳能，证明天基能源可信性，具有哪些重大意义？](https://www.zhihu.com/question/605422459)<br />
 7. []()<br />
 8. []()<br />
 9. [为什么《蜘蛛侠：纵横宇宙》的高口碑没有带动中国票房大涨?](https://www.zhihu.com/question/605399059)<br />
