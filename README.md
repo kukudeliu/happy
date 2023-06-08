@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 04:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 04:19:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [杨紫赵露思撞衫](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%92%9E%E8%A1%AB%23&t=31&band_rank=6&Refer=top)<br />
 7. [RNG](https://s.weibo.com/weibo?q=RNG&t=31&band_rank=7&Refer=top)<br />
 8. [Angelababy张大大有默契但不多](https://s.weibo.com/weibo?q=%23Angelababy%E5%BC%A0%E5%A4%A7%E5%A4%A7%E6%9C%89%E9%BB%98%E5%A5%91%E4%BD%86%E4%B8%8D%E5%A4%9A%23&t=31&band_rank=8&Refer=top)<br />
-9. [女生在宿舍发现学姐2年前留信](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E5%9C%A8%E5%AE%BF%E8%88%8D%E5%8F%91%E7%8E%B0%E5%AD%A6%E5%A7%902%E5%B9%B4%E5%89%8D%E7%95%99%E4%BF%A1%23&t=31&band_rank=9&Refer=top)<br />
+9. [EDG AD](https://s.weibo.com/weibo?q=EDG%20AD&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -20,8 +20,8 @@
 4. [珠峰获救的刘女士到长沙感谢施救者范江涛和谢如祥，哪些信息值得关注？](https://www.zhihu.com/question/605309194)<br />
 5. [吴磊骑电助力自行车（e-bike）去新疆，相比纯人力自行车这类车有哪些优势？](https://www.zhihu.com/question/604844013)<br />
 6. [近 700 万粉丝的汽车博主蔡老板侵犯特斯拉名誉权败诉，拒不向特斯拉道歉，被强制执行，如何看待此事？](https://www.zhihu.com/question/605112962)<br />
-7. [媒体评「多家餐馆因在凉皮内放黄瓜丝被罚」，称「普法能否做在前面？」，如何看待此事？食品安全如何保障？](https://www.zhihu.com/question/605336026)<br />
-8. [罕见病唯一药物唯铭赞即将退出中国，如何从商业角度解读此举？](https://www.zhihu.com/question/605244647)<br />
+7. [罕见病唯一药物唯铭赞即将退出中国，如何从商业角度解读此举？](https://www.zhihu.com/question/605244647)<br />
+8. [媒体评「多家餐馆因在凉皮内放黄瓜丝被罚」，称「普法能否做在前面？」，如何看待此事？食品安全如何保障？](https://www.zhihu.com/question/605336026)<br />
 9. [为什么《蜘蛛侠：纵横宇宙》的高口碑没有带动中国票房大涨?](https://www.zhihu.com/question/605399059)<br />
 
 > 百度  
@@ -31,9 +31,9 @@
 3. [海航管控空姐体重：超重停飞](https://www.baidu.com/s?wd=%E6%B5%B7%E8%88%AA%E7%AE%A1%E6%8E%A7%E7%A9%BA%E5%A7%90%E4%BD%93%E9%87%8D%EF%BC%9A%E8%B6%85%E9%87%8D%E5%81%9C%E9%A3%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全国“三夏”麦收进度过半](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E2%80%9C%E4%B8%89%E5%A4%8F%E2%80%9D%E9%BA%A6%E6%94%B6%E8%BF%9B%E5%BA%A6%E8%BF%87%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [梁实谈第27次高考：文综重大失误](https://www.baidu.com/s?wd=%E6%A2%81%E5%AE%9E%E8%B0%88%E7%AC%AC27%E6%AC%A1%E9%AB%98%E8%80%83%EF%BC%9A%E6%96%87%E7%BB%BC%E9%87%8D%E5%A4%A7%E5%A4%B1%E8%AF%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [考生开考前1小时摔骨折民警送医](https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%E5%BC%80%E8%80%83%E5%89%8D1%E5%B0%8F%E6%97%B6%E6%91%94%E9%AA%A8%E6%8A%98%E6%B0%91%E8%AD%A6%E9%80%81%E5%8C%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [第一生育大省也开始催生了](https://www.baidu.com/s?wd=%E7%AC%AC%E4%B8%80%E7%94%9F%E8%82%B2%E5%A4%A7%E7%9C%81%E4%B9%9F%E5%BC%80%E5%A7%8B%E5%82%AC%E7%94%9F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [马克龙：持刀袭击事件令全国震惊](https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%8B%E9%BE%99%EF%BC%9A%E6%8C%81%E5%88%80%E8%A2%AD%E5%87%BB%E4%BA%8B%E4%BB%B6%E4%BB%A4%E5%85%A8%E5%9B%BD%E9%9C%87%E6%83%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [第一生育大省也开始催生了](https://www.baidu.com/s?wd=%E7%AC%AC%E4%B8%80%E7%94%9F%E8%82%B2%E5%A4%A7%E7%9C%81%E4%B9%9F%E5%BC%80%E5%A7%8B%E5%82%AC%E7%94%9F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [马克龙：持刀袭击事件令全国震惊](https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%8B%E9%BE%99%EF%BC%9A%E6%8C%81%E5%88%80%E8%A2%AD%E5%87%BB%E4%BA%8B%E4%BB%B6%E4%BB%A4%E5%85%A8%E5%9B%BD%E9%9C%87%E6%83%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男生高考四门科目全部第1名出考场](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E9%AB%98%E8%80%83%E5%9B%9B%E9%97%A8%E7%A7%91%E7%9B%AE%E5%85%A8%E9%83%A8%E7%AC%AC1%E5%90%8D%E5%87%BA%E8%80%83%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [天津局部地面沉降 官方:属地质灾害](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E5%B1%80%E9%83%A8%E5%9C%B0%E9%9D%A2%E6%B2%89%E9%99%8D+%E5%AE%98%E6%96%B9%3A%E5%B1%9E%E5%9C%B0%E8%B4%A8%E7%81%BE%E5%AE%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -43,7 +43,7 @@
 3. [海航管控空姐体重：超重停飞](https://www.baidu.com/s?wd=%E6%B5%B7%E8%88%AA%E7%AE%A1%E6%8E%A7%E7%A9%BA%E5%A7%90%E4%BD%93%E9%87%8D%EF%BC%9A%E8%B6%85%E9%87%8D%E5%81%9C%E9%A3%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全国“三夏”麦收进度过半](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E2%80%9C%E4%B8%89%E5%A4%8F%E2%80%9D%E9%BA%A6%E6%94%B6%E8%BF%9B%E5%BA%A6%E8%BF%87%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [梁实谈第27次高考：文综重大失误](https://www.baidu.com/s?wd=%E6%A2%81%E5%AE%9E%E8%B0%88%E7%AC%AC27%E6%AC%A1%E9%AB%98%E8%80%83%EF%BC%9A%E6%96%87%E7%BB%BC%E9%87%8D%E5%A4%A7%E5%A4%B1%E8%AF%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [考生开考前1小时摔骨折民警送医](https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%E5%BC%80%E8%80%83%E5%89%8D1%E5%B0%8F%E6%97%B6%E6%91%94%E9%AA%A8%E6%8A%98%E6%B0%91%E8%AD%A6%E9%80%81%E5%8C%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [第一生育大省也开始催生了](https://www.baidu.com/s?wd=%E7%AC%AC%E4%B8%80%E7%94%9F%E8%82%B2%E5%A4%A7%E7%9C%81%E4%B9%9F%E5%BC%80%E5%A7%8B%E5%82%AC%E7%94%9F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [马克龙：持刀袭击事件令全国震惊](https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%8B%E9%BE%99%EF%BC%9A%E6%8C%81%E5%88%80%E8%A2%AD%E5%87%BB%E4%BA%8B%E4%BB%B6%E4%BB%A4%E5%85%A8%E5%9B%BD%E9%9C%87%E6%83%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [第一生育大省也开始催生了](https://www.baidu.com/s?wd=%E7%AC%AC%E4%B8%80%E7%94%9F%E8%82%B2%E5%A4%A7%E7%9C%81%E4%B9%9F%E5%BC%80%E5%A7%8B%E5%82%AC%E7%94%9F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [马克龙：持刀袭击事件令全国震惊](https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%8B%E9%BE%99%EF%BC%9A%E6%8C%81%E5%88%80%E8%A2%AD%E5%87%BB%E4%BA%8B%E4%BB%B6%E4%BB%A4%E5%85%A8%E5%9B%BD%E9%9C%87%E6%83%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男生高考四门科目全部第1名出考场](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E9%AB%98%E8%80%83%E5%9B%9B%E9%97%A8%E7%A7%91%E7%9B%AE%E5%85%A8%E9%83%A8%E7%AC%AC1%E5%90%8D%E5%87%BA%E8%80%83%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [天津局部地面沉降 官方:属地质灾害](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E5%B1%80%E9%83%A8%E5%9C%B0%E9%9D%A2%E6%B2%89%E9%99%8D+%E5%AE%98%E6%96%B9%3A%E5%B1%9E%E5%9C%B0%E8%B4%A8%E7%81%BE%E5%AE%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
