@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 11:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 11:10:01</h4></div>
 
 > 微博  
 
-1. [高考物理](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E7%89%A9%E7%90%86&t=31&band_rank=1&Refer=top)<br />
-2. [中国石油大学回应](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%9F%B3%E6%B2%B9%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%23&t=31&band_rank=2&Refer=top)<br />
+1. [中国石油大学回应](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%9F%B3%E6%B2%B9%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%23&t=31&band_rank=1&Refer=top)<br />
+2. [高考物理](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E7%89%A9%E7%90%86&t=31&band_rank=2&Refer=top)<br />
 3. [我国成功发射一箭26星](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E4%B8%80%E7%AE%AD26%E6%98%9F%23&t=31&band_rank=3&Refer=top)<br />
 4. [复旦研究生嫖娼被开除起诉学校被驳](https://s.weibo.com/weibo?q=%23%E5%A4%8D%E6%97%A6%E7%A0%94%E7%A9%B6%E7%94%9F%E5%AB%96%E5%A8%BC%E8%A2%AB%E5%BC%80%E9%99%A4%E8%B5%B7%E8%AF%89%E5%AD%A6%E6%A0%A1%E8%A2%AB%E9%A9%B3%23&t=31&band_rank=4&Refer=top)<br />
 5. [高考历史](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E5%8E%86%E5%8F%B2&t=31&band_rank=5&Refer=top)<br />
