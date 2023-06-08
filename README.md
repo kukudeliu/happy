@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 11:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 11:45:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [高考](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83&t=31&band_rank=6&Refer=top)<br />
 7. [复旦研究生嫖娼被开除起诉学校被驳](https://s.weibo.com/weibo?q=%23%E5%A4%8D%E6%97%A6%E7%A0%94%E7%A9%B6%E7%94%9F%E5%AB%96%E5%A8%BC%E8%A2%AB%E5%BC%80%E9%99%A4%E8%B5%B7%E8%AF%89%E5%AD%A6%E6%A0%A1%E8%A2%AB%E9%A9%B3%23&t=31&band_rank=7&Refer=top)<br />
 8. [中石油胡继勇被免职](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%9F%B3%E6%B2%B9%E8%83%A1%E7%BB%A7%E5%8B%87%E8%A2%AB%E5%85%8D%E8%81%8C%23&t=31&band_rank=8&Refer=top)<br />
-9. [陈晓更新小说](https://s.weibo.com/weibo?q=%E9%99%88%E6%99%93%E6%9B%B4%E6%96%B0%E5%B0%8F%E8%AF%B4&t=31&band_rank=9&Refer=top)<br />
+9. [高考理综](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E7%90%86%E7%BB%BC&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
