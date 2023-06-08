@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 16:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 16:12:01</h4></div>
 
 > 微博  
 
@@ -19,10 +19,10 @@
 3. [美国 4 月贸易逆差环比增长 23%，增幅为 8 年来最大，透露了哪些信息？](https://www.zhihu.com/question/605428364)<br />
 4. [五大国有银行 6 月 8 日起调整存款挂牌利率，3 年期利率下调 15 个基点，利率还会继续下降吗？](https://www.zhihu.com/question/605424218)<br />
 5. [调查称超 6 成女性在求职中被问婚育状况，有单位隐晦暗示女性入职后工作晋升困难，如何看待此现象？](https://www.zhihu.com/question/604820170)<br />
-6. [夏尔巴人如此擅长登山，为什么攀登珠穆朗玛峰的各种纪录，没有夏尔巴人？](https://www.zhihu.com/question/509831714)<br />
-7. [为什么我总被说要摆脱「学生思维」，它到底指什么？](https://www.zhihu.com/question/604936279)<br />
-8. [《暗黑破坏神 4》的主线剧情是怎样的？](https://www.zhihu.com/question/604407190)<br />
-9. [高考后准大一新生，在 618 买笔记本电脑便宜还是等到开学前的暑促？](https://www.zhihu.com/question/605452901)<br />
+6. [为什么我总被说要摆脱「学生思维」，它到底指什么？](https://www.zhihu.com/question/604936279)<br />
+7. [《暗黑破坏神 4》的主线剧情是怎样的？](https://www.zhihu.com/question/604407190)<br />
+8. [高考后准大一新生，在 618 买笔记本电脑便宜还是等到开学前的暑促？](https://www.zhihu.com/question/605452901)<br />
+9. [618 想买一台拍照好颜值高的手机，预算 4000 元以内有什么推荐吗？](https://www.zhihu.com/question/605357016)<br />
 
 > 百度  
 
