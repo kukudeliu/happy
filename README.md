@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 17:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 17:19:01</h4></div>
 
 > 微博  
 
@@ -6,21 +6,21 @@
 2. [Uzi EDG](https://s.weibo.com/weibo?q=Uzi%20EDG&t=31&band_rank=2&Refer=top)<br />
 3. [高考第二天](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E7%AC%AC%E4%BA%8C%E5%A4%A9%23&t=31&band_rank=3&Refer=top)<br />
 4. [高考生睡过头外卖小哥将其送到考场](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E7%94%9F%E7%9D%A1%E8%BF%87%E5%A4%B4%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E5%B0%86%E5%85%B6%E9%80%81%E5%88%B0%E8%80%83%E5%9C%BA%23&t=31&band_rank=4&Refer=top)<br />
-5. [高考](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83&t=31&band_rank=5&Refer=top)<br />
+5. [通知他们仨了吗](https://s.weibo.com/weibo?q=%23%E9%80%9A%E7%9F%A5%E4%BB%96%E4%BB%AC%E4%BB%A8%E4%BA%86%E5%90%97%23&t=31&band_rank=5&Refer=top)<br />
 6. [董某某被停职](https://s.weibo.com/weibo?q=%23%E8%91%A3%E6%9F%90%E6%9F%90%E8%A2%AB%E5%81%9C%E8%81%8C%23&t=31&band_rank=6&Refer=top)<br />
 7. [Lisa露额头](https://s.weibo.com/weibo?q=Lisa%E9%9C%B2%E9%A2%9D%E5%A4%B4&t=31&band_rank=7&Refer=top)<br />
-8. [柯以敏直播大怒](https://s.weibo.com/weibo?q=%23%E6%9F%AF%E4%BB%A5%E6%95%8F%E7%9B%B4%E6%92%AD%E5%A4%A7%E6%80%92%23&t=31&band_rank=8&Refer=top)<br />
+8. [高考](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83&t=31&band_rank=8&Refer=top)<br />
 9. [成都太古里明确禁止未经允许街拍](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%A4%AA%E5%8F%A4%E9%87%8C%E6%98%8E%E7%A1%AE%E7%A6%81%E6%AD%A2%E6%9C%AA%E7%BB%8F%E5%85%81%E8%AE%B8%E8%A1%97%E6%8B%8D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [媒体评「多家餐馆因在凉皮内放黄瓜丝被罚」，称「普法能否做在前面？」，如何看待此事？食品安全如何保障？](https://www.zhihu.com/question/605336026)<br />
 2. [网传中国电信广东地区崩了，接打电话受限，客服称网络异常，正在进行抢修，目前情况如何？什么原因导致的？](https://www.zhihu.com/question/605482217)<br />
-3. [杭州有楼盘买房最多送两斤黄金，折合 47.28 万返现，当地楼市情况如何？开发商「内卷」会成常态吗？](https://www.zhihu.com/question/605337792)<br />
-4. [为什么说「不要把同事当朋友」？你支持这种观点吗？](https://www.zhihu.com/question/605243415)<br />
-5. [DeepMind AI 创造出比人类快 70% 的排序算法，会产生哪些影响？](https://www.zhihu.com/question/605448432)<br />
-6. [高考后准大一新生，在 618 买笔记本电脑便宜还是等到开学前的暑促？](https://www.zhihu.com/question/605452901)<br />
-7. [英国又以安全风险为由，拟要求政府部门拆除中企生产的监控设备，如何评价此事？](https://www.zhihu.com/question/605365721)<br />
+3. [为什么说「不要把同事当朋友」？你支持这种观点吗？](https://www.zhihu.com/question/605243415)<br />
+4. [DeepMind AI 创造出比人类快 70% 的排序算法，会产生哪些影响？](https://www.zhihu.com/question/605448432)<br />
+5. [杭州有楼盘买房最多送两斤黄金，折合 47.28 万返现，当地楼市情况如何？开发商「内卷」会成常态吗？](https://www.zhihu.com/question/605337792)<br />
+6. [英国又以安全风险为由，拟要求政府部门拆除中企生产的监控设备，如何评价此事？](https://www.zhihu.com/question/605365721)<br />
+7. [高考后准大一新生，在 618 买笔记本电脑便宜还是等到开学前的暑促？](https://www.zhihu.com/question/605452901)<br />
 8. [高考当天，你印象最深的是什么？](https://www.zhihu.com/question/605171418)<br />
 9. [从在校园中的学生到进入职场打拼的上班族，心态上要有什么样的不同和转变？](https://www.zhihu.com/question/28435604)<br />
 
