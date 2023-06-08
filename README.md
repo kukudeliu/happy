@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 07:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 07:57:01</h4></div>
 
 > 微博  
 
@@ -9,15 +9,15 @@
 5. [高考结束张桂梅又躲进空教室](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E5%BC%A0%E6%A1%82%E6%A2%85%E5%8F%88%E8%BA%B2%E8%BF%9B%E7%A9%BA%E6%95%99%E5%AE%A4%23&t=31&band_rank=5&Refer=top)<br />
 6. [她是怎么忍住不用剪刀的](https://s.weibo.com/weibo?q=%E5%A5%B9%E6%98%AF%E6%80%8E%E4%B9%88%E5%BF%8D%E4%BD%8F%E4%B8%8D%E7%94%A8%E5%89%AA%E5%88%80%E7%9A%84&t=31&band_rank=6&Refer=top)<br />
 7. [Amber单杀Uzi](https://s.weibo.com/weibo?q=%23Amber%E5%8D%95%E6%9D%80Uzi%23&t=31&band_rank=7&Refer=top)<br />
-8. [阿布](https://s.weibo.com/weibo?q=%E9%98%BF%E5%B8%83&t=31&band_rank=8&Refer=top)<br />
-9. [杨紫赵露思撞衫](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%92%9E%E8%A1%AB%23&t=31&band_rank=9&Refer=top)<br />
+8. [杨紫赵露思撞衫](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%92%9E%E8%A1%AB%23&t=31&band_rank=8&Refer=top)<br />
+9. [阿布](https://s.weibo.com/weibo?q=%E9%98%BF%E5%B8%83&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [媒体评《狂飙》「不能为了反派人物生动性、丰满性过分给予『人性』加持」，如何看待反派塑造的「善恶边界」？](https://www.zhihu.com/question/605467664)<br />
 2. [大量用户反映「中国电信广东地区崩了」，客服回应称功能已逐步恢复，目前情况如何？什么原因导致的？](https://www.zhihu.com/question/605482217)<br />
-3. [近 700 万粉丝的汽车博主蔡老板侵犯特斯拉名誉权败诉，拒不向特斯拉道歉，被强制执行，如何看待此事？](https://www.zhihu.com/question/605112962)<br />
-4. [九江一幼儿园员工在小便池清洗餐具，官方通报「情况属实，停业整顿」，如何看待此事？](https://www.zhihu.com/question/605473307)<br />
+3. [九江一幼儿园员工在小便池清洗餐具，官方通报「情况属实，停业整顿」，如何看待此事？](https://www.zhihu.com/question/605473307)<br />
+4. [近 700 万粉丝的汽车博主蔡老板侵犯特斯拉名誉权败诉，拒不向特斯拉道歉，被强制执行，如何看待此事？](https://www.zhihu.com/question/605112962)<br />
 5. [吴磊骑电助力自行车（e-bike）去新疆，相比纯人力自行车这类车有哪些优势？](https://www.zhihu.com/question/604844013)<br />
 6. [卫星首次成功向地球传送太阳能，证明天基能源可信性，具有哪些重大意义？](https://www.zhihu.com/question/605422459)<br />
 7. [三国君主投降之后，魏称王，吴称侯，蜀称公，这是为什么？](https://www.zhihu.com/question/499047452)<br />
