@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 17:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 17:39:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [多地高考今日结束 直击场外](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E9%AB%98%E8%80%83%E4%BB%8A%E6%97%A5%E7%BB%93%E6%9D%9F+%E7%9B%B4%E5%87%BB%E5%9C%BA%E5%A4%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [香港女子在公共场所拍裸照被捕](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%A5%B3%E5%AD%90%E5%9C%A8%E5%85%AC%E5%85%B1%E5%9C%BA%E6%89%80%E6%8B%8D%E8%A3%B8%E7%85%A7%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [牵手门涉事女子已被停职并接受调查](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E6%B6%89%E4%BA%8B%E5%A5%B3%E5%AD%90%E5%B7%B2%E8%A2%AB%E5%81%9C%E8%81%8C%E5%B9%B6%E6%8E%A5%E5%8F%97%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [中国电信广东地区崩了？客服回应](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B5%E4%BF%A1%E5%B9%BF%E4%B8%9C%E5%9C%B0%E5%8C%BA%E5%B4%A9%E4%BA%86%EF%BC%9F%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [游客吐槽石老人浴场2元冲水30秒](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E5%90%90%E6%A7%BD%E7%9F%B3%E8%80%81%E4%BA%BA%E6%B5%B4%E5%9C%BA2%E5%85%83%E5%86%B2%E6%B0%B430%E7%A7%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [考点执勤多年终于当上了陪考家长](https://www.baidu.com/s?wd=%E8%80%83%E7%82%B9%E6%89%A7%E5%8B%A4%E5%A4%9A%E5%B9%B4%E7%BB%88%E4%BA%8E%E5%BD%93%E4%B8%8A%E4%BA%86%E9%99%AA%E8%80%83%E5%AE%B6%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [专家解读“10年高考8年雨”](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E8%A7%A3%E8%AF%BB%E2%80%9C10%E5%B9%B4%E9%AB%98%E8%80%838%E5%B9%B4%E9%9B%A8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [多地高考今日结束 直击场外](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E9%AB%98%E8%80%83%E4%BB%8A%E6%97%A5%E7%BB%93%E6%9D%9F+%E7%9B%B4%E5%87%BB%E5%9C%BA%E5%A4%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [香港女子在公共场所拍裸照被捕](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%A5%B3%E5%AD%90%E5%9C%A8%E5%85%AC%E5%85%B1%E5%9C%BA%E6%89%80%E6%8B%8D%E8%A3%B8%E7%85%A7%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [牵手门涉事女子已被停职并接受调查](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E6%B6%89%E4%BA%8B%E5%A5%B3%E5%AD%90%E5%B7%B2%E8%A2%AB%E5%81%9C%E8%81%8C%E5%B9%B6%E6%8E%A5%E5%8F%97%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [中国电信广东地区崩了？客服回应](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B5%E4%BF%A1%E5%B9%BF%E4%B8%9C%E5%9C%B0%E5%8C%BA%E5%B4%A9%E4%BA%86%EF%BC%9F%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [游客吐槽石老人浴场2元冲水30秒](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E5%90%90%E6%A7%BD%E7%9F%B3%E8%80%81%E4%BA%BA%E6%B5%B4%E5%9C%BA2%E5%85%83%E5%86%B2%E6%B0%B430%E7%A7%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [考点执勤多年终于当上了陪考家长](https://www.baidu.com/s?wd=%E8%80%83%E7%82%B9%E6%89%A7%E5%8B%A4%E5%A4%9A%E5%B9%B4%E7%BB%88%E4%BA%8E%E5%BD%93%E4%B8%8A%E4%BA%86%E9%99%AA%E8%80%83%E5%AE%B6%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [专家解读“10年高考8年雨”](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E8%A7%A3%E8%AF%BB%E2%80%9C10%E5%B9%B4%E9%AB%98%E8%80%838%E5%B9%B4%E9%9B%A8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
