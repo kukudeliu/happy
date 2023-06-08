@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 01:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 01:40:01</h4></div>
 
 > 微博  
 
@@ -33,7 +33,7 @@
 5. [梁实谈第27次高考：文综重大失误](https://www.baidu.com/s?wd=%E6%A2%81%E5%AE%9E%E8%B0%88%E7%AC%AC27%E6%AC%A1%E9%AB%98%E8%80%83%EF%BC%9A%E6%96%87%E7%BB%BC%E9%87%8D%E5%A4%A7%E5%A4%B1%E8%AF%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [马克龙：持刀袭击事件令全国震惊](https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%8B%E9%BE%99%EF%BC%9A%E6%8C%81%E5%88%80%E8%A2%AD%E5%87%BB%E4%BA%8B%E4%BB%B6%E4%BB%A4%E5%85%A8%E5%9B%BD%E9%9C%87%E6%83%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [粗心家长关车窗夹住孩子颈部](https://www.baidu.com/s?wd=%E7%B2%97%E5%BF%83%E5%AE%B6%E9%95%BF%E5%85%B3%E8%BD%A6%E7%AA%97%E5%A4%B9%E4%BD%8F%E5%AD%A9%E5%AD%90%E9%A2%88%E9%83%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [第一生育大省也开始催生了](https://www.baidu.com/s?wd=%E7%AC%AC%E4%B8%80%E7%94%9F%E8%82%B2%E5%A4%A7%E7%9C%81%E4%B9%9F%E5%BC%80%E5%A7%8B%E5%82%AC%E7%94%9F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [复读学校考场前做广告 家长撕横幅](https://www.baidu.com/s?wd=%E5%A4%8D%E8%AF%BB%E5%AD%A6%E6%A0%A1%E8%80%83%E5%9C%BA%E5%89%8D%E5%81%9A%E5%B9%BF%E5%91%8A+%E5%AE%B6%E9%95%BF%E6%92%95%E6%A8%AA%E5%B9%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [天津局部地面沉降 官方:属地质灾害](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E5%B1%80%E9%83%A8%E5%9C%B0%E9%9D%A2%E6%B2%89%E9%99%8D+%E5%AE%98%E6%96%B9%3A%E5%B1%9E%E5%9C%B0%E8%B4%A8%E7%81%BE%E5%AE%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [梁实谈第27次高考：文综重大失误](https://www.baidu.com/s?wd=%E6%A2%81%E5%AE%9E%E8%B0%88%E7%AC%AC27%E6%AC%A1%E9%AB%98%E8%80%83%EF%BC%9A%E6%96%87%E7%BB%BC%E9%87%8D%E5%A4%A7%E5%A4%B1%E8%AF%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [马克龙：持刀袭击事件令全国震惊](https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%8B%E9%BE%99%EF%BC%9A%E6%8C%81%E5%88%80%E8%A2%AD%E5%87%BB%E4%BA%8B%E4%BB%B6%E4%BB%A4%E5%85%A8%E5%9B%BD%E9%9C%87%E6%83%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [粗心家长关车窗夹住孩子颈部](https://www.baidu.com/s?wd=%E7%B2%97%E5%BF%83%E5%AE%B6%E9%95%BF%E5%85%B3%E8%BD%A6%E7%AA%97%E5%A4%B9%E4%BD%8F%E5%AD%A9%E5%AD%90%E9%A2%88%E9%83%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [第一生育大省也开始催生了](https://www.baidu.com/s?wd=%E7%AC%AC%E4%B8%80%E7%94%9F%E8%82%B2%E5%A4%A7%E7%9C%81%E4%B9%9F%E5%BC%80%E5%A7%8B%E5%82%AC%E7%94%9F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [复读学校考场前做广告 家长撕横幅](https://www.baidu.com/s?wd=%E5%A4%8D%E8%AF%BB%E5%AD%A6%E6%A0%A1%E8%80%83%E5%9C%BA%E5%89%8D%E5%81%9A%E5%B9%BF%E5%91%8A+%E5%AE%B6%E9%95%BF%E6%92%95%E6%A8%AA%E5%B9%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [天津局部地面沉降 官方:属地质灾害](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E5%B1%80%E9%83%A8%E5%9C%B0%E9%9D%A2%E6%B2%89%E9%99%8D+%E5%AE%98%E6%96%B9%3A%E5%B1%9E%E5%9C%B0%E8%B4%A8%E7%81%BE%E5%AE%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
