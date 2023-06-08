@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 17:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 17:22:01</h4></div>
 
 > 微博  
 
@@ -18,11 +18,11 @@
 2. [网传中国电信广东地区崩了，接打电话受限，客服称网络异常，正在进行抢修，目前情况如何？什么原因导致的？](https://www.zhihu.com/question/605482217)<br />
 3. [为什么说「不要把同事当朋友」？你支持这种观点吗？](https://www.zhihu.com/question/605243415)<br />
 4. [DeepMind AI 创造出比人类快 70% 的排序算法，会产生哪些影响？](https://www.zhihu.com/question/605448432)<br />
-5. [杭州有楼盘买房最多送两斤黄金，折合 47.28 万返现，当地楼市情况如何？开发商「内卷」会成常态吗？](https://www.zhihu.com/question/605337792)<br />
-6. [英国又以安全风险为由，拟要求政府部门拆除中企生产的监控设备，如何评价此事？](https://www.zhihu.com/question/605365721)<br />
-7. [高考后准大一新生，在 618 买笔记本电脑便宜还是等到开学前的暑促？](https://www.zhihu.com/question/605452901)<br />
-8. [高考当天，你印象最深的是什么？](https://www.zhihu.com/question/605171418)<br />
-9. [从在校园中的学生到进入职场打拼的上班族，心态上要有什么样的不同和转变？](https://www.zhihu.com/question/28435604)<br />
+5. [英国又以安全风险为由，拟要求政府部门拆除中企生产的监控设备，如何评价此事？](https://www.zhihu.com/question/605365721)<br />
+6. [杭州有楼盘买房最多送两斤黄金，折合 47.28 万返现，当地楼市情况如何？开发商「内卷」会成常态吗？](https://www.zhihu.com/question/605337792)<br />
+7. [高考当天，你印象最深的是什么？](https://www.zhihu.com/question/605171418)<br />
+8. [高考后准大一新生，在 618 买笔记本电脑便宜还是等到开学前的暑促？](https://www.zhihu.com/question/605452901)<br />
+9. [技术和学历，哪个更重要？](https://www.zhihu.com/question/598795697)<br />
 
 > 百度  
 
