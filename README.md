@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 19:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 19:59:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [公务员回应搂抱女同事：她心情不好](https://www.baidu.com/s?wd=%E5%85%AC%E5%8A%A1%E5%91%98%E5%9B%9E%E5%BA%94%E6%90%82%E6%8A%B1%E5%A5%B3%E5%90%8C%E4%BA%8B%EF%BC%9A%E5%A5%B9%E5%BF%83%E6%83%85%E4%B8%8D%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [“街头牵手门”警示了什么？](https://www.baidu.com/s?wd=%E2%80%9C%E8%A1%97%E5%A4%B4%E7%89%B5%E6%89%8B%E9%97%A8%E2%80%9D%E8%AD%A6%E7%A4%BA%E4%BA%86%E4%BB%80%E4%B9%88%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [江苏母亲致俩幼女饿死 被判无期](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E6%AF%8D%E4%BA%B2%E8%87%B4%E4%BF%A9%E5%B9%BC%E5%A5%B3%E9%A5%BF%E6%AD%BB+%E8%A2%AB%E5%88%A4%E6%97%A0%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [游客吐槽石老人浴场2元冲水30秒](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E5%90%90%E6%A7%BD%E7%9F%B3%E8%80%81%E4%BA%BA%E6%B5%B4%E5%9C%BA2%E5%85%83%E5%86%B2%E6%B0%B430%E7%A7%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [考点执勤多年终于当上了陪考家长](https://www.baidu.com/s?wd=%E8%80%83%E7%82%B9%E6%89%A7%E5%8B%A4%E5%A4%9A%E5%B9%B4%E7%BB%88%E4%BA%8E%E5%BD%93%E4%B8%8A%E4%BA%86%E9%99%AA%E8%80%83%E5%AE%B6%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [公务员回应搂抱女同事：她心情不好](https://www.baidu.com/s?wd=%E5%85%AC%E5%8A%A1%E5%91%98%E5%9B%9E%E5%BA%94%E6%90%82%E6%8A%B1%E5%A5%B3%E5%90%8C%E4%BA%8B%EF%BC%9A%E5%A5%B9%E5%BF%83%E6%83%85%E4%B8%8D%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [“街头牵手门”警示了什么？](https://www.baidu.com/s?wd=%E2%80%9C%E8%A1%97%E5%A4%B4%E7%89%B5%E6%89%8B%E9%97%A8%E2%80%9D%E8%AD%A6%E7%A4%BA%E4%BA%86%E4%BB%80%E4%B9%88%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [江苏母亲致俩幼女饿死 被判无期](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E6%AF%8D%E4%BA%B2%E8%87%B4%E4%BF%A9%E5%B9%BC%E5%A5%B3%E9%A5%BF%E6%AD%BB+%E8%A2%AB%E5%88%A4%E6%97%A0%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [游客吐槽石老人浴场2元冲水30秒](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E5%90%90%E6%A7%BD%E7%9F%B3%E8%80%81%E4%BA%BA%E6%B5%B4%E5%9C%BA2%E5%85%83%E5%86%B2%E6%B0%B430%E7%A7%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [考点执勤多年终于当上了陪考家长](https://www.baidu.com/s?wd=%E8%80%83%E7%82%B9%E6%89%A7%E5%8B%A4%E5%A4%9A%E5%B9%B4%E7%BB%88%E4%BA%8E%E5%BD%93%E4%B8%8A%E4%BA%86%E9%99%AA%E8%80%83%E5%AE%B6%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
