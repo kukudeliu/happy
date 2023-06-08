@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 17:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 17:42:01</h4></div>
 
 > 微博  
 
@@ -17,8 +17,8 @@
 1. [媒体评「多家餐馆因在凉皮内放黄瓜丝被罚」，称「普法能否做在前面？」，如何看待此事？食品安全如何保障？](https://www.zhihu.com/question/605336026)<br />
 2. [网传中国电信广东地区崩了，接打电话受限，客服称网络异常，正在进行抢修，目前情况如何？什么原因导致的？](https://www.zhihu.com/question/605482217)<br />
 3. [「国企领导牵手门」最新进展，涉事女子也已停职并接受核查，如何看待此事？](https://www.zhihu.com/question/605315436)<br />
-4. [为什么说「不要把同事当朋友」？你支持这种观点吗？](https://www.zhihu.com/question/605243415)<br />
-5. [DeepMind AI 创造出比人类快 70% 的排序算法，会产生哪些影响？](https://www.zhihu.com/question/605448432)<br />
+4. [DeepMind AI 创造出比人类快 70% 的排序算法，会产生哪些影响？](https://www.zhihu.com/question/605448432)<br />
+5. [为什么说「不要把同事当朋友」？你支持这种观点吗？](https://www.zhihu.com/question/605243415)<br />
 6. [英国又以安全风险为由，拟要求政府部门拆除中企生产的监控设备，如何评价此事？](https://www.zhihu.com/question/605365721)<br />
 7. [员工 4 个月虚假报销 2 万元被辞退，法院判决辞退合理，无需赔偿，该事件有哪些警示？](https://www.zhihu.com/question/605036712)<br />
 8. [高考当天，你印象最深的是什么？](https://www.zhihu.com/question/605171418)<br />
