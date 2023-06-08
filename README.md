@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 17:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 17:01:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [高考生睡过头外卖小哥将其送到考场](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E7%94%9F%E7%9D%A1%E8%BF%87%E5%A4%B4%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E5%B0%86%E5%85%B6%E9%80%81%E5%88%B0%E8%80%83%E5%9C%BA%23&t=31&band_rank=4&Refer=top)<br />
 5. [张艺兴起诉B站侵权](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E8%B5%B7%E8%AF%89B%E7%AB%99%E4%BE%B5%E6%9D%83%23&t=31&band_rank=5&Refer=top)<br />
 6. [成都太古里明确禁止未经允许街拍](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%A4%AA%E5%8F%A4%E9%87%8C%E6%98%8E%E7%A1%AE%E7%A6%81%E6%AD%A2%E6%9C%AA%E7%BB%8F%E5%85%81%E8%AE%B8%E8%A1%97%E6%8B%8D%23&t=31&band_rank=6&Refer=top)<br />
-7. [中国电信回应广东无信号](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B5%E4%BF%A1%E5%9B%9E%E5%BA%94%E5%B9%BF%E4%B8%9C%E6%97%A0%E4%BF%A1%E5%8F%B7%23&t=31&band_rank=7&Refer=top)<br />
-8. [Lisa露额头](https://s.weibo.com/weibo?q=Lisa%E9%9C%B2%E9%A2%9D%E5%A4%B4&t=31&band_rank=8&Refer=top)<br />
+7. [Lisa露额头](https://s.weibo.com/weibo?q=Lisa%E9%9C%B2%E9%A2%9D%E5%A4%B4&t=31&band_rank=7&Refer=top)<br />
+8. [中国电信回应广东无信号](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B5%E4%BF%A1%E5%9B%9E%E5%BA%94%E5%B9%BF%E4%B8%9C%E6%97%A0%E4%BF%A1%E5%8F%B7%23&t=31&band_rank=8&Refer=top)<br />
 9. [董某某被停职](https://s.weibo.com/weibo?q=%23%E8%91%A3%E6%9F%90%E6%9F%90%E8%A2%AB%E5%81%9C%E8%81%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -18,9 +18,9 @@
 2. [杭州有楼盘买房最多送两斤黄金，折合 47.28 万返现，当地楼市情况如何？开发商「内卷」会成常态吗？](https://www.zhihu.com/question/605337792)<br />
 3. [网传中国电信广东地区崩了，接打电话受限，客服称网络异常，正在进行抢修，目前情况如何？什么原因导致的？](https://www.zhihu.com/question/605482217)<br />
 4. [五大国有银行 6 月 8 日起调整存款挂牌利率，3 年期利率下调 15 个基点，利率还会继续下降吗？](https://www.zhihu.com/question/605424218)<br />
-5. []()<br />
-6. [为什么说「不要把同事当朋友」？你支持这种观点吗？](https://www.zhihu.com/question/605243415)<br />
-7. [高考后准大一新生，在 618 买笔记本电脑便宜还是等到开学前的暑促？](https://www.zhihu.com/question/605452901)<br />
+5. [为什么说「不要把同事当朋友」？你支持这种观点吗？](https://www.zhihu.com/question/605243415)<br />
+6. [高考后准大一新生，在 618 买笔记本电脑便宜还是等到开学前的暑促？](https://www.zhihu.com/question/605452901)<br />
+7. []()<br />
 8. [618 想买一台拍照好颜值高的手机，预算 4000 元以内有什么推荐吗？](https://www.zhihu.com/question/605357016)<br />
 9. [英国又以安全风险为由，拟要求政府部门拆除中企生产的监控设备，如何评价此事？](https://www.zhihu.com/question/605365721)<br />
 
