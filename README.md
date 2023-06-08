@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 10:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 10:26:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [大学生考点摆摊卖9.85与21.1元花束](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%80%83%E7%82%B9%E6%91%86%E6%91%8A%E5%8D%969.85%E4%B8%8E21.1%E5%85%83%E8%8A%B1%E6%9D%9F%23&t=31&band_rank=5&Refer=top)<br />
 6. [欧雅若都当妈了](https://s.weibo.com/weibo?q=%23%E6%AC%A7%E9%9B%85%E8%8B%A5%E9%83%BD%E5%BD%93%E5%A6%88%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [王润泽和奶奶](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%B6%A6%E6%B3%BD%E5%92%8C%E5%A5%B6%E5%A5%B6&t=31&band_rank=7&Refer=top)<br />
-8. [一个人死去了但他不是死于一个瞬间](https://s.weibo.com/weibo?q=%E4%B8%80%E4%B8%AA%E4%BA%BA%E6%AD%BB%E5%8E%BB%E4%BA%86%E4%BD%86%E4%BB%96%E4%B8%8D%E6%98%AF%E6%AD%BB%E4%BA%8E%E4%B8%80%E4%B8%AA%E7%9E%AC%E9%97%B4&t=31&band_rank=8&Refer=top)<br />
-9. [陈晓更新小说](https://s.weibo.com/weibo?q=%E9%99%88%E6%99%93%E6%9B%B4%E6%96%B0%E5%B0%8F%E8%AF%B4&t=31&band_rank=9&Refer=top)<br />
+8. [陈晓更新小说](https://s.weibo.com/weibo?q=%E9%99%88%E6%99%93%E6%9B%B4%E6%96%B0%E5%B0%8F%E8%AF%B4&t=31&band_rank=8&Refer=top)<br />
+9. [一个人死去了但他不是死于一个瞬间](https://s.weibo.com/weibo?q=%E4%B8%80%E4%B8%AA%E4%BA%BA%E6%AD%BB%E5%8E%BB%E4%BA%86%E4%BD%86%E4%BB%96%E4%B8%8D%E6%98%AF%E6%AD%BB%E4%BA%8E%E4%B8%80%E4%B8%AA%E7%9E%AC%E9%97%B4&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
