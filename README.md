@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 15:15:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 15:16:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [长得还行迪丽热巴](https://s.weibo.com/weibo?q=%23%E9%95%BF%E5%BE%97%E8%BF%98%E8%A1%8C%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%23&t=31&band_rank=5&Refer=top)<br />
 6. [董某某被停职](https://s.weibo.com/weibo?q=%23%E8%91%A3%E6%9F%90%E6%9F%90%E8%A2%AB%E5%81%9C%E8%81%8C%23&t=31&band_rank=6&Refer=top)<br />
 7. [中国石油大学回应](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%9F%B3%E6%B2%B9%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%23&t=31&band_rank=7&Refer=top)<br />
-8. [宿管多次强奸学生聋哑母亲获刑4年](https://s.weibo.com/weibo?q=%23%E5%AE%BF%E7%AE%A1%E5%A4%9A%E6%AC%A1%E5%BC%BA%E5%A5%B8%E5%AD%A6%E7%94%9F%E8%81%8B%E5%93%91%E6%AF%8D%E4%BA%B2%E8%8E%B7%E5%88%914%E5%B9%B4%23&t=31&band_rank=8&Refer=top)<br />
-9. [河南考生吐槽统一配备文具不好用](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E8%80%83%E7%94%9F%E5%90%90%E6%A7%BD%E7%BB%9F%E4%B8%80%E9%85%8D%E5%A4%87%E6%96%87%E5%85%B7%E4%B8%8D%E5%A5%BD%E7%94%A8%23&t=31&band_rank=9&Refer=top)<br />
+8. [河南考生吐槽统一配备文具不好用](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E8%80%83%E7%94%9F%E5%90%90%E6%A7%BD%E7%BB%9F%E4%B8%80%E9%85%8D%E5%A4%87%E6%96%87%E5%85%B7%E4%B8%8D%E5%A5%BD%E7%94%A8%23&t=31&band_rank=8&Refer=top)<br />
+9. [宿管多次强奸学生聋哑母亲获刑4年](https://s.weibo.com/weibo?q=%23%E5%AE%BF%E7%AE%A1%E5%A4%9A%E6%AC%A1%E5%BC%BA%E5%A5%B8%E5%AD%A6%E7%94%9F%E8%81%8B%E5%93%91%E6%AF%8D%E4%BA%B2%E8%8E%B7%E5%88%914%E5%B9%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -26,7 +26,7 @@
 
 > 百度  
 
-1. [启程的少年们 愿你们大胜归来](https://www.baidu.com/s?wd=%E5%90%AF%E7%A8%8B%E7%9A%84%E5%B0%91%E5%B9%B4%E4%BB%AC+%E6%84%BF%E4%BD%A0%E4%BB%AC%E5%A4%A7%E8%83%9C%E5%BD%92%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [这一波“高考表情”值得定格](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%80%E6%B3%A2%E2%80%9C%E9%AB%98%E8%80%83%E8%A1%A8%E6%83%85%E2%80%9D%E5%80%BC%E5%BE%97%E5%AE%9A%E6%A0%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [考生迟到37分钟仍进考场 江西回应](https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%E8%BF%9F%E5%88%B037%E5%88%86%E9%92%9F%E4%BB%8D%E8%BF%9B%E8%80%83%E5%9C%BA+%E6%B1%9F%E8%A5%BF%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [河南一考生因迟到未能进入考场](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E8%80%83%E7%94%9F%E5%9B%A0%E8%BF%9F%E5%88%B0%E6%9C%AA%E8%83%BD%E8%BF%9B%E5%85%A5%E8%80%83%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全国“三夏”麦收进度过半](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E2%80%9C%E4%B8%89%E5%A4%8F%E2%80%9D%E9%BA%A6%E6%94%B6%E8%BF%9B%E5%BA%A6%E8%BF%87%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -38,7 +38,7 @@
 
 > 哔哩哔哩  
 
-1. [启程的少年们 愿你们大胜归来](https://www.baidu.com/s?wd=%E5%90%AF%E7%A8%8B%E7%9A%84%E5%B0%91%E5%B9%B4%E4%BB%AC+%E6%84%BF%E4%BD%A0%E4%BB%AC%E5%A4%A7%E8%83%9C%E5%BD%92%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [这一波“高考表情”值得定格](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%80%E6%B3%A2%E2%80%9C%E9%AB%98%E8%80%83%E8%A1%A8%E6%83%85%E2%80%9D%E5%80%BC%E5%BE%97%E5%AE%9A%E6%A0%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [考生迟到37分钟仍进考场 江西回应](https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%E8%BF%9F%E5%88%B037%E5%88%86%E9%92%9F%E4%BB%8D%E8%BF%9B%E8%80%83%E5%9C%BA+%E6%B1%9F%E8%A5%BF%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [河南一考生因迟到未能进入考场](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E8%80%83%E7%94%9F%E5%9B%A0%E8%BF%9F%E5%88%B0%E6%9C%AA%E8%83%BD%E8%BF%9B%E5%85%A5%E8%80%83%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全国“三夏”麦收进度过半](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E2%80%9C%E4%B8%89%E5%A4%8F%E2%80%9D%E9%BA%A6%E6%94%B6%E8%BF%9B%E5%BA%A6%E8%BF%87%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
