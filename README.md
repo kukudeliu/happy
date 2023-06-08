@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 21:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 21:11:01</h4></div>
 
 > 微博  
 
@@ -31,7 +31,7 @@
 3. [海航管控空姐体重：超重停飞](https://www.baidu.com/s?wd=%E6%B5%B7%E8%88%AA%E7%AE%A1%E6%8E%A7%E7%A9%BA%E5%A7%90%E4%BD%93%E9%87%8D%EF%BC%9A%E8%B6%85%E9%87%8D%E5%81%9C%E9%A3%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全国“三夏”麦收进度过半](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E2%80%9C%E4%B8%89%E5%A4%8F%E2%80%9D%E9%BA%A6%E6%94%B6%E8%BF%9B%E5%BA%A6%E8%BF%87%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男生高考四门科目全部第1名出考场](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E9%AB%98%E8%80%83%E5%9B%9B%E9%97%A8%E7%A7%91%E7%9B%AE%E5%85%A8%E9%83%A8%E7%AC%AC1%E5%90%8D%E5%87%BA%E8%80%83%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [游客吐槽石老人浴场2元冲水30秒](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E5%90%90%E6%A7%BD%E7%9F%B3%E8%80%81%E4%BA%BA%E6%B5%B4%E5%9C%BA2%E5%85%83%E5%86%B2%E6%B0%B430%E7%A7%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [张颂文曾因AI合成视频失眠](https://www.baidu.com/s?wd=%E5%BC%A0%E9%A2%82%E6%96%87%E6%9B%BE%E5%9B%A0AI%E5%90%88%E6%88%90%E8%A7%86%E9%A2%91%E5%A4%B1%E7%9C%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [天津局部地面沉降 官方:属地质灾害](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E5%B1%80%E9%83%A8%E5%9C%B0%E9%9D%A2%E6%B2%89%E9%99%8D+%E5%AE%98%E6%96%B9%3A%E5%B1%9E%E5%9C%B0%E8%B4%A8%E7%81%BE%E5%AE%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [孩子们围抱张桂梅时喊抱轻一点](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E4%BB%AC%E5%9B%B4%E6%8A%B1%E5%BC%A0%E6%A1%82%E6%A2%85%E6%97%B6%E5%96%8A%E6%8A%B1%E8%BD%BB%E4%B8%80%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [柯以敏直播被连麦网友辱骂](https://www.baidu.com/s?wd=%E6%9F%AF%E4%BB%A5%E6%95%8F%E7%9B%B4%E6%92%AD%E8%A2%AB%E8%BF%9E%E9%BA%A6%E7%BD%91%E5%8F%8B%E8%BE%B1%E9%AA%82&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -43,7 +43,7 @@
 3. [海航管控空姐体重：超重停飞](https://www.baidu.com/s?wd=%E6%B5%B7%E8%88%AA%E7%AE%A1%E6%8E%A7%E7%A9%BA%E5%A7%90%E4%BD%93%E9%87%8D%EF%BC%9A%E8%B6%85%E9%87%8D%E5%81%9C%E9%A3%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全国“三夏”麦收进度过半](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E2%80%9C%E4%B8%89%E5%A4%8F%E2%80%9D%E9%BA%A6%E6%94%B6%E8%BF%9B%E5%BA%A6%E8%BF%87%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男生高考四门科目全部第1名出考场](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E9%AB%98%E8%80%83%E5%9B%9B%E9%97%A8%E7%A7%91%E7%9B%AE%E5%85%A8%E9%83%A8%E7%AC%AC1%E5%90%8D%E5%87%BA%E8%80%83%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [游客吐槽石老人浴场2元冲水30秒](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E5%90%90%E6%A7%BD%E7%9F%B3%E8%80%81%E4%BA%BA%E6%B5%B4%E5%9C%BA2%E5%85%83%E5%86%B2%E6%B0%B430%E7%A7%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [张颂文曾因AI合成视频失眠](https://www.baidu.com/s?wd=%E5%BC%A0%E9%A2%82%E6%96%87%E6%9B%BE%E5%9B%A0AI%E5%90%88%E6%88%90%E8%A7%86%E9%A2%91%E5%A4%B1%E7%9C%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [天津局部地面沉降 官方:属地质灾害](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E5%B1%80%E9%83%A8%E5%9C%B0%E9%9D%A2%E6%B2%89%E9%99%8D+%E5%AE%98%E6%96%B9%3A%E5%B1%9E%E5%9C%B0%E8%B4%A8%E7%81%BE%E5%AE%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [孩子们围抱张桂梅时喊抱轻一点](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E4%BB%AC%E5%9B%B4%E6%8A%B1%E5%BC%A0%E6%A1%82%E6%A2%85%E6%97%B6%E5%96%8A%E6%8A%B1%E8%BD%BB%E4%B8%80%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [柯以敏直播被连麦网友辱骂](https://www.baidu.com/s?wd=%E6%9F%AF%E4%BB%A5%E6%95%8F%E7%9B%B4%E6%92%AD%E8%A2%AB%E8%BF%9E%E9%BA%A6%E7%BD%91%E5%8F%8B%E8%BE%B1%E9%AA%82&sa=fyb_news&rsv_dl=fyb_news)<br />
