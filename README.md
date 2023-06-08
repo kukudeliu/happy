@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 10:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 10:50:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [巴厘岛命案](https://s.weibo.com/weibo?q=%E5%B7%B4%E5%8E%98%E5%B2%9B%E5%91%BD%E6%A1%88&t=31&band_rank=4&Refer=top)<br />
 5. [高考](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83&t=31&band_rank=5&Refer=top)<br />
 6. [中石油胡继勇被免职](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%9F%B3%E6%B2%B9%E8%83%A1%E7%BB%A7%E5%8B%87%E8%A2%AB%E5%85%8D%E8%81%8C%23&t=31&band_rank=6&Refer=top)<br />
-7. [陈晓更新小说](https://s.weibo.com/weibo?q=%E9%99%88%E6%99%93%E6%9B%B4%E6%96%B0%E5%B0%8F%E8%AF%B4&t=31&band_rank=7&Refer=top)<br />
-8. [高考历史](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E5%8E%86%E5%8F%B2&t=31&band_rank=8&Refer=top)<br />
+7. [高考历史](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E5%8E%86%E5%8F%B2&t=31&band_rank=7&Refer=top)<br />
+8. [陈晓更新小说](https://s.weibo.com/weibo?q=%E9%99%88%E6%99%93%E6%9B%B4%E6%96%B0%E5%B0%8F%E8%AF%B4&t=31&band_rank=8&Refer=top)<br />
 9. [演女丑出圈是一种什么体验](https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%A5%B3%E4%B8%91%E5%87%BA%E5%9C%88%E6%98%AF%E4%B8%80%E7%A7%8D%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
