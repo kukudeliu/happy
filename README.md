@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 11:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 11:15:01</h4></div>
 
 > 微博  
 
@@ -18,9 +18,9 @@
 2. [杭州有楼盘买房最多送两斤黄金，折合 47.28 万返现，当地楼市情况如何？开发商「内卷」会成常态吗？](https://www.zhihu.com/question/605337792)<br />
 3. [共享单车悄然涨价，1 小时 6.5 元，已贵过公交地铁，如何看待这一涨价行为？](https://www.zhihu.com/question/605241957)<br />
 4. [夏尔巴人如此擅长登山，为什么攀登珠穆朗玛峰的各种纪录，没有夏尔巴人？](https://www.zhihu.com/question/509831714)<br />
-5. [长沙夜市现爆炒鹅卵石 16 元一份，对此你有何看法？](https://www.zhihu.com/question/604881315)<br />
+5. [如何评价林志颖成为小鹏 G6 品牌智友？](https://www.zhihu.com/question/605038425)<br />
 6. [2023 高考数学题难度如何？哪道题让人印象深刻？](https://www.zhihu.com/question/605281198)<br />
-7. [如何评价林志颖成为小鹏 G6 品牌智友？](https://www.zhihu.com/question/605038425)<br />
+7. [长沙夜市现爆炒鹅卵石 16 元一份，对此你有何看法？](https://www.zhihu.com/question/604881315)<br />
 8. [海关总署消息「今年前 5 个月我国进出口总值 16.77 万亿元，同比增长 4.7%」，如何解读？](https://www.zhihu.com/question/605246256)<br />
 9. []()<br />
 
