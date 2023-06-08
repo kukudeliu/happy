@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 12:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 12:13:01</h4></div>
 
 > 微博  
 
@@ -33,7 +33,7 @@
 5. [定期存款利率告别“3时代”](https://www.baidu.com/s?wd=%E5%AE%9A%E6%9C%9F%E5%AD%98%E6%AC%BE%E5%88%A9%E7%8E%87%E5%91%8A%E5%88%AB%E2%80%9C3%E6%97%B6%E4%BB%A3%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [到底是鼠是鸭不应该这么难查](https://www.baidu.com/s?wd=%E5%88%B0%E5%BA%95%E6%98%AF%E9%BC%A0%E6%98%AF%E9%B8%AD%E4%B8%8D%E5%BA%94%E8%AF%A5%E8%BF%99%E4%B9%88%E9%9A%BE%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [牵手门涉事女子已被停职并接受调查](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E6%B6%89%E4%BA%8B%E5%A5%B3%E5%AD%90%E5%B7%B2%E8%A2%AB%E5%81%9C%E8%81%8C%E5%B9%B6%E6%8E%A5%E5%8F%97%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [陈晓更新小说](https://www.baidu.com/s?wd=%E9%99%88%E6%99%93%E6%9B%B4%E6%96%B0%E5%B0%8F%E8%AF%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [给裙子打“免职裙”标签合适吗](https://www.baidu.com/s?wd=%E7%BB%99%E8%A3%99%E5%AD%90%E6%89%93%E2%80%9C%E5%85%8D%E8%81%8C%E8%A3%99%E2%80%9D%E6%A0%87%E7%AD%BE%E5%90%88%E9%80%82%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [高考时没有一个孔子是饿着的](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E6%97%B6%E6%B2%A1%E6%9C%89%E4%B8%80%E4%B8%AA%E5%AD%94%E5%AD%90%E6%98%AF%E9%A5%BF%E7%9D%80%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [定期存款利率告别“3时代”](https://www.baidu.com/s?wd=%E5%AE%9A%E6%9C%9F%E5%AD%98%E6%AC%BE%E5%88%A9%E7%8E%87%E5%91%8A%E5%88%AB%E2%80%9C3%E6%97%B6%E4%BB%A3%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [到底是鼠是鸭不应该这么难查](https://www.baidu.com/s?wd=%E5%88%B0%E5%BA%95%E6%98%AF%E9%BC%A0%E6%98%AF%E9%B8%AD%E4%B8%8D%E5%BA%94%E8%AF%A5%E8%BF%99%E4%B9%88%E9%9A%BE%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [牵手门涉事女子已被停职并接受调查](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E6%B6%89%E4%BA%8B%E5%A5%B3%E5%AD%90%E5%B7%B2%E8%A2%AB%E5%81%9C%E8%81%8C%E5%B9%B6%E6%8E%A5%E5%8F%97%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [陈晓更新小说](https://www.baidu.com/s?wd=%E9%99%88%E6%99%93%E6%9B%B4%E6%96%B0%E5%B0%8F%E8%AF%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [给裙子打“免职裙”标签合适吗](https://www.baidu.com/s?wd=%E7%BB%99%E8%A3%99%E5%AD%90%E6%89%93%E2%80%9C%E5%85%8D%E8%81%8C%E8%A3%99%E2%80%9D%E6%A0%87%E7%AD%BE%E5%90%88%E9%80%82%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [高考时没有一个孔子是饿着的](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E6%97%B6%E6%B2%A1%E6%9C%89%E4%B8%80%E4%B8%AA%E5%AD%94%E5%AD%90%E6%98%AF%E9%A5%BF%E7%9D%80%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
