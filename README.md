@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 03:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 03:07:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [Uzi EDG](https://s.weibo.com/weibo?q=Uzi%20EDG&t=31&band_rank=4&Refer=top)<br />
 5. [Amber单杀Uzi](https://s.weibo.com/weibo?q=%23Amber%E5%8D%95%E6%9D%80Uzi%23&t=31&band_rank=5&Refer=top)<br />
 6. [高考结束张桂梅又躲进空教室](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E5%BC%A0%E6%A1%82%E6%A2%85%E5%8F%88%E8%BA%B2%E8%BF%9B%E7%A9%BA%E6%95%99%E5%AE%A4%23&t=31&band_rank=6&Refer=top)<br />
-7. [女生在宿舍发现学姐2年前留信](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E5%9C%A8%E5%AE%BF%E8%88%8D%E5%8F%91%E7%8E%B0%E5%AD%A6%E5%A7%902%E5%B9%B4%E5%89%8D%E7%95%99%E4%BF%A1%23&t=31&band_rank=7&Refer=top)<br />
-8. [杨紫赵露思撞衫](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%92%9E%E8%A1%AB%23&t=31&band_rank=8&Refer=top)<br />
+7. [杨紫赵露思撞衫](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%92%9E%E8%A1%AB%23&t=31&band_rank=7&Refer=top)<br />
+8. [女生在宿舍发现学姐2年前留信](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E5%9C%A8%E5%AE%BF%E8%88%8D%E5%8F%91%E7%8E%B0%E5%AD%A6%E5%A7%902%E5%B9%B4%E5%89%8D%E7%95%99%E4%BF%A1%23&t=31&band_rank=8&Refer=top)<br />
 9. [EDG AD](https://s.weibo.com/weibo?q=EDG%20AD&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -18,8 +18,8 @@
 2. [河南高考生吐槽统一配笔难用，招生办回应「有问题的笔已封存，积极配合换笔」，文具对于考生影响有多大？](https://www.zhihu.com/question/605486604)<br />
 3. [谢帆爆料 EDG 正在接触 Uzi，如果成功加盟，「永远滴神」能给 EDG 带来哪些改变？](https://www.zhihu.com/question/605487490)<br />
 4. [媒体评《狂飙》「不能为了反派人物生动性、丰满性过分给予『人性』加持」，如何看待反派塑造的「善恶边界」？](https://www.zhihu.com/question/605467664)<br />
-5. [媒体评「多家餐馆因在凉皮内放黄瓜丝被罚」，称「普法能否做在前面？」，如何看待此事？食品安全如何保障？](https://www.zhihu.com/question/605336026)<br />
-6. [珠峰获救的刘女士到长沙感谢施救者范江涛和谢如祥，哪些信息值得关注？](https://www.zhihu.com/question/605309194)<br />
+5. [珠峰获救的刘女士到长沙感谢施救者范江涛和谢如祥，哪些信息值得关注？](https://www.zhihu.com/question/605309194)<br />
+6. [媒体评「多家餐馆因在凉皮内放黄瓜丝被罚」，称「普法能否做在前面？」，如何看待此事？食品安全如何保障？](https://www.zhihu.com/question/605336026)<br />
 7. [吴磊骑电助力自行车（e-bike）去新疆，相比纯人力自行车这类车有哪些优势？](https://www.zhihu.com/question/604844013)<br />
 8. [近 700 万粉丝的汽车博主蔡老板侵犯特斯拉名誉权败诉，拒不向特斯拉道歉，被强制执行，如何看待此事？](https://www.zhihu.com/question/605112962)<br />
 9. [罕见病唯一药物唯铭赞即将退出中国，如何从商业角度解读此举？](https://www.zhihu.com/question/605244647)<br />
