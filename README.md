@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 10:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 10:29:02</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [2023 高考数学题难度如何？哪道题让人印象深刻？](https://www.zhihu.com/question/605281198)<br />
 7. [夏尔巴人如此擅长登山，为什么攀登珠穆朗玛峰的各种纪录，没有夏尔巴人？](https://www.zhihu.com/question/509831714)<br />
 8. [如何看待 2023 年 6 月 8 日 A 股市场？](https://www.zhihu.com/question/605344839)<br />
-9. [微软宣布放弃 Win10 后用户反向增多了，对此你怎么看？](https://www.zhihu.com/question/605027427)<br />
+9. [如何评价林志颖成为小鹏 G6 品牌智友？](https://www.zhihu.com/question/605038425)<br />
 
 > 百度  
 
