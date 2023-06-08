@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 15:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 15:56:01</h4></div>
 
 > 微博  
 
-1. [中国电信](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%94%B5%E4%BF%A1&t=31&band_rank=1&Refer=top)<br />
-2. [鼠头鸭脖食堂意见反馈群曝光](https://s.weibo.com/weibo?q=%23%E9%BC%A0%E5%A4%B4%E9%B8%AD%E8%84%96%E9%A3%9F%E5%A0%82%E6%84%8F%E8%A7%81%E5%8F%8D%E9%A6%88%E7%BE%A4%E6%9B%9D%E5%85%89%23&t=31&band_rank=2&Refer=top)<br />
+1. [鼠头鸭脖食堂意见反馈群曝光](https://s.weibo.com/weibo?q=%23%E9%BC%A0%E5%A4%B4%E9%B8%AD%E8%84%96%E9%A3%9F%E5%A0%82%E6%84%8F%E8%A7%81%E5%8F%8D%E9%A6%88%E7%BE%A4%E6%9B%9D%E5%85%89%23&t=31&band_rank=1&Refer=top)<br />
+2. [中国电信](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%94%B5%E4%BF%A1&t=31&band_rank=2&Refer=top)<br />
 3. [高考第二天](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E7%AC%AC%E4%BA%8C%E5%A4%A9%23&t=31&band_rank=3&Refer=top)<br />
 4. [Lisa露额头](https://s.weibo.com/weibo?q=Lisa%E9%9C%B2%E9%A2%9D%E5%A4%B4&t=31&band_rank=4&Refer=top)<br />
 5. [河南考生吐槽统一配备文具不好用](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E8%80%83%E7%94%9F%E5%90%90%E6%A7%BD%E7%BB%9F%E4%B8%80%E9%85%8D%E5%A4%87%E6%96%87%E5%85%B7%E4%B8%8D%E5%A5%BD%E7%94%A8%23&t=31&band_rank=5&Refer=top)<br />
