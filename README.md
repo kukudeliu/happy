@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 07:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 07:11:02</h4></div>
 
 > 微博  
 
 1. [Uzi](https://s.weibo.com/weibo?q=Uzi&t=31&band_rank=1&Refer=top)<br />
 2. [她是怎么忍住不用剪刀的](https://s.weibo.com/weibo?q=%E5%A5%B9%E6%98%AF%E6%80%8E%E4%B9%88%E5%BF%8D%E4%BD%8F%E4%B8%8D%E7%94%A8%E5%89%AA%E5%88%80%E7%9A%84&t=31&band_rank=2&Refer=top)<br />
 3. [高考第二天](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E7%AC%AC%E4%BA%8C%E5%A4%A9%23&t=31&band_rank=3&Refer=top)<br />
-4. [北大屠夫称大学生就业难关键在父母](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E5%B1%A0%E5%A4%AB%E7%A7%B0%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%B0%B1%E4%B8%9A%E9%9A%BE%E5%85%B3%E9%94%AE%E5%9C%A8%E7%88%B6%E6%AF%8D%23&t=31&band_rank=4&Refer=top)<br />
-5. [高考结束张桂梅又躲进空教室](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E5%BC%A0%E6%A1%82%E6%A2%85%E5%8F%88%E8%BA%B2%E8%BF%9B%E7%A9%BA%E6%95%99%E5%AE%A4%23&t=31&band_rank=5&Refer=top)<br />
+4. [高考结束张桂梅又躲进空教室](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E5%BC%A0%E6%A1%82%E6%A2%85%E5%8F%88%E8%BA%B2%E8%BF%9B%E7%A9%BA%E6%95%99%E5%AE%A4%23&t=31&band_rank=4&Refer=top)<br />
+5. [北大屠夫称大学生就业难关键在父母](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E5%B1%A0%E5%A4%AB%E7%A7%B0%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%B0%B1%E4%B8%9A%E9%9A%BE%E5%85%B3%E9%94%AE%E5%9C%A8%E7%88%B6%E6%AF%8D%23&t=31&band_rank=5&Refer=top)<br />
 6. [Amber单杀Uzi](https://s.weibo.com/weibo?q=%23Amber%E5%8D%95%E6%9D%80Uzi%23&t=31&band_rank=6&Refer=top)<br />
 7. [杨紫赵露思撞衫](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%92%9E%E8%A1%AB%23&t=31&band_rank=7&Refer=top)<br />
-8. [通知他们仨了吗](https://s.weibo.com/weibo?q=%23%E9%80%9A%E7%9F%A5%E4%BB%96%E4%BB%AC%E4%BB%A8%E4%BA%86%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [女生在宿舍发现学姐2年前留信](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E5%9C%A8%E5%AE%BF%E8%88%8D%E5%8F%91%E7%8E%B0%E5%AD%A6%E5%A7%902%E5%B9%B4%E5%89%8D%E7%95%99%E4%BF%A1%23&t=31&band_rank=9&Refer=top)<br />
+8. [女生在宿舍发现学姐2年前留信](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E5%9C%A8%E5%AE%BF%E8%88%8D%E5%8F%91%E7%8E%B0%E5%AD%A6%E5%A7%902%E5%B9%B4%E5%89%8D%E7%95%99%E4%BF%A1%23&t=31&band_rank=8&Refer=top)<br />
+9. [通知他们仨了吗](https://s.weibo.com/weibo?q=%23%E9%80%9A%E7%9F%A5%E4%BB%96%E4%BB%AC%E4%BB%A8%E4%BA%86%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
