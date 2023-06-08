@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 00:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 00:59:01</h4></div>
 
 > 微博  
 
@@ -32,8 +32,8 @@
 4. [全国“三夏”麦收进度过半](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E2%80%9C%E4%B8%89%E5%A4%8F%E2%80%9D%E9%BA%A6%E6%94%B6%E8%BF%9B%E5%BA%A6%E8%BF%87%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [梁实谈第27次高考：文综重大失误](https://www.baidu.com/s?wd=%E6%A2%81%E5%AE%9E%E8%B0%88%E7%AC%AC27%E6%AC%A1%E9%AB%98%E8%80%83%EF%BC%9A%E6%96%87%E7%BB%BC%E9%87%8D%E5%A4%A7%E5%A4%B1%E8%AF%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [马克龙：持刀袭击事件令全国震惊](https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%8B%E9%BE%99%EF%BC%9A%E6%8C%81%E5%88%80%E8%A2%AD%E5%87%BB%E4%BA%8B%E4%BB%B6%E4%BB%A4%E5%85%A8%E5%9B%BD%E9%9C%87%E6%83%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [广汽集团：汽车市场进入淘汰赛](https://www.baidu.com/s?wd=%E5%B9%BF%E6%B1%BD%E9%9B%86%E5%9B%A2%EF%BC%9A%E6%B1%BD%E8%BD%A6%E5%B8%82%E5%9C%BA%E8%BF%9B%E5%85%A5%E6%B7%98%E6%B1%B0%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [学生离校张桂梅又悄悄躲进教学楼](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E7%A6%BB%E6%A0%A1%E5%BC%A0%E6%A1%82%E6%A2%85%E5%8F%88%E6%82%84%E6%82%84%E8%BA%B2%E8%BF%9B%E6%95%99%E5%AD%A6%E6%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [大娘考点摆摊城管包圆送家长](https://www.baidu.com/s?wd=%E5%A4%A7%E5%A8%98%E8%80%83%E7%82%B9%E6%91%86%E6%91%8A%E5%9F%8E%E7%AE%A1%E5%8C%85%E5%9C%86%E9%80%81%E5%AE%B6%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [高考结束 女生跑出考场：想去染发](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F+%E5%A5%B3%E7%94%9F%E8%B7%91%E5%87%BA%E8%80%83%E5%9C%BA%EF%BC%9A%E6%83%B3%E5%8E%BB%E6%9F%93%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [天津局部地面沉降 官方:属地质灾害](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E5%B1%80%E9%83%A8%E5%9C%B0%E9%9D%A2%E6%B2%89%E9%99%8D+%E5%AE%98%E6%96%B9%3A%E5%B1%9E%E5%9C%B0%E8%B4%A8%E7%81%BE%E5%AE%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -44,6 +44,6 @@
 4. [全国“三夏”麦收进度过半](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E2%80%9C%E4%B8%89%E5%A4%8F%E2%80%9D%E9%BA%A6%E6%94%B6%E8%BF%9B%E5%BA%A6%E8%BF%87%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [梁实谈第27次高考：文综重大失误](https://www.baidu.com/s?wd=%E6%A2%81%E5%AE%9E%E8%B0%88%E7%AC%AC27%E6%AC%A1%E9%AB%98%E8%80%83%EF%BC%9A%E6%96%87%E7%BB%BC%E9%87%8D%E5%A4%A7%E5%A4%B1%E8%AF%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [马克龙：持刀袭击事件令全国震惊](https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%8B%E9%BE%99%EF%BC%9A%E6%8C%81%E5%88%80%E8%A2%AD%E5%87%BB%E4%BA%8B%E4%BB%B6%E4%BB%A4%E5%85%A8%E5%9B%BD%E9%9C%87%E6%83%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [广汽集团：汽车市场进入淘汰赛](https://www.baidu.com/s?wd=%E5%B9%BF%E6%B1%BD%E9%9B%86%E5%9B%A2%EF%BC%9A%E6%B1%BD%E8%BD%A6%E5%B8%82%E5%9C%BA%E8%BF%9B%E5%85%A5%E6%B7%98%E6%B1%B0%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [学生离校张桂梅又悄悄躲进教学楼](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E7%A6%BB%E6%A0%A1%E5%BC%A0%E6%A1%82%E6%A2%85%E5%8F%88%E6%82%84%E6%82%84%E8%BA%B2%E8%BF%9B%E6%95%99%E5%AD%A6%E6%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [大娘考点摆摊城管包圆送家长](https://www.baidu.com/s?wd=%E5%A4%A7%E5%A8%98%E8%80%83%E7%82%B9%E6%91%86%E6%91%8A%E5%9F%8E%E7%AE%A1%E5%8C%85%E5%9C%86%E9%80%81%E5%AE%B6%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [高考结束 女生跑出考场：想去染发](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F+%E5%A5%B3%E7%94%9F%E8%B7%91%E5%87%BA%E8%80%83%E5%9C%BA%EF%BC%9A%E6%83%B3%E5%8E%BB%E6%9F%93%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [天津局部地面沉降 官方:属地质灾害](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E5%B1%80%E9%83%A8%E5%9C%B0%E9%9D%A2%E6%B2%89%E9%99%8D+%E5%AE%98%E6%96%B9%3A%E5%B1%9E%E5%9C%B0%E8%B4%A8%E7%81%BE%E5%AE%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
