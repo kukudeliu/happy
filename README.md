@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 22:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 22:32:01</h4></div>
 
 > 微博  
 
-1. [Uzi EDG](https://s.weibo.com/weibo?q=Uzi%20EDG&t=31&band_rank=1&Refer=top)<br />
-2. [Amber单杀Uzi](https://s.weibo.com/weibo?q=%23Amber%E5%8D%95%E6%9D%80Uzi%23&t=31&band_rank=2&Refer=top)<br />
+1. [Amber单杀Uzi](https://s.weibo.com/weibo?q=%23Amber%E5%8D%95%E6%9D%80Uzi%23&t=31&band_rank=1&Refer=top)<br />
+2. [Uzi EDG](https://s.weibo.com/weibo?q=Uzi%20EDG&t=31&band_rank=2&Refer=top)<br />
 3. [高考第二天](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E7%AC%AC%E4%BA%8C%E5%A4%A9%23&t=31&band_rank=3&Refer=top)<br />
 4. [杨紫赵露思撞衫](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%92%9E%E8%A1%AB%23&t=31&band_rank=4&Refer=top)<br />
 5. [爱奇艺暑期档排播剧集](https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E6%9A%91%E6%9C%9F%E6%A1%A3%E6%8E%92%E6%92%AD%E5%89%A7%E9%9B%86%23&t=31&band_rank=5&Refer=top)<br />
@@ -33,7 +33,7 @@
 5. [梁实谈第27次高考：文综重大失误](https://www.baidu.com/s?wd=%E6%A2%81%E5%AE%9E%E8%B0%88%E7%AC%AC27%E6%AC%A1%E9%AB%98%E8%80%83%EF%BC%9A%E6%96%87%E7%BB%BC%E9%87%8D%E5%A4%A7%E5%A4%B1%E8%AF%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [高考结束 女生跑出考场：想去染发](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F+%E5%A5%B3%E7%94%9F%E8%B7%91%E5%87%BA%E8%80%83%E5%9C%BA%EF%BC%9A%E6%83%B3%E5%8E%BB%E6%9F%93%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [高考生开考在即被反锁家中](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E7%94%9F%E5%BC%80%E8%80%83%E5%9C%A8%E5%8D%B3%E8%A2%AB%E5%8F%8D%E9%94%81%E5%AE%B6%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [香港女子在公共场所拍裸照被捕](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%A5%B3%E5%AD%90%E5%9C%A8%E5%85%AC%E5%85%B1%E5%9C%BA%E6%89%80%E6%8B%8D%E8%A3%B8%E7%85%A7%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [第一生育大省也开始催生了](https://www.baidu.com/s?wd=%E7%AC%AC%E4%B8%80%E7%94%9F%E8%82%B2%E5%A4%A7%E7%9C%81%E4%B9%9F%E5%BC%80%E5%A7%8B%E5%82%AC%E7%94%9F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [天津局部地面沉降 官方:属地质灾害](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E5%B1%80%E9%83%A8%E5%9C%B0%E9%9D%A2%E6%B2%89%E9%99%8D+%E5%AE%98%E6%96%B9%3A%E5%B1%9E%E5%9C%B0%E8%B4%A8%E7%81%BE%E5%AE%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [梁实谈第27次高考：文综重大失误](https://www.baidu.com/s?wd=%E6%A2%81%E5%AE%9E%E8%B0%88%E7%AC%AC27%E6%AC%A1%E9%AB%98%E8%80%83%EF%BC%9A%E6%96%87%E7%BB%BC%E9%87%8D%E5%A4%A7%E5%A4%B1%E8%AF%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [高考结束 女生跑出考场：想去染发](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F+%E5%A5%B3%E7%94%9F%E8%B7%91%E5%87%BA%E8%80%83%E5%9C%BA%EF%BC%9A%E6%83%B3%E5%8E%BB%E6%9F%93%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [高考生开考在即被反锁家中](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E7%94%9F%E5%BC%80%E8%80%83%E5%9C%A8%E5%8D%B3%E8%A2%AB%E5%8F%8D%E9%94%81%E5%AE%B6%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [香港女子在公共场所拍裸照被捕](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%A5%B3%E5%AD%90%E5%9C%A8%E5%85%AC%E5%85%B1%E5%9C%BA%E6%89%80%E6%8B%8D%E8%A3%B8%E7%85%A7%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [第一生育大省也开始催生了](https://www.baidu.com/s?wd=%E7%AC%AC%E4%B8%80%E7%94%9F%E8%82%B2%E5%A4%A7%E7%9C%81%E4%B9%9F%E5%BC%80%E5%A7%8B%E5%82%AC%E7%94%9F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [天津局部地面沉降 官方:属地质灾害](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E5%B1%80%E9%83%A8%E5%9C%B0%E9%9D%A2%E6%B2%89%E9%99%8D+%E5%AE%98%E6%96%B9%3A%E5%B1%9E%E5%9C%B0%E8%B4%A8%E7%81%BE%E5%AE%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
