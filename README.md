@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 08:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 08:40:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [董思槿](https://s.weibo.com/weibo?q=%E8%91%A3%E6%80%9D%E6%A7%BF&t=31&band_rank=6&Refer=top)<br />
 7. [贾玲为了新角色要减重100斤](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E4%B8%BA%E4%BA%86%E6%96%B0%E8%A7%92%E8%89%B2%E8%A6%81%E5%87%8F%E9%87%8D100%E6%96%A4%23&t=31&band_rank=7&Refer=top)<br />
 8. [凤凰传奇一个火上辈子一个火下辈子](https://s.weibo.com/weibo?q=%23%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E4%B8%80%E4%B8%AA%E7%81%AB%E4%B8%8A%E8%BE%88%E5%AD%90%E4%B8%80%E4%B8%AA%E7%81%AB%E4%B8%8B%E8%BE%88%E5%AD%90%23&t=31&band_rank=8&Refer=top)<br />
-9. [欧雅若都当妈了](https://s.weibo.com/weibo?q=%23%E6%AC%A7%E9%9B%85%E8%8B%A5%E9%83%BD%E5%BD%93%E5%A6%88%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [胡锡进 这个人不知让什么冲昏了头脑](https://s.weibo.com/weibo?q=%E8%83%A1%E9%94%A1%E8%BF%9B%20%E8%BF%99%E4%B8%AA%E4%BA%BA%E4%B8%8D%E7%9F%A5%E8%AE%A9%E4%BB%80%E4%B9%88%E5%86%B2%E6%98%8F%E4%BA%86%E5%A4%B4%E8%84%91&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
