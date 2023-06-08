@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 14:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 14:24:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [第一天走错考场，第二天赶不上公交](https://www.baidu.com/s?wd=%E7%AC%AC%E4%B8%80%E5%A4%A9%E8%B5%B0%E9%94%99%E8%80%83%E5%9C%BA%EF%BC%8C%E7%AC%AC%E4%BA%8C%E5%A4%A9%E8%B5%B6%E4%B8%8D%E4%B8%8A%E5%85%AC%E4%BA%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [牵手门涉事女子已被停职并接受调查](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E6%B6%89%E4%BA%8B%E5%A5%B3%E5%AD%90%E5%B7%B2%E8%A2%AB%E5%81%9C%E8%81%8C%E5%B9%B6%E6%8E%A5%E5%8F%97%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [以为走错 到了新考场发现这下真错了](https://www.baidu.com/s?wd=%E4%BB%A5%E4%B8%BA%E8%B5%B0%E9%94%99+%E5%88%B0%E4%BA%86%E6%96%B0%E8%80%83%E5%9C%BA%E5%8F%91%E7%8E%B0%E8%BF%99%E4%B8%8B%E7%9C%9F%E9%94%99%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [“中国老公”悄然失宠东南亚](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BD%E8%80%81%E5%85%AC%E2%80%9D%E6%82%84%E7%84%B6%E5%A4%B1%E5%AE%A0%E4%B8%9C%E5%8D%97%E4%BA%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [全国将举办村BA比赛](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E5%B0%86%E4%B8%BE%E5%8A%9E%E6%9D%91BA%E6%AF%94%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [第一天走错考场，第二天赶不上公交](https://www.baidu.com/s?wd=%E7%AC%AC%E4%B8%80%E5%A4%A9%E8%B5%B0%E9%94%99%E8%80%83%E5%9C%BA%EF%BC%8C%E7%AC%AC%E4%BA%8C%E5%A4%A9%E8%B5%B6%E4%B8%8D%E4%B8%8A%E5%85%AC%E4%BA%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [牵手门涉事女子已被停职并接受调查](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E6%B6%89%E4%BA%8B%E5%A5%B3%E5%AD%90%E5%B7%B2%E8%A2%AB%E5%81%9C%E8%81%8C%E5%B9%B6%E6%8E%A5%E5%8F%97%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [以为走错 到了新考场发现这下真错了](https://www.baidu.com/s?wd=%E4%BB%A5%E4%B8%BA%E8%B5%B0%E9%94%99+%E5%88%B0%E4%BA%86%E6%96%B0%E8%80%83%E5%9C%BA%E5%8F%91%E7%8E%B0%E8%BF%99%E4%B8%8B%E7%9C%9F%E9%94%99%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [“中国老公”悄然失宠东南亚](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BD%E8%80%81%E5%85%AC%E2%80%9D%E6%82%84%E7%84%B6%E5%A4%B1%E5%AE%A0%E4%B8%9C%E5%8D%97%E4%BA%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [全国将举办村BA比赛](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E5%B0%86%E4%B8%BE%E5%8A%9E%E6%9D%91BA%E6%AF%94%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
