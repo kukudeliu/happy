@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 14:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 14:18:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [如何看待格力一直是压缩机领域标准制定的主导者？](https://www.zhihu.com/question/605247049)<br />
 7. []()<br />
 8. [高考结束换手机有什么推荐？](https://www.zhihu.com/question/605368890)<br />
-9. [离岸人民币兑美元跌破 7.14，触及 2023 年新低，哪些信息值得关注？](https://www.zhihu.com/question/605172547)<br />
+9. [数据库的国产化意味着什么？关键行业为什么必须数据库国产化？](https://www.zhihu.com/question/605281374)<br />
 
 > 百度  
 
