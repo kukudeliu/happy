@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 03:13:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 03:14:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [高考第二天](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E7%AC%AC%E4%BA%8C%E5%A4%A9%23&t=31&band_rank=3&Refer=top)<br />
 4. [Amber单杀Uzi](https://s.weibo.com/weibo?q=%23Amber%E5%8D%95%E6%9D%80Uzi%23&t=31&band_rank=4&Refer=top)<br />
 5. [Uzi EDG](https://s.weibo.com/weibo?q=Uzi%20EDG&t=31&band_rank=5&Refer=top)<br />
-6. [高考结束张桂梅又躲进空教室](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E5%BC%A0%E6%A1%82%E6%A2%85%E5%8F%88%E8%BA%B2%E8%BF%9B%E7%A9%BA%E6%95%99%E5%AE%A4%23&t=31&band_rank=6&Refer=top)<br />
-7. [杨紫赵露思撞衫](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%92%9E%E8%A1%AB%23&t=31&band_rank=7&Refer=top)<br />
-8. [EDG AD](https://s.weibo.com/weibo?q=EDG%20AD&t=31&band_rank=8&Refer=top)<br />
-9. [通知他们仨了吗](https://s.weibo.com/weibo?q=%23%E9%80%9A%E7%9F%A5%E4%BB%96%E4%BB%AC%E4%BB%A8%E4%BA%86%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
+6. [女生在宿舍发现学姐2年前留信](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E5%9C%A8%E5%AE%BF%E8%88%8D%E5%8F%91%E7%8E%B0%E5%AD%A6%E5%A7%902%E5%B9%B4%E5%89%8D%E7%95%99%E4%BF%A1%23&t=31&band_rank=6&Refer=top)<br />
+7. [高考结束张桂梅又躲进空教室](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E5%BC%A0%E6%A1%82%E6%A2%85%E5%8F%88%E8%BA%B2%E8%BF%9B%E7%A9%BA%E6%95%99%E5%AE%A4%23&t=31&band_rank=7&Refer=top)<br />
+8. [杨紫赵露思撞衫](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%92%9E%E8%A1%AB%23&t=31&band_rank=8&Refer=top)<br />
+9. [EDG AD](https://s.weibo.com/weibo?q=EDG%20AD&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -31,9 +31,9 @@
 3. [海航管控空姐体重：超重停飞](https://www.baidu.com/s?wd=%E6%B5%B7%E8%88%AA%E7%AE%A1%E6%8E%A7%E7%A9%BA%E5%A7%90%E4%BD%93%E9%87%8D%EF%BC%9A%E8%B6%85%E9%87%8D%E5%81%9C%E9%A3%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全国“三夏”麦收进度过半](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E2%80%9C%E4%B8%89%E5%A4%8F%E2%80%9D%E9%BA%A6%E6%94%B6%E8%BF%9B%E5%BA%A6%E8%BF%87%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [梁实谈第27次高考：文综重大失误](https://www.baidu.com/s?wd=%E6%A2%81%E5%AE%9E%E8%B0%88%E7%AC%AC27%E6%AC%A1%E9%AB%98%E8%80%83%EF%BC%9A%E6%96%87%E7%BB%BC%E9%87%8D%E5%A4%A7%E5%A4%B1%E8%AF%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [考生开考前1小时摔骨折民警送医](https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%E5%BC%80%E8%80%83%E5%89%8D1%E5%B0%8F%E6%97%B6%E6%91%94%E9%AA%A8%E6%8A%98%E6%B0%91%E8%AD%A6%E9%80%81%E5%8C%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [以为走错 到了新考场发现这下真错了](https://www.baidu.com/s?wd=%E4%BB%A5%E4%B8%BA%E8%B5%B0%E9%94%99+%E5%88%B0%E4%BA%86%E6%96%B0%E8%80%83%E5%9C%BA%E5%8F%91%E7%8E%B0%E8%BF%99%E4%B8%8B%E7%9C%9F%E9%94%99%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [第一生育大省也开始催生了](https://www.baidu.com/s?wd=%E7%AC%AC%E4%B8%80%E7%94%9F%E8%82%B2%E5%A4%A7%E7%9C%81%E4%B9%9F%E5%BC%80%E5%A7%8B%E5%82%AC%E7%94%9F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [每个考场都有自己的显眼包](https://www.baidu.com/s?wd=%E6%AF%8F%E4%B8%AA%E8%80%83%E5%9C%BA%E9%83%BD%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84%E6%98%BE%E7%9C%BC%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [大娘考点摆摊城管包圆送家长](https://www.baidu.com/s?wd=%E5%A4%A7%E5%A8%98%E8%80%83%E7%82%B9%E6%91%86%E6%91%8A%E5%9F%8E%E7%AE%A1%E5%8C%85%E5%9C%86%E9%80%81%E5%AE%B6%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [孩子们围抱张桂梅时喊抱轻一点](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E4%BB%AC%E5%9B%B4%E6%8A%B1%E5%BC%A0%E6%A1%82%E6%A2%85%E6%97%B6%E5%96%8A%E6%8A%B1%E8%BD%BB%E4%B8%80%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [天津局部地面沉降 官方:属地质灾害](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E5%B1%80%E9%83%A8%E5%9C%B0%E9%9D%A2%E6%B2%89%E9%99%8D+%E5%AE%98%E6%96%B9%3A%E5%B1%9E%E5%9C%B0%E8%B4%A8%E7%81%BE%E5%AE%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -43,7 +43,7 @@
 3. [海航管控空姐体重：超重停飞](https://www.baidu.com/s?wd=%E6%B5%B7%E8%88%AA%E7%AE%A1%E6%8E%A7%E7%A9%BA%E5%A7%90%E4%BD%93%E9%87%8D%EF%BC%9A%E8%B6%85%E9%87%8D%E5%81%9C%E9%A3%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全国“三夏”麦收进度过半](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E2%80%9C%E4%B8%89%E5%A4%8F%E2%80%9D%E9%BA%A6%E6%94%B6%E8%BF%9B%E5%BA%A6%E8%BF%87%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [梁实谈第27次高考：文综重大失误](https://www.baidu.com/s?wd=%E6%A2%81%E5%AE%9E%E8%B0%88%E7%AC%AC27%E6%AC%A1%E9%AB%98%E8%80%83%EF%BC%9A%E6%96%87%E7%BB%BC%E9%87%8D%E5%A4%A7%E5%A4%B1%E8%AF%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [考生开考前1小时摔骨折民警送医](https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%E5%BC%80%E8%80%83%E5%89%8D1%E5%B0%8F%E6%97%B6%E6%91%94%E9%AA%A8%E6%8A%98%E6%B0%91%E8%AD%A6%E9%80%81%E5%8C%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [以为走错 到了新考场发现这下真错了](https://www.baidu.com/s?wd=%E4%BB%A5%E4%B8%BA%E8%B5%B0%E9%94%99+%E5%88%B0%E4%BA%86%E6%96%B0%E8%80%83%E5%9C%BA%E5%8F%91%E7%8E%B0%E8%BF%99%E4%B8%8B%E7%9C%9F%E9%94%99%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [第一生育大省也开始催生了](https://www.baidu.com/s?wd=%E7%AC%AC%E4%B8%80%E7%94%9F%E8%82%B2%E5%A4%A7%E7%9C%81%E4%B9%9F%E5%BC%80%E5%A7%8B%E5%82%AC%E7%94%9F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [每个考场都有自己的显眼包](https://www.baidu.com/s?wd=%E6%AF%8F%E4%B8%AA%E8%80%83%E5%9C%BA%E9%83%BD%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84%E6%98%BE%E7%9C%BC%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [大娘考点摆摊城管包圆送家长](https://www.baidu.com/s?wd=%E5%A4%A7%E5%A8%98%E8%80%83%E7%82%B9%E6%91%86%E6%91%8A%E5%9F%8E%E7%AE%A1%E5%8C%85%E5%9C%86%E9%80%81%E5%AE%B6%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [孩子们围抱张桂梅时喊抱轻一点](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E4%BB%AC%E5%9B%B4%E6%8A%B1%E5%BC%A0%E6%A1%82%E6%A2%85%E6%97%B6%E5%96%8A%E6%8A%B1%E8%BD%BB%E4%B8%80%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [天津局部地面沉降 官方:属地质灾害](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E5%B1%80%E9%83%A8%E5%9C%B0%E9%9D%A2%E6%B2%89%E9%99%8D+%E5%AE%98%E6%96%B9%3A%E5%B1%9E%E5%9C%B0%E8%B4%A8%E7%81%BE%E5%AE%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
