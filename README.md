@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 13:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 13:36:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [鼠头鸭脖食堂意见反馈群曝光](https://s.weibo.com/weibo?q=%23%E9%BC%A0%E5%A4%B4%E9%B8%AD%E8%84%96%E9%A3%9F%E5%A0%82%E6%84%8F%E8%A7%81%E5%8F%8D%E9%A6%88%E7%BE%A4%E6%9B%9D%E5%85%89%23&t=31&band_rank=2&Refer=top)<br />
 3. [这份高考祝福穿越百年](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BB%BD%E9%AB%98%E8%80%83%E7%A5%9D%E7%A6%8F%E7%A9%BF%E8%B6%8A%E7%99%BE%E5%B9%B4%23&t=31&band_rank=3&Refer=top)<br />
 4. [庆余年2](https://s.weibo.com/weibo?q=%23%E5%BA%86%E4%BD%99%E5%B9%B42%23&t=31&band_rank=4&Refer=top)<br />
-5. [中国石油大学回应](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%9F%B3%E6%B2%B9%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%23&t=31&band_rank=5&Refer=top)<br />
-6. [高考历史](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E5%8E%86%E5%8F%B2&t=31&band_rank=6&Refer=top)<br />
+5. [高考历史](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E5%8E%86%E5%8F%B2&t=31&band_rank=5&Refer=top)<br />
+6. [中国石油大学回应](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%9F%B3%E6%B2%B9%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%23&t=31&band_rank=6&Refer=top)<br />
 7. [复旦研究生嫖娼被开除起诉学校被驳](https://s.weibo.com/weibo?q=%23%E5%A4%8D%E6%97%A6%E7%A0%94%E7%A9%B6%E7%94%9F%E5%AB%96%E5%A8%BC%E8%A2%AB%E5%BC%80%E9%99%A4%E8%B5%B7%E8%AF%89%E5%AD%A6%E6%A0%A1%E8%A2%AB%E9%A9%B3%23&t=31&band_rank=7&Refer=top)<br />
 8. [王润泽和奶奶](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%B6%A6%E6%B3%BD%E5%92%8C%E5%A5%B6%E5%A5%B6&t=31&band_rank=8&Refer=top)<br />
-9. [高考](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83&t=31&band_rank=9&Refer=top)<br />
+9. [长得还行迪丽热巴](https://s.weibo.com/weibo?q=%23%E9%95%BF%E5%BE%97%E8%BF%98%E8%A1%8C%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -20,8 +20,8 @@
 4. [2022-23 赛季 NBA 总决赛掘金轻取热火，总比分 2:1，约基奇、穆雷三双，如何评价这场比赛？](https://www.zhihu.com/question/605421218)<br />
 5. [夏尔巴人如此擅长登山，为什么攀登珠穆朗玛峰的各种纪录，没有夏尔巴人？](https://www.zhihu.com/question/509831714)<br />
 6. [梅西选择美职联，C 罗征战沙特联赛，欧洲足坛「梅罗时代」彻底画上句号，如何评价这样的足坛格局？](https://www.zhihu.com/question/605423210)<br />
-7. [离岸人民币兑美元跌破 7.14，触及 2023 年新低，哪些信息值得关注？](https://www.zhihu.com/question/605172547)<br />
-8. [媒体评「多家餐馆因在凉皮内放黄瓜丝被罚」，称「普法能否做在前面？」，如何看待此事？食品安全如何保障？](https://www.zhihu.com/question/605336026)<br />
+7. [媒体评「多家餐馆因在凉皮内放黄瓜丝被罚」，称「普法能否做在前面？」，如何看待此事？食品安全如何保障？](https://www.zhihu.com/question/605336026)<br />
+8. [离岸人民币兑美元跌破 7.14，触及 2023 年新低，哪些信息值得关注？](https://www.zhihu.com/question/605172547)<br />
 9. [如何看待格力一直是压缩机领域标准制定的主导者？](https://www.zhihu.com/question/605247049)<br />
 
 > 百度  
