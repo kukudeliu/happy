@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 20:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 20:22:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [高考第二天](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E7%AC%AC%E4%BA%8C%E5%A4%A9%23&t=31&band_rank=3&Refer=top)<br />
 4. [易梦玲主动加沈月微信](https://s.weibo.com/weibo?q=%23%E6%98%93%E6%A2%A6%E7%8E%B2%E4%B8%BB%E5%8A%A8%E5%8A%A0%E6%B2%88%E6%9C%88%E5%BE%AE%E4%BF%A1%23&t=31&band_rank=4&Refer=top)<br />
 5. [上海英语 我是吴磊](https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E8%8B%B1%E8%AF%AD%20%E6%88%91%E6%98%AF%E5%90%B4%E7%A3%8A&t=31&band_rank=5&Refer=top)<br />
-6. [高考英语](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E8%8B%B1%E8%AF%AD&t=31&band_rank=6&Refer=top)<br />
-7. [金毛误入考场被民警请出](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%AF%9B%E8%AF%AF%E5%85%A5%E8%80%83%E5%9C%BA%E8%A2%AB%E6%B0%91%E8%AD%A6%E8%AF%B7%E5%87%BA%23&t=31&band_rank=7&Refer=top)<br />
+6. [金毛误入考场被民警请出](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%AF%9B%E8%AF%AF%E5%85%A5%E8%80%83%E5%9C%BA%E8%A2%AB%E6%B0%91%E8%AD%A6%E8%AF%B7%E5%87%BA%23&t=31&band_rank=6&Refer=top)<br />
+7. [高考英语](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E8%8B%B1%E8%AF%AD&t=31&band_rank=7&Refer=top)<br />
 8. [成都太古里明确禁止未经允许街拍](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%A4%AA%E5%8F%A4%E9%87%8C%E6%98%8E%E7%A1%AE%E7%A6%81%E6%AD%A2%E6%9C%AA%E7%BB%8F%E5%85%81%E8%AE%B8%E8%A1%97%E6%8B%8D%23&t=31&band_rank=8&Refer=top)<br />
 9. [通知他们仨了吗](https://s.weibo.com/weibo?q=%23%E9%80%9A%E7%9F%A5%E4%BB%96%E4%BB%AC%E4%BB%A8%E4%BA%86%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
 
