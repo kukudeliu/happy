@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 17:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 17:20:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [通知他们仨了吗](https://s.weibo.com/weibo?q=%23%E9%80%9A%E7%9F%A5%E4%BB%96%E4%BB%AC%E4%BB%A8%E4%BA%86%E5%90%97%23&t=31&band_rank=5&Refer=top)<br />
 6. [董某某被停职](https://s.weibo.com/weibo?q=%23%E8%91%A3%E6%9F%90%E6%9F%90%E8%A2%AB%E5%81%9C%E8%81%8C%23&t=31&band_rank=6&Refer=top)<br />
 7. [Lisa露额头](https://s.weibo.com/weibo?q=Lisa%E9%9C%B2%E9%A2%9D%E5%A4%B4&t=31&band_rank=7&Refer=top)<br />
-8. [高考](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83&t=31&band_rank=8&Refer=top)<br />
+8. [柯以敏直播大怒](https://s.weibo.com/weibo?q=%23%E6%9F%AF%E4%BB%A5%E6%95%8F%E7%9B%B4%E6%92%AD%E5%A4%A7%E6%80%92%23&t=31&band_rank=8&Refer=top)<br />
 9. [成都太古里明确禁止未经允许街拍](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%A4%AA%E5%8F%A4%E9%87%8C%E6%98%8E%E7%A1%AE%E7%A6%81%E6%AD%A2%E6%9C%AA%E7%BB%8F%E5%85%81%E8%AE%B8%E8%A1%97%E6%8B%8D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
