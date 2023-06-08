@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 19:32:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 19:33:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [高考第二天](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E7%AC%AC%E4%BA%8C%E5%A4%A9%23&t=31&band_rank=3&Refer=top)<br />
 4. [高考英语](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E8%8B%B1%E8%AF%AD&t=31&band_rank=4&Refer=top)<br />
 5. [金毛误入考场被民警请出](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%AF%9B%E8%AF%AF%E5%85%A5%E8%80%83%E5%9C%BA%E8%A2%AB%E6%B0%91%E8%AD%A6%E8%AF%B7%E5%87%BA%23&t=31&band_rank=5&Refer=top)<br />
-6. [四川一公务员被曝出轨女同事](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E4%B8%80%E5%85%AC%E5%8A%A1%E5%91%98%E8%A2%AB%E6%9B%9D%E5%87%BA%E8%BD%A8%E5%A5%B3%E5%90%8C%E4%BA%8B%23&t=31&band_rank=6&Refer=top)<br />
+6. [957确认Uzi加入EDG](https://s.weibo.com/weibo?q=%23957%E7%A1%AE%E8%AE%A4Uzi%E5%8A%A0%E5%85%A5EDG%23&t=31&band_rank=6&Refer=top)<br />
 7. [张桂梅还穿着那件泛白的黑衬衣](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%A1%82%E6%A2%85%E8%BF%98%E7%A9%BF%E7%9D%80%E9%82%A3%E4%BB%B6%E6%B3%9B%E7%99%BD%E7%9A%84%E9%BB%91%E8%A1%AC%E8%A1%A3%23&t=31&band_rank=7&Refer=top)<br />
-8. [牵手门女当事人疑似清空社交账号](https://s.weibo.com/weibo?q=%23%E7%89%B5%E6%89%8B%E9%97%A8%E5%A5%B3%E5%BD%93%E4%BA%8B%E4%BA%BA%E7%96%91%E4%BC%BC%E6%B8%85%E7%A9%BA%E7%A4%BE%E4%BA%A4%E8%B4%A6%E5%8F%B7%23&t=31&band_rank=8&Refer=top)<br />
-9. [957确认Uzi加入EDG](https://s.weibo.com/weibo?q=%23957%E7%A1%AE%E8%AE%A4Uzi%E5%8A%A0%E5%85%A5EDG%23&t=31&band_rank=9&Refer=top)<br />
+8. [四川一公务员被曝出轨女同事](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E4%B8%80%E5%85%AC%E5%8A%A1%E5%91%98%E8%A2%AB%E6%9B%9D%E5%87%BA%E8%BD%A8%E5%A5%B3%E5%90%8C%E4%BA%8B%23&t=31&band_rank=8&Refer=top)<br />
+9. [牵手门女当事人疑似清空社交账号](https://s.weibo.com/weibo?q=%23%E7%89%B5%E6%89%8B%E9%97%A8%E5%A5%B3%E5%BD%93%E4%BA%8B%E4%BA%BA%E7%96%91%E4%BC%BC%E6%B8%85%E7%A9%BA%E7%A4%BE%E4%BA%A4%E8%B4%A6%E5%8F%B7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
