@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 11:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 11:48:01</h4></div>
 
 > 微博  
 
@@ -27,7 +27,7 @@
 > 百度  
 
 1. [启程的少年们 愿你们大胜归来](https://www.baidu.com/s?wd=%E5%90%AF%E7%A8%8B%E7%9A%84%E5%B0%91%E5%B9%B4%E4%BB%AC+%E6%84%BF%E4%BD%A0%E4%BB%AC%E5%A4%A7%E8%83%9C%E5%BD%92%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [高考第二天](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E7%AC%AC%E4%BA%8C%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [一考生开心出考场：物理简单](https://www.baidu.com/s?wd=%E4%B8%80%E8%80%83%E7%94%9F%E5%BC%80%E5%BF%83%E5%87%BA%E8%80%83%E5%9C%BA%EF%BC%9A%E7%89%A9%E7%90%86%E7%AE%80%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [河南一考生因迟到未能进入考场](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E8%80%83%E7%94%9F%E5%9B%A0%E8%BF%9F%E5%88%B0%E6%9C%AA%E8%83%BD%E8%BF%9B%E5%85%A5%E8%80%83%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [以平和心态看待高考](https://www.baidu.com/s?wd=%E4%BB%A5%E5%B9%B3%E5%92%8C%E5%BF%83%E6%80%81%E7%9C%8B%E5%BE%85%E9%AB%98%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [定期存款利率告别“3时代”](https://www.baidu.com/s?wd=%E5%AE%9A%E6%9C%9F%E5%AD%98%E6%AC%BE%E5%88%A9%E7%8E%87%E5%91%8A%E5%88%AB%E2%80%9C3%E6%97%B6%E4%BB%A3%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -39,7 +39,7 @@
 > 哔哩哔哩  
 
 1. [启程的少年们 愿你们大胜归来](https://www.baidu.com/s?wd=%E5%90%AF%E7%A8%8B%E7%9A%84%E5%B0%91%E5%B9%B4%E4%BB%AC+%E6%84%BF%E4%BD%A0%E4%BB%AC%E5%A4%A7%E8%83%9C%E5%BD%92%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [高考第二天](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E7%AC%AC%E4%BA%8C%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [一考生开心出考场：物理简单](https://www.baidu.com/s?wd=%E4%B8%80%E8%80%83%E7%94%9F%E5%BC%80%E5%BF%83%E5%87%BA%E8%80%83%E5%9C%BA%EF%BC%9A%E7%89%A9%E7%90%86%E7%AE%80%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [河南一考生因迟到未能进入考场](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E8%80%83%E7%94%9F%E5%9B%A0%E8%BF%9F%E5%88%B0%E6%9C%AA%E8%83%BD%E8%BF%9B%E5%85%A5%E8%80%83%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [以平和心态看待高考](https://www.baidu.com/s?wd=%E4%BB%A5%E5%B9%B3%E5%92%8C%E5%BF%83%E6%80%81%E7%9C%8B%E5%BE%85%E9%AB%98%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [定期存款利率告别“3时代”](https://www.baidu.com/s?wd=%E5%AE%9A%E6%9C%9F%E5%AD%98%E6%AC%BE%E5%88%A9%E7%8E%87%E5%91%8A%E5%88%AB%E2%80%9C3%E6%97%B6%E4%BB%A3%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
