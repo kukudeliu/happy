@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 14:27:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 14:28:01</h4></div>
 
 > 微博  
 
@@ -19,10 +19,10 @@
 3. [为什么王语嫣会认为段誉会是天下第一？](https://www.zhihu.com/question/603262456)<br />
 4. [媒体评「多家餐馆因在凉皮内放黄瓜丝被罚」，称「普法能否做在前面？」，如何看待此事？食品安全如何保障？](https://www.zhihu.com/question/605336026)<br />
 5. [夏尔巴人如此擅长登山，为什么攀登珠穆朗玛峰的各种纪录，没有夏尔巴人？](https://www.zhihu.com/question/509831714)<br />
-6. [如何看待格力一直是压缩机领域标准制定的主导者？](https://www.zhihu.com/question/605247049)<br />
-7. []()<br />
-8. [高考结束换手机有什么推荐？](https://www.zhihu.com/question/605368890)<br />
-9. [数据库的国产化意味着什么？关键行业为什么必须数据库国产化？](https://www.zhihu.com/question/605281374)<br />
+6. []()<br />
+7. [如何看待格力一直是压缩机领域标准制定的主导者？](https://www.zhihu.com/question/605247049)<br />
+8. [数据库的国产化意味着什么？关键行业为什么必须数据库国产化？](https://www.zhihu.com/question/605281374)<br />
+9. [高考结束换手机有什么推荐？](https://www.zhihu.com/question/605368890)<br />
 
 > 百度  
 
