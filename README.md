@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 20:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 20:19:01</h4></div>
 
 > 微博  
 
@@ -31,9 +31,9 @@
 3. [天津一区局部地面沉降 初步原因查明](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E4%B8%80%E5%8C%BA%E5%B1%80%E9%83%A8%E5%9C%B0%E9%9D%A2%E6%B2%89%E9%99%8D+%E5%88%9D%E6%AD%A5%E5%8E%9F%E5%9B%A0%E6%9F%A5%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全国“三夏”麦收进度过半](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E2%80%9C%E4%B8%89%E5%A4%8F%E2%80%9D%E9%BA%A6%E6%94%B6%E8%BF%9B%E5%BA%A6%E8%BF%87%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [江西通报考生迟到37分钟仍进入考场](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E9%80%9A%E6%8A%A5%E8%80%83%E7%94%9F%E8%BF%9F%E5%88%B037%E5%88%86%E9%92%9F%E4%BB%8D%E8%BF%9B%E5%85%A5%E8%80%83%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [江苏母亲致俩幼女饿死 被判无期](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E6%AF%8D%E4%BA%B2%E8%87%B4%E4%BF%A9%E5%B9%BC%E5%A5%B3%E9%A5%BF%E6%AD%BB+%E8%A2%AB%E5%88%A4%E6%97%A0%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [高考生睡过头外卖小哥将其送到考场](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E7%94%9F%E7%9D%A1%E8%BF%87%E5%A4%B4%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E5%B0%86%E5%85%B6%E9%80%81%E5%88%B0%E8%80%83%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [“街头牵手门”警示了什么？](https://www.baidu.com/s?wd=%E2%80%9C%E8%A1%97%E5%A4%B4%E7%89%B5%E6%89%8B%E9%97%A8%E2%80%9D%E8%AD%A6%E7%A4%BA%E4%BA%86%E4%BB%80%E4%B9%88%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [高考生睡过头外卖小哥将其送到考场](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E7%94%9F%E7%9D%A1%E8%BF%87%E5%A4%B4%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E5%B0%86%E5%85%B6%E9%80%81%E5%88%B0%E8%80%83%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [江苏母亲致俩幼女饿死 被判无期](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E6%AF%8D%E4%BA%B2%E8%87%B4%E4%BF%A9%E5%B9%BC%E5%A5%B3%E9%A5%BF%E6%AD%BB+%E8%A2%AB%E5%88%A4%E6%97%A0%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [多地高考落下帷幕 直击考生出场瞬间](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E9%AB%98%E8%80%83%E8%90%BD%E4%B8%8B%E5%B8%B7%E5%B9%95+%E7%9B%B4%E5%87%BB%E8%80%83%E7%94%9F%E5%87%BA%E5%9C%BA%E7%9E%AC%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -43,7 +43,7 @@
 3. [天津一区局部地面沉降 初步原因查明](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E4%B8%80%E5%8C%BA%E5%B1%80%E9%83%A8%E5%9C%B0%E9%9D%A2%E6%B2%89%E9%99%8D+%E5%88%9D%E6%AD%A5%E5%8E%9F%E5%9B%A0%E6%9F%A5%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全国“三夏”麦收进度过半](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E2%80%9C%E4%B8%89%E5%A4%8F%E2%80%9D%E9%BA%A6%E6%94%B6%E8%BF%9B%E5%BA%A6%E8%BF%87%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [江西通报考生迟到37分钟仍进入考场](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E9%80%9A%E6%8A%A5%E8%80%83%E7%94%9F%E8%BF%9F%E5%88%B037%E5%88%86%E9%92%9F%E4%BB%8D%E8%BF%9B%E5%85%A5%E8%80%83%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [江苏母亲致俩幼女饿死 被判无期](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E6%AF%8D%E4%BA%B2%E8%87%B4%E4%BF%A9%E5%B9%BC%E5%A5%B3%E9%A5%BF%E6%AD%BB+%E8%A2%AB%E5%88%A4%E6%97%A0%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [高考生睡过头外卖小哥将其送到考场](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E7%94%9F%E7%9D%A1%E8%BF%87%E5%A4%B4%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E5%B0%86%E5%85%B6%E9%80%81%E5%88%B0%E8%80%83%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [“街头牵手门”警示了什么？](https://www.baidu.com/s?wd=%E2%80%9C%E8%A1%97%E5%A4%B4%E7%89%B5%E6%89%8B%E9%97%A8%E2%80%9D%E8%AD%A6%E7%A4%BA%E4%BA%86%E4%BB%80%E4%B9%88%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [高考生睡过头外卖小哥将其送到考场](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E7%94%9F%E7%9D%A1%E8%BF%87%E5%A4%B4%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E5%B0%86%E5%85%B6%E9%80%81%E5%88%B0%E8%80%83%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [江苏母亲致俩幼女饿死 被判无期](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E6%AF%8D%E4%BA%B2%E8%87%B4%E4%BF%A9%E5%B9%BC%E5%A5%B3%E9%A5%BF%E6%AD%BB+%E8%A2%AB%E5%88%A4%E6%97%A0%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [多地高考落下帷幕 直击考生出场瞬间](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E9%AB%98%E8%80%83%E8%90%BD%E4%B8%8B%E5%B8%B7%E5%B9%95+%E7%9B%B4%E5%87%BB%E8%80%83%E7%94%9F%E5%87%BA%E5%9C%BA%E7%9E%AC%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
