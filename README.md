@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 22:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 22:28:01</h4></div>
 
 > 微博  
 
-1. [Uzi EDG](https://s.weibo.com/weibo?q=Uzi%20EDG&t=31&band_rank=1&Refer=top)<br />
-2. [Amber单杀Uzi](https://s.weibo.com/weibo?q=%23Amber%E5%8D%95%E6%9D%80Uzi%23&t=31&band_rank=2&Refer=top)<br />
+1. [Amber单杀Uzi](https://s.weibo.com/weibo?q=%23Amber%E5%8D%95%E6%9D%80Uzi%23&t=31&band_rank=1&Refer=top)<br />
+2. [Uzi EDG](https://s.weibo.com/weibo?q=Uzi%20EDG&t=31&band_rank=2&Refer=top)<br />
 3. [高考第二天](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E7%AC%AC%E4%BA%8C%E5%A4%A9%23&t=31&band_rank=3&Refer=top)<br />
 4. [杨紫赵露思撞衫](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%92%9E%E8%A1%AB%23&t=31&band_rank=4&Refer=top)<br />
 5. [爱奇艺暑期档排播剧集](https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E6%9A%91%E6%9C%9F%E6%A1%A3%E6%8E%92%E6%92%AD%E5%89%A7%E9%9B%86%23&t=31&band_rank=5&Refer=top)<br />
@@ -31,7 +31,7 @@
 3. [海航管控空姐体重：超重停飞](https://www.baidu.com/s?wd=%E6%B5%B7%E8%88%AA%E7%AE%A1%E6%8E%A7%E7%A9%BA%E5%A7%90%E4%BD%93%E9%87%8D%EF%BC%9A%E8%B6%85%E9%87%8D%E5%81%9C%E9%A3%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全国“三夏”麦收进度过半](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E2%80%9C%E4%B8%89%E5%A4%8F%E2%80%9D%E9%BA%A6%E6%94%B6%E8%BF%9B%E5%BA%A6%E8%BF%87%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [梁实谈第27次高考：文综重大失误](https://www.baidu.com/s?wd=%E6%A2%81%E5%AE%9E%E8%B0%88%E7%AC%AC27%E6%AC%A1%E9%AB%98%E8%80%83%EF%BC%9A%E6%96%87%E7%BB%BC%E9%87%8D%E5%A4%A7%E5%A4%B1%E8%AF%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [鼠头鸭脖食堂意见反馈群曝光](https://www.baidu.com/s?wd=%E9%BC%A0%E5%A4%B4%E9%B8%AD%E8%84%96%E9%A3%9F%E5%A0%82%E6%84%8F%E8%A7%81%E5%8F%8D%E9%A6%88%E7%BE%A4%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [高考生开考在即被反锁家中](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E7%94%9F%E5%BC%80%E8%80%83%E5%9C%A8%E5%8D%B3%E8%A2%AB%E5%8F%8D%E9%94%81%E5%AE%B6%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [香港女子在公共场所拍裸照被捕](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%A5%B3%E5%AD%90%E5%9C%A8%E5%85%AC%E5%85%B1%E5%9C%BA%E6%89%80%E6%8B%8D%E8%A3%B8%E7%85%A7%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [和尚街头搂女性说笑？民宗局回应](https://www.baidu.com/s?wd=%E5%92%8C%E5%B0%9A%E8%A1%97%E5%A4%B4%E6%90%82%E5%A5%B3%E6%80%A7%E8%AF%B4%E7%AC%91%EF%BC%9F%E6%B0%91%E5%AE%97%E5%B1%80%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [天津局部地面沉降 官方:属地质灾害](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E5%B1%80%E9%83%A8%E5%9C%B0%E9%9D%A2%E6%B2%89%E9%99%8D+%E5%AE%98%E6%96%B9%3A%E5%B1%9E%E5%9C%B0%E8%B4%A8%E7%81%BE%E5%AE%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -43,7 +43,7 @@
 3. [海航管控空姐体重：超重停飞](https://www.baidu.com/s?wd=%E6%B5%B7%E8%88%AA%E7%AE%A1%E6%8E%A7%E7%A9%BA%E5%A7%90%E4%BD%93%E9%87%8D%EF%BC%9A%E8%B6%85%E9%87%8D%E5%81%9C%E9%A3%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全国“三夏”麦收进度过半](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E2%80%9C%E4%B8%89%E5%A4%8F%E2%80%9D%E9%BA%A6%E6%94%B6%E8%BF%9B%E5%BA%A6%E8%BF%87%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [梁实谈第27次高考：文综重大失误](https://www.baidu.com/s?wd=%E6%A2%81%E5%AE%9E%E8%B0%88%E7%AC%AC27%E6%AC%A1%E9%AB%98%E8%80%83%EF%BC%9A%E6%96%87%E7%BB%BC%E9%87%8D%E5%A4%A7%E5%A4%B1%E8%AF%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [鼠头鸭脖食堂意见反馈群曝光](https://www.baidu.com/s?wd=%E9%BC%A0%E5%A4%B4%E9%B8%AD%E8%84%96%E9%A3%9F%E5%A0%82%E6%84%8F%E8%A7%81%E5%8F%8D%E9%A6%88%E7%BE%A4%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [高考生开考在即被反锁家中](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E7%94%9F%E5%BC%80%E8%80%83%E5%9C%A8%E5%8D%B3%E8%A2%AB%E5%8F%8D%E9%94%81%E5%AE%B6%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [香港女子在公共场所拍裸照被捕](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%A5%B3%E5%AD%90%E5%9C%A8%E5%85%AC%E5%85%B1%E5%9C%BA%E6%89%80%E6%8B%8D%E8%A3%B8%E7%85%A7%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [和尚街头搂女性说笑？民宗局回应](https://www.baidu.com/s?wd=%E5%92%8C%E5%B0%9A%E8%A1%97%E5%A4%B4%E6%90%82%E5%A5%B3%E6%80%A7%E8%AF%B4%E7%AC%91%EF%BC%9F%E6%B0%91%E5%AE%97%E5%B1%80%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [天津局部地面沉降 官方:属地质灾害](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E5%B1%80%E9%83%A8%E5%9C%B0%E9%9D%A2%E6%B2%89%E9%99%8D+%E5%AE%98%E6%96%B9%3A%E5%B1%9E%E5%9C%B0%E8%B4%A8%E7%81%BE%E5%AE%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
