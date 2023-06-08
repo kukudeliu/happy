@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 11:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 11:43:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [2022-23 赛季 NBA 总决赛掘金轻取热火，总比分 2:1，约基奇、穆雷三双，如何评价这场比赛？](https://www.zhihu.com/question/605421218)<br />
 6. [2023 高考数学题难度如何？哪道题让人印象深刻？](https://www.zhihu.com/question/605281198)<br />
 7. [离岸人民币兑美元跌破 7.14，触及 2023 年新低，哪些信息值得关注？](https://www.zhihu.com/question/605172547)<br />
-8. [长沙夜市现爆炒鹅卵石 16 元一份，对此你有何看法？](https://www.zhihu.com/question/604881315)<br />
-9. [为什么王语嫣会认为段誉会是天下第一？](https://www.zhihu.com/question/603262456)<br />
+8. [为什么王语嫣会认为段誉会是天下第一？](https://www.zhihu.com/question/603262456)<br />
+9. [长沙夜市现爆炒鹅卵石 16 元一份，对此你有何看法？](https://www.zhihu.com/question/604881315)<br />
 
 > 百度  
 
