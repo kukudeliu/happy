@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 08:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-08 08:16:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [微软宣布放弃 Win10 后用户反向增多了，对此你怎么看？](https://www.zhihu.com/question/605027427)<br />
 5. [长沙夜市现爆炒鹅卵石 16 元一份，对此你有何看法？](https://www.zhihu.com/question/604881315)<br />
 6. [2023 高考数学题难度如何？哪道题让人印象深刻？](https://www.zhihu.com/question/605281198)<br />
-7. [如何评价《崩坏：星穹铁道》1.1 版本同行任务《朋克洛德精神》？](https://www.zhihu.com/question/603250453)<br />
-8. [今年 618，你打算购买什么家电实现「去家务化」？](https://www.zhihu.com/question/603689254)<br />
-9. [夏天到了，有哪些自己在家就能做出的清爽夏日饮品？](https://www.zhihu.com/question/604252334)<br />
+7. []()<br />
+8. [如何评价《崩坏：星穹铁道》1.1 版本同行任务《朋克洛德精神》？](https://www.zhihu.com/question/603250453)<br />
+9. [今年 618，你打算购买什么家电实现「去家务化」？](https://www.zhihu.com/question/603689254)<br />
 
 > 百度  
 
