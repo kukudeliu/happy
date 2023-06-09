@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 23:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 23:07:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [美参院通过所谓「终止中国发展中国家地位法」，中方称「中国所做贡献远超绝大多数发达国家」，如何看待此事？](https://www.zhihu.com/question/605664006)<br />
 6. [如何看待《英雄联盟》主播刘谋在直播中因啃老话题与水友发生的讨论？](https://www.zhihu.com/question/605625422)<br />
 7. [酷似麒麟的「瑞兽」中华鬣羚现身云南，「四不像」的鬣羚分布都有哪些特点？它会是麒麟的原型吗？](https://www.zhihu.com/question/605708175)<br />
-8. [4 、 5 月房产市场活跃度继续下滑，核心原因是什么？一线城市解除限购能起到救市效果吗？](https://www.zhihu.com/question/605670642)<br />
-9. [2023 LPL 夏季赛 TES 2:1 TT，如何评价这场比赛？](https://www.zhihu.com/question/605681553)<br />
+8. [2023 LPL 夏季赛 TES 2:1 TT，如何评价这场比赛？](https://www.zhihu.com/question/605681553)<br />
+9. [普通省级行政区出生的人能记住自己省所有地级行政区吗?](https://www.zhihu.com/question/598498398)<br />
 
 > 百度  
 
