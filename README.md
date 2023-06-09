@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 17:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 17:25:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [怀孕的同事让我给她带冰奶茶](https://s.weibo.com/weibo?q=%23%E6%80%80%E5%AD%95%E7%9A%84%E5%90%8C%E4%BA%8B%E8%AE%A9%E6%88%91%E7%BB%99%E5%A5%B9%E5%B8%A6%E5%86%B0%E5%A5%B6%E8%8C%B6%23&t=31&band_rank=5&Refer=top)<br />
 6. [刘惜君绝了](https://s.weibo.com/weibo?q=%E5%88%98%E6%83%9C%E5%90%9B%E7%BB%9D%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [EXO确定于7月10日回归](https://s.weibo.com/weibo?q=%23EXO%E7%A1%AE%E5%AE%9A%E4%BA%8E7%E6%9C%8810%E6%97%A5%E5%9B%9E%E5%BD%92%23&t=31&band_rank=7&Refer=top)<br />
-8. [EDG啥时候官宣](https://s.weibo.com/weibo?q=%23EDG%E5%95%A5%E6%97%B6%E5%80%99%E5%AE%98%E5%AE%A3%23&t=31&band_rank=8&Refer=top)<br />
-9. [朴信惠Jennie将合作](https://s.weibo.com/weibo?q=%23%E6%9C%B4%E4%BF%A1%E6%83%A0Jennie%E5%B0%86%E5%90%88%E4%BD%9C%23&t=31&band_rank=9&Refer=top)<br />
+8. [朴信惠Jennie将合作](https://s.weibo.com/weibo?q=%23%E6%9C%B4%E4%BF%A1%E6%83%A0Jennie%E5%B0%86%E5%90%88%E4%BD%9C%23&t=31&band_rank=8&Refer=top)<br />
+9. [EDG啥时候官宣](https://s.weibo.com/weibo?q=%23EDG%E5%95%A5%E6%97%B6%E5%80%99%E5%AE%98%E5%AE%A3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
