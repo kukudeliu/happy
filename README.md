@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 22:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 22:10:01</h4></div>
 
 > 微博  
 
 1. [易烊千玺 评委](https://s.weibo.com/weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%20%E8%AF%84%E5%A7%94&t=31&band_rank=1&Refer=top)<br />
 2. [倪妮礼服](https://s.weibo.com/weibo?q=%E5%80%AA%E5%A6%AE%E7%A4%BC%E6%9C%8D&t=31&band_rank=2&Refer=top)<br />
-3. [为中国航天点赞](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E7%82%B9%E8%B5%9E%23&t=31&band_rank=3&Refer=top)<br />
+3. [杰克辣条 红色刑房](https://s.weibo.com/weibo?q=%E6%9D%B0%E5%85%8B%E8%BE%A3%E6%9D%A1%20%E7%BA%A2%E8%89%B2%E5%88%91%E6%88%BF&t=31&band_rank=3&Refer=top)<br />
 4. [BBC卧底记者扒出经营偷拍视频团伙](https://s.weibo.com/weibo?q=BBC%E5%8D%A7%E5%BA%95%E8%AE%B0%E8%80%85%E6%89%92%E5%87%BA%E7%BB%8F%E8%90%A5%E5%81%B7%E6%8B%8D%E8%A7%86%E9%A2%91%E5%9B%A2%E4%BC%99&t=31&band_rank=4&Refer=top)<br />
 5. [王源易烊千玺工作室出图](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%87%BA%E5%9B%BE%23&t=31&band_rank=5&Refer=top)<br />
 6. [四川大学回应女生曝光地铁大叔](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%94%9F%E6%9B%9D%E5%85%89%E5%9C%B0%E9%93%81%E5%A4%A7%E5%8F%94%23&t=31&band_rank=6&Refer=top)<br />
 7. [胡歌把吴磊抱起来了](https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E6%8A%8A%E5%90%B4%E7%A3%8A%E6%8A%B1%E8%B5%B7%E6%9D%A5%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [杰克辣条 红色刑房](https://s.weibo.com/weibo?q=%E6%9D%B0%E5%85%8B%E8%BE%A3%E6%9D%A1%20%E7%BA%A2%E8%89%B2%E5%88%91%E6%88%BF&t=31&band_rank=8&Refer=top)<br />
-9. [杨幂私服](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E7%A7%81%E6%9C%8D&t=31&band_rank=9&Refer=top)<br />
+8. [杨幂私服](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E7%A7%81%E6%9C%8D&t=31&band_rank=8&Refer=top)<br />
+9. [无字 乌兹](https://s.weibo.com/weibo?q=%E6%97%A0%E5%AD%97%20%E4%B9%8C%E5%85%B9&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [为何 23 年的梅西和 22 年的 C 罗一样没有五大联赛俱乐部报价，最后也是去了非主流联赛？](https://www.zhihu.com/question/605447222)<br />
 7. [如何看待《英雄联盟》主播刘谋在直播中因啃老话题与水友发生的讨论？](https://www.zhihu.com/question/605625422)<br />
 8. [华为推出首款全栈自主数据库 GaussDB，对此你有哪些期待？](https://www.zhihu.com/question/605234450)<br />
-9. [国内首批人工智能本科毕业生绝大部分选择考研，如何看待这一选择？](https://www.zhihu.com/theater/11126)<br />
+9. [4 、 5 月房产市场活跃度继续下滑，核心原因是什么？一线城市解除限购能起到救市效果吗？](https://www.zhihu.com/question/605670642)<br />
 
 > 百度  
 
