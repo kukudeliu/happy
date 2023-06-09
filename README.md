@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 19:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 19:46:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [2022 届本科毕业生仅 6.9% 月收入过万，超八成高职生起薪低于 6000 元，该薪资水平合理吗？](https://www.zhihu.com/question/605658808)<br />
 6. [游戏《原神》里最有气场的是谁？](https://www.zhihu.com/question/476751897)<br />
 7. [为何在高温天（40 度以上）空调制冷效果不好？](https://www.zhihu.com/question/404757863)<br />
-8. [榴莲的产量明明很高，为什么还卖那么贵？](https://www.zhihu.com/question/589135782)<br />
-9. [电影《教父》中，桑尼被害的深层原因是什么？](https://www.zhihu.com/question/600381053)<br />
+8. [电影《教父》中，桑尼被害的深层原因是什么？](https://www.zhihu.com/question/600381053)<br />
+9. [如果无法解决久坐，能否采用每周 150 分钟中等强度有氧运动来抵消久坐危害，保持身体健康？](https://www.zhihu.com/question/603999527)<br />
 
 > 百度  
 
