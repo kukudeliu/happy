@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 17:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 17:54:01</h4></div>
 
 > 微博  
 
@@ -7,18 +7,18 @@
 3. [高考过后最想做的一件事](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E8%BF%87%E5%90%8E%E6%9C%80%E6%83%B3%E5%81%9A%E7%9A%84%E4%B8%80%E4%BB%B6%E4%BA%8B%23&t=31&band_rank=3&Refer=top)<br />
 4. [徐志胜 别磕给大家磕头了](https://s.weibo.com/weibo?q=%E5%BE%90%E5%BF%97%E8%83%9C%20%E5%88%AB%E7%A3%95%E7%BB%99%E5%A4%A7%E5%AE%B6%E7%A3%95%E5%A4%B4%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
 5. [白鹿你不热吗](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E4%BD%A0%E4%B8%8D%E7%83%AD%E5%90%97%23&t=31&band_rank=5&Refer=top)<br />
-6. [朴信惠Jennie将合作](https://s.weibo.com/weibo?q=%23%E6%9C%B4%E4%BF%A1%E6%83%A0Jennie%E5%B0%86%E5%90%88%E4%BD%9C%23&t=31&band_rank=6&Refer=top)<br />
-7. [大黄蜂死了](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%BB%84%E8%9C%82%E6%AD%BB%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+6. [大黄蜂死了](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%BB%84%E8%9C%82%E6%AD%BB%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
+7. [朴信惠Jennie将合作](https://s.weibo.com/weibo?q=%23%E6%9C%B4%E4%BF%A1%E6%83%A0Jennie%E5%B0%86%E5%90%88%E4%BD%9C%23&t=31&band_rank=7&Refer=top)<br />
 8. [EDG啥时候官宣](https://s.weibo.com/weibo?q=%23EDG%E5%95%A5%E6%97%B6%E5%80%99%E5%AE%98%E5%AE%A3%23&t=31&band_rank=8&Refer=top)<br />
-9. [怀孕的同事让我给她带冰奶茶](https://s.weibo.com/weibo?q=%23%E6%80%80%E5%AD%95%E7%9A%84%E5%90%8C%E4%BA%8B%E8%AE%A9%E6%88%91%E7%BB%99%E5%A5%B9%E5%B8%A6%E5%86%B0%E5%A5%B6%E8%8C%B6%23&t=31&band_rank=9&Refer=top)<br />
+9. [EXO确定于7月10日回归](https://s.weibo.com/weibo?q=%23EXO%E7%A1%AE%E5%AE%9A%E4%BA%8E7%E6%9C%8810%E6%97%A5%E5%9B%9E%E5%BD%92%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [我国 5 月 CPI 同比上升 0.2%，PPI 同比下降 4.6%，如何解读？哪些信息值得关注？](https://www.zhihu.com/question/605623897)<br />
 2. [海航新规管控空姐体重「超重 10％ 立即停飞减重 」，属行业首次，新规是否涉及歧视等问题？是否违法？](https://www.zhihu.com/question/605556110)<br />
 3. [苏享茂哥哥称翟欣欣涉嫌敲诈勒索已被逮捕，这意味着什么？此前翟欣欣退还 660 万，此事或将如何进展？](https://www.zhihu.com/question/605647767)<br />
-4. [孩子严重烫伤 9 天才送医院，爸爸称「没必要」拒绝手术，现孩子被家长安排自行出院，如何看待家长行为？](https://www.zhihu.com/question/604863474)<br />
-5. [为什么华为手机国产率这么高，价格却降不下来？](https://www.zhihu.com/question/604699463)<br />
+4. [为什么华为手机国产率这么高，价格却降不下来？](https://www.zhihu.com/question/604699463)<br />
+5. [孩子严重烫伤 9 天才送医院，爸爸称「没必要」拒绝手术，现孩子被家长安排自行出院，如何看待家长行为？](https://www.zhihu.com/question/604863474)<br />
 6. [卡霍夫卡水电站大坝被破坏，到底是什么力量让能抵御核弹袭击的水坝「断成两半」？](https://www.zhihu.com/question/605615861)<br />
 7. [在机枪枪管上缠湿布是否可以达到水冷效果？](https://www.zhihu.com/question/605380401)<br />
 8. [生活中越来越多的小孩都开始佩戴眼镜，作为家长该如何教导孩子保护视力?](https://www.zhihu.com/question/605058208)<br />
@@ -33,8 +33,8 @@
 5. [女孩出考场与母亲同框被误认为姐妹](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%87%BA%E8%80%83%E5%9C%BA%E4%B8%8E%E6%AF%8D%E4%BA%B2%E5%90%8C%E6%A1%86%E8%A2%AB%E8%AF%AF%E8%AE%A4%E4%B8%BA%E5%A7%90%E5%A6%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [盗墓团伙穿清代龙袍炫耀](https://www.baidu.com/s?wd=%E7%9B%97%E5%A2%93%E5%9B%A2%E4%BC%99%E7%A9%BF%E6%B8%85%E4%BB%A3%E9%BE%99%E8%A2%8D%E7%82%AB%E8%80%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [主播穿牵手门同款裙带货被指蹭热度](https://www.baidu.com/s?wd=%E4%B8%BB%E6%92%AD%E7%A9%BF%E7%89%B5%E6%89%8B%E9%97%A8%E5%90%8C%E6%AC%BE%E8%A3%99%E5%B8%A6%E8%B4%A7%E8%A2%AB%E6%8C%87%E8%B9%AD%E7%83%AD%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [为清华15次高考的考生：真没那实力](https://www.baidu.com/s?wd=%E4%B8%BA%E6%B8%85%E5%8D%8E15%E6%AC%A1%E9%AB%98%E8%80%83%E7%9A%84%E8%80%83%E7%94%9F%EF%BC%9A%E7%9C%9F%E6%B2%A1%E9%82%A3%E5%AE%9E%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [英国开展“无条件发钱”实验](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E5%BC%80%E5%B1%95%E2%80%9C%E6%97%A0%E6%9D%A1%E4%BB%B6%E5%8F%91%E9%92%B1%E2%80%9D%E5%AE%9E%E9%AA%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [6岁女孩误吞口香糖后灵魂发问](https://www.baidu.com/s?wd=6%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%AF%AF%E5%90%9E%E5%8F%A3%E9%A6%99%E7%B3%96%E5%90%8E%E7%81%B5%E9%AD%82%E5%8F%91%E9%97%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [为清华15次高考的考生：真没那实力](https://www.baidu.com/s?wd=%E4%B8%BA%E6%B8%85%E5%8D%8E15%E6%AC%A1%E9%AB%98%E8%80%83%E7%9A%84%E8%80%83%E7%94%9F%EF%BC%9A%E7%9C%9F%E6%B2%A1%E9%82%A3%E5%AE%9E%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [女孩出考场与母亲同框被误认为姐妹](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%87%BA%E8%80%83%E5%9C%BA%E4%B8%8E%E6%AF%8D%E4%BA%B2%E5%90%8C%E6%A1%86%E8%A2%AB%E8%AF%AF%E8%AE%A4%E4%B8%BA%E5%A7%90%E5%A6%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [盗墓团伙穿清代龙袍炫耀](https://www.baidu.com/s?wd=%E7%9B%97%E5%A2%93%E5%9B%A2%E4%BC%99%E7%A9%BF%E6%B8%85%E4%BB%A3%E9%BE%99%E8%A2%8D%E7%82%AB%E8%80%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [主播穿牵手门同款裙带货被指蹭热度](https://www.baidu.com/s?wd=%E4%B8%BB%E6%92%AD%E7%A9%BF%E7%89%B5%E6%89%8B%E9%97%A8%E5%90%8C%E6%AC%BE%E8%A3%99%E5%B8%A6%E8%B4%A7%E8%A2%AB%E6%8C%87%E8%B9%AD%E7%83%AD%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [为清华15次高考的考生：真没那实力](https://www.baidu.com/s?wd=%E4%B8%BA%E6%B8%85%E5%8D%8E15%E6%AC%A1%E9%AB%98%E8%80%83%E7%9A%84%E8%80%83%E7%94%9F%EF%BC%9A%E7%9C%9F%E6%B2%A1%E9%82%A3%E5%AE%9E%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [英国开展“无条件发钱”实验](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E5%BC%80%E5%B1%95%E2%80%9C%E6%97%A0%E6%9D%A1%E4%BB%B6%E5%8F%91%E9%92%B1%E2%80%9D%E5%AE%9E%E9%AA%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [6岁女孩误吞口香糖后灵魂发问](https://www.baidu.com/s?wd=6%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%AF%AF%E5%90%9E%E5%8F%A3%E9%A6%99%E7%B3%96%E5%90%8E%E7%81%B5%E9%AD%82%E5%8F%91%E9%97%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [为清华15次高考的考生：真没那实力](https://www.baidu.com/s?wd=%E4%B8%BA%E6%B8%85%E5%8D%8E15%E6%AC%A1%E9%AB%98%E8%80%83%E7%9A%84%E8%80%83%E7%94%9F%EF%BC%9A%E7%9C%9F%E6%B2%A1%E9%82%A3%E5%AE%9E%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
