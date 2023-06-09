@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 22:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 22:45:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [胡歌把吴磊抱起来了](https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E6%8A%8A%E5%90%B4%E7%A3%8A%E6%8A%B1%E8%B5%B7%E6%9D%A5%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [四川大学回应女生曝光地铁大叔](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%94%9F%E6%9B%9D%E5%85%89%E5%9C%B0%E9%93%81%E5%A4%A7%E5%8F%94%23&t=31&band_rank=6&Refer=top)<br />
 7. [长沙一公司取消了所有的调休](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B2%99%E4%B8%80%E5%85%AC%E5%8F%B8%E5%8F%96%E6%B6%88%E4%BA%86%E6%89%80%E6%9C%89%E7%9A%84%E8%B0%83%E4%BC%91%23&t=31&band_rank=7&Refer=top)<br />
-8. [王源易烊千玺工作室出图](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%87%BA%E5%9B%BE%23&t=31&band_rank=8&Refer=top)<br />
+8. [倪妮第二套](https://s.weibo.com/weibo?q=%23%E5%80%AA%E5%A6%AE%E7%AC%AC%E4%BA%8C%E5%A5%97%23&t=31&band_rank=8&Refer=top)<br />
 9. [无字 乌兹](https://s.weibo.com/weibo?q=%E6%97%A0%E5%AD%97%20%E4%B9%8C%E5%85%B9&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -21,8 +21,8 @@
 5. [美参院通过所谓「终止中国发展中国家地位法」，中方称「中国所做贡献远超绝大多数发达国家」，如何看待此事？](https://www.zhihu.com/question/605664006)<br />
 6. [如何看待《英雄联盟》主播刘谋在直播中因啃老话题与水友发生的讨论？](https://www.zhihu.com/question/605625422)<br />
 7. [4 、 5 月房产市场活跃度继续下滑，核心原因是什么？一线城市解除限购能起到救市效果吗？](https://www.zhihu.com/question/605670642)<br />
-8. [华为推出首款全栈自主数据库 GaussDB，对此你有哪些期待？](https://www.zhihu.com/question/605234450)<br />
-9. [为何 23 年的梅西和 22 年的 C 罗一样没有五大联赛俱乐部报价，最后也是去了非主流联赛？](https://www.zhihu.com/question/605447222)<br />
+8. [法律专家称翟欣欣「最高可获无期徒刑」，如何看待这一观点？「敲诈勒索罪」的量刑标准是怎样的？](https://www.zhihu.com/question/605717059)<br />
+9. [酷似麒麟的「瑞兽」中华鬣羚现身云南，「四不像」的鬣羚分布都有哪些特点？它会是麒麟的原型吗？](https://www.zhihu.com/question/605708175)<br />
 
 > 百度  
 
