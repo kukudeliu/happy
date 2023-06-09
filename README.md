@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 17:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 17:06:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [怀孕的同事让我给她带冰奶茶](https://s.weibo.com/weibo?q=%23%E6%80%80%E5%AD%95%E7%9A%84%E5%90%8C%E4%BA%8B%E8%AE%A9%E6%88%91%E7%BB%99%E5%A5%B9%E5%B8%A6%E5%86%B0%E5%A5%B6%E8%8C%B6%23&t=31&band_rank=5&Refer=top)<br />
 6. [EXO确定于7月10日回归](https://s.weibo.com/weibo?q=%23EXO%E7%A1%AE%E5%AE%9A%E4%BA%8E7%E6%9C%8810%E6%97%A5%E5%9B%9E%E5%BD%92%23&t=31&band_rank=6&Refer=top)<br />
 7. [刘惜君绝了](https://s.weibo.com/weibo?q=%E5%88%98%E6%83%9C%E5%90%9B%E7%BB%9D%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
-8. [玉骨遥](https://s.weibo.com/weibo?q=%E7%8E%89%E9%AA%A8%E9%81%A5&t=31&band_rank=8&Refer=top)<br />
-9. [EDG啥时候官宣](https://s.weibo.com/weibo?q=%23EDG%E5%95%A5%E6%97%B6%E5%80%99%E5%AE%98%E5%AE%A3%23&t=31&band_rank=9&Refer=top)<br />
+8. [EDG啥时候官宣](https://s.weibo.com/weibo?q=%23EDG%E5%95%A5%E6%97%B6%E5%80%99%E5%AE%98%E5%AE%A3%23&t=31&band_rank=8&Refer=top)<br />
+9. [玉骨遥](https://s.weibo.com/weibo?q=%E7%8E%89%E9%AA%A8%E9%81%A5&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [卡霍夫卡水电站大坝被破坏，到底是什么力量让能抵御核弹袭击的水坝「断成两半」？](https://www.zhihu.com/question/605615861)<br />
 7. [2023 年国考补录计划超 3000 人，这一数据说明了什么？](https://www.zhihu.com/question/604866549)<br />
 8. [三部门就依法惩治网暴犯罪征求意见，编造「涉性」话题侵害他人人格尊严等情况将从重处罚，哪些信息值得关注？](https://www.zhihu.com/question/605655675)<br />
-9. [422 个巅峰博尔特接力跑 422X100 马拉松，能把马拉松跑进 1 小时吗？](https://www.zhihu.com/question/604848279)<br />
+9. [集成灶会颠覆油烟机吗？](https://www.zhihu.com/question/417888594)<br />
 
 > 百度  
 
