@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 03:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 03:59:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [高校学费告别5000元时代](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E5%AD%A6%E8%B4%B9%E5%91%8A%E5%88%AB5000%E5%85%83%E6%97%B6%E4%BB%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [6岁女孩误吞口香糖后灵魂发问](https://www.baidu.com/s?wd=6%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%AF%AF%E5%90%9E%E5%8F%A3%E9%A6%99%E7%B3%96%E5%90%8E%E7%81%B5%E9%AD%82%E5%8F%91%E9%97%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [牵手门持续发酵 还有几点疑问待解](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E6%8C%81%E7%BB%AD%E5%8F%91%E9%85%B5+%E8%BF%98%E6%9C%89%E5%87%A0%E7%82%B9%E7%96%91%E9%97%AE%E5%BE%85%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [一家5口举女儿偶像立牌接考](https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B65%E5%8F%A3%E4%B8%BE%E5%A5%B3%E5%84%BF%E5%81%B6%E5%83%8F%E7%AB%8B%E7%89%8C%E6%8E%A5%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [3岁男孩患象鼻病全球仅34例](https://www.baidu.com/s?wd=3%E5%B2%81%E7%94%B7%E5%AD%A9%E6%82%A3%E8%B1%A1%E9%BC%BB%E7%97%85%E5%85%A8%E7%90%83%E4%BB%8534%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [酷似麒麟的瑞兽中华鬣羚现身](https://www.baidu.com/s?wd=%E9%85%B7%E4%BC%BC%E9%BA%92%E9%BA%9F%E7%9A%84%E7%91%9E%E5%85%BD%E4%B8%AD%E5%8D%8E%E9%AC%A3%E7%BE%9A%E7%8E%B0%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [公鸡打鸣影响考生 主人：今晚吃鸡](https://www.baidu.com/s?wd=%E5%85%AC%E9%B8%A1%E6%89%93%E9%B8%A3%E5%BD%B1%E5%93%8D%E8%80%83%E7%94%9F+%E4%B8%BB%E4%BA%BA%EF%BC%9A%E4%BB%8A%E6%99%9A%E5%90%83%E9%B8%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [高校学费告别5000元时代](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E5%AD%A6%E8%B4%B9%E5%91%8A%E5%88%AB5000%E5%85%83%E6%97%B6%E4%BB%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [6岁女孩误吞口香糖后灵魂发问](https://www.baidu.com/s?wd=6%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%AF%AF%E5%90%9E%E5%8F%A3%E9%A6%99%E7%B3%96%E5%90%8E%E7%81%B5%E9%AD%82%E5%8F%91%E9%97%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [牵手门持续发酵 还有几点疑问待解](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E6%8C%81%E7%BB%AD%E5%8F%91%E9%85%B5+%E8%BF%98%E6%9C%89%E5%87%A0%E7%82%B9%E7%96%91%E9%97%AE%E5%BE%85%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [一家5口举女儿偶像立牌接考](https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B65%E5%8F%A3%E4%B8%BE%E5%A5%B3%E5%84%BF%E5%81%B6%E5%83%8F%E7%AB%8B%E7%89%8C%E6%8E%A5%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [3岁男孩患象鼻病全球仅34例](https://www.baidu.com/s?wd=3%E5%B2%81%E7%94%B7%E5%AD%A9%E6%82%A3%E8%B1%A1%E9%BC%BB%E7%97%85%E5%85%A8%E7%90%83%E4%BB%8534%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [酷似麒麟的瑞兽中华鬣羚现身](https://www.baidu.com/s?wd=%E9%85%B7%E4%BC%BC%E9%BA%92%E9%BA%9F%E7%9A%84%E7%91%9E%E5%85%BD%E4%B8%AD%E5%8D%8E%E9%AC%A3%E7%BE%9A%E7%8E%B0%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [公鸡打鸣影响考生 主人：今晚吃鸡](https://www.baidu.com/s?wd=%E5%85%AC%E9%B8%A1%E6%89%93%E9%B8%A3%E5%BD%B1%E5%93%8D%E8%80%83%E7%94%9F+%E4%B8%BB%E4%BA%BA%EF%BC%9A%E4%BB%8A%E6%99%9A%E5%90%83%E9%B8%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
