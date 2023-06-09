@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 06:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 06:22:01</h4></div>
 
 > 微博  
 
@@ -10,15 +10,15 @@
 6. [四川大学回应女生曝光地铁大叔](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%94%9F%E6%9B%9D%E5%85%89%E5%9C%B0%E9%93%81%E5%A4%A7%E5%8F%94%23&t=31&band_rank=6&Refer=top)<br />
 7. [照相馆学徒冒死留下南京大屠杀证据](https://s.weibo.com/weibo?q=%23%E7%85%A7%E7%9B%B8%E9%A6%86%E5%AD%A6%E5%BE%92%E5%86%92%E6%AD%BB%E7%95%99%E4%B8%8B%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%9D%80%E8%AF%81%E6%8D%AE%23&t=31&band_rank=7&Refer=top)<br />
 8. [注册不了张z被曝专业是新闻传播](https://s.weibo.com/weibo?q=%23%E6%B3%A8%E5%86%8C%E4%B8%8D%E4%BA%86%E5%BC%A0z%E8%A2%AB%E6%9B%9D%E4%B8%93%E4%B8%9A%E6%98%AF%E6%96%B0%E9%97%BB%E4%BC%A0%E6%92%AD%23&t=31&band_rank=8&Refer=top)<br />
-9. [EDG首发名单](https://s.weibo.com/weibo?q=%23EDG%E9%A6%96%E5%8F%91%E5%90%8D%E5%8D%95%23&t=31&band_rank=9&Refer=top)<br />
+9. [易烊千玺 评委](https://s.weibo.com/weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%20%E8%AF%84%E5%A7%94&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [如何看待《英雄联盟》主播刘谋在直播中因啃老话题与水友发生的讨论？](https://www.zhihu.com/question/605625422)<br />
 2. [美参院通过所谓「终止中国发展中国家地位法」，中方称「中国所做贡献远超绝大多数发达国家」，如何看待此事？](https://www.zhihu.com/question/605664006)<br />
 3. []()<br />
-4. [卡霍夫卡水电站大坝被破坏，到底是什么力量让能抵御核弹袭击的水坝「断成两半」？](https://www.zhihu.com/question/605615861)<br />
-5. [印度教科书删除元素周期表及进化论，教育界对此感到「莫名其妙」，如何看待此事？会对学生带来哪些影响？](https://www.zhihu.com/question/604386757)<br />
+4. [印度教科书删除元素周期表及进化论，教育界对此感到「莫名其妙」，如何看待此事？会对学生带来哪些影响？](https://www.zhihu.com/question/604386757)<br />
+5. [卡霍夫卡水电站大坝被破坏，到底是什么力量让能抵御核弹袭击的水坝「断成两半」？](https://www.zhihu.com/question/605615861)<br />
 6. [酷似麒麟的「瑞兽」中华鬣羚现身云南，「四不像」的鬣羚分布都有哪些特点？它会是麒麟的原型吗？](https://www.zhihu.com/question/605708175)<br />
 7. [为何 23 年的梅西和 22 年的 C 罗一样没有五大联赛俱乐部报价，最后也是去了非主流联赛？](https://www.zhihu.com/question/605447222)<br />
 8. [如何获取正版的 office365 并永久使用？](https://www.zhihu.com/question/494557967)<br />
