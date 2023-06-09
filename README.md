@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 13:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 13:28:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [孩子你配享太庙](https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E4%BD%A0%E9%85%8D%E4%BA%AB%E5%A4%AA%E5%BA%99%23&t=31&band_rank=6&Refer=top)<br />
 7. [跑男泰国](https://s.weibo.com/weibo?q=%E8%B7%91%E7%94%B7%E6%B3%B0%E5%9B%BD&t=31&band_rank=7&Refer=top)<br />
 8. [赖冠霖今年没有参加高考](https://s.weibo.com/weibo?q=%23%E8%B5%96%E5%86%A0%E9%9C%96%E4%BB%8A%E5%B9%B4%E6%B2%A1%E6%9C%89%E5%8F%82%E5%8A%A0%E9%AB%98%E8%80%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [跑男最后一期录制阵容](https://s.weibo.com/weibo?q=%23%E8%B7%91%E7%94%B7%E6%9C%80%E5%90%8E%E4%B8%80%E6%9C%9F%E5%BD%95%E5%88%B6%E9%98%B5%E5%AE%B9%23&t=31&band_rank=9&Refer=top)<br />
+9. [山东政治 好崩溃](https://s.weibo.com/weibo?q=%E5%B1%B1%E4%B8%9C%E6%94%BF%E6%B2%BB%20%E5%A5%BD%E5%B4%A9%E6%BA%83&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
