@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 18:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 18:27:01</h4></div>
 
 > 微博  
 
@@ -19,8 +19,8 @@
 3. [海航新规管控空姐体重「超重 10％ 立即停飞减重 」，属行业首次，新规是否涉及歧视等问题？是否违法？](https://www.zhihu.com/question/605556110)<br />
 4. [为什么华为手机国产率这么高，价格却降不下来？](https://www.zhihu.com/question/604699463)<br />
 5. [卡霍夫卡水电站大坝被破坏，到底是什么力量让能抵御核弹袭击的水坝「断成两半」？](https://www.zhihu.com/question/605615861)<br />
-6. [在机枪枪管上缠湿布是否可以达到水冷效果？](https://www.zhihu.com/question/605380401)<br />
-7. [2022 届本科毕业生仅 6.9% 月收入过万，超八成高职生起薪低于 6000 元，该薪资水平合理吗？](https://www.zhihu.com/question/605658808)<br />
+6. [2022 届本科毕业生仅 6.9% 月收入过万，超八成高职生起薪低于 6000 元，该薪资水平合理吗？](https://www.zhihu.com/question/605658808)<br />
+7. [在机枪枪管上缠湿布是否可以达到水冷效果？](https://www.zhihu.com/question/605380401)<br />
 8. [生活中越来越多的小孩都开始佩戴眼镜，作为家长该如何教导孩子保护视力?](https://www.zhihu.com/question/605058208)<br />
 9. [游戏《原神》里最有气场的是谁？](https://www.zhihu.com/question/476751897)<br />
 
