@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 09:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 09:05:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [LBL官宣uzi离队](https://s.weibo.com/weibo?q=%23LBL%E5%AE%98%E5%AE%A3uzi%E7%A6%BB%E9%98%9F%23&t=31&band_rank=5&Refer=top)<br />
 6. [千万不要动学姐留下的东西](https://s.weibo.com/weibo?q=%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E5%8A%A8%E5%AD%A6%E5%A7%90%E7%95%99%E4%B8%8B%E7%9A%84%E4%B8%9C%E8%A5%BF&t=31&band_rank=6&Refer=top)<br />
 7. [肝脏移植前后肤色对比](https://s.weibo.com/weibo?q=%E8%82%9D%E8%84%8F%E7%A7%BB%E6%A4%8D%E5%89%8D%E5%90%8E%E8%82%A4%E8%89%B2%E5%AF%B9%E6%AF%94&t=31&band_rank=7&Refer=top)<br />
-8. [Amber单杀Uzi](https://s.weibo.com/weibo?q=%23Amber%E5%8D%95%E6%9D%80Uzi%23&t=31&band_rank=8&Refer=top)<br />
-9. [她是怎么忍住不用剪刀的](https://s.weibo.com/weibo?q=%E5%A5%B9%E6%98%AF%E6%80%8E%E4%B9%88%E5%BF%8D%E4%BD%8F%E4%B8%8D%E7%94%A8%E5%89%AA%E5%88%80%E7%9A%84&t=31&band_rank=9&Refer=top)<br />
+8. [高考结束张桂梅又躲进空教室](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E5%BC%A0%E6%A1%82%E6%A2%85%E5%8F%88%E8%BA%B2%E8%BF%9B%E7%A9%BA%E6%95%99%E5%AE%A4%23&t=31&band_rank=8&Refer=top)<br />
+9. [Amber单杀Uzi](https://s.weibo.com/weibo?q=%23Amber%E5%8D%95%E6%9D%80Uzi%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
