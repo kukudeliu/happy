@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 14:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 14:58:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [怀孕的同事让我给她带冰奶茶](https://s.weibo.com/weibo?q=%23%E6%80%80%E5%AD%95%E7%9A%84%E5%90%8C%E4%BA%8B%E8%AE%A9%E6%88%91%E7%BB%99%E5%A5%B9%E5%B8%A6%E5%86%B0%E5%A5%B6%E8%8C%B6%23&t=31&band_rank=6&Refer=top)<br />
 7. [你赞成取消调休吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%B5%9E%E6%88%90%E5%8F%96%E6%B6%88%E8%B0%83%E4%BC%91%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
 8. [跑男最后一期录制阵容](https://s.weibo.com/weibo?q=%23%E8%B7%91%E7%94%B7%E6%9C%80%E5%90%8E%E4%B8%80%E6%9C%9F%E5%BD%95%E5%88%B6%E9%98%B5%E5%AE%B9%23&t=31&band_rank=8&Refer=top)<br />
-9. [原来肝脏不好真的会变丑](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%82%9D%E8%84%8F%E4%B8%8D%E5%A5%BD%E7%9C%9F%E7%9A%84%E4%BC%9A%E5%8F%98%E4%B8%91%23&t=31&band_rank=9&Refer=top)<br />
+9. [有人嗑黄子韬和徐志胜吗](https://s.weibo.com/weibo?q=%E6%9C%89%E4%BA%BA%E5%97%91%E9%BB%84%E5%AD%90%E9%9F%AC%E5%92%8C%E5%BE%90%E5%BF%97%E8%83%9C%E5%90%97&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -21,8 +21,8 @@
 5. [乌克兰国际储备达 373.113 亿美元历史新高，这一数据透露了哪些信息？](https://www.zhihu.com/question/605234200)<br />
 6. [孩子严重烫伤 9 天才送医院，爸爸称「没必要」拒绝手术，现孩子被家长安排自行出院，如何看待家长行为？](https://www.zhihu.com/question/604863474)<br />
 7. [高考 700 分和存款 700 万，你选择哪个？](https://www.zhihu.com/question/605422526)<br />
-8. [深圳的氛围真的都是大家都在搞钱吗？](https://www.zhihu.com/question/512330743)<br />
-9. [梅西、 C 罗、本泽马等均退出主流联赛，世界足坛谁会成为新一代金球奖得主？](https://www.zhihu.com/question/605614573)<br />
+8. [梅西、 C 罗、本泽马等均退出主流联赛，世界足坛谁会成为新一代金球奖得主？](https://www.zhihu.com/question/605614573)<br />
+9. [假如你被严刑逼供，你该如何让对方相信你真的不知道？](https://www.zhihu.com/question/603929512)<br />
 
 > 百度  
 
