@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 09:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 10:00:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [保护我们的那片海](https://s.weibo.com/weibo?q=%23%E4%BF%9D%E6%8A%A4%E6%88%91%E4%BB%AC%E7%9A%84%E9%82%A3%E7%89%87%E6%B5%B7%23&t=31&band_rank=3&Refer=top)<br />
 4. [Uzi](https://s.weibo.com/weibo?q=Uzi&t=31&band_rank=4&Refer=top)<br />
 5. [外媒曝Jennie将加入漫威](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%AA%92%E6%9B%9DJennie%E5%B0%86%E5%8A%A0%E5%85%A5%E6%BC%AB%E5%A8%81%23&t=31&band_rank=5&Refer=top)<br />
-6. [LBL官宣uzi离队](https://s.weibo.com/weibo?q=%23LBL%E5%AE%98%E5%AE%A3uzi%E7%A6%BB%E9%98%9F%23&t=31&band_rank=6&Refer=top)<br />
-7. [考生喊话取消调休](https://s.weibo.com/weibo?q=%23%E8%80%83%E7%94%9F%E5%96%8A%E8%AF%9D%E5%8F%96%E6%B6%88%E8%B0%83%E4%BC%91%23&t=31&band_rank=7&Refer=top)<br />
+6. [考生喊话取消调休](https://s.weibo.com/weibo?q=%23%E8%80%83%E7%94%9F%E5%96%8A%E8%AF%9D%E5%8F%96%E6%B6%88%E8%B0%83%E4%BC%91%23&t=31&band_rank=6&Refer=top)<br />
+7. [LBL官宣uzi离队](https://s.weibo.com/weibo?q=%23LBL%E5%AE%98%E5%AE%A3uzi%E7%A6%BB%E9%98%9F%23&t=31&band_rank=7&Refer=top)<br />
 8. [肝脏移植前后肤色对比](https://s.weibo.com/weibo?q=%E8%82%9D%E8%84%8F%E7%A7%BB%E6%A4%8D%E5%89%8D%E5%90%8E%E8%82%A4%E8%89%B2%E5%AF%B9%E6%AF%94&t=31&band_rank=8&Refer=top)<br />
 9. [高考第三天](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E7%AC%AC%E4%B8%89%E5%A4%A9%23&t=31&band_rank=9&Refer=top)<br />
 
