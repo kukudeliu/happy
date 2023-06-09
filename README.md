@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 12:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 12:09:01</h4></div>
 
 > 微博  
 
 1. [原来肝脏不好真的会变丑](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%82%9D%E8%84%8F%E4%B8%8D%E5%A5%BD%E7%9C%9F%E7%9A%84%E4%BC%9A%E5%8F%98%E4%B8%91%23&t=31&band_rank=1&Refer=top)<br />
-2. [孩子你配享太庙](https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E4%BD%A0%E9%85%8D%E4%BA%AB%E5%A4%AA%E5%BA%99%23&t=31&band_rank=2&Refer=top)<br />
+2. [跑男泰国](https://s.weibo.com/weibo?q=%E8%B7%91%E7%94%B7%E6%B3%B0%E5%9B%BD&t=31&band_rank=2&Refer=top)<br />
 3. [世界上建设难度最高的跨海集群工程](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E4%B8%8A%E5%BB%BA%E8%AE%BE%E9%9A%BE%E5%BA%A6%E6%9C%80%E9%AB%98%E7%9A%84%E8%B7%A8%E6%B5%B7%E9%9B%86%E7%BE%A4%E5%B7%A5%E7%A8%8B%23&t=31&band_rank=3&Refer=top)<br />
-4. [跑男泰国](https://s.weibo.com/weibo?q=%E8%B7%91%E7%94%B7%E6%B3%B0%E5%9B%BD&t=31&band_rank=4&Refer=top)<br />
-5. [Uzi](https://s.weibo.com/weibo?q=Uzi&t=31&band_rank=5&Refer=top)<br />
-6. [赖冠霖今年没有参加高考](https://s.weibo.com/weibo?q=%23%E8%B5%96%E5%86%A0%E9%9C%96%E4%BB%8A%E5%B9%B4%E6%B2%A1%E6%9C%89%E5%8F%82%E5%8A%A0%E9%AB%98%E8%80%83%23&t=31&band_rank=6&Refer=top)<br />
+4. [注册不了张z](https://s.weibo.com/weibo?q=%23%E6%B3%A8%E5%86%8C%E4%B8%8D%E4%BA%86%E5%BC%A0z%23&t=31&band_rank=4&Refer=top)<br />
+5. [孩子你配享太庙](https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E4%BD%A0%E9%85%8D%E4%BA%AB%E5%A4%AA%E5%BA%99%23&t=31&band_rank=5&Refer=top)<br />
+6. [Uzi](https://s.weibo.com/weibo?q=Uzi&t=31&band_rank=6&Refer=top)<br />
 7. [小学生付费阅读曾鹏宇淫秽作品家长报警](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E4%BB%98%E8%B4%B9%E9%98%85%E8%AF%BB%E6%9B%BE%E9%B9%8F%E5%AE%87%E6%B7%AB%E7%A7%BD%E4%BD%9C%E5%93%81%E5%AE%B6%E9%95%BF%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=7&Refer=top)<br />
-8. [LBL官宣uzi离队](https://s.weibo.com/weibo?q=%23LBL%E5%AE%98%E5%AE%A3uzi%E7%A6%BB%E9%98%9F%23&t=31&band_rank=8&Refer=top)<br />
-9. [男职工3年不上班工资3千涨到7千](https://s.weibo.com/weibo?q=%23%E7%94%B7%E8%81%8C%E5%B7%A53%E5%B9%B4%E4%B8%8D%E4%B8%8A%E7%8F%AD%E5%B7%A5%E8%B5%843%E5%8D%83%E6%B6%A8%E5%88%B07%E5%8D%83%23&t=31&band_rank=9&Refer=top)<br />
+8. [赖冠霖今年没有参加高考](https://s.weibo.com/weibo?q=%23%E8%B5%96%E5%86%A0%E9%9C%96%E4%BB%8A%E5%B9%B4%E6%B2%A1%E6%9C%89%E5%8F%82%E5%8A%A0%E9%AB%98%E8%80%83%23&t=31&band_rank=8&Refer=top)<br />
+9. [LBL官宣uzi离队](https://s.weibo.com/weibo?q=%23LBL%E5%AE%98%E5%AE%A3uzi%E7%A6%BB%E9%98%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
