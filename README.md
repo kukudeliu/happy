@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 21:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 21:01:01</h4></div>
 
 > 微博  
 
@@ -8,7 +8,7 @@
 4. [王源易烊千玺工作室出图](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%87%BA%E5%9B%BE%23&t=31&band_rank=4&Refer=top)<br />
 5. [徐志胜 别磕给大家磕头了](https://s.weibo.com/weibo?q=%E5%BE%90%E5%BF%97%E8%83%9C%20%E5%88%AB%E7%A3%95%E7%BB%99%E5%A4%A7%E5%AE%B6%E7%A3%95%E5%A4%B4%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
 6. [四川大学回应女生曝光地铁大叔](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%94%9F%E6%9B%9D%E5%85%89%E5%9C%B0%E9%93%81%E5%A4%A7%E5%8F%94%23&t=31&band_rank=6&Refer=top)<br />
-7. [大黄蜂死了](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%BB%84%E8%9C%82%E6%AD%BB%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+7. [杨幂私服](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E7%A7%81%E6%9C%8D&t=31&band_rank=7&Refer=top)<br />
 8. [无字 乌兹](https://s.weibo.com/weibo?q=%E6%97%A0%E5%AD%97%20%E4%B9%8C%E5%85%B9&t=31&band_rank=8&Refer=top)<br />
 9. [EDG海报空个位置](https://s.weibo.com/weibo?q=EDG%E6%B5%B7%E6%8A%A5%E7%A9%BA%E4%B8%AA%E4%BD%8D%E7%BD%AE&t=31&band_rank=9&Refer=top)<br />
 
@@ -18,7 +18,7 @@
 2. [为什么华为手机国产率这么高，价格却降不下来？](https://www.zhihu.com/question/604699463)<br />
 3. [卡霍夫卡水电站大坝被破坏，到底是什么力量让能抵御核弹袭击的水坝「断成两半」？](https://www.zhihu.com/question/605615861)<br />
 4. [2022 届本科毕业生仅 6.9% 月收入过万，超八成高职生起薪低于 6000 元，该薪资水平合理吗？](https://www.zhihu.com/question/605658808)<br />
-5. [许多人习惯用自己的生日、幸运数来买彩票，这是一种控制幻觉吗？如何解释这种现象？](https://www.zhihu.com/theater/10911)<br />
+5. [你买彩票时会优先考虑生日号、手机号吗？](https://www.zhihu.com/theater/10911)<br />
 6. [为何 23 年的梅西和 22 年的 C 罗一样没有五大联赛俱乐部报价，最后也是去了非主流联赛？](https://www.zhihu.com/question/605447222)<br />
 7. [北京拟规定共有产权房取得不动产权证满 5 年，可按市场价转让，将给房地产市场带来哪些影响？](https://www.zhihu.com/question/605670192)<br />
 8. [电影《教父》中，桑尼被害的深层原因是什么？](https://www.zhihu.com/question/600381053)<br />
