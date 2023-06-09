@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 11:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 11:33:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [Uzi](https://s.weibo.com/weibo?q=Uzi&t=31&band_rank=5&Refer=top)<br />
 6. [赖冠霖今年没有参加高考](https://s.weibo.com/weibo?q=%23%E8%B5%96%E5%86%A0%E9%9C%96%E4%BB%8A%E5%B9%B4%E6%B2%A1%E6%9C%89%E5%8F%82%E5%8A%A0%E9%AB%98%E8%80%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [小学生付费阅读曾鹏宇淫秽作品家长报警](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E4%BB%98%E8%B4%B9%E9%98%85%E8%AF%BB%E6%9B%BE%E9%B9%8F%E5%AE%87%E6%B7%AB%E7%A7%BD%E4%BD%9C%E5%93%81%E5%AE%B6%E9%95%BF%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=7&Refer=top)<br />
-8. [男职工3年不上班工资3千涨到7千](https://s.weibo.com/weibo?q=%23%E7%94%B7%E8%81%8C%E5%B7%A53%E5%B9%B4%E4%B8%8D%E4%B8%8A%E7%8F%AD%E5%B7%A5%E8%B5%843%E5%8D%83%E6%B6%A8%E5%88%B07%E5%8D%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [LBL官宣uzi离队](https://s.weibo.com/weibo?q=%23LBL%E5%AE%98%E5%AE%A3uzi%E7%A6%BB%E9%98%9F%23&t=31&band_rank=9&Refer=top)<br />
+8. [LBL官宣uzi离队](https://s.weibo.com/weibo?q=%23LBL%E5%AE%98%E5%AE%A3uzi%E7%A6%BB%E9%98%9F%23&t=31&band_rank=8&Refer=top)<br />
+9. [男职工3年不上班工资3千涨到7千](https://s.weibo.com/weibo?q=%23%E7%94%B7%E8%81%8C%E5%B7%A53%E5%B9%B4%E4%B8%8D%E4%B8%8A%E7%8F%AD%E5%B7%A5%E8%B5%843%E5%8D%83%E6%B6%A8%E5%88%B07%E5%8D%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,13 +22,13 @@
 6. [我国 5 月 CPI 同比上升 0.2%，PPI 同比下降 4.6%，如何解读？哪些信息值得关注？](https://www.zhihu.com/question/605623897)<br />
 7. [海航新规管控空姐体重「超重 10％ 立即停飞减重 」，属行业首次，新规是否涉及歧视等问题？是否违法？](https://www.zhihu.com/question/605556110)<br />
 8. [动视暴雪称《暗黑破坏神 4》成为公司有史以来首销最快的一款游戏，你认为该游戏畅销原因有哪些？](https://www.zhihu.com/question/605248807)<br />
-9. [为什么现在的快递放着正常的号码不用，非要弄虚拟号转机号？](https://www.zhihu.com/question/600192558)<br />
+9. [「鼠头鸭脖」涉事高校学生称，又在食堂吃出大青虫，具体情况如何？高校食堂为何频繁曝出问题？](https://www.zhihu.com/question/605552961)<br />
 
 > 百度  
 
 1. [流动中国释放更多生机活力](https://www.baidu.com/s?wd=%E6%B5%81%E5%8A%A8%E4%B8%AD%E5%9B%BD%E9%87%8A%E6%94%BE%E6%9B%B4%E5%A4%9A%E7%94%9F%E6%9C%BA%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [孩子你配享太庙](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E4%BD%A0%E9%85%8D%E4%BA%AB%E5%A4%AA%E5%BA%99&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [英语听力卡顿考生大哭？江西回应](https://www.baidu.com/s?wd=%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B%E5%8D%A1%E9%A1%BF%E8%80%83%E7%94%9F%E5%A4%A7%E5%93%AD%EF%BC%9F%E6%B1%9F%E8%A5%BF%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [女生考完哭着说终于不用做数学了](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E8%80%83%E5%AE%8C%E5%93%AD%E7%9D%80%E8%AF%B4%E7%BB%88%E4%BA%8E%E4%B8%8D%E7%94%A8%E5%81%9A%E6%95%B0%E5%AD%A6%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [海洋经济“扬帆远航”](https://www.baidu.com/s?wd=%E6%B5%B7%E6%B4%8B%E7%BB%8F%E6%B5%8E%E2%80%9C%E6%89%AC%E5%B8%86%E8%BF%9C%E8%88%AA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子与11岁女孩发生关系被诉强奸罪](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%8E11%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%8F%91%E7%94%9F%E5%85%B3%E7%B3%BB%E8%A2%AB%E8%AF%89%E5%BC%BA%E5%A5%B8%E7%BD%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [考生喊话：取消调休，取消调休](https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%E5%96%8A%E8%AF%9D%EF%BC%9A%E5%8F%96%E6%B6%88%E8%B0%83%E4%BC%91%EF%BC%8C%E5%8F%96%E6%B6%88%E8%B0%83%E4%BC%91&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -40,7 +40,7 @@
 
 1. [流动中国释放更多生机活力](https://www.baidu.com/s?wd=%E6%B5%81%E5%8A%A8%E4%B8%AD%E5%9B%BD%E9%87%8A%E6%94%BE%E6%9B%B4%E5%A4%9A%E7%94%9F%E6%9C%BA%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [孩子你配享太庙](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E4%BD%A0%E9%85%8D%E4%BA%AB%E5%A4%AA%E5%BA%99&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [英语听力卡顿考生大哭？江西回应](https://www.baidu.com/s?wd=%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B%E5%8D%A1%E9%A1%BF%E8%80%83%E7%94%9F%E5%A4%A7%E5%93%AD%EF%BC%9F%E6%B1%9F%E8%A5%BF%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [女生考完哭着说终于不用做数学了](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E8%80%83%E5%AE%8C%E5%93%AD%E7%9D%80%E8%AF%B4%E7%BB%88%E4%BA%8E%E4%B8%8D%E7%94%A8%E5%81%9A%E6%95%B0%E5%AD%A6%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [海洋经济“扬帆远航”](https://www.baidu.com/s?wd=%E6%B5%B7%E6%B4%8B%E7%BB%8F%E6%B5%8E%E2%80%9C%E6%89%AC%E5%B8%86%E8%BF%9C%E8%88%AA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子与11岁女孩发生关系被诉强奸罪](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%8E11%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%8F%91%E7%94%9F%E5%85%B3%E7%B3%BB%E8%A2%AB%E8%AF%89%E5%BC%BA%E5%A5%B8%E7%BD%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [考生喊话：取消调休，取消调休](https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%E5%96%8A%E8%AF%9D%EF%BC%9A%E5%8F%96%E6%B6%88%E8%B0%83%E4%BC%91%EF%BC%8C%E5%8F%96%E6%B6%88%E8%B0%83%E4%BC%91&sa=fyb_news&rsv_dl=fyb_news)<br />
