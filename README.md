@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 21:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 21:24:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [高校学费告别5000元时代](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E5%AD%A6%E8%B4%B9%E5%91%8A%E5%88%AB5000%E5%85%83%E6%97%B6%E4%BB%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [3岁男孩患象鼻病全球仅34例](https://www.baidu.com/s?wd=3%E5%B2%81%E7%94%B7%E5%AD%A9%E6%82%A3%E8%B1%A1%E9%BC%BB%E7%97%85%E5%85%A8%E7%90%83%E4%BB%8534%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [上海国际电影节](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%9B%BD%E9%99%85%E7%94%B5%E5%BD%B1%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [20亿年前恒星死亡余晖被完整纪录](https://www.baidu.com/s?wd=20%E4%BA%BF%E5%B9%B4%E5%89%8D%E6%81%92%E6%98%9F%E6%AD%BB%E4%BA%A1%E4%BD%99%E6%99%96%E8%A2%AB%E5%AE%8C%E6%95%B4%E7%BA%AA%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [盗墓团伙穿清代龙袍炫耀](https://www.baidu.com/s?wd=%E7%9B%97%E5%A2%93%E5%9B%A2%E4%BC%99%E7%A9%BF%E6%B8%85%E4%BB%A3%E9%BE%99%E8%A2%8D%E7%82%AB%E8%80%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [高校学费告别5000元时代](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E5%AD%A6%E8%B4%B9%E5%91%8A%E5%88%AB5000%E5%85%83%E6%97%B6%E4%BB%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [3岁男孩患象鼻病全球仅34例](https://www.baidu.com/s?wd=3%E5%B2%81%E7%94%B7%E5%AD%A9%E6%82%A3%E8%B1%A1%E9%BC%BB%E7%97%85%E5%85%A8%E7%90%83%E4%BB%8534%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [上海国际电影节](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%9B%BD%E9%99%85%E7%94%B5%E5%BD%B1%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [20亿年前恒星死亡余晖被完整纪录](https://www.baidu.com/s?wd=20%E4%BA%BF%E5%B9%B4%E5%89%8D%E6%81%92%E6%98%9F%E6%AD%BB%E4%BA%A1%E4%BD%99%E6%99%96%E8%A2%AB%E5%AE%8C%E6%95%B4%E7%BA%AA%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [盗墓团伙穿清代龙袍炫耀](https://www.baidu.com/s?wd=%E7%9B%97%E5%A2%93%E5%9B%A2%E4%BC%99%E7%A9%BF%E6%B8%85%E4%BB%A3%E9%BE%99%E8%A2%8D%E7%82%AB%E8%80%80&sa=fyb_news&rsv_dl=fyb_news)<br />
