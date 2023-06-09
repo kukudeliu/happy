@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 18:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 18:57:02</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [在机枪枪管上缠湿布是否可以达到水冷效果？](https://www.zhihu.com/question/605380401)<br />
 7. [游戏《原神》里最有气场的是谁？](https://www.zhihu.com/question/476751897)<br />
 8. [为什么人类喜欢追问生命的意义、活着的目的？](https://www.zhihu.com/question/599599842)<br />
-9. [我国科研人员监测到伽马射线暴全过程，记录万亿电子伏特伽马射线流量增强和衰减的整个阶段，有哪些研究价值？](https://www.zhihu.com/question/605620230)<br />
+9. [中国古代的建筑图纸不用焦点透视法画出，为何工匠们还能精准地建造出需要的建筑？](https://www.zhihu.com/question/605244708)<br />
 
 > 百度  
 
