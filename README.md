@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 00:50:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 00:51:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [高校学费告别5000元时代](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E5%AD%A6%E8%B4%B9%E5%91%8A%E5%88%AB5000%E5%85%83%E6%97%B6%E4%BB%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [多名嫌犯被游行示众？西宁警方回应](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E5%AB%8C%E7%8A%AF%E8%A2%AB%E6%B8%B8%E8%A1%8C%E7%A4%BA%E4%BC%97%EF%BC%9F%E8%A5%BF%E5%AE%81%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [牵手门持续发酵 还有几点疑问待解](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E6%8C%81%E7%BB%AD%E5%8F%91%E9%85%B5+%E8%BF%98%E6%9C%89%E5%87%A0%E7%82%B9%E7%96%91%E9%97%AE%E5%BE%85%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [农民马路晒粮被洒水车喷水打湿](https://www.baidu.com/s?wd=%E5%86%9C%E6%B0%91%E9%A9%AC%E8%B7%AF%E6%99%92%E7%B2%AE%E8%A2%AB%E6%B4%92%E6%B0%B4%E8%BD%A6%E5%96%B7%E6%B0%B4%E6%89%93%E6%B9%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [人民网评女生曝光地铁大叔](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E5%A5%B3%E7%94%9F%E6%9B%9D%E5%85%89%E5%9C%B0%E9%93%81%E5%A4%A7%E5%8F%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [人民网评女生曝光地铁大叔](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E5%A5%B3%E7%94%9F%E6%9B%9D%E5%85%89%E5%9C%B0%E9%93%81%E5%A4%A7%E5%8F%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [河南一酒店要求高考生1点前退房](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E9%85%92%E5%BA%97%E8%A6%81%E6%B1%82%E9%AB%98%E8%80%83%E7%94%9F1%E7%82%B9%E5%89%8D%E9%80%80%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [高校学费告别5000元时代](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E5%AD%A6%E8%B4%B9%E5%91%8A%E5%88%AB5000%E5%85%83%E6%97%B6%E4%BB%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [多名嫌犯被游行示众？西宁警方回应](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E5%AB%8C%E7%8A%AF%E8%A2%AB%E6%B8%B8%E8%A1%8C%E7%A4%BA%E4%BC%97%EF%BC%9F%E8%A5%BF%E5%AE%81%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [牵手门持续发酵 还有几点疑问待解](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E6%8C%81%E7%BB%AD%E5%8F%91%E9%85%B5+%E8%BF%98%E6%9C%89%E5%87%A0%E7%82%B9%E7%96%91%E9%97%AE%E5%BE%85%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [农民马路晒粮被洒水车喷水打湿](https://www.baidu.com/s?wd=%E5%86%9C%E6%B0%91%E9%A9%AC%E8%B7%AF%E6%99%92%E7%B2%AE%E8%A2%AB%E6%B4%92%E6%B0%B4%E8%BD%A6%E5%96%B7%E6%B0%B4%E6%89%93%E6%B9%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [人民网评女生曝光地铁大叔](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E5%A5%B3%E7%94%9F%E6%9B%9D%E5%85%89%E5%9C%B0%E9%93%81%E5%A4%A7%E5%8F%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [人民网评女生曝光地铁大叔](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E5%A5%B3%E7%94%9F%E6%9B%9D%E5%85%89%E5%9C%B0%E9%93%81%E5%A4%A7%E5%8F%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [河南一酒店要求高考生1点前退房](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E9%85%92%E5%BA%97%E8%A6%81%E6%B1%82%E9%AB%98%E8%80%83%E7%94%9F1%E7%82%B9%E5%89%8D%E9%80%80%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
