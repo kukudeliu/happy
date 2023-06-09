@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 14:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 14:09:01</h4></div>
 
 > 微博  
 
@@ -33,7 +33,7 @@
 5. [翟欣欣涉嫌敲诈勒索已被逮捕](https://www.baidu.com/s?wd=%E7%BF%9F%E6%AC%A3%E6%AC%A3%E6%B6%89%E5%AB%8C%E6%95%B2%E8%AF%88%E5%8B%92%E7%B4%A2%E5%B7%B2%E8%A2%AB%E9%80%AE%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [江歌妈妈收到大量借款信息](https://www.baidu.com/s?wd=%E6%B1%9F%E6%AD%8C%E5%A6%88%E5%A6%88%E6%94%B6%E5%88%B0%E5%A4%A7%E9%87%8F%E5%80%9F%E6%AC%BE%E4%BF%A1%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [孤寡老人家中被盗后服毒自杀](https://www.baidu.com/s?wd=%E5%AD%A4%E5%AF%A1%E8%80%81%E4%BA%BA%E5%AE%B6%E4%B8%AD%E8%A2%AB%E7%9B%97%E5%90%8E%E6%9C%8D%E6%AF%92%E8%87%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [考场外鲜花售价主打一个吉利](https://www.baidu.com/s?wd=%E8%80%83%E5%9C%BA%E5%A4%96%E9%B2%9C%E8%8A%B1%E5%94%AE%E4%BB%B7%E4%B8%BB%E6%89%93%E4%B8%80%E4%B8%AA%E5%90%89%E5%88%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子3年不上班工资从3千涨到7千](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%903%E5%B9%B4%E4%B8%8D%E4%B8%8A%E7%8F%AD%E5%B7%A5%E8%B5%84%E4%BB%8E3%E5%8D%83%E6%B6%A8%E5%88%B07%E5%8D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [公鸡打鸣影响考生 主人：今晚吃鸡](https://www.baidu.com/s?wd=%E5%85%AC%E9%B8%A1%E6%89%93%E9%B8%A3%E5%BD%B1%E5%93%8D%E8%80%83%E7%94%9F+%E4%B8%BB%E4%BA%BA%EF%BC%9A%E4%BB%8A%E6%99%9A%E5%90%83%E9%B8%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [翟欣欣涉嫌敲诈勒索已被逮捕](https://www.baidu.com/s?wd=%E7%BF%9F%E6%AC%A3%E6%AC%A3%E6%B6%89%E5%AB%8C%E6%95%B2%E8%AF%88%E5%8B%92%E7%B4%A2%E5%B7%B2%E8%A2%AB%E9%80%AE%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [江歌妈妈收到大量借款信息](https://www.baidu.com/s?wd=%E6%B1%9F%E6%AD%8C%E5%A6%88%E5%A6%88%E6%94%B6%E5%88%B0%E5%A4%A7%E9%87%8F%E5%80%9F%E6%AC%BE%E4%BF%A1%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [孤寡老人家中被盗后服毒自杀](https://www.baidu.com/s?wd=%E5%AD%A4%E5%AF%A1%E8%80%81%E4%BA%BA%E5%AE%B6%E4%B8%AD%E8%A2%AB%E7%9B%97%E5%90%8E%E6%9C%8D%E6%AF%92%E8%87%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [考场外鲜花售价主打一个吉利](https://www.baidu.com/s?wd=%E8%80%83%E5%9C%BA%E5%A4%96%E9%B2%9C%E8%8A%B1%E5%94%AE%E4%BB%B7%E4%B8%BB%E6%89%93%E4%B8%80%E4%B8%AA%E5%90%89%E5%88%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子3年不上班工资从3千涨到7千](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%903%E5%B9%B4%E4%B8%8D%E4%B8%8A%E7%8F%AD%E5%B7%A5%E8%B5%84%E4%BB%8E3%E5%8D%83%E6%B6%A8%E5%88%B07%E5%8D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [公鸡打鸣影响考生 主人：今晚吃鸡](https://www.baidu.com/s?wd=%E5%85%AC%E9%B8%A1%E6%89%93%E9%B8%A3%E5%BD%B1%E5%93%8D%E8%80%83%E7%94%9F+%E4%B8%BB%E4%BA%BA%EF%BC%9A%E4%BB%8A%E6%99%9A%E5%90%83%E9%B8%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
