@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 18:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 18:26:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [他懂事的样子让人心疼](https://s.weibo.com/weibo?q=%23%E4%BB%96%E6%87%82%E4%BA%8B%E7%9A%84%E6%A0%B7%E5%AD%90%E8%AE%A9%E4%BA%BA%E5%BF%83%E7%96%BC%23&t=31&band_rank=5&Refer=top)<br />
 6. [四川大学回应女生曝光地铁大叔](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%94%9F%E6%9B%9D%E5%85%89%E5%9C%B0%E9%93%81%E5%A4%A7%E5%8F%94%23&t=31&band_rank=6&Refer=top)<br />
 7. [货车起火冒烟好心男子拎新买灭火器扑灭](https://s.weibo.com/weibo?q=%23%E8%B4%A7%E8%BD%A6%E8%B5%B7%E7%81%AB%E5%86%92%E7%83%9F%E5%A5%BD%E5%BF%83%E7%94%B7%E5%AD%90%E6%8B%8E%E6%96%B0%E4%B9%B0%E7%81%AD%E7%81%AB%E5%99%A8%E6%89%91%E7%81%AD%23&t=31&band_rank=7&Refer=top)<br />
-8. [大黄蜂死了](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%BB%84%E8%9C%82%E6%AD%BB%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [孟美岐 玉龙县文旅局](https://s.weibo.com/weibo?q=%E5%AD%9F%E7%BE%8E%E5%B2%90%20%E7%8E%89%E9%BE%99%E5%8E%BF%E6%96%87%E6%97%85%E5%B1%80&t=31&band_rank=9&Refer=top)<br />
+8. [孟美岐 玉龙县文旅局](https://s.weibo.com/weibo?q=%E5%AD%9F%E7%BE%8E%E5%B2%90%20%E7%8E%89%E9%BE%99%E5%8E%BF%E6%96%87%E6%97%85%E5%B1%80&t=31&band_rank=8&Refer=top)<br />
+9. [大黄蜂死了](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%BB%84%E8%9C%82%E6%AD%BB%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
