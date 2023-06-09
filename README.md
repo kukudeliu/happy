@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 16:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 16:58:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [EXO确定于7月10日回归](https://s.weibo.com/weibo?q=%23EXO%E7%A1%AE%E5%AE%9A%E4%BA%8E7%E6%9C%8810%E6%97%A5%E5%9B%9E%E5%BD%92%23&t=31&band_rank=6&Refer=top)<br />
 7. [刘惜君绝了](https://s.weibo.com/weibo?q=%E5%88%98%E6%83%9C%E5%90%9B%E7%BB%9D%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [玉骨遥](https://s.weibo.com/weibo?q=%E7%8E%89%E9%AA%A8%E9%81%A5&t=31&band_rank=8&Refer=top)<br />
-9. [翟欣欣被逮捕](https://s.weibo.com/weibo?q=%23%E7%BF%9F%E6%AC%A3%E6%AC%A3%E8%A2%AB%E9%80%AE%E6%8D%95%23&t=31&band_rank=9&Refer=top)<br />
+9. [跑男最后一期录制阵容](https://s.weibo.com/weibo?q=%23%E8%B7%91%E7%94%B7%E6%9C%80%E5%90%8E%E4%B8%80%E6%9C%9F%E5%BD%95%E5%88%B6%E9%98%B5%E5%AE%B9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
