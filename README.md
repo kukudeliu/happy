@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 21:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 21:12:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [四川大学回应女生曝光地铁大叔](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%94%9F%E6%9B%9D%E5%85%89%E5%9C%B0%E9%93%81%E5%A4%A7%E5%8F%94%23&t=31&band_rank=6&Refer=top)<br />
 7. [无字 乌兹](https://s.weibo.com/weibo?q=%E6%97%A0%E5%AD%97%20%E4%B9%8C%E5%85%B9&t=31&band_rank=7&Refer=top)<br />
 8. [徐志胜 别磕给大家磕头了](https://s.weibo.com/weibo?q=%E5%BE%90%E5%BF%97%E8%83%9C%20%E5%88%AB%E7%A3%95%E7%BB%99%E5%A4%A7%E5%AE%B6%E7%A3%95%E5%A4%B4%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [高考考场外的难忘瞬间](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E8%80%83%E5%9C%BA%E5%A4%96%E7%9A%84%E9%9A%BE%E5%BF%98%E7%9E%AC%E9%97%B4%23&t=31&band_rank=9&Refer=top)<br />
+9. [孤寡老人家中被盗后自杀](https://s.weibo.com/weibo?q=%23%E5%AD%A4%E5%AF%A1%E8%80%81%E4%BA%BA%E5%AE%B6%E4%B8%AD%E8%A2%AB%E7%9B%97%E5%90%8E%E8%87%AA%E6%9D%80%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -32,9 +32,9 @@
 4. [一条航线见证复苏新前景](https://www.baidu.com/s?wd=%E4%B8%80%E6%9D%A1%E8%88%AA%E7%BA%BF%E8%A7%81%E8%AF%81%E5%A4%8D%E8%8B%8F%E6%96%B0%E5%89%8D%E6%99%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女婴预防接种证被盖死亡证明章](https://www.baidu.com/s?wd=%E5%A5%B3%E5%A9%B4%E9%A2%84%E9%98%B2%E6%8E%A5%E7%A7%8D%E8%AF%81%E8%A2%AB%E7%9B%96%E6%AD%BB%E4%BA%A1%E8%AF%81%E6%98%8E%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [高校学费告别5000元时代](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E5%AD%A6%E8%B4%B9%E5%91%8A%E5%88%AB5000%E5%85%83%E6%97%B6%E4%BB%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [农民马路晒粮被洒水车喷水打湿](https://www.baidu.com/s?wd=%E5%86%9C%E6%B0%91%E9%A9%AC%E8%B7%AF%E6%99%92%E7%B2%AE%E8%A2%AB%E6%B4%92%E6%B0%B4%E8%BD%A6%E5%96%B7%E6%B0%B4%E6%89%93%E6%B9%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [胡歌又抱吴磊了](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E5%8F%88%E6%8A%B1%E5%90%B4%E7%A3%8A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [上海国际电影节](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%9B%BD%E9%99%85%E7%94%B5%E5%BD%B1%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子公众场合扯住老人脖子踢打](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%85%AC%E4%BC%97%E5%9C%BA%E5%90%88%E6%89%AF%E4%BD%8F%E8%80%81%E4%BA%BA%E8%84%96%E5%AD%90%E8%B8%A2%E6%89%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子曝任职村副书记的妻子出轨书记](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%9B%9D%E4%BB%BB%E8%81%8C%E6%9D%91%E5%89%AF%E4%B9%A6%E8%AE%B0%E7%9A%84%E5%A6%BB%E5%AD%90%E5%87%BA%E8%BD%A8%E4%B9%A6%E8%AE%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [一条航线见证复苏新前景](https://www.baidu.com/s?wd=%E4%B8%80%E6%9D%A1%E8%88%AA%E7%BA%BF%E8%A7%81%E8%AF%81%E5%A4%8D%E8%8B%8F%E6%96%B0%E5%89%8D%E6%99%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女婴预防接种证被盖死亡证明章](https://www.baidu.com/s?wd=%E5%A5%B3%E5%A9%B4%E9%A2%84%E9%98%B2%E6%8E%A5%E7%A7%8D%E8%AF%81%E8%A2%AB%E7%9B%96%E6%AD%BB%E4%BA%A1%E8%AF%81%E6%98%8E%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [高校学费告别5000元时代](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E5%AD%A6%E8%B4%B9%E5%91%8A%E5%88%AB5000%E5%85%83%E6%97%B6%E4%BB%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [农民马路晒粮被洒水车喷水打湿](https://www.baidu.com/s?wd=%E5%86%9C%E6%B0%91%E9%A9%AC%E8%B7%AF%E6%99%92%E7%B2%AE%E8%A2%AB%E6%B4%92%E6%B0%B4%E8%BD%A6%E5%96%B7%E6%B0%B4%E6%89%93%E6%B9%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [胡歌又抱吴磊了](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E5%8F%88%E6%8A%B1%E5%90%B4%E7%A3%8A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [上海国际电影节](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%9B%BD%E9%99%85%E7%94%B5%E5%BD%B1%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子公众场合扯住老人脖子踢打](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%85%AC%E4%BC%97%E5%9C%BA%E5%90%88%E6%89%AF%E4%BD%8F%E8%80%81%E4%BA%BA%E8%84%96%E5%AD%90%E8%B8%A2%E6%89%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子曝任职村副书记的妻子出轨书记](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%9B%9D%E4%BB%BB%E8%81%8C%E6%9D%91%E5%89%AF%E4%B9%A6%E8%AE%B0%E7%9A%84%E5%A6%BB%E5%AD%90%E5%87%BA%E8%BD%A8%E4%B9%A6%E8%AE%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
