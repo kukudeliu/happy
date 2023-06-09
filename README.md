@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 18:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 18:13:01</h4></div>
 
 > 微博  
 
@@ -10,19 +10,19 @@
 6. [四川大学回应女生曝光地铁大叔](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%94%9F%E6%9B%9D%E5%85%89%E5%9C%B0%E9%93%81%E5%A4%A7%E5%8F%94%23&t=31&band_rank=6&Refer=top)<br />
 7. [孟美岐 玉龙县文旅局](https://s.weibo.com/weibo?q=%E5%AD%9F%E7%BE%8E%E5%B2%90%20%E7%8E%89%E9%BE%99%E5%8E%BF%E6%96%87%E6%97%85%E5%B1%80&t=31&band_rank=7&Refer=top)<br />
 8. [大黄蜂死了](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%BB%84%E8%9C%82%E6%AD%BB%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [徐志胜 别磕给大家磕头了](https://s.weibo.com/weibo?q=%E5%BE%90%E5%BF%97%E8%83%9C%20%E5%88%AB%E7%A3%95%E7%BB%99%E5%A4%A7%E5%AE%B6%E7%A3%95%E5%A4%B4%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [货车起火冒烟好心男子拎新买灭火器扑灭](https://s.weibo.com/weibo?q=%23%E8%B4%A7%E8%BD%A6%E8%B5%B7%E7%81%AB%E5%86%92%E7%83%9F%E5%A5%BD%E5%BF%83%E7%94%B7%E5%AD%90%E6%8B%8E%E6%96%B0%E4%B9%B0%E7%81%AD%E7%81%AB%E5%99%A8%E6%89%91%E7%81%AD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [我国 5 月 CPI 同比上升 0.2%，PPI 同比下降 4.6%，如何解读？哪些信息值得关注？](https://www.zhihu.com/question/605623897)<br />
-2. [海航新规管控空姐体重「超重 10％ 立即停飞减重 」，属行业首次，新规是否涉及歧视等问题？是否违法？](https://www.zhihu.com/question/605556110)<br />
-3. [苏享茂哥哥称翟欣欣涉嫌敲诈勒索已被逮捕，这意味着什么？此前翟欣欣退还 660 万，此事或将如何进展？](https://www.zhihu.com/question/605647767)<br />
+2. [苏享茂哥哥称翟欣欣涉嫌敲诈勒索已被逮捕，这意味着什么？此前翟欣欣退还 660 万，此事或将如何进展？](https://www.zhihu.com/question/605647767)<br />
+3. [海航新规管控空姐体重「超重 10％ 立即停飞减重 」，属行业首次，新规是否涉及歧视等问题？是否违法？](https://www.zhihu.com/question/605556110)<br />
 4. [为什么华为手机国产率这么高，价格却降不下来？](https://www.zhihu.com/question/604699463)<br />
 5. [卡霍夫卡水电站大坝被破坏，到底是什么力量让能抵御核弹袭击的水坝「断成两半」？](https://www.zhihu.com/question/605615861)<br />
 6. [在机枪枪管上缠湿布是否可以达到水冷效果？](https://www.zhihu.com/question/605380401)<br />
 7. [2022 届本科毕业生仅 6.9% 月收入过万，超八成高职生起薪低于 6000 元，该薪资水平合理吗？](https://www.zhihu.com/question/605658808)<br />
 8. [生活中越来越多的小孩都开始佩戴眼镜，作为家长该如何教导孩子保护视力?](https://www.zhihu.com/question/605058208)<br />
-9. [孩子严重烫伤 9 天才送医院，爸爸称「没必要」拒绝手术，现孩子被家长安排自行出院，如何看待家长行为？](https://www.zhihu.com/question/604863474)<br />
+9. [梅西决定去迈阿密国际踢球是否意味着球王就此选择退役了？](https://www.zhihu.com/question/605422847)<br />
 
 > 百度  
 
