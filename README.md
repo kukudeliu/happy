@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 20:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 20:30:02</h4></div>
 
 > 微博  
 
@@ -15,8 +15,8 @@
 > 知乎  
 
 1. [苏享茂哥哥称翟欣欣涉嫌敲诈勒索已被逮捕，这意味着什么？此前翟欣欣退还 660 万，此事或将如何进展？](https://www.zhihu.com/question/605647767)<br />
-2. [我国 5 月 CPI 同比上升 0.2%，PPI 同比下降 4.6%，如何解读？哪些信息值得关注？](https://www.zhihu.com/question/605623897)<br />
-3. [为什么华为手机国产率这么高，价格却降不下来？](https://www.zhihu.com/question/604699463)<br />
+2. [为什么华为手机国产率这么高，价格却降不下来？](https://www.zhihu.com/question/604699463)<br />
+3. [我国 5 月 CPI 同比上升 0.2%，PPI 同比下降 4.6%，如何解读？哪些信息值得关注？](https://www.zhihu.com/question/605623897)<br />
 4. [卡霍夫卡水电站大坝被破坏，到底是什么力量让能抵御核弹袭击的水坝「断成两半」？](https://www.zhihu.com/question/605615861)<br />
 5. [2022 届本科毕业生仅 6.9% 月收入过万，超八成高职生起薪低于 6000 元，该薪资水平合理吗？](https://www.zhihu.com/question/605658808)<br />
 6. [国内首批人工智能本科毕业生绝大部分选择考研，如何看待这一选择？](https://www.zhihu.com/theater/11126)<br />
