@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 07:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 07:12:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [男子曝任职村副书记的妻子出轨书记](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%9B%9D%E4%BB%BB%E8%81%8C%E6%9D%91%E5%89%AF%E4%B9%A6%E8%AE%B0%E7%9A%84%E5%A6%BB%E5%AD%90%E5%87%BA%E8%BD%A8%E4%B9%A6%E8%AE%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [牵手门持续发酵 还有几点疑问待解](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E6%8C%81%E7%BB%AD%E5%8F%91%E9%85%B5+%E8%BF%98%E6%9C%89%E5%87%A0%E7%82%B9%E7%96%91%E9%97%AE%E5%BE%85%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [3岁男孩患象鼻病全球仅34例](https://www.baidu.com/s?wd=3%E5%B2%81%E7%94%B7%E5%AD%A9%E6%82%A3%E8%B1%A1%E9%BC%BB%E7%97%85%E5%85%A8%E7%90%83%E4%BB%8534%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [学生抬着老师冲出考场](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E6%8A%AC%E7%9D%80%E8%80%81%E5%B8%88%E5%86%B2%E5%87%BA%E8%80%83%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [主持人仇晓手捧鲜花迎接儿子下考](https://www.baidu.com/s?wd=%E4%B8%BB%E6%8C%81%E4%BA%BA%E4%BB%87%E6%99%93%E6%89%8B%E6%8D%A7%E9%B2%9C%E8%8A%B1%E8%BF%8E%E6%8E%A5%E5%84%BF%E5%AD%90%E4%B8%8B%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [男子曝任职村副书记的妻子出轨书记](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%9B%9D%E4%BB%BB%E8%81%8C%E6%9D%91%E5%89%AF%E4%B9%A6%E8%AE%B0%E7%9A%84%E5%A6%BB%E5%AD%90%E5%87%BA%E8%BD%A8%E4%B9%A6%E8%AE%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [牵手门持续发酵 还有几点疑问待解](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E6%8C%81%E7%BB%AD%E5%8F%91%E9%85%B5+%E8%BF%98%E6%9C%89%E5%87%A0%E7%82%B9%E7%96%91%E9%97%AE%E5%BE%85%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [3岁男孩患象鼻病全球仅34例](https://www.baidu.com/s?wd=3%E5%B2%81%E7%94%B7%E5%AD%A9%E6%82%A3%E8%B1%A1%E9%BC%BB%E7%97%85%E5%85%A8%E7%90%83%E4%BB%8534%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [学生抬着老师冲出考场](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E6%8A%AC%E7%9D%80%E8%80%81%E5%B8%88%E5%86%B2%E5%87%BA%E8%80%83%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [主持人仇晓手捧鲜花迎接儿子下考](https://www.baidu.com/s?wd=%E4%B8%BB%E6%8C%81%E4%BA%BA%E4%BB%87%E6%99%93%E6%89%8B%E6%8D%A7%E9%B2%9C%E8%8A%B1%E8%BF%8E%E6%8E%A5%E5%84%BF%E5%AD%90%E4%B8%8B%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
