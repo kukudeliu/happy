@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 00:23:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 00:24:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [环卫母亲与高考儿子相拥而泣](https://www.baidu.com/s?wd=%E7%8E%AF%E5%8D%AB%E6%AF%8D%E4%BA%B2%E4%B8%8E%E9%AB%98%E8%80%83%E5%84%BF%E5%AD%90%E7%9B%B8%E6%8B%A5%E8%80%8C%E6%B3%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [牵手门持续发酵 还有几点疑问待解](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E6%8C%81%E7%BB%AD%E5%8F%91%E9%85%B5+%E8%BF%98%E6%9C%89%E5%87%A0%E7%82%B9%E7%96%91%E9%97%AE%E5%BE%85%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子曝任职村副书记的妻子出轨书记](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%9B%9D%E4%BB%BB%E8%81%8C%E6%9D%91%E5%89%AF%E4%B9%A6%E8%AE%B0%E7%9A%84%E5%A6%BB%E5%AD%90%E5%87%BA%E8%BD%A8%E4%B9%A6%E8%AE%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [赖冠霖今年没有参加高考](https://www.baidu.com/s?wd=%E8%B5%96%E5%86%A0%E9%9C%96%E4%BB%8A%E5%B9%B4%E6%B2%A1%E6%9C%89%E5%8F%82%E5%8A%A0%E9%AB%98%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [3岁男孩患象鼻病全球仅34例](https://www.baidu.com/s?wd=3%E5%B2%81%E7%94%B7%E5%AD%A9%E6%82%A3%E8%B1%A1%E9%BC%BB%E7%97%85%E5%85%A8%E7%90%83%E4%BB%8534%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [环卫母亲与高考儿子相拥而泣](https://www.baidu.com/s?wd=%E7%8E%AF%E5%8D%AB%E6%AF%8D%E4%BA%B2%E4%B8%8E%E9%AB%98%E8%80%83%E5%84%BF%E5%AD%90%E7%9B%B8%E6%8B%A5%E8%80%8C%E6%B3%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [牵手门持续发酵 还有几点疑问待解](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E6%8C%81%E7%BB%AD%E5%8F%91%E9%85%B5+%E8%BF%98%E6%9C%89%E5%87%A0%E7%82%B9%E7%96%91%E9%97%AE%E5%BE%85%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子曝任职村副书记的妻子出轨书记](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%9B%9D%E4%BB%BB%E8%81%8C%E6%9D%91%E5%89%AF%E4%B9%A6%E8%AE%B0%E7%9A%84%E5%A6%BB%E5%AD%90%E5%87%BA%E8%BD%A8%E4%B9%A6%E8%AE%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [赖冠霖今年没有参加高考](https://www.baidu.com/s?wd=%E8%B5%96%E5%86%A0%E9%9C%96%E4%BB%8A%E5%B9%B4%E6%B2%A1%E6%9C%89%E5%8F%82%E5%8A%A0%E9%AB%98%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [3岁男孩患象鼻病全球仅34例](https://www.baidu.com/s?wd=3%E5%B2%81%E7%94%B7%E5%AD%A9%E6%82%A3%E8%B1%A1%E9%BC%BB%E7%97%85%E5%85%A8%E7%90%83%E4%BB%8534%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
