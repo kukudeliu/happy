@@ -1,14 +1,14 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 00:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 00:02:01</h4></div>
 
 > 微博  
 
 1. [易烊千玺 评委](https://s.weibo.com/weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%20%E8%AF%84%E5%A7%94&t=31&band_rank=1&Refer=top)<br />
-2. [EDG首发名单](https://s.weibo.com/weibo?q=%23EDG%E9%A6%96%E5%8F%91%E5%90%8D%E5%8D%95%23&t=31&band_rank=2&Refer=top)<br />
+2. [陈露 王萌](https://s.weibo.com/weibo?q=%E9%99%88%E9%9C%B2%20%E7%8E%8B%E8%90%8C&t=31&band_rank=2&Refer=top)<br />
 3. [3分钟告诉你万物皆可链](https://s.weibo.com/weibo?q=%233%E5%88%86%E9%92%9F%E5%91%8A%E8%AF%89%E4%BD%A0%E4%B8%87%E7%89%A9%E7%9A%86%E5%8F%AF%E9%93%BE%23&t=31&band_rank=3&Refer=top)<br />
-4. [长沙一公司取消了所有的调休](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B2%99%E4%B8%80%E5%85%AC%E5%8F%B8%E5%8F%96%E6%B6%88%E4%BA%86%E6%89%80%E6%9C%89%E7%9A%84%E8%B0%83%E4%BC%91%23&t=31&band_rank=4&Refer=top)<br />
+4. [EDG首发名单](https://s.weibo.com/weibo?q=%23EDG%E9%A6%96%E5%8F%91%E5%90%8D%E5%8D%95%23&t=31&band_rank=4&Refer=top)<br />
 5. [美国亚裔高考接近满分被六大名校拒绝](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BA%9A%E8%A3%94%E9%AB%98%E8%80%83%E6%8E%A5%E8%BF%91%E6%BB%A1%E5%88%86%E8%A2%AB%E5%85%AD%E5%A4%A7%E5%90%8D%E6%A0%A1%E6%8B%92%E7%BB%9D%23&t=31&band_rank=5&Refer=top)<br />
 6. [四川大学回应女生曝光地铁大叔](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%94%9F%E6%9B%9D%E5%85%89%E5%9C%B0%E9%93%81%E5%A4%A7%E5%8F%94%23&t=31&band_rank=6&Refer=top)<br />
-7. [倪妮的项链是腕表](https://s.weibo.com/weibo?q=%23%E5%80%AA%E5%A6%AE%E7%9A%84%E9%A1%B9%E9%93%BE%E6%98%AF%E8%85%95%E8%A1%A8%23&t=31&band_rank=7&Refer=top)<br />
+7. [长沙一公司取消了所有的调休](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B2%99%E4%B8%80%E5%85%AC%E5%8F%B8%E5%8F%96%E6%B6%88%E4%BA%86%E6%89%80%E6%9C%89%E7%9A%84%E8%B0%83%E4%BC%91%23&t=31&band_rank=7&Refer=top)<br />
 8. [陈露涉嫌敲诈勒索案进入审查起诉阶段](https://s.weibo.com/weibo?q=%23%E9%99%88%E9%9C%B2%E6%B6%89%E5%AB%8C%E6%95%B2%E8%AF%88%E5%8B%92%E7%B4%A2%E6%A1%88%E8%BF%9B%E5%85%A5%E5%AE%A1%E6%9F%A5%E8%B5%B7%E8%AF%89%E9%98%B6%E6%AE%B5%23&t=31&band_rank=8&Refer=top)<br />
 9. [倪妮第二套](https://s.weibo.com/weibo?q=%23%E5%80%AA%E5%A6%AE%E7%AC%AC%E4%BA%8C%E5%A5%97%23&t=31&band_rank=9&Refer=top)<br />
 
