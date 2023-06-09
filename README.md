@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 07:19:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 07:20:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [为何 23 年的梅西和 22 年的 C 罗一样没有五大联赛俱乐部报价，最后也是去了非主流联赛？](https://www.zhihu.com/question/605447222)<br />
 7. [布林肯称「美国不要求他国在美中之间选边」，外交部回应「望切实执行」，如何看待美方这一表态？能否执行？](https://www.zhihu.com/question/605668520)<br />
 8. [如果无法解决久坐，能否采用每周 150 分钟中等强度有氧运动来抵消久坐危害，保持身体健康？](https://www.zhihu.com/question/603999527)<br />
-9. [女生为什么会有小肚子？](https://www.zhihu.com/question/315106829)<br />
+9. [2023 LPL 夏季赛 TES 2:1 TT，如何评价这场比赛？](https://www.zhihu.com/question/605681553)<br />
 
 > 百度  
 
