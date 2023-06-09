@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 23:38:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 23:39:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [美参院通过所谓「终止中国发展中国家地位法」，中方称「中国所做贡献远超绝大多数发达国家」，如何看待此事？](https://www.zhihu.com/question/605664006)<br />
 7. [如何看待《英雄联盟》主播刘谋在直播中因啃老话题与水友发生的讨论？](https://www.zhihu.com/question/605625422)<br />
 8. [酷似麒麟的「瑞兽」中华鬣羚现身云南，「四不像」的鬣羚分布都有哪些特点？它会是麒麟的原型吗？](https://www.zhihu.com/question/605708175)<br />
-9. [给你一个亿，或者让你上北大，如果只能选一个，你选择哪个？](https://www.zhihu.com/question/604400719)<br />
+9. [法律专家称翟欣欣「最高可获无期徒刑」，如何看待这一观点？「敲诈勒索罪」的量刑标准是怎样的？](https://www.zhihu.com/question/605717059)<br />
 
 > 百度  
 
@@ -31,7 +31,7 @@
 3. [人民日报评高考迟到破例入场](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E9%AB%98%E8%80%83%E8%BF%9F%E5%88%B0%E7%A0%B4%E4%BE%8B%E5%85%A5%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [更好助力高校毕业生就业创业](https://www.baidu.com/s?wd=%E6%9B%B4%E5%A5%BD%E5%8A%A9%E5%8A%9B%E9%AB%98%E6%A0%A1%E6%AF%95%E4%B8%9A%E7%94%9F%E5%B0%B1%E4%B8%9A%E5%88%9B%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [高校学费告别5000元时代](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E5%AD%A6%E8%B4%B9%E5%91%8A%E5%88%AB5000%E5%85%83%E6%97%B6%E4%BB%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [多名嫌犯被游行示众？西宁警方回应](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E5%AB%8C%E7%8A%AF%E8%A2%AB%E6%B8%B8%E8%A1%8C%E7%A4%BA%E4%BC%97%EF%BC%9F%E8%A5%BF%E5%AE%81%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [军报连续发文点名“四虎”](https://www.baidu.com/s?wd=%E5%86%9B%E6%8A%A5%E8%BF%9E%E7%BB%AD%E5%8F%91%E6%96%87%E7%82%B9%E5%90%8D%E2%80%9C%E5%9B%9B%E8%99%8E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [牵手门持续发酵 还有几点疑问待解](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E6%8C%81%E7%BB%AD%E5%8F%91%E9%85%B5+%E8%BF%98%E6%9C%89%E5%87%A0%E7%82%B9%E7%96%91%E9%97%AE%E5%BE%85%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女子公众场合扯住老人脖子踢打](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%85%AC%E4%BC%97%E5%9C%BA%E5%90%88%E6%89%AF%E4%BD%8F%E8%80%81%E4%BA%BA%E8%84%96%E5%AD%90%E8%B8%A2%E6%89%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [河南一酒店要求高考生1点前退房](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E9%85%92%E5%BA%97%E8%A6%81%E6%B1%82%E9%AB%98%E8%80%83%E7%94%9F1%E7%82%B9%E5%89%8D%E9%80%80%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -43,7 +43,7 @@
 3. [人民日报评高考迟到破例入场](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E9%AB%98%E8%80%83%E8%BF%9F%E5%88%B0%E7%A0%B4%E4%BE%8B%E5%85%A5%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [更好助力高校毕业生就业创业](https://www.baidu.com/s?wd=%E6%9B%B4%E5%A5%BD%E5%8A%A9%E5%8A%9B%E9%AB%98%E6%A0%A1%E6%AF%95%E4%B8%9A%E7%94%9F%E5%B0%B1%E4%B8%9A%E5%88%9B%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [高校学费告别5000元时代](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E5%AD%A6%E8%B4%B9%E5%91%8A%E5%88%AB5000%E5%85%83%E6%97%B6%E4%BB%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [多名嫌犯被游行示众？西宁警方回应](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E5%AB%8C%E7%8A%AF%E8%A2%AB%E6%B8%B8%E8%A1%8C%E7%A4%BA%E4%BC%97%EF%BC%9F%E8%A5%BF%E5%AE%81%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [军报连续发文点名“四虎”](https://www.baidu.com/s?wd=%E5%86%9B%E6%8A%A5%E8%BF%9E%E7%BB%AD%E5%8F%91%E6%96%87%E7%82%B9%E5%90%8D%E2%80%9C%E5%9B%9B%E8%99%8E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [牵手门持续发酵 还有几点疑问待解](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E6%8C%81%E7%BB%AD%E5%8F%91%E9%85%B5+%E8%BF%98%E6%9C%89%E5%87%A0%E7%82%B9%E7%96%91%E9%97%AE%E5%BE%85%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女子公众场合扯住老人脖子踢打](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%85%AC%E4%BC%97%E5%9C%BA%E5%90%88%E6%89%AF%E4%BD%8F%E8%80%81%E4%BA%BA%E8%84%96%E5%AD%90%E8%B8%A2%E6%89%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [河南一酒店要求高考生1点前退房](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E9%85%92%E5%BA%97%E8%A6%81%E6%B1%82%E9%AB%98%E8%80%83%E7%94%9F1%E7%82%B9%E5%89%8D%E9%80%80%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
