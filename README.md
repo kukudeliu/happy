@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 12:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 12:16:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [注册不了张z](https://s.weibo.com/weibo?q=%23%E6%B3%A8%E5%86%8C%E4%B8%8D%E4%BA%86%E5%BC%A0z%23&t=31&band_rank=6&Refer=top)<br />
 7. [Uzi](https://s.weibo.com/weibo?q=Uzi&t=31&band_rank=7&Refer=top)<br />
 8. [小学生付费阅读曾鹏宇淫秽作品家长报警](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E4%BB%98%E8%B4%B9%E9%98%85%E8%AF%BB%E6%9B%BE%E9%B9%8F%E5%AE%87%E6%B7%AB%E7%A7%BD%E4%BD%9C%E5%93%81%E5%AE%B6%E9%95%BF%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=8&Refer=top)<br />
-9. [LBL官宣uzi离队](https://s.weibo.com/weibo?q=%23LBL%E5%AE%98%E5%AE%A3uzi%E7%A6%BB%E9%98%9F%23&t=31&band_rank=9&Refer=top)<br />
+9. [男职工3年不上班工资3千涨到7千](https://s.weibo.com/weibo?q=%23%E7%94%B7%E8%81%8C%E5%B7%A53%E5%B9%B4%E4%B8%8D%E4%B8%8A%E7%8F%AD%E5%B7%A5%E8%B5%843%E5%8D%83%E6%B6%A8%E5%88%B07%E5%8D%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
