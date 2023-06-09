@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 19:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 19:36:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [游戏《原神》里最有气场的是谁？](https://www.zhihu.com/question/476751897)<br />
 7. [榴莲的产量明明很高，为什么还卖那么贵？](https://www.zhihu.com/question/589135782)<br />
 8. [为何在高温天（40 度以上）空调制冷效果不好？](https://www.zhihu.com/question/404757863)<br />
-9. [为什么人类喜欢追问生命的意义、活着的目的？](https://www.zhihu.com/question/599599842)<br />
+9. [电影《教父》中，桑尼被害的深层原因是什么？](https://www.zhihu.com/question/600381053)<br />
 
 > 百度  
 
