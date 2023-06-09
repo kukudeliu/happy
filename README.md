@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 21:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 21:34:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [3岁男孩患象鼻病全球仅34例](https://www.baidu.com/s?wd=3%E5%B2%81%E7%94%B7%E5%AD%A9%E6%82%A3%E8%B1%A1%E9%BC%BB%E7%97%85%E5%85%A8%E7%90%83%E4%BB%8534%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [高校学费告别5000元时代](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E5%AD%A6%E8%B4%B9%E5%91%8A%E5%88%AB5000%E5%85%83%E6%97%B6%E4%BB%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [上海国际电影节](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%9B%BD%E9%99%85%E7%94%B5%E5%BD%B1%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [小野猪动物园打工每天翻地](https://www.baidu.com/s?wd=%E5%B0%8F%E9%87%8E%E7%8C%AA%E5%8A%A8%E7%89%A9%E5%9B%AD%E6%89%93%E5%B7%A5%E6%AF%8F%E5%A4%A9%E7%BF%BB%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [EXO确定于7月10日回归](https://www.baidu.com/s?wd=EXO%E7%A1%AE%E5%AE%9A%E4%BA%8E7%E6%9C%8810%E6%97%A5%E5%9B%9E%E5%BD%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [3岁男孩患象鼻病全球仅34例](https://www.baidu.com/s?wd=3%E5%B2%81%E7%94%B7%E5%AD%A9%E6%82%A3%E8%B1%A1%E9%BC%BB%E7%97%85%E5%85%A8%E7%90%83%E4%BB%8534%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [高校学费告别5000元时代](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E5%AD%A6%E8%B4%B9%E5%91%8A%E5%88%AB5000%E5%85%83%E6%97%B6%E4%BB%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [上海国际电影节](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%9B%BD%E9%99%85%E7%94%B5%E5%BD%B1%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [小野猪动物园打工每天翻地](https://www.baidu.com/s?wd=%E5%B0%8F%E9%87%8E%E7%8C%AA%E5%8A%A8%E7%89%A9%E5%9B%AD%E6%89%93%E5%B7%A5%E6%AF%8F%E5%A4%A9%E7%BF%BB%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [EXO确定于7月10日回归](https://www.baidu.com/s?wd=EXO%E7%A1%AE%E5%AE%9A%E4%BA%8E7%E6%9C%8810%E6%97%A5%E5%9B%9E%E5%BD%92&sa=fyb_news&rsv_dl=fyb_news)<br />
