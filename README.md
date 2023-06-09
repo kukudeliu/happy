@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 20:30:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 20:31:01</h4></div>
 
 > 微博  
 
@@ -19,10 +19,10 @@
 3. [我国 5 月 CPI 同比上升 0.2%，PPI 同比下降 4.6%，如何解读？哪些信息值得关注？](https://www.zhihu.com/question/605623897)<br />
 4. [卡霍夫卡水电站大坝被破坏，到底是什么力量让能抵御核弹袭击的水坝「断成两半」？](https://www.zhihu.com/question/605615861)<br />
 5. [2022 届本科毕业生仅 6.9% 月收入过万，超八成高职生起薪低于 6000 元，该薪资水平合理吗？](https://www.zhihu.com/question/605658808)<br />
-6. [国内首批人工智能本科毕业生绝大部分选择考研，如何看待这一选择？](https://www.zhihu.com/theater/11126)<br />
-7. [电影《教父》中，桑尼被害的深层原因是什么？](https://www.zhihu.com/question/600381053)<br />
-8. [北京拟规定共有产权房取得不动产权证满 5 年，可按市场价转让，将给房地产市场带来哪些影响？](https://www.zhihu.com/question/605670192)<br />
-9. [诸葛瞻若是投降，真会被魏晋封王吗？](https://www.zhihu.com/question/601007965)<br />
+6. [电影《教父》中，桑尼被害的深层原因是什么？](https://www.zhihu.com/question/600381053)<br />
+7. [北京拟规定共有产权房取得不动产权证满 5 年，可按市场价转让，将给房地产市场带来哪些影响？](https://www.zhihu.com/question/605670192)<br />
+8. [诸葛瞻若是投降，真会被魏晋封王吗？](https://www.zhihu.com/question/601007965)<br />
+9. [2023 年 6 月 9 日股市上午行情分析？](https://www.zhihu.com/question/605625538)<br />
 
 > 百度  
 
