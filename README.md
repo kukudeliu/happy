@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 17:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 18:00:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [他懂事的样子让人心疼](https://s.weibo.com/weibo?q=%23%E4%BB%96%E6%87%82%E4%BA%8B%E7%9A%84%E6%A0%B7%E5%AD%90%E8%AE%A9%E4%BA%BA%E5%BF%83%E7%96%BC%23&t=31&band_rank=5&Refer=top)<br />
 6. [高考结束](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F&t=31&band_rank=6&Refer=top)<br />
 7. [徐志胜 别磕给大家磕头了](https://s.weibo.com/weibo?q=%E5%BE%90%E5%BF%97%E8%83%9C%20%E5%88%AB%E7%A3%95%E7%BB%99%E5%A4%A7%E5%AE%B6%E7%A3%95%E5%A4%B4%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
-8. [大黄蜂死了](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%BB%84%E8%9C%82%E6%AD%BB%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [白鹿你不热吗](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E4%BD%A0%E4%B8%8D%E7%83%AD%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
+8. [白鹿你不热吗](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E4%BD%A0%E4%B8%8D%E7%83%AD%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
+9. [大黄蜂死了](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%BB%84%E8%9C%82%E6%AD%BB%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
