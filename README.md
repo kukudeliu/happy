@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 16:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 16:49:02</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [女孩出考场与母亲同框被误认为姐妹](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%87%BA%E8%80%83%E5%9C%BA%E4%B8%8E%E6%AF%8D%E4%BA%B2%E5%90%8C%E6%A1%86%E8%A2%AB%E8%AF%AF%E8%AE%A4%E4%B8%BA%E5%A7%90%E5%A6%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [酷似麒麟的瑞兽中华鬣羚现身](https://www.baidu.com/s?wd=%E9%85%B7%E4%BC%BC%E9%BA%92%E9%BA%9F%E7%9A%84%E7%91%9E%E5%85%BD%E4%B8%AD%E5%8D%8E%E9%AC%A3%E7%BE%9A%E7%8E%B0%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [高考后这些东西不要发朋友圈](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E5%90%8E%E8%BF%99%E4%BA%9B%E4%B8%9C%E8%A5%BF%E4%B8%8D%E8%A6%81%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [40岁男子当全职儿子每月领5500元](https://www.baidu.com/s?wd=40%E5%B2%81%E7%94%B7%E5%AD%90%E5%BD%93%E5%85%A8%E8%81%8C%E5%84%BF%E5%AD%90%E6%AF%8F%E6%9C%88%E9%A2%865500%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [英国开展“无条件发钱”实验](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E5%BC%80%E5%B1%95%E2%80%9C%E6%97%A0%E6%9D%A1%E4%BB%B6%E5%8F%91%E9%92%B1%E2%80%9D%E5%AE%9E%E9%AA%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [林丹喊话高考完想打羽毛球女生](https://www.baidu.com/s?wd=%E6%9E%97%E4%B8%B9%E5%96%8A%E8%AF%9D%E9%AB%98%E8%80%83%E5%AE%8C%E6%83%B3%E6%89%93%E7%BE%BD%E6%AF%9B%E7%90%83%E5%A5%B3%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [商务车挂“牛B”车牌上路](https://www.baidu.com/s?wd=%E5%95%86%E5%8A%A1%E8%BD%A6%E6%8C%82%E2%80%9C%E7%89%9BB%E2%80%9D%E8%BD%A6%E7%89%8C%E4%B8%8A%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [女孩出考场与母亲同框被误认为姐妹](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%87%BA%E8%80%83%E5%9C%BA%E4%B8%8E%E6%AF%8D%E4%BA%B2%E5%90%8C%E6%A1%86%E8%A2%AB%E8%AF%AF%E8%AE%A4%E4%B8%BA%E5%A7%90%E5%A6%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [酷似麒麟的瑞兽中华鬣羚现身](https://www.baidu.com/s?wd=%E9%85%B7%E4%BC%BC%E9%BA%92%E9%BA%9F%E7%9A%84%E7%91%9E%E5%85%BD%E4%B8%AD%E5%8D%8E%E9%AC%A3%E7%BE%9A%E7%8E%B0%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [高考后这些东西不要发朋友圈](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E5%90%8E%E8%BF%99%E4%BA%9B%E4%B8%9C%E8%A5%BF%E4%B8%8D%E8%A6%81%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [40岁男子当全职儿子每月领5500元](https://www.baidu.com/s?wd=40%E5%B2%81%E7%94%B7%E5%AD%90%E5%BD%93%E5%85%A8%E8%81%8C%E5%84%BF%E5%AD%90%E6%AF%8F%E6%9C%88%E9%A2%865500%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [英国开展“无条件发钱”实验](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E5%BC%80%E5%B1%95%E2%80%9C%E6%97%A0%E6%9D%A1%E4%BB%B6%E5%8F%91%E9%92%B1%E2%80%9D%E5%AE%9E%E9%AA%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [林丹喊话高考完想打羽毛球女生](https://www.baidu.com/s?wd=%E6%9E%97%E4%B8%B9%E5%96%8A%E8%AF%9D%E9%AB%98%E8%80%83%E5%AE%8C%E6%83%B3%E6%89%93%E7%BE%BD%E6%AF%9B%E7%90%83%E5%A5%B3%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [商务车挂“牛B”车牌上路](https://www.baidu.com/s?wd=%E5%95%86%E5%8A%A1%E8%BD%A6%E6%8C%82%E2%80%9C%E7%89%9BB%E2%80%9D%E8%BD%A6%E7%89%8C%E4%B8%8A%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
