@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 13:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 13:48:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [如何评价《变形金刚：超能勇士崛起》？](https://www.zhihu.com/question/605098353)<br />
 6. [「鼠头鸭脖」涉事高校学生称，又在食堂吃出大青虫，具体情况如何？高校食堂为何频繁曝出问题？](https://www.zhihu.com/question/605552961)<br />
 7. [乌克兰国际储备达 373.113 亿美元历史新高，这一数据透露了哪些信息？](https://www.zhihu.com/question/605234200)<br />
-8. [九江一幼儿园员工在小便池清洗餐具，官方通报「情况属实，停业整顿」，如何看待此事？](https://www.zhihu.com/question/605473307)<br />
-9. [网传 Uzi 将复出加盟 EDG 战队，对此你有哪些期待？](https://www.zhihu.com/question/605494464)<br />
+8. [网传 Uzi 将复出加盟 EDG 战队，对此你有哪些期待？](https://www.zhihu.com/question/605494464)<br />
+9. [九江一幼儿园员工在小便池清洗餐具，官方通报「情况属实，停业整顿」，如何看待此事？](https://www.zhihu.com/question/605473307)<br />
 
 > 百度  
 
