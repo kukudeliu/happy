@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 00:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 00:11:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [四川大学回应女生曝光地铁大叔](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%94%9F%E6%9B%9D%E5%85%89%E5%9C%B0%E9%93%81%E5%A4%A7%E5%8F%94%23&t=31&band_rank=6&Refer=top)<br />
 7. [长沙一公司取消了所有的调休](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B2%99%E4%B8%80%E5%85%AC%E5%8F%B8%E5%8F%96%E6%B6%88%E4%BA%86%E6%89%80%E6%9C%89%E7%9A%84%E8%B0%83%E4%BC%91%23&t=31&band_rank=7&Refer=top)<br />
 8. [倪妮第二套](https://s.weibo.com/weibo?q=%23%E5%80%AA%E5%A6%AE%E7%AC%AC%E4%BA%8C%E5%A5%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [陈露涉嫌敲诈勒索案进入审查起诉阶段](https://s.weibo.com/weibo?q=%23%E9%99%88%E9%9C%B2%E6%B6%89%E5%AB%8C%E6%95%B2%E8%AF%88%E5%8B%92%E7%B4%A2%E6%A1%88%E8%BF%9B%E5%85%A5%E5%AE%A1%E6%9F%A5%E8%B5%B7%E8%AF%89%E9%98%B6%E6%AE%B5%23&t=31&band_rank=9&Refer=top)<br />
+9. [注册不了张z被曝专业是新闻传播](https://s.weibo.com/weibo?q=%23%E6%B3%A8%E5%86%8C%E4%B8%8D%E4%BA%86%E5%BC%A0z%E8%A2%AB%E6%9B%9D%E4%B8%93%E4%B8%9A%E6%98%AF%E6%96%B0%E9%97%BB%E4%BC%A0%E6%92%AD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
