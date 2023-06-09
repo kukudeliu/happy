@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 08:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 08:12:02</h4></div>
 
 > 微博  
 
@@ -19,8 +19,8 @@
 3. [九江一幼儿园员工在小便池清洗餐具，官方通报「情况属实，停业整顿」，如何看待此事？](https://www.zhihu.com/question/605473307)<br />
 4. [近 700 万粉丝的汽车博主蔡老板侵犯特斯拉名誉权败诉，拒不向特斯拉道歉，被强制执行，如何看待此事？](https://www.zhihu.com/question/605112962)<br />
 5. [卫星首次成功向地球传送太阳能，证明天基能源可信性，具有哪些重大意义？](https://www.zhihu.com/question/605422459)<br />
-6. [吴磊骑电助力自行车（e-bike）去新疆，相比纯人力自行车这类车有哪些优势？](https://www.zhihu.com/question/604844013)<br />
-7. [三国君主投降之后，魏称王，吴称侯，蜀称公，这是为什么？](https://www.zhihu.com/question/499047452)<br />
+6. [三国君主投降之后，魏称王，吴称侯，蜀称公，这是为什么？](https://www.zhihu.com/question/499047452)<br />
+7. [吴磊骑电助力自行车（e-bike）去新疆，相比纯人力自行车这类车有哪些优势？](https://www.zhihu.com/question/604844013)<br />
 8. [日防卫省称中俄轰炸机编队进入太平洋，「推定」大量战斗机护航，为何是「推定」？说明了哪些问题？](https://www.zhihu.com/question/605493462)<br />
 9. [为什么《蜘蛛侠：纵横宇宙》的高口碑没有带动中国票房大涨?](https://www.zhihu.com/question/605399059)<br />
 
