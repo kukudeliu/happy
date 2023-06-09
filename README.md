@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 21:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 21:54:01</h4></div>
 
 > 微博  
 
-1. [BBC卧底记者扒出经营偷拍视频团伙](https://s.weibo.com/weibo?q=BBC%E5%8D%A7%E5%BA%95%E8%AE%B0%E8%80%85%E6%89%92%E5%87%BA%E7%BB%8F%E8%90%A5%E5%81%B7%E6%8B%8D%E8%A7%86%E9%A2%91%E5%9B%A2%E4%BC%99&t=31&band_rank=1&Refer=top)<br />
-2. [易烊千玺 评委](https://s.weibo.com/weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%20%E8%AF%84%E5%A7%94&t=31&band_rank=2&Refer=top)<br />
+1. [易烊千玺 评委](https://s.weibo.com/weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%20%E8%AF%84%E5%A7%94&t=31&band_rank=1&Refer=top)<br />
+2. [BBC卧底记者扒出经营偷拍视频团伙](https://s.weibo.com/weibo?q=BBC%E5%8D%A7%E5%BA%95%E8%AE%B0%E8%80%85%E6%89%92%E5%87%BA%E7%BB%8F%E8%90%A5%E5%81%B7%E6%8B%8D%E8%A7%86%E9%A2%91%E5%9B%A2%E4%BC%99&t=31&band_rank=2&Refer=top)<br />
 3. [为中国航天点赞](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E7%82%B9%E8%B5%9E%23&t=31&band_rank=3&Refer=top)<br />
 4. [王源易烊千玺工作室出图](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%87%BA%E5%9B%BE%23&t=31&band_rank=4&Refer=top)<br />
 5. [胡歌把吴磊抱起来了](https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E6%8A%8A%E5%90%B4%E7%A3%8A%E6%8A%B1%E8%B5%B7%E6%9D%A5%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
