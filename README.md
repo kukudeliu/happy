@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 21:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 21:23:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [四川大学回应女生曝光地铁大叔](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%94%9F%E6%9B%9D%E5%85%89%E5%9C%B0%E9%93%81%E5%A4%A7%E5%8F%94%23&t=31&band_rank=6&Refer=top)<br />
 7. [杨幂私服](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E7%A7%81%E6%9C%8D&t=31&band_rank=7&Refer=top)<br />
 8. [无字 乌兹](https://s.weibo.com/weibo?q=%E6%97%A0%E5%AD%97%20%E4%B9%8C%E5%85%B9&t=31&band_rank=8&Refer=top)<br />
-9. [徐志胜 别磕给大家磕头了](https://s.weibo.com/weibo?q=%E5%BE%90%E5%BF%97%E8%83%9C%20%E5%88%AB%E7%A3%95%E7%BB%99%E5%A4%A7%E5%AE%B6%E7%A3%95%E5%A4%B4%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [白鹿你不热吗](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E4%BD%A0%E4%B8%8D%E7%83%AD%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
