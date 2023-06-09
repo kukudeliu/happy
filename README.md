@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 10:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 10:35:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [小学生付费阅读曾鹏宇淫秽作品家长报警](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E4%BB%98%E8%B4%B9%E9%98%85%E8%AF%BB%E6%9B%BE%E9%B9%8F%E5%AE%87%E6%B7%AB%E7%A7%BD%E4%BD%9C%E5%93%81%E5%AE%B6%E9%95%BF%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=6&Refer=top)<br />
 7. [LBL官宣uzi离队](https://s.weibo.com/weibo?q=%23LBL%E5%AE%98%E5%AE%A3uzi%E7%A6%BB%E9%98%9F%23&t=31&band_rank=7&Refer=top)<br />
 8. [外媒曝Jennie将加入漫威](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%AA%92%E6%9B%9DJennie%E5%B0%86%E5%8A%A0%E5%85%A5%E6%BC%AB%E5%A8%81%23&t=31&band_rank=8&Refer=top)<br />
-9. [肝脏移植前后肤色对比](https://s.weibo.com/weibo?q=%E8%82%9D%E8%84%8F%E7%A7%BB%E6%A4%8D%E5%89%8D%E5%90%8E%E8%82%A4%E8%89%B2%E5%AF%B9%E6%AF%94&t=31&band_rank=9&Refer=top)<br />
+9. [孩子你配享太庙](https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E4%BD%A0%E9%85%8D%E4%BA%AB%E5%A4%AA%E5%BA%99%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
