@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 12:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 12:06:01</h4></div>
 
 > 微博  
 
-1. [孩子你配享太庙](https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E4%BD%A0%E9%85%8D%E4%BA%AB%E5%A4%AA%E5%BA%99%23&t=31&band_rank=1&Refer=top)<br />
-2. [原来肝脏不好真的会变丑](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%82%9D%E8%84%8F%E4%B8%8D%E5%A5%BD%E7%9C%9F%E7%9A%84%E4%BC%9A%E5%8F%98%E4%B8%91%23&t=31&band_rank=2&Refer=top)<br />
+1. [原来肝脏不好真的会变丑](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%82%9D%E8%84%8F%E4%B8%8D%E5%A5%BD%E7%9C%9F%E7%9A%84%E4%BC%9A%E5%8F%98%E4%B8%91%23&t=31&band_rank=1&Refer=top)<br />
+2. [孩子你配享太庙](https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E4%BD%A0%E9%85%8D%E4%BA%AB%E5%A4%AA%E5%BA%99%23&t=31&band_rank=2&Refer=top)<br />
 3. [世界上建设难度最高的跨海集群工程](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E4%B8%8A%E5%BB%BA%E8%AE%BE%E9%9A%BE%E5%BA%A6%E6%9C%80%E9%AB%98%E7%9A%84%E8%B7%A8%E6%B5%B7%E9%9B%86%E7%BE%A4%E5%B7%A5%E7%A8%8B%23&t=31&band_rank=3&Refer=top)<br />
 4. [跑男泰国](https://s.weibo.com/weibo?q=%E8%B7%91%E7%94%B7%E6%B3%B0%E5%9B%BD&t=31&band_rank=4&Refer=top)<br />
 5. [Uzi](https://s.weibo.com/weibo?q=Uzi&t=31&band_rank=5&Refer=top)<br />
@@ -20,8 +20,8 @@
 4. [网传 Uzi 将复出加盟 EDG 战队，对此你有哪些期待？](https://www.zhihu.com/question/605494464)<br />
 5. [德国 GDP 两个现季度出负增长，欧洲「火车头」成「害群之马」，德国经济怎么了？对欧洲会造成哪些影响？](https://www.zhihu.com/question/605491276)<br />
 6. [我国 5 月 CPI 同比上升 0.2%，PPI 同比下降 4.6%，如何解读？哪些信息值得关注？](https://www.zhihu.com/question/605623897)<br />
-7. [「鼠头鸭脖」涉事高校学生称，又在食堂吃出大青虫，具体情况如何？高校食堂为何频繁曝出问题？](https://www.zhihu.com/question/605552961)<br />
-8. [海航新规管控空姐体重「超重 10％ 立即停飞减重 」，属行业首次，新规是否涉及歧视等问题？是否违法？](https://www.zhihu.com/question/605556110)<br />
+7. [海航新规管控空姐体重「超重 10％ 立即停飞减重 」，属行业首次，新规是否涉及歧视等问题？是否违法？](https://www.zhihu.com/question/605556110)<br />
+8. [「鼠头鸭脖」涉事高校学生称，又在食堂吃出大青虫，具体情况如何？高校食堂为何频繁曝出问题？](https://www.zhihu.com/question/605552961)<br />
 9. [动视暴雪称《暗黑破坏神 4》成为公司有史以来首销最快的一款游戏，你认为该游戏畅销原因有哪些？](https://www.zhihu.com/question/605248807)<br />
 
 > 百度  
