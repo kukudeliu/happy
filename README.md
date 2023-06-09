@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 13:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 13:12:01</h4></div>
 
 > 微博  
 
-1. [原来肝脏不好真的会变丑](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%82%9D%E8%84%8F%E4%B8%8D%E5%A5%BD%E7%9C%9F%E7%9A%84%E4%BC%9A%E5%8F%98%E4%B8%91%23&t=31&band_rank=1&Refer=top)<br />
-2. [你赞成取消调休吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%B5%9E%E6%88%90%E5%8F%96%E6%B6%88%E8%B0%83%E4%BC%91%E5%90%97%23&t=31&band_rank=2&Refer=top)<br />
+1. [你赞成取消调休吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%B5%9E%E6%88%90%E5%8F%96%E6%B6%88%E8%B0%83%E4%BC%91%E5%90%97%23&t=31&band_rank=1&Refer=top)<br />
+2. [原来肝脏不好真的会变丑](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%82%9D%E8%84%8F%E4%B8%8D%E5%A5%BD%E7%9C%9F%E7%9A%84%E4%BC%9A%E5%8F%98%E4%B8%91%23&t=31&band_rank=2&Refer=top)<br />
 3. [高考过后最想做的一件事](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E8%BF%87%E5%90%8E%E6%9C%80%E6%83%B3%E5%81%9A%E7%9A%84%E4%B8%80%E4%BB%B6%E4%BA%8B%23&t=31&band_rank=3&Refer=top)<br />
 4. [孩子你配享太庙](https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E4%BD%A0%E9%85%8D%E4%BA%AB%E5%A4%AA%E5%BA%99%23&t=31&band_rank=4&Refer=top)<br />
 5. [注册不了张z](https://s.weibo.com/weibo?q=%23%E6%B3%A8%E5%86%8C%E4%B8%8D%E4%BA%86%E5%BC%A0z%23&t=31&band_rank=5&Refer=top)<br />
