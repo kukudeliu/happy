@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 23:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 23:42:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [四川大学回应女生曝光地铁大叔](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%94%9F%E6%9B%9D%E5%85%89%E5%9C%B0%E9%93%81%E5%A4%A7%E5%8F%94%23&t=31&band_rank=6&Refer=top)<br />
 7. [陈露涉嫌敲诈勒索案进入审查起诉阶段](https://s.weibo.com/weibo?q=%23%E9%99%88%E9%9C%B2%E6%B6%89%E5%AB%8C%E6%95%B2%E8%AF%88%E5%8B%92%E7%B4%A2%E6%A1%88%E8%BF%9B%E5%85%A5%E5%AE%A1%E6%9F%A5%E8%B5%B7%E8%AF%89%E9%98%B6%E6%AE%B5%23&t=31&band_rank=7&Refer=top)<br />
 8. [倪妮第二套](https://s.weibo.com/weibo?q=%23%E5%80%AA%E5%A6%AE%E7%AC%AC%E4%BA%8C%E5%A5%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [胡歌把吴磊抱起来了](https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E6%8A%8A%E5%90%B4%E7%A3%8A%E6%8A%B1%E8%B5%B7%E6%9D%A5%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [美国亚裔高考接近满分被六大名校拒绝](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BA%9A%E8%A3%94%E9%AB%98%E8%80%83%E6%8E%A5%E8%BF%91%E6%BB%A1%E5%88%86%E8%A2%AB%E5%85%AD%E5%A4%A7%E5%90%8D%E6%A0%A1%E6%8B%92%E7%BB%9D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
