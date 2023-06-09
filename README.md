@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 20:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 20:20:02</h4></div>
 
 > 微博  
 
@@ -19,7 +19,7 @@
 3. [为什么华为手机国产率这么高，价格却降不下来？](https://www.zhihu.com/question/604699463)<br />
 4. [卡霍夫卡水电站大坝被破坏，到底是什么力量让能抵御核弹袭击的水坝「断成两半」？](https://www.zhihu.com/question/605615861)<br />
 5. [2022 届本科毕业生仅 6.9% 月收入过万，超八成高职生起薪低于 6000 元，该薪资水平合理吗？](https://www.zhihu.com/question/605658808)<br />
-6. [学习人工智能专业需要具备的核心竞争力和思维方式是什么？](https://www.zhihu.com/theater/11126)<br />
+6. [IT 行业饱和了吗？数学基础差可以转编程吗？](https://www.zhihu.com/theater/11126)<br />
 7. [电影《教父》中，桑尼被害的深层原因是什么？](https://www.zhihu.com/question/600381053)<br />
 8. [北京拟规定共有产权房取得不动产权证满 5 年，可按市场价转让，将给房地产市场带来哪些影响？](https://www.zhihu.com/question/605670192)<br />
 9. [有哪些全天戴着耳朵能不胀痛很舒适的蓝牙耳机？](https://www.zhihu.com/question/596894468)<br />
@@ -32,9 +32,9 @@
 4. [一条航线见证复苏新前景](https://www.baidu.com/s?wd=%E4%B8%80%E6%9D%A1%E8%88%AA%E7%BA%BF%E8%A7%81%E8%AF%81%E5%A4%8D%E8%8B%8F%E6%96%B0%E5%89%8D%E6%99%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子曝任职村副书记的妻子出轨书记](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%9B%9D%E4%BB%BB%E8%81%8C%E6%9D%91%E5%89%AF%E4%B9%A6%E8%AE%B0%E7%9A%84%E5%A6%BB%E5%AD%90%E5%87%BA%E8%BD%A8%E4%B9%A6%E8%AE%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [高校学费告别5000元时代](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E5%AD%A6%E8%B4%B9%E5%91%8A%E5%88%AB5000%E5%85%83%E6%97%B6%E4%BB%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [盗墓团伙穿清代龙袍炫耀](https://www.baidu.com/s?wd=%E7%9B%97%E5%A2%93%E5%9B%A2%E4%BC%99%E7%A9%BF%E6%B8%85%E4%BB%A3%E9%BE%99%E8%A2%8D%E7%82%AB%E8%80%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [长沙一公司取消了所有的调休](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E4%B8%80%E5%85%AC%E5%8F%B8%E5%8F%96%E6%B6%88%E4%BA%86%E6%89%80%E6%9C%89%E7%9A%84%E8%B0%83%E4%BC%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [上海国际电影节开幕红毯](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%9B%BD%E9%99%85%E7%94%B5%E5%BD%B1%E8%8A%82%E5%BC%80%E5%B9%95%E7%BA%A2%E6%AF%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [哥哥穿旗袍接妹妹发现跑错考点](https://www.baidu.com/s?wd=%E5%93%A5%E5%93%A5%E7%A9%BF%E6%97%97%E8%A2%8D%E6%8E%A5%E5%A6%B9%E5%A6%B9%E5%8F%91%E7%8E%B0%E8%B7%91%E9%94%99%E8%80%83%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [盗墓团伙穿清代龙袍炫耀](https://www.baidu.com/s?wd=%E7%9B%97%E5%A2%93%E5%9B%A2%E4%BC%99%E7%A9%BF%E6%B8%85%E4%BB%A3%E9%BE%99%E8%A2%8D%E7%82%AB%E8%80%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [一条航线见证复苏新前景](https://www.baidu.com/s?wd=%E4%B8%80%E6%9D%A1%E8%88%AA%E7%BA%BF%E8%A7%81%E8%AF%81%E5%A4%8D%E8%8B%8F%E6%96%B0%E5%89%8D%E6%99%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子曝任职村副书记的妻子出轨书记](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%9B%9D%E4%BB%BB%E8%81%8C%E6%9D%91%E5%89%AF%E4%B9%A6%E8%AE%B0%E7%9A%84%E5%A6%BB%E5%AD%90%E5%87%BA%E8%BD%A8%E4%B9%A6%E8%AE%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [高校学费告别5000元时代](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E5%AD%A6%E8%B4%B9%E5%91%8A%E5%88%AB5000%E5%85%83%E6%97%B6%E4%BB%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [盗墓团伙穿清代龙袍炫耀](https://www.baidu.com/s?wd=%E7%9B%97%E5%A2%93%E5%9B%A2%E4%BC%99%E7%A9%BF%E6%B8%85%E4%BB%A3%E9%BE%99%E8%A2%8D%E7%82%AB%E8%80%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [长沙一公司取消了所有的调休](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E4%B8%80%E5%85%AC%E5%8F%B8%E5%8F%96%E6%B6%88%E4%BA%86%E6%89%80%E6%9C%89%E7%9A%84%E8%B0%83%E4%BC%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [上海国际电影节开幕红毯](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%9B%BD%E9%99%85%E7%94%B5%E5%BD%B1%E8%8A%82%E5%BC%80%E5%B9%95%E7%BA%A2%E6%AF%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [哥哥穿旗袍接妹妹发现跑错考点](https://www.baidu.com/s?wd=%E5%93%A5%E5%93%A5%E7%A9%BF%E6%97%97%E8%A2%8D%E6%8E%A5%E5%A6%B9%E5%A6%B9%E5%8F%91%E7%8E%B0%E8%B7%91%E9%94%99%E8%80%83%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [盗墓团伙穿清代龙袍炫耀](https://www.baidu.com/s?wd=%E7%9B%97%E5%A2%93%E5%9B%A2%E4%BC%99%E7%A9%BF%E6%B8%85%E4%BB%A3%E9%BE%99%E8%A2%8D%E7%82%AB%E8%80%80&sa=fyb_news&rsv_dl=fyb_news)<br />
