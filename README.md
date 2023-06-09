@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 11:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 11:49:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [赖冠霖今年没有参加高考](https://s.weibo.com/weibo?q=%23%E8%B5%96%E5%86%A0%E9%9C%96%E4%BB%8A%E5%B9%B4%E6%B2%A1%E6%9C%89%E5%8F%82%E5%8A%A0%E9%AB%98%E8%80%83%23&t=31&band_rank=5&Refer=top)<br />
 6. [Uzi](https://s.weibo.com/weibo?q=Uzi&t=31&band_rank=6&Refer=top)<br />
 7. [小学生付费阅读曾鹏宇淫秽作品家长报警](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E4%BB%98%E8%B4%B9%E9%98%85%E8%AF%BB%E6%9B%BE%E9%B9%8F%E5%AE%87%E6%B7%AB%E7%A7%BD%E4%BD%9C%E5%93%81%E5%AE%B6%E9%95%BF%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=7&Refer=top)<br />
-8. [男职工3年不上班工资3千涨到7千](https://s.weibo.com/weibo?q=%23%E7%94%B7%E8%81%8C%E5%B7%A53%E5%B9%B4%E4%B8%8D%E4%B8%8A%E7%8F%AD%E5%B7%A5%E8%B5%843%E5%8D%83%E6%B6%A8%E5%88%B07%E5%8D%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [LBL官宣uzi离队](https://s.weibo.com/weibo?q=%23LBL%E5%AE%98%E5%AE%A3uzi%E7%A6%BB%E9%98%9F%23&t=31&band_rank=9&Refer=top)<br />
+8. [LBL官宣uzi离队](https://s.weibo.com/weibo?q=%23LBL%E5%AE%98%E5%AE%A3uzi%E7%A6%BB%E9%98%9F%23&t=31&band_rank=8&Refer=top)<br />
+9. [男职工3年不上班工资3千涨到7千](https://s.weibo.com/weibo?q=%23%E7%94%B7%E8%81%8C%E5%B7%A53%E5%B9%B4%E4%B8%8D%E4%B8%8A%E7%8F%AD%E5%B7%A5%E8%B5%843%E5%8D%83%E6%B6%A8%E5%88%B07%E5%8D%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -34,7 +34,7 @@
 6. [考生喊话：取消调休，取消调休](https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%E5%96%8A%E8%AF%9D%EF%BC%9A%E5%8F%96%E6%B6%88%E8%B0%83%E4%BC%91%EF%BC%8C%E5%8F%96%E6%B6%88%E8%B0%83%E4%BC%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [牵手门后续：记者采访被迅速挂电话](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E5%90%8E%E7%BB%AD%EF%BC%9A%E8%AE%B0%E8%80%85%E9%87%87%E8%AE%BF%E8%A2%AB%E8%BF%85%E9%80%9F%E6%8C%82%E7%94%B5%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [90后程序员回家卖羊粪月销120万](https://www.baidu.com/s?wd=90%E5%90%8E%E7%A8%8B%E5%BA%8F%E5%91%98%E5%9B%9E%E5%AE%B6%E5%8D%96%E7%BE%8A%E7%B2%AA%E6%9C%88%E9%94%80120%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [考场外鲜花售价主打一个吉利](https://www.baidu.com/s?wd=%E8%80%83%E5%9C%BA%E5%A4%96%E9%B2%9C%E8%8A%B1%E5%94%AE%E4%BB%B7%E4%B8%BB%E6%89%93%E4%B8%80%E4%B8%AA%E5%90%89%E5%88%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [英国开展“无条件发钱”实验](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E5%BC%80%E5%B1%95%E2%80%9C%E6%97%A0%E6%9D%A1%E4%BB%B6%E5%8F%91%E9%92%B1%E2%80%9D%E5%AE%9E%E9%AA%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [考生喊话：取消调休，取消调休](https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%E5%96%8A%E8%AF%9D%EF%BC%9A%E5%8F%96%E6%B6%88%E8%B0%83%E4%BC%91%EF%BC%8C%E5%8F%96%E6%B6%88%E8%B0%83%E4%BC%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [牵手门后续：记者采访被迅速挂电话](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E5%90%8E%E7%BB%AD%EF%BC%9A%E8%AE%B0%E8%80%85%E9%87%87%E8%AE%BF%E8%A2%AB%E8%BF%85%E9%80%9F%E6%8C%82%E7%94%B5%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [90后程序员回家卖羊粪月销120万](https://www.baidu.com/s?wd=90%E5%90%8E%E7%A8%8B%E5%BA%8F%E5%91%98%E5%9B%9E%E5%AE%B6%E5%8D%96%E7%BE%8A%E7%B2%AA%E6%9C%88%E9%94%80120%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [考场外鲜花售价主打一个吉利](https://www.baidu.com/s?wd=%E8%80%83%E5%9C%BA%E5%A4%96%E9%B2%9C%E8%8A%B1%E5%94%AE%E4%BB%B7%E4%B8%BB%E6%89%93%E4%B8%80%E4%B8%AA%E5%90%89%E5%88%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [英国开展“无条件发钱”实验](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E5%BC%80%E5%B1%95%E2%80%9C%E6%97%A0%E6%9D%A1%E4%BB%B6%E5%8F%91%E9%92%B1%E2%80%9D%E5%AE%9E%E9%AA%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
