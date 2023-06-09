@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 19:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 19:50:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [四川大学回应女生曝光地铁大叔](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%94%9F%E6%9B%9D%E5%85%89%E5%9C%B0%E9%93%81%E5%A4%A7%E5%8F%94%23&t=31&band_rank=6&Refer=top)<br />
 7. [他懂事的样子让人心疼](https://s.weibo.com/weibo?q=%23%E4%BB%96%E6%87%82%E4%BA%8B%E7%9A%84%E6%A0%B7%E5%AD%90%E8%AE%A9%E4%BA%BA%E5%BF%83%E7%96%BC%23&t=31&band_rank=7&Refer=top)<br />
 8. [胡歌把吴磊抱起来了](https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E6%8A%8A%E5%90%B4%E7%A3%8A%E6%8A%B1%E8%B5%B7%E6%9D%A5%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [大黄蜂死了](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%BB%84%E8%9C%82%E6%AD%BB%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [倪妮礼服](https://s.weibo.com/weibo?q=%E5%80%AA%E5%A6%AE%E7%A4%BC%E6%9C%8D&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
