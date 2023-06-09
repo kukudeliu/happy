@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 18:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 18:22:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [在机枪枪管上缠湿布是否可以达到水冷效果？](https://www.zhihu.com/question/605380401)<br />
 7. [2022 届本科毕业生仅 6.9% 月收入过万，超八成高职生起薪低于 6000 元，该薪资水平合理吗？](https://www.zhihu.com/question/605658808)<br />
 8. [生活中越来越多的小孩都开始佩戴眼镜，作为家长该如何教导孩子保护视力?](https://www.zhihu.com/question/605058208)<br />
-9. [为什么人类喜欢追问生命的意义、活着的目的？](https://www.zhihu.com/question/599599842)<br />
+9. [游戏《原神》里最有气场的是谁？](https://www.zhihu.com/question/476751897)<br />
 
 > 百度  
 
