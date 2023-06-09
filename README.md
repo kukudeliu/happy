@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 08:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 08:08:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [Amber单杀Uzi](https://s.weibo.com/weibo?q=%23Amber%E5%8D%95%E6%9D%80Uzi%23&t=31&band_rank=6&Refer=top)<br />
 7. [她是怎么忍住不用剪刀的](https://s.weibo.com/weibo?q=%E5%A5%B9%E6%98%AF%E6%80%8E%E4%B9%88%E5%BF%8D%E4%BD%8F%E4%B8%8D%E7%94%A8%E5%89%AA%E5%88%80%E7%9A%84&t=31&band_rank=7&Refer=top)<br />
 8. [杨紫赵露思撞衫](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%92%9E%E8%A1%AB%23&t=31&band_rank=8&Refer=top)<br />
-9. [肖战演技](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%BC%94%E6%8A%80%23&t=31&band_rank=9&Refer=top)<br />
+9. [高考第三天](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E7%AC%AC%E4%B8%89%E5%A4%A9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
