@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 17:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 17:50:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [盗墓团伙穿清代龙袍炫耀](https://www.baidu.com/s?wd=%E7%9B%97%E5%A2%93%E5%9B%A2%E4%BC%99%E7%A9%BF%E6%B8%85%E4%BB%A3%E9%BE%99%E8%A2%8D%E7%82%AB%E8%80%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [主播穿牵手门同款裙带货被指蹭热度](https://www.baidu.com/s?wd=%E4%B8%BB%E6%92%AD%E7%A9%BF%E7%89%B5%E6%89%8B%E9%97%A8%E5%90%8C%E6%AC%BE%E8%A3%99%E5%B8%A6%E8%B4%A7%E8%A2%AB%E6%8C%87%E8%B9%AD%E7%83%AD%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [为清华15次高考的考生：真没那实力](https://www.baidu.com/s?wd=%E4%B8%BA%E6%B8%85%E5%8D%8E15%E6%AC%A1%E9%AB%98%E8%80%83%E7%9A%84%E8%80%83%E7%94%9F%EF%BC%9A%E7%9C%9F%E6%B2%A1%E9%82%A3%E5%AE%9E%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [学霸捧花接同学 一句祝福惊艳了](https://www.baidu.com/s?wd=%E5%AD%A6%E9%9C%B8%E6%8D%A7%E8%8A%B1%E6%8E%A5%E5%90%8C%E5%AD%A6+%E4%B8%80%E5%8F%A5%E7%A5%9D%E7%A6%8F%E6%83%8A%E8%89%B3%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [英国开展“无条件发钱”实验](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E5%BC%80%E5%B1%95%E2%80%9C%E6%97%A0%E6%9D%A1%E4%BB%B6%E5%8F%91%E9%92%B1%E2%80%9D%E5%AE%9E%E9%AA%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [盗墓团伙穿清代龙袍炫耀](https://www.baidu.com/s?wd=%E7%9B%97%E5%A2%93%E5%9B%A2%E4%BC%99%E7%A9%BF%E6%B8%85%E4%BB%A3%E9%BE%99%E8%A2%8D%E7%82%AB%E8%80%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [主播穿牵手门同款裙带货被指蹭热度](https://www.baidu.com/s?wd=%E4%B8%BB%E6%92%AD%E7%A9%BF%E7%89%B5%E6%89%8B%E9%97%A8%E5%90%8C%E6%AC%BE%E8%A3%99%E5%B8%A6%E8%B4%A7%E8%A2%AB%E6%8C%87%E8%B9%AD%E7%83%AD%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [为清华15次高考的考生：真没那实力](https://www.baidu.com/s?wd=%E4%B8%BA%E6%B8%85%E5%8D%8E15%E6%AC%A1%E9%AB%98%E8%80%83%E7%9A%84%E8%80%83%E7%94%9F%EF%BC%9A%E7%9C%9F%E6%B2%A1%E9%82%A3%E5%AE%9E%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [学霸捧花接同学 一句祝福惊艳了](https://www.baidu.com/s?wd=%E5%AD%A6%E9%9C%B8%E6%8D%A7%E8%8A%B1%E6%8E%A5%E5%90%8C%E5%AD%A6+%E4%B8%80%E5%8F%A5%E7%A5%9D%E7%A6%8F%E6%83%8A%E8%89%B3%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [英国开展“无条件发钱”实验](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E5%BC%80%E5%B1%95%E2%80%9C%E6%97%A0%E6%9D%A1%E4%BB%B6%E5%8F%91%E9%92%B1%E2%80%9D%E5%AE%9E%E9%AA%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
