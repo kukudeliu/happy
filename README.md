@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 20:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 20:06:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [学习人工智能专业需要具备的核心竞争力和思维方式是什么？](https://www.zhihu.com/theater/11126)<br />
 7. [电影《教父》中，桑尼被害的深层原因是什么？](https://www.zhihu.com/question/600381053)<br />
 8. [如果无法解决久坐，能否采用每周 150 分钟中等强度有氧运动来抵消久坐危害，保持身体健康？](https://www.zhihu.com/question/603999527)<br />
-9. [游戏《原神》里最有气场的是谁？](https://www.zhihu.com/question/476751897)<br />
+9. [北京拟规定共有产权房取得不动产权证满 5 年，可按市场价转让，将给房地产市场带来哪些影响？](https://www.zhihu.com/question/605670192)<br />
 
 > 百度  
 
