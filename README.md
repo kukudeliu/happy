@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 10:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 10:50:01</h4></div>
 
 > 微博  
 
-1. [考生喊话取消调休](https://s.weibo.com/weibo?q=%23%E8%80%83%E7%94%9F%E5%96%8A%E8%AF%9D%E5%8F%96%E6%B6%88%E8%B0%83%E4%BC%91%23&t=31&band_rank=1&Refer=top)<br />
-2. [孩子你配享太庙](https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E4%BD%A0%E9%85%8D%E4%BA%AB%E5%A4%AA%E5%BA%99%23&t=31&band_rank=2&Refer=top)<br />
+1. [孩子你配享太庙](https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E4%BD%A0%E9%85%8D%E4%BA%AB%E5%A4%AA%E5%BA%99%23&t=31&band_rank=1&Refer=top)<br />
+2. [考生喊话取消调休](https://s.weibo.com/weibo?q=%23%E8%80%83%E7%94%9F%E5%96%8A%E8%AF%9D%E5%8F%96%E6%B6%88%E8%B0%83%E4%BC%91%23&t=31&band_rank=2&Refer=top)<br />
 3. [保护我们的那片海](https://s.weibo.com/weibo?q=%23%E4%BF%9D%E6%8A%A4%E6%88%91%E4%BB%AC%E7%9A%84%E9%82%A3%E7%89%87%E6%B5%B7%23&t=31&band_rank=3&Refer=top)<br />
 4. [千万不要动学姐留下的东西](https://s.weibo.com/weibo?q=%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E5%8A%A8%E5%AD%A6%E5%A7%90%E7%95%99%E4%B8%8B%E7%9A%84%E4%B8%9C%E8%A5%BF&t=31&band_rank=4&Refer=top)<br />
 5. [Uzi](https://s.weibo.com/weibo?q=Uzi&t=31&band_rank=5&Refer=top)<br />
