@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 11:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 11:04:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [保护我们的那片海](https://s.weibo.com/weibo?q=%23%E4%BF%9D%E6%8A%A4%E6%88%91%E4%BB%AC%E7%9A%84%E9%82%A3%E7%89%87%E6%B5%B7%23&t=31&band_rank=3&Refer=top)<br />
 4. [考生喊话取消调休](https://s.weibo.com/weibo?q=%23%E8%80%83%E7%94%9F%E5%96%8A%E8%AF%9D%E5%8F%96%E6%B6%88%E8%B0%83%E4%BC%91%23&t=31&band_rank=4&Refer=top)<br />
 5. [千万不要动学姐留下的东西](https://s.weibo.com/weibo?q=%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E5%8A%A8%E5%AD%A6%E5%A7%90%E7%95%99%E4%B8%8B%E7%9A%84%E4%B8%9C%E8%A5%BF&t=31&band_rank=5&Refer=top)<br />
-6. [小学生付费阅读曾鹏宇淫秽作品家长报警](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E4%BB%98%E8%B4%B9%E9%98%85%E8%AF%BB%E6%9B%BE%E9%B9%8F%E5%AE%87%E6%B7%AB%E7%A7%BD%E4%BD%9C%E5%93%81%E5%AE%B6%E9%95%BF%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=6&Refer=top)<br />
-7. [Uzi](https://s.weibo.com/weibo?q=Uzi&t=31&band_rank=7&Refer=top)<br />
-8. [男职工3年不上班工资3千涨到7千](https://s.weibo.com/weibo?q=%23%E7%94%B7%E8%81%8C%E5%B7%A53%E5%B9%B4%E4%B8%8D%E4%B8%8A%E7%8F%AD%E5%B7%A5%E8%B5%843%E5%8D%83%E6%B6%A8%E5%88%B07%E5%8D%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [跑男泰国](https://s.weibo.com/weibo?q=%E8%B7%91%E7%94%B7%E6%B3%B0%E5%9B%BD&t=31&band_rank=9&Refer=top)<br />
+6. [Uzi](https://s.weibo.com/weibo?q=Uzi&t=31&band_rank=6&Refer=top)<br />
+7. [小学生付费阅读曾鹏宇淫秽作品家长报警](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E4%BB%98%E8%B4%B9%E9%98%85%E8%AF%BB%E6%9B%BE%E9%B9%8F%E5%AE%87%E6%B7%AB%E7%A7%BD%E4%BD%9C%E5%93%81%E5%AE%B6%E9%95%BF%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=7&Refer=top)<br />
+8. [跑男泰国](https://s.weibo.com/weibo?q=%E8%B7%91%E7%94%B7%E6%B3%B0%E5%9B%BD&t=31&band_rank=8&Refer=top)<br />
+9. [男职工3年不上班工资3千涨到7千](https://s.weibo.com/weibo?q=%23%E7%94%B7%E8%81%8C%E5%B7%A53%E5%B9%B4%E4%B8%8D%E4%B8%8A%E7%8F%AD%E5%B7%A5%E8%B5%843%E5%8D%83%E6%B6%A8%E5%88%B07%E5%8D%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -34,7 +34,7 @@
 6. [英语听力卡顿考生大哭？江西回应](https://www.baidu.com/s?wd=%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B%E5%8D%A1%E9%A1%BF%E8%80%83%E7%94%9F%E5%A4%A7%E5%93%AD%EF%BC%9F%E6%B1%9F%E8%A5%BF%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [牵手门后续：记者采访被迅速挂电话](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E5%90%8E%E7%BB%AD%EF%BC%9A%E8%AE%B0%E8%80%85%E9%87%87%E8%AE%BF%E8%A2%AB%E8%BF%85%E9%80%9F%E6%8C%82%E7%94%B5%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [网购格力空调收到“木各力”牌](https://www.baidu.com/s?wd=%E7%BD%91%E8%B4%AD%E6%A0%BC%E5%8A%9B%E7%A9%BA%E8%B0%83%E6%94%B6%E5%88%B0%E2%80%9C%E6%9C%A8%E5%90%84%E5%8A%9B%E2%80%9D%E7%89%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女生考完哭着说终于不用做数学了](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E8%80%83%E5%AE%8C%E5%93%AD%E7%9D%80%E8%AF%B4%E7%BB%88%E4%BA%8E%E4%B8%8D%E7%94%A8%E5%81%9A%E6%95%B0%E5%AD%A6%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男孩遭同学紧勒脖拖行，警方：嬉闹](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E9%81%AD%E5%90%8C%E5%AD%A6%E7%B4%A7%E5%8B%92%E8%84%96%E6%8B%96%E8%A1%8C%EF%BC%8C%E8%AD%A6%E6%96%B9%EF%BC%9A%E5%AC%89%E9%97%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [英语听力卡顿考生大哭？江西回应](https://www.baidu.com/s?wd=%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B%E5%8D%A1%E9%A1%BF%E8%80%83%E7%94%9F%E5%A4%A7%E5%93%AD%EF%BC%9F%E6%B1%9F%E8%A5%BF%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [牵手门后续：记者采访被迅速挂电话](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E5%90%8E%E7%BB%AD%EF%BC%9A%E8%AE%B0%E8%80%85%E9%87%87%E8%AE%BF%E8%A2%AB%E8%BF%85%E9%80%9F%E6%8C%82%E7%94%B5%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [网购格力空调收到“木各力”牌](https://www.baidu.com/s?wd=%E7%BD%91%E8%B4%AD%E6%A0%BC%E5%8A%9B%E7%A9%BA%E8%B0%83%E6%94%B6%E5%88%B0%E2%80%9C%E6%9C%A8%E5%90%84%E5%8A%9B%E2%80%9D%E7%89%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女生考完哭着说终于不用做数学了](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E8%80%83%E5%AE%8C%E5%93%AD%E7%9D%80%E8%AF%B4%E7%BB%88%E4%BA%8E%E4%B8%8D%E7%94%A8%E5%81%9A%E6%95%B0%E5%AD%A6%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男孩遭同学紧勒脖拖行，警方：嬉闹](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E9%81%AD%E5%90%8C%E5%AD%A6%E7%B4%A7%E5%8B%92%E8%84%96%E6%8B%96%E8%A1%8C%EF%BC%8C%E8%AD%A6%E6%96%B9%EF%BC%9A%E5%AC%89%E9%97%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
