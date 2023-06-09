@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 13:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 13:49:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [「鼠头鸭脖」涉事高校学生称，又在食堂吃出大青虫，具体情况如何？高校食堂为何频繁曝出问题？](https://www.zhihu.com/question/605552961)<br />
 7. [乌克兰国际储备达 373.113 亿美元历史新高，这一数据透露了哪些信息？](https://www.zhihu.com/question/605234200)<br />
 8. [网传 Uzi 将复出加盟 EDG 战队，对此你有哪些期待？](https://www.zhihu.com/question/605494464)<br />
-9. [九江一幼儿园员工在小便池清洗餐具，官方通报「情况属实，停业整顿」，如何看待此事？](https://www.zhihu.com/question/605473307)<br />
+9. [孩子严重烫伤 9 天才送医院，爸爸称「没必要」拒绝手术，现孩子被家长安排自行出院，如何看待家长行为？](https://www.zhihu.com/question/604863474)<br />
 
 > 百度  
 
@@ -33,7 +33,7 @@
 5. [大叔地铁玩手机被女子质疑偷拍](https://www.baidu.com/s?wd=%E5%A4%A7%E5%8F%94%E5%9C%B0%E9%93%81%E7%8E%A9%E6%89%8B%E6%9C%BA%E8%A2%AB%E5%A5%B3%E5%AD%90%E8%B4%A8%E7%96%91%E5%81%B7%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [孤寡老人家中被盗后服毒自杀](https://www.baidu.com/s?wd=%E5%AD%A4%E5%AF%A1%E8%80%81%E4%BA%BA%E5%AE%B6%E4%B8%AD%E8%A2%AB%E7%9B%97%E5%90%8E%E6%9C%8D%E6%AF%92%E8%87%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [江歌妈妈收到大量借款信息](https://www.baidu.com/s?wd=%E6%B1%9F%E6%AD%8C%E5%A6%88%E5%A6%88%E6%94%B6%E5%88%B0%E5%A4%A7%E9%87%8F%E5%80%9F%E6%AC%BE%E4%BF%A1%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [环卫母亲与高考后的儿子相拥](https://www.baidu.com/s?wd=%E7%8E%AF%E5%8D%AB%E6%AF%8D%E4%BA%B2%E4%B8%8E%E9%AB%98%E8%80%83%E5%90%8E%E7%9A%84%E5%84%BF%E5%AD%90%E7%9B%B8%E6%8B%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [联合国总部首次因空气污染放弃升旗](https://www.baidu.com/s?wd=%E8%81%94%E5%90%88%E5%9B%BD%E6%80%BB%E9%83%A8%E9%A6%96%E6%AC%A1%E5%9B%A0%E7%A9%BA%E6%B0%94%E6%B1%A1%E6%9F%93%E6%94%BE%E5%BC%83%E5%8D%87%E6%97%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [赖冠霖今年没有参加高考](https://www.baidu.com/s?wd=%E8%B5%96%E5%86%A0%E9%9C%96%E4%BB%8A%E5%B9%B4%E6%B2%A1%E6%9C%89%E5%8F%82%E5%8A%A0%E9%AB%98%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [大叔地铁玩手机被女子质疑偷拍](https://www.baidu.com/s?wd=%E5%A4%A7%E5%8F%94%E5%9C%B0%E9%93%81%E7%8E%A9%E6%89%8B%E6%9C%BA%E8%A2%AB%E5%A5%B3%E5%AD%90%E8%B4%A8%E7%96%91%E5%81%B7%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [孤寡老人家中被盗后服毒自杀](https://www.baidu.com/s?wd=%E5%AD%A4%E5%AF%A1%E8%80%81%E4%BA%BA%E5%AE%B6%E4%B8%AD%E8%A2%AB%E7%9B%97%E5%90%8E%E6%9C%8D%E6%AF%92%E8%87%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [江歌妈妈收到大量借款信息](https://www.baidu.com/s?wd=%E6%B1%9F%E6%AD%8C%E5%A6%88%E5%A6%88%E6%94%B6%E5%88%B0%E5%A4%A7%E9%87%8F%E5%80%9F%E6%AC%BE%E4%BF%A1%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [环卫母亲与高考后的儿子相拥](https://www.baidu.com/s?wd=%E7%8E%AF%E5%8D%AB%E6%AF%8D%E4%BA%B2%E4%B8%8E%E9%AB%98%E8%80%83%E5%90%8E%E7%9A%84%E5%84%BF%E5%AD%90%E7%9B%B8%E6%8B%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [联合国总部首次因空气污染放弃升旗](https://www.baidu.com/s?wd=%E8%81%94%E5%90%88%E5%9B%BD%E6%80%BB%E9%83%A8%E9%A6%96%E6%AC%A1%E5%9B%A0%E7%A9%BA%E6%B0%94%E6%B1%A1%E6%9F%93%E6%94%BE%E5%BC%83%E5%8D%87%E6%97%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [赖冠霖今年没有参加高考](https://www.baidu.com/s?wd=%E8%B5%96%E5%86%A0%E9%9C%96%E4%BB%8A%E5%B9%B4%E6%B2%A1%E6%9C%89%E5%8F%82%E5%8A%A0%E9%AB%98%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
