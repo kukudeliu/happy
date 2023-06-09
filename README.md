@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 14:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 14:13:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [跑男泰国](https://s.weibo.com/weibo?q=%E8%B7%91%E7%94%B7%E6%B3%B0%E5%9B%BD&t=31&band_rank=6&Refer=top)<br />
 7. [井柏然刘雯又合体营业了](https://s.weibo.com/weibo?q=%23%E4%BA%95%E6%9F%8F%E7%84%B6%E5%88%98%E9%9B%AF%E5%8F%88%E5%90%88%E4%BD%93%E8%90%A5%E4%B8%9A%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [跑男最后一期录制阵容](https://s.weibo.com/weibo?q=%23%E8%B7%91%E7%94%B7%E6%9C%80%E5%90%8E%E4%B8%80%E6%9C%9F%E5%BD%95%E5%88%B6%E9%98%B5%E5%AE%B9%23&t=31&band_rank=8&Refer=top)<br />
-9. [高考过后最想做的一件事](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E8%BF%87%E5%90%8E%E6%9C%80%E6%83%B3%E5%81%9A%E7%9A%84%E4%B8%80%E4%BB%B6%E4%BA%8B%23&t=31&band_rank=9&Refer=top)<br />
+9. [原来肝脏不好真的会变丑](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%82%9D%E8%84%8F%E4%B8%8D%E5%A5%BD%E7%9C%9F%E7%9A%84%E4%BC%9A%E5%8F%98%E4%B8%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [孩子严重烫伤 9 天才送医院，爸爸称「没必要」拒绝手术，现孩子被家长安排自行出院，如何看待家长行为？](https://www.zhihu.com/question/604863474)<br />
 7. [高考 700 分和存款 700 万，你选择哪个？](https://www.zhihu.com/question/605422526)<br />
 8. [梅西、 C 罗、本泽马等均退出主流联赛，世界足坛谁会成为新一代金球奖得主？](https://www.zhihu.com/question/605614573)<br />
-9. [日防卫省称中俄轰炸机编队进入太平洋，「推定」大量战斗机护航，为何是「推定」？说明了哪些问题？](https://www.zhihu.com/question/605493462)<br />
+9. [深圳的氛围真的都是大家都在搞钱吗？](https://www.zhihu.com/question/512330743)<br />
 
 > 百度  
 
