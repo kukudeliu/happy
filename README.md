@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 16:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 16:40:01</h4></div>
 
 > 微博  
 
 1. [怀孕的同事让我给她带冰奶茶](https://s.weibo.com/weibo?q=%23%E6%80%80%E5%AD%95%E7%9A%84%E5%90%8C%E4%BA%8B%E8%AE%A9%E6%88%91%E7%BB%99%E5%A5%B9%E5%B8%A6%E5%86%B0%E5%A5%B6%E8%8C%B6%23&t=31&band_rank=1&Refer=top)<br />
-2. [EXO确定于7月10日回归](https://s.weibo.com/weibo?q=%23EXO%E7%A1%AE%E5%AE%9A%E4%BA%8E7%E6%9C%8810%E6%97%A5%E5%9B%9E%E5%BD%92%23&t=31&band_rank=2&Refer=top)<br />
+2. [长沙一公司取消了所有的调休](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B2%99%E4%B8%80%E5%85%AC%E5%8F%B8%E5%8F%96%E6%B6%88%E4%BA%86%E6%89%80%E6%9C%89%E7%9A%84%E8%B0%83%E4%BC%91%23&t=31&band_rank=2&Refer=top)<br />
 3. [高考过后最想做的一件事](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E8%BF%87%E5%90%8E%E6%9C%80%E6%83%B3%E5%81%9A%E7%9A%84%E4%B8%80%E4%BB%B6%E4%BA%8B%23&t=31&band_rank=3&Refer=top)<br />
 4. [翟欣欣被逮捕](https://s.weibo.com/weibo?q=%23%E7%BF%9F%E6%AC%A3%E6%AC%A3%E8%A2%AB%E9%80%AE%E6%8D%95%23&t=31&band_rank=4&Refer=top)<br />
-5. [张嘉倪喝奶茶边喝边漏](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%98%89%E5%80%AA%E5%96%9D%E5%A5%B6%E8%8C%B6%E8%BE%B9%E5%96%9D%E8%BE%B9%E6%BC%8F%23&t=31&band_rank=5&Refer=top)<br />
-6. [刘惜君绝了](https://s.weibo.com/weibo?q=%E5%88%98%E6%83%9C%E5%90%9B%E7%BB%9D%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
-7. [玉骨遥](https://s.weibo.com/weibo?q=%E7%8E%89%E9%AA%A8%E9%81%A5&t=31&band_rank=7&Refer=top)<br />
-8. [EDG啥时候官宣](https://s.weibo.com/weibo?q=%23EDG%E5%95%A5%E6%97%B6%E5%80%99%E5%AE%98%E5%AE%A3%23&t=31&band_rank=8&Refer=top)<br />
-9. [跑男最后一期录制阵容](https://s.weibo.com/weibo?q=%23%E8%B7%91%E7%94%B7%E6%9C%80%E5%90%8E%E4%B8%80%E6%9C%9F%E5%BD%95%E5%88%B6%E9%98%B5%E5%AE%B9%23&t=31&band_rank=9&Refer=top)<br />
+5. [EXO确定于7月10日回归](https://s.weibo.com/weibo?q=%23EXO%E7%A1%AE%E5%AE%9A%E4%BA%8E7%E6%9C%8810%E6%97%A5%E5%9B%9E%E5%BD%92%23&t=31&band_rank=5&Refer=top)<br />
+6. [张嘉倪喝奶茶边喝边漏](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%98%89%E5%80%AA%E5%96%9D%E5%A5%B6%E8%8C%B6%E8%BE%B9%E5%96%9D%E8%BE%B9%E6%BC%8F%23&t=31&band_rank=6&Refer=top)<br />
+7. [刘惜君绝了](https://s.weibo.com/weibo?q=%E5%88%98%E6%83%9C%E5%90%9B%E7%BB%9D%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
+8. [玉骨遥](https://s.weibo.com/weibo?q=%E7%8E%89%E9%AA%A8%E9%81%A5&t=31&band_rank=8&Refer=top)<br />
+9. [EDG啥时候官宣](https://s.weibo.com/weibo?q=%23EDG%E5%95%A5%E6%97%B6%E5%80%99%E5%AE%98%E5%AE%A3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [为什么华为手机国产率这么高，价格却降不下来？](https://www.zhihu.com/question/604699463)<br />
 7. [卡霍夫卡水电站大坝被破坏，到底是什么力量让能抵御核弹袭击的水坝「断成两半」？](https://www.zhihu.com/question/605615861)<br />
 8. [422 个巅峰博尔特接力跑 422X100 马拉松，能把马拉松跑进 1 小时吗？](https://www.zhihu.com/question/604848279)<br />
-9. []()<br />
+9. [2023 年国考补录计划超 3000 人，这一数据说明了什么？](https://www.zhihu.com/question/604866549)<br />
 
 > 百度  
 
