@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 02:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 02:40:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [EDG首发名单](https://s.weibo.com/weibo?q=%23EDG%E9%A6%96%E5%8F%91%E5%90%8D%E5%8D%95%23&t=31&band_rank=4&Refer=top)<br />
 5. [易烊千玺 评委](https://s.weibo.com/weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%20%E8%AF%84%E5%A7%94&t=31&band_rank=5&Refer=top)<br />
 6. [四川大学回应女生曝光地铁大叔](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%94%9F%E6%9B%9D%E5%85%89%E5%9C%B0%E9%93%81%E5%A4%A7%E5%8F%94%23&t=31&band_rank=6&Refer=top)<br />
-7. [美国亚裔高考接近满分被六大名校拒绝](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BA%9A%E8%A3%94%E9%AB%98%E8%80%83%E6%8E%A5%E8%BF%91%E6%BB%A1%E5%88%86%E8%A2%AB%E5%85%AD%E5%A4%A7%E5%90%8D%E6%A0%A1%E6%8B%92%E7%BB%9D%23&t=31&band_rank=7&Refer=top)<br />
-8. [注册不了张z被曝专业是新闻传播](https://s.weibo.com/weibo?q=%23%E6%B3%A8%E5%86%8C%E4%B8%8D%E4%BA%86%E5%BC%A0z%E8%A2%AB%E6%9B%9D%E4%B8%93%E4%B8%9A%E6%98%AF%E6%96%B0%E9%97%BB%E4%BC%A0%E6%92%AD%23&t=31&band_rank=8&Refer=top)<br />
+7. [注册不了张z被曝专业是新闻传播](https://s.weibo.com/weibo?q=%23%E6%B3%A8%E5%86%8C%E4%B8%8D%E4%BA%86%E5%BC%A0z%E8%A2%AB%E6%9B%9D%E4%B8%93%E4%B8%9A%E6%98%AF%E6%96%B0%E9%97%BB%E4%BC%A0%E6%92%AD%23&t=31&band_rank=7&Refer=top)<br />
+8. [美国亚裔高考接近满分被六大名校拒绝](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BA%9A%E8%A3%94%E9%AB%98%E8%80%83%E6%8E%A5%E8%BF%91%E6%BB%A1%E5%88%86%E8%A2%AB%E5%85%AD%E5%A4%A7%E5%90%8D%E6%A0%A1%E6%8B%92%E7%BB%9D%23&t=31&band_rank=8&Refer=top)<br />
 9. [婴儿接种证被盖死亡证明专用章](https://s.weibo.com/weibo?q=%23%E5%A9%B4%E5%84%BF%E6%8E%A5%E7%A7%8D%E8%AF%81%E8%A2%AB%E7%9B%96%E6%AD%BB%E4%BA%A1%E8%AF%81%E6%98%8E%E4%B8%93%E7%94%A8%E7%AB%A0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -34,7 +34,7 @@
 6. [一家5口举女儿偶像立牌接考](https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B65%E5%8F%A3%E4%B8%BE%E5%A5%B3%E5%84%BF%E5%81%B6%E5%83%8F%E7%AB%8B%E7%89%8C%E6%8E%A5%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [牵手门持续发酵 还有几点疑问待解](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E6%8C%81%E7%BB%AD%E5%8F%91%E9%85%B5+%E8%BF%98%E6%9C%89%E5%87%A0%E7%82%B9%E7%96%91%E9%97%AE%E5%BE%85%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [6岁女孩误吞口香糖后灵魂发问](https://www.baidu.com/s?wd=6%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%AF%AF%E5%90%9E%E5%8F%A3%E9%A6%99%E7%B3%96%E5%90%8E%E7%81%B5%E9%AD%82%E5%8F%91%E9%97%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [河南高考用笔遭吐槽 文具公司回应](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E9%AB%98%E8%80%83%E7%94%A8%E7%AC%94%E9%81%AD%E5%90%90%E6%A7%BD+%E6%96%87%E5%85%B7%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [首批国产榴莲预计本月上市](https://www.baidu.com/s?wd=%E9%A6%96%E6%89%B9%E5%9B%BD%E4%BA%A7%E6%A6%B4%E8%8E%B2%E9%A2%84%E8%AE%A1%E6%9C%AC%E6%9C%88%E4%B8%8A%E5%B8%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [一家5口举女儿偶像立牌接考](https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B65%E5%8F%A3%E4%B8%BE%E5%A5%B3%E5%84%BF%E5%81%B6%E5%83%8F%E7%AB%8B%E7%89%8C%E6%8E%A5%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [牵手门持续发酵 还有几点疑问待解](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E6%8C%81%E7%BB%AD%E5%8F%91%E9%85%B5+%E8%BF%98%E6%9C%89%E5%87%A0%E7%82%B9%E7%96%91%E9%97%AE%E5%BE%85%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [6岁女孩误吞口香糖后灵魂发问](https://www.baidu.com/s?wd=6%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%AF%AF%E5%90%9E%E5%8F%A3%E9%A6%99%E7%B3%96%E5%90%8E%E7%81%B5%E9%AD%82%E5%8F%91%E9%97%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [河南高考用笔遭吐槽 文具公司回应](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E9%AB%98%E8%80%83%E7%94%A8%E7%AC%94%E9%81%AD%E5%90%90%E6%A7%BD+%E6%96%87%E5%85%B7%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [首批国产榴莲预计本月上市](https://www.baidu.com/s?wd=%E9%A6%96%E6%89%B9%E5%9B%BD%E4%BA%A7%E6%A6%B4%E8%8E%B2%E9%A2%84%E8%AE%A1%E6%9C%AC%E6%9C%88%E4%B8%8A%E5%B8%82&sa=fyb_news&rsv_dl=fyb_news)<br />
