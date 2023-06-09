@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 17:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 17:45:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [高考过后最想做的一件事](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E8%BF%87%E5%90%8E%E6%9C%80%E6%83%B3%E5%81%9A%E7%9A%84%E4%B8%80%E4%BB%B6%E4%BA%8B%23&t=31&band_rank=3&Refer=top)<br />
 4. [徐志胜 别磕给大家磕头了](https://s.weibo.com/weibo?q=%E5%BE%90%E5%BF%97%E8%83%9C%20%E5%88%AB%E7%A3%95%E7%BB%99%E5%A4%A7%E5%AE%B6%E7%A3%95%E5%A4%B4%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
 5. [白鹿你不热吗](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E4%BD%A0%E4%B8%8D%E7%83%AD%E5%90%97%23&t=31&band_rank=5&Refer=top)<br />
-6. [张嘉倪喝奶茶边喝边漏](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%98%89%E5%80%AA%E5%96%9D%E5%A5%B6%E8%8C%B6%E8%BE%B9%E5%96%9D%E8%BE%B9%E6%BC%8F%23&t=31&band_rank=6&Refer=top)<br />
-7. [大黄蜂死了](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%BB%84%E8%9C%82%E6%AD%BB%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+6. [大黄蜂死了](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%BB%84%E8%9C%82%E6%AD%BB%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
+7. [张嘉倪喝奶茶边喝边漏](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%98%89%E5%80%AA%E5%96%9D%E5%A5%B6%E8%8C%B6%E8%BE%B9%E5%96%9D%E8%BE%B9%E6%BC%8F%23&t=31&band_rank=7&Refer=top)<br />
 8. [朴信惠Jennie将合作](https://s.weibo.com/weibo?q=%23%E6%9C%B4%E4%BF%A1%E6%83%A0Jennie%E5%B0%86%E5%90%88%E4%BD%9C%23&t=31&band_rank=8&Refer=top)<br />
 9. [怀孕的同事让我给她带冰奶茶](https://s.weibo.com/weibo?q=%23%E6%80%80%E5%AD%95%E7%9A%84%E5%90%8C%E4%BA%8B%E8%AE%A9%E6%88%91%E7%BB%99%E5%A5%B9%E5%B8%A6%E5%86%B0%E5%A5%B6%E8%8C%B6%23&t=31&band_rank=9&Refer=top)<br />
 
@@ -22,7 +22,7 @@
 6. [卡霍夫卡水电站大坝被破坏，到底是什么力量让能抵御核弹袭击的水坝「断成两半」？](https://www.zhihu.com/question/605615861)<br />
 7. [在机枪枪管上缠湿布是否可以达到水冷效果？](https://www.zhihu.com/question/605380401)<br />
 8. [生活中越来越多的小孩都开始佩戴眼镜，作为家长该如何教导孩子保护视力?](https://www.zhihu.com/question/605058208)<br />
-9. [三部门就依法惩治网暴犯罪征求意见，编造「涉性」话题侵害他人人格尊严等情况将从重处罚，哪些信息值得关注？](https://www.zhihu.com/question/605655675)<br />
+9. [2022 届本科毕业生仅 6.9% 月收入过万，超八成高职生起薪低于 6000 元，该薪资水平合理吗？](https://www.zhihu.com/question/605658808)<br />
 
 > 百度  
 
