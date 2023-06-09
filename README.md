@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 22:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 22:59:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [BBC卧底记者扒出经营偷拍视频团伙](https://www.baidu.com/s?wd=BBC%E5%8D%A7%E5%BA%95%E8%AE%B0%E8%80%85%E6%89%92%E5%87%BA%E7%BB%8F%E8%90%A5%E5%81%B7%E6%8B%8D%E8%A7%86%E9%A2%91%E5%9B%A2%E4%BC%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [3岁男孩患象鼻病全球仅34例](https://www.baidu.com/s?wd=3%E5%B2%81%E7%94%B7%E5%AD%A9%E6%82%A3%E8%B1%A1%E9%BC%BB%E7%97%85%E5%85%A8%E7%90%83%E4%BB%8534%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [牵手门持续发酵 还有几点疑问待解](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E6%8C%81%E7%BB%AD%E5%8F%91%E9%85%B5+%E8%BF%98%E6%9C%89%E5%87%A0%E7%82%B9%E7%96%91%E9%97%AE%E5%BE%85%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [拍卖史上最大红宝石拍出 约合2.48亿](https://www.baidu.com/s?wd=%E6%8B%8D%E5%8D%96%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E7%BA%A2%E5%AE%9D%E7%9F%B3%E6%8B%8D%E5%87%BA+%E7%BA%A6%E5%90%882.48%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [高校学费告别5000元时代](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E5%AD%A6%E8%B4%B9%E5%91%8A%E5%88%AB5000%E5%85%83%E6%97%B6%E4%BB%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [高校学费告别5000元时代](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E5%AD%A6%E8%B4%B9%E5%91%8A%E5%88%AB5000%E5%85%83%E6%97%B6%E4%BB%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [一家5口举女儿偶像立牌接考](https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B65%E5%8F%A3%E4%B8%BE%E5%A5%B3%E5%84%BF%E5%81%B6%E5%83%8F%E7%AB%8B%E7%89%8C%E6%8E%A5%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [BBC卧底记者扒出经营偷拍视频团伙](https://www.baidu.com/s?wd=BBC%E5%8D%A7%E5%BA%95%E8%AE%B0%E8%80%85%E6%89%92%E5%87%BA%E7%BB%8F%E8%90%A5%E5%81%B7%E6%8B%8D%E8%A7%86%E9%A2%91%E5%9B%A2%E4%BC%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [3岁男孩患象鼻病全球仅34例](https://www.baidu.com/s?wd=3%E5%B2%81%E7%94%B7%E5%AD%A9%E6%82%A3%E8%B1%A1%E9%BC%BB%E7%97%85%E5%85%A8%E7%90%83%E4%BB%8534%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [牵手门持续发酵 还有几点疑问待解](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E6%8C%81%E7%BB%AD%E5%8F%91%E9%85%B5+%E8%BF%98%E6%9C%89%E5%87%A0%E7%82%B9%E7%96%91%E9%97%AE%E5%BE%85%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [拍卖史上最大红宝石拍出 约合2.48亿](https://www.baidu.com/s?wd=%E6%8B%8D%E5%8D%96%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E7%BA%A2%E5%AE%9D%E7%9F%B3%E6%8B%8D%E5%87%BA+%E7%BA%A6%E5%90%882.48%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [高校学费告别5000元时代](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E5%AD%A6%E8%B4%B9%E5%91%8A%E5%88%AB5000%E5%85%83%E6%97%B6%E4%BB%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [高校学费告别5000元时代](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E5%AD%A6%E8%B4%B9%E5%91%8A%E5%88%AB5000%E5%85%83%E6%97%B6%E4%BB%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [一家5口举女儿偶像立牌接考](https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B65%E5%8F%A3%E4%B8%BE%E5%A5%B3%E5%84%BF%E5%81%B6%E5%83%8F%E7%AB%8B%E7%89%8C%E6%8E%A5%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
