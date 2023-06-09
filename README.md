@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 18:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 18:48:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [2022 届本科毕业生仅 6.9% 月收入过万，超八成高职生起薪低于 6000 元，该薪资水平合理吗？](https://www.zhihu.com/question/605658808)<br />
 6. [在机枪枪管上缠湿布是否可以达到水冷效果？](https://www.zhihu.com/question/605380401)<br />
 7. [游戏《原神》里最有气场的是谁？](https://www.zhihu.com/question/476751897)<br />
-8. [海航新规管控空姐体重「超重 10％ 立即停飞减重 」，属行业首次，新规是否涉及歧视等问题？是否违法？](https://www.zhihu.com/question/605556110)<br />
-9. [为什么人类喜欢追问生命的意义、活着的目的？](https://www.zhihu.com/question/599599842)<br />
+8. [为什么人类喜欢追问生命的意义、活着的目的？](https://www.zhihu.com/question/599599842)<br />
+9. [海航新规管控空姐体重「超重 10％ 立即停飞减重 」，属行业首次，新规是否涉及歧视等问题？是否违法？](https://www.zhihu.com/question/605556110)<br />
 
 > 百度  
 
