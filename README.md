@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 01:47:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 01:48:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [如何看待《英雄联盟》主播刘谋在直播中因啃老话题与水友发生的讨论？](https://www.zhihu.com/question/605625422)<br />
 6. [美参院通过所谓「终止中国发展中国家地位法」，中方称「中国所做贡献远超绝大多数发达国家」，如何看待此事？](https://www.zhihu.com/question/605664006)<br />
 7. []()<br />
-8. []()<br />
-9. [如何获取正版的 office365 并永久使用？](https://www.zhihu.com/question/494557967)<br />
+8. [如何获取正版的 office365 并永久使用？](https://www.zhihu.com/question/494557967)<br />
+9. []()<br />
 
 > 百度  
 
