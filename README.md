@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 10:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 10:21:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [为什么《蜘蛛侠：纵横宇宙》的高口碑没有带动中国票房大涨?](https://www.zhihu.com/question/605399059)<br />
 6. [史湘云为什么能做到「脸不红心不跳」地接受宝钗出钱办的螃蟹宴？](https://www.zhihu.com/question/589223280)<br />
 7. [什么科学发现起初看似无用，但后来证明非常重要？](https://www.zhihu.com/question/349247935)<br />
-8. [谢帆爆料 EDG 正在接触 Uzi，如果成功加盟，「永远滴神」能给 EDG 带来哪些改变？](https://www.zhihu.com/question/605487490)<br />
-9. [海航新规管控空姐体重「超重 10％ 立即停飞减重 」，属行业首次，新规是否涉及歧视等问题？是否违法？](https://www.zhihu.com/question/605556110)<br />
+8. [海航新规管控空姐体重「超重 10％ 立即停飞减重 」，属行业首次，新规是否涉及歧视等问题？是否违法？](https://www.zhihu.com/question/605556110)<br />
+9. [谢帆爆料 EDG 正在接触 Uzi，如果成功加盟，「永远滴神」能给 EDG 带来哪些改变？](https://www.zhihu.com/question/605487490)<br />
 
 > 百度  
 
