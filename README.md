@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 06:42:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 06:43:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [美国亚裔高考接近满分被六大名校拒绝](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BA%9A%E8%A3%94%E9%AB%98%E8%80%83%E6%8E%A5%E8%BF%91%E6%BB%A1%E5%88%86%E8%A2%AB%E5%85%AD%E5%A4%A7%E5%90%8D%E6%A0%A1%E6%8B%92%E7%BB%9D%23&t=31&band_rank=5&Refer=top)<br />
 6. [四川大学回应女生曝光地铁大叔](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%94%9F%E6%9B%9D%E5%85%89%E5%9C%B0%E9%93%81%E5%A4%A7%E5%8F%94%23&t=31&band_rank=6&Refer=top)<br />
 7. [照相馆学徒冒死留下南京大屠杀证据](https://s.weibo.com/weibo?q=%23%E7%85%A7%E7%9B%B8%E9%A6%86%E5%AD%A6%E5%BE%92%E5%86%92%E6%AD%BB%E7%95%99%E4%B8%8B%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%9D%80%E8%AF%81%E6%8D%AE%23&t=31&band_rank=7&Refer=top)<br />
-8. [易烊千玺 评委](https://s.weibo.com/weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%20%E8%AF%84%E5%A7%94&t=31&band_rank=8&Refer=top)<br />
-9. [EDG首发名单](https://s.weibo.com/weibo?q=%23EDG%E9%A6%96%E5%8F%91%E5%90%8D%E5%8D%95%23&t=31&band_rank=9&Refer=top)<br />
+8. [EDG首发名单](https://s.weibo.com/weibo?q=%23EDG%E9%A6%96%E5%8F%91%E5%90%8D%E5%8D%95%23&t=31&band_rank=8&Refer=top)<br />
+9. [易烊千玺 评委](https://s.weibo.com/weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%20%E8%AF%84%E5%A7%94&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
