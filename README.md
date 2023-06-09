@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 14:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 15:00:01</h4></div>
 
 > 微博  
 
@@ -31,10 +31,10 @@
 3. [大叔被疑偷拍自证清白后遭女子曝光](https://www.baidu.com/s?wd=%E5%A4%A7%E5%8F%94%E8%A2%AB%E7%96%91%E5%81%B7%E6%8B%8D%E8%87%AA%E8%AF%81%E6%B8%85%E7%99%BD%E5%90%8E%E9%81%AD%E5%A5%B3%E5%AD%90%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [海洋经济“扬帆远航”](https://www.baidu.com/s?wd=%E6%B5%B7%E6%B4%8B%E7%BB%8F%E6%B5%8E%E2%80%9C%E6%89%AC%E5%B8%86%E8%BF%9C%E8%88%AA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [翟欣欣涉嫌敲诈勒索已被逮捕](https://www.baidu.com/s?wd=%E7%BF%9F%E6%AC%A3%E6%AC%A3%E6%B6%89%E5%AB%8C%E6%95%B2%E8%AF%88%E5%8B%92%E7%B4%A2%E5%B7%B2%E8%A2%AB%E9%80%AE%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [考生晚37分进场 同考点3人迟到离开](https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%E6%99%9A37%E5%88%86%E8%BF%9B%E5%9C%BA+%E5%90%8C%E8%80%83%E7%82%B93%E4%BA%BA%E8%BF%9F%E5%88%B0%E7%A6%BB%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [Ella说犯错就该死吗](https://www.baidu.com/s?wd=Ella%E8%AF%B4%E7%8A%AF%E9%94%99%E5%B0%B1%E8%AF%A5%E6%AD%BB%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [Ella说犯错就该死吗](https://www.baidu.com/s?wd=Ella%E8%AF%B4%E7%8A%AF%E9%94%99%E5%B0%B1%E8%AF%A5%E6%AD%BB%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [考生晚37分进场 同考点3人迟到离开](https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%E6%99%9A37%E5%88%86%E8%BF%9B%E5%9C%BA+%E5%90%8C%E8%80%83%E7%82%B93%E4%BA%BA%E8%BF%9F%E5%88%B0%E7%A6%BB%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [江歌妈妈收到大量借款信息](https://www.baidu.com/s?wd=%E6%B1%9F%E6%AD%8C%E5%A6%88%E5%A6%88%E6%94%B6%E5%88%B0%E5%A4%A7%E9%87%8F%E5%80%9F%E6%AC%BE%E4%BF%A1%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [环卫母亲与高考后的儿子相拥](https://www.baidu.com/s?wd=%E7%8E%AF%E5%8D%AB%E6%AF%8D%E4%BA%B2%E4%B8%8E%E9%AB%98%E8%80%83%E5%90%8E%E7%9A%84%E5%84%BF%E5%AD%90%E7%9B%B8%E6%8B%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [40岁男子当全职儿子每月领5500元](https://www.baidu.com/s?wd=40%E5%B2%81%E7%94%B7%E5%AD%90%E5%BD%93%E5%85%A8%E8%81%8C%E5%84%BF%E5%AD%90%E6%AF%8F%E6%9C%88%E9%A2%865500%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [大叔被疑偷拍自证清白后遭女子曝光](https://www.baidu.com/s?wd=%E5%A4%A7%E5%8F%94%E8%A2%AB%E7%96%91%E5%81%B7%E6%8B%8D%E8%87%AA%E8%AF%81%E6%B8%85%E7%99%BD%E5%90%8E%E9%81%AD%E5%A5%B3%E5%AD%90%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [海洋经济“扬帆远航”](https://www.baidu.com/s?wd=%E6%B5%B7%E6%B4%8B%E7%BB%8F%E6%B5%8E%E2%80%9C%E6%89%AC%E5%B8%86%E8%BF%9C%E8%88%AA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [翟欣欣涉嫌敲诈勒索已被逮捕](https://www.baidu.com/s?wd=%E7%BF%9F%E6%AC%A3%E6%AC%A3%E6%B6%89%E5%AB%8C%E6%95%B2%E8%AF%88%E5%8B%92%E7%B4%A2%E5%B7%B2%E8%A2%AB%E9%80%AE%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [考生晚37分进场 同考点3人迟到离开](https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%E6%99%9A37%E5%88%86%E8%BF%9B%E5%9C%BA+%E5%90%8C%E8%80%83%E7%82%B93%E4%BA%BA%E8%BF%9F%E5%88%B0%E7%A6%BB%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [Ella说犯错就该死吗](https://www.baidu.com/s?wd=Ella%E8%AF%B4%E7%8A%AF%E9%94%99%E5%B0%B1%E8%AF%A5%E6%AD%BB%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [Ella说犯错就该死吗](https://www.baidu.com/s?wd=Ella%E8%AF%B4%E7%8A%AF%E9%94%99%E5%B0%B1%E8%AF%A5%E6%AD%BB%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [考生晚37分进场 同考点3人迟到离开](https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%E6%99%9A37%E5%88%86%E8%BF%9B%E5%9C%BA+%E5%90%8C%E8%80%83%E7%82%B93%E4%BA%BA%E8%BF%9F%E5%88%B0%E7%A6%BB%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [江歌妈妈收到大量借款信息](https://www.baidu.com/s?wd=%E6%B1%9F%E6%AD%8C%E5%A6%88%E5%A6%88%E6%94%B6%E5%88%B0%E5%A4%A7%E9%87%8F%E5%80%9F%E6%AC%BE%E4%BF%A1%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [环卫母亲与高考后的儿子相拥](https://www.baidu.com/s?wd=%E7%8E%AF%E5%8D%AB%E6%AF%8D%E4%BA%B2%E4%B8%8E%E9%AB%98%E8%80%83%E5%90%8E%E7%9A%84%E5%84%BF%E5%AD%90%E7%9B%B8%E6%8B%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [40岁男子当全职儿子每月领5500元](https://www.baidu.com/s?wd=40%E5%B2%81%E7%94%B7%E5%AD%90%E5%BD%93%E5%85%A8%E8%81%8C%E5%84%BF%E5%AD%90%E6%AF%8F%E6%9C%88%E9%A2%865500%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
