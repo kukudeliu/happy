@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 09:12:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 09:13:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [Uzi](https://s.weibo.com/weibo?q=Uzi&t=31&band_rank=4&Refer=top)<br />
 5. [千万不要动学姐留下的东西](https://s.weibo.com/weibo?q=%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E5%8A%A8%E5%AD%A6%E5%A7%90%E7%95%99%E4%B8%8B%E7%9A%84%E4%B8%9C%E8%A5%BF&t=31&band_rank=5&Refer=top)<br />
 6. [LBL官宣uzi离队](https://s.weibo.com/weibo?q=%23LBL%E5%AE%98%E5%AE%A3uzi%E7%A6%BB%E9%98%9F%23&t=31&band_rank=6&Refer=top)<br />
-7. [肝脏移植前后肤色对比](https://s.weibo.com/weibo?q=%E8%82%9D%E8%84%8F%E7%A7%BB%E6%A4%8D%E5%89%8D%E5%90%8E%E8%82%A4%E8%89%B2%E5%AF%B9%E6%AF%94&t=31&band_rank=7&Refer=top)<br />
-8. [高考结束张桂梅又躲进空教室](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E5%BC%A0%E6%A1%82%E6%A2%85%E5%8F%88%E8%BA%B2%E8%BF%9B%E7%A9%BA%E6%95%99%E5%AE%A4%23&t=31&band_rank=8&Refer=top)<br />
-9. [Amber单杀Uzi](https://s.weibo.com/weibo?q=%23Amber%E5%8D%95%E6%9D%80Uzi%23&t=31&band_rank=9&Refer=top)<br />
+7. [男职工3年不上班工资3千涨到7千](https://s.weibo.com/weibo?q=%23%E7%94%B7%E8%81%8C%E5%B7%A53%E5%B9%B4%E4%B8%8D%E4%B8%8A%E7%8F%AD%E5%B7%A5%E8%B5%843%E5%8D%83%E6%B6%A8%E5%88%B07%E5%8D%83%23&t=31&band_rank=7&Refer=top)<br />
+8. [肝脏移植前后肤色对比](https://s.weibo.com/weibo?q=%E8%82%9D%E8%84%8F%E7%A7%BB%E6%A4%8D%E5%89%8D%E5%90%8E%E8%82%A4%E8%89%B2%E5%AF%B9%E6%AF%94&t=31&band_rank=8&Refer=top)<br />
+9. [高考结束张桂梅又躲进空教室](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E5%BC%A0%E6%A1%82%E6%A2%85%E5%8F%88%E8%BA%B2%E8%BF%9B%E7%A9%BA%E6%95%99%E5%AE%A4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [近 700 万粉丝的汽车博主蔡老板侵犯特斯拉名誉权败诉，拒不向特斯拉道歉，被强制执行，如何看待此事？](https://www.zhihu.com/question/605112962)<br />
 7. [刘邦是不是史称无赖，可是为什么还有那么多人愿意跟随呢？](https://www.zhihu.com/question/62872356)<br />
 8. [为什么《蜘蛛侠：纵横宇宙》的高口碑没有带动中国票房大涨?](https://www.zhihu.com/question/605399059)<br />
-9. [继「精神内耗」之后「外耗」也火了，什么是「外耗」？职场中，「外耗」哲学能行得通吗？](https://www.zhihu.com/question/605242342)<br />
+9. []()<br />
 
 > 百度  
 
