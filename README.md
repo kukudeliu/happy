@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 04:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 04:22:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [四川大学回应女生曝光地铁大叔](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%94%9F%E6%9B%9D%E5%85%89%E5%9C%B0%E9%93%81%E5%A4%A7%E5%8F%94%23&t=31&band_rank=6&Refer=top)<br />
 7. [注册不了张z被曝专业是新闻传播](https://s.weibo.com/weibo?q=%23%E6%B3%A8%E5%86%8C%E4%B8%8D%E4%BA%86%E5%BC%A0z%E8%A2%AB%E6%9B%9D%E4%B8%93%E4%B8%9A%E6%98%AF%E6%96%B0%E9%97%BB%E4%BC%A0%E6%92%AD%23&t=31&band_rank=7&Refer=top)<br />
 8. [易烊千玺 评委](https://s.weibo.com/weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%20%E8%AF%84%E5%A7%94&t=31&band_rank=8&Refer=top)<br />
-9. [婴儿接种证被盖死亡证明专用章](https://s.weibo.com/weibo?q=%23%E5%A9%B4%E5%84%BF%E6%8E%A5%E7%A7%8D%E8%AF%81%E8%A2%AB%E7%9B%96%E6%AD%BB%E4%BA%A1%E8%AF%81%E6%98%8E%E4%B8%93%E7%94%A8%E7%AB%A0%23&t=31&band_rank=9&Refer=top)<br />
+9. [徐怀钰 东亚偶像体系](https://s.weibo.com/weibo?q=%E5%BE%90%E6%80%80%E9%92%B0%20%E4%B8%9C%E4%BA%9A%E5%81%B6%E5%83%8F%E4%BD%93%E7%B3%BB&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -33,8 +33,8 @@
 5. [高校学费告别5000元时代](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E5%AD%A6%E8%B4%B9%E5%91%8A%E5%88%AB5000%E5%85%83%E6%97%B6%E4%BB%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [多名嫌犯被游行示众？西宁警方回应](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E5%AB%8C%E7%8A%AF%E8%A2%AB%E6%B8%B8%E8%A1%8C%E7%A4%BA%E4%BC%97%EF%BC%9F%E8%A5%BF%E5%AE%81%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [牵手门持续发酵 还有几点疑问待解](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E6%8C%81%E7%BB%AD%E5%8F%91%E9%85%B5+%E8%BF%98%E6%9C%89%E5%87%A0%E7%82%B9%E7%96%91%E9%97%AE%E5%BE%85%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [学霸捧花接同学 一句祝福惊艳了](https://www.baidu.com/s?wd=%E5%AD%A6%E9%9C%B8%E6%8D%A7%E8%8A%B1%E6%8E%A5%E5%90%8C%E5%AD%A6+%E4%B8%80%E5%8F%A5%E7%A5%9D%E7%A6%8F%E6%83%8A%E8%89%B3%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子曝任职村副书记的妻子出轨书记](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%9B%9D%E4%BB%BB%E8%81%8C%E6%9D%91%E5%89%AF%E4%B9%A6%E8%AE%B0%E7%9A%84%E5%A6%BB%E5%AD%90%E5%87%BA%E8%BD%A8%E4%B9%A6%E8%AE%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子曝任职村副书记的妻子出轨书记](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%9B%9D%E4%BB%BB%E8%81%8C%E6%9D%91%E5%89%AF%E4%B9%A6%E8%AE%B0%E7%9A%84%E5%A6%BB%E5%AD%90%E5%87%BA%E8%BD%A8%E4%B9%A6%E8%AE%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [20亿年前恒星死亡余晖被完整纪录](https://www.baidu.com/s?wd=20%E4%BA%BF%E5%B9%B4%E5%89%8D%E6%81%92%E6%98%9F%E6%AD%BB%E4%BA%A1%E4%BD%99%E6%99%96%E8%A2%AB%E5%AE%8C%E6%95%B4%E7%BA%AA%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [高校学费告别5000元时代](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E5%AD%A6%E8%B4%B9%E5%91%8A%E5%88%AB5000%E5%85%83%E6%97%B6%E4%BB%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [多名嫌犯被游行示众？西宁警方回应](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E5%AB%8C%E7%8A%AF%E8%A2%AB%E6%B8%B8%E8%A1%8C%E7%A4%BA%E4%BC%97%EF%BC%9F%E8%A5%BF%E5%AE%81%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [牵手门持续发酵 还有几点疑问待解](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E6%8C%81%E7%BB%AD%E5%8F%91%E9%85%B5+%E8%BF%98%E6%9C%89%E5%87%A0%E7%82%B9%E7%96%91%E9%97%AE%E5%BE%85%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [学霸捧花接同学 一句祝福惊艳了](https://www.baidu.com/s?wd=%E5%AD%A6%E9%9C%B8%E6%8D%A7%E8%8A%B1%E6%8E%A5%E5%90%8C%E5%AD%A6+%E4%B8%80%E5%8F%A5%E7%A5%9D%E7%A6%8F%E6%83%8A%E8%89%B3%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子曝任职村副书记的妻子出轨书记](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%9B%9D%E4%BB%BB%E8%81%8C%E6%9D%91%E5%89%AF%E4%B9%A6%E8%AE%B0%E7%9A%84%E5%A6%BB%E5%AD%90%E5%87%BA%E8%BD%A8%E4%B9%A6%E8%AE%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子曝任职村副书记的妻子出轨书记](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%9B%9D%E4%BB%BB%E8%81%8C%E6%9D%91%E5%89%AF%E4%B9%A6%E8%AE%B0%E7%9A%84%E5%A6%BB%E5%AD%90%E5%87%BA%E8%BD%A8%E4%B9%A6%E8%AE%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [20亿年前恒星死亡余晖被完整纪录](https://www.baidu.com/s?wd=20%E4%BA%BF%E5%B9%B4%E5%89%8D%E6%81%92%E6%98%9F%E6%AD%BB%E4%BA%A1%E4%BD%99%E6%99%96%E8%A2%AB%E5%AE%8C%E6%95%B4%E7%BA%AA%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
