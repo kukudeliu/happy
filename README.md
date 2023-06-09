@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 21:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 21:16:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [BBC卧底记者扒出经营偷拍视频团伙](https://s.weibo.com/weibo?q=BBC%E5%8D%A7%E5%BA%95%E8%AE%B0%E8%80%85%E6%89%92%E5%87%BA%E7%BB%8F%E8%90%A5%E5%81%B7%E6%8B%8D%E8%A7%86%E9%A2%91%E5%9B%A2%E4%BC%99&t=31&band_rank=5&Refer=top)<br />
 6. [四川大学回应女生曝光地铁大叔](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%94%9F%E6%9B%9D%E5%85%89%E5%9C%B0%E9%93%81%E5%A4%A7%E5%8F%94%23&t=31&band_rank=6&Refer=top)<br />
 7. [杨幂私服](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E7%A7%81%E6%9C%8D&t=31&band_rank=7&Refer=top)<br />
-8. [3分钟告诉你万物皆可链](https://s.weibo.com/weibo?q=%233%E5%88%86%E9%92%9F%E5%91%8A%E8%AF%89%E4%BD%A0%E4%B8%87%E7%89%A9%E7%9A%86%E5%8F%AF%E9%93%BE%23&t=31&band_rank=8&Refer=top)<br />
-9. [无字 乌兹](https://s.weibo.com/weibo?q=%E6%97%A0%E5%AD%97%20%E4%B9%8C%E5%85%B9&t=31&band_rank=9&Refer=top)<br />
+8. [无字 乌兹](https://s.weibo.com/weibo?q=%E6%97%A0%E5%AD%97%20%E4%B9%8C%E5%85%B9&t=31&band_rank=8&Refer=top)<br />
+9. [徐志胜 别磕给大家磕头了](https://s.weibo.com/weibo?q=%E5%BE%90%E5%BF%97%E8%83%9C%20%E5%88%AB%E7%A3%95%E7%BB%99%E5%A4%A7%E5%AE%B6%E7%A3%95%E5%A4%B4%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -26,7 +26,7 @@
 
 > 百度  
 
-1. [抢抓关键期 护航就业路](https://www.baidu.com/s?wd=%E6%8A%A2%E6%8A%93%E5%85%B3%E9%94%AE%E6%9C%9F+%E6%8A%A4%E8%88%AA%E5%B0%B1%E4%B8%9A%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [祖国北疆的绿色答卷](https://www.baidu.com/s?wd=%E7%A5%96%E5%9B%BD%E5%8C%97%E7%96%86%E7%9A%84%E7%BB%BF%E8%89%B2%E7%AD%94%E5%8D%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [人民日报评高考迟到破例入场](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E9%AB%98%E8%80%83%E8%BF%9F%E5%88%B0%E7%A0%B4%E4%BE%8B%E5%85%A5%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [环卫母亲与高考儿子相拥而泣](https://www.baidu.com/s?wd=%E7%8E%AF%E5%8D%AB%E6%AF%8D%E4%BA%B2%E4%B8%8E%E9%AB%98%E8%80%83%E5%84%BF%E5%AD%90%E7%9B%B8%E6%8B%A5%E8%80%8C%E6%B3%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [一条航线见证复苏新前景](https://www.baidu.com/s?wd=%E4%B8%80%E6%9D%A1%E8%88%AA%E7%BA%BF%E8%A7%81%E8%AF%81%E5%A4%8D%E8%8B%8F%E6%96%B0%E5%89%8D%E6%99%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -38,7 +38,7 @@
 
 > 哔哩哔哩  
 
-1. [抢抓关键期 护航就业路](https://www.baidu.com/s?wd=%E6%8A%A2%E6%8A%93%E5%85%B3%E9%94%AE%E6%9C%9F+%E6%8A%A4%E8%88%AA%E5%B0%B1%E4%B8%9A%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [祖国北疆的绿色答卷](https://www.baidu.com/s?wd=%E7%A5%96%E5%9B%BD%E5%8C%97%E7%96%86%E7%9A%84%E7%BB%BF%E8%89%B2%E7%AD%94%E5%8D%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [人民日报评高考迟到破例入场](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E9%AB%98%E8%80%83%E8%BF%9F%E5%88%B0%E7%A0%B4%E4%BE%8B%E5%85%A5%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [环卫母亲与高考儿子相拥而泣](https://www.baidu.com/s?wd=%E7%8E%AF%E5%8D%AB%E6%AF%8D%E4%BA%B2%E4%B8%8E%E9%AB%98%E8%80%83%E5%84%BF%E5%AD%90%E7%9B%B8%E6%8B%A5%E8%80%8C%E6%B3%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [一条航线见证复苏新前景](https://www.baidu.com/s?wd=%E4%B8%80%E6%9D%A1%E8%88%AA%E7%BA%BF%E8%A7%81%E8%AF%81%E5%A4%8D%E8%8B%8F%E6%96%B0%E5%89%8D%E6%99%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
