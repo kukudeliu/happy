@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 18:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 18:20:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [四川大学回应女生曝光地铁大叔](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%94%9F%E6%9B%9D%E5%85%89%E5%9C%B0%E9%93%81%E5%A4%A7%E5%8F%94%23&t=31&band_rank=6&Refer=top)<br />
 7. [大黄蜂死了](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%BB%84%E8%9C%82%E6%AD%BB%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [孟美岐 玉龙县文旅局](https://s.weibo.com/weibo?q=%E5%AD%9F%E7%BE%8E%E5%B2%90%20%E7%8E%89%E9%BE%99%E5%8E%BF%E6%96%87%E6%97%85%E5%B1%80&t=31&band_rank=8&Refer=top)<br />
-9. [徐志胜 别磕给大家磕头了](https://s.weibo.com/weibo?q=%E5%BE%90%E5%BF%97%E8%83%9C%20%E5%88%AB%E7%A3%95%E7%BB%99%E5%A4%A7%E5%AE%B6%E7%A3%95%E5%A4%B4%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [货车起火冒烟好心男子拎新买灭火器扑灭](https://s.weibo.com/weibo?q=%23%E8%B4%A7%E8%BD%A6%E8%B5%B7%E7%81%AB%E5%86%92%E7%83%9F%E5%A5%BD%E5%BF%83%E7%94%B7%E5%AD%90%E6%8B%8E%E6%96%B0%E4%B9%B0%E7%81%AD%E7%81%AB%E5%99%A8%E6%89%91%E7%81%AD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -28,22 +28,22 @@
 
 1. [流动中国释放更多生机活力](https://www.baidu.com/s?wd=%E6%B5%81%E5%8A%A8%E4%B8%AD%E5%9B%BD%E9%87%8A%E6%94%BE%E6%9B%B4%E5%A4%9A%E7%94%9F%E6%9C%BA%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [四川大学回应女生曝光地铁大叔](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%94%9F%E6%9B%9D%E5%85%89%E5%9C%B0%E9%93%81%E5%A4%A7%E5%8F%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [江歌妈妈收到大量借款信息](https://www.baidu.com/s?wd=%E6%B1%9F%E6%AD%8C%E5%A6%88%E5%A6%88%E6%94%B6%E5%88%B0%E5%A4%A7%E9%87%8F%E5%80%9F%E6%AC%BE%E4%BF%A1%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [为清华15次高考的考生：真没那实力](https://www.baidu.com/s?wd=%E4%B8%BA%E6%B8%85%E5%8D%8E15%E6%AC%A1%E9%AB%98%E8%80%83%E7%9A%84%E8%80%83%E7%94%9F%EF%BC%9A%E7%9C%9F%E6%B2%A1%E9%82%A3%E5%AE%9E%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [海洋经济“扬帆远航”](https://www.baidu.com/s?wd=%E6%B5%B7%E6%B4%8B%E7%BB%8F%E6%B5%8E%E2%80%9C%E6%89%AC%E5%B8%86%E8%BF%9C%E8%88%AA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [女孩出考场与母亲同框被误认为姐妹](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%87%BA%E8%80%83%E5%9C%BA%E4%B8%8E%E6%AF%8D%E4%BA%B2%E5%90%8C%E6%A1%86%E8%A2%AB%E8%AF%AF%E8%AE%A4%E4%B8%BA%E5%A7%90%E5%A6%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [学生抬着老师冲出考场](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E6%8A%AC%E7%9D%80%E8%80%81%E5%B8%88%E5%86%B2%E5%87%BA%E8%80%83%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [盗墓团伙穿清代龙袍炫耀](https://www.baidu.com/s?wd=%E7%9B%97%E5%A2%93%E5%9B%A2%E4%BC%99%E7%A9%BF%E6%B8%85%E4%BB%A3%E9%BE%99%E8%A2%8D%E7%82%AB%E8%80%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [主播穿牵手门同款裙带货被指蹭热度](https://www.baidu.com/s?wd=%E4%B8%BB%E6%92%AD%E7%A9%BF%E7%89%B5%E6%89%8B%E9%97%A8%E5%90%8C%E6%AC%BE%E8%A3%99%E5%B8%A6%E8%B4%A7%E8%A2%AB%E6%8C%87%E8%B9%AD%E7%83%AD%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [6岁女孩误吞口香糖后灵魂发问](https://www.baidu.com/s?wd=6%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%AF%AF%E5%90%9E%E5%8F%A3%E9%A6%99%E7%B3%96%E5%90%8E%E7%81%B5%E9%AD%82%E5%8F%91%E9%97%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [长沙一家五口的最后痕迹](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E4%B8%80%E5%AE%B6%E4%BA%94%E5%8F%A3%E7%9A%84%E6%9C%80%E5%90%8E%E7%97%95%E8%BF%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女孩出考场与母亲同框被误认为姐妹](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%87%BA%E8%80%83%E5%9C%BA%E4%B8%8E%E6%AF%8D%E4%BA%B2%E5%90%8C%E6%A1%86%E8%A2%AB%E8%AF%AF%E8%AE%A4%E4%B8%BA%E5%A7%90%E5%A6%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [流动中国释放更多生机活力](https://www.baidu.com/s?wd=%E6%B5%81%E5%8A%A8%E4%B8%AD%E5%9B%BD%E9%87%8A%E6%94%BE%E6%9B%B4%E5%A4%9A%E7%94%9F%E6%9C%BA%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [四川大学回应女生曝光地铁大叔](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%94%9F%E6%9B%9D%E5%85%89%E5%9C%B0%E9%93%81%E5%A4%A7%E5%8F%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [江歌妈妈收到大量借款信息](https://www.baidu.com/s?wd=%E6%B1%9F%E6%AD%8C%E5%A6%88%E5%A6%88%E6%94%B6%E5%88%B0%E5%A4%A7%E9%87%8F%E5%80%9F%E6%AC%BE%E4%BF%A1%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [为清华15次高考的考生：真没那实力](https://www.baidu.com/s?wd=%E4%B8%BA%E6%B8%85%E5%8D%8E15%E6%AC%A1%E9%AB%98%E8%80%83%E7%9A%84%E8%80%83%E7%94%9F%EF%BC%9A%E7%9C%9F%E6%B2%A1%E9%82%A3%E5%AE%9E%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [海洋经济“扬帆远航”](https://www.baidu.com/s?wd=%E6%B5%B7%E6%B4%8B%E7%BB%8F%E6%B5%8E%E2%80%9C%E6%89%AC%E5%B8%86%E8%BF%9C%E8%88%AA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [女孩出考场与母亲同框被误认为姐妹](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%87%BA%E8%80%83%E5%9C%BA%E4%B8%8E%E6%AF%8D%E4%BA%B2%E5%90%8C%E6%A1%86%E8%A2%AB%E8%AF%AF%E8%AE%A4%E4%B8%BA%E5%A7%90%E5%A6%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [学生抬着老师冲出考场](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E6%8A%AC%E7%9D%80%E8%80%81%E5%B8%88%E5%86%B2%E5%87%BA%E8%80%83%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [盗墓团伙穿清代龙袍炫耀](https://www.baidu.com/s?wd=%E7%9B%97%E5%A2%93%E5%9B%A2%E4%BC%99%E7%A9%BF%E6%B8%85%E4%BB%A3%E9%BE%99%E8%A2%8D%E7%82%AB%E8%80%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [主播穿牵手门同款裙带货被指蹭热度](https://www.baidu.com/s?wd=%E4%B8%BB%E6%92%AD%E7%A9%BF%E7%89%B5%E6%89%8B%E9%97%A8%E5%90%8C%E6%AC%BE%E8%A3%99%E5%B8%A6%E8%B4%A7%E8%A2%AB%E6%8C%87%E8%B9%AD%E7%83%AD%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [6岁女孩误吞口香糖后灵魂发问](https://www.baidu.com/s?wd=6%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%AF%AF%E5%90%9E%E5%8F%A3%E9%A6%99%E7%B3%96%E5%90%8E%E7%81%B5%E9%AD%82%E5%8F%91%E9%97%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [长沙一家五口的最后痕迹](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E4%B8%80%E5%AE%B6%E4%BA%94%E5%8F%A3%E7%9A%84%E6%9C%80%E5%90%8E%E7%97%95%E8%BF%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女孩出考场与母亲同框被误认为姐妹](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%87%BA%E8%80%83%E5%9C%BA%E4%B8%8E%E6%AF%8D%E4%BA%B2%E5%90%8C%E6%A1%86%E8%A2%AB%E8%AF%AF%E8%AE%A4%E4%B8%BA%E5%A7%90%E5%A6%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
