@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 19:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 19:59:01</h4></div>
 
 > 微博  
 
@@ -31,10 +31,10 @@
 3. [环卫母亲与高考儿子相拥而泣](https://www.baidu.com/s?wd=%E7%8E%AF%E5%8D%AB%E6%AF%8D%E4%BA%B2%E4%B8%8E%E9%AB%98%E8%80%83%E5%84%BF%E5%AD%90%E7%9B%B8%E6%8B%A5%E8%80%8C%E6%B3%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [一条航线见证复苏新前景](https://www.baidu.com/s?wd=%E4%B8%80%E6%9D%A1%E8%88%AA%E7%BA%BF%E8%A7%81%E8%AF%81%E5%A4%8D%E8%8B%8F%E6%96%B0%E5%89%8D%E6%99%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [为清华15次高考的考生：真没那实力](https://www.baidu.com/s?wd=%E4%B8%BA%E6%B8%85%E5%8D%8E15%E6%AC%A1%E9%AB%98%E8%80%83%E7%9A%84%E8%80%83%E7%94%9F%EF%BC%9A%E7%9C%9F%E6%B2%A1%E9%82%A3%E5%AE%9E%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [女子公众场合扯住老人脖子踢打](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%85%AC%E4%BC%97%E5%9C%BA%E5%90%88%E6%89%AF%E4%BD%8F%E8%80%81%E4%BA%BA%E8%84%96%E5%AD%90%E8%B8%A2%E6%89%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [盗墓团伙穿清代龙袍炫耀](https://www.baidu.com/s?wd=%E7%9B%97%E5%A2%93%E5%9B%A2%E4%BC%99%E7%A9%BF%E6%B8%85%E4%BB%A3%E9%BE%99%E8%A2%8D%E7%82%AB%E8%80%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [广州地铁:曝光偷拍女生与大叔已和解](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E5%9C%B0%E9%93%81%3A%E6%9B%9D%E5%85%89%E5%81%B7%E6%8B%8D%E5%A5%B3%E7%94%9F%E4%B8%8E%E5%A4%A7%E5%8F%94%E5%B7%B2%E5%92%8C%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [上海国际电影节开幕红毯](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%9B%BD%E9%99%85%E7%94%B5%E5%BD%B1%E8%8A%82%E5%BC%80%E5%B9%95%E7%BA%A2%E6%AF%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [6岁女孩误吞口香糖后灵魂发问](https://www.baidu.com/s?wd=6%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%AF%AF%E5%90%9E%E5%8F%A3%E9%A6%99%E7%B3%96%E5%90%8E%E7%81%B5%E9%AD%82%E5%8F%91%E9%97%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女儿高考 警爸警妈执勤](https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF%E9%AB%98%E8%80%83+%E8%AD%A6%E7%88%B8%E8%AD%A6%E5%A6%88%E6%89%A7%E5%8B%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [环卫母亲与高考儿子相拥而泣](https://www.baidu.com/s?wd=%E7%8E%AF%E5%8D%AB%E6%AF%8D%E4%BA%B2%E4%B8%8E%E9%AB%98%E8%80%83%E5%84%BF%E5%AD%90%E7%9B%B8%E6%8B%A5%E8%80%8C%E6%B3%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [一条航线见证复苏新前景](https://www.baidu.com/s?wd=%E4%B8%80%E6%9D%A1%E8%88%AA%E7%BA%BF%E8%A7%81%E8%AF%81%E5%A4%8D%E8%8B%8F%E6%96%B0%E5%89%8D%E6%99%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [为清华15次高考的考生：真没那实力](https://www.baidu.com/s?wd=%E4%B8%BA%E6%B8%85%E5%8D%8E15%E6%AC%A1%E9%AB%98%E8%80%83%E7%9A%84%E8%80%83%E7%94%9F%EF%BC%9A%E7%9C%9F%E6%B2%A1%E9%82%A3%E5%AE%9E%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [女子公众场合扯住老人脖子踢打](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%85%AC%E4%BC%97%E5%9C%BA%E5%90%88%E6%89%AF%E4%BD%8F%E8%80%81%E4%BA%BA%E8%84%96%E5%AD%90%E8%B8%A2%E6%89%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [盗墓团伙穿清代龙袍炫耀](https://www.baidu.com/s?wd=%E7%9B%97%E5%A2%93%E5%9B%A2%E4%BC%99%E7%A9%BF%E6%B8%85%E4%BB%A3%E9%BE%99%E8%A2%8D%E7%82%AB%E8%80%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [广州地铁:曝光偷拍女生与大叔已和解](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E5%9C%B0%E9%93%81%3A%E6%9B%9D%E5%85%89%E5%81%B7%E6%8B%8D%E5%A5%B3%E7%94%9F%E4%B8%8E%E5%A4%A7%E5%8F%94%E5%B7%B2%E5%92%8C%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [上海国际电影节开幕红毯](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%9B%BD%E9%99%85%E7%94%B5%E5%BD%B1%E8%8A%82%E5%BC%80%E5%B9%95%E7%BA%A2%E6%AF%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [6岁女孩误吞口香糖后灵魂发问](https://www.baidu.com/s?wd=6%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%AF%AF%E5%90%9E%E5%8F%A3%E9%A6%99%E7%B3%96%E5%90%8E%E7%81%B5%E9%AD%82%E5%8F%91%E9%97%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女儿高考 警爸警妈执勤](https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF%E9%AB%98%E8%80%83+%E8%AD%A6%E7%88%B8%E8%AD%A6%E5%A6%88%E6%89%A7%E5%8B%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
