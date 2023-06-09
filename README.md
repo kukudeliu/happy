@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 17:30:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 17:31:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [EXO确定于7月10日回归](https://s.weibo.com/weibo?q=%23EXO%E7%A1%AE%E5%AE%9A%E4%BA%8E7%E6%9C%8810%E6%97%A5%E5%9B%9E%E5%BD%92%23&t=31&band_rank=6&Refer=top)<br />
 7. [徐志胜 别磕给大家磕头了](https://s.weibo.com/weibo?q=%E5%BE%90%E5%BF%97%E8%83%9C%20%E5%88%AB%E7%A3%95%E7%BB%99%E5%A4%A7%E5%AE%B6%E7%A3%95%E5%A4%B4%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [EDG啥时候官宣](https://s.weibo.com/weibo?q=%23EDG%E5%95%A5%E6%97%B6%E5%80%99%E5%AE%98%E5%AE%A3%23&t=31&band_rank=8&Refer=top)<br />
-9. [刘惜君绝了](https://s.weibo.com/weibo?q=%E5%88%98%E6%83%9C%E5%90%9B%E7%BB%9D%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [刘亚仁 人间炼丹炉](https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%9A%E4%BB%81%20%E4%BA%BA%E9%97%B4%E7%82%BC%E4%B8%B9%E7%82%89&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -21,8 +21,8 @@
 5. [为什么华为手机国产率这么高，价格却降不下来？](https://www.zhihu.com/question/604699463)<br />
 6. [卡霍夫卡水电站大坝被破坏，到底是什么力量让能抵御核弹袭击的水坝「断成两半」？](https://www.zhihu.com/question/605615861)<br />
 7. [在机枪枪管上缠湿布是否可以达到水冷效果？](https://www.zhihu.com/question/605380401)<br />
-8. [三部门就依法惩治网暴犯罪征求意见，编造「涉性」话题侵害他人人格尊严等情况将从重处罚，哪些信息值得关注？](https://www.zhihu.com/question/605655675)<br />
-9. [2022 届本科毕业生仅 6.9% 月收入过万，超八成高职生起薪低于 6000 元，该薪资水平合理吗？](https://www.zhihu.com/question/605658808)<br />
+8. [生活中越来越多的小孩都开始佩戴眼镜，作为家长该如何教导孩子保护视力?](https://www.zhihu.com/question/605058208)<br />
+9. [三部门就依法惩治网暴犯罪征求意见，编造「涉性」话题侵害他人人格尊严等情况将从重处罚，哪些信息值得关注？](https://www.zhihu.com/question/605655675)<br />
 
 > 百度  
 
