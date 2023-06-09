@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 00:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 00:03:01</h4></div>
 
 > 微博  
 
@@ -9,14 +9,14 @@
 5. [美国亚裔高考接近满分被六大名校拒绝](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BA%9A%E8%A3%94%E9%AB%98%E8%80%83%E6%8E%A5%E8%BF%91%E6%BB%A1%E5%88%86%E8%A2%AB%E5%85%AD%E5%A4%A7%E5%90%8D%E6%A0%A1%E6%8B%92%E7%BB%9D%23&t=31&band_rank=5&Refer=top)<br />
 6. [四川大学回应女生曝光地铁大叔](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%94%9F%E6%9B%9D%E5%85%89%E5%9C%B0%E9%93%81%E5%A4%A7%E5%8F%94%23&t=31&band_rank=6&Refer=top)<br />
 7. [长沙一公司取消了所有的调休](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B2%99%E4%B8%80%E5%85%AC%E5%8F%B8%E5%8F%96%E6%B6%88%E4%BA%86%E6%89%80%E6%9C%89%E7%9A%84%E8%B0%83%E4%BC%91%23&t=31&band_rank=7&Refer=top)<br />
-8. [陈露涉嫌敲诈勒索案进入审查起诉阶段](https://s.weibo.com/weibo?q=%23%E9%99%88%E9%9C%B2%E6%B6%89%E5%AB%8C%E6%95%B2%E8%AF%88%E5%8B%92%E7%B4%A2%E6%A1%88%E8%BF%9B%E5%85%A5%E5%AE%A1%E6%9F%A5%E8%B5%B7%E8%AF%89%E9%98%B6%E6%AE%B5%23&t=31&band_rank=8&Refer=top)<br />
-9. [倪妮第二套](https://s.weibo.com/weibo?q=%23%E5%80%AA%E5%A6%AE%E7%AC%AC%E4%BA%8C%E5%A5%97%23&t=31&band_rank=9&Refer=top)<br />
+8. [倪妮第二套](https://s.weibo.com/weibo?q=%23%E5%80%AA%E5%A6%AE%E7%AC%AC%E4%BA%8C%E5%A5%97%23&t=31&band_rank=8&Refer=top)<br />
+9. [陈露涉嫌敲诈勒索案进入审查起诉阶段](https://s.weibo.com/weibo?q=%23%E9%99%88%E9%9C%B2%E6%B6%89%E5%AB%8C%E6%95%B2%E8%AF%88%E5%8B%92%E7%B4%A2%E6%A1%88%E8%BF%9B%E5%85%A5%E5%AE%A1%E6%9F%A5%E8%B5%B7%E8%AF%89%E9%98%B6%E6%AE%B5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [「鼠头鸭脖」涉事高校学生称，又在食堂吃出大青虫，具体情况如何？高校食堂为何频繁曝出问题？](https://www.zhihu.com/question/605552961)<br />
-2. [苏享茂哥哥称翟欣欣涉嫌敲诈勒索已被逮捕，这意味着什么？此前翟欣欣退还 660 万，此事或将如何进展？](https://www.zhihu.com/question/605647767)<br />
-3. [为什么华为手机国产率这么高，价格却降不下来？](https://www.zhihu.com/question/604699463)<br />
+2. [为什么华为手机国产率这么高，价格却降不下来？](https://www.zhihu.com/question/604699463)<br />
+3. [苏享茂哥哥称翟欣欣涉嫌敲诈勒索已被逮捕，这意味着什么？此前翟欣欣退还 660 万，此事或将如何进展？](https://www.zhihu.com/question/605647767)<br />
 4. [卡霍夫卡水电站大坝被破坏，到底是什么力量让能抵御核弹袭击的水坝「断成两半」？](https://www.zhihu.com/question/605615861)<br />
 5. [2022 届本科毕业生仅 6.9% 月收入过万，超八成高职生起薪低于 6000 元，该薪资水平合理吗？](https://www.zhihu.com/question/605658808)<br />
 6. [美参院通过所谓「终止中国发展中国家地位法」，中方称「中国所做贡献远超绝大多数发达国家」，如何看待此事？](https://www.zhihu.com/question/605664006)<br />
