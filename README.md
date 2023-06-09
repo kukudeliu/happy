@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 09:01:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 09:02:01</h4></div>
 
 > 微博  
 
-1. [高考第三天](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E7%AC%AC%E4%B8%89%E5%A4%A9%23&t=31&band_rank=1&Refer=top)<br />
-2. [外媒曝Jennie将加入漫威](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%AA%92%E6%9B%9DJennie%E5%B0%86%E5%8A%A0%E5%85%A5%E6%BC%AB%E5%A8%81%23&t=31&band_rank=2&Refer=top)<br />
+1. [外媒曝Jennie将加入漫威](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%AA%92%E6%9B%9DJennie%E5%B0%86%E5%8A%A0%E5%85%A5%E6%BC%AB%E5%A8%81%23&t=31&band_rank=1&Refer=top)<br />
+2. [高考第三天](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E7%AC%AC%E4%B8%89%E5%A4%A9%23&t=31&band_rank=2&Refer=top)<br />
 3. [保护我们的那片海](https://s.weibo.com/weibo?q=%23%E4%BF%9D%E6%8A%A4%E6%88%91%E4%BB%AC%E7%9A%84%E9%82%A3%E7%89%87%E6%B5%B7%23&t=31&band_rank=3&Refer=top)<br />
 4. [Uzi](https://s.weibo.com/weibo?q=Uzi&t=31&band_rank=4&Refer=top)<br />
 5. [LBL官宣uzi离队](https://s.weibo.com/weibo?q=%23LBL%E5%AE%98%E5%AE%A3uzi%E7%A6%BB%E9%98%9F%23&t=31&band_rank=5&Refer=top)<br />
