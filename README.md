@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 21:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-09 21:27:01</h4></div>
 
 > 微博  
 
-1. [倪妮礼服](https://s.weibo.com/weibo?q=%E5%80%AA%E5%A6%AE%E7%A4%BC%E6%9C%8D&t=31&band_rank=1&Refer=top)<br />
-2. [BBC卧底记者扒出经营偷拍视频团伙](https://s.weibo.com/weibo?q=BBC%E5%8D%A7%E5%BA%95%E8%AE%B0%E8%80%85%E6%89%92%E5%87%BA%E7%BB%8F%E8%90%A5%E5%81%B7%E6%8B%8D%E8%A7%86%E9%A2%91%E5%9B%A2%E4%BC%99&t=31&band_rank=2&Refer=top)<br />
+1. [BBC卧底记者扒出经营偷拍视频团伙](https://s.weibo.com/weibo?q=BBC%E5%8D%A7%E5%BA%95%E8%AE%B0%E8%80%85%E6%89%92%E5%87%BA%E7%BB%8F%E8%90%A5%E5%81%B7%E6%8B%8D%E8%A7%86%E9%A2%91%E5%9B%A2%E4%BC%99&t=31&band_rank=1&Refer=top)<br />
+2. [倪妮礼服](https://s.weibo.com/weibo?q=%E5%80%AA%E5%A6%AE%E7%A4%BC%E6%9C%8D&t=31&band_rank=2&Refer=top)<br />
 3. [为中国航天点赞](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E7%82%B9%E8%B5%9E%23&t=31&band_rank=3&Refer=top)<br />
 4. [胡歌把吴磊抱起来了](https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E6%8A%8A%E5%90%B4%E7%A3%8A%E6%8A%B1%E8%B5%B7%E6%9D%A5%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [王源易烊千玺工作室出图](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%87%BA%E5%9B%BE%23&t=31&band_rank=5&Refer=top)<br />
@@ -22,7 +22,7 @@
 6. [为何 23 年的梅西和 22 年的 C 罗一样没有五大联赛俱乐部报价，最后也是去了非主流联赛？](https://www.zhihu.com/question/605447222)<br />
 7. [美参院通过所谓「终止中国发展中国家地位法」，中方称「中国所做贡献远超绝大多数发达国家」，如何看待此事？](https://www.zhihu.com/question/605664006)<br />
 8. [如何看待《英雄联盟》主播刘谋在直播中因啃老话题与水友发生的讨论？](https://www.zhihu.com/question/605625422)<br />
-9. [北京拟规定共有产权房取得不动产权证满 5 年，可按市场价转让，将给房地产市场带来哪些影响？](https://www.zhihu.com/question/605670192)<br />
+9. [华为推出首款全栈自主数据库 GaussDB，对此你有哪些期待？](https://www.zhihu.com/question/605234450)<br />
 
 > 百度  
 
