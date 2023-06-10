@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 13:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 13:34:02</h4></div>
 
 > 微博  
 
@@ -17,12 +17,12 @@
 1. [我国汽车出口额首次超过手机，二手车出口业务大涨，一些新能源二手车出口均价已超一万美元，这意味着什么？](https://www.zhihu.com/question/605536890)<br />
 2. [我看见一程序员，电脑里只有一个巨大的 C 盘，谁能解释解释？](https://www.zhihu.com/question/605106173)<br />
 3. [22-23 赛季 NBA 总决赛掘金再胜热火，3:1 夺赛点，约基奇 23+12，如何评价这场比赛？](https://www.zhihu.com/question/605810724)<br />
-4. [普京称俄罗斯将在准备工作完成后在白俄罗斯部署核武器，此举将对国际局势带来哪些影响？](https://www.zhihu.com/question/605734119)<br />
-5. [如何评价 EDG 紧急引入 Uzi 参赛？](https://www.zhihu.com/question/605595124)<br />
-6. [为什么五大联赛没人签梅西？](https://www.zhihu.com/question/604995546)<br />
-7. [夏天如何吃西瓜更健康？切开的西瓜能放多久？西瓜比其它水果更易坏吗？](https://www.zhihu.com/question/603815528)<br />
-8. [中国人民银行行长称预计二季度 GDP 同比增速会比较高，CPI 下半年有望逐步回升，透露哪些信息？](https://www.zhihu.com/question/605690923)<br />
-9. [如何判定一件商品的正确价格呢？](https://www.zhihu.com/question/605703106)<br />
+4. [印度教科书删除元素周期表及进化论，教育界对此感到「莫名其妙」，如何看待此事？会对学生带来哪些影响？](https://www.zhihu.com/question/604386757)<br />
+5. [普京称俄罗斯将在准备工作完成后在白俄罗斯部署核武器，此举将对国际局势带来哪些影响？](https://www.zhihu.com/question/605734119)<br />
+6. [如何评价 EDG 紧急引入 Uzi 参赛？](https://www.zhihu.com/question/605595124)<br />
+7. [为什么五大联赛没人签梅西？](https://www.zhihu.com/question/604995546)<br />
+8. [夏天如何吃西瓜更健康？切开的西瓜能放多久？西瓜比其它水果更易坏吗？](https://www.zhihu.com/question/603815528)<br />
+9. [中国人民银行行长称预计二季度 GDP 同比增速会比较高，CPI 下半年有望逐步回升，透露哪些信息？](https://www.zhihu.com/question/605690923)<br />
 
 > 百度  
 
@@ -33,8 +33,8 @@
 5. [梅西私人飞机抵达北京](https://www.baidu.com/s?wd=%E6%A2%85%E8%A5%BF%E7%A7%81%E4%BA%BA%E9%A3%9E%E6%9C%BA%E6%8A%B5%E8%BE%BE%E5%8C%97%E4%BA%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [多个城市地铁规划被取消](https://www.baidu.com/s?wd=%E5%A4%9A%E4%B8%AA%E5%9F%8E%E5%B8%82%E5%9C%B0%E9%93%81%E8%A7%84%E5%88%92%E8%A2%AB%E5%8F%96%E6%B6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [媒体：给高分复读生的奖励该取消了](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E7%BB%99%E9%AB%98%E5%88%86%E5%A4%8D%E8%AF%BB%E7%94%9F%E7%9A%84%E5%A5%96%E5%8A%B1%E8%AF%A5%E5%8F%96%E6%B6%88%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [美国亚裔高考近满分被六大名校拒绝](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%BA%9A%E8%A3%94%E9%AB%98%E8%80%83%E8%BF%91%E6%BB%A1%E5%88%86%E8%A2%AB%E5%85%AD%E5%A4%A7%E5%90%8D%E6%A0%A1%E6%8B%92%E7%BB%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [乘客被机长拒载 多人喊“滚下去”](https://www.baidu.com/s?wd=%E4%B9%98%E5%AE%A2%E8%A2%AB%E6%9C%BA%E9%95%BF%E6%8B%92%E8%BD%BD+%E5%A4%9A%E4%BA%BA%E5%96%8A%E2%80%9C%E6%BB%9A%E4%B8%8B%E5%8E%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [乘客被机长拒载 多人喊“滚下去”](https://www.baidu.com/s?wd=%E4%B9%98%E5%AE%A2%E8%A2%AB%E6%9C%BA%E9%95%BF%E6%8B%92%E8%BD%BD+%E5%A4%9A%E4%BA%BA%E5%96%8A%E2%80%9C%E6%BB%9A%E4%B8%8B%E5%8E%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [四川一中学不让学生带书离校售卖](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E4%B8%AD%E5%AD%A6%E4%B8%8D%E8%AE%A9%E5%AD%A6%E7%94%9F%E5%B8%A6%E4%B9%A6%E7%A6%BB%E6%A0%A1%E5%94%AE%E5%8D%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [梅西私人飞机抵达北京](https://www.baidu.com/s?wd=%E6%A2%85%E8%A5%BF%E7%A7%81%E4%BA%BA%E9%A3%9E%E6%9C%BA%E6%8A%B5%E8%BE%BE%E5%8C%97%E4%BA%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [多个城市地铁规划被取消](https://www.baidu.com/s?wd=%E5%A4%9A%E4%B8%AA%E5%9F%8E%E5%B8%82%E5%9C%B0%E9%93%81%E8%A7%84%E5%88%92%E8%A2%AB%E5%8F%96%E6%B6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [媒体：给高分复读生的奖励该取消了](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E7%BB%99%E9%AB%98%E5%88%86%E5%A4%8D%E8%AF%BB%E7%94%9F%E7%9A%84%E5%A5%96%E5%8A%B1%E8%AF%A5%E5%8F%96%E6%B6%88%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [美国亚裔高考近满分被六大名校拒绝](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%BA%9A%E8%A3%94%E9%AB%98%E8%80%83%E8%BF%91%E6%BB%A1%E5%88%86%E8%A2%AB%E5%85%AD%E5%A4%A7%E5%90%8D%E6%A0%A1%E6%8B%92%E7%BB%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [乘客被机长拒载 多人喊“滚下去”](https://www.baidu.com/s?wd=%E4%B9%98%E5%AE%A2%E8%A2%AB%E6%9C%BA%E9%95%BF%E6%8B%92%E8%BD%BD+%E5%A4%9A%E4%BA%BA%E5%96%8A%E2%80%9C%E6%BB%9A%E4%B8%8B%E5%8E%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [乘客被机长拒载 多人喊“滚下去”](https://www.baidu.com/s?wd=%E4%B9%98%E5%AE%A2%E8%A2%AB%E6%9C%BA%E9%95%BF%E6%8B%92%E8%BD%BD+%E5%A4%9A%E4%BA%BA%E5%96%8A%E2%80%9C%E6%BB%9A%E4%B8%8B%E5%8E%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [四川一中学不让学生带书离校售卖](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E4%B8%AD%E5%AD%A6%E4%B8%8D%E8%AE%A9%E5%AD%A6%E7%94%9F%E5%B8%A6%E4%B9%A6%E7%A6%BB%E6%A0%A1%E5%94%AE%E5%8D%96&sa=fyb_news&rsv_dl=fyb_news)<br />
