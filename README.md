@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 09:50:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 09:51:01</h4></div>
 
 > 微博  
 
 1. [袁冰妍涂山雅雅定妆造型视频](https://s.weibo.com/weibo?q=%23%E8%A2%81%E5%86%B0%E5%A6%8D%E6%B6%82%E5%B1%B1%E9%9B%85%E9%9B%85%E5%AE%9A%E5%A6%86%E9%80%A0%E5%9E%8B%E8%A7%86%E9%A2%91%23&t=31&band_rank=1&Refer=top)<br />
 2. [老人突发脑梗发现医生隐瞒未植入支架](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E7%AA%81%E5%8F%91%E8%84%91%E6%A2%97%E5%8F%91%E7%8E%B0%E5%8C%BB%E7%94%9F%E9%9A%90%E7%9E%92%E6%9C%AA%E6%A4%8D%E5%85%A5%E6%94%AF%E6%9E%B6%23&t=31&band_rank=2&Refer=top)<br />
 3. [3分钟告诉你万物皆可链](https://s.weibo.com/weibo?q=%233%E5%88%86%E9%92%9F%E5%91%8A%E8%AF%89%E4%BD%A0%E4%B8%87%E7%89%A9%E7%9A%86%E5%8F%AF%E9%93%BE%23&t=31&band_rank=3&Refer=top)<br />
-4. [陈凯歌推朱一龙拉朱亚文拽黄晓明](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%87%AF%E6%AD%8C%E6%8E%A8%E6%9C%B1%E4%B8%80%E9%BE%99%E6%8B%89%E6%9C%B1%E4%BA%9A%E6%96%87%E6%8B%BD%E9%BB%84%E6%99%93%E6%98%8E%23&t=31&band_rank=4&Refer=top)<br />
-5. [Jennie 复仇者联盟5](https://s.weibo.com/weibo?q=Jennie%20%E5%A4%8D%E4%BB%87%E8%80%85%E8%81%94%E7%9B%9F5&t=31&band_rank=5&Refer=top)<br />
+4. [Jennie 复仇者联盟5](https://s.weibo.com/weibo?q=Jennie%20%E5%A4%8D%E4%BB%87%E8%80%85%E8%81%94%E7%9B%9F5&t=31&band_rank=4&Refer=top)<br />
+5. [陈凯歌推朱一龙拉朱亚文拽黄晓明](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%87%AF%E6%AD%8C%E6%8E%A8%E6%9C%B1%E4%B8%80%E9%BE%99%E6%8B%89%E6%9C%B1%E4%BA%9A%E6%96%87%E6%8B%BD%E9%BB%84%E6%99%93%E6%98%8E%23&t=31&band_rank=5&Refer=top)<br />
 6. [四川大学回应女生曝光地铁大叔](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%94%9F%E6%9B%9D%E5%85%89%E5%9C%B0%E9%93%81%E5%A4%A7%E5%8F%94%23&t=31&band_rank=6&Refer=top)<br />
 7. [抑郁女生带患癌爷爷游中国相互治愈](https://s.weibo.com/weibo?q=%23%E6%8A%91%E9%83%81%E5%A5%B3%E7%94%9F%E5%B8%A6%E6%82%A3%E7%99%8C%E7%88%B7%E7%88%B7%E6%B8%B8%E4%B8%AD%E5%9B%BD%E7%9B%B8%E4%BA%92%E6%B2%BB%E6%84%88%23&t=31&band_rank=7&Refer=top)<br />
 8. [易烊千玺 评委](https://s.weibo.com/weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%20%E8%AF%84%E5%A7%94&t=31&band_rank=8&Refer=top)<br />
