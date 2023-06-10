@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 09:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 09:08:01</h4></div>
 
 > 微博  
 
 1. [袁冰妍涂山雅雅定妆造型视频](https://s.weibo.com/weibo?q=%23%E8%A2%81%E5%86%B0%E5%A6%8D%E6%B6%82%E5%B1%B1%E9%9B%85%E9%9B%85%E5%AE%9A%E5%A6%86%E9%80%A0%E5%9E%8B%E8%A7%86%E9%A2%91%23&t=31&band_rank=1&Refer=top)<br />
-2. [婴儿接种证被盖死亡证明专用章](https://s.weibo.com/weibo?q=%23%E5%A9%B4%E5%84%BF%E6%8E%A5%E7%A7%8D%E8%AF%81%E8%A2%AB%E7%9B%96%E6%AD%BB%E4%BA%A1%E8%AF%81%E6%98%8E%E4%B8%93%E7%94%A8%E7%AB%A0%23&t=31&band_rank=2&Refer=top)<br />
+2. [娜扎说人家巴不得跟我结婚](https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8E%E8%AF%B4%E4%BA%BA%E5%AE%B6%E5%B7%B4%E4%B8%8D%E5%BE%97%E8%B7%9F%E6%88%91%E7%BB%93%E5%A9%9A%23&t=31&band_rank=2&Refer=top)<br />
 3. [3分钟告诉你万物皆可链](https://s.weibo.com/weibo?q=%233%E5%88%86%E9%92%9F%E5%91%8A%E8%AF%89%E4%BD%A0%E4%B8%87%E7%89%A9%E7%9A%86%E5%8F%AF%E9%93%BE%23&t=31&band_rank=3&Refer=top)<br />
-4. [娜扎说人家巴不得跟我结婚](https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8E%E8%AF%B4%E4%BA%BA%E5%AE%B6%E5%B7%B4%E4%B8%8D%E5%BE%97%E8%B7%9F%E6%88%91%E7%BB%93%E5%A9%9A%23&t=31&band_rank=4&Refer=top)<br />
+4. [婴儿接种证被盖死亡证明专用章](https://s.weibo.com/weibo?q=%23%E5%A9%B4%E5%84%BF%E6%8E%A5%E7%A7%8D%E8%AF%81%E8%A2%AB%E7%9B%96%E6%AD%BB%E4%BA%A1%E8%AF%81%E6%98%8E%E4%B8%93%E7%94%A8%E7%AB%A0%23&t=31&band_rank=4&Refer=top)<br />
 5. [老人突发脑梗发现医生隐瞒未植入支架](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E7%AA%81%E5%8F%91%E8%84%91%E6%A2%97%E5%8F%91%E7%8E%B0%E5%8C%BB%E7%94%9F%E9%9A%90%E7%9E%92%E6%9C%AA%E6%A4%8D%E5%85%A5%E6%94%AF%E6%9E%B6%23&t=31&band_rank=5&Refer=top)<br />
 6. [四川大学回应女生曝光地铁大叔](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%94%9F%E6%9B%9D%E5%85%89%E5%9C%B0%E9%93%81%E5%A4%A7%E5%8F%94%23&t=31&band_rank=6&Refer=top)<br />
 7. [免职裙不到半天卖出2000多条](https://s.weibo.com/weibo?q=%23%E5%85%8D%E8%81%8C%E8%A3%99%E4%B8%8D%E5%88%B0%E5%8D%8A%E5%A4%A9%E5%8D%96%E5%87%BA2000%E5%A4%9A%E6%9D%A1%23&t=31&band_rank=7&Refer=top)<br />
@@ -21,8 +21,8 @@
 5. [我看见一程序员，电脑里只有一个巨大的 C 盘，谁能解释解释？](https://www.zhihu.com/question/605106173)<br />
 6. [高考是不是人生的分水岭？](https://www.zhihu.com/question/605189488)<br />
 7. [为什么说紫霞神功是《笑傲江湖》中最被低估的武功呢？](https://www.zhihu.com/question/496127391)<br />
-8. []()<br />
-9. [《塞尔达传说：王国之泪》哪些组合武器在战斗中有奇效？](https://www.zhihu.com/question/600754180)<br />
+8. [《塞尔达传说：王国之泪》哪些组合武器在战斗中有奇效？](https://www.zhihu.com/question/600754180)<br />
+9. [无意识的宇宙为什么会产生有意识的人？](https://www.zhihu.com/question/572883480)<br />
 
 > 百度  
 
