@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 13:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 13:38:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [牵手门](https://s.weibo.com/weibo?q=%E7%89%B5%E6%89%8B%E9%97%A8&t=31&band_rank=6&Refer=top)<br />
 7. [大学摘10万斤荔枝请全校免费吃](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E6%91%9810%E4%B8%87%E6%96%A4%E8%8D%94%E6%9E%9D%E8%AF%B7%E5%85%A8%E6%A0%A1%E5%85%8D%E8%B4%B9%E5%90%83%23&t=31&band_rank=7&Refer=top)<br />
 8. [Amber又是第一](https://s.weibo.com/weibo?q=%23Amber%E5%8F%88%E6%98%AF%E7%AC%AC%E4%B8%80%23&t=31&band_rank=8&Refer=top)<br />
-9. [Jennie 复仇者联盟5](https://s.weibo.com/weibo?q=Jennie%20%E5%A4%8D%E4%BB%87%E8%80%85%E8%81%94%E7%9B%9F5&t=31&band_rank=9&Refer=top)<br />
+9. [陈鑫海怒怼辱国旅客](https://s.weibo.com/weibo?q=%23%E9%99%88%E9%91%AB%E6%B5%B7%E6%80%92%E6%80%BC%E8%BE%B1%E5%9B%BD%E6%97%85%E5%AE%A2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
