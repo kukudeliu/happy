@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 08:57:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 08:58:01</h4></div>
 
 > 微博  
 
-1. [婴儿接种证被盖死亡证明专用章](https://s.weibo.com/weibo?q=%23%E5%A9%B4%E5%84%BF%E6%8E%A5%E7%A7%8D%E8%AF%81%E8%A2%AB%E7%9B%96%E6%AD%BB%E4%BA%A1%E8%AF%81%E6%98%8E%E4%B8%93%E7%94%A8%E7%AB%A0%23&t=31&band_rank=1&Refer=top)<br />
-2. [袁冰妍涂山雅雅定妆造型视频](https://s.weibo.com/weibo?q=%23%E8%A2%81%E5%86%B0%E5%A6%8D%E6%B6%82%E5%B1%B1%E9%9B%85%E9%9B%85%E5%AE%9A%E5%A6%86%E9%80%A0%E5%9E%8B%E8%A7%86%E9%A2%91%23&t=31&band_rank=2&Refer=top)<br />
+1. [袁冰妍涂山雅雅定妆造型视频](https://s.weibo.com/weibo?q=%23%E8%A2%81%E5%86%B0%E5%A6%8D%E6%B6%82%E5%B1%B1%E9%9B%85%E9%9B%85%E5%AE%9A%E5%A6%86%E9%80%A0%E5%9E%8B%E8%A7%86%E9%A2%91%23&t=31&band_rank=1&Refer=top)<br />
+2. [婴儿接种证被盖死亡证明专用章](https://s.weibo.com/weibo?q=%23%E5%A9%B4%E5%84%BF%E6%8E%A5%E7%A7%8D%E8%AF%81%E8%A2%AB%E7%9B%96%E6%AD%BB%E4%BA%A1%E8%AF%81%E6%98%8E%E4%B8%93%E7%94%A8%E7%AB%A0%23&t=31&band_rank=2&Refer=top)<br />
 3. [3分钟告诉你万物皆可链](https://s.weibo.com/weibo?q=%233%E5%88%86%E9%92%9F%E5%91%8A%E8%AF%89%E4%BD%A0%E4%B8%87%E7%89%A9%E7%9A%86%E5%8F%AF%E9%93%BE%23&t=31&band_rank=3&Refer=top)<br />
 4. [长得漂亮但拍照不上镜](https://s.weibo.com/weibo?q=%23%E9%95%BF%E5%BE%97%E6%BC%82%E4%BA%AE%E4%BD%86%E6%8B%8D%E7%85%A7%E4%B8%8D%E4%B8%8A%E9%95%9C%23&t=31&band_rank=4&Refer=top)<br />
 5. [陈露 王萌](https://s.weibo.com/weibo?q=%E9%99%88%E9%9C%B2%20%E7%8E%8B%E8%90%8C&t=31&band_rank=5&Refer=top)<br />
@@ -34,7 +34,7 @@
 6. [老人脑梗去世 医生隐瞒未植入支架](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E8%84%91%E6%A2%97%E5%8E%BB%E4%B8%96+%E5%8C%BB%E7%94%9F%E9%9A%90%E7%9E%92%E6%9C%AA%E6%A4%8D%E5%85%A5%E6%94%AF%E6%9E%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [“牵手门”连衣裙卖家呼吁理性消费](https://www.baidu.com/s?wd=%E2%80%9C%E7%89%B5%E6%89%8B%E9%97%A8%E2%80%9D%E8%BF%9E%E8%A1%A3%E8%A3%99%E5%8D%96%E5%AE%B6%E5%91%BC%E5%90%81%E7%90%86%E6%80%A7%E6%B6%88%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [四川一中学不让学生带书离校售卖](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E4%B8%AD%E5%AD%A6%E4%B8%8D%E8%AE%A9%E5%AD%A6%E7%94%9F%E5%B8%A6%E4%B9%A6%E7%A6%BB%E6%A0%A1%E5%94%AE%E5%8D%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [农民马路晒粮被洒水车喷水打湿](https://www.baidu.com/s?wd=%E5%86%9C%E6%B0%91%E9%A9%AC%E8%B7%AF%E6%99%92%E7%B2%AE%E8%A2%AB%E6%B4%92%E6%B0%B4%E8%BD%A6%E5%96%B7%E6%B0%B4%E6%89%93%E6%B9%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [两名乌军摸到俄军阵地投降](https://www.baidu.com/s?wd=%E4%B8%A4%E5%90%8D%E4%B9%8C%E5%86%9B%E6%91%B8%E5%88%B0%E4%BF%84%E5%86%9B%E9%98%B5%E5%9C%B0%E6%8A%95%E9%99%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [老人脑梗去世 医生隐瞒未植入支架](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E8%84%91%E6%A2%97%E5%8E%BB%E4%B8%96+%E5%8C%BB%E7%94%9F%E9%9A%90%E7%9E%92%E6%9C%AA%E6%A4%8D%E5%85%A5%E6%94%AF%E6%9E%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [“牵手门”连衣裙卖家呼吁理性消费](https://www.baidu.com/s?wd=%E2%80%9C%E7%89%B5%E6%89%8B%E9%97%A8%E2%80%9D%E8%BF%9E%E8%A1%A3%E8%A3%99%E5%8D%96%E5%AE%B6%E5%91%BC%E5%90%81%E7%90%86%E6%80%A7%E6%B6%88%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [四川一中学不让学生带书离校售卖](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E4%B8%AD%E5%AD%A6%E4%B8%8D%E8%AE%A9%E5%AD%A6%E7%94%9F%E5%B8%A6%E4%B9%A6%E7%A6%BB%E6%A0%A1%E5%94%AE%E5%8D%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [农民马路晒粮被洒水车喷水打湿](https://www.baidu.com/s?wd=%E5%86%9C%E6%B0%91%E9%A9%AC%E8%B7%AF%E6%99%92%E7%B2%AE%E8%A2%AB%E6%B4%92%E6%B0%B4%E8%BD%A6%E5%96%B7%E6%B0%B4%E6%89%93%E6%B9%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [两名乌军摸到俄军阵地投降](https://www.baidu.com/s?wd=%E4%B8%A4%E5%90%8D%E4%B9%8C%E5%86%9B%E6%91%B8%E5%88%B0%E4%BF%84%E5%86%9B%E9%98%B5%E5%9C%B0%E6%8A%95%E9%99%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
