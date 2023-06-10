@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 18:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 18:22:01</h4></div>
 
 > 微博  
 
@@ -9,13 +9,13 @@
 5. [大学摘10万斤荔枝请全校免费吃](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E6%91%9810%E4%B8%87%E6%96%A4%E8%8D%94%E6%9E%9D%E8%AF%B7%E5%85%A8%E6%A0%A1%E5%85%8D%E8%B4%B9%E5%90%83%23&t=31&band_rank=5&Refer=top)<br />
 6. [陈都灵 黑色头巾](https://s.weibo.com/weibo?q=%E9%99%88%E9%83%BD%E7%81%B5%20%E9%BB%91%E8%89%B2%E5%A4%B4%E5%B7%BE&t=31&band_rank=6&Refer=top)<br />
 7. [女子暴雨中徒手疏通下水道口](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%9A%B4%E9%9B%A8%E4%B8%AD%E5%BE%92%E6%89%8B%E7%96%8F%E9%80%9A%E4%B8%8B%E6%B0%B4%E9%81%93%E5%8F%A3%23&t=31&band_rank=7&Refer=top)<br />
-8. [邪剑仙根本吸不完](https://s.weibo.com/weibo?q=%E9%82%AA%E5%89%91%E4%BB%99%E6%A0%B9%E6%9C%AC%E5%90%B8%E4%B8%8D%E5%AE%8C&t=31&band_rank=8&Refer=top)<br />
-9. [张艺凡 小天鹅](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%89%BA%E5%87%A1%20%E5%B0%8F%E5%A4%A9%E9%B9%85&t=31&band_rank=9&Refer=top)<br />
+8. [张艺凡 小天鹅](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%89%BA%E5%87%A1%20%E5%B0%8F%E5%A4%A9%E9%B9%85&t=31&band_rank=8&Refer=top)<br />
+9. [邪剑仙根本吸不完](https://s.weibo.com/weibo?q=%E9%82%AA%E5%89%91%E4%BB%99%E6%A0%B9%E6%9C%AC%E5%90%B8%E4%B8%8D%E5%AE%8C&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
-1. [我国汽车出口额首次超过手机，二手车出口业务大涨，一些新能源二手车出口均价已超一万美元，这意味着什么？](https://www.zhihu.com/question/605536890)<br />
-2. [Uzi 重新连接加盟 EDG 战队，对此你有什么想说？](https://www.zhihu.com/question/605850971)<br />
+1. [Uzi 重新连接加盟 EDG 战队，对此你有什么想说？](https://www.zhihu.com/question/605850971)<br />
+2. [我国汽车出口额首次超过手机，二手车出口业务大涨，一些新能源二手车出口均价已超一万美元，这意味着什么？](https://www.zhihu.com/question/605536890)<br />
 3. [我看见一程序员，电脑里只有一个巨大的 C 盘，谁能解释解释？](https://www.zhihu.com/question/605106173)<br />
 4. [一患者因脑梗去世，医生承认此前未成功植入脑血管支架并隐瞒，两者是否存在因果关系？医生应承担哪些责任？](https://www.zhihu.com/question/605823854)<br />
 5. [刻在人类基因中里的禁令有哪些？](https://www.zhihu.com/question/602124752)<br />
