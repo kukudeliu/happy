@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 10:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 10:09:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [12306买卧铺票可以在线选铺了](https://www.baidu.com/s?wd=12306%E4%B9%B0%E5%8D%A7%E9%93%BA%E7%A5%A8%E5%8F%AF%E4%BB%A5%E5%9C%A8%E7%BA%BF%E9%80%89%E9%93%BA%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [梅西私人飞机抵达北京](https://www.baidu.com/s?wd=%E6%A2%85%E8%A5%BF%E7%A7%81%E4%BA%BA%E9%A3%9E%E6%9C%BA%E6%8A%B5%E8%BE%BE%E5%8C%97%E4%BA%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [美国亚裔高考近满分被六大名校拒绝](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%BA%9A%E8%A3%94%E9%AB%98%E8%80%83%E8%BF%91%E6%BB%A1%E5%88%86%E8%A2%AB%E5%85%AD%E5%A4%A7%E5%90%8D%E6%A0%A1%E6%8B%92%E7%BB%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [英国前首相约翰逊宣布辞去议员职务](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E5%89%8D%E9%A6%96%E7%9B%B8%E7%BA%A6%E7%BF%B0%E9%80%8A%E5%AE%A3%E5%B8%83%E8%BE%9E%E5%8E%BB%E8%AE%AE%E5%91%98%E8%81%8C%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [农民马路晒粮被洒水车喷水打湿](https://www.baidu.com/s?wd=%E5%86%9C%E6%B0%91%E9%A9%AC%E8%B7%AF%E6%99%92%E7%B2%AE%E8%A2%AB%E6%B4%92%E6%B0%B4%E8%BD%A6%E5%96%B7%E6%B0%B4%E6%89%93%E6%B9%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [农民马路晒粮被洒水车喷水打湿](https://www.baidu.com/s?wd=%E5%86%9C%E6%B0%91%E9%A9%AC%E8%B7%AF%E6%99%92%E7%B2%AE%E8%A2%AB%E6%B4%92%E6%B0%B4%E8%BD%A6%E5%96%B7%E6%B0%B4%E6%89%93%E6%B9%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [拍卖史上最大红宝石拍出 约合2.48亿](https://www.baidu.com/s?wd=%E6%8B%8D%E5%8D%96%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E7%BA%A2%E5%AE%9D%E7%9F%B3%E6%8B%8D%E5%87%BA+%E7%BA%A6%E5%90%882.48%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [12306买卧铺票可以在线选铺了](https://www.baidu.com/s?wd=12306%E4%B9%B0%E5%8D%A7%E9%93%BA%E7%A5%A8%E5%8F%AF%E4%BB%A5%E5%9C%A8%E7%BA%BF%E9%80%89%E9%93%BA%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [梅西私人飞机抵达北京](https://www.baidu.com/s?wd=%E6%A2%85%E8%A5%BF%E7%A7%81%E4%BA%BA%E9%A3%9E%E6%9C%BA%E6%8A%B5%E8%BE%BE%E5%8C%97%E4%BA%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [美国亚裔高考近满分被六大名校拒绝](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%BA%9A%E8%A3%94%E9%AB%98%E8%80%83%E8%BF%91%E6%BB%A1%E5%88%86%E8%A2%AB%E5%85%AD%E5%A4%A7%E5%90%8D%E6%A0%A1%E6%8B%92%E7%BB%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [英国前首相约翰逊宣布辞去议员职务](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E5%89%8D%E9%A6%96%E7%9B%B8%E7%BA%A6%E7%BF%B0%E9%80%8A%E5%AE%A3%E5%B8%83%E8%BE%9E%E5%8E%BB%E8%AE%AE%E5%91%98%E8%81%8C%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [农民马路晒粮被洒水车喷水打湿](https://www.baidu.com/s?wd=%E5%86%9C%E6%B0%91%E9%A9%AC%E8%B7%AF%E6%99%92%E7%B2%AE%E8%A2%AB%E6%B4%92%E6%B0%B4%E8%BD%A6%E5%96%B7%E6%B0%B4%E6%89%93%E6%B9%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [农民马路晒粮被洒水车喷水打湿](https://www.baidu.com/s?wd=%E5%86%9C%E6%B0%91%E9%A9%AC%E8%B7%AF%E6%99%92%E7%B2%AE%E8%A2%AB%E6%B4%92%E6%B0%B4%E8%BD%A6%E5%96%B7%E6%B0%B4%E6%89%93%E6%B9%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [拍卖史上最大红宝石拍出 约合2.48亿](https://www.baidu.com/s?wd=%E6%8B%8D%E5%8D%96%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E7%BA%A2%E5%AE%9D%E7%9F%B3%E6%8B%8D%E5%87%BA+%E7%BA%A6%E5%90%882.48%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
