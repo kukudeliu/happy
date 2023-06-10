@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 14:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 14:53:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [大学生高考考点卖花反亏一千](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%AB%98%E8%80%83%E8%80%83%E7%82%B9%E5%8D%96%E8%8A%B1%E5%8F%8D%E4%BA%8F%E4%B8%80%E5%8D%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [下个路口见 最强拉票阵容](https://s.weibo.com/weibo?q=%E4%B8%8B%E4%B8%AA%E8%B7%AF%E5%8F%A3%E8%A7%81%20%E6%9C%80%E5%BC%BA%E6%8B%89%E7%A5%A8%E9%98%B5%E5%AE%B9&t=31&band_rank=7&Refer=top)<br />
 8. [Amber又是第一](https://s.weibo.com/weibo?q=%23Amber%E5%8F%88%E6%98%AF%E7%AC%AC%E4%B8%80%23&t=31&band_rank=8&Refer=top)<br />
-9. [大学摘10万斤荔枝请全校免费吃](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E6%91%9810%E4%B8%87%E6%96%A4%E8%8D%94%E6%9E%9D%E8%AF%B7%E5%85%A8%E6%A0%A1%E5%85%8D%E8%B4%B9%E5%90%83%23&t=31&band_rank=9&Refer=top)<br />
+9. [想去海边好甜](https://s.weibo.com/weibo?q=%E6%83%B3%E5%8E%BB%E6%B5%B7%E8%BE%B9%E5%A5%BD%E7%94%9C&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
