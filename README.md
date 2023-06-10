@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 09:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 09:36:02</h4></div>
 
 > 微博  
 
@@ -19,8 +19,8 @@
 3. [酷似麒麟的「瑞兽」中华鬣羚现身云南，「四不像」的鬣羚分布都有哪些特点？它会是麒麟的原型吗？](https://www.zhihu.com/question/605708175)<br />
 4. [孩子弄乱超市商品被阻止，妈妈发飙称「我会整理到位的」 ，如何看待此事？公共场合如何管住熊孩子？](https://www.zhihu.com/question/605480699)<br />
 5. [我看见一程序员，电脑里只有一个巨大的 C 盘，谁能解释解释？](https://www.zhihu.com/question/605106173)<br />
-6. [高考是不是人生的分水岭？](https://www.zhihu.com/question/605189488)<br />
-7. [为什么说紫霞神功是《笑傲江湖》中最被低估的武功呢？](https://www.zhihu.com/question/496127391)<br />
+6. [为什么说紫霞神功是《笑傲江湖》中最被低估的武功呢？](https://www.zhihu.com/question/496127391)<br />
+7. [高考是不是人生的分水岭？](https://www.zhihu.com/question/605189488)<br />
 8. [《大明王朝 1566》里的锦衣卫朱七，徒手拆了严世蕃的轿子，这是不是不太严谨？](https://www.zhihu.com/question/442297537)<br />
 9. [《塞尔达传说：王国之泪》哪些组合武器在战斗中有奇效？](https://www.zhihu.com/question/600754180)<br />
 
