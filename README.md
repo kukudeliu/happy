@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 19:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 19:56:01</h4></div>
 
 > 微博  
 
-1. [江西就鸭脖事件成立联合调查组](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E5%B0%B1%E9%B8%AD%E8%84%96%E4%BA%8B%E4%BB%B6%E6%88%90%E7%AB%8B%E8%81%94%E5%90%88%E8%B0%83%E6%9F%A5%E7%BB%84%23&t=31&band_rank=1&Refer=top)<br />
+1. [minnie](https://s.weibo.com/weibo?q=minnie&t=31&band_rank=1&Refer=top)<br />
 2. [这才是学医的意义](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%89%8D%E6%98%AF%E5%AD%A6%E5%8C%BB%E7%9A%84%E6%84%8F%E4%B9%89%23&t=31&band_rank=2&Refer=top)<br />
 3. [高质量发展调研行](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E8%B0%83%E7%A0%94%E8%A1%8C%23&t=31&band_rank=3&Refer=top)<br />
-4. [minnie](https://s.weibo.com/weibo?q=minnie&t=31&band_rank=4&Refer=top)<br />
+4. [江西就鸭脖事件成立联合调查组](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E5%B0%B1%E9%B8%AD%E8%84%96%E4%BA%8B%E4%BB%B6%E6%88%90%E7%AB%8B%E8%81%94%E5%90%88%E8%B0%83%E6%9F%A5%E7%BB%84%23&t=31&band_rank=4&Refer=top)<br />
 5. [女子暴雨中徒手疏通下水道口](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%9A%B4%E9%9B%A8%E4%B8%AD%E5%BE%92%E6%89%8B%E7%96%8F%E9%80%9A%E4%B8%8B%E6%B0%B4%E9%81%93%E5%8F%A3%23&t=31&band_rank=5&Refer=top)<br />
 6. [吴京贾静雯牵手](https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%AC%E8%B4%BE%E9%9D%99%E9%9B%AF%E7%89%B5%E6%89%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [奶奶给高考结束的孙子送花](https://s.weibo.com/weibo?q=%23%E5%A5%B6%E5%A5%B6%E7%BB%99%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E7%9A%84%E5%AD%99%E5%AD%90%E9%80%81%E8%8A%B1%23&t=31&band_rank=7&Refer=top)<br />
