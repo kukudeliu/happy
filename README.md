@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 15:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 15:24:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [为什么汽车厂商不在汽车车头加一个外置安全气囊，来减轻事故的危害性？](https://www.zhihu.com/question/23913564)<br />
 7. [如何评价《崩坏：星穹铁道》1.1 版本活动「冬城博物珍奇簿」？](https://www.zhihu.com/question/605662846)<br />
 8. [梅西仍居金球奖赔率第一，加盟迈阿密国际会影响竞争金球奖吗？](https://www.zhihu.com/question/605614437)<br />
-9. [新家装修，五万块钱买所有家电够用吗？有什么家电推荐吗?](https://www.zhihu.com/question/422156610)<br />
+9. [Uzi 重新连接加盟 EDG 战队，对此你有什么想说？](https://www.zhihu.com/question/605850971)<br />
 
 > 百度  
 
@@ -34,7 +34,7 @@
 6. [全球高中排行榜：中国14所上榜](https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%AB%98%E4%B8%AD%E6%8E%92%E8%A1%8C%E6%A6%9C%EF%BC%9A%E4%B8%AD%E5%9B%BD14%E6%89%80%E4%B8%8A%E6%A6%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [高考问题笔涉事企业屡中标](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E9%97%AE%E9%A2%98%E7%AC%94%E6%B6%89%E4%BA%8B%E4%BC%81%E4%B8%9A%E5%B1%A1%E4%B8%AD%E6%A0%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [媒体：给高分复读生的奖励该取消了](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E7%BB%99%E9%AB%98%E5%88%86%E5%A4%8D%E8%AF%BB%E7%94%9F%E7%9A%84%E5%A5%96%E5%8A%B1%E8%AF%A5%E5%8F%96%E6%B6%88%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [美国亚裔高考近满分被六大名校拒绝](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%BA%9A%E8%A3%94%E9%AB%98%E8%80%83%E8%BF%91%E6%BB%A1%E5%88%86%E8%A2%AB%E5%85%AD%E5%A4%A7%E5%90%8D%E6%A0%A1%E6%8B%92%E7%BB%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [《绝命毒师》演员在睡梦中去世](https://www.baidu.com/s?wd=%E3%80%8A%E7%BB%9D%E5%91%BD%E6%AF%92%E5%B8%88%E3%80%8B%E6%BC%94%E5%91%98%E5%9C%A8%E7%9D%A1%E6%A2%A6%E4%B8%AD%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [全球高中排行榜：中国14所上榜](https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%AB%98%E4%B8%AD%E6%8E%92%E8%A1%8C%E6%A6%9C%EF%BC%9A%E4%B8%AD%E5%9B%BD14%E6%89%80%E4%B8%8A%E6%A6%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [高考问题笔涉事企业屡中标](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E9%97%AE%E9%A2%98%E7%AC%94%E6%B6%89%E4%BA%8B%E4%BC%81%E4%B8%9A%E5%B1%A1%E4%B8%AD%E6%A0%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [媒体：给高分复读生的奖励该取消了](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E7%BB%99%E9%AB%98%E5%88%86%E5%A4%8D%E8%AF%BB%E7%94%9F%E7%9A%84%E5%A5%96%E5%8A%B1%E8%AF%A5%E5%8F%96%E6%B6%88%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [美国亚裔高考近满分被六大名校拒绝](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%BA%9A%E8%A3%94%E9%AB%98%E8%80%83%E8%BF%91%E6%BB%A1%E5%88%86%E8%A2%AB%E5%85%AD%E5%A4%A7%E5%90%8D%E6%A0%A1%E6%8B%92%E7%BB%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [《绝命毒师》演员在睡梦中去世](https://www.baidu.com/s?wd=%E3%80%8A%E7%BB%9D%E5%91%BD%E6%AF%92%E5%B8%88%E3%80%8B%E6%BC%94%E5%91%98%E5%9C%A8%E7%9D%A1%E6%A2%A6%E4%B8%AD%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
