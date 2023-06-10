@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 22:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 22:22:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [南京暴雨 原来萧敬腾在](https://s.weibo.com/weibo?q=%E5%8D%97%E4%BA%AC%E6%9A%B4%E9%9B%A8%20%E5%8E%9F%E6%9D%A5%E8%90%A7%E6%95%AC%E8%85%BE%E5%9C%A8&t=31&band_rank=3&Refer=top)<br />
 4. [网友曝牵手门女子曾做微商拒退货款](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E6%9B%9D%E7%89%B5%E6%89%8B%E9%97%A8%E5%A5%B3%E5%AD%90%E6%9B%BE%E5%81%9A%E5%BE%AE%E5%95%86%E6%8B%92%E9%80%80%E8%B4%A7%E6%AC%BE%23&t=31&band_rank=4&Refer=top)<br />
 5. [邓超和王一博说了什么](https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E5%92%8C%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%AF%B4%E4%BA%86%E4%BB%80%E4%B9%88%23&t=31&band_rank=5&Refer=top)<br />
-6. [幼稚园杀手发歌diss盛宇](https://s.weibo.com/weibo?q=%E5%B9%BC%E7%A8%9A%E5%9B%AD%E6%9D%80%E6%89%8B%E5%8F%91%E6%AD%8Cdiss%E7%9B%9B%E5%AE%87&t=31&band_rank=6&Refer=top)<br />
-7. [全靠周也的脸](https://s.weibo.com/weibo?q=%E5%85%A8%E9%9D%A0%E5%91%A8%E4%B9%9F%E7%9A%84%E8%84%B8&t=31&band_rank=7&Refer=top)<br />
-8. [周也为什么不穿紫色这套走红毯](https://s.weibo.com/weibo?q=%E5%91%A8%E4%B9%9F%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E7%A9%BF%E7%B4%AB%E8%89%B2%E8%BF%99%E5%A5%97%E8%B5%B0%E7%BA%A2%E6%AF%AF&t=31&band_rank=8&Refer=top)<br />
+6. [周也为什么不穿紫色这套走红毯](https://s.weibo.com/weibo?q=%E5%91%A8%E4%B9%9F%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E7%A9%BF%E7%B4%AB%E8%89%B2%E8%BF%99%E5%A5%97%E8%B5%B0%E7%BA%A2%E6%AF%AF&t=31&band_rank=6&Refer=top)<br />
+7. [幼稚园杀手发歌diss盛宇](https://s.weibo.com/weibo?q=%E5%B9%BC%E7%A8%9A%E5%9B%AD%E6%9D%80%E6%89%8B%E5%8F%91%E6%AD%8Cdiss%E7%9B%9B%E5%AE%87&t=31&band_rank=7&Refer=top)<br />
+8. [说个故事清朝灭亡才111年](https://s.weibo.com/weibo?q=%E8%AF%B4%E4%B8%AA%E6%95%85%E4%BA%8B%E6%B8%85%E6%9C%9D%E7%81%AD%E4%BA%A1%E6%89%8D111%E5%B9%B4&t=31&band_rank=8&Refer=top)<br />
 9. [江汉路](https://s.weibo.com/weibo?q=%E6%B1%9F%E6%B1%89%E8%B7%AF&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -18,10 +18,10 @@
 2. [美媒密集放风称，美国务卿布林肯将于 6 月 18 日访华，如何评价信息的真实性？对中美关系有何影响？](https://www.zhihu.com/question/605841889)<br />
 3. [理论上古代只要把四书五经背熟了就能考上状元，为什么多数人却连个秀才都考不中呢？](https://www.zhihu.com/question/599169937)<br />
 4. [有没有财务部门很牛给公司创造利润的案例?](https://www.zhihu.com/question/598621425)<br />
-5. [历史上有哪些只活到 39 岁左右的著名人物?](https://www.zhihu.com/question/605603855)<br />
-6. []()<br />
-7. [618 有哪些满意度很高的洗衣机推荐？哪款是你的年度 top 1？](https://www.zhihu.com/question/605822304)<br />
-8. [和女友约好出去旅游，她闺蜜也要跟去，怎么办?](https://www.zhihu.com/question/602584344)<br />
+5. [2023 LPL 夏季赛 EDG 0:2 JDG，如何评价这场比赛？](https://www.zhihu.com/question/605852235)<br />
+6. [历史上有哪些只活到 39 岁左右的著名人物?](https://www.zhihu.com/question/605603855)<br />
+7. []()<br />
+8. [618 有哪些满意度很高的洗衣机推荐？哪款是你的年度 top 1？](https://www.zhihu.com/question/605822304)<br />
 9. [二十万的轿车跟四十万的轿车究竟差别在哪里？](https://www.zhihu.com/question/343791192)<br />
 
 > 百度  
