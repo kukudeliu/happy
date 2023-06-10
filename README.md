@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 03:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 03:31:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. []()<br />
 6. []()<br />
 7. [和女友约好出去旅游，她闺蜜也要跟去，怎么办?](https://www.zhihu.com/question/602584344)<br />
-8. [高层住宅为什么要 1 楼独立下水？](https://www.zhihu.com/question/605398328)<br />
-9. []()<br />
+8. []()<br />
+9. [2023 LPL 夏季赛 EDG 0:2 JDG，如何评价这场比赛？](https://www.zhihu.com/question/605852235)<br />
 
 > 百度  
 
