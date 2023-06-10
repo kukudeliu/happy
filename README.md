@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 10:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 10:21:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [Jennie 复仇者联盟5](https://s.weibo.com/weibo?q=Jennie%20%E5%A4%8D%E4%BB%87%E8%80%85%E8%81%94%E7%9B%9F5&t=31&band_rank=5&Refer=top)<br />
 6. [四川大学回应女生曝光地铁大叔](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%94%9F%E6%9B%9D%E5%85%89%E5%9C%B0%E9%93%81%E5%A4%A7%E5%8F%94%23&t=31&band_rank=6&Refer=top)<br />
 7. [188大帅哥倒地好长一条](https://s.weibo.com/weibo?q=188%E5%A4%A7%E5%B8%85%E5%93%A5%E5%80%92%E5%9C%B0%E5%A5%BD%E9%95%BF%E4%B8%80%E6%9D%A1&t=31&band_rank=7&Refer=top)<br />
-8. [陈凯歌推朱一龙拉朱亚文拽黄晓明](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%87%AF%E6%AD%8C%E6%8E%A8%E6%9C%B1%E4%B8%80%E9%BE%99%E6%8B%89%E6%9C%B1%E4%BA%9A%E6%96%87%E6%8B%BD%E9%BB%84%E6%99%93%E6%98%8E%23&t=31&band_rank=8&Refer=top)<br />
-9. [长得漂亮但拍照不上镜](https://s.weibo.com/weibo?q=%23%E9%95%BF%E5%BE%97%E6%BC%82%E4%BA%AE%E4%BD%86%E6%8B%8D%E7%85%A7%E4%B8%8D%E4%B8%8A%E9%95%9C%23&t=31&band_rank=9&Refer=top)<br />
+8. [长得漂亮但拍照不上镜](https://s.weibo.com/weibo?q=%23%E9%95%BF%E5%BE%97%E6%BC%82%E4%BA%AE%E4%BD%86%E6%8B%8D%E7%85%A7%E4%B8%8D%E4%B8%8A%E9%95%9C%23&t=31&band_rank=8&Refer=top)<br />
+9. [陈凯歌推朱一龙拉朱亚文拽黄晓明](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%87%AF%E6%AD%8C%E6%8E%A8%E6%9C%B1%E4%B8%80%E9%BE%99%E6%8B%89%E6%9C%B1%E4%BA%9A%E6%96%87%E6%8B%BD%E9%BB%84%E6%99%93%E6%98%8E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [初中男生被泼热水毁容，知情人称「泼水者怀疑遭他举报上课玩手机」，校方回应「在沟通解决」，如何看待此事？](https://www.zhihu.com/question/605654836)<br />
 7. [《大明王朝 1566》里的锦衣卫朱七，徒手拆了严世蕃的轿子，这是不是不太严谨？](https://www.zhihu.com/question/442297537)<br />
 8. [为什么说紫霞神功是《笑傲江湖》中最被低估的武功呢？](https://www.zhihu.com/question/496127391)<br />
-9. [高考是不是人生的分水岭？](https://www.zhihu.com/question/605189488)<br />
+9. [「辞职去干体力活」，真的能缓解职场内耗吗？从事体力劳动能让我们的幸福感更高吗？](https://www.zhihu.com/question/605262322)<br />
 
 > 百度  
 
