@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 03:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 03:22:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. []()<br />
 6. []()<br />
 7. [北上广深等城市出现一批首付几十万的楼盘，对于刚需买房和希望在北京积分落户的人群，此时是否要低门槛上车？](https://www.zhihu.com/question/605671771)<br />
-8. []()<br />
-9. [高层住宅为什么要 1 楼独立下水？](https://www.zhihu.com/question/605398328)<br />
+8. [高层住宅为什么要 1 楼独立下水？](https://www.zhihu.com/question/605398328)<br />
+9. [和女友约好出去旅游，她闺蜜也要跟去，怎么办?](https://www.zhihu.com/question/602584344)<br />
 
 > 百度  
 
@@ -33,7 +33,7 @@
 5. [#江西就鸭脖事件成立联合调查组#](https://www.baidu.com/s?wd=%23%E6%B1%9F%E8%A5%BF%E5%B0%B1%E9%B8%AD%E8%84%96%E4%BA%8B%E4%BB%B6%E6%88%90%E7%AB%8B%E8%81%94%E5%90%88%E8%B0%83%E6%9F%A5%E7%BB%84%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [全球高中排行榜：中国14所上榜](https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%AB%98%E4%B8%AD%E6%8E%92%E8%A1%8C%E6%A6%9C%EF%BC%9A%E4%B8%AD%E5%9B%BD14%E6%89%80%E4%B8%8A%E6%A6%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [妻子谎称留学分别与2男子同居](https://www.baidu.com/s?wd=%E5%A6%BB%E5%AD%90%E8%B0%8E%E7%A7%B0%E7%95%99%E5%AD%A6%E5%88%86%E5%88%AB%E4%B8%8E2%E7%94%B7%E5%AD%90%E5%90%8C%E5%B1%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [苹果史上最贵新品遇冷：砍单95%](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%8F%B2%E4%B8%8A%E6%9C%80%E8%B4%B5%E6%96%B0%E5%93%81%E9%81%87%E5%86%B7%EF%BC%9A%E7%A0%8D%E5%8D%9595%25&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [合肥一鱼塘7万斤鱼突然死亡](https://www.baidu.com/s?wd=%E5%90%88%E8%82%A5%E4%B8%80%E9%B1%BC%E5%A1%987%E4%B8%87%E6%96%A4%E9%B1%BC%E7%AA%81%E7%84%B6%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [吴京和贾静雯牵手热聊](https://www.baidu.com/s?wd=%E5%90%B4%E4%BA%AC%E5%92%8C%E8%B4%BE%E9%9D%99%E9%9B%AF%E7%89%B5%E6%89%8B%E7%83%AD%E8%81%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [#江西就鸭脖事件成立联合调查组#](https://www.baidu.com/s?wd=%23%E6%B1%9F%E8%A5%BF%E5%B0%B1%E9%B8%AD%E8%84%96%E4%BA%8B%E4%BB%B6%E6%88%90%E7%AB%8B%E8%81%94%E5%90%88%E8%B0%83%E6%9F%A5%E7%BB%84%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [全球高中排行榜：中国14所上榜](https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%AB%98%E4%B8%AD%E6%8E%92%E8%A1%8C%E6%A6%9C%EF%BC%9A%E4%B8%AD%E5%9B%BD14%E6%89%80%E4%B8%8A%E6%A6%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [妻子谎称留学分别与2男子同居](https://www.baidu.com/s?wd=%E5%A6%BB%E5%AD%90%E8%B0%8E%E7%A7%B0%E7%95%99%E5%AD%A6%E5%88%86%E5%88%AB%E4%B8%8E2%E7%94%B7%E5%AD%90%E5%90%8C%E5%B1%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [苹果史上最贵新品遇冷：砍单95%](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%8F%B2%E4%B8%8A%E6%9C%80%E8%B4%B5%E6%96%B0%E5%93%81%E9%81%87%E5%86%B7%EF%BC%9A%E7%A0%8D%E5%8D%9595%25&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [合肥一鱼塘7万斤鱼突然死亡](https://www.baidu.com/s?wd=%E5%90%88%E8%82%A5%E4%B8%80%E9%B1%BC%E5%A1%987%E4%B8%87%E6%96%A4%E9%B1%BC%E7%AA%81%E7%84%B6%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [吴京和贾静雯牵手热聊](https://www.baidu.com/s?wd=%E5%90%B4%E4%BA%AC%E5%92%8C%E8%B4%BE%E9%9D%99%E9%9B%AF%E7%89%B5%E6%89%8B%E7%83%AD%E8%81%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
