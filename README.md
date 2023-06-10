@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 06:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 06:38:02</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [珠峰被救女子不付救援费背后](https://s.weibo.com/weibo?q=%23%E7%8F%A0%E5%B3%B0%E8%A2%AB%E6%95%91%E5%A5%B3%E5%AD%90%E4%B8%8D%E4%BB%98%E6%95%91%E6%8F%B4%E8%B4%B9%E8%83%8C%E5%90%8E%23&t=31&band_rank=4&Refer=top)<br />
 5. [曼城vs国际米兰](https://s.weibo.com/weibo?q=%23%E6%9B%BC%E5%9F%8Evs%E5%9B%BD%E9%99%85%E7%B1%B3%E5%85%B0%23&t=31&band_rank=5&Refer=top)<br />
 6. [牵手门带火的裙子已退货2000件](https://s.weibo.com/weibo?q=%23%E7%89%B5%E6%89%8B%E9%97%A8%E5%B8%A6%E7%81%AB%E7%9A%84%E8%A3%99%E5%AD%90%E5%B7%B2%E9%80%80%E8%B4%A72000%E4%BB%B6%23&t=31&band_rank=6&Refer=top)<br />
-7. [说个故事清朝灭亡才111年](https://s.weibo.com/weibo?q=%E8%AF%B4%E4%B8%AA%E6%95%85%E4%BA%8B%E6%B8%85%E6%9C%9D%E7%81%AD%E4%BA%A1%E6%89%8D111%E5%B9%B4&t=31&band_rank=7&Refer=top)<br />
-8. [Angelababy冷脸](https://s.weibo.com/weibo?q=Angelababy%E5%86%B7%E8%84%B8&t=31&band_rank=8&Refer=top)<br />
+7. [Angelababy冷脸](https://s.weibo.com/weibo?q=Angelababy%E5%86%B7%E8%84%B8&t=31&band_rank=7&Refer=top)<br />
+8. [说个故事清朝灭亡才111年](https://s.weibo.com/weibo?q=%E8%AF%B4%E4%B8%AA%E6%95%85%E4%BA%8B%E6%B8%85%E6%9C%9D%E7%81%AD%E4%BA%A1%E6%89%8D111%E5%B9%B4&t=31&band_rank=8&Refer=top)<br />
 9. [柯以敏直播奔溃大哭](https://s.weibo.com/weibo?q=%23%E6%9F%AF%E4%BB%A5%E6%95%8F%E7%9B%B4%E6%92%AD%E5%A5%94%E6%BA%83%E5%A4%A7%E5%93%AD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -20,9 +20,9 @@
 4. [地铁站里妈妈含泪掌掴小孩称太委屈，你对该事件有何看法？](https://www.zhihu.com/question/605107870)<br />
 5. []()<br />
 6. [美媒密集放风称，美国务卿布林肯将于 6 月 18 日访华，如何评价信息的真实性？对中美关系有何影响？](https://www.zhihu.com/question/605841889)<br />
-7. []()<br />
-8. [和女友约好出去旅游，她闺蜜也要跟去，怎么办?](https://www.zhihu.com/question/602584344)<br />
-9. [6 月 10 日起，12306 网站试行在线选铺服务，将带来哪些便利，出行时你会选择哪个座位？](https://www.zhihu.com/question/605812479)<br />
+7. [和女友约好出去旅游，她闺蜜也要跟去，怎么办?](https://www.zhihu.com/question/602584344)<br />
+8. [理论上古代只要把四书五经背熟了就能考上状元，为什么多数人却连个秀才都考不中呢？](https://www.zhihu.com/question/599169937)<br />
+9. []()<br />
 
 > 百度  
 
