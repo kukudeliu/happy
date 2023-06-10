@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 11:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 11:10:01</h4></div>
 
 > 微博  
 
 1. [梅西到北京了](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E5%88%B0%E5%8C%97%E4%BA%AC%E4%BA%86%23&t=31&band_rank=1&Refer=top)<br />
-2. [老人突发脑梗发现医生隐瞒未植入支架](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E7%AA%81%E5%8F%91%E8%84%91%E6%A2%97%E5%8F%91%E7%8E%B0%E5%8C%BB%E7%94%9F%E9%9A%90%E7%9E%92%E6%9C%AA%E6%A4%8D%E5%85%A5%E6%94%AF%E6%9E%B6%23&t=31&band_rank=2&Refer=top)<br />
+2. [大学摘10万斤荔枝请全校免费吃](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E6%91%9810%E4%B8%87%E6%96%A4%E8%8D%94%E6%9E%9D%E8%AF%B7%E5%85%A8%E6%A0%A1%E5%85%8D%E8%B4%B9%E5%90%83%23&t=31&band_rank=2&Refer=top)<br />
 3. [3分钟告诉你万物皆可链](https://s.weibo.com/weibo?q=%233%E5%88%86%E9%92%9F%E5%91%8A%E8%AF%89%E4%BD%A0%E4%B8%87%E7%89%A9%E7%9A%86%E5%8F%AF%E9%93%BE%23&t=31&band_rank=3&Refer=top)<br />
-4. [大学摘10万斤荔枝请全校免费吃](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E6%91%9810%E4%B8%87%E6%96%A4%E8%8D%94%E6%9E%9D%E8%AF%B7%E5%85%A8%E6%A0%A1%E5%85%8D%E8%B4%B9%E5%90%83%23&t=31&band_rank=4&Refer=top)<br />
+4. [老人突发脑梗发现医生隐瞒未植入支架](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E7%AA%81%E5%8F%91%E8%84%91%E6%A2%97%E5%8F%91%E7%8E%B0%E5%8C%BB%E7%94%9F%E9%9A%90%E7%9E%92%E6%9C%AA%E6%A4%8D%E5%85%A5%E6%94%AF%E6%9E%B6%23&t=31&band_rank=4&Refer=top)<br />
 5. [Jennie 复仇者联盟5](https://s.weibo.com/weibo?q=Jennie%20%E5%A4%8D%E4%BB%87%E8%80%85%E8%81%94%E7%9B%9F5&t=31&band_rank=5&Refer=top)<br />
 6. [袁冰妍涂山雅雅定妆造型视频](https://s.weibo.com/weibo?q=%23%E8%A2%81%E5%86%B0%E5%A6%8D%E6%B6%82%E5%B1%B1%E9%9B%85%E9%9B%85%E5%AE%9A%E5%A6%86%E9%80%A0%E5%9E%8B%E8%A7%86%E9%A2%91%23&t=31&band_rank=6&Refer=top)<br />
 7. [188大帅哥倒地好长一条](https://s.weibo.com/weibo?q=188%E5%A4%A7%E5%B8%85%E5%93%A5%E5%80%92%E5%9C%B0%E5%A5%BD%E9%95%BF%E4%B8%80%E6%9D%A1&t=31&band_rank=7&Refer=top)<br />
@@ -21,8 +21,8 @@
 5. [「辞职去干体力活」，真的能缓解职场内耗吗？从事体力劳动能让我们的幸福感更高吗？](https://www.zhihu.com/question/605262322)<br />
 6. [我国汽车出口额首次超过手机，二手车出口业务大涨，一些新能源二手车出口均价已超一万美元，这意味着什么？](https://www.zhihu.com/question/605536890)<br />
 7. [苹果将 Vision Pro 首年销售目标下调至 15 万台，或因售价过高和产能限制，商业上如何解读？](https://www.zhihu.com/question/605636647)<br />
-8. [为什么说紫霞神功是《笑傲江湖》中最被低估的武功呢？](https://www.zhihu.com/question/496127391)<br />
-9. [普京称俄罗斯将在准备工作完成后在白俄罗斯部署核武器，此举将对国际局势带来哪些影响？](https://www.zhihu.com/question/605734119)<br />
+8. [普京称俄罗斯将在准备工作完成后在白俄罗斯部署核武器，此举将对国际局势带来哪些影响？](https://www.zhihu.com/question/605734119)<br />
+9. [假如你买彩票中了一千万，你会辞掉现在的工作吗?](https://www.zhihu.com/question/605637369)<br />
 
 > 百度  
 
