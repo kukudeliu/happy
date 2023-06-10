@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 22:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 22:16:01</h4></div>
 
 > 微博  
 
@@ -16,13 +16,13 @@
 
 1. [「鼠头鸭脖」事件进展，江西成立「江西工职院 6·1 食品安全事件」联合调查组，有哪些影响？将如何发展？](https://www.zhihu.com/question/605866370)<br />
 2. [美媒密集放风称，美国务卿布林肯将于 6 月 18 日访华，如何评价信息的真实性？对中美关系有何影响？](https://www.zhihu.com/question/605841889)<br />
-3. [618 有哪些满意度很高的洗衣机推荐？哪款是你的年度 top 1？](https://www.zhihu.com/question/605822304)<br />
-4. [理论上古代只要把四书五经背熟了就能考上状元，为什么多数人却连个秀才都考不中呢？](https://www.zhihu.com/question/599169937)<br />
+3. [理论上古代只要把四书五经背熟了就能考上状元，为什么多数人却连个秀才都考不中呢？](https://www.zhihu.com/question/599169937)<br />
+4. [有没有财务部门很牛给公司创造利润的案例?](https://www.zhihu.com/question/598621425)<br />
 5. [小语种专业还值得报考吗？选择什么语种好就业？](https://www.zhihu.com/theater/97029)<br />
-6. [有没有财务部门很牛给公司创造利润的案例?](https://www.zhihu.com/question/598621425)<br />
-7. [和女友约好出去旅游，她闺蜜也要跟去，怎么办?](https://www.zhihu.com/question/602584344)<br />
+6. [和女友约好出去旅游，她闺蜜也要跟去，怎么办?](https://www.zhihu.com/question/602584344)<br />
+7. [618 有哪些满意度很高的洗衣机推荐？哪款是你的年度 top 1？](https://www.zhihu.com/question/605822304)<br />
 8. [《飘》故事里女主迷恋的艾希礼魅力何在？](https://www.zhihu.com/question/266658398)<br />
-9. [北上广深等城市出现一批首付几十万的楼盘，对于刚需买房和希望在北京积分落户的人群，此时是否要低门槛上车？](https://www.zhihu.com/question/605671771)<br />
+9. [二十万的轿车跟四十万的轿车究竟差别在哪里？](https://www.zhihu.com/question/343791192)<br />
 
 > 百度  
 
