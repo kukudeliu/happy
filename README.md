@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 18:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 18:35:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [张子枫吊带阔腿裤](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%AD%90%E6%9E%AB%E5%90%8A%E5%B8%A6%E9%98%94%E8%85%BF%E8%A3%A4%23&t=31&band_rank=6&Refer=top)<br />
 7. [众人抬车救左脚被压的小学女生](https://s.weibo.com/weibo?q=%23%E4%BC%97%E4%BA%BA%E6%8A%AC%E8%BD%A6%E6%95%91%E5%B7%A6%E8%84%9A%E8%A2%AB%E5%8E%8B%E7%9A%84%E5%B0%8F%E5%AD%A6%E5%A5%B3%E7%94%9F%23&t=31&band_rank=7&Refer=top)<br />
 8. [陈都灵 黑色头巾](https://s.weibo.com/weibo?q=%E9%99%88%E9%83%BD%E7%81%B5%20%E9%BB%91%E8%89%B2%E5%A4%B4%E5%B7%BE&t=31&band_rank=8&Refer=top)<br />
-9. [沈腾在红毯发彩票](https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E5%9C%A8%E7%BA%A2%E6%AF%AF%E5%8F%91%E5%BD%A9%E7%A5%A8%23&t=31&band_rank=9&Refer=top)<br />
+9. [王一博好贵](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%A5%BD%E8%B4%B5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
