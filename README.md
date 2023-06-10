@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 14:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 14:31:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [梅西到北京了](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E5%88%B0%E5%8C%97%E4%BA%AC%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [你可以永远相信中国美学](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%8F%AF%E4%BB%A5%E6%B0%B8%E8%BF%9C%E7%9B%B8%E4%BF%A1%E4%B8%AD%E5%9B%BD%E7%BE%8E%E5%AD%A6%23&t=31&band_rank=3&Refer=top)<br />
 4. [杨洋 北外](https://s.weibo.com/weibo?q=%E6%9D%A8%E6%B4%8B%20%E5%8C%97%E5%A4%96&t=31&band_rank=4&Refer=top)<br />
-5. [谁能拒绝情绪稳定的年下男](https://s.weibo.com/weibo?q=%E8%B0%81%E8%83%BD%E6%8B%92%E7%BB%9D%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A%E7%9A%84%E5%B9%B4%E4%B8%8B%E7%94%B7&t=31&band_rank=5&Refer=top)<br />
-6. [Amber又是第一](https://s.weibo.com/weibo?q=%23Amber%E5%8F%88%E6%98%AF%E7%AC%AC%E4%B8%80%23&t=31&band_rank=6&Refer=top)<br />
-7. [下个路口见 最强拉票阵容](https://s.weibo.com/weibo?q=%E4%B8%8B%E4%B8%AA%E8%B7%AF%E5%8F%A3%E8%A7%81%20%E6%9C%80%E5%BC%BA%E6%8B%89%E7%A5%A8%E9%98%B5%E5%AE%B9&t=31&band_rank=7&Refer=top)<br />
-8. [大学摘10万斤荔枝请全校免费吃](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E6%91%9810%E4%B8%87%E6%96%A4%E8%8D%94%E6%9E%9D%E8%AF%B7%E5%85%A8%E6%A0%A1%E5%85%8D%E8%B4%B9%E5%90%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [老人突发脑梗发现医生隐瞒未植入支架](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E7%AA%81%E5%8F%91%E8%84%91%E6%A2%97%E5%8F%91%E7%8E%B0%E5%8C%BB%E7%94%9F%E9%9A%90%E7%9E%92%E6%9C%AA%E6%A4%8D%E5%85%A5%E6%94%AF%E6%9E%B6%23&t=31&band_rank=9&Refer=top)<br />
+5. [胖东来荔枝打开全是虫子](https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E8%8D%94%E6%9E%9D%E6%89%93%E5%BC%80%E5%85%A8%E6%98%AF%E8%99%AB%E5%AD%90%23&t=31&band_rank=5&Refer=top)<br />
+6. [谁能拒绝情绪稳定的年下男](https://s.weibo.com/weibo?q=%E8%B0%81%E8%83%BD%E6%8B%92%E7%BB%9D%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A%E7%9A%84%E5%B9%B4%E4%B8%8B%E7%94%B7&t=31&band_rank=6&Refer=top)<br />
+7. [Amber又是第一](https://s.weibo.com/weibo?q=%23Amber%E5%8F%88%E6%98%AF%E7%AC%AC%E4%B8%80%23&t=31&band_rank=7&Refer=top)<br />
+8. [下个路口见 最强拉票阵容](https://s.weibo.com/weibo?q=%E4%B8%8B%E4%B8%AA%E8%B7%AF%E5%8F%A3%E8%A7%81%20%E6%9C%80%E5%BC%BA%E6%8B%89%E7%A5%A8%E9%98%B5%E5%AE%B9&t=31&band_rank=8&Refer=top)<br />
+9. [大学摘10万斤荔枝请全校免费吃](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E6%91%9810%E4%B8%87%E6%96%A4%E8%8D%94%E6%9E%9D%E8%AF%B7%E5%85%A8%E6%A0%A1%E5%85%8D%E8%B4%B9%E5%90%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
