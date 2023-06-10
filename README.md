@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 09:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 09:24:01</h4></div>
 
 > 微博  
 
@@ -21,29 +21,29 @@
 5. [我看见一程序员，电脑里只有一个巨大的 C 盘，谁能解释解释？](https://www.zhihu.com/question/605106173)<br />
 6. [高考是不是人生的分水岭？](https://www.zhihu.com/question/605189488)<br />
 7. [为什么说紫霞神功是《笑傲江湖》中最被低估的武功呢？](https://www.zhihu.com/question/496127391)<br />
-8. [《塞尔达传说：王国之泪》哪些组合武器在战斗中有奇效？](https://www.zhihu.com/question/600754180)<br />
-9. [印度教科书删除元素周期表及进化论，教育界对此感到「莫名其妙」，如何看待此事？会对学生带来哪些影响？](https://www.zhihu.com/question/604386757)<br />
+8. [《大明王朝 1566》里的锦衣卫朱七，徒手拆了严世蕃的轿子，这是不是不太严谨？](https://www.zhihu.com/question/442297537)<br />
+9. [《塞尔达传说：王国之泪》哪些组合武器在战斗中有奇效？](https://www.zhihu.com/question/600754180)<br />
 
 > 百度  
 
 1. [祖国北疆的绿色答卷](https://www.baidu.com/s?wd=%E7%A5%96%E5%9B%BD%E5%8C%97%E7%96%86%E7%9A%84%E7%BB%BF%E8%89%B2%E7%AD%94%E5%8D%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [高考今日落幕](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E4%BB%8A%E6%97%A5%E8%90%BD%E5%B9%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [老人脑梗去世 医生隐瞒未植入支架](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E8%84%91%E6%A2%97%E5%8E%BB%E4%B8%96+%E5%8C%BB%E7%94%9F%E9%9A%90%E7%9E%92%E6%9C%AA%E6%A4%8D%E5%85%A5%E6%94%AF%E6%9E%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [普京称乌克兰反攻已经开始](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E7%A7%B0%E4%B9%8C%E5%85%8B%E5%85%B0%E5%8F%8D%E6%94%BB%E5%B7%B2%E7%BB%8F%E5%BC%80%E5%A7%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [更好助力高校毕业生就业创业](https://www.baidu.com/s?wd=%E6%9B%B4%E5%A5%BD%E5%8A%A9%E5%8A%9B%E9%AB%98%E6%A0%A1%E6%AF%95%E4%B8%9A%E7%94%9F%E5%B0%B1%E4%B8%9A%E5%88%9B%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [12306买卧铺票可以在线选铺了](https://www.baidu.com/s?wd=12306%E4%B9%B0%E5%8D%A7%E9%93%BA%E7%A5%A8%E5%8F%AF%E4%BB%A5%E5%9C%A8%E7%BA%BF%E9%80%89%E9%93%BA%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [美国亚裔高考近满分被六大名校拒绝](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%BA%9A%E8%A3%94%E9%AB%98%E8%80%83%E8%BF%91%E6%BB%A1%E5%88%86%E8%A2%AB%E5%85%AD%E5%A4%A7%E5%90%8D%E6%A0%A1%E6%8B%92%E7%BB%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [老人脑梗去世 医生隐瞒未植入支架](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E8%84%91%E6%A2%97%E5%8E%BB%E4%B8%96+%E5%8C%BB%E7%94%9F%E9%9A%90%E7%9E%92%E6%9C%AA%E6%A4%8D%E5%85%A5%E6%94%AF%E6%9E%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [“牵手门”连衣裙卖家呼吁理性消费](https://www.baidu.com/s?wd=%E2%80%9C%E7%89%B5%E6%89%8B%E9%97%A8%E2%80%9D%E8%BF%9E%E8%A1%A3%E8%A3%99%E5%8D%96%E5%AE%B6%E5%91%BC%E5%90%81%E7%90%86%E6%80%A7%E6%B6%88%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [高考问题笔涉事企业屡中标](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E9%97%AE%E9%A2%98%E7%AC%94%E6%B6%89%E4%BA%8B%E4%BC%81%E4%B8%9A%E5%B1%A1%E4%B8%AD%E6%A0%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [“牵手门”连衣裙卖家呼吁理性消费](https://www.baidu.com/s?wd=%E2%80%9C%E7%89%B5%E6%89%8B%E9%97%A8%E2%80%9D%E8%BF%9E%E8%A1%A3%E8%A3%99%E5%8D%96%E5%AE%B6%E5%91%BC%E5%90%81%E7%90%86%E6%80%A7%E6%B6%88%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [高考问题笔涉事企业屡中标](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E9%97%AE%E9%A2%98%E7%AC%94%E6%B6%89%E4%BA%8B%E4%BC%81%E4%B8%9A%E5%B1%A1%E4%B8%AD%E6%A0%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [浙江一铁路旁工厂起火逼停列车](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E9%93%81%E8%B7%AF%E6%97%81%E5%B7%A5%E5%8E%82%E8%B5%B7%E7%81%AB%E9%80%BC%E5%81%9C%E5%88%97%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [祖国北疆的绿色答卷](https://www.baidu.com/s?wd=%E7%A5%96%E5%9B%BD%E5%8C%97%E7%96%86%E7%9A%84%E7%BB%BF%E8%89%B2%E7%AD%94%E5%8D%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [高考今日落幕](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E4%BB%8A%E6%97%A5%E8%90%BD%E5%B9%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [老人脑梗去世 医生隐瞒未植入支架](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E8%84%91%E6%A2%97%E5%8E%BB%E4%B8%96+%E5%8C%BB%E7%94%9F%E9%9A%90%E7%9E%92%E6%9C%AA%E6%A4%8D%E5%85%A5%E6%94%AF%E6%9E%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [普京称乌克兰反攻已经开始](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E7%A7%B0%E4%B9%8C%E5%85%8B%E5%85%B0%E5%8F%8D%E6%94%BB%E5%B7%B2%E7%BB%8F%E5%BC%80%E5%A7%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [更好助力高校毕业生就业创业](https://www.baidu.com/s?wd=%E6%9B%B4%E5%A5%BD%E5%8A%A9%E5%8A%9B%E9%AB%98%E6%A0%A1%E6%AF%95%E4%B8%9A%E7%94%9F%E5%B0%B1%E4%B8%9A%E5%88%9B%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [12306买卧铺票可以在线选铺了](https://www.baidu.com/s?wd=12306%E4%B9%B0%E5%8D%A7%E9%93%BA%E7%A5%A8%E5%8F%AF%E4%BB%A5%E5%9C%A8%E7%BA%BF%E9%80%89%E9%93%BA%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [美国亚裔高考近满分被六大名校拒绝](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%BA%9A%E8%A3%94%E9%AB%98%E8%80%83%E8%BF%91%E6%BB%A1%E5%88%86%E8%A2%AB%E5%85%AD%E5%A4%A7%E5%90%8D%E6%A0%A1%E6%8B%92%E7%BB%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [老人脑梗去世 医生隐瞒未植入支架](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E8%84%91%E6%A2%97%E5%8E%BB%E4%B8%96+%E5%8C%BB%E7%94%9F%E9%9A%90%E7%9E%92%E6%9C%AA%E6%A4%8D%E5%85%A5%E6%94%AF%E6%9E%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [“牵手门”连衣裙卖家呼吁理性消费](https://www.baidu.com/s?wd=%E2%80%9C%E7%89%B5%E6%89%8B%E9%97%A8%E2%80%9D%E8%BF%9E%E8%A1%A3%E8%A3%99%E5%8D%96%E5%AE%B6%E5%91%BC%E5%90%81%E7%90%86%E6%80%A7%E6%B6%88%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [高考问题笔涉事企业屡中标](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E9%97%AE%E9%A2%98%E7%AC%94%E6%B6%89%E4%BA%8B%E4%BC%81%E4%B8%9A%E5%B1%A1%E4%B8%AD%E6%A0%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [“牵手门”连衣裙卖家呼吁理性消费](https://www.baidu.com/s?wd=%E2%80%9C%E7%89%B5%E6%89%8B%E9%97%A8%E2%80%9D%E8%BF%9E%E8%A1%A3%E8%A3%99%E5%8D%96%E5%AE%B6%E5%91%BC%E5%90%81%E7%90%86%E6%80%A7%E6%B6%88%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [高考问题笔涉事企业屡中标](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E9%97%AE%E9%A2%98%E7%AC%94%E6%B6%89%E4%BA%8B%E4%BC%81%E4%B8%9A%E5%B1%A1%E4%B8%AD%E6%A0%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [浙江一铁路旁工厂起火逼停列车](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E9%93%81%E8%B7%AF%E6%97%81%E5%B7%A5%E5%8E%82%E8%B5%B7%E7%81%AB%E9%80%BC%E5%81%9C%E5%88%97%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
