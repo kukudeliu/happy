@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 00:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 00:19:01</h4></div>
 
 > 微博  
 
@@ -19,10 +19,10 @@
 3. [理论上古代只要把四书五经背熟了就能考上状元，为什么多数人却连个秀才都考不中呢？](https://www.zhihu.com/question/599169937)<br />
 4. [2023 LPL 夏季赛 EDG 0:2 JDG，如何评价这场比赛？](https://www.zhihu.com/question/605852235)<br />
 5. [6 月 11 日欧冠决赛曼城将战国米，本赛季至今曼城欧冠 7 胜 5 平保持不败，三冠王是否近在咫尺？](https://www.zhihu.com/question/605740115)<br />
-6. [天津津南区八里台镇局部地面沉降，专家初步判断为突发地质灾害，周围居民何时能回家？后续是否有补偿措施？](https://www.zhihu.com/question/605551160)<br />
-7. [广州拟分路段分时段限行电动自行车，全城 300 多万辆上牌电动自行车已超出承载能力，如何看待这一举措？](https://www.zhihu.com/question/605885428)<br />
+6. [广州拟分路段分时段限行电动自行车，全城 300 多万辆上牌电动自行车已超出承载能力，如何看待这一举措？](https://www.zhihu.com/question/605885428)<br />
+7. [天津津南区八里台镇局部地面沉降，专家初步判断为突发地质灾害，周围居民何时能回家？后续是否有补偿措施？](https://www.zhihu.com/question/605551160)<br />
 8. [高层住宅为什么要 1 楼独立下水？](https://www.zhihu.com/question/605398328)<br />
-9. [历史上有哪些只活到 39 岁左右的著名人物?](https://www.zhihu.com/question/605603855)<br />
+9. [梅西 19 年欧洲生涯夺 38 冠 +7 金球，853 场 704 球 338 助，如何评价他的成就？](https://www.zhihu.com/question/605418099)<br />
 
 > 百度  
 
@@ -33,8 +33,8 @@
 5. [#江西就鸭脖事件成立联合调查组#](https://www.baidu.com/s?wd=%23%E6%B1%9F%E8%A5%BF%E5%B0%B1%E9%B8%AD%E8%84%96%E4%BA%8B%E4%BB%B6%E6%88%90%E7%AB%8B%E8%81%94%E5%90%88%E8%B0%83%E6%9F%A5%E7%BB%84%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [沈腾：我真能演子怡老公吗](https://www.baidu.com/s?wd=%E6%B2%88%E8%85%BE%EF%BC%9A%E6%88%91%E7%9C%9F%E8%83%BD%E6%BC%94%E5%AD%90%E6%80%A1%E8%80%81%E5%85%AC%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [合肥一鱼塘7万斤鱼突然死亡](https://www.baidu.com/s?wd=%E5%90%88%E8%82%A5%E4%B8%80%E9%B1%BC%E5%A1%987%E4%B8%87%E6%96%A4%E9%B1%BC%E7%AA%81%E7%84%B6%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [北京高考结束 考生翻跟头出考场](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F+%E8%80%83%E7%94%9F%E7%BF%BB%E8%B7%9F%E5%A4%B4%E5%87%BA%E8%80%83%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [胖东来荔枝打开全是虫子](https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E8%8D%94%E6%9E%9D%E6%89%93%E5%BC%80%E5%85%A8%E6%98%AF%E8%99%AB%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [年轻人赶高铁跨省存钱](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%B5%B6%E9%AB%98%E9%93%81%E8%B7%A8%E7%9C%81%E5%AD%98%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [曝林志玲宣告退出演艺圈](https://www.baidu.com/s?wd=%E6%9B%9D%E6%9E%97%E5%BF%97%E7%8E%B2%E5%AE%A3%E5%91%8A%E9%80%80%E5%87%BA%E6%BC%94%E8%89%BA%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [#江西就鸭脖事件成立联合调查组#](https://www.baidu.com/s?wd=%23%E6%B1%9F%E8%A5%BF%E5%B0%B1%E9%B8%AD%E8%84%96%E4%BA%8B%E4%BB%B6%E6%88%90%E7%AB%8B%E8%81%94%E5%90%88%E8%B0%83%E6%9F%A5%E7%BB%84%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [沈腾：我真能演子怡老公吗](https://www.baidu.com/s?wd=%E6%B2%88%E8%85%BE%EF%BC%9A%E6%88%91%E7%9C%9F%E8%83%BD%E6%BC%94%E5%AD%90%E6%80%A1%E8%80%81%E5%85%AC%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [合肥一鱼塘7万斤鱼突然死亡](https://www.baidu.com/s?wd=%E5%90%88%E8%82%A5%E4%B8%80%E9%B1%BC%E5%A1%987%E4%B8%87%E6%96%A4%E9%B1%BC%E7%AA%81%E7%84%B6%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [北京高考结束 考生翻跟头出考场](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F+%E8%80%83%E7%94%9F%E7%BF%BB%E8%B7%9F%E5%A4%B4%E5%87%BA%E8%80%83%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [胖东来荔枝打开全是虫子](https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E8%8D%94%E6%9E%9D%E6%89%93%E5%BC%80%E5%85%A8%E6%98%AF%E8%99%AB%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [年轻人赶高铁跨省存钱](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%B5%B6%E9%AB%98%E9%93%81%E8%B7%A8%E7%9C%81%E5%AD%98%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [曝林志玲宣告退出演艺圈](https://www.baidu.com/s?wd=%E6%9B%9D%E6%9E%97%E5%BF%97%E7%8E%B2%E5%AE%A3%E5%91%8A%E9%80%80%E5%87%BA%E6%BC%94%E8%89%BA%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
