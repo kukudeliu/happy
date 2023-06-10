@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 09:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 09:42:01</h4></div>
 
 > 微博  
 
@@ -6,10 +6,10 @@
 2. [老人突发脑梗发现医生隐瞒未植入支架](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E7%AA%81%E5%8F%91%E8%84%91%E6%A2%97%E5%8F%91%E7%8E%B0%E5%8C%BB%E7%94%9F%E9%9A%90%E7%9E%92%E6%9C%AA%E6%A4%8D%E5%85%A5%E6%94%AF%E6%9E%B6%23&t=31&band_rank=2&Refer=top)<br />
 3. [3分钟告诉你万物皆可链](https://s.weibo.com/weibo?q=%233%E5%88%86%E9%92%9F%E5%91%8A%E8%AF%89%E4%BD%A0%E4%B8%87%E7%89%A9%E7%9A%86%E5%8F%AF%E9%93%BE%23&t=31&band_rank=3&Refer=top)<br />
 4. [美国亚裔高考接近满分被六大名校拒绝](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BA%9A%E8%A3%94%E9%AB%98%E8%80%83%E6%8E%A5%E8%BF%91%E6%BB%A1%E5%88%86%E8%A2%AB%E5%85%AD%E5%A4%A7%E5%90%8D%E6%A0%A1%E6%8B%92%E7%BB%9D%23&t=31&band_rank=4&Refer=top)<br />
-5. [娜扎说人家巴不得跟我结婚](https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8E%E8%AF%B4%E4%BA%BA%E5%AE%B6%E5%B7%B4%E4%B8%8D%E5%BE%97%E8%B7%9F%E6%88%91%E7%BB%93%E5%A9%9A%23&t=31&band_rank=5&Refer=top)<br />
+5. [陈凯歌推朱一龙拉朱亚文拽黄晓明](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%87%AF%E6%AD%8C%E6%8E%A8%E6%9C%B1%E4%B8%80%E9%BE%99%E6%8B%89%E6%9C%B1%E4%BA%9A%E6%96%87%E6%8B%BD%E9%BB%84%E6%99%93%E6%98%8E%23&t=31&band_rank=5&Refer=top)<br />
 6. [四川大学回应女生曝光地铁大叔](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%94%9F%E6%9B%9D%E5%85%89%E5%9C%B0%E9%93%81%E5%A4%A7%E5%8F%94%23&t=31&band_rank=6&Refer=top)<br />
 7. [免职裙不到半天卖出2000多条](https://s.weibo.com/weibo?q=%23%E5%85%8D%E8%81%8C%E8%A3%99%E4%B8%8D%E5%88%B0%E5%8D%8A%E5%A4%A9%E5%8D%96%E5%87%BA2000%E5%A4%9A%E6%9D%A1%23&t=31&band_rank=7&Refer=top)<br />
-8. [陈凯歌推朱一龙拉朱亚文拽黄晓明](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%87%AF%E6%AD%8C%E6%8E%A8%E6%9C%B1%E4%B8%80%E9%BE%99%E6%8B%89%E6%9C%B1%E4%BA%9A%E6%96%87%E6%8B%BD%E9%BB%84%E6%99%93%E6%98%8E%23&t=31&band_rank=8&Refer=top)<br />
+8. [娜扎说人家巴不得跟我结婚](https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8E%E8%AF%B4%E4%BA%BA%E5%AE%B6%E5%B7%B4%E4%B8%8D%E5%BE%97%E8%B7%9F%E6%88%91%E7%BB%93%E5%A9%9A%23&t=31&band_rank=8&Refer=top)<br />
 9. [抑郁女生带患癌爷爷游中国相互治愈](https://s.weibo.com/weibo?q=%23%E6%8A%91%E9%83%81%E5%A5%B3%E7%94%9F%E5%B8%A6%E6%82%A3%E7%99%8C%E7%88%B7%E7%88%B7%E6%B8%B8%E4%B8%AD%E5%9B%BD%E7%9B%B8%E4%BA%92%E6%B2%BB%E6%84%88%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
