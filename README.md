@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 17:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 17:57:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [如何跟路人解释Uzi加入EDG](https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E8%B7%9F%E8%B7%AF%E4%BA%BA%E8%A7%A3%E9%87%8AUzi%E5%8A%A0%E5%85%A5EDG%23&t=31&band_rank=2&Refer=top)<br />
 3. [高质量发展调研行](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E8%B0%83%E7%A0%94%E8%A1%8C%23&t=31&band_rank=3&Refer=top)<br />
 4. [邪剑仙根本吸不完](https://s.weibo.com/weibo?q=%E9%82%AA%E5%89%91%E4%BB%99%E6%A0%B9%E6%9C%AC%E5%90%B8%E4%B8%8D%E5%AE%8C&t=31&band_rank=4&Refer=top)<br />
-5. [EDG首发名单](https://s.weibo.com/weibo?q=%23EDG%E9%A6%96%E5%8F%91%E5%90%8D%E5%8D%95%23&t=31&band_rank=5&Refer=top)<br />
-6. [大学生高考考点卖花反亏一千](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%AB%98%E8%80%83%E8%80%83%E7%82%B9%E5%8D%96%E8%8A%B1%E5%8F%8D%E4%BA%8F%E4%B8%80%E5%8D%83%23&t=31&band_rank=6&Refer=top)<br />
+5. [奶奶给高考结束的孙子送花](https://s.weibo.com/weibo?q=%23%E5%A5%B6%E5%A5%B6%E7%BB%99%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E7%9A%84%E5%AD%99%E5%AD%90%E9%80%81%E8%8A%B1%23&t=31&band_rank=5&Refer=top)<br />
+6. [女子暴雨中徒手疏通下水道口](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%9A%B4%E9%9B%A8%E4%B8%AD%E5%BE%92%E6%89%8B%E7%96%8F%E9%80%9A%E4%B8%8B%E6%B0%B4%E9%81%93%E5%8F%A3%23&t=31&band_rank=6&Refer=top)<br />
 7. [大学摘10万斤荔枝请全校免费吃](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E6%91%9810%E4%B8%87%E6%96%A4%E8%8D%94%E6%9E%9D%E8%AF%B7%E5%85%A8%E6%A0%A1%E5%85%8D%E8%B4%B9%E5%90%83%23&t=31&band_rank=7&Refer=top)<br />
-8. [奔跑吧泰国路透](https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%E6%B3%B0%E5%9B%BD%E8%B7%AF%E9%80%8F%23&t=31&band_rank=8&Refer=top)<br />
-9. [奶奶给高考结束的孙子送花](https://s.weibo.com/weibo?q=%23%E5%A5%B6%E5%A5%B6%E7%BB%99%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E7%9A%84%E5%AD%99%E5%AD%90%E9%80%81%E8%8A%B1%23&t=31&band_rank=9&Refer=top)<br />
+8. [EDG首发名单](https://s.weibo.com/weibo?q=%23EDG%E9%A6%96%E5%8F%91%E5%90%8D%E5%8D%95%23&t=31&band_rank=8&Refer=top)<br />
+9. [奔跑吧泰国路透](https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%E6%B3%B0%E5%9B%BD%E8%B7%AF%E9%80%8F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -19,8 +19,8 @@
 3. [Uzi 重新连接加盟 EDG 战队，对此你有什么想说？](https://www.zhihu.com/question/605850971)<br />
 4. [一患者因脑梗去世，医生承认此前未成功植入脑血管支架并隐瞒，两者是否存在因果关系？医生应承担哪些责任？](https://www.zhihu.com/question/605823854)<br />
 5. [刻在人类基因中里的禁令有哪些？](https://www.zhihu.com/question/602124752)<br />
-6. [苏格拉底之死的原因是暴民政治还是极端民主？](https://www.zhihu.com/question/47158468)<br />
-7. [二十万的轿车跟四十万的轿车究竟差别在哪里？](https://www.zhihu.com/question/343791192)<br />
+6. [二十万的轿车跟四十万的轿车究竟差别在哪里？](https://www.zhihu.com/question/343791192)<br />
+7. [苏格拉底之死的原因是暴民政治还是极端民主？](https://www.zhihu.com/question/47158468)<br />
 8. [美媒密集放风称，美国务卿布林肯将于 6 月 18 日访华，如何评价信息的真实性？对中美关系有何影响？](https://www.zhihu.com/question/605841889)<br />
 9. [简简单单的数学题目，孩子一考就出错，更正又全会。怎么解？](https://www.zhihu.com/question/604407050)<br />
 
