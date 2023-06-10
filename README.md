@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 15:17:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 15:18:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [你可以永远相信中国美学](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%8F%AF%E4%BB%A5%E6%B0%B8%E8%BF%9C%E7%9B%B8%E4%BF%A1%E4%B8%AD%E5%9B%BD%E7%BE%8E%E5%AD%A6%23&t=31&band_rank=3&Refer=top)<br />
 4. [杨洋 北外](https://s.weibo.com/weibo?q=%E6%9D%A8%E6%B4%8B%20%E5%8C%97%E5%A4%96&t=31&band_rank=4&Refer=top)<br />
 5. [将军Ella居然不是第一](https://s.weibo.com/weibo?q=%E5%B0%86%E5%86%9BElla%E5%B1%85%E7%84%B6%E4%B8%8D%E6%98%AF%E7%AC%AC%E4%B8%80&t=31&band_rank=5&Refer=top)<br />
-6. [Uzi](https://s.weibo.com/weibo?q=Uzi&t=31&band_rank=6&Refer=top)<br />
-7. [梅西到北京了](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E5%88%B0%E5%8C%97%E4%BA%AC%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+6. [梅西到北京了](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E5%88%B0%E5%8C%97%E4%BA%AC%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
+7. [Uzi](https://s.weibo.com/weibo?q=Uzi&t=31&band_rank=7&Refer=top)<br />
 8. [大学生高考考点卖花反亏一千](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%AB%98%E8%80%83%E8%80%83%E7%82%B9%E5%8D%96%E8%8A%B1%E5%8F%8D%E4%BA%8F%E4%B8%80%E5%8D%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [EDG首发名单](https://s.weibo.com/weibo?q=%23EDG%E9%A6%96%E5%8F%91%E5%90%8D%E5%8D%95%23&t=31&band_rank=9&Refer=top)<br />
+9. [LPL006号选手Uzi重新连接](https://s.weibo.com/weibo?q=%23LPL006%E5%8F%B7%E9%80%89%E6%89%8BUzi%E9%87%8D%E6%96%B0%E8%BF%9E%E6%8E%A5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
