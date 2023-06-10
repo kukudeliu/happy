@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 13:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 13:09:01</h4></div>
 
 > 微博  
 
@@ -18,11 +18,11 @@
 2. [我看见一程序员，电脑里只有一个巨大的 C 盘，谁能解释解释？](https://www.zhihu.com/question/605106173)<br />
 3. [22-23 赛季 NBA 总决赛掘金再胜热火，3:1 夺赛点，约基奇 23+12，如何评价这场比赛？](https://www.zhihu.com/question/605810724)<br />
 4. [普京称俄罗斯将在准备工作完成后在白俄罗斯部署核武器，此举将对国际局势带来哪些影响？](https://www.zhihu.com/question/605734119)<br />
-5. [夏天如何吃西瓜更健康？切开的西瓜能放多久？西瓜比其它水果更易坏吗？](https://www.zhihu.com/question/603815528)<br />
-6. [中国人民银行行长称预计二季度 GDP 同比增速会比较高，CPI 下半年有望逐步回升，透露哪些信息？](https://www.zhihu.com/question/605690923)<br />
-7. [如何判定一件商品的正确价格呢？](https://www.zhihu.com/question/605703106)<br />
-8. [由于工作强度大长时间久坐会带来哪些危害，该如何让身体保持健康？](https://www.zhihu.com/question/605737216)<br />
-9. [高考结束那晚你在做什么，还记得吗？](https://www.zhihu.com/question/605725016)<br />
+5. [如何评价 EDG 紧急引入 Uzi 参赛？](https://www.zhihu.com/question/605595124)<br />
+6. [夏天如何吃西瓜更健康？切开的西瓜能放多久？西瓜比其它水果更易坏吗？](https://www.zhihu.com/question/603815528)<br />
+7. [中国人民银行行长称预计二季度 GDP 同比增速会比较高，CPI 下半年有望逐步回升，透露哪些信息？](https://www.zhihu.com/question/605690923)<br />
+8. [如何判定一件商品的正确价格呢？](https://www.zhihu.com/question/605703106)<br />
+9. [由于工作强度大长时间久坐会带来哪些危害，该如何让身体保持健康？](https://www.zhihu.com/question/605737216)<br />
 
 > 百度  
 
@@ -34,7 +34,7 @@
 6. [多个城市地铁规划被取消](https://www.baidu.com/s?wd=%E5%A4%9A%E4%B8%AA%E5%9F%8E%E5%B8%82%E5%9C%B0%E9%93%81%E8%A7%84%E5%88%92%E8%A2%AB%E5%8F%96%E6%B6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [空难40天后 4名儿童被发现幸存](https://www.baidu.com/s?wd=%E7%A9%BA%E9%9A%BE40%E5%A4%A9%E5%90%8E+4%E5%90%8D%E5%84%BF%E7%AB%A5%E8%A2%AB%E5%8F%91%E7%8E%B0%E5%B9%B8%E5%AD%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [媒体：给高分复读生的奖励该取消了](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E7%BB%99%E9%AB%98%E5%88%86%E5%A4%8D%E8%AF%BB%E7%94%9F%E7%9A%84%E5%A5%96%E5%8A%B1%E8%AF%A5%E5%8F%96%E6%B6%88%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [《绝命毒师》演员在睡梦中去世](https://www.baidu.com/s?wd=%E3%80%8A%E7%BB%9D%E5%91%BD%E6%AF%92%E5%B8%88%E3%80%8B%E6%BC%94%E5%91%98%E5%9C%A8%E7%9D%A1%E6%A2%A6%E4%B8%AD%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [25岁女生带患癌爷爷游中国](https://www.baidu.com/s?wd=25%E5%B2%81%E5%A5%B3%E7%94%9F%E5%B8%A6%E6%82%A3%E7%99%8C%E7%88%B7%E7%88%B7%E6%B8%B8%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [多个城市地铁规划被取消](https://www.baidu.com/s?wd=%E5%A4%9A%E4%B8%AA%E5%9F%8E%E5%B8%82%E5%9C%B0%E9%93%81%E8%A7%84%E5%88%92%E8%A2%AB%E5%8F%96%E6%B6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [空难40天后 4名儿童被发现幸存](https://www.baidu.com/s?wd=%E7%A9%BA%E9%9A%BE40%E5%A4%A9%E5%90%8E+4%E5%90%8D%E5%84%BF%E7%AB%A5%E8%A2%AB%E5%8F%91%E7%8E%B0%E5%B9%B8%E5%AD%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [媒体：给高分复读生的奖励该取消了](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E7%BB%99%E9%AB%98%E5%88%86%E5%A4%8D%E8%AF%BB%E7%94%9F%E7%9A%84%E5%A5%96%E5%8A%B1%E8%AF%A5%E5%8F%96%E6%B6%88%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [《绝命毒师》演员在睡梦中去世](https://www.baidu.com/s?wd=%E3%80%8A%E7%BB%9D%E5%91%BD%E6%AF%92%E5%B8%88%E3%80%8B%E6%BC%94%E5%91%98%E5%9C%A8%E7%9D%A1%E6%A2%A6%E4%B8%AD%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [25岁女生带患癌爷爷游中国](https://www.baidu.com/s?wd=25%E5%B2%81%E5%A5%B3%E7%94%9F%E5%B8%A6%E6%82%A3%E7%99%8C%E7%88%B7%E7%88%B7%E6%B8%B8%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
