@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 16:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 16:43:01</h4></div>
 
 > 微博  
 
@@ -19,10 +19,10 @@
 3. [Uzi 重新连接加盟 EDG 战队，对此你有什么想说？](https://www.zhihu.com/question/605850971)<br />
 4. [梅西已抵达北京，正式开启个人第七次中国行，你对梅西本次中国行有何期待？](https://www.zhihu.com/question/605817048)<br />
 5. [如果把村超举办成全国性的赛事，有可能会拯救中国足球吗？](https://www.zhihu.com/question/605443065)<br />
-6. [如何评价 2023 年第 14 届蓝桥杯国赛？](https://www.zhihu.com/question/605664650)<br />
-7. [你认为夏天里不可或缺的美食是什么？有什么美食会让你觉得少了它，夏天就不完整了呢？](https://www.zhihu.com/question/605455473)<br />
-8. [一患者因脑梗去世，医生承认此前未成功植入脑血管支架并隐瞒，两者是否存在因果关系？医生应承担哪些责任？](https://www.zhihu.com/question/605823854)<br />
-9. [你拍过哪些非常有「夏天感」的照片？](https://www.zhihu.com/question/395433195)<br />
+6. [你认为夏天里不可或缺的美食是什么？有什么美食会让你觉得少了它，夏天就不完整了呢？](https://www.zhihu.com/question/605455473)<br />
+7. [一患者因脑梗去世，医生承认此前未成功植入脑血管支架并隐瞒，两者是否存在因果关系？医生应承担哪些责任？](https://www.zhihu.com/question/605823854)<br />
+8. [你拍过哪些非常有「夏天感」的照片？](https://www.zhihu.com/question/395433195)<br />
+9. [高考失利后该去复读还是上大专？](https://www.zhihu.com/question/600745199)<br />
 
 > 百度  
 
