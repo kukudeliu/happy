@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 12:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 12:48:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [陈鑫海怒怼辱国旅客](https://s.weibo.com/weibo?q=%23%E9%99%88%E9%91%AB%E6%B5%B7%E6%80%92%E6%80%BC%E8%BE%B1%E5%9B%BD%E6%97%85%E5%AE%A2%23&t=31&band_rank=6&Refer=top)<br />
 7. [TheShy阿水Rookie去露营了](https://s.weibo.com/weibo?q=%23TheShy%E9%98%BF%E6%B0%B4Rookie%E5%8E%BB%E9%9C%B2%E8%90%A5%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [老人突发脑梗发现医生隐瞒未植入支架](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E7%AA%81%E5%8F%91%E8%84%91%E6%A2%97%E5%8F%91%E7%8E%B0%E5%8C%BB%E7%94%9F%E9%9A%90%E7%9E%92%E6%9C%AA%E6%A4%8D%E5%85%A5%E6%94%AF%E6%9E%B6%23&t=31&band_rank=8&Refer=top)<br />
-9. [易烊千玺 评委](https://s.weibo.com/weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%20%E8%AF%84%E5%A7%94&t=31&band_rank=9&Refer=top)<br />
+9. [杨洋 北外](https://s.weibo.com/weibo?q=%E6%9D%A8%E6%B4%8B%20%E5%8C%97%E5%A4%96&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
