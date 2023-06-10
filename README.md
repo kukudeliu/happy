@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 21:35:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 21:36:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [南京暴雨 原来萧敬腾在](https://s.weibo.com/weibo?q=%E5%8D%97%E4%BA%AC%E6%9A%B4%E9%9B%A8%20%E5%8E%9F%E6%9D%A5%E8%90%A7%E6%95%AC%E8%85%BE%E5%9C%A8&t=31&band_rank=5&Refer=top)<br />
 6. [王一博好贵](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%A5%BD%E8%B4%B5%23&t=31&band_rank=6&Refer=top)<br />
 7. [minnie](https://s.weibo.com/weibo?q=minnie&t=31&band_rank=7&Refer=top)<br />
-8. [周也为什么不穿紫色这套走红毯](https://s.weibo.com/weibo?q=%E5%91%A8%E4%B9%9F%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E7%A9%BF%E7%B4%AB%E8%89%B2%E8%BF%99%E5%A5%97%E8%B5%B0%E7%BA%A2%E6%AF%AF&t=31&band_rank=8&Refer=top)<br />
+8. [张子枫吊带阔腿裤](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%AD%90%E6%9E%AB%E5%90%8A%E5%B8%A6%E9%98%94%E8%85%BF%E8%A3%A4%23&t=31&band_rank=8&Refer=top)<br />
 9. [说个故事清朝灭亡才111年](https://s.weibo.com/weibo?q=%E8%AF%B4%E4%B8%AA%E6%95%85%E4%BA%8B%E6%B8%85%E6%9C%9D%E7%81%AD%E4%BA%A1%E6%89%8D111%E5%B9%B4&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
