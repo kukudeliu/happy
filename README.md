@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 13:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 13:37:01</h4></div>
 
 > 微博  
 
@@ -17,12 +17,12 @@
 1. [我国汽车出口额首次超过手机，二手车出口业务大涨，一些新能源二手车出口均价已超一万美元，这意味着什么？](https://www.zhihu.com/question/605536890)<br />
 2. [我看见一程序员，电脑里只有一个巨大的 C 盘，谁能解释解释？](https://www.zhihu.com/question/605106173)<br />
 3. [22-23 赛季 NBA 总决赛掘金再胜热火，3:1 夺赛点，约基奇 23+12，如何评价这场比赛？](https://www.zhihu.com/question/605810724)<br />
-4. [印度教科书删除元素周期表及进化论，教育界对此感到「莫名其妙」，如何看待此事？会对学生带来哪些影响？](https://www.zhihu.com/question/604386757)<br />
-5. [普京称俄罗斯将在准备工作完成后在白俄罗斯部署核武器，此举将对国际局势带来哪些影响？](https://www.zhihu.com/question/605734119)<br />
-6. [如何评价 EDG 紧急引入 Uzi 参赛？](https://www.zhihu.com/question/605595124)<br />
-7. [为什么五大联赛没人签梅西？](https://www.zhihu.com/question/604995546)<br />
-8. [夏天如何吃西瓜更健康？切开的西瓜能放多久？西瓜比其它水果更易坏吗？](https://www.zhihu.com/question/603815528)<br />
-9. [中国人民银行行长称预计二季度 GDP 同比增速会比较高，CPI 下半年有望逐步回升，透露哪些信息？](https://www.zhihu.com/question/605690923)<br />
+4. [普京称俄罗斯将在准备工作完成后在白俄罗斯部署核武器，此举将对国际局势带来哪些影响？](https://www.zhihu.com/question/605734119)<br />
+5. [如何评价 EDG 紧急引入 Uzi 参赛？](https://www.zhihu.com/question/605595124)<br />
+6. [为什么五大联赛没人签梅西？](https://www.zhihu.com/question/604995546)<br />
+7. [夏天如何吃西瓜更健康？切开的西瓜能放多久？西瓜比其它水果更易坏吗？](https://www.zhihu.com/question/603815528)<br />
+8. [中国人民银行行长称预计二季度 GDP 同比增速会比较高，CPI 下半年有望逐步回升，透露哪些信息？](https://www.zhihu.com/question/605690923)<br />
+9. [如何判定一件商品的正确价格呢？](https://www.zhihu.com/question/605703106)<br />
 
 > 百度  
 
