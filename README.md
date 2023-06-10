@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 16:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 16:40:01</h4></div>
 
 > 微博  
 
 1. [EDG官宣签约Uzi](https://s.weibo.com/weibo?q=%23EDG%E5%AE%98%E5%AE%A3%E7%AD%BE%E7%BA%A6Uzi%23&t=31&band_rank=1&Refer=top)<br />
-2. [胖东来荔枝打开全是虫子](https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E8%8D%94%E6%9E%9D%E6%89%93%E5%BC%80%E5%85%A8%E6%98%AF%E8%99%AB%E5%AD%90%23&t=31&band_rank=2&Refer=top)<br />
+2. [微博电影之夜红毯](https://s.weibo.com/weibo?q=%E5%BE%AE%E5%8D%9A%E7%94%B5%E5%BD%B1%E4%B9%8B%E5%A4%9C%E7%BA%A2%E6%AF%AF&t=31&band_rank=2&Refer=top)<br />
 3. [你可以永远相信中国美学](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%8F%AF%E4%BB%A5%E6%B0%B8%E8%BF%9C%E7%9B%B8%E4%BF%A1%E4%B8%AD%E5%9B%BD%E7%BE%8E%E5%AD%A6%23&t=31&band_rank=3&Refer=top)<br />
-4. [微博电影之夜红毯](https://s.weibo.com/weibo?q=%E5%BE%AE%E5%8D%9A%E7%94%B5%E5%BD%B1%E4%B9%8B%E5%A4%9C%E7%BA%A2%E6%AF%AF&t=31&band_rank=4&Refer=top)<br />
+4. [胖东来荔枝打开全是虫子](https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E8%8D%94%E6%9E%9D%E6%89%93%E5%BC%80%E5%85%A8%E6%98%AF%E8%99%AB%E5%AD%90%23&t=31&band_rank=4&Refer=top)<br />
 5. [邪剑仙根本吸不完](https://s.weibo.com/weibo?q=%E9%82%AA%E5%89%91%E4%BB%99%E6%A0%B9%E6%9C%AC%E5%90%B8%E4%B8%8D%E5%AE%8C&t=31&band_rank=5&Refer=top)<br />
 6. [虞书欣Jennie有好多同款](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3Jennie%E6%9C%89%E5%A5%BD%E5%A4%9A%E5%90%8C%E6%AC%BE%23&t=31&band_rank=6&Refer=top)<br />
 7. [是淀粉 之前被RNG卡合同了](https://s.weibo.com/weibo?q=%E6%98%AF%E6%B7%80%E7%B2%89%20%E4%B9%8B%E5%89%8D%E8%A2%ABRNG%E5%8D%A1%E5%90%88%E5%90%8C%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
@@ -21,13 +21,13 @@
 5. [如何评价 2023 年第 14 届蓝桥杯国赛？](https://www.zhihu.com/question/605664650)<br />
 6. [如果把村超举办成全国性的赛事，有可能会拯救中国足球吗？](https://www.zhihu.com/question/605443065)<br />
 7. [你认为夏天里不可或缺的美食是什么？有什么美食会让你觉得少了它，夏天就不完整了呢？](https://www.zhihu.com/question/605455473)<br />
-8. []()<br />
+8. [一患者因脑梗去世，医生承认此前未成功植入脑血管支架并隐瞒，两者是否存在因果关系？医生应承担哪些责任？](https://www.zhihu.com/question/605823854)<br />
 9. [你拍过哪些非常有「夏天感」的照片？](https://www.zhihu.com/question/395433195)<br />
 
 > 百度  
 
 1. [我们为什么如此重视荒漠化防治？](https://www.baidu.com/s?wd=%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A6%82%E6%AD%A4%E9%87%8D%E8%A7%86%E8%8D%92%E6%BC%A0%E5%8C%96%E9%98%B2%E6%B2%BB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [政府大院开放给农民晒粮](https://www.baidu.com/s?wd=%E6%94%BF%E5%BA%9C%E5%A4%A7%E9%99%A2%E5%BC%80%E6%94%BE%E7%BB%99%E5%86%9C%E6%B0%91%E6%99%92%E7%B2%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [多地高铁晚点 有乘客错过资格考试](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E9%AB%98%E9%93%81%E6%99%9A%E7%82%B9+%E6%9C%89%E4%B9%98%E5%AE%A2%E9%94%99%E8%BF%87%E8%B5%84%E6%A0%BC%E8%80%83%E8%AF%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [空难40天后 4名儿童被发现幸存](https://www.baidu.com/s?wd=%E7%A9%BA%E9%9A%BE40%E5%A4%A9%E5%90%8E+4%E5%90%8D%E5%84%BF%E7%AB%A5%E8%A2%AB%E5%8F%91%E7%8E%B0%E5%B9%B8%E5%AD%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [从农田到餐桌 节粮减损进行时](https://www.baidu.com/s?wd=%E4%BB%8E%E5%86%9C%E7%94%B0%E5%88%B0%E9%A4%90%E6%A1%8C+%E8%8A%82%E7%B2%AE%E5%87%8F%E6%8D%9F%E8%BF%9B%E8%A1%8C%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [下一站大学 杨洋现身北外](https://www.baidu.com/s?wd=%23%E6%9D%A8%E6%B4%8B%E7%8E%B0%E8%BA%AB%E5%8C%97%E5%A4%96%23&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -39,7 +39,7 @@
 > 哔哩哔哩  
 
 1. [我们为什么如此重视荒漠化防治？](https://www.baidu.com/s?wd=%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A6%82%E6%AD%A4%E9%87%8D%E8%A7%86%E8%8D%92%E6%BC%A0%E5%8C%96%E9%98%B2%E6%B2%BB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [政府大院开放给农民晒粮](https://www.baidu.com/s?wd=%E6%94%BF%E5%BA%9C%E5%A4%A7%E9%99%A2%E5%BC%80%E6%94%BE%E7%BB%99%E5%86%9C%E6%B0%91%E6%99%92%E7%B2%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [多地高铁晚点 有乘客错过资格考试](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E9%AB%98%E9%93%81%E6%99%9A%E7%82%B9+%E6%9C%89%E4%B9%98%E5%AE%A2%E9%94%99%E8%BF%87%E8%B5%84%E6%A0%BC%E8%80%83%E8%AF%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [空难40天后 4名儿童被发现幸存](https://www.baidu.com/s?wd=%E7%A9%BA%E9%9A%BE40%E5%A4%A9%E5%90%8E+4%E5%90%8D%E5%84%BF%E7%AB%A5%E8%A2%AB%E5%8F%91%E7%8E%B0%E5%B9%B8%E5%AD%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [从农田到餐桌 节粮减损进行时](https://www.baidu.com/s?wd=%E4%BB%8E%E5%86%9C%E7%94%B0%E5%88%B0%E9%A4%90%E6%A1%8C+%E8%8A%82%E7%B2%AE%E5%87%8F%E6%8D%9F%E8%BF%9B%E8%A1%8C%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [下一站大学 杨洋现身北外](https://www.baidu.com/s?wd=%23%E6%9D%A8%E6%B4%8B%E7%8E%B0%E8%BA%AB%E5%8C%97%E5%A4%96%23&sa=fyb_news&rsv_dl=fyb_news)<br />
