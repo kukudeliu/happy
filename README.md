@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 22:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 22:06:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [理论上古代只要把四书五经背熟了就能考上状元，为什么多数人却连个秀才都考不中呢？](https://www.zhihu.com/question/599169937)<br />
 7. [《飘》故事里女主迷恋的艾希礼魅力何在？](https://www.zhihu.com/question/266658398)<br />
 8. [北上广深等城市出现一批首付几十万的楼盘，对于刚需买房和希望在北京积分落户的人群，此时是否要低门槛上车？](https://www.zhihu.com/question/605671771)<br />
-9. [高考没考好? 对人生影响大吗?](https://www.zhihu.com/question/600983037)<br />
+9. [和女友约好出去旅游，她闺蜜也要跟去，怎么办?](https://www.zhihu.com/question/602584344)<br />
 
 > 百度  
 
