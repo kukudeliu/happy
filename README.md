@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 20:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 20:30:02</h4></div>
 
 > 微博  
 
@@ -17,9 +17,9 @@
 1. [「鼠头鸭脖」事件进展，江西成立「江西工职院 6·1 食品安全事件」联合调查组，有哪些影响？将如何发展？](https://www.zhihu.com/question/605866370)<br />
 2. [美媒密集放风称，美国务卿布林肯将于 6 月 18 日访华，如何评价信息的真实性？对中美关系有何影响？](https://www.zhihu.com/question/605841889)<br />
 3. [和女友约好出去旅游，她闺蜜也要跟去，怎么办?](https://www.zhihu.com/question/602584344)<br />
-4. [北上广深等城市出现一批首付几十万的楼盘，对于刚需买房和希望在北京积分落户的人群，此时是否要低门槛上车？](https://www.zhihu.com/question/605671771)<br />
+4. [《飘》故事里女主迷恋的艾希礼魅力何在？](https://www.zhihu.com/question/266658398)<br />
 5. [小语种专业还值得报考吗？选择什么语种好就业？](https://www.zhihu.com/theater/97029)<br />
-6. [《飘》故事里女主迷恋的艾希礼魅力何在？](https://www.zhihu.com/question/266658398)<br />
+6. [北上广深等城市出现一批首付几十万的楼盘，对于刚需买房和希望在北京积分落户的人群，此时是否要低门槛上车？](https://www.zhihu.com/question/605671771)<br />
 7. [媒体发文谈「重视大城市青年就业问题」，大城市就业吸纳能力面临诸多挑战，应如何破解？](https://www.zhihu.com/question/605838195)<br />
 8. [《蜘蛛侠：纵横宇宙》中都有哪些彩蛋？](https://www.zhihu.com/question/604283961)<br />
 9. [《大明王朝 1566》中小阁老到底要怎样才能翻盘?](https://www.zhihu.com/question/601872613)<br />
