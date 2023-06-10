@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 13:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 13:40:02</h4></div>
 
 > 微博  
 
-1. [杨洋 北外](https://s.weibo.com/weibo?q=%E6%9D%A8%E6%B4%8B%20%E5%8C%97%E5%A4%96&t=31&band_rank=1&Refer=top)<br />
-2. [将军Ella居然不是第一](https://s.weibo.com/weibo?q=%E5%B0%86%E5%86%9BElla%E5%B1%85%E7%84%B6%E4%B8%8D%E6%98%AF%E7%AC%AC%E4%B8%80&t=31&band_rank=2&Refer=top)<br />
+1. [将军Ella居然不是第一](https://s.weibo.com/weibo?q=%E5%B0%86%E5%86%9BElla%E5%B1%85%E7%84%B6%E4%B8%8D%E6%98%AF%E7%AC%AC%E4%B8%80&t=31&band_rank=1&Refer=top)<br />
+2. [杨洋 北外](https://s.weibo.com/weibo?q=%E6%9D%A8%E6%B4%8B%20%E5%8C%97%E5%A4%96&t=31&band_rank=2&Refer=top)<br />
 3. [你可以永远相信中国美学](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%8F%AF%E4%BB%A5%E6%B0%B8%E8%BF%9C%E7%9B%B8%E4%BF%A1%E4%B8%AD%E5%9B%BD%E7%BE%8E%E5%AD%A6%23&t=31&band_rank=3&Refer=top)<br />
 4. [梅西到北京了](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E5%88%B0%E5%8C%97%E4%BA%AC%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [谁能拒绝情绪稳定的年下男](https://s.weibo.com/weibo?q=%E8%B0%81%E8%83%BD%E6%8B%92%E7%BB%9D%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A%E7%9A%84%E5%B9%B4%E4%B8%8B%E7%94%B7&t=31&band_rank=5&Refer=top)<br />
@@ -16,8 +16,8 @@
 
 1. [我国汽车出口额首次超过手机，二手车出口业务大涨，一些新能源二手车出口均价已超一万美元，这意味着什么？](https://www.zhihu.com/question/605536890)<br />
 2. [我看见一程序员，电脑里只有一个巨大的 C 盘，谁能解释解释？](https://www.zhihu.com/question/605106173)<br />
-3. [22-23 赛季 NBA 总决赛掘金再胜热火，3:1 夺赛点，约基奇 23+12，如何评价这场比赛？](https://www.zhihu.com/question/605810724)<br />
-4. [普京称俄罗斯将在准备工作完成后在白俄罗斯部署核武器，此举将对国际局势带来哪些影响？](https://www.zhihu.com/question/605734119)<br />
+3. [普京称俄罗斯将在准备工作完成后在白俄罗斯部署核武器，此举将对国际局势带来哪些影响？](https://www.zhihu.com/question/605734119)<br />
+4. [22-23 赛季 NBA 总决赛掘金再胜热火，3:1 夺赛点，约基奇 23+12，如何评价这场比赛？](https://www.zhihu.com/question/605810724)<br />
 5. [如何评价 EDG 紧急引入 Uzi 参赛？](https://www.zhihu.com/question/605595124)<br />
 6. [为什么五大联赛没人签梅西？](https://www.zhihu.com/question/604995546)<br />
 7. [夏天如何吃西瓜更健康？切开的西瓜能放多久？西瓜比其它水果更易坏吗？](https://www.zhihu.com/question/603815528)<br />
