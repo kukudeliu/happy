@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 18:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 18:30:01</h4></div>
 
 > 微博  
 
@@ -8,18 +8,18 @@
 4. [如何跟路人解释Uzi加入EDG](https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E8%B7%9F%E8%B7%AF%E4%BA%BA%E8%A7%A3%E9%87%8AUzi%E5%8A%A0%E5%85%A5EDG%23&t=31&band_rank=4&Refer=top)<br />
 5. [女子暴雨中徒手疏通下水道口](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%9A%B4%E9%9B%A8%E4%B8%AD%E5%BE%92%E6%89%8B%E7%96%8F%E9%80%9A%E4%B8%8B%E6%B0%B4%E9%81%93%E5%8F%A3%23&t=31&band_rank=5&Refer=top)<br />
 6. [沈腾在红毯发彩票](https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E5%9C%A8%E7%BA%A2%E6%AF%AF%E5%8F%91%E5%BD%A9%E7%A5%A8%23&t=31&band_rank=6&Refer=top)<br />
-7. [陈都灵 黑色头巾](https://s.weibo.com/weibo?q=%E9%99%88%E9%83%BD%E7%81%B5%20%E9%BB%91%E8%89%B2%E5%A4%B4%E5%B7%BE&t=31&band_rank=7&Refer=top)<br />
-8. [王一博好贵](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%A5%BD%E8%B4%B5%23&t=31&band_rank=8&Refer=top)<br />
-9. [张艺凡 小天鹅](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%89%BA%E5%87%A1%20%E5%B0%8F%E5%A4%A9%E9%B9%85&t=31&band_rank=9&Refer=top)<br />
+7. [众人抬车救左脚被压的小学女生](https://s.weibo.com/weibo?q=%23%E4%BC%97%E4%BA%BA%E6%8A%AC%E8%BD%A6%E6%95%91%E5%B7%A6%E8%84%9A%E8%A2%AB%E5%8E%8B%E7%9A%84%E5%B0%8F%E5%AD%A6%E5%A5%B3%E7%94%9F%23&t=31&band_rank=7&Refer=top)<br />
+8. [陈都灵 黑色头巾](https://s.weibo.com/weibo?q=%E9%99%88%E9%83%BD%E7%81%B5%20%E9%BB%91%E8%89%B2%E5%A4%B4%E5%B7%BE&t=31&band_rank=8&Refer=top)<br />
+9. [王一博好贵](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%A5%BD%E8%B4%B5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [Uzi 重新连接加盟 EDG 战队，对此你有什么想说？](https://www.zhihu.com/question/605850971)<br />
 2. [我国汽车出口额首次超过手机，二手车出口业务大涨，一些新能源二手车出口均价已超一万美元，这意味着什么？](https://www.zhihu.com/question/605536890)<br />
 3. [「鼠头鸭脖」事件进展，江西成立「江西工职院 6·1 食品安全事件」联合调查组，有哪些影响？将如何发展？](https://www.zhihu.com/question/605866370)<br />
-4. [我看见一程序员，电脑里只有一个巨大的 C 盘，谁能解释解释？](https://www.zhihu.com/question/605106173)<br />
-5. [一患者因脑梗去世，医生承认此前未成功植入脑血管支架并隐瞒，两者是否存在因果关系？医生应承担哪些责任？](https://www.zhihu.com/question/605823854)<br />
-6. [刻在人类基因中里的禁令有哪些？](https://www.zhihu.com/question/602124752)<br />
+4. [一患者因脑梗去世，医生承认此前未成功植入脑血管支架并隐瞒，两者是否存在因果关系？医生应承担哪些责任？](https://www.zhihu.com/question/605823854)<br />
+5. [刻在人类基因中里的禁令有哪些？](https://www.zhihu.com/question/602124752)<br />
+6. [我看见一程序员，电脑里只有一个巨大的 C 盘，谁能解释解释？](https://www.zhihu.com/question/605106173)<br />
 7. [美媒密集放风称，美国务卿布林肯将于 6 月 18 日访华，如何评价信息的真实性？对中美关系有何影响？](https://www.zhihu.com/question/605841889)<br />
 8. [二十万的轿车跟四十万的轿车究竟差别在哪里？](https://www.zhihu.com/question/343791192)<br />
 9. [苏格拉底之死的原因是暴民政治还是极端民主？](https://www.zhihu.com/question/47158468)<br />
