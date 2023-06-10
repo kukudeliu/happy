@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 23:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 23:58:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [王一博好贵](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%A5%BD%E8%B4%B5%23&t=31&band_rank=6&Refer=top)<br />
 7. [张大仙](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%A4%A7%E4%BB%99&t=31&band_rank=7&Refer=top)<br />
 8. [幼稚园杀手发歌diss盛宇](https://s.weibo.com/weibo?q=%E5%B9%BC%E7%A8%9A%E5%9B%AD%E6%9D%80%E6%89%8B%E5%8F%91%E6%AD%8Cdiss%E7%9B%9B%E5%AE%87&t=31&band_rank=8&Refer=top)<br />
-9. [王一博张子枫i人领奖](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%BC%A0%E5%AD%90%E6%9E%ABi%E4%BA%BA%E9%A2%86%E5%A5%96%23&t=31&band_rank=9&Refer=top)<br />
+9. [张子枫吊带阔腿裤](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%AD%90%E6%9E%AB%E5%90%8A%E5%B8%A6%E9%98%94%E8%85%BF%E8%A3%A4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
