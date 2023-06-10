@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 15:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 15:07:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [大学生高考考点卖花反亏一千](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%AB%98%E8%80%83%E8%80%83%E7%82%B9%E5%8D%96%E8%8A%B1%E5%8F%8D%E4%BA%8F%E4%B8%80%E5%8D%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [下个路口见 最强拉票阵容](https://s.weibo.com/weibo?q=%E4%B8%8B%E4%B8%AA%E8%B7%AF%E5%8F%A3%E8%A7%81%20%E6%9C%80%E5%BC%BA%E6%8B%89%E7%A5%A8%E9%98%B5%E5%AE%B9&t=31&band_rank=7&Refer=top)<br />
 8. [Amber又是第一](https://s.weibo.com/weibo?q=%23Amber%E5%8F%88%E6%98%AF%E7%AC%AC%E4%B8%80%23&t=31&band_rank=8&Refer=top)<br />
-9. [谢娜进步好大](https://s.weibo.com/weibo?q=%E8%B0%A2%E5%A8%9C%E8%BF%9B%E6%AD%A5%E5%A5%BD%E5%A4%A7&t=31&band_rank=9&Refer=top)<br />
+9. [Uzi](https://s.weibo.com/weibo?q=Uzi&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
