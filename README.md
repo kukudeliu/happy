@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 17:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 17:33:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [虞书欣Jennie有好多同款](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3Jennie%E6%9C%89%E5%A5%BD%E5%A4%9A%E5%90%8C%E6%AC%BE%23&t=31&band_rank=6&Refer=top)<br />
 7. [微博电影之夜红毯](https://s.weibo.com/weibo?q=%E5%BE%AE%E5%8D%9A%E7%94%B5%E5%BD%B1%E4%B9%8B%E5%A4%9C%E7%BA%A2%E6%AF%AF&t=31&band_rank=7&Refer=top)<br />
 8. [奔跑吧泰国路透](https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%E6%B3%B0%E5%9B%BD%E8%B7%AF%E9%80%8F%23&t=31&band_rank=8&Refer=top)<br />
-9. [大学生高考考点卖花反亏一千](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%AB%98%E8%80%83%E8%80%83%E7%82%B9%E5%8D%96%E8%8A%B1%E5%8F%8D%E4%BA%8F%E4%B8%80%E5%8D%83%23&t=31&band_rank=9&Refer=top)<br />
+9. [胖东来荔枝打开全是虫子](https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E8%8D%94%E6%9E%9D%E6%89%93%E5%BC%80%E5%85%A8%E6%98%AF%E8%99%AB%E5%AD%90%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
