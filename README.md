@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 16:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 16:23:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [杨洋 北外](https://s.weibo.com/weibo?q=%E6%9D%A8%E6%B4%8B%20%E5%8C%97%E5%A4%96&t=31&band_rank=6&Refer=top)<br />
 7. [邪剑仙根本吸不完](https://s.weibo.com/weibo?q=%E9%82%AA%E5%89%91%E4%BB%99%E6%A0%B9%E6%9C%AC%E5%90%B8%E4%B8%8D%E5%AE%8C&t=31&band_rank=7&Refer=top)<br />
 8. [虞书欣Jennie有好多同款](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3Jennie%E6%9C%89%E5%A5%BD%E5%A4%9A%E5%90%8C%E6%AC%BE%23&t=31&band_rank=8&Refer=top)<br />
-9. [梅西到北京了](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E5%88%B0%E5%8C%97%E4%BA%AC%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [大学生高考考点卖花反亏一千](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%AB%98%E8%80%83%E8%80%83%E7%82%B9%E5%8D%96%E8%8A%B1%E5%8F%8D%E4%BA%8F%E4%B8%80%E5%8D%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -32,8 +32,8 @@
 4. [从农田到餐桌 节粮减损进行时](https://www.baidu.com/s?wd=%E4%BB%8E%E5%86%9C%E7%94%B0%E5%88%B0%E9%A4%90%E6%A1%8C+%E8%8A%82%E7%B2%AE%E5%87%8F%E6%8D%9F%E8%BF%9B%E8%A1%8C%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [下一站大学 杨洋现身北外](https://www.baidu.com/s?wd=%23%E6%9D%A8%E6%B4%8B%E7%8E%B0%E8%BA%AB%E5%8C%97%E5%A4%96%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [胖东来荔枝打开全是虫子](https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E8%8D%94%E6%9E%9D%E6%89%93%E5%BC%80%E5%85%A8%E6%98%AF%E8%99%AB%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [全球高中排行榜：中国14所上榜](https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%AB%98%E4%B8%AD%E6%8E%92%E8%A1%8C%E6%A6%9C%EF%BC%9A%E4%B8%AD%E5%9B%BD14%E6%89%80%E4%B8%8A%E6%A6%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [医生谎称手术成功致患者身亡](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E8%B0%8E%E7%A7%B0%E6%89%8B%E6%9C%AF%E6%88%90%E5%8A%9F%E8%87%B4%E6%82%A3%E8%80%85%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [医生谎称手术成功致患者身亡](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E8%B0%8E%E7%A7%B0%E6%89%8B%E6%9C%AF%E6%88%90%E5%8A%9F%E8%87%B4%E6%82%A3%E8%80%85%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [全球高中排行榜：中国14所上榜](https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%AB%98%E4%B8%AD%E6%8E%92%E8%A1%8C%E6%A6%9C%EF%BC%9A%E4%B8%AD%E5%9B%BD14%E6%89%80%E4%B8%8A%E6%A6%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [男子在女厕门口偷拍 警方通报](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E5%A5%B3%E5%8E%95%E9%97%A8%E5%8F%A3%E5%81%B7%E6%8B%8D+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -44,6 +44,6 @@
 4. [从农田到餐桌 节粮减损进行时](https://www.baidu.com/s?wd=%E4%BB%8E%E5%86%9C%E7%94%B0%E5%88%B0%E9%A4%90%E6%A1%8C+%E8%8A%82%E7%B2%AE%E5%87%8F%E6%8D%9F%E8%BF%9B%E8%A1%8C%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [下一站大学 杨洋现身北外](https://www.baidu.com/s?wd=%23%E6%9D%A8%E6%B4%8B%E7%8E%B0%E8%BA%AB%E5%8C%97%E5%A4%96%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [胖东来荔枝打开全是虫子](https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E8%8D%94%E6%9E%9D%E6%89%93%E5%BC%80%E5%85%A8%E6%98%AF%E8%99%AB%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [全球高中排行榜：中国14所上榜](https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%AB%98%E4%B8%AD%E6%8E%92%E8%A1%8C%E6%A6%9C%EF%BC%9A%E4%B8%AD%E5%9B%BD14%E6%89%80%E4%B8%8A%E6%A6%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [医生谎称手术成功致患者身亡](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E8%B0%8E%E7%A7%B0%E6%89%8B%E6%9C%AF%E6%88%90%E5%8A%9F%E8%87%B4%E6%82%A3%E8%80%85%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [医生谎称手术成功致患者身亡](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E8%B0%8E%E7%A7%B0%E6%89%8B%E6%9C%AF%E6%88%90%E5%8A%9F%E8%87%B4%E6%82%A3%E8%80%85%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [全球高中排行榜：中国14所上榜](https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%AB%98%E4%B8%AD%E6%8E%92%E8%A1%8C%E6%A6%9C%EF%BC%9A%E4%B8%AD%E5%9B%BD14%E6%89%80%E4%B8%8A%E6%A6%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [男子在女厕门口偷拍 警方通报](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E5%A5%B3%E5%8E%95%E9%97%A8%E5%8F%A3%E5%81%B7%E6%8B%8D+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
