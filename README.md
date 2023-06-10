@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 17:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 17:22:01</h4></div>
 
 > 微博  
 
@@ -18,8 +18,8 @@
 2. [我看见一程序员，电脑里只有一个巨大的 C 盘，谁能解释解释？](https://www.zhihu.com/question/605106173)<br />
 3. [Uzi 重新连接加盟 EDG 战队，对此你有什么想说？](https://www.zhihu.com/question/605850971)<br />
 4. [如果把村超举办成全国性的赛事，有可能会拯救中国足球吗？](https://www.zhihu.com/question/605443065)<br />
-5. [梅西已抵达北京，正式开启个人第七次中国行，你对梅西本次中国行有何期待？](https://www.zhihu.com/question/605817048)<br />
-6. [一患者因脑梗去世，医生承认此前未成功植入脑血管支架并隐瞒，两者是否存在因果关系？医生应承担哪些责任？](https://www.zhihu.com/question/605823854)<br />
+5. [一患者因脑梗去世，医生承认此前未成功植入脑血管支架并隐瞒，两者是否存在因果关系？医生应承担哪些责任？](https://www.zhihu.com/question/605823854)<br />
+6. [梅西已抵达北京，正式开启个人第七次中国行，你对梅西本次中国行有何期待？](https://www.zhihu.com/question/605817048)<br />
 7. [刻在人类基因中里的禁令有哪些？](https://www.zhihu.com/question/602124752)<br />
 8. [苏格拉底之死的原因是暴民政治还是极端民主？](https://www.zhihu.com/question/47158468)<br />
 9. [高考失利后该去复读还是上大专？](https://www.zhihu.com/question/600745199)<br />
