@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 13:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 13:13:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [Jennie 复仇者联盟5](https://s.weibo.com/weibo?q=Jennie%20%E5%A4%8D%E4%BB%87%E8%80%85%E8%81%94%E7%9B%9F5&t=31&band_rank=6&Refer=top)<br />
 7. [老人突发脑梗发现医生隐瞒未植入支架](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E7%AA%81%E5%8F%91%E8%84%91%E6%A2%97%E5%8F%91%E7%8E%B0%E5%8C%BB%E7%94%9F%E9%9A%90%E7%9E%92%E6%9C%AA%E6%A4%8D%E5%85%A5%E6%94%AF%E6%9E%B6%23&t=31&band_rank=7&Refer=top)<br />
 8. [陈鑫海怒怼辱国旅客](https://s.weibo.com/weibo?q=%23%E9%99%88%E9%91%AB%E6%B5%B7%E6%80%92%E6%80%BC%E8%BE%B1%E5%9B%BD%E6%97%85%E5%AE%A2%23&t=31&band_rank=8&Refer=top)<br />
-9. [Amber又是第一](https://s.weibo.com/weibo?q=%23Amber%E5%8F%88%E6%98%AF%E7%AC%AC%E4%B8%80%23&t=31&band_rank=9&Refer=top)<br />
+9. [牵手门](https://s.weibo.com/weibo?q=%E7%89%B5%E6%89%8B%E9%97%A8&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
