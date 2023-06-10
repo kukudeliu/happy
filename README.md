@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 13:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 13:29:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [牵手门](https://s.weibo.com/weibo?q=%E7%89%B5%E6%89%8B%E9%97%A8&t=31&band_rank=6&Refer=top)<br />
 7. [将军Ella居然不是第一](https://s.weibo.com/weibo?q=%E5%B0%86%E5%86%9BElla%E5%B1%85%E7%84%B6%E4%B8%8D%E6%98%AF%E7%AC%AC%E4%B8%80&t=31&band_rank=7&Refer=top)<br />
 8. [Amber又是第一](https://s.weibo.com/weibo?q=%23Amber%E5%8F%88%E6%98%AF%E7%AC%AC%E4%B8%80%23&t=31&band_rank=8&Refer=top)<br />
-9. [Jennie 复仇者联盟5](https://s.weibo.com/weibo?q=Jennie%20%E5%A4%8D%E4%BB%87%E8%80%85%E8%81%94%E7%9B%9F5&t=31&band_rank=9&Refer=top)<br />
+9. [老人突发脑梗发现医生隐瞒未植入支架](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E7%AA%81%E5%8F%91%E8%84%91%E6%A2%97%E5%8F%91%E7%8E%B0%E5%8C%BB%E7%94%9F%E9%9A%90%E7%9E%92%E6%9C%AA%E6%A4%8D%E5%85%A5%E6%94%AF%E6%9E%B6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -32,9 +32,9 @@
 4. [从农田到餐桌 节粮减损进行时](https://www.baidu.com/s?wd=%E4%BB%8E%E5%86%9C%E7%94%B0%E5%88%B0%E9%A4%90%E6%A1%8C+%E8%8A%82%E7%B2%AE%E5%87%8F%E6%8D%9F%E8%BF%9B%E8%A1%8C%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [梅西私人飞机抵达北京](https://www.baidu.com/s?wd=%E6%A2%85%E8%A5%BF%E7%A7%81%E4%BA%BA%E9%A3%9E%E6%9C%BA%E6%8A%B5%E8%BE%BE%E5%8C%97%E4%BA%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [多个城市地铁规划被取消](https://www.baidu.com/s?wd=%E5%A4%9A%E4%B8%AA%E5%9F%8E%E5%B8%82%E5%9C%B0%E9%93%81%E8%A7%84%E5%88%92%E8%A2%AB%E5%8F%96%E6%B6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [空难40天后 4名儿童被发现幸存](https://www.baidu.com/s?wd=%E7%A9%BA%E9%9A%BE40%E5%A4%A9%E5%90%8E+4%E5%90%8D%E5%84%BF%E7%AB%A5%E8%A2%AB%E5%8F%91%E7%8E%B0%E5%B9%B8%E5%AD%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [媒体：给高分复读生的奖励该取消了](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E7%BB%99%E9%AB%98%E5%88%86%E5%A4%8D%E8%AF%BB%E7%94%9F%E7%9A%84%E5%A5%96%E5%8A%B1%E8%AF%A5%E5%8F%96%E6%B6%88%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [美国亚裔高考近满分被六大名校拒绝](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%BA%9A%E8%A3%94%E9%AB%98%E8%80%83%E8%BF%91%E6%BB%A1%E5%88%86%E8%A2%AB%E5%85%AD%E5%A4%A7%E5%90%8D%E6%A0%A1%E6%8B%92%E7%BB%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [媒体：给高分复读生的奖励该取消了](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E7%BB%99%E9%AB%98%E5%88%86%E5%A4%8D%E8%AF%BB%E7%94%9F%E7%9A%84%E5%A5%96%E5%8A%B1%E8%AF%A5%E5%8F%96%E6%B6%88%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女婴预防接种证被盖死亡证明章](https://www.baidu.com/s?wd=%E5%A5%B3%E5%A9%B4%E9%A2%84%E9%98%B2%E6%8E%A5%E7%A7%8D%E8%AF%81%E8%A2%AB%E7%9B%96%E6%AD%BB%E4%BA%A1%E8%AF%81%E6%98%8E%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [乘客被机长拒载 多人喊“滚下去”](https://www.baidu.com/s?wd=%E4%B9%98%E5%AE%A2%E8%A2%AB%E6%9C%BA%E9%95%BF%E6%8B%92%E8%BD%BD+%E5%A4%9A%E4%BA%BA%E5%96%8A%E2%80%9C%E6%BB%9A%E4%B8%8B%E5%8E%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [从农田到餐桌 节粮减损进行时](https://www.baidu.com/s?wd=%E4%BB%8E%E5%86%9C%E7%94%B0%E5%88%B0%E9%A4%90%E6%A1%8C+%E8%8A%82%E7%B2%AE%E5%87%8F%E6%8D%9F%E8%BF%9B%E8%A1%8C%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [梅西私人飞机抵达北京](https://www.baidu.com/s?wd=%E6%A2%85%E8%A5%BF%E7%A7%81%E4%BA%BA%E9%A3%9E%E6%9C%BA%E6%8A%B5%E8%BE%BE%E5%8C%97%E4%BA%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [多个城市地铁规划被取消](https://www.baidu.com/s?wd=%E5%A4%9A%E4%B8%AA%E5%9F%8E%E5%B8%82%E5%9C%B0%E9%93%81%E8%A7%84%E5%88%92%E8%A2%AB%E5%8F%96%E6%B6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [空难40天后 4名儿童被发现幸存](https://www.baidu.com/s?wd=%E7%A9%BA%E9%9A%BE40%E5%A4%A9%E5%90%8E+4%E5%90%8D%E5%84%BF%E7%AB%A5%E8%A2%AB%E5%8F%91%E7%8E%B0%E5%B9%B8%E5%AD%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [媒体：给高分复读生的奖励该取消了](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E7%BB%99%E9%AB%98%E5%88%86%E5%A4%8D%E8%AF%BB%E7%94%9F%E7%9A%84%E5%A5%96%E5%8A%B1%E8%AF%A5%E5%8F%96%E6%B6%88%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [美国亚裔高考近满分被六大名校拒绝](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%BA%9A%E8%A3%94%E9%AB%98%E8%80%83%E8%BF%91%E6%BB%A1%E5%88%86%E8%A2%AB%E5%85%AD%E5%A4%A7%E5%90%8D%E6%A0%A1%E6%8B%92%E7%BB%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [媒体：给高分复读生的奖励该取消了](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E7%BB%99%E9%AB%98%E5%88%86%E5%A4%8D%E8%AF%BB%E7%94%9F%E7%9A%84%E5%A5%96%E5%8A%B1%E8%AF%A5%E5%8F%96%E6%B6%88%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女婴预防接种证被盖死亡证明章](https://www.baidu.com/s?wd=%E5%A5%B3%E5%A9%B4%E9%A2%84%E9%98%B2%E6%8E%A5%E7%A7%8D%E8%AF%81%E8%A2%AB%E7%9B%96%E6%AD%BB%E4%BA%A1%E8%AF%81%E6%98%8E%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [乘客被机长拒载 多人喊“滚下去”](https://www.baidu.com/s?wd=%E4%B9%98%E5%AE%A2%E8%A2%AB%E6%9C%BA%E9%95%BF%E6%8B%92%E8%BD%BD+%E5%A4%9A%E4%BA%BA%E5%96%8A%E2%80%9C%E6%BB%9A%E4%B8%8B%E5%8E%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
