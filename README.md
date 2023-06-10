@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 13:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 13:43:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [为什么五大联赛没人签梅西？](https://www.zhihu.com/question/604995546)<br />
 7. [夏天如何吃西瓜更健康？切开的西瓜能放多久？西瓜比其它水果更易坏吗？](https://www.zhihu.com/question/603815528)<br />
 8. [中国人民银行行长称预计二季度 GDP 同比增速会比较高，CPI 下半年有望逐步回升，透露哪些信息？](https://www.zhihu.com/question/605690923)<br />
-9. [如何判定一件商品的正确价格呢？](https://www.zhihu.com/question/605703106)<br />
+9. [如何评价 rapper 宝石老舅自称高考语文 138，Tangoz 自称数学 148（不写解扣了两分）？](https://www.zhihu.com/question/605510451)<br />
 
 > 百度  
 
