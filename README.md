@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 19:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 19:06:01</h4></div>
 
 > 微博  
 
@@ -17,10 +17,10 @@
 1. [Uzi 重新连接加盟 EDG 战队，对此你有什么想说？](https://www.zhihu.com/question/605850971)<br />
 2. [「鼠头鸭脖」事件进展，江西成立「江西工职院 6·1 食品安全事件」联合调查组，有哪些影响？将如何发展？](https://www.zhihu.com/question/605866370)<br />
 3. [美媒密集放风称，美国务卿布林肯将于 6 月 18 日访华，如何评价信息的真实性？对中美关系有何影响？](https://www.zhihu.com/question/605841889)<br />
-4. [苏格拉底之死的原因是暴民政治还是极端民主？](https://www.zhihu.com/question/47158468)<br />
-5. [刻在人类基因中里的禁令有哪些？](https://www.zhihu.com/question/602124752)<br />
-6. [简简单单的数学题目，孩子一考就出错，更正又全会。怎么解？](https://www.zhihu.com/question/604407050)<br />
-7. [和女友约好出去旅游，她闺蜜也要跟去，怎么办?](https://www.zhihu.com/question/602584344)<br />
+4. [简简单单的数学题目，孩子一考就出错，更正又全会。怎么解？](https://www.zhihu.com/question/604407050)<br />
+5. [苏格拉底之死的原因是暴民政治还是极端民主？](https://www.zhihu.com/question/47158468)<br />
+6. [和女友约好出去旅游，她闺蜜也要跟去，怎么办?](https://www.zhihu.com/question/602584344)<br />
+7. [刻在人类基因中里的禁令有哪些？](https://www.zhihu.com/question/602124752)<br />
 8. [上调公积金贷款额度、部分城市房价折扣突破备案价跌幅限制，为何房产市场仍低迷？可能存在哪些问题？](https://www.zhihu.com/question/605669546)<br />
 9. [6 月 10 日加密货币大幅下挫，比特币跌近 5%，狗狗币跌超 10%，哪些信息值得关注？](https://www.zhihu.com/question/605851434)<br />
 
