@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 17:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 17:44:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [肖战出现在母校晚会宣传片](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%87%BA%E7%8E%B0%E5%9C%A8%E6%AF%8D%E6%A0%A1%E6%99%9A%E4%BC%9A%E5%AE%A3%E4%BC%A0%E7%89%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [虞书欣Jennie有好多同款](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3Jennie%E6%9C%89%E5%A5%BD%E5%A4%9A%E5%90%8C%E6%AC%BE%23&t=31&band_rank=7&Refer=top)<br />
 8. [大学生高考考点卖花反亏一千](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%AB%98%E8%80%83%E8%80%83%E7%82%B9%E5%8D%96%E8%8A%B1%E5%8F%8D%E4%BA%8F%E4%B8%80%E5%8D%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [EDG官宣签约Uzi](https://s.weibo.com/weibo?q=%23EDG%E5%AE%98%E5%AE%A3%E7%AD%BE%E7%BA%A6Uzi%23&t=31&band_rank=9&Refer=top)<br />
+9. [微博电影之夜红毯](https://s.weibo.com/weibo?q=%E5%BE%AE%E5%8D%9A%E7%94%B5%E5%BD%B1%E4%B9%8B%E5%A4%9C%E7%BA%A2%E6%AF%AF&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
