@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 19:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 19:11:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [陈都灵 黑色头巾](https://s.weibo.com/weibo?q=%E9%99%88%E9%83%BD%E7%81%B5%20%E9%BB%91%E8%89%B2%E5%A4%B4%E5%B7%BE&t=31&band_rank=6&Refer=top)<br />
 7. [这才是学医的意义](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%89%8D%E6%98%AF%E5%AD%A6%E5%8C%BB%E7%9A%84%E6%84%8F%E4%B9%89%23&t=31&band_rank=7&Refer=top)<br />
 8. [微博电影之夜内场](https://s.weibo.com/weibo?q=%E5%BE%AE%E5%8D%9A%E7%94%B5%E5%BD%B1%E4%B9%8B%E5%A4%9C%E5%86%85%E5%9C%BA&t=31&band_rank=8&Refer=top)<br />
-9. [EDG官宣签约Uzi](https://s.weibo.com/weibo?q=%23EDG%E5%AE%98%E5%AE%A3%E7%AD%BE%E7%BA%A6Uzi%23&t=31&band_rank=9&Refer=top)<br />
+9. [南京暴雨 原来萧敬腾在](https://s.weibo.com/weibo?q=%E5%8D%97%E4%BA%AC%E6%9A%B4%E9%9B%A8%20%E5%8E%9F%E6%9D%A5%E8%90%A7%E6%95%AC%E8%85%BE%E5%9C%A8&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
