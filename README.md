@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 17:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 17:47:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [EDG首发名单](https://s.weibo.com/weibo?q=%23EDG%E9%A6%96%E5%8F%91%E5%90%8D%E5%8D%95%23&t=31&band_rank=4&Refer=top)<br />
 5. [大学生高考考点卖花反亏一千](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%AB%98%E8%80%83%E8%80%83%E7%82%B9%E5%8D%96%E8%8A%B1%E5%8F%8D%E4%BA%8F%E4%B8%80%E5%8D%83%23&t=31&band_rank=5&Refer=top)<br />
 6. [奔跑吧泰国路透](https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%E6%B3%B0%E5%9B%BD%E8%B7%AF%E9%80%8F%23&t=31&band_rank=6&Refer=top)<br />
-7. [肖战出现在母校晚会宣传片](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%87%BA%E7%8E%B0%E5%9C%A8%E6%AF%8D%E6%A0%A1%E6%99%9A%E4%BC%9A%E5%AE%A3%E4%BC%A0%E7%89%87%23&t=31&band_rank=7&Refer=top)<br />
-8. [胖东来荔枝打开全是虫子](https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E8%8D%94%E6%9E%9D%E6%89%93%E5%BC%80%E5%85%A8%E6%98%AF%E8%99%AB%E5%AD%90%23&t=31&band_rank=8&Refer=top)<br />
+7. [胖东来荔枝打开全是虫子](https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E8%8D%94%E6%9E%9D%E6%89%93%E5%BC%80%E5%85%A8%E6%98%AF%E8%99%AB%E5%AD%90%23&t=31&band_rank=7&Refer=top)<br />
+8. [肖战出现在母校晚会宣传片](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%87%BA%E7%8E%B0%E5%9C%A8%E6%AF%8D%E6%A0%A1%E6%99%9A%E4%BC%9A%E5%AE%A3%E4%BC%A0%E7%89%87%23&t=31&band_rank=8&Refer=top)<br />
 9. [虞书欣Jennie有好多同款](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3Jennie%E6%9C%89%E5%A5%BD%E5%A4%9A%E5%90%8C%E6%AC%BE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
