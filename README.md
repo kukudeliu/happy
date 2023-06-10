@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 12:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 12:18:01</h4></div>
 
 > 微博  
 
@@ -18,8 +18,8 @@
 2. [我看见一程序员，电脑里只有一个巨大的 C 盘，谁能解释解释？](https://www.zhihu.com/question/605106173)<br />
 3. [22-23 赛季 NBA 总决赛掘金再胜热火，3:1 夺赛点，约基奇 23+12，如何评价这场比赛？](https://www.zhihu.com/question/605810724)<br />
 4. [普京称俄罗斯将在准备工作完成后在白俄罗斯部署核武器，此举将对国际局势带来哪些影响？](https://www.zhihu.com/question/605734119)<br />
-5. [如何看待《英雄联盟》主播刘谋在直播中因啃老话题与水友发生的讨论？](https://www.zhihu.com/question/605625422)<br />
-6. [苹果将 Vision Pro 首年销售目标下调至 15 万台，或因售价过高和产能限制，商业上如何解读？](https://www.zhihu.com/question/605636647)<br />
+5. [苹果将 Vision Pro 首年销售目标下调至 15 万台，或因售价过高和产能限制，商业上如何解读？](https://www.zhihu.com/question/605636647)<br />
+6. [如何看待《英雄联盟》主播刘谋在直播中因啃老话题与水友发生的讨论？](https://www.zhihu.com/question/605625422)<br />
 7. [如何看待专家称「美元地位短期内难以撼动」？如何解读当前的「去美元化」热潮?](https://www.zhihu.com/question/605619387)<br />
 8. [有什么是你去了马来西亚才知道的事情？](https://www.zhihu.com/question/294912886)<br />
 9. [22-23 赛季 NBA 总决赛 G4 热火 95：108 掘金，掘金大比分 3：1 领先热火，如何评价这场比赛？](https://www.zhihu.com/question/605821911)<br />
