@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 05:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 05:26:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [文化和自然遗产冷知识](https://s.weibo.com/weibo?q=%23%E6%96%87%E5%8C%96%E5%92%8C%E8%87%AA%E7%84%B6%E9%81%97%E4%BA%A7%E5%86%B7%E7%9F%A5%E8%AF%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [曼城](https://s.weibo.com/weibo?q=%E6%9B%BC%E5%9F%8E&t=31&band_rank=4&Refer=top)<br />
 5. [哥伦比亚飞机失事 40天野外求生奇迹](https://s.weibo.com/weibo?q=%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E9%A3%9E%E6%9C%BA%E5%A4%B1%E4%BA%8B%2040%E5%A4%A9%E9%87%8E%E5%A4%96%E6%B1%82%E7%94%9F%E5%A5%87%E8%BF%B9&t=31&band_rank=5&Refer=top)<br />
-6. [日本突然声称核污水危害健康](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%AA%81%E7%84%B6%E5%A3%B0%E7%A7%B0%E6%A0%B8%E6%B1%A1%E6%B0%B4%E5%8D%B1%E5%AE%B3%E5%81%A5%E5%BA%B7%23&t=31&band_rank=6&Refer=top)<br />
-7. [牵手门带火的裙子已退货2000件](https://s.weibo.com/weibo?q=%23%E7%89%B5%E6%89%8B%E9%97%A8%E5%B8%A6%E7%81%AB%E7%9A%84%E8%A3%99%E5%AD%90%E5%B7%B2%E9%80%80%E8%B4%A72000%E4%BB%B6%23&t=31&band_rank=7&Refer=top)<br />
+6. [牵手门带火的裙子已退货2000件](https://s.weibo.com/weibo?q=%23%E7%89%B5%E6%89%8B%E9%97%A8%E5%B8%A6%E7%81%AB%E7%9A%84%E8%A3%99%E5%AD%90%E5%B7%B2%E9%80%80%E8%B4%A72000%E4%BB%B6%23&t=31&band_rank=6&Refer=top)<br />
+7. [日本突然声称核污水危害健康](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%AA%81%E7%84%B6%E5%A3%B0%E7%A7%B0%E6%A0%B8%E6%B1%A1%E6%B0%B4%E5%8D%B1%E5%AE%B3%E5%81%A5%E5%BA%B7%23&t=31&band_rank=7&Refer=top)<br />
 8. [曼城夺得欧冠冠军](https://s.weibo.com/weibo?q=%23%E6%9B%BC%E5%9F%8E%E5%A4%BA%E5%BE%97%E6%AC%A7%E5%86%A0%E5%86%A0%E5%86%9B%23&t=31&band_rank=8&Refer=top)<br />
 9. [珠峰被救女子不付救援费背后](https://s.weibo.com/weibo?q=%23%E7%8F%A0%E5%B3%B0%E8%A2%AB%E6%95%91%E5%A5%B3%E5%AD%90%E4%B8%8D%E4%BB%98%E6%95%91%E6%8F%B4%E8%B4%B9%E8%83%8C%E5%90%8E%23&t=31&band_rank=9&Refer=top)<br />
 
@@ -20,9 +20,9 @@
 4. [地铁站里妈妈含泪掌掴小孩称太委屈，你对该事件有何看法？](https://www.zhihu.com/question/605107870)<br />
 5. []()<br />
 6. [理论上古代只要把四书五经背熟了就能考上状元，为什么多数人却连个秀才都考不中呢？](https://www.zhihu.com/question/599169937)<br />
-7. [北上广深等城市出现一批首付几十万的楼盘，对于刚需买房和希望在北京积分落户的人群，此时是否要低门槛上车？](https://www.zhihu.com/question/605671771)<br />
-8. [2023 LPL 夏季赛 EDG 0:2 JDG，如何评价这场比赛？](https://www.zhihu.com/question/605852235)<br />
-9. []()<br />
+7. [2023 LPL 夏季赛 EDG 0:2 JDG，如何评价这场比赛？](https://www.zhihu.com/question/605852235)<br />
+8. []()<br />
+9. [高层住宅为什么要 1 楼独立下水？](https://www.zhihu.com/question/605398328)<br />
 
 > 百度  
 
