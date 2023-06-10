@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 10:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 10:58:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [Jennie 复仇者联盟5](https://s.weibo.com/weibo?q=Jennie%20%E5%A4%8D%E4%BB%87%E8%80%85%E8%81%94%E7%9B%9F5&t=31&band_rank=4&Refer=top)<br />
 5. [袁冰妍涂山雅雅定妆造型视频](https://s.weibo.com/weibo?q=%23%E8%A2%81%E5%86%B0%E5%A6%8D%E6%B6%82%E5%B1%B1%E9%9B%85%E9%9B%85%E5%AE%9A%E5%A6%86%E9%80%A0%E5%9E%8B%E8%A7%86%E9%A2%91%23&t=31&band_rank=5&Refer=top)<br />
 6. [娜扎说人家巴不得跟我结婚](https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8E%E8%AF%B4%E4%BA%BA%E5%AE%B6%E5%B7%B4%E4%B8%8D%E5%BE%97%E8%B7%9F%E6%88%91%E7%BB%93%E5%A9%9A%23&t=31&band_rank=6&Refer=top)<br />
-7. [四川大学回应女生曝光地铁大叔](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%94%9F%E6%9B%9D%E5%85%89%E5%9C%B0%E9%93%81%E5%A4%A7%E5%8F%94%23&t=31&band_rank=7&Refer=top)<br />
-8. [188大帅哥倒地好长一条](https://s.weibo.com/weibo?q=188%E5%A4%A7%E5%B8%85%E5%93%A5%E5%80%92%E5%9C%B0%E5%A5%BD%E9%95%BF%E4%B8%80%E6%9D%A1&t=31&band_rank=8&Refer=top)<br />
+7. [188大帅哥倒地好长一条](https://s.weibo.com/weibo?q=188%E5%A4%A7%E5%B8%85%E5%93%A5%E5%80%92%E5%9C%B0%E5%A5%BD%E9%95%BF%E4%B8%80%E6%9D%A1&t=31&band_rank=7&Refer=top)<br />
+8. [四川大学回应女生曝光地铁大叔](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%94%9F%E6%9B%9D%E5%85%89%E5%9C%B0%E9%93%81%E5%A4%A7%E5%8F%94%23&t=31&band_rank=8&Refer=top)<br />
 9. [陈鑫海怒怼辱国旅客](https://s.weibo.com/weibo?q=%23%E9%99%88%E9%91%AB%E6%B5%B7%E6%80%92%E6%80%BC%E8%BE%B1%E5%9B%BD%E6%97%85%E5%AE%A2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
