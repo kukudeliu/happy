@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 13:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 13:39:01</h4></div>
 
 > 微博  
 
 1. [杨洋 北外](https://s.weibo.com/weibo?q=%E6%9D%A8%E6%B4%8B%20%E5%8C%97%E5%A4%96&t=31&band_rank=1&Refer=top)<br />
-2. [梅西到北京了](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E5%88%B0%E5%8C%97%E4%BA%AC%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
+2. [将军Ella居然不是第一](https://s.weibo.com/weibo?q=%E5%B0%86%E5%86%9BElla%E5%B1%85%E7%84%B6%E4%B8%8D%E6%98%AF%E7%AC%AC%E4%B8%80&t=31&band_rank=2&Refer=top)<br />
 3. [你可以永远相信中国美学](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%8F%AF%E4%BB%A5%E6%B0%B8%E8%BF%9C%E7%9B%B8%E4%BF%A1%E4%B8%AD%E5%9B%BD%E7%BE%8E%E5%AD%A6%23&t=31&band_rank=3&Refer=top)<br />
-4. [将军Ella居然不是第一](https://s.weibo.com/weibo?q=%E5%B0%86%E5%86%9BElla%E5%B1%85%E7%84%B6%E4%B8%8D%E6%98%AF%E7%AC%AC%E4%B8%80&t=31&band_rank=4&Refer=top)<br />
+4. [梅西到北京了](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E5%88%B0%E5%8C%97%E4%BA%AC%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [谁能拒绝情绪稳定的年下男](https://s.weibo.com/weibo?q=%E8%B0%81%E8%83%BD%E6%8B%92%E7%BB%9D%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A%E7%9A%84%E5%B9%B4%E4%B8%8B%E7%94%B7&t=31&band_rank=5&Refer=top)<br />
 6. [牵手门](https://s.weibo.com/weibo?q=%E7%89%B5%E6%89%8B%E9%97%A8&t=31&band_rank=6&Refer=top)<br />
 7. [大学摘10万斤荔枝请全校免费吃](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E6%91%9810%E4%B8%87%E6%96%A4%E8%8D%94%E6%9E%9D%E8%AF%B7%E5%85%A8%E6%A0%A1%E5%85%8D%E8%B4%B9%E5%90%83%23&t=31&band_rank=7&Refer=top)<br />
@@ -32,9 +32,9 @@
 4. [从农田到餐桌 节粮减损进行时](https://www.baidu.com/s?wd=%E4%BB%8E%E5%86%9C%E7%94%B0%E5%88%B0%E9%A4%90%E6%A1%8C+%E8%8A%82%E7%B2%AE%E5%87%8F%E6%8D%9F%E8%BF%9B%E8%A1%8C%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [梅西私人飞机抵达北京](https://www.baidu.com/s?wd=%E6%A2%85%E8%A5%BF%E7%A7%81%E4%BA%BA%E9%A3%9E%E6%9C%BA%E6%8A%B5%E8%BE%BE%E5%8C%97%E4%BA%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [多个城市地铁规划被取消](https://www.baidu.com/s?wd=%E5%A4%9A%E4%B8%AA%E5%9F%8E%E5%B8%82%E5%9C%B0%E9%93%81%E8%A7%84%E5%88%92%E8%A2%AB%E5%8F%96%E6%B6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [媒体：给高分复读生的奖励该取消了](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E7%BB%99%E9%AB%98%E5%88%86%E5%A4%8D%E8%AF%BB%E7%94%9F%E7%9A%84%E5%A5%96%E5%8A%B1%E8%AF%A5%E5%8F%96%E6%B6%88%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [乘客被机长拒载 多人喊“滚下去”](https://www.baidu.com/s?wd=%E4%B9%98%E5%AE%A2%E8%A2%AB%E6%9C%BA%E9%95%BF%E6%8B%92%E8%BD%BD+%E5%A4%9A%E4%BA%BA%E5%96%8A%E2%80%9C%E6%BB%9A%E4%B8%8B%E5%8E%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [四川一中学不让学生带书离校售卖](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E4%B8%AD%E5%AD%A6%E4%B8%8D%E8%AE%A9%E5%AD%A6%E7%94%9F%E5%B8%A6%E4%B9%A6%E7%A6%BB%E6%A0%A1%E5%94%AE%E5%8D%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [大批球迷在酒店门口等候梅西](https://www.baidu.com/s?wd=%E5%A4%A7%E6%89%B9%E7%90%83%E8%BF%B7%E5%9C%A8%E9%85%92%E5%BA%97%E9%97%A8%E5%8F%A3%E7%AD%89%E5%80%99%E6%A2%85%E8%A5%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [媒体：给高分复读生的奖励该取消了](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E7%BB%99%E9%AB%98%E5%88%86%E5%A4%8D%E8%AF%BB%E7%94%9F%E7%9A%84%E5%A5%96%E5%8A%B1%E8%AF%A5%E5%8F%96%E6%B6%88%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [乘客被机长拒载 多人喊“滚下去”](https://www.baidu.com/s?wd=%E4%B9%98%E5%AE%A2%E8%A2%AB%E6%9C%BA%E9%95%BF%E6%8B%92%E8%BD%BD+%E5%A4%9A%E4%BA%BA%E5%96%8A%E2%80%9C%E6%BB%9A%E4%B8%8B%E5%8E%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [从农田到餐桌 节粮减损进行时](https://www.baidu.com/s?wd=%E4%BB%8E%E5%86%9C%E7%94%B0%E5%88%B0%E9%A4%90%E6%A1%8C+%E8%8A%82%E7%B2%AE%E5%87%8F%E6%8D%9F%E8%BF%9B%E8%A1%8C%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [梅西私人飞机抵达北京](https://www.baidu.com/s?wd=%E6%A2%85%E8%A5%BF%E7%A7%81%E4%BA%BA%E9%A3%9E%E6%9C%BA%E6%8A%B5%E8%BE%BE%E5%8C%97%E4%BA%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [多个城市地铁规划被取消](https://www.baidu.com/s?wd=%E5%A4%9A%E4%B8%AA%E5%9F%8E%E5%B8%82%E5%9C%B0%E9%93%81%E8%A7%84%E5%88%92%E8%A2%AB%E5%8F%96%E6%B6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [媒体：给高分复读生的奖励该取消了](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E7%BB%99%E9%AB%98%E5%88%86%E5%A4%8D%E8%AF%BB%E7%94%9F%E7%9A%84%E5%A5%96%E5%8A%B1%E8%AF%A5%E5%8F%96%E6%B6%88%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [乘客被机长拒载 多人喊“滚下去”](https://www.baidu.com/s?wd=%E4%B9%98%E5%AE%A2%E8%A2%AB%E6%9C%BA%E9%95%BF%E6%8B%92%E8%BD%BD+%E5%A4%9A%E4%BA%BA%E5%96%8A%E2%80%9C%E6%BB%9A%E4%B8%8B%E5%8E%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [四川一中学不让学生带书离校售卖](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E4%B8%AD%E5%AD%A6%E4%B8%8D%E8%AE%A9%E5%AD%A6%E7%94%9F%E5%B8%A6%E4%B9%A6%E7%A6%BB%E6%A0%A1%E5%94%AE%E5%8D%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [大批球迷在酒店门口等候梅西](https://www.baidu.com/s?wd=%E5%A4%A7%E6%89%B9%E7%90%83%E8%BF%B7%E5%9C%A8%E9%85%92%E5%BA%97%E9%97%A8%E5%8F%A3%E7%AD%89%E5%80%99%E6%A2%85%E8%A5%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [媒体：给高分复读生的奖励该取消了](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E7%BB%99%E9%AB%98%E5%88%86%E5%A4%8D%E8%AF%BB%E7%94%9F%E7%9A%84%E5%A5%96%E5%8A%B1%E8%AF%A5%E5%8F%96%E6%B6%88%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [乘客被机长拒载 多人喊“滚下去”](https://www.baidu.com/s?wd=%E4%B9%98%E5%AE%A2%E8%A2%AB%E6%9C%BA%E9%95%BF%E6%8B%92%E8%BD%BD+%E5%A4%9A%E4%BA%BA%E5%96%8A%E2%80%9C%E6%BB%9A%E4%B8%8B%E5%8E%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
