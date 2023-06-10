@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 05:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 05:32:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [地铁站里妈妈含泪掌掴小孩称太委屈，你对该事件有何看法？](https://www.zhihu.com/question/605107870)<br />
 5. []()<br />
 6. [理论上古代只要把四书五经背熟了就能考上状元，为什么多数人却连个秀才都考不中呢？](https://www.zhihu.com/question/599169937)<br />
-7. [高层住宅为什么要 1 楼独立下水？](https://www.zhihu.com/question/605398328)<br />
-8. []()<br />
-9. [和女友约好出去旅游，她闺蜜也要跟去，怎么办?](https://www.zhihu.com/question/602584344)<br />
+7. [和女友约好出去旅游，她闺蜜也要跟去，怎么办?](https://www.zhihu.com/question/602584344)<br />
+8. [高层住宅为什么要 1 楼独立下水？](https://www.zhihu.com/question/605398328)<br />
+9. []()<br />
 
 > 百度  
 
