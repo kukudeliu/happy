@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 10:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 10:14:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [梅西私人飞机抵达北京](https://www.baidu.com/s?wd=%E6%A2%85%E8%A5%BF%E7%A7%81%E4%BA%BA%E9%A3%9E%E6%9C%BA%E6%8A%B5%E8%BE%BE%E5%8C%97%E4%BA%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [美国亚裔高考近满分被六大名校拒绝](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%BA%9A%E8%A3%94%E9%AB%98%E8%80%83%E8%BF%91%E6%BB%A1%E5%88%86%E8%A2%AB%E5%85%AD%E5%A4%A7%E5%90%8D%E6%A0%A1%E6%8B%92%E7%BB%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [今年端午假期或成近五年最火端午](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E7%AB%AF%E5%8D%88%E5%81%87%E6%9C%9F%E6%88%96%E6%88%90%E8%BF%91%E4%BA%94%E5%B9%B4%E6%9C%80%E7%81%AB%E7%AB%AF%E5%8D%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [农民马路晒粮被洒水车喷水打湿](https://www.baidu.com/s?wd=%E5%86%9C%E6%B0%91%E9%A9%AC%E8%B7%AF%E6%99%92%E7%B2%AE%E8%A2%AB%E6%B4%92%E6%B0%B4%E8%BD%A6%E5%96%B7%E6%B0%B4%E6%89%93%E6%B9%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [拍卖史上最大红宝石拍出 约合2.48亿](https://www.baidu.com/s?wd=%E6%8B%8D%E5%8D%96%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E7%BA%A2%E5%AE%9D%E7%9F%B3%E6%8B%8D%E5%87%BA+%E7%BA%A6%E5%90%882.48%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [玉龙文旅局：孟美岐未纳入劣迹艺人](https://www.baidu.com/s?wd=%E7%8E%89%E9%BE%99%E6%96%87%E6%97%85%E5%B1%80%EF%BC%9A%E5%AD%9F%E7%BE%8E%E5%B2%90%E6%9C%AA%E7%BA%B3%E5%85%A5%E5%8A%A3%E8%BF%B9%E8%89%BA%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [农民马路晒粮被洒水车喷水打湿](https://www.baidu.com/s?wd=%E5%86%9C%E6%B0%91%E9%A9%AC%E8%B7%AF%E6%99%92%E7%B2%AE%E8%A2%AB%E6%B4%92%E6%B0%B4%E8%BD%A6%E5%96%B7%E6%B0%B4%E6%89%93%E6%B9%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [梅西私人飞机抵达北京](https://www.baidu.com/s?wd=%E6%A2%85%E8%A5%BF%E7%A7%81%E4%BA%BA%E9%A3%9E%E6%9C%BA%E6%8A%B5%E8%BE%BE%E5%8C%97%E4%BA%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [美国亚裔高考近满分被六大名校拒绝](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%BA%9A%E8%A3%94%E9%AB%98%E8%80%83%E8%BF%91%E6%BB%A1%E5%88%86%E8%A2%AB%E5%85%AD%E5%A4%A7%E5%90%8D%E6%A0%A1%E6%8B%92%E7%BB%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [今年端午假期或成近五年最火端午](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E7%AB%AF%E5%8D%88%E5%81%87%E6%9C%9F%E6%88%96%E6%88%90%E8%BF%91%E4%BA%94%E5%B9%B4%E6%9C%80%E7%81%AB%E7%AB%AF%E5%8D%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [农民马路晒粮被洒水车喷水打湿](https://www.baidu.com/s?wd=%E5%86%9C%E6%B0%91%E9%A9%AC%E8%B7%AF%E6%99%92%E7%B2%AE%E8%A2%AB%E6%B4%92%E6%B0%B4%E8%BD%A6%E5%96%B7%E6%B0%B4%E6%89%93%E6%B9%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [拍卖史上最大红宝石拍出 约合2.48亿](https://www.baidu.com/s?wd=%E6%8B%8D%E5%8D%96%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E7%BA%A2%E5%AE%9D%E7%9F%B3%E6%8B%8D%E5%87%BA+%E7%BA%A6%E5%90%882.48%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [玉龙文旅局：孟美岐未纳入劣迹艺人](https://www.baidu.com/s?wd=%E7%8E%89%E9%BE%99%E6%96%87%E6%97%85%E5%B1%80%EF%BC%9A%E5%AD%9F%E7%BE%8E%E5%B2%90%E6%9C%AA%E7%BA%B3%E5%85%A5%E5%8A%A3%E8%BF%B9%E8%89%BA%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [农民马路晒粮被洒水车喷水打湿](https://www.baidu.com/s?wd=%E5%86%9C%E6%B0%91%E9%A9%AC%E8%B7%AF%E6%99%92%E7%B2%AE%E8%A2%AB%E6%B4%92%E6%B0%B4%E8%BD%A6%E5%96%B7%E6%B0%B4%E6%89%93%E6%B9%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
