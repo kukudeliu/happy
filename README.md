@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 15:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 15:50:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [杨洋 北外](https://s.weibo.com/weibo?q=%E6%9D%A8%E6%B4%8B%20%E5%8C%97%E5%A4%96&t=31&band_rank=4&Refer=top)<br />
 5. [LPL006号选手Uzi重新连接](https://s.weibo.com/weibo?q=%23LPL006%E5%8F%B7%E9%80%89%E6%89%8BUzi%E9%87%8D%E6%96%B0%E8%BF%9E%E6%8E%A5%23&t=31&band_rank=5&Refer=top)<br />
 6. [梅西到北京了](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E5%88%B0%E5%8C%97%E4%BA%AC%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [将军Ella居然不是第一](https://s.weibo.com/weibo?q=%E5%B0%86%E5%86%9BElla%E5%B1%85%E7%84%B6%E4%B8%8D%E6%98%AF%E7%AC%AC%E4%B8%80&t=31&band_rank=7&Refer=top)<br />
-8. [Uzi和Meiko再搭档](https://s.weibo.com/weibo?q=%23Uzi%E5%92%8CMeiko%E5%86%8D%E6%90%AD%E6%A1%A3%23&t=31&band_rank=8&Refer=top)<br />
-9. [微博电影之夜红毯](https://s.weibo.com/weibo?q=%E5%BE%AE%E5%8D%9A%E7%94%B5%E5%BD%B1%E4%B9%8B%E5%A4%9C%E7%BA%A2%E6%AF%AF&t=31&band_rank=9&Refer=top)<br />
+7. [微博电影之夜红毯](https://s.weibo.com/weibo?q=%E5%BE%AE%E5%8D%9A%E7%94%B5%E5%BD%B1%E4%B9%8B%E5%A4%9C%E7%BA%A2%E6%AF%AF&t=31&band_rank=7&Refer=top)<br />
+8. [将军Ella居然不是第一](https://s.weibo.com/weibo?q=%E5%B0%86%E5%86%9BElla%E5%B1%85%E7%84%B6%E4%B8%8D%E6%98%AF%E7%AC%AC%E4%B8%80&t=31&band_rank=8&Refer=top)<br />
+9. [Uzi和Meiko再搭档](https://s.weibo.com/weibo?q=%23Uzi%E5%92%8CMeiko%E5%86%8D%E6%90%AD%E6%A1%A3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -34,7 +34,7 @@
 6. [胖东来荔枝打开全是虫子](https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E8%8D%94%E6%9E%9D%E6%89%93%E5%BC%80%E5%85%A8%E6%98%AF%E8%99%AB%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [全球高中排行榜：中国14所上榜](https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%AB%98%E4%B8%AD%E6%8E%92%E8%A1%8C%E6%A6%9C%EF%BC%9A%E4%B8%AD%E5%9B%BD14%E6%89%80%E4%B8%8A%E6%A6%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [媒体：给高分复读生的奖励该取消了](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E7%BB%99%E9%AB%98%E5%88%86%E5%A4%8D%E8%AF%BB%E7%94%9F%E7%9A%84%E5%A5%96%E5%8A%B1%E8%AF%A5%E5%8F%96%E6%B6%88%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [网友曝牵手门女子曾做微商拒退货款](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E6%9B%9D%E7%89%B5%E6%89%8B%E9%97%A8%E5%A5%B3%E5%AD%90%E6%9B%BE%E5%81%9A%E5%BE%AE%E5%95%86%E6%8B%92%E9%80%80%E8%B4%A7%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [乘客被机长拒载 多人喊“滚下去”](https://www.baidu.com/s?wd=%E4%B9%98%E5%AE%A2%E8%A2%AB%E6%9C%BA%E9%95%BF%E6%8B%92%E8%BD%BD+%E5%A4%9A%E4%BA%BA%E5%96%8A%E2%80%9C%E6%BB%9A%E4%B8%8B%E5%8E%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [胖东来荔枝打开全是虫子](https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E8%8D%94%E6%9E%9D%E6%89%93%E5%BC%80%E5%85%A8%E6%98%AF%E8%99%AB%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [全球高中排行榜：中国14所上榜](https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%AB%98%E4%B8%AD%E6%8E%92%E8%A1%8C%E6%A6%9C%EF%BC%9A%E4%B8%AD%E5%9B%BD14%E6%89%80%E4%B8%8A%E6%A6%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [媒体：给高分复读生的奖励该取消了](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E7%BB%99%E9%AB%98%E5%88%86%E5%A4%8D%E8%AF%BB%E7%94%9F%E7%9A%84%E5%A5%96%E5%8A%B1%E8%AF%A5%E5%8F%96%E6%B6%88%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [网友曝牵手门女子曾做微商拒退货款](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E6%9B%9D%E7%89%B5%E6%89%8B%E9%97%A8%E5%A5%B3%E5%AD%90%E6%9B%BE%E5%81%9A%E5%BE%AE%E5%95%86%E6%8B%92%E9%80%80%E8%B4%A7%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [乘客被机长拒载 多人喊“滚下去”](https://www.baidu.com/s?wd=%E4%B9%98%E5%AE%A2%E8%A2%AB%E6%9C%BA%E9%95%BF%E6%8B%92%E8%BD%BD+%E5%A4%9A%E4%BA%BA%E5%96%8A%E2%80%9C%E6%BB%9A%E4%B8%8B%E5%8E%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
