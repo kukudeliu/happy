@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 17:08:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 17:09:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [一患者因脑梗去世，医生承认此前未成功植入脑血管支架并隐瞒，两者是否存在因果关系？医生应承担哪些责任？](https://www.zhihu.com/question/605823854)<br />
 7. [你认为夏天里不可或缺的美食是什么？有什么美食会让你觉得少了它，夏天就不完整了呢？](https://www.zhihu.com/question/605455473)<br />
 8. []()<br />
-9. []()<br />
+9. [你拍过哪些非常有「夏天感」的照片？](https://www.zhihu.com/question/395433195)<br />
 
 > 百度  
 
@@ -34,7 +34,7 @@
 6. [胖东来荔枝打开全是虫子](https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E8%8D%94%E6%9E%9D%E6%89%93%E5%BC%80%E5%85%A8%E6%98%AF%E8%99%AB%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [医生谎称手术成功致患者身亡](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E8%B0%8E%E7%A7%B0%E6%89%8B%E6%9C%AF%E6%88%90%E5%8A%9F%E8%87%B4%E6%82%A3%E8%80%85%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [妻子谎称留学分别与2男子同居](https://www.baidu.com/s?wd=%E5%A6%BB%E5%AD%90%E8%B0%8E%E7%A7%B0%E7%95%99%E5%AD%A6%E5%88%86%E5%88%AB%E4%B8%8E2%E7%94%B7%E5%AD%90%E5%90%8C%E5%B1%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [空难40天后 4名儿童被发现幸存](https://www.baidu.com/s?wd=%E7%A9%BA%E9%9A%BE40%E5%A4%A9%E5%90%8E+4%E5%90%8D%E5%84%BF%E7%AB%A5%E8%A2%AB%E5%8F%91%E7%8E%B0%E5%B9%B8%E5%AD%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [3名男子救跳河女子1人不幸溺亡](https://www.baidu.com/s?wd=3%E5%90%8D%E7%94%B7%E5%AD%90%E6%95%91%E8%B7%B3%E6%B2%B3%E5%A5%B3%E5%AD%901%E4%BA%BA%E4%B8%8D%E5%B9%B8%E6%BA%BA%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [胖东来荔枝打开全是虫子](https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E8%8D%94%E6%9E%9D%E6%89%93%E5%BC%80%E5%85%A8%E6%98%AF%E8%99%AB%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [医生谎称手术成功致患者身亡](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E8%B0%8E%E7%A7%B0%E6%89%8B%E6%9C%AF%E6%88%90%E5%8A%9F%E8%87%B4%E6%82%A3%E8%80%85%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [妻子谎称留学分别与2男子同居](https://www.baidu.com/s?wd=%E5%A6%BB%E5%AD%90%E8%B0%8E%E7%A7%B0%E7%95%99%E5%AD%A6%E5%88%86%E5%88%AB%E4%B8%8E2%E7%94%B7%E5%AD%90%E5%90%8C%E5%B1%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [空难40天后 4名儿童被发现幸存](https://www.baidu.com/s?wd=%E7%A9%BA%E9%9A%BE40%E5%A4%A9%E5%90%8E+4%E5%90%8D%E5%84%BF%E7%AB%A5%E8%A2%AB%E5%8F%91%E7%8E%B0%E5%B9%B8%E5%AD%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [3名男子救跳河女子1人不幸溺亡](https://www.baidu.com/s?wd=3%E5%90%8D%E7%94%B7%E5%AD%90%E6%95%91%E8%B7%B3%E6%B2%B3%E5%A5%B3%E5%AD%901%E4%BA%BA%E4%B8%8D%E5%B9%B8%E6%BA%BA%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
