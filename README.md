@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 15:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 15:27:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [杨洋 北外](https://s.weibo.com/weibo?q=%E6%9D%A8%E6%B4%8B%20%E5%8C%97%E5%A4%96&t=31&band_rank=4&Refer=top)<br />
 5. [将军Ella居然不是第一](https://s.weibo.com/weibo?q=%E5%B0%86%E5%86%9BElla%E5%B1%85%E7%84%B6%E4%B8%8D%E6%98%AF%E7%AC%AC%E4%B8%80&t=31&band_rank=5&Refer=top)<br />
 6. [梅西到北京了](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E5%88%B0%E5%8C%97%E4%BA%AC%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [LPL006号选手Uzi重新连接](https://s.weibo.com/weibo?q=%23LPL006%E5%8F%B7%E9%80%89%E6%89%8BUzi%E9%87%8D%E6%96%B0%E8%BF%9E%E6%8E%A5%23&t=31&band_rank=7&Refer=top)<br />
-8. [大学生高考考点卖花反亏一千](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%AB%98%E8%80%83%E8%80%83%E7%82%B9%E5%8D%96%E8%8A%B1%E5%8F%8D%E4%BA%8F%E4%B8%80%E5%8D%83%23&t=31&band_rank=8&Refer=top)<br />
+7. [大学生高考考点卖花反亏一千](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%AB%98%E8%80%83%E8%80%83%E7%82%B9%E5%8D%96%E8%8A%B1%E5%8F%8D%E4%BA%8F%E4%B8%80%E5%8D%83%23&t=31&band_rank=7&Refer=top)<br />
+8. [LPL006号选手Uzi重新连接](https://s.weibo.com/weibo?q=%23LPL006%E5%8F%B7%E9%80%89%E6%89%8BUzi%E9%87%8D%E6%96%B0%E8%BF%9E%E6%8E%A5%23&t=31&band_rank=8&Refer=top)<br />
 9. [Uzi](https://s.weibo.com/weibo?q=Uzi&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -20,9 +20,9 @@
 4. [如何评价 EDG 紧急引入 Uzi 参赛？](https://www.zhihu.com/question/605595124)<br />
 5. [为什么五大联赛没人签梅西？](https://www.zhihu.com/question/604995546)<br />
 6. [如何评价《崩坏：星穹铁道》1.1 版本活动「冬城博物珍奇簿」？](https://www.zhihu.com/question/605662846)<br />
-7. [梅西仍居金球奖赔率第一，加盟迈阿密国际会影响竞争金球奖吗？](https://www.zhihu.com/question/605614437)<br />
-8. [Uzi 重新连接加盟 EDG 战队，对此你有什么想说？](https://www.zhihu.com/question/605850971)<br />
-9. [为什么汽车厂商不在汽车车头加一个外置安全气囊，来减轻事故的危害性？](https://www.zhihu.com/question/23913564)<br />
+7. [Uzi 重新连接加盟 EDG 战队，对此你有什么想说？](https://www.zhihu.com/question/605850971)<br />
+8. [梅西仍居金球奖赔率第一，加盟迈阿密国际会影响竞争金球奖吗？](https://www.zhihu.com/question/605614437)<br />
+9. [新家装修，五万块钱买所有家电够用吗？有什么家电推荐吗?](https://www.zhihu.com/question/422156610)<br />
 
 > 百度  
 
