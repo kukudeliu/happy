@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 18:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 18:09:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [EDG首发名单](https://s.weibo.com/weibo?q=%23EDG%E9%A6%96%E5%8F%91%E5%90%8D%E5%8D%95%23&t=31&band_rank=5&Refer=top)<br />
 6. [邪剑仙根本吸不完](https://s.weibo.com/weibo?q=%E9%82%AA%E5%89%91%E4%BB%99%E6%A0%B9%E6%9C%AC%E5%90%B8%E4%B8%8D%E5%AE%8C&t=31&band_rank=6&Refer=top)<br />
 7. [陈都灵 黑色头巾](https://s.weibo.com/weibo?q=%E9%99%88%E9%83%BD%E7%81%B5%20%E9%BB%91%E8%89%B2%E5%A4%B4%E5%B7%BE&t=31&band_rank=7&Refer=top)<br />
-8. [张艺凡 小天鹅](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%89%BA%E5%87%A1%20%E5%B0%8F%E5%A4%A9%E9%B9%85&t=31&band_rank=8&Refer=top)<br />
-9. [奔跑吧泰国路透](https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%E6%B3%B0%E5%9B%BD%E8%B7%AF%E9%80%8F%23&t=31&band_rank=9&Refer=top)<br />
+8. [大学摘10万斤荔枝请全校免费吃](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E6%91%9810%E4%B8%87%E6%96%A4%E8%8D%94%E6%9E%9D%E8%AF%B7%E5%85%A8%E6%A0%A1%E5%85%8D%E8%B4%B9%E5%90%83%23&t=31&band_rank=8&Refer=top)<br />
+9. [女子暴雨中徒手疏通下水道口](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%9A%B4%E9%9B%A8%E4%B8%AD%E5%BE%92%E6%89%8B%E7%96%8F%E9%80%9A%E4%B8%8B%E6%B0%B4%E9%81%93%E5%8F%A3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -34,7 +34,7 @@
 6. [妻子谎称留学分别与2男子同居](https://www.baidu.com/s?wd=%E5%A6%BB%E5%AD%90%E8%B0%8E%E7%A7%B0%E7%95%99%E5%AD%A6%E5%88%86%E5%88%AB%E4%B8%8E2%E7%94%B7%E5%AD%90%E5%90%8C%E5%B1%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [牵手门带火的裙子已退货2000件](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E5%B8%A6%E7%81%AB%E7%9A%84%E8%A3%99%E5%AD%90%E5%B7%B2%E9%80%80%E8%B4%A72000%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [三星堆顶尊人像找到神兽坐骑了](https://www.baidu.com/s?wd=%E4%B8%89%E6%98%9F%E5%A0%86%E9%A1%B6%E5%B0%8A%E4%BA%BA%E5%83%8F%E6%89%BE%E5%88%B0%E7%A5%9E%E5%85%BD%E5%9D%90%E9%AA%91%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [林心如谈自己剖腹产后遗症](https://www.baidu.com/s?wd=%E6%9E%97%E5%BF%83%E5%A6%82%E8%B0%88%E8%87%AA%E5%B7%B1%E5%89%96%E8%85%B9%E4%BA%A7%E5%90%8E%E9%81%97%E7%97%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [《绝命毒师》演员在睡梦中去世](https://www.baidu.com/s?wd=%E3%80%8A%E7%BB%9D%E5%91%BD%E6%AF%92%E5%B8%88%E3%80%8B%E6%BC%94%E5%91%98%E5%9C%A8%E7%9D%A1%E6%A2%A6%E4%B8%AD%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [妻子谎称留学分别与2男子同居](https://www.baidu.com/s?wd=%E5%A6%BB%E5%AD%90%E8%B0%8E%E7%A7%B0%E7%95%99%E5%AD%A6%E5%88%86%E5%88%AB%E4%B8%8E2%E7%94%B7%E5%AD%90%E5%90%8C%E5%B1%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [牵手门带火的裙子已退货2000件](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E5%B8%A6%E7%81%AB%E7%9A%84%E8%A3%99%E5%AD%90%E5%B7%B2%E9%80%80%E8%B4%A72000%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [三星堆顶尊人像找到神兽坐骑了](https://www.baidu.com/s?wd=%E4%B8%89%E6%98%9F%E5%A0%86%E9%A1%B6%E5%B0%8A%E4%BA%BA%E5%83%8F%E6%89%BE%E5%88%B0%E7%A5%9E%E5%85%BD%E5%9D%90%E9%AA%91%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [林心如谈自己剖腹产后遗症](https://www.baidu.com/s?wd=%E6%9E%97%E5%BF%83%E5%A6%82%E8%B0%88%E8%87%AA%E5%B7%B1%E5%89%96%E8%85%B9%E4%BA%A7%E5%90%8E%E9%81%97%E7%97%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [《绝命毒师》演员在睡梦中去世](https://www.baidu.com/s?wd=%E3%80%8A%E7%BB%9D%E5%91%BD%E6%AF%92%E5%B8%88%E3%80%8B%E6%BC%94%E5%91%98%E5%9C%A8%E7%9D%A1%E6%A2%A6%E4%B8%AD%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
