@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 19:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 19:58:01</h4></div>
 
 > 微博  
 
@@ -16,10 +16,10 @@
 
 1. [「鼠头鸭脖」事件进展，江西成立「江西工职院 6·1 食品安全事件」联合调查组，有哪些影响？将如何发展？](https://www.zhihu.com/question/605866370)<br />
 2. [美媒密集放风称，美国务卿布林肯将于 6 月 18 日访华，如何评价信息的真实性？对中美关系有何影响？](https://www.zhihu.com/question/605841889)<br />
-3. [Uzi 重新连接加盟 EDG 战队，对此你有什么想说？](https://www.zhihu.com/question/605850971)<br />
-4. [和女友约好出去旅游，她闺蜜也要跟去，怎么办?](https://www.zhihu.com/question/602584344)<br />
+3. [和女友约好出去旅游，她闺蜜也要跟去，怎么办?](https://www.zhihu.com/question/602584344)<br />
+4. [Uzi 重新连接加盟 EDG 战队，对此你有什么想说？](https://www.zhihu.com/question/605850971)<br />
 5. [北上广深等城市出现一批首付几十万的楼盘，对于刚需买房和希望在北京积分落户的人群，此时是否要低门槛上车？](https://www.zhihu.com/question/605671771)<br />
-6. []()<br />
+6. [《飘》故事里女主迷恋的艾希礼魅力何在？](https://www.zhihu.com/question/266658398)<br />
 7. [6 月 10 日加密货币大幅下挫，比特币跌近 5%，狗狗币跌超 10%，哪些信息值得关注？](https://www.zhihu.com/question/605851434)<br />
 8. [你们觉得哪个品种的荔枝最好吃？](https://www.zhihu.com/question/403457358)<br />
 9. [媒体发文谈「重视大城市青年就业问题」，大城市就业吸纳能力面临诸多挑战，应如何破解？](https://www.zhihu.com/question/605838195)<br />
