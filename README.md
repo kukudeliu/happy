@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 08:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 08:25:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [“牵手门”连衣裙卖家呼吁理性消费](https://www.baidu.com/s?wd=%E2%80%9C%E7%89%B5%E6%89%8B%E9%97%A8%E2%80%9D%E8%BF%9E%E8%A1%A3%E8%A3%99%E5%8D%96%E5%AE%B6%E5%91%BC%E5%90%81%E7%90%86%E6%80%A7%E6%B6%88%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [牵手门持续发酵 还有几点疑问待解](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E6%8C%81%E7%BB%AD%E5%8F%91%E9%85%B5+%E8%BF%98%E6%9C%89%E5%87%A0%E7%82%B9%E7%96%91%E9%97%AE%E5%BE%85%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [多名嫌犯被游行示众？西宁警方回应](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E5%AB%8C%E7%8A%AF%E8%A2%AB%E6%B8%B8%E8%A1%8C%E7%A4%BA%E4%BC%97%EF%BC%9F%E8%A5%BF%E5%AE%81%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [河南一酒店要求高考生1点前退房](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E9%85%92%E5%BA%97%E8%A6%81%E6%B1%82%E9%AB%98%E8%80%83%E7%94%9F1%E7%82%B9%E5%89%8D%E9%80%80%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女儿高考 警爸警妈执勤](https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF%E9%AB%98%E8%80%83+%E8%AD%A6%E7%88%B8%E8%AD%A6%E5%A6%88%E6%89%A7%E5%8B%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [“牵手门”连衣裙卖家呼吁理性消费](https://www.baidu.com/s?wd=%E2%80%9C%E7%89%B5%E6%89%8B%E9%97%A8%E2%80%9D%E8%BF%9E%E8%A1%A3%E8%A3%99%E5%8D%96%E5%AE%B6%E5%91%BC%E5%90%81%E7%90%86%E6%80%A7%E6%B6%88%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [牵手门持续发酵 还有几点疑问待解](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E6%8C%81%E7%BB%AD%E5%8F%91%E9%85%B5+%E8%BF%98%E6%9C%89%E5%87%A0%E7%82%B9%E7%96%91%E9%97%AE%E5%BE%85%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [多名嫌犯被游行示众？西宁警方回应](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E5%AB%8C%E7%8A%AF%E8%A2%AB%E6%B8%B8%E8%A1%8C%E7%A4%BA%E4%BC%97%EF%BC%9F%E8%A5%BF%E5%AE%81%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [河南一酒店要求高考生1点前退房](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E9%85%92%E5%BA%97%E8%A6%81%E6%B1%82%E9%AB%98%E8%80%83%E7%94%9F1%E7%82%B9%E5%89%8D%E9%80%80%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女儿高考 警爸警妈执勤](https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF%E9%AB%98%E8%80%83+%E8%AD%A6%E7%88%B8%E8%AD%A6%E5%A6%88%E6%89%A7%E5%8B%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
