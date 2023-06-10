@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 16:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 16:19:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [胖东来荔枝打开全是虫子](https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E8%8D%94%E6%9E%9D%E6%89%93%E5%BC%80%E5%85%A8%E6%98%AF%E8%99%AB%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [全球高中排行榜：中国14所上榜](https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%AB%98%E4%B8%AD%E6%8E%92%E8%A1%8C%E6%A6%9C%EF%BC%9A%E4%B8%AD%E5%9B%BD14%E6%89%80%E4%B8%8A%E6%A6%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [医生谎称手术成功致患者身亡](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E8%B0%8E%E7%A7%B0%E6%89%8B%E6%9C%AF%E6%88%90%E5%8A%9F%E8%87%B4%E6%82%A3%E8%80%85%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [多地高铁晚点 有乘客错过资格考试](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E9%AB%98%E9%93%81%E6%99%9A%E7%82%B9+%E6%9C%89%E4%B9%98%E5%AE%A2%E9%94%99%E8%BF%87%E8%B5%84%E6%A0%BC%E8%80%83%E8%AF%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子在女厕门口偷拍 警方通报](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E5%A5%B3%E5%8E%95%E9%97%A8%E5%8F%A3%E5%81%B7%E6%8B%8D+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [胖东来荔枝打开全是虫子](https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E8%8D%94%E6%9E%9D%E6%89%93%E5%BC%80%E5%85%A8%E6%98%AF%E8%99%AB%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [全球高中排行榜：中国14所上榜](https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%AB%98%E4%B8%AD%E6%8E%92%E8%A1%8C%E6%A6%9C%EF%BC%9A%E4%B8%AD%E5%9B%BD14%E6%89%80%E4%B8%8A%E6%A6%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [医生谎称手术成功致患者身亡](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E8%B0%8E%E7%A7%B0%E6%89%8B%E6%9C%AF%E6%88%90%E5%8A%9F%E8%87%B4%E6%82%A3%E8%80%85%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [多地高铁晚点 有乘客错过资格考试](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E9%AB%98%E9%93%81%E6%99%9A%E7%82%B9+%E6%9C%89%E4%B9%98%E5%AE%A2%E9%94%99%E8%BF%87%E8%B5%84%E6%A0%BC%E8%80%83%E8%AF%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子在女厕门口偷拍 警方通报](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E5%A5%B3%E5%8E%95%E9%97%A8%E5%8F%A3%E5%81%B7%E6%8B%8D+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
