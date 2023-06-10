@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 07:03:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 07:04:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [Angelababy冷脸](https://s.weibo.com/weibo?q=Angelababy%E5%86%B7%E8%84%B8&t=31&band_rank=6&Refer=top)<br />
 7. [曼城vs国际米兰](https://s.weibo.com/weibo?q=%23%E6%9B%BC%E5%9F%8Evs%E5%9B%BD%E9%99%85%E7%B1%B3%E5%85%B0%23&t=31&band_rank=7&Refer=top)<br />
 8. [蔡徐坤看郑恺的眼神](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E7%9C%8B%E9%83%91%E6%81%BA%E7%9A%84%E7%9C%BC%E7%A5%9E%23&t=31&band_rank=8&Refer=top)<br />
-9. [柯以敏直播奔溃大哭](https://s.weibo.com/weibo?q=%23%E6%9F%AF%E4%BB%A5%E6%95%8F%E7%9B%B4%E6%92%AD%E5%A5%94%E6%BA%83%E5%A4%A7%E5%93%AD%23&t=31&band_rank=9&Refer=top)<br />
+9. [72岁TVB男星将迎娶小36岁女友](https://s.weibo.com/weibo?q=%2372%E5%B2%81TVB%E7%94%B7%E6%98%9F%E5%B0%86%E8%BF%8E%E5%A8%B6%E5%B0%8F36%E5%B2%81%E5%A5%B3%E5%8F%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
