@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 11:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 11:37:02</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [「辞职去干体力活」，真的能缓解职场内耗吗？从事体力劳动能让我们的幸福感更高吗？](https://www.zhihu.com/question/605262322)<br />
 6. [苹果将 Vision Pro 首年销售目标下调至 15 万台，或因售价过高和产能限制，商业上如何解读？](https://www.zhihu.com/question/605636647)<br />
 7. [普京称俄罗斯将在准备工作完成后在白俄罗斯部署核武器，此举将对国际局势带来哪些影响？](https://www.zhihu.com/question/605734119)<br />
-8. [假如你买彩票中了一千万，你会辞掉现在的工作吗?](https://www.zhihu.com/question/605637369)<br />
-9. [22-23 赛季 NBA 总决赛掘金再胜热火，3:1 夺赛点，约基奇 23+12，如何评价这场比赛？](https://www.zhihu.com/question/605810724)<br />
+8. [22-23 赛季 NBA 总决赛掘金再胜热火，3:1 夺赛点，约基奇 23+12，如何评价这场比赛？](https://www.zhihu.com/question/605810724)<br />
+9. [假如你买彩票中了一千万，你会辞掉现在的工作吗?](https://www.zhihu.com/question/605637369)<br />
 
 > 百度  
 
