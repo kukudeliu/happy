@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 15:20:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 15:21:01</h4></div>
 
 > 微博  
 
@@ -17,8 +17,8 @@
 1. [我国汽车出口额首次超过手机，二手车出口业务大涨，一些新能源二手车出口均价已超一万美元，这意味着什么？](https://www.zhihu.com/question/605536890)<br />
 2. [我看见一程序员，电脑里只有一个巨大的 C 盘，谁能解释解释？](https://www.zhihu.com/question/605106173)<br />
 3. [梅西已抵达北京，正式开启个人第七次中国行，你对梅西本次中国行有何期待？](https://www.zhihu.com/question/605817048)<br />
-4. [如何评价 EDG 紧急引入 Uzi 参赛？](https://www.zhihu.com/question/605595124)<br />
-5. [为什么五大联赛没人签梅西？](https://www.zhihu.com/question/604995546)<br />
+4. [为什么五大联赛没人签梅西？](https://www.zhihu.com/question/604995546)<br />
+5. [如何评价 EDG 紧急引入 Uzi 参赛？](https://www.zhihu.com/question/605595124)<br />
 6. [为什么汽车厂商不在汽车车头加一个外置安全气囊，来减轻事故的危害性？](https://www.zhihu.com/question/23913564)<br />
 7. [如何评价《崩坏：星穹铁道》1.1 版本活动「冬城博物珍奇簿」？](https://www.zhihu.com/question/605662846)<br />
 8. [梅西仍居金球奖赔率第一，加盟迈阿密国际会影响竞争金球奖吗？](https://www.zhihu.com/question/605614437)<br />
