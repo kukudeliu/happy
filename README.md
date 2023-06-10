@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 12:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 12:16:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [如何看待《英雄联盟》主播刘谋在直播中因啃老话题与水友发生的讨论？](https://www.zhihu.com/question/605625422)<br />
 6. [苹果将 Vision Pro 首年销售目标下调至 15 万台，或因售价过高和产能限制，商业上如何解读？](https://www.zhihu.com/question/605636647)<br />
 7. [如何看待专家称「美元地位短期内难以撼动」？如何解读当前的「去美元化」热潮?](https://www.zhihu.com/question/605619387)<br />
-8. [假如你买彩票中了一千万，你会辞掉现在的工作吗?](https://www.zhihu.com/question/605637369)<br />
-9. [有什么是你去了马来西亚才知道的事情？](https://www.zhihu.com/question/294912886)<br />
+8. [有什么是你去了马来西亚才知道的事情？](https://www.zhihu.com/question/294912886)<br />
+9. [22-23 赛季 NBA 总决赛 G4 热火 95：108 掘金，掘金大比分 3：1 领先热火，如何评价这场比赛？](https://www.zhihu.com/question/605821911)<br />
 
 > 百度  
 
