@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 22:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 22:33:01</h4></div>
 
 > 微博  
 
@@ -18,8 +18,8 @@
 2. [美媒密集放风称，美国务卿布林肯将于 6 月 18 日访华，如何评价信息的真实性？对中美关系有何影响？](https://www.zhihu.com/question/605841889)<br />
 3. [理论上古代只要把四书五经背熟了就能考上状元，为什么多数人却连个秀才都考不中呢？](https://www.zhihu.com/question/599169937)<br />
 4. [天津津南区八里台镇局部地面沉降，专家初步判断为突发地质灾害，周围居民何时能回家？后续是否有补偿措施？](https://www.zhihu.com/question/605551160)<br />
-5. [有没有财务部门很牛给公司创造利润的案例?](https://www.zhihu.com/question/598621425)<br />
-6. [2023 LPL 夏季赛 EDG 0:2 JDG，如何评价这场比赛？](https://www.zhihu.com/question/605852235)<br />
+5. [2023 LPL 夏季赛 EDG 0:2 JDG，如何评价这场比赛？](https://www.zhihu.com/question/605852235)<br />
+6. [有没有财务部门很牛给公司创造利润的案例?](https://www.zhihu.com/question/598621425)<br />
 7. [历史上有哪些只活到 39 岁左右的著名人物?](https://www.zhihu.com/question/605603855)<br />
 8. []()<br />
 9. [618 有哪些满意度很高的洗衣机推荐？哪款是你的年度 top 1？](https://www.zhihu.com/question/605822304)<br />
