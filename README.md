@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 18:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 18:58:01</h4></div>
 
 > 微博  
 
@@ -18,8 +18,8 @@
 2. [「鼠头鸭脖」事件进展，江西成立「江西工职院 6·1 食品安全事件」联合调查组，有哪些影响？将如何发展？](https://www.zhihu.com/question/605866370)<br />
 3. [刻在人类基因中里的禁令有哪些？](https://www.zhihu.com/question/602124752)<br />
 4. [美媒密集放风称，美国务卿布林肯将于 6 月 18 日访华，如何评价信息的真实性？对中美关系有何影响？](https://www.zhihu.com/question/605841889)<br />
-5. [二十万的轿车跟四十万的轿车究竟差别在哪里？](https://www.zhihu.com/question/343791192)<br />
-6. [苏格拉底之死的原因是暴民政治还是极端民主？](https://www.zhihu.com/question/47158468)<br />
+5. [苏格拉底之死的原因是暴民政治还是极端民主？](https://www.zhihu.com/question/47158468)<br />
+6. [二十万的轿车跟四十万的轿车究竟差别在哪里？](https://www.zhihu.com/question/343791192)<br />
 7. [简简单单的数学题目，孩子一考就出错，更正又全会。怎么解？](https://www.zhihu.com/question/604407050)<br />
 8. [和女友约好出去旅游，她闺蜜也要跟去，怎么办?](https://www.zhihu.com/question/602584344)<br />
 9. [上调公积金贷款额度、部分城市房价折扣突破备案价跌幅限制，为何房产市场仍低迷？可能存在哪些问题？](https://www.zhihu.com/question/605669546)<br />
