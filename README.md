@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 05:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 05:05:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [牵手门带火的裙子已退货2000件](https://s.weibo.com/weibo?q=%23%E7%89%B5%E6%89%8B%E9%97%A8%E5%B8%A6%E7%81%AB%E7%9A%84%E8%A3%99%E5%AD%90%E5%B7%B2%E9%80%80%E8%B4%A72000%E4%BB%B6%23&t=31&band_rank=6&Refer=top)<br />
 7. [说个故事清朝灭亡才111年](https://s.weibo.com/weibo?q=%E8%AF%B4%E4%B8%AA%E6%95%85%E4%BA%8B%E6%B8%85%E6%9C%9D%E7%81%AD%E4%BA%A1%E6%89%8D111%E5%B9%B4&t=31&band_rank=7&Refer=top)<br />
 8. [Angelababy冷脸](https://s.weibo.com/weibo?q=Angelababy%E5%86%B7%E8%84%B8&t=31&band_rank=8&Refer=top)<br />
-9. [张大仙](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%A4%A7%E4%BB%99&t=31&band_rank=9&Refer=top)<br />
+9. [72岁TVB男星将迎娶小36岁女友](https://s.weibo.com/weibo?q=%2372%E5%B2%81TVB%E7%94%B7%E6%98%9F%E5%B0%86%E8%BF%8E%E5%A8%B6%E5%B0%8F36%E5%B2%81%E5%A5%B3%E5%8F%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [理论上古代只要把四书五经背熟了就能考上状元，为什么多数人却连个秀才都考不中呢？](https://www.zhihu.com/question/599169937)<br />
 7. []()<br />
 8. [6 月 10 日起，12306 网站试行在线选铺服务，将带来哪些便利，出行时你会选择哪个座位？](https://www.zhihu.com/question/605812479)<br />
-9. [天津津南区八里台镇局部地面沉降，专家初步判断为突发地质灾害，周围居民何时能回家？后续是否有补偿措施？](https://www.zhihu.com/question/605551160)<br />
+9. [和女友约好出去旅游，她闺蜜也要跟去，怎么办?](https://www.zhihu.com/question/602584344)<br />
 
 > 百度  
 
