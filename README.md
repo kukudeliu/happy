@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 00:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 00:42:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [牵手门带火的裙子已退货2000件](https://s.weibo.com/weibo?q=%23%E7%89%B5%E6%89%8B%E9%97%A8%E5%B8%A6%E7%81%AB%E7%9A%84%E8%A3%99%E5%AD%90%E5%B7%B2%E9%80%80%E8%B4%A72000%E4%BB%B6%23&t=31&band_rank=6&Refer=top)<br />
 7. [日本突然声称核污水危害健康](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%AA%81%E7%84%B6%E5%A3%B0%E7%A7%B0%E6%A0%B8%E6%B1%A1%E6%B0%B4%E5%8D%B1%E5%AE%B3%E5%81%A5%E5%BA%B7%23&t=31&band_rank=7&Refer=top)<br />
 8. [说个故事清朝灭亡才111年](https://s.weibo.com/weibo?q=%E8%AF%B4%E4%B8%AA%E6%95%85%E4%BA%8B%E6%B8%85%E6%9C%9D%E7%81%AD%E4%BA%A1%E6%89%8D111%E5%B9%B4&t=31&band_rank=8&Refer=top)<br />
-9. [沈腾 我真能演子怡老公吗](https://s.weibo.com/weibo?q=%E6%B2%88%E8%85%BE%20%E6%88%91%E7%9C%9F%E8%83%BD%E6%BC%94%E5%AD%90%E6%80%A1%E8%80%81%E5%85%AC%E5%90%97&t=31&band_rank=9&Refer=top)<br />
+9. [幼稚园杀手发歌diss盛宇](https://s.weibo.com/weibo?q=%E5%B9%BC%E7%A8%9A%E5%9B%AD%E6%9D%80%E6%89%8B%E5%8F%91%E6%AD%8Cdiss%E7%9B%9B%E5%AE%87&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
