@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 18:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 18:23:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [陈都灵 黑色头巾](https://s.weibo.com/weibo?q=%E9%99%88%E9%83%BD%E7%81%B5%20%E9%BB%91%E8%89%B2%E5%A4%B4%E5%B7%BE&t=31&band_rank=6&Refer=top)<br />
 7. [女子暴雨中徒手疏通下水道口](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%9A%B4%E9%9B%A8%E4%B8%AD%E5%BE%92%E6%89%8B%E7%96%8F%E9%80%9A%E4%B8%8B%E6%B0%B4%E9%81%93%E5%8F%A3%23&t=31&band_rank=7&Refer=top)<br />
 8. [张艺凡 小天鹅](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%89%BA%E5%87%A1%20%E5%B0%8F%E5%A4%A9%E9%B9%85&t=31&band_rank=8&Refer=top)<br />
-9. [邪剑仙根本吸不完](https://s.weibo.com/weibo?q=%E9%82%AA%E5%89%91%E4%BB%99%E6%A0%B9%E6%9C%AC%E5%90%B8%E4%B8%8D%E5%AE%8C&t=31&band_rank=9&Refer=top)<br />
+9. [EDG首发名单](https://s.weibo.com/weibo?q=%23EDG%E9%A6%96%E5%8F%91%E5%90%8D%E5%8D%95%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
