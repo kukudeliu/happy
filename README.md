@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 20:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 20:19:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 2. [美媒密集放风称，美国务卿布林肯将于 6 月 18 日访华，如何评价信息的真实性？对中美关系有何影响？](https://www.zhihu.com/question/605841889)<br />
 3. [和女友约好出去旅游，她闺蜜也要跟去，怎么办?](https://www.zhihu.com/question/602584344)<br />
 4. [北上广深等城市出现一批首付几十万的楼盘，对于刚需买房和希望在北京积分落户的人群，此时是否要低门槛上车？](https://www.zhihu.com/question/605671771)<br />
-5. [小语种专业还值得报考吗？有哪些就业方向？](https://www.zhihu.com/theater/97029)<br />
+5. [小语种专业还值得报考吗？选择什么语种好就业？](https://www.zhihu.com/theater/97029)<br />
 6. [《飘》故事里女主迷恋的艾希礼魅力何在？](https://www.zhihu.com/question/266658398)<br />
 7. [6 月 10 日加密货币大幅下挫，比特币跌近 5%，狗狗币跌超 10%，哪些信息值得关注？](https://www.zhihu.com/question/605851434)<br />
 8. [你们觉得哪个品种的荔枝最好吃？](https://www.zhihu.com/question/403457358)<br />
@@ -33,7 +33,7 @@
 5. [“大黄鸭”阔别10年重游香港](https://www.baidu.com/s?wd=%E2%80%9C%E5%A4%A7%E9%BB%84%E9%B8%AD%E2%80%9D%E9%98%94%E5%88%AB10%E5%B9%B4%E9%87%8D%E6%B8%B8%E9%A6%99%E6%B8%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [曝林志玲宣告退出演艺圈](https://www.baidu.com/s?wd=%E6%9B%9D%E6%9E%97%E5%BF%97%E7%8E%B2%E5%AE%A3%E5%91%8A%E9%80%80%E5%87%BA%E6%BC%94%E8%89%BA%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子离婚后想加入儿子班级群被拒](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A6%BB%E5%A9%9A%E5%90%8E%E6%83%B3%E5%8A%A0%E5%85%A5%E5%84%BF%E5%AD%90%E7%8F%AD%E7%BA%A7%E7%BE%A4%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [胖东来荔枝打开全是虫子](https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E8%8D%94%E6%9E%9D%E6%89%93%E5%BC%80%E5%85%A8%E6%98%AF%E8%99%AB%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [医生谎称手术成功致患者身亡](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E8%B0%8E%E7%A7%B0%E6%89%8B%E6%9C%AF%E6%88%90%E5%8A%9F%E8%87%B4%E6%82%A3%E8%80%85%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [林心如谈自己剖腹产后遗症](https://www.baidu.com/s?wd=%E6%9E%97%E5%BF%83%E5%A6%82%E8%B0%88%E8%87%AA%E5%B7%B1%E5%89%96%E8%85%B9%E4%BA%A7%E5%90%8E%E9%81%97%E7%97%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [“大黄鸭”阔别10年重游香港](https://www.baidu.com/s?wd=%E2%80%9C%E5%A4%A7%E9%BB%84%E9%B8%AD%E2%80%9D%E9%98%94%E5%88%AB10%E5%B9%B4%E9%87%8D%E6%B8%B8%E9%A6%99%E6%B8%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [曝林志玲宣告退出演艺圈](https://www.baidu.com/s?wd=%E6%9B%9D%E6%9E%97%E5%BF%97%E7%8E%B2%E5%AE%A3%E5%91%8A%E9%80%80%E5%87%BA%E6%BC%94%E8%89%BA%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子离婚后想加入儿子班级群被拒](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A6%BB%E5%A9%9A%E5%90%8E%E6%83%B3%E5%8A%A0%E5%85%A5%E5%84%BF%E5%AD%90%E7%8F%AD%E7%BA%A7%E7%BE%A4%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [胖东来荔枝打开全是虫子](https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E8%8D%94%E6%9E%9D%E6%89%93%E5%BC%80%E5%85%A8%E6%98%AF%E8%99%AB%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [医生谎称手术成功致患者身亡](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E8%B0%8E%E7%A7%B0%E6%89%8B%E6%9C%AF%E6%88%90%E5%8A%9F%E8%87%B4%E6%82%A3%E8%80%85%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [林心如谈自己剖腹产后遗症](https://www.baidu.com/s?wd=%E6%9E%97%E5%BF%83%E5%A6%82%E8%B0%88%E8%87%AA%E5%B7%B1%E5%89%96%E8%85%B9%E4%BA%A7%E5%90%8E%E9%81%97%E7%97%87&sa=fyb_news&rsv_dl=fyb_news)<br />
