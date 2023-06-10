@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 13:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 13:27:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [牵手门](https://s.weibo.com/weibo?q=%E7%89%B5%E6%89%8B%E9%97%A8&t=31&band_rank=6&Refer=top)<br />
 7. [Amber又是第一](https://s.weibo.com/weibo?q=%23Amber%E5%8F%88%E6%98%AF%E7%AC%AC%E4%B8%80%23&t=31&band_rank=7&Refer=top)<br />
 8. [Jennie 复仇者联盟5](https://s.weibo.com/weibo?q=Jennie%20%E5%A4%8D%E4%BB%87%E8%80%85%E8%81%94%E7%9B%9F5&t=31&band_rank=8&Refer=top)<br />
-9. [陈鑫海怒怼辱国旅客](https://s.weibo.com/weibo?q=%23%E9%99%88%E9%91%AB%E6%B5%B7%E6%80%92%E6%80%BC%E8%BE%B1%E5%9B%BD%E6%97%85%E5%AE%A2%23&t=31&band_rank=9&Refer=top)<br />
+9. [将军Ella居然不是第一](https://s.weibo.com/weibo?q=%E5%B0%86%E5%86%9BElla%E5%B1%85%E7%84%B6%E4%B8%8D%E6%98%AF%E7%AC%AC%E4%B8%80&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -19,7 +19,7 @@
 3. [22-23 赛季 NBA 总决赛掘金再胜热火，3:1 夺赛点，约基奇 23+12，如何评价这场比赛？](https://www.zhihu.com/question/605810724)<br />
 4. [普京称俄罗斯将在准备工作完成后在白俄罗斯部署核武器，此举将对国际局势带来哪些影响？](https://www.zhihu.com/question/605734119)<br />
 5. [如何评价 EDG 紧急引入 Uzi 参赛？](https://www.zhihu.com/question/605595124)<br />
-6. []()<br />
+6. [为什么五大联赛没人签梅西？](https://www.zhihu.com/question/604995546)<br />
 7. [夏天如何吃西瓜更健康？切开的西瓜能放多久？西瓜比其它水果更易坏吗？](https://www.zhihu.com/question/603815528)<br />
 8. [中国人民银行行长称预计二季度 GDP 同比增速会比较高，CPI 下半年有望逐步回升，透露哪些信息？](https://www.zhihu.com/question/605690923)<br />
 9. [如何判定一件商品的正确价格呢？](https://www.zhihu.com/question/605703106)<br />
