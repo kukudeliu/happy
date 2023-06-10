@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 16:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 16:34:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [如果把村超举办成全国性的赛事，有可能会拯救中国足球吗？](https://www.zhihu.com/question/605443065)<br />
 7. [你认为夏天里不可或缺的美食是什么？有什么美食会让你觉得少了它，夏天就不完整了呢？](https://www.zhihu.com/question/605455473)<br />
 8. [你拍过哪些非常有「夏天感」的照片？](https://www.zhihu.com/question/395433195)<br />
-9. [高考失利后该去复读还是上大专？](https://www.zhihu.com/question/600745199)<br />
+9. []()<br />
 
 > 百度  
 
