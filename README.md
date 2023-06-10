@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 19:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 19:09:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [奶奶给高考结束的孙子送花](https://s.weibo.com/weibo?q=%23%E5%A5%B6%E5%A5%B6%E7%BB%99%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E7%9A%84%E5%AD%99%E5%AD%90%E9%80%81%E8%8A%B1%23&t=31&band_rank=5&Refer=top)<br />
 6. [微博电影之夜内场](https://s.weibo.com/weibo?q=%E5%BE%AE%E5%8D%9A%E7%94%B5%E5%BD%B1%E4%B9%8B%E5%A4%9C%E5%86%85%E5%9C%BA&t=31&band_rank=6&Refer=top)<br />
 7. [这才是学医的意义](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%89%8D%E6%98%AF%E5%AD%A6%E5%8C%BB%E7%9A%84%E6%84%8F%E4%B9%89%23&t=31&band_rank=7&Refer=top)<br />
-8. [王一博好贵](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%A5%BD%E8%B4%B5%23&t=31&band_rank=8&Refer=top)<br />
-9. [陈都灵 黑色头巾](https://s.weibo.com/weibo?q=%E9%99%88%E9%83%BD%E7%81%B5%20%E9%BB%91%E8%89%B2%E5%A4%B4%E5%B7%BE&t=31&band_rank=9&Refer=top)<br />
+8. [陈都灵 黑色头巾](https://s.weibo.com/weibo?q=%E9%99%88%E9%83%BD%E7%81%B5%20%E9%BB%91%E8%89%B2%E5%A4%B4%E5%B7%BE&t=31&band_rank=8&Refer=top)<br />
+9. [王一博好贵](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%A5%BD%E8%B4%B5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -20,9 +20,9 @@
 4. [和女友约好出去旅游，她闺蜜也要跟去，怎么办?](https://www.zhihu.com/question/602584344)<br />
 5. [简简单单的数学题目，孩子一考就出错，更正又全会。怎么解？](https://www.zhihu.com/question/604407050)<br />
 6. [上调公积金贷款额度、部分城市房价折扣突破备案价跌幅限制，为何房产市场仍低迷？可能存在哪些问题？](https://www.zhihu.com/question/605669546)<br />
-7. [苏格拉底之死的原因是暴民政治还是极端民主？](https://www.zhihu.com/question/47158468)<br />
-8. [6 月 10 日加密货币大幅下挫，比特币跌近 5%，狗狗币跌超 10%，哪些信息值得关注？](https://www.zhihu.com/question/605851434)<br />
-9. [北上广深等城市出现一批首付几十万的楼盘，对于刚需买房和希望在北京积分落户的人群，此时是否要低门槛上车？](https://www.zhihu.com/question/605671771)<br />
+7. [6 月 10 日加密货币大幅下挫，比特币跌近 5%，狗狗币跌超 10%，哪些信息值得关注？](https://www.zhihu.com/question/605851434)<br />
+8. [北上广深等城市出现一批首付几十万的楼盘，对于刚需买房和希望在北京积分落户的人群，此时是否要低门槛上车？](https://www.zhihu.com/question/605671771)<br />
+9. [苏格拉底之死的原因是暴民政治还是极端民主？](https://www.zhihu.com/question/47158468)<br />
 
 > 百度  
 
@@ -34,7 +34,7 @@
 6. [梅西办手续画面曝光：主打一个老实](https://www.baidu.com/s?wd=%E6%A2%85%E8%A5%BF%E5%8A%9E%E6%89%8B%E7%BB%AD%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89%EF%BC%9A%E4%B8%BB%E6%89%93%E4%B8%80%E4%B8%AA%E8%80%81%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [牵手门带火的裙子已退货2000件](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E5%B8%A6%E7%81%AB%E7%9A%84%E8%A3%99%E5%AD%90%E5%B7%B2%E9%80%80%E8%B4%A72000%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [妻子谎称留学分别与2男子同居](https://www.baidu.com/s?wd=%E5%A6%BB%E5%AD%90%E8%B0%8E%E7%A7%B0%E7%95%99%E5%AD%A6%E5%88%86%E5%88%AB%E4%B8%8E2%E7%94%B7%E5%AD%90%E5%90%8C%E5%B1%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女生拒绝下班后团建第二天被开除](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E6%8B%92%E7%BB%9D%E4%B8%8B%E7%8F%AD%E5%90%8E%E5%9B%A2%E5%BB%BA%E7%AC%AC%E4%BA%8C%E5%A4%A9%E8%A2%AB%E5%BC%80%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [医生谎称手术成功致患者身亡](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E8%B0%8E%E7%A7%B0%E6%89%8B%E6%9C%AF%E6%88%90%E5%8A%9F%E8%87%B4%E6%82%A3%E8%80%85%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [梅西办手续画面曝光：主打一个老实](https://www.baidu.com/s?wd=%E6%A2%85%E8%A5%BF%E5%8A%9E%E6%89%8B%E7%BB%AD%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89%EF%BC%9A%E4%B8%BB%E6%89%93%E4%B8%80%E4%B8%AA%E8%80%81%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [牵手门带火的裙子已退货2000件](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E5%B8%A6%E7%81%AB%E7%9A%84%E8%A3%99%E5%AD%90%E5%B7%B2%E9%80%80%E8%B4%A72000%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [妻子谎称留学分别与2男子同居](https://www.baidu.com/s?wd=%E5%A6%BB%E5%AD%90%E8%B0%8E%E7%A7%B0%E7%95%99%E5%AD%A6%E5%88%86%E5%88%AB%E4%B8%8E2%E7%94%B7%E5%AD%90%E5%90%8C%E5%B1%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女生拒绝下班后团建第二天被开除](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E6%8B%92%E7%BB%9D%E4%B8%8B%E7%8F%AD%E5%90%8E%E5%9B%A2%E5%BB%BA%E7%AC%AC%E4%BA%8C%E5%A4%A9%E8%A2%AB%E5%BC%80%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [医生谎称手术成功致患者身亡](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E8%B0%8E%E7%A7%B0%E6%89%8B%E6%9C%AF%E6%88%90%E5%8A%9F%E8%87%B4%E6%82%A3%E8%80%85%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
