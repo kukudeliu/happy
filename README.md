@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 12:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 12:10:01</h4></div>
 
 > 微博  
 
@@ -6,9 +6,9 @@
 2. [梅西到北京了](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E5%88%B0%E5%8C%97%E4%BA%AC%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [你可以永远相信中国美学](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%8F%AF%E4%BB%A5%E6%B0%B8%E8%BF%9C%E7%9B%B8%E4%BF%A1%E4%B8%AD%E5%9B%BD%E7%BE%8E%E5%AD%A6%23&t=31&band_rank=3&Refer=top)<br />
 4. [Jennie 复仇者联盟5](https://s.weibo.com/weibo?q=Jennie%20%E5%A4%8D%E4%BB%87%E8%80%85%E8%81%94%E7%9B%9F5&t=31&band_rank=4&Refer=top)<br />
-5. [陈鑫海怒怼辱国旅客](https://s.weibo.com/weibo?q=%23%E9%99%88%E9%91%AB%E6%B5%B7%E6%80%92%E6%80%BC%E8%BE%B1%E5%9B%BD%E6%97%85%E5%AE%A2%23&t=31&band_rank=5&Refer=top)<br />
+5. [抑郁女生带患癌爷爷游中国相互治愈](https://s.weibo.com/weibo?q=%23%E6%8A%91%E9%83%81%E5%A5%B3%E7%94%9F%E5%B8%A6%E6%82%A3%E7%99%8C%E7%88%B7%E7%88%B7%E6%B8%B8%E4%B8%AD%E5%9B%BD%E7%9B%B8%E4%BA%92%E6%B2%BB%E6%84%88%23&t=31&band_rank=5&Refer=top)<br />
 6. [牵手门女主疑5个月支出43万](https://s.weibo.com/weibo?q=%23%E7%89%B5%E6%89%8B%E9%97%A8%E5%A5%B3%E4%B8%BB%E7%96%915%E4%B8%AA%E6%9C%88%E6%94%AF%E5%87%BA43%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
-7. [抑郁女生带患癌爷爷游中国相互治愈](https://s.weibo.com/weibo?q=%23%E6%8A%91%E9%83%81%E5%A5%B3%E7%94%9F%E5%B8%A6%E6%82%A3%E7%99%8C%E7%88%B7%E7%88%B7%E6%B8%B8%E4%B8%AD%E5%9B%BD%E7%9B%B8%E4%BA%92%E6%B2%BB%E6%84%88%23&t=31&band_rank=7&Refer=top)<br />
+7. [陈鑫海怒怼辱国旅客](https://s.weibo.com/weibo?q=%23%E9%99%88%E9%91%AB%E6%B5%B7%E6%80%92%E6%80%BC%E8%BE%B1%E5%9B%BD%E6%97%85%E5%AE%A2%23&t=31&band_rank=7&Refer=top)<br />
 8. [老人突发脑梗发现医生隐瞒未植入支架](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E7%AA%81%E5%8F%91%E8%84%91%E6%A2%97%E5%8F%91%E7%8E%B0%E5%8C%BB%E7%94%9F%E9%9A%90%E7%9E%92%E6%9C%AA%E6%A4%8D%E5%85%A5%E6%94%AF%E6%9E%B6%23&t=31&band_rank=8&Refer=top)<br />
 9. [leave女友发文](https://s.weibo.com/weibo?q=leave%E5%A5%B3%E5%8F%8B%E5%8F%91%E6%96%87&t=31&band_rank=9&Refer=top)<br />
 
@@ -17,8 +17,8 @@
 1. [我国汽车出口额首次超过手机，二手车出口业务大涨，一些新能源二手车出口均价已超一万美元，这意味着什么？](https://www.zhihu.com/question/605536890)<br />
 2. [我看见一程序员，电脑里只有一个巨大的 C 盘，谁能解释解释？](https://www.zhihu.com/question/605106173)<br />
 3. [22-23 赛季 NBA 总决赛掘金再胜热火，3:1 夺赛点，约基奇 23+12，如何评价这场比赛？](https://www.zhihu.com/question/605810724)<br />
-4. [如何看待《英雄联盟》主播刘谋在直播中因啃老话题与水友发生的讨论？](https://www.zhihu.com/question/605625422)<br />
-5. [普京称俄罗斯将在准备工作完成后在白俄罗斯部署核武器，此举将对国际局势带来哪些影响？](https://www.zhihu.com/question/605734119)<br />
+4. [普京称俄罗斯将在准备工作完成后在白俄罗斯部署核武器，此举将对国际局势带来哪些影响？](https://www.zhihu.com/question/605734119)<br />
+5. [如何看待《英雄联盟》主播刘谋在直播中因啃老话题与水友发生的讨论？](https://www.zhihu.com/question/605625422)<br />
 6. [苹果将 Vision Pro 首年销售目标下调至 15 万台，或因售价过高和产能限制，商业上如何解读？](https://www.zhihu.com/question/605636647)<br />
 7. [假如你买彩票中了一千万，你会辞掉现在的工作吗?](https://www.zhihu.com/question/605637369)<br />
 8. [如何看待专家称「美元地位短期内难以撼动」？如何解读当前的「去美元化」热潮?](https://www.zhihu.com/question/605619387)<br />
