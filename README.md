@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 18:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 18:37:01</h4></div>
 
 > 微博  
 
@@ -20,8 +20,8 @@
 4. [刻在人类基因中里的禁令有哪些？](https://www.zhihu.com/question/602124752)<br />
 5. [美媒密集放风称，美国务卿布林肯将于 6 月 18 日访华，如何评价信息的真实性？对中美关系有何影响？](https://www.zhihu.com/question/605841889)<br />
 6. [二十万的轿车跟四十万的轿车究竟差别在哪里？](https://www.zhihu.com/question/343791192)<br />
-7. [一患者因脑梗去世，医生承认此前未成功植入脑血管支架并隐瞒，两者是否存在因果关系？医生应承担哪些责任？](https://www.zhihu.com/question/605823854)<br />
-8. [苏格拉底之死的原因是暴民政治还是极端民主？](https://www.zhihu.com/question/47158468)<br />
+7. [苏格拉底之死的原因是暴民政治还是极端民主？](https://www.zhihu.com/question/47158468)<br />
+8. [一患者因脑梗去世，医生承认此前未成功植入脑血管支架并隐瞒，两者是否存在因果关系？医生应承担哪些责任？](https://www.zhihu.com/question/605823854)<br />
 9. [简简单单的数学题目，孩子一考就出错，更正又全会。怎么解？](https://www.zhihu.com/question/604407050)<br />
 
 > 百度  
