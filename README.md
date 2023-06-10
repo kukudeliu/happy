@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 18:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 18:43:01</h4></div>
 
 > 微博  
 
@@ -16,8 +16,8 @@
 
 1. [Uzi 重新连接加盟 EDG 战队，对此你有什么想说？](https://www.zhihu.com/question/605850971)<br />
 2. [「鼠头鸭脖」事件进展，江西成立「江西工职院 6·1 食品安全事件」联合调查组，有哪些影响？将如何发展？](https://www.zhihu.com/question/605866370)<br />
-3. [我国汽车出口额首次超过手机，二手车出口业务大涨，一些新能源二手车出口均价已超一万美元，这意味着什么？](https://www.zhihu.com/question/605536890)<br />
-4. [刻在人类基因中里的禁令有哪些？](https://www.zhihu.com/question/602124752)<br />
+3. [刻在人类基因中里的禁令有哪些？](https://www.zhihu.com/question/602124752)<br />
+4. [我国汽车出口额首次超过手机，二手车出口业务大涨，一些新能源二手车出口均价已超一万美元，这意味着什么？](https://www.zhihu.com/question/605536890)<br />
 5. [美媒密集放风称，美国务卿布林肯将于 6 月 18 日访华，如何评价信息的真实性？对中美关系有何影响？](https://www.zhihu.com/question/605841889)<br />
 6. [二十万的轿车跟四十万的轿车究竟差别在哪里？](https://www.zhihu.com/question/343791192)<br />
 7. [苏格拉底之死的原因是暴民政治还是极端民主？](https://www.zhihu.com/question/47158468)<br />
