@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 20:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 20:28:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [曝林志玲宣告退出演艺圈](https://www.baidu.com/s?wd=%E6%9B%9D%E6%9E%97%E5%BF%97%E7%8E%B2%E5%AE%A3%E5%91%8A%E9%80%80%E5%87%BA%E6%BC%94%E8%89%BA%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [医生谎称手术成功致患者身亡](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E8%B0%8E%E7%A7%B0%E6%89%8B%E6%9C%AF%E6%88%90%E5%8A%9F%E8%87%B4%E6%82%A3%E8%80%85%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [新生儿被盖死亡证明章 医院道歉](https://www.baidu.com/s?wd=%E6%96%B0%E7%94%9F%E5%84%BF%E8%A2%AB%E7%9B%96%E6%AD%BB%E4%BA%A1%E8%AF%81%E6%98%8E%E7%AB%A0+%E5%8C%BB%E9%99%A2%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [三星堆顶尊人像找到神兽坐骑了](https://www.baidu.com/s?wd=%E4%B8%89%E6%98%9F%E5%A0%86%E9%A1%B6%E5%B0%8A%E4%BA%BA%E5%83%8F%E6%89%BE%E5%88%B0%E7%A5%9E%E5%85%BD%E5%9D%90%E9%AA%91%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女生拒绝下班后团建第二天被开除](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E6%8B%92%E7%BB%9D%E4%B8%8B%E7%8F%AD%E5%90%8E%E5%9B%A2%E5%BB%BA%E7%AC%AC%E4%BA%8C%E5%A4%A9%E8%A2%AB%E5%BC%80%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [曝林志玲宣告退出演艺圈](https://www.baidu.com/s?wd=%E6%9B%9D%E6%9E%97%E5%BF%97%E7%8E%B2%E5%AE%A3%E5%91%8A%E9%80%80%E5%87%BA%E6%BC%94%E8%89%BA%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [医生谎称手术成功致患者身亡](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E8%B0%8E%E7%A7%B0%E6%89%8B%E6%9C%AF%E6%88%90%E5%8A%9F%E8%87%B4%E6%82%A3%E8%80%85%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [新生儿被盖死亡证明章 医院道歉](https://www.baidu.com/s?wd=%E6%96%B0%E7%94%9F%E5%84%BF%E8%A2%AB%E7%9B%96%E6%AD%BB%E4%BA%A1%E8%AF%81%E6%98%8E%E7%AB%A0+%E5%8C%BB%E9%99%A2%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [三星堆顶尊人像找到神兽坐骑了](https://www.baidu.com/s?wd=%E4%B8%89%E6%98%9F%E5%A0%86%E9%A1%B6%E5%B0%8A%E4%BA%BA%E5%83%8F%E6%89%BE%E5%88%B0%E7%A5%9E%E5%85%BD%E5%9D%90%E9%AA%91%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女生拒绝下班后团建第二天被开除](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E6%8B%92%E7%BB%9D%E4%B8%8B%E7%8F%AD%E5%90%8E%E5%9B%A2%E5%BB%BA%E7%AC%AC%E4%BA%8C%E5%A4%A9%E8%A2%AB%E5%BC%80%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
