@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 19:11:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 19:12:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [梅西办手续画面曝光：主打一个老实](https://www.baidu.com/s?wd=%E6%A2%85%E8%A5%BF%E5%8A%9E%E6%89%8B%E7%BB%AD%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89%EF%BC%9A%E4%B8%BB%E6%89%93%E4%B8%80%E4%B8%AA%E8%80%81%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [牵手门带火的裙子已退货2000件](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E5%B8%A6%E7%81%AB%E7%9A%84%E8%A3%99%E5%AD%90%E5%B7%B2%E9%80%80%E8%B4%A72000%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [妻子谎称留学分别与2男子同居](https://www.baidu.com/s?wd=%E5%A6%BB%E5%AD%90%E8%B0%8E%E7%A7%B0%E7%95%99%E5%AD%A6%E5%88%86%E5%88%AB%E4%B8%8E2%E7%94%B7%E5%AD%90%E5%90%8C%E5%B1%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [医生谎称手术成功致患者身亡](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E8%B0%8E%E7%A7%B0%E6%89%8B%E6%9C%AF%E6%88%90%E5%8A%9F%E8%87%B4%E6%82%A3%E8%80%85%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女生拒绝下班后团建第二天被开除](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E6%8B%92%E7%BB%9D%E4%B8%8B%E7%8F%AD%E5%90%8E%E5%9B%A2%E5%BB%BA%E7%AC%AC%E4%BA%8C%E5%A4%A9%E8%A2%AB%E5%BC%80%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [梅西办手续画面曝光：主打一个老实](https://www.baidu.com/s?wd=%E6%A2%85%E8%A5%BF%E5%8A%9E%E6%89%8B%E7%BB%AD%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89%EF%BC%9A%E4%B8%BB%E6%89%93%E4%B8%80%E4%B8%AA%E8%80%81%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [牵手门带火的裙子已退货2000件](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E5%B8%A6%E7%81%AB%E7%9A%84%E8%A3%99%E5%AD%90%E5%B7%B2%E9%80%80%E8%B4%A72000%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [妻子谎称留学分别与2男子同居](https://www.baidu.com/s?wd=%E5%A6%BB%E5%AD%90%E8%B0%8E%E7%A7%B0%E7%95%99%E5%AD%A6%E5%88%86%E5%88%AB%E4%B8%8E2%E7%94%B7%E5%AD%90%E5%90%8C%E5%B1%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [医生谎称手术成功致患者身亡](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E8%B0%8E%E7%A7%B0%E6%89%8B%E6%9C%AF%E6%88%90%E5%8A%9F%E8%87%B4%E6%82%A3%E8%80%85%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女生拒绝下班后团建第二天被开除](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E6%8B%92%E7%BB%9D%E4%B8%8B%E7%8F%AD%E5%90%8E%E5%9B%A2%E5%BB%BA%E7%AC%AC%E4%BA%8C%E5%A4%A9%E8%A2%AB%E5%BC%80%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
