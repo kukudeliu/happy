@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 08:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 08:14:02</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [高校学费告别5000元时代](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E5%AD%A6%E8%B4%B9%E5%91%8A%E5%88%AB5000%E5%85%83%E6%97%B6%E4%BB%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [“牵手门”连衣裙卖家呼吁理性消费](https://www.baidu.com/s?wd=%E2%80%9C%E7%89%B5%E6%89%8B%E9%97%A8%E2%80%9D%E8%BF%9E%E8%A1%A3%E8%A3%99%E5%8D%96%E5%AE%B6%E5%91%BC%E5%90%81%E7%90%86%E6%80%A7%E6%B6%88%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [牵手门持续发酵 还有几点疑问待解](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E6%8C%81%E7%BB%AD%E5%8F%91%E9%85%B5+%E8%BF%98%E6%9C%89%E5%87%A0%E7%82%B9%E7%96%91%E9%97%AE%E5%BE%85%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [两名乌军摸到俄军阵地投降](https://www.baidu.com/s?wd=%E4%B8%A4%E5%90%8D%E4%B9%8C%E5%86%9B%E6%91%B8%E5%88%B0%E4%BF%84%E5%86%9B%E9%98%B5%E5%9C%B0%E6%8A%95%E9%99%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [3岁男孩患象鼻病全球仅34例](https://www.baidu.com/s?wd=3%E5%B2%81%E7%94%B7%E5%AD%A9%E6%82%A3%E8%B1%A1%E9%BC%BB%E7%97%85%E5%85%A8%E7%90%83%E4%BB%8534%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [学生抬着老师冲出考场](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E6%8A%AC%E7%9D%80%E8%80%81%E5%B8%88%E5%86%B2%E5%87%BA%E8%80%83%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [两名乌军摸到俄军阵地投降](https://www.baidu.com/s?wd=%E4%B8%A4%E5%90%8D%E4%B9%8C%E5%86%9B%E6%91%B8%E5%88%B0%E4%BF%84%E5%86%9B%E9%98%B5%E5%9C%B0%E6%8A%95%E9%99%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [高校学费告别5000元时代](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E5%AD%A6%E8%B4%B9%E5%91%8A%E5%88%AB5000%E5%85%83%E6%97%B6%E4%BB%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [“牵手门”连衣裙卖家呼吁理性消费](https://www.baidu.com/s?wd=%E2%80%9C%E7%89%B5%E6%89%8B%E9%97%A8%E2%80%9D%E8%BF%9E%E8%A1%A3%E8%A3%99%E5%8D%96%E5%AE%B6%E5%91%BC%E5%90%81%E7%90%86%E6%80%A7%E6%B6%88%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [牵手门持续发酵 还有几点疑问待解](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E6%8C%81%E7%BB%AD%E5%8F%91%E9%85%B5+%E8%BF%98%E6%9C%89%E5%87%A0%E7%82%B9%E7%96%91%E9%97%AE%E5%BE%85%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [两名乌军摸到俄军阵地投降](https://www.baidu.com/s?wd=%E4%B8%A4%E5%90%8D%E4%B9%8C%E5%86%9B%E6%91%B8%E5%88%B0%E4%BF%84%E5%86%9B%E9%98%B5%E5%9C%B0%E6%8A%95%E9%99%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [3岁男孩患象鼻病全球仅34例](https://www.baidu.com/s?wd=3%E5%B2%81%E7%94%B7%E5%AD%A9%E6%82%A3%E8%B1%A1%E9%BC%BB%E7%97%85%E5%85%A8%E7%90%83%E4%BB%8534%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [学生抬着老师冲出考场](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E6%8A%AC%E7%9D%80%E8%80%81%E5%B8%88%E5%86%B2%E5%87%BA%E8%80%83%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [两名乌军摸到俄军阵地投降](https://www.baidu.com/s?wd=%E4%B8%A4%E5%90%8D%E4%B9%8C%E5%86%9B%E6%91%B8%E5%88%B0%E4%BF%84%E5%86%9B%E9%98%B5%E5%9C%B0%E6%8A%95%E9%99%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
