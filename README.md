@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 13:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-10 13:01:01</h4></div>
 
 > 微博  
 
@@ -19,10 +19,10 @@
 3. [22-23 赛季 NBA 总决赛掘金再胜热火，3:1 夺赛点，约基奇 23+12，如何评价这场比赛？](https://www.zhihu.com/question/605810724)<br />
 4. [普京称俄罗斯将在准备工作完成后在白俄罗斯部署核武器，此举将对国际局势带来哪些影响？](https://www.zhihu.com/question/605734119)<br />
 5. [22-23 赛季 NBA 总决赛 G4 热火 95：108 掘金，掘金大比分 3：1 领先热火，如何评价这场比赛？](https://www.zhihu.com/question/605821911)<br />
-6. [有什么是你去了马来西亚才知道的事情？](https://www.zhihu.com/question/294912886)<br />
-7. [夏天如何吃西瓜更健康？切开的西瓜能放多久？西瓜比其它水果更易坏吗？](https://www.zhihu.com/question/603815528)<br />
-8. [中国人民银行行长称预计二季度 GDP 同比增速会比较高，CPI 下半年有望逐步回升，透露哪些信息？](https://www.zhihu.com/question/605690923)<br />
-9. [如何评价《奔跑吧》第七季第八期《天姥奇谭》？](https://www.zhihu.com/question/605715835)<br />
+6. [夏天如何吃西瓜更健康？切开的西瓜能放多久？西瓜比其它水果更易坏吗？](https://www.zhihu.com/question/603815528)<br />
+7. [中国人民银行行长称预计二季度 GDP 同比增速会比较高，CPI 下半年有望逐步回升，透露哪些信息？](https://www.zhihu.com/question/605690923)<br />
+8. [如何评价《奔跑吧》第七季第八期《天姥奇谭》？](https://www.zhihu.com/question/605715835)<br />
+9. [如何判定一件商品的正确价格呢？](https://www.zhihu.com/question/605703106)<br />
 
 > 百度  
 
