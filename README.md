@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 05:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 05:40:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [文化和自然遗产冷知识](https://s.weibo.com/weibo?q=%23%E6%96%87%E5%8C%96%E5%92%8C%E8%87%AA%E7%84%B6%E9%81%97%E4%BA%A7%E5%86%B7%E7%9F%A5%E8%AF%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [曼城](https://s.weibo.com/weibo?q=%E6%9B%BC%E5%9F%8E&t=31&band_rank=4&Refer=top)<br />
 5. [哥伦比亚飞机失事 40天野外求生奇迹](https://s.weibo.com/weibo?q=%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E9%A3%9E%E6%9C%BA%E5%A4%B1%E4%BA%8B%2040%E5%A4%A9%E9%87%8E%E5%A4%96%E6%B1%82%E7%94%9F%E5%A5%87%E8%BF%B9&t=31&band_rank=5&Refer=top)<br />
-6. [曼城1比0国际米兰](https://s.weibo.com/weibo?q=%23%E6%9B%BC%E5%9F%8E1%E6%AF%940%E5%9B%BD%E9%99%85%E7%B1%B3%E5%85%B0%23&t=31&band_rank=6&Refer=top)<br />
-7. [日本突然声称核污水危害健康](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%AA%81%E7%84%B6%E5%A3%B0%E7%A7%B0%E6%A0%B8%E6%B1%A1%E6%B0%B4%E5%8D%B1%E5%AE%B3%E5%81%A5%E5%BA%B7%23&t=31&band_rank=7&Refer=top)<br />
+6. [日本突然声称核污水危害健康](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%AA%81%E7%84%B6%E5%A3%B0%E7%A7%B0%E6%A0%B8%E6%B1%A1%E6%B0%B4%E5%8D%B1%E5%AE%B3%E5%81%A5%E5%BA%B7%23&t=31&band_rank=6&Refer=top)<br />
+7. [曼城1比0国际米兰](https://s.weibo.com/weibo?q=%23%E6%9B%BC%E5%9F%8E1%E6%AF%940%E5%9B%BD%E9%99%85%E7%B1%B3%E5%85%B0%23&t=31&band_rank=7&Refer=top)<br />
 8. [牵手门带火的裙子已退货2000件](https://s.weibo.com/weibo?q=%23%E7%89%B5%E6%89%8B%E9%97%A8%E5%B8%A6%E7%81%AB%E7%9A%84%E8%A3%99%E5%AD%90%E5%B7%B2%E9%80%80%E8%B4%A72000%E4%BB%B6%23&t=31&band_rank=8&Refer=top)<br />
-9. [曼城夺得欧冠冠军](https://s.weibo.com/weibo?q=%23%E6%9B%BC%E5%9F%8E%E5%A4%BA%E5%BE%97%E6%AC%A7%E5%86%A0%E5%86%A0%E5%86%9B%23&t=31&band_rank=9&Refer=top)<br />
+9. [珠峰被救女子不付救援费背后](https://s.weibo.com/weibo?q=%23%E7%8F%A0%E5%B3%B0%E8%A2%AB%E6%95%91%E5%A5%B3%E5%AD%90%E4%B8%8D%E4%BB%98%E6%95%91%E6%8F%B4%E8%B4%B9%E8%83%8C%E5%90%8E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -20,9 +20,9 @@
 4. [美媒密集放风称，美国务卿布林肯将于 6 月 18 日访华，如何评价信息的真实性？对中美关系有何影响？](https://www.zhihu.com/question/605841889)<br />
 5. []()<br />
 6. [如果可以穿越回到任何一届欧冠决赛，让你成为场边指挥的主教练，你最希望去改变哪一场结果？](https://www.zhihu.com/question/605814592)<br />
-7. [理论上古代只要把四书五经背熟了就能考上状元，为什么多数人却连个秀才都考不中呢？](https://www.zhihu.com/question/599169937)<br />
-8. [和女友约好出去旅游，她闺蜜也要跟去，怎么办?](https://www.zhihu.com/question/602584344)<br />
-9. []()<br />
+7. []()<br />
+8. [天津津南区八里台镇局部地面沉降，专家初步判断为突发地质灾害，周围居民何时能回家？后续是否有补偿措施？](https://www.zhihu.com/question/605551160)<br />
+9. [理论上古代只要把四书五经背熟了就能考上状元，为什么多数人却连个秀才都考不中呢？](https://www.zhihu.com/question/599169937)<br />
 
 > 百度  
 
