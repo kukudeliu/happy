@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 12:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 12:19:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [唐九洲奶奶](https://s.weibo.com/weibo?q=%E5%94%90%E4%B9%9D%E6%B4%B2%E5%A5%B6%E5%A5%B6&t=31&band_rank=4&Refer=top)<br />
 5. [TFBOYS演唱会被写投诉信](https://s.weibo.com/weibo?q=%23TFBOYS%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E5%86%99%E6%8A%95%E8%AF%89%E4%BF%A1%23&t=31&band_rank=5&Refer=top)<br />
 6. [私拆承重墙事件最新通报](https://s.weibo.com/weibo?q=%23%E7%A7%81%E6%8B%86%E6%89%BF%E9%87%8D%E5%A2%99%E4%BA%8B%E4%BB%B6%E6%9C%80%E6%96%B0%E9%80%9A%E6%8A%A5%23&t=31&band_rank=6&Refer=top)<br />
-7. [张凌赫工作室宣布停更一周](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%AE%A3%E5%B8%83%E5%81%9C%E6%9B%B4%E4%B8%80%E5%91%A8%23&t=31&band_rank=7&Refer=top)<br />
-8. [专家称年轻人不想生成本高并非主因](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8D%E6%83%B3%E7%94%9F%E6%88%90%E6%9C%AC%E9%AB%98%E5%B9%B6%E9%9D%9E%E4%B8%BB%E5%9B%A0%23&t=31&band_rank=8&Refer=top)<br />
-9. [老板谈上4休3工作制1个月后效果](https://s.weibo.com/weibo?q=%23%E8%80%81%E6%9D%BF%E8%B0%88%E4%B8%8A4%E4%BC%913%E5%B7%A5%E4%BD%9C%E5%88%B61%E4%B8%AA%E6%9C%88%E5%90%8E%E6%95%88%E6%9E%9C%23&t=31&band_rank=9&Refer=top)<br />
+7. [专家称年轻人不想生成本高并非主因](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8D%E6%83%B3%E7%94%9F%E6%88%90%E6%9C%AC%E9%AB%98%E5%B9%B6%E9%9D%9E%E4%B8%BB%E5%9B%A0%23&t=31&band_rank=7&Refer=top)<br />
+8. [张凌赫工作室宣布停更一周](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%AE%A3%E5%B8%83%E5%81%9C%E6%9B%B4%E4%B8%80%E5%91%A8%23&t=31&band_rank=8&Refer=top)<br />
+9. [你当明星会被扒出什么黑料](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%BD%93%E6%98%8E%E6%98%9F%E4%BC%9A%E8%A2%AB%E6%89%92%E5%87%BA%E4%BB%80%E4%B9%88%E9%BB%91%E6%96%99%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -18,11 +18,11 @@
 2. [ChatGPT 之父中国对话引用《道德经》，谈到大国分歧与 AGI 时间表，哪些内容值得关注？](https://www.zhihu.com/question/605868976)<br />
 3. [为什么有人说苹果手机是「老年机之王」？](https://www.zhihu.com/question/605508210)<br />
 4. [历史上诸葛亮的妻子黄月英真的是个丑女吗？](https://www.zhihu.com/question/604680673)<br />
-5. [华为已获得「问界」汽车类商标，余承东称华为不造车是不单独造车，而是和车企联合造车，商业上如何解读？](https://www.zhihu.com/question/605886083)<br />
-6. [每天练四个小时的钢琴，三年后会达到什么水准？](https://www.zhihu.com/question/441420543)<br />
-7. [家境不好适合学金融吗?](https://www.zhihu.com/question/605789223)<br />
+5. [每天练四个小时的钢琴，三年后会达到什么水准？](https://www.zhihu.com/question/441420543)<br />
+6. [家境不好适合学金融吗?](https://www.zhihu.com/question/605789223)<br />
+7. [华为已获得「问界」汽车类商标，余承东称华为不造车是不单独造车，而是和车企联合造车，商业上如何解读？](https://www.zhihu.com/question/605886083)<br />
 8. [为什么很多人分不清「堂」和「表」？](https://www.zhihu.com/question/62486075)<br />
-9. [宫崎骏的《天空之城》的女主，为什么不指挥机器人赶走军队、穆斯卡、海盗？](https://www.zhihu.com/question/604870316)<br />
+9. [为何有些人失业时间久了，就不想上班了？](https://www.zhihu.com/question/605617857)<br />
 
 > 百度  
 
