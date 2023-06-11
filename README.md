@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 00:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 00:52:02</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [深圳的氛围真的都是大家都在搞钱吗？](https://www.zhihu.com/question/512330743)<br />
 7. [自然健身肌肉最大可以练成什么样子？](https://www.zhihu.com/question/599380271)<br />
 8. [高考 700 分和存款 700 万，你选择哪个？](https://www.zhihu.com/question/605422526)<br />
-9. [每到大促，为什么年龄越大，越感觉没什么可买的？](https://www.zhihu.com/question/605463752)<br />
+9. [如何评价仙剑手游《新仙剑奇侠传之挥剑问情》，它在《仙剑》系列里会是什么定位? 对此你有哪些期待？](https://www.zhihu.com/question/605524413)<br />
 
 > 百度  
 
