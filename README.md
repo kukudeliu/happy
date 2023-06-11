@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 18:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 18:38:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [北京政法职业学院发布情况通报](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%94%BF%E6%B3%95%E8%81%8C%E4%B8%9A%E5%AD%A6%E9%99%A2%E5%8F%91%E5%B8%83%E6%83%85%E5%86%B5%E9%80%9A%E6%8A%A5%23&t=31&band_rank=6&Refer=top)<br />
 7. [女子瘫痪后欲轻生丈夫用爱唤回](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%98%AB%E7%97%AA%E5%90%8E%E6%AC%B2%E8%BD%BB%E7%94%9F%E4%B8%88%E5%A4%AB%E7%94%A8%E7%88%B1%E5%94%A4%E5%9B%9E%23&t=31&band_rank=7&Refer=top)<br />
 8. [张雨绮说699我都买不了袜子](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%A8%E7%BB%AE%E8%AF%B4699%E6%88%91%E9%83%BD%E4%B9%B0%E4%B8%8D%E4%BA%86%E8%A2%9C%E5%AD%90%23&t=31&band_rank=8&Refer=top)<br />
-9. [网友评的四大女演贝](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E8%AF%84%E7%9A%84%E5%9B%9B%E5%A4%A7%E5%A5%B3%E6%BC%94%E8%B4%9D%23&t=31&band_rank=9&Refer=top)<br />
+9. [梅西见面会取消](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%A7%81%E9%9D%A2%E4%BC%9A%E5%8F%96%E6%B6%88%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -20,7 +20,7 @@
 4. [如何评价《变形金刚：超能勇士崛起》？](https://www.zhihu.com/question/605098353)<br />
 5. [男子辞去上海月薪 2 万的工作，在家当「全职儿子」，父母每月开工资 5500 元，如何看待这一现象？](https://www.zhihu.com/question/605994770)<br />
 6. [电影《变形金刚：超能勇士崛起》中有哪些槽点？](https://www.zhihu.com/question/605643067)<br />
-7. []()<br />
+7. [年轻人赶高铁跨省存钱，扣除交通费后存 10 万可多出 1250 元利息，如何看待这种理财方式？](https://www.zhihu.com/question/606011560)<br />
 8. [欧洲足坛十大「三冠王」球队，你认为哪队最具统治力，巴萨六冠王还是宇宙最强吗？](https://www.zhihu.com/question/605978412)<br />
 9. [作者怎么知道自己有没有和别人撞脑洞？](https://www.zhihu.com/question/603524895)<br />
 
@@ -33,7 +33,7 @@
 5. [699买不了袜子 张雨绮直播惹争议](https://www.baidu.com/s?wd=699%E4%B9%B0%E4%B8%8D%E4%BA%86%E8%A2%9C%E5%AD%90+%E5%BC%A0%E9%9B%A8%E7%BB%AE%E7%9B%B4%E6%92%AD%E6%83%B9%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [都给马思纯p成啥样了](https://www.baidu.com/s?wd=%E9%83%BD%E7%BB%99%E9%A9%AC%E6%80%9D%E7%BA%AFp%E6%88%90%E5%95%A5%E6%A0%B7%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [多名实业大佬“抄底”房地产](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E5%AE%9E%E4%B8%9A%E5%A4%A7%E4%BD%AC%E2%80%9C%E6%8A%84%E5%BA%95%E2%80%9D%E6%88%BF%E5%9C%B0%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [武汉撞学生老师父母系厅官?当地回应](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E6%92%9E%E5%AD%A6%E7%94%9F%E8%80%81%E5%B8%88%E7%88%B6%E6%AF%8D%E7%B3%BB%E5%8E%85%E5%AE%98%3F%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [张雨绮道歉](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%A8%E7%BB%AE%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [范丞丞王鹤棣把白鹿扔水里了](https://www.baidu.com/s?wd=%E8%8C%83%E4%B8%9E%E4%B8%9E%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%8A%8A%E7%99%BD%E9%B9%BF%E6%89%94%E6%B0%B4%E9%87%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [699买不了袜子 张雨绮直播惹争议](https://www.baidu.com/s?wd=699%E4%B9%B0%E4%B8%8D%E4%BA%86%E8%A2%9C%E5%AD%90+%E5%BC%A0%E9%9B%A8%E7%BB%AE%E7%9B%B4%E6%92%AD%E6%83%B9%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [都给马思纯p成啥样了](https://www.baidu.com/s?wd=%E9%83%BD%E7%BB%99%E9%A9%AC%E6%80%9D%E7%BA%AFp%E6%88%90%E5%95%A5%E6%A0%B7%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [多名实业大佬“抄底”房地产](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E5%AE%9E%E4%B8%9A%E5%A4%A7%E4%BD%AC%E2%80%9C%E6%8A%84%E5%BA%95%E2%80%9D%E6%88%BF%E5%9C%B0%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [武汉撞学生老师父母系厅官?当地回应](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E6%92%9E%E5%AD%A6%E7%94%9F%E8%80%81%E5%B8%88%E7%88%B6%E6%AF%8D%E7%B3%BB%E5%8E%85%E5%AE%98%3F%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [张雨绮道歉](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%A8%E7%BB%AE%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [范丞丞王鹤棣把白鹿扔水里了](https://www.baidu.com/s?wd=%E8%8C%83%E4%B8%9E%E4%B8%9E%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%8A%8A%E7%99%BD%E9%B9%BF%E6%89%94%E6%B0%B4%E9%87%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
