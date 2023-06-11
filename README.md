@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 11:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 11:25:02</h4></div>
 
 > 微博  
 
-1. [拍婚纱照发朋友圈被同事教育](https://s.weibo.com/weibo?q=%23%E6%8B%8D%E5%A9%9A%E7%BA%B1%E7%85%A7%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%88%E8%A2%AB%E5%90%8C%E4%BA%8B%E6%95%99%E8%82%B2%23&t=31&band_rank=1&Refer=top)<br />
-2. [花戎婚礼变葬礼](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E6%88%8E%E5%A9%9A%E7%A4%BC%E5%8F%98%E8%91%AC%E7%A4%BC%23&t=31&band_rank=2&Refer=top)<br />
+1. [花戎婚礼变葬礼](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E6%88%8E%E5%A9%9A%E7%A4%BC%E5%8F%98%E8%91%AC%E7%A4%BC%23&t=31&band_rank=1&Refer=top)<br />
+2. [拍婚纱照发朋友圈被同事教育](https://s.weibo.com/weibo?q=%23%E6%8B%8D%E5%A9%9A%E7%BA%B1%E7%85%A7%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%88%E8%A2%AB%E5%90%8C%E4%BA%8B%E6%95%99%E8%82%B2%23&t=31&band_rank=2&Refer=top)<br />
 3. [文化和自然遗产冷知识](https://s.weibo.com/weibo?q=%23%E6%96%87%E5%8C%96%E5%92%8C%E8%87%AA%E7%84%B6%E9%81%97%E4%BA%A7%E5%86%B7%E7%9F%A5%E8%AF%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [TFBOYS演唱会被写投诉信](https://s.weibo.com/weibo?q=%23TFBOYS%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E5%86%99%E6%8A%95%E8%AF%89%E4%BF%A1%23&t=31&band_rank=4&Refer=top)<br />
 5. [团伙盗墓挖出龙袍网上售卖](https://s.weibo.com/weibo?q=%23%E5%9B%A2%E4%BC%99%E7%9B%97%E5%A2%93%E6%8C%96%E5%87%BA%E9%BE%99%E8%A2%8D%E7%BD%91%E4%B8%8A%E5%94%AE%E5%8D%96%23&t=31&band_rank=5&Refer=top)<br />
