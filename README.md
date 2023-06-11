@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 22:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 22:51:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [迪丽热巴蝴蝶骨好明显](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%9D%B4%E8%9D%B6%E9%AA%A8%E5%A5%BD%E6%98%8E%E6%98%BE%23&t=31&band_rank=6&Refer=top)<br />
 7. [张雨绮说699我都买不了袜子](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%A8%E7%BB%AE%E8%AF%B4699%E6%88%91%E9%83%BD%E4%B9%B0%E4%B8%8D%E4%BA%86%E8%A2%9C%E5%AD%90%23&t=31&band_rank=7&Refer=top)<br />
 8. [Weiwei 886](https://s.weibo.com/weibo?q=Weiwei%20886&t=31&band_rank=8&Refer=top)<br />
-9. [EXO团综](https://s.weibo.com/weibo?q=EXO%E5%9B%A2%E7%BB%BC&t=31&band_rank=9&Refer=top)<br />
+9. [胡锡进说应接受曝光大叔女子的道歉](https://s.weibo.com/weibo?q=%23%E8%83%A1%E9%94%A1%E8%BF%9B%E8%AF%B4%E5%BA%94%E6%8E%A5%E5%8F%97%E6%9B%9D%E5%85%89%E5%A4%A7%E5%8F%94%E5%A5%B3%E5%AD%90%E7%9A%84%E9%81%93%E6%AD%89%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [我国 5 月 CPI 同比上升 0.2%，PPI 同比下降 4.6%，如何解读？哪些信息值得关注？](https://www.zhihu.com/question/605623897)<br />
 7. [孩子严重烫伤 9 天才送医院，爸爸称「没必要」拒绝手术，现孩子被家长安排自行出院，如何看待家长行为？](https://www.zhihu.com/question/604863474)<br />
 8. [如果回到高考后，你会复读吗？](https://www.zhihu.com/question/604091519)<br />
-9. [高考完是考驾照还是打工？](https://www.zhihu.com/question/605630474)<br />
+9. [大脑能耗很高，为什么没有多动脑子的减肥方法？](https://www.zhihu.com/question/596469703)<br />
 
 > 百度  
 
