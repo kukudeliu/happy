@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 13:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 13:52:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [香港大黄鸭被热爆一只](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%A4%A7%E9%BB%84%E9%B8%AD%E8%A2%AB%E7%83%AD%E7%88%86%E4%B8%80%E5%8F%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [50多条锦鲤首尾相连“龙形游”](https://www.baidu.com/s?wd=50%E5%A4%9A%E6%9D%A1%E9%94%A6%E9%B2%A4%E9%A6%96%E5%B0%BE%E7%9B%B8%E8%BF%9E%E2%80%9C%E9%BE%99%E5%BD%A2%E6%B8%B8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子操纵201个股票账户 被罚2亿](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%93%8D%E7%BA%B5201%E4%B8%AA%E8%82%A1%E7%A5%A8%E8%B4%A6%E6%88%B7+%E8%A2%AB%E7%BD%9A2%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [安徽12级大风刮倒龙门吊致3死](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD12%E7%BA%A7%E5%A4%A7%E9%A3%8E%E5%88%AE%E5%80%92%E9%BE%99%E9%97%A8%E5%90%8A%E8%87%B43%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [醉汉买瓜因不满沙瓤夺刀捅自己](https://www.baidu.com/s?wd=%E9%86%89%E6%B1%89%E4%B9%B0%E7%93%9C%E5%9B%A0%E4%B8%8D%E6%BB%A1%E6%B2%99%E7%93%A4%E5%A4%BA%E5%88%80%E6%8D%85%E8%87%AA%E5%B7%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [香港大黄鸭被热爆一只](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%A4%A7%E9%BB%84%E9%B8%AD%E8%A2%AB%E7%83%AD%E7%88%86%E4%B8%80%E5%8F%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [50多条锦鲤首尾相连“龙形游”](https://www.baidu.com/s?wd=50%E5%A4%9A%E6%9D%A1%E9%94%A6%E9%B2%A4%E9%A6%96%E5%B0%BE%E7%9B%B8%E8%BF%9E%E2%80%9C%E9%BE%99%E5%BD%A2%E6%B8%B8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子操纵201个股票账户 被罚2亿](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%93%8D%E7%BA%B5201%E4%B8%AA%E8%82%A1%E7%A5%A8%E8%B4%A6%E6%88%B7+%E8%A2%AB%E7%BD%9A2%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [安徽12级大风刮倒龙门吊致3死](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD12%E7%BA%A7%E5%A4%A7%E9%A3%8E%E5%88%AE%E5%80%92%E9%BE%99%E9%97%A8%E5%90%8A%E8%87%B43%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [醉汉买瓜因不满沙瓤夺刀捅自己](https://www.baidu.com/s?wd=%E9%86%89%E6%B1%89%E4%B9%B0%E7%93%9C%E5%9B%A0%E4%B8%8D%E6%BB%A1%E6%B2%99%E7%93%A4%E5%A4%BA%E5%88%80%E6%8D%85%E8%87%AA%E5%B7%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
