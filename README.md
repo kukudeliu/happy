@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 10:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 10:42:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [花戎婚礼变葬礼](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E6%88%8E%E5%A9%9A%E7%A4%BC%E5%8F%98%E8%91%AC%E7%A4%BC%23&t=31&band_rank=2&Refer=top)<br />
 3. [文化和自然遗产冷知识](https://s.weibo.com/weibo?q=%23%E6%96%87%E5%8C%96%E5%92%8C%E8%87%AA%E7%84%B6%E9%81%97%E4%BA%A7%E5%86%B7%E7%9F%A5%E8%AF%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [中铁三局辟谣董事长与女子逛街](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E9%93%81%E4%B8%89%E5%B1%80%E8%BE%9F%E8%B0%A3%E8%91%A3%E4%BA%8B%E9%95%BF%E4%B8%8E%E5%A5%B3%E5%AD%90%E9%80%9B%E8%A1%97%23&t=31&band_rank=4&Refer=top)<br />
-5. [老板谈上4休3工作制1个月后效果](https://s.weibo.com/weibo?q=%23%E8%80%81%E6%9D%BF%E8%B0%88%E4%B8%8A4%E4%BC%913%E5%B7%A5%E4%BD%9C%E5%88%B61%E4%B8%AA%E6%9C%88%E5%90%8E%E6%95%88%E6%9E%9C%23&t=31&band_rank=5&Refer=top)<br />
-6. [专家称年轻人不想生成本高并非主因](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8D%E6%83%B3%E7%94%9F%E6%88%90%E6%9C%AC%E9%AB%98%E5%B9%B6%E9%9D%9E%E4%B8%BB%E5%9B%A0%23&t=31&band_rank=6&Refer=top)<br />
+5. [专家称年轻人不想生成本高并非主因](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8D%E6%83%B3%E7%94%9F%E6%88%90%E6%9C%AC%E9%AB%98%E5%B9%B6%E9%9D%9E%E4%B8%BB%E5%9B%A0%23&t=31&band_rank=5&Refer=top)<br />
+6. [老板谈上4休3工作制1个月后效果](https://s.weibo.com/weibo?q=%23%E8%80%81%E6%9D%BF%E8%B0%88%E4%B8%8A4%E4%BC%913%E5%B7%A5%E4%BD%9C%E5%88%B61%E4%B8%AA%E6%9C%88%E5%90%8E%E6%95%88%E6%9E%9C%23&t=31&band_rank=6&Refer=top)<br />
 7. [TFBOYS演唱会被写投诉信](https://s.weibo.com/weibo?q=%23TFBOYS%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E5%86%99%E6%8A%95%E8%AF%89%E4%BF%A1%23&t=31&band_rank=7&Refer=top)<br />
 8. [林志玲](https://s.weibo.com/weibo?q=%E6%9E%97%E5%BF%97%E7%8E%B2&t=31&band_rank=8&Refer=top)<br />
-9. [醉汉买瓜因不满沙瓤夺刀捅自己](https://s.weibo.com/weibo?q=%23%E9%86%89%E6%B1%89%E4%B9%B0%E7%93%9C%E5%9B%A0%E4%B8%8D%E6%BB%A1%E6%B2%99%E7%93%A4%E5%A4%BA%E5%88%80%E6%8D%85%E8%87%AA%E5%B7%B1%23&t=31&band_rank=9&Refer=top)<br />
+9. [团伙盗墓挖出龙袍网上售卖](https://s.weibo.com/weibo?q=%23%E5%9B%A2%E4%BC%99%E7%9B%97%E5%A2%93%E6%8C%96%E5%87%BA%E9%BE%99%E8%A2%8D%E7%BD%91%E4%B8%8A%E5%94%AE%E5%8D%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [为什么在许多人说鹰角产能拉胯的情况下，还有许多人一直坚持玩《明日方舟》?](https://www.zhihu.com/question/605397357)<br />
 7. [FPS 游戏《无畏契约》（Valorant）为何人气这么高，对于正在测试的国服你有哪些看法或期待？](https://www.zhihu.com/question/605855718)<br />
 8. [有哪些夏季必备小家电，可以趁着 618 狠狠薅羊毛？](https://www.zhihu.com/question/602552185)<br />
-9. []()<br />
+9. [家境不好适合学金融吗?](https://www.zhihu.com/question/605789223)<br />
 
 > 百度  
 
