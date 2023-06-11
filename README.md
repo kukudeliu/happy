@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 08:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 08:50:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [安徽12级大风刮倒龙门吊致3死](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD12%E7%BA%A7%E5%A4%A7%E9%A3%8E%E5%88%AE%E5%80%92%E9%BE%99%E9%97%A8%E5%90%8A%E8%87%B43%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [音乐节2万多名观众被冰雹砸淋](https://www.baidu.com/s?wd=%E9%9F%B3%E4%B9%90%E8%8A%822%E4%B8%87%E5%A4%9A%E5%90%8D%E8%A7%82%E4%BC%97%E8%A2%AB%E5%86%B0%E9%9B%B9%E7%A0%B8%E6%B7%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子被墙角的蛇跳出攻击](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A2%AB%E5%A2%99%E8%A7%92%E7%9A%84%E8%9B%87%E8%B7%B3%E5%87%BA%E6%94%BB%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [吴京和贾静雯牵手热聊](https://www.baidu.com/s?wd=%E5%90%B4%E4%BA%AC%E5%92%8C%E8%B4%BE%E9%9D%99%E9%9B%AF%E7%89%B5%E6%89%8B%E7%83%AD%E8%81%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [日本反对用核污水搞基建称危害健康](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%8F%8D%E5%AF%B9%E7%94%A8%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%90%9E%E5%9F%BA%E5%BB%BA%E7%A7%B0%E5%8D%B1%E5%AE%B3%E5%81%A5%E5%BA%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [安徽12级大风刮倒龙门吊致3死](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD12%E7%BA%A7%E5%A4%A7%E9%A3%8E%E5%88%AE%E5%80%92%E9%BE%99%E9%97%A8%E5%90%8A%E8%87%B43%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [音乐节2万多名观众被冰雹砸淋](https://www.baidu.com/s?wd=%E9%9F%B3%E4%B9%90%E8%8A%822%E4%B8%87%E5%A4%9A%E5%90%8D%E8%A7%82%E4%BC%97%E8%A2%AB%E5%86%B0%E9%9B%B9%E7%A0%B8%E6%B7%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子被墙角的蛇跳出攻击](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A2%AB%E5%A2%99%E8%A7%92%E7%9A%84%E8%9B%87%E8%B7%B3%E5%87%BA%E6%94%BB%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [吴京和贾静雯牵手热聊](https://www.baidu.com/s?wd=%E5%90%B4%E4%BA%AC%E5%92%8C%E8%B4%BE%E9%9D%99%E9%9B%AF%E7%89%B5%E6%89%8B%E7%83%AD%E8%81%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [日本反对用核污水搞基建称危害健康](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%8F%8D%E5%AF%B9%E7%94%A8%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%90%9E%E5%9F%BA%E5%BB%BA%E7%A7%B0%E5%8D%B1%E5%AE%B3%E5%81%A5%E5%BA%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
