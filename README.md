@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 10:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 10:39:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [杭州有哪些南宋遗迹？](https://www.zhihu.com/question/56976382)<br />
 6. [为什么在许多人说鹰角产能拉胯的情况下，还有许多人一直坚持玩《明日方舟》?](https://www.zhihu.com/question/605397357)<br />
 7. [FPS 游戏《无畏契约》（Valorant）为何人气这么高，对于正在测试的国服你有哪些看法或期待？](https://www.zhihu.com/question/605855718)<br />
-8. [家境不好适合学金融吗?](https://www.zhihu.com/question/605789223)<br />
-9. [和女友约好出去旅游，她闺蜜也要跟去，怎么办?](https://www.zhihu.com/question/602584344)<br />
+8. []()<br />
+9. [家境不好适合学金融吗?](https://www.zhihu.com/question/605789223)<br />
 
 > 百度  
 
