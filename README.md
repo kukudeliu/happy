@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 06:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 06:24:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [苏享茂哥哥称翟欣欣涉嫌敲诈勒索已被逮捕，这意味着什么？此前翟欣欣退还 660 万，此事或将如何进展？](https://www.zhihu.com/question/605647767)<br />
 6. [大部分癌症为什么一发现就已经是晚期了？](https://www.zhihu.com/question/605136048)<br />
 7. [自然健身肌肉最大可以练成什么样子？](https://www.zhihu.com/question/599380271)<br />
-8. [2023 LPL 夏季赛 TES 2:1 击败 WBG，如何评价这场比赛？](https://www.zhihu.com/question/606036846)<br />
-9. [能分享一下你所在行业的内幕吗？](https://www.zhihu.com/question/339539047)<br />
+8. []()<br />
+9. [大脑能耗很高，为什么没有多动脑子的减肥方法？](https://www.zhihu.com/question/596469703)<br />
 
 > 百度  
 
