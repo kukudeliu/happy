@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 10:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 10:18:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [花戎婚礼变葬礼](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E6%88%8E%E5%A9%9A%E7%A4%BC%E5%8F%98%E8%91%AC%E7%A4%BC%23&t=31&band_rank=4&Refer=top)<br />
 5. [老板谈上4休3工作制1个月后效果](https://s.weibo.com/weibo?q=%23%E8%80%81%E6%9D%BF%E8%B0%88%E4%B8%8A4%E4%BC%913%E5%B7%A5%E4%BD%9C%E5%88%B61%E4%B8%AA%E6%9C%88%E5%90%8E%E6%95%88%E6%9E%9C%23&t=31&band_rank=5&Refer=top)<br />
 6. [林志玲](https://s.weibo.com/weibo?q=%E6%9E%97%E5%BF%97%E7%8E%B2&t=31&band_rank=6&Refer=top)<br />
-7. [醉汉买瓜因不满沙瓤夺刀捅自己](https://s.weibo.com/weibo?q=%23%E9%86%89%E6%B1%89%E4%B9%B0%E7%93%9C%E5%9B%A0%E4%B8%8D%E6%BB%A1%E6%B2%99%E7%93%A4%E5%A4%BA%E5%88%80%E6%8D%85%E8%87%AA%E5%B7%B1%23&t=31&band_rank=7&Refer=top)<br />
-8. [专家称年轻人不想生成本高并非主因](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8D%E6%83%B3%E7%94%9F%E6%88%90%E6%9C%AC%E9%AB%98%E5%B9%B6%E9%9D%9E%E4%B8%BB%E5%9B%A0%23&t=31&band_rank=8&Refer=top)<br />
+7. [专家称年轻人不想生成本高并非主因](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8D%E6%83%B3%E7%94%9F%E6%88%90%E6%9C%AC%E9%AB%98%E5%B9%B6%E9%9D%9E%E4%B8%BB%E5%9B%A0%23&t=31&band_rank=7&Refer=top)<br />
+8. [法老 幼稚园杀手](https://s.weibo.com/weibo?q=%E6%B3%95%E8%80%81%20%E5%B9%BC%E7%A8%9A%E5%9B%AD%E6%9D%80%E6%89%8B&t=31&band_rank=8&Refer=top)<br />
 9. [肖战侯明昊郭俊辰7天涨粉](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E4%BE%AF%E6%98%8E%E6%98%8A%E9%83%AD%E4%BF%8A%E8%BE%B07%E5%A4%A9%E6%B6%A8%E7%B2%89%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
