@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 01:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 01:54:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [梅西被迫宅在酒店](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%A2%AB%E8%BF%AB%E5%AE%85%E5%9C%A8%E9%85%92%E5%BA%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [张雨绮说699我都买不了袜子](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%A8%E7%BB%AE%E8%AF%B4699%E6%88%91%E9%83%BD%E4%B9%B0%E4%B8%8D%E4%BA%86%E8%A2%9C%E5%AD%90%23&t=31&band_rank=7&Refer=top)<br />
 8. [薛之谦说我开始找你了梅西](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E8%AF%B4%E6%88%91%E5%BC%80%E5%A7%8B%E6%89%BE%E4%BD%A0%E4%BA%86%E6%A2%85%E8%A5%BF%23&t=31&band_rank=8&Refer=top)<br />
-9. [Jennie身体状况](https://s.weibo.com/weibo?q=%23Jennie%E8%BA%AB%E4%BD%93%E7%8A%B6%E5%86%B5%23&t=31&band_rank=9&Refer=top)<br />
+9. [女乘客空中失聪浙江医生出手了](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E4%B9%98%E5%AE%A2%E7%A9%BA%E4%B8%AD%E5%A4%B1%E8%81%AA%E6%B5%99%E6%B1%9F%E5%8C%BB%E7%94%9F%E5%87%BA%E6%89%8B%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -32,9 +32,9 @@
 4. [炎炎夏夜里升腾的烟火气](https://www.baidu.com/s?wd=%E7%82%8E%E7%82%8E%E5%A4%8F%E5%A4%9C%E9%87%8C%E5%8D%87%E8%85%BE%E7%9A%84%E7%83%9F%E7%81%AB%E6%B0%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [大叔自证未偷拍仍遭曝光 女生道歉](https://www.baidu.com/s?wd=%E5%A4%A7%E5%8F%94%E8%87%AA%E8%AF%81%E6%9C%AA%E5%81%B7%E6%8B%8D%E4%BB%8D%E9%81%AD%E6%9B%9D%E5%85%89+%E5%A5%B3%E7%94%9F%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [火车站按摩椅现大量虫子](https://www.baidu.com/s?wd=%E7%81%AB%E8%BD%A6%E7%AB%99%E6%8C%89%E6%91%A9%E6%A4%85%E7%8E%B0%E5%A4%A7%E9%87%8F%E8%99%AB%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [官方通报村副书记出轨村书记](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%9D%91%E5%89%AF%E4%B9%A6%E8%AE%B0%E5%87%BA%E8%BD%A8%E6%9D%91%E4%B9%A6%E8%AE%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [专家称年轻人不想生成本高非主因](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8D%E6%83%B3%E7%94%9F%E6%88%90%E6%9C%AC%E9%AB%98%E9%9D%9E%E4%B8%BB%E5%9B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [近9年结婚人数下降49.3%](https://www.baidu.com/s?wd=%E8%BF%919%E5%B9%B4%E7%BB%93%E5%A9%9A%E4%BA%BA%E6%95%B0%E4%B8%8B%E9%99%8D49.3%25&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女孩高考后送娃娃给护考交警](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E9%AB%98%E8%80%83%E5%90%8E%E9%80%81%E5%A8%83%E5%A8%83%E7%BB%99%E6%8A%A4%E8%80%83%E4%BA%A4%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子自称市长孙女辱骂他人 警方通报](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%87%AA%E7%A7%B0%E5%B8%82%E9%95%BF%E5%AD%99%E5%A5%B3%E8%BE%B1%E9%AA%82%E4%BB%96%E4%BA%BA+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [官方通报村副书记出轨村书记](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%9D%91%E5%89%AF%E4%B9%A6%E8%AE%B0%E5%87%BA%E8%BD%A8%E6%9D%91%E4%B9%A6%E8%AE%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [炎炎夏夜里升腾的烟火气](https://www.baidu.com/s?wd=%E7%82%8E%E7%82%8E%E5%A4%8F%E5%A4%9C%E9%87%8C%E5%8D%87%E8%85%BE%E7%9A%84%E7%83%9F%E7%81%AB%E6%B0%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [大叔自证未偷拍仍遭曝光 女生道歉](https://www.baidu.com/s?wd=%E5%A4%A7%E5%8F%94%E8%87%AA%E8%AF%81%E6%9C%AA%E5%81%B7%E6%8B%8D%E4%BB%8D%E9%81%AD%E6%9B%9D%E5%85%89+%E5%A5%B3%E7%94%9F%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [火车站按摩椅现大量虫子](https://www.baidu.com/s?wd=%E7%81%AB%E8%BD%A6%E7%AB%99%E6%8C%89%E6%91%A9%E6%A4%85%E7%8E%B0%E5%A4%A7%E9%87%8F%E8%99%AB%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [官方通报村副书记出轨村书记](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%9D%91%E5%89%AF%E4%B9%A6%E8%AE%B0%E5%87%BA%E8%BD%A8%E6%9D%91%E4%B9%A6%E8%AE%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [专家称年轻人不想生成本高非主因](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8D%E6%83%B3%E7%94%9F%E6%88%90%E6%9C%AC%E9%AB%98%E9%9D%9E%E4%B8%BB%E5%9B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [近9年结婚人数下降49.3%](https://www.baidu.com/s?wd=%E8%BF%919%E5%B9%B4%E7%BB%93%E5%A9%9A%E4%BA%BA%E6%95%B0%E4%B8%8B%E9%99%8D49.3%25&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女孩高考后送娃娃给护考交警](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E9%AB%98%E8%80%83%E5%90%8E%E9%80%81%E5%A8%83%E5%A8%83%E7%BB%99%E6%8A%A4%E8%80%83%E4%BA%A4%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子自称市长孙女辱骂他人 警方通报](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%87%AA%E7%A7%B0%E5%B8%82%E9%95%BF%E5%AD%99%E5%A5%B3%E8%BE%B1%E9%AA%82%E4%BB%96%E4%BA%BA+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [官方通报村副书记出轨村书记](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%9D%91%E5%89%AF%E4%B9%A6%E8%AE%B0%E5%87%BA%E8%BD%A8%E6%9D%91%E4%B9%A6%E8%AE%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
