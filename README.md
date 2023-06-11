@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 22:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 22:36:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [厄尔尼诺或在 2023 年底前出现，气象学家称 2023 年恐成有记录以来最热年份，哪些信息值得关注？](https://www.zhihu.com/question/596925575)<br />
 5. [请问造成骑兵衰落最早的起因是什么？](https://www.zhihu.com/question/604676828)<br />
 6. [年轻人赶高铁跨省存钱，扣除交通费后存 10 万可多出 1250 元利息，如何看待这种理财方式？](https://www.zhihu.com/question/606011560)<br />
-7. [如果回到高考后，你会复读吗？](https://www.zhihu.com/question/604091519)<br />
-8. [大脑能耗很高，为什么没有多动脑子的减肥方法？](https://www.zhihu.com/question/596469703)<br />
-9. [高考完是考驾照还是打工？](https://www.zhihu.com/question/605630474)<br />
+7. [孩子严重烫伤 9 天才送医院，爸爸称「没必要」拒绝手术，现孩子被家长安排自行出院，如何看待家长行为？](https://www.zhihu.com/question/604863474)<br />
+8. [如果回到高考后，你会复读吗？](https://www.zhihu.com/question/604091519)<br />
+9. []()<br />
 
 > 百度  
 
