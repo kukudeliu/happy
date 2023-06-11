@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 00:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 00:48:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [大脑能耗很高，为什么没有多动脑子的减肥方法？](https://www.zhihu.com/question/596469703)<br />
 6. [深圳的氛围真的都是大家都在搞钱吗？](https://www.zhihu.com/question/512330743)<br />
 7. [自然健身肌肉最大可以练成什么样子？](https://www.zhihu.com/question/599380271)<br />
-8. [我国 5 月 CPI 同比上升 0.2%，PPI 同比下降 4.6%，如何解读？哪些信息值得关注？](https://www.zhihu.com/question/605623897)<br />
-9. [高考 700 分和存款 700 万，你选择哪个？](https://www.zhihu.com/question/605422526)<br />
+8. [高考 700 分和存款 700 万，你选择哪个？](https://www.zhihu.com/question/605422526)<br />
+9. [我国 5 月 CPI 同比上升 0.2%，PPI 同比下降 4.6%，如何解读？哪些信息值得关注？](https://www.zhihu.com/question/605623897)<br />
 
 > 百度  
 
