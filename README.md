@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 16:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 16:53:01</h4></div>
 
 > 微博  
 
@@ -19,7 +19,7 @@
 3. [西晋为什么要选择一个蜀汉旧臣写《三国志》？](https://www.zhihu.com/question/602505267)<br />
 4. [哈尔滨一租户「私拆承重墙」后续，修复方案通过专家论证，5 人被采取刑事强制措施，如何从法律角度解读？](https://www.zhihu.com/question/605991803)<br />
 5. [《大明王朝 1566》中你认为经典的语句有哪些？](https://www.zhihu.com/question/605018051)<br />
-6. []()<br />
+6. [男子辞去上海月薪 2 万的工作，在家当「全职儿子」，父母每月开工资 5500 元，如何看待这一现象？](https://www.zhihu.com/question/605994770)<br />
 7. [已经连续跑步一个月了，但是体重掉了几斤后就不掉了，而且最近几天跑步特别累，远不如中期的时候，为什么？](https://www.zhihu.com/question/605880636)<br />
 8. [C++ 有什么好用的线程池？](https://www.zhihu.com/question/397916107)<br />
 9. [如果你发现自己是游戏里的 NPC，你会怎么做？](https://www.zhihu.com/question/378798248)<br />
