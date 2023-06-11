@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 11:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 11:51:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [团伙盗墓挖出龙袍网上售卖](https://s.weibo.com/weibo?q=%23%E5%9B%A2%E4%BC%99%E7%9B%97%E5%A2%93%E6%8C%96%E5%87%BA%E9%BE%99%E8%A2%8D%E7%BD%91%E4%B8%8A%E5%94%AE%E5%8D%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [张凌赫工作室宣布停更一周](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%AE%A3%E5%B8%83%E5%81%9C%E6%9B%B4%E4%B8%80%E5%91%A8%23&t=31&band_rank=7&Refer=top)<br />
 8. [老板谈上4休3工作制1个月后效果](https://s.weibo.com/weibo?q=%23%E8%80%81%E6%9D%BF%E8%B0%88%E4%B8%8A4%E4%BC%913%E5%B7%A5%E4%BD%9C%E5%88%B61%E4%B8%AA%E6%9C%88%E5%90%8E%E6%95%88%E6%9E%9C%23&t=31&band_rank=8&Refer=top)<br />
-9. [专家称年轻人不想生成本高并非主因](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8D%E6%83%B3%E7%94%9F%E6%88%90%E6%9C%AC%E9%AB%98%E5%B9%B6%E9%9D%9E%E4%B8%BB%E5%9B%A0%23&t=31&band_rank=9&Refer=top)<br />
+9. [梁田从芒果离职](https://s.weibo.com/weibo?q=%23%E6%A2%81%E7%94%B0%E4%BB%8E%E8%8A%92%E6%9E%9C%E7%A6%BB%E8%81%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [每天练四个小时的钢琴，三年后会达到什么水准？](https://www.zhihu.com/question/441420543)<br />
 7. [家境不好适合学金融吗?](https://www.zhihu.com/question/605789223)<br />
 8. [宫崎骏的《天空之城》的女主，为什么不指挥机器人赶走军队、穆斯卡、海盗？](https://www.zhihu.com/question/604870316)<br />
-9. [职场上除了「躺」与「卷」，是否有第三种选择存在？](https://www.zhihu.com/question/605262259)<br />
+9. [为何有些人失业时间久了，就不想上班了？](https://www.zhihu.com/question/605617857)<br />
 
 > 百度  
 
