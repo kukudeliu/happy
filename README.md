@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 16:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 16:22:02</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [我国世界自然遗产数量全球第一](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E4%B8%96%E7%95%8C%E8%87%AA%E7%84%B6%E9%81%97%E4%BA%A7%E6%95%B0%E9%87%8F%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80%23&t=31&band_rank=3&Refer=top)<br />
 4. [蒋依依希望尽快和平解约](https://s.weibo.com/weibo?q=%23%E8%92%8B%E4%BE%9D%E4%BE%9D%E5%B8%8C%E6%9C%9B%E5%B0%BD%E5%BF%AB%E5%92%8C%E5%B9%B3%E8%A7%A3%E7%BA%A6%23&t=31&band_rank=4&Refer=top)<br />
 5. [校园霸凌](https://s.weibo.com/weibo?q=%E6%A0%A1%E5%9B%AD%E9%9C%B8%E5%87%8C&t=31&band_rank=5&Refer=top)<br />
-6. [都给马思纯p成啥样了](https://s.weibo.com/weibo?q=%23%E9%83%BD%E7%BB%99%E9%A9%AC%E6%80%9D%E7%BA%AFp%E6%88%90%E5%95%A5%E6%A0%B7%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [专家称年轻人不想生成本高并非主因](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8D%E6%83%B3%E7%94%9F%E6%88%90%E6%9C%AC%E9%AB%98%E5%B9%B6%E9%9D%9E%E4%B8%BB%E5%9B%A0%23&t=31&band_rank=7&Refer=top)<br />
+6. [北京政法职业学院发布情况通报](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%94%BF%E6%B3%95%E8%81%8C%E4%B8%9A%E5%AD%A6%E9%99%A2%E5%8F%91%E5%B8%83%E6%83%85%E5%86%B5%E9%80%9A%E6%8A%A5%23&t=31&band_rank=6&Refer=top)<br />
+7. [都给马思纯p成啥样了](https://s.weibo.com/weibo?q=%23%E9%83%BD%E7%BB%99%E9%A9%AC%E6%80%9D%E7%BA%AFp%E6%88%90%E5%95%A5%E6%A0%B7%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [孟子义 好过得刚](https://s.weibo.com/weibo?q=%E5%AD%9F%E5%AD%90%E4%B9%89%20%E5%A5%BD%E8%BF%87%E5%BE%97%E5%88%9A&t=31&band_rank=8&Refer=top)<br />
 9. [央视网评演员变演贝](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E7%BD%91%E8%AF%84%E6%BC%94%E5%91%98%E5%8F%98%E6%BC%94%E8%B4%9D%23&t=31&band_rank=9&Refer=top)<br />
 
