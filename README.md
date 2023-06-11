@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 16:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 16:29:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [大学摘10万斤荔枝请学生免费吃](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E6%91%9810%E4%B8%87%E6%96%A4%E8%8D%94%E6%9E%9D%E8%AF%B7%E5%AD%A6%E7%94%9F%E5%85%8D%E8%B4%B9%E5%90%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [蒋依依希望尽快和平解约](https://www.baidu.com/s?wd=%E8%92%8B%E4%BE%9D%E4%BE%9D%E5%B8%8C%E6%9C%9B%E5%B0%BD%E5%BF%AB%E5%92%8C%E5%B9%B3%E8%A7%A3%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [2400多斤假牛肉被缴获](https://www.baidu.com/s?wd=2400%E5%A4%9A%E6%96%A4%E5%81%87%E7%89%9B%E8%82%89%E8%A2%AB%E7%BC%B4%E8%8E%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子吃了两捧割香螺心跳骤停](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%90%83%E4%BA%86%E4%B8%A4%E6%8D%A7%E5%89%B2%E9%A6%99%E8%9E%BA%E5%BF%83%E8%B7%B3%E9%AA%A4%E5%81%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [加拿大扣押俄罗斯飞机 将移交乌克兰](https://www.baidu.com/s?wd=%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%89%A3%E6%8A%BC%E4%BF%84%E7%BD%97%E6%96%AF%E9%A3%9E%E6%9C%BA+%E5%B0%86%E7%A7%BB%E4%BA%A4%E4%B9%8C%E5%85%8B%E5%85%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [大学摘10万斤荔枝请学生免费吃](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E6%91%9810%E4%B8%87%E6%96%A4%E8%8D%94%E6%9E%9D%E8%AF%B7%E5%AD%A6%E7%94%9F%E5%85%8D%E8%B4%B9%E5%90%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [蒋依依希望尽快和平解约](https://www.baidu.com/s?wd=%E8%92%8B%E4%BE%9D%E4%BE%9D%E5%B8%8C%E6%9C%9B%E5%B0%BD%E5%BF%AB%E5%92%8C%E5%B9%B3%E8%A7%A3%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [2400多斤假牛肉被缴获](https://www.baidu.com/s?wd=2400%E5%A4%9A%E6%96%A4%E5%81%87%E7%89%9B%E8%82%89%E8%A2%AB%E7%BC%B4%E8%8E%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子吃了两捧割香螺心跳骤停](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%90%83%E4%BA%86%E4%B8%A4%E6%8D%A7%E5%89%B2%E9%A6%99%E8%9E%BA%E5%BF%83%E8%B7%B3%E9%AA%A4%E5%81%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [加拿大扣押俄罗斯飞机 将移交乌克兰](https://www.baidu.com/s?wd=%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%89%A3%E6%8A%BC%E4%BF%84%E7%BD%97%E6%96%AF%E9%A3%9E%E6%9C%BA+%E5%B0%86%E7%A7%BB%E4%BA%A4%E4%B9%8C%E5%85%8B%E5%85%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
