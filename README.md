@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 23:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 23:45:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [孩子严重烫伤 9 天才送医院，爸爸称「没必要」拒绝手术，现孩子被家长安排自行出院，如何看待家长行为？](https://www.zhihu.com/question/604863474)<br />
 7. [2023 LPL 夏季赛 TES 2:1 击败 WBG，如何评价这场比赛？](https://www.zhihu.com/question/606036846)<br />
 8. [大脑能耗很高，为什么没有多动脑子的减肥方法？](https://www.zhihu.com/question/596469703)<br />
-9. [厄尔尼诺或在 2023 年底前出现，气象学家称 2023 年恐成有记录以来最热年份，哪些信息值得关注？](https://www.zhihu.com/question/596925575)<br />
+9. [自然健身肌肉最大可以练成什么样子？](https://www.zhihu.com/question/599380271)<br />
 
 > 百度  
 
