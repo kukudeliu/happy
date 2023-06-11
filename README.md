@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 10:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 10:43:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [为什么在许多人说鹰角产能拉胯的情况下，还有许多人一直坚持玩《明日方舟》?](https://www.zhihu.com/question/605397357)<br />
 7. [FPS 游戏《无畏契约》（Valorant）为何人气这么高，对于正在测试的国服你有哪些看法或期待？](https://www.zhihu.com/question/605855718)<br />
 8. [有哪些夏季必备小家电，可以趁着 618 狠狠薅羊毛？](https://www.zhihu.com/question/602552185)<br />
-9. [家境不好适合学金融吗?](https://www.zhihu.com/question/605789223)<br />
+9. [为什么有人说苹果手机是「老年机之王」？](https://www.zhihu.com/question/605508210)<br />
 
 > 百度  
 
@@ -34,7 +34,7 @@
 6. [老板谈上4休3工作制1个月后效果](https://www.baidu.com/s?wd=%E8%80%81%E6%9D%BF%E8%B0%88%E4%B8%8A4%E4%BC%913%E5%B7%A5%E4%BD%9C%E5%88%B61%E4%B8%AA%E6%9C%88%E5%90%8E%E6%95%88%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [网友说撒贝宁是国家级显眼包](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E8%AF%B4%E6%92%92%E8%B4%9D%E5%AE%81%E6%98%AF%E5%9B%BD%E5%AE%B6%E7%BA%A7%E6%98%BE%E7%9C%BC%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [全班把老师扔进水池寓意集体上岸](https://www.baidu.com/s?wd=%E5%85%A8%E7%8F%AD%E6%8A%8A%E8%80%81%E5%B8%88%E6%89%94%E8%BF%9B%E6%B0%B4%E6%B1%A0%E5%AF%93%E6%84%8F%E9%9B%86%E4%BD%93%E4%B8%8A%E5%B2%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子曝妻子出轨村书记 纪委介入](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%9B%9D%E5%A6%BB%E5%AD%90%E5%87%BA%E8%BD%A8%E6%9D%91%E4%B9%A6%E8%AE%B0+%E7%BA%AA%E5%A7%94%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [专家称年轻人不想生成本高非主因](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8D%E6%83%B3%E7%94%9F%E6%88%90%E6%9C%AC%E9%AB%98%E9%9D%9E%E4%B8%BB%E5%9B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [老板谈上4休3工作制1个月后效果](https://www.baidu.com/s?wd=%E8%80%81%E6%9D%BF%E8%B0%88%E4%B8%8A4%E4%BC%913%E5%B7%A5%E4%BD%9C%E5%88%B61%E4%B8%AA%E6%9C%88%E5%90%8E%E6%95%88%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [网友说撒贝宁是国家级显眼包](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E8%AF%B4%E6%92%92%E8%B4%9D%E5%AE%81%E6%98%AF%E5%9B%BD%E5%AE%B6%E7%BA%A7%E6%98%BE%E7%9C%BC%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [全班把老师扔进水池寓意集体上岸](https://www.baidu.com/s?wd=%E5%85%A8%E7%8F%AD%E6%8A%8A%E8%80%81%E5%B8%88%E6%89%94%E8%BF%9B%E6%B0%B4%E6%B1%A0%E5%AF%93%E6%84%8F%E9%9B%86%E4%BD%93%E4%B8%8A%E5%B2%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子曝妻子出轨村书记 纪委介入](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%9B%9D%E5%A6%BB%E5%AD%90%E5%87%BA%E8%BD%A8%E6%9D%91%E4%B9%A6%E8%AE%B0+%E7%BA%AA%E5%A7%94%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [专家称年轻人不想生成本高非主因](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8D%E6%83%B3%E7%94%9F%E6%88%90%E6%9C%AC%E9%AB%98%E9%9D%9E%E4%B8%BB%E5%9B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
