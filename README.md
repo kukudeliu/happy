@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 22:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 22:48:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [Jennie身体状况](https://s.weibo.com/weibo?q=%23Jennie%E8%BA%AB%E4%BD%93%E7%8A%B6%E5%86%B5%23&t=31&band_rank=5&Refer=top)<br />
 6. [迪丽热巴蝴蝶骨好明显](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%9D%B4%E8%9D%B6%E9%AA%A8%E5%A5%BD%E6%98%8E%E6%98%BE%23&t=31&band_rank=6&Refer=top)<br />
 7. [张雨绮说699我都买不了袜子](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%A8%E7%BB%AE%E8%AF%B4699%E6%88%91%E9%83%BD%E4%B9%B0%E4%B8%8D%E4%BA%86%E8%A2%9C%E5%AD%90%23&t=31&band_rank=7&Refer=top)<br />
-8. [WBG失误](https://s.weibo.com/weibo?q=WBG%E5%A4%B1%E8%AF%AF&t=31&band_rank=8&Refer=top)<br />
-9. [Weiwei 886](https://s.weibo.com/weibo?q=Weiwei%20886&t=31&band_rank=9&Refer=top)<br />
+8. [Weiwei 886](https://s.weibo.com/weibo?q=Weiwei%20886&t=31&band_rank=8&Refer=top)<br />
+9. [WBG失误](https://s.weibo.com/weibo?q=WBG%E5%A4%B1%E8%AF%AF&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
