@@ -1,15 +1,15 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 08:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 08:21:02</h4></div>
 
 > 微博  
 
 1. [中铁三局辟谣董事长与女子逛街](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E9%93%81%E4%B8%89%E5%B1%80%E8%BE%9F%E8%B0%A3%E8%91%A3%E4%BA%8B%E9%95%BF%E4%B8%8E%E5%A5%B3%E5%AD%90%E9%80%9B%E8%A1%97%23&t=31&band_rank=1&Refer=top)<br />
 2. [珠峰被救女子不付救援费背后](https://s.weibo.com/weibo?q=%23%E7%8F%A0%E5%B3%B0%E8%A2%AB%E6%95%91%E5%A5%B3%E5%AD%90%E4%B8%8D%E4%BB%98%E6%95%91%E6%8F%B4%E8%B4%B9%E8%83%8C%E5%90%8E%23&t=31&band_rank=2&Refer=top)<br />
 3. [文化和自然遗产冷知识](https://s.weibo.com/weibo?q=%23%E6%96%87%E5%8C%96%E5%92%8C%E8%87%AA%E7%84%B6%E9%81%97%E4%BA%A7%E5%86%B7%E7%9F%A5%E8%AF%86%23&t=31&band_rank=3&Refer=top)<br />
-4. [日本突然声称核污水危害健康](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%AA%81%E7%84%B6%E5%A3%B0%E7%A7%B0%E6%A0%B8%E6%B1%A1%E6%B0%B4%E5%8D%B1%E5%AE%B3%E5%81%A5%E5%BA%B7%23&t=31&band_rank=4&Refer=top)<br />
-5. [林志玲](https://s.weibo.com/weibo?q=%E6%9E%97%E5%BF%97%E7%8E%B2&t=31&band_rank=5&Refer=top)<br />
+4. [林志玲](https://s.weibo.com/weibo?q=%E6%9E%97%E5%BF%97%E7%8E%B2&t=31&band_rank=4&Refer=top)<br />
+5. [日本突然声称核污水危害健康](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%AA%81%E7%84%B6%E5%A3%B0%E7%A7%B0%E6%A0%B8%E6%B1%A1%E6%B0%B4%E5%8D%B1%E5%AE%B3%E5%81%A5%E5%BA%B7%23&t=31&band_rank=5&Refer=top)<br />
 6. [牵手门带火的裙子已退货2000件](https://s.weibo.com/weibo?q=%23%E7%89%B5%E6%89%8B%E9%97%A8%E5%B8%A6%E7%81%AB%E7%9A%84%E8%A3%99%E5%AD%90%E5%B7%B2%E9%80%80%E8%B4%A72000%E4%BB%B6%23&t=31&band_rank=6&Refer=top)<br />
-7. [柯以敏直播奔溃大哭](https://s.weibo.com/weibo?q=%23%E6%9F%AF%E4%BB%A5%E6%95%8F%E7%9B%B4%E6%92%AD%E5%A5%94%E6%BA%83%E5%A4%A7%E5%93%AD%23&t=31&band_rank=7&Refer=top)<br />
-8. [三星堆遗址再曝重磅消息](https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%98%9F%E5%A0%86%E9%81%97%E5%9D%80%E5%86%8D%E6%9B%9D%E9%87%8D%E7%A3%85%E6%B6%88%E6%81%AF%23&t=31&band_rank=8&Refer=top)<br />
+7. [三星堆遗址再曝重磅消息](https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%98%9F%E5%A0%86%E9%81%97%E5%9D%80%E5%86%8D%E6%9B%9D%E9%87%8D%E7%A3%85%E6%B6%88%E6%81%AF%23&t=31&band_rank=7&Refer=top)<br />
+8. [柯以敏直播奔溃大哭](https://s.weibo.com/weibo?q=%23%E6%9F%AF%E4%BB%A5%E6%95%8F%E7%9B%B4%E6%92%AD%E5%A5%94%E6%BA%83%E5%A4%A7%E5%93%AD%23&t=31&band_rank=8&Refer=top)<br />
 9. [大半个娱乐圈都在江苏吧](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%8D%8A%E4%B8%AA%E5%A8%B1%E4%B9%90%E5%9C%88%E9%83%BD%E5%9C%A8%E6%B1%9F%E8%8B%8F%E5%90%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -20,9 +20,9 @@
 4. [什么样的习惯会危害你的生命？](https://www.zhihu.com/question/437468616)<br />
 5. [22-23 赛季欧冠曼城 1:0 国米加冕三冠王，罗德里破门荣膺决赛 MVP，如何看待这场比赛?](https://www.zhihu.com/question/605952777)<br />
 6. [和女友约好出去旅游，她闺蜜也要跟去，怎么办?](https://www.zhihu.com/question/602584344)<br />
-7. [高层住宅为什么要 1 楼独立下水？](https://www.zhihu.com/question/605398328)<br />
-8. [6 月 10 日起，12306 网站试行在线选铺服务，将带来哪些便利，出行时你会选择哪个座位？](https://www.zhihu.com/question/605812479)<br />
-9. [北上广深等城市出现一批首付几十万的楼盘，对于刚需买房和希望在北京积分落户的人群，此时是否要低门槛上车？](https://www.zhihu.com/question/605671771)<br />
+7. [6 月 10 日起，12306 网站试行在线选铺服务，将带来哪些便利，出行时你会选择哪个座位？](https://www.zhihu.com/question/605812479)<br />
+8. [高层住宅为什么要 1 楼独立下水？](https://www.zhihu.com/question/605398328)<br />
+9. [天津津南区八里台镇局部地面沉降，专家初步判断为突发地质灾害，周围居民何时能回家？后续是否有补偿措施？](https://www.zhihu.com/question/605551160)<br />
 
 > 百度  
 
