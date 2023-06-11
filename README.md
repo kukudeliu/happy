@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 18:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 18:13:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [北约史上「最大规模」空中军演即将举行，约 1 万士兵、 250 架飞机，25 国参加，哪些信息值得关注？](https://www.zhihu.com/question/605985210)<br />
 6. [电影《变形金刚：超能勇士崛起》中有哪些槽点？](https://www.zhihu.com/question/605643067)<br />
 7. []()<br />
-8. [可以给我推荐一首好听的音乐吗?](https://www.zhihu.com/question/601660593)<br />
-9. [高斯以前的人怎样计算 1+2+…+100？](https://www.zhihu.com/question/605862776)<br />
+8. []()<br />
+9. [可以给我推荐一首好听的音乐吗?](https://www.zhihu.com/question/601660593)<br />
 
 > 百度  
 
