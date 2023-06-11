@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 01:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 01:21:01</h4></div>
 
 > 微博  
 
@@ -19,8 +19,8 @@
 3. [德国 GDP 两个现季度出负增长，欧洲「火车头」成「害群之马」，德国经济怎么了？对欧洲会造成哪些影响？](https://www.zhihu.com/question/605491276)<br />
 4. [深圳的氛围真的都是大家都在搞钱吗？](https://www.zhihu.com/question/512330743)<br />
 5. [苏享茂哥哥称翟欣欣涉嫌敲诈勒索已被逮捕，这意味着什么？此前翟欣欣退还 660 万，此事或将如何进展？](https://www.zhihu.com/question/605647767)<br />
-6. [大脑能耗很高，为什么没有多动脑子的减肥方法？](https://www.zhihu.com/question/596469703)<br />
-7. [自然健身肌肉最大可以练成什么样子？](https://www.zhihu.com/question/599380271)<br />
+6. [自然健身肌肉最大可以练成什么样子？](https://www.zhihu.com/question/599380271)<br />
+7. [大脑能耗很高，为什么没有多动脑子的减肥方法？](https://www.zhihu.com/question/596469703)<br />
 8. []()<br />
 9. [2023 年 618 值得购买的爆款电视有哪些？](https://www.zhihu.com/question/605494062)<br />
 
