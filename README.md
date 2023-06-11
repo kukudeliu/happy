@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 22:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 22:19:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [年轻人赶高铁跨省存钱，扣除交通费后存 10 万可多出 1250 元利息，如何看待这种理财方式？](https://www.zhihu.com/question/606011560)<br />
 6. [厄尔尼诺或在 2023 年底前出现，气象学家称 2023 年恐成有记录以来最热年份，哪些信息值得关注？](https://www.zhihu.com/question/596925575)<br />
 7. [请问造成骑兵衰落最早的起因是什么？](https://www.zhihu.com/question/604676828)<br />
-8. [大脑能耗很高，为什么没有多动脑子的减肥方法？](https://www.zhihu.com/question/596469703)<br />
-9. [如果回到高考后，你会复读吗？](https://www.zhihu.com/question/604091519)<br />
+8. [如果回到高考后，你会复读吗？](https://www.zhihu.com/question/604091519)<br />
+9. [大脑能耗很高，为什么没有多动脑子的减肥方法？](https://www.zhihu.com/question/596469703)<br />
 
 > 百度  
 
@@ -33,7 +33,7 @@
 5. [武汉撞学生老师父母系厅官?当地回应](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E6%92%9E%E5%AD%A6%E7%94%9F%E8%80%81%E5%B8%88%E7%88%B6%E6%AF%8D%E7%B3%BB%E5%8E%85%E5%AE%98%3F%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [曝光大叔女子哭诉学校准备开除她](https://www.baidu.com/s?wd=%E6%9B%9D%E5%85%89%E5%A4%A7%E5%8F%94%E5%A5%B3%E5%AD%90%E5%93%AD%E8%AF%89%E5%AD%A6%E6%A0%A1%E5%87%86%E5%A4%87%E5%BC%80%E9%99%A4%E5%A5%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子被二年级小孩劝不要结婚](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%AB%E4%BA%8C%E5%B9%B4%E7%BA%A7%E5%B0%8F%E5%AD%A9%E5%8A%9D%E4%B8%8D%E8%A6%81%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [俄扫雷车清地雷：1次投射超1吨炸药](https://www.baidu.com/s?wd=%E4%BF%84%E6%89%AB%E9%9B%B7%E8%BD%A6%E6%B8%85%E5%9C%B0%E9%9B%B7%EF%BC%9A1%E6%AC%A1%E6%8A%95%E5%B0%84%E8%B6%851%E5%90%A8%E7%82%B8%E8%8D%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [坠机后4孩童如何丛林生存40天？](https://www.baidu.com/s?wd=%E5%9D%A0%E6%9C%BA%E5%90%8E4%E5%AD%A9%E7%AB%A5%E5%A6%82%E4%BD%95%E4%B8%9B%E6%9E%97%E7%94%9F%E5%AD%9840%E5%A4%A9%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [近9年结婚人数下降49.3%](https://www.baidu.com/s?wd=%E8%BF%919%E5%B9%B4%E7%BB%93%E5%A9%9A%E4%BA%BA%E6%95%B0%E4%B8%8B%E9%99%8D49.3%25&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [武汉撞学生老师父母系厅官?当地回应](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E6%92%9E%E5%AD%A6%E7%94%9F%E8%80%81%E5%B8%88%E7%88%B6%E6%AF%8D%E7%B3%BB%E5%8E%85%E5%AE%98%3F%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [曝光大叔女子哭诉学校准备开除她](https://www.baidu.com/s?wd=%E6%9B%9D%E5%85%89%E5%A4%A7%E5%8F%94%E5%A5%B3%E5%AD%90%E5%93%AD%E8%AF%89%E5%AD%A6%E6%A0%A1%E5%87%86%E5%A4%87%E5%BC%80%E9%99%A4%E5%A5%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子被二年级小孩劝不要结婚](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%AB%E4%BA%8C%E5%B9%B4%E7%BA%A7%E5%B0%8F%E5%AD%A9%E5%8A%9D%E4%B8%8D%E8%A6%81%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [俄扫雷车清地雷：1次投射超1吨炸药](https://www.baidu.com/s?wd=%E4%BF%84%E6%89%AB%E9%9B%B7%E8%BD%A6%E6%B8%85%E5%9C%B0%E9%9B%B7%EF%BC%9A1%E6%AC%A1%E6%8A%95%E5%B0%84%E8%B6%851%E5%90%A8%E7%82%B8%E8%8D%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [坠机后4孩童如何丛林生存40天？](https://www.baidu.com/s?wd=%E5%9D%A0%E6%9C%BA%E5%90%8E4%E5%AD%A9%E7%AB%A5%E5%A6%82%E4%BD%95%E4%B8%9B%E6%9E%97%E7%94%9F%E5%AD%9840%E5%A4%A9%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [近9年结婚人数下降49.3%](https://www.baidu.com/s?wd=%E8%BF%919%E5%B9%B4%E7%BB%93%E5%A9%9A%E4%BA%BA%E6%95%B0%E4%B8%8B%E9%99%8D49.3%25&sa=fyb_news&rsv_dl=fyb_news)<br />
