@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 07:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 07:28:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [自证未偷拍仍遭曝光涉事女子已道歉](https://s.weibo.com/weibo?q=%23%E8%87%AA%E8%AF%81%E6%9C%AA%E5%81%B7%E6%8B%8D%E4%BB%8D%E9%81%AD%E6%9B%9D%E5%85%89%E6%B6%89%E4%BA%8B%E5%A5%B3%E5%AD%90%E5%B7%B2%E9%81%93%E6%AD%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [张雨绮致歉](https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%A8%E7%BB%AE%E8%87%B4%E6%AD%89&t=31&band_rank=7&Refer=top)<br />
 8. [梅西被迫宅在酒店](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%A2%AB%E8%BF%AB%E5%AE%85%E5%9C%A8%E9%85%92%E5%BA%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [女乘客空中失聪浙江医生出手了](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E4%B9%98%E5%AE%A2%E7%A9%BA%E4%B8%AD%E5%A4%B1%E8%81%AA%E6%B5%99%E6%B1%9F%E5%8C%BB%E7%94%9F%E5%87%BA%E6%89%8B%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [过了下班时间窗口工作人员还在办理业务](https://s.weibo.com/weibo?q=%23%E8%BF%87%E4%BA%86%E4%B8%8B%E7%8F%AD%E6%97%B6%E9%97%B4%E7%AA%97%E5%8F%A3%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E8%BF%98%E5%9C%A8%E5%8A%9E%E7%90%86%E4%B8%9A%E5%8A%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
