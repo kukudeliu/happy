@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 07:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 07:41:01</h4></div>
 
 > 微博  
 
 1. [爸爸带女儿跑步200余天孩子变化明显](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E5%B8%A6%E5%A5%B3%E5%84%BF%E8%B7%91%E6%AD%A5200%E4%BD%99%E5%A4%A9%E5%AD%A9%E5%AD%90%E5%8F%98%E5%8C%96%E6%98%8E%E6%98%BE%23&t=31&band_rank=1&Refer=top)<br />
 2. [张雨绮说699我都买不了袜子](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%A8%E7%BB%AE%E8%AF%B4699%E6%88%91%E9%83%BD%E4%B9%B0%E4%B8%8D%E4%BA%86%E8%A2%9C%E5%AD%90%23&t=31&band_rank=2&Refer=top)<br />
 3. [神舟十号发射成功10周年](https://s.weibo.com/weibo?q=%23%E7%A5%9E%E8%88%9F%E5%8D%81%E5%8F%B7%E5%8F%91%E5%B0%84%E6%88%90%E5%8A%9F10%E5%91%A8%E5%B9%B4%23&t=31&band_rank=3&Refer=top)<br />
-4. [曝光大叔女子哭诉学校准备开除她](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%85%89%E5%A4%A7%E5%8F%94%E5%A5%B3%E5%AD%90%E5%93%AD%E8%AF%89%E5%AD%A6%E6%A0%A1%E5%87%86%E5%A4%87%E5%BC%80%E9%99%A4%E5%A5%B9%23&t=31&band_rank=4&Refer=top)<br />
-5. [大叔家属回应被查手机时有地铁车厢照](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%8F%94%E5%AE%B6%E5%B1%9E%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%9F%A5%E6%89%8B%E6%9C%BA%E6%97%B6%E6%9C%89%E5%9C%B0%E9%93%81%E8%BD%A6%E5%8E%A2%E7%85%A7%23&t=31&band_rank=5&Refer=top)<br />
+4. [大叔家属回应被查手机时有地铁车厢照](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%8F%94%E5%AE%B6%E5%B1%9E%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%9F%A5%E6%89%8B%E6%9C%BA%E6%97%B6%E6%9C%89%E5%9C%B0%E9%93%81%E8%BD%A6%E5%8E%A2%E7%85%A7%23&t=31&band_rank=4&Refer=top)<br />
+5. [曝光大叔女子哭诉学校准备开除她](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%85%89%E5%A4%A7%E5%8F%94%E5%A5%B3%E5%AD%90%E5%93%AD%E8%AF%89%E5%AD%A6%E6%A0%A1%E5%87%86%E5%A4%87%E5%BC%80%E9%99%A4%E5%A5%B9%23&t=31&band_rank=5&Refer=top)<br />
 6. [张雨绮致歉](https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%A8%E7%BB%AE%E8%87%B4%E6%AD%89&t=31&band_rank=6&Refer=top)<br />
 7. [梅西被迫宅在酒店](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%A2%AB%E8%BF%AB%E5%AE%85%E5%9C%A8%E9%85%92%E5%BA%97%23&t=31&band_rank=7&Refer=top)<br />
 8. [过了下班时间窗口工作人员还在办理业务](https://s.weibo.com/weibo?q=%23%E8%BF%87%E4%BA%86%E4%B8%8B%E7%8F%AD%E6%97%B6%E9%97%B4%E7%AA%97%E5%8F%A3%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E8%BF%98%E5%9C%A8%E5%8A%9E%E7%90%86%E4%B8%9A%E5%8A%A1%23&t=31&band_rank=8&Refer=top)<br />
