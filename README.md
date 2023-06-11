@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 17:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 17:08:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [央视网评演员变演贝](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E7%BD%91%E8%AF%84%E6%BC%94%E5%91%98%E5%8F%98%E6%BC%94%E8%B4%9D%23&t=31&band_rank=6&Refer=top)<br />
 7. [都给马思纯p成啥样了](https://s.weibo.com/weibo?q=%23%E9%83%BD%E7%BB%99%E9%A9%AC%E6%80%9D%E7%BA%AFp%E6%88%90%E5%95%A5%E6%A0%B7%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [DK 难评](https://s.weibo.com/weibo?q=DK%20%E9%9A%BE%E8%AF%84&t=31&band_rank=8&Refer=top)<br />
-9. [你当明星会被扒出什么黑料](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%BD%93%E6%98%8E%E6%98%9F%E4%BC%9A%E8%A2%AB%E6%89%92%E5%87%BA%E4%BB%80%E4%B9%88%E9%BB%91%E6%96%99%23&t=31&band_rank=9&Refer=top)<br />
+9. [张雨绮致歉](https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%A8%E7%BB%AE%E8%87%B4%E6%AD%89&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
