@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 21:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 21:37:02</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [会计学为什么是文科报考最热门的专业？报考会计学如何选择方向？](https://www.zhihu.com/theater/10219)<br />
 6. [首都医科大学校长饶毅称院士增选中有行贿受贿，中科院学部道德委办人员回应，哪些信息值得关注？](https://www.zhihu.com/question/606031181)<br />
 7. [请教一下，写作时常说的「笔力」是指什么？应该如何提高自己的笔力？](https://www.zhihu.com/question/599560405)<br />
-8. [如果回到高考后，你会复读吗？](https://www.zhihu.com/question/604091519)<br />
-9. [如何评价《变形金刚：超能勇士崛起》？](https://www.zhihu.com/question/605098353)<br />
+8. [厄尔尼诺或在 2023 年底前出现，气象学家称 2023 年恐成有记录以来最热年份，哪些信息值得关注？](https://www.zhihu.com/question/596925575)<br />
+9. [请问造成骑兵衰落最早的起因是什么？](https://www.zhihu.com/question/604676828)<br />
 
 > 百度  
 
