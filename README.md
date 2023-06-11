@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 11:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 11:06:02</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [为什么在许多人说鹰角产能拉胯的情况下，还有许多人一直坚持玩《明日方舟》?](https://www.zhihu.com/question/605397357)<br />
 7. [为什么有人说苹果手机是「老年机之王」？](https://www.zhihu.com/question/605508210)<br />
 8. [有哪些夏季必备小家电，可以趁着 618 狠狠薅羊毛？](https://www.zhihu.com/question/602552185)<br />
-9. [家境不好适合学金融吗?](https://www.zhihu.com/question/605789223)<br />
+9. [每天练四个小时的钢琴，三年后会达到什么水准？](https://www.zhihu.com/question/441420543)<br />
 
 > 百度  
 
