@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 10:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 10:23:02</h4></div>
 
 > 微博  
 
@@ -33,7 +33,7 @@
 5. [安徽12级大风刮倒龙门吊致3死](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD12%E7%BA%A7%E5%A4%A7%E9%A3%8E%E5%88%AE%E5%80%92%E9%BE%99%E9%97%A8%E5%90%8A%E8%87%B43%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [老板谈上4休3工作制1个月后效果](https://www.baidu.com/s?wd=%E8%80%81%E6%9D%BF%E8%B0%88%E4%B8%8A4%E4%BC%913%E5%B7%A5%E4%BD%9C%E5%88%B61%E4%B8%AA%E6%9C%88%E5%90%8E%E6%95%88%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [网友说撒贝宁是国家级显眼包](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E8%AF%B4%E6%92%92%E8%B4%9D%E5%AE%81%E6%98%AF%E5%9B%BD%E5%AE%B6%E7%BA%A7%E6%98%BE%E7%9C%BC%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [50多条锦鲤首尾相连“龙形游”](https://www.baidu.com/s?wd=50%E5%A4%9A%E6%9D%A1%E9%94%A6%E9%B2%A4%E9%A6%96%E5%B0%BE%E7%9B%B8%E8%BF%9E%E2%80%9C%E9%BE%99%E5%BD%A2%E6%B8%B8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [全班把老师扔进水池寓意集体上岸](https://www.baidu.com/s?wd=%E5%85%A8%E7%8F%AD%E6%8A%8A%E8%80%81%E5%B8%88%E6%89%94%E8%BF%9B%E6%B0%B4%E6%B1%A0%E5%AF%93%E6%84%8F%E9%9B%86%E4%BD%93%E4%B8%8A%E5%B2%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [专家称年轻人不想生成本高非主因](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8D%E6%83%B3%E7%94%9F%E6%88%90%E6%9C%AC%E9%AB%98%E9%9D%9E%E4%B8%BB%E5%9B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [安徽12级大风刮倒龙门吊致3死](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD12%E7%BA%A7%E5%A4%A7%E9%A3%8E%E5%88%AE%E5%80%92%E9%BE%99%E9%97%A8%E5%90%8A%E8%87%B43%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [老板谈上4休3工作制1个月后效果](https://www.baidu.com/s?wd=%E8%80%81%E6%9D%BF%E8%B0%88%E4%B8%8A4%E4%BC%913%E5%B7%A5%E4%BD%9C%E5%88%B61%E4%B8%AA%E6%9C%88%E5%90%8E%E6%95%88%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [网友说撒贝宁是国家级显眼包](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E8%AF%B4%E6%92%92%E8%B4%9D%E5%AE%81%E6%98%AF%E5%9B%BD%E5%AE%B6%E7%BA%A7%E6%98%BE%E7%9C%BC%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [50多条锦鲤首尾相连“龙形游”](https://www.baidu.com/s?wd=50%E5%A4%9A%E6%9D%A1%E9%94%A6%E9%B2%A4%E9%A6%96%E5%B0%BE%E7%9B%B8%E8%BF%9E%E2%80%9C%E9%BE%99%E5%BD%A2%E6%B8%B8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [全班把老师扔进水池寓意集体上岸](https://www.baidu.com/s?wd=%E5%85%A8%E7%8F%AD%E6%8A%8A%E8%80%81%E5%B8%88%E6%89%94%E8%BF%9B%E6%B0%B4%E6%B1%A0%E5%AF%93%E6%84%8F%E9%9B%86%E4%BD%93%E4%B8%8A%E5%B2%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [专家称年轻人不想生成本高非主因](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8D%E6%83%B3%E7%94%9F%E6%88%90%E6%9C%AC%E9%AB%98%E9%9D%9E%E4%B8%BB%E5%9B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
