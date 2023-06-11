@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 19:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 19:03:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [北京政法职业学院发布情况通报](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%94%BF%E6%B3%95%E8%81%8C%E4%B8%9A%E5%AD%A6%E9%99%A2%E5%8F%91%E5%B8%83%E6%83%85%E5%86%B5%E9%80%9A%E6%8A%A5%23&t=31&band_rank=6&Refer=top)<br />
 7. [女子瘫痪后欲轻生丈夫用爱唤回](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%98%AB%E7%97%AA%E5%90%8E%E6%AC%B2%E8%BD%BB%E7%94%9F%E4%B8%88%E5%A4%AB%E7%94%A8%E7%88%B1%E5%94%A4%E5%9B%9E%23&t=31&band_rank=7&Refer=top)<br />
 8. [梅西见面会取消](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%A7%81%E9%9D%A2%E4%BC%9A%E5%8F%96%E6%B6%88%23&t=31&band_rank=8&Refer=top)<br />
-9. [张雨绮说699我都买不了袜子](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%A8%E7%BB%AE%E8%AF%B4699%E6%88%91%E9%83%BD%E4%B9%B0%E4%B8%8D%E4%BA%86%E8%A2%9C%E5%AD%90%23&t=31&band_rank=9&Refer=top)<br />
+9. [网友评的四大女演贝](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E8%AF%84%E7%9A%84%E5%9B%9B%E5%A4%A7%E5%A5%B3%E6%BC%94%E8%B4%9D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -19,10 +19,10 @@
 3. [年轻人赶高铁跨省存钱，扣除交通费后存 10 万可多出 1250 元利息，如何看待这种理财方式？](https://www.zhihu.com/question/606011560)<br />
 4. [如何评价《变形金刚：超能勇士崛起》？](https://www.zhihu.com/question/605098353)<br />
 5. [男子辞去上海月薪 2 万的工作，在家当「全职儿子」，父母每月开工资 5500 元，如何看待这一现象？](https://www.zhihu.com/question/605994770)<br />
-6. [欧洲足坛十大「三冠王」球队，你认为哪队最具统治力，巴萨六冠王还是宇宙最强吗？](https://www.zhihu.com/question/605978412)<br />
-7. []()<br />
-8. [如何评价 AI 教父 Hinton 演讲提到「如何控制比人类还聪明的超级智能，是一场前所未有的挑战」？](https://www.zhihu.com/question/606001161)<br />
-9. [作者怎么知道自己有没有和别人撞脑洞？](https://www.zhihu.com/question/603524895)<br />
+6. [广州市监测发现 2 例猴痘病例，猴痘是怎样传播的，应该采取哪些防疫措施？](https://www.zhihu.com/question/605983642)<br />
+7. [欧洲足坛十大「三冠王」球队，你认为哪队最具统治力，巴萨六冠王还是宇宙最强吗？](https://www.zhihu.com/question/605978412)<br />
+8. []()<br />
+9. [如何评价 AI 教父 Hinton 演讲提到「如何控制比人类还聪明的超级智能，是一场前所未有的挑战」？](https://www.zhihu.com/question/606001161)<br />
 
 > 百度  
 
