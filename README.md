@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 14:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 14:45:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [央视网评演员变演贝](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E7%BD%91%E8%AF%84%E6%BC%94%E5%91%98%E5%8F%98%E6%BC%94%E8%B4%9D%23&t=31&band_rank=6&Refer=top)<br />
 7. [都给马思纯p成啥样了](https://s.weibo.com/weibo?q=%23%E9%83%BD%E7%BB%99%E9%A9%AC%E6%80%9D%E7%BA%AFp%E6%88%90%E5%95%A5%E6%A0%B7%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [你当明星会被扒出什么黑料](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%BD%93%E6%98%8E%E6%98%9F%E4%BC%9A%E8%A2%AB%E6%89%92%E5%87%BA%E4%BB%80%E4%B9%88%E9%BB%91%E6%96%99%23&t=31&band_rank=8&Refer=top)<br />
-9. [香港大黄鸭被热爆一只](https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%A4%A7%E9%BB%84%E9%B8%AD%E8%A2%AB%E7%83%AD%E7%88%86%E4%B8%80%E5%8F%AA%23&t=31&band_rank=9&Refer=top)<br />
+9. [私拆承重墙事件最新通报](https://s.weibo.com/weibo?q=%23%E7%A7%81%E6%8B%86%E6%89%BF%E9%87%8D%E5%A2%99%E4%BA%8B%E4%BB%B6%E6%9C%80%E6%96%B0%E9%80%9A%E6%8A%A5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
