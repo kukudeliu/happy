@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 15:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 15:12:01</h4></div>
 
 > 微博  
 
@@ -10,14 +10,14 @@
 6. [梁田从芒果离职](https://s.weibo.com/weibo?q=%23%E6%A2%81%E7%94%B0%E4%BB%8E%E8%8A%92%E6%9E%9C%E7%A6%BB%E8%81%8C%23&t=31&band_rank=6&Refer=top)<br />
 7. [范丞丞王鹤棣把白鹿扔水里了](https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%8A%8A%E7%99%BD%E9%B9%BF%E6%89%94%E6%B0%B4%E9%87%8C%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [孟子义 好过得刚](https://s.weibo.com/weibo?q=%E5%AD%9F%E5%AD%90%E4%B9%89%20%E5%A5%BD%E8%BF%87%E5%BE%97%E5%88%9A&t=31&band_rank=8&Refer=top)<br />
-9. [私拆承重墙事件最新通报](https://s.weibo.com/weibo?q=%23%E7%A7%81%E6%8B%86%E6%89%BF%E9%87%8D%E5%A2%99%E4%BA%8B%E4%BB%B6%E6%9C%80%E6%96%B0%E9%80%9A%E6%8A%A5%23&t=31&band_rank=9&Refer=top)<br />
+9. [专家称年轻人不想生成本高并非主因](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8D%E6%83%B3%E7%94%9F%E6%88%90%E6%9C%AC%E9%AB%98%E5%B9%B6%E9%9D%9E%E4%B8%BB%E5%9B%A0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [广州拟分路段分时段限行电动自行车，全城 300 多万辆上牌电动自行车已超出承载能力，如何看待这一举措？](https://www.zhihu.com/question/605885428)<br />
 2. [ChatGPT 之父中国对话引用《道德经》，谈到大国分歧与 AGI 时间表，哪些内容值得关注？](https://www.zhihu.com/question/605868976)<br />
-3. [瓜迪奥拉收获教练生涯第 35 冠，夺 3 座欧冠冠军，两次加冕三冠王，瓜帅是否已是历史第一教练？](https://www.zhihu.com/question/605975499)<br />
-4. [高斯以前的人怎样计算 1+2+…+100？](https://www.zhihu.com/question/605862776)<br />
+3. [高斯以前的人怎样计算 1+2+…+100？](https://www.zhihu.com/question/605862776)<br />
+4. [瓜迪奥拉收获教练生涯第 35 冠，夺 3 座欧冠冠军，两次加冕三冠王，瓜帅是否已是历史第一教练？](https://www.zhihu.com/question/605975499)<br />
 5. [C++ 有什么好用的线程池？](https://www.zhihu.com/question/397916107)<br />
 6. []()<br />
 7. [新能源汽车着火了，应该用什么方式来灭火？](https://www.zhihu.com/question/604495331)<br />
