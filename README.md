@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 09:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 09:37:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [肖战侯明昊郭俊辰7天涨粉](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E4%BE%AF%E6%98%8E%E6%98%8A%E9%83%AD%E4%BF%8A%E8%BE%B07%E5%A4%A9%E6%B6%A8%E7%B2%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [醉汉买瓜因不满沙瓤夺刀捅自己](https://s.weibo.com/weibo?q=%23%E9%86%89%E6%B1%89%E4%B9%B0%E7%93%9C%E5%9B%A0%E4%B8%8D%E6%BB%A1%E6%B2%99%E7%93%A4%E5%A4%BA%E5%88%80%E6%8D%85%E8%87%AA%E5%B7%B1%23&t=31&band_rank=7&Refer=top)<br />
 8. [花戎婚礼变葬礼](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E6%88%8E%E5%A9%9A%E7%A4%BC%E5%8F%98%E8%91%AC%E7%A4%BC%23&t=31&band_rank=8&Refer=top)<br />
-9. [法老 幼稚园杀手](https://s.weibo.com/weibo?q=%E6%B3%95%E8%80%81%20%E5%B9%BC%E7%A8%9A%E5%9B%AD%E6%9D%80%E6%89%8B&t=31&band_rank=9&Refer=top)<br />
+9. [惠英红 我是宝贝小斐的一日站姐](https://s.weibo.com/weibo?q=%E6%83%A0%E8%8B%B1%E7%BA%A2%20%E6%88%91%E6%98%AF%E5%AE%9D%E8%B4%9D%E5%B0%8F%E6%96%90%E7%9A%84%E4%B8%80%E6%97%A5%E7%AB%99%E5%A7%90&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [和女友约好出去旅游，她闺蜜也要跟去，怎么办?](https://www.zhihu.com/question/602584344)<br />
 7. [22-23 赛季欧冠曼城 1:0 国米加冕三冠王，罗德里破门荣膺决赛 MVP，如何看待这场比赛?](https://www.zhihu.com/question/605952777)<br />
 8. [北上广深等城市出现一批首付几十万的楼盘，对于刚需买房和希望在北京积分落户的人群，此时是否要低门槛上车？](https://www.zhihu.com/question/605671771)<br />
-9. [二十万的轿车跟四十万的轿车究竟差别在哪里？](https://www.zhihu.com/question/343791192)<br />
+9. [一患者因脑梗去世，医生承认此前未成功植入脑血管支架并隐瞒，两者是否存在因果关系？医生应承担哪些责任？](https://www.zhihu.com/question/605823854)<br />
 
 > 百度  
 
