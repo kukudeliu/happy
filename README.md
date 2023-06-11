@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 23:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 23:27:01</h4></div>
 
 > 微博  
 
@@ -20,8 +20,8 @@
 4. [厄尔尼诺或在 2023 年底前出现，气象学家称 2023 年恐成有记录以来最热年份，哪些信息值得关注？](https://www.zhihu.com/question/596925575)<br />
 5. [我国 5 月 CPI 同比上升 0.2%，PPI 同比下降 4.6%，如何解读？哪些信息值得关注？](https://www.zhihu.com/question/605623897)<br />
 6. [孩子严重烫伤 9 天才送医院，爸爸称「没必要」拒绝手术，现孩子被家长安排自行出院，如何看待家长行为？](https://www.zhihu.com/question/604863474)<br />
-7. [大脑能耗很高，为什么没有多动脑子的减肥方法？](https://www.zhihu.com/question/596469703)<br />
-8. [2023 LPL 夏季赛 TES 2:1 击败 WBG，如何评价这场比赛？](https://www.zhihu.com/question/606036846)<br />
+7. [2023 LPL 夏季赛 TES 2:1 击败 WBG，如何评价这场比赛？](https://www.zhihu.com/question/606036846)<br />
+8. [大脑能耗很高，为什么没有多动脑子的减肥方法？](https://www.zhihu.com/question/596469703)<br />
 9. [请问造成骑兵衰落最早的起因是什么？](https://www.zhihu.com/question/604676828)<br />
 
 > 百度  
