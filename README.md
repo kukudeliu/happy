@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 00:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 00:04:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [迪丽热巴蝴蝶骨好明显](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%9D%B4%E8%9D%B6%E9%AA%A8%E5%A5%BD%E6%98%8E%E6%98%BE%23&t=31&band_rank=6&Refer=top)<br />
 7. [张雨绮说699我都买不了袜子](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%A8%E7%BB%AE%E8%AF%B4699%E6%88%91%E9%83%BD%E4%B9%B0%E4%B8%8D%E4%BA%86%E8%A2%9C%E5%AD%90%23&t=31&band_rank=7&Refer=top)<br />
 8. [薛之谦说我开始找你了梅西](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E8%AF%B4%E6%88%91%E5%BC%80%E5%A7%8B%E6%89%BE%E4%BD%A0%E4%BA%86%E6%A2%85%E8%A5%BF%23&t=31&band_rank=8&Refer=top)<br />
-9. [爸爸带女儿跑步200余天孩子变化明显](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E5%B8%A6%E5%A5%B3%E5%84%BF%E8%B7%91%E6%AD%A5200%E4%BD%99%E5%A4%A9%E5%AD%A9%E5%AD%90%E5%8F%98%E5%8C%96%E6%98%8E%E6%98%BE%23&t=31&band_rank=9&Refer=top)<br />
+9. [曝光大叔女子哭诉学校准备开除她](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%85%89%E5%A4%A7%E5%8F%94%E5%A5%B3%E5%AD%90%E5%93%AD%E8%AF%89%E5%AD%A6%E6%A0%A1%E5%87%86%E5%A4%87%E5%BC%80%E9%99%A4%E5%A5%B9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [2023 LPL 夏季赛 TES 2:1 击败 WBG，如何评价这场比赛？](https://www.zhihu.com/question/606036846)<br />
 7. [大脑能耗很高，为什么没有多动脑子的减肥方法？](https://www.zhihu.com/question/596469703)<br />
 8. [自然健身肌肉最大可以练成什么样子？](https://www.zhihu.com/question/599380271)<br />
-9. [高考 700 分和存款 700 万，你选择哪个？](https://www.zhihu.com/question/605422526)<br />
+9. [深圳的氛围真的都是大家都在搞钱吗？](https://www.zhihu.com/question/512330743)<br />
 
 > 百度  
 
@@ -31,10 +31,10 @@
 3. [白岩松:关注二孩三孩不如先关注一孩](https://www.baidu.com/s?wd=%E7%99%BD%E5%B2%A9%E6%9D%BE%3A%E5%85%B3%E6%B3%A8%E4%BA%8C%E5%AD%A9%E4%B8%89%E5%AD%A9%E4%B8%8D%E5%A6%82%E5%85%88%E5%85%B3%E6%B3%A8%E4%B8%80%E5%AD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [炎炎夏夜里升腾的烟火气](https://www.baidu.com/s?wd=%E7%82%8E%E7%82%8E%E5%A4%8F%E5%A4%9C%E9%87%8C%E5%8D%87%E8%85%BE%E7%9A%84%E7%83%9F%E7%81%AB%E6%B0%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [大叔自证未偷拍仍遭曝光 女生道歉](https://www.baidu.com/s?wd=%E5%A4%A7%E5%8F%94%E8%87%AA%E8%AF%81%E6%9C%AA%E5%81%B7%E6%8B%8D%E4%BB%8D%E9%81%AD%E6%9B%9D%E5%85%89+%E5%A5%B3%E7%94%9F%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [官方通报村副书记出轨村书记](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%9D%91%E5%89%AF%E4%B9%A6%E8%AE%B0%E5%87%BA%E8%BD%A8%E6%9D%91%E4%B9%A6%E8%AE%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [乌克兰一乐队去音乐会途中被抓参军](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E4%B8%80%E4%B9%90%E9%98%9F%E5%8E%BB%E9%9F%B3%E4%B9%90%E4%BC%9A%E9%80%94%E4%B8%AD%E8%A2%AB%E6%8A%93%E5%8F%82%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [张雨绮道歉](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%A8%E7%BB%AE%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子仗义执言遭同学怒怼？高校回应](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%BB%97%E4%B9%89%E6%89%A7%E8%A8%80%E9%81%AD%E5%90%8C%E5%AD%A6%E6%80%92%E6%80%BC%EF%BC%9F%E9%AB%98%E6%A0%A1%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [乌克兰一乐队去音乐会途中被抓参军](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E4%B8%80%E4%B9%90%E9%98%9F%E5%8E%BB%E9%9F%B3%E4%B9%90%E4%BC%9A%E9%80%94%E4%B8%AD%E8%A2%AB%E6%8A%93%E5%8F%82%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [官方通报村副书记出轨村书记](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%9D%91%E5%89%AF%E4%B9%A6%E8%AE%B0%E5%87%BA%E8%BD%A8%E6%9D%91%E4%B9%A6%E8%AE%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [剩菜盲盒，何以流行？](https://www.baidu.com/s?wd=%E5%89%A9%E8%8F%9C%E7%9B%B2%E7%9B%92%EF%BC%8C%E4%BD%95%E4%BB%A5%E6%B5%81%E8%A1%8C%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [坠机后4孩童如何丛林生存40天？](https://www.baidu.com/s?wd=%E5%9D%A0%E6%9C%BA%E5%90%8E4%E5%AD%A9%E7%AB%A5%E5%A6%82%E4%BD%95%E4%B8%9B%E6%9E%97%E7%94%9F%E5%AD%9840%E5%A4%A9%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [白岩松:关注二孩三孩不如先关注一孩](https://www.baidu.com/s?wd=%E7%99%BD%E5%B2%A9%E6%9D%BE%3A%E5%85%B3%E6%B3%A8%E4%BA%8C%E5%AD%A9%E4%B8%89%E5%AD%A9%E4%B8%8D%E5%A6%82%E5%85%88%E5%85%B3%E6%B3%A8%E4%B8%80%E5%AD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [炎炎夏夜里升腾的烟火气](https://www.baidu.com/s?wd=%E7%82%8E%E7%82%8E%E5%A4%8F%E5%A4%9C%E9%87%8C%E5%8D%87%E8%85%BE%E7%9A%84%E7%83%9F%E7%81%AB%E6%B0%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [大叔自证未偷拍仍遭曝光 女生道歉](https://www.baidu.com/s?wd=%E5%A4%A7%E5%8F%94%E8%87%AA%E8%AF%81%E6%9C%AA%E5%81%B7%E6%8B%8D%E4%BB%8D%E9%81%AD%E6%9B%9D%E5%85%89+%E5%A5%B3%E7%94%9F%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [官方通报村副书记出轨村书记](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%9D%91%E5%89%AF%E4%B9%A6%E8%AE%B0%E5%87%BA%E8%BD%A8%E6%9D%91%E4%B9%A6%E8%AE%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [乌克兰一乐队去音乐会途中被抓参军](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E4%B8%80%E4%B9%90%E9%98%9F%E5%8E%BB%E9%9F%B3%E4%B9%90%E4%BC%9A%E9%80%94%E4%B8%AD%E8%A2%AB%E6%8A%93%E5%8F%82%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [张雨绮道歉](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%A8%E7%BB%AE%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子仗义执言遭同学怒怼？高校回应](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%BB%97%E4%B9%89%E6%89%A7%E8%A8%80%E9%81%AD%E5%90%8C%E5%AD%A6%E6%80%92%E6%80%BC%EF%BC%9F%E9%AB%98%E6%A0%A1%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [乌克兰一乐队去音乐会途中被抓参军](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E4%B8%80%E4%B9%90%E9%98%9F%E5%8E%BB%E9%9F%B3%E4%B9%90%E4%BC%9A%E9%80%94%E4%B8%AD%E8%A2%AB%E6%8A%93%E5%8F%82%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [官方通报村副书记出轨村书记](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%9D%91%E5%89%AF%E4%B9%A6%E8%AE%B0%E5%87%BA%E8%BD%A8%E6%9D%91%E4%B9%A6%E8%AE%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [剩菜盲盒，何以流行？](https://www.baidu.com/s?wd=%E5%89%A9%E8%8F%9C%E7%9B%B2%E7%9B%92%EF%BC%8C%E4%BD%95%E4%BB%A5%E6%B5%81%E8%A1%8C%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [坠机后4孩童如何丛林生存40天？](https://www.baidu.com/s?wd=%E5%9D%A0%E6%9C%BA%E5%90%8E4%E5%AD%A9%E7%AB%A5%E5%A6%82%E4%BD%95%E4%B8%9B%E6%9E%97%E7%94%9F%E5%AD%9840%E5%A4%A9%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
