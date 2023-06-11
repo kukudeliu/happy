@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 06:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 06:18:01</h4></div>
 
 > 微博  
 
@@ -19,10 +19,10 @@
 3. [德国 GDP 两个现季度出负增长，欧洲「火车头」成「害群之马」，德国经济怎么了？对欧洲会造成哪些影响？](https://www.zhihu.com/question/605491276)<br />
 4. [首都医科大学校长饶毅称院士增选中有行贿受贿，中科院学部道德委办人员回应，哪些信息值得关注？](https://www.zhihu.com/question/606031181)<br />
 5. [苏享茂哥哥称翟欣欣涉嫌敲诈勒索已被逮捕，这意味着什么？此前翟欣欣退还 660 万，此事或将如何进展？](https://www.zhihu.com/question/605647767)<br />
-6. []()<br />
-7. [如何评价仙剑手游《新仙剑奇侠传之挥剑问情》，它在《仙剑》系列里会是什么定位? 对此你有哪些期待？](https://www.zhihu.com/question/605524413)<br />
-8. [每到大促，为什么年龄越大，越感觉没什么可买的？](https://www.zhihu.com/question/605463752)<br />
-9. [2023 LPL 夏季赛 TES 2:1 击败 WBG，如何评价这场比赛？](https://www.zhihu.com/question/606036846)<br />
+6. [如何评价仙剑手游《新仙剑奇侠传之挥剑问情》，它在《仙剑》系列里会是什么定位? 对此你有哪些期待？](https://www.zhihu.com/question/605524413)<br />
+7. [每到大促，为什么年龄越大，越感觉没什么可买的？](https://www.zhihu.com/question/605463752)<br />
+8. [2023 LPL 夏季赛 TES 2:1 击败 WBG，如何评价这场比赛？](https://www.zhihu.com/question/606036846)<br />
+9. []()<br />
 
 > 百度  
 
