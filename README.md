@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 06:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 06:28:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [首都医科大学校长饶毅称院士增选中有行贿受贿，中科院学部道德委办人员回应，哪些信息值得关注？](https://www.zhihu.com/question/606031181)<br />
 5. [苏享茂哥哥称翟欣欣涉嫌敲诈勒索已被逮捕，这意味着什么？此前翟欣欣退还 660 万，此事或将如何进展？](https://www.zhihu.com/question/605647767)<br />
 6. []()<br />
-7. [大脑能耗很高，为什么没有多动脑子的减肥方法？](https://www.zhihu.com/question/596469703)<br />
-8. []()<br />
-9. [神经网络如何入门？](https://www.zhihu.com/question/313723292)<br />
+7. []()<br />
+8. [神经网络如何入门？](https://www.zhihu.com/question/313723292)<br />
+9. [大脑能耗很高，为什么没有多动脑子的减肥方法？](https://www.zhihu.com/question/596469703)<br />
 
 > 百度  
 
