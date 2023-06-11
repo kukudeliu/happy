@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 22:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 22:55:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [我国 5 月 CPI 同比上升 0.2%，PPI 同比下降 4.6%，如何解读？哪些信息值得关注？](https://www.zhihu.com/question/605623897)<br />
 6. [请问造成骑兵衰落最早的起因是什么？](https://www.zhihu.com/question/604676828)<br />
 7. [孩子严重烫伤 9 天才送医院，爸爸称「没必要」拒绝手术，现孩子被家长安排自行出院，如何看待家长行为？](https://www.zhihu.com/question/604863474)<br />
-8. []()<br />
-9. [大脑能耗很高，为什么没有多动脑子的减肥方法？](https://www.zhihu.com/question/596469703)<br />
+8. [大脑能耗很高，为什么没有多动脑子的减肥方法？](https://www.zhihu.com/question/596469703)<br />
+9. []()<br />
 
 > 百度  
 
