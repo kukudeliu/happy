@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 06:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 06:21:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [首都医科大学校长饶毅称院士增选中有行贿受贿，中科院学部道德委办人员回应，哪些信息值得关注？](https://www.zhihu.com/question/606031181)<br />
 5. [苏享茂哥哥称翟欣欣涉嫌敲诈勒索已被逮捕，这意味着什么？此前翟欣欣退还 660 万，此事或将如何进展？](https://www.zhihu.com/question/605647767)<br />
 6. [2023 LPL 夏季赛 TES 2:1 击败 WBG，如何评价这场比赛？](https://www.zhihu.com/question/606036846)<br />
-7. [如何评价仙剑手游《新仙剑奇侠传之挥剑问情》，它在《仙剑》系列里会是什么定位? 对此你有哪些期待？](https://www.zhihu.com/question/605524413)<br />
-8. [能分享一下你所在行业的内幕吗？](https://www.zhihu.com/question/339539047)<br />
-9. [每到大促，为什么年龄越大，越感觉没什么可买的？](https://www.zhihu.com/question/605463752)<br />
+7. [能分享一下你所在行业的内幕吗？](https://www.zhihu.com/question/339539047)<br />
+8. [大部分癌症为什么一发现就已经是晚期了？](https://www.zhihu.com/question/605136048)<br />
+9. [自然健身肌肉最大可以练成什么样子？](https://www.zhihu.com/question/599380271)<br />
 
 > 百度  
 
