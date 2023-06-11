@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 15:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 15:30:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [专家称年轻人不想生成本高并非主因](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8D%E6%83%B3%E7%94%9F%E6%88%90%E6%9C%AC%E9%AB%98%E5%B9%B6%E9%9D%9E%E4%B8%BB%E5%9B%A0%23&t=31&band_rank=6&Refer=top)<br />
 7. [孟子义 好过得刚](https://s.weibo.com/weibo?q=%E5%AD%9F%E5%AD%90%E4%B9%89%20%E5%A5%BD%E8%BF%87%E5%BE%97%E5%88%9A&t=31&band_rank=7&Refer=top)<br />
 8. [我的农民爸爸读了我的硕士论文](https://s.weibo.com/weibo?q=%E6%88%91%E7%9A%84%E5%86%9C%E6%B0%91%E7%88%B8%E7%88%B8%E8%AF%BB%E4%BA%86%E6%88%91%E7%9A%84%E7%A1%95%E5%A3%AB%E8%AE%BA%E6%96%87&t=31&band_rank=8&Refer=top)<br />
-9. [范丞丞王鹤棣把白鹿扔水里了](https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%8A%8A%E7%99%BD%E9%B9%BF%E6%89%94%E6%B0%B4%E9%87%8C%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [蒋依依希望尽快和平解约](https://s.weibo.com/weibo?q=%23%E8%92%8B%E4%BE%9D%E4%BE%9D%E5%B8%8C%E6%9C%9B%E5%B0%BD%E5%BF%AB%E5%92%8C%E5%B9%B3%E8%A7%A3%E7%BA%A6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
