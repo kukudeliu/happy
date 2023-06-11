@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 00:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 00:39:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [大脑能耗很高，为什么没有多动脑子的减肥方法？](https://www.zhihu.com/question/596469703)<br />
 7. [深圳的氛围真的都是大家都在搞钱吗？](https://www.zhihu.com/question/512330743)<br />
 8. [自然健身肌肉最大可以练成什么样子？](https://www.zhihu.com/question/599380271)<br />
-9. [孩子严重烫伤 9 天才送医院，爸爸称「没必要」拒绝手术，现孩子被家长安排自行出院，如何看待家长行为？](https://www.zhihu.com/question/604863474)<br />
+9. [高考 700 分和存款 700 万，你选择哪个？](https://www.zhihu.com/question/605422526)<br />
 
 > 百度  
 
@@ -31,9 +31,9 @@
 3. [白岩松:关注二孩三孩不如先关注一孩](https://www.baidu.com/s?wd=%E7%99%BD%E5%B2%A9%E6%9D%BE%3A%E5%85%B3%E6%B3%A8%E4%BA%8C%E5%AD%A9%E4%B8%89%E5%AD%A9%E4%B8%8D%E5%A6%82%E5%85%88%E5%85%B3%E6%B3%A8%E4%B8%80%E5%AD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [炎炎夏夜里升腾的烟火气](https://www.baidu.com/s?wd=%E7%82%8E%E7%82%8E%E5%A4%8F%E5%A4%9C%E9%87%8C%E5%8D%87%E8%85%BE%E7%9A%84%E7%83%9F%E7%81%AB%E6%B0%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [大叔自证未偷拍仍遭曝光 女生道歉](https://www.baidu.com/s?wd=%E5%A4%A7%E5%8F%94%E8%87%AA%E8%AF%81%E6%9C%AA%E5%81%B7%E6%8B%8D%E4%BB%8D%E9%81%AD%E6%9B%9D%E5%85%89+%E5%A5%B3%E7%94%9F%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [洛阳多名城管殴打商贩？官方回应](https://www.baidu.com/s?wd=%E6%B4%9B%E9%98%B3%E5%A4%9A%E5%90%8D%E5%9F%8E%E7%AE%A1%E6%AE%B4%E6%89%93%E5%95%86%E8%B4%A9%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [学校回应网传中学女生遭多人掌掴](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E4%B8%AD%E5%AD%A6%E5%A5%B3%E7%94%9F%E9%81%AD%E5%A4%9A%E4%BA%BA%E6%8E%8C%E6%8E%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [官方通报村副书记出轨村书记](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%9D%91%E5%89%AF%E4%B9%A6%E8%AE%B0%E5%87%BA%E8%BD%A8%E6%9D%91%E4%B9%A6%E8%AE%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [学校回应网传中学女生遭多人掌掴](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E4%B8%AD%E5%AD%A6%E5%A5%B3%E7%94%9F%E9%81%AD%E5%A4%9A%E4%BA%BA%E6%8E%8C%E6%8E%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [官方通报村副书记出轨村书记](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%9D%91%E5%89%AF%E4%B9%A6%E8%AE%B0%E5%87%BA%E8%BD%A8%E6%9D%91%E4%B9%A6%E8%AE%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [迪丽热巴红毯赶蚊子](https://www.baidu.com/s?wd=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%BA%A2%E6%AF%AF%E8%B5%B6%E8%9A%8A%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [火车站按摩椅现大量虫子](https://www.baidu.com/s?wd=%E7%81%AB%E8%BD%A6%E7%AB%99%E6%8C%89%E6%91%A9%E6%A4%85%E7%8E%B0%E5%A4%A7%E9%87%8F%E8%99%AB%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -43,7 +43,7 @@
 3. [白岩松:关注二孩三孩不如先关注一孩](https://www.baidu.com/s?wd=%E7%99%BD%E5%B2%A9%E6%9D%BE%3A%E5%85%B3%E6%B3%A8%E4%BA%8C%E5%AD%A9%E4%B8%89%E5%AD%A9%E4%B8%8D%E5%A6%82%E5%85%88%E5%85%B3%E6%B3%A8%E4%B8%80%E5%AD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [炎炎夏夜里升腾的烟火气](https://www.baidu.com/s?wd=%E7%82%8E%E7%82%8E%E5%A4%8F%E5%A4%9C%E9%87%8C%E5%8D%87%E8%85%BE%E7%9A%84%E7%83%9F%E7%81%AB%E6%B0%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [大叔自证未偷拍仍遭曝光 女生道歉](https://www.baidu.com/s?wd=%E5%A4%A7%E5%8F%94%E8%87%AA%E8%AF%81%E6%9C%AA%E5%81%B7%E6%8B%8D%E4%BB%8D%E9%81%AD%E6%9B%9D%E5%85%89+%E5%A5%B3%E7%94%9F%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [洛阳多名城管殴打商贩？官方回应](https://www.baidu.com/s?wd=%E6%B4%9B%E9%98%B3%E5%A4%9A%E5%90%8D%E5%9F%8E%E7%AE%A1%E6%AE%B4%E6%89%93%E5%95%86%E8%B4%A9%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [学校回应网传中学女生遭多人掌掴](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E4%B8%AD%E5%AD%A6%E5%A5%B3%E7%94%9F%E9%81%AD%E5%A4%9A%E4%BA%BA%E6%8E%8C%E6%8E%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [官方通报村副书记出轨村书记](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%9D%91%E5%89%AF%E4%B9%A6%E8%AE%B0%E5%87%BA%E8%BD%A8%E6%9D%91%E4%B9%A6%E8%AE%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [学校回应网传中学女生遭多人掌掴](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E4%B8%AD%E5%AD%A6%E5%A5%B3%E7%94%9F%E9%81%AD%E5%A4%9A%E4%BA%BA%E6%8E%8C%E6%8E%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [官方通报村副书记出轨村书记](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%9D%91%E5%89%AF%E4%B9%A6%E8%AE%B0%E5%87%BA%E8%BD%A8%E6%9D%91%E4%B9%A6%E8%AE%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [迪丽热巴红毯赶蚊子](https://www.baidu.com/s?wd=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%BA%A2%E6%AF%AF%E8%B5%B6%E8%9A%8A%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [火车站按摩椅现大量虫子](https://www.baidu.com/s?wd=%E7%81%AB%E8%BD%A6%E7%AB%99%E6%8C%89%E6%91%A9%E6%A4%85%E7%8E%B0%E5%A4%A7%E9%87%8F%E8%99%AB%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
