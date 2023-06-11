@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 09:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 09:21:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [文化和自然遗产冷知识](https://s.weibo.com/weibo?q=%23%E6%96%87%E5%8C%96%E5%92%8C%E8%87%AA%E7%84%B6%E9%81%97%E4%BA%A7%E5%86%B7%E7%9F%A5%E8%AF%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [林志玲](https://s.weibo.com/weibo?q=%E6%9E%97%E5%BF%97%E7%8E%B2&t=31&band_rank=4&Refer=top)<br />
 5. [醉汉买瓜因不满沙瓤夺刀捅自己](https://s.weibo.com/weibo?q=%23%E9%86%89%E6%B1%89%E4%B9%B0%E7%93%9C%E5%9B%A0%E4%B8%8D%E6%BB%A1%E6%B2%99%E7%93%A4%E5%A4%BA%E5%88%80%E6%8D%85%E8%87%AA%E5%B7%B1%23&t=31&band_rank=5&Refer=top)<br />
-6. [肖战侯明昊郭俊辰7天涨粉](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E4%BE%AF%E6%98%8E%E6%98%8A%E9%83%AD%E4%BF%8A%E8%BE%B07%E5%A4%A9%E6%B6%A8%E7%B2%89%23&t=31&band_rank=6&Refer=top)<br />
-7. [珠峰被救女子不付救援费背后](https://s.weibo.com/weibo?q=%23%E7%8F%A0%E5%B3%B0%E8%A2%AB%E6%95%91%E5%A5%B3%E5%AD%90%E4%B8%8D%E4%BB%98%E6%95%91%E6%8F%B4%E8%B4%B9%E8%83%8C%E5%90%8E%23&t=31&band_rank=7&Refer=top)<br />
-8. [大半个娱乐圈都在江苏吧](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%8D%8A%E4%B8%AA%E5%A8%B1%E4%B9%90%E5%9C%88%E9%83%BD%E5%9C%A8%E6%B1%9F%E8%8B%8F%E5%90%A7%23&t=31&band_rank=8&Refer=top)<br />
+6. [珠峰被救女子不付救援费背后](https://s.weibo.com/weibo?q=%23%E7%8F%A0%E5%B3%B0%E8%A2%AB%E6%95%91%E5%A5%B3%E5%AD%90%E4%B8%8D%E4%BB%98%E6%95%91%E6%8F%B4%E8%B4%B9%E8%83%8C%E5%90%8E%23&t=31&band_rank=6&Refer=top)<br />
+7. [肖战侯明昊郭俊辰7天涨粉](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E4%BE%AF%E6%98%8E%E6%98%8A%E9%83%AD%E4%BF%8A%E8%BE%B07%E5%A4%A9%E6%B6%A8%E7%B2%89%23&t=31&band_rank=7&Refer=top)<br />
+8. [法老 幼稚园杀手](https://s.weibo.com/weibo?q=%E6%B3%95%E8%80%81%20%E5%B9%BC%E7%A8%9A%E5%9B%AD%E6%9D%80%E6%89%8B&t=31&band_rank=8&Refer=top)<br />
 9. [三星堆遗址再曝重磅消息](https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%98%9F%E5%A0%86%E9%81%97%E5%9D%80%E5%86%8D%E6%9B%9D%E9%87%8D%E7%A3%85%E6%B6%88%E6%81%AF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -21,8 +21,8 @@
 5. [和女友约好出去旅游，她闺蜜也要跟去，怎么办?](https://www.zhihu.com/question/602584344)<br />
 6. [22-23 赛季欧冠曼城 1:0 国米加冕三冠王，罗德里破门荣膺决赛 MVP，如何看待这场比赛?](https://www.zhihu.com/question/605952777)<br />
 7. [一患者因脑梗去世，医生承认此前未成功植入脑血管支架并隐瞒，两者是否存在因果关系？医生应承担哪些责任？](https://www.zhihu.com/question/605823854)<br />
-8. [6 月 10 日起，12306 网站试行在线选铺服务，将带来哪些便利，出行时你会选择哪个座位？](https://www.zhihu.com/question/605812479)<br />
-9. [二十万的轿车跟四十万的轿车究竟差别在哪里？](https://www.zhihu.com/question/343791192)<br />
+8. [梅西已抵达北京，正式开启个人第七次中国行，你对梅西本次中国行有何期待？](https://www.zhihu.com/question/605817048)<br />
+9. [6 月 10 日起，12306 网站试行在线选铺服务，将带来哪些便利，出行时你会选择哪个座位？](https://www.zhihu.com/question/605812479)<br />
 
 > 百度  
 
