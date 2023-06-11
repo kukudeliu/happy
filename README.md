@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 14:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 14:47:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [范丞丞王鹤棣把白鹿扔水里了](https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%8A%8A%E7%99%BD%E9%B9%BF%E6%89%94%E6%B0%B4%E9%87%8C%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [文化和自然遗产冷知识](https://s.weibo.com/weibo?q=%23%E6%96%87%E5%8C%96%E5%92%8C%E8%87%AA%E7%84%B6%E9%81%97%E4%BA%A7%E5%86%B7%E7%9F%A5%E8%AF%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [校园霸凌](https://s.weibo.com/weibo?q=%E6%A0%A1%E5%9B%AD%E9%9C%B8%E5%87%8C&t=31&band_rank=4&Refer=top)<br />
-5. [梁田从芒果离职](https://s.weibo.com/weibo?q=%23%E6%A2%81%E7%94%B0%E4%BB%8E%E8%8A%92%E6%9E%9C%E7%A6%BB%E8%81%8C%23&t=31&band_rank=5&Refer=top)<br />
-6. [央视网评演员变演贝](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E7%BD%91%E8%AF%84%E6%BC%94%E5%91%98%E5%8F%98%E6%BC%94%E8%B4%9D%23&t=31&band_rank=6&Refer=top)<br />
+5. [央视网评演员变演贝](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E7%BD%91%E8%AF%84%E6%BC%94%E5%91%98%E5%8F%98%E6%BC%94%E8%B4%9D%23&t=31&band_rank=5&Refer=top)<br />
+6. [梁田从芒果离职](https://s.weibo.com/weibo?q=%23%E6%A2%81%E7%94%B0%E4%BB%8E%E8%8A%92%E6%9E%9C%E7%A6%BB%E8%81%8C%23&t=31&band_rank=6&Refer=top)<br />
 7. [都给马思纯p成啥样了](https://s.weibo.com/weibo?q=%23%E9%83%BD%E7%BB%99%E9%A9%AC%E6%80%9D%E7%BA%AFp%E6%88%90%E5%95%A5%E6%A0%B7%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [你当明星会被扒出什么黑料](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%BD%93%E6%98%8E%E6%98%9F%E4%BC%9A%E8%A2%AB%E6%89%92%E5%87%BA%E4%BB%80%E4%B9%88%E9%BB%91%E6%96%99%23&t=31&band_rank=8&Refer=top)<br />
 9. [私拆承重墙事件最新通报](https://s.weibo.com/weibo?q=%23%E7%A7%81%E6%8B%86%E6%89%BF%E9%87%8D%E5%A2%99%E4%BA%8B%E4%BB%B6%E6%9C%80%E6%96%B0%E9%80%9A%E6%8A%A5%23&t=31&band_rank=9&Refer=top)<br />
