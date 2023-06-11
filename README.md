@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 04:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 04:47:01</h4></div>
 
 > 微博  
 
@@ -20,8 +20,8 @@
 4. []()<br />
 5. []()<br />
 6. [能分享一下你所在行业的内幕吗？](https://www.zhihu.com/question/339539047)<br />
-7. [苏享茂哥哥称翟欣欣涉嫌敲诈勒索已被逮捕，这意味着什么？此前翟欣欣退还 660 万，此事或将如何进展？](https://www.zhihu.com/question/605647767)<br />
-8. [深圳的氛围真的都是大家都在搞钱吗？](https://www.zhihu.com/question/512330743)<br />
+7. [深圳的氛围真的都是大家都在搞钱吗？](https://www.zhihu.com/question/512330743)<br />
+8. [苏享茂哥哥称翟欣欣涉嫌敲诈勒索已被逮捕，这意味着什么？此前翟欣欣退还 660 万，此事或将如何进展？](https://www.zhihu.com/question/605647767)<br />
 9. [高考 700 分和存款 700 万，你选择哪个？](https://www.zhihu.com/question/605422526)<br />
 
 > 百度  
