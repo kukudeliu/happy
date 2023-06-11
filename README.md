@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 05:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 05:06:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [神舟十号发射成功10周年](https://s.weibo.com/weibo?q=%23%E7%A5%9E%E8%88%9F%E5%8D%81%E5%8F%B7%E5%8F%91%E5%B0%84%E6%88%90%E5%8A%9F10%E5%91%A8%E5%B9%B4%23&t=31&band_rank=3&Refer=top)<br />
 4. [自证未偷拍仍遭曝光涉事女子已道歉](https://s.weibo.com/weibo?q=%23%E8%87%AA%E8%AF%81%E6%9C%AA%E5%81%B7%E6%8B%8D%E4%BB%8D%E9%81%AD%E6%9B%9D%E5%85%89%E6%B6%89%E4%BA%8B%E5%A5%B3%E5%AD%90%E5%B7%B2%E9%81%93%E6%AD%89%23&t=31&band_rank=4&Refer=top)<br />
 5. [张雨绮致歉](https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%A8%E7%BB%AE%E8%87%B4%E6%AD%89&t=31&band_rank=5&Refer=top)<br />
-6. [梅西被迫宅在酒店](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%A2%AB%E8%BF%AB%E5%AE%85%E5%9C%A8%E9%85%92%E5%BA%97%23&t=31&band_rank=6&Refer=top)<br />
+6. [女乘客空中失聪浙江医生出手了](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E4%B9%98%E5%AE%A2%E7%A9%BA%E4%B8%AD%E5%A4%B1%E8%81%AA%E6%B5%99%E6%B1%9F%E5%8C%BB%E7%94%9F%E5%87%BA%E6%89%8B%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [张雨绮说699我都买不了袜子](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%A8%E7%BB%AE%E8%AF%B4699%E6%88%91%E9%83%BD%E4%B9%B0%E4%B8%8D%E4%BA%86%E8%A2%9C%E5%AD%90%23&t=31&band_rank=7&Refer=top)<br />
-8. [女乘客空中失聪浙江医生出手了](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E4%B9%98%E5%AE%A2%E7%A9%BA%E4%B8%AD%E5%A4%B1%E8%81%AA%E6%B5%99%E6%B1%9F%E5%8C%BB%E7%94%9F%E5%87%BA%E6%89%8B%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [梅西见面会取消](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%A7%81%E9%9D%A2%E4%BC%9A%E5%8F%96%E6%B6%88%23&t=31&band_rank=9&Refer=top)<br />
+8. [梅西被迫宅在酒店](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%A2%AB%E8%BF%AB%E5%AE%85%E5%9C%A8%E9%85%92%E5%BA%97%23&t=31&band_rank=8&Refer=top)<br />
+9. [胡锡进说应接受曝光大叔女子的道歉](https://s.weibo.com/weibo?q=%23%E8%83%A1%E9%94%A1%E8%BF%9B%E8%AF%B4%E5%BA%94%E6%8E%A5%E5%8F%97%E6%9B%9D%E5%85%89%E5%A4%A7%E5%8F%94%E5%A5%B3%E5%AD%90%E7%9A%84%E9%81%93%E6%AD%89%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -21,8 +21,8 @@
 5. []()<br />
 6. []()<br />
 7. [《王国之泪》这一作相比《旷野之息》制作水平如何？](https://www.zhihu.com/question/598861888)<br />
-8. [高考 700 分和存款 700 万，你选择哪个？](https://www.zhihu.com/question/605422526)<br />
-9. []()<br />
+8. []()<br />
+9. [首都医科大学校长饶毅称院士增选中有行贿受贿，中科院学部道德委办人员回应，哪些信息值得关注？](https://www.zhihu.com/question/606031181)<br />
 
 > 百度  
 
