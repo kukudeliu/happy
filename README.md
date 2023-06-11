@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 11:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-11 11:58:01</h4></div>
 
 > 微博  
 
@@ -19,9 +19,9 @@
 3. [ChatGPT 之父中国对话引用《道德经》，谈到大国分歧与 AGI 时间表，哪些内容值得关注？](https://www.zhihu.com/question/605868976)<br />
 4. [为什么有人说苹果手机是「老年机之王」？](https://www.zhihu.com/question/605508210)<br />
 5. [每天练四个小时的钢琴，三年后会达到什么水准？](https://www.zhihu.com/question/441420543)<br />
-6. [地铁站里妈妈含泪掌掴小孩称太委屈，孩子也一直在哭，如何看待此事？家长教育孩子应该注意什么？](https://www.zhihu.com/question/605107870)<br />
-7. [历史上诸葛亮的妻子黄月英真的是个丑女吗？](https://www.zhihu.com/question/604680673)<br />
-8. [家境不好适合学金融吗?](https://www.zhihu.com/question/605789223)<br />
+6. [历史上诸葛亮的妻子黄月英真的是个丑女吗？](https://www.zhihu.com/question/604680673)<br />
+7. [家境不好适合学金融吗?](https://www.zhihu.com/question/605789223)<br />
+8. [宫崎骏的《天空之城》的女主，为什么不指挥机器人赶走军队、穆斯卡、海盗？](https://www.zhihu.com/question/604870316)<br />
 9. [为何有些人失业时间久了，就不想上班了？](https://www.zhihu.com/question/605617857)<br />
 
 > 百度  
