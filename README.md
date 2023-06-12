@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 21:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 21:06:01</h4></div>
 
 > 微博  
 
 1. [不孕不育是榴莲最好的福报](https://s.weibo.com/weibo?q=%E4%B8%8D%E5%AD%95%E4%B8%8D%E8%82%B2%E6%98%AF%E6%A6%B4%E8%8E%B2%E6%9C%80%E5%A5%BD%E7%9A%84%E7%A6%8F%E6%8A%A5&t=31&band_rank=1&Refer=top)<br />
 2. [韩网红柬埔寨去世尸体被扔水沟](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%BD%91%E7%BA%A2%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%8E%BB%E4%B8%96%E5%B0%B8%E4%BD%93%E8%A2%AB%E6%89%94%E6%B0%B4%E6%B2%9F%23&t=31&band_rank=2&Refer=top)<br />
 3. [汉唐风格的西安国家版本馆大气唯美](https://s.weibo.com/weibo?q=%23%E6%B1%89%E5%94%90%E9%A3%8E%E6%A0%BC%E7%9A%84%E8%A5%BF%E5%AE%89%E5%9B%BD%E5%AE%B6%E7%89%88%E6%9C%AC%E9%A6%86%E5%A4%A7%E6%B0%94%E5%94%AF%E7%BE%8E%23&t=31&band_rank=3&Refer=top)<br />
-4. [梅西直播](https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF%E7%9B%B4%E6%92%AD&t=31&band_rank=4&Refer=top)<br />
-5. [官方通报女干部被带去酒局灌酒](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%B9%B2%E9%83%A8%E8%A2%AB%E5%B8%A6%E5%8E%BB%E9%85%92%E5%B1%80%E7%81%8C%E9%85%92%23&t=31&band_rank=5&Refer=top)<br />
-6. [张彬彬的粉底咋回事](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%BD%AC%E5%BD%AC%E7%9A%84%E7%B2%89%E5%BA%95%E5%92%8B%E5%9B%9E%E4%BA%8B%23&t=31&band_rank=6&Refer=top)<br />
+4. [张彬彬的粉底咋回事](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%BD%AC%E5%BD%AC%E7%9A%84%E7%B2%89%E5%BA%95%E5%92%8B%E5%9B%9E%E4%BA%8B%23&t=31&band_rank=4&Refer=top)<br />
+5. [梅西直播](https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF%E7%9B%B4%E6%92%AD&t=31&band_rank=5&Refer=top)<br />
+6. [官方通报女干部被带去酒局灌酒](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%B9%B2%E9%83%A8%E8%A2%AB%E5%B8%A6%E5%8E%BB%E9%85%92%E5%B1%80%E7%81%8C%E9%85%92%23&t=31&band_rank=6&Refer=top)<br />
 7. [Rain 街舞6](https://s.weibo.com/weibo?q=Rain%20%E8%A1%97%E8%88%9E6&t=31&band_rank=7&Refer=top)<br />
 8. [又一部炸裂的韩综](https://s.weibo.com/weibo?q=%E5%8F%88%E4%B8%80%E9%83%A8%E7%82%B8%E8%A3%82%E7%9A%84%E9%9F%A9%E7%BB%BC&t=31&band_rank=8&Refer=top)<br />
-9. [沈月捧花头像](https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%9C%88%E6%8D%A7%E8%8A%B1%E5%A4%B4%E5%83%8F%23&t=31&band_rank=9&Refer=top)<br />
+9. [阿信为陈绮贞发长文](https://s.weibo.com/weibo?q=%23%E9%98%BF%E4%BF%A1%E4%B8%BA%E9%99%88%E7%BB%AE%E8%B4%9E%E5%8F%91%E9%95%BF%E6%96%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
