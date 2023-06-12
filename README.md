@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 07:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 07:47:01</h4></div>
 
 > 微博  
 
-1. [中国唯一上榜的世界最美图书馆](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%94%AF%E4%B8%80%E4%B8%8A%E6%A6%9C%E7%9A%84%E4%B8%96%E7%95%8C%E6%9C%80%E7%BE%8E%E5%9B%BE%E4%B9%A6%E9%A6%86%23&t=31&band_rank=1&Refer=top)<br />
-2. [杭州师范大学](https://s.weibo.com/weibo?q=%E6%9D%AD%E5%B7%9E%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6&t=31&band_rank=2&Refer=top)<br />
+1. [杭州师范大学](https://s.weibo.com/weibo?q=%E6%9D%AD%E5%B7%9E%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6&t=31&band_rank=1&Refer=top)<br />
+2. [中国唯一上榜的世界最美图书馆](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%94%AF%E4%B8%80%E4%B8%8A%E6%A6%9C%E7%9A%84%E4%B8%96%E7%95%8C%E6%9C%80%E7%BE%8E%E5%9B%BE%E4%B9%A6%E9%A6%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [短途游3小时高铁圈](https://s.weibo.com/weibo?q=%23%E7%9F%AD%E9%80%94%E6%B8%B83%E5%B0%8F%E6%97%B6%E9%AB%98%E9%93%81%E5%9C%88%23&t=31&band_rank=3&Refer=top)<br />
 4. [韩网红柬埔寨去世尸体被扔水沟](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%BD%91%E7%BA%A2%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%8E%BB%E4%B8%96%E5%B0%B8%E4%BD%93%E8%A2%AB%E6%89%94%E6%B0%B4%E6%B2%9F%23&t=31&band_rank=4&Refer=top)<br />
 5. [现代人已经不吃鸡汤了](https://s.weibo.com/weibo?q=%E7%8E%B0%E4%BB%A3%E4%BA%BA%E5%B7%B2%E7%BB%8F%E4%B8%8D%E5%90%83%E9%B8%A1%E6%B1%A4%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
