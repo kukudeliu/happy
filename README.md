@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 07:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 07:36:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [短途游3小时高铁圈](https://s.weibo.com/weibo?q=%23%E7%9F%AD%E9%80%94%E6%B8%B83%E5%B0%8F%E6%97%B6%E9%AB%98%E9%93%81%E5%9C%88%23&t=31&band_rank=3&Refer=top)<br />
 4. [三子深夜大战不孕不育榴莲](https://s.weibo.com/weibo?q=%E4%B8%89%E5%AD%90%E6%B7%B1%E5%A4%9C%E5%A4%A7%E6%88%98%E4%B8%8D%E5%AD%95%E4%B8%8D%E8%82%B2%E6%A6%B4%E8%8E%B2&t=31&band_rank=4&Refer=top)<br />
 5. [余生夫妇vs春晓夫妇](https://s.weibo.com/weibo?q=%23%E4%BD%99%E7%94%9F%E5%A4%AB%E5%A6%87vs%E6%98%A5%E6%99%93%E5%A4%AB%E5%A6%87%23&t=31&band_rank=5&Refer=top)<br />
-6. [杭州师范大学](https://s.weibo.com/weibo?q=%E6%9D%AD%E5%B7%9E%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6&t=31&band_rank=6&Refer=top)<br />
-7. [60岁阿姨健身22年后的样子](https://s.weibo.com/weibo?q=%2360%E5%B2%81%E9%98%BF%E5%A7%A8%E5%81%A5%E8%BA%AB22%E5%B9%B4%E5%90%8E%E7%9A%84%E6%A0%B7%E5%AD%90%23&t=31&band_rank=7&Refer=top)<br />
-8. [企业回应禁止婚外情和出轨](https://s.weibo.com/weibo?q=%23%E4%BC%81%E4%B8%9A%E5%9B%9E%E5%BA%94%E7%A6%81%E6%AD%A2%E5%A9%9A%E5%A4%96%E6%83%85%E5%92%8C%E5%87%BA%E8%BD%A8%23&t=31&band_rank=8&Refer=top)<br />
-9. [当蚊子吸了一口淤血](https://s.weibo.com/weibo?q=%23%E5%BD%93%E8%9A%8A%E5%AD%90%E5%90%B8%E4%BA%86%E4%B8%80%E5%8F%A3%E6%B7%A4%E8%A1%80%23&t=31&band_rank=9&Refer=top)<br />
+6. [现代人已经不吃鸡汤了](https://s.weibo.com/weibo?q=%E7%8E%B0%E4%BB%A3%E4%BA%BA%E5%B7%B2%E7%BB%8F%E4%B8%8D%E5%90%83%E9%B8%A1%E6%B1%A4%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
+7. [杭州师范大学](https://s.weibo.com/weibo?q=%E6%9D%AD%E5%B7%9E%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6&t=31&band_rank=7&Refer=top)<br />
+8. [60岁阿姨健身22年后的样子](https://s.weibo.com/weibo?q=%2360%E5%B2%81%E9%98%BF%E5%A7%A8%E5%81%A5%E8%BA%AB22%E5%B9%B4%E5%90%8E%E7%9A%84%E6%A0%B7%E5%AD%90%23&t=31&band_rank=8&Refer=top)<br />
+9. [企业回应禁止婚外情和出轨](https://s.weibo.com/weibo?q=%23%E4%BC%81%E4%B8%9A%E5%9B%9E%E5%BA%94%E7%A6%81%E6%AD%A2%E5%A9%9A%E5%A4%96%E6%83%85%E5%92%8C%E5%87%BA%E8%BD%A8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
