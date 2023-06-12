@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 13:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 13:46:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [如何看待 6 月 12 日蔚来全系降价 3W？](https://www.zhihu.com/question/606128553)<br />
 7. [如何看待张雨绮「 699 买不了袜子」所反映的社会问题？](https://www.zhihu.com/question/606016416)<br />
 8. [如何看待高二学生以一作发表数学类 sci，论文含金量如何？](https://www.zhihu.com/question/605160535)<br />
-9. [为什么好多人不爱发朋友圈了？](https://www.zhihu.com/question/602309634)<br />
+9. [如果有一天存款利率调整为 0 ，会发生什么？到时候我们的钱该放在哪儿？](https://www.zhihu.com/question/605978793)<br />
 
 > 百度  
 
