@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 13:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 13:01:01</h4></div>
 
 > 微博  
 
@@ -20,8 +20,8 @@
 4. [韩国房价跌穿，有区域成交量暴跌 70%，大量房东因还不起钱紧急出逃，韩国楼市怎么了？接下来会如何发展？](https://www.zhihu.com/question/606122248)<br />
 5. [火车站按摩椅现大量虫子，顾客坐后身体发痒，为何按摩椅上会有虫子寄生？如何解决？](https://www.zhihu.com/question/606110946)<br />
 6. [如果有一天存款利率调整为 0 ，会发生什么？到时候我们的钱该放在哪儿？](https://www.zhihu.com/question/605978793)<br />
-7. [如何看待张雨绮「 699 买不了袜子」所反映的社会问题？](https://www.zhihu.com/question/606016416)<br />
-8. [如何看待 6 月 12 日蔚来全系降价 3W？](https://www.zhihu.com/question/606128553)<br />
+7. [如何看待 6 月 12 日蔚来全系降价 3W？](https://www.zhihu.com/question/606128553)<br />
+8. [如何看待张雨绮「 699 买不了袜子」所反映的社会问题？](https://www.zhihu.com/question/606016416)<br />
 9. [如何看待高二学生以一作发表数学类 sci，论文含金量如何？](https://www.zhihu.com/question/605160535)<br />
 
 > 百度  
