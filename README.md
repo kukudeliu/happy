@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 00:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 00:46:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [初级会计](https://s.weibo.com/weibo?q=%E5%88%9D%E7%BA%A7%E4%BC%9A%E8%AE%A1&t=31&band_rank=6&Refer=top)<br />
 7. [余生夫妇vs春晓夫妇](https://s.weibo.com/weibo?q=%23%E4%BD%99%E7%94%9F%E5%A4%AB%E5%A6%87vs%E6%98%A5%E6%99%93%E5%A4%AB%E5%A6%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [十个勤天去哪了](https://s.weibo.com/weibo?q=%23%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9%E5%8E%BB%E5%93%AA%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [中国唯一上榜的世界最美图书馆](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%94%AF%E4%B8%80%E4%B8%8A%E6%A6%9C%E7%9A%84%E4%B8%96%E7%95%8C%E6%9C%80%E7%BE%8E%E5%9B%BE%E4%B9%A6%E9%A6%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [初会](https://s.weibo.com/weibo?q=%E5%88%9D%E4%BC%9A&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
