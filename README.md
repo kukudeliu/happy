@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 18:58:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 18:59:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [如何看待张雨绮「 699 买不了袜子」所反映的社会问题？](https://www.zhihu.com/question/606016416)<br />
 6. [美国调查人员曝进入坠毁 UFO 亲身经历称发生「时空扭曲」，待几分钟相当于 4 小时，真实性如何？](https://www.zhihu.com/question/606020452)<br />
 7. [网传梅西等球员乘坐大巴抵达，现场工作人员拉布遮挡，球迷高喊「退钱」，如何评价这些行为？](https://www.zhihu.com/question/605841178)<br />
-8. [蔚来全系车型降价 3 万元，取消终身免费换电政策，如何看待这一调整？会带来什么影响？](https://www.zhihu.com/question/606130325)<br />
-9. [越南严重缺电，富士康、三星等工厂受影响，时隔 7 年我国重启对越送电，哪些信息值得关注？](https://www.zhihu.com/question/606164349)<br />
+8. [越南严重缺电，富士康、三星等工厂受影响，时隔 7 年我国重启对越送电，哪些信息值得关注？](https://www.zhihu.com/question/606164349)<br />
+9. [蔚来全系车型降价 3 万元，取消终身免费换电政策，如何看待这一调整？会带来什么影响？](https://www.zhihu.com/question/606130325)<br />
 
 > 百度  
 
@@ -31,9 +31,9 @@
 3. [女干部被带去饭局灌醉？多人被处分](https://www.baidu.com/s?wd=%E5%A5%B3%E5%B9%B2%E9%83%A8%E8%A2%AB%E5%B8%A6%E5%8E%BB%E9%A5%AD%E5%B1%80%E7%81%8C%E9%86%89%EF%BC%9F%E5%A4%9A%E4%BA%BA%E8%A2%AB%E5%A4%84%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [超级工程背后的超级智慧](https://www.baidu.com/s?wd=%E8%B6%85%E7%BA%A7%E5%B7%A5%E7%A8%8B%E8%83%8C%E5%90%8E%E7%9A%84%E8%B6%85%E7%BA%A7%E6%99%BA%E6%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [花6千万建公园不满1年就拆?山西回应](https://www.baidu.com/s?wd=%E8%8A%B16%E5%8D%83%E4%B8%87%E5%BB%BA%E5%85%AC%E5%9B%AD%E4%B8%8D%E6%BB%A11%E5%B9%B4%E5%B0%B1%E6%8B%86%3F%E5%B1%B1%E8%A5%BF%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [四川一校长与女教师起冲突致其受伤](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E6%A0%A1%E9%95%BF%E4%B8%8E%E5%A5%B3%E6%95%99%E5%B8%88%E8%B5%B7%E5%86%B2%E7%AA%81%E8%87%B4%E5%85%B6%E5%8F%97%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [大熊猫洗澡两个半人摁半个负责洗](https://www.baidu.com/s?wd=%E5%A4%A7%E7%86%8A%E7%8C%AB%E6%B4%97%E6%BE%A1%E4%B8%A4%E4%B8%AA%E5%8D%8A%E4%BA%BA%E6%91%81%E5%8D%8A%E4%B8%AA%E8%B4%9F%E8%B4%A3%E6%B4%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [曝光大叔的女生到底该不该被原谅？](https://www.baidu.com/s?wd=%E6%9B%9D%E5%85%89%E5%A4%A7%E5%8F%94%E7%9A%84%E5%A5%B3%E7%94%9F%E5%88%B0%E5%BA%95%E8%AF%A5%E4%B8%8D%E8%AF%A5%E8%A2%AB%E5%8E%9F%E8%B0%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [大熊猫洗澡两个半人摁半个负责洗](https://www.baidu.com/s?wd=%E5%A4%A7%E7%86%8A%E7%8C%AB%E6%B4%97%E6%BE%A1%E4%B8%A4%E4%B8%AA%E5%8D%8A%E4%BA%BA%E6%91%81%E5%8D%8A%E4%B8%AA%E8%B4%9F%E8%B4%A3%E6%B4%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [四川一校长与女教师起冲突致其受伤](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E6%A0%A1%E9%95%BF%E4%B8%8E%E5%A5%B3%E6%95%99%E5%B8%88%E8%B5%B7%E5%86%B2%E7%AA%81%E8%87%B4%E5%85%B6%E5%8F%97%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [空难40天后4个孩子求生细节曝光](https://www.baidu.com/s?wd=%E7%A9%BA%E9%9A%BE40%E5%A4%A9%E5%90%8E4%E4%B8%AA%E5%AD%A9%E5%AD%90%E6%B1%82%E7%94%9F%E7%BB%86%E8%8A%82%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -43,7 +43,7 @@
 3. [女干部被带去饭局灌醉？多人被处分](https://www.baidu.com/s?wd=%E5%A5%B3%E5%B9%B2%E9%83%A8%E8%A2%AB%E5%B8%A6%E5%8E%BB%E9%A5%AD%E5%B1%80%E7%81%8C%E9%86%89%EF%BC%9F%E5%A4%9A%E4%BA%BA%E8%A2%AB%E5%A4%84%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [超级工程背后的超级智慧](https://www.baidu.com/s?wd=%E8%B6%85%E7%BA%A7%E5%B7%A5%E7%A8%8B%E8%83%8C%E5%90%8E%E7%9A%84%E8%B6%85%E7%BA%A7%E6%99%BA%E6%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [花6千万建公园不满1年就拆?山西回应](https://www.baidu.com/s?wd=%E8%8A%B16%E5%8D%83%E4%B8%87%E5%BB%BA%E5%85%AC%E5%9B%AD%E4%B8%8D%E6%BB%A11%E5%B9%B4%E5%B0%B1%E6%8B%86%3F%E5%B1%B1%E8%A5%BF%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [四川一校长与女教师起冲突致其受伤](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E6%A0%A1%E9%95%BF%E4%B8%8E%E5%A5%B3%E6%95%99%E5%B8%88%E8%B5%B7%E5%86%B2%E7%AA%81%E8%87%B4%E5%85%B6%E5%8F%97%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [大熊猫洗澡两个半人摁半个负责洗](https://www.baidu.com/s?wd=%E5%A4%A7%E7%86%8A%E7%8C%AB%E6%B4%97%E6%BE%A1%E4%B8%A4%E4%B8%AA%E5%8D%8A%E4%BA%BA%E6%91%81%E5%8D%8A%E4%B8%AA%E8%B4%9F%E8%B4%A3%E6%B4%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [曝光大叔的女生到底该不该被原谅？](https://www.baidu.com/s?wd=%E6%9B%9D%E5%85%89%E5%A4%A7%E5%8F%94%E7%9A%84%E5%A5%B3%E7%94%9F%E5%88%B0%E5%BA%95%E8%AF%A5%E4%B8%8D%E8%AF%A5%E8%A2%AB%E5%8E%9F%E8%B0%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [大熊猫洗澡两个半人摁半个负责洗](https://www.baidu.com/s?wd=%E5%A4%A7%E7%86%8A%E7%8C%AB%E6%B4%97%E6%BE%A1%E4%B8%A4%E4%B8%AA%E5%8D%8A%E4%BA%BA%E6%91%81%E5%8D%8A%E4%B8%AA%E8%B4%9F%E8%B4%A3%E6%B4%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [四川一校长与女教师起冲突致其受伤](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E6%A0%A1%E9%95%BF%E4%B8%8E%E5%A5%B3%E6%95%99%E5%B8%88%E8%B5%B7%E5%86%B2%E7%AA%81%E8%87%B4%E5%85%B6%E5%8F%97%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [空难40天后4个孩子求生细节曝光](https://www.baidu.com/s?wd=%E7%A9%BA%E9%9A%BE40%E5%A4%A9%E5%90%8E4%E4%B8%AA%E5%AD%A9%E5%AD%90%E6%B1%82%E7%94%9F%E7%BB%86%E8%8A%82%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
