@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 12:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 12:47:01</h4></div>
 
 > 微博  
 
@@ -26,7 +26,7 @@
 
 > 百度  
 
-1. [传承发展中华优秀传统文化](https://www.baidu.com/s?wd=%E4%BC%A0%E6%89%BF%E5%8F%91%E5%B1%95%E4%B8%AD%E5%8D%8E%E4%BC%98%E7%A7%80%E4%BC%A0%E7%BB%9F%E6%96%87%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [奋斗青春 放飞梦想](https://www.baidu.com/s?wd=%E5%A5%8B%E6%96%97%E9%9D%92%E6%98%A5+%E6%94%BE%E9%A3%9E%E6%A2%A6%E6%83%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [女子称撑破试穿裙子无奈买下](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E6%92%91%E7%A0%B4%E8%AF%95%E7%A9%BF%E8%A3%99%E5%AD%90%E6%97%A0%E5%A5%88%E4%B9%B0%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [河北地质大学温暖回应环卫工人儿子](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E5%9C%B0%E8%B4%A8%E5%A4%A7%E5%AD%A6%E6%B8%A9%E6%9A%96%E5%9B%9E%E5%BA%94%E7%8E%AF%E5%8D%AB%E5%B7%A5%E4%BA%BA%E5%84%BF%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [超级工程背后的超级智慧](https://www.baidu.com/s?wd=%E8%B6%85%E7%BA%A7%E5%B7%A5%E7%A8%8B%E8%83%8C%E5%90%8E%E7%9A%84%E8%B6%85%E7%BA%A7%E6%99%BA%E6%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -38,7 +38,7 @@
 
 > 哔哩哔哩  
 
-1. [传承发展中华优秀传统文化](https://www.baidu.com/s?wd=%E4%BC%A0%E6%89%BF%E5%8F%91%E5%B1%95%E4%B8%AD%E5%8D%8E%E4%BC%98%E7%A7%80%E4%BC%A0%E7%BB%9F%E6%96%87%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [奋斗青春 放飞梦想](https://www.baidu.com/s?wd=%E5%A5%8B%E6%96%97%E9%9D%92%E6%98%A5+%E6%94%BE%E9%A3%9E%E6%A2%A6%E6%83%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [女子称撑破试穿裙子无奈买下](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E6%92%91%E7%A0%B4%E8%AF%95%E7%A9%BF%E8%A3%99%E5%AD%90%E6%97%A0%E5%A5%88%E4%B9%B0%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [河北地质大学温暖回应环卫工人儿子](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E5%9C%B0%E8%B4%A8%E5%A4%A7%E5%AD%A6%E6%B8%A9%E6%9A%96%E5%9B%9E%E5%BA%94%E7%8E%AF%E5%8D%AB%E5%B7%A5%E4%BA%BA%E5%84%BF%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [超级工程背后的超级智慧](https://www.baidu.com/s?wd=%E8%B6%85%E7%BA%A7%E5%B7%A5%E7%A8%8B%E8%83%8C%E5%90%8E%E7%9A%84%E8%B6%85%E7%BA%A7%E6%99%BA%E6%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
