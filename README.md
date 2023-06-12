@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 20:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 20:36:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [官方通报女干部被带去酒局灌酒](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%B9%B2%E9%83%A8%E8%A2%AB%E5%B8%A6%E5%8E%BB%E9%85%92%E5%B1%80%E7%81%8C%E9%85%92%23&t=31&band_rank=2&Refer=top)<br />
 3. [汉唐风格的西安国家版本馆大气唯美](https://s.weibo.com/weibo?q=%23%E6%B1%89%E5%94%90%E9%A3%8E%E6%A0%BC%E7%9A%84%E8%A5%BF%E5%AE%89%E5%9B%BD%E5%AE%B6%E7%89%88%E6%9C%AC%E9%A6%86%E5%A4%A7%E6%B0%94%E5%94%AF%E7%BE%8E%23&t=31&band_rank=3&Refer=top)<br />
 4. [梅西直播](https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF%E7%9B%B4%E6%92%AD&t=31&band_rank=4&Refer=top)<br />
-5. [张彬彬的粉底咋回事](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%BD%AC%E5%BD%AC%E7%9A%84%E7%B2%89%E5%BA%95%E5%92%8B%E5%9B%9E%E4%BA%8B%23&t=31&band_rank=5&Refer=top)<br />
-6. [Rain 街舞6](https://s.weibo.com/weibo?q=Rain%20%E8%A1%97%E8%88%9E6&t=31&band_rank=6&Refer=top)<br />
+5. [Rain 街舞6](https://s.weibo.com/weibo?q=Rain%20%E8%A1%97%E8%88%9E6&t=31&band_rank=5&Refer=top)<br />
+6. [张彬彬的粉底咋回事](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%BD%AC%E5%BD%AC%E7%9A%84%E7%B2%89%E5%BA%95%E5%92%8B%E5%9B%9E%E4%BA%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [女博士毕业丈夫称赞她是全家骄傲](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%8D%9A%E5%A3%AB%E6%AF%95%E4%B8%9A%E4%B8%88%E5%A4%AB%E7%A7%B0%E8%B5%9E%E5%A5%B9%E6%98%AF%E5%85%A8%E5%AE%B6%E9%AA%84%E5%82%B2%23&t=31&band_rank=7&Refer=top)<br />
 8. [应采儿回应把hoho当成女孩养](https://s.weibo.com/weibo?q=%23%E5%BA%94%E9%87%87%E5%84%BF%E5%9B%9E%E5%BA%94%E6%8A%8Ahoho%E5%BD%93%E6%88%90%E5%A5%B3%E5%AD%A9%E5%85%BB%23&t=31&band_rank=8&Refer=top)<br />
 9. [又一部炸裂的韩综](https://s.weibo.com/weibo?q=%E5%8F%88%E4%B8%80%E9%83%A8%E7%82%B8%E8%A3%82%E7%9A%84%E9%9F%A9%E7%BB%BC&t=31&band_rank=9&Refer=top)<br />
