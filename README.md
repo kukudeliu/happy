@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 05:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 05:19:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [媒体评“禁止民间划龙舟”](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E2%80%9C%E7%A6%81%E6%AD%A2%E6%B0%91%E9%97%B4%E5%88%92%E9%BE%99%E8%88%9F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女生遭多名学生掌掴 校长被停职](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%81%AD%E5%A4%9A%E5%90%8D%E5%AD%A6%E7%94%9F%E6%8E%8C%E6%8E%B4+%E6%A0%A1%E9%95%BF%E8%A2%AB%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [爸爸带女儿跑步200余天孩子变化明显](https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8%E5%B8%A6%E5%A5%B3%E5%84%BF%E8%B7%91%E6%AD%A5200%E4%BD%99%E5%A4%A9%E5%AD%A9%E5%AD%90%E5%8F%98%E5%8C%96%E6%98%8E%E6%98%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [大学为何纷纷涨价？](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E4%B8%BA%E4%BD%95%E7%BA%B7%E7%BA%B7%E6%B6%A8%E4%BB%B7%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [贵州“美猴王”打坐冥想](https://www.baidu.com/s?wd=%E8%B4%B5%E5%B7%9E%E2%80%9C%E7%BE%8E%E7%8C%B4%E7%8E%8B%E2%80%9D%E6%89%93%E5%9D%90%E5%86%A5%E6%83%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [媒体评“禁止民间划龙舟”](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E2%80%9C%E7%A6%81%E6%AD%A2%E6%B0%91%E9%97%B4%E5%88%92%E9%BE%99%E8%88%9F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女生遭多名学生掌掴 校长被停职](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%81%AD%E5%A4%9A%E5%90%8D%E5%AD%A6%E7%94%9F%E6%8E%8C%E6%8E%B4+%E6%A0%A1%E9%95%BF%E8%A2%AB%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [爸爸带女儿跑步200余天孩子变化明显](https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8%E5%B8%A6%E5%A5%B3%E5%84%BF%E8%B7%91%E6%AD%A5200%E4%BD%99%E5%A4%A9%E5%AD%A9%E5%AD%90%E5%8F%98%E5%8C%96%E6%98%8E%E6%98%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [大学为何纷纷涨价？](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E4%B8%BA%E4%BD%95%E7%BA%B7%E7%BA%B7%E6%B6%A8%E4%BB%B7%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [贵州“美猴王”打坐冥想](https://www.baidu.com/s?wd=%E8%B4%B5%E5%B7%9E%E2%80%9C%E7%BE%8E%E7%8C%B4%E7%8E%8B%E2%80%9D%E6%89%93%E5%9D%90%E5%86%A5%E6%83%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
