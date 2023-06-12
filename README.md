@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 06:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 06:19:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [韩国官员对中国大使出言不逊，外交部回应表明严重关切和不满，如何看待此事？对中韩关系有何影响？](https://www.zhihu.com/question/606182202)<br />
 7. []()<br />
 8. []()<br />
-9. [国家发改委已下达 2023 年以工代赈中央投资 73 亿元，将起到哪些作用？](https://www.zhihu.com/question/606168061)<br />
+9. []()<br />
 
 > 百度  
 
@@ -33,7 +33,7 @@
 5. [梅西直播共露脸50秒](https://www.baidu.com/s?wd=%E6%A2%85%E8%A5%BF%E7%9B%B4%E6%92%AD%E5%85%B1%E9%9C%B2%E8%84%B850%E7%A7%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女生遭多名学生掌掴 校长被停职](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%81%AD%E5%A4%9A%E5%90%8D%E5%AD%A6%E7%94%9F%E6%8E%8C%E6%8E%B4+%E6%A0%A1%E9%95%BF%E8%A2%AB%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [花6千万建公园不满1年就拆?山西回应](https://www.baidu.com/s?wd=%E8%8A%B16%E5%8D%83%E4%B8%87%E5%BB%BA%E5%85%AC%E5%9B%AD%E4%B8%8D%E6%BB%A11%E5%B9%B4%E5%B0%B1%E6%8B%86%3F%E5%B1%B1%E8%A5%BF%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [她从“第一夫人”到“第一总统”](https://www.baidu.com/s?wd=%E5%A5%B9%E4%BB%8E%E2%80%9C%E7%AC%AC%E4%B8%80%E5%A4%AB%E4%BA%BA%E2%80%9D%E5%88%B0%E2%80%9C%E7%AC%AC%E4%B8%80%E6%80%BB%E7%BB%9F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [大学为何纷纷涨价？](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E4%B8%BA%E4%BD%95%E7%BA%B7%E7%BA%B7%E6%B6%A8%E4%BB%B7%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [空难40天后4个孩子求生细节曝光](https://www.baidu.com/s?wd=%E7%A9%BA%E9%9A%BE40%E5%A4%A9%E5%90%8E4%E4%B8%AA%E5%AD%A9%E5%AD%90%E6%B1%82%E7%94%9F%E7%BB%86%E8%8A%82%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [梅西直播共露脸50秒](https://www.baidu.com/s?wd=%E6%A2%85%E8%A5%BF%E7%9B%B4%E6%92%AD%E5%85%B1%E9%9C%B2%E8%84%B850%E7%A7%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女生遭多名学生掌掴 校长被停职](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%81%AD%E5%A4%9A%E5%90%8D%E5%AD%A6%E7%94%9F%E6%8E%8C%E6%8E%B4+%E6%A0%A1%E9%95%BF%E8%A2%AB%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [花6千万建公园不满1年就拆?山西回应](https://www.baidu.com/s?wd=%E8%8A%B16%E5%8D%83%E4%B8%87%E5%BB%BA%E5%85%AC%E5%9B%AD%E4%B8%8D%E6%BB%A11%E5%B9%B4%E5%B0%B1%E6%8B%86%3F%E5%B1%B1%E8%A5%BF%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [她从“第一夫人”到“第一总统”](https://www.baidu.com/s?wd=%E5%A5%B9%E4%BB%8E%E2%80%9C%E7%AC%AC%E4%B8%80%E5%A4%AB%E4%BA%BA%E2%80%9D%E5%88%B0%E2%80%9C%E7%AC%AC%E4%B8%80%E6%80%BB%E7%BB%9F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [大学为何纷纷涨价？](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E4%B8%BA%E4%BD%95%E7%BA%B7%E7%BA%B7%E6%B6%A8%E4%BB%B7%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [空难40天后4个孩子求生细节曝光](https://www.baidu.com/s?wd=%E7%A9%BA%E9%9A%BE40%E5%A4%A9%E5%90%8E4%E4%B8%AA%E5%AD%A9%E5%AD%90%E6%B1%82%E7%94%9F%E7%BB%86%E8%8A%82%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
