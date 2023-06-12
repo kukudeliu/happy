@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 23:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 23:23:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [不孕不育是榴莲最好的福报](https://s.weibo.com/weibo?q=%E4%B8%8D%E5%AD%95%E4%B8%8D%E8%82%B2%E6%98%AF%E6%A6%B4%E8%8E%B2%E6%9C%80%E5%A5%BD%E7%9A%84%E7%A6%8F%E6%8A%A5&t=31&band_rank=5&Refer=top)<br />
 6. [张彬彬的粉底咋回事](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%BD%AC%E5%BD%AC%E7%9A%84%E7%B2%89%E5%BA%95%E5%92%8B%E5%9B%9E%E4%BA%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [企业回应禁止婚外情和出轨](https://s.weibo.com/weibo?q=%23%E4%BC%81%E4%B8%9A%E5%9B%9E%E5%BA%94%E7%A6%81%E6%AD%A2%E5%A9%9A%E5%A4%96%E6%83%85%E5%92%8C%E5%87%BA%E8%BD%A8%23&t=31&band_rank=7&Refer=top)<br />
-8. [女博士毕业丈夫称赞她是全家骄傲](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%8D%9A%E5%A3%AB%E6%AF%95%E4%B8%9A%E4%B8%88%E5%A4%AB%E7%A7%B0%E8%B5%9E%E5%A5%B9%E6%98%AF%E5%85%A8%E5%AE%B6%E9%AA%84%E5%82%B2%23&t=31&band_rank=8&Refer=top)<br />
-9. [当蚊子吸了一口淤血](https://s.weibo.com/weibo?q=%23%E5%BD%93%E8%9A%8A%E5%AD%90%E5%90%B8%E4%BA%86%E4%B8%80%E5%8F%A3%E6%B7%A4%E8%A1%80%23&t=31&band_rank=9&Refer=top)<br />
+8. [当蚊子吸了一口淤血](https://s.weibo.com/weibo?q=%23%E5%BD%93%E8%9A%8A%E5%AD%90%E5%90%B8%E4%BA%86%E4%B8%80%E5%8F%A3%E6%B7%A4%E8%A1%80%23&t=31&band_rank=8&Refer=top)<br />
+9. [女博士毕业丈夫称赞她是全家骄傲](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%8D%9A%E5%A3%AB%E6%AF%95%E4%B8%9A%E4%B8%88%E5%A4%AB%E7%A7%B0%E8%B5%9E%E5%A5%B9%E6%98%AF%E5%85%A8%E5%AE%B6%E9%AA%84%E5%82%B2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
