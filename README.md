@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 20:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 20:40:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [Rain 街舞6](https://s.weibo.com/weibo?q=Rain%20%E8%A1%97%E8%88%9E6&t=31&band_rank=5&Refer=top)<br />
 6. [张彬彬的粉底咋回事](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%BD%AC%E5%BD%AC%E7%9A%84%E7%B2%89%E5%BA%95%E5%92%8B%E5%9B%9E%E4%BA%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [女博士毕业丈夫称赞她是全家骄傲](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%8D%9A%E5%A3%AB%E6%AF%95%E4%B8%9A%E4%B8%88%E5%A4%AB%E7%A7%B0%E8%B5%9E%E5%A5%B9%E6%98%AF%E5%85%A8%E5%AE%B6%E9%AA%84%E5%82%B2%23&t=31&band_rank=7&Refer=top)<br />
-8. [应采儿回应把hoho当成女孩养](https://s.weibo.com/weibo?q=%23%E5%BA%94%E9%87%87%E5%84%BF%E5%9B%9E%E5%BA%94%E6%8A%8Ahoho%E5%BD%93%E6%88%90%E5%A5%B3%E5%AD%A9%E5%85%BB%23&t=31&band_rank=8&Refer=top)<br />
-9. [又一部炸裂的韩综](https://s.weibo.com/weibo?q=%E5%8F%88%E4%B8%80%E9%83%A8%E7%82%B8%E8%A3%82%E7%9A%84%E9%9F%A9%E7%BB%BC&t=31&band_rank=9&Refer=top)<br />
+8. [又一部炸裂的韩综](https://s.weibo.com/weibo?q=%E5%8F%88%E4%B8%80%E9%83%A8%E7%82%B8%E8%A3%82%E7%9A%84%E9%9F%A9%E7%BB%BC&t=31&band_rank=8&Refer=top)<br />
+9. [应采儿回应把hoho当成女孩养](https://s.weibo.com/weibo?q=%23%E5%BA%94%E9%87%87%E5%84%BF%E5%9B%9E%E5%BA%94%E6%8A%8Ahoho%E5%BD%93%E6%88%90%E5%A5%B3%E5%AD%A9%E5%85%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -34,7 +34,7 @@
 6. [发改委下达以工代赈中央投资73亿](https://www.baidu.com/s?wd=%E5%8F%91%E6%94%B9%E5%A7%94%E4%B8%8B%E8%BE%BE%E4%BB%A5%E5%B7%A5%E4%BB%A3%E8%B5%88%E4%B8%AD%E5%A4%AE%E6%8A%95%E8%B5%8473%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [韩国网红柬埔寨去世尸体被扔水沟](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E7%BD%91%E7%BA%A2%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%8E%BB%E4%B8%96%E5%B0%B8%E4%BD%93%E8%A2%AB%E6%89%94%E6%B0%B4%E6%B2%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女生遭5名学生掌掴 警方介入](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%81%AD5%E5%90%8D%E5%AD%A6%E7%94%9F%E6%8E%8C%E6%8E%B4+%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子徒手攀登韩乐天世界大厦被抓](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BE%92%E6%89%8B%E6%94%80%E7%99%BB%E9%9F%A9%E4%B9%90%E5%A4%A9%E4%B8%96%E7%95%8C%E5%A4%A7%E5%8E%A6%E8%A2%AB%E6%8A%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [大学为何纷纷涨价？](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E4%B8%BA%E4%BD%95%E7%BA%B7%E7%BA%B7%E6%B6%A8%E4%BB%B7%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [发改委下达以工代赈中央投资73亿](https://www.baidu.com/s?wd=%E5%8F%91%E6%94%B9%E5%A7%94%E4%B8%8B%E8%BE%BE%E4%BB%A5%E5%B7%A5%E4%BB%A3%E8%B5%88%E4%B8%AD%E5%A4%AE%E6%8A%95%E8%B5%8473%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [韩国网红柬埔寨去世尸体被扔水沟](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E7%BD%91%E7%BA%A2%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%8E%BB%E4%B8%96%E5%B0%B8%E4%BD%93%E8%A2%AB%E6%89%94%E6%B0%B4%E6%B2%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女生遭5名学生掌掴 警方介入](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%81%AD5%E5%90%8D%E5%AD%A6%E7%94%9F%E6%8E%8C%E6%8E%B4+%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子徒手攀登韩乐天世界大厦被抓](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BE%92%E6%89%8B%E6%94%80%E7%99%BB%E9%9F%A9%E4%B9%90%E5%A4%A9%E4%B8%96%E7%95%8C%E5%A4%A7%E5%8E%A6%E8%A2%AB%E6%8A%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [大学为何纷纷涨价？](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E4%B8%BA%E4%BD%95%E7%BA%B7%E7%BA%B7%E6%B6%A8%E4%BB%B7%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
