@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 18:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 18:56:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [女博士毕业丈夫称赞她是全家骄傲](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%8D%9A%E5%A3%AB%E6%AF%95%E4%B8%9A%E4%B8%88%E5%A4%AB%E7%A7%B0%E8%B5%9E%E5%A5%B9%E6%98%AF%E5%85%A8%E5%AE%B6%E9%AA%84%E5%82%B2%23&t=31&band_rank=5&Refer=top)<br />
 6. [当蚊子吸了一口淤血](https://s.weibo.com/weibo?q=%23%E5%BD%93%E8%9A%8A%E5%AD%90%E5%90%B8%E4%BA%86%E4%B8%80%E5%8F%A3%E6%B7%A4%E8%A1%80%23&t=31&band_rank=6&Refer=top)<br />
 7. [暖心乡村食堂60岁老人1元就餐](https://s.weibo.com/weibo?q=%23%E6%9A%96%E5%BF%83%E4%B9%A1%E6%9D%91%E9%A3%9F%E5%A0%8260%E5%B2%81%E8%80%81%E4%BA%BA1%E5%85%83%E5%B0%B1%E9%A4%90%23&t=31&band_rank=7&Refer=top)<br />
-8. [应采儿回应把hoho当成女孩养](https://s.weibo.com/weibo?q=%23%E5%BA%94%E9%87%87%E5%84%BF%E5%9B%9E%E5%BA%94%E6%8A%8Ahoho%E5%BD%93%E6%88%90%E5%A5%B3%E5%AD%A9%E5%85%BB%23&t=31&band_rank=8&Refer=top)<br />
-9. [韩网红柬埔寨去世尸体被扔水沟](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%BD%91%E7%BA%A2%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%8E%BB%E4%B8%96%E5%B0%B8%E4%BD%93%E8%A2%AB%E6%89%94%E6%B0%B4%E6%B2%9F%23&t=31&band_rank=9&Refer=top)<br />
+8. [韩网红柬埔寨去世尸体被扔水沟](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%BD%91%E7%BA%A2%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%8E%BB%E4%B8%96%E5%B0%B8%E4%BD%93%E8%A2%AB%E6%89%94%E6%B0%B4%E6%B2%9F%23&t=31&band_rank=8&Refer=top)<br />
+9. [应采儿回应把hoho当成女孩养](https://s.weibo.com/weibo?q=%23%E5%BA%94%E9%87%87%E5%84%BF%E5%9B%9E%E5%BA%94%E6%8A%8Ahoho%E5%BD%93%E6%88%90%E5%A5%B3%E5%AD%A9%E5%85%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
