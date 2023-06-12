@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 16:36:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 16:37:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [任敏性格](https://s.weibo.com/weibo?q=%E4%BB%BB%E6%95%8F%E6%80%A7%E6%A0%BC&t=31&band_rank=5&Refer=top)<br />
 6. [警方介入调查一女生遭多名学生掌掴](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5%E8%B0%83%E6%9F%A5%E4%B8%80%E5%A5%B3%E7%94%9F%E9%81%AD%E5%A4%9A%E5%90%8D%E5%AD%A6%E7%94%9F%E6%8E%8C%E6%8E%B4%23&t=31&band_rank=6&Refer=top)<br />
 7. [当蚊子吸了一口淤血](https://s.weibo.com/weibo?q=%23%E5%BD%93%E8%9A%8A%E5%AD%90%E5%90%B8%E4%BA%86%E4%B8%80%E5%8F%A3%E6%B7%A4%E8%A1%80%23&t=31&band_rank=7&Refer=top)<br />
-8. [注册不了张z公开道歉为何再惹众怒](https://s.weibo.com/weibo?q=%23%E6%B3%A8%E5%86%8C%E4%B8%8D%E4%BA%86%E5%BC%A0z%E5%85%AC%E5%BC%80%E9%81%93%E6%AD%89%E4%B8%BA%E4%BD%95%E5%86%8D%E6%83%B9%E4%BC%97%E6%80%92%23&t=31&band_rank=8&Refer=top)<br />
-9. [五月天退票](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%E9%80%80%E7%A5%A8&t=31&band_rank=9&Refer=top)<br />
+8. [五月天退票](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%E9%80%80%E7%A5%A8&t=31&band_rank=8&Refer=top)<br />
+9. [防止肥胖要像猪猪一样吃](https://s.weibo.com/weibo?q=%E9%98%B2%E6%AD%A2%E8%82%A5%E8%83%96%E8%A6%81%E5%83%8F%E7%8C%AA%E7%8C%AA%E4%B8%80%E6%A0%B7%E5%90%83&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
