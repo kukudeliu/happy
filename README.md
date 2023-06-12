@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 07:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 07:53:01</h4></div>
 
 > 微博  
 
@@ -32,9 +32,9 @@
 4. [疏源浚流 与古为新](https://www.baidu.com/s?wd=%E7%96%8F%E6%BA%90%E6%B5%9A%E6%B5%81+%E4%B8%8E%E5%8F%A4%E4%B8%BA%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [买到水龄16500年矿泉水?专家:不科学](https://www.baidu.com/s?wd=%E4%B9%B0%E5%88%B0%E6%B0%B4%E9%BE%8416500%E5%B9%B4%E7%9F%BF%E6%B3%89%E6%B0%B4%3F%E4%B8%93%E5%AE%B6%3A%E4%B8%8D%E7%A7%91%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [中纪委“内鬼”刘燃被“双开”](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BA%AA%E5%A7%94%E2%80%9C%E5%86%85%E9%AC%BC%E2%80%9D%E5%88%98%E7%87%83%E8%A2%AB%E2%80%9C%E5%8F%8C%E5%BC%80%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [2药企被罚3.2亿 救命药短缺频发背后](https://www.baidu.com/s?wd=2%E8%8D%AF%E4%BC%81%E8%A2%AB%E7%BD%9A3.2%E4%BA%BF+%E6%95%91%E5%91%BD%E8%8D%AF%E7%9F%AD%E7%BC%BA%E9%A2%91%E5%8F%91%E8%83%8C%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [范志毅回复村超邀请：必须来](https://www.baidu.com/s?wd=%E8%8C%83%E5%BF%97%E6%AF%85%E5%9B%9E%E5%A4%8D%E6%9D%91%E8%B6%85%E9%82%80%E8%AF%B7%EF%BC%9A%E5%BF%85%E9%A1%BB%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [水果店内多人持械斗殴 警方通报](https://www.baidu.com/s?wd=%E6%B0%B4%E6%9E%9C%E5%BA%97%E5%86%85%E5%A4%9A%E4%BA%BA%E6%8C%81%E6%A2%B0%E6%96%97%E6%AE%B4+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [媒体评“禁止民间划龙舟”](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E2%80%9C%E7%A6%81%E6%AD%A2%E6%B0%91%E9%97%B4%E5%88%92%E9%BE%99%E8%88%9F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [水果店内多人持械斗殴 警方通报](https://www.baidu.com/s?wd=%E6%B0%B4%E6%9E%9C%E5%BA%97%E5%86%85%E5%A4%9A%E4%BA%BA%E6%8C%81%E6%A2%B0%E6%96%97%E6%AE%B4+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女生遭多名学生掌掴 校长被停职](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%81%AD%E5%A4%9A%E5%90%8D%E5%AD%A6%E7%94%9F%E6%8E%8C%E6%8E%B4+%E6%A0%A1%E9%95%BF%E8%A2%AB%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [疏源浚流 与古为新](https://www.baidu.com/s?wd=%E7%96%8F%E6%BA%90%E6%B5%9A%E6%B5%81+%E4%B8%8E%E5%8F%A4%E4%B8%BA%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [买到水龄16500年矿泉水?专家:不科学](https://www.baidu.com/s?wd=%E4%B9%B0%E5%88%B0%E6%B0%B4%E9%BE%8416500%E5%B9%B4%E7%9F%BF%E6%B3%89%E6%B0%B4%3F%E4%B8%93%E5%AE%B6%3A%E4%B8%8D%E7%A7%91%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [中纪委“内鬼”刘燃被“双开”](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BA%AA%E5%A7%94%E2%80%9C%E5%86%85%E9%AC%BC%E2%80%9D%E5%88%98%E7%87%83%E8%A2%AB%E2%80%9C%E5%8F%8C%E5%BC%80%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [2药企被罚3.2亿 救命药短缺频发背后](https://www.baidu.com/s?wd=2%E8%8D%AF%E4%BC%81%E8%A2%AB%E7%BD%9A3.2%E4%BA%BF+%E6%95%91%E5%91%BD%E8%8D%AF%E7%9F%AD%E7%BC%BA%E9%A2%91%E5%8F%91%E8%83%8C%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [范志毅回复村超邀请：必须来](https://www.baidu.com/s?wd=%E8%8C%83%E5%BF%97%E6%AF%85%E5%9B%9E%E5%A4%8D%E6%9D%91%E8%B6%85%E9%82%80%E8%AF%B7%EF%BC%9A%E5%BF%85%E9%A1%BB%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [水果店内多人持械斗殴 警方通报](https://www.baidu.com/s?wd=%E6%B0%B4%E6%9E%9C%E5%BA%97%E5%86%85%E5%A4%9A%E4%BA%BA%E6%8C%81%E6%A2%B0%E6%96%97%E6%AE%B4+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [媒体评“禁止民间划龙舟”](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E2%80%9C%E7%A6%81%E6%AD%A2%E6%B0%91%E9%97%B4%E5%88%92%E9%BE%99%E8%88%9F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [水果店内多人持械斗殴 警方通报](https://www.baidu.com/s?wd=%E6%B0%B4%E6%9E%9C%E5%BA%97%E5%86%85%E5%A4%9A%E4%BA%BA%E6%8C%81%E6%A2%B0%E6%96%97%E6%AE%B4+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女生遭多名学生掌掴 校长被停职](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%81%AD%E5%A4%9A%E5%90%8D%E5%AD%A6%E7%94%9F%E6%8E%8C%E6%8E%B4+%E6%A0%A1%E9%95%BF%E8%A2%AB%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
