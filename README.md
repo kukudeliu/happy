@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 13:54:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 13:55:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [曝光大叔女子哭诉学校准备开除她](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%85%89%E5%A4%A7%E5%8F%94%E5%A5%B3%E5%AD%90%E5%93%AD%E8%AF%89%E5%AD%A6%E6%A0%A1%E5%87%86%E5%A4%87%E5%BC%80%E9%99%A4%E5%A5%B9%23&t=31&band_rank=6&Refer=top)<br />
 7. [THE9演唱会](https://s.weibo.com/weibo?q=THE9%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=7&Refer=top)<br />
 8. [白敬亭工作室向粉丝道歉](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%90%91%E7%B2%89%E4%B8%9D%E9%81%93%E6%AD%89%23&t=31&band_rank=8&Refer=top)<br />
-9. [何瑞贤新剧刚怀孕就被陷害流产](https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%91%9E%E8%B4%A4%E6%96%B0%E5%89%A7%E5%88%9A%E6%80%80%E5%AD%95%E5%B0%B1%E8%A2%AB%E9%99%B7%E5%AE%B3%E6%B5%81%E4%BA%A7%23&t=31&band_rank=9&Refer=top)<br />
+9. [博主因性别称谓发视频曝光空乘](https://s.weibo.com/weibo?q=%23%E5%8D%9A%E4%B8%BB%E5%9B%A0%E6%80%A7%E5%88%AB%E7%A7%B0%E8%B0%93%E5%8F%91%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89%E7%A9%BA%E4%B9%98%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -31,9 +31,9 @@
 3. [河北地质大学温暖回应环卫工人儿子](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E5%9C%B0%E8%B4%A8%E5%A4%A7%E5%AD%A6%E6%B8%A9%E6%9A%96%E5%9B%9E%E5%BA%94%E7%8E%AF%E5%8D%AB%E5%B7%A5%E4%BA%BA%E5%84%BF%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [超级工程背后的超级智慧](https://www.baidu.com/s?wd=%E8%B6%85%E7%BA%A7%E5%B7%A5%E7%A8%8B%E8%83%8C%E5%90%8E%E7%9A%84%E8%B6%85%E7%BA%A7%E6%99%BA%E6%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [祝大学生高考有个好成绩?李希侃道歉](https://www.baidu.com/s?wd=%E7%A5%9D%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%AB%98%E8%80%83%E6%9C%89%E4%B8%AA%E5%A5%BD%E6%88%90%E7%BB%A9%3F%E6%9D%8E%E5%B8%8C%E4%BE%83%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [章莹颖父亲的心碎直播](https://www.baidu.com/s?wd=%E7%AB%A0%E8%8E%B9%E9%A2%96%E7%88%B6%E4%BA%B2%E7%9A%84%E5%BF%83%E7%A2%8E%E7%9B%B4%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [卡斯特罗向英雄纪念碑敬献花圈](https://www.baidu.com/s?wd=%E5%8D%A1%E6%96%AF%E7%89%B9%E7%BD%97%E5%90%91%E8%8B%B1%E9%9B%84%E7%BA%AA%E5%BF%B5%E7%A2%91%E6%95%AC%E7%8C%AE%E8%8A%B1%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女生污蔑大叔偷拍 川大:将依规处理](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E6%B1%A1%E8%94%91%E5%A4%A7%E5%8F%94%E5%81%B7%E6%8B%8D+%E5%B7%9D%E5%A4%A7%3A%E5%B0%86%E4%BE%9D%E8%A7%84%E5%A4%84%E7%90%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [卡斯特罗向英雄纪念碑敬献花圈](https://www.baidu.com/s?wd=%E5%8D%A1%E6%96%AF%E7%89%B9%E7%BD%97%E5%90%91%E8%8B%B1%E9%9B%84%E7%BA%AA%E5%BF%B5%E7%A2%91%E6%95%AC%E7%8C%AE%E8%8A%B1%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女生遭5名学生掌掴 警方介入](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%81%AD5%E5%90%8D%E5%AD%A6%E7%94%9F%E6%8E%8C%E6%8E%B4+%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [高考后饭菜的反差让人猝不及防](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E5%90%8E%E9%A5%AD%E8%8F%9C%E7%9A%84%E5%8F%8D%E5%B7%AE%E8%AE%A9%E4%BA%BA%E7%8C%9D%E4%B8%8D%E5%8F%8A%E9%98%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -43,7 +43,7 @@
 3. [河北地质大学温暖回应环卫工人儿子](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E5%9C%B0%E8%B4%A8%E5%A4%A7%E5%AD%A6%E6%B8%A9%E6%9A%96%E5%9B%9E%E5%BA%94%E7%8E%AF%E5%8D%AB%E5%B7%A5%E4%BA%BA%E5%84%BF%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [超级工程背后的超级智慧](https://www.baidu.com/s?wd=%E8%B6%85%E7%BA%A7%E5%B7%A5%E7%A8%8B%E8%83%8C%E5%90%8E%E7%9A%84%E8%B6%85%E7%BA%A7%E6%99%BA%E6%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [祝大学生高考有个好成绩?李希侃道歉](https://www.baidu.com/s?wd=%E7%A5%9D%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%AB%98%E8%80%83%E6%9C%89%E4%B8%AA%E5%A5%BD%E6%88%90%E7%BB%A9%3F%E6%9D%8E%E5%B8%8C%E4%BE%83%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [章莹颖父亲的心碎直播](https://www.baidu.com/s?wd=%E7%AB%A0%E8%8E%B9%E9%A2%96%E7%88%B6%E4%BA%B2%E7%9A%84%E5%BF%83%E7%A2%8E%E7%9B%B4%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [卡斯特罗向英雄纪念碑敬献花圈](https://www.baidu.com/s?wd=%E5%8D%A1%E6%96%AF%E7%89%B9%E7%BD%97%E5%90%91%E8%8B%B1%E9%9B%84%E7%BA%AA%E5%BF%B5%E7%A2%91%E6%95%AC%E7%8C%AE%E8%8A%B1%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女生污蔑大叔偷拍 川大:将依规处理](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E6%B1%A1%E8%94%91%E5%A4%A7%E5%8F%94%E5%81%B7%E6%8B%8D+%E5%B7%9D%E5%A4%A7%3A%E5%B0%86%E4%BE%9D%E8%A7%84%E5%A4%84%E7%90%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [卡斯特罗向英雄纪念碑敬献花圈](https://www.baidu.com/s?wd=%E5%8D%A1%E6%96%AF%E7%89%B9%E7%BD%97%E5%90%91%E8%8B%B1%E9%9B%84%E7%BA%AA%E5%BF%B5%E7%A2%91%E6%95%AC%E7%8C%AE%E8%8A%B1%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女生遭5名学生掌掴 警方介入](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%81%AD5%E5%90%8D%E5%AD%A6%E7%94%9F%E6%8E%8C%E6%8E%B4+%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [高考后饭菜的反差让人猝不及防](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E5%90%8E%E9%A5%AD%E8%8F%9C%E7%9A%84%E5%8F%8D%E5%B7%AE%E8%AE%A9%E4%BA%BA%E7%8C%9D%E4%B8%8D%E5%8F%8A%E9%98%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
