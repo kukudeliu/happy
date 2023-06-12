@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 03:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 03:50:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [大学为何纷纷涨价？](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E4%B8%BA%E4%BD%95%E7%BA%B7%E7%BA%B7%E6%B6%A8%E4%BB%B7%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [深圳再现楼盘打新套利数百万](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%86%8D%E7%8E%B0%E6%A5%BC%E7%9B%98%E6%89%93%E6%96%B0%E5%A5%97%E5%88%A9%E6%95%B0%E7%99%BE%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女生遭多名学生掌掴 校长被停职](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%81%AD%E5%A4%9A%E5%90%8D%E5%AD%A6%E7%94%9F%E6%8E%8C%E6%8E%B4+%E6%A0%A1%E9%95%BF%E8%A2%AB%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [纸袋大王上市 创始人身价近12亿](https://www.baidu.com/s?wd=%E7%BA%B8%E8%A2%8B%E5%A4%A7%E7%8E%8B%E4%B8%8A%E5%B8%82+%E5%88%9B%E5%A7%8B%E4%BA%BA%E8%BA%AB%E4%BB%B7%E8%BF%9112%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [媒体评“禁止民间划龙舟”](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E2%80%9C%E7%A6%81%E6%AD%A2%E6%B0%91%E9%97%B4%E5%88%92%E9%BE%99%E8%88%9F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [大学为何纷纷涨价？](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E4%B8%BA%E4%BD%95%E7%BA%B7%E7%BA%B7%E6%B6%A8%E4%BB%B7%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [深圳再现楼盘打新套利数百万](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%86%8D%E7%8E%B0%E6%A5%BC%E7%9B%98%E6%89%93%E6%96%B0%E5%A5%97%E5%88%A9%E6%95%B0%E7%99%BE%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女生遭多名学生掌掴 校长被停职](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%81%AD%E5%A4%9A%E5%90%8D%E5%AD%A6%E7%94%9F%E6%8E%8C%E6%8E%B4+%E6%A0%A1%E9%95%BF%E8%A2%AB%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [纸袋大王上市 创始人身价近12亿](https://www.baidu.com/s?wd=%E7%BA%B8%E8%A2%8B%E5%A4%A7%E7%8E%8B%E4%B8%8A%E5%B8%82+%E5%88%9B%E5%A7%8B%E4%BA%BA%E8%BA%AB%E4%BB%B7%E8%BF%9112%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [媒体评“禁止民间划龙舟”](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E2%80%9C%E7%A6%81%E6%AD%A2%E6%B0%91%E9%97%B4%E5%88%92%E9%BE%99%E8%88%9F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
