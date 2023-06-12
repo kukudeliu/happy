@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 19:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 19:38:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [当蚊子吸了一口淤血](https://s.weibo.com/weibo?q=%23%E5%BD%93%E8%9A%8A%E5%AD%90%E5%90%B8%E4%BA%86%E4%B8%80%E5%8F%A3%E6%B7%A4%E8%A1%80%23&t=31&band_rank=6&Refer=top)<br />
 7. [重庆医生离世捐器官救3人](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E5%8C%BB%E7%94%9F%E7%A6%BB%E4%B8%96%E6%8D%90%E5%99%A8%E5%AE%98%E6%95%913%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [又一部炸裂的韩综](https://s.weibo.com/weibo?q=%E5%8F%88%E4%B8%80%E9%83%A8%E7%82%B8%E8%A3%82%E7%9A%84%E9%9F%A9%E7%BB%BC&t=31&band_rank=8&Refer=top)<br />
-9. [五月天退票](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%E9%80%80%E7%A5%A8&t=31&band_rank=9&Refer=top)<br />
+9. [白鹿王鹤棣坐一起](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%9D%90%E4%B8%80%E8%B5%B7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
