@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 19:30:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 19:31:02</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [全国网络普法行江西站](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E7%BD%91%E7%BB%9C%E6%99%AE%E6%B3%95%E8%A1%8C%E6%B1%9F%E8%A5%BF%E7%AB%99%23&t=31&band_rank=3&Refer=top)<br />
 4. [官方通报女干部被带去酒局灌酒](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%B9%B2%E9%83%A8%E8%A2%AB%E5%B8%A6%E5%8E%BB%E9%85%92%E5%B1%80%E7%81%8C%E9%85%92%23&t=31&band_rank=4&Refer=top)<br />
 5. [大熊猫洗澡两个半人摁半个负责洗](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E6%B4%97%E6%BE%A1%E4%B8%A4%E4%B8%AA%E5%8D%8A%E4%BA%BA%E6%91%81%E5%8D%8A%E4%B8%AA%E8%B4%9F%E8%B4%A3%E6%B4%97%23&t=31&band_rank=5&Refer=top)<br />
-6. [当蚊子吸了一口淤血](https://s.weibo.com/weibo?q=%23%E5%BD%93%E8%9A%8A%E5%AD%90%E5%90%B8%E4%BA%86%E4%B8%80%E5%8F%A3%E6%B7%A4%E8%A1%80%23&t=31&band_rank=6&Refer=top)<br />
+6. [又一部炸裂的韩综](https://s.weibo.com/weibo?q=%E5%8F%88%E4%B8%80%E9%83%A8%E7%82%B8%E8%A3%82%E7%9A%84%E9%9F%A9%E7%BB%BC&t=31&band_rank=6&Refer=top)<br />
 7. [重庆医生离世捐器官救3人](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E5%8C%BB%E7%94%9F%E7%A6%BB%E4%B8%96%E6%8D%90%E5%99%A8%E5%AE%98%E6%95%913%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
-8. [KPOP真的来了](https://s.weibo.com/weibo?q=%23KPOP%E7%9C%9F%E7%9A%84%E6%9D%A5%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [川大回应网传地铁事件女生被开除](https://s.weibo.com/weibo?q=%23%E5%B7%9D%E5%A4%A7%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E5%9C%B0%E9%93%81%E4%BA%8B%E4%BB%B6%E5%A5%B3%E7%94%9F%E8%A2%AB%E5%BC%80%E9%99%A4%23&t=31&band_rank=9&Refer=top)<br />
+8. [当蚊子吸了一口淤血](https://s.weibo.com/weibo?q=%23%E5%BD%93%E8%9A%8A%E5%AD%90%E5%90%B8%E4%BA%86%E4%B8%80%E5%8F%A3%E6%B7%A4%E8%A1%80%23&t=31&band_rank=8&Refer=top)<br />
+9. [KPOP真的来了](https://s.weibo.com/weibo?q=%23KPOP%E7%9C%9F%E7%9A%84%E6%9D%A5%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
