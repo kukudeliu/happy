@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 21:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 21:38:01</h4></div>
 
 > 微博  
 
@@ -30,7 +30,7 @@
 2. [韩国网红柬埔寨去世尸体被扔水沟](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E7%BD%91%E7%BA%A2%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%8E%BB%E4%B8%96%E5%B0%B8%E4%BD%93%E8%A2%AB%E6%89%94%E6%B0%B4%E6%B2%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [大学为何纷纷涨价？](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E4%B8%BA%E4%BD%95%E7%BA%B7%E7%BA%B7%E6%B6%A8%E4%BB%B7%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国空间站逐梦苍穹](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E9%80%90%E6%A2%A6%E8%8B%8D%E7%A9%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [中国光伏企业高管在德国机场被带走](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%85%89%E4%BC%8F%E4%BC%81%E4%B8%9A%E9%AB%98%E7%AE%A1%E5%9C%A8%E5%BE%B7%E5%9B%BD%E6%9C%BA%E5%9C%BA%E8%A2%AB%E5%B8%A6%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [梅西直播共露脸50秒](https://www.baidu.com/s?wd=%E6%A2%85%E8%A5%BF%E7%9B%B4%E6%92%AD%E5%85%B1%E9%9C%B2%E8%84%B850%E7%A7%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [“中国股票博物馆”馆长被罚没近3亿](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BD%E8%82%A1%E7%A5%A8%E5%8D%9A%E7%89%A9%E9%A6%86%E2%80%9D%E9%A6%86%E9%95%BF%E8%A2%AB%E7%BD%9A%E6%B2%A1%E8%BF%913%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [美以涉伊为由制裁中国实体 中方回应](https://www.baidu.com/s?wd=%E7%BE%8E%E4%BB%A5%E6%B6%89%E4%BC%8A%E4%B8%BA%E7%94%B1%E5%88%B6%E8%A3%81%E4%B8%AD%E5%9B%BD%E5%AE%9E%E4%BD%93+%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [何超仪：上次人这么齐还是在殡仪馆](https://www.baidu.com/s?wd=%E4%BD%95%E8%B6%85%E4%BB%AA%EF%BC%9A%E4%B8%8A%E6%AC%A1%E4%BA%BA%E8%BF%99%E4%B9%88%E9%BD%90%E8%BF%98%E6%98%AF%E5%9C%A8%E6%AE%A1%E4%BB%AA%E9%A6%86&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -42,7 +42,7 @@
 2. [韩国网红柬埔寨去世尸体被扔水沟](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E7%BD%91%E7%BA%A2%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%8E%BB%E4%B8%96%E5%B0%B8%E4%BD%93%E8%A2%AB%E6%89%94%E6%B0%B4%E6%B2%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [大学为何纷纷涨价？](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E4%B8%BA%E4%BD%95%E7%BA%B7%E7%BA%B7%E6%B6%A8%E4%BB%B7%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国空间站逐梦苍穹](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E9%80%90%E6%A2%A6%E8%8B%8D%E7%A9%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [中国光伏企业高管在德国机场被带走](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%85%89%E4%BC%8F%E4%BC%81%E4%B8%9A%E9%AB%98%E7%AE%A1%E5%9C%A8%E5%BE%B7%E5%9B%BD%E6%9C%BA%E5%9C%BA%E8%A2%AB%E5%B8%A6%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [梅西直播共露脸50秒](https://www.baidu.com/s?wd=%E6%A2%85%E8%A5%BF%E7%9B%B4%E6%92%AD%E5%85%B1%E9%9C%B2%E8%84%B850%E7%A7%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [“中国股票博物馆”馆长被罚没近3亿](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BD%E8%82%A1%E7%A5%A8%E5%8D%9A%E7%89%A9%E9%A6%86%E2%80%9D%E9%A6%86%E9%95%BF%E8%A2%AB%E7%BD%9A%E6%B2%A1%E8%BF%913%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [美以涉伊为由制裁中国实体 中方回应](https://www.baidu.com/s?wd=%E7%BE%8E%E4%BB%A5%E6%B6%89%E4%BC%8A%E4%B8%BA%E7%94%B1%E5%88%B6%E8%A3%81%E4%B8%AD%E5%9B%BD%E5%AE%9E%E4%BD%93+%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [何超仪：上次人这么齐还是在殡仪馆](https://www.baidu.com/s?wd=%E4%BD%95%E8%B6%85%E4%BB%AA%EF%BC%9A%E4%B8%8A%E6%AC%A1%E4%BA%BA%E8%BF%99%E4%B9%88%E9%BD%90%E8%BF%98%E6%98%AF%E5%9C%A8%E6%AE%A1%E4%BB%AA%E9%A6%86&sa=fyb_news&rsv_dl=fyb_news)<br />
