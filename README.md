@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 14:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 14:33:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [加拿大宣布扣押并将没收一架俄货运飞机，俄方回应称抢劫，你对该事件有何看法？](https://www.zhihu.com/question/606004364)<br />
 7. [如何看待高二学生以一作发表数学类 sci，论文含金量如何？](https://www.zhihu.com/question/605160535)<br />
 8. [亚裔考生美国高考几乎拿下满分，却被六大名校拒之门外，这究竟是怎么回事？](https://www.zhihu.com/question/605680526)<br />
-9. [如何看待 6 月 12 日蔚来全系降价 3W？](https://www.zhihu.com/question/606128553)<br />
+9. [美国调查人员曝进入坠毁 UFO 亲身经历称发生「时空扭曲」，待几分钟相当于 4 小时，真实性如何？](https://www.zhihu.com/question/606020452)<br />
 
 > 百度  
 
