@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 09:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 09:44:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [张雨绮致歉](https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%A8%E7%BB%AE%E8%87%B4%E6%AD%89&t=31&band_rank=6&Refer=top)<br />
 7. [入住毛坯房的我在小区出名了](https://s.weibo.com/weibo?q=%23%E5%85%A5%E4%BD%8F%E6%AF%9B%E5%9D%AF%E6%88%BF%E7%9A%84%E6%88%91%E5%9C%A8%E5%B0%8F%E5%8C%BA%E5%87%BA%E5%90%8D%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [梅西被迫宅在酒店](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%A2%AB%E8%BF%AB%E5%AE%85%E5%9C%A8%E9%85%92%E5%BA%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [张雨绮说699我都买不了袜子](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%A8%E7%BB%AE%E8%AF%B4699%E6%88%91%E9%83%BD%E4%B9%B0%E4%B8%8D%E4%BA%86%E8%A2%9C%E5%AD%90%23&t=31&band_rank=9&Refer=top)<br />
+9. [过了下班时间窗口工作人员还在办理业务](https://s.weibo.com/weibo?q=%23%E8%BF%87%E4%BA%86%E4%B8%8B%E7%8F%AD%E6%97%B6%E9%97%B4%E7%AA%97%E5%8F%A3%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E8%BF%98%E5%9C%A8%E5%8A%9E%E7%90%86%E4%B8%9A%E5%8A%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
