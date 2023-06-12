@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 07:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 07:44:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [中纪委“内鬼”刘燃被“双开”](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BA%AA%E5%A7%94%E2%80%9C%E5%86%85%E9%AC%BC%E2%80%9D%E5%88%98%E7%87%83%E8%A2%AB%E2%80%9C%E5%8F%8C%E5%BC%80%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中国企业高管在德被带走?德警方回复](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BC%81%E4%B8%9A%E9%AB%98%E7%AE%A1%E5%9C%A8%E5%BE%B7%E8%A2%AB%E5%B8%A6%E8%B5%B0%3F%E5%BE%B7%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%A4%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女生遭多名学生掌掴 校长被停职](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%81%AD%E5%A4%9A%E5%90%8D%E5%AD%A6%E7%94%9F%E6%8E%8C%E6%8E%B4+%E6%A0%A1%E9%95%BF%E8%A2%AB%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [韩国网红柬埔寨去世尸体被扔水沟](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E7%BD%91%E7%BA%A2%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%8E%BB%E4%B8%96%E5%B0%B8%E4%BD%93%E8%A2%AB%E6%89%94%E6%B0%B4%E6%B2%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [媒体评“禁止民间划龙舟”](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E2%80%9C%E7%A6%81%E6%AD%A2%E6%B0%91%E9%97%B4%E5%88%92%E9%BE%99%E8%88%9F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [中纪委“内鬼”刘燃被“双开”](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BA%AA%E5%A7%94%E2%80%9C%E5%86%85%E9%AC%BC%E2%80%9D%E5%88%98%E7%87%83%E8%A2%AB%E2%80%9C%E5%8F%8C%E5%BC%80%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中国企业高管在德被带走?德警方回复](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BC%81%E4%B8%9A%E9%AB%98%E7%AE%A1%E5%9C%A8%E5%BE%B7%E8%A2%AB%E5%B8%A6%E8%B5%B0%3F%E5%BE%B7%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%A4%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女生遭多名学生掌掴 校长被停职](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%81%AD%E5%A4%9A%E5%90%8D%E5%AD%A6%E7%94%9F%E6%8E%8C%E6%8E%B4+%E6%A0%A1%E9%95%BF%E8%A2%AB%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [韩国网红柬埔寨去世尸体被扔水沟](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E7%BD%91%E7%BA%A2%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%8E%BB%E4%B8%96%E5%B0%B8%E4%BD%93%E8%A2%AB%E6%89%94%E6%B0%B4%E6%B2%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [媒体评“禁止民间划龙舟”](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E2%80%9C%E7%A6%81%E6%AD%A2%E6%B0%91%E9%97%B4%E5%88%92%E9%BE%99%E8%88%9F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
