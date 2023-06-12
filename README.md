@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 20:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 20:34:01</h4></div>
 
 > 微博  
 
@@ -32,9 +32,9 @@
 4. [中国空间站逐梦苍穹](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E9%80%90%E6%A2%A6%E8%8B%8D%E7%A9%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中国光伏企业高管在德国机场被带走](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%85%89%E4%BC%8F%E4%BC%81%E4%B8%9A%E9%AB%98%E7%AE%A1%E5%9C%A8%E5%BE%B7%E5%9B%BD%E6%9C%BA%E5%9C%BA%E8%A2%AB%E5%B8%A6%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [韩国网红柬埔寨去世尸体被扔水沟](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E7%BD%91%E7%BA%A2%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%8E%BB%E4%B8%96%E5%B0%B8%E4%BD%93%E8%A2%AB%E6%89%94%E6%B0%B4%E6%B2%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子徒手攀登韩乐天世界大厦被抓](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BE%92%E6%89%8B%E6%94%80%E7%99%BB%E9%9F%A9%E4%B9%90%E5%A4%A9%E4%B8%96%E7%95%8C%E5%A4%A7%E5%8E%A6%E8%A2%AB%E6%8A%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [华晨宇演唱会退票](https://www.baidu.com/s?wd=%E5%8D%8E%E6%99%A8%E5%AE%87%E6%BC%94%E5%94%B1%E4%BC%9A%E9%80%80%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [四川一校长与女教师起冲突致其受伤](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E6%A0%A1%E9%95%BF%E4%B8%8E%E5%A5%B3%E6%95%99%E5%B8%88%E8%B5%B7%E5%86%B2%E7%AA%81%E8%87%B4%E5%85%B6%E5%8F%97%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女生遭5名学生掌掴 警方介入](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%81%AD5%E5%90%8D%E5%AD%A6%E7%94%9F%E6%8E%8C%E6%8E%B4+%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子徒手攀登韩乐天世界大厦被抓](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BE%92%E6%89%8B%E6%94%80%E7%99%BB%E9%9F%A9%E4%B9%90%E5%A4%A9%E4%B8%96%E7%95%8C%E5%A4%A7%E5%8E%A6%E8%A2%AB%E6%8A%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [华晨宇演唱会退票](https://www.baidu.com/s?wd=%E5%8D%8E%E6%99%A8%E5%AE%87%E6%BC%94%E5%94%B1%E4%BC%9A%E9%80%80%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [中国空间站逐梦苍穹](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E9%80%90%E6%A2%A6%E8%8B%8D%E7%A9%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中国光伏企业高管在德国机场被带走](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%85%89%E4%BC%8F%E4%BC%81%E4%B8%9A%E9%AB%98%E7%AE%A1%E5%9C%A8%E5%BE%B7%E5%9B%BD%E6%9C%BA%E5%9C%BA%E8%A2%AB%E5%B8%A6%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [韩国网红柬埔寨去世尸体被扔水沟](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E7%BD%91%E7%BA%A2%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%8E%BB%E4%B8%96%E5%B0%B8%E4%BD%93%E8%A2%AB%E6%89%94%E6%B0%B4%E6%B2%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子徒手攀登韩乐天世界大厦被抓](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BE%92%E6%89%8B%E6%94%80%E7%99%BB%E9%9F%A9%E4%B9%90%E5%A4%A9%E4%B8%96%E7%95%8C%E5%A4%A7%E5%8E%A6%E8%A2%AB%E6%8A%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [华晨宇演唱会退票](https://www.baidu.com/s?wd=%E5%8D%8E%E6%99%A8%E5%AE%87%E6%BC%94%E5%94%B1%E4%BC%9A%E9%80%80%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [四川一校长与女教师起冲突致其受伤](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E6%A0%A1%E9%95%BF%E4%B8%8E%E5%A5%B3%E6%95%99%E5%B8%88%E8%B5%B7%E5%86%B2%E7%AA%81%E8%87%B4%E5%85%B6%E5%8F%97%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女生遭5名学生掌掴 警方介入](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%81%AD5%E5%90%8D%E5%AD%A6%E7%94%9F%E6%8E%8C%E6%8E%B4+%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子徒手攀登韩乐天世界大厦被抓](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BE%92%E6%89%8B%E6%94%80%E7%99%BB%E9%9F%A9%E4%B9%90%E5%A4%A9%E4%B8%96%E7%95%8C%E5%A4%A7%E5%8E%A6%E8%A2%AB%E6%8A%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [华晨宇演唱会退票](https://www.baidu.com/s?wd=%E5%8D%8E%E6%99%A8%E5%AE%87%E6%BC%94%E5%94%B1%E4%BC%9A%E9%80%80%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
