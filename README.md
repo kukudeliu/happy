@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 15:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 15:03:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [四川大学称将依规依纪处理](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E7%A7%B0%E5%B0%86%E4%BE%9D%E8%A7%84%E4%BE%9D%E7%BA%AA%E5%A4%84%E7%90%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [江歌妈妈将赔偿款全额捐出](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E6%AD%8C%E5%A6%88%E5%A6%88%E5%B0%86%E8%B5%94%E5%81%BF%E6%AC%BE%E5%85%A8%E9%A2%9D%E6%8D%90%E5%87%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [曝光大叔女子哭诉学校准备开除她](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%85%89%E5%A4%A7%E5%8F%94%E5%A5%B3%E5%AD%90%E5%93%AD%E8%AF%89%E5%AD%A6%E6%A0%A1%E5%87%86%E5%A4%87%E5%BC%80%E9%99%A4%E5%A5%B9%23&t=31&band_rank=8&Refer=top)<br />
-9. [找工作被确诊弱智](https://s.weibo.com/weibo?q=%23%E6%89%BE%E5%B7%A5%E4%BD%9C%E8%A2%AB%E7%A1%AE%E8%AF%8A%E5%BC%B1%E6%99%BA%23&t=31&band_rank=9&Refer=top)<br />
+9. [防止肥胖要像猪猪一样吃](https://s.weibo.com/weibo?q=%E9%98%B2%E6%AD%A2%E8%82%A5%E8%83%96%E8%A6%81%E5%83%8F%E7%8C%AA%E7%8C%AA%E4%B8%80%E6%A0%B7%E5%90%83&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [如何看待张雨绮「 699 买不了袜子」所反映的社会问题？](https://www.zhihu.com/question/606016416)<br />
 7. [亚裔考生美国高考几乎拿下满分，却被六大名校拒之门外，这究竟是怎么回事？](https://www.zhihu.com/question/605680526)<br />
 8. [蔚来全系车型降价 3 万元，取消终身免费换电政策，如何看待这一调整？会带来什么影响？](https://www.zhihu.com/question/606130325)<br />
-9. [北京政法职业学院通报「男生制止霸凌遭同学辱骂」，警方正调查，哪些信息值得关注？](https://www.zhihu.com/question/606014786)<br />
+9. [美国调查人员曝进入坠毁 UFO 亲身经历称发生「时空扭曲」，待几分钟相当于 4 小时，真实性如何？](https://www.zhihu.com/question/606020452)<br />
 
 > 百度  
 
