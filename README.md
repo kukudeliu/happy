@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 18:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 18:34:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [川大回应网传地铁事件女生被开除](https://s.weibo.com/weibo?q=%23%E5%B7%9D%E5%A4%A7%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E5%9C%B0%E9%93%81%E4%BA%8B%E4%BB%B6%E5%A5%B3%E7%94%9F%E8%A2%AB%E5%BC%80%E9%99%A4%23&t=31&band_rank=4&Refer=top)<br />
 5. [暖心乡村食堂60岁老人1元就餐](https://s.weibo.com/weibo?q=%23%E6%9A%96%E5%BF%83%E4%B9%A1%E6%9D%91%E9%A3%9F%E5%A0%8260%E5%B2%81%E8%80%81%E4%BA%BA1%E5%85%83%E5%B0%B1%E9%A4%90%23&t=31&band_rank=5&Refer=top)<br />
 6. [当蚊子吸了一口淤血](https://s.weibo.com/weibo?q=%23%E5%BD%93%E8%9A%8A%E5%AD%90%E5%90%B8%E4%BA%86%E4%B8%80%E5%8F%A3%E6%B7%A4%E8%A1%80%23&t=31&band_rank=6&Refer=top)<br />
-7. [戏曲演员侧台偷师的幸福谁懂啊](https://s.weibo.com/weibo?q=%23%E6%88%8F%E6%9B%B2%E6%BC%94%E5%91%98%E4%BE%A7%E5%8F%B0%E5%81%B7%E5%B8%88%E7%9A%84%E5%B9%B8%E7%A6%8F%E8%B0%81%E6%87%82%E5%95%8A%23&t=31&band_rank=7&Refer=top)<br />
-8. [贝卢斯科尼去世](https://s.weibo.com/weibo?q=%23%E8%B4%9D%E5%8D%A2%E6%96%AF%E7%A7%91%E5%B0%BC%E5%8E%BB%E4%B8%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [韩国演员朴秀莲从楼梯摔落去世](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%BC%94%E5%91%98%E6%9C%B4%E7%A7%80%E8%8E%B2%E4%BB%8E%E6%A5%BC%E6%A2%AF%E6%91%94%E8%90%BD%E5%8E%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
+7. [贝卢斯科尼去世](https://s.weibo.com/weibo?q=%23%E8%B4%9D%E5%8D%A2%E6%96%AF%E7%A7%91%E5%B0%BC%E5%8E%BB%E4%B8%96%23&t=31&band_rank=7&Refer=top)<br />
+8. [又一部炸裂的韩综](https://s.weibo.com/weibo?q=%E5%8F%88%E4%B8%80%E9%83%A8%E7%82%B8%E8%A3%82%E7%9A%84%E9%9F%A9%E7%BB%BC&t=31&band_rank=8&Refer=top)<br />
+9. [跑男最后一期录制没有宋雨琦](https://s.weibo.com/weibo?q=%23%E8%B7%91%E7%94%B7%E6%9C%80%E5%90%8E%E4%B8%80%E6%9C%9F%E5%BD%95%E5%88%B6%E6%B2%A1%E6%9C%89%E5%AE%8B%E9%9B%A8%E7%90%A6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -33,8 +33,8 @@
 5. [花6千万建公园不满1年就拆?山西回应](https://www.baidu.com/s?wd=%E8%8A%B16%E5%8D%83%E4%B8%87%E5%BB%BA%E5%85%AC%E5%9B%AD%E4%B8%8D%E6%BB%A11%E5%B9%B4%E5%B0%B1%E6%8B%86%3F%E5%B1%B1%E8%A5%BF%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [四川一校长与女教师起冲突致其受伤](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E6%A0%A1%E9%95%BF%E4%B8%8E%E5%A5%B3%E6%95%99%E5%B8%88%E8%B5%B7%E5%86%B2%E7%AA%81%E8%87%B4%E5%85%B6%E5%8F%97%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [曝光大叔的女生到底该不该被原谅？](https://www.baidu.com/s?wd=%E6%9B%9D%E5%85%89%E5%A4%A7%E5%8F%94%E7%9A%84%E5%A5%B3%E7%94%9F%E5%88%B0%E5%BA%95%E8%AF%A5%E4%B8%8D%E8%AF%A5%E8%A2%AB%E5%8E%9F%E8%B0%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [空难40天后4个孩子求生细节曝光](https://www.baidu.com/s?wd=%E7%A9%BA%E9%9A%BE40%E5%A4%A9%E5%90%8E4%E4%B8%AA%E5%AD%A9%E5%AD%90%E6%B1%82%E7%94%9F%E7%BB%86%E8%8A%82%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [大熊猫洗澡两个半人摁半个负责洗](https://www.baidu.com/s?wd=%E5%A4%A7%E7%86%8A%E7%8C%AB%E6%B4%97%E6%BE%A1%E4%B8%A4%E4%B8%AA%E5%8D%8A%E4%BA%BA%E6%91%81%E5%8D%8A%E4%B8%AA%E8%B4%9F%E8%B4%A3%E6%B4%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [民警徒步18公里将游客背出沙漠](https://www.baidu.com/s?wd=%E6%B0%91%E8%AD%A6%E5%BE%92%E6%AD%A518%E5%85%AC%E9%87%8C%E5%B0%86%E6%B8%B8%E5%AE%A2%E8%83%8C%E5%87%BA%E6%B2%99%E6%BC%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [空难40天后4个孩子求生细节曝光](https://www.baidu.com/s?wd=%E7%A9%BA%E9%9A%BE40%E5%A4%A9%E5%90%8E4%E4%B8%AA%E5%AD%A9%E5%AD%90%E6%B1%82%E7%94%9F%E7%BB%86%E8%8A%82%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [花6千万建公园不满1年就拆?山西回应](https://www.baidu.com/s?wd=%E8%8A%B16%E5%8D%83%E4%B8%87%E5%BB%BA%E5%85%AC%E5%9B%AD%E4%B8%8D%E6%BB%A11%E5%B9%B4%E5%B0%B1%E6%8B%86%3F%E5%B1%B1%E8%A5%BF%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [四川一校长与女教师起冲突致其受伤](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E6%A0%A1%E9%95%BF%E4%B8%8E%E5%A5%B3%E6%95%99%E5%B8%88%E8%B5%B7%E5%86%B2%E7%AA%81%E8%87%B4%E5%85%B6%E5%8F%97%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [曝光大叔的女生到底该不该被原谅？](https://www.baidu.com/s?wd=%E6%9B%9D%E5%85%89%E5%A4%A7%E5%8F%94%E7%9A%84%E5%A5%B3%E7%94%9F%E5%88%B0%E5%BA%95%E8%AF%A5%E4%B8%8D%E8%AF%A5%E8%A2%AB%E5%8E%9F%E8%B0%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [空难40天后4个孩子求生细节曝光](https://www.baidu.com/s?wd=%E7%A9%BA%E9%9A%BE40%E5%A4%A9%E5%90%8E4%E4%B8%AA%E5%AD%A9%E5%AD%90%E6%B1%82%E7%94%9F%E7%BB%86%E8%8A%82%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [大熊猫洗澡两个半人摁半个负责洗](https://www.baidu.com/s?wd=%E5%A4%A7%E7%86%8A%E7%8C%AB%E6%B4%97%E6%BE%A1%E4%B8%A4%E4%B8%AA%E5%8D%8A%E4%BA%BA%E6%91%81%E5%8D%8A%E4%B8%AA%E8%B4%9F%E8%B4%A3%E6%B4%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [民警徒步18公里将游客背出沙漠](https://www.baidu.com/s?wd=%E6%B0%91%E8%AD%A6%E5%BE%92%E6%AD%A518%E5%85%AC%E9%87%8C%E5%B0%86%E6%B8%B8%E5%AE%A2%E8%83%8C%E5%87%BA%E6%B2%99%E6%BC%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [空难40天后4个孩子求生细节曝光](https://www.baidu.com/s?wd=%E7%A9%BA%E9%9A%BE40%E5%A4%A9%E5%90%8E4%E4%B8%AA%E5%AD%A9%E5%AD%90%E6%B1%82%E7%94%9F%E7%BB%86%E8%8A%82%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
