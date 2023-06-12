@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 18:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 18:04:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [四川一校长与女教师起冲突致其受伤](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E6%A0%A1%E9%95%BF%E4%B8%8E%E5%A5%B3%E6%95%99%E5%B8%88%E8%B5%B7%E5%86%B2%E7%AA%81%E8%87%B4%E5%85%B6%E5%8F%97%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [校方称曝光大叔女子将被开除系不实](https://www.baidu.com/s?wd=%E6%A0%A1%E6%96%B9%E7%A7%B0%E6%9B%9D%E5%85%89%E5%A4%A7%E5%8F%94%E5%A5%B3%E5%AD%90%E5%B0%86%E8%A2%AB%E5%BC%80%E9%99%A4%E7%B3%BB%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [空难40天后4个孩子求生细节曝光](https://www.baidu.com/s?wd=%E7%A9%BA%E9%9A%BE40%E5%A4%A9%E5%90%8E4%E4%B8%AA%E5%AD%A9%E5%AD%90%E6%B1%82%E7%94%9F%E7%BB%86%E8%8A%82%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [何超仪：上次人这么齐还是在殡仪馆](https://www.baidu.com/s?wd=%E4%BD%95%E8%B6%85%E4%BB%AA%EF%BC%9A%E4%B8%8A%E6%AC%A1%E4%BA%BA%E8%BF%99%E4%B9%88%E9%BD%90%E8%BF%98%E6%98%AF%E5%9C%A8%E6%AE%A1%E4%BB%AA%E9%A6%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [毕业典礼比心时校长手指被强制掰弯](https://www.baidu.com/s?wd=%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E6%AF%94%E5%BF%83%E6%97%B6%E6%A0%A1%E9%95%BF%E6%89%8B%E6%8C%87%E8%A2%AB%E5%BC%BA%E5%88%B6%E6%8E%B0%E5%BC%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [四川一校长与女教师起冲突致其受伤](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E6%A0%A1%E9%95%BF%E4%B8%8E%E5%A5%B3%E6%95%99%E5%B8%88%E8%B5%B7%E5%86%B2%E7%AA%81%E8%87%B4%E5%85%B6%E5%8F%97%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [校方称曝光大叔女子将被开除系不实](https://www.baidu.com/s?wd=%E6%A0%A1%E6%96%B9%E7%A7%B0%E6%9B%9D%E5%85%89%E5%A4%A7%E5%8F%94%E5%A5%B3%E5%AD%90%E5%B0%86%E8%A2%AB%E5%BC%80%E9%99%A4%E7%B3%BB%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [空难40天后4个孩子求生细节曝光](https://www.baidu.com/s?wd=%E7%A9%BA%E9%9A%BE40%E5%A4%A9%E5%90%8E4%E4%B8%AA%E5%AD%A9%E5%AD%90%E6%B1%82%E7%94%9F%E7%BB%86%E8%8A%82%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [何超仪：上次人这么齐还是在殡仪馆](https://www.baidu.com/s?wd=%E4%BD%95%E8%B6%85%E4%BB%AA%EF%BC%9A%E4%B8%8A%E6%AC%A1%E4%BA%BA%E8%BF%99%E4%B9%88%E9%BD%90%E8%BF%98%E6%98%AF%E5%9C%A8%E6%AE%A1%E4%BB%AA%E9%A6%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [毕业典礼比心时校长手指被强制掰弯](https://www.baidu.com/s?wd=%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E6%AF%94%E5%BF%83%E6%97%B6%E6%A0%A1%E9%95%BF%E6%89%8B%E6%8C%87%E8%A2%AB%E5%BC%BA%E5%88%B6%E6%8E%B0%E5%BC%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
