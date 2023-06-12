@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 13:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 13:53:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [找工作被确诊弱智](https://s.weibo.com/weibo?q=%23%E6%89%BE%E5%B7%A5%E4%BD%9C%E8%A2%AB%E7%A1%AE%E8%AF%8A%E5%BC%B1%E6%99%BA%23&t=31&band_rank=4&Refer=top)<br />
 5. [任敏换家人不想要王鹤棣](https://s.weibo.com/weibo?q=%23%E4%BB%BB%E6%95%8F%E6%8D%A2%E5%AE%B6%E4%BA%BA%E4%B8%8D%E6%83%B3%E8%A6%81%E7%8E%8B%E9%B9%A4%E6%A3%A3%23&t=31&band_rank=5&Refer=top)<br />
 6. [曝光大叔女子哭诉学校准备开除她](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%85%89%E5%A4%A7%E5%8F%94%E5%A5%B3%E5%AD%90%E5%93%AD%E8%AF%89%E5%AD%A6%E6%A0%A1%E5%87%86%E5%A4%87%E5%BC%80%E9%99%A4%E5%A5%B9%23&t=31&band_rank=6&Refer=top)<br />
-7. [白敬亭工作室向粉丝道歉](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%90%91%E7%B2%89%E4%B8%9D%E9%81%93%E6%AD%89%23&t=31&band_rank=7&Refer=top)<br />
-8. [何瑞贤新剧刚怀孕就被陷害流产](https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%91%9E%E8%B4%A4%E6%96%B0%E5%89%A7%E5%88%9A%E6%80%80%E5%AD%95%E5%B0%B1%E8%A2%AB%E9%99%B7%E5%AE%B3%E6%B5%81%E4%BA%A7%23&t=31&band_rank=8&Refer=top)<br />
-9. [THE9演唱会](https://s.weibo.com/weibo?q=THE9%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=9&Refer=top)<br />
+7. [THE9演唱会](https://s.weibo.com/weibo?q=THE9%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=7&Refer=top)<br />
+8. [白敬亭工作室向粉丝道歉](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%90%91%E7%B2%89%E4%B8%9D%E9%81%93%E6%AD%89%23&t=31&band_rank=8&Refer=top)<br />
+9. [何瑞贤新剧刚怀孕就被陷害流产](https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%91%9E%E8%B4%A4%E6%96%B0%E5%89%A7%E5%88%9A%E6%80%80%E5%AD%95%E5%B0%B1%E8%A2%AB%E9%99%B7%E5%AE%B3%E6%B5%81%E4%BA%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
