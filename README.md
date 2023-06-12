@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 18:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 18:09:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [暖心乡村食堂60岁老人1元就餐](https://s.weibo.com/weibo?q=%23%E6%9A%96%E5%BF%83%E4%B9%A1%E6%9D%91%E9%A3%9F%E5%A0%8260%E5%B2%81%E8%80%81%E4%BA%BA1%E5%85%83%E5%B0%B1%E9%A4%90%23&t=31&band_rank=5&Refer=top)<br />
 6. [当蚊子吸了一口淤血](https://s.weibo.com/weibo?q=%23%E5%BD%93%E8%9A%8A%E5%AD%90%E5%90%B8%E4%BA%86%E4%B8%80%E5%8F%A3%E6%B7%A4%E8%A1%80%23&t=31&band_rank=6&Refer=top)<br />
 7. [戏曲演员侧台偷师的幸福谁懂啊](https://s.weibo.com/weibo?q=%23%E6%88%8F%E6%9B%B2%E6%BC%94%E5%91%98%E4%BE%A7%E5%8F%B0%E5%81%B7%E5%B8%88%E7%9A%84%E5%B9%B8%E7%A6%8F%E8%B0%81%E6%87%82%E5%95%8A%23&t=31&band_rank=7&Refer=top)<br />
-8. [韩国演员朴秀莲从楼梯摔落去世](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%BC%94%E5%91%98%E6%9C%B4%E7%A7%80%E8%8E%B2%E4%BB%8E%E6%A5%BC%E6%A2%AF%E6%91%94%E8%90%BD%E5%8E%BB%E4%B8%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [应采儿回应把hoho当成女孩养](https://s.weibo.com/weibo?q=%23%E5%BA%94%E9%87%87%E5%84%BF%E5%9B%9E%E5%BA%94%E6%8A%8Ahoho%E5%BD%93%E6%88%90%E5%A5%B3%E5%AD%A9%E5%85%BB%23&t=31&band_rank=9&Refer=top)<br />
+8. [应采儿回应把hoho当成女孩养](https://s.weibo.com/weibo?q=%23%E5%BA%94%E9%87%87%E5%84%BF%E5%9B%9E%E5%BA%94%E6%8A%8Ahoho%E5%BD%93%E6%88%90%E5%A5%B3%E5%AD%A9%E5%85%BB%23&t=31&band_rank=8&Refer=top)<br />
+9. [韩国演员朴秀莲从楼梯摔落去世](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%BC%94%E5%91%98%E6%9C%B4%E7%A7%80%E8%8E%B2%E4%BB%8E%E6%A5%BC%E6%A2%AF%E6%91%94%E8%90%BD%E5%8E%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [美国调查人员曝进入坠毁 UFO 亲身经历称发生「时空扭曲」，待几分钟相当于 4 小时，真实性如何？](https://www.zhihu.com/question/606020452)<br />
 7. [网传梅西等球员乘坐大巴抵达，现场工作人员拉布遮挡，球迷高喊「退钱」，如何评价这些行为？](https://www.zhihu.com/question/605841178)<br />
 8. [蔚来全系车型降价 3 万元，取消终身免费换电政策，如何看待这一调整？会带来什么影响？](https://www.zhihu.com/question/606130325)<br />
-9. [越南严重缺电，富士康、三星等工厂受影响，时隔 7 年我国重启对越送电，哪些信息值得关注？](https://www.zhihu.com/question/606164349)<br />
+9. [水浒传的人物杀人后为什么判得很轻？](https://www.zhihu.com/question/605985357)<br />
 
 > 百度  
 
