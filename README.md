@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 06:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 06:20:01</h4></div>
 
 > 微博  
 
@@ -32,9 +32,9 @@
 4. [疏源浚流 与古为新](https://www.baidu.com/s?wd=%E7%96%8F%E6%BA%90%E6%B5%9A%E6%B5%81+%E4%B8%8E%E5%8F%A4%E4%B8%BA%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [梅西直播共露脸50秒](https://www.baidu.com/s?wd=%E6%A2%85%E8%A5%BF%E7%9B%B4%E6%92%AD%E5%85%B1%E9%9C%B2%E8%84%B850%E7%A7%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女生遭多名学生掌掴 校长被停职](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%81%AD%E5%A4%9A%E5%90%8D%E5%AD%A6%E7%94%9F%E6%8E%8C%E6%8E%B4+%E6%A0%A1%E9%95%BF%E8%A2%AB%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [花6千万建公园不满1年就拆?山西回应](https://www.baidu.com/s?wd=%E8%8A%B16%E5%8D%83%E4%B8%87%E5%BB%BA%E5%85%AC%E5%9B%AD%E4%B8%8D%E6%BB%A11%E5%B9%B4%E5%B0%B1%E6%8B%86%3F%E5%B1%B1%E8%A5%BF%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [大学为何纷纷涨价？](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E4%B8%BA%E4%BD%95%E7%BA%B7%E7%BA%B7%E6%B6%A8%E4%BB%B7%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [空难40天后4个孩子求生细节曝光](https://www.baidu.com/s?wd=%E7%A9%BA%E9%9A%BE40%E5%A4%A9%E5%90%8E4%E4%B8%AA%E5%AD%A9%E5%AD%90%E6%B1%82%E7%94%9F%E7%BB%86%E8%8A%82%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [大学为何纷纷涨价？](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E4%B8%BA%E4%BD%95%E7%BA%B7%E7%BA%B7%E6%B6%A8%E4%BB%B7%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [空难40天后4个孩子求生细节曝光](https://www.baidu.com/s?wd=%E7%A9%BA%E9%9A%BE40%E5%A4%A9%E5%90%8E4%E4%B8%AA%E5%AD%A9%E5%AD%90%E6%B1%82%E7%94%9F%E7%BB%86%E8%8A%82%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [花6千万建公园不满1年就拆?山西回应](https://www.baidu.com/s?wd=%E8%8A%B16%E5%8D%83%E4%B8%87%E5%BB%BA%E5%85%AC%E5%9B%AD%E4%B8%8D%E6%BB%A11%E5%B9%B4%E5%B0%B1%E6%8B%86%3F%E5%B1%B1%E8%A5%BF%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [疏源浚流 与古为新](https://www.baidu.com/s?wd=%E7%96%8F%E6%BA%90%E6%B5%9A%E6%B5%81+%E4%B8%8E%E5%8F%A4%E4%B8%BA%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [梅西直播共露脸50秒](https://www.baidu.com/s?wd=%E6%A2%85%E8%A5%BF%E7%9B%B4%E6%92%AD%E5%85%B1%E9%9C%B2%E8%84%B850%E7%A7%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女生遭多名学生掌掴 校长被停职](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%81%AD%E5%A4%9A%E5%90%8D%E5%AD%A6%E7%94%9F%E6%8E%8C%E6%8E%B4+%E6%A0%A1%E9%95%BF%E8%A2%AB%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [花6千万建公园不满1年就拆?山西回应](https://www.baidu.com/s?wd=%E8%8A%B16%E5%8D%83%E4%B8%87%E5%BB%BA%E5%85%AC%E5%9B%AD%E4%B8%8D%E6%BB%A11%E5%B9%B4%E5%B0%B1%E6%8B%86%3F%E5%B1%B1%E8%A5%BF%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [大学为何纷纷涨价？](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E4%B8%BA%E4%BD%95%E7%BA%B7%E7%BA%B7%E6%B6%A8%E4%BB%B7%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [空难40天后4个孩子求生细节曝光](https://www.baidu.com/s?wd=%E7%A9%BA%E9%9A%BE40%E5%A4%A9%E5%90%8E4%E4%B8%AA%E5%AD%A9%E5%AD%90%E6%B1%82%E7%94%9F%E7%BB%86%E8%8A%82%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [大学为何纷纷涨价？](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E4%B8%BA%E4%BD%95%E7%BA%B7%E7%BA%B7%E6%B6%A8%E4%BB%B7%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [空难40天后4个孩子求生细节曝光](https://www.baidu.com/s?wd=%E7%A9%BA%E9%9A%BE40%E5%A4%A9%E5%90%8E4%E4%B8%AA%E5%AD%A9%E5%AD%90%E6%B1%82%E7%94%9F%E7%BB%86%E8%8A%82%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [花6千万建公园不满1年就拆?山西回应](https://www.baidu.com/s?wd=%E8%8A%B16%E5%8D%83%E4%B8%87%E5%BB%BA%E5%85%AC%E5%9B%AD%E4%B8%8D%E6%BB%A11%E5%B9%B4%E5%B0%B1%E6%8B%86%3F%E5%B1%B1%E8%A5%BF%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
