@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 22:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 22:22:01</h4></div>
 
 > 微博  
 
@@ -10,15 +10,15 @@
 6. [Rain 街舞6](https://s.weibo.com/weibo?q=Rain%20%E8%A1%97%E8%88%9E6&t=31&band_rank=6&Refer=top)<br />
 7. [官方通报女干部被带去酒局灌酒](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%B9%B2%E9%83%A8%E8%A2%AB%E5%B8%A6%E5%8E%BB%E9%85%92%E5%B1%80%E7%81%8C%E9%85%92%23&t=31&band_rank=7&Refer=top)<br />
 8. [奔跑吧Sunnee杨芸晴](https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7Sunnee%E6%9D%A8%E8%8A%B8%E6%99%B4%23&t=31&band_rank=8&Refer=top)<br />
-9. [当蚊子吸了一口淤血](https://s.weibo.com/weibo?q=%23%E5%BD%93%E8%9A%8A%E5%AD%90%E5%90%B8%E4%BA%86%E4%B8%80%E5%8F%A3%E6%B7%A4%E8%A1%80%23&t=31&band_rank=9&Refer=top)<br />
+9. [大熊猫洗澡两个半人摁半个负责洗](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E6%B4%97%E6%BE%A1%E4%B8%A4%E4%B8%AA%E5%8D%8A%E4%BA%BA%E6%91%81%E5%8D%8A%E4%B8%AA%E8%B4%9F%E8%B4%A3%E6%B4%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [韩国房价跌穿，有区域成交量暴跌 70%，大量房东因还不起钱紧急出逃，韩国楼市怎么了？接下来会如何发展？](https://www.zhihu.com/question/606122248)<br />
 2. [亚裔考生美国高考几乎拿下满分，却被六大名校拒之门外，这究竟是怎么回事？](https://www.zhihu.com/question/605680526)<br />
 3. [如何看待张雨绮「 699 买不了袜子」所反映的社会问题？](https://www.zhihu.com/question/606016416)<br />
-4. [美国调查人员曝进入坠毁 UFO 亲身经历称发生「时空扭曲」，待几分钟相当于 4 小时，真实性如何？](https://www.zhihu.com/question/606020452)<br />
-5. [万历皇帝三十多年不上朝，为什么没有出现严嵩、魏忠贤这样的奸臣佞党？](https://www.zhihu.com/question/28066745)<br />
+4. [万历皇帝三十多年不上朝，为什么没有出现严嵩、魏忠贤这样的奸臣佞党？](https://www.zhihu.com/question/28066745)<br />
+5. [美国调查人员曝进入坠毁 UFO 亲身经历称发生「时空扭曲」，待几分钟相当于 4 小时，真实性如何？](https://www.zhihu.com/question/606020452)<br />
 6. [越南严重缺电，富士康、三星等工厂受影响，时隔 7 年我国重启对越送电，哪些信息值得关注？](https://www.zhihu.com/question/606164349)<br />
 7. [消息称「一光伏企业高管在慕尼黑下飞机后被带走」，具体情况如何？](https://www.zhihu.com/question/606222429)<br />
 8. [国家发改委已下达 2023 年以工代赈中央投资 73 亿元，将起到哪些作用？](https://www.zhihu.com/question/606168061)<br />
