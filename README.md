@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 01:14:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 01:15:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [媒体评“禁止民间划龙舟”](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E2%80%9C%E7%A6%81%E6%AD%A2%E6%B0%91%E9%97%B4%E5%88%92%E9%BE%99%E8%88%9F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女生遭多名学生掌掴 校长被停职](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%81%AD%E5%A4%9A%E5%90%8D%E5%AD%A6%E7%94%9F%E6%8E%8C%E6%8E%B4+%E6%A0%A1%E9%95%BF%E8%A2%AB%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [“中国股票博物馆”馆长被罚没近3亿](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BD%E8%82%A1%E7%A5%A8%E5%8D%9A%E7%89%A9%E9%A6%86%E2%80%9D%E9%A6%86%E9%95%BF%E8%A2%AB%E7%BD%9A%E6%B2%A1%E8%BF%913%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [纸袋大王上市 创始人身价近12亿](https://www.baidu.com/s?wd=%E7%BA%B8%E8%A2%8B%E5%A4%A7%E7%8E%8B%E4%B8%8A%E5%B8%82+%E5%88%9B%E5%A7%8B%E4%BA%BA%E8%BA%AB%E4%BB%B7%E8%BF%9112%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [她从“第一夫人”到“第一总统”](https://www.baidu.com/s?wd=%E5%A5%B9%E4%BB%8E%E2%80%9C%E7%AC%AC%E4%B8%80%E5%A4%AB%E4%BA%BA%E2%80%9D%E5%88%B0%E2%80%9C%E7%AC%AC%E4%B8%80%E6%80%BB%E7%BB%9F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [媒体评“禁止民间划龙舟”](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E2%80%9C%E7%A6%81%E6%AD%A2%E6%B0%91%E9%97%B4%E5%88%92%E9%BE%99%E8%88%9F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女生遭多名学生掌掴 校长被停职](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%81%AD%E5%A4%9A%E5%90%8D%E5%AD%A6%E7%94%9F%E6%8E%8C%E6%8E%B4+%E6%A0%A1%E9%95%BF%E8%A2%AB%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [“中国股票博物馆”馆长被罚没近3亿](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BD%E8%82%A1%E7%A5%A8%E5%8D%9A%E7%89%A9%E9%A6%86%E2%80%9D%E9%A6%86%E9%95%BF%E8%A2%AB%E7%BD%9A%E6%B2%A1%E8%BF%913%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [纸袋大王上市 创始人身价近12亿](https://www.baidu.com/s?wd=%E7%BA%B8%E8%A2%8B%E5%A4%A7%E7%8E%8B%E4%B8%8A%E5%B8%82+%E5%88%9B%E5%A7%8B%E4%BA%BA%E8%BA%AB%E4%BB%B7%E8%BF%9112%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [她从“第一夫人”到“第一总统”](https://www.baidu.com/s?wd=%E5%A5%B9%E4%BB%8E%E2%80%9C%E7%AC%AC%E4%B8%80%E5%A4%AB%E4%BA%BA%E2%80%9D%E5%88%B0%E2%80%9C%E7%AC%AC%E4%B8%80%E6%80%BB%E7%BB%9F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
