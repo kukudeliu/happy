@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 14:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 14:22:01</h4></div>
 
 > 微博  
 
@@ -18,9 +18,9 @@
 2. [韩国房价跌穿，有区域成交量暴跌 70%，大量房东因还不起钱紧急出逃，韩国楼市怎么了？接下来会如何发展？](https://www.zhihu.com/question/606122248)<br />
 3. [火车站按摩椅现大量虫子，顾客坐后身体发痒，为何按摩椅上会有虫子寄生？如何解决？](https://www.zhihu.com/question/606110946)<br />
 4. [巴勒斯坦国总统马哈茂德·阿巴斯将对中国进行国事访问，此举释放了什么信号？哪些信息值得关注？](https://www.zhihu.com/question/605658716)<br />
-5. [如何看待 6 月 12 日蔚来全系降价 3W？](https://www.zhihu.com/question/606128553)<br />
-6. [如何看待张雨绮「 699 买不了袜子」所反映的社会问题？](https://www.zhihu.com/question/606016416)<br />
-7. [加拿大宣布扣押并将没收一架俄货运飞机，俄方回应称抢劫，你对该事件有何看法？](https://www.zhihu.com/question/606004364)<br />
+5. [如何看待张雨绮「 699 买不了袜子」所反映的社会问题？](https://www.zhihu.com/question/606016416)<br />
+6. [加拿大宣布扣押并将没收一架俄货运飞机，俄方回应称抢劫，你对该事件有何看法？](https://www.zhihu.com/question/606004364)<br />
+7. [如何看待 6 月 12 日蔚来全系降价 3W？](https://www.zhihu.com/question/606128553)<br />
 8. [如何看待高二学生以一作发表数学类 sci，论文含金量如何？](https://www.zhihu.com/question/605160535)<br />
 9. [亚裔考生美国高考几乎拿下满分，却被六大名校拒之门外，这究竟是怎么回事？](https://www.zhihu.com/question/605680526)<br />
 
