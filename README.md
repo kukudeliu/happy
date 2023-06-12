@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 14:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 14:03:01</h4></div>
 
 > 微博  
 
-1. [四川大学称将依规依纪处理](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E7%A7%B0%E5%B0%86%E4%BE%9D%E8%A7%84%E4%BE%9D%E7%BA%AA%E5%A4%84%E7%90%86%23&t=31&band_rank=1&Refer=top)<br />
-2. [五月天退票](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%E9%80%80%E7%A5%A8&t=31&band_rank=2&Refer=top)<br />
+1. [五月天退票](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%E9%80%80%E7%A5%A8&t=31&band_rank=1&Refer=top)<br />
+2. [四川大学称将依规依纪处理](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E7%A7%B0%E5%B0%86%E4%BE%9D%E8%A7%84%E4%BE%9D%E7%BA%AA%E5%A4%84%E7%90%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [全国网络普法行江西站](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E7%BD%91%E7%BB%9C%E6%99%AE%E6%B3%95%E8%A1%8C%E6%B1%9F%E8%A5%BF%E7%AB%99%23&t=31&band_rank=3&Refer=top)<br />
 4. [找工作被确诊弱智](https://s.weibo.com/weibo?q=%23%E6%89%BE%E5%B7%A5%E4%BD%9C%E8%A2%AB%E7%A1%AE%E8%AF%8A%E5%BC%B1%E6%99%BA%23&t=31&band_rank=4&Refer=top)<br />
 5. [任敏换家人不想要王鹤棣](https://s.weibo.com/weibo?q=%23%E4%BB%BB%E6%95%8F%E6%8D%A2%E5%AE%B6%E4%BA%BA%E4%B8%8D%E6%83%B3%E8%A6%81%E7%8E%8B%E9%B9%A4%E6%A3%A3%23&t=31&band_rank=5&Refer=top)<br />
@@ -20,9 +20,9 @@
 4. [巴勒斯坦国总统马哈茂德·阿巴斯将对中国进行国事访问，此举释放了什么信号？哪些信息值得关注？](https://www.zhihu.com/question/605658716)<br />
 5. [如何看待 6 月 12 日蔚来全系降价 3W？](https://www.zhihu.com/question/606128553)<br />
 6. [如何看待张雨绮「 699 买不了袜子」所反映的社会问题？](https://www.zhihu.com/question/606016416)<br />
-7. [3 年级孩子提问「4 除以 3 再乘以 3，答案是 4，还是无限接近于 4」？](https://www.zhihu.com/question/597086933)<br />
+7. [加拿大宣布扣押并将没收一架俄货运飞机，俄方回应称抢劫，你对该事件有何看法？](https://www.zhihu.com/question/606004364)<br />
 8. [如何看待高二学生以一作发表数学类 sci，论文含金量如何？](https://www.zhihu.com/question/605160535)<br />
-9. [如果有一天存款利率调整为 0 ，会发生什么？到时候我们的钱该放在哪儿？](https://www.zhihu.com/question/605978793)<br />
+9. [3 年级孩子提问「4 除以 3 再乘以 3，答案是 4，还是无限接近于 4」？](https://www.zhihu.com/question/597086933)<br />
 
 > 百度  
 
@@ -30,11 +30,11 @@
 2. [女子称撑破试穿裙子无奈买下](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E6%92%91%E7%A0%B4%E8%AF%95%E7%A9%BF%E8%A3%99%E5%AD%90%E6%97%A0%E5%A5%88%E4%B9%B0%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [河北地质大学温暖回应环卫工人儿子](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E5%9C%B0%E8%B4%A8%E5%A4%A7%E5%AD%A6%E6%B8%A9%E6%9A%96%E5%9B%9E%E5%BA%94%E7%8E%AF%E5%8D%AB%E5%B7%A5%E4%BA%BA%E5%84%BF%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [超级工程背后的超级智慧](https://www.baidu.com/s?wd=%E8%B6%85%E7%BA%A7%E5%B7%A5%E7%A8%8B%E8%83%8C%E5%90%8E%E7%9A%84%E8%B6%85%E7%BA%A7%E6%99%BA%E6%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [祝大学生高考有个好成绩?李希侃道歉](https://www.baidu.com/s?wd=%E7%A5%9D%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%AB%98%E8%80%83%E6%9C%89%E4%B8%AA%E5%A5%BD%E6%88%90%E7%BB%A9%3F%E6%9D%8E%E5%B8%8C%E4%BE%83%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [卡斯特罗向英雄纪念碑敬献花圈](https://www.baidu.com/s?wd=%E5%8D%A1%E6%96%AF%E7%89%B9%E7%BD%97%E5%90%91%E8%8B%B1%E9%9B%84%E7%BA%AA%E5%BF%B5%E7%A2%91%E6%95%AC%E7%8C%AE%E8%8A%B1%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [香港特区政府宣布成立北都办](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E7%89%B9%E5%8C%BA%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E6%88%90%E7%AB%8B%E5%8C%97%E9%83%BD%E5%8A%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [章莹颖父亲的心碎直播](https://www.baidu.com/s?wd=%E7%AB%A0%E8%8E%B9%E9%A2%96%E7%88%B6%E4%BA%B2%E7%9A%84%E5%BF%83%E7%A2%8E%E7%9B%B4%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女生遭5名学生掌掴 警方介入](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%81%AD5%E5%90%8D%E5%AD%A6%E7%94%9F%E6%8E%8C%E6%8E%B4+%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [章莹颖父亲的心碎直播](https://www.baidu.com/s?wd=%E7%AB%A0%E8%8E%B9%E9%A2%96%E7%88%B6%E4%BA%B2%E7%9A%84%E5%BF%83%E7%A2%8E%E7%9B%B4%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [香港特区政府宣布成立北都办](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E7%89%B9%E5%8C%BA%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E6%88%90%E7%AB%8B%E5%8C%97%E9%83%BD%E5%8A%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [毕业典礼比心时校长手指被强制掰弯](https://www.baidu.com/s?wd=%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E6%AF%94%E5%BF%83%E6%97%B6%E6%A0%A1%E9%95%BF%E6%89%8B%E6%8C%87%E8%A2%AB%E5%BC%BA%E5%88%B6%E6%8E%B0%E5%BC%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [韩国房价跌穿 有区域成交量暴跌70%](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E6%88%BF%E4%BB%B7%E8%B7%8C%E7%A9%BF+%E6%9C%89%E5%8C%BA%E5%9F%9F%E6%88%90%E4%BA%A4%E9%87%8F%E6%9A%B4%E8%B7%8C70%25&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [山西透明门公厕已使用约5个月](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E9%80%8F%E6%98%8E%E9%97%A8%E5%85%AC%E5%8E%95%E5%B7%B2%E4%BD%BF%E7%94%A8%E7%BA%A65%E4%B8%AA%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -42,8 +42,8 @@
 2. [女子称撑破试穿裙子无奈买下](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E6%92%91%E7%A0%B4%E8%AF%95%E7%A9%BF%E8%A3%99%E5%AD%90%E6%97%A0%E5%A5%88%E4%B9%B0%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [河北地质大学温暖回应环卫工人儿子](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E5%9C%B0%E8%B4%A8%E5%A4%A7%E5%AD%A6%E6%B8%A9%E6%9A%96%E5%9B%9E%E5%BA%94%E7%8E%AF%E5%8D%AB%E5%B7%A5%E4%BA%BA%E5%84%BF%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [超级工程背后的超级智慧](https://www.baidu.com/s?wd=%E8%B6%85%E7%BA%A7%E5%B7%A5%E7%A8%8B%E8%83%8C%E5%90%8E%E7%9A%84%E8%B6%85%E7%BA%A7%E6%99%BA%E6%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [祝大学生高考有个好成绩?李希侃道歉](https://www.baidu.com/s?wd=%E7%A5%9D%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%AB%98%E8%80%83%E6%9C%89%E4%B8%AA%E5%A5%BD%E6%88%90%E7%BB%A9%3F%E6%9D%8E%E5%B8%8C%E4%BE%83%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [卡斯特罗向英雄纪念碑敬献花圈](https://www.baidu.com/s?wd=%E5%8D%A1%E6%96%AF%E7%89%B9%E7%BD%97%E5%90%91%E8%8B%B1%E9%9B%84%E7%BA%AA%E5%BF%B5%E7%A2%91%E6%95%AC%E7%8C%AE%E8%8A%B1%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [香港特区政府宣布成立北都办](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E7%89%B9%E5%8C%BA%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E6%88%90%E7%AB%8B%E5%8C%97%E9%83%BD%E5%8A%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [章莹颖父亲的心碎直播](https://www.baidu.com/s?wd=%E7%AB%A0%E8%8E%B9%E9%A2%96%E7%88%B6%E4%BA%B2%E7%9A%84%E5%BF%83%E7%A2%8E%E7%9B%B4%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女生遭5名学生掌掴 警方介入](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%81%AD5%E5%90%8D%E5%AD%A6%E7%94%9F%E6%8E%8C%E6%8E%B4+%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [章莹颖父亲的心碎直播](https://www.baidu.com/s?wd=%E7%AB%A0%E8%8E%B9%E9%A2%96%E7%88%B6%E4%BA%B2%E7%9A%84%E5%BF%83%E7%A2%8E%E7%9B%B4%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [香港特区政府宣布成立北都办](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E7%89%B9%E5%8C%BA%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E6%88%90%E7%AB%8B%E5%8C%97%E9%83%BD%E5%8A%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [毕业典礼比心时校长手指被强制掰弯](https://www.baidu.com/s?wd=%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E6%AF%94%E5%BF%83%E6%97%B6%E6%A0%A1%E9%95%BF%E6%89%8B%E6%8C%87%E8%A2%AB%E5%BC%BA%E5%88%B6%E6%8E%B0%E5%BC%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [韩国房价跌穿 有区域成交量暴跌70%](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E6%88%BF%E4%BB%B7%E8%B7%8C%E7%A9%BF+%E6%9C%89%E5%8C%BA%E5%9F%9F%E6%88%90%E4%BA%A4%E9%87%8F%E6%9A%B4%E8%B7%8C70%25&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [山西透明门公厕已使用约5个月](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E9%80%8F%E6%98%8E%E9%97%A8%E5%85%AC%E5%8E%95%E5%B7%B2%E4%BD%BF%E7%94%A8%E7%BA%A65%E4%B8%AA%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
