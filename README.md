@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 04:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 04:33:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [余生夫妇vs春晓夫妇](https://s.weibo.com/weibo?q=%23%E4%BD%99%E7%94%9F%E5%A4%AB%E5%A6%87vs%E6%98%A5%E6%99%93%E5%A4%AB%E5%A6%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [当蚊子吸了一口淤血](https://s.weibo.com/weibo?q=%23%E5%BD%93%E8%9A%8A%E5%AD%90%E5%90%B8%E4%BA%86%E4%B8%80%E5%8F%A3%E6%B7%A4%E8%A1%80%23&t=31&band_rank=7&Refer=top)<br />
 8. [初级会计](https://s.weibo.com/weibo?q=%E5%88%9D%E7%BA%A7%E4%BC%9A%E8%AE%A1&t=31&band_rank=8&Refer=top)<br />
-9. [你只是需要早点睡觉](https://s.weibo.com/weibo?q=%E4%BD%A0%E5%8F%AA%E6%98%AF%E9%9C%80%E8%A6%81%E6%97%A9%E7%82%B9%E7%9D%A1%E8%A7%89&t=31&band_rank=9&Refer=top)<br />
+9. [中新网评川大女生地铁曝光大叔](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B0%E7%BD%91%E8%AF%84%E5%B7%9D%E5%A4%A7%E5%A5%B3%E7%94%9F%E5%9C%B0%E9%93%81%E6%9B%9D%E5%85%89%E5%A4%A7%E5%8F%94%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
