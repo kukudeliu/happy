@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 15:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 15:55:01</h4></div>
 
 > 微博  
 
@@ -7,7 +7,7 @@
 3. [全国网络普法行江西站](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E7%BD%91%E7%BB%9C%E6%99%AE%E6%B3%95%E8%A1%8C%E6%B1%9F%E8%A5%BF%E7%AB%99%23&t=31&band_rank=3&Refer=top)<br />
 4. [川大回应网传地铁事件女生被开除](https://s.weibo.com/weibo?q=%23%E5%B7%9D%E5%A4%A7%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E5%9C%B0%E9%93%81%E4%BA%8B%E4%BB%B6%E5%A5%B3%E7%94%9F%E8%A2%AB%E5%BC%80%E9%99%A4%23&t=31&band_rank=4&Refer=top)<br />
 5. [五月天退票](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%E9%80%80%E7%A5%A8&t=31&band_rank=5&Refer=top)<br />
-6. [注册不了张z公开道歉为何再惹众怒](https://s.weibo.com/weibo?q=%23%E6%B3%A8%E5%86%8C%E4%B8%8D%E4%BA%86%E5%BC%A0z%E5%85%AC%E5%BC%80%E9%81%93%E6%AD%89%E4%B8%BA%E4%BD%95%E5%86%8D%E6%83%B9%E4%BC%97%E6%80%92%23&t=31&band_rank=6&Refer=top)<br />
+6. [四川大学称将依规依纪处理](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E7%A7%B0%E5%B0%86%E4%BE%9D%E8%A7%84%E4%BE%9D%E7%BA%AA%E5%A4%84%E7%90%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [任敏性格](https://s.weibo.com/weibo?q=%E4%BB%BB%E6%95%8F%E6%80%A7%E6%A0%BC&t=31&band_rank=7&Refer=top)<br />
 8. [博主因性别称谓发视频曝光空乘](https://s.weibo.com/weibo?q=%23%E5%8D%9A%E4%B8%BB%E5%9B%A0%E6%80%A7%E5%88%AB%E7%A7%B0%E8%B0%93%E5%8F%91%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89%E7%A9%BA%E4%B9%98%23&t=31&band_rank=8&Refer=top)<br />
 9. [任敏换家人不想要王鹤棣](https://s.weibo.com/weibo?q=%23%E4%BB%BB%E6%95%8F%E6%8D%A2%E5%AE%B6%E4%BA%BA%E4%B8%8D%E6%83%B3%E8%A6%81%E7%8E%8B%E9%B9%A4%E6%A3%A3%23&t=31&band_rank=9&Refer=top)<br />
@@ -21,8 +21,8 @@
 5. [亚裔考生美国高考几乎拿下满分，却被六大名校拒之门外，这究竟是怎么回事？](https://www.zhihu.com/question/605680526)<br />
 6. [如何看待张雨绮「 699 买不了袜子」所反映的社会问题？](https://www.zhihu.com/question/606016416)<br />
 7. [美国调查人员曝进入坠毁 UFO 亲身经历称发生「时空扭曲」，待几分钟相当于 4 小时，真实性如何？](https://www.zhihu.com/question/606020452)<br />
-8. [如何看待高二学生以一作发表数学类 sci，论文含金量如何？](https://www.zhihu.com/question/605160535)<br />
-9. [网传梅西等球员乘坐大巴抵达，现场工作人员拉布遮挡，球迷高喊「退钱」，如何评价这些行为？](https://www.zhihu.com/question/605841178)<br />
+8. [网传梅西等球员乘坐大巴抵达，现场工作人员拉布遮挡，球迷高喊「退钱」，如何评价这些行为？](https://www.zhihu.com/question/605841178)<br />
+9. [如何看待高二学生以一作发表数学类 sci，论文含金量如何？](https://www.zhihu.com/question/605160535)<br />
 
 > 百度  
 
