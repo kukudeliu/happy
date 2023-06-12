@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 07:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 07:31:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [余生夫妇vs春晓夫妇](https://s.weibo.com/weibo?q=%23%E4%BD%99%E7%94%9F%E5%A4%AB%E5%A6%87vs%E6%98%A5%E6%99%93%E5%A4%AB%E5%A6%87%23&t=31&band_rank=5&Refer=top)<br />
 6. [60岁阿姨健身22年后的样子](https://s.weibo.com/weibo?q=%2360%E5%B2%81%E9%98%BF%E5%A7%A8%E5%81%A5%E8%BA%AB22%E5%B9%B4%E5%90%8E%E7%9A%84%E6%A0%B7%E5%AD%90%23&t=31&band_rank=6&Refer=top)<br />
 7. [企业回应禁止婚外情和出轨](https://s.weibo.com/weibo?q=%23%E4%BC%81%E4%B8%9A%E5%9B%9E%E5%BA%94%E7%A6%81%E6%AD%A2%E5%A9%9A%E5%A4%96%E6%83%85%E5%92%8C%E5%87%BA%E8%BD%A8%23&t=31&band_rank=7&Refer=top)<br />
-8. [当蚊子吸了一口淤血](https://s.weibo.com/weibo?q=%23%E5%BD%93%E8%9A%8A%E5%AD%90%E5%90%B8%E4%BA%86%E4%B8%80%E5%8F%A3%E6%B7%A4%E8%A1%80%23&t=31&band_rank=8&Refer=top)<br />
-9. [杭州师范大学](https://s.weibo.com/weibo?q=%E6%9D%AD%E5%B7%9E%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6&t=31&band_rank=9&Refer=top)<br />
+8. [杭州师范大学](https://s.weibo.com/weibo?q=%E6%9D%AD%E5%B7%9E%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6&t=31&band_rank=8&Refer=top)<br />
+9. [当蚊子吸了一口淤血](https://s.weibo.com/weibo?q=%23%E5%BD%93%E8%9A%8A%E5%AD%90%E5%90%B8%E4%BA%86%E4%B8%80%E5%8F%A3%E6%B7%A4%E8%A1%80%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -18,7 +18,7 @@
 2. [消息称「一光伏企业高管在慕尼黑下飞机后被带走」，具体情况如何？](https://www.zhihu.com/question/606222429)<br />
 3. [越南严重缺电，富士康、三星等工厂受影响，时隔 7 年我国重启对越送电，哪些信息值得关注？](https://www.zhihu.com/question/606164349)<br />
 4. [柯文哲称若当选将发动网军瘫痪大陆高铁、取款机，此前在「钓鱼岛、核废水」等议题讨好日本人，透露哪些信息？](https://www.zhihu.com/question/606148038)<br />
-5. []()<br />
+5. [韩网红柬埔寨旅游去世尸体被扔水沟，目前事件调查进展如何？](https://www.zhihu.com/question/606229094)<br />
 6. []()<br />
 7. [韩国官员对中国大使出言不逊，外交部回应表明严重关切和不满，如何看待此事？对中韩关系有何影响？](https://www.zhihu.com/question/606182202)<br />
 8. []()<br />
