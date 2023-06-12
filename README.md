@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 15:03:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 15:04:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [如何看待张雨绮「 699 买不了袜子」所反映的社会问题？](https://www.zhihu.com/question/606016416)<br />
 7. [亚裔考生美国高考几乎拿下满分，却被六大名校拒之门外，这究竟是怎么回事？](https://www.zhihu.com/question/605680526)<br />
 8. [蔚来全系车型降价 3 万元，取消终身免费换电政策，如何看待这一调整？会带来什么影响？](https://www.zhihu.com/question/606130325)<br />
-9. [美国调查人员曝进入坠毁 UFO 亲身经历称发生「时空扭曲」，待几分钟相当于 4 小时，真实性如何？](https://www.zhihu.com/question/606020452)<br />
+9. [北京政法职业学院通报「男生制止霸凌遭同学辱骂」，警方正调查，哪些信息值得关注？](https://www.zhihu.com/question/606014786)<br />
 
 > 百度  
 
@@ -34,7 +34,7 @@
 6. [毕业典礼比心时校长手指被强制掰弯](https://www.baidu.com/s?wd=%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E6%AF%94%E5%BF%83%E6%97%B6%E6%A0%A1%E9%95%BF%E6%89%8B%E6%8C%87%E8%A2%AB%E5%BC%BA%E5%88%B6%E6%8E%B0%E5%BC%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [校方称曝光大叔女子将被开除系不实](https://www.baidu.com/s?wd=%E6%A0%A1%E6%96%B9%E7%A7%B0%E6%9B%9D%E5%85%89%E5%A4%A7%E5%8F%94%E5%A5%B3%E5%AD%90%E5%B0%86%E8%A2%AB%E5%BC%80%E9%99%A4%E7%B3%BB%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [婆婆不开空调致孕妇中暑送医](https://www.baidu.com/s?wd=%E5%A9%86%E5%A9%86%E4%B8%8D%E5%BC%80%E7%A9%BA%E8%B0%83%E8%87%B4%E5%AD%95%E5%A6%87%E4%B8%AD%E6%9A%91%E9%80%81%E5%8C%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中国时隔7年重启对越南送电](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%97%B6%E9%9A%947%E5%B9%B4%E9%87%8D%E5%90%AF%E5%AF%B9%E8%B6%8A%E5%8D%97%E9%80%81%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [旺季不旺 水泥行业普遍错峰停产](https://www.baidu.com/s?wd=%E6%97%BA%E5%AD%A3%E4%B8%8D%E6%97%BA+%E6%B0%B4%E6%B3%A5%E8%A1%8C%E4%B8%9A%E6%99%AE%E9%81%8D%E9%94%99%E5%B3%B0%E5%81%9C%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [毕业典礼比心时校长手指被强制掰弯](https://www.baidu.com/s?wd=%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E6%AF%94%E5%BF%83%E6%97%B6%E6%A0%A1%E9%95%BF%E6%89%8B%E6%8C%87%E8%A2%AB%E5%BC%BA%E5%88%B6%E6%8E%B0%E5%BC%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [校方称曝光大叔女子将被开除系不实](https://www.baidu.com/s?wd=%E6%A0%A1%E6%96%B9%E7%A7%B0%E6%9B%9D%E5%85%89%E5%A4%A7%E5%8F%94%E5%A5%B3%E5%AD%90%E5%B0%86%E8%A2%AB%E5%BC%80%E9%99%A4%E7%B3%BB%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [婆婆不开空调致孕妇中暑送医](https://www.baidu.com/s?wd=%E5%A9%86%E5%A9%86%E4%B8%8D%E5%BC%80%E7%A9%BA%E8%B0%83%E8%87%B4%E5%AD%95%E5%A6%87%E4%B8%AD%E6%9A%91%E9%80%81%E5%8C%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中国时隔7年重启对越南送电](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%97%B6%E9%9A%947%E5%B9%B4%E9%87%8D%E5%90%AF%E5%AF%B9%E8%B6%8A%E5%8D%97%E9%80%81%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [旺季不旺 水泥行业普遍错峰停产](https://www.baidu.com/s?wd=%E6%97%BA%E5%AD%A3%E4%B8%8D%E6%97%BA+%E6%B0%B4%E6%B3%A5%E8%A1%8C%E4%B8%9A%E6%99%AE%E9%81%8D%E9%94%99%E5%B3%B0%E5%81%9C%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
