@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 15:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 15:28:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [博主因性别称谓发视频曝光空乘](https://s.weibo.com/weibo?q=%23%E5%8D%9A%E4%B8%BB%E5%9B%A0%E6%80%A7%E5%88%AB%E7%A7%B0%E8%B0%93%E5%8F%91%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89%E7%A9%BA%E4%B9%98%23&t=31&band_rank=5&Refer=top)<br />
 6. [四川大学称将依规依纪处理](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E7%A7%B0%E5%B0%86%E4%BE%9D%E8%A7%84%E4%BE%9D%E7%BA%AA%E5%A4%84%E7%90%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [曝光大叔女子哭诉学校准备开除她](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%85%89%E5%A4%A7%E5%8F%94%E5%A5%B3%E5%AD%90%E5%93%AD%E8%AF%89%E5%AD%A6%E6%A0%A1%E5%87%86%E5%A4%87%E5%BC%80%E9%99%A4%E5%A5%B9%23&t=31&band_rank=7&Refer=top)<br />
-8. [防止肥胖要像猪猪一样吃](https://s.weibo.com/weibo?q=%E9%98%B2%E6%AD%A2%E8%82%A5%E8%83%96%E8%A6%81%E5%83%8F%E7%8C%AA%E7%8C%AA%E4%B8%80%E6%A0%B7%E5%90%83&t=31&band_rank=8&Refer=top)<br />
-9. [任敏性格](https://s.weibo.com/weibo?q=%E4%BB%BB%E6%95%8F%E6%80%A7%E6%A0%BC&t=31&band_rank=9&Refer=top)<br />
+8. [任敏性格](https://s.weibo.com/weibo?q=%E4%BB%BB%E6%95%8F%E6%80%A7%E6%A0%BC&t=31&band_rank=8&Refer=top)<br />
+9. [防止肥胖要像猪猪一样吃](https://s.weibo.com/weibo?q=%E9%98%B2%E6%AD%A2%E8%82%A5%E8%83%96%E8%A6%81%E5%83%8F%E7%8C%AA%E7%8C%AA%E4%B8%80%E6%A0%B7%E5%90%83&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
