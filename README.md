@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 12:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 12:16:01</h4></div>
 
 > 微博  
 
@@ -18,8 +18,8 @@
 2. [去年结婚人数创 37 年来新低，相比 9 年前结婚人数下降 49.3%，透露了哪些信息？](https://www.zhihu.com/question/606055070)<br />
 3. [3 年级孩子提问「4 除以 3 再乘以 3，答案是 4，还是无限接近于 4」？](https://www.zhihu.com/question/597086933)<br />
 4. [如果有一天存款利率调整为 0 ，会发生什么？到时候我们的钱该放在哪儿？](https://www.zhihu.com/question/605978793)<br />
-5. [如何看待张雨绮「 699 买不了袜子」所反映的社会问题？](https://www.zhihu.com/question/606016416)<br />
-6. [如何评价北京时间 6 月 12 日的游戏《星空》见面会？](https://www.zhihu.com/question/606091173)<br />
+5. [如何评价北京时间 6 月 12 日的游戏《星空》见面会？](https://www.zhihu.com/question/606091173)<br />
+6. [如何看待张雨绮「 699 买不了袜子」所反映的社会问题？](https://www.zhihu.com/question/606016416)<br />
 7. [火车站按摩椅现大量虫子，顾客坐后身体发痒，为何按摩椅上会有虫子寄生？如何解决？](https://www.zhihu.com/question/606110946)<br />
 8. [23 岁阿尔瓦雷斯收获 14 冠包括世界杯和欧冠，29 岁凯恩至今无冠，是否说明球员选择球队的重要性？](https://www.zhihu.com/question/605997762)<br />
 9. [国际象棋兵升变后怎么记住这个棋子不是兵?](https://www.zhihu.com/question/591167634)<br />
