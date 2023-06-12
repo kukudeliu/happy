@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 15:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 15:41:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [博主因性别称谓发视频曝光空乘](https://s.weibo.com/weibo?q=%23%E5%8D%9A%E4%B8%BB%E5%9B%A0%E6%80%A7%E5%88%AB%E7%A7%B0%E8%B0%93%E5%8F%91%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89%E7%A9%BA%E4%B9%98%23&t=31&band_rank=5&Refer=top)<br />
 6. [四川大学称将依规依纪处理](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E7%A7%B0%E5%B0%86%E4%BE%9D%E8%A7%84%E4%BE%9D%E7%BA%AA%E5%A4%84%E7%90%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [注册不了张z公开道歉为何再惹众怒](https://s.weibo.com/weibo?q=%23%E6%B3%A8%E5%86%8C%E4%B8%8D%E4%BA%86%E5%BC%A0z%E5%85%AC%E5%BC%80%E9%81%93%E6%AD%89%E4%B8%BA%E4%BD%95%E5%86%8D%E6%83%B9%E4%BC%97%E6%80%92%23&t=31&band_rank=7&Refer=top)<br />
-8. [任敏性格](https://s.weibo.com/weibo?q=%E4%BB%BB%E6%95%8F%E6%80%A7%E6%A0%BC&t=31&band_rank=8&Refer=top)<br />
+8. [任敏换家人不想要王鹤棣](https://s.weibo.com/weibo?q=%23%E4%BB%BB%E6%95%8F%E6%8D%A2%E5%AE%B6%E4%BA%BA%E4%B8%8D%E6%83%B3%E8%A6%81%E7%8E%8B%E9%B9%A4%E6%A3%A3%23&t=31&band_rank=8&Refer=top)<br />
 9. [防止肥胖要像猪猪一样吃](https://s.weibo.com/weibo?q=%E9%98%B2%E6%AD%A2%E8%82%A5%E8%83%96%E8%A6%81%E5%83%8F%E7%8C%AA%E7%8C%AA%E4%B8%80%E6%A0%B7%E5%90%83&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
