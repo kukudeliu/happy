@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 18:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 18:36:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [川大回应网传地铁事件女生被开除](https://s.weibo.com/weibo?q=%23%E5%B7%9D%E5%A4%A7%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E5%9C%B0%E9%93%81%E4%BA%8B%E4%BB%B6%E5%A5%B3%E7%94%9F%E8%A2%AB%E5%BC%80%E9%99%A4%23&t=31&band_rank=4&Refer=top)<br />
 5. [暖心乡村食堂60岁老人1元就餐](https://s.weibo.com/weibo?q=%23%E6%9A%96%E5%BF%83%E4%B9%A1%E6%9D%91%E9%A3%9F%E5%A0%8260%E5%B2%81%E8%80%81%E4%BA%BA1%E5%85%83%E5%B0%B1%E9%A4%90%23&t=31&band_rank=5&Refer=top)<br />
 6. [当蚊子吸了一口淤血](https://s.weibo.com/weibo?q=%23%E5%BD%93%E8%9A%8A%E5%AD%90%E5%90%B8%E4%BA%86%E4%B8%80%E5%8F%A3%E6%B7%A4%E8%A1%80%23&t=31&band_rank=6&Refer=top)<br />
-7. [贝卢斯科尼去世](https://s.weibo.com/weibo?q=%23%E8%B4%9D%E5%8D%A2%E6%96%AF%E7%A7%91%E5%B0%BC%E5%8E%BB%E4%B8%96%23&t=31&band_rank=7&Refer=top)<br />
-8. [又一部炸裂的韩综](https://s.weibo.com/weibo?q=%E5%8F%88%E4%B8%80%E9%83%A8%E7%82%B8%E8%A3%82%E7%9A%84%E9%9F%A9%E7%BB%BC&t=31&band_rank=8&Refer=top)<br />
-9. [跑男最后一期录制没有宋雨琦](https://s.weibo.com/weibo?q=%23%E8%B7%91%E7%94%B7%E6%9C%80%E5%90%8E%E4%B8%80%E6%9C%9F%E5%BD%95%E5%88%B6%E6%B2%A1%E6%9C%89%E5%AE%8B%E9%9B%A8%E7%90%A6%23&t=31&band_rank=9&Refer=top)<br />
+7. [又一部炸裂的韩综](https://s.weibo.com/weibo?q=%E5%8F%88%E4%B8%80%E9%83%A8%E7%82%B8%E8%A3%82%E7%9A%84%E9%9F%A9%E7%BB%BC&t=31&band_rank=7&Refer=top)<br />
+8. [贝卢斯科尼去世](https://s.weibo.com/weibo?q=%23%E8%B4%9D%E5%8D%A2%E6%96%AF%E7%A7%91%E5%B0%BC%E5%8E%BB%E4%B8%96%23&t=31&band_rank=8&Refer=top)<br />
+9. [KPOP真的来了](https://s.weibo.com/weibo?q=%23KPOP%E7%9C%9F%E7%9A%84%E6%9D%A5%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
