@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 08:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 08:12:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [曝光大叔女子哭诉学校准备开除她](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%85%89%E5%A4%A7%E5%8F%94%E5%A5%B3%E5%AD%90%E5%93%AD%E8%AF%89%E5%AD%A6%E6%A0%A1%E5%87%86%E5%A4%87%E5%BC%80%E9%99%A4%E5%A5%B9%23&t=31&band_rank=5&Refer=top)<br />
 6. [张雨绮致歉](https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%A8%E7%BB%AE%E8%87%B4%E6%AD%89&t=31&band_rank=6&Refer=top)<br />
 7. [梅西被迫宅在酒店](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%A2%AB%E8%BF%AB%E5%AE%85%E5%9C%A8%E9%85%92%E5%BA%97%23&t=31&band_rank=7&Refer=top)<br />
-8. [过了下班时间窗口工作人员还在办理业务](https://s.weibo.com/weibo?q=%23%E8%BF%87%E4%BA%86%E4%B8%8B%E7%8F%AD%E6%97%B6%E9%97%B4%E7%AA%97%E5%8F%A3%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E8%BF%98%E5%9C%A8%E5%8A%9E%E7%90%86%E4%B8%9A%E5%8A%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [黄景瑜和极限挑战保安打起来了](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%AF%E7%91%9C%E5%92%8C%E6%9E%81%E9%99%90%E6%8C%91%E6%88%98%E4%BF%9D%E5%AE%89%E6%89%93%E8%B5%B7%E6%9D%A5%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+8. [黄景瑜和极限挑战保安打起来了](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%AF%E7%91%9C%E5%92%8C%E6%9E%81%E9%99%90%E6%8C%91%E6%88%98%E4%BF%9D%E5%AE%89%E6%89%93%E8%B5%B7%E6%9D%A5%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [过了下班时间窗口工作人员还在办理业务](https://s.weibo.com/weibo?q=%23%E8%BF%87%E4%BA%86%E4%B8%8B%E7%8F%AD%E6%97%B6%E9%97%B4%E7%AA%97%E5%8F%A3%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E8%BF%98%E5%9C%A8%E5%8A%9E%E7%90%86%E4%B8%9A%E5%8A%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
