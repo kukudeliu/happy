@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 14:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 14:36:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [四川大学称将依规依纪处理](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E7%A7%B0%E5%B0%86%E4%BE%9D%E8%A7%84%E4%BE%9D%E7%BA%AA%E5%A4%84%E7%90%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [任敏换家人不想要王鹤棣](https://s.weibo.com/weibo?q=%23%E4%BB%BB%E6%95%8F%E6%8D%A2%E5%AE%B6%E4%BA%BA%E4%B8%8D%E6%83%B3%E8%A6%81%E7%8E%8B%E9%B9%A4%E6%A3%A3%23&t=31&band_rank=7&Refer=top)<br />
 8. [曝光大叔女子哭诉学校准备开除她](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%85%89%E5%A4%A7%E5%8F%94%E5%A5%B3%E5%AD%90%E5%93%AD%E8%AF%89%E5%AD%A6%E6%A0%A1%E5%87%86%E5%A4%87%E5%BC%80%E9%99%A4%E5%A5%B9%23&t=31&band_rank=8&Refer=top)<br />
-9. [THE9演唱会](https://s.weibo.com/weibo?q=THE9%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=9&Refer=top)<br />
+9. [江歌妈妈将赔偿款全额捐出](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E6%AD%8C%E5%A6%88%E5%A6%88%E5%B0%86%E8%B5%94%E5%81%BF%E6%AC%BE%E5%85%A8%E9%A2%9D%E6%8D%90%E5%87%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -34,7 +34,7 @@
 6. [毕业典礼比心时校长手指被强制掰弯](https://www.baidu.com/s?wd=%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E6%AF%94%E5%BF%83%E6%97%B6%E6%A0%A1%E9%95%BF%E6%89%8B%E6%8C%87%E8%A2%AB%E5%BC%BA%E5%88%B6%E6%8E%B0%E5%BC%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [校方称曝光大叔女子将被开除系不实](https://www.baidu.com/s?wd=%E6%A0%A1%E6%96%B9%E7%A7%B0%E6%9B%9D%E5%85%89%E5%A4%A7%E5%8F%94%E5%A5%B3%E5%AD%90%E5%B0%86%E8%A2%AB%E5%BC%80%E9%99%A4%E7%B3%BB%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [香港特区政府宣布成立北都办](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E7%89%B9%E5%8C%BA%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E6%88%90%E7%AB%8B%E5%8C%97%E9%83%BD%E5%8A%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女生遭5名学生掌掴 警方介入](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%81%AD5%E5%90%8D%E5%AD%A6%E7%94%9F%E6%8E%8C%E6%8E%B4+%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [爸爸带女儿跑步200余天孩子变化明显](https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8%E5%B8%A6%E5%A5%B3%E5%84%BF%E8%B7%91%E6%AD%A5200%E4%BD%99%E5%A4%A9%E5%AD%A9%E5%AD%90%E5%8F%98%E5%8C%96%E6%98%8E%E6%98%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [毕业典礼比心时校长手指被强制掰弯](https://www.baidu.com/s?wd=%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E6%AF%94%E5%BF%83%E6%97%B6%E6%A0%A1%E9%95%BF%E6%89%8B%E6%8C%87%E8%A2%AB%E5%BC%BA%E5%88%B6%E6%8E%B0%E5%BC%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [校方称曝光大叔女子将被开除系不实](https://www.baidu.com/s?wd=%E6%A0%A1%E6%96%B9%E7%A7%B0%E6%9B%9D%E5%85%89%E5%A4%A7%E5%8F%94%E5%A5%B3%E5%AD%90%E5%B0%86%E8%A2%AB%E5%BC%80%E9%99%A4%E7%B3%BB%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [香港特区政府宣布成立北都办](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E7%89%B9%E5%8C%BA%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E6%88%90%E7%AB%8B%E5%8C%97%E9%83%BD%E5%8A%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女生遭5名学生掌掴 警方介入](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%81%AD5%E5%90%8D%E5%AD%A6%E7%94%9F%E6%8E%8C%E6%8E%B4+%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [爸爸带女儿跑步200余天孩子变化明显](https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8%E5%B8%A6%E5%A5%B3%E5%84%BF%E8%B7%91%E6%AD%A5200%E4%BD%99%E5%A4%A9%E5%AD%A9%E5%AD%90%E5%8F%98%E5%8C%96%E6%98%8E%E6%98%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
