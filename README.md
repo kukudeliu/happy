@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 23:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 23:24:01</h4></div>
 
 > 微博  
 
@@ -9,16 +9,16 @@
 5. [不孕不育是榴莲最好的福报](https://s.weibo.com/weibo?q=%E4%B8%8D%E5%AD%95%E4%B8%8D%E8%82%B2%E6%98%AF%E6%A6%B4%E8%8E%B2%E6%9C%80%E5%A5%BD%E7%9A%84%E7%A6%8F%E6%8A%A5&t=31&band_rank=5&Refer=top)<br />
 6. [张彬彬的粉底咋回事](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%BD%AC%E5%BD%AC%E7%9A%84%E7%B2%89%E5%BA%95%E5%92%8B%E5%9B%9E%E4%BA%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [企业回应禁止婚外情和出轨](https://s.weibo.com/weibo?q=%23%E4%BC%81%E4%B8%9A%E5%9B%9E%E5%BA%94%E7%A6%81%E6%AD%A2%E5%A9%9A%E5%A4%96%E6%83%85%E5%92%8C%E5%87%BA%E8%BD%A8%23&t=31&band_rank=7&Refer=top)<br />
-8. [当蚊子吸了一口淤血](https://s.weibo.com/weibo?q=%23%E5%BD%93%E8%9A%8A%E5%AD%90%E5%90%B8%E4%BA%86%E4%B8%80%E5%8F%A3%E6%B7%A4%E8%A1%80%23&t=31&band_rank=8&Refer=top)<br />
-9. [女博士毕业丈夫称赞她是全家骄傲](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%8D%9A%E5%A3%AB%E6%AF%95%E4%B8%9A%E4%B8%88%E5%A4%AB%E7%A7%B0%E8%B5%9E%E5%A5%B9%E6%98%AF%E5%85%A8%E5%AE%B6%E9%AA%84%E5%82%B2%23&t=31&band_rank=9&Refer=top)<br />
+8. [十个勤天去哪了](https://s.weibo.com/weibo?q=%23%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9%E5%8E%BB%E5%93%AA%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [当蚊子吸了一口淤血](https://s.weibo.com/weibo?q=%23%E5%BD%93%E8%9A%8A%E5%AD%90%E5%90%B8%E4%BA%86%E4%B8%80%E5%8F%A3%E6%B7%A4%E8%A1%80%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [韩国房价跌穿，有区域成交量暴跌 70%，大量房东因还不起钱紧急出逃，韩国楼市怎么了？接下来会如何发展？](https://www.zhihu.com/question/606122248)<br />
 2. [亚裔考生美国高考几乎拿下满分，却被六大名校拒之门外，这究竟是怎么回事？](https://www.zhihu.com/question/605680526)<br />
-3. [万历皇帝三十多年不上朝，为什么没有出现严嵩、魏忠贤这样的奸臣佞党？](https://www.zhihu.com/question/28066745)<br />
+3. [美国调查人员曝进入坠毁 UFO 亲身经历称发生「时空扭曲」，待几分钟相当于 4 小时，真实性如何？](https://www.zhihu.com/question/606020452)<br />
 4. [如何看待张雨绮「 699 买不了袜子」所反映的社会问题？](https://www.zhihu.com/question/606016416)<br />
-5. [美国调查人员曝进入坠毁 UFO 亲身经历称发生「时空扭曲」，待几分钟相当于 4 小时，真实性如何？](https://www.zhihu.com/question/606020452)<br />
+5. [万历皇帝三十多年不上朝，为什么没有出现严嵩、魏忠贤这样的奸臣佞党？](https://www.zhihu.com/question/28066745)<br />
 6. [越南严重缺电，富士康、三星等工厂受影响，时隔 7 年我国重启对越送电，哪些信息值得关注？](https://www.zhihu.com/question/606164349)<br />
 7. [消息称「一光伏企业高管在慕尼黑下飞机后被带走」，具体情况如何？](https://www.zhihu.com/question/606222429)<br />
 8. [国家发改委已下达 2023 年以工代赈中央投资 73 亿元，将起到哪些作用？](https://www.zhihu.com/question/606168061)<br />
