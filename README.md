@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 18:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 18:43:02</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [全国网络普法行江西站](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E7%BD%91%E7%BB%9C%E6%99%AE%E6%B3%95%E8%A1%8C%E6%B1%9F%E8%A5%BF%E7%AB%99%23&t=31&band_rank=3&Refer=top)<br />
 4. [川大回应网传地铁事件女生被开除](https://s.weibo.com/weibo?q=%23%E5%B7%9D%E5%A4%A7%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E5%9C%B0%E9%93%81%E4%BA%8B%E4%BB%B6%E5%A5%B3%E7%94%9F%E8%A2%AB%E5%BC%80%E9%99%A4%23&t=31&band_rank=4&Refer=top)<br />
 5. [暖心乡村食堂60岁老人1元就餐](https://s.weibo.com/weibo?q=%23%E6%9A%96%E5%BF%83%E4%B9%A1%E6%9D%91%E9%A3%9F%E5%A0%8260%E5%B2%81%E8%80%81%E4%BA%BA1%E5%85%83%E5%B0%B1%E9%A4%90%23&t=31&band_rank=5&Refer=top)<br />
-6. [应采儿回应把hoho当成女孩养](https://s.weibo.com/weibo?q=%23%E5%BA%94%E9%87%87%E5%84%BF%E5%9B%9E%E5%BA%94%E6%8A%8Ahoho%E5%BD%93%E6%88%90%E5%A5%B3%E5%AD%A9%E5%85%BB%23&t=31&band_rank=6&Refer=top)<br />
-7. [当蚊子吸了一口淤血](https://s.weibo.com/weibo?q=%23%E5%BD%93%E8%9A%8A%E5%AD%90%E5%90%B8%E4%BA%86%E4%B8%80%E5%8F%A3%E6%B7%A4%E8%A1%80%23&t=31&band_rank=7&Refer=top)<br />
+6. [当蚊子吸了一口淤血](https://s.weibo.com/weibo?q=%23%E5%BD%93%E8%9A%8A%E5%AD%90%E5%90%B8%E4%BA%86%E4%B8%80%E5%8F%A3%E6%B7%A4%E8%A1%80%23&t=31&band_rank=6&Refer=top)<br />
+7. [应采儿回应把hoho当成女孩养](https://s.weibo.com/weibo?q=%23%E5%BA%94%E9%87%87%E5%84%BF%E5%9B%9E%E5%BA%94%E6%8A%8Ahoho%E5%BD%93%E6%88%90%E5%A5%B3%E5%AD%A9%E5%85%BB%23&t=31&band_rank=7&Refer=top)<br />
 8. [又一部炸裂的韩综](https://s.weibo.com/weibo?q=%E5%8F%88%E4%B8%80%E9%83%A8%E7%82%B8%E8%A3%82%E7%9A%84%E9%9F%A9%E7%BB%BC&t=31&band_rank=8&Refer=top)<br />
 9. [贝卢斯科尼去世](https://s.weibo.com/weibo?q=%23%E8%B4%9D%E5%8D%A2%E6%96%AF%E7%A7%91%E5%B0%BC%E5%8E%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
 
