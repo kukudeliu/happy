@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 07:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 07:45:01</h4></div>
 
 > 微博  
 
@@ -16,8 +16,8 @@
 
 1. [韩国房价跌穿，有区域成交量暴跌 70%，大量房东因还不起钱紧急出逃，韩国楼市怎么了？接下来会如何发展？](https://www.zhihu.com/question/606122248)<br />
 2. [消息称「一光伏企业高管在慕尼黑下飞机后被带走」，具体情况如何？](https://www.zhihu.com/question/606222429)<br />
-3. [越南严重缺电，富士康、三星等工厂受影响，时隔 7 年我国重启对越送电，哪些信息值得关注？](https://www.zhihu.com/question/606164349)<br />
-4. [韩网红柬埔寨旅游去世尸体被扔水沟，目前事件调查进展如何？](https://www.zhihu.com/question/606229094)<br />
+3. [韩网红柬埔寨旅游去世尸体被扔水沟，目前事件调查进展如何？](https://www.zhihu.com/question/606229094)<br />
+4. [越南严重缺电，富士康、三星等工厂受影响，时隔 7 年我国重启对越送电，哪些信息值得关注？](https://www.zhihu.com/question/606164349)<br />
 5. [柯文哲称若当选将发动网军瘫痪大陆高铁、取款机，此前在「钓鱼岛、核废水」等议题讨好日本人，透露哪些信息？](https://www.zhihu.com/question/606148038)<br />
 6. [马路晒麦子致男子摔伤，4 小时没等来麦子主人，派出所将麦子判给男子，卖 1800 元弥补损失，如何看待？](https://www.zhihu.com/question/606075840)<br />
 7. [韩国官员对中国大使出言不逊，外交部回应表明严重关切和不满，如何看待此事？对中韩关系有何影响？](https://www.zhihu.com/question/606182202)<br />
@@ -32,9 +32,9 @@
 4. [疏源浚流 与古为新](https://www.baidu.com/s?wd=%E7%96%8F%E6%BA%90%E6%B5%9A%E6%B5%81+%E4%B8%8E%E5%8F%A4%E4%B8%BA%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [买到水龄16500年矿泉水?专家:不科学](https://www.baidu.com/s?wd=%E4%B9%B0%E5%88%B0%E6%B0%B4%E9%BE%8416500%E5%B9%B4%E7%9F%BF%E6%B3%89%E6%B0%B4%3F%E4%B8%93%E5%AE%B6%3A%E4%B8%8D%E7%A7%91%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [中纪委“内鬼”刘燃被“双开”](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BA%AA%E5%A7%94%E2%80%9C%E5%86%85%E9%AC%BC%E2%80%9D%E5%88%98%E7%87%83%E8%A2%AB%E2%80%9C%E5%8F%8C%E5%BC%80%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [中国企业高管在德被带走?德警方回复](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BC%81%E4%B8%9A%E9%AB%98%E7%AE%A1%E5%9C%A8%E5%BE%B7%E8%A2%AB%E5%B8%A6%E8%B5%B0%3F%E5%BE%B7%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%A4%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [2药企被罚3.2亿 救命药短缺频发背后](https://www.baidu.com/s?wd=2%E8%8D%AF%E4%BC%81%E8%A2%AB%E7%BD%9A3.2%E4%BA%BF+%E6%95%91%E5%91%BD%E8%8D%AF%E7%9F%AD%E7%BC%BA%E9%A2%91%E5%8F%91%E8%83%8C%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女生遭多名学生掌掴 校长被停职](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%81%AD%E5%A4%9A%E5%90%8D%E5%AD%A6%E7%94%9F%E6%8E%8C%E6%8E%B4+%E6%A0%A1%E9%95%BF%E8%A2%AB%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [媒体评“禁止民间划龙舟”](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E2%80%9C%E7%A6%81%E6%AD%A2%E6%B0%91%E9%97%B4%E5%88%92%E9%BE%99%E8%88%9F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [中国企业高管在德被带走?德警方回复](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BC%81%E4%B8%9A%E9%AB%98%E7%AE%A1%E5%9C%A8%E5%BE%B7%E8%A2%AB%E5%B8%A6%E8%B5%B0%3F%E5%BE%B7%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%A4%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [疏源浚流 与古为新](https://www.baidu.com/s?wd=%E7%96%8F%E6%BA%90%E6%B5%9A%E6%B5%81+%E4%B8%8E%E5%8F%A4%E4%B8%BA%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [买到水龄16500年矿泉水?专家:不科学](https://www.baidu.com/s?wd=%E4%B9%B0%E5%88%B0%E6%B0%B4%E9%BE%8416500%E5%B9%B4%E7%9F%BF%E6%B3%89%E6%B0%B4%3F%E4%B8%93%E5%AE%B6%3A%E4%B8%8D%E7%A7%91%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [中纪委“内鬼”刘燃被“双开”](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BA%AA%E5%A7%94%E2%80%9C%E5%86%85%E9%AC%BC%E2%80%9D%E5%88%98%E7%87%83%E8%A2%AB%E2%80%9C%E5%8F%8C%E5%BC%80%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [中国企业高管在德被带走?德警方回复](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BC%81%E4%B8%9A%E9%AB%98%E7%AE%A1%E5%9C%A8%E5%BE%B7%E8%A2%AB%E5%B8%A6%E8%B5%B0%3F%E5%BE%B7%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%A4%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [2药企被罚3.2亿 救命药短缺频发背后](https://www.baidu.com/s?wd=2%E8%8D%AF%E4%BC%81%E8%A2%AB%E7%BD%9A3.2%E4%BA%BF+%E6%95%91%E5%91%BD%E8%8D%AF%E7%9F%AD%E7%BC%BA%E9%A2%91%E5%8F%91%E8%83%8C%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女生遭多名学生掌掴 校长被停职](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%81%AD%E5%A4%9A%E5%90%8D%E5%AD%A6%E7%94%9F%E6%8E%8C%E6%8E%B4+%E6%A0%A1%E9%95%BF%E8%A2%AB%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [媒体评“禁止民间划龙舟”](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E2%80%9C%E7%A6%81%E6%AD%A2%E6%B0%91%E9%97%B4%E5%88%92%E9%BE%99%E8%88%9F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [中国企业高管在德被带走?德警方回复](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BC%81%E4%B8%9A%E9%AB%98%E7%AE%A1%E5%9C%A8%E5%BE%B7%E8%A2%AB%E5%B8%A6%E8%B5%B0%3F%E5%BE%B7%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%A4%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
