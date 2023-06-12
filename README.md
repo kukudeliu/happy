@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 13:03:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 13:04:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [五月天退票](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%E9%80%80%E7%A5%A8&t=31&band_rank=2&Refer=top)<br />
 3. [全国网络普法行江西站](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E7%BD%91%E7%BB%9C%E6%99%AE%E6%B3%95%E8%A1%8C%E6%B1%9F%E8%A5%BF%E7%AB%99%23&t=31&band_rank=3&Refer=top)<br />
 4. [找工作被确诊弱智](https://s.weibo.com/weibo?q=%23%E6%89%BE%E5%B7%A5%E4%BD%9C%E8%A2%AB%E7%A1%AE%E8%AF%8A%E5%BC%B1%E6%99%BA%23&t=31&band_rank=4&Refer=top)<br />
-5. [白敬亭工作室向粉丝道歉](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%90%91%E7%B2%89%E4%B8%9D%E9%81%93%E6%AD%89%23&t=31&band_rank=5&Refer=top)<br />
+5. [任敏换家人不想要王鹤棣](https://s.weibo.com/weibo?q=%23%E4%BB%BB%E6%95%8F%E6%8D%A2%E5%AE%B6%E4%BA%BA%E4%B8%8D%E6%83%B3%E8%A6%81%E7%8E%8B%E9%B9%A4%E6%A3%A3%23&t=31&band_rank=5&Refer=top)<br />
 6. [曝光大叔女子哭诉学校准备开除她](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%85%89%E5%A4%A7%E5%8F%94%E5%A5%B3%E5%AD%90%E5%93%AD%E8%AF%89%E5%AD%A6%E6%A0%A1%E5%87%86%E5%A4%87%E5%BC%80%E9%99%A4%E5%A5%B9%23&t=31&band_rank=6&Refer=top)<br />
-7. [任敏换家人不想要王鹤棣](https://s.weibo.com/weibo?q=%23%E4%BB%BB%E6%95%8F%E6%8D%A2%E5%AE%B6%E4%BA%BA%E4%B8%8D%E6%83%B3%E8%A6%81%E7%8E%8B%E9%B9%A4%E6%A3%A3%23&t=31&band_rank=7&Refer=top)<br />
+7. [白敬亭工作室向粉丝道歉](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%90%91%E7%B2%89%E4%B8%9D%E9%81%93%E6%AD%89%23&t=31&band_rank=7&Refer=top)<br />
 8. [李希侃道歉](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B8%8C%E4%BE%83%E9%81%93%E6%AD%89%23&t=31&band_rank=8&Refer=top)<br />
-9. [江歌妈妈将赔偿款全额捐出](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E6%AD%8C%E5%A6%88%E5%A6%88%E5%B0%86%E8%B5%94%E5%81%BF%E6%AC%BE%E5%85%A8%E9%A2%9D%E6%8D%90%E5%87%BA%23&t=31&band_rank=9&Refer=top)<br />
+9. [何瑞贤新剧刚怀孕就被陷害流产](https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%91%9E%E8%B4%A4%E6%96%B0%E5%89%A7%E5%88%9A%E6%80%80%E5%AD%95%E5%B0%B1%E8%A2%AB%E9%99%B7%E5%AE%B3%E6%B5%81%E4%BA%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -19,9 +19,9 @@
 3. [3 年级孩子提问「4 除以 3 再乘以 3，答案是 4，还是无限接近于 4」？](https://www.zhihu.com/question/597086933)<br />
 4. [韩国房价跌穿，有区域成交量暴跌 70%，大量房东因还不起钱紧急出逃，韩国楼市怎么了？接下来会如何发展？](https://www.zhihu.com/question/606122248)<br />
 5. [火车站按摩椅现大量虫子，顾客坐后身体发痒，为何按摩椅上会有虫子寄生？如何解决？](https://www.zhihu.com/question/606110946)<br />
-6. [如果有一天存款利率调整为 0 ，会发生什么？到时候我们的钱该放在哪儿？](https://www.zhihu.com/question/605978793)<br />
+6. [如何看待 6 月 12 日蔚来全系降价 3W？](https://www.zhihu.com/question/606128553)<br />
 7. [如何看待张雨绮「 699 买不了袜子」所反映的社会问题？](https://www.zhihu.com/question/606016416)<br />
-8. [如何看待 6 月 12 日蔚来全系降价 3W？](https://www.zhihu.com/question/606128553)<br />
+8. [如果有一天存款利率调整为 0 ，会发生什么？到时候我们的钱该放在哪儿？](https://www.zhihu.com/question/605978793)<br />
 9. [如何看待高二学生以一作发表数学类 sci，论文含金量如何？](https://www.zhihu.com/question/605160535)<br />
 
 > 百度  
