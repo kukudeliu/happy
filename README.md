@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 20:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 20:06:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [白鹿王鹤棣坐一起](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%9D%90%E4%B8%80%E8%B5%B7%23&t=31&band_rank=6&Refer=top)<br />
 7. [当蚊子吸了一口淤血](https://s.weibo.com/weibo?q=%23%E5%BD%93%E8%9A%8A%E5%AD%90%E5%90%B8%E4%BA%86%E4%B8%80%E5%8F%A3%E6%B7%A4%E8%A1%80%23&t=31&band_rank=7&Refer=top)<br />
 8. [梅西直播](https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF%E7%9B%B4%E6%92%AD&t=31&band_rank=8&Refer=top)<br />
-9. [五月天退票](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%E9%80%80%E7%A5%A8&t=31&band_rank=9&Refer=top)<br />
+9. [大熊猫洗澡两个半人摁半个负责洗](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E6%B4%97%E6%BE%A1%E4%B8%A4%E4%B8%AA%E5%8D%8A%E4%BA%BA%E6%91%81%E5%8D%8A%E4%B8%AA%E8%B4%9F%E8%B4%A3%E6%B4%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
