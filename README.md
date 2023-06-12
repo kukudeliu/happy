@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 11:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 11:40:01</h4></div>
 
 > 微博  
 
@@ -6,9 +6,9 @@
 2. [李希侃道歉](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B8%8C%E4%BE%83%E9%81%93%E6%AD%89%23&t=31&band_rank=2&Refer=top)<br />
 3. [神舟十号发射成功10周年](https://s.weibo.com/weibo?q=%23%E7%A5%9E%E8%88%9F%E5%8D%81%E5%8F%B7%E5%8F%91%E5%B0%84%E6%88%90%E5%8A%9F10%E5%91%A8%E5%B9%B4%23&t=31&band_rank=3&Refer=top)<br />
 4. [曝光大叔女子哭诉学校准备开除她](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%85%89%E5%A4%A7%E5%8F%94%E5%A5%B3%E5%AD%90%E5%93%AD%E8%AF%89%E5%AD%A6%E6%A0%A1%E5%87%86%E5%A4%87%E5%BC%80%E9%99%A4%E5%A5%B9%23&t=31&band_rank=4&Refer=top)<br />
-5. [江歌妈妈将赔偿款全额捐出](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E6%AD%8C%E5%A6%88%E5%A6%88%E5%B0%86%E8%B5%94%E5%81%BF%E6%AC%BE%E5%85%A8%E9%A2%9D%E6%8D%90%E5%87%BA%23&t=31&band_rank=5&Refer=top)<br />
-6. [很多男人是没有爱情的](https://s.weibo.com/weibo?q=%E5%BE%88%E5%A4%9A%E7%94%B7%E4%BA%BA%E6%98%AF%E6%B2%A1%E6%9C%89%E7%88%B1%E6%83%85%E7%9A%84&t=31&band_rank=6&Refer=top)<br />
-7. [何瑞贤新剧刚怀孕就被陷害流产](https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%91%9E%E8%B4%A4%E6%96%B0%E5%89%A7%E5%88%9A%E6%80%80%E5%AD%95%E5%B0%B1%E8%A2%AB%E9%99%B7%E5%AE%B3%E6%B5%81%E4%BA%A7%23&t=31&band_rank=7&Refer=top)<br />
+5. [很多男人是没有爱情的](https://s.weibo.com/weibo?q=%E5%BE%88%E5%A4%9A%E7%94%B7%E4%BA%BA%E6%98%AF%E6%B2%A1%E6%9C%89%E7%88%B1%E6%83%85%E7%9A%84&t=31&band_rank=5&Refer=top)<br />
+6. [何瑞贤新剧刚怀孕就被陷害流产](https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%91%9E%E8%B4%A4%E6%96%B0%E5%89%A7%E5%88%9A%E6%80%80%E5%AD%95%E5%B0%B1%E8%A2%AB%E9%99%B7%E5%AE%B3%E6%B5%81%E4%BA%A7%23&t=31&band_rank=6&Refer=top)<br />
+7. [江歌妈妈将赔偿款全额捐出](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E6%AD%8C%E5%A6%88%E5%A6%88%E5%B0%86%E8%B5%94%E5%81%BF%E6%AC%BE%E5%85%A8%E9%A2%9D%E6%8D%90%E5%87%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [高考结束男朋友牵我的手冲出考场](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E7%94%B7%E6%9C%8B%E5%8F%8B%E7%89%B5%E6%88%91%E7%9A%84%E6%89%8B%E5%86%B2%E5%87%BA%E8%80%83%E5%9C%BA&t=31&band_rank=8&Refer=top)<br />
 9. [苏炳添决定不参加世锦赛和亚运会](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%82%B3%E6%B7%BB%E5%86%B3%E5%AE%9A%E4%B8%8D%E5%8F%82%E5%8A%A0%E4%B8%96%E9%94%A6%E8%B5%9B%E5%92%8C%E4%BA%9A%E8%BF%90%E4%BC%9A%23&t=31&band_rank=9&Refer=top)<br />
 
@@ -22,7 +22,7 @@
 6. [同学请客吃饭指明只能我一个人去，心里不愉快就借故没去，你怎样看？](https://www.zhihu.com/question/486695185)<br />
 7. [为什么欧冠决赛场地总是伊斯坦布尔？](https://www.zhihu.com/question/348760223)<br />
 8. [如何评价北京时间 6 月 12 日的游戏《星空》见面会？](https://www.zhihu.com/question/606091173)<br />
-9. [23 岁阿尔瓦雷斯收获 14 冠包括世界杯和欧冠，29 岁凯恩至今无冠，是否说明球员选择球队的重要性？](https://www.zhihu.com/question/605997762)<br />
+9. [国际象棋兵升变后怎么记住这个棋子不是兵?](https://www.zhihu.com/question/591167634)<br />
 
 > 百度  
 
