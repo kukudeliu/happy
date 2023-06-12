@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 17:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 17:49:01</h4></div>
 
 > 微博  
 
 1. [贝卢斯科尼去世](https://s.weibo.com/weibo?q=%23%E8%B4%9D%E5%8D%A2%E6%96%AF%E7%A7%91%E5%B0%BC%E5%8E%BB%E4%B8%96%23&t=31&band_rank=1&Refer=top)<br />
-2. [EXO先行曲MV](https://s.weibo.com/weibo?q=%23EXO%E5%85%88%E8%A1%8C%E6%9B%B2MV%23&t=31&band_rank=2&Refer=top)<br />
+2. [防止肥胖要像猪猪一样吃](https://s.weibo.com/weibo?q=%E9%98%B2%E6%AD%A2%E8%82%A5%E8%83%96%E8%A6%81%E5%83%8F%E7%8C%AA%E7%8C%AA%E4%B8%80%E6%A0%B7%E5%90%83&t=31&band_rank=2&Refer=top)<br />
 3. [全国网络普法行江西站](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E7%BD%91%E7%BB%9C%E6%99%AE%E6%B3%95%E8%A1%8C%E6%B1%9F%E8%A5%BF%E7%AB%99%23&t=31&band_rank=3&Refer=top)<br />
 4. [川大回应网传地铁事件女生被开除](https://s.weibo.com/weibo?q=%23%E5%B7%9D%E5%A4%A7%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E5%9C%B0%E9%93%81%E4%BA%8B%E4%BB%B6%E5%A5%B3%E7%94%9F%E8%A2%AB%E5%BC%80%E9%99%A4%23&t=31&band_rank=4&Refer=top)<br />
 5. [当蚊子吸了一口淤血](https://s.weibo.com/weibo?q=%23%E5%BD%93%E8%9A%8A%E5%AD%90%E5%90%B8%E4%BA%86%E4%B8%80%E5%8F%A3%E6%B7%A4%E8%A1%80%23&t=31&band_rank=5&Refer=top)<br />
 6. [韩国演员朴秀莲从楼梯摔落去世](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%BC%94%E5%91%98%E6%9C%B4%E7%A7%80%E8%8E%B2%E4%BB%8E%E6%A5%BC%E6%A2%AF%E6%91%94%E8%90%BD%E5%8E%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
-7. [防止肥胖要像猪猪一样吃](https://s.weibo.com/weibo?q=%E9%98%B2%E6%AD%A2%E8%82%A5%E8%83%96%E8%A6%81%E5%83%8F%E7%8C%AA%E7%8C%AA%E4%B8%80%E6%A0%B7%E5%90%83&t=31&band_rank=7&Refer=top)<br />
+7. [EXO先行曲MV](https://s.weibo.com/weibo?q=%23EXO%E5%85%88%E8%A1%8C%E6%9B%B2MV%23&t=31&band_rank=7&Refer=top)<br />
 8. [跑男最后一期录制没有宋雨琦](https://s.weibo.com/weibo?q=%23%E8%B7%91%E7%94%B7%E6%9C%80%E5%90%8E%E4%B8%80%E6%9C%9F%E5%BD%95%E5%88%B6%E6%B2%A1%E6%9C%89%E5%AE%8B%E9%9B%A8%E7%90%A6%23&t=31&band_rank=8&Refer=top)<br />
-9. [应采儿回应把hoho当成女孩养](https://s.weibo.com/weibo?q=%23%E5%BA%94%E9%87%87%E5%84%BF%E5%9B%9E%E5%BA%94%E6%8A%8Ahoho%E5%BD%93%E6%88%90%E5%A5%B3%E5%AD%A9%E5%85%BB%23&t=31&band_rank=9&Refer=top)<br />
+9. [let me in](https://s.weibo.com/weibo?q=let%20me%20in&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [美国调查人员曝进入坠毁 UFO 亲身经历称发生「时空扭曲」，待几分钟相当于 4 小时，真实性如何？](https://www.zhihu.com/question/606020452)<br />
 7. [网传梅西等球员乘坐大巴抵达，现场工作人员拉布遮挡，球迷高喊「退钱」，如何评价这些行为？](https://www.zhihu.com/question/605841178)<br />
 8. [蔚来全系车型降价 3 万元，取消终身免费换电政策，如何看待这一调整？会带来什么影响？](https://www.zhihu.com/question/606130325)<br />
-9. [为什么到目前发布最晚的 vivo X Flip 成了竖折销量第一，竖折叠究竟值不值得买？](https://www.zhihu.com/question/606130652)<br />
+9. [大脑受到了不可逆的损伤，曾经拥有的天赋都消失了，请问未来该怎么规划？](https://www.zhihu.com/question/358547957)<br />
 
 > 百度  
 
@@ -31,10 +31,10 @@
 3. [韩官员对中国大使出言不逊 中方回应](https://www.baidu.com/s?wd=%E9%9F%A9%E5%AE%98%E5%91%98%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%A4%A7%E4%BD%BF%E5%87%BA%E8%A8%80%E4%B8%8D%E9%80%8A+%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [超级工程背后的超级智慧](https://www.baidu.com/s?wd=%E8%B6%85%E7%BA%A7%E5%B7%A5%E7%A8%8B%E8%83%8C%E5%90%8E%E7%9A%84%E8%B6%85%E7%BA%A7%E6%99%BA%E6%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子举报妻子被上司带酒局灌酒](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%BE%E6%8A%A5%E5%A6%BB%E5%AD%90%E8%A2%AB%E4%B8%8A%E5%8F%B8%E5%B8%A6%E9%85%92%E5%B1%80%E7%81%8C%E9%85%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [何超仪：上次人这么齐还是在殡仪馆](https://www.baidu.com/s?wd=%E4%BD%95%E8%B6%85%E4%BB%AA%EF%BC%9A%E4%B8%8A%E6%AC%A1%E4%BA%BA%E8%BF%99%E4%B9%88%E9%BD%90%E8%BF%98%E6%98%AF%E5%9C%A8%E6%AE%A1%E4%BB%AA%E9%A6%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [大树被吹倒外卖小哥弯腰躲过](https://www.baidu.com/s?wd=%E5%A4%A7%E6%A0%91%E8%A2%AB%E5%90%B9%E5%80%92%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E5%BC%AF%E8%85%B0%E8%BA%B2%E8%BF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [校方称曝光大叔女子将被开除系不实](https://www.baidu.com/s?wd=%E6%A0%A1%E6%96%B9%E7%A7%B0%E6%9B%9D%E5%85%89%E5%A4%A7%E5%8F%94%E5%A5%B3%E5%AD%90%E5%B0%86%E8%A2%AB%E5%BC%80%E9%99%A4%E7%B3%BB%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [华晨宇演唱会退票](https://www.baidu.com/s?wd=%E5%8D%8E%E6%99%A8%E5%AE%87%E6%BC%94%E5%94%B1%E4%BC%9A%E9%80%80%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [韩国演员朴秀莲从楼梯摔落去世](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E6%BC%94%E5%91%98%E6%9C%B4%E7%A7%80%E8%8E%B2%E4%BB%8E%E6%A5%BC%E6%A2%AF%E6%91%94%E8%90%BD%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [博主因性别称谓发视频曝光空乘](https://www.baidu.com/s?wd=%E5%8D%9A%E4%B8%BB%E5%9B%A0%E6%80%A7%E5%88%AB%E7%A7%B0%E8%B0%93%E5%8F%91%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89%E7%A9%BA%E4%B9%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [美以涉伊为由制裁中国实体 中方回应](https://www.baidu.com/s?wd=%E7%BE%8E%E4%BB%A5%E6%B6%89%E4%BC%8A%E4%B8%BA%E7%94%B1%E5%88%B6%E8%A3%81%E4%B8%AD%E5%9B%BD%E5%AE%9E%E4%BD%93+%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [韩官员对中国大使出言不逊 中方回应](https://www.baidu.com/s?wd=%E9%9F%A9%E5%AE%98%E5%91%98%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%A4%A7%E4%BD%BF%E5%87%BA%E8%A8%80%E4%B8%8D%E9%80%8A+%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [超级工程背后的超级智慧](https://www.baidu.com/s?wd=%E8%B6%85%E7%BA%A7%E5%B7%A5%E7%A8%8B%E8%83%8C%E5%90%8E%E7%9A%84%E8%B6%85%E7%BA%A7%E6%99%BA%E6%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子举报妻子被上司带酒局灌酒](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%BE%E6%8A%A5%E5%A6%BB%E5%AD%90%E8%A2%AB%E4%B8%8A%E5%8F%B8%E5%B8%A6%E9%85%92%E5%B1%80%E7%81%8C%E9%85%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [何超仪：上次人这么齐还是在殡仪馆](https://www.baidu.com/s?wd=%E4%BD%95%E8%B6%85%E4%BB%AA%EF%BC%9A%E4%B8%8A%E6%AC%A1%E4%BA%BA%E8%BF%99%E4%B9%88%E9%BD%90%E8%BF%98%E6%98%AF%E5%9C%A8%E6%AE%A1%E4%BB%AA%E9%A6%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [大树被吹倒外卖小哥弯腰躲过](https://www.baidu.com/s?wd=%E5%A4%A7%E6%A0%91%E8%A2%AB%E5%90%B9%E5%80%92%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E5%BC%AF%E8%85%B0%E8%BA%B2%E8%BF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [校方称曝光大叔女子将被开除系不实](https://www.baidu.com/s?wd=%E6%A0%A1%E6%96%B9%E7%A7%B0%E6%9B%9D%E5%85%89%E5%A4%A7%E5%8F%94%E5%A5%B3%E5%AD%90%E5%B0%86%E8%A2%AB%E5%BC%80%E9%99%A4%E7%B3%BB%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [华晨宇演唱会退票](https://www.baidu.com/s?wd=%E5%8D%8E%E6%99%A8%E5%AE%87%E6%BC%94%E5%94%B1%E4%BC%9A%E9%80%80%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [韩国演员朴秀莲从楼梯摔落去世](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E6%BC%94%E5%91%98%E6%9C%B4%E7%A7%80%E8%8E%B2%E4%BB%8E%E6%A5%BC%E6%A2%AF%E6%91%94%E8%90%BD%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [博主因性别称谓发视频曝光空乘](https://www.baidu.com/s?wd=%E5%8D%9A%E4%B8%BB%E5%9B%A0%E6%80%A7%E5%88%AB%E7%A7%B0%E8%B0%93%E5%8F%91%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89%E7%A9%BA%E4%B9%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [美以涉伊为由制裁中国实体 中方回应](https://www.baidu.com/s?wd=%E7%BE%8E%E4%BB%A5%E6%B6%89%E4%BC%8A%E4%B8%BA%E7%94%B1%E5%88%B6%E8%A3%81%E4%B8%AD%E5%9B%BD%E5%AE%9E%E4%BD%93+%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
