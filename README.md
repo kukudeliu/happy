@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 16:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 16:09:01</h4></div>
 
 > 微博  
 
@@ -10,19 +10,19 @@
 6. [注册不了张z公开道歉为何再惹众怒](https://s.weibo.com/weibo?q=%23%E6%B3%A8%E5%86%8C%E4%B8%8D%E4%BA%86%E5%BC%A0z%E5%85%AC%E5%BC%80%E9%81%93%E6%AD%89%E4%B8%BA%E4%BD%95%E5%86%8D%E6%83%B9%E4%BC%97%E6%80%92%23&t=31&band_rank=6&Refer=top)<br />
 7. [五月天退票](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%E9%80%80%E7%A5%A8&t=31&band_rank=7&Refer=top)<br />
 8. [博主因性别称谓发视频曝光空乘](https://s.weibo.com/weibo?q=%23%E5%8D%9A%E4%B8%BB%E5%9B%A0%E6%80%A7%E5%88%AB%E7%A7%B0%E8%B0%93%E5%8F%91%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89%E7%A9%BA%E4%B9%98%23&t=31&band_rank=8&Refer=top)<br />
-9. [任敏换家人不想要王鹤棣](https://s.weibo.com/weibo?q=%23%E4%BB%BB%E6%95%8F%E6%8D%A2%E5%AE%B6%E4%BA%BA%E4%B8%8D%E6%83%B3%E8%A6%81%E7%8E%8B%E9%B9%A4%E6%A3%A3%23&t=31&band_rank=9&Refer=top)<br />
+9. [防止肥胖要像猪猪一样吃](https://s.weibo.com/weibo?q=%E9%98%B2%E6%AD%A2%E8%82%A5%E8%83%96%E8%A6%81%E5%83%8F%E7%8C%AA%E7%8C%AA%E4%B8%80%E6%A0%B7%E5%90%83&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [去年结婚人数创 37 年来新低，相比 9 年前结婚人数下降 49.3%，透露了哪些信息？](https://www.zhihu.com/question/606055070)<br />
 2. [韩国房价跌穿，有区域成交量暴跌 70%，大量房东因还不起钱紧急出逃，韩国楼市怎么了？接下来会如何发展？](https://www.zhihu.com/question/606122248)<br />
 3. [火车站按摩椅现大量虫子，顾客坐后身体发痒，为何按摩椅上会有虫子寄生？如何解决？](https://www.zhihu.com/question/606110946)<br />
-4. [加拿大宣布扣押并将没收一架俄货运飞机，俄方回应称抢劫，你对该事件有何看法？](https://www.zhihu.com/question/606004364)<br />
-5. [亚裔考生美国高考几乎拿下满分，却被六大名校拒之门外，这究竟是怎么回事？](https://www.zhihu.com/question/605680526)<br />
+4. [亚裔考生美国高考几乎拿下满分，却被六大名校拒之门外，这究竟是怎么回事？](https://www.zhihu.com/question/605680526)<br />
+5. [加拿大宣布扣押并将没收一架俄货运飞机，俄方回应称抢劫，你对该事件有何看法？](https://www.zhihu.com/question/606004364)<br />
 6. [如何看待张雨绮「 699 买不了袜子」所反映的社会问题？](https://www.zhihu.com/question/606016416)<br />
 7. [美国调查人员曝进入坠毁 UFO 亲身经历称发生「时空扭曲」，待几分钟相当于 4 小时，真实性如何？](https://www.zhihu.com/question/606020452)<br />
 8. [网传梅西等球员乘坐大巴抵达，现场工作人员拉布遮挡，球迷高喊「退钱」，如何评价这些行为？](https://www.zhihu.com/question/605841178)<br />
-9. [都说《崩坏：星穹铁道》银狼被封了 76 个账号，但那都是些什么账号啊？](https://www.zhihu.com/question/605374268)<br />
+9. [蔚来全系车型降价 3 万元，取消终身免费换电政策，如何看待这一调整？会带来什么影响？](https://www.zhihu.com/question/606130325)<br />
 
 > 百度  
 
