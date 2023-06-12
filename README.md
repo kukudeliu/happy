@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 12:44:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-12 12:45:01</h4></div>
 
 > 微博  
 
@@ -9,20 +9,20 @@
 5. [李希侃道歉](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B8%8C%E4%BE%83%E9%81%93%E6%AD%89%23&t=31&band_rank=5&Refer=top)<br />
 6. [曝光大叔女子哭诉学校准备开除她](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%85%89%E5%A4%A7%E5%8F%94%E5%A5%B3%E5%AD%90%E5%93%AD%E8%AF%89%E5%AD%A6%E6%A0%A1%E5%87%86%E5%A4%87%E5%BC%80%E9%99%A4%E5%A5%B9%23&t=31&band_rank=6&Refer=top)<br />
 7. [白敬亭工作室向粉丝道歉](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%90%91%E7%B2%89%E4%B8%9D%E9%81%93%E6%AD%89%23&t=31&band_rank=7&Refer=top)<br />
-8. [江歌妈妈将赔偿款全额捐出](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E6%AD%8C%E5%A6%88%E5%A6%88%E5%B0%86%E8%B5%94%E5%81%BF%E6%AC%BE%E5%85%A8%E9%A2%9D%E6%8D%90%E5%87%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [五月天退票](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%E9%80%80%E7%A5%A8&t=31&band_rank=9&Refer=top)<br />
+8. [五月天退票](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%E9%80%80%E7%A5%A8&t=31&band_rank=8&Refer=top)<br />
+9. [江歌妈妈将赔偿款全额捐出](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E6%AD%8C%E5%A6%88%E5%A6%88%E5%B0%86%E8%B5%94%E5%81%BF%E6%AC%BE%E5%85%A8%E9%A2%9D%E6%8D%90%E5%87%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [加拿大野火连烧 10 多天，纽约空气污染爆表，有机场航班停飞，目前当地情况如何？](https://www.zhihu.com/question/605435138)<br />
 2. [去年结婚人数创 37 年来新低，相比 9 年前结婚人数下降 49.3%，透露了哪些信息？](https://www.zhihu.com/question/606055070)<br />
 3. [3 年级孩子提问「4 除以 3 再乘以 3，答案是 4，还是无限接近于 4」？](https://www.zhihu.com/question/597086933)<br />
-4. [如果有一天存款利率调整为 0 ，会发生什么？到时候我们的钱该放在哪儿？](https://www.zhihu.com/question/605978793)<br />
-5. [火车站按摩椅现大量虫子，顾客坐后身体发痒，为何按摩椅上会有虫子寄生？如何解决？](https://www.zhihu.com/question/606110946)<br />
+4. [火车站按摩椅现大量虫子，顾客坐后身体发痒，为何按摩椅上会有虫子寄生？如何解决？](https://www.zhihu.com/question/606110946)<br />
+5. [如果有一天存款利率调整为 0 ，会发生什么？到时候我们的钱该放在哪儿？](https://www.zhihu.com/question/605978793)<br />
 6. [韩国房价跌穿，有区域成交量暴跌 70%，大量房东因还不起钱紧急出逃，韩国楼市怎么了？接下来会如何发展？](https://www.zhihu.com/question/606122248)<br />
 7. [如何看待张雨绮「 699 买不了袜子」所反映的社会问题？](https://www.zhihu.com/question/606016416)<br />
-8. [如何评价北京时间 6 月 12 日的游戏《星空》见面会？](https://www.zhihu.com/question/606091173)<br />
-9. [23 岁阿尔瓦雷斯收获 14 冠包括世界杯和欧冠，29 岁凯恩至今无冠，是否说明球员选择球队的重要性？](https://www.zhihu.com/question/605997762)<br />
+8. [如何看待 6 月 12 日蔚来全系降价 3W？](https://www.zhihu.com/question/606128553)<br />
+9. [如何评价北京时间 6 月 12 日的游戏《星空》见面会？](https://www.zhihu.com/question/606091173)<br />
 
 > 百度  
 
