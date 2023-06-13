@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 16:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 16:26:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [张柏芝 好能打的一张脸](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9F%8F%E8%8A%9D%20%E5%A5%BD%E8%83%BD%E6%89%93%E7%9A%84%E4%B8%80%E5%BC%A0%E8%84%B8&t=31&band_rank=4&Refer=top)<br />
 5. [为什么夏天都不穿凉鞋了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%8F%E5%A4%A9%E9%83%BD%E4%B8%8D%E7%A9%BF%E5%87%89%E9%9E%8B%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [范丞丞 跑男真的没有剧本](https://s.weibo.com/weibo?q=%E8%8C%83%E4%B8%9E%E4%B8%9E%20%E8%B7%91%E7%94%B7%E7%9C%9F%E7%9A%84%E6%B2%A1%E6%9C%89%E5%89%A7%E6%9C%AC&t=31&band_rank=6&Refer=top)<br />
-7. [任豪 人工呼吸怎么不算吻](https://s.weibo.com/weibo?q=%E4%BB%BB%E8%B1%AA%20%E4%BA%BA%E5%B7%A5%E5%91%BC%E5%90%B8%E6%80%8E%E4%B9%88%E4%B8%8D%E7%AE%97%E5%90%BB&t=31&band_rank=7&Refer=top)<br />
-8. [疑似杭师大女生家属发声](https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E6%9D%AD%E5%B8%88%E5%A4%A7%E5%A5%B3%E7%94%9F%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0%23&t=31&band_rank=8&Refer=top)<br />
+7. [疑似杭师大女生家属发声](https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E6%9D%AD%E5%B8%88%E5%A4%A7%E5%A5%B3%E7%94%9F%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0%23&t=31&band_rank=7&Refer=top)<br />
+8. [任豪 人工呼吸怎么不算吻](https://s.weibo.com/weibo?q=%E4%BB%BB%E8%B1%AA%20%E4%BA%BA%E5%B7%A5%E5%91%BC%E5%90%B8%E6%80%8E%E4%B9%88%E4%B8%8D%E7%AE%97%E5%90%BB&t=31&band_rank=8&Refer=top)<br />
 9. [赵露思造型师换成闵塔鲨了](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E9%80%A0%E5%9E%8B%E5%B8%88%E6%8D%A2%E6%88%90%E9%97%B5%E5%A1%94%E9%B2%A8%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
