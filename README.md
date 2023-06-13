@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 00:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 00:39:02</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [Jennie回应演唱会中途离场](https://s.weibo.com/weibo?q=%23Jennie%E5%9B%9E%E5%BA%94%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%AD%E9%80%94%E7%A6%BB%E5%9C%BA%23&t=31&band_rank=2&Refer=top)<br />
 3. [20余省已公布高考查分时间](https://s.weibo.com/weibo?q=%2320%E4%BD%99%E7%9C%81%E5%B7%B2%E5%85%AC%E5%B8%83%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86%E6%97%B6%E9%97%B4%23&t=31&band_rank=3&Refer=top)<br />
 4. [天津河东区一小区发生爆炸](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E6%B2%B3%E4%B8%9C%E5%8C%BA%E4%B8%80%E5%B0%8F%E5%8C%BA%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%23&t=31&band_rank=4&Refer=top)<br />
-5. [刘亦菲 不在乎别人的想法](https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%20%E4%B8%8D%E5%9C%A8%E4%B9%8E%E5%88%AB%E4%BA%BA%E7%9A%84%E6%83%B3%E6%B3%95&t=31&band_rank=5&Refer=top)<br />
-6. [权志龙又买房了](https://s.weibo.com/weibo?q=%23%E6%9D%83%E5%BF%97%E9%BE%99%E5%8F%88%E4%B9%B0%E6%88%BF%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
+5. [权志龙又买房了](https://s.weibo.com/weibo?q=%23%E6%9D%83%E5%BF%97%E9%BE%99%E5%8F%88%E4%B9%B0%E6%88%BF%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
+6. [刘亦菲 不在乎别人的想法](https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%20%E4%B8%8D%E5%9C%A8%E4%B9%8E%E5%88%AB%E4%BA%BA%E7%9A%84%E6%83%B3%E6%B3%95&t=31&band_rank=6&Refer=top)<br />
 7. [猫的树好会拍](https://s.weibo.com/weibo?q=%E7%8C%AB%E7%9A%84%E6%A0%91%E5%A5%BD%E4%BC%9A%E6%8B%8D&t=31&band_rank=7&Refer=top)<br />
 8. [高考后妹妹得知姐姐已去世一个月](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%90%8E%E5%A6%B9%E5%A6%B9%E5%BE%97%E7%9F%A5%E5%A7%90%E5%A7%90%E5%B7%B2%E5%8E%BB%E4%B8%96%E4%B8%80%E4%B8%AA%E6%9C%88%23&t=31&band_rank=8&Refer=top)<br />
 9. [笑果旗下公司擅自演出被罚](https://s.weibo.com/weibo?q=%23%E7%AC%91%E6%9E%9C%E6%97%97%E4%B8%8B%E5%85%AC%E5%8F%B8%E6%93%85%E8%87%AA%E6%BC%94%E5%87%BA%E8%A2%AB%E7%BD%9A%23&t=31&band_rank=9&Refer=top)<br />
@@ -32,9 +32,9 @@
 4. [20余省已公布高考查分时间](https://www.baidu.com/s?wd=20%E4%BD%99%E7%9C%81%E5%B7%B2%E5%85%AC%E5%B8%83%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86%E6%97%B6%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [17岁女孩一晚连刷6套卷子后患脑病](https://www.baidu.com/s?wd=17%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%B8%80%E6%99%9A%E8%BF%9E%E5%88%B76%E5%A5%97%E5%8D%B7%E5%AD%90%E5%90%8E%E6%82%A3%E8%84%91%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [天津一小区爆炸 44辆救援车赶赴现场](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E4%B8%80%E5%B0%8F%E5%8C%BA%E7%88%86%E7%82%B8+44%E8%BE%86%E6%95%91%E6%8F%B4%E8%BD%A6%E8%B5%B6%E8%B5%B4%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [老农卖70斤菜获利14元被罚10万](https://www.baidu.com/s?wd=%E8%80%81%E5%86%9C%E5%8D%9670%E6%96%A4%E8%8F%9C%E8%8E%B7%E5%88%A914%E5%85%83%E8%A2%AB%E7%BD%9A10%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [日本核污水入海会造成什么影响](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%B0%B4%E5%85%A5%E6%B5%B7%E4%BC%9A%E9%80%A0%E6%88%90%E4%BB%80%E4%B9%88%E5%BD%B1%E5%93%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [笑果旗下公司擅自演出被罚](https://www.baidu.com/s?wd=%E7%AC%91%E6%9E%9C%E6%97%97%E4%B8%8B%E5%85%AC%E5%8F%B8%E6%93%85%E8%87%AA%E6%BC%94%E5%87%BA%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [格力主播穿免职裙 网友提醒被拉黑](https://www.baidu.com/s?wd=%E6%A0%BC%E5%8A%9B%E4%B8%BB%E6%92%AD%E7%A9%BF%E5%85%8D%E8%81%8C%E8%A3%99+%E7%BD%91%E5%8F%8B%E6%8F%90%E9%86%92%E8%A2%AB%E6%8B%89%E9%BB%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [前白宫官员预估特朗普刑期500年左右](https://www.baidu.com/s?wd=%E5%89%8D%E7%99%BD%E5%AE%AB%E5%AE%98%E5%91%98%E9%A2%84%E4%BC%B0%E7%89%B9%E6%9C%97%E6%99%AE%E5%88%91%E6%9C%9F500%E5%B9%B4%E5%B7%A6%E5%8F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [20余省已公布高考查分时间](https://www.baidu.com/s?wd=20%E4%BD%99%E7%9C%81%E5%B7%B2%E5%85%AC%E5%B8%83%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86%E6%97%B6%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [17岁女孩一晚连刷6套卷子后患脑病](https://www.baidu.com/s?wd=17%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%B8%80%E6%99%9A%E8%BF%9E%E5%88%B76%E5%A5%97%E5%8D%B7%E5%AD%90%E5%90%8E%E6%82%A3%E8%84%91%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [天津一小区爆炸 44辆救援车赶赴现场](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E4%B8%80%E5%B0%8F%E5%8C%BA%E7%88%86%E7%82%B8+44%E8%BE%86%E6%95%91%E6%8F%B4%E8%BD%A6%E8%B5%B6%E8%B5%B4%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [老农卖70斤菜获利14元被罚10万](https://www.baidu.com/s?wd=%E8%80%81%E5%86%9C%E5%8D%9670%E6%96%A4%E8%8F%9C%E8%8E%B7%E5%88%A914%E5%85%83%E8%A2%AB%E7%BD%9A10%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [日本核污水入海会造成什么影响](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%B0%B4%E5%85%A5%E6%B5%B7%E4%BC%9A%E9%80%A0%E6%88%90%E4%BB%80%E4%B9%88%E5%BD%B1%E5%93%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [笑果旗下公司擅自演出被罚](https://www.baidu.com/s?wd=%E7%AC%91%E6%9E%9C%E6%97%97%E4%B8%8B%E5%85%AC%E5%8F%B8%E6%93%85%E8%87%AA%E6%BC%94%E5%87%BA%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [格力主播穿免职裙 网友提醒被拉黑](https://www.baidu.com/s?wd=%E6%A0%BC%E5%8A%9B%E4%B8%BB%E6%92%AD%E7%A9%BF%E5%85%8D%E8%81%8C%E8%A3%99+%E7%BD%91%E5%8F%8B%E6%8F%90%E9%86%92%E8%A2%AB%E6%8B%89%E9%BB%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [前白宫官员预估特朗普刑期500年左右](https://www.baidu.com/s?wd=%E5%89%8D%E7%99%BD%E5%AE%AB%E5%AE%98%E5%91%98%E9%A2%84%E4%BC%B0%E7%89%B9%E6%9C%97%E6%99%AE%E5%88%91%E6%9C%9F500%E5%B9%B4%E5%B7%A6%E5%8F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
