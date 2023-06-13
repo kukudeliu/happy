@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 08:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 08:40:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [韩网红柬埔寨去世尸体被扔水沟](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%BD%91%E7%BA%A2%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%8E%BB%E4%B8%96%E5%B0%B8%E4%BD%93%E8%A2%AB%E6%89%94%E6%B0%B4%E6%B2%9F%23&t=31&band_rank=5&Refer=top)<br />
 6. [余生夫妇vs春晓夫妇](https://s.weibo.com/weibo?q=%23%E4%BD%99%E7%94%9F%E5%A4%AB%E5%A6%87vs%E6%98%A5%E6%99%93%E5%A4%AB%E5%A6%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [三子深夜大战不孕不育榴莲](https://s.weibo.com/weibo?q=%E4%B8%89%E5%AD%90%E6%B7%B1%E5%A4%9C%E5%A4%A7%E6%88%98%E4%B8%8D%E5%AD%95%E4%B8%8D%E8%82%B2%E6%A6%B4%E8%8E%B2&t=31&band_rank=7&Refer=top)<br />
-8. [中国唯一上榜的世界最美图书馆](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%94%AF%E4%B8%80%E4%B8%8A%E6%A6%9C%E7%9A%84%E4%B8%96%E7%95%8C%E6%9C%80%E7%BE%8E%E5%9B%BE%E4%B9%A6%E9%A6%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [60岁阿姨健身22年后的样子](https://s.weibo.com/weibo?q=%2360%E5%B2%81%E9%98%BF%E5%A7%A8%E5%81%A5%E8%BA%AB22%E5%B9%B4%E5%90%8E%E7%9A%84%E6%A0%B7%E5%AD%90%23&t=31&band_rank=9&Refer=top)<br />
+8. [60岁阿姨健身22年后的样子](https://s.weibo.com/weibo?q=%2360%E5%B2%81%E9%98%BF%E5%A7%A8%E5%81%A5%E8%BA%AB22%E5%B9%B4%E5%90%8E%E7%9A%84%E6%A0%B7%E5%AD%90%23&t=31&band_rank=8&Refer=top)<br />
+9. [朴灿烈 单封](https://s.weibo.com/weibo?q=%E6%9C%B4%E7%81%BF%E7%83%88%20%E5%8D%95%E5%B0%81&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
