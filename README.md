@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 20:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 20:22:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [王传君 INFP](https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BC%A0%E5%90%9B%20INFP&t=31&band_rank=6&Refer=top)<br />
 7. [猫的树好会拍](https://s.weibo.com/weibo?q=%E7%8C%AB%E7%9A%84%E6%A0%91%E5%A5%BD%E4%BC%9A%E6%8B%8D&t=31&band_rank=7&Refer=top)<br />
 8. [杭师大涉事男生发声](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B8%88%E5%A4%A7%E6%B6%89%E4%BA%8B%E7%94%B7%E7%94%9F%E5%8F%91%E5%A3%B0%23&t=31&band_rank=8&Refer=top)<br />
-9. [高考后妹妹得知姐姐已去世一个月](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%90%8E%E5%A6%B9%E5%A6%B9%E5%BE%97%E7%9F%A5%E5%A7%90%E5%A7%90%E5%B7%B2%E5%8E%BB%E4%B8%96%E4%B8%80%E4%B8%AA%E6%9C%88%23&t=31&band_rank=9&Refer=top)<br />
+9. [赵露思造型师换成闵塔鲨了](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E9%80%A0%E5%9E%8B%E5%B8%88%E6%8D%A2%E6%88%90%E9%97%B5%E5%A1%94%E9%B2%A8%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
