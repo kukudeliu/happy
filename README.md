@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 07:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 07:54:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [权志龙又买房了](https://s.weibo.com/weibo?q=%23%E6%9D%83%E5%BF%97%E9%BE%99%E5%8F%88%E4%B9%B0%E6%88%BF%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [笑果旗下公司擅自演出被罚](https://s.weibo.com/weibo?q=%23%E7%AC%91%E6%9E%9C%E6%97%97%E4%B8%8B%E5%85%AC%E5%8F%B8%E6%93%85%E8%87%AA%E6%BC%94%E5%87%BA%E8%A2%AB%E7%BD%9A%23&t=31&band_rank=7&Refer=top)<br />
 8. [天津两处居民楼爆炸致3人死亡](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E4%B8%A4%E5%A4%84%E5%B1%85%E6%B0%91%E6%A5%BC%E7%88%86%E7%82%B8%E8%87%B43%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [梦是一种心理上的转码过程](https://s.weibo.com/weibo?q=%E6%A2%A6%E6%98%AF%E4%B8%80%E7%A7%8D%E5%BF%83%E7%90%86%E4%B8%8A%E7%9A%84%E8%BD%AC%E7%A0%81%E8%BF%87%E7%A8%8B&t=31&band_rank=9&Refer=top)<br />
+9. [柯以敏 我比那英唱得更好](https://s.weibo.com/weibo?q=%E6%9F%AF%E4%BB%A5%E6%95%8F%20%E6%88%91%E6%AF%94%E9%82%A3%E8%8B%B1%E5%94%B1%E5%BE%97%E6%9B%B4%E5%A5%BD&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
