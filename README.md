@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 01:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 01:24:01</h4></div>
 
 > 微博  
 
@@ -32,9 +32,9 @@
 4. [20余省已公布高考查分时间](https://www.baidu.com/s?wd=20%E4%BD%99%E7%9C%81%E5%B7%B2%E5%85%AC%E5%B8%83%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86%E6%97%B6%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [17岁女孩一晚连刷6套卷子后患脑病](https://www.baidu.com/s?wd=17%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%B8%80%E6%99%9A%E8%BF%9E%E5%88%B76%E5%A5%97%E5%8D%B7%E5%AD%90%E5%90%8E%E6%82%A3%E8%84%91%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [天津一小区爆炸 44辆救援车赶赴现场](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E4%B8%80%E5%B0%8F%E5%8C%BA%E7%88%86%E7%82%B8+44%E8%BE%86%E6%95%91%E6%8F%B4%E8%BD%A6%E8%B5%B6%E8%B5%B4%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [美国一地数千条鲱鱼突然死亡](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%80%E5%9C%B0%E6%95%B0%E5%8D%83%E6%9D%A1%E9%B2%B1%E9%B1%BC%E7%AA%81%E7%84%B6%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [老人把死鸭子塞大货车车轮下讹司机](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E6%8A%8A%E6%AD%BB%E9%B8%AD%E5%AD%90%E5%A1%9E%E5%A4%A7%E8%B4%A7%E8%BD%A6%E8%BD%A6%E8%BD%AE%E4%B8%8B%E8%AE%B9%E5%8F%B8%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [笑果旗下公司擅自演出被罚](https://www.baidu.com/s?wd=%E7%AC%91%E6%9E%9C%E6%97%97%E4%B8%8B%E5%85%AC%E5%8F%B8%E6%93%85%E8%87%AA%E6%BC%94%E5%87%BA%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [95号汽油进入7元时代](https://www.baidu.com/s?wd=95%E5%8F%B7%E6%B1%BD%E6%B2%B9%E8%BF%9B%E5%85%A57%E5%85%83%E6%97%B6%E4%BB%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [医院墙塌精神病人满街跑?目击者辟谣](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%A2%99%E5%A1%8C%E7%B2%BE%E7%A5%9E%E7%97%85%E4%BA%BA%E6%BB%A1%E8%A1%97%E8%B7%91%3F%E7%9B%AE%E5%87%BB%E8%80%85%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [20余省已公布高考查分时间](https://www.baidu.com/s?wd=20%E4%BD%99%E7%9C%81%E5%B7%B2%E5%85%AC%E5%B8%83%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86%E6%97%B6%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [17岁女孩一晚连刷6套卷子后患脑病](https://www.baidu.com/s?wd=17%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%B8%80%E6%99%9A%E8%BF%9E%E5%88%B76%E5%A5%97%E5%8D%B7%E5%AD%90%E5%90%8E%E6%82%A3%E8%84%91%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [天津一小区爆炸 44辆救援车赶赴现场](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E4%B8%80%E5%B0%8F%E5%8C%BA%E7%88%86%E7%82%B8+44%E8%BE%86%E6%95%91%E6%8F%B4%E8%BD%A6%E8%B5%B6%E8%B5%B4%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [美国一地数千条鲱鱼突然死亡](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%80%E5%9C%B0%E6%95%B0%E5%8D%83%E6%9D%A1%E9%B2%B1%E9%B1%BC%E7%AA%81%E7%84%B6%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [老人把死鸭子塞大货车车轮下讹司机](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E6%8A%8A%E6%AD%BB%E9%B8%AD%E5%AD%90%E5%A1%9E%E5%A4%A7%E8%B4%A7%E8%BD%A6%E8%BD%A6%E8%BD%AE%E4%B8%8B%E8%AE%B9%E5%8F%B8%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [笑果旗下公司擅自演出被罚](https://www.baidu.com/s?wd=%E7%AC%91%E6%9E%9C%E6%97%97%E4%B8%8B%E5%85%AC%E5%8F%B8%E6%93%85%E8%87%AA%E6%BC%94%E5%87%BA%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [95号汽油进入7元时代](https://www.baidu.com/s?wd=95%E5%8F%B7%E6%B1%BD%E6%B2%B9%E8%BF%9B%E5%85%A57%E5%85%83%E6%97%B6%E4%BB%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [医院墙塌精神病人满街跑?目击者辟谣](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%A2%99%E5%A1%8C%E7%B2%BE%E7%A5%9E%E7%97%85%E4%BA%BA%E6%BB%A1%E8%A1%97%E8%B7%91%3F%E7%9B%AE%E5%87%BB%E8%80%85%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
