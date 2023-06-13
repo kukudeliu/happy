@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 18:19:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 18:20:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [杭师大涉事男生发声](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B8%88%E5%A4%A7%E6%B6%89%E4%BA%8B%E7%94%B7%E7%94%9F%E5%8F%91%E5%A3%B0%23&t=31&band_rank=6&Refer=top)<br />
 7. [男子被困冷库环卫工路过救一命](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%A2%AB%E5%9B%B0%E5%86%B7%E5%BA%93%E7%8E%AF%E5%8D%AB%E5%B7%A5%E8%B7%AF%E8%BF%87%E6%95%91%E4%B8%80%E5%91%BD%23&t=31&band_rank=7&Refer=top)<br />
 8. [为什么夏天都不穿凉鞋了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%8F%E5%A4%A9%E9%83%BD%E4%B8%8D%E7%A9%BF%E5%87%89%E9%9E%8B%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [赵露思好美](https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%A5%BD%E7%BE%8E&t=31&band_rank=9&Refer=top)<br />
+9. [格力主播穿免职裙](https://s.weibo.com/weibo?q=%23%E6%A0%BC%E5%8A%9B%E4%B8%BB%E6%92%AD%E7%A9%BF%E5%85%8D%E8%81%8C%E8%A3%99%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
