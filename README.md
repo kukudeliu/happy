@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 17:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 17:04:01</h4></div>
 
 > 微博  
 
@@ -32,7 +32,7 @@
 4. [毕业歌送给1158万毕业生](https://www.baidu.com/s?wd=%E6%AF%95%E4%B8%9A%E6%AD%8C%E9%80%81%E7%BB%991158%E4%B8%87%E6%AF%95%E4%B8%9A%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [疑似杭州师大偷拍事件女生家属发声](https://www.baidu.com/s?wd=%E7%96%91%E4%BC%BC%E6%9D%AD%E5%B7%9E%E5%B8%88%E5%A4%A7%E5%81%B7%E6%8B%8D%E4%BA%8B%E4%BB%B6%E5%A5%B3%E7%94%9F%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [江歌母亲:刘鑫不服二审判决申请再审](https://www.baidu.com/s?wd=%E6%B1%9F%E6%AD%8C%E6%AF%8D%E4%BA%B2%3A%E5%88%98%E9%91%AB%E4%B8%8D%E6%9C%8D%E4%BA%8C%E5%AE%A1%E5%88%A4%E5%86%B3%E7%94%B3%E8%AF%B7%E5%86%8D%E5%AE%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [小米遭遇杀猪盘 被印度没收48亿](https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E9%81%AD%E9%81%87%E6%9D%80%E7%8C%AA%E7%9B%98+%E8%A2%AB%E5%8D%B0%E5%BA%A6%E6%B2%A1%E6%94%B648%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男生挤痘流血近1小时：用了400张纸](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E6%8C%A4%E7%97%98%E6%B5%81%E8%A1%80%E8%BF%911%E5%B0%8F%E6%97%B6%EF%BC%9A%E7%94%A8%E4%BA%86400%E5%BC%A0%E7%BA%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#赵丽颖冯绍峰离婚后首次同框带娃#](https://www.baidu.com/s?wd=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%86%AF%E7%BB%8D%E5%B3%B0%E7%A6%BB%E5%A9%9A%E5%90%8E%E9%A6%96%E6%AC%A1%E5%90%8C%E6%A1%86%E5%B8%A6%E5%A8%83%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [小伙中1000万大奖:先去上个班](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E4%B8%AD1000%E4%B8%87%E5%A4%A7%E5%A5%96%3A%E5%85%88%E5%8E%BB%E4%B8%8A%E4%B8%AA%E7%8F%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -44,6 +44,6 @@
 4. [毕业歌送给1158万毕业生](https://www.baidu.com/s?wd=%E6%AF%95%E4%B8%9A%E6%AD%8C%E9%80%81%E7%BB%991158%E4%B8%87%E6%AF%95%E4%B8%9A%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [疑似杭州师大偷拍事件女生家属发声](https://www.baidu.com/s?wd=%E7%96%91%E4%BC%BC%E6%9D%AD%E5%B7%9E%E5%B8%88%E5%A4%A7%E5%81%B7%E6%8B%8D%E4%BA%8B%E4%BB%B6%E5%A5%B3%E7%94%9F%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [江歌母亲:刘鑫不服二审判决申请再审](https://www.baidu.com/s?wd=%E6%B1%9F%E6%AD%8C%E6%AF%8D%E4%BA%B2%3A%E5%88%98%E9%91%AB%E4%B8%8D%E6%9C%8D%E4%BA%8C%E5%AE%A1%E5%88%A4%E5%86%B3%E7%94%B3%E8%AF%B7%E5%86%8D%E5%AE%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [小米遭遇杀猪盘 被印度没收48亿](https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E9%81%AD%E9%81%87%E6%9D%80%E7%8C%AA%E7%9B%98+%E8%A2%AB%E5%8D%B0%E5%BA%A6%E6%B2%A1%E6%94%B648%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男生挤痘流血近1小时：用了400张纸](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E6%8C%A4%E7%97%98%E6%B5%81%E8%A1%80%E8%BF%911%E5%B0%8F%E6%97%B6%EF%BC%9A%E7%94%A8%E4%BA%86400%E5%BC%A0%E7%BA%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#赵丽颖冯绍峰离婚后首次同框带娃#](https://www.baidu.com/s?wd=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%86%AF%E7%BB%8D%E5%B3%B0%E7%A6%BB%E5%A9%9A%E5%90%8E%E9%A6%96%E6%AC%A1%E5%90%8C%E6%A1%86%E5%B8%A6%E5%A8%83%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [小伙中1000万大奖:先去上个班](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E4%B8%AD1000%E4%B8%87%E5%A4%A7%E5%A5%96%3A%E5%85%88%E5%8E%BB%E4%B8%8A%E4%B8%AA%E7%8F%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
