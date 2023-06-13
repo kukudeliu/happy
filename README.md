@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 16:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 16:15:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [江歌母亲:刘鑫不服二审判决申请再审](https://www.baidu.com/s?wd=%E6%B1%9F%E6%AD%8C%E6%AF%8D%E4%BA%B2%3A%E5%88%98%E9%91%AB%E4%B8%8D%E6%9C%8D%E4%BA%8C%E5%AE%A1%E5%88%A4%E5%86%B3%E7%94%B3%E8%AF%B7%E5%86%8D%E5%AE%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [“上四休三”的老板后悔了](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%8A%E5%9B%9B%E4%BC%91%E4%B8%89%E2%80%9D%E7%9A%84%E8%80%81%E6%9D%BF%E5%90%8E%E6%82%94%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#赵丽颖冯绍峰离婚后首次同框带娃#](https://www.baidu.com/s?wd=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%86%AF%E7%BB%8D%E5%B3%B0%E7%A6%BB%E5%A9%9A%E5%90%8E%E9%A6%96%E6%AC%A1%E5%90%8C%E6%A1%86%E5%B8%A6%E5%A8%83%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [局长妻子长期吃空饷？单位回应](https://www.baidu.com/s?wd=%E5%B1%80%E9%95%BF%E5%A6%BB%E5%AD%90%E9%95%BF%E6%9C%9F%E5%90%83%E7%A9%BA%E9%A5%B7%EF%BC%9F%E5%8D%95%E4%BD%8D%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子进碎石机看零件被绞身亡](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%BF%9B%E7%A2%8E%E7%9F%B3%E6%9C%BA%E7%9C%8B%E9%9B%B6%E4%BB%B6%E8%A2%AB%E7%BB%9E%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [江歌母亲:刘鑫不服二审判决申请再审](https://www.baidu.com/s?wd=%E6%B1%9F%E6%AD%8C%E6%AF%8D%E4%BA%B2%3A%E5%88%98%E9%91%AB%E4%B8%8D%E6%9C%8D%E4%BA%8C%E5%AE%A1%E5%88%A4%E5%86%B3%E7%94%B3%E8%AF%B7%E5%86%8D%E5%AE%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [“上四休三”的老板后悔了](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%8A%E5%9B%9B%E4%BC%91%E4%B8%89%E2%80%9D%E7%9A%84%E8%80%81%E6%9D%BF%E5%90%8E%E6%82%94%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#赵丽颖冯绍峰离婚后首次同框带娃#](https://www.baidu.com/s?wd=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%86%AF%E7%BB%8D%E5%B3%B0%E7%A6%BB%E5%A9%9A%E5%90%8E%E9%A6%96%E6%AC%A1%E5%90%8C%E6%A1%86%E5%B8%A6%E5%A8%83%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [局长妻子长期吃空饷？单位回应](https://www.baidu.com/s?wd=%E5%B1%80%E9%95%BF%E5%A6%BB%E5%AD%90%E9%95%BF%E6%9C%9F%E5%90%83%E7%A9%BA%E9%A5%B7%EF%BC%9F%E5%8D%95%E4%BD%8D%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子进碎石机看零件被绞身亡](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%BF%9B%E7%A2%8E%E7%9F%B3%E6%9C%BA%E7%9C%8B%E9%9B%B6%E4%BB%B6%E8%A2%AB%E7%BB%9E%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
