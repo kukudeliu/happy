@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 15:06:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 15:07:01</h4></div>
 
 > 微博  
 
@@ -15,8 +15,8 @@
 > 知乎  
 
 1. [韩网红柬埔寨旅游去世尸体被扔水沟，目前事件调查进展如何？](https://www.zhihu.com/question/606229094)<br />
-2. [我家离村子里面 5km 左右，运营商看过后说安不了宽带，能自己拉吗？或者说硬要拉的话，要花多少钱？](https://www.zhihu.com/question/597026273)<br />
-3. [高考完想换 iPhone 14 Pro，爸妈觉得太贵，准大学生想用 iPhone 14 Pro 奢侈吗？](https://www.zhihu.com/question/604348759)<br />
+2. [高考完想换 iPhone 14 Pro，爸妈觉得太贵，准大学生想用 iPhone 14 Pro 奢侈吗？](https://www.zhihu.com/question/604348759)<br />
+3. [我家离村子里面 5km 左右，运营商看过后说安不了宽带，能自己拉吗？或者说硬要拉的话，要花多少钱？](https://www.zhihu.com/question/597026273)<br />
 4. [马路晒麦子致男子摔伤，4 小时没等来麦子主人，派出所将麦子判给男子，卖 1800 元弥补损失，如何看待？](https://www.zhihu.com/question/606075840)<br />
 5. [江西财经大学近年招收大量专升本考生，专升本学生占比迅速上升，是否会对本科统招造成影响？](https://www.zhihu.com/question/605899790)<br />
 6. [读博该怎么和导师相处？](https://www.zhihu.com/question/605982190)<br />
