@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 21:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 21:27:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [当夏日美景遇上古诗词](https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%A4%8F%E6%97%A5%E7%BE%8E%E6%99%AF%E9%81%87%E4%B8%8A%E5%8F%A4%E8%AF%97%E8%AF%8D%23&t=31&band_rank=3&Refer=top)<br />
 4. [有刘海的周也](https://s.weibo.com/weibo?q=%23%E6%9C%89%E5%88%98%E6%B5%B7%E7%9A%84%E5%91%A8%E4%B9%9F%23&t=31&band_rank=4&Refer=top)<br />
 5. [杭师大涉事男生发声](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B8%88%E5%A4%A7%E6%B6%89%E4%BA%8B%E7%94%B7%E7%94%9F%E5%8F%91%E5%A3%B0%23&t=31&band_rank=5&Refer=top)<br />
-6. [詹雯婷控告陈建宁反遭起诉](https://s.weibo.com/weibo?q=%23%E8%A9%B9%E9%9B%AF%E5%A9%B7%E6%8E%A7%E5%91%8A%E9%99%88%E5%BB%BA%E5%AE%81%E5%8F%8D%E9%81%AD%E8%B5%B7%E8%AF%89%23&t=31&band_rank=6&Refer=top)<br />
-7. [赵露思造型师换成闵塔鲨了](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E9%80%A0%E5%9E%8B%E5%B8%88%E6%8D%A2%E6%88%90%E9%97%B5%E5%A1%94%E9%B2%A8%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+6. [赵露思造型师换成闵塔鲨了](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E9%80%A0%E5%9E%8B%E5%B8%88%E6%8D%A2%E6%88%90%E9%97%B5%E5%A1%94%E9%B2%A8%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
+7. [詹雯婷控告陈建宁反遭起诉](https://s.weibo.com/weibo?q=%23%E8%A9%B9%E9%9B%AF%E5%A9%B7%E6%8E%A7%E5%91%8A%E9%99%88%E5%BB%BA%E5%AE%81%E5%8F%8D%E9%81%AD%E8%B5%B7%E8%AF%89%23&t=31&band_rank=7&Refer=top)<br />
 8. [梅西说不会参加下届世界杯](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%AF%B4%E4%B8%8D%E4%BC%9A%E5%8F%82%E5%8A%A0%E4%B8%8B%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%23&t=31&band_rank=8&Refer=top)<br />
 9. [312斤女网红在减肥营离世年仅21岁](https://s.weibo.com/weibo?q=%23312%E6%96%A4%E5%A5%B3%E7%BD%91%E7%BA%A2%E5%9C%A8%E5%87%8F%E8%82%A5%E8%90%A5%E7%A6%BB%E4%B8%96%E5%B9%B4%E4%BB%8521%E5%B2%81%23&t=31&band_rank=9&Refer=top)<br />
 
