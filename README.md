@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 15:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 15:03:01</h4></div>
 
 > 微博  
 
@@ -19,10 +19,10 @@
 3. [高考完想换 iPhone 14 Pro，爸妈觉得太贵，准大学生想用 iPhone 14 Pro 奢侈吗？](https://www.zhihu.com/question/604348759)<br />
 4. [马路晒麦子致男子摔伤，4 小时没等来麦子主人，派出所将麦子判给男子，卖 1800 元弥补损失，如何看待？](https://www.zhihu.com/question/606075840)<br />
 5. [江西财经大学近年招收大量专升本考生，专升本学生占比迅速上升，是否会对本科统招造成影响？](https://www.zhihu.com/question/605899790)<br />
-6. [上班时间戴耳机被领导询问「你带着耳机干什么？」，该如何回答？](https://www.zhihu.com/question/603988977)<br />
-7. [如何看待 TheSnake 选手这极有可能首发出战的唯一一场 LPL 比赛？](https://www.zhihu.com/question/606128538)<br />
+6. [读博该怎么和导师相处？](https://www.zhihu.com/question/605982190)<br />
+7. [上班时间戴耳机被领导询问「你带着耳机干什么？」，该如何回答？](https://www.zhihu.com/question/603988977)<br />
 8. [男子地铁上被两女子称鞋面装摄像头偷拍，民警调查证其清白，男子拒绝接受道歉并希望起诉，后续将如何发展？](https://www.zhihu.com/question/606317343)<br />
-9. [选择加盟迈阿密国际，对于梅西的利弊是什么？为什么很多讲西语和葡语的球员在职业生涯中会越来越往南走？](https://www.zhihu.com/question/606268166)<br />
+9. [如何看待 TheSnake 选手这极有可能首发出战的唯一一场 LPL 比赛？](https://www.zhihu.com/question/606128538)<br />
 
 > 百度  
 
