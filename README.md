@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 05:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 05:26:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [笑果旗下公司擅自演出被罚](https://s.weibo.com/weibo?q=%23%E7%AC%91%E6%9E%9C%E6%97%97%E4%B8%8B%E5%85%AC%E5%8F%B8%E6%93%85%E8%87%AA%E6%BC%94%E5%87%BA%E8%A2%AB%E7%BD%9A%23&t=31&band_rank=5&Refer=top)<br />
 6. [312斤女网红在减肥营离世年仅21岁](https://s.weibo.com/weibo?q=%23312%E6%96%A4%E5%A5%B3%E7%BD%91%E7%BA%A2%E5%9C%A8%E5%87%8F%E8%82%A5%E8%90%A5%E7%A6%BB%E4%B8%96%E5%B9%B4%E4%BB%8521%E5%B2%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [高考后妹妹得知姐姐已去世一个月](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%90%8E%E5%A6%B9%E5%A6%B9%E5%BE%97%E7%9F%A5%E5%A7%90%E5%A7%90%E5%B7%B2%E5%8E%BB%E4%B8%96%E4%B8%80%E4%B8%AA%E6%9C%88%23&t=31&band_rank=7&Refer=top)<br />
-8. [权志龙又买房了](https://s.weibo.com/weibo?q=%23%E6%9D%83%E5%BF%97%E9%BE%99%E5%8F%88%E4%B9%B0%E6%88%BF%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [梦海给我调到第20集32分17秒](https://s.weibo.com/weibo?q=%E6%A2%A6%E6%B5%B7%E7%BB%99%E6%88%91%E8%B0%83%E5%88%B0%E7%AC%AC20%E9%9B%8632%E5%88%8617%E7%A7%92&t=31&band_rank=9&Refer=top)<br />
+8. [梦海给我调到第20集32分17秒](https://s.weibo.com/weibo?q=%E6%A2%A6%E6%B5%B7%E7%BB%99%E6%88%91%E8%B0%83%E5%88%B0%E7%AC%AC20%E9%9B%8632%E5%88%8617%E7%A7%92&t=31&band_rank=8&Refer=top)<br />
+9. [权志龙又买房了](https://s.weibo.com/weibo?q=%23%E6%9D%83%E5%BF%97%E9%BE%99%E5%8F%88%E4%B9%B0%E6%88%BF%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -20,8 +20,8 @@
 4. [「天天午睡」和「从不午睡」的人，区别在哪？](https://www.zhihu.com/question/433139582)<br />
 5. [消息人士称美政府正在秘密研拟在台美国公民的撤侨预案，外交部回应台民众会认清美「毁台」本质，如何解读？](https://www.zhihu.com/question/606369471)<br />
 6. [我家离村子里面 5km 左右，运营商看过后说安不了宽带，能自己拉吗？或者说硬要拉的话，要花多少钱？](https://www.zhihu.com/question/597026273)<br />
-7. [美国院士称初步复现 Dias 团队的近常压室温超导研究，可信度有多高？](https://www.zhihu.com/question/606341241)<br />
-8. []()<br />
+7. []()<br />
+8. [美国院士称初步复现 Dias 团队的近常压室温超导研究，可信度有多高？](https://www.zhihu.com/question/606341241)<br />
 9. []()<br />
 
 > 百度  
