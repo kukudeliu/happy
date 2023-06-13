@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 08:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 08:42:02</h4></div>
 
 > 微博  
 
@@ -19,10 +19,10 @@
 3. [韩网红柬埔寨旅游去世尸体被扔水沟，目前事件调查进展如何？](https://www.zhihu.com/question/606229094)<br />
 4. [马路晒麦子致男子摔伤，4 小时没等来麦子主人，派出所将麦子判给男子，卖 1800 元弥补损失，如何看待？](https://www.zhihu.com/question/606075840)<br />
 5. [越南严重缺电，富士康、三星等工厂受影响，时隔 7 年我国重启对越送电，哪些信息值得关注？](https://www.zhihu.com/question/606164349)<br />
-6. [柯文哲称若当选将发动网军瘫痪大陆高铁、取款机，此前在「钓鱼岛、核废水」等议题讨好日本人，透露哪些信息？](https://www.zhihu.com/question/606148038)<br />
-7. [比亚迪香港四店面 3 小时内遭连环破坏，目前情况如何？作案动机可能是什么？](https://www.zhihu.com/question/606262026)<br />
-8. [为什么真人版的毛利兰都没有角？](https://www.zhihu.com/question/286452082)<br />
-9. [我家离村子里面 5km 左右，运营商看过后说安不了宽带，能自己拉吗？或者说硬要拉的话，要花多少钱？](https://www.zhihu.com/question/597026273)<br />
+6. [我家离村子里面 5km 左右，运营商看过后说安不了宽带，能自己拉吗？或者说硬要拉的话，要花多少钱？](https://www.zhihu.com/question/597026273)<br />
+7. [柯文哲称若当选将发动网军瘫痪大陆高铁、取款机，此前在「钓鱼岛、核废水」等议题讨好日本人，透露哪些信息？](https://www.zhihu.com/question/606148038)<br />
+8. [比亚迪香港四店面 3 小时内遭连环破坏，目前情况如何？作案动机可能是什么？](https://www.zhihu.com/question/606262026)<br />
+9. [为什么真人版的毛利兰都没有角？](https://www.zhihu.com/question/286452082)<br />
 
 > 百度  
 
@@ -31,9 +31,9 @@
 3. [发文件禁止婚外情和出轨 公司回应](https://www.baidu.com/s?wd=%E5%8F%91%E6%96%87%E4%BB%B6%E7%A6%81%E6%AD%A2%E5%A9%9A%E5%A4%96%E6%83%85%E5%92%8C%E5%87%BA%E8%BD%A8+%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [疏源浚流 与古为新](https://www.baidu.com/s?wd=%E7%96%8F%E6%BA%90%E6%B5%9A%E6%B5%81+%E4%B8%8E%E5%8F%A4%E4%B8%BA%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [买到水龄16500年矿泉水?专家:不科学](https://www.baidu.com/s?wd=%E4%B9%B0%E5%88%B0%E6%B0%B4%E9%BE%8416500%E5%B9%B4%E7%9F%BF%E6%B3%89%E6%B0%B4%3F%E4%B8%93%E5%AE%B6%3A%E4%B8%8D%E7%A7%91%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [中纪委“内鬼”刘燃被“双开”](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BA%AA%E5%A7%94%E2%80%9C%E5%86%85%E9%AC%BC%E2%80%9D%E5%88%98%E7%87%83%E8%A2%AB%E2%80%9C%E5%8F%8C%E5%BC%80%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [2药企被罚3.2亿 救命药短缺频发背后](https://www.baidu.com/s?wd=2%E8%8D%AF%E4%BC%81%E8%A2%AB%E7%BD%9A3.2%E4%BA%BF+%E6%95%91%E5%91%BD%E8%8D%AF%E7%9F%AD%E7%BC%BA%E9%A2%91%E5%8F%91%E8%83%8C%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [杭州师大女生骂男生变态后称认错人](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%B8%88%E5%A4%A7%E5%A5%B3%E7%94%9F%E9%AA%82%E7%94%B7%E7%94%9F%E5%8F%98%E6%80%81%E5%90%8E%E7%A7%B0%E8%AE%A4%E9%94%99%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [杭州师大女生骂男生变态后称认错人](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%B8%88%E5%A4%A7%E5%A5%B3%E7%94%9F%E9%AA%82%E7%94%B7%E7%94%9F%E5%8F%98%E6%80%81%E5%90%8E%E7%A7%B0%E8%AE%A4%E9%94%99%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [中纪委“内鬼”刘燃被“双开”](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BA%AA%E5%A7%94%E2%80%9C%E5%86%85%E9%AC%BC%E2%80%9D%E5%88%98%E7%87%83%E8%A2%AB%E2%80%9C%E5%8F%8C%E5%BC%80%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [2药企被罚3.2亿 救命药短缺频发背后](https://www.baidu.com/s?wd=2%E8%8D%AF%E4%BC%81%E8%A2%AB%E7%BD%9A3.2%E4%BA%BF+%E6%95%91%E5%91%BD%E8%8D%AF%E7%9F%AD%E7%BC%BA%E9%A2%91%E5%8F%91%E8%83%8C%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [范志毅回复村超邀请：必须来](https://www.baidu.com/s?wd=%E8%8C%83%E5%BF%97%E6%AF%85%E5%9B%9E%E5%A4%8D%E6%9D%91%E8%B6%85%E9%82%80%E8%AF%B7%EF%BC%9A%E5%BF%85%E9%A1%BB%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -43,7 +43,7 @@
 3. [发文件禁止婚外情和出轨 公司回应](https://www.baidu.com/s?wd=%E5%8F%91%E6%96%87%E4%BB%B6%E7%A6%81%E6%AD%A2%E5%A9%9A%E5%A4%96%E6%83%85%E5%92%8C%E5%87%BA%E8%BD%A8+%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [疏源浚流 与古为新](https://www.baidu.com/s?wd=%E7%96%8F%E6%BA%90%E6%B5%9A%E6%B5%81+%E4%B8%8E%E5%8F%A4%E4%B8%BA%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [买到水龄16500年矿泉水?专家:不科学](https://www.baidu.com/s?wd=%E4%B9%B0%E5%88%B0%E6%B0%B4%E9%BE%8416500%E5%B9%B4%E7%9F%BF%E6%B3%89%E6%B0%B4%3F%E4%B8%93%E5%AE%B6%3A%E4%B8%8D%E7%A7%91%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [中纪委“内鬼”刘燃被“双开”](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BA%AA%E5%A7%94%E2%80%9C%E5%86%85%E9%AC%BC%E2%80%9D%E5%88%98%E7%87%83%E8%A2%AB%E2%80%9C%E5%8F%8C%E5%BC%80%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [2药企被罚3.2亿 救命药短缺频发背后](https://www.baidu.com/s?wd=2%E8%8D%AF%E4%BC%81%E8%A2%AB%E7%BD%9A3.2%E4%BA%BF+%E6%95%91%E5%91%BD%E8%8D%AF%E7%9F%AD%E7%BC%BA%E9%A2%91%E5%8F%91%E8%83%8C%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [杭州师大女生骂男生变态后称认错人](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%B8%88%E5%A4%A7%E5%A5%B3%E7%94%9F%E9%AA%82%E7%94%B7%E7%94%9F%E5%8F%98%E6%80%81%E5%90%8E%E7%A7%B0%E8%AE%A4%E9%94%99%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [杭州师大女生骂男生变态后称认错人](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%B8%88%E5%A4%A7%E5%A5%B3%E7%94%9F%E9%AA%82%E7%94%B7%E7%94%9F%E5%8F%98%E6%80%81%E5%90%8E%E7%A7%B0%E8%AE%A4%E9%94%99%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [中纪委“内鬼”刘燃被“双开”](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BA%AA%E5%A7%94%E2%80%9C%E5%86%85%E9%AC%BC%E2%80%9D%E5%88%98%E7%87%83%E8%A2%AB%E2%80%9C%E5%8F%8C%E5%BC%80%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [2药企被罚3.2亿 救命药短缺频发背后](https://www.baidu.com/s?wd=2%E8%8D%AF%E4%BC%81%E8%A2%AB%E7%BD%9A3.2%E4%BA%BF+%E6%95%91%E5%91%BD%E8%8D%AF%E7%9F%AD%E7%BC%BA%E9%A2%91%E5%8F%91%E8%83%8C%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [范志毅回复村超邀请：必须来](https://www.baidu.com/s?wd=%E8%8C%83%E5%BF%97%E6%AF%85%E5%9B%9E%E5%A4%8D%E6%9D%91%E8%B6%85%E9%82%80%E8%AF%B7%EF%BC%9A%E5%BF%85%E9%A1%BB%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
