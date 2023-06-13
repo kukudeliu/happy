@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 08:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 08:51:01</h4></div>
 
 > 微博  
 
-1. [杭州师范大学](https://s.weibo.com/weibo?q=%E6%9D%AD%E5%B7%9E%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6&t=31&band_rank=1&Refer=top)<br />
-2. [现代人已经不吃鸡汤了](https://s.weibo.com/weibo?q=%E7%8E%B0%E4%BB%A3%E4%BA%BA%E5%B7%B2%E7%BB%8F%E4%B8%8D%E5%90%83%E9%B8%A1%E6%B1%A4%E4%BA%86&t=31&band_rank=2&Refer=top)<br />
+1. [现代人已经不吃鸡汤了](https://s.weibo.com/weibo?q=%E7%8E%B0%E4%BB%A3%E4%BA%BA%E5%B7%B2%E7%BB%8F%E4%B8%8D%E5%90%83%E9%B8%A1%E6%B1%A4%E4%BA%86&t=31&band_rank=1&Refer=top)<br />
+2. [杭州师范大学](https://s.weibo.com/weibo?q=%E6%9D%AD%E5%B7%9E%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6&t=31&band_rank=2&Refer=top)<br />
 3. [短途游3小时高铁圈](https://s.weibo.com/weibo?q=%23%E7%9F%AD%E9%80%94%E6%B8%B83%E5%B0%8F%E6%97%B6%E9%AB%98%E9%93%81%E5%9C%88%23&t=31&band_rank=3&Refer=top)<br />
 4. [发小喊了四年终于离职了](https://s.weibo.com/weibo?q=%E5%8F%91%E5%B0%8F%E5%96%8A%E4%BA%86%E5%9B%9B%E5%B9%B4%E7%BB%88%E4%BA%8E%E7%A6%BB%E8%81%8C%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
 5. [杜海涛卡点晒照为沈梦辰庆生](https://s.weibo.com/weibo?q=%23%E6%9D%9C%E6%B5%B7%E6%B6%9B%E5%8D%A1%E7%82%B9%E6%99%92%E7%85%A7%E4%B8%BA%E6%B2%88%E6%A2%A6%E8%BE%B0%E5%BA%86%E7%94%9F%23&t=31&band_rank=5&Refer=top)<br />
