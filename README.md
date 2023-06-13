@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 21:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 21:09:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [房东回应女孩结婚退租时打扫干净房子](https://s.weibo.com/weibo?q=%23%E6%88%BF%E4%B8%9C%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%A9%E7%BB%93%E5%A9%9A%E9%80%80%E7%A7%9F%E6%97%B6%E6%89%93%E6%89%AB%E5%B9%B2%E5%87%80%E6%88%BF%E5%AD%90%23&t=31&band_rank=5&Refer=top)<br />
 6. [有刘海的周也](https://s.weibo.com/weibo?q=%23%E6%9C%89%E5%88%98%E6%B5%B7%E7%9A%84%E5%91%A8%E4%B9%9F%23&t=31&band_rank=6&Refer=top)<br />
 7. [王传君 INFP](https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BC%A0%E5%90%9B%20INFP&t=31&band_rank=7&Refer=top)<br />
-8. [赵露思造型师换成闵塔鲨了](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E9%80%A0%E5%9E%8B%E5%B8%88%E6%8D%A2%E6%88%90%E9%97%B5%E5%A1%94%E9%B2%A8%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [清潭国际高中](https://s.weibo.com/weibo?q=%E6%B8%85%E6%BD%AD%E5%9B%BD%E9%99%85%E9%AB%98%E4%B8%AD&t=31&band_rank=9&Refer=top)<br />
+8. [詹雯婷控告陈建宁反遭起诉](https://s.weibo.com/weibo?q=%23%E8%A9%B9%E9%9B%AF%E5%A9%B7%E6%8E%A7%E5%91%8A%E9%99%88%E5%BB%BA%E5%AE%81%E5%8F%8D%E9%81%AD%E8%B5%B7%E8%AF%89%23&t=31&band_rank=8&Refer=top)<br />
+9. [赵露思造型师换成闵塔鲨了](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E9%80%A0%E5%9E%8B%E5%B8%88%E6%8D%A2%E6%88%90%E9%97%B5%E5%A1%94%E9%B2%A8%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -31,10 +31,10 @@
 3. [强戒小伙戴着手脚铐领证结婚](https://www.baidu.com/s?wd=%E5%BC%BA%E6%88%92%E5%B0%8F%E4%BC%99%E6%88%B4%E7%9D%80%E6%89%8B%E8%84%9A%E9%93%90%E9%A2%86%E8%AF%81%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [毕业歌送给1158万毕业生](https://www.baidu.com/s?wd=%E6%AF%95%E4%B8%9A%E6%AD%8C%E9%80%81%E7%BB%991158%E4%B8%87%E6%AF%95%E4%B8%9A%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子家中进蜜蜂 半小时被筑超大蜂巢](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%AE%B6%E4%B8%AD%E8%BF%9B%E8%9C%9C%E8%9C%82+%E5%8D%8A%E5%B0%8F%E6%97%B6%E8%A2%AB%E7%AD%91%E8%B6%85%E5%A4%A7%E8%9C%82%E5%B7%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男生被老师掌掴后还手 学校回应](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E8%A2%AB%E8%80%81%E5%B8%88%E6%8E%8C%E6%8E%B4%E5%90%8E%E8%BF%98%E6%89%8B+%E5%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [梅西：未来不想当教练](https://www.baidu.com/s?wd=%E6%A2%85%E8%A5%BF%EF%BC%9A%E6%9C%AA%E6%9D%A5%E4%B8%8D%E6%83%B3%E5%BD%93%E6%95%99%E7%BB%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [95号汽油进入7元时代](https://www.baidu.com/s?wd=95%E5%8F%B7%E6%B1%BD%E6%B2%B9%E8%BF%9B%E5%85%A57%E5%85%83%E6%97%B6%E4%BB%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [被官媒揭穿的“防晒衣”套路深](https://www.baidu.com/s?wd=%E8%A2%AB%E5%AE%98%E5%AA%92%E6%8F%AD%E7%A9%BF%E7%9A%84%E2%80%9C%E9%98%B2%E6%99%92%E8%A1%A3%E2%80%9D%E5%A5%97%E8%B7%AF%E6%B7%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [男子街边遗弃女儿？警方回应](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A1%97%E8%BE%B9%E9%81%97%E5%BC%83%E5%A5%B3%E5%84%BF%EF%BC%9F%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [95号汽油进入7元时代](https://www.baidu.com/s?wd=95%E5%8F%B7%E6%B1%BD%E6%B2%B9%E8%BF%9B%E5%85%A57%E5%85%83%E6%97%B6%E4%BB%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [杨子首谈黄圣依被封杀](https://www.baidu.com/s?wd=%E6%9D%A8%E5%AD%90%E9%A6%96%E8%B0%88%E9%BB%84%E5%9C%A3%E4%BE%9D%E8%A2%AB%E5%B0%81%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [小伙中1000万大奖:先去上个班](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E4%B8%AD1000%E4%B8%87%E5%A4%A7%E5%A5%96%3A%E5%85%88%E5%8E%BB%E4%B8%8A%E4%B8%AA%E7%8F%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [强戒小伙戴着手脚铐领证结婚](https://www.baidu.com/s?wd=%E5%BC%BA%E6%88%92%E5%B0%8F%E4%BC%99%E6%88%B4%E7%9D%80%E6%89%8B%E8%84%9A%E9%93%90%E9%A2%86%E8%AF%81%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [毕业歌送给1158万毕业生](https://www.baidu.com/s?wd=%E6%AF%95%E4%B8%9A%E6%AD%8C%E9%80%81%E7%BB%991158%E4%B8%87%E6%AF%95%E4%B8%9A%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子家中进蜜蜂 半小时被筑超大蜂巢](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%AE%B6%E4%B8%AD%E8%BF%9B%E8%9C%9C%E8%9C%82+%E5%8D%8A%E5%B0%8F%E6%97%B6%E8%A2%AB%E7%AD%91%E8%B6%85%E5%A4%A7%E8%9C%82%E5%B7%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男生被老师掌掴后还手 学校回应](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E8%A2%AB%E8%80%81%E5%B8%88%E6%8E%8C%E6%8E%B4%E5%90%8E%E8%BF%98%E6%89%8B+%E5%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [梅西：未来不想当教练](https://www.baidu.com/s?wd=%E6%A2%85%E8%A5%BF%EF%BC%9A%E6%9C%AA%E6%9D%A5%E4%B8%8D%E6%83%B3%E5%BD%93%E6%95%99%E7%BB%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [95号汽油进入7元时代](https://www.baidu.com/s?wd=95%E5%8F%B7%E6%B1%BD%E6%B2%B9%E8%BF%9B%E5%85%A57%E5%85%83%E6%97%B6%E4%BB%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [被官媒揭穿的“防晒衣”套路深](https://www.baidu.com/s?wd=%E8%A2%AB%E5%AE%98%E5%AA%92%E6%8F%AD%E7%A9%BF%E7%9A%84%E2%80%9C%E9%98%B2%E6%99%92%E8%A1%A3%E2%80%9D%E5%A5%97%E8%B7%AF%E6%B7%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [男子街边遗弃女儿？警方回应](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A1%97%E8%BE%B9%E9%81%97%E5%BC%83%E5%A5%B3%E5%84%BF%EF%BC%9F%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [95号汽油进入7元时代](https://www.baidu.com/s?wd=95%E5%8F%B7%E6%B1%BD%E6%B2%B9%E8%BF%9B%E5%85%A57%E5%85%83%E6%97%B6%E4%BB%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [杨子首谈黄圣依被封杀](https://www.baidu.com/s?wd=%E6%9D%A8%E5%AD%90%E9%A6%96%E8%B0%88%E9%BB%84%E5%9C%A3%E4%BE%9D%E8%A2%AB%E5%B0%81%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [小伙中1000万大奖:先去上个班](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E4%B8%AD1000%E4%B8%87%E5%A4%A7%E5%A5%96%3A%E5%85%88%E5%8E%BB%E4%B8%8A%E4%B8%AA%E7%8F%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
