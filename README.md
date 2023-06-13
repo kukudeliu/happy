@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 23:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 23:32:01</h4></div>
 
 > 微博  
 
@@ -27,23 +27,23 @@
 > 百度  
 
 1. [书写历史 建立友谊 增进互信](https://www.baidu.com/s?wd=%E4%B9%A6%E5%86%99%E5%8E%86%E5%8F%B2+%E5%BB%BA%E7%AB%8B%E5%8F%8B%E8%B0%8A+%E5%A2%9E%E8%BF%9B%E4%BA%92%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [高考结束妹妹才得知姐姐去世一个月](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E5%A6%B9%E5%A6%B9%E6%89%8D%E5%BE%97%E7%9F%A5%E5%A7%90%E5%A7%90%E5%8E%BB%E4%B8%96%E4%B8%80%E4%B8%AA%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [强戒小伙戴着手脚铐领证结婚](https://www.baidu.com/s?wd=%E5%BC%BA%E6%88%92%E5%B0%8F%E4%BC%99%E6%88%B4%E7%9D%80%E6%89%8B%E8%84%9A%E9%93%90%E9%A2%86%E8%AF%81%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [哈工大录取通知书涂层上过火星](https://www.baidu.com/s?wd=%E5%93%88%E5%B7%A5%E5%A4%A7%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E6%B6%82%E5%B1%82%E4%B8%8A%E8%BF%87%E7%81%AB%E6%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [天津河东区一小区发生爆炸](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E6%B2%B3%E4%B8%9C%E5%8C%BA%E4%B8%80%E5%B0%8F%E5%8C%BA%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [毕业歌送给1158万毕业生](https://www.baidu.com/s?wd=%E6%AF%95%E4%B8%9A%E6%AD%8C%E9%80%81%E7%BB%991158%E4%B8%87%E6%AF%95%E4%B8%9A%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [天津河东区一小区发生爆炸](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E6%B2%B3%E4%B8%9C%E5%8C%BA%E4%B8%80%E5%B0%8F%E5%8C%BA%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [强戒小伙戴着手脚铐领证结婚](https://www.baidu.com/s?wd=%E5%BC%BA%E6%88%92%E5%B0%8F%E4%BC%99%E6%88%B4%E7%9D%80%E6%89%8B%E8%84%9A%E9%93%90%E9%A2%86%E8%AF%81%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [17岁女孩一晚连刷6套卷子后患脑病](https://www.baidu.com/s?wd=17%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%B8%80%E6%99%9A%E8%BF%9E%E5%88%B76%E5%A5%97%E5%8D%B7%E5%AD%90%E5%90%8E%E6%82%A3%E8%84%91%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [哈工大录取通知书涂层上过火星](https://www.baidu.com/s?wd=%E5%93%88%E5%B7%A5%E5%A4%A7%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E6%B6%82%E5%B1%82%E4%B8%8A%E8%BF%87%E7%81%AB%E6%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [毕业合影女生淡定教校长比心手势](https://www.baidu.com/s?wd=%E6%AF%95%E4%B8%9A%E5%90%88%E5%BD%B1%E5%A5%B3%E7%94%9F%E6%B7%A1%E5%AE%9A%E6%95%99%E6%A0%A1%E9%95%BF%E6%AF%94%E5%BF%83%E6%89%8B%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [保安穿城管制服执法引争议](https://www.baidu.com/s?wd=%E4%BF%9D%E5%AE%89%E7%A9%BF%E5%9F%8E%E7%AE%A1%E5%88%B6%E6%9C%8D%E6%89%A7%E6%B3%95%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [毕业合影女生淡定教校长比心手势](https://www.baidu.com/s?wd=%E6%AF%95%E4%B8%9A%E5%90%88%E5%BD%B1%E5%A5%B3%E7%94%9F%E6%B7%A1%E5%AE%9A%E6%95%99%E6%A0%A1%E9%95%BF%E6%AF%94%E5%BF%83%E6%89%8B%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [保安穿城管制服执法引争议](https://www.baidu.com/s?wd=%E4%BF%9D%E5%AE%89%E7%A9%BF%E5%9F%8E%E7%AE%A1%E5%88%B6%E6%9C%8D%E6%89%A7%E6%B3%95%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [孟子义没考上军艺的原因](https://www.baidu.com/s?wd=%E5%AD%9F%E5%AD%90%E4%B9%89%E6%B2%A1%E8%80%83%E4%B8%8A%E5%86%9B%E8%89%BA%E7%9A%84%E5%8E%9F%E5%9B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [书写历史 建立友谊 增进互信](https://www.baidu.com/s?wd=%E4%B9%A6%E5%86%99%E5%8E%86%E5%8F%B2+%E5%BB%BA%E7%AB%8B%E5%8F%8B%E8%B0%8A+%E5%A2%9E%E8%BF%9B%E4%BA%92%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [高考结束妹妹才得知姐姐去世一个月](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E5%A6%B9%E5%A6%B9%E6%89%8D%E5%BE%97%E7%9F%A5%E5%A7%90%E5%A7%90%E5%8E%BB%E4%B8%96%E4%B8%80%E4%B8%AA%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [强戒小伙戴着手脚铐领证结婚](https://www.baidu.com/s?wd=%E5%BC%BA%E6%88%92%E5%B0%8F%E4%BC%99%E6%88%B4%E7%9D%80%E6%89%8B%E8%84%9A%E9%93%90%E9%A2%86%E8%AF%81%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [哈工大录取通知书涂层上过火星](https://www.baidu.com/s?wd=%E5%93%88%E5%B7%A5%E5%A4%A7%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E6%B6%82%E5%B1%82%E4%B8%8A%E8%BF%87%E7%81%AB%E6%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [天津河东区一小区发生爆炸](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E6%B2%B3%E4%B8%9C%E5%8C%BA%E4%B8%80%E5%B0%8F%E5%8C%BA%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [毕业歌送给1158万毕业生](https://www.baidu.com/s?wd=%E6%AF%95%E4%B8%9A%E6%AD%8C%E9%80%81%E7%BB%991158%E4%B8%87%E6%AF%95%E4%B8%9A%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [天津河东区一小区发生爆炸](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E6%B2%B3%E4%B8%9C%E5%8C%BA%E4%B8%80%E5%B0%8F%E5%8C%BA%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [强戒小伙戴着手脚铐领证结婚](https://www.baidu.com/s?wd=%E5%BC%BA%E6%88%92%E5%B0%8F%E4%BC%99%E6%88%B4%E7%9D%80%E6%89%8B%E8%84%9A%E9%93%90%E9%A2%86%E8%AF%81%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [17岁女孩一晚连刷6套卷子后患脑病](https://www.baidu.com/s?wd=17%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%B8%80%E6%99%9A%E8%BF%9E%E5%88%B76%E5%A5%97%E5%8D%B7%E5%AD%90%E5%90%8E%E6%82%A3%E8%84%91%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [哈工大录取通知书涂层上过火星](https://www.baidu.com/s?wd=%E5%93%88%E5%B7%A5%E5%A4%A7%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E6%B6%82%E5%B1%82%E4%B8%8A%E8%BF%87%E7%81%AB%E6%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [毕业合影女生淡定教校长比心手势](https://www.baidu.com/s?wd=%E6%AF%95%E4%B8%9A%E5%90%88%E5%BD%B1%E5%A5%B3%E7%94%9F%E6%B7%A1%E5%AE%9A%E6%95%99%E6%A0%A1%E9%95%BF%E6%AF%94%E5%BF%83%E6%89%8B%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [保安穿城管制服执法引争议](https://www.baidu.com/s?wd=%E4%BF%9D%E5%AE%89%E7%A9%BF%E5%9F%8E%E7%AE%A1%E5%88%B6%E6%9C%8D%E6%89%A7%E6%B3%95%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [毕业合影女生淡定教校长比心手势](https://www.baidu.com/s?wd=%E6%AF%95%E4%B8%9A%E5%90%88%E5%BD%B1%E5%A5%B3%E7%94%9F%E6%B7%A1%E5%AE%9A%E6%95%99%E6%A0%A1%E9%95%BF%E6%AF%94%E5%BF%83%E6%89%8B%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [保安穿城管制服执法引争议](https://www.baidu.com/s?wd=%E4%BF%9D%E5%AE%89%E7%A9%BF%E5%9F%8E%E7%AE%A1%E5%88%B6%E6%9C%8D%E6%89%A7%E6%B3%95%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [孟子义没考上军艺的原因](https://www.baidu.com/s?wd=%E5%AD%9F%E5%AD%90%E4%B9%89%E6%B2%A1%E8%80%83%E4%B8%8A%E5%86%9B%E8%89%BA%E7%9A%84%E5%8E%9F%E5%9B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
