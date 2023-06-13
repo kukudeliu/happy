@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 21:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 21:23:01</h4></div>
 
 > 微博  
 
 1. [笑果旗下公司擅自演出被罚](https://s.weibo.com/weibo?q=%23%E7%AC%91%E6%9E%9C%E6%97%97%E4%B8%8B%E5%85%AC%E5%8F%B8%E6%93%85%E8%87%AA%E6%BC%94%E5%87%BA%E8%A2%AB%E7%BD%9A%23&t=31&band_rank=1&Refer=top)<br />
 2. [猫的树好会拍](https://s.weibo.com/weibo?q=%E7%8C%AB%E7%9A%84%E6%A0%91%E5%A5%BD%E4%BC%9A%E6%8B%8D&t=31&band_rank=2&Refer=top)<br />
 3. [当夏日美景遇上古诗词](https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%A4%8F%E6%97%A5%E7%BE%8E%E6%99%AF%E9%81%87%E4%B8%8A%E5%8F%A4%E8%AF%97%E8%AF%8D%23&t=31&band_rank=3&Refer=top)<br />
-4. [杭师大涉事男生发声](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B8%88%E5%A4%A7%E6%B6%89%E4%BA%8B%E7%94%B7%E7%94%9F%E5%8F%91%E5%A3%B0%23&t=31&band_rank=4&Refer=top)<br />
-5. [有刘海的周也](https://s.weibo.com/weibo?q=%23%E6%9C%89%E5%88%98%E6%B5%B7%E7%9A%84%E5%91%A8%E4%B9%9F%23&t=31&band_rank=5&Refer=top)<br />
+4. [有刘海的周也](https://s.weibo.com/weibo?q=%23%E6%9C%89%E5%88%98%E6%B5%B7%E7%9A%84%E5%91%A8%E4%B9%9F%23&t=31&band_rank=4&Refer=top)<br />
+5. [杭师大涉事男生发声](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B8%88%E5%A4%A7%E6%B6%89%E4%BA%8B%E7%94%B7%E7%94%9F%E5%8F%91%E5%A3%B0%23&t=31&band_rank=5&Refer=top)<br />
 6. [詹雯婷控告陈建宁反遭起诉](https://s.weibo.com/weibo?q=%23%E8%A9%B9%E9%9B%AF%E5%A9%B7%E6%8E%A7%E5%91%8A%E9%99%88%E5%BB%BA%E5%AE%81%E5%8F%8D%E9%81%AD%E8%B5%B7%E8%AF%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [赵露思造型师换成闵塔鲨了](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E9%80%A0%E5%9E%8B%E5%B8%88%E6%8D%A2%E6%88%90%E9%97%B5%E5%A1%94%E9%B2%A8%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [梅西说不会参加下届世界杯](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%AF%B4%E4%B8%8D%E4%BC%9A%E5%8F%82%E5%8A%A0%E4%B8%8B%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%23&t=31&band_rank=8&Refer=top)<br />
