@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 11:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 11:52:01</h4></div>
 
 > 微博  
 
 1. [姑娘要结婚退租时扫干净房子留下喜糖](https://s.weibo.com/weibo?q=%23%E5%A7%91%E5%A8%98%E8%A6%81%E7%BB%93%E5%A9%9A%E9%80%80%E7%A7%9F%E6%97%B6%E6%89%AB%E5%B9%B2%E5%87%80%E6%88%BF%E5%AD%90%E7%95%99%E4%B8%8B%E5%96%9C%E7%B3%96%23&t=31&band_rank=1&Refer=top)<br />
-2. [NBA总决赛](https://s.weibo.com/weibo?q=NBA%E6%80%BB%E5%86%B3%E8%B5%9B&t=31&band_rank=2&Refer=top)<br />
+2. [Jennie演唱会中途离场](https://s.weibo.com/weibo?q=%23Jennie%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%AD%E9%80%94%E7%A6%BB%E5%9C%BA%23&t=31&band_rank=2&Refer=top)<br />
 3. [全国网络普法行江西站](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E7%BD%91%E7%BB%9C%E6%99%AE%E6%B3%95%E8%A1%8C%E6%B1%9F%E8%A5%BF%E7%AB%99%23&t=31&band_rank=3&Refer=top)<br />
-4. [Jennie演唱会中途离场](https://s.weibo.com/weibo?q=%23Jennie%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%AD%E9%80%94%E7%A6%BB%E5%9C%BA%23&t=31&band_rank=4&Refer=top)<br />
+4. [NBA总决赛](https://s.weibo.com/weibo?q=NBA%E6%80%BB%E5%86%B3%E8%B5%9B&t=31&band_rank=4&Refer=top)<br />
 5. [不孕不育是榴莲最好的福报](https://s.weibo.com/weibo?q=%E4%B8%8D%E5%AD%95%E4%B8%8D%E8%82%B2%E6%98%AF%E6%A6%B4%E8%8E%B2%E6%9C%80%E5%A5%BD%E7%9A%84%E7%A6%8F%E6%8A%A5&t=31&band_rank=5&Refer=top)<br />
 6. [宋雨琦奔跑吧收官合照是P上去的](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E9%9B%A8%E7%90%A6%E5%A5%94%E8%B7%91%E5%90%A7%E6%94%B6%E5%AE%98%E5%90%88%E7%85%A7%E6%98%AFP%E4%B8%8A%E5%8E%BB%E7%9A%84%23&t=31&band_rank=6&Refer=top)<br />
 7. [陈晓又更文了](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%99%93%E5%8F%88%E6%9B%B4%E6%96%87%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
@@ -20,9 +20,9 @@
 4. [我家离村子里面 5km 左右，运营商看过后说安不了宽带，能自己拉吗？或者说硬要拉的话，要花多少钱？](https://www.zhihu.com/question/597026273)<br />
 5. [22-23 赛季 NBA 掘金 4:1 击败热火夺队史首冠，约基奇 FMVP，如何评价本赛季的总决赛？](https://www.zhihu.com/question/606308940)<br />
 6. [马斯克发推讽刺人工智能，称机器学习本质是统计，你对此有哪些评价？](https://www.zhihu.com/question/606172076)<br />
-7. [中国光伏行业协会回应「从业者在德被带走」，称一人协助调查已回到酒店，有哪些影响？如何从法律角度解读？](https://www.zhihu.com/question/606309742)<br />
+7. [高考完想换 iPhone 14 Pro，爸妈觉得太贵，准大学生想用 iPhone 14 Pro 奢侈吗？](https://www.zhihu.com/question/604348759)<br />
 8. [男子地铁上被两女子称鞋面装摄像头偷拍，民警调查证其清白，男子拒绝接受道歉并希望起诉，后续将如何发展？](https://www.zhihu.com/question/606317343)<br />
-9. [高考完想换 iPhone 14 Pro，爸妈觉得太贵，准大学生想用 iPhone 14 Pro 奢侈吗？](https://www.zhihu.com/question/604348759)<br />
+9. [中国光伏行业协会回应「从业者在德被带走」，称一人协助调查已回到酒店，有哪些影响？如何从法律角度解读？](https://www.zhihu.com/question/606309742)<br />
 
 > 百度  
 
