@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 00:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 00:24:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [猫的树好会拍](https://s.weibo.com/weibo?q=%E7%8C%AB%E7%9A%84%E6%A0%91%E5%A5%BD%E4%BC%9A%E6%8B%8D&t=31&band_rank=6&Refer=top)<br />
 7. [高考后妹妹得知姐姐已去世一个月](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%90%8E%E5%A6%B9%E5%A6%B9%E5%BE%97%E7%9F%A5%E5%A7%90%E5%A7%90%E5%B7%B2%E5%8E%BB%E4%B8%96%E4%B8%80%E4%B8%AA%E6%9C%88%23&t=31&band_rank=7&Refer=top)<br />
 8. [权志龙又买房了](https://s.weibo.com/weibo?q=%23%E6%9D%83%E5%BF%97%E9%BE%99%E5%8F%88%E4%B9%B0%E6%88%BF%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [笑果旗下公司擅自演出被罚](https://s.weibo.com/weibo?q=%23%E7%AC%91%E6%9E%9C%E6%97%97%E4%B8%8B%E5%85%AC%E5%8F%B8%E6%93%85%E8%87%AA%E6%BC%94%E5%87%BA%E8%A2%AB%E7%BD%9A%23&t=31&band_rank=9&Refer=top)<br />
+9. [Uzi首发对战iG](https://s.weibo.com/weibo?q=%23Uzi%E9%A6%96%E5%8F%91%E5%AF%B9%E6%88%98iG%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -32,9 +32,9 @@
 4. [20余省已公布高考查分时间](https://www.baidu.com/s?wd=20%E4%BD%99%E7%9C%81%E5%B7%B2%E5%85%AC%E5%B8%83%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86%E6%97%B6%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [17岁女孩一晚连刷6套卷子后患脑病](https://www.baidu.com/s?wd=17%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%B8%80%E6%99%9A%E8%BF%9E%E5%88%B76%E5%A5%97%E5%8D%B7%E5%AD%90%E5%90%8E%E6%82%A3%E8%84%91%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [天津一小区爆炸 44辆救援车赶赴现场](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E4%B8%80%E5%B0%8F%E5%8C%BA%E7%88%86%E7%82%B8+44%E8%BE%86%E6%95%91%E6%8F%B4%E8%BD%A6%E8%B5%B6%E8%B5%B4%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [地铁被疑偷拍男子准备起诉对方](https://www.baidu.com/s?wd=%E5%9C%B0%E9%93%81%E8%A2%AB%E7%96%91%E5%81%B7%E6%8B%8D%E7%94%B7%E5%AD%90%E5%87%86%E5%A4%87%E8%B5%B7%E8%AF%89%E5%AF%B9%E6%96%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男生被老师掌掴后还手 学校回应](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E8%A2%AB%E8%80%81%E5%B8%88%E6%8E%8C%E6%8E%B4%E5%90%8E%E8%BF%98%E6%89%8B+%E5%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [笑果旗下公司擅自演出被罚](https://www.baidu.com/s?wd=%E7%AC%91%E6%9E%9C%E6%97%97%E4%B8%8B%E5%85%AC%E5%8F%B8%E6%93%85%E8%87%AA%E6%BC%94%E5%87%BA%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男生被老师掌掴后还手 学校回应](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E8%A2%AB%E8%80%81%E5%B8%88%E6%8E%8C%E6%8E%B4%E5%90%8E%E8%BF%98%E6%89%8B+%E5%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [老农卖70斤菜获利14元被罚10万](https://www.baidu.com/s?wd=%E8%80%81%E5%86%9C%E5%8D%9670%E6%96%A4%E8%8F%9C%E8%8E%B7%E5%88%A914%E5%85%83%E8%A2%AB%E7%BD%9A10%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [20余省已公布高考查分时间](https://www.baidu.com/s?wd=20%E4%BD%99%E7%9C%81%E5%B7%B2%E5%85%AC%E5%B8%83%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86%E6%97%B6%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [17岁女孩一晚连刷6套卷子后患脑病](https://www.baidu.com/s?wd=17%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%B8%80%E6%99%9A%E8%BF%9E%E5%88%B76%E5%A5%97%E5%8D%B7%E5%AD%90%E5%90%8E%E6%82%A3%E8%84%91%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [天津一小区爆炸 44辆救援车赶赴现场](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E4%B8%80%E5%B0%8F%E5%8C%BA%E7%88%86%E7%82%B8+44%E8%BE%86%E6%95%91%E6%8F%B4%E8%BD%A6%E8%B5%B6%E8%B5%B4%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [地铁被疑偷拍男子准备起诉对方](https://www.baidu.com/s?wd=%E5%9C%B0%E9%93%81%E8%A2%AB%E7%96%91%E5%81%B7%E6%8B%8D%E7%94%B7%E5%AD%90%E5%87%86%E5%A4%87%E8%B5%B7%E8%AF%89%E5%AF%B9%E6%96%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男生被老师掌掴后还手 学校回应](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E8%A2%AB%E8%80%81%E5%B8%88%E6%8E%8C%E6%8E%B4%E5%90%8E%E8%BF%98%E6%89%8B+%E5%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [笑果旗下公司擅自演出被罚](https://www.baidu.com/s?wd=%E7%AC%91%E6%9E%9C%E6%97%97%E4%B8%8B%E5%85%AC%E5%8F%B8%E6%93%85%E8%87%AA%E6%BC%94%E5%87%BA%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男生被老师掌掴后还手 学校回应](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E8%A2%AB%E8%80%81%E5%B8%88%E6%8E%8C%E6%8E%B4%E5%90%8E%E8%BF%98%E6%89%8B+%E5%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [老农卖70斤菜获利14元被罚10万](https://www.baidu.com/s?wd=%E8%80%81%E5%86%9C%E5%8D%9670%E6%96%A4%E8%8F%9C%E8%8E%B7%E5%88%A914%E5%85%83%E8%A2%AB%E7%BD%9A10%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
