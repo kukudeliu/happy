@@ -1,22 +1,22 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 19:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 19:57:01</h4></div>
 
 > 微博  
 
 1. [房东回应女孩结婚退租时打扫干净房子](https://s.weibo.com/weibo?q=%23%E6%88%BF%E4%B8%9C%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%A9%E7%BB%93%E5%A9%9A%E9%80%80%E7%A7%9F%E6%97%B6%E6%89%93%E6%89%AB%E5%B9%B2%E5%87%80%E6%88%BF%E5%AD%90%23&t=31&band_rank=1&Refer=top)<br />
-2. [312斤女网红在减肥营离世年仅21岁](https://s.weibo.com/weibo?q=%23312%E6%96%A4%E5%A5%B3%E7%BD%91%E7%BA%A2%E5%9C%A8%E5%87%8F%E8%82%A5%E8%90%A5%E7%A6%BB%E4%B8%96%E5%B9%B4%E4%BB%8521%E5%B2%81%23&t=31&band_rank=2&Refer=top)<br />
+2. [笑果旗下公司擅自演出被罚](https://s.weibo.com/weibo?q=%23%E7%AC%91%E6%9E%9C%E6%97%97%E4%B8%8B%E5%85%AC%E5%8F%B8%E6%93%85%E8%87%AA%E6%BC%94%E5%87%BA%E8%A2%AB%E7%BD%9A%23&t=31&band_rank=2&Refer=top)<br />
 3. [边防战士带着全家福巡逻](https://s.weibo.com/weibo?q=%23%E8%BE%B9%E9%98%B2%E6%88%98%E5%A3%AB%E5%B8%A6%E7%9D%80%E5%85%A8%E5%AE%B6%E7%A6%8F%E5%B7%A1%E9%80%BB%23&t=31&band_rank=3&Refer=top)<br />
 4. [王传君 INFP](https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BC%A0%E5%90%9B%20INFP&t=31&band_rank=4&Refer=top)<br />
 5. [男子被困冷库环卫工路过救一命](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%A2%AB%E5%9B%B0%E5%86%B7%E5%BA%93%E7%8E%AF%E5%8D%AB%E5%B7%A5%E8%B7%AF%E8%BF%87%E6%95%91%E4%B8%80%E5%91%BD%23&t=31&band_rank=5&Refer=top)<br />
-6. [杭师大涉事男生发声](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B8%88%E5%A4%A7%E6%B6%89%E4%BA%8B%E7%94%B7%E7%94%9F%E5%8F%91%E5%A3%B0%23&t=31&band_rank=6&Refer=top)<br />
+6. [312斤女网红在减肥营离世年仅21岁](https://s.weibo.com/weibo?q=%23312%E6%96%A4%E5%A5%B3%E7%BD%91%E7%BA%A2%E5%9C%A8%E5%87%8F%E8%82%A5%E8%90%A5%E7%A6%BB%E4%B8%96%E5%B9%B4%E4%BB%8521%E5%B2%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [小伙用泥塑帮300人复活亲人样貌](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E7%94%A8%E6%B3%A5%E5%A1%91%E5%B8%AE300%E4%BA%BA%E5%A4%8D%E6%B4%BB%E4%BA%B2%E4%BA%BA%E6%A0%B7%E8%B2%8C%23&t=31&band_rank=7&Refer=top)<br />
-8. [笑果旗下公司擅自演出被罚](https://s.weibo.com/weibo?q=%23%E7%AC%91%E6%9E%9C%E6%97%97%E4%B8%8B%E5%85%AC%E5%8F%B8%E6%93%85%E8%87%AA%E6%BC%94%E5%87%BA%E8%A2%AB%E7%BD%9A%23&t=31&band_rank=8&Refer=top)<br />
+8. [杭师大涉事男生发声](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B8%88%E5%A4%A7%E6%B6%89%E4%BA%8B%E7%94%B7%E7%94%9F%E5%8F%91%E5%A3%B0%23&t=31&band_rank=8&Refer=top)<br />
 9. [高考后妹妹得知姐姐已去世一个月](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%90%8E%E5%A6%B9%E5%A6%B9%E5%BE%97%E7%9F%A5%E5%A7%90%E5%A7%90%E5%B7%B2%E5%8E%BB%E4%B8%96%E4%B8%80%E4%B8%AA%E6%9C%88%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [江歌专项助学基金成立，江歌妈妈将 69.6 万赔偿款全额捐出，如何看待江歌妈妈这一举动？](https://www.zhihu.com/question/606138539)<br />
-2. [江西财经大学近年招收大量专升本考生，专升本学生占比迅速上升，是否会对本科统招造成影响？](https://www.zhihu.com/question/605899790)<br />
-3. [我喵一声猫也会喵一声，跟对话一样，它是真的听的懂我说什么了吗？](https://www.zhihu.com/question/604083219)<br />
+2. [我喵一声猫也会喵一声，跟对话一样，它是真的听的懂我说什么了吗？](https://www.zhihu.com/question/604083219)<br />
+3. [江西财经大学近年招收大量专升本考生，专升本学生占比迅速上升，是否会对本科统招造成影响？](https://www.zhihu.com/question/605899790)<br />
 4. [江西女子卖婚房为前夫还赌债，34 岁带孩子到鹤岗隐居，如何看待这一做法？](https://www.zhihu.com/question/606325930)<br />
 5. [美国务卿访问沙特刚离开，沙特转身与中国签下百亿大单，并称中沙合作不仅局限于路桥基建，哪些信息值得关注？](https://www.zhihu.com/question/606359019)<br />
 6. [我家离村子里面 5km 左右，运营商看过后说安不了宽带，能自己拉吗？或者说硬要拉的话，要花多少钱？](https://www.zhihu.com/question/597026273)<br />
