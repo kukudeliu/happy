@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 23:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 23:19:01</h4></div>
 
 > 微博  
 
@@ -32,8 +32,8 @@
 4. [毕业歌送给1158万毕业生](https://www.baidu.com/s?wd=%E6%AF%95%E4%B8%9A%E6%AD%8C%E9%80%81%E7%BB%991158%E4%B8%87%E6%AF%95%E4%B8%9A%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [天津河东区一小区发生爆炸](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E6%B2%B3%E4%B8%9C%E5%8C%BA%E4%B8%80%E5%B0%8F%E5%8C%BA%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [17岁女孩一晚连刷6套卷子后患脑病](https://www.baidu.com/s?wd=17%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%B8%80%E6%99%9A%E8%BF%9E%E5%88%B76%E5%A5%97%E5%8D%B7%E5%AD%90%E5%90%8E%E6%82%A3%E8%84%91%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [哈工大录取通知书涂层上过火星](https://www.baidu.com/s?wd=%E5%93%88%E5%B7%A5%E5%A4%A7%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E6%B6%82%E5%B1%82%E4%B8%8A%E8%BF%87%E7%81%AB%E6%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子举牌求复合 前夫果断拒绝](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%BE%E7%89%8C%E6%B1%82%E5%A4%8D%E5%90%88+%E5%89%8D%E5%A4%AB%E6%9E%9C%E6%96%AD%E6%8B%92%E7%BB%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女生考前摔伤右手 苦练左手完成高考](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E8%80%83%E5%89%8D%E6%91%94%E4%BC%A4%E5%8F%B3%E6%89%8B+%E8%8B%A6%E7%BB%83%E5%B7%A6%E6%89%8B%E5%AE%8C%E6%88%90%E9%AB%98%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [哈工大录取通知书涂层上过火星](https://www.baidu.com/s?wd=%E5%93%88%E5%B7%A5%E5%A4%A7%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E6%B6%82%E5%B1%82%E4%B8%8A%E8%BF%87%E7%81%AB%E6%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [老农卖70斤菜获利14元被罚10万](https://www.baidu.com/s?wd=%E8%80%81%E5%86%9C%E5%8D%9670%E6%96%A4%E8%8F%9C%E8%8E%B7%E5%88%A914%E5%85%83%E8%A2%AB%E7%BD%9A10%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -44,6 +44,6 @@
 4. [毕业歌送给1158万毕业生](https://www.baidu.com/s?wd=%E6%AF%95%E4%B8%9A%E6%AD%8C%E9%80%81%E7%BB%991158%E4%B8%87%E6%AF%95%E4%B8%9A%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [天津河东区一小区发生爆炸](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E6%B2%B3%E4%B8%9C%E5%8C%BA%E4%B8%80%E5%B0%8F%E5%8C%BA%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [17岁女孩一晚连刷6套卷子后患脑病](https://www.baidu.com/s?wd=17%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%B8%80%E6%99%9A%E8%BF%9E%E5%88%B76%E5%A5%97%E5%8D%B7%E5%AD%90%E5%90%8E%E6%82%A3%E8%84%91%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [哈工大录取通知书涂层上过火星](https://www.baidu.com/s?wd=%E5%93%88%E5%B7%A5%E5%A4%A7%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E6%B6%82%E5%B1%82%E4%B8%8A%E8%BF%87%E7%81%AB%E6%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子举牌求复合 前夫果断拒绝](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%BE%E7%89%8C%E6%B1%82%E5%A4%8D%E5%90%88+%E5%89%8D%E5%A4%AB%E6%9E%9C%E6%96%AD%E6%8B%92%E7%BB%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女生考前摔伤右手 苦练左手完成高考](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E8%80%83%E5%89%8D%E6%91%94%E4%BC%A4%E5%8F%B3%E6%89%8B+%E8%8B%A6%E7%BB%83%E5%B7%A6%E6%89%8B%E5%AE%8C%E6%88%90%E9%AB%98%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [哈工大录取通知书涂层上过火星](https://www.baidu.com/s?wd=%E5%93%88%E5%B7%A5%E5%A4%A7%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E6%B6%82%E5%B1%82%E4%B8%8A%E8%BF%87%E7%81%AB%E6%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [老农卖70斤菜获利14元被罚10万](https://www.baidu.com/s?wd=%E8%80%81%E5%86%9C%E5%8D%9670%E6%96%A4%E8%8F%9C%E8%8E%B7%E5%88%A914%E5%85%83%E8%A2%AB%E7%BD%9A10%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
