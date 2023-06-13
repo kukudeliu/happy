@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 11:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 11:36:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [22-23 赛季 NBA 掘金 4:1 击败热火夺队史首冠，约基奇 FMVP，如何评价本赛季的总决赛？](https://www.zhihu.com/question/606308940)<br />
 7. [马斯克发推讽刺人工智能，称机器学习本质是统计，你对此有哪些评价？](https://www.zhihu.com/question/606172076)<br />
 8. [男子地铁上被两女子称鞋面装摄像头偷拍，民警调查证其清白，男子拒绝接受道歉并希望起诉，后续将如何发展？](https://www.zhihu.com/question/606317343)<br />
-9. [德约科维奇拿下法网冠军，捧得第 23 座大满贯奖杯，达成史无前例的 3 圈全满贯，goat 是否已经毫无争议？](https://www.zhihu.com/question/606110672)<br />
+9. [高考完想换 iPhone 14 Pro，爸妈觉得太贵，准大学生想用 iPhone 14 Pro 奢侈吗？](https://www.zhihu.com/question/604348759)<br />
 
 > 百度  
 
