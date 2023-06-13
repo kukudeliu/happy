@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 12:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 12:56:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [疑似杭师大女生家属发声](https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E6%9D%AD%E5%B8%88%E5%A4%A7%E5%A5%B3%E7%94%9F%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0%23&t=31&band_rank=6&Refer=top)<br />
 7. [老师打伤学生道歉反被多位家长安慰](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E6%89%93%E4%BC%A4%E5%AD%A6%E7%94%9F%E9%81%93%E6%AD%89%E5%8F%8D%E8%A2%AB%E5%A4%9A%E4%BD%8D%E5%AE%B6%E9%95%BF%E5%AE%89%E6%85%B0%23&t=31&band_rank=7&Refer=top)<br />
 8. [发小喊了四年终于离职了](https://s.weibo.com/weibo?q=%E5%8F%91%E5%B0%8F%E5%96%8A%E4%BA%86%E5%9B%9B%E5%B9%B4%E7%BB%88%E4%BA%8E%E7%A6%BB%E8%81%8C%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [企业回应禁止婚外情和出轨](https://s.weibo.com/weibo?q=%23%E4%BC%81%E4%B8%9A%E5%9B%9E%E5%BA%94%E7%A6%81%E6%AD%A2%E5%A9%9A%E5%A4%96%E6%83%85%E5%92%8C%E5%87%BA%E8%BD%A8%23&t=31&band_rank=9&Refer=top)<br />
+9. [边伯贤截掉SMTOWN的logo](https://s.weibo.com/weibo?q=%23%E8%BE%B9%E4%BC%AF%E8%B4%A4%E6%88%AA%E6%8E%89SMTOWN%E7%9A%84logo%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
