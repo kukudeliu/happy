@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 23:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 23:25:01</h4></div>
 
 > 微博  
 
 1. [猫的树好会拍](https://s.weibo.com/weibo?q=%E7%8C%AB%E7%9A%84%E6%A0%91%E5%A5%BD%E4%BC%9A%E6%8B%8D&t=31&band_rank=1&Refer=top)<br />
 2. [笑果旗下公司擅自演出被罚](https://s.weibo.com/weibo?q=%23%E7%AC%91%E6%9E%9C%E6%97%97%E4%B8%8B%E5%85%AC%E5%8F%B8%E6%93%85%E8%87%AA%E6%BC%94%E5%87%BA%E8%A2%AB%E7%BD%9A%23&t=31&band_rank=2&Refer=top)<br />
-3. [天津河东区一小区发生爆炸](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E6%B2%B3%E4%B8%9C%E5%8C%BA%E4%B8%80%E5%B0%8F%E5%8C%BA%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%23&t=31&band_rank=3&Refer=top)<br />
+3. [蓝天碧水间官兵巡逻画面美如画](https://s.weibo.com/weibo?q=%23%E8%93%9D%E5%A4%A9%E7%A2%A7%E6%B0%B4%E9%97%B4%E5%AE%98%E5%85%B5%E5%B7%A1%E9%80%BB%E7%94%BB%E9%9D%A2%E7%BE%8E%E5%A6%82%E7%94%BB%23&t=31&band_rank=3&Refer=top)<br />
 4. [刘亦菲 不在乎别人的想法](https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%20%E4%B8%8D%E5%9C%A8%E4%B9%8E%E5%88%AB%E4%BA%BA%E7%9A%84%E6%83%B3%E6%B3%95&t=31&band_rank=4&Refer=top)<br />
-5. [Jennie回应演唱会中途离场](https://s.weibo.com/weibo?q=%23Jennie%E5%9B%9E%E5%BA%94%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%AD%E9%80%94%E7%A6%BB%E5%9C%BA%23&t=31&band_rank=5&Refer=top)<br />
-6. [肖战摸狗被拒绝](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%91%B8%E7%8B%97%E8%A2%AB%E6%8B%92%E7%BB%9D%23&t=31&band_rank=6&Refer=top)<br />
+5. [天津河东区一小区发生爆炸](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E6%B2%B3%E4%B8%9C%E5%8C%BA%E4%B8%80%E5%B0%8F%E5%8C%BA%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%23&t=31&band_rank=5&Refer=top)<br />
+6. [Jennie回应演唱会中途离场](https://s.weibo.com/weibo?q=%23Jennie%E5%9B%9E%E5%BA%94%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%AD%E9%80%94%E7%A6%BB%E5%9C%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [高考后妹妹得知姐姐已去世一个月](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%90%8E%E5%A6%B9%E5%A6%B9%E5%BE%97%E7%9F%A5%E5%A7%90%E5%A7%90%E5%B7%B2%E5%8E%BB%E4%B8%96%E4%B8%80%E4%B8%AA%E6%9C%88%23&t=31&band_rank=7&Refer=top)<br />
-8. [晕车和不晕车的人闻到的气味不一样](https://s.weibo.com/weibo?q=%E6%99%95%E8%BD%A6%E5%92%8C%E4%B8%8D%E6%99%95%E8%BD%A6%E7%9A%84%E4%BA%BA%E9%97%BB%E5%88%B0%E7%9A%84%E6%B0%94%E5%91%B3%E4%B8%8D%E4%B8%80%E6%A0%B7&t=31&band_rank=8&Refer=top)<br />
-9. [当夏日美景遇上古诗词](https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%A4%8F%E6%97%A5%E7%BE%8E%E6%99%AF%E9%81%87%E4%B8%8A%E5%8F%A4%E8%AF%97%E8%AF%8D%23&t=31&band_rank=9&Refer=top)<br />
+8. [肖战摸狗被拒绝](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%91%B8%E7%8B%97%E8%A2%AB%E6%8B%92%E7%BB%9D%23&t=31&band_rank=8&Refer=top)<br />
+9. [晕车和不晕车的人闻到的气味不一样](https://s.weibo.com/weibo?q=%E6%99%95%E8%BD%A6%E5%92%8C%E4%B8%8D%E6%99%95%E8%BD%A6%E7%9A%84%E4%BA%BA%E9%97%BB%E5%88%B0%E7%9A%84%E6%B0%94%E5%91%B3%E4%B8%8D%E4%B8%80%E6%A0%B7&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
