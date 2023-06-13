@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 17:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 17:58:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [赵露思好美](https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%A5%BD%E7%BE%8E&t=31&band_rank=6&Refer=top)<br />
 7. [女子被气晕女辅警一路守护就医](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%AB%E6%B0%94%E6%99%95%E5%A5%B3%E8%BE%85%E8%AD%A6%E4%B8%80%E8%B7%AF%E5%AE%88%E6%8A%A4%E5%B0%B1%E5%8C%BB%23&t=31&band_rank=7&Refer=top)<br />
 8. [为什么夏天都不穿凉鞋了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%8F%E5%A4%A9%E9%83%BD%E4%B8%8D%E7%A9%BF%E5%87%89%E9%9E%8B%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [范丞丞 跑男真的没有剧本](https://s.weibo.com/weibo?q=%E8%8C%83%E4%B8%9E%E4%B8%9E%20%E8%B7%91%E7%94%B7%E7%9C%9F%E7%9A%84%E6%B2%A1%E6%9C%89%E5%89%A7%E6%9C%AC&t=31&band_rank=9&Refer=top)<br />
+9. [张柏芝 好能打的一张脸](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9F%8F%E8%8A%9D%20%E5%A5%BD%E8%83%BD%E6%89%93%E7%9A%84%E4%B8%80%E5%BC%A0%E8%84%B8&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
