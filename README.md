@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 06:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 06:12:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [天津小区爆炸26户受损 有人受伤送医](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E5%B0%8F%E5%8C%BA%E7%88%86%E7%82%B826%E6%88%B7%E5%8F%97%E6%8D%9F+%E6%9C%89%E4%BA%BA%E5%8F%97%E4%BC%A4%E9%80%81%E5%8C%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中国驻中非大使馆：尽快撤离](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A9%BB%E4%B8%AD%E9%9D%9E%E5%A4%A7%E4%BD%BF%E9%A6%86%EF%BC%9A%E5%B0%BD%E5%BF%AB%E6%92%A4%E7%A6%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [笑果旗下公司擅自演出被罚](https://www.baidu.com/s?wd=%E7%AC%91%E6%9E%9C%E6%97%97%E4%B8%8B%E5%85%AC%E5%8F%B8%E6%93%85%E8%87%AA%E6%BC%94%E5%87%BA%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [小伙中1000万大奖:先去上个班](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E4%B8%AD1000%E4%B8%87%E5%A4%A7%E5%A5%96%3A%E5%85%88%E5%8E%BB%E4%B8%8A%E4%B8%AA%E7%8F%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [高考结束妹妹才得知姐姐去世一个月](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E5%A6%B9%E5%A6%B9%E6%89%8D%E5%BE%97%E7%9F%A5%E5%A7%90%E5%A7%90%E5%8E%BB%E4%B8%96%E4%B8%80%E4%B8%AA%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [天津小区爆炸26户受损 有人受伤送医](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E5%B0%8F%E5%8C%BA%E7%88%86%E7%82%B826%E6%88%B7%E5%8F%97%E6%8D%9F+%E6%9C%89%E4%BA%BA%E5%8F%97%E4%BC%A4%E9%80%81%E5%8C%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中国驻中非大使馆：尽快撤离](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A9%BB%E4%B8%AD%E9%9D%9E%E5%A4%A7%E4%BD%BF%E9%A6%86%EF%BC%9A%E5%B0%BD%E5%BF%AB%E6%92%A4%E7%A6%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [笑果旗下公司擅自演出被罚](https://www.baidu.com/s?wd=%E7%AC%91%E6%9E%9C%E6%97%97%E4%B8%8B%E5%85%AC%E5%8F%B8%E6%93%85%E8%87%AA%E6%BC%94%E5%87%BA%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [小伙中1000万大奖:先去上个班](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E4%B8%AD1000%E4%B8%87%E5%A4%A7%E5%A5%96%3A%E5%85%88%E5%8E%BB%E4%B8%8A%E4%B8%AA%E7%8F%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [高考结束妹妹才得知姐姐去世一个月](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E5%A6%B9%E5%A6%B9%E6%89%8D%E5%BE%97%E7%9F%A5%E5%A7%90%E5%A7%90%E5%8E%BB%E4%B8%96%E4%B8%80%E4%B8%AA%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
