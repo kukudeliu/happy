@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 17:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 17:38:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [刘浩存任敏高中时期自拍照](https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B5%A9%E5%AD%98%E4%BB%BB%E6%95%8F%E9%AB%98%E4%B8%AD%E6%97%B6%E6%9C%9F%E8%87%AA%E6%8B%8D%E7%85%A7%23&t=31&band_rank=4&Refer=top)<br />
 5. [为什么夏天都不穿凉鞋了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%8F%E5%A4%A9%E9%83%BD%E4%B8%8D%E7%A9%BF%E5%87%89%E9%9E%8B%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [张柏芝 好能打的一张脸](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9F%8F%E8%8A%9D%20%E5%A5%BD%E8%83%BD%E6%89%93%E7%9A%84%E4%B8%80%E5%BC%A0%E8%84%B8&t=31&band_rank=6&Refer=top)<br />
-7. [高考后妹妹得知姐姐已去世一个月](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%90%8E%E5%A6%B9%E5%A6%B9%E5%BE%97%E7%9F%A5%E5%A7%90%E5%A7%90%E5%B7%B2%E5%8E%BB%E4%B8%96%E4%B8%80%E4%B8%AA%E6%9C%88%23&t=31&band_rank=7&Refer=top)<br />
-8. [刘令姿 东方小兰花](https://s.weibo.com/weibo?q=%E5%88%98%E4%BB%A4%E5%A7%BF%20%E4%B8%9C%E6%96%B9%E5%B0%8F%E5%85%B0%E8%8A%B1&t=31&band_rank=8&Refer=top)<br />
-9. [杭州师范大学回应](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%23&t=31&band_rank=9&Refer=top)<br />
+7. [刘令姿 东方小兰花](https://s.weibo.com/weibo?q=%E5%88%98%E4%BB%A4%E5%A7%BF%20%E4%B8%9C%E6%96%B9%E5%B0%8F%E5%85%B0%E8%8A%B1&t=31&band_rank=7&Refer=top)<br />
+8. [杭州师范大学回应](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%23&t=31&band_rank=8&Refer=top)<br />
+9. [高考后妹妹得知姐姐已去世一个月](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%90%8E%E5%A6%B9%E5%A6%B9%E5%BE%97%E7%9F%A5%E5%A7%90%E5%A7%90%E5%B7%B2%E5%8E%BB%E4%B8%96%E4%B8%80%E4%B8%AA%E6%9C%88%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
