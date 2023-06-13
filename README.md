@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 12:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 12:14:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [NBA总决赛](https://s.weibo.com/weibo?q=NBA%E6%80%BB%E5%86%B3%E8%B5%9B&t=31&band_rank=5&Refer=top)<br />
 6. [发小喊了四年终于离职了](https://s.weibo.com/weibo?q=%E5%8F%91%E5%B0%8F%E5%96%8A%E4%BA%86%E5%9B%9B%E5%B9%B4%E7%BB%88%E4%BA%8E%E7%A6%BB%E8%81%8C%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [宋雨琦奔跑吧收官合照是P上去的](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E9%9B%A8%E7%90%A6%E5%A5%94%E8%B7%91%E5%90%A7%E6%94%B6%E5%AE%98%E5%90%88%E7%85%A7%E6%98%AFP%E4%B8%8A%E5%8E%BB%E7%9A%84%23&t=31&band_rank=7&Refer=top)<br />
-8. [陈晓又更文了](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%99%93%E5%8F%88%E6%9B%B4%E6%96%87%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [朴灿烈 单封](https://s.weibo.com/weibo?q=%E6%9C%B4%E7%81%BF%E7%83%88%20%E5%8D%95%E5%B0%81&t=31&band_rank=9&Refer=top)<br />
+8. [朴灿烈 单封](https://s.weibo.com/weibo?q=%E6%9C%B4%E7%81%BF%E7%83%88%20%E5%8D%95%E5%B0%81&t=31&band_rank=8&Refer=top)<br />
+9. [陈晓又更文了](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%99%93%E5%8F%88%E6%9B%B4%E6%96%87%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -34,7 +34,7 @@
 6. [男子在洗浴中心被男性猥亵](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E6%B4%97%E6%B5%B4%E4%B8%AD%E5%BF%83%E8%A2%AB%E7%94%B7%E6%80%A7%E7%8C%A5%E4%BA%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子带2幼儿跳河：母亲身亡孩子获救](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B8%A62%E5%B9%BC%E5%84%BF%E8%B7%B3%E6%B2%B3%EF%BC%9A%E6%AF%8D%E4%BA%B2%E8%BA%AB%E4%BA%A1%E5%AD%A9%E5%AD%90%E8%8E%B7%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [中纪委“内鬼”刘燃被“双开”](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BA%AA%E5%A7%94%E2%80%9C%E5%86%85%E9%AC%BC%E2%80%9D%E5%88%98%E7%87%83%E8%A2%AB%E2%80%9C%E5%8F%8C%E5%BC%80%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [物业为防业主逃费连装8条减速带](https://www.baidu.com/s?wd=%E7%89%A9%E4%B8%9A%E4%B8%BA%E9%98%B2%E4%B8%9A%E4%B8%BB%E9%80%83%E8%B4%B9%E8%BF%9E%E8%A3%858%E6%9D%A1%E5%87%8F%E9%80%9F%E5%B8%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [农民工赚不到钱 今年还进厂吗](https://www.baidu.com/s?wd=%E5%86%9C%E6%B0%91%E5%B7%A5%E8%B5%9A%E4%B8%8D%E5%88%B0%E9%92%B1+%E4%BB%8A%E5%B9%B4%E8%BF%98%E8%BF%9B%E5%8E%82%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [男子在洗浴中心被男性猥亵](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E6%B4%97%E6%B5%B4%E4%B8%AD%E5%BF%83%E8%A2%AB%E7%94%B7%E6%80%A7%E7%8C%A5%E4%BA%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子带2幼儿跳河：母亲身亡孩子获救](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B8%A62%E5%B9%BC%E5%84%BF%E8%B7%B3%E6%B2%B3%EF%BC%9A%E6%AF%8D%E4%BA%B2%E8%BA%AB%E4%BA%A1%E5%AD%A9%E5%AD%90%E8%8E%B7%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [中纪委“内鬼”刘燃被“双开”](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BA%AA%E5%A7%94%E2%80%9C%E5%86%85%E9%AC%BC%E2%80%9D%E5%88%98%E7%87%83%E8%A2%AB%E2%80%9C%E5%8F%8C%E5%BC%80%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [物业为防业主逃费连装8条减速带](https://www.baidu.com/s?wd=%E7%89%A9%E4%B8%9A%E4%B8%BA%E9%98%B2%E4%B8%9A%E4%B8%BB%E9%80%83%E8%B4%B9%E8%BF%9E%E8%A3%858%E6%9D%A1%E5%87%8F%E9%80%9F%E5%B8%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [农民工赚不到钱 今年还进厂吗](https://www.baidu.com/s?wd=%E5%86%9C%E6%B0%91%E5%B7%A5%E8%B5%9A%E4%B8%8D%E5%88%B0%E9%92%B1+%E4%BB%8A%E5%B9%B4%E8%BF%98%E8%BF%9B%E5%8E%82%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
