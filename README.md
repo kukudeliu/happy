@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 17:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 17:13:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [范丞丞 跑男真的没有剧本](https://s.weibo.com/weibo?q=%E8%8C%83%E4%B8%9E%E4%B8%9E%20%E8%B7%91%E7%94%B7%E7%9C%9F%E7%9A%84%E6%B2%A1%E6%9C%89%E5%89%A7%E6%9C%AC&t=31&band_rank=2&Refer=top)<br />
 3. [边防战士带着全家福巡逻](https://s.weibo.com/weibo?q=%23%E8%BE%B9%E9%98%B2%E6%88%98%E5%A3%AB%E5%B8%A6%E7%9D%80%E5%85%A8%E5%AE%B6%E7%A6%8F%E5%B7%A1%E9%80%BB%23&t=31&band_rank=3&Refer=top)<br />
 4. [刘浩存任敏高中时期自拍照](https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B5%A9%E5%AD%98%E4%BB%BB%E6%95%8F%E9%AB%98%E4%B8%AD%E6%97%B6%E6%9C%9F%E8%87%AA%E6%8B%8D%E7%85%A7%23&t=31&band_rank=4&Refer=top)<br />
-5. [张柏芝 好能打的一张脸](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9F%8F%E8%8A%9D%20%E5%A5%BD%E8%83%BD%E6%89%93%E7%9A%84%E4%B8%80%E5%BC%A0%E8%84%B8&t=31&band_rank=5&Refer=top)<br />
-6. [刘令姿 东方小兰花](https://s.weibo.com/weibo?q=%E5%88%98%E4%BB%A4%E5%A7%BF%20%E4%B8%9C%E6%96%B9%E5%B0%8F%E5%85%B0%E8%8A%B1&t=31&band_rank=6&Refer=top)<br />
+5. [刘令姿 东方小兰花](https://s.weibo.com/weibo?q=%E5%88%98%E4%BB%A4%E5%A7%BF%20%E4%B8%9C%E6%96%B9%E5%B0%8F%E5%85%B0%E8%8A%B1&t=31&band_rank=5&Refer=top)<br />
+6. [张柏芝 好能打的一张脸](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9F%8F%E8%8A%9D%20%E5%A5%BD%E8%83%BD%E6%89%93%E7%9A%84%E4%B8%80%E5%BC%A0%E8%84%B8&t=31&band_rank=6&Refer=top)<br />
 7. [为什么夏天都不穿凉鞋了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%8F%E5%A4%A9%E9%83%BD%E4%B8%8D%E7%A9%BF%E5%87%89%E9%9E%8B%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [刘鑫不服二审判决申请再审](https://s.weibo.com/weibo?q=%23%E5%88%98%E9%91%AB%E4%B8%8D%E6%9C%8D%E4%BA%8C%E5%AE%A1%E5%88%A4%E5%86%B3%E7%94%B3%E8%AF%B7%E5%86%8D%E5%AE%A1%23&t=31&band_rank=8&Refer=top)<br />
 9. [疑似杭师大女生家属发声](https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E6%9D%AD%E5%B8%88%E5%A4%A7%E5%A5%B3%E7%94%9F%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0%23&t=31&band_rank=9&Refer=top)<br />
