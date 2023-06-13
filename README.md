@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 15:32:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 15:33:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [老师打伤学生道歉反被多位家长安慰](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E6%89%93%E4%BC%A4%E5%AD%A6%E7%94%9F%E9%81%93%E6%AD%89%E5%8F%8D%E8%A2%AB%E5%A4%9A%E4%BD%8D%E5%AE%B6%E9%95%BF%E5%AE%89%E6%85%B0%23&t=31&band_rank=5&Refer=top)<br />
 6. [为什么夏天都不穿凉鞋了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%8F%E5%A4%A9%E9%83%BD%E4%B8%8D%E7%A9%BF%E5%87%89%E9%9E%8B%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [范丞丞 跑男真的没有剧本](https://s.weibo.com/weibo?q=%E8%8C%83%E4%B8%9E%E4%B8%9E%20%E8%B7%91%E7%94%B7%E7%9C%9F%E7%9A%84%E6%B2%A1%E6%9C%89%E5%89%A7%E6%9C%AC&t=31&band_rank=7&Refer=top)<br />
-8. [任豪 人工呼吸怎么不算吻](https://s.weibo.com/weibo?q=%E4%BB%BB%E8%B1%AA%20%E4%BA%BA%E5%B7%A5%E5%91%BC%E5%90%B8%E6%80%8E%E4%B9%88%E4%B8%8D%E7%AE%97%E5%90%BB&t=31&band_rank=8&Refer=top)<br />
-9. [赵露思好美](https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%A5%BD%E7%BE%8E&t=31&band_rank=9&Refer=top)<br />
+8. [赵露思好美](https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%A5%BD%E7%BE%8E&t=31&band_rank=8&Refer=top)<br />
+9. [任豪 人工呼吸怎么不算吻](https://s.weibo.com/weibo?q=%E4%BB%BB%E8%B1%AA%20%E4%BA%BA%E5%B7%A5%E5%91%BC%E5%90%B8%E6%80%8E%E4%B9%88%E4%B8%8D%E7%AE%97%E5%90%BB&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
