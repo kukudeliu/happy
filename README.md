@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 15:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 15:29:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [“上四休三”的老板后悔了](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%8A%E5%9B%9B%E4%BC%91%E4%B8%89%E2%80%9D%E7%9A%84%E8%80%81%E6%9D%BF%E5%90%8E%E6%82%94%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [局长妻子长期吃空饷？单位回应](https://www.baidu.com/s?wd=%E5%B1%80%E9%95%BF%E5%A6%BB%E5%AD%90%E9%95%BF%E6%9C%9F%E5%90%83%E7%A9%BA%E9%A5%B7%EF%BC%9F%E5%8D%95%E4%BD%8D%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#赵丽颖冯绍峰离婚后首次同框带娃#](https://www.baidu.com/s?wd=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%86%AF%E7%BB%8D%E5%B3%B0%E7%A6%BB%E5%A9%9A%E5%90%8E%E9%A6%96%E6%AC%A1%E5%90%8C%E6%A1%86%E5%B8%A6%E5%A8%83%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [长沙地铁回应卷闸门砸伤乘客](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E5%9C%B0%E9%93%81%E5%9B%9E%E5%BA%94%E5%8D%B7%E9%97%B8%E9%97%A8%E7%A0%B8%E4%BC%A4%E4%B9%98%E5%AE%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [312斤网红在减肥训练营离世](https://www.baidu.com/s?wd=312%E6%96%A4%E7%BD%91%E7%BA%A2%E5%9C%A8%E5%87%8F%E8%82%A5%E8%AE%AD%E7%BB%83%E8%90%A5%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [“上四休三”的老板后悔了](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%8A%E5%9B%9B%E4%BC%91%E4%B8%89%E2%80%9D%E7%9A%84%E8%80%81%E6%9D%BF%E5%90%8E%E6%82%94%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [局长妻子长期吃空饷？单位回应](https://www.baidu.com/s?wd=%E5%B1%80%E9%95%BF%E5%A6%BB%E5%AD%90%E9%95%BF%E6%9C%9F%E5%90%83%E7%A9%BA%E9%A5%B7%EF%BC%9F%E5%8D%95%E4%BD%8D%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#赵丽颖冯绍峰离婚后首次同框带娃#](https://www.baidu.com/s?wd=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%86%AF%E7%BB%8D%E5%B3%B0%E7%A6%BB%E5%A9%9A%E5%90%8E%E9%A6%96%E6%AC%A1%E5%90%8C%E6%A1%86%E5%B8%A6%E5%A8%83%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [长沙地铁回应卷闸门砸伤乘客](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E5%9C%B0%E9%93%81%E5%9B%9E%E5%BA%94%E5%8D%B7%E9%97%B8%E9%97%A8%E7%A0%B8%E4%BC%A4%E4%B9%98%E5%AE%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [312斤网红在减肥训练营离世](https://www.baidu.com/s?wd=312%E6%96%A4%E7%BD%91%E7%BA%A2%E5%9C%A8%E5%87%8F%E8%82%A5%E8%AE%AD%E7%BB%83%E8%90%A5%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
