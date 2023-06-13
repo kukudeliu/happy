@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 05:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 05:03:01</h4></div>
 
 > 微博  
 
-1. [王鹤棣田曦薇 大奉打更人](https://s.weibo.com/weibo?q=%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%94%B0%E6%9B%A6%E8%96%87%20%E5%A4%A7%E5%A5%89%E6%89%93%E6%9B%B4%E4%BA%BA&t=31&band_rank=1&Refer=top)<br />
-2. [Jennie回应演唱会中途离场](https://s.weibo.com/weibo?q=%23Jennie%E5%9B%9E%E5%BA%94%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%AD%E9%80%94%E7%A6%BB%E5%9C%BA%23&t=31&band_rank=2&Refer=top)<br />
+1. [Jennie回应演唱会中途离场](https://s.weibo.com/weibo?q=%23Jennie%E5%9B%9E%E5%BA%94%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%AD%E9%80%94%E7%A6%BB%E5%9C%BA%23&t=31&band_rank=1&Refer=top)<br />
+2. [王鹤棣田曦薇 大奉打更人](https://s.weibo.com/weibo?q=%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%94%B0%E6%9B%A6%E8%96%87%20%E5%A4%A7%E5%A5%89%E6%89%93%E6%9B%B4%E4%BA%BA&t=31&band_rank=2&Refer=top)<br />
 3. [20余省已公布高考查分时间](https://s.weibo.com/weibo?q=%2320%E4%BD%99%E7%9C%81%E5%B7%B2%E5%85%AC%E5%B8%83%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86%E6%97%B6%E9%97%B4%23&t=31&band_rank=3&Refer=top)<br />
 4. [梦是一种心理上的转码过程](https://s.weibo.com/weibo?q=%E6%A2%A6%E6%98%AF%E4%B8%80%E7%A7%8D%E5%BF%83%E7%90%86%E4%B8%8A%E7%9A%84%E8%BD%AC%E7%A0%81%E8%BF%87%E7%A8%8B&t=31&band_rank=4&Refer=top)<br />
 5. [高考后妹妹得知姐姐已去世一个月](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%90%8E%E5%A6%B9%E5%A6%B9%E5%BE%97%E7%9F%A5%E5%A7%90%E5%A7%90%E5%B7%B2%E5%8E%BB%E4%B8%96%E4%B8%80%E4%B8%AA%E6%9C%88%23&t=31&band_rank=5&Refer=top)<br />
@@ -34,7 +34,7 @@
 6. [天津小区爆炸26户受损 有人受伤送医](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E5%B0%8F%E5%8C%BA%E7%88%86%E7%82%B826%E6%88%B7%E5%8F%97%E6%8D%9F+%E6%9C%89%E4%BA%BA%E5%8F%97%E4%BC%A4%E9%80%81%E5%8C%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [95号汽油进入7元时代](https://www.baidu.com/s?wd=95%E5%8F%B7%E6%B1%BD%E6%B2%B9%E8%BF%9B%E5%85%A57%E5%85%83%E6%97%B6%E4%BB%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [笑果旗下公司擅自演出被罚](https://www.baidu.com/s?wd=%E7%AC%91%E6%9E%9C%E6%97%97%E4%B8%8B%E5%85%AC%E5%8F%B8%E6%93%85%E8%87%AA%E6%BC%94%E5%87%BA%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中国驻中非大使馆：尽快撤离](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A9%BB%E4%B8%AD%E9%9D%9E%E5%A4%A7%E4%BD%BF%E9%A6%86%EF%BC%9A%E5%B0%BD%E5%BF%AB%E6%92%A4%E7%A6%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子杀害妻子 案发前女方曾提离婚](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%9D%80%E5%AE%B3%E5%A6%BB%E5%AD%90+%E6%A1%88%E5%8F%91%E5%89%8D%E5%A5%B3%E6%96%B9%E6%9B%BE%E6%8F%90%E7%A6%BB%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [天津小区爆炸26户受损 有人受伤送医](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E5%B0%8F%E5%8C%BA%E7%88%86%E7%82%B826%E6%88%B7%E5%8F%97%E6%8D%9F+%E6%9C%89%E4%BA%BA%E5%8F%97%E4%BC%A4%E9%80%81%E5%8C%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [95号汽油进入7元时代](https://www.baidu.com/s?wd=95%E5%8F%B7%E6%B1%BD%E6%B2%B9%E8%BF%9B%E5%85%A57%E5%85%83%E6%97%B6%E4%BB%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [笑果旗下公司擅自演出被罚](https://www.baidu.com/s?wd=%E7%AC%91%E6%9E%9C%E6%97%97%E4%B8%8B%E5%85%AC%E5%8F%B8%E6%93%85%E8%87%AA%E6%BC%94%E5%87%BA%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中国驻中非大使馆：尽快撤离](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A9%BB%E4%B8%AD%E9%9D%9E%E5%A4%A7%E4%BD%BF%E9%A6%86%EF%BC%9A%E5%B0%BD%E5%BF%AB%E6%92%A4%E7%A6%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子杀害妻子 案发前女方曾提离婚](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%9D%80%E5%AE%B3%E5%A6%BB%E5%AD%90+%E6%A1%88%E5%8F%91%E5%89%8D%E5%A5%B3%E6%96%B9%E6%9B%BE%E6%8F%90%E7%A6%BB%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
