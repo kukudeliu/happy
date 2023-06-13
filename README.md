@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 13:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 13:17:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [任豪 人工呼吸怎么不算吻](https://s.weibo.com/weibo?q=%E4%BB%BB%E8%B1%AA%20%E4%BA%BA%E5%B7%A5%E5%91%BC%E5%90%B8%E6%80%8E%E4%B9%88%E4%B8%8D%E7%AE%97%E5%90%BB&t=31&band_rank=6&Refer=top)<br />
 7. [边伯贤截掉SMTOWN的logo](https://s.weibo.com/weibo?q=%23%E8%BE%B9%E4%BC%AF%E8%B4%A4%E6%88%AA%E6%8E%89SMTOWN%E7%9A%84logo%23&t=31&band_rank=7&Refer=top)<br />
 8. [姑娘要结婚退租时扫干净房子留下喜糖](https://s.weibo.com/weibo?q=%23%E5%A7%91%E5%A8%98%E8%A6%81%E7%BB%93%E5%A9%9A%E9%80%80%E7%A7%9F%E6%97%B6%E6%89%AB%E5%B9%B2%E5%87%80%E6%88%BF%E5%AD%90%E7%95%99%E4%B8%8B%E5%96%9C%E7%B3%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [发小喊了四年终于离职了](https://s.weibo.com/weibo?q=%E5%8F%91%E5%B0%8F%E5%96%8A%E4%BA%86%E5%9B%9B%E5%B9%B4%E7%BB%88%E4%BA%8E%E7%A6%BB%E8%81%8C%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [陈晓又更文了](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%99%93%E5%8F%88%E6%9B%B4%E6%96%87%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
