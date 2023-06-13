@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 06:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 06:14:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [我家离村子里面 5km 左右，运营商看过后说安不了宽带，能自己拉吗？或者说硬要拉的话，要花多少钱？](https://www.zhihu.com/question/597026273)<br />
 7. [「天天午睡」和「从不午睡」的人，区别在哪？](https://www.zhihu.com/question/433139582)<br />
 8. [国家发改委通知「2023 年底前对月销售额 10 万元以下小规模纳税人免征增值税」，这将带来哪些利好？](https://www.zhihu.com/question/606387626)<br />
-9. [江西大学当年为何改名为南昌大学？](https://www.zhihu.com/question/567845482)<br />
+9. [美国院士称初步复现 Dias 团队的近常压室温超导研究，可信度有多高？](https://www.zhihu.com/question/606341241)<br />
 
 > 百度  
 
@@ -32,9 +32,9 @@
 4. [20余省已公布高考查分时间](https://www.baidu.com/s?wd=20%E4%BD%99%E7%9C%81%E5%B7%B2%E5%85%AC%E5%B8%83%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86%E6%97%B6%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [17岁女孩一晚连刷6套卷子后患脑病](https://www.baidu.com/s?wd=17%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%B8%80%E6%99%9A%E8%BF%9E%E5%88%B76%E5%A5%97%E5%8D%B7%E5%AD%90%E5%90%8E%E6%82%A3%E8%84%91%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [天津小区爆炸26户受损 有人受伤送医](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E5%B0%8F%E5%8C%BA%E7%88%86%E7%82%B826%E6%88%B7%E5%8F%97%E6%8D%9F+%E6%9C%89%E4%BA%BA%E5%8F%97%E4%BC%A4%E9%80%81%E5%8C%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [中国驻中非大使馆：尽快撤离](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A9%BB%E4%B8%AD%E9%9D%9E%E5%A4%A7%E4%BD%BF%E9%A6%86%EF%BC%9A%E5%B0%BD%E5%BF%AB%E6%92%A4%E7%A6%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [高考结束妹妹才得知姐姐去世一个月](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E5%A6%B9%E5%A6%B9%E6%89%8D%E5%BE%97%E7%9F%A5%E5%A7%90%E5%A7%90%E5%8E%BB%E4%B8%96%E4%B8%80%E4%B8%AA%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [笑果旗下公司擅自演出被罚](https://www.baidu.com/s?wd=%E7%AC%91%E6%9E%9C%E6%97%97%E4%B8%8B%E5%85%AC%E5%8F%B8%E6%93%85%E8%87%AA%E6%BC%94%E5%87%BA%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [高考结束妹妹才得知姐姐去世一个月](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E5%A6%B9%E5%A6%B9%E6%89%8D%E5%BE%97%E7%9F%A5%E5%A7%90%E5%A7%90%E5%8E%BB%E4%B8%96%E4%B8%80%E4%B8%AA%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [95号汽油进入7元时代](https://www.baidu.com/s?wd=95%E5%8F%B7%E6%B1%BD%E6%B2%B9%E8%BF%9B%E5%85%A57%E5%85%83%E6%97%B6%E4%BB%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [20余省已公布高考查分时间](https://www.baidu.com/s?wd=20%E4%BD%99%E7%9C%81%E5%B7%B2%E5%85%AC%E5%B8%83%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86%E6%97%B6%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [17岁女孩一晚连刷6套卷子后患脑病](https://www.baidu.com/s?wd=17%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%B8%80%E6%99%9A%E8%BF%9E%E5%88%B76%E5%A5%97%E5%8D%B7%E5%AD%90%E5%90%8E%E6%82%A3%E8%84%91%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [天津小区爆炸26户受损 有人受伤送医](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E5%B0%8F%E5%8C%BA%E7%88%86%E7%82%B826%E6%88%B7%E5%8F%97%E6%8D%9F+%E6%9C%89%E4%BA%BA%E5%8F%97%E4%BC%A4%E9%80%81%E5%8C%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [中国驻中非大使馆：尽快撤离](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A9%BB%E4%B8%AD%E9%9D%9E%E5%A4%A7%E4%BD%BF%E9%A6%86%EF%BC%9A%E5%B0%BD%E5%BF%AB%E6%92%A4%E7%A6%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [高考结束妹妹才得知姐姐去世一个月](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E5%A6%B9%E5%A6%B9%E6%89%8D%E5%BE%97%E7%9F%A5%E5%A7%90%E5%A7%90%E5%8E%BB%E4%B8%96%E4%B8%80%E4%B8%AA%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [笑果旗下公司擅自演出被罚](https://www.baidu.com/s?wd=%E7%AC%91%E6%9E%9C%E6%97%97%E4%B8%8B%E5%85%AC%E5%8F%B8%E6%93%85%E8%87%AA%E6%BC%94%E5%87%BA%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [高考结束妹妹才得知姐姐去世一个月](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E5%A6%B9%E5%A6%B9%E6%89%8D%E5%BE%97%E7%9F%A5%E5%A7%90%E5%A7%90%E5%8E%BB%E4%B8%96%E4%B8%80%E4%B8%AA%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [95号汽油进入7元时代](https://www.baidu.com/s?wd=95%E5%8F%B7%E6%B1%BD%E6%B2%B9%E8%BF%9B%E5%85%A57%E5%85%83%E6%97%B6%E4%BB%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
