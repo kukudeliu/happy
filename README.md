@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 22:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 22:38:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [女子家中进蜜蜂 半小时被筑超大蜂巢](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%AE%B6%E4%B8%AD%E8%BF%9B%E8%9C%9C%E8%9C%82+%E5%8D%8A%E5%B0%8F%E6%97%B6%E8%A2%AB%E7%AD%91%E8%B6%85%E5%A4%A7%E8%9C%82%E5%B7%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [哈工大录取通知书涂层上过火星](https://www.baidu.com/s?wd=%E5%93%88%E5%B7%A5%E5%A4%A7%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E6%B6%82%E5%B1%82%E4%B8%8A%E8%BF%87%E7%81%AB%E6%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子街边遗弃女儿？警方回应](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A1%97%E8%BE%B9%E9%81%97%E5%BC%83%E5%A5%B3%E5%84%BF%EF%BC%9F%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [被官媒揭穿的“防晒衣”套路深](https://www.baidu.com/s?wd=%E8%A2%AB%E5%AE%98%E5%AA%92%E6%8F%AD%E7%A9%BF%E7%9A%84%E2%80%9C%E9%98%B2%E6%99%92%E8%A1%A3%E2%80%9D%E5%A5%97%E8%B7%AF%E6%B7%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [95号汽油进入7元时代](https://www.baidu.com/s?wd=95%E5%8F%B7%E6%B1%BD%E6%B2%B9%E8%BF%9B%E5%85%A57%E5%85%83%E6%97%B6%E4%BB%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [17岁女孩一晚连刷6套卷子后患脑病](https://www.baidu.com/s?wd=17%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%B8%80%E6%99%9A%E8%BF%9E%E5%88%B76%E5%A5%97%E5%8D%B7%E5%AD%90%E5%90%8E%E6%82%A3%E8%84%91%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [被官媒揭穿的“防晒衣”套路深](https://www.baidu.com/s?wd=%E8%A2%AB%E5%AE%98%E5%AA%92%E6%8F%AD%E7%A9%BF%E7%9A%84%E2%80%9C%E9%98%B2%E6%99%92%E8%A1%A3%E2%80%9D%E5%A5%97%E8%B7%AF%E6%B7%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [女子家中进蜜蜂 半小时被筑超大蜂巢](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%AE%B6%E4%B8%AD%E8%BF%9B%E8%9C%9C%E8%9C%82+%E5%8D%8A%E5%B0%8F%E6%97%B6%E8%A2%AB%E7%AD%91%E8%B6%85%E5%A4%A7%E8%9C%82%E5%B7%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [哈工大录取通知书涂层上过火星](https://www.baidu.com/s?wd=%E5%93%88%E5%B7%A5%E5%A4%A7%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E6%B6%82%E5%B1%82%E4%B8%8A%E8%BF%87%E7%81%AB%E6%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子街边遗弃女儿？警方回应](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A1%97%E8%BE%B9%E9%81%97%E5%BC%83%E5%A5%B3%E5%84%BF%EF%BC%9F%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [被官媒揭穿的“防晒衣”套路深](https://www.baidu.com/s?wd=%E8%A2%AB%E5%AE%98%E5%AA%92%E6%8F%AD%E7%A9%BF%E7%9A%84%E2%80%9C%E9%98%B2%E6%99%92%E8%A1%A3%E2%80%9D%E5%A5%97%E8%B7%AF%E6%B7%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [95号汽油进入7元时代](https://www.baidu.com/s?wd=95%E5%8F%B7%E6%B1%BD%E6%B2%B9%E8%BF%9B%E5%85%A57%E5%85%83%E6%97%B6%E4%BB%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [17岁女孩一晚连刷6套卷子后患脑病](https://www.baidu.com/s?wd=17%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%B8%80%E6%99%9A%E8%BF%9E%E5%88%B76%E5%A5%97%E5%8D%B7%E5%AD%90%E5%90%8E%E6%82%A3%E8%84%91%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [被官媒揭穿的“防晒衣”套路深](https://www.baidu.com/s?wd=%E8%A2%AB%E5%AE%98%E5%AA%92%E6%8F%AD%E7%A9%BF%E7%9A%84%E2%80%9C%E9%98%B2%E6%99%92%E8%A1%A3%E2%80%9D%E5%A5%97%E8%B7%AF%E6%B7%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
