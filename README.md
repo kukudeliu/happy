@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 20:07:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 20:08:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [詹雯婷控告陈建宁反遭起诉](https://s.weibo.com/weibo?q=%23%E8%A9%B9%E9%9B%AF%E5%A9%B7%E6%8E%A7%E5%91%8A%E9%99%88%E5%BB%BA%E5%AE%81%E5%8F%8D%E9%81%AD%E8%B5%B7%E8%AF%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [杭师大涉事男生发声](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B8%88%E5%A4%A7%E6%B6%89%E4%BA%8B%E7%94%B7%E7%94%9F%E5%8F%91%E5%A3%B0%23&t=31&band_rank=7&Refer=top)<br />
 8. [赵露思造型师换成闵塔鲨了](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E9%80%A0%E5%9E%8B%E5%B8%88%E6%8D%A2%E6%88%90%E9%97%B5%E5%A1%94%E9%B2%A8%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [高考后妹妹得知姐姐已去世一个月](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%90%8E%E5%A6%B9%E5%A6%B9%E5%BE%97%E7%9F%A5%E5%A7%90%E5%A7%90%E5%B7%B2%E5%8E%BB%E4%B8%96%E4%B8%80%E4%B8%AA%E6%9C%88%23&t=31&band_rank=9&Refer=top)<br />
+9. [张柏芝 好能打的一张脸](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9F%8F%E8%8A%9D%20%E5%A5%BD%E8%83%BD%E6%89%93%E7%9A%84%E4%B8%80%E5%BC%A0%E8%84%B8&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -34,7 +34,7 @@
 6. [女子家中进蜜蜂 半小时被筑超大蜂巢](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%AE%B6%E4%B8%AD%E8%BF%9B%E8%9C%9C%E8%9C%82+%E5%8D%8A%E5%B0%8F%E6%97%B6%E8%A2%AB%E7%AD%91%E8%B6%85%E5%A4%A7%E8%9C%82%E5%B7%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中国驻中非大使馆：尽快撤离](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A9%BB%E4%B8%AD%E9%9D%9E%E5%A4%A7%E4%BD%BF%E9%A6%86%EF%BC%9A%E5%B0%BD%E5%BF%AB%E6%92%A4%E7%A6%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男生挤痘流血近1小时：用了400张纸](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E6%8C%A4%E7%97%98%E6%B5%81%E8%A1%80%E8%BF%911%E5%B0%8F%E6%97%B6%EF%BC%9A%E7%94%A8%E4%BA%86400%E5%BC%A0%E7%BA%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [杨子首谈黄圣依被封杀](https://www.baidu.com/s?wd=%E6%9D%A8%E5%AD%90%E9%A6%96%E8%B0%88%E9%BB%84%E5%9C%A3%E4%BE%9D%E8%A2%AB%E5%B0%81%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [马斯克：人类已经是半机器人](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E4%BA%BA%E7%B1%BB%E5%B7%B2%E7%BB%8F%E6%98%AF%E5%8D%8A%E6%9C%BA%E5%99%A8%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [女子家中进蜜蜂 半小时被筑超大蜂巢](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%AE%B6%E4%B8%AD%E8%BF%9B%E8%9C%9C%E8%9C%82+%E5%8D%8A%E5%B0%8F%E6%97%B6%E8%A2%AB%E7%AD%91%E8%B6%85%E5%A4%A7%E8%9C%82%E5%B7%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中国驻中非大使馆：尽快撤离](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A9%BB%E4%B8%AD%E9%9D%9E%E5%A4%A7%E4%BD%BF%E9%A6%86%EF%BC%9A%E5%B0%BD%E5%BF%AB%E6%92%A4%E7%A6%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男生挤痘流血近1小时：用了400张纸](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E6%8C%A4%E7%97%98%E6%B5%81%E8%A1%80%E8%BF%911%E5%B0%8F%E6%97%B6%EF%BC%9A%E7%94%A8%E4%BA%86400%E5%BC%A0%E7%BA%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [杨子首谈黄圣依被封杀](https://www.baidu.com/s?wd=%E6%9D%A8%E5%AD%90%E9%A6%96%E8%B0%88%E9%BB%84%E5%9C%A3%E4%BE%9D%E8%A2%AB%E5%B0%81%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [马斯克：人类已经是半机器人](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E4%BA%BA%E7%B1%BB%E5%B7%B2%E7%BB%8F%E6%98%AF%E5%8D%8A%E6%9C%BA%E5%99%A8%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
