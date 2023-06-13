@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 02:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 02:44:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [20余省已公布高考查分时间](https://s.weibo.com/weibo?q=%2320%E4%BD%99%E7%9C%81%E5%B7%B2%E5%85%AC%E5%B8%83%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86%E6%97%B6%E9%97%B4%23&t=31&band_rank=3&Refer=top)<br />
 4. [高考后妹妹得知姐姐已去世一个月](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%90%8E%E5%A6%B9%E5%A6%B9%E5%BE%97%E7%9F%A5%E5%A7%90%E5%A7%90%E5%B7%B2%E5%8E%BB%E4%B8%96%E4%B8%80%E4%B8%AA%E6%9C%88%23&t=31&band_rank=4&Refer=top)<br />
 5. [梦是一种心理上的转码过程](https://s.weibo.com/weibo?q=%E6%A2%A6%E6%98%AF%E4%B8%80%E7%A7%8D%E5%BF%83%E7%90%86%E4%B8%8A%E7%9A%84%E8%BD%AC%E7%A0%81%E8%BF%87%E7%A8%8B&t=31&band_rank=5&Refer=top)<br />
-6. [权志龙又买房了](https://s.weibo.com/weibo?q=%23%E6%9D%83%E5%BF%97%E9%BE%99%E5%8F%88%E4%B9%B0%E6%88%BF%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [猫的树好会拍](https://s.weibo.com/weibo?q=%E7%8C%AB%E7%9A%84%E6%A0%91%E5%A5%BD%E4%BC%9A%E6%8B%8D&t=31&band_rank=7&Refer=top)<br />
+6. [猫的树好会拍](https://s.weibo.com/weibo?q=%E7%8C%AB%E7%9A%84%E6%A0%91%E5%A5%BD%E4%BC%9A%E6%8B%8D&t=31&band_rank=6&Refer=top)<br />
+7. [权志龙又买房了](https://s.weibo.com/weibo?q=%23%E6%9D%83%E5%BF%97%E9%BE%99%E5%8F%88%E4%B9%B0%E6%88%BF%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [笑果旗下公司擅自演出被罚](https://s.weibo.com/weibo?q=%23%E7%AC%91%E6%9E%9C%E6%97%97%E4%B8%8B%E5%85%AC%E5%8F%B8%E6%93%85%E8%87%AA%E6%BC%94%E5%87%BA%E8%A2%AB%E7%BD%9A%23&t=31&band_rank=8&Refer=top)<br />
 9. [Uzi首发对战iG](https://s.weibo.com/weibo?q=%23Uzi%E9%A6%96%E5%8F%91%E5%AF%B9%E6%88%98iG%23&t=31&band_rank=9&Refer=top)<br />
 
@@ -31,10 +31,10 @@
 3. [被官媒揭穿的“防晒衣”套路深](https://www.baidu.com/s?wd=%E8%A2%AB%E5%AE%98%E5%AA%92%E6%8F%AD%E7%A9%BF%E7%9A%84%E2%80%9C%E9%98%B2%E6%99%92%E8%A1%A3%E2%80%9D%E5%A5%97%E8%B7%AF%E6%B7%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [20余省已公布高考查分时间](https://www.baidu.com/s?wd=20%E4%BD%99%E7%9C%81%E5%B7%B2%E5%85%AC%E5%B8%83%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86%E6%97%B6%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [17岁女孩一晚连刷6套卷子后患脑病](https://www.baidu.com/s?wd=17%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%B8%80%E6%99%9A%E8%BF%9E%E5%88%B76%E5%A5%97%E5%8D%B7%E5%AD%90%E5%90%8E%E6%82%A3%E8%84%91%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [医院墙塌精神病人满街跑?目击者辟谣](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%A2%99%E5%A1%8C%E7%B2%BE%E7%A5%9E%E7%97%85%E4%BA%BA%E6%BB%A1%E8%A1%97%E8%B7%91%3F%E7%9B%AE%E5%87%BB%E8%80%85%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [杨子首谈黄圣依被封杀](https://www.baidu.com/s?wd=%E6%9D%A8%E5%AD%90%E9%A6%96%E8%B0%88%E9%BB%84%E5%9C%A3%E4%BE%9D%E8%A2%AB%E5%B0%81%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [杨子首谈黄圣依被封杀](https://www.baidu.com/s?wd=%E6%9D%A8%E5%AD%90%E9%A6%96%E8%B0%88%E9%BB%84%E5%9C%A3%E4%BE%9D%E8%A2%AB%E5%B0%81%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [姑娘退租时打扫干净房子留下喜糖](https://www.baidu.com/s?wd=%E5%A7%91%E5%A8%98%E9%80%80%E7%A7%9F%E6%97%B6%E6%89%93%E6%89%AB%E5%B9%B2%E5%87%80%E6%88%BF%E5%AD%90%E7%95%99%E4%B8%8B%E5%96%9C%E7%B3%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [笑果旗下公司擅自演出被罚](https://www.baidu.com/s?wd=%E7%AC%91%E6%9E%9C%E6%97%97%E4%B8%8B%E5%85%AC%E5%8F%B8%E6%93%85%E8%87%AA%E6%BC%94%E5%87%BA%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子家中进蜜蜂 半小时被筑超大蜂巢](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%AE%B6%E4%B8%AD%E8%BF%9B%E8%9C%9C%E8%9C%82+%E5%8D%8A%E5%B0%8F%E6%97%B6%E8%A2%AB%E7%AD%91%E8%B6%85%E5%A4%A7%E8%9C%82%E5%B7%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [医院墙塌精神病人满街跑?目击者辟谣](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%A2%99%E5%A1%8C%E7%B2%BE%E7%A5%9E%E7%97%85%E4%BA%BA%E6%BB%A1%E8%A1%97%E8%B7%91%3F%E7%9B%AE%E5%87%BB%E8%80%85%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [被官媒揭穿的“防晒衣”套路深](https://www.baidu.com/s?wd=%E8%A2%AB%E5%AE%98%E5%AA%92%E6%8F%AD%E7%A9%BF%E7%9A%84%E2%80%9C%E9%98%B2%E6%99%92%E8%A1%A3%E2%80%9D%E5%A5%97%E8%B7%AF%E6%B7%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [20余省已公布高考查分时间](https://www.baidu.com/s?wd=20%E4%BD%99%E7%9C%81%E5%B7%B2%E5%85%AC%E5%B8%83%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86%E6%97%B6%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [17岁女孩一晚连刷6套卷子后患脑病](https://www.baidu.com/s?wd=17%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%B8%80%E6%99%9A%E8%BF%9E%E5%88%B76%E5%A5%97%E5%8D%B7%E5%AD%90%E5%90%8E%E6%82%A3%E8%84%91%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [医院墙塌精神病人满街跑?目击者辟谣](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%A2%99%E5%A1%8C%E7%B2%BE%E7%A5%9E%E7%97%85%E4%BA%BA%E6%BB%A1%E8%A1%97%E8%B7%91%3F%E7%9B%AE%E5%87%BB%E8%80%85%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [杨子首谈黄圣依被封杀](https://www.baidu.com/s?wd=%E6%9D%A8%E5%AD%90%E9%A6%96%E8%B0%88%E9%BB%84%E5%9C%A3%E4%BE%9D%E8%A2%AB%E5%B0%81%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [杨子首谈黄圣依被封杀](https://www.baidu.com/s?wd=%E6%9D%A8%E5%AD%90%E9%A6%96%E8%B0%88%E9%BB%84%E5%9C%A3%E4%BE%9D%E8%A2%AB%E5%B0%81%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [姑娘退租时打扫干净房子留下喜糖](https://www.baidu.com/s?wd=%E5%A7%91%E5%A8%98%E9%80%80%E7%A7%9F%E6%97%B6%E6%89%93%E6%89%AB%E5%B9%B2%E5%87%80%E6%88%BF%E5%AD%90%E7%95%99%E4%B8%8B%E5%96%9C%E7%B3%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [笑果旗下公司擅自演出被罚](https://www.baidu.com/s?wd=%E7%AC%91%E6%9E%9C%E6%97%97%E4%B8%8B%E5%85%AC%E5%8F%B8%E6%93%85%E8%87%AA%E6%BC%94%E5%87%BA%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子家中进蜜蜂 半小时被筑超大蜂巢](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%AE%B6%E4%B8%AD%E8%BF%9B%E8%9C%9C%E8%9C%82+%E5%8D%8A%E5%B0%8F%E6%97%B6%E8%A2%AB%E7%AD%91%E8%B6%85%E5%A4%A7%E8%9C%82%E5%B7%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [医院墙塌精神病人满街跑?目击者辟谣](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%A2%99%E5%A1%8C%E7%B2%BE%E7%A5%9E%E7%97%85%E4%BA%BA%E6%BB%A1%E8%A1%97%E8%B7%91%3F%E7%9B%AE%E5%87%BB%E8%80%85%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
