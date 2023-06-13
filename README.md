@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 02:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 02:29:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [梦是一种心理上的转码过程](https://s.weibo.com/weibo?q=%E6%A2%A6%E6%98%AF%E4%B8%80%E7%A7%8D%E5%BF%83%E7%90%86%E4%B8%8A%E7%9A%84%E8%BD%AC%E7%A0%81%E8%BF%87%E7%A8%8B&t=31&band_rank=6&Refer=top)<br />
 7. [权志龙又买房了](https://s.weibo.com/weibo?q=%23%E6%9D%83%E5%BF%97%E9%BE%99%E5%8F%88%E4%B9%B0%E6%88%BF%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [笑果旗下公司擅自演出被罚](https://s.weibo.com/weibo?q=%23%E7%AC%91%E6%9E%9C%E6%97%97%E4%B8%8B%E5%85%AC%E5%8F%B8%E6%93%85%E8%87%AA%E6%BC%94%E5%87%BA%E8%A2%AB%E7%BD%9A%23&t=31&band_rank=8&Refer=top)<br />
-9. [刘亦菲 不在乎别人的想法](https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%20%E4%B8%8D%E5%9C%A8%E4%B9%8E%E5%88%AB%E4%BA%BA%E7%9A%84%E6%83%B3%E6%B3%95&t=31&band_rank=9&Refer=top)<br />
+9. [Uzi首发对战iG](https://s.weibo.com/weibo?q=%23Uzi%E9%A6%96%E5%8F%91%E5%AF%B9%E6%88%98iG%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -32,9 +32,9 @@
 4. [20余省已公布高考查分时间](https://www.baidu.com/s?wd=20%E4%BD%99%E7%9C%81%E5%B7%B2%E5%85%AC%E5%B8%83%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86%E6%97%B6%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [17岁女孩一晚连刷6套卷子后患脑病](https://www.baidu.com/s?wd=17%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%B8%80%E6%99%9A%E8%BF%9E%E5%88%B76%E5%A5%97%E5%8D%B7%E5%AD%90%E5%90%8E%E6%82%A3%E8%84%91%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [主持毕业晚会时被求婚是什么体验](https://www.baidu.com/s?wd=%E4%B8%BB%E6%8C%81%E6%AF%95%E4%B8%9A%E6%99%9A%E4%BC%9A%E6%97%B6%E8%A2%AB%E6%B1%82%E5%A9%9A%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [感动全网的高考生家里贴满奖状](https://www.baidu.com/s?wd=%E6%84%9F%E5%8A%A8%E5%85%A8%E7%BD%91%E7%9A%84%E9%AB%98%E8%80%83%E7%94%9F%E5%AE%B6%E9%87%8C%E8%B4%B4%E6%BB%A1%E5%A5%96%E7%8A%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [美国一地数千条鲱鱼突然死亡](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%80%E5%9C%B0%E6%95%B0%E5%8D%83%E6%9D%A1%E9%B2%B1%E9%B1%BC%E7%AA%81%E7%84%B6%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [笑果旗下公司擅自演出被罚](https://www.baidu.com/s?wd=%E7%AC%91%E6%9E%9C%E6%97%97%E4%B8%8B%E5%85%AC%E5%8F%B8%E6%93%85%E8%87%AA%E6%BC%94%E5%87%BA%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [95号汽油进入7元时代](https://www.baidu.com/s?wd=95%E5%8F%B7%E6%B1%BD%E6%B2%B9%E8%BF%9B%E5%85%A57%E5%85%83%E6%97%B6%E4%BB%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [江歌母亲:刘鑫不服二审判决申请再审](https://www.baidu.com/s?wd=%E6%B1%9F%E6%AD%8C%E6%AF%8D%E4%BA%B2%3A%E5%88%98%E9%91%AB%E4%B8%8D%E6%9C%8D%E4%BA%8C%E5%AE%A1%E5%88%A4%E5%86%B3%E7%94%B3%E8%AF%B7%E5%86%8D%E5%AE%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [20余省已公布高考查分时间](https://www.baidu.com/s?wd=20%E4%BD%99%E7%9C%81%E5%B7%B2%E5%85%AC%E5%B8%83%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86%E6%97%B6%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [17岁女孩一晚连刷6套卷子后患脑病](https://www.baidu.com/s?wd=17%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%B8%80%E6%99%9A%E8%BF%9E%E5%88%B76%E5%A5%97%E5%8D%B7%E5%AD%90%E5%90%8E%E6%82%A3%E8%84%91%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [主持毕业晚会时被求婚是什么体验](https://www.baidu.com/s?wd=%E4%B8%BB%E6%8C%81%E6%AF%95%E4%B8%9A%E6%99%9A%E4%BC%9A%E6%97%B6%E8%A2%AB%E6%B1%82%E5%A9%9A%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [感动全网的高考生家里贴满奖状](https://www.baidu.com/s?wd=%E6%84%9F%E5%8A%A8%E5%85%A8%E7%BD%91%E7%9A%84%E9%AB%98%E8%80%83%E7%94%9F%E5%AE%B6%E9%87%8C%E8%B4%B4%E6%BB%A1%E5%A5%96%E7%8A%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [美国一地数千条鲱鱼突然死亡](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%80%E5%9C%B0%E6%95%B0%E5%8D%83%E6%9D%A1%E9%B2%B1%E9%B1%BC%E7%AA%81%E7%84%B6%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [笑果旗下公司擅自演出被罚](https://www.baidu.com/s?wd=%E7%AC%91%E6%9E%9C%E6%97%97%E4%B8%8B%E5%85%AC%E5%8F%B8%E6%93%85%E8%87%AA%E6%BC%94%E5%87%BA%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [95号汽油进入7元时代](https://www.baidu.com/s?wd=95%E5%8F%B7%E6%B1%BD%E6%B2%B9%E8%BF%9B%E5%85%A57%E5%85%83%E6%97%B6%E4%BB%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [江歌母亲:刘鑫不服二审判决申请再审](https://www.baidu.com/s?wd=%E6%B1%9F%E6%AD%8C%E6%AF%8D%E4%BA%B2%3A%E5%88%98%E9%91%AB%E4%B8%8D%E6%9C%8D%E4%BA%8C%E5%AE%A1%E5%88%A4%E5%86%B3%E7%94%B3%E8%AF%B7%E5%86%8D%E5%AE%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
