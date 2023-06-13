@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 20:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 20:06:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [王传君 INFP](https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BC%A0%E5%90%9B%20INFP&t=31&band_rank=5&Refer=top)<br />
 6. [詹雯婷控告陈建宁反遭起诉](https://s.weibo.com/weibo?q=%23%E8%A9%B9%E9%9B%AF%E5%A9%B7%E6%8E%A7%E5%91%8A%E9%99%88%E5%BB%BA%E5%AE%81%E5%8F%8D%E9%81%AD%E8%B5%B7%E8%AF%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [杭师大涉事男生发声](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B8%88%E5%A4%A7%E6%B6%89%E4%BA%8B%E7%94%B7%E7%94%9F%E5%8F%91%E5%A3%B0%23&t=31&band_rank=7&Refer=top)<br />
-8. [高考后妹妹得知姐姐已去世一个月](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%90%8E%E5%A6%B9%E5%A6%B9%E5%BE%97%E7%9F%A5%E5%A7%90%E5%A7%90%E5%B7%B2%E5%8E%BB%E4%B8%96%E4%B8%80%E4%B8%AA%E6%9C%88%23&t=31&band_rank=8&Refer=top)<br />
-9. [赵露思造型师换成闵塔鲨了](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E9%80%A0%E5%9E%8B%E5%B8%88%E6%8D%A2%E6%88%90%E9%97%B5%E5%A1%94%E9%B2%A8%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+8. [赵露思造型师换成闵塔鲨了](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E9%80%A0%E5%9E%8B%E5%B8%88%E6%8D%A2%E6%88%90%E9%97%B5%E5%A1%94%E9%B2%A8%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [张柏芝 好能打的一张脸](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9F%8F%E8%8A%9D%20%E5%A5%BD%E8%83%BD%E6%89%93%E7%9A%84%E4%B8%80%E5%BC%A0%E8%84%B8&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -18,7 +18,7 @@
 2. [我喵一声猫也会喵一声，跟对话一样，它是真的听的懂我说什么了吗？](https://www.zhihu.com/question/604083219)<br />
 3. [江西女子卖婚房为前夫还赌债，34 岁带孩子到鹤岗隐居，如何看待这一做法？](https://www.zhihu.com/question/606325930)<br />
 4. [美国务卿访问沙特刚离开，沙特转身与中国签下百亿大单，并称中沙合作不仅局限于路桥基建，哪些信息值得关注？](https://www.zhihu.com/question/606359019)<br />
-5. [文科生最好的选择是报法学吗？为什么？](https://www.zhihu.com/theater/10104)<br />
+5. [法学是不是文科生的好选择？毕业有哪些合适的就业方向？](https://www.zhihu.com/theater/10104)<br />
 6. [我家离村子里面 5km 左右，运营商看过后说安不了宽带，能自己拉吗？或者说硬要拉的话，要花多少钱？](https://www.zhihu.com/question/597026273)<br />
 7. [江西财经大学近年招收大量专升本考生，专升本学生占比迅速上升，是否会对本科统招造成影响？](https://www.zhihu.com/question/605899790)<br />
 8. [男子地铁上被两女子称鞋面装摄像头偷拍，民警调查证其清白，男子拒绝接受道歉并希望起诉，后续将如何发展？](https://www.zhihu.com/question/606317343)<br />
