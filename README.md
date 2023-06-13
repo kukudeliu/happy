@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 12:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 12:24:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [男子在洗浴中心被男性猥亵](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E6%B4%97%E6%B5%B4%E4%B8%AD%E5%BF%83%E8%A2%AB%E7%94%B7%E6%80%A7%E7%8C%A5%E4%BA%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子带2幼儿跳河：母亲身亡孩子获救](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B8%A62%E5%B9%BC%E5%84%BF%E8%B7%B3%E6%B2%B3%EF%BC%9A%E6%AF%8D%E4%BA%B2%E8%BA%AB%E4%BA%A1%E5%AD%A9%E5%AD%90%E8%8E%B7%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [物业为防业主逃费连装8条减速带](https://www.baidu.com/s?wd=%E7%89%A9%E4%B8%9A%E4%B8%BA%E9%98%B2%E4%B8%9A%E4%B8%BB%E9%80%83%E8%B4%B9%E8%BF%9E%E8%A3%858%E6%9D%A1%E5%87%8F%E9%80%9F%E5%B8%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [迪丽热巴的机场穿搭](https://www.baidu.com/s?wd=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9A%84%E6%9C%BA%E5%9C%BA%E7%A9%BF%E6%90%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [深圳千万豪宅楼盘再次“日光”](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%8D%83%E4%B8%87%E8%B1%AA%E5%AE%85%E6%A5%BC%E7%9B%98%E5%86%8D%E6%AC%A1%E2%80%9C%E6%97%A5%E5%85%89%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [男子在洗浴中心被男性猥亵](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E6%B4%97%E6%B5%B4%E4%B8%AD%E5%BF%83%E8%A2%AB%E7%94%B7%E6%80%A7%E7%8C%A5%E4%BA%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子带2幼儿跳河：母亲身亡孩子获救](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B8%A62%E5%B9%BC%E5%84%BF%E8%B7%B3%E6%B2%B3%EF%BC%9A%E6%AF%8D%E4%BA%B2%E8%BA%AB%E4%BA%A1%E5%AD%A9%E5%AD%90%E8%8E%B7%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [物业为防业主逃费连装8条减速带](https://www.baidu.com/s?wd=%E7%89%A9%E4%B8%9A%E4%B8%BA%E9%98%B2%E4%B8%9A%E4%B8%BB%E9%80%83%E8%B4%B9%E8%BF%9E%E8%A3%858%E6%9D%A1%E5%87%8F%E9%80%9F%E5%B8%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [迪丽热巴的机场穿搭](https://www.baidu.com/s?wd=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9A%84%E6%9C%BA%E5%9C%BA%E7%A9%BF%E6%90%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [深圳千万豪宅楼盘再次“日光”](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%8D%83%E4%B8%87%E8%B1%AA%E5%AE%85%E6%A5%BC%E7%9B%98%E5%86%8D%E6%AC%A1%E2%80%9C%E6%97%A5%E5%85%89%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
