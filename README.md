@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 15:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 15:22:02</h4></div>
 
 > 微博  
 
@@ -18,11 +18,11 @@
 2. [高考完想换 iPhone 14 Pro，爸妈觉得太贵，准大学生想用 iPhone 14 Pro 奢侈吗？](https://www.zhihu.com/question/604348759)<br />
 3. [我家离村子里面 5km 左右，运营商看过后说安不了宽带，能自己拉吗？或者说硬要拉的话，要花多少钱？](https://www.zhihu.com/question/597026273)<br />
 4. [韩网红柬埔寨旅游去世尸体被扔水沟，目前事件调查进展如何？](https://www.zhihu.com/question/606229094)<br />
-5. [马路晒麦子致男子摔伤，4 小时没等来麦子主人，派出所将麦子判给男子，卖 1800 元弥补损失，如何看待？](https://www.zhihu.com/question/606075840)<br />
-6. [读博该怎么和导师相处？](https://www.zhihu.com/question/605982190)<br />
-7. [如何看待 TheSnake 选手这极有可能首发出战的唯一一场 LPL 比赛？](https://www.zhihu.com/question/606128538)<br />
+5. [读博该怎么和导师相处？](https://www.zhihu.com/question/605982190)<br />
+6. [马路晒麦子致男子摔伤，4 小时没等来麦子主人，派出所将麦子判给男子，卖 1800 元弥补损失，如何看待？](https://www.zhihu.com/question/606075840)<br />
+7. [温州一企业发红头文件「禁止婚外情和出轨」，公司回应「家庭和谐才能稳定工作」，如何看待公司的做法？](https://www.zhihu.com/question/606321376)<br />
 8. [男子地铁上被两女子称鞋面装摄像头偷拍，民警调查证其清白，男子拒绝接受道歉并希望起诉，后续将如何发展？](https://www.zhihu.com/question/606317343)<br />
-9. [温州一企业发红头文件「禁止婚外情和出轨」，公司回应「家庭和谐才能稳定工作」，如何看待公司的做法？](https://www.zhihu.com/question/606321376)<br />
+9. [如何看待 TheSnake 选手这极有可能首发出战的唯一一场 LPL 比赛？](https://www.zhihu.com/question/606128538)<br />
 
 > 百度  
 
