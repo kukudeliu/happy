@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 13:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 13:24:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [姑娘退租时打扫干净房子留下喜糖](https://www.baidu.com/s?wd=%E5%A7%91%E5%A8%98%E9%80%80%E7%A7%9F%E6%97%B6%E6%89%93%E6%89%AB%E5%B9%B2%E5%87%80%E6%88%BF%E5%AD%90%E7%95%99%E4%B8%8B%E5%96%9C%E7%B3%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子在洗浴中心被男性猥亵](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E6%B4%97%E6%B5%B4%E4%B8%AD%E5%BF%83%E8%A2%AB%E7%94%B7%E6%80%A7%E7%8C%A5%E4%BA%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#赵丽颖冯绍峰离婚后首次同框带娃#](https://www.baidu.com/s?wd=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%86%AF%E7%BB%8D%E5%B3%B0%E7%A6%BB%E5%A9%9A%E5%90%8E%E9%A6%96%E6%AC%A1%E5%90%8C%E6%A1%86%E5%B8%A6%E5%A8%83%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中纪委“内鬼”刘燃被“双开”](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BA%AA%E5%A7%94%E2%80%9C%E5%86%85%E9%AC%BC%E2%80%9D%E5%88%98%E7%87%83%E8%A2%AB%E2%80%9C%E5%8F%8C%E5%BC%80%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [物业为防业主逃费连装8条减速带](https://www.baidu.com/s?wd=%E7%89%A9%E4%B8%9A%E4%B8%BA%E9%98%B2%E4%B8%9A%E4%B8%BB%E9%80%83%E8%B4%B9%E8%BF%9E%E8%A3%858%E6%9D%A1%E5%87%8F%E9%80%9F%E5%B8%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [姑娘退租时打扫干净房子留下喜糖](https://www.baidu.com/s?wd=%E5%A7%91%E5%A8%98%E9%80%80%E7%A7%9F%E6%97%B6%E6%89%93%E6%89%AB%E5%B9%B2%E5%87%80%E6%88%BF%E5%AD%90%E7%95%99%E4%B8%8B%E5%96%9C%E7%B3%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子在洗浴中心被男性猥亵](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E6%B4%97%E6%B5%B4%E4%B8%AD%E5%BF%83%E8%A2%AB%E7%94%B7%E6%80%A7%E7%8C%A5%E4%BA%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#赵丽颖冯绍峰离婚后首次同框带娃#](https://www.baidu.com/s?wd=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%86%AF%E7%BB%8D%E5%B3%B0%E7%A6%BB%E5%A9%9A%E5%90%8E%E9%A6%96%E6%AC%A1%E5%90%8C%E6%A1%86%E5%B8%A6%E5%A8%83%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中纪委“内鬼”刘燃被“双开”](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BA%AA%E5%A7%94%E2%80%9C%E5%86%85%E9%AC%BC%E2%80%9D%E5%88%98%E7%87%83%E8%A2%AB%E2%80%9C%E5%8F%8C%E5%BC%80%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [物业为防业主逃费连装8条减速带](https://www.baidu.com/s?wd=%E7%89%A9%E4%B8%9A%E4%B8%BA%E9%98%B2%E4%B8%9A%E4%B8%BB%E9%80%83%E8%B4%B9%E8%BF%9E%E8%A3%858%E6%9D%A1%E5%87%8F%E9%80%9F%E5%B8%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
