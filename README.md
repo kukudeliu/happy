@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 02:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 02:19:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [男生挤痘流血近1小时：用了400张纸](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E6%8C%A4%E7%97%98%E6%B5%81%E8%A1%80%E8%BF%911%E5%B0%8F%E6%97%B6%EF%BC%9A%E7%94%A8%E4%BA%86400%E5%BC%A0%E7%BA%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [高考结束妹妹才得知姐姐去世一个月](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E5%A6%B9%E5%A6%B9%E6%89%8D%E5%BE%97%E7%9F%A5%E5%A7%90%E5%A7%90%E5%8E%BB%E4%B8%96%E4%B8%80%E4%B8%AA%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [笑果旗下公司擅自演出被罚](https://www.baidu.com/s?wd=%E7%AC%91%E6%9E%9C%E6%97%97%E4%B8%8B%E5%85%AC%E5%8F%B8%E6%93%85%E8%87%AA%E6%BC%94%E5%87%BA%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [迪丽热巴的机场穿搭](https://www.baidu.com/s?wd=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9A%84%E6%9C%BA%E5%9C%BA%E7%A9%BF%E6%90%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [312斤网红在减肥训练营离世](https://www.baidu.com/s?wd=312%E6%96%A4%E7%BD%91%E7%BA%A2%E5%9C%A8%E5%87%8F%E8%82%A5%E8%AE%AD%E7%BB%83%E8%90%A5%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [男生挤痘流血近1小时：用了400张纸](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E6%8C%A4%E7%97%98%E6%B5%81%E8%A1%80%E8%BF%911%E5%B0%8F%E6%97%B6%EF%BC%9A%E7%94%A8%E4%BA%86400%E5%BC%A0%E7%BA%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [高考结束妹妹才得知姐姐去世一个月](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E5%A6%B9%E5%A6%B9%E6%89%8D%E5%BE%97%E7%9F%A5%E5%A7%90%E5%A7%90%E5%8E%BB%E4%B8%96%E4%B8%80%E4%B8%AA%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [笑果旗下公司擅自演出被罚](https://www.baidu.com/s?wd=%E7%AC%91%E6%9E%9C%E6%97%97%E4%B8%8B%E5%85%AC%E5%8F%B8%E6%93%85%E8%87%AA%E6%BC%94%E5%87%BA%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [迪丽热巴的机场穿搭](https://www.baidu.com/s?wd=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9A%84%E6%9C%BA%E5%9C%BA%E7%A9%BF%E6%90%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [312斤网红在减肥训练营离世](https://www.baidu.com/s?wd=312%E6%96%A4%E7%BD%91%E7%BA%A2%E5%9C%A8%E5%87%8F%E8%82%A5%E8%AE%AD%E7%BB%83%E8%90%A5%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
