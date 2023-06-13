@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 08:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 08:23:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [越南严重缺电，富士康、三星等工厂受影响，时隔 7 年我国重启对越送电，哪些信息值得关注？](https://www.zhihu.com/question/606164349)<br />
 5. [马路晒麦子致男子摔伤，4 小时没等来麦子主人，派出所将麦子判给男子，卖 1800 元弥补损失，如何看待？](https://www.zhihu.com/question/606075840)<br />
 6. [柯文哲称若当选将发动网军瘫痪大陆高铁、取款机，此前在「钓鱼岛、核废水」等议题讨好日本人，透露哪些信息？](https://www.zhihu.com/question/606148038)<br />
-7. [韩国官员对中国大使出言不逊，外交部回应表明严重关切和不满，如何看待此事？对中韩关系有何影响？](https://www.zhihu.com/question/606182202)<br />
-8. [北斗使用超 GPS 成全球第一了吗？](https://www.zhihu.com/question/601916149)<br />
-9. [比亚迪香港四店面 3 小时内遭连环破坏，目前情况如何？作案动机可能是什么？](https://www.zhihu.com/question/606262026)<br />
+7. [北斗使用超 GPS 成全球第一了吗？](https://www.zhihu.com/question/601916149)<br />
+8. [比亚迪香港四店面 3 小时内遭连环破坏，目前情况如何？作案动机可能是什么？](https://www.zhihu.com/question/606262026)<br />
+9. [为什么真人版的毛利兰都没有角？](https://www.zhihu.com/question/286452082)<br />
 
 > 百度  
 
