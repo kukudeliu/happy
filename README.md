@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 23:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 23:59:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [刘亦菲 不在乎别人的想法](https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%20%E4%B8%8D%E5%9C%A8%E4%B9%8E%E5%88%AB%E4%BA%BA%E7%9A%84%E6%83%B3%E6%B3%95&t=31&band_rank=4&Refer=top)<br />
 5. [天津河东区一小区发生爆炸](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E6%B2%B3%E4%B8%9C%E5%8C%BA%E4%B8%80%E5%B0%8F%E5%8C%BA%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%23&t=31&band_rank=5&Refer=top)<br />
 6. [Jennie回应演唱会中途离场](https://s.weibo.com/weibo?q=%23Jennie%E5%9B%9E%E5%BA%94%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%AD%E9%80%94%E7%A6%BB%E5%9C%BA%23&t=31&band_rank=6&Refer=top)<br />
-7. [笑果旗下公司擅自演出被罚](https://s.weibo.com/weibo?q=%23%E7%AC%91%E6%9E%9C%E6%97%97%E4%B8%8B%E5%85%AC%E5%8F%B8%E6%93%85%E8%87%AA%E6%BC%94%E5%87%BA%E8%A2%AB%E7%BD%9A%23&t=31&band_rank=7&Refer=top)<br />
-8. [Uzi首发对战iG](https://s.weibo.com/weibo?q=%23Uzi%E9%A6%96%E5%8F%91%E5%AF%B9%E6%88%98iG%23&t=31&band_rank=8&Refer=top)<br />
-9. [梅西说不会参加下届世界杯](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%AF%B4%E4%B8%8D%E4%BC%9A%E5%8F%82%E5%8A%A0%E4%B8%8B%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%23&t=31&band_rank=9&Refer=top)<br />
+7. [高考后妹妹得知姐姐已去世一个月](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%90%8E%E5%A6%B9%E5%A6%B9%E5%BE%97%E7%9F%A5%E5%A7%90%E5%A7%90%E5%B7%B2%E5%8E%BB%E4%B8%96%E4%B8%80%E4%B8%AA%E6%9C%88%23&t=31&band_rank=7&Refer=top)<br />
+8. [笑果旗下公司擅自演出被罚](https://s.weibo.com/weibo?q=%23%E7%AC%91%E6%9E%9C%E6%97%97%E4%B8%8B%E5%85%AC%E5%8F%B8%E6%93%85%E8%87%AA%E6%BC%94%E5%87%BA%E8%A2%AB%E7%BD%9A%23&t=31&band_rank=8&Refer=top)<br />
+9. [Uzi首发对战iG](https://s.weibo.com/weibo?q=%23Uzi%E9%A6%96%E5%8F%91%E5%AF%B9%E6%88%98iG%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -31,10 +31,10 @@
 3. [天津河东区一小区发生爆炸](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E6%B2%B3%E4%B8%9C%E5%8C%BA%E4%B8%80%E5%B0%8F%E5%8C%BA%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [高考评卷工作全面展开](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E8%AF%84%E5%8D%B7%E5%B7%A5%E4%BD%9C%E5%85%A8%E9%9D%A2%E5%B1%95%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [17岁女孩一晚连刷6套卷子后患脑病](https://www.baidu.com/s?wd=17%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%B8%80%E6%99%9A%E8%BF%9E%E5%88%B76%E5%A5%97%E5%8D%B7%E5%AD%90%E5%90%8E%E6%82%A3%E8%84%91%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [笑果旗下公司擅自演出被罚](https://www.baidu.com/s?wd=%E7%AC%91%E6%9E%9C%E6%97%97%E4%B8%8B%E5%85%AC%E5%8F%B8%E6%93%85%E8%87%AA%E6%BC%94%E5%87%BA%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [被官媒揭穿的“防晒衣”套路深](https://www.baidu.com/s?wd=%E8%A2%AB%E5%AE%98%E5%AA%92%E6%8F%AD%E7%A9%BF%E7%9A%84%E2%80%9C%E9%98%B2%E6%99%92%E8%A1%A3%E2%80%9D%E5%A5%97%E8%B7%AF%E6%B7%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [杨子首谈黄圣依被封杀](https://www.baidu.com/s?wd=%E6%9D%A8%E5%AD%90%E9%A6%96%E8%B0%88%E9%BB%84%E5%9C%A3%E4%BE%9D%E8%A2%AB%E5%B0%81%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男生挤痘流血近1小时：用了400张纸](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E6%8C%A4%E7%97%98%E6%B5%81%E8%A1%80%E8%BF%911%E5%B0%8F%E6%97%B6%EF%BC%9A%E7%94%A8%E4%BA%86400%E5%BC%A0%E7%BA%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [天津一小区爆炸 44辆救援车赶赴现场](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E4%B8%80%E5%B0%8F%E5%8C%BA%E7%88%86%E7%82%B8+44%E8%BE%86%E6%95%91%E6%8F%B4%E8%BD%A6%E8%B5%B6%E8%B5%B4%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [韩总理称核污水科学处理可饮用](https://www.baidu.com/s?wd=%E9%9F%A9%E6%80%BB%E7%90%86%E7%A7%B0%E6%A0%B8%E6%B1%A1%E6%B0%B4%E7%A7%91%E5%AD%A6%E5%A4%84%E7%90%86%E5%8F%AF%E9%A5%AE%E7%94%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [笑果旗下公司擅自演出被罚](https://www.baidu.com/s?wd=%E7%AC%91%E6%9E%9C%E6%97%97%E4%B8%8B%E5%85%AC%E5%8F%B8%E6%93%85%E8%87%AA%E6%BC%94%E5%87%BA%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [主持毕业晚会时被求婚是什么体验](https://www.baidu.com/s?wd=%E4%B8%BB%E6%8C%81%E6%AF%95%E4%B8%9A%E6%99%9A%E4%BC%9A%E6%97%B6%E8%A2%AB%E6%B1%82%E5%A9%9A%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [天津河东区一小区发生爆炸](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E6%B2%B3%E4%B8%9C%E5%8C%BA%E4%B8%80%E5%B0%8F%E5%8C%BA%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [高考评卷工作全面展开](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E8%AF%84%E5%8D%B7%E5%B7%A5%E4%BD%9C%E5%85%A8%E9%9D%A2%E5%B1%95%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [17岁女孩一晚连刷6套卷子后患脑病](https://www.baidu.com/s?wd=17%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%B8%80%E6%99%9A%E8%BF%9E%E5%88%B76%E5%A5%97%E5%8D%B7%E5%AD%90%E5%90%8E%E6%82%A3%E8%84%91%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [笑果旗下公司擅自演出被罚](https://www.baidu.com/s?wd=%E7%AC%91%E6%9E%9C%E6%97%97%E4%B8%8B%E5%85%AC%E5%8F%B8%E6%93%85%E8%87%AA%E6%BC%94%E5%87%BA%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [被官媒揭穿的“防晒衣”套路深](https://www.baidu.com/s?wd=%E8%A2%AB%E5%AE%98%E5%AA%92%E6%8F%AD%E7%A9%BF%E7%9A%84%E2%80%9C%E9%98%B2%E6%99%92%E8%A1%A3%E2%80%9D%E5%A5%97%E8%B7%AF%E6%B7%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [杨子首谈黄圣依被封杀](https://www.baidu.com/s?wd=%E6%9D%A8%E5%AD%90%E9%A6%96%E8%B0%88%E9%BB%84%E5%9C%A3%E4%BE%9D%E8%A2%AB%E5%B0%81%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男生挤痘流血近1小时：用了400张纸](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E6%8C%A4%E7%97%98%E6%B5%81%E8%A1%80%E8%BF%911%E5%B0%8F%E6%97%B6%EF%BC%9A%E7%94%A8%E4%BA%86400%E5%BC%A0%E7%BA%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [天津一小区爆炸 44辆救援车赶赴现场](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E4%B8%80%E5%B0%8F%E5%8C%BA%E7%88%86%E7%82%B8+44%E8%BE%86%E6%95%91%E6%8F%B4%E8%BD%A6%E8%B5%B6%E8%B5%B4%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [韩总理称核污水科学处理可饮用](https://www.baidu.com/s?wd=%E9%9F%A9%E6%80%BB%E7%90%86%E7%A7%B0%E6%A0%B8%E6%B1%A1%E6%B0%B4%E7%A7%91%E5%AD%A6%E5%A4%84%E7%90%86%E5%8F%AF%E9%A5%AE%E7%94%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [笑果旗下公司擅自演出被罚](https://www.baidu.com/s?wd=%E7%AC%91%E6%9E%9C%E6%97%97%E4%B8%8B%E5%85%AC%E5%8F%B8%E6%93%85%E8%87%AA%E6%BC%94%E5%87%BA%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [主持毕业晚会时被求婚是什么体验](https://www.baidu.com/s?wd=%E4%B8%BB%E6%8C%81%E6%AF%95%E4%B8%9A%E6%99%9A%E4%BC%9A%E6%97%B6%E8%A2%AB%E6%B1%82%E5%A9%9A%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
