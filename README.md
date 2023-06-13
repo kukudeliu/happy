@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 07:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 07:41:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [高考后妹妹得知姐姐已去世一个月](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%90%8E%E5%A6%B9%E5%A6%B9%E5%BE%97%E7%9F%A5%E5%A7%90%E5%A7%90%E5%B7%B2%E5%8E%BB%E4%B8%96%E4%B8%80%E4%B8%AA%E6%9C%88%23&t=31&band_rank=6&Refer=top)<br />
 7. [梦是一种心理上的转码过程](https://s.weibo.com/weibo?q=%E6%A2%A6%E6%98%AF%E4%B8%80%E7%A7%8D%E5%BF%83%E7%90%86%E4%B8%8A%E7%9A%84%E8%BD%AC%E7%A0%81%E8%BF%87%E7%A8%8B&t=31&band_rank=7&Refer=top)<br />
 8. [笑果旗下公司擅自演出被罚](https://s.weibo.com/weibo?q=%23%E7%AC%91%E6%9E%9C%E6%97%97%E4%B8%8B%E5%85%AC%E5%8F%B8%E6%93%85%E8%87%AA%E6%BC%94%E5%87%BA%E8%A2%AB%E7%BD%9A%23&t=31&band_rank=8&Refer=top)<br />
-9. [梦海给我调到第20集32分17秒](https://s.weibo.com/weibo?q=%E6%A2%A6%E6%B5%B7%E7%BB%99%E6%88%91%E8%B0%83%E5%88%B0%E7%AC%AC20%E9%9B%8632%E5%88%8617%E7%A7%92&t=31&band_rank=9&Refer=top)<br />
+9. [为什么夏天都不穿凉鞋了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%8F%E5%A4%A9%E9%83%BD%E4%B8%8D%E7%A9%BF%E5%87%89%E9%9E%8B%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -20,9 +20,9 @@
 4. [为什么家里的长辈炒菜基本都会放葱姜蒜等调料，而对于年轻人它似乎变得可有可无？](https://www.zhihu.com/question/605464337)<br />
 5. [印度发出正式通知手机小米企业因非法向国外转移资金，或被没收 48 亿元资金，如何看待印度此番做法？](https://www.zhihu.com/question/606367251)<br />
 6. [国家发改委通知「2023 年底前对月销售额 10 万元以下小规模纳税人免征增值税」，这将带来哪些利好？](https://www.zhihu.com/question/606387626)<br />
-7. []()<br />
-8. [凉山彝族的父系印度血缘祖先是否有可能是锡克族，在元朝进入凉山地区的？](https://www.zhihu.com/question/599714803)<br />
-9. [你的第一段科研经历是怎样的？](https://www.zhihu.com/question/338996639)<br />
+7. [凉山彝族的父系印度血缘祖先是否有可能是锡克族，在元朝进入凉山地区的？](https://www.zhihu.com/question/599714803)<br />
+8. [你的第一段科研经历是怎样的？](https://www.zhihu.com/question/338996639)<br />
+9. []()<br />
 
 > 百度  
 
