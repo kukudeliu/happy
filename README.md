@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 12:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 12:39:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [掘金队夺队史首个NBA总冠军](https://www.baidu.com/s?wd=%E6%8E%98%E9%87%91%E9%98%9F%E5%A4%BA%E9%98%9F%E5%8F%B2%E9%A6%96%E4%B8%AANBA%E6%80%BB%E5%86%A0%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子在洗浴中心被男性猥亵](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E6%B4%97%E6%B5%B4%E4%B8%AD%E5%BF%83%E8%A2%AB%E7%94%B7%E6%80%A7%E7%8C%A5%E4%BA%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子带2幼儿跳河：母亲身亡孩子获救](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B8%A62%E5%B9%BC%E5%84%BF%E8%B7%B3%E6%B2%B3%EF%BC%9A%E6%AF%8D%E4%BA%B2%E8%BA%AB%E4%BA%A1%E5%AD%A9%E5%AD%90%E8%8E%B7%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [陕西一民宿景区开业一月遭拆除](https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF%E4%B8%80%E6%B0%91%E5%AE%BF%E6%99%AF%E5%8C%BA%E5%BC%80%E4%B8%9A%E4%B8%80%E6%9C%88%E9%81%AD%E6%8B%86%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [迪丽热巴的机场穿搭](https://www.baidu.com/s?wd=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9A%84%E6%9C%BA%E5%9C%BA%E7%A9%BF%E6%90%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [水果店内多人持械斗殴 警方通报](https://www.baidu.com/s?wd=%E6%B0%B4%E6%9E%9C%E5%BA%97%E5%86%85%E5%A4%9A%E4%BA%BA%E6%8C%81%E6%A2%B0%E6%96%97%E6%AE%B4+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [陕西一民宿景区开业一月遭拆除](https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF%E4%B8%80%E6%B0%91%E5%AE%BF%E6%99%AF%E5%8C%BA%E5%BC%80%E4%B8%9A%E4%B8%80%E6%9C%88%E9%81%AD%E6%8B%86%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [掘金队夺队史首个NBA总冠军](https://www.baidu.com/s?wd=%E6%8E%98%E9%87%91%E9%98%9F%E5%A4%BA%E9%98%9F%E5%8F%B2%E9%A6%96%E4%B8%AANBA%E6%80%BB%E5%86%A0%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子在洗浴中心被男性猥亵](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E6%B4%97%E6%B5%B4%E4%B8%AD%E5%BF%83%E8%A2%AB%E7%94%B7%E6%80%A7%E7%8C%A5%E4%BA%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子带2幼儿跳河：母亲身亡孩子获救](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B8%A62%E5%B9%BC%E5%84%BF%E8%B7%B3%E6%B2%B3%EF%BC%9A%E6%AF%8D%E4%BA%B2%E8%BA%AB%E4%BA%A1%E5%AD%A9%E5%AD%90%E8%8E%B7%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [陕西一民宿景区开业一月遭拆除](https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF%E4%B8%80%E6%B0%91%E5%AE%BF%E6%99%AF%E5%8C%BA%E5%BC%80%E4%B8%9A%E4%B8%80%E6%9C%88%E9%81%AD%E6%8B%86%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [迪丽热巴的机场穿搭](https://www.baidu.com/s?wd=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9A%84%E6%9C%BA%E5%9C%BA%E7%A9%BF%E6%90%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [水果店内多人持械斗殴 警方通报](https://www.baidu.com/s?wd=%E6%B0%B4%E6%9E%9C%E5%BA%97%E5%86%85%E5%A4%9A%E4%BA%BA%E6%8C%81%E6%A2%B0%E6%96%97%E6%AE%B4+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [陕西一民宿景区开业一月遭拆除](https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF%E4%B8%80%E6%B0%91%E5%AE%BF%E6%99%AF%E5%8C%BA%E5%BC%80%E4%B8%9A%E4%B8%80%E6%9C%88%E9%81%AD%E6%8B%86%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
