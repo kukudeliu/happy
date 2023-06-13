@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 12:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 12:44:01</h4></div>
 
 > 微博  
 
@@ -33,7 +33,7 @@
 5. [掘金队夺队史首个NBA总冠军](https://www.baidu.com/s?wd=%E6%8E%98%E9%87%91%E9%98%9F%E5%A4%BA%E9%98%9F%E5%8F%B2%E9%A6%96%E4%B8%AANBA%E6%80%BB%E5%86%A0%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子在洗浴中心被男性猥亵](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E6%B4%97%E6%B5%B4%E4%B8%AD%E5%BF%83%E8%A2%AB%E7%94%B7%E6%80%A7%E7%8C%A5%E4%BA%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子带2幼儿跳河：母亲身亡孩子获救](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B8%A62%E5%B9%BC%E5%84%BF%E8%B7%B3%E6%B2%B3%EF%BC%9A%E6%AF%8D%E4%BA%B2%E8%BA%AB%E4%BA%A1%E5%AD%A9%E5%AD%90%E8%8E%B7%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [水果店内多人持械斗殴 警方通报](https://www.baidu.com/s?wd=%E6%B0%B4%E6%9E%9C%E5%BA%97%E5%86%85%E5%A4%9A%E4%BA%BA%E6%8C%81%E6%A2%B0%E6%96%97%E6%AE%B4+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [阿信为陈绮贞发长文](https://www.baidu.com/s?wd=%E9%98%BF%E4%BF%A1%E4%B8%BA%E9%99%88%E7%BB%AE%E8%B4%9E%E5%8F%91%E9%95%BF%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [她从“第一夫人”到“第一总统”](https://www.baidu.com/s?wd=%E5%A5%B9%E4%BB%8E%E2%80%9C%E7%AC%AC%E4%B8%80%E5%A4%AB%E4%BA%BA%E2%80%9D%E5%88%B0%E2%80%9C%E7%AC%AC%E4%B8%80%E6%80%BB%E7%BB%9F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [掘金队夺队史首个NBA总冠军](https://www.baidu.com/s?wd=%E6%8E%98%E9%87%91%E9%98%9F%E5%A4%BA%E9%98%9F%E5%8F%B2%E9%A6%96%E4%B8%AANBA%E6%80%BB%E5%86%A0%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子在洗浴中心被男性猥亵](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E6%B4%97%E6%B5%B4%E4%B8%AD%E5%BF%83%E8%A2%AB%E7%94%B7%E6%80%A7%E7%8C%A5%E4%BA%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子带2幼儿跳河：母亲身亡孩子获救](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B8%A62%E5%B9%BC%E5%84%BF%E8%B7%B3%E6%B2%B3%EF%BC%9A%E6%AF%8D%E4%BA%B2%E8%BA%AB%E4%BA%A1%E5%AD%A9%E5%AD%90%E8%8E%B7%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [水果店内多人持械斗殴 警方通报](https://www.baidu.com/s?wd=%E6%B0%B4%E6%9E%9C%E5%BA%97%E5%86%85%E5%A4%9A%E4%BA%BA%E6%8C%81%E6%A2%B0%E6%96%97%E6%AE%B4+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [阿信为陈绮贞发长文](https://www.baidu.com/s?wd=%E9%98%BF%E4%BF%A1%E4%B8%BA%E9%99%88%E7%BB%AE%E8%B4%9E%E5%8F%91%E9%95%BF%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [她从“第一夫人”到“第一总统”](https://www.baidu.com/s?wd=%E5%A5%B9%E4%BB%8E%E2%80%9C%E7%AC%AC%E4%B8%80%E5%A4%AB%E4%BA%BA%E2%80%9D%E5%88%B0%E2%80%9C%E7%AC%AC%E4%B8%80%E6%80%BB%E7%BB%9F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
