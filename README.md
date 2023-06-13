@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 20:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 20:09:01</h4></div>
 
 > 微博  
 
@@ -32,9 +32,9 @@
 4. [毕业歌送给1158万毕业生](https://www.baidu.com/s?wd=%E6%AF%95%E4%B8%9A%E6%AD%8C%E9%80%81%E7%BB%991158%E4%B8%87%E6%AF%95%E4%B8%9A%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [杭师大涉事男生曾高喊不道歉就自杀](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B8%88%E5%A4%A7%E6%B6%89%E4%BA%8B%E7%94%B7%E7%94%9F%E6%9B%BE%E9%AB%98%E5%96%8A%E4%B8%8D%E9%81%93%E6%AD%89%E5%B0%B1%E8%87%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子家中进蜜蜂 半小时被筑超大蜂巢](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%AE%B6%E4%B8%AD%E8%BF%9B%E8%9C%9C%E8%9C%82+%E5%8D%8A%E5%B0%8F%E6%97%B6%E8%A2%AB%E7%AD%91%E8%B6%85%E5%A4%A7%E8%9C%82%E5%B7%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [中国驻中非大使馆：尽快撤离](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A9%BB%E4%B8%AD%E9%9D%9E%E5%A4%A7%E4%BD%BF%E9%A6%86%EF%BC%9A%E5%B0%BD%E5%BF%AB%E6%92%A4%E7%A6%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男生挤痘流血近1小时：用了400张纸](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E6%8C%A4%E7%97%98%E6%B5%81%E8%A1%80%E8%BF%911%E5%B0%8F%E6%97%B6%EF%BC%9A%E7%94%A8%E4%BA%86400%E5%BC%A0%E7%BA%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [马斯克：人类已经是半机器人](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E4%BA%BA%E7%B1%BB%E5%B7%B2%E7%BB%8F%E6%98%AF%E5%8D%8A%E6%9C%BA%E5%99%A8%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男生挤痘流血近1小时：用了400张纸](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E6%8C%A4%E7%97%98%E6%B5%81%E8%A1%80%E8%BF%911%E5%B0%8F%E6%97%B6%EF%BC%9A%E7%94%A8%E4%BA%86400%E5%BC%A0%E7%BA%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [马斯克：人类已经是半机器人](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E4%BA%BA%E7%B1%BB%E5%B7%B2%E7%BB%8F%E6%98%AF%E5%8D%8A%E6%9C%BA%E5%99%A8%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [中国驻中非大使馆：尽快撤离](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A9%BB%E4%B8%AD%E9%9D%9E%E5%A4%A7%E4%BD%BF%E9%A6%86%EF%BC%9A%E5%B0%BD%E5%BF%AB%E6%92%A4%E7%A6%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [毕业歌送给1158万毕业生](https://www.baidu.com/s?wd=%E6%AF%95%E4%B8%9A%E6%AD%8C%E9%80%81%E7%BB%991158%E4%B8%87%E6%AF%95%E4%B8%9A%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [杭师大涉事男生曾高喊不道歉就自杀](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B8%88%E5%A4%A7%E6%B6%89%E4%BA%8B%E7%94%B7%E7%94%9F%E6%9B%BE%E9%AB%98%E5%96%8A%E4%B8%8D%E9%81%93%E6%AD%89%E5%B0%B1%E8%87%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子家中进蜜蜂 半小时被筑超大蜂巢](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%AE%B6%E4%B8%AD%E8%BF%9B%E8%9C%9C%E8%9C%82+%E5%8D%8A%E5%B0%8F%E6%97%B6%E8%A2%AB%E7%AD%91%E8%B6%85%E5%A4%A7%E8%9C%82%E5%B7%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [中国驻中非大使馆：尽快撤离](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A9%BB%E4%B8%AD%E9%9D%9E%E5%A4%A7%E4%BD%BF%E9%A6%86%EF%BC%9A%E5%B0%BD%E5%BF%AB%E6%92%A4%E7%A6%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男生挤痘流血近1小时：用了400张纸](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E6%8C%A4%E7%97%98%E6%B5%81%E8%A1%80%E8%BF%911%E5%B0%8F%E6%97%B6%EF%BC%9A%E7%94%A8%E4%BA%86400%E5%BC%A0%E7%BA%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [马斯克：人类已经是半机器人](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E4%BA%BA%E7%B1%BB%E5%B7%B2%E7%BB%8F%E6%98%AF%E5%8D%8A%E6%9C%BA%E5%99%A8%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男生挤痘流血近1小时：用了400张纸](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E6%8C%A4%E7%97%98%E6%B5%81%E8%A1%80%E8%BF%911%E5%B0%8F%E6%97%B6%EF%BC%9A%E7%94%A8%E4%BA%86400%E5%BC%A0%E7%BA%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [马斯克：人类已经是半机器人](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E4%BA%BA%E7%B1%BB%E5%B7%B2%E7%BB%8F%E6%98%AF%E5%8D%8A%E6%9C%BA%E5%99%A8%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [中国驻中非大使馆：尽快撤离](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A9%BB%E4%B8%AD%E9%9D%9E%E5%A4%A7%E4%BD%BF%E9%A6%86%EF%BC%9A%E5%B0%BD%E5%BF%AB%E6%92%A4%E7%A6%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
