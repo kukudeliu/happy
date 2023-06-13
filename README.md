@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 18:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 18:47:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [格力主播穿免职裙](https://s.weibo.com/weibo?q=%23%E6%A0%BC%E5%8A%9B%E4%B8%BB%E6%92%AD%E7%A9%BF%E5%85%8D%E8%81%8C%E8%A3%99%23&t=31&band_rank=6&Refer=top)<br />
 7. [强戒小伙戴着手脚铐领证结婚](https://s.weibo.com/weibo?q=%23%E5%BC%BA%E6%88%92%E5%B0%8F%E4%BC%99%E6%88%B4%E7%9D%80%E6%89%8B%E8%84%9A%E9%93%90%E9%A2%86%E8%AF%81%E7%BB%93%E5%A9%9A%23&t=31&band_rank=7&Refer=top)<br />
 8. [王传君 INFP](https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BC%A0%E5%90%9B%20INFP&t=31&band_rank=8&Refer=top)<br />
-9. [为什么夏天都不穿凉鞋了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%8F%E5%A4%A9%E9%83%BD%E4%B8%8D%E7%A9%BF%E5%87%89%E9%9E%8B%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [詹雯婷控告陈建宁反遭起诉](https://s.weibo.com/weibo?q=%23%E8%A9%B9%E9%9B%AF%E5%A9%B7%E6%8E%A7%E5%91%8A%E9%99%88%E5%BB%BA%E5%AE%81%E5%8F%8D%E9%81%AD%E8%B5%B7%E8%AF%89%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
