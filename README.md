@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 12:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 12:19:01</h4></div>
 
 > 微博  
 
-1. [姑娘要结婚退租时扫干净房子留下喜糖](https://s.weibo.com/weibo?q=%23%E5%A7%91%E5%A8%98%E8%A6%81%E7%BB%93%E5%A9%9A%E9%80%80%E7%A7%9F%E6%97%B6%E6%89%AB%E5%B9%B2%E5%87%80%E6%88%BF%E5%AD%90%E7%95%99%E4%B8%8B%E5%96%9C%E7%B3%96%23&t=31&band_rank=1&Refer=top)<br />
-2. [Jennie演唱会中途离场](https://s.weibo.com/weibo?q=%23Jennie%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%AD%E9%80%94%E7%A6%BB%E5%9C%BA%23&t=31&band_rank=2&Refer=top)<br />
+1. [Jennie演唱会中途离场](https://s.weibo.com/weibo?q=%23Jennie%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%AD%E9%80%94%E7%A6%BB%E5%9C%BA%23&t=31&band_rank=1&Refer=top)<br />
+2. [姑娘要结婚退租时扫干净房子留下喜糖](https://s.weibo.com/weibo?q=%23%E5%A7%91%E5%A8%98%E8%A6%81%E7%BB%93%E5%A9%9A%E9%80%80%E7%A7%9F%E6%97%B6%E6%89%AB%E5%B9%B2%E5%87%80%E6%88%BF%E5%AD%90%E7%95%99%E4%B8%8B%E5%96%9C%E7%B3%96%23&t=31&band_rank=2&Refer=top)<br />
 3. [全国网络普法行江西站](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E7%BD%91%E7%BB%9C%E6%99%AE%E6%B3%95%E8%A1%8C%E6%B1%9F%E8%A5%BF%E7%AB%99%23&t=31&band_rank=3&Refer=top)<br />
 4. [不孕不育是榴莲最好的福报](https://s.weibo.com/weibo?q=%E4%B8%8D%E5%AD%95%E4%B8%8D%E8%82%B2%E6%98%AF%E6%A6%B4%E8%8E%B2%E6%9C%80%E5%A5%BD%E7%9A%84%E7%A6%8F%E6%8A%A5&t=31&band_rank=4&Refer=top)<br />
 5. [NBA总决赛](https://s.weibo.com/weibo?q=NBA%E6%80%BB%E5%86%B3%E8%B5%9B&t=31&band_rank=5&Refer=top)<br />
@@ -34,7 +34,7 @@
 6. [男子在洗浴中心被男性猥亵](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E6%B4%97%E6%B5%B4%E4%B8%AD%E5%BF%83%E8%A2%AB%E7%94%B7%E6%80%A7%E7%8C%A5%E4%BA%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子带2幼儿跳河：母亲身亡孩子获救](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B8%A62%E5%B9%BC%E5%84%BF%E8%B7%B3%E6%B2%B3%EF%BC%9A%E6%AF%8D%E4%BA%B2%E8%BA%AB%E4%BA%A1%E5%AD%A9%E5%AD%90%E8%8E%B7%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [中纪委“内鬼”刘燃被“双开”](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BA%AA%E5%A7%94%E2%80%9C%E5%86%85%E9%AC%BC%E2%80%9D%E5%88%98%E7%87%83%E8%A2%AB%E2%80%9C%E5%8F%8C%E5%BC%80%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [农民工赚不到钱 今年还进厂吗](https://www.baidu.com/s?wd=%E5%86%9C%E6%B0%91%E5%B7%A5%E8%B5%9A%E4%B8%8D%E5%88%B0%E9%92%B1+%E4%BB%8A%E5%B9%B4%E8%BF%98%E8%BF%9B%E5%8E%82%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [深圳千万豪宅楼盘再次“日光”](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%8D%83%E4%B8%87%E8%B1%AA%E5%AE%85%E6%A5%BC%E7%9B%98%E5%86%8D%E6%AC%A1%E2%80%9C%E6%97%A5%E5%85%89%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [男子在洗浴中心被男性猥亵](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E6%B4%97%E6%B5%B4%E4%B8%AD%E5%BF%83%E8%A2%AB%E7%94%B7%E6%80%A7%E7%8C%A5%E4%BA%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子带2幼儿跳河：母亲身亡孩子获救](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B8%A62%E5%B9%BC%E5%84%BF%E8%B7%B3%E6%B2%B3%EF%BC%9A%E6%AF%8D%E4%BA%B2%E8%BA%AB%E4%BA%A1%E5%AD%A9%E5%AD%90%E8%8E%B7%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [中纪委“内鬼”刘燃被“双开”](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BA%AA%E5%A7%94%E2%80%9C%E5%86%85%E9%AC%BC%E2%80%9D%E5%88%98%E7%87%83%E8%A2%AB%E2%80%9C%E5%8F%8C%E5%BC%80%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [农民工赚不到钱 今年还进厂吗](https://www.baidu.com/s?wd=%E5%86%9C%E6%B0%91%E5%B7%A5%E8%B5%9A%E4%B8%8D%E5%88%B0%E9%92%B1+%E4%BB%8A%E5%B9%B4%E8%BF%98%E8%BF%9B%E5%8E%82%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [深圳千万豪宅楼盘再次“日光”](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%8D%83%E4%B8%87%E8%B1%AA%E5%AE%85%E6%A5%BC%E7%9B%98%E5%86%8D%E6%AC%A1%E2%80%9C%E6%97%A5%E5%85%89%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
