@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 04:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 04:43:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [王鹤棣田曦薇 大奉打更人](https://s.weibo.com/weibo?q=%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%94%B0%E6%9B%A6%E8%96%87%20%E5%A4%A7%E5%A5%89%E6%89%93%E6%9B%B4%E4%BA%BA&t=31&band_rank=2&Refer=top)<br />
 3. [20余省已公布高考查分时间](https://s.weibo.com/weibo?q=%2320%E4%BD%99%E7%9C%81%E5%B7%B2%E5%85%AC%E5%B8%83%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86%E6%97%B6%E9%97%B4%23&t=31&band_rank=3&Refer=top)<br />
 4. [梦是一种心理上的转码过程](https://s.weibo.com/weibo?q=%E6%A2%A6%E6%98%AF%E4%B8%80%E7%A7%8D%E5%BF%83%E7%90%86%E4%B8%8A%E7%9A%84%E8%BD%AC%E7%A0%81%E8%BF%87%E7%A8%8B&t=31&band_rank=4&Refer=top)<br />
-5. [高考后妹妹得知姐姐已去世一个月](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%90%8E%E5%A6%B9%E5%A6%B9%E5%BE%97%E7%9F%A5%E5%A7%90%E5%A7%90%E5%B7%B2%E5%8E%BB%E4%B8%96%E4%B8%80%E4%B8%AA%E6%9C%88%23&t=31&band_rank=5&Refer=top)<br />
-6. [权志龙又买房了](https://s.weibo.com/weibo?q=%23%E6%9D%83%E5%BF%97%E9%BE%99%E5%8F%88%E4%B9%B0%E6%88%BF%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
+5. [权志龙又买房了](https://s.weibo.com/weibo?q=%23%E6%9D%83%E5%BF%97%E9%BE%99%E5%8F%88%E4%B9%B0%E6%88%BF%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
+6. [高考后妹妹得知姐姐已去世一个月](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%90%8E%E5%A6%B9%E5%A6%B9%E5%BE%97%E7%9F%A5%E5%A7%90%E5%A7%90%E5%B7%B2%E5%8E%BB%E4%B8%96%E4%B8%80%E4%B8%AA%E6%9C%88%23&t=31&band_rank=6&Refer=top)<br />
 7. [笑果旗下公司擅自演出被罚](https://s.weibo.com/weibo?q=%23%E7%AC%91%E6%9E%9C%E6%97%97%E4%B8%8B%E5%85%AC%E5%8F%B8%E6%93%85%E8%87%AA%E6%BC%94%E5%87%BA%E8%A2%AB%E7%BD%9A%23&t=31&band_rank=7&Refer=top)<br />
 8. [312斤女网红在减肥营离世年仅21岁](https://s.weibo.com/weibo?q=%23312%E6%96%A4%E5%A5%B3%E7%BD%91%E7%BA%A2%E5%9C%A8%E5%87%8F%E8%82%A5%E8%90%A5%E7%A6%BB%E4%B8%96%E5%B9%B4%E4%BB%8521%E5%B2%81%23&t=31&band_rank=8&Refer=top)<br />
 9. [梦海给我调到第20集32分17秒](https://s.weibo.com/weibo?q=%E6%A2%A6%E6%B5%B7%E7%BB%99%E6%88%91%E8%B0%83%E5%88%B0%E7%AC%AC20%E9%9B%8632%E5%88%8617%E7%A7%92&t=31&band_rank=9&Refer=top)<br />
@@ -34,7 +34,7 @@
 6. [天津小区爆炸26户受损 有人受伤送医](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E5%B0%8F%E5%8C%BA%E7%88%86%E7%82%B826%E6%88%B7%E5%8F%97%E6%8D%9F+%E6%9C%89%E4%BA%BA%E5%8F%97%E4%BC%A4%E9%80%81%E5%8C%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男生被老师掌掴后还手 学校回应](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E8%A2%AB%E8%80%81%E5%B8%88%E6%8E%8C%E6%8E%B4%E5%90%8E%E8%BF%98%E6%89%8B+%E5%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [笑果旗下公司擅自演出被罚](https://www.baidu.com/s?wd=%E7%AC%91%E6%9E%9C%E6%97%97%E4%B8%8B%E5%85%AC%E5%8F%B8%E6%93%85%E8%87%AA%E6%BC%94%E5%87%BA%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [美军前情报官员：外星人曾杀害人类](https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E5%89%8D%E6%83%85%E6%8A%A5%E5%AE%98%E5%91%98%EF%BC%9A%E5%A4%96%E6%98%9F%E4%BA%BA%E6%9B%BE%E6%9D%80%E5%AE%B3%E4%BA%BA%E7%B1%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [老农卖70斤菜获利14元被罚10万](https://www.baidu.com/s?wd=%E8%80%81%E5%86%9C%E5%8D%9670%E6%96%A4%E8%8F%9C%E8%8E%B7%E5%88%A914%E5%85%83%E8%A2%AB%E7%BD%9A10%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [天津小区爆炸26户受损 有人受伤送医](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E5%B0%8F%E5%8C%BA%E7%88%86%E7%82%B826%E6%88%B7%E5%8F%97%E6%8D%9F+%E6%9C%89%E4%BA%BA%E5%8F%97%E4%BC%A4%E9%80%81%E5%8C%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男生被老师掌掴后还手 学校回应](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E8%A2%AB%E8%80%81%E5%B8%88%E6%8E%8C%E6%8E%B4%E5%90%8E%E8%BF%98%E6%89%8B+%E5%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [笑果旗下公司擅自演出被罚](https://www.baidu.com/s?wd=%E7%AC%91%E6%9E%9C%E6%97%97%E4%B8%8B%E5%85%AC%E5%8F%B8%E6%93%85%E8%87%AA%E6%BC%94%E5%87%BA%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [美军前情报官员：外星人曾杀害人类](https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E5%89%8D%E6%83%85%E6%8A%A5%E5%AE%98%E5%91%98%EF%BC%9A%E5%A4%96%E6%98%9F%E4%BA%BA%E6%9B%BE%E6%9D%80%E5%AE%B3%E4%BA%BA%E7%B1%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [老农卖70斤菜获利14元被罚10万](https://www.baidu.com/s?wd=%E8%80%81%E5%86%9C%E5%8D%9670%E6%96%A4%E8%8F%9C%E8%8E%B7%E5%88%A914%E5%85%83%E8%A2%AB%E7%BD%9A10%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
