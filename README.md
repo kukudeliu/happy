@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 21:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 21:03:01</h4></div>
 
 > 微博  
 
 1. [笑果旗下公司擅自演出被罚](https://s.weibo.com/weibo?q=%23%E7%AC%91%E6%9E%9C%E6%97%97%E4%B8%8B%E5%85%AC%E5%8F%B8%E6%93%85%E8%87%AA%E6%BC%94%E5%87%BA%E8%A2%AB%E7%BD%9A%23&t=31&band_rank=1&Refer=top)<br />
 2. [猫的树好会拍](https://s.weibo.com/weibo?q=%E7%8C%AB%E7%9A%84%E6%A0%91%E5%A5%BD%E4%BC%9A%E6%8B%8D&t=31&band_rank=2&Refer=top)<br />
-3. [房东回应女孩结婚退租时打扫干净房子](https://s.weibo.com/weibo?q=%23%E6%88%BF%E4%B8%9C%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%A9%E7%BB%93%E5%A9%9A%E9%80%80%E7%A7%9F%E6%97%B6%E6%89%93%E6%89%AB%E5%B9%B2%E5%87%80%E6%88%BF%E5%AD%90%23&t=31&band_rank=3&Refer=top)<br />
+3. [当夏日美景遇上古诗词](https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%A4%8F%E6%97%A5%E7%BE%8E%E6%99%AF%E9%81%87%E4%B8%8A%E5%8F%A4%E8%AF%97%E8%AF%8D%23&t=31&band_rank=3&Refer=top)<br />
 4. [杭师大涉事男生发声](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B8%88%E5%A4%A7%E6%B6%89%E4%BA%8B%E7%94%B7%E7%94%9F%E5%8F%91%E5%A3%B0%23&t=31&band_rank=4&Refer=top)<br />
-5. [有刘海的周也](https://s.weibo.com/weibo?q=%23%E6%9C%89%E5%88%98%E6%B5%B7%E7%9A%84%E5%91%A8%E4%B9%9F%23&t=31&band_rank=5&Refer=top)<br />
-6. [王传君 INFP](https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BC%A0%E5%90%9B%20INFP&t=31&band_rank=6&Refer=top)<br />
-7. [边防战士带着全家福巡逻](https://s.weibo.com/weibo?q=%23%E8%BE%B9%E9%98%B2%E6%88%98%E5%A3%AB%E5%B8%A6%E7%9D%80%E5%85%A8%E5%AE%B6%E7%A6%8F%E5%B7%A1%E9%80%BB%23&t=31&band_rank=7&Refer=top)<br />
-8. [赵露思造型师换成闵塔鲨了](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E9%80%A0%E5%9E%8B%E5%B8%88%E6%8D%A2%E6%88%90%E9%97%B5%E5%A1%94%E9%B2%A8%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [清潭国际高中](https://s.weibo.com/weibo?q=%E6%B8%85%E6%BD%AD%E5%9B%BD%E9%99%85%E9%AB%98%E4%B8%AD&t=31&band_rank=9&Refer=top)<br />
+5. [房东回应女孩结婚退租时打扫干净房子](https://s.weibo.com/weibo?q=%23%E6%88%BF%E4%B8%9C%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%A9%E7%BB%93%E5%A9%9A%E9%80%80%E7%A7%9F%E6%97%B6%E6%89%93%E6%89%AB%E5%B9%B2%E5%87%80%E6%88%BF%E5%AD%90%23&t=31&band_rank=5&Refer=top)<br />
+6. [有刘海的周也](https://s.weibo.com/weibo?q=%23%E6%9C%89%E5%88%98%E6%B5%B7%E7%9A%84%E5%91%A8%E4%B9%9F%23&t=31&band_rank=6&Refer=top)<br />
+7. [王传君 INFP](https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BC%A0%E5%90%9B%20INFP&t=31&band_rank=7&Refer=top)<br />
+8. [清潭国际高中](https://s.weibo.com/weibo?q=%E6%B8%85%E6%BD%AD%E5%9B%BD%E9%99%85%E9%AB%98%E4%B8%AD&t=31&band_rank=8&Refer=top)<br />
+9. [赵露思造型师换成闵塔鲨了](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E9%80%A0%E5%9E%8B%E5%B8%88%E6%8D%A2%E6%88%90%E9%97%B5%E5%A1%94%E9%B2%A8%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
