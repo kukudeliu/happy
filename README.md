@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 06:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 06:47:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. []()<br />
 6. [我家离村子里面 5km 左右，运营商看过后说安不了宽带，能自己拉吗？或者说硬要拉的话，要花多少钱？](https://www.zhihu.com/question/597026273)<br />
 7. [国家发改委通知「2023 年底前对月销售额 10 万元以下小规模纳税人免征增值税」，这将带来哪些利好？](https://www.zhihu.com/question/606387626)<br />
-8. [「天天午睡」和「从不午睡」的人，区别在哪？](https://www.zhihu.com/question/433139582)<br />
-9. [美国院士称初步复现 Dias 团队的近常压室温超导研究，可信度有多高？](https://www.zhihu.com/question/606341241)<br />
+8. [美国院士称初步复现 Dias 团队的近常压室温超导研究，可信度有多高？](https://www.zhihu.com/question/606341241)<br />
+9. [「天天午睡」和「从不午睡」的人，区别在哪？](https://www.zhihu.com/question/433139582)<br />
 
 > 百度  
 
