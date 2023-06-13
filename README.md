@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 07:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 07:16:01</h4></div>
 
 > 微博  
 
 1. [王鹤棣田曦薇 大奉打更人](https://s.weibo.com/weibo?q=%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%94%B0%E6%9B%A6%E8%96%87%20%E5%A4%A7%E5%A5%89%E6%89%93%E6%9B%B4%E4%BA%BA&t=31&band_rank=1&Refer=top)<br />
-2. [Jennie回应演唱会中途离场](https://s.weibo.com/weibo?q=%23Jennie%E5%9B%9E%E5%BA%94%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%AD%E9%80%94%E7%A6%BB%E5%9C%BA%23&t=31&band_rank=2&Refer=top)<br />
+2. [张恒远去世](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%81%92%E8%BF%9C%E5%8E%BB%E4%B8%96%23&t=31&band_rank=2&Refer=top)<br />
 3. [蓝天碧水间官兵巡逻画面美如画](https://s.weibo.com/weibo?q=%23%E8%93%9D%E5%A4%A9%E7%A2%A7%E6%B0%B4%E9%97%B4%E5%AE%98%E5%85%B5%E5%B7%A1%E9%80%BB%E7%94%BB%E9%9D%A2%E7%BE%8E%E5%A6%82%E7%94%BB%23&t=31&band_rank=3&Refer=top)<br />
-4. [张恒远去世](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%81%92%E8%BF%9C%E5%8E%BB%E4%B8%96%23&t=31&band_rank=4&Refer=top)<br />
+4. [Jennie回应演唱会中途离场](https://s.weibo.com/weibo?q=%23Jennie%E5%9B%9E%E5%BA%94%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%AD%E9%80%94%E7%A6%BB%E5%9C%BA%23&t=31&band_rank=4&Refer=top)<br />
 5. [权志龙又买房了](https://s.weibo.com/weibo?q=%23%E6%9D%83%E5%BF%97%E9%BE%99%E5%8F%88%E4%B9%B0%E6%88%BF%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [高考后妹妹得知姐姐已去世一个月](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%90%8E%E5%A6%B9%E5%A6%B9%E5%BE%97%E7%9F%A5%E5%A7%90%E5%A7%90%E5%B7%B2%E5%8E%BB%E4%B8%96%E4%B8%80%E4%B8%AA%E6%9C%88%23&t=31&band_rank=6&Refer=top)<br />
 7. [梦是一种心理上的转码过程](https://s.weibo.com/weibo?q=%E6%A2%A6%E6%98%AF%E4%B8%80%E7%A7%8D%E5%BF%83%E7%90%86%E4%B8%8A%E7%9A%84%E8%BD%AC%E7%A0%81%E8%BF%87%E7%A8%8B&t=31&band_rank=7&Refer=top)<br />
@@ -19,10 +19,10 @@
 3. []()<br />
 4. []()<br />
 5. [印度发出正式通知手机小米企业因非法向国外转移资金，或被没收 48 亿元资金，如何看待印度此番做法？](https://www.zhihu.com/question/606367251)<br />
-6. [我家离村子里面 5km 左右，运营商看过后说安不了宽带，能自己拉吗？或者说硬要拉的话，要花多少钱？](https://www.zhihu.com/question/597026273)<br />
-7. [国家发改委通知「2023 年底前对月销售额 10 万元以下小规模纳税人免征增值税」，这将带来哪些利好？](https://www.zhihu.com/question/606387626)<br />
-8. [美国院士称初步复现 Dias 团队的近常压室温超导研究，可信度有多高？](https://www.zhihu.com/question/606341241)<br />
-9. []()<br />
+6. [国家发改委通知「2023 年底前对月销售额 10 万元以下小规模纳税人免征增值税」，这将带来哪些利好？](https://www.zhihu.com/question/606387626)<br />
+7. [美国院士称初步复现 Dias 团队的近常压室温超导研究，可信度有多高？](https://www.zhihu.com/question/606341241)<br />
+8. []()<br />
+9. [「天天午睡」和「从不午睡」的人，区别在哪？](https://www.zhihu.com/question/433139582)<br />
 
 > 百度  
 
