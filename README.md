@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 18:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 18:40:02</h4></div>
 
 > 微博  
 
@@ -18,11 +18,11 @@
 2. [江歌专项助学基金成立，江歌妈妈将 69.6 万赔偿款全额捐出，如何看待江歌妈妈这一举动？](https://www.zhihu.com/question/606138539)<br />
 3. [我喵一声猫也会喵一声，跟对话一样，它是真的听的懂我说什么了吗？](https://www.zhihu.com/question/604083219)<br />
 4. [温州一企业发红头文件「禁止婚外情和出轨」，公司回应「家庭和谐才能稳定工作」，如何看待公司的做法？](https://www.zhihu.com/question/606321376)<br />
-5. [高考完想换 iPhone 14 Pro，爸妈觉得太贵，准大学生想用 iPhone 14 Pro 奢侈吗？](https://www.zhihu.com/question/604348759)<br />
+5. [江西女子卖婚房为前夫还赌债，34 岁带孩子到鹤岗隐居，如何看待这一做法？](https://www.zhihu.com/question/606325930)<br />
 6. [我家离村子里面 5km 左右，运营商看过后说安不了宽带，能自己拉吗？或者说硬要拉的话，要花多少钱？](https://www.zhihu.com/question/597026273)<br />
-7. [江西女子卖婚房为前夫还赌债，34 岁带孩子到鹤岗隐居，如何看待这一做法？](https://www.zhihu.com/question/606325930)<br />
+7. [高考完想换 iPhone 14 Pro，爸妈觉得太贵，准大学生想用 iPhone 14 Pro 奢侈吗？](https://www.zhihu.com/question/604348759)<br />
 8. [男子地铁上被两女子称鞋面装摄像头偷拍，民警调查证其清白，男子拒绝接受道歉并希望起诉，后续将如何发展？](https://www.zhihu.com/question/606317343)<br />
-9. [女朋友第一次见我父母，我父母给了 6666 的红包，后来我去女朋友家，她父母给了我 2666，这是啥意思？](https://www.zhihu.com/question/606116935)<br />
+9. [美国务卿访问沙特刚离开，沙特转身与中国签下百亿大单，并称中沙合作不仅局限于路桥基建，哪些信息值得关注？](https://www.zhihu.com/question/606359019)<br />
 
 > 百度  
 
