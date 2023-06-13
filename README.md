@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 18:14:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 18:15:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [为什么夏天都不穿凉鞋了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%8F%E5%A4%A9%E9%83%BD%E4%B8%8D%E7%A9%BF%E5%87%89%E9%9E%8B%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [男子被困冷库环卫工路过救一命](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%A2%AB%E5%9B%B0%E5%86%B7%E5%BA%93%E7%8E%AF%E5%8D%AB%E5%B7%A5%E8%B7%AF%E8%BF%87%E6%95%91%E4%B8%80%E5%91%BD%23&t=31&band_rank=7&Refer=top)<br />
 8. [赵露思好美](https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%A5%BD%E7%BE%8E&t=31&band_rank=8&Refer=top)<br />
-9. [范丞丞 跑男真的没有剧本](https://s.weibo.com/weibo?q=%E8%8C%83%E4%B8%9E%E4%B8%9E%20%E8%B7%91%E7%94%B7%E7%9C%9F%E7%9A%84%E6%B2%A1%E6%9C%89%E5%89%A7%E6%9C%AC&t=31&band_rank=9&Refer=top)<br />
+9. [杭师大涉事男生发声](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B8%88%E5%A4%A7%E6%B6%89%E4%BA%8B%E7%94%B7%E7%94%9F%E5%8F%91%E5%A3%B0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -32,9 +32,9 @@
 4. [毕业歌送给1158万毕业生](https://www.baidu.com/s?wd=%E6%AF%95%E4%B8%9A%E6%AD%8C%E9%80%81%E7%BB%991158%E4%B8%87%E6%AF%95%E4%B8%9A%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男生挤痘流血近1小时：用了400张纸](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E6%8C%A4%E7%97%98%E6%B5%81%E8%A1%80%E8%BF%911%E5%B0%8F%E6%97%B6%EF%BC%9A%E7%94%A8%E4%BA%86400%E5%BC%A0%E7%BA%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [杨子首谈黄圣依被封杀](https://www.baidu.com/s?wd=%E6%9D%A8%E5%AD%90%E9%A6%96%E8%B0%88%E9%BB%84%E5%9C%A3%E4%BE%9D%E8%A2%AB%E5%B0%81%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [小伙中1000万大奖:先去上个班](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E4%B8%AD1000%E4%B8%87%E5%A4%A7%E5%A5%96%3A%E5%85%88%E5%8E%BB%E4%B8%8A%E4%B8%AA%E7%8F%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [美军前情报官员：外星人曾杀害人类](https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E5%89%8D%E6%83%85%E6%8A%A5%E5%AE%98%E5%91%98%EF%BC%9A%E5%A4%96%E6%98%9F%E4%BA%BA%E6%9B%BE%E6%9D%80%E5%AE%B3%E4%BA%BA%E7%B1%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#赵丽颖冯绍峰离婚后首次同框带娃#](https://www.baidu.com/s?wd=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%86%AF%E7%BB%8D%E5%B3%B0%E7%A6%BB%E5%A9%9A%E5%90%8E%E9%A6%96%E6%AC%A1%E5%90%8C%E6%A1%86%E5%B8%A6%E5%A8%83%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [福州老农卖菜获利14元被罚10万](https://www.baidu.com/s?wd=%E7%A6%8F%E5%B7%9E%E8%80%81%E5%86%9C%E5%8D%96%E8%8F%9C%E8%8E%B7%E5%88%A914%E5%85%83%E8%A2%AB%E7%BD%9A10%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [小伙中1000万大奖:先去上个班](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E4%B8%AD1000%E4%B8%87%E5%A4%A7%E5%A5%96%3A%E5%85%88%E5%8E%BB%E4%B8%8A%E4%B8%AA%E7%8F%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [毕业歌送给1158万毕业生](https://www.baidu.com/s?wd=%E6%AF%95%E4%B8%9A%E6%AD%8C%E9%80%81%E7%BB%991158%E4%B8%87%E6%AF%95%E4%B8%9A%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男生挤痘流血近1小时：用了400张纸](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E6%8C%A4%E7%97%98%E6%B5%81%E8%A1%80%E8%BF%911%E5%B0%8F%E6%97%B6%EF%BC%9A%E7%94%A8%E4%BA%86400%E5%BC%A0%E7%BA%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [杨子首谈黄圣依被封杀](https://www.baidu.com/s?wd=%E6%9D%A8%E5%AD%90%E9%A6%96%E8%B0%88%E9%BB%84%E5%9C%A3%E4%BE%9D%E8%A2%AB%E5%B0%81%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [小伙中1000万大奖:先去上个班](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E4%B8%AD1000%E4%B8%87%E5%A4%A7%E5%A5%96%3A%E5%85%88%E5%8E%BB%E4%B8%8A%E4%B8%AA%E7%8F%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [美军前情报官员：外星人曾杀害人类](https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E5%89%8D%E6%83%85%E6%8A%A5%E5%AE%98%E5%91%98%EF%BC%9A%E5%A4%96%E6%98%9F%E4%BA%BA%E6%9B%BE%E6%9D%80%E5%AE%B3%E4%BA%BA%E7%B1%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#赵丽颖冯绍峰离婚后首次同框带娃#](https://www.baidu.com/s?wd=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%86%AF%E7%BB%8D%E5%B3%B0%E7%A6%BB%E5%A9%9A%E5%90%8E%E9%A6%96%E6%AC%A1%E5%90%8C%E6%A1%86%E5%B8%A6%E5%A8%83%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [福州老农卖菜获利14元被罚10万](https://www.baidu.com/s?wd=%E7%A6%8F%E5%B7%9E%E8%80%81%E5%86%9C%E5%8D%96%E8%8F%9C%E8%8E%B7%E5%88%A914%E5%85%83%E8%A2%AB%E7%BD%9A10%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [小伙中1000万大奖:先去上个班](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E4%B8%AD1000%E4%B8%87%E5%A4%A7%E5%A5%96%3A%E5%85%88%E5%8E%BB%E4%B8%8A%E4%B8%AA%E7%8F%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
