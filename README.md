@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 04:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 04:44:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [天津小区爆炸26户受损 有人受伤送医](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E5%B0%8F%E5%8C%BA%E7%88%86%E7%82%B826%E6%88%B7%E5%8F%97%E6%8D%9F+%E6%9C%89%E4%BA%BA%E5%8F%97%E4%BC%A4%E9%80%81%E5%8C%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男生被老师掌掴后还手 学校回应](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E8%A2%AB%E8%80%81%E5%B8%88%E6%8E%8C%E6%8E%B4%E5%90%8E%E8%BF%98%E6%89%8B+%E5%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [笑果旗下公司擅自演出被罚](https://www.baidu.com/s?wd=%E7%AC%91%E6%9E%9C%E6%97%97%E4%B8%8B%E5%85%AC%E5%8F%B8%E6%93%85%E8%87%AA%E6%BC%94%E5%87%BA%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [老农卖70斤菜获利14元被罚10万](https://www.baidu.com/s?wd=%E8%80%81%E5%86%9C%E5%8D%9670%E6%96%A4%E8%8F%9C%E8%8E%B7%E5%88%A914%E5%85%83%E8%A2%AB%E7%BD%9A10%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [Jennie演唱会中途离场](https://www.baidu.com/s?wd=Jennie%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%AD%E9%80%94%E7%A6%BB%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [天津小区爆炸26户受损 有人受伤送医](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E5%B0%8F%E5%8C%BA%E7%88%86%E7%82%B826%E6%88%B7%E5%8F%97%E6%8D%9F+%E6%9C%89%E4%BA%BA%E5%8F%97%E4%BC%A4%E9%80%81%E5%8C%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男生被老师掌掴后还手 学校回应](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E8%A2%AB%E8%80%81%E5%B8%88%E6%8E%8C%E6%8E%B4%E5%90%8E%E8%BF%98%E6%89%8B+%E5%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [笑果旗下公司擅自演出被罚](https://www.baidu.com/s?wd=%E7%AC%91%E6%9E%9C%E6%97%97%E4%B8%8B%E5%85%AC%E5%8F%B8%E6%93%85%E8%87%AA%E6%BC%94%E5%87%BA%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [老农卖70斤菜获利14元被罚10万](https://www.baidu.com/s?wd=%E8%80%81%E5%86%9C%E5%8D%9670%E6%96%A4%E8%8F%9C%E8%8E%B7%E5%88%A914%E5%85%83%E8%A2%AB%E7%BD%9A10%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [Jennie演唱会中途离场](https://www.baidu.com/s?wd=Jennie%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%AD%E9%80%94%E7%A6%BB%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
