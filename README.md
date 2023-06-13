@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 14:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-13 14:06:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [Jennie演唱会中途离场](https://s.weibo.com/weibo?q=%23Jennie%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%AD%E9%80%94%E7%A6%BB%E5%9C%BA%23&t=31&band_rank=5&Refer=top)<br />
 6. [老师打伤学生道歉反被多位家长安慰](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E6%89%93%E4%BC%A4%E5%AD%A6%E7%94%9F%E9%81%93%E6%AD%89%E5%8F%8D%E8%A2%AB%E5%A4%9A%E4%BD%8D%E5%AE%B6%E9%95%BF%E5%AE%89%E6%85%B0%23&t=31&band_rank=6&Refer=top)<br />
 7. [任豪 人工呼吸怎么不算吻](https://s.weibo.com/weibo?q=%E4%BB%BB%E8%B1%AA%20%E4%BA%BA%E5%B7%A5%E5%91%BC%E5%90%B8%E6%80%8E%E4%B9%88%E4%B8%8D%E7%AE%97%E5%90%BB&t=31&band_rank=7&Refer=top)<br />
-8. [边伯贤截掉SMTOWN的logo](https://s.weibo.com/weibo?q=%23%E8%BE%B9%E4%BC%AF%E8%B4%A4%E6%88%AA%E6%8E%89SMTOWN%E7%9A%84logo%23&t=31&band_rank=8&Refer=top)<br />
-9. [为什么夏天都不穿凉鞋了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%8F%E5%A4%A9%E9%83%BD%E4%B8%8D%E7%A9%BF%E5%87%89%E9%9E%8B%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+8. [为什么夏天都不穿凉鞋了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%8F%E5%A4%A9%E9%83%BD%E4%B8%8D%E7%A9%BF%E5%87%89%E9%9E%8B%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [边伯贤截掉SMTOWN的logo](https://s.weibo.com/weibo?q=%23%E8%BE%B9%E4%BC%AF%E8%B4%A4%E6%88%AA%E6%8E%89SMTOWN%E7%9A%84logo%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -20,9 +20,9 @@
 4. [高考完想换 iPhone 14 Pro，爸妈觉得太贵，准大学生想用 iPhone 14 Pro 奢侈吗？](https://www.zhihu.com/question/604348759)<br />
 5. [马斯克发推讽刺人工智能，称机器学习本质是统计，你对此有哪些评价？](https://www.zhihu.com/question/606172076)<br />
 6. [央行将 7 天期逆回购中标利率从 2% 下调至 1.9%，释放什么信号？对市场有哪些影响？](https://www.zhihu.com/question/606320963)<br />
-7. [LPL 与 LCK 双联赛选手联动亮薇恩呼应 Uzi 复出，为什么这么多选手愿意加入这场互动？](https://www.zhihu.com/question/606131195)<br />
+7. [江西财经大学近年招收大量专升本考生，专升本学生占比迅速上升，是否会对本科统招造成影响？](https://www.zhihu.com/question/605899790)<br />
 8. [男子地铁上被两女子称鞋面装摄像头偷拍，民警调查证其清白，男子拒绝接受道歉并希望起诉，后续将如何发展？](https://www.zhihu.com/question/606317343)<br />
-9. [江西财经大学近年招收大量专升本考生，专升本学生占比迅速上升，是否会对本科统招造成影响？](https://www.zhihu.com/question/605899790)<br />
+9. [LPL 与 LCK 双联赛选手联动亮薇恩呼应 Uzi 复出，为什么这么多选手愿意加入这场互动？](https://www.zhihu.com/question/606131195)<br />
 
 > 百度  
 
