@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 05:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 05:59:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [奶奶带孙时邻居反馈“不像他爸”](https://www.baidu.com/s?wd=%E5%A5%B6%E5%A5%B6%E5%B8%A6%E5%AD%99%E6%97%B6%E9%82%BB%E5%B1%85%E5%8F%8D%E9%A6%88%E2%80%9C%E4%B8%8D%E5%83%8F%E4%BB%96%E7%88%B8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [小米回应被印度没收48亿元](https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%8D%B0%E5%BA%A6%E6%B2%A1%E6%94%B648%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [保安好言相劝无果后喊话:想死走远点](https://www.baidu.com/s?wd=%E4%BF%9D%E5%AE%89%E5%A5%BD%E8%A8%80%E7%9B%B8%E5%8A%9D%E6%97%A0%E6%9E%9C%E5%90%8E%E5%96%8A%E8%AF%9D%3A%E6%83%B3%E6%AD%BB%E8%B5%B0%E8%BF%9C%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子被战友骗进传销窝后失踪23年](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A2%AB%E6%88%98%E5%8F%8B%E9%AA%97%E8%BF%9B%E4%BC%A0%E9%94%80%E7%AA%9D%E5%90%8E%E5%A4%B1%E8%B8%AA23%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [夫妻合作换灯泡妻子全程驮着丈夫](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%90%88%E4%BD%9C%E6%8D%A2%E7%81%AF%E6%B3%A1%E5%A6%BB%E5%AD%90%E5%85%A8%E7%A8%8B%E9%A9%AE%E7%9D%80%E4%B8%88%E5%A4%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [奶奶带孙时邻居反馈“不像他爸”](https://www.baidu.com/s?wd=%E5%A5%B6%E5%A5%B6%E5%B8%A6%E5%AD%99%E6%97%B6%E9%82%BB%E5%B1%85%E5%8F%8D%E9%A6%88%E2%80%9C%E4%B8%8D%E5%83%8F%E4%BB%96%E7%88%B8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [小米回应被印度没收48亿元](https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%8D%B0%E5%BA%A6%E6%B2%A1%E6%94%B648%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [保安好言相劝无果后喊话:想死走远点](https://www.baidu.com/s?wd=%E4%BF%9D%E5%AE%89%E5%A5%BD%E8%A8%80%E7%9B%B8%E5%8A%9D%E6%97%A0%E6%9E%9C%E5%90%8E%E5%96%8A%E8%AF%9D%3A%E6%83%B3%E6%AD%BB%E8%B5%B0%E8%BF%9C%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子被战友骗进传销窝后失踪23年](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A2%AB%E6%88%98%E5%8F%8B%E9%AA%97%E8%BF%9B%E4%BC%A0%E9%94%80%E7%AA%9D%E5%90%8E%E5%A4%B1%E8%B8%AA23%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [夫妻合作换灯泡妻子全程驮着丈夫](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%90%88%E4%BD%9C%E6%8D%A2%E7%81%AF%E6%B3%A1%E5%A6%BB%E5%AD%90%E5%85%A8%E7%A8%8B%E9%A9%AE%E7%9D%80%E4%B8%88%E5%A4%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
