@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 06:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 06:11:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [宋仲基儿子出生](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BB%B2%E5%9F%BA%E5%84%BF%E5%AD%90%E5%87%BA%E7%94%9F%23&t=31&band_rank=6&Refer=top)<br />
 7. [小猫咪独自去玩被猫妈骂了](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%8C%AB%E5%92%AA%E7%8B%AC%E8%87%AA%E5%8E%BB%E7%8E%A9%E8%A2%AB%E7%8C%AB%E5%A6%88%E9%AA%82%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [周三也休公司 上四休三绝不放弃](https://s.weibo.com/weibo?q=%E5%91%A8%E4%B8%89%E4%B9%9F%E4%BC%91%E5%85%AC%E5%8F%B8%20%E4%B8%8A%E5%9B%9B%E4%BC%91%E4%B8%89%E7%BB%9D%E4%B8%8D%E6%94%BE%E5%BC%83&t=31&band_rank=8&Refer=top)<br />
-9. [苏醒没有梅西高](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%E6%B2%A1%E6%9C%89%E6%A2%85%E8%A5%BF%E9%AB%98%23&t=31&band_rank=9&Refer=top)<br />
+9. [关晓彤第一套vs第二套](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E7%AC%AC%E4%B8%80%E5%A5%97vs%E7%AC%AC%E4%BA%8C%E5%A5%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
