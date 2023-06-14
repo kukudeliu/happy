@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 11:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 11:39:01</h4></div>
 
 > 微博  
 
@@ -19,10 +19,10 @@
 3. [美国将 31 家中国实体列入管制清单，外交部回应「歇斯底里、不择手段」，如何评价美方这一行为？](https://www.zhihu.com/question/606370209)<br />
 4. [为什么家里的长辈炒菜基本都会放葱姜蒜等调料，而对于年轻人它似乎变得可有可无？](https://www.zhihu.com/question/605464337)<br />
 5. [中办国办发文，其中明确发达地区不得从中西部地区、东北地区抢挖优秀校长和教师，将产生哪些积极影响？](https://www.zhihu.com/question/606427991)<br />
-6. [女朋友第一次见我父母，我父母给了 6666 的红包，后来我去女朋友家，她父母给了我 2666，这是啥意思？](https://www.zhihu.com/question/606116935)<br />
-7. [22-23 赛季 NBA 总决赛掘金 4:1 热火，获得总冠军，约基奇获 FMVP，如何评价本赛季掘金？](https://www.zhihu.com/question/606335616)<br />
-8. [今年已有近 20 城颁布了支持团购买房政策，部分城市房价折扣可突破备案价跌幅限制，如何评价政策效果？](https://www.zhihu.com/question/605669004)<br />
-9. [媒体报道，《中国好声音第二季》亚军张恒远去世，原因是得了黑色素瘤，什么是黑色素瘤？如何辨别？](https://www.zhihu.com/question/606511957)<br />
+6. [22-23 赛季 NBA 总决赛掘金 4:1 热火，获得总冠军，约基奇获 FMVP，如何评价本赛季掘金？](https://www.zhihu.com/question/606335616)<br />
+7. [今年已有近 20 城颁布了支持团购买房政策，部分城市房价折扣可突破备案价跌幅限制，如何评价政策效果？](https://www.zhihu.com/question/605669004)<br />
+8. [媒体报道，《中国好声音第二季》亚军张恒远去世，原因是得了黑色素瘤，什么是黑色素瘤？如何辨别？](https://www.zhihu.com/question/606511957)<br />
+9. [女朋友第一次见我父母，我父母给了 6666 的红包，后来我去女朋友家，她父母给了我 2666，这是啥意思？](https://www.zhihu.com/question/606116935)<br />
 
 > 百度  
 
@@ -31,10 +31,10 @@
 3. [#好声音亚军张恒远去世#](https://www.baidu.com/s?wd=%23%E5%A5%BD%E5%A3%B0%E9%9F%B3%E4%BA%9A%E5%86%9B%E5%BC%A0%E6%81%92%E8%BF%9C%E5%8E%BB%E4%B8%96%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国外贸提质升级](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%96%E8%B4%B8%E6%8F%90%E8%B4%A8%E5%8D%87%E7%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [人民日报评地铁偷拍乌龙事件](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E5%9C%B0%E9%93%81%E5%81%B7%E6%8B%8D%E4%B9%8C%E9%BE%99%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [985毕业生主动延毕：有人故意挂科](https://www.baidu.com/s?wd=985%E6%AF%95%E4%B8%9A%E7%94%9F%E4%B8%BB%E5%8A%A8%E5%BB%B6%E6%AF%95%EF%BC%9A%E6%9C%89%E4%BA%BA%E6%95%85%E6%84%8F%E6%8C%82%E7%A7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [多城管打摊贩被围堵 公安局局长喊话](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9F%8E%E7%AE%A1%E6%89%93%E6%91%8A%E8%B4%A9%E8%A2%AB%E5%9B%B4%E5%A0%B5+%E5%85%AC%E5%AE%89%E5%B1%80%E5%B1%80%E9%95%BF%E5%96%8A%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [知情人曝张恒远离世细节 曾抢救成功](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%E6%9B%9D%E5%BC%A0%E6%81%92%E8%BF%9C%E7%A6%BB%E4%B8%96%E7%BB%86%E8%8A%82+%E6%9B%BE%E6%8A%A2%E6%95%91%E6%88%90%E5%8A%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [《好声音》歌手现状](https://www.baidu.com/s?wd=%E3%80%8A%E5%A5%BD%E5%A3%B0%E9%9F%B3%E3%80%8B%E6%AD%8C%E6%89%8B%E7%8E%B0%E7%8A%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [多城管打摊贩被围堵 公安局局长喊话](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9F%8E%E7%AE%A1%E6%89%93%E6%91%8A%E8%B4%A9%E8%A2%AB%E5%9B%B4%E5%A0%B5+%E5%85%AC%E5%AE%89%E5%B1%80%E5%B1%80%E9%95%BF%E5%96%8A%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [985毕业生主动延毕：有人故意挂科](https://www.baidu.com/s?wd=985%E6%AF%95%E4%B8%9A%E7%94%9F%E4%B8%BB%E5%8A%A8%E5%BB%B6%E6%AF%95%EF%BC%9A%E6%9C%89%E4%BA%BA%E6%95%85%E6%84%8F%E6%8C%82%E7%A7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [《好声音》歌手现状](https://www.baidu.com/s?wd=%E3%80%8A%E5%A5%BD%E5%A3%B0%E9%9F%B3%E3%80%8B%E6%AD%8C%E6%89%8B%E7%8E%B0%E7%8A%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [知情人曝张恒远离世细节 曾抢救成功](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%E6%9B%9D%E5%BC%A0%E6%81%92%E8%BF%9C%E7%A6%BB%E4%B8%96%E7%BB%86%E8%8A%82+%E6%9B%BE%E6%8A%A2%E6%95%91%E6%88%90%E5%8A%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [#好声音亚军张恒远去世#](https://www.baidu.com/s?wd=%23%E5%A5%BD%E5%A3%B0%E9%9F%B3%E4%BA%9A%E5%86%9B%E5%BC%A0%E6%81%92%E8%BF%9C%E5%8E%BB%E4%B8%96%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国外贸提质升级](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%96%E8%B4%B8%E6%8F%90%E8%B4%A8%E5%8D%87%E7%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [人民日报评地铁偷拍乌龙事件](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E5%9C%B0%E9%93%81%E5%81%B7%E6%8B%8D%E4%B9%8C%E9%BE%99%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [985毕业生主动延毕：有人故意挂科](https://www.baidu.com/s?wd=985%E6%AF%95%E4%B8%9A%E7%94%9F%E4%B8%BB%E5%8A%A8%E5%BB%B6%E6%AF%95%EF%BC%9A%E6%9C%89%E4%BA%BA%E6%95%85%E6%84%8F%E6%8C%82%E7%A7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [多城管打摊贩被围堵 公安局局长喊话](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9F%8E%E7%AE%A1%E6%89%93%E6%91%8A%E8%B4%A9%E8%A2%AB%E5%9B%B4%E5%A0%B5+%E5%85%AC%E5%AE%89%E5%B1%80%E5%B1%80%E9%95%BF%E5%96%8A%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [知情人曝张恒远离世细节 曾抢救成功](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%E6%9B%9D%E5%BC%A0%E6%81%92%E8%BF%9C%E7%A6%BB%E4%B8%96%E7%BB%86%E8%8A%82+%E6%9B%BE%E6%8A%A2%E6%95%91%E6%88%90%E5%8A%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [《好声音》歌手现状](https://www.baidu.com/s?wd=%E3%80%8A%E5%A5%BD%E5%A3%B0%E9%9F%B3%E3%80%8B%E6%AD%8C%E6%89%8B%E7%8E%B0%E7%8A%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [多城管打摊贩被围堵 公安局局长喊话](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9F%8E%E7%AE%A1%E6%89%93%E6%91%8A%E8%B4%A9%E8%A2%AB%E5%9B%B4%E5%A0%B5+%E5%85%AC%E5%AE%89%E5%B1%80%E5%B1%80%E9%95%BF%E5%96%8A%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [985毕业生主动延毕：有人故意挂科](https://www.baidu.com/s?wd=985%E6%AF%95%E4%B8%9A%E7%94%9F%E4%B8%BB%E5%8A%A8%E5%BB%B6%E6%AF%95%EF%BC%9A%E6%9C%89%E4%BA%BA%E6%95%85%E6%84%8F%E6%8C%82%E7%A7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [《好声音》歌手现状](https://www.baidu.com/s?wd=%E3%80%8A%E5%A5%BD%E5%A3%B0%E9%9F%B3%E3%80%8B%E6%AD%8C%E6%89%8B%E7%8E%B0%E7%8A%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [知情人曝张恒远离世细节 曾抢救成功](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%E6%9B%9D%E5%BC%A0%E6%81%92%E8%BF%9C%E7%A6%BB%E4%B8%96%E7%BB%86%E8%8A%82+%E6%9B%BE%E6%8A%A2%E6%95%91%E6%88%90%E5%8A%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
