@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 21:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 21:16:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [美国国务卿布林肯将访华](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%8A%A1%E5%8D%BF%E5%B8%83%E6%9E%97%E8%82%AF%E5%B0%86%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=5&Refer=top)<br />
 6. [Angelababy撕漫女](https://s.weibo.com/weibo?q=%23Angelababy%E6%92%95%E6%BC%AB%E5%A5%B3%23&t=31&band_rank=6&Refer=top)<br />
 7. [黄永玉逝世](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%B0%B8%E7%8E%89%E9%80%9D%E4%B8%96%23&t=31&band_rank=7&Refer=top)<br />
-8. [品牌方说赵露思礼服是借的](https://s.weibo.com/weibo?q=%23%E5%93%81%E7%89%8C%E6%96%B9%E8%AF%B4%E8%B5%B5%E9%9C%B2%E6%80%9D%E7%A4%BC%E6%9C%8D%E6%98%AF%E5%80%9F%E7%9A%84%23&t=31&band_rank=8&Refer=top)<br />
+8. [周三也休公司 上四休三绝不放弃](https://s.weibo.com/weibo?q=%E5%91%A8%E4%B8%89%E4%B9%9F%E4%BC%91%E5%85%AC%E5%8F%B8%20%E4%B8%8A%E5%9B%9B%E4%BC%91%E4%B8%89%E7%BB%9D%E4%B8%8D%E6%94%BE%E5%BC%83&t=31&band_rank=8&Refer=top)<br />
 9. [14岁学生在教室被同学砍杀身亡](https://s.weibo.com/weibo?q=%2314%E5%B2%81%E5%AD%A6%E7%94%9F%E5%9C%A8%E6%95%99%E5%AE%A4%E8%A2%AB%E5%90%8C%E5%AD%A6%E7%A0%8D%E6%9D%80%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
