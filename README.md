@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 19:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 19:49:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [黄永玉逝世 曾说年轻人容易错过老人](https://www.baidu.com/s?wd=%E9%BB%84%E6%B0%B8%E7%8E%89%E9%80%9D%E4%B8%96+%E6%9B%BE%E8%AF%B4%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%AE%B9%E6%98%93%E9%94%99%E8%BF%87%E8%80%81%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [幼女遭性侵怀孕 事发3年对方未受制裁](https://www.baidu.com/s?wd=%E5%B9%BC%E5%A5%B3%E9%81%AD%E6%80%A7%E4%BE%B5%E6%80%80%E5%AD%95+%E4%BA%8B%E5%8F%913%E5%B9%B4%E5%AF%B9%E6%96%B9%E6%9C%AA%E5%8F%97%E5%88%B6%E8%A3%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [医生去世后手机还一直收到患者消息](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E5%8E%BB%E4%B8%96%E5%90%8E%E6%89%8B%E6%9C%BA%E8%BF%98%E4%B8%80%E7%9B%B4%E6%94%B6%E5%88%B0%E6%82%A3%E8%80%85%E6%B6%88%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子一周内买7公斤黄金 埋公厕里](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%80%E5%91%A8%E5%86%85%E4%B9%B07%E5%85%AC%E6%96%A4%E9%BB%84%E9%87%91+%E5%9F%8B%E5%85%AC%E5%8E%95%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女干部赌博被查 3月前公示拟任新职](https://www.baidu.com/s?wd=%E5%A5%B3%E5%B9%B2%E9%83%A8%E8%B5%8C%E5%8D%9A%E8%A2%AB%E6%9F%A5+3%E6%9C%88%E5%89%8D%E5%85%AC%E7%A4%BA%E6%8B%9F%E4%BB%BB%E6%96%B0%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [《好声音》歌手现状](https://www.baidu.com/s?wd=%E3%80%8A%E5%A5%BD%E5%A3%B0%E9%9F%B3%E3%80%8B%E6%AD%8C%E6%89%8B%E7%8E%B0%E7%8A%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [保安好言相劝无果后喊话:想死走远点](https://www.baidu.com/s?wd=%E4%BF%9D%E5%AE%89%E5%A5%BD%E8%A8%80%E7%9B%B8%E5%8A%9D%E6%97%A0%E6%9E%9C%E5%90%8E%E5%96%8A%E8%AF%9D%3A%E6%83%B3%E6%AD%BB%E8%B5%B0%E8%BF%9C%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [黄永玉逝世 曾说年轻人容易错过老人](https://www.baidu.com/s?wd=%E9%BB%84%E6%B0%B8%E7%8E%89%E9%80%9D%E4%B8%96+%E6%9B%BE%E8%AF%B4%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%AE%B9%E6%98%93%E9%94%99%E8%BF%87%E8%80%81%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [幼女遭性侵怀孕 事发3年对方未受制裁](https://www.baidu.com/s?wd=%E5%B9%BC%E5%A5%B3%E9%81%AD%E6%80%A7%E4%BE%B5%E6%80%80%E5%AD%95+%E4%BA%8B%E5%8F%913%E5%B9%B4%E5%AF%B9%E6%96%B9%E6%9C%AA%E5%8F%97%E5%88%B6%E8%A3%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [医生去世后手机还一直收到患者消息](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E5%8E%BB%E4%B8%96%E5%90%8E%E6%89%8B%E6%9C%BA%E8%BF%98%E4%B8%80%E7%9B%B4%E6%94%B6%E5%88%B0%E6%82%A3%E8%80%85%E6%B6%88%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子一周内买7公斤黄金 埋公厕里](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%80%E5%91%A8%E5%86%85%E4%B9%B07%E5%85%AC%E6%96%A4%E9%BB%84%E9%87%91+%E5%9F%8B%E5%85%AC%E5%8E%95%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女干部赌博被查 3月前公示拟任新职](https://www.baidu.com/s?wd=%E5%A5%B3%E5%B9%B2%E9%83%A8%E8%B5%8C%E5%8D%9A%E8%A2%AB%E6%9F%A5+3%E6%9C%88%E5%89%8D%E5%85%AC%E7%A4%BA%E6%8B%9F%E4%BB%BB%E6%96%B0%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [《好声音》歌手现状](https://www.baidu.com/s?wd=%E3%80%8A%E5%A5%BD%E5%A3%B0%E9%9F%B3%E3%80%8B%E6%AD%8C%E6%89%8B%E7%8E%B0%E7%8A%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [保安好言相劝无果后喊话:想死走远点](https://www.baidu.com/s?wd=%E4%BF%9D%E5%AE%89%E5%A5%BD%E8%A8%80%E7%9B%B8%E5%8A%9D%E6%97%A0%E6%9E%9C%E5%90%8E%E5%96%8A%E8%AF%9D%3A%E6%83%B3%E6%AD%BB%E8%B5%B0%E8%BF%9C%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
