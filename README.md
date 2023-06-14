@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 09:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 09:56:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [教资面试成绩](https://s.weibo.com/weibo?q=%E6%95%99%E8%B5%84%E9%9D%A2%E8%AF%95%E6%88%90%E7%BB%A9&t=31&band_rank=6&Refer=top)<br />
 7. [老伴去世老人挨个敲车窗求带看老房](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BC%B4%E5%8E%BB%E4%B8%96%E8%80%81%E4%BA%BA%E6%8C%A8%E4%B8%AA%E6%95%B2%E8%BD%A6%E7%AA%97%E6%B1%82%E5%B8%A6%E7%9C%8B%E8%80%81%E6%88%BF%23&t=31&band_rank=7&Refer=top)<br />
 8. [柯以敏 我比那英唱得更好](https://s.weibo.com/weibo?q=%E6%9F%AF%E4%BB%A5%E6%95%8F%20%E6%88%91%E6%AF%94%E9%82%A3%E8%8B%B1%E5%94%B1%E5%BE%97%E6%9B%B4%E5%A5%BD&t=31&band_rank=8&Refer=top)<br />
-9. [张恒远 夜空中最亮的星](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%81%92%E8%BF%9C%20%E5%A4%9C%E7%A9%BA%E4%B8%AD%E6%9C%80%E4%BA%AE%E7%9A%84%E6%98%9F&t=31&band_rank=9&Refer=top)<br />
+9. [这居然是刘恋](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B1%85%E7%84%B6%E6%98%AF%E5%88%98%E6%81%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
