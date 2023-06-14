@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 03:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 03:24:02</h4></div>
 
 > 微博  
 
@@ -32,9 +32,9 @@
 4. [美丽乡村的“只此青绿”](https://www.baidu.com/s?wd=%E7%BE%8E%E4%B8%BD%E4%B9%A1%E6%9D%91%E7%9A%84%E2%80%9C%E5%8F%AA%E6%AD%A4%E9%9D%92%E7%BB%BF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [跳河救人小哥被奖8万 免费上大学](https://www.baidu.com/s?wd=%E8%B7%B3%E6%B2%B3%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E8%A2%AB%E5%A5%968%E4%B8%87+%E5%85%8D%E8%B4%B9%E4%B8%8A%E5%A4%A7%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [西湖划船刺客运营方被罚12万](https://www.baidu.com/s?wd=%E8%A5%BF%E6%B9%96%E5%88%92%E8%88%B9%E5%88%BA%E5%AE%A2%E8%BF%90%E8%90%A5%E6%96%B9%E8%A2%AB%E7%BD%9A12%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [医生去世后手机还一直收到患者消息](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E5%8E%BB%E4%B8%96%E5%90%8E%E6%89%8B%E6%9C%BA%E8%BF%98%E4%B8%80%E7%9B%B4%E6%94%B6%E5%88%B0%E6%82%A3%E8%80%85%E6%B6%88%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [小米回应被印度没收48亿元](https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%8D%B0%E5%BA%A6%E6%B2%A1%E6%94%B648%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [丫丫最新干饭视频](https://www.baidu.com/s?wd=%E4%B8%AB%E4%B8%AB%E6%9C%80%E6%96%B0%E5%B9%B2%E9%A5%AD%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [华中师范校友给母校捐款1亿](https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%AD%E5%B8%88%E8%8C%83%E6%A0%A1%E5%8F%8B%E7%BB%99%E6%AF%8D%E6%A0%A1%E6%8D%90%E6%AC%BE1%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [医生去世后手机还一直收到患者消息](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E5%8E%BB%E4%B8%96%E5%90%8E%E6%89%8B%E6%9C%BA%E8%BF%98%E4%B8%80%E7%9B%B4%E6%94%B6%E5%88%B0%E6%82%A3%E8%80%85%E6%B6%88%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [小米回应被印度没收48亿元](https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%8D%B0%E5%BA%A6%E6%B2%A1%E6%94%B648%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [美丽乡村的“只此青绿”](https://www.baidu.com/s?wd=%E7%BE%8E%E4%B8%BD%E4%B9%A1%E6%9D%91%E7%9A%84%E2%80%9C%E5%8F%AA%E6%AD%A4%E9%9D%92%E7%BB%BF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [跳河救人小哥被奖8万 免费上大学](https://www.baidu.com/s?wd=%E8%B7%B3%E6%B2%B3%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E8%A2%AB%E5%A5%968%E4%B8%87+%E5%85%8D%E8%B4%B9%E4%B8%8A%E5%A4%A7%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [西湖划船刺客运营方被罚12万](https://www.baidu.com/s?wd=%E8%A5%BF%E6%B9%96%E5%88%92%E8%88%B9%E5%88%BA%E5%AE%A2%E8%BF%90%E8%90%A5%E6%96%B9%E8%A2%AB%E7%BD%9A12%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [医生去世后手机还一直收到患者消息](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E5%8E%BB%E4%B8%96%E5%90%8E%E6%89%8B%E6%9C%BA%E8%BF%98%E4%B8%80%E7%9B%B4%E6%94%B6%E5%88%B0%E6%82%A3%E8%80%85%E6%B6%88%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [小米回应被印度没收48亿元](https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%8D%B0%E5%BA%A6%E6%B2%A1%E6%94%B648%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [丫丫最新干饭视频](https://www.baidu.com/s?wd=%E4%B8%AB%E4%B8%AB%E6%9C%80%E6%96%B0%E5%B9%B2%E9%A5%AD%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [华中师范校友给母校捐款1亿](https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%AD%E5%B8%88%E8%8C%83%E6%A0%A1%E5%8F%8B%E7%BB%99%E6%AF%8D%E6%A0%A1%E6%8D%90%E6%AC%BE1%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [医生去世后手机还一直收到患者消息](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E5%8E%BB%E4%B8%96%E5%90%8E%E6%89%8B%E6%9C%BA%E8%BF%98%E4%B8%80%E7%9B%B4%E6%94%B6%E5%88%B0%E6%82%A3%E8%80%85%E6%B6%88%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [小米回应被印度没收48亿元](https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%8D%B0%E5%BA%A6%E6%B2%A1%E6%94%B648%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
