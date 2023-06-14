@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 23:23:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 23:24:01</h4></div>
 
 > 微博  
 
@@ -33,7 +33,7 @@
 5. [黄永玉逝世 曾说年轻人容易错过老人](https://www.baidu.com/s?wd=%E9%BB%84%E6%B0%B8%E7%8E%89%E9%80%9D%E4%B8%96+%E6%9B%BE%E8%AF%B4%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%AE%B9%E6%98%93%E9%94%99%E8%BF%87%E8%80%81%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [比尔·盖茨抵达北京](https://www.baidu.com/s?wd=%E6%AF%94%E5%B0%94%C2%B7%E7%9B%96%E8%8C%A8%E6%8A%B5%E8%BE%BE%E5%8C%97%E4%BA%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [高校男生被室友杀害 家属发声](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E7%94%B7%E7%94%9F%E8%A2%AB%E5%AE%A4%E5%8F%8B%E6%9D%80%E5%AE%B3+%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [奶奶带孙时邻居反馈“不像他爸”](https://www.baidu.com/s?wd=%E5%A5%B6%E5%A5%B6%E5%B8%A6%E5%AD%99%E6%97%B6%E9%82%BB%E5%B1%85%E5%8F%8D%E9%A6%88%E2%80%9C%E4%B8%8D%E5%83%8F%E4%BB%96%E7%88%B8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [重庆中考政治卷出彩礼题引争议](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%AD%E8%80%83%E6%94%BF%E6%B2%BB%E5%8D%B7%E5%87%BA%E5%BD%A9%E7%A4%BC%E9%A2%98%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [夫妻合作换灯泡妻子全程驮着丈夫](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%90%88%E4%BD%9C%E6%8D%A2%E7%81%AF%E6%B3%A1%E5%A6%BB%E5%AD%90%E5%85%A8%E7%A8%8B%E9%A9%AE%E7%9D%80%E4%B8%88%E5%A4%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [黄永玉逝世 曾说年轻人容易错过老人](https://www.baidu.com/s?wd=%E9%BB%84%E6%B0%B8%E7%8E%89%E9%80%9D%E4%B8%96+%E6%9B%BE%E8%AF%B4%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%AE%B9%E6%98%93%E9%94%99%E8%BF%87%E8%80%81%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [比尔·盖茨抵达北京](https://www.baidu.com/s?wd=%E6%AF%94%E5%B0%94%C2%B7%E7%9B%96%E8%8C%A8%E6%8A%B5%E8%BE%BE%E5%8C%97%E4%BA%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [高校男生被室友杀害 家属发声](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E7%94%B7%E7%94%9F%E8%A2%AB%E5%AE%A4%E5%8F%8B%E6%9D%80%E5%AE%B3+%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [奶奶带孙时邻居反馈“不像他爸”](https://www.baidu.com/s?wd=%E5%A5%B6%E5%A5%B6%E5%B8%A6%E5%AD%99%E6%97%B6%E9%82%BB%E5%B1%85%E5%8F%8D%E9%A6%88%E2%80%9C%E4%B8%8D%E5%83%8F%E4%BB%96%E7%88%B8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [重庆中考政治卷出彩礼题引争议](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%AD%E8%80%83%E6%94%BF%E6%B2%BB%E5%8D%B7%E5%87%BA%E5%BD%A9%E7%A4%BC%E9%A2%98%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [夫妻合作换灯泡妻子全程驮着丈夫](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%90%88%E4%BD%9C%E6%8D%A2%E7%81%AF%E6%B3%A1%E5%A6%BB%E5%AD%90%E5%85%A8%E7%A8%8B%E9%A9%AE%E7%9D%80%E4%B8%88%E5%A4%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
