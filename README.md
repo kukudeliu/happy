@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 02:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 02:49:01</h4></div>
 
 > 微博  
 
@@ -32,9 +32,9 @@
 4. [美丽乡村的“只此青绿”](https://www.baidu.com/s?wd=%E7%BE%8E%E4%B8%BD%E4%B9%A1%E6%9D%91%E7%9A%84%E2%80%9C%E5%8F%AA%E6%AD%A4%E9%9D%92%E7%BB%BF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [跳河救人小哥被奖8万 免费上大学](https://www.baidu.com/s?wd=%E8%B7%B3%E6%B2%B3%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E8%A2%AB%E5%A5%968%E4%B8%87+%E5%85%8D%E8%B4%B9%E4%B8%8A%E5%A4%A7%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [奶奶带孙时邻居反馈“不像他爸”](https://www.baidu.com/s?wd=%E5%A5%B6%E5%A5%B6%E5%B8%A6%E5%AD%99%E6%97%B6%E9%82%BB%E5%B1%85%E5%8F%8D%E9%A6%88%E2%80%9C%E4%B8%8D%E5%83%8F%E4%BB%96%E7%88%B8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子偷拿老人水果满脸笑容离开](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%81%B7%E6%8B%BF%E8%80%81%E4%BA%BA%E6%B0%B4%E6%9E%9C%E6%BB%A1%E8%84%B8%E7%AC%91%E5%AE%B9%E7%A6%BB%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [发达地区不得从中西部抢挖优秀教师](https://www.baidu.com/s?wd=%E5%8F%91%E8%BE%BE%E5%9C%B0%E5%8C%BA%E4%B8%8D%E5%BE%97%E4%BB%8E%E4%B8%AD%E8%A5%BF%E9%83%A8%E6%8A%A2%E6%8C%96%E4%BC%98%E7%A7%80%E6%95%99%E5%B8%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子一周内买7公斤黄金 埋公厕里](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%80%E5%91%A8%E5%86%85%E4%B9%B07%E5%85%AC%E6%96%A4%E9%BB%84%E9%87%91+%E5%9F%8B%E5%85%AC%E5%8E%95%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子中5976万彩票大奖 领奖时手哆嗦](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%AD5976%E4%B8%87%E5%BD%A9%E7%A5%A8%E5%A4%A7%E5%A5%96+%E9%A2%86%E5%A5%96%E6%97%B6%E6%89%8B%E5%93%86%E5%97%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [熊猫血男子献血证塞满了抽屉](https://www.baidu.com/s?wd=%E7%86%8A%E7%8C%AB%E8%A1%80%E7%94%B7%E5%AD%90%E7%8C%AE%E8%A1%80%E8%AF%81%E5%A1%9E%E6%BB%A1%E4%BA%86%E6%8A%BD%E5%B1%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [发达地区不得从中西部抢挖优秀教师](https://www.baidu.com/s?wd=%E5%8F%91%E8%BE%BE%E5%9C%B0%E5%8C%BA%E4%B8%8D%E5%BE%97%E4%BB%8E%E4%B8%AD%E8%A5%BF%E9%83%A8%E6%8A%A2%E6%8C%96%E4%BC%98%E7%A7%80%E6%95%99%E5%B8%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [美丽乡村的“只此青绿”](https://www.baidu.com/s?wd=%E7%BE%8E%E4%B8%BD%E4%B9%A1%E6%9D%91%E7%9A%84%E2%80%9C%E5%8F%AA%E6%AD%A4%E9%9D%92%E7%BB%BF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [跳河救人小哥被奖8万 免费上大学](https://www.baidu.com/s?wd=%E8%B7%B3%E6%B2%B3%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E8%A2%AB%E5%A5%968%E4%B8%87+%E5%85%8D%E8%B4%B9%E4%B8%8A%E5%A4%A7%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [奶奶带孙时邻居反馈“不像他爸”](https://www.baidu.com/s?wd=%E5%A5%B6%E5%A5%B6%E5%B8%A6%E5%AD%99%E6%97%B6%E9%82%BB%E5%B1%85%E5%8F%8D%E9%A6%88%E2%80%9C%E4%B8%8D%E5%83%8F%E4%BB%96%E7%88%B8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子偷拿老人水果满脸笑容离开](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%81%B7%E6%8B%BF%E8%80%81%E4%BA%BA%E6%B0%B4%E6%9E%9C%E6%BB%A1%E8%84%B8%E7%AC%91%E5%AE%B9%E7%A6%BB%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [发达地区不得从中西部抢挖优秀教师](https://www.baidu.com/s?wd=%E5%8F%91%E8%BE%BE%E5%9C%B0%E5%8C%BA%E4%B8%8D%E5%BE%97%E4%BB%8E%E4%B8%AD%E8%A5%BF%E9%83%A8%E6%8A%A2%E6%8C%96%E4%BC%98%E7%A7%80%E6%95%99%E5%B8%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子一周内买7公斤黄金 埋公厕里](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%80%E5%91%A8%E5%86%85%E4%B9%B07%E5%85%AC%E6%96%A4%E9%BB%84%E9%87%91+%E5%9F%8B%E5%85%AC%E5%8E%95%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子中5976万彩票大奖 领奖时手哆嗦](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%AD5976%E4%B8%87%E5%BD%A9%E7%A5%A8%E5%A4%A7%E5%A5%96+%E9%A2%86%E5%A5%96%E6%97%B6%E6%89%8B%E5%93%86%E5%97%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [熊猫血男子献血证塞满了抽屉](https://www.baidu.com/s?wd=%E7%86%8A%E7%8C%AB%E8%A1%80%E7%94%B7%E5%AD%90%E7%8C%AE%E8%A1%80%E8%AF%81%E5%A1%9E%E6%BB%A1%E4%BA%86%E6%8A%BD%E5%B1%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [发达地区不得从中西部抢挖优秀教师](https://www.baidu.com/s?wd=%E5%8F%91%E8%BE%BE%E5%9C%B0%E5%8C%BA%E4%B8%8D%E5%BE%97%E4%BB%8E%E4%B8%AD%E8%A5%BF%E9%83%A8%E6%8A%A2%E6%8C%96%E4%BC%98%E7%A7%80%E6%95%99%E5%B8%88&sa=fyb_news&rsv_dl=fyb_news)<br />
