@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 12:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 12:19:01</h4></div>
 
 > 微博  
 
@@ -8,17 +8,17 @@
 4. [任敏跳舞 孙莉](https://s.weibo.com/weibo?q=%E4%BB%BB%E6%95%8F%E8%B7%B3%E8%88%9E%20%E5%AD%99%E8%8E%89&t=31&band_rank=4&Refer=top)<br />
 5. [张恒远去世](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%81%92%E8%BF%9C%E5%8E%BB%E4%B8%96%23&t=31&band_rank=5&Refer=top)<br />
 6. [老伴去世老人挨个敲车窗求带看老房](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BC%B4%E5%8E%BB%E4%B8%96%E8%80%81%E4%BA%BA%E6%8C%A8%E4%B8%AA%E6%95%B2%E8%BD%A6%E7%AA%97%E6%B1%82%E5%B8%A6%E7%9C%8B%E8%80%81%E6%88%BF%23&t=31&band_rank=6&Refer=top)<br />
-7. [毕夏发讣告透露张恒远生前心愿](https://s.weibo.com/weibo?q=%23%E6%AF%95%E5%A4%8F%E5%8F%91%E8%AE%A3%E5%91%8A%E9%80%8F%E9%9C%B2%E5%BC%A0%E6%81%92%E8%BF%9C%E7%94%9F%E5%89%8D%E5%BF%83%E6%84%BF%23&t=31&band_rank=7&Refer=top)<br />
-8. [北动公布丫丫最新画面](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%8A%A8%E5%85%AC%E5%B8%83%E4%B8%AB%E4%B8%AB%E6%9C%80%E6%96%B0%E7%94%BB%E9%9D%A2%23&t=31&band_rank=8&Refer=top)<br />
-9. [13岁女孩遭性侵怀孕引产后报警](https://s.weibo.com/weibo?q=%2313%E5%B2%81%E5%A5%B3%E5%AD%A9%E9%81%AD%E6%80%A7%E4%BE%B5%E6%80%80%E5%AD%95%E5%BC%95%E4%BA%A7%E5%90%8E%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=9&Refer=top)<br />
+7. [13岁女孩遭性侵怀孕引产后报警](https://s.weibo.com/weibo?q=%2313%E5%B2%81%E5%A5%B3%E5%AD%A9%E9%81%AD%E6%80%A7%E4%BE%B5%E6%80%80%E5%AD%95%E5%BC%95%E4%BA%A7%E5%90%8E%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=7&Refer=top)<br />
+8. [毕夏发讣告透露张恒远生前心愿](https://s.weibo.com/weibo?q=%23%E6%AF%95%E5%A4%8F%E5%8F%91%E8%AE%A3%E5%91%8A%E9%80%8F%E9%9C%B2%E5%BC%A0%E6%81%92%E8%BF%9C%E7%94%9F%E5%89%8D%E5%BF%83%E6%84%BF%23&t=31&band_rank=8&Refer=top)<br />
+9. [北动公布丫丫最新画面](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%8A%A8%E5%85%AC%E5%B8%83%E4%B8%AB%E4%B8%AB%E6%9C%80%E6%96%B0%E7%94%BB%E9%9D%A2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [哥伦比亚 4 名儿童坠机后丛林生存 40 天后获救，最大 13 岁，最小 1 岁，他们是如何做到的？](https://www.zhihu.com/question/605847291)<br />
 2. [天津居民楼爆炸致 3 死，嫌犯系利用烟花爆竹作案，如何从法律角度解读？](https://www.zhihu.com/question/606506953)<br />
 3. [为什么家里的长辈炒菜基本都会放葱姜蒜等调料，而对于年轻人它似乎变得可有可无？](https://www.zhihu.com/question/605464337)<br />
-4. [美国将 31 家中国实体列入管制清单，外交部回应「歇斯底里、不择手段」，如何评价美方这一行为？](https://www.zhihu.com/question/606370209)<br />
-5. [中办国办发文，其中明确发达地区不得从中西部地区、东北地区抢挖优秀校长和教师，将产生哪些积极影响？](https://www.zhihu.com/question/606427991)<br />
+4. [中办国办发文，其中明确发达地区不得从中西部地区、东北地区抢挖优秀校长和教师，将产生哪些积极影响？](https://www.zhihu.com/question/606427991)<br />
+5. [美国将 31 家中国实体列入管制清单，外交部回应「歇斯底里、不择手段」，如何评价美方这一行为？](https://www.zhihu.com/question/606370209)<br />
 6. [印度向中国手机制造商提新条件，要求印籍人士担任 CEO 等职位，分析称等于变相收购中企，如何看待此事？](https://www.zhihu.com/question/606514618)<br />
 7. [媒体报道，《中国好声音第二季》亚军张恒远去世，原因是得了黑色素瘤，什么是黑色素瘤？如何辨别？](https://www.zhihu.com/question/606511957)<br />
 8. [今年已有近 20 城颁布了支持团购买房政策，部分城市房价折扣可突破备案价跌幅限制，如何评价政策效果？](https://www.zhihu.com/question/605669004)<br />
@@ -34,7 +34,7 @@
 6. [多城管打摊贩被围堵 公安局局长喊话](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9F%8E%E7%AE%A1%E6%89%93%E6%91%8A%E8%B4%A9%E8%A2%AB%E5%9B%B4%E5%A0%B5+%E5%85%AC%E5%AE%89%E5%B1%80%E5%B1%80%E9%95%BF%E5%96%8A%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [985毕业生主动延毕：有人故意挂科](https://www.baidu.com/s?wd=985%E6%AF%95%E4%B8%9A%E7%94%9F%E4%B8%BB%E5%8A%A8%E5%BB%B6%E6%AF%95%EF%BC%9A%E6%9C%89%E4%BA%BA%E6%95%85%E6%84%8F%E6%8C%82%E7%A7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [知情人曝张恒远离世细节 曾抢救成功](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%E6%9B%9D%E5%BC%A0%E6%81%92%E8%BF%9C%E7%A6%BB%E4%B8%96%E7%BB%86%E8%8A%82+%E6%9B%BE%E6%8A%A2%E6%95%91%E6%88%90%E5%8A%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [雪山景区国道旁修围墙 付费才可赏景](https://www.baidu.com/s?wd=%E9%9B%AA%E5%B1%B1%E6%99%AF%E5%8C%BA%E5%9B%BD%E9%81%93%E6%97%81%E4%BF%AE%E5%9B%B4%E5%A2%99+%E4%BB%98%E8%B4%B9%E6%89%8D%E5%8F%AF%E8%B5%8F%E6%99%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子睡觉被蜈蚣咬醒 嘴肿成“香肠”](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%9D%A1%E8%A7%89%E8%A2%AB%E8%9C%88%E8%9A%A3%E5%92%AC%E9%86%92+%E5%98%B4%E8%82%BF%E6%88%90%E2%80%9C%E9%A6%99%E8%82%A0%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [多城管打摊贩被围堵 公安局局长喊话](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9F%8E%E7%AE%A1%E6%89%93%E6%91%8A%E8%B4%A9%E8%A2%AB%E5%9B%B4%E5%A0%B5+%E5%85%AC%E5%AE%89%E5%B1%80%E5%B1%80%E9%95%BF%E5%96%8A%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [985毕业生主动延毕：有人故意挂科](https://www.baidu.com/s?wd=985%E6%AF%95%E4%B8%9A%E7%94%9F%E4%B8%BB%E5%8A%A8%E5%BB%B6%E6%AF%95%EF%BC%9A%E6%9C%89%E4%BA%BA%E6%95%85%E6%84%8F%E6%8C%82%E7%A7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [知情人曝张恒远离世细节 曾抢救成功](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%E6%9B%9D%E5%BC%A0%E6%81%92%E8%BF%9C%E7%A6%BB%E4%B8%96%E7%BB%86%E8%8A%82+%E6%9B%BE%E6%8A%A2%E6%95%91%E6%88%90%E5%8A%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [雪山景区国道旁修围墙 付费才可赏景](https://www.baidu.com/s?wd=%E9%9B%AA%E5%B1%B1%E6%99%AF%E5%8C%BA%E5%9B%BD%E9%81%93%E6%97%81%E4%BF%AE%E5%9B%B4%E5%A2%99+%E4%BB%98%E8%B4%B9%E6%89%8D%E5%8F%AF%E8%B5%8F%E6%99%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子睡觉被蜈蚣咬醒 嘴肿成“香肠”](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%9D%A1%E8%A7%89%E8%A2%AB%E8%9C%88%E8%9A%A3%E5%92%AC%E9%86%92+%E5%98%B4%E8%82%BF%E6%88%90%E2%80%9C%E9%A6%99%E8%82%A0%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
