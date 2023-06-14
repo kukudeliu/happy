@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 03:33:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 03:34:01</h4></div>
 
 > 微博  
 
@@ -20,8 +20,8 @@
 4. [消息称马克龙想参加金砖峰会，法媒评价「疯狂、前所未有」，马克龙成行的可能性有多大？对国际合作有何意义？](https://www.zhihu.com/question/606517294)<br />
 5. []()<br />
 6. [2023 LPL 夏季赛 Uzi 复出首战告捷，EDG 2:1 击败 iG，如何评价这场比赛？](https://www.zhihu.com/question/606583572)<br />
-7. []()<br />
-8. [投资人爆料梅西曾有意来中超踢球，但最终未能成行，如何看待这一结局？](https://www.zhihu.com/question/606640897)<br />
+7. [投资人爆料梅西曾有意来中超踢球，但最终未能成行，如何看待这一结局？](https://www.zhihu.com/question/606640897)<br />
+8. []()<br />
 9. [人类为何不大规模训练猴子做「流水线工人」?](https://www.zhihu.com/question/597376599)<br />
 
 > 百度  
@@ -31,10 +31,10 @@
 3. [苏醒双手搂梅西胳膊与其合影](https://www.baidu.com/s?wd=%E8%8B%8F%E9%86%92%E5%8F%8C%E6%89%8B%E6%90%82%E6%A2%85%E8%A5%BF%E8%83%B3%E8%86%8A%E4%B8%8E%E5%85%B6%E5%90%88%E5%BD%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [美丽乡村的“只此青绿”](https://www.baidu.com/s?wd=%E7%BE%8E%E4%B8%BD%E4%B9%A1%E6%9D%91%E7%9A%84%E2%80%9C%E5%8F%AA%E6%AD%A4%E9%9D%92%E7%BB%BF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [跳河救人小哥被奖8万 免费上大学](https://www.baidu.com/s?wd=%E8%B7%B3%E6%B2%B3%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E8%A2%AB%E5%A5%968%E4%B8%87+%E5%85%8D%E8%B4%B9%E4%B8%8A%E5%A4%A7%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [网传男老师发辱女言论 同情性犯罪者](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E7%94%B7%E8%80%81%E5%B8%88%E5%8F%91%E8%BE%B1%E5%A5%B3%E8%A8%80%E8%AE%BA+%E5%90%8C%E6%83%85%E6%80%A7%E7%8A%AF%E7%BD%AA%E8%80%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [夫妻合作换灯泡妻子全程驮着丈夫](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%90%88%E4%BD%9C%E6%8D%A2%E7%81%AF%E6%B3%A1%E5%A6%BB%E5%AD%90%E5%85%A8%E7%A8%8B%E9%A9%AE%E7%9D%80%E4%B8%88%E5%A4%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [夫妻合作换灯泡妻子全程驮着丈夫](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%90%88%E4%BD%9C%E6%8D%A2%E7%81%AF%E6%B3%A1%E5%A6%BB%E5%AD%90%E5%85%A8%E7%A8%8B%E9%A9%AE%E7%9D%80%E4%B8%88%E5%A4%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [网传男老师发辱女言论 同情性犯罪者](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E7%94%B7%E8%80%81%E5%B8%88%E5%8F%91%E8%BE%B1%E5%A5%B3%E8%A8%80%E8%AE%BA+%E5%90%8C%E6%83%85%E6%80%A7%E7%8A%AF%E7%BD%AA%E8%80%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [上海发生抢劫案有人中枪？警方通报](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%8F%91%E7%94%9F%E6%8A%A2%E5%8A%AB%E6%A1%88%E6%9C%89%E4%BA%BA%E4%B8%AD%E6%9E%AA%EF%BC%9F%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [医生去世后手机还一直收到患者消息](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E5%8E%BB%E4%B8%96%E5%90%8E%E6%89%8B%E6%9C%BA%E8%BF%98%E4%B8%80%E7%9B%B4%E6%94%B6%E5%88%B0%E6%82%A3%E8%80%85%E6%B6%88%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [8天抓5名逃犯 这景区成“逃犯克星”](https://www.baidu.com/s?wd=8%E5%A4%A9%E6%8A%935%E5%90%8D%E9%80%83%E7%8A%AF+%E8%BF%99%E6%99%AF%E5%8C%BA%E6%88%90%E2%80%9C%E9%80%83%E7%8A%AF%E5%85%8B%E6%98%9F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [苏醒双手搂梅西胳膊与其合影](https://www.baidu.com/s?wd=%E8%8B%8F%E9%86%92%E5%8F%8C%E6%89%8B%E6%90%82%E6%A2%85%E8%A5%BF%E8%83%B3%E8%86%8A%E4%B8%8E%E5%85%B6%E5%90%88%E5%BD%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [美丽乡村的“只此青绿”](https://www.baidu.com/s?wd=%E7%BE%8E%E4%B8%BD%E4%B9%A1%E6%9D%91%E7%9A%84%E2%80%9C%E5%8F%AA%E6%AD%A4%E9%9D%92%E7%BB%BF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [跳河救人小哥被奖8万 免费上大学](https://www.baidu.com/s?wd=%E8%B7%B3%E6%B2%B3%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E8%A2%AB%E5%A5%968%E4%B8%87+%E5%85%8D%E8%B4%B9%E4%B8%8A%E5%A4%A7%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [网传男老师发辱女言论 同情性犯罪者](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E7%94%B7%E8%80%81%E5%B8%88%E5%8F%91%E8%BE%B1%E5%A5%B3%E8%A8%80%E8%AE%BA+%E5%90%8C%E6%83%85%E6%80%A7%E7%8A%AF%E7%BD%AA%E8%80%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [夫妻合作换灯泡妻子全程驮着丈夫](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%90%88%E4%BD%9C%E6%8D%A2%E7%81%AF%E6%B3%A1%E5%A6%BB%E5%AD%90%E5%85%A8%E7%A8%8B%E9%A9%AE%E7%9D%80%E4%B8%88%E5%A4%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [夫妻合作换灯泡妻子全程驮着丈夫](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%90%88%E4%BD%9C%E6%8D%A2%E7%81%AF%E6%B3%A1%E5%A6%BB%E5%AD%90%E5%85%A8%E7%A8%8B%E9%A9%AE%E7%9D%80%E4%B8%88%E5%A4%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [网传男老师发辱女言论 同情性犯罪者](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E7%94%B7%E8%80%81%E5%B8%88%E5%8F%91%E8%BE%B1%E5%A5%B3%E8%A8%80%E8%AE%BA+%E5%90%8C%E6%83%85%E6%80%A7%E7%8A%AF%E7%BD%AA%E8%80%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [上海发生抢劫案有人中枪？警方通报](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%8F%91%E7%94%9F%E6%8A%A2%E5%8A%AB%E6%A1%88%E6%9C%89%E4%BA%BA%E4%B8%AD%E6%9E%AA%EF%BC%9F%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [医生去世后手机还一直收到患者消息](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E5%8E%BB%E4%B8%96%E5%90%8E%E6%89%8B%E6%9C%BA%E8%BF%98%E4%B8%80%E7%9B%B4%E6%94%B6%E5%88%B0%E6%82%A3%E8%80%85%E6%B6%88%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [8天抓5名逃犯 这景区成“逃犯克星”](https://www.baidu.com/s?wd=8%E5%A4%A9%E6%8A%935%E5%90%8D%E9%80%83%E7%8A%AF+%E8%BF%99%E6%99%AF%E5%8C%BA%E6%88%90%E2%80%9C%E9%80%83%E7%8A%AF%E5%85%8B%E6%98%9F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
