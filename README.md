@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 15:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 15:16:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [毕夏发讣告透露张恒远生前心愿](https://s.weibo.com/weibo?q=%23%E6%AF%95%E5%A4%8F%E5%8F%91%E8%AE%A3%E5%91%8A%E9%80%8F%E9%9C%B2%E5%BC%A0%E6%81%92%E8%BF%9C%E7%94%9F%E5%89%8D%E5%BF%83%E6%84%BF%23&t=31&band_rank=5&Refer=top)<br />
 6. [小米回应被印度没收48亿元](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%8D%B0%E5%BA%A6%E6%B2%A1%E6%94%B648%E4%BA%BF%E5%85%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [赵露思 两次宝格丽造型](https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%20%E4%B8%A4%E6%AC%A1%E5%AE%9D%E6%A0%BC%E4%B8%BD%E9%80%A0%E5%9E%8B&t=31&band_rank=7&Refer=top)<br />
-8. [北动公布丫丫最新画面](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%8A%A8%E5%85%AC%E5%B8%83%E4%B8%AB%E4%B8%AB%E6%9C%80%E6%96%B0%E7%94%BB%E9%9D%A2%23&t=31&band_rank=8&Refer=top)<br />
-9. [汪峰 毕夏你要坚强](https://s.weibo.com/weibo?q=%E6%B1%AA%E5%B3%B0%20%E6%AF%95%E5%A4%8F%E4%BD%A0%E8%A6%81%E5%9D%9A%E5%BC%BA&t=31&band_rank=9&Refer=top)<br />
+8. [汪峰 毕夏你要坚强](https://s.weibo.com/weibo?q=%E6%B1%AA%E5%B3%B0%20%E6%AF%95%E5%A4%8F%E4%BD%A0%E8%A6%81%E5%9D%9A%E5%BC%BA&t=31&band_rank=8&Refer=top)<br />
+9. [张恒远去世](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%81%92%E8%BF%9C%E5%8E%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -21,8 +21,8 @@
 5. [和男朋友同居，是我太计较了吗?](https://www.zhihu.com/question/606007032)<br />
 6. [一些 985 毕业生开始主动选择「延毕」，有人故意挂科获取资格，这一现象会更普遍吗？如何看待这一选择？](https://www.zhihu.com/question/606541261)<br />
 7. [住在大平层是一种什么体验？](https://www.zhihu.com/question/42111523)<br />
-8. [为什么家里的长辈炒菜基本都会放葱姜蒜等调料，而对于部分年轻人似乎变得可有可无？](https://www.zhihu.com/question/605464337)<br />
-9. [秦刚同美国国务卿布林肯通电话，指出中美关系遭遇新的困难和挑战，责任是清楚的，还有哪些信息值得关注？](https://www.zhihu.com/question/606543951)<br />
+8. [秦刚同美国国务卿布林肯通电话，指出中美关系遭遇新的困难和挑战，责任是清楚的，还有哪些信息值得关注？](https://www.zhihu.com/question/606543951)<br />
+9. [为什么家里的长辈炒菜基本都会放葱姜蒜等调料，而对于部分年轻人似乎变得可有可无？](https://www.zhihu.com/question/605464337)<br />
 
 > 百度  
 
