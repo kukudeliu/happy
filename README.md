@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 11:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 11:45:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [17岁女孩一晚连刷6套卷子后患脑病](https://s.weibo.com/weibo?q=%2317%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%B8%80%E6%99%9A%E8%BF%9E%E5%88%B76%E5%A5%97%E5%8D%B7%E5%AD%90%E5%90%8E%E6%82%A3%E8%84%91%E7%97%85%23&t=31&band_rank=6&Refer=top)<br />
 7. [向佐新片打戏误伤唐诗逸](https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%E6%96%B0%E7%89%87%E6%89%93%E6%88%8F%E8%AF%AF%E4%BC%A4%E5%94%90%E8%AF%97%E9%80%B8%23&t=31&band_rank=7&Refer=top)<br />
 8. [老伴去世老人挨个敲车窗求带看老房](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BC%B4%E5%8E%BB%E4%B8%96%E8%80%81%E4%BA%BA%E6%8C%A8%E4%B8%AA%E6%95%B2%E8%BD%A6%E7%AA%97%E6%B1%82%E5%B8%A6%E7%9C%8B%E8%80%81%E6%88%BF%23&t=31&band_rank=8&Refer=top)<br />
-9. [北动公布丫丫最新画面](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%8A%A8%E5%85%AC%E5%B8%83%E4%B8%AB%E4%B8%AB%E6%9C%80%E6%96%B0%E7%94%BB%E9%9D%A2%23&t=31&band_rank=9&Refer=top)<br />
+9. [俄23岁男子游泳时被鲨鱼活吞](https://s.weibo.com/weibo?q=%23%E4%BF%8423%E5%B2%81%E7%94%B7%E5%AD%90%E6%B8%B8%E6%B3%B3%E6%97%B6%E8%A2%AB%E9%B2%A8%E9%B1%BC%E6%B4%BB%E5%90%9E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -19,8 +19,8 @@
 3. [美国将 31 家中国实体列入管制清单，外交部回应「歇斯底里、不择手段」，如何评价美方这一行为？](https://www.zhihu.com/question/606370209)<br />
 4. [为什么家里的长辈炒菜基本都会放葱姜蒜等调料，而对于年轻人它似乎变得可有可无？](https://www.zhihu.com/question/605464337)<br />
 5. [中办国办发文，其中明确发达地区不得从中西部地区、东北地区抢挖优秀校长和教师，将产生哪些积极影响？](https://www.zhihu.com/question/606427991)<br />
-6. [22-23 赛季 NBA 总决赛掘金 4:1 热火，获得总冠军，约基奇获 FMVP，如何评价本赛季掘金？](https://www.zhihu.com/question/606335616)<br />
-7. [今年已有近 20 城颁布了支持团购买房政策，部分城市房价折扣可突破备案价跌幅限制，如何评价政策效果？](https://www.zhihu.com/question/605669004)<br />
+6. [今年已有近 20 城颁布了支持团购买房政策，部分城市房价折扣可突破备案价跌幅限制，如何评价政策效果？](https://www.zhihu.com/question/605669004)<br />
+7. [22-23 赛季 NBA 总决赛掘金 4:1 热火，获得总冠军，约基奇获 FMVP，如何评价本赛季掘金？](https://www.zhihu.com/question/606335616)<br />
 8. [媒体报道，《中国好声音第二季》亚军张恒远去世，原因是得了黑色素瘤，什么是黑色素瘤？如何辨别？](https://www.zhihu.com/question/606511957)<br />
 9. [在小公司上班是一种什么体验?](https://www.zhihu.com/question/268062908)<br />
 
