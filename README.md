@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 16:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 16:49:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [比Uzi还紧张](https://s.weibo.com/weibo?q=%E6%AF%94Uzi%E8%BF%98%E7%B4%A7%E5%BC%A0&t=31&band_rank=5&Refer=top)<br />
 6. [大学上了一半专业没了](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E4%B8%8A%E4%BA%86%E4%B8%80%E5%8D%8A%E4%B8%93%E4%B8%9A%E6%B2%A1%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [向佐向唐诗逸道歉](https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%E5%90%91%E5%94%90%E8%AF%97%E9%80%B8%E9%81%93%E6%AD%89%23&t=31&band_rank=7&Refer=top)<br />
-8. [EDG对战iG](https://s.weibo.com/weibo?q=%23EDG%E5%AF%B9%E6%88%98iG%23&t=31&band_rank=8&Refer=top)<br />
-9. [张恒远去世](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%81%92%E8%BF%9C%E5%8E%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
+8. [张恒远去世](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%81%92%E8%BF%9C%E5%8E%BB%E4%B8%96%23&t=31&band_rank=8&Refer=top)<br />
+9. [EDG对战iG](https://s.weibo.com/weibo?q=%23EDG%E5%AF%B9%E6%88%98iG%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -18,10 +18,10 @@
 2. [中办国办发文，其中明确发达地区不得从中西部地区、东北地区抢挖优秀校长和教师，将产生哪些积极影响？](https://www.zhihu.com/question/606427991)<br />
 3. [一些 985 毕业生开始主动选择「延毕」，有人故意挂科获取资格，这一现象会更普遍吗？如何看待这一选择？](https://www.zhihu.com/question/606541261)<br />
 4. [如何让不玩游戏的人能够快速理解游戏 DLC 是什么东西？](https://www.zhihu.com/question/606170703)<br />
-5. [媒体报道，《中国好声音第二季》亚军张恒远去世，原因是得了黑色素瘤，什么是黑色素瘤？如何辨别？](https://www.zhihu.com/question/606511957)<br />
-6. [中国 5 月社会融资规模增量为 1.56 万亿元，比上月多 3312 亿元，这一数据说明了什么？](https://www.zhihu.com/question/606375297)<br />
-7. [姆巴佩采访时称「梅西没有得到应有的尊重」，如何看待此事？梅西本次中国行有哪些信息值得关注？](https://www.zhihu.com/question/606541357)<br />
-8. [网传「教师体罚学生后群内道歉获其他家长安慰」，官方通报「责令学校解聘」，如何看待此事？](https://www.zhihu.com/question/606363235)<br />
+5. [中国 5 月社会融资规模增量为 1.56 万亿元，比上月多 3312 亿元，这一数据说明了什么？](https://www.zhihu.com/question/606375297)<br />
+6. [姆巴佩采访时称「梅西没有得到应有的尊重」，如何看待此事？梅西本次中国行有哪些信息值得关注？](https://www.zhihu.com/question/606541357)<br />
+7. [网传「教师体罚学生后群内道歉获其他家长安慰」，官方通报「责令学校解聘」，如何看待此事？](https://www.zhihu.com/question/606363235)<br />
+8. [媒体报道，《中国好声音第二季》亚军张恒远去世，原因是得了黑色素瘤，什么是黑色素瘤？如何辨别？](https://www.zhihu.com/question/606511957)<br />
 9. [央行下调常备借贷便利利率 10 个基点，将产生哪些影响？](https://www.zhihu.com/question/606450228)<br />
 
 > 百度  
