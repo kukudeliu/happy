@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 09:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 09:13:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [黑色素瘤](https://s.weibo.com/weibo?q=%E9%BB%91%E8%89%B2%E7%B4%A0%E7%98%A4&t=31&band_rank=2&Refer=top)<br />
 3. [蓝天碧水间官兵巡逻画面美如画](https://s.weibo.com/weibo?q=%23%E8%93%9D%E5%A4%A9%E7%A2%A7%E6%B0%B4%E9%97%B4%E5%AE%98%E5%85%B5%E5%B7%A1%E9%80%BB%E7%94%BB%E9%9D%A2%E7%BE%8E%E5%A6%82%E7%94%BB%23&t=31&band_rank=3&Refer=top)<br />
 4. [17岁女孩一晚连刷6套卷子后患脑病](https://s.weibo.com/weibo?q=%2317%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%B8%80%E6%99%9A%E8%BF%9E%E5%88%B76%E5%A5%97%E5%8D%B7%E5%AD%90%E5%90%8E%E6%82%A3%E8%84%91%E7%97%85%23&t=31&band_rank=4&Refer=top)<br />
-5. [天津两处居民楼爆炸致3人死亡](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E4%B8%A4%E5%A4%84%E5%B1%85%E6%B0%91%E6%A5%BC%E7%88%86%E7%82%B8%E8%87%B43%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=5&Refer=top)<br />
-6. [人民日报评地铁偷拍乌龙](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E5%9C%B0%E9%93%81%E5%81%B7%E6%8B%8D%E4%B9%8C%E9%BE%99%23&t=31&band_rank=6&Refer=top)<br />
+5. [人民日报评地铁偷拍乌龙](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E5%9C%B0%E9%93%81%E5%81%B7%E6%8B%8D%E4%B9%8C%E9%BE%99%23&t=31&band_rank=5&Refer=top)<br />
+6. [天津两处居民楼爆炸致3人死亡](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E4%B8%A4%E5%A4%84%E5%B1%85%E6%B0%91%E6%A5%BC%E7%88%86%E7%82%B8%E8%87%B43%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [柯以敏 我比那英唱得更好](https://s.weibo.com/weibo?q=%E6%9F%AF%E4%BB%A5%E6%95%8F%20%E6%88%91%E6%AF%94%E9%82%A3%E8%8B%B1%E5%94%B1%E5%BE%97%E6%9B%B4%E5%A5%BD&t=31&band_rank=7&Refer=top)<br />
 8. [这居然是刘恋](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B1%85%E7%84%B6%E6%98%AF%E5%88%98%E6%81%8B%23&t=31&band_rank=8&Refer=top)<br />
-9. [老伴去世老人挨个敲车窗求带看老房](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BC%B4%E5%8E%BB%E4%B8%96%E8%80%81%E4%BA%BA%E6%8C%A8%E4%B8%AA%E6%95%B2%E8%BD%A6%E7%AA%97%E6%B1%82%E5%B8%A6%E7%9C%8B%E8%80%81%E6%88%BF%23&t=31&band_rank=9&Refer=top)<br />
+9. [Jennie回应演唱会中途离场](https://s.weibo.com/weibo?q=%23Jennie%E5%9B%9E%E5%BA%94%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%AD%E9%80%94%E7%A6%BB%E5%9C%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -19,8 +19,8 @@
 3. [美国将 31 家中国实体列入管制清单，外交部回应「歇斯底里、不择手段」，如何评价美方这一行为？](https://www.zhihu.com/question/606370209)<br />
 4. [女朋友第一次见我父母，我父母给了 6666 的红包，后来我去女朋友家，她父母给了我 2666，这是啥意思？](https://www.zhihu.com/question/606116935)<br />
 5. [印度发出正式通知手机小米企业因非法向国外转移资金，或被没收 48 亿元资金，如何看待印度此番做法？](https://www.zhihu.com/question/606367251)<br />
-6. [23 年高考，计算机专业的热度会下降吗？](https://www.zhihu.com/question/605789694)<br />
-7. [国家发改委通知「2023 年底前对月销售额 10 万元以下小规模纳税人免征增值税」，这将带来哪些利好？](https://www.zhihu.com/question/606387626)<br />
+6. []()<br />
+7. [23 年高考，计算机专业的热度会下降吗？](https://www.zhihu.com/question/605789694)<br />
 8. [美国 5 月 CPI 同比上升 4%，预估为 4.1%，前值为 4.9%，这一数据说明了什么？](https://www.zhihu.com/question/606450232)<br />
 9. [为什么有的学霸的家长不会经常管孩子的学习？](https://www.zhihu.com/question/599686343)<br />
 
