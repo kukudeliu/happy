@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 16:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 16:18:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [张恒远去世](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%81%92%E8%BF%9C%E5%8E%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [汪峰 毕夏你要坚强](https://s.weibo.com/weibo?q=%E6%B1%AA%E5%B3%B0%20%E6%AF%95%E5%A4%8F%E4%BD%A0%E8%A6%81%E5%9D%9A%E5%BC%BA&t=31&band_rank=7&Refer=top)<br />
 8. [北动公布丫丫最新画面](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%8A%A8%E5%85%AC%E5%B8%83%E4%B8%AB%E4%B8%AB%E6%9C%80%E6%96%B0%E7%94%BB%E9%9D%A2%23&t=31&band_rank=8&Refer=top)<br />
-9. [比Uzi还紧张](https://s.weibo.com/weibo?q=%E6%AF%94Uzi%E8%BF%98%E7%B4%A7%E5%BC%A0&t=31&band_rank=9&Refer=top)<br />
+9. [大学上了一半专业没了](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E4%B8%8A%E4%BA%86%E4%B8%80%E5%8D%8A%E4%B8%93%E4%B8%9A%E6%B2%A1%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -21,8 +21,8 @@
 5. [一些 985 毕业生开始主动选择「延毕」，有人故意挂科获取资格，这一现象会更普遍吗？如何看待这一选择？](https://www.zhihu.com/question/606541261)<br />
 6. [医学生的期末考真的像高考吗？](https://www.zhihu.com/question/606302702)<br />
 7. [中国 5 月社会融资规模增量为 1.56 万亿元，比上月多 3312 亿元，这一数据说明了什么？](https://www.zhihu.com/question/606375297)<br />
-8. [央行报告显示，5 月份人民币存款增加 1.46 万亿元，同比少增 1.58 万亿元，哪些信息值得关注？](https://www.zhihu.com/question/606376740)<br />
-9. [央行下调常备借贷便利利率 10 个基点，将产生哪些影响？](https://www.zhihu.com/question/606450228)<br />
+8. [央行下调常备借贷便利利率 10 个基点，将产生哪些影响？](https://www.zhihu.com/question/606450228)<br />
+9. [人到中年，是努力赚钱重要还是陪伴父母重要？](https://www.zhihu.com/question/598077018)<br />
 
 > 百度  
 
