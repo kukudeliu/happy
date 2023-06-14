@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 20:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 20:04:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [品牌方说赵露思礼服是借的](https://s.weibo.com/weibo?q=%23%E5%93%81%E7%89%8C%E6%96%B9%E8%AF%B4%E8%B5%B5%E9%9C%B2%E6%80%9D%E7%A4%BC%E6%9C%8D%E6%98%AF%E5%80%9F%E7%9A%84%23&t=31&band_rank=4&Refer=top)<br />
 5. [大学上了一半专业没了](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E4%B8%8A%E4%BA%86%E4%B8%80%E5%8D%8A%E4%B8%93%E4%B8%9A%E6%B2%A1%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [Angelababy撕漫女](https://s.weibo.com/weibo?q=%23Angelababy%E6%92%95%E6%BC%AB%E5%A5%B3%23&t=31&band_rank=6&Refer=top)<br />
-7. [薛之谦还没找到梅西吗](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E8%BF%98%E6%B2%A1%E6%89%BE%E5%88%B0%E6%A2%85%E8%A5%BF%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
-8. [德国同学把我的剩饭吃了](https://s.weibo.com/weibo?q=%E5%BE%B7%E5%9B%BD%E5%90%8C%E5%AD%A6%E6%8A%8A%E6%88%91%E7%9A%84%E5%89%A9%E9%A5%AD%E5%90%83%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [大学生脑出血交警咆哮式开道送医](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%84%91%E5%87%BA%E8%A1%80%E4%BA%A4%E8%AD%A6%E5%92%86%E5%93%AE%E5%BC%8F%E5%BC%80%E9%81%93%E9%80%81%E5%8C%BB%23&t=31&band_rank=9&Refer=top)<br />
+7. [德国同学把我的剩饭吃了](https://s.weibo.com/weibo?q=%E5%BE%B7%E5%9B%BD%E5%90%8C%E5%AD%A6%E6%8A%8A%E6%88%91%E7%9A%84%E5%89%A9%E9%A5%AD%E5%90%83%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
+8. [薛之谦还没找到梅西吗](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E8%BF%98%E6%B2%A1%E6%89%BE%E5%88%B0%E6%A2%85%E8%A5%BF%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
+9. [EDG对战iG](https://s.weibo.com/weibo?q=%23EDG%E5%AF%B9%E6%88%98iG%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -20,8 +20,8 @@
 4. [在古代，人出个县城都难，那些牛人是怎样做到名传天下的呢？](https://www.zhihu.com/question/496974190)<br />
 5. [2022 年各行业平均收入显示，金融业薪资增长第一，金融是好的专业报考方向吗？](https://www.zhihu.com/theater/13920)<br />
 6. [黄永玉先生逝世，如何评价他的一生及其艺术成就？](https://www.zhihu.com/question/606596968)<br />
-7. [飞云浦上，四个杀手为什么不对武松动手而是选择任由武松宰杀？](https://www.zhihu.com/question/585702421)<br />
-8. [2023 LPL 夏季赛 Uzi 复出首战告捷，EDG 2:1 击败 iG，如何评价这场比赛？](https://www.zhihu.com/question/606583572)<br />
+7. [2023 LPL 夏季赛 Uzi 复出首战告捷，EDG 2:1 击败 iG，如何评价这场比赛？](https://www.zhihu.com/question/606583572)<br />
+8. [飞云浦上，四个杀手为什么不对武松动手而是选择任由武松宰杀？](https://www.zhihu.com/question/585702421)<br />
 9. [6 月 14 日沪指放量跌 0.14%，大消费概念股集体反弹，两市成交额重回万亿，如何看待今日行情？](https://www.zhihu.com/question/606520756)<br />
 
 > 百度  
@@ -32,9 +32,9 @@
 4. [中国空间站美景请查收](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E7%BE%8E%E6%99%AF%E8%AF%B7%E6%9F%A5%E6%94%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [黄永玉逝世 曾说年轻人容易错过老人](https://www.baidu.com/s?wd=%E9%BB%84%E6%B0%B8%E7%8E%89%E9%80%9D%E4%B8%96+%E6%9B%BE%E8%AF%B4%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%AE%B9%E6%98%93%E9%94%99%E8%BF%87%E8%80%81%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [幼女遭性侵怀孕 事发3年对方未受制裁](https://www.baidu.com/s?wd=%E5%B9%BC%E5%A5%B3%E9%81%AD%E6%80%A7%E4%BE%B5%E6%80%80%E5%AD%95+%E4%BA%8B%E5%8F%913%E5%B9%B4%E5%AF%B9%E6%96%B9%E6%9C%AA%E5%8F%97%E5%88%B6%E8%A3%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [官方通报城管与摊贩冲突：6人停职](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%9F%8E%E7%AE%A1%E4%B8%8E%E6%91%8A%E8%B4%A9%E5%86%B2%E7%AA%81%EF%BC%9A6%E4%BA%BA%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [西湖划船刺客运营方被罚12万](https://www.baidu.com/s?wd=%E8%A5%BF%E6%B9%96%E5%88%92%E8%88%B9%E5%88%BA%E5%AE%A2%E8%BF%90%E8%90%A5%E6%96%B9%E8%A2%AB%E7%BD%9A12%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [医生去世后手机还一直收到患者消息](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E5%8E%BB%E4%B8%96%E5%90%8E%E6%89%8B%E6%9C%BA%E8%BF%98%E4%B8%80%E7%9B%B4%E6%94%B6%E5%88%B0%E6%82%A3%E8%80%85%E6%B6%88%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [海南三亚市委大院起火？官方回应](https://www.baidu.com/s?wd=%E6%B5%B7%E5%8D%97%E4%B8%89%E4%BA%9A%E5%B8%82%E5%A7%94%E5%A4%A7%E9%99%A2%E8%B5%B7%E7%81%AB%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [跳江救人外卖小哥曾溺水被人救起](https://www.baidu.com/s?wd=%E8%B7%B3%E6%B1%9F%E6%95%91%E4%BA%BA%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E6%9B%BE%E6%BA%BA%E6%B0%B4%E8%A2%AB%E4%BA%BA%E6%95%91%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子一周内买7公斤黄金 埋公厕里](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%80%E5%91%A8%E5%86%85%E4%B9%B07%E5%85%AC%E6%96%A4%E9%BB%84%E9%87%91+%E5%9F%8B%E5%85%AC%E5%8E%95%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [中国空间站美景请查收](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E7%BE%8E%E6%99%AF%E8%AF%B7%E6%9F%A5%E6%94%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [黄永玉逝世 曾说年轻人容易错过老人](https://www.baidu.com/s?wd=%E9%BB%84%E6%B0%B8%E7%8E%89%E9%80%9D%E4%B8%96+%E6%9B%BE%E8%AF%B4%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%AE%B9%E6%98%93%E9%94%99%E8%BF%87%E8%80%81%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [幼女遭性侵怀孕 事发3年对方未受制裁](https://www.baidu.com/s?wd=%E5%B9%BC%E5%A5%B3%E9%81%AD%E6%80%A7%E4%BE%B5%E6%80%80%E5%AD%95+%E4%BA%8B%E5%8F%913%E5%B9%B4%E5%AF%B9%E6%96%B9%E6%9C%AA%E5%8F%97%E5%88%B6%E8%A3%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [官方通报城管与摊贩冲突：6人停职](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%9F%8E%E7%AE%A1%E4%B8%8E%E6%91%8A%E8%B4%A9%E5%86%B2%E7%AA%81%EF%BC%9A6%E4%BA%BA%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [西湖划船刺客运营方被罚12万](https://www.baidu.com/s?wd=%E8%A5%BF%E6%B9%96%E5%88%92%E8%88%B9%E5%88%BA%E5%AE%A2%E8%BF%90%E8%90%A5%E6%96%B9%E8%A2%AB%E7%BD%9A12%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [医生去世后手机还一直收到患者消息](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E5%8E%BB%E4%B8%96%E5%90%8E%E6%89%8B%E6%9C%BA%E8%BF%98%E4%B8%80%E7%9B%B4%E6%94%B6%E5%88%B0%E6%82%A3%E8%80%85%E6%B6%88%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [海南三亚市委大院起火？官方回应](https://www.baidu.com/s?wd=%E6%B5%B7%E5%8D%97%E4%B8%89%E4%BA%9A%E5%B8%82%E5%A7%94%E5%A4%A7%E9%99%A2%E8%B5%B7%E7%81%AB%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [跳江救人外卖小哥曾溺水被人救起](https://www.baidu.com/s?wd=%E8%B7%B3%E6%B1%9F%E6%95%91%E4%BA%BA%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E6%9B%BE%E6%BA%BA%E6%B0%B4%E8%A2%AB%E4%BA%BA%E6%95%91%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子一周内买7公斤黄金 埋公厕里](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%80%E5%91%A8%E5%86%85%E4%B9%B07%E5%85%AC%E6%96%A4%E9%BB%84%E9%87%91+%E5%9F%8B%E5%85%AC%E5%8E%95%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
