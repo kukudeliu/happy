@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 19:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 19:57:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [小伙骑共享单车5000公里到新疆](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E9%AA%91%E5%85%B1%E4%BA%AB%E5%8D%95%E8%BD%A65000%E5%85%AC%E9%87%8C%E5%88%B0%E6%96%B0%E7%96%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [梅西苏醒合影](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%8B%8F%E9%86%92%E5%90%88%E5%BD%B1%23&t=31&band_rank=6&Refer=top)<br />
 7. [老人向镜中自己问话儿子认真回答](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%90%91%E9%95%9C%E4%B8%AD%E8%87%AA%E5%B7%B1%E9%97%AE%E8%AF%9D%E5%84%BF%E5%AD%90%E8%AE%A4%E7%9C%9F%E5%9B%9E%E7%AD%94%23&t=31&band_rank=7&Refer=top)<br />
-8. [天津大学扣饭事件疑似现场画面曝光](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E5%A4%A7%E5%AD%A6%E6%89%A3%E9%A5%AD%E4%BA%8B%E4%BB%B6%E7%96%91%E4%BC%BC%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89%23&t=31&band_rank=8&Refer=top)<br />
-9. [大学上了一半专业没了](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E4%B8%8A%E4%BA%86%E4%B8%80%E5%8D%8A%E4%B8%93%E4%B8%9A%E6%B2%A1%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+8. [大学上了一半专业没了](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E4%B8%8A%E4%BA%86%E4%B8%80%E5%8D%8A%E4%B8%93%E4%B8%9A%E6%B2%A1%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [天津大学扣饭事件疑似现场画面曝光](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E5%A4%A7%E5%AD%A6%E6%89%A3%E9%A5%AD%E4%BA%8B%E4%BB%B6%E7%96%91%E4%BC%BC%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
