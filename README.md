@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 18:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 18:49:01</h4></div>
 
 > 微博  
 
@@ -17,8 +17,8 @@
 1. [哥伦比亚 4 名儿童坠机后丛林生存 40 天后获救，最大 13 岁，最小 1 岁，他们是如何做到的？](https://www.zhihu.com/question/605847291)<br />
 2. [如何让不玩游戏的人能够快速理解游戏 DLC 是什么东西？](https://www.zhihu.com/question/606170703)<br />
 3. [网传「教师体罚学生后群内道歉获其他家长安慰」，官方通报「责令学校解聘」，如何看待此事？](https://www.zhihu.com/question/606363235)<br />
-4. [姆巴佩采访时称「梅西没有得到应有的尊重」，如何看待此事？为什么很多人对梅西离队感到宽慰？](https://www.zhihu.com/question/606541357)<br />
-5. [在古代，人出个县城都难，那些牛人是怎样做到名传天下的呢？](https://www.zhihu.com/question/496974190)<br />
+4. [在古代，人出个县城都难，那些牛人是怎样做到名传天下的呢？](https://www.zhihu.com/question/496974190)<br />
+5. [姆巴佩采访时称「梅西没有得到应有的尊重」，如何看待此事？为什么很多人对梅西离队感到宽慰？](https://www.zhihu.com/question/606541357)<br />
 6. [老农卖不合格芹菜获利 14 元被罚 10 万，法院裁定不准予强制执行，如何从法律角度解读此事？](https://www.zhihu.com/question/606519434)<br />
 7. [黄永玉先生逝世，如何评价他的一生及其艺术成就？](https://www.zhihu.com/question/606596968)<br />
 8. [2023 年高考生，数学估完撑死没有 75，复读真的很难吗，不理解为啥都说复读需要勇气?](https://www.zhihu.com/question/605958206)<br />
@@ -33,8 +33,8 @@
 5. [黄永玉逝世 曾说年轻人容易错过老人](https://www.baidu.com/s?wd=%E9%BB%84%E6%B0%B8%E7%8E%89%E9%80%9D%E4%B8%96+%E6%9B%BE%E8%AF%B4%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%AE%B9%E6%98%93%E9%94%99%E8%BF%87%E8%80%81%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [幼女遭性侵怀孕 事发3年对方未受制裁](https://www.baidu.com/s?wd=%E5%B9%BC%E5%A5%B3%E9%81%AD%E6%80%A7%E4%BE%B5%E6%80%80%E5%AD%95+%E4%BA%8B%E5%8F%913%E5%B9%B4%E5%AF%B9%E6%96%B9%E6%9C%AA%E5%8F%97%E5%88%B6%E8%A3%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [疑似天津大学女生扣饭事件监控流出](https://www.baidu.com/s?wd=%E7%96%91%E4%BC%BC%E5%A4%A9%E6%B4%A5%E5%A4%A7%E5%AD%A6%E5%A5%B3%E7%94%9F%E6%89%A3%E9%A5%AD%E4%BA%8B%E4%BB%B6%E7%9B%91%E6%8E%A7%E6%B5%81%E5%87%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子一周内买7公斤黄金 埋公厕里](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%80%E5%91%A8%E5%86%85%E4%B9%B07%E5%85%AC%E6%96%A4%E9%BB%84%E9%87%91+%E5%9F%8B%E5%85%AC%E5%8E%95%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [小米回应被印度没收48亿元](https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%8D%B0%E5%BA%A6%E6%B2%A1%E6%94%B648%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [小米回应被印度没收48亿元](https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%8D%B0%E5%BA%A6%E6%B2%A1%E6%94%B648%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子一周内买7公斤黄金 埋公厕里](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%80%E5%91%A8%E5%86%85%E4%B9%B07%E5%85%AC%E6%96%A4%E9%BB%84%E9%87%91+%E5%9F%8B%E5%85%AC%E5%8E%95%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [黄永玉逝世 曾说年轻人容易错过老人](https://www.baidu.com/s?wd=%E9%BB%84%E6%B0%B8%E7%8E%89%E9%80%9D%E4%B8%96+%E6%9B%BE%E8%AF%B4%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%AE%B9%E6%98%93%E9%94%99%E8%BF%87%E8%80%81%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [幼女遭性侵怀孕 事发3年对方未受制裁](https://www.baidu.com/s?wd=%E5%B9%BC%E5%A5%B3%E9%81%AD%E6%80%A7%E4%BE%B5%E6%80%80%E5%AD%95+%E4%BA%8B%E5%8F%913%E5%B9%B4%E5%AF%B9%E6%96%B9%E6%9C%AA%E5%8F%97%E5%88%B6%E8%A3%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [疑似天津大学女生扣饭事件监控流出](https://www.baidu.com/s?wd=%E7%96%91%E4%BC%BC%E5%A4%A9%E6%B4%A5%E5%A4%A7%E5%AD%A6%E5%A5%B3%E7%94%9F%E6%89%A3%E9%A5%AD%E4%BA%8B%E4%BB%B6%E7%9B%91%E6%8E%A7%E6%B5%81%E5%87%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子一周内买7公斤黄金 埋公厕里](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%80%E5%91%A8%E5%86%85%E4%B9%B07%E5%85%AC%E6%96%A4%E9%BB%84%E9%87%91+%E5%9F%8B%E5%85%AC%E5%8E%95%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [小米回应被印度没收48亿元](https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%8D%B0%E5%BA%A6%E6%B2%A1%E6%94%B648%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [小米回应被印度没收48亿元](https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%8D%B0%E5%BA%A6%E6%B2%A1%E6%94%B648%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子一周内买7公斤黄金 埋公厕里](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%80%E5%91%A8%E5%86%85%E4%B9%B07%E5%85%AC%E6%96%A4%E9%BB%84%E9%87%91+%E5%9F%8B%E5%85%AC%E5%8E%95%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
