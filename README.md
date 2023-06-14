@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 00:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 00:15:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [S属性大爆发](https://s.weibo.com/weibo?q=S%E5%B1%9E%E6%80%A7%E5%A4%A7%E7%88%86%E5%8F%91&t=31&band_rank=5&Refer=top)<br />
 6. [宋仲基儿子出生](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BB%B2%E5%9F%BA%E5%84%BF%E5%AD%90%E5%87%BA%E7%94%9F%23&t=31&band_rank=6&Refer=top)<br />
 7. [品牌方说赵露思礼服是借的](https://s.weibo.com/weibo?q=%23%E5%93%81%E7%89%8C%E6%96%B9%E8%AF%B4%E8%B5%B5%E9%9C%B2%E6%80%9D%E7%A4%BC%E6%9C%8D%E6%98%AF%E5%80%9F%E7%9A%84%23&t=31&band_rank=7&Refer=top)<br />
-8. [考古女生寄200斤洛阳铲装备吓坏父母](https://s.weibo.com/weibo?q=%23%E8%80%83%E5%8F%A4%E5%A5%B3%E7%94%9F%E5%AF%84200%E6%96%A4%E6%B4%9B%E9%98%B3%E9%93%B2%E8%A3%85%E5%A4%87%E5%90%93%E5%9D%8F%E7%88%B6%E6%AF%8D%23&t=31&band_rank=8&Refer=top)<br />
-9. [黄永玉逝世](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%B0%B8%E7%8E%89%E9%80%9D%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
+8. [黄永玉逝世](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%B0%B8%E7%8E%89%E9%80%9D%E4%B8%96%23&t=31&band_rank=8&Refer=top)<br />
+9. [关晓彤第一套vs第二套](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E7%AC%AC%E4%B8%80%E5%A5%97vs%E7%AC%AC%E4%BA%8C%E5%A5%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -19,10 +19,10 @@
 3. [2023 LPL 夏季赛 Uzi 复出首战告捷，EDG 2:1 击败 iG，如何评价这场比赛？](https://www.zhihu.com/question/606583572)<br />
 4. [老农卖不合格芹菜获利 14 元被罚 10 万，法院裁定不准予强制执行，如何从法律角度解读此事？](https://www.zhihu.com/question/606519434)<br />
 5. [乌军街头「抓壮丁」，视频显示男子拒绝后被打晕在地，征兵人员抓手将其拖走，如何看待乌军行为？](https://www.zhihu.com/question/606382302)<br />
-6. [和男朋友同居，是我太计较了吗?](https://www.zhihu.com/question/606007032)<br />
-7. []()<br />
+6. [消息称马克龙想参加金砖峰会，法媒评价「疯狂、前所未有」，马克龙成行的可能性有多大？对国际合作有何意义？](https://www.zhihu.com/question/606517294)<br />
+7. [和男朋友同居，是我太计较了吗?](https://www.zhihu.com/question/606007032)<br />
 8. []()<br />
-9. [投资人爆料梅西曾有意来中超踢球，但最终未能成行，如何看待这一结局？](https://www.zhihu.com/question/606640897)<br />
+9. []()<br />
 
 > 百度  
 
