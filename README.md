@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 16:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 16:20:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [人民日报评地铁偷拍乌龙](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E5%9C%B0%E9%93%81%E5%81%B7%E6%8B%8D%E4%B9%8C%E9%BE%99%23&t=31&band_rank=5&Refer=top)<br />
 6. [张恒远去世](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%81%92%E8%BF%9C%E5%8E%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [汪峰 毕夏你要坚强](https://s.weibo.com/weibo?q=%E6%B1%AA%E5%B3%B0%20%E6%AF%95%E5%A4%8F%E4%BD%A0%E8%A6%81%E5%9D%9A%E5%BC%BA&t=31&band_rank=7&Refer=top)<br />
-8. [北动公布丫丫最新画面](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%8A%A8%E5%85%AC%E5%B8%83%E4%B8%AB%E4%B8%AB%E6%9C%80%E6%96%B0%E7%94%BB%E9%9D%A2%23&t=31&band_rank=8&Refer=top)<br />
-9. [大学上了一半专业没了](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E4%B8%8A%E4%BA%86%E4%B8%80%E5%8D%8A%E4%B8%93%E4%B8%9A%E6%B2%A1%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+8. [大学上了一半专业没了](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E4%B8%8A%E4%BA%86%E4%B8%80%E5%8D%8A%E4%B8%93%E4%B8%9A%E6%B2%A1%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [北动公布丫丫最新画面](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%8A%A8%E5%85%AC%E5%B8%83%E4%B8%AB%E4%B8%AB%E6%9C%80%E6%96%B0%E7%94%BB%E9%9D%A2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
