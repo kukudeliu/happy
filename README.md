@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 08:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 08:25:01</h4></div>
 
 > 微博  
 
@@ -20,8 +20,8 @@
 4. [女朋友第一次见我父母，我父母给了 6666 的红包，后来我去女朋友家，她父母给了我 2666，这是啥意思？](https://www.zhihu.com/question/606116935)<br />
 5. [印度发出正式通知手机小米企业因非法向国外转移资金，或被没收 48 亿元资金，如何看待印度此番做法？](https://www.zhihu.com/question/606367251)<br />
 6. [国家发改委通知「2023 年底前对月销售额 10 万元以下小规模纳税人免征增值税」，这将带来哪些利好？](https://www.zhihu.com/question/606387626)<br />
-7. [你的第一段科研经历是怎样的？](https://www.zhihu.com/question/338996639)<br />
-8. []()<br />
+7. []()<br />
+8. [你的第一段科研经历是怎样的？](https://www.zhihu.com/question/338996639)<br />
 9. []()<br />
 
 > 百度  
@@ -31,7 +31,7 @@
 3. [局长妻子疑吃空饷 官方成立调查组](https://www.baidu.com/s?wd=%E5%B1%80%E9%95%BF%E5%A6%BB%E5%AD%90%E7%96%91%E5%90%83%E7%A9%BA%E9%A5%B7+%E5%AE%98%E6%96%B9%E6%88%90%E7%AB%8B%E8%B0%83%E6%9F%A5%E7%BB%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [20余省已公布高考查分时间](https://www.baidu.com/s?wd=20%E4%BD%99%E7%9C%81%E5%B7%B2%E5%85%AC%E5%B8%83%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86%E6%97%B6%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [黄牛假冒电工入室 盗走201张门票](https://www.baidu.com/s?wd=%E9%BB%84%E7%89%9B%E5%81%87%E5%86%92%E7%94%B5%E5%B7%A5%E5%85%A5%E5%AE%A4+%E7%9B%97%E8%B5%B0201%E5%BC%A0%E9%97%A8%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [张恒远去世](https://www.baidu.com/s?wd=%E5%BC%A0%E6%81%92%E8%BF%9C%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [好声音亚军张恒远去世](https://www.baidu.com/s?wd=%E5%A5%BD%E5%A3%B0%E9%9F%B3%E4%BA%9A%E5%86%9B%E5%BC%A0%E6%81%92%E8%BF%9C%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [SK-II神仙水生产地涉嫌核污染](https://www.baidu.com/s?wd=SK-II%E7%A5%9E%E4%BB%99%E6%B0%B4%E7%94%9F%E4%BA%A7%E5%9C%B0%E6%B6%89%E5%AB%8C%E6%A0%B8%E6%B1%A1%E6%9F%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [笑果旗下公司擅自演出被罚](https://www.baidu.com/s?wd=%E7%AC%91%E6%9E%9C%E6%97%97%E4%B8%8B%E5%85%AC%E5%8F%B8%E6%93%85%E8%87%AA%E6%BC%94%E5%87%BA%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [特朗普出庭全程沉默](https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%87%BA%E5%BA%AD%E5%85%A8%E7%A8%8B%E6%B2%89%E9%BB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -43,7 +43,7 @@
 3. [局长妻子疑吃空饷 官方成立调查组](https://www.baidu.com/s?wd=%E5%B1%80%E9%95%BF%E5%A6%BB%E5%AD%90%E7%96%91%E5%90%83%E7%A9%BA%E9%A5%B7+%E5%AE%98%E6%96%B9%E6%88%90%E7%AB%8B%E8%B0%83%E6%9F%A5%E7%BB%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [20余省已公布高考查分时间](https://www.baidu.com/s?wd=20%E4%BD%99%E7%9C%81%E5%B7%B2%E5%85%AC%E5%B8%83%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86%E6%97%B6%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [黄牛假冒电工入室 盗走201张门票](https://www.baidu.com/s?wd=%E9%BB%84%E7%89%9B%E5%81%87%E5%86%92%E7%94%B5%E5%B7%A5%E5%85%A5%E5%AE%A4+%E7%9B%97%E8%B5%B0201%E5%BC%A0%E9%97%A8%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [张恒远去世](https://www.baidu.com/s?wd=%E5%BC%A0%E6%81%92%E8%BF%9C%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [好声音亚军张恒远去世](https://www.baidu.com/s?wd=%E5%A5%BD%E5%A3%B0%E9%9F%B3%E4%BA%9A%E5%86%9B%E5%BC%A0%E6%81%92%E8%BF%9C%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [SK-II神仙水生产地涉嫌核污染](https://www.baidu.com/s?wd=SK-II%E7%A5%9E%E4%BB%99%E6%B0%B4%E7%94%9F%E4%BA%A7%E5%9C%B0%E6%B6%89%E5%AB%8C%E6%A0%B8%E6%B1%A1%E6%9F%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [笑果旗下公司擅自演出被罚](https://www.baidu.com/s?wd=%E7%AC%91%E6%9E%9C%E6%97%97%E4%B8%8B%E5%85%AC%E5%8F%B8%E6%93%85%E8%87%AA%E6%BC%94%E5%87%BA%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [特朗普出庭全程沉默](https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%87%BA%E5%BA%AD%E5%85%A8%E7%A8%8B%E6%B2%89%E9%BB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
