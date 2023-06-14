@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 03:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 03:38:01</h4></div>
 
 > 微博  
 
@@ -20,8 +20,8 @@
 4. [消息称马克龙想参加金砖峰会，法媒评价「疯狂、前所未有」，马克龙成行的可能性有多大？对国际合作有何意义？](https://www.zhihu.com/question/606517294)<br />
 5. []()<br />
 6. [投资人爆料梅西曾有意来中超踢球，但最终未能成行，如何看待这一结局？](https://www.zhihu.com/question/606640897)<br />
-7. [2023 LPL 夏季赛 Uzi 复出首战告捷，EDG 2:1 击败 iG，如何评价这场比赛？](https://www.zhihu.com/question/606583572)<br />
-8. [人类为何不大规模训练猴子做「流水线工人」?](https://www.zhihu.com/question/597376599)<br />
+7. [人类为何不大规模训练猴子做「流水线工人」?](https://www.zhihu.com/question/597376599)<br />
+8. []()<br />
 9. []()<br />
 
 > 百度  
