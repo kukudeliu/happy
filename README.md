@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 09:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 09:36:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [17岁女孩一晚连刷6套卷子后患脑病](https://s.weibo.com/weibo?q=%2317%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%B8%80%E6%99%9A%E8%BF%9E%E5%88%B76%E5%A5%97%E5%8D%B7%E5%AD%90%E5%90%8E%E6%82%A3%E8%84%91%E7%97%85%23&t=31&band_rank=6&Refer=top)<br />
 7. [柯以敏 我比那英唱得更好](https://s.weibo.com/weibo?q=%E6%9F%AF%E4%BB%A5%E6%95%8F%20%E6%88%91%E6%AF%94%E9%82%A3%E8%8B%B1%E5%94%B1%E5%BE%97%E6%9B%B4%E5%A5%BD&t=31&band_rank=7&Refer=top)<br />
 8. [这居然是刘恋](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B1%85%E7%84%B6%E6%98%AF%E5%88%98%E6%81%8B%23&t=31&band_rank=8&Refer=top)<br />
-9. [老伴去世老人挨个敲车窗求带看老房](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BC%B4%E5%8E%BB%E4%B8%96%E8%80%81%E4%BA%BA%E6%8C%A8%E4%B8%AA%E6%95%B2%E8%BD%A6%E7%AA%97%E6%B1%82%E5%B8%A6%E7%9C%8B%E8%80%81%E6%88%BF%23&t=31&band_rank=9&Refer=top)<br />
+9. [王鹤棣田曦薇 大奉打更人](https://s.weibo.com/weibo?q=%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%94%B0%E6%9B%A6%E8%96%87%20%E5%A4%A7%E5%A5%89%E6%89%93%E6%9B%B4%E4%BA%BA&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
