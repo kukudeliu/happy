@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 18:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 18:04:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [德国同学把我的剩饭吃了](https://s.weibo.com/weibo?q=%E5%BE%B7%E5%9B%BD%E5%90%8C%E5%AD%A6%E6%8A%8A%E6%88%91%E7%9A%84%E5%89%A9%E9%A5%AD%E5%90%83%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [小伙骑共享单车5000公里到新疆](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E9%AA%91%E5%85%B1%E4%BA%AB%E5%8D%95%E8%BD%A65000%E5%85%AC%E9%87%8C%E5%88%B0%E6%96%B0%E7%96%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [大学上了一半专业没了](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E4%B8%8A%E4%BA%86%E4%B8%80%E5%8D%8A%E4%B8%93%E4%B8%9A%E6%B2%A1%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [人民日报评地铁偷拍乌龙](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E5%9C%B0%E9%93%81%E5%81%B7%E6%8B%8D%E4%B9%8C%E9%BE%99%23&t=31&band_rank=9&Refer=top)<br />
+9. [老人向镜中自己问话儿子认真回答](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%90%91%E9%95%9C%E4%B8%AD%E8%87%AA%E5%B7%B1%E9%97%AE%E8%AF%9D%E5%84%BF%E5%AD%90%E8%AE%A4%E7%9C%9F%E5%9B%9E%E7%AD%94%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -32,9 +32,9 @@
 4. [中国空间站美景请查收](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E7%BE%8E%E6%99%AF%E8%AF%B7%E6%9F%A5%E6%94%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [疑似天津大学女生扣饭事件监控流出](https://www.baidu.com/s?wd=%E7%96%91%E4%BC%BC%E5%A4%A9%E6%B4%A5%E5%A4%A7%E5%AD%A6%E5%A5%B3%E7%94%9F%E6%89%A3%E9%A5%AD%E4%BA%8B%E4%BB%B6%E7%9B%91%E6%8E%A7%E6%B5%81%E5%87%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [初中学生砍死同学 曾写纸条预告杀人](https://www.baidu.com/s?wd=%E5%88%9D%E4%B8%AD%E5%AD%A6%E7%94%9F%E7%A0%8D%E6%AD%BB%E5%90%8C%E5%AD%A6+%E6%9B%BE%E5%86%99%E7%BA%B8%E6%9D%A1%E9%A2%84%E5%91%8A%E6%9D%80%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [小米回应被印度没收48亿元](https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%8D%B0%E5%BA%A6%E6%B2%A1%E6%94%B648%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子被战友骗进传销窝后失踪23年](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A2%AB%E6%88%98%E5%8F%8B%E9%AA%97%E8%BF%9B%E4%BC%A0%E9%94%80%E7%AA%9D%E5%90%8E%E5%A4%B1%E8%B8%AA23%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子一周内买7公斤黄金 埋公厕里](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%80%E5%91%A8%E5%86%85%E4%B9%B07%E5%85%AC%E6%96%A4%E9%BB%84%E9%87%91+%E5%9F%8B%E5%85%AC%E5%8E%95%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子一周内买7公斤黄金 埋公厕里](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%80%E5%91%A8%E5%86%85%E4%B9%B07%E5%85%AC%E6%96%A4%E9%BB%84%E9%87%91+%E5%9F%8B%E5%85%AC%E5%8E%95%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [小米回应被印度没收48亿元](https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%8D%B0%E5%BA%A6%E6%B2%A1%E6%94%B648%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [云南亚洲象已开启避暑模式](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E4%BA%9A%E6%B4%B2%E8%B1%A1%E5%B7%B2%E5%BC%80%E5%90%AF%E9%81%BF%E6%9A%91%E6%A8%A1%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [中国空间站美景请查收](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E7%BE%8E%E6%99%AF%E8%AF%B7%E6%9F%A5%E6%94%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [疑似天津大学女生扣饭事件监控流出](https://www.baidu.com/s?wd=%E7%96%91%E4%BC%BC%E5%A4%A9%E6%B4%A5%E5%A4%A7%E5%AD%A6%E5%A5%B3%E7%94%9F%E6%89%A3%E9%A5%AD%E4%BA%8B%E4%BB%B6%E7%9B%91%E6%8E%A7%E6%B5%81%E5%87%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [初中学生砍死同学 曾写纸条预告杀人](https://www.baidu.com/s?wd=%E5%88%9D%E4%B8%AD%E5%AD%A6%E7%94%9F%E7%A0%8D%E6%AD%BB%E5%90%8C%E5%AD%A6+%E6%9B%BE%E5%86%99%E7%BA%B8%E6%9D%A1%E9%A2%84%E5%91%8A%E6%9D%80%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [小米回应被印度没收48亿元](https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%8D%B0%E5%BA%A6%E6%B2%A1%E6%94%B648%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子被战友骗进传销窝后失踪23年](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A2%AB%E6%88%98%E5%8F%8B%E9%AA%97%E8%BF%9B%E4%BC%A0%E9%94%80%E7%AA%9D%E5%90%8E%E5%A4%B1%E8%B8%AA23%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子一周内买7公斤黄金 埋公厕里](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%80%E5%91%A8%E5%86%85%E4%B9%B07%E5%85%AC%E6%96%A4%E9%BB%84%E9%87%91+%E5%9F%8B%E5%85%AC%E5%8E%95%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子一周内买7公斤黄金 埋公厕里](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%80%E5%91%A8%E5%86%85%E4%B9%B07%E5%85%AC%E6%96%A4%E9%BB%84%E9%87%91+%E5%9F%8B%E5%85%AC%E5%8E%95%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [小米回应被印度没收48亿元](https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%8D%B0%E5%BA%A6%E6%B2%A1%E6%94%B648%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [云南亚洲象已开启避暑模式](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E4%BA%9A%E6%B4%B2%E8%B1%A1%E5%B7%B2%E5%BC%80%E5%90%AF%E9%81%BF%E6%9A%91%E6%A8%A1%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
