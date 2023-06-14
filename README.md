@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 22:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 22:36:01</h4></div>
 
 > 微博  
 
@@ -32,9 +32,9 @@
 4. [美丽乡村的“只此青绿”](https://www.baidu.com/s?wd=%E7%BE%8E%E4%B8%BD%E4%B9%A1%E6%9D%91%E7%9A%84%E2%80%9C%E5%8F%AA%E6%AD%A4%E9%9D%92%E7%BB%BF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [黄永玉逝世 曾说年轻人容易错过老人](https://www.baidu.com/s?wd=%E9%BB%84%E6%B0%B8%E7%8E%89%E9%80%9D%E4%B8%96+%E6%9B%BE%E8%AF%B4%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%AE%B9%E6%98%93%E9%94%99%E8%BF%87%E8%80%81%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [奶奶带孙时邻居反馈“不像他爸”](https://www.baidu.com/s?wd=%E5%A5%B6%E5%A5%B6%E5%B8%A6%E5%AD%99%E6%97%B6%E9%82%BB%E5%B1%85%E5%8F%8D%E9%A6%88%E2%80%9C%E4%B8%8D%E5%83%8F%E4%BB%96%E7%88%B8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [海南三亚市委大院起火？官方回应](https://www.baidu.com/s?wd=%E6%B5%B7%E5%8D%97%E4%B8%89%E4%BA%9A%E5%B8%82%E5%A7%94%E5%A4%A7%E9%99%A2%E8%B5%B7%E7%81%AB%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [夫妻合作换灯泡妻子全程驮着丈夫](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%90%88%E4%BD%9C%E6%8D%A2%E7%81%AF%E6%B3%A1%E5%A6%BB%E5%AD%90%E5%85%A8%E7%A8%8B%E9%A9%AE%E7%9D%80%E4%B8%88%E5%A4%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子中5976万彩票大奖 领奖时手哆嗦](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%AD5976%E4%B8%87%E5%BD%A9%E7%A5%A8%E5%A4%A7%E5%A5%96+%E9%A2%86%E5%A5%96%E6%97%B6%E6%89%8B%E5%93%86%E5%97%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [夫妻合作换灯泡妻子全程驮着丈夫](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%90%88%E4%BD%9C%E6%8D%A2%E7%81%AF%E6%B3%A1%E5%A6%BB%E5%AD%90%E5%85%A8%E7%A8%8B%E9%A9%AE%E7%9D%80%E4%B8%88%E5%A4%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子中5976万彩票大奖 领奖时手哆嗦](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%AD5976%E4%B8%87%E5%BD%A9%E7%A5%A8%E5%A4%A7%E5%A5%96+%E9%A2%86%E5%A5%96%E6%97%B6%E6%89%8B%E5%93%86%E5%97%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [2家水果店斗气式竞争免费送榴莲](https://www.baidu.com/s?wd=2%E5%AE%B6%E6%B0%B4%E6%9E%9C%E5%BA%97%E6%96%97%E6%B0%94%E5%BC%8F%E7%AB%9E%E4%BA%89%E5%85%8D%E8%B4%B9%E9%80%81%E6%A6%B4%E8%8E%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [美丽乡村的“只此青绿”](https://www.baidu.com/s?wd=%E7%BE%8E%E4%B8%BD%E4%B9%A1%E6%9D%91%E7%9A%84%E2%80%9C%E5%8F%AA%E6%AD%A4%E9%9D%92%E7%BB%BF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [黄永玉逝世 曾说年轻人容易错过老人](https://www.baidu.com/s?wd=%E9%BB%84%E6%B0%B8%E7%8E%89%E9%80%9D%E4%B8%96+%E6%9B%BE%E8%AF%B4%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%AE%B9%E6%98%93%E9%94%99%E8%BF%87%E8%80%81%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [奶奶带孙时邻居反馈“不像他爸”](https://www.baidu.com/s?wd=%E5%A5%B6%E5%A5%B6%E5%B8%A6%E5%AD%99%E6%97%B6%E9%82%BB%E5%B1%85%E5%8F%8D%E9%A6%88%E2%80%9C%E4%B8%8D%E5%83%8F%E4%BB%96%E7%88%B8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [海南三亚市委大院起火？官方回应](https://www.baidu.com/s?wd=%E6%B5%B7%E5%8D%97%E4%B8%89%E4%BA%9A%E5%B8%82%E5%A7%94%E5%A4%A7%E9%99%A2%E8%B5%B7%E7%81%AB%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [夫妻合作换灯泡妻子全程驮着丈夫](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%90%88%E4%BD%9C%E6%8D%A2%E7%81%AF%E6%B3%A1%E5%A6%BB%E5%AD%90%E5%85%A8%E7%A8%8B%E9%A9%AE%E7%9D%80%E4%B8%88%E5%A4%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子中5976万彩票大奖 领奖时手哆嗦](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%AD5976%E4%B8%87%E5%BD%A9%E7%A5%A8%E5%A4%A7%E5%A5%96+%E9%A2%86%E5%A5%96%E6%97%B6%E6%89%8B%E5%93%86%E5%97%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [夫妻合作换灯泡妻子全程驮着丈夫](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%90%88%E4%BD%9C%E6%8D%A2%E7%81%AF%E6%B3%A1%E5%A6%BB%E5%AD%90%E5%85%A8%E7%A8%8B%E9%A9%AE%E7%9D%80%E4%B8%88%E5%A4%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子中5976万彩票大奖 领奖时手哆嗦](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%AD5976%E4%B8%87%E5%BD%A9%E7%A5%A8%E5%A4%A7%E5%A5%96+%E9%A2%86%E5%A5%96%E6%97%B6%E6%89%8B%E5%93%86%E5%97%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [2家水果店斗气式竞争免费送榴莲](https://www.baidu.com/s?wd=2%E5%AE%B6%E6%B0%B4%E6%9E%9C%E5%BA%97%E6%96%97%E6%B0%94%E5%BC%8F%E7%AB%9E%E4%BA%89%E5%85%8D%E8%B4%B9%E9%80%81%E6%A6%B4%E8%8E%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
