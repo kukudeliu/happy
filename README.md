@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 02:18:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 02:19:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [考古女生寄200斤洛阳铲装备吓坏父母](https://s.weibo.com/weibo?q=%23%E8%80%83%E5%8F%A4%E5%A5%B3%E7%94%9F%E5%AF%84200%E6%96%A4%E6%B4%9B%E9%98%B3%E9%93%B2%E8%A3%85%E5%A4%87%E5%90%93%E5%9D%8F%E7%88%B6%E6%AF%8D%23&t=31&band_rank=5&Refer=top)<br />
 6. [宋仲基儿子出生](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BB%B2%E5%9F%BA%E5%84%BF%E5%AD%90%E5%87%BA%E7%94%9F%23&t=31&band_rank=6&Refer=top)<br />
 7. [Uzi哭了](https://s.weibo.com/weibo?q=Uzi%E5%93%AD%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
-8. [S属性大爆发](https://s.weibo.com/weibo?q=S%E5%B1%9E%E6%80%A7%E5%A4%A7%E7%88%86%E5%8F%91&t=31&band_rank=8&Refer=top)<br />
-9. [梅西苏醒合影](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%8B%8F%E9%86%92%E5%90%88%E5%BD%B1%23&t=31&band_rank=9&Refer=top)<br />
+8. [温州近视司机深夜高速上镜片突然脱落](https://s.weibo.com/weibo?q=%23%E6%B8%A9%E5%B7%9E%E8%BF%91%E8%A7%86%E5%8F%B8%E6%9C%BA%E6%B7%B1%E5%A4%9C%E9%AB%98%E9%80%9F%E4%B8%8A%E9%95%9C%E7%89%87%E7%AA%81%E7%84%B6%E8%84%B1%E8%90%BD%23&t=31&band_rank=8&Refer=top)<br />
+9. [S属性大爆发](https://s.weibo.com/weibo?q=S%E5%B1%9E%E6%80%A7%E5%A4%A7%E7%88%86%E5%8F%91&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -31,9 +31,9 @@
 3. [苏醒双手搂梅西胳膊与其合影](https://www.baidu.com/s?wd=%E8%8B%8F%E9%86%92%E5%8F%8C%E6%89%8B%E6%90%82%E6%A2%85%E8%A5%BF%E8%83%B3%E8%86%8A%E4%B8%8E%E5%85%B6%E5%90%88%E5%BD%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [美丽乡村的“只此青绿”](https://www.baidu.com/s?wd=%E7%BE%8E%E4%B8%BD%E4%B9%A1%E6%9D%91%E7%9A%84%E2%80%9C%E5%8F%AA%E6%AD%A4%E9%9D%92%E7%BB%BF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [跳河救人小哥被奖8万 免费上大学](https://www.baidu.com/s?wd=%E8%B7%B3%E6%B2%B3%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E8%A2%AB%E5%A5%968%E4%B8%87+%E5%85%8D%E8%B4%B9%E4%B8%8A%E5%A4%A7%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [日本化学品加工厂爆炸](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%8C%96%E5%AD%A6%E5%93%81%E5%8A%A0%E5%B7%A5%E5%8E%82%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [华中师范校友给母校捐款1亿](https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%AD%E5%B8%88%E8%8C%83%E6%A0%A1%E5%8F%8B%E7%BB%99%E6%AF%8D%E6%A0%A1%E6%8D%90%E6%AC%BE1%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [网传男老师发辱女言论 同情性犯罪者](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E7%94%B7%E8%80%81%E5%B8%88%E5%8F%91%E8%BE%B1%E5%A5%B3%E8%A8%80%E8%AE%BA+%E5%90%8C%E6%83%85%E6%80%A7%E7%8A%AF%E7%BD%AA%E8%80%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [网传男老师发辱女言论 同情性犯罪者](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E7%94%B7%E8%80%81%E5%B8%88%E5%8F%91%E8%BE%B1%E5%A5%B3%E8%A8%80%E8%AE%BA+%E5%90%8C%E6%83%85%E6%80%A7%E7%8A%AF%E7%BD%AA%E8%80%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [日本化学品加工厂爆炸](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%8C%96%E5%AD%A6%E5%93%81%E5%8A%A0%E5%B7%A5%E5%8E%82%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [柯以敏 我比那英唱得更好](https://www.baidu.com/s?wd=%E6%9F%AF%E4%BB%A5%E6%95%8F+%E6%88%91%E6%AF%94%E9%82%A3%E8%8B%B1%E5%94%B1%E5%BE%97%E6%9B%B4%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [夫妻合作换灯泡妻子全程驮着丈夫](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%90%88%E4%BD%9C%E6%8D%A2%E7%81%AF%E6%B3%A1%E5%A6%BB%E5%AD%90%E5%85%A8%E7%A8%8B%E9%A9%AE%E7%9D%80%E4%B8%88%E5%A4%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -43,7 +43,7 @@
 3. [苏醒双手搂梅西胳膊与其合影](https://www.baidu.com/s?wd=%E8%8B%8F%E9%86%92%E5%8F%8C%E6%89%8B%E6%90%82%E6%A2%85%E8%A5%BF%E8%83%B3%E8%86%8A%E4%B8%8E%E5%85%B6%E5%90%88%E5%BD%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [美丽乡村的“只此青绿”](https://www.baidu.com/s?wd=%E7%BE%8E%E4%B8%BD%E4%B9%A1%E6%9D%91%E7%9A%84%E2%80%9C%E5%8F%AA%E6%AD%A4%E9%9D%92%E7%BB%BF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [跳河救人小哥被奖8万 免费上大学](https://www.baidu.com/s?wd=%E8%B7%B3%E6%B2%B3%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E8%A2%AB%E5%A5%968%E4%B8%87+%E5%85%8D%E8%B4%B9%E4%B8%8A%E5%A4%A7%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [日本化学品加工厂爆炸](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%8C%96%E5%AD%A6%E5%93%81%E5%8A%A0%E5%B7%A5%E5%8E%82%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [华中师范校友给母校捐款1亿](https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%AD%E5%B8%88%E8%8C%83%E6%A0%A1%E5%8F%8B%E7%BB%99%E6%AF%8D%E6%A0%A1%E6%8D%90%E6%AC%BE1%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [网传男老师发辱女言论 同情性犯罪者](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E7%94%B7%E8%80%81%E5%B8%88%E5%8F%91%E8%BE%B1%E5%A5%B3%E8%A8%80%E8%AE%BA+%E5%90%8C%E6%83%85%E6%80%A7%E7%8A%AF%E7%BD%AA%E8%80%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [网传男老师发辱女言论 同情性犯罪者](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E7%94%B7%E8%80%81%E5%B8%88%E5%8F%91%E8%BE%B1%E5%A5%B3%E8%A8%80%E8%AE%BA+%E5%90%8C%E6%83%85%E6%80%A7%E7%8A%AF%E7%BD%AA%E8%80%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [日本化学品加工厂爆炸](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%8C%96%E5%AD%A6%E5%93%81%E5%8A%A0%E5%B7%A5%E5%8E%82%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [柯以敏 我比那英唱得更好](https://www.baidu.com/s?wd=%E6%9F%AF%E4%BB%A5%E6%95%8F+%E6%88%91%E6%AF%94%E9%82%A3%E8%8B%B1%E5%94%B1%E5%BE%97%E6%9B%B4%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [夫妻合作换灯泡妻子全程驮着丈夫](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%90%88%E4%BD%9C%E6%8D%A2%E7%81%AF%E6%B3%A1%E5%A6%BB%E5%AD%90%E5%85%A8%E7%A8%8B%E9%A9%AE%E7%9D%80%E4%B8%88%E5%A4%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
