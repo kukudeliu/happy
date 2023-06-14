@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 10:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 10:19:01</h4></div>
 
 > 微博  
 
 1. [张恒远去世](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%81%92%E8%BF%9C%E5%8E%BB%E4%B8%96%23&t=31&band_rank=1&Refer=top)<br />
 2. [人民日报评地铁偷拍乌龙](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E5%9C%B0%E9%93%81%E5%81%B7%E6%8B%8D%E4%B9%8C%E9%BE%99%23&t=31&band_rank=2&Refer=top)<br />
 3. [蓝天碧水间官兵巡逻画面美如画](https://s.weibo.com/weibo?q=%23%E8%93%9D%E5%A4%A9%E7%A2%A7%E6%B0%B4%E9%97%B4%E5%AE%98%E5%85%B5%E5%B7%A1%E9%80%BB%E7%94%BB%E9%9D%A2%E7%BE%8E%E5%A6%82%E7%94%BB%23&t=31&band_rank=3&Refer=top)<br />
-4. [黑色素瘤](https://s.weibo.com/weibo?q=%E9%BB%91%E8%89%B2%E7%B4%A0%E7%98%A4&t=31&band_rank=4&Refer=top)<br />
-5. [老伴去世老人挨个敲车窗求带看老房](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BC%B4%E5%8E%BB%E4%B8%96%E8%80%81%E4%BA%BA%E6%8C%A8%E4%B8%AA%E6%95%B2%E8%BD%A6%E7%AA%97%E6%B1%82%E5%B8%A6%E7%9C%8B%E8%80%81%E6%88%BF%23&t=31&band_rank=5&Refer=top)<br />
+4. [老伴去世老人挨个敲车窗求带看老房](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BC%B4%E5%8E%BB%E4%B8%96%E8%80%81%E4%BA%BA%E6%8C%A8%E4%B8%AA%E6%95%B2%E8%BD%A6%E7%AA%97%E6%B1%82%E5%B8%A6%E7%9C%8B%E8%80%81%E6%88%BF%23&t=31&band_rank=4&Refer=top)<br />
+5. [黑色素瘤](https://s.weibo.com/weibo?q=%E9%BB%91%E8%89%B2%E7%B4%A0%E7%98%A4&t=31&band_rank=5&Refer=top)<br />
 6. [教资面试成绩](https://s.weibo.com/weibo?q=%E6%95%99%E8%B5%84%E9%9D%A2%E8%AF%95%E6%88%90%E7%BB%A9&t=31&band_rank=6&Refer=top)<br />
 7. [17岁女孩一晚连刷6套卷子后患脑病](https://s.weibo.com/weibo?q=%2317%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%B8%80%E6%99%9A%E8%BF%9E%E5%88%B76%E5%A5%97%E5%8D%B7%E5%AD%90%E5%90%8E%E6%82%A3%E8%84%91%E7%97%85%23&t=31&band_rank=7&Refer=top)<br />
 8. [柯以敏 我比那英唱得更好](https://s.weibo.com/weibo?q=%E6%9F%AF%E4%BB%A5%E6%95%8F%20%E6%88%91%E6%AF%94%E9%82%A3%E8%8B%B1%E5%94%B1%E5%BE%97%E6%9B%B4%E5%A5%BD&t=31&band_rank=8&Refer=top)<br />
