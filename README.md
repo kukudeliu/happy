@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 16:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 16:19:01</h4></div>
 
 > 微博  
 
@@ -17,10 +17,10 @@
 1. [哥伦比亚 4 名儿童坠机后丛林生存 40 天后获救，最大 13 岁，最小 1 岁，他们是如何做到的？](https://www.zhihu.com/question/605847291)<br />
 2. [中办国办发文，其中明确发达地区不得从中西部地区、东北地区抢挖优秀校长和教师，将产生哪些积极影响？](https://www.zhihu.com/question/606427991)<br />
 3. [媒体报道，《中国好声音第二季》亚军张恒远去世，原因是得了黑色素瘤，什么是黑色素瘤？如何辨别？](https://www.zhihu.com/question/606511957)<br />
-4. [天津居民楼爆炸致 3 死，嫌犯系利用烟花爆竹作案，如何从法律角度解读？](https://www.zhihu.com/question/606506953)<br />
-5. [一些 985 毕业生开始主动选择「延毕」，有人故意挂科获取资格，这一现象会更普遍吗？如何看待这一选择？](https://www.zhihu.com/question/606541261)<br />
-6. [医学生的期末考真的像高考吗？](https://www.zhihu.com/question/606302702)<br />
-7. [中国 5 月社会融资规模增量为 1.56 万亿元，比上月多 3312 亿元，这一数据说明了什么？](https://www.zhihu.com/question/606375297)<br />
+4. [一些 985 毕业生开始主动选择「延毕」，有人故意挂科获取资格，这一现象会更普遍吗？如何看待这一选择？](https://www.zhihu.com/question/606541261)<br />
+5. [天津居民楼爆炸致 3 死，嫌犯系利用烟花爆竹作案，如何从法律角度解读？](https://www.zhihu.com/question/606506953)<br />
+6. [中国 5 月社会融资规模增量为 1.56 万亿元，比上月多 3312 亿元，这一数据说明了什么？](https://www.zhihu.com/question/606375297)<br />
+7. [医学生的期末考真的像高考吗？](https://www.zhihu.com/question/606302702)<br />
 8. [央行下调常备借贷便利利率 10 个基点，将产生哪些影响？](https://www.zhihu.com/question/606450228)<br />
 9. [人到中年，是努力赚钱重要还是陪伴父母重要？](https://www.zhihu.com/question/598077018)<br />
 
@@ -33,8 +33,8 @@
 5. [官方通报城管与摊贩冲突：6人停职](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%9F%8E%E7%AE%A1%E4%B8%8E%E6%91%8A%E8%B4%A9%E5%86%B2%E7%AA%81%EF%BC%9A6%E4%BA%BA%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子跨省杀妻后跟儿子说我杀了你妈](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B7%A8%E7%9C%81%E6%9D%80%E5%A6%BB%E5%90%8E%E8%B7%9F%E5%84%BF%E5%AD%90%E8%AF%B4%E6%88%91%E6%9D%80%E4%BA%86%E4%BD%A0%E5%A6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [广末凉子承认出轨](https://www.baidu.com/s?wd=%E5%B9%BF%E6%9C%AB%E5%87%89%E5%AD%90%E6%89%BF%E8%AE%A4%E5%87%BA%E8%BD%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [医生偷拍传播女性赤身就诊视频获刑](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E5%81%B7%E6%8B%8D%E4%BC%A0%E6%92%AD%E5%A5%B3%E6%80%A7%E8%B5%A4%E8%BA%AB%E5%B0%B1%E8%AF%8A%E8%A7%86%E9%A2%91%E8%8E%B7%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [上市公司创始人被指打断妻子7根肋骨](https://www.baidu.com/s?wd=%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E5%88%9B%E5%A7%8B%E4%BA%BA%E8%A2%AB%E6%8C%87%E6%89%93%E6%96%AD%E5%A6%BB%E5%AD%907%E6%A0%B9%E8%82%8B%E9%AA%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [上市公司创始人被指打断妻子7根肋骨](https://www.baidu.com/s?wd=%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E5%88%9B%E5%A7%8B%E4%BA%BA%E8%A2%AB%E6%8C%87%E6%89%93%E6%96%AD%E5%A6%BB%E5%AD%907%E6%A0%B9%E8%82%8B%E9%AA%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [普京：乌方反攻都未成功 损失惨重](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E4%B9%8C%E6%96%B9%E5%8F%8D%E6%94%BB%E9%83%BD%E6%9C%AA%E6%88%90%E5%8A%9F+%E6%8D%9F%E5%A4%B1%E6%83%A8%E9%87%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [官方通报城管与摊贩冲突：6人停职](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%9F%8E%E7%AE%A1%E4%B8%8E%E6%91%8A%E8%B4%A9%E5%86%B2%E7%AA%81%EF%BC%9A6%E4%BA%BA%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子跨省杀妻后跟儿子说我杀了你妈](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B7%A8%E7%9C%81%E6%9D%80%E5%A6%BB%E5%90%8E%E8%B7%9F%E5%84%BF%E5%AD%90%E8%AF%B4%E6%88%91%E6%9D%80%E4%BA%86%E4%BD%A0%E5%A6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [广末凉子承认出轨](https://www.baidu.com/s?wd=%E5%B9%BF%E6%9C%AB%E5%87%89%E5%AD%90%E6%89%BF%E8%AE%A4%E5%87%BA%E8%BD%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [医生偷拍传播女性赤身就诊视频获刑](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E5%81%B7%E6%8B%8D%E4%BC%A0%E6%92%AD%E5%A5%B3%E6%80%A7%E8%B5%A4%E8%BA%AB%E5%B0%B1%E8%AF%8A%E8%A7%86%E9%A2%91%E8%8E%B7%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [上市公司创始人被指打断妻子7根肋骨](https://www.baidu.com/s?wd=%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E5%88%9B%E5%A7%8B%E4%BA%BA%E8%A2%AB%E6%8C%87%E6%89%93%E6%96%AD%E5%A6%BB%E5%AD%907%E6%A0%B9%E8%82%8B%E9%AA%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [上市公司创始人被指打断妻子7根肋骨](https://www.baidu.com/s?wd=%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E5%88%9B%E5%A7%8B%E4%BA%BA%E8%A2%AB%E6%8C%87%E6%89%93%E6%96%AD%E5%A6%BB%E5%AD%907%E6%A0%B9%E8%82%8B%E9%AA%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [普京：乌方反攻都未成功 损失惨重](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E4%B9%8C%E6%96%B9%E5%8F%8D%E6%94%BB%E9%83%BD%E6%9C%AA%E6%88%90%E5%8A%9F+%E6%8D%9F%E5%A4%B1%E6%83%A8%E9%87%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
