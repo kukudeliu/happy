@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 12:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 12:42:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [老伴去世老人挨个敲车窗求带看老房](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BC%B4%E5%8E%BB%E4%B8%96%E8%80%81%E4%BA%BA%E6%8C%A8%E4%B8%AA%E6%95%B2%E8%BD%A6%E7%AA%97%E6%B1%82%E5%B8%A6%E7%9C%8B%E8%80%81%E6%88%BF%23&t=31&band_rank=6&Refer=top)<br />
 7. [毕夏发讣告透露张恒远生前心愿](https://s.weibo.com/weibo?q=%23%E6%AF%95%E5%A4%8F%E5%8F%91%E8%AE%A3%E5%91%8A%E9%80%8F%E9%9C%B2%E5%BC%A0%E6%81%92%E8%BF%9C%E7%94%9F%E5%89%8D%E5%BF%83%E6%84%BF%23&t=31&band_rank=7&Refer=top)<br />
 8. [北动公布丫丫最新画面](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%8A%A8%E5%85%AC%E5%B8%83%E4%B8%AB%E4%B8%AB%E6%9C%80%E6%96%B0%E7%94%BB%E9%9D%A2%23&t=31&band_rank=8&Refer=top)<br />
-9. [13岁女孩遭性侵怀孕引产后报警](https://s.weibo.com/weibo?q=%2313%E5%B2%81%E5%A5%B3%E5%AD%A9%E9%81%AD%E6%80%A7%E4%BE%B5%E6%80%80%E5%AD%95%E5%BC%95%E4%BA%A7%E5%90%8E%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=9&Refer=top)<br />
+9. [赵露思 两次宝格丽造型](https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%20%E4%B8%A4%E6%AC%A1%E5%AE%9D%E6%A0%BC%E4%B8%BD%E9%80%A0%E5%9E%8B&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -20,8 +20,8 @@
 4. [中办国办发文，其中明确发达地区不得从中西部地区、东北地区抢挖优秀校长和教师，将产生哪些积极影响？](https://www.zhihu.com/question/606427991)<br />
 5. [为什么有些网友 IP 属地显示为「中国」，而不是省市名？](https://www.zhihu.com/question/556052988)<br />
 6. [印度向中国手机制造商提新条件，要求印籍人士担任 CEO 等职位，分析称等于变相收购中企，如何看待此事？](https://www.zhihu.com/question/606514618)<br />
-7. [美国将 31 家中国实体列入管制清单，外交部回应「歇斯底里、不择手段」，如何评价美方这一行为？](https://www.zhihu.com/question/606370209)<br />
-8. [媒体报道，《中国好声音第二季》亚军张恒远去世，原因是得了黑色素瘤，什么是黑色素瘤？如何辨别？](https://www.zhihu.com/question/606511957)<br />
+7. [媒体报道，《中国好声音第二季》亚军张恒远去世，原因是得了黑色素瘤，什么是黑色素瘤？如何辨别？](https://www.zhihu.com/question/606511957)<br />
+8. [美国将 31 家中国实体列入管制清单，外交部回应「歇斯底里、不择手段」，如何评价美方这一行为？](https://www.zhihu.com/question/606370209)<br />
 9. [和男朋友同居，是我太计较了吗?](https://www.zhihu.com/question/606007032)<br />
 
 > 百度  
