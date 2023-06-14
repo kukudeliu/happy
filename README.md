@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 16:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 17:00:01</h4></div>
 
 > 微博  
 
@@ -18,8 +18,8 @@
 2. [中办国办发文，其中明确发达地区不得从中西部地区、东北地区抢挖优秀校长和教师，将产生哪些积极影响？](https://www.zhihu.com/question/606427991)<br />
 3. [一些 985 毕业生开始主动选择「延毕」，有人故意挂科获取资格，这一现象会更普遍吗？如何看待这一选择？](https://www.zhihu.com/question/606541261)<br />
 4. [如何让不玩游戏的人能够快速理解游戏 DLC 是什么东西？](https://www.zhihu.com/question/606170703)<br />
-5. [中国 5 月社会融资规模增量为 1.56 万亿元，比上月多 3312 亿元，这一数据说明了什么？](https://www.zhihu.com/question/606375297)<br />
-6. [网传「教师体罚学生后群内道歉获其他家长安慰」，官方通报「责令学校解聘」，如何看待此事？](https://www.zhihu.com/question/606363235)<br />
+5. [网传「教师体罚学生后群内道歉获其他家长安慰」，官方通报「责令学校解聘」，如何看待此事？](https://www.zhihu.com/question/606363235)<br />
+6. [中国 5 月社会融资规模增量为 1.56 万亿元，比上月多 3312 亿元，这一数据说明了什么？](https://www.zhihu.com/question/606375297)<br />
 7. [姆巴佩采访时称「梅西没有得到应有的尊重」，如何看待此事？梅西本次中国行有哪些信息值得关注？](https://www.zhihu.com/question/606541357)<br />
 8. [央行下调常备借贷便利利率 10 个基点，将产生哪些影响？](https://www.zhihu.com/question/606450228)<br />
 9. [人到中年，是努力赚钱重要还是陪伴父母重要？](https://www.zhihu.com/question/598077018)<br />
@@ -32,9 +32,9 @@
 4. [中国空间站美景请查收](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E7%BE%8E%E6%99%AF%E8%AF%B7%E6%9F%A5%E6%94%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [官方通报城管与摊贩冲突：6人停职](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%9F%8E%E7%AE%A1%E4%B8%8E%E6%91%8A%E8%B4%A9%E5%86%B2%E7%AA%81%EF%BC%9A6%E4%BA%BA%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子跨省杀妻后跟儿子说我杀了你妈](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B7%A8%E7%9C%81%E6%9D%80%E5%A6%BB%E5%90%8E%E8%B7%9F%E5%84%BF%E5%AD%90%E8%AF%B4%E6%88%91%E6%9D%80%E4%BA%86%E4%BD%A0%E5%A6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [初中学生砍死同学 曾写纸条预告杀人](https://www.baidu.com/s?wd=%E5%88%9D%E4%B8%AD%E5%AD%A6%E7%94%9F%E7%A0%8D%E6%AD%BB%E5%90%8C%E5%AD%A6+%E6%9B%BE%E5%86%99%E7%BA%B8%E6%9D%A1%E9%A2%84%E5%91%8A%E6%9D%80%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [医生偷拍传播女性赤身就诊视频获刑](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E5%81%B7%E6%8B%8D%E4%BC%A0%E6%92%AD%E5%A5%B3%E6%80%A7%E8%B5%A4%E8%BA%AB%E5%B0%B1%E8%AF%8A%E8%A7%86%E9%A2%91%E8%8E%B7%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [秦刚同美国务卿布林肯通电话](https://www.baidu.com/s?wd=%E7%A7%A6%E5%88%9A%E5%90%8C%E7%BE%8E%E5%9B%BD%E5%8A%A1%E5%8D%BF%E5%B8%83%E6%9E%97%E8%82%AF%E9%80%9A%E7%94%B5%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [医生偷拍传播女性赤身就诊视频获刑](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E5%81%B7%E6%8B%8D%E4%BC%A0%E6%92%AD%E5%A5%B3%E6%80%A7%E8%B5%A4%E8%BA%AB%E5%B0%B1%E8%AF%8A%E8%A7%86%E9%A2%91%E8%8E%B7%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [初中学生砍死同学 曾写纸条预告杀人](https://www.baidu.com/s?wd=%E5%88%9D%E4%B8%AD%E5%AD%A6%E7%94%9F%E7%A0%8D%E6%AD%BB%E5%90%8C%E5%AD%A6+%E6%9B%BE%E5%86%99%E7%BA%B8%E6%9D%A1%E9%A2%84%E5%91%8A%E6%9D%80%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [局长妻子疑吃空饷 官方成立调查组](https://www.baidu.com/s?wd=%E5%B1%80%E9%95%BF%E5%A6%BB%E5%AD%90%E7%96%91%E5%90%83%E7%A9%BA%E9%A5%B7+%E5%AE%98%E6%96%B9%E6%88%90%E7%AB%8B%E8%B0%83%E6%9F%A5%E7%BB%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [中国空间站美景请查收](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E7%BE%8E%E6%99%AF%E8%AF%B7%E6%9F%A5%E6%94%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [官方通报城管与摊贩冲突：6人停职](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%9F%8E%E7%AE%A1%E4%B8%8E%E6%91%8A%E8%B4%A9%E5%86%B2%E7%AA%81%EF%BC%9A6%E4%BA%BA%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子跨省杀妻后跟儿子说我杀了你妈](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B7%A8%E7%9C%81%E6%9D%80%E5%A6%BB%E5%90%8E%E8%B7%9F%E5%84%BF%E5%AD%90%E8%AF%B4%E6%88%91%E6%9D%80%E4%BA%86%E4%BD%A0%E5%A6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [初中学生砍死同学 曾写纸条预告杀人](https://www.baidu.com/s?wd=%E5%88%9D%E4%B8%AD%E5%AD%A6%E7%94%9F%E7%A0%8D%E6%AD%BB%E5%90%8C%E5%AD%A6+%E6%9B%BE%E5%86%99%E7%BA%B8%E6%9D%A1%E9%A2%84%E5%91%8A%E6%9D%80%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [医生偷拍传播女性赤身就诊视频获刑](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E5%81%B7%E6%8B%8D%E4%BC%A0%E6%92%AD%E5%A5%B3%E6%80%A7%E8%B5%A4%E8%BA%AB%E5%B0%B1%E8%AF%8A%E8%A7%86%E9%A2%91%E8%8E%B7%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [秦刚同美国务卿布林肯通电话](https://www.baidu.com/s?wd=%E7%A7%A6%E5%88%9A%E5%90%8C%E7%BE%8E%E5%9B%BD%E5%8A%A1%E5%8D%BF%E5%B8%83%E6%9E%97%E8%82%AF%E9%80%9A%E7%94%B5%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [医生偷拍传播女性赤身就诊视频获刑](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E5%81%B7%E6%8B%8D%E4%BC%A0%E6%92%AD%E5%A5%B3%E6%80%A7%E8%B5%A4%E8%BA%AB%E5%B0%B1%E8%AF%8A%E8%A7%86%E9%A2%91%E8%8E%B7%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [初中学生砍死同学 曾写纸条预告杀人](https://www.baidu.com/s?wd=%E5%88%9D%E4%B8%AD%E5%AD%A6%E7%94%9F%E7%A0%8D%E6%AD%BB%E5%90%8C%E5%AD%A6+%E6%9B%BE%E5%86%99%E7%BA%B8%E6%9D%A1%E9%A2%84%E5%91%8A%E6%9D%80%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [局长妻子疑吃空饷 官方成立调查组](https://www.baidu.com/s?wd=%E5%B1%80%E9%95%BF%E5%A6%BB%E5%AD%90%E7%96%91%E5%90%83%E7%A9%BA%E9%A5%B7+%E5%AE%98%E6%96%B9%E6%88%90%E7%AB%8B%E8%B0%83%E6%9F%A5%E7%BB%84&sa=fyb_news&rsv_dl=fyb_news)<br />
