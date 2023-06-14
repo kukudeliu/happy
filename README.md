@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 01:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 01:10:01</h4></div>
 
 > 微博  
 
@@ -32,9 +32,9 @@
 4. [美丽乡村的“只此青绿”](https://www.baidu.com/s?wd=%E7%BE%8E%E4%B8%BD%E4%B9%A1%E6%9D%91%E7%9A%84%E2%80%9C%E5%8F%AA%E6%AD%A4%E9%9D%92%E7%BB%BF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [跳河救人小哥被奖8万 免费上大学](https://www.baidu.com/s?wd=%E8%B7%B3%E6%B2%B3%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E8%A2%AB%E5%A5%968%E4%B8%87+%E5%85%8D%E8%B4%B9%E4%B8%8A%E5%A4%A7%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子进大学女浴室偷拍？保卫处回应](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%BF%9B%E5%A4%A7%E5%AD%A6%E5%A5%B3%E6%B5%B4%E5%AE%A4%E5%81%B7%E6%8B%8D%EF%BC%9F%E4%BF%9D%E5%8D%AB%E5%A4%84%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [网传男老师发辱女言论 同情性犯罪者](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E7%94%B7%E8%80%81%E5%B8%88%E5%8F%91%E8%BE%B1%E5%A5%B3%E8%A8%80%E8%AE%BA+%E5%90%8C%E6%83%85%E6%80%A7%E7%8A%AF%E7%BD%AA%E8%80%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [美跨性别网红在白宫赤裸上身](https://www.baidu.com/s?wd=%E7%BE%8E%E8%B7%A8%E6%80%A7%E5%88%AB%E7%BD%91%E7%BA%A2%E5%9C%A8%E7%99%BD%E5%AE%AB%E8%B5%A4%E8%A3%B8%E4%B8%8A%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [日本化学品加工厂爆炸](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%8C%96%E5%AD%A6%E5%93%81%E5%8A%A0%E5%B7%A5%E5%8E%82%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [美跨性别网红在白宫赤裸上身](https://www.baidu.com/s?wd=%E7%BE%8E%E8%B7%A8%E6%80%A7%E5%88%AB%E7%BD%91%E7%BA%A2%E5%9C%A8%E7%99%BD%E5%AE%AB%E8%B5%A4%E8%A3%B8%E4%B8%8A%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [网传男老师发辱女言论 同情性犯罪者](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E7%94%B7%E8%80%81%E5%B8%88%E5%8F%91%E8%BE%B1%E5%A5%B3%E8%A8%80%E8%AE%BA+%E5%90%8C%E6%83%85%E6%80%A7%E7%8A%AF%E7%BD%AA%E8%80%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [美丽乡村的“只此青绿”](https://www.baidu.com/s?wd=%E7%BE%8E%E4%B8%BD%E4%B9%A1%E6%9D%91%E7%9A%84%E2%80%9C%E5%8F%AA%E6%AD%A4%E9%9D%92%E7%BB%BF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [跳河救人小哥被奖8万 免费上大学](https://www.baidu.com/s?wd=%E8%B7%B3%E6%B2%B3%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E8%A2%AB%E5%A5%968%E4%B8%87+%E5%85%8D%E8%B4%B9%E4%B8%8A%E5%A4%A7%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子进大学女浴室偷拍？保卫处回应](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%BF%9B%E5%A4%A7%E5%AD%A6%E5%A5%B3%E6%B5%B4%E5%AE%A4%E5%81%B7%E6%8B%8D%EF%BC%9F%E4%BF%9D%E5%8D%AB%E5%A4%84%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [网传男老师发辱女言论 同情性犯罪者](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E7%94%B7%E8%80%81%E5%B8%88%E5%8F%91%E8%BE%B1%E5%A5%B3%E8%A8%80%E8%AE%BA+%E5%90%8C%E6%83%85%E6%80%A7%E7%8A%AF%E7%BD%AA%E8%80%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [美跨性别网红在白宫赤裸上身](https://www.baidu.com/s?wd=%E7%BE%8E%E8%B7%A8%E6%80%A7%E5%88%AB%E7%BD%91%E7%BA%A2%E5%9C%A8%E7%99%BD%E5%AE%AB%E8%B5%A4%E8%A3%B8%E4%B8%8A%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [日本化学品加工厂爆炸](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%8C%96%E5%AD%A6%E5%93%81%E5%8A%A0%E5%B7%A5%E5%8E%82%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [美跨性别网红在白宫赤裸上身](https://www.baidu.com/s?wd=%E7%BE%8E%E8%B7%A8%E6%80%A7%E5%88%AB%E7%BD%91%E7%BA%A2%E5%9C%A8%E7%99%BD%E5%AE%AB%E8%B5%A4%E8%A3%B8%E4%B8%8A%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [网传男老师发辱女言论 同情性犯罪者](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E7%94%B7%E8%80%81%E5%B8%88%E5%8F%91%E8%BE%B1%E5%A5%B3%E8%A8%80%E8%AE%BA+%E5%90%8C%E6%83%85%E6%80%A7%E7%8A%AF%E7%BD%AA%E8%80%85&sa=fyb_news&rsv_dl=fyb_news)<br />
