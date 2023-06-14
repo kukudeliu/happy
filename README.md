@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 21:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 21:10:01</h4></div>
 
 > 微博  
 
@@ -15,8 +15,8 @@
 > 知乎  
 
 1. [印度向中国手机制造商提新条件，要求印籍人士担任 CEO 等职位，分析称等于变相收购中企，如何看待此事？](https://www.zhihu.com/question/606514618)<br />
-2. [老农卖不合格芹菜获利 14 元被罚 10 万，法院裁定不准予强制执行，如何从法律角度解读此事？](https://www.zhihu.com/question/606519434)<br />
-3. [2023 LPL 夏季赛 Uzi 复出首战告捷，EDG 2:1 击败 iG，如何评价这场比赛？](https://www.zhihu.com/question/606583572)<br />
+2. [2023 LPL 夏季赛 Uzi 复出首战告捷，EDG 2:1 击败 iG，如何评价这场比赛？](https://www.zhihu.com/question/606583572)<br />
+3. [老农卖不合格芹菜获利 14 元被罚 10 万，法院裁定不准予强制执行，如何从法律角度解读此事？](https://www.zhihu.com/question/606519434)<br />
 4. [产业升级后，保留低端产业能不能解决就业问题？](https://www.zhihu.com/question/606479429)<br />
 5. [央行年内首次降息 ，房贷利率会跟着降吗？](https://www.zhihu.com/theater/98961)<br />
 6. [如何评价 DC 新片《闪电侠》？](https://www.zhihu.com/question/598042943)<br />
