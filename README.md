@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 16:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 16:10:01</h4></div>
 
 > 微博  
 
@@ -10,14 +10,14 @@
 6. [张恒远去世](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%81%92%E8%BF%9C%E5%8E%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [北动公布丫丫最新画面](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%8A%A8%E5%85%AC%E5%B8%83%E4%B8%AB%E4%B8%AB%E6%9C%80%E6%96%B0%E7%94%BB%E9%9D%A2%23&t=31&band_rank=7&Refer=top)<br />
 8. [汪峰 毕夏你要坚强](https://s.weibo.com/weibo?q=%E6%B1%AA%E5%B3%B0%20%E6%AF%95%E5%A4%8F%E4%BD%A0%E8%A6%81%E5%9D%9A%E5%BC%BA&t=31&band_rank=8&Refer=top)<br />
-9. [阚清子 叶琳回来啦](https://s.weibo.com/weibo?q=%E9%98%9A%E6%B8%85%E5%AD%90%20%E5%8F%B6%E7%90%B3%E5%9B%9E%E6%9D%A5%E5%95%A6&t=31&band_rank=9&Refer=top)<br />
+9. [比Uzi还紧张](https://s.weibo.com/weibo?q=%E6%AF%94Uzi%E8%BF%98%E7%B4%A7%E5%BC%A0&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [哥伦比亚 4 名儿童坠机后丛林生存 40 天后获救，最大 13 岁，最小 1 岁，他们是如何做到的？](https://www.zhihu.com/question/605847291)<br />
 2. [中办国办发文，其中明确发达地区不得从中西部地区、东北地区抢挖优秀校长和教师，将产生哪些积极影响？](https://www.zhihu.com/question/606427991)<br />
-3. [天津居民楼爆炸致 3 死，嫌犯系利用烟花爆竹作案，如何从法律角度解读？](https://www.zhihu.com/question/606506953)<br />
-4. [媒体报道，《中国好声音第二季》亚军张恒远去世，原因是得了黑色素瘤，什么是黑色素瘤？如何辨别？](https://www.zhihu.com/question/606511957)<br />
+3. [媒体报道，《中国好声音第二季》亚军张恒远去世，原因是得了黑色素瘤，什么是黑色素瘤？如何辨别？](https://www.zhihu.com/question/606511957)<br />
+4. [天津居民楼爆炸致 3 死，嫌犯系利用烟花爆竹作案，如何从法律角度解读？](https://www.zhihu.com/question/606506953)<br />
 5. [一些 985 毕业生开始主动选择「延毕」，有人故意挂科获取资格，这一现象会更普遍吗？如何看待这一选择？](https://www.zhihu.com/question/606541261)<br />
 6. [央行报告显示，5 月份人民币存款增加 1.46 万亿元，同比少增 1.58 万亿元，哪些信息值得关注？](https://www.zhihu.com/question/606376740)<br />
 7. [6 月 16 日国足对阵缅甸，将为郑智举行退役仪式，如何评价他在国家队的表现？](https://www.zhihu.com/question/606133754)<br />
