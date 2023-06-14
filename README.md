@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 09:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 09:43:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [如何分辨黑色素瘤和普通痣？](https://www.baidu.com/s?wd=%E5%A6%82%E4%BD%95%E5%88%86%E8%BE%A8%E9%BB%91%E8%89%B2%E7%B4%A0%E7%98%A4%E5%92%8C%E6%99%AE%E9%80%9A%E7%97%A3%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [东莞暴雨 外卖小哥摔倒人车被水冲走](https://www.baidu.com/s?wd=%E4%B8%9C%E8%8E%9E%E6%9A%B4%E9%9B%A8+%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E6%91%94%E5%80%92%E4%BA%BA%E8%BD%A6%E8%A2%AB%E6%B0%B4%E5%86%B2%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [卖货主播逃离618](https://www.baidu.com/s?wd=%E5%8D%96%E8%B4%A7%E4%B8%BB%E6%92%AD%E9%80%83%E7%A6%BB618&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [卫健委：猴痘病毒人群普遍易感](https://www.baidu.com/s?wd=%E5%8D%AB%E5%81%A5%E5%A7%94%EF%BC%9A%E7%8C%B4%E7%97%98%E7%97%85%E6%AF%92%E4%BA%BA%E7%BE%A4%E6%99%AE%E9%81%8D%E6%98%93%E6%84%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [发达地区不得从中西部抢挖优秀教师](https://www.baidu.com/s?wd=%E5%8F%91%E8%BE%BE%E5%9C%B0%E5%8C%BA%E4%B8%8D%E5%BE%97%E4%BB%8E%E4%B8%AD%E8%A5%BF%E9%83%A8%E6%8A%A2%E6%8C%96%E4%BC%98%E7%A7%80%E6%95%99%E5%B8%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [如何分辨黑色素瘤和普通痣？](https://www.baidu.com/s?wd=%E5%A6%82%E4%BD%95%E5%88%86%E8%BE%A8%E9%BB%91%E8%89%B2%E7%B4%A0%E7%98%A4%E5%92%8C%E6%99%AE%E9%80%9A%E7%97%A3%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [东莞暴雨 外卖小哥摔倒人车被水冲走](https://www.baidu.com/s?wd=%E4%B8%9C%E8%8E%9E%E6%9A%B4%E9%9B%A8+%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E6%91%94%E5%80%92%E4%BA%BA%E8%BD%A6%E8%A2%AB%E6%B0%B4%E5%86%B2%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [卖货主播逃离618](https://www.baidu.com/s?wd=%E5%8D%96%E8%B4%A7%E4%B8%BB%E6%92%AD%E9%80%83%E7%A6%BB618&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [卫健委：猴痘病毒人群普遍易感](https://www.baidu.com/s?wd=%E5%8D%AB%E5%81%A5%E5%A7%94%EF%BC%9A%E7%8C%B4%E7%97%98%E7%97%85%E6%AF%92%E4%BA%BA%E7%BE%A4%E6%99%AE%E9%81%8D%E6%98%93%E6%84%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [发达地区不得从中西部抢挖优秀教师](https://www.baidu.com/s?wd=%E5%8F%91%E8%BE%BE%E5%9C%B0%E5%8C%BA%E4%B8%8D%E5%BE%97%E4%BB%8E%E4%B8%AD%E8%A5%BF%E9%83%A8%E6%8A%A2%E6%8C%96%E4%BC%98%E7%A7%80%E6%95%99%E5%B8%88&sa=fyb_news&rsv_dl=fyb_news)<br />
