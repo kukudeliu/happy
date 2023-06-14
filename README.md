@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 09:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 09:15:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [蓝天碧水间官兵巡逻画面美如画](https://s.weibo.com/weibo?q=%23%E8%93%9D%E5%A4%A9%E7%A2%A7%E6%B0%B4%E9%97%B4%E5%AE%98%E5%85%B5%E5%B7%A1%E9%80%BB%E7%94%BB%E9%9D%A2%E7%BE%8E%E5%A6%82%E7%94%BB%23&t=31&band_rank=3&Refer=top)<br />
 4. [17岁女孩一晚连刷6套卷子后患脑病](https://s.weibo.com/weibo?q=%2317%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%B8%80%E6%99%9A%E8%BF%9E%E5%88%B76%E5%A5%97%E5%8D%B7%E5%AD%90%E5%90%8E%E6%82%A3%E8%84%91%E7%97%85%23&t=31&band_rank=4&Refer=top)<br />
 5. [人民日报评地铁偷拍乌龙](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E5%9C%B0%E9%93%81%E5%81%B7%E6%8B%8D%E4%B9%8C%E9%BE%99%23&t=31&band_rank=5&Refer=top)<br />
-6. [天津两处居民楼爆炸致3人死亡](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E4%B8%A4%E5%A4%84%E5%B1%85%E6%B0%91%E6%A5%BC%E7%88%86%E7%82%B8%E8%87%B43%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=6&Refer=top)<br />
-7. [柯以敏 我比那英唱得更好](https://s.weibo.com/weibo?q=%E6%9F%AF%E4%BB%A5%E6%95%8F%20%E6%88%91%E6%AF%94%E9%82%A3%E8%8B%B1%E5%94%B1%E5%BE%97%E6%9B%B4%E5%A5%BD&t=31&band_rank=7&Refer=top)<br />
-8. [这居然是刘恋](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B1%85%E7%84%B6%E6%98%AF%E5%88%98%E6%81%8B%23&t=31&band_rank=8&Refer=top)<br />
-9. [Jennie回应演唱会中途离场](https://s.weibo.com/weibo?q=%23Jennie%E5%9B%9E%E5%BA%94%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%AD%E9%80%94%E7%A6%BB%E5%9C%BA%23&t=31&band_rank=9&Refer=top)<br />
+6. [教资面试成绩](https://s.weibo.com/weibo?q=%E6%95%99%E8%B5%84%E9%9D%A2%E8%AF%95%E6%88%90%E7%BB%A9&t=31&band_rank=6&Refer=top)<br />
+7. [天津两处居民楼爆炸致3人死亡](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E4%B8%A4%E5%A4%84%E5%B1%85%E6%B0%91%E6%A5%BC%E7%88%86%E7%82%B8%E8%87%B43%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=7&Refer=top)<br />
+8. [柯以敏 我比那英唱得更好](https://s.weibo.com/weibo?q=%E6%9F%AF%E4%BB%A5%E6%95%8F%20%E6%88%91%E6%AF%94%E9%82%A3%E8%8B%B1%E5%94%B1%E5%BE%97%E6%9B%B4%E5%A5%BD&t=31&band_rank=8&Refer=top)<br />
+9. [这居然是刘恋](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B1%85%E7%84%B6%E6%98%AF%E5%88%98%E6%81%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
