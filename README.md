@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 03:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 03:09:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [跳河救人小哥被奖8万 免费上大学](https://www.baidu.com/s?wd=%E8%B7%B3%E6%B2%B3%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E8%A2%AB%E5%A5%968%E4%B8%87+%E5%85%8D%E8%B4%B9%E4%B8%8A%E5%A4%A7%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [小米回应被印度没收48亿元](https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%8D%B0%E5%BA%A6%E6%B2%A1%E6%94%B648%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [奶奶带孙时邻居反馈“不像他爸”](https://www.baidu.com/s?wd=%E5%A5%B6%E5%A5%B6%E5%B8%A6%E5%AD%99%E6%97%B6%E9%82%BB%E5%B1%85%E5%8F%8D%E9%A6%88%E2%80%9C%E4%B8%8D%E5%83%8F%E4%BB%96%E7%88%B8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [东莞暴雨 外卖小哥摔倒人车被水冲走](https://www.baidu.com/s?wd=%E4%B8%9C%E8%8E%9E%E6%9A%B4%E9%9B%A8+%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E6%91%94%E5%80%92%E4%BA%BA%E8%BD%A6%E8%A2%AB%E6%B0%B4%E5%86%B2%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子中5976万彩票大奖 领奖时手哆嗦](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%AD5976%E4%B8%87%E5%BD%A9%E7%A5%A8%E5%A4%A7%E5%A5%96+%E9%A2%86%E5%A5%96%E6%97%B6%E6%89%8B%E5%93%86%E5%97%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子中5976万彩票大奖 领奖时手哆嗦](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%AD5976%E4%B8%87%E5%BD%A9%E7%A5%A8%E5%A4%A7%E5%A5%96+%E9%A2%86%E5%A5%96%E6%97%B6%E6%89%8B%E5%93%86%E5%97%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男生说猫屎臭被扣饭 天津大学回应](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E8%AF%B4%E7%8C%AB%E5%B1%8E%E8%87%AD%E8%A2%AB%E6%89%A3%E9%A5%AD+%E5%A4%A9%E6%B4%A5%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [跳河救人小哥被奖8万 免费上大学](https://www.baidu.com/s?wd=%E8%B7%B3%E6%B2%B3%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E8%A2%AB%E5%A5%968%E4%B8%87+%E5%85%8D%E8%B4%B9%E4%B8%8A%E5%A4%A7%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [小米回应被印度没收48亿元](https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%8D%B0%E5%BA%A6%E6%B2%A1%E6%94%B648%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [奶奶带孙时邻居反馈“不像他爸”](https://www.baidu.com/s?wd=%E5%A5%B6%E5%A5%B6%E5%B8%A6%E5%AD%99%E6%97%B6%E9%82%BB%E5%B1%85%E5%8F%8D%E9%A6%88%E2%80%9C%E4%B8%8D%E5%83%8F%E4%BB%96%E7%88%B8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [东莞暴雨 外卖小哥摔倒人车被水冲走](https://www.baidu.com/s?wd=%E4%B8%9C%E8%8E%9E%E6%9A%B4%E9%9B%A8+%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E6%91%94%E5%80%92%E4%BA%BA%E8%BD%A6%E8%A2%AB%E6%B0%B4%E5%86%B2%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子中5976万彩票大奖 领奖时手哆嗦](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%AD5976%E4%B8%87%E5%BD%A9%E7%A5%A8%E5%A4%A7%E5%A5%96+%E9%A2%86%E5%A5%96%E6%97%B6%E6%89%8B%E5%93%86%E5%97%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子中5976万彩票大奖 领奖时手哆嗦](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%AD5976%E4%B8%87%E5%BD%A9%E7%A5%A8%E5%A4%A7%E5%A5%96+%E9%A2%86%E5%A5%96%E6%97%B6%E6%89%8B%E5%93%86%E5%97%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男生说猫屎臭被扣饭 天津大学回应](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E8%AF%B4%E7%8C%AB%E5%B1%8E%E8%87%AD%E8%A2%AB%E6%89%A3%E9%A5%AD+%E5%A4%A9%E6%B4%A5%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
