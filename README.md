@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 11:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 11:59:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [张恒远去世](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%81%92%E8%BF%9C%E5%8E%BB%E4%B8%96%23&t=31&band_rank=5&Refer=top)<br />
 6. [北动公布丫丫最新画面](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%8A%A8%E5%85%AC%E5%B8%83%E4%B8%AB%E4%B8%AB%E6%9C%80%E6%96%B0%E7%94%BB%E9%9D%A2%23&t=31&band_rank=6&Refer=top)<br />
 7. [向佐新片打戏误伤唐诗逸](https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%E6%96%B0%E7%89%87%E6%89%93%E6%88%8F%E8%AF%AF%E4%BC%A4%E5%94%90%E8%AF%97%E9%80%B8%23&t=31&band_rank=7&Refer=top)<br />
-8. [17岁女孩一晚连刷6套卷子后患脑病](https://s.weibo.com/weibo?q=%2317%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%B8%80%E6%99%9A%E8%BF%9E%E5%88%B76%E5%A5%97%E5%8D%B7%E5%AD%90%E5%90%8E%E6%82%A3%E8%84%91%E7%97%85%23&t=31&band_rank=8&Refer=top)<br />
-9. [俄23岁男子游泳时被鲨鱼活吞](https://s.weibo.com/weibo?q=%23%E4%BF%8423%E5%B2%81%E7%94%B7%E5%AD%90%E6%B8%B8%E6%B3%B3%E6%97%B6%E8%A2%AB%E9%B2%A8%E9%B1%BC%E6%B4%BB%E5%90%9E%23&t=31&band_rank=9&Refer=top)<br />
+8. [老伴去世老人挨个敲车窗求带看老房](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BC%B4%E5%8E%BB%E4%B8%96%E8%80%81%E4%BA%BA%E6%8C%A8%E4%B8%AA%E6%95%B2%E8%BD%A6%E7%AA%97%E6%B1%82%E5%B8%A6%E7%9C%8B%E8%80%81%E6%88%BF%23&t=31&band_rank=8&Refer=top)<br />
+9. [17岁女孩一晚连刷6套卷子后患脑病](https://s.weibo.com/weibo?q=%2317%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%B8%80%E6%99%9A%E8%BF%9E%E5%88%B76%E5%A5%97%E5%8D%B7%E5%AD%90%E5%90%8E%E6%82%A3%E8%84%91%E7%97%85%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
