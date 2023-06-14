@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 06:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 06:23:02</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [奶奶带孙时邻居反馈“不像他爸”](https://www.baidu.com/s?wd=%E5%A5%B6%E5%A5%B6%E5%B8%A6%E5%AD%99%E6%97%B6%E9%82%BB%E5%B1%85%E5%8F%8D%E9%A6%88%E2%80%9C%E4%B8%8D%E5%83%8F%E4%BB%96%E7%88%B8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [夫妻合作换灯泡妻子全程驮着丈夫](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%90%88%E4%BD%9C%E6%8D%A2%E7%81%AF%E6%B3%A1%E5%A6%BB%E5%AD%90%E5%85%A8%E7%A8%8B%E9%A9%AE%E7%9D%80%E4%B8%88%E5%A4%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [美跨性别网红在白宫赤裸上身](https://www.baidu.com/s?wd=%E7%BE%8E%E8%B7%A8%E6%80%A7%E5%88%AB%E7%BD%91%E7%BA%A2%E5%9C%A8%E7%99%BD%E5%AE%AB%E8%B5%A4%E8%A3%B8%E4%B8%8A%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子偷拿老人水果满脸笑容离开](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%81%B7%E6%8B%BF%E8%80%81%E4%BA%BA%E6%B0%B4%E6%9E%9C%E6%BB%A1%E8%84%B8%E7%AC%91%E5%AE%B9%E7%A6%BB%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [高校男生被室友杀害 家属发声](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E7%94%B7%E7%94%9F%E8%A2%AB%E5%AE%A4%E5%8F%8B%E6%9D%80%E5%AE%B3+%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [奶奶带孙时邻居反馈“不像他爸”](https://www.baidu.com/s?wd=%E5%A5%B6%E5%A5%B6%E5%B8%A6%E5%AD%99%E6%97%B6%E9%82%BB%E5%B1%85%E5%8F%8D%E9%A6%88%E2%80%9C%E4%B8%8D%E5%83%8F%E4%BB%96%E7%88%B8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [夫妻合作换灯泡妻子全程驮着丈夫](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%90%88%E4%BD%9C%E6%8D%A2%E7%81%AF%E6%B3%A1%E5%A6%BB%E5%AD%90%E5%85%A8%E7%A8%8B%E9%A9%AE%E7%9D%80%E4%B8%88%E5%A4%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [美跨性别网红在白宫赤裸上身](https://www.baidu.com/s?wd=%E7%BE%8E%E8%B7%A8%E6%80%A7%E5%88%AB%E7%BD%91%E7%BA%A2%E5%9C%A8%E7%99%BD%E5%AE%AB%E8%B5%A4%E8%A3%B8%E4%B8%8A%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子偷拿老人水果满脸笑容离开](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%81%B7%E6%8B%BF%E8%80%81%E4%BA%BA%E6%B0%B4%E6%9E%9C%E6%BB%A1%E8%84%B8%E7%AC%91%E5%AE%B9%E7%A6%BB%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [高校男生被室友杀害 家属发声](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E7%94%B7%E7%94%9F%E8%A2%AB%E5%AE%A4%E5%8F%8B%E6%9D%80%E5%AE%B3+%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
