@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 15:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 15:11:01</h4></div>
 
 > 微博  
 
-1. [医生去世后手机还一直收到患者消息](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E5%8E%BB%E4%B8%96%E5%90%8E%E6%89%8B%E6%9C%BA%E8%BF%98%E4%B8%80%E7%9B%B4%E6%94%B6%E5%88%B0%E6%82%A3%E8%80%85%E6%B6%88%E6%81%AF%23&t=31&band_rank=1&Refer=top)<br />
-2. [出生率](https://s.weibo.com/weibo?q=%E5%87%BA%E7%94%9F%E7%8E%87&t=31&band_rank=2&Refer=top)<br />
+1. [出生率](https://s.weibo.com/weibo?q=%E5%87%BA%E7%94%9F%E7%8E%87&t=31&band_rank=1&Refer=top)<br />
+2. [医生去世后手机还一直收到患者消息](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E5%8E%BB%E4%B8%96%E5%90%8E%E6%89%8B%E6%9C%BA%E8%BF%98%E4%B8%80%E7%9B%B4%E6%94%B6%E5%88%B0%E6%82%A3%E8%80%85%E6%B6%88%E6%81%AF%23&t=31&band_rank=2&Refer=top)<br />
 3. [街头公益钢琴流淌的是温情和梦想](https://s.weibo.com/weibo?q=%23%E8%A1%97%E5%A4%B4%E5%85%AC%E7%9B%8A%E9%92%A2%E7%90%B4%E6%B5%81%E6%B7%8C%E7%9A%84%E6%98%AF%E6%B8%A9%E6%83%85%E5%92%8C%E6%A2%A6%E6%83%B3%23&t=31&band_rank=3&Refer=top)<br />
 4. [向佐向唐诗逸道歉](https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%E5%90%91%E5%94%90%E8%AF%97%E9%80%B8%E9%81%93%E6%AD%89%23&t=31&band_rank=4&Refer=top)<br />
 5. [毕夏发讣告透露张恒远生前心愿](https://s.weibo.com/weibo?q=%23%E6%AF%95%E5%A4%8F%E5%8F%91%E8%AE%A3%E5%91%8A%E9%80%8F%E9%9C%B2%E5%BC%A0%E6%81%92%E8%BF%9C%E7%94%9F%E5%89%8D%E5%BF%83%E6%84%BF%23&t=31&band_rank=5&Refer=top)<br />
