@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 16:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 16:42:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [大学上了一半专业没了](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E4%B8%8A%E4%BA%86%E4%B8%80%E5%8D%8A%E4%B8%93%E4%B8%9A%E6%B2%A1%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [比Uzi还紧张](https://s.weibo.com/weibo?q=%E6%AF%94Uzi%E8%BF%98%E7%B4%A7%E5%BC%A0&t=31&band_rank=7&Refer=top)<br />
 8. [张恒远去世](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%81%92%E8%BF%9C%E5%8E%BB%E4%B8%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [小米回应被印度没收48亿元](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%8D%B0%E5%BA%A6%E6%B2%A1%E6%94%B648%E4%BA%BF%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
+9. [汪峰 毕夏你要坚强](https://s.weibo.com/weibo?q=%E6%B1%AA%E5%B3%B0%20%E6%AF%95%E5%A4%8F%E4%BD%A0%E8%A6%81%E5%9D%9A%E5%BC%BA&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
