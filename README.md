@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 20:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 20:43:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [在古代，人出个县城都难，那些牛人是怎样做到名传天下的呢？](https://www.zhihu.com/question/496974190)<br />
 5. [央行年内首次降息 ，房贷利率会跟着降吗？](https://www.zhihu.com/theater/98961)<br />
 6. [网传「教师体罚学生后群内道歉获其他家长安慰」，官方通报「责令学校解聘」，如何看待此事？](https://www.zhihu.com/question/606363235)<br />
-7. [哥伦比亚 4 名儿童坠机后丛林生存 40 天后获救，最大 13 岁，最小 1 岁，他们是如何做到的？](https://www.zhihu.com/question/605847291)<br />
-8. []()<br />
-9. [如何评价 DC 新片《闪电侠》？](https://www.zhihu.com/question/598042943)<br />
+7. []()<br />
+8. [如何评价 DC 新片《闪电侠》？](https://www.zhihu.com/question/598042943)<br />
+9. [哥伦比亚 4 名儿童坠机后丛林生存 40 天后获救，最大 13 岁，最小 1 岁，他们是如何做到的？](https://www.zhihu.com/question/605847291)<br />
 
 > 百度  
 
