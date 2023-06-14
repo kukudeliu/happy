@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 17:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 17:45:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [薛之谦还没找到梅西吗](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E8%BF%98%E6%B2%A1%E6%89%BE%E5%88%B0%E6%A2%85%E8%A5%BF%E5%90%97%23&t=31&band_rank=4&Refer=top)<br />
 5. [德国同学把我的剩饭吃了](https://s.weibo.com/weibo?q=%E5%BE%B7%E5%9B%BD%E5%90%8C%E5%AD%A6%E6%8A%8A%E6%88%91%E7%9A%84%E5%89%A9%E9%A5%AD%E5%90%83%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
 6. [大学上了一半专业没了](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E4%B8%8A%E4%BA%86%E4%B8%80%E5%8D%8A%E4%B8%93%E4%B8%9A%E6%B2%A1%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [人民日报评地铁偷拍乌龙](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E5%9C%B0%E9%93%81%E5%81%B7%E6%8B%8D%E4%B9%8C%E9%BE%99%23&t=31&band_rank=7&Refer=top)<br />
-8. [Ella 是谁让你们送我莲花](https://s.weibo.com/weibo?q=Ella%20%E6%98%AF%E8%B0%81%E8%AE%A9%E4%BD%A0%E4%BB%AC%E9%80%81%E6%88%91%E8%8E%B2%E8%8A%B1&t=31&band_rank=8&Refer=top)<br />
-9. [阚清子 叶琳回来啦](https://s.weibo.com/weibo?q=%E9%98%9A%E6%B8%85%E5%AD%90%20%E5%8F%B6%E7%90%B3%E5%9B%9E%E6%9D%A5%E5%95%A6&t=31&band_rank=9&Refer=top)<br />
+7. [黄永玉逝世](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%B0%B8%E7%8E%89%E9%80%9D%E4%B8%96%23&t=31&band_rank=7&Refer=top)<br />
+8. [人民日报评地铁偷拍乌龙](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E5%9C%B0%E9%93%81%E5%81%B7%E6%8B%8D%E4%B9%8C%E9%BE%99%23&t=31&band_rank=8&Refer=top)<br />
+9. [Ella 是谁让你们送我莲花](https://s.weibo.com/weibo?q=Ella%20%E6%98%AF%E8%B0%81%E8%AE%A9%E4%BD%A0%E4%BB%AC%E9%80%81%E6%88%91%E8%8E%B2%E8%8A%B1&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
