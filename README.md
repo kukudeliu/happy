@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 18:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 18:14:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [小伙骑共享单车5000公里到新疆](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E9%AA%91%E5%85%B1%E4%BA%AB%E5%8D%95%E8%BD%A65000%E5%85%AC%E9%87%8C%E5%88%B0%E6%96%B0%E7%96%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [薛之谦还没找到梅西吗](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E8%BF%98%E6%B2%A1%E6%89%BE%E5%88%B0%E6%A2%85%E8%A5%BF%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [老人向镜中自己问话儿子认真回答](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%90%91%E9%95%9C%E4%B8%AD%E8%87%AA%E5%B7%B1%E9%97%AE%E8%AF%9D%E5%84%BF%E5%AD%90%E8%AE%A4%E7%9C%9F%E5%9B%9E%E7%AD%94%23&t=31&band_rank=7&Refer=top)<br />
-8. [德国同学把我的剩饭吃了](https://s.weibo.com/weibo?q=%E5%BE%B7%E5%9B%BD%E5%90%8C%E5%AD%A6%E6%8A%8A%E6%88%91%E7%9A%84%E5%89%A9%E9%A5%AD%E5%90%83%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [比Uzi还紧张](https://s.weibo.com/weibo?q=%E6%AF%94Uzi%E8%BF%98%E7%B4%A7%E5%BC%A0&t=31&band_rank=9&Refer=top)<br />
+8. [比Uzi还紧张](https://s.weibo.com/weibo?q=%E6%AF%94Uzi%E8%BF%98%E7%B4%A7%E5%BC%A0&t=31&band_rank=8&Refer=top)<br />
+9. [德国同学把我的剩饭吃了](https://s.weibo.com/weibo?q=%E5%BE%B7%E5%9B%BD%E5%90%8C%E5%AD%A6%E6%8A%8A%E6%88%91%E7%9A%84%E5%89%A9%E9%A5%AD%E5%90%83%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
