@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 20:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 20:47:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [这竟然是肖战本人发的](https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%AB%9F%E7%84%B6%E6%98%AF%E8%82%96%E6%88%98%E6%9C%AC%E4%BA%BA%E5%8F%91%E7%9A%84%23&t=31&band_rank=2&Refer=top)<br />
 3. [用一首歌来做毕业告别](https://s.weibo.com/weibo?q=%23%E7%94%A8%E4%B8%80%E9%A6%96%E6%AD%8C%E6%9D%A5%E5%81%9A%E6%AF%95%E4%B8%9A%E5%91%8A%E5%88%AB%23&t=31&band_rank=3&Refer=top)<br />
 4. [EDG战胜iG](https://s.weibo.com/weibo?q=%23EDG%E6%88%98%E8%83%9CiG%23&t=31&band_rank=4&Refer=top)<br />
-5. [品牌方说赵露思礼服是借的](https://s.weibo.com/weibo?q=%23%E5%93%81%E7%89%8C%E6%96%B9%E8%AF%B4%E8%B5%B5%E9%9C%B2%E6%80%9D%E7%A4%BC%E6%9C%8D%E6%98%AF%E5%80%9F%E7%9A%84%23&t=31&band_rank=5&Refer=top)<br />
-6. [关晓彤第一套vs第二套](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E7%AC%AC%E4%B8%80%E5%A5%97vs%E7%AC%AC%E4%BA%8C%E5%A5%97%23&t=31&band_rank=6&Refer=top)<br />
+5. [关晓彤第一套vs第二套](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E7%AC%AC%E4%B8%80%E5%A5%97vs%E7%AC%AC%E4%BA%8C%E5%A5%97%23&t=31&band_rank=5&Refer=top)<br />
+6. [品牌方说赵露思礼服是借的](https://s.weibo.com/weibo?q=%23%E5%93%81%E7%89%8C%E6%96%B9%E8%AF%B4%E8%B5%B5%E9%9C%B2%E6%80%9D%E7%A4%BC%E6%9C%8D%E6%98%AF%E5%80%9F%E7%9A%84%23&t=31&band_rank=6&Refer=top)<br />
 7. [黄永玉逝世](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%B0%B8%E7%8E%89%E9%80%9D%E4%B8%96%23&t=31&band_rank=7&Refer=top)<br />
 8. [Angelababy撕漫女](https://s.weibo.com/weibo?q=%23Angelababy%E6%92%95%E6%BC%AB%E5%A5%B3%23&t=31&band_rank=8&Refer=top)<br />
 9. [Uzi复出首胜](https://s.weibo.com/weibo?q=%23Uzi%E5%A4%8D%E5%87%BA%E9%A6%96%E8%83%9C%23&t=31&band_rank=9&Refer=top)<br />
@@ -26,7 +26,7 @@
 
 > 百度  
 
-1. [美丽乡村的“只此青绿”](https://www.baidu.com/s?wd=%E7%BE%8E%E4%B8%BD%E4%B9%A1%E6%9D%91%E7%9A%84%E2%80%9C%E5%8F%AA%E6%AD%A4%E9%9D%92%E7%BB%BF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [赓续民族血脉 同绘华夏愿景](https://www.baidu.com/s?wd=%E8%B5%93%E7%BB%AD%E6%B0%91%E6%97%8F%E8%A1%80%E8%84%89+%E5%90%8C%E7%BB%98%E5%8D%8E%E5%A4%8F%E6%84%BF%E6%99%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [男子中5976万彩票大奖 领奖时手哆嗦](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%AD5976%E4%B8%87%E5%BD%A9%E7%A5%A8%E5%A4%A7%E5%A5%96+%E9%A2%86%E5%A5%96%E6%97%B6%E6%89%8B%E5%93%86%E5%97%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [苏醒双手搂梅西胳膊与其合影](https://www.baidu.com/s?wd=%E8%8B%8F%E9%86%92%E5%8F%8C%E6%89%8B%E6%90%82%E6%A2%85%E8%A5%BF%E8%83%B3%E8%86%8A%E4%B8%8E%E5%85%B6%E5%90%88%E5%BD%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国空间站美景请查收](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E7%BE%8E%E6%99%AF%E8%AF%B7%E6%9F%A5%E6%94%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -38,7 +38,7 @@
 
 > 哔哩哔哩  
 
-1. [美丽乡村的“只此青绿”](https://www.baidu.com/s?wd=%E7%BE%8E%E4%B8%BD%E4%B9%A1%E6%9D%91%E7%9A%84%E2%80%9C%E5%8F%AA%E6%AD%A4%E9%9D%92%E7%BB%BF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [赓续民族血脉 同绘华夏愿景](https://www.baidu.com/s?wd=%E8%B5%93%E7%BB%AD%E6%B0%91%E6%97%8F%E8%A1%80%E8%84%89+%E5%90%8C%E7%BB%98%E5%8D%8E%E5%A4%8F%E6%84%BF%E6%99%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [男子中5976万彩票大奖 领奖时手哆嗦](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%AD5976%E4%B8%87%E5%BD%A9%E7%A5%A8%E5%A4%A7%E5%A5%96+%E9%A2%86%E5%A5%96%E6%97%B6%E6%89%8B%E5%93%86%E5%97%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [苏醒双手搂梅西胳膊与其合影](https://www.baidu.com/s?wd=%E8%8B%8F%E9%86%92%E5%8F%8C%E6%89%8B%E6%90%82%E6%A2%85%E8%A5%BF%E8%83%B3%E8%86%8A%E4%B8%8E%E5%85%B6%E5%90%88%E5%BD%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国空间站美景请查收](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E7%BE%8E%E6%99%AF%E8%AF%B7%E6%9F%A5%E6%94%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
