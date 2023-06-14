@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 19:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 19:42:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [黄永玉逝世](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%B0%B8%E7%8E%89%E9%80%9D%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [老人向镜中自己问话儿子认真回答](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%90%91%E9%95%9C%E4%B8%AD%E8%87%AA%E5%B7%B1%E9%97%AE%E8%AF%9D%E5%84%BF%E5%AD%90%E8%AE%A4%E7%9C%9F%E5%9B%9E%E7%AD%94%23&t=31&band_rank=7&Refer=top)<br />
 8. [品牌方说赵露思礼服是借的](https://s.weibo.com/weibo?q=%23%E5%93%81%E7%89%8C%E6%96%B9%E8%AF%B4%E8%B5%B5%E9%9C%B2%E6%80%9D%E7%A4%BC%E6%9C%8D%E6%98%AF%E5%80%9F%E7%9A%84%23&t=31&band_rank=8&Refer=top)<br />
-9. [薛之谦还没找到梅西吗](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E8%BF%98%E6%B2%A1%E6%89%BE%E5%88%B0%E6%A2%85%E8%A5%BF%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
+9. [大学上了一半专业没了](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E4%B8%8A%E4%BA%86%E4%B8%80%E5%8D%8A%E4%B8%93%E4%B8%9A%E6%B2%A1%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
