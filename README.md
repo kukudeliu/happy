@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 08:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 08:59:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [好声音亚军张恒远去世](https://www.baidu.com/s?wd=%E5%A5%BD%E5%A3%B0%E9%9F%B3%E4%BA%9A%E5%86%9B%E5%BC%A0%E6%81%92%E8%BF%9C%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [SK-II神仙水生产地涉嫌核污染](https://www.baidu.com/s?wd=SK-II%E7%A5%9E%E4%BB%99%E6%B0%B4%E7%94%9F%E4%BA%A7%E5%9C%B0%E6%B6%89%E5%AB%8C%E6%A0%B8%E6%B1%A1%E6%9F%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [笑果旗下公司擅自演出被罚](https://www.baidu.com/s?wd=%E7%AC%91%E6%9E%9C%E6%97%97%E4%B8%8B%E5%85%AC%E5%8F%B8%E6%93%85%E8%87%AA%E6%BC%94%E5%87%BA%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [特朗普出庭全程沉默](https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%87%BA%E5%BA%AD%E5%85%A8%E7%A8%8B%E6%B2%89%E9%BB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [卖货主播逃离618](https://www.baidu.com/s?wd=%E5%8D%96%E8%B4%A7%E4%B8%BB%E6%92%AD%E9%80%83%E7%A6%BB618&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [好声音亚军张恒远去世](https://www.baidu.com/s?wd=%E5%A5%BD%E5%A3%B0%E9%9F%B3%E4%BA%9A%E5%86%9B%E5%BC%A0%E6%81%92%E8%BF%9C%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [SK-II神仙水生产地涉嫌核污染](https://www.baidu.com/s?wd=SK-II%E7%A5%9E%E4%BB%99%E6%B0%B4%E7%94%9F%E4%BA%A7%E5%9C%B0%E6%B6%89%E5%AB%8C%E6%A0%B8%E6%B1%A1%E6%9F%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [笑果旗下公司擅自演出被罚](https://www.baidu.com/s?wd=%E7%AC%91%E6%9E%9C%E6%97%97%E4%B8%8B%E5%85%AC%E5%8F%B8%E6%93%85%E8%87%AA%E6%BC%94%E5%87%BA%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [特朗普出庭全程沉默](https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%87%BA%E5%BA%AD%E5%85%A8%E7%A8%8B%E6%B2%89%E9%BB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [卖货主播逃离618](https://www.baidu.com/s?wd=%E5%8D%96%E8%B4%A7%E4%B8%BB%E6%92%AD%E9%80%83%E7%A6%BB618&sa=fyb_news&rsv_dl=fyb_news)<br />
