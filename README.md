@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 15:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 15:30:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [向佐向唐诗逸道歉](https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%E5%90%91%E5%94%90%E8%AF%97%E9%80%B8%E9%81%93%E6%AD%89%23&t=31&band_rank=4&Refer=top)<br />
 5. [一批985毕业生选择主动延毕](https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%89%B9985%E6%AF%95%E4%B8%9A%E7%94%9F%E9%80%89%E6%8B%A9%E4%B8%BB%E5%8A%A8%E5%BB%B6%E6%AF%95%23&t=31&band_rank=5&Refer=top)<br />
 6. [毕夏发讣告透露张恒远生前心愿](https://s.weibo.com/weibo?q=%23%E6%AF%95%E5%A4%8F%E5%8F%91%E8%AE%A3%E5%91%8A%E9%80%8F%E9%9C%B2%E5%BC%A0%E6%81%92%E8%BF%9C%E7%94%9F%E5%89%8D%E5%BF%83%E6%84%BF%23&t=31&band_rank=6&Refer=top)<br />
-7. [医生去世后手机还一直收到患者消息](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E5%8E%BB%E4%B8%96%E5%90%8E%E6%89%8B%E6%9C%BA%E8%BF%98%E4%B8%80%E7%9B%B4%E6%94%B6%E5%88%B0%E6%82%A3%E8%80%85%E6%B6%88%E6%81%AF%23&t=31&band_rank=7&Refer=top)<br />
+7. [北动公布丫丫最新画面](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%8A%A8%E5%85%AC%E5%B8%83%E4%B8%AB%E4%B8%AB%E6%9C%80%E6%96%B0%E7%94%BB%E9%9D%A2%23&t=31&band_rank=7&Refer=top)<br />
 8. [张恒远去世](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%81%92%E8%BF%9C%E5%8E%BB%E4%B8%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [北动公布丫丫最新画面](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%8A%A8%E5%85%AC%E5%B8%83%E4%B8%AB%E4%B8%AB%E6%9C%80%E6%96%B0%E7%94%BB%E9%9D%A2%23&t=31&band_rank=9&Refer=top)<br />
+9. [医生去世后手机还一直收到患者消息](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E5%8E%BB%E4%B8%96%E5%90%8E%E6%89%8B%E6%9C%BA%E8%BF%98%E4%B8%80%E7%9B%B4%E6%94%B6%E5%88%B0%E6%82%A3%E8%80%85%E6%B6%88%E6%81%AF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
