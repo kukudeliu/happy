@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 19:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 19:45:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [飞云浦上，四个杀手为什么不对武松动手而是选择任由武松宰杀？](https://www.zhihu.com/question/585702421)<br />
 7. [为什么越来越多的年轻人喜欢买稀奇古怪的「丑东西」「脏东西」「土东西」？](https://www.zhihu.com/question/606407983)<br />
 8. [6 月 14 日沪指放量跌 0.14%，大消费概念股集体反弹，两市成交额重回万亿，如何看待今日行情？](https://www.zhihu.com/question/606520756)<br />
-9. [如何评价 DC 新片《闪电侠》？](https://www.zhihu.com/question/598042943)<br />
+9. [2023 LPL 夏季赛 EDG VS iG，如何评价这场比赛？](https://www.zhihu.com/question/606583572)<br />
 
 > 百度  
 
