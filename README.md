@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 08:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 08:30:01</h4></div>
 
 > 微博  
 
 1. [张恒远去世](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%81%92%E8%BF%9C%E5%8E%BB%E4%B8%96%23&t=31&band_rank=1&Refer=top)<br />
-2. [Jennie回应演唱会中途离场](https://s.weibo.com/weibo?q=%23Jennie%E5%9B%9E%E5%BA%94%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%AD%E9%80%94%E7%A6%BB%E5%9C%BA%23&t=31&band_rank=2&Refer=top)<br />
+2. [天津两处居民楼爆炸致3人死亡](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E4%B8%A4%E5%A4%84%E5%B1%85%E6%B0%91%E6%A5%BC%E7%88%86%E7%82%B8%E8%87%B43%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=2&Refer=top)<br />
 3. [蓝天碧水间官兵巡逻画面美如画](https://s.weibo.com/weibo?q=%23%E8%93%9D%E5%A4%A9%E7%A2%A7%E6%B0%B4%E9%97%B4%E5%AE%98%E5%85%B5%E5%B7%A1%E9%80%BB%E7%94%BB%E9%9D%A2%E7%BE%8E%E5%A6%82%E7%94%BB%23&t=31&band_rank=3&Refer=top)<br />
-4. [天津两处居民楼爆炸致3人死亡](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E4%B8%A4%E5%A4%84%E5%B1%85%E6%B0%91%E6%A5%BC%E7%88%86%E7%82%B8%E8%87%B43%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=4&Refer=top)<br />
+4. [Jennie回应演唱会中途离场](https://s.weibo.com/weibo?q=%23Jennie%E5%9B%9E%E5%BA%94%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%AD%E9%80%94%E7%A6%BB%E5%9C%BA%23&t=31&band_rank=4&Refer=top)<br />
 5. [柯以敏 我比那英唱得更好](https://s.weibo.com/weibo?q=%E6%9F%AF%E4%BB%A5%E6%95%8F%20%E6%88%91%E6%AF%94%E9%82%A3%E8%8B%B1%E5%94%B1%E5%BE%97%E6%9B%B4%E5%A5%BD&t=31&band_rank=5&Refer=top)<br />
 6. [权志龙又买房了](https://s.weibo.com/weibo?q=%23%E6%9D%83%E5%BF%97%E9%BE%99%E5%8F%88%E4%B9%B0%E6%88%BF%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [王鹤棣田曦薇 大奉打更人](https://s.weibo.com/weibo?q=%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%94%B0%E6%9B%A6%E8%96%87%20%E5%A4%A7%E5%A5%89%E6%89%93%E6%9B%B4%E4%BA%BA&t=31&band_rank=7&Refer=top)<br />
