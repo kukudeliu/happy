@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 20:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 20:13:01</h4></div>
 
 > 微博  
 
@@ -10,12 +10,12 @@
 6. [梅西苏醒合影](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%8B%8F%E9%86%92%E5%90%88%E5%BD%B1%23&t=31&band_rank=6&Refer=top)<br />
 7. [关晓彤第一套vs第二套](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E7%AC%AC%E4%B8%80%E5%A5%97vs%E7%AC%AC%E4%BA%8C%E5%A5%97%23&t=31&band_rank=7&Refer=top)<br />
 8. [薛之谦还没找到梅西吗](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E8%BF%98%E6%B2%A1%E6%89%BE%E5%88%B0%E6%A2%85%E8%A5%BF%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [EDG对战iG](https://s.weibo.com/weibo?q=%23EDG%E5%AF%B9%E6%88%98iG%23&t=31&band_rank=9&Refer=top)<br />
+9. [德国同学把我的剩饭吃了](https://s.weibo.com/weibo?q=%E5%BE%B7%E5%9B%BD%E5%90%8C%E5%AD%A6%E6%8A%8A%E6%88%91%E7%9A%84%E5%89%A9%E9%A5%AD%E5%90%83%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
-1. [哥伦比亚 4 名儿童坠机后丛林生存 40 天后获救，最大 13 岁，最小 1 岁，他们是如何做到的？](https://www.zhihu.com/question/605847291)<br />
-2. [印度向中国手机制造商提新条件，要求印籍人士担任 CEO 等职位，分析称等于变相收购中企，如何看待此事？](https://www.zhihu.com/question/606514618)<br />
+1. [印度向中国手机制造商提新条件，要求印籍人士担任 CEO 等职位，分析称等于变相收购中企，如何看待此事？](https://www.zhihu.com/question/606514618)<br />
+2. [哥伦比亚 4 名儿童坠机后丛林生存 40 天后获救，最大 13 岁，最小 1 岁，他们是如何做到的？](https://www.zhihu.com/question/605847291)<br />
 3. [网传「教师体罚学生后群内道歉获其他家长安慰」，官方通报「责令学校解聘」，如何看待此事？](https://www.zhihu.com/question/606363235)<br />
 4. [老农卖不合格芹菜获利 14 元被罚 10 万，法院裁定不准予强制执行，如何从法律角度解读此事？](https://www.zhihu.com/question/606519434)<br />
 5. [2022 年各行业平均收入显示，金融业薪资增长第一，金融是好的专业报考方向吗？](https://www.zhihu.com/theater/13920)<br />
