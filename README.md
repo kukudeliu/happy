@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 23:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 23:29:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [黄永玉逝世 曾说年轻人容易错过老人](https://www.baidu.com/s?wd=%E9%BB%84%E6%B0%B8%E7%8E%89%E9%80%9D%E4%B8%96+%E6%9B%BE%E8%AF%B4%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%AE%B9%E6%98%93%E9%94%99%E8%BF%87%E8%80%81%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [比尔·盖茨抵达北京](https://www.baidu.com/s?wd=%E6%AF%94%E5%B0%94%C2%B7%E7%9B%96%E8%8C%A8%E6%8A%B5%E8%BE%BE%E5%8C%97%E4%BA%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [高校男生被室友杀害 家属发声](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E7%94%B7%E7%94%9F%E8%A2%AB%E5%AE%A4%E5%8F%8B%E6%9D%80%E5%AE%B3+%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [夫妻合作换灯泡妻子全程驮着丈夫](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%90%88%E4%BD%9C%E6%8D%A2%E7%81%AF%E6%B3%A1%E5%A6%BB%E5%AD%90%E5%85%A8%E7%A8%8B%E9%A9%AE%E7%9D%80%E4%B8%88%E5%A4%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [医生去世后手机还一直收到患者消息](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E5%8E%BB%E4%B8%96%E5%90%8E%E6%89%8B%E6%9C%BA%E8%BF%98%E4%B8%80%E7%9B%B4%E6%94%B6%E5%88%B0%E6%82%A3%E8%80%85%E6%B6%88%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [年轻人返乡创业遇老人频繁偷菜](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%BF%94%E4%B9%A1%E5%88%9B%E4%B8%9A%E9%81%87%E8%80%81%E4%BA%BA%E9%A2%91%E7%B9%81%E5%81%B7%E8%8F%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [夫妻合作换灯泡妻子全程驮着丈夫](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%90%88%E4%BD%9C%E6%8D%A2%E7%81%AF%E6%B3%A1%E5%A6%BB%E5%AD%90%E5%85%A8%E7%A8%8B%E9%A9%AE%E7%9D%80%E4%B8%88%E5%A4%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [黄永玉逝世 曾说年轻人容易错过老人](https://www.baidu.com/s?wd=%E9%BB%84%E6%B0%B8%E7%8E%89%E9%80%9D%E4%B8%96+%E6%9B%BE%E8%AF%B4%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%AE%B9%E6%98%93%E9%94%99%E8%BF%87%E8%80%81%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [比尔·盖茨抵达北京](https://www.baidu.com/s?wd=%E6%AF%94%E5%B0%94%C2%B7%E7%9B%96%E8%8C%A8%E6%8A%B5%E8%BE%BE%E5%8C%97%E4%BA%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [高校男生被室友杀害 家属发声](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E7%94%B7%E7%94%9F%E8%A2%AB%E5%AE%A4%E5%8F%8B%E6%9D%80%E5%AE%B3+%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [夫妻合作换灯泡妻子全程驮着丈夫](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%90%88%E4%BD%9C%E6%8D%A2%E7%81%AF%E6%B3%A1%E5%A6%BB%E5%AD%90%E5%85%A8%E7%A8%8B%E9%A9%AE%E7%9D%80%E4%B8%88%E5%A4%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [医生去世后手机还一直收到患者消息](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E5%8E%BB%E4%B8%96%E5%90%8E%E6%89%8B%E6%9C%BA%E8%BF%98%E4%B8%80%E7%9B%B4%E6%94%B6%E5%88%B0%E6%82%A3%E8%80%85%E6%B6%88%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [年轻人返乡创业遇老人频繁偷菜](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%BF%94%E4%B9%A1%E5%88%9B%E4%B8%9A%E9%81%87%E8%80%81%E4%BA%BA%E9%A2%91%E7%B9%81%E5%81%B7%E8%8F%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [夫妻合作换灯泡妻子全程驮着丈夫](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%90%88%E4%BD%9C%E6%8D%A2%E7%81%AF%E6%B3%A1%E5%A6%BB%E5%AD%90%E5%85%A8%E7%A8%8B%E9%A9%AE%E7%9D%80%E4%B8%88%E5%A4%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
