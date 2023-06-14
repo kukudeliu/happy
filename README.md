@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 18:14:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 18:15:01</h4></div>
 
 > 微博  
 
 1. [梅西苏醒合影](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%8B%8F%E9%86%92%E5%90%88%E5%BD%B1%23&t=31&band_rank=1&Refer=top)<br />
-2. [医生去世后手机还一直收到患者消息](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E5%8E%BB%E4%B8%96%E5%90%8E%E6%89%8B%E6%9C%BA%E8%BF%98%E4%B8%80%E7%9B%B4%E6%94%B6%E5%88%B0%E6%82%A3%E8%80%85%E6%B6%88%E6%81%AF%23&t=31&band_rank=2&Refer=top)<br />
+2. [小伙骑共享单车5000公里到新疆](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E9%AA%91%E5%85%B1%E4%BA%AB%E5%8D%95%E8%BD%A65000%E5%85%AC%E9%87%8C%E5%88%B0%E6%96%B0%E7%96%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [感谢为爱勇敢伸出手臂的你](https://s.weibo.com/weibo?q=%23%E6%84%9F%E8%B0%A2%E4%B8%BA%E7%88%B1%E5%8B%87%E6%95%A2%E4%BC%B8%E5%87%BA%E6%89%8B%E8%87%82%E7%9A%84%E4%BD%A0%23&t=31&band_rank=3&Refer=top)<br />
 4. [黄永玉逝世](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%B0%B8%E7%8E%89%E9%80%9D%E4%B8%96%23&t=31&band_rank=4&Refer=top)<br />
-5. [小伙骑共享单车5000公里到新疆](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E9%AA%91%E5%85%B1%E4%BA%AB%E5%8D%95%E8%BD%A65000%E5%85%AC%E9%87%8C%E5%88%B0%E6%96%B0%E7%96%86%23&t=31&band_rank=5&Refer=top)<br />
+5. [医生去世后手机还一直收到患者消息](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E5%8E%BB%E4%B8%96%E5%90%8E%E6%89%8B%E6%9C%BA%E8%BF%98%E4%B8%80%E7%9B%B4%E6%94%B6%E5%88%B0%E6%82%A3%E8%80%85%E6%B6%88%E6%81%AF%23&t=31&band_rank=5&Refer=top)<br />
 6. [薛之谦还没找到梅西吗](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E8%BF%98%E6%B2%A1%E6%89%BE%E5%88%B0%E6%A2%85%E8%A5%BF%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [老人向镜中自己问话儿子认真回答](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%90%91%E9%95%9C%E4%B8%AD%E8%87%AA%E5%B7%B1%E9%97%AE%E8%AF%9D%E5%84%BF%E5%AD%90%E8%AE%A4%E7%9C%9F%E5%9B%9E%E7%AD%94%23&t=31&band_rank=7&Refer=top)<br />
 8. [比Uzi还紧张](https://s.weibo.com/weibo?q=%E6%AF%94Uzi%E8%BF%98%E7%B4%A7%E5%BC%A0&t=31&band_rank=8&Refer=top)<br />
@@ -18,11 +18,11 @@
 2. [如何让不玩游戏的人能够快速理解游戏 DLC 是什么东西？](https://www.zhihu.com/question/606170703)<br />
 3. [网传「教师体罚学生后群内道歉获其他家长安慰」，官方通报「责令学校解聘」，如何看待此事？](https://www.zhihu.com/question/606363235)<br />
 4. [姆巴佩采访时称「梅西没有得到应有的尊重」，如何看待此事？为什么很多人对梅西离队感到宽慰？](https://www.zhihu.com/question/606541357)<br />
-5. [消息称马克龙想参加金砖峰会，法媒评价「疯狂、前所未有」，马克龙成行的可能性有多大？对国际合作有何意义？](https://www.zhihu.com/question/606517294)<br />
-6. [老农卖不合格芹菜获利 14 元被罚 10 万，法院裁定不准予强制执行，如何从法律角度解读此事？](https://www.zhihu.com/question/606519434)<br />
-7. [央行下调常备借贷便利利率 10 个基点，将产生哪些影响？](https://www.zhihu.com/question/606450228)<br />
-8. [巴基斯坦将使用人民币支付从俄罗斯进口的原油，这标志着什么？](https://www.zhihu.com/question/606322287)<br />
-9. [博物馆中令你最震惊的一件文物是什么？](https://www.zhihu.com/question/495456125)<br />
+5. [老农卖不合格芹菜获利 14 元被罚 10 万，法院裁定不准予强制执行，如何从法律角度解读此事？](https://www.zhihu.com/question/606519434)<br />
+6. [巴基斯坦将使用人民币支付从俄罗斯进口的原油，这标志着什么？](https://www.zhihu.com/question/606322287)<br />
+7. [博物馆中令你最震惊的一件文物是什么？](https://www.zhihu.com/question/495456125)<br />
+8. [央行下调常备借贷便利利率 10 个基点，将产生哪些影响？](https://www.zhihu.com/question/606450228)<br />
+9. [2023 年高考生，数学估完撑死没有 75，复读真的很难吗，不理解为啥都说复读需要勇气?](https://www.zhihu.com/question/605958206)<br />
 
 > 百度  
 
