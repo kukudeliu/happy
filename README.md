@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 02:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 02:35:02</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [男子地铁猥亵女乘客 被抓后出手伤人](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%B0%E9%93%81%E7%8C%A5%E4%BA%B5%E5%A5%B3%E4%B9%98%E5%AE%A2+%E8%A2%AB%E6%8A%93%E5%90%8E%E5%87%BA%E6%89%8B%E4%BC%A4%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子熬夜喝冰镇饮料被送进ICU](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%86%AC%E5%A4%9C%E5%96%9D%E5%86%B0%E9%95%87%E9%A5%AE%E6%96%99%E8%A2%AB%E9%80%81%E8%BF%9BICU&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [为保护迎客松不让买木头？黄山回应](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BF%9D%E6%8A%A4%E8%BF%8E%E5%AE%A2%E6%9D%BE%E4%B8%8D%E8%AE%A9%E4%B9%B0%E6%9C%A8%E5%A4%B4%EF%BC%9F%E9%BB%84%E5%B1%B1%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [美跨性别网红在白宫赤裸上身](https://www.baidu.com/s?wd=%E7%BE%8E%E8%B7%A8%E6%80%A7%E5%88%AB%E7%BD%91%E7%BA%A2%E5%9C%A8%E7%99%BD%E5%AE%AB%E8%B5%A4%E8%A3%B8%E4%B8%8A%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子一周内买7公斤黄金 埋公厕里](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%80%E5%91%A8%E5%86%85%E4%B9%B07%E5%85%AC%E6%96%A4%E9%BB%84%E9%87%91+%E5%9F%8B%E5%85%AC%E5%8E%95%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [男子地铁猥亵女乘客 被抓后出手伤人](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%B0%E9%93%81%E7%8C%A5%E4%BA%B5%E5%A5%B3%E4%B9%98%E5%AE%A2+%E8%A2%AB%E6%8A%93%E5%90%8E%E5%87%BA%E6%89%8B%E4%BC%A4%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子熬夜喝冰镇饮料被送进ICU](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%86%AC%E5%A4%9C%E5%96%9D%E5%86%B0%E9%95%87%E9%A5%AE%E6%96%99%E8%A2%AB%E9%80%81%E8%BF%9BICU&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [为保护迎客松不让买木头？黄山回应](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BF%9D%E6%8A%A4%E8%BF%8E%E5%AE%A2%E6%9D%BE%E4%B8%8D%E8%AE%A9%E4%B9%B0%E6%9C%A8%E5%A4%B4%EF%BC%9F%E9%BB%84%E5%B1%B1%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [美跨性别网红在白宫赤裸上身](https://www.baidu.com/s?wd=%E7%BE%8E%E8%B7%A8%E6%80%A7%E5%88%AB%E7%BD%91%E7%BA%A2%E5%9C%A8%E7%99%BD%E5%AE%AB%E8%B5%A4%E8%A3%B8%E4%B8%8A%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子一周内买7公斤黄金 埋公厕里](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%80%E5%91%A8%E5%86%85%E4%B9%B07%E5%85%AC%E6%96%A4%E9%BB%84%E9%87%91+%E5%9F%8B%E5%85%AC%E5%8E%95%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
