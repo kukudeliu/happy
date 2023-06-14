@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 03:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 03:16:01</h4></div>
 
 > 微博  
 
@@ -32,9 +32,9 @@
 4. [美丽乡村的“只此青绿”](https://www.baidu.com/s?wd=%E7%BE%8E%E4%B8%BD%E4%B9%A1%E6%9D%91%E7%9A%84%E2%80%9C%E5%8F%AA%E6%AD%A4%E9%9D%92%E7%BB%BF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [跳河救人小哥被奖8万 免费上大学](https://www.baidu.com/s?wd=%E8%B7%B3%E6%B2%B3%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E8%A2%AB%E5%A5%968%E4%B8%87+%E5%85%8D%E8%B4%B9%E4%B8%8A%E5%A4%A7%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [小米回应被印度没收48亿元](https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%8D%B0%E5%BA%A6%E6%B2%A1%E6%94%B648%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [医生去世后手机还一直收到患者消息](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E5%8E%BB%E4%B8%96%E5%90%8E%E6%89%8B%E6%9C%BA%E8%BF%98%E4%B8%80%E7%9B%B4%E6%94%B6%E5%88%B0%E6%82%A3%E8%80%85%E6%B6%88%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [官方通报城管与摊贩冲突：6人停职](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%9F%8E%E7%AE%A1%E4%B8%8E%E6%91%8A%E8%B4%A9%E5%86%B2%E7%AA%81%EF%BC%9A6%E4%BA%BA%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子中5976万彩票大奖 领奖时手哆嗦](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%AD5976%E4%B8%87%E5%BD%A9%E7%A5%A8%E5%A4%A7%E5%A5%96+%E9%A2%86%E5%A5%96%E6%97%B6%E6%89%8B%E5%93%86%E5%97%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [官方通报城管与摊贩冲突：6人停职](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%9F%8E%E7%AE%A1%E4%B8%8E%E6%91%8A%E8%B4%A9%E5%86%B2%E7%AA%81%EF%BC%9A6%E4%BA%BA%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [医生去世后手机还一直收到患者消息](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E5%8E%BB%E4%B8%96%E5%90%8E%E6%89%8B%E6%9C%BA%E8%BF%98%E4%B8%80%E7%9B%B4%E6%94%B6%E5%88%B0%E6%82%A3%E8%80%85%E6%B6%88%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男生说猫屎臭被扣饭 天津大学回应](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E8%AF%B4%E7%8C%AB%E5%B1%8E%E8%87%AD%E8%A2%AB%E6%89%A3%E9%A5%AD+%E5%A4%A9%E6%B4%A5%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [美丽乡村的“只此青绿”](https://www.baidu.com/s?wd=%E7%BE%8E%E4%B8%BD%E4%B9%A1%E6%9D%91%E7%9A%84%E2%80%9C%E5%8F%AA%E6%AD%A4%E9%9D%92%E7%BB%BF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [跳河救人小哥被奖8万 免费上大学](https://www.baidu.com/s?wd=%E8%B7%B3%E6%B2%B3%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E8%A2%AB%E5%A5%968%E4%B8%87+%E5%85%8D%E8%B4%B9%E4%B8%8A%E5%A4%A7%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [小米回应被印度没收48亿元](https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%8D%B0%E5%BA%A6%E6%B2%A1%E6%94%B648%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [医生去世后手机还一直收到患者消息](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E5%8E%BB%E4%B8%96%E5%90%8E%E6%89%8B%E6%9C%BA%E8%BF%98%E4%B8%80%E7%9B%B4%E6%94%B6%E5%88%B0%E6%82%A3%E8%80%85%E6%B6%88%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [官方通报城管与摊贩冲突：6人停职](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%9F%8E%E7%AE%A1%E4%B8%8E%E6%91%8A%E8%B4%A9%E5%86%B2%E7%AA%81%EF%BC%9A6%E4%BA%BA%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子中5976万彩票大奖 领奖时手哆嗦](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%AD5976%E4%B8%87%E5%BD%A9%E7%A5%A8%E5%A4%A7%E5%A5%96+%E9%A2%86%E5%A5%96%E6%97%B6%E6%89%8B%E5%93%86%E5%97%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [官方通报城管与摊贩冲突：6人停职](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%9F%8E%E7%AE%A1%E4%B8%8E%E6%91%8A%E8%B4%A9%E5%86%B2%E7%AA%81%EF%BC%9A6%E4%BA%BA%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [医生去世后手机还一直收到患者消息](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E5%8E%BB%E4%B8%96%E5%90%8E%E6%89%8B%E6%9C%BA%E8%BF%98%E4%B8%80%E7%9B%B4%E6%94%B6%E5%88%B0%E6%82%A3%E8%80%85%E6%B6%88%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男生说猫屎臭被扣饭 天津大学回应](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E8%AF%B4%E7%8C%AB%E5%B1%8E%E8%87%AD%E8%A2%AB%E6%89%A3%E9%A5%AD+%E5%A4%A9%E6%B4%A5%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
