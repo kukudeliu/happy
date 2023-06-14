@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 17:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 17:19:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [疑似天津大学女生扣饭事件监控流出](https://www.baidu.com/s?wd=%E7%96%91%E4%BC%BC%E5%A4%A9%E6%B4%A5%E5%A4%A7%E5%AD%A6%E5%A5%B3%E7%94%9F%E6%89%A3%E9%A5%AD%E4%BA%8B%E4%BB%B6%E7%9B%91%E6%8E%A7%E6%B5%81%E5%87%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [初中学生砍死同学 曾写纸条预告杀人](https://www.baidu.com/s?wd=%E5%88%9D%E4%B8%AD%E5%AD%A6%E7%94%9F%E7%A0%8D%E6%AD%BB%E5%90%8C%E5%AD%A6+%E6%9B%BE%E5%86%99%E7%BA%B8%E6%9D%A1%E9%A2%84%E5%91%8A%E6%9D%80%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [“丢弃女儿”爸爸回应：一时糊涂](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%A2%E5%BC%83%E5%A5%B3%E5%84%BF%E2%80%9D%E7%88%B8%E7%88%B8%E5%9B%9E%E5%BA%94%EF%BC%9A%E4%B8%80%E6%97%B6%E7%B3%8A%E6%B6%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [知情人曝张恒远离世细节 曾抢救成功](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%E6%9B%9D%E5%BC%A0%E6%81%92%E8%BF%9C%E7%A6%BB%E4%B8%96%E7%BB%86%E8%8A%82+%E6%9B%BE%E6%8A%A2%E6%95%91%E6%88%90%E5%8A%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女干部赌博被查 3月前公示拟任新职](https://www.baidu.com/s?wd=%E5%A5%B3%E5%B9%B2%E9%83%A8%E8%B5%8C%E5%8D%9A%E8%A2%AB%E6%9F%A5+3%E6%9C%88%E5%89%8D%E5%85%AC%E7%A4%BA%E6%8B%9F%E4%BB%BB%E6%96%B0%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [疑似天津大学女生扣饭事件监控流出](https://www.baidu.com/s?wd=%E7%96%91%E4%BC%BC%E5%A4%A9%E6%B4%A5%E5%A4%A7%E5%AD%A6%E5%A5%B3%E7%94%9F%E6%89%A3%E9%A5%AD%E4%BA%8B%E4%BB%B6%E7%9B%91%E6%8E%A7%E6%B5%81%E5%87%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [初中学生砍死同学 曾写纸条预告杀人](https://www.baidu.com/s?wd=%E5%88%9D%E4%B8%AD%E5%AD%A6%E7%94%9F%E7%A0%8D%E6%AD%BB%E5%90%8C%E5%AD%A6+%E6%9B%BE%E5%86%99%E7%BA%B8%E6%9D%A1%E9%A2%84%E5%91%8A%E6%9D%80%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [“丢弃女儿”爸爸回应：一时糊涂](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%A2%E5%BC%83%E5%A5%B3%E5%84%BF%E2%80%9D%E7%88%B8%E7%88%B8%E5%9B%9E%E5%BA%94%EF%BC%9A%E4%B8%80%E6%97%B6%E7%B3%8A%E6%B6%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [知情人曝张恒远离世细节 曾抢救成功](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%E6%9B%9D%E5%BC%A0%E6%81%92%E8%BF%9C%E7%A6%BB%E4%B8%96%E7%BB%86%E8%8A%82+%E6%9B%BE%E6%8A%A2%E6%95%91%E6%88%90%E5%8A%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女干部赌博被查 3月前公示拟任新职](https://www.baidu.com/s?wd=%E5%A5%B3%E5%B9%B2%E9%83%A8%E8%B5%8C%E5%8D%9A%E8%A2%AB%E6%9F%A5+3%E6%9C%88%E5%89%8D%E5%85%AC%E7%A4%BA%E6%8B%9F%E4%BB%BB%E6%96%B0%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
