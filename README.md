@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 00:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 00:45:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [高校男生被室友杀害 家属发声](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E7%94%B7%E7%94%9F%E8%A2%AB%E5%AE%A4%E5%8F%8B%E6%9D%80%E5%AE%B3+%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [Uzi赛后采访哭了](https://www.baidu.com/s?wd=Uzi%E8%B5%9B%E5%90%8E%E9%87%87%E8%AE%BF%E5%93%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [医生去世后手机还一直收到患者消息](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E5%8E%BB%E4%B8%96%E5%90%8E%E6%89%8B%E6%9C%BA%E8%BF%98%E4%B8%80%E7%9B%B4%E6%94%B6%E5%88%B0%E6%82%A3%E8%80%85%E6%B6%88%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [小米回应被印度没收48亿元](https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%8D%B0%E5%BA%A6%E6%B2%A1%E6%94%B648%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [夫妻合作换灯泡妻子全程驮着丈夫](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%90%88%E4%BD%9C%E6%8D%A2%E7%81%AF%E6%B3%A1%E5%A6%BB%E5%AD%90%E5%85%A8%E7%A8%8B%E9%A9%AE%E7%9D%80%E4%B8%88%E5%A4%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [高校男生被室友杀害 家属发声](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E7%94%B7%E7%94%9F%E8%A2%AB%E5%AE%A4%E5%8F%8B%E6%9D%80%E5%AE%B3+%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [Uzi赛后采访哭了](https://www.baidu.com/s?wd=Uzi%E8%B5%9B%E5%90%8E%E9%87%87%E8%AE%BF%E5%93%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [医生去世后手机还一直收到患者消息](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E5%8E%BB%E4%B8%96%E5%90%8E%E6%89%8B%E6%9C%BA%E8%BF%98%E4%B8%80%E7%9B%B4%E6%94%B6%E5%88%B0%E6%82%A3%E8%80%85%E6%B6%88%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [小米回应被印度没收48亿元](https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%8D%B0%E5%BA%A6%E6%B2%A1%E6%94%B648%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [夫妻合作换灯泡妻子全程驮着丈夫](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%90%88%E4%BD%9C%E6%8D%A2%E7%81%AF%E6%B3%A1%E5%A6%BB%E5%AD%90%E5%85%A8%E7%A8%8B%E9%A9%AE%E7%9D%80%E4%B8%88%E5%A4%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
