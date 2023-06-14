@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 00:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 00:03:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [宋仲基儿子出生](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BB%B2%E5%9F%BA%E5%84%BF%E5%AD%90%E5%87%BA%E7%94%9F%23&t=31&band_rank=6&Refer=top)<br />
 7. [关晓彤第一套vs第二套](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E7%AC%AC%E4%B8%80%E5%A5%97vs%E7%AC%AC%E4%BA%8C%E5%A5%97%23&t=31&band_rank=7&Refer=top)<br />
 8. [小猫咪独自去玩被猫妈骂了](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%8C%AB%E5%92%AA%E7%8B%AC%E8%87%AA%E5%8E%BB%E7%8E%A9%E8%A2%AB%E7%8C%AB%E5%A6%88%E9%AA%82%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [S属性大爆发](https://s.weibo.com/weibo?q=S%E5%B1%9E%E6%80%A7%E5%A4%A7%E7%88%86%E5%8F%91&t=31&band_rank=9&Refer=top)<br />
+9. [考古女生寄200斤洛阳铲装备吓坏父母](https://s.weibo.com/weibo?q=%23%E8%80%83%E5%8F%A4%E5%A5%B3%E7%94%9F%E5%AF%84200%E6%96%A4%E6%B4%9B%E9%98%B3%E9%93%B2%E8%A3%85%E5%A4%87%E5%90%93%E5%9D%8F%E7%88%B6%E6%AF%8D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
