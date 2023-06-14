@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 04:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 04:33:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [Uzi哭了](https://s.weibo.com/weibo?q=Uzi%E5%93%AD%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
 6. [宋仲基儿子出生](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BB%B2%E5%9F%BA%E5%84%BF%E5%AD%90%E5%87%BA%E7%94%9F%23&t=31&band_rank=6&Refer=top)<br />
 7. [小猫咪独自去玩被猫妈骂了](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%8C%AB%E5%92%AA%E7%8B%AC%E8%87%AA%E5%8E%BB%E7%8E%A9%E8%A2%AB%E7%8C%AB%E5%A6%88%E9%AA%82%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
-8. [上海](https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7&t=31&band_rank=8&Refer=top)<br />
-9. [温州近视司机深夜高速上镜片突然脱落](https://s.weibo.com/weibo?q=%23%E6%B8%A9%E5%B7%9E%E8%BF%91%E8%A7%86%E5%8F%B8%E6%9C%BA%E6%B7%B1%E5%A4%9C%E9%AB%98%E9%80%9F%E4%B8%8A%E9%95%9C%E7%89%87%E7%AA%81%E7%84%B6%E8%84%B1%E8%90%BD%23&t=31&band_rank=9&Refer=top)<br />
+8. [温州近视司机深夜高速上镜片突然脱落](https://s.weibo.com/weibo?q=%23%E6%B8%A9%E5%B7%9E%E8%BF%91%E8%A7%86%E5%8F%B8%E6%9C%BA%E6%B7%B1%E5%A4%9C%E9%AB%98%E9%80%9F%E4%B8%8A%E9%95%9C%E7%89%87%E7%AA%81%E7%84%B6%E8%84%B1%E8%90%BD%23&t=31&band_rank=8&Refer=top)<br />
+9. [上海](https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -34,7 +34,7 @@
 6. [丫丫最新干饭视频](https://www.baidu.com/s?wd=%E4%B8%AB%E4%B8%AB%E6%9C%80%E6%96%B0%E5%B9%B2%E9%A5%AD%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [奶奶带孙时邻居反馈“不像他爸”](https://www.baidu.com/s?wd=%E5%A5%B6%E5%A5%B6%E5%B8%A6%E5%AD%99%E6%97%B6%E9%82%BB%E5%B1%85%E5%8F%8D%E9%A6%88%E2%80%9C%E4%B8%8D%E5%83%8F%E4%BB%96%E7%88%B8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [小米回应被印度没收48亿元](https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%8D%B0%E5%BA%A6%E6%B2%A1%E6%94%B648%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子被战友骗进传销窝后失踪23年](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A2%AB%E6%88%98%E5%8F%8B%E9%AA%97%E8%BF%9B%E4%BC%A0%E9%94%80%E7%AA%9D%E5%90%8E%E5%A4%B1%E8%B8%AA23%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子中5976万彩票大奖 领奖时手哆嗦](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%AD5976%E4%B8%87%E5%BD%A9%E7%A5%A8%E5%A4%A7%E5%A5%96+%E9%A2%86%E5%A5%96%E6%97%B6%E6%89%8B%E5%93%86%E5%97%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [丫丫最新干饭视频](https://www.baidu.com/s?wd=%E4%B8%AB%E4%B8%AB%E6%9C%80%E6%96%B0%E5%B9%B2%E9%A5%AD%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [奶奶带孙时邻居反馈“不像他爸”](https://www.baidu.com/s?wd=%E5%A5%B6%E5%A5%B6%E5%B8%A6%E5%AD%99%E6%97%B6%E9%82%BB%E5%B1%85%E5%8F%8D%E9%A6%88%E2%80%9C%E4%B8%8D%E5%83%8F%E4%BB%96%E7%88%B8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [小米回应被印度没收48亿元](https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%8D%B0%E5%BA%A6%E6%B2%A1%E6%94%B648%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子被战友骗进传销窝后失踪23年](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A2%AB%E6%88%98%E5%8F%8B%E9%AA%97%E8%BF%9B%E4%BC%A0%E9%94%80%E7%AA%9D%E5%90%8E%E5%A4%B1%E8%B8%AA23%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子中5976万彩票大奖 领奖时手哆嗦](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%AD5976%E4%B8%87%E5%BD%A9%E7%A5%A8%E5%A4%A7%E5%A5%96+%E9%A2%86%E5%A5%96%E6%97%B6%E6%89%8B%E5%93%86%E5%97%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
