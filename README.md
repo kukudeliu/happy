@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 17:13:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 17:14:01</h4></div>
 
 > 微博  
 
 1. [梅西苏醒合影](https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF%E8%8B%8F%E9%86%92%E5%90%88%E5%BD%B1&t=31&band_rank=1&Refer=top)<br />
 2. [比Uzi还紧张](https://s.weibo.com/weibo?q=%E6%AF%94Uzi%E8%BF%98%E7%B4%A7%E5%BC%A0&t=31&band_rank=2&Refer=top)<br />
 3. [每一份献血都是生命的礼物](https://s.weibo.com/weibo?q=%23%E6%AF%8F%E4%B8%80%E4%BB%BD%E7%8C%AE%E8%A1%80%E9%83%BD%E6%98%AF%E7%94%9F%E5%91%BD%E7%9A%84%E7%A4%BC%E7%89%A9%23&t=31&band_rank=3&Refer=top)<br />
-4. [一批985毕业生选择主动延毕](https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%89%B9985%E6%AF%95%E4%B8%9A%E7%94%9F%E9%80%89%E6%8B%A9%E4%B8%BB%E5%8A%A8%E5%BB%B6%E6%AF%95%23&t=31&band_rank=4&Refer=top)<br />
-5. [德国同学把我的剩饭吃了](https://s.weibo.com/weibo?q=%E5%BE%B7%E5%9B%BD%E5%90%8C%E5%AD%A6%E6%8A%8A%E6%88%91%E7%9A%84%E5%89%A9%E9%A5%AD%E5%90%83%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
+4. [德国同学把我的剩饭吃了](https://s.weibo.com/weibo?q=%E5%BE%B7%E5%9B%BD%E5%90%8C%E5%AD%A6%E6%8A%8A%E6%88%91%E7%9A%84%E5%89%A9%E9%A5%AD%E5%90%83%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
+5. [一批985毕业生选择主动延毕](https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%89%B9985%E6%AF%95%E4%B8%9A%E7%94%9F%E9%80%89%E6%8B%A9%E4%B8%BB%E5%8A%A8%E5%BB%B6%E6%AF%95%23&t=31&band_rank=5&Refer=top)<br />
 6. [大学上了一半专业没了](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E4%B8%8A%E4%BA%86%E4%B8%80%E5%8D%8A%E4%B8%93%E4%B8%9A%E6%B2%A1%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [人民日报评地铁偷拍乌龙](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E5%9C%B0%E9%93%81%E5%81%B7%E6%8B%8D%E4%B9%8C%E9%BE%99%23&t=31&band_rank=7&Refer=top)<br />
 8. [张恒远去世](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%81%92%E8%BF%9C%E5%8E%BB%E4%B8%96%23&t=31&band_rank=8&Refer=top)<br />
