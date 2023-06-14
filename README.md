@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 13:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 13:19:01</h4></div>
 
 > 微博  
 
 1. [汪峰 毕夏你要坚强](https://s.weibo.com/weibo?q=%E6%B1%AA%E5%B3%B0%20%E6%AF%95%E5%A4%8F%E4%BD%A0%E8%A6%81%E5%9D%9A%E5%BC%BA&t=31&band_rank=1&Refer=top)<br />
-2. [任敏跳舞 孙莉](https://s.weibo.com/weibo?q=%E4%BB%BB%E6%95%8F%E8%B7%B3%E8%88%9E%20%E5%AD%99%E8%8E%89&t=31&band_rank=2&Refer=top)<br />
+2. [张恒远去世](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%81%92%E8%BF%9C%E5%8E%BB%E4%B8%96%23&t=31&band_rank=2&Refer=top)<br />
 3. [杭州迎亚运风光片](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E8%BF%8E%E4%BA%9A%E8%BF%90%E9%A3%8E%E5%85%89%E7%89%87%23&t=31&band_rank=3&Refer=top)<br />
-4. [张恒远去世](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%81%92%E8%BF%9C%E5%8E%BB%E4%B8%96%23&t=31&band_rank=4&Refer=top)<br />
+4. [任敏跳舞 孙莉](https://s.weibo.com/weibo?q=%E4%BB%BB%E6%95%8F%E8%B7%B3%E8%88%9E%20%E5%AD%99%E8%8E%89&t=31&band_rank=4&Refer=top)<br />
 5. [人民日报评地铁偷拍乌龙](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E5%9C%B0%E9%93%81%E5%81%B7%E6%8B%8D%E4%B9%8C%E9%BE%99%23&t=31&band_rank=5&Refer=top)<br />
 6. [医生去世后手机还一直收到患者消息](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E5%8E%BB%E4%B8%96%E5%90%8E%E6%89%8B%E6%9C%BA%E8%BF%98%E4%B8%80%E7%9B%B4%E6%94%B6%E5%88%B0%E6%82%A3%E8%80%85%E6%B6%88%E6%81%AF%23&t=31&band_rank=6&Refer=top)<br />
 7. [毕夏发讣告透露张恒远生前心愿](https://s.weibo.com/weibo?q=%23%E6%AF%95%E5%A4%8F%E5%8F%91%E8%AE%A3%E5%91%8A%E9%80%8F%E9%9C%B2%E5%BC%A0%E6%81%92%E8%BF%9C%E7%94%9F%E5%89%8D%E5%BF%83%E6%84%BF%23&t=31&band_rank=7&Refer=top)<br />
