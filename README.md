@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 12:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-14 12:46:01</h4></div>
 
 > 微博  
 
@@ -10,19 +10,19 @@
 6. [毕夏发讣告透露张恒远生前心愿](https://s.weibo.com/weibo?q=%23%E6%AF%95%E5%A4%8F%E5%8F%91%E8%AE%A3%E5%91%8A%E9%80%8F%E9%9C%B2%E5%BC%A0%E6%81%92%E8%BF%9C%E7%94%9F%E5%89%8D%E5%BF%83%E6%84%BF%23&t=31&band_rank=6&Refer=top)<br />
 7. [北动公布丫丫最新画面](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%8A%A8%E5%85%AC%E5%B8%83%E4%B8%AB%E4%B8%AB%E6%9C%80%E6%96%B0%E7%94%BB%E9%9D%A2%23&t=31&band_rank=7&Refer=top)<br />
 8. [赵露思 两次宝格丽造型](https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%20%E4%B8%A4%E6%AC%A1%E5%AE%9D%E6%A0%BC%E4%B8%BD%E9%80%A0%E5%9E%8B&t=31&band_rank=8&Refer=top)<br />
-9. [老伴去世老人挨个敲车窗求带看老房](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BC%B4%E5%8E%BB%E4%B8%96%E8%80%81%E4%BA%BA%E6%8C%A8%E4%B8%AA%E6%95%B2%E8%BD%A6%E7%AA%97%E6%B1%82%E5%B8%A6%E7%9C%8B%E8%80%81%E6%88%BF%23&t=31&band_rank=9&Refer=top)<br />
+9. [小米回应被印度没收48亿元](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%8D%B0%E5%BA%A6%E6%B2%A1%E6%94%B648%E4%BA%BF%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [哥伦比亚 4 名儿童坠机后丛林生存 40 天后获救，最大 13 岁，最小 1 岁，他们是如何做到的？](https://www.zhihu.com/question/605847291)<br />
 2. [天津居民楼爆炸致 3 死，嫌犯系利用烟花爆竹作案，如何从法律角度解读？](https://www.zhihu.com/question/606506953)<br />
-3. [为什么家里的长辈炒菜基本都会放葱姜蒜等调料，而对于年轻人它似乎变得可有可无？](https://www.zhihu.com/question/605464337)<br />
+3. [为什么家里的长辈炒菜基本都会放葱姜蒜等调料，而对于部分年轻人似乎变得可有可无？](https://www.zhihu.com/question/605464337)<br />
 4. [中办国办发文，其中明确发达地区不得从中西部地区、东北地区抢挖优秀校长和教师，将产生哪些积极影响？](https://www.zhihu.com/question/606427991)<br />
-5. [为什么有些网友 IP 属地显示为「中国」，而不是省市名？](https://www.zhihu.com/question/556052988)<br />
-6. [印度向中国手机制造商提新条件，要求印籍人士担任 CEO 等职位，分析称等于变相收购中企，如何看待此事？](https://www.zhihu.com/question/606514618)<br />
-7. [媒体报道，《中国好声音第二季》亚军张恒远去世，原因是得了黑色素瘤，什么是黑色素瘤？如何辨别？](https://www.zhihu.com/question/606511957)<br />
+5. [印度向中国手机制造商提新条件，要求印籍人士担任 CEO 等职位，分析称等于变相收购中企，如何看待此事？](https://www.zhihu.com/question/606514618)<br />
+6. [媒体报道，《中国好声音第二季》亚军张恒远去世，原因是得了黑色素瘤，什么是黑色素瘤？如何辨别？](https://www.zhihu.com/question/606511957)<br />
+7. [和男朋友同居，是我太计较了吗?](https://www.zhihu.com/question/606007032)<br />
 8. [美国将 31 家中国实体列入管制清单，外交部回应「歇斯底里、不择手段」，如何评价美方这一行为？](https://www.zhihu.com/question/606370209)<br />
-9. [和男朋友同居，是我太计较了吗?](https://www.zhihu.com/question/606007032)<br />
+9. [偷拍相关事件持续引发关注，偷拍行为根源何在？面对偷拍，哪些常见的方式需要提防？](https://www.zhihu.com/question/606509987)<br />
 
 > 百度  
 
