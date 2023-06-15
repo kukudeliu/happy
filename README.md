@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 14:15:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 14:16:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [相约2023杭州亚运会](https://s.weibo.com/weibo?q=%23%E7%9B%B8%E7%BA%A62023%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [新型不孝](https://s.weibo.com/weibo?q=%E6%96%B0%E5%9E%8B%E4%B8%8D%E5%AD%9D&t=31&band_rank=4&Refer=top)<br />
 5. [我国总共600多万青年人失业](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E6%80%BB%E5%85%B1600%E5%A4%9A%E4%B8%87%E9%9D%92%E5%B9%B4%E4%BA%BA%E5%A4%B1%E4%B8%9A%23&t=31&band_rank=5&Refer=top)<br />
-6. [女学霸边读研边兼职3年赚17万](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A6%E9%9C%B8%E8%BE%B9%E8%AF%BB%E7%A0%94%E8%BE%B9%E5%85%BC%E8%81%8C3%E5%B9%B4%E8%B5%9A17%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
-7. [谢娜再去已是嘉宾](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E5%86%8D%E5%8E%BB%E5%B7%B2%E6%98%AF%E5%98%89%E5%AE%BE%23&t=31&band_rank=7&Refer=top)<br />
+6. [谢娜再去已是嘉宾](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E5%86%8D%E5%8E%BB%E5%B7%B2%E6%98%AF%E5%98%89%E5%AE%BE%23&t=31&band_rank=6&Refer=top)<br />
+7. [女学霸边读研边兼职3年赚17万](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A6%E9%9C%B8%E8%BE%B9%E8%AF%BB%E7%A0%94%E8%BE%B9%E5%85%BC%E8%81%8C3%E5%B9%B4%E8%B5%9A17%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [同学说我不去椰树可惜了](https://s.weibo.com/weibo?q=%E5%90%8C%E5%AD%A6%E8%AF%B4%E6%88%91%E4%B8%8D%E5%8E%BB%E6%A4%B0%E6%A0%91%E5%8F%AF%E6%83%9C%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
 9. [澳门音乐节 退款](https://s.weibo.com/weibo?q=%E6%BE%B3%E9%97%A8%E9%9F%B3%E4%B9%90%E8%8A%82%20%E9%80%80%E6%AC%BE&t=31&band_rank=9&Refer=top)<br />
 
@@ -17,12 +17,12 @@
 1. [跳桥救人外卖小哥获多方奖励，平台奖励五万元并为其申请免费上大学，基金会奖励三万元，具有哪些积极意义？](https://www.zhihu.com/question/606578224)<br />
 2. [人类所谓的「回光返照」现象，能否说明人体的某一部分能预测死亡？](https://www.zhihu.com/question/604924796)<br />
 3. [国家统计局表示五月国民经济继续恢复，其中 16-24 岁劳动力调查失业率 20.8%，如何解读？](https://www.zhihu.com/question/606724950)<br />
-4. [中国与巴勒斯坦建立战略伙伴关系，具有怎样的意义？](https://www.zhihu.com/question/606588484)<br />
-5. [比尔·盖茨发文称已抵达北京，系 3 年多来首次访华，有哪些信息值得关注？](https://www.zhihu.com/question/606659062)<br />
-6. [阿根廷中国赛主办方发声致歉，称第一次办赛确实有业余的地方，有哪些信息值得关注？](https://www.zhihu.com/question/606707001)<br />
+4. [比尔·盖茨发文称已抵达北京，系 3 年多来首次访华，有哪些信息值得关注？](https://www.zhihu.com/question/606659062)<br />
+5. [阿根廷中国赛主办方发声致歉，称第一次办赛确实有业余的地方，有哪些信息值得关注？](https://www.zhihu.com/question/606707001)<br />
+6. [中国与巴勒斯坦建立战略伙伴关系，具有怎样的意义？](https://www.zhihu.com/question/606588484)<br />
 7. [巴黎灭鼠计划失败，政府将成立专门机构研究「人类与老鼠共存」，全市约有 600 万老鼠，如何看待此事？](https://www.zhihu.com/question/606715659)<br />
-8. [男朋友不支持我滑雪怎么办？](https://www.zhihu.com/question/605791470)<br />
-9. [人社部表示「我国人口红利没有消失，新的人才红利正在形成」，哪些信息值得关注？](https://www.zhihu.com/question/606658603)<br />
+8. [人社部表示「我国人口红利没有消失，新的人才红利正在形成」，哪些信息值得关注？](https://www.zhihu.com/question/606658603)<br />
+9. [复旦等 26 家单位联合完成研究「首次揭示中国人基因组中隐藏特殊基因序列」，这对我国基因研究有何启发？](https://www.zhihu.com/question/606708628)<br />
 
 > 百度  
 
