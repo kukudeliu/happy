@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 10:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 10:24:01</h4></div>
 
 > 微博  
 
@@ -8,15 +8,15 @@
 4. [鱼头星星回来了](https://s.weibo.com/weibo?q=%E9%B1%BC%E5%A4%B4%E6%98%9F%E6%98%9F%E5%9B%9E%E6%9D%A5%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
 5. [迪士尼回应女子穿联名汉服被拦](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E7%A9%BF%E8%81%94%E5%90%8D%E6%B1%89%E6%9C%8D%E8%A2%AB%E6%8B%A6%23&t=31&band_rank=5&Refer=top)<br />
 6. [S属性大爆发](https://s.weibo.com/weibo?q=S%E5%B1%9E%E6%80%A7%E5%A4%A7%E7%88%86%E5%8F%91&t=31&band_rank=6&Refer=top)<br />
-7. [张晚意说我是杨紫她哥](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%99%9A%E6%84%8F%E8%AF%B4%E6%88%91%E6%98%AF%E6%9D%A8%E7%B4%AB%E5%A5%B9%E5%93%A5%23&t=31&band_rank=7&Refer=top)<br />
-8. [上厕所时千万不要蹲在马桶上](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E5%8E%95%E6%89%80%E6%97%B6%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E8%B9%B2%E5%9C%A8%E9%A9%AC%E6%A1%B6%E4%B8%8A%23&t=31&band_rank=8&Refer=top)<br />
+7. [上厕所时千万不要蹲在马桶上](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E5%8E%95%E6%89%80%E6%97%B6%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E8%B9%B2%E5%9C%A8%E9%A9%AC%E6%A1%B6%E4%B8%8A%23&t=31&band_rank=7&Refer=top)<br />
+8. [张晚意说我是杨紫她哥](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%99%9A%E6%84%8F%E8%AF%B4%E6%88%91%E6%98%AF%E6%9D%A8%E7%B4%AB%E5%A5%B9%E5%93%A5%23&t=31&band_rank=8&Refer=top)<br />
 9. [杨幂卷发军装路透](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%8D%B7%E5%8F%91%E5%86%9B%E8%A3%85%E8%B7%AF%E9%80%8F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [如何看待江西 987 户业主因烂尾停贷被银行起诉？如遇烂尾楼业主该如何维护自身权益、减少损失？](https://www.zhihu.com/question/606249895)<br />
-2. [美国国务卿布林肯将于 6 月 18 日至 19 日访华，此行有哪些目的？对中美关系会产生哪些影响？](https://www.zhihu.com/question/606641194)<br />
-3. [江西一中学生被老师掌掴后还手，学校回应称「一时冲动，已处理完」，如何评价师生行为，老师会面临什么处罚？](https://www.zhihu.com/question/606355810)<br />
+2. [江西一中学生被老师掌掴后还手，学校回应称「一时冲动，已处理完」，如何评价师生行为，老师会面临什么处罚？](https://www.zhihu.com/question/606355810)<br />
+3. [美国国务卿布林肯将于 6 月 18 日至 19 日访华，此行有哪些目的？对中美关系会产生哪些影响？](https://www.zhihu.com/question/606641194)<br />
 4. [跳桥救人外卖小哥获多方奖励，平台奖励五万元并为其申请免费上大学，基金会奖励三万元，具有哪些积极意义？](https://www.zhihu.com/question/606578224)<br />
 5. [6 月 15 日凌晨上海青浦区发生 3.1 级地震，哪些地方有震感？有哪些地震自救小常识可以分享？](https://www.zhihu.com/question/606684158)<br />
 6. [美国继英国后也拟向乌克兰提供贫铀弹，如何看待这一举措？将把乌克兰危机引向何方？](https://www.zhihu.com/question/606528634)<br />
