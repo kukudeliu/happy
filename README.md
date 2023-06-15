@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 08:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 08:39:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [宋仲基儿子出生](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BB%B2%E5%9F%BA%E5%84%BF%E5%AD%90%E5%87%BA%E7%94%9F%23&t=31&band_rank=6&Refer=top)<br />
 7. [考古女生寄200斤洛阳铲装备吓坏父母](https://s.weibo.com/weibo?q=%23%E8%80%83%E5%8F%A4%E5%A5%B3%E7%94%9F%E5%AF%84200%E6%96%A4%E6%B4%9B%E9%98%B3%E9%93%B2%E8%A3%85%E5%A4%87%E5%90%93%E5%9D%8F%E7%88%B6%E6%AF%8D%23&t=31&band_rank=7&Refer=top)<br />
 8. [家属回应女子被丈夫跨省杀害](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E5%B1%9E%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E8%A2%AB%E4%B8%88%E5%A4%AB%E8%B7%A8%E7%9C%81%E6%9D%80%E5%AE%B3%23&t=31&band_rank=8&Refer=top)<br />
-9. [上海青浦区发生3.1级地震](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E9%9D%92%E6%B5%A6%E5%8C%BA%E5%8F%91%E7%94%9F3.1%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=9&Refer=top)<br />
+9. [鱼头星星回来了](https://s.weibo.com/weibo?q=%E9%B1%BC%E5%A4%B4%E6%98%9F%E6%98%9F%E5%9B%9E%E6%9D%A5%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. []()<br />
 7. [有哪些好的 211 大学？](https://www.zhihu.com/question/345841651)<br />
 8. []()<br />
-9. []()<br />
+9. [人类为何不大规模训练猴子做「流水线工人」?](https://www.zhihu.com/question/597376599)<br />
 
 > 百度  
 
