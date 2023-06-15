@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 11:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 11:38:01</h4></div>
 
 > 微博  
 
@@ -6,10 +6,10 @@
 2. [澳门音乐节 退款](https://s.weibo.com/weibo?q=%E6%BE%B3%E9%97%A8%E9%9F%B3%E4%B9%90%E8%8A%82%20%E9%80%80%E6%AC%BE&t=31&band_rank=2&Refer=top)<br />
 3. [相约2023杭州亚运会](https://s.weibo.com/weibo?q=%23%E7%9B%B8%E7%BA%A62023%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [张晚意说我是杨紫她哥](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%99%9A%E6%84%8F%E8%AF%B4%E6%88%91%E6%98%AF%E6%9D%A8%E7%B4%AB%E5%A5%B9%E5%93%A5%23&t=31&band_rank=4&Refer=top)<br />
-5. [赵丽颖 陌森](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%20%E9%99%8C%E6%A3%AE&t=31&band_rank=5&Refer=top)<br />
-6. [鱼头星星回来了](https://s.weibo.com/weibo?q=%E9%B1%BC%E5%A4%B4%E6%98%9F%E6%98%9F%E5%9B%9E%E6%9D%A5%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
-7. [House脱口秀演出剧院被罚10万](https://s.weibo.com/weibo?q=%23House%E8%84%B1%E5%8F%A3%E7%A7%80%E6%BC%94%E5%87%BA%E5%89%A7%E9%99%A2%E8%A2%AB%E7%BD%9A10%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
-8. [上海地震](https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%9C%87&t=31&band_rank=8&Refer=top)<br />
+5. [鱼头星星回来了](https://s.weibo.com/weibo?q=%E9%B1%BC%E5%A4%B4%E6%98%9F%E6%98%9F%E5%9B%9E%E6%9D%A5%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
+6. [House脱口秀演出剧院被罚10万](https://s.weibo.com/weibo?q=%23House%E8%84%B1%E5%8F%A3%E7%A7%80%E6%BC%94%E5%87%BA%E5%89%A7%E9%99%A2%E8%A2%AB%E7%BD%9A10%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
+7. [上海地震](https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%9C%87&t=31&band_rank=7&Refer=top)<br />
+8. [RNG老板澄清Uzi退役谣言](https://s.weibo.com/weibo?q=%23RNG%E8%80%81%E6%9D%BF%E6%BE%84%E6%B8%85Uzi%E9%80%80%E5%BD%B9%E8%B0%A3%E8%A8%80%23&t=31&band_rank=8&Refer=top)<br />
 9. [包丽案被告人一审被判3年2个月](https://s.weibo.com/weibo?q=%23%E5%8C%85%E4%B8%BD%E6%A1%88%E8%A2%AB%E5%91%8A%E4%BA%BA%E4%B8%80%E5%AE%A1%E8%A2%AB%E5%88%A43%E5%B9%B42%E4%B8%AA%E6%9C%88%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
