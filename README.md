@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 17:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 17:27:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [李想发文「问界 M7 曾打残理想爆款车型理想 ONE，后转向全面学习华为」，哪些信息值得关注？](https://www.zhihu.com/question/606564942)<br />
 7. [如果你携带了 1 公斤甲基紫穿越到古罗马，如何最大化你的收益？](https://www.zhihu.com/question/605462076)<br />
 8. [如果你是《夏洛特烦恼》中的人，你认为夏洛和周杰伦谁更厉害？](https://www.zhihu.com/question/604747717)<br />
-9. [阿根廷中国赛主办方发声致歉，称第一次办赛确实有业余的地方，有哪些信息值得关注？](https://www.zhihu.com/question/606707001)<br />
+9. [同事建了没有领导的群组被发现了，该怎么办？](https://www.zhihu.com/question/382252148)<br />
 
 > 百度  
 
