@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 23:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 23:03:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [苏醒见完梅西偶遇来迟的薛之谦](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%E8%A7%81%E5%AE%8C%E6%A2%85%E8%A5%BF%E5%81%B6%E9%81%87%E6%9D%A5%E8%BF%9F%E7%9A%84%E8%96%9B%E4%B9%8B%E8%B0%A6%23&t=31&band_rank=6&Refer=top)<br />
 7. [朱珠浪姐结束后去HEC上学了](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E7%8F%A0%E6%B5%AA%E5%A7%90%E7%BB%93%E6%9D%9F%E5%90%8E%E5%8E%BBHEC%E4%B8%8A%E5%AD%A6%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [梅西过人好牛](https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF%E8%BF%87%E4%BA%BA%E5%A5%BD%E7%89%9B&t=31&band_rank=8&Refer=top)<br />
-9. [自己供自己上了四年的大学](https://s.weibo.com/weibo?q=%23%E8%87%AA%E5%B7%B1%E4%BE%9B%E8%87%AA%E5%B7%B1%E4%B8%8A%E4%BA%86%E5%9B%9B%E5%B9%B4%E7%9A%84%E5%A4%A7%E5%AD%A6%23&t=31&band_rank=9&Refer=top)<br />
+9. [贾乃亮黄景瑜评论区互怼](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E4%B9%83%E4%BA%AE%E9%BB%84%E6%99%AF%E7%91%9C%E8%AF%84%E8%AE%BA%E5%8C%BA%E4%BA%92%E6%80%BC%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -18,8 +18,8 @@
 2. [日剧女神广末凉子承认出轨 45 岁已婚米其林大厨，向公众道歉并无限期停工，如何看待此事？](https://www.zhihu.com/question/606579409)<br />
 3. [杨丽萍回应孔雀舞惹不雅争议「近乎赤裸符合剧情，羽毛脱落是为了自由」，如何评价？怎样把握舞台尺度？](https://www.zhihu.com/question/606793449)<br />
 4. [前卡车司机为卡友定制「卡车床垫」，短视频发布之后「电话被打爆」，为何类似需求和商机一直以来没被看见？](https://www.zhihu.com/question/606211544)<br />
-5. [印度向小米发出正式通知，48 亿元或被印度没收，哪些信息值得关注？](https://www.zhihu.com/question/606368662)<br />
-6. [友谊赛阿根廷 2:0 澳大利亚，5 万人现场见证梅西 81 秒破门创生涯纪录，对这场比赛如何评价？](https://www.zhihu.com/question/606729340)<br />
+5. [友谊赛阿根廷 2:0 澳大利亚，5 万人现场见证梅西 81 秒破门创生涯纪录，对这场比赛如何评价？](https://www.zhihu.com/question/606729340)<br />
+6. [印度向小米发出正式通知，48 亿元或被印度没收，哪些信息值得关注？](https://www.zhihu.com/question/606368662)<br />
 7. [你的大学食堂有多贵？](https://www.zhihu.com/question/426716508)<br />
 8. [阿根廷 vs 澳大利亚现场有球迷冲进场拥抱梅西，被安保抬走，如何看待此行为？](https://www.zhihu.com/question/606862192)<br />
 9. [欧洲议会表决支持乌克兰加入北约，这将对俄乌局势产生什么影响？](https://www.zhihu.com/question/606845963)<br />
