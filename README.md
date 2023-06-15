@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 21:38:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 21:39:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [阿根廷vs澳大利亚](https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7vs%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%23&t=31&band_rank=6&Refer=top)<br />
 7. [苏醒 我离梅西好远](https://s.weibo.com/weibo?q=%E8%8B%8F%E9%86%92%20%E6%88%91%E7%A6%BB%E6%A2%85%E8%A5%BF%E5%A5%BD%E8%BF%9C&t=31&band_rank=7&Refer=top)<br />
 8. [阿根廷半场1比0澳大利亚](https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%8D%8A%E5%9C%BA1%E6%AF%940%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A&t=31&band_rank=8&Refer=top)<br />
-9. [成毅坐轮椅直播](https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E5%9D%90%E8%BD%AE%E6%A4%85%E7%9B%B4%E6%92%AD%23&t=31&band_rank=9&Refer=top)<br />
+9. [贾乃亮黄景瑜评论区互怼](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E4%B9%83%E4%BA%AE%E9%BB%84%E6%99%AF%E7%91%9C%E8%AF%84%E8%AE%BA%E5%8C%BA%E4%BA%92%E6%80%BC%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -20,8 +20,8 @@
 4. [印度向小米发出正式通知，48 亿元或被印度没收，哪些信息值得关注？](https://www.zhihu.com/question/606368662)<br />
 5. [韩国房价暴跌，背后与美联储加息关系有多大？](https://www.zhihu.com/theater/13920)<br />
 6. [杨丽萍回应孔雀舞惹不雅争议「近乎赤裸符合剧情，羽毛脱落是为了自由」，如何评价？怎样把握舞台尺度？](https://www.zhihu.com/question/606793449)<br />
-7. [跳桥救人外卖小哥获多方奖励，平台奖励五万元并为其申请免费上大学，基金会奖励三万元，具有哪些积极意义？](https://www.zhihu.com/question/606578224)<br />
-8. [18 岁日本陆自队员用自动步枪射击队友致 1 死 2 伤，具体情况如何？](https://www.zhihu.com/question/606539482)<br />
+7. [18 岁日本陆自队员用自动步枪射击队友致 1 死 2 伤，具体情况如何？](https://www.zhihu.com/question/606539482)<br />
+8. [跳桥救人外卖小哥获多方奖励，平台奖励五万元并为其申请免费上大学，基金会奖励三万元，具有哪些积极意义？](https://www.zhihu.com/question/606578224)<br />
 9. [前卡车司机为卡友定制「卡车床垫」，短视频发布之后「电话被打爆」，为何类似需求和商机一直以来没被看见？](https://www.zhihu.com/question/606211544)<br />
 
 > 百度  
@@ -32,8 +32,8 @@
 4. [文明之光点燃亚运之火](https://www.baidu.com/s?wd=%E6%96%87%E6%98%8E%E4%B9%8B%E5%85%89%E7%82%B9%E7%87%83%E4%BA%9A%E8%BF%90%E4%B9%8B%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [顾客吐槽海底捞8块钱生菜仅2片](https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E5%90%90%E6%A7%BD%E6%B5%B7%E5%BA%95%E6%8D%9E8%E5%9D%97%E9%92%B1%E7%94%9F%E8%8F%9C%E4%BB%852%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女导游穿紧身裤被质疑色情营销](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AF%BC%E6%B8%B8%E7%A9%BF%E7%B4%A7%E8%BA%AB%E8%A3%A4%E8%A2%AB%E8%B4%A8%E7%96%91%E8%89%B2%E6%83%85%E8%90%A5%E9%94%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [特殊教育学校校长性侵多名残障学生](https://www.baidu.com/s?wd=%E7%89%B9%E6%AE%8A%E6%95%99%E8%82%B2%E5%AD%A6%E6%A0%A1%E6%A0%A1%E9%95%BF%E6%80%A7%E4%BE%B5%E5%A4%9A%E5%90%8D%E6%AE%8B%E9%9A%9C%E5%AD%A6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子遭50岁男邻居趴地偷窥1年](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%81%AD50%E5%B2%81%E7%94%B7%E9%82%BB%E5%B1%85%E8%B6%B4%E5%9C%B0%E5%81%B7%E7%AA%A51%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子遭50岁男邻居趴地偷窥1年](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%81%AD50%E5%B2%81%E7%94%B7%E9%82%BB%E5%B1%85%E8%B6%B4%E5%9C%B0%E5%81%B7%E7%AA%A51%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [特殊教育学校校长性侵多名残障学生](https://www.baidu.com/s?wd=%E7%89%B9%E6%AE%8A%E6%95%99%E8%82%B2%E5%AD%A6%E6%A0%A1%E6%A0%A1%E9%95%BF%E6%80%A7%E4%BE%B5%E5%A4%9A%E5%90%8D%E6%AE%8B%E9%9A%9C%E5%AD%A6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [贾乃亮黄景瑜评论区互怼](https://www.baidu.com/s?wd=%E8%B4%BE%E4%B9%83%E4%BA%AE%E9%BB%84%E6%99%AF%E7%91%9C%E8%AF%84%E8%AE%BA%E5%8C%BA%E4%BA%92%E6%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -44,6 +44,6 @@
 4. [文明之光点燃亚运之火](https://www.baidu.com/s?wd=%E6%96%87%E6%98%8E%E4%B9%8B%E5%85%89%E7%82%B9%E7%87%83%E4%BA%9A%E8%BF%90%E4%B9%8B%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [顾客吐槽海底捞8块钱生菜仅2片](https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E5%90%90%E6%A7%BD%E6%B5%B7%E5%BA%95%E6%8D%9E8%E5%9D%97%E9%92%B1%E7%94%9F%E8%8F%9C%E4%BB%852%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女导游穿紧身裤被质疑色情营销](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AF%BC%E6%B8%B8%E7%A9%BF%E7%B4%A7%E8%BA%AB%E8%A3%A4%E8%A2%AB%E8%B4%A8%E7%96%91%E8%89%B2%E6%83%85%E8%90%A5%E9%94%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [特殊教育学校校长性侵多名残障学生](https://www.baidu.com/s?wd=%E7%89%B9%E6%AE%8A%E6%95%99%E8%82%B2%E5%AD%A6%E6%A0%A1%E6%A0%A1%E9%95%BF%E6%80%A7%E4%BE%B5%E5%A4%9A%E5%90%8D%E6%AE%8B%E9%9A%9C%E5%AD%A6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子遭50岁男邻居趴地偷窥1年](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%81%AD50%E5%B2%81%E7%94%B7%E9%82%BB%E5%B1%85%E8%B6%B4%E5%9C%B0%E5%81%B7%E7%AA%A51%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子遭50岁男邻居趴地偷窥1年](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%81%AD50%E5%B2%81%E7%94%B7%E9%82%BB%E5%B1%85%E8%B6%B4%E5%9C%B0%E5%81%B7%E7%AA%A51%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [特殊教育学校校长性侵多名残障学生](https://www.baidu.com/s?wd=%E7%89%B9%E6%AE%8A%E6%95%99%E8%82%B2%E5%AD%A6%E6%A0%A1%E6%A0%A1%E9%95%BF%E6%80%A7%E4%BE%B5%E5%A4%9A%E5%90%8D%E6%AE%8B%E9%9A%9C%E5%AD%A6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [贾乃亮黄景瑜评论区互怼](https://www.baidu.com/s?wd=%E8%B4%BE%E4%B9%83%E4%BA%AE%E9%BB%84%E6%99%AF%E7%91%9C%E8%AF%84%E8%AE%BA%E5%8C%BA%E4%BA%92%E6%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
