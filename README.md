@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 08:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 08:19:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [上厕所时千万不要蹲在马桶上](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E5%8E%95%E6%89%80%E6%97%B6%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E8%B9%B2%E5%9C%A8%E9%A9%AC%E6%A1%B6%E4%B8%8A%23&t=31&band_rank=4&Refer=top)<br />
 5. [家属回应女子被丈夫跨省杀害](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E5%B1%9E%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E8%A2%AB%E4%B8%88%E5%A4%AB%E8%B7%A8%E7%9C%81%E6%9D%80%E5%AE%B3%23&t=31&band_rank=5&Refer=top)<br />
 6. [宋仲基儿子出生](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BB%B2%E5%9F%BA%E5%84%BF%E5%AD%90%E5%87%BA%E7%94%9F%23&t=31&band_rank=6&Refer=top)<br />
-7. [上海青浦区发生3.1级地震](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E9%9D%92%E6%B5%A6%E5%8C%BA%E5%8F%91%E7%94%9F3.1%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=7&Refer=top)<br />
-8. [韩国摄影师在廉租房生活拍摄3年](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E6%91%84%E5%BD%B1%E5%B8%88%E5%9C%A8%E5%BB%89%E7%A7%9F%E6%88%BF%E7%94%9F%E6%B4%BB%E6%8B%8D%E6%91%843%E5%B9%B4&t=31&band_rank=8&Refer=top)<br />
+7. [韩国摄影师在廉租房生活拍摄3年](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E6%91%84%E5%BD%B1%E5%B8%88%E5%9C%A8%E5%BB%89%E7%A7%9F%E6%88%BF%E7%94%9F%E6%B4%BB%E6%8B%8D%E6%91%843%E5%B9%B4&t=31&band_rank=7&Refer=top)<br />
+8. [上海青浦区发生3.1级地震](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E9%9D%92%E6%B5%A6%E5%8C%BA%E5%8F%91%E7%94%9F3.1%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=8&Refer=top)<br />
 9. [S属性大爆发](https://s.weibo.com/weibo?q=S%E5%B1%9E%E6%80%A7%E5%A4%A7%E7%88%86%E5%8F%91&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -22,7 +22,7 @@
 6. []()<br />
 7. [有哪些好的 211 大学？](https://www.zhihu.com/question/345841651)<br />
 8. []()<br />
-9. [庶次子立下拯救天下的功劳能否继承皇位?](https://www.zhihu.com/question/600936013)<br />
+9. [如何看待《请严肃地告诉孩子：学习肯定苦，所有人都一样！》这篇文章？](https://www.zhihu.com/question/606593393)<br />
 
 > 百度  
 
@@ -33,8 +33,8 @@
 5. [比尔·盖茨抵达北京](https://www.baidu.com/s?wd=%E6%AF%94%E5%B0%94%C2%B7%E7%9B%96%E8%8C%A8%E6%8A%B5%E8%BE%BE%E5%8C%97%E4%BA%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [冯小刚多年的白癜风“消失”了](https://www.baidu.com/s?wd=%E5%86%AF%E5%B0%8F%E5%88%9A%E5%A4%9A%E5%B9%B4%E7%9A%84%E7%99%BD%E7%99%9C%E9%A3%8E%E2%80%9C%E6%B6%88%E5%A4%B1%E2%80%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [宋仲基儿子出生](https://www.baidu.com/s?wd=%E5%AE%8B%E4%BB%B2%E5%9F%BA%E5%84%BF%E5%AD%90%E5%87%BA%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [跳河救人小哥被奖8万 免费上大学](https://www.baidu.com/s?wd=%E8%B7%B3%E6%B2%B3%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E8%A2%AB%E5%A5%968%E4%B8%87+%E5%85%8D%E8%B4%B9%E4%B8%8A%E5%A4%A7%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [河北师范大学一男生穿女装进女浴室](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E4%B8%80%E7%94%B7%E7%94%9F%E7%A9%BF%E5%A5%B3%E8%A3%85%E8%BF%9B%E5%A5%B3%E6%B5%B4%E5%AE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [日本化学品加工厂爆炸](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%8C%96%E5%AD%A6%E5%93%81%E5%8A%A0%E5%B7%A5%E5%8E%82%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [跳河救人小哥被奖8万 免费上大学](https://www.baidu.com/s?wd=%E8%B7%B3%E6%B2%B3%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E8%A2%AB%E5%A5%968%E4%B8%87+%E5%85%8D%E8%B4%B9%E4%B8%8A%E5%A4%A7%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [比尔·盖茨抵达北京](https://www.baidu.com/s?wd=%E6%AF%94%E5%B0%94%C2%B7%E7%9B%96%E8%8C%A8%E6%8A%B5%E8%BE%BE%E5%8C%97%E4%BA%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [冯小刚多年的白癜风“消失”了](https://www.baidu.com/s?wd=%E5%86%AF%E5%B0%8F%E5%88%9A%E5%A4%9A%E5%B9%B4%E7%9A%84%E7%99%BD%E7%99%9C%E9%A3%8E%E2%80%9C%E6%B6%88%E5%A4%B1%E2%80%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [宋仲基儿子出生](https://www.baidu.com/s?wd=%E5%AE%8B%E4%BB%B2%E5%9F%BA%E5%84%BF%E5%AD%90%E5%87%BA%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [跳河救人小哥被奖8万 免费上大学](https://www.baidu.com/s?wd=%E8%B7%B3%E6%B2%B3%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E8%A2%AB%E5%A5%968%E4%B8%87+%E5%85%8D%E8%B4%B9%E4%B8%8A%E5%A4%A7%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [河北师范大学一男生穿女装进女浴室](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E4%B8%80%E7%94%B7%E7%94%9F%E7%A9%BF%E5%A5%B3%E8%A3%85%E8%BF%9B%E5%A5%B3%E6%B5%B4%E5%AE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [日本化学品加工厂爆炸](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%8C%96%E5%AD%A6%E5%93%81%E5%8A%A0%E5%B7%A5%E5%8E%82%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [跳河救人小哥被奖8万 免费上大学](https://www.baidu.com/s?wd=%E8%B7%B3%E6%B2%B3%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E8%A2%AB%E5%A5%968%E4%B8%87+%E5%85%8D%E8%B4%B9%E4%B8%8A%E5%A4%A7%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
