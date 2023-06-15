@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 18:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 18:40:01</h4></div>
 
 > 微博  
 
@@ -30,11 +30,11 @@
 2. [新华书店真不差钱 营收仍上千亿](https://www.baidu.com/s?wd=%E6%96%B0%E5%8D%8E%E4%B9%A6%E5%BA%97%E7%9C%9F%E4%B8%8D%E5%B7%AE%E9%92%B1+%E8%90%A5%E6%94%B6%E4%BB%8D%E4%B8%8A%E5%8D%83%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [杨丽萍回应舞者造型被指不雅](https://www.baidu.com/s?wd=%E6%9D%A8%E4%B8%BD%E8%90%8D%E5%9B%9E%E5%BA%94%E8%88%9E%E8%80%85%E9%80%A0%E5%9E%8B%E8%A2%AB%E6%8C%87%E4%B8%8D%E9%9B%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [文明之光点燃亚运之火](https://www.baidu.com/s?wd=%E6%96%87%E6%98%8E%E4%B9%8B%E5%85%89%E7%82%B9%E7%87%83%E4%BA%9A%E8%BF%90%E4%B9%8B%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [肯德基广告被指蹭偷拍事件热点](https://www.baidu.com/s?wd=%E8%82%AF%E5%BE%B7%E5%9F%BA%E5%B9%BF%E5%91%8A%E8%A2%AB%E6%8C%87%E8%B9%AD%E5%81%B7%E6%8B%8D%E4%BA%8B%E4%BB%B6%E7%83%AD%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [偷杏女子向老人道歉:干的太不是人事](https://www.baidu.com/s?wd=%E5%81%B7%E6%9D%8F%E5%A5%B3%E5%AD%90%E5%90%91%E8%80%81%E4%BA%BA%E9%81%93%E6%AD%89%3A%E5%B9%B2%E7%9A%84%E5%A4%AA%E4%B8%8D%E6%98%AF%E4%BA%BA%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [北京工体梅西含量超标](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%B7%A5%E4%BD%93%E6%A2%85%E8%A5%BF%E5%90%AB%E9%87%8F%E8%B6%85%E6%A0%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [多地用户遭遇送礼变贷款陷阱](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E7%94%A8%E6%88%B7%E9%81%AD%E9%81%87%E9%80%81%E7%A4%BC%E5%8F%98%E8%B4%B7%E6%AC%BE%E9%99%B7%E9%98%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [杨颖代言丸美3年2400万](https://www.baidu.com/s?wd=%E6%9D%A8%E9%A2%96%E4%BB%A3%E8%A8%80%E4%B8%B8%E7%BE%8E3%E5%B9%B42400%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [偷杏女子向老人道歉:干的太不是人事](https://www.baidu.com/s?wd=%E5%81%B7%E6%9D%8F%E5%A5%B3%E5%AD%90%E5%90%91%E8%80%81%E4%BA%BA%E9%81%93%E6%AD%89%3A%E5%B9%B2%E7%9A%84%E5%A4%AA%E4%B8%8D%E6%98%AF%E4%BA%BA%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [网传李嘉诚近日现身杭州](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E6%9D%8E%E5%98%89%E8%AF%9A%E8%BF%91%E6%97%A5%E7%8E%B0%E8%BA%AB%E6%9D%AD%E5%B7%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -42,8 +42,8 @@
 2. [新华书店真不差钱 营收仍上千亿](https://www.baidu.com/s?wd=%E6%96%B0%E5%8D%8E%E4%B9%A6%E5%BA%97%E7%9C%9F%E4%B8%8D%E5%B7%AE%E9%92%B1+%E8%90%A5%E6%94%B6%E4%BB%8D%E4%B8%8A%E5%8D%83%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [杨丽萍回应舞者造型被指不雅](https://www.baidu.com/s?wd=%E6%9D%A8%E4%B8%BD%E8%90%8D%E5%9B%9E%E5%BA%94%E8%88%9E%E8%80%85%E9%80%A0%E5%9E%8B%E8%A2%AB%E6%8C%87%E4%B8%8D%E9%9B%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [文明之光点燃亚运之火](https://www.baidu.com/s?wd=%E6%96%87%E6%98%8E%E4%B9%8B%E5%85%89%E7%82%B9%E7%87%83%E4%BA%9A%E8%BF%90%E4%B9%8B%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [肯德基广告被指蹭偷拍事件热点](https://www.baidu.com/s?wd=%E8%82%AF%E5%BE%B7%E5%9F%BA%E5%B9%BF%E5%91%8A%E8%A2%AB%E6%8C%87%E8%B9%AD%E5%81%B7%E6%8B%8D%E4%BA%8B%E4%BB%B6%E7%83%AD%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [偷杏女子向老人道歉:干的太不是人事](https://www.baidu.com/s?wd=%E5%81%B7%E6%9D%8F%E5%A5%B3%E5%AD%90%E5%90%91%E8%80%81%E4%BA%BA%E9%81%93%E6%AD%89%3A%E5%B9%B2%E7%9A%84%E5%A4%AA%E4%B8%8D%E6%98%AF%E4%BA%BA%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [北京工体梅西含量超标](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%B7%A5%E4%BD%93%E6%A2%85%E8%A5%BF%E5%90%AB%E9%87%8F%E8%B6%85%E6%A0%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [多地用户遭遇送礼变贷款陷阱](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E7%94%A8%E6%88%B7%E9%81%AD%E9%81%87%E9%80%81%E7%A4%BC%E5%8F%98%E8%B4%B7%E6%AC%BE%E9%99%B7%E9%98%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [杨颖代言丸美3年2400万](https://www.baidu.com/s?wd=%E6%9D%A8%E9%A2%96%E4%BB%A3%E8%A8%80%E4%B8%B8%E7%BE%8E3%E5%B9%B42400%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [偷杏女子向老人道歉:干的太不是人事](https://www.baidu.com/s?wd=%E5%81%B7%E6%9D%8F%E5%A5%B3%E5%AD%90%E5%90%91%E8%80%81%E4%BA%BA%E9%81%93%E6%AD%89%3A%E5%B9%B2%E7%9A%84%E5%A4%AA%E4%B8%8D%E6%98%AF%E4%BA%BA%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [网传李嘉诚近日现身杭州](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E6%9D%8E%E5%98%89%E8%AF%9A%E8%BF%91%E6%97%A5%E7%8E%B0%E8%BA%AB%E6%9D%AD%E5%B7%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
