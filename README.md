@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 17:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 17:38:02</h4></div>
 
 > 微博  
 
 1. [快乐大本营](https://s.weibo.com/weibo?q=%E5%BF%AB%E4%B9%90%E5%A4%A7%E6%9C%AC%E8%90%A5&t=31&band_rank=1&Refer=top)<br />
-2. [杨颖代言丸美3年2400万](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E9%A2%96%E4%BB%A3%E8%A8%80%E4%B8%B8%E7%BE%8E3%E5%B9%B42400%E4%B8%87%23&t=31&band_rank=2&Refer=top)<br />
+2. [Angelababy黄景瑜 百年灵](https://s.weibo.com/weibo?q=Angelababy%E9%BB%84%E6%99%AF%E7%91%9C%20%E7%99%BE%E5%B9%B4%E7%81%B5&t=31&band_rank=2&Refer=top)<br />
 3. [100天后杭州亚运会](https://s.weibo.com/weibo?q=%23100%E5%A4%A9%E5%90%8E%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
-4. [Angelababy黄景瑜 百年灵](https://s.weibo.com/weibo?q=Angelababy%E9%BB%84%E6%99%AF%E7%91%9C%20%E7%99%BE%E5%B9%B4%E7%81%B5&t=31&band_rank=4&Refer=top)<br />
+4. [杨颖代言丸美3年2400万](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E9%A2%96%E4%BB%A3%E8%A8%80%E4%B8%B8%E7%BE%8E3%E5%B9%B42400%E4%B8%87%23&t=31&band_rank=4&Refer=top)<br />
 5. [过度打扮的女友和随意的男友](https://s.weibo.com/weibo?q=%E8%BF%87%E5%BA%A6%E6%89%93%E6%89%AE%E7%9A%84%E5%A5%B3%E5%8F%8B%E5%92%8C%E9%9A%8F%E6%84%8F%E7%9A%84%E7%94%B7%E5%8F%8B&t=31&band_rank=5&Refer=top)<br />
 6. [酒吧擅自邀请涉毒艺人孙兴被罚5万](https://s.weibo.com/weibo?q=%23%E9%85%92%E5%90%A7%E6%93%85%E8%87%AA%E9%82%80%E8%AF%B7%E6%B6%89%E6%AF%92%E8%89%BA%E4%BA%BA%E5%AD%99%E5%85%B4%E8%A2%AB%E7%BD%9A5%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [面试三句话让一屋子考官沉默了](https://s.weibo.com/weibo?q=%E9%9D%A2%E8%AF%95%E4%B8%89%E5%8F%A5%E8%AF%9D%E8%AE%A9%E4%B8%80%E5%B1%8B%E5%AD%90%E8%80%83%E5%AE%98%E6%B2%89%E9%BB%98%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [想减肥少吃冰](https://s.weibo.com/weibo?q=%E6%83%B3%E5%87%8F%E8%82%A5%E5%B0%91%E5%90%83%E5%86%B0&t=31&band_rank=8&Refer=top)<br />
-9. [肯德基广告文案](https://s.weibo.com/weibo?q=%23%E8%82%AF%E5%BE%B7%E5%9F%BA%E5%B9%BF%E5%91%8A%E6%96%87%E6%A1%88%23&t=31&band_rank=9&Refer=top)<br />
+9. [吴京口中的淄博烧烤](https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%AC%E5%8F%A3%E4%B8%AD%E7%9A%84%E6%B7%84%E5%8D%9A%E7%83%A7%E7%83%A4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
