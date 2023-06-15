@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 10:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 10:13:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [上厕所时千万不要蹲在马桶上](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E5%8E%95%E6%89%80%E6%97%B6%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E8%B9%B2%E5%9C%A8%E9%A9%AC%E6%A1%B6%E4%B8%8A%23&t=31&band_rank=6&Refer=top)<br />
 7. [S属性大爆发](https://s.weibo.com/weibo?q=S%E5%B1%9E%E6%80%A7%E5%A4%A7%E7%88%86%E5%8F%91&t=31&band_rank=7&Refer=top)<br />
 8. [杨幂卷发军装路透](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%8D%B7%E5%8F%91%E5%86%9B%E8%A3%85%E8%B7%AF%E9%80%8F%23&t=31&band_rank=8&Refer=top)<br />
-9. [蒋依依毕业照](https://s.weibo.com/weibo?q=%23%E8%92%8B%E4%BE%9D%E4%BE%9D%E6%AF%95%E4%B8%9A%E7%85%A7%23&t=31&band_rank=9&Refer=top)<br />
+9. [温州近视司机深夜高速上镜片突然脱落](https://s.weibo.com/weibo?q=%23%E6%B8%A9%E5%B7%9E%E8%BF%91%E8%A7%86%E5%8F%B8%E6%9C%BA%E6%B7%B1%E5%A4%9C%E9%AB%98%E9%80%9F%E4%B8%8A%E9%95%9C%E7%89%87%E7%AA%81%E7%84%B6%E8%84%B1%E8%90%BD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
