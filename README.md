@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 08:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 08:16:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [宋仲基儿子出生](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BB%B2%E5%9F%BA%E5%84%BF%E5%AD%90%E5%87%BA%E7%94%9F%23&t=31&band_rank=6&Refer=top)<br />
 7. [韩国摄影师在廉租房生活拍摄3年](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E6%91%84%E5%BD%B1%E5%B8%88%E5%9C%A8%E5%BB%89%E7%A7%9F%E6%88%BF%E7%94%9F%E6%B4%BB%E6%8B%8D%E6%91%843%E5%B9%B4&t=31&band_rank=7&Refer=top)<br />
 8. [家属回应女子被丈夫跨省杀害](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E5%B1%9E%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E8%A2%AB%E4%B8%88%E5%A4%AB%E8%B7%A8%E7%9C%81%E6%9D%80%E5%AE%B3%23&t=31&band_rank=8&Refer=top)<br />
-9. [考古女生寄200斤洛阳铲装备吓坏父母](https://s.weibo.com/weibo?q=%23%E8%80%83%E5%8F%A4%E5%A5%B3%E7%94%9F%E5%AF%84200%E6%96%A4%E6%B4%9B%E9%98%B3%E9%93%B2%E8%A3%85%E5%A4%87%E5%90%93%E5%9D%8F%E7%88%B6%E6%AF%8D%23&t=31&band_rank=9&Refer=top)<br />
+9. [温州近视司机深夜高速上镜片突然脱落](https://s.weibo.com/weibo?q=%23%E6%B8%A9%E5%B7%9E%E8%BF%91%E8%A7%86%E5%8F%B8%E6%9C%BA%E6%B7%B1%E5%A4%9C%E9%AB%98%E9%80%9F%E4%B8%8A%E9%95%9C%E7%89%87%E7%AA%81%E7%84%B6%E8%84%B1%E8%90%BD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. []()<br />
 7. [有哪些好的 211 大学？](https://www.zhihu.com/question/345841651)<br />
 8. []()<br />
-9. [消息称马克龙想参加金砖峰会，法媒评价「疯狂、前所未有」，马克龙成行的可能性有多大？对国际合作有何意义？](https://www.zhihu.com/question/606517294)<br />
+9. [如何看待《请严肃地告诉孩子：学习肯定苦，所有人都一样！》这篇文章？](https://www.zhihu.com/question/606593393)<br />
 
 > 百度  
 
