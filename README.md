@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-16 06:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-16 06:14:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [朱珠浪姐结束后去HEC上学了](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E7%8F%A0%E6%B5%AA%E5%A7%90%E7%BB%93%E6%9D%9F%E5%90%8E%E5%8E%BBHEC%E4%B8%8A%E5%AD%A6%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [奶奶遭电诈被孙子带到派出所](https://s.weibo.com/weibo?q=%23%E5%A5%B6%E5%A5%B6%E9%81%AD%E7%94%B5%E8%AF%88%E8%A2%AB%E5%AD%99%E5%AD%90%E5%B8%A6%E5%88%B0%E6%B4%BE%E5%87%BA%E6%89%80%23&t=31&band_rank=7&Refer=top)<br />
 8. [杨紫羊毛卷](https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E7%BE%8A%E6%AF%9B%E5%8D%B7&t=31&band_rank=8&Refer=top)<br />
-9. [苏醒见完梅西偶遇来迟的薛之谦](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%E8%A7%81%E5%AE%8C%E6%A2%85%E8%A5%BF%E5%81%B6%E9%81%87%E6%9D%A5%E8%BF%9F%E7%9A%84%E8%96%9B%E4%B9%8B%E8%B0%A6%23&t=31&band_rank=9&Refer=top)<br />
+9. [张踩铃 当一个混血被双语幼儿园拒收](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%B8%A9%E9%93%83%20%E5%BD%93%E4%B8%80%E4%B8%AA%E6%B7%B7%E8%A1%80%E8%A2%AB%E5%8F%8C%E8%AF%AD%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%8B%92%E6%94%B6&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -33,7 +33,7 @@
 5. [地铁事件女子被曝保研存内幕](https://www.baidu.com/s?wd=%E5%9C%B0%E9%93%81%E4%BA%8B%E4%BB%B6%E5%A5%B3%E5%AD%90%E8%A2%AB%E6%9B%9D%E4%BF%9D%E7%A0%94%E5%AD%98%E5%86%85%E5%B9%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [特殊教育学校校长性侵多名残障学生](https://www.baidu.com/s?wd=%E7%89%B9%E6%AE%8A%E6%95%99%E8%82%B2%E5%AD%A6%E6%A0%A1%E6%A0%A1%E9%95%BF%E6%80%A7%E4%BE%B5%E5%A4%9A%E5%90%8D%E6%AE%8B%E9%9A%9C%E5%AD%A6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [偷杏女子向老人道歉:干的太不是人事](https://www.baidu.com/s?wd=%E5%81%B7%E6%9D%8F%E5%A5%B3%E5%AD%90%E5%90%91%E8%80%81%E4%BA%BA%E9%81%93%E6%AD%89%3A%E5%B9%B2%E7%9A%84%E5%A4%AA%E4%B8%8D%E6%98%AF%E4%BA%BA%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [大爷抢座失败后坐女子腿上](https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E6%8A%A2%E5%BA%A7%E5%A4%B1%E8%B4%A5%E5%90%8E%E5%9D%90%E5%A5%B3%E5%AD%90%E8%85%BF%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [多方回应劳斯莱斯被吊上44楼](https://www.baidu.com/s?wd=%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94%E5%8A%B3%E6%96%AF%E8%8E%B1%E6%96%AF%E8%A2%AB%E5%90%8A%E4%B8%8A44%E6%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [狂热球迷冲进场拥抱梅西被抬走](https://www.baidu.com/s?wd=%E7%8B%82%E7%83%AD%E7%90%83%E8%BF%B7%E5%86%B2%E8%BF%9B%E5%9C%BA%E6%8B%A5%E6%8A%B1%E6%A2%85%E8%A5%BF%E8%A2%AB%E6%8A%AC%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [地铁事件女子被曝保研存内幕](https://www.baidu.com/s?wd=%E5%9C%B0%E9%93%81%E4%BA%8B%E4%BB%B6%E5%A5%B3%E5%AD%90%E8%A2%AB%E6%9B%9D%E4%BF%9D%E7%A0%94%E5%AD%98%E5%86%85%E5%B9%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [特殊教育学校校长性侵多名残障学生](https://www.baidu.com/s?wd=%E7%89%B9%E6%AE%8A%E6%95%99%E8%82%B2%E5%AD%A6%E6%A0%A1%E6%A0%A1%E9%95%BF%E6%80%A7%E4%BE%B5%E5%A4%9A%E5%90%8D%E6%AE%8B%E9%9A%9C%E5%AD%A6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [偷杏女子向老人道歉:干的太不是人事](https://www.baidu.com/s?wd=%E5%81%B7%E6%9D%8F%E5%A5%B3%E5%AD%90%E5%90%91%E8%80%81%E4%BA%BA%E9%81%93%E6%AD%89%3A%E5%B9%B2%E7%9A%84%E5%A4%AA%E4%B8%8D%E6%98%AF%E4%BA%BA%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [大爷抢座失败后坐女子腿上](https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E6%8A%A2%E5%BA%A7%E5%A4%B1%E8%B4%A5%E5%90%8E%E5%9D%90%E5%A5%B3%E5%AD%90%E8%85%BF%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [多方回应劳斯莱斯被吊上44楼](https://www.baidu.com/s?wd=%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94%E5%8A%B3%E6%96%AF%E8%8E%B1%E6%96%AF%E8%A2%AB%E5%90%8A%E4%B8%8A44%E6%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [狂热球迷冲进场拥抱梅西被抬走](https://www.baidu.com/s?wd=%E7%8B%82%E7%83%AD%E7%90%83%E8%BF%B7%E5%86%B2%E8%BF%9B%E5%9C%BA%E6%8B%A5%E6%8A%B1%E6%A2%85%E8%A5%BF%E8%A2%AB%E6%8A%AC%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
