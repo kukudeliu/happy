@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 08:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 08:41:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [迪士尼回应女子穿联名汉服被拦](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E7%A9%BF%E8%81%94%E5%90%8D%E6%B1%89%E6%9C%8D%E8%A2%AB%E6%8B%A6%23&t=31&band_rank=4&Refer=top)<br />
 5. [上厕所时千万不要蹲在马桶上](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E5%8E%95%E6%89%80%E6%97%B6%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E8%B9%B2%E5%9C%A8%E9%A9%AC%E6%A1%B6%E4%B8%8A%23&t=31&band_rank=5&Refer=top)<br />
 6. [宋仲基儿子出生](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BB%B2%E5%9F%BA%E5%84%BF%E5%AD%90%E5%87%BA%E7%94%9F%23&t=31&band_rank=6&Refer=top)<br />
-7. [考古女生寄200斤洛阳铲装备吓坏父母](https://s.weibo.com/weibo?q=%23%E8%80%83%E5%8F%A4%E5%A5%B3%E7%94%9F%E5%AF%84200%E6%96%A4%E6%B4%9B%E9%98%B3%E9%93%B2%E8%A3%85%E5%A4%87%E5%90%93%E5%9D%8F%E7%88%B6%E6%AF%8D%23&t=31&band_rank=7&Refer=top)<br />
-8. [家属回应女子被丈夫跨省杀害](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E5%B1%9E%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E8%A2%AB%E4%B8%88%E5%A4%AB%E8%B7%A8%E7%9C%81%E6%9D%80%E5%AE%B3%23&t=31&band_rank=8&Refer=top)<br />
+7. [家属回应女子被丈夫跨省杀害](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E5%B1%9E%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E8%A2%AB%E4%B8%88%E5%A4%AB%E8%B7%A8%E7%9C%81%E6%9D%80%E5%AE%B3%23&t=31&band_rank=7&Refer=top)<br />
+8. [考古女生寄200斤洛阳铲装备吓坏父母](https://s.weibo.com/weibo?q=%23%E8%80%83%E5%8F%A4%E5%A5%B3%E7%94%9F%E5%AF%84200%E6%96%A4%E6%B4%9B%E9%98%B3%E9%93%B2%E8%A3%85%E5%A4%87%E5%90%93%E5%9D%8F%E7%88%B6%E6%AF%8D%23&t=31&band_rank=8&Refer=top)<br />
 9. [鱼头星星回来了](https://s.weibo.com/weibo?q=%E9%B1%BC%E5%A4%B4%E6%98%9F%E6%98%9F%E5%9B%9E%E6%9D%A5%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
