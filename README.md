@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 11:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 11:56:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [调查显示「超 8 成非全日制研究生曾遇学历歧视」，如何看待此现象？学历歧视为何有禁不止？](https://www.zhihu.com/question/606123591)<br />
 7. [C 罗任意球什么水准？](https://www.zhihu.com/question/328057195)<br />
 8. [如何看待《请严肃地告诉孩子：学习肯定苦，所有人都一样！》这篇文章？](https://www.zhihu.com/question/606593393)<br />
-9. []()<br />
+9. [人类为何不大规模训练猴子做「流水线工人」?](https://www.zhihu.com/question/597376599)<br />
 
 > 百度  
 
@@ -33,8 +33,8 @@
 5. [9岁女孩被猫抓伤高烧14天](https://www.baidu.com/s?wd=9%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%A2%AB%E7%8C%AB%E6%8A%93%E4%BC%A4%E9%AB%98%E7%83%A714%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子赶集买毛蛋到家全变鸭子](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B5%B6%E9%9B%86%E4%B9%B0%E6%AF%9B%E8%9B%8B%E5%88%B0%E5%AE%B6%E5%85%A8%E5%8F%98%E9%B8%AD%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [地震发生时上海居民躲床下避难](https://www.baidu.com/s?wd=%E5%9C%B0%E9%9C%87%E5%8F%91%E7%94%9F%E6%97%B6%E4%B8%8A%E6%B5%B7%E5%B1%85%E6%B0%91%E8%BA%B2%E5%BA%8A%E4%B8%8B%E9%81%BF%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [美版《西游记》口碑两极分化](https://www.baidu.com/s?wd=%E7%BE%8E%E7%89%88%E3%80%8A%E8%A5%BF%E6%B8%B8%E8%AE%B0%E3%80%8B%E5%8F%A3%E7%A2%91%E4%B8%A4%E6%9E%81%E5%88%86%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [宋仲基儿子出生](https://www.baidu.com/s?wd=%E5%AE%8B%E4%BB%B2%E5%9F%BA%E5%84%BF%E5%AD%90%E5%87%BA%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [莫奈名画被环保人士抹红手印](https://www.baidu.com/s?wd=%E8%8E%AB%E5%A5%88%E5%90%8D%E7%94%BB%E8%A2%AB%E7%8E%AF%E4%BF%9D%E4%BA%BA%E5%A3%AB%E6%8A%B9%E7%BA%A2%E6%89%8B%E5%8D%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [美版《西游记》口碑两极分化](https://www.baidu.com/s?wd=%E7%BE%8E%E7%89%88%E3%80%8A%E8%A5%BF%E6%B8%B8%E8%AE%B0%E3%80%8B%E5%8F%A3%E7%A2%91%E4%B8%A4%E6%9E%81%E5%88%86%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [9岁女孩被猫抓伤高烧14天](https://www.baidu.com/s?wd=9%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%A2%AB%E7%8C%AB%E6%8A%93%E4%BC%A4%E9%AB%98%E7%83%A714%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子赶集买毛蛋到家全变鸭子](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B5%B6%E9%9B%86%E4%B9%B0%E6%AF%9B%E8%9B%8B%E5%88%B0%E5%AE%B6%E5%85%A8%E5%8F%98%E9%B8%AD%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [地震发生时上海居民躲床下避难](https://www.baidu.com/s?wd=%E5%9C%B0%E9%9C%87%E5%8F%91%E7%94%9F%E6%97%B6%E4%B8%8A%E6%B5%B7%E5%B1%85%E6%B0%91%E8%BA%B2%E5%BA%8A%E4%B8%8B%E9%81%BF%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [美版《西游记》口碑两极分化](https://www.baidu.com/s?wd=%E7%BE%8E%E7%89%88%E3%80%8A%E8%A5%BF%E6%B8%B8%E8%AE%B0%E3%80%8B%E5%8F%A3%E7%A2%91%E4%B8%A4%E6%9E%81%E5%88%86%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [宋仲基儿子出生](https://www.baidu.com/s?wd=%E5%AE%8B%E4%BB%B2%E5%9F%BA%E5%84%BF%E5%AD%90%E5%87%BA%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [莫奈名画被环保人士抹红手印](https://www.baidu.com/s?wd=%E8%8E%AB%E5%A5%88%E5%90%8D%E7%94%BB%E8%A2%AB%E7%8E%AF%E4%BF%9D%E4%BA%BA%E5%A3%AB%E6%8A%B9%E7%BA%A2%E6%89%8B%E5%8D%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [美版《西游记》口碑两极分化](https://www.baidu.com/s?wd=%E7%BE%8E%E7%89%88%E3%80%8A%E8%A5%BF%E6%B8%B8%E8%AE%B0%E3%80%8B%E5%8F%A3%E7%A2%91%E4%B8%A4%E6%9E%81%E5%88%86%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
