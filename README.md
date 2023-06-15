@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 21:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 21:26:02</h4></div>
 
 > 微博  
 
-1. [梅西81秒进球](https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF81%E7%A7%92%E8%BF%9B%E7%90%83&t=31&band_rank=1&Refer=top)<br />
-2. [海底捞回应8块钱生菜仅2片](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%9B%9E%E5%BA%948%E5%9D%97%E9%92%B1%E7%94%9F%E8%8F%9C%E4%BB%852%E7%89%87%23&t=31&band_rank=2&Refer=top)<br />
+1. [海底捞回应8块钱生菜仅2片](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%9B%9E%E5%BA%948%E5%9D%97%E9%92%B1%E7%94%9F%E8%8F%9C%E4%BB%852%E7%89%87%23&t=31&band_rank=1&Refer=top)<br />
+2. [梅西81秒进球](https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF81%E7%A7%92%E8%BF%9B%E7%90%83&t=31&band_rank=2&Refer=top)<br />
 3. [130秒飞阅杭州亚运会场馆](https://s.weibo.com/weibo?q=%23130%E7%A7%92%E9%A3%9E%E9%98%85%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%9C%BA%E9%A6%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [自己供自己上了四年的大学](https://s.weibo.com/weibo?q=%23%E8%87%AA%E5%B7%B1%E4%BE%9B%E8%87%AA%E5%B7%B1%E4%B8%8A%E4%BA%86%E5%9B%9B%E5%B9%B4%E7%9A%84%E5%A4%A7%E5%AD%A6%23&t=31&band_rank=4&Refer=top)<br />
 5. [苏醒见完梅西偶遇来迟的薛之谦](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%E8%A7%81%E5%AE%8C%E6%A2%85%E8%A5%BF%E5%81%B6%E9%81%87%E6%9D%A5%E8%BF%9F%E7%9A%84%E8%96%9B%E4%B9%8B%E8%B0%A6%23&t=31&band_rank=5&Refer=top)<br />
