@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 12:07:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 12:08:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [9岁女孩被猫抓伤高烧14天](https://www.baidu.com/s?wd=9%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%A2%AB%E7%8C%AB%E6%8A%93%E4%BC%A4%E9%AB%98%E7%83%A714%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子赶集买毛蛋到家全变鸭子](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B5%B6%E9%9B%86%E4%B9%B0%E6%AF%9B%E8%9B%8B%E5%88%B0%E5%AE%B6%E5%85%A8%E5%8F%98%E9%B8%AD%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [地震发生时上海居民躲床下避难](https://www.baidu.com/s?wd=%E5%9C%B0%E9%9C%87%E5%8F%91%E7%94%9F%E6%97%B6%E4%B8%8A%E6%B5%B7%E5%B1%85%E6%B0%91%E8%BA%B2%E5%BA%8A%E4%B8%8B%E9%81%BF%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [28省份可领高温津贴](https://www.baidu.com/s?wd=28%E7%9C%81%E4%BB%BD%E5%8F%AF%E9%A2%86%E9%AB%98%E6%B8%A9%E6%B4%A5%E8%B4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [脱口秀演员李昊石演出剧院被罚10万](https://www.baidu.com/s?wd=%E8%84%B1%E5%8F%A3%E7%A7%80%E6%BC%94%E5%91%98%E6%9D%8E%E6%98%8A%E7%9F%B3%E6%BC%94%E5%87%BA%E5%89%A7%E9%99%A2%E8%A2%AB%E7%BD%9A10%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [脱口秀演员李昊石演出剧院被罚10万](https://www.baidu.com/s?wd=%E8%84%B1%E5%8F%A3%E7%A7%80%E6%BC%94%E5%91%98%E6%9D%8E%E6%98%8A%E7%9F%B3%E6%BC%94%E5%87%BA%E5%89%A7%E9%99%A2%E8%A2%AB%E7%BD%9A10%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [冯小刚多年的白癜风“消失”了](https://www.baidu.com/s?wd=%E5%86%AF%E5%B0%8F%E5%88%9A%E5%A4%9A%E5%B9%B4%E7%9A%84%E7%99%BD%E7%99%9C%E9%A3%8E%E2%80%9C%E6%B6%88%E5%A4%B1%E2%80%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [9岁女孩被猫抓伤高烧14天](https://www.baidu.com/s?wd=9%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%A2%AB%E7%8C%AB%E6%8A%93%E4%BC%A4%E9%AB%98%E7%83%A714%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子赶集买毛蛋到家全变鸭子](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B5%B6%E9%9B%86%E4%B9%B0%E6%AF%9B%E8%9B%8B%E5%88%B0%E5%AE%B6%E5%85%A8%E5%8F%98%E9%B8%AD%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [地震发生时上海居民躲床下避难](https://www.baidu.com/s?wd=%E5%9C%B0%E9%9C%87%E5%8F%91%E7%94%9F%E6%97%B6%E4%B8%8A%E6%B5%B7%E5%B1%85%E6%B0%91%E8%BA%B2%E5%BA%8A%E4%B8%8B%E9%81%BF%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [28省份可领高温津贴](https://www.baidu.com/s?wd=28%E7%9C%81%E4%BB%BD%E5%8F%AF%E9%A2%86%E9%AB%98%E6%B8%A9%E6%B4%A5%E8%B4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [脱口秀演员李昊石演出剧院被罚10万](https://www.baidu.com/s?wd=%E8%84%B1%E5%8F%A3%E7%A7%80%E6%BC%94%E5%91%98%E6%9D%8E%E6%98%8A%E7%9F%B3%E6%BC%94%E5%87%BA%E5%89%A7%E9%99%A2%E8%A2%AB%E7%BD%9A10%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [脱口秀演员李昊石演出剧院被罚10万](https://www.baidu.com/s?wd=%E8%84%B1%E5%8F%A3%E7%A7%80%E6%BC%94%E5%91%98%E6%9D%8E%E6%98%8A%E7%9F%B3%E6%BC%94%E5%87%BA%E5%89%A7%E9%99%A2%E8%A2%AB%E7%BD%9A10%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [冯小刚多年的白癜风“消失”了](https://www.baidu.com/s?wd=%E5%86%AF%E5%B0%8F%E5%88%9A%E5%A4%9A%E5%B9%B4%E7%9A%84%E7%99%BD%E7%99%9C%E9%A3%8E%E2%80%9C%E6%B6%88%E5%A4%B1%E2%80%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
