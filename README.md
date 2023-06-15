@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 08:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 08:01:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [韩国摄影师在廉租房生活拍摄3年](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E6%91%84%E5%BD%B1%E5%B8%88%E5%9C%A8%E5%BB%89%E7%A7%9F%E6%88%BF%E7%94%9F%E6%B4%BB%E6%8B%8D%E6%91%843%E5%B9%B4&t=31&band_rank=5&Refer=top)<br />
 6. [宋仲基儿子出生](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BB%B2%E5%9F%BA%E5%84%BF%E5%AD%90%E5%87%BA%E7%94%9F%23&t=31&band_rank=6&Refer=top)<br />
 7. [上海青浦区发生3.1级地震](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E9%9D%92%E6%B5%A6%E5%8C%BA%E5%8F%91%E7%94%9F3.1%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=7&Refer=top)<br />
-8. [家属回应女子被丈夫跨省杀害](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E5%B1%9E%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E8%A2%AB%E4%B8%88%E5%A4%AB%E8%B7%A8%E7%9C%81%E6%9D%80%E5%AE%B3%23&t=31&band_rank=8&Refer=top)<br />
-9. [S属性大爆发](https://s.weibo.com/weibo?q=S%E5%B1%9E%E6%80%A7%E5%A4%A7%E7%88%86%E5%8F%91&t=31&band_rank=9&Refer=top)<br />
+8. [温州近视司机深夜高速上镜片突然脱落](https://s.weibo.com/weibo?q=%23%E6%B8%A9%E5%B7%9E%E8%BF%91%E8%A7%86%E5%8F%B8%E6%9C%BA%E6%B7%B1%E5%A4%9C%E9%AB%98%E9%80%9F%E4%B8%8A%E9%95%9C%E7%89%87%E7%AA%81%E7%84%B6%E8%84%B1%E8%90%BD%23&t=31&band_rank=8&Refer=top)<br />
+9. [家属回应女子被丈夫跨省杀害](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E5%B1%9E%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E8%A2%AB%E4%B8%88%E5%A4%AB%E8%B7%A8%E7%9C%81%E6%9D%80%E5%AE%B3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
