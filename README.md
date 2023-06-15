@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 14:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 14:43:01</h4></div>
 
 > 微博  
 
@@ -18,8 +18,8 @@
 2. [人类所谓的「回光返照」现象，能否说明人体的某一部分能预测死亡？](https://www.zhihu.com/question/604924796)<br />
 3. [国家统计局表示五月国民经济继续恢复，其中 16-24 岁劳动力调查失业率 20.8%，如何解读？](https://www.zhihu.com/question/606724950)<br />
 4. [阿根廷中国赛主办方发声致歉，称第一次办赛确实有业余的地方，有哪些信息值得关注？](https://www.zhihu.com/question/606707001)<br />
-5. [比尔·盖茨发文称已抵达北京，系 3 年多来首次访华，有哪些信息值得关注？](https://www.zhihu.com/question/606659062)<br />
-6. [巴黎灭鼠计划失败，政府将成立专门机构研究「人类与老鼠共存」，全市约有 600 万老鼠，如何看待此事？](https://www.zhihu.com/question/606715659)<br />
+5. [巴黎灭鼠计划失败，政府将成立专门机构研究「人类与老鼠共存」，全市约有 600 万老鼠，如何看待此事？](https://www.zhihu.com/question/606715659)<br />
+6. [比尔·盖茨发文称已抵达北京，系 3 年多来首次访华，有哪些信息值得关注？](https://www.zhihu.com/question/606659062)<br />
 7. [人社部表示「我国人口红利没有消失，新的人才红利正在形成」，哪些信息值得关注？](https://www.zhihu.com/question/606658603)<br />
 8. [游泳池的水很脏吗？](https://www.zhihu.com/question/602727856)<br />
 9. [5 月 70 城房价出炉，新房环比整体涨幅回落，二手房环比下降，还有哪些信息值得关注？](https://www.zhihu.com/question/606718995)<br />
@@ -34,7 +34,7 @@
 6. [女子因穿短裤遭公公辱骂抓伤](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%9B%A0%E7%A9%BF%E7%9F%AD%E8%A3%A4%E9%81%AD%E5%85%AC%E5%85%AC%E8%BE%B1%E9%AA%82%E6%8A%93%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [吴京带《巨齿鲨》剧组吃淄博烧烤](https://www.baidu.com/s?wd=%E5%90%B4%E4%BA%AC%E5%B8%A6%E3%80%8A%E5%B7%A8%E9%BD%BF%E9%B2%A8%E3%80%8B%E5%89%A7%E7%BB%84%E5%90%83%E6%B7%84%E5%8D%9A%E7%83%A7%E7%83%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [官方回应多地应届生被中创新航解约](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A4%9A%E5%9C%B0%E5%BA%94%E5%B1%8A%E7%94%9F%E8%A2%AB%E4%B8%AD%E5%88%9B%E6%96%B0%E8%88%AA%E8%A7%A3%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [菲律宾发生6.2级地震](https://www.baidu.com/s?wd=%E8%8F%B2%E5%BE%8B%E5%AE%BE%E5%8F%91%E7%94%9F6.2%E7%BA%A7%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [小狗在上海深夜地震前狂叫](https://www.baidu.com/s?wd=%E5%B0%8F%E7%8B%97%E5%9C%A8%E4%B8%8A%E6%B5%B7%E6%B7%B1%E5%A4%9C%E5%9C%B0%E9%9C%87%E5%89%8D%E7%8B%82%E5%8F%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [女子因穿短裤遭公公辱骂抓伤](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%9B%A0%E7%A9%BF%E7%9F%AD%E8%A3%A4%E9%81%AD%E5%85%AC%E5%85%AC%E8%BE%B1%E9%AA%82%E6%8A%93%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [吴京带《巨齿鲨》剧组吃淄博烧烤](https://www.baidu.com/s?wd=%E5%90%B4%E4%BA%AC%E5%B8%A6%E3%80%8A%E5%B7%A8%E9%BD%BF%E9%B2%A8%E3%80%8B%E5%89%A7%E7%BB%84%E5%90%83%E6%B7%84%E5%8D%9A%E7%83%A7%E7%83%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [官方回应多地应届生被中创新航解约](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A4%9A%E5%9C%B0%E5%BA%94%E5%B1%8A%E7%94%9F%E8%A2%AB%E4%B8%AD%E5%88%9B%E6%96%B0%E8%88%AA%E8%A7%A3%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [菲律宾发生6.2级地震](https://www.baidu.com/s?wd=%E8%8F%B2%E5%BE%8B%E5%AE%BE%E5%8F%91%E7%94%9F6.2%E7%BA%A7%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [小狗在上海深夜地震前狂叫](https://www.baidu.com/s?wd=%E5%B0%8F%E7%8B%97%E5%9C%A8%E4%B8%8A%E6%B5%B7%E6%B7%B1%E5%A4%9C%E5%9C%B0%E9%9C%87%E5%89%8D%E7%8B%82%E5%8F%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
