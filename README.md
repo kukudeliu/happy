@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 12:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 12:28:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [比尔·盖茨发文称已抵达北京，系 3 年多来首次访华，有哪些信息值得关注？](https://www.zhihu.com/question/606659062)<br />
 5. [国家统计局表示五月国民经济继续恢复，其中 16-24 岁劳动力调查失业率 20.8%，如何解读？](https://www.zhihu.com/question/606724950)<br />
 6. [调查显示「超 8 成非全日制研究生曾遇学历歧视」，如何看待此现象？学历歧视为何有禁不止？](https://www.zhihu.com/question/606123591)<br />
-7. [C 罗任意球什么水准？](https://www.zhihu.com/question/328057195)<br />
+7. [游泳池的水很脏吗？](https://www.zhihu.com/question/602727856)<br />
 8. [复旦等 26 家单位联合完成研究「首次揭示中国人基因组中隐藏特殊基因序列」，这对我国基因研究有何启发？](https://www.zhihu.com/question/606708628)<br />
-9. []()<br />
+9. [C 罗任意球什么水准？](https://www.zhihu.com/question/328057195)<br />
 
 > 百度  
 
@@ -33,8 +33,8 @@
 5. [9岁女孩被猫抓伤高烧14天](https://www.baidu.com/s?wd=9%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%A2%AB%E7%8C%AB%E6%8A%93%E4%BC%A4%E9%AB%98%E7%83%A714%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子赶集买毛蛋到家全变鸭子](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B5%B6%E9%9B%86%E4%B9%B0%E6%AF%9B%E8%9B%8B%E5%88%B0%E5%AE%B6%E5%85%A8%E5%8F%98%E9%B8%AD%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [地震发生时上海居民躲床下避难](https://www.baidu.com/s?wd=%E5%9C%B0%E9%9C%87%E5%8F%91%E7%94%9F%E6%97%B6%E4%B8%8A%E6%B5%B7%E5%B1%85%E6%B0%91%E8%BA%B2%E5%BA%8A%E4%B8%8B%E9%81%BF%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [官方回应多地应届生被中创新航解约](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A4%9A%E5%9C%B0%E5%BA%94%E5%B1%8A%E7%94%9F%E8%A2%AB%E4%B8%AD%E5%88%9B%E6%96%B0%E8%88%AA%E8%A7%A3%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [脱口秀演员李昊石演出剧院被罚10万](https://www.baidu.com/s?wd=%E8%84%B1%E5%8F%A3%E7%A7%80%E6%BC%94%E5%91%98%E6%9D%8E%E6%98%8A%E7%9F%B3%E6%BC%94%E5%87%BA%E5%89%A7%E9%99%A2%E8%A2%AB%E7%BD%9A10%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [脱口秀演员李昊石演出剧院被罚10万](https://www.baidu.com/s?wd=%E8%84%B1%E5%8F%A3%E7%A7%80%E6%BC%94%E5%91%98%E6%9D%8E%E6%98%8A%E7%9F%B3%E6%BC%94%E5%87%BA%E5%89%A7%E9%99%A2%E8%A2%AB%E7%BD%9A10%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [韩总理：我可以喝日本核污染水](https://www.baidu.com/s?wd=%E9%9F%A9%E6%80%BB%E7%90%86%EF%BC%9A%E6%88%91%E5%8F%AF%E4%BB%A5%E5%96%9D%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [9岁女孩被猫抓伤高烧14天](https://www.baidu.com/s?wd=9%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%A2%AB%E7%8C%AB%E6%8A%93%E4%BC%A4%E9%AB%98%E7%83%A714%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子赶集买毛蛋到家全变鸭子](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B5%B6%E9%9B%86%E4%B9%B0%E6%AF%9B%E8%9B%8B%E5%88%B0%E5%AE%B6%E5%85%A8%E5%8F%98%E9%B8%AD%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [地震发生时上海居民躲床下避难](https://www.baidu.com/s?wd=%E5%9C%B0%E9%9C%87%E5%8F%91%E7%94%9F%E6%97%B6%E4%B8%8A%E6%B5%B7%E5%B1%85%E6%B0%91%E8%BA%B2%E5%BA%8A%E4%B8%8B%E9%81%BF%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [官方回应多地应届生被中创新航解约](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A4%9A%E5%9C%B0%E5%BA%94%E5%B1%8A%E7%94%9F%E8%A2%AB%E4%B8%AD%E5%88%9B%E6%96%B0%E8%88%AA%E8%A7%A3%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [脱口秀演员李昊石演出剧院被罚10万](https://www.baidu.com/s?wd=%E8%84%B1%E5%8F%A3%E7%A7%80%E6%BC%94%E5%91%98%E6%9D%8E%E6%98%8A%E7%9F%B3%E6%BC%94%E5%87%BA%E5%89%A7%E9%99%A2%E8%A2%AB%E7%BD%9A10%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [脱口秀演员李昊石演出剧院被罚10万](https://www.baidu.com/s?wd=%E8%84%B1%E5%8F%A3%E7%A7%80%E6%BC%94%E5%91%98%E6%9D%8E%E6%98%8A%E7%9F%B3%E6%BC%94%E5%87%BA%E5%89%A7%E9%99%A2%E8%A2%AB%E7%BD%9A10%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [韩总理：我可以喝日本核污染水](https://www.baidu.com/s?wd=%E9%9F%A9%E6%80%BB%E7%90%86%EF%BC%9A%E6%88%91%E5%8F%AF%E4%BB%A5%E5%96%9D%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
