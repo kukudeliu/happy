@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 12:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 12:01:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [国家统计局表示五月国民经济继续恢复，其中 16-24 岁劳动力调查失业率 20.8%，如何解读？](https://www.zhihu.com/question/606724950)<br />
 6. [调查显示「超 8 成非全日制研究生曾遇学历歧视」，如何看待此现象？学历歧视为何有禁不止？](https://www.zhihu.com/question/606123591)<br />
 7. [C 罗任意球什么水准？](https://www.zhihu.com/question/328057195)<br />
-8. [人类为何不大规模训练猴子做「流水线工人」?](https://www.zhihu.com/question/597376599)<br />
-9. [如何看待《请严肃地告诉孩子：学习肯定苦，所有人都一样！》这篇文章？](https://www.zhihu.com/question/606593393)<br />
+8. []()<br />
+9. [人类为何不大规模训练猴子做「流水线工人」?](https://www.zhihu.com/question/597376599)<br />
 
 > 百度  
 
