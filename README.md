@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 17:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 17:14:01</h4></div>
 
 > 微博  
 
@@ -31,10 +31,10 @@
 3. [四川省长称帮一把没找到工作的孩子](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E7%9C%81%E9%95%BF%E7%A7%B0%E5%B8%AE%E4%B8%80%E6%8A%8A%E6%B2%A1%E6%89%BE%E5%88%B0%E5%B7%A5%E4%BD%9C%E7%9A%84%E5%AD%A9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [文明之光点燃亚运之火](https://www.baidu.com/s?wd=%E6%96%87%E6%98%8E%E4%B9%8B%E5%85%89%E7%82%B9%E7%87%83%E4%BA%9A%E8%BF%90%E4%B9%8B%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [5月70城房价出炉](https://www.baidu.com/s?wd=5%E6%9C%8870%E5%9F%8E%E6%88%BF%E4%BB%B7%E5%87%BA%E7%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [四川发生持枪入室抢劫案？警方通报](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%8F%91%E7%94%9F%E6%8C%81%E6%9E%AA%E5%85%A5%E5%AE%A4%E6%8A%A2%E5%8A%AB%E6%A1%88%EF%BC%9F%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [杨颖代言丸美3年2400万](https://www.baidu.com/s?wd=%E6%9D%A8%E9%A2%96%E4%BB%A3%E8%A8%80%E4%B8%B8%E7%BE%8E3%E5%B9%B42400%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [南宁一公司招实习生月薪300元被骂](https://www.baidu.com/s?wd=%E5%8D%97%E5%AE%81%E4%B8%80%E5%85%AC%E5%8F%B8%E6%8B%9B%E5%AE%9E%E4%B9%A0%E7%94%9F%E6%9C%88%E8%96%AA300%E5%85%83%E8%A2%AB%E9%AA%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [官方回应多地应届生被中创新航解约](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A4%9A%E5%9C%B0%E5%BA%94%E5%B1%8A%E7%94%9F%E8%A2%AB%E4%B8%AD%E5%88%9B%E6%96%B0%E8%88%AA%E8%A7%A3%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [谢娜再去已是嘉宾](https://www.baidu.com/s?wd=%E8%B0%A2%E5%A8%9C%E5%86%8D%E5%8E%BB%E5%B7%B2%E6%98%AF%E5%98%89%E5%AE%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [司机吃零食接电话酿事故致5死](https://www.baidu.com/s?wd=%E5%8F%B8%E6%9C%BA%E5%90%83%E9%9B%B6%E9%A3%9F%E6%8E%A5%E7%94%B5%E8%AF%9D%E9%85%BF%E4%BA%8B%E6%95%85%E8%87%B45%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [四川省长称帮一把没找到工作的孩子](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E7%9C%81%E9%95%BF%E7%A7%B0%E5%B8%AE%E4%B8%80%E6%8A%8A%E6%B2%A1%E6%89%BE%E5%88%B0%E5%B7%A5%E4%BD%9C%E7%9A%84%E5%AD%A9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [文明之光点燃亚运之火](https://www.baidu.com/s?wd=%E6%96%87%E6%98%8E%E4%B9%8B%E5%85%89%E7%82%B9%E7%87%83%E4%BA%9A%E8%BF%90%E4%B9%8B%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [5月70城房价出炉](https://www.baidu.com/s?wd=5%E6%9C%8870%E5%9F%8E%E6%88%BF%E4%BB%B7%E5%87%BA%E7%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [四川发生持枪入室抢劫案？警方通报](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%8F%91%E7%94%9F%E6%8C%81%E6%9E%AA%E5%85%A5%E5%AE%A4%E6%8A%A2%E5%8A%AB%E6%A1%88%EF%BC%9F%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [杨颖代言丸美3年2400万](https://www.baidu.com/s?wd=%E6%9D%A8%E9%A2%96%E4%BB%A3%E8%A8%80%E4%B8%B8%E7%BE%8E3%E5%B9%B42400%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [南宁一公司招实习生月薪300元被骂](https://www.baidu.com/s?wd=%E5%8D%97%E5%AE%81%E4%B8%80%E5%85%AC%E5%8F%B8%E6%8B%9B%E5%AE%9E%E4%B9%A0%E7%94%9F%E6%9C%88%E8%96%AA300%E5%85%83%E8%A2%AB%E9%AA%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [官方回应多地应届生被中创新航解约](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A4%9A%E5%9C%B0%E5%BA%94%E5%B1%8A%E7%94%9F%E8%A2%AB%E4%B8%AD%E5%88%9B%E6%96%B0%E8%88%AA%E8%A7%A3%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [谢娜再去已是嘉宾](https://www.baidu.com/s?wd=%E8%B0%A2%E5%A8%9C%E5%86%8D%E5%8E%BB%E5%B7%B2%E6%98%AF%E5%98%89%E5%AE%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [司机吃零食接电话酿事故致5死](https://www.baidu.com/s?wd=%E5%8F%B8%E6%9C%BA%E5%90%83%E9%9B%B6%E9%A3%9F%E6%8E%A5%E7%94%B5%E8%AF%9D%E9%85%BF%E4%BA%8B%E6%95%85%E8%87%B45%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
