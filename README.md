@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 12:15:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 12:16:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [女学霸边读研边兼职3年赚17万](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A6%E9%9C%B8%E8%BE%B9%E8%AF%BB%E7%A0%94%E8%BE%B9%E5%85%BC%E8%81%8C3%E5%B9%B4%E8%B5%9A17%E4%B8%87%23&t=31&band_rank=5&Refer=top)<br />
 6. [张晚意说我是杨紫她哥](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%99%9A%E6%84%8F%E8%AF%B4%E6%88%91%E6%98%AF%E6%9D%A8%E7%B4%AB%E5%A5%B9%E5%93%A5%23&t=31&band_rank=6&Refer=top)<br />
 7. [鱼头星星回来了](https://s.weibo.com/weibo?q=%E9%B1%BC%E5%A4%B4%E6%98%9F%E6%98%9F%E5%9B%9E%E6%9D%A5%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
-8. [上海地震](https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%9C%87&t=31&band_rank=8&Refer=top)<br />
-9. [RNG老板澄清Uzi退役谣言](https://s.weibo.com/weibo?q=%23RNG%E8%80%81%E6%9D%BF%E6%BE%84%E6%B8%85Uzi%E9%80%80%E5%BD%B9%E8%B0%A3%E8%A8%80%23&t=31&band_rank=9&Refer=top)<br />
+8. [RNG老板澄清Uzi退役谣言](https://s.weibo.com/weibo?q=%23RNG%E8%80%81%E6%9D%BF%E6%BE%84%E6%B8%85Uzi%E9%80%80%E5%BD%B9%E8%B0%A3%E8%A8%80%23&t=31&band_rank=8&Refer=top)<br />
+9. [上海地震](https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%9C%87&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
