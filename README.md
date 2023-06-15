@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 14:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 14:13:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [吴京口中的淄博烧烤](https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%AC%E5%8F%A3%E4%B8%AD%E7%9A%84%E6%B7%84%E5%8D%9A%E7%83%A7%E7%83%A4%23&t=31&band_rank=2&Refer=top)<br />
 3. [相约2023杭州亚运会](https://s.weibo.com/weibo?q=%23%E7%9B%B8%E7%BA%A62023%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [新型不孝](https://s.weibo.com/weibo?q=%E6%96%B0%E5%9E%8B%E4%B8%8D%E5%AD%9D&t=31&band_rank=4&Refer=top)<br />
-5. [女学霸边读研边兼职3年赚17万](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A6%E9%9C%B8%E8%BE%B9%E8%AF%BB%E7%A0%94%E8%BE%B9%E5%85%BC%E8%81%8C3%E5%B9%B4%E8%B5%9A17%E4%B8%87%23&t=31&band_rank=5&Refer=top)<br />
-6. [我国总共600多万青年人失业](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E6%80%BB%E5%85%B1600%E5%A4%9A%E4%B8%87%E9%9D%92%E5%B9%B4%E4%BA%BA%E5%A4%B1%E4%B8%9A%23&t=31&band_rank=6&Refer=top)<br />
+5. [我国总共600多万青年人失业](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E6%80%BB%E5%85%B1600%E5%A4%9A%E4%B8%87%E9%9D%92%E5%B9%B4%E4%BA%BA%E5%A4%B1%E4%B8%9A%23&t=31&band_rank=5&Refer=top)<br />
+6. [女学霸边读研边兼职3年赚17万](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A6%E9%9C%B8%E8%BE%B9%E8%AF%BB%E7%A0%94%E8%BE%B9%E5%85%BC%E8%81%8C3%E5%B9%B4%E8%B5%9A17%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [谢娜再去已是嘉宾](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E5%86%8D%E5%8E%BB%E5%B7%B2%E6%98%AF%E5%98%89%E5%AE%BE%23&t=31&band_rank=7&Refer=top)<br />
 8. [同学说我不去椰树可惜了](https://s.weibo.com/weibo?q=%E5%90%8C%E5%AD%A6%E8%AF%B4%E6%88%91%E4%B8%8D%E5%8E%BB%E6%A4%B0%E6%A0%91%E5%8F%AF%E6%83%9C%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
 9. [澳门音乐节 退款](https://s.weibo.com/weibo?q=%E6%BE%B3%E9%97%A8%E9%9F%B3%E4%B9%90%E8%8A%82%20%E9%80%80%E6%AC%BE&t=31&band_rank=9&Refer=top)<br />
@@ -22,7 +22,7 @@
 6. [阿根廷中国赛主办方发声致歉，称第一次办赛确实有业余的地方，有哪些信息值得关注？](https://www.zhihu.com/question/606707001)<br />
 7. [巴黎灭鼠计划失败，政府将成立专门机构研究「人类与老鼠共存」，全市约有 600 万老鼠，如何看待此事？](https://www.zhihu.com/question/606715659)<br />
 8. [男朋友不支持我滑雪怎么办？](https://www.zhihu.com/question/605791470)<br />
-9. [复旦等 26 家单位联合完成研究「首次揭示中国人基因组中隐藏特殊基因序列」，这对我国基因研究有何启发？](https://www.zhihu.com/question/606708628)<br />
+9. [人社部表示「我国人口红利没有消失，新的人才红利正在形成」，哪些信息值得关注？](https://www.zhihu.com/question/606658603)<br />
 
 > 百度  
 
