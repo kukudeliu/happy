@@ -1,14 +1,14 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 15:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 15:06:01</h4></div>
 
 > 微博  
 
 1. [谢娜再去已是嘉宾](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E5%86%8D%E5%8E%BB%E5%B7%B2%E6%98%AF%E5%98%89%E5%AE%BE%23&t=31&band_rank=1&Refer=top)<br />
 2. [杨丽萍孔雀舞中舞者造型被指不雅](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E4%B8%BD%E8%90%8D%E5%AD%94%E9%9B%80%E8%88%9E%E4%B8%AD%E8%88%9E%E8%80%85%E9%80%A0%E5%9E%8B%E8%A2%AB%E6%8C%87%E4%B8%8D%E9%9B%85%23&t=31&band_rank=2&Refer=top)<br />
 3. [相约2023杭州亚运会](https://s.weibo.com/weibo?q=%23%E7%9B%B8%E7%BA%A62023%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
-4. [吴京口中的淄博烧烤](https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%AC%E5%8F%A3%E4%B8%AD%E7%9A%84%E6%B7%84%E5%8D%9A%E7%83%A7%E7%83%A4%23&t=31&band_rank=4&Refer=top)<br />
-5. [女学霸边读研边兼职3年赚17万](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A6%E9%9C%B8%E8%BE%B9%E8%AF%BB%E7%A0%94%E8%BE%B9%E5%85%BC%E8%81%8C3%E5%B9%B4%E8%B5%9A17%E4%B8%87%23&t=31&band_rank=5&Refer=top)<br />
-6. [新型不孝](https://s.weibo.com/weibo?q=%E6%96%B0%E5%9E%8B%E4%B8%8D%E5%AD%9D&t=31&band_rank=6&Refer=top)<br />
-7. [酒吧擅自邀请涉毒艺人孙兴被罚5万](https://s.weibo.com/weibo?q=%23%E9%85%92%E5%90%A7%E6%93%85%E8%87%AA%E9%82%80%E8%AF%B7%E6%B6%89%E6%AF%92%E8%89%BA%E4%BA%BA%E5%AD%99%E5%85%B4%E8%A2%AB%E7%BD%9A5%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
+4. [女学霸边读研边兼职3年赚17万](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A6%E9%9C%B8%E8%BE%B9%E8%AF%BB%E7%A0%94%E8%BE%B9%E5%85%BC%E8%81%8C3%E5%B9%B4%E8%B5%9A17%E4%B8%87%23&t=31&band_rank=4&Refer=top)<br />
+5. [吴京口中的淄博烧烤](https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%AC%E5%8F%A3%E4%B8%AD%E7%9A%84%E6%B7%84%E5%8D%9A%E7%83%A7%E7%83%A4%23&t=31&band_rank=5&Refer=top)<br />
+6. [酒吧擅自邀请涉毒艺人孙兴被罚5万](https://s.weibo.com/weibo?q=%23%E9%85%92%E5%90%A7%E6%93%85%E8%87%AA%E9%82%80%E8%AF%B7%E6%B6%89%E6%AF%92%E8%89%BA%E4%BA%BA%E5%AD%99%E5%85%B4%E8%A2%AB%E7%BD%9A5%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
+7. [新型不孝](https://s.weibo.com/weibo?q=%E6%96%B0%E5%9E%8B%E4%B8%8D%E5%AD%9D&t=31&band_rank=7&Refer=top)<br />
 8. [我国总共600多万青年人失业](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E6%80%BB%E5%85%B1600%E5%A4%9A%E4%B8%87%E9%9D%92%E5%B9%B4%E4%BA%BA%E5%A4%B1%E4%B8%9A%23&t=31&band_rank=8&Refer=top)<br />
 9. [同学说我不去椰树可惜了](https://s.weibo.com/weibo?q=%E5%90%8C%E5%AD%A6%E8%AF%B4%E6%88%91%E4%B8%8D%E5%8E%BB%E6%A4%B0%E6%A0%91%E5%8F%AF%E6%83%9C%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
@@ -22,7 +22,7 @@
 6. [人社部表示「我国人口红利没有消失，新的人才红利正在形成」，哪些信息值得关注？](https://www.zhihu.com/question/606658603)<br />
 7. [uzi 复出首战获胜，看了乌兹的赛后采访，你有什么话想说？](https://www.zhihu.com/question/606679079)<br />
 8. [通勤距离单程 30 公里，想骑自行车往返减肥健身，可行吗，需要注意什么，准备什么？](https://www.zhihu.com/question/606231661)<br />
-9. [参考 10 年金球奖得主梅西，今年金球奖是否应该给哈兰德？](https://www.zhihu.com/question/606580752)<br />
+9. [皇马官方宣布 19 岁贝林厄姆正式加盟，签约六年，转会费超一亿欧， 你认为他能为皇马带来什么改变？](https://www.zhihu.com/question/606706715)<br />
 
 > 百度  
 
