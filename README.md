@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 16:58:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 16:59:01</h4></div>
 
 > 微博  
 
@@ -31,9 +31,9 @@
 3. [杨丽萍回应舞者造型被指不雅](https://www.baidu.com/s?wd=%E6%9D%A8%E4%B8%BD%E8%90%8D%E5%9B%9E%E5%BA%94%E8%88%9E%E8%80%85%E9%80%A0%E5%9E%8B%E8%A2%AB%E6%8C%87%E4%B8%8D%E9%9B%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [文明之光点燃亚运之火](https://www.baidu.com/s?wd=%E6%96%87%E6%98%8E%E4%B9%8B%E5%85%89%E7%82%B9%E7%87%83%E4%BA%9A%E8%BF%90%E4%B9%8B%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [5月70城房价出炉](https://www.baidu.com/s?wd=5%E6%9C%8870%E5%9F%8E%E6%88%BF%E4%BB%B7%E5%87%BA%E7%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [酒吧擅自邀请涉毒艺人孙兴被罚5万](https://www.baidu.com/s?wd=%E9%85%92%E5%90%A7%E6%93%85%E8%87%AA%E9%82%80%E8%AF%B7%E6%B6%89%E6%AF%92%E8%89%BA%E4%BA%BA%E5%AD%99%E5%85%B4%E8%A2%AB%E7%BD%9A5%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [谢娜再去已是嘉宾](https://www.baidu.com/s?wd=%E8%B0%A2%E5%A8%9C%E5%86%8D%E5%8E%BB%E5%B7%B2%E6%98%AF%E5%98%89%E5%AE%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [28省份可领高温津贴](https://www.baidu.com/s?wd=28%E7%9C%81%E4%BB%BD%E5%8F%AF%E9%A2%86%E9%AB%98%E6%B8%A9%E6%B4%A5%E8%B4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [司机吃零食接电话酿事故致5死](https://www.baidu.com/s?wd=%E5%8F%B8%E6%9C%BA%E5%90%83%E9%9B%B6%E9%A3%9F%E6%8E%A5%E7%94%B5%E8%AF%9D%E9%85%BF%E4%BA%8B%E6%95%85%E8%87%B45%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [酒吧擅自邀请涉毒艺人孙兴被罚5万](https://www.baidu.com/s?wd=%E9%85%92%E5%90%A7%E6%93%85%E8%87%AA%E9%82%80%E8%AF%B7%E6%B6%89%E6%AF%92%E8%89%BA%E4%BA%BA%E5%AD%99%E5%85%B4%E8%A2%AB%E7%BD%9A5%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [谢娜再去已是嘉宾](https://www.baidu.com/s?wd=%E8%B0%A2%E5%A8%9C%E5%86%8D%E5%8E%BB%E5%B7%B2%E6%98%AF%E5%98%89%E5%AE%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [吴京带《巨齿鲨》剧组吃淄博烧烤](https://www.baidu.com/s?wd=%E5%90%B4%E4%BA%AC%E5%B8%A6%E3%80%8A%E5%B7%A8%E9%BD%BF%E9%B2%A8%E3%80%8B%E5%89%A7%E7%BB%84%E5%90%83%E6%B7%84%E5%8D%9A%E7%83%A7%E7%83%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -43,7 +43,7 @@
 3. [杨丽萍回应舞者造型被指不雅](https://www.baidu.com/s?wd=%E6%9D%A8%E4%B8%BD%E8%90%8D%E5%9B%9E%E5%BA%94%E8%88%9E%E8%80%85%E9%80%A0%E5%9E%8B%E8%A2%AB%E6%8C%87%E4%B8%8D%E9%9B%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [文明之光点燃亚运之火](https://www.baidu.com/s?wd=%E6%96%87%E6%98%8E%E4%B9%8B%E5%85%89%E7%82%B9%E7%87%83%E4%BA%9A%E8%BF%90%E4%B9%8B%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [5月70城房价出炉](https://www.baidu.com/s?wd=5%E6%9C%8870%E5%9F%8E%E6%88%BF%E4%BB%B7%E5%87%BA%E7%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [酒吧擅自邀请涉毒艺人孙兴被罚5万](https://www.baidu.com/s?wd=%E9%85%92%E5%90%A7%E6%93%85%E8%87%AA%E9%82%80%E8%AF%B7%E6%B6%89%E6%AF%92%E8%89%BA%E4%BA%BA%E5%AD%99%E5%85%B4%E8%A2%AB%E7%BD%9A5%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [谢娜再去已是嘉宾](https://www.baidu.com/s?wd=%E8%B0%A2%E5%A8%9C%E5%86%8D%E5%8E%BB%E5%B7%B2%E6%98%AF%E5%98%89%E5%AE%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [28省份可领高温津贴](https://www.baidu.com/s?wd=28%E7%9C%81%E4%BB%BD%E5%8F%AF%E9%A2%86%E9%AB%98%E6%B8%A9%E6%B4%A5%E8%B4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [司机吃零食接电话酿事故致5死](https://www.baidu.com/s?wd=%E5%8F%B8%E6%9C%BA%E5%90%83%E9%9B%B6%E9%A3%9F%E6%8E%A5%E7%94%B5%E8%AF%9D%E9%85%BF%E4%BA%8B%E6%95%85%E8%87%B45%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [酒吧擅自邀请涉毒艺人孙兴被罚5万](https://www.baidu.com/s?wd=%E9%85%92%E5%90%A7%E6%93%85%E8%87%AA%E9%82%80%E8%AF%B7%E6%B6%89%E6%AF%92%E8%89%BA%E4%BA%BA%E5%AD%99%E5%85%B4%E8%A2%AB%E7%BD%9A5%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [谢娜再去已是嘉宾](https://www.baidu.com/s?wd=%E8%B0%A2%E5%A8%9C%E5%86%8D%E5%8E%BB%E5%B7%B2%E6%98%AF%E5%98%89%E5%AE%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [吴京带《巨齿鲨》剧组吃淄博烧烤](https://www.baidu.com/s?wd=%E5%90%B4%E4%BA%AC%E5%B8%A6%E3%80%8A%E5%B7%A8%E9%BD%BF%E9%B2%A8%E3%80%8B%E5%89%A7%E7%BB%84%E5%90%83%E6%B7%84%E5%8D%9A%E7%83%A7%E7%83%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
