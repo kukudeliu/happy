@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 13:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 13:09:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [比尔·盖茨发文称已抵达北京，系 3 年多来首次访华，有哪些信息值得关注？](https://www.zhihu.com/question/606659062)<br />
 6. [阿根廷中国赛主办方发声致歉，称第一次办赛确实有业余的地方，有哪些信息值得关注？](https://www.zhihu.com/question/606707001)<br />
 7. [调查显示「超 8 成非全日制研究生曾遇学历歧视」，如何看待此现象？学历歧视为何有禁不止？](https://www.zhihu.com/question/606123591)<br />
-8. [复旦等 26 家单位联合完成研究「首次揭示中国人基因组中隐藏特殊基因序列」，这对我国基因研究有何启发？](https://www.zhihu.com/question/606708628)<br />
-9. [男朋友不支持我滑雪怎么办？](https://www.zhihu.com/question/605791470)<br />
+8. [男朋友不支持我滑雪怎么办？](https://www.zhihu.com/question/605791470)<br />
+9. [复旦等 26 家单位联合完成研究「首次揭示中国人基因组中隐藏特殊基因序列」，这对我国基因研究有何启发？](https://www.zhihu.com/question/606708628)<br />
 
 > 百度  
 
@@ -31,10 +31,10 @@
 3. [5月70城房价出炉](https://www.baidu.com/s?wd=5%E6%9C%8870%E5%9F%8E%E6%88%BF%E4%BB%B7%E5%87%BA%E7%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [杭州亚运会筹备工作进入冲刺阶段](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%AD%B9%E5%A4%87%E5%B7%A5%E4%BD%9C%E8%BF%9B%E5%85%A5%E5%86%B2%E5%88%BA%E9%98%B6%E6%AE%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [9岁女孩被猫抓伤高烧14天](https://www.baidu.com/s?wd=9%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%A2%AB%E7%8C%AB%E6%8A%93%E4%BC%A4%E9%AB%98%E7%83%A714%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [统计局：有600多万青年还在找工作](https://www.baidu.com/s?wd=%E7%BB%9F%E8%AE%A1%E5%B1%80%EF%BC%9A%E6%9C%89600%E5%A4%9A%E4%B8%87%E9%9D%92%E5%B9%B4%E8%BF%98%E5%9C%A8%E6%89%BE%E5%B7%A5%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子赶集买毛蛋到家全变鸭子](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B5%B6%E9%9B%86%E4%B9%B0%E6%AF%9B%E8%9B%8B%E5%88%B0%E5%AE%B6%E5%85%A8%E5%8F%98%E9%B8%AD%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [地震发生时上海居民躲床下避难](https://www.baidu.com/s?wd=%E5%9C%B0%E9%9C%87%E5%8F%91%E7%94%9F%E6%97%B6%E4%B8%8A%E6%B5%B7%E5%B1%85%E6%B0%91%E8%BA%B2%E5%BA%8A%E4%B8%8B%E9%81%BF%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [烧烤店连日有陌生壮汉闹事](https://www.baidu.com/s?wd=%E7%83%A7%E7%83%A4%E5%BA%97%E8%BF%9E%E6%97%A5%E6%9C%89%E9%99%8C%E7%94%9F%E5%A3%AE%E6%B1%89%E9%97%B9%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [28省份可领高温津贴](https://www.baidu.com/s?wd=28%E7%9C%81%E4%BB%BD%E5%8F%AF%E9%A2%86%E9%AB%98%E6%B8%A9%E6%B4%A5%E8%B4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [统计局：有600多万青年还在找工作](https://www.baidu.com/s?wd=%E7%BB%9F%E8%AE%A1%E5%B1%80%EF%BC%9A%E6%9C%89600%E5%A4%9A%E4%B8%87%E9%9D%92%E5%B9%B4%E8%BF%98%E5%9C%A8%E6%89%BE%E5%B7%A5%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子赶集买毛蛋到家全变鸭子](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B5%B6%E9%9B%86%E4%B9%B0%E6%AF%9B%E8%9B%8B%E5%88%B0%E5%AE%B6%E5%85%A8%E5%8F%98%E9%B8%AD%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [地震发生时上海居民躲床下避难](https://www.baidu.com/s?wd=%E5%9C%B0%E9%9C%87%E5%8F%91%E7%94%9F%E6%97%B6%E4%B8%8A%E6%B5%B7%E5%B1%85%E6%B0%91%E8%BA%B2%E5%BA%8A%E4%B8%8B%E9%81%BF%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [5月70城房价出炉](https://www.baidu.com/s?wd=5%E6%9C%8870%E5%9F%8E%E6%88%BF%E4%BB%B7%E5%87%BA%E7%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [杭州亚运会筹备工作进入冲刺阶段](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%AD%B9%E5%A4%87%E5%B7%A5%E4%BD%9C%E8%BF%9B%E5%85%A5%E5%86%B2%E5%88%BA%E9%98%B6%E6%AE%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [9岁女孩被猫抓伤高烧14天](https://www.baidu.com/s?wd=9%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%A2%AB%E7%8C%AB%E6%8A%93%E4%BC%A4%E9%AB%98%E7%83%A714%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [统计局：有600多万青年还在找工作](https://www.baidu.com/s?wd=%E7%BB%9F%E8%AE%A1%E5%B1%80%EF%BC%9A%E6%9C%89600%E5%A4%9A%E4%B8%87%E9%9D%92%E5%B9%B4%E8%BF%98%E5%9C%A8%E6%89%BE%E5%B7%A5%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子赶集买毛蛋到家全变鸭子](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B5%B6%E9%9B%86%E4%B9%B0%E6%AF%9B%E8%9B%8B%E5%88%B0%E5%AE%B6%E5%85%A8%E5%8F%98%E9%B8%AD%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [地震发生时上海居民躲床下避难](https://www.baidu.com/s?wd=%E5%9C%B0%E9%9C%87%E5%8F%91%E7%94%9F%E6%97%B6%E4%B8%8A%E6%B5%B7%E5%B1%85%E6%B0%91%E8%BA%B2%E5%BA%8A%E4%B8%8B%E9%81%BF%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [烧烤店连日有陌生壮汉闹事](https://www.baidu.com/s?wd=%E7%83%A7%E7%83%A4%E5%BA%97%E8%BF%9E%E6%97%A5%E6%9C%89%E9%99%8C%E7%94%9F%E5%A3%AE%E6%B1%89%E9%97%B9%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [28省份可领高温津贴](https://www.baidu.com/s?wd=28%E7%9C%81%E4%BB%BD%E5%8F%AF%E9%A2%86%E9%AB%98%E6%B8%A9%E6%B4%A5%E8%B4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [统计局：有600多万青年还在找工作](https://www.baidu.com/s?wd=%E7%BB%9F%E8%AE%A1%E5%B1%80%EF%BC%9A%E6%9C%89600%E5%A4%9A%E4%B8%87%E9%9D%92%E5%B9%B4%E8%BF%98%E5%9C%A8%E6%89%BE%E5%B7%A5%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子赶集买毛蛋到家全变鸭子](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B5%B6%E9%9B%86%E4%B9%B0%E6%AF%9B%E8%9B%8B%E5%88%B0%E5%AE%B6%E5%85%A8%E5%8F%98%E9%B8%AD%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [地震发生时上海居民躲床下避难](https://www.baidu.com/s?wd=%E5%9C%B0%E9%9C%87%E5%8F%91%E7%94%9F%E6%97%B6%E4%B8%8A%E6%B5%B7%E5%B1%85%E6%B0%91%E8%BA%B2%E5%BA%8A%E4%B8%8B%E9%81%BF%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
