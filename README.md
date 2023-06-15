@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 21:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 21:23:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [自己供自己上了四年的大学](https://s.weibo.com/weibo?q=%23%E8%87%AA%E5%B7%B1%E4%BE%9B%E8%87%AA%E5%B7%B1%E4%B8%8A%E4%BA%86%E5%9B%9B%E5%B9%B4%E7%9A%84%E5%A4%A7%E5%AD%A6%23&t=31&band_rank=4&Refer=top)<br />
 5. [苏醒见完梅西偶遇来迟的薛之谦](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%E8%A7%81%E5%AE%8C%E6%A2%85%E8%A5%BF%E5%81%B6%E9%81%87%E6%9D%A5%E8%BF%9F%E7%9A%84%E8%96%9B%E4%B9%8B%E8%B0%A6%23&t=31&band_rank=5&Refer=top)<br />
 6. [贾乃亮黄景瑜评论区互怼](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E4%B9%83%E4%BA%AE%E9%BB%84%E6%99%AF%E7%91%9C%E8%AF%84%E8%AE%BA%E5%8C%BA%E4%BA%92%E6%80%BC%23&t=31&band_rank=6&Refer=top)<br />
-7. [张踩铃 当一个混血被双语幼儿园拒收](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%B8%A9%E9%93%83%20%E5%BD%93%E4%B8%80%E4%B8%AA%E6%B7%B7%E8%A1%80%E8%A2%AB%E5%8F%8C%E8%AF%AD%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%8B%92%E6%94%B6&t=31&band_rank=7&Refer=top)<br />
-8. [成毅坐轮椅直播](https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E5%9D%90%E8%BD%AE%E6%A4%85%E7%9B%B4%E6%92%AD%23&t=31&band_rank=8&Refer=top)<br />
+7. [成毅坐轮椅直播](https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E5%9D%90%E8%BD%AE%E6%A4%85%E7%9B%B4%E6%92%AD%23&t=31&band_rank=7&Refer=top)<br />
+8. [张踩铃 当一个混血被双语幼儿园拒收](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%B8%A9%E9%93%83%20%E5%BD%93%E4%B8%80%E4%B8%AA%E6%B7%B7%E8%A1%80%E8%A2%AB%E5%8F%8C%E8%AF%AD%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%8B%92%E6%94%B6&t=31&band_rank=8&Refer=top)<br />
 9. [阿根廷vs澳大利亚](https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7vs%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
