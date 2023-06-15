@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 11:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 11:33:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [鱼头星星回来了](https://s.weibo.com/weibo?q=%E9%B1%BC%E5%A4%B4%E6%98%9F%E6%98%9F%E5%9B%9E%E6%9D%A5%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [上海地震](https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%9C%87&t=31&band_rank=7&Refer=top)<br />
 8. [RNG老板澄清Uzi退役谣言](https://s.weibo.com/weibo?q=%23RNG%E8%80%81%E6%9D%BF%E6%BE%84%E6%B8%85Uzi%E9%80%80%E5%BD%B9%E8%B0%A3%E8%A8%80%23&t=31&band_rank=8&Refer=top)<br />
-9. [上厕所时千万不要蹲在马桶上](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E5%8E%95%E6%89%80%E6%97%B6%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E8%B9%B2%E5%9C%A8%E9%A9%AC%E6%A1%B6%E4%B8%8A%23&t=31&band_rank=9&Refer=top)<br />
+9. [赵丽颖 陌森](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%20%E9%99%8C%E6%A3%AE&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [比尔·盖茨发文称已抵达北京，系 3 年多来首次访华，有哪些信息值得关注？](https://www.zhihu.com/question/606659062)<br />
 7. [今年粽子口味「奶茶化」还有无米低卡「花菜粽」，如何看待此事？你愿意尝试非传统粽子吗？](https://www.zhihu.com/question/606587455)<br />
 8. [俄罗斯政府对部分大型公司征收 10% 暴利税，俄第一副总理称「企业家自愿发起」，哪些信息值得关注？](https://www.zhihu.com/question/606574864)<br />
-9. [C 罗任意球什么水准？](https://www.zhihu.com/question/328057195)<br />
+9. [调查显示「超 8 成非全日制研究生曾遇学历歧视」，如何看待此现象？学历歧视为何有禁不止？](https://www.zhihu.com/question/606123591)<br />
 
 > 百度  
 
