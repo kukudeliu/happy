@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 16:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 16:46:01</h4></div>
 
 > 微博  
 
@@ -26,7 +26,7 @@
 
 > 百度  
 
-1. [从中华文明统一性看中华民族凝聚力](https://www.baidu.com/s?wd=%E4%BB%8E%E4%B8%AD%E5%8D%8E%E6%96%87%E6%98%8E%E7%BB%9F%E4%B8%80%E6%80%A7%E7%9C%8B%E4%B8%AD%E5%8D%8E%E6%B0%91%E6%97%8F%E5%87%9D%E8%81%9A%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [推进全球人权治理理念创新](https://www.baidu.com/s?wd=%E6%8E%A8%E8%BF%9B%E5%85%A8%E7%90%83%E4%BA%BA%E6%9D%83%E6%B2%BB%E7%90%86%E7%90%86%E5%BF%B5%E5%88%9B%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [四川省长称帮一把没找到工作的孩子](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E7%9C%81%E9%95%BF%E7%A7%B0%E5%B8%AE%E4%B8%80%E6%8A%8A%E6%B2%A1%E6%89%BE%E5%88%B0%E5%B7%A5%E4%BD%9C%E7%9A%84%E5%AD%A9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [杨丽萍回应舞者造型被指不雅](https://www.baidu.com/s?wd=%E6%9D%A8%E4%B8%BD%E8%90%8D%E5%9B%9E%E5%BA%94%E8%88%9E%E8%80%85%E9%80%A0%E5%9E%8B%E8%A2%AB%E6%8C%87%E4%B8%8D%E9%9B%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [文明之光点燃亚运之火](https://www.baidu.com/s?wd=%E6%96%87%E6%98%8E%E4%B9%8B%E5%85%89%E7%82%B9%E7%87%83%E4%BA%9A%E8%BF%90%E4%B9%8B%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -38,7 +38,7 @@
 
 > 哔哩哔哩  
 
-1. [从中华文明统一性看中华民族凝聚力](https://www.baidu.com/s?wd=%E4%BB%8E%E4%B8%AD%E5%8D%8E%E6%96%87%E6%98%8E%E7%BB%9F%E4%B8%80%E6%80%A7%E7%9C%8B%E4%B8%AD%E5%8D%8E%E6%B0%91%E6%97%8F%E5%87%9D%E8%81%9A%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [推进全球人权治理理念创新](https://www.baidu.com/s?wd=%E6%8E%A8%E8%BF%9B%E5%85%A8%E7%90%83%E4%BA%BA%E6%9D%83%E6%B2%BB%E7%90%86%E7%90%86%E5%BF%B5%E5%88%9B%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [四川省长称帮一把没找到工作的孩子](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E7%9C%81%E9%95%BF%E7%A7%B0%E5%B8%AE%E4%B8%80%E6%8A%8A%E6%B2%A1%E6%89%BE%E5%88%B0%E5%B7%A5%E4%BD%9C%E7%9A%84%E5%AD%A9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [杨丽萍回应舞者造型被指不雅](https://www.baidu.com/s?wd=%E6%9D%A8%E4%B8%BD%E8%90%8D%E5%9B%9E%E5%BA%94%E8%88%9E%E8%80%85%E9%80%A0%E5%9E%8B%E8%A2%AB%E6%8C%87%E4%B8%8D%E9%9B%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [文明之光点燃亚运之火](https://www.baidu.com/s?wd=%E6%96%87%E6%98%8E%E4%B9%8B%E5%85%89%E7%82%B9%E7%87%83%E4%BA%9A%E8%BF%90%E4%B9%8B%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
