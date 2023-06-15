@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 13:30:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 13:31:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [同学说我不去椰树可惜了](https://s.weibo.com/weibo?q=%E5%90%8C%E5%AD%A6%E8%AF%B4%E6%88%91%E4%B8%8D%E5%8E%BB%E6%A4%B0%E6%A0%91%E5%8F%AF%E6%83%9C%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
 6. [澳门音乐节 退款](https://s.weibo.com/weibo?q=%E6%BE%B3%E9%97%A8%E9%9F%B3%E4%B9%90%E8%8A%82%20%E9%80%80%E6%AC%BE&t=31&band_rank=6&Refer=top)<br />
 7. [女子在行政大厅厕所捡到婴儿](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9C%A8%E8%A1%8C%E6%94%BF%E5%A4%A7%E5%8E%85%E5%8E%95%E6%89%80%E6%8D%A1%E5%88%B0%E5%A9%B4%E5%84%BF%23&t=31&band_rank=7&Refer=top)<br />
-8. [巴黎治鼠患失败](https://s.weibo.com/weibo?q=%E5%B7%B4%E9%BB%8E%E6%B2%BB%E9%BC%A0%E6%82%A3%E5%A4%B1%E8%B4%A5&t=31&band_rank=8&Refer=top)<br />
-9. [House脱口秀演出剧院被罚10万](https://s.weibo.com/weibo?q=%23House%E8%84%B1%E5%8F%A3%E7%A7%80%E6%BC%94%E5%87%BA%E5%89%A7%E9%99%A2%E8%A2%AB%E7%BD%9A10%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
+8. [我国总共600多万青年人失业](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E6%80%BB%E5%85%B1600%E5%A4%9A%E4%B8%87%E9%9D%92%E5%B9%B4%E4%BA%BA%E5%A4%B1%E4%B8%9A%23&t=31&band_rank=8&Refer=top)<br />
+9. [巴黎治鼠患失败](https://s.weibo.com/weibo?q=%E5%B7%B4%E9%BB%8E%E6%B2%BB%E9%BC%A0%E6%82%A3%E5%A4%B1%E8%B4%A5&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -21,8 +21,8 @@
 5. [比尔·盖茨发文称已抵达北京，系 3 年多来首次访华，有哪些信息值得关注？](https://www.zhihu.com/question/606659062)<br />
 6. [阿根廷中国赛主办方发声致歉，称第一次办赛确实有业余的地方，有哪些信息值得关注？](https://www.zhihu.com/question/606707001)<br />
 7. [调查显示「超 8 成非全日制研究生曾遇学历歧视」，如何看待此现象？学历歧视为何有禁不止？](https://www.zhihu.com/question/606123591)<br />
-8. [巴黎灭鼠计划失败，政府将成立专门机构研究「人类与老鼠共存」，全市约有 600 万老鼠，如何看待此事？](https://www.zhihu.com/question/606715659)<br />
-9. [男朋友不支持我滑雪怎么办？](https://www.zhihu.com/question/605791470)<br />
+8. [人社部表示「我国人口红利没有消失，新的人才红利正在形成」，哪些信息值得关注？](https://www.zhihu.com/question/606658603)<br />
+9. [巴黎灭鼠计划失败，政府将成立专门机构研究「人类与老鼠共存」，全市约有 600 万老鼠，如何看待此事？](https://www.zhihu.com/question/606715659)<br />
 
 > 百度  
 
