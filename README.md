@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 20:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 20:40:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [故宫博物院发布参观须知，禁止商业性拍摄，露营车等禁入，如何看待这一规定？](https://www.zhihu.com/question/606722404)<br />
 7. [杨丽萍回应孔雀舞惹不雅争议「近乎赤裸符合剧情，羽毛脱落是为了自由」，如何评价？怎样把握舞台尺度？](https://www.zhihu.com/question/606793449)<br />
 8. [18 岁日本陆自队员用自动步枪射击队友致 1 死 2 伤，具体情况如何？](https://www.zhihu.com/question/606539482)<br />
-9. [长二丁一箭 41 星发射圆满成功，创我国一箭多星新纪录，这一纪录具有何意义？](https://www.zhihu.com/question/606757085)<br />
+9. [前卡车司机为卡友定制「卡车床垫」，短视频发布之后「电话被打爆」，为何类似需求和商机一直以来没被看见？](https://www.zhihu.com/question/606211544)<br />
 
 > 百度  
 
@@ -34,7 +34,7 @@
 6. [特殊教育学校校长性侵多名残障学生](https://www.baidu.com/s?wd=%E7%89%B9%E6%AE%8A%E6%95%99%E8%82%B2%E5%AD%A6%E6%A0%A1%E6%A0%A1%E9%95%BF%E6%80%A7%E4%BE%B5%E5%A4%9A%E5%90%8D%E6%AE%8B%E9%9A%9C%E5%AD%A6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [深圳地铁投放反虐动物广告遭投诉](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%93%81%E6%8A%95%E6%94%BE%E5%8F%8D%E8%99%90%E5%8A%A8%E7%89%A9%E5%B9%BF%E5%91%8A%E9%81%AD%E6%8A%95%E8%AF%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [一碗冰粉19元网友直呼被刺到了](https://www.baidu.com/s?wd=%E4%B8%80%E7%A2%97%E5%86%B0%E7%B2%8919%E5%85%83%E7%BD%91%E5%8F%8B%E7%9B%B4%E5%91%BC%E8%A2%AB%E5%88%BA%E5%88%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [南宁一公司招实习生月薪300元被骂](https://www.baidu.com/s?wd=%E5%8D%97%E5%AE%81%E4%B8%80%E5%85%AC%E5%8F%B8%E6%8B%9B%E5%AE%9E%E4%B9%A0%E7%94%9F%E6%9C%88%E8%96%AA300%E5%85%83%E8%A2%AB%E9%AA%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [电影《芭比》确认引进](https://www.baidu.com/s?wd=%E7%94%B5%E5%BD%B1%E3%80%8A%E8%8A%AD%E6%AF%94%E3%80%8B%E7%A1%AE%E8%AE%A4%E5%BC%95%E8%BF%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [特殊教育学校校长性侵多名残障学生](https://www.baidu.com/s?wd=%E7%89%B9%E6%AE%8A%E6%95%99%E8%82%B2%E5%AD%A6%E6%A0%A1%E6%A0%A1%E9%95%BF%E6%80%A7%E4%BE%B5%E5%A4%9A%E5%90%8D%E6%AE%8B%E9%9A%9C%E5%AD%A6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [深圳地铁投放反虐动物广告遭投诉](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%93%81%E6%8A%95%E6%94%BE%E5%8F%8D%E8%99%90%E5%8A%A8%E7%89%A9%E5%B9%BF%E5%91%8A%E9%81%AD%E6%8A%95%E8%AF%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [一碗冰粉19元网友直呼被刺到了](https://www.baidu.com/s?wd=%E4%B8%80%E7%A2%97%E5%86%B0%E7%B2%8919%E5%85%83%E7%BD%91%E5%8F%8B%E7%9B%B4%E5%91%BC%E8%A2%AB%E5%88%BA%E5%88%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [南宁一公司招实习生月薪300元被骂](https://www.baidu.com/s?wd=%E5%8D%97%E5%AE%81%E4%B8%80%E5%85%AC%E5%8F%B8%E6%8B%9B%E5%AE%9E%E4%B9%A0%E7%94%9F%E6%9C%88%E8%96%AA300%E5%85%83%E8%A2%AB%E9%AA%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [电影《芭比》确认引进](https://www.baidu.com/s?wd=%E7%94%B5%E5%BD%B1%E3%80%8A%E8%8A%AD%E6%AF%94%E3%80%8B%E7%A1%AE%E8%AE%A4%E5%BC%95%E8%BF%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
