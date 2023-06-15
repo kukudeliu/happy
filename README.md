@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-16 00:12:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-16 00:13:01</h4></div>
 
 > 微博  
 
@@ -20,8 +20,8 @@
 4. [阿根廷 vs 澳大利亚现场有球迷冲进场拥抱梅西，被安保抬走，如何看待此行为？](https://www.zhihu.com/question/606862192)<br />
 5. [友谊赛阿根廷 2:0 澳大利亚，5 万人现场见证梅西 81 秒破门创生涯纪录，对这场比赛如何评价？](https://www.zhihu.com/question/606729340)<br />
 6. [前卡车司机为卡友定制「卡车床垫」，短视频发布之后「电话被打爆」，为何类似需求和商机一直以来没被看见？](https://www.zhihu.com/question/606211544)<br />
-7. [你的大学食堂有多贵？](https://www.zhihu.com/question/426716508)<br />
-8. [美国或发行万亿规模债券，此举将给金融市场带来多大冲击？](https://www.zhihu.com/question/606725154)<br />
+7. [美国或发行万亿规模债券，此举将给金融市场带来多大冲击？](https://www.zhihu.com/question/606725154)<br />
+8. [你的大学食堂有多贵？](https://www.zhihu.com/question/426716508)<br />
 9. [余承东称「高通对华为恢复提供 5G 芯片供应」为假消息，哪些信息值得关注？](https://www.zhihu.com/question/606369612)<br />
 
 > 百度  
