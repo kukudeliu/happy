@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 21:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 21:41:01</h4></div>
 
 > 微博  
 
@@ -26,7 +26,7 @@
 
 > 百度  
 
-1. [推进全球人权治理理念创新](https://www.baidu.com/s?wd=%E6%8E%A8%E8%BF%9B%E5%85%A8%E7%90%83%E4%BA%BA%E6%9D%83%E6%B2%BB%E7%90%86%E7%90%86%E5%BF%B5%E5%88%9B%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [开创世界更加美好的未来](https://www.baidu.com/s?wd=%E5%BC%80%E5%88%9B%E4%B8%96%E7%95%8C%E6%9B%B4%E5%8A%A0%E7%BE%8E%E5%A5%BD%E7%9A%84%E6%9C%AA%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [梅西开场81秒进球](https://www.baidu.com/s?wd=%E6%A2%85%E8%A5%BF%E5%BC%80%E5%9C%BA81%E7%A7%92%E8%BF%9B%E7%90%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [阿根廷2-0澳大利亚](https://www.baidu.com/s?wd=%E9%98%BF%E6%A0%B9%E5%BB%B7vs%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [文明之光点燃亚运之火](https://www.baidu.com/s?wd=%E6%96%87%E6%98%8E%E4%B9%8B%E5%85%89%E7%82%B9%E7%87%83%E4%BA%9A%E8%BF%90%E4%B9%8B%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -38,7 +38,7 @@
 
 > 哔哩哔哩  
 
-1. [推进全球人权治理理念创新](https://www.baidu.com/s?wd=%E6%8E%A8%E8%BF%9B%E5%85%A8%E7%90%83%E4%BA%BA%E6%9D%83%E6%B2%BB%E7%90%86%E7%90%86%E5%BF%B5%E5%88%9B%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [开创世界更加美好的未来](https://www.baidu.com/s?wd=%E5%BC%80%E5%88%9B%E4%B8%96%E7%95%8C%E6%9B%B4%E5%8A%A0%E7%BE%8E%E5%A5%BD%E7%9A%84%E6%9C%AA%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [梅西开场81秒进球](https://www.baidu.com/s?wd=%E6%A2%85%E8%A5%BF%E5%BC%80%E5%9C%BA81%E7%A7%92%E8%BF%9B%E7%90%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [阿根廷2-0澳大利亚](https://www.baidu.com/s?wd=%E9%98%BF%E6%A0%B9%E5%BB%B7vs%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [文明之光点燃亚运之火](https://www.baidu.com/s?wd=%E6%96%87%E6%98%8E%E4%B9%8B%E5%85%89%E7%82%B9%E7%87%83%E4%BA%9A%E8%BF%90%E4%B9%8B%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
