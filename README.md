@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 11:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 11:39:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [House脱口秀演出剧院被罚10万](https://s.weibo.com/weibo?q=%23House%E8%84%B1%E5%8F%A3%E7%A7%80%E6%BC%94%E5%87%BA%E5%89%A7%E9%99%A2%E8%A2%AB%E7%BD%9A10%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [上海地震](https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%9C%87&t=31&band_rank=7&Refer=top)<br />
 8. [RNG老板澄清Uzi退役谣言](https://s.weibo.com/weibo?q=%23RNG%E8%80%81%E6%9D%BF%E6%BE%84%E6%B8%85Uzi%E9%80%80%E5%BD%B9%E8%B0%A3%E8%A8%80%23&t=31&band_rank=8&Refer=top)<br />
-9. [包丽案被告人一审被判3年2个月](https://s.weibo.com/weibo?q=%23%E5%8C%85%E4%B8%BD%E6%A1%88%E8%A2%AB%E5%91%8A%E4%BA%BA%E4%B8%80%E5%AE%A1%E8%A2%AB%E5%88%A43%E5%B9%B42%E4%B8%AA%E6%9C%88%23&t=31&band_rank=9&Refer=top)<br />
+9. [上厕所时千万不要蹲在马桶上](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E5%8E%95%E6%89%80%E6%97%B6%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E8%B9%B2%E5%9C%A8%E9%A9%AC%E6%A1%B6%E4%B8%8A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
