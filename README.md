@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 21:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 21:55:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [苏醒见完梅西偶遇来迟的薛之谦](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%E8%A7%81%E5%AE%8C%E6%A2%85%E8%A5%BF%E5%81%B6%E9%81%87%E6%9D%A5%E8%BF%9F%E7%9A%84%E8%96%9B%E4%B9%8B%E8%B0%A6%23&t=31&band_rank=6&Refer=top)<br />
 7. [阿根廷vs澳大利亚](https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7vs%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%23&t=31&band_rank=7&Refer=top)<br />
 8. [贾乃亮黄景瑜评论区互怼](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E4%B9%83%E4%BA%AE%E9%BB%84%E6%99%AF%E7%91%9C%E8%AF%84%E8%AE%BA%E5%8C%BA%E4%BA%92%E6%80%BC%23&t=31&band_rank=8&Refer=top)<br />
-9. [苏醒 我离梅西好远](https://s.weibo.com/weibo?q=%E8%8B%8F%E9%86%92%20%E6%88%91%E7%A6%BB%E6%A2%85%E8%A5%BF%E5%A5%BD%E8%BF%9C&t=31&band_rank=9&Refer=top)<br />
+9. [阿根廷2比0](https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B72%E6%AF%940&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
