@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 12:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 12:31:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [比尔·盖茨发文称已抵达北京，系 3 年多来首次访华，有哪些信息值得关注？](https://www.zhihu.com/question/606659062)<br />
 5. [国家统计局表示五月国民经济继续恢复，其中 16-24 岁劳动力调查失业率 20.8%，如何解读？](https://www.zhihu.com/question/606724950)<br />
 6. [调查显示「超 8 成非全日制研究生曾遇学历歧视」，如何看待此现象？学历歧视为何有禁不止？](https://www.zhihu.com/question/606123591)<br />
-7. [复旦等 26 家单位联合完成研究「首次揭示中国人基因组中隐藏特殊基因序列」，这对我国基因研究有何启发？](https://www.zhihu.com/question/606708628)<br />
-8. [C 罗任意球什么水准？](https://www.zhihu.com/question/328057195)<br />
-9. []()<br />
+7. [游泳池的水很脏吗？](https://www.zhihu.com/question/602727856)<br />
+8. [复旦等 26 家单位联合完成研究「首次揭示中国人基因组中隐藏特殊基因序列」，这对我国基因研究有何启发？](https://www.zhihu.com/question/606708628)<br />
+9. [C 罗任意球什么水准？](https://www.zhihu.com/question/328057195)<br />
 
 > 百度  
 
