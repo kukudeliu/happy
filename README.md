@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 19:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 19:11:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [北京工体梅西含量超标](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%B7%A5%E4%BD%93%E6%A2%85%E8%A5%BF%E5%90%AB%E9%87%8F%E8%B6%85%E6%A0%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子在婆家身亡 脖子有3处刀伤](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%9C%A8%E5%A9%86%E5%AE%B6%E8%BA%AB%E4%BA%A1+%E8%84%96%E5%AD%90%E6%9C%893%E5%A4%84%E5%88%80%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子钓到大鱼单手骑车被甩翻](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%92%93%E5%88%B0%E5%A4%A7%E9%B1%BC%E5%8D%95%E6%89%8B%E9%AA%91%E8%BD%A6%E8%A2%AB%E7%94%A9%E7%BF%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [酒吧擅自邀请涉毒艺人孙兴被罚5万](https://www.baidu.com/s?wd=%E9%85%92%E5%90%A7%E6%93%85%E8%87%AA%E9%82%80%E8%AF%B7%E6%B6%89%E6%AF%92%E8%89%BA%E4%BA%BA%E5%AD%99%E5%85%B4%E8%A2%AB%E7%BD%9A5%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [一碗冰粉19元网友直呼被刺到了](https://www.baidu.com/s?wd=%E4%B8%80%E7%A2%97%E5%86%B0%E7%B2%8919%E5%85%83%E7%BD%91%E5%8F%8B%E7%9B%B4%E5%91%BC%E8%A2%AB%E5%88%BA%E5%88%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [北京工体梅西含量超标](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%B7%A5%E4%BD%93%E6%A2%85%E8%A5%BF%E5%90%AB%E9%87%8F%E8%B6%85%E6%A0%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子在婆家身亡 脖子有3处刀伤](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%9C%A8%E5%A9%86%E5%AE%B6%E8%BA%AB%E4%BA%A1+%E8%84%96%E5%AD%90%E6%9C%893%E5%A4%84%E5%88%80%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子钓到大鱼单手骑车被甩翻](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%92%93%E5%88%B0%E5%A4%A7%E9%B1%BC%E5%8D%95%E6%89%8B%E9%AA%91%E8%BD%A6%E8%A2%AB%E7%94%A9%E7%BF%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [酒吧擅自邀请涉毒艺人孙兴被罚5万](https://www.baidu.com/s?wd=%E9%85%92%E5%90%A7%E6%93%85%E8%87%AA%E9%82%80%E8%AF%B7%E6%B6%89%E6%AF%92%E8%89%BA%E4%BA%BA%E5%AD%99%E5%85%B4%E8%A2%AB%E7%BD%9A5%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [一碗冰粉19元网友直呼被刺到了](https://www.baidu.com/s?wd=%E4%B8%80%E7%A2%97%E5%86%B0%E7%B2%8919%E5%85%83%E7%BD%91%E5%8F%8B%E7%9B%B4%E5%91%BC%E8%A2%AB%E5%88%BA%E5%88%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
