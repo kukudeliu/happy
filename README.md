@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 23:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 23:08:01</h4></div>
 
 > 微博  
 
-1. [阿根廷2比0](https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B72%E6%AF%940&t=31&band_rank=1&Refer=top)<br />
-2. [苏醒见完梅西偶遇来迟的薛之谦](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%E8%A7%81%E5%AE%8C%E6%A2%85%E8%A5%BF%E5%81%B6%E9%81%87%E6%9D%A5%E8%BF%9F%E7%9A%84%E8%96%9B%E4%B9%8B%E8%B0%A6%23&t=31&band_rank=2&Refer=top)<br />
+1. [苏醒见完梅西偶遇来迟的薛之谦](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%E8%A7%81%E5%AE%8C%E6%A2%85%E8%A5%BF%E5%81%B6%E9%81%87%E6%9D%A5%E8%BF%9F%E7%9A%84%E8%96%9B%E4%B9%8B%E8%B0%A6%23&t=31&band_rank=1&Refer=top)<br />
+2. [阿根廷2比0](https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B72%E6%AF%940&t=31&band_rank=2&Refer=top)<br />
 3. [130秒飞阅杭州亚运会场馆](https://s.weibo.com/weibo?q=%23130%E7%A7%92%E9%A3%9E%E9%98%85%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%9C%BA%E9%A6%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [球迷冲进球场抱梅西](https://s.weibo.com/weibo?q=%E7%90%83%E8%BF%B7%E5%86%B2%E8%BF%9B%E7%90%83%E5%9C%BA%E6%8A%B1%E6%A2%85%E8%A5%BF&t=31&band_rank=4&Refer=top)<br />
 5. [杨紫羊毛卷](https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E7%BE%8A%E6%AF%9B%E5%8D%B7&t=31&band_rank=5&Refer=top)<br />
