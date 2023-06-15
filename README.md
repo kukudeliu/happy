@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 13:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 13:37:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [女学霸边读研边兼职3年赚17万](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A6%E9%9C%B8%E8%BE%B9%E8%AF%BB%E7%A0%94%E8%BE%B9%E5%85%BC%E8%81%8C3%E5%B9%B4%E8%B5%9A17%E4%B8%87%23&t=31&band_rank=4&Refer=top)<br />
 5. [女子在行政大厅厕所捡到婴儿](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9C%A8%E8%A1%8C%E6%94%BF%E5%A4%A7%E5%8E%85%E5%8E%95%E6%89%80%E6%8D%A1%E5%88%B0%E5%A9%B4%E5%84%BF%23&t=31&band_rank=5&Refer=top)<br />
 6. [同学说我不去椰树可惜了](https://s.weibo.com/weibo?q=%E5%90%8C%E5%AD%A6%E8%AF%B4%E6%88%91%E4%B8%8D%E5%8E%BB%E6%A4%B0%E6%A0%91%E5%8F%AF%E6%83%9C%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
-7. [澳门音乐节 退款](https://s.weibo.com/weibo?q=%E6%BE%B3%E9%97%A8%E9%9F%B3%E4%B9%90%E8%8A%82%20%E9%80%80%E6%AC%BE&t=31&band_rank=7&Refer=top)<br />
-8. [13岁女孩遭强奸怀孕报案近3年嫌疑人未受审](https://s.weibo.com/weibo?q=%2313%E5%B2%81%E5%A5%B3%E5%AD%A9%E9%81%AD%E5%BC%BA%E5%A5%B8%E6%80%80%E5%AD%95%E6%8A%A5%E6%A1%88%E8%BF%913%E5%B9%B4%E5%AB%8C%E7%96%91%E4%BA%BA%E6%9C%AA%E5%8F%97%E5%AE%A1%23&t=31&band_rank=8&Refer=top)<br />
+7. [13岁女孩遭强奸怀孕报案近3年嫌疑人未受审](https://s.weibo.com/weibo?q=%2313%E5%B2%81%E5%A5%B3%E5%AD%A9%E9%81%AD%E5%BC%BA%E5%A5%B8%E6%80%80%E5%AD%95%E6%8A%A5%E6%A1%88%E8%BF%913%E5%B9%B4%E5%AB%8C%E7%96%91%E4%BA%BA%E6%9C%AA%E5%8F%97%E5%AE%A1%23&t=31&band_rank=7&Refer=top)<br />
+8. [澳门音乐节 退款](https://s.weibo.com/weibo?q=%E6%BE%B3%E9%97%A8%E9%9F%B3%E4%B9%90%E8%8A%82%20%E9%80%80%E6%AC%BE&t=31&band_rank=8&Refer=top)<br />
 9. [我国总共600多万青年人失业](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E6%80%BB%E5%85%B1600%E5%A4%9A%E4%B8%87%E9%9D%92%E5%B9%B4%E4%BA%BA%E5%A4%B1%E4%B8%9A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -21,7 +21,7 @@
 5. [比尔·盖茨发文称已抵达北京，系 3 年多来首次访华，有哪些信息值得关注？](https://www.zhihu.com/question/606659062)<br />
 6. [阿根廷中国赛主办方发声致歉，称第一次办赛确实有业余的地方，有哪些信息值得关注？](https://www.zhihu.com/question/606707001)<br />
 7. [巴黎灭鼠计划失败，政府将成立专门机构研究「人类与老鼠共存」，全市约有 600 万老鼠，如何看待此事？](https://www.zhihu.com/question/606715659)<br />
-8. [调查显示「超 8 成非全日制研究生曾遇学历歧视」，如何看待此现象？学历歧视为何有禁不止？](https://www.zhihu.com/question/606123591)<br />
+8. [人社部表示「我国人口红利没有消失，新的人才红利正在形成」，哪些信息值得关注？](https://www.zhihu.com/question/606658603)<br />
 9. [男朋友不支持我滑雪怎么办？](https://www.zhihu.com/question/605791470)<br />
 
 > 百度  
