@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 21:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 21:34:01</h4></div>
 
 > 微博  
 
 1. [海底捞回应8块钱生菜仅2片](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%9B%9E%E5%BA%948%E5%9D%97%E9%92%B1%E7%94%9F%E8%8F%9C%E4%BB%852%E7%89%87%23&t=31&band_rank=1&Refer=top)<br />
-2. [梅西81秒进球](https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF81%E7%A7%92%E8%BF%9B%E7%90%83&t=31&band_rank=2&Refer=top)<br />
+2. [自己供自己上了四年的大学](https://s.weibo.com/weibo?q=%23%E8%87%AA%E5%B7%B1%E4%BE%9B%E8%87%AA%E5%B7%B1%E4%B8%8A%E4%BA%86%E5%9B%9B%E5%B9%B4%E7%9A%84%E5%A4%A7%E5%AD%A6%23&t=31&band_rank=2&Refer=top)<br />
 3. [130秒飞阅杭州亚运会场馆](https://s.weibo.com/weibo?q=%23130%E7%A7%92%E9%A3%9E%E9%98%85%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%9C%BA%E9%A6%86%23&t=31&band_rank=3&Refer=top)<br />
-4. [自己供自己上了四年的大学](https://s.weibo.com/weibo?q=%23%E8%87%AA%E5%B7%B1%E4%BE%9B%E8%87%AA%E5%B7%B1%E4%B8%8A%E4%BA%86%E5%9B%9B%E5%B9%B4%E7%9A%84%E5%A4%A7%E5%AD%A6%23&t=31&band_rank=4&Refer=top)<br />
+4. [梅西81秒进球](https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF81%E7%A7%92%E8%BF%9B%E7%90%83&t=31&band_rank=4&Refer=top)<br />
 5. [苏醒见完梅西偶遇来迟的薛之谦](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%E8%A7%81%E5%AE%8C%E6%A2%85%E8%A5%BF%E5%81%B6%E9%81%87%E6%9D%A5%E8%BF%9F%E7%9A%84%E8%96%9B%E4%B9%8B%E8%B0%A6%23&t=31&band_rank=5&Refer=top)<br />
 6. [成毅坐轮椅直播](https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E5%9D%90%E8%BD%AE%E6%A4%85%E7%9B%B4%E6%92%AD%23&t=31&band_rank=6&Refer=top)<br />
-7. [贾乃亮黄景瑜评论区互怼](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E4%B9%83%E4%BA%AE%E9%BB%84%E6%99%AF%E7%91%9C%E8%AF%84%E8%AE%BA%E5%8C%BA%E4%BA%92%E6%80%BC%23&t=31&band_rank=7&Refer=top)<br />
-8. [阿根廷半场1比0澳大利亚](https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%8D%8A%E5%9C%BA1%E6%AF%940%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A&t=31&band_rank=8&Refer=top)<br />
-9. [张踩铃 当一个混血被双语幼儿园拒收](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%B8%A9%E9%93%83%20%E5%BD%93%E4%B8%80%E4%B8%AA%E6%B7%B7%E8%A1%80%E8%A2%AB%E5%8F%8C%E8%AF%AD%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%8B%92%E6%94%B6&t=31&band_rank=9&Refer=top)<br />
+7. [苏醒 我离梅西好远](https://s.weibo.com/weibo?q=%E8%8B%8F%E9%86%92%20%E6%88%91%E7%A6%BB%E6%A2%85%E8%A5%BF%E5%A5%BD%E8%BF%9C&t=31&band_rank=7&Refer=top)<br />
+8. [贾乃亮黄景瑜评论区互怼](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E4%B9%83%E4%BA%AE%E9%BB%84%E6%99%AF%E7%91%9C%E8%AF%84%E8%AE%BA%E5%8C%BA%E4%BA%92%E6%80%BC%23&t=31&band_rank=8&Refer=top)<br />
+9. [阿根廷半场1比0澳大利亚](https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%8D%8A%E5%9C%BA1%E6%AF%940%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -19,8 +19,8 @@
 3. [故宫博物院发布参观须知，禁止商业性拍摄，露营车等禁入，如何看待这一规定？](https://www.zhihu.com/question/606722404)<br />
 4. [印度向小米发出正式通知，48 亿元或被印度没收，哪些信息值得关注？](https://www.zhihu.com/question/606368662)<br />
 5. [韩国房价暴跌，背后与美联储加息关系有多大？](https://www.zhihu.com/theater/13920)<br />
-6. [跳桥救人外卖小哥获多方奖励，平台奖励五万元并为其申请免费上大学，基金会奖励三万元，具有哪些积极意义？](https://www.zhihu.com/question/606578224)<br />
-7. [杨丽萍回应孔雀舞惹不雅争议「近乎赤裸符合剧情，羽毛脱落是为了自由」，如何评价？怎样把握舞台尺度？](https://www.zhihu.com/question/606793449)<br />
+6. [杨丽萍回应孔雀舞惹不雅争议「近乎赤裸符合剧情，羽毛脱落是为了自由」，如何评价？怎样把握舞台尺度？](https://www.zhihu.com/question/606793449)<br />
+7. [跳桥救人外卖小哥获多方奖励，平台奖励五万元并为其申请免费上大学，基金会奖励三万元，具有哪些积极意义？](https://www.zhihu.com/question/606578224)<br />
 8. [18 岁日本陆自队员用自动步枪射击队友致 1 死 2 伤，具体情况如何？](https://www.zhihu.com/question/606539482)<br />
 9. [前卡车司机为卡友定制「卡车床垫」，短视频发布之后「电话被打爆」，为何类似需求和商机一直以来没被看见？](https://www.zhihu.com/question/606211544)<br />
 
