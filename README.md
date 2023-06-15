@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 12:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 12:03:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [上海地震](https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%9C%87&t=31&band_rank=6&Refer=top)<br />
 7. [鱼头星星回来了](https://s.weibo.com/weibo?q=%E9%B1%BC%E5%A4%B4%E6%98%9F%E6%98%9F%E5%9B%9E%E6%9D%A5%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [RNG老板澄清Uzi退役谣言](https://s.weibo.com/weibo?q=%23RNG%E8%80%81%E6%9D%BF%E6%BE%84%E6%B8%85Uzi%E9%80%80%E5%BD%B9%E8%B0%A3%E8%A8%80%23&t=31&band_rank=8&Refer=top)<br />
-9. [上厕所时千万不要蹲在马桶上](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E5%8E%95%E6%89%80%E6%97%B6%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E8%B9%B2%E5%9C%A8%E9%A9%AC%E6%A1%B6%E4%B8%8A%23&t=31&band_rank=9&Refer=top)<br />
+9. [女学霸边读研边兼职3年赚17万](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A6%E9%9C%B8%E8%BE%B9%E8%AF%BB%E7%A0%94%E8%BE%B9%E5%85%BC%E8%81%8C3%E5%B9%B4%E8%B5%9A17%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [调查显示「超 8 成非全日制研究生曾遇学历歧视」，如何看待此现象？学历歧视为何有禁不止？](https://www.zhihu.com/question/606123591)<br />
 7. [C 罗任意球什么水准？](https://www.zhihu.com/question/328057195)<br />
 8. []()<br />
-9. [人类为何不大规模训练猴子做「流水线工人」?](https://www.zhihu.com/question/597376599)<br />
+9. [如何看待 AMD 发布 Instinct MI300X GPU 芯片？是否在大模型时代威胁 Nvidia 地位?](https://www.zhihu.com/question/606505567)<br />
 
 > 百度  
 
