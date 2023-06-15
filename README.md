@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 23:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-15 23:16:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [前卡车司机为卡友定制「卡车床垫」，短视频发布之后「电话被打爆」，为何类似需求和商机一直以来没被看见？](https://www.zhihu.com/question/606211544)<br />
 6. [阿根廷 vs 澳大利亚现场有球迷冲进场拥抱梅西，被安保抬走，如何看待此行为？](https://www.zhihu.com/question/606862192)<br />
 7. [你的大学食堂有多贵？](https://www.zhihu.com/question/426716508)<br />
-8. [印度向小米发出正式通知，48 亿元或被印度没收，哪些信息值得关注？](https://www.zhihu.com/question/606368662)<br />
-9. [欧洲议会表决支持乌克兰加入北约，这将对俄乌局势产生什么影响？](https://www.zhihu.com/question/606845963)<br />
+8. [欧洲议会表决支持乌克兰加入北约，这将对俄乌局势产生什么影响？](https://www.zhihu.com/question/606845963)<br />
+9. [吉米巴特勒和伦纳德谁更好？](https://www.zhihu.com/question/603806754)<br />
 
 > 百度  
 
