@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 03:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 03:57:01</h4></div>
 
 > 微博  
 
@@ -19,10 +19,10 @@
 3. [为什么很多网友都说电脑用 5 年左右就该换了？](https://www.zhihu.com/question/521171582)<br />
 4. [美光科技将在西安封测工厂投资逾 43 亿元，收购当地一半导体公司封装设备，商业上如何解读此举？](https://www.zhihu.com/question/607000886)<br />
 5. [哈佛医学院曝惊天丑闻，员工偷尸体卖器官，600 美元可买两张脸，包裹用快递寄出，如何看待此事？](https://www.zhihu.com/question/606917409)<br />
-6. [如何看待游戏《动物派对》首发定价 98 元？](https://www.zhihu.com/question/605626589)<br />
-7. [40 度的天，你们的穿搭是怎样哇塞的？](https://www.zhihu.com/question/606013148)<br />
-8. [《甄嬛传》中，同样是被皇上相中，为什么纯元投入了皇帝的怀抱，而玉娆果断拒绝？](https://www.zhihu.com/question/590498536)<br />
-9. [如何正确选择吹风机？](https://www.zhihu.com/question/416143908)<br />
+6. [40 度的天，你们的穿搭是怎样哇塞的？](https://www.zhihu.com/question/606013148)<br />
+7. [《甄嬛传》中，同样是被皇上相中，为什么纯元投入了皇帝的怀抱，而玉娆果断拒绝？](https://www.zhihu.com/question/590498536)<br />
+8. [如何正确选择吹风机？](https://www.zhihu.com/question/416143908)<br />
+9. []()<br />
 
 > 百度  
 
