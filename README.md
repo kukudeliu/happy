@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 07:14:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 07:15:02</h4></div>
 
 > 微博  
 
@@ -19,8 +19,8 @@
 3. [哈佛医学院曝惊天丑闻，员工偷尸体卖器官，600 美元可买两张脸，包裹用快递寄出，如何看待此事？](https://www.zhihu.com/question/606917409)<br />
 4. [官方回应交警将摩托骑手推下斜坡「涉事辅警粗暴简单执法，被辞退」，你对此事件有哪些评价？](https://www.zhihu.com/question/606973911)<br />
 5. [哪些方法可以让小孩好好写作业？](https://www.zhihu.com/question/596788731)<br />
-6. [你有没有一瞬间不想打篮球了？](https://www.zhihu.com/question/456341403)<br />
-7. [为什么很多网友都说电脑用 5 年左右就该换了？](https://www.zhihu.com/question/521171582)<br />
+6. [为什么很多网友都说电脑用 5 年左右就该换了？](https://www.zhihu.com/question/521171582)<br />
+7. [你有没有一瞬间不想打篮球了？](https://www.zhihu.com/question/456341403)<br />
 8. [2023 中国大学评级发布，北大、人大、清华、复旦等 9 所高校位列最顶级，哪些信息值得关注？](https://www.zhihu.com/question/606944114)<br />
 9. [特斯拉发布视频公开「电机的秘密」，视频中暗讽造车新势力只做 「冰箱彩电大沙发」，如何看待此视频？](https://www.zhihu.com/question/606771603)<br />
 
