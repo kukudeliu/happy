@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 01:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 01:04:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [美官员称布林肯访华将围绕三大目标同中方沟通，布林肯此次访华有何重要意义？](https://www.zhihu.com/question/606965050)<br />
 7. [如果可以带一种食品穿越回古代，你会选择带什么？](https://www.zhihu.com/question/606423086)<br />
 8. [预算 19 万，合资主流 SUV 怎么选？](https://www.zhihu.com/question/605951947)<br />
-9. [宝宝马上2岁了，是否有必要这么早开始给宝宝数学启蒙？应该如何给宝宝数学启蒙？](https://www.zhihu.com/question/604872660)<br />
+9. [巴拉圭准外称愿就「无条件建立外交、领事和商业关系」与中方对话，同时和台当局关系不变，释放了哪些信号？](https://www.zhihu.com/question/606637125)<br />
 
 > 百度  
 
@@ -32,8 +32,8 @@
 4. [高质量发展调研行](https://www.baidu.com/s?wd=%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E8%B0%83%E7%A0%94%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [国足赢了！4-0大胜缅甸](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B3%E8%B5%A2%E4%BA%86%EF%BC%814-0%E5%A4%A7%E8%83%9C%E7%BC%85%E7%94%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [日警察向外籍女子喊回中国去](https://www.baidu.com/s?wd=%E6%97%A5%E8%AD%A6%E5%AF%9F%E5%90%91%E5%A4%96%E7%B1%8D%E5%A5%B3%E5%AD%90%E5%96%8A%E5%9B%9E%E4%B8%AD%E5%9B%BD%E5%8E%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [响水爆炸事故环境损害赔偿总额逾4亿](https://www.baidu.com/s?wd=%E5%93%8D%E6%B0%B4%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E7%8E%AF%E5%A2%83%E6%8D%9F%E5%AE%B3%E8%B5%94%E5%81%BF%E6%80%BB%E9%A2%9D%E9%80%BE4%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [广东暴雨积水成河 有人屋内钓鱼](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E6%9A%B4%E9%9B%A8%E7%A7%AF%E6%B0%B4%E6%88%90%E6%B2%B3+%E6%9C%89%E4%BA%BA%E5%B1%8B%E5%86%85%E9%92%93%E9%B1%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [泽连斯基回应特朗普言论](https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%A8%80%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [欧委会称将不再采购华为中兴设备](https://www.baidu.com/s?wd=%E6%AC%A7%E5%A7%94%E4%BC%9A%E7%A7%B0%E5%B0%86%E4%B8%8D%E5%86%8D%E9%87%87%E8%B4%AD%E5%8D%8E%E4%B8%BA%E4%B8%AD%E5%85%B4%E8%AE%BE%E5%A4%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [女子拆145个盲盒拒付款](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8B%86145%E4%B8%AA%E7%9B%B2%E7%9B%92%E6%8B%92%E4%BB%98%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -44,6 +44,6 @@
 4. [高质量发展调研行](https://www.baidu.com/s?wd=%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E8%B0%83%E7%A0%94%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [国足赢了！4-0大胜缅甸](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B3%E8%B5%A2%E4%BA%86%EF%BC%814-0%E5%A4%A7%E8%83%9C%E7%BC%85%E7%94%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [日警察向外籍女子喊回中国去](https://www.baidu.com/s?wd=%E6%97%A5%E8%AD%A6%E5%AF%9F%E5%90%91%E5%A4%96%E7%B1%8D%E5%A5%B3%E5%AD%90%E5%96%8A%E5%9B%9E%E4%B8%AD%E5%9B%BD%E5%8E%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [响水爆炸事故环境损害赔偿总额逾4亿](https://www.baidu.com/s?wd=%E5%93%8D%E6%B0%B4%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E7%8E%AF%E5%A2%83%E6%8D%9F%E5%AE%B3%E8%B5%94%E5%81%BF%E6%80%BB%E9%A2%9D%E9%80%BE4%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [广东暴雨积水成河 有人屋内钓鱼](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E6%9A%B4%E9%9B%A8%E7%A7%AF%E6%B0%B4%E6%88%90%E6%B2%B3+%E6%9C%89%E4%BA%BA%E5%B1%8B%E5%86%85%E9%92%93%E9%B1%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [泽连斯基回应特朗普言论](https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%A8%80%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [欧委会称将不再采购华为中兴设备](https://www.baidu.com/s?wd=%E6%AC%A7%E5%A7%94%E4%BC%9A%E7%A7%B0%E5%B0%86%E4%B8%8D%E5%86%8D%E9%87%87%E8%B4%AD%E5%8D%8E%E4%B8%BA%E4%B8%AD%E5%85%B4%E8%AE%BE%E5%A4%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [女子拆145个盲盒拒付款](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8B%86145%E4%B8%AA%E7%9B%B2%E7%9B%92%E6%8B%92%E4%BB%98%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
