@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-16 09:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-16 09:35:01</h4></div>
 
 > 微博  
 
@@ -14,7 +14,7 @@
 
 > 知乎  
 
-1. [阿根廷 vs 澳大利亚现场有球迷冲进场拥抱梅西，被安保抬走，如何看待此行为？](https://www.zhihu.com/question/606862192)<br />
+1. [当事人回应冲进比赛球场拥抱梅西称「对不起梅西 ，我实在太想见你」，如何看待此事？该球迷将承担什么责任？](https://www.zhihu.com/question/606862192)<br />
 2. [人社部表示「我国人口红利没有消失，新的人才红利正在形成」，哪些信息值得关注？](https://www.zhihu.com/question/606658603)<br />
 3. [杨丽萍回应孔雀舞惹不雅争议「近乎赤裸符合剧情，羽毛脱落是为了自由」，如何评价？怎样把握舞台尺度？](https://www.zhihu.com/question/606793449)<br />
 4. [前卡车司机为卡友定制「卡车床垫」，短视频发布之后「电话被打爆」，为何类似需求和商机一直以来没被看见？](https://www.zhihu.com/question/606211544)<br />
@@ -30,7 +30,7 @@
 2. [梅西看到儿子海报眼睛都瞪大了](https://www.baidu.com/s?wd=%E6%A2%85%E8%A5%BF%E7%9C%8B%E5%88%B0%E5%84%BF%E5%AD%90%E6%B5%B7%E6%8A%A5%E7%9C%BC%E7%9D%9B%E9%83%BD%E7%9E%AA%E5%A4%A7%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [海底捞回应8块钱生菜仅2片](https://www.baidu.com/s?wd=%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%9B%9E%E5%BA%948%E5%9D%97%E9%92%B1%E7%94%9F%E8%8F%9C%E4%BB%852%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [杭州亚运会值得期待](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%80%BC%E5%BE%97%E6%9C%9F%E5%BE%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [地铁事件女子被曝保研存内幕](https://www.baidu.com/s?wd=%E5%9C%B0%E9%93%81%E4%BA%8B%E4%BB%B6%E5%A5%B3%E5%AD%90%E8%A2%AB%E6%9B%9D%E4%BF%9D%E7%A0%94%E5%AD%98%E5%86%85%E5%B9%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [疑似俄军督战队射杀逃兵画面曝光](https://www.baidu.com/s?wd=%E7%96%91%E4%BC%BC%E4%BF%84%E5%86%9B%E7%9D%A3%E6%88%98%E9%98%9F%E5%B0%84%E6%9D%80%E9%80%83%E5%85%B5%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [家长质疑收费被班主任踢出群](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E8%B4%A8%E7%96%91%E6%94%B6%E8%B4%B9%E8%A2%AB%E7%8F%AD%E4%B8%BB%E4%BB%BB%E8%B8%A2%E5%87%BA%E7%BE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男生中考忘涂机读卡妈妈大哭](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E4%B8%AD%E8%80%83%E5%BF%98%E6%B6%82%E6%9C%BA%E8%AF%BB%E5%8D%A1%E5%A6%88%E5%A6%88%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [超40度高温来袭](https://www.baidu.com/s?wd=%E8%B6%8540%E5%BA%A6%E9%AB%98%E6%B8%A9%E6%9D%A5%E8%A2%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -42,7 +42,7 @@
 2. [梅西看到儿子海报眼睛都瞪大了](https://www.baidu.com/s?wd=%E6%A2%85%E8%A5%BF%E7%9C%8B%E5%88%B0%E5%84%BF%E5%AD%90%E6%B5%B7%E6%8A%A5%E7%9C%BC%E7%9D%9B%E9%83%BD%E7%9E%AA%E5%A4%A7%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [海底捞回应8块钱生菜仅2片](https://www.baidu.com/s?wd=%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%9B%9E%E5%BA%948%E5%9D%97%E9%92%B1%E7%94%9F%E8%8F%9C%E4%BB%852%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [杭州亚运会值得期待](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%80%BC%E5%BE%97%E6%9C%9F%E5%BE%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [地铁事件女子被曝保研存内幕](https://www.baidu.com/s?wd=%E5%9C%B0%E9%93%81%E4%BA%8B%E4%BB%B6%E5%A5%B3%E5%AD%90%E8%A2%AB%E6%9B%9D%E4%BF%9D%E7%A0%94%E5%AD%98%E5%86%85%E5%B9%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [疑似俄军督战队射杀逃兵画面曝光](https://www.baidu.com/s?wd=%E7%96%91%E4%BC%BC%E4%BF%84%E5%86%9B%E7%9D%A3%E6%88%98%E9%98%9F%E5%B0%84%E6%9D%80%E9%80%83%E5%85%B5%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [家长质疑收费被班主任踢出群](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E8%B4%A8%E7%96%91%E6%94%B6%E8%B4%B9%E8%A2%AB%E7%8F%AD%E4%B8%BB%E4%BB%BB%E8%B8%A2%E5%87%BA%E7%BE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男生中考忘涂机读卡妈妈大哭](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E4%B8%AD%E8%80%83%E5%BF%98%E6%B6%82%E6%9C%BA%E8%AF%BB%E5%8D%A1%E5%A6%88%E5%A6%88%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [超40度高温来袭](https://www.baidu.com/s?wd=%E8%B6%8540%E5%BA%A6%E9%AB%98%E6%B8%A9%E6%9D%A5%E8%A2%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
