@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-16 20:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-16 20:32:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [郭碧婷穿衣风格向太化](https://s.weibo.com/weibo?q=%23%E9%83%AD%E7%A2%A7%E5%A9%B7%E7%A9%BF%E8%A1%A3%E9%A3%8E%E6%A0%BC%E5%90%91%E5%A4%AA%E5%8C%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [杜江问梅西嗯哼的签名照是真迹吗](https://s.weibo.com/weibo?q=%23%E6%9D%9C%E6%B1%9F%E9%97%AE%E6%A2%85%E8%A5%BF%E5%97%AF%E5%93%BC%E7%9A%84%E7%AD%BE%E5%90%8D%E7%85%A7%E6%98%AF%E7%9C%9F%E8%BF%B9%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
 8. [嗯哼 追星成功太开心啦](https://s.weibo.com/weibo?q=%E5%97%AF%E5%93%BC%20%E8%BF%BD%E6%98%9F%E6%88%90%E5%8A%9F%E5%A4%AA%E5%BC%80%E5%BF%83%E5%95%A6&t=31&band_rank=8&Refer=top)<br />
-9. [曝一高校女寝空调限时男寝全天使用](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E4%B8%80%E9%AB%98%E6%A0%A1%E5%A5%B3%E5%AF%9D%E7%A9%BA%E8%B0%83%E9%99%90%E6%97%B6%E7%94%B7%E5%AF%9D%E5%85%A8%E5%A4%A9%E4%BD%BF%E7%94%A8%23&t=31&band_rank=9&Refer=top)<br />
+9. [洗碗工收到工资给老板500元感谢](https://s.weibo.com/weibo?q=%23%E6%B4%97%E7%A2%97%E5%B7%A5%E6%94%B6%E5%88%B0%E5%B7%A5%E8%B5%84%E7%BB%99%E8%80%81%E6%9D%BF500%E5%85%83%E6%84%9F%E8%B0%A2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -19,10 +19,10 @@
 3. [「上四休三」的老板后悔了，个别员工的自律问题暴露出来，有人选择去「混」，反映出哪些问题？如何看待此事？](https://www.zhihu.com/question/606430833)<br />
 4. [为什么「新疆」英文是 Xinjiang，「西藏」英文却是 Tibet？](https://www.zhihu.com/question/606293073)<br />
 5. [多巴胺穿搭爆火，如何驾驭这种减龄又时髦的风格？      ](https://www.zhihu.com/theater/95719)<br />
-6. [经济学专业就业广而不精？报考时应该如何规划细分专业选择？](https://www.zhihu.com/theater/10219?drama_id=1653128435064025088&source=ops)<br />
-7. [2023 中国大学评级发布，北大、人大、清华、复旦等 9 所高校位列最顶级，哪些信息值得关注？](https://www.zhihu.com/question/606944114)<br />
-8. [如果张辽在合肥之战中一个突击秒了孙权，会得到什么样的评价？也是威震华夏吗？](https://www.zhihu.com/question/606707868)<br />
-9. [张朝阳表示「年轻人找不到工作不要气馁，在互联网上做个体职业者就挺好」，如何看待这一观点？](https://www.zhihu.com/question/606808835)<br />
+6. [2023 中国大学评级发布，北大、人大、清华、复旦等 9 所高校位列最顶级，哪些信息值得关注？](https://www.zhihu.com/question/606944114)<br />
+7. [如果张辽在合肥之战中一个突击秒了孙权，会得到什么样的评价？也是威震华夏吗？](https://www.zhihu.com/question/606707868)<br />
+8. [张朝阳表示「年轻人找不到工作不要气馁，在互联网上做个体职业者就挺好」，如何看待这一观点？](https://www.zhihu.com/question/606808835)<br />
+9. [遇到一个高冷的老师，微信问她孩子的课堂表现，她总不理我，该怎么办？](https://www.zhihu.com/question/595884970)<br />
 
 > 百度  
 
