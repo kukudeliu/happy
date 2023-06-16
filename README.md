@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-16 19:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-16 19:24:01</h4></div>
 
 > 微博  
 
@@ -31,9 +31,9 @@
 3. [跳江救人小哥被奖励10万元和一套房](https://www.baidu.com/s?wd=%E8%B7%B3%E6%B1%9F%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E8%A2%AB%E5%A5%96%E5%8A%B110%E4%B8%87%E5%85%83%E5%92%8C%E4%B8%80%E5%A5%97%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [高考考生们这些“套路”骗局要当心](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E8%80%83%E7%94%9F%E4%BB%AC%E8%BF%99%E4%BA%9B%E2%80%9C%E5%A5%97%E8%B7%AF%E2%80%9D%E9%AA%97%E5%B1%80%E8%A6%81%E5%BD%93%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子烈日下举牌求前夫复婚](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%83%88%E6%97%A5%E4%B8%8B%E4%B8%BE%E7%89%8C%E6%B1%82%E5%89%8D%E5%A4%AB%E5%A4%8D%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男子被法院判三年“禁酒”](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A2%AB%E6%B3%95%E9%99%A2%E5%88%A4%E4%B8%89%E5%B9%B4%E2%80%9C%E7%A6%81%E9%85%92%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [谢娜三公排名跌至第六](https://www.baidu.com/s?wd=%E8%B0%A2%E5%A8%9C%E4%B8%89%E5%85%AC%E6%8E%92%E5%90%8D%E8%B7%8C%E8%87%B3%E7%AC%AC%E5%85%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [新任国防部发言人张晓刚亮相](https://www.baidu.com/s?wd=%E6%96%B0%E4%BB%BB%E5%9B%BD%E9%98%B2%E9%83%A8%E5%8F%91%E8%A8%80%E4%BA%BA%E5%BC%A0%E6%99%93%E5%88%9A%E4%BA%AE%E7%9B%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [私人山庄被造谣鬼屋 房主：不敢回了](https://www.baidu.com/s?wd=%E7%A7%81%E4%BA%BA%E5%B1%B1%E5%BA%84%E8%A2%AB%E9%80%A0%E8%B0%A3%E9%AC%BC%E5%B1%8B+%E6%88%BF%E4%B8%BB%EF%BC%9A%E4%B8%8D%E6%95%A2%E5%9B%9E%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [比尔盖茨回复黄晓明](https://www.baidu.com/s?wd=%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8%E5%9B%9E%E5%A4%8D%E9%BB%84%E6%99%93%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [越南开始担心被“抢饭碗”了](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E5%BC%80%E5%A7%8B%E6%8B%85%E5%BF%83%E8%A2%AB%E2%80%9C%E6%8A%A2%E9%A5%AD%E7%A2%97%E2%80%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -43,7 +43,7 @@
 3. [跳江救人小哥被奖励10万元和一套房](https://www.baidu.com/s?wd=%E8%B7%B3%E6%B1%9F%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E8%A2%AB%E5%A5%96%E5%8A%B110%E4%B8%87%E5%85%83%E5%92%8C%E4%B8%80%E5%A5%97%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [高考考生们这些“套路”骗局要当心](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E8%80%83%E7%94%9F%E4%BB%AC%E8%BF%99%E4%BA%9B%E2%80%9C%E5%A5%97%E8%B7%AF%E2%80%9D%E9%AA%97%E5%B1%80%E8%A6%81%E5%BD%93%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子烈日下举牌求前夫复婚](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%83%88%E6%97%A5%E4%B8%8B%E4%B8%BE%E7%89%8C%E6%B1%82%E5%89%8D%E5%A4%AB%E5%A4%8D%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男子被法院判三年“禁酒”](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A2%AB%E6%B3%95%E9%99%A2%E5%88%A4%E4%B8%89%E5%B9%B4%E2%80%9C%E7%A6%81%E9%85%92%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [谢娜三公排名跌至第六](https://www.baidu.com/s?wd=%E8%B0%A2%E5%A8%9C%E4%B8%89%E5%85%AC%E6%8E%92%E5%90%8D%E8%B7%8C%E8%87%B3%E7%AC%AC%E5%85%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [新任国防部发言人张晓刚亮相](https://www.baidu.com/s?wd=%E6%96%B0%E4%BB%BB%E5%9B%BD%E9%98%B2%E9%83%A8%E5%8F%91%E8%A8%80%E4%BA%BA%E5%BC%A0%E6%99%93%E5%88%9A%E4%BA%AE%E7%9B%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [私人山庄被造谣鬼屋 房主：不敢回了](https://www.baidu.com/s?wd=%E7%A7%81%E4%BA%BA%E5%B1%B1%E5%BA%84%E8%A2%AB%E9%80%A0%E8%B0%A3%E9%AC%BC%E5%B1%8B+%E6%88%BF%E4%B8%BB%EF%BC%9A%E4%B8%8D%E6%95%A2%E5%9B%9E%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [比尔盖茨回复黄晓明](https://www.baidu.com/s?wd=%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8%E5%9B%9E%E5%A4%8D%E9%BB%84%E6%99%93%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [越南开始担心被“抢饭碗”了](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E5%BC%80%E5%A7%8B%E6%8B%85%E5%BF%83%E8%A2%AB%E2%80%9C%E6%8A%A2%E9%A5%AD%E7%A2%97%E2%80%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
