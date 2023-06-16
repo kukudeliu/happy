@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-16 13:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-16 13:16:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [黄晓明油过没丑过](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E6%B2%B9%E8%BF%87%E6%B2%A1%E4%B8%91%E8%BF%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [苏翊鸣发文回应保送清华大学](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%BF%8A%E9%B8%A3%E5%8F%91%E6%96%87%E5%9B%9E%E5%BA%94%E4%BF%9D%E9%80%81%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%23&t=31&band_rank=7&Refer=top)<br />
 8. [球迷冲进球场抱梅西](https://s.weibo.com/weibo?q=%23%E7%90%83%E8%BF%B7%E5%86%B2%E8%BF%9B%E7%90%83%E5%9C%BA%E6%8A%B1%E6%A2%85%E8%A5%BF%23&t=31&band_rank=8&Refer=top)<br />
-9. [交警买网红青蛙小青蛙不让付钱](https://s.weibo.com/weibo?q=%23%E4%BA%A4%E8%AD%A6%E4%B9%B0%E7%BD%91%E7%BA%A2%E9%9D%92%E8%9B%99%E5%B0%8F%E9%9D%92%E8%9B%99%E4%B8%8D%E8%AE%A9%E4%BB%98%E9%92%B1%23&t=31&band_rank=9&Refer=top)<br />
+9. [离职时我把工资告诉了同事](https://s.weibo.com/weibo?q=%23%E7%A6%BB%E8%81%8C%E6%97%B6%E6%88%91%E6%8A%8A%E5%B7%A5%E8%B5%84%E5%91%8A%E8%AF%89%E4%BA%86%E5%90%8C%E4%BA%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
