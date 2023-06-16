@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-16 22:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-16 22:33:01</h4></div>
 
 > 微博  
 
@@ -16,9 +16,9 @@
 
 1. [2023 中国大学评级发布，北大、人大、清华、复旦等 9 所高校位列最顶级，哪些信息值得关注？](https://www.zhihu.com/question/606944114)<br />
 2. [马斯克和比尔盖茨等掀起「访华潮」，如何看待外企高管们纷纷到访中国？会带来哪些利好？](https://www.zhihu.com/question/606763754)<br />
-3. [乌军宣布「已经收复了超过 100 平方公里领土」，具体情况如何？哪些信息值得关注？](https://www.zhihu.com/question/606939911)<br />
+3. [时隔两年回归主场！国足 4-0 缅甸，扬科维奇拿下执教首胜，如何评价国足表现？](https://www.zhihu.com/question/606934848)<br />
 4. [为什么「新疆」英文是 Xinjiang，「西藏」英文却是 Tibet？](https://www.zhihu.com/question/606293073)<br />
-5. [时隔两年回归主场！国足 4-0 缅甸，扬科维奇拿下执教首胜，如何评价国足表现？](https://www.zhihu.com/question/606934848)<br />
+5. [乌军宣布「已经收复了超过 100 平方公里领土」，具体情况如何？哪些信息值得关注？](https://www.zhihu.com/question/606939911)<br />
 6. [欧委会称将不再采购华为中兴设备，外交部称「有罪推定，坚决反对」，如何看待此事？](https://www.zhihu.com/question/606961996)<br />
 7. [为什么很多网友都说电脑用 5 年左右就该换了？](https://www.zhihu.com/question/521171582)<br />
 8. [如何评价皮克斯新片《疯狂元素城》？](https://www.zhihu.com/question/598971125)<br />
