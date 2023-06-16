@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-16 21:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-16 21:27:02</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [为什么「新疆」英文是 Xinjiang，「西藏」英文却是 Tibet？](https://www.zhihu.com/question/606293073)<br />
 5. [多巴胺穿搭爆火，如何驾驭这种减龄又时髦的风格？      ](https://www.zhihu.com/theater/95719)<br />
 6. [爆火的「多巴胺穿搭」，真的会让人感到快乐吗？](https://www.zhihu.com/question/606946488)<br />
-7. [遇到一个高冷的老师，微信问她孩子的课堂表现，她总不理我，该怎么办？](https://www.zhihu.com/question/595884970)<br />
-8. [马斯克和比尔盖茨等掀起「访华潮」，如何看待外企高管们纷纷到访中国？会带来哪些利好？](https://www.zhihu.com/question/606763754)<br />
-9. [「上四休三」的老板后悔了，个别员工的自律问题暴露出来，有人选择去「混」，反映出哪些问题？如何看待此事？](https://www.zhihu.com/question/606430833)<br />
+7. [马斯克和比尔盖茨等掀起「访华潮」，如何看待外企高管们纷纷到访中国？会带来哪些利好？](https://www.zhihu.com/question/606763754)<br />
+8. [遇到一个高冷的老师，微信问她孩子的课堂表现，她总不理我，该怎么办？](https://www.zhihu.com/question/595884970)<br />
+9. [外交部回应基辛格称中美关系站在「悬崖之上」，如何看待这一评价？未来中美关系或如何发展？](https://www.zhihu.com/question/606962595)<br />
 
 > 百度  
 
