@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-16 16:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-16 16:35:01</h4></div>
 
 > 微博  
 
@@ -32,7 +32,7 @@
 4. [高温下 致敬他们的坚守](https://www.baidu.com/s?wd=%E9%AB%98%E6%B8%A9%E4%B8%8B+%E8%87%B4%E6%95%AC%E4%BB%96%E4%BB%AC%E7%9A%84%E5%9D%9A%E5%AE%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [新闻学教授怒怼张雪峰](https://www.baidu.com/s?wd=%E6%96%B0%E9%97%BB%E5%AD%A6%E6%95%99%E6%8E%88%E6%80%92%E6%80%BC%E5%BC%A0%E9%9B%AA%E5%B3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [比尔盖茨回复黄晓明](https://www.baidu.com/s?wd=%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8%E5%9B%9E%E5%A4%8D%E9%BB%84%E6%99%93%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [官方通报河南6·5爆燃事故](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%B2%B3%E5%8D%976%C2%B75%E7%88%86%E7%87%83%E4%BA%8B%E6%95%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子租房一年才发现指纹锁脚都能开](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%9F%E6%88%BF%E4%B8%80%E5%B9%B4%E6%89%8D%E5%8F%91%E7%8E%B0%E6%8C%87%E7%BA%B9%E9%94%81%E8%84%9A%E9%83%BD%E8%83%BD%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [热到怀疑人生](https://www.baidu.com/s?wd=%E7%83%AD%E5%88%B0%E6%80%80%E7%96%91%E4%BA%BA%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [618惠选潮电节 AI帮你选](https://www.baidu.com/s?wd=618%E6%83%A0%E9%80%89%E6%BD%AE%E7%94%B5%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -44,6 +44,6 @@
 4. [高温下 致敬他们的坚守](https://www.baidu.com/s?wd=%E9%AB%98%E6%B8%A9%E4%B8%8B+%E8%87%B4%E6%95%AC%E4%BB%96%E4%BB%AC%E7%9A%84%E5%9D%9A%E5%AE%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [新闻学教授怒怼张雪峰](https://www.baidu.com/s?wd=%E6%96%B0%E9%97%BB%E5%AD%A6%E6%95%99%E6%8E%88%E6%80%92%E6%80%BC%E5%BC%A0%E9%9B%AA%E5%B3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [比尔盖茨回复黄晓明](https://www.baidu.com/s?wd=%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8%E5%9B%9E%E5%A4%8D%E9%BB%84%E6%99%93%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [官方通报河南6·5爆燃事故](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%B2%B3%E5%8D%976%C2%B75%E7%88%86%E7%87%83%E4%BA%8B%E6%95%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子租房一年才发现指纹锁脚都能开](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%9F%E6%88%BF%E4%B8%80%E5%B9%B4%E6%89%8D%E5%8F%91%E7%8E%B0%E6%8C%87%E7%BA%B9%E9%94%81%E8%84%9A%E9%83%BD%E8%83%BD%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [热到怀疑人生](https://www.baidu.com/s?wd=%E7%83%AD%E5%88%B0%E6%80%80%E7%96%91%E4%BA%BA%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [618惠选潮电节 AI帮你选](https://www.baidu.com/s?wd=618%E6%83%A0%E9%80%89%E6%BD%AE%E7%94%B5%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
