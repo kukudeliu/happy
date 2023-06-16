@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-16 21:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-16 21:14:01</h4></div>
 
 > 微博  
 
@@ -8,7 +8,7 @@
 4. [迪丽热巴真发了100多张自拍](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9C%9F%E5%8F%91%E4%BA%86100%E5%A4%9A%E5%BC%A0%E8%87%AA%E6%8B%8D%23&t=31&band_rank=4&Refer=top)<br />
 5. [冲进球场男子被行拘](https://s.weibo.com/weibo?q=%23%E5%86%B2%E8%BF%9B%E7%90%83%E5%9C%BA%E7%94%B7%E5%AD%90%E8%A2%AB%E8%A1%8C%E6%8B%98%23&t=31&band_rank=5&Refer=top)<br />
 6. [郭碧婷穿衣风格向太化](https://s.weibo.com/weibo?q=%23%E9%83%AD%E7%A2%A7%E5%A9%B7%E7%A9%BF%E8%A1%A3%E9%A3%8E%E6%A0%BC%E5%90%91%E5%A4%AA%E5%8C%96%23&t=31&band_rank=6&Refer=top)<br />
-7. [王一博首个电影男主角荣誉](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E9%A6%96%E4%B8%AA%E7%94%B5%E5%BD%B1%E7%94%B7%E4%B8%BB%E8%A7%92%E8%8D%A3%E8%AA%89%23&t=31&band_rank=7&Refer=top)<br />
+7. [吴倩方晒出院记录](https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%80%A9%E6%96%B9%E6%99%92%E5%87%BA%E9%99%A2%E8%AE%B0%E5%BD%95%23&t=31&band_rank=7&Refer=top)<br />
 8. [为暗恋对象做了200页PPT](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E6%9A%97%E6%81%8B%E5%AF%B9%E8%B1%A1%E5%81%9A%E4%BA%86200%E9%A1%B5PPT%23&t=31&band_rank=8&Refer=top)<br />
 9. [杜江问梅西嗯哼的签名照是真迹吗](https://s.weibo.com/weibo?q=%23%E6%9D%9C%E6%B1%9F%E9%97%AE%E6%A2%85%E8%A5%BF%E5%97%AF%E5%93%BC%E7%9A%84%E7%AD%BE%E5%90%8D%E7%85%A7%E6%98%AF%E7%9C%9F%E8%BF%B9%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
 
@@ -27,23 +27,23 @@
 > 百度  
 
 1. [习近平会见比尔·盖茨](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E6%AF%94%E5%B0%94%C2%B7%E7%9B%96%E8%8C%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [跳江救人小哥被奖励10万元和一套房](https://www.baidu.com/s?wd=%E8%B7%B3%E6%B1%9F%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E8%A2%AB%E5%A5%96%E5%8A%B110%E4%B8%87%E5%85%83%E5%92%8C%E4%B8%80%E5%A5%97%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [阿里总裁谈马云近况：他在东京教书](https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E6%80%BB%E8%A3%81%E8%B0%88%E9%A9%AC%E4%BA%91%E8%BF%91%E5%86%B5%EF%BC%9A%E4%BB%96%E5%9C%A8%E4%B8%9C%E4%BA%AC%E6%95%99%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [阿里总裁谈马云近况：他在东京教书](https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E6%80%BB%E8%A3%81%E8%B0%88%E9%A9%AC%E4%BA%91%E8%BF%91%E5%86%B5%EF%BC%9A%E4%BB%96%E5%9C%A8%E4%B8%9C%E4%BA%AC%E6%95%99%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [国足赢了！4-0大胜缅甸](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B3%E8%B5%A2%E4%BA%86%EF%BC%814-0%E5%A4%A7%E8%83%9C%E7%BC%85%E7%94%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [高质量发展调研行](https://www.baidu.com/s?wd=%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E8%B0%83%E7%A0%94%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [冲场拥抱梅西球迷被行拘](https://www.baidu.com/s?wd=%E5%86%B2%E5%9C%BA%E6%8B%A5%E6%8A%B1%E6%A2%85%E8%A5%BF%E7%90%83%E8%BF%B7%E8%A2%AB%E8%A1%8C%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [特朗普说请支持者吃饭却没买单](https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E8%AF%B7%E6%94%AF%E6%8C%81%E8%80%85%E5%90%83%E9%A5%AD%E5%8D%B4%E6%B2%A1%E4%B9%B0%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [阿姨收到工资反塞给老板500块](https://www.baidu.com/s?wd=%E9%98%BF%E5%A7%A8%E6%94%B6%E5%88%B0%E5%B7%A5%E8%B5%84%E5%8F%8D%E5%A1%9E%E7%BB%99%E8%80%81%E6%9D%BF500%E5%9D%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [西宁倡议干部：邀游客去家里留宿](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%81%E5%80%A1%E8%AE%AE%E5%B9%B2%E9%83%A8%EF%BC%9A%E9%82%80%E6%B8%B8%E5%AE%A2%E5%8E%BB%E5%AE%B6%E9%87%8C%E7%95%99%E5%AE%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [国足赢了！4-0大胜缅甸](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B3%E8%B5%A2%E4%BA%86%EF%BC%814-0%E5%A4%A7%E8%83%9C%E7%BC%85%E7%94%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [阿姨收到工资反塞给老板500块](https://www.baidu.com/s?wd=%E9%98%BF%E5%A7%A8%E6%94%B6%E5%88%B0%E5%B7%A5%E8%B5%84%E5%8F%8D%E5%A1%9E%E7%BB%99%E8%80%81%E6%9D%BF500%E5%9D%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [西宁倡议干部：邀游客去家里留宿](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%81%E5%80%A1%E8%AE%AE%E5%B9%B2%E9%83%A8%EF%BC%9A%E9%82%80%E6%B8%B8%E5%AE%A2%E5%8E%BB%E5%AE%B6%E9%87%8C%E7%95%99%E5%AE%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [高校被曝女寝空调限时男寝全天使用](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E8%A2%AB%E6%9B%9D%E5%A5%B3%E5%AF%9D%E7%A9%BA%E8%B0%83%E9%99%90%E6%97%B6%E7%94%B7%E5%AF%9D%E5%85%A8%E5%A4%A9%E4%BD%BF%E7%94%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [乘地铁被冤枉偷拍男子已准备起诉](https://www.baidu.com/s?wd=%E4%B9%98%E5%9C%B0%E9%93%81%E8%A2%AB%E5%86%A4%E6%9E%89%E5%81%B7%E6%8B%8D%E7%94%B7%E5%AD%90%E5%B7%B2%E5%87%86%E5%A4%87%E8%B5%B7%E8%AF%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [习近平会见比尔·盖茨](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E6%AF%94%E5%B0%94%C2%B7%E7%9B%96%E8%8C%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [跳江救人小哥被奖励10万元和一套房](https://www.baidu.com/s?wd=%E8%B7%B3%E6%B1%9F%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E8%A2%AB%E5%A5%96%E5%8A%B110%E4%B8%87%E5%85%83%E5%92%8C%E4%B8%80%E5%A5%97%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [阿里总裁谈马云近况：他在东京教书](https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E6%80%BB%E8%A3%81%E8%B0%88%E9%A9%AC%E4%BA%91%E8%BF%91%E5%86%B5%EF%BC%9A%E4%BB%96%E5%9C%A8%E4%B8%9C%E4%BA%AC%E6%95%99%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [阿里总裁谈马云近况：他在东京教书](https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E6%80%BB%E8%A3%81%E8%B0%88%E9%A9%AC%E4%BA%91%E8%BF%91%E5%86%B5%EF%BC%9A%E4%BB%96%E5%9C%A8%E4%B8%9C%E4%BA%AC%E6%95%99%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [国足赢了！4-0大胜缅甸](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B3%E8%B5%A2%E4%BA%86%EF%BC%814-0%E5%A4%A7%E8%83%9C%E7%BC%85%E7%94%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [高质量发展调研行](https://www.baidu.com/s?wd=%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E8%B0%83%E7%A0%94%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [冲场拥抱梅西球迷被行拘](https://www.baidu.com/s?wd=%E5%86%B2%E5%9C%BA%E6%8B%A5%E6%8A%B1%E6%A2%85%E8%A5%BF%E7%90%83%E8%BF%B7%E8%A2%AB%E8%A1%8C%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [特朗普说请支持者吃饭却没买单](https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E8%AF%B7%E6%94%AF%E6%8C%81%E8%80%85%E5%90%83%E9%A5%AD%E5%8D%B4%E6%B2%A1%E4%B9%B0%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [阿姨收到工资反塞给老板500块](https://www.baidu.com/s?wd=%E9%98%BF%E5%A7%A8%E6%94%B6%E5%88%B0%E5%B7%A5%E8%B5%84%E5%8F%8D%E5%A1%9E%E7%BB%99%E8%80%81%E6%9D%BF500%E5%9D%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [西宁倡议干部：邀游客去家里留宿](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%81%E5%80%A1%E8%AE%AE%E5%B9%B2%E9%83%A8%EF%BC%9A%E9%82%80%E6%B8%B8%E5%AE%A2%E5%8E%BB%E5%AE%B6%E9%87%8C%E7%95%99%E5%AE%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [国足赢了！4-0大胜缅甸](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B3%E8%B5%A2%E4%BA%86%EF%BC%814-0%E5%A4%A7%E8%83%9C%E7%BC%85%E7%94%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [阿姨收到工资反塞给老板500块](https://www.baidu.com/s?wd=%E9%98%BF%E5%A7%A8%E6%94%B6%E5%88%B0%E5%B7%A5%E8%B5%84%E5%8F%8D%E5%A1%9E%E7%BB%99%E8%80%81%E6%9D%BF500%E5%9D%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [西宁倡议干部：邀游客去家里留宿](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%81%E5%80%A1%E8%AE%AE%E5%B9%B2%E9%83%A8%EF%BC%9A%E9%82%80%E6%B8%B8%E5%AE%A2%E5%8E%BB%E5%AE%B6%E9%87%8C%E7%95%99%E5%AE%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [高校被曝女寝空调限时男寝全天使用](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E8%A2%AB%E6%9B%9D%E5%A5%B3%E5%AF%9D%E7%A9%BA%E8%B0%83%E9%99%90%E6%97%B6%E7%94%B7%E5%AF%9D%E5%85%A8%E5%A4%A9%E4%BD%BF%E7%94%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [乘地铁被冤枉偷拍男子已准备起诉](https://www.baidu.com/s?wd=%E4%B9%98%E5%9C%B0%E9%93%81%E8%A2%AB%E5%86%A4%E6%9E%89%E5%81%B7%E6%8B%8D%E7%94%B7%E5%AD%90%E5%B7%B2%E5%87%86%E5%A4%87%E8%B5%B7%E8%AF%89&sa=fyb_news&rsv_dl=fyb_news)<br />
