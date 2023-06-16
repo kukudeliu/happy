@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-16 22:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-16 22:10:01</h4></div>
 
 > 微博  
 
@@ -16,9 +16,9 @@
 
 1. [2023 中国大学评级发布，北大、人大、清华、复旦等 9 所高校位列最顶级，哪些信息值得关注？](https://www.zhihu.com/question/606944114)<br />
 2. [乌军宣布「已经收复了超过 100 平方公里领土」，具体情况如何？哪些信息值得关注？](https://www.zhihu.com/question/606939911)<br />
-3. [马斯克和比尔盖茨等掀起「访华潮」，如何看待外企高管们纷纷到访中国？会带来哪些利好？](https://www.zhihu.com/question/606763754)<br />
+3. [特斯拉发布视频公开「电机的秘密」，视频中暗讽造车新势力只做 「冰箱彩电大沙发」，如何看待此视频？](https://www.zhihu.com/question/606771603)<br />
 4. [为什么「新疆」英文是 Xinjiang，「西藏」英文却是 Tibet？](https://www.zhihu.com/question/606293073)<br />
-5. [多巴胺穿搭爆火，如何驾驭这种减龄又时髦的风格？      ](https://www.zhihu.com/theater/95719)<br />
+5. [马斯克和比尔盖茨等掀起「访华潮」，如何看待外企高管们纷纷到访中国？会带来哪些利好？](https://www.zhihu.com/question/606763754)<br />
 6. [欧委会称将不再采购华为中兴设备，外交部称「有罪推定，坚决反对」，如何看待此事？](https://www.zhihu.com/question/606961996)<br />
 7. [时隔两年回归主场！国足 4-0 缅甸，扬科维奇拿下执教首胜，如何评价国足表现？](https://www.zhihu.com/question/606934848)<br />
 8. [为什么很多网友都说电脑用 5 年左右就该换了？](https://www.zhihu.com/question/521171582)<br />
@@ -32,9 +32,9 @@
 4. [高质量发展调研行](https://www.baidu.com/s?wd=%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E8%B0%83%E7%A0%94%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [乘地铁被冤枉偷拍男子已准备起诉](https://www.baidu.com/s?wd=%E4%B9%98%E5%9C%B0%E9%93%81%E8%A2%AB%E5%86%A4%E6%9E%89%E5%81%B7%E6%8B%8D%E7%94%B7%E5%AD%90%E5%B7%B2%E5%87%86%E5%A4%87%E8%B5%B7%E8%AF%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [超载25倍沥青货车侧翻 母子被埋身亡](https://www.baidu.com/s?wd=%E8%B6%85%E8%BD%BD25%E5%80%8D%E6%B2%A5%E9%9D%92%E8%B4%A7%E8%BD%A6%E4%BE%A7%E7%BF%BB+%E6%AF%8D%E5%AD%90%E8%A2%AB%E5%9F%8B%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [40岁女子被社区打错宫颈癌疫苗](https://www.baidu.com/s?wd=40%E5%B2%81%E5%A5%B3%E5%AD%90%E8%A2%AB%E7%A4%BE%E5%8C%BA%E6%89%93%E9%94%99%E5%AE%AB%E9%A2%88%E7%99%8C%E7%96%AB%E8%8B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [郭碧婷穿衣风格向太化](https://www.baidu.com/s?wd=%E9%83%AD%E7%A2%A7%E5%A9%B7%E7%A9%BF%E8%A1%A3%E9%A3%8E%E6%A0%BC%E5%90%91%E5%A4%AA%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [越南开始担心被“抢饭碗”了](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E5%BC%80%E5%A7%8B%E6%8B%85%E5%BF%83%E8%A2%AB%E2%80%9C%E6%8A%A2%E9%A5%AD%E7%A2%97%E2%80%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [郭碧婷穿衣风格向太化](https://www.baidu.com/s?wd=%E9%83%AD%E7%A2%A7%E5%A9%B7%E7%A9%BF%E8%A1%A3%E9%A3%8E%E6%A0%BC%E5%90%91%E5%A4%AA%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [越南开始担心被“抢饭碗”了](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E5%BC%80%E5%A7%8B%E6%8B%85%E5%BF%83%E8%A2%AB%E2%80%9C%E6%8A%A2%E9%A5%AD%E7%A2%97%E2%80%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [比尔盖茨回复黄晓明](https://www.baidu.com/s?wd=%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8%E5%9B%9E%E5%A4%8D%E9%BB%84%E6%99%93%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [高质量发展调研行](https://www.baidu.com/s?wd=%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E8%B0%83%E7%A0%94%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [乘地铁被冤枉偷拍男子已准备起诉](https://www.baidu.com/s?wd=%E4%B9%98%E5%9C%B0%E9%93%81%E8%A2%AB%E5%86%A4%E6%9E%89%E5%81%B7%E6%8B%8D%E7%94%B7%E5%AD%90%E5%B7%B2%E5%87%86%E5%A4%87%E8%B5%B7%E8%AF%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [超载25倍沥青货车侧翻 母子被埋身亡](https://www.baidu.com/s?wd=%E8%B6%85%E8%BD%BD25%E5%80%8D%E6%B2%A5%E9%9D%92%E8%B4%A7%E8%BD%A6%E4%BE%A7%E7%BF%BB+%E6%AF%8D%E5%AD%90%E8%A2%AB%E5%9F%8B%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [40岁女子被社区打错宫颈癌疫苗](https://www.baidu.com/s?wd=40%E5%B2%81%E5%A5%B3%E5%AD%90%E8%A2%AB%E7%A4%BE%E5%8C%BA%E6%89%93%E9%94%99%E5%AE%AB%E9%A2%88%E7%99%8C%E7%96%AB%E8%8B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [郭碧婷穿衣风格向太化](https://www.baidu.com/s?wd=%E9%83%AD%E7%A2%A7%E5%A9%B7%E7%A9%BF%E8%A1%A3%E9%A3%8E%E6%A0%BC%E5%90%91%E5%A4%AA%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [越南开始担心被“抢饭碗”了](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E5%BC%80%E5%A7%8B%E6%8B%85%E5%BF%83%E8%A2%AB%E2%80%9C%E6%8A%A2%E9%A5%AD%E7%A2%97%E2%80%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [郭碧婷穿衣风格向太化](https://www.baidu.com/s?wd=%E9%83%AD%E7%A2%A7%E5%A9%B7%E7%A9%BF%E8%A1%A3%E9%A3%8E%E6%A0%BC%E5%90%91%E5%A4%AA%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [越南开始担心被“抢饭碗”了](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E5%BC%80%E5%A7%8B%E6%8B%85%E5%BF%83%E8%A2%AB%E2%80%9C%E6%8A%A2%E9%A5%AD%E7%A2%97%E2%80%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [比尔盖茨回复黄晓明](https://www.baidu.com/s?wd=%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8%E5%9B%9E%E5%A4%8D%E9%BB%84%E6%99%93%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
