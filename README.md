@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 00:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 00:37:01</h4></div>
 
 > 微博  
 
@@ -20,8 +20,8 @@
 4. [马斯克和比尔盖茨等掀起「访华潮」，如何看待外企高管们纷纷到访中国？会带来哪些利好？](https://www.zhihu.com/question/606763754)<br />
 5. [为什么很多网友都说电脑用 5 年左右就该换了？](https://www.zhihu.com/question/521171582)<br />
 6. [如何评价 DC 电影《闪电侠》？](https://www.zhihu.com/question/606551009)<br />
-7. [如何看待和朋友渐行渐远?](https://www.zhihu.com/question/597781416)<br />
-8. [美官员称布林肯访华将围绕三大目标同中方沟通，布林肯此次访华有何重要意义？](https://www.zhihu.com/question/606965050)<br />
+7. [美官员称布林肯访华将围绕三大目标同中方沟通，布林肯此次访华有何重要意义？](https://www.zhihu.com/question/606965050)<br />
+8. [如何看待和朋友渐行渐远?](https://www.zhihu.com/question/597781416)<br />
 9. [如果可以带一种食品穿越回古代，你会选择带什么？](https://www.zhihu.com/question/606423086)<br />
 
 > 百度  
