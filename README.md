@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-16 21:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-16 21:58:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [冲场拥抱梅西球迷被行拘](https://www.baidu.com/s?wd=%E5%86%B2%E5%9C%BA%E6%8B%A5%E6%8A%B1%E6%A2%85%E8%A5%BF%E7%90%83%E8%BF%B7%E8%A2%AB%E8%A1%8C%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [郭碧婷穿衣风格向太化](https://www.baidu.com/s?wd=%E9%83%AD%E7%A2%A7%E5%A9%B7%E7%A9%BF%E8%A1%A3%E9%A3%8E%E6%A0%BC%E5%90%91%E5%A4%AA%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [超载25倍沥青货车侧翻 母子被埋身亡](https://www.baidu.com/s?wd=%E8%B6%85%E8%BD%BD25%E5%80%8D%E6%B2%A5%E9%9D%92%E8%B4%A7%E8%BD%A6%E4%BE%A7%E7%BF%BB+%E6%AF%8D%E5%AD%90%E8%A2%AB%E5%9F%8B%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [父亲回应苏翊鸣圆梦清华：专业未定](https://www.baidu.com/s?wd=%E7%88%B6%E4%BA%B2%E5%9B%9E%E5%BA%94%E8%8B%8F%E7%BF%8A%E9%B8%A3%E5%9C%86%E6%A2%A6%E6%B8%85%E5%8D%8E%EF%BC%9A%E4%B8%93%E4%B8%9A%E6%9C%AA%E5%AE%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [安保追逐冲进球场球迷时在笑](https://www.baidu.com/s?wd=%E5%AE%89%E4%BF%9D%E8%BF%BD%E9%80%90%E5%86%B2%E8%BF%9B%E7%90%83%E5%9C%BA%E7%90%83%E8%BF%B7%E6%97%B6%E5%9C%A8%E7%AC%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [40岁女子被社区打错宫颈癌疫苗](https://www.baidu.com/s?wd=40%E5%B2%81%E5%A5%B3%E5%AD%90%E8%A2%AB%E7%A4%BE%E5%8C%BA%E6%89%93%E9%94%99%E5%AE%AB%E9%A2%88%E7%99%8C%E7%96%AB%E8%8B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [父亲回应苏翊鸣圆梦清华：专业未定](https://www.baidu.com/s?wd=%E7%88%B6%E4%BA%B2%E5%9B%9E%E5%BA%94%E8%8B%8F%E7%BF%8A%E9%B8%A3%E5%9C%86%E6%A2%A6%E6%B8%85%E5%8D%8E%EF%BC%9A%E4%B8%93%E4%B8%9A%E6%9C%AA%E5%AE%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [冲场拥抱梅西球迷被行拘](https://www.baidu.com/s?wd=%E5%86%B2%E5%9C%BA%E6%8B%A5%E6%8A%B1%E6%A2%85%E8%A5%BF%E7%90%83%E8%BF%B7%E8%A2%AB%E8%A1%8C%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [郭碧婷穿衣风格向太化](https://www.baidu.com/s?wd=%E9%83%AD%E7%A2%A7%E5%A9%B7%E7%A9%BF%E8%A1%A3%E9%A3%8E%E6%A0%BC%E5%90%91%E5%A4%AA%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [超载25倍沥青货车侧翻 母子被埋身亡](https://www.baidu.com/s?wd=%E8%B6%85%E8%BD%BD25%E5%80%8D%E6%B2%A5%E9%9D%92%E8%B4%A7%E8%BD%A6%E4%BE%A7%E7%BF%BB+%E6%AF%8D%E5%AD%90%E8%A2%AB%E5%9F%8B%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [父亲回应苏翊鸣圆梦清华：专业未定](https://www.baidu.com/s?wd=%E7%88%B6%E4%BA%B2%E5%9B%9E%E5%BA%94%E8%8B%8F%E7%BF%8A%E9%B8%A3%E5%9C%86%E6%A2%A6%E6%B8%85%E5%8D%8E%EF%BC%9A%E4%B8%93%E4%B8%9A%E6%9C%AA%E5%AE%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [安保追逐冲进球场球迷时在笑](https://www.baidu.com/s?wd=%E5%AE%89%E4%BF%9D%E8%BF%BD%E9%80%90%E5%86%B2%E8%BF%9B%E7%90%83%E5%9C%BA%E7%90%83%E8%BF%B7%E6%97%B6%E5%9C%A8%E7%AC%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [40岁女子被社区打错宫颈癌疫苗](https://www.baidu.com/s?wd=40%E5%B2%81%E5%A5%B3%E5%AD%90%E8%A2%AB%E7%A4%BE%E5%8C%BA%E6%89%93%E9%94%99%E5%AE%AB%E9%A2%88%E7%99%8C%E7%96%AB%E8%8B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [父亲回应苏翊鸣圆梦清华：专业未定](https://www.baidu.com/s?wd=%E7%88%B6%E4%BA%B2%E5%9B%9E%E5%BA%94%E8%8B%8F%E7%BF%8A%E9%B8%A3%E5%9C%86%E6%A2%A6%E6%B8%85%E5%8D%8E%EF%BC%9A%E4%B8%93%E4%B8%9A%E6%9C%AA%E5%AE%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
