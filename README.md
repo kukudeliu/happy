@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-16 17:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-16 17:05:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [嗯哼 追星成功太开心啦](https://s.weibo.com/weibo?q=%E5%97%AF%E5%93%BC%20%E8%BF%BD%E6%98%9F%E6%88%90%E5%8A%9F%E5%A4%AA%E5%BC%80%E5%BF%83%E5%95%A6&t=31&band_rank=6&Refer=top)<br />
 7. [李飞P图不严谨啊](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%A3%9EP%E5%9B%BE%E4%B8%8D%E4%B8%A5%E8%B0%A8%E5%95%8A%23&t=31&band_rank=7&Refer=top)<br />
 8. [新闻学教授怒怼张雪峰](https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%97%BB%E5%AD%A6%E6%95%99%E6%8E%88%E6%80%92%E6%80%BC%E5%BC%A0%E9%9B%AA%E5%B3%B0%23&t=31&band_rank=8&Refer=top)<br />
-9. [离职时我把工资告诉了同事](https://s.weibo.com/weibo?q=%23%E7%A6%BB%E8%81%8C%E6%97%B6%E6%88%91%E6%8A%8A%E5%B7%A5%E8%B5%84%E5%91%8A%E8%AF%89%E4%BA%86%E5%90%8C%E4%BA%8B%23&t=31&band_rank=9&Refer=top)<br />
+9. [交警买网红青蛙小青蛙不让付钱](https://s.weibo.com/weibo?q=%23%E4%BA%A4%E8%AD%A6%E4%B9%B0%E7%BD%91%E7%BA%A2%E9%9D%92%E8%9B%99%E5%B0%8F%E9%9D%92%E8%9B%99%E4%B8%8D%E8%AE%A9%E4%BB%98%E9%92%B1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
