@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-16 22:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-16 22:14:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [超载25倍沥青货车侧翻 母子被埋身亡](https://www.baidu.com/s?wd=%E8%B6%85%E8%BD%BD25%E5%80%8D%E6%B2%A5%E9%9D%92%E8%B4%A7%E8%BD%A6%E4%BE%A7%E7%BF%BB+%E6%AF%8D%E5%AD%90%E8%A2%AB%E5%9F%8B%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [郭碧婷穿衣风格向太化](https://www.baidu.com/s?wd=%E9%83%AD%E7%A2%A7%E5%A9%B7%E7%A9%BF%E8%A1%A3%E9%A3%8E%E6%A0%BC%E5%90%91%E5%A4%AA%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [越南开始担心被“抢饭碗”了](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E5%BC%80%E5%A7%8B%E6%8B%85%E5%BF%83%E8%A2%AB%E2%80%9C%E6%8A%A2%E9%A5%AD%E7%A2%97%E2%80%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [比尔盖茨回复黄晓明](https://www.baidu.com/s?wd=%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8%E5%9B%9E%E5%A4%8D%E9%BB%84%E6%99%93%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [40岁女子被社区打错宫颈癌疫苗](https://www.baidu.com/s?wd=40%E5%B2%81%E5%A5%B3%E5%AD%90%E8%A2%AB%E7%A4%BE%E5%8C%BA%E6%89%93%E9%94%99%E5%AE%AB%E9%A2%88%E7%99%8C%E7%96%AB%E8%8B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [超载25倍沥青货车侧翻 母子被埋身亡](https://www.baidu.com/s?wd=%E8%B6%85%E8%BD%BD25%E5%80%8D%E6%B2%A5%E9%9D%92%E8%B4%A7%E8%BD%A6%E4%BE%A7%E7%BF%BB+%E6%AF%8D%E5%AD%90%E8%A2%AB%E5%9F%8B%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [郭碧婷穿衣风格向太化](https://www.baidu.com/s?wd=%E9%83%AD%E7%A2%A7%E5%A9%B7%E7%A9%BF%E8%A1%A3%E9%A3%8E%E6%A0%BC%E5%90%91%E5%A4%AA%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [越南开始担心被“抢饭碗”了](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E5%BC%80%E5%A7%8B%E6%8B%85%E5%BF%83%E8%A2%AB%E2%80%9C%E6%8A%A2%E9%A5%AD%E7%A2%97%E2%80%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [比尔盖茨回复黄晓明](https://www.baidu.com/s?wd=%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8%E5%9B%9E%E5%A4%8D%E9%BB%84%E6%99%93%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [40岁女子被社区打错宫颈癌疫苗](https://www.baidu.com/s?wd=40%E5%B2%81%E5%A5%B3%E5%AD%90%E8%A2%AB%E7%A4%BE%E5%8C%BA%E6%89%93%E9%94%99%E5%AE%AB%E9%A2%88%E7%99%8C%E7%96%AB%E8%8B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
