@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-16 17:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-16 17:09:01</h4></div>
 
 > 微博  
 
@@ -32,8 +32,8 @@
 4. [高考考生们这些“套路”骗局要当心](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E8%80%83%E7%94%9F%E4%BB%AC%E8%BF%99%E4%BA%9B%E2%80%9C%E5%A5%97%E8%B7%AF%E2%80%9D%E9%AA%97%E5%B1%80%E8%A6%81%E5%BD%93%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [新闻学教授怒怼张雪峰](https://www.baidu.com/s?wd=%E6%96%B0%E9%97%BB%E5%AD%A6%E6%95%99%E6%8E%88%E6%80%92%E6%80%BC%E5%BC%A0%E9%9B%AA%E5%B3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [上大研究生被指精神控制多名女性](https://www.baidu.com/s?wd=%E4%B8%8A%E5%A4%A7%E7%A0%94%E7%A9%B6%E7%94%9F%E8%A2%AB%E6%8C%87%E7%B2%BE%E7%A5%9E%E6%8E%A7%E5%88%B6%E5%A4%9A%E5%90%8D%E5%A5%B3%E6%80%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [安保追逐冲进球场球迷时在笑](https://www.baidu.com/s?wd=%E5%AE%89%E4%BF%9D%E8%BF%BD%E9%80%90%E5%86%B2%E8%BF%9B%E7%90%83%E5%9C%BA%E7%90%83%E8%BF%B7%E6%97%B6%E5%9C%A8%E7%AC%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子租房一年才发现指纹锁脚都能开](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%9F%E6%88%BF%E4%B8%80%E5%B9%B4%E6%89%8D%E5%8F%91%E7%8E%B0%E6%8C%87%E7%BA%B9%E9%94%81%E8%84%9A%E9%83%BD%E8%83%BD%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子租房一年才发现指纹锁脚都能开](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%9F%E6%88%BF%E4%B8%80%E5%B9%B4%E6%89%8D%E5%8F%91%E7%8E%B0%E6%8C%87%E7%BA%B9%E9%94%81%E8%84%9A%E9%83%BD%E8%83%BD%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [吴倩方晒出院记录](https://www.baidu.com/s?wd=%E5%90%B4%E5%80%A9%E6%96%B9%E6%99%92%E5%87%BA%E9%99%A2%E8%AE%B0%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [618惠选潮电节 AI帮你选](https://www.baidu.com/s?wd=618%E6%83%A0%E9%80%89%E6%BD%AE%E7%94%B5%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -44,6 +44,6 @@
 4. [高考考生们这些“套路”骗局要当心](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E8%80%83%E7%94%9F%E4%BB%AC%E8%BF%99%E4%BA%9B%E2%80%9C%E5%A5%97%E8%B7%AF%E2%80%9D%E9%AA%97%E5%B1%80%E8%A6%81%E5%BD%93%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [新闻学教授怒怼张雪峰](https://www.baidu.com/s?wd=%E6%96%B0%E9%97%BB%E5%AD%A6%E6%95%99%E6%8E%88%E6%80%92%E6%80%BC%E5%BC%A0%E9%9B%AA%E5%B3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [上大研究生被指精神控制多名女性](https://www.baidu.com/s?wd=%E4%B8%8A%E5%A4%A7%E7%A0%94%E7%A9%B6%E7%94%9F%E8%A2%AB%E6%8C%87%E7%B2%BE%E7%A5%9E%E6%8E%A7%E5%88%B6%E5%A4%9A%E5%90%8D%E5%A5%B3%E6%80%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [安保追逐冲进球场球迷时在笑](https://www.baidu.com/s?wd=%E5%AE%89%E4%BF%9D%E8%BF%BD%E9%80%90%E5%86%B2%E8%BF%9B%E7%90%83%E5%9C%BA%E7%90%83%E8%BF%B7%E6%97%B6%E5%9C%A8%E7%AC%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子租房一年才发现指纹锁脚都能开](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%9F%E6%88%BF%E4%B8%80%E5%B9%B4%E6%89%8D%E5%8F%91%E7%8E%B0%E6%8C%87%E7%BA%B9%E9%94%81%E8%84%9A%E9%83%BD%E8%83%BD%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子租房一年才发现指纹锁脚都能开](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%9F%E6%88%BF%E4%B8%80%E5%B9%B4%E6%89%8D%E5%8F%91%E7%8E%B0%E6%8C%87%E7%BA%B9%E9%94%81%E8%84%9A%E9%83%BD%E8%83%BD%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [吴倩方晒出院记录](https://www.baidu.com/s?wd=%E5%90%B4%E5%80%A9%E6%96%B9%E6%99%92%E5%87%BA%E9%99%A2%E8%AE%B0%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [618惠选潮电节 AI帮你选](https://www.baidu.com/s?wd=618%E6%83%A0%E9%80%89%E6%BD%AE%E7%94%B5%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
