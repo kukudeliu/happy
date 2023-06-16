@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 03:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 03:44:01</h4></div>
 
 > 微博  
 
@@ -31,10 +31,10 @@
 3. [阿里总裁谈马云近况：他在东京教书](https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E6%80%BB%E8%A3%81%E8%B0%88%E9%A9%AC%E4%BA%91%E8%BF%91%E5%86%B5%EF%BC%9A%E4%BB%96%E5%9C%A8%E4%B8%9C%E4%BA%AC%E6%95%99%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [高质量发展调研行](https://www.baidu.com/s?wd=%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E8%B0%83%E7%A0%94%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [国足赢了！4-0大胜缅甸](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B3%E8%B5%A2%E4%BA%86%EF%BC%814-0%E5%A4%A7%E8%83%9C%E7%BC%85%E7%94%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [顾客就餐遇账单刺客8碗米饭要价90](https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E5%B0%B1%E9%A4%90%E9%81%87%E8%B4%A6%E5%8D%95%E5%88%BA%E5%AE%A28%E7%A2%97%E7%B1%B3%E9%A5%AD%E8%A6%81%E4%BB%B790&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [日警察向外籍女子喊回中国去](https://www.baidu.com/s?wd=%E6%97%A5%E8%AD%A6%E5%AF%9F%E5%90%91%E5%A4%96%E7%B1%8D%E5%A5%B3%E5%AD%90%E5%96%8A%E5%9B%9E%E4%B8%AD%E5%9B%BD%E5%8E%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [《消失的她》预售票房破千万](https://www.baidu.com/s?wd=%E3%80%8A%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E3%80%8B%E9%A2%84%E5%94%AE%E7%A5%A8%E6%88%BF%E7%A0%B4%E5%8D%83%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [泽连斯基回应特朗普言论](https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%A8%80%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [青藏线失联近一个月的货车司机遇难](https://www.baidu.com/s?wd=%E9%9D%92%E8%97%8F%E7%BA%BF%E5%A4%B1%E8%81%94%E8%BF%91%E4%B8%80%E4%B8%AA%E6%9C%88%E7%9A%84%E8%B4%A7%E8%BD%A6%E5%8F%B8%E6%9C%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [顾客就餐遇账单刺客8碗米饭要价90](https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E5%B0%B1%E9%A4%90%E9%81%87%E8%B4%A6%E5%8D%95%E5%88%BA%E5%AE%A28%E7%A2%97%E7%B1%B3%E9%A5%AD%E8%A6%81%E4%BB%B790&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [谢娜三公排名跌至第六](https://www.baidu.com/s?wd=%E8%B0%A2%E5%A8%9C%E4%B8%89%E5%85%AC%E6%8E%92%E5%90%8D%E8%B7%8C%E8%87%B3%E7%AC%AC%E5%85%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [日警察向外籍女子喊回中国去](https://www.baidu.com/s?wd=%E6%97%A5%E8%AD%A6%E5%AF%9F%E5%90%91%E5%A4%96%E7%B1%8D%E5%A5%B3%E5%AD%90%E5%96%8A%E5%9B%9E%E4%B8%AD%E5%9B%BD%E5%8E%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [阿里总裁谈马云近况：他在东京教书](https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E6%80%BB%E8%A3%81%E8%B0%88%E9%A9%AC%E4%BA%91%E8%BF%91%E5%86%B5%EF%BC%9A%E4%BB%96%E5%9C%A8%E4%B8%9C%E4%BA%AC%E6%95%99%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [高质量发展调研行](https://www.baidu.com/s?wd=%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E8%B0%83%E7%A0%94%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [国足赢了！4-0大胜缅甸](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B3%E8%B5%A2%E4%BA%86%EF%BC%814-0%E5%A4%A7%E8%83%9C%E7%BC%85%E7%94%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [顾客就餐遇账单刺客8碗米饭要价90](https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E5%B0%B1%E9%A4%90%E9%81%87%E8%B4%A6%E5%8D%95%E5%88%BA%E5%AE%A28%E7%A2%97%E7%B1%B3%E9%A5%AD%E8%A6%81%E4%BB%B790&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [日警察向外籍女子喊回中国去](https://www.baidu.com/s?wd=%E6%97%A5%E8%AD%A6%E5%AF%9F%E5%90%91%E5%A4%96%E7%B1%8D%E5%A5%B3%E5%AD%90%E5%96%8A%E5%9B%9E%E4%B8%AD%E5%9B%BD%E5%8E%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [《消失的她》预售票房破千万](https://www.baidu.com/s?wd=%E3%80%8A%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E3%80%8B%E9%A2%84%E5%94%AE%E7%A5%A8%E6%88%BF%E7%A0%B4%E5%8D%83%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [泽连斯基回应特朗普言论](https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%A8%80%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [青藏线失联近一个月的货车司机遇难](https://www.baidu.com/s?wd=%E9%9D%92%E8%97%8F%E7%BA%BF%E5%A4%B1%E8%81%94%E8%BF%91%E4%B8%80%E4%B8%AA%E6%9C%88%E7%9A%84%E8%B4%A7%E8%BD%A6%E5%8F%B8%E6%9C%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [顾客就餐遇账单刺客8碗米饭要价90](https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E5%B0%B1%E9%A4%90%E9%81%87%E8%B4%A6%E5%8D%95%E5%88%BA%E5%AE%A28%E7%A2%97%E7%B1%B3%E9%A5%AD%E8%A6%81%E4%BB%B790&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [谢娜三公排名跌至第六](https://www.baidu.com/s?wd=%E8%B0%A2%E5%A8%9C%E4%B8%89%E5%85%AC%E6%8E%92%E5%90%8D%E8%B7%8C%E8%87%B3%E7%AC%AC%E5%85%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [日警察向外籍女子喊回中国去](https://www.baidu.com/s?wd=%E6%97%A5%E8%AD%A6%E5%AF%9F%E5%90%91%E5%A4%96%E7%B1%8D%E5%A5%B3%E5%AD%90%E5%96%8A%E5%9B%9E%E4%B8%AD%E5%9B%BD%E5%8E%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
