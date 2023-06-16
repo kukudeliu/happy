@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 05:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 05:57:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [哈佛医学院曝惊天丑闻，员工偷尸体卖器官，600 美元可买两张脸，包裹用快递寄出，如何看待此事？](https://www.zhihu.com/question/606917409)<br />
 5. [特斯拉发布视频公开「电机的秘密」，视频中暗讽造车新势力只做 「冰箱彩电大沙发」，如何看待此视频？](https://www.zhihu.com/question/606771603)<br />
 6. [为什么很多网友都说电脑用 5 年左右就该换了？](https://www.zhihu.com/question/521171582)<br />
-7. [欧委会称将不再采购华为中兴设备，外交部称「有罪推定，坚决反对」，如何看待此事？](https://www.zhihu.com/question/606961996)<br />
-8. [你是明白了哪几个基本原理之后而厨艺大增的？](https://www.zhihu.com/question/21696230)<br />
-9. [如何看待游戏《动物派对》首发定价 98 元？](https://www.zhihu.com/question/605626589)<br />
+7. [你是明白了哪几个基本原理之后而厨艺大增的？](https://www.zhihu.com/question/21696230)<br />
+8. [如何看待游戏《动物派对》首发定价 98 元？](https://www.zhihu.com/question/605626589)<br />
+9. [中国文物界泰斗孙机辞世，享年 94 岁，孙老先生对中国文物界都产生了哪些影响？](https://www.zhihu.com/question/606784610)<br />
 
 > 百度  
 
