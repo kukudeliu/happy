@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-16 09:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-16 09:48:01</h4></div>
 
 > 微博  
 
@@ -32,8 +32,8 @@
 4. [杭州亚运会值得期待](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%80%BC%E5%BE%97%E6%9C%9F%E5%BE%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [疑似俄军督战队射杀逃兵画面曝光](https://www.baidu.com/s?wd=%E7%96%91%E4%BC%BC%E4%BF%84%E5%86%9B%E7%9D%A3%E6%88%98%E9%98%9F%E5%B0%84%E6%9D%80%E9%80%83%E5%85%B5%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [家长质疑收费被班主任踢出群](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E8%B4%A8%E7%96%91%E6%94%B6%E8%B4%B9%E8%A2%AB%E7%8F%AD%E4%B8%BB%E4%BB%BB%E8%B8%A2%E5%87%BA%E7%BE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [老人手术台喊痛 病历却写麻醉满意](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E6%89%8B%E6%9C%AF%E5%8F%B0%E5%96%8A%E7%97%9B+%E7%97%85%E5%8E%86%E5%8D%B4%E5%86%99%E9%BA%BB%E9%86%89%E6%BB%A1%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男生中考忘涂机读卡妈妈大哭](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E4%B8%AD%E8%80%83%E5%BF%98%E6%B6%82%E6%9C%BA%E8%AF%BB%E5%8D%A1%E5%A6%88%E5%A6%88%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男生中考忘涂机读卡妈妈大哭](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E4%B8%AD%E8%80%83%E5%BF%98%E6%B6%82%E6%9C%BA%E8%AF%BB%E5%8D%A1%E5%A6%88%E5%A6%88%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [超40度高温来袭](https://www.baidu.com/s?wd=%E8%B6%8540%E5%BA%A6%E9%AB%98%E6%B8%A9%E6%9D%A5%E8%A2%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [狂热球迷冲进场拥抱梅西被抬走](https://www.baidu.com/s?wd=%E7%8B%82%E7%83%AD%E7%90%83%E8%BF%B7%E5%86%B2%E8%BF%9B%E5%9C%BA%E6%8B%A5%E6%8A%B1%E6%A2%85%E8%A5%BF%E8%A2%AB%E6%8A%AC%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -44,6 +44,6 @@
 4. [杭州亚运会值得期待](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%80%BC%E5%BE%97%E6%9C%9F%E5%BE%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [疑似俄军督战队射杀逃兵画面曝光](https://www.baidu.com/s?wd=%E7%96%91%E4%BC%BC%E4%BF%84%E5%86%9B%E7%9D%A3%E6%88%98%E9%98%9F%E5%B0%84%E6%9D%80%E9%80%83%E5%85%B5%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [家长质疑收费被班主任踢出群](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E8%B4%A8%E7%96%91%E6%94%B6%E8%B4%B9%E8%A2%AB%E7%8F%AD%E4%B8%BB%E4%BB%BB%E8%B8%A2%E5%87%BA%E7%BE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [老人手术台喊痛 病历却写麻醉满意](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E6%89%8B%E6%9C%AF%E5%8F%B0%E5%96%8A%E7%97%9B+%E7%97%85%E5%8E%86%E5%8D%B4%E5%86%99%E9%BA%BB%E9%86%89%E6%BB%A1%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男生中考忘涂机读卡妈妈大哭](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E4%B8%AD%E8%80%83%E5%BF%98%E6%B6%82%E6%9C%BA%E8%AF%BB%E5%8D%A1%E5%A6%88%E5%A6%88%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男生中考忘涂机读卡妈妈大哭](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E4%B8%AD%E8%80%83%E5%BF%98%E6%B6%82%E6%9C%BA%E8%AF%BB%E5%8D%A1%E5%A6%88%E5%A6%88%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [超40度高温来袭](https://www.baidu.com/s?wd=%E8%B6%8540%E5%BA%A6%E9%AB%98%E6%B8%A9%E6%9D%A5%E8%A2%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [狂热球迷冲进场拥抱梅西被抬走](https://www.baidu.com/s?wd=%E7%8B%82%E7%83%AD%E7%90%83%E8%BF%B7%E5%86%B2%E8%BF%9B%E5%9C%BA%E6%8B%A5%E6%8A%B1%E6%A2%85%E8%A5%BF%E8%A2%AB%E6%8A%AC%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
