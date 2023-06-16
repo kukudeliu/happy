@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 00:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 00:51:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [为什么很多网友都说电脑用 5 年左右就该换了？](https://www.zhihu.com/question/521171582)<br />
 6. [美官员称布林肯访华将围绕三大目标同中方沟通，布林肯此次访华有何重要意义？](https://www.zhihu.com/question/606965050)<br />
 7. [如果可以带一种食品穿越回古代，你会选择带什么？](https://www.zhihu.com/question/606423086)<br />
-8. [如何评价 DC 电影《闪电侠》？](https://www.zhihu.com/question/606551009)<br />
-9. [预算 19 万，合资主流 SUV 怎么选？](https://www.zhihu.com/question/605951947)<br />
+8. [预算 19 万，合资主流 SUV 怎么选？](https://www.zhihu.com/question/605951947)<br />
+9. [宝宝马上2岁了，是否有必要这么早开始给宝宝数学启蒙？应该如何给宝宝数学启蒙？](https://www.zhihu.com/question/604872660)<br />
 
 > 百度  
 
