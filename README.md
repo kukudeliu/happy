@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-16 17:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-16 17:58:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [杭州亚运村内部功能区首次公开亮相](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E6%9D%91%E5%86%85%E9%83%A8%E5%8A%9F%E8%83%BD%E5%8C%BA%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80%E4%BA%AE%E7%9B%B8%23&t=31&band_rank=3&Refer=top)<br />
 4. [嗯哼 追星成功太开心啦](https://s.weibo.com/weibo?q=%E5%97%AF%E5%93%BC%20%E8%BF%BD%E6%98%9F%E6%88%90%E5%8A%9F%E5%A4%AA%E5%BC%80%E5%BF%83%E5%95%A6&t=31&band_rank=4&Refer=top)<br />
 5. [孙女辞职带患癌爷爷4年花10万游9省](https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%A5%B3%E8%BE%9E%E8%81%8C%E5%B8%A6%E6%82%A3%E7%99%8C%E7%88%B7%E7%88%B74%E5%B9%B4%E8%8A%B110%E4%B8%87%E6%B8%B89%E7%9C%81%23&t=31&band_rank=5&Refer=top)<br />
-6. [偷偷藏不住定档](https://s.weibo.com/weibo?q=%E5%81%B7%E5%81%B7%E8%97%8F%E4%B8%8D%E4%BD%8F%E5%AE%9A%E6%A1%A3&t=31&band_rank=6&Refer=top)<br />
-7. [郭碧婷穿衣风格向太化](https://s.weibo.com/weibo?q=%23%E9%83%AD%E7%A2%A7%E5%A9%B7%E7%A9%BF%E8%A1%A3%E9%A3%8E%E6%A0%BC%E5%90%91%E5%A4%AA%E5%8C%96%23&t=31&band_rank=7&Refer=top)<br />
+6. [郭碧婷穿衣风格向太化](https://s.weibo.com/weibo?q=%23%E9%83%AD%E7%A2%A7%E5%A9%B7%E7%A9%BF%E8%A1%A3%E9%A3%8E%E6%A0%BC%E5%90%91%E5%A4%AA%E5%8C%96%23&t=31&band_rank=6&Refer=top)<br />
+7. [偷偷藏不住定档](https://s.weibo.com/weibo?q=%E5%81%B7%E5%81%B7%E8%97%8F%E4%B8%8D%E4%BD%8F%E5%AE%9A%E6%A1%A3&t=31&band_rank=7&Refer=top)<br />
 8. [杜江问梅西嗯哼的签名照是真迹吗](https://s.weibo.com/weibo?q=%23%E6%9D%9C%E6%B1%9F%E9%97%AE%E6%A2%85%E8%A5%BF%E5%97%AF%E5%93%BC%E7%9A%84%E7%AD%BE%E5%90%8D%E7%85%A7%E6%98%AF%E7%9C%9F%E8%BF%B9%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
 9. [到底是谁惹了六公主](https://s.weibo.com/weibo?q=%23%E5%88%B0%E5%BA%95%E6%98%AF%E8%B0%81%E6%83%B9%E4%BA%86%E5%85%AD%E5%85%AC%E4%B8%BB%23&t=31&band_rank=9&Refer=top)<br />
 
@@ -22,7 +22,7 @@
 6. [600 多万青年失业，国家统计局表示「求职难」和「招工难」并存 ，如何看待这一说法？反映出哪些问题？](https://www.zhihu.com/question/606760423)<br />
 7. [刘姥姥进大观园为什么对宝钗闭口不语，却对黛玉侃侃而谈？她有多会察言观色？](https://www.zhihu.com/question/604680573)<br />
 8. [2023 中国大学评级发布，北大、人大、清华、复旦等 9 所高校位列最顶级，哪些信息值得关注？](https://www.zhihu.com/question/606944114)<br />
-9. [张朝阳表示「年轻人找不到工作不要气馁，在互联网上做个体职业者就挺好」，如何看待这一观点？](https://www.zhihu.com/question/606808835)<br />
+9. [比尔·盖茨自 2019 年以来首次抵达北京，此次有哪些行程安排？哪些信息值得关注？](https://www.zhihu.com/question/606661207)<br />
 
 > 百度  
 
