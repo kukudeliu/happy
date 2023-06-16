@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 05:30:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 05:31:01</h4></div>
 
 > 微博  
 
@@ -19,10 +19,10 @@
 3. [美光科技将在西安封测工厂投资逾 43 亿元，收购当地一半导体公司封装设备，商业上如何解读此举？](https://www.zhihu.com/question/607000886)<br />
 4. [哈佛医学院曝惊天丑闻，员工偷尸体卖器官，600 美元可买两张脸，包裹用快递寄出，如何看待此事？](https://www.zhihu.com/question/606917409)<br />
 5. [特斯拉发布视频公开「电机的秘密」，视频中暗讽造车新势力只做 「冰箱彩电大沙发」，如何看待此视频？](https://www.zhihu.com/question/606771603)<br />
-6. [高考后可以做些什么来提升自己？](https://www.zhihu.com/question/606430561)<br />
-7. [100 天复习，能过法考吗？](https://www.zhihu.com/question/408801493)<br />
-8. [你最难忘的乙女游戏男主是谁呢?](https://www.zhihu.com/question/572110966)<br />
-9. [为什么很多网友都说电脑用 5 年左右就该换了？](https://www.zhihu.com/question/521171582)<br />
+6. [100 天复习，能过法考吗？](https://www.zhihu.com/question/408801493)<br />
+7. [你最难忘的乙女游戏男主是谁呢?](https://www.zhihu.com/question/572110966)<br />
+8. [为什么很多网友都说电脑用 5 年左右就该换了？](https://www.zhihu.com/question/521171582)<br />
+9. [高考后可以做些什么来提升自己？](https://www.zhihu.com/question/606430561)<br />
 
 > 百度  
 
