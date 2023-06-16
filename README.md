@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 06:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 06:16:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [特斯拉发布视频公开「电机的秘密」，视频中暗讽造车新势力只做 「冰箱彩电大沙发」，如何看待此视频？](https://www.zhihu.com/question/606771603)<br />
 6. [为什么很多网友都说电脑用 5 年左右就该换了？](https://www.zhihu.com/question/521171582)<br />
 7. [美官员称布林肯访华将围绕三大目标同中方沟通，布林肯此次访华有何重要意义？](https://www.zhihu.com/question/606965050)<br />
-8. [如何正确选择吹风机？](https://www.zhihu.com/question/416143908)<br />
-9. []()<br />
+8. [短线交易怎么把握成功概率高？](https://www.zhihu.com/question/585943701)<br />
+9. [「报复性熬夜」玩手机，可能会对眼睛造成什么影响？长远来看可能会导致什么视力问题？](https://www.zhihu.com/question/604881042)<br />
 
 > 百度  
 
