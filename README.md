@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-16 18:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-16 18:03:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [马云与汪涵聚餐发福变胖](https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%E4%B8%8E%E6%B1%AA%E6%B6%B5%E8%81%9A%E9%A4%90%E5%8F%91%E7%A6%8F%E5%8F%98%E8%83%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子烈日下举牌求前夫复婚](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%83%88%E6%97%A5%E4%B8%8B%E4%B8%BE%E7%89%8C%E6%B1%82%E5%89%8D%E5%A4%AB%E5%A4%8D%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [保安没收商贩球衣被大妈怒斥](https://www.baidu.com/s?wd=%E4%BF%9D%E5%AE%89%E6%B2%A1%E6%94%B6%E5%95%86%E8%B4%A9%E7%90%83%E8%A1%A3%E8%A2%AB%E5%A4%A7%E5%A6%88%E6%80%92%E6%96%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [618惠选潮电节 AI帮你选](https://www.baidu.com/s?wd=618%E6%83%A0%E9%80%89%E6%BD%AE%E7%94%B5%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [郑钦文保送华中科技大学](https://www.baidu.com/s?wd=%E9%83%91%E9%92%A6%E6%96%87%E4%BF%9D%E9%80%81%E5%8D%8E%E4%B8%AD%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [马云与汪涵聚餐发福变胖](https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%E4%B8%8E%E6%B1%AA%E6%B6%B5%E8%81%9A%E9%A4%90%E5%8F%91%E7%A6%8F%E5%8F%98%E8%83%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子烈日下举牌求前夫复婚](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%83%88%E6%97%A5%E4%B8%8B%E4%B8%BE%E7%89%8C%E6%B1%82%E5%89%8D%E5%A4%AB%E5%A4%8D%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [保安没收商贩球衣被大妈怒斥](https://www.baidu.com/s?wd=%E4%BF%9D%E5%AE%89%E6%B2%A1%E6%94%B6%E5%95%86%E8%B4%A9%E7%90%83%E8%A1%A3%E8%A2%AB%E5%A4%A7%E5%A6%88%E6%80%92%E6%96%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [618惠选潮电节 AI帮你选](https://www.baidu.com/s?wd=618%E6%83%A0%E9%80%89%E6%BD%AE%E7%94%B5%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [郑钦文保送华中科技大学](https://www.baidu.com/s?wd=%E9%83%91%E9%92%A6%E6%96%87%E4%BF%9D%E9%80%81%E5%8D%8E%E4%B8%AD%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
