@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 07:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 07:46:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [白鹿张凌赫](https://s.weibo.com/weibo?q=%E7%99%BD%E9%B9%BF%E5%BC%A0%E5%87%8C%E8%B5%AB&t=31&band_rank=6&Refer=top)<br />
 7. [到底是谁惹了六公主](https://s.weibo.com/weibo?q=%23%E5%88%B0%E5%BA%95%E6%98%AF%E8%B0%81%E6%83%B9%E4%BA%86%E5%85%AD%E5%85%AC%E4%B8%BB%23&t=31&band_rank=7&Refer=top)<br />
 8. [杜江问梅西嗯哼的签名照是真迹吗](https://s.weibo.com/weibo?q=%23%E6%9D%9C%E6%B1%9F%E9%97%AE%E6%A2%85%E8%A5%BF%E5%97%AF%E5%93%BC%E7%9A%84%E7%AD%BE%E5%90%8D%E7%85%A7%E6%98%AF%E7%9C%9F%E8%BF%B9%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [中考](https://s.weibo.com/weibo?q=%E4%B8%AD%E8%80%83&t=31&band_rank=9&Refer=top)<br />
+9. [当丈夫说妻子在家啥也不干](https://s.weibo.com/weibo?q=%E5%BD%93%E4%B8%88%E5%A4%AB%E8%AF%B4%E5%A6%BB%E5%AD%90%E5%9C%A8%E5%AE%B6%E5%95%A5%E4%B9%9F%E4%B8%8D%E5%B9%B2&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -18,11 +18,11 @@
 2. [马斯克和比尔盖茨等掀起「访华潮」，如何看待外企高管们纷纷到访中国？会带来哪些利好？](https://www.zhihu.com/question/606763754)<br />
 3. [哈佛医学院曝惊天丑闻，员工偷尸体卖器官，600 美元可买两张脸，包裹用快递寄出，如何看待此事？](https://www.zhihu.com/question/606917409)<br />
 4. [哪些方法可以让小孩好好写作业？](https://www.zhihu.com/question/596788731)<br />
-5. [你有没有一瞬间不想打篮球了？](https://www.zhihu.com/question/456341403)<br />
-6. [为什么很多网友都说电脑用 5 年左右就该换了？](https://www.zhihu.com/question/521171582)<br />
-7. [美官员称布林肯访华将围绕三大目标同中方沟通，布林肯此次访华有何重要意义？](https://www.zhihu.com/question/606965050)<br />
-8. [特斯拉发布视频公开「电机的秘密」，视频中暗讽造车新势力只做 「冰箱彩电大沙发」，如何看待此视频？](https://www.zhihu.com/question/606771603)<br />
-9. [欧委会称将不再采购华为中兴设备，外交部称「有罪推定，坚决反对」，如何看待此事？](https://www.zhihu.com/question/606961996)<br />
+5. [为什么至今，没有挖出来一件，古希腊时期的著作?](https://www.zhihu.com/question/598531662)<br />
+6. [你有没有一瞬间不想打篮球了？](https://www.zhihu.com/question/456341403)<br />
+7. [为什么很多网友都说电脑用 5 年左右就该换了？](https://www.zhihu.com/question/521171582)<br />
+8. [欧委会称将不再采购华为中兴设备，外交部称「有罪推定，坚决反对」，如何看待此事？](https://www.zhihu.com/question/606961996)<br />
+9. [特斯拉发布视频公开「电机的秘密」，视频中暗讽造车新势力只做 「冰箱彩电大沙发」，如何看待此视频？](https://www.zhihu.com/question/606771603)<br />
 
 > 百度  
 
