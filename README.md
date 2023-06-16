@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-16 13:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-16 13:25:02</h4></div>
 
 > 微博  
 
@@ -19,9 +19,9 @@
 3. [为什么汽车厂不强行设定「不系安全带无法点火」这个最基本的安全设置？](https://www.zhihu.com/question/604311886)<br />
 4. [为什么办了千兆宽带，网速还是忽快忽慢？](https://www.zhihu.com/question/605757206)<br />
 5. [国家发改委称将抓紧出台关于恢复和扩大消费的政策文件，哪些信息值得关注？](https://www.zhihu.com/question/606930994)<br />
-6. [如何看待疑似 RNG 老板「辟谣」Uzi 被强制退役与卡合同复出一事？事情的真相到底是什么？](https://www.zhihu.com/question/606741180)<br />
-7. [全球首例，科学家用干细胞合成人类胚胎模型，无需精子和卵子，有哪些意义？可能面临哪些伦理和法律问题？](https://www.zhihu.com/question/606917410)<br />
-8. [迄今为止地球上还有哪些未解之谜?](https://www.zhihu.com/question/486236909)<br />
+6. [全球首例，科学家用干细胞合成人类胚胎模型，无需精子和卵子，有哪些意义？可能面临哪些伦理和法律问题？](https://www.zhihu.com/question/606917410)<br />
+7. [迄今为止地球上还有哪些未解之谜?](https://www.zhihu.com/question/486236909)<br />
+8. [如何看待疑似 RNG 老板「辟谣」Uzi 被强制退役与卡合同复出一事？事情的真相到底是什么？](https://www.zhihu.com/question/606741180)<br />
 9. [阿根廷队在北京的比赛球票被哄抢而光，国足在大连的门票各价位都有余票，如何看待这种差别？](https://www.zhihu.com/question/606732955)<br />
 
 > 百度  
