@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-16 14:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-16 14:12:01</h4></div>
 
 > 微博  
 
@@ -32,9 +32,9 @@
 4. [高温下 致敬他们的坚守](https://www.baidu.com/s?wd=%E9%AB%98%E6%B8%A9%E4%B8%8B+%E8%87%B4%E6%95%AC%E4%BB%96%E4%BB%AC%E7%9A%84%E5%9D%9A%E5%AE%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [#冲进球场抱梅西的球迷错了吗#](https://www.baidu.com/s?wd=%23%E5%86%B2%E8%BF%9B%E7%90%83%E5%9C%BA%E6%8A%B1%E6%A2%85%E8%A5%BF%E7%9A%84%E7%90%83%E8%BF%B7%E9%94%99%E4%BA%86%E5%90%97%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女童吞下上百颗磁力珠肠道如鱼籽](https://www.baidu.com/s?wd=%E5%A5%B3%E7%AB%A5%E5%90%9E%E4%B8%8B%E4%B8%8A%E7%99%BE%E9%A2%97%E7%A3%81%E5%8A%9B%E7%8F%A0%E8%82%A0%E9%81%93%E5%A6%82%E9%B1%BC%E7%B1%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [青藏线失联近一个月的货车司机遇难](https://www.baidu.com/s?wd=%E9%9D%92%E8%97%8F%E7%BA%BF%E5%A4%B1%E8%81%94%E8%BF%91%E4%B8%80%E4%B8%AA%E6%9C%88%E7%9A%84%E8%B4%A7%E8%BD%A6%E5%8F%B8%E6%9C%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [巨鸟撞穿飞机挡风玻璃 残骸嵌入机身](https://www.baidu.com/s?wd=%E5%B7%A8%E9%B8%9F%E6%92%9E%E7%A9%BF%E9%A3%9E%E6%9C%BA%E6%8C%A1%E9%A3%8E%E7%8E%BB%E7%92%83+%E6%AE%8B%E9%AA%B8%E5%B5%8C%E5%85%A5%E6%9C%BA%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [吴倩因病退出浪姐4](https://www.baidu.com/s?wd=%E5%90%B4%E5%80%A9%E5%9B%A0%E7%97%85%E9%80%80%E5%87%BA%E6%B5%AA%E5%A7%904&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [巨鸟撞穿飞机挡风玻璃 残骸嵌入机身](https://www.baidu.com/s?wd=%E5%B7%A8%E9%B8%9F%E6%92%9E%E7%A9%BF%E9%A3%9E%E6%9C%BA%E6%8C%A1%E9%A3%8E%E7%8E%BB%E7%92%83+%E6%AE%8B%E9%AA%B8%E5%B5%8C%E5%85%A5%E6%9C%BA%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [吴倩因病退出浪姐4](https://www.baidu.com/s?wd=%E5%90%B4%E5%80%A9%E5%9B%A0%E7%97%85%E9%80%80%E5%87%BA%E6%B5%AA%E5%A7%904&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [千只鸭子大军给水稻除草](https://www.baidu.com/s?wd=%E5%8D%83%E5%8F%AA%E9%B8%AD%E5%AD%90%E5%A4%A7%E5%86%9B%E7%BB%99%E6%B0%B4%E7%A8%BB%E9%99%A4%E8%8D%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [高温下 致敬他们的坚守](https://www.baidu.com/s?wd=%E9%AB%98%E6%B8%A9%E4%B8%8B+%E8%87%B4%E6%95%AC%E4%BB%96%E4%BB%AC%E7%9A%84%E5%9D%9A%E5%AE%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [#冲进球场抱梅西的球迷错了吗#](https://www.baidu.com/s?wd=%23%E5%86%B2%E8%BF%9B%E7%90%83%E5%9C%BA%E6%8A%B1%E6%A2%85%E8%A5%BF%E7%9A%84%E7%90%83%E8%BF%B7%E9%94%99%E4%BA%86%E5%90%97%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女童吞下上百颗磁力珠肠道如鱼籽](https://www.baidu.com/s?wd=%E5%A5%B3%E7%AB%A5%E5%90%9E%E4%B8%8B%E4%B8%8A%E7%99%BE%E9%A2%97%E7%A3%81%E5%8A%9B%E7%8F%A0%E8%82%A0%E9%81%93%E5%A6%82%E9%B1%BC%E7%B1%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [青藏线失联近一个月的货车司机遇难](https://www.baidu.com/s?wd=%E9%9D%92%E8%97%8F%E7%BA%BF%E5%A4%B1%E8%81%94%E8%BF%91%E4%B8%80%E4%B8%AA%E6%9C%88%E7%9A%84%E8%B4%A7%E8%BD%A6%E5%8F%B8%E6%9C%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [巨鸟撞穿飞机挡风玻璃 残骸嵌入机身](https://www.baidu.com/s?wd=%E5%B7%A8%E9%B8%9F%E6%92%9E%E7%A9%BF%E9%A3%9E%E6%9C%BA%E6%8C%A1%E9%A3%8E%E7%8E%BB%E7%92%83+%E6%AE%8B%E9%AA%B8%E5%B5%8C%E5%85%A5%E6%9C%BA%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [吴倩因病退出浪姐4](https://www.baidu.com/s?wd=%E5%90%B4%E5%80%A9%E5%9B%A0%E7%97%85%E9%80%80%E5%87%BA%E6%B5%AA%E5%A7%904&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [巨鸟撞穿飞机挡风玻璃 残骸嵌入机身](https://www.baidu.com/s?wd=%E5%B7%A8%E9%B8%9F%E6%92%9E%E7%A9%BF%E9%A3%9E%E6%9C%BA%E6%8C%A1%E9%A3%8E%E7%8E%BB%E7%92%83+%E6%AE%8B%E9%AA%B8%E5%B5%8C%E5%85%A5%E6%9C%BA%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [吴倩因病退出浪姐4](https://www.baidu.com/s?wd=%E5%90%B4%E5%80%A9%E5%9B%A0%E7%97%85%E9%80%80%E5%87%BA%E6%B5%AA%E5%A7%904&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [千只鸭子大军给水稻除草](https://www.baidu.com/s?wd=%E5%8D%83%E5%8F%AA%E9%B8%AD%E5%AD%90%E5%A4%A7%E5%86%9B%E7%BB%99%E6%B0%B4%E7%A8%BB%E9%99%A4%E8%8D%89&sa=fyb_news&rsv_dl=fyb_news)<br />
