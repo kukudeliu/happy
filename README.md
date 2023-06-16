@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 02:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 02:09:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [美光科技将在西安封测工厂投资逾 43 亿元，收购当地一半导体公司封装设备，商业上如何解读此举？](https://www.zhihu.com/question/607000886)<br />
 7. [「报复性熬夜」玩手机，可能会对眼睛造成什么影响？长远来看可能会导致什么视力问题？](https://www.zhihu.com/question/604881042)<br />
 8. [哈佛医学院曝惊天丑闻，员工偷尸体卖器官，600 美元可买两张脸，包裹用快递寄出，如何看待此事？](https://www.zhihu.com/question/606917409)<br />
-9. [巴拉圭准外称愿就「无条件建立外交、领事和商业关系」与中方对话，同时和台当局关系不变，释放了哪些信号？](https://www.zhihu.com/question/606637125)<br />
+9. [每天只喝牛奶不喝水可以吗？](https://www.zhihu.com/question/602381276)<br />
 
 > 百度  
 
@@ -31,10 +31,10 @@
 3. [阿里总裁谈马云近况：他在东京教书](https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E6%80%BB%E8%A3%81%E8%B0%88%E9%A9%AC%E4%BA%91%E8%BF%91%E5%86%B5%EF%BC%9A%E4%BB%96%E5%9C%A8%E4%B8%9C%E4%BA%AC%E6%95%99%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [高质量发展调研行](https://www.baidu.com/s?wd=%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E8%B0%83%E7%A0%94%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [国足赢了！4-0大胜缅甸](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B3%E8%B5%A2%E4%BA%86%EF%BC%814-0%E5%A4%A7%E8%83%9C%E7%BC%85%E7%94%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [日警察向外籍女子喊回中国去](https://www.baidu.com/s?wd=%E6%97%A5%E8%AD%A6%E5%AF%9F%E5%90%91%E5%A4%96%E7%B1%8D%E5%A5%B3%E5%AD%90%E5%96%8A%E5%9B%9E%E4%B8%AD%E5%9B%BD%E5%8E%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [吴倩方晒出院记录](https://www.baidu.com/s?wd=%E5%90%B4%E5%80%A9%E6%96%B9%E6%99%92%E5%87%BA%E9%99%A2%E8%AE%B0%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [跳江救人小哥被奖励10万元和一套房](https://www.baidu.com/s?wd=%E8%B7%B3%E6%B1%9F%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E8%A2%AB%E5%A5%96%E5%8A%B110%E4%B8%87%E5%85%83%E5%92%8C%E4%B8%80%E5%A5%97%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [印度那么坑 中企为啥非要往里挤](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E9%82%A3%E4%B9%88%E5%9D%91+%E4%B8%AD%E4%BC%81%E4%B8%BA%E5%95%A5%E9%9D%9E%E8%A6%81%E5%BE%80%E9%87%8C%E6%8C%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [响水爆炸事故环境损害赔偿总额逾4亿](https://www.baidu.com/s?wd=%E5%93%8D%E6%B0%B4%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E7%8E%AF%E5%A2%83%E6%8D%9F%E5%AE%B3%E8%B5%94%E5%81%BF%E6%80%BB%E9%A2%9D%E9%80%BE4%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [广东暴雨积水成河 有人屋内钓鱼](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E6%9A%B4%E9%9B%A8%E7%A7%AF%E6%B0%B4%E6%88%90%E6%B2%B3+%E6%9C%89%E4%BA%BA%E5%B1%8B%E5%86%85%E9%92%93%E9%B1%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [美国务院透露布林肯访华三大目标](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%8A%A1%E9%99%A2%E9%80%8F%E9%9C%B2%E5%B8%83%E6%9E%97%E8%82%AF%E8%AE%BF%E5%8D%8E%E4%B8%89%E5%A4%A7%E7%9B%AE%E6%A0%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [特朗普说请支持者吃饭却没买单](https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E8%AF%B7%E6%94%AF%E6%8C%81%E8%80%85%E5%90%83%E9%A5%AD%E5%8D%B4%E6%B2%A1%E4%B9%B0%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [阿里总裁谈马云近况：他在东京教书](https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E6%80%BB%E8%A3%81%E8%B0%88%E9%A9%AC%E4%BA%91%E8%BF%91%E5%86%B5%EF%BC%9A%E4%BB%96%E5%9C%A8%E4%B8%9C%E4%BA%AC%E6%95%99%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [高质量发展调研行](https://www.baidu.com/s?wd=%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E8%B0%83%E7%A0%94%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [国足赢了！4-0大胜缅甸](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B3%E8%B5%A2%E4%BA%86%EF%BC%814-0%E5%A4%A7%E8%83%9C%E7%BC%85%E7%94%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [日警察向外籍女子喊回中国去](https://www.baidu.com/s?wd=%E6%97%A5%E8%AD%A6%E5%AF%9F%E5%90%91%E5%A4%96%E7%B1%8D%E5%A5%B3%E5%AD%90%E5%96%8A%E5%9B%9E%E4%B8%AD%E5%9B%BD%E5%8E%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [吴倩方晒出院记录](https://www.baidu.com/s?wd=%E5%90%B4%E5%80%A9%E6%96%B9%E6%99%92%E5%87%BA%E9%99%A2%E8%AE%B0%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [跳江救人小哥被奖励10万元和一套房](https://www.baidu.com/s?wd=%E8%B7%B3%E6%B1%9F%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E8%A2%AB%E5%A5%96%E5%8A%B110%E4%B8%87%E5%85%83%E5%92%8C%E4%B8%80%E5%A5%97%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [印度那么坑 中企为啥非要往里挤](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E9%82%A3%E4%B9%88%E5%9D%91+%E4%B8%AD%E4%BC%81%E4%B8%BA%E5%95%A5%E9%9D%9E%E8%A6%81%E5%BE%80%E9%87%8C%E6%8C%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [响水爆炸事故环境损害赔偿总额逾4亿](https://www.baidu.com/s?wd=%E5%93%8D%E6%B0%B4%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E7%8E%AF%E5%A2%83%E6%8D%9F%E5%AE%B3%E8%B5%94%E5%81%BF%E6%80%BB%E9%A2%9D%E9%80%BE4%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [广东暴雨积水成河 有人屋内钓鱼](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E6%9A%B4%E9%9B%A8%E7%A7%AF%E6%B0%B4%E6%88%90%E6%B2%B3+%E6%9C%89%E4%BA%BA%E5%B1%8B%E5%86%85%E9%92%93%E9%B1%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [美国务院透露布林肯访华三大目标](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%8A%A1%E9%99%A2%E9%80%8F%E9%9C%B2%E5%B8%83%E6%9E%97%E8%82%AF%E8%AE%BF%E5%8D%8E%E4%B8%89%E5%A4%A7%E7%9B%AE%E6%A0%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [特朗普说请支持者吃饭却没买单](https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E8%AF%B7%E6%94%AF%E6%8C%81%E8%80%85%E5%90%83%E9%A5%AD%E5%8D%B4%E6%B2%A1%E4%B9%B0%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
