@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-16 23:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-16 23:26:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [白鹿张凌赫](https://s.weibo.com/weibo?q=%E7%99%BD%E9%B9%BF%E5%BC%A0%E5%87%8C%E8%B5%AB&t=31&band_rank=6&Refer=top)<br />
 7. [杜江问梅西嗯哼的签名照是真迹吗](https://s.weibo.com/weibo?q=%23%E6%9D%9C%E6%B1%9F%E9%97%AE%E6%A2%85%E8%A5%BF%E5%97%AF%E5%93%BC%E7%9A%84%E7%AD%BE%E5%90%8D%E7%85%A7%E6%98%AF%E7%9C%9F%E8%BF%B9%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
 8. [山西煤矿3死1伤事故监控曝光](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E7%85%A4%E7%9F%BF3%E6%AD%BB1%E4%BC%A4%E4%BA%8B%E6%95%85%E7%9B%91%E6%8E%A7%E6%9B%9D%E5%85%89%23&t=31&band_rank=8&Refer=top)<br />
-9. [当丈夫说妻子在家啥也不干](https://s.weibo.com/weibo?q=%E5%BD%93%E4%B8%88%E5%A4%AB%E8%AF%B4%E5%A6%BB%E5%AD%90%E5%9C%A8%E5%AE%B6%E5%95%A5%E4%B9%9F%E4%B8%8D%E5%B9%B2&t=31&band_rank=9&Refer=top)<br />
+9. [无穷小亮在旅途中拍到的震撼景色](https://s.weibo.com/weibo?q=%E6%97%A0%E7%A9%B7%E5%B0%8F%E4%BA%AE%E5%9C%A8%E6%97%85%E9%80%94%E4%B8%AD%E6%8B%8D%E5%88%B0%E7%9A%84%E9%9C%87%E6%92%BC%E6%99%AF%E8%89%B2&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
