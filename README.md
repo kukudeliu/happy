@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 00:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 00:31:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [迪丽热巴真发了100多张自拍](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9C%9F%E5%8F%91%E4%BA%86100%E5%A4%9A%E5%BC%A0%E8%87%AA%E6%8B%8D%23&t=31&band_rank=4&Refer=top)<br />
 5. [陈乔恩被青蛙求婚](https://s.weibo.com/weibo?q=%23%E9%99%88%E4%B9%94%E6%81%A9%E8%A2%AB%E9%9D%92%E8%9B%99%E6%B1%82%E5%A9%9A%23&t=31&band_rank=5&Refer=top)<br />
 6. [白鹿张凌赫](https://s.weibo.com/weibo?q=%E7%99%BD%E9%B9%BF%E5%BC%A0%E5%87%8C%E8%B5%AB&t=31&band_rank=6&Refer=top)<br />
-7. [黄宗泽再认下去就不礼貌了](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AE%97%E6%B3%BD%E5%86%8D%E8%AE%A4%E4%B8%8B%E5%8E%BB%E5%B0%B1%E4%B8%8D%E7%A4%BC%E8%B2%8C%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [秋瓷炫 我不是不要脸](https://s.weibo.com/weibo?q=%E7%A7%8B%E7%93%B7%E7%82%AB%20%E6%88%91%E4%B8%8D%E6%98%AF%E4%B8%8D%E8%A6%81%E8%84%B8&t=31&band_rank=8&Refer=top)<br />
-9. [杜江问梅西嗯哼的签名照是真迹吗](https://s.weibo.com/weibo?q=%23%E6%9D%9C%E6%B1%9F%E9%97%AE%E6%A2%85%E8%A5%BF%E5%97%AF%E5%93%BC%E7%9A%84%E7%AD%BE%E5%90%8D%E7%85%A7%E6%98%AF%E7%9C%9F%E8%BF%B9%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
+7. [秋瓷炫 我不是不要脸](https://s.weibo.com/weibo?q=%E7%A7%8B%E7%93%B7%E7%82%AB%20%E6%88%91%E4%B8%8D%E6%98%AF%E4%B8%8D%E8%A6%81%E8%84%B8&t=31&band_rank=7&Refer=top)<br />
+8. [杜江问梅西嗯哼的签名照是真迹吗](https://s.weibo.com/weibo?q=%23%E6%9D%9C%E6%B1%9F%E9%97%AE%E6%A2%85%E8%A5%BF%E5%97%AF%E5%93%BC%E7%9A%84%E7%AD%BE%E5%90%8D%E7%85%A7%E6%98%AF%E7%9C%9F%E8%BF%B9%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
+9. [山西煤矿3死1伤事故监控曝光](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E7%85%A4%E7%9F%BF3%E6%AD%BB1%E4%BC%A4%E4%BA%8B%E6%95%85%E7%9B%91%E6%8E%A7%E6%9B%9D%E5%85%89%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
