@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 05:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 05:22:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [哈佛医学院曝惊天丑闻，员工偷尸体卖器官，600 美元可买两张脸，包裹用快递寄出，如何看待此事？](https://www.zhihu.com/question/606917409)<br />
 6. []()<br />
 7. []()<br />
-8. []()<br />
-9. [高考后可以做些什么来提升自己？](https://www.zhihu.com/question/606430561)<br />
+8. [高考后可以做些什么来提升自己？](https://www.zhihu.com/question/606430561)<br />
+9. [100 天复习，能过法考吗？](https://www.zhihu.com/question/408801493)<br />
 
 > 百度  
 
