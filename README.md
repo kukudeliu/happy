@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-16 15:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-16 15:18:02</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [青藏线失联近一个月的货车司机遇难](https://www.baidu.com/s?wd=%E9%9D%92%E8%97%8F%E7%BA%BF%E5%A4%B1%E8%81%94%E8%BF%91%E4%B8%80%E4%B8%AA%E6%9C%88%E7%9A%84%E8%B4%A7%E8%BD%A6%E5%8F%B8%E6%9C%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [比尔盖茨回复黄晓明](https://www.baidu.com/s?wd=%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8%E5%9B%9E%E5%A4%8D%E9%BB%84%E6%99%93%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女童吞下上百颗磁力珠肠道如鱼籽](https://www.baidu.com/s?wd=%E5%A5%B3%E7%AB%A5%E5%90%9E%E4%B8%8B%E4%B8%8A%E7%99%BE%E9%A2%97%E7%A3%81%E5%8A%9B%E7%8F%A0%E8%82%A0%E9%81%93%E5%A6%82%E9%B1%BC%E7%B1%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [千只鸭子大军给水稻除草](https://www.baidu.com/s?wd=%E5%8D%83%E5%8F%AA%E9%B8%AD%E5%AD%90%E5%A4%A7%E5%86%9B%E7%BB%99%E6%B0%B4%E7%A8%BB%E9%99%A4%E8%8D%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子深夜流浪街头称想当美女主播](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%B7%B1%E5%A4%9C%E6%B5%81%E6%B5%AA%E8%A1%97%E5%A4%B4%E7%A7%B0%E6%83%B3%E5%BD%93%E7%BE%8E%E5%A5%B3%E4%B8%BB%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子深夜流浪街头称想当美女主播](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%B7%B1%E5%A4%9C%E6%B5%81%E6%B5%AA%E8%A1%97%E5%A4%B4%E7%A7%B0%E6%83%B3%E5%BD%93%E7%BE%8E%E5%A5%B3%E4%B8%BB%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [千只鸭子大军给水稻除草](https://www.baidu.com/s?wd=%E5%8D%83%E5%8F%AA%E9%B8%AD%E5%AD%90%E5%A4%A7%E5%86%9B%E7%BB%99%E6%B0%B4%E7%A8%BB%E9%99%A4%E8%8D%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [青藏线失联近一个月的货车司机遇难](https://www.baidu.com/s?wd=%E9%9D%92%E8%97%8F%E7%BA%BF%E5%A4%B1%E8%81%94%E8%BF%91%E4%B8%80%E4%B8%AA%E6%9C%88%E7%9A%84%E8%B4%A7%E8%BD%A6%E5%8F%B8%E6%9C%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [比尔盖茨回复黄晓明](https://www.baidu.com/s?wd=%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8%E5%9B%9E%E5%A4%8D%E9%BB%84%E6%99%93%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女童吞下上百颗磁力珠肠道如鱼籽](https://www.baidu.com/s?wd=%E5%A5%B3%E7%AB%A5%E5%90%9E%E4%B8%8B%E4%B8%8A%E7%99%BE%E9%A2%97%E7%A3%81%E5%8A%9B%E7%8F%A0%E8%82%A0%E9%81%93%E5%A6%82%E9%B1%BC%E7%B1%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [千只鸭子大军给水稻除草](https://www.baidu.com/s?wd=%E5%8D%83%E5%8F%AA%E9%B8%AD%E5%AD%90%E5%A4%A7%E5%86%9B%E7%BB%99%E6%B0%B4%E7%A8%BB%E9%99%A4%E8%8D%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子深夜流浪街头称想当美女主播](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%B7%B1%E5%A4%9C%E6%B5%81%E6%B5%AA%E8%A1%97%E5%A4%B4%E7%A7%B0%E6%83%B3%E5%BD%93%E7%BE%8E%E5%A5%B3%E4%B8%BB%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子深夜流浪街头称想当美女主播](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%B7%B1%E5%A4%9C%E6%B5%81%E6%B5%AA%E8%A1%97%E5%A4%B4%E7%A7%B0%E6%83%B3%E5%BD%93%E7%BE%8E%E5%A5%B3%E4%B8%BB%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [千只鸭子大军给水稻除草](https://www.baidu.com/s?wd=%E5%8D%83%E5%8F%AA%E9%B8%AD%E5%AD%90%E5%A4%A7%E5%86%9B%E7%BB%99%E6%B0%B4%E7%A8%BB%E9%99%A4%E8%8D%89&sa=fyb_news&rsv_dl=fyb_news)<br />
