@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 05:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 05:40:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [哈佛医学院曝惊天丑闻，员工偷尸体卖器官，600 美元可买两张脸，包裹用快递寄出，如何看待此事？](https://www.zhihu.com/question/606917409)<br />
 5. [特斯拉发布视频公开「电机的秘密」，视频中暗讽造车新势力只做 「冰箱彩电大沙发」，如何看待此视频？](https://www.zhihu.com/question/606771603)<br />
 6. [为什么很多网友都说电脑用 5 年左右就该换了？](https://www.zhihu.com/question/521171582)<br />
-7. [你最难忘的乙女游戏男主是谁呢?](https://www.zhihu.com/question/572110966)<br />
-8. [每天只喝牛奶不喝水可以吗？](https://www.zhihu.com/question/602381276)<br />
-9. [40 度的天，你们的穿搭是怎样哇塞的？](https://www.zhihu.com/question/606013148)<br />
+7. [每天只喝牛奶不喝水可以吗？](https://www.zhihu.com/question/602381276)<br />
+8. [40 度的天，你们的穿搭是怎样哇塞的？](https://www.zhihu.com/question/606013148)<br />
+9. [你最难忘的乙女游戏男主是谁呢?](https://www.zhihu.com/question/572110966)<br />
 
 > 百度  
 
