@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 06:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 06:30:01</h4></div>
 
 > 微博  
 
@@ -18,11 +18,11 @@
 2. [2023 中国大学评级发布，北大、人大、清华、复旦等 9 所高校位列最顶级，哪些信息值得关注？](https://www.zhihu.com/question/606944114)<br />
 3. [美光科技将在西安封测工厂投资逾 43 亿元，收购当地一半导体公司封装设备，商业上如何解读此举？](https://www.zhihu.com/question/607000886)<br />
 4. [哈佛医学院曝惊天丑闻，员工偷尸体卖器官，600 美元可买两张脸，包裹用快递寄出，如何看待此事？](https://www.zhihu.com/question/606917409)<br />
-5. [为什么很多网友都说电脑用 5 年左右就该换了？](https://www.zhihu.com/question/521171582)<br />
-6. [特斯拉发布视频公开「电机的秘密」，视频中暗讽造车新势力只做 「冰箱彩电大沙发」，如何看待此视频？](https://www.zhihu.com/question/606771603)<br />
-7. [美官员称布林肯访华将围绕三大目标同中方沟通，布林肯此次访华有何重要意义？](https://www.zhihu.com/question/606965050)<br />
-8. [欧委会称将不再采购华为中兴设备，外交部称「有罪推定，坚决反对」，如何看待此事？](https://www.zhihu.com/question/606961996)<br />
-9. []()<br />
+5. [哪些方法可以让小孩好好写作业？](https://www.zhihu.com/question/596788731)<br />
+6. [为什么很多网友都说电脑用 5 年左右就该换了？](https://www.zhihu.com/question/521171582)<br />
+7. [特斯拉发布视频公开「电机的秘密」，视频中暗讽造车新势力只做 「冰箱彩电大沙发」，如何看待此视频？](https://www.zhihu.com/question/606771603)<br />
+8. [美官员称布林肯访华将围绕三大目标同中方沟通，布林肯此次访华有何重要意义？](https://www.zhihu.com/question/606965050)<br />
+9. [欧委会称将不再采购华为中兴设备，外交部称「有罪推定，坚决反对」，如何看待此事？](https://www.zhihu.com/question/606961996)<br />
 
 > 百度  
 
@@ -31,8 +31,8 @@
 3. [阿里总裁谈马云近况：他在东京教书](https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E6%80%BB%E8%A3%81%E8%B0%88%E9%A9%AC%E4%BA%91%E8%BF%91%E5%86%B5%EF%BC%9A%E4%BB%96%E5%9C%A8%E4%B8%9C%E4%BA%AC%E6%95%99%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [高质量发展调研行](https://www.baidu.com/s?wd=%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E8%B0%83%E7%A0%94%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [国足赢了！4-0大胜缅甸](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B3%E8%B5%A2%E4%BA%86%EF%BC%814-0%E5%A4%A7%E8%83%9C%E7%BC%85%E7%94%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [救人小哥想用捐款反哺家乡教育](https://www.baidu.com/s?wd=%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E6%83%B3%E7%94%A8%E6%8D%90%E6%AC%BE%E5%8F%8D%E5%93%BA%E5%AE%B6%E4%B9%A1%E6%95%99%E8%82%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [家长找商家退猫遭拒把猫摔死](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E6%89%BE%E5%95%86%E5%AE%B6%E9%80%80%E7%8C%AB%E9%81%AD%E6%8B%92%E6%8A%8A%E7%8C%AB%E6%91%94%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [家长找商家退猫遭拒把猫摔死](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E6%89%BE%E5%95%86%E5%AE%B6%E9%80%80%E7%8C%AB%E9%81%AD%E6%8B%92%E6%8A%8A%E7%8C%AB%E6%91%94%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [救人小哥想用捐款反哺家乡教育](https://www.baidu.com/s?wd=%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E6%83%B3%E7%94%A8%E6%8D%90%E6%AC%BE%E5%8F%8D%E5%93%BA%E5%AE%B6%E4%B9%A1%E6%95%99%E8%82%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [日警察向外籍女子喊回中国去](https://www.baidu.com/s?wd=%E6%97%A5%E8%AD%A6%E5%AF%9F%E5%90%91%E5%A4%96%E7%B1%8D%E5%A5%B3%E5%AD%90%E5%96%8A%E5%9B%9E%E4%B8%AD%E5%9B%BD%E5%8E%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [马云与汪涵聚餐发福变胖](https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%E4%B8%8E%E6%B1%AA%E6%B6%B5%E8%81%9A%E9%A4%90%E5%8F%91%E7%A6%8F%E5%8F%98%E8%83%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -43,7 +43,7 @@
 3. [阿里总裁谈马云近况：他在东京教书](https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E6%80%BB%E8%A3%81%E8%B0%88%E9%A9%AC%E4%BA%91%E8%BF%91%E5%86%B5%EF%BC%9A%E4%BB%96%E5%9C%A8%E4%B8%9C%E4%BA%AC%E6%95%99%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [高质量发展调研行](https://www.baidu.com/s?wd=%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E8%B0%83%E7%A0%94%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [国足赢了！4-0大胜缅甸](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B3%E8%B5%A2%E4%BA%86%EF%BC%814-0%E5%A4%A7%E8%83%9C%E7%BC%85%E7%94%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [救人小哥想用捐款反哺家乡教育](https://www.baidu.com/s?wd=%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E6%83%B3%E7%94%A8%E6%8D%90%E6%AC%BE%E5%8F%8D%E5%93%BA%E5%AE%B6%E4%B9%A1%E6%95%99%E8%82%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [家长找商家退猫遭拒把猫摔死](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E6%89%BE%E5%95%86%E5%AE%B6%E9%80%80%E7%8C%AB%E9%81%AD%E6%8B%92%E6%8A%8A%E7%8C%AB%E6%91%94%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [家长找商家退猫遭拒把猫摔死](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E6%89%BE%E5%95%86%E5%AE%B6%E9%80%80%E7%8C%AB%E9%81%AD%E6%8B%92%E6%8A%8A%E7%8C%AB%E6%91%94%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [救人小哥想用捐款反哺家乡教育](https://www.baidu.com/s?wd=%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E6%83%B3%E7%94%A8%E6%8D%90%E6%AC%BE%E5%8F%8D%E5%93%BA%E5%AE%B6%E4%B9%A1%E6%95%99%E8%82%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [日警察向外籍女子喊回中国去](https://www.baidu.com/s?wd=%E6%97%A5%E8%AD%A6%E5%AF%9F%E5%90%91%E5%A4%96%E7%B1%8D%E5%A5%B3%E5%AD%90%E5%96%8A%E5%9B%9E%E4%B8%AD%E5%9B%BD%E5%8E%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [马云与汪涵聚餐发福变胖](https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%E4%B8%8E%E6%B1%AA%E6%B6%B5%E8%81%9A%E9%A4%90%E5%8F%91%E7%A6%8F%E5%8F%98%E8%83%96&sa=fyb_news&rsv_dl=fyb_news)<br />
