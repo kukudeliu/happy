@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-16 15:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-16 15:29:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [杭州亚运形象宣传片弄潮](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E5%BD%A2%E8%B1%A1%E5%AE%A3%E4%BC%A0%E7%89%87%E5%BC%84%E6%BD%AE%23&t=31&band_rank=3&Refer=top)<br />
 4. [Jennie去爬山了](https://s.weibo.com/weibo?q=%23Jennie%E5%8E%BB%E7%88%AC%E5%B1%B1%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [新闻学教授怒怼张雪峰](https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%97%BB%E5%AD%A6%E6%95%99%E6%8E%88%E6%80%92%E6%80%BC%E5%BC%A0%E9%9B%AA%E5%B3%B0%23&t=31&band_rank=5&Refer=top)<br />
-6. [TFBOYS十年之约演唱会官宣](https://s.weibo.com/weibo?q=%23TFBOYS%E5%8D%81%E5%B9%B4%E4%B9%8B%E7%BA%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AE%98%E5%AE%A3%23&t=31&band_rank=6&Refer=top)<br />
-7. [黄晓明油过没丑过](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E6%B2%B9%E8%BF%87%E6%B2%A1%E4%B8%91%E8%BF%87%23&t=31&band_rank=7&Refer=top)<br />
+6. [黄晓明油过没丑过](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E6%B2%B9%E8%BF%87%E6%B2%A1%E4%B8%91%E8%BF%87%23&t=31&band_rank=6&Refer=top)<br />
+7. [TFBOYS十年之约演唱会官宣](https://s.weibo.com/weibo?q=%23TFBOYS%E5%8D%81%E5%B9%B4%E4%B9%8B%E7%BA%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AE%98%E5%AE%A3%23&t=31&band_rank=7&Refer=top)<br />
 8. [交警买网红青蛙小青蛙不让付钱](https://s.weibo.com/weibo?q=%23%E4%BA%A4%E8%AD%A6%E4%B9%B0%E7%BD%91%E7%BA%A2%E9%9D%92%E8%9B%99%E5%B0%8F%E9%9D%92%E8%9B%99%E4%B8%8D%E8%AE%A9%E4%BB%98%E9%92%B1%23&t=31&band_rank=8&Refer=top)<br />
 9. [苏翊鸣发文回应保送清华大学](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%BF%8A%E9%B8%A3%E5%8F%91%E6%96%87%E5%9B%9E%E5%BA%94%E4%BF%9D%E9%80%81%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%23&t=31&band_rank=9&Refer=top)<br />
 
@@ -33,8 +33,8 @@
 5. [青藏线失联近一个月的货车司机遇难](https://www.baidu.com/s?wd=%E9%9D%92%E8%97%8F%E7%BA%BF%E5%A4%B1%E8%81%94%E8%BF%91%E4%B8%80%E4%B8%AA%E6%9C%88%E7%9A%84%E8%B4%A7%E8%BD%A6%E5%8F%B8%E6%9C%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [比尔盖茨回复黄晓明](https://www.baidu.com/s?wd=%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8%E5%9B%9E%E5%A4%8D%E9%BB%84%E6%99%93%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女童吞下上百颗磁力珠肠道如鱼籽](https://www.baidu.com/s?wd=%E5%A5%B3%E7%AB%A5%E5%90%9E%E4%B8%8B%E4%B8%8A%E7%99%BE%E9%A2%97%E7%A3%81%E5%8A%9B%E7%8F%A0%E8%82%A0%E9%81%93%E5%A6%82%E9%B1%BC%E7%B1%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [超40度高温来袭](https://www.baidu.com/s?wd=%E8%B6%8540%E5%BA%A6%E9%AB%98%E6%B8%A9%E6%9D%A5%E8%A2%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [新闻学教授怒怼张雪峰](https://www.baidu.com/s?wd=%E6%96%B0%E9%97%BB%E5%AD%A6%E6%95%99%E6%8E%88%E6%80%92%E6%80%BC%E5%BC%A0%E9%9B%AA%E5%B3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女童幼儿园受伤监控离奇缺失](https://www.baidu.com/s?wd=%E5%A5%B3%E7%AB%A5%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%8F%97%E4%BC%A4%E7%9B%91%E6%8E%A7%E7%A6%BB%E5%A5%87%E7%BC%BA%E5%A4%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [超40度高温来袭](https://www.baidu.com/s?wd=%E8%B6%8540%E5%BA%A6%E9%AB%98%E6%B8%A9%E6%9D%A5%E8%A2%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [青藏线失联近一个月的货车司机遇难](https://www.baidu.com/s?wd=%E9%9D%92%E8%97%8F%E7%BA%BF%E5%A4%B1%E8%81%94%E8%BF%91%E4%B8%80%E4%B8%AA%E6%9C%88%E7%9A%84%E8%B4%A7%E8%BD%A6%E5%8F%B8%E6%9C%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [比尔盖茨回复黄晓明](https://www.baidu.com/s?wd=%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8%E5%9B%9E%E5%A4%8D%E9%BB%84%E6%99%93%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女童吞下上百颗磁力珠肠道如鱼籽](https://www.baidu.com/s?wd=%E5%A5%B3%E7%AB%A5%E5%90%9E%E4%B8%8B%E4%B8%8A%E7%99%BE%E9%A2%97%E7%A3%81%E5%8A%9B%E7%8F%A0%E8%82%A0%E9%81%93%E5%A6%82%E9%B1%BC%E7%B1%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [超40度高温来袭](https://www.baidu.com/s?wd=%E8%B6%8540%E5%BA%A6%E9%AB%98%E6%B8%A9%E6%9D%A5%E8%A2%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [新闻学教授怒怼张雪峰](https://www.baidu.com/s?wd=%E6%96%B0%E9%97%BB%E5%AD%A6%E6%95%99%E6%8E%88%E6%80%92%E6%80%BC%E5%BC%A0%E9%9B%AA%E5%B3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女童幼儿园受伤监控离奇缺失](https://www.baidu.com/s?wd=%E5%A5%B3%E7%AB%A5%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%8F%97%E4%BC%A4%E7%9B%91%E6%8E%A7%E7%A6%BB%E5%A5%87%E7%BC%BA%E5%A4%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [超40度高温来袭](https://www.baidu.com/s?wd=%E8%B6%8540%E5%BA%A6%E9%AB%98%E6%B8%A9%E6%9D%A5%E8%A2%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
