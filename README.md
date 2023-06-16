@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-16 20:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-16 20:49:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [阿姨收到工资反塞给老板500块](https://www.baidu.com/s?wd=%E9%98%BF%E5%A7%A8%E6%94%B6%E5%88%B0%E5%B7%A5%E8%B5%84%E5%8F%8D%E5%A1%9E%E7%BB%99%E8%80%81%E6%9D%BF500%E5%9D%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [文旅部:演唱会门票实名制为抵制黄牛](https://www.baidu.com/s?wd=%E6%96%87%E6%97%85%E9%83%A8%3A%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E5%AE%9E%E5%90%8D%E5%88%B6%E4%B8%BA%E6%8A%B5%E5%88%B6%E9%BB%84%E7%89%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [工体之夜梅西创造两个纪录](https://www.baidu.com/s?wd=%E5%B7%A5%E4%BD%93%E4%B9%8B%E5%A4%9C%E6%A2%85%E8%A5%BF%E5%88%9B%E9%80%A0%E4%B8%A4%E4%B8%AA%E7%BA%AA%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [父亲回应苏翊鸣圆梦清华：专业未定](https://www.baidu.com/s?wd=%E7%88%B6%E4%BA%B2%E5%9B%9E%E5%BA%94%E8%8B%8F%E7%BF%8A%E9%B8%A3%E5%9C%86%E6%A2%A6%E6%B8%85%E5%8D%8E%EF%BC%9A%E4%B8%93%E4%B8%9A%E6%9C%AA%E5%AE%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [比尔盖茨回复黄晓明](https://www.baidu.com/s?wd=%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8%E5%9B%9E%E5%A4%8D%E9%BB%84%E6%99%93%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [阿姨收到工资反塞给老板500块](https://www.baidu.com/s?wd=%E9%98%BF%E5%A7%A8%E6%94%B6%E5%88%B0%E5%B7%A5%E8%B5%84%E5%8F%8D%E5%A1%9E%E7%BB%99%E8%80%81%E6%9D%BF500%E5%9D%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [文旅部:演唱会门票实名制为抵制黄牛](https://www.baidu.com/s?wd=%E6%96%87%E6%97%85%E9%83%A8%3A%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E5%AE%9E%E5%90%8D%E5%88%B6%E4%B8%BA%E6%8A%B5%E5%88%B6%E9%BB%84%E7%89%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [工体之夜梅西创造两个纪录](https://www.baidu.com/s?wd=%E5%B7%A5%E4%BD%93%E4%B9%8B%E5%A4%9C%E6%A2%85%E8%A5%BF%E5%88%9B%E9%80%A0%E4%B8%A4%E4%B8%AA%E7%BA%AA%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [父亲回应苏翊鸣圆梦清华：专业未定](https://www.baidu.com/s?wd=%E7%88%B6%E4%BA%B2%E5%9B%9E%E5%BA%94%E8%8B%8F%E7%BF%8A%E9%B8%A3%E5%9C%86%E6%A2%A6%E6%B8%85%E5%8D%8E%EF%BC%9A%E4%B8%93%E4%B8%9A%E6%9C%AA%E5%AE%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [比尔盖茨回复黄晓明](https://www.baidu.com/s?wd=%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8%E5%9B%9E%E5%A4%8D%E9%BB%84%E6%99%93%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
