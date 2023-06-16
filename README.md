@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-16 13:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-16 13:29:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [黄晓明油过没丑过](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E6%B2%B9%E8%BF%87%E6%B2%A1%E4%B8%91%E8%BF%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [球迷冲进球场抱梅西](https://s.weibo.com/weibo?q=%23%E7%90%83%E8%BF%B7%E5%86%B2%E8%BF%9B%E7%90%83%E5%9C%BA%E6%8A%B1%E6%A2%85%E8%A5%BF%23&t=31&band_rank=7&Refer=top)<br />
 8. [苏翊鸣发文回应保送清华大学](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%BF%8A%E9%B8%A3%E5%8F%91%E6%96%87%E5%9B%9E%E5%BA%94%E4%BF%9D%E9%80%81%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%23&t=31&band_rank=8&Refer=top)<br />
-9. [交警买网红青蛙小青蛙不让付钱](https://s.weibo.com/weibo?q=%23%E4%BA%A4%E8%AD%A6%E4%B9%B0%E7%BD%91%E7%BA%A2%E9%9D%92%E8%9B%99%E5%B0%8F%E9%9D%92%E8%9B%99%E4%B8%8D%E8%AE%A9%E4%BB%98%E9%92%B1%23&t=31&band_rank=9&Refer=top)<br />
+9. [新闻学教授怒怼张雪峰](https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%97%BB%E5%AD%A6%E6%95%99%E6%8E%88%E6%80%92%E6%80%BC%E5%BC%A0%E9%9B%AA%E5%B3%B0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -31,10 +31,10 @@
 3. [男子突发奇想将甜瓜和西瓜嫁接](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%AA%81%E5%8F%91%E5%A5%87%E6%83%B3%E5%B0%86%E7%94%9C%E7%93%9C%E5%92%8C%E8%A5%BF%E7%93%9C%E5%AB%81%E6%8E%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [高温下 致敬他们的坚守](https://www.baidu.com/s?wd=%E9%AB%98%E6%B8%A9%E4%B8%8B+%E8%87%B4%E6%95%AC%E4%BB%96%E4%BB%AC%E7%9A%84%E5%9D%9A%E5%AE%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [#冲进球场抱梅西的球迷错了吗#](https://www.baidu.com/s?wd=%23%E5%86%B2%E8%BF%9B%E7%90%83%E5%9C%BA%E6%8A%B1%E6%A2%85%E8%A5%BF%E7%9A%84%E7%90%83%E8%BF%B7%E9%94%99%E4%BA%86%E5%90%97%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [这座一线城市要限电动自行车](https://www.baidu.com/s?wd=%E8%BF%99%E5%BA%A7%E4%B8%80%E7%BA%BF%E5%9F%8E%E5%B8%82%E8%A6%81%E9%99%90%E7%94%B5%E5%8A%A8%E8%87%AA%E8%A1%8C%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女生摆摊卖鸡脚边卖边吃](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E6%91%86%E6%91%8A%E5%8D%96%E9%B8%A1%E8%84%9A%E8%BE%B9%E5%8D%96%E8%BE%B9%E5%90%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [印度那么坑 中企为啥非要往里挤](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E9%82%A3%E4%B9%88%E5%9D%91+%E4%B8%AD%E4%BC%81%E4%B8%BA%E5%95%A5%E9%9D%9E%E8%A6%81%E5%BE%80%E9%87%8C%E6%8C%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [巨鸟撞穿飞机挡风玻璃 残骸嵌入机身](https://www.baidu.com/s?wd=%E5%B7%A8%E9%B8%9F%E6%92%9E%E7%A9%BF%E9%A3%9E%E6%9C%BA%E6%8C%A1%E9%A3%8E%E7%8E%BB%E7%92%83+%E6%AE%8B%E9%AA%B8%E5%B5%8C%E5%85%A5%E6%9C%BA%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [女生摆摊卖鸡脚边卖边吃](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E6%91%86%E6%91%8A%E5%8D%96%E9%B8%A1%E8%84%9A%E8%BE%B9%E5%8D%96%E8%BE%B9%E5%90%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [巨鸟撞穿飞机挡风玻璃 残骸嵌入机身](https://www.baidu.com/s?wd=%E5%B7%A8%E9%B8%9F%E6%92%9E%E7%A9%BF%E9%A3%9E%E6%9C%BA%E6%8C%A1%E9%A3%8E%E7%8E%BB%E7%92%83+%E6%AE%8B%E9%AA%B8%E5%B5%8C%E5%85%A5%E6%9C%BA%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男生中考忘涂卡妈妈大哭?发布者辟谣](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E4%B8%AD%E8%80%83%E5%BF%98%E6%B6%82%E5%8D%A1%E5%A6%88%E5%A6%88%E5%A4%A7%E5%93%AD%3F%E5%8F%91%E5%B8%83%E8%80%85%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [印度那么坑 中企为啥非要往里挤](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E9%82%A3%E4%B9%88%E5%9D%91+%E4%B8%AD%E4%BC%81%E4%B8%BA%E5%95%A5%E9%9D%9E%E8%A6%81%E5%BE%80%E9%87%8C%E6%8C%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [男子突发奇想将甜瓜和西瓜嫁接](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%AA%81%E5%8F%91%E5%A5%87%E6%83%B3%E5%B0%86%E7%94%9C%E7%93%9C%E5%92%8C%E8%A5%BF%E7%93%9C%E5%AB%81%E6%8E%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [高温下 致敬他们的坚守](https://www.baidu.com/s?wd=%E9%AB%98%E6%B8%A9%E4%B8%8B+%E8%87%B4%E6%95%AC%E4%BB%96%E4%BB%AC%E7%9A%84%E5%9D%9A%E5%AE%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [#冲进球场抱梅西的球迷错了吗#](https://www.baidu.com/s?wd=%23%E5%86%B2%E8%BF%9B%E7%90%83%E5%9C%BA%E6%8A%B1%E6%A2%85%E8%A5%BF%E7%9A%84%E7%90%83%E8%BF%B7%E9%94%99%E4%BA%86%E5%90%97%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [这座一线城市要限电动自行车](https://www.baidu.com/s?wd=%E8%BF%99%E5%BA%A7%E4%B8%80%E7%BA%BF%E5%9F%8E%E5%B8%82%E8%A6%81%E9%99%90%E7%94%B5%E5%8A%A8%E8%87%AA%E8%A1%8C%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女生摆摊卖鸡脚边卖边吃](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E6%91%86%E6%91%8A%E5%8D%96%E9%B8%A1%E8%84%9A%E8%BE%B9%E5%8D%96%E8%BE%B9%E5%90%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [印度那么坑 中企为啥非要往里挤](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E9%82%A3%E4%B9%88%E5%9D%91+%E4%B8%AD%E4%BC%81%E4%B8%BA%E5%95%A5%E9%9D%9E%E8%A6%81%E5%BE%80%E9%87%8C%E6%8C%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [巨鸟撞穿飞机挡风玻璃 残骸嵌入机身](https://www.baidu.com/s?wd=%E5%B7%A8%E9%B8%9F%E6%92%9E%E7%A9%BF%E9%A3%9E%E6%9C%BA%E6%8C%A1%E9%A3%8E%E7%8E%BB%E7%92%83+%E6%AE%8B%E9%AA%B8%E5%B5%8C%E5%85%A5%E6%9C%BA%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [女生摆摊卖鸡脚边卖边吃](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E6%91%86%E6%91%8A%E5%8D%96%E9%B8%A1%E8%84%9A%E8%BE%B9%E5%8D%96%E8%BE%B9%E5%90%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [巨鸟撞穿飞机挡风玻璃 残骸嵌入机身](https://www.baidu.com/s?wd=%E5%B7%A8%E9%B8%9F%E6%92%9E%E7%A9%BF%E9%A3%9E%E6%9C%BA%E6%8C%A1%E9%A3%8E%E7%8E%BB%E7%92%83+%E6%AE%8B%E9%AA%B8%E5%B5%8C%E5%85%A5%E6%9C%BA%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男生中考忘涂卡妈妈大哭?发布者辟谣](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E4%B8%AD%E8%80%83%E5%BF%98%E6%B6%82%E5%8D%A1%E5%A6%88%E5%A6%88%E5%A4%A7%E5%93%AD%3F%E5%8F%91%E5%B8%83%E8%80%85%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [印度那么坑 中企为啥非要往里挤](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E9%82%A3%E4%B9%88%E5%9D%91+%E4%B8%AD%E4%BC%81%E4%B8%BA%E5%95%A5%E9%9D%9E%E8%A6%81%E5%BE%80%E9%87%8C%E6%8C%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
