@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-16 22:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-16 22:42:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [如何评价皮克斯新片《疯狂元素城》？](https://www.zhihu.com/question/598971125)<br />
 6. [有数据称 35 岁失业者就业环境有所改善，过半数能在一个月内找到新工作，如何看待职场上 35 岁择业困境呢？](https://www.zhihu.com/question/606934812)<br />
 7. [央行降息原因有哪些？未来降息是否会成为常态？降息目前起到的效果如何？](https://www.zhihu.com/question/607030124)<br />
-8. [为什么很多网友都说电脑用 5 年左右就该换了？](https://www.zhihu.com/question/521171582)<br />
-9. [如何看待和朋友渐行渐远?](https://www.zhihu.com/question/597781416)<br />
+8. [如何看待和朋友渐行渐远?](https://www.zhihu.com/question/597781416)<br />
+9. [咖啡有啥特殊功效？](https://www.zhihu.com/question/468860270)<br />
 
 > 百度  
 
