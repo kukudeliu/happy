@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 07:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 07:50:01</h4></div>
 
 > 微博  
 
@@ -18,11 +18,11 @@
 2. [马斯克和比尔盖茨等掀起「访华潮」，如何看待外企高管们纷纷到访中国？会带来哪些利好？](https://www.zhihu.com/question/606763754)<br />
 3. [哈佛医学院曝惊天丑闻，员工偷尸体卖器官，600 美元可买两张脸，包裹用快递寄出，如何看待此事？](https://www.zhihu.com/question/606917409)<br />
 4. [哪些方法可以让小孩好好写作业？](https://www.zhihu.com/question/596788731)<br />
-5. [为什么至今，没有挖出来一件，古希腊时期的著作?](https://www.zhihu.com/question/598531662)<br />
-6. [对于 2023 年高考志愿填报你有什么好的建议？](https://www.zhihu.com/question/598956538)<br />
-7. [你有没有一瞬间不想打篮球了？](https://www.zhihu.com/question/456341403)<br />
-8. [为什么很多网友都说电脑用 5 年左右就该换了？](https://www.zhihu.com/question/521171582)<br />
-9. [欧委会称将不再采购华为中兴设备，外交部称「有罪推定，坚决反对」，如何看待此事？](https://www.zhihu.com/question/606961996)<br />
+5. [对于 2023 年高考志愿填报你有什么好的建议？](https://www.zhihu.com/question/598956538)<br />
+6. [你有没有一瞬间不想打篮球了？](https://www.zhihu.com/question/456341403)<br />
+7. [为什么很多网友都说电脑用 5 年左右就该换了？](https://www.zhihu.com/question/521171582)<br />
+8. [欧委会称将不再采购华为中兴设备，外交部称「有罪推定，坚决反对」，如何看待此事？](https://www.zhihu.com/question/606961996)<br />
+9. [特斯拉发布视频公开「电机的秘密」，视频中暗讽造车新势力只做 「冰箱彩电大沙发」，如何看待此视频？](https://www.zhihu.com/question/606771603)<br />
 
 > 百度  
 
