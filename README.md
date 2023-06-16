@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-16 19:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-16 19:04:01</h4></div>
 
 > 微博  
 
@@ -31,10 +31,10 @@
 3. [跳江救人小哥被奖励10万元和一套房](https://www.baidu.com/s?wd=%E8%B7%B3%E6%B1%9F%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E8%A2%AB%E5%A5%96%E5%8A%B110%E4%B8%87%E5%85%83%E5%92%8C%E4%B8%80%E5%A5%97%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [高考考生们这些“套路”骗局要当心](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E8%80%83%E7%94%9F%E4%BB%AC%E8%BF%99%E4%BA%9B%E2%80%9C%E5%A5%97%E8%B7%AF%E2%80%9D%E9%AA%97%E5%B1%80%E8%A6%81%E5%BD%93%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子烈日下举牌求前夫复婚](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%83%88%E6%97%A5%E4%B8%8B%E4%B8%BE%E7%89%8C%E6%B1%82%E5%89%8D%E5%A4%AB%E5%A4%8D%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [马云与汪涵聚餐发福变胖](https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%E4%B8%8E%E6%B1%AA%E6%B6%B5%E8%81%9A%E9%A4%90%E5%8F%91%E7%A6%8F%E5%8F%98%E8%83%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [北上广深二手房价格降了](https://www.baidu.com/s?wd=%E5%8C%97%E4%B8%8A%E5%B9%BF%E6%B7%B1%E4%BA%8C%E6%89%8B%E6%88%BF%E4%BB%B7%E6%A0%BC%E9%99%8D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [霍思燕带嗯哼看梅西比赛](https://www.baidu.com/s?wd=%E9%9C%8D%E6%80%9D%E7%87%95%E5%B8%A6%E5%97%AF%E5%93%BC%E7%9C%8B%E6%A2%85%E8%A5%BF%E6%AF%94%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [大学生被控强奸罪一审重审改判三年](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A2%AB%E6%8E%A7%E5%BC%BA%E5%A5%B8%E7%BD%AA%E4%B8%80%E5%AE%A1%E9%87%8D%E5%AE%A1%E6%94%B9%E5%88%A4%E4%B8%89%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [公司为政府开发系统时造成数据泄露](https://www.baidu.com/s?wd=%E5%85%AC%E5%8F%B8%E4%B8%BA%E6%94%BF%E5%BA%9C%E5%BC%80%E5%8F%91%E7%B3%BB%E7%BB%9F%E6%97%B6%E9%80%A0%E6%88%90%E6%95%B0%E6%8D%AE%E6%B3%84%E9%9C%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男孩玩气球砸到吹风机爆燃](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E7%8E%A9%E6%B0%94%E7%90%83%E7%A0%B8%E5%88%B0%E5%90%B9%E9%A3%8E%E6%9C%BA%E7%88%86%E7%87%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [马云与汪涵聚餐发福变胖](https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%E4%B8%8E%E6%B1%AA%E6%B6%B5%E8%81%9A%E9%A4%90%E5%8F%91%E7%A6%8F%E5%8F%98%E8%83%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [家长质疑收费被班主任踢出群](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E8%B4%A8%E7%96%91%E6%94%B6%E8%B4%B9%E8%A2%AB%E7%8F%AD%E4%B8%BB%E4%BB%BB%E8%B8%A2%E5%87%BA%E7%BE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [跳江救人小哥被奖励10万元和一套房](https://www.baidu.com/s?wd=%E8%B7%B3%E6%B1%9F%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E8%A2%AB%E5%A5%96%E5%8A%B110%E4%B8%87%E5%85%83%E5%92%8C%E4%B8%80%E5%A5%97%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [高考考生们这些“套路”骗局要当心](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E8%80%83%E7%94%9F%E4%BB%AC%E8%BF%99%E4%BA%9B%E2%80%9C%E5%A5%97%E8%B7%AF%E2%80%9D%E9%AA%97%E5%B1%80%E8%A6%81%E5%BD%93%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子烈日下举牌求前夫复婚](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%83%88%E6%97%A5%E4%B8%8B%E4%B8%BE%E7%89%8C%E6%B1%82%E5%89%8D%E5%A4%AB%E5%A4%8D%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [马云与汪涵聚餐发福变胖](https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%E4%B8%8E%E6%B1%AA%E6%B6%B5%E8%81%9A%E9%A4%90%E5%8F%91%E7%A6%8F%E5%8F%98%E8%83%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [北上广深二手房价格降了](https://www.baidu.com/s?wd=%E5%8C%97%E4%B8%8A%E5%B9%BF%E6%B7%B1%E4%BA%8C%E6%89%8B%E6%88%BF%E4%BB%B7%E6%A0%BC%E9%99%8D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [霍思燕带嗯哼看梅西比赛](https://www.baidu.com/s?wd=%E9%9C%8D%E6%80%9D%E7%87%95%E5%B8%A6%E5%97%AF%E5%93%BC%E7%9C%8B%E6%A2%85%E8%A5%BF%E6%AF%94%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [大学生被控强奸罪一审重审改判三年](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A2%AB%E6%8E%A7%E5%BC%BA%E5%A5%B8%E7%BD%AA%E4%B8%80%E5%AE%A1%E9%87%8D%E5%AE%A1%E6%94%B9%E5%88%A4%E4%B8%89%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [公司为政府开发系统时造成数据泄露](https://www.baidu.com/s?wd=%E5%85%AC%E5%8F%B8%E4%B8%BA%E6%94%BF%E5%BA%9C%E5%BC%80%E5%8F%91%E7%B3%BB%E7%BB%9F%E6%97%B6%E9%80%A0%E6%88%90%E6%95%B0%E6%8D%AE%E6%B3%84%E9%9C%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男孩玩气球砸到吹风机爆燃](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E7%8E%A9%E6%B0%94%E7%90%83%E7%A0%B8%E5%88%B0%E5%90%B9%E9%A3%8E%E6%9C%BA%E7%88%86%E7%87%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [马云与汪涵聚餐发福变胖](https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%E4%B8%8E%E6%B1%AA%E6%B6%B5%E8%81%9A%E9%A4%90%E5%8F%91%E7%A6%8F%E5%8F%98%E8%83%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [家长质疑收费被班主任踢出群](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E8%B4%A8%E7%96%91%E6%94%B6%E8%B4%B9%E8%A2%AB%E7%8F%AD%E4%B8%BB%E4%BB%BB%E8%B8%A2%E5%87%BA%E7%BE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
