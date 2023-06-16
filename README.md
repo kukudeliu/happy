@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-16 15:49:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-16 15:50:01</h4></div>
 
 > 微博  
 
@@ -33,7 +33,7 @@
 5. [新闻学教授怒怼张雪峰](https://www.baidu.com/s?wd=%E6%96%B0%E9%97%BB%E5%AD%A6%E6%95%99%E6%8E%88%E6%80%92%E6%80%BC%E5%BC%A0%E9%9B%AA%E5%B3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [比尔盖茨回复黄晓明](https://www.baidu.com/s?wd=%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8%E5%9B%9E%E5%A4%8D%E9%BB%84%E6%99%93%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [曝孟晚舟出售香港豪宅](https://www.baidu.com/s?wd=%E6%9B%9D%E5%AD%9F%E6%99%9A%E8%88%9F%E5%87%BA%E5%94%AE%E9%A6%99%E6%B8%AF%E8%B1%AA%E5%AE%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [上大研究生被指精神控制多名女性](https://www.baidu.com/s?wd=%E4%B8%8A%E5%A4%A7%E7%A0%94%E7%A9%B6%E7%94%9F%E8%A2%AB%E6%8C%87%E7%B2%BE%E7%A5%9E%E6%8E%A7%E5%88%B6%E5%A4%9A%E5%90%8D%E5%A5%B3%E6%80%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [安保追逐冲进球场球迷时在笑](https://www.baidu.com/s?wd=%E5%AE%89%E4%BF%9D%E8%BF%BD%E9%80%90%E5%86%B2%E8%BF%9B%E7%90%83%E5%9C%BA%E7%90%83%E8%BF%B7%E6%97%B6%E5%9C%A8%E7%AC%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [618惠选潮电节 AI帮你选](https://www.baidu.com/s?wd=618%E6%83%A0%E9%80%89%E6%BD%AE%E7%94%B5%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [新闻学教授怒怼张雪峰](https://www.baidu.com/s?wd=%E6%96%B0%E9%97%BB%E5%AD%A6%E6%95%99%E6%8E%88%E6%80%92%E6%80%BC%E5%BC%A0%E9%9B%AA%E5%B3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [比尔盖茨回复黄晓明](https://www.baidu.com/s?wd=%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8%E5%9B%9E%E5%A4%8D%E9%BB%84%E6%99%93%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [曝孟晚舟出售香港豪宅](https://www.baidu.com/s?wd=%E6%9B%9D%E5%AD%9F%E6%99%9A%E8%88%9F%E5%87%BA%E5%94%AE%E9%A6%99%E6%B8%AF%E8%B1%AA%E5%AE%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [上大研究生被指精神控制多名女性](https://www.baidu.com/s?wd=%E4%B8%8A%E5%A4%A7%E7%A0%94%E7%A9%B6%E7%94%9F%E8%A2%AB%E6%8C%87%E7%B2%BE%E7%A5%9E%E6%8E%A7%E5%88%B6%E5%A4%9A%E5%90%8D%E5%A5%B3%E6%80%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [安保追逐冲进球场球迷时在笑](https://www.baidu.com/s?wd=%E5%AE%89%E4%BF%9D%E8%BF%BD%E9%80%90%E5%86%B2%E8%BF%9B%E7%90%83%E5%9C%BA%E7%90%83%E8%BF%B7%E6%97%B6%E5%9C%A8%E7%AC%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [618惠选潮电节 AI帮你选](https://www.baidu.com/s?wd=618%E6%83%A0%E9%80%89%E6%BD%AE%E7%94%B5%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
