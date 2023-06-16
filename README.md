@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-16 20:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-16 20:18:01</h4></div>
 
 > 微博  
 
@@ -32,9 +32,9 @@
 4. [高考考生们这些“套路”骗局要当心](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E8%80%83%E7%94%9F%E4%BB%AC%E8%BF%99%E4%BA%9B%E2%80%9C%E5%A5%97%E8%B7%AF%E2%80%9D%E9%AA%97%E5%B1%80%E8%A6%81%E5%BD%93%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [冲场拥抱梅西球迷被行拘](https://www.baidu.com/s?wd=%E5%86%B2%E5%9C%BA%E6%8B%A5%E6%8A%B1%E6%A2%85%E8%A5%BF%E7%90%83%E8%BF%B7%E8%A2%AB%E8%A1%8C%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [公司为政府开发系统时造成数据泄露](https://www.baidu.com/s?wd=%E5%85%AC%E5%8F%B8%E4%B8%BA%E6%94%BF%E5%BA%9C%E5%BC%80%E5%8F%91%E7%B3%BB%E7%BB%9F%E6%97%B6%E9%80%A0%E6%88%90%E6%95%B0%E6%8D%AE%E6%B3%84%E9%9C%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [马云与汪涵聚餐发福变胖](https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%E4%B8%8E%E6%B1%AA%E6%B6%B5%E8%81%9A%E9%A4%90%E5%8F%91%E7%A6%8F%E5%8F%98%E8%83%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男孩玩气球砸到吹风机爆燃](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E7%8E%A9%E6%B0%94%E7%90%83%E7%A0%B8%E5%88%B0%E5%90%B9%E9%A3%8E%E6%9C%BA%E7%88%86%E7%87%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [天大扣饭事件后烤鸭饭窗口排长队](https://www.baidu.com/s?wd=%E5%A4%A9%E5%A4%A7%E6%89%A3%E9%A5%AD%E4%BA%8B%E4%BB%B6%E5%90%8E%E7%83%A4%E9%B8%AD%E9%A5%AD%E7%AA%97%E5%8F%A3%E6%8E%92%E9%95%BF%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男孩玩气球砸到吹风机爆燃](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E7%8E%A9%E6%B0%94%E7%90%83%E7%A0%B8%E5%88%B0%E5%90%B9%E9%A3%8E%E6%9C%BA%E7%88%86%E7%87%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [天大扣饭事件后烤鸭饭窗口排长队](https://www.baidu.com/s?wd=%E5%A4%A9%E5%A4%A7%E6%89%A3%E9%A5%AD%E4%BA%8B%E4%BB%B6%E5%90%8E%E7%83%A4%E9%B8%AD%E9%A5%AD%E7%AA%97%E5%8F%A3%E6%8E%92%E9%95%BF%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子跳江后反悔按网上教程漂浮自救](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%B7%B3%E6%B1%9F%E5%90%8E%E5%8F%8D%E6%82%94%E6%8C%89%E7%BD%91%E4%B8%8A%E6%95%99%E7%A8%8B%E6%BC%82%E6%B5%AE%E8%87%AA%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [高考考生们这些“套路”骗局要当心](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E8%80%83%E7%94%9F%E4%BB%AC%E8%BF%99%E4%BA%9B%E2%80%9C%E5%A5%97%E8%B7%AF%E2%80%9D%E9%AA%97%E5%B1%80%E8%A6%81%E5%BD%93%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [冲场拥抱梅西球迷被行拘](https://www.baidu.com/s?wd=%E5%86%B2%E5%9C%BA%E6%8B%A5%E6%8A%B1%E6%A2%85%E8%A5%BF%E7%90%83%E8%BF%B7%E8%A2%AB%E8%A1%8C%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [公司为政府开发系统时造成数据泄露](https://www.baidu.com/s?wd=%E5%85%AC%E5%8F%B8%E4%B8%BA%E6%94%BF%E5%BA%9C%E5%BC%80%E5%8F%91%E7%B3%BB%E7%BB%9F%E6%97%B6%E9%80%A0%E6%88%90%E6%95%B0%E6%8D%AE%E6%B3%84%E9%9C%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [马云与汪涵聚餐发福变胖](https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%E4%B8%8E%E6%B1%AA%E6%B6%B5%E8%81%9A%E9%A4%90%E5%8F%91%E7%A6%8F%E5%8F%98%E8%83%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男孩玩气球砸到吹风机爆燃](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E7%8E%A9%E6%B0%94%E7%90%83%E7%A0%B8%E5%88%B0%E5%90%B9%E9%A3%8E%E6%9C%BA%E7%88%86%E7%87%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [天大扣饭事件后烤鸭饭窗口排长队](https://www.baidu.com/s?wd=%E5%A4%A9%E5%A4%A7%E6%89%A3%E9%A5%AD%E4%BA%8B%E4%BB%B6%E5%90%8E%E7%83%A4%E9%B8%AD%E9%A5%AD%E7%AA%97%E5%8F%A3%E6%8E%92%E9%95%BF%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男孩玩气球砸到吹风机爆燃](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E7%8E%A9%E6%B0%94%E7%90%83%E7%A0%B8%E5%88%B0%E5%90%B9%E9%A3%8E%E6%9C%BA%E7%88%86%E7%87%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [天大扣饭事件后烤鸭饭窗口排长队](https://www.baidu.com/s?wd=%E5%A4%A9%E5%A4%A7%E6%89%A3%E9%A5%AD%E4%BA%8B%E4%BB%B6%E5%90%8E%E7%83%A4%E9%B8%AD%E9%A5%AD%E7%AA%97%E5%8F%A3%E6%8E%92%E9%95%BF%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子跳江后反悔按网上教程漂浮自救](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%B7%B3%E6%B1%9F%E5%90%8E%E5%8F%8D%E6%82%94%E6%8C%89%E7%BD%91%E4%B8%8A%E6%95%99%E7%A8%8B%E6%BC%82%E6%B5%AE%E8%87%AA%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
