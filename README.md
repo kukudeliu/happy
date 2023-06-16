@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-16 16:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-16 16:29:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [梅西回应到中国大部分时间待在酒店](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E5%9B%9E%E5%BA%94%E5%88%B0%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%83%A8%E5%88%86%E6%97%B6%E9%97%B4%E5%BE%85%E5%9C%A8%E9%85%92%E5%BA%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [新闻学教授怒怼张雪峰](https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%97%BB%E5%AD%A6%E6%95%99%E6%8E%88%E6%80%92%E6%80%BC%E5%BC%A0%E9%9B%AA%E5%B3%B0%23&t=31&band_rank=7&Refer=top)<br />
 8. [Jennie去爬山了](https://s.weibo.com/weibo?q=%23Jennie%E5%8E%BB%E7%88%AC%E5%B1%B1%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [离职时我把工资告诉了同事](https://s.weibo.com/weibo?q=%23%E7%A6%BB%E8%81%8C%E6%97%B6%E6%88%91%E6%8A%8A%E5%B7%A5%E8%B5%84%E5%91%8A%E8%AF%89%E4%BA%86%E5%90%8C%E4%BA%8B%23&t=31&band_rank=9&Refer=top)<br />
+9. [交警买网红青蛙小青蛙不让付钱](https://s.weibo.com/weibo?q=%23%E4%BA%A4%E8%AD%A6%E4%B9%B0%E7%BD%91%E7%BA%A2%E9%9D%92%E8%9B%99%E5%B0%8F%E9%9D%92%E8%9B%99%E4%B8%8D%E8%AE%A9%E4%BB%98%E9%92%B1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -32,7 +32,7 @@
 4. [高温下 致敬他们的坚守](https://www.baidu.com/s?wd=%E9%AB%98%E6%B8%A9%E4%B8%8B+%E8%87%B4%E6%95%AC%E4%BB%96%E4%BB%AC%E7%9A%84%E5%9D%9A%E5%AE%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [新闻学教授怒怼张雪峰](https://www.baidu.com/s?wd=%E6%96%B0%E9%97%BB%E5%AD%A6%E6%95%99%E6%8E%88%E6%80%92%E6%80%BC%E5%BC%A0%E9%9B%AA%E5%B3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [比尔盖茨回复黄晓明](https://www.baidu.com/s?wd=%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8%E5%9B%9E%E5%A4%8D%E9%BB%84%E6%99%93%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [上大研究生被指精神控制多名女性](https://www.baidu.com/s?wd=%E4%B8%8A%E5%A4%A7%E7%A0%94%E7%A9%B6%E7%94%9F%E8%A2%AB%E6%8C%87%E7%B2%BE%E7%A5%9E%E6%8E%A7%E5%88%B6%E5%A4%9A%E5%90%8D%E5%A5%B3%E6%80%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [官方通报河南6·5爆燃事故](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%B2%B3%E5%8D%976%C2%B75%E7%88%86%E7%87%83%E4%BA%8B%E6%95%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [热到怀疑人生](https://www.baidu.com/s?wd=%E7%83%AD%E5%88%B0%E6%80%80%E7%96%91%E4%BA%BA%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [618惠选潮电节 AI帮你选](https://www.baidu.com/s?wd=618%E6%83%A0%E9%80%89%E6%BD%AE%E7%94%B5%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -44,6 +44,6 @@
 4. [高温下 致敬他们的坚守](https://www.baidu.com/s?wd=%E9%AB%98%E6%B8%A9%E4%B8%8B+%E8%87%B4%E6%95%AC%E4%BB%96%E4%BB%AC%E7%9A%84%E5%9D%9A%E5%AE%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [新闻学教授怒怼张雪峰](https://www.baidu.com/s?wd=%E6%96%B0%E9%97%BB%E5%AD%A6%E6%95%99%E6%8E%88%E6%80%92%E6%80%BC%E5%BC%A0%E9%9B%AA%E5%B3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [比尔盖茨回复黄晓明](https://www.baidu.com/s?wd=%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8%E5%9B%9E%E5%A4%8D%E9%BB%84%E6%99%93%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [上大研究生被指精神控制多名女性](https://www.baidu.com/s?wd=%E4%B8%8A%E5%A4%A7%E7%A0%94%E7%A9%B6%E7%94%9F%E8%A2%AB%E6%8C%87%E7%B2%BE%E7%A5%9E%E6%8E%A7%E5%88%B6%E5%A4%9A%E5%90%8D%E5%A5%B3%E6%80%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [官方通报河南6·5爆燃事故](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%B2%B3%E5%8D%976%C2%B75%E7%88%86%E7%87%83%E4%BA%8B%E6%95%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [热到怀疑人生](https://www.baidu.com/s?wd=%E7%83%AD%E5%88%B0%E6%80%80%E7%96%91%E4%BA%BA%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [618惠选潮电节 AI帮你选](https://www.baidu.com/s?wd=618%E6%83%A0%E9%80%89%E6%BD%AE%E7%94%B5%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
