@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 07:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 07:40:01</h4></div>
 
 > 微博  
 
@@ -17,12 +17,12 @@
 1. [美光科技将在西安封测工厂投资逾 43 亿元，收购当地一半导体公司封装设备，商业上如何解读此举？](https://www.zhihu.com/question/607000886)<br />
 2. [马斯克和比尔盖茨等掀起「访华潮」，如何看待外企高管们纷纷到访中国？会带来哪些利好？](https://www.zhihu.com/question/606763754)<br />
 3. [哈佛医学院曝惊天丑闻，员工偷尸体卖器官，600 美元可买两张脸，包裹用快递寄出，如何看待此事？](https://www.zhihu.com/question/606917409)<br />
-4. [官方回应交警将摩托骑手推下斜坡，称涉事辅警粗暴简单执法，被辞退，如何看待此事？](https://www.zhihu.com/question/606973911)<br />
-5. [哪些方法可以让小孩好好写作业？](https://www.zhihu.com/question/596788731)<br />
-6. [普京签署法令，批准关于俄通过远东路线向中国输送天然气协议，将产生哪些影响？](https://www.zhihu.com/question/606447154)<br />
-7. [你有没有一瞬间不想打篮球了？](https://www.zhihu.com/question/456341403)<br />
-8. [为什么很多网友都说电脑用 5 年左右就该换了？](https://www.zhihu.com/question/521171582)<br />
-9. [美官员称布林肯访华将围绕三大目标同中方沟通，布林肯此次访华有何重要意义？](https://www.zhihu.com/question/606965050)<br />
+4. [哪些方法可以让小孩好好写作业？](https://www.zhihu.com/question/596788731)<br />
+5. [你有没有一瞬间不想打篮球了？](https://www.zhihu.com/question/456341403)<br />
+6. [为什么很多网友都说电脑用 5 年左右就该换了？](https://www.zhihu.com/question/521171582)<br />
+7. [美官员称布林肯访华将围绕三大目标同中方沟通，布林肯此次访华有何重要意义？](https://www.zhihu.com/question/606965050)<br />
+8. [特斯拉发布视频公开「电机的秘密」，视频中暗讽造车新势力只做 「冰箱彩电大沙发」，如何看待此视频？](https://www.zhihu.com/question/606771603)<br />
+9. [欧委会称将不再采购华为中兴设备，外交部称「有罪推定，坚决反对」，如何看待此事？](https://www.zhihu.com/question/606961996)<br />
 
 > 百度  
 
