@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 04:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 04:39:01</h4></div>
 
 > 微博  
 
@@ -18,8 +18,8 @@
 2. [马斯克和比尔盖茨等掀起「访华潮」，如何看待外企高管们纷纷到访中国？会带来哪些利好？](https://www.zhihu.com/question/606763754)<br />
 3. [特斯拉发布视频公开「电机的秘密」，视频中暗讽造车新势力只做 「冰箱彩电大沙发」，如何看待此视频？](https://www.zhihu.com/question/606771603)<br />
 4. [美光科技将在西安封测工厂投资逾 43 亿元，收购当地一半导体公司封装设备，商业上如何解读此举？](https://www.zhihu.com/question/607000886)<br />
-5. [为什么很多网友都说电脑用 5 年左右就该换了？](https://www.zhihu.com/question/521171582)<br />
-6. [哈佛医学院曝惊天丑闻，员工偷尸体卖器官，600 美元可买两张脸，包裹用快递寄出，如何看待此事？](https://www.zhihu.com/question/606917409)<br />
+5. [哈佛医学院曝惊天丑闻，员工偷尸体卖器官，600 美元可买两张脸，包裹用快递寄出，如何看待此事？](https://www.zhihu.com/question/606917409)<br />
+6. [为什么很多网友都说电脑用 5 年左右就该换了？](https://www.zhihu.com/question/521171582)<br />
 7. [《甄嬛传》中，同样是被皇上相中，为什么纯元投入了皇帝的怀抱，而玉娆果断拒绝？](https://www.zhihu.com/question/590498536)<br />
 8. [短线交易怎么把握成功概率高？](https://www.zhihu.com/question/585943701)<br />
 9. [高考结束去考驾照，还是等到大学再考？](https://www.zhihu.com/question/605243715)<br />
@@ -31,10 +31,10 @@
 3. [阿里总裁谈马云近况：他在东京教书](https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E6%80%BB%E8%A3%81%E8%B0%88%E9%A9%AC%E4%BA%91%E8%BF%91%E5%86%B5%EF%BC%9A%E4%BB%96%E5%9C%A8%E4%B8%9C%E4%BA%AC%E6%95%99%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [高质量发展调研行](https://www.baidu.com/s?wd=%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E8%B0%83%E7%A0%94%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [国足赢了！4-0大胜缅甸](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B3%E8%B5%A2%E4%BA%86%EF%BC%814-0%E5%A4%A7%E8%83%9C%E7%BC%85%E7%94%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [广东暴雨积水成河 有人屋内钓鱼](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E6%9A%B4%E9%9B%A8%E7%A7%AF%E6%B0%B4%E6%88%90%E6%B2%B3+%E6%9C%89%E4%BA%BA%E5%B1%8B%E5%86%85%E9%92%93%E9%B1%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [郑钦文保送华中科技大学](https://www.baidu.com/s?wd=%E9%83%91%E9%92%A6%E6%96%87%E4%BF%9D%E9%80%81%E5%8D%8E%E4%B8%AD%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [阿姨收到工资反塞给老板500块](https://www.baidu.com/s?wd=%E9%98%BF%E5%A7%A8%E6%94%B6%E5%88%B0%E5%B7%A5%E8%B5%84%E5%8F%8D%E5%A1%9E%E7%BB%99%E8%80%81%E6%9D%BF500%E5%9D%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [交警遇男子冲卡将其推倒](https://www.baidu.com/s?wd=%E4%BA%A4%E8%AD%A6%E9%81%87%E7%94%B7%E5%AD%90%E5%86%B2%E5%8D%A1%E5%B0%86%E5%85%B6%E6%8E%A8%E5%80%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [跳江救人小哥被奖励10万元和一套房](https://www.baidu.com/s?wd=%E8%B7%B3%E6%B1%9F%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E8%A2%AB%E5%A5%96%E5%8A%B110%E4%B8%87%E5%85%83%E5%92%8C%E4%B8%80%E5%A5%97%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [老人手术台喊痛 病历却写麻醉满意](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E6%89%8B%E6%9C%AF%E5%8F%B0%E5%96%8A%E7%97%9B+%E7%97%85%E5%8E%86%E5%8D%B4%E5%86%99%E9%BA%BB%E9%86%89%E6%BB%A1%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [巨鸟撞穿飞机挡风玻璃 残骸嵌入机身](https://www.baidu.com/s?wd=%E5%B7%A8%E9%B8%9F%E6%92%9E%E7%A9%BF%E9%A3%9E%E6%9C%BA%E6%8C%A1%E9%A3%8E%E7%8E%BB%E7%92%83+%E6%AE%8B%E9%AA%B8%E5%B5%8C%E5%85%A5%E6%9C%BA%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [阿里总裁谈马云近况：他在东京教书](https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E6%80%BB%E8%A3%81%E8%B0%88%E9%A9%AC%E4%BA%91%E8%BF%91%E5%86%B5%EF%BC%9A%E4%BB%96%E5%9C%A8%E4%B8%9C%E4%BA%AC%E6%95%99%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [高质量发展调研行](https://www.baidu.com/s?wd=%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E8%B0%83%E7%A0%94%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [国足赢了！4-0大胜缅甸](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B3%E8%B5%A2%E4%BA%86%EF%BC%814-0%E5%A4%A7%E8%83%9C%E7%BC%85%E7%94%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [广东暴雨积水成河 有人屋内钓鱼](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E6%9A%B4%E9%9B%A8%E7%A7%AF%E6%B0%B4%E6%88%90%E6%B2%B3+%E6%9C%89%E4%BA%BA%E5%B1%8B%E5%86%85%E9%92%93%E9%B1%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [郑钦文保送华中科技大学](https://www.baidu.com/s?wd=%E9%83%91%E9%92%A6%E6%96%87%E4%BF%9D%E9%80%81%E5%8D%8E%E4%B8%AD%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [阿姨收到工资反塞给老板500块](https://www.baidu.com/s?wd=%E9%98%BF%E5%A7%A8%E6%94%B6%E5%88%B0%E5%B7%A5%E8%B5%84%E5%8F%8D%E5%A1%9E%E7%BB%99%E8%80%81%E6%9D%BF500%E5%9D%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [交警遇男子冲卡将其推倒](https://www.baidu.com/s?wd=%E4%BA%A4%E8%AD%A6%E9%81%87%E7%94%B7%E5%AD%90%E5%86%B2%E5%8D%A1%E5%B0%86%E5%85%B6%E6%8E%A8%E5%80%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [跳江救人小哥被奖励10万元和一套房](https://www.baidu.com/s?wd=%E8%B7%B3%E6%B1%9F%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E8%A2%AB%E5%A5%96%E5%8A%B110%E4%B8%87%E5%85%83%E5%92%8C%E4%B8%80%E5%A5%97%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [老人手术台喊痛 病历却写麻醉满意](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E6%89%8B%E6%9C%AF%E5%8F%B0%E5%96%8A%E7%97%9B+%E7%97%85%E5%8E%86%E5%8D%B4%E5%86%99%E9%BA%BB%E9%86%89%E6%BB%A1%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [巨鸟撞穿飞机挡风玻璃 残骸嵌入机身](https://www.baidu.com/s?wd=%E5%B7%A8%E9%B8%9F%E6%92%9E%E7%A9%BF%E9%A3%9E%E6%9C%BA%E6%8C%A1%E9%A3%8E%E7%8E%BB%E7%92%83+%E6%AE%8B%E9%AA%B8%E5%B5%8C%E5%85%A5%E6%9C%BA%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
