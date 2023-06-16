@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-16 21:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-16 21:04:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [阿里总裁谈马云近况：他在东京教书](https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E6%80%BB%E8%A3%81%E8%B0%88%E9%A9%AC%E4%BA%91%E8%BF%91%E5%86%B5%EF%BC%9A%E4%BB%96%E5%9C%A8%E4%B8%9C%E4%BA%AC%E6%95%99%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [阿姨收到工资反塞给老板500块](https://www.baidu.com/s?wd=%E9%98%BF%E5%A7%A8%E6%94%B6%E5%88%B0%E5%B7%A5%E8%B5%84%E5%8F%8D%E5%A1%9E%E7%BB%99%E8%80%81%E6%9D%BF500%E5%9D%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [高校被曝女寝空调限时男寝全天使用](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E8%A2%AB%E6%9B%9D%E5%A5%B3%E5%AF%9D%E7%A9%BA%E8%B0%83%E9%99%90%E6%97%B6%E7%94%B7%E5%AF%9D%E5%85%A8%E5%A4%A9%E4%BD%BF%E7%94%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [国足赢了！4-0大胜缅甸](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B3%E8%B5%A2%E4%BA%86%EF%BC%814-0%E5%A4%A7%E8%83%9C%E7%BC%85%E7%94%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [官方通报河南6·5爆燃事故](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%B2%B3%E5%8D%976%C2%B75%E7%88%86%E7%87%83%E4%BA%8B%E6%95%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [阿里总裁谈马云近况：他在东京教书](https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E6%80%BB%E8%A3%81%E8%B0%88%E9%A9%AC%E4%BA%91%E8%BF%91%E5%86%B5%EF%BC%9A%E4%BB%96%E5%9C%A8%E4%B8%9C%E4%BA%AC%E6%95%99%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [阿姨收到工资反塞给老板500块](https://www.baidu.com/s?wd=%E9%98%BF%E5%A7%A8%E6%94%B6%E5%88%B0%E5%B7%A5%E8%B5%84%E5%8F%8D%E5%A1%9E%E7%BB%99%E8%80%81%E6%9D%BF500%E5%9D%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [高校被曝女寝空调限时男寝全天使用](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E8%A2%AB%E6%9B%9D%E5%A5%B3%E5%AF%9D%E7%A9%BA%E8%B0%83%E9%99%90%E6%97%B6%E7%94%B7%E5%AF%9D%E5%85%A8%E5%A4%A9%E4%BD%BF%E7%94%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [国足赢了！4-0大胜缅甸](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B3%E8%B5%A2%E4%BA%86%EF%BC%814-0%E5%A4%A7%E8%83%9C%E7%BC%85%E7%94%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [官方通报河南6·5爆燃事故](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%B2%B3%E5%8D%976%C2%B75%E7%88%86%E7%87%83%E4%BA%8B%E6%95%85&sa=fyb_news&rsv_dl=fyb_news)<br />
