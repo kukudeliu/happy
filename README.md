@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 05:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 05:42:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [为什么很多网友都说电脑用 5 年左右就该换了？](https://www.zhihu.com/question/521171582)<br />
 7. [每天只喝牛奶不喝水可以吗？](https://www.zhihu.com/question/602381276)<br />
 8. [40 度的天，你们的穿搭是怎样哇塞的？](https://www.zhihu.com/question/606013148)<br />
-9. [你最难忘的乙女游戏男主是谁呢?](https://www.zhihu.com/question/572110966)<br />
+9. [欧委会称将不再采购华为中兴设备，外交部称「有罪推定，坚决反对」，如何看待此事？](https://www.zhihu.com/question/606961996)<br />
 
 > 百度  
 
