@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-16 22:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-16 22:43:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [白鹿张凌赫](https://s.weibo.com/weibo?q=%E7%99%BD%E9%B9%BF%E5%BC%A0%E5%87%8C%E8%B5%AB&t=31&band_rank=6&Refer=top)<br />
 7. [杜江问梅西嗯哼的签名照是真迹吗](https://s.weibo.com/weibo?q=%23%E6%9D%9C%E6%B1%9F%E9%97%AE%E6%A2%85%E8%A5%BF%E5%97%AF%E5%93%BC%E7%9A%84%E7%AD%BE%E5%90%8D%E7%85%A7%E6%98%AF%E7%9C%9F%E8%BF%B9%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
 8. [当丈夫说妻子在家啥也不干](https://s.weibo.com/weibo?q=%E5%BD%93%E4%B8%88%E5%A4%AB%E8%AF%B4%E5%A6%BB%E5%AD%90%E5%9C%A8%E5%AE%B6%E5%95%A5%E4%B9%9F%E4%B8%8D%E5%B9%B2&t=31&band_rank=8&Refer=top)<br />
-9. [冲进球场男子被行拘](https://s.weibo.com/weibo?q=%23%E5%86%B2%E8%BF%9B%E7%90%83%E5%9C%BA%E7%94%B7%E5%AD%90%E8%A2%AB%E8%A1%8C%E6%8B%98%23&t=31&band_rank=9&Refer=top)<br />
+9. [国足4比0战胜缅甸队](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B34%E6%AF%940%E6%88%98%E8%83%9C%E7%BC%85%E7%94%B8%E9%98%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -34,7 +34,7 @@
 6. [超载25倍沥青货车侧翻 母子被埋身亡](https://www.baidu.com/s?wd=%E8%B6%85%E8%BD%BD25%E5%80%8D%E6%B2%A5%E9%9D%92%E8%B4%A7%E8%BD%A6%E4%BE%A7%E7%BF%BB+%E6%AF%8D%E5%AD%90%E8%A2%AB%E5%9F%8B%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [00后奶爸抱双胞胎毕业获校长随礼](https://www.baidu.com/s?wd=00%E5%90%8E%E5%A5%B6%E7%88%B8%E6%8A%B1%E5%8F%8C%E8%83%9E%E8%83%8E%E6%AF%95%E4%B8%9A%E8%8E%B7%E6%A0%A1%E9%95%BF%E9%9A%8F%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [40岁女子被社区打错宫颈癌疫苗](https://www.baidu.com/s?wd=40%E5%B2%81%E5%A5%B3%E5%AD%90%E8%A2%AB%E7%A4%BE%E5%8C%BA%E6%89%93%E9%94%99%E5%AE%AB%E9%A2%88%E7%99%8C%E7%96%AB%E8%8B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [冲场拥抱梅西球迷被行拘](https://www.baidu.com/s?wd=%E5%86%B2%E5%9C%BA%E6%8B%A5%E6%8A%B1%E6%A2%85%E8%A5%BF%E7%90%83%E8%BF%B7%E8%A2%AB%E8%A1%8C%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [郭碧婷穿衣风格向太化](https://www.baidu.com/s?wd=%E9%83%AD%E7%A2%A7%E5%A9%B7%E7%A9%BF%E8%A1%A3%E9%A3%8E%E6%A0%BC%E5%90%91%E5%A4%AA%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [超载25倍沥青货车侧翻 母子被埋身亡](https://www.baidu.com/s?wd=%E8%B6%85%E8%BD%BD25%E5%80%8D%E6%B2%A5%E9%9D%92%E8%B4%A7%E8%BD%A6%E4%BE%A7%E7%BF%BB+%E6%AF%8D%E5%AD%90%E8%A2%AB%E5%9F%8B%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [00后奶爸抱双胞胎毕业获校长随礼](https://www.baidu.com/s?wd=00%E5%90%8E%E5%A5%B6%E7%88%B8%E6%8A%B1%E5%8F%8C%E8%83%9E%E8%83%8E%E6%AF%95%E4%B8%9A%E8%8E%B7%E6%A0%A1%E9%95%BF%E9%9A%8F%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [40岁女子被社区打错宫颈癌疫苗](https://www.baidu.com/s?wd=40%E5%B2%81%E5%A5%B3%E5%AD%90%E8%A2%AB%E7%A4%BE%E5%8C%BA%E6%89%93%E9%94%99%E5%AE%AB%E9%A2%88%E7%99%8C%E7%96%AB%E8%8B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [冲场拥抱梅西球迷被行拘](https://www.baidu.com/s?wd=%E5%86%B2%E5%9C%BA%E6%8B%A5%E6%8A%B1%E6%A2%85%E8%A5%BF%E7%90%83%E8%BF%B7%E8%A2%AB%E8%A1%8C%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [郭碧婷穿衣风格向太化](https://www.baidu.com/s?wd=%E9%83%AD%E7%A2%A7%E5%A9%B7%E7%A9%BF%E8%A1%A3%E9%A3%8E%E6%A0%BC%E5%90%91%E5%A4%AA%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
