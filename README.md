@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-16 09:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-16 09:20:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [球迷冲进球场抱梅西](https://s.weibo.com/weibo?q=%23%E7%90%83%E8%BF%B7%E5%86%B2%E8%BF%9B%E7%90%83%E5%9C%BA%E6%8A%B1%E6%A2%85%E8%A5%BF%23&t=31&band_rank=5&Refer=top)<br />
 6. [黄晓明生图](https://s.weibo.com/weibo?q=%E9%BB%84%E6%99%93%E6%98%8E%E7%94%9F%E5%9B%BE&t=31&band_rank=6&Refer=top)<br />
 7. [快乐大本营最后一期未播预告](https://s.weibo.com/weibo?q=%23%E5%BF%AB%E4%B9%90%E5%A4%A7%E6%9C%AC%E8%90%A5%E6%9C%80%E5%90%8E%E4%B8%80%E6%9C%9F%E6%9C%AA%E6%92%AD%E9%A2%84%E5%91%8A%23&t=31&band_rank=7&Refer=top)<br />
-8. [52岁大叔以身试险1小时劝退10多名游客](https://s.weibo.com/weibo?q=%2352%E5%B2%81%E5%A4%A7%E5%8F%94%E4%BB%A5%E8%BA%AB%E8%AF%95%E9%99%A91%E5%B0%8F%E6%97%B6%E5%8A%9D%E9%80%8010%E5%A4%9A%E5%90%8D%E6%B8%B8%E5%AE%A2%23&t=31&band_rank=8&Refer=top)<br />
-9. [关晓彤25岁身材管理](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A425%E5%B2%81%E8%BA%AB%E6%9D%90%E7%AE%A1%E7%90%86%23&t=31&band_rank=9&Refer=top)<br />
+8. [关晓彤25岁身材管理](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A425%E5%B2%81%E8%BA%AB%E6%9D%90%E7%AE%A1%E7%90%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [52岁大叔以身试险1小时劝退10多名游客](https://s.weibo.com/weibo?q=%2352%E5%B2%81%E5%A4%A7%E5%8F%94%E4%BB%A5%E8%BA%AB%E8%AF%95%E9%99%A91%E5%B0%8F%E6%97%B6%E5%8A%9D%E9%80%8010%E5%A4%9A%E5%90%8D%E6%B8%B8%E5%AE%A2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
