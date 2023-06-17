@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 15:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 15:17:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [张雪峰 我离被人搞不远了](https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%AA%E5%B3%B0%20%E6%88%91%E7%A6%BB%E8%A2%AB%E4%BA%BA%E6%90%9E%E4%B8%8D%E8%BF%9C%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [迪丽热巴照片有热带鱼表情](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%85%A7%E7%89%87%E6%9C%89%E7%83%AD%E5%B8%A6%E9%B1%BC%E8%A1%A8%E6%83%85%23&t=31&band_rank=7&Refer=top)<br />
 8. [陈宏军居然出轨了](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%AE%8F%E5%86%9B%E5%B1%85%E7%84%B6%E5%87%BA%E8%BD%A8%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [四级](https://s.weibo.com/weibo?q=%E5%9B%9B%E7%BA%A7&t=31&band_rank=9&Refer=top)<br />
+9. [Jennie是前一天爬山太累了吗](https://s.weibo.com/weibo?q=%23Jennie%E6%98%AF%E5%89%8D%E4%B8%80%E5%A4%A9%E7%88%AC%E5%B1%B1%E5%A4%AA%E7%B4%AF%E4%BA%86%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
