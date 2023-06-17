@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 09:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 09:13:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [迪丽热巴真发了100多张自拍](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9C%9F%E5%8F%91%E4%BA%86100%E5%A4%9A%E5%BC%A0%E8%87%AA%E6%8B%8D%23&t=31&band_rank=6&Refer=top)<br />
 7. [水哥家的生态系统有多惊人](https://s.weibo.com/weibo?q=%23%E6%B0%B4%E5%93%A5%E5%AE%B6%E7%9A%84%E7%94%9F%E6%80%81%E7%B3%BB%E7%BB%9F%E6%9C%89%E5%A4%9A%E6%83%8A%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [谢娜李维嘉吴昕录制新综艺](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E6%9D%8E%E7%BB%B4%E5%98%89%E5%90%B4%E6%98%95%E5%BD%95%E5%88%B6%E6%96%B0%E7%BB%BC%E8%89%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [白鹿张凌赫](https://s.weibo.com/weibo?q=%E7%99%BD%E9%B9%BF%E5%BC%A0%E5%87%8C%E8%B5%AB&t=31&band_rank=9&Refer=top)<br />
+9. [杨洋 新郎](https://s.weibo.com/weibo?q=%E6%9D%A8%E6%B4%8B%20%E6%96%B0%E9%83%8E&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -20,9 +20,9 @@
 4. [美光科技将在西安封测工厂投资逾 43 亿元，收购当地一半导体公司封装设备，商业上如何解读此举？](https://www.zhihu.com/question/607000886)<br />
 5. [对于 2023 年高考志愿填报你有什么好的建议？](https://www.zhihu.com/question/598956538)<br />
 6. [为什么很多网友都说电脑用 5 年左右就该换了？](https://www.zhihu.com/question/521171582)<br />
-7. [你有没有一瞬间不想打篮球了？](https://www.zhihu.com/question/456341403)<br />
-8. [特斯拉发布视频公开「电机的秘密」，视频中暗讽造车新势力只做 「冰箱彩电大沙发」，如何看待此视频？](https://www.zhihu.com/question/606771603)<br />
-9. [如果高考能重来，你会怎么做让自己不留遗憾？](https://www.zhihu.com/question/606812063)<br />
+7. [特斯拉发布视频公开「电机的秘密」，视频中暗讽造车新势力只做 「冰箱彩电大沙发」，如何看待此视频？](https://www.zhihu.com/question/606771603)<br />
+8. [如果高考能重来，你会怎么做让自己不留遗憾？](https://www.zhihu.com/question/606812063)<br />
+9. [欧委会称将不再采购华为中兴设备，外交部称「有罪推定，坚决反对」，如何看待此事？](https://www.zhihu.com/question/606961996)<br />
 
 > 百度  
 
