@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 09:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 09:40:01</h4></div>
 
 > 微博  
 
@@ -19,10 +19,10 @@
 3. [马斯克和比尔盖茨等掀起「访华潮」，如何看待外企高管们纷纷到访中国？会带来哪些利好？](https://www.zhihu.com/question/606763754)<br />
 4. [美光科技将在西安封测工厂投资逾 43 亿元，收购当地一半导体公司封装设备，商业上如何解读此举？](https://www.zhihu.com/question/607000886)<br />
 5. [对于 2023 年高考志愿填报你有什么好的建议？](https://www.zhihu.com/question/598956538)<br />
-6. [如果《魔兽争霸 3》暗夜的白虎大招改为施展期间内白虎无敌，白虎首发率会不会提高很多？](https://www.zhihu.com/question/606640534)<br />
-7. [怎么样才能气场强大？](https://www.zhihu.com/question/600428797)<br />
-8. [为什么很多网友都说电脑用 5 年左右就该换了？](https://www.zhihu.com/question/521171582)<br />
-9. [如果高考能重来，你会怎么做让自己不留遗憾？](https://www.zhihu.com/question/606812063)<br />
+6. [四级可以裸考吗？](https://www.zhihu.com/question/454802005)<br />
+7. [张雪峰表示「要将报新闻学的孩子打晕」，高校教授回应「新闻专业能文能武」，你认可哪方观点，新传专业如何？](https://www.zhihu.com/question/606948855)<br />
+8. [如果《魔兽争霸 3》暗夜的白虎大招改为施展期间内白虎无敌，白虎首发率会不会提高很多？](https://www.zhihu.com/question/606640534)<br />
+9. [女朋友说要冷静两个礼拜，这期间我要不要找她聊天，还是断联？](https://www.zhihu.com/question/606352502)<br />
 
 > 百度  
 
