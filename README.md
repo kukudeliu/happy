@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 15:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 15:13:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [陈宏军居然出轨了](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%AE%8F%E5%86%9B%E5%B1%85%E7%84%B6%E5%87%BA%E8%BD%A8%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [张雪峰 我离被人搞不远了](https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%AA%E5%B3%B0%20%E6%88%91%E7%A6%BB%E8%A2%AB%E4%BA%BA%E6%90%9E%E4%B8%8D%E8%BF%9C%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [迪丽热巴照片有热带鱼表情](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%85%A7%E7%89%87%E6%9C%89%E7%83%AD%E5%B8%A6%E9%B1%BC%E8%A1%A8%E6%83%85%23&t=31&band_rank=7&Refer=top)<br />
-8. [四级](https://s.weibo.com/weibo?q=%E5%9B%9B%E7%BA%A7&t=31&band_rank=8&Refer=top)<br />
-9. [备孕前千万记得拔智齿](https://s.weibo.com/weibo?q=%23%E5%A4%87%E5%AD%95%E5%89%8D%E5%8D%83%E4%B8%87%E8%AE%B0%E5%BE%97%E6%8B%94%E6%99%BA%E9%BD%BF%23&t=31&band_rank=9&Refer=top)<br />
+8. [备孕前千万记得拔智齿](https://s.weibo.com/weibo?q=%23%E5%A4%87%E5%AD%95%E5%89%8D%E5%8D%83%E4%B8%87%E8%AE%B0%E5%BE%97%E6%8B%94%E6%99%BA%E9%BD%BF%23&t=31&band_rank=8&Refer=top)<br />
+9. [四级](https://s.weibo.com/weibo?q=%E5%9B%9B%E7%BA%A7&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [普京称俄罗斯 2023 年 4 月 GDP 同比增长 3.3%，为何俄遭西方制裁却仍能保持经济增长？](https://www.zhihu.com/question/607051685)<br />
 7. [张雪峰表示「要将报新闻学的孩子打晕」，高校教授回应「新闻专业能文能武」，你认可哪方观点，新传专业如何？](https://www.zhihu.com/question/606948855)<br />
 8. [浪姐 4 多位姐姐出圈再度翻红，带动超百万人上淘宝拍同款私服，如何评价这种爱她就买它的「粉丝经济」？](https://www.zhihu.com/question/606995109)<br />
-9. [发改委表示将「增加低收入者收入，探索促进居民增收有效路径」，将带来哪些影响？有哪些具体可行措施？](https://www.zhihu.com/question/606939579)<br />
+9. [有没有什么适合年轻人的养生方法？](https://www.zhihu.com/question/598967401)<br />
 
 > 百度  
 
