@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 07:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 07:17:01</h4></div>
 
 > 微博  
 
@@ -28,22 +28,22 @@
 
 1. [努力创造新时代中国防沙治沙新奇迹](https://www.baidu.com/s?wd=%E5%8A%AA%E5%8A%9B%E5%88%9B%E9%80%A0%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E9%98%B2%E6%B2%99%E6%B2%BB%E6%B2%99%E6%96%B0%E5%A5%87%E8%BF%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [美国务院网站将首页更换为中国街景](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%8A%A1%E9%99%A2%E7%BD%91%E7%AB%99%E5%B0%86%E9%A6%96%E9%A1%B5%E6%9B%B4%E6%8D%A2%E4%B8%BA%E4%B8%AD%E5%9B%BD%E8%A1%97%E6%99%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [胡歌大鹏影帝双黄蛋](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E5%A4%A7%E9%B9%8F%E5%BD%B1%E5%B8%9D%E5%8F%8C%E9%BB%84%E8%9B%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [父亲节](https://www.baidu.com/s?wd=%E7%88%B6%E4%BA%B2%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [稳产保丰 小麦主产区有这些举措](https://www.baidu.com/s?wd=%E7%A8%B3%E4%BA%A7%E4%BF%9D%E4%B8%B0+%E5%B0%8F%E9%BA%A6%E4%B8%BB%E4%BA%A7%E5%8C%BA%E6%9C%89%E8%BF%99%E4%BA%9B%E4%B8%BE%E6%8E%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [广州一龙舟队全是富婆？当地：事实](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E4%B8%80%E9%BE%99%E8%88%9F%E9%98%9F%E5%85%A8%E6%98%AF%E5%AF%8C%E5%A9%86%EF%BC%9F%E5%BD%93%E5%9C%B0%EF%BC%9A%E4%BA%8B%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女生称没穿内衣取外卖被骑手骚扰](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E7%A7%B0%E6%B2%A1%E7%A9%BF%E5%86%85%E8%A1%A3%E5%8F%96%E5%A4%96%E5%8D%96%E8%A2%AB%E9%AA%91%E6%89%8B%E9%AA%9A%E6%89%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [黄渤上半身vs下半身](https://www.baidu.com/s?wd=%E9%BB%84%E6%B8%A4%E4%B8%8A%E5%8D%8A%E8%BA%ABvs%E4%B8%8B%E5%8D%8A%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [杨幂盘发造型梦回“晴川”](https://www.baidu.com/s?wd=%E6%9D%A8%E5%B9%82%E7%9B%98%E5%8F%91%E9%80%A0%E5%9E%8B%E6%A2%A6%E5%9B%9E%E2%80%9C%E6%99%B4%E5%B7%9D%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子发现捡回家两年的石头是文物](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%8F%91%E7%8E%B0%E6%8D%A1%E5%9B%9E%E5%AE%B6%E4%B8%A4%E5%B9%B4%E7%9A%84%E7%9F%B3%E5%A4%B4%E6%98%AF%E6%96%87%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [胡歌大鹏影帝双黄蛋](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E5%A4%A7%E9%B9%8F%E5%BD%B1%E5%B8%9D%E5%8F%8C%E9%BB%84%E8%9B%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [黄渤上半身vs下半身](https://www.baidu.com/s?wd=%E9%BB%84%E6%B8%A4%E4%B8%8A%E5%8D%8A%E8%BA%ABvs%E4%B8%8B%E5%8D%8A%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [杨幂盘发造型梦回“晴川”](https://www.baidu.com/s?wd=%E6%9D%A8%E5%B9%82%E7%9B%98%E5%8F%91%E9%80%A0%E5%9E%8B%E6%A2%A6%E5%9B%9E%E2%80%9C%E6%99%B4%E5%B7%9D%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [努力创造新时代中国防沙治沙新奇迹](https://www.baidu.com/s?wd=%E5%8A%AA%E5%8A%9B%E5%88%9B%E9%80%A0%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E9%98%B2%E6%B2%99%E6%B2%BB%E6%B2%99%E6%96%B0%E5%A5%87%E8%BF%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [美国务院网站将首页更换为中国街景](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%8A%A1%E9%99%A2%E7%BD%91%E7%AB%99%E5%B0%86%E9%A6%96%E9%A1%B5%E6%9B%B4%E6%8D%A2%E4%B8%BA%E4%B8%AD%E5%9B%BD%E8%A1%97%E6%99%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [胡歌大鹏影帝双黄蛋](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E5%A4%A7%E9%B9%8F%E5%BD%B1%E5%B8%9D%E5%8F%8C%E9%BB%84%E8%9B%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [父亲节](https://www.baidu.com/s?wd=%E7%88%B6%E4%BA%B2%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [稳产保丰 小麦主产区有这些举措](https://www.baidu.com/s?wd=%E7%A8%B3%E4%BA%A7%E4%BF%9D%E4%B8%B0+%E5%B0%8F%E9%BA%A6%E4%B8%BB%E4%BA%A7%E5%8C%BA%E6%9C%89%E8%BF%99%E4%BA%9B%E4%B8%BE%E6%8E%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [广州一龙舟队全是富婆？当地：事实](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E4%B8%80%E9%BE%99%E8%88%9F%E9%98%9F%E5%85%A8%E6%98%AF%E5%AF%8C%E5%A9%86%EF%BC%9F%E5%BD%93%E5%9C%B0%EF%BC%9A%E4%BA%8B%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女生称没穿内衣取外卖被骑手骚扰](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E7%A7%B0%E6%B2%A1%E7%A9%BF%E5%86%85%E8%A1%A3%E5%8F%96%E5%A4%96%E5%8D%96%E8%A2%AB%E9%AA%91%E6%89%8B%E9%AA%9A%E6%89%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [黄渤上半身vs下半身](https://www.baidu.com/s?wd=%E9%BB%84%E6%B8%A4%E4%B8%8A%E5%8D%8A%E8%BA%ABvs%E4%B8%8B%E5%8D%8A%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [杨幂盘发造型梦回“晴川”](https://www.baidu.com/s?wd=%E6%9D%A8%E5%B9%82%E7%9B%98%E5%8F%91%E9%80%A0%E5%9E%8B%E6%A2%A6%E5%9B%9E%E2%80%9C%E6%99%B4%E5%B7%9D%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子发现捡回家两年的石头是文物](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%8F%91%E7%8E%B0%E6%8D%A1%E5%9B%9E%E5%AE%B6%E4%B8%A4%E5%B9%B4%E7%9A%84%E7%9F%B3%E5%A4%B4%E6%98%AF%E6%96%87%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [胡歌大鹏影帝双黄蛋](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E5%A4%A7%E9%B9%8F%E5%BD%B1%E5%B8%9D%E5%8F%8C%E9%BB%84%E8%9B%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [黄渤上半身vs下半身](https://www.baidu.com/s?wd=%E9%BB%84%E6%B8%A4%E4%B8%8A%E5%8D%8A%E8%BA%ABvs%E4%B8%8B%E5%8D%8A%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [杨幂盘发造型梦回“晴川”](https://www.baidu.com/s?wd=%E6%9D%A8%E5%B9%82%E7%9B%98%E5%8F%91%E9%80%A0%E5%9E%8B%E6%A2%A6%E5%9B%9E%E2%80%9C%E6%99%B4%E5%B7%9D%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
