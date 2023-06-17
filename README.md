@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 08:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 08:14:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [迪丽热巴真发了100多张自拍](https://www.baidu.com/s?wd=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9C%9F%E5%8F%91%E4%BA%86100%E5%A4%9A%E5%BC%A0%E8%87%AA%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [张雪峰回应质疑:专业要选能吃上饭的](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%9B%9E%E5%BA%94%E8%B4%A8%E7%96%91%3A%E4%B8%93%E4%B8%9A%E8%A6%81%E9%80%89%E8%83%BD%E5%90%83%E4%B8%8A%E9%A5%AD%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [郑钦文保送华中科技大学](https://www.baidu.com/s?wd=%E9%83%91%E9%92%A6%E6%96%87%E4%BF%9D%E9%80%81%E5%8D%8E%E4%B8%AD%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [跳江救人小哥被奖励10万元和一套房](https://www.baidu.com/s?wd=%E8%B7%B3%E6%B1%9F%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E8%A2%AB%E5%A5%96%E5%8A%B110%E4%B8%87%E5%85%83%E5%92%8C%E4%B8%80%E5%A5%97%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [顾客就餐遇账单刺客8碗米饭要价90](https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E5%B0%B1%E9%A4%90%E9%81%87%E8%B4%A6%E5%8D%95%E5%88%BA%E5%AE%A28%E7%A2%97%E7%B1%B3%E9%A5%AD%E8%A6%81%E4%BB%B790&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [迪丽热巴真发了100多张自拍](https://www.baidu.com/s?wd=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9C%9F%E5%8F%91%E4%BA%86100%E5%A4%9A%E5%BC%A0%E8%87%AA%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [张雪峰回应质疑:专业要选能吃上饭的](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%9B%9E%E5%BA%94%E8%B4%A8%E7%96%91%3A%E4%B8%93%E4%B8%9A%E8%A6%81%E9%80%89%E8%83%BD%E5%90%83%E4%B8%8A%E9%A5%AD%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [郑钦文保送华中科技大学](https://www.baidu.com/s?wd=%E9%83%91%E9%92%A6%E6%96%87%E4%BF%9D%E9%80%81%E5%8D%8E%E4%B8%AD%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [跳江救人小哥被奖励10万元和一套房](https://www.baidu.com/s?wd=%E8%B7%B3%E6%B1%9F%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E8%A2%AB%E5%A5%96%E5%8A%B110%E4%B8%87%E5%85%83%E5%92%8C%E4%B8%80%E5%A5%97%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [顾客就餐遇账单刺客8碗米饭要价90](https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E5%B0%B1%E9%A4%90%E9%81%87%E8%B4%A6%E5%8D%95%E5%88%BA%E5%AE%A28%E7%A2%97%E7%B1%B3%E9%A5%AD%E8%A6%81%E4%BB%B790&sa=fyb_news&rsv_dl=fyb_news)<br />
