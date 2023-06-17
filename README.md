@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 03:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 03:49:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [一颗老鼠头为何要省级调查组才能查清](https://s.weibo.com/weibo?q=%23%E4%B8%80%E9%A2%97%E8%80%81%E9%BC%A0%E5%A4%B4%E4%B8%BA%E4%BD%95%E8%A6%81%E7%9C%81%E7%BA%A7%E8%B0%83%E6%9F%A5%E7%BB%84%E6%89%8D%E8%83%BD%E6%9F%A5%E6%B8%85%23&t=31&band_rank=4&Refer=top)<br />
 5. [帮男朋友洗6年没有洗过的脏辫](https://s.weibo.com/weibo?q=%E5%B8%AE%E7%94%B7%E6%9C%8B%E5%8F%8B%E6%B4%976%E5%B9%B4%E6%B2%A1%E6%9C%89%E6%B4%97%E8%BF%87%E7%9A%84%E8%84%8F%E8%BE%AB&t=31&band_rank=5&Refer=top)<br />
 6. [谢娜 她她她](https://s.weibo.com/weibo?q=%E8%B0%A2%E5%A8%9C%20%E5%A5%B9%E5%A5%B9%E5%A5%B9&t=31&band_rank=6&Refer=top)<br />
-7. [榜一大哥是我爸](https://s.weibo.com/weibo?q=%23%E6%A6%9C%E4%B8%80%E5%A4%A7%E5%93%A5%E6%98%AF%E6%88%91%E7%88%B8%23&t=31&band_rank=7&Refer=top)<br />
-8. [端午公司发了3颗荔枝](https://s.weibo.com/weibo?q=%23%E7%AB%AF%E5%8D%88%E5%85%AC%E5%8F%B8%E5%8F%91%E4%BA%863%E9%A2%97%E8%8D%94%E6%9E%9D%23&t=31&band_rank=8&Refer=top)<br />
-9. [童瑶抹胸上挂了68把钥匙](https://s.weibo.com/weibo?q=%23%E7%AB%A5%E7%91%B6%E6%8A%B9%E8%83%B8%E4%B8%8A%E6%8C%82%E4%BA%8668%E6%8A%8A%E9%92%A5%E5%8C%99%23&t=31&band_rank=9&Refer=top)<br />
+7. [端午公司发了3颗荔枝](https://s.weibo.com/weibo?q=%23%E7%AB%AF%E5%8D%88%E5%85%AC%E5%8F%B8%E5%8F%91%E4%BA%863%E9%A2%97%E8%8D%94%E6%9E%9D%23&t=31&band_rank=7&Refer=top)<br />
+8. [榜一大哥是我爸](https://s.weibo.com/weibo?q=%23%E6%A6%9C%E4%B8%80%E5%A4%A7%E5%93%A5%E6%98%AF%E6%88%91%E7%88%B8%23&t=31&band_rank=8&Refer=top)<br />
+9. [西工大一班级全员34人参与重大科研](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%B7%A5%E5%A4%A7%E4%B8%80%E7%8F%AD%E7%BA%A7%E5%85%A8%E5%91%9834%E4%BA%BA%E5%8F%82%E4%B8%8E%E9%87%8D%E5%A4%A7%E7%A7%91%E7%A0%94%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -31,8 +31,8 @@
 3. [胡歌大鹏影帝双黄蛋](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E5%A4%A7%E9%B9%8F%E5%BD%B1%E5%B8%9D%E5%8F%8C%E9%BB%84%E8%9B%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [稳产保丰 小麦主产区有这些举措](https://www.baidu.com/s?wd=%E7%A8%B3%E4%BA%A7%E4%BF%9D%E4%B8%B0+%E5%B0%8F%E9%BA%A6%E4%B8%BB%E4%BA%A7%E5%8C%BA%E6%9C%89%E8%BF%99%E4%BA%9B%E4%B8%BE%E6%8E%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [广州一龙舟队全是富婆？当地：事实](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E4%B8%80%E9%BE%99%E8%88%9F%E9%98%9F%E5%85%A8%E6%98%AF%E5%AF%8C%E5%A9%86%EF%BC%9F%E5%BD%93%E5%9C%B0%EF%BC%9A%E4%BA%8B%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [15人因西北第一高塔等违建被问责](https://www.baidu.com/s?wd=15%E4%BA%BA%E5%9B%A0%E8%A5%BF%E5%8C%97%E7%AC%AC%E4%B8%80%E9%AB%98%E5%A1%94%E7%AD%89%E8%BF%9D%E5%BB%BA%E8%A2%AB%E9%97%AE%E8%B4%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [中国第一无人岛2868万元成交](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E6%97%A0%E4%BA%BA%E5%B2%9B2868%E4%B8%87%E5%85%83%E6%88%90%E4%BA%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [中国第一无人岛2868万元成交](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E6%97%A0%E4%BA%BA%E5%B2%9B2868%E4%B8%87%E5%85%83%E6%88%90%E4%BA%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [2名井下作业工人被沼气熏倒死亡](https://www.baidu.com/s?wd=2%E5%90%8D%E4%BA%95%E4%B8%8B%E4%BD%9C%E4%B8%9A%E5%B7%A5%E4%BA%BA%E8%A2%AB%E6%B2%BC%E6%B0%94%E7%86%8F%E5%80%92%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女子买1根牛肉干店员偷塞5根的量](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B9%B01%E6%A0%B9%E7%89%9B%E8%82%89%E5%B9%B2%E5%BA%97%E5%91%98%E5%81%B7%E5%A1%9E5%E6%A0%B9%E7%9A%84%E9%87%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [黄渤上半身vs下半身](https://www.baidu.com/s?wd=%E9%BB%84%E6%B8%A4%E4%B8%8A%E5%8D%8A%E8%BA%ABvs%E4%B8%8B%E5%8D%8A%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -43,7 +43,7 @@
 3. [胡歌大鹏影帝双黄蛋](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E5%A4%A7%E9%B9%8F%E5%BD%B1%E5%B8%9D%E5%8F%8C%E9%BB%84%E8%9B%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [稳产保丰 小麦主产区有这些举措](https://www.baidu.com/s?wd=%E7%A8%B3%E4%BA%A7%E4%BF%9D%E4%B8%B0+%E5%B0%8F%E9%BA%A6%E4%B8%BB%E4%BA%A7%E5%8C%BA%E6%9C%89%E8%BF%99%E4%BA%9B%E4%B8%BE%E6%8E%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [广州一龙舟队全是富婆？当地：事实](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E4%B8%80%E9%BE%99%E8%88%9F%E9%98%9F%E5%85%A8%E6%98%AF%E5%AF%8C%E5%A9%86%EF%BC%9F%E5%BD%93%E5%9C%B0%EF%BC%9A%E4%BA%8B%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [15人因西北第一高塔等违建被问责](https://www.baidu.com/s?wd=15%E4%BA%BA%E5%9B%A0%E8%A5%BF%E5%8C%97%E7%AC%AC%E4%B8%80%E9%AB%98%E5%A1%94%E7%AD%89%E8%BF%9D%E5%BB%BA%E8%A2%AB%E9%97%AE%E8%B4%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [中国第一无人岛2868万元成交](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E6%97%A0%E4%BA%BA%E5%B2%9B2868%E4%B8%87%E5%85%83%E6%88%90%E4%BA%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [中国第一无人岛2868万元成交](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E6%97%A0%E4%BA%BA%E5%B2%9B2868%E4%B8%87%E5%85%83%E6%88%90%E4%BA%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [2名井下作业工人被沼气熏倒死亡](https://www.baidu.com/s?wd=2%E5%90%8D%E4%BA%95%E4%B8%8B%E4%BD%9C%E4%B8%9A%E5%B7%A5%E4%BA%BA%E8%A2%AB%E6%B2%BC%E6%B0%94%E7%86%8F%E5%80%92%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女子买1根牛肉干店员偷塞5根的量](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B9%B01%E6%A0%B9%E7%89%9B%E8%82%89%E5%B9%B2%E5%BA%97%E5%91%98%E5%81%B7%E5%A1%9E5%E6%A0%B9%E7%9A%84%E9%87%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [黄渤上半身vs下半身](https://www.baidu.com/s?wd=%E9%BB%84%E6%B8%A4%E4%B8%8A%E5%8D%8A%E8%BA%ABvs%E4%B8%8B%E5%8D%8A%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
