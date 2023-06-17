@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 18:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 18:45:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [男子跨省为他人取快递被发现内含毒品，案件重审后再次被判无期，如何从法律角度解读？](https://www.zhihu.com/question/607104424)<br />
 6. [普京称俄罗斯 2023 年 4 月 GDP 同比增长 3.3%，为何俄遭西方制裁却仍能保持经济增长？](https://www.zhihu.com/question/607051685)<br />
 7. [2023 上半年四六级开考，考试体验如何，哪些题目印象深刻？](https://www.zhihu.com/question/607122232)<br />
-8. [《红楼梦》的林黛玉和《水浒传》的李逵互换性格，会发生什么？](https://www.zhihu.com/question/556009337)<br />
-9. [开水白菜算不算一个故弄玄虚的菜？](https://www.zhihu.com/question/487255017)<br />
+8. [开水白菜算不算一个故弄玄虚的菜？](https://www.zhihu.com/question/487255017)<br />
+9. [为什么蜘蛛侠反抗命运而闪电侠选择了接受？](https://www.zhihu.com/question/606552144)<br />
 
 > 百度  
 
