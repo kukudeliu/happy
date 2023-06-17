@@ -1,14 +1,14 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 00:03:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 00:04:01</h4></div>
 
 > 微博  
 
 1. [萧敬腾方报警检测自证清白](https://s.weibo.com/weibo?q=%23%E8%90%A7%E6%95%AC%E8%85%BE%E6%96%B9%E6%8A%A5%E8%AD%A6%E6%A3%80%E6%B5%8B%E8%87%AA%E8%AF%81%E6%B8%85%E7%99%BD%23&t=31&band_rank=1&Refer=top)<br />
 2. [胡歌大鹏影帝双黄蛋](https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E5%A4%A7%E9%B9%8F%E5%BD%B1%E5%B8%9D%E5%8F%8C%E9%BB%84%E8%9B%8B%23&t=31&band_rank=2&Refer=top)<br />
 3. [卫星视角看中国治沙奇迹](https://s.weibo.com/weibo?q=%23%E5%8D%AB%E6%98%9F%E8%A7%86%E8%A7%92%E7%9C%8B%E4%B8%AD%E5%9B%BD%E6%B2%BB%E6%B2%99%E5%A5%87%E8%BF%B9%23&t=31&band_rank=3&Refer=top)<br />
-4. [一颗老鼠头为何要省级调查组才能查清](https://s.weibo.com/weibo?q=%23%E4%B8%80%E9%A2%97%E8%80%81%E9%BC%A0%E5%A4%B4%E4%B8%BA%E4%BD%95%E8%A6%81%E7%9C%81%E7%BA%A7%E8%B0%83%E6%9F%A5%E7%BB%84%E6%89%8D%E8%83%BD%E6%9F%A5%E6%B8%85%23&t=31&band_rank=4&Refer=top)<br />
-5. [帮男朋友洗6年没有洗过的脏辫](https://s.weibo.com/weibo?q=%E5%B8%AE%E7%94%B7%E6%9C%8B%E5%8F%8B%E6%B4%976%E5%B9%B4%E6%B2%A1%E6%9C%89%E6%B4%97%E8%BF%87%E7%9A%84%E8%84%8F%E8%BE%AB&t=31&band_rank=5&Refer=top)<br />
-6. [榜一大哥是我爸](https://s.weibo.com/weibo?q=%23%E6%A6%9C%E4%B8%80%E5%A4%A7%E5%93%A5%E6%98%AF%E6%88%91%E7%88%B8%23&t=31&band_rank=6&Refer=top)<br />
-7. [端午公司发了3颗荔枝](https://s.weibo.com/weibo?q=%23%E7%AB%AF%E5%8D%88%E5%85%AC%E5%8F%B8%E5%8F%91%E4%BA%863%E9%A2%97%E8%8D%94%E6%9E%9D%23&t=31&band_rank=7&Refer=top)<br />
+4. [帮男朋友洗6年没有洗过的脏辫](https://s.weibo.com/weibo?q=%E5%B8%AE%E7%94%B7%E6%9C%8B%E5%8F%8B%E6%B4%976%E5%B9%B4%E6%B2%A1%E6%9C%89%E6%B4%97%E8%BF%87%E7%9A%84%E8%84%8F%E8%BE%AB&t=31&band_rank=4&Refer=top)<br />
+5. [一颗老鼠头为何要省级调查组才能查清](https://s.weibo.com/weibo?q=%23%E4%B8%80%E9%A2%97%E8%80%81%E9%BC%A0%E5%A4%B4%E4%B8%BA%E4%BD%95%E8%A6%81%E7%9C%81%E7%BA%A7%E8%B0%83%E6%9F%A5%E7%BB%84%E6%89%8D%E8%83%BD%E6%9F%A5%E6%B8%85%23&t=31&band_rank=5&Refer=top)<br />
+6. [端午公司发了3颗荔枝](https://s.weibo.com/weibo?q=%23%E7%AB%AF%E5%8D%88%E5%85%AC%E5%8F%B8%E5%8F%91%E4%BA%863%E9%A2%97%E8%8D%94%E6%9E%9D%23&t=31&band_rank=6&Refer=top)<br />
+7. [榜一大哥是我爸](https://s.weibo.com/weibo?q=%23%E6%A6%9C%E4%B8%80%E5%A4%A7%E5%93%A5%E6%98%AF%E6%88%91%E7%88%B8%23&t=31&band_rank=7&Refer=top)<br />
 8. [谢娜 她她她](https://s.weibo.com/weibo?q=%E8%B0%A2%E5%A8%9C%20%E5%A5%B9%E5%A5%B9%E5%A5%B9&t=31&band_rank=8&Refer=top)<br />
 9. [jkl](https://s.weibo.com/weibo?q=jkl&t=31&band_rank=9&Refer=top)<br />
 
@@ -34,7 +34,7 @@
 6. [跳河救人小哥说大家给我的太多了](https://www.baidu.com/s?wd=%E8%B7%B3%E6%B2%B3%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E8%AF%B4%E5%A4%A7%E5%AE%B6%E7%BB%99%E6%88%91%E7%9A%84%E5%A4%AA%E5%A4%9A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [曾曝光美军方对华核讹诈的他去世](https://www.baidu.com/s?wd=%E6%9B%BE%E6%9B%9D%E5%85%89%E7%BE%8E%E5%86%9B%E6%96%B9%E5%AF%B9%E5%8D%8E%E6%A0%B8%E8%AE%B9%E8%AF%88%E7%9A%84%E4%BB%96%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女生称没穿内衣取外卖被骑手骚扰](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E7%A7%B0%E6%B2%A1%E7%A9%BF%E5%86%85%E8%A1%A3%E5%8F%96%E5%A4%96%E5%8D%96%E8%A2%AB%E9%AA%91%E6%89%8B%E9%AA%9A%E6%89%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [云南一地彩礼金只收36元](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E4%B8%80%E5%9C%B0%E5%BD%A9%E7%A4%BC%E9%87%91%E5%8F%AA%E6%94%B636%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [15人因西北第一高塔等违建被问责](https://www.baidu.com/s?wd=15%E4%BA%BA%E5%9B%A0%E8%A5%BF%E5%8C%97%E7%AC%AC%E4%B8%80%E9%AB%98%E5%A1%94%E7%AD%89%E8%BF%9D%E5%BB%BA%E8%A2%AB%E9%97%AE%E8%B4%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [跳河救人小哥说大家给我的太多了](https://www.baidu.com/s?wd=%E8%B7%B3%E6%B2%B3%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E8%AF%B4%E5%A4%A7%E5%AE%B6%E7%BB%99%E6%88%91%E7%9A%84%E5%A4%AA%E5%A4%9A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [曾曝光美军方对华核讹诈的他去世](https://www.baidu.com/s?wd=%E6%9B%BE%E6%9B%9D%E5%85%89%E7%BE%8E%E5%86%9B%E6%96%B9%E5%AF%B9%E5%8D%8E%E6%A0%B8%E8%AE%B9%E8%AF%88%E7%9A%84%E4%BB%96%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女生称没穿内衣取外卖被骑手骚扰](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E7%A7%B0%E6%B2%A1%E7%A9%BF%E5%86%85%E8%A1%A3%E5%8F%96%E5%A4%96%E5%8D%96%E8%A2%AB%E9%AA%91%E6%89%8B%E9%AA%9A%E6%89%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [云南一地彩礼金只收36元](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E4%B8%80%E5%9C%B0%E5%BD%A9%E7%A4%BC%E9%87%91%E5%8F%AA%E6%94%B636%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [15人因西北第一高塔等违建被问责](https://www.baidu.com/s?wd=15%E4%BA%BA%E5%9B%A0%E8%A5%BF%E5%8C%97%E7%AC%AC%E4%B8%80%E9%AB%98%E5%A1%94%E7%AD%89%E8%BF%9D%E5%BB%BA%E8%A2%AB%E9%97%AE%E8%B4%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
