@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 01:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 01:14:02</h4></div>
 
 > 微博  
 
@@ -32,9 +32,9 @@
 4. [稳产保丰 小麦主产区有这些举措](https://www.baidu.com/s?wd=%E7%A8%B3%E4%BA%A7%E4%BF%9D%E4%B8%B0+%E5%B0%8F%E9%BA%A6%E4%B8%BB%E4%BA%A7%E5%8C%BA%E6%9C%89%E8%BF%99%E4%BA%9B%E4%B8%BE%E6%8E%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [广州一龙舟队全是富婆？当地：事实](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E4%B8%80%E9%BE%99%E8%88%9F%E9%98%9F%E5%85%A8%E6%98%AF%E5%AF%8C%E5%A9%86%EF%BC%9F%E5%BD%93%E5%9C%B0%EF%BC%9A%E4%BA%8B%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女生称没穿内衣取外卖被骑手骚扰](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E7%A7%B0%E6%B2%A1%E7%A9%BF%E5%86%85%E8%A1%A3%E5%8F%96%E5%A4%96%E5%8D%96%E8%A2%AB%E9%AA%91%E6%89%8B%E9%AA%9A%E6%89%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子买1根牛肉干店员偷塞5根的量](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B9%B01%E6%A0%B9%E7%89%9B%E8%82%89%E5%B9%B2%E5%BA%97%E5%91%98%E5%81%B7%E5%A1%9E5%E6%A0%B9%E7%9A%84%E9%87%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [精神病人持刀砍伤数十人？警方回应](https://www.baidu.com/s?wd=%E7%B2%BE%E7%A5%9E%E7%97%85%E4%BA%BA%E6%8C%81%E5%88%80%E7%A0%8D%E4%BC%A4%E6%95%B0%E5%8D%81%E4%BA%BA%EF%BC%9F%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [黄渤上半身vs下半身](https://www.baidu.com/s?wd=%E9%BB%84%E6%B8%A4%E4%B8%8A%E5%8D%8A%E8%BA%ABvs%E4%B8%8B%E5%8D%8A%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [云南一地彩礼金只收36元](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E4%B8%80%E5%9C%B0%E5%BD%A9%E7%A4%BC%E9%87%91%E5%8F%AA%E6%94%B636%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [15人因西北第一高塔等违建被问责](https://www.baidu.com/s?wd=15%E4%BA%BA%E5%9B%A0%E8%A5%BF%E5%8C%97%E7%AC%AC%E4%B8%80%E9%AB%98%E5%A1%94%E7%AD%89%E8%BF%9D%E5%BB%BA%E8%A2%AB%E9%97%AE%E8%B4%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [2名井下作业工人被沼气熏倒死亡](https://www.baidu.com/s?wd=2%E5%90%8D%E4%BA%95%E4%B8%8B%E4%BD%9C%E4%B8%9A%E5%B7%A5%E4%BA%BA%E8%A2%AB%E6%B2%BC%E6%B0%94%E7%86%8F%E5%80%92%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [稳产保丰 小麦主产区有这些举措](https://www.baidu.com/s?wd=%E7%A8%B3%E4%BA%A7%E4%BF%9D%E4%B8%B0+%E5%B0%8F%E9%BA%A6%E4%B8%BB%E4%BA%A7%E5%8C%BA%E6%9C%89%E8%BF%99%E4%BA%9B%E4%B8%BE%E6%8E%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [广州一龙舟队全是富婆？当地：事实](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E4%B8%80%E9%BE%99%E8%88%9F%E9%98%9F%E5%85%A8%E6%98%AF%E5%AF%8C%E5%A9%86%EF%BC%9F%E5%BD%93%E5%9C%B0%EF%BC%9A%E4%BA%8B%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女生称没穿内衣取外卖被骑手骚扰](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E7%A7%B0%E6%B2%A1%E7%A9%BF%E5%86%85%E8%A1%A3%E5%8F%96%E5%A4%96%E5%8D%96%E8%A2%AB%E9%AA%91%E6%89%8B%E9%AA%9A%E6%89%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子买1根牛肉干店员偷塞5根的量](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B9%B01%E6%A0%B9%E7%89%9B%E8%82%89%E5%B9%B2%E5%BA%97%E5%91%98%E5%81%B7%E5%A1%9E5%E6%A0%B9%E7%9A%84%E9%87%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [精神病人持刀砍伤数十人？警方回应](https://www.baidu.com/s?wd=%E7%B2%BE%E7%A5%9E%E7%97%85%E4%BA%BA%E6%8C%81%E5%88%80%E7%A0%8D%E4%BC%A4%E6%95%B0%E5%8D%81%E4%BA%BA%EF%BC%9F%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [黄渤上半身vs下半身](https://www.baidu.com/s?wd=%E9%BB%84%E6%B8%A4%E4%B8%8A%E5%8D%8A%E8%BA%ABvs%E4%B8%8B%E5%8D%8A%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [云南一地彩礼金只收36元](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E4%B8%80%E5%9C%B0%E5%BD%A9%E7%A4%BC%E9%87%91%E5%8F%AA%E6%94%B636%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [15人因西北第一高塔等违建被问责](https://www.baidu.com/s?wd=15%E4%BA%BA%E5%9B%A0%E8%A5%BF%E5%8C%97%E7%AC%AC%E4%B8%80%E9%AB%98%E5%A1%94%E7%AD%89%E8%BF%9D%E5%BB%BA%E8%A2%AB%E9%97%AE%E8%B4%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [2名井下作业工人被沼气熏倒死亡](https://www.baidu.com/s?wd=2%E5%90%8D%E4%BA%95%E4%B8%8B%E4%BD%9C%E4%B8%9A%E5%B7%A5%E4%BA%BA%E8%A2%AB%E6%B2%BC%E6%B0%94%E7%86%8F%E5%80%92%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
