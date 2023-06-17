@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 19:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 19:29:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [绝味鸭脖称终于沉冤得雪](https://s.weibo.com/weibo?q=%23%E7%BB%9D%E5%91%B3%E9%B8%AD%E8%84%96%E7%A7%B0%E7%BB%88%E4%BA%8E%E6%B2%89%E5%86%A4%E5%BE%97%E9%9B%AA%23&t=31&band_rank=6&Refer=top)<br />
 7. [妈妈仨月疯狂减重20斤割肝救女](https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E4%BB%A8%E6%9C%88%E7%96%AF%E7%8B%82%E5%87%8F%E9%87%8D20%E6%96%A4%E5%89%B2%E8%82%9D%E6%95%91%E5%A5%B3%23&t=31&band_rank=7&Refer=top)<br />
 8. [六级答案](https://s.weibo.com/weibo?q=%E5%85%AD%E7%BA%A7%E7%AD%94%E6%A1%88&t=31&band_rank=8&Refer=top)<br />
-9. [杨幂露背了](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E9%9C%B2%E8%83%8C%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [轮到看大学生四六级笑话了](https://s.weibo.com/weibo?q=%E8%BD%AE%E5%88%B0%E7%9C%8B%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9B%9B%E5%85%AD%E7%BA%A7%E7%AC%91%E8%AF%9D%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
