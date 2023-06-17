@@ -1,10 +1,10 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 20:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 20:31:01</h4></div>
 
 > 微博  
 
 1. [黄渤上半身vs下半身](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%B8%A4%E4%B8%8A%E5%8D%8A%E8%BA%ABvs%E4%B8%8B%E5%8D%8A%E8%BA%AB%23&t=31&band_rank=1&Refer=top)<br />
 2. [六级](https://s.weibo.com/weibo?q=%E5%85%AD%E7%BA%A7&t=31&band_rank=2&Refer=top)<br />
-3. [推动电子医保就医全流程应用](https://s.weibo.com/weibo?q=%23%E6%8E%A8%E5%8A%A8%E7%94%B5%E5%AD%90%E5%8C%BB%E4%BF%9D%E5%B0%B1%E5%8C%BB%E5%85%A8%E6%B5%81%E7%A8%8B%E5%BA%94%E7%94%A8%23&t=31&band_rank=3&Refer=top)<br />
+3. [今天致敬每一位中国治沙人](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E8%87%B4%E6%95%AC%E6%AF%8F%E4%B8%80%E4%BD%8D%E4%B8%AD%E5%9B%BD%E6%B2%BB%E6%B2%99%E4%BA%BA%23&t=31&band_rank=3&Refer=top)<br />
 4. [Angelababy 求求了给我脚趾p个美甲](https://s.weibo.com/weibo?q=Angelababy%20%E6%B1%82%E6%B1%82%E4%BA%86%E7%BB%99%E6%88%91%E8%84%9A%E8%B6%BEp%E4%B8%AA%E7%BE%8E%E7%94%B2&t=31&band_rank=4&Refer=top)<br />
 5. [童瑶抹胸上挂了68把钥匙](https://s.weibo.com/weibo?q=%23%E7%AB%A5%E7%91%B6%E6%8A%B9%E8%83%B8%E4%B8%8A%E6%8C%82%E4%BA%8668%E6%8A%8A%E9%92%A5%E5%8C%99%23&t=31&band_rank=5&Refer=top)<br />
 6. [一颗老鼠头为何要省级调查组才能查清](https://s.weibo.com/weibo?q=%23%E4%B8%80%E9%A2%97%E8%80%81%E9%BC%A0%E5%A4%B4%E4%B8%BA%E4%BD%95%E8%A6%81%E7%9C%81%E7%BA%A7%E8%B0%83%E6%9F%A5%E7%BB%84%E6%89%8D%E8%83%BD%E6%9F%A5%E6%B8%85%23&t=31&band_rank=6&Refer=top)<br />
@@ -22,7 +22,7 @@
 6. [福州一母子被洒落沥青烫伤身亡，涉事车辆超载 25 倍，运输公司多次上「黑榜」，涉事方将受到什么处罚？](https://www.zhihu.com/question/607112600)<br />
 7. [开水白菜算不算一个故弄玄虚的菜？](https://www.zhihu.com/question/487255017)<br />
 8. [如何评价《崩坏：星穹铁道》中的银河公司被银狼侵入?](https://www.zhihu.com/question/607134236)<br />
-9. [向传奇致敬！42 岁郑智正式退役，代表国足出战 108 场，打入 15 球，如何评价郑智的职业生涯？](https://www.zhihu.com/question/607062078)<br />
+9. [在农村，为何有人专门高价收购五年以上的老母鸡？](https://www.zhihu.com/question/421033694)<br />
 
 > 百度  
 
