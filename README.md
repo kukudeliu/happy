@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 17:21:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 17:22:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [男子跨省为他人取快递被发现内含毒品，案件重审后再次被判无期，如何从法律角度解读？](https://www.zhihu.com/question/607104424)<br />
 6. [普京称俄罗斯 2023 年 4 月 GDP 同比增长 3.3%，为何俄遭西方制裁却仍能保持经济增长？](https://www.zhihu.com/question/607051685)<br />
 7. []()<br />
-8. [汽车长期静置不用，有什么安全隐患需要注意吗？](https://www.zhihu.com/question/605219932)<br />
-9. [《红楼梦》的林黛玉和《水浒传》的李逵互换性格，会发生什么？](https://www.zhihu.com/question/556009337)<br />
+8. [《红楼梦》的林黛玉和《水浒传》的李逵互换性格，会发生什么？](https://www.zhihu.com/question/556009337)<br />
+9. [汽车长期静置不用，有什么安全隐患需要注意吗？](https://www.zhihu.com/question/605219932)<br />
 
 > 百度  
 
