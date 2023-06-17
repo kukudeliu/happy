@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 21:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 21:41:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [一颗老鼠头为何要省级调查组才能查清](https://s.weibo.com/weibo?q=%23%E4%B8%80%E9%A2%97%E8%80%81%E9%BC%A0%E5%A4%B4%E4%B8%BA%E4%BD%95%E8%A6%81%E7%9C%81%E7%BA%A7%E8%B0%83%E6%9F%A5%E7%BB%84%E6%89%8D%E8%83%BD%E6%9F%A5%E6%B8%85%23&t=31&band_rank=6&Refer=top)<br />
 7. [黑莲花 虞书欣丁禹兮](https://s.weibo.com/weibo?q=%E9%BB%91%E8%8E%B2%E8%8A%B1%20%E8%99%9E%E4%B9%A6%E6%AC%A3%E4%B8%81%E7%A6%B9%E5%85%AE&t=31&band_rank=7&Refer=top)<br />
 8. [长风渡定档](https://s.weibo.com/weibo?q=%E9%95%BF%E9%A3%8E%E6%B8%A1%E5%AE%9A%E6%A1%A3&t=31&band_rank=8&Refer=top)<br />
-9. [LNG战胜EDG](https://s.weibo.com/weibo?q=%23LNG%E6%88%98%E8%83%9CEDG%23&t=31&band_rank=9&Refer=top)<br />
+9. [六级](https://s.weibo.com/weibo?q=%E5%85%AD%E7%BA%A7&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
