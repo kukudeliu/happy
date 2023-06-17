@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 20:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 20:37:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [福州一母子被洒落沥青烫伤身亡，涉事车辆超载 25 倍，运输公司多次上「黑榜」，涉事方将受到什么处罚？](https://www.zhihu.com/question/607112600)<br />
 7. [开水白菜算不算一个故弄玄虚的菜？](https://www.zhihu.com/question/487255017)<br />
 8. [如何评价《崩坏：星穹铁道》中的银河公司被银狼侵入?](https://www.zhihu.com/question/607134236)<br />
-9. [普京称俄罗斯 2023 年 4 月 GDP 同比增长 3.3%，为何俄遭西方制裁却仍能保持经济增长？](https://www.zhihu.com/question/607051685)<br />
+9. [在农村，为何有人专门高价收购五年以上的老母鸡？](https://www.zhihu.com/question/421033694)<br />
 
 > 百度  
 
