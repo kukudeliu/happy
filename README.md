@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 17:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 17:31:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [Jennie是前一天爬山太累了吗](https://s.weibo.com/weibo?q=%23Jennie%E6%98%AF%E5%89%8D%E4%B8%80%E5%A4%A9%E7%88%AC%E5%B1%B1%E5%A4%AA%E7%B4%AF%E4%BA%86%E5%90%97%23&t=31&band_rank=5&Refer=top)<br />
 6. [黑莲花 虞书欣丁禹兮](https://s.weibo.com/weibo?q=%E9%BB%91%E8%8E%B2%E8%8A%B1%20%E8%99%9E%E4%B9%A6%E6%AC%A3%E4%B8%81%E7%A6%B9%E5%85%AE&t=31&band_rank=6&Refer=top)<br />
 7. [张雪峰 我离被人搞不远了](https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%AA%E5%B3%B0%20%E6%88%91%E7%A6%BB%E8%A2%AB%E4%BA%BA%E6%90%9E%E4%B8%8D%E8%BF%9C%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
-8. [网友评选上半年烂剧之王](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E8%AF%84%E9%80%89%E4%B8%8A%E5%8D%8A%E5%B9%B4%E7%83%82%E5%89%A7%E4%B9%8B%E7%8E%8B%23&t=31&band_rank=8&Refer=top)<br />
-9. [六级](https://s.weibo.com/weibo?q=%E5%85%AD%E7%BA%A7&t=31&band_rank=9&Refer=top)<br />
+8. [六级](https://s.weibo.com/weibo?q=%E5%85%AD%E7%BA%A7&t=31&band_rank=8&Refer=top)<br />
+9. [网友评选上半年烂剧之王](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E8%AF%84%E9%80%89%E4%B8%8A%E5%8D%8A%E5%B9%B4%E7%83%82%E5%89%A7%E4%B9%8B%E7%8E%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [普京称俄罗斯 2023 年 4 月 GDP 同比增长 3.3%，为何俄遭西方制裁却仍能保持经济增长？](https://www.zhihu.com/question/607051685)<br />
 7. [《红楼梦》的林黛玉和《水浒传》的李逵互换性格，会发生什么？](https://www.zhihu.com/question/556009337)<br />
 8. [汽车长期静置不用，有什么安全隐患需要注意吗？](https://www.zhihu.com/question/605219932)<br />
-9. [重来一次高考你是不是会拼尽全力？](https://www.zhihu.com/question/605242117)<br />
+9. [考研学习效率低怎么办?](https://www.zhihu.com/question/599501287)<br />
 
 > 百度  
 
