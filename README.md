@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 12:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 12:01:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [硬核科技铺就万桥飞架新坦途](https://s.weibo.com/weibo?q=%23%E7%A1%AC%E6%A0%B8%E7%A7%91%E6%8A%80%E9%93%BA%E5%B0%B1%E4%B8%87%E6%A1%A5%E9%A3%9E%E6%9E%B6%E6%96%B0%E5%9D%A6%E9%80%94%23&t=31&band_rank=3&Refer=top)<br />
 4. [张雪峰 我离被人搞不远了](https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%AA%E5%B3%B0%20%E6%88%91%E7%A6%BB%E8%A2%AB%E4%BA%BA%E6%90%9E%E4%B8%8D%E8%BF%9C%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
 5. [四级翻译 难](https://s.weibo.com/weibo?q=%E5%9B%9B%E7%BA%A7%E7%BF%BB%E8%AF%91%20%E9%9A%BE&t=31&band_rank=5&Refer=top)<br />
-6. [四六级](https://s.weibo.com/weibo?q=%E5%9B%9B%E5%85%AD%E7%BA%A7&t=31&band_rank=6&Refer=top)<br />
-7. [四级答案](https://s.weibo.com/weibo?q=%E5%9B%9B%E7%BA%A7%E7%AD%94%E6%A1%88&t=31&band_rank=7&Refer=top)<br />
+6. [四级答案](https://s.weibo.com/weibo?q=%E5%9B%9B%E7%BA%A7%E7%AD%94%E6%A1%88&t=31&band_rank=6&Refer=top)<br />
+7. [四六级](https://s.weibo.com/weibo?q=%E5%9B%9B%E5%85%AD%E7%BA%A7&t=31&band_rank=7&Refer=top)<br />
 8. [迪丽热巴照片有热带鱼表情](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%85%A7%E7%89%87%E6%9C%89%E7%83%AD%E5%B8%A6%E9%B1%BC%E8%A1%A8%E6%83%85%23&t=31&band_rank=8&Refer=top)<br />
 9. [六级翻译](https://s.weibo.com/weibo?q=%E5%85%AD%E7%BA%A7%E7%BF%BB%E8%AF%91&t=31&band_rank=9&Refer=top)<br />
 
@@ -19,10 +19,10 @@
 3. [哈佛医学院曝惊天丑闻，员工偷尸体卖器官，600 美元可买两张脸，包裹用快递寄出，如何看待此事？](https://www.zhihu.com/question/606917409)<br />
 4. [三国演义当中吕布害怕张飞吗？](https://www.zhihu.com/question/596865384)<br />
 5. [女朋友说要冷静两个礼拜，这期间我要不要找她聊天，还是断联？](https://www.zhihu.com/question/606352502)<br />
-6. [为什么化学有很多例外？](https://www.zhihu.com/question/606580471)<br />
+6. [如果能回到高考那年，你会重新选择专业吗？](https://www.zhihu.com/question/605656777)<br />
 7. [张雪峰表示「要将报新闻学的孩子打晕」，高校教授回应「新闻专业能文能武」，你认可哪方观点，新传专业如何？](https://www.zhihu.com/question/606948855)<br />
-8. [如果能回到高考那年，你会重新选择专业吗？](https://www.zhihu.com/question/605656777)<br />
-9. [本轮「降息」是起点还是终点？未来宏观政策向是否会继续通过降息来刺激消费和资金流动？](https://www.zhihu.com/question/607048020)<br />
+8. [本轮「降息」是起点还是终点？未来宏观政策向是否会继续通过降息来刺激消费和资金流动？](https://www.zhihu.com/question/607048020)<br />
+9. [夏天来了，你会因为养生忍住不吃雪糕和冰西瓜吗?](https://www.zhihu.com/question/604708855)<br />
 
 > 百度  
 
