@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 12:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 12:06:01</h4></div>
 
 > 微博  
 
@@ -19,10 +19,10 @@
 3. [哈佛医学院曝惊天丑闻，员工偷尸体卖器官，600 美元可买两张脸，包裹用快递寄出，如何看待此事？](https://www.zhihu.com/question/606917409)<br />
 4. [三国演义当中吕布害怕张飞吗？](https://www.zhihu.com/question/596865384)<br />
 5. [女朋友说要冷静两个礼拜，这期间我要不要找她聊天，还是断联？](https://www.zhihu.com/question/606352502)<br />
-6. [夏天来了，你会因为养生忍住不吃雪糕和冰西瓜吗?](https://www.zhihu.com/question/604708855)<br />
+6. []()<br />
 7. [张雪峰表示「要将报新闻学的孩子打晕」，高校教授回应「新闻专业能文能武」，你认可哪方观点，新传专业如何？](https://www.zhihu.com/question/606948855)<br />
-8. [如果能回到高考那年，你会重新选择专业吗？](https://www.zhihu.com/question/605656777)<br />
-9. [本轮「降息」是起点还是终点？未来宏观政策向是否会继续通过降息来刺激消费和资金流动？](https://www.zhihu.com/question/607048020)<br />
+8. [夏天来了，你会因为养生忍住不吃雪糕和冰西瓜吗?](https://www.zhihu.com/question/604708855)<br />
+9. [如果能回到高考那年，你会重新选择专业吗？](https://www.zhihu.com/question/605656777)<br />
 
 > 百度  
 
