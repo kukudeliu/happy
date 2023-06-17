@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 05:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 05:59:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [哪个瞬间你发现爸爸不再年轻](https://s.weibo.com/weibo?q=%23%E5%93%AA%E4%B8%AA%E7%9E%AC%E9%97%B4%E4%BD%A0%E5%8F%91%E7%8E%B0%E7%88%B8%E7%88%B8%E4%B8%8D%E5%86%8D%E5%B9%B4%E8%BD%BB%23&t=31&band_rank=3&Refer=top)<br />
 4. [端午公司发了3颗荔枝](https://s.weibo.com/weibo?q=%23%E7%AB%AF%E5%8D%88%E5%85%AC%E5%8F%B8%E5%8F%91%E4%BA%863%E9%A2%97%E8%8D%94%E6%9E%9D%23&t=31&band_rank=4&Refer=top)<br />
 5. [一颗老鼠头为何要省级调查组才能查清](https://s.weibo.com/weibo?q=%23%E4%B8%80%E9%A2%97%E8%80%81%E9%BC%A0%E5%A4%B4%E4%B8%BA%E4%BD%95%E8%A6%81%E7%9C%81%E7%BA%A7%E8%B0%83%E6%9F%A5%E7%BB%84%E6%89%8D%E8%83%BD%E6%9F%A5%E6%B8%85%23&t=31&band_rank=5&Refer=top)<br />
-6. [西工大一班级全员34人参与重大科研](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%B7%A5%E5%A4%A7%E4%B8%80%E7%8F%AD%E7%BA%A7%E5%85%A8%E5%91%9834%E4%BA%BA%E5%8F%82%E4%B8%8E%E9%87%8D%E5%A4%A7%E7%A7%91%E7%A0%94%23&t=31&band_rank=6&Refer=top)<br />
-7. [帮男朋友洗6年没有洗过的脏辫](https://s.weibo.com/weibo?q=%E5%B8%AE%E7%94%B7%E6%9C%8B%E5%8F%8B%E6%B4%976%E5%B9%B4%E6%B2%A1%E6%9C%89%E6%B4%97%E8%BF%87%E7%9A%84%E8%84%8F%E8%BE%AB&t=31&band_rank=7&Refer=top)<br />
+6. [帮男朋友洗6年没有洗过的脏辫](https://s.weibo.com/weibo?q=%E5%B8%AE%E7%94%B7%E6%9C%8B%E5%8F%8B%E6%B4%976%E5%B9%B4%E6%B2%A1%E6%9C%89%E6%B4%97%E8%BF%87%E7%9A%84%E8%84%8F%E8%BE%AB&t=31&band_rank=6&Refer=top)<br />
+7. [西工大一班级全员34人参与重大科研](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%B7%A5%E5%A4%A7%E4%B8%80%E7%8F%AD%E7%BA%A7%E5%85%A8%E5%91%9834%E4%BA%BA%E5%8F%82%E4%B8%8E%E9%87%8D%E5%A4%A7%E7%A7%91%E7%A0%94%23&t=31&band_rank=7&Refer=top)<br />
 8. [胡歌大鹏影帝双黄蛋](https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E5%A4%A7%E9%B9%8F%E5%BD%B1%E5%B8%9D%E5%8F%8C%E9%BB%84%E8%9B%8B%23&t=31&band_rank=8&Refer=top)<br />
 9. [张小斐嘴上说不热身体却很诚实](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%E5%98%B4%E4%B8%8A%E8%AF%B4%E4%B8%8D%E7%83%AD%E8%BA%AB%E4%BD%93%E5%8D%B4%E5%BE%88%E8%AF%9A%E5%AE%9E%23&t=31&band_rank=9&Refer=top)<br />
 
@@ -31,10 +31,10 @@
 3. [胡歌大鹏影帝双黄蛋](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E5%A4%A7%E9%B9%8F%E5%BD%B1%E5%B8%9D%E5%8F%8C%E9%BB%84%E8%9B%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [稳产保丰 小麦主产区有这些举措](https://www.baidu.com/s?wd=%E7%A8%B3%E4%BA%A7%E4%BF%9D%E4%B8%B0+%E5%B0%8F%E9%BA%A6%E4%B8%BB%E4%BA%A7%E5%8C%BA%E6%9C%89%E8%BF%99%E4%BA%9B%E4%B8%BE%E6%8E%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [广州一龙舟队全是富婆？当地：事实](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E4%B8%80%E9%BE%99%E8%88%9F%E9%98%9F%E5%85%A8%E6%98%AF%E5%AF%8C%E5%A9%86%EF%BC%9F%E5%BD%93%E5%9C%B0%EF%BC%9A%E4%BA%8B%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [跳河救人小哥说大家给我的太多了](https://www.baidu.com/s?wd=%E8%B7%B3%E6%B2%B3%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E8%AF%B4%E5%A4%A7%E5%AE%B6%E7%BB%99%E6%88%91%E7%9A%84%E5%A4%AA%E5%A4%9A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女生称没穿内衣取外卖被骑手骚扰](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E7%A7%B0%E6%B2%A1%E7%A9%BF%E5%86%85%E8%A1%A3%E5%8F%96%E5%A4%96%E5%8D%96%E8%A2%AB%E9%AA%91%E6%89%8B%E9%AA%9A%E6%89%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [女生称没穿内衣取外卖被骑手骚扰](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E7%A7%B0%E6%B2%A1%E7%A9%BF%E5%86%85%E8%A1%A3%E5%8F%96%E5%A4%96%E5%8D%96%E8%A2%AB%E9%AA%91%E6%89%8B%E9%AA%9A%E6%89%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [美国政府债务规模超32万亿美元](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%80%BA%E5%8A%A1%E8%A7%84%E6%A8%A1%E8%B6%8532%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [德国发现3000年前青铜剑](https://www.baidu.com/s?wd=%E5%BE%B7%E5%9B%BD%E5%8F%91%E7%8E%B03000%E5%B9%B4%E5%89%8D%E9%9D%92%E9%93%9C%E5%89%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子骑车手扶帽子头部着地身亡](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%AA%91%E8%BD%A6%E6%89%8B%E6%89%B6%E5%B8%BD%E5%AD%90%E5%A4%B4%E9%83%A8%E7%9D%80%E5%9C%B0%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [黄渤上半身vs下半身](https://www.baidu.com/s?wd=%E9%BB%84%E6%B8%A4%E4%B8%8A%E5%8D%8A%E8%BA%ABvs%E4%B8%8B%E5%8D%8A%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [胡歌大鹏影帝双黄蛋](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E5%A4%A7%E9%B9%8F%E5%BD%B1%E5%B8%9D%E5%8F%8C%E9%BB%84%E8%9B%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [稳产保丰 小麦主产区有这些举措](https://www.baidu.com/s?wd=%E7%A8%B3%E4%BA%A7%E4%BF%9D%E4%B8%B0+%E5%B0%8F%E9%BA%A6%E4%B8%BB%E4%BA%A7%E5%8C%BA%E6%9C%89%E8%BF%99%E4%BA%9B%E4%B8%BE%E6%8E%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [广州一龙舟队全是富婆？当地：事实](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E4%B8%80%E9%BE%99%E8%88%9F%E9%98%9F%E5%85%A8%E6%98%AF%E5%AF%8C%E5%A9%86%EF%BC%9F%E5%BD%93%E5%9C%B0%EF%BC%9A%E4%BA%8B%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [跳河救人小哥说大家给我的太多了](https://www.baidu.com/s?wd=%E8%B7%B3%E6%B2%B3%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E8%AF%B4%E5%A4%A7%E5%AE%B6%E7%BB%99%E6%88%91%E7%9A%84%E5%A4%AA%E5%A4%9A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女生称没穿内衣取外卖被骑手骚扰](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E7%A7%B0%E6%B2%A1%E7%A9%BF%E5%86%85%E8%A1%A3%E5%8F%96%E5%A4%96%E5%8D%96%E8%A2%AB%E9%AA%91%E6%89%8B%E9%AA%9A%E6%89%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [女生称没穿内衣取外卖被骑手骚扰](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E7%A7%B0%E6%B2%A1%E7%A9%BF%E5%86%85%E8%A1%A3%E5%8F%96%E5%A4%96%E5%8D%96%E8%A2%AB%E9%AA%91%E6%89%8B%E9%AA%9A%E6%89%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [美国政府债务规模超32万亿美元](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%80%BA%E5%8A%A1%E8%A7%84%E6%A8%A1%E8%B6%8532%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [德国发现3000年前青铜剑](https://www.baidu.com/s?wd=%E5%BE%B7%E5%9B%BD%E5%8F%91%E7%8E%B03000%E5%B9%B4%E5%89%8D%E9%9D%92%E9%93%9C%E5%89%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子骑车手扶帽子头部着地身亡](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%AA%91%E8%BD%A6%E6%89%8B%E6%89%B6%E5%B8%BD%E5%AD%90%E5%A4%B4%E9%83%A8%E7%9D%80%E5%9C%B0%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [黄渤上半身vs下半身](https://www.baidu.com/s?wd=%E9%BB%84%E6%B8%A4%E4%B8%8A%E5%8D%8A%E8%BA%ABvs%E4%B8%8B%E5%8D%8A%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
