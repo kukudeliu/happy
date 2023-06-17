@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 11:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 11:42:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [四级作文](https://s.weibo.com/weibo?q=%E5%9B%9B%E7%BA%A7%E4%BD%9C%E6%96%87&t=31&band_rank=4&Refer=top)<br />
 5. [迪丽热巴照片有热带鱼表情](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%85%A7%E7%89%87%E6%9C%89%E7%83%AD%E5%B8%A6%E9%B1%BC%E8%A1%A8%E6%83%85%23&t=31&band_rank=5&Refer=top)<br />
 6. [林志玲泳装](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%97%E7%8E%B2%E6%B3%B3%E8%A3%85%23&t=31&band_rank=6&Refer=top)<br />
-7. [男子健身房内去世前向私教求救](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%81%A5%E8%BA%AB%E6%88%BF%E5%86%85%E5%8E%BB%E4%B8%96%E5%89%8D%E5%90%91%E7%A7%81%E6%95%99%E6%B1%82%E6%95%91%23&t=31&band_rank=7&Refer=top)<br />
-8. [四级答案](https://s.weibo.com/weibo?q=%E5%9B%9B%E7%BA%A7%E7%AD%94%E6%A1%88&t=31&band_rank=8&Refer=top)<br />
+7. [四级答案](https://s.weibo.com/weibo?q=%E5%9B%9B%E7%BA%A7%E7%AD%94%E6%A1%88&t=31&band_rank=7&Refer=top)<br />
+8. [男子健身房内去世前向私教求救](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%81%A5%E8%BA%AB%E6%88%BF%E5%86%85%E5%8E%BB%E4%B8%96%E5%89%8D%E5%90%91%E7%A7%81%E6%95%99%E6%B1%82%E6%95%91%23&t=31&band_rank=8&Refer=top)<br />
 9. [同事付费坐我老公的车上下班](https://s.weibo.com/weibo?q=%23%E5%90%8C%E4%BA%8B%E4%BB%98%E8%B4%B9%E5%9D%90%E6%88%91%E8%80%81%E5%85%AC%E7%9A%84%E8%BD%A6%E4%B8%8A%E4%B8%8B%E7%8F%AD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -17,11 +17,11 @@
 1. [发改委表示将「增加低收入者收入，探索促进居民增收有效路径」，将带来哪些影响？有哪些具体可行措施？](https://www.zhihu.com/question/606939579)<br />
 2. [张雪峰回应高校新闻学教授质疑，称「选专业就要选适合自己的，能让自己吃上饭的」，如何看待双方争议？](https://www.zhihu.com/question/606983081)<br />
 3. [哈佛医学院曝惊天丑闻，员工偷尸体卖器官，600 美元可买两张脸，包裹用快递寄出，如何看待此事？](https://www.zhihu.com/question/606917409)<br />
-4. [美光科技将在西安封测工厂投资逾 43 亿元，收购当地一半导体公司封装设备，商业上如何解读此举？](https://www.zhihu.com/question/607000886)<br />
+4. [三国演义当中吕布害怕张飞吗？](https://www.zhihu.com/question/596865384)<br />
 5. [女朋友说要冷静两个礼拜，这期间我要不要找她聊天，还是断联？](https://www.zhihu.com/question/606352502)<br />
-6. [三国演义当中吕布害怕张飞吗？](https://www.zhihu.com/question/596865384)<br />
+6. [为什么化学有很多例外？](https://www.zhihu.com/question/606580471)<br />
 7. [张雪峰表示「要将报新闻学的孩子打晕」，高校教授回应「新闻专业能文能武」，你认可哪方观点，新传专业如何？](https://www.zhihu.com/question/606948855)<br />
-8. [为什么化学有很多例外？](https://www.zhihu.com/question/606580471)<br />
+8. [美光科技将在西安封测工厂投资逾 43 亿元，收购当地一半导体公司封装设备，商业上如何解读此举？](https://www.zhihu.com/question/607000886)<br />
 9. [如果能回到高考那年，你会重新选择专业吗？](https://www.zhihu.com/question/605656777)<br />
 
 > 百度  
