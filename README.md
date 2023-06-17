@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 12:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 12:59:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [张雪峰称我离被人搞不远了](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E7%A7%B0%E6%88%91%E7%A6%BB%E8%A2%AB%E4%BA%BA%E6%90%9E%E4%B8%8D%E8%BF%9C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [135名中考生身份证被洪水冲走](https://www.baidu.com/s?wd=135%E5%90%8D%E4%B8%AD%E8%80%83%E7%94%9F%E8%BA%AB%E4%BB%BD%E8%AF%81%E8%A2%AB%E6%B4%AA%E6%B0%B4%E5%86%B2%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [深圳邮局海关查获秘鲁巨人蜈蚣](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E9%82%AE%E5%B1%80%E6%B5%B7%E5%85%B3%E6%9F%A5%E8%8E%B7%E7%A7%98%E9%B2%81%E5%B7%A8%E4%BA%BA%E8%9C%88%E8%9A%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子健身房内去世前向私教求救](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%A5%E8%BA%AB%E6%88%BF%E5%86%85%E5%8E%BB%E4%B8%96%E5%89%8D%E5%90%91%E7%A7%81%E6%95%99%E6%B1%82%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [河南汝南2人疑被杀 嫌犯落网](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E6%B1%9D%E5%8D%972%E4%BA%BA%E7%96%91%E8%A2%AB%E6%9D%80+%E5%AB%8C%E7%8A%AF%E8%90%BD%E7%BD%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [张雪峰称我离被人搞不远了](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E7%A7%B0%E6%88%91%E7%A6%BB%E8%A2%AB%E4%BA%BA%E6%90%9E%E4%B8%8D%E8%BF%9C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [135名中考生身份证被洪水冲走](https://www.baidu.com/s?wd=135%E5%90%8D%E4%B8%AD%E8%80%83%E7%94%9F%E8%BA%AB%E4%BB%BD%E8%AF%81%E8%A2%AB%E6%B4%AA%E6%B0%B4%E5%86%B2%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [深圳邮局海关查获秘鲁巨人蜈蚣](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E9%82%AE%E5%B1%80%E6%B5%B7%E5%85%B3%E6%9F%A5%E8%8E%B7%E7%A7%98%E9%B2%81%E5%B7%A8%E4%BA%BA%E8%9C%88%E8%9A%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子健身房内去世前向私教求救](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%A5%E8%BA%AB%E6%88%BF%E5%86%85%E5%8E%BB%E4%B8%96%E5%89%8D%E5%90%91%E7%A7%81%E6%95%99%E6%B1%82%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [河南汝南2人疑被杀 嫌犯落网](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E6%B1%9D%E5%8D%972%E4%BA%BA%E7%96%91%E8%A2%AB%E6%9D%80+%E5%AB%8C%E7%8A%AF%E8%90%BD%E7%BD%91&sa=fyb_news&rsv_dl=fyb_news)<br />
