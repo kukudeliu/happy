@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 23:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 23:10:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [一颗老鼠头为何要省级调查组才能查清](https://s.weibo.com/weibo?q=%23%E4%B8%80%E9%A2%97%E8%80%81%E9%BC%A0%E5%A4%B4%E4%B8%BA%E4%BD%95%E8%A6%81%E7%9C%81%E7%BA%A7%E8%B0%83%E6%9F%A5%E7%BB%84%E6%89%8D%E8%83%BD%E6%9F%A5%E6%B8%85%23&t=31&band_rank=5&Refer=top)<br />
 6. [黄渤上半身vs下半身](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%B8%A4%E4%B8%8A%E5%8D%8A%E8%BA%ABvs%E4%B8%8B%E5%8D%8A%E8%BA%AB%23&t=31&band_rank=6&Refer=top)<br />
 7. [解说毛毛](https://s.weibo.com/weibo?q=%E8%A7%A3%E8%AF%B4%E6%AF%9B%E6%AF%9B&t=31&band_rank=7&Refer=top)<br />
-8. [六级](https://s.weibo.com/weibo?q=%E5%85%AD%E7%BA%A7&t=31&band_rank=8&Refer=top)<br />
-9. [长风渡定档](https://s.weibo.com/weibo?q=%E9%95%BF%E9%A3%8E%E6%B8%A1%E5%AE%9A%E6%A1%A3&t=31&band_rank=9&Refer=top)<br />
+8. [榜一大哥是我爸](https://s.weibo.com/weibo?q=%23%E6%A6%9C%E4%B8%80%E5%A4%A7%E5%93%A5%E6%98%AF%E6%88%91%E7%88%B8%23&t=31&band_rank=8&Refer=top)<br />
+9. [六级](https://s.weibo.com/weibo?q=%E5%85%AD%E7%BA%A7&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [福州一母子被洒落沥青烫伤身亡，涉事车辆超载 25 倍，运输公司多次上「黑榜」，涉事方将受到什么处罚？](https://www.zhihu.com/question/607112600)<br />
 7. [在农村，为何有人专门高价收购五年以上的老母鸡？](https://www.zhihu.com/question/421033694)<br />
 8. []()<br />
-9. [多地新一轮汽车消费补贴密集出炉，深圳南山最高可领现金补贴 3.3 万，对车企和消费者有何利好？](https://www.zhihu.com/question/607125662)<br />
+9. [同事老是把他的活儿推给我做，怎么拒绝都没用，怎么办？](https://www.zhihu.com/question/605396997)<br />
 
 > 百度  
 
