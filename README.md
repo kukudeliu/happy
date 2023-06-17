@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 13:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 13:27:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [张雪峰 我离被人搞不远了](https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%AA%E5%B3%B0%20%E6%88%91%E7%A6%BB%E8%A2%AB%E4%BA%BA%E6%90%9E%E4%B8%8D%E8%BF%9C%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [陈宏军居然出轨了](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%AE%8F%E5%86%9B%E5%B1%85%E7%84%B6%E5%87%BA%E8%BD%A8%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [迪丽热巴照片有热带鱼表情](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%85%A7%E7%89%87%E6%9C%89%E7%83%AD%E5%B8%A6%E9%B1%BC%E8%A1%A8%E6%83%85%23&t=31&band_rank=8&Refer=top)<br />
-9. [男子受托帮接小孩未接上致孩子溺亡](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%8F%97%E6%89%98%E5%B8%AE%E6%8E%A5%E5%B0%8F%E5%AD%A9%E6%9C%AA%E6%8E%A5%E4%B8%8A%E8%87%B4%E5%AD%A9%E5%AD%90%E6%BA%BA%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
+9. [为何鼠头曾被认定为鸭脖](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BD%95%E9%BC%A0%E5%A4%B4%E6%9B%BE%E8%A2%AB%E8%AE%A4%E5%AE%9A%E4%B8%BA%E9%B8%AD%E8%84%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -21,8 +21,8 @@
 5. [哈佛医学院曝惊天丑闻，员工偷尸体卖器官，600 美元可买两张脸，包裹用快递寄出，如何看待此事？](https://www.zhihu.com/question/606917409)<br />
 6. [男子跨省为他人取快递被发现内含毒品，案件重审后再次被判无期，如何从法律角度解读？](https://www.zhihu.com/question/607104424)<br />
 7. [张雪峰表示「要将报新闻学的孩子打晕」，高校教授回应「新闻专业能文能武」，你认可哪方观点，新传专业如何？](https://www.zhihu.com/question/606948855)<br />
-8. [除了佛系青年、斜杠青年，你生活中有遇到过竹系青年吗？](https://www.zhihu.com/question/606852683)<br />
-9. [福州一母子被洒落沥青烫伤身亡，涉事车辆超载 25 倍，运输公司多次上「黑榜」，涉事方将受到什么处罚？](https://www.zhihu.com/question/607112600)<br />
+8. [福州一母子被洒落沥青烫伤身亡，涉事车辆超载 25 倍，运输公司多次上「黑榜」，涉事方将受到什么处罚？](https://www.zhihu.com/question/607112600)<br />
+9. [除了佛系青年、斜杠青年，你生活中有遇到过竹系青年吗？](https://www.zhihu.com/question/606852683)<br />
 
 > 百度  
 
