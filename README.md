@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 05:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 05:58:01</h4></div>
 
 > 微博  
 
@@ -20,8 +20,8 @@
 4. [单位聚餐，你刚坐下领导就说「小王你还没资格坐我旁边」，如何高情商回答？](https://www.zhihu.com/question/606620590)<br />
 5. []()<br />
 6. [「保交楼」这一年，官方并未披露烂尾楼数量，有些地方成果明显，相当多的地方仍在拉锯，为何保交楼陷入困局？](https://www.zhihu.com/question/607125175)<br />
-7. []()<br />
-8. [男子跨省为他人取快递被发现内含毒品，案件重审后再次被判无期，如何从法律角度解读？](https://www.zhihu.com/question/607104424)<br />
+7. [男子跨省为他人取快递被发现内含毒品，案件重审后再次被判无期，如何从法律角度解读？](https://www.zhihu.com/question/607104424)<br />
+8. []()<br />
 9. []()<br />
 
 > 百度  
@@ -34,7 +34,7 @@
 6. [跳河救人小哥说大家给我的太多了](https://www.baidu.com/s?wd=%E8%B7%B3%E6%B2%B3%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E8%AF%B4%E5%A4%A7%E5%AE%B6%E7%BB%99%E6%88%91%E7%9A%84%E5%A4%AA%E5%A4%9A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女生称没穿内衣取外卖被骑手骚扰](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E7%A7%B0%E6%B2%A1%E7%A9%BF%E5%86%85%E8%A1%A3%E5%8F%96%E5%A4%96%E5%8D%96%E8%A2%AB%E9%AA%91%E6%89%8B%E9%AA%9A%E6%89%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [德国发现3000年前青铜剑](https://www.baidu.com/s?wd=%E5%BE%B7%E5%9B%BD%E5%8F%91%E7%8E%B03000%E5%B9%B4%E5%89%8D%E9%9D%92%E9%93%9C%E5%89%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [洗米华写信揭狱中生活](https://www.baidu.com/s?wd=%E6%B4%97%E7%B1%B3%E5%8D%8E%E5%86%99%E4%BF%A1%E6%8F%AD%E7%8B%B1%E4%B8%AD%E7%94%9F%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子骑车手扶帽子头部着地身亡](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%AA%91%E8%BD%A6%E6%89%8B%E6%89%B6%E5%B8%BD%E5%AD%90%E5%A4%B4%E9%83%A8%E7%9D%80%E5%9C%B0%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [跳河救人小哥说大家给我的太多了](https://www.baidu.com/s?wd=%E8%B7%B3%E6%B2%B3%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E8%AF%B4%E5%A4%A7%E5%AE%B6%E7%BB%99%E6%88%91%E7%9A%84%E5%A4%AA%E5%A4%9A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女生称没穿内衣取外卖被骑手骚扰](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E7%A7%B0%E6%B2%A1%E7%A9%BF%E5%86%85%E8%A1%A3%E5%8F%96%E5%A4%96%E5%8D%96%E8%A2%AB%E9%AA%91%E6%89%8B%E9%AA%9A%E6%89%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [德国发现3000年前青铜剑](https://www.baidu.com/s?wd=%E5%BE%B7%E5%9B%BD%E5%8F%91%E7%8E%B03000%E5%B9%B4%E5%89%8D%E9%9D%92%E9%93%9C%E5%89%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [洗米华写信揭狱中生活](https://www.baidu.com/s?wd=%E6%B4%97%E7%B1%B3%E5%8D%8E%E5%86%99%E4%BF%A1%E6%8F%AD%E7%8B%B1%E4%B8%AD%E7%94%9F%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子骑车手扶帽子头部着地身亡](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%AA%91%E8%BD%A6%E6%89%8B%E6%89%B6%E5%B8%BD%E5%AD%90%E5%A4%B4%E9%83%A8%E7%9D%80%E5%9C%B0%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
