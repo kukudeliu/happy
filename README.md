@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 15:01:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 15:02:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [张雪峰 我离被人搞不远了](https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%AA%E5%B3%B0%20%E6%88%91%E7%A6%BB%E8%A2%AB%E4%BA%BA%E6%90%9E%E4%B8%8D%E8%BF%9C%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [四级](https://s.weibo.com/weibo?q=%E5%9B%9B%E7%BA%A7&t=31&band_rank=7&Refer=top)<br />
 8. [迪丽热巴照片有热带鱼表情](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%85%A7%E7%89%87%E6%9C%89%E7%83%AD%E5%B8%A6%E9%B1%BC%E8%A1%A8%E6%83%85%23&t=31&band_rank=8&Refer=top)<br />
-9. [还以为杨紫关晓彤在吵架](https://s.weibo.com/weibo?q=%23%E8%BF%98%E4%BB%A5%E4%B8%BA%E6%9D%A8%E7%B4%AB%E5%85%B3%E6%99%93%E5%BD%A4%E5%9C%A8%E5%90%B5%E6%9E%B6%23&t=31&band_rank=9&Refer=top)<br />
+9. [备孕前千万记得拔智齿](https://s.weibo.com/weibo?q=%23%E5%A4%87%E5%AD%95%E5%89%8D%E5%8D%83%E4%B8%87%E8%AE%B0%E5%BE%97%E6%8B%94%E6%99%BA%E9%BD%BF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -33,8 +33,8 @@
 5. [张雪峰称我离被人搞不远了](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E7%A7%B0%E6%88%91%E7%A6%BB%E8%A2%AB%E4%BA%BA%E6%90%9E%E4%B8%8D%E8%BF%9C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [人不在学校却被抬到校长面前拨穗](https://www.baidu.com/s?wd=%E4%BA%BA%E4%B8%8D%E5%9C%A8%E5%AD%A6%E6%A0%A1%E5%8D%B4%E8%A2%AB%E6%8A%AC%E5%88%B0%E6%A0%A1%E9%95%BF%E9%9D%A2%E5%89%8D%E6%8B%A8%E7%A9%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [135名中考生身份证被洪水冲走](https://www.baidu.com/s?wd=135%E5%90%8D%E4%B8%AD%E8%80%83%E7%94%9F%E8%BA%AB%E4%BB%BD%E8%AF%81%E8%A2%AB%E6%B4%AA%E6%B0%B4%E5%86%B2%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子0.6折买36件衣服 网店拒发货](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%900.6%E6%8A%98%E4%B9%B036%E4%BB%B6%E8%A1%A3%E6%9C%8D+%E7%BD%91%E5%BA%97%E6%8B%92%E5%8F%91%E8%B4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [洗米华写信揭狱中生活](https://www.baidu.com/s?wd=%E6%B4%97%E7%B1%B3%E5%8D%8E%E5%86%99%E4%BF%A1%E6%8F%AD%E7%8B%B1%E4%B8%AD%E7%94%9F%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [洗米华写信揭狱中生活](https://www.baidu.com/s?wd=%E6%B4%97%E7%B1%B3%E5%8D%8E%E5%86%99%E4%BF%A1%E6%8F%AD%E7%8B%B1%E4%B8%AD%E7%94%9F%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子0.6折买36件衣服 网店拒发货](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%900.6%E6%8A%98%E4%B9%B036%E4%BB%B6%E8%A1%A3%E6%9C%8D+%E7%BD%91%E5%BA%97%E6%8B%92%E5%8F%91%E8%B4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [张雪峰称我离被人搞不远了](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E7%A7%B0%E6%88%91%E7%A6%BB%E8%A2%AB%E4%BA%BA%E6%90%9E%E4%B8%8D%E8%BF%9C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [人不在学校却被抬到校长面前拨穗](https://www.baidu.com/s?wd=%E4%BA%BA%E4%B8%8D%E5%9C%A8%E5%AD%A6%E6%A0%A1%E5%8D%B4%E8%A2%AB%E6%8A%AC%E5%88%B0%E6%A0%A1%E9%95%BF%E9%9D%A2%E5%89%8D%E6%8B%A8%E7%A9%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [135名中考生身份证被洪水冲走](https://www.baidu.com/s?wd=135%E5%90%8D%E4%B8%AD%E8%80%83%E7%94%9F%E8%BA%AB%E4%BB%BD%E8%AF%81%E8%A2%AB%E6%B4%AA%E6%B0%B4%E5%86%B2%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子0.6折买36件衣服 网店拒发货](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%900.6%E6%8A%98%E4%B9%B036%E4%BB%B6%E8%A1%A3%E6%9C%8D+%E7%BD%91%E5%BA%97%E6%8B%92%E5%8F%91%E8%B4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [洗米华写信揭狱中生活](https://www.baidu.com/s?wd=%E6%B4%97%E7%B1%B3%E5%8D%8E%E5%86%99%E4%BF%A1%E6%8F%AD%E7%8B%B1%E4%B8%AD%E7%94%9F%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [洗米华写信揭狱中生活](https://www.baidu.com/s?wd=%E6%B4%97%E7%B1%B3%E5%8D%8E%E5%86%99%E4%BF%A1%E6%8F%AD%E7%8B%B1%E4%B8%AD%E7%94%9F%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子0.6折买36件衣服 网店拒发货](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%900.6%E6%8A%98%E4%B9%B036%E4%BB%B6%E8%A1%A3%E6%9C%8D+%E7%BD%91%E5%BA%97%E6%8B%92%E5%8F%91%E8%B4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
