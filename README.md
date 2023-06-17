@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 19:20:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 19:21:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [普京称俄罗斯 2023 年 4 月 GDP 同比增长 3.3%，为何俄遭西方制裁却仍能保持经济增长？](https://www.zhihu.com/question/607051685)<br />
 7. [2023 上半年四六级开考，考试体验如何，哪些题目印象深刻？](https://www.zhihu.com/question/607122232)<br />
 8. [开水白菜算不算一个故弄玄虚的菜？](https://www.zhihu.com/question/487255017)<br />
-9. [为什么蜘蛛侠反抗命运而闪电侠选择了接受？](https://www.zhihu.com/question/606552144)<br />
+9. [「保交楼」这一年，官方并未披露烂尾楼数量，有些地方成果明显，相当多的地方仍在拉锯，为何保交楼陷入困局？](https://www.zhihu.com/question/607125175)<br />
 
 > 百度  
 
