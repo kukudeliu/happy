@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 09:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 09:10:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [为什么很多网友都说电脑用 5 年左右就该换了？](https://www.zhihu.com/question/521171582)<br />
 7. [你有没有一瞬间不想打篮球了？](https://www.zhihu.com/question/456341403)<br />
 8. [特斯拉发布视频公开「电机的秘密」，视频中暗讽造车新势力只做 「冰箱彩电大沙发」，如何看待此视频？](https://www.zhihu.com/question/606771603)<br />
-9. [欧委会称将不再采购华为中兴设备，外交部称「有罪推定，坚决反对」，如何看待此事？](https://www.zhihu.com/question/606961996)<br />
+9. [如果高考能重来，你会怎么做让自己不留遗憾？](https://www.zhihu.com/question/606812063)<br />
 
 > 百度  
 
