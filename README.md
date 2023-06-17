@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 15:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 15:47:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [张雪峰称我离被人搞不远了](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E7%A7%B0%E6%88%91%E7%A6%BB%E8%A2%AB%E4%BA%BA%E6%90%9E%E4%B8%8D%E8%BF%9C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子中大奖墓地摆200桌酒席还愿](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%AD%E5%A4%A7%E5%A5%96%E5%A2%93%E5%9C%B0%E6%91%86200%E6%A1%8C%E9%85%92%E5%B8%AD%E8%BF%98%E6%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子受托帮接小孩未接上致孩子溺亡](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%8F%97%E6%89%98%E5%B8%AE%E6%8E%A5%E5%B0%8F%E5%AD%A9%E6%9C%AA%E6%8E%A5%E4%B8%8A%E8%87%B4%E5%AD%A9%E5%AD%90%E6%BA%BA%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [人不在学校却被抬到校长面前拨穗](https://www.baidu.com/s?wd=%E4%BA%BA%E4%B8%8D%E5%9C%A8%E5%AD%A6%E6%A0%A1%E5%8D%B4%E8%A2%AB%E6%8A%AC%E5%88%B0%E6%A0%A1%E9%95%BF%E9%9D%A2%E5%89%8D%E6%8B%A8%E7%A9%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [15人因西北第一高塔等违建被问责](https://www.baidu.com/s?wd=15%E4%BA%BA%E5%9B%A0%E8%A5%BF%E5%8C%97%E7%AC%AC%E4%B8%80%E9%AB%98%E5%A1%94%E7%AD%89%E8%BF%9D%E5%BB%BA%E8%A2%AB%E9%97%AE%E8%B4%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子骑车手扶帽子头部着地身亡](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%AA%91%E8%BD%A6%E6%89%8B%E6%89%B6%E5%B8%BD%E5%AD%90%E5%A4%B4%E9%83%A8%E7%9D%80%E5%9C%B0%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [人不在学校却被抬到校长面前拨穗](https://www.baidu.com/s?wd=%E4%BA%BA%E4%B8%8D%E5%9C%A8%E5%AD%A6%E6%A0%A1%E5%8D%B4%E8%A2%AB%E6%8A%AC%E5%88%B0%E6%A0%A1%E9%95%BF%E9%9D%A2%E5%89%8D%E6%8B%A8%E7%A9%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [张雪峰称我离被人搞不远了](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E7%A7%B0%E6%88%91%E7%A6%BB%E8%A2%AB%E4%BA%BA%E6%90%9E%E4%B8%8D%E8%BF%9C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子中大奖墓地摆200桌酒席还愿](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%AD%E5%A4%A7%E5%A5%96%E5%A2%93%E5%9C%B0%E6%91%86200%E6%A1%8C%E9%85%92%E5%B8%AD%E8%BF%98%E6%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子受托帮接小孩未接上致孩子溺亡](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%8F%97%E6%89%98%E5%B8%AE%E6%8E%A5%E5%B0%8F%E5%AD%A9%E6%9C%AA%E6%8E%A5%E4%B8%8A%E8%87%B4%E5%AD%A9%E5%AD%90%E6%BA%BA%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [人不在学校却被抬到校长面前拨穗](https://www.baidu.com/s?wd=%E4%BA%BA%E4%B8%8D%E5%9C%A8%E5%AD%A6%E6%A0%A1%E5%8D%B4%E8%A2%AB%E6%8A%AC%E5%88%B0%E6%A0%A1%E9%95%BF%E9%9D%A2%E5%89%8D%E6%8B%A8%E7%A9%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [15人因西北第一高塔等违建被问责](https://www.baidu.com/s?wd=15%E4%BA%BA%E5%9B%A0%E8%A5%BF%E5%8C%97%E7%AC%AC%E4%B8%80%E9%AB%98%E5%A1%94%E7%AD%89%E8%BF%9D%E5%BB%BA%E8%A2%AB%E9%97%AE%E8%B4%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子骑车手扶帽子头部着地身亡](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%AA%91%E8%BD%A6%E6%89%8B%E6%89%B6%E5%B8%BD%E5%AD%90%E5%A4%B4%E9%83%A8%E7%9D%80%E5%9C%B0%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [人不在学校却被抬到校长面前拨穗](https://www.baidu.com/s?wd=%E4%BA%BA%E4%B8%8D%E5%9C%A8%E5%AD%A6%E6%A0%A1%E5%8D%B4%E8%A2%AB%E6%8A%AC%E5%88%B0%E6%A0%A1%E9%95%BF%E9%9D%A2%E5%89%8D%E6%8B%A8%E7%A9%97&sa=fyb_news&rsv_dl=fyb_news)<br />
