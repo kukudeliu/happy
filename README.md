@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 12:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 12:29:01</h4></div>
 
 > 微博  
 
 1. [四级](https://s.weibo.com/weibo?q=%E5%9B%9B%E7%BA%A7&t=31&band_rank=1&Refer=top)<br />
 2. [四级作文](https://s.weibo.com/weibo?q=%E5%9B%9B%E7%BA%A7%E4%BD%9C%E6%96%87&t=31&band_rank=2&Refer=top)<br />
 3. [硬核科技铺就万桥飞架新坦途](https://s.weibo.com/weibo?q=%23%E7%A1%AC%E6%A0%B8%E7%A7%91%E6%8A%80%E9%93%BA%E5%B0%B1%E4%B8%87%E6%A1%A5%E9%A3%9E%E6%9E%B6%E6%96%B0%E5%9D%A6%E9%80%94%23&t=31&band_rank=3&Refer=top)<br />
-4. [四级翻译 难](https://s.weibo.com/weibo?q=%E5%9B%9B%E7%BA%A7%E7%BF%BB%E8%AF%91%20%E9%9A%BE&t=31&band_rank=4&Refer=top)<br />
-5. [迪丽热巴照片有热带鱼表情](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%85%A7%E7%89%87%E6%9C%89%E7%83%AD%E5%B8%A6%E9%B1%BC%E8%A1%A8%E6%83%85%23&t=31&band_rank=5&Refer=top)<br />
+4. [迪丽热巴照片有热带鱼表情](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%85%A7%E7%89%87%E6%9C%89%E7%83%AD%E5%B8%A6%E9%B1%BC%E8%A1%A8%E6%83%85%23&t=31&band_rank=4&Refer=top)<br />
+5. [四级翻译 难](https://s.weibo.com/weibo?q=%E5%9B%9B%E7%BA%A7%E7%BF%BB%E8%AF%91%20%E9%9A%BE&t=31&band_rank=5&Refer=top)<br />
 6. [张雪峰 我离被人搞不远了](https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%AA%E5%B3%B0%20%E6%88%91%E7%A6%BB%E8%A2%AB%E4%BA%BA%E6%90%9E%E4%B8%8D%E8%BF%9C%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [四级答案](https://s.weibo.com/weibo?q=%E5%9B%9B%E7%BA%A7%E7%AD%94%E6%A1%88&t=31&band_rank=7&Refer=top)<br />
 8. [男子受托帮接小孩未接上致孩子溺亡](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%8F%97%E6%89%98%E5%B8%AE%E6%8E%A5%E5%B0%8F%E5%AD%A9%E6%9C%AA%E6%8E%A5%E4%B8%8A%E8%87%B4%E5%AD%A9%E5%AD%90%E6%BA%BA%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
