@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 11:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 12:00:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [四级作文](https://s.weibo.com/weibo?q=%E5%9B%9B%E7%BA%A7%E4%BD%9C%E6%96%87&t=31&band_rank=2&Refer=top)<br />
 3. [硬核科技铺就万桥飞架新坦途](https://s.weibo.com/weibo?q=%23%E7%A1%AC%E6%A0%B8%E7%A7%91%E6%8A%80%E9%93%BA%E5%B0%B1%E4%B8%87%E6%A1%A5%E9%A3%9E%E6%9E%B6%E6%96%B0%E5%9D%A6%E9%80%94%23&t=31&band_rank=3&Refer=top)<br />
 4. [张雪峰 我离被人搞不远了](https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%AA%E5%B3%B0%20%E6%88%91%E7%A6%BB%E8%A2%AB%E4%BA%BA%E6%90%9E%E4%B8%8D%E8%BF%9C%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
-5. [四六级](https://s.weibo.com/weibo?q=%E5%9B%9B%E5%85%AD%E7%BA%A7&t=31&band_rank=5&Refer=top)<br />
-6. [四级翻译 难](https://s.weibo.com/weibo?q=%E5%9B%9B%E7%BA%A7%E7%BF%BB%E8%AF%91%20%E9%9A%BE&t=31&band_rank=6&Refer=top)<br />
+5. [四级翻译 难](https://s.weibo.com/weibo?q=%E5%9B%9B%E7%BA%A7%E7%BF%BB%E8%AF%91%20%E9%9A%BE&t=31&band_rank=5&Refer=top)<br />
+6. [四六级](https://s.weibo.com/weibo?q=%E5%9B%9B%E5%85%AD%E7%BA%A7&t=31&band_rank=6&Refer=top)<br />
 7. [四级答案](https://s.weibo.com/weibo?q=%E5%9B%9B%E7%BA%A7%E7%AD%94%E6%A1%88&t=31&band_rank=7&Refer=top)<br />
 8. [迪丽热巴照片有热带鱼表情](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%85%A7%E7%89%87%E6%9C%89%E7%83%AD%E5%B8%A6%E9%B1%BC%E8%A1%A8%E6%83%85%23&t=31&band_rank=8&Refer=top)<br />
 9. [六级翻译](https://s.weibo.com/weibo?q=%E5%85%AD%E7%BA%A7%E7%BF%BB%E8%AF%91&t=31&band_rank=9&Refer=top)<br />
@@ -34,7 +34,7 @@
 6. [女子0.6折买36件衣服 网店拒发货](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%900.6%E6%8A%98%E4%B9%B036%E4%BB%B6%E8%A1%A3%E6%9C%8D+%E7%BD%91%E5%BA%97%E6%8B%92%E5%8F%91%E8%B4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子健身房内去世前向私教求救](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%A5%E8%BA%AB%E6%88%BF%E5%86%85%E5%8E%BB%E4%B8%96%E5%89%8D%E5%90%91%E7%A7%81%E6%95%99%E6%B1%82%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女子深夜当街被男子狂扇10多分钟](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%B7%B1%E5%A4%9C%E5%BD%93%E8%A1%97%E8%A2%AB%E7%94%B7%E5%AD%90%E7%8B%82%E6%89%8710%E5%A4%9A%E5%88%86%E9%92%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [沥青车事故遇难母子家属：没人道歉](https://www.baidu.com/s?wd=%E6%B2%A5%E9%9D%92%E8%BD%A6%E4%BA%8B%E6%95%85%E9%81%87%E9%9A%BE%E6%AF%8D%E5%AD%90%E5%AE%B6%E5%B1%9E%EF%BC%9A%E6%B2%A1%E4%BA%BA%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [陈乔恩被青蛙求婚](https://www.baidu.com/s?wd=%E9%99%88%E4%B9%94%E6%81%A9%E8%A2%AB%E9%9D%92%E8%9B%99%E6%B1%82%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [女子0.6折买36件衣服 网店拒发货](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%900.6%E6%8A%98%E4%B9%B036%E4%BB%B6%E8%A1%A3%E6%9C%8D+%E7%BD%91%E5%BA%97%E6%8B%92%E5%8F%91%E8%B4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子健身房内去世前向私教求救](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%A5%E8%BA%AB%E6%88%BF%E5%86%85%E5%8E%BB%E4%B8%96%E5%89%8D%E5%90%91%E7%A7%81%E6%95%99%E6%B1%82%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女子深夜当街被男子狂扇10多分钟](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%B7%B1%E5%A4%9C%E5%BD%93%E8%A1%97%E8%A2%AB%E7%94%B7%E5%AD%90%E7%8B%82%E6%89%8710%E5%A4%9A%E5%88%86%E9%92%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [沥青车事故遇难母子家属：没人道歉](https://www.baidu.com/s?wd=%E6%B2%A5%E9%9D%92%E8%BD%A6%E4%BA%8B%E6%95%85%E9%81%87%E9%9A%BE%E6%AF%8D%E5%AD%90%E5%AE%B6%E5%B1%9E%EF%BC%9A%E6%B2%A1%E4%BA%BA%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [陈乔恩被青蛙求婚](https://www.baidu.com/s?wd=%E9%99%88%E4%B9%94%E6%81%A9%E8%A2%AB%E9%9D%92%E8%9B%99%E6%B1%82%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
