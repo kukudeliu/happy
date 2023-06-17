@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 09:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 09:57:01</h4></div>
 
 > 微博  
 
@@ -9,16 +9,16 @@
 5. [床垫上的保护膜到底用不用撕](https://s.weibo.com/weibo?q=%23%E5%BA%8A%E5%9E%AB%E4%B8%8A%E7%9A%84%E4%BF%9D%E6%8A%A4%E8%86%9C%E5%88%B0%E5%BA%95%E7%94%A8%E4%B8%8D%E7%94%A8%E6%92%95%23&t=31&band_rank=5&Refer=top)<br />
 6. [迪丽热巴真发了100多张自拍](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9C%9F%E5%8F%91%E4%BA%86100%E5%A4%9A%E5%BC%A0%E8%87%AA%E6%8B%8D%23&t=31&band_rank=6&Refer=top)<br />
 7. [秋瓷炫 我不是不要脸](https://s.weibo.com/weibo?q=%E7%A7%8B%E7%93%B7%E7%82%AB%20%E6%88%91%E4%B8%8D%E6%98%AF%E4%B8%8D%E8%A6%81%E8%84%B8&t=31&band_rank=7&Refer=top)<br />
-8. [水哥家的生态系统有多惊人](https://s.weibo.com/weibo?q=%23%E6%B0%B4%E5%93%A5%E5%AE%B6%E7%9A%84%E7%94%9F%E6%80%81%E7%B3%BB%E7%BB%9F%E6%9C%89%E5%A4%9A%E6%83%8A%E4%BA%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [王宝强八角笼中首波口碑](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%9D%E5%BC%BA%E5%85%AB%E8%A7%92%E7%AC%BC%E4%B8%AD%E9%A6%96%E6%B3%A2%E5%8F%A3%E7%A2%91%23&t=31&band_rank=9&Refer=top)<br />
+8. [王宝强八角笼中首波口碑](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%9D%E5%BC%BA%E5%85%AB%E8%A7%92%E7%AC%BC%E4%B8%AD%E9%A6%96%E6%B3%A2%E5%8F%A3%E7%A2%91%23&t=31&band_rank=8&Refer=top)<br />
+9. [水哥家的生态系统有多惊人](https://s.weibo.com/weibo?q=%23%E6%B0%B4%E5%93%A5%E5%AE%B6%E7%9A%84%E7%94%9F%E6%80%81%E7%B3%BB%E7%BB%9F%E6%9C%89%E5%A4%9A%E6%83%8A%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [哈佛医学院曝惊天丑闻，员工偷尸体卖器官，600 美元可买两张脸，包裹用快递寄出，如何看待此事？](https://www.zhihu.com/question/606917409)<br />
 2. [发改委表示将「增加低收入者收入，探索促进居民增收有效路径」，将带来哪些影响？有哪些具体可行措施？](https://www.zhihu.com/question/606939579)<br />
-3. [马斯克和比尔盖茨等掀起「访华潮」，如何看待外企高管们纷纷到访中国？会带来哪些利好？](https://www.zhihu.com/question/606763754)<br />
+3. [张雪峰表示「要将报新闻学的孩子打晕」，高校教授回应「新闻专业能文能武」，你认可哪方观点，新传专业如何？](https://www.zhihu.com/question/606948855)<br />
 4. [美光科技将在西安封测工厂投资逾 43 亿元，收购当地一半导体公司封装设备，商业上如何解读此举？](https://www.zhihu.com/question/607000886)<br />
-5. [张雪峰表示「要将报新闻学的孩子打晕」，高校教授回应「新闻专业能文能武」，你认可哪方观点，新传专业如何？](https://www.zhihu.com/question/606948855)<br />
+5. [马斯克和比尔盖茨等掀起「访华潮」，如何看待外企高管们纷纷到访中国？会带来哪些利好？](https://www.zhihu.com/question/606763754)<br />
 6. [女朋友说要冷静两个礼拜，这期间我要不要找她聊天，还是断联？](https://www.zhihu.com/question/606352502)<br />
 7. []()<br />
 8. [如果《魔兽争霸 3》暗夜的白虎大招改为施展期间内白虎无敌，白虎首发率会不会提高很多？](https://www.zhihu.com/question/606640534)<br />
