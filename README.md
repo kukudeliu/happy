@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 21:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 21:09:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [Angelababy 求求了给我脚趾p个美甲](https://s.weibo.com/weibo?q=Angelababy%20%E6%B1%82%E6%B1%82%E4%BA%86%E7%BB%99%E6%88%91%E8%84%9A%E8%B6%BEp%E4%B8%AA%E7%BE%8E%E7%94%B2&t=31&band_rank=4&Refer=top)<br />
 5. [帮男朋友洗6年没有洗过的脏辫](https://s.weibo.com/weibo?q=%E5%B8%AE%E7%94%B7%E6%9C%8B%E5%8F%8B%E6%B4%976%E5%B9%B4%E6%B2%A1%E6%9C%89%E6%B4%97%E8%BF%87%E7%9A%84%E8%84%8F%E8%BE%AB&t=31&band_rank=5&Refer=top)<br />
 6. [六级](https://s.weibo.com/weibo?q=%E5%85%AD%E7%BA%A7&t=31&band_rank=6&Refer=top)<br />
-7. [美国32岁男子让3个儿子站成一排枪杀](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD32%E5%B2%81%E7%94%B7%E5%AD%90%E8%AE%A93%E4%B8%AA%E5%84%BF%E5%AD%90%E7%AB%99%E6%88%90%E4%B8%80%E6%8E%92%E6%9E%AA%E6%9D%80%23&t=31&band_rank=7&Refer=top)<br />
-8. [一颗老鼠头为何要省级调查组才能查清](https://s.weibo.com/weibo?q=%23%E4%B8%80%E9%A2%97%E8%80%81%E9%BC%A0%E5%A4%B4%E4%B8%BA%E4%BD%95%E8%A6%81%E7%9C%81%E7%BA%A7%E8%B0%83%E6%9F%A5%E7%BB%84%E6%89%8D%E8%83%BD%E6%9F%A5%E6%B8%85%23&t=31&band_rank=8&Refer=top)<br />
-9. [LNG战胜EDG](https://s.weibo.com/weibo?q=%23LNG%E6%88%98%E8%83%9CEDG%23&t=31&band_rank=9&Refer=top)<br />
+7. [LNG战胜EDG](https://s.weibo.com/weibo?q=%23LNG%E6%88%98%E8%83%9CEDG%23&t=31&band_rank=7&Refer=top)<br />
+8. [美国32岁男子让3个儿子站成一排枪杀](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD32%E5%B2%81%E7%94%B7%E5%AD%90%E8%AE%A93%E4%B8%AA%E5%84%BF%E5%AD%90%E7%AB%99%E6%88%90%E4%B8%80%E6%8E%92%E6%9E%AA%E6%9D%80%23&t=31&band_rank=8&Refer=top)<br />
+9. [胡歌大鹏影帝双黄蛋](https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E5%A4%A7%E9%B9%8F%E5%BD%B1%E5%B8%9D%E5%8F%8C%E9%BB%84%E8%9B%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -21,8 +21,8 @@
 5. [在农村，为何有人专门高价收购五年以上的老母鸡？](https://www.zhihu.com/question/421033694)<br />
 6. [福州一母子被洒落沥青烫伤身亡，涉事车辆超载 25 倍，运输公司多次上「黑榜」，涉事方将受到什么处罚？](https://www.zhihu.com/question/607112600)<br />
 7. [单位聚餐，你刚坐下领导就说「小王你还没资格坐我旁边」，如何高情商回答？](https://www.zhihu.com/question/606620590)<br />
-8. [如何评价 2023 年上海中考？](https://www.zhihu.com/question/599405158)<br />
-9. [2023 LPL 夏季赛 Uzi 复出首败，LNG 2:0 击败 EDG，如何评价这场比赛？](https://www.zhihu.com/question/607163339)<br />
+8. [2023 LPL 夏季赛 Uzi 复出首败，LNG 2:0 击败 EDG，如何评价这场比赛？](https://www.zhihu.com/question/607163339)<br />
+9. [如何看待第一届烂柯杯决赛，辜梓豪让一追二战胜申真谞，取得个人国际大赛第二冠？](https://www.zhihu.com/question/607154196)<br />
 
 > 百度  
 
@@ -31,8 +31,8 @@
 3. [广州一龙舟队全是富婆？当地：事实](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E4%B8%80%E9%BE%99%E8%88%9F%E9%98%9F%E5%85%A8%E6%98%AF%E5%AF%8C%E5%A9%86%EF%BC%9F%E5%BD%93%E5%9C%B0%EF%BC%9A%E4%BA%8B%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [从“千万工程”到“万千蝶变”](https://www.baidu.com/s?wd=%E4%BB%8E%E2%80%9C%E5%8D%83%E4%B8%87%E5%B7%A5%E7%A8%8B%E2%80%9D%E5%88%B0%E2%80%9C%E4%B8%87%E5%8D%83%E8%9D%B6%E5%8F%98%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子买1根牛肉干店员偷塞5根的量](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B9%B01%E6%A0%B9%E7%89%9B%E8%82%89%E5%B9%B2%E5%BA%97%E5%91%98%E5%81%B7%E5%A1%9E5%E6%A0%B9%E7%9A%84%E9%87%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [官方全面审查校长猥亵残障女学生案](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%85%A8%E9%9D%A2%E5%AE%A1%E6%9F%A5%E6%A0%A1%E9%95%BF%E7%8C%A5%E4%BA%B5%E6%AE%8B%E9%9A%9C%E5%A5%B3%E5%AD%A6%E7%94%9F%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [郑业成往车窗外乱丢烟头](https://www.baidu.com/s?wd=%E9%83%91%E4%B8%9A%E6%88%90%E5%BE%80%E8%BD%A6%E7%AA%97%E5%A4%96%E4%B9%B1%E4%B8%A2%E7%83%9F%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [郑业成往车窗外乱丢烟头](https://www.baidu.com/s?wd=%E9%83%91%E4%B8%9A%E6%88%90%E5%BE%80%E8%BD%A6%E7%AA%97%E5%A4%96%E4%B9%B1%E4%B8%A2%E7%83%9F%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [绝味鸭脖称终于沉冤得雪](https://www.baidu.com/s?wd=%E7%BB%9D%E5%91%B3%E9%B8%AD%E8%84%96%E7%A7%B0%E7%BB%88%E4%BA%8E%E6%B2%89%E5%86%A4%E5%BE%97%E9%9B%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [双黄蛋！胡歌大鹏获上海电影节影帝](https://www.baidu.com/s?wd=%E5%8F%8C%E9%BB%84%E8%9B%8B%EF%BC%81%E8%83%A1%E6%AD%8C%E5%A4%A7%E9%B9%8F%E8%8E%B7%E4%B8%8A%E6%B5%B7%E7%94%B5%E5%BD%B1%E8%8A%82%E5%BD%B1%E5%B8%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [618惠选潮电节 AI种草潮流数码电器](https://www.baidu.com/s?wd=618%E6%83%A0%E9%80%89%E6%BD%AE%E7%94%B5%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -43,7 +43,7 @@
 3. [广州一龙舟队全是富婆？当地：事实](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E4%B8%80%E9%BE%99%E8%88%9F%E9%98%9F%E5%85%A8%E6%98%AF%E5%AF%8C%E5%A9%86%EF%BC%9F%E5%BD%93%E5%9C%B0%EF%BC%9A%E4%BA%8B%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [从“千万工程”到“万千蝶变”](https://www.baidu.com/s?wd=%E4%BB%8E%E2%80%9C%E5%8D%83%E4%B8%87%E5%B7%A5%E7%A8%8B%E2%80%9D%E5%88%B0%E2%80%9C%E4%B8%87%E5%8D%83%E8%9D%B6%E5%8F%98%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子买1根牛肉干店员偷塞5根的量](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B9%B01%E6%A0%B9%E7%89%9B%E8%82%89%E5%B9%B2%E5%BA%97%E5%91%98%E5%81%B7%E5%A1%9E5%E6%A0%B9%E7%9A%84%E9%87%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [官方全面审查校长猥亵残障女学生案](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%85%A8%E9%9D%A2%E5%AE%A1%E6%9F%A5%E6%A0%A1%E9%95%BF%E7%8C%A5%E4%BA%B5%E6%AE%8B%E9%9A%9C%E5%A5%B3%E5%AD%A6%E7%94%9F%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [郑业成往车窗外乱丢烟头](https://www.baidu.com/s?wd=%E9%83%91%E4%B8%9A%E6%88%90%E5%BE%80%E8%BD%A6%E7%AA%97%E5%A4%96%E4%B9%B1%E4%B8%A2%E7%83%9F%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [郑业成往车窗外乱丢烟头](https://www.baidu.com/s?wd=%E9%83%91%E4%B8%9A%E6%88%90%E5%BE%80%E8%BD%A6%E7%AA%97%E5%A4%96%E4%B9%B1%E4%B8%A2%E7%83%9F%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [绝味鸭脖称终于沉冤得雪](https://www.baidu.com/s?wd=%E7%BB%9D%E5%91%B3%E9%B8%AD%E8%84%96%E7%A7%B0%E7%BB%88%E4%BA%8E%E6%B2%89%E5%86%A4%E5%BE%97%E9%9B%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [双黄蛋！胡歌大鹏获上海电影节影帝](https://www.baidu.com/s?wd=%E5%8F%8C%E9%BB%84%E8%9B%8B%EF%BC%81%E8%83%A1%E6%AD%8C%E5%A4%A7%E9%B9%8F%E8%8E%B7%E4%B8%8A%E6%B5%B7%E7%94%B5%E5%BD%B1%E8%8A%82%E5%BD%B1%E5%B8%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [618惠选潮电节 AI种草潮流数码电器](https://www.baidu.com/s?wd=618%E6%83%A0%E9%80%89%E6%BD%AE%E7%94%B5%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
