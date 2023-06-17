@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 02:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 02:19:01</h4></div>
 
 > 微博  
 
@@ -31,10 +31,10 @@
 3. [胡歌大鹏影帝双黄蛋](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E5%A4%A7%E9%B9%8F%E5%BD%B1%E5%B8%9D%E5%8F%8C%E9%BB%84%E8%9B%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [稳产保丰 小麦主产区有这些举措](https://www.baidu.com/s?wd=%E7%A8%B3%E4%BA%A7%E4%BF%9D%E4%B8%B0+%E5%B0%8F%E9%BA%A6%E4%B8%BB%E4%BA%A7%E5%8C%BA%E6%9C%89%E8%BF%99%E4%BA%9B%E4%B8%BE%E6%8E%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [广州一龙舟队全是富婆？当地：事实](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E4%B8%80%E9%BE%99%E8%88%9F%E9%98%9F%E5%85%A8%E6%98%AF%E5%AF%8C%E5%A9%86%EF%BC%9F%E5%BD%93%E5%9C%B0%EF%BC%9A%E4%BA%8B%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [看龙舟被燃到头皮发麻谁懂啊](https://www.baidu.com/s?wd=%E7%9C%8B%E9%BE%99%E8%88%9F%E8%A2%AB%E7%87%83%E5%88%B0%E5%A4%B4%E7%9A%AE%E5%8F%91%E9%BA%BB%E8%B0%81%E6%87%82%E5%95%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [黄渤上半身vs下半身](https://www.baidu.com/s?wd=%E9%BB%84%E6%B8%A4%E4%B8%8A%E5%8D%8A%E8%BA%ABvs%E4%B8%8B%E5%8D%8A%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [日本因贪腐丑闻丧失冬奥申办机会](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%9B%A0%E8%B4%AA%E8%85%90%E4%B8%91%E9%97%BB%E4%B8%A7%E5%A4%B1%E5%86%AC%E5%A5%A5%E7%94%B3%E5%8A%9E%E6%9C%BA%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女球迷曝梅西见面会价格等于一辆车](https://www.baidu.com/s?wd=%E5%A5%B3%E7%90%83%E8%BF%B7%E6%9B%9D%E6%A2%85%E8%A5%BF%E8%A7%81%E9%9D%A2%E4%BC%9A%E4%BB%B7%E6%A0%BC%E7%AD%89%E4%BA%8E%E4%B8%80%E8%BE%86%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [精神病人持刀砍伤数十人？警方回应](https://www.baidu.com/s?wd=%E7%B2%BE%E7%A5%9E%E7%97%85%E4%BA%BA%E6%8C%81%E5%88%80%E7%A0%8D%E4%BC%A4%E6%95%B0%E5%8D%81%E4%BA%BA%EF%BC%9F%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [看龙舟被燃到头皮发麻谁懂啊](https://www.baidu.com/s?wd=%E7%9C%8B%E9%BE%99%E8%88%9F%E8%A2%AB%E7%87%83%E5%88%B0%E5%A4%B4%E7%9A%AE%E5%8F%91%E9%BA%BB%E8%B0%81%E6%87%82%E5%95%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [黄渤上半身vs下半身](https://www.baidu.com/s?wd=%E9%BB%84%E6%B8%A4%E4%B8%8A%E5%8D%8A%E8%BA%ABvs%E4%B8%8B%E5%8D%8A%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [“韩国楼市要崩”恐慌情绪蔓延](https://www.baidu.com/s?wd=%E2%80%9C%E9%9F%A9%E5%9B%BD%E6%A5%BC%E5%B8%82%E8%A6%81%E5%B4%A9%E2%80%9D%E6%81%90%E6%85%8C%E6%83%85%E7%BB%AA%E8%94%93%E5%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [胡歌大鹏影帝双黄蛋](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E5%A4%A7%E9%B9%8F%E5%BD%B1%E5%B8%9D%E5%8F%8C%E9%BB%84%E8%9B%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [稳产保丰 小麦主产区有这些举措](https://www.baidu.com/s?wd=%E7%A8%B3%E4%BA%A7%E4%BF%9D%E4%B8%B0+%E5%B0%8F%E9%BA%A6%E4%B8%BB%E4%BA%A7%E5%8C%BA%E6%9C%89%E8%BF%99%E4%BA%9B%E4%B8%BE%E6%8E%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [广州一龙舟队全是富婆？当地：事实](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E4%B8%80%E9%BE%99%E8%88%9F%E9%98%9F%E5%85%A8%E6%98%AF%E5%AF%8C%E5%A9%86%EF%BC%9F%E5%BD%93%E5%9C%B0%EF%BC%9A%E4%BA%8B%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [看龙舟被燃到头皮发麻谁懂啊](https://www.baidu.com/s?wd=%E7%9C%8B%E9%BE%99%E8%88%9F%E8%A2%AB%E7%87%83%E5%88%B0%E5%A4%B4%E7%9A%AE%E5%8F%91%E9%BA%BB%E8%B0%81%E6%87%82%E5%95%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [黄渤上半身vs下半身](https://www.baidu.com/s?wd=%E9%BB%84%E6%B8%A4%E4%B8%8A%E5%8D%8A%E8%BA%ABvs%E4%B8%8B%E5%8D%8A%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [日本因贪腐丑闻丧失冬奥申办机会](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%9B%A0%E8%B4%AA%E8%85%90%E4%B8%91%E9%97%BB%E4%B8%A7%E5%A4%B1%E5%86%AC%E5%A5%A5%E7%94%B3%E5%8A%9E%E6%9C%BA%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女球迷曝梅西见面会价格等于一辆车](https://www.baidu.com/s?wd=%E5%A5%B3%E7%90%83%E8%BF%B7%E6%9B%9D%E6%A2%85%E8%A5%BF%E8%A7%81%E9%9D%A2%E4%BC%9A%E4%BB%B7%E6%A0%BC%E7%AD%89%E4%BA%8E%E4%B8%80%E8%BE%86%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [精神病人持刀砍伤数十人？警方回应](https://www.baidu.com/s?wd=%E7%B2%BE%E7%A5%9E%E7%97%85%E4%BA%BA%E6%8C%81%E5%88%80%E7%A0%8D%E4%BC%A4%E6%95%B0%E5%8D%81%E4%BA%BA%EF%BC%9F%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [看龙舟被燃到头皮发麻谁懂啊](https://www.baidu.com/s?wd=%E7%9C%8B%E9%BE%99%E8%88%9F%E8%A2%AB%E7%87%83%E5%88%B0%E5%A4%B4%E7%9A%AE%E5%8F%91%E9%BA%BB%E8%B0%81%E6%87%82%E5%95%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [黄渤上半身vs下半身](https://www.baidu.com/s?wd=%E9%BB%84%E6%B8%A4%E4%B8%8A%E5%8D%8A%E8%BA%ABvs%E4%B8%8B%E5%8D%8A%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [“韩国楼市要崩”恐慌情绪蔓延](https://www.baidu.com/s?wd=%E2%80%9C%E9%9F%A9%E5%9B%BD%E6%A5%BC%E5%B8%82%E8%A6%81%E5%B4%A9%E2%80%9D%E6%81%90%E6%85%8C%E6%83%85%E7%BB%AA%E8%94%93%E5%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
