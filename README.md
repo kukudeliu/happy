@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 06:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 06:03:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. []()<br />
 6. []()<br />
 7. []()<br />
-8. [男子跨省为他人取快递被发现内含毒品，案件重审后再次被判无期，如何从法律角度解读？](https://www.zhihu.com/question/607104424)<br />
-9. [2023 LPL 夏季赛 Uzi 复出首败，LNG 2:0 击败 EDG，如何评价这场比赛？](https://www.zhihu.com/question/607163339)<br />
+8. [2023 LPL 夏季赛 Uzi 复出首败，LNG 2:0 击败 EDG，如何评价这场比赛？](https://www.zhihu.com/question/607163339)<br />
+9. [男子跨省为他人取快递被发现内含毒品，案件重审后再次被判无期，如何从法律角度解读？](https://www.zhihu.com/question/607104424)<br />
 
 > 百度  
 
