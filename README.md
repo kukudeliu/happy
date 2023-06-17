@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 00:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 00:02:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [榜一大哥是我爸](https://s.weibo.com/weibo?q=%23%E6%A6%9C%E4%B8%80%E5%A4%A7%E5%93%A5%E6%98%AF%E6%88%91%E7%88%B8%23&t=31&band_rank=6&Refer=top)<br />
 7. [端午公司发了3颗荔枝](https://s.weibo.com/weibo?q=%23%E7%AB%AF%E5%8D%88%E5%85%AC%E5%8F%B8%E5%8F%91%E4%BA%863%E9%A2%97%E8%8D%94%E6%9E%9D%23&t=31&band_rank=7&Refer=top)<br />
 8. [谢娜 她她她](https://s.weibo.com/weibo?q=%E8%B0%A2%E5%A8%9C%20%E5%A5%B9%E5%A5%B9%E5%A5%B9&t=31&band_rank=8&Refer=top)<br />
-9. [解说毛毛](https://s.weibo.com/weibo?q=%E8%A7%A3%E8%AF%B4%E6%AF%9B%E6%AF%9B&t=31&band_rank=9&Refer=top)<br />
+9. [jkl](https://s.weibo.com/weibo?q=jkl&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
