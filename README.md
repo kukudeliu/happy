@@ -1,14 +1,14 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 23:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 23:35:02</h4></div>
 
 > 微博  
 
 1. [萧敬腾方报警检测自证清白](https://s.weibo.com/weibo?q=%23%E8%90%A7%E6%95%AC%E8%85%BE%E6%96%B9%E6%8A%A5%E8%AD%A6%E6%A3%80%E6%B5%8B%E8%87%AA%E8%AF%81%E6%B8%85%E7%99%BD%23&t=31&band_rank=1&Refer=top)<br />
 2. [胡歌大鹏影帝双黄蛋](https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E5%A4%A7%E9%B9%8F%E5%BD%B1%E5%B8%9D%E5%8F%8C%E9%BB%84%E8%9B%8B%23&t=31&band_rank=2&Refer=top)<br />
 3. [卫星视角看中国治沙奇迹](https://s.weibo.com/weibo?q=%23%E5%8D%AB%E6%98%9F%E8%A7%86%E8%A7%92%E7%9C%8B%E4%B8%AD%E5%9B%BD%E6%B2%BB%E6%B2%99%E5%A5%87%E8%BF%B9%23&t=31&band_rank=3&Refer=top)<br />
-4. [一颗老鼠头为何要省级调查组才能查清](https://s.weibo.com/weibo?q=%23%E4%B8%80%E9%A2%97%E8%80%81%E9%BC%A0%E5%A4%B4%E4%B8%BA%E4%BD%95%E8%A6%81%E7%9C%81%E7%BA%A7%E8%B0%83%E6%9F%A5%E7%BB%84%E6%89%8D%E8%83%BD%E6%9F%A5%E6%B8%85%23&t=31&band_rank=4&Refer=top)<br />
-5. [帮男朋友洗6年没有洗过的脏辫](https://s.weibo.com/weibo?q=%E5%B8%AE%E7%94%B7%E6%9C%8B%E5%8F%8B%E6%B4%976%E5%B9%B4%E6%B2%A1%E6%9C%89%E6%B4%97%E8%BF%87%E7%9A%84%E8%84%8F%E8%BE%AB&t=31&band_rank=5&Refer=top)<br />
-6. [榜一大哥是我爸](https://s.weibo.com/weibo?q=%23%E6%A6%9C%E4%B8%80%E5%A4%A7%E5%93%A5%E6%98%AF%E6%88%91%E7%88%B8%23&t=31&band_rank=6&Refer=top)<br />
-7. [谢娜 她她她](https://s.weibo.com/weibo?q=%E8%B0%A2%E5%A8%9C%20%E5%A5%B9%E5%A5%B9%E5%A5%B9&t=31&band_rank=7&Refer=top)<br />
+4. [帮男朋友洗6年没有洗过的脏辫](https://s.weibo.com/weibo?q=%E5%B8%AE%E7%94%B7%E6%9C%8B%E5%8F%8B%E6%B4%976%E5%B9%B4%E6%B2%A1%E6%9C%89%E6%B4%97%E8%BF%87%E7%9A%84%E8%84%8F%E8%BE%AB&t=31&band_rank=4&Refer=top)<br />
+5. [一颗老鼠头为何要省级调查组才能查清](https://s.weibo.com/weibo?q=%23%E4%B8%80%E9%A2%97%E8%80%81%E9%BC%A0%E5%A4%B4%E4%B8%BA%E4%BD%95%E8%A6%81%E7%9C%81%E7%BA%A7%E8%B0%83%E6%9F%A5%E7%BB%84%E6%89%8D%E8%83%BD%E6%9F%A5%E6%B8%85%23&t=31&band_rank=5&Refer=top)<br />
+6. [谢娜 她她她](https://s.weibo.com/weibo?q=%E8%B0%A2%E5%A8%9C%20%E5%A5%B9%E5%A5%B9%E5%A5%B9&t=31&band_rank=6&Refer=top)<br />
+7. [榜一大哥是我爸](https://s.weibo.com/weibo?q=%23%E6%A6%9C%E4%B8%80%E5%A4%A7%E5%93%A5%E6%98%AF%E6%88%91%E7%88%B8%23&t=31&band_rank=7&Refer=top)<br />
 8. [解说毛毛](https://s.weibo.com/weibo?q=%E8%A7%A3%E8%AF%B4%E6%AF%9B%E6%AF%9B&t=31&band_rank=8&Refer=top)<br />
 9. [黄渤上半身vs下半身](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%B8%A4%E4%B8%8A%E5%8D%8A%E8%BA%ABvs%E4%B8%8B%E5%8D%8A%E8%BA%AB%23&t=31&band_rank=9&Refer=top)<br />
 
@@ -34,7 +34,7 @@
 6. [黄渤上半身vs下半身](https://www.baidu.com/s?wd=%E9%BB%84%E6%B8%A4%E4%B8%8A%E5%8D%8A%E8%BA%ABvs%E4%B8%8B%E5%8D%8A%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [今年“蒸煮模式”咋提前了?专家解读](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E2%80%9C%E8%92%B8%E7%85%AE%E6%A8%A1%E5%BC%8F%E2%80%9D%E5%92%8B%E6%8F%90%E5%89%8D%E4%BA%86%3F%E4%B8%93%E5%AE%B6%E8%A7%A3%E8%AF%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [郑业成往车窗外乱丢烟头](https://www.baidu.com/s?wd=%E9%83%91%E4%B8%9A%E6%88%90%E5%BE%80%E8%BD%A6%E7%AA%97%E5%A4%96%E4%B9%B1%E4%B8%A2%E7%83%9F%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [今年首个废除限售政策的城市出现了](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E9%A6%96%E4%B8%AA%E5%BA%9F%E9%99%A4%E9%99%90%E5%94%AE%E6%94%BF%E7%AD%96%E7%9A%84%E5%9F%8E%E5%B8%82%E5%87%BA%E7%8E%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子买1根牛肉干店员偷塞5根的量](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B9%B01%E6%A0%B9%E7%89%9B%E8%82%89%E5%B9%B2%E5%BA%97%E5%91%98%E5%81%B7%E5%A1%9E5%E6%A0%B9%E7%9A%84%E9%87%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [黄渤上半身vs下半身](https://www.baidu.com/s?wd=%E9%BB%84%E6%B8%A4%E4%B8%8A%E5%8D%8A%E8%BA%ABvs%E4%B8%8B%E5%8D%8A%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [今年“蒸煮模式”咋提前了?专家解读](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E2%80%9C%E8%92%B8%E7%85%AE%E6%A8%A1%E5%BC%8F%E2%80%9D%E5%92%8B%E6%8F%90%E5%89%8D%E4%BA%86%3F%E4%B8%93%E5%AE%B6%E8%A7%A3%E8%AF%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [郑业成往车窗外乱丢烟头](https://www.baidu.com/s?wd=%E9%83%91%E4%B8%9A%E6%88%90%E5%BE%80%E8%BD%A6%E7%AA%97%E5%A4%96%E4%B9%B1%E4%B8%A2%E7%83%9F%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [今年首个废除限售政策的城市出现了](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E9%A6%96%E4%B8%AA%E5%BA%9F%E9%99%A4%E9%99%90%E5%94%AE%E6%94%BF%E7%AD%96%E7%9A%84%E5%9F%8E%E5%B8%82%E5%87%BA%E7%8E%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子买1根牛肉干店员偷塞5根的量](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B9%B01%E6%A0%B9%E7%89%9B%E8%82%89%E5%B9%B2%E5%BA%97%E5%91%98%E5%81%B7%E5%A1%9E5%E6%A0%B9%E7%9A%84%E9%87%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
