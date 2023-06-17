@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 17:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 17:43:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [杨幂盘发梦回晴川](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E7%9B%98%E5%8F%91%E6%A2%A6%E5%9B%9E%E6%99%B4%E5%B7%9D&t=31&band_rank=4&Refer=top)<br />
 5. [Jennie是前一天爬山太累了吗](https://s.weibo.com/weibo?q=%23Jennie%E6%98%AF%E5%89%8D%E4%B8%80%E5%A4%A9%E7%88%AC%E5%B1%B1%E5%A4%AA%E7%B4%AF%E4%BA%86%E5%90%97%23&t=31&band_rank=5&Refer=top)<br />
 6. [长风渡定档](https://s.weibo.com/weibo?q=%E9%95%BF%E9%A3%8E%E6%B8%A1%E5%AE%9A%E6%A1%A3&t=31&band_rank=6&Refer=top)<br />
-7. [一颗老鼠头为何要省级调查组才能查清](https://s.weibo.com/weibo?q=%23%E4%B8%80%E9%A2%97%E8%80%81%E9%BC%A0%E5%A4%B4%E4%B8%BA%E4%BD%95%E8%A6%81%E7%9C%81%E7%BA%A7%E8%B0%83%E6%9F%A5%E7%BB%84%E6%89%8D%E8%83%BD%E6%9F%A5%E6%B8%85%23&t=31&band_rank=7&Refer=top)<br />
-8. [黑莲花 虞书欣丁禹兮](https://s.weibo.com/weibo?q=%E9%BB%91%E8%8E%B2%E8%8A%B1%20%E8%99%9E%E4%B9%A6%E6%AC%A3%E4%B8%81%E7%A6%B9%E5%85%AE&t=31&band_rank=8&Refer=top)<br />
-9. [张雪峰 我离被人搞不远了](https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%AA%E5%B3%B0%20%E6%88%91%E7%A6%BB%E8%A2%AB%E4%BA%BA%E6%90%9E%E4%B8%8D%E8%BF%9C%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+7. [黑莲花 虞书欣丁禹兮](https://s.weibo.com/weibo?q=%E9%BB%91%E8%8E%B2%E8%8A%B1%20%E8%99%9E%E4%B9%A6%E6%AC%A3%E4%B8%81%E7%A6%B9%E5%85%AE&t=31&band_rank=7&Refer=top)<br />
+8. [张雪峰 我离被人搞不远了](https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%AA%E5%B3%B0%20%E6%88%91%E7%A6%BB%E8%A2%AB%E4%BA%BA%E6%90%9E%E4%B8%8D%E8%BF%9C%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
+9. [小S澄清叶舒华双面人争议](https://s.weibo.com/weibo?q=%23%E5%B0%8FS%E6%BE%84%E6%B8%85%E5%8F%B6%E8%88%92%E5%8D%8E%E5%8F%8C%E9%9D%A2%E4%BA%BA%E4%BA%89%E8%AE%AE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [普京称俄罗斯 2023 年 4 月 GDP 同比增长 3.3%，为何俄遭西方制裁却仍能保持经济增长？](https://www.zhihu.com/question/607051685)<br />
 7. [《红楼梦》的林黛玉和《水浒传》的李逵互换性格，会发生什么？](https://www.zhihu.com/question/556009337)<br />
 8. [汽车长期静置不用，有什么安全隐患需要注意吗？](https://www.zhihu.com/question/605219932)<br />
-9. [考研学习效率低怎么办?](https://www.zhihu.com/question/599501287)<br />
+9. [开水白菜算不算一个故弄玄虚的菜？](https://www.zhihu.com/question/487255017)<br />
 
 > 百度  
 
