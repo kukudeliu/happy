@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 13:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 13:38:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [张雪峰 我离被人搞不远了](https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%AA%E5%B3%B0%20%E6%88%91%E7%A6%BB%E8%A2%AB%E4%BA%BA%E6%90%9E%E4%B8%8D%E8%BF%9C%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [陈宏军居然出轨了](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%AE%8F%E5%86%9B%E5%B1%85%E7%84%B6%E5%87%BA%E8%BD%A8%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [迪丽热巴照片有热带鱼表情](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%85%A7%E7%89%87%E6%9C%89%E7%83%AD%E5%B8%A6%E9%B1%BC%E8%A1%A8%E6%83%85%23&t=31&band_rank=8&Refer=top)<br />
-9. [男子受托帮接小孩未接上致孩子溺亡](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%8F%97%E6%89%98%E5%B8%AE%E6%8E%A5%E5%B0%8F%E5%AD%A9%E6%9C%AA%E6%8E%A5%E4%B8%8A%E8%87%B4%E5%AD%A9%E5%AD%90%E6%BA%BA%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
+9. [鼠头鸭脖事件院校删除此前声明](https://s.weibo.com/weibo?q=%23%E9%BC%A0%E5%A4%B4%E9%B8%AD%E8%84%96%E4%BA%8B%E4%BB%B6%E9%99%A2%E6%A0%A1%E5%88%A0%E9%99%A4%E6%AD%A4%E5%89%8D%E5%A3%B0%E6%98%8E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -34,7 +34,7 @@
 6. [135名中考生身份证被洪水冲走](https://www.baidu.com/s?wd=135%E5%90%8D%E4%B8%AD%E8%80%83%E7%94%9F%E8%BA%AB%E4%BB%BD%E8%AF%81%E8%A2%AB%E6%B4%AA%E6%B0%B4%E5%86%B2%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [深圳邮局海关查获秘鲁巨人蜈蚣](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E9%82%AE%E5%B1%80%E6%B5%B7%E5%85%B3%E6%9F%A5%E8%8E%B7%E7%A7%98%E9%B2%81%E5%B7%A8%E4%BA%BA%E8%9C%88%E8%9A%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [新冠后得带状疱疹的人变多了？](https://www.baidu.com/s?wd=%E6%96%B0%E5%86%A0%E5%90%8E%E5%BE%97%E5%B8%A6%E7%8A%B6%E7%96%B1%E7%96%B9%E7%9A%84%E4%BA%BA%E5%8F%98%E5%A4%9A%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [陈乔恩被青蛙求婚](https://www.baidu.com/s?wd=%E9%99%88%E4%B9%94%E6%81%A9%E8%A2%AB%E9%9D%92%E8%9B%99%E6%B1%82%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子0.6折买36件衣服 网店拒发货](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%900.6%E6%8A%98%E4%B9%B036%E4%BB%B6%E8%A1%A3%E6%9C%8D+%E7%BD%91%E5%BA%97%E6%8B%92%E5%8F%91%E8%B4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [135名中考生身份证被洪水冲走](https://www.baidu.com/s?wd=135%E5%90%8D%E4%B8%AD%E8%80%83%E7%94%9F%E8%BA%AB%E4%BB%BD%E8%AF%81%E8%A2%AB%E6%B4%AA%E6%B0%B4%E5%86%B2%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [深圳邮局海关查获秘鲁巨人蜈蚣](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E9%82%AE%E5%B1%80%E6%B5%B7%E5%85%B3%E6%9F%A5%E8%8E%B7%E7%A7%98%E9%B2%81%E5%B7%A8%E4%BA%BA%E8%9C%88%E8%9A%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [新冠后得带状疱疹的人变多了？](https://www.baidu.com/s?wd=%E6%96%B0%E5%86%A0%E5%90%8E%E5%BE%97%E5%B8%A6%E7%8A%B6%E7%96%B1%E7%96%B9%E7%9A%84%E4%BA%BA%E5%8F%98%E5%A4%9A%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [陈乔恩被青蛙求婚](https://www.baidu.com/s?wd=%E9%99%88%E4%B9%94%E6%81%A9%E8%A2%AB%E9%9D%92%E8%9B%99%E6%B1%82%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子0.6折买36件衣服 网店拒发货](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%900.6%E6%8A%98%E4%B9%B036%E4%BB%B6%E8%A1%A3%E6%9C%8D+%E7%BD%91%E5%BA%97%E6%8B%92%E5%8F%91%E8%B4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
