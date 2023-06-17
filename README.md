@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 11:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 11:52:02</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [为什么化学有很多例外？](https://www.zhihu.com/question/606580471)<br />
 7. [张雪峰表示「要将报新闻学的孩子打晕」，高校教授回应「新闻专业能文能武」，你认可哪方观点，新传专业如何？](https://www.zhihu.com/question/606948855)<br />
 8. [如果能回到高考那年，你会重新选择专业吗？](https://www.zhihu.com/question/605656777)<br />
-9. [dota 什么样的英雄设计叫逻辑自洽？逻辑自洽的标准到底是什么?](https://www.zhihu.com/question/596351605)<br />
+9. []()<br />
 
 > 百度  
 
