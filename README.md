@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 05:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 05:25:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [jkl](https://s.weibo.com/weibo?q=jkl&t=31&band_rank=5&Refer=top)<br />
 6. [帮男朋友洗6年没有洗过的脏辫](https://s.weibo.com/weibo?q=%E5%B8%AE%E7%94%B7%E6%9C%8B%E5%8F%8B%E6%B4%976%E5%B9%B4%E6%B2%A1%E6%9C%89%E6%B4%97%E8%BF%87%E7%9A%84%E8%84%8F%E8%BE%AB&t=31&band_rank=6&Refer=top)<br />
 7. [端午公司发了3颗荔枝](https://s.weibo.com/weibo?q=%23%E7%AB%AF%E5%8D%88%E5%85%AC%E5%8F%B8%E5%8F%91%E4%BA%863%E9%A2%97%E8%8D%94%E6%9E%9D%23&t=31&band_rank=7&Refer=top)<br />
-8. [童瑶抹胸上挂了68把钥匙](https://s.weibo.com/weibo?q=%23%E7%AB%A5%E7%91%B6%E6%8A%B9%E8%83%B8%E4%B8%8A%E6%8C%82%E4%BA%8668%E6%8A%8A%E9%92%A5%E5%8C%99%23&t=31&band_rank=8&Refer=top)<br />
-9. [胡歌大鹏影帝双黄蛋](https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E5%A4%A7%E9%B9%8F%E5%BD%B1%E5%B8%9D%E5%8F%8C%E9%BB%84%E8%9B%8B%23&t=31&band_rank=9&Refer=top)<br />
+8. [胡歌大鹏影帝双黄蛋](https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E5%A4%A7%E9%B9%8F%E5%BD%B1%E5%B8%9D%E5%8F%8C%E9%BB%84%E8%9B%8B%23&t=31&band_rank=8&Refer=top)<br />
+9. [童瑶抹胸上挂了68把钥匙](https://s.weibo.com/weibo?q=%23%E7%AB%A5%E7%91%B6%E6%8A%B9%E8%83%B8%E4%B8%8A%E6%8C%82%E4%BA%8668%E6%8A%8A%E9%92%A5%E5%8C%99%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. []()<br />
 7. []()<br />
 8. [2023 LPL 夏季赛 Uzi 复出首败，LNG 2:0 击败 EDG，如何评价这场比赛？](https://www.zhihu.com/question/607163339)<br />
-9. [「保交楼」这一年，官方并未披露烂尾楼数量，有些地方成果明显，相当多的地方仍在拉锯，为何保交楼陷入困局？](https://www.zhihu.com/question/607125175)<br />
+9. [男子跨省为他人取快递被发现内含毒品，案件重审后再次被判无期，如何从法律角度解读？](https://www.zhihu.com/question/607104424)<br />
 
 > 百度  
 
