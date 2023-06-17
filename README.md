@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 19:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 19:44:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [夏日消费热起来助推经济火起来](https://s.weibo.com/weibo?q=%23%E5%A4%8F%E6%97%A5%E6%B6%88%E8%B4%B9%E7%83%AD%E8%B5%B7%E6%9D%A5%E5%8A%A9%E6%8E%A8%E7%BB%8F%E6%B5%8E%E7%81%AB%E8%B5%B7%E6%9D%A5%23&t=31&band_rank=3&Refer=top)<br />
 4. [Angelababy 求求了给我脚趾p个美甲](https://s.weibo.com/weibo?q=Angelababy%20%E6%B1%82%E6%B1%82%E4%BA%86%E7%BB%99%E6%88%91%E8%84%9A%E8%B6%BEp%E4%B8%AA%E7%BE%8E%E7%94%B2&t=31&band_rank=4&Refer=top)<br />
 5. [90后独腿司机跑货运月入过万](https://s.weibo.com/weibo?q=%2390%E5%90%8E%E7%8B%AC%E8%85%BF%E5%8F%B8%E6%9C%BA%E8%B7%91%E8%B4%A7%E8%BF%90%E6%9C%88%E5%85%A5%E8%BF%87%E4%B8%87%23&t=31&band_rank=5&Refer=top)<br />
-6. [轮到看大学生四六级笑话了](https://s.weibo.com/weibo?q=%E8%BD%AE%E5%88%B0%E7%9C%8B%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9B%9B%E5%85%AD%E7%BA%A7%E7%AC%91%E8%AF%9D%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
+6. [王一博让不出去的C位](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%AE%A9%E4%B8%8D%E5%87%BA%E5%8E%BB%E7%9A%84C%E4%BD%8D%23&t=31&band_rank=6&Refer=top)<br />
 7. [妈妈仨月疯狂减重20斤割肝救女](https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E4%BB%A8%E6%9C%88%E7%96%AF%E7%8B%82%E5%87%8F%E9%87%8D20%E6%96%A4%E5%89%B2%E8%82%9D%E6%95%91%E5%A5%B3%23&t=31&band_rank=7&Refer=top)<br />
-8. [王一博让不出去的C位](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%AE%A9%E4%B8%8D%E5%87%BA%E5%8E%BB%E7%9A%84C%E4%BD%8D%23&t=31&band_rank=8&Refer=top)<br />
+8. [轮到看大学生四六级笑话了](https://s.weibo.com/weibo?q=%E8%BD%AE%E5%88%B0%E7%9C%8B%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9B%9B%E5%85%AD%E7%BA%A7%E7%AC%91%E8%AF%9D%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
 9. [六级答案](https://s.weibo.com/weibo?q=%E5%85%AD%E7%BA%A7%E7%AD%94%E6%A1%88&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
