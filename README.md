@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 08:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 08:48:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [水哥家的生态系统有多惊人](https://s.weibo.com/weibo?q=%23%E6%B0%B4%E5%93%A5%E5%AE%B6%E7%9A%84%E7%94%9F%E6%80%81%E7%B3%BB%E7%BB%9F%E6%9C%89%E5%A4%9A%E6%83%8A%E4%BA%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [白鹿张凌赫](https://s.weibo.com/weibo?q=%E7%99%BD%E9%B9%BF%E5%BC%A0%E5%87%8C%E8%B5%AB&t=31&band_rank=7&Refer=top)<br />
 8. [你见过最完美的户型](https://s.weibo.com/weibo?q=%E4%BD%A0%E8%A7%81%E8%BF%87%E6%9C%80%E5%AE%8C%E7%BE%8E%E7%9A%84%E6%88%B7%E5%9E%8B&t=31&band_rank=8&Refer=top)<br />
-9. [我的猫把孩子生到洗衣机了](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E7%8C%AB%E6%8A%8A%E5%AD%A9%E5%AD%90%E7%94%9F%E5%88%B0%E6%B4%97%E8%A1%A3%E6%9C%BA%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [四六级](https://s.weibo.com/weibo?q=%E5%9B%9B%E5%85%AD%E7%BA%A7&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
