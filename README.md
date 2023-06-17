@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 20:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 20:30:01</h4></div>
 
 > 微博  
 
 1. [黄渤上半身vs下半身](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%B8%A4%E4%B8%8A%E5%8D%8A%E8%BA%ABvs%E4%B8%8B%E5%8D%8A%E8%BA%AB%23&t=31&band_rank=1&Refer=top)<br />
 2. [六级](https://s.weibo.com/weibo?q=%E5%85%AD%E7%BA%A7&t=31&band_rank=2&Refer=top)<br />
-3. [一颗老鼠头为何要省级调查组才能查清](https://s.weibo.com/weibo?q=%23%E4%B8%80%E9%A2%97%E8%80%81%E9%BC%A0%E5%A4%B4%E4%B8%BA%E4%BD%95%E8%A6%81%E7%9C%81%E7%BA%A7%E8%B0%83%E6%9F%A5%E7%BB%84%E6%89%8D%E8%83%BD%E6%9F%A5%E6%B8%85%23&t=31&band_rank=3&Refer=top)<br />
+3. [推动电子医保就医全流程应用](https://s.weibo.com/weibo?q=%23%E6%8E%A8%E5%8A%A8%E7%94%B5%E5%AD%90%E5%8C%BB%E4%BF%9D%E5%B0%B1%E5%8C%BB%E5%85%A8%E6%B5%81%E7%A8%8B%E5%BA%94%E7%94%A8%23&t=31&band_rank=3&Refer=top)<br />
 4. [Angelababy 求求了给我脚趾p个美甲](https://s.weibo.com/weibo?q=Angelababy%20%E6%B1%82%E6%B1%82%E4%BA%86%E7%BB%99%E6%88%91%E8%84%9A%E8%B6%BEp%E4%B8%AA%E7%BE%8E%E7%94%B2&t=31&band_rank=4&Refer=top)<br />
 5. [童瑶抹胸上挂了68把钥匙](https://s.weibo.com/weibo?q=%23%E7%AB%A5%E7%91%B6%E6%8A%B9%E8%83%B8%E4%B8%8A%E6%8C%82%E4%BA%8668%E6%8A%8A%E9%92%A5%E5%8C%99%23&t=31&band_rank=5&Refer=top)<br />
-6. [美国32岁男子让3个儿子站成一排枪杀](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD32%E5%B2%81%E7%94%B7%E5%AD%90%E8%AE%A93%E4%B8%AA%E5%84%BF%E5%AD%90%E7%AB%99%E6%88%90%E4%B8%80%E6%8E%92%E6%9E%AA%E6%9D%80%23&t=31&band_rank=6&Refer=top)<br />
-7. [长风渡定档](https://s.weibo.com/weibo?q=%E9%95%BF%E9%A3%8E%E6%B8%A1%E5%AE%9A%E6%A1%A3&t=31&band_rank=7&Refer=top)<br />
-8. [王一博让不出去的C位](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%AE%A9%E4%B8%8D%E5%87%BA%E5%8E%BB%E7%9A%84C%E4%BD%8D%23&t=31&band_rank=8&Refer=top)<br />
-9. [轮到看大学生四六级笑话了](https://s.weibo.com/weibo?q=%E8%BD%AE%E5%88%B0%E7%9C%8B%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9B%9B%E5%85%AD%E7%BA%A7%E7%AC%91%E8%AF%9D%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+6. [一颗老鼠头为何要省级调查组才能查清](https://s.weibo.com/weibo?q=%23%E4%B8%80%E9%A2%97%E8%80%81%E9%BC%A0%E5%A4%B4%E4%B8%BA%E4%BD%95%E8%A6%81%E7%9C%81%E7%BA%A7%E8%B0%83%E6%9F%A5%E7%BB%84%E6%89%8D%E8%83%BD%E6%9F%A5%E6%B8%85%23&t=31&band_rank=6&Refer=top)<br />
+7. [美国32岁男子让3个儿子站成一排枪杀](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD32%E5%B2%81%E7%94%B7%E5%AD%90%E8%AE%A93%E4%B8%AA%E5%84%BF%E5%AD%90%E7%AB%99%E6%88%90%E4%B8%80%E6%8E%92%E6%9E%AA%E6%9D%80%23&t=31&band_rank=7&Refer=top)<br />
+8. [长风渡定档](https://s.weibo.com/weibo?q=%E9%95%BF%E9%A3%8E%E6%B8%A1%E5%AE%9A%E6%A1%A3&t=31&band_rank=8&Refer=top)<br />
+9. [王一博让不出去的C位](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%AE%A9%E4%B8%8D%E5%87%BA%E5%8E%BB%E7%9A%84C%E4%BD%8D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -18,11 +18,11 @@
 2. [白岩松说很同情梅西到中国无法逛街，梅西回应「球队通常都这样，大部分时间都待在酒店」，如何看待此现象？](https://www.zhihu.com/question/607002376)<br />
 3. [男子跨省为他人取快递被发现内含毒品，案件重审后再次被判无期，如何从法律角度解读？](https://www.zhihu.com/question/607104424)<br />
 4. [张雪峰回应高校新闻学教授质疑，称「选专业就要选适合自己的，能让自己吃上饭的」，如何看待双方争议？](https://www.zhihu.com/question/606983081)<br />
-5. [开水白菜算不算一个故弄玄虚的菜？](https://www.zhihu.com/question/487255017)<br />
+5. [「保交楼」这一年，官方并未披露烂尾楼数量，有些地方成果明显，相当多的地方仍在拉锯，为何保交楼陷入困局？](https://www.zhihu.com/question/607125175)<br />
 6. [福州一母子被洒落沥青烫伤身亡，涉事车辆超载 25 倍，运输公司多次上「黑榜」，涉事方将受到什么处罚？](https://www.zhihu.com/question/607112600)<br />
-7. [「保交楼」这一年，官方并未披露烂尾楼数量，有些地方成果明显，相当多的地方仍在拉锯，为何保交楼陷入困局？](https://www.zhihu.com/question/607125175)<br />
+7. [开水白菜算不算一个故弄玄虚的菜？](https://www.zhihu.com/question/487255017)<br />
 8. [如何评价《崩坏：星穹铁道》中的银河公司被银狼侵入?](https://www.zhihu.com/question/607134236)<br />
-9. [在农村，为何有人专门高价收购五年以上的老母鸡？](https://www.zhihu.com/question/421033694)<br />
+9. [向传奇致敬！42 岁郑智正式退役，代表国足出战 108 场，打入 15 球，如何评价郑智的职业生涯？](https://www.zhihu.com/question/607062078)<br />
 
 > 百度  
 
