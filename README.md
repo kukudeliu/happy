@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 09:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 09:37:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [床垫上的保护膜到底用不用撕](https://s.weibo.com/weibo?q=%23%E5%BA%8A%E5%9E%AB%E4%B8%8A%E7%9A%84%E4%BF%9D%E6%8A%A4%E8%86%9C%E5%88%B0%E5%BA%95%E7%94%A8%E4%B8%8D%E7%94%A8%E6%92%95%23&t=31&band_rank=6&Refer=top)<br />
 7. [王宝强八角笼中首波口碑](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%9D%E5%BC%BA%E5%85%AB%E8%A7%92%E7%AC%BC%E4%B8%AD%E9%A6%96%E6%B3%A2%E5%8F%A3%E7%A2%91%23&t=31&band_rank=7&Refer=top)<br />
 8. [白鹿张凌赫](https://s.weibo.com/weibo?q=%E7%99%BD%E9%B9%BF%E5%BC%A0%E5%87%8C%E8%B5%AB&t=31&band_rank=8&Refer=top)<br />
-9. [水哥家的生态系统有多惊人](https://s.weibo.com/weibo?q=%23%E6%B0%B4%E5%93%A5%E5%AE%B6%E7%9A%84%E7%94%9F%E6%80%81%E7%B3%BB%E7%BB%9F%E6%9C%89%E5%A4%9A%E6%83%8A%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
+9. [秋瓷炫 我不是不要脸](https://s.weibo.com/weibo?q=%E7%A7%8B%E7%93%B7%E7%82%AB%20%E6%88%91%E4%B8%8D%E6%98%AF%E4%B8%8D%E8%A6%81%E8%84%B8&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [如果《魔兽争霸 3》暗夜的白虎大招改为施展期间内白虎无敌，白虎首发率会不会提高很多？](https://www.zhihu.com/question/606640534)<br />
 7. [怎么样才能气场强大？](https://www.zhihu.com/question/600428797)<br />
 8. [为什么很多网友都说电脑用 5 年左右就该换了？](https://www.zhihu.com/question/521171582)<br />
-9. [特斯拉发布视频公开「电机的秘密」，视频中暗讽造车新势力只做 「冰箱彩电大沙发」，如何看待此视频？](https://www.zhihu.com/question/606771603)<br />
+9. [如果高考能重来，你会怎么做让自己不留遗憾？](https://www.zhihu.com/question/606812063)<br />
 
 > 百度  
 
