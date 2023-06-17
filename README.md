@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 02:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 02:44:02</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [哪个瞬间你发现爸爸不再年轻](https://s.weibo.com/weibo?q=%23%E5%93%AA%E4%B8%AA%E7%9E%AC%E9%97%B4%E4%BD%A0%E5%8F%91%E7%8E%B0%E7%88%B8%E7%88%B8%E4%B8%8D%E5%86%8D%E5%B9%B4%E8%BD%BB%23&t=31&band_rank=3&Refer=top)<br />
 4. [一颗老鼠头为何要省级调查组才能查清](https://s.weibo.com/weibo?q=%23%E4%B8%80%E9%A2%97%E8%80%81%E9%BC%A0%E5%A4%B4%E4%B8%BA%E4%BD%95%E8%A6%81%E7%9C%81%E7%BA%A7%E8%B0%83%E6%9F%A5%E7%BB%84%E6%89%8D%E8%83%BD%E6%9F%A5%E6%B8%85%23&t=31&band_rank=4&Refer=top)<br />
 5. [jkl](https://s.weibo.com/weibo?q=jkl&t=31&band_rank=5&Refer=top)<br />
-6. [帮男朋友洗6年没有洗过的脏辫](https://s.weibo.com/weibo?q=%E5%B8%AE%E7%94%B7%E6%9C%8B%E5%8F%8B%E6%B4%976%E5%B9%B4%E6%B2%A1%E6%9C%89%E6%B4%97%E8%BF%87%E7%9A%84%E8%84%8F%E8%BE%AB&t=31&band_rank=6&Refer=top)<br />
-7. [Jennie是前一天爬山太累了吗](https://s.weibo.com/weibo?q=%23Jennie%E6%98%AF%E5%89%8D%E4%B8%80%E5%A4%A9%E7%88%AC%E5%B1%B1%E5%A4%AA%E7%B4%AF%E4%BA%86%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
+6. [Jennie是前一天爬山太累了吗](https://s.weibo.com/weibo?q=%23Jennie%E6%98%AF%E5%89%8D%E4%B8%80%E5%A4%A9%E7%88%AC%E5%B1%B1%E5%A4%AA%E7%B4%AF%E4%BA%86%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
+7. [帮男朋友洗6年没有洗过的脏辫](https://s.weibo.com/weibo?q=%E5%B8%AE%E7%94%B7%E6%9C%8B%E5%8F%8B%E6%B4%976%E5%B9%B4%E6%B2%A1%E6%9C%89%E6%B4%97%E8%BF%87%E7%9A%84%E8%84%8F%E8%BE%AB&t=31&band_rank=7&Refer=top)<br />
 8. [谢娜 她她她](https://s.weibo.com/weibo?q=%E8%B0%A2%E5%A8%9C%20%E5%A5%B9%E5%A5%B9%E5%A5%B9&t=31&band_rank=8&Refer=top)<br />
 9. [端午公司发了3颗荔枝](https://s.weibo.com/weibo?q=%23%E7%AB%AF%E5%8D%88%E5%85%AC%E5%8F%B8%E5%8F%91%E4%BA%863%E9%A2%97%E8%8D%94%E6%9E%9D%23&t=31&band_rank=9&Refer=top)<br />
 
@@ -31,10 +31,10 @@
 3. [胡歌大鹏影帝双黄蛋](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E5%A4%A7%E9%B9%8F%E5%BD%B1%E5%B8%9D%E5%8F%8C%E9%BB%84%E8%9B%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [稳产保丰 小麦主产区有这些举措](https://www.baidu.com/s?wd=%E7%A8%B3%E4%BA%A7%E4%BF%9D%E4%B8%B0+%E5%B0%8F%E9%BA%A6%E4%B8%BB%E4%BA%A7%E5%8C%BA%E6%9C%89%E8%BF%99%E4%BA%9B%E4%B8%BE%E6%8E%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [广州一龙舟队全是富婆？当地：事实](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E4%B8%80%E9%BE%99%E8%88%9F%E9%98%9F%E5%85%A8%E6%98%AF%E5%AF%8C%E5%A9%86%EF%BC%9F%E5%BD%93%E5%9C%B0%EF%BC%9A%E4%BA%8B%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [曝施瓦辛格称将参加2024大选](https://www.baidu.com/s?wd=%E6%9B%9D%E6%96%BD%E7%93%A6%E8%BE%9B%E6%A0%BC%E7%A7%B0%E5%B0%86%E5%8F%82%E5%8A%A02024%E5%A4%A7%E9%80%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [向华强说以后珠宝都给郭碧婷](https://www.baidu.com/s?wd=%E5%90%91%E5%8D%8E%E5%BC%BA%E8%AF%B4%E4%BB%A5%E5%90%8E%E7%8F%A0%E5%AE%9D%E9%83%BD%E7%BB%99%E9%83%AD%E7%A2%A7%E5%A9%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [中国女排0比3不敌波兰](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%920%E6%AF%943%E4%B8%8D%E6%95%8C%E6%B3%A2%E5%85%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [沥青车事故遇难母子家属：没人道歉](https://www.baidu.com/s?wd=%E6%B2%A5%E9%9D%92%E8%BD%A6%E4%BA%8B%E6%95%85%E9%81%87%E9%9A%BE%E6%AF%8D%E5%AD%90%E5%AE%B6%E5%B1%9E%EF%BC%9A%E6%B2%A1%E4%BA%BA%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [中国第一无人岛2868万元成交](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E6%97%A0%E4%BA%BA%E5%B2%9B2868%E4%B8%87%E5%85%83%E6%88%90%E4%BA%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中国女排0比3不敌波兰](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%920%E6%AF%943%E4%B8%8D%E6%95%8C%E6%B3%A2%E5%85%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [王一博让不出去的C位](https://www.baidu.com/s?wd=%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%AE%A9%E4%B8%8D%E5%87%BA%E5%8E%BB%E7%9A%84C%E4%BD%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [胡歌大鹏影帝双黄蛋](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E5%A4%A7%E9%B9%8F%E5%BD%B1%E5%B8%9D%E5%8F%8C%E9%BB%84%E8%9B%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [稳产保丰 小麦主产区有这些举措](https://www.baidu.com/s?wd=%E7%A8%B3%E4%BA%A7%E4%BF%9D%E4%B8%B0+%E5%B0%8F%E9%BA%A6%E4%B8%BB%E4%BA%A7%E5%8C%BA%E6%9C%89%E8%BF%99%E4%BA%9B%E4%B8%BE%E6%8E%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [广州一龙舟队全是富婆？当地：事实](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E4%B8%80%E9%BE%99%E8%88%9F%E9%98%9F%E5%85%A8%E6%98%AF%E5%AF%8C%E5%A9%86%EF%BC%9F%E5%BD%93%E5%9C%B0%EF%BC%9A%E4%BA%8B%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [曝施瓦辛格称将参加2024大选](https://www.baidu.com/s?wd=%E6%9B%9D%E6%96%BD%E7%93%A6%E8%BE%9B%E6%A0%BC%E7%A7%B0%E5%B0%86%E5%8F%82%E5%8A%A02024%E5%A4%A7%E9%80%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [向华强说以后珠宝都给郭碧婷](https://www.baidu.com/s?wd=%E5%90%91%E5%8D%8E%E5%BC%BA%E8%AF%B4%E4%BB%A5%E5%90%8E%E7%8F%A0%E5%AE%9D%E9%83%BD%E7%BB%99%E9%83%AD%E7%A2%A7%E5%A9%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [中国女排0比3不敌波兰](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%920%E6%AF%943%E4%B8%8D%E6%95%8C%E6%B3%A2%E5%85%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [沥青车事故遇难母子家属：没人道歉](https://www.baidu.com/s?wd=%E6%B2%A5%E9%9D%92%E8%BD%A6%E4%BA%8B%E6%95%85%E9%81%87%E9%9A%BE%E6%AF%8D%E5%AD%90%E5%AE%B6%E5%B1%9E%EF%BC%9A%E6%B2%A1%E4%BA%BA%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [中国第一无人岛2868万元成交](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E6%97%A0%E4%BA%BA%E5%B2%9B2868%E4%B8%87%E5%85%83%E6%88%90%E4%BA%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中国女排0比3不敌波兰](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%920%E6%AF%943%E4%B8%8D%E6%95%8C%E6%B3%A2%E5%85%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [王一博让不出去的C位](https://www.baidu.com/s?wd=%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%AE%A9%E4%B8%8D%E5%87%BA%E5%8E%BB%E7%9A%84C%E4%BD%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
