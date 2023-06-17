@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 23:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 23:07:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [黄渤上半身vs下半身](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%B8%A4%E4%B8%8A%E5%8D%8A%E8%BA%ABvs%E4%B8%8B%E5%8D%8A%E8%BA%AB%23&t=31&band_rank=6&Refer=top)<br />
 7. [解说毛毛](https://s.weibo.com/weibo?q=%E8%A7%A3%E8%AF%B4%E6%AF%9B%E6%AF%9B&t=31&band_rank=7&Refer=top)<br />
 8. [长风渡定档](https://s.weibo.com/weibo?q=%E9%95%BF%E9%A3%8E%E6%B8%A1%E5%AE%9A%E6%A1%A3&t=31&band_rank=8&Refer=top)<br />
-9. [Angelababy 求求了给我脚趾p个美甲](https://s.weibo.com/weibo?q=Angelababy%20%E6%B1%82%E6%B1%82%E4%BA%86%E7%BB%99%E6%88%91%E8%84%9A%E8%B6%BEp%E4%B8%AA%E7%BE%8E%E7%94%B2&t=31&band_rank=9&Refer=top)<br />
+9. [六级](https://s.weibo.com/weibo?q=%E5%85%AD%E7%BA%A7&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
