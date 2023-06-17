@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 07:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 07:59:02</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [迪丽热巴真发了100多张自拍](https://www.baidu.com/s?wd=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9C%9F%E5%8F%91%E4%BA%86100%E5%A4%9A%E5%BC%A0%E8%87%AA%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [张雪峰回应质疑:专业要选能吃上饭的](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%9B%9E%E5%BA%94%E8%B4%A8%E7%96%91%3A%E4%B8%93%E4%B8%9A%E8%A6%81%E9%80%89%E8%83%BD%E5%90%83%E4%B8%8A%E9%A5%AD%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [阿里总裁谈马云近况：他在东京教书](https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E6%80%BB%E8%A3%81%E8%B0%88%E9%A9%AC%E4%BA%91%E8%BF%91%E5%86%B5%EF%BC%9A%E4%BB%96%E5%9C%A8%E4%B8%9C%E4%BA%AC%E6%95%99%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [响水爆炸事故环境损害赔偿总额逾4亿](https://www.baidu.com/s?wd=%E5%93%8D%E6%B0%B4%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E7%8E%AF%E5%A2%83%E6%8D%9F%E5%AE%B3%E8%B5%94%E5%81%BF%E6%80%BB%E9%A2%9D%E9%80%BE4%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [越南开始担心被“抢饭碗”了](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E5%BC%80%E5%A7%8B%E6%8B%85%E5%BF%83%E8%A2%AB%E2%80%9C%E6%8A%A2%E9%A5%AD%E7%A2%97%E2%80%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [迪丽热巴真发了100多张自拍](https://www.baidu.com/s?wd=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9C%9F%E5%8F%91%E4%BA%86100%E5%A4%9A%E5%BC%A0%E8%87%AA%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [张雪峰回应质疑:专业要选能吃上饭的](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%9B%9E%E5%BA%94%E8%B4%A8%E7%96%91%3A%E4%B8%93%E4%B8%9A%E8%A6%81%E9%80%89%E8%83%BD%E5%90%83%E4%B8%8A%E9%A5%AD%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [阿里总裁谈马云近况：他在东京教书](https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E6%80%BB%E8%A3%81%E8%B0%88%E9%A9%AC%E4%BA%91%E8%BF%91%E5%86%B5%EF%BC%9A%E4%BB%96%E5%9C%A8%E4%B8%9C%E4%BA%AC%E6%95%99%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [响水爆炸事故环境损害赔偿总额逾4亿](https://www.baidu.com/s?wd=%E5%93%8D%E6%B0%B4%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E7%8E%AF%E5%A2%83%E6%8D%9F%E5%AE%B3%E8%B5%94%E5%81%BF%E6%80%BB%E9%A2%9D%E9%80%BE4%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [越南开始担心被“抢饭碗”了](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E5%BC%80%E5%A7%8B%E6%8B%85%E5%BF%83%E8%A2%AB%E2%80%9C%E6%8A%A2%E9%A5%AD%E7%A2%97%E2%80%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
