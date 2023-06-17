@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 11:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-17 11:05:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [林志玲泳装](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%97%E7%8E%B2%E6%B3%B3%E8%A3%85%23&t=31&band_rank=6&Refer=top)<br />
 7. [男子健身房内去世前向私教求救](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%81%A5%E8%BA%AB%E6%88%BF%E5%86%85%E5%8E%BB%E4%B8%96%E5%89%8D%E5%90%91%E7%A7%81%E6%95%99%E6%B1%82%E6%95%91%23&t=31&band_rank=7&Refer=top)<br />
 8. [床垫上的保护膜到底用不用撕](https://s.weibo.com/weibo?q=%23%E5%BA%8A%E5%9E%AB%E4%B8%8A%E7%9A%84%E4%BF%9D%E6%8A%A4%E8%86%9C%E5%88%B0%E5%BA%95%E7%94%A8%E4%B8%8D%E7%94%A8%E6%92%95%23&t=31&band_rank=8&Refer=top)<br />
-9. [迪丽热巴真发了100多张自拍](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9C%9F%E5%8F%91%E4%BA%86100%E5%A4%9A%E5%BC%A0%E8%87%AA%E6%8B%8D%23&t=31&band_rank=9&Refer=top)<br />
+9. [四六级](https://s.weibo.com/weibo?q=%E5%9B%9B%E5%85%AD%E7%BA%A7&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
