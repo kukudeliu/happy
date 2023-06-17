@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 07:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 07:04:02</h4></div>
 
 > 微博  
 
 1. [端午公司发了3颗荔枝](https://s.weibo.com/weibo?q=%23%E7%AB%AF%E5%8D%88%E5%85%AC%E5%8F%B8%E5%8F%91%E4%BA%863%E9%A2%97%E8%8D%94%E6%9E%9D%23&t=31&band_rank=1&Refer=top)<br />
-2. [榜一大哥是我爸](https://s.weibo.com/weibo?q=%23%E6%A6%9C%E4%B8%80%E5%A4%A7%E5%93%A5%E6%98%AF%E6%88%91%E7%88%B8%23&t=31&band_rank=2&Refer=top)<br />
+2. [萧敬腾方报警检测自证清白](https://s.weibo.com/weibo?q=%23%E8%90%A7%E6%95%AC%E8%85%BE%E6%96%B9%E6%8A%A5%E8%AD%A6%E6%A3%80%E6%B5%8B%E8%87%AA%E8%AF%81%E6%B8%85%E7%99%BD%23&t=31&band_rank=2&Refer=top)<br />
 3. [哪个瞬间你发现爸爸不再年轻](https://s.weibo.com/weibo?q=%23%E5%93%AA%E4%B8%AA%E7%9E%AC%E9%97%B4%E4%BD%A0%E5%8F%91%E7%8E%B0%E7%88%B8%E7%88%B8%E4%B8%8D%E5%86%8D%E5%B9%B4%E8%BD%BB%23&t=31&band_rank=3&Refer=top)<br />
-4. [萧敬腾方报警检测自证清白](https://s.weibo.com/weibo?q=%23%E8%90%A7%E6%95%AC%E8%85%BE%E6%96%B9%E6%8A%A5%E8%AD%A6%E6%A3%80%E6%B5%8B%E8%87%AA%E8%AF%81%E6%B8%85%E7%99%BD%23&t=31&band_rank=4&Refer=top)<br />
+4. [榜一大哥是我爸](https://s.weibo.com/weibo?q=%23%E6%A6%9C%E4%B8%80%E5%A4%A7%E5%93%A5%E6%98%AF%E6%88%91%E7%88%B8%23&t=31&band_rank=4&Refer=top)<br />
 5. [一颗老鼠头为何要省级调查组才能查清](https://s.weibo.com/weibo?q=%23%E4%B8%80%E9%A2%97%E8%80%81%E9%BC%A0%E5%A4%B4%E4%B8%BA%E4%BD%95%E8%A6%81%E7%9C%81%E7%BA%A7%E8%B0%83%E6%9F%A5%E7%BB%84%E6%89%8D%E8%83%BD%E6%9F%A5%E6%B8%85%23&t=31&band_rank=5&Refer=top)<br />
 6. [帮男朋友洗6年没有洗过的脏辫](https://s.weibo.com/weibo?q=%E5%B8%AE%E7%94%B7%E6%9C%8B%E5%8F%8B%E6%B4%976%E5%B9%B4%E6%B2%A1%E6%9C%89%E6%B4%97%E8%BF%87%E7%9A%84%E8%84%8F%E8%BE%AB&t=31&band_rank=6&Refer=top)<br />
 7. [西工大一班级全员34人参与重大科研](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%B7%A5%E5%A4%A7%E4%B8%80%E7%8F%AD%E7%BA%A7%E5%85%A8%E5%91%9834%E4%BA%BA%E5%8F%82%E4%B8%8E%E9%87%8D%E5%A4%A7%E7%A7%91%E7%A0%94%23&t=31&band_rank=7&Refer=top)<br />
@@ -34,7 +34,7 @@
 6. [女生称没穿内衣取外卖被骑手骚扰](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E7%A7%B0%E6%B2%A1%E7%A9%BF%E5%86%85%E8%A1%A3%E5%8F%96%E5%A4%96%E5%8D%96%E8%A2%AB%E9%AA%91%E6%89%8B%E9%AA%9A%E6%89%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [今年首个废除限售政策的城市出现了](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E9%A6%96%E4%B8%AA%E5%BA%9F%E9%99%A4%E9%99%90%E5%94%AE%E6%94%BF%E7%AD%96%E7%9A%84%E5%9F%8E%E5%B8%82%E5%87%BA%E7%8E%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [这双“丑”鞋一年狂赚40亿](https://www.baidu.com/s?wd=%E8%BF%99%E5%8F%8C%E2%80%9C%E4%B8%91%E2%80%9D%E9%9E%8B%E4%B8%80%E5%B9%B4%E7%8B%82%E8%B5%9A40%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [洗米华写信揭狱中生活](https://www.baidu.com/s?wd=%E6%B4%97%E7%B1%B3%E5%8D%8E%E5%86%99%E4%BF%A1%E6%8F%AD%E7%8B%B1%E4%B8%AD%E7%94%9F%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [黄渤上半身vs下半身](https://www.baidu.com/s?wd=%E9%BB%84%E6%B8%A4%E4%B8%8A%E5%8D%8A%E8%BA%ABvs%E4%B8%8B%E5%8D%8A%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [女生称没穿内衣取外卖被骑手骚扰](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E7%A7%B0%E6%B2%A1%E7%A9%BF%E5%86%85%E8%A1%A3%E5%8F%96%E5%A4%96%E5%8D%96%E8%A2%AB%E9%AA%91%E6%89%8B%E9%AA%9A%E6%89%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [今年首个废除限售政策的城市出现了](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E9%A6%96%E4%B8%AA%E5%BA%9F%E9%99%A4%E9%99%90%E5%94%AE%E6%94%BF%E7%AD%96%E7%9A%84%E5%9F%8E%E5%B8%82%E5%87%BA%E7%8E%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [这双“丑”鞋一年狂赚40亿](https://www.baidu.com/s?wd=%E8%BF%99%E5%8F%8C%E2%80%9C%E4%B8%91%E2%80%9D%E9%9E%8B%E4%B8%80%E5%B9%B4%E7%8B%82%E8%B5%9A40%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [洗米华写信揭狱中生活](https://www.baidu.com/s?wd=%E6%B4%97%E7%B1%B3%E5%8D%8E%E5%86%99%E4%BF%A1%E6%8F%AD%E7%8B%B1%E4%B8%AD%E7%94%9F%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [黄渤上半身vs下半身](https://www.baidu.com/s?wd=%E9%BB%84%E6%B8%A4%E4%B8%8A%E5%8D%8A%E8%BA%ABvs%E4%B8%8B%E5%8D%8A%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
