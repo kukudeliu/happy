@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 07:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 07:02:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [女生称没穿内衣取外卖被骑手骚扰](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E7%A7%B0%E6%B2%A1%E7%A9%BF%E5%86%85%E8%A1%A3%E5%8F%96%E5%A4%96%E5%8D%96%E8%A2%AB%E9%AA%91%E6%89%8B%E9%AA%9A%E6%89%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [今年首个废除限售政策的城市出现了](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E9%A6%96%E4%B8%AA%E5%BA%9F%E9%99%A4%E9%99%90%E5%94%AE%E6%94%BF%E7%AD%96%E7%9A%84%E5%9F%8E%E5%B8%82%E5%87%BA%E7%8E%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [这双“丑”鞋一年狂赚40亿](https://www.baidu.com/s?wd=%E8%BF%99%E5%8F%8C%E2%80%9C%E4%B8%91%E2%80%9D%E9%9E%8B%E4%B8%80%E5%B9%B4%E7%8B%82%E8%B5%9A40%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [日本因贪腐丑闻丧失冬奥申办机会](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%9B%A0%E8%B4%AA%E8%85%90%E4%B8%91%E9%97%BB%E4%B8%A7%E5%A4%B1%E5%86%AC%E5%A5%A5%E7%94%B3%E5%8A%9E%E6%9C%BA%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [洗米华写信揭狱中生活](https://www.baidu.com/s?wd=%E6%B4%97%E7%B1%B3%E5%8D%8E%E5%86%99%E4%BF%A1%E6%8F%AD%E7%8B%B1%E4%B8%AD%E7%94%9F%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [女生称没穿内衣取外卖被骑手骚扰](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E7%A7%B0%E6%B2%A1%E7%A9%BF%E5%86%85%E8%A1%A3%E5%8F%96%E5%A4%96%E5%8D%96%E8%A2%AB%E9%AA%91%E6%89%8B%E9%AA%9A%E6%89%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [今年首个废除限售政策的城市出现了](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E9%A6%96%E4%B8%AA%E5%BA%9F%E9%99%A4%E9%99%90%E5%94%AE%E6%94%BF%E7%AD%96%E7%9A%84%E5%9F%8E%E5%B8%82%E5%87%BA%E7%8E%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [这双“丑”鞋一年狂赚40亿](https://www.baidu.com/s?wd=%E8%BF%99%E5%8F%8C%E2%80%9C%E4%B8%91%E2%80%9D%E9%9E%8B%E4%B8%80%E5%B9%B4%E7%8B%82%E8%B5%9A40%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [日本因贪腐丑闻丧失冬奥申办机会](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%9B%A0%E8%B4%AA%E8%85%90%E4%B8%91%E9%97%BB%E4%B8%A7%E5%A4%B1%E5%86%AC%E5%A5%A5%E7%94%B3%E5%8A%9E%E6%9C%BA%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [洗米华写信揭狱中生活](https://www.baidu.com/s?wd=%E6%B4%97%E7%B1%B3%E5%8D%8E%E5%86%99%E4%BF%A1%E6%8F%AD%E7%8B%B1%E4%B8%AD%E7%94%9F%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
