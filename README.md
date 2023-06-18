@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 09:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 09:32:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [胡兵50万积分被东航清零](https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%85%B550%E4%B8%87%E7%A7%AF%E5%88%86%E8%A2%AB%E4%B8%9C%E8%88%AA%E6%B8%85%E9%9B%B6%23&t=31&band_rank=6&Refer=top)<br />
 7. [白敬亭宋轶今晚见](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6%E4%BB%8A%E6%99%9A%E8%A7%81%23&t=31&band_rank=7&Refer=top)<br />
 8. [百果园回应女子团购西瓜被嘲讽](https://s.weibo.com/weibo?q=%23%E7%99%BE%E6%9E%9C%E5%9B%AD%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E5%9B%A2%E8%B4%AD%E8%A5%BF%E7%93%9C%E8%A2%AB%E5%98%B2%E8%AE%BD%23&t=31&band_rank=8&Refer=top)<br />
-9. [女子为保护儿子连刺丈夫3刀判无罪](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B8%BA%E4%BF%9D%E6%8A%A4%E5%84%BF%E5%AD%90%E8%BF%9E%E5%88%BA%E4%B8%88%E5%A4%AB3%E5%88%80%E5%88%A4%E6%97%A0%E7%BD%AA%23&t=31&band_rank=9&Refer=top)<br />
+9. [鼠头变鸭脖事件校方市场监管方将被追责](https://s.weibo.com/weibo?q=%23%E9%BC%A0%E5%A4%B4%E5%8F%98%E9%B8%AD%E8%84%96%E4%BA%8B%E4%BB%B6%E6%A0%A1%E6%96%B9%E5%B8%82%E5%9C%BA%E7%9B%91%E7%AE%A1%E6%96%B9%E5%B0%86%E8%A2%AB%E8%BF%BD%E8%B4%A3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
