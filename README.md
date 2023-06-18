@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 11:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 11:43:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [承欢记开机](https://s.weibo.com/weibo?q=%E6%89%BF%E6%AC%A2%E8%AE%B0%E5%BC%80%E6%9C%BA&t=31&band_rank=6&Refer=top)<br />
 7. [白敬亭宋轶今晚见](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6%E4%BB%8A%E6%99%9A%E8%A7%81%23&t=31&band_rank=7&Refer=top)<br />
 8. [在我25岁时爸爸给我了一套房子的钥匙](https://s.weibo.com/weibo?q=%E5%9C%A8%E6%88%9125%E5%B2%81%E6%97%B6%E7%88%B8%E7%88%B8%E7%BB%99%E6%88%91%E4%BA%86%E4%B8%80%E5%A5%97%E6%88%BF%E5%AD%90%E7%9A%84%E9%92%A5%E5%8C%99&t=31&band_rank=8&Refer=top)<br />
-9. [父亲节](https://s.weibo.com/weibo?q=%E7%88%B6%E4%BA%B2%E8%8A%82&t=31&band_rank=9&Refer=top)<br />
+9. [女生称洗澡后发现酒店房间有摄像头](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E7%A7%B0%E6%B4%97%E6%BE%A1%E5%90%8E%E5%8F%91%E7%8E%B0%E9%85%92%E5%BA%97%E6%88%BF%E9%97%B4%E6%9C%89%E6%91%84%E5%83%8F%E5%A4%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
