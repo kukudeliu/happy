@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 20:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 20:04:01</h4></div>
 
 > 微博  
 
@@ -18,11 +18,11 @@
 2. [如何评价王宝强自导自演的电影《八角笼中》?](https://www.zhihu.com/question/566061816)<br />
 3. [婆婆病了，我是老大媳妇，兄弟姐妹说我工资最低想出钱让我照顾，该不该答应？](https://www.zhihu.com/question/605822171)<br />
 4. [布林肯已到达北京开启访华行程，此行有哪些信息值得关注？](https://www.zhihu.com/question/607270958)<br />
-5. [长大后的哪一刻，你在心里悄悄与父亲和解，理解了他的难？有哪些无法当面说出口的话，想对他说？](https://www.zhihu.com/question/605713053)<br />
+5. [设计类专业报考应该如何做选择？注重实操还是注重理论？](https://www.zhihu.com/theater/113434?drama_id=1653853566006763520&utm_source=wechat_session&utm_medium=social&utm_oi=932955353356849152)<br />
 6. [冲进球场拥抱梅西的球迷被行拘，男子已 18 岁，如何看待这一结果？](https://www.zhihu.com/question/607010548)<br />
-7. [马斯克们力推的人造子宫，能否拯救我们的低生育率？](https://www.zhihu.com/question/606625465)<br />
-8. [00 后男孩辞职花近 7 千元学卖烤鱼做摆摊短视频，月入 1 万 5 ，如何看待「摆摊创业」走红？](https://www.zhihu.com/question/606933388)<br />
-9. [顶级科研大佬的 PPT 长啥样？](https://www.zhihu.com/question/606148045)<br />
+7. [长大后的哪一刻，你在心里悄悄与父亲和解，理解了他的难？有哪些无法当面说出口的话，想对他说？](https://www.zhihu.com/question/605713053)<br />
+8. [马斯克们力推的人造子宫，能否拯救我们的低生育率？](https://www.zhihu.com/question/606625465)<br />
+9. [00 后男孩辞职花近 7 千元学卖烤鱼做摆摊短视频，月入 1 万 5 ，如何看待「摆摊创业」走红？](https://www.zhihu.com/question/606933388)<br />
 
 > 百度  
 
@@ -33,7 +33,7 @@
 5. [董明珠称全世界只有格力空调不吹人](https://www.baidu.com/s?wd=%E8%91%A3%E6%98%8E%E7%8F%A0%E7%A7%B0%E5%85%A8%E4%B8%96%E7%95%8C%E5%8F%AA%E6%9C%89%E6%A0%BC%E5%8A%9B%E7%A9%BA%E8%B0%83%E4%B8%8D%E5%90%B9%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [王石：房地产市场刚开始](https://www.baidu.com/s?wd=%E7%8E%8B%E7%9F%B3%EF%BC%9A%E6%88%BF%E5%9C%B0%E4%BA%A7%E5%B8%82%E5%9C%BA%E5%88%9A%E5%BC%80%E5%A7%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [青岛新特产“巧克力大爷”火了](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B%E6%96%B0%E7%89%B9%E4%BA%A7%E2%80%9C%E5%B7%A7%E5%85%8B%E5%8A%9B%E5%A4%A7%E7%88%B7%E2%80%9D%E7%81%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [白酒价格大面积倒挂](https://www.baidu.com/s?wd=%E7%99%BD%E9%85%92%E4%BB%B7%E6%A0%BC%E5%A4%A7%E9%9D%A2%E7%A7%AF%E5%80%92%E6%8C%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子花52元取鱼刺称“医院赚大钱”](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B152%E5%85%83%E5%8F%96%E9%B1%BC%E5%88%BA%E7%A7%B0%E2%80%9C%E5%8C%BB%E9%99%A2%E8%B5%9A%E5%A4%A7%E9%92%B1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [#盘点父亲带娃#](https://www.baidu.com/s?wd=%23%E7%9B%98%E7%82%B9%E7%88%B6%E4%BA%B2%E5%B8%A6%E5%A8%83%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [董明珠称全世界只有格力空调不吹人](https://www.baidu.com/s?wd=%E8%91%A3%E6%98%8E%E7%8F%A0%E7%A7%B0%E5%85%A8%E4%B8%96%E7%95%8C%E5%8F%AA%E6%9C%89%E6%A0%BC%E5%8A%9B%E7%A9%BA%E8%B0%83%E4%B8%8D%E5%90%B9%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [王石：房地产市场刚开始](https://www.baidu.com/s?wd=%E7%8E%8B%E7%9F%B3%EF%BC%9A%E6%88%BF%E5%9C%B0%E4%BA%A7%E5%B8%82%E5%9C%BA%E5%88%9A%E5%BC%80%E5%A7%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [青岛新特产“巧克力大爷”火了](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B%E6%96%B0%E7%89%B9%E4%BA%A7%E2%80%9C%E5%B7%A7%E5%85%8B%E5%8A%9B%E5%A4%A7%E7%88%B7%E2%80%9D%E7%81%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [白酒价格大面积倒挂](https://www.baidu.com/s?wd=%E7%99%BD%E9%85%92%E4%BB%B7%E6%A0%BC%E5%A4%A7%E9%9D%A2%E7%A7%AF%E5%80%92%E6%8C%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子花52元取鱼刺称“医院赚大钱”](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B152%E5%85%83%E5%8F%96%E9%B1%BC%E5%88%BA%E7%A7%B0%E2%80%9C%E5%8C%BB%E9%99%A2%E8%B5%9A%E5%A4%A7%E9%92%B1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [#盘点父亲带娃#](https://www.baidu.com/s?wd=%23%E7%9B%98%E7%82%B9%E7%88%B6%E4%BA%B2%E5%B8%A6%E5%A8%83%23&sa=fyb_news&rsv_dl=fyb_news)<br />
