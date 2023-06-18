@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 19:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 19:47:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [王俊凯说何炅黄磊背影好孤独](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E8%AF%B4%E4%BD%95%E7%82%85%E9%BB%84%E7%A3%8A%E8%83%8C%E5%BD%B1%E5%A5%BD%E5%AD%A4%E7%8B%AC%23&t=31&band_rank=4&Refer=top)<br />
 5. [宝宝首次戴人工耳蜗听声音后大哭](https://s.weibo.com/weibo?q=%23%E5%AE%9D%E5%AE%9D%E9%A6%96%E6%AC%A1%E6%88%B4%E4%BA%BA%E5%B7%A5%E8%80%B3%E8%9C%97%E5%90%AC%E5%A3%B0%E9%9F%B3%E5%90%8E%E5%A4%A7%E5%93%AD%23&t=31&band_rank=5&Refer=top)<br />
 6. [专家称月入3000就算中等收入群体](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%9C%88%E5%85%A53000%E5%B0%B1%E7%AE%97%E4%B8%AD%E7%AD%89%E6%94%B6%E5%85%A5%E7%BE%A4%E4%BD%93%23&t=31&band_rank=6&Refer=top)<br />
-7. [女儿把楼梯变黑板给爸爸送祝福](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E6%8A%8A%E6%A5%BC%E6%A2%AF%E5%8F%98%E9%BB%91%E6%9D%BF%E7%BB%99%E7%88%B8%E7%88%B8%E9%80%81%E7%A5%9D%E7%A6%8F%23&t=31&band_rank=7&Refer=top)<br />
-8. [真情侣](https://s.weibo.com/weibo?q=%E7%9C%9F%E6%83%85%E4%BE%A3&t=31&band_rank=8&Refer=top)<br />
+7. [真情侣](https://s.weibo.com/weibo?q=%E7%9C%9F%E6%83%85%E4%BE%A3&t=31&band_rank=7&Refer=top)<br />
+8. [女朋友说她拍到我出轨了](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%9C%8B%E5%8F%8B%E8%AF%B4%E5%A5%B9%E6%8B%8D%E5%88%B0%E6%88%91%E5%87%BA%E8%BD%A8%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [东航客服回应胡兵50万积分被清零](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E8%88%AA%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E8%83%A1%E5%85%B550%E4%B8%87%E7%A7%AF%E5%88%86%E8%A2%AB%E6%B8%85%E9%9B%B6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -31,9 +31,9 @@
 3. [专家:月入3000就算中等收入群体](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%3A%E6%9C%88%E5%85%A53000%E5%B0%B1%E7%AE%97%E4%B8%AD%E7%AD%89%E6%94%B6%E5%85%A5%E7%BE%A4%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [这些地方变身“晒粮场”](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E5%9C%B0%E6%96%B9%E5%8F%98%E8%BA%AB%E2%80%9C%E6%99%92%E7%B2%AE%E5%9C%BA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [华春莹上传中美外长握手照](https://www.baidu.com/s?wd=%E5%8D%8E%E6%98%A5%E8%8E%B9%E4%B8%8A%E4%BC%A0%E4%B8%AD%E7%BE%8E%E5%A4%96%E9%95%BF%E6%8F%A1%E6%89%8B%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [女子花52元取鱼刺称“医院赚大钱”](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B152%E5%85%83%E5%8F%96%E9%B1%BC%E5%88%BA%E7%A7%B0%E2%80%9C%E5%8C%BB%E9%99%A2%E8%B5%9A%E5%A4%A7%E9%92%B1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [白酒价格大面积倒挂](https://www.baidu.com/s?wd=%E7%99%BD%E9%85%92%E4%BB%B7%E6%A0%BC%E5%A4%A7%E9%9D%A2%E7%A7%AF%E5%80%92%E6%8C%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [马云现身杭州围观数学竞赛](https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%E7%8E%B0%E8%BA%AB%E6%9D%AD%E5%B7%9E%E5%9B%B4%E8%A7%82%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [董明珠称全世界只有格力空调不吹人](https://www.baidu.com/s?wd=%E8%91%A3%E6%98%8E%E7%8F%A0%E7%A7%B0%E5%85%A8%E4%B8%96%E7%95%8C%E5%8F%AA%E6%9C%89%E6%A0%BC%E5%8A%9B%E7%A9%BA%E8%B0%83%E4%B8%8D%E5%90%B9%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子花52元取鱼刺称“医院赚大钱”](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B152%E5%85%83%E5%8F%96%E9%B1%BC%E5%88%BA%E7%A7%B0%E2%80%9C%E5%8C%BB%E9%99%A2%E8%B5%9A%E5%A4%A7%E9%92%B1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [白酒价格大面积倒挂](https://www.baidu.com/s?wd=%E7%99%BD%E9%85%92%E4%BB%B7%E6%A0%BC%E5%A4%A7%E9%9D%A2%E7%A7%AF%E5%80%92%E6%8C%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [#盘点父亲带娃#](https://www.baidu.com/s?wd=%23%E7%9B%98%E7%82%B9%E7%88%B6%E4%BA%B2%E5%B8%A6%E5%A8%83%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -43,7 +43,7 @@
 3. [专家:月入3000就算中等收入群体](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%3A%E6%9C%88%E5%85%A53000%E5%B0%B1%E7%AE%97%E4%B8%AD%E7%AD%89%E6%94%B6%E5%85%A5%E7%BE%A4%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [这些地方变身“晒粮场”](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E5%9C%B0%E6%96%B9%E5%8F%98%E8%BA%AB%E2%80%9C%E6%99%92%E7%B2%AE%E5%9C%BA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [华春莹上传中美外长握手照](https://www.baidu.com/s?wd=%E5%8D%8E%E6%98%A5%E8%8E%B9%E4%B8%8A%E4%BC%A0%E4%B8%AD%E7%BE%8E%E5%A4%96%E9%95%BF%E6%8F%A1%E6%89%8B%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [女子花52元取鱼刺称“医院赚大钱”](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B152%E5%85%83%E5%8F%96%E9%B1%BC%E5%88%BA%E7%A7%B0%E2%80%9C%E5%8C%BB%E9%99%A2%E8%B5%9A%E5%A4%A7%E9%92%B1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [白酒价格大面积倒挂](https://www.baidu.com/s?wd=%E7%99%BD%E9%85%92%E4%BB%B7%E6%A0%BC%E5%A4%A7%E9%9D%A2%E7%A7%AF%E5%80%92%E6%8C%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [马云现身杭州围观数学竞赛](https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%E7%8E%B0%E8%BA%AB%E6%9D%AD%E5%B7%9E%E5%9B%B4%E8%A7%82%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [董明珠称全世界只有格力空调不吹人](https://www.baidu.com/s?wd=%E8%91%A3%E6%98%8E%E7%8F%A0%E7%A7%B0%E5%85%A8%E4%B8%96%E7%95%8C%E5%8F%AA%E6%9C%89%E6%A0%BC%E5%8A%9B%E7%A9%BA%E8%B0%83%E4%B8%8D%E5%90%B9%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子花52元取鱼刺称“医院赚大钱”](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B152%E5%85%83%E5%8F%96%E9%B1%BC%E5%88%BA%E7%A7%B0%E2%80%9C%E5%8C%BB%E9%99%A2%E8%B5%9A%E5%A4%A7%E9%92%B1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [白酒价格大面积倒挂](https://www.baidu.com/s?wd=%E7%99%BD%E9%85%92%E4%BB%B7%E6%A0%BC%E5%A4%A7%E9%9D%A2%E7%A7%AF%E5%80%92%E6%8C%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [#盘点父亲带娃#](https://www.baidu.com/s?wd=%23%E7%9B%98%E7%82%B9%E7%88%B6%E4%BA%B2%E5%B8%A6%E5%A8%83%23&sa=fyb_news&rsv_dl=fyb_news)<br />
