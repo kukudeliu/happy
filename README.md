@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 13:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 13:16:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [布林肯已到达北京开启访华行程，此行有哪些信息值得关注？](https://www.zhihu.com/question/607270958)<br />
 7. [冲进球场拥抱梅西的球迷被行拘，男子已 18 岁，如何看待这一结果？](https://www.zhihu.com/question/607010548)<br />
 8. [「凉白开」这类饮品，真的是把水煮开再罐装的吗？](https://www.zhihu.com/question/606321291)<br />
-9. [大家觉得最适合贝微微的女演员是谁呀？](https://www.zhihu.com/question/507296110)<br />
+9. [如何评价王宝强自导自演的电影《八角笼中》?](https://www.zhihu.com/question/566061816)<br />
 
 > 百度  
 
