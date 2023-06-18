@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 08:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 08:24:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [蔡徐坤虞书欣甘比母女合影](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%94%98%E6%AF%94%E6%AF%8D%E5%A5%B3%E5%90%88%E5%BD%B1%23&t=31&band_rank=4&Refer=top)<br />
 5. [榜一大哥是我爸](https://s.weibo.com/weibo?q=%23%E6%A6%9C%E4%B8%80%E5%A4%A7%E5%93%A5%E6%98%AF%E6%88%91%E7%88%B8%23&t=31&band_rank=5&Refer=top)<br />
 6. [谢娜 她她她](https://s.weibo.com/weibo?q=%E8%B0%A2%E5%A8%9C%20%E5%A5%B9%E5%A5%B9%E5%A5%B9&t=31&band_rank=6&Refer=top)<br />
-7. [萧敬腾方报警检测自证清白](https://s.weibo.com/weibo?q=%23%E8%90%A7%E6%95%AC%E8%85%BE%E6%96%B9%E6%8A%A5%E8%AD%A6%E6%A3%80%E6%B5%8B%E8%87%AA%E8%AF%81%E6%B8%85%E7%99%BD%23&t=31&band_rank=7&Refer=top)<br />
-8. [男子低血糖饿晕商户们霸总式投喂](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%BD%8E%E8%A1%80%E7%B3%96%E9%A5%BF%E6%99%95%E5%95%86%E6%88%B7%E4%BB%AC%E9%9C%B8%E6%80%BB%E5%BC%8F%E6%8A%95%E5%96%82%23&t=31&band_rank=8&Refer=top)<br />
+7. [男子低血糖饿晕商户们霸总式投喂](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%BD%8E%E8%A1%80%E7%B3%96%E9%A5%BF%E6%99%95%E5%95%86%E6%88%B7%E4%BB%AC%E9%9C%B8%E6%80%BB%E5%BC%8F%E6%8A%95%E5%96%82%23&t=31&band_rank=7&Refer=top)<br />
+8. [萧敬腾方报警检测自证清白](https://s.weibo.com/weibo?q=%23%E8%90%A7%E6%95%AC%E8%85%BE%E6%96%B9%E6%8A%A5%E8%AD%A6%E6%A3%80%E6%B5%8B%E8%87%AA%E8%AF%81%E6%B8%85%E7%99%BD%23&t=31&band_rank=8&Refer=top)<br />
 9. [帮男朋友洗6年没有洗过的脏辫](https://s.weibo.com/weibo?q=%E5%B8%AE%E7%94%B7%E6%9C%8B%E5%8F%8B%E6%B4%976%E5%B9%B4%E6%B2%A1%E6%9C%89%E6%B4%97%E8%BF%87%E7%9A%84%E8%84%8F%E8%BE%AB&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -34,7 +34,7 @@
 6. [中学老师跳10多米高桥救轻生女](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E8%80%81%E5%B8%88%E8%B7%B310%E5%A4%9A%E7%B1%B3%E9%AB%98%E6%A1%A5%E6%95%91%E8%BD%BB%E7%94%9F%E5%A5%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [董宇辉称曾拒税后2亿年薪工作](https://www.baidu.com/s?wd=%E8%91%A3%E5%AE%87%E8%BE%89%E7%A7%B0%E6%9B%BE%E6%8B%92%E7%A8%8E%E5%90%8E2%E4%BA%BF%E5%B9%B4%E8%96%AA%E5%B7%A5%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [商户招牌因易燃遭拆除却无法点燃](https://www.baidu.com/s?wd=%E5%95%86%E6%88%B7%E6%8B%9B%E7%89%8C%E5%9B%A0%E6%98%93%E7%87%83%E9%81%AD%E6%8B%86%E9%99%A4%E5%8D%B4%E6%97%A0%E6%B3%95%E7%82%B9%E7%87%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [这双“丑”鞋一年狂赚40亿](https://www.baidu.com/s?wd=%E8%BF%99%E5%8F%8C%E2%80%9C%E4%B8%91%E2%80%9D%E9%9E%8B%E4%B8%80%E5%B9%B4%E7%8B%82%E8%B5%9A40%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [今年首个废除限售政策的城市出现了](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E9%A6%96%E4%B8%AA%E5%BA%9F%E9%99%A4%E9%99%90%E5%94%AE%E6%94%BF%E7%AD%96%E7%9A%84%E5%9F%8E%E5%B8%82%E5%87%BA%E7%8E%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [中学老师跳10多米高桥救轻生女](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E8%80%81%E5%B8%88%E8%B7%B310%E5%A4%9A%E7%B1%B3%E9%AB%98%E6%A1%A5%E6%95%91%E8%BD%BB%E7%94%9F%E5%A5%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [董宇辉称曾拒税后2亿年薪工作](https://www.baidu.com/s?wd=%E8%91%A3%E5%AE%87%E8%BE%89%E7%A7%B0%E6%9B%BE%E6%8B%92%E7%A8%8E%E5%90%8E2%E4%BA%BF%E5%B9%B4%E8%96%AA%E5%B7%A5%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [商户招牌因易燃遭拆除却无法点燃](https://www.baidu.com/s?wd=%E5%95%86%E6%88%B7%E6%8B%9B%E7%89%8C%E5%9B%A0%E6%98%93%E7%87%83%E9%81%AD%E6%8B%86%E9%99%A4%E5%8D%B4%E6%97%A0%E6%B3%95%E7%82%B9%E7%87%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [这双“丑”鞋一年狂赚40亿](https://www.baidu.com/s?wd=%E8%BF%99%E5%8F%8C%E2%80%9C%E4%B8%91%E2%80%9D%E9%9E%8B%E4%B8%80%E5%B9%B4%E7%8B%82%E8%B5%9A40%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [今年首个废除限售政策的城市出现了](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E9%A6%96%E4%B8%AA%E5%BA%9F%E9%99%A4%E9%99%90%E5%94%AE%E6%94%BF%E7%AD%96%E7%9A%84%E5%9F%8E%E5%B8%82%E5%87%BA%E7%8E%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
