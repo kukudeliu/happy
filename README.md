@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 22:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 22:50:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [为什么阴干的衣服那么臭](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E9%98%B4%E5%B9%B2%E7%9A%84%E8%A1%A3%E6%9C%8D%E9%82%A3%E4%B9%88%E8%87%AD%23&t=31&band_rank=6&Refer=top)<br />
 7. [王俊凯说何炅黄磊背影好孤独](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E8%AF%B4%E4%BD%95%E7%82%85%E9%BB%84%E7%A3%8A%E8%83%8C%E5%BD%B1%E5%A5%BD%E5%AD%A4%E7%8B%AC%23&t=31&band_rank=7&Refer=top)<br />
 8. [989大学](https://s.weibo.com/weibo?q=989%E5%A4%A7%E5%AD%A6&t=31&band_rank=8&Refer=top)<br />
-9. [广工总冠军](https://s.weibo.com/weibo?q=%E5%B9%BF%E5%B7%A5%E6%80%BB%E5%86%A0%E5%86%9B&t=31&band_rank=9&Refer=top)<br />
+9. [Jennie在舞台上走神](https://s.weibo.com/weibo?q=%23Jennie%E5%9C%A8%E8%88%9E%E5%8F%B0%E4%B8%8A%E8%B5%B0%E7%A5%9E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
