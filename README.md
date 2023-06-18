@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 11:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 11:29:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [秦岚王阳吻戏](https://s.weibo.com/weibo?q=%E7%A7%A6%E5%B2%9A%E7%8E%8B%E9%98%B3%E5%90%BB%E6%88%8F&t=31&band_rank=5&Refer=top)<br />
 6. [蔡徐坤虞书欣甘比母女合影](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%94%98%E6%AF%94%E6%AF%8D%E5%A5%B3%E5%90%88%E5%BD%B1%23&t=31&band_rank=6&Refer=top)<br />
 7. [白敬亭宋轶今晚见](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6%E4%BB%8A%E6%99%9A%E8%A7%81%23&t=31&band_rank=7&Refer=top)<br />
-8. [父亲节](https://s.weibo.com/weibo?q=%E7%88%B6%E4%BA%B2%E8%8A%82&t=31&band_rank=8&Refer=top)<br />
-9. [在我25岁时爸爸给我了一套房子的钥匙](https://s.weibo.com/weibo?q=%E5%9C%A8%E6%88%9125%E5%B2%81%E6%97%B6%E7%88%B8%E7%88%B8%E7%BB%99%E6%88%91%E4%BA%86%E4%B8%80%E5%A5%97%E6%88%BF%E5%AD%90%E7%9A%84%E9%92%A5%E5%8C%99&t=31&band_rank=9&Refer=top)<br />
+8. [在我25岁时爸爸给我了一套房子的钥匙](https://s.weibo.com/weibo?q=%E5%9C%A8%E6%88%9125%E5%B2%81%E6%97%B6%E7%88%B8%E7%88%B8%E7%BB%99%E6%88%91%E4%BA%86%E4%B8%80%E5%A5%97%E6%88%BF%E5%AD%90%E7%9A%84%E9%92%A5%E5%8C%99&t=31&band_rank=8&Refer=top)<br />
+9. [父亲节](https://s.weibo.com/weibo?q=%E7%88%B6%E4%BA%B2%E8%8A%82&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
