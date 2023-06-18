@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 10:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 10:49:01</h4></div>
 
 > 微博  
 
@@ -32,9 +32,9 @@
 4. [稳产保丰 小麦主产区有这些举措](https://www.baidu.com/s?wd=%E7%A8%B3%E4%BA%A7%E4%BF%9D%E4%B8%B0+%E5%B0%8F%E9%BA%A6%E4%B8%BB%E4%BA%A7%E5%8C%BA%E6%9C%89%E8%BF%99%E4%BA%9B%E4%B8%BE%E6%8E%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [父亲节](https://www.baidu.com/s?wd=%E7%88%B6%E4%BA%B2%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子为保护儿子连刺丈夫3刀被判无罪](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%BA%E4%BF%9D%E6%8A%A4%E5%84%BF%E5%AD%90%E8%BF%9E%E5%88%BA%E4%B8%88%E5%A4%AB3%E5%88%80%E8%A2%AB%E5%88%A4%E6%97%A0%E7%BD%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [高管密集来华释放什么信号](https://www.baidu.com/s?wd=%E9%AB%98%E7%AE%A1%E5%AF%86%E9%9B%86%E6%9D%A5%E5%8D%8E%E9%87%8A%E6%94%BE%E4%BB%80%E4%B9%88%E4%BF%A1%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [端午公司发了3颗荔枝](https://www.baidu.com/s?wd=%E7%AB%AF%E5%8D%88%E5%85%AC%E5%8F%B8%E5%8F%91%E4%BA%863%E9%A2%97%E8%8D%94%E6%9E%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [球迷冲进场跪拜C罗举高高](https://www.baidu.com/s?wd=%E7%90%83%E8%BF%B7%E5%86%B2%E8%BF%9B%E5%9C%BA%E8%B7%AA%E6%8B%9CC%E7%BD%97%E4%B8%BE%E9%AB%98%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [端午公司发了3颗荔枝](https://www.baidu.com/s?wd=%E7%AB%AF%E5%8D%88%E5%85%AC%E5%8F%B8%E5%8F%91%E4%BA%863%E9%A2%97%E8%8D%94%E6%9E%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [谢娜唱《她她她》引争议](https://www.baidu.com/s?wd=%E8%B0%A2%E5%A8%9C%E5%94%B1%E3%80%8A%E5%A5%B9%E5%A5%B9%E5%A5%B9%E3%80%8B%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [跳河救人小哥说大家给我的太多了](https://www.baidu.com/s?wd=%E8%B7%B3%E6%B2%B3%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E8%AF%B4%E5%A4%A7%E5%AE%B6%E7%BB%99%E6%88%91%E7%9A%84%E5%A4%AA%E5%A4%9A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [稳产保丰 小麦主产区有这些举措](https://www.baidu.com/s?wd=%E7%A8%B3%E4%BA%A7%E4%BF%9D%E4%B8%B0+%E5%B0%8F%E9%BA%A6%E4%B8%BB%E4%BA%A7%E5%8C%BA%E6%9C%89%E8%BF%99%E4%BA%9B%E4%B8%BE%E6%8E%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [父亲节](https://www.baidu.com/s?wd=%E7%88%B6%E4%BA%B2%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子为保护儿子连刺丈夫3刀被判无罪](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%BA%E4%BF%9D%E6%8A%A4%E5%84%BF%E5%AD%90%E8%BF%9E%E5%88%BA%E4%B8%88%E5%A4%AB3%E5%88%80%E8%A2%AB%E5%88%A4%E6%97%A0%E7%BD%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [高管密集来华释放什么信号](https://www.baidu.com/s?wd=%E9%AB%98%E7%AE%A1%E5%AF%86%E9%9B%86%E6%9D%A5%E5%8D%8E%E9%87%8A%E6%94%BE%E4%BB%80%E4%B9%88%E4%BF%A1%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [端午公司发了3颗荔枝](https://www.baidu.com/s?wd=%E7%AB%AF%E5%8D%88%E5%85%AC%E5%8F%B8%E5%8F%91%E4%BA%863%E9%A2%97%E8%8D%94%E6%9E%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [球迷冲进场跪拜C罗举高高](https://www.baidu.com/s?wd=%E7%90%83%E8%BF%B7%E5%86%B2%E8%BF%9B%E5%9C%BA%E8%B7%AA%E6%8B%9CC%E7%BD%97%E4%B8%BE%E9%AB%98%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [端午公司发了3颗荔枝](https://www.baidu.com/s?wd=%E7%AB%AF%E5%8D%88%E5%85%AC%E5%8F%B8%E5%8F%91%E4%BA%863%E9%A2%97%E8%8D%94%E6%9E%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [谢娜唱《她她她》引争议](https://www.baidu.com/s?wd=%E8%B0%A2%E5%A8%9C%E5%94%B1%E3%80%8A%E5%A5%B9%E5%A5%B9%E5%A5%B9%E3%80%8B%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [跳河救人小哥说大家给我的太多了](https://www.baidu.com/s?wd=%E8%B7%B3%E6%B2%B3%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E8%AF%B4%E5%A4%A7%E5%AE%B6%E7%BB%99%E6%88%91%E7%9A%84%E5%A4%AA%E5%A4%9A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
