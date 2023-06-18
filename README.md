@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 18:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 18:29:01</h4></div>
 
 > 微博  
 
@@ -6,10 +6,10 @@
 2. [大四男生实习薪资1万4妈妈仰天大笑](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%9B%9B%E7%94%B7%E7%94%9F%E5%AE%9E%E4%B9%A0%E8%96%AA%E8%B5%841%E4%B8%874%E5%A6%88%E5%A6%88%E4%BB%B0%E5%A4%A9%E5%A4%A7%E7%AC%91%23&t=31&band_rank=2&Refer=top)<br />
 3. [世界最高坝启动大坝浇筑](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9C%80%E9%AB%98%E5%9D%9D%E5%90%AF%E5%8A%A8%E5%A4%A7%E5%9D%9D%E6%B5%87%E7%AD%91%23&t=31&band_rank=3&Refer=top)<br />
 4. [高铁上情侣想换座我拒绝了](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E4%B8%8A%E6%83%85%E4%BE%A3%E6%83%B3%E6%8D%A2%E5%BA%A7%E6%88%91%E6%8B%92%E7%BB%9D%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
-5. [我要给父亲打101分](https://s.weibo.com/weibo?q=%23%E6%88%91%E8%A6%81%E7%BB%99%E7%88%B6%E4%BA%B2%E6%89%93101%E5%88%86%23&t=31&band_rank=5&Refer=top)<br />
-6. [东航客服回应胡兵50万积分被清零](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E8%88%AA%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E8%83%A1%E5%85%B550%E4%B8%87%E7%A7%AF%E5%88%86%E8%A2%AB%E6%B8%85%E9%9B%B6%23&t=31&band_rank=6&Refer=top)<br />
-7. [女孩涂鸦楼梯把爸爸感动哭](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E6%B6%82%E9%B8%A6%E6%A5%BC%E6%A2%AF%E6%8A%8A%E7%88%B8%E7%88%B8%E6%84%9F%E5%8A%A8%E5%93%AD%23&t=31&band_rank=7&Refer=top)<br />
-8. [为什么阴干的衣服那么臭](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E9%98%B4%E5%B9%B2%E7%9A%84%E8%A1%A3%E6%9C%8D%E9%82%A3%E4%B9%88%E8%87%AD%23&t=31&band_rank=8&Refer=top)<br />
+5. [女孩涂鸦楼梯把爸爸感动哭](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E6%B6%82%E9%B8%A6%E6%A5%BC%E6%A2%AF%E6%8A%8A%E7%88%B8%E7%88%B8%E6%84%9F%E5%8A%A8%E5%93%AD%23&t=31&band_rank=5&Refer=top)<br />
+6. [为什么阴干的衣服那么臭](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E9%98%B4%E5%B9%B2%E7%9A%84%E8%A1%A3%E6%9C%8D%E9%82%A3%E4%B9%88%E8%87%AD%23&t=31&band_rank=6&Refer=top)<br />
+7. [我要给父亲打101分](https://s.weibo.com/weibo?q=%23%E6%88%91%E8%A6%81%E7%BB%99%E7%88%B6%E4%BA%B2%E6%89%93101%E5%88%86%23&t=31&band_rank=7&Refer=top)<br />
+8. [东航客服回应胡兵50万积分被清零](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E8%88%AA%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E8%83%A1%E5%85%B550%E4%B8%87%E7%A7%AF%E5%88%86%E8%A2%AB%E6%B8%85%E9%9B%B6%23&t=31&band_rank=8&Refer=top)<br />
 9. [女朋友说她拍到我出轨了](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%9C%8B%E5%8F%8B%E8%AF%B4%E5%A5%B9%E6%8B%8D%E5%88%B0%E6%88%91%E5%87%BA%E8%BD%A8%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -33,7 +33,7 @@
 5. [大四男生实习薪资1万4妈妈仰天大笑](https://www.baidu.com/s?wd=%E5%A4%A7%E5%9B%9B%E7%94%B7%E7%94%9F%E5%AE%9E%E4%B9%A0%E8%96%AA%E8%B5%841%E4%B8%874%E5%A6%88%E5%A6%88%E4%BB%B0%E5%A4%A9%E5%A4%A7%E7%AC%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子花52元取鱼刺称“医院赚大钱”](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B152%E5%85%83%E5%8F%96%E9%B1%BC%E5%88%BA%E7%A7%B0%E2%80%9C%E5%8C%BB%E9%99%A2%E8%B5%9A%E5%A4%A7%E9%92%B1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [父亲带12岁女儿休学1年骑行游中国](https://www.baidu.com/s?wd=%E7%88%B6%E4%BA%B2%E5%B8%A612%E5%B2%81%E5%A5%B3%E5%84%BF%E4%BC%91%E5%AD%A61%E5%B9%B4%E9%AA%91%E8%A1%8C%E6%B8%B8%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子因快误机要求出租车开进迪士尼](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%9B%A0%E5%BF%AB%E8%AF%AF%E6%9C%BA%E8%A6%81%E6%B1%82%E5%87%BA%E7%A7%9F%E8%BD%A6%E5%BC%80%E8%BF%9B%E8%BF%AA%E5%A3%AB%E5%B0%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [网友称火车站雨天不让提前进候车室](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B0%E7%81%AB%E8%BD%A6%E7%AB%99%E9%9B%A8%E5%A4%A9%E4%B8%8D%E8%AE%A9%E6%8F%90%E5%89%8D%E8%BF%9B%E5%80%99%E8%BD%A6%E5%AE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [#盘点父亲带娃#](https://www.baidu.com/s?wd=%23%E7%9B%98%E7%82%B9%E7%88%B6%E4%BA%B2%E5%B8%A6%E5%A8%83%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [大四男生实习薪资1万4妈妈仰天大笑](https://www.baidu.com/s?wd=%E5%A4%A7%E5%9B%9B%E7%94%B7%E7%94%9F%E5%AE%9E%E4%B9%A0%E8%96%AA%E8%B5%841%E4%B8%874%E5%A6%88%E5%A6%88%E4%BB%B0%E5%A4%A9%E5%A4%A7%E7%AC%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子花52元取鱼刺称“医院赚大钱”](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B152%E5%85%83%E5%8F%96%E9%B1%BC%E5%88%BA%E7%A7%B0%E2%80%9C%E5%8C%BB%E9%99%A2%E8%B5%9A%E5%A4%A7%E9%92%B1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [父亲带12岁女儿休学1年骑行游中国](https://www.baidu.com/s?wd=%E7%88%B6%E4%BA%B2%E5%B8%A612%E5%B2%81%E5%A5%B3%E5%84%BF%E4%BC%91%E5%AD%A61%E5%B9%B4%E9%AA%91%E8%A1%8C%E6%B8%B8%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子因快误机要求出租车开进迪士尼](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%9B%A0%E5%BF%AB%E8%AF%AF%E6%9C%BA%E8%A6%81%E6%B1%82%E5%87%BA%E7%A7%9F%E8%BD%A6%E5%BC%80%E8%BF%9B%E8%BF%AA%E5%A3%AB%E5%B0%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [网友称火车站雨天不让提前进候车室](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B0%E7%81%AB%E8%BD%A6%E7%AB%99%E9%9B%A8%E5%A4%A9%E4%B8%8D%E8%AE%A9%E6%8F%90%E5%89%8D%E8%BF%9B%E5%80%99%E8%BD%A6%E5%AE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [#盘点父亲带娃#](https://www.baidu.com/s?wd=%23%E7%9B%98%E7%82%B9%E7%88%B6%E4%BA%B2%E5%B8%A6%E5%A8%83%23&sa=fyb_news&rsv_dl=fyb_news)<br />
