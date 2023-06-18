@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 18:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 18:10:01</h4></div>
 
 > 微博  
 
@@ -33,7 +33,7 @@
 5. [大四男生实习薪资1万4妈妈仰天大笑](https://www.baidu.com/s?wd=%E5%A4%A7%E5%9B%9B%E7%94%B7%E7%94%9F%E5%AE%9E%E4%B9%A0%E8%96%AA%E8%B5%841%E4%B8%874%E5%A6%88%E5%A6%88%E4%BB%B0%E5%A4%A9%E5%A4%A7%E7%AC%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [父亲带12岁女儿休学1年骑行游中国](https://www.baidu.com/s?wd=%E7%88%B6%E4%BA%B2%E5%B8%A612%E5%B2%81%E5%A5%B3%E5%84%BF%E4%BC%91%E5%AD%A61%E5%B9%B4%E9%AA%91%E8%A1%8C%E6%B8%B8%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [广末凉子丈夫为妻子出轨道歉](https://www.baidu.com/s?wd=%E5%B9%BF%E6%9C%AB%E5%87%89%E5%AD%90%E4%B8%88%E5%A4%AB%E4%B8%BA%E5%A6%BB%E5%AD%90%E5%87%BA%E8%BD%A8%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子景区坐竹筏被汽车撞了](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%99%AF%E5%8C%BA%E5%9D%90%E7%AB%B9%E7%AD%8F%E8%A2%AB%E6%B1%BD%E8%BD%A6%E6%92%9E%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子花52元取鱼刺称“医院赚大钱”](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B152%E5%85%83%E5%8F%96%E9%B1%BC%E5%88%BA%E7%A7%B0%E2%80%9C%E5%8C%BB%E9%99%A2%E8%B5%9A%E5%A4%A7%E9%92%B1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [#盘点父亲带娃#](https://www.baidu.com/s?wd=%23%E7%9B%98%E7%82%B9%E7%88%B6%E4%BA%B2%E5%B8%A6%E5%A8%83%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [大四男生实习薪资1万4妈妈仰天大笑](https://www.baidu.com/s?wd=%E5%A4%A7%E5%9B%9B%E7%94%B7%E7%94%9F%E5%AE%9E%E4%B9%A0%E8%96%AA%E8%B5%841%E4%B8%874%E5%A6%88%E5%A6%88%E4%BB%B0%E5%A4%A9%E5%A4%A7%E7%AC%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [父亲带12岁女儿休学1年骑行游中国](https://www.baidu.com/s?wd=%E7%88%B6%E4%BA%B2%E5%B8%A612%E5%B2%81%E5%A5%B3%E5%84%BF%E4%BC%91%E5%AD%A61%E5%B9%B4%E9%AA%91%E8%A1%8C%E6%B8%B8%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [广末凉子丈夫为妻子出轨道歉](https://www.baidu.com/s?wd=%E5%B9%BF%E6%9C%AB%E5%87%89%E5%AD%90%E4%B8%88%E5%A4%AB%E4%B8%BA%E5%A6%BB%E5%AD%90%E5%87%BA%E8%BD%A8%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子景区坐竹筏被汽车撞了](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%99%AF%E5%8C%BA%E5%9D%90%E7%AB%B9%E7%AD%8F%E8%A2%AB%E6%B1%BD%E8%BD%A6%E6%92%9E%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子花52元取鱼刺称“医院赚大钱”](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B152%E5%85%83%E5%8F%96%E9%B1%BC%E5%88%BA%E7%A7%B0%E2%80%9C%E5%8C%BB%E9%99%A2%E8%B5%9A%E5%A4%A7%E9%92%B1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [#盘点父亲带娃#](https://www.baidu.com/s?wd=%23%E7%9B%98%E7%82%B9%E7%88%B6%E4%BA%B2%E5%B8%A6%E5%A8%83%23&sa=fyb_news&rsv_dl=fyb_news)<br />
