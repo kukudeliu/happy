@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 09:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 09:11:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [秦岚王阳吻戏](https://s.weibo.com/weibo?q=%E7%A7%A6%E5%B2%9A%E7%8E%8B%E9%98%B3%E5%90%BB%E6%88%8F&t=31&band_rank=5&Refer=top)<br />
 6. [在韩国比较吃香的中国女演员](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E9%9F%A9%E5%9B%BD%E6%AF%94%E8%BE%83%E5%90%83%E9%A6%99%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%BC%94%E5%91%98%23&t=31&band_rank=6&Refer=top)<br />
 7. [端午公司发了3颗荔枝](https://s.weibo.com/weibo?q=%23%E7%AB%AF%E5%8D%88%E5%85%AC%E5%8F%B8%E5%8F%91%E4%BA%863%E9%A2%97%E8%8D%94%E6%9E%9D%23&t=31&band_rank=7&Refer=top)<br />
-8. [百果园回应女子团购西瓜被嘲讽](https://s.weibo.com/weibo?q=%23%E7%99%BE%E6%9E%9C%E5%9B%AD%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E5%9B%A2%E8%B4%AD%E8%A5%BF%E7%93%9C%E8%A2%AB%E5%98%B2%E8%AE%BD%23&t=31&band_rank=8&Refer=top)<br />
-9. [白敬亭宋轶今晚见](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6%E4%BB%8A%E6%99%9A%E8%A7%81%23&t=31&band_rank=9&Refer=top)<br />
+8. [白敬亭宋轶今晚见](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6%E4%BB%8A%E6%99%9A%E8%A7%81%23&t=31&band_rank=8&Refer=top)<br />
+9. [百果园回应女子团购西瓜被嘲讽](https://s.weibo.com/weibo?q=%23%E7%99%BE%E6%9E%9C%E5%9B%AD%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E5%9B%A2%E8%B4%AD%E8%A5%BF%E7%93%9C%E8%A2%AB%E5%98%B2%E8%AE%BD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -20,7 +20,7 @@
 4. [长大后的哪一刻，你在心里悄悄与父亲和解，理解了他的难？有哪些无法当面说出口的话，想对他说？](https://www.zhihu.com/question/605713053)<br />
 5. [单位聚餐，你刚坐下领导就说「小王你还没资格坐我旁边」，如何高情商回答？](https://www.zhihu.com/question/606620590)<br />
 6. [普京称俄罗斯已经将承诺的第一部分核装置运抵白俄罗斯境内，如何看待此举？对局势有何影响？](https://www.zhihu.com/question/607107944)<br />
-7. []()<br />
+7. [商务部透露中国正推进加入 CPTPP 进程，释放了什么信号？加入 CPTPP 具有哪些意义？](https://www.zhihu.com/question/607175927)<br />
 8. [春秋时期秦国是强国，战国初期怎么沦为二流国家？](https://www.zhihu.com/question/607082365)<br />
 9. [福州一母子被洒落沥青烫伤身亡，涉事车辆超载 25 倍，运输公司多次上「黑榜」，涉事方将受到什么处罚？](https://www.zhihu.com/question/607112600)<br />
 
