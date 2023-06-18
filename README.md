@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 10:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 10:44:01</h4></div>
 
 > 微博  
 
@@ -28,22 +28,22 @@
 
 1. [努力创造新时代中国防沙治沙新奇迹](https://www.baidu.com/s?wd=%E5%8A%AA%E5%8A%9B%E5%88%9B%E9%80%A0%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E9%98%B2%E6%B2%99%E6%B2%BB%E6%B2%99%E6%96%B0%E5%A5%87%E8%BF%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [榜一大哥是我爸](https://www.baidu.com/s?wd=%E6%A6%9C%E4%B8%80%E5%A4%A7%E5%93%A5%E6%98%AF%E6%88%91%E7%88%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [中学老师跳10多米高桥救轻生女](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E8%80%81%E5%B8%88%E8%B7%B310%E5%A4%9A%E7%B1%B3%E9%AB%98%E6%A1%A5%E6%95%91%E8%BD%BB%E7%94%9F%E5%A5%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [美媒就布林肯访华发谬论 华春莹驳斥](https://www.baidu.com/s?wd=%E7%BE%8E%E5%AA%92%E5%B0%B1%E5%B8%83%E6%9E%97%E8%82%AF%E8%AE%BF%E5%8D%8E%E5%8F%91%E8%B0%AC%E8%AE%BA+%E5%8D%8E%E6%98%A5%E8%8E%B9%E9%A9%B3%E6%96%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [稳产保丰 小麦主产区有这些举措](https://www.baidu.com/s?wd=%E7%A8%B3%E4%BA%A7%E4%BF%9D%E4%B8%B0+%E5%B0%8F%E9%BA%A6%E4%B8%BB%E4%BA%A7%E5%8C%BA%E6%9C%89%E8%BF%99%E4%BA%9B%E4%B8%BE%E6%8E%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [父亲节](https://www.baidu.com/s?wd=%E7%88%B6%E4%BA%B2%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子为保护儿子连刺丈夫3刀被判无罪](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%BA%E4%BF%9D%E6%8A%A4%E5%84%BF%E5%AD%90%E8%BF%9E%E5%88%BA%E4%B8%88%E5%A4%AB3%E5%88%80%E8%A2%AB%E5%88%A4%E6%97%A0%E7%BD%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [端午公司发了3颗荔枝](https://www.baidu.com/s?wd=%E7%AB%AF%E5%8D%88%E5%85%AC%E5%8F%B8%E5%8F%91%E4%BA%863%E9%A2%97%E8%8D%94%E6%9E%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [高管密集来华释放什么信号](https://www.baidu.com/s?wd=%E9%AB%98%E7%AE%A1%E5%AF%86%E9%9B%86%E6%9D%A5%E5%8D%8E%E9%87%8A%E6%94%BE%E4%BB%80%E4%B9%88%E4%BF%A1%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [球迷冲进场跪拜C罗举高高](https://www.baidu.com/s?wd=%E7%90%83%E8%BF%B7%E5%86%B2%E8%BF%9B%E5%9C%BA%E8%B7%AA%E6%8B%9CC%E7%BD%97%E4%B8%BE%E9%AB%98%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [高管密集来华释放什么信号](https://www.baidu.com/s?wd=%E9%AB%98%E7%AE%A1%E5%AF%86%E9%9B%86%E6%9D%A5%E5%8D%8E%E9%87%8A%E6%94%BE%E4%BB%80%E4%B9%88%E4%BF%A1%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [端午公司发了3颗荔枝](https://www.baidu.com/s?wd=%E7%AB%AF%E5%8D%88%E5%85%AC%E5%8F%B8%E5%8F%91%E4%BA%863%E9%A2%97%E8%8D%94%E6%9E%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [中学老师跳10多米高桥救轻生女](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E8%80%81%E5%B8%88%E8%B7%B310%E5%A4%9A%E7%B1%B3%E9%AB%98%E6%A1%A5%E6%95%91%E8%BD%BB%E7%94%9F%E5%A5%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [努力创造新时代中国防沙治沙新奇迹](https://www.baidu.com/s?wd=%E5%8A%AA%E5%8A%9B%E5%88%9B%E9%80%A0%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E9%98%B2%E6%B2%99%E6%B2%BB%E6%B2%99%E6%96%B0%E5%A5%87%E8%BF%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [榜一大哥是我爸](https://www.baidu.com/s?wd=%E6%A6%9C%E4%B8%80%E5%A4%A7%E5%93%A5%E6%98%AF%E6%88%91%E7%88%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [中学老师跳10多米高桥救轻生女](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E8%80%81%E5%B8%88%E8%B7%B310%E5%A4%9A%E7%B1%B3%E9%AB%98%E6%A1%A5%E6%95%91%E8%BD%BB%E7%94%9F%E5%A5%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [美媒就布林肯访华发谬论 华春莹驳斥](https://www.baidu.com/s?wd=%E7%BE%8E%E5%AA%92%E5%B0%B1%E5%B8%83%E6%9E%97%E8%82%AF%E8%AE%BF%E5%8D%8E%E5%8F%91%E8%B0%AC%E8%AE%BA+%E5%8D%8E%E6%98%A5%E8%8E%B9%E9%A9%B3%E6%96%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [稳产保丰 小麦主产区有这些举措](https://www.baidu.com/s?wd=%E7%A8%B3%E4%BA%A7%E4%BF%9D%E4%B8%B0+%E5%B0%8F%E9%BA%A6%E4%B8%BB%E4%BA%A7%E5%8C%BA%E6%9C%89%E8%BF%99%E4%BA%9B%E4%B8%BE%E6%8E%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [父亲节](https://www.baidu.com/s?wd=%E7%88%B6%E4%BA%B2%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子为保护儿子连刺丈夫3刀被判无罪](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%BA%E4%BF%9D%E6%8A%A4%E5%84%BF%E5%AD%90%E8%BF%9E%E5%88%BA%E4%B8%88%E5%A4%AB3%E5%88%80%E8%A2%AB%E5%88%A4%E6%97%A0%E7%BD%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [端午公司发了3颗荔枝](https://www.baidu.com/s?wd=%E7%AB%AF%E5%8D%88%E5%85%AC%E5%8F%B8%E5%8F%91%E4%BA%863%E9%A2%97%E8%8D%94%E6%9E%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [高管密集来华释放什么信号](https://www.baidu.com/s?wd=%E9%AB%98%E7%AE%A1%E5%AF%86%E9%9B%86%E6%9D%A5%E5%8D%8E%E9%87%8A%E6%94%BE%E4%BB%80%E4%B9%88%E4%BF%A1%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [球迷冲进场跪拜C罗举高高](https://www.baidu.com/s?wd=%E7%90%83%E8%BF%B7%E5%86%B2%E8%BF%9B%E5%9C%BA%E8%B7%AA%E6%8B%9CC%E7%BD%97%E4%B8%BE%E9%AB%98%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [高管密集来华释放什么信号](https://www.baidu.com/s?wd=%E9%AB%98%E7%AE%A1%E5%AF%86%E9%9B%86%E6%9D%A5%E5%8D%8E%E9%87%8A%E6%94%BE%E4%BB%80%E4%B9%88%E4%BF%A1%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [端午公司发了3颗荔枝](https://www.baidu.com/s?wd=%E7%AB%AF%E5%8D%88%E5%85%AC%E5%8F%B8%E5%8F%91%E4%BA%863%E9%A2%97%E8%8D%94%E6%9E%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [中学老师跳10多米高桥救轻生女](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E8%80%81%E5%B8%88%E8%B7%B310%E5%A4%9A%E7%B1%B3%E9%AB%98%E6%A1%A5%E6%95%91%E8%BD%BB%E7%94%9F%E5%A5%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
