@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 00:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 00:23:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [迪丽热巴手滑进了梦海直播间](https://www.baidu.com/s?wd=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%89%8B%E6%BB%91%E8%BF%9B%E4%BA%86%E6%A2%A6%E6%B5%B7%E7%9B%B4%E6%92%AD%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [保洁阿姨拆洗窗帘不幸从5楼坠亡](https://www.baidu.com/s?wd=%E4%BF%9D%E6%B4%81%E9%98%BF%E5%A7%A8%E6%8B%86%E6%B4%97%E7%AA%97%E5%B8%98%E4%B8%8D%E5%B9%B8%E4%BB%8E5%E6%A5%BC%E5%9D%A0%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [厦大新闻学教授谈张雪峰言论](https://www.baidu.com/s?wd=%E5%8E%A6%E5%A4%A7%E6%96%B0%E9%97%BB%E5%AD%A6%E6%95%99%E6%8E%88%E8%B0%88%E5%BC%A0%E9%9B%AA%E5%B3%B0%E8%A8%80%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [电动摩托开始崛起](https://www.baidu.com/s?wd=%E7%94%B5%E5%8A%A8%E6%91%A9%E6%89%98%E5%BC%80%E5%A7%8B%E5%B4%9B%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子吐槽男子满背疙瘩进泳池游泳](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%90%90%E6%A7%BD%E7%94%B7%E5%AD%90%E6%BB%A1%E8%83%8C%E7%96%99%E7%98%A9%E8%BF%9B%E6%B3%B3%E6%B1%A0%E6%B8%B8%E6%B3%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [迪丽热巴手滑进了梦海直播间](https://www.baidu.com/s?wd=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%89%8B%E6%BB%91%E8%BF%9B%E4%BA%86%E6%A2%A6%E6%B5%B7%E7%9B%B4%E6%92%AD%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [保洁阿姨拆洗窗帘不幸从5楼坠亡](https://www.baidu.com/s?wd=%E4%BF%9D%E6%B4%81%E9%98%BF%E5%A7%A8%E6%8B%86%E6%B4%97%E7%AA%97%E5%B8%98%E4%B8%8D%E5%B9%B8%E4%BB%8E5%E6%A5%BC%E5%9D%A0%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [厦大新闻学教授谈张雪峰言论](https://www.baidu.com/s?wd=%E5%8E%A6%E5%A4%A7%E6%96%B0%E9%97%BB%E5%AD%A6%E6%95%99%E6%8E%88%E8%B0%88%E5%BC%A0%E9%9B%AA%E5%B3%B0%E8%A8%80%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [电动摩托开始崛起](https://www.baidu.com/s?wd=%E7%94%B5%E5%8A%A8%E6%91%A9%E6%89%98%E5%BC%80%E5%A7%8B%E5%B4%9B%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子吐槽男子满背疙瘩进泳池游泳](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%90%90%E6%A7%BD%E7%94%B7%E5%AD%90%E6%BB%A1%E8%83%8C%E7%96%99%E7%98%A9%E8%BF%9B%E6%B3%B3%E6%B1%A0%E6%B8%B8%E6%B3%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
