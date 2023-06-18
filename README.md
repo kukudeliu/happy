@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 15:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 15:26:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [小猪崽紫](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%8C%AA%E5%B4%BD%E7%B4%AB&t=31&band_rank=6&Refer=top)<br />
 7. [薛之谦听谈到赵英俊强忍着眼泪](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%90%AC%E8%B0%88%E5%88%B0%E8%B5%B5%E8%8B%B1%E4%BF%8A%E5%BC%BA%E5%BF%8D%E7%9D%80%E7%9C%BC%E6%B3%AA%23&t=31&band_rank=7&Refer=top)<br />
 8. [康康哭了](https://s.weibo.com/weibo?q=%23%E5%BA%B7%E5%BA%B7%E5%93%AD%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [在我25岁时爸爸给我了一套房子的钥匙](https://s.weibo.com/weibo?q=%E5%9C%A8%E6%88%9125%E5%B2%81%E6%97%B6%E7%88%B8%E7%88%B8%E7%BB%99%E6%88%91%E4%BA%86%E4%B8%80%E5%A5%97%E6%88%BF%E5%AD%90%E7%9A%84%E9%92%A5%E5%8C%99&t=31&band_rank=9&Refer=top)<br />
+9. [教育局回应奔驰在操场倒车险撞人](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%A5%94%E9%A9%B0%E5%9C%A8%E6%93%8D%E5%9C%BA%E5%80%92%E8%BD%A6%E9%99%A9%E6%92%9E%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
