@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 12:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 12:46:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [薛之谦听谈到赵英俊强忍着眼泪](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%90%AC%E8%B0%88%E5%88%B0%E8%B5%B5%E8%8B%B1%E4%BF%8A%E5%BC%BA%E5%BF%8D%E7%9D%80%E7%9C%BC%E6%B3%AA%23&t=31&band_rank=6&Refer=top)<br />
 7. [在我25岁时爸爸给我了一套房子的钥匙](https://s.weibo.com/weibo?q=%E5%9C%A8%E6%88%9125%E5%B2%81%E6%97%B6%E7%88%B8%E7%88%B8%E7%BB%99%E6%88%91%E4%BA%86%E4%B8%80%E5%A5%97%E6%88%BF%E5%AD%90%E7%9A%84%E9%92%A5%E5%8C%99&t=31&band_rank=7&Refer=top)<br />
 8. [布林肯访华](https://s.weibo.com/weibo?q=%23%E5%B8%83%E6%9E%97%E8%82%AF%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=8&Refer=top)<br />
-9. [专四](https://s.weibo.com/weibo?q=%E4%B8%93%E5%9B%9B&t=31&band_rank=9&Refer=top)<br />
+9. [蔡徐坤虞书欣甘比母女合影](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%94%98%E6%AF%94%E6%AF%8D%E5%A5%B3%E5%90%88%E5%BD%B1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -19,8 +19,8 @@
 3. [女子穿仙裙进迪士尼被拦，乐园须知若着装不当或被拒绝入园，你对该事件有何看法？](https://www.zhihu.com/question/606726034)<br />
 4. [长大后的哪一刻，你在心里悄悄与父亲和解，理解了他的难？有哪些无法当面说出口的话，想对他说？](https://www.zhihu.com/question/605713053)<br />
 5. [张雪峰回应「总是建议考生报理工科」，是建议大家去报考有专业壁垒的专业，如何看待此报考选择？](https://www.zhihu.com/question/606790360)<br />
-6. [冲进球场拥抱梅西的球迷被行拘，男子已 18 岁，如何看待这一结果？](https://www.zhihu.com/question/607010548)<br />
-7. [布林肯已到达北京开启访华行程，此行有哪些信息值得关注？](https://www.zhihu.com/question/607270958)<br />
+6. [布林肯已到达北京开启访华行程，此行有哪些信息值得关注？](https://www.zhihu.com/question/607270958)<br />
+7. [冲进球场拥抱梅西的球迷被行拘，男子已 18 岁，如何看待这一结果？](https://www.zhihu.com/question/607010548)<br />
 8. [「凉白开」这类饮品，真的是把水煮开再罐装的吗？](https://www.zhihu.com/question/606321291)<br />
 9. [报道称年轻人逐渐成购彩主力，有网友刮彩票解压、有网友花几块钱买份期待，如何看待此现象？你平时买彩票吗？](https://www.zhihu.com/question/606985149)<br />
 
