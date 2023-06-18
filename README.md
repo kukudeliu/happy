@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 03:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 03:55:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [女子景区坐竹筏被汽车撞了](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%99%AF%E5%8C%BA%E5%9D%90%E7%AB%B9%E7%AD%8F%E8%A2%AB%E6%B1%BD%E8%BD%A6%E6%92%9E%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [王石：房地产市场刚开始](https://www.baidu.com/s?wd=%E7%8E%8B%E7%9F%B3%EF%BC%9A%E6%88%BF%E5%9C%B0%E4%BA%A7%E5%B8%82%E5%9C%BA%E5%88%9A%E5%BC%80%E5%A7%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [迪丽热巴手滑进了梦海直播间](https://www.baidu.com/s?wd=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%89%8B%E6%BB%91%E8%BF%9B%E4%BA%86%E6%A2%A6%E6%B5%B7%E7%9B%B4%E6%92%AD%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [白酒价格大面积倒挂](https://www.baidu.com/s?wd=%E7%99%BD%E9%85%92%E4%BB%B7%E6%A0%BC%E5%A4%A7%E9%9D%A2%E7%A7%AF%E5%80%92%E6%8C%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [跨省存款火了：存50万差价5000](https://www.baidu.com/s?wd=%E8%B7%A8%E7%9C%81%E5%AD%98%E6%AC%BE%E7%81%AB%E4%BA%86%EF%BC%9A%E5%AD%9850%E4%B8%87%E5%B7%AE%E4%BB%B75000&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [女子景区坐竹筏被汽车撞了](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%99%AF%E5%8C%BA%E5%9D%90%E7%AB%B9%E7%AD%8F%E8%A2%AB%E6%B1%BD%E8%BD%A6%E6%92%9E%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [王石：房地产市场刚开始](https://www.baidu.com/s?wd=%E7%8E%8B%E7%9F%B3%EF%BC%9A%E6%88%BF%E5%9C%B0%E4%BA%A7%E5%B8%82%E5%9C%BA%E5%88%9A%E5%BC%80%E5%A7%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [迪丽热巴手滑进了梦海直播间](https://www.baidu.com/s?wd=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%89%8B%E6%BB%91%E8%BF%9B%E4%BA%86%E6%A2%A6%E6%B5%B7%E7%9B%B4%E6%92%AD%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [白酒价格大面积倒挂](https://www.baidu.com/s?wd=%E7%99%BD%E9%85%92%E4%BB%B7%E6%A0%BC%E5%A4%A7%E9%9D%A2%E7%A7%AF%E5%80%92%E6%8C%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [跨省存款火了：存50万差价5000](https://www.baidu.com/s?wd=%E8%B7%A8%E7%9C%81%E5%AD%98%E6%AC%BE%E7%81%AB%E4%BA%86%EF%BC%9A%E5%AD%9850%E4%B8%87%E5%B7%AE%E4%BB%B75000&sa=fyb_news&rsv_dl=fyb_news)<br />
