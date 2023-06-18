@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 19:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 19:05:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [为什么阴干的衣服那么臭](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E9%98%B4%E5%B9%B2%E7%9A%84%E8%A1%A3%E6%9C%8D%E9%82%A3%E4%B9%88%E8%87%AD%23&t=31&band_rank=2&Refer=top)<br />
 3. [世界最高坝启动大坝浇筑](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9C%80%E9%AB%98%E5%9D%9D%E5%90%AF%E5%8A%A8%E5%A4%A7%E5%9D%9D%E6%B5%87%E7%AD%91%23&t=31&band_rank=3&Refer=top)<br />
 4. [高铁上情侣想换座我拒绝了](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E4%B8%8A%E6%83%85%E4%BE%A3%E6%83%B3%E6%8D%A2%E5%BA%A7%E6%88%91%E6%8B%92%E7%BB%9D%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
-5. [女孩涂鸦楼梯把爸爸感动哭](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E6%B6%82%E9%B8%A6%E6%A5%BC%E6%A2%AF%E6%8A%8A%E7%88%B8%E7%88%B8%E6%84%9F%E5%8A%A8%E5%93%AD%23&t=31&band_rank=5&Refer=top)<br />
-6. [东航客服回应胡兵50万积分被清零](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E8%88%AA%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E8%83%A1%E5%85%B550%E4%B8%87%E7%A7%AF%E5%88%86%E8%A2%AB%E6%B8%85%E9%9B%B6%23&t=31&band_rank=6&Refer=top)<br />
-7. [女朋友说她拍到我出轨了](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%9C%8B%E5%8F%8B%E8%AF%B4%E5%A5%B9%E6%8B%8D%E5%88%B0%E6%88%91%E5%87%BA%E8%BD%A8%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+5. [东航客服回应胡兵50万积分被清零](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E8%88%AA%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E8%83%A1%E5%85%B550%E4%B8%87%E7%A7%AF%E5%88%86%E8%A2%AB%E6%B8%85%E9%9B%B6%23&t=31&band_rank=5&Refer=top)<br />
+6. [女朋友说她拍到我出轨了](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%9C%8B%E5%8F%8B%E8%AF%B4%E5%A5%B9%E6%8B%8D%E5%88%B0%E6%88%91%E5%87%BA%E8%BD%A8%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
+7. [女孩涂鸦楼梯把爸爸感动哭](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E6%B6%82%E9%B8%A6%E6%A5%BC%E6%A2%AF%E6%8A%8A%E7%88%B8%E7%88%B8%E6%84%9F%E5%8A%A8%E5%93%AD%23&t=31&band_rank=7&Refer=top)<br />
 8. [这背影居然是蔡少芬](https://s.weibo.com/weibo?q=%23%E8%BF%99%E8%83%8C%E5%BD%B1%E5%B1%85%E7%84%B6%E6%98%AF%E8%94%A1%E5%B0%91%E8%8A%AC%23&t=31&band_rank=8&Refer=top)<br />
-9. [香港名媛蔡天凤葬礼今日举行](https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%90%8D%E5%AA%9B%E8%94%A1%E5%A4%A9%E5%87%A4%E8%91%AC%E7%A4%BC%E4%BB%8A%E6%97%A5%E4%B8%BE%E8%A1%8C%23&t=31&band_rank=9&Refer=top)<br />
+9. [黄渤新片6岁儿子颜值](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%B8%A4%E6%96%B0%E7%89%876%E5%B2%81%E5%84%BF%E5%AD%90%E9%A2%9C%E5%80%BC%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -33,7 +33,7 @@
 5. [女子花52元取鱼刺称“医院赚大钱”](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B152%E5%85%83%E5%8F%96%E9%B1%BC%E5%88%BA%E7%A7%B0%E2%80%9C%E5%8C%BB%E9%99%A2%E8%B5%9A%E5%A4%A7%E9%92%B1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [白酒价格大面积倒挂](https://www.baidu.com/s?wd=%E7%99%BD%E9%85%92%E4%BB%B7%E6%A0%BC%E5%A4%A7%E9%9D%A2%E7%A7%AF%E5%80%92%E6%8C%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [电动摩托开始崛起](https://www.baidu.com/s?wd=%E7%94%B5%E5%8A%A8%E6%91%A9%E6%89%98%E5%BC%80%E5%A7%8B%E5%B4%9B%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [孟美岐演唱会门票两天还没卖完](https://www.baidu.com/s?wd=%E5%AD%9F%E7%BE%8E%E5%B2%90%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E4%B8%A4%E5%A4%A9%E8%BF%98%E6%B2%A1%E5%8D%96%E5%AE%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [华春莹上传中美外长握手照](https://www.baidu.com/s?wd=%E5%8D%8E%E6%98%A5%E8%8E%B9%E4%B8%8A%E4%BC%A0%E4%B8%AD%E7%BE%8E%E5%A4%96%E9%95%BF%E6%8F%A1%E6%89%8B%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [#盘点父亲带娃#](https://www.baidu.com/s?wd=%23%E7%9B%98%E7%82%B9%E7%88%B6%E4%BA%B2%E5%B8%A6%E5%A8%83%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [女子花52元取鱼刺称“医院赚大钱”](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B152%E5%85%83%E5%8F%96%E9%B1%BC%E5%88%BA%E7%A7%B0%E2%80%9C%E5%8C%BB%E9%99%A2%E8%B5%9A%E5%A4%A7%E9%92%B1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [白酒价格大面积倒挂](https://www.baidu.com/s?wd=%E7%99%BD%E9%85%92%E4%BB%B7%E6%A0%BC%E5%A4%A7%E9%9D%A2%E7%A7%AF%E5%80%92%E6%8C%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [电动摩托开始崛起](https://www.baidu.com/s?wd=%E7%94%B5%E5%8A%A8%E6%91%A9%E6%89%98%E5%BC%80%E5%A7%8B%E5%B4%9B%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [孟美岐演唱会门票两天还没卖完](https://www.baidu.com/s?wd=%E5%AD%9F%E7%BE%8E%E5%B2%90%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E4%B8%A4%E5%A4%A9%E8%BF%98%E6%B2%A1%E5%8D%96%E5%AE%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [华春莹上传中美外长握手照](https://www.baidu.com/s?wd=%E5%8D%8E%E6%98%A5%E8%8E%B9%E4%B8%8A%E4%BC%A0%E4%B8%AD%E7%BE%8E%E5%A4%96%E9%95%BF%E6%8F%A1%E6%89%8B%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [#盘点父亲带娃#](https://www.baidu.com/s?wd=%23%E7%9B%98%E7%82%B9%E7%88%B6%E4%BA%B2%E5%B8%A6%E5%A8%83%23&sa=fyb_news&rsv_dl=fyb_news)<br />
