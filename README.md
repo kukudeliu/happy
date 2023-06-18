@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 19:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 19:25:02</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [王俊凯说何炅黄磊背影好孤独](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E8%AF%B4%E4%BD%95%E7%82%85%E9%BB%84%E7%A3%8A%E8%83%8C%E5%BD%B1%E5%A5%BD%E5%AD%A4%E7%8B%AC%23&t=31&band_rank=4&Refer=top)<br />
 5. [东航客服回应胡兵50万积分被清零](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E8%88%AA%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E8%83%A1%E5%85%B550%E4%B8%87%E7%A7%AF%E5%88%86%E8%A2%AB%E6%B8%85%E9%9B%B6%23&t=31&band_rank=5&Refer=top)<br />
 6. [长风渡](https://s.weibo.com/weibo?q=%E9%95%BF%E9%A3%8E%E6%B8%A1&t=31&band_rank=6&Refer=top)<br />
-7. [女孩涂鸦楼梯把爸爸感动哭](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E6%B6%82%E9%B8%A6%E6%A5%BC%E6%A2%AF%E6%8A%8A%E7%88%B8%E7%88%B8%E6%84%9F%E5%8A%A8%E5%93%AD%23&t=31&band_rank=7&Refer=top)<br />
-8. [女朋友说她拍到我出轨了](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%9C%8B%E5%8F%8B%E8%AF%B4%E5%A5%B9%E6%8B%8D%E5%88%B0%E6%88%91%E5%87%BA%E8%BD%A8%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+7. [女朋友说她拍到我出轨了](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%9C%8B%E5%8F%8B%E8%AF%B4%E5%A5%B9%E6%8B%8D%E5%88%B0%E6%88%91%E5%87%BA%E8%BD%A8%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+8. [真情侣](https://s.weibo.com/weibo?q=%E7%9C%9F%E6%83%85%E4%BE%A3&t=31&band_rank=8&Refer=top)<br />
 9. [高铁上情侣想换座我拒绝了](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E4%B8%8A%E6%83%85%E4%BE%A3%E6%83%B3%E6%8D%A2%E5%BA%A7%E6%88%91%E6%8B%92%E7%BB%9D%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
