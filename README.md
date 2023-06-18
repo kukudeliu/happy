@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 16:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 16:43:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [香港名媛蔡天凤葬礼今日举行](https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%90%8D%E5%AA%9B%E8%94%A1%E5%A4%A9%E5%87%A4%E8%91%AC%E7%A4%BC%E4%BB%8A%E6%97%A5%E4%B8%BE%E8%A1%8C%23&t=31&band_rank=5&Refer=top)<br />
 6. [白敬亭上小号夸自己](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E4%B8%8A%E5%B0%8F%E5%8F%B7%E5%A4%B8%E8%87%AA%E5%B7%B1%23&t=31&band_rank=6&Refer=top)<br />
 7. [宋佳居然这么高](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BD%B3%E5%B1%85%E7%84%B6%E8%BF%99%E4%B9%88%E9%AB%98%23&t=31&band_rank=7&Refer=top)<br />
-8. [这背影居然是蔡少芬](https://s.weibo.com/weibo?q=%23%E8%BF%99%E8%83%8C%E5%BD%B1%E5%B1%85%E7%84%B6%E6%98%AF%E8%94%A1%E5%B0%91%E8%8A%AC%23&t=31&band_rank=8&Refer=top)<br />
-9. [肖战看到宝宝的反应](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%9C%8B%E5%88%B0%E5%AE%9D%E5%AE%9D%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=9&Refer=top)<br />
+8. [肖战看到宝宝的反应](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%9C%8B%E5%88%B0%E5%AE%9D%E5%AE%9D%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=8&Refer=top)<br />
+9. [这背影居然是蔡少芬](https://s.weibo.com/weibo?q=%23%E8%BF%99%E8%83%8C%E5%BD%B1%E5%B1%85%E7%84%B6%E6%98%AF%E8%94%A1%E5%B0%91%E8%8A%AC%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -20,9 +20,9 @@
 4. [长大后的哪一刻，你在心里悄悄与父亲和解，理解了他的难？有哪些无法当面说出口的话，想对他说？](https://www.zhihu.com/question/605713053)<br />
 5. [如何评价王宝强自导自演的电影《八角笼中》?](https://www.zhihu.com/question/566061816)<br />
 6. [婆婆病了，我是老大媳妇，兄弟姐妹说我工资最低想出钱让我照顾，该不该答应？](https://www.zhihu.com/question/605822171)<br />
-7. [张雪峰回应「总是建议考生报理工科」，是建议大家去报考有专业壁垒的专业，如何看待此报考选择？](https://www.zhihu.com/question/606790360)<br />
-8. [孩子对编程感兴趣，我一个月 3000 元没能力支持孩子学习这个费钱的爱好，如果是你会给孩子买课吗？](https://www.zhihu.com/question/605660809)<br />
-9. [调查组通报「鼠头鸭脖」事件调查处理情况，如果吃了被老鼠污染的食物怎么办？哪些事项需要注意？](https://www.zhihu.com/question/607260956)<br />
+7. [孩子对编程感兴趣，我一个月 3000 元没能力支持孩子学习这个费钱的爱好，如果是你会给孩子买课吗？](https://www.zhihu.com/question/605660809)<br />
+8. [调查组通报「鼠头鸭脖」事件调查处理情况，如果吃了被老鼠污染的食物怎么办？哪些事项需要注意？](https://www.zhihu.com/question/607260956)<br />
+9. [张雪峰回应「总是建议考生报理工科」，是建议大家去报考有专业壁垒的专业，如何看待此报考选择？](https://www.zhihu.com/question/606790360)<br />
 
 > 百度  
 
