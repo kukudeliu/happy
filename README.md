@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 21:54:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 21:55:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [白敬亭宋轶对视没有技巧全是感情](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6%E5%AF%B9%E8%A7%86%E6%B2%A1%E6%9C%89%E6%8A%80%E5%B7%A7%E5%85%A8%E6%98%AF%E6%84%9F%E6%83%85%23&t=31&band_rank=4&Refer=top)<br />
 5. [朴彩英四年前的发量vs现在的](https://s.weibo.com/weibo?q=%23%E6%9C%B4%E5%BD%A9%E8%8B%B1%E5%9B%9B%E5%B9%B4%E5%89%8D%E7%9A%84%E5%8F%91%E9%87%8Fvs%E7%8E%B0%E5%9C%A8%E7%9A%84%23&t=31&band_rank=5&Refer=top)<br />
 6. [清华大学vs广东工大](https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6vs%E5%B9%BF%E4%B8%9C%E5%B7%A5%E5%A4%A7%23&t=31&band_rank=6&Refer=top)<br />
-7. [王俊凯说何炅黄磊背影好孤独](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E8%AF%B4%E4%BD%95%E7%82%85%E9%BB%84%E7%A3%8A%E8%83%8C%E5%BD%B1%E5%A5%BD%E5%AD%A4%E7%8B%AC%23&t=31&band_rank=7&Refer=top)<br />
-8. [肖春生老了也是个帅老头](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%98%A5%E7%94%9F%E8%80%81%E4%BA%86%E4%B9%9F%E6%98%AF%E4%B8%AA%E5%B8%85%E8%80%81%E5%A4%B4%23&t=31&band_rank=8&Refer=top)<br />
+7. [肖春生老了也是个帅老头](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%98%A5%E7%94%9F%E8%80%81%E4%BA%86%E4%B9%9F%E6%98%AF%E4%B8%AA%E5%B8%85%E8%80%81%E5%A4%B4%23&t=31&band_rank=7&Refer=top)<br />
+8. [王俊凯说何炅黄磊背影好孤独](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E8%AF%B4%E4%BD%95%E7%82%85%E9%BB%84%E7%A3%8A%E8%83%8C%E5%BD%B1%E5%A5%BD%E5%AD%A4%E7%8B%AC%23&t=31&band_rank=8&Refer=top)<br />
 9. [高铁上情侣想换座我拒绝了](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E4%B8%8A%E6%83%85%E4%BE%A3%E6%83%B3%E6%8D%A2%E5%BA%A7%E6%88%91%E6%8B%92%E7%BB%9D%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
