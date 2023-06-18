@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 16:49:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 16:50:01</h4></div>
 
 > 微博  
 
 1. [东航客服回应胡兵50万积分被清零](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E8%88%AA%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E8%83%A1%E5%85%B550%E4%B8%87%E7%A7%AF%E5%88%86%E8%A2%AB%E6%B8%85%E9%9B%B6%23&t=31&band_rank=1&Refer=top)<br />
-2. [教育局回应奔驰在操场倒车险撞人](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%A5%94%E9%A9%B0%E5%9C%A8%E6%93%8D%E5%9C%BA%E5%80%92%E8%BD%A6%E9%99%A9%E6%92%9E%E4%BA%BA%23&t=31&band_rank=2&Refer=top)<br />
+2. [大四男生实习薪资1万4妈妈仰天大笑](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%9B%9B%E7%94%B7%E7%94%9F%E5%AE%9E%E4%B9%A0%E8%96%AA%E8%B5%841%E4%B8%874%E5%A6%88%E5%A6%88%E4%BB%B0%E5%A4%A9%E5%A4%A7%E7%AC%91%23&t=31&band_rank=2&Refer=top)<br />
 3. [世界最高坝启动大坝浇筑](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9C%80%E9%AB%98%E5%9D%9D%E5%90%AF%E5%8A%A8%E5%A4%A7%E5%9D%9D%E6%B5%87%E7%AD%91%23&t=31&band_rank=3&Refer=top)<br />
-4. [大四男生实习薪资1万4妈妈仰天大笑](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%9B%9B%E7%94%B7%E7%94%9F%E5%AE%9E%E4%B9%A0%E8%96%AA%E8%B5%841%E4%B8%874%E5%A6%88%E5%A6%88%E4%BB%B0%E5%A4%A9%E5%A4%A7%E7%AC%91%23&t=31&band_rank=4&Refer=top)<br />
+4. [教育局回应奔驰在操场倒车险撞人](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%A5%94%E9%A9%B0%E5%9C%A8%E6%93%8D%E5%9C%BA%E5%80%92%E8%BD%A6%E9%99%A9%E6%92%9E%E4%BA%BA%23&t=31&band_rank=4&Refer=top)<br />
 5. [女朋友说她拍到我出轨了](https://s.weibo.com/weibo?q=%E5%A5%B3%E6%9C%8B%E5%8F%8B%E8%AF%B4%E5%A5%B9%E6%8B%8D%E5%88%B0%E6%88%91%E5%87%BA%E8%BD%A8%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
 6. [香港名媛蔡天凤葬礼今日举行](https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%90%8D%E5%AA%9B%E8%94%A1%E5%A4%A9%E5%87%A4%E8%91%AC%E7%A4%BC%E4%BB%8A%E6%97%A5%E4%B8%BE%E8%A1%8C%23&t=31&band_rank=6&Refer=top)<br />
 7. [白敬亭上小号夸自己](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E4%B8%8A%E5%B0%8F%E5%8F%B7%E5%A4%B8%E8%87%AA%E5%B7%B1%23&t=31&band_rank=7&Refer=top)<br />
