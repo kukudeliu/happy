@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 12:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 12:30:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [薛之谦听谈到赵英俊强忍着眼泪](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%90%AC%E8%B0%88%E5%88%B0%E8%B5%B5%E8%8B%B1%E4%BF%8A%E5%BC%BA%E5%BF%8D%E7%9D%80%E7%9C%BC%E6%B3%AA%23&t=31&band_rank=4&Refer=top)<br />
 5. [秦岚王阳吻戏](https://s.weibo.com/weibo?q=%E7%A7%A6%E5%B2%9A%E7%8E%8B%E9%98%B3%E5%90%BB%E6%88%8F&t=31&band_rank=5&Refer=top)<br />
 6. [专四](https://s.weibo.com/weibo?q=%E4%B8%93%E5%9B%9B&t=31&band_rank=6&Refer=top)<br />
-7. [在我25岁时爸爸给我了一套房子的钥匙](https://s.weibo.com/weibo?q=%E5%9C%A8%E6%88%9125%E5%B2%81%E6%97%B6%E7%88%B8%E7%88%B8%E7%BB%99%E6%88%91%E4%BA%86%E4%B8%80%E5%A5%97%E6%88%BF%E5%AD%90%E7%9A%84%E9%92%A5%E5%8C%99&t=31&band_rank=7&Refer=top)<br />
-8. [孟美岐演唱会票价](https://s.weibo.com/weibo?q=%E5%AD%9F%E7%BE%8E%E5%B2%90%E6%BC%94%E5%94%B1%E4%BC%9A%E7%A5%A8%E4%BB%B7&t=31&band_rank=8&Refer=top)<br />
+7. [孟美岐演唱会票价](https://s.weibo.com/weibo?q=%E5%AD%9F%E7%BE%8E%E5%B2%90%E6%BC%94%E5%94%B1%E4%BC%9A%E7%A5%A8%E4%BB%B7&t=31&band_rank=7&Refer=top)<br />
+8. [在我25岁时爸爸给我了一套房子的钥匙](https://s.weibo.com/weibo?q=%E5%9C%A8%E6%88%9125%E5%B2%81%E6%97%B6%E7%88%B8%E7%88%B8%E7%BB%99%E6%88%91%E4%BA%86%E4%B8%80%E5%A5%97%E6%88%BF%E5%AD%90%E7%9A%84%E9%92%A5%E5%8C%99&t=31&band_rank=8&Refer=top)<br />
 9. [白敬亭宋轶今晚见](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6%E4%BB%8A%E6%99%9A%E8%A7%81%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -20,8 +20,8 @@
 4. [长大后的哪一刻，你在心里悄悄与父亲和解，理解了他的难？有哪些无法当面说出口的话，想对他说？](https://www.zhihu.com/question/605713053)<br />
 5. [张雪峰回应「总是建议考生报理工科」，是建议大家去报考有专业壁垒的专业，如何看待此报考选择？](https://www.zhihu.com/question/606790360)<br />
 6. [单位聚餐，你刚坐下领导就说「小王你还没资格坐我旁边」，如何高情商回答？](https://www.zhihu.com/question/606620590)<br />
-7. [「凉白开」这类饮品，真的是把水煮开再罐装的吗？](https://www.zhihu.com/question/606321291)<br />
-8. [冲进球场拥抱梅西的球迷被行拘，男子已 18 岁，如何看待这一结果？](https://www.zhihu.com/question/607010548)<br />
+7. [冲进球场拥抱梅西的球迷被行拘，男子已 18 岁，如何看待这一结果？](https://www.zhihu.com/question/607010548)<br />
+8. [「凉白开」这类饮品，真的是把水煮开再罐装的吗？](https://www.zhihu.com/question/606321291)<br />
 9. [布林肯已到达北京开启访华行程，此行有哪些信息值得关注？](https://www.zhihu.com/question/607270958)<br />
 
 > 百度  
