@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 22:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 22:54:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [保洁阿姨拆洗窗帘不幸从5楼坠亡](https://www.baidu.com/s?wd=%E4%BF%9D%E6%B4%81%E9%98%BF%E5%A7%A8%E6%8B%86%E6%B4%97%E7%AA%97%E5%B8%98%E4%B8%8D%E5%B9%B8%E4%BB%8E5%E6%A5%BC%E5%9D%A0%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [泳池惊现卫生巾?园方回应](https://www.baidu.com/s?wd=%E6%B3%B3%E6%B1%A0%E6%83%8A%E7%8E%B0%E5%8D%AB%E7%94%9F%E5%B7%BE%3F%E5%9B%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [懂得父亲的不易](https://www.baidu.com/s?wd=%E6%87%82%E5%BE%97%E7%88%B6%E4%BA%B2%E7%9A%84%E4%B8%8D%E6%98%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [杭州跳桥救人小哥治疗康复费用全免](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E8%B7%B3%E6%A1%A5%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E6%B2%BB%E7%96%97%E5%BA%B7%E5%A4%8D%E8%B4%B9%E7%94%A8%E5%85%A8%E5%85%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [2023年轻人省钱报告](https://www.baidu.com/s?wd=2023%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9C%81%E9%92%B1%E6%8A%A5%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [保洁阿姨拆洗窗帘不幸从5楼坠亡](https://www.baidu.com/s?wd=%E4%BF%9D%E6%B4%81%E9%98%BF%E5%A7%A8%E6%8B%86%E6%B4%97%E7%AA%97%E5%B8%98%E4%B8%8D%E5%B9%B8%E4%BB%8E5%E6%A5%BC%E5%9D%A0%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [泳池惊现卫生巾?园方回应](https://www.baidu.com/s?wd=%E6%B3%B3%E6%B1%A0%E6%83%8A%E7%8E%B0%E5%8D%AB%E7%94%9F%E5%B7%BE%3F%E5%9B%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [懂得父亲的不易](https://www.baidu.com/s?wd=%E6%87%82%E5%BE%97%E7%88%B6%E4%BA%B2%E7%9A%84%E4%B8%8D%E6%98%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [杭州跳桥救人小哥治疗康复费用全免](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E8%B7%B3%E6%A1%A5%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E6%B2%BB%E7%96%97%E5%BA%B7%E5%A4%8D%E8%B4%B9%E7%94%A8%E5%85%A8%E5%85%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [2023年轻人省钱报告](https://www.baidu.com/s?wd=2023%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9C%81%E9%92%B1%E6%8A%A5%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
