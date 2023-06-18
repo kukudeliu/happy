@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 22:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 22:18:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [布林肯已到达北京开启访华行程，此行有哪些信息值得关注？](https://www.zhihu.com/question/607270958)<br />
 5. [婆婆病了，我是老大媳妇，兄弟姐妹说我工资最低想出钱让我照顾，该不该答应？](https://www.zhihu.com/question/605822171)<br />
 6. [普京亮出俄乌和解协议草案「俄军一撤离基辅，就被扔进了垃圾堆」，哪些信息值得关注？](https://www.zhihu.com/question/607295832)<br />
-7. [顶级科研大佬的 PPT 长啥样？](https://www.zhihu.com/question/606148045)<br />
-8. [韩国首尔市 7 月起对学校供餐进行全面辐射检测，说明了什么问题？日本辐射可能会有哪些危害？](https://www.zhihu.com/question/607160207)<br />
-9. [一个表面绝对光滑的完美球形刚体，质量分布均匀，如何确定它是在旋转还是静止？](https://www.zhihu.com/question/606790924)<br />
+7. [韩国首尔市 7 月起对学校供餐进行全面辐射检测，说明了什么问题？日本辐射可能会有哪些危害？](https://www.zhihu.com/question/607160207)<br />
+8. [一个表面绝对光滑的完美球形刚体，质量分布均匀，如何确定它是在旋转还是静止？](https://www.zhihu.com/question/606790924)<br />
+9. [2023 LPL 夏季赛 RNG 1:2 不敌 TES，如何评价这场比赛？](https://www.zhihu.com/question/607295713)<br />
 
 > 百度  
 
