@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 16:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 16:04:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [商户招牌因易燃遭拆除却无法点燃](https://www.baidu.com/s?wd=%E5%95%86%E6%88%B7%E6%8B%9B%E7%89%8C%E5%9B%A0%E6%98%93%E7%87%83%E9%81%AD%E6%8B%86%E9%99%A4%E5%8D%B4%E6%97%A0%E6%B3%95%E7%82%B9%E7%87%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [官方回应城管执法中队长出轨女下属](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%9F%8E%E7%AE%A1%E6%89%A7%E6%B3%95%E4%B8%AD%E9%98%9F%E9%95%BF%E5%87%BA%E8%BD%A8%E5%A5%B3%E4%B8%8B%E5%B1%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [专家：水电煤气10年没涨价应适当涨](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E6%B0%B4%E7%94%B5%E7%85%A4%E6%B0%9410%E5%B9%B4%E6%B2%A1%E6%B6%A8%E4%BB%B7%E5%BA%94%E9%80%82%E5%BD%93%E6%B6%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [谢娜唱《她她她》引争议](https://www.baidu.com/s?wd=%E8%B0%A2%E5%A8%9C%E5%94%B1%E3%80%8A%E5%A5%B9%E5%A5%B9%E5%A5%B9%E3%80%8B%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [半个奢侈品圈都在李宇春演唱会](https://www.baidu.com/s?wd=%E5%8D%8A%E4%B8%AA%E5%A5%A2%E4%BE%88%E5%93%81%E5%9C%88%E9%83%BD%E5%9C%A8%E6%9D%8E%E5%AE%87%E6%98%A5%E6%BC%94%E5%94%B1%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [商户招牌因易燃遭拆除却无法点燃](https://www.baidu.com/s?wd=%E5%95%86%E6%88%B7%E6%8B%9B%E7%89%8C%E5%9B%A0%E6%98%93%E7%87%83%E9%81%AD%E6%8B%86%E9%99%A4%E5%8D%B4%E6%97%A0%E6%B3%95%E7%82%B9%E7%87%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [官方回应城管执法中队长出轨女下属](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%9F%8E%E7%AE%A1%E6%89%A7%E6%B3%95%E4%B8%AD%E9%98%9F%E9%95%BF%E5%87%BA%E8%BD%A8%E5%A5%B3%E4%B8%8B%E5%B1%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [专家：水电煤气10年没涨价应适当涨](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E6%B0%B4%E7%94%B5%E7%85%A4%E6%B0%9410%E5%B9%B4%E6%B2%A1%E6%B6%A8%E4%BB%B7%E5%BA%94%E9%80%82%E5%BD%93%E6%B6%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [谢娜唱《她她她》引争议](https://www.baidu.com/s?wd=%E8%B0%A2%E5%A8%9C%E5%94%B1%E3%80%8A%E5%A5%B9%E5%A5%B9%E5%A5%B9%E3%80%8B%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [半个奢侈品圈都在李宇春演唱会](https://www.baidu.com/s?wd=%E5%8D%8A%E4%B8%AA%E5%A5%A2%E4%BE%88%E5%93%81%E5%9C%88%E9%83%BD%E5%9C%A8%E6%9D%8E%E5%AE%87%E6%98%A5%E6%BC%94%E5%94%B1%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
