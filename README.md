@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 00:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 00:35:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [中国制造究竟有多牛](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E7%A9%B6%E7%AB%9F%E6%9C%89%E5%A4%9A%E7%89%9B%23&t=31&band_rank=3&Refer=top)<br />
 4. [迪丽热巴手滑进了梦海直播间](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%89%8B%E6%BB%91%E8%BF%9B%E4%BA%86%E6%A2%A6%E6%B5%B7%E7%9B%B4%E6%92%AD%E9%97%B4%23&t=31&band_rank=4&Refer=top)<br />
 5. [为什么阴干的衣服那么臭](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E9%98%B4%E5%B9%B2%E7%9A%84%E8%A1%A3%E6%9C%8D%E9%82%A3%E4%B9%88%E8%87%AD%23&t=31&band_rank=5&Refer=top)<br />
-6. [建议魏大勋别看](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E9%AD%8F%E5%A4%A7%E5%8B%8B%E5%88%AB%E7%9C%8B%23&t=31&band_rank=6&Refer=top)<br />
-7. [白敬亭宋轶对视没有技巧全是感情](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6%E5%AF%B9%E8%A7%86%E6%B2%A1%E6%9C%89%E6%8A%80%E5%B7%A7%E5%85%A8%E6%98%AF%E6%84%9F%E6%83%85%23&t=31&band_rank=7&Refer=top)<br />
+6. [白敬亭宋轶对视没有技巧全是感情](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6%E5%AF%B9%E8%A7%86%E6%B2%A1%E6%9C%89%E6%8A%80%E5%B7%A7%E5%85%A8%E6%98%AF%E6%84%9F%E6%83%85%23&t=31&band_rank=6&Refer=top)<br />
+7. [建议魏大勋别看](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E9%AD%8F%E5%A4%A7%E5%8B%8B%E5%88%AB%E7%9C%8B%23&t=31&band_rank=7&Refer=top)<br />
 8. [Jennie在舞台上走神](https://s.weibo.com/weibo?q=%23Jennie%E5%9C%A8%E8%88%9E%E5%8F%B0%E4%B8%8A%E8%B5%B0%E7%A5%9E%23&t=31&band_rank=8&Refer=top)<br />
 9. [长风渡首播反馈](https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%A3%8E%E6%B8%A1%E9%A6%96%E6%92%AD%E5%8F%8D%E9%A6%88%23&t=31&band_rank=9&Refer=top)<br />
 
@@ -34,7 +34,7 @@
 6. [迪丽热巴手滑进了梦海直播间](https://www.baidu.com/s?wd=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%89%8B%E6%BB%91%E8%BF%9B%E4%BA%86%E6%A2%A6%E6%B5%B7%E7%9B%B4%E6%92%AD%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [国企一把手收受124万被判4年](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BC%81%E4%B8%80%E6%8A%8A%E6%89%8B%E6%94%B6%E5%8F%97124%E4%B8%87%E8%A2%AB%E5%88%A44%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女生遭校园霸凌被多人掌掴?警方介入](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%81%AD%E6%A0%A1%E5%9B%AD%E9%9C%B8%E5%87%8C%E8%A2%AB%E5%A4%9A%E4%BA%BA%E6%8E%8C%E6%8E%B4%3F%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [保洁阿姨拆洗窗帘不幸从5楼坠亡](https://www.baidu.com/s?wd=%E4%BF%9D%E6%B4%81%E9%98%BF%E5%A7%A8%E6%8B%86%E6%B4%97%E7%AA%97%E5%B8%98%E4%B8%8D%E5%B9%B8%E4%BB%8E5%E6%A5%BC%E5%9D%A0%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [厦大新闻学教授谈张雪峰言论](https://www.baidu.com/s?wd=%E5%8E%A6%E5%A4%A7%E6%96%B0%E9%97%BB%E5%AD%A6%E6%95%99%E6%8E%88%E8%B0%88%E5%BC%A0%E9%9B%AA%E5%B3%B0%E8%A8%80%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [迪丽热巴手滑进了梦海直播间](https://www.baidu.com/s?wd=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%89%8B%E6%BB%91%E8%BF%9B%E4%BA%86%E6%A2%A6%E6%B5%B7%E7%9B%B4%E6%92%AD%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [国企一把手收受124万被判4年](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BC%81%E4%B8%80%E6%8A%8A%E6%89%8B%E6%94%B6%E5%8F%97124%E4%B8%87%E8%A2%AB%E5%88%A44%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女生遭校园霸凌被多人掌掴?警方介入](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%81%AD%E6%A0%A1%E5%9B%AD%E9%9C%B8%E5%87%8C%E8%A2%AB%E5%A4%9A%E4%BA%BA%E6%8E%8C%E6%8E%B4%3F%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [保洁阿姨拆洗窗帘不幸从5楼坠亡](https://www.baidu.com/s?wd=%E4%BF%9D%E6%B4%81%E9%98%BF%E5%A7%A8%E6%8B%86%E6%B4%97%E7%AA%97%E5%B8%98%E4%B8%8D%E5%B9%B8%E4%BB%8E5%E6%A5%BC%E5%9D%A0%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [厦大新闻学教授谈张雪峰言论](https://www.baidu.com/s?wd=%E5%8E%A6%E5%A4%A7%E6%96%B0%E9%97%BB%E5%AD%A6%E6%95%99%E6%8E%88%E8%B0%88%E5%BC%A0%E9%9B%AA%E5%B3%B0%E8%A8%80%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
