@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 07:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 07:06:01</h4></div>
 
 > 微博  
 
 1. [989大学](https://s.weibo.com/weibo?q=989%E5%A4%A7%E5%AD%A6&t=31&band_rank=1&Refer=top)<br />
-2. [真的别再关灯玩手机了](https://s.weibo.com/weibo?q=%23%E7%9C%9F%E7%9A%84%E5%88%AB%E5%86%8D%E5%85%B3%E7%81%AF%E7%8E%A9%E6%89%8B%E6%9C%BA%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
+2. [建议魏大勋别看](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E9%AD%8F%E5%A4%A7%E5%8B%8B%E5%88%AB%E7%9C%8B%23&t=31&band_rank=2&Refer=top)<br />
 3. [三夏农忙正当时](https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%A4%8F%E5%86%9C%E5%BF%99%E6%AD%A3%E5%BD%93%E6%97%B6%23&t=31&band_rank=3&Refer=top)<br />
-4. [迪丽热巴手滑进了梦海直播间](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%89%8B%E6%BB%91%E8%BF%9B%E4%BA%86%E6%A2%A6%E6%B5%B7%E7%9B%B4%E6%92%AD%E9%97%B4%23&t=31&band_rank=4&Refer=top)<br />
-5. [建议魏大勋别看](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E9%AD%8F%E5%A4%A7%E5%8B%8B%E5%88%AB%E7%9C%8B%23&t=31&band_rank=5&Refer=top)<br />
+4. [真的别再关灯玩手机了](https://s.weibo.com/weibo?q=%23%E7%9C%9F%E7%9A%84%E5%88%AB%E5%86%8D%E5%85%B3%E7%81%AF%E7%8E%A9%E6%89%8B%E6%9C%BA%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
+5. [迪丽热巴手滑进了梦海直播间](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%89%8B%E6%BB%91%E8%BF%9B%E4%BA%86%E6%A2%A6%E6%B5%B7%E7%9B%B4%E6%92%AD%E9%97%B4%23&t=31&band_rank=5&Refer=top)<br />
 6. [女儿考满分农民工父亲买了只烧鸡庆祝](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E8%80%83%E6%BB%A1%E5%88%86%E5%86%9C%E6%B0%91%E5%B7%A5%E7%88%B6%E4%BA%B2%E4%B9%B0%E4%BA%86%E5%8F%AA%E7%83%A7%E9%B8%A1%E5%BA%86%E7%A5%9D%23&t=31&band_rank=6&Refer=top)<br />
 7. [厦大新闻学教授谈张雪峰言论](https://s.weibo.com/weibo?q=%23%E5%8E%A6%E5%A4%A7%E6%96%B0%E9%97%BB%E5%AD%A6%E6%95%99%E6%8E%88%E8%B0%88%E5%BC%A0%E9%9B%AA%E5%B3%B0%E8%A8%80%E8%AE%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [大四男生实习薪资1万4妈妈仰天大笑](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%9B%9B%E7%94%B7%E7%94%9F%E5%AE%9E%E4%B9%A0%E8%96%AA%E8%B5%841%E4%B8%874%E5%A6%88%E5%A6%88%E4%BB%B0%E5%A4%A9%E5%A4%A7%E7%AC%91%23&t=31&band_rank=8&Refer=top)<br />
@@ -20,8 +20,8 @@
 4. [布林肯已到达北京开启访华行程，此行有哪些信息值得关注？](https://www.zhihu.com/question/607270958)<br />
 5. [高中同学 29 岁就成了顶尖 985 的副教授，看看普通的自己，会有什么想法？](https://www.zhihu.com/question/586589709)<br />
 6. [马斯克们力推的人造子宫，能否拯救我们的低生育率？](https://www.zhihu.com/question/606625465)<br />
-7. []()<br />
-8. [00 后男孩辞职花近 7 千元学卖烤鱼做摆摊短视频，月入 1 万 5 ，如何看待「摆摊创业」走红？](https://www.zhihu.com/question/606933388)<br />
+7. [00 后男孩辞职花近 7 千元学卖烤鱼做摆摊短视频，月入 1 万 5 ，如何看待「摆摊创业」走红？](https://www.zhihu.com/question/606933388)<br />
+8. []()<br />
 9. [如何评价王宝强自导自演的电影《八角笼中》?](https://www.zhihu.com/question/566061816)<br />
 
 > 百度  
