@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 15:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 15:09:02</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [中国有约](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%9C%89%E7%BA%A6%23&t=31&band_rank=3&Refer=top)<br />
 4. [白敬亭上小号夸自己](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E4%B8%8A%E5%B0%8F%E5%8F%B7%E5%A4%B8%E8%87%AA%E5%B7%B1%23&t=31&band_rank=4&Refer=top)<br />
 5. [领导跟你说辛苦了千万别说没事不辛苦](https://s.weibo.com/weibo?q=%E9%A2%86%E5%AF%BC%E8%B7%9F%E4%BD%A0%E8%AF%B4%E8%BE%9B%E8%8B%A6%E4%BA%86%E5%8D%83%E4%B8%87%E5%88%AB%E8%AF%B4%E6%B2%A1%E4%BA%8B%E4%B8%8D%E8%BE%9B%E8%8B%A6&t=31&band_rank=5&Refer=top)<br />
-6. [宋佳居然这么高](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BD%B3%E5%B1%85%E7%84%B6%E8%BF%99%E4%B9%88%E9%AB%98%23&t=31&band_rank=6&Refer=top)<br />
-7. [康康哭了](https://s.weibo.com/weibo?q=%23%E5%BA%B7%E5%BA%B7%E5%93%AD%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+6. [康康哭了](https://s.weibo.com/weibo?q=%23%E5%BA%B7%E5%BA%B7%E5%93%AD%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
+7. [宋佳居然这么高](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BD%B3%E5%B1%85%E7%84%B6%E8%BF%99%E4%B9%88%E9%AB%98%23&t=31&band_rank=7&Refer=top)<br />
 8. [薛之谦听谈到赵英俊强忍着眼泪](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%90%AC%E8%B0%88%E5%88%B0%E8%B5%B5%E8%8B%B1%E4%BF%8A%E5%BC%BA%E5%BF%8D%E7%9D%80%E7%9C%BC%E6%B3%AA%23&t=31&band_rank=8&Refer=top)<br />
-9. [百果园回应女子团购西瓜被嘲讽](https://s.weibo.com/weibo?q=%23%E7%99%BE%E6%9E%9C%E5%9B%AD%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E5%9B%A2%E8%B4%AD%E8%A5%BF%E7%93%9C%E8%A2%AB%E5%98%B2%E8%AE%BD%23&t=31&band_rank=9&Refer=top)<br />
+9. [在我25岁时爸爸给我了一套房子的钥匙](https://s.weibo.com/weibo?q=%E5%9C%A8%E6%88%9125%E5%B2%81%E6%97%B6%E7%88%B8%E7%88%B8%E7%BB%99%E6%88%91%E4%BA%86%E4%B8%80%E5%A5%97%E6%88%BF%E5%AD%90%E7%9A%84%E9%92%A5%E5%8C%99&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -34,7 +34,7 @@
 6. [女子为保护儿子连刺丈夫3刀被判无罪](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%BA%E4%BF%9D%E6%8A%A4%E5%84%BF%E5%AD%90%E8%BF%9E%E5%88%BA%E4%B8%88%E5%A4%AB3%E5%88%80%E8%A2%AB%E5%88%A4%E6%97%A0%E7%BD%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [央媒评鼠头鸭脖:一些干部缺法治素养](https://www.baidu.com/s?wd=%E5%A4%AE%E5%AA%92%E8%AF%84%E9%BC%A0%E5%A4%B4%E9%B8%AD%E8%84%96%3A%E4%B8%80%E4%BA%9B%E5%B9%B2%E9%83%A8%E7%BC%BA%E6%B3%95%E6%B2%BB%E7%B4%A0%E5%85%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [半个奢侈品圈都在李宇春演唱会](https://www.baidu.com/s?wd=%E5%8D%8A%E4%B8%AA%E5%A5%A2%E4%BE%88%E5%93%81%E5%9C%88%E9%83%BD%E5%9C%A8%E6%9D%8E%E5%AE%87%E6%98%A5%E6%BC%94%E5%94%B1%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [吃了被老鼠污染的食物怎么办？](https://www.baidu.com/s?wd=%E5%90%83%E4%BA%86%E8%A2%AB%E8%80%81%E9%BC%A0%E6%B1%A1%E6%9F%93%E7%9A%84%E9%A3%9F%E7%89%A9%E6%80%8E%E4%B9%88%E5%8A%9E%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [官方回应城管执法中队长出轨女下属](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%9F%8E%E7%AE%A1%E6%89%A7%E6%B3%95%E4%B8%AD%E9%98%9F%E9%95%BF%E5%87%BA%E8%BD%A8%E5%A5%B3%E4%B8%8B%E5%B1%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [女子为保护儿子连刺丈夫3刀被判无罪](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%BA%E4%BF%9D%E6%8A%A4%E5%84%BF%E5%AD%90%E8%BF%9E%E5%88%BA%E4%B8%88%E5%A4%AB3%E5%88%80%E8%A2%AB%E5%88%A4%E6%97%A0%E7%BD%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [央媒评鼠头鸭脖:一些干部缺法治素养](https://www.baidu.com/s?wd=%E5%A4%AE%E5%AA%92%E8%AF%84%E9%BC%A0%E5%A4%B4%E9%B8%AD%E8%84%96%3A%E4%B8%80%E4%BA%9B%E5%B9%B2%E9%83%A8%E7%BC%BA%E6%B3%95%E6%B2%BB%E7%B4%A0%E5%85%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [半个奢侈品圈都在李宇春演唱会](https://www.baidu.com/s?wd=%E5%8D%8A%E4%B8%AA%E5%A5%A2%E4%BE%88%E5%93%81%E5%9C%88%E9%83%BD%E5%9C%A8%E6%9D%8E%E5%AE%87%E6%98%A5%E6%BC%94%E5%94%B1%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [吃了被老鼠污染的食物怎么办？](https://www.baidu.com/s?wd=%E5%90%83%E4%BA%86%E8%A2%AB%E8%80%81%E9%BC%A0%E6%B1%A1%E6%9F%93%E7%9A%84%E9%A3%9F%E7%89%A9%E6%80%8E%E4%B9%88%E5%8A%9E%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [官方回应城管执法中队长出轨女下属](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%9F%8E%E7%AE%A1%E6%89%A7%E6%B3%95%E4%B8%AD%E9%98%9F%E9%95%BF%E5%87%BA%E8%BD%A8%E5%A5%B3%E4%B8%8B%E5%B1%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
