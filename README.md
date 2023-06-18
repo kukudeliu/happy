@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 13:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 13:46:01</h4></div>
 
 > 微博  
 
-1. [孟美岐演唱会门票两天还没卖完](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E7%BE%8E%E5%B2%90%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E4%B8%A4%E5%A4%A9%E8%BF%98%E6%B2%A1%E5%8D%96%E5%AE%8C%23&t=31&band_rank=1&Refer=top)<br />
-2. [小猪崽紫](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%8C%AA%E5%B4%BD%E7%B4%AB&t=31&band_rank=2&Refer=top)<br />
+1. [小猪崽紫](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%8C%AA%E5%B4%BD%E7%B4%AB&t=31&band_rank=1&Refer=top)<br />
+2. [孟美岐演唱会门票两天还没卖完](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E7%BE%8E%E5%B2%90%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E4%B8%A4%E5%A4%A9%E8%BF%98%E6%B2%A1%E5%8D%96%E5%AE%8C%23&t=31&band_rank=2&Refer=top)<br />
 3. [中国有约](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%9C%89%E7%BA%A6%23&t=31&band_rank=3&Refer=top)<br />
 4. [孟美岐演唱会票价](https://s.weibo.com/weibo?q=%E5%AD%9F%E7%BE%8E%E5%B2%90%E6%BC%94%E5%94%B1%E4%BC%9A%E7%A5%A8%E4%BB%B7&t=31&band_rank=4&Refer=top)<br />
 5. [领导跟你说辛苦了千万别说没事不辛苦](https://s.weibo.com/weibo?q=%E9%A2%86%E5%AF%BC%E8%B7%9F%E4%BD%A0%E8%AF%B4%E8%BE%9B%E8%8B%A6%E4%BA%86%E5%8D%83%E4%B8%87%E5%88%AB%E8%AF%B4%E6%B2%A1%E4%BA%8B%E4%B8%8D%E8%BE%9B%E8%8B%A6&t=31&band_rank=5&Refer=top)<br />
