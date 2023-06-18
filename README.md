@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 08:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 08:41:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [蔡徐坤虞书欣甘比母女合影](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%94%98%E6%AF%94%E6%AF%8D%E5%A5%B3%E5%90%88%E5%BD%B1%23&t=31&band_rank=4&Refer=top)<br />
 5. [半个奢侈品圈都在李宇春演唱会](https://s.weibo.com/weibo?q=%23%E5%8D%8A%E4%B8%AA%E5%A5%A2%E4%BE%88%E5%93%81%E5%9C%88%E9%83%BD%E5%9C%A8%E6%9D%8E%E5%AE%87%E6%98%A5%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=5&Refer=top)<br />
 6. [在韩国比较吃香的中国女演员](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E9%9F%A9%E5%9B%BD%E6%AF%94%E8%BE%83%E5%90%83%E9%A6%99%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%BC%94%E5%91%98%23&t=31&band_rank=6&Refer=top)<br />
-7. [谢娜 她她她](https://s.weibo.com/weibo?q=%E8%B0%A2%E5%A8%9C%20%E5%A5%B9%E5%A5%B9%E5%A5%B9&t=31&band_rank=7&Refer=top)<br />
-8. [榜一大哥是我爸](https://s.weibo.com/weibo?q=%23%E6%A6%9C%E4%B8%80%E5%A4%A7%E5%93%A5%E6%98%AF%E6%88%91%E7%88%B8%23&t=31&band_rank=8&Refer=top)<br />
+7. [男子低血糖饿晕商户们霸总式投喂](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%BD%8E%E8%A1%80%E7%B3%96%E9%A5%BF%E6%99%95%E5%95%86%E6%88%B7%E4%BB%AC%E9%9C%B8%E6%80%BB%E5%BC%8F%E6%8A%95%E5%96%82%23&t=31&band_rank=7&Refer=top)<br />
+8. [谢娜 她她她](https://s.weibo.com/weibo?q=%E8%B0%A2%E5%A8%9C%20%E5%A5%B9%E5%A5%B9%E5%A5%B9&t=31&band_rank=8&Refer=top)<br />
 9. [感谢鲁U3G833](https://s.weibo.com/weibo?q=%23%E6%84%9F%E8%B0%A2%E9%B2%81U3G833%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
