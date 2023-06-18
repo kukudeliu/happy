@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 02:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 02:22:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [董明珠称全世界只有格力空调不吹人](https://www.baidu.com/s?wd=%E8%91%A3%E6%98%8E%E7%8F%A0%E7%A7%B0%E5%85%A8%E4%B8%96%E7%95%8C%E5%8F%AA%E6%9C%89%E6%A0%BC%E5%8A%9B%E7%A9%BA%E8%B0%83%E4%B8%8D%E5%90%B9%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [泳池惊现卫生巾?园方回应](https://www.baidu.com/s?wd=%E6%B3%B3%E6%B1%A0%E6%83%8A%E7%8E%B0%E5%8D%AB%E7%94%9F%E5%B7%BE%3F%E5%9B%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [迪丽热巴手滑进了梦海直播间](https://www.baidu.com/s?wd=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%89%8B%E6%BB%91%E8%BF%9B%E4%BA%86%E6%A2%A6%E6%B5%B7%E7%9B%B4%E6%92%AD%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [李荣浩去了杨丞琳演唱会](https://www.baidu.com/s?wd=%E6%9D%8E%E8%8D%A3%E6%B5%A9%E5%8E%BB%E4%BA%86%E6%9D%A8%E4%B8%9E%E7%90%B3%E6%BC%94%E5%94%B1%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [克宫：对乌非军事化目标已实现](https://www.baidu.com/s?wd=%E5%85%8B%E5%AE%AB%EF%BC%9A%E5%AF%B9%E4%B9%8C%E9%9D%9E%E5%86%9B%E4%BA%8B%E5%8C%96%E7%9B%AE%E6%A0%87%E5%B7%B2%E5%AE%9E%E7%8E%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [杭州跳桥救人小哥治疗康复费用全免](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E8%B7%B3%E6%A1%A5%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E6%B2%BB%E7%96%97%E5%BA%B7%E5%A4%8D%E8%B4%B9%E7%94%A8%E5%85%A8%E5%85%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [李荣浩去了杨丞琳演唱会](https://www.baidu.com/s?wd=%E6%9D%8E%E8%8D%A3%E6%B5%A9%E5%8E%BB%E4%BA%86%E6%9D%A8%E4%B8%9E%E7%90%B3%E6%BC%94%E5%94%B1%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [董明珠称全世界只有格力空调不吹人](https://www.baidu.com/s?wd=%E8%91%A3%E6%98%8E%E7%8F%A0%E7%A7%B0%E5%85%A8%E4%B8%96%E7%95%8C%E5%8F%AA%E6%9C%89%E6%A0%BC%E5%8A%9B%E7%A9%BA%E8%B0%83%E4%B8%8D%E5%90%B9%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [泳池惊现卫生巾?园方回应](https://www.baidu.com/s?wd=%E6%B3%B3%E6%B1%A0%E6%83%8A%E7%8E%B0%E5%8D%AB%E7%94%9F%E5%B7%BE%3F%E5%9B%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [迪丽热巴手滑进了梦海直播间](https://www.baidu.com/s?wd=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%89%8B%E6%BB%91%E8%BF%9B%E4%BA%86%E6%A2%A6%E6%B5%B7%E7%9B%B4%E6%92%AD%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [李荣浩去了杨丞琳演唱会](https://www.baidu.com/s?wd=%E6%9D%8E%E8%8D%A3%E6%B5%A9%E5%8E%BB%E4%BA%86%E6%9D%A8%E4%B8%9E%E7%90%B3%E6%BC%94%E5%94%B1%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [克宫：对乌非军事化目标已实现](https://www.baidu.com/s?wd=%E5%85%8B%E5%AE%AB%EF%BC%9A%E5%AF%B9%E4%B9%8C%E9%9D%9E%E5%86%9B%E4%BA%8B%E5%8C%96%E7%9B%AE%E6%A0%87%E5%B7%B2%E5%AE%9E%E7%8E%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [杭州跳桥救人小哥治疗康复费用全免](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E8%B7%B3%E6%A1%A5%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E6%B2%BB%E7%96%97%E5%BA%B7%E5%A4%8D%E8%B4%B9%E7%94%A8%E5%85%A8%E5%85%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [李荣浩去了杨丞琳演唱会](https://www.baidu.com/s?wd=%E6%9D%8E%E8%8D%A3%E6%B5%A9%E5%8E%BB%E4%BA%86%E6%9D%A8%E4%B8%9E%E7%90%B3%E6%BC%94%E5%94%B1%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
