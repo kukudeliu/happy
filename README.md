@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 10:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 10:55:01</h4></div>
 
 > 微博  
 
@@ -19,8 +19,8 @@
 3. [商务部透露中国正推进加入 CPTPP 进程，释放了什么信号？加入 CPTPP 具有哪些意义？](https://www.zhihu.com/question/607175927)<br />
 4. [长大后的哪一刻，你在心里悄悄与父亲和解，理解了他的难？有哪些无法当面说出口的话，想对他说？](https://www.zhihu.com/question/605713053)<br />
 5. [单位聚餐，你刚坐下领导就说「小王你还没资格坐我旁边」，如何高情商回答？](https://www.zhihu.com/question/606620590)<br />
-6. [在农村，为何有人专门高价收购五年以上的老母鸡？](https://www.zhihu.com/question/421033694)<br />
-7. [张雪峰回应「总是建议考生报理工科」，是建议大家去报考有专业壁垒的专业，如何看待此报考选择？](https://www.zhihu.com/question/606790360)<br />
+6. [张雪峰回应「总是建议考生报理工科」，是建议大家去报考有专业壁垒的专业，如何看待此报考选择？](https://www.zhihu.com/question/606790360)<br />
+7. [在农村，为何有人专门高价收购五年以上的老母鸡？](https://www.zhihu.com/question/421033694)<br />
 8. [NBA 联盟对莫兰特停薪禁赛 25 场，你觉得这个处罚是轻了还是重了？](https://www.zhihu.com/question/607141068)<br />
 9. [如何评价近期在德国南部城镇诺德林根出土的青铜器？](https://www.zhihu.com/question/607078479)<br />
 
