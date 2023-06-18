@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 07:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 07:37:01</h4></div>
 
 > 微博  
 
@@ -9,20 +9,20 @@
 5. [厦大新闻学教授谈张雪峰言论](https://s.weibo.com/weibo?q=%23%E5%8E%A6%E5%A4%A7%E6%96%B0%E9%97%BB%E5%AD%A6%E6%95%99%E6%8E%88%E8%B0%88%E5%BC%A0%E9%9B%AA%E5%B3%B0%E8%A8%80%E8%AE%BA%23&t=31&band_rank=5&Refer=top)<br />
 6. [女儿考满分农民工父亲买了只烧鸡庆祝](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E8%80%83%E6%BB%A1%E5%88%86%E5%86%9C%E6%B0%91%E5%B7%A5%E7%88%B6%E4%BA%B2%E4%B9%B0%E4%BA%86%E5%8F%AA%E7%83%A7%E9%B8%A1%E5%BA%86%E7%A5%9D%23&t=31&band_rank=6&Refer=top)<br />
 7. [建议魏大勋别看](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E9%AD%8F%E5%A4%A7%E5%8B%8B%E5%88%AB%E7%9C%8B%23&t=31&band_rank=7&Refer=top)<br />
-8. [肖战 人生可不止这一片什刹海](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%20%E4%BA%BA%E7%94%9F%E5%8F%AF%E4%B8%8D%E6%AD%A2%E8%BF%99%E4%B8%80%E7%89%87%E4%BB%80%E5%88%B9%E6%B5%B7&t=31&band_rank=8&Refer=top)<br />
-9. [大四男生实习薪资1万4妈妈仰天大笑](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%9B%9B%E7%94%B7%E7%94%9F%E5%AE%9E%E4%B9%A0%E8%96%AA%E8%B5%841%E4%B8%874%E5%A6%88%E5%A6%88%E4%BB%B0%E5%A4%A9%E5%A4%A7%E7%AC%91%23&t=31&band_rank=9&Refer=top)<br />
+8. [大四男生实习薪资1万4妈妈仰天大笑](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%9B%9B%E7%94%B7%E7%94%9F%E5%AE%9E%E4%B9%A0%E8%96%AA%E8%B5%841%E4%B8%874%E5%A6%88%E5%A6%88%E4%BB%B0%E5%A4%A9%E5%A4%A7%E7%AC%91%23&t=31&band_rank=8&Refer=top)<br />
+9. [肖战 人生可不止这一片什刹海](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%20%E4%BA%BA%E7%94%9F%E5%8F%AF%E4%B8%8D%E6%AD%A2%E8%BF%99%E4%B8%80%E7%89%87%E4%BB%80%E5%88%B9%E6%B5%B7&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [韩媒称「调查孙准浩的中国警方已收到批捕文件，将深入调查」，如何看待此事？后续进展如何？](https://www.zhihu.com/question/605029126)<br />
 2. [高中同学 29 岁就成了顶尖 985 的副教授，看看普通的自己，会有什么想法？](https://www.zhihu.com/question/586589709)<br />
 3. []()<br />
-4. [布林肯已到达北京开启访华行程，此行有哪些信息值得关注？](https://www.zhihu.com/question/607270958)<br />
-5. [如何评价王宝强自导自演的电影《八角笼中》?](https://www.zhihu.com/question/566061816)<br />
+4. [如何评价王宝强自导自演的电影《八角笼中》?](https://www.zhihu.com/question/566061816)<br />
+5. [一个表面绝对光滑的完美球形刚体，质量分布均匀，如何确定它是在旋转还是静止？](https://www.zhihu.com/question/606790924)<br />
 6. [拉夫罗夫称当俄特别军事行动目标达成后，将迎来一个不一样的世界，西方主导的全球化将不复存在，如何解读？](https://www.zhihu.com/question/607148983)<br />
-7. [一个表面绝对光滑的完美球形刚体，质量分布均匀，如何确定它是在旋转还是静止？](https://www.zhihu.com/question/606790924)<br />
+7. [广东工业大学击败清华大学首夺 CUBAL 冠军，陈国豪 30+10，曾煜成准绝杀，如何评价本场比赛？](https://www.zhihu.com/question/607337740)<br />
 8. [普京亮出俄乌和解协议草案「俄军一撤离基辅，就被扔进了垃圾堆」，哪些信息值得关注？](https://www.zhihu.com/question/607295832)<br />
-9. [广东工业大学击败清华大学首夺 CUBAL 冠军，陈国豪 30+10，曾煜成准绝杀，如何评价本场比赛？](https://www.zhihu.com/question/607337740)<br />
+9. [历史大剧《诸葛亮传》将开拍，演孔明的人何在？谁比较适合演诸葛亮？能超过经典吗？](https://www.zhihu.com/question/606913816)<br />
 
 > 百度  
 
