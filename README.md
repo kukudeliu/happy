@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 09:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 09:06:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [在韩国比较吃香的中国女演员](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E9%9F%A9%E5%9B%BD%E6%AF%94%E8%BE%83%E5%90%83%E9%A6%99%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%BC%94%E5%91%98%23&t=31&band_rank=6&Refer=top)<br />
 7. [百果园回应女子团购西瓜被嘲讽](https://s.weibo.com/weibo?q=%23%E7%99%BE%E6%9E%9C%E5%9B%AD%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E5%9B%A2%E8%B4%AD%E8%A5%BF%E7%93%9C%E8%A2%AB%E5%98%B2%E8%AE%BD%23&t=31&band_rank=7&Refer=top)<br />
 8. [端午公司发了3颗荔枝](https://s.weibo.com/weibo?q=%23%E7%AB%AF%E5%8D%88%E5%85%AC%E5%8F%B8%E5%8F%91%E4%BA%863%E9%A2%97%E8%8D%94%E6%9E%9D%23&t=31&band_rank=8&Refer=top)<br />
-9. [男子低血糖饿晕商户们霸总式投喂](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%BD%8E%E8%A1%80%E7%B3%96%E9%A5%BF%E6%99%95%E5%95%86%E6%88%B7%E4%BB%AC%E9%9C%B8%E6%80%BB%E5%BC%8F%E6%8A%95%E5%96%82%23&t=31&band_rank=9&Refer=top)<br />
+9. [父亲节祝福](https://s.weibo.com/weibo?q=%E7%88%B6%E4%BA%B2%E8%8A%82%E7%A5%9D%E7%A6%8F&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
