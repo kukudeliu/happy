@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 09:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 09:49:01</h4></div>
 
 > 微博  
 
@@ -32,9 +32,9 @@
 4. [稳产保丰 小麦主产区有这些举措](https://www.baidu.com/s?wd=%E7%A8%B3%E4%BA%A7%E4%BF%9D%E4%B8%B0+%E5%B0%8F%E9%BA%A6%E4%B8%BB%E4%BA%A7%E5%8C%BA%E6%9C%89%E8%BF%99%E4%BA%9B%E4%B8%BE%E6%8E%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [父亲节](https://www.baidu.com/s?wd=%E7%88%B6%E4%BA%B2%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子为保护儿子连刺丈夫3刀被判无罪](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%BA%E4%BF%9D%E6%8A%A4%E5%84%BF%E5%AD%90%E8%BF%9E%E5%88%BA%E4%B8%88%E5%A4%AB3%E5%88%80%E8%A2%AB%E5%88%A4%E6%97%A0%E7%BD%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [球迷冲进场跪拜C罗举高高](https://www.baidu.com/s?wd=%E7%90%83%E8%BF%B7%E5%86%B2%E8%BF%9B%E5%9C%BA%E8%B7%AA%E6%8B%9CC%E7%BD%97%E4%B8%BE%E9%AB%98%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [大学生“以证换狗”走红背后](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E2%80%9C%E4%BB%A5%E8%AF%81%E6%8D%A2%E7%8B%97%E2%80%9D%E8%B5%B0%E7%BA%A2%E8%83%8C%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [韩媒：孙准浩被正式批捕](https://www.baidu.com/s?wd=%E9%9F%A9%E5%AA%92%EF%BC%9A%E5%AD%99%E5%87%86%E6%B5%A9%E8%A2%AB%E6%AD%A3%E5%BC%8F%E6%89%B9%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [大学生“以证换狗”走红背后](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E2%80%9C%E4%BB%A5%E8%AF%81%E6%8D%A2%E7%8B%97%E2%80%9D%E8%B5%B0%E7%BA%A2%E8%83%8C%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [球迷冲进场跪拜C罗举高高](https://www.baidu.com/s?wd=%E7%90%83%E8%BF%B7%E5%86%B2%E8%BF%9B%E5%9C%BA%E8%B7%AA%E6%8B%9CC%E7%BD%97%E4%B8%BE%E9%AB%98%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [精神病人持刀砍伤数十人？警方回应](https://www.baidu.com/s?wd=%E7%B2%BE%E7%A5%9E%E7%97%85%E4%BA%BA%E6%8C%81%E5%88%80%E7%A0%8D%E4%BC%A4%E6%95%B0%E5%8D%81%E4%BA%BA%EF%BC%9F%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [稳产保丰 小麦主产区有这些举措](https://www.baidu.com/s?wd=%E7%A8%B3%E4%BA%A7%E4%BF%9D%E4%B8%B0+%E5%B0%8F%E9%BA%A6%E4%B8%BB%E4%BA%A7%E5%8C%BA%E6%9C%89%E8%BF%99%E4%BA%9B%E4%B8%BE%E6%8E%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [父亲节](https://www.baidu.com/s?wd=%E7%88%B6%E4%BA%B2%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子为保护儿子连刺丈夫3刀被判无罪](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%BA%E4%BF%9D%E6%8A%A4%E5%84%BF%E5%AD%90%E8%BF%9E%E5%88%BA%E4%B8%88%E5%A4%AB3%E5%88%80%E8%A2%AB%E5%88%A4%E6%97%A0%E7%BD%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [球迷冲进场跪拜C罗举高高](https://www.baidu.com/s?wd=%E7%90%83%E8%BF%B7%E5%86%B2%E8%BF%9B%E5%9C%BA%E8%B7%AA%E6%8B%9CC%E7%BD%97%E4%B8%BE%E9%AB%98%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [大学生“以证换狗”走红背后](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E2%80%9C%E4%BB%A5%E8%AF%81%E6%8D%A2%E7%8B%97%E2%80%9D%E8%B5%B0%E7%BA%A2%E8%83%8C%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [韩媒：孙准浩被正式批捕](https://www.baidu.com/s?wd=%E9%9F%A9%E5%AA%92%EF%BC%9A%E5%AD%99%E5%87%86%E6%B5%A9%E8%A2%AB%E6%AD%A3%E5%BC%8F%E6%89%B9%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [大学生“以证换狗”走红背后](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E2%80%9C%E4%BB%A5%E8%AF%81%E6%8D%A2%E7%8B%97%E2%80%9D%E8%B5%B0%E7%BA%A2%E8%83%8C%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [球迷冲进场跪拜C罗举高高](https://www.baidu.com/s?wd=%E7%90%83%E8%BF%B7%E5%86%B2%E8%BF%9B%E5%9C%BA%E8%B7%AA%E6%8B%9CC%E7%BD%97%E4%B8%BE%E9%AB%98%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [精神病人持刀砍伤数十人？警方回应](https://www.baidu.com/s?wd=%E7%B2%BE%E7%A5%9E%E7%97%85%E4%BA%BA%E6%8C%81%E5%88%80%E7%A0%8D%E4%BC%A4%E6%95%B0%E5%8D%81%E4%BA%BA%EF%BC%9F%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
