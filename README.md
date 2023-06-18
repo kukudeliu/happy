@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 08:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 08:16:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [端午公司发了3颗荔枝](https://s.weibo.com/weibo?q=%23%E7%AB%AF%E5%8D%88%E5%85%AC%E5%8F%B8%E5%8F%91%E4%BA%863%E9%A2%97%E8%8D%94%E6%9E%9D%23&t=31&band_rank=2&Refer=top)<br />
 3. [哪个瞬间你发现爸爸不再年轻](https://s.weibo.com/weibo?q=%23%E5%93%AA%E4%B8%AA%E7%9E%AC%E9%97%B4%E4%BD%A0%E5%8F%91%E7%8E%B0%E7%88%B8%E7%88%B8%E4%B8%8D%E5%86%8D%E5%B9%B4%E8%BD%BB%23&t=31&band_rank=3&Refer=top)<br />
 4. [蔡徐坤虞书欣甘比母女合影](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%94%98%E6%AF%94%E6%AF%8D%E5%A5%B3%E5%90%88%E5%BD%B1%23&t=31&band_rank=4&Refer=top)<br />
-5. [榜一大哥是我爸](https://s.weibo.com/weibo?q=%23%E6%A6%9C%E4%B8%80%E5%A4%A7%E5%93%A5%E6%98%AF%E6%88%91%E7%88%B8%23&t=31&band_rank=5&Refer=top)<br />
-6. [谢娜 她她她](https://s.weibo.com/weibo?q=%E8%B0%A2%E5%A8%9C%20%E5%A5%B9%E5%A5%B9%E5%A5%B9&t=31&band_rank=6&Refer=top)<br />
-7. [萧敬腾方报警检测自证清白](https://s.weibo.com/weibo?q=%23%E8%90%A7%E6%95%AC%E8%85%BE%E6%96%B9%E6%8A%A5%E8%AD%A6%E6%A3%80%E6%B5%8B%E8%87%AA%E8%AF%81%E6%B8%85%E7%99%BD%23&t=31&band_rank=7&Refer=top)<br />
-8. [帮男朋友洗6年没有洗过的脏辫](https://s.weibo.com/weibo?q=%E5%B8%AE%E7%94%B7%E6%9C%8B%E5%8F%8B%E6%B4%976%E5%B9%B4%E6%B2%A1%E6%9C%89%E6%B4%97%E8%BF%87%E7%9A%84%E8%84%8F%E8%BE%AB&t=31&band_rank=8&Refer=top)<br />
-9. [感谢鲁U3G833](https://s.weibo.com/weibo?q=%23%E6%84%9F%E8%B0%A2%E9%B2%81U3G833%23&t=31&band_rank=9&Refer=top)<br />
+5. [谢娜 她她她](https://s.weibo.com/weibo?q=%E8%B0%A2%E5%A8%9C%20%E5%A5%B9%E5%A5%B9%E5%A5%B9&t=31&band_rank=5&Refer=top)<br />
+6. [萧敬腾方报警检测自证清白](https://s.weibo.com/weibo?q=%23%E8%90%A7%E6%95%AC%E8%85%BE%E6%96%B9%E6%8A%A5%E8%AD%A6%E6%A3%80%E6%B5%8B%E8%87%AA%E8%AF%81%E6%B8%85%E7%99%BD%23&t=31&band_rank=6&Refer=top)<br />
+7. [感谢鲁U3G833](https://s.weibo.com/weibo?q=%23%E6%84%9F%E8%B0%A2%E9%B2%81U3G833%23&t=31&band_rank=7&Refer=top)<br />
+8. [榜一大哥是我爸](https://s.weibo.com/weibo?q=%23%E6%A6%9C%E4%B8%80%E5%A4%A7%E5%93%A5%E6%98%AF%E6%88%91%E7%88%B8%23&t=31&band_rank=8&Refer=top)<br />
+9. [帮男朋友洗6年没有洗过的脏辫](https://s.weibo.com/weibo?q=%E5%B8%AE%E7%94%B7%E6%9C%8B%E5%8F%8B%E6%B4%976%E5%B9%B4%E6%B2%A1%E6%9C%89%E6%B4%97%E8%BF%87%E7%9A%84%E8%84%8F%E8%BE%AB&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -21,8 +21,8 @@
 5. [长大后的哪一刻，你在心里悄悄与父亲和解，理解了他的难？有哪些无法当面说出口的话，想对他说？](https://www.zhihu.com/question/605713053)<br />
 6. [福州一母子被洒落沥青烫伤身亡，涉事车辆超载 25 倍，运输公司多次上「黑榜」，涉事方将受到什么处罚？](https://www.zhihu.com/question/607112600)<br />
 7. []()<br />
-8. [男子跨省为他人取快递被发现内含毒品，案件重审后再次被判无期，如何从法律角度解读？](https://www.zhihu.com/question/607104424)<br />
-9. [乔丹出售黄蜂队大部分股权，估值约 30 亿美元，他也将结束其 13 年老板任期，哪些信息值得关注？](https://www.zhihu.com/question/607107936)<br />
+8. [乔丹出售黄蜂队大部分股权，估值约 30 亿美元，他也将结束其 13 年老板任期，哪些信息值得关注？](https://www.zhihu.com/question/607107936)<br />
+9. [「保交楼」这一年，官方并未披露烂尾楼数量，有些地方成果明显，相当多的地方仍在拉锯，为何保交楼陷入困局？](https://www.zhihu.com/question/607125175)<br />
 
 > 百度  
 
@@ -31,9 +31,9 @@
 3. [美国务院网站将首页更换为中国街景](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%8A%A1%E9%99%A2%E7%BD%91%E7%AB%99%E5%B0%86%E9%A6%96%E9%A1%B5%E6%9B%B4%E6%8D%A2%E4%B8%BA%E4%B8%AD%E5%9B%BD%E8%A1%97%E6%99%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [稳产保丰 小麦主产区有这些举措](https://www.baidu.com/s?wd=%E7%A8%B3%E4%BA%A7%E4%BF%9D%E4%B8%B0+%E5%B0%8F%E9%BA%A6%E4%B8%BB%E4%BA%A7%E5%8C%BA%E6%9C%89%E8%BF%99%E4%BA%9B%E4%B8%BE%E6%8E%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [父亲节](https://www.baidu.com/s?wd=%E7%88%B6%E4%BA%B2%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [中学老师跳10多米高桥救轻生女](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E8%80%81%E5%B8%88%E8%B7%B310%E5%A4%9A%E7%B1%B3%E9%AB%98%E6%A1%A5%E6%95%91%E8%BD%BB%E7%94%9F%E5%A5%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [董宇辉称曾拒税后2亿年薪工作](https://www.baidu.com/s?wd=%E8%91%A3%E5%AE%87%E8%BE%89%E7%A7%B0%E6%9B%BE%E6%8B%92%E7%A8%8E%E5%90%8E2%E4%BA%BF%E5%B9%B4%E8%96%AA%E5%B7%A5%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [跳河救人小哥说大家给我的太多了](https://www.baidu.com/s?wd=%E8%B7%B3%E6%B2%B3%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E8%AF%B4%E5%A4%A7%E5%AE%B6%E7%BB%99%E6%88%91%E7%9A%84%E5%A4%AA%E5%A4%9A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [董宇辉称曾拒税后2亿年薪工作](https://www.baidu.com/s?wd=%E8%91%A3%E5%AE%87%E8%BE%89%E7%A7%B0%E6%9B%BE%E6%8B%92%E7%A8%8E%E5%90%8E2%E4%BA%BF%E5%B9%B4%E8%96%AA%E5%B7%A5%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [跳河救人小哥说大家给我的太多了](https://www.baidu.com/s?wd=%E8%B7%B3%E6%B2%B3%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E8%AF%B4%E5%A4%A7%E5%AE%B6%E7%BB%99%E6%88%91%E7%9A%84%E5%A4%AA%E5%A4%9A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中学老师跳10多米高桥救轻生女](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E8%80%81%E5%B8%88%E8%B7%B310%E5%A4%9A%E7%B1%B3%E9%AB%98%E6%A1%A5%E6%95%91%E8%BD%BB%E7%94%9F%E5%A5%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [这双“丑”鞋一年狂赚40亿](https://www.baidu.com/s?wd=%E8%BF%99%E5%8F%8C%E2%80%9C%E4%B8%91%E2%80%9D%E9%9E%8B%E4%B8%80%E5%B9%B4%E7%8B%82%E8%B5%9A40%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -43,7 +43,7 @@
 3. [美国务院网站将首页更换为中国街景](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%8A%A1%E9%99%A2%E7%BD%91%E7%AB%99%E5%B0%86%E9%A6%96%E9%A1%B5%E6%9B%B4%E6%8D%A2%E4%B8%BA%E4%B8%AD%E5%9B%BD%E8%A1%97%E6%99%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [稳产保丰 小麦主产区有这些举措](https://www.baidu.com/s?wd=%E7%A8%B3%E4%BA%A7%E4%BF%9D%E4%B8%B0+%E5%B0%8F%E9%BA%A6%E4%B8%BB%E4%BA%A7%E5%8C%BA%E6%9C%89%E8%BF%99%E4%BA%9B%E4%B8%BE%E6%8E%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [父亲节](https://www.baidu.com/s?wd=%E7%88%B6%E4%BA%B2%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [中学老师跳10多米高桥救轻生女](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E8%80%81%E5%B8%88%E8%B7%B310%E5%A4%9A%E7%B1%B3%E9%AB%98%E6%A1%A5%E6%95%91%E8%BD%BB%E7%94%9F%E5%A5%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [董宇辉称曾拒税后2亿年薪工作](https://www.baidu.com/s?wd=%E8%91%A3%E5%AE%87%E8%BE%89%E7%A7%B0%E6%9B%BE%E6%8B%92%E7%A8%8E%E5%90%8E2%E4%BA%BF%E5%B9%B4%E8%96%AA%E5%B7%A5%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [跳河救人小哥说大家给我的太多了](https://www.baidu.com/s?wd=%E8%B7%B3%E6%B2%B3%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E8%AF%B4%E5%A4%A7%E5%AE%B6%E7%BB%99%E6%88%91%E7%9A%84%E5%A4%AA%E5%A4%9A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [董宇辉称曾拒税后2亿年薪工作](https://www.baidu.com/s?wd=%E8%91%A3%E5%AE%87%E8%BE%89%E7%A7%B0%E6%9B%BE%E6%8B%92%E7%A8%8E%E5%90%8E2%E4%BA%BF%E5%B9%B4%E8%96%AA%E5%B7%A5%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [跳河救人小哥说大家给我的太多了](https://www.baidu.com/s?wd=%E8%B7%B3%E6%B2%B3%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E8%AF%B4%E5%A4%A7%E5%AE%B6%E7%BB%99%E6%88%91%E7%9A%84%E5%A4%AA%E5%A4%9A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中学老师跳10多米高桥救轻生女](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E8%80%81%E5%B8%88%E8%B7%B310%E5%A4%9A%E7%B1%B3%E9%AB%98%E6%A1%A5%E6%95%91%E8%BD%BB%E7%94%9F%E5%A5%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [这双“丑”鞋一年狂赚40亿](https://www.baidu.com/s?wd=%E8%BF%99%E5%8F%8C%E2%80%9C%E4%B8%91%E2%80%9D%E9%9E%8B%E4%B8%80%E5%B9%B4%E7%8B%82%E8%B5%9A40%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
