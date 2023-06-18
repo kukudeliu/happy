@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 17:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 17:25:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [女朋友说她拍到我出轨了](https://s.weibo.com/weibo?q=%E5%A5%B3%E6%9C%8B%E5%8F%8B%E8%AF%B4%E5%A5%B9%E6%8B%8D%E5%88%B0%E6%88%91%E5%87%BA%E8%BD%A8%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
 5. [教育局回应奔驰在操场倒车险撞人](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%A5%94%E9%A9%B0%E5%9C%A8%E6%93%8D%E5%9C%BA%E5%80%92%E8%BD%A6%E9%99%A9%E6%92%9E%E4%BA%BA%23&t=31&band_rank=5&Refer=top)<br />
 6. [香港名媛蔡天凤葬礼今日举行](https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%90%8D%E5%AA%9B%E8%94%A1%E5%A4%A9%E5%87%A4%E8%91%AC%E7%A4%BC%E4%BB%8A%E6%97%A5%E4%B8%BE%E8%A1%8C%23&t=31&band_rank=6&Refer=top)<br />
-7. [肖战看到宝宝的反应](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%9C%8B%E5%88%B0%E5%AE%9D%E5%AE%9D%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=7&Refer=top)<br />
-8. [这背影居然是蔡少芬](https://s.weibo.com/weibo?q=%23%E8%BF%99%E8%83%8C%E5%BD%B1%E5%B1%85%E7%84%B6%E6%98%AF%E8%94%A1%E5%B0%91%E8%8A%AC%23&t=31&band_rank=8&Refer=top)<br />
+7. [这背影居然是蔡少芬](https://s.weibo.com/weibo?q=%23%E8%BF%99%E8%83%8C%E5%BD%B1%E5%B1%85%E7%84%B6%E6%98%AF%E8%94%A1%E5%B0%91%E8%8A%AC%23&t=31&band_rank=7&Refer=top)<br />
+8. [肖战看到宝宝的反应](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%9C%8B%E5%88%B0%E5%AE%9D%E5%AE%9D%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=8&Refer=top)<br />
 9. [霸王茶姬](https://s.weibo.com/weibo?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -33,7 +33,7 @@
 5. [跨省存款火了：存50万差价5000](https://www.baidu.com/s?wd=%E8%B7%A8%E7%9C%81%E5%AD%98%E6%AC%BE%E7%81%AB%E4%BA%86%EF%BC%9A%E5%AD%9850%E4%B8%87%E5%B7%AE%E4%BB%B75000&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [电动摩托开始崛起](https://www.baidu.com/s?wd=%E7%94%B5%E5%8A%A8%E6%91%A9%E6%89%98%E5%BC%80%E5%A7%8B%E5%B4%9B%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [孟美岐演唱会门票两天还没卖完](https://www.baidu.com/s?wd=%E5%AD%9F%E7%BE%8E%E5%B2%90%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E4%B8%A4%E5%A4%A9%E8%BF%98%E6%B2%A1%E5%8D%96%E5%AE%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [网友称火车站雨天不让提前进候车室](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B0%E7%81%AB%E8%BD%A6%E7%AB%99%E9%9B%A8%E5%A4%A9%E4%B8%8D%E8%AE%A9%E6%8F%90%E5%89%8D%E8%BF%9B%E5%80%99%E8%BD%A6%E5%AE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [父亲带12岁女儿休学1年骑行游中国](https://www.baidu.com/s?wd=%E7%88%B6%E4%BA%B2%E5%B8%A612%E5%B2%81%E5%A5%B3%E5%84%BF%E4%BC%91%E5%AD%A61%E5%B9%B4%E9%AA%91%E8%A1%8C%E6%B8%B8%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [#盘点父亲带娃#](https://www.baidu.com/s?wd=%23%E7%9B%98%E7%82%B9%E7%88%B6%E4%BA%B2%E5%B8%A6%E5%A8%83%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [跨省存款火了：存50万差价5000](https://www.baidu.com/s?wd=%E8%B7%A8%E7%9C%81%E5%AD%98%E6%AC%BE%E7%81%AB%E4%BA%86%EF%BC%9A%E5%AD%9850%E4%B8%87%E5%B7%AE%E4%BB%B75000&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [电动摩托开始崛起](https://www.baidu.com/s?wd=%E7%94%B5%E5%8A%A8%E6%91%A9%E6%89%98%E5%BC%80%E5%A7%8B%E5%B4%9B%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [孟美岐演唱会门票两天还没卖完](https://www.baidu.com/s?wd=%E5%AD%9F%E7%BE%8E%E5%B2%90%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E4%B8%A4%E5%A4%A9%E8%BF%98%E6%B2%A1%E5%8D%96%E5%AE%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [网友称火车站雨天不让提前进候车室](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B0%E7%81%AB%E8%BD%A6%E7%AB%99%E9%9B%A8%E5%A4%A9%E4%B8%8D%E8%AE%A9%E6%8F%90%E5%89%8D%E8%BF%9B%E5%80%99%E8%BD%A6%E5%AE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [父亲带12岁女儿休学1年骑行游中国](https://www.baidu.com/s?wd=%E7%88%B6%E4%BA%B2%E5%B8%A612%E5%B2%81%E5%A5%B3%E5%84%BF%E4%BC%91%E5%AD%A61%E5%B9%B4%E9%AA%91%E8%A1%8C%E6%B8%B8%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [#盘点父亲带娃#](https://www.baidu.com/s?wd=%23%E7%9B%98%E7%82%B9%E7%88%B6%E4%BA%B2%E5%B8%A6%E5%A8%83%23&sa=fyb_news&rsv_dl=fyb_news)<br />
