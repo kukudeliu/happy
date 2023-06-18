@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 15:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 15:35:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [教育局回应奔驰在操场倒车险撞人](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%A5%94%E9%A9%B0%E5%9C%A8%E6%93%8D%E5%9C%BA%E5%80%92%E8%BD%A6%E9%99%A9%E6%92%9E%E4%BA%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [邓紫棋感染新冠](https://s.weibo.com/weibo?q=%23%E9%82%93%E7%B4%AB%E6%A3%8B%E6%84%9F%E6%9F%93%E6%96%B0%E5%86%A0%23&t=31&band_rank=7&Refer=top)<br />
 8. [小猪崽紫](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%8C%AA%E5%B4%BD%E7%B4%AB&t=31&band_rank=8&Refer=top)<br />
-9. [康康哭了](https://s.weibo.com/weibo?q=%23%E5%BA%B7%E5%BA%B7%E5%93%AD%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [在我25岁时爸爸给我了一套房子的钥匙](https://s.weibo.com/weibo?q=%E5%9C%A8%E6%88%9125%E5%B2%81%E6%97%B6%E7%88%B8%E7%88%B8%E7%BB%99%E6%88%91%E4%BA%86%E4%B8%80%E5%A5%97%E6%88%BF%E5%AD%90%E7%9A%84%E9%92%A5%E5%8C%99&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -34,7 +34,7 @@
 6. [专家：水电煤气10年没涨价应适当涨](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E6%B0%B4%E7%94%B5%E7%85%A4%E6%B0%9410%E5%B9%B4%E6%B2%A1%E6%B6%A8%E4%BB%B7%E5%BA%94%E9%80%82%E5%BD%93%E6%B6%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [官方回应城管执法中队长出轨女下属](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%9F%8E%E7%AE%A1%E6%89%A7%E6%B3%95%E4%B8%AD%E9%98%9F%E9%95%BF%E5%87%BA%E8%BD%A8%E5%A5%B3%E4%B8%8B%E5%B1%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [央媒评鼠头鸭脖:一些干部缺法治素养](https://www.baidu.com/s?wd=%E5%A4%AE%E5%AA%92%E8%AF%84%E9%BC%A0%E5%A4%B4%E9%B8%AD%E8%84%96%3A%E4%B8%80%E4%BA%9B%E5%B9%B2%E9%83%A8%E7%BC%BA%E6%B3%95%E6%B2%BB%E7%B4%A0%E5%85%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [榜一大哥是我爸](https://www.baidu.com/s?wd=%E6%A6%9C%E4%B8%80%E5%A4%A7%E5%93%A5%E6%98%AF%E6%88%91%E7%88%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [端午公司发了3颗荔枝](https://www.baidu.com/s?wd=%E7%AB%AF%E5%8D%88%E5%85%AC%E5%8F%B8%E5%8F%91%E4%BA%863%E9%A2%97%E8%8D%94%E6%9E%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [专家：水电煤气10年没涨价应适当涨](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E6%B0%B4%E7%94%B5%E7%85%A4%E6%B0%9410%E5%B9%B4%E6%B2%A1%E6%B6%A8%E4%BB%B7%E5%BA%94%E9%80%82%E5%BD%93%E6%B6%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [官方回应城管执法中队长出轨女下属](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%9F%8E%E7%AE%A1%E6%89%A7%E6%B3%95%E4%B8%AD%E9%98%9F%E9%95%BF%E5%87%BA%E8%BD%A8%E5%A5%B3%E4%B8%8B%E5%B1%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [央媒评鼠头鸭脖:一些干部缺法治素养](https://www.baidu.com/s?wd=%E5%A4%AE%E5%AA%92%E8%AF%84%E9%BC%A0%E5%A4%B4%E9%B8%AD%E8%84%96%3A%E4%B8%80%E4%BA%9B%E5%B9%B2%E9%83%A8%E7%BC%BA%E6%B3%95%E6%B2%BB%E7%B4%A0%E5%85%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [榜一大哥是我爸](https://www.baidu.com/s?wd=%E6%A6%9C%E4%B8%80%E5%A4%A7%E5%93%A5%E6%98%AF%E6%88%91%E7%88%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [端午公司发了3颗荔枝](https://www.baidu.com/s?wd=%E7%AB%AF%E5%8D%88%E5%85%AC%E5%8F%B8%E5%8F%91%E4%BA%863%E9%A2%97%E8%8D%94%E6%9E%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
