@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 12:53:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 12:54:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [鼠头鸭身周边9.9元一个 月售过百](https://www.baidu.com/s?wd=%E9%BC%A0%E5%A4%B4%E9%B8%AD%E8%BA%AB%E5%91%A8%E8%BE%B99.9%E5%85%83%E4%B8%80%E4%B8%AA+%E6%9C%88%E5%94%AE%E8%BF%87%E7%99%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [20岁快递员猥亵50岁阿姨被行拘](https://www.baidu.com/s?wd=20%E5%B2%81%E5%BF%AB%E9%80%92%E5%91%98%E7%8C%A5%E4%BA%B550%E5%B2%81%E9%98%BF%E5%A7%A8%E8%A2%AB%E8%A1%8C%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [香港名媛蔡天凤葬礼举行](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%90%8D%E5%AA%9B%E8%94%A1%E5%A4%A9%E5%87%A4%E8%91%AC%E7%A4%BC%E4%B8%BE%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [大叔高铁上脱鞋“味太大”引冲突](https://www.baidu.com/s?wd=%E5%A4%A7%E5%8F%94%E9%AB%98%E9%93%81%E4%B8%8A%E8%84%B1%E9%9E%8B%E2%80%9C%E5%91%B3%E5%A4%AA%E5%A4%A7%E2%80%9D%E5%BC%95%E5%86%B2%E7%AA%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [榜一大哥是我爸](https://www.baidu.com/s?wd=%E6%A6%9C%E4%B8%80%E5%A4%A7%E5%93%A5%E6%98%AF%E6%88%91%E7%88%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [鼠头鸭身周边9.9元一个 月售过百](https://www.baidu.com/s?wd=%E9%BC%A0%E5%A4%B4%E9%B8%AD%E8%BA%AB%E5%91%A8%E8%BE%B99.9%E5%85%83%E4%B8%80%E4%B8%AA+%E6%9C%88%E5%94%AE%E8%BF%87%E7%99%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [20岁快递员猥亵50岁阿姨被行拘](https://www.baidu.com/s?wd=20%E5%B2%81%E5%BF%AB%E9%80%92%E5%91%98%E7%8C%A5%E4%BA%B550%E5%B2%81%E9%98%BF%E5%A7%A8%E8%A2%AB%E8%A1%8C%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [香港名媛蔡天凤葬礼举行](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%90%8D%E5%AA%9B%E8%94%A1%E5%A4%A9%E5%87%A4%E8%91%AC%E7%A4%BC%E4%B8%BE%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [大叔高铁上脱鞋“味太大”引冲突](https://www.baidu.com/s?wd=%E5%A4%A7%E5%8F%94%E9%AB%98%E9%93%81%E4%B8%8A%E8%84%B1%E9%9E%8B%E2%80%9C%E5%91%B3%E5%A4%AA%E5%A4%A7%E2%80%9D%E5%BC%95%E5%86%B2%E7%AA%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [榜一大哥是我爸](https://www.baidu.com/s?wd=%E6%A6%9C%E4%B8%80%E5%A4%A7%E5%93%A5%E6%98%AF%E6%88%91%E7%88%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
