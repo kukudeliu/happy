@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 22:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 22:26:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [朴彩英四年前的发量vs现在的](https://s.weibo.com/weibo?q=%23%E6%9C%B4%E5%BD%A9%E8%8B%B1%E5%9B%9B%E5%B9%B4%E5%89%8D%E7%9A%84%E5%8F%91%E9%87%8Fvs%E7%8E%B0%E5%9C%A8%E7%9A%84%23&t=31&band_rank=6&Refer=top)<br />
 7. [肖春生老了也是个帅老头](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%98%A5%E7%94%9F%E8%80%81%E4%BA%86%E4%B9%9F%E6%98%AF%E4%B8%AA%E5%B8%85%E8%80%81%E5%A4%B4%23&t=31&band_rank=7&Refer=top)<br />
 8. [为什么阴干的衣服那么臭](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E9%98%B4%E5%B9%B2%E7%9A%84%E8%A1%A3%E6%9C%8D%E9%82%A3%E4%B9%88%E8%87%AD%23&t=31&band_rank=8&Refer=top)<br />
-9. [黄渤新片6岁儿子颜值](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%B8%A4%E6%96%B0%E7%89%876%E5%B2%81%E5%84%BF%E5%AD%90%E9%A2%9C%E5%80%BC%23&t=31&band_rank=9&Refer=top)<br />
+9. [王俊凯说何炅黄磊背影好孤独](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E8%AF%B4%E4%BD%95%E7%82%85%E9%BB%84%E7%A3%8A%E8%83%8C%E5%BD%B1%E5%A5%BD%E5%AD%A4%E7%8B%AC%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
