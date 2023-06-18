@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 13:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 13:38:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [孟美岐演唱会票价](https://s.weibo.com/weibo?q=%E5%AD%9F%E7%BE%8E%E5%B2%90%E6%BC%94%E5%94%B1%E4%BC%9A%E7%A5%A8%E4%BB%B7&t=31&band_rank=5&Refer=top)<br />
 6. [秦岚王阳吻戏](https://s.weibo.com/weibo?q=%E7%A7%A6%E5%B2%9A%E7%8E%8B%E9%98%B3%E5%90%BB%E6%88%8F&t=31&band_rank=6&Refer=top)<br />
 7. [在我25岁时爸爸给我了一套房子的钥匙](https://s.weibo.com/weibo?q=%E5%9C%A8%E6%88%9125%E5%B2%81%E6%97%B6%E7%88%B8%E7%88%B8%E7%BB%99%E6%88%91%E4%BA%86%E4%B8%80%E5%A5%97%E6%88%BF%E5%AD%90%E7%9A%84%E9%92%A5%E5%8C%99&t=31&band_rank=7&Refer=top)<br />
-8. [布林肯访华](https://s.weibo.com/weibo?q=%23%E5%B8%83%E6%9E%97%E8%82%AF%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=8&Refer=top)<br />
-9. [EDG淘汰世界冠军LOUD](https://s.weibo.com/weibo?q=%23EDG%E6%B7%98%E6%B1%B0%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9BLOUD%23&t=31&band_rank=9&Refer=top)<br />
+8. [EDG淘汰世界冠军LOUD](https://s.weibo.com/weibo?q=%23EDG%E6%B7%98%E6%B1%B0%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9BLOUD%23&t=31&band_rank=8&Refer=top)<br />
+9. [小猪崽紫](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%8C%AA%E5%B4%BD%E7%B4%AB&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
