@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 03:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 03:12:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [迪丽热巴手滑进了梦海直播间](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%89%8B%E6%BB%91%E8%BF%9B%E4%BA%86%E6%A2%A6%E6%B5%B7%E7%9B%B4%E6%92%AD%E9%97%B4%23&t=31&band_rank=6&Refer=top)<br />
 7. [白敬亭宋轶对视没有技巧全是感情](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6%E5%AF%B9%E8%A7%86%E6%B2%A1%E6%9C%89%E6%8A%80%E5%B7%A7%E5%85%A8%E6%98%AF%E6%84%9F%E6%83%85%23&t=31&band_rank=7&Refer=top)<br />
 8. [Jennie在舞台上走神](https://s.weibo.com/weibo?q=%23Jennie%E5%9C%A8%E8%88%9E%E5%8F%B0%E4%B8%8A%E8%B5%B0%E7%A5%9E%23&t=31&band_rank=8&Refer=top)<br />
-9. [白轶补贴情头](https://s.weibo.com/weibo?q=%23%E7%99%BD%E8%BD%B6%E8%A1%A5%E8%B4%B4%E6%83%85%E5%A4%B4%23&t=31&band_rank=9&Refer=top)<br />
+9. [大四男生实习薪资1万4妈妈仰天大笑](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%9B%9B%E7%94%B7%E7%94%9F%E5%AE%9E%E4%B9%A0%E8%96%AA%E8%B5%841%E4%B8%874%E5%A6%88%E5%A6%88%E4%BB%B0%E5%A4%A9%E5%A4%A7%E7%AC%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
