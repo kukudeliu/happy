@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 02:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 02:05:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [董明珠称全世界只有格力空调不吹人](https://www.baidu.com/s?wd=%E8%91%A3%E6%98%8E%E7%8F%A0%E7%A7%B0%E5%85%A8%E4%B8%96%E7%95%8C%E5%8F%AA%E6%9C%89%E6%A0%BC%E5%8A%9B%E7%A9%BA%E8%B0%83%E4%B8%8D%E5%90%B9%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子吐槽男子满背疙瘩进泳池游泳](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%90%90%E6%A7%BD%E7%94%B7%E5%AD%90%E6%BB%A1%E8%83%8C%E7%96%99%E7%98%A9%E8%BF%9B%E6%B3%B3%E6%B1%A0%E6%B8%B8%E6%B3%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [泳池惊现卫生巾?园方回应](https://www.baidu.com/s?wd=%E6%B3%B3%E6%B1%A0%E6%83%8A%E7%8E%B0%E5%8D%AB%E7%94%9F%E5%B7%BE%3F%E5%9B%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [特大煤炭盗采案牵出百名干部](https://www.baidu.com/s?wd=%E7%89%B9%E5%A4%A7%E7%85%A4%E7%82%AD%E7%9B%97%E9%87%87%E6%A1%88%E7%89%B5%E5%87%BA%E7%99%BE%E5%90%8D%E5%B9%B2%E9%83%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [618调查：60%的人预算不超500元](https://www.baidu.com/s?wd=618%E8%B0%83%E6%9F%A5%EF%BC%9A60%25%E7%9A%84%E4%BA%BA%E9%A2%84%E7%AE%97%E4%B8%8D%E8%B6%85500%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [618调查：60%的人预算不超500元](https://www.baidu.com/s?wd=618%E8%B0%83%E6%9F%A5%EF%BC%9A60%25%E7%9A%84%E4%BA%BA%E9%A2%84%E7%AE%97%E4%B8%8D%E8%B6%85500%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [保洁阿姨拆洗窗帘不幸从5楼坠亡](https://www.baidu.com/s?wd=%E4%BF%9D%E6%B4%81%E9%98%BF%E5%A7%A8%E6%8B%86%E6%B4%97%E7%AA%97%E5%B8%98%E4%B8%8D%E5%B9%B8%E4%BB%8E5%E6%A5%BC%E5%9D%A0%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [董明珠称全世界只有格力空调不吹人](https://www.baidu.com/s?wd=%E8%91%A3%E6%98%8E%E7%8F%A0%E7%A7%B0%E5%85%A8%E4%B8%96%E7%95%8C%E5%8F%AA%E6%9C%89%E6%A0%BC%E5%8A%9B%E7%A9%BA%E8%B0%83%E4%B8%8D%E5%90%B9%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子吐槽男子满背疙瘩进泳池游泳](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%90%90%E6%A7%BD%E7%94%B7%E5%AD%90%E6%BB%A1%E8%83%8C%E7%96%99%E7%98%A9%E8%BF%9B%E6%B3%B3%E6%B1%A0%E6%B8%B8%E6%B3%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [泳池惊现卫生巾?园方回应](https://www.baidu.com/s?wd=%E6%B3%B3%E6%B1%A0%E6%83%8A%E7%8E%B0%E5%8D%AB%E7%94%9F%E5%B7%BE%3F%E5%9B%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [特大煤炭盗采案牵出百名干部](https://www.baidu.com/s?wd=%E7%89%B9%E5%A4%A7%E7%85%A4%E7%82%AD%E7%9B%97%E9%87%87%E6%A1%88%E7%89%B5%E5%87%BA%E7%99%BE%E5%90%8D%E5%B9%B2%E9%83%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [618调查：60%的人预算不超500元](https://www.baidu.com/s?wd=618%E8%B0%83%E6%9F%A5%EF%BC%9A60%25%E7%9A%84%E4%BA%BA%E9%A2%84%E7%AE%97%E4%B8%8D%E8%B6%85500%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [618调查：60%的人预算不超500元](https://www.baidu.com/s?wd=618%E8%B0%83%E6%9F%A5%EF%BC%9A60%25%E7%9A%84%E4%BA%BA%E9%A2%84%E7%AE%97%E4%B8%8D%E8%B6%85500%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [保洁阿姨拆洗窗帘不幸从5楼坠亡](https://www.baidu.com/s?wd=%E4%BF%9D%E6%B4%81%E9%98%BF%E5%A7%A8%E6%8B%86%E6%B4%97%E7%AA%97%E5%B8%98%E4%B8%8D%E5%B9%B8%E4%BB%8E5%E6%A5%BC%E5%9D%A0%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
