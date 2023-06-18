@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 07:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 07:07:01</h4></div>
 
 > 微博  
 
@@ -8,20 +8,20 @@
 4. [真的别再关灯玩手机了](https://s.weibo.com/weibo?q=%23%E7%9C%9F%E7%9A%84%E5%88%AB%E5%86%8D%E5%85%B3%E7%81%AF%E7%8E%A9%E6%89%8B%E6%9C%BA%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [迪丽热巴手滑进了梦海直播间](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%89%8B%E6%BB%91%E8%BF%9B%E4%BA%86%E6%A2%A6%E6%B5%B7%E7%9B%B4%E6%92%AD%E9%97%B4%23&t=31&band_rank=5&Refer=top)<br />
 6. [女儿考满分农民工父亲买了只烧鸡庆祝](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E8%80%83%E6%BB%A1%E5%88%86%E5%86%9C%E6%B0%91%E5%B7%A5%E7%88%B6%E4%BA%B2%E4%B9%B0%E4%BA%86%E5%8F%AA%E7%83%A7%E9%B8%A1%E5%BA%86%E7%A5%9D%23&t=31&band_rank=6&Refer=top)<br />
-7. [厦大新闻学教授谈张雪峰言论](https://s.weibo.com/weibo?q=%23%E5%8E%A6%E5%A4%A7%E6%96%B0%E9%97%BB%E5%AD%A6%E6%95%99%E6%8E%88%E8%B0%88%E5%BC%A0%E9%9B%AA%E5%B3%B0%E8%A8%80%E8%AE%BA%23&t=31&band_rank=7&Refer=top)<br />
-8. [大四男生实习薪资1万4妈妈仰天大笑](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%9B%9B%E7%94%B7%E7%94%9F%E5%AE%9E%E4%B9%A0%E8%96%AA%E8%B5%841%E4%B8%874%E5%A6%88%E5%A6%88%E4%BB%B0%E5%A4%A9%E5%A4%A7%E7%AC%91%23&t=31&band_rank=8&Refer=top)<br />
+7. [大四男生实习薪资1万4妈妈仰天大笑](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%9B%9B%E7%94%B7%E7%94%9F%E5%AE%9E%E4%B9%A0%E8%96%AA%E8%B5%841%E4%B8%874%E5%A6%88%E5%A6%88%E4%BB%B0%E5%A4%A9%E5%A4%A7%E7%AC%91%23&t=31&band_rank=7&Refer=top)<br />
+8. [厦大新闻学教授谈张雪峰言论](https://s.weibo.com/weibo?q=%23%E5%8E%A6%E5%A4%A7%E6%96%B0%E9%97%BB%E5%AD%A6%E6%95%99%E6%8E%88%E8%B0%88%E5%BC%A0%E9%9B%AA%E5%B3%B0%E8%A8%80%E8%AE%BA%23&t=31&band_rank=8&Refer=top)<br />
 9. [女朋友说她拍到我出轨了](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%9C%8B%E5%8F%8B%E8%AF%B4%E5%A5%B9%E6%8B%8D%E5%88%B0%E6%88%91%E5%87%BA%E8%BD%A8%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [普京亮出俄乌和解协议草案「俄军一撤离基辅，就被扔进了垃圾堆」，哪些信息值得关注？](https://www.zhihu.com/question/607295832)<br />
 2. [韩媒称「调查孙准浩的中国警方已收到批捕文件，将深入调查」，如何看待此事？后续进展如何？](https://www.zhihu.com/question/605029126)<br />
-3. [拉夫罗夫称当俄特别军事行动目标达成后，将迎来一个不一样的世界，西方主导的全球化将不复存在，如何解读？](https://www.zhihu.com/question/607148983)<br />
+3. [高中同学 29 岁就成了顶尖 985 的副教授，看看普通的自己，会有什么想法？](https://www.zhihu.com/question/586589709)<br />
 4. [布林肯已到达北京开启访华行程，此行有哪些信息值得关注？](https://www.zhihu.com/question/607270958)<br />
-5. [高中同学 29 岁就成了顶尖 985 的副教授，看看普通的自己，会有什么想法？](https://www.zhihu.com/question/586589709)<br />
+5. [拉夫罗夫称当俄特别军事行动目标达成后，将迎来一个不一样的世界，西方主导的全球化将不复存在，如何解读？](https://www.zhihu.com/question/607148983)<br />
 6. [马斯克们力推的人造子宫，能否拯救我们的低生育率？](https://www.zhihu.com/question/606625465)<br />
 7. [00 后男孩辞职花近 7 千元学卖烤鱼做摆摊短视频，月入 1 万 5 ，如何看待「摆摊创业」走红？](https://www.zhihu.com/question/606933388)<br />
-8. []()<br />
+8. [韩国首尔市 7 月起对学校供餐进行全面辐射检测，说明了什么问题？日本辐射可能会有哪些危害？](https://www.zhihu.com/question/607160207)<br />
 9. [如何评价王宝强自导自演的电影《八角笼中》?](https://www.zhihu.com/question/566061816)<br />
 
 > 百度  
