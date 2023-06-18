@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 09:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 09:38:02</h4></div>
 
 > 微博  
 
@@ -21,7 +21,7 @@
 5. [单位聚餐，你刚坐下领导就说「小王你还没资格坐我旁边」，如何高情商回答？](https://www.zhihu.com/question/606620590)<br />
 6. [普京称俄罗斯已经将承诺的第一部分核装置运抵白俄罗斯境内，如何看待此举？对局势有何影响？](https://www.zhihu.com/question/607107944)<br />
 7. [商务部透露中国正推进加入 CPTPP 进程，释放了什么信号？加入 CPTPP 具有哪些意义？](https://www.zhihu.com/question/607175927)<br />
-8. []()<br />
+8. [NBA 联盟对莫兰特停薪禁赛 25 场，你觉得这个处罚是轻了还是重了？](https://www.zhihu.com/question/607141068)<br />
 9. [你和父亲最难忘的照片是哪一张？你有哪些从未对父亲说过的话？](https://www.zhihu.com/question/605744598)<br />
 
 > 百度  
