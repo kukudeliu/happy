@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 11:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 11:22:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [胡兵50万积分被东航清零](https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%85%B550%E4%B8%87%E7%A7%AF%E5%88%86%E8%A2%AB%E4%B8%9C%E8%88%AA%E6%B8%85%E9%9B%B6%23&t=31&band_rank=2&Refer=top)<br />
 3. [中国有约](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%9C%89%E7%BA%A6%23&t=31&band_rank=3&Refer=top)<br />
 4. [薛之谦听谈到赵英俊强忍着眼泪](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%90%AC%E8%B0%88%E5%88%B0%E8%B5%B5%E8%8B%B1%E4%BF%8A%E5%BC%BA%E5%BF%8D%E7%9D%80%E7%9C%BC%E6%B3%AA%23&t=31&band_rank=4&Refer=top)<br />
-5. [承欢记开机](https://s.weibo.com/weibo?q=%E6%89%BF%E6%AC%A2%E8%AE%B0%E5%BC%80%E6%9C%BA&t=31&band_rank=5&Refer=top)<br />
-6. [秦岚王阳吻戏](https://s.weibo.com/weibo?q=%E7%A7%A6%E5%B2%9A%E7%8E%8B%E9%98%B3%E5%90%BB%E6%88%8F&t=31&band_rank=6&Refer=top)<br />
+5. [秦岚王阳吻戏](https://s.weibo.com/weibo?q=%E7%A7%A6%E5%B2%9A%E7%8E%8B%E9%98%B3%E5%90%BB%E6%88%8F&t=31&band_rank=5&Refer=top)<br />
+6. [承欢记开机](https://s.weibo.com/weibo?q=%E6%89%BF%E6%AC%A2%E8%AE%B0%E5%BC%80%E6%9C%BA&t=31&band_rank=6&Refer=top)<br />
 7. [白敬亭宋轶今晚见](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6%E4%BB%8A%E6%99%9A%E8%A7%81%23&t=31&band_rank=7&Refer=top)<br />
 8. [父亲节](https://s.weibo.com/weibo?q=%E7%88%B6%E4%BA%B2%E8%8A%82&t=31&band_rank=8&Refer=top)<br />
 9. [在我25岁时爸爸给我了一套房子的钥匙](https://s.weibo.com/weibo?q=%E5%9C%A8%E6%88%9125%E5%B2%81%E6%97%B6%E7%88%B8%E7%88%B8%E7%BB%99%E6%88%91%E4%BA%86%E4%B8%80%E5%A5%97%E6%88%BF%E5%AD%90%E7%9A%84%E9%92%A5%E5%8C%99&t=31&band_rank=9&Refer=top)<br />
@@ -21,7 +21,7 @@
 5. [单位聚餐，你刚坐下领导就说「小王你还没资格坐我旁边」，如何高情商回答？](https://www.zhihu.com/question/606620590)<br />
 6. [张雪峰回应「总是建议考生报理工科」，是建议大家去报考有专业壁垒的专业，如何看待此报考选择？](https://www.zhihu.com/question/606790360)<br />
 7. [如何评价近期在德国南部城镇诺德林根出土的青铜器？](https://www.zhihu.com/question/607078479)<br />
-8. [新能源汽车位列今年春招行业紧缺度第一名，⾏业⼈才需求连续三年同⽐增长，这对于毕业生就业有什么积极影响？](https://www.zhihu.com/question/607146260)<br />
+8. [「凉白开」这类饮品，真的是把水煮开再罐装的吗？](https://www.zhihu.com/question/606321291)<br />
 9. [你和父亲最难忘的照片是哪一张？你有哪些从未对父亲说过的话？](https://www.zhihu.com/question/605744598)<br />
 
 > 百度  
