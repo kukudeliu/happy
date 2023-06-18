@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 00:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 00:08:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [厦大新闻学教授谈张雪峰言论](https://s.weibo.com/weibo?q=%23%E5%8E%A6%E5%A4%A7%E6%96%B0%E9%97%BB%E5%AD%A6%E6%95%99%E6%8E%88%E8%B0%88%E5%BC%A0%E9%9B%AA%E5%B3%B0%E8%A8%80%E8%AE%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [为什么阴干的衣服那么臭](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E9%98%B4%E5%B9%B2%E7%9A%84%E8%A1%A3%E6%9C%8D%E9%82%A3%E4%B9%88%E8%87%AD%23&t=31&band_rank=7&Refer=top)<br />
 8. [Jennie在舞台上走神](https://s.weibo.com/weibo?q=%23Jennie%E5%9C%A8%E8%88%9E%E5%8F%B0%E4%B8%8A%E8%B5%B0%E7%A5%9E%23&t=31&band_rank=8&Refer=top)<br />
-9. [朴彩英四年前的发量vs现在的](https://s.weibo.com/weibo?q=%23%E6%9C%B4%E5%BD%A9%E8%8B%B1%E5%9B%9B%E5%B9%B4%E5%89%8D%E7%9A%84%E5%8F%91%E9%87%8Fvs%E7%8E%B0%E5%9C%A8%E7%9A%84%23&t=31&band_rank=9&Refer=top)<br />
+9. [建议魏大勋别看](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E9%AD%8F%E5%A4%A7%E5%8B%8B%E5%88%AB%E7%9C%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
