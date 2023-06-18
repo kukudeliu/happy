@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 19:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 19:41:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [王俊凯说何炅黄磊背影好孤独](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E8%AF%B4%E4%BD%95%E7%82%85%E9%BB%84%E7%A3%8A%E8%83%8C%E5%BD%B1%E5%A5%BD%E5%AD%A4%E7%8B%AC%23&t=31&band_rank=4&Refer=top)<br />
 5. [宝宝首次戴人工耳蜗听声音后大哭](https://s.weibo.com/weibo?q=%23%E5%AE%9D%E5%AE%9D%E9%A6%96%E6%AC%A1%E6%88%B4%E4%BA%BA%E5%B7%A5%E8%80%B3%E8%9C%97%E5%90%AC%E5%A3%B0%E9%9F%B3%E5%90%8E%E5%A4%A7%E5%93%AD%23&t=31&band_rank=5&Refer=top)<br />
 6. [东航客服回应胡兵50万积分被清零](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E8%88%AA%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E8%83%A1%E5%85%B550%E4%B8%87%E7%A7%AF%E5%88%86%E8%A2%AB%E6%B8%85%E9%9B%B6%23&t=31&band_rank=6&Refer=top)<br />
-7. [真情侣](https://s.weibo.com/weibo?q=%E7%9C%9F%E6%83%85%E4%BE%A3&t=31&band_rank=7&Refer=top)<br />
-8. [高铁上情侣想换座我拒绝了](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E4%B8%8A%E6%83%85%E4%BE%A3%E6%83%B3%E6%8D%A2%E5%BA%A7%E6%88%91%E6%8B%92%E7%BB%9D%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [女儿把楼梯变黑板给爸爸送祝福](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E6%8A%8A%E6%A5%BC%E6%A2%AF%E5%8F%98%E9%BB%91%E6%9D%BF%E7%BB%99%E7%88%B8%E7%88%B8%E9%80%81%E7%A5%9D%E7%A6%8F%23&t=31&band_rank=9&Refer=top)<br />
+7. [女儿把楼梯变黑板给爸爸送祝福](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E6%8A%8A%E6%A5%BC%E6%A2%AF%E5%8F%98%E9%BB%91%E6%9D%BF%E7%BB%99%E7%88%B8%E7%88%B8%E9%80%81%E7%A5%9D%E7%A6%8F%23&t=31&band_rank=7&Refer=top)<br />
+8. [真情侣](https://s.weibo.com/weibo?q=%E7%9C%9F%E6%83%85%E4%BE%A3&t=31&band_rank=8&Refer=top)<br />
+9. [高铁上情侣想换座我拒绝了](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E4%B8%8A%E6%83%85%E4%BE%A3%E6%83%B3%E6%8D%A2%E5%BA%A7%E6%88%91%E6%8B%92%E7%BB%9D%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
