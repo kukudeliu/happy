@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 01:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 01:24:02</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [迪丽热巴手滑进了梦海直播间](https://www.baidu.com/s?wd=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%89%8B%E6%BB%91%E8%BF%9B%E4%BA%86%E6%A2%A6%E6%B5%B7%E7%9B%B4%E6%92%AD%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子驾橡皮艇失踪多日后遗体被发现](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%A9%BE%E6%A9%A1%E7%9A%AE%E8%89%87%E5%A4%B1%E8%B8%AA%E5%A4%9A%E6%97%A5%E5%90%8E%E9%81%97%E4%BD%93%E8%A2%AB%E5%8F%91%E7%8E%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [王石：房地产市场刚开始](https://www.baidu.com/s?wd=%E7%8E%8B%E7%9F%B3%EF%BC%9A%E6%88%BF%E5%9C%B0%E4%BA%A7%E5%B8%82%E5%9C%BA%E5%88%9A%E5%BC%80%E5%A7%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [2023年轻人省钱报告](https://www.baidu.com/s?wd=2023%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9C%81%E9%92%B1%E6%8A%A5%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [厦大新闻学教授谈张雪峰言论](https://www.baidu.com/s?wd=%E5%8E%A6%E5%A4%A7%E6%96%B0%E9%97%BB%E5%AD%A6%E6%95%99%E6%8E%88%E8%B0%88%E5%BC%A0%E9%9B%AA%E5%B3%B0%E8%A8%80%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [迪丽热巴手滑进了梦海直播间](https://www.baidu.com/s?wd=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%89%8B%E6%BB%91%E8%BF%9B%E4%BA%86%E6%A2%A6%E6%B5%B7%E7%9B%B4%E6%92%AD%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子驾橡皮艇失踪多日后遗体被发现](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%A9%BE%E6%A9%A1%E7%9A%AE%E8%89%87%E5%A4%B1%E8%B8%AA%E5%A4%9A%E6%97%A5%E5%90%8E%E9%81%97%E4%BD%93%E8%A2%AB%E5%8F%91%E7%8E%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [王石：房地产市场刚开始](https://www.baidu.com/s?wd=%E7%8E%8B%E7%9F%B3%EF%BC%9A%E6%88%BF%E5%9C%B0%E4%BA%A7%E5%B8%82%E5%9C%BA%E5%88%9A%E5%BC%80%E5%A7%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [2023年轻人省钱报告](https://www.baidu.com/s?wd=2023%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9C%81%E9%92%B1%E6%8A%A5%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [厦大新闻学教授谈张雪峰言论](https://www.baidu.com/s?wd=%E5%8E%A6%E5%A4%A7%E6%96%B0%E9%97%BB%E5%AD%A6%E6%95%99%E6%8E%88%E8%B0%88%E5%BC%A0%E9%9B%AA%E5%B3%B0%E8%A8%80%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
