@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 12:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 12:09:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [领导跟你说辛苦了千万别说没事不辛苦](https://s.weibo.com/weibo?q=%E9%A2%86%E5%AF%BC%E8%B7%9F%E4%BD%A0%E8%AF%B4%E8%BE%9B%E8%8B%A6%E4%BA%86%E5%8D%83%E4%B8%87%E5%88%AB%E8%AF%B4%E6%B2%A1%E4%BA%8B%E4%B8%8D%E8%BE%9B%E8%8B%A6&t=31&band_rank=4&Refer=top)<br />
 5. [白敬亭宋轶今晚见](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6%E4%BB%8A%E6%99%9A%E8%A7%81%23&t=31&band_rank=5&Refer=top)<br />
 6. [薛之谦听谈到赵英俊强忍着眼泪](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%90%AC%E8%B0%88%E5%88%B0%E8%B5%B5%E8%8B%B1%E4%BF%8A%E5%BC%BA%E5%BF%8D%E7%9D%80%E7%9C%BC%E6%B3%AA%23&t=31&band_rank=6&Refer=top)<br />
-7. [胡兵50万积分被东航清零](https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%85%B550%E4%B8%87%E7%A7%AF%E5%88%86%E8%A2%AB%E4%B8%9C%E8%88%AA%E6%B8%85%E9%9B%B6%23&t=31&band_rank=7&Refer=top)<br />
-8. [蔡徐坤虞书欣甘比母女合影](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%94%98%E6%AF%94%E6%AF%8D%E5%A5%B3%E5%90%88%E5%BD%B1%23&t=31&band_rank=8&Refer=top)<br />
+7. [蔡徐坤虞书欣甘比母女合影](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%94%98%E6%AF%94%E6%AF%8D%E5%A5%B3%E5%90%88%E5%BD%B1%23&t=31&band_rank=7&Refer=top)<br />
+8. [胡兵50万积分被东航清零](https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%85%B550%E4%B8%87%E7%A7%AF%E5%88%86%E8%A2%AB%E4%B8%9C%E8%88%AA%E6%B8%85%E9%9B%B6%23&t=31&band_rank=8&Refer=top)<br />
 9. [在我25岁时爸爸给我了一套房子的钥匙](https://s.weibo.com/weibo?q=%E5%9C%A8%E6%88%9125%E5%B2%81%E6%97%B6%E7%88%B8%E7%88%B8%E7%BB%99%E6%88%91%E4%BA%86%E4%B8%80%E5%A5%97%E6%88%BF%E5%AD%90%E7%9A%84%E9%92%A5%E5%8C%99&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -18,8 +18,8 @@
 2. [商务部透露中国正推进加入 CPTPP 进程，释放了什么信号？加入 CPTPP 具有哪些意义？](https://www.zhihu.com/question/607175927)<br />
 3. [女子穿仙裙进迪士尼被拦，乐园须知若着装不当或被拒绝入园，你对该事件有何看法？](https://www.zhihu.com/question/606726034)<br />
 4. [长大后的哪一刻，你在心里悄悄与父亲和解，理解了他的难？有哪些无法当面说出口的话，想对他说？](https://www.zhihu.com/question/605713053)<br />
-5. [单位聚餐，你刚坐下领导就说「小王你还没资格坐我旁边」，如何高情商回答？](https://www.zhihu.com/question/606620590)<br />
-6. [张雪峰回应「总是建议考生报理工科」，是建议大家去报考有专业壁垒的专业，如何看待此报考选择？](https://www.zhihu.com/question/606790360)<br />
+5. [张雪峰回应「总是建议考生报理工科」，是建议大家去报考有专业壁垒的专业，如何看待此报考选择？](https://www.zhihu.com/question/606790360)<br />
+6. [单位聚餐，你刚坐下领导就说「小王你还没资格坐我旁边」，如何高情商回答？](https://www.zhihu.com/question/606620590)<br />
 7. [如何评价近期在德国南部城镇诺德林根出土的青铜器？](https://www.zhihu.com/question/607078479)<br />
 8. [「凉白开」这类饮品，真的是把水煮开再罐装的吗？](https://www.zhihu.com/question/606321291)<br />
 9. [冲进球场拥抱梅西的球迷被行拘，男子已 18 岁，如何看待这一结果？](https://www.zhihu.com/question/607010548)<br />
