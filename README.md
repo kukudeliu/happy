@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 20:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 20:48:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [真情侣](https://s.weibo.com/weibo?q=%E7%9C%9F%E6%83%85%E4%BE%A3&t=31&band_rank=6&Refer=top)<br />
 7. [高铁上情侣想换座我拒绝了](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E4%B8%8A%E6%83%85%E4%BE%A3%E6%83%B3%E6%8D%A2%E5%BA%A7%E6%88%91%E6%8B%92%E7%BB%9D%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [大四男生实习薪资1万4妈妈仰天大笑](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%9B%9B%E7%94%B7%E7%94%9F%E5%AE%9E%E4%B9%A0%E8%96%AA%E8%B5%841%E4%B8%874%E5%A6%88%E5%A6%88%E4%BB%B0%E5%A4%A9%E5%A4%A7%E7%AC%91%23&t=31&band_rank=8&Refer=top)<br />
-9. [孟子义问郭麒麟认不认识德云社](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E9%97%AE%E9%83%AD%E9%BA%92%E9%BA%9F%E8%AE%A4%E4%B8%8D%E8%AE%A4%E8%AF%86%E5%BE%B7%E4%BA%91%E7%A4%BE%23&t=31&band_rank=9&Refer=top)<br />
+9. [歌手演唱会价格一览](https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BB%B7%E6%A0%BC%E4%B8%80%E8%A7%88%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
