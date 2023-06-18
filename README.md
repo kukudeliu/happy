@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 08:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 08:14:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [萧敬腾方报警检测自证清白](https://s.weibo.com/weibo?q=%23%E8%90%A7%E6%95%AC%E8%85%BE%E6%96%B9%E6%8A%A5%E8%AD%A6%E6%A3%80%E6%B5%8B%E8%87%AA%E8%AF%81%E6%B8%85%E7%99%BD%23&t=31&band_rank=6&Refer=top)<br />
 7. [谢娜 她她她](https://s.weibo.com/weibo?q=%E8%B0%A2%E5%A8%9C%20%E5%A5%B9%E5%A5%B9%E5%A5%B9&t=31&band_rank=7&Refer=top)<br />
 8. [帮男朋友洗6年没有洗过的脏辫](https://s.weibo.com/weibo?q=%E5%B8%AE%E7%94%B7%E6%9C%8B%E5%8F%8B%E6%B4%976%E5%B9%B4%E6%B2%A1%E6%9C%89%E6%B4%97%E8%BF%87%E7%9A%84%E8%84%8F%E8%BE%AB&t=31&band_rank=8&Refer=top)<br />
-9. [在韩国比较吃香的中国女演员](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E9%9F%A9%E5%9B%BD%E6%AF%94%E8%BE%83%E5%90%83%E9%A6%99%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%BC%94%E5%91%98%23&t=31&band_rank=9&Refer=top)<br />
+9. [胡歌大鹏影帝双黄蛋](https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E5%A4%A7%E9%B9%8F%E5%BD%B1%E5%B8%9D%E5%8F%8C%E9%BB%84%E8%9B%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -33,8 +33,8 @@
 5. [父亲节](https://www.baidu.com/s?wd=%E7%88%B6%E4%BA%B2%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [中学老师跳10多米高桥救轻生女](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E8%80%81%E5%B8%88%E8%B7%B310%E5%A4%9A%E7%B1%B3%E9%AB%98%E6%A1%A5%E6%95%91%E8%BD%BB%E7%94%9F%E5%A5%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [董宇辉称曾拒税后2亿年薪工作](https://www.baidu.com/s?wd=%E8%91%A3%E5%AE%87%E8%BE%89%E7%A7%B0%E6%9B%BE%E6%8B%92%E7%A8%8E%E5%90%8E2%E4%BA%BF%E5%B9%B4%E8%96%AA%E5%B7%A5%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [吃了被老鼠污染的食物怎么办？](https://www.baidu.com/s?wd=%E5%90%83%E4%BA%86%E8%A2%AB%E8%80%81%E9%BC%A0%E6%B1%A1%E6%9F%93%E7%9A%84%E9%A3%9F%E7%89%A9%E6%80%8E%E4%B9%88%E5%8A%9E%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中国第一无人岛2868万元成交](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E6%97%A0%E4%BA%BA%E5%B2%9B2868%E4%B8%87%E5%85%83%E6%88%90%E4%BA%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [跳河救人小哥说大家给我的太多了](https://www.baidu.com/s?wd=%E8%B7%B3%E6%B2%B3%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E8%AF%B4%E5%A4%A7%E5%AE%B6%E7%BB%99%E6%88%91%E7%9A%84%E5%A4%AA%E5%A4%9A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [这双“丑”鞋一年狂赚40亿](https://www.baidu.com/s?wd=%E8%BF%99%E5%8F%8C%E2%80%9C%E4%B8%91%E2%80%9D%E9%9E%8B%E4%B8%80%E5%B9%B4%E7%8B%82%E8%B5%9A40%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [父亲节](https://www.baidu.com/s?wd=%E7%88%B6%E4%BA%B2%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [中学老师跳10多米高桥救轻生女](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E8%80%81%E5%B8%88%E8%B7%B310%E5%A4%9A%E7%B1%B3%E9%AB%98%E6%A1%A5%E6%95%91%E8%BD%BB%E7%94%9F%E5%A5%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [董宇辉称曾拒税后2亿年薪工作](https://www.baidu.com/s?wd=%E8%91%A3%E5%AE%87%E8%BE%89%E7%A7%B0%E6%9B%BE%E6%8B%92%E7%A8%8E%E5%90%8E2%E4%BA%BF%E5%B9%B4%E8%96%AA%E5%B7%A5%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [吃了被老鼠污染的食物怎么办？](https://www.baidu.com/s?wd=%E5%90%83%E4%BA%86%E8%A2%AB%E8%80%81%E9%BC%A0%E6%B1%A1%E6%9F%93%E7%9A%84%E9%A3%9F%E7%89%A9%E6%80%8E%E4%B9%88%E5%8A%9E%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中国第一无人岛2868万元成交](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E6%97%A0%E4%BA%BA%E5%B2%9B2868%E4%B8%87%E5%85%83%E6%88%90%E4%BA%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [跳河救人小哥说大家给我的太多了](https://www.baidu.com/s?wd=%E8%B7%B3%E6%B2%B3%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E8%AF%B4%E5%A4%A7%E5%AE%B6%E7%BB%99%E6%88%91%E7%9A%84%E5%A4%AA%E5%A4%9A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [这双“丑”鞋一年狂赚40亿](https://www.baidu.com/s?wd=%E8%BF%99%E5%8F%8C%E2%80%9C%E4%B8%91%E2%80%9D%E9%9E%8B%E4%B8%80%E5%B9%B4%E7%8B%82%E8%B5%9A40%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
