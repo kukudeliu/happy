@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 15:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 15:28:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [领导跟你说辛苦了千万别说没事不辛苦](https://s.weibo.com/weibo?q=%E9%A2%86%E5%AF%BC%E8%B7%9F%E4%BD%A0%E8%AF%B4%E8%BE%9B%E8%8B%A6%E4%BA%86%E5%8D%83%E4%B8%87%E5%88%AB%E8%AF%B4%E6%B2%A1%E4%BA%8B%E4%B8%8D%E8%BE%9B%E8%8B%A6&t=31&band_rank=5&Refer=top)<br />
 6. [小猪崽紫](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%8C%AA%E5%B4%BD%E7%B4%AB&t=31&band_rank=6&Refer=top)<br />
 7. [薛之谦听谈到赵英俊强忍着眼泪](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%90%AC%E8%B0%88%E5%88%B0%E8%B5%B5%E8%8B%B1%E4%BF%8A%E5%BC%BA%E5%BF%8D%E7%9D%80%E7%9C%BC%E6%B3%AA%23&t=31&band_rank=7&Refer=top)<br />
-8. [康康哭了](https://s.weibo.com/weibo?q=%23%E5%BA%B7%E5%BA%B7%E5%93%AD%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [教育局回应奔驰在操场倒车险撞人](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%A5%94%E9%A9%B0%E5%9C%A8%E6%93%8D%E5%9C%BA%E5%80%92%E8%BD%A6%E9%99%A9%E6%92%9E%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
+8. [教育局回应奔驰在操场倒车险撞人](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%A5%94%E9%A9%B0%E5%9C%A8%E6%93%8D%E5%9C%BA%E5%80%92%E8%BD%A6%E9%99%A9%E6%92%9E%E4%BA%BA%23&t=31&band_rank=8&Refer=top)<br />
+9. [康康哭了](https://s.weibo.com/weibo?q=%23%E5%BA%B7%E5%BA%B7%E5%93%AD%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
