@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 12:44:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 12:45:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [秦岚王阳吻戏](https://s.weibo.com/weibo?q=%E7%A7%A6%E5%B2%9A%E7%8E%8B%E9%98%B3%E5%90%BB%E6%88%8F&t=31&band_rank=5&Refer=top)<br />
 6. [薛之谦听谈到赵英俊强忍着眼泪](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%90%AC%E8%B0%88%E5%88%B0%E8%B5%B5%E8%8B%B1%E4%BF%8A%E5%BC%BA%E5%BF%8D%E7%9D%80%E7%9C%BC%E6%B3%AA%23&t=31&band_rank=6&Refer=top)<br />
 7. [在我25岁时爸爸给我了一套房子的钥匙](https://s.weibo.com/weibo?q=%E5%9C%A8%E6%88%9125%E5%B2%81%E6%97%B6%E7%88%B8%E7%88%B8%E7%BB%99%E6%88%91%E4%BA%86%E4%B8%80%E5%A5%97%E6%88%BF%E5%AD%90%E7%9A%84%E9%92%A5%E5%8C%99&t=31&band_rank=7&Refer=top)<br />
-8. [专四](https://s.weibo.com/weibo?q=%E4%B8%93%E5%9B%9B&t=31&band_rank=8&Refer=top)<br />
-9. [布林肯访华](https://s.weibo.com/weibo?q=%23%E5%B8%83%E6%9E%97%E8%82%AF%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=9&Refer=top)<br />
+8. [布林肯访华](https://s.weibo.com/weibo?q=%23%E5%B8%83%E6%9E%97%E8%82%AF%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=8&Refer=top)<br />
+9. [专四](https://s.weibo.com/weibo?q=%E4%B8%93%E5%9B%9B&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
