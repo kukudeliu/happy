@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 03:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 03:02:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [国企一把手收受124万被判4年](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BC%81%E4%B8%80%E6%8A%8A%E6%89%8B%E6%94%B6%E5%8F%97124%E4%B8%87%E8%A2%AB%E5%88%A44%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [厦大新闻学教授谈张雪峰言论](https://www.baidu.com/s?wd=%E5%8E%A6%E5%A4%A7%E6%96%B0%E9%97%BB%E5%AD%A6%E6%95%99%E6%8E%88%E8%B0%88%E5%BC%A0%E9%9B%AA%E5%B3%B0%E8%A8%80%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [广东工大获CUBAL总冠军](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E5%B7%A5%E5%A4%A7%E8%8E%B7CUBAL%E6%80%BB%E5%86%A0%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [迪丽热巴手滑进了梦海直播间](https://www.baidu.com/s?wd=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%89%8B%E6%BB%91%E8%BF%9B%E4%BA%86%E6%A2%A6%E6%B5%B7%E7%9B%B4%E6%92%AD%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女生遭校园霸凌被多人掌掴?警方介入](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%81%AD%E6%A0%A1%E5%9B%AD%E9%9C%B8%E5%87%8C%E8%A2%AB%E5%A4%9A%E4%BA%BA%E6%8E%8C%E6%8E%B4%3F%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [国企一把手收受124万被判4年](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BC%81%E4%B8%80%E6%8A%8A%E6%89%8B%E6%94%B6%E5%8F%97124%E4%B8%87%E8%A2%AB%E5%88%A44%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [厦大新闻学教授谈张雪峰言论](https://www.baidu.com/s?wd=%E5%8E%A6%E5%A4%A7%E6%96%B0%E9%97%BB%E5%AD%A6%E6%95%99%E6%8E%88%E8%B0%88%E5%BC%A0%E9%9B%AA%E5%B3%B0%E8%A8%80%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [广东工大获CUBAL总冠军](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E5%B7%A5%E5%A4%A7%E8%8E%B7CUBAL%E6%80%BB%E5%86%A0%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [迪丽热巴手滑进了梦海直播间](https://www.baidu.com/s?wd=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%89%8B%E6%BB%91%E8%BF%9B%E4%BA%86%E6%A2%A6%E6%B5%B7%E7%9B%B4%E6%92%AD%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女生遭校园霸凌被多人掌掴?警方介入](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%81%AD%E6%A0%A1%E5%9B%AD%E9%9C%B8%E5%87%8C%E8%A2%AB%E5%A4%9A%E4%BA%BA%E6%8E%8C%E6%8E%B4%3F%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
