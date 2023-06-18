@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 23:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 23:16:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [白敬亭宋轶对视没有技巧全是感情](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6%E5%AF%B9%E8%A7%86%E6%B2%A1%E6%9C%89%E6%8A%80%E5%B7%A7%E5%85%A8%E6%98%AF%E6%84%9F%E6%83%85%23&t=31&band_rank=6&Refer=top)<br />
 7. [Jennie在舞台上走神](https://s.weibo.com/weibo?q=%23Jennie%E5%9C%A8%E8%88%9E%E5%8F%B0%E4%B8%8A%E8%B5%B0%E7%A5%9E%23&t=31&band_rank=7&Refer=top)<br />
 8. [为什么阴干的衣服那么臭](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E9%98%B4%E5%B9%B2%E7%9A%84%E8%A1%A3%E6%9C%8D%E9%82%A3%E4%B9%88%E8%87%AD%23&t=31&band_rank=8&Refer=top)<br />
-9. [厦大新闻学教授谈张雪峰言论](https://s.weibo.com/weibo?q=%23%E5%8E%A6%E5%A4%A7%E6%96%B0%E9%97%BB%E5%AD%A6%E6%95%99%E6%8E%88%E8%B0%88%E5%BC%A0%E9%9B%AA%E5%B3%B0%E8%A8%80%E8%AE%BA%23&t=31&band_rank=9&Refer=top)<br />
+9. [相亲中的聊天记录](https://s.weibo.com/weibo?q=%23%E7%9B%B8%E4%BA%B2%E4%B8%AD%E7%9A%84%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
