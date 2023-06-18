@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 01:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 01:09:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [为什么阴干的衣服那么臭](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E9%98%B4%E5%B9%B2%E7%9A%84%E8%A1%A3%E6%9C%8D%E9%82%A3%E4%B9%88%E8%87%AD%23&t=31&band_rank=6&Refer=top)<br />
 7. [白敬亭宋轶对视没有技巧全是感情](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6%E5%AF%B9%E8%A7%86%E6%B2%A1%E6%9C%89%E6%8A%80%E5%B7%A7%E5%85%A8%E6%98%AF%E6%84%9F%E6%83%85%23&t=31&band_rank=7&Refer=top)<br />
 8. [Jennie在舞台上走神](https://s.weibo.com/weibo?q=%23Jennie%E5%9C%A8%E8%88%9E%E5%8F%B0%E4%B8%8A%E8%B5%B0%E7%A5%9E%23&t=31&band_rank=8&Refer=top)<br />
-9. [长风渡首播反馈](https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%A3%8E%E6%B8%A1%E9%A6%96%E6%92%AD%E5%8F%8D%E9%A6%88%23&t=31&band_rank=9&Refer=top)<br />
+9. [大四男生实习薪资1万4妈妈仰天大笑](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%9B%9B%E7%94%B7%E7%94%9F%E5%AE%9E%E4%B9%A0%E8%96%AA%E8%B5%841%E4%B8%874%E5%A6%88%E5%A6%88%E4%BB%B0%E5%A4%A9%E5%A4%A7%E7%AC%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -34,7 +34,7 @@
 6. [迪丽热巴手滑进了梦海直播间](https://www.baidu.com/s?wd=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%89%8B%E6%BB%91%E8%BF%9B%E4%BA%86%E6%A2%A6%E6%B5%B7%E7%9B%B4%E6%92%AD%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [深圳商场积水严重街上有车被淹](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%95%86%E5%9C%BA%E7%A7%AF%E6%B0%B4%E4%B8%A5%E9%87%8D%E8%A1%97%E4%B8%8A%E6%9C%89%E8%BD%A6%E8%A2%AB%E6%B7%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [厦大新闻学教授谈张雪峰言论](https://www.baidu.com/s?wd=%E5%8E%A6%E5%A4%A7%E6%96%B0%E9%97%BB%E5%AD%A6%E6%95%99%E6%8E%88%E8%B0%88%E5%BC%A0%E9%9B%AA%E5%B3%B0%E8%A8%80%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [比亚迪香港4门店遭毁坏](https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E9%A6%99%E6%B8%AF4%E9%97%A8%E5%BA%97%E9%81%AD%E6%AF%81%E5%9D%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [杭州跳桥救人小哥治疗康复费用全免](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E8%B7%B3%E6%A1%A5%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E6%B2%BB%E7%96%97%E5%BA%B7%E5%A4%8D%E8%B4%B9%E7%94%A8%E5%85%A8%E5%85%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [迪丽热巴手滑进了梦海直播间](https://www.baidu.com/s?wd=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%89%8B%E6%BB%91%E8%BF%9B%E4%BA%86%E6%A2%A6%E6%B5%B7%E7%9B%B4%E6%92%AD%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [深圳商场积水严重街上有车被淹](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%95%86%E5%9C%BA%E7%A7%AF%E6%B0%B4%E4%B8%A5%E9%87%8D%E8%A1%97%E4%B8%8A%E6%9C%89%E8%BD%A6%E8%A2%AB%E6%B7%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [厦大新闻学教授谈张雪峰言论](https://www.baidu.com/s?wd=%E5%8E%A6%E5%A4%A7%E6%96%B0%E9%97%BB%E5%AD%A6%E6%95%99%E6%8E%88%E8%B0%88%E5%BC%A0%E9%9B%AA%E5%B3%B0%E8%A8%80%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [比亚迪香港4门店遭毁坏](https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E9%A6%99%E6%B8%AF4%E9%97%A8%E5%BA%97%E9%81%AD%E6%AF%81%E5%9D%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [杭州跳桥救人小哥治疗康复费用全免](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E8%B7%B3%E6%A1%A5%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E6%B2%BB%E7%96%97%E5%BA%B7%E5%A4%8D%E8%B4%B9%E7%94%A8%E5%85%A8%E5%85%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
