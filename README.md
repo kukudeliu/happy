@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 22:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 22:21:01</h4></div>
 
 > 微博  
 
-1. [广工总冠军](https://s.weibo.com/weibo?q=%E5%B9%BF%E5%B7%A5%E6%80%BB%E5%86%A0%E5%86%9B&t=31&band_rank=1&Refer=top)<br />
-2. [清华大学vs广东工大](https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6vs%E5%B9%BF%E4%B8%9C%E5%B7%A5%E5%A4%A7%23&t=31&band_rank=2&Refer=top)<br />
+1. [清华大学vs广东工大](https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6vs%E5%B9%BF%E4%B8%9C%E5%B7%A5%E5%A4%A7%23&t=31&band_rank=1&Refer=top)<br />
+2. [广工总冠军](https://s.weibo.com/weibo?q=%E5%B9%BF%E5%B7%A5%E6%80%BB%E5%86%A0%E5%86%9B&t=31&band_rank=2&Refer=top)<br />
 3. [中国制造究竟有多牛](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E7%A9%B6%E7%AB%9F%E6%9C%89%E5%A4%9A%E7%89%9B%23&t=31&band_rank=3&Refer=top)<br />
 4. [迪丽热巴手滑进了梦海直播间](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%89%8B%E6%BB%91%E8%BF%9B%E4%BA%86%E6%A2%A6%E6%B5%B7%E7%9B%B4%E6%92%AD%E9%97%B4%23&t=31&band_rank=4&Refer=top)<br />
 5. [白敬亭宋轶对视没有技巧全是感情](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6%E5%AF%B9%E8%A7%86%E6%B2%A1%E6%9C%89%E6%8A%80%E5%B7%A7%E5%85%A8%E6%98%AF%E6%84%9F%E6%83%85%23&t=31&band_rank=5&Refer=top)<br />
