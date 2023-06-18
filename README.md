@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 19:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 19:45:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [宝宝首次戴人工耳蜗听声音后大哭](https://s.weibo.com/weibo?q=%23%E5%AE%9D%E5%AE%9D%E9%A6%96%E6%AC%A1%E6%88%B4%E4%BA%BA%E5%B7%A5%E8%80%B3%E8%9C%97%E5%90%AC%E5%A3%B0%E9%9F%B3%E5%90%8E%E5%A4%A7%E5%93%AD%23&t=31&band_rank=5&Refer=top)<br />
 6. [东航客服回应胡兵50万积分被清零](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E8%88%AA%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E8%83%A1%E5%85%B550%E4%B8%87%E7%A7%AF%E5%88%86%E8%A2%AB%E6%B8%85%E9%9B%B6%23&t=31&band_rank=6&Refer=top)<br />
 7. [女儿把楼梯变黑板给爸爸送祝福](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E6%8A%8A%E6%A5%BC%E6%A2%AF%E5%8F%98%E9%BB%91%E6%9D%BF%E7%BB%99%E7%88%B8%E7%88%B8%E9%80%81%E7%A5%9D%E7%A6%8F%23&t=31&band_rank=7&Refer=top)<br />
-8. [真情侣](https://s.weibo.com/weibo?q=%E7%9C%9F%E6%83%85%E4%BE%A3&t=31&band_rank=8&Refer=top)<br />
-9. [专家称月入3000就算中等收入群体](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%9C%88%E5%85%A53000%E5%B0%B1%E7%AE%97%E4%B8%AD%E7%AD%89%E6%94%B6%E5%85%A5%E7%BE%A4%E4%BD%93%23&t=31&band_rank=9&Refer=top)<br />
+8. [专家称月入3000就算中等收入群体](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%9C%88%E5%85%A53000%E5%B0%B1%E7%AE%97%E4%B8%AD%E7%AD%89%E6%94%B6%E5%85%A5%E7%BE%A4%E4%BD%93%23&t=31&band_rank=8&Refer=top)<br />
+9. [真情侣](https://s.weibo.com/weibo?q=%E7%9C%9F%E6%83%85%E4%BE%A3&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
