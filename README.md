@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 19:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 19:16:01</h4></div>
 
 > 微博  
 
@@ -6,9 +6,9 @@
 2. [长风渡](https://s.weibo.com/weibo?q=%E9%95%BF%E9%A3%8E%E6%B8%A1&t=31&band_rank=2&Refer=top)<br />
 3. [世界最高坝启动大坝浇筑](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9C%80%E9%AB%98%E5%9D%9D%E5%90%AF%E5%8A%A8%E5%A4%A7%E5%9D%9D%E6%B5%87%E7%AD%91%23&t=31&band_rank=3&Refer=top)<br />
 4. [为什么阴干的衣服那么臭](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E9%98%B4%E5%B9%B2%E7%9A%84%E8%A1%A3%E6%9C%8D%E9%82%A3%E4%B9%88%E8%87%AD%23&t=31&band_rank=4&Refer=top)<br />
-5. [男子贴小广告70后民警狂追千米](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%B4%B4%E5%B0%8F%E5%B9%BF%E5%91%8A70%E5%90%8E%E6%B0%91%E8%AD%A6%E7%8B%82%E8%BF%BD%E5%8D%83%E7%B1%B3%23&t=31&band_rank=5&Refer=top)<br />
+5. [原来你是这样的老爸](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%BD%A0%E6%98%AF%E8%BF%99%E6%A0%B7%E7%9A%84%E8%80%81%E7%88%B8%23&t=31&band_rank=5&Refer=top)<br />
 6. [高铁上情侣想换座我拒绝了](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E4%B8%8A%E6%83%85%E4%BE%A3%E6%83%B3%E6%8D%A2%E5%BA%A7%E6%88%91%E6%8B%92%E7%BB%9D%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [原来你是这样的老爸](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%BD%A0%E6%98%AF%E8%BF%99%E6%A0%B7%E7%9A%84%E8%80%81%E7%88%B8%23&t=31&band_rank=7&Refer=top)<br />
+7. [男子贴小广告70后民警狂追千米](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%B4%B4%E5%B0%8F%E5%B9%BF%E5%91%8A70%E5%90%8E%E6%B0%91%E8%AD%A6%E7%8B%82%E8%BF%BD%E5%8D%83%E7%B1%B3%23&t=31&band_rank=7&Refer=top)<br />
 8. [东航客服回应胡兵50万积分被清零](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E8%88%AA%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E8%83%A1%E5%85%B550%E4%B8%87%E7%A7%AF%E5%88%86%E8%A2%AB%E6%B8%85%E9%9B%B6%23&t=31&band_rank=8&Refer=top)<br />
 9. [女朋友说她拍到我出轨了](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%9C%8B%E5%8F%8B%E8%AF%B4%E5%A5%B9%E6%8B%8D%E5%88%B0%E6%88%91%E5%87%BA%E8%BD%A8%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
