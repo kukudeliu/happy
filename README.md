@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 16:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 16:57:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [教育局回应奔驰在操场倒车险撞人](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%A5%94%E9%A9%B0%E5%9C%A8%E6%93%8D%E5%9C%BA%E5%80%92%E8%BD%A6%E9%99%A9%E6%92%9E%E4%BA%BA%23&t=31&band_rank=5&Refer=top)<br />
 6. [香港名媛蔡天凤葬礼今日举行](https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%90%8D%E5%AA%9B%E8%94%A1%E5%A4%A9%E5%87%A4%E8%91%AC%E7%A4%BC%E4%BB%8A%E6%97%A5%E4%B8%BE%E8%A1%8C%23&t=31&band_rank=6&Refer=top)<br />
 7. [肖战看到宝宝的反应](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%9C%8B%E5%88%B0%E5%AE%9D%E5%AE%9D%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=7&Refer=top)<br />
-8. [白敬亭上小号夸自己](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E4%B8%8A%E5%B0%8F%E5%8F%B7%E5%A4%B8%E8%87%AA%E5%B7%B1%23&t=31&band_rank=8&Refer=top)<br />
-9. [这背影居然是蔡少芬](https://s.weibo.com/weibo?q=%23%E8%BF%99%E8%83%8C%E5%BD%B1%E5%B1%85%E7%84%B6%E6%98%AF%E8%94%A1%E5%B0%91%E8%8A%AC%23&t=31&band_rank=9&Refer=top)<br />
+8. [这背影居然是蔡少芬](https://s.weibo.com/weibo?q=%23%E8%BF%99%E8%83%8C%E5%BD%B1%E5%B1%85%E7%84%B6%E6%98%AF%E8%94%A1%E5%B0%91%E8%8A%AC%23&t=31&band_rank=8&Refer=top)<br />
+9. [宋佳居然这么高](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BD%B3%E5%B1%85%E7%84%B6%E8%BF%99%E4%B9%88%E9%AB%98%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -21,8 +21,8 @@
 5. [婆婆病了，我是老大媳妇，兄弟姐妹说我工资最低想出钱让我照顾，该不该答应？](https://www.zhihu.com/question/605822171)<br />
 6. [冲进球场拥抱梅西的球迷被行拘，男子已 18 岁，如何看待这一结果？](https://www.zhihu.com/question/607010548)<br />
 7. [调查组通报「鼠头鸭脖」事件调查处理情况，如果吃了被老鼠污染的食物怎么办？哪些事项需要注意？](https://www.zhihu.com/question/607260956)<br />
-8. [孩子对编程感兴趣，我一个月 3000 元没能力支持孩子学习这个费钱的爱好，如果是你会给孩子买课吗？](https://www.zhihu.com/question/605660809)<br />
-9. [阿根廷和澳大利亚为何要到中国踢热身赛？这对中国足球有何益处？](https://www.zhihu.com/question/606918459)<br />
+8. [阿根廷和澳大利亚为何要到中国踢热身赛？这对中国足球有何益处？](https://www.zhihu.com/question/606918459)<br />
+9. [马斯克们力推的人造子宫，能否拯救我们的低生育率？](https://www.zhihu.com/question/606625465)<br />
 
 > 百度  
 
