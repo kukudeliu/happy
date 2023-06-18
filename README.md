@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 12:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 12:10:01</h4></div>
 
 > 微博  
 
@@ -31,10 +31,10 @@
 3. [胡兵50万积分被东航清零](https://www.baidu.com/s?wd=%E8%83%A1%E5%85%B550%E4%B8%87%E7%A7%AF%E5%88%86%E8%A2%AB%E4%B8%9C%E8%88%AA%E6%B8%85%E9%9B%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“三夏”农忙正当时](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%89%E5%A4%8F%E2%80%9D%E5%86%9C%E5%BF%99%E6%AD%A3%E5%BD%93%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [父亲节](https://www.baidu.com/s?wd=%E7%88%B6%E4%BA%B2%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [20岁快递员猥亵50岁阿姨被行拘](https://www.baidu.com/s?wd=20%E5%B2%81%E5%BF%AB%E9%80%92%E5%91%98%E7%8C%A5%E4%BA%B550%E5%B2%81%E9%98%BF%E5%A7%A8%E8%A2%AB%E8%A1%8C%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [半个奢侈品圈都在李宇春演唱会](https://www.baidu.com/s?wd=%E5%8D%8A%E4%B8%AA%E5%A5%A2%E4%BE%88%E5%93%81%E5%9C%88%E9%83%BD%E5%9C%A8%E6%9D%8E%E5%AE%87%E6%98%A5%E6%BC%94%E5%94%B1%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [谢娜唱《她她她》引争议](https://www.baidu.com/s?wd=%E8%B0%A2%E5%A8%9C%E5%94%B1%E3%80%8A%E5%A5%B9%E5%A5%B9%E5%A5%B9%E3%80%8B%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [马云现身杭州围观数学竞赛](https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%E7%8E%B0%E8%BA%AB%E6%9D%AD%E5%B7%9E%E5%9B%B4%E8%A7%82%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [鼠头鸭身周边9.9元一个 月售过百](https://www.baidu.com/s?wd=%E9%BC%A0%E5%A4%B4%E9%B8%AD%E8%BA%AB%E5%91%A8%E8%BE%B99.9%E5%85%83%E4%B8%80%E4%B8%AA+%E6%9C%88%E5%94%AE%E8%BF%87%E7%99%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [20岁快递员猥亵50岁阿姨被行拘](https://www.baidu.com/s?wd=20%E5%B2%81%E5%BF%AB%E9%80%92%E5%91%98%E7%8C%A5%E4%BA%B550%E5%B2%81%E9%98%BF%E5%A7%A8%E8%A2%AB%E8%A1%8C%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [半个奢侈品圈都在李宇春演唱会](https://www.baidu.com/s?wd=%E5%8D%8A%E4%B8%AA%E5%A5%A2%E4%BE%88%E5%93%81%E5%9C%88%E9%83%BD%E5%9C%A8%E6%9D%8E%E5%AE%87%E6%98%A5%E6%BC%94%E5%94%B1%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [大叔高铁上脱鞋“味太大”引冲突](https://www.baidu.com/s?wd=%E5%A4%A7%E5%8F%94%E9%AB%98%E9%93%81%E4%B8%8A%E8%84%B1%E9%9E%8B%E2%80%9C%E5%91%B3%E5%A4%AA%E5%A4%A7%E2%80%9D%E5%BC%95%E5%86%B2%E7%AA%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [胡兵50万积分被东航清零](https://www.baidu.com/s?wd=%E8%83%A1%E5%85%B550%E4%B8%87%E7%A7%AF%E5%88%86%E8%A2%AB%E4%B8%9C%E8%88%AA%E6%B8%85%E9%9B%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“三夏”农忙正当时](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%89%E5%A4%8F%E2%80%9D%E5%86%9C%E5%BF%99%E6%AD%A3%E5%BD%93%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [父亲节](https://www.baidu.com/s?wd=%E7%88%B6%E4%BA%B2%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [20岁快递员猥亵50岁阿姨被行拘](https://www.baidu.com/s?wd=20%E5%B2%81%E5%BF%AB%E9%80%92%E5%91%98%E7%8C%A5%E4%BA%B550%E5%B2%81%E9%98%BF%E5%A7%A8%E8%A2%AB%E8%A1%8C%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [半个奢侈品圈都在李宇春演唱会](https://www.baidu.com/s?wd=%E5%8D%8A%E4%B8%AA%E5%A5%A2%E4%BE%88%E5%93%81%E5%9C%88%E9%83%BD%E5%9C%A8%E6%9D%8E%E5%AE%87%E6%98%A5%E6%BC%94%E5%94%B1%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [谢娜唱《她她她》引争议](https://www.baidu.com/s?wd=%E8%B0%A2%E5%A8%9C%E5%94%B1%E3%80%8A%E5%A5%B9%E5%A5%B9%E5%A5%B9%E3%80%8B%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [马云现身杭州围观数学竞赛](https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%E7%8E%B0%E8%BA%AB%E6%9D%AD%E5%B7%9E%E5%9B%B4%E8%A7%82%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [鼠头鸭身周边9.9元一个 月售过百](https://www.baidu.com/s?wd=%E9%BC%A0%E5%A4%B4%E9%B8%AD%E8%BA%AB%E5%91%A8%E8%BE%B99.9%E5%85%83%E4%B8%80%E4%B8%AA+%E6%9C%88%E5%94%AE%E8%BF%87%E7%99%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [20岁快递员猥亵50岁阿姨被行拘](https://www.baidu.com/s?wd=20%E5%B2%81%E5%BF%AB%E9%80%92%E5%91%98%E7%8C%A5%E4%BA%B550%E5%B2%81%E9%98%BF%E5%A7%A8%E8%A2%AB%E8%A1%8C%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [半个奢侈品圈都在李宇春演唱会](https://www.baidu.com/s?wd=%E5%8D%8A%E4%B8%AA%E5%A5%A2%E4%BE%88%E5%93%81%E5%9C%88%E9%83%BD%E5%9C%A8%E6%9D%8E%E5%AE%87%E6%98%A5%E6%BC%94%E5%94%B1%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [大叔高铁上脱鞋“味太大”引冲突](https://www.baidu.com/s?wd=%E5%A4%A7%E5%8F%94%E9%AB%98%E9%93%81%E4%B8%8A%E8%84%B1%E9%9E%8B%E2%80%9C%E5%91%B3%E5%A4%AA%E5%A4%A7%E2%80%9D%E5%BC%95%E5%86%B2%E7%AA%81&sa=fyb_news&rsv_dl=fyb_news)<br />
