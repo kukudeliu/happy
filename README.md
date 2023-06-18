@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 00:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 00:04:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [中国制造究竟有多牛](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E7%A9%B6%E7%AB%9F%E6%9C%89%E5%A4%9A%E7%89%9B%23&t=31&band_rank=3&Refer=top)<br />
 4. [白敬亭宋轶对视没有技巧全是感情](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6%E5%AF%B9%E8%A7%86%E6%B2%A1%E6%9C%89%E6%8A%80%E5%B7%A7%E5%85%A8%E6%98%AF%E6%84%9F%E6%83%85%23&t=31&band_rank=4&Refer=top)<br />
 5. [989大学](https://s.weibo.com/weibo?q=989%E5%A4%A7%E5%AD%A6&t=31&band_rank=5&Refer=top)<br />
-6. [为什么阴干的衣服那么臭](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E9%98%B4%E5%B9%B2%E7%9A%84%E8%A1%A3%E6%9C%8D%E9%82%A3%E4%B9%88%E8%87%AD%23&t=31&band_rank=6&Refer=top)<br />
-7. [厦大新闻学教授谈张雪峰言论](https://s.weibo.com/weibo?q=%23%E5%8E%A6%E5%A4%A7%E6%96%B0%E9%97%BB%E5%AD%A6%E6%95%99%E6%8E%88%E8%B0%88%E5%BC%A0%E9%9B%AA%E5%B3%B0%E8%A8%80%E8%AE%BA%23&t=31&band_rank=7&Refer=top)<br />
+6. [厦大新闻学教授谈张雪峰言论](https://s.weibo.com/weibo?q=%23%E5%8E%A6%E5%A4%A7%E6%96%B0%E9%97%BB%E5%AD%A6%E6%95%99%E6%8E%88%E8%B0%88%E5%BC%A0%E9%9B%AA%E5%B3%B0%E8%A8%80%E8%AE%BA%23&t=31&band_rank=6&Refer=top)<br />
+7. [为什么阴干的衣服那么臭](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E9%98%B4%E5%B9%B2%E7%9A%84%E8%A1%A3%E6%9C%8D%E9%82%A3%E4%B9%88%E8%87%AD%23&t=31&band_rank=7&Refer=top)<br />
 8. [Jennie在舞台上走神](https://s.weibo.com/weibo?q=%23Jennie%E5%9C%A8%E8%88%9E%E5%8F%B0%E4%B8%8A%E8%B5%B0%E7%A5%9E%23&t=31&band_rank=8&Refer=top)<br />
 9. [朴彩英四年前的发量vs现在的](https://s.weibo.com/weibo?q=%23%E6%9C%B4%E5%BD%A9%E8%8B%B1%E5%9B%9B%E5%B9%B4%E5%89%8D%E7%9A%84%E5%8F%91%E9%87%8Fvs%E7%8E%B0%E5%9C%A8%E7%9A%84%23&t=31&band_rank=9&Refer=top)<br />
 
@@ -16,9 +16,9 @@
 
 1. [如何评价王宝强自导自演的电影《八角笼中》?](https://www.zhihu.com/question/566061816)<br />
 2. [马斯克们力推的人造子宫，能否拯救我们的低生育率？](https://www.zhihu.com/question/606625465)<br />
-3. [「凉白开」这类饮品，真的是把水煮开再罐装的吗？](https://www.zhihu.com/question/606321291)<br />
+3. [普京亮出俄乌和解协议草案「俄军一撤离基辅，就被扔进了垃圾堆」，哪些信息值得关注？](https://www.zhihu.com/question/607295832)<br />
 4. [布林肯已到达北京开启访华行程，此行有哪些信息值得关注？](https://www.zhihu.com/question/607270958)<br />
-5. [普京亮出俄乌和解协议草案「俄军一撤离基辅，就被扔进了垃圾堆」，哪些信息值得关注？](https://www.zhihu.com/question/607295832)<br />
+5. [「凉白开」这类饮品，真的是把水煮开再罐装的吗？](https://www.zhihu.com/question/606321291)<br />
 6. [韩国首尔市 7 月起对学校供餐进行全面辐射检测，说明了什么问题？日本辐射可能会有哪些危害？](https://www.zhihu.com/question/607160207)<br />
 7. [一个表面绝对光滑的完美球形刚体，质量分布均匀，如何确定它是在旋转还是静止？](https://www.zhihu.com/question/606790924)<br />
 8. []()<br />
@@ -33,8 +33,8 @@
 5. [董明珠称全世界只有格力空调不吹人](https://www.baidu.com/s?wd=%E8%91%A3%E6%98%8E%E7%8F%A0%E7%A7%B0%E5%85%A8%E4%B8%96%E7%95%8C%E5%8F%AA%E6%9C%89%E6%A0%BC%E5%8A%9B%E7%A9%BA%E8%B0%83%E4%B8%8D%E5%90%B9%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [保洁阿姨拆洗窗帘不幸从5楼坠亡](https://www.baidu.com/s?wd=%E4%BF%9D%E6%B4%81%E9%98%BF%E5%A7%A8%E6%8B%86%E6%B4%97%E7%AA%97%E5%B8%98%E4%B8%8D%E5%B9%B8%E4%BB%8E5%E6%A5%BC%E5%9D%A0%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [杭州跳桥救人小哥治疗康复费用全免](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E8%B7%B3%E6%A1%A5%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E6%B2%BB%E7%96%97%E5%BA%B7%E5%A4%8D%E8%B4%B9%E7%94%A8%E5%85%A8%E5%85%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [深圳商场积水严重街上有车被淹](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%95%86%E5%9C%BA%E7%A7%AF%E6%B0%B4%E4%B8%A5%E9%87%8D%E8%A1%97%E4%B8%8A%E6%9C%89%E8%BD%A6%E8%A2%AB%E6%B7%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [不同镜头下的布林肯访华](https://www.baidu.com/s?wd=%E4%B8%8D%E5%90%8C%E9%95%9C%E5%A4%B4%E4%B8%8B%E7%9A%84%E5%B8%83%E6%9E%97%E8%82%AF%E8%AE%BF%E5%8D%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [2023年轻人省钱报告](https://www.baidu.com/s?wd=2023%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9C%81%E9%92%B1%E6%8A%A5%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [王石：房地产市场刚开始](https://www.baidu.com/s?wd=%E7%8E%8B%E7%9F%B3%EF%BC%9A%E6%88%BF%E5%9C%B0%E4%BA%A7%E5%B8%82%E5%9C%BA%E5%88%9A%E5%BC%80%E5%A7%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [董明珠称全世界只有格力空调不吹人](https://www.baidu.com/s?wd=%E8%91%A3%E6%98%8E%E7%8F%A0%E7%A7%B0%E5%85%A8%E4%B8%96%E7%95%8C%E5%8F%AA%E6%9C%89%E6%A0%BC%E5%8A%9B%E7%A9%BA%E8%B0%83%E4%B8%8D%E5%90%B9%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [保洁阿姨拆洗窗帘不幸从5楼坠亡](https://www.baidu.com/s?wd=%E4%BF%9D%E6%B4%81%E9%98%BF%E5%A7%A8%E6%8B%86%E6%B4%97%E7%AA%97%E5%B8%98%E4%B8%8D%E5%B9%B8%E4%BB%8E5%E6%A5%BC%E5%9D%A0%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [杭州跳桥救人小哥治疗康复费用全免](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E8%B7%B3%E6%A1%A5%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E6%B2%BB%E7%96%97%E5%BA%B7%E5%A4%8D%E8%B4%B9%E7%94%A8%E5%85%A8%E5%85%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [深圳商场积水严重街上有车被淹](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%95%86%E5%9C%BA%E7%A7%AF%E6%B0%B4%E4%B8%A5%E9%87%8D%E8%A1%97%E4%B8%8A%E6%9C%89%E8%BD%A6%E8%A2%AB%E6%B7%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [不同镜头下的布林肯访华](https://www.baidu.com/s?wd=%E4%B8%8D%E5%90%8C%E9%95%9C%E5%A4%B4%E4%B8%8B%E7%9A%84%E5%B8%83%E6%9E%97%E8%82%AF%E8%AE%BF%E5%8D%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [2023年轻人省钱报告](https://www.baidu.com/s?wd=2023%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9C%81%E9%92%B1%E6%8A%A5%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [王石：房地产市场刚开始](https://www.baidu.com/s?wd=%E7%8E%8B%E7%9F%B3%EF%BC%9A%E6%88%BF%E5%9C%B0%E4%BA%A7%E5%B8%82%E5%9C%BA%E5%88%9A%E5%BC%80%E5%A7%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
