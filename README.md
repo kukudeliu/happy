@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 08:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 08:48:01</h4></div>
 
 > 微博  
 
@@ -31,9 +31,9 @@
 3. [中学老师跳10多米高桥救轻生女](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E8%80%81%E5%B8%88%E8%B7%B310%E5%A4%9A%E7%B1%B3%E9%AB%98%E6%A1%A5%E6%95%91%E8%BD%BB%E7%94%9F%E5%A5%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [稳产保丰 小麦主产区有这些举措](https://www.baidu.com/s?wd=%E7%A8%B3%E4%BA%A7%E4%BF%9D%E4%B8%B0+%E5%B0%8F%E9%BA%A6%E4%B8%BB%E4%BA%A7%E5%8C%BA%E6%9C%89%E8%BF%99%E4%BA%9B%E4%B8%BE%E6%8E%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [父亲节](https://www.baidu.com/s?wd=%E7%88%B6%E4%BA%B2%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [董宇辉称曾拒税后2亿年薪工作](https://www.baidu.com/s?wd=%E8%91%A3%E5%AE%87%E8%BE%89%E7%A7%B0%E6%9B%BE%E6%8B%92%E7%A8%8E%E5%90%8E2%E4%BA%BF%E5%B9%B4%E8%96%AA%E5%B7%A5%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [美国务院网站将首页更换为中国街景](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%8A%A1%E9%99%A2%E7%BD%91%E7%AB%99%E5%B0%86%E9%A6%96%E9%A1%B5%E6%9B%B4%E6%8D%A2%E4%B8%BA%E4%B8%AD%E5%9B%BD%E8%A1%97%E6%99%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [精神病人持刀砍伤数十人？警方回应](https://www.baidu.com/s?wd=%E7%B2%BE%E7%A5%9E%E7%97%85%E4%BA%BA%E6%8C%81%E5%88%80%E7%A0%8D%E4%BC%A4%E6%95%B0%E5%8D%81%E4%BA%BA%EF%BC%9F%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [大学生“以证换狗”走红背后](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E2%80%9C%E4%BB%A5%E8%AF%81%E6%8D%A2%E7%8B%97%E2%80%9D%E8%B5%B0%E7%BA%A2%E8%83%8C%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [董宇辉称曾拒税后2亿年薪工作](https://www.baidu.com/s?wd=%E8%91%A3%E5%AE%87%E8%BE%89%E7%A7%B0%E6%9B%BE%E6%8B%92%E7%A8%8E%E5%90%8E2%E4%BA%BF%E5%B9%B4%E8%96%AA%E5%B7%A5%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [美国务院网站将首页更换为中国街景](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%8A%A1%E9%99%A2%E7%BD%91%E7%AB%99%E5%B0%86%E9%A6%96%E9%A1%B5%E6%9B%B4%E6%8D%A2%E4%B8%BA%E4%B8%AD%E5%9B%BD%E8%A1%97%E6%99%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [商户招牌因易燃遭拆除却无法点燃](https://www.baidu.com/s?wd=%E5%95%86%E6%88%B7%E6%8B%9B%E7%89%8C%E5%9B%A0%E6%98%93%E7%87%83%E9%81%AD%E6%8B%86%E9%99%A4%E5%8D%B4%E6%97%A0%E6%B3%95%E7%82%B9%E7%87%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -43,7 +43,7 @@
 3. [中学老师跳10多米高桥救轻生女](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E8%80%81%E5%B8%88%E8%B7%B310%E5%A4%9A%E7%B1%B3%E9%AB%98%E6%A1%A5%E6%95%91%E8%BD%BB%E7%94%9F%E5%A5%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [稳产保丰 小麦主产区有这些举措](https://www.baidu.com/s?wd=%E7%A8%B3%E4%BA%A7%E4%BF%9D%E4%B8%B0+%E5%B0%8F%E9%BA%A6%E4%B8%BB%E4%BA%A7%E5%8C%BA%E6%9C%89%E8%BF%99%E4%BA%9B%E4%B8%BE%E6%8E%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [父亲节](https://www.baidu.com/s?wd=%E7%88%B6%E4%BA%B2%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [董宇辉称曾拒税后2亿年薪工作](https://www.baidu.com/s?wd=%E8%91%A3%E5%AE%87%E8%BE%89%E7%A7%B0%E6%9B%BE%E6%8B%92%E7%A8%8E%E5%90%8E2%E4%BA%BF%E5%B9%B4%E8%96%AA%E5%B7%A5%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [美国务院网站将首页更换为中国街景](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%8A%A1%E9%99%A2%E7%BD%91%E7%AB%99%E5%B0%86%E9%A6%96%E9%A1%B5%E6%9B%B4%E6%8D%A2%E4%B8%BA%E4%B8%AD%E5%9B%BD%E8%A1%97%E6%99%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [精神病人持刀砍伤数十人？警方回应](https://www.baidu.com/s?wd=%E7%B2%BE%E7%A5%9E%E7%97%85%E4%BA%BA%E6%8C%81%E5%88%80%E7%A0%8D%E4%BC%A4%E6%95%B0%E5%8D%81%E4%BA%BA%EF%BC%9F%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [大学生“以证换狗”走红背后](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E2%80%9C%E4%BB%A5%E8%AF%81%E6%8D%A2%E7%8B%97%E2%80%9D%E8%B5%B0%E7%BA%A2%E8%83%8C%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [董宇辉称曾拒税后2亿年薪工作](https://www.baidu.com/s?wd=%E8%91%A3%E5%AE%87%E8%BE%89%E7%A7%B0%E6%9B%BE%E6%8B%92%E7%A8%8E%E5%90%8E2%E4%BA%BF%E5%B9%B4%E8%96%AA%E5%B7%A5%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [美国务院网站将首页更换为中国街景](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%8A%A1%E9%99%A2%E7%BD%91%E7%AB%99%E5%B0%86%E9%A6%96%E9%A1%B5%E6%9B%B4%E6%8D%A2%E4%B8%BA%E4%B8%AD%E5%9B%BD%E8%A1%97%E6%99%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [商户招牌因易燃遭拆除却无法点燃](https://www.baidu.com/s?wd=%E5%95%86%E6%88%B7%E6%8B%9B%E7%89%8C%E5%9B%A0%E6%98%93%E7%87%83%E9%81%AD%E6%8B%86%E9%99%A4%E5%8D%B4%E6%97%A0%E6%B3%95%E7%82%B9%E7%87%83&sa=fyb_news&rsv_dl=fyb_news)<br />
