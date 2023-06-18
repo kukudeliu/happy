@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 15:57:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 15:58:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [白敬亭上小号夸自己](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E4%B8%8A%E5%B0%8F%E5%8F%B7%E5%A4%B8%E8%87%AA%E5%B7%B1%23&t=31&band_rank=4&Refer=top)<br />
 5. [宋佳居然这么高](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BD%B3%E5%B1%85%E7%84%B6%E8%BF%99%E4%B9%88%E9%AB%98%23&t=31&band_rank=5&Refer=top)<br />
 6. [领导跟你说辛苦了千万别说没事不辛苦](https://s.weibo.com/weibo?q=%E9%A2%86%E5%AF%BC%E8%B7%9F%E4%BD%A0%E8%AF%B4%E8%BE%9B%E8%8B%A6%E4%BA%86%E5%8D%83%E4%B8%87%E5%88%AB%E8%AF%B4%E6%B2%A1%E4%BA%8B%E4%B8%8D%E8%BE%9B%E8%8B%A6&t=31&band_rank=6&Refer=top)<br />
-7. [小猪崽紫](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%8C%AA%E5%B4%BD%E7%B4%AB&t=31&band_rank=7&Refer=top)<br />
-8. [在我25岁时爸爸给我了一套房子的钥匙](https://s.weibo.com/weibo?q=%E5%9C%A8%E6%88%9125%E5%B2%81%E6%97%B6%E7%88%B8%E7%88%B8%E7%BB%99%E6%88%91%E4%BA%86%E4%B8%80%E5%A5%97%E6%88%BF%E5%AD%90%E7%9A%84%E9%92%A5%E5%8C%99&t=31&band_rank=8&Refer=top)<br />
-9. [康康哭了](https://s.weibo.com/weibo?q=%23%E5%BA%B7%E5%BA%B7%E5%93%AD%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+7. [康康哭了](https://s.weibo.com/weibo?q=%23%E5%BA%B7%E5%BA%B7%E5%93%AD%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+8. [小猪崽紫](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%8C%AA%E5%B4%BD%E7%B4%AB&t=31&band_rank=8&Refer=top)<br />
+9. [在我25岁时爸爸给我了一套房子的钥匙](https://s.weibo.com/weibo?q=%E5%9C%A8%E6%88%9125%E5%B2%81%E6%97%B6%E7%88%B8%E7%88%B8%E7%BB%99%E6%88%91%E4%BA%86%E4%B8%80%E5%A5%97%E6%88%BF%E5%AD%90%E7%9A%84%E9%92%A5%E5%8C%99&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
