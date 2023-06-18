@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 21:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 21:50:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [高铁上情侣想换座我拒绝了](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E4%B8%8A%E6%83%85%E4%BE%A3%E6%83%B3%E6%8D%A2%E5%BA%A7%E6%88%91%E6%8B%92%E7%BB%9D%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [王俊凯说何炅黄磊背影好孤独](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E8%AF%B4%E4%BD%95%E7%82%85%E9%BB%84%E7%A3%8A%E8%83%8C%E5%BD%B1%E5%A5%BD%E5%AD%A4%E7%8B%AC%23&t=31&band_rank=7&Refer=top)<br />
 8. [为什么阴干的衣服那么臭](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E9%98%B4%E5%B9%B2%E7%9A%84%E8%A1%A3%E6%9C%8D%E9%82%A3%E4%B9%88%E8%87%AD%23&t=31&band_rank=8&Refer=top)<br />
-9. [CUBAL](https://s.weibo.com/weibo?q=CUBAL&t=31&band_rank=9&Refer=top)<br />
+9. [黄渤新片6岁儿子颜值](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%B8%A4%E6%96%B0%E7%89%876%E5%B2%81%E5%84%BF%E5%AD%90%E9%A2%9C%E5%80%BC%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -18,11 +18,11 @@
 2. [如何评价王宝强自导自演的电影《八角笼中》?](https://www.zhihu.com/question/566061816)<br />
 3. [婆婆病了，我是老大媳妇，兄弟姐妹说我工资最低想出钱让我照顾，该不该答应？](https://www.zhihu.com/question/605822171)<br />
 4. [布林肯已到达北京开启访华行程，此行有哪些信息值得关注？](https://www.zhihu.com/question/607270958)<br />
-5. [设计类专业报考应该如何做选择？注重实操还是注重理论？](https://www.zhihu.com/theater/113434?drama_id=1653853566006763520&utm_source=wechat_session&utm_medium=social&utm_oi=932955353356849152)<br />
+5. [马斯克们力推的人造子宫，能否拯救我们的低生育率？](https://www.zhihu.com/question/606625465)<br />
 6. [冲进球场拥抱梅西的球迷被行拘，男子已 18 岁，如何看待这一结果？](https://www.zhihu.com/question/607010548)<br />
-7. [马斯克们力推的人造子宫，能否拯救我们的低生育率？](https://www.zhihu.com/question/606625465)<br />
-8. [00 后男孩辞职花近 7 千元学卖烤鱼做摆摊短视频，月入 1 万 5 ，如何看待「摆摊创业」走红？](https://www.zhihu.com/question/606933388)<br />
-9. [普京亮出俄乌和解协议草案「俄军一撤离基辅，就被扔进了垃圾堆」，哪些信息值得关注？](https://www.zhihu.com/question/607295832)<br />
+7. [00 后男孩辞职花近 7 千元学卖烤鱼做摆摊短视频，月入 1 万 5 ，如何看待「摆摊创业」走红？](https://www.zhihu.com/question/606933388)<br />
+8. [普京亮出俄乌和解协议草案「俄军一撤离基辅，就被扔进了垃圾堆」，哪些信息值得关注？](https://www.zhihu.com/question/607295832)<br />
+9. [顶级科研大佬的 PPT 长啥样？](https://www.zhihu.com/question/606148045)<br />
 
 > 百度  
 
