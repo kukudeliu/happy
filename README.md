@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 08:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 08:18:02</h4></div>
 
 > 微博  
 
@@ -8,15 +8,15 @@
 4. [蔡徐坤虞书欣甘比母女合影](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%94%98%E6%AF%94%E6%AF%8D%E5%A5%B3%E5%90%88%E5%BD%B1%23&t=31&band_rank=4&Refer=top)<br />
 5. [榜一大哥是我爸](https://s.weibo.com/weibo?q=%23%E6%A6%9C%E4%B8%80%E5%A4%A7%E5%93%A5%E6%98%AF%E6%88%91%E7%88%B8%23&t=31&band_rank=5&Refer=top)<br />
 6. [谢娜 她她她](https://s.weibo.com/weibo?q=%E8%B0%A2%E5%A8%9C%20%E5%A5%B9%E5%A5%B9%E5%A5%B9&t=31&band_rank=6&Refer=top)<br />
-7. [萧敬腾方报警检测自证清白](https://s.weibo.com/weibo?q=%23%E8%90%A7%E6%95%AC%E8%85%BE%E6%96%B9%E6%8A%A5%E8%AD%A6%E6%A3%80%E6%B5%8B%E8%87%AA%E8%AF%81%E6%B8%85%E7%99%BD%23&t=31&band_rank=7&Refer=top)<br />
-8. [感谢鲁U3G833](https://s.weibo.com/weibo?q=%23%E6%84%9F%E8%B0%A2%E9%B2%81U3G833%23&t=31&band_rank=8&Refer=top)<br />
+7. [感谢鲁U3G833](https://s.weibo.com/weibo?q=%23%E6%84%9F%E8%B0%A2%E9%B2%81U3G833%23&t=31&band_rank=7&Refer=top)<br />
+8. [萧敬腾方报警检测自证清白](https://s.weibo.com/weibo?q=%23%E8%90%A7%E6%95%AC%E8%85%BE%E6%96%B9%E6%8A%A5%E8%AD%A6%E6%A3%80%E6%B5%8B%E8%87%AA%E8%AF%81%E6%B8%85%E7%99%BD%23&t=31&band_rank=8&Refer=top)<br />
 9. [帮男朋友洗6年没有洗过的脏辫](https://s.weibo.com/weibo?q=%E5%B8%AE%E7%94%B7%E6%9C%8B%E5%8F%8B%E6%B4%976%E5%B9%B4%E6%B2%A1%E6%9C%89%E6%B4%97%E8%BF%87%E7%9A%84%E8%84%8F%E8%BE%AB&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [官方调查组通报「鼠头鸭脖」事件，认定饭菜中的异物是鼠头，涉事企业和法定代表人顶格处罚，如何看待此事？](https://www.zhihu.com/question/607131041)<br />
-2. [在农村，为何有人专门高价收购五年以上的老母鸡？](https://www.zhihu.com/question/421033694)<br />
-3. [女子穿仙裙进迪士尼被拦，乐园须知若着装不当或被拒绝入园，你对该事件有何看法？](https://www.zhihu.com/question/606726034)<br />
+2. [女子穿仙裙进迪士尼被拦，乐园须知若着装不当或被拒绝入园，你对该事件有何看法？](https://www.zhihu.com/question/606726034)<br />
+3. [在农村，为何有人专门高价收购五年以上的老母鸡？](https://www.zhihu.com/question/421033694)<br />
 4. [单位聚餐，你刚坐下领导就说「小王你还没资格坐我旁边」，如何高情商回答？](https://www.zhihu.com/question/606620590)<br />
 5. [长大后的哪一刻，你在心里悄悄与父亲和解，理解了他的难？有哪些无法当面说出口的话，想对他说？](https://www.zhihu.com/question/605713053)<br />
 6. [福州一母子被洒落沥青烫伤身亡，涉事车辆超载 25 倍，运输公司多次上「黑榜」，涉事方将受到什么处罚？](https://www.zhihu.com/question/607112600)<br />
