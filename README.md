@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 13:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 13:36:01</h4></div>
 
 > 微博  
 
@@ -16,10 +16,10 @@
 
 1. [普京称俄罗斯已经将承诺的第一部分核装置运抵白俄罗斯境内，如何看待此举？对局势有何影响？](https://www.zhihu.com/question/607107944)<br />
 2. [商务部透露中国正推进加入 CPTPP 进程，释放了什么信号？加入 CPTPP 具有哪些意义？](https://www.zhihu.com/question/607175927)<br />
-3. [女子穿仙裙进迪士尼被拦，乐园须知若着装不当或被拒绝入园，你对该事件有何看法？](https://www.zhihu.com/question/606726034)<br />
+3. [张雪峰回应「总是建议考生报理工科」，是建议大家去报考有专业壁垒的专业，如何看待此报考选择？](https://www.zhihu.com/question/606790360)<br />
 4. [长大后的哪一刻，你在心里悄悄与父亲和解，理解了他的难？有哪些无法当面说出口的话，想对他说？](https://www.zhihu.com/question/605713053)<br />
-5. [张雪峰回应「总是建议考生报理工科」，是建议大家去报考有专业壁垒的专业，如何看待此报考选择？](https://www.zhihu.com/question/606790360)<br />
-6. [布林肯已到达北京开启访华行程，此行有哪些信息值得关注？](https://www.zhihu.com/question/607270958)<br />
+5. [布林肯已到达北京开启访华行程，此行有哪些信息值得关注？](https://www.zhihu.com/question/607270958)<br />
+6. [女子穿仙裙进迪士尼被拦，乐园须知若着装不当或被拒绝入园，你对该事件有何看法？](https://www.zhihu.com/question/606726034)<br />
 7. [冲进球场拥抱梅西的球迷被行拘，男子已 18 岁，如何看待这一结果？](https://www.zhihu.com/question/607010548)<br />
 8. [「凉白开」这类饮品，真的是把水煮开再罐装的吗？](https://www.zhihu.com/question/606321291)<br />
 9. [如何评价王宝强自导自演的电影《八角笼中》?](https://www.zhihu.com/question/566061816)<br />
