@@ -1,14 +1,14 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 17:29:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 17:30:01</h4></div>
 
 > 微博  
 
 1. [大四男生实习薪资1万4妈妈仰天大笑](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%9B%9B%E7%94%B7%E7%94%9F%E5%AE%9E%E4%B9%A0%E8%96%AA%E8%B5%841%E4%B8%874%E5%A6%88%E5%A6%88%E4%BB%B0%E5%A4%A9%E5%A4%A7%E7%AC%91%23&t=31&band_rank=1&Refer=top)<br />
 2. [东航客服回应胡兵50万积分被清零](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E8%88%AA%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E8%83%A1%E5%85%B550%E4%B8%87%E7%A7%AF%E5%88%86%E8%A2%AB%E6%B8%85%E9%9B%B6%23&t=31&band_rank=2&Refer=top)<br />
 3. [世界最高坝启动大坝浇筑](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9C%80%E9%AB%98%E5%9D%9D%E5%90%AF%E5%8A%A8%E5%A4%A7%E5%9D%9D%E6%B5%87%E7%AD%91%23&t=31&band_rank=3&Refer=top)<br />
-4. [女朋友说她拍到我出轨了](https://s.weibo.com/weibo?q=%E5%A5%B3%E6%9C%8B%E5%8F%8B%E8%AF%B4%E5%A5%B9%E6%8B%8D%E5%88%B0%E6%88%91%E5%87%BA%E8%BD%A8%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
+4. [女朋友说她拍到我出轨了](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%9C%8B%E5%8F%8B%E8%AF%B4%E5%A5%B9%E6%8B%8D%E5%88%B0%E6%88%91%E5%87%BA%E8%BD%A8%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [霸王茶姬](https://s.weibo.com/weibo?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC&t=31&band_rank=5&Refer=top)<br />
-6. [教育局回应奔驰在操场倒车险撞人](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%A5%94%E9%A9%B0%E5%9C%A8%E6%93%8D%E5%9C%BA%E5%80%92%E8%BD%A6%E9%99%A9%E6%92%9E%E4%BA%BA%23&t=31&band_rank=6&Refer=top)<br />
-7. [香港名媛蔡天凤葬礼今日举行](https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%90%8D%E5%AA%9B%E8%94%A1%E5%A4%A9%E5%87%A4%E8%91%AC%E7%A4%BC%E4%BB%8A%E6%97%A5%E4%B8%BE%E8%A1%8C%23&t=31&band_rank=7&Refer=top)<br />
+6. [香港名媛蔡天凤葬礼今日举行](https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%90%8D%E5%AA%9B%E8%94%A1%E5%A4%A9%E5%87%A4%E8%91%AC%E7%A4%BC%E4%BB%8A%E6%97%A5%E4%B8%BE%E8%A1%8C%23&t=31&band_rank=6&Refer=top)<br />
+7. [教育局回应奔驰在操场倒车险撞人](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%A5%94%E9%A9%B0%E5%9C%A8%E6%93%8D%E5%9C%BA%E5%80%92%E8%BD%A6%E9%99%A9%E6%92%9E%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [肖战看到宝宝的反应](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%9C%8B%E5%88%B0%E5%AE%9D%E5%AE%9D%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=8&Refer=top)<br />
 9. [这背影居然是蔡少芬](https://s.weibo.com/weibo?q=%23%E8%BF%99%E8%83%8C%E5%BD%B1%E5%B1%85%E7%84%B6%E6%98%AF%E8%94%A1%E5%B0%91%E8%8A%AC%23&t=31&band_rank=9&Refer=top)<br />
 
@@ -32,8 +32,8 @@
 4. [这些地方变身“晒粮场”](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E5%9C%B0%E6%96%B9%E5%8F%98%E8%BA%AB%E2%80%9C%E6%99%92%E7%B2%AE%E5%9C%BA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [跨省存款火了：存50万差价5000](https://www.baidu.com/s?wd=%E8%B7%A8%E7%9C%81%E5%AD%98%E6%AC%BE%E7%81%AB%E4%BA%86%EF%BC%9A%E5%AD%9850%E4%B8%87%E5%B7%AE%E4%BB%B75000&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [特大煤炭盗采案牵出百名干部](https://www.baidu.com/s?wd=%E7%89%B9%E5%A4%A7%E7%85%A4%E7%82%AD%E7%9B%97%E9%87%87%E6%A1%88%E7%89%B5%E5%87%BA%E7%99%BE%E5%90%8D%E5%B9%B2%E9%83%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [孟美岐演唱会门票两天还没卖完](https://www.baidu.com/s?wd=%E5%AD%9F%E7%BE%8E%E5%B2%90%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E4%B8%A4%E5%A4%A9%E8%BF%98%E6%B2%A1%E5%8D%96%E5%AE%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [电动摩托开始崛起](https://www.baidu.com/s?wd=%E7%94%B5%E5%8A%A8%E6%91%A9%E6%89%98%E5%BC%80%E5%A7%8B%E5%B4%9B%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [618调查：60%的人预算不超500元](https://www.baidu.com/s?wd=618%E8%B0%83%E6%9F%A5%EF%BC%9A60%25%E7%9A%84%E4%BA%BA%E9%A2%84%E7%AE%97%E4%B8%8D%E8%B6%85500%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [孟美岐演唱会门票两天还没卖完](https://www.baidu.com/s?wd=%E5%AD%9F%E7%BE%8E%E5%B2%90%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E4%B8%A4%E5%A4%A9%E8%BF%98%E6%B2%A1%E5%8D%96%E5%AE%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [#盘点父亲带娃#](https://www.baidu.com/s?wd=%23%E7%9B%98%E7%82%B9%E7%88%B6%E4%BA%B2%E5%B8%A6%E5%A8%83%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -44,6 +44,6 @@
 4. [这些地方变身“晒粮场”](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E5%9C%B0%E6%96%B9%E5%8F%98%E8%BA%AB%E2%80%9C%E6%99%92%E7%B2%AE%E5%9C%BA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [跨省存款火了：存50万差价5000](https://www.baidu.com/s?wd=%E8%B7%A8%E7%9C%81%E5%AD%98%E6%AC%BE%E7%81%AB%E4%BA%86%EF%BC%9A%E5%AD%9850%E4%B8%87%E5%B7%AE%E4%BB%B75000&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [特大煤炭盗采案牵出百名干部](https://www.baidu.com/s?wd=%E7%89%B9%E5%A4%A7%E7%85%A4%E7%82%AD%E7%9B%97%E9%87%87%E6%A1%88%E7%89%B5%E5%87%BA%E7%99%BE%E5%90%8D%E5%B9%B2%E9%83%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [孟美岐演唱会门票两天还没卖完](https://www.baidu.com/s?wd=%E5%AD%9F%E7%BE%8E%E5%B2%90%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E4%B8%A4%E5%A4%A9%E8%BF%98%E6%B2%A1%E5%8D%96%E5%AE%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [电动摩托开始崛起](https://www.baidu.com/s?wd=%E7%94%B5%E5%8A%A8%E6%91%A9%E6%89%98%E5%BC%80%E5%A7%8B%E5%B4%9B%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [618调查：60%的人预算不超500元](https://www.baidu.com/s?wd=618%E8%B0%83%E6%9F%A5%EF%BC%9A60%25%E7%9A%84%E4%BA%BA%E9%A2%84%E7%AE%97%E4%B8%8D%E8%B6%85500%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [孟美岐演唱会门票两天还没卖完](https://www.baidu.com/s?wd=%E5%AD%9F%E7%BE%8E%E5%B2%90%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E4%B8%A4%E5%A4%A9%E8%BF%98%E6%B2%A1%E5%8D%96%E5%AE%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [#盘点父亲带娃#](https://www.baidu.com/s?wd=%23%E7%9B%98%E7%82%B9%E7%88%B6%E4%BA%B2%E5%B8%A6%E5%A8%83%23&sa=fyb_news&rsv_dl=fyb_news)<br />
