@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 12:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 12:22:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [中国有约](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%9C%89%E7%BA%A6%23&t=31&band_rank=3&Refer=top)<br />
 4. [薛之谦听谈到赵英俊强忍着眼泪](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%90%AC%E8%B0%88%E5%88%B0%E8%B5%B5%E8%8B%B1%E4%BF%8A%E5%BC%BA%E5%BF%8D%E7%9D%80%E7%9C%BC%E6%B3%AA%23&t=31&band_rank=4&Refer=top)<br />
 5. [专四](https://s.weibo.com/weibo?q=%E4%B8%93%E5%9B%9B&t=31&band_rank=5&Refer=top)<br />
-6. [在我25岁时爸爸给我了一套房子的钥匙](https://s.weibo.com/weibo?q=%E5%9C%A8%E6%88%9125%E5%B2%81%E6%97%B6%E7%88%B8%E7%88%B8%E7%BB%99%E6%88%91%E4%BA%86%E4%B8%80%E5%A5%97%E6%88%BF%E5%AD%90%E7%9A%84%E9%92%A5%E5%8C%99&t=31&band_rank=6&Refer=top)<br />
-7. [秦岚王阳吻戏](https://s.weibo.com/weibo?q=%E7%A7%A6%E5%B2%9A%E7%8E%8B%E9%98%B3%E5%90%BB%E6%88%8F&t=31&band_rank=7&Refer=top)<br />
-8. [蔡徐坤虞书欣甘比母女合影](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%94%98%E6%AF%94%E6%AF%8D%E5%A5%B3%E5%90%88%E5%BD%B1%23&t=31&band_rank=8&Refer=top)<br />
-9. [白敬亭宋轶今晚见](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6%E4%BB%8A%E6%99%9A%E8%A7%81%23&t=31&band_rank=9&Refer=top)<br />
+6. [秦岚王阳吻戏](https://s.weibo.com/weibo?q=%E7%A7%A6%E5%B2%9A%E7%8E%8B%E9%98%B3%E5%90%BB%E6%88%8F&t=31&band_rank=6&Refer=top)<br />
+7. [在我25岁时爸爸给我了一套房子的钥匙](https://s.weibo.com/weibo?q=%E5%9C%A8%E6%88%9125%E5%B2%81%E6%97%B6%E7%88%B8%E7%88%B8%E7%BB%99%E6%88%91%E4%BA%86%E4%B8%80%E5%A5%97%E6%88%BF%E5%AD%90%E7%9A%84%E9%92%A5%E5%8C%99&t=31&band_rank=7&Refer=top)<br />
+8. [白敬亭宋轶今晚见](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6%E4%BB%8A%E6%99%9A%E8%A7%81%23&t=31&band_rank=8&Refer=top)<br />
+9. [胡兵50万积分被东航清零](https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%85%B550%E4%B8%87%E7%A7%AF%E5%88%86%E8%A2%AB%E4%B8%9C%E8%88%AA%E6%B8%85%E9%9B%B6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -33,7 +33,7 @@
 5. [父亲节](https://www.baidu.com/s?wd=%E7%88%B6%E4%BA%B2%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [鼠头鸭身周边9.9元一个 月售过百](https://www.baidu.com/s?wd=%E9%BC%A0%E5%A4%B4%E9%B8%AD%E8%BA%AB%E5%91%A8%E8%BE%B99.9%E5%85%83%E4%B8%80%E4%B8%AA+%E6%9C%88%E5%94%AE%E8%BF%87%E7%99%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [20岁快递员猥亵50岁阿姨被行拘](https://www.baidu.com/s?wd=20%E5%B2%81%E5%BF%AB%E9%80%92%E5%91%98%E7%8C%A5%E4%BA%B550%E5%B2%81%E9%98%BF%E5%A7%A8%E8%A2%AB%E8%A1%8C%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [大叔高铁上脱鞋“味太大”引冲突](https://www.baidu.com/s?wd=%E5%A4%A7%E5%8F%94%E9%AB%98%E9%93%81%E4%B8%8A%E8%84%B1%E9%9E%8B%E2%80%9C%E5%91%B3%E5%A4%AA%E5%A4%A7%E2%80%9D%E5%BC%95%E5%86%B2%E7%AA%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [商户招牌因易燃遭拆除却无法点燃](https://www.baidu.com/s?wd=%E5%95%86%E6%88%B7%E6%8B%9B%E7%89%8C%E5%9B%A0%E6%98%93%E7%87%83%E9%81%AD%E6%8B%86%E9%99%A4%E5%8D%B4%E6%97%A0%E6%B3%95%E7%82%B9%E7%87%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [半个奢侈品圈都在李宇春演唱会](https://www.baidu.com/s?wd=%E5%8D%8A%E4%B8%AA%E5%A5%A2%E4%BE%88%E5%93%81%E5%9C%88%E9%83%BD%E5%9C%A8%E6%9D%8E%E5%AE%87%E6%98%A5%E6%BC%94%E5%94%B1%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [父亲节](https://www.baidu.com/s?wd=%E7%88%B6%E4%BA%B2%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [鼠头鸭身周边9.9元一个 月售过百](https://www.baidu.com/s?wd=%E9%BC%A0%E5%A4%B4%E9%B8%AD%E8%BA%AB%E5%91%A8%E8%BE%B99.9%E5%85%83%E4%B8%80%E4%B8%AA+%E6%9C%88%E5%94%AE%E8%BF%87%E7%99%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [20岁快递员猥亵50岁阿姨被行拘](https://www.baidu.com/s?wd=20%E5%B2%81%E5%BF%AB%E9%80%92%E5%91%98%E7%8C%A5%E4%BA%B550%E5%B2%81%E9%98%BF%E5%A7%A8%E8%A2%AB%E8%A1%8C%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [大叔高铁上脱鞋“味太大”引冲突](https://www.baidu.com/s?wd=%E5%A4%A7%E5%8F%94%E9%AB%98%E9%93%81%E4%B8%8A%E8%84%B1%E9%9E%8B%E2%80%9C%E5%91%B3%E5%A4%AA%E5%A4%A7%E2%80%9D%E5%BC%95%E5%86%B2%E7%AA%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [商户招牌因易燃遭拆除却无法点燃](https://www.baidu.com/s?wd=%E5%95%86%E6%88%B7%E6%8B%9B%E7%89%8C%E5%9B%A0%E6%98%93%E7%87%83%E9%81%AD%E6%8B%86%E9%99%A4%E5%8D%B4%E6%97%A0%E6%B3%95%E7%82%B9%E7%87%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [半个奢侈品圈都在李宇春演唱会](https://www.baidu.com/s?wd=%E5%8D%8A%E4%B8%AA%E5%A5%A2%E4%BE%88%E5%93%81%E5%9C%88%E9%83%BD%E5%9C%A8%E6%9D%8E%E5%AE%87%E6%98%A5%E6%BC%94%E5%94%B1%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
