@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 11:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-18 11:09:01</h4></div>
 
 > 微博  
 
-1. [胡兵50万积分被东航清零](https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%85%B550%E4%B8%87%E7%A7%AF%E5%88%86%E8%A2%AB%E4%B8%9C%E8%88%AA%E6%B8%85%E9%9B%B6%23&t=31&band_rank=1&Refer=top)<br />
-2. [专四](https://s.weibo.com/weibo?q=%E4%B8%93%E5%9B%9B&t=31&band_rank=2&Refer=top)<br />
+1. [专四](https://s.weibo.com/weibo?q=%E4%B8%93%E5%9B%9B&t=31&band_rank=1&Refer=top)<br />
+2. [胡兵50万积分被东航清零](https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%85%B550%E4%B8%87%E7%A7%AF%E5%88%86%E8%A2%AB%E4%B8%9C%E8%88%AA%E6%B8%85%E9%9B%B6%23&t=31&band_rank=2&Refer=top)<br />
 3. [中国有约](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%9C%89%E7%BA%A6%23&t=31&band_rank=3&Refer=top)<br />
 4. [半个奢侈品圈都在李宇春演唱会](https://s.weibo.com/weibo?q=%23%E5%8D%8A%E4%B8%AA%E5%A5%A2%E4%BE%88%E5%93%81%E5%9C%88%E9%83%BD%E5%9C%A8%E6%9D%8E%E5%AE%87%E6%98%A5%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=4&Refer=top)<br />
 5. [蔡徐坤虞书欣甘比母女合影](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%94%98%E6%AF%94%E6%AF%8D%E5%A5%B3%E5%90%88%E5%BD%B1%23&t=31&band_rank=5&Refer=top)<br />
@@ -20,8 +20,8 @@
 4. [长大后的哪一刻，你在心里悄悄与父亲和解，理解了他的难？有哪些无法当面说出口的话，想对他说？](https://www.zhihu.com/question/605713053)<br />
 5. [单位聚餐，你刚坐下领导就说「小王你还没资格坐我旁边」，如何高情商回答？](https://www.zhihu.com/question/606620590)<br />
 6. [张雪峰回应「总是建议考生报理工科」，是建议大家去报考有专业壁垒的专业，如何看待此报考选择？](https://www.zhihu.com/question/606790360)<br />
-7. [NBA 联盟对莫兰特停薪禁赛 25 场，你觉得这个处罚是轻了还是重了？](https://www.zhihu.com/question/607141068)<br />
-8. [如何评价近期在德国南部城镇诺德林根出土的青铜器？](https://www.zhihu.com/question/607078479)<br />
+7. [如何评价近期在德国南部城镇诺德林根出土的青铜器？](https://www.zhihu.com/question/607078479)<br />
+8. [NBA 联盟对莫兰特停薪禁赛 25 场，你觉得这个处罚是轻了还是重了？](https://www.zhihu.com/question/607141068)<br />
 9. []()<br />
 
 > 百度  
