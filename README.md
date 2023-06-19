@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 04:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 04:54:01</h4></div>
 
 > 微博  
 
@@ -19,9 +19,9 @@
 3. [调查称 53.7% 年轻人存款不足 10 万，如何看待这一现象，你觉得存款困难吗？](https://www.zhihu.com/question/607446342)<br />
 4. [为什么北京烤鸭出名靠鸭子，换成鸡的做法就不行了吗？](https://www.zhihu.com/question/606620975)<br />
 5. [白酒价格大面积倒挂，渠道现「堰塞湖」，消化库存是今年首要任务，白酒行业今年前景如何？](https://www.zhihu.com/question/607396709)<br />
-6. [为了写小说，你付出了多少努力？](https://www.zhihu.com/question/301337248)<br />
+6. [科研圈里，为什么一些学科的女教授尤其少？](https://www.zhihu.com/question/27404441)<br />
 7. [黄子佼曝大小 S 具俊晔嗑药，大 S 工作室回应称「她心脏不好不能接触毒品」，真实情况如何，该如何看待？](https://www.zhihu.com/question/607436138)<br />
-8. [科研圈里，为什么一些学科的女教授尤其少？](https://www.zhihu.com/question/27404441)<br />
+8. [为了写小说，你付出了多少努力？](https://www.zhihu.com/question/301337248)<br />
 9. []()<br />
 
 > 百度  
@@ -32,7 +32,7 @@
 4. [点亮网络文明之光](https://www.baidu.com/s?wd=%E7%82%B9%E4%BA%AE%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E4%B9%8B%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [跳桥救人小哥引来女网友公开示爱](https://www.baidu.com/s?wd=%E8%B7%B3%E6%A1%A5%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E5%BC%95%E6%9D%A5%E5%A5%B3%E7%BD%91%E5%8F%8B%E5%85%AC%E5%BC%80%E7%A4%BA%E7%88%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [房被邻居霸占女子：胜诉也拿不回房](https://www.baidu.com/s?wd=%E6%88%BF%E8%A2%AB%E9%82%BB%E5%B1%85%E9%9C%B8%E5%8D%A0%E5%A5%B3%E5%AD%90%EF%BC%9A%E8%83%9C%E8%AF%89%E4%B9%9F%E6%8B%BF%E4%B8%8D%E5%9B%9E%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [会见布林肯现场为何摆放荷花](https://www.baidu.com/s?wd=%E4%BC%9A%E8%A7%81%E5%B8%83%E6%9E%97%E8%82%AF%E7%8E%B0%E5%9C%BA%E4%B8%BA%E4%BD%95%E6%91%86%E6%94%BE%E8%8D%B7%E8%8A%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子买蛋糕遇“空心包装刺客”](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B9%B0%E8%9B%8B%E7%B3%95%E9%81%87%E2%80%9C%E7%A9%BA%E5%BF%83%E5%8C%85%E8%A3%85%E5%88%BA%E5%AE%A2%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子指责女孩穿着暴露遭大姐怒怼](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8C%87%E8%B4%A3%E5%A5%B3%E5%AD%A9%E7%A9%BF%E7%9D%80%E6%9A%B4%E9%9C%B2%E9%81%AD%E5%A4%A7%E5%A7%90%E6%80%92%E6%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [黄子佼已苏醒](https://www.baidu.com/s?wd=%E9%BB%84%E5%AD%90%E4%BD%BC%E5%B7%B2%E8%8B%8F%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -44,6 +44,6 @@
 4. [点亮网络文明之光](https://www.baidu.com/s?wd=%E7%82%B9%E4%BA%AE%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E4%B9%8B%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [跳桥救人小哥引来女网友公开示爱](https://www.baidu.com/s?wd=%E8%B7%B3%E6%A1%A5%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E5%BC%95%E6%9D%A5%E5%A5%B3%E7%BD%91%E5%8F%8B%E5%85%AC%E5%BC%80%E7%A4%BA%E7%88%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [房被邻居霸占女子：胜诉也拿不回房](https://www.baidu.com/s?wd=%E6%88%BF%E8%A2%AB%E9%82%BB%E5%B1%85%E9%9C%B8%E5%8D%A0%E5%A5%B3%E5%AD%90%EF%BC%9A%E8%83%9C%E8%AF%89%E4%B9%9F%E6%8B%BF%E4%B8%8D%E5%9B%9E%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [会见布林肯现场为何摆放荷花](https://www.baidu.com/s?wd=%E4%BC%9A%E8%A7%81%E5%B8%83%E6%9E%97%E8%82%AF%E7%8E%B0%E5%9C%BA%E4%B8%BA%E4%BD%95%E6%91%86%E6%94%BE%E8%8D%B7%E8%8A%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子买蛋糕遇“空心包装刺客”](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B9%B0%E8%9B%8B%E7%B3%95%E9%81%87%E2%80%9C%E7%A9%BA%E5%BF%83%E5%8C%85%E8%A3%85%E5%88%BA%E5%AE%A2%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子指责女孩穿着暴露遭大姐怒怼](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8C%87%E8%B4%A3%E5%A5%B3%E5%AD%A9%E7%A9%BF%E7%9D%80%E6%9A%B4%E9%9C%B2%E9%81%AD%E5%A4%A7%E5%A7%90%E6%80%92%E6%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [黄子佼已苏醒](https://www.baidu.com/s?wd=%E9%BB%84%E5%AD%90%E4%BD%BC%E5%B7%B2%E8%8B%8F%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
