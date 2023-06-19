@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 20:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 20:34:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [中美会面 王毅说了什么？](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E4%BC%9A%E9%9D%A2+%E7%8E%8B%E6%AF%85%E8%AF%B4%E4%BA%86%E4%BB%80%E4%B9%88%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [黄子佼连爆13位艺人黑料](https://www.baidu.com/s?wd=%E9%BB%84%E5%AD%90%E4%BD%BC%E8%BF%9E%E7%88%8613%E4%BD%8D%E8%89%BA%E4%BA%BA%E9%BB%91%E6%96%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子指责女孩穿着暴露遭大姐怒怼](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8C%87%E8%B4%A3%E5%A5%B3%E5%AD%A9%E7%A9%BF%E7%9D%80%E6%9A%B4%E9%9C%B2%E9%81%AD%E5%A4%A7%E5%A7%90%E6%80%92%E6%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [葛斯齐称黄子佼爆料95％都是真的](https://www.baidu.com/s?wd=%E8%91%9B%E6%96%AF%E9%BD%90%E7%A7%B0%E9%BB%84%E5%AD%90%E4%BD%BC%E7%88%86%E6%96%9995%EF%BC%85%E9%83%BD%E6%98%AF%E7%9C%9F%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子上传被妻子家暴视频求助](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%8A%E4%BC%A0%E8%A2%AB%E5%A6%BB%E5%AD%90%E5%AE%B6%E6%9A%B4%E8%A7%86%E9%A2%91%E6%B1%82%E5%8A%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [中美会面 王毅说了什么？](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E4%BC%9A%E9%9D%A2+%E7%8E%8B%E6%AF%85%E8%AF%B4%E4%BA%86%E4%BB%80%E4%B9%88%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [黄子佼连爆13位艺人黑料](https://www.baidu.com/s?wd=%E9%BB%84%E5%AD%90%E4%BD%BC%E8%BF%9E%E7%88%8613%E4%BD%8D%E8%89%BA%E4%BA%BA%E9%BB%91%E6%96%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子指责女孩穿着暴露遭大姐怒怼](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8C%87%E8%B4%A3%E5%A5%B3%E5%AD%A9%E7%A9%BF%E7%9D%80%E6%9A%B4%E9%9C%B2%E9%81%AD%E5%A4%A7%E5%A7%90%E6%80%92%E6%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [葛斯齐称黄子佼爆料95％都是真的](https://www.baidu.com/s?wd=%E8%91%9B%E6%96%AF%E9%BD%90%E7%A7%B0%E9%BB%84%E5%AD%90%E4%BD%BC%E7%88%86%E6%96%9995%EF%BC%85%E9%83%BD%E6%98%AF%E7%9C%9F%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子上传被妻子家暴视频求助](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%8A%E4%BC%A0%E8%A2%AB%E5%A6%BB%E5%AD%90%E5%AE%B6%E6%9A%B4%E8%A7%86%E9%A2%91%E6%B1%82%E5%8A%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
