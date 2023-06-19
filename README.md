@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 11:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 11:03:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [秦刚同美国国务卿布林肯举行会谈，哪些信息值得关注？](https://www.zhihu.com/question/607356662)<br />
 5. [洛阳为什么叫神都？](https://www.zhihu.com/question/603959982)<br />
 6. [为什么小龙女和杨过不能好好在一起，是因为世俗的反对还是形势的逼迫呢？](https://www.zhihu.com/question/605615780)<br />
-7. [如果赵构信任岳飞，将大权托付给他，宋朝能灭掉女真吗？](https://www.zhihu.com/question/588618893)<br />
+7. [为什么 2023 年的 BLG 怎么打都打不过 JDG？](https://www.zhihu.com/question/607326596)<br />
 8. [假如我有 10 万元，放在股市里面去炒，只求每个星期 2 个点的收益，每个月就是 8000 元，你觉得现实嘛？](https://www.zhihu.com/question/606869857)<br />
-9. [为什么 2023 年的 BLG 怎么打都打不过 JDG？](https://www.zhihu.com/question/607326596)<br />
+9. [如果赵构信任岳飞，将大权托付给他，宋朝能灭掉女真吗？](https://www.zhihu.com/question/588618893)<br />
 
 > 百度  
 
