@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 15:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 15:30:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [鼠头鸭脖涉事母公司经营700多个高校食堂](https://s.weibo.com/weibo?q=%23%E9%BC%A0%E5%A4%B4%E9%B8%AD%E8%84%96%E6%B6%89%E4%BA%8B%E6%AF%8D%E5%85%AC%E5%8F%B8%E7%BB%8F%E8%90%A5700%E5%A4%9A%E4%B8%AA%E9%AB%98%E6%A0%A1%E9%A3%9F%E5%A0%82%23&t=31&band_rank=6&Refer=top)<br />
 7. [警方确认女子房子被邻居打通使用](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E7%A1%AE%E8%AE%A4%E5%A5%B3%E5%AD%90%E6%88%BF%E5%AD%90%E8%A2%AB%E9%82%BB%E5%B1%85%E6%89%93%E9%80%9A%E4%BD%BF%E7%94%A8%23&t=31&band_rank=7&Refer=top)<br />
 8. [Jennie巡演翻白眼](https://s.weibo.com/weibo?q=%23Jennie%E5%B7%A1%E6%BC%94%E7%BF%BB%E7%99%BD%E7%9C%BC%23&t=31&band_rank=8&Refer=top)<br />
-9. [幼师拍小朋友房车钱视频引争议](https://s.weibo.com/weibo?q=%23%E5%B9%BC%E5%B8%88%E6%8B%8D%E5%B0%8F%E6%9C%8B%E5%8F%8B%E6%88%BF%E8%BD%A6%E9%92%B1%E8%A7%86%E9%A2%91%E5%BC%95%E4%BA%89%E8%AE%AE%23&t=31&band_rank=9&Refer=top)<br />
+9. [客户让高中女儿多看招聘网](https://s.weibo.com/weibo?q=%23%E5%AE%A2%E6%88%B7%E8%AE%A9%E9%AB%98%E4%B8%AD%E5%A5%B3%E5%84%BF%E5%A4%9A%E7%9C%8B%E6%8B%9B%E8%81%98%E7%BD%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
