@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 18:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 18:06:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [女孩遇大叔舞龙热情喊话再来一次](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E9%81%87%E5%A4%A7%E5%8F%94%E8%88%9E%E9%BE%99%E7%83%AD%E6%83%85%E5%96%8A%E8%AF%9D%E5%86%8D%E6%9D%A5%E4%B8%80%E6%AC%A1%23&t=31&band_rank=5&Refer=top)<br />
 6. [霍建华复出后首部作品](https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%BB%BA%E5%8D%8E%E5%A4%8D%E5%87%BA%E5%90%8E%E9%A6%96%E9%83%A8%E4%BD%9C%E5%93%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [张晚意今天官宣了三部剧](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%99%9A%E6%84%8F%E4%BB%8A%E5%A4%A9%E5%AE%98%E5%AE%A3%E4%BA%86%E4%B8%89%E9%83%A8%E5%89%A7%23&t=31&band_rank=7&Refer=top)<br />
-8. [石矶娘娘来了也穿不了](https://s.weibo.com/weibo?q=%23%E7%9F%B3%E7%9F%B6%E5%A8%98%E5%A8%98%E6%9D%A5%E4%BA%86%E4%B9%9F%E7%A9%BF%E4%B8%8D%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [演唱会座位脏](https://s.weibo.com/weibo?q=%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BA%A7%E4%BD%8D%E8%84%8F&t=31&band_rank=9&Refer=top)<br />
+8. [演唱会座位脏](https://s.weibo.com/weibo?q=%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BA%A7%E4%BD%8D%E8%84%8F&t=31&band_rank=8&Refer=top)<br />
+9. [石矶娘娘来了也穿不了](https://s.weibo.com/weibo?q=%23%E7%9F%B3%E7%9F%B6%E5%A8%98%E5%A8%98%E6%9D%A5%E4%BA%86%E4%B9%9F%E7%A9%BF%E4%B8%8D%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -21,7 +21,7 @@
 5. [厦大新闻学教授谈张雪峰言论，称「值得反思却不要轻信他的结论」，新闻学真的变成了天坑专业吗？](https://www.zhihu.com/question/607414331)<br />
 6. [黄子佼曝大小 S 具俊晔嗑药，大 S 工作室回应称「她心脏不好不能接触毒品」，真实情况如何，该如何看待？](https://www.zhihu.com/question/607436138)<br />
 7. [为什么影视剧里面买菜都是芹菜?](https://www.zhihu.com/question/596555855)<br />
-8. [如何评价白敬亭、宋轶主演的电视剧《长风渡》？](https://www.zhihu.com/question/607305319)<br />
+8. [日本核污水排海在即，国际反对声浪接连不断，核污水排海将对生态环境带来哪些影响？核污水排海是唯一选项吗？](https://www.zhihu.com/question/607418569)<br />
 9. [跨省存款火了「存款 50 万，五年下来差价 5000 元」，哪些信息值得关注？存款利率会继续下调吗？](https://www.zhihu.com/question/607269709)<br />
 
 > 百度  
