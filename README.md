@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 08:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 08:48:02</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [女子房子两年没住被邻居用衣柜封死](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%88%BF%E5%AD%90%E4%B8%A4%E5%B9%B4%E6%B2%A1%E4%BD%8F%E8%A2%AB%E9%82%BB%E5%B1%85%E7%94%A8%E8%A1%A3%E6%9F%9C%E5%B0%81%E6%AD%BB%23&t=31&band_rank=2&Refer=top)<br />
 3. [三夏农忙正当时](https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%A4%8F%E5%86%9C%E5%BF%99%E6%AD%A3%E5%BD%93%E6%97%B6%23&t=31&band_rank=3&Refer=top)<br />
 4. [真的别再关灯玩手机了](https://s.weibo.com/weibo?q=%23%E7%9C%9F%E7%9A%84%E5%88%AB%E5%86%8D%E5%85%B3%E7%81%AF%E7%8E%A9%E6%89%8B%E6%9C%BA%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
-5. [女孩撞上食客被烫伤食客有责任吗](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E6%92%9E%E4%B8%8A%E9%A3%9F%E5%AE%A2%E8%A2%AB%E7%83%AB%E4%BC%A4%E9%A3%9F%E5%AE%A2%E6%9C%89%E8%B4%A3%E4%BB%BB%E5%90%97%23&t=31&band_rank=5&Refer=top)<br />
-6. [厦大新闻学教授谈张雪峰言论](https://s.weibo.com/weibo?q=%23%E5%8E%A6%E5%A4%A7%E6%96%B0%E9%97%BB%E5%AD%A6%E6%95%99%E6%8E%88%E8%B0%88%E5%BC%A0%E9%9B%AA%E5%B3%B0%E8%A8%80%E8%AE%BA%23&t=31&band_rank=6&Refer=top)<br />
+5. [厦大新闻学教授谈张雪峰言论](https://s.weibo.com/weibo?q=%23%E5%8E%A6%E5%A4%A7%E6%96%B0%E9%97%BB%E5%AD%A6%E6%95%99%E6%8E%88%E8%B0%88%E5%BC%A0%E9%9B%AA%E5%B3%B0%E8%A8%80%E8%AE%BA%23&t=31&band_rank=5&Refer=top)<br />
+6. [女孩撞上食客被烫伤食客有责任吗](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E6%92%9E%E4%B8%8A%E9%A3%9F%E5%AE%A2%E8%A2%AB%E7%83%AB%E4%BC%A4%E9%A3%9F%E5%AE%A2%E6%9C%89%E8%B4%A3%E4%BB%BB%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [女儿考满分农民工父亲买了只烧鸡庆祝](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E8%80%83%E6%BB%A1%E5%88%86%E5%86%9C%E6%B0%91%E5%B7%A5%E7%88%B6%E4%BA%B2%E4%B9%B0%E4%BA%86%E5%8F%AA%E7%83%A7%E9%B8%A1%E5%BA%86%E7%A5%9D%23&t=31&band_rank=7&Refer=top)<br />
 8. [大四男生实习薪资1万4妈妈仰天大笑](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%9B%9B%E7%94%B7%E7%94%9F%E5%AE%9E%E4%B9%A0%E8%96%AA%E8%B5%841%E4%B8%874%E5%A6%88%E5%A6%88%E4%BB%B0%E5%A4%A9%E5%A4%A7%E7%AC%91%23&t=31&band_rank=8&Refer=top)<br />
-9. [鹿晗金色脏辫](https://s.weibo.com/weibo?q=%E9%B9%BF%E6%99%97%E9%87%91%E8%89%B2%E8%84%8F%E8%BE%AB&t=31&band_rank=9&Refer=top)<br />
+9. [肖战赵丽颖正剧苗子](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%AD%A3%E5%89%A7%E8%8B%97%E5%AD%90%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -21,8 +21,8 @@
 5. [一个表面绝对光滑的完美球形刚体，质量分布均匀，如何确定它是在旋转还是静止？](https://www.zhihu.com/question/606790924)<br />
 6. [拉夫罗夫称当俄特别军事行动目标达成后，将迎来一个不一样的世界，西方主导的全球化将不复存在，如何解读？](https://www.zhihu.com/question/607148983)<br />
 7. [如何评价王宝强自导自演的电影《八角笼中》?](https://www.zhihu.com/question/566061816)<br />
-8. [历史大剧《诸葛亮传》将开拍，演孔明的人何在？谁比较适合演诸葛亮？能超过经典吗？](https://www.zhihu.com/question/606913816)<br />
-9. [00 后男孩辞职花近 7 千元学卖烤鱼做摆摊短视频，月入 1 万 5 ，如何看待「摆摊创业」走红？](https://www.zhihu.com/question/606933388)<br />
+8. [00 后男孩辞职花近 7 千元学卖烤鱼做摆摊短视频，月入 1 万 5 ，如何看待「摆摊创业」走红？](https://www.zhihu.com/question/606933388)<br />
+9. [历史大剧《诸葛亮传》将开拍，演孔明的人何在？谁比较适合演诸葛亮？能超过经典吗？](https://www.zhihu.com/question/606913816)<br />
 
 > 百度  
 
