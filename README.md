@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 09:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 09:51:01</h4></div>
 
 > 微博  
 
-1. [一天之内拒绝了30个学生请假](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%A4%A9%E4%B9%8B%E5%86%85%E6%8B%92%E7%BB%9D%E4%BA%8630%E4%B8%AA%E5%AD%A6%E7%94%9F%E8%AF%B7%E5%81%87%23&t=31&band_rank=1&Refer=top)<br />
-2. [本周仅上4天班](https://s.weibo.com/weibo?q=%23%E6%9C%AC%E5%91%A8%E4%BB%85%E4%B8%8A4%E5%A4%A9%E7%8F%AD%23&t=31&band_rank=2&Refer=top)<br />
+1. [本周仅上4天班](https://s.weibo.com/weibo?q=%23%E6%9C%AC%E5%91%A8%E4%BB%85%E4%B8%8A4%E5%A4%A9%E7%8F%AD%23&t=31&band_rank=1&Refer=top)<br />
+2. [一天之内拒绝了30个学生请假](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%A4%A9%E4%B9%8B%E5%86%85%E6%8B%92%E7%BB%9D%E4%BA%8630%E4%B8%AA%E5%AD%A6%E7%94%9F%E8%AF%B7%E5%81%87%23&t=31&band_rank=2&Refer=top)<br />
 3. [三夏农忙正当时](https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%A4%8F%E5%86%9C%E5%BF%99%E6%AD%A3%E5%BD%93%E6%97%B6%23&t=31&band_rank=3&Refer=top)<br />
 4. [南宁地铁推倒女站务员男子已被行拘](https://s.weibo.com/weibo?q=%23%E5%8D%97%E5%AE%81%E5%9C%B0%E9%93%81%E6%8E%A8%E5%80%92%E5%A5%B3%E7%AB%99%E5%8A%A1%E5%91%98%E7%94%B7%E5%AD%90%E5%B7%B2%E8%A2%AB%E8%A1%8C%E6%8B%98%23&t=31&band_rank=4&Refer=top)<br />
 5. [肖战赵丽颖正剧苗子](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%AD%A3%E5%89%A7%E8%8B%97%E5%AD%90%23&t=31&band_rank=5&Refer=top)<br />
@@ -16,9 +16,9 @@
 
 1. [为什么网文 100 多万字看下来都不累，名著五六十万字就感觉信息量很大？](https://www.zhihu.com/question/598446077)<br />
 2. [葡萄牙球迷冲入球场抱起 C 罗，下跪致敬并模仿 C 罗庆祝动作，C 罗微笑回应，如何看待这样的行为？](https://www.zhihu.com/question/607278541)<br />
-3. [韩媒称「调查孙准浩的中国警方已收到批捕文件，将深入调查」，如何看待此事？后续进展如何？](https://www.zhihu.com/question/605029126)<br />
+3. [假如我有 10 万元，放在股市里面去炒，只求每个星期 2 个点的收益，每个月就是 8000 元，你觉得现实嘛？](https://www.zhihu.com/question/606869857)<br />
 4. [秦刚同美国国务卿布林肯举行会谈，哪些信息值得关注？](https://www.zhihu.com/question/607356662)<br />
-5. [假如我有 10 万元，放在股市里面去炒，只求每个星期 2 个点的收益，每个月就是 8000 元，你觉得现实嘛？](https://www.zhihu.com/question/606869857)<br />
+5. [韩媒称「调查孙准浩的中国警方已收到批捕文件，将深入调查」，如何看待此事？后续进展如何？](https://www.zhihu.com/question/605029126)<br />
 6. [洛阳为什么叫神都？](https://www.zhihu.com/question/603959982)<br />
 7. [妈妈今天跟我说别和她讲平等，她从生我开始就比我高一等这样对吗？](https://www.zhihu.com/question/606630311)<br />
 8. [为什么小龙女和杨过不能好好在一起，是因为世俗的反对还是形势的逼迫呢？](https://www.zhihu.com/question/605615780)<br />
