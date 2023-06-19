@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 07:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 07:42:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [黄子佼信息炸裂](https://s.weibo.com/weibo?q=%E9%BB%84%E5%AD%90%E4%BD%BC%E4%BF%A1%E6%81%AF%E7%82%B8%E8%A3%82&t=31&band_rank=6&Refer=top)<br />
 7. [林志颖](https://s.weibo.com/weibo?q=%E6%9E%97%E5%BF%97%E9%A2%96&t=31&band_rank=7&Refer=top)<br />
 8. [经常锻炼与不锻炼的人大腿肌肉的对比](https://s.weibo.com/weibo?q=%E7%BB%8F%E5%B8%B8%E9%94%BB%E7%82%BC%E4%B8%8E%E4%B8%8D%E9%94%BB%E7%82%BC%E7%9A%84%E4%BA%BA%E5%A4%A7%E8%85%BF%E8%82%8C%E8%82%89%E7%9A%84%E5%AF%B9%E6%AF%94&t=31&band_rank=8&Refer=top)<br />
-9. [朱一龙爸爸](https://s.weibo.com/weibo?q=%E6%9C%B1%E4%B8%80%E9%BE%99%E7%88%B8%E7%88%B8&t=31&band_rank=9&Refer=top)<br />
+9. [庆余年2官宣毛晓彤](https://s.weibo.com/weibo?q=%23%E5%BA%86%E4%BD%99%E5%B9%B42%E5%AE%98%E5%AE%A3%E6%AF%9B%E6%99%93%E5%BD%A4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
