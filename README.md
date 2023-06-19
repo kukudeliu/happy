@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 05:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 05:27:01</h4></div>
 
 > 微博  
 
@@ -19,10 +19,10 @@
 3. [调查称 53.7% 年轻人存款不足 10 万，如何看待这一现象，你觉得存款困难吗？](https://www.zhihu.com/question/607446342)<br />
 4. [为什么北京烤鸭出名靠鸭子，换成鸡的做法就不行了吗？](https://www.zhihu.com/question/606620975)<br />
 5. [白酒价格大面积倒挂，渠道现「堰塞湖」，消化库存是今年首要任务，白酒行业今年前景如何？](https://www.zhihu.com/question/607396709)<br />
-6. [数学专业就业怎么样？](https://www.zhihu.com/question/417946780)<br />
+6. [开惯了燃油车的人，能快速上手新能源车吗？](https://www.zhihu.com/question/607421892)<br />
 7. [黄子佼曝大小 S 具俊晔嗑药，大 S 工作室回应称「她心脏不好不能接触毒品」，真实情况如何，该如何看待？](https://www.zhihu.com/question/607436138)<br />
-8. [开惯了燃油车的人，能快速上手新能源车吗？](https://www.zhihu.com/question/607421892)<br />
-9. [研究称 2023 年可能成为有记录以来最热的一年，地球正走向「未知领域」，哪些原因导致如此高温？](https://www.zhihu.com/question/607397022)<br />
+8. [研究称 2023 年可能成为有记录以来最热的一年，地球正走向「未知领域」，哪些原因导致如此高温？](https://www.zhihu.com/question/607397022)<br />
+9. [女子花 52 元取鱼刺称「医院赚大钱」被怼，你对该事件有哪些看法？](https://www.zhihu.com/question/607346880)<br />
 
 > 百度  
 
