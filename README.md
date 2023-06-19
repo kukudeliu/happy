@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 03:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 03:49:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [蔡徐坤评论区回复粉丝](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E8%AF%84%E8%AE%BA%E5%8C%BA%E5%9B%9E%E5%A4%8D%E7%B2%89%E4%B8%9D%23&t=31&band_rank=4&Refer=top)<br />
 5. [马云指出淘宝天猫未来三个方向](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%BA%91%E6%8C%87%E5%87%BA%E6%B7%98%E5%AE%9D%E5%A4%A9%E7%8C%AB%E6%9C%AA%E6%9D%A5%E4%B8%89%E4%B8%AA%E6%96%B9%E5%90%91%23&t=31&band_rank=5&Refer=top)<br />
 6. [陶晶莹称希望黄子佼好好度过](https://s.weibo.com/weibo?q=%23%E9%99%B6%E6%99%B6%E8%8E%B9%E7%A7%B0%E5%B8%8C%E6%9C%9B%E9%BB%84%E5%AD%90%E4%BD%BC%E5%A5%BD%E5%A5%BD%E5%BA%A6%E8%BF%87%23&t=31&band_rank=6&Refer=top)<br />
-7. [Jennie新剧预告又跳舞了](https://s.weibo.com/weibo?q=%23Jennie%E6%96%B0%E5%89%A7%E9%A2%84%E5%91%8A%E5%8F%88%E8%B7%B3%E8%88%9E%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [朱一龙爸爸](https://s.weibo.com/weibo?q=%E6%9C%B1%E4%B8%80%E9%BE%99%E7%88%B8%E7%88%B8&t=31&band_rank=8&Refer=top)<br />
+7. [朱一龙爸爸](https://s.weibo.com/weibo?q=%E6%9C%B1%E4%B8%80%E9%BE%99%E7%88%B8%E7%88%B8&t=31&band_rank=7&Refer=top)<br />
+8. [Jennie新剧预告又跳舞了](https://s.weibo.com/weibo?q=%23Jennie%E6%96%B0%E5%89%A7%E9%A2%84%E5%91%8A%E5%8F%88%E8%B7%B3%E8%88%9E%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [网友拍到的龙吸水](https://s.weibo.com/weibo?q=%E7%BD%91%E5%8F%8B%E6%8B%8D%E5%88%B0%E7%9A%84%E9%BE%99%E5%90%B8%E6%B0%B4&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -19,10 +19,10 @@
 3. [调查称 53.7% 年轻人存款不足 10 万，如何看待这一现象，你觉得存款困难吗？](https://www.zhihu.com/question/607446342)<br />
 4. [为什么北京烤鸭出名靠鸭子，换成鸡的做法就不行了吗？](https://www.zhihu.com/question/606620975)<br />
 5. [开惯了燃油车的人，能快速上手新能源车吗？](https://www.zhihu.com/question/607421892)<br />
-6. [数学专业就业怎么样？](https://www.zhihu.com/question/417946780)<br />
+6. [女子花 52 元取鱼刺称「医院赚大钱」被怼，你对该事件有哪些看法？](https://www.zhihu.com/question/607346880)<br />
 7. [黄子佼曝大小 S 具俊晔嗑药，大 S 工作室回应称「她心脏不好不能接触毒品」，真实情况如何，该如何看待？](https://www.zhihu.com/question/607436138)<br />
-8. [女子花 52 元取鱼刺称「医院赚大钱」被怼，你对该事件有哪些看法？](https://www.zhihu.com/question/607346880)<br />
-9. [继西北大学等高校限制或取消硕士新生奖学金发放后，又一高校取消新生奖学金，如何看待这一现象？](https://www.zhihu.com/question/607454580)<br />
+8. [继西北大学等高校限制或取消硕士新生奖学金发放后，又一高校取消新生奖学金，如何看待这一现象？](https://www.zhihu.com/question/607454580)<br />
+9. [数学专业就业怎么样？](https://www.zhihu.com/question/417946780)<br />
 
 > 百度  
 
@@ -31,8 +31,8 @@
 3. [马云指出淘宝天猫未来三个方向](https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%E6%8C%87%E5%87%BA%E6%B7%98%E5%AE%9D%E5%A4%A9%E7%8C%AB%E6%9C%AA%E6%9D%A5%E4%B8%89%E4%B8%AA%E6%96%B9%E5%90%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [点亮网络文明之光](https://www.baidu.com/s?wd=%E7%82%B9%E4%BA%AE%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E4%B9%8B%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [跳桥救人小哥引来女网友公开示爱](https://www.baidu.com/s?wd=%E8%B7%B3%E6%A1%A5%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E5%BC%95%E6%9D%A5%E5%A5%B3%E7%BD%91%E5%8F%8B%E5%85%AC%E5%BC%80%E7%A4%BA%E7%88%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [两伙网红合谋演约架互殴剧本被行拘](https://www.baidu.com/s?wd=%E4%B8%A4%E4%BC%99%E7%BD%91%E7%BA%A2%E5%90%88%E8%B0%8B%E6%BC%94%E7%BA%A6%E6%9E%B6%E4%BA%92%E6%AE%B4%E5%89%A7%E6%9C%AC%E8%A2%AB%E8%A1%8C%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子房产被邻居打通入住 警方回应](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%88%BF%E4%BA%A7%E8%A2%AB%E9%82%BB%E5%B1%85%E6%89%93%E9%80%9A%E5%85%A5%E4%BD%8F+%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [14岁“天才少年”成SpaceX新员工](https://www.baidu.com/s?wd=14%E5%B2%81%E2%80%9C%E5%A4%A9%E6%89%8D%E5%B0%91%E5%B9%B4%E2%80%9D%E6%88%90SpaceX%E6%96%B0%E5%91%98%E5%B7%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [歌迷吐槽演唱会场地脏到不敢坐](https://www.baidu.com/s?wd=%E6%AD%8C%E8%BF%B7%E5%90%90%E6%A7%BD%E6%BC%94%E5%94%B1%E4%BC%9A%E5%9C%BA%E5%9C%B0%E8%84%8F%E5%88%B0%E4%B8%8D%E6%95%A2%E5%9D%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子指责女孩穿着暴露遭大姐怒怼](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8C%87%E8%B4%A3%E5%A5%B3%E5%AD%A9%E7%A9%BF%E7%9D%80%E6%9A%B4%E9%9C%B2%E9%81%AD%E5%A4%A7%E5%A7%90%E6%80%92%E6%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [黄子佼已苏醒](https://www.baidu.com/s?wd=%E9%BB%84%E5%AD%90%E4%BD%BC%E5%B7%B2%E8%8B%8F%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -43,7 +43,7 @@
 3. [马云指出淘宝天猫未来三个方向](https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%E6%8C%87%E5%87%BA%E6%B7%98%E5%AE%9D%E5%A4%A9%E7%8C%AB%E6%9C%AA%E6%9D%A5%E4%B8%89%E4%B8%AA%E6%96%B9%E5%90%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [点亮网络文明之光](https://www.baidu.com/s?wd=%E7%82%B9%E4%BA%AE%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E4%B9%8B%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [跳桥救人小哥引来女网友公开示爱](https://www.baidu.com/s?wd=%E8%B7%B3%E6%A1%A5%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E5%BC%95%E6%9D%A5%E5%A5%B3%E7%BD%91%E5%8F%8B%E5%85%AC%E5%BC%80%E7%A4%BA%E7%88%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [两伙网红合谋演约架互殴剧本被行拘](https://www.baidu.com/s?wd=%E4%B8%A4%E4%BC%99%E7%BD%91%E7%BA%A2%E5%90%88%E8%B0%8B%E6%BC%94%E7%BA%A6%E6%9E%B6%E4%BA%92%E6%AE%B4%E5%89%A7%E6%9C%AC%E8%A2%AB%E8%A1%8C%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子房产被邻居打通入住 警方回应](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%88%BF%E4%BA%A7%E8%A2%AB%E9%82%BB%E5%B1%85%E6%89%93%E9%80%9A%E5%85%A5%E4%BD%8F+%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [14岁“天才少年”成SpaceX新员工](https://www.baidu.com/s?wd=14%E5%B2%81%E2%80%9C%E5%A4%A9%E6%89%8D%E5%B0%91%E5%B9%B4%E2%80%9D%E6%88%90SpaceX%E6%96%B0%E5%91%98%E5%B7%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [歌迷吐槽演唱会场地脏到不敢坐](https://www.baidu.com/s?wd=%E6%AD%8C%E8%BF%B7%E5%90%90%E6%A7%BD%E6%BC%94%E5%94%B1%E4%BC%9A%E5%9C%BA%E5%9C%B0%E8%84%8F%E5%88%B0%E4%B8%8D%E6%95%A2%E5%9D%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子指责女孩穿着暴露遭大姐怒怼](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8C%87%E8%B4%A3%E5%A5%B3%E5%AD%A9%E7%A9%BF%E7%9D%80%E6%9A%B4%E9%9C%B2%E9%81%AD%E5%A4%A7%E5%A7%90%E6%80%92%E6%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [黄子佼已苏醒](https://www.baidu.com/s?wd=%E9%BB%84%E5%AD%90%E4%BD%BC%E5%B7%B2%E8%8B%8F%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
