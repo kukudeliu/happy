@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 20:47:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 20:48:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [日本排核废水入海，十年可能扩散至整个北太平洋，对民众的生活影响有多大？未来你还敢吃海鱼吗？](https://www.zhihu.com/theater/54089)<br />
 6. [为什么不能制造出像蚊子口器一样的针头？](https://www.zhihu.com/question/279174258)<br />
 7. [黄子佼曝大小 S 具俊晔嗑药，大 S 工作室回应称「她心脏不好不能接触毒品」，真实情况如何，该如何看待？](https://www.zhihu.com/question/607436138)<br />
-8. [王石表示「房地产市场不是结束了，而是刚开始」，如何看待这一观点？房地产行业未来发展趋势如何？](https://www.zhihu.com/question/607336662)<br />
-9. [研究称 2023 年可能成为有记录以来最热的一年，地球正走向「未知领域」，哪些原因导致如此高温？](https://www.zhihu.com/question/607397022)<br />
+8. [研究称 2023 年可能成为有记录以来最热的一年，地球正走向「未知领域」，哪些原因导致如此高温？](https://www.zhihu.com/question/607397022)<br />
+9. [王石表示「房地产市场不是结束了，而是刚开始」，如何看待这一观点？房地产行业未来发展趋势如何？](https://www.zhihu.com/question/607336662)<br />
 
 > 百度  
 
@@ -34,7 +34,7 @@
 6. [中美会面 王毅说了什么？](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E4%BC%9A%E9%9D%A2+%E7%8E%8B%E6%AF%85%E8%AF%B4%E4%BA%86%E4%BB%80%E4%B9%88%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [黄子佼连爆13位艺人黑料](https://www.baidu.com/s?wd=%E9%BB%84%E5%AD%90%E4%BD%BC%E8%BF%9E%E7%88%8613%E4%BD%8D%E8%89%BA%E4%BA%BA%E9%BB%91%E6%96%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子指责女孩穿着暴露遭大姐怒怼](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8C%87%E8%B4%A3%E5%A5%B3%E5%AD%A9%E7%A9%BF%E7%9D%80%E6%9A%B4%E9%9C%B2%E9%81%AD%E5%A4%A7%E5%A7%90%E6%80%92%E6%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子上传被妻子家暴视频求助](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%8A%E4%BC%A0%E8%A2%AB%E5%A6%BB%E5%AD%90%E5%AE%B6%E6%9A%B4%E8%A7%86%E9%A2%91%E6%B1%82%E5%8A%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子长城藏时间胶囊12年多人留纸条](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%95%BF%E5%9F%8E%E8%97%8F%E6%97%B6%E9%97%B4%E8%83%B6%E5%9B%8A12%E5%B9%B4%E5%A4%9A%E4%BA%BA%E7%95%99%E7%BA%B8%E6%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [中美会面 王毅说了什么？](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E4%BC%9A%E9%9D%A2+%E7%8E%8B%E6%AF%85%E8%AF%B4%E4%BA%86%E4%BB%80%E4%B9%88%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [黄子佼连爆13位艺人黑料](https://www.baidu.com/s?wd=%E9%BB%84%E5%AD%90%E4%BD%BC%E8%BF%9E%E7%88%8613%E4%BD%8D%E8%89%BA%E4%BA%BA%E9%BB%91%E6%96%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子指责女孩穿着暴露遭大姐怒怼](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8C%87%E8%B4%A3%E5%A5%B3%E5%AD%A9%E7%A9%BF%E7%9D%80%E6%9A%B4%E9%9C%B2%E9%81%AD%E5%A4%A7%E5%A7%90%E6%80%92%E6%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子上传被妻子家暴视频求助](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%8A%E4%BC%A0%E8%A2%AB%E5%A6%BB%E5%AD%90%E5%AE%B6%E6%9A%B4%E8%A7%86%E9%A2%91%E6%B1%82%E5%8A%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子长城藏时间胶囊12年多人留纸条](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%95%BF%E5%9F%8E%E8%97%8F%E6%97%B6%E9%97%B4%E8%83%B6%E5%9B%8A12%E5%B9%B4%E5%A4%9A%E4%BA%BA%E7%95%99%E7%BA%B8%E6%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
