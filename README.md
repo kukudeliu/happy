@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 17:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 17:13:01</h4></div>
 
 > 微博  
 
@@ -16,8 +16,8 @@
 
 1. [胡兵 50 万积分被东航清零，沟通维权未果，并表示「对方态度巨差无比」，哪些信息值得关注？](https://www.zhihu.com/question/607320882)<br />
 2. [王石表示「房地产市场不是结束了，而是刚开始」，如何看待这一观点？房地产行业未来发展趋势如何？](https://www.zhihu.com/question/607336662)<br />
-3. [给你五百万，但是强制让你把一个婴儿抚养到 25 岁，你愿意吗？](https://www.zhihu.com/question/606809108)<br />
-4. [王毅与布林肯会面，哪些细节值得关注？](https://www.zhihu.com/question/607413112)<br />
+3. [王毅与布林肯会面，哪些细节值得关注？](https://www.zhihu.com/question/607413112)<br />
+4. [给你五百万，但是强制让你把一个婴儿抚养到 25 岁，你愿意吗？](https://www.zhihu.com/question/606809108)<br />
 5. [厦大新闻学教授谈张雪峰言论，称「值得反思却不要轻信他的结论」，新闻学真的变成了天坑专业吗？](https://www.zhihu.com/question/607414331)<br />
 6. [黄子佼曝大小 S 具俊晔嗑药，称自己也被硬塞过数次，如何看待此事？](https://www.zhihu.com/question/607436138)<br />
 7. [如何评价白敬亭、宋轶主演的电视剧《长风渡》？](https://www.zhihu.com/question/607305319)<br />
