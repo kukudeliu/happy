@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 09:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 09:42:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [假如我有 10 万元，放在股市里面去炒，只求每个星期 2 个点的收益，每个月就是 8000 元，你觉得现实嘛？](https://www.zhihu.com/question/606869857)<br />
 6. [洛阳为什么叫神都？](https://www.zhihu.com/question/603959982)<br />
 7. []()<br />
-8. [上课犯困该怎么办？](https://www.zhihu.com/question/599417027)<br />
-9. [你会介意你的猫不是品种猫吗？](https://www.zhihu.com/question/413441565)<br />
+8. []()<br />
+9. []()<br />
 
 > 百度  
 
