@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 08:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 08:27:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [迪丽热巴手滑进了梦海直播间](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%89%8B%E6%BB%91%E8%BF%9B%E4%BA%86%E6%A2%A6%E6%B5%B7%E7%9B%B4%E6%92%AD%E9%97%B4%23&t=31&band_rank=5&Refer=top)<br />
 6. [女孩撞上食客被烫伤食客有责任吗](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E6%92%9E%E4%B8%8A%E9%A3%9F%E5%AE%A2%E8%A2%AB%E7%83%AB%E4%BC%A4%E9%A3%9F%E5%AE%A2%E6%9C%89%E8%B4%A3%E4%BB%BB%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [989大学](https://s.weibo.com/weibo?q=989%E5%A4%A7%E5%AD%A6&t=31&band_rank=7&Refer=top)<br />
-8. [女儿考满分农民工父亲买了只烧鸡庆祝](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E8%80%83%E6%BB%A1%E5%88%86%E5%86%9C%E6%B0%91%E5%B7%A5%E7%88%B6%E4%BA%B2%E4%B9%B0%E4%BA%86%E5%8F%AA%E7%83%A7%E9%B8%A1%E5%BA%86%E7%A5%9D%23&t=31&band_rank=8&Refer=top)<br />
-9. [白敬亭宋轶对视没有技巧全是感情](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6%E5%AF%B9%E8%A7%86%E6%B2%A1%E6%9C%89%E6%8A%80%E5%B7%A7%E5%85%A8%E6%98%AF%E6%84%9F%E6%83%85%23&t=31&band_rank=9&Refer=top)<br />
+8. [白敬亭宋轶对视没有技巧全是感情](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6%E5%AF%B9%E8%A7%86%E6%B2%A1%E6%9C%89%E6%8A%80%E5%B7%A7%E5%85%A8%E6%98%AF%E6%84%9F%E6%83%85%23&t=31&band_rank=8&Refer=top)<br />
+9. [女儿考满分农民工父亲买了只烧鸡庆祝](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E8%80%83%E6%BB%A1%E5%88%86%E5%86%9C%E6%B0%91%E5%B7%A5%E7%88%B6%E4%BA%B2%E4%B9%B0%E4%BA%86%E5%8F%AA%E7%83%A7%E9%B8%A1%E5%BA%86%E7%A5%9D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
