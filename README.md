@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 09:55:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 09:56:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [白敬亭想改的名字都被注册了](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E6%83%B3%E6%94%B9%E7%9A%84%E5%90%8D%E5%AD%97%E9%83%BD%E8%A2%AB%E6%B3%A8%E5%86%8C%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [鹿晗金色脏辫](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E9%87%91%E8%89%B2%E8%84%8F%E8%BE%AB%23&t=31&band_rank=7&Refer=top)<br />
 8. [厦大新闻学教授谈张雪峰言论](https://s.weibo.com/weibo?q=%23%E5%8E%A6%E5%A4%A7%E6%96%B0%E9%97%BB%E5%AD%A6%E6%95%99%E6%8E%88%E8%B0%88%E5%BC%A0%E9%9B%AA%E5%B3%B0%E8%A8%80%E8%AE%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [Jennie金泰亨都去看了火星哥演唱会](https://s.weibo.com/weibo?q=%23Jennie%E9%87%91%E6%B3%B0%E4%BA%A8%E9%83%BD%E5%8E%BB%E7%9C%8B%E4%BA%86%E7%81%AB%E6%98%9F%E5%93%A5%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=9&Refer=top)<br />
+9. [王阳用口红在秦岚脸上留号码](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%98%B3%E7%94%A8%E5%8F%A3%E7%BA%A2%E5%9C%A8%E7%A7%A6%E5%B2%9A%E8%84%B8%E4%B8%8A%E7%95%99%E5%8F%B7%E7%A0%81%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
