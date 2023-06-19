@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 10:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 10:41:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [洛阳为什么叫神都？](https://www.zhihu.com/question/603959982)<br />
 7. [如果赵构信任岳飞，将大权托付给他，宋朝能灭掉女真吗？](https://www.zhihu.com/question/588618893)<br />
 8. [为什么小龙女和杨过不能好好在一起，是因为世俗的反对还是形势的逼迫呢？](https://www.zhihu.com/question/605615780)<br />
-9. []()<br />
+9. [为什么 2023 年的 BLG 怎么打都打不过 JDG？](https://www.zhihu.com/question/607326596)<br />
 
 > 百度  
 
