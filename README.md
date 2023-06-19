@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 11:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 11:40:02</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [女子买蛋糕遇“空心包装刺客”](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B9%B0%E8%9B%8B%E7%B3%95%E9%81%87%E2%80%9C%E7%A9%BA%E5%BF%83%E5%8C%85%E8%A3%85%E5%88%BA%E5%AE%A2%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李嘉诚现身礼佛获围观](https://www.baidu.com/s?wd=%E6%9D%8E%E5%98%89%E8%AF%9A%E7%8E%B0%E8%BA%AB%E7%A4%BC%E4%BD%9B%E8%8E%B7%E5%9B%B4%E8%A7%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [历史上乘风破浪的姐姐们](https://www.baidu.com/s?wd=%E5%8E%86%E5%8F%B2%E4%B8%8A%E4%B9%98%E9%A3%8E%E7%A0%B4%E6%B5%AA%E7%9A%84%E5%A7%90%E5%A7%90%E4%BB%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [“充电桩投资”骗局致6千人中招](https://www.baidu.com/s?wd=%E2%80%9C%E5%85%85%E7%94%B5%E6%A1%A9%E6%8A%95%E8%B5%84%E2%80%9D%E9%AA%97%E5%B1%80%E8%87%B46%E5%8D%83%E4%BA%BA%E4%B8%AD%E6%8B%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [狗狗嫌天热自己坐电梯回家](https://www.baidu.com/s?wd=%E7%8B%97%E7%8B%97%E5%AB%8C%E5%A4%A9%E7%83%AD%E8%87%AA%E5%B7%B1%E5%9D%90%E7%94%B5%E6%A2%AF%E5%9B%9E%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [女子买蛋糕遇“空心包装刺客”](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B9%B0%E8%9B%8B%E7%B3%95%E9%81%87%E2%80%9C%E7%A9%BA%E5%BF%83%E5%8C%85%E8%A3%85%E5%88%BA%E5%AE%A2%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李嘉诚现身礼佛获围观](https://www.baidu.com/s?wd=%E6%9D%8E%E5%98%89%E8%AF%9A%E7%8E%B0%E8%BA%AB%E7%A4%BC%E4%BD%9B%E8%8E%B7%E5%9B%B4%E8%A7%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [历史上乘风破浪的姐姐们](https://www.baidu.com/s?wd=%E5%8E%86%E5%8F%B2%E4%B8%8A%E4%B9%98%E9%A3%8E%E7%A0%B4%E6%B5%AA%E7%9A%84%E5%A7%90%E5%A7%90%E4%BB%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [“充电桩投资”骗局致6千人中招](https://www.baidu.com/s?wd=%E2%80%9C%E5%85%85%E7%94%B5%E6%A1%A9%E6%8A%95%E8%B5%84%E2%80%9D%E9%AA%97%E5%B1%80%E8%87%B46%E5%8D%83%E4%BA%BA%E4%B8%AD%E6%8B%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [狗狗嫌天热自己坐电梯回家](https://www.baidu.com/s?wd=%E7%8B%97%E7%8B%97%E5%AB%8C%E5%A4%A9%E7%83%AD%E8%87%AA%E5%B7%B1%E5%9D%90%E7%94%B5%E6%A2%AF%E5%9B%9E%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
