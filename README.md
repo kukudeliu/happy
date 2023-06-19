@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 19:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 19:44:01</h4></div>
 
 > 微博  
 
 1. [林志颖](https://s.weibo.com/weibo?q=%E6%9E%97%E5%BF%97%E9%A2%96&t=31&band_rank=1&Refer=top)<br />
-2. [哈工大的这张毕业车票让人破防了](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B7%A5%E5%A4%A7%E7%9A%84%E8%BF%99%E5%BC%A0%E6%AF%95%E4%B8%9A%E8%BD%A6%E7%A5%A8%E8%AE%A9%E4%BA%BA%E7%A0%B4%E9%98%B2%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
+2. [男子长城藏时间胶囊12年多人留纸条](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%95%BF%E5%9F%8E%E8%97%8F%E6%97%B6%E9%97%B4%E8%83%B6%E5%9B%8A12%E5%B9%B4%E5%A4%9A%E4%BA%BA%E7%95%99%E7%BA%B8%E6%9D%A1%23&t=31&band_rank=2&Refer=top)<br />
 3. [高质量发展调研行](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E8%B0%83%E7%A0%94%E8%A1%8C%23&t=31&band_rank=3&Refer=top)<br />
 4. [庆余年2官宣阵容](https://s.weibo.com/weibo?q=%E5%BA%86%E4%BD%99%E5%B9%B42%E5%AE%98%E5%AE%A3%E9%98%B5%E5%AE%B9&t=31&band_rank=4&Refer=top)<br />
-5. [男子长城藏时间胶囊12年多人留纸条](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%95%BF%E5%9F%8E%E8%97%8F%E6%97%B6%E9%97%B4%E8%83%B6%E5%9B%8A12%E5%B9%B4%E5%A4%9A%E4%BA%BA%E7%95%99%E7%BA%B8%E6%9D%A1%23&t=31&band_rank=5&Refer=top)<br />
+5. [哈工大的这张毕业车票让人破防了](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B7%A5%E5%A4%A7%E7%9A%84%E8%BF%99%E5%BC%A0%E6%AF%95%E4%B8%9A%E8%BD%A6%E7%A5%A8%E8%AE%A9%E4%BA%BA%E7%A0%B4%E9%98%B2%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [大S工作室回应吸毒指控](https://s.weibo.com/weibo?q=%23%E5%A4%A7S%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%9B%9E%E5%BA%94%E5%90%B8%E6%AF%92%E6%8C%87%E6%8E%A7%23&t=31&band_rank=6&Refer=top)<br />
-7. [妈妈生病8岁男孩夜里出门找爸爸](https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E7%94%9F%E7%97%858%E5%B2%81%E7%94%B7%E5%AD%A9%E5%A4%9C%E9%87%8C%E5%87%BA%E9%97%A8%E6%89%BE%E7%88%B8%E7%88%B8%23&t=31&band_rank=7&Refer=top)<br />
-8. [庆余年叶灵儿](https://s.weibo.com/weibo?q=%E5%BA%86%E4%BD%99%E5%B9%B4%E5%8F%B6%E7%81%B5%E5%84%BF&t=31&band_rank=8&Refer=top)<br />
-9. [庆余年](https://s.weibo.com/weibo?q=%E5%BA%86%E4%BD%99%E5%B9%B4&t=31&band_rank=9&Refer=top)<br />
+7. [庆余年叶灵儿](https://s.weibo.com/weibo?q=%E5%BA%86%E4%BD%99%E5%B9%B4%E5%8F%B6%E7%81%B5%E5%84%BF&t=31&band_rank=7&Refer=top)<br />
+8. [庆余年](https://s.weibo.com/weibo?q=%E5%BA%86%E4%BD%99%E5%B9%B4&t=31&band_rank=8&Refer=top)<br />
+9. [调查称53.7%年轻人存款不足10万](https://s.weibo.com/weibo?q=%23%E8%B0%83%E6%9F%A5%E7%A7%B053.7%25%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%AD%98%E6%AC%BE%E4%B8%8D%E8%B6%B310%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
