@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 15:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 15:59:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [大小S经纪人回应黄子佼爆料](https://www.baidu.com/s?wd=%E5%A4%A7%E5%B0%8FS%E7%BB%8F%E7%BA%AA%E4%BA%BA%E5%9B%9E%E5%BA%94%E9%BB%84%E5%AD%90%E4%BD%BC%E7%88%86%E6%96%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [黄子佼爆料大小S吸毒嗑药](https://www.baidu.com/s?wd=%E9%BB%84%E5%AD%90%E4%BD%BC%E7%88%86%E6%96%99%E5%A4%A7%E5%B0%8FS%E5%90%B8%E6%AF%92%E5%97%91%E8%8D%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [张兰说今天是个好日子](https://www.baidu.com/s?wd=%E5%BC%A0%E5%85%B0%E8%AF%B4%E4%BB%8A%E5%A4%A9%E6%98%AF%E4%B8%AA%E5%A5%BD%E6%97%A5%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [鼠头鸭脖涉事企业经营700多个食堂](https://www.baidu.com/s?wd=%E9%BC%A0%E5%A4%B4%E9%B8%AD%E8%84%96%E6%B6%89%E4%BA%8B%E4%BC%81%E4%B8%9A%E7%BB%8F%E8%90%A5700%E5%A4%9A%E4%B8%AA%E9%A3%9F%E5%A0%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [专家称不必对新闻无用论感到恐慌](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E4%B8%8D%E5%BF%85%E5%AF%B9%E6%96%B0%E9%97%BB%E6%97%A0%E7%94%A8%E8%AE%BA%E6%84%9F%E5%88%B0%E6%81%90%E6%85%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [大小S经纪人回应黄子佼爆料](https://www.baidu.com/s?wd=%E5%A4%A7%E5%B0%8FS%E7%BB%8F%E7%BA%AA%E4%BA%BA%E5%9B%9E%E5%BA%94%E9%BB%84%E5%AD%90%E4%BD%BC%E7%88%86%E6%96%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [黄子佼爆料大小S吸毒嗑药](https://www.baidu.com/s?wd=%E9%BB%84%E5%AD%90%E4%BD%BC%E7%88%86%E6%96%99%E5%A4%A7%E5%B0%8FS%E5%90%B8%E6%AF%92%E5%97%91%E8%8D%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [张兰说今天是个好日子](https://www.baidu.com/s?wd=%E5%BC%A0%E5%85%B0%E8%AF%B4%E4%BB%8A%E5%A4%A9%E6%98%AF%E4%B8%AA%E5%A5%BD%E6%97%A5%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [鼠头鸭脖涉事企业经营700多个食堂](https://www.baidu.com/s?wd=%E9%BC%A0%E5%A4%B4%E9%B8%AD%E8%84%96%E6%B6%89%E4%BA%8B%E4%BC%81%E4%B8%9A%E7%BB%8F%E8%90%A5700%E5%A4%9A%E4%B8%AA%E9%A3%9F%E5%A0%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [专家称不必对新闻无用论感到恐慌](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E4%B8%8D%E5%BF%85%E5%AF%B9%E6%96%B0%E9%97%BB%E6%97%A0%E7%94%A8%E8%AE%BA%E6%84%9F%E5%88%B0%E6%81%90%E6%85%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
