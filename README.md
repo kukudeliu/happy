@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 04:33:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 04:34:01</h4></div>
 
 > 微博  
 
@@ -19,10 +19,10 @@
 3. [调查称 53.7% 年轻人存款不足 10 万，如何看待这一现象，你觉得存款困难吗？](https://www.zhihu.com/question/607446342)<br />
 4. [为什么北京烤鸭出名靠鸭子，换成鸡的做法就不行了吗？](https://www.zhihu.com/question/606620975)<br />
 5. [白酒价格大面积倒挂，渠道现「堰塞湖」，消化库存是今年首要任务，白酒行业今年前景如何？](https://www.zhihu.com/question/607396709)<br />
-6. [研究称 2023 年可能成为有记录以来最热的一年，地球正走向「未知领域」，哪些原因导致如此高温？](https://www.zhihu.com/question/607397022)<br />
+6. [女子花 52 元取鱼刺称「医院赚大钱」被怼，你对该事件有哪些看法？](https://www.zhihu.com/question/607346880)<br />
 7. [黄子佼曝大小 S 具俊晔嗑药，大 S 工作室回应称「她心脏不好不能接触毒品」，真实情况如何，该如何看待？](https://www.zhihu.com/question/607436138)<br />
-8. [女子花 52 元取鱼刺称「医院赚大钱」被怼，你对该事件有哪些看法？](https://www.zhihu.com/question/607346880)<br />
-9. [为了写小说，你付出了多少努力？](https://www.zhihu.com/question/301337248)<br />
+8. [为了写小说，你付出了多少努力？](https://www.zhihu.com/question/301337248)<br />
+9. [科研圈里，为什么一些学科的女教授尤其少？](https://www.zhihu.com/question/27404441)<br />
 
 > 百度  
 
@@ -32,7 +32,7 @@
 4. [点亮网络文明之光](https://www.baidu.com/s?wd=%E7%82%B9%E4%BA%AE%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E4%B9%8B%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [跳桥救人小哥引来女网友公开示爱](https://www.baidu.com/s?wd=%E8%B7%B3%E6%A1%A5%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E5%BC%95%E6%9D%A5%E5%A5%B3%E7%BD%91%E5%8F%8B%E5%85%AC%E5%BC%80%E7%A4%BA%E7%88%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [贵州村超上演倒挂金钩进球](https://www.baidu.com/s?wd=%E8%B4%B5%E5%B7%9E%E6%9D%91%E8%B6%85%E4%B8%8A%E6%BC%94%E5%80%92%E6%8C%82%E9%87%91%E9%92%A9%E8%BF%9B%E7%90%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [华为要求日本通信企业支付专利费](https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E8%A6%81%E6%B1%82%E6%97%A5%E6%9C%AC%E9%80%9A%E4%BF%A1%E4%BC%81%E4%B8%9A%E6%94%AF%E4%BB%98%E4%B8%93%E5%88%A9%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [会见布林肯现场为何摆放荷花](https://www.baidu.com/s?wd=%E4%BC%9A%E8%A7%81%E5%B8%83%E6%9E%97%E8%82%AF%E7%8E%B0%E5%9C%BA%E4%B8%BA%E4%BD%95%E6%91%86%E6%94%BE%E8%8D%B7%E8%8A%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子指责女孩穿着暴露遭大姐怒怼](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8C%87%E8%B4%A3%E5%A5%B3%E5%AD%A9%E7%A9%BF%E7%9D%80%E6%9A%B4%E9%9C%B2%E9%81%AD%E5%A4%A7%E5%A7%90%E6%80%92%E6%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [黄子佼已苏醒](https://www.baidu.com/s?wd=%E9%BB%84%E5%AD%90%E4%BD%BC%E5%B7%B2%E8%8B%8F%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -44,6 +44,6 @@
 4. [点亮网络文明之光](https://www.baidu.com/s?wd=%E7%82%B9%E4%BA%AE%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E4%B9%8B%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [跳桥救人小哥引来女网友公开示爱](https://www.baidu.com/s?wd=%E8%B7%B3%E6%A1%A5%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E5%BC%95%E6%9D%A5%E5%A5%B3%E7%BD%91%E5%8F%8B%E5%85%AC%E5%BC%80%E7%A4%BA%E7%88%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [贵州村超上演倒挂金钩进球](https://www.baidu.com/s?wd=%E8%B4%B5%E5%B7%9E%E6%9D%91%E8%B6%85%E4%B8%8A%E6%BC%94%E5%80%92%E6%8C%82%E9%87%91%E9%92%A9%E8%BF%9B%E7%90%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [华为要求日本通信企业支付专利费](https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E8%A6%81%E6%B1%82%E6%97%A5%E6%9C%AC%E9%80%9A%E4%BF%A1%E4%BC%81%E4%B8%9A%E6%94%AF%E4%BB%98%E4%B8%93%E5%88%A9%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [会见布林肯现场为何摆放荷花](https://www.baidu.com/s?wd=%E4%BC%9A%E8%A7%81%E5%B8%83%E6%9E%97%E8%82%AF%E7%8E%B0%E5%9C%BA%E4%B8%BA%E4%BD%95%E6%91%86%E6%94%BE%E8%8D%B7%E8%8A%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子指责女孩穿着暴露遭大姐怒怼](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8C%87%E8%B4%A3%E5%A5%B3%E5%AD%A9%E7%A9%BF%E7%9D%80%E6%9A%B4%E9%9C%B2%E9%81%AD%E5%A4%A7%E5%A7%90%E6%80%92%E6%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [黄子佼已苏醒](https://www.baidu.com/s?wd=%E9%BB%84%E5%AD%90%E4%BD%BC%E5%B7%B2%E8%8B%8F%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
