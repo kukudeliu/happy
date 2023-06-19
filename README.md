@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 15:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 15:34:01</h4></div>
 
 > 微博  
 
@@ -8,14 +8,14 @@
 4. [拍一部爆一部的演员](https://s.weibo.com/weibo?q=%23%E6%8B%8D%E4%B8%80%E9%83%A8%E7%88%86%E4%B8%80%E9%83%A8%E7%9A%84%E6%BC%94%E5%91%98%23&t=31&band_rank=4&Refer=top)<br />
 5. [张小斐首部女主电视剧](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%E9%A6%96%E9%83%A8%E5%A5%B3%E4%B8%BB%E7%94%B5%E8%A7%86%E5%89%A7%23&t=31&band_rank=5&Refer=top)<br />
 6. [鼠头鸭脖涉事母公司经营700多个高校食堂](https://s.weibo.com/weibo?q=%23%E9%BC%A0%E5%A4%B4%E9%B8%AD%E8%84%96%E6%B6%89%E4%BA%8B%E6%AF%8D%E5%85%AC%E5%8F%B8%E7%BB%8F%E8%90%A5700%E5%A4%9A%E4%B8%AA%E9%AB%98%E6%A0%A1%E9%A3%9F%E5%A0%82%23&t=31&band_rank=6&Refer=top)<br />
-7. [警方确认女子房子被邻居打通使用](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E7%A1%AE%E8%AE%A4%E5%A5%B3%E5%AD%90%E6%88%BF%E5%AD%90%E8%A2%AB%E9%82%BB%E5%B1%85%E6%89%93%E9%80%9A%E4%BD%BF%E7%94%A8%23&t=31&band_rank=7&Refer=top)<br />
-8. [Jennie巡演翻白眼](https://s.weibo.com/weibo?q=%23Jennie%E5%B7%A1%E6%BC%94%E7%BF%BB%E7%99%BD%E7%9C%BC%23&t=31&band_rank=8&Refer=top)<br />
+7. [Jennie巡演翻白眼](https://s.weibo.com/weibo?q=%23Jennie%E5%B7%A1%E6%BC%94%E7%BF%BB%E7%99%BD%E7%9C%BC%23&t=31&band_rank=7&Refer=top)<br />
+8. [警方确认女子房子被邻居打通使用](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E7%A1%AE%E8%AE%A4%E5%A5%B3%E5%AD%90%E6%88%BF%E5%AD%90%E8%A2%AB%E9%82%BB%E5%B1%85%E6%89%93%E9%80%9A%E4%BD%BF%E7%94%A8%23&t=31&band_rank=8&Refer=top)<br />
 9. [客户让高中女儿多看招聘网](https://s.weibo.com/weibo?q=%23%E5%AE%A2%E6%88%B7%E8%AE%A9%E9%AB%98%E4%B8%AD%E5%A5%B3%E5%84%BF%E5%A4%9A%E7%9C%8B%E6%8B%9B%E8%81%98%E7%BD%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
-1. [高中同学 29 岁就成了顶尖 985 的副教授，看看普通的自己，会有什么想法？](https://www.zhihu.com/question/586589709)<br />
-2. [胡兵 50 万积分被东航清零，沟通维权未果，并表示「对方态度巨差无比」，哪些信息值得关注？](https://www.zhihu.com/question/607320882)<br />
+1. [胡兵 50 万积分被东航清零，沟通维权未果，并表示「对方态度巨差无比」，哪些信息值得关注？](https://www.zhihu.com/question/607320882)<br />
+2. [高中同学 29 岁就成了顶尖 985 的副教授，看看普通的自己，会有什么想法？](https://www.zhihu.com/question/586589709)<br />
 3. [韩国首尔市 7 月起对学校供餐进行全面辐射检测，说明了什么问题？日本辐射可能会有哪些危害？](https://www.zhihu.com/question/607160207)<br />
 4. [假如我有 10 万元，放在股市里面去炒，只求每个星期 2 个点的收益，每个月就是 8000 元，你觉得现实嘛？](https://www.zhihu.com/question/606869857)<br />
 5. [王石表示「房地产市场不是结束了，而是刚开始」，如何看待这一观点？房地产行业未来发展趋势如何？](https://www.zhihu.com/question/607336662)<br />
