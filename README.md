@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 09:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 09:11:01</h4></div>
 
 > 微博  
 
@@ -27,23 +27,23 @@
 > 百度  
 
 1. [根植沙海的绿色梦](https://www.baidu.com/s?wd=%E6%A0%B9%E6%A4%8D%E6%B2%99%E6%B5%B7%E7%9A%84%E7%BB%BF%E8%89%B2%E6%A2%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [城管干部出轨女下属 双方均被停职](https://www.baidu.com/s?wd=%E5%9F%8E%E7%AE%A1%E5%B9%B2%E9%83%A8%E5%87%BA%E8%BD%A8%E5%A5%B3%E4%B8%8B%E5%B1%9E+%E5%8F%8C%E6%96%B9%E5%9D%87%E8%A2%AB%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [2023年或成为有记录以来最热一年](https://www.baidu.com/s?wd=2023%E5%B9%B4%E6%88%96%E6%88%90%E4%B8%BA%E6%9C%89%E8%AE%B0%E5%BD%95%E4%BB%A5%E6%9D%A5%E6%9C%80%E7%83%AD%E4%B8%80%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [2023年或成为有记录以来最热一年](https://www.baidu.com/s?wd=2023%E5%B9%B4%E6%88%96%E6%88%90%E4%B8%BA%E6%9C%89%E8%AE%B0%E5%BD%95%E4%BB%A5%E6%9D%A5%E6%9C%80%E7%83%AD%E4%B8%80%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [李强抵达柏林对德国进行正式访问](https://www.baidu.com/s?wd=%E6%9D%8E%E5%BC%BA%E6%8A%B5%E8%BE%BE%E6%9F%8F%E6%9E%97%E5%AF%B9%E5%BE%B7%E5%9B%BD%E8%BF%9B%E8%A1%8C%E6%AD%A3%E5%BC%8F%E8%AE%BF%E9%97%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [高技术制造业快速增长](https://www.baidu.com/s?wd=%E9%AB%98%E6%8A%80%E6%9C%AF%E5%88%B6%E9%80%A0%E4%B8%9A%E5%BF%AB%E9%80%9F%E5%A2%9E%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [外媒：中美外长会谈比原计划超1小时](https://www.baidu.com/s?wd=%E5%A4%96%E5%AA%92%EF%BC%9A%E4%B8%AD%E7%BE%8E%E5%A4%96%E9%95%BF%E4%BC%9A%E8%B0%88%E6%AF%94%E5%8E%9F%E8%AE%A1%E5%88%92%E8%B6%851%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [女子房子两年没住被邻居用衣柜封死](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%88%BF%E5%AD%90%E4%B8%A4%E5%B9%B4%E6%B2%A1%E4%BD%8F%E8%A2%AB%E9%82%BB%E5%B1%85%E7%94%A8%E8%A1%A3%E6%9F%9C%E5%B0%81%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子点30块外卖结果没了2000元](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%82%B930%E5%9D%97%E5%A4%96%E5%8D%96%E7%BB%93%E6%9E%9C%E6%B2%A1%E4%BA%862000%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [狗狗嫌天热自己坐电梯回家](https://www.baidu.com/s?wd=%E7%8B%97%E7%8B%97%E5%AB%8C%E5%A4%A9%E7%83%AD%E8%87%AA%E5%B7%B1%E5%9D%90%E7%94%B5%E6%A2%AF%E5%9B%9E%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中考生被老师要求弃考？南昌通报](https://www.baidu.com/s?wd=%E4%B8%AD%E8%80%83%E7%94%9F%E8%A2%AB%E8%80%81%E5%B8%88%E8%A6%81%E6%B1%82%E5%BC%83%E8%80%83%EF%BC%9F%E5%8D%97%E6%98%8C%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [男子点30块外卖结果没了2000元](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%82%B930%E5%9D%97%E5%A4%96%E5%8D%96%E7%BB%93%E6%9E%9C%E6%B2%A1%E4%BA%862000%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [狗狗嫌天热自己坐电梯回家](https://www.baidu.com/s?wd=%E7%8B%97%E7%8B%97%E5%AB%8C%E5%A4%A9%E7%83%AD%E8%87%AA%E5%B7%B1%E5%9D%90%E7%94%B5%E6%A2%AF%E5%9B%9E%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中考生被老师要求弃考？南昌通报](https://www.baidu.com/s?wd=%E4%B8%AD%E8%80%83%E7%94%9F%E8%A2%AB%E8%80%81%E5%B8%88%E8%A6%81%E6%B1%82%E5%BC%83%E8%80%83%EF%BC%9F%E5%8D%97%E6%98%8C%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [方媛送别蔡天凤画面曝光](https://www.baidu.com/s?wd=%E6%96%B9%E5%AA%9B%E9%80%81%E5%88%AB%E8%94%A1%E5%A4%A9%E5%87%A4%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [根植沙海的绿色梦](https://www.baidu.com/s?wd=%E6%A0%B9%E6%A4%8D%E6%B2%99%E6%B5%B7%E7%9A%84%E7%BB%BF%E8%89%B2%E6%A2%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [城管干部出轨女下属 双方均被停职](https://www.baidu.com/s?wd=%E5%9F%8E%E7%AE%A1%E5%B9%B2%E9%83%A8%E5%87%BA%E8%BD%A8%E5%A5%B3%E4%B8%8B%E5%B1%9E+%E5%8F%8C%E6%96%B9%E5%9D%87%E8%A2%AB%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [2023年或成为有记录以来最热一年](https://www.baidu.com/s?wd=2023%E5%B9%B4%E6%88%96%E6%88%90%E4%B8%BA%E6%9C%89%E8%AE%B0%E5%BD%95%E4%BB%A5%E6%9D%A5%E6%9C%80%E7%83%AD%E4%B8%80%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [2023年或成为有记录以来最热一年](https://www.baidu.com/s?wd=2023%E5%B9%B4%E6%88%96%E6%88%90%E4%B8%BA%E6%9C%89%E8%AE%B0%E5%BD%95%E4%BB%A5%E6%9D%A5%E6%9C%80%E7%83%AD%E4%B8%80%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [李强抵达柏林对德国进行正式访问](https://www.baidu.com/s?wd=%E6%9D%8E%E5%BC%BA%E6%8A%B5%E8%BE%BE%E6%9F%8F%E6%9E%97%E5%AF%B9%E5%BE%B7%E5%9B%BD%E8%BF%9B%E8%A1%8C%E6%AD%A3%E5%BC%8F%E8%AE%BF%E9%97%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [高技术制造业快速增长](https://www.baidu.com/s?wd=%E9%AB%98%E6%8A%80%E6%9C%AF%E5%88%B6%E9%80%A0%E4%B8%9A%E5%BF%AB%E9%80%9F%E5%A2%9E%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [外媒：中美外长会谈比原计划超1小时](https://www.baidu.com/s?wd=%E5%A4%96%E5%AA%92%EF%BC%9A%E4%B8%AD%E7%BE%8E%E5%A4%96%E9%95%BF%E4%BC%9A%E8%B0%88%E6%AF%94%E5%8E%9F%E8%AE%A1%E5%88%92%E8%B6%851%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [女子房子两年没住被邻居用衣柜封死](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%88%BF%E5%AD%90%E4%B8%A4%E5%B9%B4%E6%B2%A1%E4%BD%8F%E8%A2%AB%E9%82%BB%E5%B1%85%E7%94%A8%E8%A1%A3%E6%9F%9C%E5%B0%81%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子点30块外卖结果没了2000元](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%82%B930%E5%9D%97%E5%A4%96%E5%8D%96%E7%BB%93%E6%9E%9C%E6%B2%A1%E4%BA%862000%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [狗狗嫌天热自己坐电梯回家](https://www.baidu.com/s?wd=%E7%8B%97%E7%8B%97%E5%AB%8C%E5%A4%A9%E7%83%AD%E8%87%AA%E5%B7%B1%E5%9D%90%E7%94%B5%E6%A2%AF%E5%9B%9E%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中考生被老师要求弃考？南昌通报](https://www.baidu.com/s?wd=%E4%B8%AD%E8%80%83%E7%94%9F%E8%A2%AB%E8%80%81%E5%B8%88%E8%A6%81%E6%B1%82%E5%BC%83%E8%80%83%EF%BC%9F%E5%8D%97%E6%98%8C%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [男子点30块外卖结果没了2000元](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%82%B930%E5%9D%97%E5%A4%96%E5%8D%96%E7%BB%93%E6%9E%9C%E6%B2%A1%E4%BA%862000%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [狗狗嫌天热自己坐电梯回家](https://www.baidu.com/s?wd=%E7%8B%97%E7%8B%97%E5%AB%8C%E5%A4%A9%E7%83%AD%E8%87%AA%E5%B7%B1%E5%9D%90%E7%94%B5%E6%A2%AF%E5%9B%9E%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中考生被老师要求弃考？南昌通报](https://www.baidu.com/s?wd=%E4%B8%AD%E8%80%83%E7%94%9F%E8%A2%AB%E8%80%81%E5%B8%88%E8%A6%81%E6%B1%82%E5%BC%83%E8%80%83%EF%BC%9F%E5%8D%97%E6%98%8C%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [方媛送别蔡天凤画面曝光](https://www.baidu.com/s?wd=%E6%96%B9%E5%AA%9B%E9%80%81%E5%88%AB%E8%94%A1%E5%A4%A9%E5%87%A4%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
