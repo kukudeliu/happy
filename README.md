@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 11:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 11:29:01</h4></div>
 
 > 微博  
 
@@ -30,10 +30,10 @@
 2. [王毅与布林肯会面](https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E4%B8%8E%E5%B8%83%E6%9E%97%E8%82%AF%E4%BC%9A%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [中考生被老师要求弃考？南昌通报](https://www.baidu.com/s?wd=%E4%B8%AD%E8%80%83%E7%94%9F%E8%A2%AB%E8%80%81%E5%B8%88%E8%A6%81%E6%B1%82%E5%BC%83%E8%80%83%EF%BC%9F%E5%8D%97%E6%98%8C%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [高技术制造业快速增长](https://www.baidu.com/s?wd=%E9%AB%98%E6%8A%80%E6%9C%AF%E5%88%B6%E9%80%A0%E4%B8%9A%E5%BF%AB%E9%80%9F%E5%A2%9E%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [中美外长会谈10个细节很不寻常](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%A4%96%E9%95%BF%E4%BC%9A%E8%B0%8810%E4%B8%AA%E7%BB%86%E8%8A%82%E5%BE%88%E4%B8%8D%E5%AF%BB%E5%B8%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [本周仅上4天班](https://www.baidu.com/s?wd=%E6%9C%AC%E5%91%A8%E4%BB%85%E4%B8%8A4%E5%A4%A9%E7%8F%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子买蛋糕遇“空心包装刺客”](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B9%B0%E8%9B%8B%E7%B3%95%E9%81%87%E2%80%9C%E7%A9%BA%E5%BF%83%E5%8C%85%E8%A3%85%E5%88%BA%E5%AE%A2%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [李嘉诚现身礼佛获围观](https://www.baidu.com/s?wd=%E6%9D%8E%E5%98%89%E8%AF%9A%E7%8E%B0%E8%BA%AB%E7%A4%BC%E4%BD%9B%E8%8E%B7%E5%9B%B4%E8%A7%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [本周仅上4天班](https://www.baidu.com/s?wd=%E6%9C%AC%E5%91%A8%E4%BB%85%E4%B8%8A4%E5%A4%A9%E7%8F%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [女子买蛋糕遇“空心包装刺客”](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B9%B0%E8%9B%8B%E7%B3%95%E9%81%87%E2%80%9C%E7%A9%BA%E5%BF%83%E5%8C%85%E8%A3%85%E5%88%BA%E5%AE%A2%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [李嘉诚现身礼佛获围观](https://www.baidu.com/s?wd=%E6%9D%8E%E5%98%89%E8%AF%9A%E7%8E%B0%E8%BA%AB%E7%A4%BC%E4%BD%9B%E8%8E%B7%E5%9B%B4%E8%A7%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [保研女生向母校捐出全部奖学金](https://www.baidu.com/s?wd=%E4%BF%9D%E7%A0%94%E5%A5%B3%E7%94%9F%E5%90%91%E6%AF%8D%E6%A0%A1%E6%8D%90%E5%87%BA%E5%85%A8%E9%83%A8%E5%A5%96%E5%AD%A6%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“充电桩投资”骗局致6千人中招](https://www.baidu.com/s?wd=%E2%80%9C%E5%85%85%E7%94%B5%E6%A1%A9%E6%8A%95%E8%B5%84%E2%80%9D%E9%AA%97%E5%B1%80%E8%87%B46%E5%8D%83%E4%BA%BA%E4%B8%AD%E6%8B%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -42,8 +42,8 @@
 2. [王毅与布林肯会面](https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E4%B8%8E%E5%B8%83%E6%9E%97%E8%82%AF%E4%BC%9A%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [中考生被老师要求弃考？南昌通报](https://www.baidu.com/s?wd=%E4%B8%AD%E8%80%83%E7%94%9F%E8%A2%AB%E8%80%81%E5%B8%88%E8%A6%81%E6%B1%82%E5%BC%83%E8%80%83%EF%BC%9F%E5%8D%97%E6%98%8C%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [高技术制造业快速增长](https://www.baidu.com/s?wd=%E9%AB%98%E6%8A%80%E6%9C%AF%E5%88%B6%E9%80%A0%E4%B8%9A%E5%BF%AB%E9%80%9F%E5%A2%9E%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [中美外长会谈10个细节很不寻常](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%A4%96%E9%95%BF%E4%BC%9A%E8%B0%8810%E4%B8%AA%E7%BB%86%E8%8A%82%E5%BE%88%E4%B8%8D%E5%AF%BB%E5%B8%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [本周仅上4天班](https://www.baidu.com/s?wd=%E6%9C%AC%E5%91%A8%E4%BB%85%E4%B8%8A4%E5%A4%A9%E7%8F%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子买蛋糕遇“空心包装刺客”](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B9%B0%E8%9B%8B%E7%B3%95%E9%81%87%E2%80%9C%E7%A9%BA%E5%BF%83%E5%8C%85%E8%A3%85%E5%88%BA%E5%AE%A2%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [李嘉诚现身礼佛获围观](https://www.baidu.com/s?wd=%E6%9D%8E%E5%98%89%E8%AF%9A%E7%8E%B0%E8%BA%AB%E7%A4%BC%E4%BD%9B%E8%8E%B7%E5%9B%B4%E8%A7%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [本周仅上4天班](https://www.baidu.com/s?wd=%E6%9C%AC%E5%91%A8%E4%BB%85%E4%B8%8A4%E5%A4%A9%E7%8F%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [女子买蛋糕遇“空心包装刺客”](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B9%B0%E8%9B%8B%E7%B3%95%E9%81%87%E2%80%9C%E7%A9%BA%E5%BF%83%E5%8C%85%E8%A3%85%E5%88%BA%E5%AE%A2%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [李嘉诚现身礼佛获围观](https://www.baidu.com/s?wd=%E6%9D%8E%E5%98%89%E8%AF%9A%E7%8E%B0%E8%BA%AB%E7%A4%BC%E4%BD%9B%E8%8E%B7%E5%9B%B4%E8%A7%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [保研女生向母校捐出全部奖学金](https://www.baidu.com/s?wd=%E4%BF%9D%E7%A0%94%E5%A5%B3%E7%94%9F%E5%90%91%E6%AF%8D%E6%A0%A1%E6%8D%90%E5%87%BA%E5%85%A8%E9%83%A8%E5%A5%96%E5%AD%A6%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“充电桩投资”骗局致6千人中招](https://www.baidu.com/s?wd=%E2%80%9C%E5%85%85%E7%94%B5%E6%A1%A9%E6%8A%95%E8%B5%84%E2%80%9D%E9%AA%97%E5%B1%80%E8%87%B46%E5%8D%83%E4%BA%BA%E4%B8%AD%E6%8B%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
