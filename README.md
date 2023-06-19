@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 13:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 13:44:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [黄子佼信息炸裂](https://s.weibo.com/weibo?q=%E9%BB%84%E5%AD%90%E4%BD%BC%E4%BF%A1%E6%81%AF%E7%82%B8%E8%A3%82&t=31&band_rank=6&Refer=top)<br />
 7. [鼠头鸭脖涉事母公司经营700多个高校食堂](https://s.weibo.com/weibo?q=%23%E9%BC%A0%E5%A4%B4%E9%B8%AD%E8%84%96%E6%B6%89%E4%BA%8B%E6%AF%8D%E5%85%AC%E5%8F%B8%E7%BB%8F%E8%90%A5700%E5%A4%9A%E4%B8%AA%E9%AB%98%E6%A0%A1%E9%A3%9F%E5%A0%82%23&t=31&band_rank=7&Refer=top)<br />
 8. [马思纯扇巴掌戏被打到闭眼](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%80%9D%E7%BA%AF%E6%89%87%E5%B7%B4%E6%8E%8C%E6%88%8F%E8%A2%AB%E6%89%93%E5%88%B0%E9%97%AD%E7%9C%BC%23&t=31&band_rank=8&Refer=top)<br />
-9. [张杰演唱会现场喊话黄牛](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E7%8E%B0%E5%9C%BA%E5%96%8A%E8%AF%9D%E9%BB%84%E7%89%9B%23&t=31&band_rank=9&Refer=top)<br />
+9. [白敬亭吃醋不像演的](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%90%83%E9%86%8B%E4%B8%8D%E5%83%8F%E6%BC%94%E7%9A%84%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
