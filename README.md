@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 16:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 16:14:01</h4></div>
 
 > 微博  
 
 1. [黄子佼曝大小S吸毒](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E4%BD%BC%E6%9B%9D%E5%A4%A7%E5%B0%8FS%E5%90%B8%E6%AF%92%23&t=31&band_rank=1&Refer=top)<br />
 2. [虞书欣王鹤棣 二搭](https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%8E%8B%E9%B9%A4%E6%A3%A3%20%E4%BA%8C%E6%90%AD&t=31&band_rank=2&Refer=top)<br />
 3. [国内首座跨海高速铁路桥大片](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%86%85%E9%A6%96%E5%BA%A7%E8%B7%A8%E6%B5%B7%E9%AB%98%E9%80%9F%E9%93%81%E8%B7%AF%E6%A1%A5%E5%A4%A7%E7%89%87%23&t=31&band_rank=3&Refer=top)<br />
-4. [拍一部爆一部的演员](https://s.weibo.com/weibo?q=%23%E6%8B%8D%E4%B8%80%E9%83%A8%E7%88%86%E4%B8%80%E9%83%A8%E7%9A%84%E6%BC%94%E5%91%98%23&t=31&band_rank=4&Refer=top)<br />
-5. [警方确认女子房子被邻居打通使用](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E7%A1%AE%E8%AE%A4%E5%A5%B3%E5%AD%90%E6%88%BF%E5%AD%90%E8%A2%AB%E9%82%BB%E5%B1%85%E6%89%93%E9%80%9A%E4%BD%BF%E7%94%A8%23&t=31&band_rank=5&Refer=top)<br />
+4. [警方确认女子房子被邻居打通使用](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E7%A1%AE%E8%AE%A4%E5%A5%B3%E5%AD%90%E6%88%BF%E5%AD%90%E8%A2%AB%E9%82%BB%E5%B1%85%E6%89%93%E9%80%9A%E4%BD%BF%E7%94%A8%23&t=31&band_rank=4&Refer=top)<br />
+5. [拍一部爆一部的演员](https://s.weibo.com/weibo?q=%23%E6%8B%8D%E4%B8%80%E9%83%A8%E7%88%86%E4%B8%80%E9%83%A8%E7%9A%84%E6%BC%94%E5%91%98%23&t=31&band_rank=5&Refer=top)<br />
 6. [鼠头鸭脖涉事母公司经营700多个高校食堂](https://s.weibo.com/weibo?q=%23%E9%BC%A0%E5%A4%B4%E9%B8%AD%E8%84%96%E6%B6%89%E4%BA%8B%E6%AF%8D%E5%85%AC%E5%8F%B8%E7%BB%8F%E8%90%A5700%E5%A4%9A%E4%B8%AA%E9%AB%98%E6%A0%A1%E9%A3%9F%E5%A0%82%23&t=31&band_rank=6&Refer=top)<br />
 7. [张小斐首部女主电视剧](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%E9%A6%96%E9%83%A8%E5%A5%B3%E4%B8%BB%E7%94%B5%E8%A7%86%E5%89%A7%23&t=31&band_rank=7&Refer=top)<br />
 8. [Jennie巡演翻白眼](https://s.weibo.com/weibo?q=%23Jennie%E5%B7%A1%E6%BC%94%E7%BF%BB%E7%99%BD%E7%9C%BC%23&t=31&band_rank=8&Refer=top)<br />
-9. [蟑螂飞到耳朵里还咬出血](https://s.weibo.com/weibo?q=%23%E8%9F%91%E8%9E%82%E9%A3%9E%E5%88%B0%E8%80%B3%E6%9C%B5%E9%87%8C%E8%BF%98%E5%92%AC%E5%87%BA%E8%A1%80%23&t=31&band_rank=9&Refer=top)<br />
+9. [星宇道歉](https://s.weibo.com/weibo?q=%23%E6%98%9F%E5%AE%87%E9%81%93%E6%AD%89%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
