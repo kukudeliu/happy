@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 11:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 11:45:01</h4></div>
 
 > 微博  
 
@@ -8,18 +8,18 @@
 4. [马思纯扇巴掌戏被打到闭眼](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%80%9D%E7%BA%AF%E6%89%87%E5%B7%B4%E6%8E%8C%E6%88%8F%E8%A2%AB%E6%89%93%E5%88%B0%E9%97%AD%E7%9C%BC%23&t=31&band_rank=4&Refer=top)<br />
 5. [沙溢胡可情头](https://s.weibo.com/weibo?q=%23%E6%B2%99%E6%BA%A2%E8%83%A1%E5%8F%AF%E6%83%85%E5%A4%B4%23&t=31&band_rank=5&Refer=top)<br />
 6. [幼师拍小朋友房车钱视频引争议](https://s.weibo.com/weibo?q=%23%E5%B9%BC%E5%B8%88%E6%8B%8D%E5%B0%8F%E6%9C%8B%E5%8F%8B%E6%88%BF%E8%BD%A6%E9%92%B1%E8%A7%86%E9%A2%91%E5%BC%95%E4%BA%89%E8%AE%AE%23&t=31&band_rank=6&Refer=top)<br />
-7. [南京小龙虾卖100块一只值吗](https://s.weibo.com/weibo?q=%E5%8D%97%E4%BA%AC%E5%B0%8F%E9%BE%99%E8%99%BE%E5%8D%96100%E5%9D%97%E4%B8%80%E5%8F%AA%E5%80%BC%E5%90%97&t=31&band_rank=7&Refer=top)<br />
-8. [张杰演唱会现场喊话黄牛](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E7%8E%B0%E5%9C%BA%E5%96%8A%E8%AF%9D%E9%BB%84%E7%89%9B%23&t=31&band_rank=8&Refer=top)<br />
-9. [为什么推荐6月21日提离职](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%8E%A8%E8%8D%906%E6%9C%8821%E6%97%A5%E6%8F%90%E7%A6%BB%E8%81%8C%23&t=31&band_rank=9&Refer=top)<br />
+7. [为什么推荐6月21日提离职](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%8E%A8%E8%8D%906%E6%9C%8821%E6%97%A5%E6%8F%90%E7%A6%BB%E8%81%8C%23&t=31&band_rank=7&Refer=top)<br />
+8. [南京小龙虾卖100块一只值吗](https://s.weibo.com/weibo?q=%E5%8D%97%E4%BA%AC%E5%B0%8F%E9%BE%99%E8%99%BE%E5%8D%96100%E5%9D%97%E4%B8%80%E5%8F%AA%E5%80%BC%E5%90%97&t=31&band_rank=8&Refer=top)<br />
+9. [张杰演唱会现场喊话黄牛](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E7%8E%B0%E5%9C%BA%E5%96%8A%E8%AF%9D%E9%BB%84%E7%89%9B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [为什么网文 100 多万字看下来都不累，名著五六十万字就感觉信息量很大？](https://www.zhihu.com/question/598446077)<br />
 2. [葡萄牙球迷冲入球场抱起 C 罗，下跪致敬并模仿 C 罗庆祝动作，C 罗微笑回应，如何看待这样的行为？](https://www.zhihu.com/question/607278541)<br />
-3. [为什么小龙女和杨过不能好好在一起，是因为世俗的反对还是形势的逼迫呢？](https://www.zhihu.com/question/605615780)<br />
+3. [为什么 2023 年的 BLG 怎么打都打不过 JDG？](https://www.zhihu.com/question/607326596)<br />
 4. [妈妈今天跟我说别和她讲平等，她从生我开始就比我高一等这样对吗？](https://www.zhihu.com/question/606630311)<br />
 5. [秦刚同美国国务卿布林肯举行会谈，哪些信息值得关注？](https://www.zhihu.com/question/607356662)<br />
-6. [为什么 2023 年的 BLG 怎么打都打不过 JDG？](https://www.zhihu.com/question/607326596)<br />
+6. [为什么小龙女和杨过不能好好在一起，是因为世俗的反对还是形势的逼迫呢？](https://www.zhihu.com/question/605615780)<br />
 7. [电脑硬件厂商的名字为什么都怪怪的？](https://www.zhihu.com/question/606155778)<br />
 8. [假如我有 10 万元，放在股市里面去炒，只求每个星期 2 个点的收益，每个月就是 8000 元，你觉得现实嘛？](https://www.zhihu.com/question/606869857)<br />
 9. [大学什么专业最累？什么专业最清闲？](https://www.zhihu.com/question/267634840)<br />
