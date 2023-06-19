@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 17:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 17:51:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [演唱会座位脏](https://s.weibo.com/weibo?q=%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BA%A7%E4%BD%8D%E8%84%8F&t=31&band_rank=4&Refer=top)<br />
 5. [布林肯访华](https://s.weibo.com/weibo?q=%23%E5%B8%83%E6%9E%97%E8%82%AF%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=5&Refer=top)<br />
 6. [黄子佼曝大小S吸毒](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E4%BD%BC%E6%9B%9D%E5%A4%A7%E5%B0%8FS%E5%90%B8%E6%AF%92%23&t=31&band_rank=6&Refer=top)<br />
-7. [石矶娘娘来了也穿不了](https://s.weibo.com/weibo?q=%23%E7%9F%B3%E7%9F%B6%E5%A8%98%E5%A8%98%E6%9D%A5%E4%BA%86%E4%B9%9F%E7%A9%BF%E4%B8%8D%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [庆余年](https://s.weibo.com/weibo?q=%E5%BA%86%E4%BD%99%E5%B9%B4&t=31&band_rank=8&Refer=top)<br />
+7. [庆余年](https://s.weibo.com/weibo?q=%E5%BA%86%E4%BD%99%E5%B9%B4&t=31&band_rank=7&Refer=top)<br />
+8. [石矶娘娘来了也穿不了](https://s.weibo.com/weibo?q=%23%E7%9F%B3%E7%9F%B6%E5%A8%98%E5%A8%98%E6%9D%A5%E4%BA%86%E4%B9%9F%E7%A9%BF%E4%B8%8D%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [拍一部爆一部的演员](https://s.weibo.com/weibo?q=%23%E6%8B%8D%E4%B8%80%E9%83%A8%E7%88%86%E4%B8%80%E9%83%A8%E7%9A%84%E6%BC%94%E5%91%98%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -20,8 +20,8 @@
 4. [给你五百万，但是强制让你把一个婴儿抚养到 25 岁，你愿意吗？](https://www.zhihu.com/question/606809108)<br />
 5. [厦大新闻学教授谈张雪峰言论，称「值得反思却不要轻信他的结论」，新闻学真的变成了天坑专业吗？](https://www.zhihu.com/question/607414331)<br />
 6. [黄子佼曝大小 S 具俊晔嗑药，称自己也被硬塞过数次，如何看待此事？](https://www.zhihu.com/question/607436138)<br />
-7. [如何评价白敬亭、宋轶主演的电视剧《长风渡》？](https://www.zhihu.com/question/607305319)<br />
-8. [为什么影视剧里面买菜都是芹菜?](https://www.zhihu.com/question/596555855)<br />
+7. [「鼠头鸭脖」涉事企业为江西中快，母公司经营全国七百余个高校食堂，自称营收规模直逼海底捞，透露哪些信息？](https://www.zhihu.com/question/607420919)<br />
+8. [如何评价白敬亭、宋轶主演的电视剧《长风渡》？](https://www.zhihu.com/question/607305319)<br />
 9. [跨省存款火了「存款 50 万，五年下来差价 5000 元」，哪些信息值得关注？存款利率会继续下调吗？](https://www.zhihu.com/question/607269709)<br />
 
 > 百度  
