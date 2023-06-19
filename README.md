@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 12:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 12:21:01</h4></div>
 
 > 微博  
 
@@ -19,8 +19,8 @@
 3. [大学什么专业最累？什么专业最清闲？](https://www.zhihu.com/question/267634840)<br />
 4. [秦刚同美国国务卿布林肯举行会谈，哪些信息值得关注？](https://www.zhihu.com/question/607356662)<br />
 5. [妈妈今天跟我说别和她讲平等，她从生我开始就比我高一等这样对吗？](https://www.zhihu.com/question/606630311)<br />
-6. [王石表示「房地产市场不是结束了，而是刚开始」，如何看待这一观点？房地产行业未来发展趋势如何？](https://www.zhihu.com/question/607336662)<br />
-7. []()<br />
+6. []()<br />
+7. [阿狸和艾希谁才是真正的「刮痧女王」？](https://www.zhihu.com/question/577101438)<br />
 8. [葡萄牙球迷冲入球场抱起 C 罗，下跪致敬并模仿 C 罗庆祝动作，C 罗微笑回应，如何看待这样的行为？](https://www.zhihu.com/question/607278541)<br />
 9. [假如我有 10 万元，放在股市里面去炒，只求每个星期 2 个点的收益，每个月就是 8000 元，你觉得现实嘛？](https://www.zhihu.com/question/606869857)<br />
 
@@ -32,9 +32,9 @@
 4. [高技术制造业快速增长](https://www.baidu.com/s?wd=%E9%AB%98%E6%8A%80%E6%9C%AF%E5%88%B6%E9%80%A0%E4%B8%9A%E5%BF%AB%E9%80%9F%E5%A2%9E%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [王毅与布林肯会面](https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E4%B8%8E%E5%B8%83%E6%9E%97%E8%82%AF%E4%BC%9A%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [林心如首回应周杰伸舌事件](https://www.baidu.com/s?wd=%E6%9E%97%E5%BF%83%E5%A6%82%E9%A6%96%E5%9B%9E%E5%BA%94%E5%91%A8%E6%9D%B0%E4%BC%B8%E8%88%8C%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [鼠头鸭脖涉事企业经营700多个食堂](https://www.baidu.com/s?wd=%E9%BC%A0%E5%A4%B4%E9%B8%AD%E8%84%96%E6%B6%89%E4%BA%8B%E4%BC%81%E4%B8%9A%E7%BB%8F%E8%90%A5700%E5%A4%9A%E4%B8%AA%E9%A3%9F%E5%A0%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [外卖员偷吃顾客鸡腿被拍下](https://www.baidu.com/s?wd=%E5%A4%96%E5%8D%96%E5%91%98%E5%81%B7%E5%90%83%E9%A1%BE%E5%AE%A2%E9%B8%A1%E8%85%BF%E8%A2%AB%E6%8B%8D%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [历史上乘风破浪的姐姐们](https://www.baidu.com/s?wd=%E5%8E%86%E5%8F%B2%E4%B8%8A%E4%B9%98%E9%A3%8E%E7%A0%B4%E6%B5%AA%E7%9A%84%E5%A7%90%E5%A7%90%E4%BB%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [外卖员偷吃顾客鸡腿被拍下](https://www.baidu.com/s?wd=%E5%A4%96%E5%8D%96%E5%91%98%E5%81%B7%E5%90%83%E9%A1%BE%E5%AE%A2%E9%B8%A1%E8%85%BF%E8%A2%AB%E6%8B%8D%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [鼠头鸭脖涉事企业经营700多个食堂](https://www.baidu.com/s?wd=%E9%BC%A0%E5%A4%B4%E9%B8%AD%E8%84%96%E6%B6%89%E4%BA%8B%E4%BC%81%E4%B8%9A%E7%BB%8F%E8%90%A5700%E5%A4%9A%E4%B8%AA%E9%A3%9F%E5%A0%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [高技术制造业快速增长](https://www.baidu.com/s?wd=%E9%AB%98%E6%8A%80%E6%9C%AF%E5%88%B6%E9%80%A0%E4%B8%9A%E5%BF%AB%E9%80%9F%E5%A2%9E%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [王毅与布林肯会面](https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E4%B8%8E%E5%B8%83%E6%9E%97%E8%82%AF%E4%BC%9A%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [林心如首回应周杰伸舌事件](https://www.baidu.com/s?wd=%E6%9E%97%E5%BF%83%E5%A6%82%E9%A6%96%E5%9B%9E%E5%BA%94%E5%91%A8%E6%9D%B0%E4%BC%B8%E8%88%8C%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [鼠头鸭脖涉事企业经营700多个食堂](https://www.baidu.com/s?wd=%E9%BC%A0%E5%A4%B4%E9%B8%AD%E8%84%96%E6%B6%89%E4%BA%8B%E4%BC%81%E4%B8%9A%E7%BB%8F%E8%90%A5700%E5%A4%9A%E4%B8%AA%E9%A3%9F%E5%A0%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [外卖员偷吃顾客鸡腿被拍下](https://www.baidu.com/s?wd=%E5%A4%96%E5%8D%96%E5%91%98%E5%81%B7%E5%90%83%E9%A1%BE%E5%AE%A2%E9%B8%A1%E8%85%BF%E8%A2%AB%E6%8B%8D%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [历史上乘风破浪的姐姐们](https://www.baidu.com/s?wd=%E5%8E%86%E5%8F%B2%E4%B8%8A%E4%B9%98%E9%A3%8E%E7%A0%B4%E6%B5%AA%E7%9A%84%E5%A7%90%E5%A7%90%E4%BB%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [外卖员偷吃顾客鸡腿被拍下](https://www.baidu.com/s?wd=%E5%A4%96%E5%8D%96%E5%91%98%E5%81%B7%E5%90%83%E9%A1%BE%E5%AE%A2%E9%B8%A1%E8%85%BF%E8%A2%AB%E6%8B%8D%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [鼠头鸭脖涉事企业经营700多个食堂](https://www.baidu.com/s?wd=%E9%BC%A0%E5%A4%B4%E9%B8%AD%E8%84%96%E6%B6%89%E4%BA%8B%E4%BC%81%E4%B8%9A%E7%BB%8F%E8%90%A5700%E5%A4%9A%E4%B8%AA%E9%A3%9F%E5%A0%82&sa=fyb_news&rsv_dl=fyb_news)<br />
