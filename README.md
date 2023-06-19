@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 10:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 10:28:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [肖战赵丽颖正剧苗子](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%AD%A3%E5%89%A7%E8%8B%97%E5%AD%90%23&t=31&band_rank=5&Refer=top)<br />
 6. [白敬亭想改的名字都被注册了](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E6%83%B3%E6%94%B9%E7%9A%84%E5%90%8D%E5%AD%97%E9%83%BD%E8%A2%AB%E6%B3%A8%E5%86%8C%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [鹿晗金色脏辫](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E9%87%91%E8%89%B2%E8%84%8F%E8%BE%AB%23&t=31&band_rank=7&Refer=top)<br />
-8. [南宁地铁推倒女站务员男子已被行拘](https://s.weibo.com/weibo?q=%23%E5%8D%97%E5%AE%81%E5%9C%B0%E9%93%81%E6%8E%A8%E5%80%92%E5%A5%B3%E7%AB%99%E5%8A%A1%E5%91%98%E7%94%B7%E5%AD%90%E5%B7%B2%E8%A2%AB%E8%A1%8C%E6%8B%98%23&t=31&band_rank=8&Refer=top)<br />
-9. [王阳用口红在秦岚脸上留号码](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%98%B3%E7%94%A8%E5%8F%A3%E7%BA%A2%E5%9C%A8%E7%A7%A6%E5%B2%9A%E8%84%B8%E4%B8%8A%E7%95%99%E5%8F%B7%E7%A0%81%23&t=31&band_rank=9&Refer=top)<br />
+8. [王阳用口红在秦岚脸上留号码](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%98%B3%E7%94%A8%E5%8F%A3%E7%BA%A2%E5%9C%A8%E7%A7%A6%E5%B2%9A%E8%84%B8%E4%B8%8A%E7%95%99%E5%8F%B7%E7%A0%81%23&t=31&band_rank=8&Refer=top)<br />
+9. [南宁地铁推倒女站务员男子已被行拘](https://s.weibo.com/weibo?q=%23%E5%8D%97%E5%AE%81%E5%9C%B0%E9%93%81%E6%8E%A8%E5%80%92%E5%A5%B3%E7%AB%99%E5%8A%A1%E5%91%98%E7%94%B7%E5%AD%90%E5%B7%B2%E8%A2%AB%E8%A1%8C%E6%8B%98%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
