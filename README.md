@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 17:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 17:20:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [调查称53.7%年轻人存款不足10万](https://s.weibo.com/weibo?q=%23%E8%B0%83%E6%9F%A5%E7%A7%B053.7%25%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%AD%98%E6%AC%BE%E4%B8%8D%E8%B6%B310%E4%B8%87%23&t=31&band_rank=5&Refer=top)<br />
 6. [拍一部爆一部的演员](https://s.weibo.com/weibo?q=%23%E6%8B%8D%E4%B8%80%E9%83%A8%E7%88%86%E4%B8%80%E9%83%A8%E7%9A%84%E6%BC%94%E5%91%98%23&t=31&band_rank=6&Refer=top)<br />
 7. [布林肯](https://s.weibo.com/weibo?q=%E5%B8%83%E6%9E%97%E8%82%AF&t=31&band_rank=7&Refer=top)<br />
-8. [虞书欣王鹤棣 二搭](https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%8E%8B%E9%B9%A4%E6%A3%A3%20%E4%BA%8C%E6%90%AD&t=31&band_rank=8&Refer=top)<br />
-9. [张小斐首部女主电视剧](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%E9%A6%96%E9%83%A8%E5%A5%B3%E4%B8%BB%E7%94%B5%E8%A7%86%E5%89%A7%23&t=31&band_rank=9&Refer=top)<br />
+8. [张小斐首部女主电视剧](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%E9%A6%96%E9%83%A8%E5%A5%B3%E4%B8%BB%E7%94%B5%E8%A7%86%E5%89%A7%23&t=31&band_rank=8&Refer=top)<br />
+9. [虞书欣王鹤棣 二搭](https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%8E%8B%E9%B9%A4%E6%A3%A3%20%E4%BA%8C%E6%90%AD&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
