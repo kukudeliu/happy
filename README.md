@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 01:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 01:42:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [为什么北京烤鸭出名靠鸭子，换成鸡的做法就不行了吗？](https://www.zhihu.com/question/606620975)<br />
 7. [黄子佼曝大小 S 具俊晔嗑药，大 S 工作室回应称「她心脏不好不能接触毒品」，真实情况如何，该如何看待？](https://www.zhihu.com/question/607436138)<br />
 8. [有哪些推荐给年轻人的车？](https://www.zhihu.com/question/351728964)<br />
-9. [你听到过最孤独的古诗词是什么？](https://www.zhihu.com/question/607251140)<br />
+9. [数学专业就业怎么样？](https://www.zhihu.com/question/417946780)<br />
 
 > 百度  
 
