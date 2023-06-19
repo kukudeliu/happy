@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 21:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 21:10:01</h4></div>
 
 > 微博  
 
-1. [庆余年2官宣阵容](https://s.weibo.com/weibo?q=%E5%BA%86%E4%BD%99%E5%B9%B42%E5%AE%98%E5%AE%A3%E9%98%B5%E5%AE%B9&t=31&band_rank=1&Refer=top)<br />
-2. [朱一龙爸爸](https://s.weibo.com/weibo?q=%E6%9C%B1%E4%B8%80%E9%BE%99%E7%88%B8%E7%88%B8&t=31&band_rank=2&Refer=top)<br />
+1. [朱一龙爸爸](https://s.weibo.com/weibo?q=%E6%9C%B1%E4%B8%80%E9%BE%99%E7%88%B8%E7%88%B8&t=31&band_rank=1&Refer=top)<br />
+2. [庆余年2官宣阵容](https://s.weibo.com/weibo?q=%E5%BA%86%E4%BD%99%E5%B9%B42%E5%AE%98%E5%AE%A3%E9%98%B5%E5%AE%B9&t=31&band_rank=2&Refer=top)<br />
 3. [高质量发展调研行](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E8%B0%83%E7%A0%94%E8%A1%8C%23&t=31&band_rank=3&Refer=top)<br />
 4. [五星红旗被捆绑酒店连说10句对不起](https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%98%9F%E7%BA%A2%E6%97%97%E8%A2%AB%E6%8D%86%E7%BB%91%E9%85%92%E5%BA%97%E8%BF%9E%E8%AF%B410%E5%8F%A5%E5%AF%B9%E4%B8%8D%E8%B5%B7%23&t=31&band_rank=4&Refer=top)<br />
 5. [王源回应妈妈进不去自己的演唱会](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E5%9B%9E%E5%BA%94%E5%A6%88%E5%A6%88%E8%BF%9B%E4%B8%8D%E5%8E%BB%E8%87%AA%E5%B7%B1%E7%9A%84%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=5&Refer=top)<br />
