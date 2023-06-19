@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 04:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 04:46:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [为了写小说，你付出了多少努力？](https://www.zhihu.com/question/301337248)<br />
 7. [黄子佼曝大小 S 具俊晔嗑药，大 S 工作室回应称「她心脏不好不能接触毒品」，真实情况如何，该如何看待？](https://www.zhihu.com/question/607436138)<br />
 8. [科研圈里，为什么一些学科的女教授尤其少？](https://www.zhihu.com/question/27404441)<br />
-9. [女子花 52 元取鱼刺称「医院赚大钱」被怼，你对该事件有哪些看法？](https://www.zhihu.com/question/607346880)<br />
+9. []()<br />
 
 > 百度  
 
