@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 09:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 09:22:01</h4></div>
 
 > 微博  
 
@@ -7,20 +7,20 @@
 3. [三夏农忙正当时](https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%A4%8F%E5%86%9C%E5%BF%99%E6%AD%A3%E5%BD%93%E6%97%B6%23&t=31&band_rank=3&Refer=top)<br />
 4. [肖战赵丽颖正剧苗子](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%AD%A3%E5%89%A7%E8%8B%97%E5%AD%90%23&t=31&band_rank=4&Refer=top)<br />
 5. [南宁地铁推倒女站务员男子已被行拘](https://s.weibo.com/weibo?q=%23%E5%8D%97%E5%AE%81%E5%9C%B0%E9%93%81%E6%8E%A8%E5%80%92%E5%A5%B3%E7%AB%99%E5%8A%A1%E5%91%98%E7%94%B7%E5%AD%90%E5%B7%B2%E8%A2%AB%E8%A1%8C%E6%8B%98%23&t=31&band_rank=5&Refer=top)<br />
-6. [鹿晗金色脏辫](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E9%87%91%E8%89%B2%E8%84%8F%E8%BE%AB%23&t=31&band_rank=6&Refer=top)<br />
-7. [白敬亭宋轶对视没有技巧全是感情](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6%E5%AF%B9%E8%A7%86%E6%B2%A1%E6%9C%89%E6%8A%80%E5%B7%A7%E5%85%A8%E6%98%AF%E6%84%9F%E6%83%85%23&t=31&band_rank=7&Refer=top)<br />
-8. [真的别再关灯玩手机了](https://s.weibo.com/weibo?q=%23%E7%9C%9F%E7%9A%84%E5%88%AB%E5%86%8D%E5%85%B3%E7%81%AF%E7%8E%A9%E6%89%8B%E6%9C%BA%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [王阳用口红在秦岚脸上留号码](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%98%B3%E7%94%A8%E5%8F%A3%E7%BA%A2%E5%9C%A8%E7%A7%A6%E5%B2%9A%E8%84%B8%E4%B8%8A%E7%95%99%E5%8F%B7%E7%A0%81%23&t=31&band_rank=9&Refer=top)<br />
+6. [白敬亭想改的名字都被注册了](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E6%83%B3%E6%94%B9%E7%9A%84%E5%90%8D%E5%AD%97%E9%83%BD%E8%A2%AB%E6%B3%A8%E5%86%8C%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
+7. [鹿晗金色脏辫](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E9%87%91%E8%89%B2%E8%84%8F%E8%BE%AB%23&t=31&band_rank=7&Refer=top)<br />
+8. [白敬亭宋轶对视没有技巧全是感情](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6%E5%AF%B9%E8%A7%86%E6%B2%A1%E6%9C%89%E6%8A%80%E5%B7%A7%E5%85%A8%E6%98%AF%E6%84%9F%E6%83%85%23&t=31&band_rank=8&Refer=top)<br />
+9. [真的别再关灯玩手机了](https://s.weibo.com/weibo?q=%23%E7%9C%9F%E7%9A%84%E5%88%AB%E5%86%8D%E5%85%B3%E7%81%AF%E7%8E%A9%E6%89%8B%E6%9C%BA%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [为什么网文 100 多万字看下来都不累，名著五六十万字就感觉信息量很大？](https://www.zhihu.com/question/598446077)<br />
 2. [韩媒称「调查孙准浩的中国警方已收到批捕文件，将深入调查」，如何看待此事？后续进展如何？](https://www.zhihu.com/question/605029126)<br />
-3. [你会介意你的猫不是品种猫吗？](https://www.zhihu.com/question/413441565)<br />
+3. [葡萄牙球迷冲入球场抱起 C 罗，下跪致敬并模仿 C 罗庆祝动作，C 罗微笑回应，如何看待这样的行为？](https://www.zhihu.com/question/607278541)<br />
 4. [秦刚同美国国务卿布林肯举行会谈，哪些信息值得关注？](https://www.zhihu.com/question/607356662)<br />
-5. [如果赵构信任岳飞，将大权托付给他，宋朝能灭掉女真吗？](https://www.zhihu.com/question/588618893)<br />
+5. [你会介意你的猫不是品种猫吗？](https://www.zhihu.com/question/413441565)<br />
 6. [拉夫罗夫称当俄特别军事行动目标达成后，将迎来一个不一样的世界，西方主导的全球化将不复存在，如何解读？](https://www.zhihu.com/question/607148983)<br />
-7. []()<br />
+7. [如果赵构信任岳飞，将大权托付给他，宋朝能灭掉女真吗？](https://www.zhihu.com/question/588618893)<br />
 8. []()<br />
 9. []()<br />
 
