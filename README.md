@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 14:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 14:49:01</h4></div>
 
 > 微博  
 
@@ -6,20 +6,20 @@
 2. [黄子佼承认性骚扰](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E4%BD%BC%E6%89%BF%E8%AE%A4%E6%80%A7%E9%AA%9A%E6%89%B0%23&t=31&band_rank=2&Refer=top)<br />
 3. [国内首座跨海高速铁路桥大片](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%86%85%E9%A6%96%E5%BA%A7%E8%B7%A8%E6%B5%B7%E9%AB%98%E9%80%9F%E9%93%81%E8%B7%AF%E6%A1%A5%E5%A4%A7%E7%89%87%23&t=31&band_rank=3&Refer=top)<br />
 4. [拍一部爆一部的演员](https://s.weibo.com/weibo?q=%23%E6%8B%8D%E4%B8%80%E9%83%A8%E7%88%86%E4%B8%80%E9%83%A8%E7%9A%84%E6%BC%94%E5%91%98%23&t=31&band_rank=4&Refer=top)<br />
-5. [张小斐首部女主电视剧](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%E9%A6%96%E9%83%A8%E5%A5%B3%E4%B8%BB%E7%94%B5%E8%A7%86%E5%89%A7%23&t=31&band_rank=5&Refer=top)<br />
+5. [虞书欣王鹤棣 二搭](https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%8E%8B%E9%B9%A4%E6%A3%A3%20%E4%BA%8C%E6%90%AD&t=31&band_rank=5&Refer=top)<br />
 6. [鼠头鸭脖涉事母公司经营700多个高校食堂](https://s.weibo.com/weibo?q=%23%E9%BC%A0%E5%A4%B4%E9%B8%AD%E8%84%96%E6%B6%89%E4%BA%8B%E6%AF%8D%E5%85%AC%E5%8F%B8%E7%BB%8F%E8%90%A5700%E5%A4%9A%E4%B8%AA%E9%AB%98%E6%A0%A1%E9%A3%9F%E5%A0%82%23&t=31&band_rank=6&Refer=top)<br />
-7. [虞书欣王鹤棣 二搭](https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%8E%8B%E9%B9%A4%E6%A3%A3%20%E4%BA%8C%E6%90%AD&t=31&band_rank=7&Refer=top)<br />
+7. [张小斐首部女主电视剧](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%E9%A6%96%E9%83%A8%E5%A5%B3%E4%B8%BB%E7%94%B5%E8%A7%86%E5%89%A7%23&t=31&band_rank=7&Refer=top)<br />
 8. [猎罪图鉴2来了](https://s.weibo.com/weibo?q=%23%E7%8C%8E%E7%BD%AA%E5%9B%BE%E9%89%B42%E6%9D%A5%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [警方确认女子房子被邻居打通使用](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E7%A1%AE%E8%AE%A4%E5%A5%B3%E5%AD%90%E6%88%BF%E5%AD%90%E8%A2%AB%E9%82%BB%E5%B1%85%E6%89%93%E9%80%9A%E4%BD%BF%E7%94%A8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [高中同学 29 岁就成了顶尖 985 的副教授，看看普通的自己，会有什么想法？](https://www.zhihu.com/question/586589709)<br />
-2. [妈妈今天跟我说别和她讲平等，她从生我开始就比我高一等这样对吗？](https://www.zhihu.com/question/606630311)<br />
+2. [胡兵 50 万积分被东航清零，沟通维权未果，并表示「对方态度巨差无比」，哪些信息值得关注？](https://www.zhihu.com/question/607320882)<br />
 3. [韩国首尔市 7 月起对学校供餐进行全面辐射检测，说明了什么问题？日本辐射可能会有哪些危害？](https://www.zhihu.com/question/607160207)<br />
-4. [假如我有 10 万元，放在股市里面去炒，只求每个星期 2 个点的收益，每个月就是 8000 元，你觉得现实嘛？](https://www.zhihu.com/question/606869857)<br />
-5. [秦刚同美国国务卿布林肯举行会谈，哪些信息值得关注？](https://www.zhihu.com/question/607356662)<br />
-6. [胡兵 50 万积分被东航清零，沟通维权未果，并表示「对方态度巨差无比」，哪些信息值得关注？](https://www.zhihu.com/question/607320882)<br />
+4. [妈妈今天跟我说别和她讲平等，她从生我开始就比我高一等这样对吗？](https://www.zhihu.com/question/606630311)<br />
+5. [假如我有 10 万元，放在股市里面去炒，只求每个星期 2 个点的收益，每个月就是 8000 元，你觉得现实嘛？](https://www.zhihu.com/question/606869857)<br />
+6. [秦刚同美国国务卿布林肯举行会谈，哪些信息值得关注？](https://www.zhihu.com/question/607356662)<br />
 7. [为什么网文 100 多万字看下来都不累，名著五六十万字就感觉信息量很大？](https://www.zhihu.com/question/598446077)<br />
 8. [王石表示「房地产市场不是结束了，而是刚开始」，如何看待这一观点？房地产行业未来发展趋势如何？](https://www.zhihu.com/question/607336662)<br />
 9. [如何评价《崩坏：星穹铁道》游戏角色「银狼」黑进服务器赠送玩家体力这一整活行为？](https://www.zhihu.com/question/607132743)<br />
