@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 09:03:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 09:04:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [真的别再关灯玩手机了](https://s.weibo.com/weibo?q=%23%E7%9C%9F%E7%9A%84%E5%88%AB%E5%86%8D%E5%85%B3%E7%81%AF%E7%8E%A9%E6%89%8B%E6%9C%BA%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [肖战赵丽颖正剧苗子](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%AD%A3%E5%89%A7%E8%8B%97%E5%AD%90%23&t=31&band_rank=6&Refer=top)<br />
 7. [鹿晗金色脏辫](https://s.weibo.com/weibo?q=%E9%B9%BF%E6%99%97%E9%87%91%E8%89%B2%E8%84%8F%E8%BE%AB&t=31&band_rank=7&Refer=top)<br />
-8. [女孩撞上食客被烫伤食客有责任吗](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E6%92%9E%E4%B8%8A%E9%A3%9F%E5%AE%A2%E8%A2%AB%E7%83%AB%E4%BC%A4%E9%A3%9F%E5%AE%A2%E6%9C%89%E8%B4%A3%E4%BB%BB%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [白敬亭宋轶对视没有技巧全是感情](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6%E5%AF%B9%E8%A7%86%E6%B2%A1%E6%9C%89%E6%8A%80%E5%B7%A7%E5%85%A8%E6%98%AF%E6%84%9F%E6%83%85%23&t=31&band_rank=9&Refer=top)<br />
+8. [白敬亭宋轶对视没有技巧全是感情](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6%E5%AF%B9%E8%A7%86%E6%B2%A1%E6%9C%89%E6%8A%80%E5%B7%A7%E5%85%A8%E6%98%AF%E6%84%9F%E6%83%85%23&t=31&band_rank=8&Refer=top)<br />
+9. [女孩撞上食客被烫伤食客有责任吗](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E6%92%9E%E4%B8%8A%E9%A3%9F%E5%AE%A2%E8%A2%AB%E7%83%AB%E4%BC%A4%E9%A3%9F%E5%AE%A2%E6%9C%89%E8%B4%A3%E4%BB%BB%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -34,7 +34,7 @@
 6. [女子房子两年没住被邻居用衣柜封死](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%88%BF%E5%AD%90%E4%B8%A4%E5%B9%B4%E6%B2%A1%E4%BD%8F%E8%A2%AB%E9%82%BB%E5%B1%85%E7%94%A8%E8%A1%A3%E6%9F%9C%E5%B0%81%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [95后谎称39岁交往12个女友骗56万](https://www.baidu.com/s?wd=95%E5%90%8E%E8%B0%8E%E7%A7%B039%E5%B2%81%E4%BA%A4%E5%BE%8012%E4%B8%AA%E5%A5%B3%E5%8F%8B%E9%AA%9756%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [中考生被老师要求弃考？南昌通报](https://www.baidu.com/s?wd=%E4%B8%AD%E8%80%83%E7%94%9F%E8%A2%AB%E8%80%81%E5%B8%88%E8%A6%81%E6%B1%82%E5%BC%83%E8%80%83%EF%BC%9F%E5%8D%97%E6%98%8C%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [方媛送别蔡天凤画面曝光](https://www.baidu.com/s?wd=%E6%96%B9%E5%AA%9B%E9%80%81%E5%88%AB%E8%94%A1%E5%A4%A9%E5%87%A4%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [贵阳暴雨地铁“喷水池”站成喷水池](https://www.baidu.com/s?wd=%E8%B4%B5%E9%98%B3%E6%9A%B4%E9%9B%A8%E5%9C%B0%E9%93%81%E2%80%9C%E5%96%B7%E6%B0%B4%E6%B1%A0%E2%80%9D%E7%AB%99%E6%88%90%E5%96%B7%E6%B0%B4%E6%B1%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [女子房子两年没住被邻居用衣柜封死](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%88%BF%E5%AD%90%E4%B8%A4%E5%B9%B4%E6%B2%A1%E4%BD%8F%E8%A2%AB%E9%82%BB%E5%B1%85%E7%94%A8%E8%A1%A3%E6%9F%9C%E5%B0%81%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [95后谎称39岁交往12个女友骗56万](https://www.baidu.com/s?wd=95%E5%90%8E%E8%B0%8E%E7%A7%B039%E5%B2%81%E4%BA%A4%E5%BE%8012%E4%B8%AA%E5%A5%B3%E5%8F%8B%E9%AA%9756%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [中考生被老师要求弃考？南昌通报](https://www.baidu.com/s?wd=%E4%B8%AD%E8%80%83%E7%94%9F%E8%A2%AB%E8%80%81%E5%B8%88%E8%A6%81%E6%B1%82%E5%BC%83%E8%80%83%EF%BC%9F%E5%8D%97%E6%98%8C%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [方媛送别蔡天凤画面曝光](https://www.baidu.com/s?wd=%E6%96%B9%E5%AA%9B%E9%80%81%E5%88%AB%E8%94%A1%E5%A4%A9%E5%87%A4%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [贵阳暴雨地铁“喷水池”站成喷水池](https://www.baidu.com/s?wd=%E8%B4%B5%E9%98%B3%E6%9A%B4%E9%9B%A8%E5%9C%B0%E9%93%81%E2%80%9C%E5%96%B7%E6%B0%B4%E6%B1%A0%E2%80%9D%E7%AB%99%E6%88%90%E5%96%B7%E6%B0%B4%E6%B1%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
