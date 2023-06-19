@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 09:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 09:48:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [洛阳为什么叫神都？](https://www.zhihu.com/question/603959982)<br />
 7. [妈妈今天跟我说别和她讲平等，她从生我开始就比我高一等这样对吗？](https://www.zhihu.com/question/606630311)<br />
 8. [为什么小龙女和杨过不能好好在一起，是因为世俗的反对还是形势的逼迫呢？](https://www.zhihu.com/question/605615780)<br />
-9. [高中同学 29 岁就成了顶尖 985 的副教授，看看普通的自己，会有什么想法？](https://www.zhihu.com/question/586589709)<br />
+9. [上课犯困该怎么办？](https://www.zhihu.com/question/599417027)<br />
 
 > 百度  
 
