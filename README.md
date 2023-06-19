@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 11:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 11:42:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [沙溢胡可情头](https://s.weibo.com/weibo?q=%23%E6%B2%99%E6%BA%A2%E8%83%A1%E5%8F%AF%E6%83%85%E5%A4%B4%23&t=31&band_rank=5&Refer=top)<br />
 6. [幼师拍小朋友房车钱视频引争议](https://s.weibo.com/weibo?q=%23%E5%B9%BC%E5%B8%88%E6%8B%8D%E5%B0%8F%E6%9C%8B%E5%8F%8B%E6%88%BF%E8%BD%A6%E9%92%B1%E8%A7%86%E9%A2%91%E5%BC%95%E4%BA%89%E8%AE%AE%23&t=31&band_rank=6&Refer=top)<br />
 7. [南京小龙虾卖100块一只值吗](https://s.weibo.com/weibo?q=%E5%8D%97%E4%BA%AC%E5%B0%8F%E9%BE%99%E8%99%BE%E5%8D%96100%E5%9D%97%E4%B8%80%E5%8F%AA%E5%80%BC%E5%90%97&t=31&band_rank=7&Refer=top)<br />
-8. [王阳用口红在秦岚脸上留号码](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%98%B3%E7%94%A8%E5%8F%A3%E7%BA%A2%E5%9C%A8%E7%A7%A6%E5%B2%9A%E8%84%B8%E4%B8%8A%E7%95%99%E5%8F%B7%E7%A0%81%23&t=31&band_rank=8&Refer=top)<br />
+8. [张杰演唱会现场喊话黄牛](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E7%8E%B0%E5%9C%BA%E5%96%8A%E8%AF%9D%E9%BB%84%E7%89%9B%23&t=31&band_rank=8&Refer=top)<br />
 9. [为什么推荐6月21日提离职](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%8E%A8%E8%8D%906%E6%9C%8821%E6%97%A5%E6%8F%90%E7%A6%BB%E8%81%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
