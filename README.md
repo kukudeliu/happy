@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 19:53:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 19:54:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [庆余年2官宣阵容](https://s.weibo.com/weibo?q=%E5%BA%86%E4%BD%99%E5%B9%B42%E5%AE%98%E5%AE%A3%E9%98%B5%E5%AE%B9&t=31&band_rank=4&Refer=top)<br />
 5. [男子长城藏时间胶囊12年多人留纸条](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%95%BF%E5%9F%8E%E8%97%8F%E6%97%B6%E9%97%B4%E8%83%B6%E5%9B%8A12%E5%B9%B4%E5%A4%9A%E4%BA%BA%E7%95%99%E7%BA%B8%E6%9D%A1%23&t=31&band_rank=5&Refer=top)<br />
 6. [大S工作室回应吸毒指控](https://s.weibo.com/weibo?q=%23%E5%A4%A7S%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%9B%9E%E5%BA%94%E5%90%B8%E6%AF%92%E6%8C%87%E6%8E%A7%23&t=31&band_rank=6&Refer=top)<br />
-7. [庆余年叶灵儿](https://s.weibo.com/weibo?q=%E5%BA%86%E4%BD%99%E5%B9%B4%E5%8F%B6%E7%81%B5%E5%84%BF&t=31&band_rank=7&Refer=top)<br />
-8. [庆余年](https://s.weibo.com/weibo?q=%E5%BA%86%E4%BD%99%E5%B9%B4&t=31&band_rank=8&Refer=top)<br />
-9. [五星红旗被捆绑酒店连说10句对不起](https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%98%9F%E7%BA%A2%E6%97%97%E8%A2%AB%E6%8D%86%E7%BB%91%E9%85%92%E5%BA%97%E8%BF%9E%E8%AF%B410%E5%8F%A5%E5%AF%B9%E4%B8%8D%E8%B5%B7%23&t=31&band_rank=9&Refer=top)<br />
+7. [五星红旗被捆绑酒店连说10句对不起](https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%98%9F%E7%BA%A2%E6%97%97%E8%A2%AB%E6%8D%86%E7%BB%91%E9%85%92%E5%BA%97%E8%BF%9E%E8%AF%B410%E5%8F%A5%E5%AF%B9%E4%B8%8D%E8%B5%B7%23&t=31&band_rank=7&Refer=top)<br />
+8. [庆余年叶灵儿](https://s.weibo.com/weibo?q=%E5%BA%86%E4%BD%99%E5%B9%B4%E5%8F%B6%E7%81%B5%E5%84%BF&t=31&band_rank=8&Refer=top)<br />
+9. [庆余年](https://s.weibo.com/weibo?q=%E5%BA%86%E4%BD%99%E5%B9%B4&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
