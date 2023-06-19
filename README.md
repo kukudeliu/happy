@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 10:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 10:13:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [妈妈今天跟我说别和她讲平等，她从生我开始就比我高一等这样对吗？](https://www.zhihu.com/question/606630311)<br />
 7. [如果赵构信任岳飞，将大权托付给他，宋朝能灭掉女真吗？](https://www.zhihu.com/question/588618893)<br />
 8. [为什么小龙女和杨过不能好好在一起，是因为世俗的反对还是形势的逼迫呢？](https://www.zhihu.com/question/605615780)<br />
-9. [上课犯困该怎么办？](https://www.zhihu.com/question/599417027)<br />
+9. []()<br />
 
 > 百度  
 
