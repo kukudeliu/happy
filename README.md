@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 21:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 21:36:01</h4></div>
 
 > 微博  
 
@@ -26,7 +26,7 @@
 
 > 百度  
 
-1. [青年朋友的引路人](https://www.baidu.com/s?wd=%E9%9D%92%E5%B9%B4%E6%9C%8B%E5%8F%8B%E7%9A%84%E5%BC%95%E8%B7%AF%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [让青春在伟大奋斗中绽放光芒](https://www.baidu.com/s?wd=%E8%AE%A9%E9%9D%92%E6%98%A5%E5%9C%A8%E4%BC%9F%E5%A4%A7%E5%A5%8B%E6%96%97%E4%B8%AD%E7%BB%BD%E6%94%BE%E5%85%89%E8%8A%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [习近平会见美国国务卿布林肯](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%8A%A1%E5%8D%BF%E5%B8%83%E6%9E%97%E8%82%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [专家解读中方给布林肯的几个关键词](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E8%A7%A3%E8%AF%BB%E4%B8%AD%E6%96%B9%E7%BB%99%E5%B8%83%E6%9E%97%E8%82%AF%E7%9A%84%E5%87%A0%E4%B8%AA%E5%85%B3%E9%94%AE%E8%AF%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [点亮网络文明之光](https://www.baidu.com/s?wd=%E7%82%B9%E4%BA%AE%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E4%B9%8B%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -38,7 +38,7 @@
 
 > 哔哩哔哩  
 
-1. [青年朋友的引路人](https://www.baidu.com/s?wd=%E9%9D%92%E5%B9%B4%E6%9C%8B%E5%8F%8B%E7%9A%84%E5%BC%95%E8%B7%AF%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [让青春在伟大奋斗中绽放光芒](https://www.baidu.com/s?wd=%E8%AE%A9%E9%9D%92%E6%98%A5%E5%9C%A8%E4%BC%9F%E5%A4%A7%E5%A5%8B%E6%96%97%E4%B8%AD%E7%BB%BD%E6%94%BE%E5%85%89%E8%8A%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [习近平会见美国国务卿布林肯](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%8A%A1%E5%8D%BF%E5%B8%83%E6%9E%97%E8%82%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [专家解读中方给布林肯的几个关键词](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E8%A7%A3%E8%AF%BB%E4%B8%AD%E6%96%B9%E7%BB%99%E5%B8%83%E6%9E%97%E8%82%AF%E7%9A%84%E5%87%A0%E4%B8%AA%E5%85%B3%E9%94%AE%E8%AF%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [点亮网络文明之光](https://www.baidu.com/s?wd=%E7%82%B9%E4%BA%AE%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E4%B9%8B%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
