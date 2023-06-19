@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 16:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 16:51:01</h4></div>
 
 > 微博  
 
 1. [黄子佼曝大小S吸毒](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E4%BD%BC%E6%9B%9D%E5%A4%A7%E5%B0%8FS%E5%90%B8%E6%AF%92%23&t=31&band_rank=1&Refer=top)<br />
 2. [张晚意今天官宣了三部剧](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%99%9A%E6%84%8F%E4%BB%8A%E5%A4%A9%E5%AE%98%E5%AE%A3%E4%BA%86%E4%B8%89%E9%83%A8%E5%89%A7%23&t=31&band_rank=2&Refer=top)<br />
 3. [国内首座跨海高速铁路桥大片](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%86%85%E9%A6%96%E5%BA%A7%E8%B7%A8%E6%B5%B7%E9%AB%98%E9%80%9F%E9%93%81%E8%B7%AF%E6%A1%A5%E5%A4%A7%E7%89%87%23&t=31&band_rank=3&Refer=top)<br />
-4. [演唱会座位脏](https://s.weibo.com/weibo?q=%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BA%A7%E4%BD%8D%E8%84%8F&t=31&band_rank=4&Refer=top)<br />
-5. [每个月工资8000但闲的发慌](https://s.weibo.com/weibo?q=%23%E6%AF%8F%E4%B8%AA%E6%9C%88%E5%B7%A5%E8%B5%848000%E4%BD%86%E9%97%B2%E7%9A%84%E5%8F%91%E6%85%8C%23&t=31&band_rank=5&Refer=top)<br />
+4. [每个月工资8000但闲的发慌](https://s.weibo.com/weibo?q=%23%E6%AF%8F%E4%B8%AA%E6%9C%88%E5%B7%A5%E8%B5%848000%E4%BD%86%E9%97%B2%E7%9A%84%E5%8F%91%E6%85%8C%23&t=31&band_rank=4&Refer=top)<br />
+5. [演唱会座位脏](https://s.weibo.com/weibo?q=%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BA%A7%E4%BD%8D%E8%84%8F&t=31&band_rank=5&Refer=top)<br />
 6. [调查称53.7%年轻人存款不足10万](https://s.weibo.com/weibo?q=%23%E8%B0%83%E6%9F%A5%E7%A7%B053.7%25%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%AD%98%E6%AC%BE%E4%B8%8D%E8%B6%B310%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [虞书欣王鹤棣 二搭](https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%8E%8B%E9%B9%A4%E6%A3%A3%20%E4%BA%8C%E6%90%AD&t=31&band_rank=7&Refer=top)<br />
 8. [警方确认女子房子被邻居打通使用](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E7%A1%AE%E8%AE%A4%E5%A5%B3%E5%AD%90%E6%88%BF%E5%AD%90%E8%A2%AB%E9%82%BB%E5%B1%85%E6%89%93%E9%80%9A%E4%BD%BF%E7%94%A8%23&t=31&band_rank=8&Refer=top)<br />
@@ -15,8 +15,8 @@
 > 知乎  
 
 1. [胡兵 50 万积分被东航清零，沟通维权未果，并表示「对方态度巨差无比」，哪些信息值得关注？](https://www.zhihu.com/question/607320882)<br />
-2. [王石表示「房地产市场不是结束了，而是刚开始」，如何看待这一观点？房地产行业未来发展趋势如何？](https://www.zhihu.com/question/607336662)<br />
-3. [黄子佼曝大小 S 具俊晔嗑药，称自己也被硬塞过数次，如何看待此事？](https://www.zhihu.com/question/607436138)<br />
+2. [黄子佼曝大小 S 具俊晔嗑药，称自己也被硬塞过数次，如何看待此事？](https://www.zhihu.com/question/607436138)<br />
+3. [王石表示「房地产市场不是结束了，而是刚开始」，如何看待这一观点？房地产行业未来发展趋势如何？](https://www.zhihu.com/question/607336662)<br />
 4. [给你五百万，但是强制让你把一个婴儿抚养到 25 岁，你愿意吗？](https://www.zhihu.com/question/606809108)<br />
 5. [王毅与布林肯会面，哪些细节值得关注？](https://www.zhihu.com/question/607413112)<br />
 6. [厦大新闻学教授谈张雪峰言论，称「值得反思却不要轻信他的结论」，新闻学真的变成了天坑专业吗？](https://www.zhihu.com/question/607414331)<br />
