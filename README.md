@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 12:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 12:15:01</h4></div>
 
 > 微博  
 
@@ -16,10 +16,10 @@
 
 1. [为什么网文 100 多万字看下来都不累，名著五六十万字就感觉信息量很大？](https://www.zhihu.com/question/598446077)<br />
 2. [葡萄牙球迷冲入球场抱起 C 罗，下跪致敬并模仿 C 罗庆祝动作，C 罗微笑回应，如何看待这样的行为？](https://www.zhihu.com/question/607278541)<br />
-3. [为什么 2023 年的 BLG 怎么打都打不过 JDG？](https://www.zhihu.com/question/607326596)<br />
+3. [电脑硬件厂商的名字为什么都怪怪的？](https://www.zhihu.com/question/606155778)<br />
 4. [妈妈今天跟我说别和她讲平等，她从生我开始就比我高一等这样对吗？](https://www.zhihu.com/question/606630311)<br />
 5. [秦刚同美国国务卿布林肯举行会谈，哪些信息值得关注？](https://www.zhihu.com/question/607356662)<br />
-6. [电脑硬件厂商的名字为什么都怪怪的？](https://www.zhihu.com/question/606155778)<br />
+6. [为什么 2023 年的 BLG 怎么打都打不过 JDG？](https://www.zhihu.com/question/607326596)<br />
 7. [大学什么专业最累？什么专业最清闲？](https://www.zhihu.com/question/267634840)<br />
 8. [假如我有 10 万元，放在股市里面去炒，只求每个星期 2 个点的收益，每个月就是 8000 元，你觉得现实嘛？](https://www.zhihu.com/question/606869857)<br />
 9. []()<br />
