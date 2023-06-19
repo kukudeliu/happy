@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 19:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 19:32:02</h4></div>
 
 > 微博  
 
@@ -26,7 +26,7 @@
 
 > 百度  
 
-1. [习近平会见美国国务卿布林肯](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%8A%A1%E5%8D%BF%E5%B8%83%E6%9E%97%E8%82%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [青年朋友的引路人](https://www.baidu.com/s?wd=%E9%9D%92%E5%B9%B4%E6%9C%8B%E5%8F%8B%E7%9A%84%E5%BC%95%E8%B7%AF%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [日方逮捕一名中国籍研究员 中方回应](https://www.baidu.com/s?wd=%E6%97%A5%E6%96%B9%E9%80%AE%E6%8D%95%E4%B8%80%E5%90%8D%E4%B8%AD%E5%9B%BD%E7%B1%8D%E7%A0%94%E7%A9%B6%E5%91%98+%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [官方就邻居堵死房门一事成立调查组](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%B0%B1%E9%82%BB%E5%B1%85%E5%A0%B5%E6%AD%BB%E6%88%BF%E9%97%A8%E4%B8%80%E4%BA%8B%E6%88%90%E7%AB%8B%E8%B0%83%E6%9F%A5%E7%BB%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [点亮网络文明之光](https://www.baidu.com/s?wd=%E7%82%B9%E4%BA%AE%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E4%B9%8B%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -38,7 +38,7 @@
 
 > 哔哩哔哩  
 
-1. [习近平会见美国国务卿布林肯](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%8A%A1%E5%8D%BF%E5%B8%83%E6%9E%97%E8%82%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [青年朋友的引路人](https://www.baidu.com/s?wd=%E9%9D%92%E5%B9%B4%E6%9C%8B%E5%8F%8B%E7%9A%84%E5%BC%95%E8%B7%AF%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [日方逮捕一名中国籍研究员 中方回应](https://www.baidu.com/s?wd=%E6%97%A5%E6%96%B9%E9%80%AE%E6%8D%95%E4%B8%80%E5%90%8D%E4%B8%AD%E5%9B%BD%E7%B1%8D%E7%A0%94%E7%A9%B6%E5%91%98+%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [官方就邻居堵死房门一事成立调查组](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%B0%B1%E9%82%BB%E5%B1%85%E5%A0%B5%E6%AD%BB%E6%88%BF%E9%97%A8%E4%B8%80%E4%BA%8B%E6%88%90%E7%AB%8B%E8%B0%83%E6%9F%A5%E7%BB%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [点亮网络文明之光](https://www.baidu.com/s?wd=%E7%82%B9%E4%BA%AE%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E4%B9%8B%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
