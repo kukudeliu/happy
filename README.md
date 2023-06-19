@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 08:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 08:33:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [厦大新闻学教授谈张雪峰言论](https://s.weibo.com/weibo?q=%23%E5%8E%A6%E5%A4%A7%E6%96%B0%E9%97%BB%E5%AD%A6%E6%95%99%E6%8E%88%E8%B0%88%E5%BC%A0%E9%9B%AA%E5%B3%B0%E8%A8%80%E8%AE%BA%23&t=31&band_rank=4&Refer=top)<br />
 5. [女孩撞上食客被烫伤食客有责任吗](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E6%92%9E%E4%B8%8A%E9%A3%9F%E5%AE%A2%E8%A2%AB%E7%83%AB%E4%BC%A4%E9%A3%9F%E5%AE%A2%E6%9C%89%E8%B4%A3%E4%BB%BB%E5%90%97%23&t=31&band_rank=5&Refer=top)<br />
 6. [迪丽热巴手滑进了梦海直播间](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%89%8B%E6%BB%91%E8%BF%9B%E4%BA%86%E6%A2%A6%E6%B5%B7%E7%9B%B4%E6%92%AD%E9%97%B4%23&t=31&band_rank=6&Refer=top)<br />
-7. [989大学](https://s.weibo.com/weibo?q=989%E5%A4%A7%E5%AD%A6&t=31&band_rank=7&Refer=top)<br />
-8. [化学老师跳下10米高桥救起轻生女子](https://s.weibo.com/weibo?q=%23%E5%8C%96%E5%AD%A6%E8%80%81%E5%B8%88%E8%B7%B3%E4%B8%8B10%E7%B1%B3%E9%AB%98%E6%A1%A5%E6%95%91%E8%B5%B7%E8%BD%BB%E7%94%9F%E5%A5%B3%E5%AD%90%23&t=31&band_rank=8&Refer=top)<br />
-9. [白敬亭宋轶对视没有技巧全是感情](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6%E5%AF%B9%E8%A7%86%E6%B2%A1%E6%9C%89%E6%8A%80%E5%B7%A7%E5%85%A8%E6%98%AF%E6%84%9F%E6%83%85%23&t=31&band_rank=9&Refer=top)<br />
+7. [化学老师跳下10米高桥救起轻生女子](https://s.weibo.com/weibo?q=%23%E5%8C%96%E5%AD%A6%E8%80%81%E5%B8%88%E8%B7%B3%E4%B8%8B10%E7%B1%B3%E9%AB%98%E6%A1%A5%E6%95%91%E8%B5%B7%E8%BD%BB%E7%94%9F%E5%A5%B3%E5%AD%90%23&t=31&band_rank=7&Refer=top)<br />
+8. [白敬亭宋轶对视没有技巧全是感情](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6%E5%AF%B9%E8%A7%86%E6%B2%A1%E6%9C%89%E6%8A%80%E5%B7%A7%E5%85%A8%E6%98%AF%E6%84%9F%E6%83%85%23&t=31&band_rank=8&Refer=top)<br />
+9. [989大学](https://s.weibo.com/weibo?q=989%E5%A4%A7%E5%AD%A6&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
