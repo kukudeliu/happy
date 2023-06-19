@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 09:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 09:34:01</h4></div>
 
 > 微博  
 
 1. [一天之内拒绝了30个学生请假](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%A4%A9%E4%B9%8B%E5%86%85%E6%8B%92%E7%BB%9D%E4%BA%8630%E4%B8%AA%E5%AD%A6%E7%94%9F%E8%AF%B7%E5%81%87%23&t=31&band_rank=1&Refer=top)<br />
-2. [厦大新闻学教授谈张雪峰言论](https://s.weibo.com/weibo?q=%23%E5%8E%A6%E5%A4%A7%E6%96%B0%E9%97%BB%E5%AD%A6%E6%95%99%E6%8E%88%E8%B0%88%E5%BC%A0%E9%9B%AA%E5%B3%B0%E8%A8%80%E8%AE%BA%23&t=31&band_rank=2&Refer=top)<br />
+2. [本周仅上4天班](https://s.weibo.com/weibo?q=%23%E6%9C%AC%E5%91%A8%E4%BB%85%E4%B8%8A4%E5%A4%A9%E7%8F%AD%23&t=31&band_rank=2&Refer=top)<br />
 3. [三夏农忙正当时](https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%A4%8F%E5%86%9C%E5%BF%99%E6%AD%A3%E5%BD%93%E6%97%B6%23&t=31&band_rank=3&Refer=top)<br />
-4. [本周仅上4天班](https://s.weibo.com/weibo?q=%23%E6%9C%AC%E5%91%A8%E4%BB%85%E4%B8%8A4%E5%A4%A9%E7%8F%AD%23&t=31&band_rank=4&Refer=top)<br />
+4. [厦大新闻学教授谈张雪峰言论](https://s.weibo.com/weibo?q=%23%E5%8E%A6%E5%A4%A7%E6%96%B0%E9%97%BB%E5%AD%A6%E6%95%99%E6%8E%88%E8%B0%88%E5%BC%A0%E9%9B%AA%E5%B3%B0%E8%A8%80%E8%AE%BA%23&t=31&band_rank=4&Refer=top)<br />
 5. [肖战赵丽颖正剧苗子](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%AD%A3%E5%89%A7%E8%8B%97%E5%AD%90%23&t=31&band_rank=5&Refer=top)<br />
 6. [南宁地铁推倒女站务员男子已被行拘](https://s.weibo.com/weibo?q=%23%E5%8D%97%E5%AE%81%E5%9C%B0%E9%93%81%E6%8E%A8%E5%80%92%E5%A5%B3%E7%AB%99%E5%8A%A1%E5%91%98%E7%94%B7%E5%AD%90%E5%B7%B2%E8%A2%AB%E8%A1%8C%E6%8B%98%23&t=31&band_rank=6&Refer=top)<br />
 7. [白敬亭想改的名字都被注册了](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E6%83%B3%E6%94%B9%E7%9A%84%E5%90%8D%E5%AD%97%E9%83%BD%E8%A2%AB%E6%B3%A8%E5%86%8C%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
@@ -21,8 +21,8 @@
 5. [假如我有 10 万元，放在股市里面去炒，只求每个星期 2 个点的收益，每个月就是 8000 元，你觉得现实嘛？](https://www.zhihu.com/question/606869857)<br />
 6. [拉夫罗夫称当俄特别军事行动目标达成后，将迎来一个不一样的世界，西方主导的全球化将不复存在，如何解读？](https://www.zhihu.com/question/607148983)<br />
 7. [洛阳为什么叫神都？](https://www.zhihu.com/question/603959982)<br />
-8. [你会介意你的猫不是品种猫吗？](https://www.zhihu.com/question/413441565)<br />
-9. [上课犯困该怎么办？](https://www.zhihu.com/question/599417027)<br />
+8. [上课犯困该怎么办？](https://www.zhihu.com/question/599417027)<br />
+9. [你会介意你的猫不是品种猫吗？](https://www.zhihu.com/question/413441565)<br />
 
 > 百度  
 
