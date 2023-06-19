@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 23:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-19 23:15:01</h4></div>
 
 > 微博  
 
@@ -9,15 +9,15 @@
 5. [林志颖](https://s.weibo.com/weibo?q=%E6%9E%97%E5%BF%97%E9%A2%96&t=31&band_rank=5&Refer=top)<br />
 6. [大S工作室回应吸毒指控](https://s.weibo.com/weibo?q=%23%E5%A4%A7S%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%9B%9E%E5%BA%94%E5%90%B8%E6%AF%92%E6%8C%87%E6%8E%A7%23&t=31&band_rank=6&Refer=top)<br />
 7. [马云指出淘宝天猫未来三个方向](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%BA%91%E6%8C%87%E5%87%BA%E6%B7%98%E5%AE%9D%E5%A4%A9%E7%8C%AB%E6%9C%AA%E6%9D%A5%E4%B8%89%E4%B8%AA%E6%96%B9%E5%90%91%23&t=31&band_rank=7&Refer=top)<br />
-8. [调查称53.7%年轻人存款不足10万](https://s.weibo.com/weibo?q=%23%E8%B0%83%E6%9F%A5%E7%A7%B053.7%25%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%AD%98%E6%AC%BE%E4%B8%8D%E8%B6%B310%E4%B8%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [经常锻炼与不锻炼的人大腿肌肉的对比](https://s.weibo.com/weibo?q=%E7%BB%8F%E5%B8%B8%E9%94%BB%E7%82%BC%E4%B8%8E%E4%B8%8D%E9%94%BB%E7%82%BC%E7%9A%84%E4%BA%BA%E5%A4%A7%E8%85%BF%E8%82%8C%E8%82%89%E7%9A%84%E5%AF%B9%E6%AF%94&t=31&band_rank=9&Refer=top)<br />
+8. [经常锻炼与不锻炼的人大腿肌肉的对比](https://s.weibo.com/weibo?q=%E7%BB%8F%E5%B8%B8%E9%94%BB%E7%82%BC%E4%B8%8E%E4%B8%8D%E9%94%BB%E7%82%BC%E7%9A%84%E4%BA%BA%E5%A4%A7%E8%85%BF%E8%82%8C%E8%82%89%E7%9A%84%E5%AF%B9%E6%AF%94&t=31&band_rank=8&Refer=top)<br />
+9. [调查称53.7%年轻人存款不足10万](https://s.weibo.com/weibo?q=%23%E8%B0%83%E6%9F%A5%E7%A7%B053.7%25%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%AD%98%E6%AC%BE%E4%B8%8D%E8%B6%B310%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [王毅与布林肯会面，哪些细节值得关注？](https://www.zhihu.com/question/607413112)<br />
 2. [给你五百万，但是强制让你把一个婴儿抚养到 25 岁，你愿意吗？](https://www.zhihu.com/question/606809108)<br />
-3. [女子花 52 元取鱼刺称「医院赚大钱」被怼，你对该事件有哪些看法？](https://www.zhihu.com/question/607346880)<br />
-4. [研究称 2023 年可能成为有记录以来最热的一年，地球正走向「未知领域」，哪些原因导致如此高温？](https://www.zhihu.com/question/607397022)<br />
+3. [研究称 2023 年可能成为有记录以来最热的一年，地球正走向「未知领域」，哪些原因导致如此高温？](https://www.zhihu.com/question/607397022)<br />
+4. [女子花 52 元取鱼刺称「医院赚大钱」被怼，你对该事件有哪些看法？](https://www.zhihu.com/question/607346880)<br />
 5. [调查称 53.7% 年轻人存款不足 10 万，如何看待这一现象，你觉得存款困难吗？](https://www.zhihu.com/question/607446342)<br />
 6. [黄子佼曝大小 S 具俊晔嗑药，大 S 工作室回应称「她心脏不好不能接触毒品」，真实情况如何，该如何看待？](https://www.zhihu.com/question/607436138)<br />
 7. [为什么北京烤鸭出名靠鸭子，换成鸡的做法就不行了吗？](https://www.zhihu.com/question/606620975)<br />
