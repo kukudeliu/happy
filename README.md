@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 17:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 17:18:01</h4></div>
 
 > 微博  
 
@@ -21,7 +21,7 @@
 5. [中使馆回应中国女生在马尔代夫遭酒店管家性侵，称「已敦促马方严肃对待、认真调查」，后续将如何发展？](https://www.zhihu.com/question/607596882)<br />
 6. [张勇将于 9 月 10 日卸任阿里集团董事会主席兼 CEO 职务，如何解读这一人事变动？](https://www.zhihu.com/question/607605809)<br />
 7. [如何看待大学生兴起免费帮忙「遛狗潮」？](https://www.zhihu.com/question/606934285)<br />
-8. [台湾艺人黄子佼承认「强吻少女拍裸照」，中午发视频道歉，暴露出哪些问题？其将面临哪些法律惩罚？](https://www.zhihu.com/question/607440153)<br />
+8. [《灌篮高手》中，深泽体育大学不要赤木的情况下要了谁？](https://www.zhihu.com/question/441228498)<br />
 9. [你最无法接受游戏在哪些方面堆难度?](https://www.zhihu.com/question/605217770)<br />
 
 > 百度  
