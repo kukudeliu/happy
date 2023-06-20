@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 11:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 11:04:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [金华国际足球邀请赛中国亚运队 1:0 韩国 U24，孙沁涵破门，韩佳奇力保球门不失，如何评价本场比赛？](https://www.zhihu.com/question/607515200)<br />
 7. [黄子佼曝大小 S 具俊晔嗑药，大 S 工作室回应称「她心脏不好不能接触毒品」，真实情况如何，该如何看待？](https://www.zhihu.com/question/607436138)<br />
 8. [为什么动画《鬼灭之刃》锻刀村篇被吐槽较多？](https://www.zhihu.com/question/603504171)<br />
-9. [如何准确表达 SCI 论文中的图？](https://www.zhihu.com/question/514568911)<br />
+9. [如何评价《无畏契约 /VALORANT》国服定价？](https://www.zhihu.com/question/605446511)<br />
 
 > 百度  
 
