@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 09:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 09:19:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [大S工作室回应吸毒指控](https://s.weibo.com/weibo?q=%23%E5%A4%A7S%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%9B%9E%E5%BA%94%E5%90%B8%E6%AF%92%E6%8C%87%E6%8E%A7%23&t=31&band_rank=6&Refer=top)<br />
 7. [高考查分遇上端午假期](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86%E9%81%87%E4%B8%8A%E7%AB%AF%E5%8D%88%E5%81%87%E6%9C%9F%23&t=31&band_rank=7&Refer=top)<br />
 8. [庆余年2官宣毛晓彤](https://s.weibo.com/weibo?q=%23%E5%BA%86%E4%BD%99%E5%B9%B42%E5%AE%98%E5%AE%A3%E6%AF%9B%E6%99%93%E5%BD%A4%23&t=31&band_rank=8&Refer=top)<br />
-9. [白鹿请助理看五月天演唱会](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E8%AF%B7%E5%8A%A9%E7%90%86%E7%9C%8B%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=9&Refer=top)<br />
+9. [官方通报嫌疑人自首时在派出所身亡](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%AB%8C%E7%96%91%E4%BA%BA%E8%87%AA%E9%A6%96%E6%97%B6%E5%9C%A8%E6%B4%BE%E5%87%BA%E6%89%80%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
