@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 13:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 13:08:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [这些古诗词同样适合送给毕业生](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%9B%E5%8F%A4%E8%AF%97%E8%AF%8D%E5%90%8C%E6%A0%B7%E9%80%82%E5%90%88%E9%80%81%E7%BB%99%E6%AF%95%E4%B8%9A%E7%94%9F%23&t=31&band_rank=3&Refer=top)<br />
 4. [医护人员称黄子佼无法开口说话](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E6%8A%A4%E4%BA%BA%E5%91%98%E7%A7%B0%E9%BB%84%E5%AD%90%E4%BD%BC%E6%97%A0%E6%B3%95%E5%BC%80%E5%8F%A3%E8%AF%B4%E8%AF%9D%23&t=31&band_rank=4&Refer=top)<br />
 5. [中国26岁女生在马代被酒店管家性侵](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD26%E5%B2%81%E5%A5%B3%E7%94%9F%E5%9C%A8%E9%A9%AC%E4%BB%A3%E8%A2%AB%E9%85%92%E5%BA%97%E7%AE%A1%E5%AE%B6%E6%80%A7%E4%BE%B5%23&t=31&band_rank=5&Refer=top)<br />
-6. [房贷](https://s.weibo.com/weibo?q=%E6%88%BF%E8%B4%B7&t=31&band_rank=6&Refer=top)<br />
-7. [谭松韵回应直角肩](https://s.weibo.com/weibo?q=%23%E8%B0%AD%E6%9D%BE%E9%9F%B5%E5%9B%9E%E5%BA%94%E7%9B%B4%E8%A7%92%E8%82%A9%23&t=31&band_rank=7&Refer=top)<br />
-8. [张歆艺 不是所有演艺界的人都是坏人](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%AD%86%E8%89%BA%20%E4%B8%8D%E6%98%AF%E6%89%80%E6%9C%89%E6%BC%94%E8%89%BA%E7%95%8C%E7%9A%84%E4%BA%BA%E9%83%BD%E6%98%AF%E5%9D%8F%E4%BA%BA&t=31&band_rank=8&Refer=top)<br />
-9. [阿里集团换帅](https://s.weibo.com/weibo?q=%23%E9%98%BF%E9%87%8C%E9%9B%86%E5%9B%A2%E6%8D%A2%E5%B8%85%23&t=31&band_rank=9&Refer=top)<br />
+6. [谭松韵回应直角肩](https://s.weibo.com/weibo?q=%23%E8%B0%AD%E6%9D%BE%E9%9F%B5%E5%9B%9E%E5%BA%94%E7%9B%B4%E8%A7%92%E8%82%A9%23&t=31&band_rank=6&Refer=top)<br />
+7. [房贷](https://s.weibo.com/weibo?q=%E6%88%BF%E8%B4%B7&t=31&band_rank=7&Refer=top)<br />
+8. [阿里集团换帅](https://s.weibo.com/weibo?q=%23%E9%98%BF%E9%87%8C%E9%9B%86%E5%9B%A2%E6%8D%A2%E5%B8%85%23&t=31&band_rank=8&Refer=top)<br />
+9. [张歆艺 不是所有演艺界的人都是坏人](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%AD%86%E8%89%BA%20%E4%B8%8D%E6%98%AF%E6%89%80%E6%9C%89%E6%BC%94%E8%89%BA%E7%95%8C%E7%9A%84%E4%BA%BA%E9%83%BD%E6%98%AF%E5%9D%8F%E4%BA%BA&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [董路认为「贵州村超在国足中没有什么用处」，如何看待其观点？](https://www.zhihu.com/question/607108205)<br />
 7. [贾跃亭的车又延期了，并再次抛出了新融资计划，股价瞬间跌超 1/3，如何看待此事？](https://www.zhihu.com/question/607409939)<br />
 8. [刚毕业对钱的概念有点模糊，第一个月工资就打算花四千买游戏机（steamdeck）合适吗？](https://www.zhihu.com/question/607482939)<br />
-9. [为什么会有人不喜欢《崩坏：星穹铁道》角色「克拉拉」？](https://www.zhihu.com/question/601035739)<br />
+9. [如果 M78 光之国的奥特曼们来到《战锤 40k》会怎么样?](https://www.zhihu.com/question/589015859)<br />
 
 > 百度  
 
@@ -34,7 +34,7 @@
 6. [张勇将卸任阿里董事会主席兼CEO](https://www.baidu.com/s?wd=%E5%BC%A0%E5%8B%87%E5%B0%86%E5%8D%B8%E4%BB%BB%E9%98%BF%E9%87%8C%E8%91%A3%E4%BA%8B%E4%BC%9A%E4%B8%BB%E5%B8%AD%E5%85%BCCEO&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [布林肯妄言“纠正”中方一个观点](https://www.baidu.com/s?wd=%E5%B8%83%E6%9E%97%E8%82%AF%E5%A6%84%E8%A8%80%E2%80%9C%E7%BA%A0%E6%AD%A3%E2%80%9D%E4%B8%AD%E6%96%B9%E4%B8%80%E4%B8%AA%E8%A7%82%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [黄子佼爱徒Lulu发文力挺 声称感谢](https://www.baidu.com/s?wd=%E9%BB%84%E5%AD%90%E4%BD%BC%E7%88%B1%E5%BE%92Lulu%E5%8F%91%E6%96%87%E5%8A%9B%E6%8C%BA+%E5%A3%B0%E7%A7%B0%E6%84%9F%E8%B0%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [张歆艺：不是所有的艺人都是坏人](https://www.baidu.com/s?wd=%E5%BC%A0%E6%AD%86%E8%89%BA%EF%BC%9A%E4%B8%8D%E6%98%AF%E6%89%80%E6%9C%89%E7%9A%84%E8%89%BA%E4%BA%BA%E9%83%BD%E6%98%AF%E5%9D%8F%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [学校食堂烤鱼被指现蛆虫 后勤回应](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E9%A3%9F%E5%A0%82%E7%83%A4%E9%B1%BC%E8%A2%AB%E6%8C%87%E7%8E%B0%E8%9B%86%E8%99%AB+%E5%90%8E%E5%8B%A4%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [张勇将卸任阿里董事会主席兼CEO](https://www.baidu.com/s?wd=%E5%BC%A0%E5%8B%87%E5%B0%86%E5%8D%B8%E4%BB%BB%E9%98%BF%E9%87%8C%E8%91%A3%E4%BA%8B%E4%BC%9A%E4%B8%BB%E5%B8%AD%E5%85%BCCEO&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [布林肯妄言“纠正”中方一个观点](https://www.baidu.com/s?wd=%E5%B8%83%E6%9E%97%E8%82%AF%E5%A6%84%E8%A8%80%E2%80%9C%E7%BA%A0%E6%AD%A3%E2%80%9D%E4%B8%AD%E6%96%B9%E4%B8%80%E4%B8%AA%E8%A7%82%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [黄子佼爱徒Lulu发文力挺 声称感谢](https://www.baidu.com/s?wd=%E9%BB%84%E5%AD%90%E4%BD%BC%E7%88%B1%E5%BE%92Lulu%E5%8F%91%E6%96%87%E5%8A%9B%E6%8C%BA+%E5%A3%B0%E7%A7%B0%E6%84%9F%E8%B0%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [张歆艺：不是所有的艺人都是坏人](https://www.baidu.com/s?wd=%E5%BC%A0%E6%AD%86%E8%89%BA%EF%BC%9A%E4%B8%8D%E6%98%AF%E6%89%80%E6%9C%89%E7%9A%84%E8%89%BA%E4%BA%BA%E9%83%BD%E6%98%AF%E5%9D%8F%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [学校食堂烤鱼被指现蛆虫 后勤回应](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E9%A3%9F%E5%A0%82%E7%83%A4%E9%B1%BC%E8%A2%AB%E6%8C%87%E7%8E%B0%E8%9B%86%E8%99%AB+%E5%90%8E%E5%8B%A4%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
