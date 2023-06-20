@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 20:35:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 20:36:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [陈情令](https://s.weibo.com/weibo?q=%E9%99%88%E6%83%85%E4%BB%A4&t=31&band_rank=6&Refer=top)<br />
 7. [金晨的嘴怎么了](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E7%9A%84%E5%98%B4%E6%80%8E%E4%B9%88%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [王一博改代表作](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%94%B9%E4%BB%A3%E8%A1%A8%E4%BD%9C%23&t=31&band_rank=8&Refer=top)<br />
-9. [内蒙古新井煤矿事故失联者全部遇难](https://s.weibo.com/weibo?q=%23%E5%86%85%E8%92%99%E5%8F%A4%E6%96%B0%E4%BA%95%E7%85%A4%E7%9F%BF%E4%BA%8B%E6%95%85%E5%A4%B1%E8%81%94%E8%80%85%E5%85%A8%E9%83%A8%E9%81%87%E9%9A%BE%23&t=31&band_rank=9&Refer=top)<br />
+9. [宋轶素颜照](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%BD%B6%E7%B4%A0%E9%A2%9C%E7%85%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
