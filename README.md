@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 13:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 13:41:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [房贷](https://s.weibo.com/weibo?q=%E6%88%BF%E8%B4%B7&t=31&band_rank=6&Refer=top)<br />
 7. [谭松韵回应直角肩](https://s.weibo.com/weibo?q=%23%E8%B0%AD%E6%9D%BE%E9%9F%B5%E5%9B%9E%E5%BA%94%E7%9B%B4%E8%A7%92%E8%82%A9%23&t=31&band_rank=7&Refer=top)<br />
 8. [中国26岁女生在马代被酒店管家性侵](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD26%E5%B2%81%E5%A5%B3%E7%94%9F%E5%9C%A8%E9%A9%AC%E4%BB%A3%E8%A2%AB%E9%85%92%E5%BA%97%E7%AE%A1%E5%AE%B6%E6%80%A7%E4%BE%B5%23&t=31&band_rank=8&Refer=top)<br />
-9. [网传岳阳一母亲杀死16岁女儿](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E5%B2%B3%E9%98%B3%E4%B8%80%E6%AF%8D%E4%BA%B2%E6%9D%80%E6%AD%BB16%E5%B2%81%E5%A5%B3%E5%84%BF%23&t=31&band_rank=9&Refer=top)<br />
+9. [李凯尔已获得中国国籍](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%87%AF%E5%B0%94%E5%B7%B2%E8%8E%B7%E5%BE%97%E4%B8%AD%E5%9B%BD%E5%9B%BD%E7%B1%8D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
