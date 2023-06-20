@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 19:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 19:12:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [中使馆回应中国女生在马尔代夫遭酒店管家性侵，称「已敦促马方严肃对待、认真调查」，后续将如何发展？](https://www.zhihu.com/question/607596882)<br />
 6. [网曝男子持金属棒殴打讨薪工人，工人不敢还手，被问「服不服」，现场真实情况如何，男子会面临什么处罚？](https://www.zhihu.com/question/607538664)<br />
 7. [为抢「剩菜盲盒」定闹钟，年轻人为什么会被「剩菜盲盒」吸引？你愿意买「剩菜盲盒」吗？](https://www.zhihu.com/question/607612655)<br />
-8. [警方辟谣女幼师给幼儿喂避孕药，称「网民是男性，非幼教也未买避孕药，已被刑拘」，该男子造谣的动机是什么？](https://www.zhihu.com/question/607587881)<br />
-9. [高考全程用了 0.7 的笔有没有问题？](https://www.zhihu.com/question/606112141)<br />
+8. [高考全程用了 0.7 的笔有没有问题？](https://www.zhihu.com/question/606112141)<br />
+9. [警方辟谣女幼师给幼儿喂避孕药，称「网民是男性，非幼教也未买避孕药，已被刑拘」，该男子造谣的动机是什么？](https://www.zhihu.com/question/607587881)<br />
 
 > 百度  
 
@@ -32,9 +32,9 @@
 4. [“2023年高考网上咨询周”时间安排](https://www.baidu.com/s?wd=%E2%80%9C2023%E5%B9%B4%E9%AB%98%E8%80%83%E7%BD%91%E4%B8%8A%E5%92%A8%E8%AF%A2%E5%91%A8%E2%80%9D%E6%97%B6%E9%97%B4%E5%AE%89%E6%8E%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [学生自掏30万拍作品 因获奖低拒领奖](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E8%87%AA%E6%8E%8F30%E4%B8%87%E6%8B%8D%E4%BD%9C%E5%93%81+%E5%9B%A0%E8%8E%B7%E5%A5%96%E4%BD%8E%E6%8B%92%E9%A2%86%E5%A5%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [房贷降息！算算你每月能省多少](https://www.baidu.com/s?wd=%E6%88%BF%E8%B4%B7%E9%99%8D%E6%81%AF%EF%BC%81%E7%AE%97%E7%AE%97%E4%BD%A0%E6%AF%8F%E6%9C%88%E8%83%BD%E7%9C%81%E5%A4%9A%E5%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女童被东航飞行员撞倒身亡 家属发声](https://www.baidu.com/s?wd=%E5%A5%B3%E7%AB%A5%E8%A2%AB%E4%B8%9C%E8%88%AA%E9%A3%9E%E8%A1%8C%E5%91%98%E6%92%9E%E5%80%92%E8%BA%AB%E4%BA%A1+%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [外交部回应中美何时增加航班数](https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%B8%AD%E7%BE%8E%E4%BD%95%E6%97%B6%E5%A2%9E%E5%8A%A0%E8%88%AA%E7%8F%AD%E6%95%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [16岁女篮小将身高已达2米27](https://www.baidu.com/s?wd=16%E5%B2%81%E5%A5%B3%E7%AF%AE%E5%B0%8F%E5%B0%86%E8%BA%AB%E9%AB%98%E5%B7%B2%E8%BE%BE2%E7%B1%B327&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [广州一出租屋发现3具尸体 警方通报](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E4%B8%80%E5%87%BA%E7%A7%9F%E5%B1%8B%E5%8F%91%E7%8E%B03%E5%85%B7%E5%B0%B8%E4%BD%93+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女童被东航飞行员撞倒身亡 家属发声](https://www.baidu.com/s?wd=%E5%A5%B3%E7%AB%A5%E8%A2%AB%E4%B8%9C%E8%88%AA%E9%A3%9E%E8%A1%8C%E5%91%98%E6%92%9E%E5%80%92%E8%BA%AB%E4%BA%A1+%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [外交部回应中美何时增加航班数](https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%B8%AD%E7%BE%8E%E4%BD%95%E6%97%B6%E5%A2%9E%E5%8A%A0%E8%88%AA%E7%8F%AD%E6%95%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [“2023年高考网上咨询周”时间安排](https://www.baidu.com/s?wd=%E2%80%9C2023%E5%B9%B4%E9%AB%98%E8%80%83%E7%BD%91%E4%B8%8A%E5%92%A8%E8%AF%A2%E5%91%A8%E2%80%9D%E6%97%B6%E9%97%B4%E5%AE%89%E6%8E%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [学生自掏30万拍作品 因获奖低拒领奖](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E8%87%AA%E6%8E%8F30%E4%B8%87%E6%8B%8D%E4%BD%9C%E5%93%81+%E5%9B%A0%E8%8E%B7%E5%A5%96%E4%BD%8E%E6%8B%92%E9%A2%86%E5%A5%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [房贷降息！算算你每月能省多少](https://www.baidu.com/s?wd=%E6%88%BF%E8%B4%B7%E9%99%8D%E6%81%AF%EF%BC%81%E7%AE%97%E7%AE%97%E4%BD%A0%E6%AF%8F%E6%9C%88%E8%83%BD%E7%9C%81%E5%A4%9A%E5%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女童被东航飞行员撞倒身亡 家属发声](https://www.baidu.com/s?wd=%E5%A5%B3%E7%AB%A5%E8%A2%AB%E4%B8%9C%E8%88%AA%E9%A3%9E%E8%A1%8C%E5%91%98%E6%92%9E%E5%80%92%E8%BA%AB%E4%BA%A1+%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [外交部回应中美何时增加航班数](https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%B8%AD%E7%BE%8E%E4%BD%95%E6%97%B6%E5%A2%9E%E5%8A%A0%E8%88%AA%E7%8F%AD%E6%95%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [16岁女篮小将身高已达2米27](https://www.baidu.com/s?wd=16%E5%B2%81%E5%A5%B3%E7%AF%AE%E5%B0%8F%E5%B0%86%E8%BA%AB%E9%AB%98%E5%B7%B2%E8%BE%BE2%E7%B1%B327&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [广州一出租屋发现3具尸体 警方通报](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E4%B8%80%E5%87%BA%E7%A7%9F%E5%B1%8B%E5%8F%91%E7%8E%B03%E5%85%B7%E5%B0%B8%E4%BD%93+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女童被东航飞行员撞倒身亡 家属发声](https://www.baidu.com/s?wd=%E5%A5%B3%E7%AB%A5%E8%A2%AB%E4%B8%9C%E8%88%AA%E9%A3%9E%E8%A1%8C%E5%91%98%E6%92%9E%E5%80%92%E8%BA%AB%E4%BA%A1+%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [外交部回应中美何时增加航班数](https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%B8%AD%E7%BE%8E%E4%BD%95%E6%97%B6%E5%A2%9E%E5%8A%A0%E8%88%AA%E7%8F%AD%E6%95%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
