@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 21:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 21:36:01</h4></div>
 
 > 微博  
 
@@ -10,19 +10,19 @@
 6. [警方通报广州一出租屋发现3具尸体](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%B9%BF%E5%B7%9E%E4%B8%80%E5%87%BA%E7%A7%9F%E5%B1%8B%E5%8F%91%E7%8E%B03%E5%85%B7%E5%B0%B8%E4%BD%93%23&t=31&band_rank=6&Refer=top)<br />
 7. [金晨的嘴怎么了](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E7%9A%84%E5%98%B4%E6%80%8E%E4%B9%88%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [陈情令](https://s.weibo.com/weibo?q=%E9%99%88%E6%83%85%E4%BB%A4&t=31&band_rank=8&Refer=top)<br />
-9. [内蒙古新井煤矿事故失联者全部遇难](https://s.weibo.com/weibo?q=%23%E5%86%85%E8%92%99%E5%8F%A4%E6%96%B0%E4%BA%95%E7%85%A4%E7%9F%BF%E4%BA%8B%E6%95%85%E5%A4%B1%E8%81%94%E8%80%85%E5%85%A8%E9%83%A8%E9%81%87%E9%9A%BE%23&t=31&band_rank=9&Refer=top)<br />
+9. [今起恢复台湾地区番荔枝输入大陆](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E8%B5%B7%E6%81%A2%E5%A4%8D%E5%8F%B0%E6%B9%BE%E5%9C%B0%E5%8C%BA%E7%95%AA%E8%8D%94%E6%9E%9D%E8%BE%93%E5%85%A5%E5%A4%A7%E9%99%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [同事提出了离职后有点消极怠工，应该怎么处理？](https://www.zhihu.com/question/434114178)<br />
-2. [中使馆回应中国女生在马尔代夫遭酒店管家性侵，称「已敦促马方严肃对待、认真调查」，后续将如何发展？](https://www.zhihu.com/question/607596882)<br />
-3. [「泰坦尼克」号残骸观光潜艇失联，氧气仅剩 96 小时，美国、加拿大紧急联手部署搜寻，具体情况如何？](https://www.zhihu.com/question/607595452)<br />
+2. [「泰坦尼克」号残骸观光潜艇失联，氧气仅剩 96 小时，美国、加拿大紧急联手部署搜寻，具体情况如何？](https://www.zhihu.com/question/607595452)<br />
+3. [中使馆回应中国女生在马尔代夫遭酒店管家性侵，称「已敦促马方严肃对待、认真调查」，后续将如何发展？](https://www.zhihu.com/question/607596882)<br />
 4. [董路认为「贵州村超在国足中没有什么用处」，如何看待其观点？](https://www.zhihu.com/question/607108205)<br />
 5. [房贷利率时隔十个月又降了，现在该买房吗？今年还有下降空间吗？未来有可能降到零吗？](https://www.zhihu.com/theater/10467)<br />
 6. [每斤跌至 3 元，妃子笑荔枝卖出蔬菜价，经销商称「5 年来最低的价格」，今年荔枝为何降得如此夸张？](https://www.zhihu.com/question/607612022)<br />
 7. [有医保，还需不需要再买一份百万医疗险？新推出的「0 免赔额，保证续保」的好医保到底怎么样？](https://www.zhihu.com/question/607422397)<br />
 8. [5 月社会消费品零售总额比上月回落 5.7%，什么原因导致「内需不旺」? 居民消费意愿因何降低？](https://www.zhihu.com/question/607048519)<br />
-9. [媒体评张雪峰关于新闻学专业言论称「学不学新闻不能只凭网红一张嘴」，如何评价此观点？你怎么看新闻学专业？](https://www.zhihu.com/question/607408168)<br />
+9. []()<br />
 
 > 百度  
 
