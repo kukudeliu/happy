@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 21:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 21:37:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [警方通报广州一出租屋发现3具尸体](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%B9%BF%E5%B7%9E%E4%B8%80%E5%87%BA%E7%A7%9F%E5%B1%8B%E5%8F%91%E7%8E%B03%E5%85%B7%E5%B0%B8%E4%BD%93%23&t=31&band_rank=6&Refer=top)<br />
 7. [金晨的嘴怎么了](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E7%9A%84%E5%98%B4%E6%80%8E%E4%B9%88%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [陈情令](https://s.weibo.com/weibo?q=%E9%99%88%E6%83%85%E4%BB%A4&t=31&band_rank=8&Refer=top)<br />
-9. [今起恢复台湾地区番荔枝输入大陆](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E8%B5%B7%E6%81%A2%E5%A4%8D%E5%8F%B0%E6%B9%BE%E5%9C%B0%E5%8C%BA%E7%95%AA%E8%8D%94%E6%9E%9D%E8%BE%93%E5%85%A5%E5%A4%A7%E9%99%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [长风渡第9集封神](https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%A3%8E%E6%B8%A1%E7%AC%AC9%E9%9B%86%E5%B0%81%E7%A5%9E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
