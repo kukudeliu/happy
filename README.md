@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 21:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 21:12:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [陈情令](https://s.weibo.com/weibo?q=%E9%99%88%E6%83%85%E4%BB%A4&t=31&band_rank=6&Refer=top)<br />
 7. [金晨的嘴怎么了](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E7%9A%84%E5%98%B4%E6%80%8E%E4%B9%88%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [台警方称不会侦办大小S被控吸毒](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E8%AD%A6%E6%96%B9%E7%A7%B0%E4%B8%8D%E4%BC%9A%E4%BE%A6%E5%8A%9E%E5%A4%A7%E5%B0%8FS%E8%A2%AB%E6%8E%A7%E5%90%B8%E6%AF%92%23&t=31&band_rank=8&Refer=top)<br />
-9. [杨幂撑伞](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E6%92%91%E4%BC%9E%23&t=31&band_rank=9&Refer=top)<br />
+9. [爱尔眼科王勇不接受艾芬道歉](https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%B0%94%E7%9C%BC%E7%A7%91%E7%8E%8B%E5%8B%87%E4%B8%8D%E6%8E%A5%E5%8F%97%E8%89%BE%E8%8A%AC%E9%81%93%E6%AD%89%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -20,9 +20,9 @@
 4. [「泰坦尼克」号残骸观光潜艇失联，氧气仅剩 96 小时，美国、加拿大紧急联手部署搜寻，具体情况如何？](https://www.zhihu.com/question/607595452)<br />
 5. [房贷利率时隔十个月又降了，现在该买房吗？今年还有下降空间吗？未来有可能降到零吗？](https://www.zhihu.com/theater/10467)<br />
 6. [媒体评张雪峰关于新闻学专业言论称「学不学新闻不能只凭网红一张嘴」，如何评价此观点？你怎么看新闻学专业？](https://www.zhihu.com/question/607408168)<br />
-7. []()<br />
-8. [有医保，还需不需要再买一份百万医疗险？新推出的「0 免赔额，保证续保」的好医保到底怎么样？](https://www.zhihu.com/question/607422397)<br />
-9. [每斤跌至 3 元，妃子笑荔枝卖出蔬菜价，经销商称「5 年来最低的价格」，今年荔枝为何降得如此夸张？](https://www.zhihu.com/question/607612022)<br />
+7. [有医保，还需不需要再买一份百万医疗险？新推出的「0 免赔额，保证续保」的好医保到底怎么样？](https://www.zhihu.com/question/607422397)<br />
+8. [每斤跌至 3 元，妃子笑荔枝卖出蔬菜价，经销商称「5 年来最低的价格」，今年荔枝为何降得如此夸张？](https://www.zhihu.com/question/607612022)<br />
+9. [MLF 降息落地，LPR 跟进下调，未来降息措施能否扭转消费信心减弱局面？](https://www.zhihu.com/question/607636017)<br />
 
 > 百度  
 
