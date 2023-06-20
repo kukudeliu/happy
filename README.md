@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 14:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 14:01:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [张勇将于 9 月 10 日卸任阿里集团董事会主席兼 CEO 职务，如何解读这一人事变动？](https://www.zhihu.com/question/607605809)<br />
 6. [贾跃亭的车又延期了，并再次抛出了新融资计划，股价瞬间跌超 1/3，如何看待此事？](https://www.zhihu.com/question/607409939)<br />
 7. [DC 中的超人为什么带上眼镜成为克拉克，而别人就认不出他是超人？](https://www.zhihu.com/question/470959218)<br />
-8. [一般博物馆展览都是展示铜镜的背面，为什么不让看铜镜的正面？](https://www.zhihu.com/question/605602394)<br />
-9. [日本排核废水入海，十年可能扩散至整个北太平洋，何时会影响到中国？未来你还敢吃海鱼吗？](https://www.zhihu.com/question/607532765)<br />
+8. [有没有和「去病」「弃疾」一个意思但更文雅一些的名字？](https://www.zhihu.com/question/579655816)<br />
+9. [一般博物馆展览都是展示铜镜的背面，为什么不让看铜镜的正面？](https://www.zhihu.com/question/605602394)<br />
 
 > 百度  
 
