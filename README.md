@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 17:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 17:29:01</h4></div>
 
 > 微博  
 
 1. [王一博改代表作](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%94%B9%E4%BB%A3%E8%A1%A8%E4%BD%9C%23&t=31&band_rank=1&Refer=top)<br />
 2. [陈情令](https://s.weibo.com/weibo?q=%E9%99%88%E6%83%85%E4%BB%A4&t=31&band_rank=2&Refer=top)<br />
 3. [他们是战巡南海绕岛巡航的空中铁拳](https://s.weibo.com/weibo?q=%23%E4%BB%96%E4%BB%AC%E6%98%AF%E6%88%98%E5%B7%A1%E5%8D%97%E6%B5%B7%E7%BB%95%E5%B2%9B%E5%B7%A1%E8%88%AA%E7%9A%84%E7%A9%BA%E4%B8%AD%E9%93%81%E6%8B%B3%23&t=31&band_rank=3&Refer=top)<br />
-4. [吸毒前后真实的变化](https://s.weibo.com/weibo?q=%23%E5%90%B8%E6%AF%92%E5%89%8D%E5%90%8E%E7%9C%9F%E5%AE%9E%E7%9A%84%E5%8F%98%E5%8C%96%23&t=31&band_rank=4&Refer=top)<br />
-5. [金晨的嘴怎么了](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E7%9A%84%E5%98%B4%E6%80%8E%E4%B9%88%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
+4. [金晨的嘴怎么了](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E7%9A%84%E5%98%B4%E6%80%8E%E4%B9%88%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
+5. [吸毒前后真实的变化](https://s.weibo.com/weibo?q=%23%E5%90%B8%E6%AF%92%E5%89%8D%E5%90%8E%E7%9C%9F%E5%AE%9E%E7%9A%84%E5%8F%98%E5%8C%96%23&t=31&band_rank=5&Refer=top)<br />
 6. [台警方称不会侦办大小S被控吸毒](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E8%AD%A6%E6%96%B9%E7%A7%B0%E4%B8%8D%E4%BC%9A%E4%BE%A6%E5%8A%9E%E5%A4%A7%E5%B0%8FS%E8%A2%AB%E6%8E%A7%E5%90%B8%E6%AF%92%23&t=31&band_rank=6&Refer=top)<br />
 7. [秦岚腰臀比](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E8%85%B0%E8%87%80%E6%AF%94%23&t=31&band_rank=7&Refer=top)<br />
 8. [杨幂撑伞](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E6%92%91%E4%BC%9E%23&t=31&band_rank=8&Refer=top)<br />
