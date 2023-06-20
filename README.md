@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 09:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 09:45:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [如何准确表达 SCI 论文中的图？](https://www.zhihu.com/question/514568911)<br />
 7. [黄子佼曝大小 S 具俊晔嗑药，大 S 工作室回应称「她心脏不好不能接触毒品」，真实情况如何，该如何看待？](https://www.zhihu.com/question/607436138)<br />
 8. [相对论与勾股定理是什么关系？](https://www.zhihu.com/question/607114763)<br />
-9. [女子花 52 元取鱼刺称「医院赚大钱」被怼，你对该事件有哪些看法？](https://www.zhihu.com/question/607346880)<br />
+9. []()<br />
 
 > 百度  
 
