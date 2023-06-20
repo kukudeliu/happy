@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 17:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 17:44:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [中使馆回应中国女生在马尔代夫遭酒店管家性侵，称「已敦促马方严肃对待、认真调查」，后续将如何发展？](https://www.zhihu.com/question/607596882)<br />
 6. [如何看待大学生兴起免费帮忙「遛狗潮」？](https://www.zhihu.com/question/606934285)<br />
 7. [为抢「剩菜盲盒」定闹钟，年轻人为什么会被「剩菜盲盒」吸引？你愿意买「剩菜盲盒」吗？](https://www.zhihu.com/question/607612655)<br />
-8. [你最无法接受游戏在哪些方面堆难度?](https://www.zhihu.com/question/605217770)<br />
-9. [高考全程用了 0.7 的笔有没有问题？](https://www.zhihu.com/question/606112141)<br />
+8. [高考全程用了 0.7 的笔有没有问题？](https://www.zhihu.com/question/606112141)<br />
+9. [你最无法接受游戏在哪些方面堆难度?](https://www.zhihu.com/question/605217770)<br />
 
 > 百度  
 
