@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 16:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 16:05:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [日本排核废水入海，十年可能扩散至整个北太平洋，何时会影响到中国？未来你还敢吃海鱼吗？](https://www.zhihu.com/question/607532765)<br />
 6. [曝凯尔 - 安德森已获中国国籍，将身披中国队球衣，他的到来会给中国男篮带来哪些帮助？](https://www.zhihu.com/question/607604429)<br />
 7. [如果创造一个汉字来替代「茶水」一词 ，你会如何创造它的字形和读音？](https://www.zhihu.com/question/607590763)<br />
-8. [如何看待 2023 年 6 月 20 日 A 股市场？](https://www.zhihu.com/question/607503718)<br />
-9. [订婚的时候，男友姐姐叫他剥荔枝给她吃请问过分吗？](https://www.zhihu.com/question/606884191)<br />
+8. [订婚的时候，男友姐姐叫他剥荔枝给她吃请问过分吗？](https://www.zhihu.com/question/606884191)<br />
+9. [如何看待 2023 年 6 月 20 日 A 股市场？](https://www.zhihu.com/question/607503718)<br />
 
 > 百度  
 
