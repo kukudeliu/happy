@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 09:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 09:18:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [张歆艺 不是所有演艺界的人都是坏人](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%AD%86%E8%89%BA%20%E4%B8%8D%E6%98%AF%E6%89%80%E6%9C%89%E6%BC%94%E8%89%BA%E7%95%8C%E7%9A%84%E4%BA%BA%E9%83%BD%E6%98%AF%E5%9D%8F%E4%BA%BA&t=31&band_rank=4&Refer=top)<br />
 5. [马云指出淘宝天猫未来三个方向](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%BA%91%E6%8C%87%E5%87%BA%E6%B7%98%E5%AE%9D%E5%A4%A9%E7%8C%AB%E6%9C%AA%E6%9D%A5%E4%B8%89%E4%B8%AA%E6%96%B9%E5%90%91%23&t=31&band_rank=5&Refer=top)<br />
 6. [大S工作室回应吸毒指控](https://s.weibo.com/weibo?q=%23%E5%A4%A7S%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%9B%9E%E5%BA%94%E5%90%B8%E6%AF%92%E6%8C%87%E6%8E%A7%23&t=31&band_rank=6&Refer=top)<br />
-7. [庆余年2官宣毛晓彤](https://s.weibo.com/weibo?q=%23%E5%BA%86%E4%BD%99%E5%B9%B42%E5%AE%98%E5%AE%A3%E6%AF%9B%E6%99%93%E5%BD%A4%23&t=31&band_rank=7&Refer=top)<br />
-8. [高考查分遇上端午假期](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86%E9%81%87%E4%B8%8A%E7%AB%AF%E5%8D%88%E5%81%87%E6%9C%9F%23&t=31&band_rank=8&Refer=top)<br />
+7. [高考查分遇上端午假期](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86%E9%81%87%E4%B8%8A%E7%AB%AF%E5%8D%88%E5%81%87%E6%9C%9F%23&t=31&band_rank=7&Refer=top)<br />
+8. [庆余年2官宣毛晓彤](https://s.weibo.com/weibo?q=%23%E5%BA%86%E4%BD%99%E5%B9%B42%E5%AE%98%E5%AE%A3%E6%AF%9B%E6%99%93%E5%BD%A4%23&t=31&band_rank=8&Refer=top)<br />
 9. [白鹿请助理看五月天演唱会](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E8%AF%B7%E5%8A%A9%E7%90%86%E7%9C%8B%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -22,7 +22,7 @@
 6. [女子花 52 元取鱼刺称「医院赚大钱」被怼，你对该事件有哪些看法？](https://www.zhihu.com/question/607346880)<br />
 7. [黄子佼曝大小 S 具俊晔嗑药，大 S 工作室回应称「她心脏不好不能接触毒品」，真实情况如何，该如何看待？](https://www.zhihu.com/question/607436138)<br />
 8. [白酒价格大面积倒挂，渠道现「堰塞湖」，消化库存是今年首要任务，白酒行业今年前景如何？](https://www.zhihu.com/question/607396709)<br />
-9. [继西北大学等高校限制或取消硕士新生奖学金发放后，又一高校取消新生奖学金，如何看待这一现象？](https://www.zhihu.com/question/607454580)<br />
+9. [研究称 2023 年可能成为有记录以来最热的一年，地球正走向「未知领域」，哪些原因导致如此高温？](https://www.zhihu.com/question/607397022)<br />
 
 > 百度  
 
