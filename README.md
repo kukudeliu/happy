@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 20:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 20:16:01</h4></div>
 
 > 微博  
 
 1. [偷偷藏不住受众群体](https://s.weibo.com/weibo?q=%23%E5%81%B7%E5%81%B7%E8%97%8F%E4%B8%8D%E4%BD%8F%E5%8F%97%E4%BC%97%E7%BE%A4%E4%BD%93%23&t=31&band_rank=1&Refer=top)<br />
 2. [陈情令](https://s.weibo.com/weibo?q=%E9%99%88%E6%83%85%E4%BB%A4&t=31&band_rank=2&Refer=top)<br />
 3. [他们是战巡南海绕岛巡航的空中铁拳](https://s.weibo.com/weibo?q=%23%E4%BB%96%E4%BB%AC%E6%98%AF%E6%88%98%E5%B7%A1%E5%8D%97%E6%B5%B7%E7%BB%95%E5%B2%9B%E5%B7%A1%E8%88%AA%E7%9A%84%E7%A9%BA%E4%B8%AD%E9%93%81%E6%8B%B3%23&t=31&band_rank=3&Refer=top)<br />
-4. [官方回应公职人员吸毒被查后仍在岗](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E5%90%B8%E6%AF%92%E8%A2%AB%E6%9F%A5%E5%90%8E%E4%BB%8D%E5%9C%A8%E5%B2%97%23&t=31&band_rank=4&Refer=top)<br />
-5. [肚子瘦不下来的真正原因](https://s.weibo.com/weibo?q=%E8%82%9A%E5%AD%90%E7%98%A6%E4%B8%8D%E4%B8%8B%E6%9D%A5%E7%9A%84%E7%9C%9F%E6%AD%A3%E5%8E%9F%E5%9B%A0&t=31&band_rank=5&Refer=top)<br />
+4. [肚子瘦不下来的真正原因](https://s.weibo.com/weibo?q=%E8%82%9A%E5%AD%90%E7%98%A6%E4%B8%8D%E4%B8%8B%E6%9D%A5%E7%9A%84%E7%9C%9F%E6%AD%A3%E5%8E%9F%E5%9B%A0&t=31&band_rank=4&Refer=top)<br />
+5. [官方回应公职人员吸毒被查后仍在岗](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E5%90%B8%E6%AF%92%E8%A2%AB%E6%9F%A5%E5%90%8E%E4%BB%8D%E5%9C%A8%E5%B2%97%23&t=31&band_rank=5&Refer=top)<br />
 6. [关闭朋友圈半年后的变化](https://s.weibo.com/weibo?q=%23%E5%85%B3%E9%97%AD%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%8D%8A%E5%B9%B4%E5%90%8E%E7%9A%84%E5%8F%98%E5%8C%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [宋轶素颜照](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%BD%B6%E7%B4%A0%E9%A2%9C%E7%85%A7%23&t=31&band_rank=7&Refer=top)<br />
 8. [金晨的嘴怎么了](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E7%9A%84%E5%98%B4%E6%80%8E%E4%B9%88%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
@@ -22,7 +22,7 @@
 6. [如何看待雷军在武汉大学「相信自己，每个人的人生都有无限可能！」主题的演讲，有哪些值得关注的内容？](https://www.zhihu.com/question/607613561)<br />
 7. [「泰坦尼克」号残骸观光潜艇失联，氧气仅剩 96 小时，美国、加拿大紧急联手部署搜寻，具体情况如何？](https://www.zhihu.com/question/607595452)<br />
 8. [台湾艺人黄子佼承认「强吻少女拍裸照」，中午发视频道歉，暴露出哪些问题？其将面临哪些法律惩罚？](https://www.zhihu.com/question/607440153)<br />
-9. [为什么吃东西会让人感到愉悦?](https://www.zhihu.com/question/336849600)<br />
+9. [媒体评张雪峰关于新闻学专业言论称「学不学新闻不能只凭网红一张嘴」，如何评价此观点？你怎么看新闻学专业？](https://www.zhihu.com/question/607408168)<br />
 
 > 百度  
 
