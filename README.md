@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 23:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 23:59:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [房贷降息！算算你每月能省多少](https://www.baidu.com/s?wd=%E6%88%BF%E8%B4%B7%E9%99%8D%E6%81%AF%EF%BC%81%E7%AE%97%E7%AE%97%E4%BD%A0%E6%AF%8F%E6%9C%88%E8%83%BD%E7%9C%81%E5%A4%9A%E5%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [夫妻江中游泳溺亡 女儿岸边哭喊求救](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E6%B1%9F%E4%B8%AD%E6%B8%B8%E6%B3%B3%E6%BA%BA%E4%BA%A1+%E5%A5%B3%E5%84%BF%E5%B2%B8%E8%BE%B9%E5%93%AD%E5%96%8A%E6%B1%82%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [热血！毕业典礼唢呐开场引爆全场](https://www.baidu.com/s?wd=%E7%83%AD%E8%A1%80%EF%BC%81%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E5%94%A2%E5%91%90%E5%BC%80%E5%9C%BA%E5%BC%95%E7%88%86%E5%85%A8%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [两条马路被“偷走” 嫌犯落网](https://www.baidu.com/s?wd=%E4%B8%A4%E6%9D%A1%E9%A9%AC%E8%B7%AF%E8%A2%AB%E2%80%9C%E5%81%B7%E8%B5%B0%E2%80%9D+%E5%AB%8C%E7%8A%AF%E8%90%BD%E7%BD%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [游客新疆旅游拍下雪崩全过程](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E6%96%B0%E7%96%86%E6%97%85%E6%B8%B8%E6%8B%8D%E4%B8%8B%E9%9B%AA%E5%B4%A9%E5%85%A8%E8%BF%87%E7%A8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [房贷降息！算算你每月能省多少](https://www.baidu.com/s?wd=%E6%88%BF%E8%B4%B7%E9%99%8D%E6%81%AF%EF%BC%81%E7%AE%97%E7%AE%97%E4%BD%A0%E6%AF%8F%E6%9C%88%E8%83%BD%E7%9C%81%E5%A4%9A%E5%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [夫妻江中游泳溺亡 女儿岸边哭喊求救](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E6%B1%9F%E4%B8%AD%E6%B8%B8%E6%B3%B3%E6%BA%BA%E4%BA%A1+%E5%A5%B3%E5%84%BF%E5%B2%B8%E8%BE%B9%E5%93%AD%E5%96%8A%E6%B1%82%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [热血！毕业典礼唢呐开场引爆全场](https://www.baidu.com/s?wd=%E7%83%AD%E8%A1%80%EF%BC%81%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E5%94%A2%E5%91%90%E5%BC%80%E5%9C%BA%E5%BC%95%E7%88%86%E5%85%A8%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [两条马路被“偷走” 嫌犯落网](https://www.baidu.com/s?wd=%E4%B8%A4%E6%9D%A1%E9%A9%AC%E8%B7%AF%E8%A2%AB%E2%80%9C%E5%81%B7%E8%B5%B0%E2%80%9D+%E5%AB%8C%E7%8A%AF%E8%90%BD%E7%BD%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [游客新疆旅游拍下雪崩全过程](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E6%96%B0%E7%96%86%E6%97%85%E6%B8%B8%E6%8B%8D%E4%B8%8B%E9%9B%AA%E5%B4%A9%E5%85%A8%E8%BF%87%E7%A8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
