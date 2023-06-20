@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 18:05:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 18:06:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [金晨的嘴怎么了](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E7%9A%84%E5%98%B4%E6%80%8E%E4%B9%88%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [学生帽穗丢了老师无实物拨穗](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E5%B8%BD%E7%A9%97%E4%B8%A2%E4%BA%86%E8%80%81%E5%B8%88%E6%97%A0%E5%AE%9E%E7%89%A9%E6%8B%A8%E7%A9%97%23&t=31&band_rank=5&Refer=top)<br />
 6. [王一博改代表作](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%94%B9%E4%BB%A3%E8%A1%A8%E4%BD%9C%23&t=31&band_rank=6&Refer=top)<br />
-7. [吴宗宪 这辈子最痛恨吸毒的人](https://s.weibo.com/weibo?q=%E5%90%B4%E5%AE%97%E5%AE%AA%20%E8%BF%99%E8%BE%88%E5%AD%90%E6%9C%80%E7%97%9B%E6%81%A8%E5%90%B8%E6%AF%92%E7%9A%84%E4%BA%BA&t=31&band_rank=7&Refer=top)<br />
-8. [宋轶素颜照](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%BD%B6%E7%B4%A0%E9%A2%9C%E7%85%A7%23&t=31&band_rank=8&Refer=top)<br />
-9. [秦岚腰臀比](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E8%85%B0%E8%87%80%E6%AF%94%23&t=31&band_rank=9&Refer=top)<br />
+7. [学校摆近千桌饭菜请师生吃席迎端午](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E6%A0%A1%E6%91%86%E8%BF%91%E5%8D%83%E6%A1%8C%E9%A5%AD%E8%8F%9C%E8%AF%B7%E5%B8%88%E7%94%9F%E5%90%83%E5%B8%AD%E8%BF%8E%E7%AB%AF%E5%8D%88%23&t=31&band_rank=7&Refer=top)<br />
+8. [吴宗宪 这辈子最痛恨吸毒的人](https://s.weibo.com/weibo?q=%E5%90%B4%E5%AE%97%E5%AE%AA%20%E8%BF%99%E8%BE%88%E5%AD%90%E6%9C%80%E7%97%9B%E6%81%A8%E5%90%B8%E6%AF%92%E7%9A%84%E4%BA%BA&t=31&band_rank=8&Refer=top)<br />
+9. [宋轶素颜照](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%BD%B6%E7%B4%A0%E9%A2%9C%E7%85%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
