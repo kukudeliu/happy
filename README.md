@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 00:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 00:55:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [女生自费30万拍作品拒绝领三等奖](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E8%87%AA%E8%B4%B930%E4%B8%87%E6%8B%8D%E4%BD%9C%E5%93%81%E6%8B%92%E7%BB%9D%E9%A2%86%E4%B8%89%E7%AD%89%E5%A5%96%23&t=31&band_rank=5&Refer=top)<br />
 6. [关闭朋友圈半年后的变化](https://s.weibo.com/weibo?q=%23%E5%85%B3%E9%97%AD%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%8D%8A%E5%B9%B4%E5%90%8E%E7%9A%84%E5%8F%98%E5%8C%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [陈情令](https://s.weibo.com/weibo?q=%E9%99%88%E6%83%85%E4%BB%A4&t=31&band_rank=7&Refer=top)<br />
-8. [兄妹从29楼通风管道坠入地下室身亡](https://s.weibo.com/weibo?q=%23%E5%85%84%E5%A6%B9%E4%BB%8E29%E6%A5%BC%E9%80%9A%E9%A3%8E%E7%AE%A1%E9%81%93%E5%9D%A0%E5%85%A5%E5%9C%B0%E4%B8%8B%E5%AE%A4%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [金晨的嘴怎么了](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E7%9A%84%E5%98%B4%E6%80%8E%E4%B9%88%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+8. [金晨的嘴怎么了](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E7%9A%84%E5%98%B4%E6%80%8E%E4%B9%88%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [兄妹从29楼通风管道坠入地下室身亡](https://s.weibo.com/weibo?q=%23%E5%85%84%E5%A6%B9%E4%BB%8E29%E6%A5%BC%E9%80%9A%E9%A3%8E%E7%AE%A1%E9%81%93%E5%9D%A0%E5%85%A5%E5%9C%B0%E4%B8%8B%E5%AE%A4%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
