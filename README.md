@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 10:57:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 10:58:01</h4></div>
 
 > 微博  
 
-1. [中国26岁女生在马代被酒店管家性侵](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD26%E5%B2%81%E5%A5%B3%E7%94%9F%E5%9C%A8%E9%A9%AC%E4%BB%A3%E8%A2%AB%E9%85%92%E5%BA%97%E7%AE%A1%E5%AE%B6%E6%80%A7%E4%BE%B5%23&t=31&band_rank=1&Refer=top)<br />
-2. [小红书回应女幼师疑给幼儿喂避孕药](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%BA%A2%E4%B9%A6%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%B9%BC%E5%B8%88%E7%96%91%E7%BB%99%E5%B9%BC%E5%84%BF%E5%96%82%E9%81%BF%E5%AD%95%E8%8D%AF%23&t=31&band_rank=2&Refer=top)<br />
+1. [小红书回应女幼师疑给幼儿喂避孕药](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%BA%A2%E4%B9%A6%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%B9%BC%E5%B8%88%E7%96%91%E7%BB%99%E5%B9%BC%E5%84%BF%E5%96%82%E9%81%BF%E5%AD%95%E8%8D%AF%23&t=31&band_rank=1&Refer=top)<br />
+2. [中国26岁女生在马代被酒店管家性侵](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD26%E5%B2%81%E5%A5%B3%E7%94%9F%E5%9C%A8%E9%A9%AC%E4%BB%A3%E8%A2%AB%E9%85%92%E5%BA%97%E7%AE%A1%E5%AE%B6%E6%80%A7%E4%BE%B5%23&t=31&band_rank=2&Refer=top)<br />
 3. [杭州亚运奖牌上的湖山长什么样](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E5%A5%96%E7%89%8C%E4%B8%8A%E7%9A%84%E6%B9%96%E5%B1%B1%E9%95%BF%E4%BB%80%E4%B9%88%E6%A0%B7%23&t=31&band_rank=3&Refer=top)<br />
 4. [黄子佼爱徒Lulu发声](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E4%BD%BC%E7%88%B1%E5%BE%92Lulu%E5%8F%91%E5%A3%B0%23&t=31&band_rank=4&Refer=top)<br />
 5. [杨迪说陈妍希的家像样板房](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%BF%AA%E8%AF%B4%E9%99%88%E5%A6%8D%E5%B8%8C%E7%9A%84%E5%AE%B6%E5%83%8F%E6%A0%B7%E6%9D%BF%E6%88%BF%23&t=31&band_rank=5&Refer=top)<br />
@@ -21,7 +21,7 @@
 5. [如何准确表达 SCI 论文中的图？](https://www.zhihu.com/question/514568911)<br />
 6. [金华国际足球邀请赛中国亚运队 1:0 韩国 U24，孙沁涵破门，韩佳奇力保球门不失，如何评价本场比赛？](https://www.zhihu.com/question/607515200)<br />
 7. [黄子佼曝大小 S 具俊晔嗑药，大 S 工作室回应称「她心脏不好不能接触毒品」，真实情况如何，该如何看待？](https://www.zhihu.com/question/607436138)<br />
-8. []()<br />
+8. [拜登回应布林肯访华进展，称「中美关系走在正轨上」，如何解读这一评价？中美关系会藉此改善吗？](https://www.zhihu.com/question/607591405)<br />
 9. [为什么动画《鬼灭之刃》锻刀村篇被吐槽较多？](https://www.zhihu.com/question/603504171)<br />
 
 > 百度  
