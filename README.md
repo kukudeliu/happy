@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 16:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 16:06:02</h4></div>
 
 > 微博  
 
@@ -14,15 +14,15 @@
 
 > 知乎  
 
-1. [布林肯总结访华之行，称「过去两天里我们迈出了积极一步」，透露了哪些信息？中美关系将如何发展？](https://www.zhihu.com/question/607531271)<br />
-2. [董路认为「贵州村超在国足中没有什么用处」，如何看待其观点？](https://www.zhihu.com/question/607108205)<br />
+1. [董路认为「贵州村超在国足中没有什么用处」，如何看待其观点？](https://www.zhihu.com/question/607108205)<br />
+2. [布林肯总结访华之行，称「过去两天里我们迈出了积极一步」，透露了哪些信息？中美关系将如何发展？](https://www.zhihu.com/question/607531271)<br />
 3. [警方辟谣女幼师给幼儿喂避孕药，称「网民是男性，非幼教也未买避孕药，已被刑拘」，该男子造谣的动机是什么？](https://www.zhihu.com/question/607587881)<br />
 4. [张勇将于 9 月 10 日卸任阿里集团董事会主席兼 CEO 职务，如何解读这一人事变动？](https://www.zhihu.com/question/607605809)<br />
 5. [日本排核废水入海，十年可能扩散至整个北太平洋，何时会影响到中国？未来你还敢吃海鱼吗？](https://www.zhihu.com/question/607532765)<br />
 6. [曝凯尔 - 安德森已获中国国籍，将身披中国队球衣，他的到来会给中国男篮带来哪些帮助？](https://www.zhihu.com/question/607604429)<br />
 7. [如果创造一个汉字来替代「茶水」一词 ，你会如何创造它的字形和读音？](https://www.zhihu.com/question/607590763)<br />
-8. [订婚的时候，男友姐姐叫他剥荔枝给她吃请问过分吗？](https://www.zhihu.com/question/606884191)<br />
-9. [如何看待 2023 年 6 月 20 日 A 股市场？](https://www.zhihu.com/question/607503718)<br />
+8. [如何看待 2023 年 6 月 20 日 A 股市场？](https://www.zhihu.com/question/607503718)<br />
+9. [订婚的时候，男友姐姐叫他剥荔枝给她吃请问过分吗？](https://www.zhihu.com/question/606884191)<br />
 
 > 百度  
 
