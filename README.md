@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 16:33:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 16:34:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [吸毒前后真实的变化](https://s.weibo.com/weibo?q=%23%E5%90%B8%E6%AF%92%E5%89%8D%E5%90%8E%E7%9C%9F%E5%AE%9E%E7%9A%84%E5%8F%98%E5%8C%96%23&t=31&band_rank=4&Refer=top)<br />
 5. [在医院ICU住了四年得多少钱](https://s.weibo.com/weibo?q=%E5%9C%A8%E5%8C%BB%E9%99%A2ICU%E4%BD%8F%E4%BA%86%E5%9B%9B%E5%B9%B4%E5%BE%97%E5%A4%9A%E5%B0%91%E9%92%B1&t=31&band_rank=5&Refer=top)<br />
 6. [台警方称不会侦办大小S被控吸毒](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E8%AD%A6%E6%96%B9%E7%A7%B0%E4%B8%8D%E4%BC%9A%E4%BE%A6%E5%8A%9E%E5%A4%A7%E5%B0%8FS%E8%A2%AB%E6%8E%A7%E5%90%B8%E6%AF%92%23&t=31&band_rank=6&Refer=top)<br />
-7. [逆水寒 开放了生孩子的功能](https://s.weibo.com/weibo?q=%E9%80%86%E6%B0%B4%E5%AF%92%20%E5%BC%80%E6%94%BE%E4%BA%86%E7%94%9F%E5%AD%A9%E5%AD%90%E7%9A%84%E5%8A%9F%E8%83%BD&t=31&band_rank=7&Refer=top)<br />
-8. [秦岚腰臀比](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E8%85%B0%E8%87%80%E6%AF%94%23&t=31&band_rank=8&Refer=top)<br />
+7. [秦岚腰臀比](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E8%85%B0%E8%87%80%E6%AF%94%23&t=31&band_rank=7&Refer=top)<br />
+8. [逆水寒 开放了生孩子的功能](https://s.weibo.com/weibo?q=%E9%80%86%E6%B0%B4%E5%AF%92%20%E5%BC%80%E6%94%BE%E4%BA%86%E7%94%9F%E5%AD%A9%E5%AD%90%E7%9A%84%E5%8A%9F%E8%83%BD&t=31&band_rank=8&Refer=top)<br />
 9. [欧阳娜娜的长安第一美人](https://s.weibo.com/weibo?q=%23%E6%AC%A7%E9%98%B3%E5%A8%9C%E5%A8%9C%E7%9A%84%E9%95%BF%E5%AE%89%E7%AC%AC%E4%B8%80%E7%BE%8E%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
