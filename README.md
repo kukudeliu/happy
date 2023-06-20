@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 15:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 15:39:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [台警方称不会侦办大小S被控吸毒](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E8%AD%A6%E6%96%B9%E7%A7%B0%E4%B8%8D%E4%BC%9A%E4%BE%A6%E5%8A%9E%E5%A4%A7%E5%B0%8FS%E8%A2%AB%E6%8E%A7%E5%90%B8%E6%AF%92%23&t=31&band_rank=6&Refer=top)<br />
 7. [欧阳娜娜的长安第一美人](https://s.weibo.com/weibo?q=%23%E6%AC%A7%E9%98%B3%E5%A8%9C%E5%A8%9C%E7%9A%84%E9%95%BF%E5%AE%89%E7%AC%AC%E4%B8%80%E7%BE%8E%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [逆水寒 开放了生孩子的功能](https://s.weibo.com/weibo?q=%E9%80%86%E6%B0%B4%E5%AF%92%20%E5%BC%80%E6%94%BE%E4%BA%86%E7%94%9F%E5%AD%A9%E5%AD%90%E7%9A%84%E5%8A%9F%E8%83%BD&t=31&band_rank=8&Refer=top)<br />
-9. [阿里集团换帅](https://s.weibo.com/weibo?q=%23%E9%98%BF%E9%87%8C%E9%9B%86%E5%9B%A2%E6%8D%A2%E5%B8%85%23&t=31&band_rank=9&Refer=top)<br />
+9. [男子表白失败扔花大喊她是女同](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%A1%A8%E7%99%BD%E5%A4%B1%E8%B4%A5%E6%89%94%E8%8A%B1%E5%A4%A7%E5%96%8A%E5%A5%B9%E6%98%AF%E5%A5%B3%E5%90%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -20,9 +20,9 @@
 4. [张勇将于 9 月 10 日卸任阿里集团董事会主席兼 CEO 职务，如何解读这一人事变动？](https://www.zhihu.com/question/607605809)<br />
 5. [贾跃亭的车又延期了，并再次抛出了新融资计划，股价瞬间跌超 1/3，如何看待此事？](https://www.zhihu.com/question/607409939)<br />
 6. [日本排核废水入海，十年可能扩散至整个北太平洋，何时会影响到中国？未来你还敢吃海鱼吗？](https://www.zhihu.com/question/607532765)<br />
-7. [曝凯尔 - 安德森已获中国国籍，将身披中国队球衣，他的到来会给中国男篮带来哪些帮助？](https://www.zhihu.com/question/607604429)<br />
-8. [如果创造一个汉字来替代「茶水」一词 ，你会如何创造它的字形和读音？](https://www.zhihu.com/question/607590763)<br />
-9. [170 余位捐赠人为监督公益机构，一年跨越十万余公里实地探访，对公益行业有哪些意义？值得参考吗？](https://www.zhihu.com/question/607499501)<br />
+7. [订婚的时候，男友姐姐叫他剥荔枝给她吃请问过分吗？](https://www.zhihu.com/question/606884191)<br />
+8. [曝凯尔 - 安德森已获中国国籍，将身披中国队球衣，他的到来会给中国男篮带来哪些帮助？](https://www.zhihu.com/question/607604429)<br />
+9. [如果创造一个汉字来替代「茶水」一词 ，你会如何创造它的字形和读音？](https://www.zhihu.com/question/607590763)<br />
 
 > 百度  
 
