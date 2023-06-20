@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 08:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 08:44:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [一家三口去世:冒出十多人争房产](https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E5%8E%BB%E4%B8%96%3A%E5%86%92%E5%87%BA%E5%8D%81%E5%A4%9A%E4%BA%BA%E4%BA%89%E6%88%BF%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [拜登积极回应“布林肯访华”](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E7%A7%AF%E6%9E%81%E5%9B%9E%E5%BA%94%E2%80%9C%E5%B8%83%E6%9E%97%E8%82%AF%E8%AE%BF%E5%8D%8E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女子派出所等讯问时死亡 官方通报](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%B4%BE%E5%87%BA%E6%89%80%E7%AD%89%E8%AE%AF%E9%97%AE%E6%97%B6%E6%AD%BB%E4%BA%A1+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [黄子佼已苏醒](https://www.baidu.com/s?wd=%E9%BB%84%E5%AD%90%E4%BD%BC%E5%B7%B2%E8%8B%8F%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [武大为2020学生补办毕业礼](https://www.baidu.com/s?wd=%E6%AD%A6%E5%A4%A7%E4%B8%BA2020%E5%AD%A6%E7%94%9F%E8%A1%A5%E5%8A%9E%E6%AF%95%E4%B8%9A%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [一家三口去世:冒出十多人争房产](https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E5%8E%BB%E4%B8%96%3A%E5%86%92%E5%87%BA%E5%8D%81%E5%A4%9A%E4%BA%BA%E4%BA%89%E6%88%BF%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [拜登积极回应“布林肯访华”](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E7%A7%AF%E6%9E%81%E5%9B%9E%E5%BA%94%E2%80%9C%E5%B8%83%E6%9E%97%E8%82%AF%E8%AE%BF%E5%8D%8E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女子派出所等讯问时死亡 官方通报](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%B4%BE%E5%87%BA%E6%89%80%E7%AD%89%E8%AE%AF%E9%97%AE%E6%97%B6%E6%AD%BB%E4%BA%A1+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [黄子佼已苏醒](https://www.baidu.com/s?wd=%E9%BB%84%E5%AD%90%E4%BD%BC%E5%B7%B2%E8%8B%8F%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [武大为2020学生补办毕业礼](https://www.baidu.com/s?wd=%E6%AD%A6%E5%A4%A7%E4%B8%BA2020%E5%AD%A6%E7%94%9F%E8%A1%A5%E5%8A%9E%E6%AF%95%E4%B8%9A%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
