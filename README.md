@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 22:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 22:21:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [关闭朋友圈半年后的变化](https://s.weibo.com/weibo?q=%23%E5%85%B3%E9%97%AD%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%8D%8A%E5%B9%B4%E5%90%8E%E7%9A%84%E5%8F%98%E5%8C%96%23&t=31&band_rank=5&Refer=top)<br />
 6. [警方通报广州一出租屋发现3具尸体](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%B9%BF%E5%B7%9E%E4%B8%80%E5%87%BA%E7%A7%9F%E5%B1%8B%E5%8F%91%E7%8E%B03%E5%85%B7%E5%B0%B8%E4%BD%93%23&t=31&band_rank=6&Refer=top)<br />
 7. [偷偷藏不住受众群体](https://s.weibo.com/weibo?q=%23%E5%81%B7%E5%81%B7%E8%97%8F%E4%B8%8D%E4%BD%8F%E5%8F%97%E4%BC%97%E7%BE%A4%E4%BD%93%23&t=31&band_rank=7&Refer=top)<br />
-8. [试验二十五号卫星成功发射](https://s.weibo.com/weibo?q=%23%E8%AF%95%E9%AA%8C%E4%BA%8C%E5%8D%81%E4%BA%94%E5%8F%B7%E5%8D%AB%E6%98%9F%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%23&t=31&band_rank=8&Refer=top)<br />
-9. [白敬亭发了粉丝修的图](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%8F%91%E4%BA%86%E7%B2%89%E4%B8%9D%E4%BF%AE%E7%9A%84%E5%9B%BE%23&t=31&band_rank=9&Refer=top)<br />
+8. [白敬亭发了粉丝修的图](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%8F%91%E4%BA%86%E7%B2%89%E4%B8%9D%E4%BF%AE%E7%9A%84%E5%9B%BE%23&t=31&band_rank=8&Refer=top)<br />
+9. [霍启刚患上睡眠窒息症](https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%90%AF%E5%88%9A%E6%82%A3%E4%B8%8A%E7%9D%A1%E7%9C%A0%E7%AA%92%E6%81%AF%E7%97%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -18,11 +18,11 @@
 2. [中使馆回应中国女生在马尔代夫遭酒店管家性侵，称「已敦促马方严肃对待、认真调查」，后续将如何发展？](https://www.zhihu.com/question/607596882)<br />
 3. [每斤跌至 3 元，妃子笑荔枝卖出蔬菜价，经销商称「5 年来最低的价格」，今年荔枝为何降得如此夸张？](https://www.zhihu.com/question/607612022)<br />
 4. [5 月社会消费品零售总额比上月回落 5.7%，什么原因导致「内需不旺」? 居民消费意愿因何降低？](https://www.zhihu.com/question/607048519)<br />
-5. [房贷利率时隔十个月又降了，现在该买房吗？今年还有下降空间吗？未来有可能降到零吗？](https://www.zhihu.com/theater/10467)<br />
-6. [同事提出了离职后有点消极怠工，应该怎么处理？](https://www.zhihu.com/question/434114178)<br />
-7. [台湾 TVBS 民调显示柯文哲支持度为 33% 超过赖清德暂居第一，如何看待这一民调结果？](https://www.zhihu.com/question/607639573)<br />
-8. [40 岁以后，你发现哪些钱根本没必要花？](https://www.zhihu.com/question/593808844)<br />
-9. [热身赛国足 2:0 巴勒斯坦，武磊连场破门，蒋光太斩国家队生涯首球，如何评价国足表现？](https://www.zhihu.com/question/607667110)<br />
+5. [同事提出了离职后有点消极怠工，应该怎么处理？](https://www.zhihu.com/question/434114178)<br />
+6. [台湾 TVBS 民调显示柯文哲支持度为 33% 超过赖清德暂居第一，如何看待这一民调结果？](https://www.zhihu.com/question/607639573)<br />
+7. [40 岁以后，你发现哪些钱根本没必要花？](https://www.zhihu.com/question/593808844)<br />
+8. [热身赛国足 2:0 巴勒斯坦，武磊连场破门，蒋光太斩国家队生涯首球，如何评价国足表现？](https://www.zhihu.com/question/607667110)<br />
+9. [「降息潮」蔓延，「存款特种兵」跨城存款，如何看待这一现象？「降息」背景下，个人如何做好资产配置？](https://www.zhihu.com/question/607416679)<br />
 
 > 百度  
 
