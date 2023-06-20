@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 07:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 07:44:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [种地吧 根本补不完](https://s.weibo.com/weibo?q=%E7%A7%8D%E5%9C%B0%E5%90%A7%20%E6%A0%B9%E6%9C%AC%E8%A1%A5%E4%B8%8D%E5%AE%8C&t=31&band_rank=6&Refer=top)<br />
 7. [女生自费30万拍作品拒绝领三等奖](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E8%87%AA%E8%B4%B930%E4%B8%87%E6%8B%8D%E4%BD%9C%E5%93%81%E6%8B%92%E7%BB%9D%E9%A2%86%E4%B8%89%E7%AD%89%E5%A5%96%23&t=31&band_rank=7&Refer=top)<br />
 8. [霍启刚患上睡眠窒息症](https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%90%AF%E5%88%9A%E6%82%A3%E4%B8%8A%E7%9D%A1%E7%9C%A0%E7%AA%92%E6%81%AF%E7%97%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [马伯骞问爱马仕是什么](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%BC%AF%E9%AA%9E%E9%97%AE%E7%88%B1%E9%A9%AC%E4%BB%95%E6%98%AF%E4%BB%80%E4%B9%88%23&t=31&band_rank=9&Refer=top)<br />
+9. [长风渡第9集封神](https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%A3%8E%E6%B8%A1%E7%AC%AC9%E9%9B%86%E5%B0%81%E7%A5%9E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -32,9 +32,9 @@
 4. [他们是战巡南海绕岛巡航的空中铁拳](https://www.baidu.com/s?wd=%E4%BB%96%E4%BB%AC%E6%98%AF%E6%88%98%E5%B7%A1%E5%8D%97%E6%B5%B7%E7%BB%95%E5%B2%9B%E5%B7%A1%E8%88%AA%E7%9A%84%E7%A9%BA%E4%B8%AD%E9%93%81%E6%8B%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [观光潜艇失联 将是史上最深深海救援](https://www.baidu.com/s?wd=%E8%A7%82%E5%85%89%E6%BD%9C%E8%89%87%E5%A4%B1%E8%81%94+%E5%B0%86%E6%98%AF%E5%8F%B2%E4%B8%8A%E6%9C%80%E6%B7%B1%E6%B7%B1%E6%B5%B7%E6%95%91%E6%8F%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [学生驾车身亡父母获赔上亿](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E9%A9%BE%E8%BD%A6%E8%BA%AB%E4%BA%A1%E7%88%B6%E6%AF%8D%E8%8E%B7%E8%B5%94%E4%B8%8A%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子称术后纱布被留体内26天](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E6%9C%AF%E5%90%8E%E7%BA%B1%E5%B8%83%E8%A2%AB%E7%95%99%E4%BD%93%E5%86%8526%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子称母亲坟被施工队挖开 骨灰丢失](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A7%B0%E6%AF%8D%E4%BA%B2%E5%9D%9F%E8%A2%AB%E6%96%BD%E5%B7%A5%E9%98%9F%E6%8C%96%E5%BC%80+%E9%AA%A8%E7%81%B0%E4%B8%A2%E5%A4%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女子房门被封死 封门邻居被指已离世](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%88%BF%E9%97%A8%E8%A2%AB%E5%B0%81%E6%AD%BB+%E5%B0%81%E9%97%A8%E9%82%BB%E5%B1%85%E8%A2%AB%E6%8C%87%E5%B7%B2%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [陕西一官员坠楼身亡 官方：工伤意外](https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF%E4%B8%80%E5%AE%98%E5%91%98%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1+%E5%AE%98%E6%96%B9%EF%BC%9A%E5%B7%A5%E4%BC%A4%E6%84%8F%E5%A4%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [夫妻江中游泳溺亡 女儿岸边哭喊求救](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E6%B1%9F%E4%B8%AD%E6%B8%B8%E6%B3%B3%E6%BA%BA%E4%BA%A1+%E5%A5%B3%E5%84%BF%E5%B2%B8%E8%BE%B9%E5%93%AD%E5%96%8A%E6%B1%82%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [他们是战巡南海绕岛巡航的空中铁拳](https://www.baidu.com/s?wd=%E4%BB%96%E4%BB%AC%E6%98%AF%E6%88%98%E5%B7%A1%E5%8D%97%E6%B5%B7%E7%BB%95%E5%B2%9B%E5%B7%A1%E8%88%AA%E7%9A%84%E7%A9%BA%E4%B8%AD%E9%93%81%E6%8B%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [观光潜艇失联 将是史上最深深海救援](https://www.baidu.com/s?wd=%E8%A7%82%E5%85%89%E6%BD%9C%E8%89%87%E5%A4%B1%E8%81%94+%E5%B0%86%E6%98%AF%E5%8F%B2%E4%B8%8A%E6%9C%80%E6%B7%B1%E6%B7%B1%E6%B5%B7%E6%95%91%E6%8F%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [学生驾车身亡父母获赔上亿](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E9%A9%BE%E8%BD%A6%E8%BA%AB%E4%BA%A1%E7%88%B6%E6%AF%8D%E8%8E%B7%E8%B5%94%E4%B8%8A%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子称术后纱布被留体内26天](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E6%9C%AF%E5%90%8E%E7%BA%B1%E5%B8%83%E8%A2%AB%E7%95%99%E4%BD%93%E5%86%8526%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子称母亲坟被施工队挖开 骨灰丢失](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A7%B0%E6%AF%8D%E4%BA%B2%E5%9D%9F%E8%A2%AB%E6%96%BD%E5%B7%A5%E9%98%9F%E6%8C%96%E5%BC%80+%E9%AA%A8%E7%81%B0%E4%B8%A2%E5%A4%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女子房门被封死 封门邻居被指已离世](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%88%BF%E9%97%A8%E8%A2%AB%E5%B0%81%E6%AD%BB+%E5%B0%81%E9%97%A8%E9%82%BB%E5%B1%85%E8%A2%AB%E6%8C%87%E5%B7%B2%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [陕西一官员坠楼身亡 官方：工伤意外](https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF%E4%B8%80%E5%AE%98%E5%91%98%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1+%E5%AE%98%E6%96%B9%EF%BC%9A%E5%B7%A5%E4%BC%A4%E6%84%8F%E5%A4%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [夫妻江中游泳溺亡 女儿岸边哭喊求救](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E6%B1%9F%E4%B8%AD%E6%B8%B8%E6%B3%B3%E6%BA%BA%E4%BA%A1+%E5%A5%B3%E5%84%BF%E5%B2%B8%E8%BE%B9%E5%93%AD%E5%96%8A%E6%B1%82%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
