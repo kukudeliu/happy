@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 03:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 03:10:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [大妈嫌店铺招牌晃眼强行关灯](https://www.baidu.com/s?wd=%E5%A4%A7%E5%A6%88%E5%AB%8C%E5%BA%97%E9%93%BA%E6%8B%9B%E7%89%8C%E6%99%83%E7%9C%BC%E5%BC%BA%E8%A1%8C%E5%85%B3%E7%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [失联观光潜艇或卡在泰坦尼克号残骸中](https://www.baidu.com/s?wd=%E5%A4%B1%E8%81%94%E8%A7%82%E5%85%89%E6%BD%9C%E8%89%87%E6%88%96%E5%8D%A1%E5%9C%A8%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7%E6%AE%8B%E9%AA%B8%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [马斯克谈生育率下降](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E8%B0%88%E7%94%9F%E8%82%B2%E7%8E%87%E4%B8%8B%E9%99%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [内蒙古新井煤矿事故失联者全部遇难](https://www.baidu.com/s?wd=%E5%86%85%E8%92%99%E5%8F%A4%E6%96%B0%E4%BA%95%E7%85%A4%E7%9F%BF%E4%BA%8B%E6%95%85%E5%A4%B1%E8%81%94%E8%80%85%E5%85%A8%E9%83%A8%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [学生驾车身亡父母获赔上亿](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E9%A9%BE%E8%BD%A6%E8%BA%AB%E4%BA%A1%E7%88%B6%E6%AF%8D%E8%8E%B7%E8%B5%94%E4%B8%8A%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [大妈嫌店铺招牌晃眼强行关灯](https://www.baidu.com/s?wd=%E5%A4%A7%E5%A6%88%E5%AB%8C%E5%BA%97%E9%93%BA%E6%8B%9B%E7%89%8C%E6%99%83%E7%9C%BC%E5%BC%BA%E8%A1%8C%E5%85%B3%E7%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [失联观光潜艇或卡在泰坦尼克号残骸中](https://www.baidu.com/s?wd=%E5%A4%B1%E8%81%94%E8%A7%82%E5%85%89%E6%BD%9C%E8%89%87%E6%88%96%E5%8D%A1%E5%9C%A8%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7%E6%AE%8B%E9%AA%B8%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [马斯克谈生育率下降](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E8%B0%88%E7%94%9F%E8%82%B2%E7%8E%87%E4%B8%8B%E9%99%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [内蒙古新井煤矿事故失联者全部遇难](https://www.baidu.com/s?wd=%E5%86%85%E8%92%99%E5%8F%A4%E6%96%B0%E4%BA%95%E7%85%A4%E7%9F%BF%E4%BA%8B%E6%95%85%E5%A4%B1%E8%81%94%E8%80%85%E5%85%A8%E9%83%A8%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [学生驾车身亡父母获赔上亿](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E9%A9%BE%E8%BD%A6%E8%BA%AB%E4%BA%A1%E7%88%B6%E6%AF%8D%E8%8E%B7%E8%B5%94%E4%B8%8A%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
