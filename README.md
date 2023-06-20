@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 18:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 18:25:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [金晨的嘴怎么了](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E7%9A%84%E5%98%B4%E6%80%8E%E4%B9%88%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [学生帽穗丢了老师无实物拨穗](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E5%B8%BD%E7%A9%97%E4%B8%A2%E4%BA%86%E8%80%81%E5%B8%88%E6%97%A0%E5%AE%9E%E7%89%A9%E6%8B%A8%E7%A9%97%23&t=31&band_rank=5&Refer=top)<br />
 6. [吴宗宪 这辈子最痛恨吸毒的人](https://s.weibo.com/weibo?q=%E5%90%B4%E5%AE%97%E5%AE%AA%20%E8%BF%99%E8%BE%88%E5%AD%90%E6%9C%80%E7%97%9B%E6%81%A8%E5%90%B8%E6%AF%92%E7%9A%84%E4%BA%BA&t=31&band_rank=6&Refer=top)<br />
-7. [学校摆近千桌饭菜请师生吃席迎端午](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E6%A0%A1%E6%91%86%E8%BF%91%E5%8D%83%E6%A1%8C%E9%A5%AD%E8%8F%9C%E8%AF%B7%E5%B8%88%E7%94%9F%E5%90%83%E5%B8%AD%E8%BF%8E%E7%AB%AF%E5%8D%88%23&t=31&band_rank=7&Refer=top)<br />
-8. [宋轶素颜照](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%BD%B6%E7%B4%A0%E9%A2%9C%E7%85%A7%23&t=31&band_rank=8&Refer=top)<br />
-9. [王一博改代表作](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%94%B9%E4%BB%A3%E8%A1%A8%E4%BD%9C%23&t=31&band_rank=9&Refer=top)<br />
+7. [宋轶素颜照](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%BD%B6%E7%B4%A0%E9%A2%9C%E7%85%A7%23&t=31&band_rank=7&Refer=top)<br />
+8. [王一博改代表作](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%94%B9%E4%BB%A3%E8%A1%A8%E4%BD%9C%23&t=31&band_rank=8&Refer=top)<br />
+9. [孙笑川辟谣去世](https://s.weibo.com/weibo?q=%23%E5%AD%99%E7%AC%91%E5%B7%9D%E8%BE%9F%E8%B0%A3%E5%8E%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -18,8 +18,8 @@
 2. [警方辟谣女幼师给幼儿喂避孕药，称「网民是男性，非幼教也未买避孕药，已被刑拘」，该男子造谣的动机是什么？](https://www.zhihu.com/question/607587881)<br />
 3. [日本排核废水入海，十年可能扩散至整个北太平洋，何时会影响到中国？未来你还敢吃海鱼吗？](https://www.zhihu.com/question/607532765)<br />
 4. [同事提出了离职后有点消极怠工，应该怎么处理？](https://www.zhihu.com/question/434114178)<br />
-5. [曝凯尔 - 安德森已获中国国籍，将身披中国队球衣，他的到来会给中国男篮带来哪些帮助？](https://www.zhihu.com/question/607604429)<br />
-6. [中使馆回应中国女生在马尔代夫遭酒店管家性侵，称「已敦促马方严肃对待、认真调查」，后续将如何发展？](https://www.zhihu.com/question/607596882)<br />
+5. [中使馆回应中国女生在马尔代夫遭酒店管家性侵，称「已敦促马方严肃对待、认真调查」，后续将如何发展？](https://www.zhihu.com/question/607596882)<br />
+6. [曝凯尔 - 安德森已获中国国籍，将身披中国队球衣，他的到来会给中国男篮带来哪些帮助？](https://www.zhihu.com/question/607604429)<br />
 7. [为抢「剩菜盲盒」定闹钟，年轻人为什么会被「剩菜盲盒」吸引？你愿意买「剩菜盲盒」吗？](https://www.zhihu.com/question/607612655)<br />
 8. [五年期 LPR 下降 10 个基点，100 万房贷 30 年减少 2.1 万元，对房地产市场有何影响？](https://www.zhihu.com/question/607595385)<br />
 9. [高考全程用了 0.7 的笔有没有问题？](https://www.zhihu.com/question/606112141)<br />
