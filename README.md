@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 04:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 04:02:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [女生回应在马尔代夫遭性侵没跑出门](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%9B%9E%E5%BA%94%E5%9C%A8%E9%A9%AC%E5%B0%94%E4%BB%A3%E5%A4%AB%E9%81%AD%E6%80%A7%E4%BE%B5%E6%B2%A1%E8%B7%91%E5%87%BA%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [学生驾车身亡父母获赔上亿](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E9%A9%BE%E8%BD%A6%E8%BA%AB%E4%BA%A1%E7%88%B6%E6%AF%8D%E8%8E%B7%E8%B5%94%E4%B8%8A%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [学校食堂烤鱼被指现蛆虫 后勤回应](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E9%A3%9F%E5%A0%82%E7%83%A4%E9%B1%BC%E8%A2%AB%E6%8C%87%E7%8E%B0%E8%9B%86%E8%99%AB+%E5%90%8E%E5%8B%A4%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [房贷降息！算算你每月能省多少](https://www.baidu.com/s?wd=%E6%88%BF%E8%B4%B7%E9%99%8D%E6%81%AF%EF%BC%81%E7%AE%97%E7%AE%97%E4%BD%A0%E6%AF%8F%E6%9C%88%E8%83%BD%E7%9C%81%E5%A4%9A%E5%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [爱尔眼科王勇不接受艾芬道歉](https://www.baidu.com/s?wd=%E7%88%B1%E5%B0%94%E7%9C%BC%E7%A7%91%E7%8E%8B%E5%8B%87%E4%B8%8D%E6%8E%A5%E5%8F%97%E8%89%BE%E8%8A%AC%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [女生回应在马尔代夫遭性侵没跑出门](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%9B%9E%E5%BA%94%E5%9C%A8%E9%A9%AC%E5%B0%94%E4%BB%A3%E5%A4%AB%E9%81%AD%E6%80%A7%E4%BE%B5%E6%B2%A1%E8%B7%91%E5%87%BA%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [学生驾车身亡父母获赔上亿](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E9%A9%BE%E8%BD%A6%E8%BA%AB%E4%BA%A1%E7%88%B6%E6%AF%8D%E8%8E%B7%E8%B5%94%E4%B8%8A%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [学校食堂烤鱼被指现蛆虫 后勤回应](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E9%A3%9F%E5%A0%82%E7%83%A4%E9%B1%BC%E8%A2%AB%E6%8C%87%E7%8E%B0%E8%9B%86%E8%99%AB+%E5%90%8E%E5%8B%A4%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [房贷降息！算算你每月能省多少](https://www.baidu.com/s?wd=%E6%88%BF%E8%B4%B7%E9%99%8D%E6%81%AF%EF%BC%81%E7%AE%97%E7%AE%97%E4%BD%A0%E6%AF%8F%E6%9C%88%E8%83%BD%E7%9C%81%E5%A4%9A%E5%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [爱尔眼科王勇不接受艾芬道歉](https://www.baidu.com/s?wd=%E7%88%B1%E5%B0%94%E7%9C%BC%E7%A7%91%E7%8E%8B%E5%8B%87%E4%B8%8D%E6%8E%A5%E5%8F%97%E8%89%BE%E8%8A%AC%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
