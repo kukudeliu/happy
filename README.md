@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 09:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 09:22:01</h4></div>
 
 > 微博  
 
@@ -18,11 +18,11 @@
 2. [调查称 53.7% 年轻人存款不足 10 万，如何看待这一现象，你觉得存款困难吗？](https://www.zhihu.com/question/607446342)<br />
 3. [为什么北京烤鸭出名靠鸭子，换成鸡的做法就不行了吗？](https://www.zhihu.com/question/606620975)<br />
 4. [有哪些的衣服挂在那里看着一般，但穿起来就很好看？](https://www.zhihu.com/question/606664040)<br />
-5. [如何准确表达 SCI 论文中的图？](https://www.zhihu.com/question/514568911)<br />
-6. [女子花 52 元取鱼刺称「医院赚大钱」被怼，你对该事件有哪些看法？](https://www.zhihu.com/question/607346880)<br />
+5. []()<br />
+6. [如何准确表达 SCI 论文中的图？](https://www.zhihu.com/question/514568911)<br />
 7. [黄子佼曝大小 S 具俊晔嗑药，大 S 工作室回应称「她心脏不好不能接触毒品」，真实情况如何，该如何看待？](https://www.zhihu.com/question/607436138)<br />
-8. [白酒价格大面积倒挂，渠道现「堰塞湖」，消化库存是今年首要任务，白酒行业今年前景如何？](https://www.zhihu.com/question/607396709)<br />
-9. [研究称 2023 年可能成为有记录以来最热的一年，地球正走向「未知领域」，哪些原因导致如此高温？](https://www.zhihu.com/question/607397022)<br />
+8. [女子花 52 元取鱼刺称「医院赚大钱」被怼，你对该事件有哪些看法？](https://www.zhihu.com/question/607346880)<br />
+9. [白酒价格大面积倒挂，渠道现「堰塞湖」，消化库存是今年首要任务，白酒行业今年前景如何？](https://www.zhihu.com/question/607396709)<br />
 
 > 百度  
 
