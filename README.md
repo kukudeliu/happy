@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 11:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 11:34:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [小红书回应女幼师疑给幼儿喂避孕药](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%BA%A2%E4%B9%A6%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%B9%BC%E5%B8%88%E7%96%91%E7%BB%99%E5%B9%BC%E5%84%BF%E5%96%82%E9%81%BF%E5%AD%95%E8%8D%AF%23&t=31&band_rank=2&Refer=top)<br />
 3. [这些古诗词同样适合送给毕业生](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%9B%E5%8F%A4%E8%AF%97%E8%AF%8D%E5%90%8C%E6%A0%B7%E9%80%82%E5%90%88%E9%80%81%E7%BB%99%E6%AF%95%E4%B8%9A%E7%94%9F%23&t=31&band_rank=3&Refer=top)<br />
 4. [黄子佼爱徒Lulu发声](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E4%BD%BC%E7%88%B1%E5%BE%92Lulu%E5%8F%91%E5%A3%B0%23&t=31&band_rank=4&Refer=top)<br />
-5. [张歆艺 不是所有演艺界的人都是坏人](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%AD%86%E8%89%BA%20%E4%B8%8D%E6%98%AF%E6%89%80%E6%9C%89%E6%BC%94%E8%89%BA%E7%95%8C%E7%9A%84%E4%BA%BA%E9%83%BD%E6%98%AF%E5%9D%8F%E4%BA%BA&t=31&band_rank=5&Refer=top)<br />
-6. [杨迪说陈妍希的家像样板房](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%BF%AA%E8%AF%B4%E9%99%88%E5%A6%8D%E5%B8%8C%E7%9A%84%E5%AE%B6%E5%83%8F%E6%A0%B7%E6%9D%BF%E6%88%BF%23&t=31&band_rank=6&Refer=top)<br />
+5. [杨迪说陈妍希的家像样板房](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%BF%AA%E8%AF%B4%E9%99%88%E5%A6%8D%E5%B8%8C%E7%9A%84%E5%AE%B6%E5%83%8F%E6%A0%B7%E6%9D%BF%E6%88%BF%23&t=31&band_rank=5&Refer=top)<br />
+6. [张歆艺 不是所有演艺界的人都是坏人](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%AD%86%E8%89%BA%20%E4%B8%8D%E6%98%AF%E6%89%80%E6%9C%89%E6%BC%94%E8%89%BA%E7%95%8C%E7%9A%84%E4%BA%BA%E9%83%BD%E6%98%AF%E5%9D%8F%E4%BA%BA&t=31&band_rank=6&Refer=top)<br />
 7. [房贷](https://s.weibo.com/weibo?q=%E6%88%BF%E8%B4%B7&t=31&band_rank=7&Refer=top)<br />
 8. [降息](https://s.weibo.com/weibo?q=%E9%99%8D%E6%81%AF&t=31&band_rank=8&Refer=top)<br />
 9. [高考查分遇上端午假期](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86%E9%81%87%E4%B8%8A%E7%AB%AF%E5%8D%88%E5%81%87%E6%9C%9F%23&t=31&band_rank=9&Refer=top)<br />
@@ -22,7 +22,7 @@
 6. [金华国际足球邀请赛中国亚运队 1:0 韩国 U24，孙沁涵破门，韩佳奇力保球门不失，如何评价本场比赛？](https://www.zhihu.com/question/607515200)<br />
 7. [黄子佼曝大小 S 具俊晔嗑药，大 S 工作室回应称「她心脏不好不能接触毒品」，真实情况如何，该如何看待？](https://www.zhihu.com/question/607436138)<br />
 8. [为什么动画《鬼灭之刃 锻刀村篇》被吐槽较多？](https://www.zhihu.com/question/603504171)<br />
-9. [如何评价《无畏契约 /VALORANT》国服定价？](https://www.zhihu.com/question/605446511)<br />
+9. [人生中最重要的三件事是什么？](https://www.zhihu.com/question/57039734)<br />
 
 > 百度  
 
