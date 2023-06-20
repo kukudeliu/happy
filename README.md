@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 11:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 11:36:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [时隔十个月降息来了，6 月 1 年期、 5 年期 LPR 均下降 10 个基点，将带来哪些影响？](https://www.zhihu.com/question/607593320)<br />
 5. [拜登回应布林肯访华进展，称「中美关系走在正轨上」，如何解读这一评价？中美关系会藉此改善吗？](https://www.zhihu.com/question/607591405)<br />
 6. [金华国际足球邀请赛中国亚运队 1:0 韩国 U24，孙沁涵破门，韩佳奇力保球门不失，如何评价本场比赛？](https://www.zhihu.com/question/607515200)<br />
-7. [黄子佼曝大小 S 具俊晔嗑药，大 S 工作室回应称「她心脏不好不能接触毒品」，真实情况如何，该如何看待？](https://www.zhihu.com/question/607436138)<br />
-8. [为什么动画《鬼灭之刃 锻刀村篇》被吐槽较多？](https://www.zhihu.com/question/603504171)<br />
-9. [人生中最重要的三件事是什么？](https://www.zhihu.com/question/57039734)<br />
+7. [为什么动画《鬼灭之刃 锻刀村篇》被吐槽较多？](https://www.zhihu.com/question/603504171)<br />
+8. [人生中最重要的三件事是什么？](https://www.zhihu.com/question/57039734)<br />
+9. [如何评价《无畏契约 /VALORANT》国服定价？](https://www.zhihu.com/question/605446511)<br />
 
 > 百度  
 
