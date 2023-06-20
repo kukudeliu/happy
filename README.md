@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 23:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 23:35:01</h4></div>
 
 > 微博  
 
@@ -27,23 +27,23 @@
 > 百度  
 
 1. [龙舟经济何以乘风破浪](https://www.baidu.com/s?wd=%E9%BE%99%E8%88%9F%E7%BB%8F%E6%B5%8E%E4%BD%95%E4%BB%A5%E4%B9%98%E9%A3%8E%E7%A0%B4%E6%B5%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [热血！毕业典礼唢呐开场引爆全场](https://www.baidu.com/s?wd=%E7%83%AD%E8%A1%80%EF%BC%81%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E5%94%A2%E5%91%90%E5%BC%80%E5%9C%BA%E5%BC%95%E7%88%86%E5%85%A8%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [观光潜艇失联 载有英亿万富翁等5人](https://www.baidu.com/s?wd=%E8%A7%82%E5%85%89%E6%BD%9C%E8%89%87%E5%A4%B1%E8%81%94+%E8%BD%BD%E6%9C%89%E8%8B%B1%E4%BA%BF%E4%B8%87%E5%AF%8C%E7%BF%81%E7%AD%895%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [霍启刚患上睡眠窒息症](https://www.baidu.com/s?wd=%E9%9C%8D%E5%90%AF%E5%88%9A%E6%82%A3%E4%B8%8A%E7%9D%A1%E7%9C%A0%E7%AA%92%E6%81%AF%E7%97%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [他们是战巡南海绕岛巡航的空中铁拳](https://www.baidu.com/s?wd=%E4%BB%96%E4%BB%AC%E6%98%AF%E6%88%98%E5%B7%A1%E5%8D%97%E6%B5%B7%E7%BB%95%E5%B2%9B%E5%B7%A1%E8%88%AA%E7%9A%84%E7%A9%BA%E4%B8%AD%E9%93%81%E6%8B%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [学生自掏30万拍作品 因获奖低拒领奖](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E8%87%AA%E6%8E%8F30%E4%B8%87%E6%8B%8D%E4%BD%9C%E5%93%81+%E5%9B%A0%E8%8E%B7%E5%A5%96%E4%BD%8E%E6%8B%92%E9%A2%86%E5%A5%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [房贷降息！算算你每月能省多少](https://www.baidu.com/s?wd=%E6%88%BF%E8%B4%B7%E9%99%8D%E6%81%AF%EF%BC%81%E7%AE%97%E7%AE%97%E4%BD%A0%E6%AF%8F%E6%9C%88%E8%83%BD%E7%9C%81%E5%A4%9A%E5%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [夫妻江中游泳溺亡 女儿岸边哭喊求救](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E6%B1%9F%E4%B8%AD%E6%B8%B8%E6%B3%B3%E6%BA%BA%E4%BA%A1+%E5%A5%B3%E5%84%BF%E5%B2%B8%E8%BE%B9%E5%93%AD%E5%96%8A%E6%B1%82%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [东航回应飞行员开车撞死女孩](https://www.baidu.com/s?wd=%E4%B8%9C%E8%88%AA%E5%9B%9E%E5%BA%94%E9%A3%9E%E8%A1%8C%E5%91%98%E5%BC%80%E8%BD%A6%E6%92%9E%E6%AD%BB%E5%A5%B3%E5%AD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [大妈嫌店铺招牌晃眼强行关灯](https://www.baidu.com/s?wd=%E5%A4%A7%E5%A6%88%E5%AB%8C%E5%BA%97%E9%93%BA%E6%8B%9B%E7%89%8C%E6%99%83%E7%9C%BC%E5%BC%BA%E8%A1%8C%E5%85%B3%E7%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [热血！毕业典礼唢呐开场引爆全场](https://www.baidu.com/s?wd=%E7%83%AD%E8%A1%80%EF%BC%81%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E5%94%A2%E5%91%90%E5%BC%80%E5%9C%BA%E5%BC%95%E7%88%86%E5%85%A8%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [东航回应飞行员开车撞死女孩](https://www.baidu.com/s?wd=%E4%B8%9C%E8%88%AA%E5%9B%9E%E5%BA%94%E9%A3%9E%E8%A1%8C%E5%91%98%E5%BC%80%E8%BD%A6%E6%92%9E%E6%AD%BB%E5%A5%B3%E5%AD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [龙舟经济何以乘风破浪](https://www.baidu.com/s?wd=%E9%BE%99%E8%88%9F%E7%BB%8F%E6%B5%8E%E4%BD%95%E4%BB%A5%E4%B9%98%E9%A3%8E%E7%A0%B4%E6%B5%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [热血！毕业典礼唢呐开场引爆全场](https://www.baidu.com/s?wd=%E7%83%AD%E8%A1%80%EF%BC%81%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E5%94%A2%E5%91%90%E5%BC%80%E5%9C%BA%E5%BC%95%E7%88%86%E5%85%A8%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [观光潜艇失联 载有英亿万富翁等5人](https://www.baidu.com/s?wd=%E8%A7%82%E5%85%89%E6%BD%9C%E8%89%87%E5%A4%B1%E8%81%94+%E8%BD%BD%E6%9C%89%E8%8B%B1%E4%BA%BF%E4%B8%87%E5%AF%8C%E7%BF%81%E7%AD%895%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [霍启刚患上睡眠窒息症](https://www.baidu.com/s?wd=%E9%9C%8D%E5%90%AF%E5%88%9A%E6%82%A3%E4%B8%8A%E7%9D%A1%E7%9C%A0%E7%AA%92%E6%81%AF%E7%97%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [他们是战巡南海绕岛巡航的空中铁拳](https://www.baidu.com/s?wd=%E4%BB%96%E4%BB%AC%E6%98%AF%E6%88%98%E5%B7%A1%E5%8D%97%E6%B5%B7%E7%BB%95%E5%B2%9B%E5%B7%A1%E8%88%AA%E7%9A%84%E7%A9%BA%E4%B8%AD%E9%93%81%E6%8B%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [学生自掏30万拍作品 因获奖低拒领奖](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E8%87%AA%E6%8E%8F30%E4%B8%87%E6%8B%8D%E4%BD%9C%E5%93%81+%E5%9B%A0%E8%8E%B7%E5%A5%96%E4%BD%8E%E6%8B%92%E9%A2%86%E5%A5%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [房贷降息！算算你每月能省多少](https://www.baidu.com/s?wd=%E6%88%BF%E8%B4%B7%E9%99%8D%E6%81%AF%EF%BC%81%E7%AE%97%E7%AE%97%E4%BD%A0%E6%AF%8F%E6%9C%88%E8%83%BD%E7%9C%81%E5%A4%9A%E5%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [夫妻江中游泳溺亡 女儿岸边哭喊求救](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E6%B1%9F%E4%B8%AD%E6%B8%B8%E6%B3%B3%E6%BA%BA%E4%BA%A1+%E5%A5%B3%E5%84%BF%E5%B2%B8%E8%BE%B9%E5%93%AD%E5%96%8A%E6%B1%82%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [东航回应飞行员开车撞死女孩](https://www.baidu.com/s?wd=%E4%B8%9C%E8%88%AA%E5%9B%9E%E5%BA%94%E9%A3%9E%E8%A1%8C%E5%91%98%E5%BC%80%E8%BD%A6%E6%92%9E%E6%AD%BB%E5%A5%B3%E5%AD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [大妈嫌店铺招牌晃眼强行关灯](https://www.baidu.com/s?wd=%E5%A4%A7%E5%A6%88%E5%AB%8C%E5%BA%97%E9%93%BA%E6%8B%9B%E7%89%8C%E6%99%83%E7%9C%BC%E5%BC%BA%E8%A1%8C%E5%85%B3%E7%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [热血！毕业典礼唢呐开场引爆全场](https://www.baidu.com/s?wd=%E7%83%AD%E8%A1%80%EF%BC%81%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E5%94%A2%E5%91%90%E5%BC%80%E5%9C%BA%E5%BC%95%E7%88%86%E5%85%A8%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [东航回应飞行员开车撞死女孩](https://www.baidu.com/s?wd=%E4%B8%9C%E8%88%AA%E5%9B%9E%E5%BA%94%E9%A3%9E%E8%A1%8C%E5%91%98%E5%BC%80%E8%BD%A6%E6%92%9E%E6%AD%BB%E5%A5%B3%E5%AD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
