@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 06:34:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 06:35:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [学生驾车身亡父母获赔上亿](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E9%A9%BE%E8%BD%A6%E8%BA%AB%E4%BA%A1%E7%88%B6%E6%AF%8D%E8%8E%B7%E8%B5%94%E4%B8%8A%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [夫妻江中游泳溺亡 女儿岸边哭喊求救](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E6%B1%9F%E4%B8%AD%E6%B8%B8%E6%B3%B3%E6%BA%BA%E4%BA%A1+%E5%A5%B3%E5%84%BF%E5%B2%B8%E8%BE%B9%E5%93%AD%E5%96%8A%E6%B1%82%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [旺旺起诉唯品会侵权](https://www.baidu.com/s?wd=%E6%97%BA%E6%97%BA%E8%B5%B7%E8%AF%89%E5%94%AF%E5%93%81%E4%BC%9A%E4%BE%B5%E6%9D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子称母亲坟被施工队挖开 骨灰丢失](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A7%B0%E6%AF%8D%E4%BA%B2%E5%9D%9F%E8%A2%AB%E6%96%BD%E5%B7%A5%E9%98%9F%E6%8C%96%E5%BC%80+%E9%AA%A8%E7%81%B0%E4%B8%A2%E5%A4%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女生回应在马尔代夫遭性侵没跑出门](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%9B%9E%E5%BA%94%E5%9C%A8%E9%A9%AC%E5%B0%94%E4%BB%A3%E5%A4%AB%E9%81%AD%E6%80%A7%E4%BE%B5%E6%B2%A1%E8%B7%91%E5%87%BA%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [学生驾车身亡父母获赔上亿](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E9%A9%BE%E8%BD%A6%E8%BA%AB%E4%BA%A1%E7%88%B6%E6%AF%8D%E8%8E%B7%E8%B5%94%E4%B8%8A%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [夫妻江中游泳溺亡 女儿岸边哭喊求救](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E6%B1%9F%E4%B8%AD%E6%B8%B8%E6%B3%B3%E6%BA%BA%E4%BA%A1+%E5%A5%B3%E5%84%BF%E5%B2%B8%E8%BE%B9%E5%93%AD%E5%96%8A%E6%B1%82%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [旺旺起诉唯品会侵权](https://www.baidu.com/s?wd=%E6%97%BA%E6%97%BA%E8%B5%B7%E8%AF%89%E5%94%AF%E5%93%81%E4%BC%9A%E4%BE%B5%E6%9D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子称母亲坟被施工队挖开 骨灰丢失](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A7%B0%E6%AF%8D%E4%BA%B2%E5%9D%9F%E8%A2%AB%E6%96%BD%E5%B7%A5%E9%98%9F%E6%8C%96%E5%BC%80+%E9%AA%A8%E7%81%B0%E4%B8%A2%E5%A4%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女生回应在马尔代夫遭性侵没跑出门](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%9B%9E%E5%BA%94%E5%9C%A8%E9%A9%AC%E5%B0%94%E4%BB%A3%E5%A4%AB%E9%81%AD%E6%80%A7%E4%BE%B5%E6%B2%A1%E8%B7%91%E5%87%BA%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
