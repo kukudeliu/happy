@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 02:00:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 02:01:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [长风渡第9集封神](https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%A3%8E%E6%B8%A1%E7%AC%AC9%E9%9B%86%E5%B0%81%E7%A5%9E%23&t=31&band_rank=5&Refer=top)<br />
 6. [陈情令](https://s.weibo.com/weibo?q=%E9%99%88%E6%83%85%E4%BB%A4&t=31&band_rank=6&Refer=top)<br />
 7. [南京已经没有大厂了](https://s.weibo.com/weibo?q=%E5%8D%97%E4%BA%AC%E5%B7%B2%E7%BB%8F%E6%B2%A1%E6%9C%89%E5%A4%A7%E5%8E%82%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
-8. [马伯骞才是全剧最不尴尬的人](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%BC%AF%E9%AA%9E%E6%89%8D%E6%98%AF%E5%85%A8%E5%89%A7%E6%9C%80%E4%B8%8D%E5%B0%B4%E5%B0%AC%E7%9A%84%E4%BA%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [女生自费30万拍作品拒绝领三等奖](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E8%87%AA%E8%B4%B930%E4%B8%87%E6%8B%8D%E4%BD%9C%E5%93%81%E6%8B%92%E7%BB%9D%E9%A2%86%E4%B8%89%E7%AD%89%E5%A5%96%23&t=31&band_rank=9&Refer=top)<br />
+8. [女生自费30万拍作品拒绝领三等奖](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E8%87%AA%E8%B4%B930%E4%B8%87%E6%8B%8D%E4%BD%9C%E5%93%81%E6%8B%92%E7%BB%9D%E9%A2%86%E4%B8%89%E7%AD%89%E5%A5%96%23&t=31&band_rank=8&Refer=top)<br />
+9. [马伯骞才是全剧最不尴尬的人](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%BC%AF%E9%AA%9E%E6%89%8D%E6%98%AF%E5%85%A8%E5%89%A7%E6%9C%80%E4%B8%8D%E5%B0%B4%E5%B0%AC%E7%9A%84%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [媒体评张雪峰关于新闻学专业言论称「学不学新闻不能只凭网红一张嘴」，如何评价此观点？你怎么看新闻学专业？](https://www.zhihu.com/question/607408168)<br />
 7. []()<br />
 8. []()<br />
-9. []()<br />
+9. [为什么年检总是能搞坏车？](https://www.zhihu.com/question/370206776)<br />
 
 > 百度  
 
