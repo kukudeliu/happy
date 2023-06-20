@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 00:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 00:44:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [观光潜艇失联 将是史上最深深海救援](https://www.baidu.com/s?wd=%E8%A7%82%E5%85%89%E6%BD%9C%E8%89%87%E5%A4%B1%E8%81%94+%E5%B0%86%E6%98%AF%E5%8F%B2%E4%B8%8A%E6%9C%80%E6%B7%B1%E6%B7%B1%E6%B5%B7%E6%95%91%E6%8F%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [学生驾车身亡父母获赔上亿](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E9%A9%BE%E8%BD%A6%E8%BA%AB%E4%BA%A1%E7%88%B6%E6%AF%8D%E8%8E%B7%E8%B5%94%E4%B8%8A%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [外卖员因着急乘梯遭两男子殴打](https://www.baidu.com/s?wd=%E5%A4%96%E5%8D%96%E5%91%98%E5%9B%A0%E7%9D%80%E6%80%A5%E4%B9%98%E6%A2%AF%E9%81%AD%E4%B8%A4%E7%94%B7%E5%AD%90%E6%AE%B4%E6%89%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [炎亚纶称视频外流并非主观泄露](https://www.baidu.com/s?wd=%E7%82%8E%E4%BA%9A%E7%BA%B6%E7%A7%B0%E8%A7%86%E9%A2%91%E5%A4%96%E6%B5%81%E5%B9%B6%E9%9D%9E%E4%B8%BB%E8%A7%82%E6%B3%84%E9%9C%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [马斯克谈生育率下降](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E8%B0%88%E7%94%9F%E8%82%B2%E7%8E%87%E4%B8%8B%E9%99%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [班主任和家长扮恐龙接中考生](https://www.baidu.com/s?wd=%E7%8F%AD%E4%B8%BB%E4%BB%BB%E5%92%8C%E5%AE%B6%E9%95%BF%E6%89%AE%E6%81%90%E9%BE%99%E6%8E%A5%E4%B8%AD%E8%80%83%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [炎亚纶称视频外流并非主观泄露](https://www.baidu.com/s?wd=%E7%82%8E%E4%BA%9A%E7%BA%B6%E7%A7%B0%E8%A7%86%E9%A2%91%E5%A4%96%E6%B5%81%E5%B9%B6%E9%9D%9E%E4%B8%BB%E8%A7%82%E6%B3%84%E9%9C%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [观光潜艇失联 将是史上最深深海救援](https://www.baidu.com/s?wd=%E8%A7%82%E5%85%89%E6%BD%9C%E8%89%87%E5%A4%B1%E8%81%94+%E5%B0%86%E6%98%AF%E5%8F%B2%E4%B8%8A%E6%9C%80%E6%B7%B1%E6%B7%B1%E6%B5%B7%E6%95%91%E6%8F%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [学生驾车身亡父母获赔上亿](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E9%A9%BE%E8%BD%A6%E8%BA%AB%E4%BA%A1%E7%88%B6%E6%AF%8D%E8%8E%B7%E8%B5%94%E4%B8%8A%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [外卖员因着急乘梯遭两男子殴打](https://www.baidu.com/s?wd=%E5%A4%96%E5%8D%96%E5%91%98%E5%9B%A0%E7%9D%80%E6%80%A5%E4%B9%98%E6%A2%AF%E9%81%AD%E4%B8%A4%E7%94%B7%E5%AD%90%E6%AE%B4%E6%89%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [炎亚纶称视频外流并非主观泄露](https://www.baidu.com/s?wd=%E7%82%8E%E4%BA%9A%E7%BA%B6%E7%A7%B0%E8%A7%86%E9%A2%91%E5%A4%96%E6%B5%81%E5%B9%B6%E9%9D%9E%E4%B8%BB%E8%A7%82%E6%B3%84%E9%9C%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [马斯克谈生育率下降](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E8%B0%88%E7%94%9F%E8%82%B2%E7%8E%87%E4%B8%8B%E9%99%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [班主任和家长扮恐龙接中考生](https://www.baidu.com/s?wd=%E7%8F%AD%E4%B8%BB%E4%BB%BB%E5%92%8C%E5%AE%B6%E9%95%BF%E6%89%AE%E6%81%90%E9%BE%99%E6%8E%A5%E4%B8%AD%E8%80%83%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [炎亚纶称视频外流并非主观泄露](https://www.baidu.com/s?wd=%E7%82%8E%E4%BA%9A%E7%BA%B6%E7%A7%B0%E8%A7%86%E9%A2%91%E5%A4%96%E6%B5%81%E5%B9%B6%E9%9D%9E%E4%B8%BB%E8%A7%82%E6%B3%84%E9%9C%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
