@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 07:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 07:03:01</h4></div>
 
 > 微博  
 
 1. [关闭朋友圈半年后的变化](https://s.weibo.com/weibo?q=%23%E5%85%B3%E9%97%AD%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%8D%8A%E5%B9%B4%E5%90%8E%E7%9A%84%E5%8F%98%E5%8C%96%23&t=31&band_rank=1&Refer=top)<br />
-2. [女生自费30万拍作品拒绝领三等奖](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E8%87%AA%E8%B4%B930%E4%B8%87%E6%8B%8D%E4%BD%9C%E5%93%81%E6%8B%92%E7%BB%9D%E9%A2%86%E4%B8%89%E7%AD%89%E5%A5%96%23&t=31&band_rank=2&Refer=top)<br />
-3. [种地吧 根本补不完](https://s.weibo.com/weibo?q=%E7%A7%8D%E5%9C%B0%E5%90%A7%20%E6%A0%B9%E6%9C%AC%E8%A1%A5%E4%B8%8D%E5%AE%8C&t=31&band_rank=3&Refer=top)<br />
+2. [马伯骞问爱马仕是什么](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%BC%AF%E9%AA%9E%E9%97%AE%E7%88%B1%E9%A9%AC%E4%BB%95%E6%98%AF%E4%BB%80%E4%B9%88%23&t=31&band_rank=2&Refer=top)<br />
+3. [夏日中国尽显生态之美](https://s.weibo.com/weibo?q=%23%E5%A4%8F%E6%97%A5%E4%B8%AD%E5%9B%BD%E5%B0%BD%E6%98%BE%E7%94%9F%E6%80%81%E4%B9%8B%E7%BE%8E%23&t=31&band_rank=3&Refer=top)<br />
 4. [南京已经没有大厂了](https://s.weibo.com/weibo?q=%E5%8D%97%E4%BA%AC%E5%B7%B2%E7%BB%8F%E6%B2%A1%E6%9C%89%E5%A4%A7%E5%8E%82%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
-5. [霍启刚患上睡眠窒息症](https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%90%AF%E5%88%9A%E6%82%A3%E4%B8%8A%E7%9D%A1%E7%9C%A0%E7%AA%92%E6%81%AF%E7%97%87%23&t=31&band_rank=5&Refer=top)<br />
+5. [女生自费30万拍作品拒绝领三等奖](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E8%87%AA%E8%B4%B930%E4%B8%87%E6%8B%8D%E4%BD%9C%E5%93%81%E6%8B%92%E7%BB%9D%E9%A2%86%E4%B8%89%E7%AD%89%E5%A5%96%23&t=31&band_rank=5&Refer=top)<br />
 6. [陈情令](https://s.weibo.com/weibo?q=%E9%99%88%E6%83%85%E4%BB%A4&t=31&band_rank=6&Refer=top)<br />
-7. [金晨的嘴怎么了](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E7%9A%84%E5%98%B4%E6%80%8E%E4%B9%88%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [我国自研视景系统首次试飞成功](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E8%87%AA%E7%A0%94%E8%A7%86%E6%99%AF%E7%B3%BB%E7%BB%9F%E9%A6%96%E6%AC%A1%E8%AF%95%E9%A3%9E%E6%88%90%E5%8A%9F%23&t=31&band_rank=8&Refer=top)<br />
-9. [长风渡第9集封神](https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%A3%8E%E6%B8%A1%E7%AC%AC9%E9%9B%86%E5%B0%81%E7%A5%9E%23&t=31&band_rank=9&Refer=top)<br />
+7. [种地吧 根本补不完](https://s.weibo.com/weibo?q=%E7%A7%8D%E5%9C%B0%E5%90%A7%20%E6%A0%B9%E6%9C%AC%E8%A1%A5%E4%B8%8D%E5%AE%8C&t=31&band_rank=7&Refer=top)<br />
+8. [霍启刚患上睡眠窒息症](https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%90%AF%E5%88%9A%E6%82%A3%E4%B8%8A%E7%9D%A1%E7%9C%A0%E7%AA%92%E6%81%AF%E7%97%87%23&t=31&band_rank=8&Refer=top)<br />
+9. [金晨的嘴怎么了](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E7%9A%84%E5%98%B4%E6%80%8E%E4%B9%88%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -34,7 +34,7 @@
 6. [学生驾车身亡父母获赔上亿](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E9%A9%BE%E8%BD%A6%E8%BA%AB%E4%BA%A1%E7%88%B6%E6%AF%8D%E8%8E%B7%E8%B5%94%E4%B8%8A%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [夫妻江中游泳溺亡 女儿岸边哭喊求救](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E6%B1%9F%E4%B8%AD%E6%B8%B8%E6%B3%B3%E6%BA%BA%E4%BA%A1+%E5%A5%B3%E5%84%BF%E5%B2%B8%E8%BE%B9%E5%93%AD%E5%96%8A%E6%B1%82%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [马斯克谈生育率下降](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E8%B0%88%E7%94%9F%E8%82%B2%E7%8E%87%E4%B8%8B%E9%99%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [台湾爷孙恋男主儿子与继母和解](https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E7%88%B7%E5%AD%99%E6%81%8B%E7%94%B7%E4%B8%BB%E5%84%BF%E5%AD%90%E4%B8%8E%E7%BB%A7%E6%AF%8D%E5%92%8C%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [爱尔眼科王勇不接受艾芬道歉](https://www.baidu.com/s?wd=%E7%88%B1%E5%B0%94%E7%9C%BC%E7%A7%91%E7%8E%8B%E5%8B%87%E4%B8%8D%E6%8E%A5%E5%8F%97%E8%89%BE%E8%8A%AC%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [学生驾车身亡父母获赔上亿](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E9%A9%BE%E8%BD%A6%E8%BA%AB%E4%BA%A1%E7%88%B6%E6%AF%8D%E8%8E%B7%E8%B5%94%E4%B8%8A%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [夫妻江中游泳溺亡 女儿岸边哭喊求救](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E6%B1%9F%E4%B8%AD%E6%B8%B8%E6%B3%B3%E6%BA%BA%E4%BA%A1+%E5%A5%B3%E5%84%BF%E5%B2%B8%E8%BE%B9%E5%93%AD%E5%96%8A%E6%B1%82%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [马斯克谈生育率下降](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E8%B0%88%E7%94%9F%E8%82%B2%E7%8E%87%E4%B8%8B%E9%99%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [台湾爷孙恋男主儿子与继母和解](https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E7%88%B7%E5%AD%99%E6%81%8B%E7%94%B7%E4%B8%BB%E5%84%BF%E5%AD%90%E4%B8%8E%E7%BB%A7%E6%AF%8D%E5%92%8C%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [爱尔眼科王勇不接受艾芬道歉](https://www.baidu.com/s?wd=%E7%88%B1%E5%B0%94%E7%9C%BC%E7%A7%91%E7%8E%8B%E5%8B%87%E4%B8%8D%E6%8E%A5%E5%8F%97%E8%89%BE%E8%8A%AC%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
