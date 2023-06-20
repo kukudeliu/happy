@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 02:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 02:57:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [观光潜艇失联 将是史上最深深海救援](https://www.baidu.com/s?wd=%E8%A7%82%E5%85%89%E6%BD%9C%E8%89%87%E5%A4%B1%E8%81%94+%E5%B0%86%E6%98%AF%E5%8F%B2%E4%B8%8A%E6%9C%80%E6%B7%B1%E6%B7%B1%E6%B5%B7%E6%95%91%E6%8F%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子称术后纱布被留体内26天](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E6%9C%AF%E5%90%8E%E7%BA%B1%E5%B8%83%E8%A2%AB%E7%95%99%E4%BD%93%E5%86%8526%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [苏州多地内涝 居民家中成水帘洞](https://www.baidu.com/s?wd=%E8%8B%8F%E5%B7%9E%E5%A4%9A%E5%9C%B0%E5%86%85%E6%B6%9D+%E5%B1%85%E6%B0%91%E5%AE%B6%E4%B8%AD%E6%88%90%E6%B0%B4%E5%B8%98%E6%B4%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [学校食堂烤鱼被指现蛆虫 后勤回应](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E9%A3%9F%E5%A0%82%E7%83%A4%E9%B1%BC%E8%A2%AB%E6%8C%87%E7%8E%B0%E8%9B%86%E8%99%AB+%E5%90%8E%E5%8B%A4%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [内蒙古新井煤矿事故失联者全部遇难](https://www.baidu.com/s?wd=%E5%86%85%E8%92%99%E5%8F%A4%E6%96%B0%E4%BA%95%E7%85%A4%E7%9F%BF%E4%BA%8B%E6%95%85%E5%A4%B1%E8%81%94%E8%80%85%E5%85%A8%E9%83%A8%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [内蒙古新井煤矿事故失联者全部遇难](https://www.baidu.com/s?wd=%E5%86%85%E8%92%99%E5%8F%A4%E6%96%B0%E4%BA%95%E7%85%A4%E7%9F%BF%E4%BA%8B%E6%95%85%E5%A4%B1%E8%81%94%E8%80%85%E5%85%A8%E9%83%A8%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [失联观光潜艇或卡在泰坦尼克号残骸中](https://www.baidu.com/s?wd=%E5%A4%B1%E8%81%94%E8%A7%82%E5%85%89%E6%BD%9C%E8%89%87%E6%88%96%E5%8D%A1%E5%9C%A8%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7%E6%AE%8B%E9%AA%B8%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [观光潜艇失联 将是史上最深深海救援](https://www.baidu.com/s?wd=%E8%A7%82%E5%85%89%E6%BD%9C%E8%89%87%E5%A4%B1%E8%81%94+%E5%B0%86%E6%98%AF%E5%8F%B2%E4%B8%8A%E6%9C%80%E6%B7%B1%E6%B7%B1%E6%B5%B7%E6%95%91%E6%8F%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子称术后纱布被留体内26天](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E6%9C%AF%E5%90%8E%E7%BA%B1%E5%B8%83%E8%A2%AB%E7%95%99%E4%BD%93%E5%86%8526%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [苏州多地内涝 居民家中成水帘洞](https://www.baidu.com/s?wd=%E8%8B%8F%E5%B7%9E%E5%A4%9A%E5%9C%B0%E5%86%85%E6%B6%9D+%E5%B1%85%E6%B0%91%E5%AE%B6%E4%B8%AD%E6%88%90%E6%B0%B4%E5%B8%98%E6%B4%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [学校食堂烤鱼被指现蛆虫 后勤回应](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E9%A3%9F%E5%A0%82%E7%83%A4%E9%B1%BC%E8%A2%AB%E6%8C%87%E7%8E%B0%E8%9B%86%E8%99%AB+%E5%90%8E%E5%8B%A4%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [内蒙古新井煤矿事故失联者全部遇难](https://www.baidu.com/s?wd=%E5%86%85%E8%92%99%E5%8F%A4%E6%96%B0%E4%BA%95%E7%85%A4%E7%9F%BF%E4%BA%8B%E6%95%85%E5%A4%B1%E8%81%94%E8%80%85%E5%85%A8%E9%83%A8%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [内蒙古新井煤矿事故失联者全部遇难](https://www.baidu.com/s?wd=%E5%86%85%E8%92%99%E5%8F%A4%E6%96%B0%E4%BA%95%E7%85%A4%E7%9F%BF%E4%BA%8B%E6%95%85%E5%A4%B1%E8%81%94%E8%80%85%E5%85%A8%E9%83%A8%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [失联观光潜艇或卡在泰坦尼克号残骸中](https://www.baidu.com/s?wd=%E5%A4%B1%E8%81%94%E8%A7%82%E5%85%89%E6%BD%9C%E8%89%87%E6%88%96%E5%8D%A1%E5%9C%A8%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7%E6%AE%8B%E9%AA%B8%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
