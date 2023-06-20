@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 21:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 21:33:02</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [霍启刚患上睡眠窒息症](https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%90%AF%E5%88%9A%E6%82%A3%E4%B8%8A%E7%9D%A1%E7%9C%A0%E7%AA%92%E6%81%AF%E7%97%87%23&t=31&band_rank=2&Refer=top)<br />
 3. [试验二十五号卫星成功发射](https://s.weibo.com/weibo?q=%23%E8%AF%95%E9%AA%8C%E4%BA%8C%E5%8D%81%E4%BA%94%E5%8F%B7%E5%8D%AB%E6%98%9F%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%23&t=31&band_rank=3&Refer=top)<br />
 4. [偷偷藏不住受众群体](https://s.weibo.com/weibo?q=%23%E5%81%B7%E5%81%B7%E8%97%8F%E4%B8%8D%E4%BD%8F%E5%8F%97%E4%BC%97%E7%BE%A4%E4%BD%93%23&t=31&band_rank=4&Refer=top)<br />
-5. [警方通报广州一出租屋发现3具尸体](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%B9%BF%E5%B7%9E%E4%B8%80%E5%87%BA%E7%A7%9F%E5%B1%8B%E5%8F%91%E7%8E%B03%E5%85%B7%E5%B0%B8%E4%BD%93%23&t=31&band_rank=5&Refer=top)<br />
-6. [南京已经没有大厂了](https://s.weibo.com/weibo?q=%E5%8D%97%E4%BA%AC%E5%B7%B2%E7%BB%8F%E6%B2%A1%E6%9C%89%E5%A4%A7%E5%8E%82%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
+5. [南京已经没有大厂了](https://s.weibo.com/weibo?q=%E5%8D%97%E4%BA%AC%E5%B7%B2%E7%BB%8F%E6%B2%A1%E6%9C%89%E5%A4%A7%E5%8E%82%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
+6. [警方通报广州一出租屋发现3具尸体](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%B9%BF%E5%B7%9E%E4%B8%80%E5%87%BA%E7%A7%9F%E5%B1%8B%E5%8F%91%E7%8E%B03%E5%85%B7%E5%B0%B8%E4%BD%93%23&t=31&band_rank=6&Refer=top)<br />
 7. [金晨的嘴怎么了](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E7%9A%84%E5%98%B4%E6%80%8E%E4%B9%88%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [陈情令](https://s.weibo.com/weibo?q=%E9%99%88%E6%83%85%E4%BB%A4&t=31&band_rank=8&Refer=top)<br />
 9. [内蒙古新井煤矿事故失联者全部遇难](https://s.weibo.com/weibo?q=%23%E5%86%85%E8%92%99%E5%8F%A4%E6%96%B0%E4%BA%95%E7%85%A4%E7%9F%BF%E4%BA%8B%E6%95%85%E5%A4%B1%E8%81%94%E8%80%85%E5%85%A8%E9%83%A8%E9%81%87%E9%9A%BE%23&t=31&band_rank=9&Refer=top)<br />
