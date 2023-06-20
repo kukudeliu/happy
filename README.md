@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 19:42:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 19:43:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [他们是战巡南海绕岛巡航的空中铁拳](https://s.weibo.com/weibo?q=%23%E4%BB%96%E4%BB%AC%E6%98%AF%E6%88%98%E5%B7%A1%E5%8D%97%E6%B5%B7%E7%BB%95%E5%B2%9B%E5%B7%A1%E8%88%AA%E7%9A%84%E7%A9%BA%E4%B8%AD%E9%93%81%E6%8B%B3%23&t=31&band_rank=3&Refer=top)<br />
 4. [金晨的嘴怎么了](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E7%9A%84%E5%98%B4%E6%80%8E%E4%B9%88%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [学生帽穗丢了老师无实物拨穗](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E5%B8%BD%E7%A9%97%E4%B8%A2%E4%BA%86%E8%80%81%E5%B8%88%E6%97%A0%E5%AE%9E%E7%89%A9%E6%8B%A8%E7%A9%97%23&t=31&band_rank=5&Refer=top)<br />
-6. [宋轶素颜照](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%BD%B6%E7%B4%A0%E9%A2%9C%E7%85%A7%23&t=31&band_rank=6&Refer=top)<br />
+6. [5岁女孩被东航飞行员撞倒碾压身亡](https://s.weibo.com/weibo?q=%235%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%A2%AB%E4%B8%9C%E8%88%AA%E9%A3%9E%E8%A1%8C%E5%91%98%E6%92%9E%E5%80%92%E7%A2%BE%E5%8E%8B%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [湖南师徒无畏跳江救回丽水女子](https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E5%B8%88%E5%BE%92%E6%97%A0%E7%95%8F%E8%B7%B3%E6%B1%9F%E6%95%91%E5%9B%9E%E4%B8%BD%E6%B0%B4%E5%A5%B3%E5%AD%90%23&t=31&band_rank=7&Refer=top)<br />
-8. [5岁女孩被东航飞行员撞倒碾压身亡](https://s.weibo.com/weibo?q=%235%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%A2%AB%E4%B8%9C%E8%88%AA%E9%A3%9E%E8%A1%8C%E5%91%98%E6%92%9E%E5%80%92%E7%A2%BE%E5%8E%8B%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
+8. [宋轶素颜照](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%BD%B6%E7%B4%A0%E9%A2%9C%E7%85%A7%23&t=31&band_rank=8&Refer=top)<br />
 9. [官方回应公职人员吸毒被查后仍在岗](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E5%90%B8%E6%AF%92%E8%A2%AB%E6%9F%A5%E5%90%8E%E4%BB%8D%E5%9C%A8%E5%B2%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -20,8 +20,8 @@
 4. [五年期 LPR 下降 10 个基点，100 万房贷 30 年减少 2.1 万元，对房地产市场有何影响？](https://www.zhihu.com/question/607595385)<br />
 5. [中使馆回应中国女生在马尔代夫遭酒店管家性侵，称「已敦促马方严肃对待、认真调查」，后续将如何发展？](https://www.zhihu.com/question/607596882)<br />
 6. [为抢「剩菜盲盒」定闹钟，年轻人为什么会被「剩菜盲盒」吸引？你愿意买「剩菜盲盒」吗？](https://www.zhihu.com/question/607612655)<br />
-7. [如何看待今年 618A 卡 7900XTX 极尽疯狂的销量？](https://www.zhihu.com/question/607347412)<br />
-8. [考研「报名数增幅近八年最低」，如何看待这个现象？以后考研难度有可能下降吗？](https://www.zhihu.com/question/607438736)<br />
+7. [考研「报名数增幅近八年最低」，如何看待这个现象？以后考研难度有可能下降吗？](https://www.zhihu.com/question/607438736)<br />
+8. [如何看待今年 618A 卡 7900XTX 极尽疯狂的销量？](https://www.zhihu.com/question/607347412)<br />
 9. [如何看待雷军在武汉大学「相信自己，每个人的人生都有无限可能！」主题的演讲，有哪些值得关注的内容？](https://www.zhihu.com/question/607613561)<br />
 
 > 百度  
