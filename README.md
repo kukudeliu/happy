@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 01:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 01:28:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [学生驾车身亡父母获赔上亿](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E9%A9%BE%E8%BD%A6%E8%BA%AB%E4%BA%A1%E7%88%B6%E6%AF%8D%E8%8E%B7%E8%B5%94%E4%B8%8A%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [张艺兴演唱会票价高达2580元](https://www.baidu.com/s?wd=%E5%BC%A0%E8%89%BA%E5%85%B4%E6%BC%94%E5%94%B1%E4%BC%9A%E7%A5%A8%E4%BB%B7%E9%AB%98%E8%BE%BE2580%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女生回应在马尔代夫遭性侵没跑出门](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%9B%9E%E5%BA%94%E5%9C%A8%E9%A9%AC%E5%B0%94%E4%BB%A3%E5%A4%AB%E9%81%AD%E6%80%A7%E4%BE%B5%E6%B2%A1%E8%B7%91%E5%87%BA%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中国女生马尔代夫被性侵 中使馆回应](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%94%9F%E9%A9%AC%E5%B0%94%E4%BB%A3%E5%A4%AB%E8%A2%AB%E6%80%A7%E4%BE%B5+%E4%B8%AD%E4%BD%BF%E9%A6%86%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [失联观光潜艇或卡在泰坦尼克号残骸中](https://www.baidu.com/s?wd=%E5%A4%B1%E8%81%94%E8%A7%82%E5%85%89%E6%BD%9C%E8%89%87%E6%88%96%E5%8D%A1%E5%9C%A8%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7%E6%AE%8B%E9%AA%B8%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [学生驾车身亡父母获赔上亿](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E9%A9%BE%E8%BD%A6%E8%BA%AB%E4%BA%A1%E7%88%B6%E6%AF%8D%E8%8E%B7%E8%B5%94%E4%B8%8A%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [张艺兴演唱会票价高达2580元](https://www.baidu.com/s?wd=%E5%BC%A0%E8%89%BA%E5%85%B4%E6%BC%94%E5%94%B1%E4%BC%9A%E7%A5%A8%E4%BB%B7%E9%AB%98%E8%BE%BE2580%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女生回应在马尔代夫遭性侵没跑出门](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%9B%9E%E5%BA%94%E5%9C%A8%E9%A9%AC%E5%B0%94%E4%BB%A3%E5%A4%AB%E9%81%AD%E6%80%A7%E4%BE%B5%E6%B2%A1%E8%B7%91%E5%87%BA%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中国女生马尔代夫被性侵 中使馆回应](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%94%9F%E9%A9%AC%E5%B0%94%E4%BB%A3%E5%A4%AB%E8%A2%AB%E6%80%A7%E4%BE%B5+%E4%B8%AD%E4%BD%BF%E9%A6%86%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [失联观光潜艇或卡在泰坦尼克号残骸中](https://www.baidu.com/s?wd=%E5%A4%B1%E8%81%94%E8%A7%82%E5%85%89%E6%BD%9C%E8%89%87%E6%88%96%E5%8D%A1%E5%9C%A8%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7%E6%AE%8B%E9%AA%B8%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
