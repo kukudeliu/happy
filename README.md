@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 16:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 16:51:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [吸毒前后真实的变化](https://s.weibo.com/weibo?q=%23%E5%90%B8%E6%AF%92%E5%89%8D%E5%90%8E%E7%9C%9F%E5%AE%9E%E7%9A%84%E5%8F%98%E5%8C%96%23&t=31&band_rank=4&Refer=top)<br />
 5. [秦岚腰臀比](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E8%85%B0%E8%87%80%E6%AF%94%23&t=31&band_rank=5&Refer=top)<br />
 6. [台警方称不会侦办大小S被控吸毒](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E8%AD%A6%E6%96%B9%E7%A7%B0%E4%B8%8D%E4%BC%9A%E4%BE%A6%E5%8A%9E%E5%A4%A7%E5%B0%8FS%E8%A2%AB%E6%8E%A7%E5%90%B8%E6%AF%92%23&t=31&band_rank=6&Refer=top)<br />
-7. [欧阳娜娜的长安第一美人](https://s.weibo.com/weibo?q=%23%E6%AC%A7%E9%98%B3%E5%A8%9C%E5%A8%9C%E7%9A%84%E9%95%BF%E5%AE%89%E7%AC%AC%E4%B8%80%E7%BE%8E%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
-8. [同事说全款买房的人是傻子](https://s.weibo.com/weibo?q=%23%E5%90%8C%E4%BA%8B%E8%AF%B4%E5%85%A8%E6%AC%BE%E4%B9%B0%E6%88%BF%E7%9A%84%E4%BA%BA%E6%98%AF%E5%82%BB%E5%AD%90%23&t=31&band_rank=8&Refer=top)<br />
+7. [同事说全款买房的人是傻子](https://s.weibo.com/weibo?q=%23%E5%90%8C%E4%BA%8B%E8%AF%B4%E5%85%A8%E6%AC%BE%E4%B9%B0%E6%88%BF%E7%9A%84%E4%BA%BA%E6%98%AF%E5%82%BB%E5%AD%90%23&t=31&band_rank=7&Refer=top)<br />
+8. [欧阳娜娜的长安第一美人](https://s.weibo.com/weibo?q=%23%E6%AC%A7%E9%98%B3%E5%A8%9C%E5%A8%9C%E7%9A%84%E9%95%BF%E5%AE%89%E7%AC%AC%E4%B8%80%E7%BE%8E%E4%BA%BA%23&t=31&band_rank=8&Refer=top)<br />
 9. [高圆圆贾静雯双生封面大片](https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%9C%86%E5%9C%86%E8%B4%BE%E9%9D%99%E9%9B%AF%E5%8F%8C%E7%94%9F%E5%B0%81%E9%9D%A2%E5%A4%A7%E7%89%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -22,7 +22,7 @@
 6. [订婚的时候，男友姐姐叫他剥荔枝给她吃请问过分吗？](https://www.zhihu.com/question/606884191)<br />
 7. [国泰航空公布毛毯事件改善方案，包括招聘内地空服、扩大普通话服务等，如何看待这一方案？](https://www.zhihu.com/question/607426061)<br />
 8. [比亚迪香港 4 门店遭破坏，警方拘捕 1 女和 5 名有黑社会背景男子，哪些信息值得关注？](https://www.zhihu.com/question/607164444)<br />
-9. [台湾艺人黄子佼承认「强吻少女拍裸照」，中午发视频道歉，暴露出哪些问题？其将面临哪些法律惩罚？](https://www.zhihu.com/question/607440153)<br />
+9. [中使馆回应中国女生在马尔代夫遭酒店管家性侵，称「已敦促马方严肃对待、认真调查」，后续将如何发展？](https://www.zhihu.com/question/607596882)<br />
 
 > 百度  
 
