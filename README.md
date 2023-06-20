@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 08:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 09:00:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [大S工作室回应吸毒指控](https://s.weibo.com/weibo?q=%23%E5%A4%A7S%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%9B%9E%E5%BA%94%E5%90%B8%E6%AF%92%E6%8C%87%E6%8E%A7%23&t=31&band_rank=6&Refer=top)<br />
 7. [你现在网购还常用淘宝吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%8E%B0%E5%9C%A8%E7%BD%91%E8%B4%AD%E8%BF%98%E5%B8%B8%E7%94%A8%E6%B7%98%E5%AE%9D%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
 8. [高考查分遇上端午假期](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86%E9%81%87%E4%B8%8A%E7%AB%AF%E5%8D%88%E5%81%87%E6%9C%9F%23&t=31&band_rank=8&Refer=top)<br />
-9. [白鹿请助理看五月天演唱会](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E8%AF%B7%E5%8A%A9%E7%90%86%E7%9C%8B%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=9&Refer=top)<br />
+9. [张歆艺 不是所有演艺界的人都是坏人](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%AD%86%E8%89%BA%20%E4%B8%8D%E6%98%AF%E6%89%80%E6%9C%89%E6%BC%94%E8%89%BA%E7%95%8C%E7%9A%84%E4%BA%BA%E9%83%BD%E6%98%AF%E5%9D%8F%E4%BA%BA&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
