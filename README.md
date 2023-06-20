@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 12:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 12:55:02</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [这些古诗词同样适合送给毕业生](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%9B%E5%8F%A4%E8%AF%97%E8%AF%8D%E5%90%8C%E6%A0%B7%E9%80%82%E5%90%88%E9%80%81%E7%BB%99%E6%AF%95%E4%B8%9A%E7%94%9F%23&t=31&band_rank=3&Refer=top)<br />
 4. [黄子佼爱徒Lulu发声](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E4%BD%BC%E7%88%B1%E5%BE%92Lulu%E5%8F%91%E5%A3%B0%23&t=31&band_rank=4&Refer=top)<br />
 5. [中国26岁女生在马代被酒店管家性侵](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD26%E5%B2%81%E5%A5%B3%E7%94%9F%E5%9C%A8%E9%A9%AC%E4%BB%A3%E8%A2%AB%E9%85%92%E5%BA%97%E7%AE%A1%E5%AE%B6%E6%80%A7%E4%BE%B5%23&t=31&band_rank=5&Refer=top)<br />
-6. [谭松韵回应直角肩](https://s.weibo.com/weibo?q=%23%E8%B0%AD%E6%9D%BE%E9%9F%B5%E5%9B%9E%E5%BA%94%E7%9B%B4%E8%A7%92%E8%82%A9%23&t=31&band_rank=6&Refer=top)<br />
-7. [房贷](https://s.weibo.com/weibo?q=%E6%88%BF%E8%B4%B7&t=31&band_rank=7&Refer=top)<br />
+6. [房贷](https://s.weibo.com/weibo?q=%E6%88%BF%E8%B4%B7&t=31&band_rank=6&Refer=top)<br />
+7. [谭松韵回应直角肩](https://s.weibo.com/weibo?q=%23%E8%B0%AD%E6%9D%BE%E9%9F%B5%E5%9B%9E%E5%BA%94%E7%9B%B4%E8%A7%92%E8%82%A9%23&t=31&band_rank=7&Refer=top)<br />
 8. [蔡徐坤演唱会花絮](https://s.weibo.com/weibo?q=%E8%94%A1%E5%BE%90%E5%9D%A4%E6%BC%94%E5%94%B1%E4%BC%9A%E8%8A%B1%E7%B5%AE&t=31&band_rank=8&Refer=top)<br />
-9. [张歆艺 不是所有演艺界的人都是坏人](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%AD%86%E8%89%BA%20%E4%B8%8D%E6%98%AF%E6%89%80%E6%9C%89%E6%BC%94%E8%89%BA%E7%95%8C%E7%9A%84%E4%BA%BA%E9%83%BD%E6%98%AF%E5%9D%8F%E4%BA%BA&t=31&band_rank=9&Refer=top)<br />
+9. [川大再回应地铁偷拍事件](https://s.weibo.com/weibo?q=%23%E5%B7%9D%E5%A4%A7%E5%86%8D%E5%9B%9E%E5%BA%94%E5%9C%B0%E9%93%81%E5%81%B7%E6%8B%8D%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -21,8 +21,8 @@
 5. [警方辟谣女幼师给幼儿喂避孕药，称「网民是男性，非幼教也未买避孕药，已被刑拘」，该男子造谣的动机是什么？](https://www.zhihu.com/question/607587881)<br />
 6. []()<br />
 7. [拜登回应布林肯访华进展，称「中美关系走在正轨上」，如何解读这一评价？中美关系会藉此改善吗？](https://www.zhihu.com/question/607591405)<br />
-8. [调查称 53.7% 年轻人存款不足 10 万，如何看待这一现象，你觉得存款困难吗？](https://www.zhihu.com/question/607446342)<br />
-9. [刚毕业对钱的概念有点模糊，第一个月工资就打算花四千买游戏机（steamdeck）合适吗？](https://www.zhihu.com/question/607482939)<br />
+8. [贾跃亭的车又延期了，并再次抛出了新融资计划，股价瞬间跌超 1/3，如何看待此事？](https://www.zhihu.com/question/607409939)<br />
+9. [调查称 53.7% 年轻人存款不足 10 万，如何看待这一现象，你觉得存款困难吗？](https://www.zhihu.com/question/607446342)<br />
 
 > 百度  
 
