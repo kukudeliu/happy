@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 16:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 16:31:01</h4></div>
 
 > 微博  
 
@@ -6,10 +6,10 @@
 2. [陈情令](https://s.weibo.com/weibo?q=%E9%99%88%E6%83%85%E4%BB%A4&t=31&band_rank=2&Refer=top)<br />
 3. [他们是战巡南海绕岛巡航的空中铁拳](https://s.weibo.com/weibo?q=%23%E4%BB%96%E4%BB%AC%E6%98%AF%E6%88%98%E5%B7%A1%E5%8D%97%E6%B5%B7%E7%BB%95%E5%B2%9B%E5%B7%A1%E8%88%AA%E7%9A%84%E7%A9%BA%E4%B8%AD%E9%93%81%E6%8B%B3%23&t=31&band_rank=3&Refer=top)<br />
 4. [吸毒前后真实的变化](https://s.weibo.com/weibo?q=%23%E5%90%B8%E6%AF%92%E5%89%8D%E5%90%8E%E7%9C%9F%E5%AE%9E%E7%9A%84%E5%8F%98%E5%8C%96%23&t=31&band_rank=4&Refer=top)<br />
-5. [逆水寒 开放了生孩子的功能](https://s.weibo.com/weibo?q=%E9%80%86%E6%B0%B4%E5%AF%92%20%E5%BC%80%E6%94%BE%E4%BA%86%E7%94%9F%E5%AD%A9%E5%AD%90%E7%9A%84%E5%8A%9F%E8%83%BD&t=31&band_rank=5&Refer=top)<br />
+5. [在医院ICU住了四年得多少钱](https://s.weibo.com/weibo?q=%E5%9C%A8%E5%8C%BB%E9%99%A2ICU%E4%BD%8F%E4%BA%86%E5%9B%9B%E5%B9%B4%E5%BE%97%E5%A4%9A%E5%B0%91%E9%92%B1&t=31&band_rank=5&Refer=top)<br />
 6. [台警方称不会侦办大小S被控吸毒](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E8%AD%A6%E6%96%B9%E7%A7%B0%E4%B8%8D%E4%BC%9A%E4%BE%A6%E5%8A%9E%E5%A4%A7%E5%B0%8FS%E8%A2%AB%E6%8E%A7%E5%90%B8%E6%AF%92%23&t=31&band_rank=6&Refer=top)<br />
-7. [秦岚腰臀比](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E8%85%B0%E8%87%80%E6%AF%94%23&t=31&band_rank=7&Refer=top)<br />
-8. [在医院ICU住了四年得多少钱](https://s.weibo.com/weibo?q=%E5%9C%A8%E5%8C%BB%E9%99%A2ICU%E4%BD%8F%E4%BA%86%E5%9B%9B%E5%B9%B4%E5%BE%97%E5%A4%9A%E5%B0%91%E9%92%B1&t=31&band_rank=8&Refer=top)<br />
+7. [逆水寒 开放了生孩子的功能](https://s.weibo.com/weibo?q=%E9%80%86%E6%B0%B4%E5%AF%92%20%E5%BC%80%E6%94%BE%E4%BA%86%E7%94%9F%E5%AD%A9%E5%AD%90%E7%9A%84%E5%8A%9F%E8%83%BD&t=31&band_rank=7&Refer=top)<br />
+8. [秦岚腰臀比](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E8%85%B0%E8%87%80%E6%AF%94%23&t=31&band_rank=8&Refer=top)<br />
 9. [欧阳娜娜的长安第一美人](https://s.weibo.com/weibo?q=%23%E6%AC%A7%E9%98%B3%E5%A8%9C%E5%A8%9C%E7%9A%84%E9%95%BF%E5%AE%89%E7%AC%AC%E4%B8%80%E7%BE%8E%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -27,23 +27,23 @@
 > 百度  
 
 1. [让中美关系稳下来、好起来](https://www.baidu.com/s?wd=%E8%AE%A9%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB%E7%A8%B3%E4%B8%8B%E6%9D%A5%E3%80%81%E5%A5%BD%E8%B5%B7%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [女子与他人共享屏幕 背负百万网贷](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%8E%E4%BB%96%E4%BA%BA%E5%85%B1%E4%BA%AB%E5%B1%8F%E5%B9%95+%E8%83%8C%E8%B4%9F%E7%99%BE%E4%B8%87%E7%BD%91%E8%B4%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [两儿童从29楼坠入地下室身亡](https://www.baidu.com/s?wd=%E4%B8%A4%E5%84%BF%E7%AB%A5%E4%BB%8E29%E6%A5%BC%E5%9D%A0%E5%85%A5%E5%9C%B0%E4%B8%8B%E5%AE%A4%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [四问阿里巴巴“再次交棒”](https://www.baidu.com/s?wd=%E5%9B%9B%E9%97%AE%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E2%80%9C%E5%86%8D%E6%AC%A1%E4%BA%A4%E6%A3%92%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [中国女生马尔代夫被性侵 中使馆回应](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%94%9F%E9%A9%AC%E5%B0%94%E4%BB%A3%E5%A4%AB%E8%A2%AB%E6%80%A7%E4%BE%B5+%E4%B8%AD%E4%BD%BF%E9%A6%86%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“2023年高考网上咨询周”时间安排](https://www.baidu.com/s?wd=%E2%80%9C2023%E5%B9%B4%E9%AB%98%E8%80%83%E7%BD%91%E4%B8%8A%E5%92%A8%E8%AF%A2%E5%91%A8%E2%80%9D%E6%97%B6%E9%97%B4%E5%AE%89%E6%8E%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [男子在新疆被村民4次拦路要钱](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E6%96%B0%E7%96%86%E8%A2%AB%E6%9D%91%E6%B0%914%E6%AC%A1%E6%8B%A6%E8%B7%AF%E8%A6%81%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [观光潜艇失联 载有英亿万富翁等5人](https://www.baidu.com/s?wd=%E8%A7%82%E5%85%89%E6%BD%9C%E8%89%87%E5%A4%B1%E8%81%94+%E8%BD%BD%E6%9C%89%E8%8B%B1%E4%BA%BF%E4%B8%87%E5%AF%8C%E7%BF%81%E7%AD%895%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [房贷降息！算算你每月能省多少](https://www.baidu.com/s?wd=%E6%88%BF%E8%B4%B7%E9%99%8D%E6%81%AF%EF%BC%81%E7%AE%97%E7%AE%97%E4%BD%A0%E6%AF%8F%E6%9C%88%E8%83%BD%E7%9C%81%E5%A4%9A%E5%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [台警方：不会侦办大小S被指控吸毒](https://www.baidu.com/s?wd=%E5%8F%B0%E8%AD%A6%E6%96%B9%EF%BC%9A%E4%B8%8D%E4%BC%9A%E4%BE%A6%E5%8A%9E%E5%A4%A7%E5%B0%8FS%E8%A2%AB%E6%8C%87%E6%8E%A7%E5%90%B8%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [陕西一官员坠楼身亡 官方：工伤意外](https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF%E4%B8%80%E5%AE%98%E5%91%98%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1+%E5%AE%98%E6%96%B9%EF%BC%9A%E5%B7%A5%E4%BC%A4%E6%84%8F%E5%A4%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [爷爷送孙女上学双双被急流冲走](https://www.baidu.com/s?wd=%E7%88%B7%E7%88%B7%E9%80%81%E5%AD%99%E5%A5%B3%E4%B8%8A%E5%AD%A6%E5%8F%8C%E5%8F%8C%E8%A2%AB%E6%80%A5%E6%B5%81%E5%86%B2%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [两儿童从29楼坠入地下室身亡](https://www.baidu.com/s?wd=%E4%B8%A4%E5%84%BF%E7%AB%A5%E4%BB%8E29%E6%A5%BC%E5%9D%A0%E5%85%A5%E5%9C%B0%E4%B8%8B%E5%AE%A4%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子在新疆被村民4次拦路要钱](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E6%96%B0%E7%96%86%E8%A2%AB%E6%9D%91%E6%B0%914%E6%AC%A1%E6%8B%A6%E8%B7%AF%E8%A6%81%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [让中美关系稳下来、好起来](https://www.baidu.com/s?wd=%E8%AE%A9%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB%E7%A8%B3%E4%B8%8B%E6%9D%A5%E3%80%81%E5%A5%BD%E8%B5%B7%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [女子与他人共享屏幕 背负百万网贷](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%8E%E4%BB%96%E4%BA%BA%E5%85%B1%E4%BA%AB%E5%B1%8F%E5%B9%95+%E8%83%8C%E8%B4%9F%E7%99%BE%E4%B8%87%E7%BD%91%E8%B4%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [两儿童从29楼坠入地下室身亡](https://www.baidu.com/s?wd=%E4%B8%A4%E5%84%BF%E7%AB%A5%E4%BB%8E29%E6%A5%BC%E5%9D%A0%E5%85%A5%E5%9C%B0%E4%B8%8B%E5%AE%A4%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [四问阿里巴巴“再次交棒”](https://www.baidu.com/s?wd=%E5%9B%9B%E9%97%AE%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E2%80%9C%E5%86%8D%E6%AC%A1%E4%BA%A4%E6%A3%92%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [中国女生马尔代夫被性侵 中使馆回应](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%94%9F%E9%A9%AC%E5%B0%94%E4%BB%A3%E5%A4%AB%E8%A2%AB%E6%80%A7%E4%BE%B5+%E4%B8%AD%E4%BD%BF%E9%A6%86%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“2023年高考网上咨询周”时间安排](https://www.baidu.com/s?wd=%E2%80%9C2023%E5%B9%B4%E9%AB%98%E8%80%83%E7%BD%91%E4%B8%8A%E5%92%A8%E8%AF%A2%E5%91%A8%E2%80%9D%E6%97%B6%E9%97%B4%E5%AE%89%E6%8E%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [男子在新疆被村民4次拦路要钱](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E6%96%B0%E7%96%86%E8%A2%AB%E6%9D%91%E6%B0%914%E6%AC%A1%E6%8B%A6%E8%B7%AF%E8%A6%81%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [观光潜艇失联 载有英亿万富翁等5人](https://www.baidu.com/s?wd=%E8%A7%82%E5%85%89%E6%BD%9C%E8%89%87%E5%A4%B1%E8%81%94+%E8%BD%BD%E6%9C%89%E8%8B%B1%E4%BA%BF%E4%B8%87%E5%AF%8C%E7%BF%81%E7%AD%895%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [房贷降息！算算你每月能省多少](https://www.baidu.com/s?wd=%E6%88%BF%E8%B4%B7%E9%99%8D%E6%81%AF%EF%BC%81%E7%AE%97%E7%AE%97%E4%BD%A0%E6%AF%8F%E6%9C%88%E8%83%BD%E7%9C%81%E5%A4%9A%E5%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [台警方：不会侦办大小S被指控吸毒](https://www.baidu.com/s?wd=%E5%8F%B0%E8%AD%A6%E6%96%B9%EF%BC%9A%E4%B8%8D%E4%BC%9A%E4%BE%A6%E5%8A%9E%E5%A4%A7%E5%B0%8FS%E8%A2%AB%E6%8C%87%E6%8E%A7%E5%90%B8%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [陕西一官员坠楼身亡 官方：工伤意外](https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF%E4%B8%80%E5%AE%98%E5%91%98%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1+%E5%AE%98%E6%96%B9%EF%BC%9A%E5%B7%A5%E4%BC%A4%E6%84%8F%E5%A4%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [爷爷送孙女上学双双被急流冲走](https://www.baidu.com/s?wd=%E7%88%B7%E7%88%B7%E9%80%81%E5%AD%99%E5%A5%B3%E4%B8%8A%E5%AD%A6%E5%8F%8C%E5%8F%8C%E8%A2%AB%E6%80%A5%E6%B5%81%E5%86%B2%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [两儿童从29楼坠入地下室身亡](https://www.baidu.com/s?wd=%E4%B8%A4%E5%84%BF%E7%AB%A5%E4%BB%8E29%E6%A5%BC%E5%9D%A0%E5%85%A5%E5%9C%B0%E4%B8%8B%E5%AE%A4%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子在新疆被村民4次拦路要钱](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E6%96%B0%E7%96%86%E8%A2%AB%E6%9D%91%E6%B0%914%E6%AC%A1%E6%8B%A6%E8%B7%AF%E8%A6%81%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
