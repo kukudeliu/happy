@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 13:20:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 13:21:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [警方辟谣女幼师给幼儿喂避孕药，称「网民是男性，非幼教也未买避孕药，已被刑拘」，该男子造谣的动机是什么？](https://www.zhihu.com/question/607587881)<br />
 6. [董路认为「贵州村超在国足中没有什么用处」，如何看待其观点？](https://www.zhihu.com/question/607108205)<br />
 7. [贾跃亭的车又延期了，并再次抛出了新融资计划，股价瞬间跌超 1/3，如何看待此事？](https://www.zhihu.com/question/607409939)<br />
-8. [如果 M78 光之国的奥特曼们来到《战锤 40k》会怎么样?](https://www.zhihu.com/question/589015859)<br />
-9. [为什么会有人不喜欢《崩坏：星穹铁道》角色「克拉拉」？](https://www.zhihu.com/question/601035739)<br />
+8. [为什么会有人不喜欢《崩坏：星穹铁道》角色「克拉拉」？](https://www.zhihu.com/question/601035739)<br />
+9. [如果 M78 光之国的奥特曼们来到《战锤 40k》会怎么样?](https://www.zhihu.com/question/589015859)<br />
 
 > 百度  
 
