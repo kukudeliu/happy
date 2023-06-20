@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 17:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 17:42:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [如何看待大学生兴起免费帮忙「遛狗潮」？](https://www.zhihu.com/question/606934285)<br />
 7. [为抢「剩菜盲盒」定闹钟，年轻人为什么会被「剩菜盲盒」吸引？你愿意买「剩菜盲盒」吗？](https://www.zhihu.com/question/607612655)<br />
 8. [你最无法接受游戏在哪些方面堆难度?](https://www.zhihu.com/question/605217770)<br />
-9. [《灌篮高手》中，深泽体育大学不要赤木的情况下要了谁？](https://www.zhihu.com/question/441228498)<br />
+9. [高考全程用了 0.7 的笔有没有问题？](https://www.zhihu.com/question/606112141)<br />
 
 > 百度  
 
