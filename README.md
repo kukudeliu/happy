@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 21:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 21:10:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [陈情令](https://s.weibo.com/weibo?q=%E9%99%88%E6%83%85%E4%BB%A4&t=31&band_rank=6&Refer=top)<br />
 7. [金晨的嘴怎么了](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E7%9A%84%E5%98%B4%E6%80%8E%E4%B9%88%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [台警方称不会侦办大小S被控吸毒](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E8%AD%A6%E6%96%B9%E7%A7%B0%E4%B8%8D%E4%BC%9A%E4%BE%A6%E5%8A%9E%E5%A4%A7%E5%B0%8FS%E8%A2%AB%E6%8E%A7%E5%90%B8%E6%AF%92%23&t=31&band_rank=8&Refer=top)<br />
-9. [肚子瘦不下来的真正原因](https://s.weibo.com/weibo?q=%E8%82%9A%E5%AD%90%E7%98%A6%E4%B8%8D%E4%B8%8B%E6%9D%A5%E7%9A%84%E7%9C%9F%E6%AD%A3%E5%8E%9F%E5%9B%A0&t=31&band_rank=9&Refer=top)<br />
+9. [杨幂撑伞](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E6%92%91%E4%BC%9E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [媒体评张雪峰关于新闻学专业言论称「学不学新闻不能只凭网红一张嘴」，如何评价此观点？你怎么看新闻学专业？](https://www.zhihu.com/question/607408168)<br />
 7. []()<br />
 8. [有医保，还需不需要再买一份百万医疗险？新推出的「0 免赔额，保证续保」的好医保到底怎么样？](https://www.zhihu.com/question/607422397)<br />
-9. [台湾艺人黄子佼承认「强吻少女拍裸照」，中午发视频道歉，暴露出哪些问题？其将面临哪些法律惩罚？](https://www.zhihu.com/question/607440153)<br />
+9. [每斤跌至 3 元，妃子笑荔枝卖出蔬菜价，经销商称「5 年来最低的价格」，今年荔枝为何降得如此夸张？](https://www.zhihu.com/question/607612022)<br />
 
 > 百度  
 
