@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 14:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 14:03:01</h4></div>
 
 > 微博  
 
 1. [阿里集团换帅](https://s.weibo.com/weibo?q=%23%E9%98%BF%E9%87%8C%E9%9B%86%E5%9B%A2%E6%8D%A2%E5%B8%85%23&t=31&band_rank=1&Refer=top)<br />
-2. [男子造谣冒充女幼师给幼儿喂药被刑拘](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%80%A0%E8%B0%A3%E5%86%92%E5%85%85%E5%A5%B3%E5%B9%BC%E5%B8%88%E7%BB%99%E5%B9%BC%E5%84%BF%E5%96%82%E8%8D%AF%E8%A2%AB%E5%88%91%E6%8B%98%23&t=31&band_rank=2&Refer=top)<br />
+2. [房贷](https://s.weibo.com/weibo?q=%E6%88%BF%E8%B4%B7&t=31&band_rank=2&Refer=top)<br />
 3. [这些古诗词同样适合送给毕业生](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%9B%E5%8F%A4%E8%AF%97%E8%AF%8D%E5%90%8C%E6%A0%B7%E9%80%82%E5%90%88%E9%80%81%E7%BB%99%E6%AF%95%E4%B8%9A%E7%94%9F%23&t=31&band_rank=3&Refer=top)<br />
 4. [医护人员称黄子佼无法开口说话](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E6%8A%A4%E4%BA%BA%E5%91%98%E7%A7%B0%E9%BB%84%E5%AD%90%E4%BD%BC%E6%97%A0%E6%B3%95%E5%BC%80%E5%8F%A3%E8%AF%B4%E8%AF%9D%23&t=31&band_rank=4&Refer=top)<br />
-5. [房贷](https://s.weibo.com/weibo?q=%E6%88%BF%E8%B4%B7&t=31&band_rank=5&Refer=top)<br />
+5. [男子造谣冒充女幼师给幼儿喂药被刑拘](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%80%A0%E8%B0%A3%E5%86%92%E5%85%85%E5%A5%B3%E5%B9%BC%E5%B8%88%E7%BB%99%E5%B9%BC%E5%84%BF%E5%96%82%E8%8D%AF%E8%A2%AB%E5%88%91%E6%8B%98%23&t=31&band_rank=5&Refer=top)<br />
 6. [小鬼往车窗外丢烟头](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%AC%BC%E5%BE%80%E8%BD%A6%E7%AA%97%E5%A4%96%E4%B8%A2%E7%83%9F%E5%A4%B4%23&t=31&band_rank=6&Refer=top)<br />
 7. [张艺兴工作室公开招聘](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%23&t=31&band_rank=7&Refer=top)<br />
 8. [谭松韵回应直角肩](https://s.weibo.com/weibo?q=%23%E8%B0%AD%E6%9D%BE%E9%9F%B5%E5%9B%9E%E5%BA%94%E7%9B%B4%E8%A7%92%E8%82%A9%23&t=31&band_rank=8&Refer=top)<br />
@@ -21,8 +21,8 @@
 5. [张勇将于 9 月 10 日卸任阿里集团董事会主席兼 CEO 职务，如何解读这一人事变动？](https://www.zhihu.com/question/607605809)<br />
 6. [贾跃亭的车又延期了，并再次抛出了新融资计划，股价瞬间跌超 1/3，如何看待此事？](https://www.zhihu.com/question/607409939)<br />
 7. [DC 中的超人为什么带上眼镜成为克拉克，而别人就认不出他是超人？](https://www.zhihu.com/question/470959218)<br />
-8. [有没有和「去病」「弃疾」一个意思但更文雅一些的名字？](https://www.zhihu.com/question/579655816)<br />
-9. [一般博物馆展览都是展示铜镜的背面，为什么不让看铜镜的正面？](https://www.zhihu.com/question/605602394)<br />
+8. [一般博物馆展览都是展示铜镜的背面，为什么不让看铜镜的正面？](https://www.zhihu.com/question/605602394)<br />
+9. [日本排核废水入海，十年可能扩散至整个北太平洋，何时会影响到中国？未来你还敢吃海鱼吗？](https://www.zhihu.com/question/607532765)<br />
 
 > 百度  
 
