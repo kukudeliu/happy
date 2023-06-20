@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 10:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 10:07:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [如何准确表达 SCI 论文中的图？](https://www.zhihu.com/question/514568911)<br />
 6. [时隔十个月降息来了，6 月 1 年期、 5 年期 LPR 均下降 10 个基点，将带来哪些影响？](https://www.zhihu.com/question/607593320)<br />
 7. [黄子佼曝大小 S 具俊晔嗑药，大 S 工作室回应称「她心脏不好不能接触毒品」，真实情况如何，该如何看待？](https://www.zhihu.com/question/607436138)<br />
-8. [为什么北京烤鸭出名靠鸭子，换成鸡的做法就不行了吗？](https://www.zhihu.com/question/606620975)<br />
-9. [金华国际足球邀请赛中国亚运队 1:0 韩国 U24，孙沁涵破门，韩佳奇力保球门不失，如何评价本场比赛？](https://www.zhihu.com/question/607515200)<br />
+8. [金华国际足球邀请赛中国亚运队 1:0 韩国 U24，孙沁涵破门，韩佳奇力保球门不失，如何评价本场比赛？](https://www.zhihu.com/question/607515200)<br />
+9. [相对论与勾股定理是什么关系？](https://www.zhihu.com/question/607114763)<br />
 
 > 百度  
 
