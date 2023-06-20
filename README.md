@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 18:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 18:01:02</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [为抢「剩菜盲盒」定闹钟，年轻人为什么会被「剩菜盲盒」吸引？你愿意买「剩菜盲盒」吗？](https://www.zhihu.com/question/607612655)<br />
 7. [高考全程用了 0.7 的笔有没有问题？](https://www.zhihu.com/question/606112141)<br />
 8. [你最无法接受游戏在哪些方面堆难度?](https://www.zhihu.com/question/605217770)<br />
-9. []()<br />
+9. [五年期 LPR 下降 10 个基点，100 万房贷 30 年减少 2.1 万元，对房地产市场有何影响？](https://www.zhihu.com/question/607595385)<br />
 
 > 百度  
 
