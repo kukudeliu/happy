@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 19:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 19:31:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [宋轶素颜照](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%BD%B6%E7%B4%A0%E9%A2%9C%E7%85%A7%23&t=31&band_rank=6&Refer=top)<br />
 7. [学生帽穗丢了老师无实物拨穗](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E5%B8%BD%E7%A9%97%E4%B8%A2%E4%BA%86%E8%80%81%E5%B8%88%E6%97%A0%E5%AE%9E%E7%89%A9%E6%8B%A8%E7%A9%97%23&t=31&band_rank=7&Refer=top)<br />
 8. [吴宗宪 这辈子最痛恨吸毒的人](https://s.weibo.com/weibo?q=%E5%90%B4%E5%AE%97%E5%AE%AA%20%E8%BF%99%E8%BE%88%E5%AD%90%E6%9C%80%E7%97%9B%E6%81%A8%E5%90%B8%E6%AF%92%E7%9A%84%E4%BA%BA&t=31&band_rank=8&Refer=top)<br />
-9. [孙笑川辟谣去世](https://s.weibo.com/weibo?q=%23%E5%AD%99%E7%AC%91%E5%B7%9D%E8%BE%9F%E8%B0%A3%E5%8E%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
+9. [官方回应公职人员吸毒被查后仍在岗](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E5%90%B8%E6%AF%92%E8%A2%AB%E6%9F%A5%E5%90%8E%E4%BB%8D%E5%9C%A8%E5%B2%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
