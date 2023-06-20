@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 03:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 03:42:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [观光潜艇失联 将是史上最深深海救援](https://www.baidu.com/s?wd=%E8%A7%82%E5%85%89%E6%BD%9C%E8%89%87%E5%A4%B1%E8%81%94+%E5%B0%86%E6%98%AF%E5%8F%B2%E4%B8%8A%E6%9C%80%E6%B7%B1%E6%B7%B1%E6%B5%B7%E6%95%91%E6%8F%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [专家称刷题应试正在被淘汰](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E5%88%B7%E9%A2%98%E5%BA%94%E8%AF%95%E6%AD%A3%E5%9C%A8%E8%A2%AB%E6%B7%98%E6%B1%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [爷爷送孙女上学双双被急流冲走](https://www.baidu.com/s?wd=%E7%88%B7%E7%88%B7%E9%80%81%E5%AD%99%E5%A5%B3%E4%B8%8A%E5%AD%A6%E5%8F%8C%E5%8F%8C%E8%A2%AB%E6%80%A5%E6%B5%81%E5%86%B2%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [广州一出租屋发现3具尸体 警方通报](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E4%B8%80%E5%87%BA%E7%A7%9F%E5%B1%8B%E5%8F%91%E7%8E%B03%E5%85%B7%E5%B0%B8%E4%BD%93+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [台湾爷孙恋男主儿子与继母和解](https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E7%88%B7%E5%AD%99%E6%81%8B%E7%94%B7%E4%B8%BB%E5%84%BF%E5%AD%90%E4%B8%8E%E7%BB%A7%E6%AF%8D%E5%92%8C%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [台湾爷孙恋男主儿子与继母和解](https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E7%88%B7%E5%AD%99%E6%81%8B%E7%94%B7%E4%B8%BB%E5%84%BF%E5%AD%90%E4%B8%8E%E7%BB%A7%E6%AF%8D%E5%92%8C%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [广州一出租屋发现3具尸体 警方通报](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E4%B8%80%E5%87%BA%E7%A7%9F%E5%B1%8B%E5%8F%91%E7%8E%B03%E5%85%B7%E5%B0%B8%E4%BD%93+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [观光潜艇失联 将是史上最深深海救援](https://www.baidu.com/s?wd=%E8%A7%82%E5%85%89%E6%BD%9C%E8%89%87%E5%A4%B1%E8%81%94+%E5%B0%86%E6%98%AF%E5%8F%B2%E4%B8%8A%E6%9C%80%E6%B7%B1%E6%B7%B1%E6%B5%B7%E6%95%91%E6%8F%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [专家称刷题应试正在被淘汰](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E5%88%B7%E9%A2%98%E5%BA%94%E8%AF%95%E6%AD%A3%E5%9C%A8%E8%A2%AB%E6%B7%98%E6%B1%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [爷爷送孙女上学双双被急流冲走](https://www.baidu.com/s?wd=%E7%88%B7%E7%88%B7%E9%80%81%E5%AD%99%E5%A5%B3%E4%B8%8A%E5%AD%A6%E5%8F%8C%E5%8F%8C%E8%A2%AB%E6%80%A5%E6%B5%81%E5%86%B2%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [广州一出租屋发现3具尸体 警方通报](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E4%B8%80%E5%87%BA%E7%A7%9F%E5%B1%8B%E5%8F%91%E7%8E%B03%E5%85%B7%E5%B0%B8%E4%BD%93+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [台湾爷孙恋男主儿子与继母和解](https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E7%88%B7%E5%AD%99%E6%81%8B%E7%94%B7%E4%B8%BB%E5%84%BF%E5%AD%90%E4%B8%8E%E7%BB%A7%E6%AF%8D%E5%92%8C%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [台湾爷孙恋男主儿子与继母和解](https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E7%88%B7%E5%AD%99%E6%81%8B%E7%94%B7%E4%B8%BB%E5%84%BF%E5%AD%90%E4%B8%8E%E7%BB%A7%E6%AF%8D%E5%92%8C%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [广州一出租屋发现3具尸体 警方通报](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E4%B8%80%E5%87%BA%E7%A7%9F%E5%B1%8B%E5%8F%91%E7%8E%B03%E5%85%B7%E5%B0%B8%E4%BD%93+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
