@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 00:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 00:15:01</h4></div>
 
 > 微博  
 
 1. [长风渡第9集封神](https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%A3%8E%E6%B8%A1%E7%AC%AC9%E9%9B%86%E5%B0%81%E7%A5%9E%23&t=31&band_rank=1&Refer=top)<br />
-2. [兄妹从29楼通风管道坠入地下室身亡](https://s.weibo.com/weibo?q=%23%E5%85%84%E5%A6%B9%E4%BB%8E29%E6%A5%BC%E9%80%9A%E9%A3%8E%E7%AE%A1%E9%81%93%E5%9D%A0%E5%85%A5%E5%9C%B0%E4%B8%8B%E5%AE%A4%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=2&Refer=top)<br />
+2. [马伯骞问爱马仕是什么](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%BC%AF%E9%AA%9E%E9%97%AE%E7%88%B1%E9%A9%AC%E4%BB%95%E6%98%AF%E4%BB%80%E4%B9%88%23&t=31&band_rank=2&Refer=top)<br />
 3. [我国自研视景系统首次试飞成功](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E8%87%AA%E7%A0%94%E8%A7%86%E6%99%AF%E7%B3%BB%E7%BB%9F%E9%A6%96%E6%AC%A1%E8%AF%95%E9%A3%9E%E6%88%90%E5%8A%9F%23&t=31&band_rank=3&Refer=top)<br />
-4. [马伯骞问爱马仕是什么](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%BC%AF%E9%AA%9E%E9%97%AE%E7%88%B1%E9%A9%AC%E4%BB%95%E6%98%AF%E4%BB%80%E4%B9%88%23&t=31&band_rank=4&Refer=top)<br />
-5. [关闭朋友圈半年后的变化](https://s.weibo.com/weibo?q=%23%E5%85%B3%E9%97%AD%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%8D%8A%E5%B9%B4%E5%90%8E%E7%9A%84%E5%8F%98%E5%8C%96%23&t=31&band_rank=5&Refer=top)<br />
+4. [关闭朋友圈半年后的变化](https://s.weibo.com/weibo?q=%23%E5%85%B3%E9%97%AD%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%8D%8A%E5%B9%B4%E5%90%8E%E7%9A%84%E5%8F%98%E5%8C%96%23&t=31&band_rank=4&Refer=top)<br />
+5. [兄妹从29楼通风管道坠入地下室身亡](https://s.weibo.com/weibo?q=%23%E5%85%84%E5%A6%B9%E4%BB%8E29%E6%A5%BC%E9%80%9A%E9%A3%8E%E7%AE%A1%E9%81%93%E5%9D%A0%E5%85%A5%E5%9C%B0%E4%B8%8B%E5%AE%A4%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=5&Refer=top)<br />
 6. [陈情令](https://s.weibo.com/weibo?q=%E9%99%88%E6%83%85%E4%BB%A4&t=31&band_rank=6&Refer=top)<br />
 7. [金晨的嘴怎么了](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E7%9A%84%E5%98%B4%E6%80%8E%E4%B9%88%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [偷偷藏不住受众群体](https://s.weibo.com/weibo?q=%23%E5%81%B7%E5%81%B7%E8%97%8F%E4%B8%8D%E4%BD%8F%E5%8F%97%E4%BC%97%E7%BE%A4%E4%BD%93%23&t=31&band_rank=8&Refer=top)<br />
@@ -21,8 +21,8 @@
 5. [有没有和「去病」「弃疾」一个意思但更文雅一些的名字？](https://www.zhihu.com/question/579655816)<br />
 6. []()<br />
 7. []()<br />
-8. [热身赛国足 2:0 巴勒斯坦，武磊连场破门，蒋光太斩国家队生涯首球，如何评价国足表现？](https://www.zhihu.com/question/607667110)<br />
-9. [媒体评张雪峰关于新闻学专业言论称「学不学新闻不能只凭网红一张嘴」，如何评价此观点？你怎么看新闻学专业？](https://www.zhihu.com/question/607408168)<br />
+8. [媒体评张雪峰关于新闻学专业言论称「学不学新闻不能只凭网红一张嘴」，如何评价此观点？你怎么看新闻学专业？](https://www.zhihu.com/question/607408168)<br />
+9. [为什么年检总是能搞坏车？](https://www.zhihu.com/question/370206776)<br />
 
 > 百度  
 
@@ -33,7 +33,7 @@
 5. [观光潜艇失联 将是史上最深深海救援](https://www.baidu.com/s?wd=%E8%A7%82%E5%85%89%E6%BD%9C%E8%89%87%E5%A4%B1%E8%81%94+%E5%B0%86%E6%98%AF%E5%8F%B2%E4%B8%8A%E6%9C%80%E6%B7%B1%E6%B7%B1%E6%B5%B7%E6%95%91%E6%8F%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [学生驾车身亡父母获赔上亿](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E9%A9%BE%E8%BD%A6%E8%BA%AB%E4%BA%A1%E7%88%B6%E6%AF%8D%E8%8E%B7%E8%B5%94%E4%B8%8A%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [自曝遭性侵中国女生反驳酒店声明](https://www.baidu.com/s?wd=%E8%87%AA%E6%9B%9D%E9%81%AD%E6%80%A7%E4%BE%B5%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%94%9F%E5%8F%8D%E9%A9%B3%E9%85%92%E5%BA%97%E5%A3%B0%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [炎亚纶承认与未成年发生关系](https://www.baidu.com/s?wd=%E7%82%8E%E4%BA%9A%E7%BA%B6%E6%89%BF%E8%AE%A4%E4%B8%8E%E6%9C%AA%E6%88%90%E5%B9%B4%E5%8F%91%E7%94%9F%E5%85%B3%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中国女生马尔代夫被性侵 中使馆回应](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%94%9F%E9%A9%AC%E5%B0%94%E4%BB%A3%E5%A4%AB%E8%A2%AB%E6%80%A7%E4%BE%B5+%E4%B8%AD%E4%BD%BF%E9%A6%86%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [爱尔眼科王勇不接受艾芬道歉](https://www.baidu.com/s?wd=%E7%88%B1%E5%B0%94%E7%9C%BC%E7%A7%91%E7%8E%8B%E5%8B%87%E4%B8%8D%E6%8E%A5%E5%8F%97%E8%89%BE%E8%8A%AC%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [观光潜艇失联 将是史上最深深海救援](https://www.baidu.com/s?wd=%E8%A7%82%E5%85%89%E6%BD%9C%E8%89%87%E5%A4%B1%E8%81%94+%E5%B0%86%E6%98%AF%E5%8F%B2%E4%B8%8A%E6%9C%80%E6%B7%B1%E6%B7%B1%E6%B5%B7%E6%95%91%E6%8F%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [学生驾车身亡父母获赔上亿](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E9%A9%BE%E8%BD%A6%E8%BA%AB%E4%BA%A1%E7%88%B6%E6%AF%8D%E8%8E%B7%E8%B5%94%E4%B8%8A%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [自曝遭性侵中国女生反驳酒店声明](https://www.baidu.com/s?wd=%E8%87%AA%E6%9B%9D%E9%81%AD%E6%80%A7%E4%BE%B5%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%94%9F%E5%8F%8D%E9%A9%B3%E9%85%92%E5%BA%97%E5%A3%B0%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [炎亚纶承认与未成年发生关系](https://www.baidu.com/s?wd=%E7%82%8E%E4%BA%9A%E7%BA%B6%E6%89%BF%E8%AE%A4%E4%B8%8E%E6%9C%AA%E6%88%90%E5%B9%B4%E5%8F%91%E7%94%9F%E5%85%B3%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中国女生马尔代夫被性侵 中使馆回应](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%94%9F%E9%A9%AC%E5%B0%94%E4%BB%A3%E5%A4%AB%E8%A2%AB%E6%80%A7%E4%BE%B5+%E4%B8%AD%E4%BD%BF%E9%A6%86%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [爱尔眼科王勇不接受艾芬道歉](https://www.baidu.com/s?wd=%E7%88%B1%E5%B0%94%E7%9C%BC%E7%A7%91%E7%8E%8B%E5%8B%87%E4%B8%8D%E6%8E%A5%E5%8F%97%E8%89%BE%E8%8A%AC%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
