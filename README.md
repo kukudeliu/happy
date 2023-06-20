@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 13:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 13:47:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [阿里集团换帅](https://s.weibo.com/weibo?q=%23%E9%98%BF%E9%87%8C%E9%9B%86%E5%9B%A2%E6%8D%A2%E5%B8%85%23&t=31&band_rank=2&Refer=top)<br />
 3. [这些古诗词同样适合送给毕业生](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%9B%E5%8F%A4%E8%AF%97%E8%AF%8D%E5%90%8C%E6%A0%B7%E9%80%82%E5%90%88%E9%80%81%E7%BB%99%E6%AF%95%E4%B8%9A%E7%94%9F%23&t=31&band_rank=3&Refer=top)<br />
 4. [医护人员称黄子佼无法开口说话](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E6%8A%A4%E4%BA%BA%E5%91%98%E7%A7%B0%E9%BB%84%E5%AD%90%E4%BD%BC%E6%97%A0%E6%B3%95%E5%BC%80%E5%8F%A3%E8%AF%B4%E8%AF%9D%23&t=31&band_rank=4&Refer=top)<br />
-5. [小鬼往车窗外丢烟头](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%AC%BC%E5%BE%80%E8%BD%A6%E7%AA%97%E5%A4%96%E4%B8%A2%E7%83%9F%E5%A4%B4%23&t=31&band_rank=5&Refer=top)<br />
-6. [房贷](https://s.weibo.com/weibo?q=%E6%88%BF%E8%B4%B7&t=31&band_rank=6&Refer=top)<br />
+5. [房贷](https://s.weibo.com/weibo?q=%E6%88%BF%E8%B4%B7&t=31&band_rank=5&Refer=top)<br />
+6. [小鬼往车窗外丢烟头](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%AC%BC%E5%BE%80%E8%BD%A6%E7%AA%97%E5%A4%96%E4%B8%A2%E7%83%9F%E5%A4%B4%23&t=31&band_rank=6&Refer=top)<br />
 7. [谭松韵回应直角肩](https://s.weibo.com/weibo?q=%23%E8%B0%AD%E6%9D%BE%E9%9F%B5%E5%9B%9E%E5%BA%94%E7%9B%B4%E8%A7%92%E8%82%A9%23&t=31&band_rank=7&Refer=top)<br />
 8. [中国26岁女生在马代被酒店管家性侵](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD26%E5%B2%81%E5%A5%B3%E7%94%9F%E5%9C%A8%E9%A9%AC%E4%BB%A3%E8%A2%AB%E9%85%92%E5%BA%97%E7%AE%A1%E5%AE%B6%E6%80%A7%E4%BE%B5%23&t=31&band_rank=8&Refer=top)<br />
 9. [男子表白失败扔花大喊她是女同](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%A1%A8%E7%99%BD%E5%A4%B1%E8%B4%A5%E6%89%94%E8%8A%B1%E5%A4%A7%E5%96%8A%E5%A5%B9%E6%98%AF%E5%A5%B3%E5%90%8C%23&t=31&band_rank=9&Refer=top)<br />
