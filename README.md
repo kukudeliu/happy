@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 08:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 08:17:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [蔡徐坤评论区回复粉丝](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E8%AF%84%E8%AE%BA%E5%8C%BA%E5%9B%9E%E5%A4%8D%E7%B2%89%E4%B8%9D%23&t=31&band_rank=5&Refer=top)<br />
 6. [黄子佼信息炸裂](https://s.weibo.com/weibo?q=%E9%BB%84%E5%AD%90%E4%BD%BC%E4%BF%A1%E6%81%AF%E7%82%B8%E8%A3%82&t=31&band_rank=6&Refer=top)<br />
 7. [庆余年2官宣毛晓彤](https://s.weibo.com/weibo?q=%23%E5%BA%86%E4%BD%99%E5%B9%B42%E5%AE%98%E5%AE%A3%E6%AF%9B%E6%99%93%E5%BD%A4%23&t=31&band_rank=7&Refer=top)<br />
-8. [布林肯](https://s.weibo.com/weibo?q=%23%E5%B8%83%E6%9E%97%E8%82%AF%23&t=31&band_rank=8&Refer=top)<br />
+8. [小红书回应女幼师疑给幼儿喂避孕药](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%BA%A2%E4%B9%A6%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%B9%BC%E5%B8%88%E7%96%91%E7%BB%99%E5%B9%BC%E5%84%BF%E5%96%82%E9%81%BF%E5%AD%95%E8%8D%AF%23&t=31&band_rank=8&Refer=top)<br />
 9. [韩玖诺版叶灵儿](https://s.weibo.com/weibo?q=%E9%9F%A9%E7%8E%96%E8%AF%BA%E7%89%88%E5%8F%B6%E7%81%B5%E5%84%BF&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
