@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 11:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 11:16:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [杨迪说陈妍希的家像样板房](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%BF%AA%E8%AF%B4%E9%99%88%E5%A6%8D%E5%B8%8C%E7%9A%84%E5%AE%B6%E5%83%8F%E6%A0%B7%E6%9D%BF%E6%88%BF%23&t=31&band_rank=5&Refer=top)<br />
 6. [张歆艺 不是所有演艺界的人都是坏人](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%AD%86%E8%89%BA%20%E4%B8%8D%E6%98%AF%E6%89%80%E6%9C%89%E6%BC%94%E8%89%BA%E7%95%8C%E7%9A%84%E4%BA%BA%E9%83%BD%E6%98%AF%E5%9D%8F%E4%BA%BA&t=31&band_rank=6&Refer=top)<br />
 7. [高考查分遇上端午假期](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86%E9%81%87%E4%B8%8A%E7%AB%AF%E5%8D%88%E5%81%87%E6%9C%9F%23&t=31&band_rank=7&Refer=top)<br />
-8. [官方通报嫌疑人自首时在派出所身亡](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%AB%8C%E7%96%91%E4%BA%BA%E8%87%AA%E9%A6%96%E6%97%B6%E5%9C%A8%E6%B4%BE%E5%87%BA%E6%89%80%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [降息](https://s.weibo.com/weibo?q=%E9%99%8D%E6%81%AF&t=31&band_rank=9&Refer=top)<br />
+8. [降息](https://s.weibo.com/weibo?q=%E9%99%8D%E6%81%AF&t=31&band_rank=8&Refer=top)<br />
+9. [官方通报嫌疑人自首时在派出所身亡](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%AB%8C%E7%96%91%E4%BA%BA%E8%87%AA%E9%A6%96%E6%97%B6%E5%9C%A8%E6%B4%BE%E5%87%BA%E6%89%80%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
