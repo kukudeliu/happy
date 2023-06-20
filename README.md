@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 14:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-20 14:12:01</h4></div>
 
 > 微博  
 
-1. [阿里集团换帅](https://s.weibo.com/weibo?q=%23%E9%98%BF%E9%87%8C%E9%9B%86%E5%9B%A2%E6%8D%A2%E5%B8%85%23&t=31&band_rank=1&Refer=top)<br />
-2. [房贷](https://s.weibo.com/weibo?q=%E6%88%BF%E8%B4%B7&t=31&band_rank=2&Refer=top)<br />
+1. [房贷](https://s.weibo.com/weibo?q=%E6%88%BF%E8%B4%B7&t=31&band_rank=1&Refer=top)<br />
+2. [阿里集团换帅](https://s.weibo.com/weibo?q=%23%E9%98%BF%E9%87%8C%E9%9B%86%E5%9B%A2%E6%8D%A2%E5%B8%85%23&t=31&band_rank=2&Refer=top)<br />
 3. [这些古诗词同样适合送给毕业生](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%9B%E5%8F%A4%E8%AF%97%E8%AF%8D%E5%90%8C%E6%A0%B7%E9%80%82%E5%90%88%E9%80%81%E7%BB%99%E6%AF%95%E4%B8%9A%E7%94%9F%23&t=31&band_rank=3&Refer=top)<br />
 4. [医护人员称黄子佼无法开口说话](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E6%8A%A4%E4%BA%BA%E5%91%98%E7%A7%B0%E9%BB%84%E5%AD%90%E4%BD%BC%E6%97%A0%E6%B3%95%E5%BC%80%E5%8F%A3%E8%AF%B4%E8%AF%9D%23&t=31&band_rank=4&Refer=top)<br />
 5. [张艺兴工作室公开招聘](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%23&t=31&band_rank=5&Refer=top)<br />
