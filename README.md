@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 17:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 17:11:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [四川大学](https://s.weibo.com/weibo?q=%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6&t=31&band_rank=4&Refer=top)<br />
 5. [拜登儿子认罪](https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E5%84%BF%E5%AD%90%E8%AE%A4%E7%BD%AA%23&t=31&band_rank=5&Refer=top)<br />
 6. [官方通报网传大学生涉嫌卖淫800次](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E7%BD%91%E4%BC%A0%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%B6%89%E5%AB%8C%E5%8D%96%E6%B7%AB800%E6%AC%A1%23&t=31&band_rank=6&Refer=top)<br />
-7. [中国夫妇日本旅游抓683只寄居蟹被捕](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A4%AB%E5%A6%87%E6%97%A5%E6%9C%AC%E6%97%85%E6%B8%B8%E6%8A%93683%E5%8F%AA%E5%AF%84%E5%B1%85%E8%9F%B9%E8%A2%AB%E6%8D%95%23&t=31&band_rank=7&Refer=top)<br />
-8. [谁提极乐净土肖战和谁急](https://s.weibo.com/weibo?q=%23%E8%B0%81%E6%8F%90%E6%9E%81%E4%B9%90%E5%87%80%E5%9C%9F%E8%82%96%E6%88%98%E5%92%8C%E8%B0%81%E6%80%A5%23&t=31&band_rank=8&Refer=top)<br />
-9. [白敬亭谈和宋轶合作](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E8%B0%88%E5%92%8C%E5%AE%8B%E8%BD%B6%E5%90%88%E4%BD%9C%23&t=31&band_rank=9&Refer=top)<br />
+7. [白敬亭谈和宋轶合作](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E8%B0%88%E5%92%8C%E5%AE%8B%E8%BD%B6%E5%90%88%E4%BD%9C%23&t=31&band_rank=7&Refer=top)<br />
+8. [中国夫妇日本旅游抓683只寄居蟹被捕](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A4%AB%E5%A6%87%E6%97%A5%E6%9C%AC%E6%97%85%E6%B8%B8%E6%8A%93683%E5%8F%AA%E5%AF%84%E5%B1%85%E8%9F%B9%E8%A2%AB%E6%8D%95%23&t=31&band_rank=8&Refer=top)<br />
+9. [谁提极乐净土肖战和谁急](https://s.weibo.com/weibo?q=%23%E8%B0%81%E6%8F%90%E6%9E%81%E4%B9%90%E5%87%80%E5%9C%9F%E8%82%96%E6%88%98%E5%92%8C%E8%B0%81%E6%80%A5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
