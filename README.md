@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 22:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 22:45:01</h4></div>
 
 > 微博  
 
@@ -26,24 +26,24 @@
 
 > 百度  
 
-1. [端午假期 收好这份安全出行提示](https://www.baidu.com/s?wd=%E7%AB%AF%E5%8D%88%E5%81%87%E6%9C%9F+%E6%94%B6%E5%A5%BD%E8%BF%99%E4%BB%BD%E5%AE%89%E5%85%A8%E5%87%BA%E8%A1%8C%E6%8F%90%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [龙舟破浪“粽”安康](https://www.baidu.com/s?wd=%E9%BE%99%E8%88%9F%E7%A0%B4%E6%B5%AA%E2%80%9C%E7%B2%BD%E2%80%9D%E5%AE%89%E5%BA%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [男生中考874分说考得还可以](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E4%B8%AD%E8%80%83874%E5%88%86%E8%AF%B4%E8%80%83%E5%BE%97%E8%BF%98%E5%8F%AF%E4%BB%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [自曝被性侵女子：女生谨慎独自出国](https://www.baidu.com/s?wd=%E8%87%AA%E6%9B%9D%E8%A2%AB%E6%80%A7%E4%BE%B5%E5%A5%B3%E5%AD%90%EF%BC%9A%E5%A5%B3%E7%94%9F%E8%B0%A8%E6%85%8E%E7%8B%AC%E8%87%AA%E5%87%BA%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [全国铁路7月1日起实行新列车运行图](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E9%93%81%E8%B7%AF7%E6%9C%881%E6%97%A5%E8%B5%B7%E5%AE%9E%E8%A1%8C%E6%96%B0%E5%88%97%E8%BD%A6%E8%BF%90%E8%A1%8C%E5%9B%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [“上天入海” 这些重大项目频传捷报](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%8A%E5%A4%A9%E5%85%A5%E6%B5%B7%E2%80%9D+%E8%BF%99%E4%BA%9B%E9%87%8D%E5%A4%A7%E9%A1%B9%E7%9B%AE%E9%A2%91%E4%BC%A0%E6%8D%B7%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [普京：萨尔马特导弹将进入战斗值勤](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E8%90%A8%E5%B0%94%E9%A9%AC%E7%89%B9%E5%AF%BC%E5%BC%B9%E5%B0%86%E8%BF%9B%E5%85%A5%E6%88%98%E6%96%97%E5%80%BC%E5%8B%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [都是谁在买8349元一盒的粽子](https://www.baidu.com/s?wd=%E9%83%BD%E6%98%AF%E8%B0%81%E5%9C%A8%E4%B9%B08349%E5%85%83%E4%B8%80%E7%9B%92%E7%9A%84%E7%B2%BD%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子将农药倒入父亲止咳糖浆瓶内](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B0%86%E5%86%9C%E8%8D%AF%E5%80%92%E5%85%A5%E7%88%B6%E4%BA%B2%E6%AD%A2%E5%92%B3%E7%B3%96%E6%B5%86%E7%93%B6%E5%86%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [女子将农药倒入父亲止咳糖浆瓶内](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B0%86%E5%86%9C%E8%8D%AF%E5%80%92%E5%85%A5%E7%88%B6%E4%BA%B2%E6%AD%A2%E5%92%B3%E7%B3%96%E6%B5%86%E7%93%B6%E5%86%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [都是谁在买8349元一盒的粽子](https://www.baidu.com/s?wd=%E9%83%BD%E6%98%AF%E8%B0%81%E5%9C%A8%E4%B9%B08349%E5%85%83%E4%B8%80%E7%9B%92%E7%9A%84%E7%B2%BD%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女子喊3遍拔针护士打游戏不理会](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%96%8A3%E9%81%8D%E6%8B%94%E9%92%88%E6%8A%A4%E5%A3%AB%E6%89%93%E6%B8%B8%E6%88%8F%E4%B8%8D%E7%90%86%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [台湾艺人NONO回应性骚扰：停工反省](https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E8%89%BA%E4%BA%BANONO%E5%9B%9E%E5%BA%94%E6%80%A7%E9%AA%9A%E6%89%B0%EF%BC%9A%E5%81%9C%E5%B7%A5%E5%8F%8D%E7%9C%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
-1. [端午假期 收好这份安全出行提示](https://www.baidu.com/s?wd=%E7%AB%AF%E5%8D%88%E5%81%87%E6%9C%9F+%E6%94%B6%E5%A5%BD%E8%BF%99%E4%BB%BD%E5%AE%89%E5%85%A8%E5%87%BA%E8%A1%8C%E6%8F%90%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [龙舟破浪“粽”安康](https://www.baidu.com/s?wd=%E9%BE%99%E8%88%9F%E7%A0%B4%E6%B5%AA%E2%80%9C%E7%B2%BD%E2%80%9D%E5%AE%89%E5%BA%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [男生中考874分说考得还可以](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E4%B8%AD%E8%80%83874%E5%88%86%E8%AF%B4%E8%80%83%E5%BE%97%E8%BF%98%E5%8F%AF%E4%BB%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [自曝被性侵女子：女生谨慎独自出国](https://www.baidu.com/s?wd=%E8%87%AA%E6%9B%9D%E8%A2%AB%E6%80%A7%E4%BE%B5%E5%A5%B3%E5%AD%90%EF%BC%9A%E5%A5%B3%E7%94%9F%E8%B0%A8%E6%85%8E%E7%8B%AC%E8%87%AA%E5%87%BA%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [全国铁路7月1日起实行新列车运行图](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E9%93%81%E8%B7%AF7%E6%9C%881%E6%97%A5%E8%B5%B7%E5%AE%9E%E8%A1%8C%E6%96%B0%E5%88%97%E8%BD%A6%E8%BF%90%E8%A1%8C%E5%9B%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [“上天入海” 这些重大项目频传捷报](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%8A%E5%A4%A9%E5%85%A5%E6%B5%B7%E2%80%9D+%E8%BF%99%E4%BA%9B%E9%87%8D%E5%A4%A7%E9%A1%B9%E7%9B%AE%E9%A2%91%E4%BC%A0%E6%8D%B7%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [普京：萨尔马特导弹将进入战斗值勤](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E8%90%A8%E5%B0%94%E9%A9%AC%E7%89%B9%E5%AF%BC%E5%BC%B9%E5%B0%86%E8%BF%9B%E5%85%A5%E6%88%98%E6%96%97%E5%80%BC%E5%8B%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [都是谁在买8349元一盒的粽子](https://www.baidu.com/s?wd=%E9%83%BD%E6%98%AF%E8%B0%81%E5%9C%A8%E4%B9%B08349%E5%85%83%E4%B8%80%E7%9B%92%E7%9A%84%E7%B2%BD%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子将农药倒入父亲止咳糖浆瓶内](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B0%86%E5%86%9C%E8%8D%AF%E5%80%92%E5%85%A5%E7%88%B6%E4%BA%B2%E6%AD%A2%E5%92%B3%E7%B3%96%E6%B5%86%E7%93%B6%E5%86%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [女子将农药倒入父亲止咳糖浆瓶内](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B0%86%E5%86%9C%E8%8D%AF%E5%80%92%E5%85%A5%E7%88%B6%E4%BA%B2%E6%AD%A2%E5%92%B3%E7%B3%96%E6%B5%86%E7%93%B6%E5%86%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [都是谁在买8349元一盒的粽子](https://www.baidu.com/s?wd=%E9%83%BD%E6%98%AF%E8%B0%81%E5%9C%A8%E4%B9%B08349%E5%85%83%E4%B8%80%E7%9B%92%E7%9A%84%E7%B2%BD%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女子喊3遍拔针护士打游戏不理会](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%96%8A3%E9%81%8D%E6%8B%94%E9%92%88%E6%8A%A4%E5%A3%AB%E6%89%93%E6%B8%B8%E6%88%8F%E4%B8%8D%E7%90%86%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [台湾艺人NONO回应性骚扰：停工反省](https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E8%89%BA%E4%BA%BANONO%E5%9B%9E%E5%BA%94%E6%80%A7%E9%AA%9A%E6%89%B0%EF%BC%9A%E5%81%9C%E5%B7%A5%E5%8F%8D%E7%9C%81&sa=fyb_news&rsv_dl=fyb_news)<br />
