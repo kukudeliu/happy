@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 19:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 19:52:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [兵马俑的衣着有近20种色调](https://s.weibo.com/weibo?q=%23%E5%85%B5%E9%A9%AC%E4%BF%91%E7%9A%84%E8%A1%A3%E7%9D%80%E6%9C%89%E8%BF%9120%E7%A7%8D%E8%89%B2%E8%B0%83%23&t=31&band_rank=5&Refer=top)<br />
 6. [曝炎亚纶曾请员工封锁邱耀乐账号](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%82%8E%E4%BA%9A%E7%BA%B6%E6%9B%BE%E8%AF%B7%E5%91%98%E5%B7%A5%E5%B0%81%E9%94%81%E9%82%B1%E8%80%80%E4%B9%90%E8%B4%A6%E5%8F%B7%23&t=31&band_rank=6&Refer=top)<br />
 7. [网红长沙大屏循环播放禁毒宣言](https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E9%95%BF%E6%B2%99%E5%A4%A7%E5%B1%8F%E5%BE%AA%E7%8E%AF%E6%92%AD%E6%94%BE%E7%A6%81%E6%AF%92%E5%AE%A3%E8%A8%80%23&t=31&band_rank=7&Refer=top)<br />
-8. [川大地铁事件涉事学生被留校留党察看](https://s.weibo.com/weibo?q=%23%E5%B7%9D%E5%A4%A7%E5%9C%B0%E9%93%81%E4%BA%8B%E4%BB%B6%E6%B6%89%E4%BA%8B%E5%AD%A6%E7%94%9F%E8%A2%AB%E7%95%99%E6%A0%A1%E7%95%99%E5%85%9A%E5%AF%9F%E7%9C%8B%23&t=31&band_rank=8&Refer=top)<br />
-9. [丫丫](https://s.weibo.com/weibo?q=%E4%B8%AB%E4%B8%AB&t=31&band_rank=9&Refer=top)<br />
+8. [丫丫](https://s.weibo.com/weibo?q=%E4%B8%AB%E4%B8%AB&t=31&band_rank=8&Refer=top)<br />
+9. [川大地铁事件涉事学生被留校留党察看](https://s.weibo.com/weibo?q=%23%E5%B7%9D%E5%A4%A7%E5%9C%B0%E9%93%81%E4%BA%8B%E4%BB%B6%E6%B6%89%E4%BA%8B%E5%AD%A6%E7%94%9F%E8%A2%AB%E7%95%99%E6%A0%A1%E7%95%99%E5%85%9A%E5%AF%9F%E7%9C%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -20,8 +20,8 @@
 4. [外交部称「美方将和平解决台湾问题作为『一中政策』核心内容是篡改其政治承诺」，有哪些信息值得关注？](https://www.zhihu.com/question/607789531)<br />
 5. [全国结婚登记量跌破 700 万对，年轻人反问「为什么要结婚」，低结婚率背后是传统婚姻功能的减弱吗？](https://www.zhihu.com/question/607794507)<br />
 6. [为什么网友不满意《庆余年 2》叶灵儿演员换成金晨？原著中叶灵儿的人设如何？](https://www.zhihu.com/question/607597903)<br />
-7. [古时候老虎多到什么程度？](https://www.zhihu.com/question/284091530)<br />
-8. [围棋规则也没限制棋盘大小吧，为啥不做一个 190×190 的这样 ai 不就赢不了了？](https://www.zhihu.com/question/607265632)<br />
+7. [围棋规则也没限制棋盘大小吧，为啥不做一个 190×190 的这样 ai 不就赢不了了？](https://www.zhihu.com/question/607265632)<br />
+8. [古时候老虎多到什么程度？](https://www.zhihu.com/question/284091530)<br />
 9. [研究称喜马拉雅冰川或在本世纪末消融 80%，影响亚洲 20 亿人，这意味着什么？对气候、经济有何影响？](https://www.zhihu.com/question/607690075)<br />
 
 > 百度  
