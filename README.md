@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 09:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 09:41:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [中使馆回应中国女生在马尔代夫遭酒店管家性侵，称「已敦促马方严肃对待、认真调查」，后续将如何发展？](https://www.zhihu.com/question/607596882)<br />
 7. [农村抓两只大公鸡，和一只全世界最大品种的蜈蚣放一起打架，能赢吗?](https://www.zhihu.com/question/606826582)<br />
 8. [印度股市市值超越英法，位列全球第四，哪些信息值得关注？](https://www.zhihu.com/question/607598119)<br />
-9. [为什么年检总是能搞坏车？](https://www.zhihu.com/question/370206776)<br />
+9. [台湾 TVBS 民调显示柯文哲支持度为 33% 超过赖清德暂居第一，如何看待这一民调结果？](https://www.zhihu.com/question/607639573)<br />
 
 > 百度  
 
