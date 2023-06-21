@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 09:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 09:49:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [夏日中国尽显生态之美](https://s.weibo.com/weibo?q=%23%E5%A4%8F%E6%97%A5%E4%B8%AD%E5%9B%BD%E5%B0%BD%E6%98%BE%E7%94%9F%E6%80%81%E4%B9%8B%E7%BE%8E%23&t=31&band_rank=3&Refer=top)<br />
 4. [萧煌奇回应不是盲人](https://s.weibo.com/weibo?q=%23%E8%90%A7%E7%85%8C%E5%A5%87%E5%9B%9E%E5%BA%94%E4%B8%8D%E6%98%AF%E7%9B%B2%E4%BA%BA%23&t=31&band_rank=4&Refer=top)<br />
 5. [偷偷藏不住首播评价](https://s.weibo.com/weibo?q=%23%E5%81%B7%E5%81%B7%E8%97%8F%E4%B8%8D%E4%BD%8F%E9%A6%96%E6%92%AD%E8%AF%84%E4%BB%B7%23&t=31&band_rank=5&Refer=top)<br />
-6. [男孩称后背痒植物人父亲用尽全力抬手](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E7%A7%B0%E5%90%8E%E8%83%8C%E7%97%92%E6%A4%8D%E7%89%A9%E4%BA%BA%E7%88%B6%E4%BA%B2%E7%94%A8%E5%B0%BD%E5%85%A8%E5%8A%9B%E6%8A%AC%E6%89%8B%23&t=31&band_rank=6&Refer=top)<br />
-7. [女子房门被封事件堵门邻居已离世](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%88%BF%E9%97%A8%E8%A2%AB%E5%B0%81%E4%BA%8B%E4%BB%B6%E5%A0%B5%E9%97%A8%E9%82%BB%E5%B1%85%E5%B7%B2%E7%A6%BB%E4%B8%96%23&t=31&band_rank=7&Refer=top)<br />
-8. [关闭朋友圈半年后的变化](https://s.weibo.com/weibo?q=%23%E5%85%B3%E9%97%AD%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%8D%8A%E5%B9%B4%E5%90%8E%E7%9A%84%E5%8F%98%E5%8C%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [杨颖金靖是一个学校的](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E9%A2%96%E9%87%91%E9%9D%96%E6%98%AF%E4%B8%80%E4%B8%AA%E5%AD%A6%E6%A0%A1%E7%9A%84%23&t=31&band_rank=9&Refer=top)<br />
+6. [女子房门被封事件堵门邻居已离世](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%88%BF%E9%97%A8%E8%A2%AB%E5%B0%81%E4%BA%8B%E4%BB%B6%E5%A0%B5%E9%97%A8%E9%82%BB%E5%B1%85%E5%B7%B2%E7%A6%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
+7. [男孩称后背痒植物人父亲用尽全力抬手](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E7%A7%B0%E5%90%8E%E8%83%8C%E7%97%92%E6%A4%8D%E7%89%A9%E4%BA%BA%E7%88%B6%E4%BA%B2%E7%94%A8%E5%B0%BD%E5%85%A8%E5%8A%9B%E6%8A%AC%E6%89%8B%23&t=31&band_rank=7&Refer=top)<br />
+8. [杨颖金靖是一个学校的](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E9%A2%96%E9%87%91%E9%9D%96%E6%98%AF%E4%B8%80%E4%B8%AA%E5%AD%A6%E6%A0%A1%E7%9A%84%23&t=31&band_rank=8&Refer=top)<br />
+9. [关闭朋友圈半年后的变化](https://s.weibo.com/weibo?q=%23%E5%85%B3%E9%97%AD%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%8D%8A%E5%B9%B4%E5%90%8E%E7%9A%84%E5%8F%98%E5%8C%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -21,8 +21,8 @@
 5. [媒体评张雪峰关于新闻学专业言论称「学不学新闻不能只凭网红一张嘴」，如何评价此观点？你怎么看新闻学专业？](https://www.zhihu.com/question/607408168)<br />
 6. [中使馆回应中国女生在马尔代夫遭酒店管家性侵，称「已敦促马方严肃对待、认真调查」，后续将如何发展？](https://www.zhihu.com/question/607596882)<br />
 7. [农村抓两只大公鸡，和一只全世界最大品种的蜈蚣放一起打架，能赢吗?](https://www.zhihu.com/question/606826582)<br />
-8. [印度股市市值超越英法，位列全球第四，哪些信息值得关注？](https://www.zhihu.com/question/607598119)<br />
-9. [台湾 TVBS 民调显示柯文哲支持度为 33% 超过赖清德暂居第一，如何看待这一民调结果？](https://www.zhihu.com/question/607639573)<br />
+8. [大陆恢复台湾地区番荔枝输入，台农称「等了 3 年，快要哭了」，哪些信息值得关注？台水果质量还安全吗？](https://www.zhihu.com/question/607719193)<br />
+9. [印度股市市值超越英法，位列全球第四，哪些信息值得关注？](https://www.zhihu.com/question/607598119)<br />
 
 > 百度  
 
