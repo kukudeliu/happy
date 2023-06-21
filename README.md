@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 03:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 03:29:01</h4></div>
 
 > 微博  
 
@@ -32,9 +32,9 @@
 4. [“上天入海” 这些重大项目频传捷报](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%8A%E5%A4%A9%E5%85%A5%E6%B5%B7%E2%80%9D+%E8%BF%99%E4%BA%9B%E9%87%8D%E5%A4%A7%E9%A1%B9%E7%9B%AE%E9%A2%91%E4%BC%A0%E6%8D%B7%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [普京：萨尔马特导弹将进入战斗值勤](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E8%90%A8%E5%B0%94%E9%A9%AC%E7%89%B9%E5%AF%BC%E5%BC%B9%E5%B0%86%E8%BF%9B%E5%85%A5%E6%88%98%E6%96%97%E5%80%BC%E5%8B%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [贾跃亭致信全体投资人](https://www.baidu.com/s?wd=%E8%B4%BE%E8%B7%83%E4%BA%AD%E8%87%B4%E4%BF%A1%E5%85%A8%E4%BD%93%E6%8A%95%E8%B5%84%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [邓亚萍拒绝158元一斤的车厘子](https://www.baidu.com/s?wd=%E9%82%93%E4%BA%9A%E8%90%8D%E6%8B%92%E7%BB%9D158%E5%85%83%E4%B8%80%E6%96%A4%E7%9A%84%E8%BD%A6%E5%8E%98%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子将农药倒入父亲止咳糖浆瓶内](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B0%86%E5%86%9C%E8%8D%AF%E5%80%92%E5%85%A5%E7%88%B6%E4%BA%B2%E6%AD%A2%E5%92%B3%E7%B3%96%E6%B5%86%E7%93%B6%E5%86%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [印度18岁少女和男友遭荣誉处决](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A618%E5%B2%81%E5%B0%91%E5%A5%B3%E5%92%8C%E7%94%B7%E5%8F%8B%E9%81%AD%E8%8D%A3%E8%AA%89%E5%A4%84%E5%86%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [乌媒称俄军疑因饮水污染爆发霍乱](https://www.baidu.com/s?wd=%E4%B9%8C%E5%AA%92%E7%A7%B0%E4%BF%84%E5%86%9B%E7%96%91%E5%9B%A0%E9%A5%AE%E6%B0%B4%E6%B1%A1%E6%9F%93%E7%88%86%E5%8F%91%E9%9C%8D%E4%B9%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子称水杯遭同事投毒 脏器诊出病变](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E6%B0%B4%E6%9D%AF%E9%81%AD%E5%90%8C%E4%BA%8B%E6%8A%95%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [拆二代遇房企爆雷：房没了钱也没了](https://www.baidu.com/s?wd=%E6%8B%86%E4%BA%8C%E4%BB%A3%E9%81%87%E6%88%BF%E4%BC%81%E7%88%86%E9%9B%B7%EF%BC%9A%E6%88%BF%E6%B2%A1%E4%BA%86%E9%92%B1%E4%B9%9F%E6%B2%A1%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [“上天入海” 这些重大项目频传捷报](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%8A%E5%A4%A9%E5%85%A5%E6%B5%B7%E2%80%9D+%E8%BF%99%E4%BA%9B%E9%87%8D%E5%A4%A7%E9%A1%B9%E7%9B%AE%E9%A2%91%E4%BC%A0%E6%8D%B7%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [普京：萨尔马特导弹将进入战斗值勤](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E8%90%A8%E5%B0%94%E9%A9%AC%E7%89%B9%E5%AF%BC%E5%BC%B9%E5%B0%86%E8%BF%9B%E5%85%A5%E6%88%98%E6%96%97%E5%80%BC%E5%8B%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [贾跃亭致信全体投资人](https://www.baidu.com/s?wd=%E8%B4%BE%E8%B7%83%E4%BA%AD%E8%87%B4%E4%BF%A1%E5%85%A8%E4%BD%93%E6%8A%95%E8%B5%84%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [邓亚萍拒绝158元一斤的车厘子](https://www.baidu.com/s?wd=%E9%82%93%E4%BA%9A%E8%90%8D%E6%8B%92%E7%BB%9D158%E5%85%83%E4%B8%80%E6%96%A4%E7%9A%84%E8%BD%A6%E5%8E%98%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子将农药倒入父亲止咳糖浆瓶内](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B0%86%E5%86%9C%E8%8D%AF%E5%80%92%E5%85%A5%E7%88%B6%E4%BA%B2%E6%AD%A2%E5%92%B3%E7%B3%96%E6%B5%86%E7%93%B6%E5%86%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [印度18岁少女和男友遭荣誉处决](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A618%E5%B2%81%E5%B0%91%E5%A5%B3%E5%92%8C%E7%94%B7%E5%8F%8B%E9%81%AD%E8%8D%A3%E8%AA%89%E5%A4%84%E5%86%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [乌媒称俄军疑因饮水污染爆发霍乱](https://www.baidu.com/s?wd=%E4%B9%8C%E5%AA%92%E7%A7%B0%E4%BF%84%E5%86%9B%E7%96%91%E5%9B%A0%E9%A5%AE%E6%B0%B4%E6%B1%A1%E6%9F%93%E7%88%86%E5%8F%91%E9%9C%8D%E4%B9%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子称水杯遭同事投毒 脏器诊出病变](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E6%B0%B4%E6%9D%AF%E9%81%AD%E5%90%8C%E4%BA%8B%E6%8A%95%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [拆二代遇房企爆雷：房没了钱也没了](https://www.baidu.com/s?wd=%E6%8B%86%E4%BA%8C%E4%BB%A3%E9%81%87%E6%88%BF%E4%BC%81%E7%88%86%E9%9B%B7%EF%BC%9A%E6%88%BF%E6%B2%A1%E4%BA%86%E9%92%B1%E4%B9%9F%E6%B2%A1%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
