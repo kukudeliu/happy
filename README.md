@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 04:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 04:30:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [印度18岁少女和男友遭荣誉处决](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A618%E5%B2%81%E5%B0%91%E5%A5%B3%E5%92%8C%E7%94%B7%E5%8F%8B%E9%81%AD%E8%8D%A3%E8%AA%89%E5%A4%84%E5%86%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子将农药倒入父亲止咳糖浆瓶内](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B0%86%E5%86%9C%E8%8D%AF%E5%80%92%E5%85%A5%E7%88%B6%E4%BA%B2%E6%AD%A2%E5%92%B3%E7%B3%96%E6%B5%86%E7%93%B6%E5%86%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [中国夫妇日本旅游抓683只蟹被捕](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%AB%E5%A6%87%E6%97%A5%E6%9C%AC%E6%97%85%E6%B8%B8%E6%8A%93683%E5%8F%AA%E8%9F%B9%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [村支书葬母大操大办致交通拥堵](https://www.baidu.com/s?wd=%E6%9D%91%E6%94%AF%E4%B9%A6%E8%91%AC%E6%AF%8D%E5%A4%A7%E6%93%8D%E5%A4%A7%E5%8A%9E%E8%87%B4%E4%BA%A4%E9%80%9A%E6%8B%A5%E5%A0%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [邓亚萍拒绝158元一斤的车厘子](https://www.baidu.com/s?wd=%E9%82%93%E4%BA%9A%E8%90%8D%E6%8B%92%E7%BB%9D158%E5%85%83%E4%B8%80%E6%96%A4%E7%9A%84%E8%BD%A6%E5%8E%98%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [印度18岁少女和男友遭荣誉处决](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A618%E5%B2%81%E5%B0%91%E5%A5%B3%E5%92%8C%E7%94%B7%E5%8F%8B%E9%81%AD%E8%8D%A3%E8%AA%89%E5%A4%84%E5%86%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子将农药倒入父亲止咳糖浆瓶内](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B0%86%E5%86%9C%E8%8D%AF%E5%80%92%E5%85%A5%E7%88%B6%E4%BA%B2%E6%AD%A2%E5%92%B3%E7%B3%96%E6%B5%86%E7%93%B6%E5%86%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [中国夫妇日本旅游抓683只蟹被捕](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%AB%E5%A6%87%E6%97%A5%E6%9C%AC%E6%97%85%E6%B8%B8%E6%8A%93683%E5%8F%AA%E8%9F%B9%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [村支书葬母大操大办致交通拥堵](https://www.baidu.com/s?wd=%E6%9D%91%E6%94%AF%E4%B9%A6%E8%91%AC%E6%AF%8D%E5%A4%A7%E6%93%8D%E5%A4%A7%E5%8A%9E%E8%87%B4%E4%BA%A4%E9%80%9A%E6%8B%A5%E5%A0%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [邓亚萍拒绝158元一斤的车厘子](https://www.baidu.com/s?wd=%E9%82%93%E4%BA%9A%E8%90%8D%E6%8B%92%E7%BB%9D158%E5%85%83%E4%B8%80%E6%96%A4%E7%9A%84%E8%BD%A6%E5%8E%98%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
