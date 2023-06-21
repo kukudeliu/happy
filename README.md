@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 14:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 14:13:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [海南无名男尸是贪污受贿在逃19年嫌犯](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%8D%97%E6%97%A0%E5%90%8D%E7%94%B7%E5%B0%B8%E6%98%AF%E8%B4%AA%E6%B1%A1%E5%8F%97%E8%B4%BF%E5%9C%A8%E9%80%8319%E5%B9%B4%E5%AB%8C%E7%8A%AF%23&t=31&band_rank=2&Refer=top)<br />
 3. [夏日中国尽显生态之美](https://s.weibo.com/weibo?q=%23%E5%A4%8F%E6%97%A5%E4%B8%AD%E5%9B%BD%E5%B0%BD%E6%98%BE%E7%94%9F%E6%80%81%E4%B9%8B%E7%BE%8E%23&t=31&band_rank=3&Refer=top)<br />
 4. [王一博穿的居然是羽绒服](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E7%A9%BF%E7%9A%84%E5%B1%85%E7%84%B6%E6%98%AF%E7%BE%BD%E7%BB%92%E6%9C%8D%23&t=31&band_rank=4&Refer=top)<br />
-5. [偷偷藏不住作者才20岁](https://s.weibo.com/weibo?q=%23%E5%81%B7%E5%81%B7%E8%97%8F%E4%B8%8D%E4%BD%8F%E4%BD%9C%E8%80%85%E6%89%8D20%E5%B2%81%23&t=31&band_rank=5&Refer=top)<br />
-6. [肖战 蒙牛](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%20%E8%92%99%E7%89%9B&t=31&band_rank=6&Refer=top)<br />
-7. [全国现有吸毒人员112.4万](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E7%8E%B0%E6%9C%89%E5%90%B8%E6%AF%92%E4%BA%BA%E5%91%98112.4%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
-8. [赵丽颖张碧晨合体上综艺](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%BC%A0%E7%A2%A7%E6%99%A8%E5%90%88%E4%BD%93%E4%B8%8A%E7%BB%BC%E8%89%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [中山大学录取通知书内有云南普洱茶](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B1%B1%E5%A4%A7%E5%AD%A6%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E5%86%85%E6%9C%89%E4%BA%91%E5%8D%97%E6%99%AE%E6%B4%B1%E8%8C%B6%23&t=31&band_rank=9&Refer=top)<br />
+5. [青岛1米88大长腿交警回应走红](https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B1%E7%B1%B388%E5%A4%A7%E9%95%BF%E8%85%BF%E4%BA%A4%E8%AD%A6%E5%9B%9E%E5%BA%94%E8%B5%B0%E7%BA%A2%23&t=31&band_rank=5&Refer=top)<br />
+6. [偷偷藏不住作者才20岁](https://s.weibo.com/weibo?q=%23%E5%81%B7%E5%81%B7%E8%97%8F%E4%B8%8D%E4%BD%8F%E4%BD%9C%E8%80%85%E6%89%8D20%E5%B2%81%23&t=31&band_rank=6&Refer=top)<br />
+7. [肖战 蒙牛](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%20%E8%92%99%E7%89%9B&t=31&band_rank=7&Refer=top)<br />
+8. [全国现有吸毒人员112.4万](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E7%8E%B0%E6%9C%89%E5%90%B8%E6%AF%92%E4%BA%BA%E5%91%98112.4%E4%B8%87%23&t=31&band_rank=8&Refer=top)<br />
+9. [赵丽颖张碧晨合体上综艺](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%BC%A0%E7%A2%A7%E6%99%A8%E5%90%88%E4%BD%93%E4%B8%8A%E7%BB%BC%E8%89%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
