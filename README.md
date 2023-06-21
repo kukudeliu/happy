@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 02:24:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 02:25:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [遭家暴男子已和妻子和解](https://www.baidu.com/s?wd=%E9%81%AD%E5%AE%B6%E6%9A%B4%E7%94%B7%E5%AD%90%E5%B7%B2%E5%92%8C%E5%A6%BB%E5%AD%90%E5%92%8C%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子造谣大学生卖淫800次 被刑拘](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%80%A0%E8%B0%A3%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%8D%96%E6%B7%AB800%E6%AC%A1+%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [中国夫妇日本旅游抓683只蟹被捕](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%AB%E5%A6%87%E6%97%A5%E6%9C%AC%E6%97%85%E6%B8%B8%E6%8A%93683%E5%8F%AA%E8%9F%B9%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [全国现有吸毒人员112.4万](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E7%8E%B0%E6%9C%89%E5%90%B8%E6%AF%92%E4%BA%BA%E5%91%98112.4%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子称水杯遭同事投毒 脏器诊出病变](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E6%B0%B4%E6%9D%AF%E9%81%AD%E5%90%8C%E4%BA%8B%E6%8A%95%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [遭家暴男子已和妻子和解](https://www.baidu.com/s?wd=%E9%81%AD%E5%AE%B6%E6%9A%B4%E7%94%B7%E5%AD%90%E5%B7%B2%E5%92%8C%E5%A6%BB%E5%AD%90%E5%92%8C%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子造谣大学生卖淫800次 被刑拘](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%80%A0%E8%B0%A3%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%8D%96%E6%B7%AB800%E6%AC%A1+%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [中国夫妇日本旅游抓683只蟹被捕](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%AB%E5%A6%87%E6%97%A5%E6%9C%AC%E6%97%85%E6%B8%B8%E6%8A%93683%E5%8F%AA%E8%9F%B9%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [全国现有吸毒人员112.4万](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E7%8E%B0%E6%9C%89%E5%90%B8%E6%AF%92%E4%BA%BA%E5%91%98112.4%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子称水杯遭同事投毒 脏器诊出病变](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E6%B0%B4%E6%9D%AF%E9%81%AD%E5%90%8C%E4%BA%8B%E6%8A%95%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
