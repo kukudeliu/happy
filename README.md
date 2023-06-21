@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 10:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 10:09:01</h4></div>
 
 > 微博  
 
-1. [陈建斌多巴胺穿搭](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BB%BA%E6%96%8C%E5%A4%9A%E5%B7%B4%E8%83%BA%E7%A9%BF%E6%90%AD%23&t=31&band_rank=1&Refer=top)<br />
-2. [女子房门被封事件堵门邻居已离世](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%88%BF%E9%97%A8%E8%A2%AB%E5%B0%81%E4%BA%8B%E4%BB%B6%E5%A0%B5%E9%97%A8%E9%82%BB%E5%B1%85%E5%B7%B2%E7%A6%BB%E4%B8%96%23&t=31&band_rank=2&Refer=top)<br />
+1. [女子房门被封事件堵门邻居已离世](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%88%BF%E9%97%A8%E8%A2%AB%E5%B0%81%E4%BA%8B%E4%BB%B6%E5%A0%B5%E9%97%A8%E9%82%BB%E5%B1%85%E5%B7%B2%E7%A6%BB%E4%B8%96%23&t=31&band_rank=1&Refer=top)<br />
+2. [陈建斌多巴胺穿搭](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BB%BA%E6%96%8C%E5%A4%9A%E5%B7%B4%E8%83%BA%E7%A9%BF%E6%90%AD%23&t=31&band_rank=2&Refer=top)<br />
 3. [夏日中国尽显生态之美](https://s.weibo.com/weibo?q=%23%E5%A4%8F%E6%97%A5%E4%B8%AD%E5%9B%BD%E5%B0%BD%E6%98%BE%E7%94%9F%E6%80%81%E4%B9%8B%E7%BE%8E%23&t=31&band_rank=3&Refer=top)<br />
 4. [酒店经理见老太开房神色慌张立即报警](https://s.weibo.com/weibo?q=%23%E9%85%92%E5%BA%97%E7%BB%8F%E7%90%86%E8%A7%81%E8%80%81%E5%A4%AA%E5%BC%80%E6%88%BF%E7%A5%9E%E8%89%B2%E6%85%8C%E5%BC%A0%E7%AB%8B%E5%8D%B3%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=4&Refer=top)<br />
 5. [偷偷藏不住首播评价](https://s.weibo.com/weibo?q=%23%E5%81%B7%E5%81%B7%E8%97%8F%E4%B8%8D%E4%BD%8F%E9%A6%96%E6%92%AD%E8%AF%84%E4%BB%B7%23&t=31&band_rank=5&Refer=top)<br />
@@ -19,8 +19,8 @@
 3. [每斤跌至 3 元，妃子笑荔枝卖出蔬菜价，经销商称「5 年来最低的价格」，今年荔枝为何降得如此夸张？](https://www.zhihu.com/question/607612022)<br />
 4. [研究称大量抽取地下水改变地轴，导致地理北极每年倾斜 9 厘米，这意味着什么？将产生哪些影响？](https://www.zhihu.com/question/607587762)<br />
 5. [媒体评张雪峰关于新闻学专业言论称「学不学新闻不能只凭网红一张嘴」，如何评价此观点？你怎么看新闻学专业？](https://www.zhihu.com/question/607408168)<br />
-6. [中使馆回应中国女生在马尔代夫遭酒店管家性侵，称「已敦促马方严肃对待、认真调查」，后续将如何发展？](https://www.zhihu.com/question/607596882)<br />
-7. [农村抓两只大公鸡，和一只全世界最大品种的蜈蚣放一起打架，能赢吗?](https://www.zhihu.com/question/606826582)<br />
+6. [农村抓两只大公鸡，和一只全世界最大品种的蜈蚣放一起打架，能赢吗?](https://www.zhihu.com/question/606826582)<br />
+7. [中使馆回应中国女生在马尔代夫遭酒店管家性侵，称「已敦促马方严肃对待、认真调查」，后续将如何发展？](https://www.zhihu.com/question/607596882)<br />
 8. [大陆恢复台湾地区番荔枝输入，台农称「等了 3 年，快要哭了」，哪些信息值得关注？台水果质量还安全吗？](https://www.zhihu.com/question/607719193)<br />
 9. [如果国足有阿根廷的水平，咱们的文化输出水平会大大提升吗？](https://www.zhihu.com/question/607273653)<br />
 
