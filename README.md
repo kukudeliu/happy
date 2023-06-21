@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 16:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 16:47:01</h4></div>
 
 > 微博  
 
@@ -27,8 +27,8 @@
 > 百度  
 
 1. [端午假期将至 收好这份安全出行提示](https://www.baidu.com/s?wd=%E7%AB%AF%E5%8D%88%E5%81%87%E6%9C%9F%E5%B0%86%E8%87%B3+%E6%94%B6%E5%A5%BD%E8%BF%99%E4%BB%BD%E5%AE%89%E5%85%A8%E5%87%BA%E8%A1%8C%E6%8F%90%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [川大地铁事件学生被留校留党察看](https://www.baidu.com/s?wd=%E5%B7%9D%E5%A4%A7%E5%9C%B0%E9%93%81%E4%BA%8B%E4%BB%B6%E5%AD%A6%E7%94%9F%E8%A2%AB%E7%95%99%E6%A0%A1%E7%95%99%E5%85%9A%E5%AF%9F%E7%9C%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [2名中国公民在美被定罪 中方回应](https://www.baidu.com/s?wd=2%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%9C%A8%E7%BE%8E%E8%A2%AB%E5%AE%9A%E7%BD%AA+%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [2名中国公民在美被定罪 中方回应](https://www.baidu.com/s?wd=2%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%9C%A8%E7%BE%8E%E8%A2%AB%E5%AE%9A%E7%BD%AA+%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [川大地铁事件学生被留校留党察看](https://www.baidu.com/s?wd=%E5%B7%9D%E5%A4%A7%E5%9C%B0%E9%93%81%E4%BA%8B%E4%BB%B6%E5%AD%A6%E7%94%9F%E8%A2%AB%E7%95%99%E6%A0%A1%E7%95%99%E5%85%9A%E5%AF%9F%E7%9C%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全国铁路7月1日起实行新列车运行图](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E9%93%81%E8%B7%AF7%E6%9C%881%E6%97%A5%E8%B5%B7%E5%AE%9E%E8%A1%8C%E6%96%B0%E5%88%97%E8%BD%A6%E8%BF%90%E8%A1%8C%E5%9B%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子杭州绿化带迷路3天 吃野花求生](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%9D%AD%E5%B7%9E%E7%BB%BF%E5%8C%96%E5%B8%A6%E8%BF%B7%E8%B7%AF3%E5%A4%A9+%E5%90%83%E9%87%8E%E8%8A%B1%E6%B1%82%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [4位富豪因AI暴赚10000亿](https://www.baidu.com/s?wd=4%E4%BD%8D%E5%AF%8C%E8%B1%AA%E5%9B%A0AI%E6%9A%B4%E8%B5%9A10000%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -39,8 +39,8 @@
 > 哔哩哔哩  
 
 1. [端午假期将至 收好这份安全出行提示](https://www.baidu.com/s?wd=%E7%AB%AF%E5%8D%88%E5%81%87%E6%9C%9F%E5%B0%86%E8%87%B3+%E6%94%B6%E5%A5%BD%E8%BF%99%E4%BB%BD%E5%AE%89%E5%85%A8%E5%87%BA%E8%A1%8C%E6%8F%90%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [川大地铁事件学生被留校留党察看](https://www.baidu.com/s?wd=%E5%B7%9D%E5%A4%A7%E5%9C%B0%E9%93%81%E4%BA%8B%E4%BB%B6%E5%AD%A6%E7%94%9F%E8%A2%AB%E7%95%99%E6%A0%A1%E7%95%99%E5%85%9A%E5%AF%9F%E7%9C%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [2名中国公民在美被定罪 中方回应](https://www.baidu.com/s?wd=2%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%9C%A8%E7%BE%8E%E8%A2%AB%E5%AE%9A%E7%BD%AA+%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [2名中国公民在美被定罪 中方回应](https://www.baidu.com/s?wd=2%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%9C%A8%E7%BE%8E%E8%A2%AB%E5%AE%9A%E7%BD%AA+%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [川大地铁事件学生被留校留党察看](https://www.baidu.com/s?wd=%E5%B7%9D%E5%A4%A7%E5%9C%B0%E9%93%81%E4%BA%8B%E4%BB%B6%E5%AD%A6%E7%94%9F%E8%A2%AB%E7%95%99%E6%A0%A1%E7%95%99%E5%85%9A%E5%AF%9F%E7%9C%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全国铁路7月1日起实行新列车运行图](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E9%93%81%E8%B7%AF7%E6%9C%881%E6%97%A5%E8%B5%B7%E5%AE%9E%E8%A1%8C%E6%96%B0%E5%88%97%E8%BD%A6%E8%BF%90%E8%A1%8C%E5%9B%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子杭州绿化带迷路3天 吃野花求生](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%9D%AD%E5%B7%9E%E7%BB%BF%E5%8C%96%E5%B8%A6%E8%BF%B7%E8%B7%AF3%E5%A4%A9+%E5%90%83%E9%87%8E%E8%8A%B1%E6%B1%82%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [4位富豪因AI暴赚10000亿](https://www.baidu.com/s?wd=4%E4%BD%8D%E5%AF%8C%E8%B1%AA%E5%9B%A0AI%E6%9A%B4%E8%B5%9A10000%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
