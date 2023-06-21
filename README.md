@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 20:17:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 20:18:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [丫丫](https://s.weibo.com/weibo?q=%E4%B8%AB%E4%B8%AB&t=31&band_rank=4&Refer=top)<br />
 5. [川大地铁事件涉事学生被留校留党察看](https://s.weibo.com/weibo?q=%23%E5%B7%9D%E5%A4%A7%E5%9C%B0%E9%93%81%E4%BA%8B%E4%BB%B6%E6%B6%89%E4%BA%8B%E5%AD%A6%E7%94%9F%E8%A2%AB%E7%95%99%E6%A0%A1%E7%95%99%E5%85%9A%E5%AF%9F%E7%9C%8B%23&t=31&band_rank=5&Refer=top)<br />
 6. [邱耀乐不接受炎亚纶道歉](https://s.weibo.com/weibo?q=%23%E9%82%B1%E8%80%80%E4%B9%90%E4%B8%8D%E6%8E%A5%E5%8F%97%E7%82%8E%E4%BA%9A%E7%BA%B6%E9%81%93%E6%AD%89%23&t=31&band_rank=6&Refer=top)<br />
-7. [庆余年导演说演员应该杜绝文盲](https://s.weibo.com/weibo?q=%23%E5%BA%86%E4%BD%99%E5%B9%B4%E5%AF%BC%E6%BC%94%E8%AF%B4%E6%BC%94%E5%91%98%E5%BA%94%E8%AF%A5%E6%9D%9C%E7%BB%9D%E6%96%87%E7%9B%B2%23&t=31&band_rank=7&Refer=top)<br />
-8. [四川大学称张某保研不违规](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E7%A7%B0%E5%BC%A0%E6%9F%90%E4%BF%9D%E7%A0%94%E4%B8%8D%E8%BF%9D%E8%A7%84%23&t=31&band_rank=8&Refer=top)<br />
+7. [四川大学称张某保研不违规](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E7%A7%B0%E5%BC%A0%E6%9F%90%E4%BF%9D%E7%A0%94%E4%B8%8D%E8%BF%9D%E8%A7%84%23&t=31&band_rank=7&Refer=top)<br />
+8. [庆余年导演说演员应该杜绝文盲](https://s.weibo.com/weibo?q=%23%E5%BA%86%E4%BD%99%E5%B9%B4%E5%AF%BC%E6%BC%94%E8%AF%B4%E6%BC%94%E5%91%98%E5%BA%94%E8%AF%A5%E6%9D%9C%E7%BB%9D%E6%96%87%E7%9B%B2%23&t=31&band_rank=8&Refer=top)<br />
 9. [LPL 暂停](https://s.weibo.com/weibo?q=LPL%20%E6%9A%82%E5%81%9C&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -19,10 +19,10 @@
 3. [轰 6K 海上飞行时驱离外方船只，有哪些信息值得关注？](https://www.zhihu.com/question/607773769)<br />
 4. [围棋规则也没限制棋盘大小吧，为啥不做一个 190×190 的这样 ai 不就赢不了了？](https://www.zhihu.com/question/607265632)<br />
 5. [全国结婚登记量跌破 700 万对，创 37 年来新低，年轻人「爱」不起了吗？](https://www.zhihu.com/theater/95345)<br />
-6. [研究称喜马拉雅冰川或在本世纪末消融 80%，影响亚洲 20 亿人，这意味着什么？对气候、经济有何影响？](https://www.zhihu.com/question/607690075)<br />
+6. [想学可控核聚变，高考估分 600，哪个学校好？](https://www.zhihu.com/question/607295338)<br />
 7. [为什么网友不满意《庆余年 2》叶灵儿演员换成金晨？原著中叶灵儿的人设如何？](https://www.zhihu.com/question/607597903)<br />
-8. [想学可控核聚变，高考估分 600，哪个学校好？](https://www.zhihu.com/question/607295338)<br />
-9. [台媒称「山东舰航母编队 21 日通过台湾海峡」，如何看待这一动向？](https://www.zhihu.com/question/607809103)<br />
+8. [台媒称「山东舰航母编队 21 日通过台湾海峡」，如何看待这一动向？](https://www.zhihu.com/question/607809103)<br />
+9. [如果在落凤坡死的人是诸葛亮，庞统能打败司马懿吗？](https://www.zhihu.com/question/606962512)<br />
 
 > 百度  
 
