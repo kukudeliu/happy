@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 14:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 14:33:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [青岛1米88大长腿交警回应走红](https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B1%E7%B1%B388%E5%A4%A7%E9%95%BF%E8%85%BF%E4%BA%A4%E8%AD%A6%E5%9B%9E%E5%BA%94%E8%B5%B0%E7%BA%A2%23&t=31&band_rank=4&Refer=top)<br />
 5. [肖战 蒙牛](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%20%E8%92%99%E7%89%9B&t=31&band_rank=5&Refer=top)<br />
 6. [耀乐明确拒绝炎亚纶拍摄私密影片](https://s.weibo.com/weibo?q=%23%E8%80%80%E4%B9%90%E6%98%8E%E7%A1%AE%E6%8B%92%E7%BB%9D%E7%82%8E%E4%BA%9A%E7%BA%B6%E6%8B%8D%E6%91%84%E7%A7%81%E5%AF%86%E5%BD%B1%E7%89%87%23&t=31&band_rank=6&Refer=top)<br />
-7. [全国现有吸毒人员112.4万](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E7%8E%B0%E6%9C%89%E5%90%B8%E6%AF%92%E4%BA%BA%E5%91%98112.4%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
-8. [王一博穿的居然是羽绒服](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E7%A9%BF%E7%9A%84%E5%B1%85%E7%84%B6%E6%98%AF%E7%BE%BD%E7%BB%92%E6%9C%8D%23&t=31&band_rank=8&Refer=top)<br />
+7. [王一博穿的居然是羽绒服](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E7%A9%BF%E7%9A%84%E5%B1%85%E7%84%B6%E6%98%AF%E7%BE%BD%E7%BB%92%E6%9C%8D%23&t=31&band_rank=7&Refer=top)<br />
+8. [全国现有吸毒人员112.4万](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E7%8E%B0%E6%9C%89%E5%90%B8%E6%AF%92%E4%BA%BA%E5%91%98112.4%E4%B8%87%23&t=31&band_rank=8&Refer=top)<br />
 9. [萧煌奇摘墨镜自证](https://s.weibo.com/weibo?q=%23%E8%90%A7%E7%85%8C%E5%A5%87%E6%91%98%E5%A2%A8%E9%95%9C%E8%87%AA%E8%AF%81%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -18,8 +18,8 @@
 2. [女子全款购房后，收房时发现竟被陌生人住，物业称「房子交付前该女子不算业主」，物业需要承担责任吗？](https://www.zhihu.com/question/501548894)<br />
 3. [农村抓两只大公鸡，和一只全世界最大品种的蜈蚣放一起打架，能赢吗?](https://www.zhihu.com/question/606826582)<br />
 4. [如何评价西南大学本科生发表五篇 sci 论文 (第一作者)，毕业典礼上表示希望五年博士毕业后回到母校工作？](https://www.zhihu.com/question/607703486)<br />
-5. [官方通报「焦作师专食堂烤鱼现蛆虫」，称「情况属实，立案查处」，学生食堂的食品安全应如何保证？](https://www.zhihu.com/question/607780351)<br />
-6. [因为端午礼品问题和女朋友吵架分手，请大家看看是我反应过度了吗？](https://www.zhihu.com/question/607441090)<br />
+5. [因为端午礼品问题和女朋友吵架分手，请大家看看是我反应过度了吗？](https://www.zhihu.com/question/607441090)<br />
+6. [官方通报「焦作师专食堂烤鱼现蛆虫」，称「情况属实，立案查处」，学生食堂的食品安全应如何保证？](https://www.zhihu.com/question/607780351)<br />
 7. [蔚来汽车获阿布扎比主权基金 11 亿美元投资，商业上如何解读这一布局？哪些信息值得关注？](https://www.zhihu.com/question/607716316)<br />
 8. [全国结婚登记量跌破 700 万对，年轻人反问「为什么要结婚」，低结婚率背后是传统婚姻功能的减弱吗？](https://www.zhihu.com/question/607794507)<br />
 9. [倪光南院士称「SSD 取代 HDD 时机已经到来」，会给市场造成哪些影响？](https://www.zhihu.com/question/607126650)<br />
