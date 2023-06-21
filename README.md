@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 21:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 21:32:01</h4></div>
 
 > 微博  
 
-1. [科目二我考了负725分](https://s.weibo.com/weibo?q=%23%E7%A7%91%E7%9B%AE%E4%BA%8C%E6%88%91%E8%80%83%E4%BA%86%E8%B4%9F725%E5%88%86%23&t=31&band_rank=1&Refer=top)<br />
-2. [江浙沪已婚女士的共同点](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E6%B5%99%E6%B2%AA%E5%B7%B2%E5%A9%9A%E5%A5%B3%E5%A3%AB%E7%9A%84%E5%85%B1%E5%90%8C%E7%82%B9%23&t=31&band_rank=2&Refer=top)<br />
+1. [邓亚萍拒绝158元一斤的车厘子](https://s.weibo.com/weibo?q=%23%E9%82%93%E4%BA%9A%E8%90%8D%E6%8B%92%E7%BB%9D158%E5%85%83%E4%B8%80%E6%96%A4%E7%9A%84%E8%BD%A6%E5%8E%98%E5%AD%90%23&t=31&band_rank=1&Refer=top)<br />
+2. [科目二我考了负725分](https://s.weibo.com/weibo?q=%23%E7%A7%91%E7%9B%AE%E4%BA%8C%E6%88%91%E8%80%83%E4%BA%86%E8%B4%9F725%E5%88%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [航拍中国感受盛夏之美](https://s.weibo.com/weibo?q=%23%E8%88%AA%E6%8B%8D%E4%B8%AD%E5%9B%BD%E6%84%9F%E5%8F%97%E7%9B%9B%E5%A4%8F%E4%B9%8B%E7%BE%8E%23&t=31&band_rank=3&Refer=top)<br />
-4. [陈建斌的命也是命](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BB%BA%E6%96%8C%E7%9A%84%E5%91%BD%E4%B9%9F%E6%98%AF%E5%91%BD%23&t=31&band_rank=4&Refer=top)<br />
-5. [我点的奶茶被领导捎了上来](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%82%B9%E7%9A%84%E5%A5%B6%E8%8C%B6%E8%A2%AB%E9%A2%86%E5%AF%BC%E6%8D%8E%E4%BA%86%E4%B8%8A%E6%9D%A5%23&t=31&band_rank=5&Refer=top)<br />
+4. [江浙沪已婚女士的共同点](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E6%B5%99%E6%B2%AA%E5%B7%B2%E5%A9%9A%E5%A5%B3%E5%A3%AB%E7%9A%84%E5%85%B1%E5%90%8C%E7%82%B9%23&t=31&band_rank=4&Refer=top)<br />
+5. [陈建斌的命也是命](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BB%BA%E6%96%8C%E7%9A%84%E5%91%BD%E4%B9%9F%E6%98%AF%E5%91%BD%23&t=31&band_rank=5&Refer=top)<br />
 6. [四川一中考生查出874分7门满分](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E4%B8%80%E4%B8%AD%E8%80%83%E7%94%9F%E6%9F%A5%E5%87%BA874%E5%88%867%E9%97%A8%E6%BB%A1%E5%88%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [四川大学称张某保研不违规](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E7%A7%B0%E5%BC%A0%E6%9F%90%E4%BF%9D%E7%A0%94%E4%B8%8D%E8%BF%9D%E8%A7%84%23&t=31&band_rank=7&Refer=top)<br />
-8. [消失的她](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9&t=31&band_rank=8&Refer=top)<br />
-9. [我被Excel骂了](https://s.weibo.com/weibo?q=%23%E6%88%91%E8%A2%ABExcel%E9%AA%82%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+7. [我点的奶茶被领导捎了上来](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%82%B9%E7%9A%84%E5%A5%B6%E8%8C%B6%E8%A2%AB%E9%A2%86%E5%AF%BC%E6%8D%8E%E4%BA%86%E4%B8%8A%E6%9D%A5%23&t=31&band_rank=7&Refer=top)<br />
+8. [四川大学称张某保研不违规](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E7%A7%B0%E5%BC%A0%E6%9F%90%E4%BF%9D%E7%A0%94%E4%B8%8D%E8%BF%9D%E8%A7%84%23&t=31&band_rank=8&Refer=top)<br />
+9. [消失的她](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -19,10 +19,10 @@
 3. [轰 6K 海上飞行时驱离外方船只，有哪些信息值得关注？](https://www.zhihu.com/question/607773769)<br />
 4. [台媒称「山东舰航母编队 21 日通过台湾海峡」，如何看待这一动向？](https://www.zhihu.com/question/607809103)<br />
 5. [全国结婚登记量跌破 700 万对，创 37 年来新低，年轻人「爱」不起了吗？](https://www.zhihu.com/theater/95345)<br />
-6. []()<br />
+6. [硅谷银行亚洲客户遭「双向挤压」，存款被没收，贷款必须还，如何看待此事？](https://www.zhihu.com/question/607811714)<br />
 7. [为什么网友不满意《庆余年 2》叶灵儿演员换成金晨？原著中叶灵儿的人设如何？](https://www.zhihu.com/question/607597903)<br />
-8. [硅谷银行亚洲客户遭「双向挤压」，存款被没收，贷款必须还，如何看待此事？](https://www.zhihu.com/question/607811714)<br />
-9. [如何评价倪大红、惠英红主演的电影《我爱你！》？](https://www.zhihu.com/question/603875310)<br />
+8. [如何评价倪大红、惠英红主演的电影《我爱你！》？](https://www.zhihu.com/question/603875310)<br />
+9. []()<br />
 
 > 百度  
 
