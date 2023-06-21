@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 20:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 20:32:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [美国一孕妇被2岁儿子开枪打死](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%80%E5%AD%95%E5%A6%87%E8%A2%AB2%E5%B2%81%E5%84%BF%E5%AD%90%E5%BC%80%E6%9E%AA%E6%89%93%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [曹云金巡演首场票一秒钟售罄](https://www.baidu.com/s?wd=%E6%9B%B9%E4%BA%91%E9%87%91%E5%B7%A1%E6%BC%94%E9%A6%96%E5%9C%BA%E7%A5%A8%E4%B8%80%E7%A7%92%E9%92%9F%E5%94%AE%E7%BD%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [中国夫妇日本旅游抓683只蟹被捕](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%AB%E5%A6%87%E6%97%A5%E6%9C%AC%E6%97%85%E6%B8%B8%E6%8A%93683%E5%8F%AA%E8%9F%B9%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [小学生夜晚出校园被老师掌掴脚踢](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%A4%9C%E6%99%9A%E5%87%BA%E6%A0%A1%E5%9B%AD%E8%A2%AB%E8%80%81%E5%B8%88%E6%8E%8C%E6%8E%B4%E8%84%9A%E8%B8%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [拒领三等奖的女生曾是学生会主席](https://www.baidu.com/s?wd=%E6%8B%92%E9%A2%86%E4%B8%89%E7%AD%89%E5%A5%96%E7%9A%84%E5%A5%B3%E7%94%9F%E6%9B%BE%E6%98%AF%E5%AD%A6%E7%94%9F%E4%BC%9A%E4%B8%BB%E5%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [美国一孕妇被2岁儿子开枪打死](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%80%E5%AD%95%E5%A6%87%E8%A2%AB2%E5%B2%81%E5%84%BF%E5%AD%90%E5%BC%80%E6%9E%AA%E6%89%93%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [曹云金巡演首场票一秒钟售罄](https://www.baidu.com/s?wd=%E6%9B%B9%E4%BA%91%E9%87%91%E5%B7%A1%E6%BC%94%E9%A6%96%E5%9C%BA%E7%A5%A8%E4%B8%80%E7%A7%92%E9%92%9F%E5%94%AE%E7%BD%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [中国夫妇日本旅游抓683只蟹被捕](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%AB%E5%A6%87%E6%97%A5%E6%9C%AC%E6%97%85%E6%B8%B8%E6%8A%93683%E5%8F%AA%E8%9F%B9%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [小学生夜晚出校园被老师掌掴脚踢](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%A4%9C%E6%99%9A%E5%87%BA%E6%A0%A1%E5%9B%AD%E8%A2%AB%E8%80%81%E5%B8%88%E6%8E%8C%E6%8E%B4%E8%84%9A%E8%B8%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [拒领三等奖的女生曾是学生会主席](https://www.baidu.com/s?wd=%E6%8B%92%E9%A2%86%E4%B8%89%E7%AD%89%E5%A5%96%E7%9A%84%E5%A5%B3%E7%94%9F%E6%9B%BE%E6%98%AF%E5%AD%A6%E7%94%9F%E4%BC%9A%E4%B8%BB%E5%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
