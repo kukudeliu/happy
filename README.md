@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 23:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 23:38:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [炎亚纶带了6位工作人员1位保镖](https://s.weibo.com/weibo?q=%23%E7%82%8E%E4%BA%9A%E7%BA%B6%E5%B8%A6%E4%BA%866%E4%BD%8D%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%981%E4%BD%8D%E4%BF%9D%E9%95%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [怦然3男二坐铁锅里给女一道歉](https://s.weibo.com/weibo?q=%23%E6%80%A6%E7%84%B63%E7%94%B7%E4%BA%8C%E5%9D%90%E9%93%81%E9%94%85%E9%87%8C%E7%BB%99%E5%A5%B3%E4%B8%80%E9%81%93%E6%AD%89%23&t=31&band_rank=7&Refer=top)<br />
 8. [清潭国际高中](https://s.weibo.com/weibo?q=%E6%B8%85%E6%BD%AD%E5%9B%BD%E9%99%85%E9%AB%98%E4%B8%AD&t=31&band_rank=8&Refer=top)<br />
-9. [我只是gap了一年](https://s.weibo.com/weibo?q=%E6%88%91%E5%8F%AA%E6%98%AFgap%E4%BA%86%E4%B8%80%E5%B9%B4&t=31&band_rank=9&Refer=top)<br />
+9. [任天堂](https://s.weibo.com/weibo?q=%E4%BB%BB%E5%A4%A9%E5%A0%82&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -34,7 +34,7 @@
 6. [女子将农药倒入父亲止咳糖浆瓶内](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B0%86%E5%86%9C%E8%8D%AF%E5%80%92%E5%85%A5%E7%88%B6%E4%BA%B2%E6%AD%A2%E5%92%B3%E7%B3%96%E6%B5%86%E7%93%B6%E5%86%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [布林肯访华承诺如何落实？美方回应](https://www.baidu.com/s?wd=%E5%B8%83%E6%9E%97%E8%82%AF%E8%AE%BF%E5%8D%8E%E6%89%BF%E8%AF%BA%E5%A6%82%E4%BD%95%E8%90%BD%E5%AE%9E%EF%BC%9F%E7%BE%8E%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [都是谁在买8349元一盒的粽子](https://www.baidu.com/s?wd=%E9%83%BD%E6%98%AF%E8%B0%81%E5%9C%A8%E4%B9%B08349%E5%85%83%E4%B8%80%E7%9B%92%E7%9A%84%E7%B2%BD%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [鼠头事件引高校餐饮圈震荡](https://www.baidu.com/s?wd=%E9%BC%A0%E5%A4%B4%E4%BA%8B%E4%BB%B6%E5%BC%95%E9%AB%98%E6%A0%A1%E9%A4%90%E9%A5%AE%E5%9C%88%E9%9C%87%E8%8D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [全国现有吸毒人员112.4万](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E7%8E%B0%E6%9C%89%E5%90%B8%E6%AF%92%E4%BA%BA%E5%91%98112.4%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [女子将农药倒入父亲止咳糖浆瓶内](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B0%86%E5%86%9C%E8%8D%AF%E5%80%92%E5%85%A5%E7%88%B6%E4%BA%B2%E6%AD%A2%E5%92%B3%E7%B3%96%E6%B5%86%E7%93%B6%E5%86%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [布林肯访华承诺如何落实？美方回应](https://www.baidu.com/s?wd=%E5%B8%83%E6%9E%97%E8%82%AF%E8%AE%BF%E5%8D%8E%E6%89%BF%E8%AF%BA%E5%A6%82%E4%BD%95%E8%90%BD%E5%AE%9E%EF%BC%9F%E7%BE%8E%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [都是谁在买8349元一盒的粽子](https://www.baidu.com/s?wd=%E9%83%BD%E6%98%AF%E8%B0%81%E5%9C%A8%E4%B9%B08349%E5%85%83%E4%B8%80%E7%9B%92%E7%9A%84%E7%B2%BD%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [鼠头事件引高校餐饮圈震荡](https://www.baidu.com/s?wd=%E9%BC%A0%E5%A4%B4%E4%BA%8B%E4%BB%B6%E5%BC%95%E9%AB%98%E6%A0%A1%E9%A4%90%E9%A5%AE%E5%9C%88%E9%9C%87%E8%8D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [全国现有吸毒人员112.4万](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E7%8E%B0%E6%9C%89%E5%90%B8%E6%AF%92%E4%BA%BA%E5%91%98112.4%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
