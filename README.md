@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 06:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 06:05:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [炎亚纶心理素质](https://s.weibo.com/weibo?q=%23%E7%82%8E%E4%BA%9A%E7%BA%B6%E5%BF%83%E7%90%86%E7%B4%A0%E8%B4%A8%23&t=31&band_rank=6&Refer=top)<br />
 7. [肖战不担心表演同质化问题](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E4%B8%8D%E6%8B%85%E5%BF%83%E8%A1%A8%E6%BC%94%E5%90%8C%E8%B4%A8%E5%8C%96%E9%97%AE%E9%A2%98%23&t=31&band_rank=7&Refer=top)<br />
 8. [暑假太可怕了](https://s.weibo.com/weibo?q=%E6%9A%91%E5%81%87%E5%A4%AA%E5%8F%AF%E6%80%95%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [孙亦航](https://s.weibo.com/weibo?q=%E5%AD%99%E4%BA%A6%E8%88%AA&t=31&band_rank=9&Refer=top)<br />
+9. [马伯骞到底演戏还是说唱啊](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%BC%AF%E9%AA%9E%E5%88%B0%E5%BA%95%E6%BC%94%E6%88%8F%E8%BF%98%E6%98%AF%E8%AF%B4%E5%94%B1%E5%95%8A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
