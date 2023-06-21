@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 18:42:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 18:43:01</h4></div>
 
 > 微博  
 
@@ -32,9 +32,9 @@
 4. [全国铁路7月1日起实行新列车运行图](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E9%93%81%E8%B7%AF7%E6%9C%881%E6%97%A5%E8%B5%B7%E5%AE%9E%E8%A1%8C%E6%96%B0%E5%88%97%E8%BD%A6%E8%BF%90%E8%A1%8C%E5%9B%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子在绿化带内迷路四天三夜](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E7%BB%BF%E5%8C%96%E5%B8%A6%E5%86%85%E8%BF%B7%E8%B7%AF%E5%9B%9B%E5%A4%A9%E4%B8%89%E5%A4%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [印度18岁少女和男友遭荣誉处决](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A618%E5%B2%81%E5%B0%91%E5%A5%B3%E5%92%8C%E7%94%B7%E5%8F%8B%E9%81%AD%E8%8D%A3%E8%AA%89%E5%A4%84%E5%86%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [拆二代遇房企爆雷：房没了钱也没了](https://www.baidu.com/s?wd=%E6%8B%86%E4%BA%8C%E4%BB%A3%E9%81%87%E6%88%BF%E4%BC%81%E7%88%86%E9%9B%B7%EF%BC%9A%E6%88%BF%E6%B2%A1%E4%BA%86%E9%92%B1%E4%B9%9F%E6%B2%A1%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子中800万瞒着妻子转移财产](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%AD800%E4%B8%87%E7%9E%92%E7%9D%80%E5%A6%BB%E5%AD%90%E8%BD%AC%E7%A7%BB%E8%B4%A2%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中国夫妇日本旅游抓683只蟹被捕](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%AB%E5%A6%87%E6%97%A5%E6%9C%AC%E6%97%85%E6%B8%B8%E6%8A%93683%E5%8F%AA%E8%9F%B9%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子喊3遍拔针护士打游戏不理会](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%96%8A3%E9%81%8D%E6%8B%94%E9%92%88%E6%8A%A4%E5%A3%AB%E6%89%93%E6%B8%B8%E6%88%8F%E4%B8%8D%E7%90%86%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [拆二代遇房企爆雷：房没了钱也没了](https://www.baidu.com/s?wd=%E6%8B%86%E4%BA%8C%E4%BB%A3%E9%81%87%E6%88%BF%E4%BC%81%E7%88%86%E9%9B%B7%EF%BC%9A%E6%88%BF%E6%B2%A1%E4%BA%86%E9%92%B1%E4%B9%9F%E6%B2%A1%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子中800万瞒着妻子转移财产](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%AD800%E4%B8%87%E7%9E%92%E7%9D%80%E5%A6%BB%E5%AD%90%E8%BD%AC%E7%A7%BB%E8%B4%A2%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [全国铁路7月1日起实行新列车运行图](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E9%93%81%E8%B7%AF7%E6%9C%881%E6%97%A5%E8%B5%B7%E5%AE%9E%E8%A1%8C%E6%96%B0%E5%88%97%E8%BD%A6%E8%BF%90%E8%A1%8C%E5%9B%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子在绿化带内迷路四天三夜](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E7%BB%BF%E5%8C%96%E5%B8%A6%E5%86%85%E8%BF%B7%E8%B7%AF%E5%9B%9B%E5%A4%A9%E4%B8%89%E5%A4%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [印度18岁少女和男友遭荣誉处决](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A618%E5%B2%81%E5%B0%91%E5%A5%B3%E5%92%8C%E7%94%B7%E5%8F%8B%E9%81%AD%E8%8D%A3%E8%AA%89%E5%A4%84%E5%86%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [拆二代遇房企爆雷：房没了钱也没了](https://www.baidu.com/s?wd=%E6%8B%86%E4%BA%8C%E4%BB%A3%E9%81%87%E6%88%BF%E4%BC%81%E7%88%86%E9%9B%B7%EF%BC%9A%E6%88%BF%E6%B2%A1%E4%BA%86%E9%92%B1%E4%B9%9F%E6%B2%A1%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子中800万瞒着妻子转移财产](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%AD800%E4%B8%87%E7%9E%92%E7%9D%80%E5%A6%BB%E5%AD%90%E8%BD%AC%E7%A7%BB%E8%B4%A2%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中国夫妇日本旅游抓683只蟹被捕](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%AB%E5%A6%87%E6%97%A5%E6%9C%AC%E6%97%85%E6%B8%B8%E6%8A%93683%E5%8F%AA%E8%9F%B9%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子喊3遍拔针护士打游戏不理会](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%96%8A3%E9%81%8D%E6%8B%94%E9%92%88%E6%8A%A4%E5%A3%AB%E6%89%93%E6%B8%B8%E6%88%8F%E4%B8%8D%E7%90%86%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [拆二代遇房企爆雷：房没了钱也没了](https://www.baidu.com/s?wd=%E6%8B%86%E4%BA%8C%E4%BB%A3%E9%81%87%E6%88%BF%E4%BC%81%E7%88%86%E9%9B%B7%EF%BC%9A%E6%88%BF%E6%B2%A1%E4%BA%86%E9%92%B1%E4%B9%9F%E6%B2%A1%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子中800万瞒着妻子转移财产](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%AD800%E4%B8%87%E7%9E%92%E7%9D%80%E5%A6%BB%E5%AD%90%E8%BD%AC%E7%A7%BB%E8%B4%A2%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
