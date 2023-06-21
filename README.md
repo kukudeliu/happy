@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 21:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 21:49:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [男子举报局长与其妻子有不正当关系](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%BE%E6%8A%A5%E5%B1%80%E9%95%BF%E4%B8%8E%E5%85%B6%E5%A6%BB%E5%AD%90%E6%9C%89%E4%B8%8D%E6%AD%A3%E5%BD%93%E5%85%B3%E7%B3%BB%23&t=31&band_rank=6&Refer=top)<br />
 7. [四川大学称张某保研不违规](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E7%A7%B0%E5%BC%A0%E6%9F%90%E4%BF%9D%E7%A0%94%E4%B8%8D%E8%BF%9D%E8%A7%84%23&t=31&band_rank=7&Refer=top)<br />
 8. [消失的她](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9&t=31&band_rank=8&Refer=top)<br />
-9. [四川一中考生查出874分7门满分](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E4%B8%80%E4%B8%AD%E8%80%83%E7%94%9F%E6%9F%A5%E5%87%BA874%E5%88%867%E9%97%A8%E6%BB%A1%E5%88%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [我点的奶茶被领导捎了上来](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%82%B9%E7%9A%84%E5%A5%B6%E8%8C%B6%E8%A2%AB%E9%A2%86%E5%AF%BC%E6%8D%8E%E4%BA%86%E4%B8%8A%E6%9D%A5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -32,8 +32,8 @@
 4. [全国铁路7月1日起实行新列车运行图](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E9%93%81%E8%B7%AF7%E6%9C%881%E6%97%A5%E8%B5%B7%E5%AE%9E%E8%A1%8C%E6%96%B0%E5%88%97%E8%BD%A6%E8%BF%90%E8%A1%8C%E5%9B%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [局长回应被举报与他人有不正当关系](https://www.baidu.com/s?wd=%E5%B1%80%E9%95%BF%E5%9B%9E%E5%BA%94%E8%A2%AB%E4%B8%BE%E6%8A%A5%E4%B8%8E%E4%BB%96%E4%BA%BA%E6%9C%89%E4%B8%8D%E6%AD%A3%E5%BD%93%E5%85%B3%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [美国一孕妇被2岁儿子开枪打死](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%80%E5%AD%95%E5%A6%87%E8%A2%AB2%E5%B2%81%E5%84%BF%E5%AD%90%E5%BC%80%E6%9E%AA%E6%89%93%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [拜登再提无人飞艇事件 外交部回应](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E5%86%8D%E6%8F%90%E6%97%A0%E4%BA%BA%E9%A3%9E%E8%89%87%E4%BA%8B%E4%BB%B6+%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男生中考874分说考得还可以](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E4%B8%AD%E8%80%83874%E5%88%86%E8%AF%B4%E8%80%83%E5%BE%97%E8%BF%98%E5%8F%AF%E4%BB%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男生中考874分说考得还可以](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E4%B8%AD%E8%80%83874%E5%88%86%E8%AF%B4%E8%80%83%E5%BE%97%E8%BF%98%E5%8F%AF%E4%BB%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [拜登再提无人飞艇事件 外交部回应](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E5%86%8D%E6%8F%90%E6%97%A0%E4%BA%BA%E9%A3%9E%E8%89%87%E4%BA%8B%E4%BB%B6+%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [男子在绿化带内迷路三天](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E7%BB%BF%E5%8C%96%E5%B8%A6%E5%86%85%E8%BF%B7%E8%B7%AF%E4%B8%89%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -44,6 +44,6 @@
 4. [全国铁路7月1日起实行新列车运行图](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E9%93%81%E8%B7%AF7%E6%9C%881%E6%97%A5%E8%B5%B7%E5%AE%9E%E8%A1%8C%E6%96%B0%E5%88%97%E8%BD%A6%E8%BF%90%E8%A1%8C%E5%9B%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [局长回应被举报与他人有不正当关系](https://www.baidu.com/s?wd=%E5%B1%80%E9%95%BF%E5%9B%9E%E5%BA%94%E8%A2%AB%E4%B8%BE%E6%8A%A5%E4%B8%8E%E4%BB%96%E4%BA%BA%E6%9C%89%E4%B8%8D%E6%AD%A3%E5%BD%93%E5%85%B3%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [美国一孕妇被2岁儿子开枪打死](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%80%E5%AD%95%E5%A6%87%E8%A2%AB2%E5%B2%81%E5%84%BF%E5%AD%90%E5%BC%80%E6%9E%AA%E6%89%93%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [拜登再提无人飞艇事件 外交部回应](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E5%86%8D%E6%8F%90%E6%97%A0%E4%BA%BA%E9%A3%9E%E8%89%87%E4%BA%8B%E4%BB%B6+%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男生中考874分说考得还可以](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E4%B8%AD%E8%80%83874%E5%88%86%E8%AF%B4%E8%80%83%E5%BE%97%E8%BF%98%E5%8F%AF%E4%BB%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男生中考874分说考得还可以](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E4%B8%AD%E8%80%83874%E5%88%86%E8%AF%B4%E8%80%83%E5%BE%97%E8%BF%98%E5%8F%AF%E4%BB%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [拜登再提无人飞艇事件 外交部回应](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E5%86%8D%E6%8F%90%E6%97%A0%E4%BA%BA%E9%A3%9E%E8%89%87%E4%BA%8B%E4%BB%B6+%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [男子在绿化带内迷路三天](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E7%BB%BF%E5%8C%96%E5%B8%A6%E5%86%85%E8%BF%B7%E8%B7%AF%E4%B8%89%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
