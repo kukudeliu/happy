@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 21:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 21:16:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [如果在落凤坡死的人是诸葛亮，庞统能打败司马懿吗？](https://www.zhihu.com/question/606962512)<br />
 7. [为什么网友不满意《庆余年 2》叶灵儿演员换成金晨？原著中叶灵儿的人设如何？](https://www.zhihu.com/question/607597903)<br />
 8. [米哈游最终会是 T0 游戏公司吗?](https://www.zhihu.com/question/585107694)<br />
-9. [硅谷银行亚洲客户遭「双向挤压」，存款被没收，贷款必须还，如何看待此事？](https://www.zhihu.com/question/607811714)<br />
+9. []()<br />
 
 > 百度  
 
