@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 18:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 18:15:01</h4></div>
 
 > 微博  
 
@@ -10,13 +10,13 @@
 6. [炎亚纶竟然还化了妆](https://s.weibo.com/weibo?q=%23%E7%82%8E%E4%BA%9A%E7%BA%B6%E7%AB%9F%E7%84%B6%E8%BF%98%E5%8C%96%E4%BA%86%E5%A6%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [中山大学录取通知书内有云南普洱茶](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B1%B1%E5%A4%A7%E5%AD%A6%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E5%86%85%E6%9C%89%E4%BA%91%E5%8D%97%E6%99%AE%E6%B4%B1%E8%8C%B6%23&t=31&band_rank=7&Refer=top)<br />
 8. [丫丫](https://s.weibo.com/weibo?q=%E4%B8%AB%E4%B8%AB&t=31&band_rank=8&Refer=top)<br />
-9. [官方通报网传大学生涉嫌卖淫800次](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E7%BD%91%E4%BC%A0%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%B6%89%E5%AB%8C%E5%8D%96%E6%B7%AB800%E6%AC%A1%23&t=31&band_rank=9&Refer=top)<br />
+9. [白敬亭和父母都追过赘婿](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%92%8C%E7%88%B6%E6%AF%8D%E9%83%BD%E8%BF%BD%E8%BF%87%E8%B5%98%E5%A9%BF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [四川大学依规依纪处理「地铁偷拍」事件涉事学生，「给予该生留校、留党察看处分」，如何看待这一处分？](https://www.zhihu.com/question/607827303)<br />
-2. [大陆恢复台湾地区番荔枝输入，台农称「等了 3 年，感动得快要落泪」，哪些信息值得关注？](https://www.zhihu.com/question/607719193)<br />
-3. [空军航空兵某团飞行二大队获「时代楷模」称号，褒扬他们是「奋飞新时代的空中铁拳」，他们值得学习的点在哪？](https://www.zhihu.com/question/607609756)<br />
+2. [空军航空兵某团飞行二大队获「时代楷模」称号，褒扬他们是「奋飞新时代的空中铁拳」，他们值得学习的点在哪？](https://www.zhihu.com/question/607609756)<br />
+3. [大陆恢复台湾地区番荔枝输入，台农称「等了 3 年，感动得快要落泪」，哪些信息值得关注？](https://www.zhihu.com/question/607719193)<br />
 4. [外交部称「美方将和平解决台湾问题作为『一中政策』核心内容是篡改其政治承诺」，有哪些信息值得关注？](https://www.zhihu.com/question/607789531)<br />
 5. [全国结婚登记量跌破 700 万对，年轻人反问「为什么要结婚」，低结婚率背后是传统婚姻功能的减弱吗？](https://www.zhihu.com/question/607794507)<br />
 6. [为什么网友不满意《庆余年 2》叶灵儿演员换成金晨？原著中叶灵儿的人设如何？](https://www.zhihu.com/question/607597903)<br />
@@ -33,8 +33,8 @@
 5. [失联潜艇搜救：水下传来不明敲击声](https://www.baidu.com/s?wd=%E5%A4%B1%E8%81%94%E6%BD%9C%E8%89%87%E6%90%9C%E6%95%91%EF%BC%9A%E6%B0%B4%E4%B8%8B%E4%BC%A0%E6%9D%A5%E4%B8%8D%E6%98%8E%E6%95%B2%E5%87%BB%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [印度18岁少女和男友遭荣誉处决](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A618%E5%B2%81%E5%B0%91%E5%A5%B3%E5%92%8C%E7%94%B7%E5%8F%8B%E9%81%AD%E8%8D%A3%E8%AA%89%E5%A4%84%E5%86%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子中800万瞒着妻子转移财产](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%AD800%E4%B8%87%E7%9E%92%E7%9D%80%E5%A6%BB%E5%AD%90%E8%BD%AC%E7%A7%BB%E8%B4%A2%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [高校回应学生因毕设被送关系户自杀](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E5%9B%A0%E6%AF%95%E8%AE%BE%E8%A2%AB%E9%80%81%E5%85%B3%E7%B3%BB%E6%88%B7%E8%87%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中国夫妇日本旅游抓683只蟹被捕](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%AB%E5%A6%87%E6%97%A5%E6%9C%AC%E6%97%85%E6%B8%B8%E6%8A%93683%E5%8F%AA%E8%9F%B9%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中国夫妇日本旅游抓683只蟹被捕](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%AB%E5%A6%87%E6%97%A5%E6%9C%AC%E6%97%85%E6%B8%B8%E6%8A%93683%E5%8F%AA%E8%9F%B9%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [高校回应学生因毕设被送关系户自杀](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E5%9B%A0%E6%AF%95%E8%AE%BE%E8%A2%AB%E9%80%81%E5%85%B3%E7%B3%BB%E6%88%B7%E8%87%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [失联潜艇搜救：水下传来不明敲击声](https://www.baidu.com/s?wd=%E5%A4%B1%E8%81%94%E6%BD%9C%E8%89%87%E6%90%9C%E6%95%91%EF%BC%9A%E6%B0%B4%E4%B8%8B%E4%BC%A0%E6%9D%A5%E4%B8%8D%E6%98%8E%E6%95%B2%E5%87%BB%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [印度18岁少女和男友遭荣誉处决](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A618%E5%B2%81%E5%B0%91%E5%A5%B3%E5%92%8C%E7%94%B7%E5%8F%8B%E9%81%AD%E8%8D%A3%E8%AA%89%E5%A4%84%E5%86%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子中800万瞒着妻子转移财产](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%AD800%E4%B8%87%E7%9E%92%E7%9D%80%E5%A6%BB%E5%AD%90%E8%BD%AC%E7%A7%BB%E8%B4%A2%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [高校回应学生因毕设被送关系户自杀](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E5%9B%A0%E6%AF%95%E8%AE%BE%E8%A2%AB%E9%80%81%E5%85%B3%E7%B3%BB%E6%88%B7%E8%87%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中国夫妇日本旅游抓683只蟹被捕](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%AB%E5%A6%87%E6%97%A5%E6%9C%AC%E6%97%85%E6%B8%B8%E6%8A%93683%E5%8F%AA%E8%9F%B9%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中国夫妇日本旅游抓683只蟹被捕](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%AB%E5%A6%87%E6%97%A5%E6%9C%AC%E6%97%85%E6%B8%B8%E6%8A%93683%E5%8F%AA%E8%9F%B9%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [高校回应学生因毕设被送关系户自杀](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E5%9B%A0%E6%AF%95%E8%AE%BE%E8%A2%AB%E9%80%81%E5%85%B3%E7%B3%BB%E6%88%B7%E8%87%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
