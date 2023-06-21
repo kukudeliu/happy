@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 07:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 07:04:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [女子离婚娘家人放鞭炮订蛋糕庆祝](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A6%BB%E5%A9%9A%E5%A8%98%E5%AE%B6%E4%BA%BA%E6%94%BE%E9%9E%AD%E7%82%AE%E8%AE%A2%E8%9B%8B%E7%B3%95%E5%BA%86%E7%A5%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [邓亚萍拒绝158元一斤的车厘子](https://www.baidu.com/s?wd=%E9%82%93%E4%BA%9A%E8%90%8D%E6%8B%92%E7%BB%9D158%E5%85%83%E4%B8%80%E6%96%A4%E7%9A%84%E8%BD%A6%E5%8E%98%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [印度18岁少女和男友遭荣誉处决](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A618%E5%B2%81%E5%B0%91%E5%A5%B3%E5%92%8C%E7%94%B7%E5%8F%8B%E9%81%AD%E8%8D%A3%E8%AA%89%E5%A4%84%E5%86%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [美国亿万富翁91万招聘狗保姆](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%BA%BF%E4%B8%87%E5%AF%8C%E7%BF%8191%E4%B8%87%E6%8B%9B%E8%81%98%E7%8B%97%E4%BF%9D%E5%A7%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [青岛1米88大长腿交警回应走红](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B1%E7%B1%B388%E5%A4%A7%E9%95%BF%E8%85%BF%E4%BA%A4%E8%AD%A6%E5%9B%9E%E5%BA%94%E8%B5%B0%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [女子离婚娘家人放鞭炮订蛋糕庆祝](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A6%BB%E5%A9%9A%E5%A8%98%E5%AE%B6%E4%BA%BA%E6%94%BE%E9%9E%AD%E7%82%AE%E8%AE%A2%E8%9B%8B%E7%B3%95%E5%BA%86%E7%A5%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [邓亚萍拒绝158元一斤的车厘子](https://www.baidu.com/s?wd=%E9%82%93%E4%BA%9A%E8%90%8D%E6%8B%92%E7%BB%9D158%E5%85%83%E4%B8%80%E6%96%A4%E7%9A%84%E8%BD%A6%E5%8E%98%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [印度18岁少女和男友遭荣誉处决](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A618%E5%B2%81%E5%B0%91%E5%A5%B3%E5%92%8C%E7%94%B7%E5%8F%8B%E9%81%AD%E8%8D%A3%E8%AA%89%E5%A4%84%E5%86%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [美国亿万富翁91万招聘狗保姆](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%BA%BF%E4%B8%87%E5%AF%8C%E7%BF%8191%E4%B8%87%E6%8B%9B%E8%81%98%E7%8B%97%E4%BF%9D%E5%A7%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [青岛1米88大长腿交警回应走红](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B1%E7%B1%B388%E5%A4%A7%E9%95%BF%E8%85%BF%E4%BA%A4%E8%AD%A6%E5%9B%9E%E5%BA%94%E8%B5%B0%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
