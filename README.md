@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 23:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 23:30:02</h4></div>
 
 > 微博  
 
@@ -33,7 +33,7 @@
 5. [普京：萨尔马特导弹将进入战斗值勤](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E8%90%A8%E5%B0%94%E9%A9%AC%E7%89%B9%E5%AF%BC%E5%BC%B9%E5%B0%86%E8%BF%9B%E5%85%A5%E6%88%98%E6%96%97%E5%80%BC%E5%8B%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子将农药倒入父亲止咳糖浆瓶内](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B0%86%E5%86%9C%E8%8D%AF%E5%80%92%E5%85%A5%E7%88%B6%E4%BA%B2%E6%AD%A2%E5%92%B3%E7%B3%96%E6%B5%86%E7%93%B6%E5%86%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [都是谁在买8349元一盒的粽子](https://www.baidu.com/s?wd=%E9%83%BD%E6%98%AF%E8%B0%81%E5%9C%A8%E4%B9%B08349%E5%85%83%E4%B8%80%E7%9B%92%E7%9A%84%E7%B2%BD%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [美国一孕妇被2岁儿子开枪打死](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%80%E5%AD%95%E5%A6%87%E8%A2%AB2%E5%B2%81%E5%84%BF%E5%AD%90%E5%BC%80%E6%9E%AA%E6%89%93%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [全国现有吸毒人员112.4万](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E7%8E%B0%E6%9C%89%E5%90%B8%E6%AF%92%E4%BA%BA%E5%91%98112.4%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [丫丫肉眼可见圆滚滚起来了](https://www.baidu.com/s?wd=%E4%B8%AB%E4%B8%AB%E8%82%89%E7%9C%BC%E5%8F%AF%E8%A7%81%E5%9C%86%E6%BB%9A%E6%BB%9A%E8%B5%B7%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [普京：萨尔马特导弹将进入战斗值勤](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E8%90%A8%E5%B0%94%E9%A9%AC%E7%89%B9%E5%AF%BC%E5%BC%B9%E5%B0%86%E8%BF%9B%E5%85%A5%E6%88%98%E6%96%97%E5%80%BC%E5%8B%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子将农药倒入父亲止咳糖浆瓶内](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B0%86%E5%86%9C%E8%8D%AF%E5%80%92%E5%85%A5%E7%88%B6%E4%BA%B2%E6%AD%A2%E5%92%B3%E7%B3%96%E6%B5%86%E7%93%B6%E5%86%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [都是谁在买8349元一盒的粽子](https://www.baidu.com/s?wd=%E9%83%BD%E6%98%AF%E8%B0%81%E5%9C%A8%E4%B9%B08349%E5%85%83%E4%B8%80%E7%9B%92%E7%9A%84%E7%B2%BD%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [美国一孕妇被2岁儿子开枪打死](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%80%E5%AD%95%E5%A6%87%E8%A2%AB2%E5%B2%81%E5%84%BF%E5%AD%90%E5%BC%80%E6%9E%AA%E6%89%93%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [全国现有吸毒人员112.4万](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E7%8E%B0%E6%9C%89%E5%90%B8%E6%AF%92%E4%BA%BA%E5%91%98112.4%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [丫丫肉眼可见圆滚滚起来了](https://www.baidu.com/s?wd=%E4%B8%AB%E4%B8%AB%E8%82%89%E7%9C%BC%E5%8F%AF%E8%A7%81%E5%9C%86%E6%BB%9A%E6%BB%9A%E8%B5%B7%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
