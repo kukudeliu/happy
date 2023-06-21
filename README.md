@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 20:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 20:13:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [邱耀乐不接受炎亚纶道歉](https://s.weibo.com/weibo?q=%23%E9%82%B1%E8%80%80%E4%B9%90%E4%B8%8D%E6%8E%A5%E5%8F%97%E7%82%8E%E4%BA%9A%E7%BA%B6%E9%81%93%E6%AD%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [庆余年导演说演员应该杜绝文盲](https://s.weibo.com/weibo?q=%23%E5%BA%86%E4%BD%99%E5%B9%B4%E5%AF%BC%E6%BC%94%E8%AF%B4%E6%BC%94%E5%91%98%E5%BA%94%E8%AF%A5%E6%9D%9C%E7%BB%9D%E6%96%87%E7%9B%B2%23&t=31&band_rank=7&Refer=top)<br />
 8. [四川大学称张某保研不违规](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E7%A7%B0%E5%BC%A0%E6%9F%90%E4%BF%9D%E7%A0%94%E4%B8%8D%E8%BF%9D%E8%A7%84%23&t=31&band_rank=8&Refer=top)<br />
-9. [为什么女生的衣服越做越短](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A5%B3%E7%94%9F%E7%9A%84%E8%A1%A3%E6%9C%8D%E8%B6%8A%E5%81%9A%E8%B6%8A%E7%9F%AD%23&t=31&band_rank=9&Refer=top)<br />
+9. [LPL 暂停](https://s.weibo.com/weibo?q=LPL%20%E6%9A%82%E5%81%9C&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
