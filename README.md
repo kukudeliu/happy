@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 21:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 21:29:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [局长回应被举报与他人有不正当关系](https://www.baidu.com/s?wd=%E5%B1%80%E9%95%BF%E5%9B%9E%E5%BA%94%E8%A2%AB%E4%B8%BE%E6%8A%A5%E4%B8%8E%E4%BB%96%E4%BA%BA%E6%9C%89%E4%B8%8D%E6%AD%A3%E5%BD%93%E5%85%B3%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [美国一孕妇被2岁儿子开枪打死](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%80%E5%AD%95%E5%A6%87%E8%A2%AB2%E5%B2%81%E5%84%BF%E5%AD%90%E5%BC%80%E6%9E%AA%E6%89%93%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男生中考874分说考得还可以](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E4%B8%AD%E8%80%83874%E5%88%86%E8%AF%B4%E8%80%83%E5%BE%97%E8%BF%98%E5%8F%AF%E4%BB%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [乌媒称俄军疑因饮水污染爆发霍乱](https://www.baidu.com/s?wd=%E4%B9%8C%E5%AA%92%E7%A7%B0%E4%BF%84%E5%86%9B%E7%96%91%E5%9B%A0%E9%A5%AE%E6%B0%B4%E6%B1%A1%E6%9F%93%E7%88%86%E5%8F%91%E9%9C%8D%E4%B9%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子航班上大喊要飞机停下来](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%88%AA%E7%8F%AD%E4%B8%8A%E5%A4%A7%E5%96%8A%E8%A6%81%E9%A3%9E%E6%9C%BA%E5%81%9C%E4%B8%8B%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [台湾艺人NONO回应性骚扰：停工反省](https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E8%89%BA%E4%BA%BANONO%E5%9B%9E%E5%BA%94%E6%80%A7%E9%AA%9A%E6%89%B0%EF%BC%9A%E5%81%9C%E5%B7%A5%E5%8F%8D%E7%9C%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [4位富豪因AI暴赚10000亿](https://www.baidu.com/s?wd=4%E4%BD%8D%E5%AF%8C%E8%B1%AA%E5%9B%A0AI%E6%9A%B4%E8%B5%9A10000%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [局长回应被举报与他人有不正当关系](https://www.baidu.com/s?wd=%E5%B1%80%E9%95%BF%E5%9B%9E%E5%BA%94%E8%A2%AB%E4%B8%BE%E6%8A%A5%E4%B8%8E%E4%BB%96%E4%BA%BA%E6%9C%89%E4%B8%8D%E6%AD%A3%E5%BD%93%E5%85%B3%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [美国一孕妇被2岁儿子开枪打死](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%80%E5%AD%95%E5%A6%87%E8%A2%AB2%E5%B2%81%E5%84%BF%E5%AD%90%E5%BC%80%E6%9E%AA%E6%89%93%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男生中考874分说考得还可以](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E4%B8%AD%E8%80%83874%E5%88%86%E8%AF%B4%E8%80%83%E5%BE%97%E8%BF%98%E5%8F%AF%E4%BB%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [乌媒称俄军疑因饮水污染爆发霍乱](https://www.baidu.com/s?wd=%E4%B9%8C%E5%AA%92%E7%A7%B0%E4%BF%84%E5%86%9B%E7%96%91%E5%9B%A0%E9%A5%AE%E6%B0%B4%E6%B1%A1%E6%9F%93%E7%88%86%E5%8F%91%E9%9C%8D%E4%B9%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子航班上大喊要飞机停下来](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%88%AA%E7%8F%AD%E4%B8%8A%E5%A4%A7%E5%96%8A%E8%A6%81%E9%A3%9E%E6%9C%BA%E5%81%9C%E4%B8%8B%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [台湾艺人NONO回应性骚扰：停工反省](https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E8%89%BA%E4%BA%BANONO%E5%9B%9E%E5%BA%94%E6%80%A7%E9%AA%9A%E6%89%B0%EF%BC%9A%E5%81%9C%E5%B7%A5%E5%8F%8D%E7%9C%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [4位富豪因AI暴赚10000亿](https://www.baidu.com/s?wd=4%E4%BD%8D%E5%AF%8C%E8%B1%AA%E5%9B%A0AI%E6%9A%B4%E8%B5%9A10000%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
