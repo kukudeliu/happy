@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 18:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 18:28:01</h4></div>
 
 > 微博  
 
@@ -32,9 +32,9 @@
 4. [全国铁路7月1日起实行新列车运行图](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E9%93%81%E8%B7%AF7%E6%9C%881%E6%97%A5%E8%B5%B7%E5%AE%9E%E8%A1%8C%E6%96%B0%E5%88%97%E8%BD%A6%E8%BF%90%E8%A1%8C%E5%9B%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [失联潜艇搜救：水下传来不明敲击声](https://www.baidu.com/s?wd=%E5%A4%B1%E8%81%94%E6%BD%9C%E8%89%87%E6%90%9C%E6%95%91%EF%BC%9A%E6%B0%B4%E4%B8%8B%E4%BC%A0%E6%9D%A5%E4%B8%8D%E6%98%8E%E6%95%B2%E5%87%BB%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [印度18岁少女和男友遭荣誉处决](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A618%E5%B2%81%E5%B0%91%E5%A5%B3%E5%92%8C%E7%94%B7%E5%8F%8B%E9%81%AD%E8%8D%A3%E8%AA%89%E5%A4%84%E5%86%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [炎亚纶去道歉竟然还化了妆](https://www.baidu.com/s?wd=%E7%82%8E%E4%BA%9A%E7%BA%B6%E5%8E%BB%E9%81%93%E6%AD%89%E7%AB%9F%E7%84%B6%E8%BF%98%E5%8C%96%E4%BA%86%E5%A6%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子中800万瞒着妻子转移财产](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%AD800%E4%B8%87%E7%9E%92%E7%9D%80%E5%A6%BB%E5%AD%90%E8%BD%AC%E7%A7%BB%E8%B4%A2%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中国夫妇日本旅游抓683只蟹被捕](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%AB%E5%A6%87%E6%97%A5%E6%9C%AC%E6%97%85%E6%B8%B8%E6%8A%93683%E5%8F%AA%E8%9F%B9%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子中800万瞒着妻子转移财产](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%AD800%E4%B8%87%E7%9E%92%E7%9D%80%E5%A6%BB%E5%AD%90%E8%BD%AC%E7%A7%BB%E8%B4%A2%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中国夫妇日本旅游抓683只蟹被捕](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%AB%E5%A6%87%E6%97%A5%E6%9C%AC%E6%97%85%E6%B8%B8%E6%8A%93683%E5%8F%AA%E8%9F%B9%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [高校回应学生因毕设被送关系户自杀](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E5%9B%A0%E6%AF%95%E8%AE%BE%E8%A2%AB%E9%80%81%E5%85%B3%E7%B3%BB%E6%88%B7%E8%87%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [全国铁路7月1日起实行新列车运行图](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E9%93%81%E8%B7%AF7%E6%9C%881%E6%97%A5%E8%B5%B7%E5%AE%9E%E8%A1%8C%E6%96%B0%E5%88%97%E8%BD%A6%E8%BF%90%E8%A1%8C%E5%9B%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [失联潜艇搜救：水下传来不明敲击声](https://www.baidu.com/s?wd=%E5%A4%B1%E8%81%94%E6%BD%9C%E8%89%87%E6%90%9C%E6%95%91%EF%BC%9A%E6%B0%B4%E4%B8%8B%E4%BC%A0%E6%9D%A5%E4%B8%8D%E6%98%8E%E6%95%B2%E5%87%BB%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [印度18岁少女和男友遭荣誉处决](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A618%E5%B2%81%E5%B0%91%E5%A5%B3%E5%92%8C%E7%94%B7%E5%8F%8B%E9%81%AD%E8%8D%A3%E8%AA%89%E5%A4%84%E5%86%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [炎亚纶去道歉竟然还化了妆](https://www.baidu.com/s?wd=%E7%82%8E%E4%BA%9A%E7%BA%B6%E5%8E%BB%E9%81%93%E6%AD%89%E7%AB%9F%E7%84%B6%E8%BF%98%E5%8C%96%E4%BA%86%E5%A6%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子中800万瞒着妻子转移财产](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%AD800%E4%B8%87%E7%9E%92%E7%9D%80%E5%A6%BB%E5%AD%90%E8%BD%AC%E7%A7%BB%E8%B4%A2%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中国夫妇日本旅游抓683只蟹被捕](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%AB%E5%A6%87%E6%97%A5%E6%9C%AC%E6%97%85%E6%B8%B8%E6%8A%93683%E5%8F%AA%E8%9F%B9%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子中800万瞒着妻子转移财产](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%AD800%E4%B8%87%E7%9E%92%E7%9D%80%E5%A6%BB%E5%AD%90%E8%BD%AC%E7%A7%BB%E8%B4%A2%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中国夫妇日本旅游抓683只蟹被捕](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%AB%E5%A6%87%E6%97%A5%E6%9C%AC%E6%97%85%E6%B8%B8%E6%8A%93683%E5%8F%AA%E8%9F%B9%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [高校回应学生因毕设被送关系户自杀](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E5%9B%A0%E6%AF%95%E8%AE%BE%E8%A2%AB%E9%80%81%E5%85%B3%E7%B3%BB%E6%88%B7%E8%87%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
