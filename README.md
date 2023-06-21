@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 13:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 13:23:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [偷偷藏不住作者才20岁](https://s.weibo.com/weibo?q=%23%E5%81%B7%E5%81%B7%E8%97%8F%E4%B8%8D%E4%BD%8F%E4%BD%9C%E8%80%85%E6%89%8D20%E5%B2%81%23&t=31&band_rank=2&Refer=top)<br />
 3. [夏日中国尽显生态之美](https://s.weibo.com/weibo?q=%23%E5%A4%8F%E6%97%A5%E4%B8%AD%E5%9B%BD%E5%B0%BD%E6%98%BE%E7%94%9F%E6%80%81%E4%B9%8B%E7%BE%8E%23&t=31&band_rank=3&Refer=top)<br />
 4. [炎亚纶崩溃痛哭](https://s.weibo.com/weibo?q=%23%E7%82%8E%E4%BA%9A%E7%BA%B6%E5%B4%A9%E6%BA%83%E7%97%9B%E5%93%AD%23&t=31&band_rank=4&Refer=top)<br />
-5. [赵丽颖张碧晨合体上综艺](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%BC%A0%E7%A2%A7%E6%99%A8%E5%90%88%E4%BD%93%E4%B8%8A%E7%BB%BC%E8%89%BA%23&t=31&band_rank=5&Refer=top)<br />
-6. [肖战 蒙牛](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%20%E8%92%99%E7%89%9B&t=31&band_rank=6&Refer=top)<br />
+5. [肖战 蒙牛](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%20%E8%92%99%E7%89%9B&t=31&band_rank=5&Refer=top)<br />
+6. [赵丽颖张碧晨合体上综艺](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%BC%A0%E7%A2%A7%E6%99%A8%E5%90%88%E4%BD%93%E4%B8%8A%E7%BB%BC%E8%89%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [海南无名男尸是贪污受贿在逃19年嫌犯](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%8D%97%E6%97%A0%E5%90%8D%E7%94%B7%E5%B0%B8%E6%98%AF%E8%B4%AA%E6%B1%A1%E5%8F%97%E8%B4%BF%E5%9C%A8%E9%80%8319%E5%B9%B4%E5%AB%8C%E7%8A%AF%23&t=31&band_rank=7&Refer=top)<br />
-8. [中山大学录取通知书内有云南普洱茶](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B1%B1%E5%A4%A7%E5%AD%A6%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E5%86%85%E6%9C%89%E4%BA%91%E5%8D%97%E6%99%AE%E6%B4%B1%E8%8C%B6%23&t=31&band_rank=8&Refer=top)<br />
-9. [炎亚纶现身邱耀乐记者会](https://s.weibo.com/weibo?q=%23%E7%82%8E%E4%BA%9A%E7%BA%B6%E7%8E%B0%E8%BA%AB%E9%82%B1%E8%80%80%E4%B9%90%E8%AE%B0%E8%80%85%E4%BC%9A%23&t=31&band_rank=9&Refer=top)<br />
+8. [女子房门被封事件堵门邻居已离世](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%88%BF%E9%97%A8%E8%A2%AB%E5%B0%81%E4%BA%8B%E4%BB%B6%E5%A0%B5%E9%97%A8%E9%82%BB%E5%B1%85%E5%B7%B2%E7%A6%BB%E4%B8%96%23&t=31&band_rank=8&Refer=top)<br />
+9. [中山大学录取通知书内有云南普洱茶](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B1%B1%E5%A4%A7%E5%AD%A6%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E5%86%85%E6%9C%89%E4%BA%91%E5%8D%97%E6%99%AE%E6%B4%B1%E8%8C%B6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -32,9 +32,9 @@
 4. [他们是战巡南海绕岛巡航的空中铁拳](https://www.baidu.com/s?wd=%E4%BB%96%E4%BB%AC%E6%98%AF%E6%88%98%E5%B7%A1%E5%8D%97%E6%B5%B7%E7%BB%95%E5%B2%9B%E5%B7%A1%E8%88%AA%E7%9A%84%E7%A9%BA%E4%B8%AD%E9%93%81%E6%8B%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [A股再现天价离婚！女方拿走34亿](https://www.baidu.com/s?wd=A%E8%82%A1%E5%86%8D%E7%8E%B0%E5%A4%A9%E4%BB%B7%E7%A6%BB%E5%A9%9A%EF%BC%81%E5%A5%B3%E6%96%B9%E6%8B%BF%E8%B5%B034%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [#炎亚纶向邱耀乐鞠躬道歉 哭求原谅#](https://www.baidu.com/s?wd=%E7%82%8E%E4%BA%9A%E7%BA%B6%E5%90%91%E9%82%B1%E8%80%80%E4%B9%90%E9%9E%A0%E8%BA%AC%E9%81%93%E6%AD%89+%E7%97%9B%E5%93%AD%E6%B1%82%E5%8E%9F%E8%B0%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [陈建斌多巴胺穿搭](https://www.baidu.com/s?wd=%E9%99%88%E5%BB%BA%E6%96%8C%E5%A4%9A%E5%B7%B4%E8%83%BA%E7%A9%BF%E6%90%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [5亿身家高中生坠亡案侦结：假结婚](https://www.baidu.com/s?wd=5%E4%BA%BF%E8%BA%AB%E5%AE%B6%E9%AB%98%E4%B8%AD%E7%94%9F%E5%9D%A0%E4%BA%A1%E6%A1%88%E4%BE%A6%E7%BB%93%EF%BC%9A%E5%81%87%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [全民星选AI科技创想季](https://www.baidu.com/s?wd=%E5%85%A8%E6%B0%91%E6%98%9F%E9%80%89AI%E7%A7%91%E6%8A%80%E5%88%9B%E6%83%B3%E5%AD%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [邱耀乐：不接受炎亚纶道歉 很没诚意](https://www.baidu.com/s?wd=%E9%82%B1%E8%80%80%E4%B9%90%EF%BC%9A%E4%B8%8D%E6%8E%A5%E5%8F%97%E7%82%8E%E4%BA%9A%E7%BA%B6%E9%81%93%E6%AD%89+%E5%BE%88%E6%B2%A1%E8%AF%9A%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [陈建斌多巴胺穿搭](https://www.baidu.com/s?wd=%E9%99%88%E5%BB%BA%E6%96%8C%E5%A4%9A%E5%B7%B4%E8%83%BA%E7%A9%BF%E6%90%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [他们是战巡南海绕岛巡航的空中铁拳](https://www.baidu.com/s?wd=%E4%BB%96%E4%BB%AC%E6%98%AF%E6%88%98%E5%B7%A1%E5%8D%97%E6%B5%B7%E7%BB%95%E5%B2%9B%E5%B7%A1%E8%88%AA%E7%9A%84%E7%A9%BA%E4%B8%AD%E9%93%81%E6%8B%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [A股再现天价离婚！女方拿走34亿](https://www.baidu.com/s?wd=A%E8%82%A1%E5%86%8D%E7%8E%B0%E5%A4%A9%E4%BB%B7%E7%A6%BB%E5%A9%9A%EF%BC%81%E5%A5%B3%E6%96%B9%E6%8B%BF%E8%B5%B034%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [#炎亚纶向邱耀乐鞠躬道歉 哭求原谅#](https://www.baidu.com/s?wd=%E7%82%8E%E4%BA%9A%E7%BA%B6%E5%90%91%E9%82%B1%E8%80%80%E4%B9%90%E9%9E%A0%E8%BA%AC%E9%81%93%E6%AD%89+%E7%97%9B%E5%93%AD%E6%B1%82%E5%8E%9F%E8%B0%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [陈建斌多巴胺穿搭](https://www.baidu.com/s?wd=%E9%99%88%E5%BB%BA%E6%96%8C%E5%A4%9A%E5%B7%B4%E8%83%BA%E7%A9%BF%E6%90%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [5亿身家高中生坠亡案侦结：假结婚](https://www.baidu.com/s?wd=5%E4%BA%BF%E8%BA%AB%E5%AE%B6%E9%AB%98%E4%B8%AD%E7%94%9F%E5%9D%A0%E4%BA%A1%E6%A1%88%E4%BE%A6%E7%BB%93%EF%BC%9A%E5%81%87%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [全民星选AI科技创想季](https://www.baidu.com/s?wd=%E5%85%A8%E6%B0%91%E6%98%9F%E9%80%89AI%E7%A7%91%E6%8A%80%E5%88%9B%E6%83%B3%E5%AD%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [邱耀乐：不接受炎亚纶道歉 很没诚意](https://www.baidu.com/s?wd=%E9%82%B1%E8%80%80%E4%B9%90%EF%BC%9A%E4%B8%8D%E6%8E%A5%E5%8F%97%E7%82%8E%E4%BA%9A%E7%BA%B6%E9%81%93%E6%AD%89+%E5%BE%88%E6%B2%A1%E8%AF%9A%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [陈建斌多巴胺穿搭](https://www.baidu.com/s?wd=%E9%99%88%E5%BB%BA%E6%96%8C%E5%A4%9A%E5%B7%B4%E8%83%BA%E7%A9%BF%E6%90%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
