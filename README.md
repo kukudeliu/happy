@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 22:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 22:06:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [科目二我考了负725分](https://s.weibo.com/weibo?q=%23%E7%A7%91%E7%9B%AE%E4%BA%8C%E6%88%91%E8%80%83%E4%BA%86%E8%B4%9F725%E5%88%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [我只是gap了一年](https://s.weibo.com/weibo?q=%E6%88%91%E5%8F%AA%E6%98%AFgap%E4%BA%86%E4%B8%80%E5%B9%B4&t=31&band_rank=6&Refer=top)<br />
 7. [陈建斌的命也是命](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BB%BA%E6%96%8C%E7%9A%84%E5%91%BD%E4%B9%9F%E6%98%AF%E5%91%BD%23&t=31&band_rank=7&Refer=top)<br />
-8. [江浙沪已婚女士的共同点](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E6%B5%99%E6%B2%AA%E5%B7%B2%E5%A9%9A%E5%A5%B3%E5%A3%AB%E7%9A%84%E5%85%B1%E5%90%8C%E7%82%B9%23&t=31&band_rank=8&Refer=top)<br />
-9. [四川大学称张某保研不违规](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E7%A7%B0%E5%BC%A0%E6%9F%90%E4%BF%9D%E7%A0%94%E4%B8%8D%E8%BF%9D%E8%A7%84%23&t=31&band_rank=9&Refer=top)<br />
+8. [四川大学称张某保研不违规](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E7%A7%B0%E5%BC%A0%E6%9F%90%E4%BF%9D%E7%A0%94%E4%B8%8D%E8%BF%9D%E8%A7%84%23&t=31&band_rank=8&Refer=top)<br />
+9. [江浙沪已婚女士的共同点](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E6%B5%99%E6%B2%AA%E5%B7%B2%E5%A9%9A%E5%A5%B3%E5%A3%AB%E7%9A%84%E5%85%B1%E5%90%8C%E7%82%B9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -27,23 +27,23 @@
 > 百度  
 
 1. [端午假期将至 收好这份安全出行提示](https://www.baidu.com/s?wd=%E7%AB%AF%E5%8D%88%E5%81%87%E6%9C%9F%E5%B0%86%E8%87%B3+%E6%94%B6%E5%A5%BD%E8%BF%99%E4%BB%BD%E5%AE%89%E5%85%A8%E5%87%BA%E8%A1%8C%E6%8F%90%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [媒体：冲场拥抱梅西小伙已获释](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E5%86%B2%E5%9C%BA%E6%8B%A5%E6%8A%B1%E6%A2%85%E8%A5%BF%E5%B0%8F%E4%BC%99%E5%B7%B2%E8%8E%B7%E9%87%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [男生中考874分说考得还可以](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E4%B8%AD%E8%80%83874%E5%88%86%E8%AF%B4%E8%80%83%E5%BE%97%E8%BF%98%E5%8F%AF%E4%BB%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [女生污蔑大叔偷拍被留校留党察看](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E6%B1%A1%E8%94%91%E5%A4%A7%E5%8F%94%E5%81%B7%E6%8B%8D%E8%A2%AB%E7%95%99%E6%A0%A1%E7%95%99%E5%85%9A%E5%AF%9F%E7%9C%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全国铁路7月1日起实行新列车运行图](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E9%93%81%E8%B7%AF7%E6%9C%881%E6%97%A5%E8%B5%B7%E5%AE%9E%E8%A1%8C%E6%96%B0%E5%88%97%E8%BD%A6%E8%BF%90%E8%A1%8C%E5%9B%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [局长回应被举报与他人有不正当关系](https://www.baidu.com/s?wd=%E5%B1%80%E9%95%BF%E5%9B%9E%E5%BA%94%E8%A2%AB%E4%B8%BE%E6%8A%A5%E4%B8%8E%E4%BB%96%E4%BA%BA%E6%9C%89%E4%B8%8D%E6%AD%A3%E5%BD%93%E5%85%B3%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大熊猫鑫鑫顺利产子画面公布](https://www.baidu.com/s?wd=%E5%A4%A7%E7%86%8A%E7%8C%AB%E9%91%AB%E9%91%AB%E9%A1%BA%E5%88%A9%E4%BA%A7%E5%AD%90%E7%94%BB%E9%9D%A2%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [都是谁在买8349元一盒的粽子](https://www.baidu.com/s?wd=%E9%83%BD%E6%98%AF%E8%B0%81%E5%9C%A8%E4%B9%B08349%E5%85%83%E4%B8%80%E7%9B%92%E7%9A%84%E7%B2%BD%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男生中考874分说考得还可以](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E4%B8%AD%E8%80%83874%E5%88%86%E8%AF%B4%E8%80%83%E5%BE%97%E8%BF%98%E5%8F%AF%E4%BB%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [曝汪小菲连夜赴台接娃](https://www.baidu.com/s?wd=%E6%9B%9D%E6%B1%AA%E5%B0%8F%E8%8F%B2%E8%BF%9E%E5%A4%9C%E8%B5%B4%E5%8F%B0%E6%8E%A5%E5%A8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [曝汪小菲连夜赴台接娃](https://www.baidu.com/s?wd=%E6%9B%9D%E6%B1%AA%E5%B0%8F%E8%8F%B2%E8%BF%9E%E5%A4%9C%E8%B5%B4%E5%8F%B0%E6%8E%A5%E5%A8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [张颂文杀青后向粉丝鞠躬](https://www.baidu.com/s?wd=%E5%BC%A0%E9%A2%82%E6%96%87%E6%9D%80%E9%9D%92%E5%90%8E%E5%90%91%E7%B2%89%E4%B8%9D%E9%9E%A0%E8%BA%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [端午假期将至 收好这份安全出行提示](https://www.baidu.com/s?wd=%E7%AB%AF%E5%8D%88%E5%81%87%E6%9C%9F%E5%B0%86%E8%87%B3+%E6%94%B6%E5%A5%BD%E8%BF%99%E4%BB%BD%E5%AE%89%E5%85%A8%E5%87%BA%E8%A1%8C%E6%8F%90%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [媒体：冲场拥抱梅西小伙已获释](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E5%86%B2%E5%9C%BA%E6%8B%A5%E6%8A%B1%E6%A2%85%E8%A5%BF%E5%B0%8F%E4%BC%99%E5%B7%B2%E8%8E%B7%E9%87%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [男生中考874分说考得还可以](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E4%B8%AD%E8%80%83874%E5%88%86%E8%AF%B4%E8%80%83%E5%BE%97%E8%BF%98%E5%8F%AF%E4%BB%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [女生污蔑大叔偷拍被留校留党察看](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E6%B1%A1%E8%94%91%E5%A4%A7%E5%8F%94%E5%81%B7%E6%8B%8D%E8%A2%AB%E7%95%99%E6%A0%A1%E7%95%99%E5%85%9A%E5%AF%9F%E7%9C%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全国铁路7月1日起实行新列车运行图](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E9%93%81%E8%B7%AF7%E6%9C%881%E6%97%A5%E8%B5%B7%E5%AE%9E%E8%A1%8C%E6%96%B0%E5%88%97%E8%BD%A6%E8%BF%90%E8%A1%8C%E5%9B%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [局长回应被举报与他人有不正当关系](https://www.baidu.com/s?wd=%E5%B1%80%E9%95%BF%E5%9B%9E%E5%BA%94%E8%A2%AB%E4%B8%BE%E6%8A%A5%E4%B8%8E%E4%BB%96%E4%BA%BA%E6%9C%89%E4%B8%8D%E6%AD%A3%E5%BD%93%E5%85%B3%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大熊猫鑫鑫顺利产子画面公布](https://www.baidu.com/s?wd=%E5%A4%A7%E7%86%8A%E7%8C%AB%E9%91%AB%E9%91%AB%E9%A1%BA%E5%88%A9%E4%BA%A7%E5%AD%90%E7%94%BB%E9%9D%A2%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [都是谁在买8349元一盒的粽子](https://www.baidu.com/s?wd=%E9%83%BD%E6%98%AF%E8%B0%81%E5%9C%A8%E4%B9%B08349%E5%85%83%E4%B8%80%E7%9B%92%E7%9A%84%E7%B2%BD%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男生中考874分说考得还可以](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E4%B8%AD%E8%80%83874%E5%88%86%E8%AF%B4%E8%80%83%E5%BE%97%E8%BF%98%E5%8F%AF%E4%BB%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [曝汪小菲连夜赴台接娃](https://www.baidu.com/s?wd=%E6%9B%9D%E6%B1%AA%E5%B0%8F%E8%8F%B2%E8%BF%9E%E5%A4%9C%E8%B5%B4%E5%8F%B0%E6%8E%A5%E5%A8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [曝汪小菲连夜赴台接娃](https://www.baidu.com/s?wd=%E6%9B%9D%E6%B1%AA%E5%B0%8F%E8%8F%B2%E8%BF%9E%E5%A4%9C%E8%B5%B4%E5%8F%B0%E6%8E%A5%E5%A8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [张颂文杀青后向粉丝鞠躬](https://www.baidu.com/s?wd=%E5%BC%A0%E9%A2%82%E6%96%87%E6%9D%80%E9%9D%92%E5%90%8E%E5%90%91%E7%B2%89%E4%B8%9D%E9%9E%A0%E8%BA%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
