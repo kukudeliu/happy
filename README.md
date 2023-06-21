@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 01:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 01:54:01</h4></div>
 
 > 微博  
 
@@ -31,10 +31,10 @@
 3. [自曝被性侵女子：女生谨慎独自出国](https://www.baidu.com/s?wd=%E8%87%AA%E6%9B%9D%E8%A2%AB%E6%80%A7%E4%BE%B5%E5%A5%B3%E5%AD%90%EF%BC%9A%E5%A5%B3%E7%94%9F%E8%B0%A8%E6%85%8E%E7%8B%AC%E8%87%AA%E5%87%BA%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“上天入海” 这些重大项目频传捷报](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%8A%E5%A4%A9%E5%85%A5%E6%B5%B7%E2%80%9D+%E8%BF%99%E4%BA%9B%E9%87%8D%E5%A4%A7%E9%A1%B9%E7%9B%AE%E9%A2%91%E4%BC%A0%E6%8D%B7%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [普京：萨尔马特导弹将进入战斗值勤](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E8%90%A8%E5%B0%94%E9%A9%AC%E7%89%B9%E5%AF%BC%E5%BC%B9%E5%B0%86%E8%BF%9B%E5%85%A5%E6%88%98%E6%96%97%E5%80%BC%E5%8B%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [邓亚萍拒绝158元一斤的车厘子](https://www.baidu.com/s?wd=%E9%82%93%E4%BA%9A%E8%90%8D%E6%8B%92%E7%BB%9D158%E5%85%83%E4%B8%80%E6%96%A4%E7%9A%84%E8%BD%A6%E5%8E%98%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [四川一车辆冲卡 警察开枪示警](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E8%BD%A6%E8%BE%86%E5%86%B2%E5%8D%A1+%E8%AD%A6%E5%AF%9F%E5%BC%80%E6%9E%AA%E7%A4%BA%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [美海洋专家：失踪潜艇或已“内爆”](https://www.baidu.com/s?wd=%E7%BE%8E%E6%B5%B7%E6%B4%8B%E4%B8%93%E5%AE%B6%EF%BC%9A%E5%A4%B1%E8%B8%AA%E6%BD%9C%E8%89%87%E6%88%96%E5%B7%B2%E2%80%9C%E5%86%85%E7%88%86%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [4位富豪因AI暴赚10000亿](https://www.baidu.com/s?wd=4%E4%BD%8D%E5%AF%8C%E8%B1%AA%E5%9B%A0AI%E6%9A%B4%E8%B5%9A10000%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [鼠头事件引高校餐饮圈震荡](https://www.baidu.com/s?wd=%E9%BC%A0%E5%A4%B4%E4%BA%8B%E4%BB%B6%E5%BC%95%E9%AB%98%E6%A0%A1%E9%A4%90%E9%A5%AE%E5%9C%88%E9%9C%87%E8%8D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [美国一孕妇被2岁儿子开枪打死](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%80%E5%AD%95%E5%A6%87%E8%A2%AB2%E5%B2%81%E5%84%BF%E5%AD%90%E5%BC%80%E6%9E%AA%E6%89%93%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [邓亚萍拒绝158元一斤的车厘子](https://www.baidu.com/s?wd=%E9%82%93%E4%BA%9A%E8%90%8D%E6%8B%92%E7%BB%9D158%E5%85%83%E4%B8%80%E6%96%A4%E7%9A%84%E8%BD%A6%E5%8E%98%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [美海洋专家：失踪潜艇或已“内爆”](https://www.baidu.com/s?wd=%E7%BE%8E%E6%B5%B7%E6%B4%8B%E4%B8%93%E5%AE%B6%EF%BC%9A%E5%A4%B1%E8%B8%AA%E6%BD%9C%E8%89%87%E6%88%96%E5%B7%B2%E2%80%9C%E5%86%85%E7%88%86%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [自曝被性侵女子：女生谨慎独自出国](https://www.baidu.com/s?wd=%E8%87%AA%E6%9B%9D%E8%A2%AB%E6%80%A7%E4%BE%B5%E5%A5%B3%E5%AD%90%EF%BC%9A%E5%A5%B3%E7%94%9F%E8%B0%A8%E6%85%8E%E7%8B%AC%E8%87%AA%E5%87%BA%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“上天入海” 这些重大项目频传捷报](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%8A%E5%A4%A9%E5%85%A5%E6%B5%B7%E2%80%9D+%E8%BF%99%E4%BA%9B%E9%87%8D%E5%A4%A7%E9%A1%B9%E7%9B%AE%E9%A2%91%E4%BC%A0%E6%8D%B7%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [普京：萨尔马特导弹将进入战斗值勤](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E8%90%A8%E5%B0%94%E9%A9%AC%E7%89%B9%E5%AF%BC%E5%BC%B9%E5%B0%86%E8%BF%9B%E5%85%A5%E6%88%98%E6%96%97%E5%80%BC%E5%8B%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [邓亚萍拒绝158元一斤的车厘子](https://www.baidu.com/s?wd=%E9%82%93%E4%BA%9A%E8%90%8D%E6%8B%92%E7%BB%9D158%E5%85%83%E4%B8%80%E6%96%A4%E7%9A%84%E8%BD%A6%E5%8E%98%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [四川一车辆冲卡 警察开枪示警](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E8%BD%A6%E8%BE%86%E5%86%B2%E5%8D%A1+%E8%AD%A6%E5%AF%9F%E5%BC%80%E6%9E%AA%E7%A4%BA%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [美海洋专家：失踪潜艇或已“内爆”](https://www.baidu.com/s?wd=%E7%BE%8E%E6%B5%B7%E6%B4%8B%E4%B8%93%E5%AE%B6%EF%BC%9A%E5%A4%B1%E8%B8%AA%E6%BD%9C%E8%89%87%E6%88%96%E5%B7%B2%E2%80%9C%E5%86%85%E7%88%86%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [4位富豪因AI暴赚10000亿](https://www.baidu.com/s?wd=4%E4%BD%8D%E5%AF%8C%E8%B1%AA%E5%9B%A0AI%E6%9A%B4%E8%B5%9A10000%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [鼠头事件引高校餐饮圈震荡](https://www.baidu.com/s?wd=%E9%BC%A0%E5%A4%B4%E4%BA%8B%E4%BB%B6%E5%BC%95%E9%AB%98%E6%A0%A1%E9%A4%90%E9%A5%AE%E5%9C%88%E9%9C%87%E8%8D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [美国一孕妇被2岁儿子开枪打死](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%80%E5%AD%95%E5%A6%87%E8%A2%AB2%E5%B2%81%E5%84%BF%E5%AD%90%E5%BC%80%E6%9E%AA%E6%89%93%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [邓亚萍拒绝158元一斤的车厘子](https://www.baidu.com/s?wd=%E9%82%93%E4%BA%9A%E8%90%8D%E6%8B%92%E7%BB%9D158%E5%85%83%E4%B8%80%E6%96%A4%E7%9A%84%E8%BD%A6%E5%8E%98%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [美海洋专家：失踪潜艇或已“内爆”](https://www.baidu.com/s?wd=%E7%BE%8E%E6%B5%B7%E6%B4%8B%E4%B8%93%E5%AE%B6%EF%BC%9A%E5%A4%B1%E8%B8%AA%E6%BD%9C%E8%89%87%E6%88%96%E5%B7%B2%E2%80%9C%E5%86%85%E7%88%86%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
