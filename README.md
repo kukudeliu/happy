@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 21:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 21:09:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [布林肯访华承诺如何落实？美方回应](https://www.baidu.com/s?wd=%E5%B8%83%E6%9E%97%E8%82%AF%E8%AE%BF%E5%8D%8E%E6%89%BF%E8%AF%BA%E5%A6%82%E4%BD%95%E8%90%BD%E5%AE%9E%EF%BC%9F%E7%BE%8E%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [美国一孕妇被2岁儿子开枪打死](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%80%E5%AD%95%E5%A6%87%E8%A2%AB2%E5%B2%81%E5%84%BF%E5%AD%90%E5%BC%80%E6%9E%AA%E6%89%93%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男生中考874分说考得还可以](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E4%B8%AD%E8%80%83874%E5%88%86%E8%AF%B4%E8%80%83%E5%BE%97%E8%BF%98%E5%8F%AF%E4%BB%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [曹云金巡演首场票一秒钟售罄](https://www.baidu.com/s?wd=%E6%9B%B9%E4%BA%91%E9%87%91%E5%B7%A1%E6%BC%94%E9%A6%96%E5%9C%BA%E7%A5%A8%E4%B8%80%E7%A7%92%E9%92%9F%E5%94%AE%E7%BD%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [印度18岁少女和男友遭荣誉处决](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A618%E5%B2%81%E5%B0%91%E5%A5%B3%E5%92%8C%E7%94%B7%E5%8F%8B%E9%81%AD%E8%8D%A3%E8%AA%89%E5%A4%84%E5%86%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [鼠头事件引高校餐饮圈震荡](https://www.baidu.com/s?wd=%E9%BC%A0%E5%A4%B4%E4%BA%8B%E4%BB%B6%E5%BC%95%E9%AB%98%E6%A0%A1%E9%A4%90%E9%A5%AE%E5%9C%88%E9%9C%87%E8%8D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [曹云金巡演首场票一秒钟售罄](https://www.baidu.com/s?wd=%E6%9B%B9%E4%BA%91%E9%87%91%E5%B7%A1%E6%BC%94%E9%A6%96%E5%9C%BA%E7%A5%A8%E4%B8%80%E7%A7%92%E9%92%9F%E5%94%AE%E7%BD%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [布林肯访华承诺如何落实？美方回应](https://www.baidu.com/s?wd=%E5%B8%83%E6%9E%97%E8%82%AF%E8%AE%BF%E5%8D%8E%E6%89%BF%E8%AF%BA%E5%A6%82%E4%BD%95%E8%90%BD%E5%AE%9E%EF%BC%9F%E7%BE%8E%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [美国一孕妇被2岁儿子开枪打死](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%80%E5%AD%95%E5%A6%87%E8%A2%AB2%E5%B2%81%E5%84%BF%E5%AD%90%E5%BC%80%E6%9E%AA%E6%89%93%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男生中考874分说考得还可以](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E4%B8%AD%E8%80%83874%E5%88%86%E8%AF%B4%E8%80%83%E5%BE%97%E8%BF%98%E5%8F%AF%E4%BB%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [曹云金巡演首场票一秒钟售罄](https://www.baidu.com/s?wd=%E6%9B%B9%E4%BA%91%E9%87%91%E5%B7%A1%E6%BC%94%E9%A6%96%E5%9C%BA%E7%A5%A8%E4%B8%80%E7%A7%92%E9%92%9F%E5%94%AE%E7%BD%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [印度18岁少女和男友遭荣誉处决](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A618%E5%B2%81%E5%B0%91%E5%A5%B3%E5%92%8C%E7%94%B7%E5%8F%8B%E9%81%AD%E8%8D%A3%E8%AA%89%E5%A4%84%E5%86%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [鼠头事件引高校餐饮圈震荡](https://www.baidu.com/s?wd=%E9%BC%A0%E5%A4%B4%E4%BA%8B%E4%BB%B6%E5%BC%95%E9%AB%98%E6%A0%A1%E9%A4%90%E9%A5%AE%E5%9C%88%E9%9C%87%E8%8D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [曹云金巡演首场票一秒钟售罄](https://www.baidu.com/s?wd=%E6%9B%B9%E4%BA%91%E9%87%91%E5%B7%A1%E6%BC%94%E9%A6%96%E5%9C%BA%E7%A5%A8%E4%B8%80%E7%A7%92%E9%92%9F%E5%94%AE%E7%BD%84&sa=fyb_news&rsv_dl=fyb_news)<br />
