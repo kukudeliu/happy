@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 12:24:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 12:25:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [老太神色慌张开房 酒店经理立即报警](https://www.baidu.com/s?wd=%E9%85%92%E5%BA%97%E7%BB%8F%E7%90%86%E8%A7%81%E8%80%81%E5%A4%AA%E5%BC%80%E6%88%BF%E7%A5%9E%E8%89%B2%E6%85%8C%E5%BC%A0%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子偷两条马路卖钱 警方：稀罕](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%B7%E4%B8%A4%E6%9D%A1%E9%A9%AC%E8%B7%AF%E5%8D%96%E9%92%B1+%E8%AD%A6%E6%96%B9%EF%BC%9A%E7%A8%80%E7%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [全民星选AI科技创想季](https://www.baidu.com/s?wd=%E5%85%A8%E6%B0%91%E6%98%9F%E9%80%89AI%E7%A7%91%E6%8A%80%E5%88%9B%E6%83%B3%E5%AD%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [陈建斌多巴胺穿搭](https://www.baidu.com/s?wd=%E9%99%88%E5%BB%BA%E6%96%8C%E5%A4%9A%E5%B7%B4%E8%83%BA%E7%A9%BF%E6%90%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [炎亚纶事件当事人开记者会](https://www.baidu.com/s?wd=%E7%82%8E%E4%BA%9A%E7%BA%B6%E4%BA%8B%E4%BB%B6%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%BC%80%E8%AE%B0%E8%80%85%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [老太神色慌张开房 酒店经理立即报警](https://www.baidu.com/s?wd=%E9%85%92%E5%BA%97%E7%BB%8F%E7%90%86%E8%A7%81%E8%80%81%E5%A4%AA%E5%BC%80%E6%88%BF%E7%A5%9E%E8%89%B2%E6%85%8C%E5%BC%A0%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子偷两条马路卖钱 警方：稀罕](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%B7%E4%B8%A4%E6%9D%A1%E9%A9%AC%E8%B7%AF%E5%8D%96%E9%92%B1+%E8%AD%A6%E6%96%B9%EF%BC%9A%E7%A8%80%E7%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [全民星选AI科技创想季](https://www.baidu.com/s?wd=%E5%85%A8%E6%B0%91%E6%98%9F%E9%80%89AI%E7%A7%91%E6%8A%80%E5%88%9B%E6%83%B3%E5%AD%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [陈建斌多巴胺穿搭](https://www.baidu.com/s?wd=%E9%99%88%E5%BB%BA%E6%96%8C%E5%A4%9A%E5%B7%B4%E8%83%BA%E7%A9%BF%E6%90%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [炎亚纶事件当事人开记者会](https://www.baidu.com/s?wd=%E7%82%8E%E4%BA%9A%E7%BA%B6%E4%BA%8B%E4%BB%B6%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%BC%80%E8%AE%B0%E8%80%85%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
