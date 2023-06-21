@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 22:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 22:49:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [女子将农药倒入父亲止咳糖浆瓶内](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B0%86%E5%86%9C%E8%8D%AF%E5%80%92%E5%85%A5%E7%88%B6%E4%BA%B2%E6%AD%A2%E5%92%B3%E7%B3%96%E6%B5%86%E7%93%B6%E5%86%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [都是谁在买8349元一盒的粽子](https://www.baidu.com/s?wd=%E9%83%BD%E6%98%AF%E8%B0%81%E5%9C%A8%E4%B9%B08349%E5%85%83%E4%B8%80%E7%9B%92%E7%9A%84%E7%B2%BD%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女子喊3遍拔针护士打游戏不理会](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%96%8A3%E9%81%8D%E6%8B%94%E9%92%88%E6%8A%A4%E5%A3%AB%E6%89%93%E6%B8%B8%E6%88%8F%E4%B8%8D%E7%90%86%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [台湾艺人NONO回应性骚扰：停工反省](https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E8%89%BA%E4%BA%BANONO%E5%9B%9E%E5%BA%94%E6%80%A7%E9%AA%9A%E6%89%B0%EF%BC%9A%E5%81%9C%E5%B7%A5%E5%8F%8D%E7%9C%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [遭家暴男子已和妻子和解](https://www.baidu.com/s?wd=%E9%81%AD%E5%AE%B6%E6%9A%B4%E7%94%B7%E5%AD%90%E5%B7%B2%E5%92%8C%E5%A6%BB%E5%AD%90%E5%92%8C%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [女子将农药倒入父亲止咳糖浆瓶内](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B0%86%E5%86%9C%E8%8D%AF%E5%80%92%E5%85%A5%E7%88%B6%E4%BA%B2%E6%AD%A2%E5%92%B3%E7%B3%96%E6%B5%86%E7%93%B6%E5%86%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [都是谁在买8349元一盒的粽子](https://www.baidu.com/s?wd=%E9%83%BD%E6%98%AF%E8%B0%81%E5%9C%A8%E4%B9%B08349%E5%85%83%E4%B8%80%E7%9B%92%E7%9A%84%E7%B2%BD%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女子喊3遍拔针护士打游戏不理会](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%96%8A3%E9%81%8D%E6%8B%94%E9%92%88%E6%8A%A4%E5%A3%AB%E6%89%93%E6%B8%B8%E6%88%8F%E4%B8%8D%E7%90%86%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [台湾艺人NONO回应性骚扰：停工反省](https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E8%89%BA%E4%BA%BANONO%E5%9B%9E%E5%BA%94%E6%80%A7%E9%AA%9A%E6%89%B0%EF%BC%9A%E5%81%9C%E5%B7%A5%E5%8F%8D%E7%9C%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [遭家暴男子已和妻子和解](https://www.baidu.com/s?wd=%E9%81%AD%E5%AE%B6%E6%9A%B4%E7%94%B7%E5%AD%90%E5%B7%B2%E5%92%8C%E5%A6%BB%E5%AD%90%E5%92%8C%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
