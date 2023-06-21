@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 08:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 08:48:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [萧煌奇](https://s.weibo.com/weibo?q=%E8%90%A7%E7%85%8C%E5%A5%87&t=31&band_rank=5&Refer=top)<br />
 6. [关闭朋友圈半年后的变化](https://s.weibo.com/weibo?q=%23%E5%85%B3%E9%97%AD%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%8D%8A%E5%B9%B4%E5%90%8E%E7%9A%84%E5%8F%98%E5%8C%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [种地吧 根本补不完](https://s.weibo.com/weibo?q=%E7%A7%8D%E5%9C%B0%E5%90%A7%20%E6%A0%B9%E6%9C%AC%E8%A1%A5%E4%B8%8D%E5%AE%8C&t=31&band_rank=7&Refer=top)<br />
-8. [一席之地 冠军](https://s.weibo.com/weibo?q=%E4%B8%80%E5%B8%AD%E4%B9%8B%E5%9C%B0%20%E5%86%A0%E5%86%9B&t=31&band_rank=8&Refer=top)<br />
-9. [女生自费30万拍作品拒绝领三等奖](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E8%87%AA%E8%B4%B930%E4%B8%87%E6%8B%8D%E4%BD%9C%E5%93%81%E6%8B%92%E7%BB%9D%E9%A2%86%E4%B8%89%E7%AD%89%E5%A5%96%23&t=31&band_rank=9&Refer=top)<br />
+8. [女生自费30万拍作品拒绝领三等奖](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E8%87%AA%E8%B4%B930%E4%B8%87%E6%8B%8D%E4%BD%9C%E5%93%81%E6%8B%92%E7%BB%9D%E9%A2%86%E4%B8%89%E7%AD%89%E5%A5%96%23&t=31&band_rank=8&Refer=top)<br />
+9. [一席之地 冠军](https://s.weibo.com/weibo?q=%E4%B8%80%E5%B8%AD%E4%B9%8B%E5%9C%B0%20%E5%86%A0%E5%86%9B&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -34,7 +34,7 @@
 6. [观光潜艇失联 将是史上最深深海救援](https://www.baidu.com/s?wd=%E8%A7%82%E5%85%89%E6%BD%9C%E8%89%87%E5%A4%B1%E8%81%94+%E5%B0%86%E6%98%AF%E5%8F%B2%E4%B8%8A%E6%9C%80%E6%B7%B1%E6%B7%B1%E6%B5%B7%E6%95%91%E6%8F%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [张勇请马云喝咖啡：记我账上](https://www.baidu.com/s?wd=%E5%BC%A0%E5%8B%87%E8%AF%B7%E9%A9%AC%E4%BA%91%E5%96%9D%E5%92%96%E5%95%A1%EF%BC%9A%E8%AE%B0%E6%88%91%E8%B4%A6%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女子称术后纱布被留体内26天](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E6%9C%AF%E5%90%8E%E7%BA%B1%E5%B8%83%E8%A2%AB%E7%95%99%E4%BD%93%E5%86%8526%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [陕西一官员坠楼身亡 官方：工伤意外](https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF%E4%B8%80%E5%AE%98%E5%91%98%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1+%E5%AE%98%E6%96%B9%EF%BC%9A%E5%B7%A5%E4%BC%A4%E6%84%8F%E5%A4%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [张艺兴演唱会票价高达2580元](https://www.baidu.com/s?wd=%E5%BC%A0%E8%89%BA%E5%85%B4%E6%BC%94%E5%94%B1%E4%BC%9A%E7%A5%A8%E4%BB%B7%E9%AB%98%E8%BE%BE2580%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [观光潜艇失联 将是史上最深深海救援](https://www.baidu.com/s?wd=%E8%A7%82%E5%85%89%E6%BD%9C%E8%89%87%E5%A4%B1%E8%81%94+%E5%B0%86%E6%98%AF%E5%8F%B2%E4%B8%8A%E6%9C%80%E6%B7%B1%E6%B7%B1%E6%B5%B7%E6%95%91%E6%8F%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [张勇请马云喝咖啡：记我账上](https://www.baidu.com/s?wd=%E5%BC%A0%E5%8B%87%E8%AF%B7%E9%A9%AC%E4%BA%91%E5%96%9D%E5%92%96%E5%95%A1%EF%BC%9A%E8%AE%B0%E6%88%91%E8%B4%A6%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女子称术后纱布被留体内26天](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E6%9C%AF%E5%90%8E%E7%BA%B1%E5%B8%83%E8%A2%AB%E7%95%99%E4%BD%93%E5%86%8526%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [陕西一官员坠楼身亡 官方：工伤意外](https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF%E4%B8%80%E5%AE%98%E5%91%98%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1+%E5%AE%98%E6%96%B9%EF%BC%9A%E5%B7%A5%E4%BC%A4%E6%84%8F%E5%A4%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [张艺兴演唱会票价高达2580元](https://www.baidu.com/s?wd=%E5%BC%A0%E8%89%BA%E5%85%B4%E6%BC%94%E5%94%B1%E4%BC%9A%E7%A5%A8%E4%BB%B7%E9%AB%98%E8%BE%BE2580%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
