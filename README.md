@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 00:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 00:48:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [炎亚纶心理素质](https://s.weibo.com/weibo?q=%23%E7%82%8E%E4%BA%9A%E7%BA%B6%E5%BF%83%E7%90%86%E7%B4%A0%E8%B4%A8%23&t=31&band_rank=6&Refer=top)<br />
 7. [马里奥](https://s.weibo.com/weibo?q=%E9%A9%AC%E9%87%8C%E5%A5%A5&t=31&band_rank=7&Refer=top)<br />
 8. [zb1首日0中输](https://s.weibo.com/weibo?q=%23zb1%E9%A6%96%E6%97%A50%E4%B8%AD%E8%BE%93%23&t=31&band_rank=8&Refer=top)<br />
-9. [消失的她](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9&t=31&band_rank=9&Refer=top)<br />
+9. [马伯骞到底演戏还是说唱啊](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%BC%AF%E9%AA%9E%E5%88%B0%E5%BA%95%E6%BC%94%E6%88%8F%E8%BF%98%E6%98%AF%E8%AF%B4%E5%94%B1%E5%95%8A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
