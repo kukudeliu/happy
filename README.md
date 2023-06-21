@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 11:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 11:47:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [何炅黄磊这一集更难向外网解释了吧](https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%E9%BB%84%E7%A3%8A%E8%BF%99%E4%B8%80%E9%9B%86%E6%9B%B4%E9%9A%BE%E5%90%91%E5%A4%96%E7%BD%91%E8%A7%A3%E9%87%8A%E4%BA%86%E5%90%A7%23&t=31&band_rank=5&Refer=top)<br />
 6. [12306](https://s.weibo.com/weibo?q=12306&t=31&band_rank=6&Refer=top)<br />
 7. [几十块的婚纱和几万块一样洁白](https://s.weibo.com/weibo?q=%23%E5%87%A0%E5%8D%81%E5%9D%97%E7%9A%84%E5%A9%9A%E7%BA%B1%E5%92%8C%E5%87%A0%E4%B8%87%E5%9D%97%E4%B8%80%E6%A0%B7%E6%B4%81%E7%99%BD%23&t=31&band_rank=7&Refer=top)<br />
-8. [酒店经理见老太开房神色慌张立即报警](https://s.weibo.com/weibo?q=%23%E9%85%92%E5%BA%97%E7%BB%8F%E7%90%86%E8%A7%81%E8%80%81%E5%A4%AA%E5%BC%80%E6%88%BF%E7%A5%9E%E8%89%B2%E6%85%8C%E5%BC%A0%E7%AB%8B%E5%8D%B3%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=8&Refer=top)<br />
-9. [杨和苏 三冠王](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%92%8C%E8%8B%8F%20%E4%B8%89%E5%86%A0%E7%8E%8B&t=31&band_rank=9&Refer=top)<br />
+8. [杨和苏 三冠王](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%92%8C%E8%8B%8F%20%E4%B8%89%E5%86%A0%E7%8E%8B&t=31&band_rank=8&Refer=top)<br />
+9. [优酷2023现偶天花板](https://s.weibo.com/weibo?q=%23%E4%BC%98%E9%85%B72023%E7%8E%B0%E5%81%B6%E5%A4%A9%E8%8A%B1%E6%9D%BF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
