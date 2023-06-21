@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 19:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 19:54:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [全国结婚登记量跌破 700 万对，年轻人反问「为什么要结婚」，低结婚率背后是传统婚姻功能的减弱吗？](https://www.zhihu.com/question/607794507)<br />
 6. [为什么网友不满意《庆余年 2》叶灵儿演员换成金晨？原著中叶灵儿的人设如何？](https://www.zhihu.com/question/607597903)<br />
 7. [围棋规则也没限制棋盘大小吧，为啥不做一个 190×190 的这样 ai 不就赢不了了？](https://www.zhihu.com/question/607265632)<br />
-8. [古时候老虎多到什么程度？](https://www.zhihu.com/question/284091530)<br />
-9. [研究称喜马拉雅冰川或在本世纪末消融 80%，影响亚洲 20 亿人，这意味着什么？对气候、经济有何影响？](https://www.zhihu.com/question/607690075)<br />
+8. [研究称喜马拉雅冰川或在本世纪末消融 80%，影响亚洲 20 亿人，这意味着什么？对气候、经济有何影响？](https://www.zhihu.com/question/607690075)<br />
+9. [想学可控核聚变，高考估分 600，哪个学校好？](https://www.zhihu.com/question/607295338)<br />
 
 > 百度  
 
@@ -32,9 +32,9 @@
 4. [全国铁路7月1日起实行新列车运行图](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E9%93%81%E8%B7%AF7%E6%9C%881%E6%97%A5%E8%B5%B7%E5%AE%9E%E8%A1%8C%E6%96%B0%E5%88%97%E8%BD%A6%E8%BF%90%E8%A1%8C%E5%9B%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子在绿化带内迷路四天三夜](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E7%BB%BF%E5%8C%96%E5%B8%A6%E5%86%85%E8%BF%B7%E8%B7%AF%E5%9B%9B%E5%A4%A9%E4%B8%89%E5%A4%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子喊3遍拔针护士打游戏不理会](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%96%8A3%E9%81%8D%E6%8B%94%E9%92%88%E6%8A%A4%E5%A3%AB%E6%89%93%E6%B8%B8%E6%88%8F%E4%B8%8D%E7%90%86%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [印度18岁少女和男友遭荣誉处决](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A618%E5%B2%81%E5%B0%91%E5%A5%B3%E5%92%8C%E7%94%B7%E5%8F%8B%E9%81%AD%E8%8D%A3%E8%AA%89%E5%A4%84%E5%86%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [拆二代遇房企爆雷：房没了钱也没了](https://www.baidu.com/s?wd=%E6%8B%86%E4%BA%8C%E4%BB%A3%E9%81%87%E6%88%BF%E4%BC%81%E7%88%86%E9%9B%B7%EF%BC%9A%E6%88%BF%E6%B2%A1%E4%BA%86%E9%92%B1%E4%B9%9F%E6%B2%A1%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中国夫妇日本旅游抓683只蟹被捕](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%AB%E5%A6%87%E6%97%A5%E6%9C%AC%E6%97%85%E6%B8%B8%E6%8A%93683%E5%8F%AA%E8%9F%B9%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [拆二代遇房企爆雷：房没了钱也没了](https://www.baidu.com/s?wd=%E6%8B%86%E4%BA%8C%E4%BB%A3%E9%81%87%E6%88%BF%E4%BC%81%E7%88%86%E9%9B%B7%EF%BC%9A%E6%88%BF%E6%B2%A1%E4%BA%86%E9%92%B1%E4%B9%9F%E6%B2%A1%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [印度18岁少女和男友遭荣誉处决](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A618%E5%B2%81%E5%B0%91%E5%A5%B3%E5%92%8C%E7%94%B7%E5%8F%8B%E9%81%AD%E8%8D%A3%E8%AA%89%E5%A4%84%E5%86%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [印度股市市值已成全球第四](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E8%82%A1%E5%B8%82%E5%B8%82%E5%80%BC%E5%B7%B2%E6%88%90%E5%85%A8%E7%90%83%E7%AC%AC%E5%9B%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [全国铁路7月1日起实行新列车运行图](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E9%93%81%E8%B7%AF7%E6%9C%881%E6%97%A5%E8%B5%B7%E5%AE%9E%E8%A1%8C%E6%96%B0%E5%88%97%E8%BD%A6%E8%BF%90%E8%A1%8C%E5%9B%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子在绿化带内迷路四天三夜](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E7%BB%BF%E5%8C%96%E5%B8%A6%E5%86%85%E8%BF%B7%E8%B7%AF%E5%9B%9B%E5%A4%A9%E4%B8%89%E5%A4%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子喊3遍拔针护士打游戏不理会](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%96%8A3%E9%81%8D%E6%8B%94%E9%92%88%E6%8A%A4%E5%A3%AB%E6%89%93%E6%B8%B8%E6%88%8F%E4%B8%8D%E7%90%86%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [印度18岁少女和男友遭荣誉处决](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A618%E5%B2%81%E5%B0%91%E5%A5%B3%E5%92%8C%E7%94%B7%E5%8F%8B%E9%81%AD%E8%8D%A3%E8%AA%89%E5%A4%84%E5%86%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [拆二代遇房企爆雷：房没了钱也没了](https://www.baidu.com/s?wd=%E6%8B%86%E4%BA%8C%E4%BB%A3%E9%81%87%E6%88%BF%E4%BC%81%E7%88%86%E9%9B%B7%EF%BC%9A%E6%88%BF%E6%B2%A1%E4%BA%86%E9%92%B1%E4%B9%9F%E6%B2%A1%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中国夫妇日本旅游抓683只蟹被捕](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%AB%E5%A6%87%E6%97%A5%E6%9C%AC%E6%97%85%E6%B8%B8%E6%8A%93683%E5%8F%AA%E8%9F%B9%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [拆二代遇房企爆雷：房没了钱也没了](https://www.baidu.com/s?wd=%E6%8B%86%E4%BA%8C%E4%BB%A3%E9%81%87%E6%88%BF%E4%BC%81%E7%88%86%E9%9B%B7%EF%BC%9A%E6%88%BF%E6%B2%A1%E4%BA%86%E9%92%B1%E4%B9%9F%E6%B2%A1%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [印度18岁少女和男友遭荣誉处决](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A618%E5%B2%81%E5%B0%91%E5%A5%B3%E5%92%8C%E7%94%B7%E5%8F%8B%E9%81%AD%E8%8D%A3%E8%AA%89%E5%A4%84%E5%86%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [印度股市市值已成全球第四](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E8%82%A1%E5%B8%82%E5%B8%82%E5%80%BC%E5%B7%B2%E6%88%90%E5%85%A8%E7%90%83%E7%AC%AC%E5%9B%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
