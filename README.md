@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 16:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 16:39:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [临死前身体会发生的100种奇怪反应](https://s.weibo.com/weibo?q=%E4%B8%B4%E6%AD%BB%E5%89%8D%E8%BA%AB%E4%BD%93%E4%BC%9A%E5%8F%91%E7%94%9F%E7%9A%84100%E7%A7%8D%E5%A5%87%E6%80%AA%E5%8F%8D%E5%BA%94&t=31&band_rank=5&Refer=top)<br />
 6. [女子对双眼皮手术不满意要求枪毙医生](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%AF%B9%E5%8F%8C%E7%9C%BC%E7%9A%AE%E6%89%8B%E6%9C%AF%E4%B8%8D%E6%BB%A1%E6%84%8F%E8%A6%81%E6%B1%82%E6%9E%AA%E6%AF%99%E5%8C%BB%E7%94%9F%23&t=31&band_rank=6&Refer=top)<br />
 7. [官方通报网传大学生涉嫌卖淫800次](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E7%BD%91%E4%BC%A0%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%B6%89%E5%AB%8C%E5%8D%96%E6%B7%AB800%E6%AC%A1%23&t=31&band_rank=7&Refer=top)<br />
-8. [全国现有吸毒人员112.4万](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E7%8E%B0%E6%9C%89%E5%90%B8%E6%AF%92%E4%BA%BA%E5%91%98112.4%E4%B8%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [青岛1米88大长腿交警回应走红](https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B1%E7%B1%B388%E5%A4%A7%E9%95%BF%E8%85%BF%E4%BA%A4%E8%AD%A6%E5%9B%9E%E5%BA%94%E8%B5%B0%E7%BA%A2%23&t=31&band_rank=9&Refer=top)<br />
+8. [青岛1米88大长腿交警回应走红](https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B1%E7%B1%B388%E5%A4%A7%E9%95%BF%E8%85%BF%E4%BA%A4%E8%AD%A6%E5%9B%9E%E5%BA%94%E8%B5%B0%E7%BA%A2%23&t=31&band_rank=8&Refer=top)<br />
+9. [全国现有吸毒人员112.4万](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E7%8E%B0%E6%9C%89%E5%90%B8%E6%AF%92%E4%BA%BA%E5%91%98112.4%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
