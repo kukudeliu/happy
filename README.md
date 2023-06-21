@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 15:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 15:39:01</h4></div>
 
 > 微博  
 
@@ -15,9 +15,9 @@
 > 知乎  
 
 1. [大陆恢复台湾地区番荔枝输入，台农称「等了 3 年，感动得快要落泪」，哪些信息值得关注？](https://www.zhihu.com/question/607719193)<br />
-2. [如何评价西南大学本科生发表五篇 sci 论文 (第一作者)，毕业典礼上表示希望五年博士毕业后回到母校工作？](https://www.zhihu.com/question/607703486)<br />
+2. [空军航空兵某团飞行二大队获「时代楷模」称号，褒扬他们是「奋飞新时代的空中铁拳」，他们值得学习的点在哪？](https://www.zhihu.com/question/607609756)<br />
 3. [农村抓两只大公鸡，和一只全世界最大品种的蜈蚣放一起打架，能赢吗?](https://www.zhihu.com/question/606826582)<br />
-4. [空军航空兵某团飞行二大队获「时代楷模」称号，褒扬他们是「奋飞新时代的空中铁拳」，他们值得学习的点在哪？](https://www.zhihu.com/question/607609756)<br />
+4. [如何评价西南大学本科生发表五篇 sci 论文 (第一作者)，毕业典礼上表示希望五年博士毕业后回到母校工作？](https://www.zhihu.com/question/607703486)<br />
 5. [女子全款购房后，收房时发现竟被陌生人住，物业称「房子交付前该女子不算业主」，物业需要承担责任吗？](https://www.zhihu.com/question/501548894)<br />
 6. [倪光南院士称「SSD 取代 HDD 时机已经到来」，会给市场造成哪些影响？](https://www.zhihu.com/question/607126650)<br />
 7. [全国结婚登记量跌破 700 万对，年轻人反问「为什么要结婚」，低结婚率背后是传统婚姻功能的减弱吗？](https://www.zhihu.com/question/607794507)<br />
@@ -31,10 +31,10 @@
 3. [失联潜艇搜救：水下传来不明敲击声](https://www.baidu.com/s?wd=%E5%A4%B1%E8%81%94%E6%BD%9C%E8%89%87%E6%90%9C%E6%95%91%EF%BC%9A%E6%B0%B4%E4%B8%8B%E4%BC%A0%E6%9D%A5%E4%B8%8D%E6%98%8E%E6%95%B2%E5%87%BB%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [他们是战巡南海绕岛巡航的空中铁拳](https://www.baidu.com/s?wd=%E4%BB%96%E4%BB%AC%E6%98%AF%E6%88%98%E5%B7%A1%E5%8D%97%E6%B5%B7%E7%BB%95%E5%B2%9B%E5%B7%A1%E8%88%AA%E7%9A%84%E7%A9%BA%E4%B8%AD%E9%93%81%E6%8B%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [台媒：山东舰编队今日通过台湾海峡](https://www.baidu.com/s?wd=%E5%8F%B0%E5%AA%92%EF%BC%9A%E5%B1%B1%E4%B8%9C%E8%88%B0%E7%BC%96%E9%98%9F%E4%BB%8A%E6%97%A5%E9%80%9A%E8%BF%87%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [邱耀乐：不接受炎亚纶道歉 很没诚意](https://www.baidu.com/s?wd=%E9%82%B1%E8%80%80%E4%B9%90%EF%BC%9A%E4%B8%8D%E6%8E%A5%E5%8F%97%E7%82%8E%E4%BA%9A%E7%BA%B6%E9%81%93%E6%AD%89+%E5%BE%88%E6%B2%A1%E8%AF%9A%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [青岛1米88大长腿交警回应走红](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B1%E7%B1%B388%E5%A4%A7%E9%95%BF%E8%85%BF%E4%BA%A4%E8%AD%A6%E5%9B%9E%E5%BA%94%E8%B5%B0%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子不满意双眼皮手术 要求枪毙医生](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%8D%E6%BB%A1%E6%84%8F%E5%8F%8C%E7%9C%BC%E7%9A%AE%E6%89%8B%E6%9C%AF+%E8%A6%81%E6%B1%82%E6%9E%AA%E6%AF%99%E5%8C%BB%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [村支书葬母大操大办致交通拥堵](https://www.baidu.com/s?wd=%E6%9D%91%E6%94%AF%E4%B9%A6%E8%91%AC%E6%AF%8D%E5%A4%A7%E6%93%8D%E5%A4%A7%E5%8A%9E%E8%87%B4%E4%BA%A4%E9%80%9A%E6%8B%A5%E5%A0%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [青岛1米88大长腿交警回应走红](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B1%E7%B1%B388%E5%A4%A7%E9%95%BF%E8%85%BF%E4%BA%A4%E8%AD%A6%E5%9B%9E%E5%BA%94%E8%B5%B0%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子不满意双眼皮手术 要求枪毙医生](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%8D%E6%BB%A1%E6%84%8F%E5%8F%8C%E7%9C%BC%E7%9A%AE%E6%89%8B%E6%9C%AF+%E8%A6%81%E6%B1%82%E6%9E%AA%E6%AF%99%E5%8C%BB%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [村支书葬母大操大办致交通拥堵](https://www.baidu.com/s?wd=%E6%9D%91%E6%94%AF%E4%B9%A6%E8%91%AC%E6%AF%8D%E5%A4%A7%E6%93%8D%E5%A4%A7%E5%8A%9E%E8%87%B4%E4%BA%A4%E9%80%9A%E6%8B%A5%E5%A0%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [萧煌奇摘墨镜自证是盲人](https://www.baidu.com/s?wd=%E8%90%A7%E7%85%8C%E5%A5%87%E6%91%98%E5%A2%A8%E9%95%9C%E8%87%AA%E8%AF%81%E6%98%AF%E7%9B%B2%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [失联潜艇搜救：水下传来不明敲击声](https://www.baidu.com/s?wd=%E5%A4%B1%E8%81%94%E6%BD%9C%E8%89%87%E6%90%9C%E6%95%91%EF%BC%9A%E6%B0%B4%E4%B8%8B%E4%BC%A0%E6%9D%A5%E4%B8%8D%E6%98%8E%E6%95%B2%E5%87%BB%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [他们是战巡南海绕岛巡航的空中铁拳](https://www.baidu.com/s?wd=%E4%BB%96%E4%BB%AC%E6%98%AF%E6%88%98%E5%B7%A1%E5%8D%97%E6%B5%B7%E7%BB%95%E5%B2%9B%E5%B7%A1%E8%88%AA%E7%9A%84%E7%A9%BA%E4%B8%AD%E9%93%81%E6%8B%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [台媒：山东舰编队今日通过台湾海峡](https://www.baidu.com/s?wd=%E5%8F%B0%E5%AA%92%EF%BC%9A%E5%B1%B1%E4%B8%9C%E8%88%B0%E7%BC%96%E9%98%9F%E4%BB%8A%E6%97%A5%E9%80%9A%E8%BF%87%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [邱耀乐：不接受炎亚纶道歉 很没诚意](https://www.baidu.com/s?wd=%E9%82%B1%E8%80%80%E4%B9%90%EF%BC%9A%E4%B8%8D%E6%8E%A5%E5%8F%97%E7%82%8E%E4%BA%9A%E7%BA%B6%E9%81%93%E6%AD%89+%E5%BE%88%E6%B2%A1%E8%AF%9A%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [青岛1米88大长腿交警回应走红](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B1%E7%B1%B388%E5%A4%A7%E9%95%BF%E8%85%BF%E4%BA%A4%E8%AD%A6%E5%9B%9E%E5%BA%94%E8%B5%B0%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子不满意双眼皮手术 要求枪毙医生](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%8D%E6%BB%A1%E6%84%8F%E5%8F%8C%E7%9C%BC%E7%9A%AE%E6%89%8B%E6%9C%AF+%E8%A6%81%E6%B1%82%E6%9E%AA%E6%AF%99%E5%8C%BB%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [村支书葬母大操大办致交通拥堵](https://www.baidu.com/s?wd=%E6%9D%91%E6%94%AF%E4%B9%A6%E8%91%AC%E6%AF%8D%E5%A4%A7%E6%93%8D%E5%A4%A7%E5%8A%9E%E8%87%B4%E4%BA%A4%E9%80%9A%E6%8B%A5%E5%A0%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [青岛1米88大长腿交警回应走红](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B1%E7%B1%B388%E5%A4%A7%E9%95%BF%E8%85%BF%E4%BA%A4%E8%AD%A6%E5%9B%9E%E5%BA%94%E8%B5%B0%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子不满意双眼皮手术 要求枪毙医生](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%8D%E6%BB%A1%E6%84%8F%E5%8F%8C%E7%9C%BC%E7%9A%AE%E6%89%8B%E6%9C%AF+%E8%A6%81%E6%B1%82%E6%9E%AA%E6%AF%99%E5%8C%BB%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [村支书葬母大操大办致交通拥堵](https://www.baidu.com/s?wd=%E6%9D%91%E6%94%AF%E4%B9%A6%E8%91%AC%E6%AF%8D%E5%A4%A7%E6%93%8D%E5%A4%A7%E5%8A%9E%E8%87%B4%E4%BA%A4%E9%80%9A%E6%8B%A5%E5%A0%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [萧煌奇摘墨镜自证是盲人](https://www.baidu.com/s?wd=%E8%90%A7%E7%85%8C%E5%A5%87%E6%91%98%E5%A2%A8%E9%95%9C%E8%87%AA%E8%AF%81%E6%98%AF%E7%9B%B2%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
