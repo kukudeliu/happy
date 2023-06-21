@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 16:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 16:54:02</h4></div>
 
 > 微博  
 
@@ -18,11 +18,11 @@
 2. [空军航空兵某团飞行二大队获「时代楷模」称号，褒扬他们是「奋飞新时代的空中铁拳」，他们值得学习的点在哪？](https://www.zhihu.com/question/607609756)<br />
 3. [农村抓两只大公鸡，和一只全世界最大品种的蜈蚣放一起打架，能赢吗?](https://www.zhihu.com/question/606826582)<br />
 4. [如何评价西南大学本科生发表五篇 sci 论文 (第一作者)，毕业典礼上表示希望五年博士毕业后回到母校工作？](https://www.zhihu.com/question/607703486)<br />
-5. [全国结婚登记量跌破 700 万对，年轻人反问「为什么要结婚」，低结婚率背后是传统婚姻功能的减弱吗？](https://www.zhihu.com/question/607794507)<br />
+5. [为什么我觉得日本没有大家说的那么繁华？](https://www.zhihu.com/question/599520936)<br />
 6. [为什么网友不满意《庆余年 2》叶灵儿演员换成金晨？原著中叶灵儿的人设如何？](https://www.zhihu.com/question/607597903)<br />
-7. [因为端午礼品问题和女朋友吵架分手，请大家看看是我反应过度了吗？](https://www.zhihu.com/question/607441090)<br />
-8. [为什么我觉得日本没有大家说的那么繁华？](https://www.zhihu.com/question/599520936)<br />
-9. [离岸人民币兑美元跌破 7.20，续创去年 11 月以来新低，近期汇率下跌原因有哪些？未来走势如何？](https://www.zhihu.com/question/607789906)<br />
+7. [全国结婚登记量跌破 700 万对，年轻人反问「为什么要结婚」，低结婚率背后是传统婚姻功能的减弱吗？](https://www.zhihu.com/question/607794507)<br />
+8. [如何看待 2023 年 6 月 21 日 A 股市场？](https://www.zhihu.com/question/607690497)<br />
+9. [因为端午礼品问题和女朋友吵架分手，请大家看看是我反应过度了吗？](https://www.zhihu.com/question/607441090)<br />
 
 > 百度  
 
@@ -33,8 +33,8 @@
 5. [男子杭州绿化带迷路3天 吃野花求生](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%9D%AD%E5%B7%9E%E7%BB%BF%E5%8C%96%E5%B8%A6%E8%BF%B7%E8%B7%AF3%E5%A4%A9+%E5%90%83%E9%87%8E%E8%8A%B1%E6%B1%82%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [4位富豪因AI暴赚10000亿](https://www.baidu.com/s?wd=4%E4%BD%8D%E5%AF%8C%E8%B1%AA%E5%9B%A0AI%E6%9A%B4%E8%B5%9A10000%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [曝汪小菲连夜赴台接娃](https://www.baidu.com/s?wd=%E6%9B%9D%E6%B1%AA%E5%B0%8F%E8%8F%B2%E8%BF%9E%E5%A4%9C%E8%B5%B4%E5%8F%B0%E6%8E%A5%E5%A8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [青岛1米88大长腿交警回应走红](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B1%E7%B1%B388%E5%A4%A7%E9%95%BF%E8%85%BF%E4%BA%A4%E8%AD%A6%E5%9B%9E%E5%BA%94%E8%B5%B0%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子曝妻子与局长有不当关系](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%9B%9D%E5%A6%BB%E5%AD%90%E4%B8%8E%E5%B1%80%E9%95%BF%E6%9C%89%E4%B8%8D%E5%BD%93%E5%85%B3%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [高校回应学生因毕设被送关系户自杀](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E5%9B%A0%E6%AF%95%E8%AE%BE%E8%A2%AB%E9%80%81%E5%85%B3%E7%B3%BB%E6%88%B7%E8%87%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [青岛1米88大长腿交警回应走红](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B1%E7%B1%B388%E5%A4%A7%E9%95%BF%E8%85%BF%E4%BA%A4%E8%AD%A6%E5%9B%9E%E5%BA%94%E8%B5%B0%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [男子杭州绿化带迷路3天 吃野花求生](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%9D%AD%E5%B7%9E%E7%BB%BF%E5%8C%96%E5%B8%A6%E8%BF%B7%E8%B7%AF3%E5%A4%A9+%E5%90%83%E9%87%8E%E8%8A%B1%E6%B1%82%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [4位富豪因AI暴赚10000亿](https://www.baidu.com/s?wd=4%E4%BD%8D%E5%AF%8C%E8%B1%AA%E5%9B%A0AI%E6%9A%B4%E8%B5%9A10000%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [曝汪小菲连夜赴台接娃](https://www.baidu.com/s?wd=%E6%9B%9D%E6%B1%AA%E5%B0%8F%E8%8F%B2%E8%BF%9E%E5%A4%9C%E8%B5%B4%E5%8F%B0%E6%8E%A5%E5%A8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [青岛1米88大长腿交警回应走红](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B1%E7%B1%B388%E5%A4%A7%E9%95%BF%E8%85%BF%E4%BA%A4%E8%AD%A6%E5%9B%9E%E5%BA%94%E8%B5%B0%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子曝妻子与局长有不当关系](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%9B%9D%E5%A6%BB%E5%AD%90%E4%B8%8E%E5%B1%80%E9%95%BF%E6%9C%89%E4%B8%8D%E5%BD%93%E5%85%B3%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [高校回应学生因毕设被送关系户自杀](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E5%9B%A0%E6%AF%95%E8%AE%BE%E8%A2%AB%E9%80%81%E5%85%B3%E7%B3%BB%E6%88%B7%E8%87%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [青岛1米88大长腿交警回应走红](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B1%E7%B1%B388%E5%A4%A7%E9%95%BF%E8%85%BF%E4%BA%A4%E8%AD%A6%E5%9B%9E%E5%BA%94%E8%B5%B0%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
