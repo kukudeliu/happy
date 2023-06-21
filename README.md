@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 09:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 09:13:01</h4></div>
 
 > 微博  
 
-1. [酒店经理见老太开房神色慌张立即报警](https://s.weibo.com/weibo?q=%23%E9%85%92%E5%BA%97%E7%BB%8F%E7%90%86%E8%A7%81%E8%80%81%E5%A4%AA%E5%BC%80%E6%88%BF%E7%A5%9E%E8%89%B2%E6%85%8C%E5%BC%A0%E7%AB%8B%E5%8D%B3%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=1&Refer=top)<br />
-2. [陈建斌多巴胺穿搭](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BB%BA%E6%96%8C%E5%A4%9A%E5%B7%B4%E8%83%BA%E7%A9%BF%E6%90%AD%23&t=31&band_rank=2&Refer=top)<br />
+1. [陈建斌多巴胺穿搭](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BB%BA%E6%96%8C%E5%A4%9A%E5%B7%B4%E8%83%BA%E7%A9%BF%E6%90%AD%23&t=31&band_rank=1&Refer=top)<br />
+2. [酒店经理见老太开房神色慌张立即报警](https://s.weibo.com/weibo?q=%23%E9%85%92%E5%BA%97%E7%BB%8F%E7%90%86%E8%A7%81%E8%80%81%E5%A4%AA%E5%BC%80%E6%88%BF%E7%A5%9E%E8%89%B2%E6%85%8C%E5%BC%A0%E7%AB%8B%E5%8D%B3%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=2&Refer=top)<br />
 3. [夏日中国尽显生态之美](https://s.weibo.com/weibo?q=%23%E5%A4%8F%E6%97%A5%E4%B8%AD%E5%9B%BD%E5%B0%BD%E6%98%BE%E7%94%9F%E6%80%81%E4%B9%8B%E7%BE%8E%23&t=31&band_rank=3&Refer=top)<br />
 4. [萧煌奇](https://s.weibo.com/weibo?q=%E8%90%A7%E7%85%8C%E5%A5%87&t=31&band_rank=4&Refer=top)<br />
 5. [男孩称后背痒植物人父亲用尽全力抬手](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E7%A7%B0%E5%90%8E%E8%83%8C%E7%97%92%E6%A4%8D%E7%89%A9%E4%BA%BA%E7%88%B6%E4%BA%B2%E7%94%A8%E5%B0%BD%E5%85%A8%E5%8A%9B%E6%8A%AC%E6%89%8B%23&t=31&band_rank=5&Refer=top)<br />
