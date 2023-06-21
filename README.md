@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 10:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 10:19:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [萧煌奇回应不是盲人](https://s.weibo.com/weibo?q=%23%E8%90%A7%E7%85%8C%E5%A5%87%E5%9B%9E%E5%BA%94%E4%B8%8D%E6%98%AF%E7%9B%B2%E4%BA%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [杨颖金靖是一个学校的](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E9%A2%96%E9%87%91%E9%9D%96%E6%98%AF%E4%B8%80%E4%B8%AA%E5%AD%A6%E6%A0%A1%E7%9A%84%23&t=31&band_rank=7&Refer=top)<br />
 8. [林俊杰白敬亭王嘉尔苏翊鸣同框](https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E7%99%BD%E6%95%AC%E4%BA%AD%E7%8E%8B%E5%98%89%E5%B0%94%E8%8B%8F%E7%BF%8A%E9%B8%A3%E5%90%8C%E6%A1%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [男孩称后背痒植物人父亲用尽全力抬手](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E7%A7%B0%E5%90%8E%E8%83%8C%E7%97%92%E6%A4%8D%E7%89%A9%E4%BA%BA%E7%88%B6%E4%BA%B2%E7%94%A8%E5%B0%BD%E5%85%A8%E5%8A%9B%E6%8A%AC%E6%89%8B%23&t=31&band_rank=9&Refer=top)<br />
+9. [男子捡余额3.7万手机主动还失主](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8D%A1%E4%BD%99%E9%A2%9D3.7%E4%B8%87%E6%89%8B%E6%9C%BA%E4%B8%BB%E5%8A%A8%E8%BF%98%E5%A4%B1%E4%B8%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
