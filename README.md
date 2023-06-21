@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 15:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 15:30:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [肖战 蒙牛](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%20%E8%92%99%E7%89%9B&t=31&band_rank=6&Refer=top)<br />
 7. [中国夫妇日本旅游抓683只寄居蟹被捕](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A4%AB%E5%A6%87%E6%97%A5%E6%9C%AC%E6%97%85%E6%B8%B8%E6%8A%93683%E5%8F%AA%E5%AF%84%E5%B1%85%E8%9F%B9%E8%A2%AB%E6%8D%95%23&t=31&band_rank=7&Refer=top)<br />
 8. [饿了么免单](https://s.weibo.com/weibo?q=%E9%A5%BF%E4%BA%86%E4%B9%88%E5%85%8D%E5%8D%95&t=31&band_rank=8&Refer=top)<br />
-9. [萧煌奇摘墨镜自证](https://s.weibo.com/weibo?q=%23%E8%90%A7%E7%85%8C%E5%A5%87%E6%91%98%E5%A2%A8%E9%95%9C%E8%87%AA%E8%AF%81%23&t=31&band_rank=9&Refer=top)<br />
+9. [偷偷藏不住作者才20岁](https://s.weibo.com/weibo?q=%23%E5%81%B7%E5%81%B7%E8%97%8F%E4%B8%8D%E4%BD%8F%E4%BD%9C%E8%80%85%E6%89%8D20%E5%B2%81%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
