@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 09:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 09:31:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [萧煌奇回应不是盲人](https://s.weibo.com/weibo?q=%23%E8%90%A7%E7%85%8C%E5%A5%87%E5%9B%9E%E5%BA%94%E4%B8%8D%E6%98%AF%E7%9B%B2%E4%BA%BA%23&t=31&band_rank=4&Refer=top)<br />
 5. [关闭朋友圈半年后的变化](https://s.weibo.com/weibo?q=%23%E5%85%B3%E9%97%AD%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%8D%8A%E5%B9%B4%E5%90%8E%E7%9A%84%E5%8F%98%E5%8C%96%23&t=31&band_rank=5&Refer=top)<br />
 6. [偷偷藏不住首播评价](https://s.weibo.com/weibo?q=%23%E5%81%B7%E5%81%B7%E8%97%8F%E4%B8%8D%E4%BD%8F%E9%A6%96%E6%92%AD%E8%AF%84%E4%BB%B7%23&t=31&band_rank=6&Refer=top)<br />
-7. [男孩称后背痒植物人父亲用尽全力抬手](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E7%A7%B0%E5%90%8E%E8%83%8C%E7%97%92%E6%A4%8D%E7%89%A9%E4%BA%BA%E7%88%B6%E4%BA%B2%E7%94%A8%E5%B0%BD%E5%85%A8%E5%8A%9B%E6%8A%AC%E6%89%8B%23&t=31&band_rank=7&Refer=top)<br />
-8. [种地吧 根本补不完](https://s.weibo.com/weibo?q=%E7%A7%8D%E5%9C%B0%E5%90%A7%20%E6%A0%B9%E6%9C%AC%E8%A1%A5%E4%B8%8D%E5%AE%8C&t=31&band_rank=8&Refer=top)<br />
+7. [种地吧 根本补不完](https://s.weibo.com/weibo?q=%E7%A7%8D%E5%9C%B0%E5%90%A7%20%E6%A0%B9%E6%9C%AC%E8%A1%A5%E4%B8%8D%E5%AE%8C&t=31&band_rank=7&Refer=top)<br />
+8. [男孩称后背痒植物人父亲用尽全力抬手](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E7%A7%B0%E5%90%8E%E8%83%8C%E7%97%92%E6%A4%8D%E7%89%A9%E4%BA%BA%E7%88%B6%E4%BA%B2%E7%94%A8%E5%B0%BD%E5%85%A8%E5%8A%9B%E6%8A%AC%E6%89%8B%23&t=31&band_rank=8&Refer=top)<br />
 9. [一席之地 冠军](https://s.weibo.com/weibo?q=%E4%B8%80%E5%B8%AD%E4%B9%8B%E5%9C%B0%20%E5%86%A0%E5%86%9B&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
