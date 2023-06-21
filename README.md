@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 06:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 06:56:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [深圳一女子洗澡时因触电身亡](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%A5%B3%E5%AD%90%E6%B4%97%E6%BE%A1%E6%97%B6%E5%9B%A0%E8%A7%A6%E7%94%B5%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=4&Refer=top)<br />
 5. [女生1次备7天菜下班5分钟吃上晚饭](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F1%E6%AC%A1%E5%A4%877%E5%A4%A9%E8%8F%9C%E4%B8%8B%E7%8F%AD5%E5%88%86%E9%92%9F%E5%90%83%E4%B8%8A%E6%99%9A%E9%A5%AD%23&t=31&band_rank=5&Refer=top)<br />
 6. [炎亚纶心理素质](https://s.weibo.com/weibo?q=%23%E7%82%8E%E4%BA%9A%E7%BA%B6%E5%BF%83%E7%90%86%E7%B4%A0%E8%B4%A8%23&t=31&band_rank=6&Refer=top)<br />
-7. [肖战不担心表演同质化问题](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E4%B8%8D%E6%8B%85%E5%BF%83%E8%A1%A8%E6%BC%94%E5%90%8C%E8%B4%A8%E5%8C%96%E9%97%AE%E9%A2%98%23&t=31&band_rank=7&Refer=top)<br />
-8. [暑假太可怕了](https://s.weibo.com/weibo?q=%E6%9A%91%E5%81%87%E5%A4%AA%E5%8F%AF%E6%80%95%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
+7. [暑假太可怕了](https://s.weibo.com/weibo?q=%E6%9A%91%E5%81%87%E5%A4%AA%E5%8F%AF%E6%80%95%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
+8. [肖战不担心表演同质化问题](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E4%B8%8D%E6%8B%85%E5%BF%83%E8%A1%A8%E6%BC%94%E5%90%8C%E8%B4%A8%E5%8C%96%E9%97%AE%E9%A2%98%23&t=31&band_rank=8&Refer=top)<br />
 9. [宝妈为4岁女儿吃饭健康带锅碗旅游](https://s.weibo.com/weibo?q=%23%E5%AE%9D%E5%A6%88%E4%B8%BA4%E5%B2%81%E5%A5%B3%E5%84%BF%E5%90%83%E9%A5%AD%E5%81%A5%E5%BA%B7%E5%B8%A6%E9%94%85%E7%A2%97%E6%97%85%E6%B8%B8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
