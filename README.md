@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 21:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 21:54:01</h4></div>
 
 > 微博  
 
-1. [邓亚萍拒绝158元一斤的车厘子](https://s.weibo.com/weibo?q=%23%E9%82%93%E4%BA%9A%E8%90%8D%E6%8B%92%E7%BB%9D158%E5%85%83%E4%B8%80%E6%96%A4%E7%9A%84%E8%BD%A6%E5%8E%98%E5%AD%90%23&t=31&band_rank=1&Refer=top)<br />
-2. [科目二我考了负725分](https://s.weibo.com/weibo?q=%23%E7%A7%91%E7%9B%AE%E4%BA%8C%E6%88%91%E8%80%83%E4%BA%86%E8%B4%9F725%E5%88%86%23&t=31&band_rank=2&Refer=top)<br />
+1. [科目二我考了负725分](https://s.weibo.com/weibo?q=%23%E7%A7%91%E7%9B%AE%E4%BA%8C%E6%88%91%E8%80%83%E4%BA%86%E8%B4%9F725%E5%88%86%23&t=31&band_rank=1&Refer=top)<br />
+2. [邓亚萍拒绝158元一斤的车厘子](https://s.weibo.com/weibo?q=%23%E9%82%93%E4%BA%9A%E8%90%8D%E6%8B%92%E7%BB%9D158%E5%85%83%E4%B8%80%E6%96%A4%E7%9A%84%E8%BD%A6%E5%8E%98%E5%AD%90%23&t=31&band_rank=2&Refer=top)<br />
 3. [航拍中国感受盛夏之美](https://s.weibo.com/weibo?q=%23%E8%88%AA%E6%8B%8D%E4%B8%AD%E5%9B%BD%E6%84%9F%E5%8F%97%E7%9B%9B%E5%A4%8F%E4%B9%8B%E7%BE%8E%23&t=31&band_rank=3&Refer=top)<br />
 4. [消失的她](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9&t=31&band_rank=4&Refer=top)<br />
 5. [陈建斌的命也是命](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BB%BA%E6%96%8C%E7%9A%84%E5%91%BD%E4%B9%9F%E6%98%AF%E5%91%BD%23&t=31&band_rank=5&Refer=top)<br />
@@ -32,9 +32,9 @@
 4. [全国铁路7月1日起实行新列车运行图](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E9%93%81%E8%B7%AF7%E6%9C%881%E6%97%A5%E8%B5%B7%E5%AE%9E%E8%A1%8C%E6%96%B0%E5%88%97%E8%BD%A6%E8%BF%90%E8%A1%8C%E5%9B%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [局长回应被举报与他人有不正当关系](https://www.baidu.com/s?wd=%E5%B1%80%E9%95%BF%E5%9B%9E%E5%BA%94%E8%A2%AB%E4%B8%BE%E6%8A%A5%E4%B8%8E%E4%BB%96%E4%BA%BA%E6%9C%89%E4%B8%8D%E6%AD%A3%E5%BD%93%E5%85%B3%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [美国一孕妇被2岁儿子开枪打死](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%80%E5%AD%95%E5%A6%87%E8%A2%AB2%E5%B2%81%E5%84%BF%E5%AD%90%E5%BC%80%E6%9E%AA%E6%89%93%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男生中考874分说考得还可以](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E4%B8%AD%E8%80%83874%E5%88%86%E8%AF%B4%E8%80%83%E5%BE%97%E8%BF%98%E5%8F%AF%E4%BB%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [中国夫妇日本旅游抓683只蟹被捕](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%AB%E5%A6%87%E6%97%A5%E6%9C%AC%E6%97%85%E6%B8%B8%E6%8A%93683%E5%8F%AA%E8%9F%B9%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子在绿化带内迷路三天](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E7%BB%BF%E5%8C%96%E5%B8%A6%E5%86%85%E8%BF%B7%E8%B7%AF%E4%B8%89%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [庆余年导演说演员应该杜绝文盲](https://www.baidu.com/s?wd=%E5%BA%86%E4%BD%99%E5%B9%B4%E5%AF%BC%E6%BC%94%E8%AF%B4%E6%BC%94%E5%91%98%E5%BA%94%E8%AF%A5%E6%9D%9C%E7%BB%9D%E6%96%87%E7%9B%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男生中考874分说考得还可以](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E4%B8%AD%E8%80%83874%E5%88%86%E8%AF%B4%E8%80%83%E5%BE%97%E8%BF%98%E5%8F%AF%E4%BB%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [中国夫妇日本旅游抓683只蟹被捕](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%AB%E5%A6%87%E6%97%A5%E6%9C%AC%E6%97%85%E6%B8%B8%E6%8A%93683%E5%8F%AA%E8%9F%B9%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [全国铁路7月1日起实行新列车运行图](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E9%93%81%E8%B7%AF7%E6%9C%881%E6%97%A5%E8%B5%B7%E5%AE%9E%E8%A1%8C%E6%96%B0%E5%88%97%E8%BD%A6%E8%BF%90%E8%A1%8C%E5%9B%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [局长回应被举报与他人有不正当关系](https://www.baidu.com/s?wd=%E5%B1%80%E9%95%BF%E5%9B%9E%E5%BA%94%E8%A2%AB%E4%B8%BE%E6%8A%A5%E4%B8%8E%E4%BB%96%E4%BA%BA%E6%9C%89%E4%B8%8D%E6%AD%A3%E5%BD%93%E5%85%B3%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [美国一孕妇被2岁儿子开枪打死](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%80%E5%AD%95%E5%A6%87%E8%A2%AB2%E5%B2%81%E5%84%BF%E5%AD%90%E5%BC%80%E6%9E%AA%E6%89%93%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男生中考874分说考得还可以](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E4%B8%AD%E8%80%83874%E5%88%86%E8%AF%B4%E8%80%83%E5%BE%97%E8%BF%98%E5%8F%AF%E4%BB%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [中国夫妇日本旅游抓683只蟹被捕](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%AB%E5%A6%87%E6%97%A5%E6%9C%AC%E6%97%85%E6%B8%B8%E6%8A%93683%E5%8F%AA%E8%9F%B9%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子在绿化带内迷路三天](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E7%BB%BF%E5%8C%96%E5%B8%A6%E5%86%85%E8%BF%B7%E8%B7%AF%E4%B8%89%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [庆余年导演说演员应该杜绝文盲](https://www.baidu.com/s?wd=%E5%BA%86%E4%BD%99%E5%B9%B4%E5%AF%BC%E6%BC%94%E8%AF%B4%E6%BC%94%E5%91%98%E5%BA%94%E8%AF%A5%E6%9D%9C%E7%BB%9D%E6%96%87%E7%9B%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男生中考874分说考得还可以](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E4%B8%AD%E8%80%83874%E5%88%86%E8%AF%B4%E8%80%83%E5%BE%97%E8%BF%98%E5%8F%AF%E4%BB%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [中国夫妇日本旅游抓683只蟹被捕](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%AB%E5%A6%87%E6%97%A5%E6%9C%AC%E6%97%85%E6%B8%B8%E6%8A%93683%E5%8F%AA%E8%9F%B9%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
