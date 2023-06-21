@@ -1,15 +1,15 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 14:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 14:24:01</h4></div>
 
 > 微博  
 
 1. [邱耀乐不接受炎亚纶道歉](https://s.weibo.com/weibo?q=%23%E9%82%B1%E8%80%80%E4%B9%90%E4%B8%8D%E6%8E%A5%E5%8F%97%E7%82%8E%E4%BA%9A%E7%BA%B6%E9%81%93%E6%AD%89%23&t=31&band_rank=1&Refer=top)<br />
-2. [青岛1米88大长腿交警回应走红](https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B1%E7%B1%B388%E5%A4%A7%E9%95%BF%E8%85%BF%E4%BA%A4%E8%AD%A6%E5%9B%9E%E5%BA%94%E8%B5%B0%E7%BA%A2%23&t=31&band_rank=2&Refer=top)<br />
+2. [海南无名男尸是贪污受贿在逃19年嫌犯](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%8D%97%E6%97%A0%E5%90%8D%E7%94%B7%E5%B0%B8%E6%98%AF%E8%B4%AA%E6%B1%A1%E5%8F%97%E8%B4%BF%E5%9C%A8%E9%80%8319%E5%B9%B4%E5%AB%8C%E7%8A%AF%23&t=31&band_rank=2&Refer=top)<br />
 3. [夏日中国尽显生态之美](https://s.weibo.com/weibo?q=%23%E5%A4%8F%E6%97%A5%E4%B8%AD%E5%9B%BD%E5%B0%BD%E6%98%BE%E7%94%9F%E6%80%81%E4%B9%8B%E7%BE%8E%23&t=31&band_rank=3&Refer=top)<br />
 4. [王一博穿的居然是羽绒服](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E7%A9%BF%E7%9A%84%E5%B1%85%E7%84%B6%E6%98%AF%E7%BE%BD%E7%BB%92%E6%9C%8D%23&t=31&band_rank=4&Refer=top)<br />
 5. [全国现有吸毒人员112.4万](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E7%8E%B0%E6%9C%89%E5%90%B8%E6%AF%92%E4%BA%BA%E5%91%98112.4%E4%B8%87%23&t=31&band_rank=5&Refer=top)<br />
 6. [耀乐明确拒绝炎亚纶拍摄私密影片](https://s.weibo.com/weibo?q=%23%E8%80%80%E4%B9%90%E6%98%8E%E7%A1%AE%E6%8B%92%E7%BB%9D%E7%82%8E%E4%BA%9A%E7%BA%B6%E6%8B%8D%E6%91%84%E7%A7%81%E5%AF%86%E5%BD%B1%E7%89%87%23&t=31&band_rank=6&Refer=top)<br />
-7. [偷偷藏不住作者才20岁](https://s.weibo.com/weibo?q=%23%E5%81%B7%E5%81%B7%E8%97%8F%E4%B8%8D%E4%BD%8F%E4%BD%9C%E8%80%85%E6%89%8D20%E5%B2%81%23&t=31&band_rank=7&Refer=top)<br />
-8. [海南无名男尸是贪污受贿在逃19年嫌犯](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%8D%97%E6%97%A0%E5%90%8D%E7%94%B7%E5%B0%B8%E6%98%AF%E8%B4%AA%E6%B1%A1%E5%8F%97%E8%B4%BF%E5%9C%A8%E9%80%8319%E5%B9%B4%E5%AB%8C%E7%8A%AF%23&t=31&band_rank=8&Refer=top)<br />
+7. [青岛1米88大长腿交警回应走红](https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B1%E7%B1%B388%E5%A4%A7%E9%95%BF%E8%85%BF%E4%BA%A4%E8%AD%A6%E5%9B%9E%E5%BA%94%E8%B5%B0%E7%BA%A2%23&t=31&band_rank=7&Refer=top)<br />
+8. [偷偷藏不住作者才20岁](https://s.weibo.com/weibo?q=%23%E5%81%B7%E5%81%B7%E8%97%8F%E4%B8%8D%E4%BD%8F%E4%BD%9C%E8%80%85%E6%89%8D20%E5%B2%81%23&t=31&band_rank=8&Refer=top)<br />
 9. [肖战 蒙牛](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%20%E8%92%99%E7%89%9B&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -32,9 +32,9 @@
 4. [他们是战巡南海绕岛巡航的空中铁拳](https://www.baidu.com/s?wd=%E4%BB%96%E4%BB%AC%E6%98%AF%E6%88%98%E5%B7%A1%E5%8D%97%E6%B5%B7%E7%BB%95%E5%B2%9B%E5%B7%A1%E8%88%AA%E7%9A%84%E7%A9%BA%E4%B8%AD%E9%93%81%E6%8B%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [出租屋现3具尸体 租客：3人只租4天](https://www.baidu.com/s?wd=%E5%87%BA%E7%A7%9F%E5%B1%8B%E7%8E%B03%E5%85%B7%E5%B0%B8%E4%BD%93+%E7%A7%9F%E5%AE%A2%EF%BC%9A3%E4%BA%BA%E5%8F%AA%E7%A7%9F4%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [#炎亚纶向邱耀乐鞠躬道歉 哭求原谅#](https://www.baidu.com/s?wd=%E7%82%8E%E4%BA%9A%E7%BA%B6%E5%90%91%E9%82%B1%E8%80%80%E4%B9%90%E9%9E%A0%E8%BA%AC%E9%81%93%E6%AD%89+%E7%97%9B%E5%93%AD%E6%B1%82%E5%8E%9F%E8%B0%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子不满意双眼皮手术 要求枪毙医生](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%8D%E6%BB%A1%E6%84%8F%E5%8F%8C%E7%9C%BC%E7%9A%AE%E6%89%8B%E6%9C%AF+%E8%A6%81%E6%B1%82%E6%9E%AA%E6%AF%99%E5%8C%BB%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [5亿身家高中生坠亡案侦结：假结婚](https://www.baidu.com/s?wd=5%E4%BA%BF%E8%BA%AB%E5%AE%B6%E9%AB%98%E4%B8%AD%E7%94%9F%E5%9D%A0%E4%BA%A1%E6%A1%88%E4%BE%A6%E7%BB%93%EF%BC%9A%E5%81%87%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [全民星选AI科技创想季](https://www.baidu.com/s?wd=%E5%85%A8%E6%B0%91%E6%98%9F%E9%80%89AI%E7%A7%91%E6%8A%80%E5%88%9B%E6%83%B3%E5%AD%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [5亿身家高中生坠亡案侦结：假结婚](https://www.baidu.com/s?wd=5%E4%BA%BF%E8%BA%AB%E5%AE%B6%E9%AB%98%E4%B8%AD%E7%94%9F%E5%9D%A0%E4%BA%A1%E6%A1%88%E4%BE%A6%E7%BB%93%EF%BC%9A%E5%81%87%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子不满意双眼皮手术 要求枪毙医生](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%8D%E6%BB%A1%E6%84%8F%E5%8F%8C%E7%9C%BC%E7%9A%AE%E6%89%8B%E6%9C%AF+%E8%A6%81%E6%B1%82%E6%9E%AA%E6%AF%99%E5%8C%BB%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [他们是战巡南海绕岛巡航的空中铁拳](https://www.baidu.com/s?wd=%E4%BB%96%E4%BB%AC%E6%98%AF%E6%88%98%E5%B7%A1%E5%8D%97%E6%B5%B7%E7%BB%95%E5%B2%9B%E5%B7%A1%E8%88%AA%E7%9A%84%E7%A9%BA%E4%B8%AD%E9%93%81%E6%8B%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [出租屋现3具尸体 租客：3人只租4天](https://www.baidu.com/s?wd=%E5%87%BA%E7%A7%9F%E5%B1%8B%E7%8E%B03%E5%85%B7%E5%B0%B8%E4%BD%93+%E7%A7%9F%E5%AE%A2%EF%BC%9A3%E4%BA%BA%E5%8F%AA%E7%A7%9F4%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [#炎亚纶向邱耀乐鞠躬道歉 哭求原谅#](https://www.baidu.com/s?wd=%E7%82%8E%E4%BA%9A%E7%BA%B6%E5%90%91%E9%82%B1%E8%80%80%E4%B9%90%E9%9E%A0%E8%BA%AC%E9%81%93%E6%AD%89+%E7%97%9B%E5%93%AD%E6%B1%82%E5%8E%9F%E8%B0%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子不满意双眼皮手术 要求枪毙医生](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%8D%E6%BB%A1%E6%84%8F%E5%8F%8C%E7%9C%BC%E7%9A%AE%E6%89%8B%E6%9C%AF+%E8%A6%81%E6%B1%82%E6%9E%AA%E6%AF%99%E5%8C%BB%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [5亿身家高中生坠亡案侦结：假结婚](https://www.baidu.com/s?wd=5%E4%BA%BF%E8%BA%AB%E5%AE%B6%E9%AB%98%E4%B8%AD%E7%94%9F%E5%9D%A0%E4%BA%A1%E6%A1%88%E4%BE%A6%E7%BB%93%EF%BC%9A%E5%81%87%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [全民星选AI科技创想季](https://www.baidu.com/s?wd=%E5%85%A8%E6%B0%91%E6%98%9F%E9%80%89AI%E7%A7%91%E6%8A%80%E5%88%9B%E6%83%B3%E5%AD%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [5亿身家高中生坠亡案侦结：假结婚](https://www.baidu.com/s?wd=5%E4%BA%BF%E8%BA%AB%E5%AE%B6%E9%AB%98%E4%B8%AD%E7%94%9F%E5%9D%A0%E4%BA%A1%E6%A1%88%E4%BE%A6%E7%BB%93%EF%BC%9A%E5%81%87%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子不满意双眼皮手术 要求枪毙医生](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%8D%E6%BB%A1%E6%84%8F%E5%8F%8C%E7%9C%BC%E7%9A%AE%E6%89%8B%E6%9C%AF+%E8%A6%81%E6%B1%82%E6%9E%AA%E6%AF%99%E5%8C%BB%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
