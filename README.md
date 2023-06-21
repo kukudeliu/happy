@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 21:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 21:31:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [我点的奶茶被领导捎了上来](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%82%B9%E7%9A%84%E5%A5%B6%E8%8C%B6%E8%A2%AB%E9%A2%86%E5%AF%BC%E6%8D%8E%E4%BA%86%E4%B8%8A%E6%9D%A5%23&t=31&band_rank=5&Refer=top)<br />
 6. [四川一中考生查出874分7门满分](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E4%B8%80%E4%B8%AD%E8%80%83%E7%94%9F%E6%9F%A5%E5%87%BA874%E5%88%867%E9%97%A8%E6%BB%A1%E5%88%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [四川大学称张某保研不违规](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E7%A7%B0%E5%BC%A0%E6%9F%90%E4%BF%9D%E7%A0%94%E4%B8%8D%E8%BF%9D%E8%A7%84%23&t=31&band_rank=7&Refer=top)<br />
-8. [我被Excel骂了](https://s.weibo.com/weibo?q=%23%E6%88%91%E8%A2%ABExcel%E9%AA%82%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [消失的她](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9&t=31&band_rank=9&Refer=top)<br />
+8. [消失的她](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9&t=31&band_rank=8&Refer=top)<br />
+9. [我被Excel骂了](https://s.weibo.com/weibo?q=%23%E6%88%91%E8%A2%ABExcel%E9%AA%82%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
