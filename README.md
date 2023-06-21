@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 23:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 23:37:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [科目二我考了负725分](https://s.weibo.com/weibo?q=%23%E7%A7%91%E7%9B%AE%E4%BA%8C%E6%88%91%E8%80%83%E4%BA%86%E8%B4%9F725%E5%88%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [炎亚纶带了6位工作人员1位保镖](https://s.weibo.com/weibo?q=%23%E7%82%8E%E4%BA%9A%E7%BA%B6%E5%B8%A6%E4%BA%866%E4%BD%8D%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%981%E4%BD%8D%E4%BF%9D%E9%95%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [怦然3男二坐铁锅里给女一道歉](https://s.weibo.com/weibo?q=%23%E6%80%A6%E7%84%B63%E7%94%B7%E4%BA%8C%E5%9D%90%E9%93%81%E9%94%85%E9%87%8C%E7%BB%99%E5%A5%B3%E4%B8%80%E9%81%93%E6%AD%89%23&t=31&band_rank=7&Refer=top)<br />
-8. [长风渡开虐](https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%A3%8E%E6%B8%A1%E5%BC%80%E8%99%90%23&t=31&band_rank=8&Refer=top)<br />
+8. [清潭国际高中](https://s.weibo.com/weibo?q=%E6%B8%85%E6%BD%AD%E5%9B%BD%E9%99%85%E9%AB%98%E4%B8%AD&t=31&band_rank=8&Refer=top)<br />
 9. [我只是gap了一年](https://s.weibo.com/weibo?q=%E6%88%91%E5%8F%AA%E6%98%AFgap%E4%BA%86%E4%B8%80%E5%B9%B4&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -22,7 +22,7 @@
 6. [硅谷银行亚洲客户遭「双向挤压」，存款被没收，贷款必须还，如何看待此事？](https://www.zhihu.com/question/607811714)<br />
 7. [为什么李鸿章在《辛丑条约》上签「肃」呢？「肃」代表什么？](https://www.zhihu.com/question/606492887)<br />
 8. [2023 LPL 夏季赛 BLG 2:0 LNG，如何评价这场比赛？](https://www.zhihu.com/question/607854309)<br />
-9. [6 月 21 日沪指跌 1.31% 失守 3200 点，AI 概念股集体大跌，如何看待今日行情？](https://www.zhihu.com/question/607781796)<br />
+9. [在《三国演义》中，诸葛亮的「空城计」真的没有被司马懿识破吗？](https://www.zhihu.com/question/604680603)<br />
 
 > 百度  
 
