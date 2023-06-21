@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 17:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 17:47:01</h4></div>
 
 > 微博  
 
@@ -33,7 +33,7 @@
 5. [失联潜艇搜救：水下传来不明敲击声](https://www.baidu.com/s?wd=%E5%A4%B1%E8%81%94%E6%BD%9C%E8%89%87%E6%90%9C%E6%95%91%EF%BC%9A%E6%B0%B4%E4%B8%8B%E4%BC%A0%E6%9D%A5%E4%B8%8D%E6%98%8E%E6%95%B2%E5%87%BB%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子杭州绿化带迷路3天 吃野花求生](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%9D%AD%E5%B7%9E%E7%BB%BF%E5%8C%96%E5%B8%A6%E8%BF%B7%E8%B7%AF3%E5%A4%A9+%E5%90%83%E9%87%8E%E8%8A%B1%E6%B1%82%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [曝汪小菲连夜赴台接娃](https://www.baidu.com/s?wd=%E6%9B%9D%E6%B1%AA%E5%B0%8F%E8%8F%B2%E8%BF%9E%E5%A4%9C%E8%B5%B4%E5%8F%B0%E6%8E%A5%E5%A8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [高校回应学生因毕设被送关系户自杀](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E5%9B%A0%E6%AF%95%E8%AE%BE%E8%A2%AB%E9%80%81%E5%85%B3%E7%B3%BB%E6%88%B7%E8%87%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中国夫妇日本旅游抓683只蟹被捕](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%AB%E5%A6%87%E6%97%A5%E6%9C%AC%E6%97%85%E6%B8%B8%E6%8A%93683%E5%8F%AA%E8%9F%B9%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [男子中800万瞒着妻子转移财产](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%AD800%E4%B8%87%E7%9E%92%E7%9D%80%E5%A6%BB%E5%AD%90%E8%BD%AC%E7%A7%BB%E8%B4%A2%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [失联潜艇搜救：水下传来不明敲击声](https://www.baidu.com/s?wd=%E5%A4%B1%E8%81%94%E6%BD%9C%E8%89%87%E6%90%9C%E6%95%91%EF%BC%9A%E6%B0%B4%E4%B8%8B%E4%BC%A0%E6%9D%A5%E4%B8%8D%E6%98%8E%E6%95%B2%E5%87%BB%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子杭州绿化带迷路3天 吃野花求生](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%9D%AD%E5%B7%9E%E7%BB%BF%E5%8C%96%E5%B8%A6%E8%BF%B7%E8%B7%AF3%E5%A4%A9+%E5%90%83%E9%87%8E%E8%8A%B1%E6%B1%82%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [曝汪小菲连夜赴台接娃](https://www.baidu.com/s?wd=%E6%9B%9D%E6%B1%AA%E5%B0%8F%E8%8F%B2%E8%BF%9E%E5%A4%9C%E8%B5%B4%E5%8F%B0%E6%8E%A5%E5%A8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [高校回应学生因毕设被送关系户自杀](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E5%9B%A0%E6%AF%95%E8%AE%BE%E8%A2%AB%E9%80%81%E5%85%B3%E7%B3%BB%E6%88%B7%E8%87%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中国夫妇日本旅游抓683只蟹被捕](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%AB%E5%A6%87%E6%97%A5%E6%9C%AC%E6%97%85%E6%B8%B8%E6%8A%93683%E5%8F%AA%E8%9F%B9%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [男子中800万瞒着妻子转移财产](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%AD800%E4%B8%87%E7%9E%92%E7%9D%80%E5%A6%BB%E5%AD%90%E8%BD%AC%E7%A7%BB%E8%B4%A2%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
