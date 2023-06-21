@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 23:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 23:48:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [消失的她](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9&t=31&band_rank=5&Refer=top)<br />
 6. [任天堂](https://s.weibo.com/weibo?q=%E4%BB%BB%E5%A4%A9%E5%A0%82&t=31&band_rank=6&Refer=top)<br />
 7. [长风渡开虐](https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%A3%8E%E6%B8%A1%E5%BC%80%E8%99%90%23&t=31&band_rank=7&Refer=top)<br />
-8. [炎亚纶带了6位工作人员1位保镖](https://s.weibo.com/weibo?q=%23%E7%82%8E%E4%BA%9A%E7%BA%B6%E5%B8%A6%E4%BA%866%E4%BD%8D%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%981%E4%BD%8D%E4%BF%9D%E9%95%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [怦然3男二坐铁锅里给女一道歉](https://s.weibo.com/weibo?q=%23%E6%80%A6%E7%84%B63%E7%94%B7%E4%BA%8C%E5%9D%90%E9%93%81%E9%94%85%E9%87%8C%E7%BB%99%E5%A5%B3%E4%B8%80%E9%81%93%E6%AD%89%23&t=31&band_rank=9&Refer=top)<br />
+8. [怦然3男二坐铁锅里给女一道歉](https://s.weibo.com/weibo?q=%23%E6%80%A6%E7%84%B63%E7%94%B7%E4%BA%8C%E5%9D%90%E9%93%81%E9%94%85%E9%87%8C%E7%BB%99%E5%A5%B3%E4%B8%80%E9%81%93%E6%AD%89%23&t=31&band_rank=8&Refer=top)<br />
+9. [炎亚纶带了6位工作人员1位保镖](https://s.weibo.com/weibo?q=%23%E7%82%8E%E4%BA%9A%E7%BA%B6%E5%B8%A6%E4%BA%866%E4%BD%8D%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%981%E4%BD%8D%E4%BF%9D%E9%95%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
