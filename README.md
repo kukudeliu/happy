@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 03:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 03:30:01</h4></div>
 
 > 微博  
 
@@ -31,10 +31,10 @@
 3. [自曝被性侵女子：女生谨慎独自出国](https://www.baidu.com/s?wd=%E8%87%AA%E6%9B%9D%E8%A2%AB%E6%80%A7%E4%BE%B5%E5%A5%B3%E5%AD%90%EF%BC%9A%E5%A5%B3%E7%94%9F%E8%B0%A8%E6%85%8E%E7%8B%AC%E8%87%AA%E5%87%BA%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“上天入海” 这些重大项目频传捷报](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%8A%E5%A4%A9%E5%85%A5%E6%B5%B7%E2%80%9D+%E8%BF%99%E4%BA%9B%E9%87%8D%E5%A4%A7%E9%A1%B9%E7%9B%AE%E9%A2%91%E4%BC%A0%E6%8D%B7%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [普京：萨尔马特导弹将进入战斗值勤](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E8%90%A8%E5%B0%94%E9%A9%AC%E7%89%B9%E5%AF%BC%E5%BC%B9%E5%B0%86%E8%BF%9B%E5%85%A5%E6%88%98%E6%96%97%E5%80%BC%E5%8B%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [贾跃亭致信全体投资人](https://www.baidu.com/s?wd=%E8%B4%BE%E8%B7%83%E4%BA%AD%E8%87%B4%E4%BF%A1%E5%85%A8%E4%BD%93%E6%8A%95%E8%B5%84%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [乌媒称俄军疑因饮水污染爆发霍乱](https://www.baidu.com/s?wd=%E4%B9%8C%E5%AA%92%E7%A7%B0%E4%BF%84%E5%86%9B%E7%96%91%E5%9B%A0%E9%A5%AE%E6%B0%B4%E6%B1%A1%E6%9F%93%E7%88%86%E5%8F%91%E9%9C%8D%E4%B9%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子称水杯遭同事投毒 脏器诊出病变](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E6%B0%B4%E6%9D%AF%E9%81%AD%E5%90%8C%E4%BA%8B%E6%8A%95%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [拆二代遇房企爆雷：房没了钱也没了](https://www.baidu.com/s?wd=%E6%8B%86%E4%BA%8C%E4%BB%A3%E9%81%87%E6%88%BF%E4%BC%81%E7%88%86%E9%9B%B7%EF%BC%9A%E6%88%BF%E6%B2%A1%E4%BA%86%E9%92%B1%E4%B9%9F%E6%B2%A1%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [乌媒称俄军疑因饮水污染爆发霍乱](https://www.baidu.com/s?wd=%E4%B9%8C%E5%AA%92%E7%A7%B0%E4%BF%84%E5%86%9B%E7%96%91%E5%9B%A0%E9%A5%AE%E6%B0%B4%E6%B1%A1%E6%9F%93%E7%88%86%E5%8F%91%E9%9C%8D%E4%B9%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子称水杯遭同事投毒 脏器诊出病变](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E6%B0%B4%E6%9D%AF%E9%81%AD%E5%90%8C%E4%BA%8B%E6%8A%95%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [拆二代遇房企爆雷：房没了钱也没了](https://www.baidu.com/s?wd=%E6%8B%86%E4%BA%8C%E4%BB%A3%E9%81%87%E6%88%BF%E4%BC%81%E7%88%86%E9%9B%B7%EF%BC%9A%E6%88%BF%E6%B2%A1%E4%BA%86%E9%92%B1%E4%B9%9F%E6%B2%A1%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [全国现有吸毒人员112.4万](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E7%8E%B0%E6%9C%89%E5%90%B8%E6%AF%92%E4%BA%BA%E5%91%98112.4%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [自曝被性侵女子：女生谨慎独自出国](https://www.baidu.com/s?wd=%E8%87%AA%E6%9B%9D%E8%A2%AB%E6%80%A7%E4%BE%B5%E5%A5%B3%E5%AD%90%EF%BC%9A%E5%A5%B3%E7%94%9F%E8%B0%A8%E6%85%8E%E7%8B%AC%E8%87%AA%E5%87%BA%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“上天入海” 这些重大项目频传捷报](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%8A%E5%A4%A9%E5%85%A5%E6%B5%B7%E2%80%9D+%E8%BF%99%E4%BA%9B%E9%87%8D%E5%A4%A7%E9%A1%B9%E7%9B%AE%E9%A2%91%E4%BC%A0%E6%8D%B7%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [普京：萨尔马特导弹将进入战斗值勤](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E8%90%A8%E5%B0%94%E9%A9%AC%E7%89%B9%E5%AF%BC%E5%BC%B9%E5%B0%86%E8%BF%9B%E5%85%A5%E6%88%98%E6%96%97%E5%80%BC%E5%8B%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [贾跃亭致信全体投资人](https://www.baidu.com/s?wd=%E8%B4%BE%E8%B7%83%E4%BA%AD%E8%87%B4%E4%BF%A1%E5%85%A8%E4%BD%93%E6%8A%95%E8%B5%84%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [乌媒称俄军疑因饮水污染爆发霍乱](https://www.baidu.com/s?wd=%E4%B9%8C%E5%AA%92%E7%A7%B0%E4%BF%84%E5%86%9B%E7%96%91%E5%9B%A0%E9%A5%AE%E6%B0%B4%E6%B1%A1%E6%9F%93%E7%88%86%E5%8F%91%E9%9C%8D%E4%B9%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子称水杯遭同事投毒 脏器诊出病变](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E6%B0%B4%E6%9D%AF%E9%81%AD%E5%90%8C%E4%BA%8B%E6%8A%95%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [拆二代遇房企爆雷：房没了钱也没了](https://www.baidu.com/s?wd=%E6%8B%86%E4%BA%8C%E4%BB%A3%E9%81%87%E6%88%BF%E4%BC%81%E7%88%86%E9%9B%B7%EF%BC%9A%E6%88%BF%E6%B2%A1%E4%BA%86%E9%92%B1%E4%B9%9F%E6%B2%A1%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [乌媒称俄军疑因饮水污染爆发霍乱](https://www.baidu.com/s?wd=%E4%B9%8C%E5%AA%92%E7%A7%B0%E4%BF%84%E5%86%9B%E7%96%91%E5%9B%A0%E9%A5%AE%E6%B0%B4%E6%B1%A1%E6%9F%93%E7%88%86%E5%8F%91%E9%9C%8D%E4%B9%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子称水杯遭同事投毒 脏器诊出病变](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E6%B0%B4%E6%9D%AF%E9%81%AD%E5%90%8C%E4%BA%8B%E6%8A%95%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [拆二代遇房企爆雷：房没了钱也没了](https://www.baidu.com/s?wd=%E6%8B%86%E4%BA%8C%E4%BB%A3%E9%81%87%E6%88%BF%E4%BC%81%E7%88%86%E9%9B%B7%EF%BC%9A%E6%88%BF%E6%B2%A1%E4%BA%86%E9%92%B1%E4%B9%9F%E6%B2%A1%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [全国现有吸毒人员112.4万](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E7%8E%B0%E6%9C%89%E5%90%B8%E6%AF%92%E4%BA%BA%E5%91%98112.4%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
