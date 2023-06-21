@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 23:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 23:36:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [全国结婚登记量跌破 700 万对，年轻人反问「为什么要结婚」，低结婚率背后是传统婚姻功能的减弱吗？](https://www.zhihu.com/question/607794507)<br />
 6. [硅谷银行亚洲客户遭「双向挤压」，存款被没收，贷款必须还，如何看待此事？](https://www.zhihu.com/question/607811714)<br />
 7. [为什么李鸿章在《辛丑条约》上签「肃」呢？「肃」代表什么？](https://www.zhihu.com/question/606492887)<br />
-8. [6 月 21 日沪指跌 1.31% 失守 3200 点，AI 概念股集体大跌，如何看待今日行情？](https://www.zhihu.com/question/607781796)<br />
-9. [2023 LPL 夏季赛 BLG 2:0 LNG，如何评价这场比赛？](https://www.zhihu.com/question/607854309)<br />
+8. [2023 LPL 夏季赛 BLG 2:0 LNG，如何评价这场比赛？](https://www.zhihu.com/question/607854309)<br />
+9. [6 月 21 日沪指跌 1.31% 失守 3200 点，AI 概念股集体大跌，如何看待今日行情？](https://www.zhihu.com/question/607781796)<br />
 
 > 百度  
 
