@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 20:03:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 20:04:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [邱耀乐不接受炎亚纶道歉](https://s.weibo.com/weibo?q=%23%E9%82%B1%E8%80%80%E4%B9%90%E4%B8%8D%E6%8E%A5%E5%8F%97%E7%82%8E%E4%BA%9A%E7%BA%B6%E9%81%93%E6%AD%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [庆余年导演说演员应该杜绝文盲](https://s.weibo.com/weibo?q=%23%E5%BA%86%E4%BD%99%E5%B9%B4%E5%AF%BC%E6%BC%94%E8%AF%B4%E6%BC%94%E5%91%98%E5%BA%94%E8%AF%A5%E6%9D%9C%E7%BB%9D%E6%96%87%E7%9B%B2%23&t=31&band_rank=7&Refer=top)<br />
 8. [青岛1米88大长腿交警回应走红](https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B1%E7%B1%B388%E5%A4%A7%E9%95%BF%E8%85%BF%E4%BA%A4%E8%AD%A6%E5%9B%9E%E5%BA%94%E8%B5%B0%E7%BA%A2%23&t=31&band_rank=8&Refer=top)<br />
-9. [四川大学称张某保研不违规](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E7%A7%B0%E5%BC%A0%E6%9F%90%E4%BF%9D%E7%A0%94%E4%B8%8D%E8%BF%9D%E8%A7%84%23&t=31&band_rank=9&Refer=top)<br />
+9. [为什么女生的衣服越做越短](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A5%B3%E7%94%9F%E7%9A%84%E8%A1%A3%E6%9C%8D%E8%B6%8A%E5%81%9A%E8%B6%8A%E7%9F%AD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -32,9 +32,9 @@
 4. [全国铁路7月1日起实行新列车运行图](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E9%93%81%E8%B7%AF7%E6%9C%881%E6%97%A5%E8%B5%B7%E5%AE%9E%E8%A1%8C%E6%96%B0%E5%88%97%E8%BD%A6%E8%BF%90%E8%A1%8C%E5%9B%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子在绿化带内迷路四天三夜](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E7%BB%BF%E5%8C%96%E5%B8%A6%E5%86%85%E8%BF%B7%E8%B7%AF%E5%9B%9B%E5%A4%A9%E4%B8%89%E5%A4%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子喊3遍拔针护士打游戏不理会](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%96%8A3%E9%81%8D%E6%8B%94%E9%92%88%E6%8A%A4%E5%A3%AB%E6%89%93%E6%B8%B8%E6%88%8F%E4%B8%8D%E7%90%86%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [拆二代遇房企爆雷：房没了钱也没了](https://www.baidu.com/s?wd=%E6%8B%86%E4%BA%8C%E4%BB%A3%E9%81%87%E6%88%BF%E4%BC%81%E7%88%86%E9%9B%B7%EF%BC%9A%E6%88%BF%E6%B2%A1%E4%BA%86%E9%92%B1%E4%B9%9F%E6%B2%A1%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [曹云金巡演首场票一秒钟售罄](https://www.baidu.com/s?wd=%E6%9B%B9%E4%BA%91%E9%87%91%E5%B7%A1%E6%BC%94%E9%A6%96%E5%9C%BA%E7%A5%A8%E4%B8%80%E7%A7%92%E9%92%9F%E5%94%AE%E7%BD%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女生在马代遭性侵：电话报不了警](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%9C%A8%E9%A9%AC%E4%BB%A3%E9%81%AD%E6%80%A7%E4%BE%B5%EF%BC%9A%E7%94%B5%E8%AF%9D%E6%8A%A5%E4%B8%8D%E4%BA%86%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子造谣大学生卖淫800次 被刑拘](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%80%A0%E8%B0%A3%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%8D%96%E6%B7%AB800%E6%AC%A1+%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [拆二代遇房企爆雷：房没了钱也没了](https://www.baidu.com/s?wd=%E6%8B%86%E4%BA%8C%E4%BB%A3%E9%81%87%E6%88%BF%E4%BC%81%E7%88%86%E9%9B%B7%EF%BC%9A%E6%88%BF%E6%B2%A1%E4%BA%86%E9%92%B1%E4%B9%9F%E6%B2%A1%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [曹云金巡演首场票一秒钟售罄](https://www.baidu.com/s?wd=%E6%9B%B9%E4%BA%91%E9%87%91%E5%B7%A1%E6%BC%94%E9%A6%96%E5%9C%BA%E7%A5%A8%E4%B8%80%E7%A7%92%E9%92%9F%E5%94%AE%E7%BD%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [全国铁路7月1日起实行新列车运行图](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E9%93%81%E8%B7%AF7%E6%9C%881%E6%97%A5%E8%B5%B7%E5%AE%9E%E8%A1%8C%E6%96%B0%E5%88%97%E8%BD%A6%E8%BF%90%E8%A1%8C%E5%9B%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子在绿化带内迷路四天三夜](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E7%BB%BF%E5%8C%96%E5%B8%A6%E5%86%85%E8%BF%B7%E8%B7%AF%E5%9B%9B%E5%A4%A9%E4%B8%89%E5%A4%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子喊3遍拔针护士打游戏不理会](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%96%8A3%E9%81%8D%E6%8B%94%E9%92%88%E6%8A%A4%E5%A3%AB%E6%89%93%E6%B8%B8%E6%88%8F%E4%B8%8D%E7%90%86%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [拆二代遇房企爆雷：房没了钱也没了](https://www.baidu.com/s?wd=%E6%8B%86%E4%BA%8C%E4%BB%A3%E9%81%87%E6%88%BF%E4%BC%81%E7%88%86%E9%9B%B7%EF%BC%9A%E6%88%BF%E6%B2%A1%E4%BA%86%E9%92%B1%E4%B9%9F%E6%B2%A1%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [曹云金巡演首场票一秒钟售罄](https://www.baidu.com/s?wd=%E6%9B%B9%E4%BA%91%E9%87%91%E5%B7%A1%E6%BC%94%E9%A6%96%E5%9C%BA%E7%A5%A8%E4%B8%80%E7%A7%92%E9%92%9F%E5%94%AE%E7%BD%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女生在马代遭性侵：电话报不了警](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%9C%A8%E9%A9%AC%E4%BB%A3%E9%81%AD%E6%80%A7%E4%BE%B5%EF%BC%9A%E7%94%B5%E8%AF%9D%E6%8A%A5%E4%B8%8D%E4%BA%86%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子造谣大学生卖淫800次 被刑拘](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%80%A0%E8%B0%A3%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%8D%96%E6%B7%AB800%E6%AC%A1+%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [拆二代遇房企爆雷：房没了钱也没了](https://www.baidu.com/s?wd=%E6%8B%86%E4%BA%8C%E4%BB%A3%E9%81%87%E6%88%BF%E4%BC%81%E7%88%86%E9%9B%B7%EF%BC%9A%E6%88%BF%E6%B2%A1%E4%BA%86%E9%92%B1%E4%B9%9F%E6%B2%A1%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [曹云金巡演首场票一秒钟售罄](https://www.baidu.com/s?wd=%E6%9B%B9%E4%BA%91%E9%87%91%E5%B7%A1%E6%BC%94%E9%A6%96%E5%9C%BA%E7%A5%A8%E4%B8%80%E7%A7%92%E9%92%9F%E5%94%AE%E7%BD%84&sa=fyb_news&rsv_dl=fyb_news)<br />
