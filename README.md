@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 13:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 13:53:01</h4></div>
 
 > 微博  
 
@@ -27,23 +27,23 @@
 > 百度  
 
 1. [龙舟经济何以乘风破浪](https://www.baidu.com/s?wd=%E9%BE%99%E8%88%9F%E7%BB%8F%E6%B5%8E%E4%BD%95%E4%BB%A5%E4%B9%98%E9%A3%8E%E7%A0%B4%E6%B5%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [大学生网购毒品 掺进奶茶给室友喝](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%BD%91%E8%B4%AD%E6%AF%92%E5%93%81+%E6%8E%BA%E8%BF%9B%E5%A5%B6%E8%8C%B6%E7%BB%99%E5%AE%A4%E5%8F%8B%E5%96%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [A股再现天价离婚！女方拿走34亿](https://www.baidu.com/s?wd=A%E8%82%A1%E5%86%8D%E7%8E%B0%E5%A4%A9%E4%BB%B7%E7%A6%BB%E5%A9%9A%EF%BC%81%E5%A5%B3%E6%96%B9%E6%8B%BF%E8%B5%B034%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [兄妹从29楼坠亡 家属：全家心都死了](https://www.baidu.com/s?wd=%E5%85%84%E5%A6%B9%E4%BB%8E29%E6%A5%BC%E5%9D%A0%E4%BA%A1+%E5%AE%B6%E5%B1%9E%EF%BC%9A%E5%85%A8%E5%AE%B6%E5%BF%83%E9%83%BD%E6%AD%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [他们是战巡南海绕岛巡航的空中铁拳](https://www.baidu.com/s?wd=%E4%BB%96%E4%BB%AC%E6%98%AF%E6%88%98%E5%B7%A1%E5%8D%97%E6%B5%B7%E7%BB%95%E5%B2%9B%E5%B7%A1%E8%88%AA%E7%9A%84%E7%A9%BA%E4%B8%AD%E9%93%81%E6%8B%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [出租屋现3具尸体 租客：3人只租4天](https://www.baidu.com/s?wd=%E5%87%BA%E7%A7%9F%E5%B1%8B%E7%8E%B03%E5%85%B7%E5%B0%B8%E4%BD%93+%E7%A7%9F%E5%AE%A2%EF%BC%9A3%E4%BA%BA%E5%8F%AA%E7%A7%9F4%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [#炎亚纶向邱耀乐鞠躬道歉 哭求原谅#](https://www.baidu.com/s?wd=%E7%82%8E%E4%BA%9A%E7%BA%B6%E5%90%91%E9%82%B1%E8%80%80%E4%B9%90%E9%9E%A0%E8%BA%AC%E9%81%93%E6%AD%89+%E7%97%9B%E5%93%AD%E6%B1%82%E5%8E%9F%E8%B0%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [A股再现天价离婚！女方拿走34亿](https://www.baidu.com/s?wd=A%E8%82%A1%E5%86%8D%E7%8E%B0%E5%A4%A9%E4%BB%B7%E7%A6%BB%E5%A9%9A%EF%BC%81%E5%A5%B3%E6%96%B9%E6%8B%BF%E8%B5%B034%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女生在马代遭性侵：电话报不了警](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%9C%A8%E9%A9%AC%E4%BB%A3%E9%81%AD%E6%80%A7%E4%BE%B5%EF%BC%9A%E7%94%B5%E8%AF%9D%E6%8A%A5%E4%B8%8D%E4%BA%86%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [全民星选AI科技创想季](https://www.baidu.com/s?wd=%E5%85%A8%E6%B0%91%E6%98%9F%E9%80%89AI%E7%A7%91%E6%8A%80%E5%88%9B%E6%83%B3%E5%AD%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [5亿身家高中生坠亡案侦结：假结婚](https://www.baidu.com/s?wd=5%E4%BA%BF%E8%BA%AB%E5%AE%B6%E9%AB%98%E4%B8%AD%E7%94%9F%E5%9D%A0%E4%BA%A1%E6%A1%88%E4%BE%A6%E7%BB%93%EF%BC%9A%E5%81%87%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [龙舟经济何以乘风破浪](https://www.baidu.com/s?wd=%E9%BE%99%E8%88%9F%E7%BB%8F%E6%B5%8E%E4%BD%95%E4%BB%A5%E4%B9%98%E9%A3%8E%E7%A0%B4%E6%B5%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [大学生网购毒品 掺进奶茶给室友喝](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%BD%91%E8%B4%AD%E6%AF%92%E5%93%81+%E6%8E%BA%E8%BF%9B%E5%A5%B6%E8%8C%B6%E7%BB%99%E5%AE%A4%E5%8F%8B%E5%96%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [A股再现天价离婚！女方拿走34亿](https://www.baidu.com/s?wd=A%E8%82%A1%E5%86%8D%E7%8E%B0%E5%A4%A9%E4%BB%B7%E7%A6%BB%E5%A9%9A%EF%BC%81%E5%A5%B3%E6%96%B9%E6%8B%BF%E8%B5%B034%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [兄妹从29楼坠亡 家属：全家心都死了](https://www.baidu.com/s?wd=%E5%85%84%E5%A6%B9%E4%BB%8E29%E6%A5%BC%E5%9D%A0%E4%BA%A1+%E5%AE%B6%E5%B1%9E%EF%BC%9A%E5%85%A8%E5%AE%B6%E5%BF%83%E9%83%BD%E6%AD%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [他们是战巡南海绕岛巡航的空中铁拳](https://www.baidu.com/s?wd=%E4%BB%96%E4%BB%AC%E6%98%AF%E6%88%98%E5%B7%A1%E5%8D%97%E6%B5%B7%E7%BB%95%E5%B2%9B%E5%B7%A1%E8%88%AA%E7%9A%84%E7%A9%BA%E4%B8%AD%E9%93%81%E6%8B%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [出租屋现3具尸体 租客：3人只租4天](https://www.baidu.com/s?wd=%E5%87%BA%E7%A7%9F%E5%B1%8B%E7%8E%B03%E5%85%B7%E5%B0%B8%E4%BD%93+%E7%A7%9F%E5%AE%A2%EF%BC%9A3%E4%BA%BA%E5%8F%AA%E7%A7%9F4%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [#炎亚纶向邱耀乐鞠躬道歉 哭求原谅#](https://www.baidu.com/s?wd=%E7%82%8E%E4%BA%9A%E7%BA%B6%E5%90%91%E9%82%B1%E8%80%80%E4%B9%90%E9%9E%A0%E8%BA%AC%E9%81%93%E6%AD%89+%E7%97%9B%E5%93%AD%E6%B1%82%E5%8E%9F%E8%B0%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [A股再现天价离婚！女方拿走34亿](https://www.baidu.com/s?wd=A%E8%82%A1%E5%86%8D%E7%8E%B0%E5%A4%A9%E4%BB%B7%E7%A6%BB%E5%A9%9A%EF%BC%81%E5%A5%B3%E6%96%B9%E6%8B%BF%E8%B5%B034%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女生在马代遭性侵：电话报不了警](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%9C%A8%E9%A9%AC%E4%BB%A3%E9%81%AD%E6%80%A7%E4%BE%B5%EF%BC%9A%E7%94%B5%E8%AF%9D%E6%8A%A5%E4%B8%8D%E4%BA%86%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [全民星选AI科技创想季](https://www.baidu.com/s?wd=%E5%85%A8%E6%B0%91%E6%98%9F%E9%80%89AI%E7%A7%91%E6%8A%80%E5%88%9B%E6%83%B3%E5%AD%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [5亿身家高中生坠亡案侦结：假结婚](https://www.baidu.com/s?wd=5%E4%BA%BF%E8%BA%AB%E5%AE%B6%E9%AB%98%E4%B8%AD%E7%94%9F%E5%9D%A0%E4%BA%A1%E6%A1%88%E4%BE%A6%E7%BB%93%EF%BC%9A%E5%81%87%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
