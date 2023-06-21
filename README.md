@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 12:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 12:27:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [大陆恢复台湾地区番荔枝输入，台农称「等了 3 年，快要哭了」，哪些信息值得关注？台水果质量还安全吗？](https://www.zhihu.com/question/607719193)<br />
 5. [官方通报「焦作师专食堂烤鱼现蛆虫」，称「情况属实，立案查处」，学生食堂的食品安全应如何保证？](https://www.zhihu.com/question/607780351)<br />
 6. []()<br />
-7. [怎么看待近期《海贼王》漫画出现了很多负面评价，是什么原因导致的？](https://www.zhihu.com/question/604115518)<br />
-8. []()<br />
-9. [勇士格林也将拒绝执行新赛季的球员选项，成为自由球员，这透露了什么信息？](https://www.zhihu.com/question/607648773)<br />
+7. [如何评价西南大学本科生发表五篇 sci 论文 (第一作者)，毕业典礼上表示希望五年博士毕业后回到母校工作？](https://www.zhihu.com/question/607703486)<br />
+8. [怎么看待近期《海贼王》漫画出现了很多负面评价，是什么原因导致的？](https://www.zhihu.com/question/604115518)<br />
+9. []()<br />
 
 > 百度  
 
@@ -31,8 +31,8 @@
 3. [校方回应女子拒领三等奖：评委专业](https://www.baidu.com/s?wd=%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E6%8B%92%E9%A2%86%E4%B8%89%E7%AD%89%E5%A5%96%EF%BC%9A%E8%AF%84%E5%A7%94%E4%B8%93%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [他们是战巡南海绕岛巡航的空中铁拳](https://www.baidu.com/s?wd=%E4%BB%96%E4%BB%AC%E6%98%AF%E6%88%98%E5%B7%A1%E5%8D%97%E6%B5%B7%E7%BB%95%E5%B2%9B%E5%B7%A1%E8%88%AA%E7%9A%84%E7%A9%BA%E4%B8%AD%E9%93%81%E6%8B%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [A股再现天价离婚！女方拿走34亿](https://www.baidu.com/s?wd=A%E8%82%A1%E5%86%8D%E7%8E%B0%E5%A4%A9%E4%BB%B7%E7%A6%BB%E5%A9%9A%EF%BC%81%E5%A5%B3%E6%96%B9%E6%8B%BF%E8%B5%B034%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [老太神色慌张开房 酒店经理立即报警](https://www.baidu.com/s?wd=%E9%85%92%E5%BA%97%E7%BB%8F%E7%90%86%E8%A7%81%E8%80%81%E5%A4%AA%E5%BC%80%E6%88%BF%E7%A5%9E%E8%89%B2%E6%85%8C%E5%BC%A0%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子偷两条马路卖钱 警方：稀罕](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%B7%E4%B8%A4%E6%9D%A1%E9%A9%AC%E8%B7%AF%E5%8D%96%E9%92%B1+%E8%AD%A6%E6%96%B9%EF%BC%9A%E7%A8%80%E7%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [兄妹从29楼坠亡 家属：全家心都死了](https://www.baidu.com/s?wd=%E5%85%84%E5%A6%B9%E4%BB%8E29%E6%A5%BC%E5%9D%A0%E4%BA%A1+%E5%AE%B6%E5%B1%9E%EF%BC%9A%E5%85%A8%E5%AE%B6%E5%BF%83%E9%83%BD%E6%AD%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [陈建斌多巴胺穿搭](https://www.baidu.com/s?wd=%E9%99%88%E5%BB%BA%E6%96%8C%E5%A4%9A%E5%B7%B4%E8%83%BA%E7%A9%BF%E6%90%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [全民星选AI科技创想季](https://www.baidu.com/s?wd=%E5%85%A8%E6%B0%91%E6%98%9F%E9%80%89AI%E7%A7%91%E6%8A%80%E5%88%9B%E6%83%B3%E5%AD%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [炎亚纶事件当事人开记者会](https://www.baidu.com/s?wd=%E7%82%8E%E4%BA%9A%E7%BA%B6%E4%BA%8B%E4%BB%B6%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%BC%80%E8%AE%B0%E8%80%85%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -43,7 +43,7 @@
 3. [校方回应女子拒领三等奖：评委专业](https://www.baidu.com/s?wd=%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E6%8B%92%E9%A2%86%E4%B8%89%E7%AD%89%E5%A5%96%EF%BC%9A%E8%AF%84%E5%A7%94%E4%B8%93%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [他们是战巡南海绕岛巡航的空中铁拳](https://www.baidu.com/s?wd=%E4%BB%96%E4%BB%AC%E6%98%AF%E6%88%98%E5%B7%A1%E5%8D%97%E6%B5%B7%E7%BB%95%E5%B2%9B%E5%B7%A1%E8%88%AA%E7%9A%84%E7%A9%BA%E4%B8%AD%E9%93%81%E6%8B%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [A股再现天价离婚！女方拿走34亿](https://www.baidu.com/s?wd=A%E8%82%A1%E5%86%8D%E7%8E%B0%E5%A4%A9%E4%BB%B7%E7%A6%BB%E5%A9%9A%EF%BC%81%E5%A5%B3%E6%96%B9%E6%8B%BF%E8%B5%B034%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [老太神色慌张开房 酒店经理立即报警](https://www.baidu.com/s?wd=%E9%85%92%E5%BA%97%E7%BB%8F%E7%90%86%E8%A7%81%E8%80%81%E5%A4%AA%E5%BC%80%E6%88%BF%E7%A5%9E%E8%89%B2%E6%85%8C%E5%BC%A0%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子偷两条马路卖钱 警方：稀罕](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%B7%E4%B8%A4%E6%9D%A1%E9%A9%AC%E8%B7%AF%E5%8D%96%E9%92%B1+%E8%AD%A6%E6%96%B9%EF%BC%9A%E7%A8%80%E7%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [兄妹从29楼坠亡 家属：全家心都死了](https://www.baidu.com/s?wd=%E5%85%84%E5%A6%B9%E4%BB%8E29%E6%A5%BC%E5%9D%A0%E4%BA%A1+%E5%AE%B6%E5%B1%9E%EF%BC%9A%E5%85%A8%E5%AE%B6%E5%BF%83%E9%83%BD%E6%AD%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [陈建斌多巴胺穿搭](https://www.baidu.com/s?wd=%E9%99%88%E5%BB%BA%E6%96%8C%E5%A4%9A%E5%B7%B4%E8%83%BA%E7%A9%BF%E6%90%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [全民星选AI科技创想季](https://www.baidu.com/s?wd=%E5%85%A8%E6%B0%91%E6%98%9F%E9%80%89AI%E7%A7%91%E6%8A%80%E5%88%9B%E6%83%B3%E5%AD%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [炎亚纶事件当事人开记者会](https://www.baidu.com/s?wd=%E7%82%8E%E4%BA%9A%E7%BA%B6%E4%BA%8B%E4%BB%B6%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%BC%80%E8%AE%B0%E8%80%85%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
