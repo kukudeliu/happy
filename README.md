@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 04:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 04:10:01</h4></div>
 
 > 微博  
 
@@ -6,9 +6,9 @@
 2. [自曝被性侵女子提醒女生谨慎独自出国](https://s.weibo.com/weibo?q=%23%E8%87%AA%E6%9B%9D%E8%A2%AB%E6%80%A7%E4%BE%B5%E5%A5%B3%E5%AD%90%E6%8F%90%E9%86%92%E5%A5%B3%E7%94%9F%E8%B0%A8%E6%85%8E%E7%8B%AC%E8%87%AA%E5%87%BA%E5%9B%BD%23&t=31&band_rank=2&Refer=top)<br />
 3. [赛龙舟原来这么燃](https://s.weibo.com/weibo?q=%23%E8%B5%9B%E9%BE%99%E8%88%9F%E5%8E%9F%E6%9D%A5%E8%BF%99%E4%B9%88%E7%87%83%23&t=31&band_rank=3&Refer=top)<br />
 4. [深圳一女子洗澡时因触电身亡](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%A5%B3%E5%AD%90%E6%B4%97%E6%BE%A1%E6%97%B6%E5%9B%A0%E8%A7%A6%E7%94%B5%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=4&Refer=top)<br />
-5. [女生1次备7天菜下班5分钟吃上晚饭](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F1%E6%AC%A1%E5%A4%877%E5%A4%A9%E8%8F%9C%E4%B8%8B%E7%8F%AD5%E5%88%86%E9%92%9F%E5%90%83%E4%B8%8A%E6%99%9A%E9%A5%AD%23&t=31&band_rank=5&Refer=top)<br />
+5. [孙亦航](https://s.weibo.com/weibo?q=%E5%AD%99%E4%BA%A6%E8%88%AA&t=31&band_rank=5&Refer=top)<br />
 6. [炎亚纶心理素质](https://s.weibo.com/weibo?q=%23%E7%82%8E%E4%BA%9A%E7%BA%B6%E5%BF%83%E7%90%86%E7%B4%A0%E8%B4%A8%23&t=31&band_rank=6&Refer=top)<br />
-7. [孙亦航](https://s.weibo.com/weibo?q=%E5%AD%99%E4%BA%A6%E8%88%AA&t=31&band_rank=7&Refer=top)<br />
+7. [女生1次备7天菜下班5分钟吃上晚饭](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F1%E6%AC%A1%E5%A4%877%E5%A4%A9%E8%8F%9C%E4%B8%8B%E7%8F%AD5%E5%88%86%E9%92%9F%E5%90%83%E4%B8%8A%E6%99%9A%E9%A5%AD%23&t=31&band_rank=7&Refer=top)<br />
 8. [我只是gap了一年](https://s.weibo.com/weibo?q=%E6%88%91%E5%8F%AA%E6%98%AFgap%E4%BA%86%E4%B8%80%E5%B9%B4&t=31&band_rank=8&Refer=top)<br />
 9. [暑假太可怕了](https://s.weibo.com/weibo?q=%E6%9A%91%E5%81%87%E5%A4%AA%E5%8F%AF%E6%80%95%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
@@ -32,9 +32,9 @@
 4. [“上天入海” 这些重大项目频传捷报](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%8A%E5%A4%A9%E5%85%A5%E6%B5%B7%E2%80%9D+%E8%BF%99%E4%BA%9B%E9%87%8D%E5%A4%A7%E9%A1%B9%E7%9B%AE%E9%A2%91%E4%BC%A0%E6%8D%B7%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [普京：萨尔马特导弹将进入战斗值勤](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E8%90%A8%E5%B0%94%E9%A9%AC%E7%89%B9%E5%AF%BC%E5%BC%B9%E5%B0%86%E8%BF%9B%E5%85%A5%E6%88%98%E6%96%97%E5%80%BC%E5%8B%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [官方回应网友反映农村打井要办证](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BD%91%E5%8F%8B%E5%8F%8D%E6%98%A0%E5%86%9C%E6%9D%91%E6%89%93%E4%BA%95%E8%A6%81%E5%8A%9E%E8%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [都是谁在买8349元一盒的粽子](https://www.baidu.com/s?wd=%E9%83%BD%E6%98%AF%E8%B0%81%E5%9C%A8%E4%B9%B08349%E5%85%83%E4%B8%80%E7%9B%92%E7%9A%84%E7%B2%BD%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [丫丫肉眼可见圆滚滚起来了](https://www.baidu.com/s?wd=%E4%B8%AB%E4%B8%AB%E8%82%89%E7%9C%BC%E5%8F%AF%E8%A7%81%E5%9C%86%E6%BB%9A%E6%BB%9A%E8%B5%B7%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子离婚娘家人放鞭炮订蛋糕庆祝](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A6%BB%E5%A9%9A%E5%A8%98%E5%AE%B6%E4%BA%BA%E6%94%BE%E9%9E%AD%E7%82%AE%E8%AE%A2%E8%9B%8B%E7%B3%95%E5%BA%86%E7%A5%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子离婚娘家人放鞭炮订蛋糕庆祝](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A6%BB%E5%A9%9A%E5%A8%98%E5%AE%B6%E4%BA%BA%E6%94%BE%E9%9E%AD%E7%82%AE%E8%AE%A2%E8%9B%8B%E7%B3%95%E5%BA%86%E7%A5%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [都是谁在买8349元一盒的粽子](https://www.baidu.com/s?wd=%E9%83%BD%E6%98%AF%E8%B0%81%E5%9C%A8%E4%B9%B08349%E5%85%83%E4%B8%80%E7%9B%92%E7%9A%84%E7%B2%BD%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [丫丫肉眼可见圆滚滚起来了](https://www.baidu.com/s?wd=%E4%B8%AB%E4%B8%AB%E8%82%89%E7%9C%BC%E5%8F%AF%E8%A7%81%E5%9C%86%E6%BB%9A%E6%BB%9A%E8%B5%B7%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [“上天入海” 这些重大项目频传捷报](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%8A%E5%A4%A9%E5%85%A5%E6%B5%B7%E2%80%9D+%E8%BF%99%E4%BA%9B%E9%87%8D%E5%A4%A7%E9%A1%B9%E7%9B%AE%E9%A2%91%E4%BC%A0%E6%8D%B7%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [普京：萨尔马特导弹将进入战斗值勤](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E8%90%A8%E5%B0%94%E9%A9%AC%E7%89%B9%E5%AF%BC%E5%BC%B9%E5%B0%86%E8%BF%9B%E5%85%A5%E6%88%98%E6%96%97%E5%80%BC%E5%8B%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [官方回应网友反映农村打井要办证](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BD%91%E5%8F%8B%E5%8F%8D%E6%98%A0%E5%86%9C%E6%9D%91%E6%89%93%E4%BA%95%E8%A6%81%E5%8A%9E%E8%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [都是谁在买8349元一盒的粽子](https://www.baidu.com/s?wd=%E9%83%BD%E6%98%AF%E8%B0%81%E5%9C%A8%E4%B9%B08349%E5%85%83%E4%B8%80%E7%9B%92%E7%9A%84%E7%B2%BD%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [丫丫肉眼可见圆滚滚起来了](https://www.baidu.com/s?wd=%E4%B8%AB%E4%B8%AB%E8%82%89%E7%9C%BC%E5%8F%AF%E8%A7%81%E5%9C%86%E6%BB%9A%E6%BB%9A%E8%B5%B7%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子离婚娘家人放鞭炮订蛋糕庆祝](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A6%BB%E5%A9%9A%E5%A8%98%E5%AE%B6%E4%BA%BA%E6%94%BE%E9%9E%AD%E7%82%AE%E8%AE%A2%E8%9B%8B%E7%B3%95%E5%BA%86%E7%A5%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子离婚娘家人放鞭炮订蛋糕庆祝](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A6%BB%E5%A9%9A%E5%A8%98%E5%AE%B6%E4%BA%BA%E6%94%BE%E9%9E%AD%E7%82%AE%E8%AE%A2%E8%9B%8B%E7%B3%95%E5%BA%86%E7%A5%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [都是谁在买8349元一盒的粽子](https://www.baidu.com/s?wd=%E9%83%BD%E6%98%AF%E8%B0%81%E5%9C%A8%E4%B9%B08349%E5%85%83%E4%B8%80%E7%9B%92%E7%9A%84%E7%B2%BD%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [丫丫肉眼可见圆滚滚起来了](https://www.baidu.com/s?wd=%E4%B8%AB%E4%B8%AB%E8%82%89%E7%9C%BC%E5%8F%AF%E8%A7%81%E5%9C%86%E6%BB%9A%E6%BB%9A%E8%B5%B7%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
