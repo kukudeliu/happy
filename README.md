@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 08:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 08:30:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [酒店经理见老太开房神色慌张立即报警](https://s.weibo.com/weibo?q=%23%E9%85%92%E5%BA%97%E7%BB%8F%E7%90%86%E8%A7%81%E8%80%81%E5%A4%AA%E5%BC%80%E6%88%BF%E7%A5%9E%E8%89%B2%E6%85%8C%E5%BC%A0%E7%AB%8B%E5%8D%B3%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=6&Refer=top)<br />
 7. [种地吧 根本补不完](https://s.weibo.com/weibo?q=%E7%A7%8D%E5%9C%B0%E5%90%A7%20%E6%A0%B9%E6%9C%AC%E8%A1%A5%E4%B8%8D%E5%AE%8C&t=31&band_rank=7&Refer=top)<br />
 8. [女生自费30万拍作品拒绝领三等奖](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E8%87%AA%E8%B4%B930%E4%B8%87%E6%8B%8D%E4%BD%9C%E5%93%81%E6%8B%92%E7%BB%9D%E9%A2%86%E4%B8%89%E7%AD%89%E5%A5%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [霍启刚患上睡眠窒息症](https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%90%AF%E5%88%9A%E6%82%A3%E4%B8%8A%E7%9D%A1%E7%9C%A0%E7%AA%92%E6%81%AF%E7%97%87%23&t=31&band_rank=9&Refer=top)<br />
+9. [夏至](https://s.weibo.com/weibo?q=%E5%A4%8F%E8%87%B3&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
