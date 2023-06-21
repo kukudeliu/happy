@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 19:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 19:59:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [丫丫](https://s.weibo.com/weibo?q=%E4%B8%AB%E4%B8%AB&t=31&band_rank=6&Refer=top)<br />
 7. [网红长沙大屏循环播放禁毒宣言](https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E9%95%BF%E6%B2%99%E5%A4%A7%E5%B1%8F%E5%BE%AA%E7%8E%AF%E6%92%AD%E6%94%BE%E7%A6%81%E6%AF%92%E5%AE%A3%E8%A8%80%23&t=31&band_rank=7&Refer=top)<br />
 8. [川大地铁事件涉事学生被留校留党察看](https://s.weibo.com/weibo?q=%23%E5%B7%9D%E5%A4%A7%E5%9C%B0%E9%93%81%E4%BA%8B%E4%BB%B6%E6%B6%89%E4%BA%8B%E5%AD%A6%E7%94%9F%E8%A2%AB%E7%95%99%E6%A0%A1%E7%95%99%E5%85%9A%E5%AF%9F%E7%9C%8B%23&t=31&band_rank=8&Refer=top)<br />
-9. [曝炎亚纶曾请员工封锁邱耀乐账号](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%82%8E%E4%BA%9A%E7%BA%B6%E6%9B%BE%E8%AF%B7%E5%91%98%E5%B7%A5%E5%B0%81%E9%94%81%E9%82%B1%E8%80%80%E4%B9%90%E8%B4%A6%E5%8F%B7%23&t=31&band_rank=9&Refer=top)<br />
+9. [庆余年导演说演员应该杜绝文盲](https://s.weibo.com/weibo?q=%23%E5%BA%86%E4%BD%99%E5%B9%B4%E5%AF%BC%E6%BC%94%E8%AF%B4%E6%BC%94%E5%91%98%E5%BA%94%E8%AF%A5%E6%9D%9C%E7%BB%9D%E6%96%87%E7%9B%B2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -33,8 +33,8 @@
 5. [男子在绿化带内迷路四天三夜](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E7%BB%BF%E5%8C%96%E5%B8%A6%E5%86%85%E8%BF%B7%E8%B7%AF%E5%9B%9B%E5%A4%A9%E4%B8%89%E5%A4%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子喊3遍拔针护士打游戏不理会](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%96%8A3%E9%81%8D%E6%8B%94%E9%92%88%E6%8A%A4%E5%A3%AB%E6%89%93%E6%B8%B8%E6%88%8F%E4%B8%8D%E7%90%86%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [拆二代遇房企爆雷：房没了钱也没了](https://www.baidu.com/s?wd=%E6%8B%86%E4%BA%8C%E4%BB%A3%E9%81%87%E6%88%BF%E4%BC%81%E7%88%86%E9%9B%B7%EF%BC%9A%E6%88%BF%E6%B2%A1%E4%BA%86%E9%92%B1%E4%B9%9F%E6%B2%A1%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [印度18岁少女和男友遭荣誉处决](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A618%E5%B2%81%E5%B0%91%E5%A5%B3%E5%92%8C%E7%94%B7%E5%8F%8B%E9%81%AD%E8%8D%A3%E8%AA%89%E5%A4%84%E5%86%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [印度股市市值已成全球第四](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E8%82%A1%E5%B8%82%E5%B8%82%E5%80%BC%E5%B7%B2%E6%88%90%E5%85%A8%E7%90%83%E7%AC%AC%E5%9B%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [印度股市市值已成全球第四](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E8%82%A1%E5%B8%82%E5%B8%82%E5%80%BC%E5%B7%B2%E6%88%90%E5%85%A8%E7%90%83%E7%AC%AC%E5%9B%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女生在马代遭性侵：电话报不了警](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%9C%A8%E9%A9%AC%E4%BB%A3%E9%81%AD%E6%80%A7%E4%BE%B5%EF%BC%9A%E7%94%B5%E8%AF%9D%E6%8A%A5%E4%B8%8D%E4%BA%86%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [男子在绿化带内迷路四天三夜](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E7%BB%BF%E5%8C%96%E5%B8%A6%E5%86%85%E8%BF%B7%E8%B7%AF%E5%9B%9B%E5%A4%A9%E4%B8%89%E5%A4%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子喊3遍拔针护士打游戏不理会](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%96%8A3%E9%81%8D%E6%8B%94%E9%92%88%E6%8A%A4%E5%A3%AB%E6%89%93%E6%B8%B8%E6%88%8F%E4%B8%8D%E7%90%86%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [拆二代遇房企爆雷：房没了钱也没了](https://www.baidu.com/s?wd=%E6%8B%86%E4%BA%8C%E4%BB%A3%E9%81%87%E6%88%BF%E4%BC%81%E7%88%86%E9%9B%B7%EF%BC%9A%E6%88%BF%E6%B2%A1%E4%BA%86%E9%92%B1%E4%B9%9F%E6%B2%A1%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [印度18岁少女和男友遭荣誉处决](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A618%E5%B2%81%E5%B0%91%E5%A5%B3%E5%92%8C%E7%94%B7%E5%8F%8B%E9%81%AD%E8%8D%A3%E8%AA%89%E5%A4%84%E5%86%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [印度股市市值已成全球第四](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E8%82%A1%E5%B8%82%E5%B8%82%E5%80%BC%E5%B7%B2%E6%88%90%E5%85%A8%E7%90%83%E7%AC%AC%E5%9B%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [印度股市市值已成全球第四](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E8%82%A1%E5%B8%82%E5%B8%82%E5%80%BC%E5%B7%B2%E6%88%90%E5%85%A8%E7%90%83%E7%AC%AC%E5%9B%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女生在马代遭性侵：电话报不了警](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%9C%A8%E9%A9%AC%E4%BB%A3%E9%81%AD%E6%80%A7%E4%BE%B5%EF%BC%9A%E7%94%B5%E8%AF%9D%E6%8A%A5%E4%B8%8D%E4%BA%86%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
