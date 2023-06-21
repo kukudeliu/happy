@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 11:02:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 11:03:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [女子房门被封死 封门邻居被指已离世](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%88%BF%E9%97%A8%E8%A2%AB%E5%B0%81%E6%AD%BB+%E5%B0%81%E9%97%A8%E9%82%BB%E5%B1%85%E8%A2%AB%E6%8C%87%E5%B7%B2%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子偷两条马路卖钱 警方：稀罕](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%B7%E4%B8%A4%E6%9D%A1%E9%A9%AC%E8%B7%AF%E5%8D%96%E9%92%B1+%E8%AD%A6%E6%96%B9%EF%BC%9A%E7%A8%80%E7%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [萧煌奇回应不是盲人还开车](https://www.baidu.com/s?wd=%E8%90%A7%E7%85%8C%E5%A5%87%E5%9B%9E%E5%BA%94%E4%B8%8D%E6%98%AF%E7%9B%B2%E4%BA%BA%E8%BF%98%E5%BC%80%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [学校食堂烤鱼现蛆虫 官方：情况属实](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E9%A3%9F%E5%A0%82%E7%83%A4%E9%B1%BC%E7%8E%B0%E8%9B%86%E8%99%AB+%E5%AE%98%E6%96%B9%EF%BC%9A%E6%83%85%E5%86%B5%E5%B1%9E%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [官宣第一天蔡崇信就在菜鸟上班了](https://www.baidu.com/s?wd=%E5%AE%98%E5%AE%A3%E7%AC%AC%E4%B8%80%E5%A4%A9%E8%94%A1%E5%B4%87%E4%BF%A1%E5%B0%B1%E5%9C%A8%E8%8F%9C%E9%B8%9F%E4%B8%8A%E7%8F%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [全民星选AI科技创想季](https://www.baidu.com/s?wd=%E5%85%A8%E6%B0%91%E6%98%9F%E9%80%89AI%E7%A7%91%E6%8A%80%E5%88%9B%E6%83%B3%E5%AD%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [学校食堂烤鱼现蛆虫 官方：情况属实](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E9%A3%9F%E5%A0%82%E7%83%A4%E9%B1%BC%E7%8E%B0%E8%9B%86%E8%99%AB+%E5%AE%98%E6%96%B9%EF%BC%9A%E6%83%85%E5%86%B5%E5%B1%9E%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [女子房门被封死 封门邻居被指已离世](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%88%BF%E9%97%A8%E8%A2%AB%E5%B0%81%E6%AD%BB+%E5%B0%81%E9%97%A8%E9%82%BB%E5%B1%85%E8%A2%AB%E6%8C%87%E5%B7%B2%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子偷两条马路卖钱 警方：稀罕](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%B7%E4%B8%A4%E6%9D%A1%E9%A9%AC%E8%B7%AF%E5%8D%96%E9%92%B1+%E8%AD%A6%E6%96%B9%EF%BC%9A%E7%A8%80%E7%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [萧煌奇回应不是盲人还开车](https://www.baidu.com/s?wd=%E8%90%A7%E7%85%8C%E5%A5%87%E5%9B%9E%E5%BA%94%E4%B8%8D%E6%98%AF%E7%9B%B2%E4%BA%BA%E8%BF%98%E5%BC%80%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [学校食堂烤鱼现蛆虫 官方：情况属实](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E9%A3%9F%E5%A0%82%E7%83%A4%E9%B1%BC%E7%8E%B0%E8%9B%86%E8%99%AB+%E5%AE%98%E6%96%B9%EF%BC%9A%E6%83%85%E5%86%B5%E5%B1%9E%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [官宣第一天蔡崇信就在菜鸟上班了](https://www.baidu.com/s?wd=%E5%AE%98%E5%AE%A3%E7%AC%AC%E4%B8%80%E5%A4%A9%E8%94%A1%E5%B4%87%E4%BF%A1%E5%B0%B1%E5%9C%A8%E8%8F%9C%E9%B8%9F%E4%B8%8A%E7%8F%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [全民星选AI科技创想季](https://www.baidu.com/s?wd=%E5%85%A8%E6%B0%91%E6%98%9F%E9%80%89AI%E7%A7%91%E6%8A%80%E5%88%9B%E6%83%B3%E5%AD%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [学校食堂烤鱼现蛆虫 官方：情况属实](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E9%A3%9F%E5%A0%82%E7%83%A4%E9%B1%BC%E7%8E%B0%E8%9B%86%E8%99%AB+%E5%AE%98%E6%96%B9%EF%BC%9A%E6%83%85%E5%86%B5%E5%B1%9E%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
