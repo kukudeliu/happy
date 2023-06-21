@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 01:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 01:47:01</h4></div>
 
 > 微博  
 
-1. [暑假太可怕了](https://s.weibo.com/weibo?q=%E6%9A%91%E5%81%87%E5%A4%AA%E5%8F%AF%E6%80%95%E4%BA%86&t=31&band_rank=1&Refer=top)<br />
-2. [川大对张某的调查显得失焦且碎片化](https://s.weibo.com/weibo?q=%23%E5%B7%9D%E5%A4%A7%E5%AF%B9%E5%BC%A0%E6%9F%90%E7%9A%84%E8%B0%83%E6%9F%A5%E6%98%BE%E5%BE%97%E5%A4%B1%E7%84%A6%E4%B8%94%E7%A2%8E%E7%89%87%E5%8C%96%23&t=31&band_rank=2&Refer=top)<br />
+1. [川大对张某的调查显得失焦且碎片化](https://s.weibo.com/weibo?q=%23%E5%B7%9D%E5%A4%A7%E5%AF%B9%E5%BC%A0%E6%9F%90%E7%9A%84%E8%B0%83%E6%9F%A5%E6%98%BE%E5%BE%97%E5%A4%B1%E7%84%A6%E4%B8%94%E7%A2%8E%E7%89%87%E5%8C%96%23&t=31&band_rank=1&Refer=top)<br />
+2. [暑假太可怕了](https://s.weibo.com/weibo?q=%E6%9A%91%E5%81%87%E5%A4%AA%E5%8F%AF%E6%80%95%E4%BA%86&t=31&band_rank=2&Refer=top)<br />
 3. [2022十大最美农村路](https://s.weibo.com/weibo?q=%232022%E5%8D%81%E5%A4%A7%E6%9C%80%E7%BE%8E%E5%86%9C%E6%9D%91%E8%B7%AF%23&t=31&band_rank=3&Refer=top)<br />
 4. [深圳一女子洗澡时因触电身亡](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%A5%B3%E5%AD%90%E6%B4%97%E6%BE%A1%E6%97%B6%E5%9B%A0%E8%A7%A6%E7%94%B5%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=4&Refer=top)<br />
 5. [马伯骞到底演戏还是说唱啊](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%BC%AF%E9%AA%9E%E5%88%B0%E5%BA%95%E6%BC%94%E6%88%8F%E8%BF%98%E6%98%AF%E8%AF%B4%E5%94%B1%E5%95%8A%23&t=31&band_rank=5&Refer=top)<br />
