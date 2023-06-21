@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 08:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 08:19:01</h4></div>
 
 > 微博  
 
@@ -9,16 +9,16 @@
 5. [关闭朋友圈半年后的变化](https://s.weibo.com/weibo?q=%23%E5%85%B3%E9%97%AD%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%8D%8A%E5%B9%B4%E5%90%8E%E7%9A%84%E5%8F%98%E5%8C%96%23&t=31&band_rank=5&Refer=top)<br />
 6. [女生自费30万拍作品拒绝领三等奖](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E8%87%AA%E8%B4%B930%E4%B8%87%E6%8B%8D%E4%BD%9C%E5%93%81%E6%8B%92%E7%BB%9D%E9%A2%86%E4%B8%89%E7%AD%89%E5%A5%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [种地吧 根本补不完](https://s.weibo.com/weibo?q=%E7%A7%8D%E5%9C%B0%E5%90%A7%20%E6%A0%B9%E6%9C%AC%E8%A1%A5%E4%B8%8D%E5%AE%8C&t=31&band_rank=7&Refer=top)<br />
-8. [夏至](https://s.weibo.com/weibo?q=%E5%A4%8F%E8%87%B3&t=31&band_rank=8&Refer=top)<br />
-9. [马伯骞问爱马仕是什么](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%BC%AF%E9%AA%9E%E9%97%AE%E7%88%B1%E9%A9%AC%E4%BB%95%E6%98%AF%E4%BB%80%E4%B9%88%23&t=31&band_rank=9&Refer=top)<br />
+8. [马伯骞问爱马仕是什么](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%BC%AF%E9%AA%9E%E9%97%AE%E7%88%B1%E9%A9%AC%E4%BB%95%E6%98%AF%E4%BB%80%E4%B9%88%23&t=31&band_rank=8&Refer=top)<br />
+9. [夏至](https://s.weibo.com/weibo?q=%E5%A4%8F%E8%87%B3&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [「泰坦尼克」号残骸观光潜艇失联，氧气仅剩 96 小时，美国、加拿大紧急联手部署搜寻，具体情况如何？](https://www.zhihu.com/question/607595452)<br />
 2. [每斤跌至 3 元，妃子笑荔枝卖出蔬菜价，经销商称「5 年来最低的价格」，今年荔枝为何降得如此夸张？](https://www.zhihu.com/question/607612022)<br />
 3. [40 岁以后，你发现哪些钱根本没必要花？](https://www.zhihu.com/question/593808844)<br />
-4. [中使馆回应中国女生在马尔代夫遭酒店管家性侵，称「已敦促马方严肃对待、认真调查」，后续将如何发展？](https://www.zhihu.com/question/607596882)<br />
-5. [女子全款购房后，收房时发现竟被陌生人住，物业称「房子交付前该女子不算业主」，物业需要承担责任吗？](https://www.zhihu.com/question/501548894)<br />
+4. [女子全款购房后，收房时发现竟被陌生人住，物业称「房子交付前该女子不算业主」，物业需要承担责任吗？](https://www.zhihu.com/question/501548894)<br />
+5. [中使馆回应中国女生在马尔代夫遭酒店管家性侵，称「已敦促马方严肃对待、认真调查」，后续将如何发展？](https://www.zhihu.com/question/607596882)<br />
 6. [研究称大量抽取地下水改变地轴，导致地理北极每年倾斜 9 厘米，这意味着什么？将产生哪些影响？](https://www.zhihu.com/question/607587762)<br />
 7. [印度股市市值超越英法，位列全球第四，哪些信息值得关注？](https://www.zhihu.com/question/607598119)<br />
 8. [媒体评张雪峰关于新闻学专业言论称「学不学新闻不能只凭网红一张嘴」，如何评价此观点？你怎么看新闻学专业？](https://www.zhihu.com/question/607408168)<br />
@@ -32,9 +32,9 @@
 4. [他们是战巡南海绕岛巡航的空中铁拳](https://www.baidu.com/s?wd=%E4%BB%96%E4%BB%AC%E6%98%AF%E6%88%98%E5%B7%A1%E5%8D%97%E6%B5%B7%E7%BB%95%E5%B2%9B%E5%B7%A1%E8%88%AA%E7%9A%84%E7%A9%BA%E4%B8%AD%E9%93%81%E6%8B%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [观光潜艇失联 将是史上最深深海救援](https://www.baidu.com/s?wd=%E8%A7%82%E5%85%89%E6%BD%9C%E8%89%87%E5%A4%B1%E8%81%94+%E5%B0%86%E6%98%AF%E5%8F%B2%E4%B8%8A%E6%9C%80%E6%B7%B1%E6%B7%B1%E6%B5%B7%E6%95%91%E6%8F%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [学生驾车身亡父母获赔上亿](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E9%A9%BE%E8%BD%A6%E8%BA%AB%E4%BA%A1%E7%88%B6%E6%AF%8D%E8%8E%B7%E8%B5%94%E4%B8%8A%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [爱尔眼科王勇不接受艾芬道歉](https://www.baidu.com/s?wd=%E7%88%B1%E5%B0%94%E7%9C%BC%E7%A7%91%E7%8E%8B%E5%8B%87%E4%B8%8D%E6%8E%A5%E5%8F%97%E8%89%BE%E8%8A%AC%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [迪士尼安保挨个开包检查](https://www.baidu.com/s?wd=%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%AE%89%E4%BF%9D%E6%8C%A8%E4%B8%AA%E5%BC%80%E5%8C%85%E6%A3%80%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女子房门被封死 封门邻居被指已离世](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%88%BF%E9%97%A8%E8%A2%AB%E5%B0%81%E6%AD%BB+%E5%B0%81%E9%97%A8%E9%82%BB%E5%B1%85%E8%A2%AB%E6%8C%87%E5%B7%B2%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [16岁女篮小将身高已达2米27](https://www.baidu.com/s?wd=16%E5%B2%81%E5%A5%B3%E7%AF%AE%E5%B0%8F%E5%B0%86%E8%BA%AB%E9%AB%98%E5%B7%B2%E8%BE%BE2%E7%B1%B327&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [新西兰中餐馆遇袭 7名中国公民受伤](https://www.baidu.com/s?wd=%E6%96%B0%E8%A5%BF%E5%85%B0%E4%B8%AD%E9%A4%90%E9%A6%86%E9%81%87%E8%A2%AD+7%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%8F%97%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [他们是战巡南海绕岛巡航的空中铁拳](https://www.baidu.com/s?wd=%E4%BB%96%E4%BB%AC%E6%98%AF%E6%88%98%E5%B7%A1%E5%8D%97%E6%B5%B7%E7%BB%95%E5%B2%9B%E5%B7%A1%E8%88%AA%E7%9A%84%E7%A9%BA%E4%B8%AD%E9%93%81%E6%8B%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [观光潜艇失联 将是史上最深深海救援](https://www.baidu.com/s?wd=%E8%A7%82%E5%85%89%E6%BD%9C%E8%89%87%E5%A4%B1%E8%81%94+%E5%B0%86%E6%98%AF%E5%8F%B2%E4%B8%8A%E6%9C%80%E6%B7%B1%E6%B7%B1%E6%B5%B7%E6%95%91%E6%8F%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [学生驾车身亡父母获赔上亿](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E9%A9%BE%E8%BD%A6%E8%BA%AB%E4%BA%A1%E7%88%B6%E6%AF%8D%E8%8E%B7%E8%B5%94%E4%B8%8A%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [爱尔眼科王勇不接受艾芬道歉](https://www.baidu.com/s?wd=%E7%88%B1%E5%B0%94%E7%9C%BC%E7%A7%91%E7%8E%8B%E5%8B%87%E4%B8%8D%E6%8E%A5%E5%8F%97%E8%89%BE%E8%8A%AC%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [迪士尼安保挨个开包检查](https://www.baidu.com/s?wd=%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%AE%89%E4%BF%9D%E6%8C%A8%E4%B8%AA%E5%BC%80%E5%8C%85%E6%A3%80%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女子房门被封死 封门邻居被指已离世](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%88%BF%E9%97%A8%E8%A2%AB%E5%B0%81%E6%AD%BB+%E5%B0%81%E9%97%A8%E9%82%BB%E5%B1%85%E8%A2%AB%E6%8C%87%E5%B7%B2%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [16岁女篮小将身高已达2米27](https://www.baidu.com/s?wd=16%E5%B2%81%E5%A5%B3%E7%AF%AE%E5%B0%8F%E5%B0%86%E8%BA%AB%E9%AB%98%E5%B7%B2%E8%BE%BE2%E7%B1%B327&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [新西兰中餐馆遇袭 7名中国公民受伤](https://www.baidu.com/s?wd=%E6%96%B0%E8%A5%BF%E5%85%B0%E4%B8%AD%E9%A4%90%E9%A6%86%E9%81%87%E8%A2%AD+7%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%8F%97%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
