@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 19:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 19:11:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [兵马俑的衣着有近20种色调](https://s.weibo.com/weibo?q=%23%E5%85%B5%E9%A9%AC%E4%BF%91%E7%9A%84%E8%A1%A3%E7%9D%80%E6%9C%89%E8%BF%9120%E7%A7%8D%E8%89%B2%E8%B0%83%23&t=31&band_rank=5&Refer=top)<br />
 6. [曝炎亚纶曾请员工封锁邱耀乐账号](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%82%8E%E4%BA%9A%E7%BA%B6%E6%9B%BE%E8%AF%B7%E5%91%98%E5%B7%A5%E5%B0%81%E9%94%81%E9%82%B1%E8%80%80%E4%B9%90%E8%B4%A6%E5%8F%B7%23&t=31&band_rank=6&Refer=top)<br />
 7. [四川大学称张某保研不违规](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E7%A7%B0%E5%BC%A0%E6%9F%90%E4%BF%9D%E7%A0%94%E4%B8%8D%E8%BF%9D%E8%A7%84%23&t=31&band_rank=7&Refer=top)<br />
-8. [拜登儿子认罪](https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E5%84%BF%E5%AD%90%E8%AE%A4%E7%BD%AA%23&t=31&band_rank=8&Refer=top)<br />
-9. [庆余年导演说演员应该杜绝文盲](https://s.weibo.com/weibo?q=%23%E5%BA%86%E4%BD%99%E5%B9%B4%E5%AF%BC%E6%BC%94%E8%AF%B4%E6%BC%94%E5%91%98%E5%BA%94%E8%AF%A5%E6%9D%9C%E7%BB%9D%E6%96%87%E7%9B%B2%23&t=31&band_rank=9&Refer=top)<br />
+8. [网红长沙大屏循环播放禁毒宣言](https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E9%95%BF%E6%B2%99%E5%A4%A7%E5%B1%8F%E5%BE%AA%E7%8E%AF%E6%92%AD%E6%94%BE%E7%A6%81%E6%AF%92%E5%AE%A3%E8%A8%80%23&t=31&band_rank=8&Refer=top)<br />
+9. [拜登儿子认罪](https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E5%84%BF%E5%AD%90%E8%AE%A4%E7%BD%AA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
