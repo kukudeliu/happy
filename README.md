@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 15:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 15:05:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [空军航空兵某团飞行二大队获「时代楷模」称号，褒扬他们是「奋飞新时代的空中铁拳」，他们值得学习的点在哪？](https://www.zhihu.com/question/607609756)<br />
 7. [全国结婚登记量跌破 700 万对，年轻人反问「为什么要结婚」，低结婚率背后是传统婚姻功能的减弱吗？](https://www.zhihu.com/question/607794507)<br />
 8. [倪光南院士称「SSD 取代 HDD 时机已经到来」，会给市场造成哪些影响？](https://www.zhihu.com/question/607126650)<br />
-9. [官方通报「焦作师专食堂烤鱼现蛆虫」，称「情况属实，立案查处」，学生食堂的食品安全应如何保证？](https://www.zhihu.com/question/607780351)<br />
+9. [为什么网友不满意《庆余年 2》叶灵儿演员换成金晨？原著中叶灵儿的人设如何？](https://www.zhihu.com/question/607597903)<br />
 
 > 百度  
 
@@ -32,9 +32,9 @@
 4. [他们是战巡南海绕岛巡航的空中铁拳](https://www.baidu.com/s?wd=%E4%BB%96%E4%BB%AC%E6%98%AF%E6%88%98%E5%B7%A1%E5%8D%97%E6%B5%B7%E7%BB%95%E5%B2%9B%E5%B7%A1%E8%88%AA%E7%9A%84%E7%A9%BA%E4%B8%AD%E9%93%81%E6%8B%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子不满意双眼皮手术 要求枪毙医生](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%8D%E6%BB%A1%E6%84%8F%E5%8F%8C%E7%9C%BC%E7%9A%AE%E6%89%8B%E6%9C%AF+%E8%A6%81%E6%B1%82%E6%9E%AA%E6%AF%99%E5%8C%BB%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [邱耀乐：不接受炎亚纶道歉 很没诚意](https://www.baidu.com/s?wd=%E9%82%B1%E8%80%80%E4%B9%90%EF%BC%9A%E4%B8%8D%E6%8E%A5%E5%8F%97%E7%82%8E%E4%BA%9A%E7%BA%B6%E9%81%93%E6%AD%89+%E5%BE%88%E6%B2%A1%E8%AF%9A%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [台媒：山东舰编队今日通过台湾海峡](https://www.baidu.com/s?wd=%E5%8F%B0%E5%AA%92%EF%BC%9A%E5%B1%B1%E4%B8%9C%E8%88%B0%E7%BC%96%E9%98%9F%E4%BB%8A%E6%97%A5%E9%80%9A%E8%BF%87%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [5亿身家高中生坠亡案侦结：假结婚](https://www.baidu.com/s?wd=5%E4%BA%BF%E8%BA%AB%E5%AE%B6%E9%AB%98%E4%B8%AD%E7%94%9F%E5%9D%A0%E4%BA%A1%E6%A1%88%E4%BE%A6%E7%BB%93%EF%BC%9A%E5%81%87%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [萧煌奇摘墨镜自证是盲人](https://www.baidu.com/s?wd=%E8%90%A7%E7%85%8C%E5%A5%87%E6%91%98%E5%A2%A8%E9%95%9C%E8%87%AA%E8%AF%81%E6%98%AF%E7%9B%B2%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [5亿身家高中生坠亡案侦结：假结婚](https://www.baidu.com/s?wd=5%E4%BA%BF%E8%BA%AB%E5%AE%B6%E9%AB%98%E4%B8%AD%E7%94%9F%E5%9D%A0%E4%BA%A1%E6%A1%88%E4%BE%A6%E7%BB%93%EF%BC%9A%E5%81%87%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [萧煌奇摘墨镜自证是盲人](https://www.baidu.com/s?wd=%E8%90%A7%E7%85%8C%E5%A5%87%E6%91%98%E5%A2%A8%E9%95%9C%E8%87%AA%E8%AF%81%E6%98%AF%E7%9B%B2%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [大学生网购毒品 掺进奶茶给室友喝](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%BD%91%E8%B4%AD%E6%AF%92%E5%93%81+%E6%8E%BA%E8%BF%9B%E5%A5%B6%E8%8C%B6%E7%BB%99%E5%AE%A4%E5%8F%8B%E5%96%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [他们是战巡南海绕岛巡航的空中铁拳](https://www.baidu.com/s?wd=%E4%BB%96%E4%BB%AC%E6%98%AF%E6%88%98%E5%B7%A1%E5%8D%97%E6%B5%B7%E7%BB%95%E5%B2%9B%E5%B7%A1%E8%88%AA%E7%9A%84%E7%A9%BA%E4%B8%AD%E9%93%81%E6%8B%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子不满意双眼皮手术 要求枪毙医生](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%8D%E6%BB%A1%E6%84%8F%E5%8F%8C%E7%9C%BC%E7%9A%AE%E6%89%8B%E6%9C%AF+%E8%A6%81%E6%B1%82%E6%9E%AA%E6%AF%99%E5%8C%BB%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [邱耀乐：不接受炎亚纶道歉 很没诚意](https://www.baidu.com/s?wd=%E9%82%B1%E8%80%80%E4%B9%90%EF%BC%9A%E4%B8%8D%E6%8E%A5%E5%8F%97%E7%82%8E%E4%BA%9A%E7%BA%B6%E9%81%93%E6%AD%89+%E5%BE%88%E6%B2%A1%E8%AF%9A%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [台媒：山东舰编队今日通过台湾海峡](https://www.baidu.com/s?wd=%E5%8F%B0%E5%AA%92%EF%BC%9A%E5%B1%B1%E4%B8%9C%E8%88%B0%E7%BC%96%E9%98%9F%E4%BB%8A%E6%97%A5%E9%80%9A%E8%BF%87%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [5亿身家高中生坠亡案侦结：假结婚](https://www.baidu.com/s?wd=5%E4%BA%BF%E8%BA%AB%E5%AE%B6%E9%AB%98%E4%B8%AD%E7%94%9F%E5%9D%A0%E4%BA%A1%E6%A1%88%E4%BE%A6%E7%BB%93%EF%BC%9A%E5%81%87%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [萧煌奇摘墨镜自证是盲人](https://www.baidu.com/s?wd=%E8%90%A7%E7%85%8C%E5%A5%87%E6%91%98%E5%A2%A8%E9%95%9C%E8%87%AA%E8%AF%81%E6%98%AF%E7%9B%B2%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [5亿身家高中生坠亡案侦结：假结婚](https://www.baidu.com/s?wd=5%E4%BA%BF%E8%BA%AB%E5%AE%B6%E9%AB%98%E4%B8%AD%E7%94%9F%E5%9D%A0%E4%BA%A1%E6%A1%88%E4%BE%A6%E7%BB%93%EF%BC%9A%E5%81%87%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [萧煌奇摘墨镜自证是盲人](https://www.baidu.com/s?wd=%E8%90%A7%E7%85%8C%E5%A5%87%E6%91%98%E5%A2%A8%E9%95%9C%E8%87%AA%E8%AF%81%E6%98%AF%E7%9B%B2%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [大学生网购毒品 掺进奶茶给室友喝](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%BD%91%E8%B4%AD%E6%AF%92%E5%93%81+%E6%8E%BA%E8%BF%9B%E5%A5%B6%E8%8C%B6%E7%BB%99%E5%AE%A4%E5%8F%8B%E5%96%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
