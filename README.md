@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 04:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 04:49:01</h4></div>
 
 > 微博  
 
@@ -32,9 +32,9 @@
 4. [“上天入海” 这些重大项目频传捷报](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%8A%E5%A4%A9%E5%85%A5%E6%B5%B7%E2%80%9D+%E8%BF%99%E4%BA%9B%E9%87%8D%E5%A4%A7%E9%A1%B9%E7%9B%AE%E9%A2%91%E4%BC%A0%E6%8D%B7%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [普京：萨尔马特导弹将进入战斗值勤](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E8%90%A8%E5%B0%94%E9%A9%AC%E7%89%B9%E5%AF%BC%E5%BC%B9%E5%B0%86%E8%BF%9B%E5%85%A5%E6%88%98%E6%96%97%E5%80%BC%E5%8B%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子将农药倒入父亲止咳糖浆瓶内](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B0%86%E5%86%9C%E8%8D%AF%E5%80%92%E5%85%A5%E7%88%B6%E4%BA%B2%E6%AD%A2%E5%92%B3%E7%B3%96%E6%B5%86%E7%93%B6%E5%86%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [拆二代遇房企爆雷：房没了钱也没了](https://www.baidu.com/s?wd=%E6%8B%86%E4%BA%8C%E4%BB%A3%E9%81%87%E6%88%BF%E4%BC%81%E7%88%86%E9%9B%B7%EF%BC%9A%E6%88%BF%E6%B2%A1%E4%BA%86%E9%92%B1%E4%B9%9F%E6%B2%A1%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [曝汪小菲连夜赴台接娃](https://www.baidu.com/s?wd=%E6%9B%9D%E6%B1%AA%E5%B0%8F%E8%8F%B2%E8%BF%9E%E5%A4%9C%E8%B5%B4%E5%8F%B0%E6%8E%A5%E5%A8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中国夫妇日本旅游抓683只蟹被捕](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%AB%E5%A6%87%E6%97%A5%E6%9C%AC%E6%97%85%E6%B8%B8%E6%8A%93683%E5%8F%AA%E8%9F%B9%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [曝汪小菲连夜赴台接娃](https://www.baidu.com/s?wd=%E6%9B%9D%E6%B1%AA%E5%B0%8F%E8%8F%B2%E8%BF%9E%E5%A4%9C%E8%B5%B4%E5%8F%B0%E6%8E%A5%E5%A8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [拆二代遇房企爆雷：房没了钱也没了](https://www.baidu.com/s?wd=%E6%8B%86%E4%BA%8C%E4%BB%A3%E9%81%87%E6%88%BF%E4%BC%81%E7%88%86%E9%9B%B7%EF%BC%9A%E6%88%BF%E6%B2%A1%E4%BA%86%E9%92%B1%E4%B9%9F%E6%B2%A1%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [印度18岁少女和男友遭荣誉处决](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A618%E5%B2%81%E5%B0%91%E5%A5%B3%E5%92%8C%E7%94%B7%E5%8F%8B%E9%81%AD%E8%8D%A3%E8%AA%89%E5%A4%84%E5%86%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [“上天入海” 这些重大项目频传捷报](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%8A%E5%A4%A9%E5%85%A5%E6%B5%B7%E2%80%9D+%E8%BF%99%E4%BA%9B%E9%87%8D%E5%A4%A7%E9%A1%B9%E7%9B%AE%E9%A2%91%E4%BC%A0%E6%8D%B7%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [普京：萨尔马特导弹将进入战斗值勤](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E8%90%A8%E5%B0%94%E9%A9%AC%E7%89%B9%E5%AF%BC%E5%BC%B9%E5%B0%86%E8%BF%9B%E5%85%A5%E6%88%98%E6%96%97%E5%80%BC%E5%8B%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子将农药倒入父亲止咳糖浆瓶内](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B0%86%E5%86%9C%E8%8D%AF%E5%80%92%E5%85%A5%E7%88%B6%E4%BA%B2%E6%AD%A2%E5%92%B3%E7%B3%96%E6%B5%86%E7%93%B6%E5%86%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [拆二代遇房企爆雷：房没了钱也没了](https://www.baidu.com/s?wd=%E6%8B%86%E4%BA%8C%E4%BB%A3%E9%81%87%E6%88%BF%E4%BC%81%E7%88%86%E9%9B%B7%EF%BC%9A%E6%88%BF%E6%B2%A1%E4%BA%86%E9%92%B1%E4%B9%9F%E6%B2%A1%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [曝汪小菲连夜赴台接娃](https://www.baidu.com/s?wd=%E6%9B%9D%E6%B1%AA%E5%B0%8F%E8%8F%B2%E8%BF%9E%E5%A4%9C%E8%B5%B4%E5%8F%B0%E6%8E%A5%E5%A8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中国夫妇日本旅游抓683只蟹被捕](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%AB%E5%A6%87%E6%97%A5%E6%9C%AC%E6%97%85%E6%B8%B8%E6%8A%93683%E5%8F%AA%E8%9F%B9%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [曝汪小菲连夜赴台接娃](https://www.baidu.com/s?wd=%E6%9B%9D%E6%B1%AA%E5%B0%8F%E8%8F%B2%E8%BF%9E%E5%A4%9C%E8%B5%B4%E5%8F%B0%E6%8E%A5%E5%A8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [拆二代遇房企爆雷：房没了钱也没了](https://www.baidu.com/s?wd=%E6%8B%86%E4%BA%8C%E4%BB%A3%E9%81%87%E6%88%BF%E4%BC%81%E7%88%86%E9%9B%B7%EF%BC%9A%E6%88%BF%E6%B2%A1%E4%BA%86%E9%92%B1%E4%B9%9F%E6%B2%A1%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [印度18岁少女和男友遭荣誉处决](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A618%E5%B2%81%E5%B0%91%E5%A5%B3%E5%92%8C%E7%94%B7%E5%8F%8B%E9%81%AD%E8%8D%A3%E8%AA%89%E5%A4%84%E5%86%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
