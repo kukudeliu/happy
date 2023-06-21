@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 21:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 21:35:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [江浙沪已婚女士的共同点](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E6%B5%99%E6%B2%AA%E5%B7%B2%E5%A9%9A%E5%A5%B3%E5%A3%AB%E7%9A%84%E5%85%B1%E5%90%8C%E7%82%B9%23&t=31&band_rank=4&Refer=top)<br />
 5. [陈建斌的命也是命](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BB%BA%E6%96%8C%E7%9A%84%E5%91%BD%E4%B9%9F%E6%98%AF%E5%91%BD%23&t=31&band_rank=5&Refer=top)<br />
 6. [四川大学称张某保研不违规](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E7%A7%B0%E5%BC%A0%E6%9F%90%E4%BF%9D%E7%A0%94%E4%B8%8D%E8%BF%9D%E8%A7%84%23&t=31&band_rank=6&Refer=top)<br />
-7. [四川一中考生查出874分7门满分](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E4%B8%80%E4%B8%AD%E8%80%83%E7%94%9F%E6%9F%A5%E5%87%BA874%E5%88%867%E9%97%A8%E6%BB%A1%E5%88%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [我点的奶茶被领导捎了上来](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%82%B9%E7%9A%84%E5%A5%B6%E8%8C%B6%E8%A2%AB%E9%A2%86%E5%AF%BC%E6%8D%8E%E4%BA%86%E4%B8%8A%E6%9D%A5%23&t=31&band_rank=8&Refer=top)<br />
+7. [我点的奶茶被领导捎了上来](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%82%B9%E7%9A%84%E5%A5%B6%E8%8C%B6%E8%A2%AB%E9%A2%86%E5%AF%BC%E6%8D%8E%E4%BA%86%E4%B8%8A%E6%9D%A5%23&t=31&band_rank=7&Refer=top)<br />
+8. [四川一中考生查出874分7门满分](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E4%B8%80%E4%B8%AD%E8%80%83%E7%94%9F%E6%9F%A5%E5%87%BA874%E5%88%867%E9%97%A8%E6%BB%A1%E5%88%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [消失的她](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
