@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 12:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 12:12:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [饿了么免单](https://s.weibo.com/weibo?q=%E9%A5%BF%E4%BA%86%E4%B9%88%E5%85%8D%E5%8D%95&t=31&band_rank=5&Refer=top)<br />
 6. [长风渡上星了](https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%A3%8E%E6%B8%A1%E4%B8%8A%E6%98%9F%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [赵丽颖张碧晨合体上综艺](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%BC%A0%E7%A2%A7%E6%99%A8%E5%90%88%E4%BD%93%E4%B8%8A%E7%BB%BC%E8%89%BA%23&t=31&band_rank=7&Refer=top)<br />
-8. [12306](https://s.weibo.com/weibo?q=12306&t=31&band_rank=8&Refer=top)<br />
-9. [几十块的婚纱和几万块一样洁白](https://s.weibo.com/weibo?q=%23%E5%87%A0%E5%8D%81%E5%9D%97%E7%9A%84%E5%A9%9A%E7%BA%B1%E5%92%8C%E5%87%A0%E4%B8%87%E5%9D%97%E4%B8%80%E6%A0%B7%E6%B4%81%E7%99%BD%23&t=31&band_rank=9&Refer=top)<br />
+8. [几十块的婚纱和几万块一样洁白](https://s.weibo.com/weibo?q=%23%E5%87%A0%E5%8D%81%E5%9D%97%E7%9A%84%E5%A9%9A%E7%BA%B1%E5%92%8C%E5%87%A0%E4%B8%87%E5%9D%97%E4%B8%80%E6%A0%B7%E6%B4%81%E7%99%BD%23&t=31&band_rank=8&Refer=top)<br />
+9. [中山大学录取通知书内有云南普洱茶](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B1%B1%E5%A4%A7%E5%AD%A6%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E5%86%85%E6%9C%89%E4%BA%91%E5%8D%97%E6%99%AE%E6%B4%B1%E8%8C%B6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
