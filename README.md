@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 21:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 21:02:02</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [我点的奶茶被领导捎了上来](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%82%B9%E7%9A%84%E5%A5%B6%E8%8C%B6%E8%A2%AB%E9%A2%86%E5%AF%BC%E6%8D%8E%E4%BA%86%E4%B8%8A%E6%9D%A5%23&t=31&band_rank=4&Refer=top)<br />
 5. [科目二我考了负725分](https://s.weibo.com/weibo?q=%23%E7%A7%91%E7%9B%AE%E4%BA%8C%E6%88%91%E8%80%83%E4%BA%86%E8%B4%9F725%E5%88%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [耀乐明确拒绝炎亚纶拍摄私密影片](https://s.weibo.com/weibo?q=%23%E8%80%80%E4%B9%90%E6%98%8E%E7%A1%AE%E6%8B%92%E7%BB%9D%E7%82%8E%E4%BA%9A%E7%BA%B6%E6%8B%8D%E6%91%84%E7%A7%81%E5%AF%86%E5%BD%B1%E7%89%87%23&t=31&band_rank=6&Refer=top)<br />
-7. [警方将侦办炎亚纶事件](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%B0%86%E4%BE%A6%E5%8A%9E%E7%82%8E%E4%BA%9A%E7%BA%B6%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=7&Refer=top)<br />
-8. [四川一中考生查出874分7门满分](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E4%B8%80%E4%B8%AD%E8%80%83%E7%94%9F%E6%9F%A5%E5%87%BA874%E5%88%867%E9%97%A8%E6%BB%A1%E5%88%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [四川大学称张某保研不违规](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E7%A7%B0%E5%BC%A0%E6%9F%90%E4%BF%9D%E7%A0%94%E4%B8%8D%E8%BF%9D%E8%A7%84%23&t=31&band_rank=9&Refer=top)<br />
+7. [陈建斌的命也是命](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BB%BA%E6%96%8C%E7%9A%84%E5%91%BD%E4%B9%9F%E6%98%AF%E5%91%BD%23&t=31&band_rank=7&Refer=top)<br />
+8. [警方将侦办炎亚纶事件](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%B0%86%E4%BE%A6%E5%8A%9E%E7%82%8E%E4%BA%9A%E7%BA%B6%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=8&Refer=top)<br />
+9. [四川一中考生查出874分7门满分](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E4%B8%80%E4%B8%AD%E8%80%83%E7%94%9F%E6%9F%A5%E5%87%BA874%E5%88%867%E9%97%A8%E6%BB%A1%E5%88%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
