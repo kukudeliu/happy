@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 06:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 06:44:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [炎亚纶心理素质](https://s.weibo.com/weibo?q=%23%E7%82%8E%E4%BA%9A%E7%BA%B6%E5%BF%83%E7%90%86%E7%B4%A0%E8%B4%A8%23&t=31&band_rank=6&Refer=top)<br />
 7. [暑假太可怕了](https://s.weibo.com/weibo?q=%E6%9A%91%E5%81%87%E5%A4%AA%E5%8F%AF%E6%80%95%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [女生1次备7天菜下班5分钟吃上晚饭](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F1%E6%AC%A1%E5%A4%877%E5%A4%A9%E8%8F%9C%E4%B8%8B%E7%8F%AD5%E5%88%86%E9%92%9F%E5%90%83%E4%B8%8A%E6%99%9A%E9%A5%AD%23&t=31&band_rank=8&Refer=top)<br />
-9. [邓亚萍拒绝158元一斤的车厘子](https://s.weibo.com/weibo?q=%23%E9%82%93%E4%BA%9A%E8%90%8D%E6%8B%92%E7%BB%9D158%E5%85%83%E4%B8%80%E6%96%A4%E7%9A%84%E8%BD%A6%E5%8E%98%E5%AD%90%23&t=31&band_rank=9&Refer=top)<br />
+9. [孙亦航](https://s.weibo.com/weibo?q=%E5%AD%99%E4%BA%A6%E8%88%AA&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -31,10 +31,10 @@
 3. [自曝被性侵女子：女生谨慎独自出国](https://www.baidu.com/s?wd=%E8%87%AA%E6%9B%9D%E8%A2%AB%E6%80%A7%E4%BE%B5%E5%A5%B3%E5%AD%90%EF%BC%9A%E5%A5%B3%E7%94%9F%E8%B0%A8%E6%85%8E%E7%8B%AC%E8%87%AA%E5%87%BA%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“上天入海” 这些重大项目频传捷报](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%8A%E5%A4%A9%E5%85%A5%E6%B5%B7%E2%80%9D+%E8%BF%99%E4%BA%9B%E9%87%8D%E5%A4%A7%E9%A1%B9%E7%9B%AE%E9%A2%91%E4%BC%A0%E6%8D%B7%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [普京：萨尔马特导弹将进入战斗值勤](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E8%90%A8%E5%B0%94%E9%A9%AC%E7%89%B9%E5%AF%BC%E5%BC%B9%E5%B0%86%E8%BF%9B%E5%85%A5%E6%88%98%E6%96%97%E5%80%BC%E5%8B%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [布林肯访华承诺如何落实？美方回应](https://www.baidu.com/s?wd=%E5%B8%83%E6%9E%97%E8%82%AF%E8%AE%BF%E5%8D%8E%E6%89%BF%E8%AF%BA%E5%A6%82%E4%BD%95%E8%90%BD%E5%AE%9E%EF%BC%9F%E7%BE%8E%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [女子离婚娘家人放鞭炮订蛋糕庆祝](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A6%BB%E5%A9%9A%E5%A8%98%E5%AE%B6%E4%BA%BA%E6%94%BE%E9%9E%AD%E7%82%AE%E8%AE%A2%E8%9B%8B%E7%B3%95%E5%BA%86%E7%A5%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [邓亚萍拒绝158元一斤的车厘子](https://www.baidu.com/s?wd=%E9%82%93%E4%BA%9A%E8%90%8D%E6%8B%92%E7%BB%9D158%E5%85%83%E4%B8%80%E6%96%A4%E7%9A%84%E8%BD%A6%E5%8E%98%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子离婚娘家人放鞭炮订蛋糕庆祝](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A6%BB%E5%A9%9A%E5%A8%98%E5%AE%B6%E4%BA%BA%E6%94%BE%E9%9E%AD%E7%82%AE%E8%AE%A2%E8%9B%8B%E7%B3%95%E5%BA%86%E7%A5%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [都是谁在买8349元一盒的粽子](https://www.baidu.com/s?wd=%E9%83%BD%E6%98%AF%E8%B0%81%E5%9C%A8%E4%B9%B08349%E5%85%83%E4%B8%80%E7%9B%92%E7%9A%84%E7%B2%BD%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [北大教授姚洋反对中考分流](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88%E5%A7%9A%E6%B4%8B%E5%8F%8D%E5%AF%B9%E4%B8%AD%E8%80%83%E5%88%86%E6%B5%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [布林肯访华承诺如何落实？美方回应](https://www.baidu.com/s?wd=%E5%B8%83%E6%9E%97%E8%82%AF%E8%AE%BF%E5%8D%8E%E6%89%BF%E8%AF%BA%E5%A6%82%E4%BD%95%E8%90%BD%E5%AE%9E%EF%BC%9F%E7%BE%8E%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [自曝被性侵女子：女生谨慎独自出国](https://www.baidu.com/s?wd=%E8%87%AA%E6%9B%9D%E8%A2%AB%E6%80%A7%E4%BE%B5%E5%A5%B3%E5%AD%90%EF%BC%9A%E5%A5%B3%E7%94%9F%E8%B0%A8%E6%85%8E%E7%8B%AC%E8%87%AA%E5%87%BA%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“上天入海” 这些重大项目频传捷报](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%8A%E5%A4%A9%E5%85%A5%E6%B5%B7%E2%80%9D+%E8%BF%99%E4%BA%9B%E9%87%8D%E5%A4%A7%E9%A1%B9%E7%9B%AE%E9%A2%91%E4%BC%A0%E6%8D%B7%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [普京：萨尔马特导弹将进入战斗值勤](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E8%90%A8%E5%B0%94%E9%A9%AC%E7%89%B9%E5%AF%BC%E5%BC%B9%E5%B0%86%E8%BF%9B%E5%85%A5%E6%88%98%E6%96%97%E5%80%BC%E5%8B%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [布林肯访华承诺如何落实？美方回应](https://www.baidu.com/s?wd=%E5%B8%83%E6%9E%97%E8%82%AF%E8%AE%BF%E5%8D%8E%E6%89%BF%E8%AF%BA%E5%A6%82%E4%BD%95%E8%90%BD%E5%AE%9E%EF%BC%9F%E7%BE%8E%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [女子离婚娘家人放鞭炮订蛋糕庆祝](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A6%BB%E5%A9%9A%E5%A8%98%E5%AE%B6%E4%BA%BA%E6%94%BE%E9%9E%AD%E7%82%AE%E8%AE%A2%E8%9B%8B%E7%B3%95%E5%BA%86%E7%A5%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [邓亚萍拒绝158元一斤的车厘子](https://www.baidu.com/s?wd=%E9%82%93%E4%BA%9A%E8%90%8D%E6%8B%92%E7%BB%9D158%E5%85%83%E4%B8%80%E6%96%A4%E7%9A%84%E8%BD%A6%E5%8E%98%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子离婚娘家人放鞭炮订蛋糕庆祝](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A6%BB%E5%A9%9A%E5%A8%98%E5%AE%B6%E4%BA%BA%E6%94%BE%E9%9E%AD%E7%82%AE%E8%AE%A2%E8%9B%8B%E7%B3%95%E5%BA%86%E7%A5%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [都是谁在买8349元一盒的粽子](https://www.baidu.com/s?wd=%E9%83%BD%E6%98%AF%E8%B0%81%E5%9C%A8%E4%B9%B08349%E5%85%83%E4%B8%80%E7%9B%92%E7%9A%84%E7%B2%BD%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [北大教授姚洋反对中考分流](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88%E5%A7%9A%E6%B4%8B%E5%8F%8D%E5%AF%B9%E4%B8%AD%E8%80%83%E5%88%86%E6%B5%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [布林肯访华承诺如何落实？美方回应](https://www.baidu.com/s?wd=%E5%B8%83%E6%9E%97%E8%82%AF%E8%AE%BF%E5%8D%8E%E6%89%BF%E8%AF%BA%E5%A6%82%E4%BD%95%E8%90%BD%E5%AE%9E%EF%BC%9F%E7%BE%8E%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
