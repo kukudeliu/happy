@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 16:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 16:50:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [90岁老战士与90后飞行员同框](https://s.weibo.com/weibo?q=%2390%E5%B2%81%E8%80%81%E6%88%98%E5%A3%AB%E4%B8%8E90%E5%90%8E%E9%A3%9E%E8%A1%8C%E5%91%98%E5%90%8C%E6%A1%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [谁提极乐净土肖战和谁急](https://s.weibo.com/weibo?q=%23%E8%B0%81%E6%8F%90%E6%9E%81%E4%B9%90%E5%87%80%E5%9C%9F%E8%82%96%E6%88%98%E5%92%8C%E8%B0%81%E6%80%A5%23&t=31&band_rank=4&Refer=top)<br />
 5. [中国夫妇日本旅游抓683只寄居蟹被捕](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A4%AB%E5%A6%87%E6%97%A5%E6%9C%AC%E6%97%85%E6%B8%B8%E6%8A%93683%E5%8F%AA%E5%AF%84%E5%B1%85%E8%9F%B9%E8%A2%AB%E6%8D%95%23&t=31&band_rank=5&Refer=top)<br />
-6. [官方通报网传大学生涉嫌卖淫800次](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E7%BD%91%E4%BC%A0%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%B6%89%E5%AB%8C%E5%8D%96%E6%B7%AB800%E6%AC%A1%23&t=31&band_rank=6&Refer=top)<br />
-7. [青岛1米88大长腿交警回应走红](https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B1%E7%B1%B388%E5%A4%A7%E9%95%BF%E8%85%BF%E4%BA%A4%E8%AD%A6%E5%9B%9E%E5%BA%94%E8%B5%B0%E7%BA%A2%23&t=31&band_rank=7&Refer=top)<br />
-8. [临死前身体会发生的100种奇怪反应](https://s.weibo.com/weibo?q=%E4%B8%B4%E6%AD%BB%E5%89%8D%E8%BA%AB%E4%BD%93%E4%BC%9A%E5%8F%91%E7%94%9F%E7%9A%84100%E7%A7%8D%E5%A5%87%E6%80%AA%E5%8F%8D%E5%BA%94&t=31&band_rank=8&Refer=top)<br />
-9. [四川大学](https://s.weibo.com/weibo?q=%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6&t=31&band_rank=9&Refer=top)<br />
+6. [四川大学](https://s.weibo.com/weibo?q=%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6&t=31&band_rank=6&Refer=top)<br />
+7. [官方通报网传大学生涉嫌卖淫800次](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E7%BD%91%E4%BC%A0%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%B6%89%E5%AB%8C%E5%8D%96%E6%B7%AB800%E6%AC%A1%23&t=31&band_rank=7&Refer=top)<br />
+8. [青岛1米88大长腿交警回应走红](https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B1%E7%B1%B388%E5%A4%A7%E9%95%BF%E8%85%BF%E4%BA%A4%E8%AD%A6%E5%9B%9E%E5%BA%94%E8%B5%B0%E7%BA%A2%23&t=31&band_rank=8&Refer=top)<br />
+9. [临死前身体会发生的100种奇怪反应](https://s.weibo.com/weibo?q=%E4%B8%B4%E6%AD%BB%E5%89%8D%E8%BA%AB%E4%BD%93%E4%BC%9A%E5%8F%91%E7%94%9F%E7%9A%84100%E7%A7%8D%E5%A5%87%E6%80%AA%E5%8F%8D%E5%BA%94&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -32,9 +32,9 @@
 4. [全国铁路7月1日起实行新列车运行图](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E9%93%81%E8%B7%AF7%E6%9C%881%E6%97%A5%E8%B5%B7%E5%AE%9E%E8%A1%8C%E6%96%B0%E5%88%97%E8%BD%A6%E8%BF%90%E8%A1%8C%E5%9B%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子杭州绿化带迷路3天 吃野花求生](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%9D%AD%E5%B7%9E%E7%BB%BF%E5%8C%96%E5%B8%A6%E8%BF%B7%E8%B7%AF3%E5%A4%A9+%E5%90%83%E9%87%8E%E8%8A%B1%E6%B1%82%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [4位富豪因AI暴赚10000亿](https://www.baidu.com/s?wd=4%E4%BD%8D%E5%AF%8C%E8%B1%AA%E5%9B%A0AI%E6%9A%B4%E8%B5%9A10000%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子曝妻子与局长有不当关系](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%9B%9D%E5%A6%BB%E5%AD%90%E4%B8%8E%E5%B1%80%E9%95%BF%E6%9C%89%E4%B8%8D%E5%BD%93%E5%85%B3%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [曝汪小菲连夜赴台接娃](https://www.baidu.com/s?wd=%E6%9B%9D%E6%B1%AA%E5%B0%8F%E8%8F%B2%E8%BF%9E%E5%A4%9C%E8%B5%B4%E5%8F%B0%E6%8E%A5%E5%A8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [青岛1米88大长腿交警回应走红](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B1%E7%B1%B388%E5%A4%A7%E9%95%BF%E8%85%BF%E4%BA%A4%E8%AD%A6%E5%9B%9E%E5%BA%94%E8%B5%B0%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [曝汪小菲连夜赴台接娃](https://www.baidu.com/s?wd=%E6%9B%9D%E6%B1%AA%E5%B0%8F%E8%8F%B2%E8%BF%9E%E5%A4%9C%E8%B5%B4%E5%8F%B0%E6%8E%A5%E5%A8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子曝妻子与局长有不当关系](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%9B%9D%E5%A6%BB%E5%AD%90%E4%B8%8E%E5%B1%80%E9%95%BF%E6%9C%89%E4%B8%8D%E5%BD%93%E5%85%B3%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [全国铁路7月1日起实行新列车运行图](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E9%93%81%E8%B7%AF7%E6%9C%881%E6%97%A5%E8%B5%B7%E5%AE%9E%E8%A1%8C%E6%96%B0%E5%88%97%E8%BD%A6%E8%BF%90%E8%A1%8C%E5%9B%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子杭州绿化带迷路3天 吃野花求生](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%9D%AD%E5%B7%9E%E7%BB%BF%E5%8C%96%E5%B8%A6%E8%BF%B7%E8%B7%AF3%E5%A4%A9+%E5%90%83%E9%87%8E%E8%8A%B1%E6%B1%82%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [4位富豪因AI暴赚10000亿](https://www.baidu.com/s?wd=4%E4%BD%8D%E5%AF%8C%E8%B1%AA%E5%9B%A0AI%E6%9A%B4%E8%B5%9A10000%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子曝妻子与局长有不当关系](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%9B%9D%E5%A6%BB%E5%AD%90%E4%B8%8E%E5%B1%80%E9%95%BF%E6%9C%89%E4%B8%8D%E5%BD%93%E5%85%B3%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [曝汪小菲连夜赴台接娃](https://www.baidu.com/s?wd=%E6%9B%9D%E6%B1%AA%E5%B0%8F%E8%8F%B2%E8%BF%9E%E5%A4%9C%E8%B5%B4%E5%8F%B0%E6%8E%A5%E5%A8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [青岛1米88大长腿交警回应走红](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B1%E7%B1%B388%E5%A4%A7%E9%95%BF%E8%85%BF%E4%BA%A4%E8%AD%A6%E5%9B%9E%E5%BA%94%E8%B5%B0%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [曝汪小菲连夜赴台接娃](https://www.baidu.com/s?wd=%E6%9B%9D%E6%B1%AA%E5%B0%8F%E8%8F%B2%E8%BF%9E%E5%A4%9C%E8%B5%B4%E5%8F%B0%E6%8E%A5%E5%A8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子曝妻子与局长有不当关系](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%9B%9D%E5%A6%BB%E5%AD%90%E4%B8%8E%E5%B1%80%E9%95%BF%E6%9C%89%E4%B8%8D%E5%BD%93%E5%85%B3%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
