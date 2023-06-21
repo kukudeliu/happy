@@ -1,14 +1,14 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 00:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 00:32:02</h4></div>
 
 > 微博  
 
 1. [自曝被性侵女子提醒女生谨慎独自出国](https://s.weibo.com/weibo?q=%23%E8%87%AA%E6%9B%9D%E8%A2%AB%E6%80%A7%E4%BE%B5%E5%A5%B3%E5%AD%90%E6%8F%90%E9%86%92%E5%A5%B3%E7%94%9F%E8%B0%A8%E6%85%8E%E7%8B%AC%E8%87%AA%E5%87%BA%E5%9B%BD%23&t=31&band_rank=1&Refer=top)<br />
-2. [任天堂](https://s.weibo.com/weibo?q=%E4%BB%BB%E5%A4%A9%E5%A0%82&t=31&band_rank=2&Refer=top)<br />
+2. [暑假太可怕了](https://s.weibo.com/weibo?q=%E6%9A%91%E5%81%87%E5%A4%AA%E5%8F%AF%E6%80%95%E4%BA%86&t=31&band_rank=2&Refer=top)<br />
 3. [2022十大最美农村路](https://s.weibo.com/weibo?q=%232022%E5%8D%81%E5%A4%A7%E6%9C%80%E7%BE%8E%E5%86%9C%E6%9D%91%E8%B7%AF%23&t=31&band_rank=3&Refer=top)<br />
 4. [深圳一女子洗澡时因触电身亡](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%A5%B3%E5%AD%90%E6%B4%97%E6%BE%A1%E6%97%B6%E5%9B%A0%E8%A7%A6%E7%94%B5%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=4&Refer=top)<br />
 5. [孙亦航](https://s.weibo.com/weibo?q=%E5%AD%99%E4%BA%A6%E8%88%AA&t=31&band_rank=5&Refer=top)<br />
 6. [飞轮海当年人气排名](https://s.weibo.com/weibo?q=%23%E9%A3%9E%E8%BD%AE%E6%B5%B7%E5%BD%93%E5%B9%B4%E4%BA%BA%E6%B0%94%E6%8E%92%E5%90%8D%23&t=31&band_rank=6&Refer=top)<br />
-7. [暑假太可怕了](https://s.weibo.com/weibo?q=%E6%9A%91%E5%81%87%E5%A4%AA%E5%8F%AF%E6%80%95%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
+7. [任天堂](https://s.weibo.com/weibo?q=%E4%BB%BB%E5%A4%A9%E5%A0%82&t=31&band_rank=7&Refer=top)<br />
 8. [消失的她](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9&t=31&band_rank=8&Refer=top)<br />
 9. [马里奥](https://s.weibo.com/weibo?q=%E9%A9%AC%E9%87%8C%E5%A5%A5&t=31&band_rank=9&Refer=top)<br />
 
