@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 00:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 00:28:01</h4></div>
 
 > 微博  
 
@@ -8,21 +8,21 @@
 4. [深圳一女子洗澡时因触电身亡](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%A5%B3%E5%AD%90%E6%B4%97%E6%BE%A1%E6%97%B6%E5%9B%A0%E8%A7%A6%E7%94%B5%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=4&Refer=top)<br />
 5. [孙亦航](https://s.weibo.com/weibo?q=%E5%AD%99%E4%BA%A6%E8%88%AA&t=31&band_rank=5&Refer=top)<br />
 6. [飞轮海当年人气排名](https://s.weibo.com/weibo?q=%23%E9%A3%9E%E8%BD%AE%E6%B5%B7%E5%BD%93%E5%B9%B4%E4%BA%BA%E6%B0%94%E6%8E%92%E5%90%8D%23&t=31&band_rank=6&Refer=top)<br />
-7. [科目二我考了负725分](https://s.weibo.com/weibo?q=%23%E7%A7%91%E7%9B%AE%E4%BA%8C%E6%88%91%E8%80%83%E4%BA%86%E8%B4%9F725%E5%88%86%23&t=31&band_rank=7&Refer=top)<br />
+7. [暑假太可怕了](https://s.weibo.com/weibo?q=%E6%9A%91%E5%81%87%E5%A4%AA%E5%8F%AF%E6%80%95%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [消失的她](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9&t=31&band_rank=8&Refer=top)<br />
-9. [暑假太可怕了](https://s.weibo.com/weibo?q=%E6%9A%91%E5%81%87%E5%A4%AA%E5%8F%AF%E6%80%95%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [科目二我考了负725分](https://s.weibo.com/weibo?q=%23%E7%A7%91%E7%9B%AE%E4%BA%8C%E6%88%91%E8%80%83%E4%BA%86%E8%B4%9F725%E5%88%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [空军航空兵某团飞行二大队获「时代楷模」称号，褒扬他们是「奋飞新时代的空中铁拳」，他们值得学习的点在哪？](https://www.zhihu.com/question/607609756)<br />
-2. [四川大学依规依纪处理「地铁偷拍」事件涉事学生，「给予该生留校、留党察看处分」，如何看待这一处分？](https://www.zhihu.com/question/607827303)<br />
-3. [轰 6K 海上飞行时驱离外方船只，有哪些信息值得关注？](https://www.zhihu.com/question/607773769)<br />
+2. [轰 6K 海上飞行时驱离外方船只，有哪些信息值得关注？](https://www.zhihu.com/question/607773769)<br />
+3. [四川大学依规依纪处理「地铁偷拍」事件涉事学生，「给予该生留校、留党察看处分」，如何看待这一处分？](https://www.zhihu.com/question/607827303)<br />
 4. [硅谷银行亚洲客户遭「双向挤压」，存款被没收，贷款必须还，如何看待此事？](https://www.zhihu.com/question/607811714)<br />
 5. [全国结婚登记量跌破 700 万对，年轻人反问「为什么要结婚」，低结婚率背后是传统婚姻功能的减弱吗？](https://www.zhihu.com/question/607794507)<br />
 6. [台媒称「山东舰航母编队 21 日通过台湾海峡」，如何看待这一动向？](https://www.zhihu.com/question/607809103)<br />
 7. [为什么李鸿章在《辛丑条约》上签「肃」呢？「肃」代表什么？](https://www.zhihu.com/question/606492887)<br />
 8. [火控雷达的锁定原理是什么？为什么能跟着目标走？](https://www.zhihu.com/question/268885907)<br />
-9. [2023 LPL 夏季赛 BLG 2:0 LNG，如何评价这场比赛？](https://www.zhihu.com/question/607854309)<br />
+9. []()<br />
 
 > 百度  
 
