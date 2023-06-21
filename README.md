@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 15:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 15:45:01</h4></div>
 
 > 微博  
 
@@ -32,9 +32,9 @@
 4. [他们是战巡南海绕岛巡航的空中铁拳](https://www.baidu.com/s?wd=%E4%BB%96%E4%BB%AC%E6%98%AF%E6%88%98%E5%B7%A1%E5%8D%97%E6%B5%B7%E7%BB%95%E5%B2%9B%E5%B7%A1%E8%88%AA%E7%9A%84%E7%A9%BA%E4%B8%AD%E9%93%81%E6%8B%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [台媒：山东舰编队今日通过台湾海峡](https://www.baidu.com/s?wd=%E5%8F%B0%E5%AA%92%EF%BC%9A%E5%B1%B1%E4%B8%9C%E8%88%B0%E7%BC%96%E9%98%9F%E4%BB%8A%E6%97%A5%E9%80%9A%E8%BF%87%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [青岛1米88大长腿交警回应走红](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B1%E7%B1%B388%E5%A4%A7%E9%95%BF%E8%85%BF%E4%BA%A4%E8%AD%A6%E5%9B%9E%E5%BA%94%E8%B5%B0%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子不满意双眼皮手术 要求枪毙医生](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%8D%E6%BB%A1%E6%84%8F%E5%8F%8C%E7%9C%BC%E7%9A%AE%E6%89%8B%E6%9C%AF+%E8%A6%81%E6%B1%82%E6%9E%AA%E6%AF%99%E5%8C%BB%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [村支书葬母大操大办致交通拥堵](https://www.baidu.com/s?wd=%E6%9D%91%E6%94%AF%E4%B9%A6%E8%91%AC%E6%AF%8D%E5%A4%A7%E6%93%8D%E5%A4%A7%E5%8A%9E%E8%87%B4%E4%BA%A4%E9%80%9A%E6%8B%A5%E5%A0%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [国足主帅：我们配得上这场胜利](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B3%E4%B8%BB%E5%B8%85%EF%BC%9A%E6%88%91%E4%BB%AC%E9%85%8D%E5%BE%97%E4%B8%8A%E8%BF%99%E5%9C%BA%E8%83%9C%E5%88%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [4位富豪因AI暴赚10000亿](https://www.baidu.com/s?wd=4%E4%BD%8D%E5%AF%8C%E8%B1%AA%E5%9B%A0AI%E6%9A%B4%E8%B5%9A10000%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子不满意双眼皮手术 要求枪毙医生](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%8D%E6%BB%A1%E6%84%8F%E5%8F%8C%E7%9C%BC%E7%9A%AE%E6%89%8B%E6%9C%AF+%E8%A6%81%E6%B1%82%E6%9E%AA%E6%AF%99%E5%8C%BB%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [村支书葬母大操大办致交通拥堵](https://www.baidu.com/s?wd=%E6%9D%91%E6%94%AF%E4%B9%A6%E8%91%AC%E6%AF%8D%E5%A4%A7%E6%93%8D%E5%A4%A7%E5%8A%9E%E8%87%B4%E4%BA%A4%E9%80%9A%E6%8B%A5%E5%A0%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [他们是战巡南海绕岛巡航的空中铁拳](https://www.baidu.com/s?wd=%E4%BB%96%E4%BB%AC%E6%98%AF%E6%88%98%E5%B7%A1%E5%8D%97%E6%B5%B7%E7%BB%95%E5%B2%9B%E5%B7%A1%E8%88%AA%E7%9A%84%E7%A9%BA%E4%B8%AD%E9%93%81%E6%8B%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [台媒：山东舰编队今日通过台湾海峡](https://www.baidu.com/s?wd=%E5%8F%B0%E5%AA%92%EF%BC%9A%E5%B1%B1%E4%B8%9C%E8%88%B0%E7%BC%96%E9%98%9F%E4%BB%8A%E6%97%A5%E9%80%9A%E8%BF%87%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [青岛1米88大长腿交警回应走红](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B1%E7%B1%B388%E5%A4%A7%E9%95%BF%E8%85%BF%E4%BA%A4%E8%AD%A6%E5%9B%9E%E5%BA%94%E8%B5%B0%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子不满意双眼皮手术 要求枪毙医生](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%8D%E6%BB%A1%E6%84%8F%E5%8F%8C%E7%9C%BC%E7%9A%AE%E6%89%8B%E6%9C%AF+%E8%A6%81%E6%B1%82%E6%9E%AA%E6%AF%99%E5%8C%BB%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [村支书葬母大操大办致交通拥堵](https://www.baidu.com/s?wd=%E6%9D%91%E6%94%AF%E4%B9%A6%E8%91%AC%E6%AF%8D%E5%A4%A7%E6%93%8D%E5%A4%A7%E5%8A%9E%E8%87%B4%E4%BA%A4%E9%80%9A%E6%8B%A5%E5%A0%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [国足主帅：我们配得上这场胜利](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B3%E4%B8%BB%E5%B8%85%EF%BC%9A%E6%88%91%E4%BB%AC%E9%85%8D%E5%BE%97%E4%B8%8A%E8%BF%99%E5%9C%BA%E8%83%9C%E5%88%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [4位富豪因AI暴赚10000亿](https://www.baidu.com/s?wd=4%E4%BD%8D%E5%AF%8C%E8%B1%AA%E5%9B%A0AI%E6%9A%B4%E8%B5%9A10000%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子不满意双眼皮手术 要求枪毙医生](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%8D%E6%BB%A1%E6%84%8F%E5%8F%8C%E7%9C%BC%E7%9A%AE%E6%89%8B%E6%9C%AF+%E8%A6%81%E6%B1%82%E6%9E%AA%E6%AF%99%E5%8C%BB%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [村支书葬母大操大办致交通拥堵](https://www.baidu.com/s?wd=%E6%9D%91%E6%94%AF%E4%B9%A6%E8%91%AC%E6%AF%8D%E5%A4%A7%E6%93%8D%E5%A4%A7%E5%8A%9E%E8%87%B4%E4%BA%A4%E9%80%9A%E6%8B%A5%E5%A0%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
