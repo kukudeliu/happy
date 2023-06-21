@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 17:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 17:27:01</h4></div>
 
 > 微博  
 
@@ -8,16 +8,16 @@
 4. [官方通报网传大学生涉嫌卖淫800次](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E7%BD%91%E4%BC%A0%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%B6%89%E5%AB%8C%E5%8D%96%E6%B7%AB800%E6%AC%A1%23&t=31&band_rank=4&Refer=top)<br />
 5. [拜登儿子认罪](https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E5%84%BF%E5%AD%90%E8%AE%A4%E7%BD%AA%23&t=31&band_rank=5&Refer=top)<br />
 6. [丫丫](https://s.weibo.com/weibo?q=%E4%B8%AB%E4%B8%AB&t=31&band_rank=6&Refer=top)<br />
-7. [四川大学](https://s.weibo.com/weibo?q=%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6&t=31&band_rank=7&Refer=top)<br />
-8. [Uzi](https://s.weibo.com/weibo?q=Uzi&t=31&band_rank=8&Refer=top)<br />
+7. [Uzi](https://s.weibo.com/weibo?q=Uzi&t=31&band_rank=7&Refer=top)<br />
+8. [四川大学](https://s.weibo.com/weibo?q=%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6&t=31&band_rank=8&Refer=top)<br />
 9. [白敬亭谈和宋轶合作](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E8%B0%88%E5%92%8C%E5%AE%8B%E8%BD%B6%E5%90%88%E4%BD%9C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [大陆恢复台湾地区番荔枝输入，台农称「等了 3 年，感动得快要落泪」，哪些信息值得关注？](https://www.zhihu.com/question/607719193)<br />
 2. [空军航空兵某团飞行二大队获「时代楷模」称号，褒扬他们是「奋飞新时代的空中铁拳」，他们值得学习的点在哪？](https://www.zhihu.com/question/607609756)<br />
-3. [如何评价西南大学本科生发表五篇 sci 论文 (第一作者)，毕业典礼上表示希望五年博士毕业后回到母校工作？](https://www.zhihu.com/question/607703486)<br />
-4. [四川大学依规依纪处理「地铁偷拍」事件涉事学生，「给予该生留校、留党察看处分」，如何看待这一处分？](https://www.zhihu.com/question/607827303)<br />
+3. [四川大学依规依纪处理「地铁偷拍」事件涉事学生，「给予该生留校、留党察看处分」，如何看待这一处分？](https://www.zhihu.com/question/607827303)<br />
+4. [如何评价西南大学本科生发表五篇 sci 论文 (第一作者)，毕业典礼上表示希望五年博士毕业后回到母校工作？](https://www.zhihu.com/question/607703486)<br />
 5. [全国结婚登记量跌破 700 万对，年轻人反问「为什么要结婚」，低结婚率背后是传统婚姻功能的减弱吗？](https://www.zhihu.com/question/607794507)<br />
 6. [为什么网友不满意《庆余年 2》叶灵儿演员换成金晨？原著中叶灵儿的人设如何？](https://www.zhihu.com/question/607597903)<br />
 7. [外交部称「美方将和平解决台湾问题作为『一中政策』核心内容是篡改其政治承诺」，有哪些信息值得关注？](https://www.zhihu.com/question/607789531)<br />
