@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 22:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 22:39:01</h4></div>
 
 > 微博  
 
@@ -20,8 +20,8 @@
 4. [台媒称「山东舰航母编队 21 日通过台湾海峡」，如何看待这一动向？](https://www.zhihu.com/question/607809103)<br />
 5. [硅谷银行亚洲客户遭「双向挤压」，存款被没收，贷款必须还，如何看待此事？](https://www.zhihu.com/question/607811714)<br />
 6. [为什么李鸿章在《辛丑条约》上签「肃」呢？「肃」代表什么？](https://www.zhihu.com/question/606492887)<br />
-7. [为什么网友不满意《庆余年 2》叶灵儿演员换成金晨？原著中叶灵儿的人设如何？](https://www.zhihu.com/question/607597903)<br />
-8. [6 月 21 日沪指跌 1.31% 失守 3200 点，AI 概念股集体大跌，如何看待今日行情？](https://www.zhihu.com/question/607781796)<br />
+7. [6 月 21 日沪指跌 1.31% 失守 3200 点，AI 概念股集体大跌，如何看待今日行情？](https://www.zhihu.com/question/607781796)<br />
+8. [为什么网友不满意《庆余年 2》叶灵儿演员换成金晨？原著中叶灵儿的人设如何？](https://www.zhihu.com/question/607597903)<br />
 9. [杭州一传统机械类上市企业月薪一万二半年只招到两人，传统制造业是否存在招工困境？为何出现这一现象？](https://www.zhihu.com/question/607607659)<br />
 
 > 百度  
@@ -33,8 +33,8 @@
 5. [普京：萨尔马特导弹将进入战斗值勤](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E8%90%A8%E5%B0%94%E9%A9%AC%E7%89%B9%E5%AF%BC%E5%BC%B9%E5%B0%86%E8%BF%9B%E5%85%A5%E6%88%98%E6%96%97%E5%80%BC%E5%8B%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [都是谁在买8349元一盒的粽子](https://www.baidu.com/s?wd=%E9%83%BD%E6%98%AF%E8%B0%81%E5%9C%A8%E4%B9%B08349%E5%85%83%E4%B8%80%E7%9B%92%E7%9A%84%E7%B2%BD%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子将农药倒入父亲止咳糖浆瓶内](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B0%86%E5%86%9C%E8%8D%AF%E5%80%92%E5%85%A5%E7%88%B6%E4%BA%B2%E6%AD%A2%E5%92%B3%E7%B3%96%E6%B5%86%E7%93%B6%E5%86%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [司机分神开车冲入羊群撞死20只羊](https://www.baidu.com/s?wd=%E5%8F%B8%E6%9C%BA%E5%88%86%E7%A5%9E%E5%BC%80%E8%BD%A6%E5%86%B2%E5%85%A5%E7%BE%8A%E7%BE%A4%E6%92%9E%E6%AD%BB20%E5%8F%AA%E7%BE%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子造谣大学生卖淫800次 被刑拘](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%80%A0%E8%B0%A3%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%8D%96%E6%B7%AB800%E6%AC%A1+%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [乌媒称俄军疑因饮水污染爆发霍乱](https://www.baidu.com/s?wd=%E4%B9%8C%E5%AA%92%E7%A7%B0%E4%BF%84%E5%86%9B%E7%96%91%E5%9B%A0%E9%A5%AE%E6%B0%B4%E6%B1%A1%E6%9F%93%E7%88%86%E5%8F%91%E9%9C%8D%E4%B9%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [司机分神开车冲入羊群撞死20只羊](https://www.baidu.com/s?wd=%E5%8F%B8%E6%9C%BA%E5%88%86%E7%A5%9E%E5%BC%80%E8%BD%A6%E5%86%B2%E5%85%A5%E7%BE%8A%E7%BE%A4%E6%92%9E%E6%AD%BB20%E5%8F%AA%E7%BE%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [普京：萨尔马特导弹将进入战斗值勤](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E8%90%A8%E5%B0%94%E9%A9%AC%E7%89%B9%E5%AF%BC%E5%BC%B9%E5%B0%86%E8%BF%9B%E5%85%A5%E6%88%98%E6%96%97%E5%80%BC%E5%8B%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [都是谁在买8349元一盒的粽子](https://www.baidu.com/s?wd=%E9%83%BD%E6%98%AF%E8%B0%81%E5%9C%A8%E4%B9%B08349%E5%85%83%E4%B8%80%E7%9B%92%E7%9A%84%E7%B2%BD%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子将农药倒入父亲止咳糖浆瓶内](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B0%86%E5%86%9C%E8%8D%AF%E5%80%92%E5%85%A5%E7%88%B6%E4%BA%B2%E6%AD%A2%E5%92%B3%E7%B3%96%E6%B5%86%E7%93%B6%E5%86%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [司机分神开车冲入羊群撞死20只羊](https://www.baidu.com/s?wd=%E5%8F%B8%E6%9C%BA%E5%88%86%E7%A5%9E%E5%BC%80%E8%BD%A6%E5%86%B2%E5%85%A5%E7%BE%8A%E7%BE%A4%E6%92%9E%E6%AD%BB20%E5%8F%AA%E7%BE%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子造谣大学生卖淫800次 被刑拘](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%80%A0%E8%B0%A3%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%8D%96%E6%B7%AB800%E6%AC%A1+%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [乌媒称俄军疑因饮水污染爆发霍乱](https://www.baidu.com/s?wd=%E4%B9%8C%E5%AA%92%E7%A7%B0%E4%BF%84%E5%86%9B%E7%96%91%E5%9B%A0%E9%A5%AE%E6%B0%B4%E6%B1%A1%E6%9F%93%E7%88%86%E5%8F%91%E9%9C%8D%E4%B9%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [司机分神开车冲入羊群撞死20只羊](https://www.baidu.com/s?wd=%E5%8F%B8%E6%9C%BA%E5%88%86%E7%A5%9E%E5%BC%80%E8%BD%A6%E5%86%B2%E5%85%A5%E7%BE%8A%E7%BE%A4%E6%92%9E%E6%AD%BB20%E5%8F%AA%E7%BE%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
