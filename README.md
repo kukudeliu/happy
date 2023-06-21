@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 16:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 16:08:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [夏日中国尽显生态之美](https://s.weibo.com/weibo?q=%23%E5%A4%8F%E6%97%A5%E4%B8%AD%E5%9B%BD%E5%B0%BD%E6%98%BE%E7%94%9F%E6%80%81%E4%B9%8B%E7%BE%8E%23&t=31&band_rank=3&Refer=top)<br />
 4. [谁提极乐净土肖战和谁急](https://s.weibo.com/weibo?q=%23%E8%B0%81%E6%8F%90%E6%9E%81%E4%B9%90%E5%87%80%E5%9C%9F%E8%82%96%E6%88%98%E5%92%8C%E8%B0%81%E6%80%A5%23&t=31&band_rank=4&Refer=top)<br />
 5. [女子对双眼皮手术不满意要求枪毙医生](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%AF%B9%E5%8F%8C%E7%9C%BC%E7%9A%AE%E6%89%8B%E6%9C%AF%E4%B8%8D%E6%BB%A1%E6%84%8F%E8%A6%81%E6%B1%82%E6%9E%AA%E6%AF%99%E5%8C%BB%E7%94%9F%23&t=31&band_rank=5&Refer=top)<br />
-6. [海南无名男尸是贪污受贿在逃19年嫌犯](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%8D%97%E6%97%A0%E5%90%8D%E7%94%B7%E5%B0%B8%E6%98%AF%E8%B4%AA%E6%B1%A1%E5%8F%97%E8%B4%BF%E5%9C%A8%E9%80%8319%E5%B9%B4%E5%AB%8C%E7%8A%AF%23&t=31&band_rank=6&Refer=top)<br />
-7. [全国现有吸毒人员112.4万](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E7%8E%B0%E6%9C%89%E5%90%B8%E6%AF%92%E4%BA%BA%E5%91%98112.4%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
+6. [全国现有吸毒人员112.4万](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E7%8E%B0%E6%9C%89%E5%90%B8%E6%AF%92%E4%BA%BA%E5%91%98112.4%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
+7. [海南无名男尸是贪污受贿在逃19年嫌犯](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%8D%97%E6%97%A0%E5%90%8D%E7%94%B7%E5%B0%B8%E6%98%AF%E8%B4%AA%E6%B1%A1%E5%8F%97%E8%B4%BF%E5%9C%A8%E9%80%8319%E5%B9%B4%E5%AB%8C%E7%8A%AF%23&t=31&band_rank=7&Refer=top)<br />
 8. [肖战 蒙牛](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%20%E8%92%99%E7%89%9B&t=31&band_rank=8&Refer=top)<br />
 9. [临死前身体会发生的100种奇怪反应](https://s.weibo.com/weibo?q=%E4%B8%B4%E6%AD%BB%E5%89%8D%E8%BA%AB%E4%BD%93%E4%BC%9A%E5%8F%91%E7%94%9F%E7%9A%84100%E7%A7%8D%E5%A5%87%E6%80%AA%E5%8F%8D%E5%BA%94&t=31&band_rank=9&Refer=top)<br />
 
@@ -19,9 +19,9 @@
 3. [农村抓两只大公鸡，和一只全世界最大品种的蜈蚣放一起打架，能赢吗?](https://www.zhihu.com/question/606826582)<br />
 4. [如何评价西南大学本科生发表五篇 sci 论文 (第一作者)，毕业典礼上表示希望五年博士毕业后回到母校工作？](https://www.zhihu.com/question/607703486)<br />
 5. [为什么网友不满意《庆余年 2》叶灵儿演员换成金晨？原著中叶灵儿的人设如何？](https://www.zhihu.com/question/607597903)<br />
-6. [倪光南院士称「SSD 取代 HDD 时机已经到来」，会给市场造成哪些影响？](https://www.zhihu.com/question/607126650)<br />
+6. [离岸人民币兑美元跌破 7.20，续创去年 11 月以来新低，近期汇率下跌原因有哪些？未来走势如何？](https://www.zhihu.com/question/607789906)<br />
 7. [全国结婚登记量跌破 700 万对，年轻人反问「为什么要结婚」，低结婚率背后是传统婚姻功能的减弱吗？](https://www.zhihu.com/question/607794507)<br />
-8. [离岸人民币兑美元跌破 7.20，续创去年 11 月以来新低，近期汇率下跌原因有哪些？未来走势如何？](https://www.zhihu.com/question/607789906)<br />
+8. [倪光南院士称「SSD 取代 HDD 时机已经到来」，会给市场造成哪些影响？](https://www.zhihu.com/question/607126650)<br />
 9. [因为端午礼品问题和女朋友吵架分手，请大家看看是我反应过度了吗？](https://www.zhihu.com/question/607441090)<br />
 
 > 百度  
