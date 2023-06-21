@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 23:57:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 23:58:01</h4></div>
 
 > 微博  
 
@@ -17,9 +17,9 @@
 1. [四川大学依规依纪处理「地铁偷拍」事件涉事学生，「给予该生留校、留党察看处分」，如何看待这一处分？](https://www.zhihu.com/question/607827303)<br />
 2. [空军航空兵某团飞行二大队获「时代楷模」称号，褒扬他们是「奋飞新时代的空中铁拳」，他们值得学习的点在哪？](https://www.zhihu.com/question/607609756)<br />
 3. [轰 6K 海上飞行时驱离外方船只，有哪些信息值得关注？](https://www.zhihu.com/question/607773769)<br />
-4. [台媒称「山东舰航母编队 21 日通过台湾海峡」，如何看待这一动向？](https://www.zhihu.com/question/607809103)<br />
+4. [硅谷银行亚洲客户遭「双向挤压」，存款被没收，贷款必须还，如何看待此事？](https://www.zhihu.com/question/607811714)<br />
 5. [全国结婚登记量跌破 700 万对，年轻人反问「为什么要结婚」，低结婚率背后是传统婚姻功能的减弱吗？](https://www.zhihu.com/question/607794507)<br />
-6. [硅谷银行亚洲客户遭「双向挤压」，存款被没收，贷款必须还，如何看待此事？](https://www.zhihu.com/question/607811714)<br />
+6. [台媒称「山东舰航母编队 21 日通过台湾海峡」，如何看待这一动向？](https://www.zhihu.com/question/607809103)<br />
 7. [为什么李鸿章在《辛丑条约》上签「肃」呢？「肃」代表什么？](https://www.zhihu.com/question/606492887)<br />
 8. [2023 LPL 夏季赛 BLG 2:0 LNG，如何评价这场比赛？](https://www.zhihu.com/question/607854309)<br />
 9. [火控雷达的锁定原理是什么？为什么能跟着目标走？](https://www.zhihu.com/question/268885907)<br />
