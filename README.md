@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 13:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 13:09:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [赵丽颖张碧晨合体上综艺](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%BC%A0%E7%A2%A7%E6%99%A8%E5%90%88%E4%BD%93%E4%B8%8A%E7%BB%BC%E8%89%BA%23&t=31&band_rank=5&Refer=top)<br />
 6. [炎亚纶崩溃痛哭](https://s.weibo.com/weibo?q=%23%E7%82%8E%E4%BA%9A%E7%BA%B6%E5%B4%A9%E6%BA%83%E7%97%9B%E5%93%AD%23&t=31&band_rank=6&Refer=top)<br />
 7. [女子房门被封事件堵门邻居已离世](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%88%BF%E9%97%A8%E8%A2%AB%E5%B0%81%E4%BA%8B%E4%BB%B6%E5%A0%B5%E9%97%A8%E9%82%BB%E5%B1%85%E5%B7%B2%E7%A6%BB%E4%B8%96%23&t=31&band_rank=7&Refer=top)<br />
-8. [中山大学录取通知书内有云南普洱茶](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B1%B1%E5%A4%A7%E5%AD%A6%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E5%86%85%E6%9C%89%E4%BA%91%E5%8D%97%E6%99%AE%E6%B4%B1%E8%8C%B6%23&t=31&band_rank=8&Refer=top)<br />
-9. [几十块的婚纱和几万块一样洁白](https://s.weibo.com/weibo?q=%23%E5%87%A0%E5%8D%81%E5%9D%97%E7%9A%84%E5%A9%9A%E7%BA%B1%E5%92%8C%E5%87%A0%E4%B8%87%E5%9D%97%E4%B8%80%E6%A0%B7%E6%B4%81%E7%99%BD%23&t=31&band_rank=9&Refer=top)<br />
+8. [几十块的婚纱和几万块一样洁白](https://s.weibo.com/weibo?q=%23%E5%87%A0%E5%8D%81%E5%9D%97%E7%9A%84%E5%A9%9A%E7%BA%B1%E5%92%8C%E5%87%A0%E4%B8%87%E5%9D%97%E4%B8%80%E6%A0%B7%E6%B4%81%E7%99%BD%23&t=31&band_rank=8&Refer=top)<br />
+9. [中山大学录取通知书内有云南普洱茶](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B1%B1%E5%A4%A7%E5%AD%A6%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E5%86%85%E6%9C%89%E4%BA%91%E5%8D%97%E6%99%AE%E6%B4%B1%E8%8C%B6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -34,7 +34,7 @@
 6. [A股再现天价离婚！女方拿走34亿](https://www.baidu.com/s?wd=A%E8%82%A1%E5%86%8D%E7%8E%B0%E5%A4%A9%E4%BB%B7%E7%A6%BB%E5%A9%9A%EF%BC%81%E5%A5%B3%E6%96%B9%E6%8B%BF%E8%B5%B034%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [陈建斌多巴胺穿搭](https://www.baidu.com/s?wd=%E9%99%88%E5%BB%BA%E6%96%8C%E5%A4%9A%E5%B7%B4%E8%83%BA%E7%A9%BF%E6%90%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [全民星选AI科技创想季](https://www.baidu.com/s?wd=%E5%85%A8%E6%B0%91%E6%98%9F%E9%80%89AI%E7%A7%91%E6%8A%80%E5%88%9B%E6%83%B3%E5%AD%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子造谣大学生卖淫800次 被刑拘](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%80%A0%E8%B0%A3%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%8D%96%E6%B7%AB800%E6%AC%A1+%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子称水杯遭同事投毒 脏器诊出病变](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E6%B0%B4%E6%9D%AF%E9%81%AD%E5%90%8C%E4%BA%8B%E6%8A%95%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [A股再现天价离婚！女方拿走34亿](https://www.baidu.com/s?wd=A%E8%82%A1%E5%86%8D%E7%8E%B0%E5%A4%A9%E4%BB%B7%E7%A6%BB%E5%A9%9A%EF%BC%81%E5%A5%B3%E6%96%B9%E6%8B%BF%E8%B5%B034%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [陈建斌多巴胺穿搭](https://www.baidu.com/s?wd=%E9%99%88%E5%BB%BA%E6%96%8C%E5%A4%9A%E5%B7%B4%E8%83%BA%E7%A9%BF%E6%90%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [全民星选AI科技创想季](https://www.baidu.com/s?wd=%E5%85%A8%E6%B0%91%E6%98%9F%E9%80%89AI%E7%A7%91%E6%8A%80%E5%88%9B%E6%83%B3%E5%AD%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子造谣大学生卖淫800次 被刑拘](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%80%A0%E8%B0%A3%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%8D%96%E6%B7%AB800%E6%AC%A1+%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子称水杯遭同事投毒 脏器诊出病变](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E6%B0%B4%E6%9D%AF%E9%81%AD%E5%90%8C%E4%BA%8B%E6%8A%95%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
