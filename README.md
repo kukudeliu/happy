@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 08:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 08:08:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [学生驾车身亡父母获赔上亿](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E9%A9%BE%E8%BD%A6%E8%BA%AB%E4%BA%A1%E7%88%B6%E6%AF%8D%E8%8E%B7%E8%B5%94%E4%B8%8A%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [班主任和家长扮恐龙接中考生](https://www.baidu.com/s?wd=%E7%8F%AD%E4%B8%BB%E4%BB%BB%E5%92%8C%E5%AE%B6%E9%95%BF%E6%89%AE%E6%81%90%E9%BE%99%E6%8E%A5%E4%B8%AD%E8%80%83%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女子房门被封死 封门邻居被指已离世](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%88%BF%E9%97%A8%E8%A2%AB%E5%B0%81%E6%AD%BB+%E5%B0%81%E9%97%A8%E9%82%BB%E5%B1%85%E8%A2%AB%E6%8C%87%E5%B7%B2%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [高校回应宿舍热水费5275元](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E5%9B%9E%E5%BA%94%E5%AE%BF%E8%88%8D%E7%83%AD%E6%B0%B4%E8%B4%B95275%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [马斯克谈生育率下降](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E8%B0%88%E7%94%9F%E8%82%B2%E7%8E%87%E4%B8%8B%E9%99%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [学生驾车身亡父母获赔上亿](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E9%A9%BE%E8%BD%A6%E8%BA%AB%E4%BA%A1%E7%88%B6%E6%AF%8D%E8%8E%B7%E8%B5%94%E4%B8%8A%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [班主任和家长扮恐龙接中考生](https://www.baidu.com/s?wd=%E7%8F%AD%E4%B8%BB%E4%BB%BB%E5%92%8C%E5%AE%B6%E9%95%BF%E6%89%AE%E6%81%90%E9%BE%99%E6%8E%A5%E4%B8%AD%E8%80%83%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女子房门被封死 封门邻居被指已离世](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%88%BF%E9%97%A8%E8%A2%AB%E5%B0%81%E6%AD%BB+%E5%B0%81%E9%97%A8%E9%82%BB%E5%B1%85%E8%A2%AB%E6%8C%87%E5%B7%B2%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [高校回应宿舍热水费5275元](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E5%9B%9E%E5%BA%94%E5%AE%BF%E8%88%8D%E7%83%AD%E6%B0%B4%E8%B4%B95275%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [马斯克谈生育率下降](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E8%B0%88%E7%94%9F%E8%82%B2%E7%8E%87%E4%B8%8B%E9%99%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
