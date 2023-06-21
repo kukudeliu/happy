@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 00:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 00:47:01</h4></div>
 
 > 微博  
 
@@ -32,9 +32,9 @@
 4. [“上天入海” 这些重大项目频传捷报](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%8A%E5%A4%A9%E5%85%A5%E6%B5%B7%E2%80%9D+%E8%BF%99%E4%BA%9B%E9%87%8D%E5%A4%A7%E9%A1%B9%E7%9B%AE%E9%A2%91%E4%BC%A0%E6%8D%B7%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [普京：萨尔马特导弹将进入战斗值勤](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E8%90%A8%E5%B0%94%E9%A9%AC%E7%89%B9%E5%AF%BC%E5%BC%B9%E5%B0%86%E8%BF%9B%E5%85%A5%E6%88%98%E6%96%97%E5%80%BC%E5%8B%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [邓亚萍拒绝158元一斤的车厘子](https://www.baidu.com/s?wd=%E9%82%93%E4%BA%9A%E8%90%8D%E6%8B%92%E7%BB%9D158%E5%85%83%E4%B8%80%E6%96%A4%E7%9A%84%E8%BD%A6%E5%8E%98%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [全队包租公？广东划龙舟选手回应](https://www.baidu.com/s?wd=%E5%85%A8%E9%98%9F%E5%8C%85%E7%A7%9F%E5%85%AC%EF%BC%9F%E5%B9%BF%E4%B8%9C%E5%88%92%E9%BE%99%E8%88%9F%E9%80%89%E6%89%8B%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子离婚娘家人放鞭炮订蛋糕庆祝](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A6%BB%E5%A9%9A%E5%A8%98%E5%AE%B6%E4%BA%BA%E6%94%BE%E9%9E%AD%E7%82%AE%E8%AE%A2%E8%9B%8B%E7%B3%95%E5%BA%86%E7%A5%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [《乘风2023》复活赛淘汰11人](https://www.baidu.com/s?wd=%E3%80%8A%E4%B9%98%E9%A3%8E2023%E3%80%8B%E5%A4%8D%E6%B4%BB%E8%B5%9B%E6%B7%98%E6%B1%B011%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子离婚娘家人放鞭炮订蛋糕庆祝](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A6%BB%E5%A9%9A%E5%A8%98%E5%AE%B6%E4%BA%BA%E6%94%BE%E9%9E%AD%E7%82%AE%E8%AE%A2%E8%9B%8B%E7%B3%95%E5%BA%86%E7%A5%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [全国现有吸毒人员112.4万](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E7%8E%B0%E6%9C%89%E5%90%B8%E6%AF%92%E4%BA%BA%E5%91%98112.4%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [鼠头事件引高校餐饮圈震荡](https://www.baidu.com/s?wd=%E9%BC%A0%E5%A4%B4%E4%BA%8B%E4%BB%B6%E5%BC%95%E9%AB%98%E6%A0%A1%E9%A4%90%E9%A5%AE%E5%9C%88%E9%9C%87%E8%8D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [“上天入海” 这些重大项目频传捷报](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%8A%E5%A4%A9%E5%85%A5%E6%B5%B7%E2%80%9D+%E8%BF%99%E4%BA%9B%E9%87%8D%E5%A4%A7%E9%A1%B9%E7%9B%AE%E9%A2%91%E4%BC%A0%E6%8D%B7%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [普京：萨尔马特导弹将进入战斗值勤](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E8%90%A8%E5%B0%94%E9%A9%AC%E7%89%B9%E5%AF%BC%E5%BC%B9%E5%B0%86%E8%BF%9B%E5%85%A5%E6%88%98%E6%96%97%E5%80%BC%E5%8B%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [邓亚萍拒绝158元一斤的车厘子](https://www.baidu.com/s?wd=%E9%82%93%E4%BA%9A%E8%90%8D%E6%8B%92%E7%BB%9D158%E5%85%83%E4%B8%80%E6%96%A4%E7%9A%84%E8%BD%A6%E5%8E%98%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [全队包租公？广东划龙舟选手回应](https://www.baidu.com/s?wd=%E5%85%A8%E9%98%9F%E5%8C%85%E7%A7%9F%E5%85%AC%EF%BC%9F%E5%B9%BF%E4%B8%9C%E5%88%92%E9%BE%99%E8%88%9F%E9%80%89%E6%89%8B%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子离婚娘家人放鞭炮订蛋糕庆祝](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A6%BB%E5%A9%9A%E5%A8%98%E5%AE%B6%E4%BA%BA%E6%94%BE%E9%9E%AD%E7%82%AE%E8%AE%A2%E8%9B%8B%E7%B3%95%E5%BA%86%E7%A5%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [《乘风2023》复活赛淘汰11人](https://www.baidu.com/s?wd=%E3%80%8A%E4%B9%98%E9%A3%8E2023%E3%80%8B%E5%A4%8D%E6%B4%BB%E8%B5%9B%E6%B7%98%E6%B1%B011%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子离婚娘家人放鞭炮订蛋糕庆祝](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A6%BB%E5%A9%9A%E5%A8%98%E5%AE%B6%E4%BA%BA%E6%94%BE%E9%9E%AD%E7%82%AE%E8%AE%A2%E8%9B%8B%E7%B3%95%E5%BA%86%E7%A5%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [全国现有吸毒人员112.4万](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E7%8E%B0%E6%9C%89%E5%90%B8%E6%AF%92%E4%BA%BA%E5%91%98112.4%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [鼠头事件引高校餐饮圈震荡](https://www.baidu.com/s?wd=%E9%BC%A0%E5%A4%B4%E4%BA%8B%E4%BB%B6%E5%BC%95%E9%AB%98%E6%A0%A1%E9%A4%90%E9%A5%AE%E5%9C%88%E9%9C%87%E8%8D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
