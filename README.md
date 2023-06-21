@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 18:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-21 18:33:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [炎亚纶竟然还化了妆](https://s.weibo.com/weibo?q=%23%E7%82%8E%E4%BA%9A%E7%BA%B6%E7%AB%9F%E7%84%B6%E8%BF%98%E5%8C%96%E4%BA%86%E5%A6%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [四川大学称张某保研不违规](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E7%A7%B0%E5%BC%A0%E6%9F%90%E4%BF%9D%E7%A0%94%E4%B8%8D%E8%BF%9D%E8%A7%84%23&t=31&band_rank=7&Refer=top)<br />
 8. [白敬亭和父母都追过赘婿](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%92%8C%E7%88%B6%E6%AF%8D%E9%83%BD%E8%BF%BD%E8%BF%87%E8%B5%98%E5%A9%BF%23&t=31&band_rank=8&Refer=top)<br />
-9. [拜登儿子认罪](https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E5%84%BF%E5%AD%90%E8%AE%A4%E7%BD%AA%23&t=31&band_rank=9&Refer=top)<br />
+9. [官方通报网传大学生涉嫌卖淫800次](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E7%BD%91%E4%BC%A0%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%B6%89%E5%AB%8C%E5%8D%96%E6%B7%AB800%E6%AC%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
