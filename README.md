@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 07:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 07:58:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [深圳一女子洗澡时因触电身亡](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%A5%B3%E5%AD%90%E6%B4%97%E6%BE%A1%E6%97%B6%E5%9B%A0%E8%A7%A6%E7%94%B5%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=5&Refer=top)<br />
 6. [川大对张某的调查显得失焦且碎片化](https://s.weibo.com/weibo?q=%23%E5%B7%9D%E5%A4%A7%E5%AF%B9%E5%BC%A0%E6%9F%90%E7%9A%84%E8%B0%83%E6%9F%A5%E6%98%BE%E5%BE%97%E5%A4%B1%E7%84%A6%E4%B8%94%E7%A2%8E%E7%89%87%E5%8C%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [端午节](https://s.weibo.com/weibo?q=%E7%AB%AF%E5%8D%88%E8%8A%82&t=31&band_rank=7&Refer=top)<br />
-8. [自曝被性侵女子提醒女生谨慎独自出国](https://s.weibo.com/weibo?q=%23%E8%87%AA%E6%9B%9D%E8%A2%AB%E6%80%A7%E4%BE%B5%E5%A5%B3%E5%AD%90%E6%8F%90%E9%86%92%E5%A5%B3%E7%94%9F%E8%B0%A8%E6%85%8E%E7%8B%AC%E8%87%AA%E5%87%BA%E5%9B%BD%23&t=31&band_rank=8&Refer=top)<br />
-9. [女生1次备7天菜下班5分钟吃上晚饭](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F1%E6%AC%A1%E5%A4%877%E5%A4%A9%E8%8F%9C%E4%B8%8B%E7%8F%AD5%E5%88%86%E9%92%9F%E5%90%83%E4%B8%8A%E6%99%9A%E9%A5%AD%23&t=31&band_rank=9&Refer=top)<br />
+8. [女生1次备7天菜下班5分钟吃上晚饭](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F1%E6%AC%A1%E5%A4%877%E5%A4%A9%E8%8F%9C%E4%B8%8B%E7%8F%AD5%E5%88%86%E9%92%9F%E5%90%83%E4%B8%8A%E6%99%9A%E9%A5%AD%23&t=31&band_rank=8&Refer=top)<br />
+9. [自曝被性侵女子提醒女生谨慎独自出国](https://s.weibo.com/weibo?q=%23%E8%87%AA%E6%9B%9D%E8%A2%AB%E6%80%A7%E4%BE%B5%E5%A5%B3%E5%AD%90%E6%8F%90%E9%86%92%E5%A5%B3%E7%94%9F%E8%B0%A8%E6%85%8E%E7%8B%AC%E8%87%AA%E5%87%BA%E5%9B%BD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
