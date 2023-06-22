@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 02:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 02:24:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [消失的她票房](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%88%BF&t=31&band_rank=6&Refer=top)<br />
 7. [银川烧烤店爆炸事故伤者家属发声](https://s.weibo.com/weibo?q=%23%E9%93%B6%E5%B7%9D%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E4%BC%A4%E8%80%85%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0%23&t=31&band_rank=7&Refer=top)<br />
 8. [2023好声音导师官宣](https://s.weibo.com/weibo?q=%232023%E5%A5%BD%E5%A3%B0%E9%9F%B3%E5%AF%BC%E5%B8%88%E5%AE%98%E5%AE%A3%23&t=31&band_rank=8&Refer=top)<br />
-9. [专家称泰坦号或已断电进水](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%B3%B0%E5%9D%A6%E5%8F%B7%E6%88%96%E5%B7%B2%E6%96%AD%E7%94%B5%E8%BF%9B%E6%B0%B4%23&t=31&band_rank=9&Refer=top)<br />
+9. [怀孕33周孕妇被2岁儿子开枪打死](https://s.weibo.com/weibo?q=%23%E6%80%80%E5%AD%9533%E5%91%A8%E5%AD%95%E5%A6%87%E8%A2%AB2%E5%B2%81%E5%84%BF%E5%AD%90%E5%BC%80%E6%9E%AA%E6%89%93%E6%AD%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -32,9 +32,9 @@
 4. [文博日历丨古人怎么过端午](https://www.baidu.com/s?wd=%E6%96%87%E5%8D%9A%E6%97%A5%E5%8E%86%E4%B8%A8%E5%8F%A4%E4%BA%BA%E6%80%8E%E4%B9%88%E8%BF%87%E7%AB%AF%E5%8D%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [凤凰古城端午热：众人跳水抓鸭](https://www.baidu.com/s?wd=%E5%87%A4%E5%87%B0%E5%8F%A4%E5%9F%8E%E7%AB%AF%E5%8D%88%E7%83%AD%EF%BC%9A%E4%BC%97%E4%BA%BA%E8%B7%B3%E6%B0%B4%E6%8A%93%E9%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [端午节成都惊现不明飞行物](https://www.baidu.com/s?wd=%E7%AB%AF%E5%8D%88%E8%8A%82%E6%88%90%E9%83%BD%E6%83%8A%E7%8E%B0%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [端午假期武警再现拉链式人墙](https://www.baidu.com/s?wd=%E7%AB%AF%E5%8D%88%E5%81%87%E6%9C%9F%E6%AD%A6%E8%AD%A6%E5%86%8D%E7%8E%B0%E6%8B%89%E9%93%BE%E5%BC%8F%E4%BA%BA%E5%A2%99&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [大雨中校长毕业典礼致辞只念了标题](https://www.baidu.com/s?wd=%E5%A4%A7%E9%9B%A8%E4%B8%AD%E6%A0%A1%E9%95%BF%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E8%87%B4%E8%BE%9E%E5%8F%AA%E5%BF%B5%E4%BA%86%E6%A0%87%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [段奕宏：文化对演员来说太重要了](https://www.baidu.com/s?wd=%E6%AE%B5%E5%A5%95%E5%AE%8F%EF%BC%9A%E6%96%87%E5%8C%96%E5%AF%B9%E6%BC%94%E5%91%98%E6%9D%A5%E8%AF%B4%E5%A4%AA%E9%87%8D%E8%A6%81%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [180斤男生摔伤腿体育老师背其去中考](https://www.baidu.com/s?wd=180%E6%96%A4%E7%94%B7%E7%94%9F%E6%91%94%E4%BC%A4%E8%85%BF%E4%BD%93%E8%82%B2%E8%80%81%E5%B8%88%E8%83%8C%E5%85%B6%E5%8E%BB%E4%B8%AD%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [巴菲特又捐赠46亿美元股票](https://www.baidu.com/s?wd=%E5%B7%B4%E8%8F%B2%E7%89%B9%E5%8F%88%E6%8D%90%E8%B5%A046%E4%BA%BF%E7%BE%8E%E5%85%83%E8%82%A1%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [文博日历丨古人怎么过端午](https://www.baidu.com/s?wd=%E6%96%87%E5%8D%9A%E6%97%A5%E5%8E%86%E4%B8%A8%E5%8F%A4%E4%BA%BA%E6%80%8E%E4%B9%88%E8%BF%87%E7%AB%AF%E5%8D%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [凤凰古城端午热：众人跳水抓鸭](https://www.baidu.com/s?wd=%E5%87%A4%E5%87%B0%E5%8F%A4%E5%9F%8E%E7%AB%AF%E5%8D%88%E7%83%AD%EF%BC%9A%E4%BC%97%E4%BA%BA%E8%B7%B3%E6%B0%B4%E6%8A%93%E9%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [端午节成都惊现不明飞行物](https://www.baidu.com/s?wd=%E7%AB%AF%E5%8D%88%E8%8A%82%E6%88%90%E9%83%BD%E6%83%8A%E7%8E%B0%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [端午假期武警再现拉链式人墙](https://www.baidu.com/s?wd=%E7%AB%AF%E5%8D%88%E5%81%87%E6%9C%9F%E6%AD%A6%E8%AD%A6%E5%86%8D%E7%8E%B0%E6%8B%89%E9%93%BE%E5%BC%8F%E4%BA%BA%E5%A2%99&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [大雨中校长毕业典礼致辞只念了标题](https://www.baidu.com/s?wd=%E5%A4%A7%E9%9B%A8%E4%B8%AD%E6%A0%A1%E9%95%BF%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E8%87%B4%E8%BE%9E%E5%8F%AA%E5%BF%B5%E4%BA%86%E6%A0%87%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [段奕宏：文化对演员来说太重要了](https://www.baidu.com/s?wd=%E6%AE%B5%E5%A5%95%E5%AE%8F%EF%BC%9A%E6%96%87%E5%8C%96%E5%AF%B9%E6%BC%94%E5%91%98%E6%9D%A5%E8%AF%B4%E5%A4%AA%E9%87%8D%E8%A6%81%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [180斤男生摔伤腿体育老师背其去中考](https://www.baidu.com/s?wd=180%E6%96%A4%E7%94%B7%E7%94%9F%E6%91%94%E4%BC%A4%E8%85%BF%E4%BD%93%E8%82%B2%E8%80%81%E5%B8%88%E8%83%8C%E5%85%B6%E5%8E%BB%E4%B8%AD%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [巴菲特又捐赠46亿美元股票](https://www.baidu.com/s?wd=%E5%B7%B4%E8%8F%B2%E7%89%B9%E5%8F%88%E6%8D%90%E8%B5%A046%E4%BA%BF%E7%BE%8E%E5%85%83%E8%82%A1%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
