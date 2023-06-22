@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 20:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 20:10:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [伊能静晒儿子女儿合照](https://s.weibo.com/weibo?q=%23%E4%BC%8A%E8%83%BD%E9%9D%99%E6%99%92%E5%84%BF%E5%AD%90%E5%A5%B3%E5%84%BF%E5%90%88%E7%85%A7%23&t=31&band_rank=5&Refer=top)<br />
 6. [15岁女生答72岁复旦教授](https://s.weibo.com/weibo?q=%2315%E5%B2%81%E5%A5%B3%E7%94%9F%E7%AD%9472%E5%B2%81%E5%A4%8D%E6%97%A6%E6%95%99%E6%8E%88%23&t=31&band_rank=6&Refer=top)<br />
 7. [EDG教练在干嘛](https://s.weibo.com/weibo?q=EDG%E6%95%99%E7%BB%83%E5%9C%A8%E5%B9%B2%E5%98%9B&t=31&band_rank=7&Refer=top)<br />
-8. [消失的她票房](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%88%BF&t=31&band_rank=8&Refer=top)<br />
+8. [文咏珊好媚](https://s.weibo.com/weibo?q=%E6%96%87%E5%92%8F%E7%8F%8A%E5%A5%BD%E5%AA%9A&t=31&band_rank=8&Refer=top)<br />
 9. [Uzi4杀 RNG拿下比赛](https://s.weibo.com/weibo?q=Uzi4%E6%9D%80%20RNG%E6%8B%BF%E4%B8%8B%E6%AF%94%E8%B5%9B&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -20,9 +20,9 @@
 4. [一个村超都搞得有声有色，为啥中国足球人人唾弃，真的是规则出了问题？](https://www.zhihu.com/question/606948461)<br />
 5. [人类学、社会学和历史学，是不是毕业即失业？怎么衡量自己适不适合？](https://www.zhihu.com/theater/113436)<br />
 6. [宁夏银川发生燃气爆炸事故造成 38 人伤亡，其中 31 人死亡，7 人仍在救治中，具体情况如何？](https://www.zhihu.com/question/607961203)<br />
-7. [6 月 22 日华北多地高温，北京冲上 40℃，系 9 年来首次，背后原因有哪些？该如何做好防暑工作？](https://www.zhihu.com/question/607989824)<br />
-8. [iPhone 电池健康度多少才算正常？80% 和 100% 有什么区别？](https://www.zhihu.com/question/569965047)<br />
-9. [我想买一部家用净水机，现在市场上琳琅满目，什么牌子质价比好？](https://www.zhihu.com/question/49600688)<br />
+7. []()<br />
+8. [6 月 22 日华北多地高温，北京冲上 40℃，系 9 年来首次，背后原因有哪些？该如何做好防暑工作？](https://www.zhihu.com/question/607989824)<br />
+9. [iPhone 电池健康度多少才算正常？80% 和 100% 有什么区别？](https://www.zhihu.com/question/569965047)<br />
 
 > 百度  
 
