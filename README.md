@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 16:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 16:32:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [手机号实名制已经10年了](https://s.weibo.com/weibo?q=%E6%89%8B%E6%9C%BA%E5%8F%B7%E5%AE%9E%E5%90%8D%E5%88%B6%E5%B7%B2%E7%BB%8F10%E5%B9%B4%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [目击者称烧烤店楼梯炸没了难以逃生](https://s.weibo.com/weibo?q=%23%E7%9B%AE%E5%87%BB%E8%80%85%E7%A7%B0%E7%83%A7%E7%83%A4%E5%BA%97%E6%A5%BC%E6%A2%AF%E7%82%B8%E6%B2%A1%E4%BA%86%E9%9A%BE%E4%BB%A5%E9%80%83%E7%94%9F%23&t=31&band_rank=7&Refer=top)<br />
 8. [无穷小亮 有个事挺瘆得慌](https://s.weibo.com/weibo?q=%E6%97%A0%E7%A9%B7%E5%B0%8F%E4%BA%AE%20%E6%9C%89%E4%B8%AA%E4%BA%8B%E6%8C%BA%E7%98%86%E5%BE%97%E6%85%8C&t=31&band_rank=8&Refer=top)<br />
-9. [福布斯称Jennie有资格获艾美奖](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%B8%83%E6%96%AF%E7%A7%B0Jennie%E6%9C%89%E8%B5%84%E6%A0%BC%E8%8E%B7%E8%89%BE%E7%BE%8E%E5%A5%96%23&t=31&band_rank=9&Refer=top)<br />
+9. [拉夏贝尔正式破产清算](https://s.weibo.com/weibo?q=%23%E6%8B%89%E5%A4%8F%E8%B4%9D%E5%B0%94%E6%AD%A3%E5%BC%8F%E7%A0%B4%E4%BA%A7%E6%B8%85%E7%AE%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
