@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 10:58:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 10:59:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [广东人为什么普遍都很瘦](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E6%99%AE%E9%81%8D%E9%83%BD%E5%BE%88%E7%98%A6%23&t=31&band_rank=6&Refer=top)<br />
 7. [张艺兴点赞了EXO回归预告](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E7%82%B9%E8%B5%9E%E4%BA%86EXO%E5%9B%9E%E5%BD%92%E9%A2%84%E5%91%8A%23&t=31&band_rank=7&Refer=top)<br />
 8. [十个勤天](https://s.weibo.com/weibo?q=%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9&t=31&band_rank=8&Refer=top)<br />
-9. [Angelababy七年前vs七年后](https://s.weibo.com/weibo?q=%23Angelababy%E4%B8%83%E5%B9%B4%E5%89%8Dvs%E4%B8%83%E5%B9%B4%E5%90%8E%23&t=31&band_rank=9&Refer=top)<br />
+9. [女生1次备7天菜下班5分钟吃上晚饭](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F1%E6%AC%A1%E5%A4%877%E5%A4%A9%E8%8F%9C%E4%B8%8B%E7%8F%AD5%E5%88%86%E9%92%9F%E5%90%83%E4%B8%8A%E6%99%9A%E9%A5%AD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -33,8 +33,8 @@
 5. [宁夏烧烤店爆炸致31死](https://www.baidu.com/s?wd=%E5%AE%81%E5%A4%8F%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E8%87%B431%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [妈妈带高考结束女儿整容](https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E5%B8%A6%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E5%A5%B3%E5%84%BF%E6%95%B4%E5%AE%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [宁夏烧烤店爆炸现场满地碎片](https://www.baidu.com/s?wd=%E5%AE%81%E5%A4%8F%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E7%8E%B0%E5%9C%BA%E6%BB%A1%E5%9C%B0%E7%A2%8E%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [北京大爷不想让孩子要孩子](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%A4%A7%E7%88%B7%E4%B8%8D%E6%83%B3%E8%AE%A9%E5%AD%A9%E5%AD%90%E8%A6%81%E5%AD%A9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [烧烤店爆炸报警人：更换阀门时爆炸](https://www.baidu.com/s?wd=%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E6%8A%A5%E8%AD%A6%E4%BA%BA%EF%BC%9A%E6%9B%B4%E6%8D%A2%E9%98%80%E9%97%A8%E6%97%B6%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [烧烤店爆炸报警人：更换阀门时爆炸](https://www.baidu.com/s?wd=%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E6%8A%A5%E8%AD%A6%E4%BA%BA%EF%BC%9A%E6%9B%B4%E6%8D%A2%E9%98%80%E9%97%A8%E6%97%B6%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [北京大爷不想让孩子要孩子](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%A4%A7%E7%88%B7%E4%B8%8D%E6%83%B3%E8%AE%A9%E5%AD%A9%E5%AD%90%E8%A6%81%E5%AD%A9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [宁夏烧烤店爆炸致31死](https://www.baidu.com/s?wd=%E5%AE%81%E5%A4%8F%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E8%87%B431%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [妈妈带高考结束女儿整容](https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E5%B8%A6%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E5%A5%B3%E5%84%BF%E6%95%B4%E5%AE%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [宁夏烧烤店爆炸现场满地碎片](https://www.baidu.com/s?wd=%E5%AE%81%E5%A4%8F%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E7%8E%B0%E5%9C%BA%E6%BB%A1%E5%9C%B0%E7%A2%8E%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [北京大爷不想让孩子要孩子](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%A4%A7%E7%88%B7%E4%B8%8D%E6%83%B3%E8%AE%A9%E5%AD%A9%E5%AD%90%E8%A6%81%E5%AD%A9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [烧烤店爆炸报警人：更换阀门时爆炸](https://www.baidu.com/s?wd=%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E6%8A%A5%E8%AD%A6%E4%BA%BA%EF%BC%9A%E6%9B%B4%E6%8D%A2%E9%98%80%E9%97%A8%E6%97%B6%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [烧烤店爆炸报警人：更换阀门时爆炸](https://www.baidu.com/s?wd=%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E6%8A%A5%E8%AD%A6%E4%BA%BA%EF%BC%9A%E6%9B%B4%E6%8D%A2%E9%98%80%E9%97%A8%E6%97%B6%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [北京大爷不想让孩子要孩子](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%A4%A7%E7%88%B7%E4%B8%8D%E6%83%B3%E8%AE%A9%E5%AD%A9%E5%AD%90%E8%A6%81%E5%AD%A9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
