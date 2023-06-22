@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 08:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 08:45:01</h4></div>
 
 > 微博  
 
@@ -28,22 +28,22 @@
 
 1. [龙舟破浪“粽”安康](https://www.baidu.com/s?wd=%E9%BE%99%E8%88%9F%E7%A0%B4%E6%B5%AA%E2%80%9C%E7%B2%BD%E2%80%9D%E5%AE%89%E5%BA%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [今日端午节](https://www.baidu.com/s?wd=%E4%BB%8A%E6%97%A5%E7%AB%AF%E5%8D%88%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [自曝被性侵女子：女生谨慎独自出国](https://www.baidu.com/s?wd=%E8%87%AA%E6%9B%9D%E8%A2%AB%E6%80%A7%E4%BE%B5%E5%A5%B3%E5%AD%90%EF%BC%9A%E5%A5%B3%E7%94%9F%E8%B0%A8%E6%85%8E%E7%8B%AC%E8%87%AA%E5%87%BA%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [端午节有多堵？开车1小时仅走1公里](https://www.baidu.com/s?wd=%E7%AB%AF%E5%8D%88%E8%8A%82%E6%9C%89%E5%A4%9A%E5%A0%B5%EF%BC%9F%E5%BC%80%E8%BD%A61%E5%B0%8F%E6%97%B6%E4%BB%85%E8%B5%B01%E5%85%AC%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“上天入海” 这些重大项目频传捷报](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%8A%E5%A4%A9%E5%85%A5%E6%B5%B7%E2%80%9D+%E8%BF%99%E4%BA%9B%E9%87%8D%E5%A4%A7%E9%A1%B9%E7%9B%AE%E9%A2%91%E4%BC%A0%E6%8D%B7%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [宁夏一烧烤店爆炸 已搜救出38人](https://www.baidu.com/s?wd=%E5%AE%81%E5%A4%8F%E4%B8%80%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8+%E5%B7%B2%E6%90%9C%E6%95%91%E5%87%BA38%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [深圳一女子洗澡时因触电身亡](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%A5%B3%E5%AD%90%E6%B4%97%E6%BE%A1%E6%97%B6%E5%9B%A0%E8%A7%A6%E7%94%B5%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [内马尔为出轨道歉](https://www.baidu.com/s?wd=%E5%86%85%E9%A9%AC%E5%B0%94%E4%B8%BA%E5%87%BA%E8%BD%A8%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [健美比赛女模特扔高跟鞋砸评委](https://www.baidu.com/s?wd=%E5%81%A5%E7%BE%8E%E6%AF%94%E8%B5%9B%E5%A5%B3%E6%A8%A1%E7%89%B9%E6%89%94%E9%AB%98%E8%B7%9F%E9%9E%8B%E7%A0%B8%E8%AF%84%E5%A7%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [新手包粽子攻略](https://www.baidu.com/s?wd=%E6%96%B0%E6%89%8B%E5%8C%85%E7%B2%BD%E5%AD%90%E6%94%BB%E7%95%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [台湾歌手瘦子被控性侵](https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E6%AD%8C%E6%89%8B%E7%98%A6%E5%AD%90%E8%A2%AB%E6%8E%A7%E6%80%A7%E4%BE%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [健美比赛女模特扔高跟鞋砸评委](https://www.baidu.com/s?wd=%E5%81%A5%E7%BE%8E%E6%AF%94%E8%B5%9B%E5%A5%B3%E6%A8%A1%E7%89%B9%E6%89%94%E9%AB%98%E8%B7%9F%E9%9E%8B%E7%A0%B8%E8%AF%84%E5%A7%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [龙舟破浪“粽”安康](https://www.baidu.com/s?wd=%E9%BE%99%E8%88%9F%E7%A0%B4%E6%B5%AA%E2%80%9C%E7%B2%BD%E2%80%9D%E5%AE%89%E5%BA%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [今日端午节](https://www.baidu.com/s?wd=%E4%BB%8A%E6%97%A5%E7%AB%AF%E5%8D%88%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [自曝被性侵女子：女生谨慎独自出国](https://www.baidu.com/s?wd=%E8%87%AA%E6%9B%9D%E8%A2%AB%E6%80%A7%E4%BE%B5%E5%A5%B3%E5%AD%90%EF%BC%9A%E5%A5%B3%E7%94%9F%E8%B0%A8%E6%85%8E%E7%8B%AC%E8%87%AA%E5%87%BA%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [端午节有多堵？开车1小时仅走1公里](https://www.baidu.com/s?wd=%E7%AB%AF%E5%8D%88%E8%8A%82%E6%9C%89%E5%A4%9A%E5%A0%B5%EF%BC%9F%E5%BC%80%E8%BD%A61%E5%B0%8F%E6%97%B6%E4%BB%85%E8%B5%B01%E5%85%AC%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“上天入海” 这些重大项目频传捷报](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%8A%E5%A4%A9%E5%85%A5%E6%B5%B7%E2%80%9D+%E8%BF%99%E4%BA%9B%E9%87%8D%E5%A4%A7%E9%A1%B9%E7%9B%AE%E9%A2%91%E4%BC%A0%E6%8D%B7%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [宁夏一烧烤店爆炸 已搜救出38人](https://www.baidu.com/s?wd=%E5%AE%81%E5%A4%8F%E4%B8%80%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8+%E5%B7%B2%E6%90%9C%E6%95%91%E5%87%BA38%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [深圳一女子洗澡时因触电身亡](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%A5%B3%E5%AD%90%E6%B4%97%E6%BE%A1%E6%97%B6%E5%9B%A0%E8%A7%A6%E7%94%B5%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [内马尔为出轨道歉](https://www.baidu.com/s?wd=%E5%86%85%E9%A9%AC%E5%B0%94%E4%B8%BA%E5%87%BA%E8%BD%A8%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [健美比赛女模特扔高跟鞋砸评委](https://www.baidu.com/s?wd=%E5%81%A5%E7%BE%8E%E6%AF%94%E8%B5%9B%E5%A5%B3%E6%A8%A1%E7%89%B9%E6%89%94%E9%AB%98%E8%B7%9F%E9%9E%8B%E7%A0%B8%E8%AF%84%E5%A7%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [新手包粽子攻略](https://www.baidu.com/s?wd=%E6%96%B0%E6%89%8B%E5%8C%85%E7%B2%BD%E5%AD%90%E6%94%BB%E7%95%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [台湾歌手瘦子被控性侵](https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E6%AD%8C%E6%89%8B%E7%98%A6%E5%AD%90%E8%A2%AB%E6%8E%A7%E6%80%A7%E4%BE%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [健美比赛女模特扔高跟鞋砸评委](https://www.baidu.com/s?wd=%E5%81%A5%E7%BE%8E%E6%AF%94%E8%B5%9B%E5%A5%B3%E6%A8%A1%E7%89%B9%E6%89%94%E9%AB%98%E8%B7%9F%E9%9E%8B%E7%A0%B8%E8%AF%84%E5%A7%94&sa=fyb_news&rsv_dl=fyb_news)<br />
