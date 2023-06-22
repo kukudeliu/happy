@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 13:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 13:26:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [曾黎见到老同学狂奔5米合照](https://s.weibo.com/weibo?q=%23%E6%9B%BE%E9%BB%8E%E8%A7%81%E5%88%B0%E8%80%81%E5%90%8C%E5%AD%A6%E7%8B%82%E5%A5%945%E7%B1%B3%E5%90%88%E7%85%A7%23&t=31&band_rank=5&Refer=top)<br />
 6. [失联泰坦尼克号观光艇氧气即将耗尽](https://s.weibo.com/weibo?q=%23%E5%A4%B1%E8%81%94%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7%E8%A7%82%E5%85%89%E8%89%87%E6%B0%A7%E6%B0%94%E5%8D%B3%E5%B0%86%E8%80%97%E5%B0%BD%23&t=31&band_rank=6&Refer=top)<br />
 7. [消失的她](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9&t=31&band_rank=7&Refer=top)<br />
-8. [福布斯称Jennie有资格获艾美奖](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%B8%83%E6%96%AF%E7%A7%B0Jennie%E6%9C%89%E8%B5%84%E6%A0%BC%E8%8E%B7%E8%89%BE%E7%BE%8E%E5%A5%96%23&t=31&band_rank=8&Refer=top)<br />
+8. [张艺兴送粽子到蘑菇屋](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E9%80%81%E7%B2%BD%E5%AD%90%E5%88%B0%E8%98%91%E8%8F%87%E5%B1%8B%23&t=31&band_rank=8&Refer=top)<br />
 9. [倪妮 文咏珊](https://s.weibo.com/weibo?q=%E5%80%AA%E5%A6%AE%20%E6%96%87%E5%92%8F%E7%8F%8A&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
