@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 11:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 11:15:01</h4></div>
 
 > 微博  
 
@@ -16,8 +16,8 @@
 
 1. [空军航空兵某团飞行二大队获「时代楷模」称号，褒扬他们是「奋飞新时代的空中铁拳」，他们值得学习的点在哪？](https://www.zhihu.com/question/607609756)<br />
 2. [硅谷银行亚洲客户遭「双向挤压」，存款被没收，贷款必须还，如何看待此事？](https://www.zhihu.com/question/607811714)<br />
-3. [轰 6K 海上飞行时驱离外方船只，有哪些信息值得关注？](https://www.zhihu.com/question/607773769)<br />
-4. [宁夏银川发生燃气爆炸事故造成 38 人伤亡，其中 31 人死亡，7 人仍在救治中，具体情况如何？](https://www.zhihu.com/question/607961203)<br />
+3. [宁夏银川发生燃气爆炸事故造成 38 人伤亡，其中 31 人死亡，7 人仍在救治中，具体情况如何？](https://www.zhihu.com/question/607961203)<br />
+4. [轰 6K 海上飞行时驱离外方船只，有哪些信息值得关注？](https://www.zhihu.com/question/607773769)<br />
 5. [研究发现燃气灶增加患白血病风险，苯浓度超二手烟，这一发现具有哪些意义？生活中使用燃气灶如何降低伤害？](https://www.zhihu.com/question/607771756)<br />
 6. [两名中国公民在美被定罪，外交部称「敦促美方立即纠正错误」，有哪些信息值得关注？](https://www.zhihu.com/question/607819218)<br />
 7. [布林肯结束访华，外交部美大司司长十答中美问题，更多细节披露，哪些信息值得关注？](https://www.zhihu.com/question/607816687)<br />
@@ -27,8 +27,8 @@
 > 百度  
 
 1. [中国人的赛龙舟有多燃](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E8%B5%9B%E9%BE%99%E8%88%9F%E6%9C%89%E5%A4%9A%E7%87%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [甜粽和咸粽又开始吵架了](https://www.baidu.com/s?wd=%E7%94%9C%E7%B2%BD%E5%92%8C%E5%92%B8%E7%B2%BD%E5%8F%88%E5%BC%80%E5%A7%8B%E5%90%B5%E6%9E%B6%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [健美比赛女模特扔高跟鞋砸评委](https://www.baidu.com/s?wd=%E5%81%A5%E7%BE%8E%E6%AF%94%E8%B5%9B%E5%A5%B3%E6%A8%A1%E7%89%B9%E6%89%94%E9%AB%98%E8%B7%9F%E9%9E%8B%E7%A0%B8%E8%AF%84%E5%A7%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [应急管理部派工作组赴宁夏指导救援](https://www.baidu.com/s?wd=%E5%BA%94%E6%80%A5%E7%AE%A1%E7%90%86%E9%83%A8%E6%B4%BE%E5%B7%A5%E4%BD%9C%E7%BB%84%E8%B5%B4%E5%AE%81%E5%A4%8F%E6%8C%87%E5%AF%BC%E6%95%91%E6%8F%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [甜粽和咸粽又开始吵架了](https://www.baidu.com/s?wd=%E7%94%9C%E7%B2%BD%E5%92%8C%E5%92%B8%E7%B2%BD%E5%8F%88%E5%BC%80%E5%A7%8B%E5%90%B5%E6%9E%B6%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [牢牢守住生态保护红线](https://www.baidu.com/s?wd=%E7%89%A2%E7%89%A2%E5%AE%88%E4%BD%8F%E7%94%9F%E6%80%81%E4%BF%9D%E6%8A%A4%E7%BA%A2%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [烧烤店爆炸报警人：更换阀门时爆炸](https://www.baidu.com/s?wd=%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E6%8A%A5%E8%AD%A6%E4%BA%BA%EF%BC%9A%E6%9B%B4%E6%8D%A2%E9%98%80%E9%97%A8%E6%97%B6%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [妈妈带高考结束女儿整容](https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E5%B8%A6%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E5%A5%B3%E5%84%BF%E6%95%B4%E5%AE%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -39,8 +39,8 @@
 > 哔哩哔哩  
 
 1. [中国人的赛龙舟有多燃](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E8%B5%9B%E9%BE%99%E8%88%9F%E6%9C%89%E5%A4%9A%E7%87%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [甜粽和咸粽又开始吵架了](https://www.baidu.com/s?wd=%E7%94%9C%E7%B2%BD%E5%92%8C%E5%92%B8%E7%B2%BD%E5%8F%88%E5%BC%80%E5%A7%8B%E5%90%B5%E6%9E%B6%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [健美比赛女模特扔高跟鞋砸评委](https://www.baidu.com/s?wd=%E5%81%A5%E7%BE%8E%E6%AF%94%E8%B5%9B%E5%A5%B3%E6%A8%A1%E7%89%B9%E6%89%94%E9%AB%98%E8%B7%9F%E9%9E%8B%E7%A0%B8%E8%AF%84%E5%A7%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [应急管理部派工作组赴宁夏指导救援](https://www.baidu.com/s?wd=%E5%BA%94%E6%80%A5%E7%AE%A1%E7%90%86%E9%83%A8%E6%B4%BE%E5%B7%A5%E4%BD%9C%E7%BB%84%E8%B5%B4%E5%AE%81%E5%A4%8F%E6%8C%87%E5%AF%BC%E6%95%91%E6%8F%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [甜粽和咸粽又开始吵架了](https://www.baidu.com/s?wd=%E7%94%9C%E7%B2%BD%E5%92%8C%E5%92%B8%E7%B2%BD%E5%8F%88%E5%BC%80%E5%A7%8B%E5%90%B5%E6%9E%B6%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [牢牢守住生态保护红线](https://www.baidu.com/s?wd=%E7%89%A2%E7%89%A2%E5%AE%88%E4%BD%8F%E7%94%9F%E6%80%81%E4%BF%9D%E6%8A%A4%E7%BA%A2%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [烧烤店爆炸报警人：更换阀门时爆炸](https://www.baidu.com/s?wd=%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E6%8A%A5%E8%AD%A6%E4%BA%BA%EF%BC%9A%E6%9B%B4%E6%8D%A2%E9%98%80%E9%97%A8%E6%97%B6%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [妈妈带高考结束女儿整容](https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E5%B8%A6%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E5%A5%B3%E5%84%BF%E6%95%B4%E5%AE%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
