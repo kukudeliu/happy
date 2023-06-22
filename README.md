@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 22:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 22:20:02</h4></div>
 
 > 微博  
 
@@ -17,7 +17,7 @@
 1. [数据称应届大学生就业重心继续下沉，越来越多应届生回县城考公，如何看待此现象？反映出哪些问题？](https://www.zhihu.com/question/607781746)<br />
 2. [上海二手房挂牌量增速全国第一，挂牌数达 18 万套，有中介接受火锅券冲抵中介费，如何看待上海楼市行情？](https://www.zhihu.com/question/607907674)<br />
 3. [一个村超都搞得有声有色，为啥中国足球人人唾弃，真的是规则出了问题？](https://www.zhihu.com/question/606948461)<br />
-4. []()<br />
+4. [失联潜水器「泰坦」号氧气预计已耗尽，舱内 5 人生死未卜，氧气耗尽后会发生什么？救援是否会有奇迹出现？](https://www.zhihu.com/question/608002171)<br />
 5. [现在还有没感染新冠的吗？你们怎么做到的？](https://www.zhihu.com/question/576527176)<br />
 6. [宁夏银川发生燃气爆炸事故造成 38 人伤亡，其中 31 人死亡，7 人仍在救治中，具体情况如何？](https://www.zhihu.com/question/607961203)<br />
 7. [为什么小提琴不像吉他一样加上品格，降低入门难度？](https://www.zhihu.com/question/308921367)<br />
@@ -31,10 +31,10 @@
 3. [莫迪送拜登夫人7.5克拉“绿钻”](https://www.baidu.com/s?wd=%E8%8E%AB%E8%BF%AA%E9%80%81%E6%8B%9C%E7%99%BB%E5%A4%AB%E4%BA%BA7.5%E5%85%8B%E6%8B%89%E2%80%9C%E7%BB%BF%E9%92%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [文博日历丨古人怎么过端午](https://www.baidu.com/s?wd=%E6%96%87%E5%8D%9A%E6%97%A5%E5%8E%86%E4%B8%A8%E5%8F%A4%E4%BA%BA%E6%80%8E%E4%B9%88%E8%BF%87%E7%AB%AF%E5%8D%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [U17国足0比3不敌沙特无缘晋级](https://www.baidu.com/s?wd=U17%E5%9B%BD%E8%B6%B30%E6%AF%943%E4%B8%8D%E6%95%8C%E6%B2%99%E7%89%B9%E6%97%A0%E7%BC%98%E6%99%8B%E7%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [旅欧游客深夜被扔在意大利街头](https://www.baidu.com/s?wd=%E6%97%85%E6%AC%A7%E6%B8%B8%E5%AE%A2%E6%B7%B1%E5%A4%9C%E8%A2%AB%E6%89%94%E5%9C%A8%E6%84%8F%E5%A4%A7%E5%88%A9%E8%A1%97%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [长风渡14集杀疯了](https://www.baidu.com/s?wd=%E9%95%BF%E9%A3%8E%E6%B8%A114%E9%9B%86%E6%9D%80%E7%96%AF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [《庆余年》导演回应阵容调整](https://www.baidu.com/s?wd=%E3%80%8A%E5%BA%86%E4%BD%99%E5%B9%B4%E3%80%8B%E5%AF%BC%E6%BC%94%E5%9B%9E%E5%BA%94%E9%98%B5%E5%AE%B9%E8%B0%83%E6%95%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [张雪峰再谈专业选择](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%86%8D%E8%B0%88%E4%B8%93%E4%B8%9A%E9%80%89%E6%8B%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [长风渡14集杀疯了](https://www.baidu.com/s?wd=%E9%95%BF%E9%A3%8E%E6%B8%A114%E9%9B%86%E6%9D%80%E7%96%AF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [旅欧游客深夜被扔在意大利街头](https://www.baidu.com/s?wd=%E6%97%85%E6%AC%A7%E6%B8%B8%E5%AE%A2%E6%B7%B1%E5%A4%9C%E8%A2%AB%E6%89%94%E5%9C%A8%E6%84%8F%E5%A4%A7%E5%88%A9%E8%A1%97%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [张雪峰再谈专业选择](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%86%8D%E8%B0%88%E4%B8%93%E4%B8%9A%E9%80%89%E6%8B%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [《庆余年》导演回应阵容调整](https://www.baidu.com/s?wd=%E3%80%8A%E5%BA%86%E4%BD%99%E5%B9%B4%E3%80%8B%E5%AF%BC%E6%BC%94%E5%9B%9E%E5%BA%94%E9%98%B5%E5%AE%B9%E8%B0%83%E6%95%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [莫迪送拜登夫人7.5克拉“绿钻”](https://www.baidu.com/s?wd=%E8%8E%AB%E8%BF%AA%E9%80%81%E6%8B%9C%E7%99%BB%E5%A4%AB%E4%BA%BA7.5%E5%85%8B%E6%8B%89%E2%80%9C%E7%BB%BF%E9%92%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [文博日历丨古人怎么过端午](https://www.baidu.com/s?wd=%E6%96%87%E5%8D%9A%E6%97%A5%E5%8E%86%E4%B8%A8%E5%8F%A4%E4%BA%BA%E6%80%8E%E4%B9%88%E8%BF%87%E7%AB%AF%E5%8D%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [U17国足0比3不敌沙特无缘晋级](https://www.baidu.com/s?wd=U17%E5%9B%BD%E8%B6%B30%E6%AF%943%E4%B8%8D%E6%95%8C%E6%B2%99%E7%89%B9%E6%97%A0%E7%BC%98%E6%99%8B%E7%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [旅欧游客深夜被扔在意大利街头](https://www.baidu.com/s?wd=%E6%97%85%E6%AC%A7%E6%B8%B8%E5%AE%A2%E6%B7%B1%E5%A4%9C%E8%A2%AB%E6%89%94%E5%9C%A8%E6%84%8F%E5%A4%A7%E5%88%A9%E8%A1%97%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [长风渡14集杀疯了](https://www.baidu.com/s?wd=%E9%95%BF%E9%A3%8E%E6%B8%A114%E9%9B%86%E6%9D%80%E7%96%AF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [《庆余年》导演回应阵容调整](https://www.baidu.com/s?wd=%E3%80%8A%E5%BA%86%E4%BD%99%E5%B9%B4%E3%80%8B%E5%AF%BC%E6%BC%94%E5%9B%9E%E5%BA%94%E9%98%B5%E5%AE%B9%E8%B0%83%E6%95%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [张雪峰再谈专业选择](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%86%8D%E8%B0%88%E4%B8%93%E4%B8%9A%E9%80%89%E6%8B%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [长风渡14集杀疯了](https://www.baidu.com/s?wd=%E9%95%BF%E9%A3%8E%E6%B8%A114%E9%9B%86%E6%9D%80%E7%96%AF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [旅欧游客深夜被扔在意大利街头](https://www.baidu.com/s?wd=%E6%97%85%E6%AC%A7%E6%B8%B8%E5%AE%A2%E6%B7%B1%E5%A4%9C%E8%A2%AB%E6%89%94%E5%9C%A8%E6%84%8F%E5%A4%A7%E5%88%A9%E8%A1%97%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [张雪峰再谈专业选择](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%86%8D%E8%B0%88%E4%B8%93%E4%B8%9A%E9%80%89%E6%8B%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [《庆余年》导演回应阵容调整](https://www.baidu.com/s?wd=%E3%80%8A%E5%BA%86%E4%BD%99%E5%B9%B4%E3%80%8B%E5%AF%BC%E6%BC%94%E5%9B%9E%E5%BA%94%E9%98%B5%E5%AE%B9%E8%B0%83%E6%95%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
