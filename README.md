@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 15:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 15:14:01</h4></div>
 
 > 微博  
 
 1. [手机号实名制已经10年了](https://s.weibo.com/weibo?q=%E6%89%8B%E6%9C%BA%E5%8F%B7%E5%AE%9E%E5%90%8D%E5%88%B6%E5%B7%B2%E7%BB%8F10%E5%B9%B4%E4%BA%86&t=31&band_rank=1&Refer=top)<br />
-2. [迪丽热巴的项链好特别](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9A%84%E9%A1%B9%E9%93%BE%E5%A5%BD%E7%89%B9%E5%88%AB%23&t=31&band_rank=2&Refer=top)<br />
+2. [知情人称银川烧烤店死者死因多为窒息](https://s.weibo.com/weibo?q=%23%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0%E9%93%B6%E5%B7%9D%E7%83%A7%E7%83%A4%E5%BA%97%E6%AD%BB%E8%80%85%E6%AD%BB%E5%9B%A0%E5%A4%9A%E4%B8%BA%E7%AA%92%E6%81%AF%23&t=31&band_rank=2&Refer=top)<br />
 3. [一人一句祝愿端午安康](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%BA%BA%E4%B8%80%E5%8F%A5%E7%A5%9D%E6%84%BF%E7%AB%AF%E5%8D%88%E5%AE%89%E5%BA%B7%23&t=31&band_rank=3&Refer=top)<br />
-4. [知情人称银川烧烤店死者死因多为窒息](https://s.weibo.com/weibo?q=%23%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0%E9%93%B6%E5%B7%9D%E7%83%A7%E7%83%A4%E5%BA%97%E6%AD%BB%E8%80%85%E6%AD%BB%E5%9B%A0%E5%A4%9A%E4%B8%BA%E7%AA%92%E6%81%AF%23&t=31&band_rank=4&Refer=top)<br />
+4. [迪丽热巴的项链好特别](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9A%84%E9%A1%B9%E9%93%BE%E5%A5%BD%E7%89%B9%E5%88%AB%23&t=31&band_rank=4&Refer=top)<br />
 5. [失联泰坦尼克号观光艇氧气即将耗尽](https://s.weibo.com/weibo?q=%23%E5%A4%B1%E8%81%94%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7%E8%A7%82%E5%85%89%E8%89%87%E6%B0%A7%E6%B0%94%E5%8D%B3%E5%B0%86%E8%80%97%E5%B0%BD%23&t=31&band_rank=5&Refer=top)<br />
 6. [赵丽颖红色旗袍](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%BA%A2%E8%89%B2%E6%97%97%E8%A2%8D%23&t=31&band_rank=6&Refer=top)<br />
 7. [无穷小亮 有个事挺瘆得慌](https://s.weibo.com/weibo?q=%E6%97%A0%E7%A9%B7%E5%B0%8F%E4%BA%AE%20%E6%9C%89%E4%B8%AA%E4%BA%8B%E6%8C%BA%E7%98%86%E5%BE%97%E6%85%8C&t=31&band_rank=7&Refer=top)<br />
@@ -34,7 +34,7 @@
 6. [爆炸烧烤店连夜注销 老板身家千万](https://www.baidu.com/s?wd=%E7%88%86%E7%82%B8%E7%83%A7%E7%83%A4%E5%BA%97%E8%BF%9E%E5%A4%9C%E6%B3%A8%E9%94%80+%E8%80%81%E6%9D%BF%E8%BA%AB%E5%AE%B6%E5%8D%83%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [宁夏烧烤店爆炸致31死](https://www.baidu.com/s?wd=%E5%AE%81%E5%A4%8F%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E8%87%B431%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [泰坦尼克号遇难者后裔丈夫在潜艇上](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7%E9%81%87%E9%9A%BE%E8%80%85%E5%90%8E%E8%A3%94%E4%B8%88%E5%A4%AB%E5%9C%A8%E6%BD%9C%E8%89%87%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [妈妈带高考结束女儿整容](https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E5%B8%A6%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E5%A5%B3%E5%84%BF%E6%95%B4%E5%AE%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [古人过端午仪式感有多足](https://www.baidu.com/s?wd=%E5%8F%A4%E4%BA%BA%E8%BF%87%E7%AB%AF%E5%8D%88%E4%BB%AA%E5%BC%8F%E6%84%9F%E6%9C%89%E5%A4%9A%E8%B6%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [爆炸烧烤店连夜注销 老板身家千万](https://www.baidu.com/s?wd=%E7%88%86%E7%82%B8%E7%83%A7%E7%83%A4%E5%BA%97%E8%BF%9E%E5%A4%9C%E6%B3%A8%E9%94%80+%E8%80%81%E6%9D%BF%E8%BA%AB%E5%AE%B6%E5%8D%83%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [宁夏烧烤店爆炸致31死](https://www.baidu.com/s?wd=%E5%AE%81%E5%A4%8F%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E8%87%B431%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [泰坦尼克号遇难者后裔丈夫在潜艇上](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7%E9%81%87%E9%9A%BE%E8%80%85%E5%90%8E%E8%A3%94%E4%B8%88%E5%A4%AB%E5%9C%A8%E6%BD%9C%E8%89%87%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [妈妈带高考结束女儿整容](https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E5%B8%A6%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E5%A5%B3%E5%84%BF%E6%95%B4%E5%AE%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [古人过端午仪式感有多足](https://www.baidu.com/s?wd=%E5%8F%A4%E4%BA%BA%E8%BF%87%E7%AB%AF%E5%8D%88%E4%BB%AA%E5%BC%8F%E6%84%9F%E6%9C%89%E5%A4%9A%E8%B6%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
