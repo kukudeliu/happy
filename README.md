@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 20:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 20:12:01</h4></div>
 
 > 微博  
 
-1. [马伯庸 别人发端午安康我回复端午快乐](https://s.weibo.com/weibo?q=%E9%A9%AC%E4%BC%AF%E5%BA%B8%20%E5%88%AB%E4%BA%BA%E5%8F%91%E7%AB%AF%E5%8D%88%E5%AE%89%E5%BA%B7%E6%88%91%E5%9B%9E%E5%A4%8D%E7%AB%AF%E5%8D%88%E5%BF%AB%E4%B9%90&t=31&band_rank=1&Refer=top)<br />
-2. [宁夏银川烧烤店爆炸事故新闻发布会](https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%A4%8F%E9%93%B6%E5%B7%9D%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=2&Refer=top)<br />
+1. [宁夏银川烧烤店爆炸事故新闻发布会](https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%A4%8F%E9%93%B6%E5%B7%9D%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=1&Refer=top)<br />
+2. [马伯庸 别人发端午安康我回复端午快乐](https://s.weibo.com/weibo?q=%E9%A9%AC%E4%BC%AF%E5%BA%B8%20%E5%88%AB%E4%BA%BA%E5%8F%91%E7%AB%AF%E5%8D%88%E5%AE%89%E5%BA%B7%E6%88%91%E5%9B%9E%E5%A4%8D%E7%AB%AF%E5%8D%88%E5%BF%AB%E4%B9%90&t=31&band_rank=2&Refer=top)<br />
 3. [藏在古画里的端午仪式感](https://s.weibo.com/weibo?q=%23%E8%97%8F%E5%9C%A8%E5%8F%A4%E7%94%BB%E9%87%8C%E7%9A%84%E7%AB%AF%E5%8D%88%E4%BB%AA%E5%BC%8F%E6%84%9F%23&t=31&band_rank=3&Refer=top)<br />
 4. [怀孕33周孕妇被2岁儿子开枪打死](https://s.weibo.com/weibo?q=%23%E6%80%80%E5%AD%9533%E5%91%A8%E5%AD%95%E5%A6%87%E8%A2%AB2%E5%B2%81%E5%84%BF%E5%AD%90%E5%BC%80%E6%9E%AA%E6%89%93%E6%AD%BB%23&t=31&band_rank=4&Refer=top)<br />
 5. [伊能静晒儿子女儿合照](https://s.weibo.com/weibo?q=%23%E4%BC%8A%E8%83%BD%E9%9D%99%E6%99%92%E5%84%BF%E5%AD%90%E5%A5%B3%E5%84%BF%E5%90%88%E7%85%A7%23&t=31&band_rank=5&Refer=top)<br />
