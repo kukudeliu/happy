@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 18:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 18:30:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [美海岸警卫队炮舰过航台湾海峡，中国海警舰艇对其全程跟监警戒，还有哪些信息值得关注？](https://www.zhihu.com/question/607981759)<br />
 5. [《灌篮高手》全国大赛之后，赤木为什么没能入选体育大学？](https://www.zhihu.com/question/21984804)<br />
 6. [宁夏银川发生燃气爆炸事故造成 38 人伤亡，其中 31 人死亡，7 人仍在救治中，具体情况如何？](https://www.zhihu.com/question/607961203)<br />
-7. [全国结婚登记量跌破 700 万对，创 37 年来新低，年轻人「爱」不起了吗？](https://www.zhihu.com/question/607996046)<br />
-8. [2023 年端午节后 A 股会大涨吗？](https://www.zhihu.com/question/607909550)<br />
-9. [iPhone 电池健康度多少才算正常？80% 和 100% 有什么区别？](https://www.zhihu.com/question/569965047)<br />
+7. []()<br />
+8. [全国结婚登记量跌破 700 万对，创 37 年来新低，年轻人「爱」不起了吗？](https://www.zhihu.com/question/607996046)<br />
+9. [2023 年端午节后 A 股会大涨吗？](https://www.zhihu.com/question/607909550)<br />
 
 > 百度  
 
