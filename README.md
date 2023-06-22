@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 12:26:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 12:27:01</h4></div>
 
 > 微博  
 
 1. [银川烧烤店爆炸事故31人经抢救无效死亡](https://s.weibo.com/weibo?q=%23%E9%93%B6%E5%B7%9D%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%8531%E4%BA%BA%E7%BB%8F%E6%8A%A2%E6%95%91%E6%97%A0%E6%95%88%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=1&Refer=top)<br />
-2. [马伯骞你是真的火了](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%BC%AF%E9%AA%9E%E4%BD%A0%E6%98%AF%E7%9C%9F%E7%9A%84%E7%81%AB%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
+2. [无穷小亮 有个事挺瘆得慌](https://s.weibo.com/weibo?q=%E6%97%A0%E7%A9%B7%E5%B0%8F%E4%BA%AE%20%E6%9C%89%E4%B8%AA%E4%BA%8B%E6%8C%BA%E7%98%86%E5%BE%97%E6%85%8C&t=31&band_rank=2&Refer=top)<br />
 3. [赛龙舟不只是一群人一起划划船](https://s.weibo.com/weibo?q=%23%E8%B5%9B%E9%BE%99%E8%88%9F%E4%B8%8D%E5%8F%AA%E6%98%AF%E4%B8%80%E7%BE%A4%E4%BA%BA%E4%B8%80%E8%B5%B7%E5%88%92%E5%88%92%E8%88%B9%23&t=31&band_rank=3&Refer=top)<br />
-4. [无穷小亮 有个事挺瘆得慌](https://s.weibo.com/weibo?q=%E6%97%A0%E7%A9%B7%E5%B0%8F%E4%BA%AE%20%E6%9C%89%E4%B8%AA%E4%BA%8B%E6%8C%BA%E7%98%86%E5%BE%97%E6%85%8C&t=31&band_rank=4&Refer=top)<br />
+4. [马伯骞你是真的火了](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%BC%AF%E9%AA%9E%E4%BD%A0%E6%98%AF%E7%9C%9F%E7%9A%84%E7%81%AB%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [目击者讲述银川烧烤店爆炸](https://s.weibo.com/weibo?q=%23%E7%9B%AE%E5%87%BB%E8%80%85%E8%AE%B2%E8%BF%B0%E9%93%B6%E5%B7%9D%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%23&t=31&band_rank=5&Refer=top)<br />
 6. [千万别在下午和晚上买机票](https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E5%88%AB%E5%9C%A8%E4%B8%8B%E5%8D%88%E5%92%8C%E6%99%9A%E4%B8%8A%E4%B9%B0%E6%9C%BA%E7%A5%A8%23&t=31&band_rank=6&Refer=top)<br />
 7. [为什么大家都不再发朋友圈了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%A7%E5%AE%B6%E9%83%BD%E4%B8%8D%E5%86%8D%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
@@ -34,7 +34,7 @@
 6. [植物人父亲帮儿子挠痒](https://www.baidu.com/s?wd=%E6%A4%8D%E7%89%A9%E4%BA%BA%E7%88%B6%E4%BA%B2%E5%B8%AE%E5%84%BF%E5%AD%90%E6%8C%A0%E7%97%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [宁夏烧烤店爆炸致31死](https://www.baidu.com/s?wd=%E5%AE%81%E5%A4%8F%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E8%87%B431%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [妈妈带高考结束女儿整容](https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E5%B8%A6%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E5%A5%B3%E5%84%BF%E6%95%B4%E5%AE%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [宁夏烧烤店爆炸现场满地碎片](https://www.baidu.com/s?wd=%E5%AE%81%E5%A4%8F%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E7%8E%B0%E5%9C%BA%E6%BB%A1%E5%9C%B0%E7%A2%8E%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [古巨基采访王菲被鸟屎砸到头](https://www.baidu.com/s?wd=%E5%8F%A4%E5%B7%A8%E5%9F%BA%E9%87%87%E8%AE%BF%E7%8E%8B%E8%8F%B2%E8%A2%AB%E9%B8%9F%E5%B1%8E%E7%A0%B8%E5%88%B0%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [植物人父亲帮儿子挠痒](https://www.baidu.com/s?wd=%E6%A4%8D%E7%89%A9%E4%BA%BA%E7%88%B6%E4%BA%B2%E5%B8%AE%E5%84%BF%E5%AD%90%E6%8C%A0%E7%97%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [宁夏烧烤店爆炸致31死](https://www.baidu.com/s?wd=%E5%AE%81%E5%A4%8F%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E8%87%B431%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [妈妈带高考结束女儿整容](https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E5%B8%A6%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E5%A5%B3%E5%84%BF%E6%95%B4%E5%AE%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [宁夏烧烤店爆炸现场满地碎片](https://www.baidu.com/s?wd=%E5%AE%81%E5%A4%8F%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E7%8E%B0%E5%9C%BA%E6%BB%A1%E5%9C%B0%E7%A2%8E%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [古巨基采访王菲被鸟屎砸到头](https://www.baidu.com/s?wd=%E5%8F%A4%E5%B7%A8%E5%9F%BA%E9%87%87%E8%AE%BF%E7%8E%8B%E8%8F%B2%E8%A2%AB%E9%B8%9F%E5%B1%8E%E7%A0%B8%E5%88%B0%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
