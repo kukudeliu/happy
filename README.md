@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 15:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 15:59:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [新任公安部禁毒局局长首次公开亮相](https://www.baidu.com/s?wd=%E6%96%B0%E4%BB%BB%E5%85%AC%E5%AE%89%E9%83%A8%E7%A6%81%E6%AF%92%E5%B1%80%E5%B1%80%E9%95%BF%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80%E4%BA%AE%E7%9B%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [泰坦尼克号遇难者后裔丈夫在潜艇上](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7%E9%81%87%E9%9A%BE%E8%80%85%E5%90%8E%E8%A3%94%E4%B8%88%E5%A4%AB%E5%9C%A8%E6%BD%9C%E8%89%87%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子连生6女被要求生子想离婚遭驳回](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%BF%9E%E7%94%9F6%E5%A5%B3%E8%A2%AB%E8%A6%81%E6%B1%82%E7%94%9F%E5%AD%90%E6%83%B3%E7%A6%BB%E5%A9%9A%E9%81%AD%E9%A9%B3%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [甜粽和咸粽又开始吵架了](https://www.baidu.com/s?wd=%E7%94%9C%E7%B2%BD%E5%92%8C%E5%92%B8%E7%B2%BD%E5%8F%88%E5%BC%80%E5%A7%8B%E5%90%B5%E6%9E%B6%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [粽子口味和吃法“卷”出新高度](https://www.baidu.com/s?wd=%E7%B2%BD%E5%AD%90%E5%8F%A3%E5%91%B3%E5%92%8C%E5%90%83%E6%B3%95%E2%80%9C%E5%8D%B7%E2%80%9D%E5%87%BA%E6%96%B0%E9%AB%98%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [失联潜艇曾多次爆出安全隐患](https://www.baidu.com/s?wd=%E5%A4%B1%E8%81%94%E6%BD%9C%E8%89%87%E6%9B%BE%E5%A4%9A%E6%AC%A1%E7%88%86%E5%87%BA%E5%AE%89%E5%85%A8%E9%9A%90%E6%82%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子忘关火把粽子煮成黑炭](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%BF%98%E5%85%B3%E7%81%AB%E6%8A%8A%E7%B2%BD%E5%AD%90%E7%85%AE%E6%88%90%E9%BB%91%E7%82%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [新任公安部禁毒局局长首次公开亮相](https://www.baidu.com/s?wd=%E6%96%B0%E4%BB%BB%E5%85%AC%E5%AE%89%E9%83%A8%E7%A6%81%E6%AF%92%E5%B1%80%E5%B1%80%E9%95%BF%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80%E4%BA%AE%E7%9B%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [泰坦尼克号遇难者后裔丈夫在潜艇上](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7%E9%81%87%E9%9A%BE%E8%80%85%E5%90%8E%E8%A3%94%E4%B8%88%E5%A4%AB%E5%9C%A8%E6%BD%9C%E8%89%87%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子连生6女被要求生子想离婚遭驳回](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%BF%9E%E7%94%9F6%E5%A5%B3%E8%A2%AB%E8%A6%81%E6%B1%82%E7%94%9F%E5%AD%90%E6%83%B3%E7%A6%BB%E5%A9%9A%E9%81%AD%E9%A9%B3%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [甜粽和咸粽又开始吵架了](https://www.baidu.com/s?wd=%E7%94%9C%E7%B2%BD%E5%92%8C%E5%92%B8%E7%B2%BD%E5%8F%88%E5%BC%80%E5%A7%8B%E5%90%B5%E6%9E%B6%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [粽子口味和吃法“卷”出新高度](https://www.baidu.com/s?wd=%E7%B2%BD%E5%AD%90%E5%8F%A3%E5%91%B3%E5%92%8C%E5%90%83%E6%B3%95%E2%80%9C%E5%8D%B7%E2%80%9D%E5%87%BA%E6%96%B0%E9%AB%98%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [失联潜艇曾多次爆出安全隐患](https://www.baidu.com/s?wd=%E5%A4%B1%E8%81%94%E6%BD%9C%E8%89%87%E6%9B%BE%E5%A4%9A%E6%AC%A1%E7%88%86%E5%87%BA%E5%AE%89%E5%85%A8%E9%9A%90%E6%82%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子忘关火把粽子煮成黑炭](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%BF%98%E5%85%B3%E7%81%AB%E6%8A%8A%E7%B2%BD%E5%AD%90%E7%85%AE%E6%88%90%E9%BB%91%E7%82%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
