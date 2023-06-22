@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 02:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 02:46:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [高考查分](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86&t=31&band_rank=4&Refer=top)<br />
 5. [银川烧烤店爆炸事故伤者家属发声](https://s.weibo.com/weibo?q=%23%E9%93%B6%E5%B7%9D%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E4%BC%A4%E8%80%85%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0%23&t=31&band_rank=5&Refer=top)<br />
 6. [马伯庸 别人发端午安康我回复端午快乐](https://s.weibo.com/weibo?q=%E9%A9%AC%E4%BC%AF%E5%BA%B8%20%E5%88%AB%E4%BA%BA%E5%8F%91%E7%AB%AF%E5%8D%88%E5%AE%89%E5%BA%B7%E6%88%91%E5%9B%9E%E5%A4%8D%E7%AB%AF%E5%8D%88%E5%BF%AB%E4%B9%90&t=31&band_rank=6&Refer=top)<br />
-7. [消失的她票房](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%88%BF&t=31&band_rank=7&Refer=top)<br />
-8. [2023好声音导师官宣](https://s.weibo.com/weibo?q=%232023%E5%A5%BD%E5%A3%B0%E9%9F%B3%E5%AF%BC%E5%B8%88%E5%AE%98%E5%AE%A3%23&t=31&band_rank=8&Refer=top)<br />
+7. [2023好声音导师官宣](https://s.weibo.com/weibo?q=%232023%E5%A5%BD%E5%A3%B0%E9%9F%B3%E5%AF%BC%E5%B8%88%E5%AE%98%E5%AE%A3%23&t=31&band_rank=7&Refer=top)<br />
+8. [消失的她票房](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%88%BF&t=31&band_rank=8&Refer=top)<br />
 9. [专家称泰坦号或已断电进水](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%B3%B0%E5%9D%A6%E5%8F%B7%E6%88%96%E5%B7%B2%E6%96%AD%E7%94%B5%E8%BF%9B%E6%B0%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -19,10 +19,10 @@
 3. [美国五角大楼将对乌军援的记账错误金额提高至 62 亿美元，透露了哪些信息？](https://www.zhihu.com/question/607781134)<br />
 4. [扎克伯格和马斯克线上约架，马斯克称准备来一场笼斗，扎克伯格回应称「地址发我」，如何看待此事？](https://www.zhihu.com/question/608012861)<br />
 5. [《黑客帝国》为什么最后是尼欧赢了？](https://www.zhihu.com/question/45125535)<br />
-6. [校招中的「熟悉 Linux 操作系统」一般是指达到什么程度？](https://www.zhihu.com/question/517101428)<br />
-7. [如何评价周润发在电影《别叫我「赌神」》中的表现？](https://www.zhihu.com/question/607674958)<br />
+6. [如何评价周润发在电影《别叫我「赌神」》中的表现？](https://www.zhihu.com/question/607674958)<br />
+7. [校招中的「熟悉 Linux 操作系统」一般是指达到什么程度？](https://www.zhihu.com/question/517101428)<br />
 8. [全国结婚登记量跌破 700 万对，创 37 年来新低，年轻人「爱」不起了吗？](https://www.zhihu.com/question/607996046)<br />
-9. [2023 LPL 夏季赛 Uzi 不敌老东家，RNG 2:0 击败 EDG，如何评价这场比赛？](https://www.zhihu.com/question/608001150)<br />
+9. [如何评价《英雄联盟》新英雄「百裂冥犬」纳亚菲利？](https://www.zhihu.com/question/607827052)<br />
 
 > 百度  
 
