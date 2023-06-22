@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 04:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 04:37:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [银川烧烤店爆炸事故伤者家属发声](https://s.weibo.com/weibo?q=%23%E9%93%B6%E5%B7%9D%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E4%BC%A4%E8%80%85%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0%23&t=31&band_rank=6&Refer=top)<br />
 7. [2023好声音导师官宣](https://s.weibo.com/weibo?q=%232023%E5%A5%BD%E5%A3%B0%E9%9F%B3%E5%AF%BC%E5%B8%88%E5%AE%98%E5%AE%A3%23&t=31&band_rank=7&Refer=top)<br />
 8. [消失的她票房](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%88%BF&t=31&band_rank=8&Refer=top)<br />
-9. [怀孕33周孕妇被2岁儿子开枪打死](https://s.weibo.com/weibo?q=%23%E6%80%80%E5%AD%9533%E5%91%A8%E5%AD%95%E5%A6%87%E8%A2%AB2%E5%B2%81%E5%84%BF%E5%AD%90%E5%BC%80%E6%9E%AA%E6%89%93%E6%AD%BB%23&t=31&band_rank=9&Refer=top)<br />
+9. [这粽子是犯了天条吗被绑成这样](https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%B2%BD%E5%AD%90%E6%98%AF%E7%8A%AF%E4%BA%86%E5%A4%A9%E6%9D%A1%E5%90%97%E8%A2%AB%E7%BB%91%E6%88%90%E8%BF%99%E6%A0%B7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -19,10 +19,10 @@
 3. [扎克伯格和马斯克线上约架，马斯克称准备来一场笼斗，扎克伯格回应称「地址发我」，如何看待此事？](https://www.zhihu.com/question/608012861)<br />
 4. [如何评价周润发在电影《别叫我「赌神」》中的表现？](https://www.zhihu.com/question/607674958)<br />
 5. [全国结婚登记量跌破 700 万对，创 37 年来新低，年轻人「爱」不起了吗？](https://www.zhihu.com/question/607996046)<br />
-6. [U17 亚洲杯小组赛中国 0:3 沙特，1 平 2 负小组垫底出局，如何评价中国队亚洲杯上的表现？](https://www.zhihu.com/question/608014216)<br />
-7. [校招中的「熟悉 Linux 操作系统」一般是指达到什么程度？](https://www.zhihu.com/question/517101428)<br />
+6. [校招中的「熟悉 Linux 操作系统」一般是指达到什么程度？](https://www.zhihu.com/question/517101428)<br />
+7. [U17 亚洲杯小组赛中国 0:3 沙特，1 平 2 负小组垫底出局，如何评价中国队亚洲杯上的表现？](https://www.zhihu.com/question/608014216)<br />
 8. [一个村超都搞得有声有色，为啥中国足球人人唾弃，真的是规则出了问题？](https://www.zhihu.com/question/606948461)<br />
-9. [美国五角大楼将对乌军援的记账错误金额提高至 62 亿美元，透露了哪些信息？](https://www.zhihu.com/question/607781134)<br />
+9. [现在还有没感染新冠的吗？你们怎么做到的？](https://www.zhihu.com/question/576527176)<br />
 
 > 百度  
 
