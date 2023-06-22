@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 21:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 21:18:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [长风渡14集杀疯了](https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%A3%8E%E6%B8%A114%E9%9B%86%E6%9D%80%E7%96%AF%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [消失的她票房](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%88%BF&t=31&band_rank=5&Refer=top)<br />
 6. [沙溢长风渡下线](https://s.weibo.com/weibo?q=%23%E6%B2%99%E6%BA%A2%E9%95%BF%E9%A3%8E%E6%B8%A1%E4%B8%8B%E7%BA%BF%23&t=31&band_rank=6&Refer=top)<br />
-7. [怀孕33周孕妇被2岁儿子开枪打死](https://s.weibo.com/weibo?q=%23%E6%80%80%E5%AD%9533%E5%91%A8%E5%AD%95%E5%A6%87%E8%A2%AB2%E5%B2%81%E5%84%BF%E5%AD%90%E5%BC%80%E6%9E%AA%E6%89%93%E6%AD%BB%23&t=31&band_rank=7&Refer=top)<br />
-8. [银川市委副书记致歉](https://s.weibo.com/weibo?q=%23%E9%93%B6%E5%B7%9D%E5%B8%82%E5%A7%94%E5%89%AF%E4%B9%A6%E8%AE%B0%E8%87%B4%E6%AD%89%23&t=31&band_rank=8&Refer=top)<br />
+7. [银川市委副书记致歉](https://s.weibo.com/weibo?q=%23%E9%93%B6%E5%B7%9D%E5%B8%82%E5%A7%94%E5%89%AF%E4%B9%A6%E8%AE%B0%E8%87%B4%E6%AD%89%23&t=31&band_rank=7&Refer=top)<br />
+8. [怀孕33周孕妇被2岁儿子开枪打死](https://s.weibo.com/weibo?q=%23%E6%80%80%E5%AD%9533%E5%91%A8%E5%AD%95%E5%A6%87%E8%A2%AB2%E5%B2%81%E5%84%BF%E5%AD%90%E5%BC%80%E6%9E%AA%E6%89%93%E6%AD%BB%23&t=31&band_rank=8&Refer=top)<br />
 9. [伊能静晒儿子女儿合照](https://s.weibo.com/weibo?q=%23%E4%BC%8A%E8%83%BD%E9%9D%99%E6%99%92%E5%84%BF%E5%AD%90%E5%A5%B3%E5%84%BF%E5%90%88%E7%85%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -20,9 +20,9 @@
 4. [村超还能存在多久，是否打了足联与各大俱乐部的脸？](https://www.zhihu.com/question/606520764)<br />
 5. [人类学、社会学和历史学，是不是毕业即失业？怎么衡量自己适不适合？](https://www.zhihu.com/theater/113436)<br />
 6. [宁夏银川发生燃气爆炸事故造成 38 人伤亡，其中 31 人死亡，7 人仍在救治中，具体情况如何？](https://www.zhihu.com/question/607961203)<br />
-7. [6 月 22 日华北多地高温，北京冲上 40℃，系 9 年来首次，背后原因有哪些？该如何做好防暑工作？](https://www.zhihu.com/question/607989824)<br />
-8. [全国结婚登记量跌破 700 万对，创 37 年来新低，年轻人「爱」不起了吗？](https://www.zhihu.com/question/607996046)<br />
-9. [现在还有没感染新冠的吗？你们怎么做到的？](https://www.zhihu.com/question/576527176)<br />
+7. [全国结婚登记量跌破 700 万对，创 37 年来新低，年轻人「爱」不起了吗？](https://www.zhihu.com/question/607996046)<br />
+8. [现在还有没感染新冠的吗？你们怎么做到的？](https://www.zhihu.com/question/576527176)<br />
+9. [6 月 22 日华北多地高温，北京冲上 40℃，系 9 年来首次，背后原因有哪些？该如何做好防暑工作？](https://www.zhihu.com/question/607989824)<br />
 
 > 百度  
 
