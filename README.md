@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 19:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 19:23:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [西湖边卖花姑娘回应意外走红](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E6%B9%96%E8%BE%B9%E5%8D%96%E8%8A%B1%E5%A7%91%E5%A8%98%E5%9B%9E%E5%BA%94%E6%84%8F%E5%A4%96%E8%B5%B0%E7%BA%A2%23&t=31&band_rank=5&Refer=top)<br />
 6. [消失的她票房](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%88%BF&t=31&band_rank=6&Refer=top)<br />
 7. [180斤男生摔伤腿体育老师背其去中考](https://s.weibo.com/weibo?q=%23180%E6%96%A4%E7%94%B7%E7%94%9F%E6%91%94%E4%BC%A4%E8%85%BF%E4%BD%93%E8%82%B2%E8%80%81%E5%B8%88%E8%83%8C%E5%85%B6%E5%8E%BB%E4%B8%AD%E8%80%83%23&t=31&band_rank=7&Refer=top)<br />
-8. [银川预计今晚8点召开爆炸事故新闻发布会](https://s.weibo.com/weibo?q=%23%E9%93%B6%E5%B7%9D%E9%A2%84%E8%AE%A1%E4%BB%8A%E6%99%9A8%E7%82%B9%E5%8F%AC%E5%BC%80%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=8&Refer=top)<br />
-9. [甜馨10岁身高](https://s.weibo.com/weibo?q=%23%E7%94%9C%E9%A6%A810%E5%B2%81%E8%BA%AB%E9%AB%98%23&t=31&band_rank=9&Refer=top)<br />
+8. [甜馨10岁身高](https://s.weibo.com/weibo?q=%23%E7%94%9C%E9%A6%A810%E5%B2%81%E8%BA%AB%E9%AB%98%23&t=31&band_rank=8&Refer=top)<br />
+9. [银川预计今晚8点召开爆炸事故新闻发布会](https://s.weibo.com/weibo?q=%23%E9%93%B6%E5%B7%9D%E9%A2%84%E8%AE%A1%E4%BB%8A%E6%99%9A8%E7%82%B9%E5%8F%AC%E5%BC%80%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
