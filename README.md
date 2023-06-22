@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 23:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 23:52:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [消失的她票房](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%88%BF&t=31&band_rank=5&Refer=top)<br />
 6. [怀孕33周孕妇被2岁儿子开枪打死](https://s.weibo.com/weibo?q=%23%E6%80%80%E5%AD%9533%E5%91%A8%E5%AD%95%E5%A6%87%E8%A2%AB2%E5%B2%81%E5%84%BF%E5%AD%90%E5%BC%80%E6%9E%AA%E6%89%93%E6%AD%BB%23&t=31&band_rank=6&Refer=top)<br />
 7. [马伯庸 别人发端午安康我回复端午快乐](https://s.weibo.com/weibo?q=%E9%A9%AC%E4%BC%AF%E5%BA%B8%20%E5%88%AB%E4%BA%BA%E5%8F%91%E7%AB%AF%E5%8D%88%E5%AE%89%E5%BA%B7%E6%88%91%E5%9B%9E%E5%A4%8D%E7%AB%AF%E5%8D%88%E5%BF%AB%E4%B9%90&t=31&band_rank=7&Refer=top)<br />
-8. [辅导员弄丢毕业生学位证书](https://s.weibo.com/weibo?q=%23%E8%BE%85%E5%AF%BC%E5%91%98%E5%BC%84%E4%B8%A2%E6%AF%95%E4%B8%9A%E7%94%9F%E5%AD%A6%E4%BD%8D%E8%AF%81%E4%B9%A6%23&t=31&band_rank=8&Refer=top)<br />
-9. [沙溢长风渡下线](https://s.weibo.com/weibo?q=%23%E6%B2%99%E6%BA%A2%E9%95%BF%E9%A3%8E%E6%B8%A1%E4%B8%8B%E7%BA%BF%23&t=31&band_rank=9&Refer=top)<br />
+8. [沙溢长风渡下线](https://s.weibo.com/weibo?q=%23%E6%B2%99%E6%BA%A2%E9%95%BF%E9%A3%8E%E6%B8%A1%E4%B8%8B%E7%BA%BF%23&t=31&band_rank=8&Refer=top)<br />
+9. [辅导员弄丢毕业生学位证书](https://s.weibo.com/weibo?q=%23%E8%BE%85%E5%AF%BC%E5%91%98%E5%BC%84%E4%B8%A2%E6%AF%95%E4%B8%9A%E7%94%9F%E5%AD%A6%E4%BD%8D%E8%AF%81%E4%B9%A6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [宁夏银川发生燃气爆炸事故造成 38 人伤亡，其中 31 人死亡，7 人仍在救治中，具体情况如何？](https://www.zhihu.com/question/607961203)<br />
 7. []()<br />
 8. [如何评价《英雄联盟》新英雄「百裂冥犬」纳亚菲利？](https://www.zhihu.com/question/607827052)<br />
-9. [电影《闪电侠》的时间逻辑是什么样的？](https://www.zhihu.com/question/607279544)<br />
+9. [全国结婚登记量跌破 700 万对，创 37 年来新低，年轻人「爱」不起了吗？](https://www.zhihu.com/question/607996046)<br />
 
 > 百度  
 
