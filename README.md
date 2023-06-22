@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 16:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 16:46:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [奔跑吧全员素颜](https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%E5%85%A8%E5%91%98%E7%B4%A0%E9%A2%9C%23&t=31&band_rank=5&Refer=top)<br />
 6. [河北科技大学通报学生跳楼身亡](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8C%97%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E9%80%9A%E6%8A%A5%E5%AD%A6%E7%94%9F%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [消失的她票房](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%88%BF&t=31&band_rank=7&Refer=top)<br />
-8. [迪丽热巴的项链好特别](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9A%84%E9%A1%B9%E9%93%BE%E5%A5%BD%E7%89%B9%E5%88%AB%23&t=31&band_rank=8&Refer=top)<br />
-9. [王皓](https://s.weibo.com/weibo?q=%E7%8E%8B%E7%9A%93&t=31&band_rank=9&Refer=top)<br />
+8. [王皓](https://s.weibo.com/weibo?q=%E7%8E%8B%E7%9A%93&t=31&band_rank=8&Refer=top)<br />
+9. [迪丽热巴的项链好特别](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9A%84%E9%A1%B9%E9%93%BE%E5%A5%BD%E7%89%B9%E5%88%AB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -21,8 +21,8 @@
 5. [NBA 三方交易接近达成，波尔津吉斯去绿军，斯玛特加盟灰熊，奇才得泰厄斯琼斯，如何评价这项交易？](https://www.zhihu.com/question/607968898)<br />
 6. [宁夏银川发生燃气爆炸事故造成 38 人伤亡，其中 31 人死亡，7 人仍在救治中，具体情况如何？](https://www.zhihu.com/question/607961203)<br />
 7. [纽卡斯尔接近签下 AC 米兰中场核心托纳利，转会费预计 7000 万欧，如何评价这笔转会交易？](https://www.zhihu.com/question/607968593)<br />
-8. [旅途中，有哪些遗憾让你至今难以释怀？](https://www.zhihu.com/question/21038225)<br />
-9. [大家都有什么好看的书可以推荐?](https://www.zhihu.com/question/603748072)<br />
+8. []()<br />
+9. [旅途中，有哪些遗憾让你至今难以释怀？](https://www.zhihu.com/question/21038225)<br />
 
 > 百度  
 
