@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 06:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 06:14:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [高温下北京白天现星星](https://www.baidu.com/s?wd=%E9%AB%98%E6%B8%A9%E4%B8%8B%E5%8C%97%E4%BA%AC%E7%99%BD%E5%A4%A9%E7%8E%B0%E6%98%9F%E6%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [端午节成都惊现不明飞行物](https://www.baidu.com/s?wd=%E7%AB%AF%E5%8D%88%E8%8A%82%E6%88%90%E9%83%BD%E6%83%8A%E7%8E%B0%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [拉夏贝尔正式破产清算](https://www.baidu.com/s?wd=%E6%8B%89%E5%A4%8F%E8%B4%9D%E5%B0%94%E6%AD%A3%E5%BC%8F%E7%A0%B4%E4%BA%A7%E6%B8%85%E7%AE%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [长风渡14集杀疯了](https://www.baidu.com/s?wd=%E9%95%BF%E9%A3%8E%E6%B8%A114%E9%9B%86%E6%9D%80%E7%96%AF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [端午档新片票房破2亿](https://www.baidu.com/s?wd=%E7%AB%AF%E5%8D%88%E6%A1%A3%E6%96%B0%E7%89%87%E7%A5%A8%E6%88%BF%E7%A0%B42%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [高温下北京白天现星星](https://www.baidu.com/s?wd=%E9%AB%98%E6%B8%A9%E4%B8%8B%E5%8C%97%E4%BA%AC%E7%99%BD%E5%A4%A9%E7%8E%B0%E6%98%9F%E6%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [端午节成都惊现不明飞行物](https://www.baidu.com/s?wd=%E7%AB%AF%E5%8D%88%E8%8A%82%E6%88%90%E9%83%BD%E6%83%8A%E7%8E%B0%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [拉夏贝尔正式破产清算](https://www.baidu.com/s?wd=%E6%8B%89%E5%A4%8F%E8%B4%9D%E5%B0%94%E6%AD%A3%E5%BC%8F%E7%A0%B4%E4%BA%A7%E6%B8%85%E7%AE%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [长风渡14集杀疯了](https://www.baidu.com/s?wd=%E9%95%BF%E9%A3%8E%E6%B8%A114%E9%9B%86%E6%9D%80%E7%96%AF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [端午档新片票房破2亿](https://www.baidu.com/s?wd=%E7%AB%AF%E5%8D%88%E6%A1%A3%E6%96%B0%E7%89%87%E7%A5%A8%E6%88%BF%E7%A0%B42%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
