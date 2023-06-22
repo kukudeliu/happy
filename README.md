@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 22:07:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 22:08:01</h4></div>
 
 > 微博  
 
 1. [马伯庸 别人发端午安康我回复端午快乐](https://s.weibo.com/weibo?q=%E9%A9%AC%E4%BC%AF%E5%BA%B8%20%E5%88%AB%E4%BA%BA%E5%8F%91%E7%AB%AF%E5%8D%88%E5%AE%89%E5%BA%B7%E6%88%91%E5%9B%9E%E5%A4%8D%E7%AB%AF%E5%8D%88%E5%BF%AB%E4%B9%90&t=31&band_rank=1&Refer=top)<br />
-2. [沙溢长风渡下线](https://s.weibo.com/weibo?q=%23%E6%B2%99%E6%BA%A2%E9%95%BF%E9%A3%8E%E6%B8%A1%E4%B8%8B%E7%BA%BF%23&t=31&band_rank=2&Refer=top)<br />
+2. [辅导员弄丢毕业生学位证书](https://s.weibo.com/weibo?q=%23%E8%BE%85%E5%AF%BC%E5%91%98%E5%BC%84%E4%B8%A2%E6%AF%95%E4%B8%9A%E7%94%9F%E5%AD%A6%E4%BD%8D%E8%AF%81%E4%B9%A6%23&t=31&band_rank=2&Refer=top)<br />
 3. [端午节习俗图鉴](https://s.weibo.com/weibo?q=%23%E7%AB%AF%E5%8D%88%E8%8A%82%E4%B9%A0%E4%BF%97%E5%9B%BE%E9%89%B4%23&t=31&band_rank=3&Refer=top)<br />
-4. [长风渡14集杀疯了](https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%A3%8E%E6%B8%A114%E9%9B%86%E6%9D%80%E7%96%AF%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
+4. [沙溢长风渡下线](https://s.weibo.com/weibo?q=%23%E6%B2%99%E6%BA%A2%E9%95%BF%E9%A3%8E%E6%B8%A1%E4%B8%8B%E7%BA%BF%23&t=31&band_rank=4&Refer=top)<br />
 5. [消失的她票房](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%88%BF&t=31&band_rank=5&Refer=top)<br />
-6. [怀孕33周孕妇被2岁儿子开枪打死](https://s.weibo.com/weibo?q=%23%E6%80%80%E5%AD%9533%E5%91%A8%E5%AD%95%E5%A6%87%E8%A2%AB2%E5%B2%81%E5%84%BF%E5%AD%90%E5%BC%80%E6%9E%AA%E6%89%93%E6%AD%BB%23&t=31&band_rank=6&Refer=top)<br />
-7. [宁夏银川烧烤店爆炸事故新闻发布会](https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%A4%8F%E9%93%B6%E5%B7%9D%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=7&Refer=top)<br />
-8. [顾然是知否里的小顾廷烨](https://s.weibo.com/weibo?q=%23%E9%A1%BE%E7%84%B6%E6%98%AF%E7%9F%A5%E5%90%A6%E9%87%8C%E7%9A%84%E5%B0%8F%E9%A1%BE%E5%BB%B7%E7%83%A8%23&t=31&band_rank=8&Refer=top)<br />
-9. [伊能静晒儿子女儿合照](https://s.weibo.com/weibo?q=%23%E4%BC%8A%E8%83%BD%E9%9D%99%E6%99%92%E5%84%BF%E5%AD%90%E5%A5%B3%E5%84%BF%E5%90%88%E7%85%A7%23&t=31&band_rank=9&Refer=top)<br />
+6. [长风渡14集杀疯了](https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%A3%8E%E6%B8%A114%E9%9B%86%E6%9D%80%E7%96%AF%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
+7. [怀孕33周孕妇被2岁儿子开枪打死](https://s.weibo.com/weibo?q=%23%E6%80%80%E5%AD%9533%E5%91%A8%E5%AD%95%E5%A6%87%E8%A2%AB2%E5%B2%81%E5%84%BF%E5%AD%90%E5%BC%80%E6%9E%AA%E6%89%93%E6%AD%BB%23&t=31&band_rank=7&Refer=top)<br />
+8. [宁夏银川烧烤店爆炸事故新闻发布会](https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%A4%8F%E9%93%B6%E5%B7%9D%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=8&Refer=top)<br />
+9. [顾然是知否里的小顾廷烨](https://s.weibo.com/weibo?q=%23%E9%A1%BE%E7%84%B6%E6%98%AF%E7%9F%A5%E5%90%A6%E9%87%8C%E7%9A%84%E5%B0%8F%E9%A1%BE%E5%BB%B7%E7%83%A8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -27,10 +27,10 @@
 > 百度  
 
 1. [习近平对宁夏爆炸事故作重要指示](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AF%B9%E5%AE%81%E5%A4%8F%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E4%BD%9C%E9%87%8D%E8%A6%81%E6%8C%87%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [银川市长就31死爆炸事故道歉](https://www.baidu.com/s?wd=%E9%93%B6%E5%B7%9D%E5%B8%82%E9%95%BF%E5%B0%B131%E6%AD%BB%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [专家称“泰坦号”潜艇或已断电进水](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E2%80%9C%E6%B3%B0%E5%9D%A6%E5%8F%B7%E2%80%9D%E6%BD%9C%E8%89%87%E6%88%96%E5%B7%B2%E6%96%AD%E7%94%B5%E8%BF%9B%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [银川事故发布会现场全体默哀](https://www.baidu.com/s?wd=%E9%93%B6%E5%B7%9D%E4%BA%8B%E6%95%85%E5%8F%91%E5%B8%83%E4%BC%9A%E7%8E%B0%E5%9C%BA%E5%85%A8%E4%BD%93%E9%BB%98%E5%93%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [文博日历丨古人怎么过端午](https://www.baidu.com/s?wd=%E6%96%87%E5%8D%9A%E6%97%A5%E5%8E%86%E4%B8%A8%E5%8F%A4%E4%BA%BA%E6%80%8E%E4%B9%88%E8%BF%87%E7%AB%AF%E5%8D%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [专家称“泰坦号”潜艇或已断电进水](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E2%80%9C%E6%B3%B0%E5%9D%A6%E5%8F%B7%E2%80%9D%E6%BD%9C%E8%89%87%E6%88%96%E5%B7%B2%E6%96%AD%E7%94%B5%E8%BF%9B%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [长风渡14集杀疯了](https://www.baidu.com/s?wd=%E9%95%BF%E9%A3%8E%E6%B8%A114%E9%9B%86%E6%9D%80%E7%96%AF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子忘关火把粽子煮成黑炭](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%BF%98%E5%85%B3%E7%81%AB%E6%8A%8A%E7%B2%BD%E5%AD%90%E7%85%AE%E6%88%90%E9%BB%91%E7%82%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [《庆余年》导演回应阵容调整](https://www.baidu.com/s?wd=%E3%80%8A%E5%BA%86%E4%BD%99%E5%B9%B4%E3%80%8B%E5%AF%BC%E6%BC%94%E5%9B%9E%E5%BA%94%E9%98%B5%E5%AE%B9%E8%B0%83%E6%95%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [失联泰坦尼克号观光艇氧气耗尽](https://www.baidu.com/s?wd=%E5%A4%B1%E8%81%94%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7%E8%A7%82%E5%85%89%E8%89%87%E6%B0%A7%E6%B0%94%E8%80%97%E5%B0%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -39,10 +39,10 @@
 > 哔哩哔哩  
 
 1. [习近平对宁夏爆炸事故作重要指示](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AF%B9%E5%AE%81%E5%A4%8F%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E4%BD%9C%E9%87%8D%E8%A6%81%E6%8C%87%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [银川市长就31死爆炸事故道歉](https://www.baidu.com/s?wd=%E9%93%B6%E5%B7%9D%E5%B8%82%E9%95%BF%E5%B0%B131%E6%AD%BB%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [专家称“泰坦号”潜艇或已断电进水](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E2%80%9C%E6%B3%B0%E5%9D%A6%E5%8F%B7%E2%80%9D%E6%BD%9C%E8%89%87%E6%88%96%E5%B7%B2%E6%96%AD%E7%94%B5%E8%BF%9B%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [银川事故发布会现场全体默哀](https://www.baidu.com/s?wd=%E9%93%B6%E5%B7%9D%E4%BA%8B%E6%95%85%E5%8F%91%E5%B8%83%E4%BC%9A%E7%8E%B0%E5%9C%BA%E5%85%A8%E4%BD%93%E9%BB%98%E5%93%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [文博日历丨古人怎么过端午](https://www.baidu.com/s?wd=%E6%96%87%E5%8D%9A%E6%97%A5%E5%8E%86%E4%B8%A8%E5%8F%A4%E4%BA%BA%E6%80%8E%E4%B9%88%E8%BF%87%E7%AB%AF%E5%8D%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [专家称“泰坦号”潜艇或已断电进水](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E2%80%9C%E6%B3%B0%E5%9D%A6%E5%8F%B7%E2%80%9D%E6%BD%9C%E8%89%87%E6%88%96%E5%B7%B2%E6%96%AD%E7%94%B5%E8%BF%9B%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [长风渡14集杀疯了](https://www.baidu.com/s?wd=%E9%95%BF%E9%A3%8E%E6%B8%A114%E9%9B%86%E6%9D%80%E7%96%AF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子忘关火把粽子煮成黑炭](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%BF%98%E5%85%B3%E7%81%AB%E6%8A%8A%E7%B2%BD%E5%AD%90%E7%85%AE%E6%88%90%E9%BB%91%E7%82%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [《庆余年》导演回应阵容调整](https://www.baidu.com/s?wd=%E3%80%8A%E5%BA%86%E4%BD%99%E5%B9%B4%E3%80%8B%E5%AF%BC%E6%BC%94%E5%9B%9E%E5%BA%94%E9%98%B5%E5%AE%B9%E8%B0%83%E6%95%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [失联泰坦尼克号观光艇氧气耗尽](https://www.baidu.com/s?wd=%E5%A4%B1%E8%81%94%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7%E8%A7%82%E5%85%89%E8%89%87%E6%B0%A7%E6%B0%94%E8%80%97%E5%B0%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
