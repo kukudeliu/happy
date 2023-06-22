@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 16:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 16:38:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [赵丽颖与素人合影](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E4%B8%8E%E7%B4%A0%E4%BA%BA%E5%90%88%E5%BD%B1%23&t=31&band_rank=4&Refer=top)<br />
 5. [拉夏贝尔正式破产清算](https://s.weibo.com/weibo?q=%23%E6%8B%89%E5%A4%8F%E8%B4%9D%E5%B0%94%E6%AD%A3%E5%BC%8F%E7%A0%B4%E4%BA%A7%E6%B8%85%E7%AE%97%23&t=31&band_rank=5&Refer=top)<br />
 6. [迪丽热巴的项链好特别](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9A%84%E9%A1%B9%E9%93%BE%E5%A5%BD%E7%89%B9%E5%88%AB%23&t=31&band_rank=6&Refer=top)<br />
-7. [手机号实名制已经10年了](https://s.weibo.com/weibo?q=%E6%89%8B%E6%9C%BA%E5%8F%B7%E5%AE%9E%E5%90%8D%E5%88%B6%E5%B7%B2%E7%BB%8F10%E5%B9%B4%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
-8. [福布斯称Jennie有资格获艾美奖](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%B8%83%E6%96%AF%E7%A7%B0Jennie%E6%9C%89%E8%B5%84%E6%A0%BC%E8%8E%B7%E8%89%BE%E7%BE%8E%E5%A5%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [消失的她票房](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%88%BF&t=31&band_rank=9&Refer=top)<br />
+7. [消失的她票房](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%88%BF&t=31&band_rank=7&Refer=top)<br />
+8. [目击者称烧烤店楼梯炸没了难以逃生](https://s.weibo.com/weibo?q=%23%E7%9B%AE%E5%87%BB%E8%80%85%E7%A7%B0%E7%83%A7%E7%83%A4%E5%BA%97%E6%A5%BC%E6%A2%AF%E7%82%B8%E6%B2%A1%E4%BA%86%E9%9A%BE%E4%BB%A5%E9%80%83%E7%94%9F%23&t=31&band_rank=8&Refer=top)<br />
+9. [河北科技大学通报学生跳楼身亡](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8C%97%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E9%80%9A%E6%8A%A5%E5%AD%A6%E7%94%9F%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
