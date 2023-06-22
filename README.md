@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 18:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 18:19:01</h4></div>
 
 > 微博  
 
@@ -21,7 +21,7 @@
 5. [《灌篮高手》全国大赛之后，赤木为什么没能入选体育大学？](https://www.zhihu.com/question/21984804)<br />
 6. [宁夏银川发生燃气爆炸事故造成 38 人伤亡，其中 31 人死亡，7 人仍在救治中，具体情况如何？](https://www.zhihu.com/question/607961203)<br />
 7. [2023 年端午节后 A 股会大涨吗？](https://www.zhihu.com/question/607909550)<br />
-8. []()<br />
+8. [全国结婚登记量跌破 700 万对，创 37 年来新低，年轻人「爱」不起了吗？](https://www.zhihu.com/question/607996046)<br />
 9. [iPhone 电池健康度多少才算正常？80% 和 100% 有什么区别？](https://www.zhihu.com/question/569965047)<br />
 
 > 百度  
@@ -33,8 +33,8 @@
 5. [莫迪送拜登夫人7.5克拉“绿钻”](https://www.baidu.com/s?wd=%E8%8E%AB%E8%BF%AA%E9%80%81%E6%8B%9C%E7%99%BB%E5%A4%AB%E4%BA%BA7.5%E5%85%8B%E6%8B%89%E2%80%9C%E7%BB%BF%E9%92%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [拉夏贝尔正式破产清算](https://www.baidu.com/s?wd=%E6%8B%89%E5%A4%8F%E8%B4%9D%E5%B0%94%E6%AD%A3%E5%BC%8F%E7%A0%B4%E4%BA%A7%E6%B8%85%E7%AE%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [河北科技大学通报一本科生坠亡](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E9%80%9A%E6%8A%A5%E4%B8%80%E6%9C%AC%E7%A7%91%E7%94%9F%E5%9D%A0%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子地铁上数次扇脸女子质问爱谁](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%B0%E9%93%81%E4%B8%8A%E6%95%B0%E6%AC%A1%E6%89%87%E8%84%B8%E5%A5%B3%E5%AD%90%E8%B4%A8%E9%97%AE%E7%88%B1%E8%B0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [19岁藏族小伙救下掉入冰川游客](https://www.baidu.com/s?wd=19%E5%B2%81%E8%97%8F%E6%97%8F%E5%B0%8F%E4%BC%99%E6%95%91%E4%B8%8B%E6%8E%89%E5%85%A5%E5%86%B0%E5%B7%9D%E6%B8%B8%E5%AE%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子连生6女被要求生子想离婚遭驳回](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%BF%9E%E7%94%9F6%E5%A5%B3%E8%A2%AB%E8%A6%81%E6%B1%82%E7%94%9F%E5%AD%90%E6%83%B3%E7%A6%BB%E5%A9%9A%E9%81%AD%E9%A9%B3%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子地铁上数次扇脸女子质问爱谁](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%B0%E9%93%81%E4%B8%8A%E6%95%B0%E6%AC%A1%E6%89%87%E8%84%B8%E5%A5%B3%E5%AD%90%E8%B4%A8%E9%97%AE%E7%88%B1%E8%B0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [莫迪送拜登夫人7.5克拉“绿钻”](https://www.baidu.com/s?wd=%E8%8E%AB%E8%BF%AA%E9%80%81%E6%8B%9C%E7%99%BB%E5%A4%AB%E4%BA%BA7.5%E5%85%8B%E6%8B%89%E2%80%9C%E7%BB%BF%E9%92%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [拉夏贝尔正式破产清算](https://www.baidu.com/s?wd=%E6%8B%89%E5%A4%8F%E8%B4%9D%E5%B0%94%E6%AD%A3%E5%BC%8F%E7%A0%B4%E4%BA%A7%E6%B8%85%E7%AE%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [河北科技大学通报一本科生坠亡](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E9%80%9A%E6%8A%A5%E4%B8%80%E6%9C%AC%E7%A7%91%E7%94%9F%E5%9D%A0%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子地铁上数次扇脸女子质问爱谁](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%B0%E9%93%81%E4%B8%8A%E6%95%B0%E6%AC%A1%E6%89%87%E8%84%B8%E5%A5%B3%E5%AD%90%E8%B4%A8%E9%97%AE%E7%88%B1%E8%B0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [19岁藏族小伙救下掉入冰川游客](https://www.baidu.com/s?wd=19%E5%B2%81%E8%97%8F%E6%97%8F%E5%B0%8F%E4%BC%99%E6%95%91%E4%B8%8B%E6%8E%89%E5%85%A5%E5%86%B0%E5%B7%9D%E6%B8%B8%E5%AE%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子连生6女被要求生子想离婚遭驳回](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%BF%9E%E7%94%9F6%E5%A5%B3%E8%A2%AB%E8%A6%81%E6%B1%82%E7%94%9F%E5%AD%90%E6%83%B3%E7%A6%BB%E5%A9%9A%E9%81%AD%E9%A9%B3%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子地铁上数次扇脸女子质问爱谁](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%B0%E9%93%81%E4%B8%8A%E6%95%B0%E6%AC%A1%E6%89%87%E8%84%B8%E5%A5%B3%E5%AD%90%E8%B4%A8%E9%97%AE%E7%88%B1%E8%B0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
