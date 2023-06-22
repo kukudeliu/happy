@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 18:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 18:58:02</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [藏在古画里的端午仪式感](https://s.weibo.com/weibo?q=%23%E8%97%8F%E5%9C%A8%E5%8F%A4%E7%94%BB%E9%87%8C%E7%9A%84%E7%AB%AF%E5%8D%88%E4%BB%AA%E5%BC%8F%E6%84%9F%23&t=31&band_rank=3&Refer=top)<br />
 4. [怀孕33周孕妇被2岁儿子开枪打死](https://s.weibo.com/weibo?q=%23%E6%80%80%E5%AD%9533%E5%91%A8%E5%AD%95%E5%A6%87%E8%A2%AB2%E5%B2%81%E5%84%BF%E5%AD%90%E5%BC%80%E6%9E%AA%E6%89%93%E6%AD%BB%23&t=31&band_rank=4&Refer=top)<br />
 5. [180斤男生摔伤腿体育老师背其去中考](https://s.weibo.com/weibo?q=%23180%E6%96%A4%E7%94%B7%E7%94%9F%E6%91%94%E4%BC%A4%E8%85%BF%E4%BD%93%E8%82%B2%E8%80%81%E5%B8%88%E8%83%8C%E5%85%B6%E5%8E%BB%E4%B8%AD%E8%80%83%23&t=31&band_rank=5&Refer=top)<br />
-6. [王皓](https://s.weibo.com/weibo?q=%E7%8E%8B%E7%9A%93&t=31&band_rank=6&Refer=top)<br />
+6. [家属称剖宫产时孩子大腿被医生掰骨折](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E5%B1%9E%E7%A7%B0%E5%89%96%E5%AE%AB%E4%BA%A7%E6%97%B6%E5%AD%A9%E5%AD%90%E5%A4%A7%E8%85%BF%E8%A2%AB%E5%8C%BB%E7%94%9F%E6%8E%B0%E9%AA%A8%E6%8A%98%23&t=31&band_rank=6&Refer=top)<br />
 7. [杭州老人包200个黄荆粽送亲友](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E8%80%81%E4%BA%BA%E5%8C%85200%E4%B8%AA%E9%BB%84%E8%8D%86%E7%B2%BD%E9%80%81%E4%BA%B2%E5%8F%8B%23&t=31&band_rank=7&Refer=top)<br />
-8. [家属称剖宫产时孩子大腿被医生掰骨折](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E5%B1%9E%E7%A7%B0%E5%89%96%E5%AE%AB%E4%BA%A7%E6%97%B6%E5%AD%A9%E5%AD%90%E5%A4%A7%E8%85%BF%E8%A2%AB%E5%8C%BB%E7%94%9F%E6%8E%B0%E9%AA%A8%E6%8A%98%23&t=31&band_rank=8&Refer=top)<br />
+8. [王皓](https://s.weibo.com/weibo?q=%E7%8E%8B%E7%9A%93&t=31&band_rank=8&Refer=top)<br />
 9. [甜馨10岁身高](https://s.weibo.com/weibo?q=%23%E7%94%9C%E9%A6%A810%E5%B2%81%E8%BA%AB%E9%AB%98%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
