@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 16:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 16:23:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [藏在古画里的端午仪式感](https://s.weibo.com/weibo?q=%23%E8%97%8F%E5%9C%A8%E5%8F%A4%E7%94%BB%E9%87%8C%E7%9A%84%E7%AB%AF%E5%8D%88%E4%BB%AA%E5%BC%8F%E6%84%9F%23&t=31&band_rank=3&Refer=top)<br />
 4. [赵丽颖与素人合影](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E4%B8%8E%E7%B4%A0%E4%BA%BA%E5%90%88%E5%BD%B1%23&t=31&band_rank=4&Refer=top)<br />
 5. [知情人称银川烧烤店死者死因多为窒息](https://s.weibo.com/weibo?q=%23%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0%E9%93%B6%E5%B7%9D%E7%83%A7%E7%83%A4%E5%BA%97%E6%AD%BB%E8%80%85%E6%AD%BB%E5%9B%A0%E5%A4%9A%E4%B8%BA%E7%AA%92%E6%81%AF%23&t=31&band_rank=5&Refer=top)<br />
-6. [迪丽热巴的项链好特别](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9A%84%E9%A1%B9%E9%93%BE%E5%A5%BD%E7%89%B9%E5%88%AB%23&t=31&band_rank=6&Refer=top)<br />
-7. [手机号实名制已经10年了](https://s.weibo.com/weibo?q=%E6%89%8B%E6%9C%BA%E5%8F%B7%E5%AE%9E%E5%90%8D%E5%88%B6%E5%B7%B2%E7%BB%8F10%E5%B9%B4%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
-8. [拉夏贝尔正式破产清算](https://s.weibo.com/weibo?q=%23%E6%8B%89%E5%A4%8F%E8%B4%9D%E5%B0%94%E6%AD%A3%E5%BC%8F%E7%A0%B4%E4%BA%A7%E6%B8%85%E7%AE%97%23&t=31&band_rank=8&Refer=top)<br />
+6. [拉夏贝尔正式破产清算](https://s.weibo.com/weibo?q=%23%E6%8B%89%E5%A4%8F%E8%B4%9D%E5%B0%94%E6%AD%A3%E5%BC%8F%E7%A0%B4%E4%BA%A7%E6%B8%85%E7%AE%97%23&t=31&band_rank=6&Refer=top)<br />
+7. [迪丽热巴的项链好特别](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9A%84%E9%A1%B9%E9%93%BE%E5%A5%BD%E7%89%B9%E5%88%AB%23&t=31&band_rank=7&Refer=top)<br />
+8. [手机号实名制已经10年了](https://s.weibo.com/weibo?q=%E6%89%8B%E6%9C%BA%E5%8F%B7%E5%AE%9E%E5%90%8D%E5%88%B6%E5%B7%B2%E7%BB%8F10%E5%B9%B4%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
 9. [无穷小亮 有个事挺瘆得慌](https://s.weibo.com/weibo?q=%E6%97%A0%E7%A9%B7%E5%B0%8F%E4%BA%AE%20%E6%9C%89%E4%B8%AA%E4%BA%8B%E6%8C%BA%E7%98%86%E5%BE%97%E6%85%8C&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
