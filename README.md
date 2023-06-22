@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 14:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 14:31:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [迪丽热巴的项链好特别](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9A%84%E9%A1%B9%E9%93%BE%E5%A5%BD%E7%89%B9%E5%88%AB%23&t=31&band_rank=4&Refer=top)<br />
 5. [宋妍霏腰臀比](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E5%A6%8D%E9%9C%8F%E8%85%B0%E8%87%80%E6%AF%94%23&t=31&band_rank=5&Refer=top)<br />
 6. [马伯骞你是真的火了](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%BC%AF%E9%AA%9E%E4%BD%A0%E6%98%AF%E7%9C%9F%E7%9A%84%E7%81%AB%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [银川烧烤店爆炸事故31人经抢救无效死亡](https://s.weibo.com/weibo?q=%23%E9%93%B6%E5%B7%9D%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%8531%E4%BA%BA%E7%BB%8F%E6%8A%A2%E6%95%91%E6%97%A0%E6%95%88%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=7&Refer=top)<br />
-8. [张艺兴送粽子到蘑菇屋](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E9%80%81%E7%B2%BD%E5%AD%90%E5%88%B0%E8%98%91%E8%8F%87%E5%B1%8B%23&t=31&band_rank=8&Refer=top)<br />
+7. [张艺兴送粽子到蘑菇屋](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E9%80%81%E7%B2%BD%E5%AD%90%E5%88%B0%E8%98%91%E8%8F%87%E5%B1%8B%23&t=31&band_rank=7&Refer=top)<br />
+8. [银川烧烤店爆炸事故31人经抢救无效死亡](https://s.weibo.com/weibo?q=%23%E9%93%B6%E5%B7%9D%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%8531%E4%BA%BA%E7%BB%8F%E6%8A%A2%E6%95%91%E6%97%A0%E6%95%88%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
 9. [顾九思柳玉茹喂血吻](https://s.weibo.com/weibo?q=%23%E9%A1%BE%E4%B9%9D%E6%80%9D%E6%9F%B3%E7%8E%89%E8%8C%B9%E5%96%82%E8%A1%80%E5%90%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
