@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 11:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 11:11:01</h4></div>
 
 > 微博  
 
@@ -8,15 +8,15 @@
 4. [5岁时的韩安冉](https://s.weibo.com/weibo?q=%235%E5%B2%81%E6%97%B6%E7%9A%84%E9%9F%A9%E5%AE%89%E5%86%89%23&t=31&band_rank=4&Refer=top)<br />
 5. [千万别在下午和晚上买机票](https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E5%88%AB%E5%9C%A8%E4%B8%8B%E5%8D%88%E5%92%8C%E6%99%9A%E4%B8%8A%E4%B9%B0%E6%9C%BA%E7%A5%A8%23&t=31&band_rank=5&Refer=top)<br />
 6. [广东人为什么普遍都很瘦](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E6%99%AE%E9%81%8D%E9%83%BD%E5%BE%88%E7%98%A6%23&t=31&band_rank=6&Refer=top)<br />
-7. [为什么大家都不再发朋友圈了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%A7%E5%AE%B6%E9%83%BD%E4%B8%8D%E5%86%8D%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [十个勤天](https://s.weibo.com/weibo?q=%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9&t=31&band_rank=8&Refer=top)<br />
+7. [十个勤天](https://s.weibo.com/weibo?q=%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9&t=31&band_rank=7&Refer=top)<br />
+8. [为什么大家都不再发朋友圈了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%A7%E5%AE%B6%E9%83%BD%E4%B8%8D%E5%86%8D%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [张艺兴点赞了EXO回归预告](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E7%82%B9%E8%B5%9E%E4%BA%86EXO%E5%9B%9E%E5%BD%92%E9%A2%84%E5%91%8A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [空军航空兵某团飞行二大队获「时代楷模」称号，褒扬他们是「奋飞新时代的空中铁拳」，他们值得学习的点在哪？](https://www.zhihu.com/question/607609756)<br />
-2. [轰 6K 海上飞行时驱离外方船只，有哪些信息值得关注？](https://www.zhihu.com/question/607773769)<br />
-3. [硅谷银行亚洲客户遭「双向挤压」，存款被没收，贷款必须还，如何看待此事？](https://www.zhihu.com/question/607811714)<br />
+2. [硅谷银行亚洲客户遭「双向挤压」，存款被没收，贷款必须还，如何看待此事？](https://www.zhihu.com/question/607811714)<br />
+3. [轰 6K 海上飞行时驱离外方船只，有哪些信息值得关注？](https://www.zhihu.com/question/607773769)<br />
 4. [宁夏银川发生燃气爆炸事故造成 38 人伤亡，其中 31 人死亡，7 人仍在救治中，具体情况如何？](https://www.zhihu.com/question/607961203)<br />
 5. [研究发现燃气灶增加患白血病风险，苯浓度超二手烟，这一发现具有哪些意义？生活中使用燃气灶如何降低伤害？](https://www.zhihu.com/question/607771756)<br />
 6. [两名中国公民在美被定罪，外交部称「敦促美方立即纠正错误」，有哪些信息值得关注？](https://www.zhihu.com/question/607819218)<br />
@@ -31,8 +31,8 @@
 3. [健美比赛女模特扔高跟鞋砸评委](https://www.baidu.com/s?wd=%E5%81%A5%E7%BE%8E%E6%AF%94%E8%B5%9B%E5%A5%B3%E6%A8%A1%E7%89%B9%E6%89%94%E9%AB%98%E8%B7%9F%E9%9E%8B%E7%A0%B8%E8%AF%84%E5%A7%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [牢牢守住生态保护红线](https://www.baidu.com/s?wd=%E7%89%A2%E7%89%A2%E5%AE%88%E4%BD%8F%E7%94%9F%E6%80%81%E4%BF%9D%E6%8A%A4%E7%BA%A2%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [粽子界“显眼包”](https://www.baidu.com/s?wd=%E7%B2%BD%E5%AD%90%E7%95%8C%E2%80%9C%E6%98%BE%E7%9C%BC%E5%8C%85%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [宁夏烧烤店爆炸致31死](https://www.baidu.com/s?wd=%E5%AE%81%E5%A4%8F%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E8%87%B431%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [古巨基采访王菲被鸟屎砸到头](https://www.baidu.com/s?wd=%E5%8F%A4%E5%B7%A8%E5%9F%BA%E9%87%87%E8%AE%BF%E7%8E%8B%E8%8F%B2%E8%A2%AB%E9%B8%9F%E5%B1%8E%E7%A0%B8%E5%88%B0%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [古巨基采访王菲被鸟屎砸到头](https://www.baidu.com/s?wd=%E5%8F%A4%E5%B7%A8%E5%9F%BA%E9%87%87%E8%AE%BF%E7%8E%8B%E8%8F%B2%E8%A2%AB%E9%B8%9F%E5%B1%8E%E7%A0%B8%E5%88%B0%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [宁夏烧烤店爆炸致31死](https://www.baidu.com/s?wd=%E5%AE%81%E5%A4%8F%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E8%87%B431%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [北京大爷不想让孩子要孩子](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%A4%A7%E7%88%B7%E4%B8%8D%E6%83%B3%E8%AE%A9%E5%AD%A9%E5%AD%90%E8%A6%81%E5%AD%A9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [妈妈带高考结束女儿整容](https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E5%B8%A6%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E5%A5%B3%E5%84%BF%E6%95%B4%E5%AE%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -43,7 +43,7 @@
 3. [健美比赛女模特扔高跟鞋砸评委](https://www.baidu.com/s?wd=%E5%81%A5%E7%BE%8E%E6%AF%94%E8%B5%9B%E5%A5%B3%E6%A8%A1%E7%89%B9%E6%89%94%E9%AB%98%E8%B7%9F%E9%9E%8B%E7%A0%B8%E8%AF%84%E5%A7%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [牢牢守住生态保护红线](https://www.baidu.com/s?wd=%E7%89%A2%E7%89%A2%E5%AE%88%E4%BD%8F%E7%94%9F%E6%80%81%E4%BF%9D%E6%8A%A4%E7%BA%A2%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [粽子界“显眼包”](https://www.baidu.com/s?wd=%E7%B2%BD%E5%AD%90%E7%95%8C%E2%80%9C%E6%98%BE%E7%9C%BC%E5%8C%85%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [宁夏烧烤店爆炸致31死](https://www.baidu.com/s?wd=%E5%AE%81%E5%A4%8F%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E8%87%B431%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [古巨基采访王菲被鸟屎砸到头](https://www.baidu.com/s?wd=%E5%8F%A4%E5%B7%A8%E5%9F%BA%E9%87%87%E8%AE%BF%E7%8E%8B%E8%8F%B2%E8%A2%AB%E9%B8%9F%E5%B1%8E%E7%A0%B8%E5%88%B0%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [古巨基采访王菲被鸟屎砸到头](https://www.baidu.com/s?wd=%E5%8F%A4%E5%B7%A8%E5%9F%BA%E9%87%87%E8%AE%BF%E7%8E%8B%E8%8F%B2%E8%A2%AB%E9%B8%9F%E5%B1%8E%E7%A0%B8%E5%88%B0%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [宁夏烧烤店爆炸致31死](https://www.baidu.com/s?wd=%E5%AE%81%E5%A4%8F%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E8%87%B431%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [北京大爷不想让孩子要孩子](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%A4%A7%E7%88%B7%E4%B8%8D%E6%83%B3%E8%AE%A9%E5%AD%A9%E5%AD%90%E8%A6%81%E5%AD%A9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [妈妈带高考结束女儿整容](https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E5%B8%A6%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E5%A5%B3%E5%84%BF%E6%95%B4%E5%AE%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
