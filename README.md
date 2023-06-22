@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 10:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 10:51:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [5岁时的韩安冉](https://s.weibo.com/weibo?q=%235%E5%B2%81%E6%97%B6%E7%9A%84%E9%9F%A9%E5%AE%89%E5%86%89%23&t=31&band_rank=4&Refer=top)<br />
 5. [千万别在下午和晚上买机票](https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E5%88%AB%E5%9C%A8%E4%B8%8B%E5%8D%88%E5%92%8C%E6%99%9A%E4%B8%8A%E4%B9%B0%E6%9C%BA%E7%A5%A8%23&t=31&band_rank=5&Refer=top)<br />
 6. [广东人为什么普遍都很瘦](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E6%99%AE%E9%81%8D%E9%83%BD%E5%BE%88%E7%98%A6%23&t=31&band_rank=6&Refer=top)<br />
-7. [Angelababy七年前vs七年后](https://s.weibo.com/weibo?q=%23Angelababy%E4%B8%83%E5%B9%B4%E5%89%8Dvs%E4%B8%83%E5%B9%B4%E5%90%8E%23&t=31&band_rank=7&Refer=top)<br />
-8. [张艺兴点赞了EXO回归预告](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E7%82%B9%E8%B5%9E%E4%BA%86EXO%E5%9B%9E%E5%BD%92%E9%A2%84%E5%91%8A%23&t=31&band_rank=8&Refer=top)<br />
+7. [张艺兴点赞了EXO回归预告](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E7%82%B9%E8%B5%9E%E4%BA%86EXO%E5%9B%9E%E5%BD%92%E9%A2%84%E5%91%8A%23&t=31&band_rank=7&Refer=top)<br />
+8. [Angelababy七年前vs七年后](https://s.weibo.com/weibo?q=%23Angelababy%E4%B8%83%E5%B9%B4%E5%89%8Dvs%E4%B8%83%E5%B9%B4%E5%90%8E%23&t=31&band_rank=8&Refer=top)<br />
 9. [十个勤天](https://s.weibo.com/weibo?q=%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -22,7 +22,7 @@
 6. [布林肯结束访华，外交部美大司司长十答中美问题，更多细节披露，哪些信息值得关注？](https://www.zhihu.com/question/607816687)<br />
 7. [两名中国公民在美被定罪，外交部称「敦促美方立即纠正错误」，有哪些信息值得关注？](https://www.zhihu.com/question/607819218)<br />
 8. [自曝「在马尔代夫遭性侵」中国女生称「已致函马尔代夫总统求助」，此前称当地警方不作为，如何看待事件发展？](https://www.zhihu.com/question/607809339)<br />
-9. [如何评价周润发主演的电影《别叫我「赌神」》？](https://www.zhihu.com/question/607437807)<br />
+9. [女孩考出青海农村发现母亲婚姻中「父亲缺位」以及「家族重男轻女」的悲剧，如何看待这类婚姻？](https://www.zhihu.com/question/607784642)<br />
 
 > 百度  
 
