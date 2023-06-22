@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 11:33:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 11:34:01</h4></div>
 
 > 微博  
 
@@ -17,8 +17,8 @@
 1. [空军航空兵某团飞行二大队获「时代楷模」称号，褒扬他们是「奋飞新时代的空中铁拳」，他们值得学习的点在哪？](https://www.zhihu.com/question/607609756)<br />
 2. [宁夏银川发生燃气爆炸事故造成 38 人伤亡，其中 31 人死亡，7 人仍在救治中，具体情况如何？](https://www.zhihu.com/question/607961203)<br />
 3. [硅谷银行亚洲客户遭「双向挤压」，存款被没收，贷款必须还，如何看待此事？](https://www.zhihu.com/question/607811714)<br />
-4. [轰 6K 海上飞行时驱离外方船只，有哪些信息值得关注？](https://www.zhihu.com/question/607773769)<br />
-5. [两名中国公民在美被定罪，外交部称「敦促美方立即纠正错误」，有哪些信息值得关注？](https://www.zhihu.com/question/607819218)<br />
+4. [两名中国公民在美被定罪，外交部称「敦促美方立即纠正错误」，有哪些信息值得关注？](https://www.zhihu.com/question/607819218)<br />
+5. [轰 6K 海上飞行时驱离外方船只，有哪些信息值得关注？](https://www.zhihu.com/question/607773769)<br />
 6. [研究发现燃气灶增加患白血病风险，苯浓度超二手烟，这一发现具有哪些意义？生活中使用燃气灶如何降低伤害？](https://www.zhihu.com/question/607771756)<br />
 7. [布林肯结束访华，外交部美大司司长十答中美问题，更多细节披露，哪些信息值得关注？](https://www.zhihu.com/question/607816687)<br />
 8. [自曝「在马尔代夫遭性侵」中国女生称「已致函马尔代夫总统求助」，此前称当地警方不作为，如何看待事件发展？](https://www.zhihu.com/question/607809339)<br />
@@ -33,8 +33,8 @@
 5. [烧烤店爆炸报警人：更换阀门时爆炸](https://www.baidu.com/s?wd=%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E6%8A%A5%E8%AD%A6%E4%BA%BA%EF%BC%9A%E6%9B%B4%E6%8D%A2%E9%98%80%E9%97%A8%E6%97%B6%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [妈妈带高考结束女儿整容](https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E5%B8%A6%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E5%A5%B3%E5%84%BF%E6%95%B4%E5%AE%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [宁夏烧烤店爆炸致31死](https://www.baidu.com/s?wd=%E5%AE%81%E5%A4%8F%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E8%87%B431%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [古巨基采访王菲被鸟屎砸到头](https://www.baidu.com/s?wd=%E5%8F%A4%E5%B7%A8%E5%9F%BA%E9%87%87%E8%AE%BF%E7%8E%8B%E8%8F%B2%E8%A2%AB%E9%B8%9F%E5%B1%8E%E7%A0%B8%E5%88%B0%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [健美比赛女模特扔高跟鞋砸评委](https://www.baidu.com/s?wd=%E5%81%A5%E7%BE%8E%E6%AF%94%E8%B5%9B%E5%A5%B3%E6%A8%A1%E7%89%B9%E6%89%94%E9%AB%98%E8%B7%9F%E9%9E%8B%E7%A0%B8%E8%AF%84%E5%A7%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [烧烤店爆炸正值用餐高峰 二楼有KTV](https://www.baidu.com/s?wd=%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E6%AD%A3%E5%80%BC%E7%94%A8%E9%A4%90%E9%AB%98%E5%B3%B0+%E4%BA%8C%E6%A5%BC%E6%9C%89KTV&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [古巨基采访王菲被鸟屎砸到头](https://www.baidu.com/s?wd=%E5%8F%A4%E5%B7%A8%E5%9F%BA%E9%87%87%E8%AE%BF%E7%8E%8B%E8%8F%B2%E8%A2%AB%E9%B8%9F%E5%B1%8E%E7%A0%B8%E5%88%B0%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [烧烤店爆炸报警人：更换阀门时爆炸](https://www.baidu.com/s?wd=%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E6%8A%A5%E8%AD%A6%E4%BA%BA%EF%BC%9A%E6%9B%B4%E6%8D%A2%E9%98%80%E9%97%A8%E6%97%B6%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [妈妈带高考结束女儿整容](https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E5%B8%A6%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E5%A5%B3%E5%84%BF%E6%95%B4%E5%AE%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [宁夏烧烤店爆炸致31死](https://www.baidu.com/s?wd=%E5%AE%81%E5%A4%8F%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E8%87%B431%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [古巨基采访王菲被鸟屎砸到头](https://www.baidu.com/s?wd=%E5%8F%A4%E5%B7%A8%E5%9F%BA%E9%87%87%E8%AE%BF%E7%8E%8B%E8%8F%B2%E8%A2%AB%E9%B8%9F%E5%B1%8E%E7%A0%B8%E5%88%B0%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [健美比赛女模特扔高跟鞋砸评委](https://www.baidu.com/s?wd=%E5%81%A5%E7%BE%8E%E6%AF%94%E8%B5%9B%E5%A5%B3%E6%A8%A1%E7%89%B9%E6%89%94%E9%AB%98%E8%B7%9F%E9%9E%8B%E7%A0%B8%E8%AF%84%E5%A7%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [烧烤店爆炸正值用餐高峰 二楼有KTV](https://www.baidu.com/s?wd=%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E6%AD%A3%E5%80%BC%E7%94%A8%E9%A4%90%E9%AB%98%E5%B3%B0+%E4%BA%8C%E6%A5%BC%E6%9C%89KTV&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [古巨基采访王菲被鸟屎砸到头](https://www.baidu.com/s?wd=%E5%8F%A4%E5%B7%A8%E5%9F%BA%E9%87%87%E8%AE%BF%E7%8E%8B%E8%8F%B2%E8%A2%AB%E9%B8%9F%E5%B1%8E%E7%A0%B8%E5%88%B0%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
