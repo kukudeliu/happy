@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 00:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 00:49:01</h4></div>
 
 > 微博  
 
@@ -20,8 +20,8 @@
 4. [2023 LPL 夏季赛 Uzi 不敌老东家，RNG 2:0 击败 EDG，如何评价这场比赛？](https://www.zhihu.com/question/608001150)<br />
 5. [美国五角大楼将对乌军援的记账错误金额提高至 62 亿美元，透露了哪些信息？](https://www.zhihu.com/question/607781134)<br />
 6. [如何评价《英雄联盟》新英雄「百裂冥犬」纳亚菲利？](https://www.zhihu.com/question/607827052)<br />
-7. [宁夏银川发生燃气爆炸事故造成 38 人伤亡，其中 31 人死亡，7 人仍在救治中，具体情况如何？](https://www.zhihu.com/question/607961203)<br />
-8. [全国结婚登记量跌破 700 万对，创 37 年来新低，年轻人「爱」不起了吗？](https://www.zhihu.com/question/607996046)<br />
+7. [全国结婚登记量跌破 700 万对，创 37 年来新低，年轻人「爱」不起了吗？](https://www.zhihu.com/question/607996046)<br />
+8. [宁夏银川发生燃气爆炸事故造成 38 人伤亡，其中 31 人死亡，7 人仍在救治中，具体情况如何？](https://www.zhihu.com/question/607961203)<br />
 9. []()<br />
 
 > 百度  
@@ -32,9 +32,9 @@
 4. [文博日历丨古人怎么过端午](https://www.baidu.com/s?wd=%E6%96%87%E5%8D%9A%E6%97%A5%E5%8E%86%E4%B8%A8%E5%8F%A4%E4%BA%BA%E6%80%8E%E4%B9%88%E8%BF%87%E7%AB%AF%E5%8D%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [凤凰古城端午热：众人跳水抓鸭](https://www.baidu.com/s?wd=%E5%87%A4%E5%87%B0%E5%8F%A4%E5%9F%8E%E7%AB%AF%E5%8D%88%E7%83%AD%EF%BC%9A%E4%BC%97%E4%BA%BA%E8%B7%B3%E6%B0%B4%E6%8A%93%E9%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [端午节成都惊现不明飞行物](https://www.baidu.com/s?wd=%E7%AB%AF%E5%8D%88%E8%8A%82%E6%88%90%E9%83%BD%E6%83%8A%E7%8E%B0%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [周星驰新电影招募女演员](https://www.baidu.com/s?wd=%E5%91%A8%E6%98%9F%E9%A9%B0%E6%96%B0%E7%94%B5%E5%BD%B1%E6%8B%9B%E5%8B%9F%E5%A5%B3%E6%BC%94%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [长风渡14集杀疯了](https://www.baidu.com/s?wd=%E9%95%BF%E9%A3%8E%E6%B8%A114%E9%9B%86%E6%9D%80%E7%96%AF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [金融旋转门腐败：离职官员被抢着要](https://www.baidu.com/s?wd=%E9%87%91%E8%9E%8D%E6%97%8B%E8%BD%AC%E9%97%A8%E8%85%90%E8%B4%A5%EF%BC%9A%E7%A6%BB%E8%81%8C%E5%AE%98%E5%91%98%E8%A2%AB%E6%8A%A2%E7%9D%80%E8%A6%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [扎克伯格和马斯克线上约架](https://www.baidu.com/s?wd=%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC%E5%92%8C%E9%A9%AC%E6%96%AF%E5%85%8B%E7%BA%BF%E4%B8%8A%E7%BA%A6%E6%9E%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [张雪峰再谈专业选择](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%86%8D%E8%B0%88%E4%B8%93%E4%B8%9A%E9%80%89%E6%8B%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [周星驰新电影招募女演员](https://www.baidu.com/s?wd=%E5%91%A8%E6%98%9F%E9%A9%B0%E6%96%B0%E7%94%B5%E5%BD%B1%E6%8B%9B%E5%8B%9F%E5%A5%B3%E6%BC%94%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [文博日历丨古人怎么过端午](https://www.baidu.com/s?wd=%E6%96%87%E5%8D%9A%E6%97%A5%E5%8E%86%E4%B8%A8%E5%8F%A4%E4%BA%BA%E6%80%8E%E4%B9%88%E8%BF%87%E7%AB%AF%E5%8D%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [凤凰古城端午热：众人跳水抓鸭](https://www.baidu.com/s?wd=%E5%87%A4%E5%87%B0%E5%8F%A4%E5%9F%8E%E7%AB%AF%E5%8D%88%E7%83%AD%EF%BC%9A%E4%BC%97%E4%BA%BA%E8%B7%B3%E6%B0%B4%E6%8A%93%E9%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [端午节成都惊现不明飞行物](https://www.baidu.com/s?wd=%E7%AB%AF%E5%8D%88%E8%8A%82%E6%88%90%E9%83%BD%E6%83%8A%E7%8E%B0%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [周星驰新电影招募女演员](https://www.baidu.com/s?wd=%E5%91%A8%E6%98%9F%E9%A9%B0%E6%96%B0%E7%94%B5%E5%BD%B1%E6%8B%9B%E5%8B%9F%E5%A5%B3%E6%BC%94%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [长风渡14集杀疯了](https://www.baidu.com/s?wd=%E9%95%BF%E9%A3%8E%E6%B8%A114%E9%9B%86%E6%9D%80%E7%96%AF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [金融旋转门腐败：离职官员被抢着要](https://www.baidu.com/s?wd=%E9%87%91%E8%9E%8D%E6%97%8B%E8%BD%AC%E9%97%A8%E8%85%90%E8%B4%A5%EF%BC%9A%E7%A6%BB%E8%81%8C%E5%AE%98%E5%91%98%E8%A2%AB%E6%8A%A2%E7%9D%80%E8%A6%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [扎克伯格和马斯克线上约架](https://www.baidu.com/s?wd=%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC%E5%92%8C%E9%A9%AC%E6%96%AF%E5%85%8B%E7%BA%BF%E4%B8%8A%E7%BA%A6%E6%9E%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [张雪峰再谈专业选择](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%86%8D%E8%B0%88%E4%B8%93%E4%B8%9A%E9%80%89%E6%8B%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [周星驰新电影招募女演员](https://www.baidu.com/s?wd=%E5%91%A8%E6%98%9F%E9%A9%B0%E6%96%B0%E7%94%B5%E5%BD%B1%E6%8B%9B%E5%8B%9F%E5%A5%B3%E6%BC%94%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
