@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 20:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 20:07:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [EDG教练在干嘛](https://s.weibo.com/weibo?q=EDG%E6%95%99%E7%BB%83%E5%9C%A8%E5%B9%B2%E5%98%9B&t=31&band_rank=5&Refer=top)<br />
 6. [消失的她票房](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%88%BF&t=31&band_rank=6&Refer=top)<br />
 7. [银川爆炸烧烤店救援现场](https://s.weibo.com/weibo?q=%23%E9%93%B6%E5%B7%9D%E7%88%86%E7%82%B8%E7%83%A7%E7%83%A4%E5%BA%97%E6%95%91%E6%8F%B4%E7%8E%B0%E5%9C%BA%23&t=31&band_rank=7&Refer=top)<br />
-8. [Uzi4杀 RNG拿下比赛](https://s.weibo.com/weibo?q=Uzi4%E6%9D%80%20RNG%E6%8B%BF%E4%B8%8B%E6%AF%94%E8%B5%9B&t=31&band_rank=8&Refer=top)<br />
-9. [甜馨10岁身高](https://s.weibo.com/weibo?q=%23%E7%94%9C%E9%A6%A810%E5%B2%81%E8%BA%AB%E9%AB%98%23&t=31&band_rank=9&Refer=top)<br />
+8. [文咏珊好媚](https://s.weibo.com/weibo?q=%E6%96%87%E5%92%8F%E7%8F%8A%E5%A5%BD%E5%AA%9A&t=31&band_rank=8&Refer=top)<br />
+9. [Uzi4杀 RNG拿下比赛](https://s.weibo.com/weibo?q=Uzi4%E6%9D%80%20RNG%E6%8B%BF%E4%B8%8B%E6%AF%94%E8%B5%9B&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
