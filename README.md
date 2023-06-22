@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 10:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 10:30:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [赛龙舟原来这么燃](https://s.weibo.com/weibo?q=%23%E8%B5%9B%E9%BE%99%E8%88%9F%E5%8E%9F%E6%9D%A5%E8%BF%99%E4%B9%88%E7%87%83%23&t=31&band_rank=3&Refer=top)<br />
 4. [内马尔为孕期出轨道歉](https://s.weibo.com/weibo?q=%23%E5%86%85%E9%A9%AC%E5%B0%94%E4%B8%BA%E5%AD%95%E6%9C%9F%E5%87%BA%E8%BD%A8%E9%81%93%E6%AD%89%23&t=31&band_rank=4&Refer=top)<br />
 5. [5岁时的韩安冉](https://s.weibo.com/weibo?q=%235%E5%B2%81%E6%97%B6%E7%9A%84%E9%9F%A9%E5%AE%89%E5%86%89%23&t=31&band_rank=5&Refer=top)<br />
-6. [Angelababy七年前vs七年后](https://s.weibo.com/weibo?q=%23Angelababy%E4%B8%83%E5%B9%B4%E5%89%8Dvs%E4%B8%83%E5%B9%B4%E5%90%8E%23&t=31&band_rank=6&Refer=top)<br />
-7. [千万别在下午和晚上买机票](https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E5%88%AB%E5%9C%A8%E4%B8%8B%E5%8D%88%E5%92%8C%E6%99%9A%E4%B8%8A%E4%B9%B0%E6%9C%BA%E7%A5%A8%23&t=31&band_rank=7&Refer=top)<br />
+6. [千万别在下午和晚上买机票](https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E5%88%AB%E5%9C%A8%E4%B8%8B%E5%8D%88%E5%92%8C%E6%99%9A%E4%B8%8A%E4%B9%B0%E6%9C%BA%E7%A5%A8%23&t=31&band_rank=6&Refer=top)<br />
+7. [Angelababy七年前vs七年后](https://s.weibo.com/weibo?q=%23Angelababy%E4%B8%83%E5%B9%B4%E5%89%8Dvs%E4%B8%83%E5%B9%B4%E5%90%8E%23&t=31&band_rank=7&Refer=top)<br />
 8. [张艺兴点赞了EXO回归预告](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E7%82%B9%E8%B5%9E%E4%BA%86EXO%E5%9B%9E%E5%BD%92%E9%A2%84%E5%91%8A%23&t=31&band_rank=8&Refer=top)<br />
 9. [端午节](https://s.weibo.com/weibo?q=%E7%AB%AF%E5%8D%88%E8%8A%82&t=31&band_rank=9&Refer=top)<br />
 
@@ -17,8 +17,8 @@
 1. [空军航空兵某团飞行二大队获「时代楷模」称号，褒扬他们是「奋飞新时代的空中铁拳」，他们值得学习的点在哪？](https://www.zhihu.com/question/607609756)<br />
 2. [轰 6K 海上飞行时驱离外方船只，有哪些信息值得关注？](https://www.zhihu.com/question/607773769)<br />
 3. [硅谷银行亚洲客户遭「双向挤压」，存款被没收，贷款必须还，如何看待此事？](https://www.zhihu.com/question/607811714)<br />
-4. [如何评价周润发主演的电影《别叫我「赌神」》？](https://www.zhihu.com/question/607437807)<br />
-5. [宁夏银川发生燃气爆炸事故造成 38 人伤亡，其中 31 人死亡，7 人仍在救治中，具体情况如何？](https://www.zhihu.com/question/607961203)<br />
+4. [宁夏银川发生燃气爆炸事故造成 38 人伤亡，其中 31 人死亡，7 人仍在救治中，具体情况如何？](https://www.zhihu.com/question/607961203)<br />
+5. [如何评价周润发主演的电影《别叫我「赌神」》？](https://www.zhihu.com/question/607437807)<br />
 6. [研究发现燃气灶增加患白血病风险，苯浓度超二手烟，这一发现具有哪些意义？生活中使用燃气灶如何降低伤害？](https://www.zhihu.com/question/607771756)<br />
 7. [布林肯结束访华，外交部美大司司长十答中美问题，更多细节披露，哪些信息值得关注？](https://www.zhihu.com/question/607816687)<br />
 8. [两名中国公民在美被定罪，外交部称「敦促美方立即纠正错误」，有哪些信息值得关注？](https://www.zhihu.com/question/607819218)<br />
