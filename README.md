@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 12:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 12:08:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [为什么大家都不再发朋友圈了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%A7%E5%AE%B6%E9%83%BD%E4%B8%8D%E5%86%8D%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [目击者讲述银川烧烤店爆炸](https://s.weibo.com/weibo?q=%23%E7%9B%AE%E5%87%BB%E8%80%85%E8%AE%B2%E8%BF%B0%E9%93%B6%E5%B7%9D%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%23&t=31&band_rank=7&Refer=top)<br />
 8. [5岁时的韩安冉](https://s.weibo.com/weibo?q=%235%E5%B2%81%E6%97%B6%E7%9A%84%E9%9F%A9%E5%AE%89%E5%86%89%23&t=31&band_rank=8&Refer=top)<br />
-9. [广东人为什么普遍都很瘦](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E6%99%AE%E9%81%8D%E9%83%BD%E5%BE%88%E7%98%A6%23&t=31&band_rank=9&Refer=top)<br />
+9. [曾黎见到老同学狂奔5米合照](https://s.weibo.com/weibo?q=%23%E6%9B%BE%E9%BB%8E%E8%A7%81%E5%88%B0%E8%80%81%E5%90%8C%E5%AD%A6%E7%8B%82%E5%A5%945%E7%B1%B3%E5%90%88%E7%85%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
