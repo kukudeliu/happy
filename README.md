@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 15:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 15:29:01</h4></div>
 
 > 微博  
 
@@ -21,29 +21,29 @@
 5. [什么是管理的本质？](https://www.zhihu.com/question/607006108)<br />
 6. [宁夏银川发生燃气爆炸事故造成 38 人伤亡，其中 31 人死亡，7 人仍在救治中，具体情况如何？](https://www.zhihu.com/question/607961203)<br />
 7. [美海岸警卫队炮舰过航台湾海峡，中国海警舰艇对其全程跟监警戒，还有哪些信息值得关注？](https://www.zhihu.com/question/607981759)<br />
-8. [宁夏银川烧烤店爆炸事故 9 名责任人已被控制，其资产被冻结，他们将承担哪些法律责任？](https://www.zhihu.com/question/607978473)<br />
-9. [NBA 三方交易接近达成，波尔津吉斯去绿军，斯玛特加盟灰熊，奇才得泰厄斯琼斯，如何评价这项交易？](https://www.zhihu.com/question/607968898)<br />
+8. [NBA 三方交易接近达成，波尔津吉斯去绿军，斯玛特加盟灰熊，奇才得泰厄斯琼斯，如何评价这项交易？](https://www.zhihu.com/question/607968898)<br />
+9. [纽卡斯尔接近签下 AC 米兰中场核心托纳利，转会费预计 7000 万欧，如何评价这笔转会交易？](https://www.zhihu.com/question/607968593)<br />
 
 > 百度  
 
 1. [中国人的赛龙舟有多燃](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E8%B5%9B%E9%BE%99%E8%88%9F%E6%9C%89%E5%A4%9A%E7%87%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [宁夏烧烤店爆炸事故9名责任人被控制](https://www.baidu.com/s?wd=%E5%AE%81%E5%A4%8F%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%859%E5%90%8D%E8%B4%A3%E4%BB%BB%E4%BA%BA%E8%A2%AB%E6%8E%A7%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [泰坦尼克号遇难者后裔丈夫在潜艇上](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7%E9%81%87%E9%9A%BE%E8%80%85%E5%90%8E%E8%A3%94%E4%B8%88%E5%A4%AB%E5%9C%A8%E6%BD%9C%E8%89%87%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [大雨中校长毕业典礼致辞只念了标题](https://www.baidu.com/s?wd=%E5%A4%A7%E9%9B%A8%E4%B8%AD%E6%A0%A1%E9%95%BF%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E8%87%B4%E8%BE%9E%E5%8F%AA%E5%BF%B5%E4%BA%86%E6%A0%87%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [牢牢守住生态保护红线](https://www.baidu.com/s?wd=%E7%89%A2%E7%89%A2%E5%AE%88%E4%BD%8F%E7%94%9F%E6%80%81%E4%BF%9D%E6%8A%A4%E7%BA%A2%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [知情人:烧烤店爆炸死者死因多为窒息](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%3A%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E6%AD%BB%E8%80%85%E6%AD%BB%E5%9B%A0%E5%A4%9A%E4%B8%BA%E7%AA%92%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [泰坦尼克号遇难者后裔丈夫在潜艇上](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7%E9%81%87%E9%9A%BE%E8%80%85%E5%90%8E%E8%A3%94%E4%B8%88%E5%A4%AB%E5%9C%A8%E6%BD%9C%E8%89%87%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [新任公安部禁毒局局长首次公开亮相](https://www.baidu.com/s?wd=%E6%96%B0%E4%BB%BB%E5%85%AC%E5%AE%89%E9%83%A8%E7%A6%81%E6%AF%92%E5%B1%80%E5%B1%80%E9%95%BF%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80%E4%BA%AE%E7%9B%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [中国海警回应美舰过航台湾海峡](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B5%B7%E8%AD%A6%E5%9B%9E%E5%BA%94%E7%BE%8E%E8%88%B0%E8%BF%87%E8%88%AA%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [北京大爷不想让孩子要孩子](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%A4%A7%E7%88%B7%E4%B8%8D%E6%83%B3%E8%AE%A9%E5%AD%A9%E5%AD%90%E8%A6%81%E5%AD%A9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [中国海警回应美舰过航台湾海峡](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B5%B7%E8%AD%A6%E5%9B%9E%E5%BA%94%E7%BE%8E%E8%88%B0%E8%BF%87%E8%88%AA%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女模特不满成绩扔鞋砸裁判 官方通报](https://www.baidu.com/s?wd=%E5%A5%B3%E6%A8%A1%E7%89%B9%E4%B8%8D%E6%BB%A1%E6%88%90%E7%BB%A9%E6%89%94%E9%9E%8B%E7%A0%B8%E8%A3%81%E5%88%A4+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女模特不满成绩扔鞋砸裁判 官方通报](https://www.baidu.com/s?wd=%E5%A5%B3%E6%A8%A1%E7%89%B9%E4%B8%8D%E6%BB%A1%E6%88%90%E7%BB%A9%E6%89%94%E9%9E%8B%E7%A0%B8%E8%A3%81%E5%88%A4+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [扎克伯格和马斯克线上约架](https://www.baidu.com/s?wd=%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC%E5%92%8C%E9%A9%AC%E6%96%AF%E5%85%8B%E7%BA%BF%E4%B8%8A%E7%BA%A6%E6%9E%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [中国人的赛龙舟有多燃](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E8%B5%9B%E9%BE%99%E8%88%9F%E6%9C%89%E5%A4%9A%E7%87%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [宁夏烧烤店爆炸事故9名责任人被控制](https://www.baidu.com/s?wd=%E5%AE%81%E5%A4%8F%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%859%E5%90%8D%E8%B4%A3%E4%BB%BB%E4%BA%BA%E8%A2%AB%E6%8E%A7%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [泰坦尼克号遇难者后裔丈夫在潜艇上](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7%E9%81%87%E9%9A%BE%E8%80%85%E5%90%8E%E8%A3%94%E4%B8%88%E5%A4%AB%E5%9C%A8%E6%BD%9C%E8%89%87%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [大雨中校长毕业典礼致辞只念了标题](https://www.baidu.com/s?wd=%E5%A4%A7%E9%9B%A8%E4%B8%AD%E6%A0%A1%E9%95%BF%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E8%87%B4%E8%BE%9E%E5%8F%AA%E5%BF%B5%E4%BA%86%E6%A0%87%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [牢牢守住生态保护红线](https://www.baidu.com/s?wd=%E7%89%A2%E7%89%A2%E5%AE%88%E4%BD%8F%E7%94%9F%E6%80%81%E4%BF%9D%E6%8A%A4%E7%BA%A2%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [知情人:烧烤店爆炸死者死因多为窒息](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%3A%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E6%AD%BB%E8%80%85%E6%AD%BB%E5%9B%A0%E5%A4%9A%E4%B8%BA%E7%AA%92%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [泰坦尼克号遇难者后裔丈夫在潜艇上](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7%E9%81%87%E9%9A%BE%E8%80%85%E5%90%8E%E8%A3%94%E4%B8%88%E5%A4%AB%E5%9C%A8%E6%BD%9C%E8%89%87%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [新任公安部禁毒局局长首次公开亮相](https://www.baidu.com/s?wd=%E6%96%B0%E4%BB%BB%E5%85%AC%E5%AE%89%E9%83%A8%E7%A6%81%E6%AF%92%E5%B1%80%E5%B1%80%E9%95%BF%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80%E4%BA%AE%E7%9B%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [中国海警回应美舰过航台湾海峡](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B5%B7%E8%AD%A6%E5%9B%9E%E5%BA%94%E7%BE%8E%E8%88%B0%E8%BF%87%E8%88%AA%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [北京大爷不想让孩子要孩子](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%A4%A7%E7%88%B7%E4%B8%8D%E6%83%B3%E8%AE%A9%E5%AD%A9%E5%AD%90%E8%A6%81%E5%AD%A9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [中国海警回应美舰过航台湾海峡](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B5%B7%E8%AD%A6%E5%9B%9E%E5%BA%94%E7%BE%8E%E8%88%B0%E8%BF%87%E8%88%AA%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女模特不满成绩扔鞋砸裁判 官方通报](https://www.baidu.com/s?wd=%E5%A5%B3%E6%A8%A1%E7%89%B9%E4%B8%8D%E6%BB%A1%E6%88%90%E7%BB%A9%E6%89%94%E9%9E%8B%E7%A0%B8%E8%A3%81%E5%88%A4+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女模特不满成绩扔鞋砸裁判 官方通报](https://www.baidu.com/s?wd=%E5%A5%B3%E6%A8%A1%E7%89%B9%E4%B8%8D%E6%BB%A1%E6%88%90%E7%BB%A9%E6%89%94%E9%9E%8B%E7%A0%B8%E8%A3%81%E5%88%A4+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [扎克伯格和马斯克线上约架](https://www.baidu.com/s?wd=%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC%E5%92%8C%E9%A9%AC%E6%96%AF%E5%85%8B%E7%BA%BF%E4%B8%8A%E7%BA%A6%E6%9E%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
