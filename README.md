@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 19:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 19:36:01</h4></div>
 
 > 微博  
 
 1. [EDG教练在干嘛](https://s.weibo.com/weibo?q=EDG%E6%95%99%E7%BB%83%E5%9C%A8%E5%B9%B2%E5%98%9B&t=31&band_rank=1&Refer=top)<br />
-2. [西湖边卖花姑娘回应意外走红](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E6%B9%96%E8%BE%B9%E5%8D%96%E8%8A%B1%E5%A7%91%E5%A8%98%E5%9B%9E%E5%BA%94%E6%84%8F%E5%A4%96%E8%B5%B0%E7%BA%A2%23&t=31&band_rank=2&Refer=top)<br />
+2. [19岁藏族小伙救下掉入冰川游客](https://s.weibo.com/weibo?q=%2319%E5%B2%81%E8%97%8F%E6%97%8F%E5%B0%8F%E4%BC%99%E6%95%91%E4%B8%8B%E6%8E%89%E5%85%A5%E5%86%B0%E5%B7%9D%E6%B8%B8%E5%AE%A2%23&t=31&band_rank=2&Refer=top)<br />
 3. [藏在古画里的端午仪式感](https://s.weibo.com/weibo?q=%23%E8%97%8F%E5%9C%A8%E5%8F%A4%E7%94%BB%E9%87%8C%E7%9A%84%E7%AB%AF%E5%8D%88%E4%BB%AA%E5%BC%8F%E6%84%9F%23&t=31&band_rank=3&Refer=top)<br />
 4. [怀孕33周孕妇被2岁儿子开枪打死](https://s.weibo.com/weibo?q=%23%E6%80%80%E5%AD%9533%E5%91%A8%E5%AD%95%E5%A6%87%E8%A2%AB2%E5%B2%81%E5%84%BF%E5%AD%90%E5%BC%80%E6%9E%AA%E6%89%93%E6%AD%BB%23&t=31&band_rank=4&Refer=top)<br />
-5. [19岁藏族小伙救下掉入冰川游客](https://s.weibo.com/weibo?q=%2319%E5%B2%81%E8%97%8F%E6%97%8F%E5%B0%8F%E4%BC%99%E6%95%91%E4%B8%8B%E6%8E%89%E5%85%A5%E5%86%B0%E5%B7%9D%E6%B8%B8%E5%AE%A2%23&t=31&band_rank=5&Refer=top)<br />
+5. [西湖边卖花姑娘回应意外走红](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E6%B9%96%E8%BE%B9%E5%8D%96%E8%8A%B1%E5%A7%91%E5%A8%98%E5%9B%9E%E5%BA%94%E6%84%8F%E5%A4%96%E8%B5%B0%E7%BA%A2%23&t=31&band_rank=5&Refer=top)<br />
 6. [消失的她票房](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%88%BF&t=31&band_rank=6&Refer=top)<br />
 7. [180斤男生摔伤腿体育老师背其去中考](https://s.weibo.com/weibo?q=%23180%E6%96%A4%E7%94%B7%E7%94%9F%E6%91%94%E4%BC%A4%E8%85%BF%E4%BD%93%E8%82%B2%E8%80%81%E5%B8%88%E8%83%8C%E5%85%B6%E5%8E%BB%E4%B8%AD%E8%80%83%23&t=31&band_rank=7&Refer=top)<br />
 8. [国人买iPhone14Pro需9.5%年收入](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BA%BA%E4%B9%B0iPhone14Pro%E9%9C%809.5%25%E5%B9%B4%E6%94%B6%E5%85%A5%23&t=31&band_rank=8&Refer=top)<br />
