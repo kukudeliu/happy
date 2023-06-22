@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 02:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 02:10:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [氧气耗尽泰坦号内5人还有生还可能吗](https://s.weibo.com/weibo?q=%23%E6%B0%A7%E6%B0%94%E8%80%97%E5%B0%BD%E6%B3%B0%E5%9D%A6%E5%8F%B7%E5%86%855%E4%BA%BA%E8%BF%98%E6%9C%89%E7%94%9F%E8%BF%98%E5%8F%AF%E8%83%BD%E5%90%97%23&t=31&band_rank=2&Refer=top)<br />
 3. [龙舟漂移有多酷炫](https://s.weibo.com/weibo?q=%23%E9%BE%99%E8%88%9F%E6%BC%82%E7%A7%BB%E6%9C%89%E5%A4%9A%E9%85%B7%E7%82%AB%23&t=31&band_rank=3&Refer=top)<br />
 4. [高考查分](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86&t=31&band_rank=4&Refer=top)<br />
-5. [消失的她票房](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%88%BF&t=31&band_rank=5&Refer=top)<br />
-6. [马伯庸 别人发端午安康我回复端午快乐](https://s.weibo.com/weibo?q=%E9%A9%AC%E4%BC%AF%E5%BA%B8%20%E5%88%AB%E4%BA%BA%E5%8F%91%E7%AB%AF%E5%8D%88%E5%AE%89%E5%BA%B7%E6%88%91%E5%9B%9E%E5%A4%8D%E7%AB%AF%E5%8D%88%E5%BF%AB%E4%B9%90&t=31&band_rank=6&Refer=top)<br />
+5. [马伯庸 别人发端午安康我回复端午快乐](https://s.weibo.com/weibo?q=%E9%A9%AC%E4%BC%AF%E5%BA%B8%20%E5%88%AB%E4%BA%BA%E5%8F%91%E7%AB%AF%E5%8D%88%E5%AE%89%E5%BA%B7%E6%88%91%E5%9B%9E%E5%A4%8D%E7%AB%AF%E5%8D%88%E5%BF%AB%E4%B9%90&t=31&band_rank=5&Refer=top)<br />
+6. [消失的她票房](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%88%BF&t=31&band_rank=6&Refer=top)<br />
 7. [银川烧烤店爆炸事故伤者家属发声](https://s.weibo.com/weibo?q=%23%E9%93%B6%E5%B7%9D%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E4%BC%A4%E8%80%85%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0%23&t=31&band_rank=7&Refer=top)<br />
 8. [2023好声音导师官宣](https://s.weibo.com/weibo?q=%232023%E5%A5%BD%E5%A3%B0%E9%9F%B3%E5%AF%BC%E5%B8%88%E5%AE%98%E5%AE%A3%23&t=31&band_rank=8&Refer=top)<br />
 9. [怀孕33周孕妇被2岁儿子开枪打死](https://s.weibo.com/weibo?q=%23%E6%80%80%E5%AD%9533%E5%91%A8%E5%AD%95%E5%A6%87%E8%A2%AB2%E5%B2%81%E5%84%BF%E5%AD%90%E5%BC%80%E6%9E%AA%E6%89%93%E6%AD%BB%23&t=31&band_rank=9&Refer=top)<br />
