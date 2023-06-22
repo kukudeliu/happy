@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 14:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 14:23:02</h4></div>
 
 > 微博  
 
-1. [无穷小亮 有个事挺瘆得慌](https://s.weibo.com/weibo?q=%E6%97%A0%E7%A9%B7%E5%B0%8F%E4%BA%AE%20%E6%9C%89%E4%B8%AA%E4%BA%8B%E6%8C%BA%E7%98%86%E5%BE%97%E6%85%8C&t=31&band_rank=1&Refer=top)<br />
-2. [手机号实名制已经10年了](https://s.weibo.com/weibo?q=%E6%89%8B%E6%9C%BA%E5%8F%B7%E5%AE%9E%E5%90%8D%E5%88%B6%E5%B7%B2%E7%BB%8F10%E5%B9%B4%E4%BA%86&t=31&band_rank=2&Refer=top)<br />
+1. [手机号实名制已经10年了](https://s.weibo.com/weibo?q=%E6%89%8B%E6%9C%BA%E5%8F%B7%E5%AE%9E%E5%90%8D%E5%88%B6%E5%B7%B2%E7%BB%8F10%E5%B9%B4%E4%BA%86&t=31&band_rank=1&Refer=top)<br />
+2. [无穷小亮 有个事挺瘆得慌](https://s.weibo.com/weibo?q=%E6%97%A0%E7%A9%B7%E5%B0%8F%E4%BA%AE%20%E6%9C%89%E4%B8%AA%E4%BA%8B%E6%8C%BA%E7%98%86%E5%BE%97%E6%85%8C&t=31&band_rank=2&Refer=top)<br />
 3. [一人一句祝愿端午安康](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%BA%BA%E4%B8%80%E5%8F%A5%E7%A5%9D%E6%84%BF%E7%AB%AF%E5%8D%88%E5%AE%89%E5%BA%B7%23&t=31&band_rank=3&Refer=top)<br />
 4. [银川烧烤店爆炸事故31人经抢救无效死亡](https://s.weibo.com/weibo?q=%23%E9%93%B6%E5%B7%9D%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%8531%E4%BA%BA%E7%BB%8F%E6%8A%A2%E6%95%91%E6%97%A0%E6%95%88%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=4&Refer=top)<br />
 5. [迪丽热巴的项链好特别](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9A%84%E9%A1%B9%E9%93%BE%E5%A5%BD%E7%89%B9%E5%88%AB%23&t=31&band_rank=5&Refer=top)<br />
@@ -18,11 +18,11 @@
 2. [两名中国公民在美被定罪，外交部称「敦促美方立即纠正错误」，有哪些信息值得关注？](https://www.zhihu.com/question/607819218)<br />
 3. [数据称应届大学生就业重心继续下沉，越来越多应届生回县城考公，如何看待此现象？反映出哪些问题？](https://www.zhihu.com/question/607781746)<br />
 4. []()<br />
-5. [2023 高考成绩即将公布，查分前你是什么心情？](https://www.zhihu.com/question/607968044)<br />
+5. []()<br />
 6. [宁夏银川发生燃气爆炸事故造成 38 人伤亡，其中 31 人死亡，7 人仍在救治中，具体情况如何？](https://www.zhihu.com/question/607961203)<br />
-7. [美股全线收跌，特斯拉一夜蒸发 475 亿美元，失守近九个月最高，鲍威尔称未来或进一步加息，如何解读？](https://www.zhihu.com/question/607964846)<br />
-8. []()<br />
-9. [什么是管理的本质？](https://www.zhihu.com/question/607006108)<br />
+7. [2023 高考成绩即将公布，查分前你是什么心情？](https://www.zhihu.com/question/607968044)<br />
+8. [美股全线收跌，特斯拉一夜蒸发 475 亿美元，失守近九个月最高，鲍威尔称未来或进一步加息，如何解读？](https://www.zhihu.com/question/607964846)<br />
+9. []()<br />
 
 > 百度  
 
