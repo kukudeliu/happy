@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 14:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 14:52:01</h4></div>
 
 > 微博  
 
@@ -18,10 +18,10 @@
 2. [数据称应届大学生就业重心继续下沉，越来越多应届生回县城考公，如何看待此现象？反映出哪些问题？](https://www.zhihu.com/question/607781746)<br />
 3. [宁夏银川烧烤店爆炸事故 9 名责任人已被控制，其资产被冻结，他们将承担哪些法律责任？](https://www.zhihu.com/question/607978473)<br />
 4. [美股全线收跌，特斯拉一夜蒸发 475 亿美元，失守近九个月最高，鲍威尔称未来或进一步加息，如何解读？](https://www.zhihu.com/question/607964846)<br />
-5. [空军航空兵某团飞行二大队获「时代楷模」称号，褒扬他们是「奋飞新时代的空中铁拳」，他们值得学习的点在哪？](https://www.zhihu.com/question/607609756)<br />
+5. [什么是管理的本质？](https://www.zhihu.com/question/607006108)<br />
 6. [宁夏银川发生燃气爆炸事故造成 38 人伤亡，其中 31 人死亡，7 人仍在救治中，具体情况如何？](https://www.zhihu.com/question/607961203)<br />
-7. [什么是管理的本质？](https://www.zhihu.com/question/607006108)<br />
-8. []()<br />
+7. []()<br />
+8. [空军航空兵某团飞行二大队获「时代楷模」称号，褒扬他们是「奋飞新时代的空中铁拳」，他们值得学习的点在哪？](https://www.zhihu.com/question/607609756)<br />
 9. [自曝「在马尔代夫遭性侵」中国女生称「已致函马尔代夫总统求助」，此前称当地警方不作为，如何看待事件发展？](https://www.zhihu.com/question/607809339)<br />
 
 > 百度  
@@ -34,7 +34,7 @@
 6. [爆炸烧烤店连夜注销 老板身家千万](https://www.baidu.com/s?wd=%E7%88%86%E7%82%B8%E7%83%A7%E7%83%A4%E5%BA%97%E8%BF%9E%E5%A4%9C%E6%B3%A8%E9%94%80+%E8%80%81%E6%9D%BF%E8%BA%AB%E5%AE%B6%E5%8D%83%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [宁夏烧烤店爆炸致31死](https://www.baidu.com/s?wd=%E5%AE%81%E5%A4%8F%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E8%87%B431%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [失联潜艇曾多次爆出安全隐患](https://www.baidu.com/s?wd=%E5%A4%B1%E8%81%94%E6%BD%9C%E8%89%87%E6%9B%BE%E5%A4%9A%E6%AC%A1%E7%88%86%E5%87%BA%E5%AE%89%E5%85%A8%E9%9A%90%E6%82%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [周也端午换夏衣](https://www.baidu.com/s?wd=%E5%91%A8%E4%B9%9F%E7%AB%AF%E5%8D%88%E6%8D%A2%E5%A4%8F%E8%A1%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [泰坦尼克号遇难者后裔丈夫在潜艇上](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7%E9%81%87%E9%9A%BE%E8%80%85%E5%90%8E%E8%A3%94%E4%B8%88%E5%A4%AB%E5%9C%A8%E6%BD%9C%E8%89%87%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [爆炸烧烤店连夜注销 老板身家千万](https://www.baidu.com/s?wd=%E7%88%86%E7%82%B8%E7%83%A7%E7%83%A4%E5%BA%97%E8%BF%9E%E5%A4%9C%E6%B3%A8%E9%94%80+%E8%80%81%E6%9D%BF%E8%BA%AB%E5%AE%B6%E5%8D%83%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [宁夏烧烤店爆炸致31死](https://www.baidu.com/s?wd=%E5%AE%81%E5%A4%8F%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E8%87%B431%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [失联潜艇曾多次爆出安全隐患](https://www.baidu.com/s?wd=%E5%A4%B1%E8%81%94%E6%BD%9C%E8%89%87%E6%9B%BE%E5%A4%9A%E6%AC%A1%E7%88%86%E5%87%BA%E5%AE%89%E5%85%A8%E9%9A%90%E6%82%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [周也端午换夏衣](https://www.baidu.com/s?wd=%E5%91%A8%E4%B9%9F%E7%AB%AF%E5%8D%88%E6%8D%A2%E5%A4%8F%E8%A1%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [泰坦尼克号遇难者后裔丈夫在潜艇上](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7%E9%81%87%E9%9A%BE%E8%80%85%E5%90%8E%E8%A3%94%E4%B8%88%E5%A4%AB%E5%9C%A8%E6%BD%9C%E8%89%87%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
