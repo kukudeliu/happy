@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 05:17:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 05:18:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [校招中的「熟悉 Linux 操作系统」一般是指达到什么程度？](https://www.zhihu.com/question/517101428)<br />
 7. [现在还有没感染新冠的吗？你们怎么做到的？](https://www.zhihu.com/question/576527176)<br />
 8. []()<br />
-9. [U17 亚洲杯小组赛中国 0:3 沙特，1 平 2 负小组垫底出局，如何评价中国队亚洲杯上的表现？](https://www.zhihu.com/question/608014216)<br />
+9. [美国五角大楼将对乌军援的记账错误金额提高至 62 亿美元，透露了哪些信息？](https://www.zhihu.com/question/607781134)<br />
 
 > 百度  
 
