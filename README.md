@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 12:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 12:49:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [马伯骞你是真的火了](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%BC%AF%E9%AA%9E%E4%BD%A0%E6%98%AF%E7%9C%9F%E7%9A%84%E7%81%AB%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [福布斯称Jennie有资格获艾美奖](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%B8%83%E6%96%AF%E7%A7%B0Jennie%E6%9C%89%E8%B5%84%E6%A0%BC%E8%8E%B7%E8%89%BE%E7%BE%8E%E5%A5%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [曾黎见到老同学狂奔5米合照](https://s.weibo.com/weibo?q=%23%E6%9B%BE%E9%BB%8E%E8%A7%81%E5%88%B0%E8%80%81%E5%90%8C%E5%AD%A6%E7%8B%82%E5%A5%945%E7%B1%B3%E5%90%88%E7%85%A7%23&t=31&band_rank=7&Refer=top)<br />
-8. [目击者讲述银川烧烤店爆炸](https://s.weibo.com/weibo?q=%23%E7%9B%AE%E5%87%BB%E8%80%85%E8%AE%B2%E8%BF%B0%E9%93%B6%E5%B7%9D%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%23&t=31&band_rank=8&Refer=top)<br />
-9. [烧烤店疑更换液化气罐阀门过程中爆炸](https://s.weibo.com/weibo?q=%23%E7%83%A7%E7%83%A4%E5%BA%97%E7%96%91%E6%9B%B4%E6%8D%A2%E6%B6%B2%E5%8C%96%E6%B0%94%E7%BD%90%E9%98%80%E9%97%A8%E8%BF%87%E7%A8%8B%E4%B8%AD%E7%88%86%E7%82%B8%23&t=31&band_rank=9&Refer=top)<br />
+8. [烧烤店疑更换液化气罐阀门过程中爆炸](https://s.weibo.com/weibo?q=%23%E7%83%A7%E7%83%A4%E5%BA%97%E7%96%91%E6%9B%B4%E6%8D%A2%E6%B6%B2%E5%8C%96%E6%B0%94%E7%BD%90%E9%98%80%E9%97%A8%E8%BF%87%E7%A8%8B%E4%B8%AD%E7%88%86%E7%82%B8%23&t=31&band_rank=8&Refer=top)<br />
+9. [目击者讲述银川烧烤店爆炸](https://s.weibo.com/weibo?q=%23%E7%9B%AE%E5%87%BB%E8%80%85%E8%AE%B2%E8%BF%B0%E9%93%B6%E5%B7%9D%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -31,9 +31,9 @@
 3. [甜粽和咸粽又开始吵架了](https://www.baidu.com/s?wd=%E7%94%9C%E7%B2%BD%E5%92%8C%E5%92%B8%E7%B2%BD%E5%8F%88%E5%BC%80%E5%A7%8B%E5%90%B5%E6%9E%B6%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [牢牢守住生态保护红线](https://www.baidu.com/s?wd=%E7%89%A2%E7%89%A2%E5%AE%88%E4%BD%8F%E7%94%9F%E6%80%81%E4%BF%9D%E6%8A%A4%E7%BA%A2%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [宁夏烧烤店爆炸事故9名责任人被控制](https://www.baidu.com/s?wd=%E5%AE%81%E5%A4%8F%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%859%E5%90%8D%E8%B4%A3%E4%BB%BB%E4%BA%BA%E8%A2%AB%E6%8E%A7%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [植物人父亲帮儿子挠痒](https://www.baidu.com/s?wd=%E6%A4%8D%E7%89%A9%E4%BA%BA%E7%88%B6%E4%BA%B2%E5%B8%AE%E5%84%BF%E5%AD%90%E6%8C%A0%E7%97%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [知情人:烧烤店爆炸死者死因多为窒息](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%3A%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E6%AD%BB%E8%80%85%E6%AD%BB%E5%9B%A0%E5%A4%9A%E4%B8%BA%E7%AA%92%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [宁夏烧烤店爆炸致31死](https://www.baidu.com/s?wd=%E5%AE%81%E5%A4%8F%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E8%87%B431%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [知情人:烧烤店爆炸死者死因多为窒息](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%3A%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E6%AD%BB%E8%80%85%E6%AD%BB%E5%9B%A0%E5%A4%9A%E4%B8%BA%E7%AA%92%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [植物人父亲帮儿子挠痒](https://www.baidu.com/s?wd=%E6%A4%8D%E7%89%A9%E4%BA%BA%E7%88%B6%E4%BA%B2%E5%B8%AE%E5%84%BF%E5%AD%90%E6%8C%A0%E7%97%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [烧烤店爆炸正值用餐高峰 二楼有KTV](https://www.baidu.com/s?wd=%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E6%AD%A3%E5%80%BC%E7%94%A8%E9%A4%90%E9%AB%98%E5%B3%B0+%E4%BA%8C%E6%A5%BC%E6%9C%89KTV&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -43,7 +43,7 @@
 3. [甜粽和咸粽又开始吵架了](https://www.baidu.com/s?wd=%E7%94%9C%E7%B2%BD%E5%92%8C%E5%92%B8%E7%B2%BD%E5%8F%88%E5%BC%80%E5%A7%8B%E5%90%B5%E6%9E%B6%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [牢牢守住生态保护红线](https://www.baidu.com/s?wd=%E7%89%A2%E7%89%A2%E5%AE%88%E4%BD%8F%E7%94%9F%E6%80%81%E4%BF%9D%E6%8A%A4%E7%BA%A2%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [宁夏烧烤店爆炸事故9名责任人被控制](https://www.baidu.com/s?wd=%E5%AE%81%E5%A4%8F%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%859%E5%90%8D%E8%B4%A3%E4%BB%BB%E4%BA%BA%E8%A2%AB%E6%8E%A7%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [植物人父亲帮儿子挠痒](https://www.baidu.com/s?wd=%E6%A4%8D%E7%89%A9%E4%BA%BA%E7%88%B6%E4%BA%B2%E5%B8%AE%E5%84%BF%E5%AD%90%E6%8C%A0%E7%97%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [知情人:烧烤店爆炸死者死因多为窒息](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%3A%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E6%AD%BB%E8%80%85%E6%AD%BB%E5%9B%A0%E5%A4%9A%E4%B8%BA%E7%AA%92%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [宁夏烧烤店爆炸致31死](https://www.baidu.com/s?wd=%E5%AE%81%E5%A4%8F%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E8%87%B431%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [知情人:烧烤店爆炸死者死因多为窒息](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%3A%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E6%AD%BB%E8%80%85%E6%AD%BB%E5%9B%A0%E5%A4%9A%E4%B8%BA%E7%AA%92%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [植物人父亲帮儿子挠痒](https://www.baidu.com/s?wd=%E6%A4%8D%E7%89%A9%E4%BA%BA%E7%88%B6%E4%BA%B2%E5%B8%AE%E5%84%BF%E5%AD%90%E6%8C%A0%E7%97%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [烧烤店爆炸正值用餐高峰 二楼有KTV](https://www.baidu.com/s?wd=%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E6%AD%A3%E5%80%BC%E7%94%A8%E9%A4%90%E9%AB%98%E5%B3%B0+%E4%BA%8C%E6%A5%BC%E6%9C%89KTV&sa=fyb_news&rsv_dl=fyb_news)<br />
