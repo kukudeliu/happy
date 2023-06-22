@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 14:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 14:16:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [知情人:烧烤店爆炸死者死因多为窒息](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%3A%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E6%AD%BB%E8%80%85%E6%AD%BB%E5%9B%A0%E5%A4%9A%E4%B8%BA%E7%AA%92%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [爆炸烧烤店连夜注销 老板身家千万](https://www.baidu.com/s?wd=%E7%88%86%E7%82%B8%E7%83%A7%E7%83%A4%E5%BA%97%E8%BF%9E%E5%A4%9C%E6%B3%A8%E9%94%80+%E8%80%81%E6%9D%BF%E8%BA%AB%E5%AE%B6%E5%8D%83%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [宁夏烧烤店爆炸致31死](https://www.baidu.com/s?wd=%E5%AE%81%E5%A4%8F%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E8%87%B431%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女模特不满成绩扔鞋砸裁判 官方通报](https://www.baidu.com/s?wd=%E5%A5%B3%E6%A8%A1%E7%89%B9%E4%B8%8D%E6%BB%A1%E6%88%90%E7%BB%A9%E6%89%94%E9%9E%8B%E7%A0%B8%E8%A3%81%E5%88%A4+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [乌称俄乌24小时内发生数十次战斗](https://www.baidu.com/s?wd=%E4%B9%8C%E7%A7%B0%E4%BF%84%E4%B9%8C24%E5%B0%8F%E6%97%B6%E5%86%85%E5%8F%91%E7%94%9F%E6%95%B0%E5%8D%81%E6%AC%A1%E6%88%98%E6%96%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [大雨中校长毕业典礼致辞只念了标题](https://www.baidu.com/s?wd=%E5%A4%A7%E9%9B%A8%E4%B8%AD%E6%A0%A1%E9%95%BF%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E8%87%B4%E8%BE%9E%E5%8F%AA%E5%BF%B5%E4%BA%86%E6%A0%87%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女模特不满成绩扔鞋砸裁判 官方通报](https://www.baidu.com/s?wd=%E5%A5%B3%E6%A8%A1%E7%89%B9%E4%B8%8D%E6%BB%A1%E6%88%90%E7%BB%A9%E6%89%94%E9%9E%8B%E7%A0%B8%E8%A3%81%E5%88%A4+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [知情人:烧烤店爆炸死者死因多为窒息](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%3A%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E6%AD%BB%E8%80%85%E6%AD%BB%E5%9B%A0%E5%A4%9A%E4%B8%BA%E7%AA%92%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [爆炸烧烤店连夜注销 老板身家千万](https://www.baidu.com/s?wd=%E7%88%86%E7%82%B8%E7%83%A7%E7%83%A4%E5%BA%97%E8%BF%9E%E5%A4%9C%E6%B3%A8%E9%94%80+%E8%80%81%E6%9D%BF%E8%BA%AB%E5%AE%B6%E5%8D%83%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [宁夏烧烤店爆炸致31死](https://www.baidu.com/s?wd=%E5%AE%81%E5%A4%8F%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E8%87%B431%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女模特不满成绩扔鞋砸裁判 官方通报](https://www.baidu.com/s?wd=%E5%A5%B3%E6%A8%A1%E7%89%B9%E4%B8%8D%E6%BB%A1%E6%88%90%E7%BB%A9%E6%89%94%E9%9E%8B%E7%A0%B8%E8%A3%81%E5%88%A4+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [乌称俄乌24小时内发生数十次战斗](https://www.baidu.com/s?wd=%E4%B9%8C%E7%A7%B0%E4%BF%84%E4%B9%8C24%E5%B0%8F%E6%97%B6%E5%86%85%E5%8F%91%E7%94%9F%E6%95%B0%E5%8D%81%E6%AC%A1%E6%88%98%E6%96%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [大雨中校长毕业典礼致辞只念了标题](https://www.baidu.com/s?wd=%E5%A4%A7%E9%9B%A8%E4%B8%AD%E6%A0%A1%E9%95%BF%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E8%87%B4%E8%BE%9E%E5%8F%AA%E5%BF%B5%E4%BA%86%E6%A0%87%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女模特不满成绩扔鞋砸裁判 官方通报](https://www.baidu.com/s?wd=%E5%A5%B3%E6%A8%A1%E7%89%B9%E4%B8%8D%E6%BB%A1%E6%88%90%E7%BB%A9%E6%89%94%E9%9E%8B%E7%A0%B8%E8%A3%81%E5%88%A4+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
