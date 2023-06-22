@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 17:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 17:42:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [河北科技大学通报学生跳楼身亡](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8C%97%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E9%80%9A%E6%8A%A5%E5%AD%A6%E7%94%9F%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [消失的她票房](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%88%BF&t=31&band_rank=7&Refer=top)<br />
 8. [奔跑吧全员素颜](https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%E5%85%A8%E5%91%98%E7%B4%A0%E9%A2%9C%23&t=31&band_rank=8&Refer=top)<br />
-9. [国人买iPhone14Pro需9.5%年收入](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BA%BA%E4%B9%B0iPhone14Pro%E9%9C%809.5%25%E5%B9%B4%E6%94%B6%E5%85%A5%23&t=31&band_rank=9&Refer=top)<br />
+9. [银川爆炸烧烤店救援现场](https://s.weibo.com/weibo?q=%23%E9%93%B6%E5%B7%9D%E7%88%86%E7%82%B8%E7%83%A7%E7%83%A4%E5%BA%97%E6%95%91%E6%8F%B4%E7%8E%B0%E5%9C%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -34,7 +34,7 @@
 6. [张兰回应大S怀孕传闻](https://www.baidu.com/s?wd=%E5%BC%A0%E5%85%B0%E5%9B%9E%E5%BA%94%E5%A4%A7S%E6%80%80%E5%AD%95%E4%BC%A0%E9%97%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [河北科技大学通报一本科生坠亡](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E9%80%9A%E6%8A%A5%E4%B8%80%E6%9C%AC%E7%A7%91%E7%94%9F%E5%9D%A0%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [莫迪送拜登夫人7.5克拉“绿钻”](https://www.baidu.com/s?wd=%E8%8E%AB%E8%BF%AA%E9%80%81%E6%8B%9C%E7%99%BB%E5%A4%AB%E4%BA%BA7.5%E5%85%8B%E6%8B%89%E2%80%9C%E7%BB%BF%E9%92%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [乌称俄乌24小时内发生数十次战斗](https://www.baidu.com/s?wd=%E4%B9%8C%E7%A7%B0%E4%BF%84%E4%B9%8C24%E5%B0%8F%E6%97%B6%E5%86%85%E5%8F%91%E7%94%9F%E6%95%B0%E5%8D%81%E6%AC%A1%E6%88%98%E6%96%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [拉夏贝尔正式破产清算](https://www.baidu.com/s?wd=%E6%8B%89%E5%A4%8F%E8%B4%9D%E5%B0%94%E6%AD%A3%E5%BC%8F%E7%A0%B4%E4%BA%A7%E6%B8%85%E7%AE%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [张兰回应大S怀孕传闻](https://www.baidu.com/s?wd=%E5%BC%A0%E5%85%B0%E5%9B%9E%E5%BA%94%E5%A4%A7S%E6%80%80%E5%AD%95%E4%BC%A0%E9%97%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [河北科技大学通报一本科生坠亡](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E9%80%9A%E6%8A%A5%E4%B8%80%E6%9C%AC%E7%A7%91%E7%94%9F%E5%9D%A0%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [莫迪送拜登夫人7.5克拉“绿钻”](https://www.baidu.com/s?wd=%E8%8E%AB%E8%BF%AA%E9%80%81%E6%8B%9C%E7%99%BB%E5%A4%AB%E4%BA%BA7.5%E5%85%8B%E6%8B%89%E2%80%9C%E7%BB%BF%E9%92%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [乌称俄乌24小时内发生数十次战斗](https://www.baidu.com/s?wd=%E4%B9%8C%E7%A7%B0%E4%BF%84%E4%B9%8C24%E5%B0%8F%E6%97%B6%E5%86%85%E5%8F%91%E7%94%9F%E6%95%B0%E5%8D%81%E6%AC%A1%E6%88%98%E6%96%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [拉夏贝尔正式破产清算](https://www.baidu.com/s?wd=%E6%8B%89%E5%A4%8F%E8%B4%9D%E5%B0%94%E6%AD%A3%E5%BC%8F%E7%A0%B4%E4%BA%A7%E6%B8%85%E7%AE%97&sa=fyb_news&rsv_dl=fyb_news)<br />
