@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 20:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 20:24:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [文咏珊好媚](https://s.weibo.com/weibo?q=%E6%96%87%E5%92%8F%E7%8F%8A%E5%A5%BD%E5%AA%9A&t=31&band_rank=6&Refer=top)<br />
 7. [15岁女生答72岁复旦教授](https://s.weibo.com/weibo?q=%2315%E5%B2%81%E5%A5%B3%E7%94%9F%E7%AD%9472%E5%B2%81%E5%A4%8D%E6%97%A6%E6%95%99%E6%8E%88%23&t=31&band_rank=7&Refer=top)<br />
 8. [消失的她票房](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%88%BF&t=31&band_rank=8&Refer=top)<br />
-9. [Uzi4杀 RNG拿下比赛](https://s.weibo.com/weibo?q=Uzi4%E6%9D%80%20RNG%E6%8B%BF%E4%B8%8B%E6%AF%94%E8%B5%9B&t=31&band_rank=9&Refer=top)<br />
+9. [甜馨10岁身高](https://s.weibo.com/weibo?q=%23%E7%94%9C%E9%A6%A810%E5%B2%81%E8%BA%AB%E9%AB%98%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -27,23 +27,23 @@
 > 百度  
 
 1. [习近平对宁夏爆炸事故作重要指示](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AF%B9%E5%AE%81%E5%A4%8F%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E4%BD%9C%E9%87%8D%E8%A6%81%E6%8C%87%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [银川烧烤店爆炸事故发布会](https://www.baidu.com/s?wd=%E9%93%B6%E5%B7%9D%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E5%8F%91%E5%B8%83%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [银川市长就致31死爆炸事故道歉](https://www.baidu.com/s?wd=%E9%93%B6%E5%B7%9D%E5%B8%82%E9%95%BF%E5%B0%B1%E8%87%B431%E6%AD%BB%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [银川市长就致31死爆炸事故道歉](https://www.baidu.com/s?wd=%E9%93%B6%E5%B7%9D%E5%B8%82%E9%95%BF%E5%B0%B1%E8%87%B431%E6%AD%BB%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [银川事故发布会现场全体默哀](https://www.baidu.com/s?wd=%E9%93%B6%E5%B7%9D%E4%BA%8B%E6%95%85%E5%8F%91%E5%B8%83%E4%BC%9A%E7%8E%B0%E5%9C%BA%E5%85%A8%E4%BD%93%E9%BB%98%E5%93%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [文化兴国运兴 文化强民族强](https://www.baidu.com/s?wd=%E6%96%87%E5%8C%96%E5%85%B4%E5%9B%BD%E8%BF%90%E5%85%B4+%E6%96%87%E5%8C%96%E5%BC%BA%E6%B0%91%E6%97%8F%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [银川事故发布会现场全体默哀](https://www.baidu.com/s?wd=%E9%93%B6%E5%B7%9D%E4%BA%8B%E6%95%85%E5%8F%91%E5%B8%83%E4%BC%9A%E7%8E%B0%E5%9C%BA%E5%85%A8%E4%BD%93%E9%BB%98%E5%93%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [失联泰坦尼克号观光艇氧气耗尽](https://www.baidu.com/s?wd=%E5%A4%B1%E8%81%94%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7%E8%A7%82%E5%85%89%E8%89%87%E6%B0%A7%E6%B0%94%E8%80%97%E5%B0%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [广东一龙舟侧翻致1死1失联](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E9%BE%99%E8%88%9F%E4%BE%A7%E7%BF%BB%E8%87%B41%E6%AD%BB1%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [巴菲特又捐赠46亿美元股票](https://www.baidu.com/s?wd=%E5%B7%B4%E8%8F%B2%E7%89%B9%E5%8F%88%E6%8D%90%E8%B5%A046%E4%BA%BF%E7%BE%8E%E5%85%83%E8%82%A1%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [张兰回应大S怀孕传闻](https://www.baidu.com/s?wd=%E5%BC%A0%E5%85%B0%E5%9B%9E%E5%BA%94%E5%A4%A7S%E6%80%80%E5%AD%95%E4%BC%A0%E9%97%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [失联泰坦尼克号观光艇氧气耗尽](https://www.baidu.com/s?wd=%E5%A4%B1%E8%81%94%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7%E8%A7%82%E5%85%89%E8%89%87%E6%B0%A7%E6%B0%94%E8%80%97%E5%B0%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [新任公安部禁毒局局长首次公开亮相](https://www.baidu.com/s?wd=%E6%96%B0%E4%BB%BB%E5%85%AC%E5%AE%89%E9%83%A8%E7%A6%81%E6%AF%92%E5%B1%80%E5%B1%80%E9%95%BF%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80%E4%BA%AE%E7%9B%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [巴菲特又捐赠46亿美元股票](https://www.baidu.com/s?wd=%E5%B7%B4%E8%8F%B2%E7%89%B9%E5%8F%88%E6%8D%90%E8%B5%A046%E4%BA%BF%E7%BE%8E%E5%85%83%E8%82%A1%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [张兰回应大S怀孕传闻](https://www.baidu.com/s?wd=%E5%BC%A0%E5%85%B0%E5%9B%9E%E5%BA%94%E5%A4%A7S%E6%80%80%E5%AD%95%E4%BC%A0%E9%97%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [习近平对宁夏爆炸事故作重要指示](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AF%B9%E5%AE%81%E5%A4%8F%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E4%BD%9C%E9%87%8D%E8%A6%81%E6%8C%87%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [银川烧烤店爆炸事故发布会](https://www.baidu.com/s?wd=%E9%93%B6%E5%B7%9D%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E5%8F%91%E5%B8%83%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [银川市长就致31死爆炸事故道歉](https://www.baidu.com/s?wd=%E9%93%B6%E5%B7%9D%E5%B8%82%E9%95%BF%E5%B0%B1%E8%87%B431%E6%AD%BB%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [银川市长就致31死爆炸事故道歉](https://www.baidu.com/s?wd=%E9%93%B6%E5%B7%9D%E5%B8%82%E9%95%BF%E5%B0%B1%E8%87%B431%E6%AD%BB%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [银川事故发布会现场全体默哀](https://www.baidu.com/s?wd=%E9%93%B6%E5%B7%9D%E4%BA%8B%E6%95%85%E5%8F%91%E5%B8%83%E4%BC%9A%E7%8E%B0%E5%9C%BA%E5%85%A8%E4%BD%93%E9%BB%98%E5%93%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [文化兴国运兴 文化强民族强](https://www.baidu.com/s?wd=%E6%96%87%E5%8C%96%E5%85%B4%E5%9B%BD%E8%BF%90%E5%85%B4+%E6%96%87%E5%8C%96%E5%BC%BA%E6%B0%91%E6%97%8F%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [银川事故发布会现场全体默哀](https://www.baidu.com/s?wd=%E9%93%B6%E5%B7%9D%E4%BA%8B%E6%95%85%E5%8F%91%E5%B8%83%E4%BC%9A%E7%8E%B0%E5%9C%BA%E5%85%A8%E4%BD%93%E9%BB%98%E5%93%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [失联泰坦尼克号观光艇氧气耗尽](https://www.baidu.com/s?wd=%E5%A4%B1%E8%81%94%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7%E8%A7%82%E5%85%89%E8%89%87%E6%B0%A7%E6%B0%94%E8%80%97%E5%B0%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [广东一龙舟侧翻致1死1失联](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E9%BE%99%E8%88%9F%E4%BE%A7%E7%BF%BB%E8%87%B41%E6%AD%BB1%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [巴菲特又捐赠46亿美元股票](https://www.baidu.com/s?wd=%E5%B7%B4%E8%8F%B2%E7%89%B9%E5%8F%88%E6%8D%90%E8%B5%A046%E4%BA%BF%E7%BE%8E%E5%85%83%E8%82%A1%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [张兰回应大S怀孕传闻](https://www.baidu.com/s?wd=%E5%BC%A0%E5%85%B0%E5%9B%9E%E5%BA%94%E5%A4%A7S%E6%80%80%E5%AD%95%E4%BC%A0%E9%97%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [失联泰坦尼克号观光艇氧气耗尽](https://www.baidu.com/s?wd=%E5%A4%B1%E8%81%94%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7%E8%A7%82%E5%85%89%E8%89%87%E6%B0%A7%E6%B0%94%E8%80%97%E5%B0%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [新任公安部禁毒局局长首次公开亮相](https://www.baidu.com/s?wd=%E6%96%B0%E4%BB%BB%E5%85%AC%E5%AE%89%E9%83%A8%E7%A6%81%E6%AF%92%E5%B1%80%E5%B1%80%E9%95%BF%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80%E4%BA%AE%E7%9B%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [巴菲特又捐赠46亿美元股票](https://www.baidu.com/s?wd=%E5%B7%B4%E8%8F%B2%E7%89%B9%E5%8F%88%E6%8D%90%E8%B5%A046%E4%BA%BF%E7%BE%8E%E5%85%83%E8%82%A1%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [张兰回应大S怀孕传闻](https://www.baidu.com/s?wd=%E5%BC%A0%E5%85%B0%E5%9B%9E%E5%BA%94%E5%A4%A7S%E6%80%80%E5%AD%95%E4%BC%A0%E9%97%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
