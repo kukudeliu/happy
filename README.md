@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 16:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 16:48:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [为什么现在原生家庭的问题这么严重？](https://www.zhihu.com/question/573338695)<br />
 5. [NBA 三方交易接近达成，波尔津吉斯去绿军，斯玛特加盟灰熊，奇才得泰厄斯琼斯，如何评价这项交易？](https://www.zhihu.com/question/607968898)<br />
 6. [宁夏银川发生燃气爆炸事故造成 38 人伤亡，其中 31 人死亡，7 人仍在救治中，具体情况如何？](https://www.zhihu.com/question/607961203)<br />
-7. [纽卡斯尔接近签下 AC 米兰中场核心托纳利，转会费预计 7000 万欧，如何评价这笔转会交易？](https://www.zhihu.com/question/607968593)<br />
-8. []()<br />
-9. [旅途中，有哪些遗憾让你至今难以释怀？](https://www.zhihu.com/question/21038225)<br />
+7. []()<br />
+8. [纽卡斯尔接近签下 AC 米兰中场核心托纳利，转会费预计 7000 万欧，如何评价这笔转会交易？](https://www.zhihu.com/question/607968593)<br />
+9. []()<br />
 
 > 百度  
 
@@ -30,7 +30,7 @@
 2. [实地探访银川烧烤店爆炸事故现场](https://www.baidu.com/s?wd=%E5%AE%9E%E5%9C%B0%E6%8E%A2%E8%AE%BF%E9%93%B6%E5%B7%9D%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [失联泰坦尼克号观光艇氧气将耗尽](https://www.baidu.com/s?wd=%E5%A4%B1%E8%81%94%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7%E8%A7%82%E5%85%89%E8%89%87%E6%B0%A7%E6%B0%94%E5%B0%86%E8%80%97%E5%B0%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [文化兴国运兴 文化强民族强](https://www.baidu.com/s?wd=%E6%96%87%E5%8C%96%E5%85%B4%E5%9B%BD%E8%BF%90%E5%85%B4+%E6%96%87%E5%8C%96%E5%BC%BA%E6%B0%91%E6%97%8F%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [新任公安部禁毒局局长首次公开亮相](https://www.baidu.com/s?wd=%E6%96%B0%E4%BB%BB%E5%85%AC%E5%AE%89%E9%83%A8%E7%A6%81%E6%AF%92%E5%B1%80%E5%B1%80%E9%95%BF%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80%E4%BA%AE%E7%9B%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [北京汤河口41.8℃高温冲上全国第一](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E6%B1%A4%E6%B2%B3%E5%8F%A341.8%E2%84%83%E9%AB%98%E6%B8%A9%E5%86%B2%E4%B8%8A%E5%85%A8%E5%9B%BD%E7%AC%AC%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [张兰回应大S怀孕传闻](https://www.baidu.com/s?wd=%E5%BC%A0%E5%85%B0%E5%9B%9E%E5%BA%94%E5%A4%A7S%E6%80%80%E5%AD%95%E4%BC%A0%E9%97%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子连生6女被要求生子想离婚遭驳回](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%BF%9E%E7%94%9F6%E5%A5%B3%E8%A2%AB%E8%A6%81%E6%B1%82%E7%94%9F%E5%AD%90%E6%83%B3%E7%A6%BB%E5%A9%9A%E9%81%AD%E9%A9%B3%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子地铁上数次扇脸女子质问爱谁](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%B0%E9%93%81%E4%B8%8A%E6%95%B0%E6%AC%A1%E6%89%87%E8%84%B8%E5%A5%B3%E5%AD%90%E8%B4%A8%E9%97%AE%E7%88%B1%E8%B0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -42,7 +42,7 @@
 2. [实地探访银川烧烤店爆炸事故现场](https://www.baidu.com/s?wd=%E5%AE%9E%E5%9C%B0%E6%8E%A2%E8%AE%BF%E9%93%B6%E5%B7%9D%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [失联泰坦尼克号观光艇氧气将耗尽](https://www.baidu.com/s?wd=%E5%A4%B1%E8%81%94%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7%E8%A7%82%E5%85%89%E8%89%87%E6%B0%A7%E6%B0%94%E5%B0%86%E8%80%97%E5%B0%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [文化兴国运兴 文化强民族强](https://www.baidu.com/s?wd=%E6%96%87%E5%8C%96%E5%85%B4%E5%9B%BD%E8%BF%90%E5%85%B4+%E6%96%87%E5%8C%96%E5%BC%BA%E6%B0%91%E6%97%8F%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [新任公安部禁毒局局长首次公开亮相](https://www.baidu.com/s?wd=%E6%96%B0%E4%BB%BB%E5%85%AC%E5%AE%89%E9%83%A8%E7%A6%81%E6%AF%92%E5%B1%80%E5%B1%80%E9%95%BF%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80%E4%BA%AE%E7%9B%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [北京汤河口41.8℃高温冲上全国第一](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E6%B1%A4%E6%B2%B3%E5%8F%A341.8%E2%84%83%E9%AB%98%E6%B8%A9%E5%86%B2%E4%B8%8A%E5%85%A8%E5%9B%BD%E7%AC%AC%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [张兰回应大S怀孕传闻](https://www.baidu.com/s?wd=%E5%BC%A0%E5%85%B0%E5%9B%9E%E5%BA%94%E5%A4%A7S%E6%80%80%E5%AD%95%E4%BC%A0%E9%97%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子连生6女被要求生子想离婚遭驳回](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%BF%9E%E7%94%9F6%E5%A5%B3%E8%A2%AB%E8%A6%81%E6%B1%82%E7%94%9F%E5%AD%90%E6%83%B3%E7%A6%BB%E5%A9%9A%E9%81%AD%E9%A9%B3%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子地铁上数次扇脸女子质问爱谁](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%B0%E9%93%81%E4%B8%8A%E6%95%B0%E6%AC%A1%E6%89%87%E8%84%B8%E5%A5%B3%E5%AD%90%E8%B4%A8%E9%97%AE%E7%88%B1%E8%B0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
