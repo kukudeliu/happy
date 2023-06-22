@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 07:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 07:22:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [银川烧烤店爆炸事故伤者家属发声](https://s.weibo.com/weibo?q=%23%E9%93%B6%E5%B7%9D%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E4%BC%A4%E8%80%85%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0%23&t=31&band_rank=6&Refer=top)<br />
 7. [马伯庸 别人发端午安康我回复端午快乐](https://s.weibo.com/weibo?q=%E9%A9%AC%E4%BC%AF%E5%BA%B8%20%E5%88%AB%E4%BA%BA%E5%8F%91%E7%AB%AF%E5%8D%88%E5%AE%89%E5%BA%B7%E6%88%91%E5%9B%9E%E5%A4%8D%E7%AB%AF%E5%8D%88%E5%BF%AB%E4%B9%90&t=31&band_rank=7&Refer=top)<br />
 8. [消失的她票房](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%88%BF&t=31&band_rank=8&Refer=top)<br />
-9. [这粽子是犯了天条吗被绑成这样](https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%B2%BD%E5%AD%90%E6%98%AF%E7%8A%AF%E4%BA%86%E5%A4%A9%E6%9D%A1%E5%90%97%E8%A2%AB%E7%BB%91%E6%88%90%E8%BF%99%E6%A0%B7%23&t=31&band_rank=9&Refer=top)<br />
+9. [专家称泰坦号或已断电进水](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%B3%B0%E5%9D%A6%E5%8F%B7%E6%88%96%E5%B7%B2%E6%96%AD%E7%94%B5%E8%BF%9B%E6%B0%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -20,9 +20,9 @@
 4. [上海二手房挂牌量增速全国第一，挂牌数达 18 万套，有中介接受火锅券冲抵中介费，如何看待上海楼市行情？](https://www.zhihu.com/question/607907674)<br />
 5. [全国结婚登记量跌破 700 万对，创 37 年来新低，年轻人「爱」不起了吗？](https://www.zhihu.com/question/607996046)<br />
 6. [一个村超都搞得有声有色，为啥中国足球人人唾弃，真的是规则出了问题？](https://www.zhihu.com/question/606948461)<br />
-7. [美海岸警卫队炮舰过航台湾海峡，中国海警舰艇对其全程跟监警戒，还有哪些信息值得关注？](https://www.zhihu.com/question/607981759)<br />
-8. []()<br />
-9. [如何评价周润发在电影《别叫我「赌神」》中的表现？](https://www.zhihu.com/question/607674958)<br />
+7. []()<br />
+8. [如何评价《英雄联盟》新英雄「百裂冥犬」纳亚菲利？](https://www.zhihu.com/question/607827052)<br />
+9. [2023 LPL 夏季赛 Uzi 不敌老东家，RNG 2:0 击败 EDG，如何评价这场比赛？](https://www.zhihu.com/question/608001150)<br />
 
 > 百度  
 
