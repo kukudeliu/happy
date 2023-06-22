@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 10:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 10:45:02</h4></div>
 
 > 微博  
 
@@ -27,10 +27,10 @@
 > 百度  
 
 1. [龙舟破浪“粽”安康](https://www.baidu.com/s?wd=%E9%BE%99%E8%88%9F%E7%A0%B4%E6%B5%AA%E2%80%9C%E7%B2%BD%E2%80%9D%E5%AE%89%E5%BA%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [宁夏烧烤店爆炸致31死](https://www.baidu.com/s?wd=%E5%AE%81%E5%A4%8F%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E8%87%B431%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [甜粽和咸粽又开始吵架了](https://www.baidu.com/s?wd=%E7%94%9C%E7%B2%BD%E5%92%8C%E5%92%B8%E7%B2%BD%E5%8F%88%E5%BC%80%E5%A7%8B%E5%90%B5%E6%9E%B6%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [甜粽和咸粽又开始吵架了](https://www.baidu.com/s?wd=%E7%94%9C%E7%B2%BD%E5%92%8C%E5%92%B8%E7%B2%BD%E5%8F%88%E5%BC%80%E5%A7%8B%E5%90%B5%E6%9E%B6%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [健美比赛女模特扔高跟鞋砸评委](https://www.baidu.com/s?wd=%E5%81%A5%E7%BE%8E%E6%AF%94%E8%B5%9B%E5%A5%B3%E6%A8%A1%E7%89%B9%E6%89%94%E9%AB%98%E8%B7%9F%E9%9E%8B%E7%A0%B8%E8%AF%84%E5%A7%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“上天入海” 这些重大项目频传捷报](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%8A%E5%A4%A9%E5%85%A5%E6%B5%B7%E2%80%9D+%E8%BF%99%E4%BA%9B%E9%87%8D%E5%A4%A7%E9%A1%B9%E7%9B%AE%E9%A2%91%E4%BC%A0%E6%8D%B7%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [端午节有多堵？开车1小时仅走1公里](https://www.baidu.com/s?wd=%E7%AB%AF%E5%8D%88%E8%8A%82%E6%9C%89%E5%A4%9A%E5%A0%B5%EF%BC%9F%E5%BC%80%E8%BD%A61%E5%B0%8F%E6%97%B6%E4%BB%85%E8%B5%B01%E5%85%AC%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [宁夏烧烤店爆炸致31死](https://www.baidu.com/s?wd=%E5%AE%81%E5%A4%8F%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E8%87%B431%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [古巨基采访王菲被鸟屎砸到头](https://www.baidu.com/s?wd=%E5%8F%A4%E5%B7%A8%E5%9F%BA%E9%87%87%E8%AE%BF%E7%8E%8B%E8%8F%B2%E8%A2%AB%E9%B8%9F%E5%B1%8E%E7%A0%B8%E5%88%B0%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [北京大爷不想让孩子要孩子](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%A4%A7%E7%88%B7%E4%B8%8D%E6%83%B3%E8%AE%A9%E5%AD%A9%E5%AD%90%E8%A6%81%E5%AD%A9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [带48斤毒品入境首都机场 男子获死刑](https://www.baidu.com/s?wd=%E5%B8%A648%E6%96%A4%E6%AF%92%E5%93%81%E5%85%A5%E5%A2%83%E9%A6%96%E9%83%BD%E6%9C%BA%E5%9C%BA+%E7%94%B7%E5%AD%90%E8%8E%B7%E6%AD%BB%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -39,10 +39,10 @@
 > 哔哩哔哩  
 
 1. [龙舟破浪“粽”安康](https://www.baidu.com/s?wd=%E9%BE%99%E8%88%9F%E7%A0%B4%E6%B5%AA%E2%80%9C%E7%B2%BD%E2%80%9D%E5%AE%89%E5%BA%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [宁夏烧烤店爆炸致31死](https://www.baidu.com/s?wd=%E5%AE%81%E5%A4%8F%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E8%87%B431%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [甜粽和咸粽又开始吵架了](https://www.baidu.com/s?wd=%E7%94%9C%E7%B2%BD%E5%92%8C%E5%92%B8%E7%B2%BD%E5%8F%88%E5%BC%80%E5%A7%8B%E5%90%B5%E6%9E%B6%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [甜粽和咸粽又开始吵架了](https://www.baidu.com/s?wd=%E7%94%9C%E7%B2%BD%E5%92%8C%E5%92%B8%E7%B2%BD%E5%8F%88%E5%BC%80%E5%A7%8B%E5%90%B5%E6%9E%B6%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [健美比赛女模特扔高跟鞋砸评委](https://www.baidu.com/s?wd=%E5%81%A5%E7%BE%8E%E6%AF%94%E8%B5%9B%E5%A5%B3%E6%A8%A1%E7%89%B9%E6%89%94%E9%AB%98%E8%B7%9F%E9%9E%8B%E7%A0%B8%E8%AF%84%E5%A7%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“上天入海” 这些重大项目频传捷报](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%8A%E5%A4%A9%E5%85%A5%E6%B5%B7%E2%80%9D+%E8%BF%99%E4%BA%9B%E9%87%8D%E5%A4%A7%E9%A1%B9%E7%9B%AE%E9%A2%91%E4%BC%A0%E6%8D%B7%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [端午节有多堵？开车1小时仅走1公里](https://www.baidu.com/s?wd=%E7%AB%AF%E5%8D%88%E8%8A%82%E6%9C%89%E5%A4%9A%E5%A0%B5%EF%BC%9F%E5%BC%80%E8%BD%A61%E5%B0%8F%E6%97%B6%E4%BB%85%E8%B5%B01%E5%85%AC%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [宁夏烧烤店爆炸致31死](https://www.baidu.com/s?wd=%E5%AE%81%E5%A4%8F%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E8%87%B431%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [古巨基采访王菲被鸟屎砸到头](https://www.baidu.com/s?wd=%E5%8F%A4%E5%B7%A8%E5%9F%BA%E9%87%87%E8%AE%BF%E7%8E%8B%E8%8F%B2%E8%A2%AB%E9%B8%9F%E5%B1%8E%E7%A0%B8%E5%88%B0%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [北京大爷不想让孩子要孩子](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%A4%A7%E7%88%B7%E4%B8%8D%E6%83%B3%E8%AE%A9%E5%AD%A9%E5%AD%90%E8%A6%81%E5%AD%A9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [带48斤毒品入境首都机场 男子获死刑](https://www.baidu.com/s?wd=%E5%B8%A648%E6%96%A4%E6%AF%92%E5%93%81%E5%85%A5%E5%A2%83%E9%A6%96%E9%83%BD%E6%9C%BA%E5%9C%BA+%E7%94%B7%E5%AD%90%E8%8E%B7%E6%AD%BB%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
