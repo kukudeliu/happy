@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 11:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 11:07:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [5岁时的韩安冉](https://s.weibo.com/weibo?q=%235%E5%B2%81%E6%97%B6%E7%9A%84%E9%9F%A9%E5%AE%89%E5%86%89%23&t=31&band_rank=5&Refer=top)<br />
 6. [广东人为什么普遍都很瘦](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E6%99%AE%E9%81%8D%E9%83%BD%E5%BE%88%E7%98%A6%23&t=31&band_rank=6&Refer=top)<br />
 7. [为什么大家都不再发朋友圈了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%A7%E5%AE%B6%E9%83%BD%E4%B8%8D%E5%86%8D%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [张艺兴点赞了EXO回归预告](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E7%82%B9%E8%B5%9E%E4%BA%86EXO%E5%9B%9E%E5%BD%92%E9%A2%84%E5%91%8A%23&t=31&band_rank=8&Refer=top)<br />
-9. [十个勤天](https://s.weibo.com/weibo?q=%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9&t=31&band_rank=9&Refer=top)<br />
+8. [十个勤天](https://s.weibo.com/weibo?q=%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9&t=31&band_rank=8&Refer=top)<br />
+9. [张艺兴点赞了EXO回归预告](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E7%82%B9%E8%B5%9E%E4%BA%86EXO%E5%9B%9E%E5%BD%92%E9%A2%84%E5%91%8A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
