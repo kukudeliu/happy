@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 11:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 11:44:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [马伯骞你是真的火了](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%BC%AF%E9%AA%9E%E4%BD%A0%E6%98%AF%E7%9C%9F%E7%9A%84%E7%81%AB%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [为什么大家都不再发朋友圈了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%A7%E5%AE%B6%E9%83%BD%E4%B8%8D%E5%86%8D%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [广东人为什么普遍都很瘦](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E6%99%AE%E9%81%8D%E9%83%BD%E5%BE%88%E7%98%A6%23&t=31&band_rank=8&Refer=top)<br />
-9. [在公司穿短裤被同事投诉了](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E5%85%AC%E5%8F%B8%E7%A9%BF%E7%9F%AD%E8%A3%A4%E8%A2%AB%E5%90%8C%E4%BA%8B%E6%8A%95%E8%AF%89%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [目击者讲述银川烧烤店爆炸](https://s.weibo.com/weibo?q=%23%E7%9B%AE%E5%87%BB%E8%80%85%E8%AE%B2%E8%BF%B0%E9%93%B6%E5%B7%9D%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -20,8 +20,8 @@
 4. [两名中国公民在美被定罪，外交部称「敦促美方立即纠正错误」，有哪些信息值得关注？](https://www.zhihu.com/question/607819218)<br />
 5. [布林肯结束访华，外交部美大司司长十答中美问题，更多细节披露，哪些信息值得关注？](https://www.zhihu.com/question/607816687)<br />
 6. [自曝「在马尔代夫遭性侵」中国女生称「已致函马尔代夫总统求助」，此前称当地警方不作为，如何看待事件发展？](https://www.zhihu.com/question/607809339)<br />
-7. [研究发现燃气灶增加患白血病风险，苯浓度超二手烟，这一发现具有哪些意义？生活中使用燃气灶如何降低伤害？](https://www.zhihu.com/question/607771756)<br />
-8. [女孩考出青海农村发现母亲婚姻中「父亲缺位」以及「家族重男轻女」的悲剧，如何看待这类婚姻？](https://www.zhihu.com/question/607784642)<br />
+7. [女孩考出青海农村发现母亲婚姻中「父亲缺位」以及「家族重男轻女」的悲剧，如何看待这类婚姻？](https://www.zhihu.com/question/607784642)<br />
+8. [研究发现燃气灶增加患白血病风险，苯浓度超二手烟，这一发现具有哪些意义？生活中使用燃气灶如何降低伤害？](https://www.zhihu.com/question/607771756)<br />
 9. [有什么适合端午节发的文艺文案？](https://www.zhihu.com/question/463413992)<br />
 
 > 百度  
