@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 21:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 21:09:02</h4></div>
 
 > 微博  
 
@@ -17,11 +17,11 @@
 1. [数据称应届大学生就业重心继续下沉，越来越多应届生回县城考公，如何看待此现象？反映出哪些问题？](https://www.zhihu.com/question/607781746)<br />
 2. [上海二手房挂牌量增速全国第一，挂牌数达 18 万套，有中介接受火锅券冲抵中介费，如何看待上海楼市行情？](https://www.zhihu.com/question/607907674)<br />
 3. [一个村超都搞得有声有色，为啥中国足球人人唾弃，真的是规则出了问题？](https://www.zhihu.com/question/606948461)<br />
-4. [美海岸警卫队炮舰过航台湾海峡，中国海警舰艇对其全程跟监警戒，还有哪些信息值得关注？](https://www.zhihu.com/question/607981759)<br />
+4. [6 月 22 日华北多地高温，北京冲上 40℃，系 9 年来首次，背后原因有哪些？该如何做好防暑工作？](https://www.zhihu.com/question/607989824)<br />
 5. [人类学、社会学和历史学，是不是毕业即失业？怎么衡量自己适不适合？](https://www.zhihu.com/theater/113436)<br />
 6. [宁夏银川发生燃气爆炸事故造成 38 人伤亡，其中 31 人死亡，7 人仍在救治中，具体情况如何？](https://www.zhihu.com/question/607961203)<br />
-7. [6 月 22 日华北多地高温，北京冲上 40℃，系 9 年来首次，背后原因有哪些？该如何做好防暑工作？](https://www.zhihu.com/question/607989824)<br />
-8. [村超还能存在多久，是否打了足联与各大俱乐部的脸？](https://www.zhihu.com/question/606520764)<br />
+7. [村超还能存在多久，是否打了足联与各大俱乐部的脸？](https://www.zhihu.com/question/606520764)<br />
+8. [美海岸警卫队炮舰过航台湾海峡，中国海警舰艇对其全程跟监警戒，还有哪些信息值得关注？](https://www.zhihu.com/question/607981759)<br />
 9. [全国结婚登记量跌破 700 万对，创 37 年来新低，年轻人「爱」不起了吗？](https://www.zhihu.com/question/607996046)<br />
 
 > 百度  
@@ -32,9 +32,9 @@
 4. [文化兴国运兴 文化强民族强](https://www.baidu.com/s?wd=%E6%96%87%E5%8C%96%E5%85%B4%E5%9B%BD%E8%BF%90%E5%85%B4+%E6%96%87%E5%8C%96%E5%BC%BA%E6%B0%91%E6%97%8F%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [失联泰坦尼克号观光艇氧气耗尽](https://www.baidu.com/s?wd=%E5%A4%B1%E8%81%94%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7%E8%A7%82%E5%85%89%E8%89%87%E6%B0%A7%E6%B0%94%E8%80%97%E5%B0%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [旅欧游客深夜被扔在意大利街头](https://www.baidu.com/s?wd=%E6%97%85%E6%AC%A7%E6%B8%B8%E5%AE%A2%E6%B7%B1%E5%A4%9C%E8%A2%AB%E6%89%94%E5%9C%A8%E6%84%8F%E5%A4%A7%E5%88%A9%E8%A1%97%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [网友端午节前偶遇钟南山院士查房](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%AB%AF%E5%8D%88%E8%8A%82%E5%89%8D%E5%81%B6%E9%81%87%E9%92%9F%E5%8D%97%E5%B1%B1%E9%99%A2%E5%A3%AB%E6%9F%A5%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [父亲回应女儿在坟前跳舞被质疑炒作](https://www.baidu.com/s?wd=%E7%88%B6%E4%BA%B2%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%84%BF%E5%9C%A8%E5%9D%9F%E5%89%8D%E8%B7%B3%E8%88%9E%E8%A2%AB%E8%B4%A8%E7%96%91%E7%82%92%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [《庆余年》导演回应阵容调整](https://www.baidu.com/s?wd=%E3%80%8A%E5%BA%86%E4%BD%99%E5%B9%B4%E3%80%8B%E5%AF%BC%E6%BC%94%E5%9B%9E%E5%BA%94%E9%98%B5%E5%AE%B9%E8%B0%83%E6%95%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [银川多家餐饮店使用液化气罐](https://www.baidu.com/s?wd=%E9%93%B6%E5%B7%9D%E5%A4%9A%E5%AE%B6%E9%A4%90%E9%A5%AE%E5%BA%97%E4%BD%BF%E7%94%A8%E6%B6%B2%E5%8C%96%E6%B0%94%E7%BD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [银川爆炸事故7名伤员均无生命危险](https://www.baidu.com/s?wd=%E9%93%B6%E5%B7%9D%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%857%E5%90%8D%E4%BC%A4%E5%91%98%E5%9D%87%E6%97%A0%E7%94%9F%E5%91%BD%E5%8D%B1%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [文化兴国运兴 文化强民族强](https://www.baidu.com/s?wd=%E6%96%87%E5%8C%96%E5%85%B4%E5%9B%BD%E8%BF%90%E5%85%B4+%E6%96%87%E5%8C%96%E5%BC%BA%E6%B0%91%E6%97%8F%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [失联泰坦尼克号观光艇氧气耗尽](https://www.baidu.com/s?wd=%E5%A4%B1%E8%81%94%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7%E8%A7%82%E5%85%89%E8%89%87%E6%B0%A7%E6%B0%94%E8%80%97%E5%B0%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [旅欧游客深夜被扔在意大利街头](https://www.baidu.com/s?wd=%E6%97%85%E6%AC%A7%E6%B8%B8%E5%AE%A2%E6%B7%B1%E5%A4%9C%E8%A2%AB%E6%89%94%E5%9C%A8%E6%84%8F%E5%A4%A7%E5%88%A9%E8%A1%97%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [网友端午节前偶遇钟南山院士查房](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%AB%AF%E5%8D%88%E8%8A%82%E5%89%8D%E5%81%B6%E9%81%87%E9%92%9F%E5%8D%97%E5%B1%B1%E9%99%A2%E5%A3%AB%E6%9F%A5%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [父亲回应女儿在坟前跳舞被质疑炒作](https://www.baidu.com/s?wd=%E7%88%B6%E4%BA%B2%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%84%BF%E5%9C%A8%E5%9D%9F%E5%89%8D%E8%B7%B3%E8%88%9E%E8%A2%AB%E8%B4%A8%E7%96%91%E7%82%92%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [《庆余年》导演回应阵容调整](https://www.baidu.com/s?wd=%E3%80%8A%E5%BA%86%E4%BD%99%E5%B9%B4%E3%80%8B%E5%AF%BC%E6%BC%94%E5%9B%9E%E5%BA%94%E9%98%B5%E5%AE%B9%E8%B0%83%E6%95%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [银川多家餐饮店使用液化气罐](https://www.baidu.com/s?wd=%E9%93%B6%E5%B7%9D%E5%A4%9A%E5%AE%B6%E9%A4%90%E9%A5%AE%E5%BA%97%E4%BD%BF%E7%94%A8%E6%B6%B2%E5%8C%96%E6%B0%94%E7%BD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [银川爆炸事故7名伤员均无生命危险](https://www.baidu.com/s?wd=%E9%93%B6%E5%B7%9D%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%857%E5%90%8D%E4%BC%A4%E5%91%98%E5%9D%87%E6%97%A0%E7%94%9F%E5%91%BD%E5%8D%B1%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
