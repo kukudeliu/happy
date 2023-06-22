@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 13:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 13:40:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [赛龙舟不只是一群人一起划划船](https://s.weibo.com/weibo?q=%23%E8%B5%9B%E9%BE%99%E8%88%9F%E4%B8%8D%E5%8F%AA%E6%98%AF%E4%B8%80%E7%BE%A4%E4%BA%BA%E4%B8%80%E8%B5%B7%E5%88%92%E5%88%92%E8%88%B9%23&t=31&band_rank=3&Refer=top)<br />
 4. [银川烧烤店爆炸事故31人经抢救无效死亡](https://s.weibo.com/weibo?q=%23%E9%93%B6%E5%B7%9D%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%8531%E4%BA%BA%E7%BB%8F%E6%8A%A2%E6%95%91%E6%97%A0%E6%95%88%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=4&Refer=top)<br />
 5. [失联泰坦尼克号观光艇氧气即将耗尽](https://s.weibo.com/weibo?q=%23%E5%A4%B1%E8%81%94%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7%E8%A7%82%E5%85%89%E8%89%87%E6%B0%A7%E6%B0%94%E5%8D%B3%E5%B0%86%E8%80%97%E5%B0%BD%23&t=31&band_rank=5&Refer=top)<br />
-6. [烧烤店疑更换液化气罐阀门过程中爆炸](https://s.weibo.com/weibo?q=%23%E7%83%A7%E7%83%A4%E5%BA%97%E7%96%91%E6%9B%B4%E6%8D%A2%E6%B6%B2%E5%8C%96%E6%B0%94%E7%BD%90%E9%98%80%E9%97%A8%E8%BF%87%E7%A8%8B%E4%B8%AD%E7%88%86%E7%82%B8%23&t=31&band_rank=6&Refer=top)<br />
-7. [手机号实名制已经10年了](https://s.weibo.com/weibo?q=%E6%89%8B%E6%9C%BA%E5%8F%B7%E5%AE%9E%E5%90%8D%E5%88%B6%E5%B7%B2%E7%BB%8F10%E5%B9%B4%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
+6. [手机号实名制已经10年了](https://s.weibo.com/weibo?q=%E6%89%8B%E6%9C%BA%E5%8F%B7%E5%AE%9E%E5%90%8D%E5%88%B6%E5%B7%B2%E7%BB%8F10%E5%B9%B4%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
+7. [烧烤店疑更换液化气罐阀门过程中爆炸](https://s.weibo.com/weibo?q=%23%E7%83%A7%E7%83%A4%E5%BA%97%E7%96%91%E6%9B%B4%E6%8D%A2%E6%B6%B2%E5%8C%96%E6%B0%94%E7%BD%90%E9%98%80%E9%97%A8%E8%BF%87%E7%A8%8B%E4%B8%AD%E7%88%86%E7%82%B8%23&t=31&band_rank=7&Refer=top)<br />
 8. [倪妮 文咏珊](https://s.weibo.com/weibo?q=%E5%80%AA%E5%A6%AE%20%E6%96%87%E5%92%8F%E7%8F%8A&t=31&band_rank=8&Refer=top)<br />
 9. [曾黎见到老同学狂奔5米合照](https://s.weibo.com/weibo?q=%23%E6%9B%BE%E9%BB%8E%E8%A7%81%E5%88%B0%E8%80%81%E5%90%8C%E5%AD%A6%E7%8B%82%E5%A5%945%E7%B1%B3%E5%90%88%E7%85%A7%23&t=31&band_rank=9&Refer=top)<br />
 
