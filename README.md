@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 19:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 19:09:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [广东一龙舟侧翻致1死1失联](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E9%BE%99%E8%88%9F%E4%BE%A7%E7%BF%BB%E8%87%B41%E6%AD%BB1%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [电影《消失的她》实时票房破亿](https://www.baidu.com/s?wd=%E7%94%B5%E5%BD%B1%E3%80%8A%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E3%80%8B%E5%AE%9E%E6%97%B6%E7%A5%A8%E6%88%BF%E7%A0%B4%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [国人买iPhone14Pro需9.5%年收入？](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%BA%E4%B9%B0iPhone14Pro%E9%9C%809.5%25%E5%B9%B4%E6%94%B6%E5%85%A5%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [莫迪送拜登夫人7.5克拉“绿钻”](https://www.baidu.com/s?wd=%E8%8E%AB%E8%BF%AA%E9%80%81%E6%8B%9C%E7%99%BB%E5%A4%AB%E4%BA%BA7.5%E5%85%8B%E6%8B%89%E2%80%9C%E7%BB%BF%E9%92%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [巴菲特又捐赠46亿美元股票](https://www.baidu.com/s?wd=%E5%B7%B4%E8%8F%B2%E7%89%B9%E5%8F%88%E6%8D%90%E8%B5%A046%E4%BA%BF%E7%BE%8E%E5%85%83%E8%82%A1%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [广东一龙舟侧翻致1死1失联](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E9%BE%99%E8%88%9F%E4%BE%A7%E7%BF%BB%E8%87%B41%E6%AD%BB1%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [电影《消失的她》实时票房破亿](https://www.baidu.com/s?wd=%E7%94%B5%E5%BD%B1%E3%80%8A%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E3%80%8B%E5%AE%9E%E6%97%B6%E7%A5%A8%E6%88%BF%E7%A0%B4%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [国人买iPhone14Pro需9.5%年收入？](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%BA%E4%B9%B0iPhone14Pro%E9%9C%809.5%25%E5%B9%B4%E6%94%B6%E5%85%A5%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [莫迪送拜登夫人7.5克拉“绿钻”](https://www.baidu.com/s?wd=%E8%8E%AB%E8%BF%AA%E9%80%81%E6%8B%9C%E7%99%BB%E5%A4%AB%E4%BA%BA7.5%E5%85%8B%E6%8B%89%E2%80%9C%E7%BB%BF%E9%92%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [巴菲特又捐赠46亿美元股票](https://www.baidu.com/s?wd=%E5%B7%B4%E8%8F%B2%E7%89%B9%E5%8F%88%E6%8D%90%E8%B5%A046%E4%BA%BF%E7%BE%8E%E5%85%83%E8%82%A1%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
