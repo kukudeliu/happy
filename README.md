@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 16:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 16:40:01</h4></div>
 
 > 微博  
 
@@ -9,15 +9,15 @@
 5. [拉夏贝尔正式破产清算](https://s.weibo.com/weibo?q=%23%E6%8B%89%E5%A4%8F%E8%B4%9D%E5%B0%94%E6%AD%A3%E5%BC%8F%E7%A0%B4%E4%BA%A7%E6%B8%85%E7%AE%97%23&t=31&band_rank=5&Refer=top)<br />
 6. [迪丽热巴的项链好特别](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9A%84%E9%A1%B9%E9%93%BE%E5%A5%BD%E7%89%B9%E5%88%AB%23&t=31&band_rank=6&Refer=top)<br />
 7. [河北科技大学通报学生跳楼身亡](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8C%97%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E9%80%9A%E6%8A%A5%E5%AD%A6%E7%94%9F%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=7&Refer=top)<br />
-8. [目击者称烧烤店楼梯炸没了难以逃生](https://s.weibo.com/weibo?q=%23%E7%9B%AE%E5%87%BB%E8%80%85%E7%A7%B0%E7%83%A7%E7%83%A4%E5%BA%97%E6%A5%BC%E6%A2%AF%E7%82%B8%E6%B2%A1%E4%BA%86%E9%9A%BE%E4%BB%A5%E9%80%83%E7%94%9F%23&t=31&band_rank=8&Refer=top)<br />
-9. [消失的她票房](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%88%BF&t=31&band_rank=9&Refer=top)<br />
+8. [消失的她票房](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%88%BF&t=31&band_rank=8&Refer=top)<br />
+9. [目击者称烧烤店楼梯炸没了难以逃生](https://s.weibo.com/weibo?q=%23%E7%9B%AE%E5%87%BB%E8%80%85%E7%A7%B0%E7%83%A7%E7%83%A4%E5%BA%97%E6%A5%BC%E6%A2%AF%E7%82%B8%E6%B2%A1%E4%BA%86%E9%9A%BE%E4%BB%A5%E9%80%83%E7%94%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [数据称应届大学生就业重心继续下沉，越来越多应届生回县城考公，如何看待此现象？反映出哪些问题？](https://www.zhihu.com/question/607781746)<br />
 2. [上海二手房挂牌量增速全国第一，挂牌数达 18 万套，有中介接受火锅券冲抵中介费，如何看待上海楼市行情？](https://www.zhihu.com/question/607907674)<br />
 3. [美海岸警卫队炮舰过航台湾海峡，中国海警舰艇对其全程跟监警戒，还有哪些信息值得关注？](https://www.zhihu.com/question/607981759)<br />
-4. [两名中国公民在美被定罪，外交部称「敦促美方立即纠正错误」，有哪些信息值得关注？](https://www.zhihu.com/question/607819218)<br />
+4. [为什么现在原生家庭的问题这么严重？](https://www.zhihu.com/question/573338695)<br />
 5. [NBA 三方交易接近达成，波尔津吉斯去绿军，斯玛特加盟灰熊，奇才得泰厄斯琼斯，如何评价这项交易？](https://www.zhihu.com/question/607968898)<br />
 6. [宁夏银川发生燃气爆炸事故造成 38 人伤亡，其中 31 人死亡，7 人仍在救治中，具体情况如何？](https://www.zhihu.com/question/607961203)<br />
 7. [纽卡斯尔接近签下 AC 米兰中场核心托纳利，转会费预计 7000 万欧，如何评价这笔转会交易？](https://www.zhihu.com/question/607968593)<br />
