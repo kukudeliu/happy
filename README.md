@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 17:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 17:33:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [河北科技大学通报学生跳楼身亡](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8C%97%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E9%80%9A%E6%8A%A5%E5%AD%A6%E7%94%9F%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [消失的她票房](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%88%BF&t=31&band_rank=7&Refer=top)<br />
 8. [奔跑吧全员素颜](https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%E5%85%A8%E5%91%98%E7%B4%A0%E9%A2%9C%23&t=31&band_rank=8&Refer=top)<br />
-9. [失联泰坦尼克号观光艇氧气即将耗尽](https://s.weibo.com/weibo?q=%23%E5%A4%B1%E8%81%94%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7%E8%A7%82%E5%85%89%E8%89%87%E6%B0%A7%E6%B0%94%E5%8D%B3%E5%B0%86%E8%80%97%E5%B0%BD%23&t=31&band_rank=9&Refer=top)<br />
+9. [国人买iPhone14Pro需9.5%年收入](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BA%BA%E4%B9%B0iPhone14Pro%E9%9C%809.5%25%E5%B9%B4%E6%94%B6%E5%85%A5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
