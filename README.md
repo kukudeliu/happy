@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 19:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 20:00:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [EDG教练在干嘛](https://s.weibo.com/weibo?q=EDG%E6%95%99%E7%BB%83%E5%9C%A8%E5%B9%B2%E5%98%9B&t=31&band_rank=4&Refer=top)<br />
 5. [19岁藏族小伙救下掉入冰川游客](https://s.weibo.com/weibo?q=%2319%E5%B2%81%E8%97%8F%E6%97%8F%E5%B0%8F%E4%BC%99%E6%95%91%E4%B8%8B%E6%8E%89%E5%85%A5%E5%86%B0%E5%B7%9D%E6%B8%B8%E5%AE%A2%23&t=31&band_rank=5&Refer=top)<br />
 6. [伊能静晒儿子女儿合照](https://s.weibo.com/weibo?q=%23%E4%BC%8A%E8%83%BD%E9%9D%99%E6%99%92%E5%84%BF%E5%AD%90%E5%A5%B3%E5%84%BF%E5%90%88%E7%85%A7%23&t=31&band_rank=6&Refer=top)<br />
-7. [怀孕33周孕妇被2岁儿子开枪打死](https://s.weibo.com/weibo?q=%23%E6%80%80%E5%AD%9533%E5%91%A8%E5%AD%95%E5%A6%87%E8%A2%AB2%E5%B2%81%E5%84%BF%E5%AD%90%E5%BC%80%E6%9E%AA%E6%89%93%E6%AD%BB%23&t=31&band_rank=7&Refer=top)<br />
-8. [消失的她票房](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%88%BF&t=31&band_rank=8&Refer=top)<br />
-9. [15岁女生答72岁复旦教授](https://s.weibo.com/weibo?q=%2315%E5%B2%81%E5%A5%B3%E7%94%9F%E7%AD%9472%E5%B2%81%E5%A4%8D%E6%97%A6%E6%95%99%E6%8E%88%23&t=31&band_rank=9&Refer=top)<br />
+7. [消失的她票房](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%88%BF&t=31&band_rank=7&Refer=top)<br />
+8. [15岁女生答72岁复旦教授](https://s.weibo.com/weibo?q=%2315%E5%B2%81%E5%A5%B3%E7%94%9F%E7%AD%9472%E5%B2%81%E5%A4%8D%E6%97%A6%E6%95%99%E6%8E%88%23&t=31&band_rank=8&Refer=top)<br />
+9. [怀孕33周孕妇被2岁儿子开枪打死](https://s.weibo.com/weibo?q=%23%E6%80%80%E5%AD%9533%E5%91%A8%E5%AD%95%E5%A6%87%E8%A2%AB2%E5%B2%81%E5%84%BF%E5%AD%90%E5%BC%80%E6%9E%AA%E6%89%93%E6%AD%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
