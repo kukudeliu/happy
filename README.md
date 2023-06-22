@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 21:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 21:14:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [长风渡14集杀疯了](https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%A3%8E%E6%B8%A114%E9%9B%86%E6%9D%80%E7%96%AF%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [怀孕33周孕妇被2岁儿子开枪打死](https://s.weibo.com/weibo?q=%23%E6%80%80%E5%AD%9533%E5%91%A8%E5%AD%95%E5%A6%87%E8%A2%AB2%E5%B2%81%E5%84%BF%E5%AD%90%E5%BC%80%E6%9E%AA%E6%89%93%E6%AD%BB%23&t=31&band_rank=5&Refer=top)<br />
 6. [沙溢长风渡下线](https://s.weibo.com/weibo?q=%23%E6%B2%99%E6%BA%A2%E9%95%BF%E9%A3%8E%E6%B8%A1%E4%B8%8B%E7%BA%BF%23&t=31&band_rank=6&Refer=top)<br />
-7. [消失的她票房](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%88%BF&t=31&band_rank=7&Refer=top)<br />
-8. [银川市委副书记致歉](https://s.weibo.com/weibo?q=%23%E9%93%B6%E5%B7%9D%E5%B8%82%E5%A7%94%E5%89%AF%E4%B9%A6%E8%AE%B0%E8%87%B4%E6%AD%89%23&t=31&band_rank=8&Refer=top)<br />
+7. [银川市委副书记致歉](https://s.weibo.com/weibo?q=%23%E9%93%B6%E5%B7%9D%E5%B8%82%E5%A7%94%E5%89%AF%E4%B9%A6%E8%AE%B0%E8%87%B4%E6%AD%89%23&t=31&band_rank=7&Refer=top)<br />
+8. [消失的她票房](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%88%BF&t=31&band_rank=8&Refer=top)<br />
 9. [伊能静晒儿子女儿合照](https://s.weibo.com/weibo?q=%23%E4%BC%8A%E8%83%BD%E9%9D%99%E6%99%92%E5%84%BF%E5%AD%90%E5%A5%B3%E5%84%BF%E5%90%88%E7%85%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -31,9 +31,9 @@
 3. [银川事故发布会现场全体默哀](https://www.baidu.com/s?wd=%E9%93%B6%E5%B7%9D%E4%BA%8B%E6%95%85%E5%8F%91%E5%B8%83%E4%BC%9A%E7%8E%B0%E5%9C%BA%E5%85%A8%E4%BD%93%E9%BB%98%E5%93%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [文化兴国运兴 文化强民族强](https://www.baidu.com/s?wd=%E6%96%87%E5%8C%96%E5%85%B4%E5%9B%BD%E8%BF%90%E5%85%B4+%E6%96%87%E5%8C%96%E5%BC%BA%E6%B0%91%E6%97%8F%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [失联泰坦尼克号观光艇氧气耗尽](https://www.baidu.com/s?wd=%E5%A4%B1%E8%81%94%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7%E8%A7%82%E5%85%89%E8%89%87%E6%B0%A7%E6%B0%94%E8%80%97%E5%B0%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [旅欧游客深夜被扔在意大利街头](https://www.baidu.com/s?wd=%E6%97%85%E6%AC%A7%E6%B8%B8%E5%AE%A2%E6%B7%B1%E5%A4%9C%E8%A2%AB%E6%89%94%E5%9C%A8%E6%84%8F%E5%A4%A7%E5%88%A9%E8%A1%97%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [父亲回应女儿在坟前跳舞被质疑炒作](https://www.baidu.com/s?wd=%E7%88%B6%E4%BA%B2%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%84%BF%E5%9C%A8%E5%9D%9F%E5%89%8D%E8%B7%B3%E8%88%9E%E8%A2%AB%E8%B4%A8%E7%96%91%E7%82%92%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [《庆余年》导演回应阵容调整](https://www.baidu.com/s?wd=%E3%80%8A%E5%BA%86%E4%BD%99%E5%B9%B4%E3%80%8B%E5%AF%BC%E6%BC%94%E5%9B%9E%E5%BA%94%E9%98%B5%E5%AE%B9%E8%B0%83%E6%95%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [《庆余年》导演回应阵容调整](https://www.baidu.com/s?wd=%E3%80%8A%E5%BA%86%E4%BD%99%E5%B9%B4%E3%80%8B%E5%AF%BC%E6%BC%94%E5%9B%9E%E5%BA%94%E9%98%B5%E5%AE%B9%E8%B0%83%E6%95%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [网友济南街头偶遇韦东奕](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E6%B5%8E%E5%8D%97%E8%A1%97%E5%A4%B4%E5%81%B6%E9%81%87%E9%9F%A6%E4%B8%9C%E5%A5%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [银川爆炸事故7名伤员均无生命危险](https://www.baidu.com/s?wd=%E9%93%B6%E5%B7%9D%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%857%E5%90%8D%E4%BC%A4%E5%91%98%E5%9D%87%E6%97%A0%E7%94%9F%E5%91%BD%E5%8D%B1%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [《长风渡》热度破万](https://www.baidu.com/s?wd=%E3%80%8A%E9%95%BF%E9%A3%8E%E6%B8%A1%E3%80%8B%E7%83%AD%E5%BA%A6%E7%A0%B4%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -43,7 +43,7 @@
 3. [银川事故发布会现场全体默哀](https://www.baidu.com/s?wd=%E9%93%B6%E5%B7%9D%E4%BA%8B%E6%95%85%E5%8F%91%E5%B8%83%E4%BC%9A%E7%8E%B0%E5%9C%BA%E5%85%A8%E4%BD%93%E9%BB%98%E5%93%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [文化兴国运兴 文化强民族强](https://www.baidu.com/s?wd=%E6%96%87%E5%8C%96%E5%85%B4%E5%9B%BD%E8%BF%90%E5%85%B4+%E6%96%87%E5%8C%96%E5%BC%BA%E6%B0%91%E6%97%8F%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [失联泰坦尼克号观光艇氧气耗尽](https://www.baidu.com/s?wd=%E5%A4%B1%E8%81%94%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7%E8%A7%82%E5%85%89%E8%89%87%E6%B0%A7%E6%B0%94%E8%80%97%E5%B0%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [旅欧游客深夜被扔在意大利街头](https://www.baidu.com/s?wd=%E6%97%85%E6%AC%A7%E6%B8%B8%E5%AE%A2%E6%B7%B1%E5%A4%9C%E8%A2%AB%E6%89%94%E5%9C%A8%E6%84%8F%E5%A4%A7%E5%88%A9%E8%A1%97%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [父亲回应女儿在坟前跳舞被质疑炒作](https://www.baidu.com/s?wd=%E7%88%B6%E4%BA%B2%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%84%BF%E5%9C%A8%E5%9D%9F%E5%89%8D%E8%B7%B3%E8%88%9E%E8%A2%AB%E8%B4%A8%E7%96%91%E7%82%92%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [《庆余年》导演回应阵容调整](https://www.baidu.com/s?wd=%E3%80%8A%E5%BA%86%E4%BD%99%E5%B9%B4%E3%80%8B%E5%AF%BC%E6%BC%94%E5%9B%9E%E5%BA%94%E9%98%B5%E5%AE%B9%E8%B0%83%E6%95%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [《庆余年》导演回应阵容调整](https://www.baidu.com/s?wd=%E3%80%8A%E5%BA%86%E4%BD%99%E5%B9%B4%E3%80%8B%E5%AF%BC%E6%BC%94%E5%9B%9E%E5%BA%94%E9%98%B5%E5%AE%B9%E8%B0%83%E6%95%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [网友济南街头偶遇韦东奕](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E6%B5%8E%E5%8D%97%E8%A1%97%E5%A4%B4%E5%81%B6%E9%81%87%E9%9F%A6%E4%B8%9C%E5%A5%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [银川爆炸事故7名伤员均无生命危险](https://www.baidu.com/s?wd=%E9%93%B6%E5%B7%9D%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%857%E5%90%8D%E4%BC%A4%E5%91%98%E5%9D%87%E6%97%A0%E7%94%9F%E5%91%BD%E5%8D%B1%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [《长风渡》热度破万](https://www.baidu.com/s?wd=%E3%80%8A%E9%95%BF%E9%A3%8E%E6%B8%A1%E3%80%8B%E7%83%AD%E5%BA%A6%E7%A0%B4%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
