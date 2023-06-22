@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 18:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 18:29:01</h4></div>
 
 > 微博  
 
@@ -31,10 +31,10 @@
 3. [失联泰坦尼克号观光艇氧气将耗尽](https://www.baidu.com/s?wd=%E5%A4%B1%E8%81%94%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7%E8%A7%82%E5%85%89%E8%89%87%E6%B0%A7%E6%B0%94%E5%B0%86%E8%80%97%E5%B0%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [文化兴国运兴 文化强民族强](https://www.baidu.com/s?wd=%E6%96%87%E5%8C%96%E5%85%B4%E5%9B%BD%E8%BF%90%E5%85%B4+%E6%96%87%E5%8C%96%E5%BC%BA%E6%B0%91%E6%97%8F%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [莫迪送拜登夫人7.5克拉“绿钻”](https://www.baidu.com/s?wd=%E8%8E%AB%E8%BF%AA%E9%80%81%E6%8B%9C%E7%99%BB%E5%A4%AB%E4%BA%BA7.5%E5%85%8B%E6%8B%89%E2%80%9C%E7%BB%BF%E9%92%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [女子忘关火把粽子煮成黑炭](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%BF%98%E5%85%B3%E7%81%AB%E6%8A%8A%E7%B2%BD%E5%AD%90%E7%85%AE%E6%88%90%E9%BB%91%E7%82%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [国人买iPhone14Pro需9.5%年收入？](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%BA%E4%B9%B0iPhone14Pro%E9%9C%809.5%25%E5%B9%B4%E6%94%B6%E5%85%A5%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [拉夏贝尔正式破产清算](https://www.baidu.com/s?wd=%E6%8B%89%E5%A4%8F%E8%B4%9D%E5%B0%94%E6%AD%A3%E5%BC%8F%E7%A0%B4%E4%BA%A7%E6%B8%85%E7%AE%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [国人买iPhone14Pro需9.5%年收入？](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%BA%E4%B9%B0iPhone14Pro%E9%9C%809.5%25%E5%B9%B4%E6%94%B6%E5%85%A5%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子连生6女被要求生子想离婚遭驳回](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%BF%9E%E7%94%9F6%E5%A5%B3%E8%A2%AB%E8%A6%81%E6%B1%82%E7%94%9F%E5%AD%90%E6%83%B3%E7%A6%BB%E5%A9%9A%E9%81%AD%E9%A9%B3%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子连生6女被要求生子想离婚遭驳回](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%BF%9E%E7%94%9F6%E5%A5%B3%E8%A2%AB%E8%A6%81%E6%B1%82%E7%94%9F%E5%AD%90%E6%83%B3%E7%A6%BB%E5%A9%9A%E9%81%AD%E9%A9%B3%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [河北科技大学通报一本科生坠亡](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E9%80%9A%E6%8A%A5%E4%B8%80%E6%9C%AC%E7%A7%91%E7%94%9F%E5%9D%A0%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [失联泰坦尼克号观光艇氧气将耗尽](https://www.baidu.com/s?wd=%E5%A4%B1%E8%81%94%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7%E8%A7%82%E5%85%89%E8%89%87%E6%B0%A7%E6%B0%94%E5%B0%86%E8%80%97%E5%B0%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [文化兴国运兴 文化强民族强](https://www.baidu.com/s?wd=%E6%96%87%E5%8C%96%E5%85%B4%E5%9B%BD%E8%BF%90%E5%85%B4+%E6%96%87%E5%8C%96%E5%BC%BA%E6%B0%91%E6%97%8F%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [莫迪送拜登夫人7.5克拉“绿钻”](https://www.baidu.com/s?wd=%E8%8E%AB%E8%BF%AA%E9%80%81%E6%8B%9C%E7%99%BB%E5%A4%AB%E4%BA%BA7.5%E5%85%8B%E6%8B%89%E2%80%9C%E7%BB%BF%E9%92%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [女子忘关火把粽子煮成黑炭](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%BF%98%E5%85%B3%E7%81%AB%E6%8A%8A%E7%B2%BD%E5%AD%90%E7%85%AE%E6%88%90%E9%BB%91%E7%82%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [国人买iPhone14Pro需9.5%年收入？](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%BA%E4%B9%B0iPhone14Pro%E9%9C%809.5%25%E5%B9%B4%E6%94%B6%E5%85%A5%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [拉夏贝尔正式破产清算](https://www.baidu.com/s?wd=%E6%8B%89%E5%A4%8F%E8%B4%9D%E5%B0%94%E6%AD%A3%E5%BC%8F%E7%A0%B4%E4%BA%A7%E6%B8%85%E7%AE%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [国人买iPhone14Pro需9.5%年收入？](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%BA%E4%B9%B0iPhone14Pro%E9%9C%809.5%25%E5%B9%B4%E6%94%B6%E5%85%A5%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子连生6女被要求生子想离婚遭驳回](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%BF%9E%E7%94%9F6%E5%A5%B3%E8%A2%AB%E8%A6%81%E6%B1%82%E7%94%9F%E5%AD%90%E6%83%B3%E7%A6%BB%E5%A9%9A%E9%81%AD%E9%A9%B3%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子连生6女被要求生子想离婚遭驳回](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%BF%9E%E7%94%9F6%E5%A5%B3%E8%A2%AB%E8%A6%81%E6%B1%82%E7%94%9F%E5%AD%90%E6%83%B3%E7%A6%BB%E5%A9%9A%E9%81%AD%E9%A9%B3%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [河北科技大学通报一本科生坠亡](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E9%80%9A%E6%8A%A5%E4%B8%80%E6%9C%AC%E7%A7%91%E7%94%9F%E5%9D%A0%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
