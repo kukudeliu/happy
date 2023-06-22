@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 19:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 19:32:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [19岁藏族小伙救下掉入冰川游客](https://s.weibo.com/weibo?q=%2319%E5%B2%81%E8%97%8F%E6%97%8F%E5%B0%8F%E4%BC%99%E6%95%91%E4%B8%8B%E6%8E%89%E5%85%A5%E5%86%B0%E5%B7%9D%E6%B8%B8%E5%AE%A2%23&t=31&band_rank=5&Refer=top)<br />
 6. [消失的她票房](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%88%BF&t=31&band_rank=6&Refer=top)<br />
 7. [180斤男生摔伤腿体育老师背其去中考](https://s.weibo.com/weibo?q=%23180%E6%96%A4%E7%94%B7%E7%94%9F%E6%91%94%E4%BC%A4%E8%85%BF%E4%BD%93%E8%82%B2%E8%80%81%E5%B8%88%E8%83%8C%E5%85%B6%E5%8E%BB%E4%B8%AD%E8%80%83%23&t=31&band_rank=7&Refer=top)<br />
-8. [甜馨10岁身高](https://s.weibo.com/weibo?q=%23%E7%94%9C%E9%A6%A810%E5%B2%81%E8%BA%AB%E9%AB%98%23&t=31&band_rank=8&Refer=top)<br />
-9. [国人买iPhone14Pro需9.5%年收入](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BA%BA%E4%B9%B0iPhone14Pro%E9%9C%809.5%25%E5%B9%B4%E6%94%B6%E5%85%A5%23&t=31&band_rank=9&Refer=top)<br />
+8. [国人买iPhone14Pro需9.5%年收入](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BA%BA%E4%B9%B0iPhone14Pro%E9%9C%809.5%25%E5%B9%B4%E6%94%B6%E5%85%A5%23&t=31&band_rank=8&Refer=top)<br />
+9. [甜馨10岁身高](https://s.weibo.com/weibo?q=%23%E7%94%9C%E9%A6%A810%E5%B2%81%E8%BA%AB%E9%AB%98%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
