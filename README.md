@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 22:32:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 22:33:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [为什么小提琴不像吉他一样加上品格，降低入门难度？](https://www.zhihu.com/question/308921367)<br />
 6. [宁夏银川发生燃气爆炸事故造成 38 人伤亡，其中 31 人死亡，7 人仍在救治中，具体情况如何？](https://www.zhihu.com/question/607961203)<br />
 7. [U17 亚洲杯小组赛中国 0:3 沙特，1 平 2 负小组垫底出局，如何评价中国队亚洲杯上的表现？](https://www.zhihu.com/question/608014216)<br />
-8. [现在还有没感染新冠的吗？你们怎么做到的？](https://www.zhihu.com/question/576527176)<br />
-9. [电影《闪电侠》的时间逻辑是什么样的？](https://www.zhihu.com/question/607279544)<br />
+8. [电影《闪电侠》的时间逻辑是什么样的？](https://www.zhihu.com/question/607279544)<br />
+9. [现在还有没感染新冠的吗？你们怎么做到的？](https://www.zhihu.com/question/576527176)<br />
 
 > 百度  
 
