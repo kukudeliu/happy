@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 16:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 16:29:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [手机号实名制已经10年了](https://s.weibo.com/weibo?q=%E6%89%8B%E6%9C%BA%E5%8F%B7%E5%AE%9E%E5%90%8D%E5%88%B6%E5%B7%B2%E7%BB%8F10%E5%B9%B4%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [无穷小亮 有个事挺瘆得慌](https://s.weibo.com/weibo?q=%E6%97%A0%E7%A9%B7%E5%B0%8F%E4%BA%AE%20%E6%9C%89%E4%B8%AA%E4%BA%8B%E6%8C%BA%E7%98%86%E5%BE%97%E6%85%8C&t=31&band_rank=7&Refer=top)<br />
 8. [目击者称烧烤店楼梯炸没了难以逃生](https://s.weibo.com/weibo?q=%23%E7%9B%AE%E5%87%BB%E8%80%85%E7%A7%B0%E7%83%A7%E7%83%A4%E5%BA%97%E6%A5%BC%E6%A2%AF%E7%82%B8%E6%B2%A1%E4%BA%86%E9%9A%BE%E4%BB%A5%E9%80%83%E7%94%9F%23&t=31&band_rank=8&Refer=top)<br />
-9. [知情人称银川烧烤店死者死因多为窒息](https://s.weibo.com/weibo?q=%23%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0%E9%93%B6%E5%B7%9D%E7%83%A7%E7%83%A4%E5%BA%97%E6%AD%BB%E8%80%85%E6%AD%BB%E5%9B%A0%E5%A4%9A%E4%B8%BA%E7%AA%92%E6%81%AF%23&t=31&band_rank=9&Refer=top)<br />
+9. [赵丽颖红色旗袍](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%BA%A2%E8%89%B2%E6%97%97%E8%A2%8D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -32,9 +32,9 @@
 4. [文化兴国运兴 文化强民族强](https://www.baidu.com/s?wd=%E6%96%87%E5%8C%96%E5%85%B4%E5%9B%BD%E8%BF%90%E5%85%B4+%E6%96%87%E5%8C%96%E5%BC%BA%E6%B0%91%E6%97%8F%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [新任公安部禁毒局局长首次公开亮相](https://www.baidu.com/s?wd=%E6%96%B0%E4%BB%BB%E5%85%AC%E5%AE%89%E9%83%A8%E7%A6%81%E6%AF%92%E5%B1%80%E5%B1%80%E9%95%BF%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80%E4%BA%AE%E7%9B%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [张兰回应大S怀孕传闻](https://www.baidu.com/s?wd=%E5%BC%A0%E5%85%B0%E5%9B%9E%E5%BA%94%E5%A4%A7S%E6%80%80%E5%AD%95%E4%BC%A0%E9%97%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子连生6女被要求生子想离婚遭驳回](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%BF%9E%E7%94%9F6%E5%A5%B3%E8%A2%AB%E8%A6%81%E6%B1%82%E7%94%9F%E5%AD%90%E6%83%B3%E7%A6%BB%E5%A9%9A%E9%81%AD%E9%A9%B3%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [古人过端午仪式感有多足](https://www.baidu.com/s?wd=%E5%8F%A4%E4%BA%BA%E8%BF%87%E7%AB%AF%E5%8D%88%E4%BB%AA%E5%BC%8F%E6%84%9F%E6%9C%89%E5%A4%9A%E8%B6%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [西湖龙舟赛黑人外援：非洲没杭州热](https://www.baidu.com/s?wd=%E8%A5%BF%E6%B9%96%E9%BE%99%E8%88%9F%E8%B5%9B%E9%BB%91%E4%BA%BA%E5%A4%96%E6%8F%B4%EF%BC%9A%E9%9D%9E%E6%B4%B2%E6%B2%A1%E6%9D%AD%E5%B7%9E%E7%83%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [乌称俄乌24小时内发生数十次战斗](https://www.baidu.com/s?wd=%E4%B9%8C%E7%A7%B0%E4%BF%84%E4%B9%8C24%E5%B0%8F%E6%97%B6%E5%86%85%E5%8F%91%E7%94%9F%E6%95%B0%E5%8D%81%E6%AC%A1%E6%88%98%E6%96%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子连生6女被要求生子想离婚遭驳回](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%BF%9E%E7%94%9F6%E5%A5%B3%E8%A2%AB%E8%A6%81%E6%B1%82%E7%94%9F%E5%AD%90%E6%83%B3%E7%A6%BB%E5%A9%9A%E9%81%AD%E9%A9%B3%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子地铁上数次扇脸女子质问爱谁](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%B0%E9%93%81%E4%B8%8A%E6%95%B0%E6%AC%A1%E6%89%87%E8%84%B8%E5%A5%B3%E5%AD%90%E8%B4%A8%E9%97%AE%E7%88%B1%E8%B0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [文化兴国运兴 文化强民族强](https://www.baidu.com/s?wd=%E6%96%87%E5%8C%96%E5%85%B4%E5%9B%BD%E8%BF%90%E5%85%B4+%E6%96%87%E5%8C%96%E5%BC%BA%E6%B0%91%E6%97%8F%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [新任公安部禁毒局局长首次公开亮相](https://www.baidu.com/s?wd=%E6%96%B0%E4%BB%BB%E5%85%AC%E5%AE%89%E9%83%A8%E7%A6%81%E6%AF%92%E5%B1%80%E5%B1%80%E9%95%BF%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80%E4%BA%AE%E7%9B%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [张兰回应大S怀孕传闻](https://www.baidu.com/s?wd=%E5%BC%A0%E5%85%B0%E5%9B%9E%E5%BA%94%E5%A4%A7S%E6%80%80%E5%AD%95%E4%BC%A0%E9%97%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子连生6女被要求生子想离婚遭驳回](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%BF%9E%E7%94%9F6%E5%A5%B3%E8%A2%AB%E8%A6%81%E6%B1%82%E7%94%9F%E5%AD%90%E6%83%B3%E7%A6%BB%E5%A9%9A%E9%81%AD%E9%A9%B3%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [古人过端午仪式感有多足](https://www.baidu.com/s?wd=%E5%8F%A4%E4%BA%BA%E8%BF%87%E7%AB%AF%E5%8D%88%E4%BB%AA%E5%BC%8F%E6%84%9F%E6%9C%89%E5%A4%9A%E8%B6%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [西湖龙舟赛黑人外援：非洲没杭州热](https://www.baidu.com/s?wd=%E8%A5%BF%E6%B9%96%E9%BE%99%E8%88%9F%E8%B5%9B%E9%BB%91%E4%BA%BA%E5%A4%96%E6%8F%B4%EF%BC%9A%E9%9D%9E%E6%B4%B2%E6%B2%A1%E6%9D%AD%E5%B7%9E%E7%83%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [乌称俄乌24小时内发生数十次战斗](https://www.baidu.com/s?wd=%E4%B9%8C%E7%A7%B0%E4%BF%84%E4%B9%8C24%E5%B0%8F%E6%97%B6%E5%86%85%E5%8F%91%E7%94%9F%E6%95%B0%E5%8D%81%E6%AC%A1%E6%88%98%E6%96%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子连生6女被要求生子想离婚遭驳回](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%BF%9E%E7%94%9F6%E5%A5%B3%E8%A2%AB%E8%A6%81%E6%B1%82%E7%94%9F%E5%AD%90%E6%83%B3%E7%A6%BB%E5%A9%9A%E9%81%AD%E9%A9%B3%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子地铁上数次扇脸女子质问爱谁](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%B0%E9%93%81%E4%B8%8A%E6%95%B0%E6%AC%A1%E6%89%87%E8%84%B8%E5%A5%B3%E5%AD%90%E8%B4%A8%E9%97%AE%E7%88%B1%E8%B0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
