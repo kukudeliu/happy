@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 12:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 12:57:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [无穷小亮 有个事挺瘆得慌](https://s.weibo.com/weibo?q=%E6%97%A0%E7%A9%B7%E5%B0%8F%E4%BA%AE%20%E6%9C%89%E4%B8%AA%E4%BA%8B%E6%8C%BA%E7%98%86%E5%BE%97%E6%85%8C&t=31&band_rank=2&Refer=top)<br />
 3. [赛龙舟不只是一群人一起划划船](https://s.weibo.com/weibo?q=%23%E8%B5%9B%E9%BE%99%E8%88%9F%E4%B8%8D%E5%8F%AA%E6%98%AF%E4%B8%80%E7%BE%A4%E4%BA%BA%E4%B8%80%E8%B5%B7%E5%88%92%E5%88%92%E8%88%B9%23&t=31&band_rank=3&Refer=top)<br />
 4. [猴痘](https://s.weibo.com/weibo?q=%E7%8C%B4%E7%97%98&t=31&band_rank=4&Refer=top)<br />
-5. [马伯骞你是真的火了](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%BC%AF%E9%AA%9E%E4%BD%A0%E6%98%AF%E7%9C%9F%E7%9A%84%E7%81%AB%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
-6. [烧烤店疑更换液化气罐阀门过程中爆炸](https://s.weibo.com/weibo?q=%23%E7%83%A7%E7%83%A4%E5%BA%97%E7%96%91%E6%9B%B4%E6%8D%A2%E6%B6%B2%E5%8C%96%E6%B0%94%E7%BD%90%E9%98%80%E9%97%A8%E8%BF%87%E7%A8%8B%E4%B8%AD%E7%88%86%E7%82%B8%23&t=31&band_rank=6&Refer=top)<br />
+5. [烧烤店疑更换液化气罐阀门过程中爆炸](https://s.weibo.com/weibo?q=%23%E7%83%A7%E7%83%A4%E5%BA%97%E7%96%91%E6%9B%B4%E6%8D%A2%E6%B6%B2%E5%8C%96%E6%B0%94%E7%BD%90%E9%98%80%E9%97%A8%E8%BF%87%E7%A8%8B%E4%B8%AD%E7%88%86%E7%82%B8%23&t=31&band_rank=5&Refer=top)<br />
+6. [马伯骞你是真的火了](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%BC%AF%E9%AA%9E%E4%BD%A0%E6%98%AF%E7%9C%9F%E7%9A%84%E7%81%AB%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [福布斯称Jennie有资格获艾美奖](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%B8%83%E6%96%AF%E7%A7%B0Jennie%E6%9C%89%E8%B5%84%E6%A0%BC%E8%8E%B7%E8%89%BE%E7%BE%8E%E5%A5%96%23&t=31&band_rank=7&Refer=top)<br />
 8. [曾黎见到老同学狂奔5米合照](https://s.weibo.com/weibo?q=%23%E6%9B%BE%E9%BB%8E%E8%A7%81%E5%88%B0%E8%80%81%E5%90%8C%E5%AD%A6%E7%8B%82%E5%A5%945%E7%B1%B3%E5%90%88%E7%85%A7%23&t=31&band_rank=8&Refer=top)<br />
 9. [目击者讲述银川烧烤店爆炸](https://s.weibo.com/weibo?q=%23%E7%9B%AE%E5%87%BB%E8%80%85%E8%AE%B2%E8%BF%B0%E9%93%B6%E5%B7%9D%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%23&t=31&band_rank=9&Refer=top)<br />
