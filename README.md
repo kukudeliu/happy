@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 09:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 09:22:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [阿姨收到1920元工资塞500给老板](https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%A7%A8%E6%94%B6%E5%88%B01920%E5%85%83%E5%B7%A5%E8%B5%84%E5%A1%9E500%E7%BB%99%E8%80%81%E6%9D%BF%23&t=31&band_rank=5&Refer=top)<br />
 6. [北京大爷不想让孩子要孩子](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%A4%A7%E7%88%B7%E4%B8%8D%E6%83%B3%E8%AE%A9%E5%AD%A9%E5%AD%90%E8%A6%81%E5%AD%A9%E5%AD%90%23&t=31&band_rank=6&Refer=top)<br />
 7. [千万别在下午和晚上买机票](https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E5%88%AB%E5%9C%A8%E4%B8%8B%E5%8D%88%E5%92%8C%E6%99%9A%E4%B8%8A%E4%B9%B0%E6%9C%BA%E7%A5%A8%23&t=31&band_rank=7&Refer=top)<br />
-8. [内蒙古的简称是什么](https://s.weibo.com/weibo?q=%23%E5%86%85%E8%92%99%E5%8F%A4%E7%9A%84%E7%AE%80%E7%A7%B0%E6%98%AF%E4%BB%80%E4%B9%88%23&t=31&band_rank=8&Refer=top)<br />
-9. [古巨基采访王菲被鸟屎砸到头](https://s.weibo.com/weibo?q=%23%E5%8F%A4%E5%B7%A8%E5%9F%BA%E9%87%87%E8%AE%BF%E7%8E%8B%E8%8F%B2%E8%A2%AB%E9%B8%9F%E5%B1%8E%E7%A0%B8%E5%88%B0%E5%A4%B4%23&t=31&band_rank=9&Refer=top)<br />
+8. [5岁时的韩安冉](https://s.weibo.com/weibo?q=%235%E5%B2%81%E6%97%B6%E7%9A%84%E9%9F%A9%E5%AE%89%E5%86%89%23&t=31&band_rank=8&Refer=top)<br />
+9. [内蒙古的简称是什么](https://s.weibo.com/weibo?q=%23%E5%86%85%E8%92%99%E5%8F%A4%E7%9A%84%E7%AE%80%E7%A7%B0%E6%98%AF%E4%BB%80%E4%B9%88%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
