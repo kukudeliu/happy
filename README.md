@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 19:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 19:12:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [消失的她票房](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%88%BF&t=31&band_rank=6&Refer=top)<br />
 7. [银川预计今晚8点召开爆炸事故新闻发布会](https://s.weibo.com/weibo?q=%23%E9%93%B6%E5%B7%9D%E9%A2%84%E8%AE%A1%E4%BB%8A%E6%99%9A8%E7%82%B9%E5%8F%AC%E5%BC%80%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=7&Refer=top)<br />
 8. [宋雨琦原来是SM家族粉](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E9%9B%A8%E7%90%A6%E5%8E%9F%E6%9D%A5%E6%98%AFSM%E5%AE%B6%E6%97%8F%E7%B2%89%23&t=31&band_rank=8&Refer=top)<br />
-9. [甜馨10岁身高](https://s.weibo.com/weibo?q=%23%E7%94%9C%E9%A6%A810%E5%B2%81%E8%BA%AB%E9%AB%98%23&t=31&band_rank=9&Refer=top)<br />
+9. [西湖边卖花姑娘回应意外走红](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E6%B9%96%E8%BE%B9%E5%8D%96%E8%8A%B1%E5%A7%91%E5%A8%98%E5%9B%9E%E5%BA%94%E6%84%8F%E5%A4%96%E8%B5%B0%E7%BA%A2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -21,8 +21,8 @@
 5. [一个村超都搞得有声有色，为啥中国足球人人唾弃，真的是规则出了问题？](https://www.zhihu.com/question/606948461)<br />
 6. [宁夏银川发生燃气爆炸事故造成 38 人伤亡，其中 31 人死亡，7 人仍在救治中，具体情况如何？](https://www.zhihu.com/question/607961203)<br />
 7. [全国结婚登记量跌破 700 万对，创 37 年来新低，年轻人「爱」不起了吗？](https://www.zhihu.com/question/607996046)<br />
-8. [iPhone 电池健康度多少才算正常？80% 和 100% 有什么区别？](https://www.zhihu.com/question/569965047)<br />
-9. [我想买一部家用净水机，现在市场上琳琅满目，什么牌子质价比好？](https://www.zhihu.com/question/49600688)<br />
+8. [6 月 22 日华北多地高温，北京冲上 40℃，系 9 年来首次，背后原因有哪些？该如何做好防暑工作？](https://www.zhihu.com/question/607989824)<br />
+9. [iPhone 电池健康度多少才算正常？80% 和 100% 有什么区别？](https://www.zhihu.com/question/569965047)<br />
 
 > 百度  
 
