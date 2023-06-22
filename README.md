@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 15:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 15:07:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [失联泰坦尼克号观光艇氧气即将耗尽](https://s.weibo.com/weibo?q=%23%E5%A4%B1%E8%81%94%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7%E8%A7%82%E5%85%89%E8%89%87%E6%B0%A7%E6%B0%94%E5%8D%B3%E5%B0%86%E8%80%97%E5%B0%BD%23&t=31&band_rank=4&Refer=top)<br />
 5. [知情人称银川烧烤店死者死因多为窒息](https://s.weibo.com/weibo?q=%23%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0%E9%93%B6%E5%B7%9D%E7%83%A7%E7%83%A4%E5%BA%97%E6%AD%BB%E8%80%85%E6%AD%BB%E5%9B%A0%E5%A4%9A%E4%B8%BA%E7%AA%92%E6%81%AF%23&t=31&band_rank=5&Refer=top)<br />
 6. [无穷小亮 有个事挺瘆得慌](https://s.weibo.com/weibo?q=%E6%97%A0%E7%A9%B7%E5%B0%8F%E4%BA%AE%20%E6%9C%89%E4%B8%AA%E4%BA%8B%E6%8C%BA%E7%98%86%E5%BE%97%E6%85%8C&t=31&band_rank=6&Refer=top)<br />
-7. [宋妍霏腰臀比](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E5%A6%8D%E9%9C%8F%E8%85%B0%E8%87%80%E6%AF%94%23&t=31&band_rank=7&Refer=top)<br />
-8. [赵丽颖红色旗袍](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%BA%A2%E8%89%B2%E6%97%97%E8%A2%8D%23&t=31&band_rank=8&Refer=top)<br />
+7. [赵丽颖红色旗袍](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%BA%A2%E8%89%B2%E6%97%97%E8%A2%8D%23&t=31&band_rank=7&Refer=top)<br />
+8. [宋妍霏腰臀比](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E5%A6%8D%E9%9C%8F%E8%85%B0%E8%87%80%E6%AF%94%23&t=31&band_rank=8&Refer=top)<br />
 9. [顾九思柳玉茹喂血吻](https://s.weibo.com/weibo?q=%23%E9%A1%BE%E4%B9%9D%E6%80%9D%E6%9F%B3%E7%8E%89%E8%8C%B9%E5%96%82%E8%A1%80%E5%90%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -22,7 +22,7 @@
 6. [宁夏银川发生燃气爆炸事故造成 38 人伤亡，其中 31 人死亡，7 人仍在救治中，具体情况如何？](https://www.zhihu.com/question/607961203)<br />
 7. [什么是管理的本质？](https://www.zhihu.com/question/607006108)<br />
 8. []()<br />
-9. [空军航空兵某团飞行二大队获「时代楷模」称号，褒扬他们是「奋飞新时代的空中铁拳」，他们值得学习的点在哪？](https://www.zhihu.com/question/607609756)<br />
+9. [自曝「在马尔代夫遭性侵」中国女生称「已致函马尔代夫总统求助」，此前称当地警方不作为，如何看待事件发展？](https://www.zhihu.com/question/607809339)<br />
 
 > 百度  
 
