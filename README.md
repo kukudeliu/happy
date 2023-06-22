@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 10:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 10:54:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [5岁时的韩安冉](https://s.weibo.com/weibo?q=%235%E5%B2%81%E6%97%B6%E7%9A%84%E9%9F%A9%E5%AE%89%E5%86%89%23&t=31&band_rank=4&Refer=top)<br />
 5. [千万别在下午和晚上买机票](https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E5%88%AB%E5%9C%A8%E4%B8%8B%E5%8D%88%E5%92%8C%E6%99%9A%E4%B8%8A%E4%B9%B0%E6%9C%BA%E7%A5%A8%23&t=31&band_rank=5&Refer=top)<br />
 6. [广东人为什么普遍都很瘦](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E6%99%AE%E9%81%8D%E9%83%BD%E5%BE%88%E7%98%A6%23&t=31&band_rank=6&Refer=top)<br />
-7. [张艺兴点赞了EXO回归预告](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E7%82%B9%E8%B5%9E%E4%BA%86EXO%E5%9B%9E%E5%BD%92%E9%A2%84%E5%91%8A%23&t=31&band_rank=7&Refer=top)<br />
-8. [十个勤天](https://s.weibo.com/weibo?q=%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9&t=31&band_rank=8&Refer=top)<br />
+7. [十个勤天](https://s.weibo.com/weibo?q=%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9&t=31&band_rank=7&Refer=top)<br />
+8. [张艺兴点赞了EXO回归预告](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E7%82%B9%E8%B5%9E%E4%BA%86EXO%E5%9B%9E%E5%BD%92%E9%A2%84%E5%91%8A%23&t=31&band_rank=8&Refer=top)<br />
 9. [Angelababy七年前vs七年后](https://s.weibo.com/weibo?q=%23Angelababy%E4%B8%83%E5%B9%B4%E5%89%8Dvs%E4%B8%83%E5%B9%B4%E5%90%8E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -31,10 +31,10 @@
 3. [健美比赛女模特扔高跟鞋砸评委](https://www.baidu.com/s?wd=%E5%81%A5%E7%BE%8E%E6%AF%94%E8%B5%9B%E5%A5%B3%E6%A8%A1%E7%89%B9%E6%89%94%E9%AB%98%E8%B7%9F%E9%9E%8B%E7%A0%B8%E8%AF%84%E5%A7%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“上天入海” 这些重大项目频传捷报](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%8A%E5%A4%A9%E5%85%A5%E6%B5%B7%E2%80%9D+%E8%BF%99%E4%BA%9B%E9%87%8D%E5%A4%A7%E9%A1%B9%E7%9B%AE%E9%A2%91%E4%BC%A0%E6%8D%B7%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [宁夏烧烤店爆炸致31死](https://www.baidu.com/s?wd=%E5%AE%81%E5%A4%8F%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E8%87%B431%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [古巨基采访王菲被鸟屎砸到头](https://www.baidu.com/s?wd=%E5%8F%A4%E5%B7%A8%E5%9F%BA%E9%87%87%E8%AE%BF%E7%8E%8B%E8%8F%B2%E8%A2%AB%E9%B8%9F%E5%B1%8E%E7%A0%B8%E5%88%B0%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [北京大爷不想让孩子要孩子](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%A4%A7%E7%88%B7%E4%B8%8D%E6%83%B3%E8%AE%A9%E5%AD%A9%E5%AD%90%E8%A6%81%E5%AD%A9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [北京大爷不想让孩子要孩子](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%A4%A7%E7%88%B7%E4%B8%8D%E6%83%B3%E8%AE%A9%E5%AD%A9%E5%AD%90%E8%A6%81%E5%AD%A9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [妈妈带高考结束女儿整容](https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E5%B8%A6%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E5%A5%B3%E5%84%BF%E6%95%B4%E5%AE%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [带48斤毒品入境首都机场 男子获死刑](https://www.baidu.com/s?wd=%E5%B8%A648%E6%96%A4%E6%AF%92%E5%93%81%E5%85%A5%E5%A2%83%E9%A6%96%E9%83%BD%E6%9C%BA%E5%9C%BA+%E7%94%B7%E5%AD%90%E8%8E%B7%E6%AD%BB%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子水杯遭同事投毒 对方想私了](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%B0%B4%E6%9D%AF%E9%81%AD%E5%90%8C%E4%BA%8B%E6%8A%95%E6%AF%92+%E5%AF%B9%E6%96%B9%E6%83%B3%E7%A7%81%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [宁夏烧烤店爆炸现场满地碎片](https://www.baidu.com/s?wd=%E5%AE%81%E5%A4%8F%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E7%8E%B0%E5%9C%BA%E6%BB%A1%E5%9C%B0%E7%A2%8E%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [健美比赛女模特扔高跟鞋砸评委](https://www.baidu.com/s?wd=%E5%81%A5%E7%BE%8E%E6%AF%94%E8%B5%9B%E5%A5%B3%E6%A8%A1%E7%89%B9%E6%89%94%E9%AB%98%E8%B7%9F%E9%9E%8B%E7%A0%B8%E8%AF%84%E5%A7%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“上天入海” 这些重大项目频传捷报](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%8A%E5%A4%A9%E5%85%A5%E6%B5%B7%E2%80%9D+%E8%BF%99%E4%BA%9B%E9%87%8D%E5%A4%A7%E9%A1%B9%E7%9B%AE%E9%A2%91%E4%BC%A0%E6%8D%B7%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [宁夏烧烤店爆炸致31死](https://www.baidu.com/s?wd=%E5%AE%81%E5%A4%8F%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E8%87%B431%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [古巨基采访王菲被鸟屎砸到头](https://www.baidu.com/s?wd=%E5%8F%A4%E5%B7%A8%E5%9F%BA%E9%87%87%E8%AE%BF%E7%8E%8B%E8%8F%B2%E8%A2%AB%E9%B8%9F%E5%B1%8E%E7%A0%B8%E5%88%B0%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [北京大爷不想让孩子要孩子](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%A4%A7%E7%88%B7%E4%B8%8D%E6%83%B3%E8%AE%A9%E5%AD%A9%E5%AD%90%E8%A6%81%E5%AD%A9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [北京大爷不想让孩子要孩子](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%A4%A7%E7%88%B7%E4%B8%8D%E6%83%B3%E8%AE%A9%E5%AD%A9%E5%AD%90%E8%A6%81%E5%AD%A9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [妈妈带高考结束女儿整容](https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E5%B8%A6%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E5%A5%B3%E5%84%BF%E6%95%B4%E5%AE%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [带48斤毒品入境首都机场 男子获死刑](https://www.baidu.com/s?wd=%E5%B8%A648%E6%96%A4%E6%AF%92%E5%93%81%E5%85%A5%E5%A2%83%E9%A6%96%E9%83%BD%E6%9C%BA%E5%9C%BA+%E7%94%B7%E5%AD%90%E8%8E%B7%E6%AD%BB%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子水杯遭同事投毒 对方想私了](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%B0%B4%E6%9D%AF%E9%81%AD%E5%90%8C%E4%BA%8B%E6%8A%95%E6%AF%92+%E5%AF%B9%E6%96%B9%E6%83%B3%E7%A7%81%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [宁夏烧烤店爆炸现场满地碎片](https://www.baidu.com/s?wd=%E5%AE%81%E5%A4%8F%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E7%8E%B0%E5%9C%BA%E6%BB%A1%E5%9C%B0%E7%A2%8E%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
