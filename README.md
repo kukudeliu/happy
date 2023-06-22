@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 18:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 18:48:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [宁夏银川发生燃气爆炸事故造成 38 人伤亡，其中 31 人死亡，7 人仍在救治中，具体情况如何？](https://www.zhihu.com/question/607961203)<br />
 7. [一个村超都搞得有声有色，为啥中国足球人人唾弃，真的是规则出了问题？](https://www.zhihu.com/question/606948461)<br />
 8. [全国结婚登记量跌破 700 万对，创 37 年来新低，年轻人「爱」不起了吗？](https://www.zhihu.com/question/607996046)<br />
-9. [2023 年端午节后 A 股会大涨吗？](https://www.zhihu.com/question/607909550)<br />
+9. [iPhone 电池健康度多少才算正常？80% 和 100% 有什么区别？](https://www.zhihu.com/question/569965047)<br />
 
 > 百度  
 
