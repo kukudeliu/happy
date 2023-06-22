@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 13:42:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 13:43:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [银川烧烤店爆炸事故31人经抢救无效死亡](https://s.weibo.com/weibo?q=%23%E9%93%B6%E5%B7%9D%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%8531%E4%BA%BA%E7%BB%8F%E6%8A%A2%E6%95%91%E6%97%A0%E6%95%88%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=4&Refer=top)<br />
 5. [失联泰坦尼克号观光艇氧气即将耗尽](https://s.weibo.com/weibo?q=%23%E5%A4%B1%E8%81%94%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7%E8%A7%82%E5%85%89%E8%89%87%E6%B0%A7%E6%B0%94%E5%8D%B3%E5%B0%86%E8%80%97%E5%B0%BD%23&t=31&band_rank=5&Refer=top)<br />
 6. [手机号实名制已经10年了](https://s.weibo.com/weibo?q=%E6%89%8B%E6%9C%BA%E5%8F%B7%E5%AE%9E%E5%90%8D%E5%88%B6%E5%B7%B2%E7%BB%8F10%E5%B9%B4%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
-7. [烧烤店疑更换液化气罐阀门过程中爆炸](https://s.weibo.com/weibo?q=%23%E7%83%A7%E7%83%A4%E5%BA%97%E7%96%91%E6%9B%B4%E6%8D%A2%E6%B6%B2%E5%8C%96%E6%B0%94%E7%BD%90%E9%98%80%E9%97%A8%E8%BF%87%E7%A8%8B%E4%B8%AD%E7%88%86%E7%82%B8%23&t=31&band_rank=7&Refer=top)<br />
-8. [倪妮 文咏珊](https://s.weibo.com/weibo?q=%E5%80%AA%E5%A6%AE%20%E6%96%87%E5%92%8F%E7%8F%8A&t=31&band_rank=8&Refer=top)<br />
+7. [倪妮 文咏珊](https://s.weibo.com/weibo?q=%E5%80%AA%E5%A6%AE%20%E6%96%87%E5%92%8F%E7%8F%8A&t=31&band_rank=7&Refer=top)<br />
+8. [烧烤店疑更换液化气罐阀门过程中爆炸](https://s.weibo.com/weibo?q=%23%E7%83%A7%E7%83%A4%E5%BA%97%E7%96%91%E6%9B%B4%E6%8D%A2%E6%B6%B2%E5%8C%96%E6%B0%94%E7%BD%90%E9%98%80%E9%97%A8%E8%BF%87%E7%A8%8B%E4%B8%AD%E7%88%86%E7%82%B8%23&t=31&band_rank=8&Refer=top)<br />
 9. [马伯骞你是真的火了](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%BC%AF%E9%AA%9E%E4%BD%A0%E6%98%AF%E7%9C%9F%E7%9A%84%E7%81%AB%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -18,9 +18,9 @@
 2. [两名中国公民在美被定罪，外交部称「敦促美方立即纠正错误」，有哪些信息值得关注？](https://www.zhihu.com/question/607819218)<br />
 3. [端午节祝福应该说「快乐」还是「安康」?](https://www.zhihu.com/question/535873216)<br />
 4. [数据称应届大学生就业重心继续下沉，越来越多应届生回县城考公，如何看待此现象？反映出哪些问题？](https://www.zhihu.com/question/607781746)<br />
-5. [有什么事在 Linux 上显的顺理成章，在 Windows 上就很令人费解？](https://www.zhihu.com/question/604433281)<br />
+5. [如果中国举办世界杯, 决赛最有可能安排在哪个体育场? 全国又有哪些体育场可能承办中途的比赛?](https://www.zhihu.com/question/605308246)<br />
 6. [宁夏银川发生燃气爆炸事故造成 38 人伤亡，其中 31 人死亡，7 人仍在救治中，具体情况如何？](https://www.zhihu.com/question/607961203)<br />
-7. [如果中国举办世界杯, 决赛最有可能安排在哪个体育场? 全国又有哪些体育场可能承办中途的比赛?](https://www.zhihu.com/question/605308246)<br />
+7. [有什么事在 Linux 上显的顺理成章，在 Windows 上就很令人费解？](https://www.zhihu.com/question/604433281)<br />
 8. [2023 高考成绩即将公布，查分前你是什么心情？](https://www.zhihu.com/question/607968044)<br />
 9. [研究发现燃气灶增加患白血病风险，苯浓度超二手烟，这一发现具有哪些意义？生活中使用燃气灶如何降低伤害？](https://www.zhihu.com/question/607771756)<br />
 
