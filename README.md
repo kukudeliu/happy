@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 23:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 23:24:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [长风渡14集杀疯了](https://www.baidu.com/s?wd=%E9%95%BF%E9%A3%8E%E6%B8%A114%E9%9B%86%E6%9D%80%E7%96%AF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [高温下北京白天现星星](https://www.baidu.com/s?wd=%E9%AB%98%E6%B8%A9%E4%B8%8B%E5%8C%97%E4%BA%AC%E7%99%BD%E5%A4%A9%E7%8E%B0%E6%98%9F%E6%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [网友端午节前偶遇钟南山院士查房](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%AB%AF%E5%8D%88%E8%8A%82%E5%89%8D%E5%81%B6%E9%81%87%E9%92%9F%E5%8D%97%E5%B1%B1%E9%99%A2%E5%A3%AB%E6%9F%A5%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子忘关火把粽子煮成黑炭](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%BF%98%E5%85%B3%E7%81%AB%E6%8A%8A%E7%B2%BD%E5%AD%90%E7%85%AE%E6%88%90%E9%BB%91%E7%82%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [银川多家餐饮店使用液化气罐](https://www.baidu.com/s?wd=%E9%93%B6%E5%B7%9D%E5%A4%9A%E5%AE%B6%E9%A4%90%E9%A5%AE%E5%BA%97%E4%BD%BF%E7%94%A8%E6%B6%B2%E5%8C%96%E6%B0%94%E7%BD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [长风渡14集杀疯了](https://www.baidu.com/s?wd=%E9%95%BF%E9%A3%8E%E6%B8%A114%E9%9B%86%E6%9D%80%E7%96%AF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [高温下北京白天现星星](https://www.baidu.com/s?wd=%E9%AB%98%E6%B8%A9%E4%B8%8B%E5%8C%97%E4%BA%AC%E7%99%BD%E5%A4%A9%E7%8E%B0%E6%98%9F%E6%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [网友端午节前偶遇钟南山院士查房](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%AB%AF%E5%8D%88%E8%8A%82%E5%89%8D%E5%81%B6%E9%81%87%E9%92%9F%E5%8D%97%E5%B1%B1%E9%99%A2%E5%A3%AB%E6%9F%A5%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子忘关火把粽子煮成黑炭](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%BF%98%E5%85%B3%E7%81%AB%E6%8A%8A%E7%B2%BD%E5%AD%90%E7%85%AE%E6%88%90%E9%BB%91%E7%82%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [银川多家餐饮店使用液化气罐](https://www.baidu.com/s?wd=%E9%93%B6%E5%B7%9D%E5%A4%9A%E5%AE%B6%E9%A4%90%E9%A5%AE%E5%BA%97%E4%BD%BF%E7%94%A8%E6%B6%B2%E5%8C%96%E6%B0%94%E7%BD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
