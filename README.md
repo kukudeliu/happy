@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 21:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 21:52:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [宁夏银川发生燃气爆炸事故造成 38 人伤亡，其中 31 人死亡，7 人仍在救治中，具体情况如何？](https://www.zhihu.com/question/607961203)<br />
 7. [现在还有没感染新冠的吗？你们怎么做到的？](https://www.zhihu.com/question/576527176)<br />
 8. [为什么小提琴不像吉他一样加上品格，降低入门难度？](https://www.zhihu.com/question/308921367)<br />
-9. [电影《闪电侠》的时间逻辑是什么样的？](https://www.zhihu.com/question/607279544)<br />
+9. []()<br />
 
 > 百度  
 
