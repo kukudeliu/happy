@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 22:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 22:01:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [长风渡14集杀疯了](https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%A3%8E%E6%B8%A114%E9%9B%86%E6%9D%80%E7%96%AF%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [端午节习俗图鉴](https://s.weibo.com/weibo?q=%23%E7%AB%AF%E5%8D%88%E8%8A%82%E4%B9%A0%E4%BF%97%E5%9B%BE%E9%89%B4%23&t=31&band_rank=3&Refer=top)<br />
 4. [沙溢长风渡下线](https://s.weibo.com/weibo?q=%23%E6%B2%99%E6%BA%A2%E9%95%BF%E9%A3%8E%E6%B8%A1%E4%B8%8B%E7%BA%BF%23&t=31&band_rank=4&Refer=top)<br />
-5. [宁夏银川烧烤店爆炸事故新闻发布会](https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%A4%8F%E9%93%B6%E5%B7%9D%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=5&Refer=top)<br />
-6. [消失的她票房](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%88%BF&t=31&band_rank=6&Refer=top)<br />
+5. [消失的她票房](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%88%BF&t=31&band_rank=5&Refer=top)<br />
+6. [宁夏银川烧烤店爆炸事故新闻发布会](https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%A4%8F%E9%93%B6%E5%B7%9D%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=6&Refer=top)<br />
 7. [伊能静晒儿子女儿合照](https://s.weibo.com/weibo?q=%23%E4%BC%8A%E8%83%BD%E9%9D%99%E6%99%92%E5%84%BF%E5%AD%90%E5%A5%B3%E5%84%BF%E5%90%88%E7%85%A7%23&t=31&band_rank=7&Refer=top)<br />
 8. [泰坦尼克号](https://s.weibo.com/weibo?q=%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7&t=31&band_rank=8&Refer=top)<br />
 9. [张绍刚你好狠的心](https://s.weibo.com/weibo?q=%E5%BC%A0%E7%BB%8D%E5%88%9A%E4%BD%A0%E5%A5%BD%E7%8B%A0%E7%9A%84%E5%BF%83&t=31&band_rank=9&Refer=top)<br />
@@ -21,8 +21,8 @@
 5. [人类学、社会学和历史学，是不是毕业即失业？怎么衡量自己适不适合？](https://www.zhihu.com/theater/113436)<br />
 6. [宁夏银川发生燃气爆炸事故造成 38 人伤亡，其中 31 人死亡，7 人仍在救治中，具体情况如何？](https://www.zhihu.com/question/607961203)<br />
 7. [现在还有没感染新冠的吗？你们怎么做到的？](https://www.zhihu.com/question/576527176)<br />
-8. [为什么小提琴不像吉他一样加上品格，降低入门难度？](https://www.zhihu.com/question/308921367)<br />
-9. [电影《闪电侠》的时间逻辑是什么样的？](https://www.zhihu.com/question/607279544)<br />
+8. []()<br />
+9. [为什么小提琴不像吉他一样加上品格，降低入门难度？](https://www.zhihu.com/question/308921367)<br />
 
 > 百度  
 
