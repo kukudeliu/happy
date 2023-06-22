@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 20:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 20:05:01</h4></div>
 
 > 微博  
 
 1. [马伯庸 别人发端午安康我回复端午快乐](https://s.weibo.com/weibo?q=%E9%A9%AC%E4%BC%AF%E5%BA%B8%20%E5%88%AB%E4%BA%BA%E5%8F%91%E7%AB%AF%E5%8D%88%E5%AE%89%E5%BA%B7%E6%88%91%E5%9B%9E%E5%A4%8D%E7%AB%AF%E5%8D%88%E5%BF%AB%E4%B9%90&t=31&band_rank=1&Refer=top)<br />
-2. [EDG教练在干嘛](https://s.weibo.com/weibo?q=EDG%E6%95%99%E7%BB%83%E5%9C%A8%E5%B9%B2%E5%98%9B&t=31&band_rank=2&Refer=top)<br />
+2. [15岁女生答72岁复旦教授](https://s.weibo.com/weibo?q=%2315%E5%B2%81%E5%A5%B3%E7%94%9F%E7%AD%9472%E5%B2%81%E5%A4%8D%E6%97%A6%E6%95%99%E6%8E%88%23&t=31&band_rank=2&Refer=top)<br />
 3. [藏在古画里的端午仪式感](https://s.weibo.com/weibo?q=%23%E8%97%8F%E5%9C%A8%E5%8F%A4%E7%94%BB%E9%87%8C%E7%9A%84%E7%AB%AF%E5%8D%88%E4%BB%AA%E5%BC%8F%E6%84%9F%23&t=31&band_rank=3&Refer=top)<br />
 4. [伊能静晒儿子女儿合照](https://s.weibo.com/weibo?q=%23%E4%BC%8A%E8%83%BD%E9%9D%99%E6%99%92%E5%84%BF%E5%AD%90%E5%A5%B3%E5%84%BF%E5%90%88%E7%85%A7%23&t=31&band_rank=4&Refer=top)<br />
-5. [15岁女生答72岁复旦教授](https://s.weibo.com/weibo?q=%2315%E5%B2%81%E5%A5%B3%E7%94%9F%E7%AD%9472%E5%B2%81%E5%A4%8D%E6%97%A6%E6%95%99%E6%8E%88%23&t=31&band_rank=5&Refer=top)<br />
+5. [EDG教练在干嘛](https://s.weibo.com/weibo?q=EDG%E6%95%99%E7%BB%83%E5%9C%A8%E5%B9%B2%E5%98%9B&t=31&band_rank=5&Refer=top)<br />
 6. [消失的她票房](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%88%BF&t=31&band_rank=6&Refer=top)<br />
 7. [银川爆炸烧烤店救援现场](https://s.weibo.com/weibo?q=%23%E9%93%B6%E5%B7%9D%E7%88%86%E7%82%B8%E7%83%A7%E7%83%A4%E5%BA%97%E6%95%91%E6%8F%B4%E7%8E%B0%E5%9C%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [Uzi4杀 RNG拿下比赛](https://s.weibo.com/weibo?q=Uzi4%E6%9D%80%20RNG%E6%8B%BF%E4%B8%8B%E6%AF%94%E8%B5%9B&t=31&band_rank=8&Refer=top)<br />
