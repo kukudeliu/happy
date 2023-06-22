@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 06:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 07:00:02</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [高考查分](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86&t=31&band_rank=4&Refer=top)<br />
 5. [银川烧烤店爆炸事故伤者家属发声](https://s.weibo.com/weibo?q=%23%E9%93%B6%E5%B7%9D%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E4%BC%A4%E8%80%85%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0%23&t=31&band_rank=5&Refer=top)<br />
 6. [2023好声音导师官宣](https://s.weibo.com/weibo?q=%232023%E5%A5%BD%E5%A3%B0%E9%9F%B3%E5%AF%BC%E5%B8%88%E5%AE%98%E5%AE%A3%23&t=31&band_rank=6&Refer=top)<br />
-7. [这粽子是犯了天条吗被绑成这样](https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%B2%BD%E5%AD%90%E6%98%AF%E7%8A%AF%E4%BA%86%E5%A4%A9%E6%9D%A1%E5%90%97%E8%A2%AB%E7%BB%91%E6%88%90%E8%BF%99%E6%A0%B7%23&t=31&band_rank=7&Refer=top)<br />
-8. [消失的她票房](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%88%BF&t=31&band_rank=8&Refer=top)<br />
-9. [马伯庸 别人发端午安康我回复端午快乐](https://s.weibo.com/weibo?q=%E9%A9%AC%E4%BC%AF%E5%BA%B8%20%E5%88%AB%E4%BA%BA%E5%8F%91%E7%AB%AF%E5%8D%88%E5%AE%89%E5%BA%B7%E6%88%91%E5%9B%9E%E5%A4%8D%E7%AB%AF%E5%8D%88%E5%BF%AB%E4%B9%90&t=31&band_rank=9&Refer=top)<br />
+7. [怀孕33周孕妇被2岁儿子开枪打死](https://s.weibo.com/weibo?q=%23%E6%80%80%E5%AD%9533%E5%91%A8%E5%AD%95%E5%A6%87%E8%A2%AB2%E5%B2%81%E5%84%BF%E5%AD%90%E5%BC%80%E6%9E%AA%E6%89%93%E6%AD%BB%23&t=31&band_rank=7&Refer=top)<br />
+8. [马伯庸 别人发端午安康我回复端午快乐](https://s.weibo.com/weibo?q=%E9%A9%AC%E4%BC%AF%E5%BA%B8%20%E5%88%AB%E4%BA%BA%E5%8F%91%E7%AB%AF%E5%8D%88%E5%AE%89%E5%BA%B7%E6%88%91%E5%9B%9E%E5%A4%8D%E7%AB%AF%E5%8D%88%E5%BF%AB%E4%B9%90&t=31&band_rank=8&Refer=top)<br />
+9. [消失的她票房](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%88%BF&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -19,10 +19,10 @@
 3. [日本 200 多所大学或因缺少生源倒闭，多所大学停止招生，日本人口连续 12 年减少，将产生哪些影响？](https://www.zhihu.com/question/607979062)<br />
 4. [上海二手房挂牌量增速全国第一，挂牌数达 18 万套，有中介接受火锅券冲抵中介费，如何看待上海楼市行情？](https://www.zhihu.com/question/607907674)<br />
 5. [全国结婚登记量跌破 700 万对，创 37 年来新低，年轻人「爱」不起了吗？](https://www.zhihu.com/question/607996046)<br />
-6. []()<br />
-7. [一个村超都搞得有声有色，为啥中国足球人人唾弃，真的是规则出了问题？](https://www.zhihu.com/question/606948461)<br />
-8. [2023 LPL 夏季赛 Uzi 不敌老东家，RNG 2:0 击败 EDG，如何评价这场比赛？](https://www.zhihu.com/question/608001150)<br />
-9. [如何评价《英雄联盟》新英雄「百裂冥犬」纳亚菲利？](https://www.zhihu.com/question/607827052)<br />
+6. [一个村超都搞得有声有色，为啥中国足球人人唾弃，真的是规则出了问题？](https://www.zhihu.com/question/606948461)<br />
+7. [2023 LPL 夏季赛 Uzi 不敌老东家，RNG 2:0 击败 EDG，如何评价这场比赛？](https://www.zhihu.com/question/608001150)<br />
+8. []()<br />
+9. [现在还有没感染新冠的吗？你们怎么做到的？](https://www.zhihu.com/question/576527176)<br />
 
 > 百度  
 
@@ -34,7 +34,7 @@
 6. [端午节成都惊现不明飞行物](https://www.baidu.com/s?wd=%E7%AB%AF%E5%8D%88%E8%8A%82%E6%88%90%E9%83%BD%E6%83%8A%E7%8E%B0%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [长风渡14集杀疯了](https://www.baidu.com/s?wd=%E9%95%BF%E9%A3%8E%E6%B8%A114%E9%9B%86%E6%9D%80%E7%96%AF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [电影《消失的她》实时票房破亿](https://www.baidu.com/s?wd=%E7%94%B5%E5%BD%B1%E3%80%8A%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E3%80%8B%E5%AE%9E%E6%97%B6%E7%A5%A8%E6%88%BF%E7%A0%B4%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [高温下北京白天现星星](https://www.baidu.com/s?wd=%E9%AB%98%E6%B8%A9%E4%B8%8B%E5%8C%97%E4%BA%AC%E7%99%BD%E5%A4%A9%E7%8E%B0%E6%98%9F%E6%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [国人买iPhone14Pro需9.5%年收入？](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%BA%E4%B9%B0iPhone14Pro%E9%9C%809.5%25%E5%B9%B4%E6%94%B6%E5%85%A5%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [端午节成都惊现不明飞行物](https://www.baidu.com/s?wd=%E7%AB%AF%E5%8D%88%E8%8A%82%E6%88%90%E9%83%BD%E6%83%8A%E7%8E%B0%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [长风渡14集杀疯了](https://www.baidu.com/s?wd=%E9%95%BF%E9%A3%8E%E6%B8%A114%E9%9B%86%E6%9D%80%E7%96%AF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [电影《消失的她》实时票房破亿](https://www.baidu.com/s?wd=%E7%94%B5%E5%BD%B1%E3%80%8A%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E3%80%8B%E5%AE%9E%E6%97%B6%E7%A5%A8%E6%88%BF%E7%A0%B4%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [高温下北京白天现星星](https://www.baidu.com/s?wd=%E9%AB%98%E6%B8%A9%E4%B8%8B%E5%8C%97%E4%BA%AC%E7%99%BD%E5%A4%A9%E7%8E%B0%E6%98%9F%E6%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [国人买iPhone14Pro需9.5%年收入？](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%BA%E4%B9%B0iPhone14Pro%E9%9C%809.5%25%E5%B9%B4%E6%94%B6%E5%85%A5%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
