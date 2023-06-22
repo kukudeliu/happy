@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 16:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 16:42:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [藏在古画里的端午仪式感](https://s.weibo.com/weibo?q=%23%E8%97%8F%E5%9C%A8%E5%8F%A4%E7%94%BB%E9%87%8C%E7%9A%84%E7%AB%AF%E5%8D%88%E4%BB%AA%E5%BC%8F%E6%84%9F%23&t=31&band_rank=3&Refer=top)<br />
 4. [赵丽颖与素人合影](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E4%B8%8E%E7%B4%A0%E4%BA%BA%E5%90%88%E5%BD%B1%23&t=31&band_rank=4&Refer=top)<br />
 5. [奔跑吧全员素颜](https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%E5%85%A8%E5%91%98%E7%B4%A0%E9%A2%9C%23&t=31&band_rank=5&Refer=top)<br />
-6. [迪丽热巴的项链好特别](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9A%84%E9%A1%B9%E9%93%BE%E5%A5%BD%E7%89%B9%E5%88%AB%23&t=31&band_rank=6&Refer=top)<br />
-7. [河北科技大学通报学生跳楼身亡](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8C%97%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E9%80%9A%E6%8A%A5%E5%AD%A6%E7%94%9F%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=7&Refer=top)<br />
+6. [河北科技大学通报学生跳楼身亡](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8C%97%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E9%80%9A%E6%8A%A5%E5%AD%A6%E7%94%9F%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=6&Refer=top)<br />
+7. [迪丽热巴的项链好特别](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9A%84%E9%A1%B9%E9%93%BE%E5%A5%BD%E7%89%B9%E5%88%AB%23&t=31&band_rank=7&Refer=top)<br />
 8. [消失的她票房](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%88%BF&t=31&band_rank=8&Refer=top)<br />
-9. [目击者称烧烤店楼梯炸没了难以逃生](https://s.weibo.com/weibo?q=%23%E7%9B%AE%E5%87%BB%E8%80%85%E7%A7%B0%E7%83%A7%E7%83%A4%E5%BA%97%E6%A5%BC%E6%A2%AF%E7%82%B8%E6%B2%A1%E4%BA%86%E9%9A%BE%E4%BB%A5%E9%80%83%E7%94%9F%23&t=31&band_rank=9&Refer=top)<br />
+9. [王皓](https://s.weibo.com/weibo?q=%E7%8E%8B%E7%9A%93&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
