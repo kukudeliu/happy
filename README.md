@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 01:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 01:12:01</h4></div>
 
 > 微博  
 
@@ -20,8 +20,8 @@
 4. [2023 LPL 夏季赛 Uzi 不敌老东家，RNG 2:0 击败 EDG，如何评价这场比赛？](https://www.zhihu.com/question/608001150)<br />
 5. [美国五角大楼将对乌军援的记账错误金额提高至 62 亿美元，透露了哪些信息？](https://www.zhihu.com/question/607781134)<br />
 6. [如何评价《英雄联盟》新英雄「百裂冥犬」纳亚菲利？](https://www.zhihu.com/question/607827052)<br />
-7. []()<br />
-8. [全国结婚登记量跌破 700 万对，创 37 年来新低，年轻人「爱」不起了吗？](https://www.zhihu.com/question/607996046)<br />
+7. [全国结婚登记量跌破 700 万对，创 37 年来新低，年轻人「爱」不起了吗？](https://www.zhihu.com/question/607996046)<br />
+8. []()<br />
 9. [《黑客帝国》为什么最后是尼欧赢了？](https://www.zhihu.com/question/45125535)<br />
 
 > 百度  
