@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 09:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 09:42:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [河南一对兄妹从 29 楼通风管道口坠亡，家属称事发地无警示标识，如何从法律角度解读？](https://www.zhihu.com/question/607786666)<br />
 7. [为什么李鸿章在《辛丑条约》上签「肃」呢？「肃」代表什么？](https://www.zhihu.com/question/606492887)<br />
 8. [想装 XP 系统，请问 XP 能支持的最高硬件是什么？](https://www.zhihu.com/question/567820698)<br />
-9. [为什么点球很少踢上角？](https://www.zhihu.com/question/28669231)<br />
+9. [布林肯结束访华，外交部美大司司长十答中美问题，更多细节披露，哪些信息值得关注？](https://www.zhihu.com/question/607816687)<br />
 
 > 百度  
 
