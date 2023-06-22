@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 16:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 16:28:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [迪丽热巴的项链好特别](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9A%84%E9%A1%B9%E9%93%BE%E5%A5%BD%E7%89%B9%E5%88%AB%23&t=31&band_rank=5&Refer=top)<br />
 6. [手机号实名制已经10年了](https://s.weibo.com/weibo?q=%E6%89%8B%E6%9C%BA%E5%8F%B7%E5%AE%9E%E5%90%8D%E5%88%B6%E5%B7%B2%E7%BB%8F10%E5%B9%B4%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [无穷小亮 有个事挺瘆得慌](https://s.weibo.com/weibo?q=%E6%97%A0%E7%A9%B7%E5%B0%8F%E4%BA%AE%20%E6%9C%89%E4%B8%AA%E4%BA%8B%E6%8C%BA%E7%98%86%E5%BE%97%E6%85%8C&t=31&band_rank=7&Refer=top)<br />
-8. [知情人称银川烧烤店死者死因多为窒息](https://s.weibo.com/weibo?q=%23%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0%E9%93%B6%E5%B7%9D%E7%83%A7%E7%83%A4%E5%BA%97%E6%AD%BB%E8%80%85%E6%AD%BB%E5%9B%A0%E5%A4%9A%E4%B8%BA%E7%AA%92%E6%81%AF%23&t=31&band_rank=8&Refer=top)<br />
-9. [目击者称烧烤店楼梯炸没了难以逃生](https://s.weibo.com/weibo?q=%23%E7%9B%AE%E5%87%BB%E8%80%85%E7%A7%B0%E7%83%A7%E7%83%A4%E5%BA%97%E6%A5%BC%E6%A2%AF%E7%82%B8%E6%B2%A1%E4%BA%86%E9%9A%BE%E4%BB%A5%E9%80%83%E7%94%9F%23&t=31&band_rank=9&Refer=top)<br />
+8. [目击者称烧烤店楼梯炸没了难以逃生](https://s.weibo.com/weibo?q=%23%E7%9B%AE%E5%87%BB%E8%80%85%E7%A7%B0%E7%83%A7%E7%83%A4%E5%BA%97%E6%A5%BC%E6%A2%AF%E7%82%B8%E6%B2%A1%E4%BA%86%E9%9A%BE%E4%BB%A5%E9%80%83%E7%94%9F%23&t=31&band_rank=8&Refer=top)<br />
+9. [知情人称银川烧烤店死者死因多为窒息](https://s.weibo.com/weibo?q=%23%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0%E9%93%B6%E5%B7%9D%E7%83%A7%E7%83%A4%E5%BA%97%E6%AD%BB%E8%80%85%E6%AD%BB%E5%9B%A0%E5%A4%9A%E4%B8%BA%E7%AA%92%E6%81%AF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
