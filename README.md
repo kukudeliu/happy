@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 17:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 17:02:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [奔跑吧全员素颜](https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%E5%85%A8%E5%91%98%E7%B4%A0%E9%A2%9C%23&t=31&band_rank=5&Refer=top)<br />
 6. [王皓](https://s.weibo.com/weibo?q=%E7%8E%8B%E7%9A%93&t=31&band_rank=6&Refer=top)<br />
 7. [消失的她票房](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%88%BF&t=31&band_rank=7&Refer=top)<br />
-8. [种地吧](https://s.weibo.com/weibo?q=%E7%A7%8D%E5%9C%B0%E5%90%A7&t=31&band_rank=8&Refer=top)<br />
+8. [家属称剖宫产时孩子大腿被医生掰骨折](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E5%B1%9E%E7%A7%B0%E5%89%96%E5%AE%AB%E4%BA%A7%E6%97%B6%E5%AD%A9%E5%AD%90%E5%A4%A7%E8%85%BF%E8%A2%AB%E5%8C%BB%E7%94%9F%E6%8E%B0%E9%AA%A8%E6%8A%98%23&t=31&band_rank=8&Refer=top)<br />
 9. [迪丽热巴的项链好特别](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9A%84%E9%A1%B9%E9%93%BE%E5%A5%BD%E7%89%B9%E5%88%AB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
