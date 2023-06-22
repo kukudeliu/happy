@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 22:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 22:04:01</h4></div>
 
 > 微博  
 
@@ -18,11 +18,11 @@
 2. [上海二手房挂牌量增速全国第一，挂牌数达 18 万套，有中介接受火锅券冲抵中介费，如何看待上海楼市行情？](https://www.zhihu.com/question/607907674)<br />
 3. [一个村超都搞得有声有色，为啥中国足球人人唾弃，真的是规则出了问题？](https://www.zhihu.com/question/606948461)<br />
 4. [全国结婚登记量跌破 700 万对，创 37 年来新低，年轻人「爱」不起了吗？](https://www.zhihu.com/question/607996046)<br />
-5. [人类学、社会学和历史学，是不是毕业即失业？怎么衡量自己适不适合？](https://www.zhihu.com/theater/113436)<br />
+5. [现在还有没感染新冠的吗？你们怎么做到的？](https://www.zhihu.com/question/576527176)<br />
 6. [宁夏银川发生燃气爆炸事故造成 38 人伤亡，其中 31 人死亡，7 人仍在救治中，具体情况如何？](https://www.zhihu.com/question/607961203)<br />
-7. [现在还有没感染新冠的吗？你们怎么做到的？](https://www.zhihu.com/question/576527176)<br />
-8. []()<br />
-9. [为什么小提琴不像吉他一样加上品格，降低入门难度？](https://www.zhihu.com/question/308921367)<br />
+7. []()<br />
+8. [为什么小提琴不像吉他一样加上品格，降低入门难度？](https://www.zhihu.com/question/308921367)<br />
+9. [U17 亚洲杯小组赛中国 0:3 沙特，1 平 2 负小组垫底出局，如何评价中国队亚洲杯上的表现？](https://www.zhihu.com/question/608014216)<br />
 
 > 百度  
 
@@ -31,10 +31,10 @@
 3. [银川事故发布会现场全体默哀](https://www.baidu.com/s?wd=%E9%93%B6%E5%B7%9D%E4%BA%8B%E6%95%85%E5%8F%91%E5%B8%83%E4%BC%9A%E7%8E%B0%E5%9C%BA%E5%85%A8%E4%BD%93%E9%BB%98%E5%93%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [文博日历丨古人怎么过端午](https://www.baidu.com/s?wd=%E6%96%87%E5%8D%9A%E6%97%A5%E5%8E%86%E4%B8%A8%E5%8F%A4%E4%BA%BA%E6%80%8E%E4%B9%88%E8%BF%87%E7%AB%AF%E5%8D%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [专家称“泰坦号”潜艇或已断电进水](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E2%80%9C%E6%B3%B0%E5%9D%A6%E5%8F%B7%E2%80%9D%E6%BD%9C%E8%89%87%E6%88%96%E5%B7%B2%E6%96%AD%E7%94%B5%E8%BF%9B%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [直击端午全国人从众:泰山人山人海](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E7%AB%AF%E5%8D%88%E5%85%A8%E5%9B%BD%E4%BA%BA%E4%BB%8E%E4%BC%97%3A%E6%B3%B0%E5%B1%B1%E4%BA%BA%E5%B1%B1%E4%BA%BA%E6%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [失联泰坦尼克号观光艇氧气耗尽](https://www.baidu.com/s?wd=%E5%A4%B1%E8%81%94%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7%E8%A7%82%E5%85%89%E8%89%87%E6%B0%A7%E6%B0%94%E8%80%97%E5%B0%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [俄方回应马克龙想参加金砖峰会](https://www.baidu.com/s?wd=%E4%BF%84%E6%96%B9%E5%9B%9E%E5%BA%94%E9%A9%AC%E5%85%8B%E9%BE%99%E6%83%B3%E5%8F%82%E5%8A%A0%E9%87%91%E7%A0%96%E5%B3%B0%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [《庆余年》导演回应阵容调整](https://www.baidu.com/s?wd=%E3%80%8A%E5%BA%86%E4%BD%99%E5%B9%B4%E3%80%8B%E5%AF%BC%E6%BC%94%E5%9B%9E%E5%BA%94%E9%98%B5%E5%AE%B9%E8%B0%83%E6%95%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [女子忘关火把粽子煮成黑炭](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%BF%98%E5%85%B3%E7%81%AB%E6%8A%8A%E7%B2%BD%E5%AD%90%E7%85%AE%E6%88%90%E9%BB%91%E7%82%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [《庆余年》导演回应阵容调整](https://www.baidu.com/s?wd=%E3%80%8A%E5%BA%86%E4%BD%99%E5%B9%B4%E3%80%8B%E5%AF%BC%E6%BC%94%E5%9B%9E%E5%BA%94%E9%98%B5%E5%AE%B9%E8%B0%83%E6%95%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [失联泰坦尼克号观光艇氧气耗尽](https://www.baidu.com/s?wd=%E5%A4%B1%E8%81%94%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7%E8%A7%82%E5%85%89%E8%89%87%E6%B0%A7%E6%B0%94%E8%80%97%E5%B0%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [孙亦航拿抑郁症玩梗](https://www.baidu.com/s?wd=%E5%AD%99%E4%BA%A6%E8%88%AA%E6%8B%BF%E6%8A%91%E9%83%81%E7%97%87%E7%8E%A9%E6%A2%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [银川事故发布会现场全体默哀](https://www.baidu.com/s?wd=%E9%93%B6%E5%B7%9D%E4%BA%8B%E6%95%85%E5%8F%91%E5%B8%83%E4%BC%9A%E7%8E%B0%E5%9C%BA%E5%85%A8%E4%BD%93%E9%BB%98%E5%93%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [文博日历丨古人怎么过端午](https://www.baidu.com/s?wd=%E6%96%87%E5%8D%9A%E6%97%A5%E5%8E%86%E4%B8%A8%E5%8F%A4%E4%BA%BA%E6%80%8E%E4%B9%88%E8%BF%87%E7%AB%AF%E5%8D%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [专家称“泰坦号”潜艇或已断电进水](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E2%80%9C%E6%B3%B0%E5%9D%A6%E5%8F%B7%E2%80%9D%E6%BD%9C%E8%89%87%E6%88%96%E5%B7%B2%E6%96%AD%E7%94%B5%E8%BF%9B%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [直击端午全国人从众:泰山人山人海](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E7%AB%AF%E5%8D%88%E5%85%A8%E5%9B%BD%E4%BA%BA%E4%BB%8E%E4%BC%97%3A%E6%B3%B0%E5%B1%B1%E4%BA%BA%E5%B1%B1%E4%BA%BA%E6%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [失联泰坦尼克号观光艇氧气耗尽](https://www.baidu.com/s?wd=%E5%A4%B1%E8%81%94%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7%E8%A7%82%E5%85%89%E8%89%87%E6%B0%A7%E6%B0%94%E8%80%97%E5%B0%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [俄方回应马克龙想参加金砖峰会](https://www.baidu.com/s?wd=%E4%BF%84%E6%96%B9%E5%9B%9E%E5%BA%94%E9%A9%AC%E5%85%8B%E9%BE%99%E6%83%B3%E5%8F%82%E5%8A%A0%E9%87%91%E7%A0%96%E5%B3%B0%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [《庆余年》导演回应阵容调整](https://www.baidu.com/s?wd=%E3%80%8A%E5%BA%86%E4%BD%99%E5%B9%B4%E3%80%8B%E5%AF%BC%E6%BC%94%E5%9B%9E%E5%BA%94%E9%98%B5%E5%AE%B9%E8%B0%83%E6%95%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [女子忘关火把粽子煮成黑炭](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%BF%98%E5%85%B3%E7%81%AB%E6%8A%8A%E7%B2%BD%E5%AD%90%E7%85%AE%E6%88%90%E9%BB%91%E7%82%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [《庆余年》导演回应阵容调整](https://www.baidu.com/s?wd=%E3%80%8A%E5%BA%86%E4%BD%99%E5%B9%B4%E3%80%8B%E5%AF%BC%E6%BC%94%E5%9B%9E%E5%BA%94%E9%98%B5%E5%AE%B9%E8%B0%83%E6%95%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [失联泰坦尼克号观光艇氧气耗尽](https://www.baidu.com/s?wd=%E5%A4%B1%E8%81%94%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7%E8%A7%82%E5%85%89%E8%89%87%E6%B0%A7%E6%B0%94%E8%80%97%E5%B0%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [孙亦航拿抑郁症玩梗](https://www.baidu.com/s?wd=%E5%AD%99%E4%BA%A6%E8%88%AA%E6%8B%BF%E6%8A%91%E9%83%81%E7%97%87%E7%8E%A9%E6%A2%97&sa=fyb_news&rsv_dl=fyb_news)<br />
