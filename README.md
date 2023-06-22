@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 10:23:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 10:24:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 2. [轰 6K 海上飞行时驱离外方船只，有哪些信息值得关注？](https://www.zhihu.com/question/607773769)<br />
 3. [硅谷银行亚洲客户遭「双向挤压」，存款被没收，贷款必须还，如何看待此事？](https://www.zhihu.com/question/607811714)<br />
 4. [如何评价周润发主演的电影《别叫我「赌神」》？](https://www.zhihu.com/question/607437807)<br />
-5. []()<br />
+5. [宁夏银川发生燃气爆炸事故造成 38 人伤亡，其中 31 人死亡，7 人仍在救治中，具体情况如何？](https://www.zhihu.com/question/607961203)<br />
 6. [研究发现燃气灶增加患白血病风险，苯浓度超二手烟，这一发现具有哪些意义？生活中使用燃气灶如何降低伤害？](https://www.zhihu.com/question/607771756)<br />
 7. [布林肯结束访华，外交部美大司司长十答中美问题，更多细节披露，哪些信息值得关注？](https://www.zhihu.com/question/607816687)<br />
 8. [两名中国公民在美被定罪，外交部称「敦促美方立即纠正错误」，有哪些信息值得关注？](https://www.zhihu.com/question/607819218)<br />
@@ -32,9 +32,9 @@
 4. [“上天入海” 这些重大项目频传捷报](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%8A%E5%A4%A9%E5%85%A5%E6%B5%B7%E2%80%9D+%E8%BF%99%E4%BA%9B%E9%87%8D%E5%A4%A7%E9%A1%B9%E7%9B%AE%E9%A2%91%E4%BC%A0%E6%8D%B7%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [端午节有多堵？开车1小时仅走1公里](https://www.baidu.com/s?wd=%E7%AB%AF%E5%8D%88%E8%8A%82%E6%9C%89%E5%A4%9A%E5%A0%B5%EF%BC%9F%E5%BC%80%E8%BD%A61%E5%B0%8F%E6%97%B6%E4%BB%85%E8%B5%B01%E5%85%AC%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [北京大爷不想让孩子要孩子](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%A4%A7%E7%88%B7%E4%B8%8D%E6%83%B3%E8%AE%A9%E5%AD%A9%E5%AD%90%E8%A6%81%E5%AD%A9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [带48斤毒品入境首都机场 男子获死刑](https://www.baidu.com/s?wd=%E5%B8%A648%E6%96%A4%E6%AF%92%E5%93%81%E5%85%A5%E5%A2%83%E9%A6%96%E9%83%BD%E6%9C%BA%E5%9C%BA+%E7%94%B7%E5%AD%90%E8%8E%B7%E6%AD%BB%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [古人过端午仪式感有多足](https://www.baidu.com/s?wd=%E5%8F%A4%E4%BA%BA%E8%BF%87%E7%AB%AF%E5%8D%88%E4%BB%AA%E5%BC%8F%E6%84%9F%E6%9C%89%E5%A4%9A%E8%B6%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子水杯遭同事投毒 对方想私了](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%B0%B4%E6%9D%AF%E9%81%AD%E5%90%8C%E4%BA%8B%E6%8A%95%E6%AF%92+%E5%AF%B9%E6%96%B9%E6%83%B3%E7%A7%81%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [古人过端午仪式感有多足](https://www.baidu.com/s?wd=%E5%8F%A4%E4%BA%BA%E8%BF%87%E7%AB%AF%E5%8D%88%E4%BB%AA%E5%BC%8F%E6%84%9F%E6%9C%89%E5%A4%9A%E8%B6%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [带48斤毒品入境首都机场 男子获死刑](https://www.baidu.com/s?wd=%E5%B8%A648%E6%96%A4%E6%AF%92%E5%93%81%E5%85%A5%E5%A2%83%E9%A6%96%E9%83%BD%E6%9C%BA%E5%9C%BA+%E7%94%B7%E5%AD%90%E8%8E%B7%E6%AD%BB%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [周鸿祎谈高考志愿：优先看专业](https://www.baidu.com/s?wd=%E5%91%A8%E9%B8%BF%E7%A5%8E%E8%B0%88%E9%AB%98%E8%80%83%E5%BF%97%E6%84%BF%EF%BC%9A%E4%BC%98%E5%85%88%E7%9C%8B%E4%B8%93%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [“上天入海” 这些重大项目频传捷报](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%8A%E5%A4%A9%E5%85%A5%E6%B5%B7%E2%80%9D+%E8%BF%99%E4%BA%9B%E9%87%8D%E5%A4%A7%E9%A1%B9%E7%9B%AE%E9%A2%91%E4%BC%A0%E6%8D%B7%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [端午节有多堵？开车1小时仅走1公里](https://www.baidu.com/s?wd=%E7%AB%AF%E5%8D%88%E8%8A%82%E6%9C%89%E5%A4%9A%E5%A0%B5%EF%BC%9F%E5%BC%80%E8%BD%A61%E5%B0%8F%E6%97%B6%E4%BB%85%E8%B5%B01%E5%85%AC%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [北京大爷不想让孩子要孩子](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%A4%A7%E7%88%B7%E4%B8%8D%E6%83%B3%E8%AE%A9%E5%AD%A9%E5%AD%90%E8%A6%81%E5%AD%A9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [带48斤毒品入境首都机场 男子获死刑](https://www.baidu.com/s?wd=%E5%B8%A648%E6%96%A4%E6%AF%92%E5%93%81%E5%85%A5%E5%A2%83%E9%A6%96%E9%83%BD%E6%9C%BA%E5%9C%BA+%E7%94%B7%E5%AD%90%E8%8E%B7%E6%AD%BB%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [古人过端午仪式感有多足](https://www.baidu.com/s?wd=%E5%8F%A4%E4%BA%BA%E8%BF%87%E7%AB%AF%E5%8D%88%E4%BB%AA%E5%BC%8F%E6%84%9F%E6%9C%89%E5%A4%9A%E8%B6%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子水杯遭同事投毒 对方想私了](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%B0%B4%E6%9D%AF%E9%81%AD%E5%90%8C%E4%BA%8B%E6%8A%95%E6%AF%92+%E5%AF%B9%E6%96%B9%E6%83%B3%E7%A7%81%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [古人过端午仪式感有多足](https://www.baidu.com/s?wd=%E5%8F%A4%E4%BA%BA%E8%BF%87%E7%AB%AF%E5%8D%88%E4%BB%AA%E5%BC%8F%E6%84%9F%E6%9C%89%E5%A4%9A%E8%B6%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [带48斤毒品入境首都机场 男子获死刑](https://www.baidu.com/s?wd=%E5%B8%A648%E6%96%A4%E6%AF%92%E5%93%81%E5%85%A5%E5%A2%83%E9%A6%96%E9%83%BD%E6%9C%BA%E5%9C%BA+%E7%94%B7%E5%AD%90%E8%8E%B7%E6%AD%BB%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [周鸿祎谈高考志愿：优先看专业](https://www.baidu.com/s?wd=%E5%91%A8%E9%B8%BF%E7%A5%8E%E8%B0%88%E9%AB%98%E8%80%83%E5%BF%97%E6%84%BF%EF%BC%9A%E4%BC%98%E5%85%88%E7%9C%8B%E4%B8%93%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
