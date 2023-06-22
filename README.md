@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 14:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 14:44:01</h4></div>
 
 > 微博  
 
@@ -15,9 +15,9 @@
 > 知乎  
 
 1. [两名中国公民在美被定罪，外交部称「敦促美方立即纠正错误」，有哪些信息值得关注？](https://www.zhihu.com/question/607819218)<br />
-2. [宁夏银川烧烤店爆炸事故 9 名责任人已被控制，其资产被冻结，他们将承担哪些法律责任？](https://www.zhihu.com/question/607978473)<br />
-3. [空军航空兵某团飞行二大队获「时代楷模」称号，褒扬他们是「奋飞新时代的空中铁拳」，他们值得学习的点在哪？](https://www.zhihu.com/question/607609756)<br />
-4. [数据称应届大学生就业重心继续下沉，越来越多应届生回县城考公，如何看待此现象？反映出哪些问题？](https://www.zhihu.com/question/607781746)<br />
+2. [空军航空兵某团飞行二大队获「时代楷模」称号，褒扬他们是「奋飞新时代的空中铁拳」，他们值得学习的点在哪？](https://www.zhihu.com/question/607609756)<br />
+3. [数据称应届大学生就业重心继续下沉，越来越多应届生回县城考公，如何看待此现象？反映出哪些问题？](https://www.zhihu.com/question/607781746)<br />
+4. [宁夏银川烧烤店爆炸事故 9 名责任人已被控制，其资产被冻结，他们将承担哪些法律责任？](https://www.zhihu.com/question/607978473)<br />
 5. [美股全线收跌，特斯拉一夜蒸发 475 亿美元，失守近九个月最高，鲍威尔称未来或进一步加息，如何解读？](https://www.zhihu.com/question/607964846)<br />
 6. [宁夏银川发生燃气爆炸事故造成 38 人伤亡，其中 31 人死亡，7 人仍在救治中，具体情况如何？](https://www.zhihu.com/question/607961203)<br />
 7. [什么是管理的本质？](https://www.zhihu.com/question/607006108)<br />
@@ -33,8 +33,8 @@
 5. [知情人:烧烤店爆炸死者死因多为窒息](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%3A%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E6%AD%BB%E8%80%85%E6%AD%BB%E5%9B%A0%E5%A4%9A%E4%B8%BA%E7%AA%92%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [爆炸烧烤店连夜注销 老板身家千万](https://www.baidu.com/s?wd=%E7%88%86%E7%82%B8%E7%83%A7%E7%83%A4%E5%BA%97%E8%BF%9E%E5%A4%9C%E6%B3%A8%E9%94%80+%E8%80%81%E6%9D%BF%E8%BA%AB%E5%AE%B6%E5%8D%83%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [宁夏烧烤店爆炸致31死](https://www.baidu.com/s?wd=%E5%AE%81%E5%A4%8F%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E8%87%B431%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [大雨中校长毕业典礼致辞只念了标题](https://www.baidu.com/s?wd=%E5%A4%A7%E9%9B%A8%E4%B8%AD%E6%A0%A1%E9%95%BF%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E8%87%B4%E8%BE%9E%E5%8F%AA%E5%BF%B5%E4%BA%86%E6%A0%87%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [泰坦尼克号遇难者后裔丈夫在潜艇上](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7%E9%81%87%E9%9A%BE%E8%80%85%E5%90%8E%E8%A3%94%E4%B8%88%E5%A4%AB%E5%9C%A8%E6%BD%9C%E8%89%87%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子忘关火把粽子煮成黑炭](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%BF%98%E5%85%B3%E7%81%AB%E6%8A%8A%E7%B2%BD%E5%AD%90%E7%85%AE%E6%88%90%E9%BB%91%E7%82%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [大雨中校长毕业典礼致辞只念了标题](https://www.baidu.com/s?wd=%E5%A4%A7%E9%9B%A8%E4%B8%AD%E6%A0%A1%E9%95%BF%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E8%87%B4%E8%BE%9E%E5%8F%AA%E5%BF%B5%E4%BA%86%E6%A0%87%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [知情人:烧烤店爆炸死者死因多为窒息](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%3A%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E6%AD%BB%E8%80%85%E6%AD%BB%E5%9B%A0%E5%A4%9A%E4%B8%BA%E7%AA%92%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [爆炸烧烤店连夜注销 老板身家千万](https://www.baidu.com/s?wd=%E7%88%86%E7%82%B8%E7%83%A7%E7%83%A4%E5%BA%97%E8%BF%9E%E5%A4%9C%E6%B3%A8%E9%94%80+%E8%80%81%E6%9D%BF%E8%BA%AB%E5%AE%B6%E5%8D%83%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [宁夏烧烤店爆炸致31死](https://www.baidu.com/s?wd=%E5%AE%81%E5%A4%8F%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E8%87%B431%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [大雨中校长毕业典礼致辞只念了标题](https://www.baidu.com/s?wd=%E5%A4%A7%E9%9B%A8%E4%B8%AD%E6%A0%A1%E9%95%BF%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E8%87%B4%E8%BE%9E%E5%8F%AA%E5%BF%B5%E4%BA%86%E6%A0%87%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [泰坦尼克号遇难者后裔丈夫在潜艇上](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7%E9%81%87%E9%9A%BE%E8%80%85%E5%90%8E%E8%A3%94%E4%B8%88%E5%A4%AB%E5%9C%A8%E6%BD%9C%E8%89%87%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子忘关火把粽子煮成黑炭](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%BF%98%E5%85%B3%E7%81%AB%E6%8A%8A%E7%B2%BD%E5%AD%90%E7%85%AE%E6%88%90%E9%BB%91%E7%82%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [大雨中校长毕业典礼致辞只念了标题](https://www.baidu.com/s?wd=%E5%A4%A7%E9%9B%A8%E4%B8%AD%E6%A0%A1%E9%95%BF%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E8%87%B4%E8%BE%9E%E5%8F%AA%E5%BF%B5%E4%BA%86%E6%A0%87%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
