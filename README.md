@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 17:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 17:04:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [张兰回应大S怀孕传闻](https://www.baidu.com/s?wd=%E5%BC%A0%E5%85%B0%E5%9B%9E%E5%BA%94%E5%A4%A7S%E6%80%80%E5%AD%95%E4%BC%A0%E9%97%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子连生6女被要求生子想离婚遭驳回](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%BF%9E%E7%94%9F6%E5%A5%B3%E8%A2%AB%E8%A6%81%E6%B1%82%E7%94%9F%E5%AD%90%E6%83%B3%E7%A6%BB%E5%A9%9A%E9%81%AD%E9%A9%B3%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子地铁上数次扇脸女子质问爱谁](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%B0%E9%93%81%E4%B8%8A%E6%95%B0%E6%AC%A1%E6%89%87%E8%84%B8%E5%A5%B3%E5%AD%90%E8%B4%A8%E9%97%AE%E7%88%B1%E8%B0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [西湖龙舟赛黑人外援：非洲没杭州热](https://www.baidu.com/s?wd=%E8%A5%BF%E6%B9%96%E9%BE%99%E8%88%9F%E8%B5%9B%E9%BB%91%E4%BA%BA%E5%A4%96%E6%8F%B4%EF%BC%9A%E9%9D%9E%E6%B4%B2%E6%B2%A1%E6%9D%AD%E5%B7%9E%E7%83%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [辰亦儒才是吃瓜王者](https://www.baidu.com/s?wd=%E8%BE%B0%E4%BA%A6%E5%84%92%E6%89%8D%E6%98%AF%E5%90%83%E7%93%9C%E7%8E%8B%E8%80%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [张兰回应大S怀孕传闻](https://www.baidu.com/s?wd=%E5%BC%A0%E5%85%B0%E5%9B%9E%E5%BA%94%E5%A4%A7S%E6%80%80%E5%AD%95%E4%BC%A0%E9%97%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子连生6女被要求生子想离婚遭驳回](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%BF%9E%E7%94%9F6%E5%A5%B3%E8%A2%AB%E8%A6%81%E6%B1%82%E7%94%9F%E5%AD%90%E6%83%B3%E7%A6%BB%E5%A9%9A%E9%81%AD%E9%A9%B3%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子地铁上数次扇脸女子质问爱谁](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%B0%E9%93%81%E4%B8%8A%E6%95%B0%E6%AC%A1%E6%89%87%E8%84%B8%E5%A5%B3%E5%AD%90%E8%B4%A8%E9%97%AE%E7%88%B1%E8%B0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [西湖龙舟赛黑人外援：非洲没杭州热](https://www.baidu.com/s?wd=%E8%A5%BF%E6%B9%96%E9%BE%99%E8%88%9F%E8%B5%9B%E9%BB%91%E4%BA%BA%E5%A4%96%E6%8F%B4%EF%BC%9A%E9%9D%9E%E6%B4%B2%E6%B2%A1%E6%9D%AD%E5%B7%9E%E7%83%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [辰亦儒才是吃瓜王者](https://www.baidu.com/s?wd=%E8%BE%B0%E4%BA%A6%E5%84%92%E6%89%8D%E6%98%AF%E5%90%83%E7%93%9C%E7%8E%8B%E8%80%85&sa=fyb_news&rsv_dl=fyb_news)<br />
