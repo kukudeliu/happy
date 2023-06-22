@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 07:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 07:50:01</h4></div>
 
 > 微博  
 
 1. [成都UFO](https://s.weibo.com/weibo?q=%E6%88%90%E9%83%BDUFO&t=31&band_rank=1&Refer=top)<br />
-2. [氧气耗尽泰坦号内5人还有生还可能吗](https://s.weibo.com/weibo?q=%23%E6%B0%A7%E6%B0%94%E8%80%97%E5%B0%BD%E6%B3%B0%E5%9D%A6%E5%8F%B7%E5%86%855%E4%BA%BA%E8%BF%98%E6%9C%89%E7%94%9F%E8%BF%98%E5%8F%AF%E8%83%BD%E5%90%97%23&t=31&band_rank=2&Refer=top)<br />
+2. [高考查分](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86&t=31&band_rank=2&Refer=top)<br />
 3. [龙舟漂移有多酷炫](https://s.weibo.com/weibo?q=%23%E9%BE%99%E8%88%9F%E6%BC%82%E7%A7%BB%E6%9C%89%E5%A4%9A%E9%85%B7%E7%82%AB%23&t=31&band_rank=3&Refer=top)<br />
-4. [高考查分](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86&t=31&band_rank=4&Refer=top)<br />
+4. [泰坦号观光艇内爆5名乘员已死亡](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9D%A6%E5%8F%B7%E8%A7%82%E5%85%89%E8%89%87%E5%86%85%E7%88%865%E5%90%8D%E4%B9%98%E5%91%98%E5%B7%B2%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=4&Refer=top)<br />
 5. [2023好声音导师官宣](https://s.weibo.com/weibo?q=%232023%E5%A5%BD%E5%A3%B0%E9%9F%B3%E5%AF%BC%E5%B8%88%E5%AE%98%E5%AE%A3%23&t=31&band_rank=5&Refer=top)<br />
-6. [马伯庸 别人发端午安康我回复端午快乐](https://s.weibo.com/weibo?q=%E9%A9%AC%E4%BC%AF%E5%BA%B8%20%E5%88%AB%E4%BA%BA%E5%8F%91%E7%AB%AF%E5%8D%88%E5%AE%89%E5%BA%B7%E6%88%91%E5%9B%9E%E5%A4%8D%E7%AB%AF%E5%8D%88%E5%BF%AB%E4%B9%90&t=31&band_rank=6&Refer=top)<br />
-7. [保罗被交易至勇士](https://s.weibo.com/weibo?q=%23%E4%BF%9D%E7%BD%97%E8%A2%AB%E4%BA%A4%E6%98%93%E8%87%B3%E5%8B%87%E5%A3%AB%23&t=31&band_rank=7&Refer=top)<br />
-8. [消失的她票房](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%88%BF&t=31&band_rank=8&Refer=top)<br />
-9. [专家称泰坦号或已断电进水](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%B3%B0%E5%9D%A6%E5%8F%B7%E6%88%96%E5%B7%B2%E6%96%AD%E7%94%B5%E8%BF%9B%E6%B0%B4%23&t=31&band_rank=9&Refer=top)<br />
+6. [氧气耗尽泰坦号内5人还有生还可能吗](https://s.weibo.com/weibo?q=%23%E6%B0%A7%E6%B0%94%E8%80%97%E5%B0%BD%E6%B3%B0%E5%9D%A6%E5%8F%B7%E5%86%855%E4%BA%BA%E8%BF%98%E6%9C%89%E7%94%9F%E8%BF%98%E5%8F%AF%E8%83%BD%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
+7. [马伯庸 别人发端午安康我回复端午快乐](https://s.weibo.com/weibo?q=%E9%A9%AC%E4%BC%AF%E5%BA%B8%20%E5%88%AB%E4%BA%BA%E5%8F%91%E7%AB%AF%E5%8D%88%E5%AE%89%E5%BA%B7%E6%88%91%E5%9B%9E%E5%A4%8D%E7%AB%AF%E5%8D%88%E5%BF%AB%E4%B9%90&t=31&band_rank=7&Refer=top)<br />
+8. [保罗被交易至勇士](https://s.weibo.com/weibo?q=%23%E4%BF%9D%E7%BD%97%E8%A2%AB%E4%BA%A4%E6%98%93%E8%87%B3%E5%8B%87%E5%A3%AB%23&t=31&band_rank=8&Refer=top)<br />
+9. [消失的她票房](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%88%BF&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
