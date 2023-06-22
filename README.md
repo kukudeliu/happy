@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 11:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 11:31:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [赛龙舟原来这么燃](https://s.weibo.com/weibo?q=%23%E8%B5%9B%E9%BE%99%E8%88%9F%E5%8E%9F%E6%9D%A5%E8%BF%99%E4%B9%88%E7%87%83%23&t=31&band_rank=3&Refer=top)<br />
 4. [千万别在下午和晚上买机票](https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E5%88%AB%E5%9C%A8%E4%B8%8B%E5%8D%88%E5%92%8C%E6%99%9A%E4%B8%8A%E4%B9%B0%E6%9C%BA%E7%A5%A8%23&t=31&band_rank=4&Refer=top)<br />
 5. [5岁时的韩安冉](https://s.weibo.com/weibo?q=%235%E5%B2%81%E6%97%B6%E7%9A%84%E9%9F%A9%E5%AE%89%E5%86%89%23&t=31&band_rank=5&Refer=top)<br />
-6. [为什么大家都不再发朋友圈了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%A7%E5%AE%B6%E9%83%BD%E4%B8%8D%E5%86%8D%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [广东人为什么普遍都很瘦](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E6%99%AE%E9%81%8D%E9%83%BD%E5%BE%88%E7%98%A6%23&t=31&band_rank=7&Refer=top)<br />
+6. [广东人为什么普遍都很瘦](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E6%99%AE%E9%81%8D%E9%83%BD%E5%BE%88%E7%98%A6%23&t=31&band_rank=6&Refer=top)<br />
+7. [为什么大家都不再发朋友圈了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%A7%E5%AE%B6%E9%83%BD%E4%B8%8D%E5%86%8D%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [马伯骞你是真的火了](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%BC%AF%E9%AA%9E%E4%BD%A0%E6%98%AF%E7%9C%9F%E7%9A%84%E7%81%AB%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [张艺兴点赞了EXO回归预告](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E7%82%B9%E8%B5%9E%E4%BA%86EXO%E5%9B%9E%E5%BD%92%E9%A2%84%E5%91%8A%23&t=31&band_rank=9&Refer=top)<br />
 
@@ -18,8 +18,8 @@
 2. [宁夏银川发生燃气爆炸事故造成 38 人伤亡，其中 31 人死亡，7 人仍在救治中，具体情况如何？](https://www.zhihu.com/question/607961203)<br />
 3. [硅谷银行亚洲客户遭「双向挤压」，存款被没收，贷款必须还，如何看待此事？](https://www.zhihu.com/question/607811714)<br />
 4. [轰 6K 海上飞行时驱离外方船只，有哪些信息值得关注？](https://www.zhihu.com/question/607773769)<br />
-5. [研究发现燃气灶增加患白血病风险，苯浓度超二手烟，这一发现具有哪些意义？生活中使用燃气灶如何降低伤害？](https://www.zhihu.com/question/607771756)<br />
-6. [两名中国公民在美被定罪，外交部称「敦促美方立即纠正错误」，有哪些信息值得关注？](https://www.zhihu.com/question/607819218)<br />
+5. [两名中国公民在美被定罪，外交部称「敦促美方立即纠正错误」，有哪些信息值得关注？](https://www.zhihu.com/question/607819218)<br />
+6. [研究发现燃气灶增加患白血病风险，苯浓度超二手烟，这一发现具有哪些意义？生活中使用燃气灶如何降低伤害？](https://www.zhihu.com/question/607771756)<br />
 7. [布林肯结束访华，外交部美大司司长十答中美问题，更多细节披露，哪些信息值得关注？](https://www.zhihu.com/question/607816687)<br />
 8. [自曝「在马尔代夫遭性侵」中国女生称「已致函马尔代夫总统求助」，此前称当地警方不作为，如何看待事件发展？](https://www.zhihu.com/question/607809339)<br />
 9. [女孩考出青海农村发现母亲婚姻中「父亲缺位」以及「家族重男轻女」的悲剧，如何看待这类婚姻？](https://www.zhihu.com/question/607784642)<br />
