@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 20:48:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 20:49:01</h4></div>
 
 > 微博  
 
@@ -32,9 +32,9 @@
 4. [文化兴国运兴 文化强民族强](https://www.baidu.com/s?wd=%E6%96%87%E5%8C%96%E5%85%B4%E5%9B%BD%E8%BF%90%E5%85%B4+%E6%96%87%E5%8C%96%E5%BC%BA%E6%B0%91%E6%97%8F%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [失联泰坦尼克号观光艇氧气耗尽](https://www.baidu.com/s?wd=%E5%A4%B1%E8%81%94%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7%E8%A7%82%E5%85%89%E8%89%87%E6%B0%A7%E6%B0%94%E8%80%97%E5%B0%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [直击端午全国人从众:泰山人山人海](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E7%AB%AF%E5%8D%88%E5%85%A8%E5%9B%BD%E4%BA%BA%E4%BB%8E%E4%BC%97%3A%E6%B3%B0%E5%B1%B1%E4%BA%BA%E5%B1%B1%E4%BA%BA%E6%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [广东一龙舟侧翻致1死1失联](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E9%BE%99%E8%88%9F%E4%BE%A7%E7%BF%BB%E8%87%B41%E6%AD%BB1%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [韩安冉婚礼随礼名单](https://www.baidu.com/s?wd=%E9%9F%A9%E5%AE%89%E5%86%89%E5%A9%9A%E7%A4%BC%E9%9A%8F%E7%A4%BC%E5%90%8D%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [央视端午晚会](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E7%AB%AF%E5%8D%88%E6%99%9A%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子忘关火把粽子煮成黑炭](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%BF%98%E5%85%B3%E7%81%AB%E6%8A%8A%E7%B2%BD%E5%AD%90%E7%85%AE%E6%88%90%E9%BB%91%E7%82%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [广东一龙舟侧翻致1死1失联](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E9%BE%99%E8%88%9F%E4%BE%A7%E7%BF%BB%E8%87%B41%E6%AD%BB1%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [粽子界“显眼包”](https://www.baidu.com/s?wd=%E7%B2%BD%E5%AD%90%E7%95%8C%E2%80%9C%E6%98%BE%E7%9C%BC%E5%8C%85%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [文化兴国运兴 文化强民族强](https://www.baidu.com/s?wd=%E6%96%87%E5%8C%96%E5%85%B4%E5%9B%BD%E8%BF%90%E5%85%B4+%E6%96%87%E5%8C%96%E5%BC%BA%E6%B0%91%E6%97%8F%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [失联泰坦尼克号观光艇氧气耗尽](https://www.baidu.com/s?wd=%E5%A4%B1%E8%81%94%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7%E8%A7%82%E5%85%89%E8%89%87%E6%B0%A7%E6%B0%94%E8%80%97%E5%B0%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [直击端午全国人从众:泰山人山人海](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E7%AB%AF%E5%8D%88%E5%85%A8%E5%9B%BD%E4%BA%BA%E4%BB%8E%E4%BC%97%3A%E6%B3%B0%E5%B1%B1%E4%BA%BA%E5%B1%B1%E4%BA%BA%E6%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [广东一龙舟侧翻致1死1失联](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E9%BE%99%E8%88%9F%E4%BE%A7%E7%BF%BB%E8%87%B41%E6%AD%BB1%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [韩安冉婚礼随礼名单](https://www.baidu.com/s?wd=%E9%9F%A9%E5%AE%89%E5%86%89%E5%A9%9A%E7%A4%BC%E9%9A%8F%E7%A4%BC%E5%90%8D%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [央视端午晚会](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E7%AB%AF%E5%8D%88%E6%99%9A%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子忘关火把粽子煮成黑炭](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%BF%98%E5%85%B3%E7%81%AB%E6%8A%8A%E7%B2%BD%E5%AD%90%E7%85%AE%E6%88%90%E9%BB%91%E7%82%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [广东一龙舟侧翻致1死1失联](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E9%BE%99%E8%88%9F%E4%BE%A7%E7%BF%BB%E8%87%B41%E6%AD%BB1%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [粽子界“显眼包”](https://www.baidu.com/s?wd=%E7%B2%BD%E5%AD%90%E7%95%8C%E2%80%9C%E6%98%BE%E7%9C%BC%E5%8C%85%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
