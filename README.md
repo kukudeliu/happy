@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 22:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 22:06:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [消失的她票房](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%88%BF&t=31&band_rank=5&Refer=top)<br />
 6. [怀孕33周孕妇被2岁儿子开枪打死](https://s.weibo.com/weibo?q=%23%E6%80%80%E5%AD%9533%E5%91%A8%E5%AD%95%E5%A6%87%E8%A2%AB2%E5%B2%81%E5%84%BF%E5%AD%90%E5%BC%80%E6%9E%AA%E6%89%93%E6%AD%BB%23&t=31&band_rank=6&Refer=top)<br />
 7. [宁夏银川烧烤店爆炸事故新闻发布会](https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%A4%8F%E9%93%B6%E5%B7%9D%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=7&Refer=top)<br />
-8. [伊能静晒儿子女儿合照](https://s.weibo.com/weibo?q=%23%E4%BC%8A%E8%83%BD%E9%9D%99%E6%99%92%E5%84%BF%E5%AD%90%E5%A5%B3%E5%84%BF%E5%90%88%E7%85%A7%23&t=31&band_rank=8&Refer=top)<br />
-9. [顾然是知否里的小顾廷烨](https://s.weibo.com/weibo?q=%23%E9%A1%BE%E7%84%B6%E6%98%AF%E7%9F%A5%E5%90%A6%E9%87%8C%E7%9A%84%E5%B0%8F%E9%A1%BE%E5%BB%B7%E7%83%A8%23&t=31&band_rank=9&Refer=top)<br />
+8. [顾然是知否里的小顾廷烨](https://s.weibo.com/weibo?q=%23%E9%A1%BE%E7%84%B6%E6%98%AF%E7%9F%A5%E5%90%A6%E9%87%8C%E7%9A%84%E5%B0%8F%E9%A1%BE%E5%BB%B7%E7%83%A8%23&t=31&band_rank=8&Refer=top)<br />
+9. [张绍刚你好狠的心](https://s.weibo.com/weibo?q=%E5%BC%A0%E7%BB%8D%E5%88%9A%E4%BD%A0%E5%A5%BD%E7%8B%A0%E7%9A%84%E5%BF%83&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
