@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 05:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 05:10:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [iPhone 电池健康度多少才算正常？80% 和 100% 有什么区别？](https://www.zhihu.com/question/569965047)<br />
 7. [U17 亚洲杯小组赛中国 0:3 沙特，1 平 2 负小组垫底出局，如何评价中国队亚洲杯上的表现？](https://www.zhihu.com/question/608014216)<br />
 8. [校招中的「熟悉 Linux 操作系统」一般是指达到什么程度？](https://www.zhihu.com/question/517101428)<br />
-9. [一个村超都搞得有声有色，为啥中国足球人人唾弃，真的是规则出了问题？](https://www.zhihu.com/question/606948461)<br />
+9. [现在还有没感染新冠的吗？你们怎么做到的？](https://www.zhihu.com/question/576527176)<br />
 
 > 百度  
 
