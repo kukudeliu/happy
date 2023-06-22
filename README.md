@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 05:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 05:56:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [2023好声音导师官宣](https://s.weibo.com/weibo?q=%232023%E5%A5%BD%E5%A3%B0%E9%9F%B3%E5%AF%BC%E5%B8%88%E5%AE%98%E5%AE%A3%23&t=31&band_rank=6&Refer=top)<br />
 7. [马伯庸 别人发端午安康我回复端午快乐](https://s.weibo.com/weibo?q=%E9%A9%AC%E4%BC%AF%E5%BA%B8%20%E5%88%AB%E4%BA%BA%E5%8F%91%E7%AB%AF%E5%8D%88%E5%AE%89%E5%BA%B7%E6%88%91%E5%9B%9E%E5%A4%8D%E7%AB%AF%E5%8D%88%E5%BF%AB%E4%B9%90&t=31&band_rank=7&Refer=top)<br />
 8. [消失的她票房](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%88%BF&t=31&band_rank=8&Refer=top)<br />
-9. [专家称泰坦号或已断电进水](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%B3%B0%E5%9D%A6%E5%8F%B7%E6%88%96%E5%B7%B2%E6%96%AD%E7%94%B5%E8%BF%9B%E6%B0%B4%23&t=31&band_rank=9&Refer=top)<br />
+9. [这粽子是犯了天条吗被绑成这样](https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%B2%BD%E5%AD%90%E6%98%AF%E7%8A%AF%E4%BA%86%E5%A4%A9%E6%9D%A1%E5%90%97%E8%A2%AB%E7%BB%91%E6%88%90%E8%BF%99%E6%A0%B7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -34,7 +34,7 @@
 6. [高温下北京白天现星星](https://www.baidu.com/s?wd=%E9%AB%98%E6%B8%A9%E4%B8%8B%E5%8C%97%E4%BA%AC%E7%99%BD%E5%A4%A9%E7%8E%B0%E6%98%9F%E6%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [180斤男生摔伤腿体育老师背其去中考](https://www.baidu.com/s?wd=180%E6%96%A4%E7%94%B7%E7%94%9F%E6%91%94%E4%BC%A4%E8%85%BF%E4%BD%93%E8%82%B2%E8%80%81%E5%B8%88%E8%83%8C%E5%85%B6%E5%8E%BB%E4%B8%AD%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [端午节成都惊现不明飞行物](https://www.baidu.com/s?wd=%E7%AB%AF%E5%8D%88%E8%8A%82%E6%88%90%E9%83%BD%E6%83%8A%E7%8E%B0%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [植物人父亲帮儿子挠痒](https://www.baidu.com/s?wd=%E6%A4%8D%E7%89%A9%E4%BA%BA%E7%88%B6%E4%BA%B2%E5%B8%AE%E5%84%BF%E5%AD%90%E6%8C%A0%E7%97%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [国人买iPhone14Pro需9.5%年收入？](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%BA%E4%B9%B0iPhone14Pro%E9%9C%809.5%25%E5%B9%B4%E6%94%B6%E5%85%A5%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [高温下北京白天现星星](https://www.baidu.com/s?wd=%E9%AB%98%E6%B8%A9%E4%B8%8B%E5%8C%97%E4%BA%AC%E7%99%BD%E5%A4%A9%E7%8E%B0%E6%98%9F%E6%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [180斤男生摔伤腿体育老师背其去中考](https://www.baidu.com/s?wd=180%E6%96%A4%E7%94%B7%E7%94%9F%E6%91%94%E4%BC%A4%E8%85%BF%E4%BD%93%E8%82%B2%E8%80%81%E5%B8%88%E8%83%8C%E5%85%B6%E5%8E%BB%E4%B8%AD%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [端午节成都惊现不明飞行物](https://www.baidu.com/s?wd=%E7%AB%AF%E5%8D%88%E8%8A%82%E6%88%90%E9%83%BD%E6%83%8A%E7%8E%B0%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [植物人父亲帮儿子挠痒](https://www.baidu.com/s?wd=%E6%A4%8D%E7%89%A9%E4%BA%BA%E7%88%B6%E4%BA%B2%E5%B8%AE%E5%84%BF%E5%AD%90%E6%8C%A0%E7%97%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [国人买iPhone14Pro需9.5%年收入？](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%BA%E4%B9%B0iPhone14Pro%E9%9C%809.5%25%E5%B9%B4%E6%94%B6%E5%85%A5%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
