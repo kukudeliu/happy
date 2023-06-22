@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 02:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 02:28:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [凤凰古城端午热：众人跳水抓鸭](https://www.baidu.com/s?wd=%E5%87%A4%E5%87%B0%E5%8F%A4%E5%9F%8E%E7%AB%AF%E5%8D%88%E7%83%AD%EF%BC%9A%E4%BC%97%E4%BA%BA%E8%B7%B3%E6%B0%B4%E6%8A%93%E9%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [端午节成都惊现不明飞行物](https://www.baidu.com/s?wd=%E7%AB%AF%E5%8D%88%E8%8A%82%E6%88%90%E9%83%BD%E6%83%8A%E7%8E%B0%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [大雨中校长毕业典礼致辞只念了标题](https://www.baidu.com/s?wd=%E5%A4%A7%E9%9B%A8%E4%B8%AD%E6%A0%A1%E9%95%BF%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E8%87%B4%E8%BE%9E%E5%8F%AA%E5%BF%B5%E4%BA%86%E6%A0%87%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [段奕宏：文化对演员来说太重要了](https://www.baidu.com/s?wd=%E6%AE%B5%E5%A5%95%E5%AE%8F%EF%BC%9A%E6%96%87%E5%8C%96%E5%AF%B9%E6%BC%94%E5%91%98%E6%9D%A5%E8%AF%B4%E5%A4%AA%E9%87%8D%E8%A6%81%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [巴菲特又捐赠46亿美元股票](https://www.baidu.com/s?wd=%E5%B7%B4%E8%8F%B2%E7%89%B9%E5%8F%88%E6%8D%90%E8%B5%A046%E4%BA%BF%E7%BE%8E%E5%85%83%E8%82%A1%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [巴菲特又捐赠46亿美元股票](https://www.baidu.com/s?wd=%E5%B7%B4%E8%8F%B2%E7%89%B9%E5%8F%88%E6%8D%90%E8%B5%A046%E4%BA%BF%E7%BE%8E%E5%85%83%E8%82%A1%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [特斯拉市值蒸发近475亿美元](https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91%E8%BF%91475%E4%BA%BF%E7%BE%8E%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [凤凰古城端午热：众人跳水抓鸭](https://www.baidu.com/s?wd=%E5%87%A4%E5%87%B0%E5%8F%A4%E5%9F%8E%E7%AB%AF%E5%8D%88%E7%83%AD%EF%BC%9A%E4%BC%97%E4%BA%BA%E8%B7%B3%E6%B0%B4%E6%8A%93%E9%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [端午节成都惊现不明飞行物](https://www.baidu.com/s?wd=%E7%AB%AF%E5%8D%88%E8%8A%82%E6%88%90%E9%83%BD%E6%83%8A%E7%8E%B0%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [大雨中校长毕业典礼致辞只念了标题](https://www.baidu.com/s?wd=%E5%A4%A7%E9%9B%A8%E4%B8%AD%E6%A0%A1%E9%95%BF%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E8%87%B4%E8%BE%9E%E5%8F%AA%E5%BF%B5%E4%BA%86%E6%A0%87%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [段奕宏：文化对演员来说太重要了](https://www.baidu.com/s?wd=%E6%AE%B5%E5%A5%95%E5%AE%8F%EF%BC%9A%E6%96%87%E5%8C%96%E5%AF%B9%E6%BC%94%E5%91%98%E6%9D%A5%E8%AF%B4%E5%A4%AA%E9%87%8D%E8%A6%81%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [巴菲特又捐赠46亿美元股票](https://www.baidu.com/s?wd=%E5%B7%B4%E8%8F%B2%E7%89%B9%E5%8F%88%E6%8D%90%E8%B5%A046%E4%BA%BF%E7%BE%8E%E5%85%83%E8%82%A1%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [巴菲特又捐赠46亿美元股票](https://www.baidu.com/s?wd=%E5%B7%B4%E8%8F%B2%E7%89%B9%E5%8F%88%E6%8D%90%E8%B5%A046%E4%BA%BF%E7%BE%8E%E5%85%83%E8%82%A1%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [特斯拉市值蒸发近475亿美元](https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91%E8%BF%91475%E4%BA%BF%E7%BE%8E%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
