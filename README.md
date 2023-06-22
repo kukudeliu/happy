@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 04:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 04:15:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [凤凰古城端午热：众人跳水抓鸭](https://www.baidu.com/s?wd=%E5%87%A4%E5%87%B0%E5%8F%A4%E5%9F%8E%E7%AB%AF%E5%8D%88%E7%83%AD%EF%BC%9A%E4%BC%97%E4%BA%BA%E8%B7%B3%E6%B0%B4%E6%8A%93%E9%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [高温下北京白天现星星](https://www.baidu.com/s?wd=%E9%AB%98%E6%B8%A9%E4%B8%8B%E5%8C%97%E4%BA%AC%E7%99%BD%E5%A4%A9%E7%8E%B0%E6%98%9F%E6%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [旅欧游客深夜被扔在意大利街头](https://www.baidu.com/s?wd=%E6%97%85%E6%AC%A7%E6%B8%B8%E5%AE%A2%E6%B7%B1%E5%A4%9C%E8%A2%AB%E6%89%94%E5%9C%A8%E6%84%8F%E5%A4%A7%E5%88%A9%E8%A1%97%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [失联泰坦尼克号观光艇氧气耗尽](https://www.baidu.com/s?wd=%E5%A4%B1%E8%81%94%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7%E8%A7%82%E5%85%89%E8%89%87%E6%B0%A7%E6%B0%94%E8%80%97%E5%B0%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [电影《消失的她》实时票房破亿](https://www.baidu.com/s?wd=%E7%94%B5%E5%BD%B1%E3%80%8A%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E3%80%8B%E5%AE%9E%E6%97%B6%E7%A5%A8%E6%88%BF%E7%A0%B4%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [电影《消失的她》实时票房破亿](https://www.baidu.com/s?wd=%E7%94%B5%E5%BD%B1%E3%80%8A%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E3%80%8B%E5%AE%9E%E6%97%B6%E7%A5%A8%E6%88%BF%E7%A0%B4%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [孙亦航拿抑郁症玩梗](https://www.baidu.com/s?wd=%E5%AD%99%E4%BA%A6%E8%88%AA%E6%8B%BF%E6%8A%91%E9%83%81%E7%97%87%E7%8E%A9%E6%A2%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [凤凰古城端午热：众人跳水抓鸭](https://www.baidu.com/s?wd=%E5%87%A4%E5%87%B0%E5%8F%A4%E5%9F%8E%E7%AB%AF%E5%8D%88%E7%83%AD%EF%BC%9A%E4%BC%97%E4%BA%BA%E8%B7%B3%E6%B0%B4%E6%8A%93%E9%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [高温下北京白天现星星](https://www.baidu.com/s?wd=%E9%AB%98%E6%B8%A9%E4%B8%8B%E5%8C%97%E4%BA%AC%E7%99%BD%E5%A4%A9%E7%8E%B0%E6%98%9F%E6%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [旅欧游客深夜被扔在意大利街头](https://www.baidu.com/s?wd=%E6%97%85%E6%AC%A7%E6%B8%B8%E5%AE%A2%E6%B7%B1%E5%A4%9C%E8%A2%AB%E6%89%94%E5%9C%A8%E6%84%8F%E5%A4%A7%E5%88%A9%E8%A1%97%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [失联泰坦尼克号观光艇氧气耗尽](https://www.baidu.com/s?wd=%E5%A4%B1%E8%81%94%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7%E8%A7%82%E5%85%89%E8%89%87%E6%B0%A7%E6%B0%94%E8%80%97%E5%B0%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [电影《消失的她》实时票房破亿](https://www.baidu.com/s?wd=%E7%94%B5%E5%BD%B1%E3%80%8A%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E3%80%8B%E5%AE%9E%E6%97%B6%E7%A5%A8%E6%88%BF%E7%A0%B4%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [电影《消失的她》实时票房破亿](https://www.baidu.com/s?wd=%E7%94%B5%E5%BD%B1%E3%80%8A%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E3%80%8B%E5%AE%9E%E6%97%B6%E7%A5%A8%E6%88%BF%E7%A0%B4%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [孙亦航拿抑郁症玩梗](https://www.baidu.com/s?wd=%E5%AD%99%E4%BA%A6%E8%88%AA%E6%8B%BF%E6%8A%91%E9%83%81%E7%97%87%E7%8E%A9%E6%A2%97&sa=fyb_news&rsv_dl=fyb_news)<br />
