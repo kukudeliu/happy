@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 23:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 23:10:01</h4></div>
 
 > 微博  
 
-1. [高考查分](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86&t=31&band_rank=1&Refer=top)<br />
-2. [成都UFO](https://s.weibo.com/weibo?q=%E6%88%90%E9%83%BDUFO&t=31&band_rank=2&Refer=top)<br />
+1. [成都UFO](https://s.weibo.com/weibo?q=%E6%88%90%E9%83%BDUFO&t=31&band_rank=1&Refer=top)<br />
+2. [高考查分](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86&t=31&band_rank=2&Refer=top)<br />
 3. [端午节习俗图鉴](https://s.weibo.com/weibo?q=%23%E7%AB%AF%E5%8D%88%E8%8A%82%E4%B9%A0%E4%BF%97%E5%9B%BE%E9%89%B4%23&t=31&band_rank=3&Refer=top)<br />
 4. [辅导员弄丢毕业生学位证书](https://s.weibo.com/weibo?q=%23%E8%BE%85%E5%AF%BC%E5%91%98%E5%BC%84%E4%B8%A2%E6%AF%95%E4%B8%9A%E7%94%9F%E5%AD%A6%E4%BD%8D%E8%AF%81%E4%B9%A6%23&t=31&band_rank=4&Refer=top)<br />
 5. [2023好声音导师官宣](https://s.weibo.com/weibo?q=%232023%E5%A5%BD%E5%A3%B0%E9%9F%B3%E5%AF%BC%E5%B8%88%E5%AE%98%E5%AE%A3%23&t=31&band_rank=5&Refer=top)<br />
