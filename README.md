@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 14:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 14:56:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [宋妍霏腰臀比](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E5%A6%8D%E9%9C%8F%E8%85%B0%E8%87%80%E6%AF%94%23&t=31&band_rank=6&Refer=top)<br />
 7. [顾九思柳玉茹喂血吻](https://s.weibo.com/weibo?q=%23%E9%A1%BE%E4%B9%9D%E6%80%9D%E6%9F%B3%E7%8E%89%E8%8C%B9%E5%96%82%E8%A1%80%E5%90%BB%23&t=31&band_rank=7&Refer=top)<br />
 8. [大眼睛女孩现在是撑伞人](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%9C%BC%E7%9D%9B%E5%A5%B3%E5%AD%A9%E7%8E%B0%E5%9C%A8%E6%98%AF%E6%92%91%E4%BC%9E%E4%BA%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [福布斯称Jennie有资格获艾美奖](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%B8%83%E6%96%AF%E7%A7%B0Jennie%E6%9C%89%E8%B5%84%E6%A0%BC%E8%8E%B7%E8%89%BE%E7%BE%8E%E5%A5%96%23&t=31&band_rank=9&Refer=top)<br />
+9. [赵丽颖红色旗袍](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%BA%A2%E8%89%B2%E6%97%97%E8%A2%8D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
