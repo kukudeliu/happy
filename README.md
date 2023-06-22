@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 21:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 21:11:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [旅欧游客深夜被扔在意大利街头](https://www.baidu.com/s?wd=%E6%97%85%E6%AC%A7%E6%B8%B8%E5%AE%A2%E6%B7%B1%E5%A4%9C%E8%A2%AB%E6%89%94%E5%9C%A8%E6%84%8F%E5%A4%A7%E5%88%A9%E8%A1%97%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [父亲回应女儿在坟前跳舞被质疑炒作](https://www.baidu.com/s?wd=%E7%88%B6%E4%BA%B2%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%84%BF%E5%9C%A8%E5%9D%9F%E5%89%8D%E8%B7%B3%E8%88%9E%E8%A2%AB%E8%B4%A8%E7%96%91%E7%82%92%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [《庆余年》导演回应阵容调整](https://www.baidu.com/s?wd=%E3%80%8A%E5%BA%86%E4%BD%99%E5%B9%B4%E3%80%8B%E5%AF%BC%E6%BC%94%E5%9B%9E%E5%BA%94%E9%98%B5%E5%AE%B9%E8%B0%83%E6%95%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [银川爆炸事故7名伤员均无生命危险](https://www.baidu.com/s?wd=%E9%93%B6%E5%B7%9D%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%857%E5%90%8D%E4%BC%A4%E5%91%98%E5%9D%87%E6%97%A0%E7%94%9F%E5%91%BD%E5%8D%B1%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [《长风渡》热度破万](https://www.baidu.com/s?wd=%E3%80%8A%E9%95%BF%E9%A3%8E%E6%B8%A1%E3%80%8B%E7%83%AD%E5%BA%A6%E7%A0%B4%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [旅欧游客深夜被扔在意大利街头](https://www.baidu.com/s?wd=%E6%97%85%E6%AC%A7%E6%B8%B8%E5%AE%A2%E6%B7%B1%E5%A4%9C%E8%A2%AB%E6%89%94%E5%9C%A8%E6%84%8F%E5%A4%A7%E5%88%A9%E8%A1%97%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [父亲回应女儿在坟前跳舞被质疑炒作](https://www.baidu.com/s?wd=%E7%88%B6%E4%BA%B2%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%84%BF%E5%9C%A8%E5%9D%9F%E5%89%8D%E8%B7%B3%E8%88%9E%E8%A2%AB%E8%B4%A8%E7%96%91%E7%82%92%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [《庆余年》导演回应阵容调整](https://www.baidu.com/s?wd=%E3%80%8A%E5%BA%86%E4%BD%99%E5%B9%B4%E3%80%8B%E5%AF%BC%E6%BC%94%E5%9B%9E%E5%BA%94%E9%98%B5%E5%AE%B9%E8%B0%83%E6%95%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [银川爆炸事故7名伤员均无生命危险](https://www.baidu.com/s?wd=%E9%93%B6%E5%B7%9D%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%857%E5%90%8D%E4%BC%A4%E5%91%98%E5%9D%87%E6%97%A0%E7%94%9F%E5%91%BD%E5%8D%B1%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [《长风渡》热度破万](https://www.baidu.com/s?wd=%E3%80%8A%E9%95%BF%E9%A3%8E%E6%B8%A1%E3%80%8B%E7%83%AD%E5%BA%A6%E7%A0%B4%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
