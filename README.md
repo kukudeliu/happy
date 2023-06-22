@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 00:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 00:05:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [端午节习俗图鉴](https://s.weibo.com/weibo?q=%23%E7%AB%AF%E5%8D%88%E8%8A%82%E4%B9%A0%E4%BF%97%E5%9B%BE%E9%89%B4%23&t=31&band_rank=3&Refer=top)<br />
 4. [2023好声音导师官宣](https://s.weibo.com/weibo?q=%232023%E5%A5%BD%E5%A3%B0%E9%9F%B3%E5%AF%BC%E5%B8%88%E5%AE%98%E5%AE%A3%23&t=31&band_rank=4&Refer=top)<br />
 5. [消失的她票房](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%88%BF&t=31&band_rank=5&Refer=top)<br />
-6. [怀孕33周孕妇被2岁儿子开枪打死](https://s.weibo.com/weibo?q=%23%E6%80%80%E5%AD%9533%E5%91%A8%E5%AD%95%E5%A6%87%E8%A2%AB2%E5%B2%81%E5%84%BF%E5%AD%90%E5%BC%80%E6%9E%AA%E6%89%93%E6%AD%BB%23&t=31&band_rank=6&Refer=top)<br />
-7. [马伯庸 别人发端午安康我回复端午快乐](https://s.weibo.com/weibo?q=%E9%A9%AC%E4%BC%AF%E5%BA%B8%20%E5%88%AB%E4%BA%BA%E5%8F%91%E7%AB%AF%E5%8D%88%E5%AE%89%E5%BA%B7%E6%88%91%E5%9B%9E%E5%A4%8D%E7%AB%AF%E5%8D%88%E5%BF%AB%E4%B9%90&t=31&band_rank=7&Refer=top)<br />
+6. [马伯庸 别人发端午安康我回复端午快乐](https://s.weibo.com/weibo?q=%E9%A9%AC%E4%BC%AF%E5%BA%B8%20%E5%88%AB%E4%BA%BA%E5%8F%91%E7%AB%AF%E5%8D%88%E5%AE%89%E5%BA%B7%E6%88%91%E5%9B%9E%E5%A4%8D%E7%AB%AF%E5%8D%88%E5%BF%AB%E4%B9%90&t=31&band_rank=6&Refer=top)<br />
+7. [怀孕33周孕妇被2岁儿子开枪打死](https://s.weibo.com/weibo?q=%23%E6%80%80%E5%AD%9533%E5%91%A8%E5%AD%95%E5%A6%87%E8%A2%AB2%E5%B2%81%E5%84%BF%E5%AD%90%E5%BC%80%E6%9E%AA%E6%89%93%E6%AD%BB%23&t=31&band_rank=7&Refer=top)<br />
 8. [辅导员弄丢毕业生学位证书](https://s.weibo.com/weibo?q=%23%E8%BE%85%E5%AF%BC%E5%91%98%E5%BC%84%E4%B8%A2%E6%AF%95%E4%B8%9A%E7%94%9F%E5%AD%A6%E4%BD%8D%E8%AF%81%E4%B9%A6%23&t=31&band_rank=8&Refer=top)<br />
 9. [沙溢长风渡下线](https://s.weibo.com/weibo?q=%23%E6%B2%99%E6%BA%A2%E9%95%BF%E9%A3%8E%E6%B8%A1%E4%B8%8B%E7%BA%BF%23&t=31&band_rank=9&Refer=top)<br />
 
@@ -34,7 +34,7 @@
 6. [长风渡14集杀疯了](https://www.baidu.com/s?wd=%E9%95%BF%E9%A3%8E%E6%B8%A114%E9%9B%86%E6%9D%80%E7%96%AF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [高温下北京白天现星星](https://www.baidu.com/s?wd=%E9%AB%98%E6%B8%A9%E4%B8%8B%E5%8C%97%E4%BA%AC%E7%99%BD%E5%A4%A9%E7%8E%B0%E6%98%9F%E6%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子吃粽子误吞枣核致小肠穿孔](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%90%83%E7%B2%BD%E5%AD%90%E8%AF%AF%E5%90%9E%E6%9E%A3%E6%A0%B8%E8%87%B4%E5%B0%8F%E8%82%A0%E7%A9%BF%E5%AD%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [拉夏贝尔正式破产清算](https://www.baidu.com/s?wd=%E6%8B%89%E5%A4%8F%E8%B4%9D%E5%B0%94%E6%AD%A3%E5%BC%8F%E7%A0%B4%E4%BA%A7%E6%B8%85%E7%AE%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [大雨中校长毕业典礼致辞只念了标题](https://www.baidu.com/s?wd=%E5%A4%A7%E9%9B%A8%E4%B8%AD%E6%A0%A1%E9%95%BF%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E8%87%B4%E8%BE%9E%E5%8F%AA%E5%BF%B5%E4%BA%86%E6%A0%87%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [长风渡14集杀疯了](https://www.baidu.com/s?wd=%E9%95%BF%E9%A3%8E%E6%B8%A114%E9%9B%86%E6%9D%80%E7%96%AF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [高温下北京白天现星星](https://www.baidu.com/s?wd=%E9%AB%98%E6%B8%A9%E4%B8%8B%E5%8C%97%E4%BA%AC%E7%99%BD%E5%A4%A9%E7%8E%B0%E6%98%9F%E6%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子吃粽子误吞枣核致小肠穿孔](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%90%83%E7%B2%BD%E5%AD%90%E8%AF%AF%E5%90%9E%E6%9E%A3%E6%A0%B8%E8%87%B4%E5%B0%8F%E8%82%A0%E7%A9%BF%E5%AD%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [拉夏贝尔正式破产清算](https://www.baidu.com/s?wd=%E6%8B%89%E5%A4%8F%E8%B4%9D%E5%B0%94%E6%AD%A3%E5%BC%8F%E7%A0%B4%E4%BA%A7%E6%B8%85%E7%AE%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [大雨中校长毕业典礼致辞只念了标题](https://www.baidu.com/s?wd=%E5%A4%A7%E9%9B%A8%E4%B8%AD%E6%A0%A1%E9%95%BF%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E8%87%B4%E8%BE%9E%E5%8F%AA%E5%BF%B5%E4%BA%86%E6%A0%87%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
