@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 16:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 16:12:01</h4></div>
 
 > 微博  
 
@@ -22,11 +22,11 @@
 6. [宁夏银川发生燃气爆炸事故造成 38 人伤亡，其中 31 人死亡，7 人仍在救治中，具体情况如何？](https://www.zhihu.com/question/607961203)<br />
 7. [NBA 三方交易接近达成，波尔津吉斯去绿军，斯玛特加盟灰熊，奇才得泰厄斯琼斯，如何评价这项交易？](https://www.zhihu.com/question/607968898)<br />
 8. [纽卡斯尔接近签下 AC 米兰中场核心托纳利，转会费预计 7000 万欧，如何评价这笔转会交易？](https://www.zhihu.com/question/607968593)<br />
-9. [大家都有什么好看的书可以推荐?](https://www.zhihu.com/question/603748072)<br />
+9. [旅途中，有哪些遗憾让你至今难以释怀？](https://www.zhihu.com/question/21038225)<br />
 
 > 百度  
 
-1. [习近平对宁夏爆炸事故作重要指示](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AF%B9%E5%AE%81%E5%A4%8F%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E4%BD%9C%E9%87%8D%E8%A6%81%E6%8C%87%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [中国人的赛龙舟有多燃](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E8%B5%9B%E9%BE%99%E8%88%9F%E6%9C%89%E5%A4%9A%E7%87%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [失联泰坦尼克号观光艇氧气将耗尽](https://www.baidu.com/s?wd=%E5%A4%B1%E8%81%94%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7%E8%A7%82%E5%85%89%E8%89%87%E6%B0%A7%E6%B0%94%E5%B0%86%E8%80%97%E5%B0%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [大雨中校长毕业典礼致辞只念了标题](https://www.baidu.com/s?wd=%E5%A4%A7%E9%9B%A8%E4%B8%AD%E6%A0%A1%E9%95%BF%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E8%87%B4%E8%BE%9E%E5%8F%AA%E5%BF%B5%E4%BA%86%E6%A0%87%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [文化兴国运兴 文化强民族强](https://www.baidu.com/s?wd=%E6%96%87%E5%8C%96%E5%85%B4%E5%9B%BD%E8%BF%90%E5%85%B4+%E6%96%87%E5%8C%96%E5%BC%BA%E6%B0%91%E6%97%8F%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -38,7 +38,7 @@
 
 > 哔哩哔哩  
 
-1. [习近平对宁夏爆炸事故作重要指示](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AF%B9%E5%AE%81%E5%A4%8F%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E4%BD%9C%E9%87%8D%E8%A6%81%E6%8C%87%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [中国人的赛龙舟有多燃](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E8%B5%9B%E9%BE%99%E8%88%9F%E6%9C%89%E5%A4%9A%E7%87%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [失联泰坦尼克号观光艇氧气将耗尽](https://www.baidu.com/s?wd=%E5%A4%B1%E8%81%94%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7%E8%A7%82%E5%85%89%E8%89%87%E6%B0%A7%E6%B0%94%E5%B0%86%E8%80%97%E5%B0%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [大雨中校长毕业典礼致辞只念了标题](https://www.baidu.com/s?wd=%E5%A4%A7%E9%9B%A8%E4%B8%AD%E6%A0%A1%E9%95%BF%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E8%87%B4%E8%BE%9E%E5%8F%AA%E5%BF%B5%E4%BA%86%E6%A0%87%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [文化兴国运兴 文化强民族强](https://www.baidu.com/s?wd=%E6%96%87%E5%8C%96%E5%85%B4%E5%9B%BD%E8%BF%90%E5%85%B4+%E6%96%87%E5%8C%96%E5%BC%BA%E6%B0%91%E6%97%8F%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
