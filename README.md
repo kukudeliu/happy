@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 19:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 19:18:01</h4></div>
 
 > 微博  
 
@@ -32,9 +32,9 @@
 4. [文化兴国运兴 文化强民族强](https://www.baidu.com/s?wd=%E6%96%87%E5%8C%96%E5%85%B4%E5%9B%BD%E8%BF%90%E5%85%B4+%E6%96%87%E5%8C%96%E5%BC%BA%E6%B0%91%E6%97%8F%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [河南发现距今2000多年的粽子](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%8F%91%E7%8E%B0%E8%B7%9D%E4%BB%8A2000%E5%A4%9A%E5%B9%B4%E7%9A%84%E7%B2%BD%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [广东一龙舟侧翻致1死1失联](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E9%BE%99%E8%88%9F%E4%BE%A7%E7%BF%BB%E8%87%B41%E6%AD%BB1%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [周星驰新电影招募女演员](https://www.baidu.com/s?wd=%E5%91%A8%E6%98%9F%E9%A9%B0%E6%96%B0%E7%94%B5%E5%BD%B1%E6%8B%9B%E5%8B%9F%E5%A5%B3%E6%BC%94%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [电影《消失的她》实时票房破亿](https://www.baidu.com/s?wd=%E7%94%B5%E5%BD%B1%E3%80%8A%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E3%80%8B%E5%AE%9E%E6%97%B6%E7%A5%A8%E6%88%BF%E7%A0%B4%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [国人买iPhone14Pro需9.5%年收入？](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%BA%E4%B9%B0iPhone14Pro%E9%9C%809.5%25%E5%B9%B4%E6%94%B6%E5%85%A5%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [实地探访银川烧烤店爆炸事故现场](https://www.baidu.com/s?wd=%E5%AE%9E%E5%9C%B0%E6%8E%A2%E8%AE%BF%E9%93%B6%E5%B7%9D%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [周星驰新电影招募女演员](https://www.baidu.com/s?wd=%E5%91%A8%E6%98%9F%E9%A9%B0%E6%96%B0%E7%94%B5%E5%BD%B1%E6%8B%9B%E5%8B%9F%E5%A5%B3%E6%BC%94%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [电影《消失的她》实时票房破亿](https://www.baidu.com/s?wd=%E7%94%B5%E5%BD%B1%E3%80%8A%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E3%80%8B%E5%AE%9E%E6%97%B6%E7%A5%A8%E6%88%BF%E7%A0%B4%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [文化兴国运兴 文化强民族强](https://www.baidu.com/s?wd=%E6%96%87%E5%8C%96%E5%85%B4%E5%9B%BD%E8%BF%90%E5%85%B4+%E6%96%87%E5%8C%96%E5%BC%BA%E6%B0%91%E6%97%8F%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [河南发现距今2000多年的粽子](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%8F%91%E7%8E%B0%E8%B7%9D%E4%BB%8A2000%E5%A4%9A%E5%B9%B4%E7%9A%84%E7%B2%BD%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [广东一龙舟侧翻致1死1失联](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E9%BE%99%E8%88%9F%E4%BE%A7%E7%BF%BB%E8%87%B41%E6%AD%BB1%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [周星驰新电影招募女演员](https://www.baidu.com/s?wd=%E5%91%A8%E6%98%9F%E9%A9%B0%E6%96%B0%E7%94%B5%E5%BD%B1%E6%8B%9B%E5%8B%9F%E5%A5%B3%E6%BC%94%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [电影《消失的她》实时票房破亿](https://www.baidu.com/s?wd=%E7%94%B5%E5%BD%B1%E3%80%8A%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E3%80%8B%E5%AE%9E%E6%97%B6%E7%A5%A8%E6%88%BF%E7%A0%B4%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [国人买iPhone14Pro需9.5%年收入？](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%BA%E4%B9%B0iPhone14Pro%E9%9C%809.5%25%E5%B9%B4%E6%94%B6%E5%85%A5%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [实地探访银川烧烤店爆炸事故现场](https://www.baidu.com/s?wd=%E5%AE%9E%E5%9C%B0%E6%8E%A2%E8%AE%BF%E9%93%B6%E5%B7%9D%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [周星驰新电影招募女演员](https://www.baidu.com/s?wd=%E5%91%A8%E6%98%9F%E9%A9%B0%E6%96%B0%E7%94%B5%E5%BD%B1%E6%8B%9B%E5%8B%9F%E5%A5%B3%E6%BC%94%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [电影《消失的她》实时票房破亿](https://www.baidu.com/s?wd=%E7%94%B5%E5%BD%B1%E3%80%8A%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E3%80%8B%E5%AE%9E%E6%97%B6%E7%A5%A8%E6%88%BF%E7%A0%B4%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
