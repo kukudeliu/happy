@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 11:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 11:14:01</h4></div>
 
 > 微博  
 
@@ -31,10 +31,10 @@
 3. [健美比赛女模特扔高跟鞋砸评委](https://www.baidu.com/s?wd=%E5%81%A5%E7%BE%8E%E6%AF%94%E8%B5%9B%E5%A5%B3%E6%A8%A1%E7%89%B9%E6%89%94%E9%AB%98%E8%B7%9F%E9%9E%8B%E7%A0%B8%E8%AF%84%E5%A7%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [牢牢守住生态保护红线](https://www.baidu.com/s?wd=%E7%89%A2%E7%89%A2%E5%AE%88%E4%BD%8F%E7%94%9F%E6%80%81%E4%BF%9D%E6%8A%A4%E7%BA%A2%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [烧烤店爆炸报警人：更换阀门时爆炸](https://www.baidu.com/s?wd=%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E6%8A%A5%E8%AD%A6%E4%BA%BA%EF%BC%9A%E6%9B%B4%E6%8D%A2%E9%98%80%E9%97%A8%E6%97%B6%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [古巨基采访王菲被鸟屎砸到头](https://www.baidu.com/s?wd=%E5%8F%A4%E5%B7%A8%E5%9F%BA%E9%87%87%E8%AE%BF%E7%8E%8B%E8%8F%B2%E8%A2%AB%E9%B8%9F%E5%B1%8E%E7%A0%B8%E5%88%B0%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [妈妈带高考结束女儿整容](https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E5%B8%A6%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E5%A5%B3%E5%84%BF%E6%95%B4%E5%AE%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [宁夏烧烤店爆炸致31死](https://www.baidu.com/s?wd=%E5%AE%81%E5%A4%8F%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E8%87%B431%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [北京大爷不想让孩子要孩子](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%A4%A7%E7%88%B7%E4%B8%8D%E6%83%B3%E8%AE%A9%E5%AD%A9%E5%AD%90%E8%A6%81%E5%AD%A9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [妈妈带高考结束女儿整容](https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E5%B8%A6%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E5%A5%B3%E5%84%BF%E6%95%B4%E5%AE%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [古巨基采访王菲被鸟屎砸到头](https://www.baidu.com/s?wd=%E5%8F%A4%E5%B7%A8%E5%9F%BA%E9%87%87%E8%AE%BF%E7%8E%8B%E8%8F%B2%E8%A2%AB%E9%B8%9F%E5%B1%8E%E7%A0%B8%E5%88%B0%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [北京大爷不想让孩子要孩子](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%A4%A7%E7%88%B7%E4%B8%8D%E6%83%B3%E8%AE%A9%E5%AD%A9%E5%AD%90%E8%A6%81%E5%AD%A9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [健美比赛女模特扔高跟鞋砸评委](https://www.baidu.com/s?wd=%E5%81%A5%E7%BE%8E%E6%AF%94%E8%B5%9B%E5%A5%B3%E6%A8%A1%E7%89%B9%E6%89%94%E9%AB%98%E8%B7%9F%E9%9E%8B%E7%A0%B8%E8%AF%84%E5%A7%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [牢牢守住生态保护红线](https://www.baidu.com/s?wd=%E7%89%A2%E7%89%A2%E5%AE%88%E4%BD%8F%E7%94%9F%E6%80%81%E4%BF%9D%E6%8A%A4%E7%BA%A2%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [烧烤店爆炸报警人：更换阀门时爆炸](https://www.baidu.com/s?wd=%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E6%8A%A5%E8%AD%A6%E4%BA%BA%EF%BC%9A%E6%9B%B4%E6%8D%A2%E9%98%80%E9%97%A8%E6%97%B6%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [古巨基采访王菲被鸟屎砸到头](https://www.baidu.com/s?wd=%E5%8F%A4%E5%B7%A8%E5%9F%BA%E9%87%87%E8%AE%BF%E7%8E%8B%E8%8F%B2%E8%A2%AB%E9%B8%9F%E5%B1%8E%E7%A0%B8%E5%88%B0%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [妈妈带高考结束女儿整容](https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E5%B8%A6%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E5%A5%B3%E5%84%BF%E6%95%B4%E5%AE%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [宁夏烧烤店爆炸致31死](https://www.baidu.com/s?wd=%E5%AE%81%E5%A4%8F%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E8%87%B431%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [北京大爷不想让孩子要孩子](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%A4%A7%E7%88%B7%E4%B8%8D%E6%83%B3%E8%AE%A9%E5%AD%A9%E5%AD%90%E8%A6%81%E5%AD%A9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [妈妈带高考结束女儿整容](https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E5%B8%A6%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E5%A5%B3%E5%84%BF%E6%95%B4%E5%AE%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [古巨基采访王菲被鸟屎砸到头](https://www.baidu.com/s?wd=%E5%8F%A4%E5%B7%A8%E5%9F%BA%E9%87%87%E8%AE%BF%E7%8E%8B%E8%8F%B2%E8%A2%AB%E9%B8%9F%E5%B1%8E%E7%A0%B8%E5%88%B0%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [北京大爷不想让孩子要孩子](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%A4%A7%E7%88%B7%E4%B8%8D%E6%83%B3%E8%AE%A9%E5%AD%A9%E5%AD%90%E8%A6%81%E5%AD%A9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
