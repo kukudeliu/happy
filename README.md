@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 02:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 02:39:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [马伯庸 别人发端午安康我回复端午快乐](https://s.weibo.com/weibo?q=%E9%A9%AC%E4%BC%AF%E5%BA%B8%20%E5%88%AB%E4%BA%BA%E5%8F%91%E7%AB%AF%E5%8D%88%E5%AE%89%E5%BA%B7%E6%88%91%E5%9B%9E%E5%A4%8D%E7%AB%AF%E5%8D%88%E5%BF%AB%E4%B9%90&t=31&band_rank=6&Refer=top)<br />
 7. [消失的她票房](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%88%BF&t=31&band_rank=7&Refer=top)<br />
 8. [2023好声音导师官宣](https://s.weibo.com/weibo?q=%232023%E5%A5%BD%E5%A3%B0%E9%9F%B3%E5%AF%BC%E5%B8%88%E5%AE%98%E5%AE%A3%23&t=31&band_rank=8&Refer=top)<br />
-9. [怀孕33周孕妇被2岁儿子开枪打死](https://s.weibo.com/weibo?q=%23%E6%80%80%E5%AD%9533%E5%91%A8%E5%AD%95%E5%A6%87%E8%A2%AB2%E5%B2%81%E5%84%BF%E5%AD%90%E5%BC%80%E6%9E%AA%E6%89%93%E6%AD%BB%23&t=31&band_rank=9&Refer=top)<br />
+9. [专家称泰坦号或已断电进水](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%B3%B0%E5%9D%A6%E5%8F%B7%E6%88%96%E5%B7%B2%E6%96%AD%E7%94%B5%E8%BF%9B%E6%B0%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -19,9 +19,9 @@
 3. [美国五角大楼将对乌军援的记账错误金额提高至 62 亿美元，透露了哪些信息？](https://www.zhihu.com/question/607781134)<br />
 4. [扎克伯格和马斯克线上约架，马斯克称准备来一场笼斗，扎克伯格回应称「地址发我」，如何看待此事？](https://www.zhihu.com/question/608012861)<br />
 5. [《黑客帝国》为什么最后是尼欧赢了？](https://www.zhihu.com/question/45125535)<br />
-6. [2023 LPL 夏季赛 Uzi 不敌老东家，RNG 2:0 击败 EDG，如何评价这场比赛？](https://www.zhihu.com/question/608001150)<br />
-7. [全国结婚登记量跌破 700 万对，创 37 年来新低，年轻人「爱」不起了吗？](https://www.zhihu.com/question/607996046)<br />
-8. [校招中的「熟悉 Linux 操作系统」一般是指达到什么程度？](https://www.zhihu.com/question/517101428)<br />
+6. [全国结婚登记量跌破 700 万对，创 37 年来新低，年轻人「爱」不起了吗？](https://www.zhihu.com/question/607996046)<br />
+7. [校招中的「熟悉 Linux 操作系统」一般是指达到什么程度？](https://www.zhihu.com/question/517101428)<br />
+8. [2023 LPL 夏季赛 Uzi 不敌老东家，RNG 2:0 击败 EDG，如何评价这场比赛？](https://www.zhihu.com/question/608001150)<br />
 9. []()<br />
 
 > 百度  
@@ -32,8 +32,8 @@
 4. [文博日历丨古人怎么过端午](https://www.baidu.com/s?wd=%E6%96%87%E5%8D%9A%E6%97%A5%E5%8E%86%E4%B8%A8%E5%8F%A4%E4%BA%BA%E6%80%8E%E4%B9%88%E8%BF%87%E7%AB%AF%E5%8D%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [凤凰古城端午热：众人跳水抓鸭](https://www.baidu.com/s?wd=%E5%87%A4%E5%87%B0%E5%8F%A4%E5%9F%8E%E7%AB%AF%E5%8D%88%E7%83%AD%EF%BC%9A%E4%BC%97%E4%BA%BA%E8%B7%B3%E6%B0%B4%E6%8A%93%E9%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [端午节成都惊现不明飞行物](https://www.baidu.com/s?wd=%E7%AB%AF%E5%8D%88%E8%8A%82%E6%88%90%E9%83%BD%E6%83%8A%E7%8E%B0%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [毛晓彤晒清冷写真送端午祝福](https://www.baidu.com/s?wd=%E6%AF%9B%E6%99%93%E5%BD%A4%E6%99%92%E6%B8%85%E5%86%B7%E5%86%99%E7%9C%9F%E9%80%81%E7%AB%AF%E5%8D%88%E7%A5%9D%E7%A6%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [特斯拉市值蒸发近475亿美元](https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91%E8%BF%91475%E4%BA%BF%E7%BE%8E%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [武磊晒乘坐地铁出行照：端午安康](https://www.baidu.com/s?wd=%E6%AD%A6%E7%A3%8A%E6%99%92%E4%B9%98%E5%9D%90%E5%9C%B0%E9%93%81%E5%87%BA%E8%A1%8C%E7%85%A7%EF%BC%9A%E7%AB%AF%E5%8D%88%E5%AE%89%E5%BA%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子吃粽子误吞枣核致小肠穿孔](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%90%83%E7%B2%BD%E5%AD%90%E8%AF%AF%E5%90%9E%E6%9E%A3%E6%A0%B8%E8%87%B4%E5%B0%8F%E8%82%A0%E7%A9%BF%E5%AD%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [拉夏贝尔正式破产清算](https://www.baidu.com/s?wd=%E6%8B%89%E5%A4%8F%E8%B4%9D%E5%B0%94%E6%AD%A3%E5%BC%8F%E7%A0%B4%E4%BA%A7%E6%B8%85%E7%AE%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -44,6 +44,6 @@
 4. [文博日历丨古人怎么过端午](https://www.baidu.com/s?wd=%E6%96%87%E5%8D%9A%E6%97%A5%E5%8E%86%E4%B8%A8%E5%8F%A4%E4%BA%BA%E6%80%8E%E4%B9%88%E8%BF%87%E7%AB%AF%E5%8D%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [凤凰古城端午热：众人跳水抓鸭](https://www.baidu.com/s?wd=%E5%87%A4%E5%87%B0%E5%8F%A4%E5%9F%8E%E7%AB%AF%E5%8D%88%E7%83%AD%EF%BC%9A%E4%BC%97%E4%BA%BA%E8%B7%B3%E6%B0%B4%E6%8A%93%E9%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [端午节成都惊现不明飞行物](https://www.baidu.com/s?wd=%E7%AB%AF%E5%8D%88%E8%8A%82%E6%88%90%E9%83%BD%E6%83%8A%E7%8E%B0%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [毛晓彤晒清冷写真送端午祝福](https://www.baidu.com/s?wd=%E6%AF%9B%E6%99%93%E5%BD%A4%E6%99%92%E6%B8%85%E5%86%B7%E5%86%99%E7%9C%9F%E9%80%81%E7%AB%AF%E5%8D%88%E7%A5%9D%E7%A6%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [特斯拉市值蒸发近475亿美元](https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91%E8%BF%91475%E4%BA%BF%E7%BE%8E%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [武磊晒乘坐地铁出行照：端午安康](https://www.baidu.com/s?wd=%E6%AD%A6%E7%A3%8A%E6%99%92%E4%B9%98%E5%9D%90%E5%9C%B0%E9%93%81%E5%87%BA%E8%A1%8C%E7%85%A7%EF%BC%9A%E7%AB%AF%E5%8D%88%E5%AE%89%E5%BA%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子吃粽子误吞枣核致小肠穿孔](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%90%83%E7%B2%BD%E5%AD%90%E8%AF%AF%E5%90%9E%E6%9E%A3%E6%A0%B8%E8%87%B4%E5%B0%8F%E8%82%A0%E7%A9%BF%E5%AD%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [拉夏贝尔正式破产清算](https://www.baidu.com/s?wd=%E6%8B%89%E5%A4%8F%E8%B4%9D%E5%B0%94%E6%AD%A3%E5%BC%8F%E7%A0%B4%E4%BA%A7%E6%B8%85%E7%AE%97&sa=fyb_news&rsv_dl=fyb_news)<br />
