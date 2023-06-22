@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 12:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-22 12:21:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [千万别在下午和晚上买机票](https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E5%88%AB%E5%9C%A8%E4%B8%8B%E5%8D%88%E5%92%8C%E6%99%9A%E4%B8%8A%E4%B9%B0%E6%9C%BA%E7%A5%A8%23&t=31&band_rank=6&Refer=top)<br />
 7. [为什么大家都不再发朋友圈了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%A7%E5%AE%B6%E9%83%BD%E4%B8%8D%E5%86%8D%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [福布斯称Jennie有资格获艾美奖](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%B8%83%E6%96%AF%E7%A7%B0Jennie%E6%9C%89%E8%B5%84%E6%A0%BC%E8%8E%B7%E8%89%BE%E7%BE%8E%E5%A5%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [赛龙舟原来这么燃](https://s.weibo.com/weibo?q=%23%E8%B5%9B%E9%BE%99%E8%88%9F%E5%8E%9F%E6%9D%A5%E8%BF%99%E4%B9%88%E7%87%83%23&t=31&band_rank=9&Refer=top)<br />
+9. [阿姨收到1920元工资塞500给老板](https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%A7%A8%E6%94%B6%E5%88%B01920%E5%85%83%E5%B7%A5%E8%B5%84%E5%A1%9E500%E7%BB%99%E8%80%81%E6%9D%BF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
