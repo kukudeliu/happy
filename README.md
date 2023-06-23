@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 20:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 20:32:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [唐末时重武的风气是怎么一步步被纠正过来的？](https://www.zhihu.com/question/607040290)<br />
 7. []()<br />
 8. []()<br />
-9. [iOS 的墓碑机制这么厉害，为什么 Windows 、 Linux 不采用呢？](https://www.zhihu.com/question/604373860)<br />
+9. [中考重要，还是高考重要?](https://www.zhihu.com/question/606716930)<br />
 
 > 百度  
 
