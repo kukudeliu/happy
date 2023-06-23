@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 02:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 02:14:01</h4></div>
 
 > 微博  
 
@@ -31,10 +31,10 @@
 3. [男生高考查分601激动满屋蹦跳](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86601%E6%BF%80%E5%8A%A8%E6%BB%A1%E5%B1%8B%E8%B9%A6%E8%B7%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [沉浸式游览中国美丽乡村](https://www.baidu.com/s?wd=%E6%B2%89%E6%B5%B8%E5%BC%8F%E6%B8%B8%E8%A7%88%E4%B8%AD%E5%9B%BD%E7%BE%8E%E4%B8%BD%E4%B9%A1%E6%9D%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [白玉兰完整名单出炉：狂飙挂零陪跑](https://www.baidu.com/s?wd=%E7%99%BD%E7%8E%89%E5%85%B0%E5%AE%8C%E6%95%B4%E5%90%8D%E5%8D%95%E5%87%BA%E7%82%89%EF%BC%9A%E7%8B%82%E9%A3%99%E6%8C%82%E9%9B%B6%E9%99%AA%E8%B7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [秋瓷炫唱的是中文还是泰文](https://www.baidu.com/s?wd=%E7%A7%8B%E7%93%B7%E7%82%AB%E5%94%B1%E7%9A%84%E6%98%AF%E4%B8%AD%E6%96%87%E8%BF%98%E6%98%AF%E6%B3%B0%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [美依礼芽《青鸟》燃炸了](https://www.baidu.com/s?wd=%E7%BE%8E%E4%BE%9D%E7%A4%BC%E8%8A%BD%E3%80%8A%E9%9D%92%E9%B8%9F%E3%80%8B%E7%87%83%E7%82%B8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [胡歌是来进货的吧](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E6%98%AF%E6%9D%A5%E8%BF%9B%E8%B4%A7%E7%9A%84%E5%90%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [董事长开车进长城被拒拆门?公司回应](https://www.baidu.com/s?wd=%E8%91%A3%E4%BA%8B%E9%95%BF%E5%BC%80%E8%BD%A6%E8%BF%9B%E9%95%BF%E5%9F%8E%E8%A2%AB%E6%8B%92%E6%8B%86%E9%97%A8%3F%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [大小S宣布起诉葛斯齐](https://www.baidu.com/s?wd=%E5%A4%A7%E5%B0%8FS%E5%AE%A3%E5%B8%83%E8%B5%B7%E8%AF%89%E8%91%9B%E6%96%AF%E9%BD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [胡歌是来进货的吧](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E6%98%AF%E6%9D%A5%E8%BF%9B%E8%B4%A7%E7%9A%84%E5%90%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [美依礼芽《青鸟》燃炸了](https://www.baidu.com/s?wd=%E7%BE%8E%E4%BE%9D%E7%A4%BC%E8%8A%BD%E3%80%8A%E9%9D%92%E9%B8%9F%E3%80%8B%E7%87%83%E7%82%B8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [专家：四方面原因叠加致高温持续](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E5%9B%9B%E6%96%B9%E9%9D%A2%E5%8E%9F%E5%9B%A0%E5%8F%A0%E5%8A%A0%E8%87%B4%E9%AB%98%E6%B8%A9%E6%8C%81%E7%BB%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [男生高考查分601激动满屋蹦跳](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86601%E6%BF%80%E5%8A%A8%E6%BB%A1%E5%B1%8B%E8%B9%A6%E8%B7%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [沉浸式游览中国美丽乡村](https://www.baidu.com/s?wd=%E6%B2%89%E6%B5%B8%E5%BC%8F%E6%B8%B8%E8%A7%88%E4%B8%AD%E5%9B%BD%E7%BE%8E%E4%B8%BD%E4%B9%A1%E6%9D%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [白玉兰完整名单出炉：狂飙挂零陪跑](https://www.baidu.com/s?wd=%E7%99%BD%E7%8E%89%E5%85%B0%E5%AE%8C%E6%95%B4%E5%90%8D%E5%8D%95%E5%87%BA%E7%82%89%EF%BC%9A%E7%8B%82%E9%A3%99%E6%8C%82%E9%9B%B6%E9%99%AA%E8%B7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [秋瓷炫唱的是中文还是泰文](https://www.baidu.com/s?wd=%E7%A7%8B%E7%93%B7%E7%82%AB%E5%94%B1%E7%9A%84%E6%98%AF%E4%B8%AD%E6%96%87%E8%BF%98%E6%98%AF%E6%B3%B0%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [美依礼芽《青鸟》燃炸了](https://www.baidu.com/s?wd=%E7%BE%8E%E4%BE%9D%E7%A4%BC%E8%8A%BD%E3%80%8A%E9%9D%92%E9%B8%9F%E3%80%8B%E7%87%83%E7%82%B8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [胡歌是来进货的吧](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E6%98%AF%E6%9D%A5%E8%BF%9B%E8%B4%A7%E7%9A%84%E5%90%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [董事长开车进长城被拒拆门?公司回应](https://www.baidu.com/s?wd=%E8%91%A3%E4%BA%8B%E9%95%BF%E5%BC%80%E8%BD%A6%E8%BF%9B%E9%95%BF%E5%9F%8E%E8%A2%AB%E6%8B%92%E6%8B%86%E9%97%A8%3F%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [大小S宣布起诉葛斯齐](https://www.baidu.com/s?wd=%E5%A4%A7%E5%B0%8FS%E5%AE%A3%E5%B8%83%E8%B5%B7%E8%AF%89%E8%91%9B%E6%96%AF%E9%BD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [胡歌是来进货的吧](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E6%98%AF%E6%9D%A5%E8%BF%9B%E8%B4%A7%E7%9A%84%E5%90%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [美依礼芽《青鸟》燃炸了](https://www.baidu.com/s?wd=%E7%BE%8E%E4%BE%9D%E7%A4%BC%E8%8A%BD%E3%80%8A%E9%9D%92%E9%B8%9F%E3%80%8B%E7%87%83%E7%82%B8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [专家：四方面原因叠加致高温持续](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E5%9B%9B%E6%96%B9%E9%9D%A2%E5%8E%9F%E5%9B%A0%E5%8F%A0%E5%8A%A0%E8%87%B4%E9%AB%98%E6%B8%A9%E6%8C%81%E7%BB%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
