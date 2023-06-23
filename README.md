@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 17:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 17:34:01</h4></div>
 
 > 微博  
 
 1. [外星人或正在利用超新星爆炸引人类注意](https://s.weibo.com/weibo?q=%23%E5%A4%96%E6%98%9F%E4%BA%BA%E6%88%96%E6%AD%A3%E5%9C%A8%E5%88%A9%E7%94%A8%E8%B6%85%E6%96%B0%E6%98%9F%E7%88%86%E7%82%B8%E5%BC%95%E4%BA%BA%E7%B1%BB%E6%B3%A8%E6%84%8F%23&t=31&band_rank=1&Refer=top)<br />
 2. [鹿晗问陈赫抢到票了吗](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E9%97%AE%E9%99%88%E8%B5%AB%E6%8A%A2%E5%88%B0%E7%A5%A8%E4%BA%86%E5%90%97%23&t=31&band_rank=2&Refer=top)<br />
 3. [遇到燃气泄漏应该如何处理](https://s.weibo.com/weibo?q=%23%E9%81%87%E5%88%B0%E7%87%83%E6%B0%94%E6%B3%84%E6%BC%8F%E5%BA%94%E8%AF%A5%E5%A6%82%E4%BD%95%E5%A4%84%E7%90%86%23&t=31&band_rank=3&Refer=top)<br />
-4. [张嘉倪因为四公错过外婆追悼会](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%98%89%E5%80%AA%E5%9B%A0%E4%B8%BA%E5%9B%9B%E5%85%AC%E9%94%99%E8%BF%87%E5%A4%96%E5%A9%86%E8%BF%BD%E6%82%BC%E4%BC%9A%23&t=31&band_rank=4&Refer=top)<br />
-5. [山东已现43℃以上高温](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E5%B7%B2%E7%8E%B043%E2%84%83%E4%BB%A5%E4%B8%8A%E9%AB%98%E6%B8%A9%23&t=31&band_rank=5&Refer=top)<br />
+4. [山东已现43℃以上高温](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E5%B7%B2%E7%8E%B043%E2%84%83%E4%BB%A5%E4%B8%8A%E9%AB%98%E6%B8%A9%23&t=31&band_rank=4&Refer=top)<br />
+5. [张嘉倪因为四公错过外婆追悼会](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%98%89%E5%80%AA%E5%9B%A0%E4%B8%BA%E5%9B%9B%E5%85%AC%E9%94%99%E8%BF%87%E5%A4%96%E5%A9%86%E8%BF%BD%E6%82%BC%E4%BC%9A%23&t=31&band_rank=5&Refer=top)<br />
 6. [傅韵哲高考成绩](https://s.weibo.com/weibo?q=%E5%82%85%E9%9F%B5%E5%93%B2%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9&t=31&band_rank=6&Refer=top)<br />
 7. [银川爆炸事故第1晚顾客坐店外就餐](https://s.weibo.com/weibo?q=%23%E9%93%B6%E5%B7%9D%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E7%AC%AC1%E6%99%9A%E9%A1%BE%E5%AE%A2%E5%9D%90%E5%BA%97%E5%A4%96%E5%B0%B1%E9%A4%90%23&t=31&band_rank=7&Refer=top)<br />
 8. [白玉兰提名](https://s.weibo.com/weibo?q=%E7%99%BD%E7%8E%89%E5%85%B0%E6%8F%90%E5%90%8D&t=31&band_rank=8&Refer=top)<br />
@@ -34,7 +34,7 @@
 6. [警方通报一家六口遇害：嫌犯被抓](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B8%80%E5%AE%B6%E5%85%AD%E5%8F%A3%E9%81%87%E5%AE%B3%EF%BC%9A%E5%AB%8C%E7%8A%AF%E8%A2%AB%E6%8A%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子番茄吃多胃痛医生让喝可乐](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%95%AA%E8%8C%84%E5%90%83%E5%A4%9A%E8%83%83%E7%97%9B%E5%8C%BB%E7%94%9F%E8%AE%A9%E5%96%9D%E5%8F%AF%E4%B9%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [泰坦号前乘客自曝下潜是自杀之旅](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9D%A6%E5%8F%B7%E5%89%8D%E4%B9%98%E5%AE%A2%E8%87%AA%E6%9B%9D%E4%B8%8B%E6%BD%9C%E6%98%AF%E8%87%AA%E6%9D%80%E4%B9%8B%E6%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [缉毒警一张带血纸条助缴毒10余斤](https://www.baidu.com/s?wd=%E7%BC%89%E6%AF%92%E8%AD%A6%E4%B8%80%E5%BC%A0%E5%B8%A6%E8%A1%80%E7%BA%B8%E6%9D%A1%E5%8A%A9%E7%BC%B4%E6%AF%9210%E4%BD%99%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [媒体:警惕“网红”言论误导志愿填报](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%3A%E8%AD%A6%E6%83%95%E2%80%9C%E7%BD%91%E7%BA%A2%E2%80%9D%E8%A8%80%E8%AE%BA%E8%AF%AF%E5%AF%BC%E5%BF%97%E6%84%BF%E5%A1%AB%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [警方通报一家六口遇害：嫌犯被抓](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B8%80%E5%AE%B6%E5%85%AD%E5%8F%A3%E9%81%87%E5%AE%B3%EF%BC%9A%E5%AB%8C%E7%8A%AF%E8%A2%AB%E6%8A%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子番茄吃多胃痛医生让喝可乐](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%95%AA%E8%8C%84%E5%90%83%E5%A4%9A%E8%83%83%E7%97%9B%E5%8C%BB%E7%94%9F%E8%AE%A9%E5%96%9D%E5%8F%AF%E4%B9%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [泰坦号前乘客自曝下潜是自杀之旅](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9D%A6%E5%8F%B7%E5%89%8D%E4%B9%98%E5%AE%A2%E8%87%AA%E6%9B%9D%E4%B8%8B%E6%BD%9C%E6%98%AF%E8%87%AA%E6%9D%80%E4%B9%8B%E6%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [缉毒警一张带血纸条助缴毒10余斤](https://www.baidu.com/s?wd=%E7%BC%89%E6%AF%92%E8%AD%A6%E4%B8%80%E5%BC%A0%E5%B8%A6%E8%A1%80%E7%BA%B8%E6%9D%A1%E5%8A%A9%E7%BC%B4%E6%AF%9210%E4%BD%99%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [媒体:警惕“网红”言论误导志愿填报](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%3A%E8%AD%A6%E6%83%95%E2%80%9C%E7%BD%91%E7%BA%A2%E2%80%9D%E8%A8%80%E8%AE%BA%E8%AF%AF%E5%AF%BC%E5%BF%97%E6%84%BF%E5%A1%AB%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
