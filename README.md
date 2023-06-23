@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 11:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 11:45:01</h4></div>
 
 > 微博  
 
@@ -20,8 +20,8 @@
 4. [发改委与德国宝马、奔驰、大众汽车签署合作意向书，共同推动新能源汽车研发创新和推广应用，如何解读？](https://www.zhihu.com/question/607897726)<br />
 5. []()<br />
 6. [家长花重金把差生放在重点中学尖子班，这样做孩子是否能够考出优异成绩？为什么？](https://www.zhihu.com/question/598857377)<br />
-7. [在感情里，真诚是「必杀技」还是「杀死自己的必杀技」？](https://www.zhihu.com/question/599386066)<br />
-8. [电影《消失的她》中有哪些值得回味的细节？](https://www.zhihu.com/question/607974608)<br />
+7. [电影《消失的她》中有哪些值得回味的细节？](https://www.zhihu.com/question/607974608)<br />
+8. [计算机是最难的工科吗？](https://www.zhihu.com/question/593585695)<br />
 9. []()<br />
 
 > 百度  
