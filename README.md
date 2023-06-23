@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 14:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 14:54:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [女子番茄吃多胃痛医生让喝可乐治疗](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%95%AA%E8%8C%84%E5%90%83%E5%A4%9A%E8%83%83%E7%97%9B%E5%8C%BB%E7%94%9F%E8%AE%A9%E5%96%9D%E5%8F%AF%E4%B9%90%E6%B2%BB%E7%96%97%23&t=31&band_rank=5&Refer=top)<br />
 6. [高考分数线](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%23&t=31&band_rank=6&Refer=top)<br />
 7. [青鸟改编 难评](https://s.weibo.com/weibo?q=%E9%9D%92%E9%B8%9F%E6%94%B9%E7%BC%96%20%E9%9A%BE%E8%AF%84&t=31&band_rank=7&Refer=top)<br />
-8. [41℃高温把衣服晒着了](https://s.weibo.com/weibo?q=%2341%E2%84%83%E9%AB%98%E6%B8%A9%E6%8A%8A%E8%A1%A3%E6%9C%8D%E6%99%92%E7%9D%80%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [刘宪华官宣加盟中国好声音](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%AA%E5%8D%8E%E5%AE%98%E5%AE%A3%E5%8A%A0%E7%9B%9F%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%23&t=31&band_rank=9&Refer=top)<br />
+8. [刘宪华官宣加盟中国好声音](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%AA%E5%8D%8E%E5%AE%98%E5%AE%A3%E5%8A%A0%E7%9B%9F%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%23&t=31&band_rank=8&Refer=top)<br />
+9. [41℃高温把衣服晒着了](https://s.weibo.com/weibo?q=%2341%E2%84%83%E9%AB%98%E6%B8%A9%E6%8A%8A%E8%A1%A3%E6%9C%8D%E6%99%92%E7%9D%80%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -21,8 +21,8 @@
 5. []()<br />
 6. [2023 吉林高考分数线公布，重点本科线理 463 大降 25 分，如何评价今年的分数线？](https://www.zhihu.com/question/607974303)<br />
 7. [俄方回应布林肯访华称，中俄间的战略合作伙伴关系水平让俄相信，中方永远不会针对俄，释放了哪些信号？](https://www.zhihu.com/question/607828176)<br />
-8. [《最终幻想 16》FF16 解禁，PS5 平台限时独占，游戏体验如何，符合你的期待值吗？](https://www.zhihu.com/question/607934321)<br />
-9. [台湾 TVBS 民调显示柯文哲支持度为 33% 超过赖清德暂居第一，如何看待这一民调结果？](https://www.zhihu.com/question/607639573)<br />
+8. [台湾 TVBS 民调显示柯文哲支持度为 33% 超过赖清德暂居第一，如何看待这一民调结果？](https://www.zhihu.com/question/607639573)<br />
+9. [LED 灯是长时间亮着容易坏，还是反复开关容易坏？](https://www.zhihu.com/question/601205504)<br />
 
 > 百度  
 
@@ -31,10 +31,10 @@
 3. [泰坦号观光艇内爆 5名乘员死亡](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9D%A6%E5%8F%B7%E8%A7%82%E5%85%89%E8%89%87%E5%86%85%E7%88%86+5%E5%90%8D%E4%B9%98%E5%91%98%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [文博日历丨古人怎么过端午](https://www.baidu.com/s?wd=%E6%96%87%E5%8D%9A%E6%97%A5%E5%8E%86%E4%B8%A8%E5%8F%A4%E4%BA%BA%E6%80%8E%E4%B9%88%E8%BF%87%E7%AB%AF%E5%8D%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [国语版《青鸟》毁童年](https://www.baidu.com/s?wd=%E5%9B%BD%E8%AF%AD%E7%89%88%E3%80%8A%E9%9D%92%E9%B8%9F%E3%80%8B%E6%AF%81%E7%AB%A5%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [山东已出现43℃以上高温](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%B7%B2%E5%87%BA%E7%8E%B043%E2%84%83%E4%BB%A5%E4%B8%8A%E9%AB%98%E6%B8%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [汪东城人品](https://www.baidu.com/s?wd=%E6%B1%AA%E4%B8%9C%E5%9F%8E%E4%BA%BA%E5%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [高考查分场面代入感太强](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86%E5%9C%BA%E9%9D%A2%E4%BB%A3%E5%85%A5%E6%84%9F%E5%A4%AA%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中国队U17垫底出局 回国就地解散](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%98%9FU17%E5%9E%AB%E5%BA%95%E5%87%BA%E5%B1%80+%E5%9B%9E%E5%9B%BD%E5%B0%B1%E5%9C%B0%E8%A7%A3%E6%95%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [这粽子是犯了天条吗被绑成这样](https://www.baidu.com/s?wd=%E8%BF%99%E7%B2%BD%E5%AD%90%E6%98%AF%E7%8A%AF%E4%BA%86%E5%A4%A9%E6%9D%A1%E5%90%97%E8%A2%AB%E7%BB%91%E6%88%90%E8%BF%99%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [山东已出现43℃以上高温](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%B7%B2%E5%87%BA%E7%8E%B043%E2%84%83%E4%BB%A5%E4%B8%8A%E9%AB%98%E6%B8%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [汪东城人品](https://www.baidu.com/s?wd=%E6%B1%AA%E4%B8%9C%E5%9F%8E%E4%BA%BA%E5%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [美依礼芽《青鸟》燃炸了](https://www.baidu.com/s?wd=%E7%BE%8E%E4%BE%9D%E7%A4%BC%E8%8A%BD%E3%80%8A%E9%9D%92%E9%B8%9F%E3%80%8B%E7%87%83%E7%82%B8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [泰坦号观光艇内爆 5名乘员死亡](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9D%A6%E5%8F%B7%E8%A7%82%E5%85%89%E8%89%87%E5%86%85%E7%88%86+5%E5%90%8D%E4%B9%98%E5%91%98%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [文博日历丨古人怎么过端午](https://www.baidu.com/s?wd=%E6%96%87%E5%8D%9A%E6%97%A5%E5%8E%86%E4%B8%A8%E5%8F%A4%E4%BA%BA%E6%80%8E%E4%B9%88%E8%BF%87%E7%AB%AF%E5%8D%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [国语版《青鸟》毁童年](https://www.baidu.com/s?wd=%E5%9B%BD%E8%AF%AD%E7%89%88%E3%80%8A%E9%9D%92%E9%B8%9F%E3%80%8B%E6%AF%81%E7%AB%A5%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [山东已出现43℃以上高温](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%B7%B2%E5%87%BA%E7%8E%B043%E2%84%83%E4%BB%A5%E4%B8%8A%E9%AB%98%E6%B8%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [汪东城人品](https://www.baidu.com/s?wd=%E6%B1%AA%E4%B8%9C%E5%9F%8E%E4%BA%BA%E5%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [高考查分场面代入感太强](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86%E5%9C%BA%E9%9D%A2%E4%BB%A3%E5%85%A5%E6%84%9F%E5%A4%AA%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中国队U17垫底出局 回国就地解散](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%98%9FU17%E5%9E%AB%E5%BA%95%E5%87%BA%E5%B1%80+%E5%9B%9E%E5%9B%BD%E5%B0%B1%E5%9C%B0%E8%A7%A3%E6%95%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [这粽子是犯了天条吗被绑成这样](https://www.baidu.com/s?wd=%E8%BF%99%E7%B2%BD%E5%AD%90%E6%98%AF%E7%8A%AF%E4%BA%86%E5%A4%A9%E6%9D%A1%E5%90%97%E8%A2%AB%E7%BB%91%E6%88%90%E8%BF%99%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [山东已出现43℃以上高温](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%B7%B2%E5%87%BA%E7%8E%B043%E2%84%83%E4%BB%A5%E4%B8%8A%E9%AB%98%E6%B8%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [汪东城人品](https://www.baidu.com/s?wd=%E6%B1%AA%E4%B8%9C%E5%9F%8E%E4%BA%BA%E5%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [美依礼芽《青鸟》燃炸了](https://www.baidu.com/s?wd=%E7%BE%8E%E4%BE%9D%E7%A4%BC%E8%8A%BD%E3%80%8A%E9%9D%92%E9%B8%9F%E3%80%8B%E7%87%83%E7%82%B8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
