@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 17:18:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 17:19:01</h4></div>
 
 > 微博  
 
@@ -33,7 +33,7 @@
 5. [马斯克线上约架被母亲取消](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%BA%BF%E4%B8%8A%E7%BA%A6%E6%9E%B6%E8%A2%AB%E6%AF%8D%E4%BA%B2%E5%8F%96%E6%B6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子番茄吃多胃痛医生让喝可乐](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%95%AA%E8%8C%84%E5%90%83%E5%A4%9A%E8%83%83%E7%97%9B%E5%8C%BB%E7%94%9F%E8%AE%A9%E5%96%9D%E5%8F%AF%E4%B9%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [泰坦号前乘客自曝下潜是自杀之旅](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9D%A6%E5%8F%B7%E5%89%8D%E4%B9%98%E5%AE%A2%E8%87%AA%E6%9B%9D%E4%B8%8B%E6%BD%9C%E6%98%AF%E8%87%AA%E6%9D%80%E4%B9%8B%E6%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [蔡少芬你不要再叫了](https://www.baidu.com/s?wd=%E8%94%A1%E5%B0%91%E8%8A%AC%E4%BD%A0%E4%B8%8D%E8%A6%81%E5%86%8D%E5%8F%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [鹿晗问陈赫抢到票了吗](https://www.baidu.com/s?wd=%E9%B9%BF%E6%99%97%E9%97%AE%E9%99%88%E8%B5%AB%E6%8A%A2%E5%88%B0%E7%A5%A8%E4%BA%86%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广东一条龙舟70个房东 身价20亿](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E6%9D%A1%E9%BE%99%E8%88%9F70%E4%B8%AA%E6%88%BF%E4%B8%9C+%E8%BA%AB%E4%BB%B720%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [马斯克线上约架被母亲取消](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%BA%BF%E4%B8%8A%E7%BA%A6%E6%9E%B6%E8%A2%AB%E6%AF%8D%E4%BA%B2%E5%8F%96%E6%B6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子番茄吃多胃痛医生让喝可乐](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%95%AA%E8%8C%84%E5%90%83%E5%A4%9A%E8%83%83%E7%97%9B%E5%8C%BB%E7%94%9F%E8%AE%A9%E5%96%9D%E5%8F%AF%E4%B9%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [泰坦号前乘客自曝下潜是自杀之旅](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9D%A6%E5%8F%B7%E5%89%8D%E4%B9%98%E5%AE%A2%E8%87%AA%E6%9B%9D%E4%B8%8B%E6%BD%9C%E6%98%AF%E8%87%AA%E6%9D%80%E4%B9%8B%E6%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [蔡少芬你不要再叫了](https://www.baidu.com/s?wd=%E8%94%A1%E5%B0%91%E8%8A%AC%E4%BD%A0%E4%B8%8D%E8%A6%81%E5%86%8D%E5%8F%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [鹿晗问陈赫抢到票了吗](https://www.baidu.com/s?wd=%E9%B9%BF%E6%99%97%E9%97%AE%E9%99%88%E8%B5%AB%E6%8A%A2%E5%88%B0%E7%A5%A8%E4%BA%86%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广东一条龙舟70个房东 身价20亿](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E6%9D%A1%E9%BE%99%E8%88%9F70%E4%B8%AA%E6%88%BF%E4%B8%9C+%E8%BA%AB%E4%BB%B720%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
