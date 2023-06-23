@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 04:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 04:59:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [胡歌是来进货的吧](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E6%98%AF%E6%9D%A5%E8%BF%9B%E8%B4%A7%E7%9A%84%E5%90%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [赵丽颖三次陪跑](https://www.baidu.com/s?wd=%E8%B5%B5%E4%B8%BD%E9%A2%96%E4%B8%89%E6%AC%A1%E9%99%AA%E8%B7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [大小S宣布起诉葛斯齐](https://www.baidu.com/s?wd=%E5%A4%A7%E5%B0%8FS%E5%AE%A3%E5%B8%83%E8%B5%B7%E8%AF%89%E8%91%9B%E6%96%AF%E9%BD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女孩没考好和妈妈吵架被丢高速](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E6%B2%A1%E8%80%83%E5%A5%BD%E5%92%8C%E5%A6%88%E5%A6%88%E5%90%B5%E6%9E%B6%E8%A2%AB%E4%B8%A2%E9%AB%98%E9%80%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [蔡少芬你不要再叫了](https://www.baidu.com/s?wd=%E8%94%A1%E5%B0%91%E8%8A%AC%E4%BD%A0%E4%B8%8D%E8%A6%81%E5%86%8D%E5%8F%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [胡歌是来进货的吧](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E6%98%AF%E6%9D%A5%E8%BF%9B%E8%B4%A7%E7%9A%84%E5%90%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [赵丽颖三次陪跑](https://www.baidu.com/s?wd=%E8%B5%B5%E4%B8%BD%E9%A2%96%E4%B8%89%E6%AC%A1%E9%99%AA%E8%B7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [大小S宣布起诉葛斯齐](https://www.baidu.com/s?wd=%E5%A4%A7%E5%B0%8FS%E5%AE%A3%E5%B8%83%E8%B5%B7%E8%AF%89%E8%91%9B%E6%96%AF%E9%BD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女孩没考好和妈妈吵架被丢高速](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E6%B2%A1%E8%80%83%E5%A5%BD%E5%92%8C%E5%A6%88%E5%A6%88%E5%90%B5%E6%9E%B6%E8%A2%AB%E4%B8%A2%E9%AB%98%E9%80%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [蔡少芬你不要再叫了](https://www.baidu.com/s?wd=%E8%94%A1%E5%B0%91%E8%8A%AC%E4%BD%A0%E4%B8%8D%E8%A6%81%E5%86%8D%E5%8F%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
