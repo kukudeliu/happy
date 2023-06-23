@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 01:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 01:14:01</h4></div>
 
 > 微博  
 
@@ -20,8 +20,8 @@
 4. [2023 年各地高考分数线预测会是多少？](https://www.zhihu.com/question/607682306)<br />
 5. []()<br />
 6. [6 月 22 日比特币大涨，站上 30000 美元关口，为近两月以来首次，释放了哪些信号？](https://www.zhihu.com/question/607964858)<br />
-7. [如何评价《原神》3.8 版本前瞻直播特别节目「清夏乐园大秘境」？](https://www.zhihu.com/question/608160040)<br />
-8. [莫迪在美国国会上表示「印度很快将是世界第三大经济体」，这一目标可能实现吗？](https://www.zhihu.com/question/608151767)<br />
+7. [莫迪在美国国会上表示「印度很快将是世界第三大经济体」，这一目标可能实现吗？](https://www.zhihu.com/question/608151767)<br />
+8. [如何评价《原神》3.8 版本前瞻直播特别节目「清夏乐园大秘境」？](https://www.zhihu.com/question/608160040)<br />
 9. []()<br />
 
 > 百度  
@@ -32,9 +32,9 @@
 4. [沉浸式游览中国美丽乡村](https://www.baidu.com/s?wd=%E6%B2%89%E6%B5%B8%E5%BC%8F%E6%B8%B8%E8%A7%88%E4%B8%AD%E5%9B%BD%E7%BE%8E%E4%B8%BD%E4%B9%A1%E6%9D%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [白玉兰完整名单出炉：狂飙挂零陪跑](https://www.baidu.com/s?wd=%E7%99%BD%E7%8E%89%E5%85%B0%E5%AE%8C%E6%95%B4%E5%90%8D%E5%8D%95%E5%87%BA%E7%82%89%EF%BC%9A%E7%8B%82%E9%A3%99%E6%8C%82%E9%9B%B6%E9%99%AA%E8%B7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大小S宣布起诉葛斯齐](https://www.baidu.com/s?wd=%E5%A4%A7%E5%B0%8FS%E5%AE%A3%E5%B8%83%E8%B5%B7%E8%AF%89%E8%91%9B%E6%96%AF%E9%BD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [范丞丞看到李晨摔倒反应](https://www.baidu.com/s?wd=%E8%8C%83%E4%B8%9E%E4%B8%9E%E7%9C%8B%E5%88%B0%E6%9D%8E%E6%99%A8%E6%91%94%E5%80%92%E5%8F%8D%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子用蹲便器洗粽叶被吐槽](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%94%A8%E8%B9%B2%E4%BE%BF%E5%99%A8%E6%B4%97%E7%B2%BD%E5%8F%B6%E8%A2%AB%E5%90%90%E6%A7%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [多地开猴痘防控培训会](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%BC%80%E7%8C%B4%E7%97%98%E9%98%B2%E6%8E%A7%E5%9F%B9%E8%AE%AD%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [赵丽颖中国电视剧海外推广大使](https://www.baidu.com/s?wd=%E8%B5%B5%E4%B8%BD%E9%A2%96%E4%B8%AD%E5%9B%BD%E7%94%B5%E8%A7%86%E5%89%A7%E6%B5%B7%E5%A4%96%E6%8E%A8%E5%B9%BF%E5%A4%A7%E4%BD%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [多地开猴痘防控培训会](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%BC%80%E7%8C%B4%E7%97%98%E9%98%B2%E6%8E%A7%E5%9F%B9%E8%AE%AD%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [范丞丞看到李晨摔倒反应](https://www.baidu.com/s?wd=%E8%8C%83%E4%B8%9E%E4%B8%9E%E7%9C%8B%E5%88%B0%E6%9D%8E%E6%99%A8%E6%91%94%E5%80%92%E5%8F%8D%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [沉浸式游览中国美丽乡村](https://www.baidu.com/s?wd=%E6%B2%89%E6%B5%B8%E5%BC%8F%E6%B8%B8%E8%A7%88%E4%B8%AD%E5%9B%BD%E7%BE%8E%E4%B8%BD%E4%B9%A1%E6%9D%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [白玉兰完整名单出炉：狂飙挂零陪跑](https://www.baidu.com/s?wd=%E7%99%BD%E7%8E%89%E5%85%B0%E5%AE%8C%E6%95%B4%E5%90%8D%E5%8D%95%E5%87%BA%E7%82%89%EF%BC%9A%E7%8B%82%E9%A3%99%E6%8C%82%E9%9B%B6%E9%99%AA%E8%B7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大小S宣布起诉葛斯齐](https://www.baidu.com/s?wd=%E5%A4%A7%E5%B0%8FS%E5%AE%A3%E5%B8%83%E8%B5%B7%E8%AF%89%E8%91%9B%E6%96%AF%E9%BD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [范丞丞看到李晨摔倒反应](https://www.baidu.com/s?wd=%E8%8C%83%E4%B8%9E%E4%B8%9E%E7%9C%8B%E5%88%B0%E6%9D%8E%E6%99%A8%E6%91%94%E5%80%92%E5%8F%8D%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子用蹲便器洗粽叶被吐槽](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%94%A8%E8%B9%B2%E4%BE%BF%E5%99%A8%E6%B4%97%E7%B2%BD%E5%8F%B6%E8%A2%AB%E5%90%90%E6%A7%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [多地开猴痘防控培训会](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%BC%80%E7%8C%B4%E7%97%98%E9%98%B2%E6%8E%A7%E5%9F%B9%E8%AE%AD%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [赵丽颖中国电视剧海外推广大使](https://www.baidu.com/s?wd=%E8%B5%B5%E4%B8%BD%E9%A2%96%E4%B8%AD%E5%9B%BD%E7%94%B5%E8%A7%86%E5%89%A7%E6%B5%B7%E5%A4%96%E6%8E%A8%E5%B9%BF%E5%A4%A7%E4%BD%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [多地开猴痘防控培训会](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%BC%80%E7%8C%B4%E7%97%98%E9%98%B2%E6%8E%A7%E5%9F%B9%E8%AE%AD%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [范丞丞看到李晨摔倒反应](https://www.baidu.com/s?wd=%E8%8C%83%E4%B8%9E%E4%B8%9E%E7%9C%8B%E5%88%B0%E6%9D%8E%E6%99%A8%E6%91%94%E5%80%92%E5%8F%8D%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
