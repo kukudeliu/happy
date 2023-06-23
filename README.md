@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 15:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 15:09:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [这粽子是犯了天条吗被绑成这样](https://www.baidu.com/s?wd=%E8%BF%99%E7%B2%BD%E5%AD%90%E6%98%AF%E7%8A%AF%E4%BA%86%E5%A4%A9%E6%9D%A1%E5%90%97%E8%A2%AB%E7%BB%91%E6%88%90%E8%BF%99%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [汪东城人品](https://www.baidu.com/s?wd=%E6%B1%AA%E4%B8%9C%E5%9F%8E%E4%BA%BA%E5%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [山东已出现43℃以上高温](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%B7%B2%E5%87%BA%E7%8E%B043%E2%84%83%E4%BB%A5%E4%B8%8A%E9%AB%98%E6%B8%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [薇娅雪梨背后公司纷纷买地盖楼](https://www.baidu.com/s?wd=%E8%96%87%E5%A8%85%E9%9B%AA%E6%A2%A8%E8%83%8C%E5%90%8E%E5%85%AC%E5%8F%B8%E7%BA%B7%E7%BA%B7%E4%B9%B0%E5%9C%B0%E7%9B%96%E6%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [文班亚马是姚明之后最高的状元秀](https://www.baidu.com/s?wd=%E6%96%87%E7%8F%AD%E4%BA%9A%E9%A9%AC%E6%98%AF%E5%A7%9A%E6%98%8E%E4%B9%8B%E5%90%8E%E6%9C%80%E9%AB%98%E7%9A%84%E7%8A%B6%E5%85%83%E7%A7%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [这粽子是犯了天条吗被绑成这样](https://www.baidu.com/s?wd=%E8%BF%99%E7%B2%BD%E5%AD%90%E6%98%AF%E7%8A%AF%E4%BA%86%E5%A4%A9%E6%9D%A1%E5%90%97%E8%A2%AB%E7%BB%91%E6%88%90%E8%BF%99%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [汪东城人品](https://www.baidu.com/s?wd=%E6%B1%AA%E4%B8%9C%E5%9F%8E%E4%BA%BA%E5%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [山东已出现43℃以上高温](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%B7%B2%E5%87%BA%E7%8E%B043%E2%84%83%E4%BB%A5%E4%B8%8A%E9%AB%98%E6%B8%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [薇娅雪梨背后公司纷纷买地盖楼](https://www.baidu.com/s?wd=%E8%96%87%E5%A8%85%E9%9B%AA%E6%A2%A8%E8%83%8C%E5%90%8E%E5%85%AC%E5%8F%B8%E7%BA%B7%E7%BA%B7%E4%B9%B0%E5%9C%B0%E7%9B%96%E6%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [文班亚马是姚明之后最高的状元秀](https://www.baidu.com/s?wd=%E6%96%87%E7%8F%AD%E4%BA%9A%E9%A9%AC%E6%98%AF%E5%A7%9A%E6%98%8E%E4%B9%8B%E5%90%8E%E6%9C%80%E9%AB%98%E7%9A%84%E7%8A%B6%E5%85%83%E7%A7%80&sa=fyb_news&rsv_dl=fyb_news)<br />
