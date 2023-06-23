@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 11:59:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 12:00:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [家长花重金把差生放在重点中学尖子班，这样做孩子是否能够考出优异成绩？为什么？](https://www.zhihu.com/question/598857377)<br />
 7. [电影《消失的她》中有哪些值得回味的细节？](https://www.zhihu.com/question/607974608)<br />
 8. [计算机是最难的工科吗？](https://www.zhihu.com/question/593585695)<br />
-9. []()<br />
+9. [为什么有百年功力的张三丰却连区区寒毒都没办法医治?](https://www.zhihu.com/question/607635638)<br />
 
 > 百度  
 
