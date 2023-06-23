@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 10:14:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 10:15:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [成都上空现UFO？学者：或为火流星](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E4%B8%8A%E7%A9%BA%E7%8E%B0UFO%EF%BC%9F%E5%AD%A6%E8%80%85%EF%BC%9A%E6%88%96%E4%B8%BA%E7%81%AB%E6%B5%81%E6%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [日本将强制公布艺人真实身份](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%B0%86%E5%BC%BA%E5%88%B6%E5%85%AC%E5%B8%83%E8%89%BA%E4%BA%BA%E7%9C%9F%E5%AE%9E%E8%BA%AB%E4%BB%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [张绍刚你好狠的心](https://www.baidu.com/s?wd=%E5%BC%A0%E7%BB%8D%E5%88%9A%E4%BD%A0%E5%A5%BD%E7%8B%A0%E7%9A%84%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [马斯克发战书 扎克伯格接受了](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%8F%91%E6%88%98%E4%B9%A6+%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC%E6%8E%A5%E5%8F%97%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [原来土拨鼠叫是马伯骞临场发挥](https://www.baidu.com/s?wd=%E5%8E%9F%E6%9D%A5%E5%9C%9F%E6%8B%A8%E9%BC%A0%E5%8F%AB%E6%98%AF%E9%A9%AC%E4%BC%AF%E9%AA%9E%E4%B8%B4%E5%9C%BA%E5%8F%91%E6%8C%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [41℃高温把盆里的衣服晒冒烟了](https://www.baidu.com/s?wd=41%E2%84%83%E9%AB%98%E6%B8%A9%E6%8A%8A%E7%9B%86%E9%87%8C%E7%9A%84%E8%A1%A3%E6%9C%8D%E6%99%92%E5%86%92%E7%83%9F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [马斯克发战书 扎克伯格接受了](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%8F%91%E6%88%98%E4%B9%A6+%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC%E6%8E%A5%E5%8F%97%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [成都上空现UFO？学者：或为火流星](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E4%B8%8A%E7%A9%BA%E7%8E%B0UFO%EF%BC%9F%E5%AD%A6%E8%80%85%EF%BC%9A%E6%88%96%E4%B8%BA%E7%81%AB%E6%B5%81%E6%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [日本将强制公布艺人真实身份](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%B0%86%E5%BC%BA%E5%88%B6%E5%85%AC%E5%B8%83%E8%89%BA%E4%BA%BA%E7%9C%9F%E5%AE%9E%E8%BA%AB%E4%BB%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [张绍刚你好狠的心](https://www.baidu.com/s?wd=%E5%BC%A0%E7%BB%8D%E5%88%9A%E4%BD%A0%E5%A5%BD%E7%8B%A0%E7%9A%84%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [马斯克发战书 扎克伯格接受了](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%8F%91%E6%88%98%E4%B9%A6+%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC%E6%8E%A5%E5%8F%97%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [原来土拨鼠叫是马伯骞临场发挥](https://www.baidu.com/s?wd=%E5%8E%9F%E6%9D%A5%E5%9C%9F%E6%8B%A8%E9%BC%A0%E5%8F%AB%E6%98%AF%E9%A9%AC%E4%BC%AF%E9%AA%9E%E4%B8%B4%E5%9C%BA%E5%8F%91%E6%8C%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [41℃高温把盆里的衣服晒冒烟了](https://www.baidu.com/s?wd=41%E2%84%83%E9%AB%98%E6%B8%A9%E6%8A%8A%E7%9B%86%E9%87%8C%E7%9A%84%E8%A1%A3%E6%9C%8D%E6%99%92%E5%86%92%E7%83%9F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [马斯克发战书 扎克伯格接受了](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%8F%91%E6%88%98%E4%B9%A6+%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC%E6%8E%A5%E5%8F%97%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
