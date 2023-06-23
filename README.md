@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 13:48:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 13:49:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [景区网红大雁被游客踢中要害离世](https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%8C%BA%E7%BD%91%E7%BA%A2%E5%A4%A7%E9%9B%81%E8%A2%AB%E6%B8%B8%E5%AE%A2%E8%B8%A2%E4%B8%AD%E8%A6%81%E5%AE%B3%E7%A6%BB%E4%B8%96%23&t=31&band_rank=4&Refer=top)<br />
 5. [41℃高温把衣服晒着了](https://s.weibo.com/weibo?q=%2341%E2%84%83%E9%AB%98%E6%B8%A9%E6%8A%8A%E8%A1%A3%E6%9C%8D%E6%99%92%E7%9D%80%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [泰坦号观光艇内爆5名乘员已死亡](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9D%A6%E5%8F%B7%E8%A7%82%E5%85%89%E8%89%87%E5%86%85%E7%88%865%E5%90%8D%E4%B9%98%E5%91%98%E5%B7%B2%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=6&Refer=top)<br />
-7. [成都UFO](https://s.weibo.com/weibo?q=%E6%88%90%E9%83%BDUFO&t=31&band_rank=7&Refer=top)<br />
-8. [青鸟改编 难评](https://s.weibo.com/weibo?q=%E9%9D%92%E9%B8%9F%E6%94%B9%E7%BC%96%20%E9%9A%BE%E8%AF%84&t=31&band_rank=8&Refer=top)<br />
+7. [青鸟改编 难评](https://s.weibo.com/weibo?q=%E9%9D%92%E9%B8%9F%E6%94%B9%E7%BC%96%20%E9%9A%BE%E8%AF%84&t=31&band_rank=7&Refer=top)<br />
+8. [成都UFO](https://s.weibo.com/weibo?q=%E6%88%90%E9%83%BDUFO&t=31&band_rank=8&Refer=top)<br />
 9. [分数线 砍一刀](https://s.weibo.com/weibo?q=%E5%88%86%E6%95%B0%E7%BA%BF%20%E7%A0%8D%E4%B8%80%E5%88%80&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -32,9 +32,9 @@
 4. [文博日历丨古人怎么过端午](https://www.baidu.com/s?wd=%E6%96%87%E5%8D%9A%E6%97%A5%E5%8E%86%E4%B8%A8%E5%8F%A4%E4%BA%BA%E6%80%8E%E4%B9%88%E8%BF%87%E7%AB%AF%E5%8D%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [成都上空现UFO？学者：或为火流星](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E4%B8%8A%E7%A9%BA%E7%8E%B0UFO%EF%BC%9F%E5%AD%A6%E8%80%85%EF%BC%9A%E6%88%96%E4%B8%BA%E7%81%AB%E6%B5%81%E6%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [景区网红大雁被游客踢中要害离世](https://www.baidu.com/s?wd=%E6%99%AF%E5%8C%BA%E7%BD%91%E7%BA%A2%E5%A4%A7%E9%9B%81%E8%A2%AB%E6%B8%B8%E5%AE%A2%E8%B8%A2%E4%B8%AD%E8%A6%81%E5%AE%B3%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [内蒙体育生351分 握拳怒吼“上了”](https://www.baidu.com/s?wd=%E5%86%85%E8%92%99%E4%BD%93%E8%82%B2%E7%94%9F351%E5%88%86+%E6%8F%A1%E6%8B%B3%E6%80%92%E5%90%BC%E2%80%9C%E4%B8%8A%E4%BA%86%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [山东已出现43℃以上高温](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%B7%B2%E5%87%BA%E7%8E%B043%E2%84%83%E4%BB%A5%E4%B8%8A%E9%AB%98%E6%B8%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [日本将强制公布艺人真实身份](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%B0%86%E5%BC%BA%E5%88%B6%E5%85%AC%E5%B8%83%E8%89%BA%E4%BA%BA%E7%9C%9F%E5%AE%9E%E8%BA%AB%E4%BB%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [山东已出现43℃以上高温](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%B7%B2%E5%87%BA%E7%8E%B043%E2%84%83%E4%BB%A5%E4%B8%8A%E9%AB%98%E6%B8%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [内蒙体育生351分 握拳怒吼“上了”](https://www.baidu.com/s?wd=%E5%86%85%E8%92%99%E4%BD%93%E8%82%B2%E7%94%9F351%E5%88%86+%E6%8F%A1%E6%8B%B3%E6%80%92%E5%90%BC%E2%80%9C%E4%B8%8A%E4%BA%86%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [热热热！多地今日最高温40度](https://www.baidu.com/s?wd=%E7%83%AD%E7%83%AD%E7%83%AD%EF%BC%81%E5%A4%9A%E5%9C%B0%E4%BB%8A%E6%97%A5%E6%9C%80%E9%AB%98%E6%B8%A940%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [文博日历丨古人怎么过端午](https://www.baidu.com/s?wd=%E6%96%87%E5%8D%9A%E6%97%A5%E5%8E%86%E4%B8%A8%E5%8F%A4%E4%BA%BA%E6%80%8E%E4%B9%88%E8%BF%87%E7%AB%AF%E5%8D%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [成都上空现UFO？学者：或为火流星](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E4%B8%8A%E7%A9%BA%E7%8E%B0UFO%EF%BC%9F%E5%AD%A6%E8%80%85%EF%BC%9A%E6%88%96%E4%B8%BA%E7%81%AB%E6%B5%81%E6%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [景区网红大雁被游客踢中要害离世](https://www.baidu.com/s?wd=%E6%99%AF%E5%8C%BA%E7%BD%91%E7%BA%A2%E5%A4%A7%E9%9B%81%E8%A2%AB%E6%B8%B8%E5%AE%A2%E8%B8%A2%E4%B8%AD%E8%A6%81%E5%AE%B3%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [内蒙体育生351分 握拳怒吼“上了”](https://www.baidu.com/s?wd=%E5%86%85%E8%92%99%E4%BD%93%E8%82%B2%E7%94%9F351%E5%88%86+%E6%8F%A1%E6%8B%B3%E6%80%92%E5%90%BC%E2%80%9C%E4%B8%8A%E4%BA%86%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [山东已出现43℃以上高温](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%B7%B2%E5%87%BA%E7%8E%B043%E2%84%83%E4%BB%A5%E4%B8%8A%E9%AB%98%E6%B8%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [日本将强制公布艺人真实身份](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%B0%86%E5%BC%BA%E5%88%B6%E5%85%AC%E5%B8%83%E8%89%BA%E4%BA%BA%E7%9C%9F%E5%AE%9E%E8%BA%AB%E4%BB%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [山东已出现43℃以上高温](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%B7%B2%E5%87%BA%E7%8E%B043%E2%84%83%E4%BB%A5%E4%B8%8A%E9%AB%98%E6%B8%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [内蒙体育生351分 握拳怒吼“上了”](https://www.baidu.com/s?wd=%E5%86%85%E8%92%99%E4%BD%93%E8%82%B2%E7%94%9F351%E5%88%86+%E6%8F%A1%E6%8B%B3%E6%80%92%E5%90%BC%E2%80%9C%E4%B8%8A%E4%BA%86%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [热热热！多地今日最高温40度](https://www.baidu.com/s?wd=%E7%83%AD%E7%83%AD%E7%83%AD%EF%BC%81%E5%A4%9A%E5%9C%B0%E4%BB%8A%E6%97%A5%E6%9C%80%E9%AB%98%E6%B8%A940%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
