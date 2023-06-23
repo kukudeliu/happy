@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 21:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 21:14:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [外星人或利用超新星爆炸引人类注意](https://www.baidu.com/s?wd=%E5%A4%96%E6%98%9F%E4%BA%BA%E6%88%96%E5%88%A9%E7%94%A8%E8%B6%85%E6%96%B0%E6%98%9F%E7%88%86%E7%82%B8%E5%BC%95%E4%BA%BA%E7%B1%BB%E6%B3%A8%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [秦岚中空连衣裙](https://www.baidu.com/s?wd=%E7%A7%A6%E5%B2%9A%E4%B8%AD%E7%A9%BA%E8%BF%9E%E8%A1%A3%E8%A3%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [端午这样拍泰酷辣](https://www.baidu.com/s?wd=%E7%AB%AF%E5%8D%88%E8%BF%99%E6%A0%B7%E6%8B%8D%E6%B3%B0%E9%85%B7%E8%BE%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [张嘉倪因为四公错过外婆追悼会](https://www.baidu.com/s?wd=%E5%BC%A0%E5%98%89%E5%80%AA%E5%9B%A0%E4%B8%BA%E5%9B%9B%E5%85%AC%E9%94%99%E8%BF%87%E5%A4%96%E5%A9%86%E8%BF%BD%E6%82%BC%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [秋瓷炫唱的是中文还是泰文](https://www.baidu.com/s?wd=%E7%A7%8B%E7%93%B7%E7%82%AB%E5%94%B1%E7%9A%84%E6%98%AF%E4%B8%AD%E6%96%87%E8%BF%98%E6%98%AF%E6%B3%B0%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [外星人或利用超新星爆炸引人类注意](https://www.baidu.com/s?wd=%E5%A4%96%E6%98%9F%E4%BA%BA%E6%88%96%E5%88%A9%E7%94%A8%E8%B6%85%E6%96%B0%E6%98%9F%E7%88%86%E7%82%B8%E5%BC%95%E4%BA%BA%E7%B1%BB%E6%B3%A8%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [秦岚中空连衣裙](https://www.baidu.com/s?wd=%E7%A7%A6%E5%B2%9A%E4%B8%AD%E7%A9%BA%E8%BF%9E%E8%A1%A3%E8%A3%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [端午这样拍泰酷辣](https://www.baidu.com/s?wd=%E7%AB%AF%E5%8D%88%E8%BF%99%E6%A0%B7%E6%8B%8D%E6%B3%B0%E9%85%B7%E8%BE%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [张嘉倪因为四公错过外婆追悼会](https://www.baidu.com/s?wd=%E5%BC%A0%E5%98%89%E5%80%AA%E5%9B%A0%E4%B8%BA%E5%9B%9B%E5%85%AC%E9%94%99%E8%BF%87%E5%A4%96%E5%A9%86%E8%BF%BD%E6%82%BC%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [秋瓷炫唱的是中文还是泰文](https://www.baidu.com/s?wd=%E7%A7%8B%E7%93%B7%E7%82%AB%E5%94%B1%E7%9A%84%E6%98%AF%E4%B8%AD%E6%96%87%E8%BF%98%E6%98%AF%E6%B3%B0%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
