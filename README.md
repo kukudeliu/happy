@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 13:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 13:14:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [泰坦号观光艇内爆5名乘员已死亡](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9D%A6%E5%8F%B7%E8%A7%82%E5%85%89%E8%89%87%E5%86%85%E7%88%865%E5%90%8D%E4%B9%98%E5%91%98%E5%B7%B2%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [汪东城人品](https://s.weibo.com/weibo?q=%23%E6%B1%AA%E4%B8%9C%E5%9F%8E%E4%BA%BA%E5%93%81%23&t=31&band_rank=7&Refer=top)<br />
 8. [莫迪往拜登夫人手里放了一颗7.5克拉绿钻](https://s.weibo.com/weibo?q=%23%E8%8E%AB%E8%BF%AA%E5%BE%80%E6%8B%9C%E7%99%BB%E5%A4%AB%E4%BA%BA%E6%89%8B%E9%87%8C%E6%94%BE%E4%BA%86%E4%B8%80%E9%A2%977.5%E5%85%8B%E6%8B%89%E7%BB%BF%E9%92%BB%23&t=31&band_rank=8&Refer=top)<br />
-9. [偷偷藏不住暗恋be](https://s.weibo.com/weibo?q=%23%E5%81%B7%E5%81%B7%E8%97%8F%E4%B8%8D%E4%BD%8F%E6%9A%97%E6%81%8Bbe%23&t=31&band_rank=9&Refer=top)<br />
+9. [日本将强制公布艺人真实身份](https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%B0%86%E5%BC%BA%E5%88%B6%E5%85%AC%E5%B8%83%E8%89%BA%E4%BA%BA%E7%9C%9F%E5%AE%9E%E8%BA%AB%E4%BB%BD&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -21,8 +21,8 @@
 5. [6 月 22 日晚，多名网友发现成都上空出现不明飞行物，天文学者猜测可能是火流星，什么是火流星？](https://www.zhihu.com/question/608091068)<br />
 6. [电影《消失的她》中有哪些值得回味的细节？](https://www.zhihu.com/question/607974608)<br />
 7. [「泰坦号」潜水器发生灾难性内爆，5 名乘员全部死亡，什么是内爆？哪些信息值得关注？](https://www.zhihu.com/question/608090522)<br />
-8. [为什么有百年功力的张三丰却连区区寒毒都没办法医治?](https://www.zhihu.com/question/607635638)<br />
-9. []()<br />
+8. []()<br />
+9. [为什么有百年功力的张三丰却连区区寒毒都没办法医治?](https://www.zhihu.com/question/607635638)<br />
 
 > 百度  
 
