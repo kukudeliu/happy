@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 01:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 01:48:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [鹿晗演唱会上不敢读的灯牌](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E4%B8%8D%E6%95%A2%E8%AF%BB%E7%9A%84%E7%81%AF%E7%89%8C%23&t=31&band_rank=6&Refer=top)<br />
 7. [吴越 白玉兰视后](https://s.weibo.com/weibo?q=%E5%90%B4%E8%B6%8A%20%E7%99%BD%E7%8E%89%E5%85%B0%E8%A7%86%E5%90%8E&t=31&band_rank=7&Refer=top)<br />
 8. [倪妮好帅我好爱](https://s.weibo.com/weibo?q=%E5%80%AA%E5%A6%AE%E5%A5%BD%E5%B8%85%E6%88%91%E5%A5%BD%E7%88%B1&t=31&band_rank=8&Refer=top)<br />
-9. [丫丫回国前后变化好大](https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E5%9B%9E%E5%9B%BD%E5%89%8D%E5%90%8E%E5%8F%98%E5%8C%96%E5%A5%BD%E5%A4%A7%23&t=31&band_rank=9&Refer=top)<br />
+9. [男生高考查分584父子俩笑得合不拢嘴](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86584%E7%88%B6%E5%AD%90%E4%BF%A9%E7%AC%91%E5%BE%97%E5%90%88%E4%B8%8D%E6%8B%A2%E5%98%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -34,7 +34,7 @@
 6. [大小S宣布起诉葛斯齐](https://www.baidu.com/s?wd=%E5%A4%A7%E5%B0%8FS%E5%AE%A3%E5%B8%83%E8%B5%B7%E8%AF%89%E8%91%9B%E6%96%AF%E9%BD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [薇娅雪梨背后公司纷纷买地盖楼](https://www.baidu.com/s?wd=%E8%96%87%E5%A8%85%E9%9B%AA%E6%A2%A8%E8%83%8C%E5%90%8E%E5%85%AC%E5%8F%B8%E7%BA%B7%E7%BA%B7%E4%B9%B0%E5%9C%B0%E7%9B%96%E6%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [范丞丞看到李晨摔倒反应](https://www.baidu.com/s?wd=%E8%8C%83%E4%B8%9E%E4%B8%9E%E7%9C%8B%E5%88%B0%E6%9D%8E%E6%99%A8%E6%91%94%E5%80%92%E5%8F%8D%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [制片人回应迪丽热巴不适合演公诉](https://www.baidu.com/s?wd=%E5%88%B6%E7%89%87%E4%BA%BA%E5%9B%9E%E5%BA%94%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E4%B8%8D%E9%80%82%E5%90%88%E6%BC%94%E5%85%AC%E8%AF%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [外星人或利用超新星爆炸引人类注意](https://www.baidu.com/s?wd=%E5%A4%96%E6%98%9F%E4%BA%BA%E6%88%96%E5%88%A9%E7%94%A8%E8%B6%85%E6%96%B0%E6%98%9F%E7%88%86%E7%82%B8%E5%BC%95%E4%BA%BA%E7%B1%BB%E6%B3%A8%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [大小S宣布起诉葛斯齐](https://www.baidu.com/s?wd=%E5%A4%A7%E5%B0%8FS%E5%AE%A3%E5%B8%83%E8%B5%B7%E8%AF%89%E8%91%9B%E6%96%AF%E9%BD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [薇娅雪梨背后公司纷纷买地盖楼](https://www.baidu.com/s?wd=%E8%96%87%E5%A8%85%E9%9B%AA%E6%A2%A8%E8%83%8C%E5%90%8E%E5%85%AC%E5%8F%B8%E7%BA%B7%E7%BA%B7%E4%B9%B0%E5%9C%B0%E7%9B%96%E6%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [范丞丞看到李晨摔倒反应](https://www.baidu.com/s?wd=%E8%8C%83%E4%B8%9E%E4%B8%9E%E7%9C%8B%E5%88%B0%E6%9D%8E%E6%99%A8%E6%91%94%E5%80%92%E5%8F%8D%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [制片人回应迪丽热巴不适合演公诉](https://www.baidu.com/s?wd=%E5%88%B6%E7%89%87%E4%BA%BA%E5%9B%9E%E5%BA%94%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E4%B8%8D%E9%80%82%E5%90%88%E6%BC%94%E5%85%AC%E8%AF%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [外星人或利用超新星爆炸引人类注意](https://www.baidu.com/s?wd=%E5%A4%96%E6%98%9F%E4%BA%BA%E6%88%96%E5%88%A9%E7%94%A8%E8%B6%85%E6%96%B0%E6%98%9F%E7%88%86%E7%82%B8%E5%BC%95%E4%BA%BA%E7%B1%BB%E6%B3%A8%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
