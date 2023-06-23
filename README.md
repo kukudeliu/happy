@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 21:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 21:07:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [男生高考查分601激动满屋蹦跳](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86601%E6%BF%80%E5%8A%A8%E6%BB%A1%E5%B1%8B%E8%B9%A6%E8%B7%B3%23&t=31&band_rank=6&Refer=top)<br />
 7. [白玉兰奖单](https://s.weibo.com/weibo?q=%23%E7%99%BD%E7%8E%89%E5%85%B0%E5%A5%96%E5%8D%95%23&t=31&band_rank=7&Refer=top)<br />
 8. [外星人](https://s.weibo.com/weibo?q=%E5%A4%96%E6%98%9F%E4%BA%BA&t=31&band_rank=8&Refer=top)<br />
-9. [男生高考查分584父子俩笑得合不拢嘴](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86584%E7%88%B6%E5%AD%90%E4%BF%A9%E7%AC%91%E5%BE%97%E5%90%88%E4%B8%8D%E6%8B%A2%E5%98%B4%23&t=31&band_rank=9&Refer=top)<br />
+9. [泰坦号潜水器前乘客曝恐怖经历](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9D%A6%E5%8F%B7%E6%BD%9C%E6%B0%B4%E5%99%A8%E5%89%8D%E4%B9%98%E5%AE%A2%E6%9B%9D%E6%81%90%E6%80%96%E7%BB%8F%E5%8E%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
