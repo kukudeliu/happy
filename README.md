@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 08:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 08:15:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [2023好声音导师官宣](https://s.weibo.com/weibo?q=%232023%E5%A5%BD%E5%A3%B0%E9%9F%B3%E5%AF%BC%E5%B8%88%E5%AE%98%E5%AE%A3%23&t=31&band_rank=6&Refer=top)<br />
 7. [马伯庸 别人发端午安康我回复端午快乐](https://s.weibo.com/weibo?q=%E9%A9%AC%E4%BC%AF%E5%BA%B8%20%E5%88%AB%E4%BA%BA%E5%8F%91%E7%AB%AF%E5%8D%88%E5%AE%89%E5%BA%B7%E6%88%91%E5%9B%9E%E5%A4%8D%E7%AB%AF%E5%8D%88%E5%BF%AB%E4%B9%90&t=31&band_rank=7&Refer=top)<br />
 8. [保罗被交易至勇士](https://s.weibo.com/weibo?q=%23%E4%BF%9D%E7%BD%97%E8%A2%AB%E4%BA%A4%E6%98%93%E8%87%B3%E5%8B%87%E5%A3%AB%23&t=31&band_rank=8&Refer=top)<br />
-9. [这粽子是犯了天条吗被绑成这样](https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%B2%BD%E5%AD%90%E6%98%AF%E7%8A%AF%E4%BA%86%E5%A4%A9%E6%9D%A1%E5%90%97%E8%A2%AB%E7%BB%91%E6%88%90%E8%BF%99%E6%A0%B7%23&t=31&band_rank=9&Refer=top)<br />
+9. [国产暗恋剧天花板](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BA%A7%E6%9A%97%E6%81%8B%E5%89%A7%E5%A4%A9%E8%8A%B1%E6%9D%BF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
