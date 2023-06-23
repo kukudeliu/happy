@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 00:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 00:59:01</h4></div>
 
 > 微博  
 
@@ -32,9 +32,9 @@
 4. [沉浸式游览中国美丽乡村](https://www.baidu.com/s?wd=%E6%B2%89%E6%B5%B8%E5%BC%8F%E6%B8%B8%E8%A7%88%E4%B8%AD%E5%9B%BD%E7%BE%8E%E4%B8%BD%E4%B9%A1%E6%9D%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [白玉兰完整名单出炉：狂飙挂零陪跑](https://www.baidu.com/s?wd=%E7%99%BD%E7%8E%89%E5%85%B0%E5%AE%8C%E6%95%B4%E5%90%8D%E5%8D%95%E5%87%BA%E7%82%89%EF%BC%9A%E7%8B%82%E9%A3%99%E6%8C%82%E9%9B%B6%E9%99%AA%E8%B7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大小S宣布起诉葛斯齐](https://www.baidu.com/s?wd=%E5%A4%A7%E5%B0%8FS%E5%AE%A3%E5%B8%83%E8%B5%B7%E8%AF%89%E8%91%9B%E6%96%AF%E9%BD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [两龙舟掉头相撞36人落水暂无伤亡](https://www.baidu.com/s?wd=%E4%B8%A4%E9%BE%99%E8%88%9F%E6%8E%89%E5%A4%B4%E7%9B%B8%E6%92%9E36%E4%BA%BA%E8%90%BD%E6%B0%B4%E6%9A%82%E6%97%A0%E4%BC%A4%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [胡歌是来进货的吧](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E6%98%AF%E6%9D%A5%E8%BF%9B%E8%B4%A7%E7%9A%84%E5%90%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [网友航拍上千壮士抬龙舟太震撼](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E8%88%AA%E6%8B%8D%E4%B8%8A%E5%8D%83%E5%A3%AE%E5%A3%AB%E6%8A%AC%E9%BE%99%E8%88%9F%E5%A4%AA%E9%9C%87%E6%92%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [秋瓷炫唱的是中文还是泰文](https://www.baidu.com/s?wd=%E7%A7%8B%E7%93%B7%E7%82%AB%E5%94%B1%E7%9A%84%E6%98%AF%E4%B8%AD%E6%96%87%E8%BF%98%E6%98%AF%E6%B3%B0%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [美依礼芽《青鸟》燃炸了](https://www.baidu.com/s?wd=%E7%BE%8E%E4%BE%9D%E7%A4%BC%E8%8A%BD%E3%80%8A%E9%9D%92%E9%B8%9F%E3%80%8B%E7%87%83%E7%82%B8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [胡歌是来进货的吧](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E6%98%AF%E6%9D%A5%E8%BF%9B%E8%B4%A7%E7%9A%84%E5%90%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [沉浸式游览中国美丽乡村](https://www.baidu.com/s?wd=%E6%B2%89%E6%B5%B8%E5%BC%8F%E6%B8%B8%E8%A7%88%E4%B8%AD%E5%9B%BD%E7%BE%8E%E4%B8%BD%E4%B9%A1%E6%9D%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [白玉兰完整名单出炉：狂飙挂零陪跑](https://www.baidu.com/s?wd=%E7%99%BD%E7%8E%89%E5%85%B0%E5%AE%8C%E6%95%B4%E5%90%8D%E5%8D%95%E5%87%BA%E7%82%89%EF%BC%9A%E7%8B%82%E9%A3%99%E6%8C%82%E9%9B%B6%E9%99%AA%E8%B7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大小S宣布起诉葛斯齐](https://www.baidu.com/s?wd=%E5%A4%A7%E5%B0%8FS%E5%AE%A3%E5%B8%83%E8%B5%B7%E8%AF%89%E8%91%9B%E6%96%AF%E9%BD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [两龙舟掉头相撞36人落水暂无伤亡](https://www.baidu.com/s?wd=%E4%B8%A4%E9%BE%99%E8%88%9F%E6%8E%89%E5%A4%B4%E7%9B%B8%E6%92%9E36%E4%BA%BA%E8%90%BD%E6%B0%B4%E6%9A%82%E6%97%A0%E4%BC%A4%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [胡歌是来进货的吧](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E6%98%AF%E6%9D%A5%E8%BF%9B%E8%B4%A7%E7%9A%84%E5%90%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [网友航拍上千壮士抬龙舟太震撼](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E8%88%AA%E6%8B%8D%E4%B8%8A%E5%8D%83%E5%A3%AE%E5%A3%AB%E6%8A%AC%E9%BE%99%E8%88%9F%E5%A4%AA%E9%9C%87%E6%92%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [秋瓷炫唱的是中文还是泰文](https://www.baidu.com/s?wd=%E7%A7%8B%E7%93%B7%E7%82%AB%E5%94%B1%E7%9A%84%E6%98%AF%E4%B8%AD%E6%96%87%E8%BF%98%E6%98%AF%E6%B3%B0%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [美依礼芽《青鸟》燃炸了](https://www.baidu.com/s?wd=%E7%BE%8E%E4%BE%9D%E7%A4%BC%E8%8A%BD%E3%80%8A%E9%9D%92%E9%B8%9F%E3%80%8B%E7%87%83%E7%82%B8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [胡歌是来进货的吧](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E6%98%AF%E6%9D%A5%E8%BF%9B%E8%B4%A7%E7%9A%84%E5%90%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
