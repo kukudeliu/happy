@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 01:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 01:51:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [鹿晗演唱会上不敢读的灯牌](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E4%B8%8D%E6%95%A2%E8%AF%BB%E7%9A%84%E7%81%AF%E7%89%8C%23&t=31&band_rank=6&Refer=top)<br />
 7. [吴越 白玉兰视后](https://s.weibo.com/weibo?q=%E5%90%B4%E8%B6%8A%20%E7%99%BD%E7%8E%89%E5%85%B0%E8%A7%86%E5%90%8E&t=31&band_rank=7&Refer=top)<br />
 8. [倪妮好帅我好爱](https://s.weibo.com/weibo?q=%E5%80%AA%E5%A6%AE%E5%A5%BD%E5%B8%85%E6%88%91%E5%A5%BD%E7%88%B1&t=31&band_rank=8&Refer=top)<br />
-9. [男生高考查分584父子俩笑得合不拢嘴](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86584%E7%88%B6%E5%AD%90%E4%BF%A9%E7%AC%91%E5%BE%97%E5%90%88%E4%B8%8D%E6%8B%A2%E5%98%B4%23&t=31&band_rank=9&Refer=top)<br />
+9. [婴儿高速遇车祸山东大哥急送医](https://s.weibo.com/weibo?q=%23%E5%A9%B4%E5%84%BF%E9%AB%98%E9%80%9F%E9%81%87%E8%BD%A6%E7%A5%B8%E5%B1%B1%E4%B8%9C%E5%A4%A7%E5%93%A5%E6%80%A5%E9%80%81%E5%8C%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
