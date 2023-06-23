@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 16:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 17:00:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [140 元一根演唱会荧光棒成本仅 10 元，你对五月天演唱会的「天价」荧光棒有何看法？](https://www.zhihu.com/question/607116754)<br />
 6. [中国气象局启动高温四级应急响应，伴随高温而来的有哪些隐忧需要警惕、预防？](https://www.zhihu.com/question/608101451)<br />
 7. [如何评价《黑镜》（Black Mirror）第六季第一集「Joan is awful」？](https://www.zhihu.com/question/606816407)<br />
-8. [如何评价「浪姐 4」《乘风 2023》的四公舞台（上）？](https://www.zhihu.com/question/608105558)<br />
-9. [2024 年将实行新高考地区的高考生，今年没考好还建议复读吗？](https://www.zhihu.com/question/605231748)<br />
+8. []()<br />
+9. [如何评价「浪姐 4」《乘风 2023》的四公舞台（上）？](https://www.zhihu.com/question/608105558)<br />
 
 > 百度  
 
