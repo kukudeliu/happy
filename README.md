@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 19:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 19:47:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [消失的她票房逆跌](https://s.weibo.com/weibo?q=%23%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%88%BF%E9%80%86%E8%B7%8C%23&t=31&band_rank=6&Refer=top)<br />
 7. [女子番茄吃多胃痛医生让喝可乐治疗](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%95%AA%E8%8C%84%E5%90%83%E5%A4%9A%E8%83%83%E7%97%9B%E5%8C%BB%E7%94%9F%E8%AE%A9%E5%96%9D%E5%8F%AF%E4%B9%90%E6%B2%BB%E7%96%97%23&t=31&band_rank=7&Refer=top)<br />
 8. [外星人](https://s.weibo.com/weibo?q=%E5%A4%96%E6%98%9F%E4%BA%BA&t=31&band_rank=8&Refer=top)<br />
-9. [白玉兰红毯](https://s.weibo.com/weibo?q=%E7%99%BD%E7%8E%89%E5%85%B0%E7%BA%A2%E6%AF%AF&t=31&band_rank=9&Refer=top)<br />
+9. [狂飙](https://s.weibo.com/weibo?q=%E7%8B%82%E9%A3%99&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -20,8 +20,8 @@
 4. [140 元一根演唱会荧光棒成本仅 10 元，你对五月天演唱会的「天价」荧光棒有何看法？](https://www.zhihu.com/question/607116754)<br />
 5. [iOS 的墓碑机制这么厉害，为什么 Windows 、 Linux 不采用呢？](https://www.zhihu.com/question/604373860)<br />
 6. [高考考不上是复读还是上大专?](https://www.zhihu.com/question/607821406)<br />
-7. [如何评价《一人之下》漫画 629（671）话？](https://www.zhihu.com/question/608057544)<br />
-8. [唐末时重武的风气是怎么一步步被纠正过来的？](https://www.zhihu.com/question/607040290)<br />
+7. [唐末时重武的风气是怎么一步步被纠正过来的？](https://www.zhihu.com/question/607040290)<br />
+8. [如何评价《一人之下》漫画 629（671）话？](https://www.zhihu.com/question/608057544)<br />
 9. []()<br />
 
 > 百度  
