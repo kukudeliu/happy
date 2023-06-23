@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 19:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 19:11:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [外星人](https://s.weibo.com/weibo?q=%E5%A4%96%E6%98%9F%E4%BA%BA&t=31&band_rank=6&Refer=top)<br />
 7. [男生高考查分601激动满屋蹦跳](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86601%E6%BF%80%E5%8A%A8%E6%BB%A1%E5%B1%8B%E8%B9%A6%E8%B7%B3%23&t=31&band_rank=7&Refer=top)<br />
 8. [赵丽颖贵气的闪](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%B4%B5%E6%B0%94%E7%9A%84%E9%97%AA&t=31&band_rank=8&Refer=top)<br />
-9. [鹿晗演唱会](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=9&Refer=top)<br />
+9. [白玉兰颁奖](https://s.weibo.com/weibo?q=%23%E7%99%BD%E7%8E%89%E5%85%B0%E9%A2%81%E5%A5%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
