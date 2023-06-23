@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 08:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 08:25:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [2023好声音导师官宣](https://s.weibo.com/weibo?q=%232023%E5%A5%BD%E5%A3%B0%E9%9F%B3%E5%AF%BC%E5%B8%88%E5%AE%98%E5%AE%A3%23&t=31&band_rank=6&Refer=top)<br />
 7. [怀孕33周孕妇被2岁儿子开枪打死](https://s.weibo.com/weibo?q=%23%E6%80%80%E5%AD%9533%E5%91%A8%E5%AD%95%E5%A6%87%E8%A2%AB2%E5%B2%81%E5%84%BF%E5%AD%90%E5%BC%80%E6%9E%AA%E6%89%93%E6%AD%BB%23&t=31&band_rank=7&Refer=top)<br />
 8. [马伯庸 别人发端午安康我回复端午快乐](https://s.weibo.com/weibo?q=%E9%A9%AC%E4%BC%AF%E5%BA%B8%20%E5%88%AB%E4%BA%BA%E5%8F%91%E7%AB%AF%E5%8D%88%E5%AE%89%E5%BA%B7%E6%88%91%E5%9B%9E%E5%A4%8D%E7%AB%AF%E5%8D%88%E5%BF%AB%E4%B9%90&t=31&band_rank=8&Refer=top)<br />
-9. [国产暗恋剧天花板](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BA%A7%E6%9A%97%E6%81%8B%E5%89%A7%E5%A4%A9%E8%8A%B1%E6%9D%BF%23&t=31&band_rank=9&Refer=top)<br />
+9. [实名注册手机卡不注销的后果](https://s.weibo.com/weibo?q=%23%E5%AE%9E%E5%90%8D%E6%B3%A8%E5%86%8C%E6%89%8B%E6%9C%BA%E5%8D%A1%E4%B8%8D%E6%B3%A8%E9%94%80%E7%9A%84%E5%90%8E%E6%9E%9C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [上海二手房挂牌量增速全国第一，挂牌数达 18 万套，有中介接受火锅券冲抵中介费，如何看待上海楼市行情？](https://www.zhihu.com/question/607907674)<br />
 7. [一个村超都搞得有声有色，为啥中国足球人人唾弃，真的是规则出了问题？](https://www.zhihu.com/question/606948461)<br />
 8. [如何评价周润发在电影《别叫我「赌神」》中的表现？](https://www.zhihu.com/question/607674958)<br />
-9. [如何评价《英雄联盟》新英雄「百裂冥犬」纳亚菲利？](https://www.zhihu.com/question/607827052)<br />
+9. [2023 LPL 夏季赛 Uzi 不敌老东家，RNG 2:0 击败 EDG，如何评价这场比赛？](https://www.zhihu.com/question/608001150)<br />
 
 > 百度  
 
