@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 16:05:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 16:06:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [山东已现43℃以上高温](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E5%B7%B2%E7%8E%B043%E2%84%83%E4%BB%A5%E4%B8%8A%E9%AB%98%E6%B8%A9%23&t=31&band_rank=5&Refer=top)<br />
 6. [41℃高温把衣服晒着了](https://s.weibo.com/weibo?q=%2341%E2%84%83%E9%AB%98%E6%B8%A9%E6%8A%8A%E8%A1%A3%E6%9C%8D%E6%99%92%E7%9D%80%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [傅韵哲高考成绩](https://s.weibo.com/weibo?q=%E5%82%85%E9%9F%B5%E5%93%B2%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9&t=31&band_rank=7&Refer=top)<br />
-8. [高考分数线](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%23&t=31&band_rank=8&Refer=top)<br />
-9. [青鸟改编 难评](https://s.weibo.com/weibo?q=%E9%9D%92%E9%B8%9F%E6%94%B9%E7%BC%96%20%E9%9A%BE%E8%AF%84&t=31&band_rank=9&Refer=top)<br />
+8. [青鸟改编 难评](https://s.weibo.com/weibo?q=%E9%9D%92%E9%B8%9F%E6%94%B9%E7%BC%96%20%E9%9A%BE%E8%AF%84&t=31&band_rank=8&Refer=top)<br />
+9. [高考分数线](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [NBA 选秀大会：马刺状元签选择文班亚马，黄蜂选中米勒，如何看待他们的前景？](https://www.zhihu.com/question/608089914)<br />
 7. [中国气象局启动高温四级应急响应，伴随高温而来的有哪些隐忧需要警惕、预防？](https://www.zhihu.com/question/608101451)<br />
 8. [《长风渡》开播，你觉得它能否成为一部爆款？](https://www.zhihu.com/question/607564023)<br />
-9. [如何评价《黑镜》（Black Mirror）第六季第一集「Joan is awful」？](https://www.zhihu.com/question/606816407)<br />
+9. [140 元一根演唱会荧光棒成本仅 10 元，你对五月天演唱会的天价荧光棒有何看法？](https://www.zhihu.com/question/607116754)<br />
 
 > 百度  
 
