@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 13:34:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 13:35:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [6 月 22 日晚，多名网友发现成都上空出现不明飞行物，天文学者猜测可能是火流星，什么是火流星？](https://www.zhihu.com/question/608091068)<br />
 6. []()<br />
 7. [2023 吉林高考分数线公布，重点本科线理 463 大降 25 分，如何评价今年的分数线？](https://www.zhihu.com/question/607974303)<br />
-8. [为什么有百年功力的张三丰却连区区寒毒都没办法医治?](https://www.zhihu.com/question/607635638)<br />
-9. [如何评价赵露思、陈哲远主演的电视剧《偷偷藏不住》？](https://www.zhihu.com/question/607662880)<br />
+8. [如何评价赵露思、陈哲远主演的电视剧《偷偷藏不住》？](https://www.zhihu.com/question/607662880)<br />
+9. [为什么年检总是能搞坏车？](https://www.zhihu.com/question/370206776)<br />
 
 > 百度  
 
