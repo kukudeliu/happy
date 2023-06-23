@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 08:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 08:24:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [2023好声音导师官宣](https://s.weibo.com/weibo?q=%232023%E5%A5%BD%E5%A3%B0%E9%9F%B3%E5%AF%BC%E5%B8%88%E5%AE%98%E5%AE%A3%23&t=31&band_rank=6&Refer=top)<br />
 7. [怀孕33周孕妇被2岁儿子开枪打死](https://s.weibo.com/weibo?q=%23%E6%80%80%E5%AD%9533%E5%91%A8%E5%AD%95%E5%A6%87%E8%A2%AB2%E5%B2%81%E5%84%BF%E5%AD%90%E5%BC%80%E6%9E%AA%E6%89%93%E6%AD%BB%23&t=31&band_rank=7&Refer=top)<br />
 8. [马伯庸 别人发端午安康我回复端午快乐](https://s.weibo.com/weibo?q=%E9%A9%AC%E4%BC%AF%E5%BA%B8%20%E5%88%AB%E4%BA%BA%E5%8F%91%E7%AB%AF%E5%8D%88%E5%AE%89%E5%BA%B7%E6%88%91%E5%9B%9E%E5%A4%8D%E7%AB%AF%E5%8D%88%E5%BF%AB%E4%B9%90&t=31&band_rank=8&Refer=top)<br />
-9. [保罗被交易至勇士](https://s.weibo.com/weibo?q=%23%E4%BF%9D%E7%BD%97%E8%A2%AB%E4%BA%A4%E6%98%93%E8%87%B3%E5%8B%87%E5%A3%AB%23&t=31&band_rank=9&Refer=top)<br />
+9. [国产暗恋剧天花板](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BA%A7%E6%9A%97%E6%81%8B%E5%89%A7%E5%A4%A9%E8%8A%B1%E6%9D%BF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -21,8 +21,8 @@
 5. [全国结婚登记量跌破 700 万对，创 37 年来新低，年轻人「爱」不起了吗？](https://www.zhihu.com/question/607996046)<br />
 6. [上海二手房挂牌量增速全国第一，挂牌数达 18 万套，有中介接受火锅券冲抵中介费，如何看待上海楼市行情？](https://www.zhihu.com/question/607907674)<br />
 7. [一个村超都搞得有声有色，为啥中国足球人人唾弃，真的是规则出了问题？](https://www.zhihu.com/question/606948461)<br />
-8. [如何评价《英雄联盟》新英雄「百裂冥犬」纳亚菲利？](https://www.zhihu.com/question/607827052)<br />
-9. [如何评价周润发在电影《别叫我「赌神」》中的表现？](https://www.zhihu.com/question/607674958)<br />
+8. [如何评价周润发在电影《别叫我「赌神」》中的表现？](https://www.zhihu.com/question/607674958)<br />
+9. [如何评价《英雄联盟》新英雄「百裂冥犬」纳亚菲利？](https://www.zhihu.com/question/607827052)<br />
 
 > 百度  
 
@@ -34,7 +34,7 @@
 6. [50斤重鳄雀鳝藏匿水库一年偷鱼吃](https://www.baidu.com/s?wd=50%E6%96%A4%E9%87%8D%E9%B3%84%E9%9B%80%E9%B3%9D%E8%97%8F%E5%8C%BF%E6%B0%B4%E5%BA%93%E4%B8%80%E5%B9%B4%E5%81%B7%E9%B1%BC%E5%90%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [2023好声音导师官宣](https://www.baidu.com/s?wd=2023%E5%A5%BD%E5%A3%B0%E9%9F%B3%E5%AF%BC%E5%B8%88%E5%AE%98%E5%AE%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [苏州和上海地铁连起来了](https://www.baidu.com/s?wd=%E8%8B%8F%E5%B7%9E%E5%92%8C%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E8%BF%9E%E8%B5%B7%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [长风渡14集杀疯了](https://www.baidu.com/s?wd=%E9%95%BF%E9%A3%8E%E6%B8%A114%E9%9B%86%E6%9D%80%E7%96%AF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [段奕宏：文化对演员来说太重要了](https://www.baidu.com/s?wd=%E6%AE%B5%E5%A5%95%E5%AE%8F%EF%BC%9A%E6%96%87%E5%8C%96%E5%AF%B9%E6%BC%94%E5%91%98%E6%9D%A5%E8%AF%B4%E5%A4%AA%E9%87%8D%E8%A6%81%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [50斤重鳄雀鳝藏匿水库一年偷鱼吃](https://www.baidu.com/s?wd=50%E6%96%A4%E9%87%8D%E9%B3%84%E9%9B%80%E9%B3%9D%E8%97%8F%E5%8C%BF%E6%B0%B4%E5%BA%93%E4%B8%80%E5%B9%B4%E5%81%B7%E9%B1%BC%E5%90%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [2023好声音导师官宣](https://www.baidu.com/s?wd=2023%E5%A5%BD%E5%A3%B0%E9%9F%B3%E5%AF%BC%E5%B8%88%E5%AE%98%E5%AE%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [苏州和上海地铁连起来了](https://www.baidu.com/s?wd=%E8%8B%8F%E5%B7%9E%E5%92%8C%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E8%BF%9E%E8%B5%B7%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [长风渡14集杀疯了](https://www.baidu.com/s?wd=%E9%95%BF%E9%A3%8E%E6%B8%A114%E9%9B%86%E6%9D%80%E7%96%AF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [段奕宏：文化对演员来说太重要了](https://www.baidu.com/s?wd=%E6%AE%B5%E5%A5%95%E5%AE%8F%EF%BC%9A%E6%96%87%E5%8C%96%E5%AF%B9%E6%BC%94%E5%91%98%E6%9D%A5%E8%AF%B4%E5%A4%AA%E9%87%8D%E8%A6%81%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
