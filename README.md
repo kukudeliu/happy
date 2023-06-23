@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 09:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 09:39:01</h4></div>
 
 > 微博  
 
@@ -33,7 +33,7 @@
 5. [端午假期遇上高考查分](https://www.baidu.com/s?wd=%E7%AB%AF%E5%8D%88%E5%81%87%E6%9C%9F%E9%81%87%E4%B8%8A%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [张绍刚你好狠的心](https://www.baidu.com/s?wd=%E5%BC%A0%E7%BB%8D%E5%88%9A%E4%BD%A0%E5%A5%BD%E7%8B%A0%E7%9A%84%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [50斤重鳄雀鳝藏匿水库一年偷鱼吃](https://www.baidu.com/s?wd=50%E6%96%A4%E9%87%8D%E9%B3%84%E9%9B%80%E9%B3%9D%E8%97%8F%E5%8C%BF%E6%B0%B4%E5%BA%93%E4%B8%80%E5%B9%B4%E5%81%B7%E9%B1%BC%E5%90%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [马斯克发战书 扎克伯格接受了](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%8F%91%E6%88%98%E4%B9%A6+%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC%E6%8E%A5%E5%8F%97%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [段奕宏：文化对演员来说太重要了](https://www.baidu.com/s?wd=%E6%AE%B5%E5%A5%95%E5%AE%8F%EF%BC%9A%E6%96%87%E5%8C%96%E5%AF%B9%E6%BC%94%E5%91%98%E6%9D%A5%E8%AF%B4%E5%A4%AA%E9%87%8D%E8%A6%81%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [各地高考成绩今天起陆续公布](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E4%BB%8A%E5%A4%A9%E8%B5%B7%E9%99%86%E7%BB%AD%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [端午假期遇上高考查分](https://www.baidu.com/s?wd=%E7%AB%AF%E5%8D%88%E5%81%87%E6%9C%9F%E9%81%87%E4%B8%8A%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [张绍刚你好狠的心](https://www.baidu.com/s?wd=%E5%BC%A0%E7%BB%8D%E5%88%9A%E4%BD%A0%E5%A5%BD%E7%8B%A0%E7%9A%84%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [50斤重鳄雀鳝藏匿水库一年偷鱼吃](https://www.baidu.com/s?wd=50%E6%96%A4%E9%87%8D%E9%B3%84%E9%9B%80%E9%B3%9D%E8%97%8F%E5%8C%BF%E6%B0%B4%E5%BA%93%E4%B8%80%E5%B9%B4%E5%81%B7%E9%B1%BC%E5%90%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [马斯克发战书 扎克伯格接受了](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%8F%91%E6%88%98%E4%B9%A6+%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC%E6%8E%A5%E5%8F%97%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [段奕宏：文化对演员来说太重要了](https://www.baidu.com/s?wd=%E6%AE%B5%E5%A5%95%E5%AE%8F%EF%BC%9A%E6%96%87%E5%8C%96%E5%AF%B9%E6%BC%94%E5%91%98%E6%9D%A5%E8%AF%B4%E5%A4%AA%E9%87%8D%E8%A6%81%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [各地高考成绩今天起陆续公布](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E4%BB%8A%E5%A4%A9%E8%B5%B7%E9%99%86%E7%BB%AD%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
