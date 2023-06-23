@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 06:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 06:33:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [6 月 22 日比特币大涨，站上 30000 美元关口，为近两月以来首次，释放了哪些信号？](https://www.zhihu.com/question/607964858)<br />
 6. []()<br />
 7. [大家吃粽子，喜欢甜口还是咸口？](https://www.zhihu.com/question/607598941)<br />
-8. [《长风渡》第 13-16 集拍得如何？有哪些值得关注的剧情点？](https://www.zhihu.com/question/608012281)<br />
-9. [如何评价 Uzi 在 2023 年复出后的表现？](https://www.zhihu.com/question/608011699)<br />
+8. [如何评价 Uzi 在 2023 年复出后的表现？](https://www.zhihu.com/question/608011699)<br />
+9. [如果我想用 Python 自动操作手机、电脑软件，应该学 Python 哪方面的知识呢？](https://www.zhihu.com/question/606030384)<br />
 
 > 百度  
 
@@ -32,8 +32,8 @@
 4. [沉浸式游览中国美丽乡村](https://www.baidu.com/s?wd=%E6%B2%89%E6%B5%B8%E5%BC%8F%E6%B8%B8%E8%A7%88%E4%B8%AD%E5%9B%BD%E7%BE%8E%E4%B8%BD%E4%B9%A1%E6%9D%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [白玉兰完整名单出炉：狂飙挂零陪跑](https://www.baidu.com/s?wd=%E7%99%BD%E7%8E%89%E5%85%B0%E5%AE%8C%E6%95%B4%E5%90%8D%E5%8D%95%E5%87%BA%E7%82%89%EF%BC%9A%E7%8B%82%E9%A3%99%E6%8C%82%E9%9B%B6%E9%99%AA%E8%B7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大小S宣布起诉葛斯齐](https://www.baidu.com/s?wd=%E5%A4%A7%E5%B0%8FS%E5%AE%A3%E5%B8%83%E8%B5%B7%E8%AF%89%E8%91%9B%E6%96%AF%E9%BD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [胡歌是来进货的吧](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E6%98%AF%E6%9D%A5%E8%BF%9B%E8%B4%A7%E7%9A%84%E5%90%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [梁实第27次高考424分 未达二本线](https://www.baidu.com/s?wd=%E6%A2%81%E5%AE%9E%E7%AC%AC27%E6%AC%A1%E9%AB%98%E8%80%83424%E5%88%86+%E6%9C%AA%E8%BE%BE%E4%BA%8C%E6%9C%AC%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [梁实第27次高考424分 未达二本线](https://www.baidu.com/s?wd=%E6%A2%81%E5%AE%9E%E7%AC%AC27%E6%AC%A1%E9%AB%98%E8%80%83424%E5%88%86+%E6%9C%AA%E8%BE%BE%E4%BA%8C%E6%9C%AC%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [胡歌是来进货的吧](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E6%98%AF%E6%9D%A5%E8%BF%9B%E8%B4%A7%E7%9A%84%E5%90%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [女孩没考好和妈妈吵架被丢高速](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E6%B2%A1%E8%80%83%E5%A5%BD%E5%92%8C%E5%A6%88%E5%A6%88%E5%90%B5%E6%9E%B6%E8%A2%AB%E4%B8%A2%E9%AB%98%E9%80%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -44,6 +44,6 @@
 4. [沉浸式游览中国美丽乡村](https://www.baidu.com/s?wd=%E6%B2%89%E6%B5%B8%E5%BC%8F%E6%B8%B8%E8%A7%88%E4%B8%AD%E5%9B%BD%E7%BE%8E%E4%B8%BD%E4%B9%A1%E6%9D%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [白玉兰完整名单出炉：狂飙挂零陪跑](https://www.baidu.com/s?wd=%E7%99%BD%E7%8E%89%E5%85%B0%E5%AE%8C%E6%95%B4%E5%90%8D%E5%8D%95%E5%87%BA%E7%82%89%EF%BC%9A%E7%8B%82%E9%A3%99%E6%8C%82%E9%9B%B6%E9%99%AA%E8%B7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大小S宣布起诉葛斯齐](https://www.baidu.com/s?wd=%E5%A4%A7%E5%B0%8FS%E5%AE%A3%E5%B8%83%E8%B5%B7%E8%AF%89%E8%91%9B%E6%96%AF%E9%BD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [胡歌是来进货的吧](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E6%98%AF%E6%9D%A5%E8%BF%9B%E8%B4%A7%E7%9A%84%E5%90%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [梁实第27次高考424分 未达二本线](https://www.baidu.com/s?wd=%E6%A2%81%E5%AE%9E%E7%AC%AC27%E6%AC%A1%E9%AB%98%E8%80%83424%E5%88%86+%E6%9C%AA%E8%BE%BE%E4%BA%8C%E6%9C%AC%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [梁实第27次高考424分 未达二本线](https://www.baidu.com/s?wd=%E6%A2%81%E5%AE%9E%E7%AC%AC27%E6%AC%A1%E9%AB%98%E8%80%83424%E5%88%86+%E6%9C%AA%E8%BE%BE%E4%BA%8C%E6%9C%AC%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [胡歌是来进货的吧](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E6%98%AF%E6%9D%A5%E8%BF%9B%E8%B4%A7%E7%9A%84%E5%90%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [女孩没考好和妈妈吵架被丢高速](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E6%B2%A1%E8%80%83%E5%A5%BD%E5%92%8C%E5%A6%88%E5%A6%88%E5%90%B5%E6%9E%B6%E8%A2%AB%E4%B8%A2%E9%AB%98%E9%80%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
