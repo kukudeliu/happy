@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 15:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 15:57:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [NBA 选秀大会：马刺状元签选择文班亚马，黄蜂选中米勒，如何看待他们的前景？](https://www.zhihu.com/question/608089914)<br />
 7. [中国气象局启动高温四级应急响应，伴随高温而来的有哪些隐忧需要警惕、预防？](https://www.zhihu.com/question/608101451)<br />
 8. [《长风渡》开播，你觉得它能否成为一部爆款？](https://www.zhihu.com/question/607564023)<br />
-9. [如果国足有阿根廷的水平，咱们的文化输出水平会大大提升吗？](https://www.zhihu.com/question/607273653)<br />
+9. [如何评价《黑镜》（Black Mirror）第六季第一集「Joan is awful」？](https://www.zhihu.com/question/606816407)<br />
 
 > 百度  
 
