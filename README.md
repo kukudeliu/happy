@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 21:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 21:02:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [「铁饭碗天菜」师范类专业还香吗？报考时应该选择什么科目？](https://www.zhihu.com/theater/93379)<br />
 6. [唐末时重武的风气是怎么一步步被纠正过来的？](https://www.zhihu.com/question/607040290)<br />
 7. [独孤求败、黄裳、斗酒僧、王重阳，武功如何排名？](https://www.zhihu.com/question/606542017)<br />
-8. []()<br />
-9. [中考重要，还是高考重要?](https://www.zhihu.com/question/606716930)<br />
+8. [北京多家银行房贷已下调 10 个基点，首套房贷利率降至 4.75％ ，将带来哪些利好？](https://www.zhihu.com/question/607787494)<br />
+9. []()<br />
 
 > 百度  
 
