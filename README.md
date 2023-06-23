@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 05:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 05:47:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [鹿晗演唱会上不敢读的灯牌](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E4%B8%8D%E6%95%A2%E8%AF%BB%E7%9A%84%E7%81%AF%E7%89%8C%23&t=31&band_rank=6&Refer=top)<br />
 7. [炎亚纶](https://s.weibo.com/weibo?q=%E7%82%8E%E4%BA%9A%E7%BA%B6&t=31&band_rank=7&Refer=top)<br />
 8. [外星人](https://s.weibo.com/weibo?q=%E5%A4%96%E6%98%9F%E4%BA%BA&t=31&band_rank=8&Refer=top)<br />
-9. [丫丫回国前后变化好大](https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E5%9B%9E%E5%9B%BD%E5%89%8D%E5%90%8E%E5%8F%98%E5%8C%96%E5%A5%BD%E5%A4%A7%23&t=31&band_rank=9&Refer=top)<br />
+9. [婴儿高速遇车祸山东大哥急送医](https://s.weibo.com/weibo?q=%23%E5%A9%B4%E5%84%BF%E9%AB%98%E9%80%9F%E9%81%87%E8%BD%A6%E7%A5%B8%E5%B1%B1%E4%B8%9C%E5%A4%A7%E5%93%A5%E6%80%A5%E9%80%81%E5%8C%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
