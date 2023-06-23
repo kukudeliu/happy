@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 09:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 09:35:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [高考查分](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86&t=31&band_rank=6&Refer=top)<br />
 7. [高考分数线](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%23&t=31&band_rank=7&Refer=top)<br />
 8. [实名注册手机卡不注销的后果](https://s.weibo.com/weibo?q=%23%E5%AE%9E%E5%90%8D%E6%B3%A8%E5%86%8C%E6%89%8B%E6%9C%BA%E5%8D%A1%E4%B8%8D%E6%B3%A8%E9%94%80%E7%9A%84%E5%90%8E%E6%9E%9C%23&t=31&band_rank=8&Refer=top)<br />
-9. [国产暗恋剧天花板](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BA%A7%E6%9A%97%E6%81%8B%E5%89%A7%E5%A4%A9%E8%8A%B1%E6%9D%BF%23&t=31&band_rank=9&Refer=top)<br />
+9. [怀孕33周孕妇被2岁儿子开枪打死](https://s.weibo.com/weibo?q=%23%E6%80%80%E5%AD%9533%E5%91%A8%E5%AD%95%E5%A6%87%E8%A2%AB2%E5%B2%81%E5%84%BF%E5%AD%90%E5%BC%80%E6%9E%AA%E6%89%93%E6%AD%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -34,7 +34,7 @@
 6. [张绍刚你好狠的心](https://www.baidu.com/s?wd=%E5%BC%A0%E7%BB%8D%E5%88%9A%E4%BD%A0%E5%A5%BD%E7%8B%A0%E7%9A%84%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [50斤重鳄雀鳝藏匿水库一年偷鱼吃](https://www.baidu.com/s?wd=50%E6%96%A4%E9%87%8D%E9%B3%84%E9%9B%80%E9%B3%9D%E8%97%8F%E5%8C%BF%E6%B0%B4%E5%BA%93%E4%B8%80%E5%B9%B4%E5%81%B7%E9%B1%BC%E5%90%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [马斯克发战书 扎克伯格接受了](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%8F%91%E6%88%98%E4%B9%A6+%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC%E6%8E%A5%E5%8F%97%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [180斤男生摔伤腿体育老师背其去中考](https://www.baidu.com/s?wd=180%E6%96%A4%E7%94%B7%E7%94%9F%E6%91%94%E4%BC%A4%E8%85%BF%E4%BD%93%E8%82%B2%E8%80%81%E5%B8%88%E8%83%8C%E5%85%B6%E5%8E%BB%E4%B8%AD%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [各地高考成绩今天起陆续公布](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E4%BB%8A%E5%A4%A9%E8%B5%B7%E9%99%86%E7%BB%AD%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [张绍刚你好狠的心](https://www.baidu.com/s?wd=%E5%BC%A0%E7%BB%8D%E5%88%9A%E4%BD%A0%E5%A5%BD%E7%8B%A0%E7%9A%84%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [50斤重鳄雀鳝藏匿水库一年偷鱼吃](https://www.baidu.com/s?wd=50%E6%96%A4%E9%87%8D%E9%B3%84%E9%9B%80%E9%B3%9D%E8%97%8F%E5%8C%BF%E6%B0%B4%E5%BA%93%E4%B8%80%E5%B9%B4%E5%81%B7%E9%B1%BC%E5%90%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [马斯克发战书 扎克伯格接受了](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%8F%91%E6%88%98%E4%B9%A6+%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC%E6%8E%A5%E5%8F%97%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [180斤男生摔伤腿体育老师背其去中考](https://www.baidu.com/s?wd=180%E6%96%A4%E7%94%B7%E7%94%9F%E6%91%94%E4%BC%A4%E8%85%BF%E4%BD%93%E8%82%B2%E8%80%81%E5%B8%88%E8%83%8C%E5%85%B6%E5%8E%BB%E4%B8%AD%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [各地高考成绩今天起陆续公布](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E4%BB%8A%E5%A4%A9%E8%B5%B7%E9%99%86%E7%BB%AD%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
