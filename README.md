@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 21:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 21:51:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [140 元一根演唱会荧光棒成本仅 10 元，你对五月天演唱会的「天价」荧光棒有何看法？](https://www.zhihu.com/question/607116754)<br />
 5. [2023 LPL 夏季赛 JDG 2:0 击败 TES 八连胜稳坐联赛头名，如何评价这场比赛？](https://www.zhihu.com/question/608142653)<br />
 6. [北京多家银行房贷已下调 10 个基点，首套房贷利率降至 4.75％ ，将带来哪些利好？](https://www.zhihu.com/question/607787494)<br />
-7. [独孤求败、黄裳、斗酒僧、王重阳，武功如何排名？](https://www.zhihu.com/question/606542017)<br />
-8. [中考重要，还是高考重要?](https://www.zhihu.com/question/606716930)<br />
-9. [超导体电阻的倒数有多大？和葛立恒数相比呢？](https://www.zhihu.com/question/579943470)<br />
+7. [电影《消失的她》有哪些精彩看点？](https://www.zhihu.com/question/604320266)<br />
+8. [独孤求败、黄裳、斗酒僧、王重阳，武功如何排名？](https://www.zhihu.com/question/606542017)<br />
+9. [中考重要，还是高考重要?](https://www.zhihu.com/question/606716930)<br />
 
 > 百度  
 
