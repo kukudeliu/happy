@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 11:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 11:20:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. []()<br />
 6. [在感情里，真诚是「必杀技」还是「杀死自己的必杀技」？](https://www.zhihu.com/question/599386066)<br />
 7. [家长花重金把差生放在重点中学尖子班，这样做孩子是否能够考出优异成绩？为什么？](https://www.zhihu.com/question/598857377)<br />
-8. [银川政府表示尽快查明爆炸事故原因，立即开展为期一个月的安全生产大排查大整治行动，还有哪些信息值得关注？](https://www.zhihu.com/question/608017964)<br />
-9. []()<br />
+8. []()<br />
+9. [计算机是最难的工科吗？](https://www.zhihu.com/question/593585695)<br />
 
 > 百度  
 
@@ -34,7 +34,7 @@
 6. [江西分数线公布](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中国队U17垫底出局 回国就地解散](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%98%9FU17%E5%9E%AB%E5%BA%95%E5%87%BA%E5%B1%80+%E5%9B%9E%E5%9B%BD%E5%B0%B1%E5%9C%B0%E8%A7%A3%E6%95%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [41℃高温把盆里的衣服晒冒烟了](https://www.baidu.com/s?wd=41%E2%84%83%E9%AB%98%E6%B8%A9%E6%8A%8A%E7%9B%86%E9%87%8C%E7%9A%84%E8%A1%A3%E6%9C%8D%E6%99%92%E5%86%92%E7%83%9F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [热热热！多地今日最高温40度](https://www.baidu.com/s?wd=%E7%83%AD%E7%83%AD%E7%83%AD%EF%BC%81%E5%A4%9A%E5%9C%B0%E4%BB%8A%E6%97%A5%E6%9C%80%E9%AB%98%E6%B8%A940%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子躲雨后将屋主晒的菜踢到雨中](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%BA%B2%E9%9B%A8%E5%90%8E%E5%B0%86%E5%B1%8B%E4%B8%BB%E6%99%92%E7%9A%84%E8%8F%9C%E8%B8%A2%E5%88%B0%E9%9B%A8%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [江西分数线公布](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中国队U17垫底出局 回国就地解散](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%98%9FU17%E5%9E%AB%E5%BA%95%E5%87%BA%E5%B1%80+%E5%9B%9E%E5%9B%BD%E5%B0%B1%E5%9C%B0%E8%A7%A3%E6%95%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [41℃高温把盆里的衣服晒冒烟了](https://www.baidu.com/s?wd=41%E2%84%83%E9%AB%98%E6%B8%A9%E6%8A%8A%E7%9B%86%E9%87%8C%E7%9A%84%E8%A1%A3%E6%9C%8D%E6%99%92%E5%86%92%E7%83%9F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [热热热！多地今日最高温40度](https://www.baidu.com/s?wd=%E7%83%AD%E7%83%AD%E7%83%AD%EF%BC%81%E5%A4%9A%E5%9C%B0%E4%BB%8A%E6%97%A5%E6%9C%80%E9%AB%98%E6%B8%A940%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子躲雨后将屋主晒的菜踢到雨中](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%BA%B2%E9%9B%A8%E5%90%8E%E5%B0%86%E5%B1%8B%E4%B8%BB%E6%99%92%E7%9A%84%E8%8F%9C%E8%B8%A2%E5%88%B0%E9%9B%A8%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
