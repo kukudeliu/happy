@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 04:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 04:51:02</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [大小S宣布起诉葛斯齐](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%B0%8FS%E5%AE%A3%E5%B8%83%E8%B5%B7%E8%AF%89%E8%91%9B%E6%96%AF%E9%BD%90&t=31&band_rank=2&Refer=top)<br />
 3. [全国各地高考分数线汇总](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E5%90%84%E5%9C%B0%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E6%B1%87%E6%80%BB%23&t=31&band_rank=3&Refer=top)<br />
 4. [赵丽颖回应三次陪跑](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%9B%9E%E5%BA%94%E4%B8%89%E6%AC%A1%E9%99%AA%E8%B7%91%23&t=31&band_rank=4&Refer=top)<br />
-5. [鹿晗演唱会上不敢读的灯牌](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E4%B8%8D%E6%95%A2%E8%AF%BB%E7%9A%84%E7%81%AF%E7%89%8C%23&t=31&band_rank=5&Refer=top)<br />
-6. [吴越 白玉兰视后](https://s.weibo.com/weibo?q=%E5%90%B4%E8%B6%8A%20%E7%99%BD%E7%8E%89%E5%85%B0%E8%A7%86%E5%90%8E&t=31&band_rank=6&Refer=top)<br />
+5. [吴越 白玉兰视后](https://s.weibo.com/weibo?q=%E5%90%B4%E8%B6%8A%20%E7%99%BD%E7%8E%89%E5%85%B0%E8%A7%86%E5%90%8E&t=31&band_rank=5&Refer=top)<br />
+6. [鹿晗演唱会上不敢读的灯牌](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E4%B8%8D%E6%95%A2%E8%AF%BB%E7%9A%84%E7%81%AF%E7%89%8C%23&t=31&band_rank=6&Refer=top)<br />
 7. [外星人](https://s.weibo.com/weibo?q=%E5%A4%96%E6%98%9F%E4%BA%BA&t=31&band_rank=7&Refer=top)<br />
 8. [炎亚纶](https://s.weibo.com/weibo?q=%E7%82%8E%E4%BA%9A%E7%BA%B6&t=31&band_rank=8&Refer=top)<br />
 9. [丫丫回国前后变化好大](https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E5%9B%9E%E5%9B%BD%E5%89%8D%E5%90%8E%E5%8F%98%E5%8C%96%E5%A5%BD%E5%A4%A7%23&t=31&band_rank=9&Refer=top)<br />
@@ -16,9 +16,9 @@
 
 1. [韩国环境部已批准「萨德」基地环评报告，基建工作将全面启动，「萨德」部署后将造成哪些影响？](https://www.zhihu.com/question/608002674)<br />
 2. [莫迪在美国国会上表示「印度很快将是世界第三大经济体」，这一目标可能实现吗？](https://www.zhihu.com/question/608151767)<br />
-3. [美国失联深海潜水器发生「灾难性内爆」，5 名乘员死亡，「内爆」是如何发生的？此次事故将产生哪些影响？](https://www.zhihu.com/question/608085455)<br />
-4. [乌克兰宣布大反攻「暂停」这是几个意思？](https://www.zhihu.com/question/607961684)<br />
-5. [如何评价西南大学本科生发表五篇 sci 论文 (第一作者)，毕业典礼上表示希望五年博士毕业后回到母校工作？](https://www.zhihu.com/question/607703486)<br />
+3. [乌克兰宣布大反攻「暂停」这是几个意思？](https://www.zhihu.com/question/607961684)<br />
+4. [如何评价西南大学本科生发表五篇 sci 论文 (第一作者)，毕业典礼上表示希望五年博士毕业后回到母校工作？](https://www.zhihu.com/question/607703486)<br />
+5. [美国失联深海潜水器发生「灾难性内爆」，5 名乘员死亡，「内爆」是如何发生的？此次事故将产生哪些影响？](https://www.zhihu.com/question/608085455)<br />
 6. [6 月 22 日比特币大涨，站上 30000 美元关口，为近两月以来首次，释放了哪些信号？](https://www.zhihu.com/question/607964858)<br />
 7. [拜登会见莫迪，谈及美印关系硬扯中国，哪些信息值得关注？美印再次拥抱，对中国威胁几何？](https://www.zhihu.com/question/608121348)<br />
 8. []()<br />
