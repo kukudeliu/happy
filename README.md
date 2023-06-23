@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 15:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 15:36:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [发改委与德国宝马、奔驰、大众汽车签署合作意向书，共同推动新能源汽车研发创新和推广应用，如何解读？](https://www.zhihu.com/question/607897726)<br />
 6. [如果国足有阿根廷的水平，咱们的文化输出水平会大大提升吗？](https://www.zhihu.com/question/607273653)<br />
 7. [各地 2023 高考分数线陆续公布，如何看待今年的分数线，与去年相比有何变化？](https://www.zhihu.com/question/607974548)<br />
-8. [LED 灯是长时间亮着容易坏，还是反复开关容易坏？](https://www.zhihu.com/question/601205504)<br />
-9. [中国气象局启动高温四级应急响应，伴随高温而来的有哪些隐忧需要警惕、预防？](https://www.zhihu.com/question/608101451)<br />
+8. [中国气象局启动高温四级应急响应，伴随高温而来的有哪些隐忧需要警惕、预防？](https://www.zhihu.com/question/608101451)<br />
+9. [LED 灯是长时间亮着容易坏，还是反复开关容易坏？](https://www.zhihu.com/question/601205504)<br />
 
 > 百度  
 
