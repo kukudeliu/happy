@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 17:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 17:40:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [山东已现43℃以上高温](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E5%B7%B2%E7%8E%B043%E2%84%83%E4%BB%A5%E4%B8%8A%E9%AB%98%E6%B8%A9%23&t=31&band_rank=5&Refer=top)<br />
 6. [傅韵哲高考成绩](https://s.weibo.com/weibo?q=%E5%82%85%E9%9F%B5%E5%93%B2%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9&t=31&band_rank=6&Refer=top)<br />
 7. [高考分数线](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%23&t=31&band_rank=7&Refer=top)<br />
-8. [银川爆炸事故第1晚顾客坐店外就餐](https://s.weibo.com/weibo?q=%23%E9%93%B6%E5%B7%9D%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E7%AC%AC1%E6%99%9A%E9%A1%BE%E5%AE%A2%E5%9D%90%E5%BA%97%E5%A4%96%E5%B0%B1%E9%A4%90%23&t=31&band_rank=8&Refer=top)<br />
-9. [白玉兰提名](https://s.weibo.com/weibo?q=%E7%99%BD%E7%8E%89%E5%85%B0%E6%8F%90%E5%90%8D&t=31&band_rank=9&Refer=top)<br />
+8. [白玉兰提名](https://s.weibo.com/weibo?q=%E7%99%BD%E7%8E%89%E5%85%B0%E6%8F%90%E5%90%8D&t=31&band_rank=8&Refer=top)<br />
+9. [银川爆炸事故第1晚顾客坐店外就餐](https://s.weibo.com/weibo?q=%23%E9%93%B6%E5%B7%9D%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E7%AC%AC1%E6%99%9A%E9%A1%BE%E5%AE%A2%E5%9D%90%E5%BA%97%E5%A4%96%E5%B0%B1%E9%A4%90%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
