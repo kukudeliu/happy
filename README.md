@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 20:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 20:11:01</h4></div>
 
 > 微博  
 
@@ -21,7 +21,7 @@
 5. [「铁饭碗天菜」师范类专业还香吗？报考时应该选择什么科目？](https://www.zhihu.com/theater/93379)<br />
 6. [高考考不上是复读还是上大专?](https://www.zhihu.com/question/607821406)<br />
 7. [唐末时重武的风气是怎么一步步被纠正过来的？](https://www.zhihu.com/question/607040290)<br />
-8. []()<br />
+8. [iOS 的墓碑机制这么厉害，为什么 Windows 、 Linux 不采用呢？](https://www.zhihu.com/question/604373860)<br />
 9. [中考重要，还是高考重要?](https://www.zhihu.com/question/606716930)<br />
 
 > 百度  
