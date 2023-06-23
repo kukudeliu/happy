@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 00:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 00:16:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [鹿晗演唱会上不敢读的灯牌](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E4%B8%8D%E6%95%A2%E8%AF%BB%E7%9A%84%E7%81%AF%E7%89%8C%23&t=31&band_rank=4&Refer=top)<br />
 5. [赵丽颖三次陪跑](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E4%B8%89%E6%AC%A1%E9%99%AA%E8%B7%91&t=31&band_rank=5&Refer=top)<br />
 6. [炎亚纶](https://s.weibo.com/weibo?q=%E7%82%8E%E4%BA%9A%E7%BA%B6&t=31&band_rank=6&Refer=top)<br />
-7. [开端](https://s.weibo.com/weibo?q=%E5%BC%80%E7%AB%AF&t=31&band_rank=7&Refer=top)<br />
-8. [外星人](https://s.weibo.com/weibo?q=%E5%A4%96%E6%98%9F%E4%BA%BA&t=31&band_rank=8&Refer=top)<br />
-9. [丫丫回国前后变化好大](https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E5%9B%9E%E5%9B%BD%E5%89%8D%E5%90%8E%E5%8F%98%E5%8C%96%E5%A5%BD%E5%A4%A7%23&t=31&band_rank=9&Refer=top)<br />
+7. [外星人](https://s.weibo.com/weibo?q=%E5%A4%96%E6%98%9F%E4%BA%BA&t=31&band_rank=7&Refer=top)<br />
+8. [丫丫回国前后变化好大](https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E5%9B%9E%E5%9B%BD%E5%89%8D%E5%90%8E%E5%8F%98%E5%8C%96%E5%A5%BD%E5%A4%A7%23&t=31&band_rank=8&Refer=top)<br />
+9. [暴雪](https://s.weibo.com/weibo?q=%E6%9A%B4%E9%9B%AA&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
