@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 00:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 00:49:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [女子到宾馆匆匆开房浙江老板娘报警](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%88%B0%E5%AE%BE%E9%A6%86%E5%8C%86%E5%8C%86%E5%BC%80%E6%88%BF%E6%B5%99%E6%B1%9F%E8%80%81%E6%9D%BF%E5%A8%98%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=5&Refer=top)<br />
 6. [吴越 白玉兰视后](https://s.weibo.com/weibo?q=%E5%90%B4%E8%B6%8A%20%E7%99%BD%E7%8E%89%E5%85%B0%E8%A7%86%E5%90%8E&t=31&band_rank=6&Refer=top)<br />
 7. [外星人](https://s.weibo.com/weibo?q=%E5%A4%96%E6%98%9F%E4%BA%BA&t=31&band_rank=7&Refer=top)<br />
-8. [赵丽颖白玉兰获奖感言](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%99%BD%E7%8E%89%E5%85%B0%E8%8E%B7%E5%A5%96%E6%84%9F%E8%A8%80%23&t=31&band_rank=8&Refer=top)<br />
+8. [开端](https://s.weibo.com/weibo?q=%E5%BC%80%E7%AB%AF&t=31&band_rank=8&Refer=top)<br />
 9. [男生高考查分584父子俩笑得合不拢嘴](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86584%E7%88%B6%E5%AD%90%E4%BF%A9%E7%AC%91%E5%BE%97%E5%90%88%E4%B8%8D%E6%8B%A2%E5%98%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -34,7 +34,7 @@
 6. [大小S宣布起诉葛斯齐](https://www.baidu.com/s?wd=%E5%A4%A7%E5%B0%8FS%E5%AE%A3%E5%B8%83%E8%B5%B7%E8%AF%89%E8%91%9B%E6%96%AF%E9%BD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子骑行被线缆套中脖子重摔倒地](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%AA%91%E8%A1%8C%E8%A2%AB%E7%BA%BF%E7%BC%86%E5%A5%97%E4%B8%AD%E8%84%96%E5%AD%90%E9%87%8D%E6%91%94%E5%80%92%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子水库洗狗和游客起冲突](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%B0%B4%E5%BA%93%E6%B4%97%E7%8B%97%E5%92%8C%E6%B8%B8%E5%AE%A2%E8%B5%B7%E5%86%B2%E7%AA%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [五副省级城市人事调整](https://www.baidu.com/s?wd=%E4%BA%94%E5%89%AF%E7%9C%81%E7%BA%A7%E5%9F%8E%E5%B8%82%E4%BA%BA%E4%BA%8B%E8%B0%83%E6%95%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [胡歌是来进货的吧](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E6%98%AF%E6%9D%A5%E8%BF%9B%E8%B4%A7%E7%9A%84%E5%90%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [大小S宣布起诉葛斯齐](https://www.baidu.com/s?wd=%E5%A4%A7%E5%B0%8FS%E5%AE%A3%E5%B8%83%E8%B5%B7%E8%AF%89%E8%91%9B%E6%96%AF%E9%BD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子骑行被线缆套中脖子重摔倒地](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%AA%91%E8%A1%8C%E8%A2%AB%E7%BA%BF%E7%BC%86%E5%A5%97%E4%B8%AD%E8%84%96%E5%AD%90%E9%87%8D%E6%91%94%E5%80%92%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子水库洗狗和游客起冲突](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%B0%B4%E5%BA%93%E6%B4%97%E7%8B%97%E5%92%8C%E6%B8%B8%E5%AE%A2%E8%B5%B7%E5%86%B2%E7%AA%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [五副省级城市人事调整](https://www.baidu.com/s?wd=%E4%BA%94%E5%89%AF%E7%9C%81%E7%BA%A7%E5%9F%8E%E5%B8%82%E4%BA%BA%E4%BA%8B%E8%B0%83%E6%95%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [胡歌是来进货的吧](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E6%98%AF%E6%9D%A5%E8%BF%9B%E8%B4%A7%E7%9A%84%E5%90%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
