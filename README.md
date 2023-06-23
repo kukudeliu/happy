@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 21:33:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 21:34:01</h4></div>
 
 > 微博  
 
@@ -8,7 +8,7 @@
 4. [男生高考查分584父子俩笑得合不拢嘴](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86584%E7%88%B6%E5%AD%90%E4%BF%A9%E7%AC%91%E5%BE%97%E5%90%88%E4%B8%8D%E6%8B%A2%E5%98%B4%23&t=31&band_rank=4&Refer=top)<br />
 5. [张译 张颂文](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%AF%91%20%E5%BC%A0%E9%A2%82%E6%96%87&t=31&band_rank=5&Refer=top)<br />
 6. [朱一龙路演被观众扔东西](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E8%B7%AF%E6%BC%94%E8%A2%AB%E8%A7%82%E4%BC%97%E6%89%94%E4%B8%9C%E8%A5%BF%23&t=31&band_rank=6&Refer=top)<br />
-7. [县委大院白玉兰奖最佳原创编剧](https://s.weibo.com/weibo?q=%23%E5%8E%BF%E5%A7%94%E5%A4%A7%E9%99%A2%E7%99%BD%E7%8E%89%E5%85%B0%E5%A5%96%E6%9C%80%E4%BD%B3%E5%8E%9F%E5%88%9B%E7%BC%96%E5%89%A7%23&t=31&band_rank=7&Refer=top)<br />
+7. [刘丹白玉兰奖最佳女配角](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%B8%B9%E7%99%BD%E7%8E%89%E5%85%B0%E5%A5%96%E6%9C%80%E4%BD%B3%E5%A5%B3%E9%85%8D%E8%A7%92%23&t=31&band_rank=7&Refer=top)<br />
 8. [男生高考查分601激动满屋蹦跳](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86601%E6%BF%80%E5%8A%A8%E6%BB%A1%E5%B1%8B%E8%B9%A6%E8%B7%B3%23&t=31&band_rank=8&Refer=top)<br />
 9. [外星人](https://s.weibo.com/weibo?q=%E5%A4%96%E6%98%9F%E4%BA%BA&t=31&band_rank=9&Refer=top)<br />
 
