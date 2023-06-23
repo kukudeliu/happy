@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 23:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 00:00:01</h4></div>
 
 > 微博  
 
@@ -18,11 +18,11 @@
 2. [韩国环境部已批准「萨德」基地环评报告，基建工作将全面启动，「萨德」部署后将造成哪些影响？](https://www.zhihu.com/question/608002674)<br />
 3. [拜登会见莫迪，谈及美印关系硬扯中国，哪些信息值得关注？美印再次拥抱，对中国威胁几何？](https://www.zhihu.com/question/608121348)<br />
 4. []()<br />
-5. [电影《消失的她》有哪些精彩看点？](https://www.zhihu.com/question/604320266)<br />
-6. [2023 年各地高考分数线预测会是多少？](https://www.zhihu.com/question/607682306)<br />
-7. [6 月 22 日比特币大涨，站上 30000 美元关口，为近两月以来首次，释放了哪些信号？](https://www.zhihu.com/question/607964858)<br />
-8. [2023 江西高考分数线公布，理工一本 518 文史一本 533，如何评价今年的分数线？](https://www.zhihu.com/question/607974350)<br />
-9. [如何评价《原神》3.8 版本前瞻直播特别节目「清夏乐园大秘境」？](https://www.zhihu.com/question/608160040)<br />
+5. [2023 年各地高考分数线预测会是多少？](https://www.zhihu.com/question/607682306)<br />
+6. [6 月 22 日比特币大涨，站上 30000 美元关口，为近两月以来首次，释放了哪些信号？](https://www.zhihu.com/question/607964858)<br />
+7. [如何评价《原神》3.8 版本前瞻直播特别节目「清夏乐园大秘境」？](https://www.zhihu.com/question/608160040)<br />
+8. [电影《消失的她》有哪些精彩看点？](https://www.zhihu.com/question/604320266)<br />
+9. []()<br />
 
 > 百度  
 
