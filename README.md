@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 19:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 19:09:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [端午假期第2天你在干什么](https://s.weibo.com/weibo?q=%23%E7%AB%AF%E5%8D%88%E5%81%87%E6%9C%9F%E7%AC%AC2%E5%A4%A9%E4%BD%A0%E5%9C%A8%E5%B9%B2%E4%BB%80%E4%B9%88%23&t=31&band_rank=2&Refer=top)<br />
 3. [北斗全球卫星导航系统星座部署完成三周年](https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%96%97%E5%85%A8%E7%90%83%E5%8D%AB%E6%98%9F%E5%AF%BC%E8%88%AA%E7%B3%BB%E7%BB%9F%E6%98%9F%E5%BA%A7%E9%83%A8%E7%BD%B2%E5%AE%8C%E6%88%90%E4%B8%89%E5%91%A8%E5%B9%B4%23&t=31&band_rank=3&Refer=top)<br />
 4. [消失的她票房逆跌](https://s.weibo.com/weibo?q=%23%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%88%BF%E9%80%86%E8%B7%8C%23&t=31&band_rank=4&Refer=top)<br />
-5. [女子番茄吃多胃痛医生让喝可乐治疗](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%95%AA%E8%8C%84%E5%90%83%E5%A4%9A%E8%83%83%E7%97%9B%E5%8C%BB%E7%94%9F%E8%AE%A9%E5%96%9D%E5%8F%AF%E4%B9%90%E6%B2%BB%E7%96%97%23&t=31&band_rank=5&Refer=top)<br />
-6. [外星人](https://s.weibo.com/weibo?q=%E5%A4%96%E6%98%9F%E4%BA%BA&t=31&band_rank=6&Refer=top)<br />
-7. [赵丽颖贵气的闪](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%B4%B5%E6%B0%94%E7%9A%84%E9%97%AA&t=31&band_rank=7&Refer=top)<br />
-8. [张嘉倪因为四公错过外婆追悼会](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%98%89%E5%80%AA%E5%9B%A0%E4%B8%BA%E5%9B%9B%E5%85%AC%E9%94%99%E8%BF%87%E5%A4%96%E5%A9%86%E8%BF%BD%E6%82%BC%E4%BC%9A%23&t=31&band_rank=8&Refer=top)<br />
-9. [赵丽颖工作室P图](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%B7%A5%E4%BD%9C%E5%AE%A4P%E5%9B%BE%23&t=31&band_rank=9&Refer=top)<br />
+5. [外星人](https://s.weibo.com/weibo?q=%E5%A4%96%E6%98%9F%E4%BA%BA&t=31&band_rank=5&Refer=top)<br />
+6. [男生高考查分601激动满屋蹦跳](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86601%E6%BF%80%E5%8A%A8%E6%BB%A1%E5%B1%8B%E8%B9%A6%E8%B7%B3%23&t=31&band_rank=6&Refer=top)<br />
+7. [女子番茄吃多胃痛医生让喝可乐治疗](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%95%AA%E8%8C%84%E5%90%83%E5%A4%9A%E8%83%83%E7%97%9B%E5%8C%BB%E7%94%9F%E8%AE%A9%E5%96%9D%E5%8F%AF%E4%B9%90%E6%B2%BB%E7%96%97%23&t=31&band_rank=7&Refer=top)<br />
+8. [赵丽颖贵气的闪](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%B4%B5%E6%B0%94%E7%9A%84%E9%97%AA&t=31&band_rank=8&Refer=top)<br />
+9. [张嘉倪因为四公错过外婆追悼会](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%98%89%E5%80%AA%E5%9B%A0%E4%B8%BA%E5%9B%9B%E5%85%AC%E9%94%99%E8%BF%87%E5%A4%96%E5%A9%86%E8%BF%BD%E6%82%BC%E4%BC%9A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -34,7 +34,7 @@
 6. [董事长开车进长城强拆大门?官方调查](https://www.baidu.com/s?wd=%E8%91%A3%E4%BA%8B%E9%95%BF%E5%BC%80%E8%BD%A6%E8%BF%9B%E9%95%BF%E5%9F%8E%E5%BC%BA%E6%8B%86%E5%A4%A7%E9%97%A8%3F%E5%AE%98%E6%96%B9%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [拉萨原市长果果被查](https://www.baidu.com/s?wd=%E6%8B%89%E8%90%A8%E5%8E%9F%E5%B8%82%E9%95%BF%E6%9E%9C%E6%9E%9C%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [端午这样拍泰酷辣](https://www.baidu.com/s?wd=%E7%AB%AF%E5%8D%88%E8%BF%99%E6%A0%B7%E6%8B%8D%E6%B3%B0%E9%85%B7%E8%BE%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [日媒曝广末凉子出轨韩国演员](https://www.baidu.com/s?wd=%E6%97%A5%E5%AA%92%E6%9B%9D%E5%B9%BF%E6%9C%AB%E5%87%89%E5%AD%90%E5%87%BA%E8%BD%A8%E9%9F%A9%E5%9B%BD%E6%BC%94%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [这粽子是犯了天条吗被绑成这样](https://www.baidu.com/s?wd=%E8%BF%99%E7%B2%BD%E5%AD%90%E6%98%AF%E7%8A%AF%E4%BA%86%E5%A4%A9%E6%9D%A1%E5%90%97%E8%A2%AB%E7%BB%91%E6%88%90%E8%BF%99%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [董事长开车进长城强拆大门?官方调查](https://www.baidu.com/s?wd=%E8%91%A3%E4%BA%8B%E9%95%BF%E5%BC%80%E8%BD%A6%E8%BF%9B%E9%95%BF%E5%9F%8E%E5%BC%BA%E6%8B%86%E5%A4%A7%E9%97%A8%3F%E5%AE%98%E6%96%B9%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [拉萨原市长果果被查](https://www.baidu.com/s?wd=%E6%8B%89%E8%90%A8%E5%8E%9F%E5%B8%82%E9%95%BF%E6%9E%9C%E6%9E%9C%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [端午这样拍泰酷辣](https://www.baidu.com/s?wd=%E7%AB%AF%E5%8D%88%E8%BF%99%E6%A0%B7%E6%8B%8D%E6%B3%B0%E9%85%B7%E8%BE%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [日媒曝广末凉子出轨韩国演员](https://www.baidu.com/s?wd=%E6%97%A5%E5%AA%92%E6%9B%9D%E5%B9%BF%E6%9C%AB%E5%87%89%E5%AD%90%E5%87%BA%E8%BD%A8%E9%9F%A9%E5%9B%BD%E6%BC%94%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [这粽子是犯了天条吗被绑成这样](https://www.baidu.com/s?wd=%E8%BF%99%E7%B2%BD%E5%AD%90%E6%98%AF%E7%8A%AF%E4%BA%86%E5%A4%A9%E6%9D%A1%E5%90%97%E8%A2%AB%E7%BB%91%E6%88%90%E8%BF%99%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
