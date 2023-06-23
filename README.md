@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 13:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 13:22:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [泰坦号观光艇内爆5名乘员已死亡](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9D%A6%E5%8F%B7%E8%A7%82%E5%85%89%E8%89%87%E5%86%85%E7%88%865%E5%90%8D%E4%B9%98%E5%91%98%E5%B7%B2%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=5&Refer=top)<br />
 6. [汪东城人品](https://s.weibo.com/weibo?q=%23%E6%B1%AA%E4%B8%9C%E5%9F%8E%E4%BA%BA%E5%93%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [分数线 砍一刀](https://s.weibo.com/weibo?q=%E5%88%86%E6%95%B0%E7%BA%BF%20%E7%A0%8D%E4%B8%80%E5%88%80&t=31&band_rank=7&Refer=top)<br />
-8. [莫迪往拜登夫人手里放了一颗7.5克拉绿钻](https://s.weibo.com/weibo?q=%23%E8%8E%AB%E8%BF%AA%E5%BE%80%E6%8B%9C%E7%99%BB%E5%A4%AB%E4%BA%BA%E6%89%8B%E9%87%8C%E6%94%BE%E4%BA%86%E4%B8%80%E9%A2%977.5%E5%85%8B%E6%8B%89%E7%BB%BF%E9%92%BB%23&t=31&band_rank=8&Refer=top)<br />
-9. [景区网红大雁被游客踢中要害离世](https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%8C%BA%E7%BD%91%E7%BA%A2%E5%A4%A7%E9%9B%81%E8%A2%AB%E6%B8%B8%E5%AE%A2%E8%B8%A2%E4%B8%AD%E8%A6%81%E5%AE%B3%E7%A6%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
+8. [景区网红大雁被游客踢中要害离世](https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%8C%BA%E7%BD%91%E7%BA%A2%E5%A4%A7%E9%9B%81%E8%A2%AB%E6%B8%B8%E5%AE%A2%E8%B8%A2%E4%B8%AD%E8%A6%81%E5%AE%B3%E7%A6%BB%E4%B8%96%23&t=31&band_rank=8&Refer=top)<br />
+9. [莫迪往拜登夫人手里放了一颗7.5克拉绿钻](https://s.weibo.com/weibo?q=%23%E8%8E%AB%E8%BF%AA%E5%BE%80%E6%8B%9C%E7%99%BB%E5%A4%AB%E4%BA%BA%E6%89%8B%E9%87%8C%E6%94%BE%E4%BA%86%E4%B8%80%E9%A2%977.5%E5%85%8B%E6%8B%89%E7%BB%BF%E9%92%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [「泰坦号」潜水器发生灾难性内爆，5 名乘员全部死亡，什么是内爆？哪些信息值得关注？](https://www.zhihu.com/question/608090522)<br />
 7. []()<br />
 8. [为什么有百年功力的张三丰却连区区寒毒都没办法医治?](https://www.zhihu.com/question/607635638)<br />
-9. [电影《消失的她》中有哪些值得回味的细节？](https://www.zhihu.com/question/607974608)<br />
+9. [2023 吉林高考分数线公布，重点本科线理 463 大降 25 分，如何评价今年的分数线？](https://www.zhihu.com/question/607974303)<br />
 
 > 百度  
 
