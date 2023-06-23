@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 03:17:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 03:18:01</h4></div>
 
 > 微博  
 
@@ -33,7 +33,7 @@
 5. [白玉兰完整名单出炉：狂飙挂零陪跑](https://www.baidu.com/s?wd=%E7%99%BD%E7%8E%89%E5%85%B0%E5%AE%8C%E6%95%B4%E5%90%8D%E5%8D%95%E5%87%BA%E7%82%89%EF%BC%9A%E7%8B%82%E9%A3%99%E6%8C%82%E9%9B%B6%E9%99%AA%E8%B7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [外星人或利用超新星爆炸引人类注意](https://www.baidu.com/s?wd=%E5%A4%96%E6%98%9F%E4%BA%BA%E6%88%96%E5%88%A9%E7%94%A8%E8%B6%85%E6%96%B0%E6%98%9F%E7%88%86%E7%82%B8%E5%BC%95%E4%BA%BA%E7%B1%BB%E6%B3%A8%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [大小S宣布起诉葛斯齐](https://www.baidu.com/s?wd=%E5%A4%A7%E5%B0%8FS%E5%AE%A3%E5%B8%83%E8%B5%B7%E8%AF%89%E8%91%9B%E6%96%AF%E9%BD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子水库洗狗和游客起冲突](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%B0%B4%E5%BA%93%E6%B4%97%E7%8B%97%E5%92%8C%E6%B8%B8%E5%AE%A2%E8%B5%B7%E5%86%B2%E7%AA%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [赵丽颖三次陪跑](https://www.baidu.com/s?wd=%E8%B5%B5%E4%B8%BD%E9%A2%96%E4%B8%89%E6%AC%A1%E9%99%AA%E8%B7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [女孩没考好和妈妈吵架被丢高速](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E6%B2%A1%E8%80%83%E5%A5%BD%E5%92%8C%E5%A6%88%E5%A6%88%E5%90%B5%E6%9E%B6%E8%A2%AB%E4%B8%A2%E9%AB%98%E9%80%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [白玉兰完整名单出炉：狂飙挂零陪跑](https://www.baidu.com/s?wd=%E7%99%BD%E7%8E%89%E5%85%B0%E5%AE%8C%E6%95%B4%E5%90%8D%E5%8D%95%E5%87%BA%E7%82%89%EF%BC%9A%E7%8B%82%E9%A3%99%E6%8C%82%E9%9B%B6%E9%99%AA%E8%B7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [外星人或利用超新星爆炸引人类注意](https://www.baidu.com/s?wd=%E5%A4%96%E6%98%9F%E4%BA%BA%E6%88%96%E5%88%A9%E7%94%A8%E8%B6%85%E6%96%B0%E6%98%9F%E7%88%86%E7%82%B8%E5%BC%95%E4%BA%BA%E7%B1%BB%E6%B3%A8%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [大小S宣布起诉葛斯齐](https://www.baidu.com/s?wd=%E5%A4%A7%E5%B0%8FS%E5%AE%A3%E5%B8%83%E8%B5%B7%E8%AF%89%E8%91%9B%E6%96%AF%E9%BD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子水库洗狗和游客起冲突](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%B0%B4%E5%BA%93%E6%B4%97%E7%8B%97%E5%92%8C%E6%B8%B8%E5%AE%A2%E8%B5%B7%E5%86%B2%E7%AA%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [赵丽颖三次陪跑](https://www.baidu.com/s?wd=%E8%B5%B5%E4%B8%BD%E9%A2%96%E4%B8%89%E6%AC%A1%E9%99%AA%E8%B7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [女孩没考好和妈妈吵架被丢高速](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E6%B2%A1%E8%80%83%E5%A5%BD%E5%92%8C%E5%A6%88%E5%A6%88%E5%90%B5%E6%9E%B6%E8%A2%AB%E4%B8%A2%E9%AB%98%E9%80%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
