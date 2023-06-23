@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 10:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 10:56:01</h4></div>
 
 > 微博  
 
@@ -20,8 +20,8 @@
 4. [银川政府表示尽快查明爆炸事故原因，立即开展为期一个月的安全生产大排查大整治行动，还有哪些信息值得关注？](https://www.zhihu.com/question/608017964)<br />
 5. [发改委与德国宝马、奔驰、大众汽车签署合作意向书，共同推动新能源汽车研发创新和推广应用，如何解读？](https://www.zhihu.com/question/607897726)<br />
 6. [曝 NBA 重磅交易，保罗被交易至勇士，普尔罗林斯前往奇才，如何评价这项交易？](https://www.zhihu.com/question/608085587)<br />
-7. [如何看待勇士送出乔丹普尔及两个选秀权，获得克里斯保罗?](https://www.zhihu.com/question/608073408)<br />
-8. [在感情里，真诚是「必杀技」还是「杀死自己的必杀技」？](https://www.zhihu.com/question/599386066)<br />
+7. [在感情里，真诚是「必杀技」还是「杀死自己的必杀技」？](https://www.zhihu.com/question/599386066)<br />
+8. [如何看待勇士送出乔丹普尔及两个选秀权，获得克里斯保罗?](https://www.zhihu.com/question/608073408)<br />
 9. [怎样评价《菊与刀》?](https://www.zhihu.com/question/23983441)<br />
 
 > 百度  
