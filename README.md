@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 02:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 02:50:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [制片人回应迪丽热巴不适合演公诉](https://www.baidu.com/s?wd=%E5%88%B6%E7%89%87%E4%BA%BA%E5%9B%9E%E5%BA%94%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E4%B8%8D%E9%80%82%E5%90%88%E6%BC%94%E5%85%AC%E8%AF%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [大小S宣布起诉葛斯齐](https://www.baidu.com/s?wd=%E5%A4%A7%E5%B0%8FS%E5%AE%A3%E5%B8%83%E8%B5%B7%E8%AF%89%E8%91%9B%E6%96%AF%E9%BD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [秦岚中空连衣裙](https://www.baidu.com/s?wd=%E7%A7%A6%E5%B2%9A%E4%B8%AD%E7%A9%BA%E8%BF%9E%E8%A1%A3%E8%A3%99&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [梁实第27次高考424分 未达二本线](https://www.baidu.com/s?wd=%E6%A2%81%E5%AE%9E%E7%AC%AC27%E6%AC%A1%E9%AB%98%E8%80%83424%E5%88%86+%E6%9C%AA%E8%BE%BE%E4%BA%8C%E6%9C%AC%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [薇娅雪梨背后公司纷纷买地盖楼](https://www.baidu.com/s?wd=%E8%96%87%E5%A8%85%E9%9B%AA%E6%A2%A8%E8%83%8C%E5%90%8E%E5%85%AC%E5%8F%B8%E7%BA%B7%E7%BA%B7%E4%B9%B0%E5%9C%B0%E7%9B%96%E6%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [制片人回应迪丽热巴不适合演公诉](https://www.baidu.com/s?wd=%E5%88%B6%E7%89%87%E4%BA%BA%E5%9B%9E%E5%BA%94%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E4%B8%8D%E9%80%82%E5%90%88%E6%BC%94%E5%85%AC%E8%AF%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [大小S宣布起诉葛斯齐](https://www.baidu.com/s?wd=%E5%A4%A7%E5%B0%8FS%E5%AE%A3%E5%B8%83%E8%B5%B7%E8%AF%89%E8%91%9B%E6%96%AF%E9%BD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [秦岚中空连衣裙](https://www.baidu.com/s?wd=%E7%A7%A6%E5%B2%9A%E4%B8%AD%E7%A9%BA%E8%BF%9E%E8%A1%A3%E8%A3%99&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [梁实第27次高考424分 未达二本线](https://www.baidu.com/s?wd=%E6%A2%81%E5%AE%9E%E7%AC%AC27%E6%AC%A1%E9%AB%98%E8%80%83424%E5%88%86+%E6%9C%AA%E8%BE%BE%E4%BA%8C%E6%9C%AC%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [薇娅雪梨背后公司纷纷买地盖楼](https://www.baidu.com/s?wd=%E8%96%87%E5%A8%85%E9%9B%AA%E6%A2%A8%E8%83%8C%E5%90%8E%E5%85%AC%E5%8F%B8%E7%BA%B7%E7%BA%B7%E4%B9%B0%E5%9C%B0%E7%9B%96%E6%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
