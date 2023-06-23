@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 14:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 14:21:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [41℃高温把衣服晒着了](https://s.weibo.com/weibo?q=%2341%E2%84%83%E9%AB%98%E6%B8%A9%E6%8A%8A%E8%A1%A3%E6%9C%8D%E6%99%92%E7%9D%80%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [青鸟改编 难评](https://s.weibo.com/weibo?q=%E9%9D%92%E9%B8%9F%E6%94%B9%E7%BC%96%20%E9%9A%BE%E8%AF%84&t=31&band_rank=6&Refer=top)<br />
 7. [成都UFO](https://s.weibo.com/weibo?q=%E6%88%90%E9%83%BDUFO&t=31&band_rank=7&Refer=top)<br />
-8. [泰坦号观光艇内爆5名乘员已死亡](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9D%A6%E5%8F%B7%E8%A7%82%E5%85%89%E8%89%87%E5%86%85%E7%88%865%E5%90%8D%E4%B9%98%E5%91%98%E5%B7%B2%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [刘宪华官宣加盟中国好声音](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%AA%E5%8D%8E%E5%AE%98%E5%AE%A3%E5%8A%A0%E7%9B%9F%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%23&t=31&band_rank=9&Refer=top)<br />
+8. [刘宪华官宣加盟中国好声音](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%AA%E5%8D%8E%E5%AE%98%E5%AE%A3%E5%8A%A0%E7%9B%9F%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%23&t=31&band_rank=8&Refer=top)<br />
+9. [泰坦号观光艇内爆5名乘员已死亡](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9D%A6%E5%8F%B7%E8%A7%82%E5%85%89%E8%89%87%E5%86%85%E7%88%865%E5%90%8D%E4%B9%98%E5%91%98%E5%B7%B2%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -21,8 +21,8 @@
 5. [6 月 22 日晚，多名网友发现成都上空出现不明飞行物，天文学者猜测可能是火流星，什么是火流星？](https://www.zhihu.com/question/608091068)<br />
 6. []()<br />
 7. [2023 吉林高考分数线公布，重点本科线理 463 大降 25 分，如何评价今年的分数线？](https://www.zhihu.com/question/607974303)<br />
-8. [如何评价赵露思、陈哲远主演的电视剧《偷偷藏不住》？](https://www.zhihu.com/question/607662880)<br />
-9. [俄方回应布林肯访华称，中俄间的战略合作伙伴关系水平让俄相信，中方永远不会针对俄，释放了哪些信号？](https://www.zhihu.com/question/607828176)<br />
+8. [俄方回应布林肯访华称，中俄间的战略合作伙伴关系水平让俄相信，中方永远不会针对俄，释放了哪些信号？](https://www.zhihu.com/question/607828176)<br />
+9. [如何评价赵露思、陈哲远主演的电视剧《偷偷藏不住》？](https://www.zhihu.com/question/607662880)<br />
 
 > 百度  
 
