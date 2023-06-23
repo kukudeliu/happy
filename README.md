@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 13:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 13:41:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [成都UFO](https://s.weibo.com/weibo?q=%E6%88%90%E9%83%BDUFO&t=31&band_rank=5&Refer=top)<br />
 6. [泰坦号观光艇内爆5名乘员已死亡](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9D%A6%E5%8F%B7%E8%A7%82%E5%85%89%E8%89%87%E5%86%85%E7%88%865%E5%90%8D%E4%B9%98%E5%91%98%E5%B7%B2%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [41℃高温把衣服晒着了](https://s.weibo.com/weibo?q=%2341%E2%84%83%E9%AB%98%E6%B8%A9%E6%8A%8A%E8%A1%A3%E6%9C%8D%E6%99%92%E7%9D%80%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [分数线 砍一刀](https://s.weibo.com/weibo?q=%E5%88%86%E6%95%B0%E7%BA%BF%20%E7%A0%8D%E4%B8%80%E5%88%80&t=31&band_rank=8&Refer=top)<br />
-9. [青鸟改编 难评](https://s.weibo.com/weibo?q=%E9%9D%92%E9%B8%9F%E6%94%B9%E7%BC%96%20%E9%9A%BE%E8%AF%84&t=31&band_rank=9&Refer=top)<br />
+8. [青鸟改编 难评](https://s.weibo.com/weibo?q=%E9%9D%92%E9%B8%9F%E6%94%B9%E7%BC%96%20%E9%9A%BE%E8%AF%84&t=31&band_rank=8&Refer=top)<br />
+9. [分数线 砍一刀](https://s.weibo.com/weibo?q=%E5%88%86%E6%95%B0%E7%BA%BF%20%E7%A0%8D%E4%B8%80%E5%88%80&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
