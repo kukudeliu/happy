@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 11:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 11:17:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [柳智敏](https://s.weibo.com/weibo?q=%E6%9F%B3%E6%99%BA%E6%95%8F&t=31&band_rank=6&Refer=top)<br />
 7. [日本将强制公布艺人真实身份](https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%B0%86%E5%BC%BA%E5%88%B6%E5%85%AC%E5%B8%83%E8%89%BA%E4%BA%BA%E7%9C%9F%E5%AE%9E%E8%BA%AB%E4%BB%BD&t=31&band_rank=7&Refer=top)<br />
 8. [泰坦尼克号导演表达震惊](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7%E5%AF%BC%E6%BC%94%E8%A1%A8%E8%BE%BE%E9%9C%87%E6%83%8A%23&t=31&band_rank=8&Refer=top)<br />
-9. [吴磊回应新疆骑行路人打招呼](https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A3%8A%E5%9B%9E%E5%BA%94%E6%96%B0%E7%96%86%E9%AA%91%E8%A1%8C%E8%B7%AF%E4%BA%BA%E6%89%93%E6%8B%9B%E5%91%BC%23&t=31&band_rank=9&Refer=top)<br />
+9. [Angelababy白鹿起床素颜状态](https://s.weibo.com/weibo?q=%23Angelababy%E7%99%BD%E9%B9%BF%E8%B5%B7%E5%BA%8A%E7%B4%A0%E9%A2%9C%E7%8A%B6%E6%80%81%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [在感情里，真诚是「必杀技」还是「杀死自己的必杀技」？](https://www.zhihu.com/question/599386066)<br />
 7. [家长花重金把差生放在重点中学尖子班，这样做孩子是否能够考出优异成绩？为什么？](https://www.zhihu.com/question/598857377)<br />
 8. []()<br />
-9. [哪些恐龙的形象最初科学家弄错了？](https://www.zhihu.com/question/568017834)<br />
+9. [计算机是最难的工科吗？](https://www.zhihu.com/question/593585695)<br />
 
 > 百度  
 
