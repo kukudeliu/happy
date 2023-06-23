@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 17:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 17:38:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [NBA 选秀大会：马刺状元签选择文班亚马，黄蜂选中米勒，如何看待他们的前景？](https://www.zhihu.com/question/608089914)<br />
 6. [韩国环境部已批准「萨德」基地环评报告，基建工作将全面启动，「萨德」部署后将造成哪些影响？](https://www.zhihu.com/question/608002674)<br />
 7. [iOS 的墓碑机制这么厉害，为什么 Windows 、 Linux 不采用呢？](https://www.zhihu.com/question/604373860)<br />
-8. [为什么有百年功力的张三丰却连区区寒毒都没办法医治?](https://www.zhihu.com/question/607635638)<br />
-9. [日本 200 多所大学或因缺少生源倒闭，多所大学停止招生，日本人口连续 12 年减少，将产生哪些影响？](https://www.zhihu.com/question/607979062)<br />
+8. [日本 200 多所大学或因缺少生源倒闭，多所大学停止招生，日本人口连续 12 年减少，将产生哪些影响？](https://www.zhihu.com/question/607979062)<br />
+9. [为什么有百年功力的张三丰却连区区寒毒都没办法医治?](https://www.zhihu.com/question/607635638)<br />
 
 > 百度  
 
