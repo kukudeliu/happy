@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 14:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 14:33:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [41℃高温把衣服晒着了](https://s.weibo.com/weibo?q=%2341%E2%84%83%E9%AB%98%E6%B8%A9%E6%8A%8A%E8%A1%A3%E6%9C%8D%E6%99%92%E7%9D%80%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [青鸟改编 难评](https://s.weibo.com/weibo?q=%E9%9D%92%E9%B8%9F%E6%94%B9%E7%BC%96%20%E9%9A%BE%E8%AF%84&t=31&band_rank=7&Refer=top)<br />
 8. [女子番茄吃多胃痛医生让喝可乐治疗](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%95%AA%E8%8C%84%E5%90%83%E5%A4%9A%E8%83%83%E7%97%9B%E5%8C%BB%E7%94%9F%E8%AE%A9%E5%96%9D%E5%8F%AF%E4%B9%90%E6%B2%BB%E7%96%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [成都UFO](https://s.weibo.com/weibo?q=%E6%88%90%E9%83%BDUFO&t=31&band_rank=9&Refer=top)<br />
+9. [刘宪华官宣加盟中国好声音](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%AA%E5%8D%8E%E5%AE%98%E5%AE%A3%E5%8A%A0%E7%9B%9F%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -18,8 +18,8 @@
 2. [美国失联深海潜水器发生「灾难性内爆」，5 名乘员死亡，「内爆」是如何发生的？此次事故将产生哪些影响？](https://www.zhihu.com/question/608085455)<br />
 3. [日本 200 多所大学或因缺少生源倒闭，多所大学停止招生，日本人口连续 12 年减少，将产生哪些影响？](https://www.zhihu.com/question/607979062)<br />
 4. [发改委与德国宝马、奔驰、大众汽车签署合作意向书，共同推动新能源汽车研发创新和推广应用，如何解读？](https://www.zhihu.com/question/607897726)<br />
-5. [6 月 22 日晚，多名网友发现成都上空出现不明飞行物，天文学者猜测可能是火流星，什么是火流星？](https://www.zhihu.com/question/608091068)<br />
-6. []()<br />
+5. []()<br />
+6. [6 月 22 日晚，多名网友发现成都上空出现不明飞行物，天文学者猜测可能是火流星，什么是火流星？](https://www.zhihu.com/question/608091068)<br />
 7. [2023 吉林高考分数线公布，重点本科线理 463 大降 25 分，如何评价今年的分数线？](https://www.zhihu.com/question/607974303)<br />
 8. [俄方回应布林肯访华称，中俄间的战略合作伙伴关系水平让俄相信，中方永远不会针对俄，释放了哪些信号？](https://www.zhihu.com/question/607828176)<br />
 9. [《最终幻想 16》FF16 解禁，PS5 平台限时独占，游戏体验如何，符合你的期待值吗？](https://www.zhihu.com/question/607934321)<br />
