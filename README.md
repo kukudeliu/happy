@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 16:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 16:07:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [各地 2023 高考分数线陆续公布，如何看待今年的分数线，与去年相比有何变化？](https://www.zhihu.com/question/607974548)<br />
 6. [NBA 选秀大会：马刺状元签选择文班亚马，黄蜂选中米勒，如何看待他们的前景？](https://www.zhihu.com/question/608089914)<br />
 7. [中国气象局启动高温四级应急响应，伴随高温而来的有哪些隐忧需要警惕、预防？](https://www.zhihu.com/question/608101451)<br />
-8. [《长风渡》开播，你觉得它能否成为一部爆款？](https://www.zhihu.com/question/607564023)<br />
-9. [140 元一根演唱会荧光棒成本仅 10 元，你对五月天演唱会的天价荧光棒有何看法？](https://www.zhihu.com/question/607116754)<br />
+8. [140 元一根演唱会荧光棒成本仅 10 元，你对五月天演唱会的天价荧光棒有何看法？](https://www.zhihu.com/question/607116754)<br />
+9. [如何评价《黑镜》（Black Mirror）第六季第一集「Joan is awful」？](https://www.zhihu.com/question/606816407)<br />
 
 > 百度  
 
