@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 12:52:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 12:53:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [莫迪往拜登夫人手里放了一颗7.5克拉绿钻](https://s.weibo.com/weibo?q=%23%E8%8E%AB%E8%BF%AA%E5%BE%80%E6%8B%9C%E7%99%BB%E5%A4%AB%E4%BA%BA%E6%89%8B%E9%87%8C%E6%94%BE%E4%BA%86%E4%B8%80%E9%A2%977.5%E5%85%8B%E6%8B%89%E7%BB%BF%E9%92%BB%23&t=31&band_rank=6&Refer=top)<br />
 7. [日本将强制公布艺人真实身份](https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%B0%86%E5%BC%BA%E5%88%B6%E5%85%AC%E5%B8%83%E8%89%BA%E4%BA%BA%E7%9C%9F%E5%AE%9E%E8%BA%AB%E4%BB%BD&t=31&band_rank=7&Refer=top)<br />
 8. [偷偷藏不住暗恋be](https://s.weibo.com/weibo?q=%23%E5%81%B7%E5%81%B7%E8%97%8F%E4%B8%8D%E4%BD%8F%E6%9A%97%E6%81%8Bbe%23&t=31&band_rank=8&Refer=top)<br />
-9. [姆巴佩将加盟皇马](https://s.weibo.com/weibo?q=%23%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%B0%86%E5%8A%A0%E7%9B%9F%E7%9A%87%E9%A9%AC%23&t=31&band_rank=9&Refer=top)<br />
+9. [青鸟](https://s.weibo.com/weibo?q=%E9%9D%92%E9%B8%9F&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -19,8 +19,8 @@
 3. [日本 200 多所大学或因缺少生源倒闭，多所大学停止招生，日本人口连续 12 年减少，将产生哪些影响？](https://www.zhihu.com/question/607979062)<br />
 4. [发改委与德国宝马、奔驰、大众汽车签署合作意向书，共同推动新能源汽车研发创新和推广应用，如何解读？](https://www.zhihu.com/question/607897726)<br />
 5. [6 月 22 日晚，多名网友发现成都上空出现不明飞行物，天文学者猜测可能是火流星，什么是火流星？](https://www.zhihu.com/question/608091068)<br />
-6. [家长花重金把差生放在重点中学尖子班，这样做孩子是否能够考出优异成绩？为什么？](https://www.zhihu.com/question/598857377)<br />
-7. [电影《消失的她》中有哪些值得回味的细节？](https://www.zhihu.com/question/607974608)<br />
+6. [电影《消失的她》中有哪些值得回味的细节？](https://www.zhihu.com/question/607974608)<br />
+7. [家长花重金把差生放在重点中学尖子班，这样做孩子是否能够考出优异成绩？为什么？](https://www.zhihu.com/question/598857377)<br />
 8. [为什么有百年功力的张三丰却连区区寒毒都没办法医治?](https://www.zhihu.com/question/607635638)<br />
 9. []()<br />
 
@@ -33,8 +33,8 @@
 5. [成都上空现UFO？学者：或为火流星](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E4%B8%8A%E7%A9%BA%E7%8E%B0UFO%EF%BC%9F%E5%AD%A6%E8%80%85%EF%BC%9A%E6%88%96%E4%B8%BA%E7%81%AB%E6%B5%81%E6%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [江西分数线公布](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [景区网红大雁被游客踢中要害离世](https://www.baidu.com/s?wd=%E6%99%AF%E5%8C%BA%E7%BD%91%E7%BA%A2%E5%A4%A7%E9%9B%81%E8%A2%AB%E6%B8%B8%E5%AE%A2%E8%B8%A2%E4%B8%AD%E8%A6%81%E5%AE%B3%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [《闪电侠》全球票房崩盘](https://www.baidu.com/s?wd=%E3%80%8A%E9%97%AA%E7%94%B5%E4%BE%A0%E3%80%8B%E5%85%A8%E7%90%83%E7%A5%A8%E6%88%BF%E5%B4%A9%E7%9B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [致5死潜艇内部：没凳子只能盘腿坐](https://www.baidu.com/s?wd=%E8%87%B45%E6%AD%BB%E6%BD%9C%E8%89%87%E5%86%85%E9%83%A8%EF%BC%9A%E6%B2%A1%E5%87%B3%E5%AD%90%E5%8F%AA%E8%83%BD%E7%9B%98%E8%85%BF%E5%9D%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [41℃高温把盆里的衣服晒冒烟了](https://www.baidu.com/s?wd=41%E2%84%83%E9%AB%98%E6%B8%A9%E6%8A%8A%E7%9B%86%E9%87%8C%E7%9A%84%E8%A1%A3%E6%9C%8D%E6%99%92%E5%86%92%E7%83%9F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [内蒙体育生351分 握拳怒吼“上了”](https://www.baidu.com/s?wd=%E5%86%85%E8%92%99%E4%BD%93%E8%82%B2%E7%94%9F351%E5%88%86+%E6%8F%A1%E6%8B%B3%E6%80%92%E5%90%BC%E2%80%9C%E4%B8%8A%E4%BA%86%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [成都上空现UFO？学者：或为火流星](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E4%B8%8A%E7%A9%BA%E7%8E%B0UFO%EF%BC%9F%E5%AD%A6%E8%80%85%EF%BC%9A%E6%88%96%E4%B8%BA%E7%81%AB%E6%B5%81%E6%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [江西分数线公布](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [景区网红大雁被游客踢中要害离世](https://www.baidu.com/s?wd=%E6%99%AF%E5%8C%BA%E7%BD%91%E7%BA%A2%E5%A4%A7%E9%9B%81%E8%A2%AB%E6%B8%B8%E5%AE%A2%E8%B8%A2%E4%B8%AD%E8%A6%81%E5%AE%B3%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [《闪电侠》全球票房崩盘](https://www.baidu.com/s?wd=%E3%80%8A%E9%97%AA%E7%94%B5%E4%BE%A0%E3%80%8B%E5%85%A8%E7%90%83%E7%A5%A8%E6%88%BF%E5%B4%A9%E7%9B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [致5死潜艇内部：没凳子只能盘腿坐](https://www.baidu.com/s?wd=%E8%87%B45%E6%AD%BB%E6%BD%9C%E8%89%87%E5%86%85%E9%83%A8%EF%BC%9A%E6%B2%A1%E5%87%B3%E5%AD%90%E5%8F%AA%E8%83%BD%E7%9B%98%E8%85%BF%E5%9D%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [41℃高温把盆里的衣服晒冒烟了](https://www.baidu.com/s?wd=41%E2%84%83%E9%AB%98%E6%B8%A9%E6%8A%8A%E7%9B%86%E9%87%8C%E7%9A%84%E8%A1%A3%E6%9C%8D%E6%99%92%E5%86%92%E7%83%9F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [内蒙体育生351分 握拳怒吼“上了”](https://www.baidu.com/s?wd=%E5%86%85%E8%92%99%E4%BD%93%E8%82%B2%E7%94%9F351%E5%88%86+%E6%8F%A1%E6%8B%B3%E6%80%92%E5%90%BC%E2%80%9C%E4%B8%8A%E4%BA%86%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
