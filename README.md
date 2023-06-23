@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 15:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 15:17:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [某一位同事被辞退了，明天就走了。今天给他分配任务不理我了，我错了吗？](https://www.zhihu.com/question/607636838)<br />
 6. [俄方回应布林肯访华称，中俄间的战略合作伙伴关系水平让俄相信，中方永远不会针对俄，释放了哪些信号？](https://www.zhihu.com/question/607828176)<br />
 7. [2023 吉林高考分数线公布，重点本科线理 463 大降 25 分，如何评价今年的分数线？](https://www.zhihu.com/question/607974303)<br />
-8. [台湾 TVBS 民调显示柯文哲支持度为 33% 超过赖清德暂居第一，如何看待这一民调结果？](https://www.zhihu.com/question/607639573)<br />
-9. [LED 灯是长时间亮着容易坏，还是反复开关容易坏？](https://www.zhihu.com/question/601205504)<br />
+8. [LED 灯是长时间亮着容易坏，还是反复开关容易坏？](https://www.zhihu.com/question/601205504)<br />
+9. [台湾 TVBS 民调显示柯文哲支持度为 33% 超过赖清德暂居第一，如何看待这一民调结果？](https://www.zhihu.com/question/607639573)<br />
 
 > 百度  
 
