@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 07:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 07:08:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [吴越 白玉兰视后](https://s.weibo.com/weibo?q=%E5%90%B4%E8%B6%8A%20%E7%99%BD%E7%8E%89%E5%85%B0%E8%A7%86%E5%90%8E&t=31&band_rank=5&Refer=top)<br />
 6. [鹿晗演唱会上不敢读的灯牌](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E4%B8%8D%E6%95%A2%E8%AF%BB%E7%9A%84%E7%81%AF%E7%89%8C%23&t=31&band_rank=6&Refer=top)<br />
 7. [外星人](https://s.weibo.com/weibo?q=%E5%A4%96%E6%98%9F%E4%BA%BA&t=31&band_rank=7&Refer=top)<br />
-8. [炎亚纶](https://s.weibo.com/weibo?q=%E7%82%8E%E4%BA%9A%E7%BA%B6&t=31&band_rank=8&Refer=top)<br />
+8. [赵丽颖白玉兰获奖感言](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%99%BD%E7%8E%89%E5%85%B0%E8%8E%B7%E5%A5%96%E6%84%9F%E8%A8%80%23&t=31&band_rank=8&Refer=top)<br />
 9. [男生高考查分584父子俩笑得合不拢嘴](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86584%E7%88%B6%E5%AD%90%E4%BF%A9%E7%AC%91%E5%BE%97%E5%90%88%E4%B8%8D%E6%8B%A2%E5%98%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -21,8 +21,8 @@
 5. [6 月 22 日比特币大涨，站上 30000 美元关口，为近两月以来首次，释放了哪些信号？](https://www.zhihu.com/question/607964858)<br />
 6. []()<br />
 7. [如何评价 Uzi 在 2023 年复出后的表现？](https://www.zhihu.com/question/608011699)<br />
-8. [如何评价《原神》3.8 版本前瞻直播特别节目「清夏乐园大秘境」？](https://www.zhihu.com/question/608160040)<br />
-9. [《长风渡》第 13-16 集拍得如何？有哪些值得关注的剧情点？](https://www.zhihu.com/question/608012281)<br />
+8. [《长风渡》第 13-16 集拍得如何？有哪些值得关注的剧情点？](https://www.zhihu.com/question/608012281)<br />
+9. [如何评价《黑镜》（Black Mirror）第六季第二集「Loch Henry」？](https://www.zhihu.com/question/607698144)<br />
 
 > 百度  
 
