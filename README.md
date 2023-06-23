@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 08:47:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 08:48:01</h4></div>
 
 > 微博  
 
-1. [泰坦号观光艇内爆5名乘员已死亡](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9D%A6%E5%8F%B7%E8%A7%82%E5%85%89%E8%89%87%E5%86%85%E7%88%865%E5%90%8D%E4%B9%98%E5%91%98%E5%B7%B2%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=1&Refer=top)<br />
-2. [日本将强制公布艺人真实身份](https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%B0%86%E5%BC%BA%E5%88%B6%E5%85%AC%E5%B8%83%E8%89%BA%E4%BA%BA%E7%9C%9F%E5%AE%9E%E8%BA%AB%E4%BB%BD&t=31&band_rank=2&Refer=top)<br />
+1. [日本将强制公布艺人真实身份](https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%B0%86%E5%BC%BA%E5%88%B6%E5%85%AC%E5%B8%83%E8%89%BA%E4%BA%BA%E7%9C%9F%E5%AE%9E%E8%BA%AB%E4%BB%BD&t=31&band_rank=1&Refer=top)<br />
+2. [泰坦号观光艇内爆5名乘员已死亡](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9D%A6%E5%8F%B7%E8%A7%82%E5%85%89%E8%89%87%E5%86%85%E7%88%865%E5%90%8D%E4%B9%98%E5%91%98%E5%B7%B2%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=2&Refer=top)<br />
 3. [龙舟漂移有多酷炫](https://s.weibo.com/weibo?q=%23%E9%BE%99%E8%88%9F%E6%BC%82%E7%A7%BB%E6%9C%89%E5%A4%9A%E9%85%B7%E7%82%AB%23&t=31&band_rank=3&Refer=top)<br />
 4. [成都UFO](https://s.weibo.com/weibo?q=%E6%88%90%E9%83%BDUFO&t=31&band_rank=4&Refer=top)<br />
 5. [高考查分](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86&t=31&band_rank=5&Refer=top)<br />
 6. [国产暗恋剧天花板](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BA%A7%E6%9A%97%E6%81%8B%E5%89%A7%E5%A4%A9%E8%8A%B1%E6%9D%BF%23&t=31&band_rank=6&Refer=top)<br />
-7. [2023好声音导师官宣](https://s.weibo.com/weibo?q=%232023%E5%A5%BD%E5%A3%B0%E9%9F%B3%E5%AF%BC%E5%B8%88%E5%AE%98%E5%AE%A3%23&t=31&band_rank=7&Refer=top)<br />
-8. [马伯庸 别人发端午安康我回复端午快乐](https://s.weibo.com/weibo?q=%E9%A9%AC%E4%BC%AF%E5%BA%B8%20%E5%88%AB%E4%BA%BA%E5%8F%91%E7%AB%AF%E5%8D%88%E5%AE%89%E5%BA%B7%E6%88%91%E5%9B%9E%E5%A4%8D%E7%AB%AF%E5%8D%88%E5%BF%AB%E4%B9%90&t=31&band_rank=8&Refer=top)<br />
-9. [实名注册手机卡不注销的后果](https://s.weibo.com/weibo?q=%23%E5%AE%9E%E5%90%8D%E6%B3%A8%E5%86%8C%E6%89%8B%E6%9C%BA%E5%8D%A1%E4%B8%8D%E6%B3%A8%E9%94%80%E7%9A%84%E5%90%8E%E6%9E%9C%23&t=31&band_rank=9&Refer=top)<br />
+7. [马伯庸 别人发端午安康我回复端午快乐](https://s.weibo.com/weibo?q=%E9%A9%AC%E4%BC%AF%E5%BA%B8%20%E5%88%AB%E4%BA%BA%E5%8F%91%E7%AB%AF%E5%8D%88%E5%AE%89%E5%BA%B7%E6%88%91%E5%9B%9E%E5%A4%8D%E7%AB%AF%E5%8D%88%E5%BF%AB%E4%B9%90&t=31&band_rank=7&Refer=top)<br />
+8. [2023好声音导师官宣](https://s.weibo.com/weibo?q=%232023%E5%A5%BD%E5%A3%B0%E9%9F%B3%E5%AF%BC%E5%B8%88%E5%AE%98%E5%AE%A3%23&t=31&band_rank=8&Refer=top)<br />
+9. [这粽子是犯了天条吗被绑成这样](https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%B2%BD%E5%AD%90%E6%98%AF%E7%8A%AF%E4%BA%86%E5%A4%A9%E6%9D%A1%E5%90%97%E8%A2%AB%E7%BB%91%E6%88%90%E8%BF%99%E6%A0%B7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
