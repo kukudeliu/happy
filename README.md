@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 17:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 17:11:02</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [遇到燃气泄漏应该如何处理](https://s.weibo.com/weibo?q=%23%E9%81%87%E5%88%B0%E7%87%83%E6%B0%94%E6%B3%84%E6%BC%8F%E5%BA%94%E8%AF%A5%E5%A6%82%E4%BD%95%E5%A4%84%E7%90%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [山东已现43℃以上高温](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E5%B7%B2%E7%8E%B043%E2%84%83%E4%BB%A5%E4%B8%8A%E9%AB%98%E6%B8%A9%23&t=31&band_rank=4&Refer=top)<br />
 5. [傅韵哲高考成绩](https://s.weibo.com/weibo?q=%E5%82%85%E9%9F%B5%E5%93%B2%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9&t=31&band_rank=5&Refer=top)<br />
-6. [银川爆炸事故第1晚顾客坐店外就餐](https://s.weibo.com/weibo?q=%23%E9%93%B6%E5%B7%9D%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E7%AC%AC1%E6%99%9A%E9%A1%BE%E5%AE%A2%E5%9D%90%E5%BA%97%E5%A4%96%E5%B0%B1%E9%A4%90%23&t=31&band_rank=6&Refer=top)<br />
-7. [高考分数线](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%23&t=31&band_rank=7&Refer=top)<br />
-8. [什么叫内爆](https://s.weibo.com/weibo?q=%E4%BB%80%E4%B9%88%E5%8F%AB%E5%86%85%E7%88%86&t=31&band_rank=8&Refer=top)<br />
-9. [景区网红大雁被游客踢中要害离世](https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%8C%BA%E7%BD%91%E7%BA%A2%E5%A4%A7%E9%9B%81%E8%A2%AB%E6%B8%B8%E5%AE%A2%E8%B8%A2%E4%B8%AD%E8%A6%81%E5%AE%B3%E7%A6%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
+6. [女子番茄吃多胃痛医生让喝可乐治疗](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%95%AA%E8%8C%84%E5%90%83%E5%A4%9A%E8%83%83%E7%97%9B%E5%8C%BB%E7%94%9F%E8%AE%A9%E5%96%9D%E5%8F%AF%E4%B9%90%E6%B2%BB%E7%96%97%23&t=31&band_rank=6&Refer=top)<br />
+7. [银川爆炸事故第1晚顾客坐店外就餐](https://s.weibo.com/weibo?q=%23%E9%93%B6%E5%B7%9D%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E7%AC%AC1%E6%99%9A%E9%A1%BE%E5%AE%A2%E5%9D%90%E5%BA%97%E5%A4%96%E5%B0%B1%E9%A4%90%23&t=31&band_rank=7&Refer=top)<br />
+8. [高考分数线](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%23&t=31&band_rank=8&Refer=top)<br />
+9. [什么叫内爆](https://s.weibo.com/weibo?q=%E4%BB%80%E4%B9%88%E5%8F%AB%E5%86%85%E7%88%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -34,7 +34,7 @@
 6. [蔡少芬你不要再叫了](https://www.baidu.com/s?wd=%E8%94%A1%E5%B0%91%E8%8A%AC%E4%BD%A0%E4%B8%8D%E8%A6%81%E5%86%8D%E5%8F%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [广东一条龙舟70个房东 身价20亿](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E6%9D%A1%E9%BE%99%E8%88%9F70%E4%B8%AA%E6%88%BF%E4%B8%9C+%E8%BA%AB%E4%BB%B720%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [火车站回应锁门致乘客40℃下苦等](https://www.baidu.com/s?wd=%E7%81%AB%E8%BD%A6%E7%AB%99%E5%9B%9E%E5%BA%94%E9%94%81%E9%97%A8%E8%87%B4%E4%B9%98%E5%AE%A240%E2%84%83%E4%B8%8B%E8%8B%A6%E7%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [致5死潜艇内部：没凳子只能盘腿坐](https://www.baidu.com/s?wd=%E8%87%B45%E6%AD%BB%E6%BD%9C%E8%89%87%E5%86%85%E9%83%A8%EF%BC%9A%E6%B2%A1%E5%87%B3%E5%AD%90%E5%8F%AA%E8%83%BD%E7%9B%98%E8%85%BF%E5%9D%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [内蒙体育生351分 握拳怒吼“上了”](https://www.baidu.com/s?wd=%E5%86%85%E8%92%99%E4%BD%93%E8%82%B2%E7%94%9F351%E5%88%86+%E6%8F%A1%E6%8B%B3%E6%80%92%E5%90%BC%E2%80%9C%E4%B8%8A%E4%BA%86%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [蔡少芬你不要再叫了](https://www.baidu.com/s?wd=%E8%94%A1%E5%B0%91%E8%8A%AC%E4%BD%A0%E4%B8%8D%E8%A6%81%E5%86%8D%E5%8F%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [广东一条龙舟70个房东 身价20亿](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E6%9D%A1%E9%BE%99%E8%88%9F70%E4%B8%AA%E6%88%BF%E4%B8%9C+%E8%BA%AB%E4%BB%B720%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [火车站回应锁门致乘客40℃下苦等](https://www.baidu.com/s?wd=%E7%81%AB%E8%BD%A6%E7%AB%99%E5%9B%9E%E5%BA%94%E9%94%81%E9%97%A8%E8%87%B4%E4%B9%98%E5%AE%A240%E2%84%83%E4%B8%8B%E8%8B%A6%E7%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [致5死潜艇内部：没凳子只能盘腿坐](https://www.baidu.com/s?wd=%E8%87%B45%E6%AD%BB%E6%BD%9C%E8%89%87%E5%86%85%E9%83%A8%EF%BC%9A%E6%B2%A1%E5%87%B3%E5%AD%90%E5%8F%AA%E8%83%BD%E7%9B%98%E8%85%BF%E5%9D%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [内蒙体育生351分 握拳怒吼“上了”](https://www.baidu.com/s?wd=%E5%86%85%E8%92%99%E4%BD%93%E8%82%B2%E7%94%9F351%E5%88%86+%E6%8F%A1%E6%8B%B3%E6%80%92%E5%90%BC%E2%80%9C%E4%B8%8A%E4%BA%86%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
