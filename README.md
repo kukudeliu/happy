@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 20:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 20:17:01</h4></div>
 
 > 微博  
 
@@ -8,7 +8,7 @@
 4. [狂飙](https://s.weibo.com/weibo?q=%E7%8B%82%E9%A3%99&t=31&band_rank=4&Refer=top)<br />
 5. [马嘉祺 六斤](https://s.weibo.com/weibo?q=%E9%A9%AC%E5%98%89%E7%A5%BA%20%E5%85%AD%E6%96%A4&t=31&band_rank=5&Refer=top)<br />
 6. [消失的她票房逆跌](https://s.weibo.com/weibo?q=%23%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%88%BF%E9%80%86%E8%B7%8C%23&t=31&band_rank=6&Refer=top)<br />
-7. [赵丽颖贵气的闪](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%B4%B5%E6%B0%94%E7%9A%84%E9%97%AA&t=31&band_rank=7&Refer=top)<br />
+7. [张译 张颂文](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%AF%91%20%E5%BC%A0%E9%A2%82%E6%96%87&t=31&band_rank=7&Refer=top)<br />
 8. [外星人](https://s.weibo.com/weibo?q=%E5%A4%96%E6%98%9F%E4%BA%BA&t=31&band_rank=8&Refer=top)<br />
 9. [只有广东人是真心想救屈原的](https://s.weibo.com/weibo?q=%E5%8F%AA%E6%9C%89%E5%B9%BF%E4%B8%9C%E4%BA%BA%E6%98%AF%E7%9C%9F%E5%BF%83%E6%83%B3%E6%95%91%E5%B1%88%E5%8E%9F%E7%9A%84&t=31&band_rank=9&Refer=top)<br />
 
