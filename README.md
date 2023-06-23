@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 11:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 11:18:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [柳智敏](https://s.weibo.com/weibo?q=%E6%9F%B3%E6%99%BA%E6%95%8F&t=31&band_rank=6&Refer=top)<br />
 7. [日本将强制公布艺人真实身份](https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%B0%86%E5%BC%BA%E5%88%B6%E5%85%AC%E5%B8%83%E8%89%BA%E4%BA%BA%E7%9C%9F%E5%AE%9E%E8%BA%AB%E4%BB%BD&t=31&band_rank=7&Refer=top)<br />
 8. [泰坦尼克号导演表达震惊](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7%E5%AF%BC%E6%BC%94%E8%A1%A8%E8%BE%BE%E9%9C%87%E6%83%8A%23&t=31&band_rank=8&Refer=top)<br />
-9. [Angelababy白鹿起床素颜状态](https://s.weibo.com/weibo?q=%23Angelababy%E7%99%BD%E9%B9%BF%E8%B5%B7%E5%BA%8A%E7%B4%A0%E9%A2%9C%E7%8A%B6%E6%80%81%23&t=31&band_rank=9&Refer=top)<br />
+9. [吴磊回应新疆骑行路人打招呼](https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A3%8A%E5%9B%9E%E5%BA%94%E6%96%B0%E7%96%86%E9%AA%91%E8%A1%8C%E8%B7%AF%E4%BA%BA%E6%89%93%E6%8B%9B%E5%91%BC%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -18,11 +18,11 @@
 2. [美国失联深海潜水器发生「灾难性内爆」，5 名乘员死亡，「内爆」是如何发生的？此次事故将产生哪些影响？](https://www.zhihu.com/question/608085455)<br />
 3. [日本 200 多所大学或因缺少生源倒闭，多所大学停止招生，日本人口连续 12 年减少，将产生哪些影响？](https://www.zhihu.com/question/607979062)<br />
 4. [发改委与德国宝马、奔驰、大众汽车签署合作意向书，共同推动新能源汽车研发创新和推广应用，如何解读？](https://www.zhihu.com/question/607897726)<br />
-5. [银川政府表示尽快查明爆炸事故原因，立即开展为期一个月的安全生产大排查大整治行动，还有哪些信息值得关注？](https://www.zhihu.com/question/608017964)<br />
+5. []()<br />
 6. [在感情里，真诚是「必杀技」还是「杀死自己的必杀技」？](https://www.zhihu.com/question/599386066)<br />
 7. [家长花重金把差生放在重点中学尖子班，这样做孩子是否能够考出优异成绩？为什么？](https://www.zhihu.com/question/598857377)<br />
-8. []()<br />
-9. [计算机是最难的工科吗？](https://www.zhihu.com/question/593585695)<br />
+8. [银川政府表示尽快查明爆炸事故原因，立即开展为期一个月的安全生产大排查大整治行动，还有哪些信息值得关注？](https://www.zhihu.com/question/608017964)<br />
+9. []()<br />
 
 > 百度  
 
@@ -31,10 +31,10 @@
 3. [泰坦号观光艇内爆 5名乘员死亡](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9D%A6%E5%8F%B7%E8%A7%82%E5%85%89%E8%89%87%E5%86%85%E7%88%86+5%E5%90%8D%E4%B9%98%E5%91%98%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [文博日历丨古人怎么过端午](https://www.baidu.com/s?wd=%E6%96%87%E5%8D%9A%E6%97%A5%E5%8E%86%E4%B8%A8%E5%8F%A4%E4%BA%BA%E6%80%8E%E4%B9%88%E8%BF%87%E7%AB%AF%E5%8D%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [成都上空现UFO？学者：或为火流星](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E4%B8%8A%E7%A9%BA%E7%8E%B0UFO%EF%BC%9F%E5%AD%A6%E8%80%85%EF%BC%9A%E6%88%96%E4%B8%BA%E7%81%AB%E6%B5%81%E6%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [中国队U17垫底出局 回国就地解散](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%98%9FU17%E5%9E%AB%E5%BA%95%E5%87%BA%E5%B1%80+%E5%9B%9E%E5%9B%BD%E5%B0%B1%E5%9C%B0%E8%A7%A3%E6%95%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [热热热！多地今日最高温40度](https://www.baidu.com/s?wd=%E7%83%AD%E7%83%AD%E7%83%AD%EF%BC%81%E5%A4%9A%E5%9C%B0%E4%BB%8A%E6%97%A5%E6%9C%80%E9%AB%98%E6%B8%A940%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [41℃高温把盆里的衣服晒冒烟了](https://www.baidu.com/s?wd=41%E2%84%83%E9%AB%98%E6%B8%A9%E6%8A%8A%E7%9B%86%E9%87%8C%E7%9A%84%E8%A1%A3%E6%9C%8D%E6%99%92%E5%86%92%E7%83%9F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [日本将强制公布艺人真实身份](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%B0%86%E5%BC%BA%E5%88%B6%E5%85%AC%E5%B8%83%E8%89%BA%E4%BA%BA%E7%9C%9F%E5%AE%9E%E8%BA%AB%E4%BB%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [江西分数线公布](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [中国队U17垫底出局 回国就地解散](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%98%9FU17%E5%9E%AB%E5%BA%95%E5%87%BA%E5%B1%80+%E5%9B%9E%E5%9B%BD%E5%B0%B1%E5%9C%B0%E8%A7%A3%E6%95%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [热热热！多地今日最高温40度](https://www.baidu.com/s?wd=%E7%83%AD%E7%83%AD%E7%83%AD%EF%BC%81%E5%A4%9A%E5%9C%B0%E4%BB%8A%E6%97%A5%E6%9C%80%E9%AB%98%E6%B8%A940%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [41℃高温把盆里的衣服晒冒烟了](https://www.baidu.com/s?wd=41%E2%84%83%E9%AB%98%E6%B8%A9%E6%8A%8A%E7%9B%86%E9%87%8C%E7%9A%84%E8%A1%A3%E6%9C%8D%E6%99%92%E5%86%92%E7%83%9F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [泰坦号观光艇内爆 5名乘员死亡](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9D%A6%E5%8F%B7%E8%A7%82%E5%85%89%E8%89%87%E5%86%85%E7%88%86+5%E5%90%8D%E4%B9%98%E5%91%98%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [文博日历丨古人怎么过端午](https://www.baidu.com/s?wd=%E6%96%87%E5%8D%9A%E6%97%A5%E5%8E%86%E4%B8%A8%E5%8F%A4%E4%BA%BA%E6%80%8E%E4%B9%88%E8%BF%87%E7%AB%AF%E5%8D%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [成都上空现UFO？学者：或为火流星](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E4%B8%8A%E7%A9%BA%E7%8E%B0UFO%EF%BC%9F%E5%AD%A6%E8%80%85%EF%BC%9A%E6%88%96%E4%B8%BA%E7%81%AB%E6%B5%81%E6%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [中国队U17垫底出局 回国就地解散](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%98%9FU17%E5%9E%AB%E5%BA%95%E5%87%BA%E5%B1%80+%E5%9B%9E%E5%9B%BD%E5%B0%B1%E5%9C%B0%E8%A7%A3%E6%95%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [热热热！多地今日最高温40度](https://www.baidu.com/s?wd=%E7%83%AD%E7%83%AD%E7%83%AD%EF%BC%81%E5%A4%9A%E5%9C%B0%E4%BB%8A%E6%97%A5%E6%9C%80%E9%AB%98%E6%B8%A940%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [41℃高温把盆里的衣服晒冒烟了](https://www.baidu.com/s?wd=41%E2%84%83%E9%AB%98%E6%B8%A9%E6%8A%8A%E7%9B%86%E9%87%8C%E7%9A%84%E8%A1%A3%E6%9C%8D%E6%99%92%E5%86%92%E7%83%9F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [日本将强制公布艺人真实身份](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%B0%86%E5%BC%BA%E5%88%B6%E5%85%AC%E5%B8%83%E8%89%BA%E4%BA%BA%E7%9C%9F%E5%AE%9E%E8%BA%AB%E4%BB%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [江西分数线公布](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [中国队U17垫底出局 回国就地解散](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%98%9FU17%E5%9E%AB%E5%BA%95%E5%87%BA%E5%B1%80+%E5%9B%9E%E5%9B%BD%E5%B0%B1%E5%9C%B0%E8%A7%A3%E6%95%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [热热热！多地今日最高温40度](https://www.baidu.com/s?wd=%E7%83%AD%E7%83%AD%E7%83%AD%EF%BC%81%E5%A4%9A%E5%9C%B0%E4%BB%8A%E6%97%A5%E6%9C%80%E9%AB%98%E6%B8%A940%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [41℃高温把盆里的衣服晒冒烟了](https://www.baidu.com/s?wd=41%E2%84%83%E9%AB%98%E6%B8%A9%E6%8A%8A%E7%9B%86%E9%87%8C%E7%9A%84%E8%A1%A3%E6%9C%8D%E6%99%92%E5%86%92%E7%83%9F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
