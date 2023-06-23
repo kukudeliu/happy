@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 10:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 10:22:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [江西分数线](https://s.weibo.com/weibo?q=%E6%B1%9F%E8%A5%BF%E5%88%86%E6%95%B0%E7%BA%BF&t=31&band_rank=6&Refer=top)<br />
 7. [成都UFO](https://s.weibo.com/weibo?q=%E6%88%90%E9%83%BDUFO&t=31&band_rank=7&Refer=top)<br />
 8. [Angelababy白鹿起床素颜状态](https://s.weibo.com/weibo?q=%23Angelababy%E7%99%BD%E9%B9%BF%E8%B5%B7%E5%BA%8A%E7%B4%A0%E9%A2%9C%E7%8A%B6%E6%80%81%23&t=31&band_rank=8&Refer=top)<br />
-9. [高考查分](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86&t=31&band_rank=9&Refer=top)<br />
+9. [汪东城人品](https://s.weibo.com/weibo?q=%23%E6%B1%AA%E4%B8%9C%E5%9F%8E%E4%BA%BA%E5%93%81%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
