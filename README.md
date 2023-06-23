@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 12:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 13:00:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [青鸟](https://s.weibo.com/weibo?q=%E9%9D%92%E9%B8%9F&t=31&band_rank=6&Refer=top)<br />
 7. [莫迪往拜登夫人手里放了一颗7.5克拉绿钻](https://s.weibo.com/weibo?q=%23%E8%8E%AB%E8%BF%AA%E5%BE%80%E6%8B%9C%E7%99%BB%E5%A4%AB%E4%BA%BA%E6%89%8B%E9%87%8C%E6%94%BE%E4%BA%86%E4%B8%80%E9%A2%977.5%E5%85%8B%E6%8B%89%E7%BB%BF%E9%92%BB%23&t=31&band_rank=7&Refer=top)<br />
 8. [日本将强制公布艺人真实身份](https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%B0%86%E5%BC%BA%E5%88%B6%E5%85%AC%E5%B8%83%E8%89%BA%E4%BA%BA%E7%9C%9F%E5%AE%9E%E8%BA%AB%E4%BB%BD&t=31&band_rank=8&Refer=top)<br />
-9. [偷偷藏不住暗恋be](https://s.weibo.com/weibo?q=%23%E5%81%B7%E5%81%B7%E8%97%8F%E4%B8%8D%E4%BD%8F%E6%9A%97%E6%81%8Bbe%23&t=31&band_rank=9&Refer=top)<br />
+9. [分数线 砍一刀](https://s.weibo.com/weibo?q=%E5%88%86%E6%95%B0%E7%BA%BF%20%E7%A0%8D%E4%B8%80%E5%88%80&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
