@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 17:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 17:18:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [女子番茄吃多胃痛医生让喝可乐治疗](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%95%AA%E8%8C%84%E5%90%83%E5%A4%9A%E8%83%83%E7%97%9B%E5%8C%BB%E7%94%9F%E8%AE%A9%E5%96%9D%E5%8F%AF%E4%B9%90%E6%B2%BB%E7%96%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [银川爆炸事故第1晚顾客坐店外就餐](https://s.weibo.com/weibo?q=%23%E9%93%B6%E5%B7%9D%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E7%AC%AC1%E6%99%9A%E9%A1%BE%E5%AE%A2%E5%9D%90%E5%BA%97%E5%A4%96%E5%B0%B1%E9%A4%90%23&t=31&band_rank=7&Refer=top)<br />
 8. [高考分数线](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%23&t=31&band_rank=8&Refer=top)<br />
-9. [什么叫内爆](https://s.weibo.com/weibo?q=%E4%BB%80%E4%B9%88%E5%8F%AB%E5%86%85%E7%88%86&t=31&band_rank=9&Refer=top)<br />
+9. [白玉兰提名](https://s.weibo.com/weibo?q=%E7%99%BD%E7%8E%89%E5%85%B0%E6%8F%90%E5%90%8D&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -20,8 +20,8 @@
 4. [NBA 选秀大会：马刺状元签选择文班亚马，黄蜂选中米勒，如何看待他们的前景？](https://www.zhihu.com/question/608089914)<br />
 5. [140 元一根演唱会荧光棒成本仅 10 元，你对五月天演唱会的「天价」荧光棒有何看法？](https://www.zhihu.com/question/607116754)<br />
 6. [韩国环境部已批准「萨德」基地环评报告，基建工作将全面启动，「萨德」部署后将造成哪些影响？](https://www.zhihu.com/question/608002674)<br />
-7. [如何评价《黑镜》（Black Mirror）第六季第一集「Joan is awful」？](https://www.zhihu.com/question/606816407)<br />
-8. []()<br />
+7. []()<br />
+8. [如何评价《黑镜》（Black Mirror）第六季第一集「Joan is awful」？](https://www.zhihu.com/question/606816407)<br />
 9. [中国气象局启动高温四级应急响应，伴随高温而来的有哪些隐忧需要警惕、预防？](https://www.zhihu.com/question/608101451)<br />
 
 > 百度  
