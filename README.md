@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 11:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 11:02:02</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [在感情里，真诚是「必杀技」还是「杀死自己的必杀技」？](https://www.zhihu.com/question/599386066)<br />
 7. [家长花重金把差生放在重点中学尖子班，这样做孩子是否能够考出优异成绩？为什么？](https://www.zhihu.com/question/598857377)<br />
 8. []()<br />
-9. [怎样评价《菊与刀》?](https://www.zhihu.com/question/23983441)<br />
+9. [哪些恐龙的形象最初科学家弄错了？](https://www.zhihu.com/question/568017834)<br />
 
 > 百度  
 
