@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 21:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 21:38:01</h4></div>
 
 > 微博  
 
 1. [白玉兰颁奖](https://s.weibo.com/weibo?q=%23%E7%99%BD%E7%8E%89%E5%85%B0%E9%A2%81%E5%A5%96%23&t=31&band_rank=1&Refer=top)<br />
 2. [白玉兰奖单](https://s.weibo.com/weibo?q=%23%E7%99%BD%E7%8E%89%E5%85%B0%E5%A5%96%E5%8D%95%23&t=31&band_rank=2&Refer=top)<br />
 3. [北斗全球卫星导航系统星座部署完成三周年](https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%96%97%E5%85%A8%E7%90%83%E5%8D%AB%E6%98%9F%E5%AF%BC%E8%88%AA%E7%B3%BB%E7%BB%9F%E6%98%9F%E5%BA%A7%E9%83%A8%E7%BD%B2%E5%AE%8C%E6%88%90%E4%B8%89%E5%91%A8%E5%B9%B4%23&t=31&band_rank=3&Refer=top)<br />
-4. [男生高考查分584父子俩笑得合不拢嘴](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86584%E7%88%B6%E5%AD%90%E4%BF%A9%E7%AC%91%E5%BE%97%E5%90%88%E4%B8%8D%E6%8B%A2%E5%98%B4%23&t=31&band_rank=4&Refer=top)<br />
-5. [张译 张颂文](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%AF%91%20%E5%BC%A0%E9%A2%82%E6%96%87&t=31&band_rank=5&Refer=top)<br />
+4. [张译 张颂文](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%AF%91%20%E5%BC%A0%E9%A2%82%E6%96%87&t=31&band_rank=4&Refer=top)<br />
+5. [男生高考查分584父子俩笑得合不拢嘴](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86584%E7%88%B6%E5%AD%90%E4%BF%A9%E7%AC%91%E5%BE%97%E5%90%88%E4%B8%8D%E6%8B%A2%E5%98%B4%23&t=31&band_rank=5&Refer=top)<br />
 6. [朱一龙路演被观众扔东西](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E8%B7%AF%E6%BC%94%E8%A2%AB%E8%A7%82%E4%BC%97%E6%89%94%E4%B8%9C%E8%A5%BF%23&t=31&band_rank=6&Refer=top)<br />
 7. [刘丹白玉兰奖最佳女配角](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%B8%B9%E7%99%BD%E7%8E%89%E5%85%B0%E5%A5%96%E6%9C%80%E4%BD%B3%E5%A5%B3%E9%85%8D%E8%A7%92%23&t=31&band_rank=7&Refer=top)<br />
 8. [男生高考查分601激动满屋蹦跳](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86601%E6%BF%80%E5%8A%A8%E6%BB%A1%E5%B1%8B%E8%B9%A6%E8%B7%B3%23&t=31&band_rank=8&Refer=top)<br />
@@ -18,11 +18,11 @@
 2. [某一位同事被辞退了，明天就走了。今天给他分配任务不理我了，我错了吗？](https://www.zhihu.com/question/607636838)<br />
 3. [韩国环境部已批准「萨德」基地环评报告，基建工作将全面启动，「萨德」部署后将造成哪些影响？](https://www.zhihu.com/question/608002674)<br />
 4. [140 元一根演唱会荧光棒成本仅 10 元，你对五月天演唱会的「天价」荧光棒有何看法？](https://www.zhihu.com/question/607116754)<br />
-5. [「铁饭碗天菜」师范类专业还香吗？报考时应该选择什么科目？](https://www.zhihu.com/theater/93379)<br />
-6. [2023 LPL 夏季赛 JDG 2:0 击败 TES 八连胜稳坐联赛头名，如何评价这场比赛？](https://www.zhihu.com/question/608142653)<br />
-7. [北京多家银行房贷已下调 10 个基点，首套房贷利率降至 4.75％ ，将带来哪些利好？](https://www.zhihu.com/question/607787494)<br />
-8. [独孤求败、黄裳、斗酒僧、王重阳，武功如何排名？](https://www.zhihu.com/question/606542017)<br />
-9. [中考重要，还是高考重要?](https://www.zhihu.com/question/606716930)<br />
+5. [2023 LPL 夏季赛 JDG 2:0 击败 TES 八连胜稳坐联赛头名，如何评价这场比赛？](https://www.zhihu.com/question/608142653)<br />
+6. [北京多家银行房贷已下调 10 个基点，首套房贷利率降至 4.75％ ，将带来哪些利好？](https://www.zhihu.com/question/607787494)<br />
+7. [独孤求败、黄裳、斗酒僧、王重阳，武功如何排名？](https://www.zhihu.com/question/606542017)<br />
+8. [中考重要，还是高考重要?](https://www.zhihu.com/question/606716930)<br />
+9. [超导体电阻的倒数有多大？和葛立恒数相比呢？](https://www.zhihu.com/question/579943470)<br />
 
 > 百度  
 
