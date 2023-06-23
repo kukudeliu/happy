@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 14:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 14:44:01</h4></div>
 
 > 微博  
 
@@ -31,10 +31,10 @@
 3. [泰坦号观光艇内爆 5名乘员死亡](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9D%A6%E5%8F%B7%E8%A7%82%E5%85%89%E8%89%87%E5%86%85%E7%88%86+5%E5%90%8D%E4%B9%98%E5%91%98%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [文博日历丨古人怎么过端午](https://www.baidu.com/s?wd=%E6%96%87%E5%8D%9A%E6%97%A5%E5%8E%86%E4%B8%A8%E5%8F%A4%E4%BA%BA%E6%80%8E%E4%B9%88%E8%BF%87%E7%AB%AF%E5%8D%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [国语版《青鸟》毁童年](https://www.baidu.com/s?wd=%E5%9B%BD%E8%AF%AD%E7%89%88%E3%80%8A%E9%9D%92%E9%B8%9F%E3%80%8B%E6%AF%81%E7%AB%A5%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [薇娅雪梨背后公司纷纷买地盖楼](https://www.baidu.com/s?wd=%E8%96%87%E5%A8%85%E9%9B%AA%E6%A2%A8%E8%83%8C%E5%90%8E%E5%85%AC%E5%8F%B8%E7%BA%B7%E7%BA%B7%E4%B9%B0%E5%9C%B0%E7%9B%96%E6%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [内蒙体育生351分 握拳怒吼“上了”](https://www.baidu.com/s?wd=%E5%86%85%E8%92%99%E4%BD%93%E8%82%B2%E7%94%9F351%E5%88%86+%E6%8F%A1%E6%8B%B3%E6%80%92%E5%90%BC%E2%80%9C%E4%B8%8A%E4%BA%86%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [山东已出现43℃以上高温](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%B7%B2%E5%87%BA%E7%8E%B043%E2%84%83%E4%BB%A5%E4%B8%8A%E9%AB%98%E6%B8%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中国队U17垫底出局 回国就地解散](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%98%9FU17%E5%9E%AB%E5%BA%95%E5%87%BA%E5%B1%80+%E5%9B%9E%E5%9B%BD%E5%B0%B1%E5%9C%B0%E8%A7%A3%E6%95%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [山东已出现43℃以上高温](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%B7%B2%E5%87%BA%E7%8E%B043%E2%84%83%E4%BB%A5%E4%B8%8A%E9%AB%98%E6%B8%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [中国队U17垫底出局 回国就地解散](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%98%9FU17%E5%9E%AB%E5%BA%95%E5%87%BA%E5%B1%80+%E5%9B%9E%E5%9B%BD%E5%B0%B1%E5%9C%B0%E8%A7%A3%E6%95%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [薇娅雪梨背后公司纷纷买地盖楼](https://www.baidu.com/s?wd=%E8%96%87%E5%A8%85%E9%9B%AA%E6%A2%A8%E8%83%8C%E5%90%8E%E5%85%AC%E5%8F%B8%E7%BA%B7%E7%BA%B7%E4%B9%B0%E5%9C%B0%E7%9B%96%E6%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [高考查分场面代入感太强](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86%E5%9C%BA%E9%9D%A2%E4%BB%A3%E5%85%A5%E6%84%9F%E5%A4%AA%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [泰坦号观光艇内爆 5名乘员死亡](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9D%A6%E5%8F%B7%E8%A7%82%E5%85%89%E8%89%87%E5%86%85%E7%88%86+5%E5%90%8D%E4%B9%98%E5%91%98%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [文博日历丨古人怎么过端午](https://www.baidu.com/s?wd=%E6%96%87%E5%8D%9A%E6%97%A5%E5%8E%86%E4%B8%A8%E5%8F%A4%E4%BA%BA%E6%80%8E%E4%B9%88%E8%BF%87%E7%AB%AF%E5%8D%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [国语版《青鸟》毁童年](https://www.baidu.com/s?wd=%E5%9B%BD%E8%AF%AD%E7%89%88%E3%80%8A%E9%9D%92%E9%B8%9F%E3%80%8B%E6%AF%81%E7%AB%A5%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [薇娅雪梨背后公司纷纷买地盖楼](https://www.baidu.com/s?wd=%E8%96%87%E5%A8%85%E9%9B%AA%E6%A2%A8%E8%83%8C%E5%90%8E%E5%85%AC%E5%8F%B8%E7%BA%B7%E7%BA%B7%E4%B9%B0%E5%9C%B0%E7%9B%96%E6%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [内蒙体育生351分 握拳怒吼“上了”](https://www.baidu.com/s?wd=%E5%86%85%E8%92%99%E4%BD%93%E8%82%B2%E7%94%9F351%E5%88%86+%E6%8F%A1%E6%8B%B3%E6%80%92%E5%90%BC%E2%80%9C%E4%B8%8A%E4%BA%86%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [山东已出现43℃以上高温](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%B7%B2%E5%87%BA%E7%8E%B043%E2%84%83%E4%BB%A5%E4%B8%8A%E9%AB%98%E6%B8%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中国队U17垫底出局 回国就地解散](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%98%9FU17%E5%9E%AB%E5%BA%95%E5%87%BA%E5%B1%80+%E5%9B%9E%E5%9B%BD%E5%B0%B1%E5%9C%B0%E8%A7%A3%E6%95%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [山东已出现43℃以上高温](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%B7%B2%E5%87%BA%E7%8E%B043%E2%84%83%E4%BB%A5%E4%B8%8A%E9%AB%98%E6%B8%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [中国队U17垫底出局 回国就地解散](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%98%9FU17%E5%9E%AB%E5%BA%95%E5%87%BA%E5%B1%80+%E5%9B%9E%E5%9B%BD%E5%B0%B1%E5%9C%B0%E8%A7%A3%E6%95%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [薇娅雪梨背后公司纷纷买地盖楼](https://www.baidu.com/s?wd=%E8%96%87%E5%A8%85%E9%9B%AA%E6%A2%A8%E8%83%8C%E5%90%8E%E5%85%AC%E5%8F%B8%E7%BA%B7%E7%BA%B7%E4%B9%B0%E5%9C%B0%E7%9B%96%E6%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [高考查分场面代入感太强](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86%E5%9C%BA%E9%9D%A2%E4%BB%A3%E5%85%A5%E6%84%9F%E5%A4%AA%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
