@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 22:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 22:42:02</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [北京多家银行房贷已下调 10 个基点，首套房贷利率降至 4.75％ ，将带来哪些利好？](https://www.zhihu.com/question/607787494)<br />
 6. [拜登会见莫迪，谈及美印关系硬扯中国，哪些信息值得关注？美印再次拥抱，对中国威胁几何？](https://www.zhihu.com/question/608121348)<br />
 7. [电影《消失的她》有哪些精彩看点？](https://www.zhihu.com/question/604320266)<br />
-8. [如果你有 200 万，你会辞职躺平吗？](https://www.zhihu.com/question/601684334)<br />
-9. [如何有效地辅导孩子写作业？](https://www.zhihu.com/question/269923468)<br />
+8. [如何有效地辅导孩子写作业？](https://www.zhihu.com/question/269923468)<br />
+9. [6 月 22 日比特币大涨，站上 30000 美元关口，为近两月以来首次，释放了哪些信号？](https://www.zhihu.com/question/607964858)<br />
 
 > 百度  
 
