@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 20:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 20:01:01</h4></div>
 
 > 微博  
 
@@ -18,11 +18,11 @@
 2. [某一位同事被辞退了，明天就走了。今天给他分配任务不理我了，我错了吗？](https://www.zhihu.com/question/607636838)<br />
 3. [韩国环境部已批准「萨德」基地环评报告，基建工作将全面启动，「萨德」部署后将造成哪些影响？](https://www.zhihu.com/question/608002674)<br />
 4. [140 元一根演唱会荧光棒成本仅 10 元，你对五月天演唱会的「天价」荧光棒有何看法？](https://www.zhihu.com/question/607116754)<br />
-5. [高考考不上是复读还是上大专?](https://www.zhihu.com/question/607821406)<br />
-6. [唐末时重武的风气是怎么一步步被纠正过来的？](https://www.zhihu.com/question/607040290)<br />
-7. []()<br />
+5. [「铁饭碗天菜」师范类专业还香吗？报考时应该选择什么科目？](https://www.zhihu.com/theater/93379)<br />
+6. [高考考不上是复读还是上大专?](https://www.zhihu.com/question/607821406)<br />
+7. [唐末时重武的风气是怎么一步步被纠正过来的？](https://www.zhihu.com/question/607040290)<br />
 8. []()<br />
-9. [iOS 的墓碑机制这么厉害，为什么 Windows 、 Linux 不采用呢？](https://www.zhihu.com/question/604373860)<br />
+9. []()<br />
 
 > 百度  
 
