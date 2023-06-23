@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 13:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 14:00:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [景区网红大雁被游客踢中要害离世](https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%8C%BA%E7%BD%91%E7%BA%A2%E5%A4%A7%E9%9B%81%E8%A2%AB%E6%B8%B8%E5%AE%A2%E8%B8%A2%E4%B8%AD%E8%A6%81%E5%AE%B3%E7%A6%BB%E4%B8%96%23&t=31&band_rank=5&Refer=top)<br />
 6. [青鸟改编 难评](https://s.weibo.com/weibo?q=%E9%9D%92%E9%B8%9F%E6%94%B9%E7%BC%96%20%E9%9A%BE%E8%AF%84&t=31&band_rank=6&Refer=top)<br />
 7. [成都UFO](https://s.weibo.com/weibo?q=%E6%88%90%E9%83%BDUFO&t=31&band_rank=7&Refer=top)<br />
-8. [泰坦号观光艇内爆5名乘员已死亡](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9D%A6%E5%8F%B7%E8%A7%82%E5%85%89%E8%89%87%E5%86%85%E7%88%865%E5%90%8D%E4%B9%98%E5%91%98%E5%B7%B2%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [盆栽哥Jennie合作曲上线](https://s.weibo.com/weibo?q=%23%E7%9B%86%E6%A0%BD%E5%93%A5Jennie%E5%90%88%E4%BD%9C%E6%9B%B2%E4%B8%8A%E7%BA%BF%23&t=31&band_rank=9&Refer=top)<br />
+8. [盆栽哥Jennie合作曲上线](https://s.weibo.com/weibo?q=%23%E7%9B%86%E6%A0%BD%E5%93%A5Jennie%E5%90%88%E4%BD%9C%E6%9B%B2%E4%B8%8A%E7%BA%BF%23&t=31&band_rank=8&Refer=top)<br />
+9. [泰坦号观光艇内爆5名乘员已死亡](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9D%A6%E5%8F%B7%E8%A7%82%E5%85%89%E8%89%87%E5%86%85%E7%88%865%E5%90%8D%E4%B9%98%E5%91%98%E5%B7%B2%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
