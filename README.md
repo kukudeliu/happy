@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 22:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 22:21:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [雷佳音 白玉兰视帝](https://s.weibo.com/weibo?q=%E9%9B%B7%E4%BD%B3%E9%9F%B3%20%E7%99%BD%E7%8E%89%E5%85%B0%E8%A7%86%E5%B8%9D&t=31&band_rank=4&Refer=top)<br />
 5. [白玉兰颁奖](https://s.weibo.com/weibo?q=%23%E7%99%BD%E7%8E%89%E5%85%B0%E9%A2%81%E5%A5%96%23&t=31&band_rank=5&Refer=top)<br />
 6. [白敬亭宋轶耳朵都红了](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6%E8%80%B3%E6%9C%B5%E9%83%BD%E7%BA%A2%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [白玉兰奖单](https://s.weibo.com/weibo?q=%23%E7%99%BD%E7%8E%89%E5%85%B0%E5%A5%96%E5%8D%95%23&t=31&band_rank=7&Refer=top)<br />
-8. [男生高考查分584父子俩笑得合不拢嘴](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86584%E7%88%B6%E5%AD%90%E4%BF%A9%E7%AC%91%E5%BE%97%E5%90%88%E4%B8%8D%E6%8B%A2%E5%98%B4%23&t=31&band_rank=8&Refer=top)<br />
-9. [梁实第27次高考查分](https://s.weibo.com/weibo?q=%23%E6%A2%81%E5%AE%9E%E7%AC%AC27%E6%AC%A1%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86%23&t=31&band_rank=9&Refer=top)<br />
+7. [男生高考查分584父子俩笑得合不拢嘴](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86584%E7%88%B6%E5%AD%90%E4%BF%A9%E7%AC%91%E5%BE%97%E5%90%88%E4%B8%8D%E6%8B%A2%E5%98%B4%23&t=31&band_rank=7&Refer=top)<br />
+8. [梁实第27次高考查分](https://s.weibo.com/weibo?q=%23%E6%A2%81%E5%AE%9E%E7%AC%AC27%E6%AC%A1%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [外星人](https://s.weibo.com/weibo?q=%E5%A4%96%E6%98%9F%E4%BA%BA&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -20,9 +20,9 @@
 4. [2023 LPL 夏季赛 JDG 2:0 击败 TES 八连胜稳坐联赛头名，如何评价这场比赛？](https://www.zhihu.com/question/608142653)<br />
 5. [2023 江西高考分数线公布，理工一本 518 文史一本 533，如何评价今年的分数线？](https://www.zhihu.com/question/607974350)<br />
 6. [北京多家银行房贷已下调 10 个基点，首套房贷利率降至 4.75％ ，将带来哪些利好？](https://www.zhihu.com/question/607787494)<br />
-7. [140 元一根演唱会荧光棒成本仅 10 元，你对五月天演唱会的「天价」荧光棒有何看法？](https://www.zhihu.com/question/607116754)<br />
-8. [拜登会见莫迪，谈及美印关系硬扯中国，哪些信息值得关注？美印再次拥抱，对中国威胁几何？](https://www.zhihu.com/question/608121348)<br />
-9. [电影《消失的她》有哪些精彩看点？](https://www.zhihu.com/question/604320266)<br />
+7. [拜登会见莫迪，谈及美印关系硬扯中国，哪些信息值得关注？美印再次拥抱，对中国威胁几何？](https://www.zhihu.com/question/608121348)<br />
+8. [电影《消失的她》有哪些精彩看点？](https://www.zhihu.com/question/604320266)<br />
+9. [如果你有 200 万，你会辞职躺平吗？](https://www.zhihu.com/question/601684334)<br />
 
 > 百度  
 
