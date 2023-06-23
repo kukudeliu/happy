@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 18:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 18:14:01</h4></div>
 
 > 微博  
 
@@ -30,11 +30,11 @@
 2. [高考查分场面代入感太强](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86%E5%9C%BA%E9%9D%A2%E4%BB%A3%E5%85%A5%E6%84%9F%E5%A4%AA%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [泰坦号前乘客自曝下潜是自杀之旅](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9D%A6%E5%8F%B7%E5%89%8D%E4%B9%98%E5%AE%A2%E8%87%AA%E6%9B%9D%E4%B8%8B%E6%BD%9C%E6%98%AF%E8%87%AA%E6%9D%80%E4%B9%8B%E6%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [五彩丝线祝高“粽”](https://www.baidu.com/s?wd=%E4%BA%94%E5%BD%A9%E4%B8%9D%E7%BA%BF%E7%A5%9D%E9%AB%98%E2%80%9C%E7%B2%BD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [白玉兰奖颁奖典礼](https://www.baidu.com/s?wd=%E7%99%BD%E7%8E%89%E5%85%B0%E5%A5%96%E9%A2%81%E5%A5%96%E5%85%B8%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [董事长开车进金山岭长城被拒强拆大门](https://www.baidu.com/s?wd=%E8%91%A3%E4%BA%8B%E9%95%BF%E5%BC%80%E8%BD%A6%E8%BF%9B%E9%87%91%E5%B1%B1%E5%B2%AD%E9%95%BF%E5%9F%8E%E8%A2%AB%E6%8B%92%E5%BC%BA%E6%8B%86%E5%A4%A7%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子番茄吃多胃痛医生让喝可乐](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%95%AA%E8%8C%84%E5%90%83%E5%A4%9A%E8%83%83%E7%97%9B%E5%8C%BB%E7%94%9F%E8%AE%A9%E5%96%9D%E5%8F%AF%E4%B9%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [董事长开车进长城强拆大门?官方调查](https://www.baidu.com/s?wd=%E8%91%A3%E4%BA%8B%E9%95%BF%E5%BC%80%E8%BD%A6%E8%BF%9B%E9%95%BF%E5%9F%8E%E5%BC%BA%E6%8B%86%E5%A4%A7%E9%97%A8%3F%E5%AE%98%E6%96%B9%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [女子番茄吃多胃痛医生让喝可乐](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%95%AA%E8%8C%84%E5%90%83%E5%A4%9A%E8%83%83%E7%97%9B%E5%8C%BB%E7%94%9F%E8%AE%A9%E5%96%9D%E5%8F%AF%E4%B9%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [成都上空现UFO？学者：或为火流星](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E4%B8%8A%E7%A9%BA%E7%8E%B0UFO%EF%BC%9F%E5%AD%A6%E8%80%85%EF%BC%9A%E6%88%96%E4%B8%BA%E7%81%AB%E6%B5%81%E6%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [端午这样拍泰酷辣](https://www.baidu.com/s?wd=%E7%AB%AF%E5%8D%88%E8%BF%99%E6%A0%B7%E6%8B%8D%E6%B3%B0%E9%85%B7%E8%BE%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [钱塘江鱼鳞潮和交叉潮同时出现](https://www.baidu.com/s?wd=%E9%92%B1%E5%A1%98%E6%B1%9F%E9%B1%BC%E9%B3%9E%E6%BD%AE%E5%92%8C%E4%BA%A4%E5%8F%89%E6%BD%AE%E5%90%8C%E6%97%B6%E5%87%BA%E7%8E%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [上海高考分数线](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -42,8 +42,8 @@
 2. [高考查分场面代入感太强](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86%E5%9C%BA%E9%9D%A2%E4%BB%A3%E5%85%A5%E6%84%9F%E5%A4%AA%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [泰坦号前乘客自曝下潜是自杀之旅](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9D%A6%E5%8F%B7%E5%89%8D%E4%B9%98%E5%AE%A2%E8%87%AA%E6%9B%9D%E4%B8%8B%E6%BD%9C%E6%98%AF%E8%87%AA%E6%9D%80%E4%B9%8B%E6%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [五彩丝线祝高“粽”](https://www.baidu.com/s?wd=%E4%BA%94%E5%BD%A9%E4%B8%9D%E7%BA%BF%E7%A5%9D%E9%AB%98%E2%80%9C%E7%B2%BD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [白玉兰奖颁奖典礼](https://www.baidu.com/s?wd=%E7%99%BD%E7%8E%89%E5%85%B0%E5%A5%96%E9%A2%81%E5%A5%96%E5%85%B8%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [董事长开车进金山岭长城被拒强拆大门](https://www.baidu.com/s?wd=%E8%91%A3%E4%BA%8B%E9%95%BF%E5%BC%80%E8%BD%A6%E8%BF%9B%E9%87%91%E5%B1%B1%E5%B2%AD%E9%95%BF%E5%9F%8E%E8%A2%AB%E6%8B%92%E5%BC%BA%E6%8B%86%E5%A4%A7%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子番茄吃多胃痛医生让喝可乐](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%95%AA%E8%8C%84%E5%90%83%E5%A4%9A%E8%83%83%E7%97%9B%E5%8C%BB%E7%94%9F%E8%AE%A9%E5%96%9D%E5%8F%AF%E4%B9%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [董事长开车进长城强拆大门?官方调查](https://www.baidu.com/s?wd=%E8%91%A3%E4%BA%8B%E9%95%BF%E5%BC%80%E8%BD%A6%E8%BF%9B%E9%95%BF%E5%9F%8E%E5%BC%BA%E6%8B%86%E5%A4%A7%E9%97%A8%3F%E5%AE%98%E6%96%B9%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [女子番茄吃多胃痛医生让喝可乐](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%95%AA%E8%8C%84%E5%90%83%E5%A4%9A%E8%83%83%E7%97%9B%E5%8C%BB%E7%94%9F%E8%AE%A9%E5%96%9D%E5%8F%AF%E4%B9%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [成都上空现UFO？学者：或为火流星](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E4%B8%8A%E7%A9%BA%E7%8E%B0UFO%EF%BC%9F%E5%AD%A6%E8%80%85%EF%BC%9A%E6%88%96%E4%B8%BA%E7%81%AB%E6%B5%81%E6%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [端午这样拍泰酷辣](https://www.baidu.com/s?wd=%E7%AB%AF%E5%8D%88%E8%BF%99%E6%A0%B7%E6%8B%8D%E6%B3%B0%E9%85%B7%E8%BE%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [钱塘江鱼鳞潮和交叉潮同时出现](https://www.baidu.com/s?wd=%E9%92%B1%E5%A1%98%E6%B1%9F%E9%B1%BC%E9%B3%9E%E6%BD%AE%E5%92%8C%E4%BA%A4%E5%8F%89%E6%BD%AE%E5%90%8C%E6%97%B6%E5%87%BA%E7%8E%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [上海高考分数线](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
