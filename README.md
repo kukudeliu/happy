@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 15:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 15:38:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [发改委与德国宝马、奔驰、大众汽车签署合作意向书，共同推动新能源汽车研发创新和推广应用，如何解读？](https://www.zhihu.com/question/607897726)<br />
 6. [如果国足有阿根廷的水平，咱们的文化输出水平会大大提升吗？](https://www.zhihu.com/question/607273653)<br />
 7. [各地 2023 高考分数线陆续公布，如何看待今年的分数线，与去年相比有何变化？](https://www.zhihu.com/question/607974548)<br />
-8. [中国气象局启动高温四级应急响应，伴随高温而来的有哪些隐忧需要警惕、预防？](https://www.zhihu.com/question/608101451)<br />
-9. [LED 灯是长时间亮着容易坏，还是反复开关容易坏？](https://www.zhihu.com/question/601205504)<br />
+8. []()<br />
+9. [中国气象局启动高温四级应急响应，伴随高温而来的有哪些隐忧需要警惕、预防？](https://www.zhihu.com/question/608101451)<br />
 
 > 百度  
 
@@ -31,9 +31,9 @@
 3. [国语版《青鸟》毁童年](https://www.baidu.com/s?wd=%E5%9B%BD%E8%AF%AD%E7%89%88%E3%80%8A%E9%9D%92%E9%B8%9F%E3%80%8B%E6%AF%81%E7%AB%A5%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [文博日历丨古人怎么过端午](https://www.baidu.com/s?wd=%E6%96%87%E5%8D%9A%E6%97%A5%E5%8E%86%E4%B8%A8%E5%8F%A4%E4%BA%BA%E6%80%8E%E4%B9%88%E8%BF%87%E7%AB%AF%E5%8D%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [辽宁一钢铁厂烫伤事故致4死5伤](https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E4%B8%80%E9%92%A2%E9%93%81%E5%8E%82%E7%83%AB%E4%BC%A4%E4%BA%8B%E6%95%85%E8%87%B44%E6%AD%BB5%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [这粽子是犯了天条吗被绑成这样](https://www.baidu.com/s?wd=%E8%BF%99%E7%B2%BD%E5%AD%90%E6%98%AF%E7%8A%AF%E4%BA%86%E5%A4%A9%E6%9D%A1%E5%90%97%E8%A2%AB%E7%BB%91%E6%88%90%E8%BF%99%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [蔡少芬你不要再叫了](https://www.baidu.com/s?wd=%E8%94%A1%E5%B0%91%E8%8A%AC%E4%BD%A0%E4%B8%8D%E8%A6%81%E5%86%8D%E5%8F%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [又一位南京大屠杀幸存者去世](https://www.baidu.com/s?wd=%E5%8F%88%E4%B8%80%E4%BD%8D%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%9D%80%E5%B9%B8%E5%AD%98%E8%80%85%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [蔡少芬你不要再叫了](https://www.baidu.com/s?wd=%E8%94%A1%E5%B0%91%E8%8A%AC%E4%BD%A0%E4%B8%8D%E8%A6%81%E5%86%8D%E5%8F%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [这粽子是犯了天条吗被绑成这样](https://www.baidu.com/s?wd=%E8%BF%99%E7%B2%BD%E5%AD%90%E6%98%AF%E7%8A%AF%E4%BA%86%E5%A4%A9%E6%9D%A1%E5%90%97%E8%A2%AB%E7%BB%91%E6%88%90%E8%BF%99%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [上海高考分数线](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [泰坦号观光艇内爆 5名乘员死亡](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9D%A6%E5%8F%B7%E8%A7%82%E5%85%89%E8%89%87%E5%86%85%E7%88%86+5%E5%90%8D%E4%B9%98%E5%91%98%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -43,7 +43,7 @@
 3. [国语版《青鸟》毁童年](https://www.baidu.com/s?wd=%E5%9B%BD%E8%AF%AD%E7%89%88%E3%80%8A%E9%9D%92%E9%B8%9F%E3%80%8B%E6%AF%81%E7%AB%A5%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [文博日历丨古人怎么过端午](https://www.baidu.com/s?wd=%E6%96%87%E5%8D%9A%E6%97%A5%E5%8E%86%E4%B8%A8%E5%8F%A4%E4%BA%BA%E6%80%8E%E4%B9%88%E8%BF%87%E7%AB%AF%E5%8D%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [辽宁一钢铁厂烫伤事故致4死5伤](https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E4%B8%80%E9%92%A2%E9%93%81%E5%8E%82%E7%83%AB%E4%BC%A4%E4%BA%8B%E6%95%85%E8%87%B44%E6%AD%BB5%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [这粽子是犯了天条吗被绑成这样](https://www.baidu.com/s?wd=%E8%BF%99%E7%B2%BD%E5%AD%90%E6%98%AF%E7%8A%AF%E4%BA%86%E5%A4%A9%E6%9D%A1%E5%90%97%E8%A2%AB%E7%BB%91%E6%88%90%E8%BF%99%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [蔡少芬你不要再叫了](https://www.baidu.com/s?wd=%E8%94%A1%E5%B0%91%E8%8A%AC%E4%BD%A0%E4%B8%8D%E8%A6%81%E5%86%8D%E5%8F%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [又一位南京大屠杀幸存者去世](https://www.baidu.com/s?wd=%E5%8F%88%E4%B8%80%E4%BD%8D%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%9D%80%E5%B9%B8%E5%AD%98%E8%80%85%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [蔡少芬你不要再叫了](https://www.baidu.com/s?wd=%E8%94%A1%E5%B0%91%E8%8A%AC%E4%BD%A0%E4%B8%8D%E8%A6%81%E5%86%8D%E5%8F%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [这粽子是犯了天条吗被绑成这样](https://www.baidu.com/s?wd=%E8%BF%99%E7%B2%BD%E5%AD%90%E6%98%AF%E7%8A%AF%E4%BA%86%E5%A4%A9%E6%9D%A1%E5%90%97%E8%A2%AB%E7%BB%91%E6%88%90%E8%BF%99%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [上海高考分数线](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [泰坦号观光艇内爆 5名乘员死亡](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9D%A6%E5%8F%B7%E8%A7%82%E5%85%89%E8%89%87%E5%86%85%E7%88%86+5%E5%90%8D%E4%B9%98%E5%91%98%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
