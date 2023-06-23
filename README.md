@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 10:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 10:46:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [日本将强制公布艺人真实身份](https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%B0%86%E5%BC%BA%E5%88%B6%E5%85%AC%E5%B8%83%E8%89%BA%E4%BA%BA%E7%9C%9F%E5%AE%9E%E8%BA%AB%E4%BB%BD&t=31&band_rank=6&Refer=top)<br />
 7. [成都UFO](https://s.weibo.com/weibo?q=%E6%88%90%E9%83%BDUFO&t=31&band_rank=7&Refer=top)<br />
 8. [江西分数线](https://s.weibo.com/weibo?q=%E6%B1%9F%E8%A5%BF%E5%88%86%E6%95%B0%E7%BA%BF&t=31&band_rank=8&Refer=top)<br />
-9. [Angelababy白鹿起床素颜状态](https://s.weibo.com/weibo?q=%23Angelababy%E7%99%BD%E9%B9%BF%E8%B5%B7%E5%BA%8A%E7%B4%A0%E9%A2%9C%E7%8A%B6%E6%80%81%23&t=31&band_rank=9&Refer=top)<br />
+9. [泰坦尼克号导演表达震惊](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7%E5%AF%BC%E6%BC%94%E8%A1%A8%E8%BE%BE%E9%9C%87%E6%83%8A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
