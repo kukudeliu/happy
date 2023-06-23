@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 16:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 16:39:01</h4></div>
 
 > 微博  
 
@@ -17,10 +17,10 @@
 1. [扎克伯格和马斯克线上约架，马斯克称准备来一场笼斗，扎克伯格回应称「地址发我」，如何看待此事？](https://www.zhihu.com/question/608012861)<br />
 2. [美国失联深海潜水器发生「灾难性内爆」，5 名乘员死亡，「内爆」是如何发生的？此次事故将产生哪些影响？](https://www.zhihu.com/question/608085455)<br />
 3. [某一位同事被辞退了，明天就走了。今天给他分配任务不理我了，我错了吗？](https://www.zhihu.com/question/607636838)<br />
-4. [日本 200 多所大学或因缺少生源倒闭，多所大学停止招生，日本人口连续 12 年减少，将产生哪些影响？](https://www.zhihu.com/question/607979062)<br />
-5. [NBA 选秀大会：马刺状元签选择文班亚马，黄蜂选中米勒，如何看待他们的前景？](https://www.zhihu.com/question/608089914)<br />
-6. [中国气象局启动高温四级应急响应，伴随高温而来的有哪些隐忧需要警惕、预防？](https://www.zhihu.com/question/608101451)<br />
-7. [140 元一根演唱会荧光棒成本仅 10 元，你对五月天演唱会的天价荧光棒有何看法？](https://www.zhihu.com/question/607116754)<br />
+4. [NBA 选秀大会：马刺状元签选择文班亚马，黄蜂选中米勒，如何看待他们的前景？](https://www.zhihu.com/question/608089914)<br />
+5. [日本 200 多所大学或因缺少生源倒闭，多所大学停止招生，日本人口连续 12 年减少，将产生哪些影响？](https://www.zhihu.com/question/607979062)<br />
+6. [140 元一根演唱会荧光棒成本仅 10 元，你对五月天演唱会的天价荧光棒有何看法？](https://www.zhihu.com/question/607116754)<br />
+7. [中国气象局启动高温四级应急响应，伴随高温而来的有哪些隐忧需要警惕、预防？](https://www.zhihu.com/question/608101451)<br />
 8. [如何评价《黑镜》（Black Mirror）第六季第一集「Joan is awful」？](https://www.zhihu.com/question/606816407)<br />
 9. [2024 年将实行新高考地区的高考生，今年没考好还建议复读吗？](https://www.zhihu.com/question/605231748)<br />
 
