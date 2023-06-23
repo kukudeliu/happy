@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 22:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 22:50:01</h4></div>
 
 > 微博  
 
@@ -33,7 +33,7 @@
 5. [银川31死爆炸事故伤亡人员身份核定](https://www.baidu.com/s?wd=%E9%93%B6%E5%B7%9D31%E6%AD%BB%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E4%BC%A4%E4%BA%A1%E4%BA%BA%E5%91%98%E8%BA%AB%E4%BB%BD%E6%A0%B8%E5%AE%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [梁实第27次高考424分 未达二本线](https://www.baidu.com/s?wd=%E6%A2%81%E5%AE%9E%E7%AC%AC27%E6%AC%A1%E9%AB%98%E8%80%83424%E5%88%86+%E6%9C%AA%E8%BE%BE%E4%BA%8C%E6%9C%AC%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [赵丽颖三次陪跑](https://www.baidu.com/s?wd=%E8%B5%B5%E4%B8%BD%E9%A2%96%E4%B8%89%E6%AC%A1%E9%99%AA%E8%B7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [范丞丞看到李晨摔倒反应](https://www.baidu.com/s?wd=%E8%8C%83%E4%B8%9E%E4%B8%9E%E7%9C%8B%E5%88%B0%E6%9D%8E%E6%99%A8%E6%91%94%E5%80%92%E5%8F%8D%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [马伊琍 俊生和凌玲祝福你们](https://www.baidu.com/s?wd=%E9%A9%AC%E4%BC%8A%E7%90%8D+%E4%BF%8A%E7%94%9F%E5%92%8C%E5%87%8C%E7%8E%B2%E7%A5%9D%E7%A6%8F%E4%BD%A0%E4%BB%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [外星人或利用超新星爆炸引人类注意](https://www.baidu.com/s?wd=%E5%A4%96%E6%98%9F%E4%BA%BA%E6%88%96%E5%88%A9%E7%94%A8%E8%B6%85%E6%96%B0%E6%98%9F%E7%88%86%E7%82%B8%E5%BC%95%E4%BA%BA%E7%B1%BB%E6%B3%A8%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [银川31死爆炸事故伤亡人员身份核定](https://www.baidu.com/s?wd=%E9%93%B6%E5%B7%9D31%E6%AD%BB%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E4%BC%A4%E4%BA%A1%E4%BA%BA%E5%91%98%E8%BA%AB%E4%BB%BD%E6%A0%B8%E5%AE%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [梁实第27次高考424分 未达二本线](https://www.baidu.com/s?wd=%E6%A2%81%E5%AE%9E%E7%AC%AC27%E6%AC%A1%E9%AB%98%E8%80%83424%E5%88%86+%E6%9C%AA%E8%BE%BE%E4%BA%8C%E6%9C%AC%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [赵丽颖三次陪跑](https://www.baidu.com/s?wd=%E8%B5%B5%E4%B8%BD%E9%A2%96%E4%B8%89%E6%AC%A1%E9%99%AA%E8%B7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [范丞丞看到李晨摔倒反应](https://www.baidu.com/s?wd=%E8%8C%83%E4%B8%9E%E4%B8%9E%E7%9C%8B%E5%88%B0%E6%9D%8E%E6%99%A8%E6%91%94%E5%80%92%E5%8F%8D%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [马伊琍 俊生和凌玲祝福你们](https://www.baidu.com/s?wd=%E9%A9%AC%E4%BC%8A%E7%90%8D+%E4%BF%8A%E7%94%9F%E5%92%8C%E5%87%8C%E7%8E%B2%E7%A5%9D%E7%A6%8F%E4%BD%A0%E4%BB%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [外星人或利用超新星爆炸引人类注意](https://www.baidu.com/s?wd=%E5%A4%96%E6%98%9F%E4%BA%BA%E6%88%96%E5%88%A9%E7%94%A8%E8%B6%85%E6%96%B0%E6%98%9F%E7%88%86%E7%82%B8%E5%BC%95%E4%BA%BA%E7%B1%BB%E6%B3%A8%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
