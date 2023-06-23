@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 18:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 18:27:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [拉萨原市长果果被查](https://www.baidu.com/s?wd=%E6%8B%89%E8%90%A8%E5%8E%9F%E5%B8%82%E9%95%BF%E6%9E%9C%E6%9E%9C%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子番茄吃多胃痛医生让喝可乐](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%95%AA%E8%8C%84%E5%90%83%E5%A4%9A%E8%83%83%E7%97%9B%E5%8C%BB%E7%94%9F%E8%AE%A9%E5%96%9D%E5%8F%AF%E4%B9%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [端午这样拍泰酷辣](https://www.baidu.com/s?wd=%E7%AB%AF%E5%8D%88%E8%BF%99%E6%A0%B7%E6%8B%8D%E6%B3%B0%E9%85%B7%E8%BE%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [蔡少芬你不要再叫了](https://www.baidu.com/s?wd=%E8%94%A1%E5%B0%91%E8%8A%AC%E4%BD%A0%E4%B8%8D%E8%A6%81%E5%86%8D%E5%8F%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [董事长开车进长城强拆大门?官方调查](https://www.baidu.com/s?wd=%E8%91%A3%E4%BA%8B%E9%95%BF%E5%BC%80%E8%BD%A6%E8%BF%9B%E9%95%BF%E5%9F%8E%E5%BC%BA%E6%8B%86%E5%A4%A7%E9%97%A8%3F%E5%AE%98%E6%96%B9%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [拉萨原市长果果被查](https://www.baidu.com/s?wd=%E6%8B%89%E8%90%A8%E5%8E%9F%E5%B8%82%E9%95%BF%E6%9E%9C%E6%9E%9C%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子番茄吃多胃痛医生让喝可乐](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%95%AA%E8%8C%84%E5%90%83%E5%A4%9A%E8%83%83%E7%97%9B%E5%8C%BB%E7%94%9F%E8%AE%A9%E5%96%9D%E5%8F%AF%E4%B9%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [端午这样拍泰酷辣](https://www.baidu.com/s?wd=%E7%AB%AF%E5%8D%88%E8%BF%99%E6%A0%B7%E6%8B%8D%E6%B3%B0%E9%85%B7%E8%BE%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [蔡少芬你不要再叫了](https://www.baidu.com/s?wd=%E8%94%A1%E5%B0%91%E8%8A%AC%E4%BD%A0%E4%B8%8D%E8%A6%81%E5%86%8D%E5%8F%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [董事长开车进长城强拆大门?官方调查](https://www.baidu.com/s?wd=%E8%91%A3%E4%BA%8B%E9%95%BF%E5%BC%80%E8%BD%A6%E8%BF%9B%E9%95%BF%E5%9F%8E%E5%BC%BA%E6%8B%86%E5%A4%A7%E9%97%A8%3F%E5%AE%98%E6%96%B9%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
