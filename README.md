@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 14:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 14:14:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [青鸟改编 难评](https://s.weibo.com/weibo?q=%E9%9D%92%E9%B8%9F%E6%94%B9%E7%BC%96%20%E9%9A%BE%E8%AF%84&t=31&band_rank=6&Refer=top)<br />
 7. [成都UFO](https://s.weibo.com/weibo?q=%E6%88%90%E9%83%BDUFO&t=31&band_rank=7&Refer=top)<br />
 8. [泰坦号观光艇内爆5名乘员已死亡](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9D%A6%E5%8F%B7%E8%A7%82%E5%85%89%E8%89%87%E5%86%85%E7%88%865%E5%90%8D%E4%B9%98%E5%91%98%E5%B7%B2%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [盆栽哥Jennie合作曲上线](https://s.weibo.com/weibo?q=%23%E7%9B%86%E6%A0%BD%E5%93%A5Jennie%E5%90%88%E4%BD%9C%E6%9B%B2%E4%B8%8A%E7%BA%BF%23&t=31&band_rank=9&Refer=top)<br />
+9. [刘宪华官宣加盟中国好声音](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%AA%E5%8D%8E%E5%AE%98%E5%AE%A3%E5%8A%A0%E7%9B%9F%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -32,9 +32,9 @@
 4. [文博日历丨古人怎么过端午](https://www.baidu.com/s?wd=%E6%96%87%E5%8D%9A%E6%97%A5%E5%8E%86%E4%B8%A8%E5%8F%A4%E4%BA%BA%E6%80%8E%E4%B9%88%E8%BF%87%E7%AB%AF%E5%8D%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [成都上空现UFO？学者：或为火流星](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E4%B8%8A%E7%A9%BA%E7%8E%B0UFO%EF%BC%9F%E5%AD%A6%E8%80%85%EF%BC%9A%E6%88%96%E4%B8%BA%E7%81%AB%E6%B5%81%E6%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [内蒙体育生351分 握拳怒吼“上了”](https://www.baidu.com/s?wd=%E5%86%85%E8%92%99%E4%BD%93%E8%82%B2%E7%94%9F351%E5%88%86+%E6%8F%A1%E6%8B%B3%E6%80%92%E5%90%BC%E2%80%9C%E4%B8%8A%E4%BA%86%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [热门佳丽先后退选“港姐”](https://www.baidu.com/s?wd=%E7%83%AD%E9%97%A8%E4%BD%B3%E4%B8%BD%E5%85%88%E5%90%8E%E9%80%80%E9%80%89%E2%80%9C%E6%B8%AF%E5%A7%90%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [41℃高温把盆里的衣服晒冒烟了](https://www.baidu.com/s?wd=41%E2%84%83%E9%AB%98%E6%B8%A9%E6%8A%8A%E7%9B%86%E9%87%8C%E7%9A%84%E8%A1%A3%E6%9C%8D%E6%99%92%E5%86%92%E7%83%9F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [薇娅雪梨背后公司纷纷买地盖楼](https://www.baidu.com/s?wd=%E8%96%87%E5%A8%85%E9%9B%AA%E6%A2%A8%E8%83%8C%E5%90%8E%E5%85%AC%E5%8F%B8%E7%BA%B7%E7%BA%B7%E4%B9%B0%E5%9C%B0%E7%9B%96%E6%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [景区网红大雁被游客踢中要害离世](https://www.baidu.com/s?wd=%E6%99%AF%E5%8C%BA%E7%BD%91%E7%BA%A2%E5%A4%A7%E9%9B%81%E8%A2%AB%E6%B8%B8%E5%AE%A2%E8%B8%A2%E4%B8%AD%E8%A6%81%E5%AE%B3%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [美依礼芽《青鸟》燃炸了](https://www.baidu.com/s?wd=%E7%BE%8E%E4%BE%9D%E7%A4%BC%E8%8A%BD%E3%80%8A%E9%9D%92%E9%B8%9F%E3%80%8B%E7%87%83%E7%82%B8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [文博日历丨古人怎么过端午](https://www.baidu.com/s?wd=%E6%96%87%E5%8D%9A%E6%97%A5%E5%8E%86%E4%B8%A8%E5%8F%A4%E4%BA%BA%E6%80%8E%E4%B9%88%E8%BF%87%E7%AB%AF%E5%8D%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [成都上空现UFO？学者：或为火流星](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E4%B8%8A%E7%A9%BA%E7%8E%B0UFO%EF%BC%9F%E5%AD%A6%E8%80%85%EF%BC%9A%E6%88%96%E4%B8%BA%E7%81%AB%E6%B5%81%E6%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [内蒙体育生351分 握拳怒吼“上了”](https://www.baidu.com/s?wd=%E5%86%85%E8%92%99%E4%BD%93%E8%82%B2%E7%94%9F351%E5%88%86+%E6%8F%A1%E6%8B%B3%E6%80%92%E5%90%BC%E2%80%9C%E4%B8%8A%E4%BA%86%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [热门佳丽先后退选“港姐”](https://www.baidu.com/s?wd=%E7%83%AD%E9%97%A8%E4%BD%B3%E4%B8%BD%E5%85%88%E5%90%8E%E9%80%80%E9%80%89%E2%80%9C%E6%B8%AF%E5%A7%90%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [41℃高温把盆里的衣服晒冒烟了](https://www.baidu.com/s?wd=41%E2%84%83%E9%AB%98%E6%B8%A9%E6%8A%8A%E7%9B%86%E9%87%8C%E7%9A%84%E8%A1%A3%E6%9C%8D%E6%99%92%E5%86%92%E7%83%9F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [薇娅雪梨背后公司纷纷买地盖楼](https://www.baidu.com/s?wd=%E8%96%87%E5%A8%85%E9%9B%AA%E6%A2%A8%E8%83%8C%E5%90%8E%E5%85%AC%E5%8F%B8%E7%BA%B7%E7%BA%B7%E4%B9%B0%E5%9C%B0%E7%9B%96%E6%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [景区网红大雁被游客踢中要害离世](https://www.baidu.com/s?wd=%E6%99%AF%E5%8C%BA%E7%BD%91%E7%BA%A2%E5%A4%A7%E9%9B%81%E8%A2%AB%E6%B8%B8%E5%AE%A2%E8%B8%A2%E4%B8%AD%E8%A6%81%E5%AE%B3%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [美依礼芽《青鸟》燃炸了](https://www.baidu.com/s?wd=%E7%BE%8E%E4%BE%9D%E7%A4%BC%E8%8A%BD%E3%80%8A%E9%9D%92%E9%B8%9F%E3%80%8B%E7%87%83%E7%82%B8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
