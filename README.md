@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 23:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 23:42:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [鹿晗演唱会上不敢读的灯牌](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E4%B8%8D%E6%95%A2%E8%AF%BB%E7%9A%84%E7%81%AF%E7%89%8C%23&t=31&band_rank=6&Refer=top)<br />
 7. [外星人](https://s.weibo.com/weibo?q=%E5%A4%96%E6%98%9F%E4%BA%BA&t=31&band_rank=7&Refer=top)<br />
 8. [梁实第27次高考查分](https://s.weibo.com/weibo?q=%23%E6%A2%81%E5%AE%9E%E7%AC%AC27%E6%AC%A1%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [男生高考查分584父子俩笑得合不拢嘴](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86584%E7%88%B6%E5%AD%90%E4%BF%A9%E7%AC%91%E5%BE%97%E5%90%88%E4%B8%8D%E6%8B%A2%E5%98%B4%23&t=31&band_rank=9&Refer=top)<br />
+9. [暴雪](https://s.weibo.com/weibo?q=%E6%9A%B4%E9%9B%AA&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -34,7 +34,7 @@
 6. [梁实第27次高考424分 未达二本线](https://www.baidu.com/s?wd=%E6%A2%81%E5%AE%9E%E7%AC%AC27%E6%AC%A1%E9%AB%98%E8%80%83424%E5%88%86+%E6%9C%AA%E8%BE%BE%E4%BA%8C%E6%9C%AC%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [赵丽颖三次陪跑](https://www.baidu.com/s?wd=%E8%B5%B5%E4%B8%BD%E9%A2%96%E4%B8%89%E6%AC%A1%E9%99%AA%E8%B7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女孩没考好和妈妈吵架被丢高速](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E6%B2%A1%E8%80%83%E5%A5%BD%E5%92%8C%E5%A6%88%E5%A6%88%E5%90%B5%E6%9E%B6%E8%A2%AB%E4%B8%A2%E9%AB%98%E9%80%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子骑行被线缆套中脖子重摔倒地](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%AA%91%E8%A1%8C%E8%A2%AB%E7%BA%BF%E7%BC%86%E5%A5%97%E4%B8%AD%E8%84%96%E5%AD%90%E9%87%8D%E6%91%94%E5%80%92%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [范丞丞看到李晨摔倒反应](https://www.baidu.com/s?wd=%E8%8C%83%E4%B8%9E%E4%B8%9E%E7%9C%8B%E5%88%B0%E6%9D%8E%E6%99%A8%E6%91%94%E5%80%92%E5%8F%8D%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [梁实第27次高考424分 未达二本线](https://www.baidu.com/s?wd=%E6%A2%81%E5%AE%9E%E7%AC%AC27%E6%AC%A1%E9%AB%98%E8%80%83424%E5%88%86+%E6%9C%AA%E8%BE%BE%E4%BA%8C%E6%9C%AC%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [赵丽颖三次陪跑](https://www.baidu.com/s?wd=%E8%B5%B5%E4%B8%BD%E9%A2%96%E4%B8%89%E6%AC%A1%E9%99%AA%E8%B7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女孩没考好和妈妈吵架被丢高速](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E6%B2%A1%E8%80%83%E5%A5%BD%E5%92%8C%E5%A6%88%E5%A6%88%E5%90%B5%E6%9E%B6%E8%A2%AB%E4%B8%A2%E9%AB%98%E9%80%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子骑行被线缆套中脖子重摔倒地](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%AA%91%E8%A1%8C%E8%A2%AB%E7%BA%BF%E7%BC%86%E5%A5%97%E4%B8%AD%E8%84%96%E5%AD%90%E9%87%8D%E6%91%94%E5%80%92%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [范丞丞看到李晨摔倒反应](https://www.baidu.com/s?wd=%E8%8C%83%E4%B8%9E%E4%B8%9E%E7%9C%8B%E5%88%B0%E6%9D%8E%E6%99%A8%E6%91%94%E5%80%92%E5%8F%8D%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
