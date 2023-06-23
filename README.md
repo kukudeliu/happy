@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 03:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 03:31:01</h4></div>
 
 > 微博  
 
@@ -18,8 +18,8 @@
 2. [韩国环境部已批准「萨德」基地环评报告，基建工作将全面启动，「萨德」部署后将造成哪些影响？](https://www.zhihu.com/question/608002674)<br />
 3. [莫迪在美国国会上表示「印度很快将是世界第三大经济体」，这一目标可能实现吗？](https://www.zhihu.com/question/608151767)<br />
 4. []()<br />
-5. [拜登会见莫迪，谈及美印关系硬扯中国，哪些信息值得关注？美印再次拥抱，对中国威胁几何？](https://www.zhihu.com/question/608121348)<br />
-6. [如何评价 Uzi 在 2023 年复出后的表现？](https://www.zhihu.com/question/608011699)<br />
+5. [如何评价 Uzi 在 2023 年复出后的表现？](https://www.zhihu.com/question/608011699)<br />
+6. [拜登会见莫迪，谈及美印关系硬扯中国，哪些信息值得关注？美印再次拥抱，对中国威胁几何？](https://www.zhihu.com/question/608121348)<br />
 7. [《长风渡》第 13-16 集拍得如何？有哪些值得关注的剧情点？](https://www.zhihu.com/question/608012281)<br />
 8. []()<br />
 9. [如何评价《黑镜》（Black Mirror）第六季第二集「Loch Henry」？](https://www.zhihu.com/question/607698144)<br />
