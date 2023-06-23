@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 23:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 23:09:01</h4></div>
 
 > 微博  
 
@@ -19,9 +19,9 @@
 3. [2023 江西高考分数线公布，理工一本 518 文史一本 533，如何评价今年的分数线？](https://www.zhihu.com/question/607974350)<br />
 4. [电影《消失的她》有哪些精彩看点？](https://www.zhihu.com/question/604320266)<br />
 5. [拜登会见莫迪，谈及美印关系硬扯中国，哪些信息值得关注？美印再次拥抱，对中国威胁几何？](https://www.zhihu.com/question/608121348)<br />
-6. [2023 LPL 夏季赛 JDG 2:0 击败 TES 八连胜稳坐联赛头名，如何评价这场比赛？](https://www.zhihu.com/question/608142653)<br />
-7. []()<br />
-8. [6 月 22 日比特币大涨，站上 30000 美元关口，为近两月以来首次，释放了哪些信号？](https://www.zhihu.com/question/607964858)<br />
+6. []()<br />
+7. [6 月 22 日比特币大涨，站上 30000 美元关口，为近两月以来首次，释放了哪些信号？](https://www.zhihu.com/question/607964858)<br />
+8. [2023 LPL 夏季赛 JDG 2:0 击败 TES 八连胜稳坐联赛头名，如何评价这场比赛？](https://www.zhihu.com/question/608142653)<br />
 9. [C 罗表示「愿为葡萄牙奉献一切，我是不可或缺的」，如何评价他对球队做出的贡献？](https://www.zhihu.com/question/607845603)<br />
 
 > 百度  
