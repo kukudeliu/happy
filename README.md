@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 05:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 05:20:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [外星人](https://s.weibo.com/weibo?q=%E5%A4%96%E6%98%9F%E4%BA%BA&t=31&band_rank=6&Refer=top)<br />
 7. [吴越 白玉兰视后](https://s.weibo.com/weibo?q=%E5%90%B4%E8%B6%8A%20%E7%99%BD%E7%8E%89%E5%85%B0%E8%A7%86%E5%90%8E&t=31&band_rank=7&Refer=top)<br />
 8. [丫丫回国前后变化好大](https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E5%9B%9E%E5%9B%BD%E5%89%8D%E5%90%8E%E5%8F%98%E5%8C%96%E5%A5%BD%E5%A4%A7%23&t=31&band_rank=8&Refer=top)<br />
-9. [沈梦瑶起诉丝芭传媒申请解约](https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%A2%A6%E7%91%B6%E8%B5%B7%E8%AF%89%E4%B8%9D%E8%8A%AD%E4%BC%A0%E5%AA%92%E7%94%B3%E8%AF%B7%E8%A7%A3%E7%BA%A6%23&t=31&band_rank=9&Refer=top)<br />
+9. [炎亚纶](https://s.weibo.com/weibo?q=%E7%82%8E%E4%BA%9A%E7%BA%B6&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
