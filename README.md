@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 22:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 22:24:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [外星人或利用超新星爆炸引人类注意](https://www.baidu.com/s?wd=%E5%A4%96%E6%98%9F%E4%BA%BA%E6%88%96%E5%88%A9%E7%94%A8%E8%B6%85%E6%96%B0%E6%98%9F%E7%88%86%E7%82%B8%E5%BC%95%E4%BA%BA%E7%B1%BB%E6%B3%A8%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [白玉兰奖颁奖典礼](https://www.baidu.com/s?wd=%E7%99%BD%E7%8E%89%E5%85%B0%E5%A5%96%E9%A2%81%E5%A5%96%E5%85%B8%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [泰坦号前乘客自曝下潜是自杀之旅](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9D%A6%E5%8F%B7%E5%89%8D%E4%B9%98%E5%AE%A2%E8%87%AA%E6%9B%9D%E4%B8%8B%E6%BD%9C%E6%98%AF%E8%87%AA%E6%9D%80%E4%B9%8B%E6%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子水库洗狗和游客起冲突](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%B0%B4%E5%BA%93%E6%B4%97%E7%8B%97%E5%92%8C%E6%B8%B8%E5%AE%A2%E8%B5%B7%E5%86%B2%E7%AA%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [董事长开车进长城被拒拆门?公司回应](https://www.baidu.com/s?wd=%E8%91%A3%E4%BA%8B%E9%95%BF%E5%BC%80%E8%BD%A6%E8%BF%9B%E9%95%BF%E5%9F%8E%E8%A2%AB%E6%8B%92%E6%8B%86%E9%97%A8%3F%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [外星人或利用超新星爆炸引人类注意](https://www.baidu.com/s?wd=%E5%A4%96%E6%98%9F%E4%BA%BA%E6%88%96%E5%88%A9%E7%94%A8%E8%B6%85%E6%96%B0%E6%98%9F%E7%88%86%E7%82%B8%E5%BC%95%E4%BA%BA%E7%B1%BB%E6%B3%A8%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [白玉兰奖颁奖典礼](https://www.baidu.com/s?wd=%E7%99%BD%E7%8E%89%E5%85%B0%E5%A5%96%E9%A2%81%E5%A5%96%E5%85%B8%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [泰坦号前乘客自曝下潜是自杀之旅](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9D%A6%E5%8F%B7%E5%89%8D%E4%B9%98%E5%AE%A2%E8%87%AA%E6%9B%9D%E4%B8%8B%E6%BD%9C%E6%98%AF%E8%87%AA%E6%9D%80%E4%B9%8B%E6%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子水库洗狗和游客起冲突](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%B0%B4%E5%BA%93%E6%B4%97%E7%8B%97%E5%92%8C%E6%B8%B8%E5%AE%A2%E8%B5%B7%E5%86%B2%E7%AA%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [董事长开车进长城被拒拆门?公司回应](https://www.baidu.com/s?wd=%E8%91%A3%E4%BA%8B%E9%95%BF%E5%BC%80%E8%BD%A6%E8%BF%9B%E9%95%BF%E5%9F%8E%E8%A2%AB%E6%8B%92%E6%8B%86%E9%97%A8%3F%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
