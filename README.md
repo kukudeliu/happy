@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 08:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 08:13:01</h4></div>
 
 > 微博  
 
@@ -18,8 +18,8 @@
 2. [扎克伯格和马斯克线上约架，马斯克称准备来一场笼斗，扎克伯格回应称「地址发我」，如何看待此事？](https://www.zhihu.com/question/608012861)<br />
 3. [日本 200 多所大学或因缺少生源倒闭，多所大学停止招生，日本人口连续 12 年减少，将产生哪些影响？](https://www.zhihu.com/question/607979062)<br />
 4. [银川政府表示尽快查明爆炸事故原因，立即开展为期一个月的安全生产大排查大整治行动，还有哪些信息值得关注？](https://www.zhihu.com/question/608017964)<br />
-5. [上海二手房挂牌量增速全国第一，挂牌数达 18 万套，有中介接受火锅券冲抵中介费，如何看待上海楼市行情？](https://www.zhihu.com/question/607907674)<br />
-6. [全国结婚登记量跌破 700 万对，创 37 年来新低，年轻人「爱」不起了吗？](https://www.zhihu.com/question/607996046)<br />
+5. [全国结婚登记量跌破 700 万对，创 37 年来新低，年轻人「爱」不起了吗？](https://www.zhihu.com/question/607996046)<br />
+6. [上海二手房挂牌量增速全国第一，挂牌数达 18 万套，有中介接受火锅券冲抵中介费，如何看待上海楼市行情？](https://www.zhihu.com/question/607907674)<br />
 7. [一个村超都搞得有声有色，为啥中国足球人人唾弃，真的是规则出了问题？](https://www.zhihu.com/question/606948461)<br />
 8. [如何评价《英雄联盟》新英雄「百裂冥犬」纳亚菲利？](https://www.zhihu.com/question/607827052)<br />
 9. [如何评价周润发在电影《别叫我「赌神」》中的表现？](https://www.zhihu.com/question/607674958)<br />
@@ -34,7 +34,7 @@
 6. [50斤重鳄雀鳝藏匿水库一年偷鱼吃](https://www.baidu.com/s?wd=50%E6%96%A4%E9%87%8D%E9%B3%84%E9%9B%80%E9%B3%9D%E8%97%8F%E5%8C%BF%E6%B0%B4%E5%BA%93%E4%B8%80%E5%B9%B4%E5%81%B7%E9%B1%BC%E5%90%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [2023好声音导师官宣](https://www.baidu.com/s?wd=2023%E5%A5%BD%E5%A3%B0%E9%9F%B3%E5%AF%BC%E5%B8%88%E5%AE%98%E5%AE%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [苏州和上海地铁连起来了](https://www.baidu.com/s?wd=%E8%8B%8F%E5%B7%9E%E5%92%8C%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E8%BF%9E%E8%B5%B7%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [全球外汇储备最新占比：欧元第二](https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E5%A4%96%E6%B1%87%E5%82%A8%E5%A4%87%E6%9C%80%E6%96%B0%E5%8D%A0%E6%AF%94%EF%BC%9A%E6%AC%A7%E5%85%83%E7%AC%AC%E4%BA%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [知情人称烧烤店先后发生2次爆炸](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0%E7%83%A7%E7%83%A4%E5%BA%97%E5%85%88%E5%90%8E%E5%8F%91%E7%94%9F2%E6%AC%A1%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [50斤重鳄雀鳝藏匿水库一年偷鱼吃](https://www.baidu.com/s?wd=50%E6%96%A4%E9%87%8D%E9%B3%84%E9%9B%80%E9%B3%9D%E8%97%8F%E5%8C%BF%E6%B0%B4%E5%BA%93%E4%B8%80%E5%B9%B4%E5%81%B7%E9%B1%BC%E5%90%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [2023好声音导师官宣](https://www.baidu.com/s?wd=2023%E5%A5%BD%E5%A3%B0%E9%9F%B3%E5%AF%BC%E5%B8%88%E5%AE%98%E5%AE%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [苏州和上海地铁连起来了](https://www.baidu.com/s?wd=%E8%8B%8F%E5%B7%9E%E5%92%8C%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E8%BF%9E%E8%B5%B7%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [全球外汇储备最新占比：欧元第二](https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E5%A4%96%E6%B1%87%E5%82%A8%E5%A4%87%E6%9C%80%E6%96%B0%E5%8D%A0%E6%AF%94%EF%BC%9A%E6%AC%A7%E5%85%83%E7%AC%AC%E4%BA%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [知情人称烧烤店先后发生2次爆炸](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0%E7%83%A7%E7%83%A4%E5%BA%97%E5%85%88%E5%90%8E%E5%8F%91%E7%94%9F2%E6%AC%A1%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
