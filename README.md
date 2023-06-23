@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 01:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 01:57:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [莫迪在美国国会上表示「印度很快将是世界第三大经济体」，这一目标可能实现吗？](https://www.zhihu.com/question/608151767)<br />
 5. []()<br />
 6. []()<br />
-7. [6 月 22 日比特币大涨，站上 30000 美元关口，为近两月以来首次，释放了哪些信号？](https://www.zhihu.com/question/607964858)<br />
-8. [如何评价 Uzi 在 2023 年复出后的表现？](https://www.zhihu.com/question/608011699)<br />
-9. [《长风渡》第 13-16 集拍得如何？有哪些值得关注的剧情点？](https://www.zhihu.com/question/608012281)<br />
+7. [如何评价 Uzi 在 2023 年复出后的表现？](https://www.zhihu.com/question/608011699)<br />
+8. [《长风渡》第 13-16 集拍得如何？有哪些值得关注的剧情点？](https://www.zhihu.com/question/608012281)<br />
+9. [如何评价《黑镜》（Black Mirror）第六季第二集「Loch Henry」？](https://www.zhihu.com/question/607698144)<br />
 
 > 百度  
 
