@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 22:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 22:10:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [白玉兰奖单](https://s.weibo.com/weibo?q=%23%E7%99%BD%E7%8E%89%E5%85%B0%E5%A5%96%E5%8D%95%23&t=31&band_rank=6&Refer=top)<br />
 7. [男生高考查分584父子俩笑得合不拢嘴](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86584%E7%88%B6%E5%AD%90%E4%BF%A9%E7%AC%91%E5%BE%97%E5%90%88%E4%B8%8D%E6%8B%A2%E5%98%B4%23&t=31&band_rank=7&Refer=top)<br />
 8. [梁实第27次高考查分](https://s.weibo.com/weibo?q=%23%E6%A2%81%E5%AE%9E%E7%AC%AC27%E6%AC%A1%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [河南新密一烧饼店发生爆炸](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E6%96%B0%E5%AF%86%E4%B8%80%E7%83%A7%E9%A5%BC%E5%BA%97%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%23&t=31&band_rank=9&Refer=top)<br />
+9. [外星人](https://s.weibo.com/weibo?q=%E5%A4%96%E6%98%9F%E4%BA%BA&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -34,7 +34,7 @@
 6. [外星人或利用超新星爆炸引人类注意](https://www.baidu.com/s?wd=%E5%A4%96%E6%98%9F%E4%BA%BA%E6%88%96%E5%88%A9%E7%94%A8%E8%B6%85%E6%96%B0%E6%98%9F%E7%88%86%E7%82%B8%E5%BC%95%E4%BA%BA%E7%B1%BB%E6%B3%A8%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [泰坦号沉船使一款游戏销量暴涨](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9D%A6%E5%8F%B7%E6%B2%89%E8%88%B9%E4%BD%BF%E4%B8%80%E6%AC%BE%E6%B8%B8%E6%88%8F%E9%94%80%E9%87%8F%E6%9A%B4%E6%B6%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [胡歌是来进货的吧](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E6%98%AF%E6%9D%A5%E8%BF%9B%E8%B4%A7%E7%9A%84%E5%90%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [狂飙剧组没走红毯](https://www.baidu.com/s?wd=%E7%8B%82%E9%A3%99%E5%89%A7%E7%BB%84%E6%B2%A1%E8%B5%B0%E7%BA%A2%E6%AF%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [赵丽颖白玉兰红毯笑得好甜](https://www.baidu.com/s?wd=%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%99%BD%E7%8E%89%E5%85%B0%E7%BA%A2%E6%AF%AF%E7%AC%91%E5%BE%97%E5%A5%BD%E7%94%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [外星人或利用超新星爆炸引人类注意](https://www.baidu.com/s?wd=%E5%A4%96%E6%98%9F%E4%BA%BA%E6%88%96%E5%88%A9%E7%94%A8%E8%B6%85%E6%96%B0%E6%98%9F%E7%88%86%E7%82%B8%E5%BC%95%E4%BA%BA%E7%B1%BB%E6%B3%A8%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [泰坦号沉船使一款游戏销量暴涨](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9D%A6%E5%8F%B7%E6%B2%89%E8%88%B9%E4%BD%BF%E4%B8%80%E6%AC%BE%E6%B8%B8%E6%88%8F%E9%94%80%E9%87%8F%E6%9A%B4%E6%B6%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [胡歌是来进货的吧](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E6%98%AF%E6%9D%A5%E8%BF%9B%E8%B4%A7%E7%9A%84%E5%90%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [狂飙剧组没走红毯](https://www.baidu.com/s?wd=%E7%8B%82%E9%A3%99%E5%89%A7%E7%BB%84%E6%B2%A1%E8%B5%B0%E7%BA%A2%E6%AF%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [赵丽颖白玉兰红毯笑得好甜](https://www.baidu.com/s?wd=%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%99%BD%E7%8E%89%E5%85%B0%E7%BA%A2%E6%AF%AF%E7%AC%91%E5%BE%97%E5%A5%BD%E7%94%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
