@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 03:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 03:44:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [赵丽颖回应三次陪跑](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%9B%9E%E5%BA%94%E4%B8%89%E6%AC%A1%E9%99%AA%E8%B7%91%23&t=31&band_rank=5&Refer=top)<br />
 6. [外星人](https://s.weibo.com/weibo?q=%E5%A4%96%E6%98%9F%E4%BA%BA&t=31&band_rank=6&Refer=top)<br />
 7. [吴越 白玉兰视后](https://s.weibo.com/weibo?q=%E5%90%B4%E8%B6%8A%20%E7%99%BD%E7%8E%89%E5%85%B0%E8%A7%86%E5%90%8E&t=31&band_rank=7&Refer=top)<br />
-8. [沈梦瑶起诉丝芭传媒申请解约](https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%A2%A6%E7%91%B6%E8%B5%B7%E8%AF%89%E4%B8%9D%E8%8A%AD%E4%BC%A0%E5%AA%92%E7%94%B3%E8%AF%B7%E8%A7%A3%E7%BA%A6%23&t=31&band_rank=8&Refer=top)<br />
-9. [男生高考查分584父子俩笑得合不拢嘴](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86584%E7%88%B6%E5%AD%90%E4%BF%A9%E7%AC%91%E5%BE%97%E5%90%88%E4%B8%8D%E6%8B%A2%E5%98%B4%23&t=31&band_rank=9&Refer=top)<br />
+8. [丫丫回国前后变化好大](https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E5%9B%9E%E5%9B%BD%E5%89%8D%E5%90%8E%E5%8F%98%E5%8C%96%E5%A5%BD%E5%A4%A7%23&t=31&band_rank=8&Refer=top)<br />
+9. [炎亚纶](https://s.weibo.com/weibo?q=%E7%82%8E%E4%BA%9A%E7%BA%B6&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -31,10 +31,10 @@
 3. [男生高考查分601激动满屋蹦跳](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86601%E6%BF%80%E5%8A%A8%E6%BB%A1%E5%B1%8B%E8%B9%A6%E8%B7%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [沉浸式游览中国美丽乡村](https://www.baidu.com/s?wd=%E6%B2%89%E6%B5%B8%E5%BC%8F%E6%B8%B8%E8%A7%88%E4%B8%AD%E5%9B%BD%E7%BE%8E%E4%B8%BD%E4%B9%A1%E6%9D%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [白玉兰完整名单出炉：狂飙挂零陪跑](https://www.baidu.com/s?wd=%E7%99%BD%E7%8E%89%E5%85%B0%E5%AE%8C%E6%95%B4%E5%90%8D%E5%8D%95%E5%87%BA%E7%82%89%EF%BC%9A%E7%8B%82%E9%A3%99%E6%8C%82%E9%9B%B6%E9%99%AA%E8%B7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [胡歌是来进货的吧](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E6%98%AF%E6%9D%A5%E8%BF%9B%E8%B4%A7%E7%9A%84%E5%90%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [大小S宣布起诉葛斯齐](https://www.baidu.com/s?wd=%E5%A4%A7%E5%B0%8FS%E5%AE%A3%E5%B8%83%E8%B5%B7%E8%AF%89%E8%91%9B%E6%96%AF%E9%BD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [马斯克线上约架被母亲取消](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%BA%BF%E4%B8%8A%E7%BA%A6%E6%9E%B6%E8%A2%AB%E6%AF%8D%E4%BA%B2%E5%8F%96%E6%B6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [范丞丞看到李晨摔倒反应](https://www.baidu.com/s?wd=%E8%8C%83%E4%B8%9E%E4%B8%9E%E7%9C%8B%E5%88%B0%E6%9D%8E%E6%99%A8%E6%91%94%E5%80%92%E5%8F%8D%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [新疆举办旱地划龙舟比赛](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E4%B8%BE%E5%8A%9E%E6%97%B1%E5%9C%B0%E5%88%92%E9%BE%99%E8%88%9F%E6%AF%94%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [胡歌是来进货的吧](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E6%98%AF%E6%9D%A5%E8%BF%9B%E8%B4%A7%E7%9A%84%E5%90%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [大小S宣布起诉葛斯齐](https://www.baidu.com/s?wd=%E5%A4%A7%E5%B0%8FS%E5%AE%A3%E5%B8%83%E8%B5%B7%E8%AF%89%E8%91%9B%E6%96%AF%E9%BD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [马斯克线上约架被母亲取消](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%BA%BF%E4%B8%8A%E7%BA%A6%E6%9E%B6%E8%A2%AB%E6%AF%8D%E4%BA%B2%E5%8F%96%E6%B6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [男生高考查分601激动满屋蹦跳](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86601%E6%BF%80%E5%8A%A8%E6%BB%A1%E5%B1%8B%E8%B9%A6%E8%B7%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [沉浸式游览中国美丽乡村](https://www.baidu.com/s?wd=%E6%B2%89%E6%B5%B8%E5%BC%8F%E6%B8%B8%E8%A7%88%E4%B8%AD%E5%9B%BD%E7%BE%8E%E4%B8%BD%E4%B9%A1%E6%9D%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [白玉兰完整名单出炉：狂飙挂零陪跑](https://www.baidu.com/s?wd=%E7%99%BD%E7%8E%89%E5%85%B0%E5%AE%8C%E6%95%B4%E5%90%8D%E5%8D%95%E5%87%BA%E7%82%89%EF%BC%9A%E7%8B%82%E9%A3%99%E6%8C%82%E9%9B%B6%E9%99%AA%E8%B7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [胡歌是来进货的吧](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E6%98%AF%E6%9D%A5%E8%BF%9B%E8%B4%A7%E7%9A%84%E5%90%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [大小S宣布起诉葛斯齐](https://www.baidu.com/s?wd=%E5%A4%A7%E5%B0%8FS%E5%AE%A3%E5%B8%83%E8%B5%B7%E8%AF%89%E8%91%9B%E6%96%AF%E9%BD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [马斯克线上约架被母亲取消](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%BA%BF%E4%B8%8A%E7%BA%A6%E6%9E%B6%E8%A2%AB%E6%AF%8D%E4%BA%B2%E5%8F%96%E6%B6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [范丞丞看到李晨摔倒反应](https://www.baidu.com/s?wd=%E8%8C%83%E4%B8%9E%E4%B8%9E%E7%9C%8B%E5%88%B0%E6%9D%8E%E6%99%A8%E6%91%94%E5%80%92%E5%8F%8D%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [新疆举办旱地划龙舟比赛](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E4%B8%BE%E5%8A%9E%E6%97%B1%E5%9C%B0%E5%88%92%E9%BE%99%E8%88%9F%E6%AF%94%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [胡歌是来进货的吧](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E6%98%AF%E6%9D%A5%E8%BF%9B%E8%B4%A7%E7%9A%84%E5%90%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [大小S宣布起诉葛斯齐](https://www.baidu.com/s?wd=%E5%A4%A7%E5%B0%8FS%E5%AE%A3%E5%B8%83%E8%B5%B7%E8%AF%89%E8%91%9B%E6%96%AF%E9%BD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [马斯克线上约架被母亲取消](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%BA%BF%E4%B8%8A%E7%BA%A6%E6%9E%B6%E8%A2%AB%E6%AF%8D%E4%BA%B2%E5%8F%96%E6%B6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
