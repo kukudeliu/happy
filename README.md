@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 09:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 09:03:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [国产暗恋剧天花板](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BA%A7%E6%9A%97%E6%81%8B%E5%89%A7%E5%A4%A9%E8%8A%B1%E6%9D%BF%23&t=31&band_rank=6&Refer=top)<br />
 7. [实名注册手机卡不注销的后果](https://s.weibo.com/weibo?q=%23%E5%AE%9E%E5%90%8D%E6%B3%A8%E5%86%8C%E6%89%8B%E6%9C%BA%E5%8D%A1%E4%B8%8D%E6%B3%A8%E9%94%80%E7%9A%84%E5%90%8E%E6%9E%9C%23&t=31&band_rank=7&Refer=top)<br />
 8. [怀孕33周孕妇被2岁儿子开枪打死](https://s.weibo.com/weibo?q=%23%E6%80%80%E5%AD%9533%E5%91%A8%E5%AD%95%E5%A6%87%E8%A2%AB2%E5%B2%81%E5%84%BF%E5%AD%90%E5%BC%80%E6%9E%AA%E6%89%93%E6%AD%BB%23&t=31&band_rank=8&Refer=top)<br />
-9. [我大爷是恋爱界的显眼包](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%A4%A7%E7%88%B7%E6%98%AF%E6%81%8B%E7%88%B1%E7%95%8C%E7%9A%84%E6%98%BE%E7%9C%BC%E5%8C%85%23&t=31&band_rank=9&Refer=top)<br />
+9. [文班亚马当选状元](https://s.weibo.com/weibo?q=%23%E6%96%87%E7%8F%AD%E4%BA%9A%E9%A9%AC%E5%BD%93%E9%80%89%E7%8A%B6%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -21,8 +21,8 @@
 5. []()<br />
 6. []()<br />
 7. [曝 NBA 重磅交易，保罗被交易至勇士，普尔罗林斯前往奇才，如何评价这项交易？](https://www.zhihu.com/question/608085587)<br />
-8. []()<br />
-9. [全国结婚登记量跌破 700 万对，创 37 年来新低，年轻人「爱」不起了吗？](https://www.zhihu.com/question/607996046)<br />
+8. [发改委与德国宝马、奔驰、大众汽车签署合作意向书，共同推动新能源汽车研发创新和推广应用，如何解读？](https://www.zhihu.com/question/607897726)<br />
+9. []()<br />
 
 > 百度  
 
