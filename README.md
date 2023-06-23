@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 14:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 14:29:01</h4></div>
 
 > 微博  
 
@@ -31,10 +31,10 @@
 3. [泰坦号观光艇内爆 5名乘员死亡](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9D%A6%E5%8F%B7%E8%A7%82%E5%85%89%E8%89%87%E5%86%85%E7%88%86+5%E5%90%8D%E4%B9%98%E5%91%98%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [文博日历丨古人怎么过端午](https://www.baidu.com/s?wd=%E6%96%87%E5%8D%9A%E6%97%A5%E5%8E%86%E4%B8%A8%E5%8F%A4%E4%BA%BA%E6%80%8E%E4%B9%88%E8%BF%87%E7%AB%AF%E5%8D%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [成都上空现UFO？学者：或为火流星](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E4%B8%8A%E7%A9%BA%E7%8E%B0UFO%EF%BC%9F%E5%AD%A6%E8%80%85%EF%BC%9A%E6%88%96%E4%B8%BA%E7%81%AB%E6%B5%81%E6%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [内蒙体育生351分 握拳怒吼“上了”](https://www.baidu.com/s?wd=%E5%86%85%E8%92%99%E4%BD%93%E8%82%B2%E7%94%9F351%E5%88%86+%E6%8F%A1%E6%8B%B3%E6%80%92%E5%90%BC%E2%80%9C%E4%B8%8A%E4%BA%86%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [拜登误把印度国歌当美国国歌敬礼](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E8%AF%AF%E6%8A%8A%E5%8D%B0%E5%BA%A6%E5%9B%BD%E6%AD%8C%E5%BD%93%E7%BE%8E%E5%9B%BD%E5%9B%BD%E6%AD%8C%E6%95%AC%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [钱塘江鱼鳞潮和交叉潮同时出现](https://www.baidu.com/s?wd=%E9%92%B1%E5%A1%98%E6%B1%9F%E9%B1%BC%E9%B3%9E%E6%BD%AE%E5%92%8C%E4%BA%A4%E5%8F%89%E6%BD%AE%E5%90%8C%E6%97%B6%E5%87%BA%E7%8E%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [内蒙体育生351分 握拳怒吼“上了”](https://www.baidu.com/s?wd=%E5%86%85%E8%92%99%E4%BD%93%E8%82%B2%E7%94%9F351%E5%88%86+%E6%8F%A1%E6%8B%B3%E6%80%92%E5%90%BC%E2%80%9C%E4%B8%8A%E4%BA%86%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [薇娅雪梨背后公司纷纷买地盖楼](https://www.baidu.com/s?wd=%E8%96%87%E5%A8%85%E9%9B%AA%E6%A2%A8%E8%83%8C%E5%90%8E%E5%85%AC%E5%8F%B8%E7%BA%B7%E7%BA%B7%E4%B9%B0%E5%9C%B0%E7%9B%96%E6%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [41℃高温把盆里的衣服晒冒烟了](https://www.baidu.com/s?wd=41%E2%84%83%E9%AB%98%E6%B8%A9%E6%8A%8A%E7%9B%86%E9%87%8C%E7%9A%84%E8%A1%A3%E6%9C%8D%E6%99%92%E5%86%92%E7%83%9F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [潜水器如何“内爆”？模拟过程](https://www.baidu.com/s?wd=%E6%BD%9C%E6%B0%B4%E5%99%A8%E5%A6%82%E4%BD%95%E2%80%9C%E5%86%85%E7%88%86%E2%80%9D%EF%BC%9F%E6%A8%A1%E6%8B%9F%E8%BF%87%E7%A8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [泰坦号观光艇内爆 5名乘员死亡](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9D%A6%E5%8F%B7%E8%A7%82%E5%85%89%E8%89%87%E5%86%85%E7%88%86+5%E5%90%8D%E4%B9%98%E5%91%98%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [文博日历丨古人怎么过端午](https://www.baidu.com/s?wd=%E6%96%87%E5%8D%9A%E6%97%A5%E5%8E%86%E4%B8%A8%E5%8F%A4%E4%BA%BA%E6%80%8E%E4%B9%88%E8%BF%87%E7%AB%AF%E5%8D%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [成都上空现UFO？学者：或为火流星](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E4%B8%8A%E7%A9%BA%E7%8E%B0UFO%EF%BC%9F%E5%AD%A6%E8%80%85%EF%BC%9A%E6%88%96%E4%B8%BA%E7%81%AB%E6%B5%81%E6%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [内蒙体育生351分 握拳怒吼“上了”](https://www.baidu.com/s?wd=%E5%86%85%E8%92%99%E4%BD%93%E8%82%B2%E7%94%9F351%E5%88%86+%E6%8F%A1%E6%8B%B3%E6%80%92%E5%90%BC%E2%80%9C%E4%B8%8A%E4%BA%86%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [拜登误把印度国歌当美国国歌敬礼](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E8%AF%AF%E6%8A%8A%E5%8D%B0%E5%BA%A6%E5%9B%BD%E6%AD%8C%E5%BD%93%E7%BE%8E%E5%9B%BD%E5%9B%BD%E6%AD%8C%E6%95%AC%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [钱塘江鱼鳞潮和交叉潮同时出现](https://www.baidu.com/s?wd=%E9%92%B1%E5%A1%98%E6%B1%9F%E9%B1%BC%E9%B3%9E%E6%BD%AE%E5%92%8C%E4%BA%A4%E5%8F%89%E6%BD%AE%E5%90%8C%E6%97%B6%E5%87%BA%E7%8E%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [内蒙体育生351分 握拳怒吼“上了”](https://www.baidu.com/s?wd=%E5%86%85%E8%92%99%E4%BD%93%E8%82%B2%E7%94%9F351%E5%88%86+%E6%8F%A1%E6%8B%B3%E6%80%92%E5%90%BC%E2%80%9C%E4%B8%8A%E4%BA%86%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [薇娅雪梨背后公司纷纷买地盖楼](https://www.baidu.com/s?wd=%E8%96%87%E5%A8%85%E9%9B%AA%E6%A2%A8%E8%83%8C%E5%90%8E%E5%85%AC%E5%8F%B8%E7%BA%B7%E7%BA%B7%E4%B9%B0%E5%9C%B0%E7%9B%96%E6%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [41℃高温把盆里的衣服晒冒烟了](https://www.baidu.com/s?wd=41%E2%84%83%E9%AB%98%E6%B8%A9%E6%8A%8A%E7%9B%86%E9%87%8C%E7%9A%84%E8%A1%A3%E6%9C%8D%E6%99%92%E5%86%92%E7%83%9F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [潜水器如何“内爆”？模拟过程](https://www.baidu.com/s?wd=%E6%BD%9C%E6%B0%B4%E5%99%A8%E5%A6%82%E4%BD%95%E2%80%9C%E5%86%85%E7%88%86%E2%80%9D%EF%BC%9F%E6%A8%A1%E6%8B%9F%E8%BF%87%E7%A8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
