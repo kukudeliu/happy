@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 17:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 17:02:01</h4></div>
 
 > 微博  
 
@@ -30,11 +30,11 @@
 2. [各地高考成绩今天起陆续公布](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E4%BB%8A%E5%A4%A9%E8%B5%B7%E9%99%86%E7%BB%AD%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [国语版《青鸟》毁童年](https://www.baidu.com/s?wd=%E5%9B%BD%E8%AF%AD%E7%89%88%E3%80%8A%E9%9D%92%E9%B8%9F%E3%80%8B%E6%AF%81%E7%AB%A5%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [五彩丝线祝高“粽”](https://www.baidu.com/s?wd=%E4%BA%94%E5%BD%A9%E4%B8%9D%E7%BA%BF%E7%A5%9D%E9%AB%98%E2%80%9C%E7%B2%BD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [大连一家六口遇害 警方介入](https://www.baidu.com/s?wd=%E5%A4%A7%E8%BF%9E%E4%B8%80%E5%AE%B6%E5%85%AD%E5%8F%A3%E9%81%87%E5%AE%B3+%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [马斯克线上约架被母亲取消](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%BA%BF%E4%B8%8A%E7%BA%A6%E6%9E%B6%E8%A2%AB%E6%AF%8D%E4%BA%B2%E5%8F%96%E6%B6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [蔡少芬你不要再叫了](https://www.baidu.com/s?wd=%E8%94%A1%E5%B0%91%E8%8A%AC%E4%BD%A0%E4%B8%8D%E8%A6%81%E5%86%8D%E5%8F%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [广东一条龙舟70个房东 身价20亿](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E6%9D%A1%E9%BE%99%E8%88%9F70%E4%B8%AA%E6%88%BF%E4%B8%9C+%E8%BA%AB%E4%BB%B720%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [火车站回应锁门致乘客40℃下苦等](https://www.baidu.com/s?wd=%E7%81%AB%E8%BD%A6%E7%AB%99%E5%9B%9E%E5%BA%94%E9%94%81%E9%97%A8%E8%87%B4%E4%B9%98%E5%AE%A240%E2%84%83%E4%B8%8B%E8%8B%A6%E7%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [马斯克线上约架被母亲取消](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%BA%BF%E4%B8%8A%E7%BA%A6%E6%9E%B6%E8%A2%AB%E6%AF%8D%E4%BA%B2%E5%8F%96%E6%B6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [蔡少芬你不要再叫了](https://www.baidu.com/s?wd=%E8%94%A1%E5%B0%91%E8%8A%AC%E4%BD%A0%E4%B8%8D%E8%A6%81%E5%86%8D%E5%8F%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [广东一条龙舟70个房东 身价20亿](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E6%9D%A1%E9%BE%99%E8%88%9F70%E4%B8%AA%E6%88%BF%E4%B8%9C+%E8%BA%AB%E4%BB%B720%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [火车站回应锁门致乘客40℃下苦等](https://www.baidu.com/s?wd=%E7%81%AB%E8%BD%A6%E7%AB%99%E5%9B%9E%E5%BA%94%E9%94%81%E9%97%A8%E8%87%B4%E4%B9%98%E5%AE%A240%E2%84%83%E4%B8%8B%E8%8B%A6%E7%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [致5死潜艇内部：没凳子只能盘腿坐](https://www.baidu.com/s?wd=%E8%87%B45%E6%AD%BB%E6%BD%9C%E8%89%87%E5%86%85%E9%83%A8%EF%BC%9A%E6%B2%A1%E5%87%B3%E5%AD%90%E5%8F%AA%E8%83%BD%E7%9B%98%E8%85%BF%E5%9D%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -42,8 +42,8 @@
 2. [各地高考成绩今天起陆续公布](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E4%BB%8A%E5%A4%A9%E8%B5%B7%E9%99%86%E7%BB%AD%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [国语版《青鸟》毁童年](https://www.baidu.com/s?wd=%E5%9B%BD%E8%AF%AD%E7%89%88%E3%80%8A%E9%9D%92%E9%B8%9F%E3%80%8B%E6%AF%81%E7%AB%A5%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [五彩丝线祝高“粽”](https://www.baidu.com/s?wd=%E4%BA%94%E5%BD%A9%E4%B8%9D%E7%BA%BF%E7%A5%9D%E9%AB%98%E2%80%9C%E7%B2%BD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [大连一家六口遇害 警方介入](https://www.baidu.com/s?wd=%E5%A4%A7%E8%BF%9E%E4%B8%80%E5%AE%B6%E5%85%AD%E5%8F%A3%E9%81%87%E5%AE%B3+%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [马斯克线上约架被母亲取消](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%BA%BF%E4%B8%8A%E7%BA%A6%E6%9E%B6%E8%A2%AB%E6%AF%8D%E4%BA%B2%E5%8F%96%E6%B6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [蔡少芬你不要再叫了](https://www.baidu.com/s?wd=%E8%94%A1%E5%B0%91%E8%8A%AC%E4%BD%A0%E4%B8%8D%E8%A6%81%E5%86%8D%E5%8F%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [广东一条龙舟70个房东 身价20亿](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E6%9D%A1%E9%BE%99%E8%88%9F70%E4%B8%AA%E6%88%BF%E4%B8%9C+%E8%BA%AB%E4%BB%B720%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [火车站回应锁门致乘客40℃下苦等](https://www.baidu.com/s?wd=%E7%81%AB%E8%BD%A6%E7%AB%99%E5%9B%9E%E5%BA%94%E9%94%81%E9%97%A8%E8%87%B4%E4%B9%98%E5%AE%A240%E2%84%83%E4%B8%8B%E8%8B%A6%E7%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [马斯克线上约架被母亲取消](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%BA%BF%E4%B8%8A%E7%BA%A6%E6%9E%B6%E8%A2%AB%E6%AF%8D%E4%BA%B2%E5%8F%96%E6%B6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [蔡少芬你不要再叫了](https://www.baidu.com/s?wd=%E8%94%A1%E5%B0%91%E8%8A%AC%E4%BD%A0%E4%B8%8D%E8%A6%81%E5%86%8D%E5%8F%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [广东一条龙舟70个房东 身价20亿](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E6%9D%A1%E9%BE%99%E8%88%9F70%E4%B8%AA%E6%88%BF%E4%B8%9C+%E8%BA%AB%E4%BB%B720%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [火车站回应锁门致乘客40℃下苦等](https://www.baidu.com/s?wd=%E7%81%AB%E8%BD%A6%E7%AB%99%E5%9B%9E%E5%BA%94%E9%94%81%E9%97%A8%E8%87%B4%E4%B9%98%E5%AE%A240%E2%84%83%E4%B8%8B%E8%8B%A6%E7%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [致5死潜艇内部：没凳子只能盘腿坐](https://www.baidu.com/s?wd=%E8%87%B45%E6%AD%BB%E6%BD%9C%E8%89%87%E5%86%85%E9%83%A8%EF%BC%9A%E6%B2%A1%E5%87%B3%E5%AD%90%E5%8F%AA%E8%83%BD%E7%9B%98%E8%85%BF%E5%9D%90&sa=fyb_news&rsv_dl=fyb_news)<br />
