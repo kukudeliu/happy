@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 16:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 16:36:01</h4></div>
 
 > 微博  
 
@@ -31,10 +31,10 @@
 3. [国语版《青鸟》毁童年](https://www.baidu.com/s?wd=%E5%9B%BD%E8%AF%AD%E7%89%88%E3%80%8A%E9%9D%92%E9%B8%9F%E3%80%8B%E6%AF%81%E7%AB%A5%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [五彩丝线祝高“粽”](https://www.baidu.com/s?wd=%E4%BA%94%E5%BD%A9%E4%B8%9D%E7%BA%BF%E7%A5%9D%E9%AB%98%E2%80%9C%E7%B2%BD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [大连一家六口遇害 警方介入](https://www.baidu.com/s?wd=%E5%A4%A7%E8%BF%9E%E4%B8%80%E5%AE%B6%E5%85%AD%E5%8F%A3%E9%81%87%E5%AE%B3+%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [辽宁一钢铁厂烫伤事故致4死5伤](https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E4%B8%80%E9%92%A2%E9%93%81%E5%8E%82%E7%83%AB%E4%BC%A4%E4%BA%8B%E6%95%85%E8%87%B44%E6%AD%BB5%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [马斯克线上约架被母亲取消](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%BA%BF%E4%B8%8A%E7%BA%A6%E6%9E%B6%E8%A2%AB%E6%AF%8D%E4%BA%B2%E5%8F%96%E6%B6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [蔡少芬你不要再叫了](https://www.baidu.com/s?wd=%E8%94%A1%E5%B0%91%E8%8A%AC%E4%BD%A0%E4%B8%8D%E8%A6%81%E5%86%8D%E5%8F%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [这粽子是犯了天条吗被绑成这样](https://www.baidu.com/s?wd=%E8%BF%99%E7%B2%BD%E5%AD%90%E6%98%AF%E7%8A%AF%E4%BA%86%E5%A4%A9%E6%9D%A1%E5%90%97%E8%A2%AB%E7%BB%91%E6%88%90%E8%BF%99%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [马斯克线上约架被母亲取消](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%BA%BF%E4%B8%8A%E7%BA%A6%E6%9E%B6%E8%A2%AB%E6%AF%8D%E4%BA%B2%E5%8F%96%E6%B6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [蔡少芬你不要再叫了](https://www.baidu.com/s?wd=%E8%94%A1%E5%B0%91%E8%8A%AC%E4%BD%A0%E4%B8%8D%E8%A6%81%E5%86%8D%E5%8F%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [这粽子是犯了天条吗被绑成这样](https://www.baidu.com/s?wd=%E8%BF%99%E7%B2%BD%E5%AD%90%E6%98%AF%E7%8A%AF%E4%BA%86%E5%A4%A9%E6%9D%A1%E5%90%97%E8%A2%AB%E7%BB%91%E6%88%90%E8%BF%99%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [广东一条龙舟70个房东 身价20亿](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E6%9D%A1%E9%BE%99%E8%88%9F70%E4%B8%AA%E6%88%BF%E4%B8%9C+%E8%BA%AB%E4%BB%B720%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [国语版《青鸟》毁童年](https://www.baidu.com/s?wd=%E5%9B%BD%E8%AF%AD%E7%89%88%E3%80%8A%E9%9D%92%E9%B8%9F%E3%80%8B%E6%AF%81%E7%AB%A5%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [五彩丝线祝高“粽”](https://www.baidu.com/s?wd=%E4%BA%94%E5%BD%A9%E4%B8%9D%E7%BA%BF%E7%A5%9D%E9%AB%98%E2%80%9C%E7%B2%BD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [大连一家六口遇害 警方介入](https://www.baidu.com/s?wd=%E5%A4%A7%E8%BF%9E%E4%B8%80%E5%AE%B6%E5%85%AD%E5%8F%A3%E9%81%87%E5%AE%B3+%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [辽宁一钢铁厂烫伤事故致4死5伤](https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E4%B8%80%E9%92%A2%E9%93%81%E5%8E%82%E7%83%AB%E4%BC%A4%E4%BA%8B%E6%95%85%E8%87%B44%E6%AD%BB5%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [马斯克线上约架被母亲取消](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%BA%BF%E4%B8%8A%E7%BA%A6%E6%9E%B6%E8%A2%AB%E6%AF%8D%E4%BA%B2%E5%8F%96%E6%B6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [蔡少芬你不要再叫了](https://www.baidu.com/s?wd=%E8%94%A1%E5%B0%91%E8%8A%AC%E4%BD%A0%E4%B8%8D%E8%A6%81%E5%86%8D%E5%8F%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [这粽子是犯了天条吗被绑成这样](https://www.baidu.com/s?wd=%E8%BF%99%E7%B2%BD%E5%AD%90%E6%98%AF%E7%8A%AF%E4%BA%86%E5%A4%A9%E6%9D%A1%E5%90%97%E8%A2%AB%E7%BB%91%E6%88%90%E8%BF%99%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [马斯克线上约架被母亲取消](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%BA%BF%E4%B8%8A%E7%BA%A6%E6%9E%B6%E8%A2%AB%E6%AF%8D%E4%BA%B2%E5%8F%96%E6%B6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [蔡少芬你不要再叫了](https://www.baidu.com/s?wd=%E8%94%A1%E5%B0%91%E8%8A%AC%E4%BD%A0%E4%B8%8D%E8%A6%81%E5%86%8D%E5%8F%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [这粽子是犯了天条吗被绑成这样](https://www.baidu.com/s?wd=%E8%BF%99%E7%B2%BD%E5%AD%90%E6%98%AF%E7%8A%AF%E4%BA%86%E5%A4%A9%E6%9D%A1%E5%90%97%E8%A2%AB%E7%BB%91%E6%88%90%E8%BF%99%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [广东一条龙舟70个房东 身价20亿](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E6%9D%A1%E9%BE%99%E8%88%9F70%E4%B8%AA%E6%88%BF%E4%B8%9C+%E8%BA%AB%E4%BB%B720%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
