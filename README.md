@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 22:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 23:00:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [马伊琍 俊生和凌玲祝福你们](https://s.weibo.com/weibo?q=%E9%A9%AC%E4%BC%8A%E7%90%8D%20%E4%BF%8A%E7%94%9F%E5%92%8C%E5%87%8C%E7%8E%B2%E7%A5%9D%E7%A6%8F%E4%BD%A0%E4%BB%AC&t=31&band_rank=6&Refer=top)<br />
 7. [外星人](https://s.weibo.com/weibo?q=%E5%A4%96%E6%98%9F%E4%BA%BA&t=31&band_rank=7&Refer=top)<br />
 8. [梁实第27次高考查分](https://s.weibo.com/weibo?q=%23%E6%A2%81%E5%AE%9E%E7%AC%AC27%E6%AC%A1%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [帆帆三连MVP](https://s.weibo.com/weibo?q=%23%E5%B8%86%E5%B8%86%E4%B8%89%E8%BF%9EMVP%23&t=31&band_rank=9&Refer=top)<br />
+9. [只有广东人是真心想救屈原的](https://s.weibo.com/weibo?q=%E5%8F%AA%E6%9C%89%E5%B9%BF%E4%B8%9C%E4%BA%BA%E6%98%AF%E7%9C%9F%E5%BF%83%E6%83%B3%E6%95%91%E5%B1%88%E5%8E%9F%E7%9A%84&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
