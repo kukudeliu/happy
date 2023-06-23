@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 09:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 09:08:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [成都UFO](https://s.weibo.com/weibo?q=%E6%88%90%E9%83%BDUFO&t=31&band_rank=5&Refer=top)<br />
 6. [国产暗恋剧天花板](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BA%A7%E6%9A%97%E6%81%8B%E5%89%A7%E5%A4%A9%E8%8A%B1%E6%9D%BF%23&t=31&band_rank=6&Refer=top)<br />
 7. [怀孕33周孕妇被2岁儿子开枪打死](https://s.weibo.com/weibo?q=%23%E6%80%80%E5%AD%9533%E5%91%A8%E5%AD%95%E5%A6%87%E8%A2%AB2%E5%B2%81%E5%84%BF%E5%AD%90%E5%BC%80%E6%9E%AA%E6%89%93%E6%AD%BB%23&t=31&band_rank=7&Refer=top)<br />
-8. [实名注册手机卡不注销的后果](https://s.weibo.com/weibo?q=%23%E5%AE%9E%E5%90%8D%E6%B3%A8%E5%86%8C%E6%89%8B%E6%9C%BA%E5%8D%A1%E4%B8%8D%E6%B3%A8%E9%94%80%E7%9A%84%E5%90%8E%E6%9E%9C%23&t=31&band_rank=8&Refer=top)<br />
-9. [文班亚马当选状元](https://s.weibo.com/weibo?q=%23%E6%96%87%E7%8F%AD%E4%BA%9A%E9%A9%AC%E5%BD%93%E9%80%89%E7%8A%B6%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
+8. [文班亚马当选状元](https://s.weibo.com/weibo?q=%23%E6%96%87%E7%8F%AD%E4%BA%9A%E9%A9%AC%E5%BD%93%E9%80%89%E7%8A%B6%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
+9. [实名注册手机卡不注销的后果](https://s.weibo.com/weibo?q=%23%E5%AE%9E%E5%90%8D%E6%B3%A8%E5%86%8C%E6%89%8B%E6%9C%BA%E5%8D%A1%E4%B8%8D%E6%B3%A8%E9%94%80%E7%9A%84%E5%90%8E%E6%9E%9C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -18,7 +18,7 @@
 2. [扎克伯格和马斯克线上约架，马斯克称准备来一场笼斗，扎克伯格回应称「地址发我」，如何看待此事？](https://www.zhihu.com/question/608012861)<br />
 3. [日本 200 多所大学或因缺少生源倒闭，多所大学停止招生，日本人口连续 12 年减少，将产生哪些影响？](https://www.zhihu.com/question/607979062)<br />
 4. [银川政府表示尽快查明爆炸事故原因，立即开展为期一个月的安全生产大排查大整治行动，还有哪些信息值得关注？](https://www.zhihu.com/question/608017964)<br />
-5. []()<br />
+5. [美国失联深海潜水器发生「灾难性内爆」，5 名乘员死亡，「内爆」是如何发生的？此次事故将产生哪些影响？](https://www.zhihu.com/question/608085455)<br />
 6. []()<br />
 7. [曝 NBA 重磅交易，保罗被交易至勇士，普尔罗林斯前往奇才，如何评价这项交易？](https://www.zhihu.com/question/608085587)<br />
 8. [发改委与德国宝马、奔驰、大众汽车签署合作意向书，共同推动新能源汽车研发创新和推广应用，如何解读？](https://www.zhihu.com/question/607897726)<br />
