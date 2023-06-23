@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 22:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 22:30:01</h4></div>
 
 > 微博  
 
@@ -15,14 +15,14 @@
 > 知乎  
 
 1. [美国失联深海潜水器发生「灾难性内爆」，5 名乘员死亡，「内爆」是如何发生的？此次事故将产生哪些影响？](https://www.zhihu.com/question/608085455)<br />
-2. [某一位同事被辞退了，明天就走了。今天给他分配任务不理我了，我错了吗？](https://www.zhihu.com/question/607636838)<br />
-3. [韩国环境部已批准「萨德」基地环评报告，基建工作将全面启动，「萨德」部署后将造成哪些影响？](https://www.zhihu.com/question/608002674)<br />
-4. [2023 LPL 夏季赛 JDG 2:0 击败 TES 八连胜稳坐联赛头名，如何评价这场比赛？](https://www.zhihu.com/question/608142653)<br />
-5. [2023 江西高考分数线公布，理工一本 518 文史一本 533，如何评价今年的分数线？](https://www.zhihu.com/question/607974350)<br />
-6. [北京多家银行房贷已下调 10 个基点，首套房贷利率降至 4.75％ ，将带来哪些利好？](https://www.zhihu.com/question/607787494)<br />
-7. [拜登会见莫迪，谈及美印关系硬扯中国，哪些信息值得关注？美印再次拥抱，对中国威胁几何？](https://www.zhihu.com/question/608121348)<br />
-8. [电影《消失的她》有哪些精彩看点？](https://www.zhihu.com/question/604320266)<br />
-9. [如果你有 200 万，你会辞职躺平吗？](https://www.zhihu.com/question/601684334)<br />
+2. [韩国环境部已批准「萨德」基地环评报告，基建工作将全面启动，「萨德」部署后将造成哪些影响？](https://www.zhihu.com/question/608002674)<br />
+3. [2023 LPL 夏季赛 JDG 2:0 击败 TES 八连胜稳坐联赛头名，如何评价这场比赛？](https://www.zhihu.com/question/608142653)<br />
+4. [2023 江西高考分数线公布，理工一本 518 文史一本 533，如何评价今年的分数线？](https://www.zhihu.com/question/607974350)<br />
+5. [北京多家银行房贷已下调 10 个基点，首套房贷利率降至 4.75％ ，将带来哪些利好？](https://www.zhihu.com/question/607787494)<br />
+6. [拜登会见莫迪，谈及美印关系硬扯中国，哪些信息值得关注？美印再次拥抱，对中国威胁几何？](https://www.zhihu.com/question/608121348)<br />
+7. [电影《消失的她》有哪些精彩看点？](https://www.zhihu.com/question/604320266)<br />
+8. [如果你有 200 万，你会辞职躺平吗？](https://www.zhihu.com/question/601684334)<br />
+9. [如何有效地辅导孩子写作业？](https://www.zhihu.com/question/269923468)<br />
 
 > 百度  
 
@@ -34,7 +34,7 @@
 6. [外星人或利用超新星爆炸引人类注意](https://www.baidu.com/s?wd=%E5%A4%96%E6%98%9F%E4%BA%BA%E6%88%96%E5%88%A9%E7%94%A8%E8%B6%85%E6%96%B0%E6%98%9F%E7%88%86%E7%82%B8%E5%BC%95%E4%BA%BA%E7%B1%BB%E6%B3%A8%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [董事长开车进长城被拒拆门?公司回应](https://www.baidu.com/s?wd=%E8%91%A3%E4%BA%8B%E9%95%BF%E5%BC%80%E8%BD%A6%E8%BF%9B%E9%95%BF%E5%9F%8E%E8%A2%AB%E6%8B%92%E6%8B%86%E9%97%A8%3F%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [泰坦号前乘客自曝下潜是自杀之旅](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9D%A6%E5%8F%B7%E5%89%8D%E4%B9%98%E5%AE%A2%E8%87%AA%E6%9B%9D%E4%B8%8B%E6%BD%9C%E6%98%AF%E8%87%AA%E6%9D%80%E4%B9%8B%E6%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [太阳6个月清空所有选秀权](https://www.baidu.com/s?wd=%E5%A4%AA%E9%98%B36%E4%B8%AA%E6%9C%88%E6%B8%85%E7%A9%BA%E6%89%80%E6%9C%89%E9%80%89%E7%A7%80%E6%9D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [人行道突发塌陷围观老人掉入坑中](https://www.baidu.com/s?wd=%E4%BA%BA%E8%A1%8C%E9%81%93%E7%AA%81%E5%8F%91%E5%A1%8C%E9%99%B7%E5%9B%B4%E8%A7%82%E8%80%81%E4%BA%BA%E6%8E%89%E5%85%A5%E5%9D%91%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [外星人或利用超新星爆炸引人类注意](https://www.baidu.com/s?wd=%E5%A4%96%E6%98%9F%E4%BA%BA%E6%88%96%E5%88%A9%E7%94%A8%E8%B6%85%E6%96%B0%E6%98%9F%E7%88%86%E7%82%B8%E5%BC%95%E4%BA%BA%E7%B1%BB%E6%B3%A8%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [董事长开车进长城被拒拆门?公司回应](https://www.baidu.com/s?wd=%E8%91%A3%E4%BA%8B%E9%95%BF%E5%BC%80%E8%BD%A6%E8%BF%9B%E9%95%BF%E5%9F%8E%E8%A2%AB%E6%8B%92%E6%8B%86%E9%97%A8%3F%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [泰坦号前乘客自曝下潜是自杀之旅](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9D%A6%E5%8F%B7%E5%89%8D%E4%B9%98%E5%AE%A2%E8%87%AA%E6%9B%9D%E4%B8%8B%E6%BD%9C%E6%98%AF%E8%87%AA%E6%9D%80%E4%B9%8B%E6%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [太阳6个月清空所有选秀权](https://www.baidu.com/s?wd=%E5%A4%AA%E9%98%B36%E4%B8%AA%E6%9C%88%E6%B8%85%E7%A9%BA%E6%89%80%E6%9C%89%E9%80%89%E7%A7%80%E6%9D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [人行道突发塌陷围观老人掉入坑中](https://www.baidu.com/s?wd=%E4%BA%BA%E8%A1%8C%E9%81%93%E7%AA%81%E5%8F%91%E5%A1%8C%E9%99%B7%E5%9B%B4%E8%A7%82%E8%80%81%E4%BA%BA%E6%8E%89%E5%85%A5%E5%9D%91%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
