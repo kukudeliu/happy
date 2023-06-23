@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 02:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 03:00:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [鹿晗演唱会上不敢读的灯牌](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E4%B8%8D%E6%95%A2%E8%AF%BB%E7%9A%84%E7%81%AF%E7%89%8C%23&t=31&band_rank=4&Refer=top)<br />
 5. [外星人](https://s.weibo.com/weibo?q=%E5%A4%96%E6%98%9F%E4%BA%BA&t=31&band_rank=5&Refer=top)<br />
 6. [吴越 白玉兰视后](https://s.weibo.com/weibo?q=%E5%90%B4%E8%B6%8A%20%E7%99%BD%E7%8E%89%E5%85%B0%E8%A7%86%E5%90%8E&t=31&band_rank=6&Refer=top)<br />
-7. [沈梦瑶起诉丝芭传媒申请解约](https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%A2%A6%E7%91%B6%E8%B5%B7%E8%AF%89%E4%B8%9D%E8%8A%AD%E4%BC%A0%E5%AA%92%E7%94%B3%E8%AF%B7%E8%A7%A3%E7%BA%A6%23&t=31&band_rank=7&Refer=top)<br />
-8. [丫丫回国前后变化好大](https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E5%9B%9E%E5%9B%BD%E5%89%8D%E5%90%8E%E5%8F%98%E5%8C%96%E5%A5%BD%E5%A4%A7%23&t=31&band_rank=8&Refer=top)<br />
+7. [丫丫回国前后变化好大](https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E5%9B%9E%E5%9B%BD%E5%89%8D%E5%90%8E%E5%8F%98%E5%8C%96%E5%A5%BD%E5%A4%A7%23&t=31&band_rank=7&Refer=top)<br />
+8. [沈梦瑶起诉丝芭传媒申请解约](https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%A2%A6%E7%91%B6%E8%B5%B7%E8%AF%89%E4%B8%9D%E8%8A%AD%E4%BC%A0%E5%AA%92%E7%94%B3%E8%AF%B7%E8%A7%A3%E7%BA%A6%23&t=31&band_rank=8&Refer=top)<br />
 9. [男生高考查分584父子俩笑得合不拢嘴](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86584%E7%88%B6%E5%AD%90%E4%BF%A9%E7%AC%91%E5%BE%97%E5%90%88%E4%B8%8D%E6%8B%A2%E5%98%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
