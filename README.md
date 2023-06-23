@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 07:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 07:59:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [保罗被交易至勇士](https://s.weibo.com/weibo?q=%23%E4%BF%9D%E7%BD%97%E8%A2%AB%E4%BA%A4%E6%98%93%E8%87%B3%E5%8B%87%E5%A3%AB%23&t=31&band_rank=6&Refer=top)<br />
 7. [马伯庸 别人发端午安康我回复端午快乐](https://s.weibo.com/weibo?q=%E9%A9%AC%E4%BC%AF%E5%BA%B8%20%E5%88%AB%E4%BA%BA%E5%8F%91%E7%AB%AF%E5%8D%88%E5%AE%89%E5%BA%B7%E6%88%91%E5%9B%9E%E5%A4%8D%E7%AB%AF%E5%8D%88%E5%BF%AB%E4%B9%90&t=31&band_rank=7&Refer=top)<br />
 8. [消失的她票房](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%88%BF&t=31&band_rank=8&Refer=top)<br />
-9. [怀孕33周孕妇被2岁儿子开枪打死](https://s.weibo.com/weibo?q=%23%E6%80%80%E5%AD%9533%E5%91%A8%E5%AD%95%E5%A6%87%E8%A2%AB2%E5%B2%81%E5%84%BF%E5%AD%90%E5%BC%80%E6%9E%AA%E6%89%93%E6%AD%BB%23&t=31&band_rank=9&Refer=top)<br />
+9. [这粽子是犯了天条吗被绑成这样](https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%B2%BD%E5%AD%90%E6%98%AF%E7%8A%AF%E4%BA%86%E5%A4%A9%E6%9D%A1%E5%90%97%E8%A2%AB%E7%BB%91%E6%88%90%E8%BF%99%E6%A0%B7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -28,22 +28,22 @@
 
 1. [习近平对宁夏爆炸事故作重要指示](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AF%B9%E5%AE%81%E5%A4%8F%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E4%BD%9C%E9%87%8D%E8%A6%81%E6%8C%87%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [泰坦号观光艇内爆 5名乘员死亡](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9D%A6%E5%8F%B7%E8%A7%82%E5%85%89%E8%89%87%E5%86%85%E7%88%86+5%E5%90%8D%E4%B9%98%E5%91%98%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [端午节成都惊现不明飞行物](https://www.baidu.com/s?wd=%E7%AB%AF%E5%8D%88%E8%8A%82%E6%88%90%E9%83%BD%E6%83%8A%E7%8E%B0%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [成都上空现UFO？学者：或为火流星](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E4%B8%8A%E7%A9%BA%E7%8E%B0UFO%EF%BC%9F%E5%AD%A6%E8%80%85%EF%BC%9A%E6%88%96%E4%B8%BA%E7%81%AB%E6%B5%81%E6%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [文博日历丨古人怎么过端午](https://www.baidu.com/s?wd=%E6%96%87%E5%8D%9A%E6%97%A5%E5%8E%86%E4%B8%A8%E5%8F%A4%E4%BA%BA%E6%80%8E%E4%B9%88%E8%BF%87%E7%AB%AF%E5%8D%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [端午假期遇上高考查分](https://www.baidu.com/s?wd=%E7%AB%AF%E5%8D%88%E5%81%87%E6%9C%9F%E9%81%87%E4%B8%8A%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [2023好声音导师官宣](https://www.baidu.com/s?wd=2023%E5%A5%BD%E5%A3%B0%E9%9F%B3%E5%AF%BC%E5%B8%88%E5%AE%98%E5%AE%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [银川烧烤店店员：站门口躲过一劫](https://www.baidu.com/s?wd=%E9%93%B6%E5%B7%9D%E7%83%A7%E7%83%A4%E5%BA%97%E5%BA%97%E5%91%98%EF%BC%9A%E7%AB%99%E9%97%A8%E5%8F%A3%E8%BA%B2%E8%BF%87%E4%B8%80%E5%8A%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [知情人称烧烤店先后发生2次爆炸](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0%E7%83%A7%E7%83%A4%E5%BA%97%E5%85%88%E5%90%8E%E5%8F%91%E7%94%9F2%E6%AC%A1%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [知情人称烧烤店先后发生2次爆炸](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0%E7%83%A7%E7%83%A4%E5%BA%97%E5%85%88%E5%90%8E%E5%8F%91%E7%94%9F2%E6%AC%A1%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [苏州和上海地铁连起来了](https://www.baidu.com/s?wd=%E8%8B%8F%E5%B7%9E%E5%92%8C%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E8%BF%9E%E8%B5%B7%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [长风渡14集杀疯了](https://www.baidu.com/s?wd=%E9%95%BF%E9%A3%8E%E6%B8%A114%E9%9B%86%E6%9D%80%E7%96%AF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [习近平对宁夏爆炸事故作重要指示](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AF%B9%E5%AE%81%E5%A4%8F%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E4%BD%9C%E9%87%8D%E8%A6%81%E6%8C%87%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [泰坦号观光艇内爆 5名乘员死亡](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9D%A6%E5%8F%B7%E8%A7%82%E5%85%89%E8%89%87%E5%86%85%E7%88%86+5%E5%90%8D%E4%B9%98%E5%91%98%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [端午节成都惊现不明飞行物](https://www.baidu.com/s?wd=%E7%AB%AF%E5%8D%88%E8%8A%82%E6%88%90%E9%83%BD%E6%83%8A%E7%8E%B0%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [成都上空现UFO？学者：或为火流星](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E4%B8%8A%E7%A9%BA%E7%8E%B0UFO%EF%BC%9F%E5%AD%A6%E8%80%85%EF%BC%9A%E6%88%96%E4%B8%BA%E7%81%AB%E6%B5%81%E6%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [文博日历丨古人怎么过端午](https://www.baidu.com/s?wd=%E6%96%87%E5%8D%9A%E6%97%A5%E5%8E%86%E4%B8%A8%E5%8F%A4%E4%BA%BA%E6%80%8E%E4%B9%88%E8%BF%87%E7%AB%AF%E5%8D%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [端午假期遇上高考查分](https://www.baidu.com/s?wd=%E7%AB%AF%E5%8D%88%E5%81%87%E6%9C%9F%E9%81%87%E4%B8%8A%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [2023好声音导师官宣](https://www.baidu.com/s?wd=2023%E5%A5%BD%E5%A3%B0%E9%9F%B3%E5%AF%BC%E5%B8%88%E5%AE%98%E5%AE%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [银川烧烤店店员：站门口躲过一劫](https://www.baidu.com/s?wd=%E9%93%B6%E5%B7%9D%E7%83%A7%E7%83%A4%E5%BA%97%E5%BA%97%E5%91%98%EF%BC%9A%E7%AB%99%E9%97%A8%E5%8F%A3%E8%BA%B2%E8%BF%87%E4%B8%80%E5%8A%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [知情人称烧烤店先后发生2次爆炸](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0%E7%83%A7%E7%83%A4%E5%BA%97%E5%85%88%E5%90%8E%E5%8F%91%E7%94%9F2%E6%AC%A1%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [知情人称烧烤店先后发生2次爆炸](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0%E7%83%A7%E7%83%A4%E5%BA%97%E5%85%88%E5%90%8E%E5%8F%91%E7%94%9F2%E6%AC%A1%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [苏州和上海地铁连起来了](https://www.baidu.com/s?wd=%E8%8B%8F%E5%B7%9E%E5%92%8C%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E8%BF%9E%E8%B5%B7%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [长风渡14集杀疯了](https://www.baidu.com/s?wd=%E9%95%BF%E9%A3%8E%E6%B8%A114%E9%9B%86%E6%9D%80%E7%96%AF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
