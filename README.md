@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 17:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 17:47:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [张嘉倪因为四公错过外婆追悼会](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%98%89%E5%80%AA%E5%9B%A0%E4%B8%BA%E5%9B%9B%E5%85%AC%E9%94%99%E8%BF%87%E5%A4%96%E5%A9%86%E8%BF%BD%E6%82%BC%E4%BC%9A%23&t=31&band_rank=4&Refer=top)<br />
 5. [白玉兰提名](https://s.weibo.com/weibo?q=%E7%99%BD%E7%8E%89%E5%85%B0%E6%8F%90%E5%90%8D&t=31&band_rank=5&Refer=top)<br />
 6. [山东已现43℃以上高温](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E5%B7%B2%E7%8E%B043%E2%84%83%E4%BB%A5%E4%B8%8A%E9%AB%98%E6%B8%A9%23&t=31&band_rank=6&Refer=top)<br />
-7. [傅韵哲高考成绩](https://s.weibo.com/weibo?q=%E5%82%85%E9%9F%B5%E5%93%B2%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9&t=31&band_rank=7&Refer=top)<br />
-8. [高考分数线](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%23&t=31&band_rank=8&Refer=top)<br />
+7. [高考分数线](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%23&t=31&band_rank=7&Refer=top)<br />
+8. [傅韵哲高考成绩](https://s.weibo.com/weibo?q=%E5%82%85%E9%9F%B5%E5%93%B2%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9&t=31&band_rank=8&Refer=top)<br />
 9. [女子番茄吃多胃痛医生让喝可乐治疗](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%95%AA%E8%8C%84%E5%90%83%E5%A4%9A%E8%83%83%E7%97%9B%E5%8C%BB%E7%94%9F%E8%AE%A9%E5%96%9D%E5%8F%AF%E4%B9%90%E6%B2%BB%E7%96%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -34,7 +34,7 @@
 6. [女子番茄吃多胃痛医生让喝可乐](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%95%AA%E8%8C%84%E5%90%83%E5%A4%9A%E8%83%83%E7%97%9B%E5%8C%BB%E7%94%9F%E8%AE%A9%E5%96%9D%E5%8F%AF%E4%B9%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [泰坦号前乘客自曝下潜是自杀之旅](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9D%A6%E5%8F%B7%E5%89%8D%E4%B9%98%E5%AE%A2%E8%87%AA%E6%9B%9D%E4%B8%8B%E6%BD%9C%E6%98%AF%E8%87%AA%E6%9D%80%E4%B9%8B%E6%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [这粽子是犯了天条吗被绑成这样](https://www.baidu.com/s?wd=%E8%BF%99%E7%B2%BD%E5%AD%90%E6%98%AF%E7%8A%AF%E4%BA%86%E5%A4%A9%E6%9D%A1%E5%90%97%E8%A2%AB%E7%BB%91%E6%88%90%E8%BF%99%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [专家：四方面原因叠加致高温持续](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E5%9B%9B%E6%96%B9%E9%9D%A2%E5%8E%9F%E5%9B%A0%E5%8F%A0%E5%8A%A0%E8%87%B4%E9%AB%98%E6%B8%A9%E6%8C%81%E7%BB%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [董事长开车进金山岭长城被拒强拆大门](https://www.baidu.com/s?wd=%E8%91%A3%E4%BA%8B%E9%95%BF%E5%BC%80%E8%BD%A6%E8%BF%9B%E9%87%91%E5%B1%B1%E5%B2%AD%E9%95%BF%E5%9F%8E%E8%A2%AB%E6%8B%92%E5%BC%BA%E6%8B%86%E5%A4%A7%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [女子番茄吃多胃痛医生让喝可乐](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%95%AA%E8%8C%84%E5%90%83%E5%A4%9A%E8%83%83%E7%97%9B%E5%8C%BB%E7%94%9F%E8%AE%A9%E5%96%9D%E5%8F%AF%E4%B9%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [泰坦号前乘客自曝下潜是自杀之旅](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9D%A6%E5%8F%B7%E5%89%8D%E4%B9%98%E5%AE%A2%E8%87%AA%E6%9B%9D%E4%B8%8B%E6%BD%9C%E6%98%AF%E8%87%AA%E6%9D%80%E4%B9%8B%E6%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [这粽子是犯了天条吗被绑成这样](https://www.baidu.com/s?wd=%E8%BF%99%E7%B2%BD%E5%AD%90%E6%98%AF%E7%8A%AF%E4%BA%86%E5%A4%A9%E6%9D%A1%E5%90%97%E8%A2%AB%E7%BB%91%E6%88%90%E8%BF%99%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [专家：四方面原因叠加致高温持续](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E5%9B%9B%E6%96%B9%E9%9D%A2%E5%8E%9F%E5%9B%A0%E5%8F%A0%E5%8A%A0%E8%87%B4%E9%AB%98%E6%B8%A9%E6%8C%81%E7%BB%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [董事长开车进金山岭长城被拒强拆大门](https://www.baidu.com/s?wd=%E8%91%A3%E4%BA%8B%E9%95%BF%E5%BC%80%E8%BD%A6%E8%BF%9B%E9%87%91%E5%B1%B1%E5%B2%AD%E9%95%BF%E5%9F%8E%E8%A2%AB%E6%8B%92%E5%BC%BA%E6%8B%86%E5%A4%A7%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
