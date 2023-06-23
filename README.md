@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 16:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 16:24:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [高考分数线](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%23&t=31&band_rank=5&Refer=top)<br />
 6. [女子番茄吃多胃痛医生让喝可乐治疗](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%95%AA%E8%8C%84%E5%90%83%E5%A4%9A%E8%83%83%E7%97%9B%E5%8C%BB%E7%94%9F%E8%AE%A9%E5%96%9D%E5%8F%AF%E4%B9%90%E6%B2%BB%E7%96%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [青鸟](https://s.weibo.com/weibo?q=%E9%9D%92%E9%B8%9F&t=31&band_rank=7&Refer=top)<br />
-8. [41℃高温把衣服晒着了](https://s.weibo.com/weibo?q=%2341%E2%84%83%E9%AB%98%E6%B8%A9%E6%8A%8A%E8%A1%A3%E6%9C%8D%E6%99%92%E7%9D%80%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [外星人或正在利用超新星爆炸引人类注意](https://s.weibo.com/weibo?q=%23%E5%A4%96%E6%98%9F%E4%BA%BA%E6%88%96%E6%AD%A3%E5%9C%A8%E5%88%A9%E7%94%A8%E8%B6%85%E6%96%B0%E6%98%9F%E7%88%86%E7%82%B8%E5%BC%95%E4%BA%BA%E7%B1%BB%E6%B3%A8%E6%84%8F%23&t=31&band_rank=9&Refer=top)<br />
+8. [外星人或正在利用超新星爆炸引人类注意](https://s.weibo.com/weibo?q=%23%E5%A4%96%E6%98%9F%E4%BA%BA%E6%88%96%E6%AD%A3%E5%9C%A8%E5%88%A9%E7%94%A8%E8%B6%85%E6%96%B0%E6%98%9F%E7%88%86%E7%82%B8%E5%BC%95%E4%BA%BA%E7%B1%BB%E6%B3%A8%E6%84%8F%23&t=31&band_rank=8&Refer=top)<br />
+9. [41℃高温把衣服晒着了](https://s.weibo.com/weibo?q=%2341%E2%84%83%E9%AB%98%E6%B8%A9%E6%8A%8A%E8%A1%A3%E6%9C%8D%E6%99%92%E7%9D%80%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -21,15 +21,15 @@
 5. [NBA 选秀大会：马刺状元签选择文班亚马，黄蜂选中米勒，如何看待他们的前景？](https://www.zhihu.com/question/608089914)<br />
 6. [中国气象局启动高温四级应急响应，伴随高温而来的有哪些隐忧需要警惕、预防？](https://www.zhihu.com/question/608101451)<br />
 7. [140 元一根演唱会荧光棒成本仅 10 元，你对五月天演唱会的天价荧光棒有何看法？](https://www.zhihu.com/question/607116754)<br />
-8. [各地 2023 高考分数线陆续公布，如何看待今年的分数线，与去年相比有何变化？](https://www.zhihu.com/question/607974548)<br />
-9. [如何评价《黑镜》（Black Mirror）第六季第一集「Joan is awful」？](https://www.zhihu.com/question/606816407)<br />
+8. [如何评价《黑镜》（Black Mirror）第六季第一集「Joan is awful」？](https://www.zhihu.com/question/606816407)<br />
+9. [2024 年将实行新高考地区的高考生，今年没考好还建议复读吗？](https://www.zhihu.com/question/605231748)<br />
 
 > 百度  
 
 1. [习近平对宁夏爆炸事故作重要指示](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AF%B9%E5%AE%81%E5%A4%8F%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E4%BD%9C%E9%87%8D%E8%A6%81%E6%8C%87%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [各地高考成绩今天起陆续公布](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E4%BB%8A%E5%A4%A9%E8%B5%B7%E9%99%86%E7%BB%AD%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [国语版《青鸟》毁童年](https://www.baidu.com/s?wd=%E5%9B%BD%E8%AF%AD%E7%89%88%E3%80%8A%E9%9D%92%E9%B8%9F%E3%80%8B%E6%AF%81%E7%AB%A5%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [文博日历丨古人怎么过端午](https://www.baidu.com/s?wd=%E6%96%87%E5%8D%9A%E6%97%A5%E5%8E%86%E4%B8%A8%E5%8F%A4%E4%BA%BA%E6%80%8E%E4%B9%88%E8%BF%87%E7%AB%AF%E5%8D%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [五彩丝线祝高“粽”](https://www.baidu.com/s?wd=%E4%BA%94%E5%BD%A9%E4%B8%9D%E7%BA%BF%E7%A5%9D%E9%AB%98%E2%80%9C%E7%B2%BD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [马斯克线上约架被母亲取消](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%BA%BF%E4%B8%8A%E7%BA%A6%E6%9E%B6%E8%A2%AB%E6%AF%8D%E4%BA%B2%E5%8F%96%E6%B6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [辽宁一钢铁厂烫伤事故致4死5伤](https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E4%B8%80%E9%92%A2%E9%93%81%E5%8E%82%E7%83%AB%E4%BC%A4%E4%BA%8B%E6%95%85%E8%87%B44%E6%AD%BB5%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [蔡少芬你不要再叫了](https://www.baidu.com/s?wd=%E8%94%A1%E5%B0%91%E8%8A%AC%E4%BD%A0%E4%B8%8D%E8%A6%81%E5%86%8D%E5%8F%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -41,7 +41,7 @@
 1. [习近平对宁夏爆炸事故作重要指示](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AF%B9%E5%AE%81%E5%A4%8F%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E4%BD%9C%E9%87%8D%E8%A6%81%E6%8C%87%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [各地高考成绩今天起陆续公布](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E4%BB%8A%E5%A4%A9%E8%B5%B7%E9%99%86%E7%BB%AD%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [国语版《青鸟》毁童年](https://www.baidu.com/s?wd=%E5%9B%BD%E8%AF%AD%E7%89%88%E3%80%8A%E9%9D%92%E9%B8%9F%E3%80%8B%E6%AF%81%E7%AB%A5%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [文博日历丨古人怎么过端午](https://www.baidu.com/s?wd=%E6%96%87%E5%8D%9A%E6%97%A5%E5%8E%86%E4%B8%A8%E5%8F%A4%E4%BA%BA%E6%80%8E%E4%B9%88%E8%BF%87%E7%AB%AF%E5%8D%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [五彩丝线祝高“粽”](https://www.baidu.com/s?wd=%E4%BA%94%E5%BD%A9%E4%B8%9D%E7%BA%BF%E7%A5%9D%E9%AB%98%E2%80%9C%E7%B2%BD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [马斯克线上约架被母亲取消](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%BA%BF%E4%B8%8A%E7%BA%A6%E6%9E%B6%E8%A2%AB%E6%AF%8D%E4%BA%B2%E5%8F%96%E6%B6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [辽宁一钢铁厂烫伤事故致4死5伤](https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E4%B8%80%E9%92%A2%E9%93%81%E5%8E%82%E7%83%AB%E4%BC%A4%E4%BA%8B%E6%95%85%E8%87%B44%E6%AD%BB5%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [蔡少芬你不要再叫了](https://www.baidu.com/s?wd=%E8%94%A1%E5%B0%91%E8%8A%AC%E4%BD%A0%E4%B8%8D%E8%A6%81%E5%86%8D%E5%8F%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
