@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 07:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 07:38:01</h4></div>
 
 > 微博  
 
@@ -21,29 +21,29 @@
 5. []()<br />
 6. [6 月 22 日比特币大涨，站上 30000 美元关口，为近两月以来首次，释放了哪些信号？](https://www.zhihu.com/question/607964858)<br />
 7. [如何评价 Uzi 在 2023 年复出后的表现？](https://www.zhihu.com/question/608011699)<br />
-8. [140 元一根演唱会荧光棒成本仅 10 元，你对五月天演唱会的「天价」荧光棒有何看法？](https://www.zhihu.com/question/607116754)<br />
-9. [2023 云南高考分数线一本文 530 降 45 分，理 485 降 30 分，创十年新低，如何评价？](https://www.zhihu.com/question/607974372)<br />
+8. [2023 云南高考分数线一本文 530 降 45 分，理 485 降 30 分，创十年新低，如何评价？](https://www.zhihu.com/question/607974372)<br />
+9. [140 元一根演唱会荧光棒成本仅 10 元，你对五月天演唱会的「天价」荧光棒有何看法？](https://www.zhihu.com/question/607116754)<br />
 
 > 百度  
 
 1. [龙舟竞渡](https://www.baidu.com/s?wd=%E9%BE%99%E8%88%9F%E7%AB%9E%E6%B8%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [雷佳音吴越分获白玉兰最佳男女主角](https://www.baidu.com/s?wd=%E9%9B%B7%E4%BD%B3%E9%9F%B3%E5%90%B4%E8%B6%8A%E5%88%86%E8%8E%B7%E7%99%BD%E7%8E%89%E5%85%B0%E6%9C%80%E4%BD%B3%E7%94%B7%E5%A5%B3%E4%B8%BB%E8%A7%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [男生高考查分601激动满屋蹦跳](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86601%E6%BF%80%E5%8A%A8%E6%BB%A1%E5%B1%8B%E8%B9%A6%E8%B7%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [汶川“敬礼娃娃”郎铮高考637分](https://www.baidu.com/s?wd=%E6%B1%B6%E5%B7%9D%E2%80%9C%E6%95%AC%E7%A4%BC%E5%A8%83%E5%A8%83%E2%80%9D%E9%83%8E%E9%93%AE%E9%AB%98%E8%80%83637%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [沉浸式游览中国美丽乡村](https://www.baidu.com/s?wd=%E6%B2%89%E6%B5%B8%E5%BC%8F%E6%B8%B8%E8%A7%88%E4%B8%AD%E5%9B%BD%E7%BE%8E%E4%B8%BD%E4%B9%A1%E6%9D%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [俄国防部否认袭击俄雇佣军营地](https://www.baidu.com/s?wd=%E4%BF%84%E5%9B%BD%E9%98%B2%E9%83%A8%E5%90%A6%E8%AE%A4%E8%A2%AD%E5%87%BB%E4%BF%84%E9%9B%87%E4%BD%A3%E5%86%9B%E8%90%A5%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [白玉兰完整名单出炉：狂飙挂零陪跑](https://www.baidu.com/s?wd=%E7%99%BD%E7%8E%89%E5%85%B0%E5%AE%8C%E6%95%B4%E5%90%8D%E5%8D%95%E5%87%BA%E7%82%89%EF%BC%9A%E7%8B%82%E9%A3%99%E6%8C%82%E9%9B%B6%E9%99%AA%E8%B7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [梁实第27次高考424分 未达二本线](https://www.baidu.com/s?wd=%E6%A2%81%E5%AE%9E%E7%AC%AC27%E6%AC%A1%E9%AB%98%E8%80%83424%E5%88%86+%E6%9C%AA%E8%BE%BE%E4%BA%8C%E6%9C%AC%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [胡歌是来进货的吧](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E6%98%AF%E6%9D%A5%E8%BF%9B%E8%B4%A7%E7%9A%84%E5%90%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [赵丽颖三次陪跑](https://www.baidu.com/s?wd=%E8%B5%B5%E4%B8%BD%E9%A2%96%E4%B8%89%E6%AC%A1%E9%99%AA%E8%B7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男生高考查分601激动满屋蹦跳](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86601%E6%BF%80%E5%8A%A8%E6%BB%A1%E5%B1%8B%E8%B9%A6%E8%B7%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [胡歌是来进货的吧](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E6%98%AF%E6%9D%A5%E8%BF%9B%E8%B4%A7%E7%9A%84%E5%90%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [龙舟竞渡](https://www.baidu.com/s?wd=%E9%BE%99%E8%88%9F%E7%AB%9E%E6%B8%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [雷佳音吴越分获白玉兰最佳男女主角](https://www.baidu.com/s?wd=%E9%9B%B7%E4%BD%B3%E9%9F%B3%E5%90%B4%E8%B6%8A%E5%88%86%E8%8E%B7%E7%99%BD%E7%8E%89%E5%85%B0%E6%9C%80%E4%BD%B3%E7%94%B7%E5%A5%B3%E4%B8%BB%E8%A7%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [男生高考查分601激动满屋蹦跳](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86601%E6%BF%80%E5%8A%A8%E6%BB%A1%E5%B1%8B%E8%B9%A6%E8%B7%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [汶川“敬礼娃娃”郎铮高考637分](https://www.baidu.com/s?wd=%E6%B1%B6%E5%B7%9D%E2%80%9C%E6%95%AC%E7%A4%BC%E5%A8%83%E5%A8%83%E2%80%9D%E9%83%8E%E9%93%AE%E9%AB%98%E8%80%83637%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [沉浸式游览中国美丽乡村](https://www.baidu.com/s?wd=%E6%B2%89%E6%B5%B8%E5%BC%8F%E6%B8%B8%E8%A7%88%E4%B8%AD%E5%9B%BD%E7%BE%8E%E4%B8%BD%E4%B9%A1%E6%9D%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [俄国防部否认袭击俄雇佣军营地](https://www.baidu.com/s?wd=%E4%BF%84%E5%9B%BD%E9%98%B2%E9%83%A8%E5%90%A6%E8%AE%A4%E8%A2%AD%E5%87%BB%E4%BF%84%E9%9B%87%E4%BD%A3%E5%86%9B%E8%90%A5%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [白玉兰完整名单出炉：狂飙挂零陪跑](https://www.baidu.com/s?wd=%E7%99%BD%E7%8E%89%E5%85%B0%E5%AE%8C%E6%95%B4%E5%90%8D%E5%8D%95%E5%87%BA%E7%82%89%EF%BC%9A%E7%8B%82%E9%A3%99%E6%8C%82%E9%9B%B6%E9%99%AA%E8%B7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [梁实第27次高考424分 未达二本线](https://www.baidu.com/s?wd=%E6%A2%81%E5%AE%9E%E7%AC%AC27%E6%AC%A1%E9%AB%98%E8%80%83424%E5%88%86+%E6%9C%AA%E8%BE%BE%E4%BA%8C%E6%9C%AC%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [胡歌是来进货的吧](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E6%98%AF%E6%9D%A5%E8%BF%9B%E8%B4%A7%E7%9A%84%E5%90%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [赵丽颖三次陪跑](https://www.baidu.com/s?wd=%E8%B5%B5%E4%B8%BD%E9%A2%96%E4%B8%89%E6%AC%A1%E9%99%AA%E8%B7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男生高考查分601激动满屋蹦跳](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86601%E6%BF%80%E5%8A%A8%E6%BB%A1%E5%B1%8B%E8%B9%A6%E8%B7%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [胡歌是来进货的吧](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E6%98%AF%E6%9D%A5%E8%BF%9B%E8%B4%A7%E7%9A%84%E5%90%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
