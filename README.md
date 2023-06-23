@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 05:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 05:58:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [6 月 22 日比特币大涨，站上 30000 美元关口，为近两月以来首次，释放了哪些信号？](https://www.zhihu.com/question/607964858)<br />
 6. []()<br />
 7. [如果我想用 Python 自动操作手机、电脑软件，应该学 Python 哪方面的知识呢？](https://www.zhihu.com/question/606030384)<br />
-8. [大家吃粽子，喜欢甜口还是咸口？](https://www.zhihu.com/question/607598941)<br />
-9. [如何评价 Uzi 在 2023 年复出后的表现？](https://www.zhihu.com/question/608011699)<br />
+8. [如何评价 Uzi 在 2023 年复出后的表现？](https://www.zhihu.com/question/608011699)<br />
+9. [大家吃粽子，喜欢甜口还是咸口？](https://www.zhihu.com/question/607598941)<br />
 
 > 百度  
 
