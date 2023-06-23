@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 15:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 15:02:01</h4></div>
 
 > 微博  
 
-1. [青鸟](https://s.weibo.com/weibo?q=%E9%9D%92%E9%B8%9F&t=31&band_rank=1&Refer=top)<br />
-2. [什么叫内爆](https://s.weibo.com/weibo?q=%E4%BB%80%E4%B9%88%E5%8F%AB%E5%86%85%E7%88%86&t=31&band_rank=2&Refer=top)<br />
+1. [什么叫内爆](https://s.weibo.com/weibo?q=%E4%BB%80%E4%B9%88%E5%8F%AB%E5%86%85%E7%88%86&t=31&band_rank=1&Refer=top)<br />
+2. [青鸟](https://s.weibo.com/weibo?q=%E9%9D%92%E9%B8%9F&t=31&band_rank=2&Refer=top)<br />
 3. [龙舟漂移有多酷炫](https://s.weibo.com/weibo?q=%23%E9%BE%99%E8%88%9F%E6%BC%82%E7%A7%BB%E6%9C%89%E5%A4%9A%E9%85%B7%E7%82%AB%23&t=31&band_rank=3&Refer=top)<br />
 4. [景区网红大雁被游客踢中要害离世](https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%8C%BA%E7%BD%91%E7%BA%A2%E5%A4%A7%E9%9B%81%E8%A2%AB%E6%B8%B8%E5%AE%A2%E8%B8%A2%E4%B8%AD%E8%A6%81%E5%AE%B3%E7%A6%BB%E4%B8%96%23&t=31&band_rank=4&Refer=top)<br />
 5. [女子番茄吃多胃痛医生让喝可乐治疗](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%95%AA%E8%8C%84%E5%90%83%E5%A4%9A%E8%83%83%E7%97%9B%E5%8C%BB%E7%94%9F%E8%AE%A9%E5%96%9D%E5%8F%AF%E4%B9%90%E6%B2%BB%E7%96%97%23&t=31&band_rank=5&Refer=top)<br />
@@ -34,7 +34,7 @@
 6. [这粽子是犯了天条吗被绑成这样](https://www.baidu.com/s?wd=%E8%BF%99%E7%B2%BD%E5%AD%90%E6%98%AF%E7%8A%AF%E4%BA%86%E5%A4%A9%E6%9D%A1%E5%90%97%E8%A2%AB%E7%BB%91%E6%88%90%E8%BF%99%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [山东已出现43℃以上高温](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%B7%B2%E5%87%BA%E7%8E%B043%E2%84%83%E4%BB%A5%E4%B8%8A%E9%AB%98%E6%B8%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [汪东城人品](https://www.baidu.com/s?wd=%E6%B1%AA%E4%B8%9C%E5%9F%8E%E4%BA%BA%E5%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [美依礼芽《青鸟》燃炸了](https://www.baidu.com/s?wd=%E7%BE%8E%E4%BE%9D%E7%A4%BC%E8%8A%BD%E3%80%8A%E9%9D%92%E9%B8%9F%E3%80%8B%E7%87%83%E7%82%B8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [薇娅雪梨背后公司纷纷买地盖楼](https://www.baidu.com/s?wd=%E8%96%87%E5%A8%85%E9%9B%AA%E6%A2%A8%E8%83%8C%E5%90%8E%E5%85%AC%E5%8F%B8%E7%BA%B7%E7%BA%B7%E4%B9%B0%E5%9C%B0%E7%9B%96%E6%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [这粽子是犯了天条吗被绑成这样](https://www.baidu.com/s?wd=%E8%BF%99%E7%B2%BD%E5%AD%90%E6%98%AF%E7%8A%AF%E4%BA%86%E5%A4%A9%E6%9D%A1%E5%90%97%E8%A2%AB%E7%BB%91%E6%88%90%E8%BF%99%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [山东已出现43℃以上高温](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%B7%B2%E5%87%BA%E7%8E%B043%E2%84%83%E4%BB%A5%E4%B8%8A%E9%AB%98%E6%B8%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [汪东城人品](https://www.baidu.com/s?wd=%E6%B1%AA%E4%B8%9C%E5%9F%8E%E4%BA%BA%E5%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [美依礼芽《青鸟》燃炸了](https://www.baidu.com/s?wd=%E7%BE%8E%E4%BE%9D%E7%A4%BC%E8%8A%BD%E3%80%8A%E9%9D%92%E9%B8%9F%E3%80%8B%E7%87%83%E7%82%B8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [薇娅雪梨背后公司纷纷买地盖楼](https://www.baidu.com/s?wd=%E8%96%87%E5%A8%85%E9%9B%AA%E6%A2%A8%E8%83%8C%E5%90%8E%E5%85%AC%E5%8F%B8%E7%BA%B7%E7%BA%B7%E4%B9%B0%E5%9C%B0%E7%9B%96%E6%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
