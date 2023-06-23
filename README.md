@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 20:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 20:57:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [唐末时重武的风气是怎么一步步被纠正过来的？](https://www.zhihu.com/question/607040290)<br />
 7. [独孤求败、黄裳、斗酒僧、王重阳，武功如何排名？](https://www.zhihu.com/question/606542017)<br />
 8. []()<br />
-9. [超导体电阻的倒数有多大？和葛立恒数相比呢？](https://www.zhihu.com/question/579943470)<br />
+9. [中考重要，还是高考重要?](https://www.zhihu.com/question/606716930)<br />
 
 > 百度  
 
