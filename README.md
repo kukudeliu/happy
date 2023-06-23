@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 18:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-23 18:18:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [张嘉倪因为四公错过外婆追悼会](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%98%89%E5%80%AA%E5%9B%A0%E4%B8%BA%E5%9B%9B%E5%85%AC%E9%94%99%E8%BF%87%E5%A4%96%E5%A9%86%E8%BF%BD%E6%82%BC%E4%BC%9A%23&t=31&band_rank=6&Refer=top)<br />
 7. [女子账户被骗158万民警帮忙全找回](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%B4%A6%E6%88%B7%E8%A2%AB%E9%AA%97158%E4%B8%87%E6%B0%91%E8%AD%A6%E5%B8%AE%E5%BF%99%E5%85%A8%E6%89%BE%E5%9B%9E%23&t=31&band_rank=7&Refer=top)<br />
 8. [鹿晗问陈赫抢到票了吗](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E9%97%AE%E9%99%88%E8%B5%AB%E6%8A%A2%E5%88%B0%E7%A5%A8%E4%BA%86%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [董事长开车进长城被拒强拆大门](https://s.weibo.com/weibo?q=%23%E8%91%A3%E4%BA%8B%E9%95%BF%E5%BC%80%E8%BD%A6%E8%BF%9B%E9%95%BF%E5%9F%8E%E8%A2%AB%E6%8B%92%E5%BC%BA%E6%8B%86%E5%A4%A7%E9%97%A8%23&t=31&band_rank=9&Refer=top)<br />
+9. [消失的她票房逆跌](https://s.weibo.com/weibo?q=%23%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%88%BF%E9%80%86%E8%B7%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
