@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 16:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 16:48:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [王俊凯易烊千玺G社生图](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BAG%E7%A4%BE%E7%94%9F%E5%9B%BE%23&t=31&band_rank=6&Refer=top)<br />
 7. [台媒曝黄子佼下个月复工](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E5%AA%92%E6%9B%9D%E9%BB%84%E5%AD%90%E4%BD%BC%E4%B8%8B%E4%B8%AA%E6%9C%88%E5%A4%8D%E5%B7%A5%23&t=31&band_rank=7&Refer=top)<br />
 8. [炎亚纶前男友A先生再爆料](https://s.weibo.com/weibo?q=%23%E7%82%8E%E4%BA%9A%E7%BA%B6%E5%89%8D%E7%94%B7%E5%8F%8BA%E5%85%88%E7%94%9F%E5%86%8D%E7%88%86%E6%96%99%23&t=31&band_rank=8&Refer=top)<br />
-9. [普京称所有对抗军队的人都是叛徒](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E7%A7%B0%E6%89%80%E6%9C%89%E5%AF%B9%E6%8A%97%E5%86%9B%E9%98%9F%E7%9A%84%E4%BA%BA%E9%83%BD%E6%98%AF%E5%8F%9B%E5%BE%92%23&t=31&band_rank=9&Refer=top)<br />
+9. [陈思诚找王暖暖拿授权](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%80%9D%E8%AF%9A%E6%89%BE%E7%8E%8B%E6%9A%96%E6%9A%96%E6%8B%BF%E6%8E%88%E6%9D%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -19,9 +19,9 @@
 3. [硅谷银行亚洲客户遭「双向挤压」，存款被没收，贷款必须还，如何看待此事？](https://www.zhihu.com/question/607811714)<br />
 4. [台媒称「山东舰航母编队 21 日通过台湾海峡」，如何看待这一动向？](https://www.zhihu.com/question/607809103)<br />
 5. [如何评价《原神》枫丹版本的部分美术设计为甜美魔幻风，而非蒸汽朋克？](https://www.zhihu.com/question/608230338)<br />
-6. [没文化可以教育好孩子吗？](https://www.zhihu.com/question/606881570)<br />
+6. [市面上的玻璃到底有铅没铅？](https://www.zhihu.com/question/606342982)<br />
 7. [电影《消失的她》里何非到底是怎样的一个人?](https://www.zhihu.com/question/607967579)<br />
-8. [市面上的玻璃到底有铅没铅？](https://www.zhihu.com/question/606342982)<br />
+8. [没文化可以教育好孩子吗？](https://www.zhihu.com/question/606881570)<br />
 9. [乌龟养熟的表现有哪些？](https://www.zhihu.com/question/597512707)<br />
 
 > 百度  
