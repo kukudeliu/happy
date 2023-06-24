@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 15:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 15:08:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [台媒称「山东舰航母编队 21 日通过台湾海峡」，如何看待这一动向？](https://www.zhihu.com/question/607809103)<br />
 5. [俄国防部称乌克兰军队试图利用瓦格纳部队挑衅的机会发动反攻，瓦格纳为什么要叛变，目前当地局势如何？](https://www.zhihu.com/question/608238596)<br />
 6. [硅谷银行亚洲客户遭「双向挤压」，存款被没收，贷款必须还，如何看待此事？](https://www.zhihu.com/question/607811714)<br />
-7. [吴越凭借《县委大院》中「艾鲜枝」一角获第 28 届白玉兰奖获得最佳女主角，如何评价她的演技？](https://www.zhihu.com/question/608163030)<br />
-8. [想和猫咪拍照，猫咪不配合怎么办？](https://www.zhihu.com/question/421786821)<br />
-9. [近年来很多新能源汽车都把方向盘设计成了异形，这种设计对驾驶安全有影响吗？](https://www.zhihu.com/question/607651537)<br />
+7. [想和猫咪拍照，猫咪不配合怎么办？](https://www.zhihu.com/question/421786821)<br />
+8. [4070Ti 能战 5 年吗？](https://www.zhihu.com/question/599118671)<br />
+9. [吴越凭借《县委大院》中「艾鲜枝」一角获第 28 届白玉兰奖获得最佳女主角，如何评价她的演技？](https://www.zhihu.com/question/608163030)<br />
 
 > 百度  
 
