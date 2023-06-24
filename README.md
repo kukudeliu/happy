@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 22:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 22:39:02</h4></div>
 
 > 微博  
 
@@ -33,7 +33,7 @@
 5. [多国就俄罗斯局势表态](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E5%B0%B1%E4%BF%84%E7%BD%97%E6%96%AF%E5%B1%80%E5%8A%BF%E8%A1%A8%E6%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男生得知好友仅609分后瞬间弹起](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E5%BE%97%E7%9F%A5%E5%A5%BD%E5%8F%8B%E4%BB%85609%E5%88%86%E5%90%8E%E7%9E%AC%E9%97%B4%E5%BC%B9%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [因脑溢血开颅3次的少年高考445分](https://www.baidu.com/s?wd=%E5%9B%A0%E8%84%91%E6%BA%A2%E8%A1%80%E5%BC%80%E9%A2%853%E6%AC%A1%E7%9A%84%E5%B0%91%E5%B9%B4%E9%AB%98%E8%80%83445%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [复读女生涨61分坐地嚎啕大哭](https://www.baidu.com/s?wd=%E5%A4%8D%E8%AF%BB%E5%A5%B3%E7%94%9F%E6%B6%A861%E5%88%86%E5%9D%90%E5%9C%B0%E5%9A%8E%E5%95%95%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [炎亚纶曾强吻曾之乔](https://www.baidu.com/s?wd=%E7%82%8E%E4%BA%9A%E7%BA%B6%E6%9B%BE%E5%BC%BA%E5%90%BB%E6%9B%BE%E4%B9%8B%E4%B9%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [俄方否认“普京似乎已离开莫斯科”](https://www.baidu.com/s?wd=%E4%BF%84%E6%96%B9%E5%90%A6%E8%AE%A4%E2%80%9C%E6%99%AE%E4%BA%AC%E4%BC%BC%E4%B9%8E%E5%B7%B2%E7%A6%BB%E5%BC%80%E8%8E%AB%E6%96%AF%E7%A7%91%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [多国就俄罗斯局势表态](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E5%B0%B1%E4%BF%84%E7%BD%97%E6%96%AF%E5%B1%80%E5%8A%BF%E8%A1%A8%E6%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男生得知好友仅609分后瞬间弹起](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E5%BE%97%E7%9F%A5%E5%A5%BD%E5%8F%8B%E4%BB%85609%E5%88%86%E5%90%8E%E7%9E%AC%E9%97%B4%E5%BC%B9%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [因脑溢血开颅3次的少年高考445分](https://www.baidu.com/s?wd=%E5%9B%A0%E8%84%91%E6%BA%A2%E8%A1%80%E5%BC%80%E9%A2%853%E6%AC%A1%E7%9A%84%E5%B0%91%E5%B9%B4%E9%AB%98%E8%80%83445%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [复读女生涨61分坐地嚎啕大哭](https://www.baidu.com/s?wd=%E5%A4%8D%E8%AF%BB%E5%A5%B3%E7%94%9F%E6%B6%A861%E5%88%86%E5%9D%90%E5%9C%B0%E5%9A%8E%E5%95%95%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [炎亚纶曾强吻曾之乔](https://www.baidu.com/s?wd=%E7%82%8E%E4%BA%9A%E7%BA%B6%E6%9B%BE%E5%BC%BA%E5%90%BB%E6%9B%BE%E4%B9%8B%E4%B9%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [俄方否认“普京似乎已离开莫斯科”](https://www.baidu.com/s?wd=%E4%BF%84%E6%96%B9%E5%90%A6%E8%AE%A4%E2%80%9C%E6%99%AE%E4%BA%AC%E4%BC%BC%E4%B9%8E%E5%B7%B2%E7%A6%BB%E5%BC%80%E8%8E%AB%E6%96%AF%E7%A7%91%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
