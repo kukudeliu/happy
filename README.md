@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 02:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 02:45:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [俄罗斯对瓦格纳组织创始人刑事立案](https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E5%AF%B9%E7%93%A6%E6%A0%BC%E7%BA%B3%E7%BB%84%E7%BB%87%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%88%91%E4%BA%8B%E7%AB%8B%E6%A1%88%23&t=31&band_rank=5&Refer=top)<br />
 6. [消失的她 绝世大甜剧](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%20%E7%BB%9D%E4%B8%96%E5%A4%A7%E7%94%9C%E5%89%A7&t=31&band_rank=6&Refer=top)<br />
 7. [陈思诚透露误杀3和唐探新片进度](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%80%9D%E8%AF%9A%E9%80%8F%E9%9C%B2%E8%AF%AF%E6%9D%803%E5%92%8C%E5%94%90%E6%8E%A2%E6%96%B0%E7%89%87%E8%BF%9B%E5%BA%A6%23&t=31&band_rank=7&Refer=top)<br />
-8. [兰州一企业发生闪爆事故](https://s.weibo.com/weibo?q=%E5%85%B0%E5%B7%9E%E4%B8%80%E4%BC%81%E4%B8%9A%E5%8F%91%E7%94%9F%E9%97%AA%E7%88%86%E4%BA%8B%E6%95%85&t=31&band_rank=8&Refer=top)<br />
-9. [鹿晗演唱会的女安检员](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%BC%94%E5%94%B1%E4%BC%9A%E7%9A%84%E5%A5%B3%E5%AE%89%E6%A3%80%E5%91%98%23&t=31&band_rank=9&Refer=top)<br />
+8. [绍伊古](https://s.weibo.com/weibo?q=%E7%BB%8D%E4%BC%8A%E5%8F%A4&t=31&band_rank=8&Refer=top)<br />
+9. [兰州一企业发生闪爆事故](https://s.weibo.com/weibo?q=%E5%85%B0%E5%B7%9E%E4%B8%80%E4%BC%81%E4%B8%9A%E5%8F%91%E7%94%9F%E9%97%AA%E7%88%86%E4%BA%8B%E6%95%85&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
