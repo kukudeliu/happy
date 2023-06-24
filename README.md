@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 03:32:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 03:33:01</h4></div>
 
 > 微博  
 
@@ -20,8 +20,8 @@
 4. [2023 江苏高考成绩公布，你考得怎么样？可以说说你的分数和心情吗？](https://www.zhihu.com/question/607974209)<br />
 5. [一个中层管理者应该看什么书籍？](https://www.zhihu.com/question/483677374)<br />
 6. []()<br />
-7. []()<br />
-8. [如何评价朱一龙在电影《消失的她》中的演技？](https://www.zhihu.com/question/607660063)<br />
+7. [如何评价朱一龙在电影《消失的她》中的演技？](https://www.zhihu.com/question/607660063)<br />
+8. []()<br />
 9. []()<br />
 
 > 百度  
@@ -34,7 +34,7 @@
 6. [普京与多国领导人通话介绍局势](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%B8%8E%E5%A4%9A%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%80%9A%E8%AF%9D%E4%BB%8B%E7%BB%8D%E5%B1%80%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男生得知好友仅609分后瞬间弹起](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E5%BE%97%E7%9F%A5%E5%A5%BD%E5%8F%8B%E4%BB%85609%E5%88%86%E5%90%8E%E7%9E%AC%E9%97%B4%E5%BC%B9%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [家长以为中考管饭送完孩子去郊游](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E4%BB%A5%E4%B8%BA%E4%B8%AD%E8%80%83%E7%AE%A1%E9%A5%AD%E9%80%81%E5%AE%8C%E5%AD%A9%E5%AD%90%E5%8E%BB%E9%83%8A%E6%B8%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [兰州一企业发生闪爆事故](https://www.baidu.com/s?wd=%E5%85%B0%E5%B7%9E%E4%B8%80%E4%BC%81%E4%B8%9A%E5%8F%91%E7%94%9F%E9%97%AA%E7%88%86%E4%BA%8B%E6%95%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [复读女生涨61分坐地嚎啕大哭](https://www.baidu.com/s?wd=%E5%A4%8D%E8%AF%BB%E5%A5%B3%E7%94%9F%E6%B6%A861%E5%88%86%E5%9D%90%E5%9C%B0%E5%9A%8E%E5%95%95%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [普京与多国领导人通话介绍局势](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%B8%8E%E5%A4%9A%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%80%9A%E8%AF%9D%E4%BB%8B%E7%BB%8D%E5%B1%80%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男生得知好友仅609分后瞬间弹起](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E5%BE%97%E7%9F%A5%E5%A5%BD%E5%8F%8B%E4%BB%85609%E5%88%86%E5%90%8E%E7%9E%AC%E9%97%B4%E5%BC%B9%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [家长以为中考管饭送完孩子去郊游](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E4%BB%A5%E4%B8%BA%E4%B8%AD%E8%80%83%E7%AE%A1%E9%A5%AD%E9%80%81%E5%AE%8C%E5%AD%A9%E5%AD%90%E5%8E%BB%E9%83%8A%E6%B8%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [兰州一企业发生闪爆事故](https://www.baidu.com/s?wd=%E5%85%B0%E5%B7%9E%E4%B8%80%E4%BC%81%E4%B8%9A%E5%8F%91%E7%94%9F%E9%97%AA%E7%88%86%E4%BA%8B%E6%95%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [复读女生涨61分坐地嚎啕大哭](https://www.baidu.com/s?wd=%E5%A4%8D%E8%AF%BB%E5%A5%B3%E7%94%9F%E6%B6%A861%E5%88%86%E5%9D%90%E5%9C%B0%E5%9A%8E%E5%95%95%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
