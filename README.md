@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 10:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 10:19:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [炎亚纶 还好没有我的脸](https://s.weibo.com/weibo?q=%E7%82%8E%E4%BA%9A%E7%BA%B6%20%E8%BF%98%E5%A5%BD%E6%B2%A1%E6%9C%89%E6%88%91%E7%9A%84%E8%84%B8&t=31&band_rank=6&Refer=top)<br />
 7. [安徽高考分数线](https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%BE%BD%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%23&t=31&band_rank=7&Refer=top)<br />
 8. [四大女顶流奖项实绩](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%A4%A7%E5%A5%B3%E9%A1%B6%E6%B5%81%E5%A5%96%E9%A1%B9%E5%AE%9E%E7%BB%A9%23&t=31&band_rank=8&Refer=top)<br />
-9. [暴雪禁止中国大陆玩家参与暗黑4活动](https://s.weibo.com/weibo?q=%23%E6%9A%B4%E9%9B%AA%E7%A6%81%E6%AD%A2%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E7%8E%A9%E5%AE%B6%E5%8F%82%E4%B8%8E%E6%9A%97%E9%BB%914%E6%B4%BB%E5%8A%A8%23&t=31&band_rank=9&Refer=top)<br />
+9. [俄罗斯安全局对瓦格纳首领提起刑事诉讼](https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E5%AE%89%E5%85%A8%E5%B1%80%E5%AF%B9%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%A6%96%E9%A2%86%E6%8F%90%E8%B5%B7%E5%88%91%E4%BA%8B%E8%AF%89%E8%AE%BC%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -34,7 +34,7 @@
 6. [一考生查分 全家一起喊出666](https://www.baidu.com/s?wd=%E4%B8%80%E8%80%83%E7%94%9F%E6%9F%A5%E5%88%86+%E5%85%A8%E5%AE%B6%E4%B8%80%E8%B5%B7%E5%96%8A%E5%87%BA666&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子回了个“OK”表情结果成被告](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9B%9E%E4%BA%86%E4%B8%AA%E2%80%9COK%E2%80%9D%E8%A1%A8%E6%83%85%E7%BB%93%E6%9E%9C%E6%88%90%E8%A2%AB%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [被林丹邀请打球女孩高考理科689分](https://www.baidu.com/s?wd=%E8%A2%AB%E6%9E%97%E4%B8%B9%E9%82%80%E8%AF%B7%E6%89%93%E7%90%83%E5%A5%B3%E5%AD%A9%E9%AB%98%E8%80%83%E7%90%86%E7%A7%91689%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [浙江一药农卖元胡10分钟赚52万元](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E8%8D%AF%E5%86%9C%E5%8D%96%E5%85%83%E8%83%A110%E5%88%86%E9%92%9F%E8%B5%9A52%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [暴雪禁止中国大陆玩家参与暗黑4活动](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%AA%E7%A6%81%E6%AD%A2%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E7%8E%A9%E5%AE%B6%E5%8F%82%E4%B8%8E%E6%9A%97%E9%BB%914%E6%B4%BB%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [一考生查分 全家一起喊出666](https://www.baidu.com/s?wd=%E4%B8%80%E8%80%83%E7%94%9F%E6%9F%A5%E5%88%86+%E5%85%A8%E5%AE%B6%E4%B8%80%E8%B5%B7%E5%96%8A%E5%87%BA666&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子回了个“OK”表情结果成被告](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9B%9E%E4%BA%86%E4%B8%AA%E2%80%9COK%E2%80%9D%E8%A1%A8%E6%83%85%E7%BB%93%E6%9E%9C%E6%88%90%E8%A2%AB%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [被林丹邀请打球女孩高考理科689分](https://www.baidu.com/s?wd=%E8%A2%AB%E6%9E%97%E4%B8%B9%E9%82%80%E8%AF%B7%E6%89%93%E7%90%83%E5%A5%B3%E5%AD%A9%E9%AB%98%E8%80%83%E7%90%86%E7%A7%91689%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [浙江一药农卖元胡10分钟赚52万元](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E8%8D%AF%E5%86%9C%E5%8D%96%E5%85%83%E8%83%A110%E5%88%86%E9%92%9F%E8%B5%9A52%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [暴雪禁止中国大陆玩家参与暗黑4活动](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%AA%E7%A6%81%E6%AD%A2%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E7%8E%A9%E5%AE%B6%E5%8F%82%E4%B8%8E%E6%9A%97%E9%BB%914%E6%B4%BB%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
