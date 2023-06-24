@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 06:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 06:18:01</h4></div>
 
 > 微博  
 
@@ -19,10 +19,10 @@
 3. []()<br />
 4. [40 岁以后，你发现哪些钱根本没必要花？](https://www.zhihu.com/question/593808844)<br />
 5. []()<br />
-6. [一个人可以过得有多极简？](https://www.zhihu.com/question/265827355)<br />
-7. [为什么旗舰手机标准版大部分都不带无线充电？](https://www.zhihu.com/question/607118057)<br />
-8. [宁夏银川烧烤店燃气爆炸事故 4 名犯罪嫌疑人被刑拘，从法律角度，他们将受到哪些处罚？](https://www.zhihu.com/question/608287472)<br />
-9. []()<br />
+6. []()<br />
+7. [北京观测史上首次连续两日气温突破 40℃，23 日发布高温红色预警信号，哪些信息值得关注？](https://www.zhihu.com/question/608131521)<br />
+8. [一个人可以过得有多极简？](https://www.zhihu.com/question/265827355)<br />
+9. [为什么旗舰手机标准版大部分都不带无线充电？](https://www.zhihu.com/question/607118057)<br />
 
 > 百度  
 
