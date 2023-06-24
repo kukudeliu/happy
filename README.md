@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 04:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 04:10:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [普京与多国领导人通话介绍局势](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%B8%8E%E5%A4%9A%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%80%9A%E8%AF%9D%E4%BB%8B%E7%BB%8D%E5%B1%80%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [家长以为中考管饭送完孩子去郊游](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E4%BB%A5%E4%B8%BA%E4%B8%AD%E8%80%83%E7%AE%A1%E9%A5%AD%E9%80%81%E5%AE%8C%E5%AD%A9%E5%AD%90%E5%8E%BB%E9%83%8A%E6%B8%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [泰国和美国两地大量鱼类死亡](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E5%92%8C%E7%BE%8E%E5%9B%BD%E4%B8%A4%E5%9C%B0%E5%A4%A7%E9%87%8F%E9%B1%BC%E7%B1%BB%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [复读女生涨61分坐地嚎啕大哭](https://www.baidu.com/s?wd=%E5%A4%8D%E8%AF%BB%E5%A5%B3%E7%94%9F%E6%B6%A861%E5%88%86%E5%9D%90%E5%9C%B0%E5%9A%8E%E5%95%95%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [因脑溢血开颅3次的少年高考445分](https://www.baidu.com/s?wd=%E5%9B%A0%E8%84%91%E6%BA%A2%E8%A1%80%E5%BC%80%E9%A2%853%E6%AC%A1%E7%9A%84%E5%B0%91%E5%B9%B4%E9%AB%98%E8%80%83445%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [普京与多国领导人通话介绍局势](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%B8%8E%E5%A4%9A%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%80%9A%E8%AF%9D%E4%BB%8B%E7%BB%8D%E5%B1%80%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [家长以为中考管饭送完孩子去郊游](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E4%BB%A5%E4%B8%BA%E4%B8%AD%E8%80%83%E7%AE%A1%E9%A5%AD%E9%80%81%E5%AE%8C%E5%AD%A9%E5%AD%90%E5%8E%BB%E9%83%8A%E6%B8%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [泰国和美国两地大量鱼类死亡](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E5%92%8C%E7%BE%8E%E5%9B%BD%E4%B8%A4%E5%9C%B0%E5%A4%A7%E9%87%8F%E9%B1%BC%E7%B1%BB%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [复读女生涨61分坐地嚎啕大哭](https://www.baidu.com/s?wd=%E5%A4%8D%E8%AF%BB%E5%A5%B3%E7%94%9F%E6%B6%A861%E5%88%86%E5%9D%90%E5%9C%B0%E5%9A%8E%E5%95%95%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [因脑溢血开颅3次的少年高考445分](https://www.baidu.com/s?wd=%E5%9B%A0%E8%84%91%E6%BA%A2%E8%A1%80%E5%BC%80%E9%A2%853%E6%AC%A1%E7%9A%84%E5%B0%91%E5%B9%B4%E9%AB%98%E8%80%83445%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
