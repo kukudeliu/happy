@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 15:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 15:41:01</h4></div>
 
 > 微博  
 
@@ -18,11 +18,11 @@
 2. [硅谷银行亚洲客户遭「双向挤压」，存款被没收，贷款必须还，如何看待此事？](https://www.zhihu.com/question/607811714)<br />
 3. [台媒称「山东舰航母编队 21 日通过台湾海峡」，如何看待这一动向？](https://www.zhihu.com/question/607809103)<br />
 4. [想和猫咪拍照，猫咪不配合怎么办？](https://www.zhihu.com/question/421786821)<br />
-5. [4070Ti 能战 5 年吗？](https://www.zhihu.com/question/599118671)<br />
-6. [没文化可以教育好孩子吗？](https://www.zhihu.com/question/606881570)<br />
+5. [没文化可以教育好孩子吗？](https://www.zhihu.com/question/606881570)<br />
+6. [4070Ti 能战 5 年吗？](https://www.zhihu.com/question/599118671)<br />
 7. [电影《消失的她》里何非到底是怎样的一个人?](https://www.zhihu.com/question/607967579)<br />
 8. [考研期间，每天坐在自习室长达八九甚至十个多小时的同学们，你们是如何做到集中注意力和精力学习的？](https://www.zhihu.com/question/58537581)<br />
-9. [吴越凭借《县委大院》中「艾鲜枝」一角获第 28 届白玉兰奖获得最佳女主角，如何评价她的演技？](https://www.zhihu.com/question/608163030)<br />
+9. [想带孩子去户外玩耍，哪些「带娃神器」必不可少？](https://www.zhihu.com/question/606792842)<br />
 
 > 百度  
 
