@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 15:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 15:36:02</h4></div>
 
 > 微博  
 
-1. [瓦格纳称已控制罗斯托夫地区军用设施](https://s.weibo.com/weibo?q=%23%E7%93%A6%E6%A0%BC%E7%BA%B3%E7%A7%B0%E5%B7%B2%E6%8E%A7%E5%88%B6%E7%BD%97%E6%96%AF%E6%89%98%E5%A4%AB%E5%9C%B0%E5%8C%BA%E5%86%9B%E7%94%A8%E8%AE%BE%E6%96%BD%23&t=31&band_rank=1&Refer=top)<br />
-2. [普京发表讲话](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E5%8F%91%E8%A1%A8%E8%AE%B2%E8%AF%9D%23&t=31&band_rank=2&Refer=top)<br />
+1. [普京发表讲话](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E5%8F%91%E8%A1%A8%E8%AE%B2%E8%AF%9D%23&t=31&band_rank=1&Refer=top)<br />
+2. [瓦格纳称已控制罗斯托夫地区军用设施](https://s.weibo.com/weibo?q=%23%E7%93%A6%E6%A0%BC%E7%BA%B3%E7%A7%B0%E5%B7%B2%E6%8E%A7%E5%88%B6%E7%BD%97%E6%96%AF%E6%89%98%E5%A4%AB%E5%9C%B0%E5%8C%BA%E5%86%9B%E7%94%A8%E8%AE%BE%E6%96%BD%23&t=31&band_rank=2&Refer=top)<br />
 3. [31省份报志愿时间全汇总](https://s.weibo.com/weibo?q=%2331%E7%9C%81%E4%BB%BD%E6%8A%A5%E5%BF%97%E6%84%BF%E6%97%B6%E9%97%B4%E5%85%A8%E6%B1%87%E6%80%BB%23&t=31&band_rank=3&Refer=top)<br />
 4. [俄罗斯](https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%23&t=31&band_rank=4&Refer=top)<br />
 5. [高考理科623分决心复读了](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E7%90%86%E7%A7%91623%E5%88%86%E5%86%B3%E5%BF%83%E5%A4%8D%E8%AF%BB%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
@@ -21,8 +21,8 @@
 5. [想和猫咪拍照，猫咪不配合怎么办？](https://www.zhihu.com/question/421786821)<br />
 6. [没文化可以教育好孩子吗？](https://www.zhihu.com/question/606881570)<br />
 7. [考研期间，每天坐在自习室长达八九甚至十个多小时的同学们，你们是如何做到集中注意力和精力学习的？](https://www.zhihu.com/question/58537581)<br />
-8. [吴越凭借《县委大院》中「艾鲜枝」一角获第 28 届白玉兰奖获得最佳女主角，如何评价她的演技？](https://www.zhihu.com/question/608163030)<br />
-9. [电影《消失的她》里何非到底是怎样的一个人?](https://www.zhihu.com/question/607967579)<br />
+8. [电影《消失的她》里何非到底是怎样的一个人?](https://www.zhihu.com/question/607967579)<br />
+9. [吴越凭借《县委大院》中「艾鲜枝」一角获第 28 届白玉兰奖获得最佳女主角，如何评价她的演技？](https://www.zhihu.com/question/608163030)<br />
 
 > 百度  
 
