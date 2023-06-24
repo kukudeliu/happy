@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 07:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 07:27:02</h4></div>
 
 > 微博  
 
-1. [瓦格纳同意停止在俄领土上的行动](https://s.weibo.com/weibo?q=%23%E7%93%A6%E6%A0%BC%E7%BA%B3%E5%90%8C%E6%84%8F%E5%81%9C%E6%AD%A2%E5%9C%A8%E4%BF%84%E9%A2%86%E5%9C%9F%E4%B8%8A%E7%9A%84%E8%A1%8C%E5%8A%A8%23&t=31&band_rank=1&Refer=top)<br />
+1. [瓦格纳从俄南部军区司令部撤离](https://s.weibo.com/weibo?q=%23%E7%93%A6%E6%A0%BC%E7%BA%B3%E4%BB%8E%E4%BF%84%E5%8D%97%E9%83%A8%E5%86%9B%E5%8C%BA%E5%8F%B8%E4%BB%A4%E9%83%A8%E6%92%A4%E7%A6%BB%23&t=31&band_rank=1&Refer=top)<br />
 2. [俄媒称俄军已在莫斯科市郊架设机枪阵地](https://s.weibo.com/weibo?q=%23%E4%BF%84%E5%AA%92%E7%A7%B0%E4%BF%84%E5%86%9B%E5%B7%B2%E5%9C%A8%E8%8E%AB%E6%96%AF%E7%A7%91%E5%B8%82%E9%83%8A%E6%9E%B6%E8%AE%BE%E6%9C%BA%E6%9E%AA%E9%98%B5%E5%9C%B0%23&t=31&band_rank=2&Refer=top)<br />
 3. [世界互联网大会数字文明尼山对话](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A%E6%95%B0%E5%AD%97%E6%96%87%E6%98%8E%E5%B0%BC%E5%B1%B1%E5%AF%B9%E8%AF%9D%23&t=31&band_rank=3&Refer=top)<br />
-4. [瓦格纳从俄南部军区司令部撤离](https://s.weibo.com/weibo?q=%23%E7%93%A6%E6%A0%BC%E7%BA%B3%E4%BB%8E%E4%BF%84%E5%8D%97%E9%83%A8%E5%86%9B%E5%8C%BA%E5%8F%B8%E4%BB%A4%E9%83%A8%E6%92%A4%E7%A6%BB%23&t=31&band_rank=4&Refer=top)<br />
+4. [瓦格纳同意停止在俄领土上的行动](https://s.weibo.com/weibo?q=%23%E7%93%A6%E6%A0%BC%E7%BA%B3%E5%90%8C%E6%84%8F%E5%81%9C%E6%AD%A2%E5%9C%A8%E4%BF%84%E9%A2%86%E5%9C%9F%E4%B8%8A%E7%9A%84%E8%A1%8C%E5%8A%A8%23&t=31&band_rank=4&Refer=top)<br />
 5. [关晓彤去了鹿晗的演唱会](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E5%8E%BB%E4%BA%86%E9%B9%BF%E6%99%97%E7%9A%84%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=5&Refer=top)<br />
 6. [消失的她 绝世大甜剧](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%20%E7%BB%9D%E4%B8%96%E5%A4%A7%E7%94%9C%E5%89%A7&t=31&band_rank=6&Refer=top)<br />
 7. [弟弟考673分姐姐哭了一小时](https://s.weibo.com/weibo?q=%23%E5%BC%9F%E5%BC%9F%E8%80%83673%E5%88%86%E5%A7%90%E5%A7%90%E5%93%AD%E4%BA%86%E4%B8%80%E5%B0%8F%E6%97%B6%23&t=31&band_rank=7&Refer=top)<br />
