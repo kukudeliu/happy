@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 21:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 21:37:01</h4></div>
 
 > 微博  
 
@@ -10,19 +10,19 @@
 6. [圣彼得堡](https://s.weibo.com/weibo?q=%23%E5%9C%A3%E5%BD%BC%E5%BE%97%E5%A0%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [大学四年买了100斤的衣服](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E5%9B%9B%E5%B9%B4%E4%B9%B0%E4%BA%86100%E6%96%A4%E7%9A%84%E8%A1%A3%E6%9C%8D%23&t=31&band_rank=7&Refer=top)<br />
 8. [披荆斩棘的哥哥](https://s.weibo.com/weibo?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E7%9A%84%E5%93%A5%E5%93%A5&t=31&band_rank=8&Refer=top)<br />
-9. [车臣](https://s.weibo.com/weibo?q=%E8%BD%A6%E8%87%A3&t=31&band_rank=9&Refer=top)<br />
+9. [韩剧恶鬼](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%89%A7%E6%81%B6%E9%AC%BC&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [俄国防部否认袭击瓦格纳营地，瓦格纳领导人因号召武装叛乱被立案，如何看待此事？](https://www.zhihu.com/question/608218892)<br />
-2. []()<br />
-3. [宁夏银川烧烤店燃气爆炸事故 4 名犯罪嫌疑人被刑拘，从法律角度，他们将受到哪些处罚？](https://www.zhihu.com/question/608287472)<br />
-4. [2023 江苏高考分数线公布，物理科目本科线 448，历史科目本科线 474，如何评价今年的分数线？](https://www.zhihu.com/question/607974405)<br />
+2. [宁夏银川烧烤店燃气爆炸事故 4 名犯罪嫌疑人被刑拘，从法律角度，他们将受到哪些处罚？](https://www.zhihu.com/question/608287472)<br />
+3. [2023 江苏高考分数线公布，物理科目本科线 448，历史科目本科线 474，如何评价今年的分数线？](https://www.zhihu.com/question/607974405)<br />
+4. [2023 福建高考成绩公布，你考得怎么样？可以说说你的分数和心情吗？](https://www.zhihu.com/question/607974295)<br />
 5. [报考电竞专业是不是就能天天打游戏？毕业后薪资水平如何？](https://www.zhihu.com/theater/93769)<br />
-6. [2023 福建高考成绩公布，你考得怎么样？可以说说你的分数和心情吗？](https://www.zhihu.com/question/607974295)<br />
-7. [外国人一般是怎么给自己取中文名的？有没有什么比较奇葩的中文名？](https://www.zhihu.com/question/26546359)<br />
+6. [外国人一般是怎么给自己取中文名的？有没有什么比较奇葩的中文名？](https://www.zhihu.com/question/26546359)<br />
+7. []()<br />
 8. []()<br />
-9. []()<br />
+9. [猫用饮水机真的有用吗？](https://www.zhihu.com/question/314321800)<br />
 
 > 百度  
 
