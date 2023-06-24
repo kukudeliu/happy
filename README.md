@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 08:44:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 08:45:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [瓦格纳](https://s.weibo.com/weibo?q=%23%E7%93%A6%E6%A0%BC%E7%BA%B3%23&t=31&band_rank=6&Refer=top)<br />
 7. [暴雪禁止中国大陆玩家参与暗黑4活动](https://s.weibo.com/weibo?q=%23%E6%9A%B4%E9%9B%AA%E7%A6%81%E6%AD%A2%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E7%8E%A9%E5%AE%B6%E5%8F%82%E4%B8%8E%E6%9A%97%E9%BB%914%E6%B4%BB%E5%8A%A8%23&t=31&band_rank=7&Refer=top)<br />
 8. [吴越 白玉兰视后](https://s.weibo.com/weibo?q=%E5%90%B4%E8%B6%8A%20%E7%99%BD%E7%8E%89%E5%85%B0%E8%A7%86%E5%90%8E&t=31&band_rank=8&Refer=top)<br />
-9. [赵丽颖从继续熬到继续跑](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E4%BB%8E%E7%BB%A7%E7%BB%AD%E7%86%AC%E5%88%B0%E7%BB%A7%E7%BB%AD%E8%B7%91%23&t=31&band_rank=9&Refer=top)<br />
+9. [鹿晗演唱会上不敢读的灯牌](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E4%B8%8D%E6%95%A2%E8%AF%BB%E7%9A%84%E7%81%AF%E7%89%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
