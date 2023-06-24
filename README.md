@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 14:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 14:30:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [女生高考712分 查完分就睡觉](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83712%E5%88%86+%E6%9F%A5%E5%AE%8C%E5%88%86%E5%B0%B1%E7%9D%A1%E8%A7%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [瓦格纳叛乱？俄罗斯发生了什么](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E5%8F%9B%E4%B9%B1%EF%BC%9F%E4%BF%84%E7%BD%97%E6%96%AF%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [形势突变，考验普京的时候到了](https://www.baidu.com/s?wd=%E5%BD%A2%E5%8A%BF%E7%AA%81%E5%8F%98%EF%BC%8C%E8%80%83%E9%AA%8C%E6%99%AE%E4%BA%AC%E7%9A%84%E6%97%B6%E5%80%99%E5%88%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [瓦格纳创始人否认试图发动武装叛乱](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%90%A6%E8%AE%A4%E8%AF%95%E5%9B%BE%E5%8F%91%E5%8A%A8%E6%AD%A6%E8%A3%85%E5%8F%9B%E4%B9%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [雷佳音误踩赵丽颖裙子引热议](https://www.baidu.com/s?wd=%E9%9B%B7%E4%BD%B3%E9%9F%B3%E8%AF%AF%E8%B8%A9%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%A3%99%E5%AD%90%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [雷佳音误踩赵丽颖裙子引热议](https://www.baidu.com/s?wd=%E9%9B%B7%E4%BD%B3%E9%9F%B3%E8%AF%AF%E8%B8%A9%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%A3%99%E5%AD%90%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [国泰航空客机中止起飞 11名乘客受伤](https://www.baidu.com/s?wd=%E5%9B%BD%E6%B3%B0%E8%88%AA%E7%A9%BA%E5%AE%A2%E6%9C%BA%E4%B8%AD%E6%AD%A2%E8%B5%B7%E9%A3%9E+11%E5%90%8D%E4%B9%98%E5%AE%A2%E5%8F%97%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [女生高考712分 查完分就睡觉](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83712%E5%88%86+%E6%9F%A5%E5%AE%8C%E5%88%86%E5%B0%B1%E7%9D%A1%E8%A7%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [瓦格纳叛乱？俄罗斯发生了什么](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E5%8F%9B%E4%B9%B1%EF%BC%9F%E4%BF%84%E7%BD%97%E6%96%AF%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [形势突变，考验普京的时候到了](https://www.baidu.com/s?wd=%E5%BD%A2%E5%8A%BF%E7%AA%81%E5%8F%98%EF%BC%8C%E8%80%83%E9%AA%8C%E6%99%AE%E4%BA%AC%E7%9A%84%E6%97%B6%E5%80%99%E5%88%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [瓦格纳创始人否认试图发动武装叛乱](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%90%A6%E8%AE%A4%E8%AF%95%E5%9B%BE%E5%8F%91%E5%8A%A8%E6%AD%A6%E8%A3%85%E5%8F%9B%E4%B9%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [雷佳音误踩赵丽颖裙子引热议](https://www.baidu.com/s?wd=%E9%9B%B7%E4%BD%B3%E9%9F%B3%E8%AF%AF%E8%B8%A9%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%A3%99%E5%AD%90%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [雷佳音误踩赵丽颖裙子引热议](https://www.baidu.com/s?wd=%E9%9B%B7%E4%BD%B3%E9%9F%B3%E8%AF%AF%E8%B8%A9%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%A3%99%E5%AD%90%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [国泰航空客机中止起飞 11名乘客受伤](https://www.baidu.com/s?wd=%E5%9B%BD%E6%B3%B0%E8%88%AA%E7%A9%BA%E5%AE%A2%E6%9C%BA%E4%B8%AD%E6%AD%A2%E8%B5%B7%E9%A3%9E+11%E5%90%8D%E4%B9%98%E5%AE%A2%E5%8F%97%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
