@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 22:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 22:48:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [消失的她 绝世大甜剧](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%20%E7%BB%9D%E4%B8%96%E5%A4%A7%E7%94%9C%E5%89%A7&t=31&band_rank=5&Refer=top)<br />
 6. [白敬亭对长风渡vs卿卿日常的区别](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AF%B9%E9%95%BF%E9%A3%8E%E6%B8%A1vs%E5%8D%BF%E5%8D%BF%E6%97%A5%E5%B8%B8%E7%9A%84%E5%8C%BA%E5%88%AB%23&t=31&band_rank=6&Refer=top)<br />
 7. [消失的她](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9&t=31&band_rank=7&Refer=top)<br />
-8. [鹿晗演唱会的女安检员](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%BC%94%E5%94%B1%E4%BC%9A%E7%9A%84%E5%A5%B3%E5%AE%89%E6%A3%80%E5%91%98%23&t=31&band_rank=8&Refer=top)<br />
+8. [俄南部军区总部大楼附近传出爆炸声](https://s.weibo.com/weibo?q=%23%E4%BF%84%E5%8D%97%E9%83%A8%E5%86%9B%E5%8C%BA%E6%80%BB%E9%83%A8%E5%A4%A7%E6%A5%BC%E9%99%84%E8%BF%91%E4%BC%A0%E5%87%BA%E7%88%86%E7%82%B8%E5%A3%B0%23&t=31&band_rank=8&Refer=top)<br />
 9. [看消失的她 恋爱脑治好了](https://s.weibo.com/weibo?q=%E7%9C%8B%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%20%E6%81%8B%E7%88%B1%E8%84%91%E6%B2%BB%E5%A5%BD%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -20,9 +20,9 @@
 4. [为什么旗舰手机标准版大部分都不带无线充电？](https://www.zhihu.com/question/607118057)<br />
 5. [一个人可以过得有多极简？](https://www.zhihu.com/question/265827355)<br />
 6. [俄国防部称，瓦格纳集团武装力量被拖入普里戈任的武装叛乱，释放了哪些信号？](https://www.zhihu.com/question/608259505)<br />
-7. [「瓦格纳集团」是个怎样的组织？军事实力如何？](https://www.zhihu.com/question/608310286)<br />
-8. [宁夏银川烧烤店燃气爆炸事故 4 名犯罪嫌疑人被刑拘，从法律角度，他们将受到哪些处罚？](https://www.zhihu.com/question/608287472)<br />
-9. [外国人一般是怎么给自己取中文名的？有没有什么比较奇葩的中文名？](https://www.zhihu.com/question/26546359)<br />
+7. [宁夏银川烧烤店燃气爆炸事故 4 名犯罪嫌疑人被刑拘，从法律角度，他们将受到哪些处罚？](https://www.zhihu.com/question/608287472)<br />
+8. [外国人一般是怎么给自己取中文名的？有没有什么比较奇葩的中文名？](https://www.zhihu.com/question/26546359)<br />
+9. [猫用饮水机真的有用吗？](https://www.zhihu.com/question/314321800)<br />
 
 > 百度  
 
