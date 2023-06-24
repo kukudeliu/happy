@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 21:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 21:23:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [鹿晗演唱会的女安检员](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%BC%94%E5%94%B1%E4%BC%9A%E7%9A%84%E5%A5%B3%E5%AE%89%E6%A3%80%E5%91%98%23&t=31&band_rank=4&Refer=top)<br />
 5. [看消失的她 恋爱脑治好了](https://s.weibo.com/weibo?q=%E7%9C%8B%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%20%E6%81%8B%E7%88%B1%E8%84%91%E6%B2%BB%E5%A5%BD%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
 6. [大学四年买了100斤的衣服](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E5%9B%9B%E5%B9%B4%E4%B9%B0%E4%BA%86100%E6%96%A4%E7%9A%84%E8%A1%A3%E6%9C%8D%23&t=31&band_rank=6&Refer=top)<br />
-7. [车臣](https://s.weibo.com/weibo?q=%E8%BD%A6%E8%87%A3&t=31&band_rank=7&Refer=top)<br />
-8. [披荆斩棘的哥哥](https://s.weibo.com/weibo?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E7%9A%84%E5%93%A5%E5%93%A5&t=31&band_rank=8&Refer=top)<br />
+7. [披荆斩棘的哥哥](https://s.weibo.com/weibo?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E7%9A%84%E5%93%A5%E5%93%A5&t=31&band_rank=7&Refer=top)<br />
+8. [车臣](https://s.weibo.com/weibo?q=%E8%BD%A6%E8%87%A3&t=31&band_rank=8&Refer=top)<br />
 9. [韩剧恶鬼](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%89%A7%E6%81%B6%E9%AC%BC&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
