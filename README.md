@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 15:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 15:10:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [女生高考712分 查完分就睡觉](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83712%E5%88%86+%E6%9F%A5%E5%AE%8C%E5%88%86%E5%B0%B1%E7%9D%A1%E8%A7%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [瓦格纳叛乱？俄罗斯发生了什么](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E5%8F%9B%E4%B9%B1%EF%BC%9F%E4%BF%84%E7%BD%97%E6%96%AF%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [3人往海里扔100多个粽子](https://www.baidu.com/s?wd=3%E4%BA%BA%E5%BE%80%E6%B5%B7%E9%87%8C%E6%89%94100%E5%A4%9A%E4%B8%AA%E7%B2%BD%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [吴越说是不是大女主都没关系](https://www.baidu.com/s?wd=%E5%90%B4%E8%B6%8A%E8%AF%B4%E6%98%AF%E4%B8%8D%E6%98%AF%E5%A4%A7%E5%A5%B3%E4%B8%BB%E9%83%BD%E6%B2%A1%E5%85%B3%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [雷佳音误踩赵丽颖裙子引热议](https://www.baidu.com/s?wd=%E9%9B%B7%E4%BD%B3%E9%9F%B3%E8%AF%AF%E8%B8%A9%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%A3%99%E5%AD%90%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [雷佳音误踩赵丽颖裙子引热议](https://www.baidu.com/s?wd=%E9%9B%B7%E4%BD%B3%E9%9F%B3%E8%AF%AF%E8%B8%A9%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%A3%99%E5%AD%90%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [接单接到手软 龙舟生意有多火爆](https://www.baidu.com/s?wd=%E6%8E%A5%E5%8D%95%E6%8E%A5%E5%88%B0%E6%89%8B%E8%BD%AF+%E9%BE%99%E8%88%9F%E7%94%9F%E6%84%8F%E6%9C%89%E5%A4%9A%E7%81%AB%E7%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [女生高考712分 查完分就睡觉](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83712%E5%88%86+%E6%9F%A5%E5%AE%8C%E5%88%86%E5%B0%B1%E7%9D%A1%E8%A7%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [瓦格纳叛乱？俄罗斯发生了什么](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E5%8F%9B%E4%B9%B1%EF%BC%9F%E4%BF%84%E7%BD%97%E6%96%AF%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [3人往海里扔100多个粽子](https://www.baidu.com/s?wd=3%E4%BA%BA%E5%BE%80%E6%B5%B7%E9%87%8C%E6%89%94100%E5%A4%9A%E4%B8%AA%E7%B2%BD%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [吴越说是不是大女主都没关系](https://www.baidu.com/s?wd=%E5%90%B4%E8%B6%8A%E8%AF%B4%E6%98%AF%E4%B8%8D%E6%98%AF%E5%A4%A7%E5%A5%B3%E4%B8%BB%E9%83%BD%E6%B2%A1%E5%85%B3%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [雷佳音误踩赵丽颖裙子引热议](https://www.baidu.com/s?wd=%E9%9B%B7%E4%BD%B3%E9%9F%B3%E8%AF%AF%E8%B8%A9%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%A3%99%E5%AD%90%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [雷佳音误踩赵丽颖裙子引热议](https://www.baidu.com/s?wd=%E9%9B%B7%E4%BD%B3%E9%9F%B3%E8%AF%AF%E8%B8%A9%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%A3%99%E5%AD%90%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [接单接到手软 龙舟生意有多火爆](https://www.baidu.com/s?wd=%E6%8E%A5%E5%8D%95%E6%8E%A5%E5%88%B0%E6%89%8B%E8%BD%AF+%E9%BE%99%E8%88%9F%E7%94%9F%E6%84%8F%E6%9C%89%E5%A4%9A%E7%81%AB%E7%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
