@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 21:07:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 21:08:01</h4></div>
 
 > 微博  
 
@@ -10,16 +10,16 @@
 6. [车臣](https://s.weibo.com/weibo?q=%E8%BD%A6%E8%87%A3&t=31&band_rank=6&Refer=top)<br />
 7. [大学四年买了100斤的衣服](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E5%9B%9B%E5%B9%B4%E4%B9%B0%E4%BA%86100%E6%96%A4%E7%9A%84%E8%A1%A3%E6%9C%8D%23&t=31&band_rank=7&Refer=top)<br />
 8. [披荆斩棘的哥哥](https://s.weibo.com/weibo?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E7%9A%84%E5%93%A5%E5%93%A5&t=31&band_rank=8&Refer=top)<br />
-9. [瓦格纳](https://s.weibo.com/weibo?q=%23%E7%93%A6%E6%A0%BC%E7%BA%B3%23&t=31&band_rank=9&Refer=top)<br />
+9. [韩剧恶鬼](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%89%A7%E6%81%B6%E9%AC%BC&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [2023 福建高考成绩公布，你考得怎么样？可以说说你的分数和心情吗？](https://www.zhihu.com/question/607974295)<br />
 2. [宁夏银川烧烤店燃气爆炸事故 4 名犯罪嫌疑人被刑拘，从法律角度，他们将受到哪些处罚？](https://www.zhihu.com/question/608287472)<br />
 3. [外国人一般是怎么给自己取中文名的？有没有什么比较奇葩的中文名？](https://www.zhihu.com/question/26546359)<br />
-4. [报考电竞专业是不是就能天天打游戏？](https://www.zhihu.com/theater/93769)<br />
-5. [俄国防部否认袭击瓦格纳营地，瓦格纳领导人因号召武装叛乱被立案，如何看待此事？](https://www.zhihu.com/question/608218892)<br />
-6. []()<br />
+4. []()<br />
+5. [报考电竞专业是不是就能天天打游戏？](https://www.zhihu.com/theater/93769)<br />
+6. [俄国防部否认袭击瓦格纳营地，瓦格纳领导人因号召武装叛乱被立案，如何看待此事？](https://www.zhihu.com/question/608218892)<br />
 7. [猫用饮水机真的有用吗？](https://www.zhihu.com/question/314321800)<br />
 8. [医学没有民用和军用之分，那么军医大学是否有存在的意义？](https://www.zhihu.com/question/607620757)<br />
 9. [华北多地高温，北京连续 40℃ 破纪录，为何北方比南方更热？](https://www.zhihu.com/question/608255644)<br />
@@ -33,7 +33,7 @@
 5. [复读女生涨61分坐地嚎啕大哭](https://www.baidu.com/s?wd=%E5%A4%8D%E8%AF%BB%E5%A5%B3%E7%94%9F%E6%B6%A861%E5%88%86%E5%9D%90%E5%9C%B0%E5%9A%8E%E5%95%95%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [在罗斯托夫中国人：事发突然无准备](https://www.baidu.com/s?wd=%E5%9C%A8%E7%BD%97%E6%96%AF%E6%89%98%E5%A4%AB%E4%B8%AD%E5%9B%BD%E4%BA%BA%EF%BC%9A%E4%BA%8B%E5%8F%91%E7%AA%81%E7%84%B6%E6%97%A0%E5%87%86%E5%A4%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [目击者：俄直升机向瓦格纳车队开火](https://www.baidu.com/s?wd=%E7%9B%AE%E5%87%BB%E8%80%85%EF%BC%9A%E4%BF%84%E7%9B%B4%E5%8D%87%E6%9C%BA%E5%90%91%E7%93%A6%E6%A0%BC%E7%BA%B3%E8%BD%A6%E9%98%9F%E5%BC%80%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [车臣领导人谴责瓦格纳背后捅刀](https://www.baidu.com/s?wd=%E8%BD%A6%E8%87%A3%E9%A2%86%E5%AF%BC%E4%BA%BA%E8%B0%B4%E8%B4%A3%E7%93%A6%E6%A0%BC%E7%BA%B3%E8%83%8C%E5%90%8E%E6%8D%85%E5%88%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男生得知好友仅609分后瞬间弹起](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E5%BE%97%E7%9F%A5%E5%A5%BD%E5%8F%8B%E4%BB%85609%E5%88%86%E5%90%8E%E7%9E%AC%E9%97%B4%E5%BC%B9%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [直击俄罗斯街头实况](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E4%BF%84%E7%BD%97%E6%96%AF%E8%A1%97%E5%A4%B4%E5%AE%9E%E5%86%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [复读女生涨61分坐地嚎啕大哭](https://www.baidu.com/s?wd=%E5%A4%8D%E8%AF%BB%E5%A5%B3%E7%94%9F%E6%B6%A861%E5%88%86%E5%9D%90%E5%9C%B0%E5%9A%8E%E5%95%95%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [在罗斯托夫中国人：事发突然无准备](https://www.baidu.com/s?wd=%E5%9C%A8%E7%BD%97%E6%96%AF%E6%89%98%E5%A4%AB%E4%B8%AD%E5%9B%BD%E4%BA%BA%EF%BC%9A%E4%BA%8B%E5%8F%91%E7%AA%81%E7%84%B6%E6%97%A0%E5%87%86%E5%A4%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [目击者：俄直升机向瓦格纳车队开火](https://www.baidu.com/s?wd=%E7%9B%AE%E5%87%BB%E8%80%85%EF%BC%9A%E4%BF%84%E7%9B%B4%E5%8D%87%E6%9C%BA%E5%90%91%E7%93%A6%E6%A0%BC%E7%BA%B3%E8%BD%A6%E9%98%9F%E5%BC%80%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [车臣领导人谴责瓦格纳背后捅刀](https://www.baidu.com/s?wd=%E8%BD%A6%E8%87%A3%E9%A2%86%E5%AF%BC%E4%BA%BA%E8%B0%B4%E8%B4%A3%E7%93%A6%E6%A0%BC%E7%BA%B3%E8%83%8C%E5%90%8E%E6%8D%85%E5%88%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男生得知好友仅609分后瞬间弹起](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E5%BE%97%E7%9F%A5%E5%A5%BD%E5%8F%8B%E4%BB%85609%E5%88%86%E5%90%8E%E7%9E%AC%E9%97%B4%E5%BC%B9%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [直击俄罗斯街头实况](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E4%BF%84%E7%BD%97%E6%96%AF%E8%A1%97%E5%A4%B4%E5%AE%9E%E5%86%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
