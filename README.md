@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 15:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 15:03:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [炎亚纶前男友A先生再爆料](https://s.weibo.com/weibo?q=%23%E7%82%8E%E4%BA%9A%E7%BA%B6%E5%89%8D%E7%94%B7%E5%8F%8BA%E5%85%88%E7%94%9F%E5%86%8D%E7%88%86%E6%96%99%23&t=31&band_rank=6&Refer=top)<br />
 7. [她她她](https://s.weibo.com/weibo?q=%E5%A5%B9%E5%A5%B9%E5%A5%B9&t=31&band_rank=7&Refer=top)<br />
 8. [闭嘴跳舞 本季最佳](https://s.weibo.com/weibo?q=%E9%97%AD%E5%98%B4%E8%B7%B3%E8%88%9E%20%E6%9C%AC%E5%AD%A3%E6%9C%80%E4%BD%B3&t=31&band_rank=8&Refer=top)<br />
-9. [直井怜我的英雄学院](https://s.weibo.com/weibo?q=%23%E7%9B%B4%E4%BA%95%E6%80%9C%E6%88%91%E7%9A%84%E8%8B%B1%E9%9B%84%E5%AD%A6%E9%99%A2%23&t=31&band_rank=9&Refer=top)<br />
+9. [柳智敏](https://s.weibo.com/weibo?q=%E6%9F%B3%E6%99%BA%E6%95%8F&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -19,10 +19,10 @@
 3. [2023 安徽高考分数线发布，文史一本 495 分、理工一本 482 分，如何评价今年的分数线？](https://www.zhihu.com/question/607974413)<br />
 4. [王宝强《八角笼中》首波口碑出炉，你对该影片都有哪些评价？](https://www.zhihu.com/question/607157396)<br />
 5. [俄国防部称乌克兰军队试图利用瓦格纳部队挑衅的机会发动反攻，瓦格纳为什么要叛变，目前当地局势如何？](https://www.zhihu.com/question/608238596)<br />
-6. [吴越凭借《县委大院》中「艾鲜枝」一角获第 28 届白玉兰奖获得最佳女主角，如何评价她的演技？](https://www.zhihu.com/question/608163030)<br />
-7. [近年来很多新能源汽车都把方向盘设计成了异形，这种设计对驾驶安全有影响吗？](https://www.zhihu.com/question/607651537)<br />
-8. [台媒称「山东舰航母编队 21 日通过台湾海峡」，如何看待这一动向？](https://www.zhihu.com/question/607809103)<br />
-9. [硅谷银行亚洲客户遭「双向挤压」，存款被没收，贷款必须还，如何看待此事？](https://www.zhihu.com/question/607811714)<br />
+6. [台媒称「山东舰航母编队 21 日通过台湾海峡」，如何看待这一动向？](https://www.zhihu.com/question/607809103)<br />
+7. [吴越凭借《县委大院》中「艾鲜枝」一角获第 28 届白玉兰奖获得最佳女主角，如何评价她的演技？](https://www.zhihu.com/question/608163030)<br />
+8. [硅谷银行亚洲客户遭「双向挤压」，存款被没收，贷款必须还，如何看待此事？](https://www.zhihu.com/question/607811714)<br />
+9. [近年来很多新能源汽车都把方向盘设计成了异形，这种设计对驾驶安全有影响吗？](https://www.zhihu.com/question/607651537)<br />
 
 > 百度  
 
