@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 15:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 15:21:01</h4></div>
 
 > 微博  
 
@@ -19,8 +19,8 @@
 3. [台媒称「山东舰航母编队 21 日通过台湾海峡」，如何看待这一动向？](https://www.zhihu.com/question/607809103)<br />
 4. [4070Ti 能战 5 年吗？](https://www.zhihu.com/question/599118671)<br />
 5. [想和猫咪拍照，猫咪不配合怎么办？](https://www.zhihu.com/question/421786821)<br />
-6. [俄国防部称乌克兰军队试图利用瓦格纳部队挑衅的机会发动反攻，瓦格纳为什么要叛变，目前当地局势如何？](https://www.zhihu.com/question/608238596)<br />
-7. [没文化可以教育好孩子吗？](https://www.zhihu.com/question/606881570)<br />
+6. [没文化可以教育好孩子吗？](https://www.zhihu.com/question/606881570)<br />
+7. [俄国防部称乌克兰军队试图利用瓦格纳部队挑衅的机会发动反攻，瓦格纳为什么要叛变，目前当地局势如何？](https://www.zhihu.com/question/608238596)<br />
 8. [如何评价《奔跑吧》第七季第十期《人参争夺战》？](https://www.zhihu.com/question/608157742)<br />
 9. [如何评价「浪姐 4」《乘风 2023》的四公舞台（下）？](https://www.zhihu.com/question/608238658)<br />
 
