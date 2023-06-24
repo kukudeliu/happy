@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 23:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 23:59:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [猫为什么不如狗好驯服？](https://www.zhihu.com/question/605865648)<br />
 5. []()<br />
 6. [俄国防部称，瓦格纳集团武装力量被拖入普里戈任的武装叛乱，释放了哪些信号？](https://www.zhihu.com/question/608259505)<br />
-7. [救护车压坏菜，女摊主拦车不让走，目击者称「拦车近 3 分钟后被市民拉开」，如何看待此事？](https://www.zhihu.com/question/607601229)<br />
-8. []()<br />
-9. [一个中层管理者应该看什么书籍？](https://www.zhihu.com/question/483677374)<br />
+7. []()<br />
+8. [一个中层管理者应该看什么书籍？](https://www.zhihu.com/question/483677374)<br />
+9. [如何评价朱一龙在电影《消失的她》中的演技？](https://www.zhihu.com/question/607660063)<br />
 
 > 百度  
 
@@ -31,9 +31,9 @@
 3. [银川31死爆炸事故原因公布](https://www.baidu.com/s?wd=%E9%93%B6%E5%B7%9D31%E6%AD%BB%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E5%8E%9F%E5%9B%A0%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [大地诗篇](https://www.baidu.com/s?wd=%E5%A4%A7%E5%9C%B0%E8%AF%97%E7%AF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [瓦格纳逼近 莫斯科公共建筑人员疏散](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%80%BC%E8%BF%91+%E8%8E%AB%E6%96%AF%E7%A7%91%E5%85%AC%E5%85%B1%E5%BB%BA%E7%AD%91%E4%BA%BA%E5%91%98%E7%96%8F%E6%95%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [泰国和美国两地大量鱼类死亡](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E5%92%8C%E7%BE%8E%E5%9B%BD%E4%B8%A4%E5%9C%B0%E5%A4%A7%E9%87%8F%E9%B1%BC%E7%B1%BB%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [家长以为中考管饭送完孩子去郊游](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E4%BB%A5%E4%B8%BA%E4%B8%AD%E8%80%83%E7%AE%A1%E9%A5%AD%E9%80%81%E5%AE%8C%E5%AD%A9%E5%AD%90%E5%8E%BB%E9%83%8A%E6%B8%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [复读女生涨61分坐地嚎啕大哭](https://www.baidu.com/s?wd=%E5%A4%8D%E8%AF%BB%E5%A5%B3%E7%94%9F%E6%B6%A861%E5%88%86%E5%9D%90%E5%9C%B0%E5%9A%8E%E5%95%95%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [家长以为中考管饭送完孩子去郊游](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E4%BB%A5%E4%B8%BA%E4%B8%AD%E8%80%83%E7%AE%A1%E9%A5%AD%E9%80%81%E5%AE%8C%E5%AD%A9%E5%AD%90%E5%8E%BB%E9%83%8A%E6%B8%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [泰国和美国两地大量鱼类死亡](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E5%92%8C%E7%BE%8E%E5%9B%BD%E4%B8%A4%E5%9C%B0%E5%A4%A7%E9%87%8F%E9%B1%BC%E7%B1%BB%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [关晓彤去了鹿晗的演唱会](https://www.baidu.com/s?wd=%E5%85%B3%E6%99%93%E5%BD%A4%E5%8E%BB%E4%BA%86%E9%B9%BF%E6%99%97%E7%9A%84%E6%BC%94%E5%94%B1%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [普京与多国领导人通话介绍局势](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%B8%8E%E5%A4%9A%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%80%9A%E8%AF%9D%E4%BB%8B%E7%BB%8D%E5%B1%80%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -43,7 +43,7 @@
 3. [银川31死爆炸事故原因公布](https://www.baidu.com/s?wd=%E9%93%B6%E5%B7%9D31%E6%AD%BB%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E5%8E%9F%E5%9B%A0%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [大地诗篇](https://www.baidu.com/s?wd=%E5%A4%A7%E5%9C%B0%E8%AF%97%E7%AF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [瓦格纳逼近 莫斯科公共建筑人员疏散](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%80%BC%E8%BF%91+%E8%8E%AB%E6%96%AF%E7%A7%91%E5%85%AC%E5%85%B1%E5%BB%BA%E7%AD%91%E4%BA%BA%E5%91%98%E7%96%8F%E6%95%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [泰国和美国两地大量鱼类死亡](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E5%92%8C%E7%BE%8E%E5%9B%BD%E4%B8%A4%E5%9C%B0%E5%A4%A7%E9%87%8F%E9%B1%BC%E7%B1%BB%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [家长以为中考管饭送完孩子去郊游](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E4%BB%A5%E4%B8%BA%E4%B8%AD%E8%80%83%E7%AE%A1%E9%A5%AD%E9%80%81%E5%AE%8C%E5%AD%A9%E5%AD%90%E5%8E%BB%E9%83%8A%E6%B8%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [复读女生涨61分坐地嚎啕大哭](https://www.baidu.com/s?wd=%E5%A4%8D%E8%AF%BB%E5%A5%B3%E7%94%9F%E6%B6%A861%E5%88%86%E5%9D%90%E5%9C%B0%E5%9A%8E%E5%95%95%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [家长以为中考管饭送完孩子去郊游](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E4%BB%A5%E4%B8%BA%E4%B8%AD%E8%80%83%E7%AE%A1%E9%A5%AD%E9%80%81%E5%AE%8C%E5%AD%A9%E5%AD%90%E5%8E%BB%E9%83%8A%E6%B8%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [泰国和美国两地大量鱼类死亡](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E5%92%8C%E7%BE%8E%E5%9B%BD%E4%B8%A4%E5%9C%B0%E5%A4%A7%E9%87%8F%E9%B1%BC%E7%B1%BB%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [关晓彤去了鹿晗的演唱会](https://www.baidu.com/s?wd=%E5%85%B3%E6%99%93%E5%BD%A4%E5%8E%BB%E4%BA%86%E9%B9%BF%E6%99%97%E7%9A%84%E6%BC%94%E5%94%B1%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [普京与多国领导人通话介绍局势](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%B8%8E%E5%A4%9A%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%80%9A%E8%AF%9D%E4%BB%8B%E7%BB%8D%E5%B1%80%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
