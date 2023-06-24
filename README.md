@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 22:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 22:05:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [北京观测史上首次连续两日气温突破 40℃，23 日发布高温红色预警信号，哪些信息值得关注？](https://www.zhihu.com/question/608131521)<br />
 7. [为什么旗舰手机标准版大部分都不带无线充电？](https://www.zhihu.com/question/607118057)<br />
 8. [俄国防部称，瓦格纳集团武装力量被拖入普里戈任的武装叛乱，释放了哪些信号？](https://www.zhihu.com/question/608259505)<br />
-9. [猫用饮水机真的有用吗？](https://www.zhihu.com/question/314321800)<br />
+9. []()<br />
 
 > 百度  
 
@@ -32,9 +32,9 @@
 4. [大地诗篇](https://www.baidu.com/s?wd=%E5%A4%A7%E5%9C%B0%E8%AF%97%E7%AF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [银川31死爆炸事故原因公布](https://www.baidu.com/s?wd=%E9%93%B6%E5%B7%9D31%E6%AD%BB%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E5%8E%9F%E5%9B%A0%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [普京与多国领导人通话介绍局势](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%B8%8E%E5%A4%9A%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%80%9A%E8%AF%9D%E4%BB%8B%E7%BB%8D%E5%B1%80%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [普里戈任办公室被搜出40亿卢布现金](https://www.baidu.com/s?wd=%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E5%8A%9E%E5%85%AC%E5%AE%A4%E8%A2%AB%E6%90%9C%E5%87%BA40%E4%BA%BF%E5%8D%A2%E5%B8%83%E7%8E%B0%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [在罗斯托夫中国人：事发突然无准备](https://www.baidu.com/s?wd=%E5%9C%A8%E7%BD%97%E6%96%AF%E6%89%98%E5%A4%AB%E4%B8%AD%E5%9B%BD%E4%BA%BA%EF%BC%9A%E4%BA%8B%E5%8F%91%E7%AA%81%E7%84%B6%E6%97%A0%E5%87%86%E5%A4%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [外媒：莫斯科直飞多地航班已售罄](https://www.baidu.com/s?wd=%E5%A4%96%E5%AA%92%EF%BC%9A%E8%8E%AB%E6%96%AF%E7%A7%91%E7%9B%B4%E9%A3%9E%E5%A4%9A%E5%9C%B0%E8%88%AA%E7%8F%AD%E5%B7%B2%E5%94%AE%E7%BD%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [在罗斯托夫中国人：事发突然无准备](https://www.baidu.com/s?wd=%E5%9C%A8%E7%BD%97%E6%96%AF%E6%89%98%E5%A4%AB%E4%B8%AD%E5%9B%BD%E4%BA%BA%EF%BC%9A%E4%BA%8B%E5%8F%91%E7%AA%81%E7%84%B6%E6%97%A0%E5%87%86%E5%A4%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [外媒：莫斯科直飞多地航班已售罄](https://www.baidu.com/s?wd=%E5%A4%96%E5%AA%92%EF%BC%9A%E8%8E%AB%E6%96%AF%E7%A7%91%E7%9B%B4%E9%A3%9E%E5%A4%9A%E5%9C%B0%E8%88%AA%E7%8F%AD%E5%B7%B2%E5%94%AE%E7%BD%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男生得知好友仅609分后瞬间弹起](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E5%BE%97%E7%9F%A5%E5%A5%BD%E5%8F%8B%E4%BB%85609%E5%88%86%E5%90%8E%E7%9E%AC%E9%97%B4%E5%BC%B9%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [大地诗篇](https://www.baidu.com/s?wd=%E5%A4%A7%E5%9C%B0%E8%AF%97%E7%AF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [银川31死爆炸事故原因公布](https://www.baidu.com/s?wd=%E9%93%B6%E5%B7%9D31%E6%AD%BB%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E5%8E%9F%E5%9B%A0%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [普京与多国领导人通话介绍局势](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%B8%8E%E5%A4%9A%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%80%9A%E8%AF%9D%E4%BB%8B%E7%BB%8D%E5%B1%80%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [普里戈任办公室被搜出40亿卢布现金](https://www.baidu.com/s?wd=%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E5%8A%9E%E5%85%AC%E5%AE%A4%E8%A2%AB%E6%90%9C%E5%87%BA40%E4%BA%BF%E5%8D%A2%E5%B8%83%E7%8E%B0%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [在罗斯托夫中国人：事发突然无准备](https://www.baidu.com/s?wd=%E5%9C%A8%E7%BD%97%E6%96%AF%E6%89%98%E5%A4%AB%E4%B8%AD%E5%9B%BD%E4%BA%BA%EF%BC%9A%E4%BA%8B%E5%8F%91%E7%AA%81%E7%84%B6%E6%97%A0%E5%87%86%E5%A4%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [外媒：莫斯科直飞多地航班已售罄](https://www.baidu.com/s?wd=%E5%A4%96%E5%AA%92%EF%BC%9A%E8%8E%AB%E6%96%AF%E7%A7%91%E7%9B%B4%E9%A3%9E%E5%A4%9A%E5%9C%B0%E8%88%AA%E7%8F%AD%E5%B7%B2%E5%94%AE%E7%BD%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [在罗斯托夫中国人：事发突然无准备](https://www.baidu.com/s?wd=%E5%9C%A8%E7%BD%97%E6%96%AF%E6%89%98%E5%A4%AB%E4%B8%AD%E5%9B%BD%E4%BA%BA%EF%BC%9A%E4%BA%8B%E5%8F%91%E7%AA%81%E7%84%B6%E6%97%A0%E5%87%86%E5%A4%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [外媒：莫斯科直飞多地航班已售罄](https://www.baidu.com/s?wd=%E5%A4%96%E5%AA%92%EF%BC%9A%E8%8E%AB%E6%96%AF%E7%A7%91%E7%9B%B4%E9%A3%9E%E5%A4%9A%E5%9C%B0%E8%88%AA%E7%8F%AD%E5%B7%B2%E5%94%AE%E7%BD%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男生得知好友仅609分后瞬间弹起](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E5%BE%97%E7%9F%A5%E5%A5%BD%E5%8F%8B%E4%BB%85609%E5%88%86%E5%90%8E%E7%9E%AC%E9%97%B4%E5%BC%B9%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
