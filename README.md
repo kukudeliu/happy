@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 21:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 21:47:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [普京与多国领导人通话介绍局势](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%B8%8E%E5%A4%9A%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%80%9A%E8%AF%9D%E4%BB%8B%E7%BB%8D%E5%B1%80%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [在罗斯托夫中国人：事发突然无准备](https://www.baidu.com/s?wd=%E5%9C%A8%E7%BD%97%E6%96%AF%E6%89%98%E5%A4%AB%E4%B8%AD%E5%9B%BD%E4%BA%BA%EF%BC%9A%E4%BA%8B%E5%8F%91%E7%AA%81%E7%84%B6%E6%97%A0%E5%87%86%E5%A4%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男生得知好友仅609分后瞬间弹起](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E5%BE%97%E7%9F%A5%E5%A5%BD%E5%8F%8B%E4%BB%85609%E5%88%86%E5%90%8E%E7%9E%AC%E9%97%B4%E5%BC%B9%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [直击俄罗斯街头实况](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E4%BF%84%E7%BD%97%E6%96%AF%E8%A1%97%E5%A4%B4%E5%AE%9E%E5%86%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [目击者：俄直升机向瓦格纳车队开火](https://www.baidu.com/s?wd=%E7%9B%AE%E5%87%BB%E8%80%85%EF%BC%9A%E4%BF%84%E7%9B%B4%E5%8D%87%E6%9C%BA%E5%90%91%E7%93%A6%E6%A0%BC%E7%BA%B3%E8%BD%A6%E9%98%9F%E5%BC%80%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [普京与多国领导人通话介绍局势](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%B8%8E%E5%A4%9A%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%80%9A%E8%AF%9D%E4%BB%8B%E7%BB%8D%E5%B1%80%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [在罗斯托夫中国人：事发突然无准备](https://www.baidu.com/s?wd=%E5%9C%A8%E7%BD%97%E6%96%AF%E6%89%98%E5%A4%AB%E4%B8%AD%E5%9B%BD%E4%BA%BA%EF%BC%9A%E4%BA%8B%E5%8F%91%E7%AA%81%E7%84%B6%E6%97%A0%E5%87%86%E5%A4%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男生得知好友仅609分后瞬间弹起](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E5%BE%97%E7%9F%A5%E5%A5%BD%E5%8F%8B%E4%BB%85609%E5%88%86%E5%90%8E%E7%9E%AC%E9%97%B4%E5%BC%B9%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [直击俄罗斯街头实况](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E4%BF%84%E7%BD%97%E6%96%AF%E8%A1%97%E5%A4%B4%E5%AE%9E%E5%86%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [目击者：俄直升机向瓦格纳车队开火](https://www.baidu.com/s?wd=%E7%9B%AE%E5%87%BB%E8%80%85%EF%BC%9A%E4%BF%84%E7%9B%B4%E5%8D%87%E6%9C%BA%E5%90%91%E7%93%A6%E6%A0%BC%E7%BA%B3%E8%BD%A6%E9%98%9F%E5%BC%80%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
