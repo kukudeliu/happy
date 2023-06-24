@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 06:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 06:47:01</h4></div>
 
 > 微博  
 
@@ -19,10 +19,10 @@
 3. []()<br />
 4. [40 岁以后，你发现哪些钱根本没必要花？](https://www.zhihu.com/question/593808844)<br />
 5. [宁夏银川烧烤店燃气爆炸事故 4 名犯罪嫌疑人被刑拘，从法律角度，他们将受到哪些处罚？](https://www.zhihu.com/question/608287472)<br />
-6. [猫为什么不如狗好驯服？](https://www.zhihu.com/question/605865648)<br />
-7. []()<br />
+6. [如何评价朱一龙在电影《消失的她》中的演技？](https://www.zhihu.com/question/607660063)<br />
+7. [猫为什么不如狗好驯服？](https://www.zhihu.com/question/605865648)<br />
 8. []()<br />
-9. [如何评价朱一龙在电影《消失的她》中的演技？](https://www.zhihu.com/question/607660063)<br />
+9. []()<br />
 
 > 百度  
 
