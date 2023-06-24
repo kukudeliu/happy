@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 10:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 10:15:01</h4></div>
 
 > 微博  
 
@@ -17,8 +17,8 @@
 1. [莫迪在美国国会上表示「印度很快将是世界第三大经济体」，这一目标可能实现吗？](https://www.zhihu.com/question/608151767)<br />
 2. [因为端午礼品问题和女朋友吵架分手，请大家看看是我反应过度了吗？](https://www.zhihu.com/question/607441090)<br />
 3. [俄国防部否认袭击瓦格纳营地，瓦格纳领导人因号召武装叛乱被立案，如何看待此事？](https://www.zhihu.com/question/608218892)<br />
-4. [如何评价西南大学本科生发表五篇 sci 论文 (第一作者)，毕业典礼上表示希望五年博士毕业后回到母校工作？](https://www.zhihu.com/question/607703486)<br />
-5. [您读过最有力量的书是什么？](https://www.zhihu.com/question/603556848)<br />
+4. [您读过最有力量的书是什么？](https://www.zhihu.com/question/603556848)<br />
+5. [如何评价西南大学本科生发表五篇 sci 论文 (第一作者)，毕业典礼上表示希望五年博士毕业后回到母校工作？](https://www.zhihu.com/question/607703486)<br />
 6. []()<br />
 7. []()<br />
 8. [志愿填报一窍不通，怎么办？](https://www.zhihu.com/question/595485450)<br />
