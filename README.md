@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 12:18:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 12:19:01</h4></div>
 
 > 微博  
 
@@ -32,9 +32,9 @@
 4. [让传统佳节推陈出新](https://www.baidu.com/s?wd=%E8%AE%A9%E4%BC%A0%E7%BB%9F%E4%BD%B3%E8%8A%82%E6%8E%A8%E9%99%88%E5%87%BA%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女儿587分 老爸直呼“祖坟冒烟喽”](https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF587%E5%88%86+%E8%80%81%E7%88%B8%E7%9B%B4%E5%91%BC%E2%80%9C%E7%A5%96%E5%9D%9F%E5%86%92%E7%83%9F%E5%96%BD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [敖德萨征兵委员会负责人面临解职](https://www.baidu.com/s?wd=%E6%95%96%E5%BE%B7%E8%90%A8%E5%BE%81%E5%85%B5%E5%A7%94%E5%91%98%E4%BC%9A%E8%B4%9F%E8%B4%A3%E4%BA%BA%E9%9D%A2%E4%B8%B4%E8%A7%A3%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [乌克兰首都基辅传出爆炸声](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E9%A6%96%E9%83%BD%E5%9F%BA%E8%BE%85%E4%BC%A0%E5%87%BA%E7%88%86%E7%82%B8%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [高考709分 老师大喊“天啊”](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83709%E5%88%86+%E8%80%81%E5%B8%88%E5%A4%A7%E5%96%8A%E2%80%9C%E5%A4%A9%E5%95%8A%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [瓦格纳称击落一架俄军直升机](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E7%A7%B0%E5%87%BB%E8%90%BD%E4%B8%80%E6%9E%B6%E4%BF%84%E5%86%9B%E7%9B%B4%E5%8D%87%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [高考709分 老师大喊“天啊”](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83709%E5%88%86+%E8%80%81%E5%B8%88%E5%A4%A7%E5%96%8A%E2%80%9C%E5%A4%A9%E5%95%8A%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [瓦格纳称击落一架俄军直升机](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E7%A7%B0%E5%87%BB%E8%90%BD%E4%B8%80%E6%9E%B6%E4%BF%84%E5%86%9B%E7%9B%B4%E5%8D%87%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [乌克兰首都基辅传出爆炸声](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E9%A6%96%E9%83%BD%E5%9F%BA%E8%BE%85%E4%BC%A0%E5%87%BA%E7%88%86%E7%82%B8%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [让传统佳节推陈出新](https://www.baidu.com/s?wd=%E8%AE%A9%E4%BC%A0%E7%BB%9F%E4%BD%B3%E8%8A%82%E6%8E%A8%E9%99%88%E5%87%BA%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女儿587分 老爸直呼“祖坟冒烟喽”](https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF587%E5%88%86+%E8%80%81%E7%88%B8%E7%9B%B4%E5%91%BC%E2%80%9C%E7%A5%96%E5%9D%9F%E5%86%92%E7%83%9F%E5%96%BD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [敖德萨征兵委员会负责人面临解职](https://www.baidu.com/s?wd=%E6%95%96%E5%BE%B7%E8%90%A8%E5%BE%81%E5%85%B5%E5%A7%94%E5%91%98%E4%BC%9A%E8%B4%9F%E8%B4%A3%E4%BA%BA%E9%9D%A2%E4%B8%B4%E8%A7%A3%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [乌克兰首都基辅传出爆炸声](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E9%A6%96%E9%83%BD%E5%9F%BA%E8%BE%85%E4%BC%A0%E5%87%BA%E7%88%86%E7%82%B8%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [高考709分 老师大喊“天啊”](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83709%E5%88%86+%E8%80%81%E5%B8%88%E5%A4%A7%E5%96%8A%E2%80%9C%E5%A4%A9%E5%95%8A%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [瓦格纳称击落一架俄军直升机](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E7%A7%B0%E5%87%BB%E8%90%BD%E4%B8%80%E6%9E%B6%E4%BF%84%E5%86%9B%E7%9B%B4%E5%8D%87%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [高考709分 老师大喊“天啊”](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83709%E5%88%86+%E8%80%81%E5%B8%88%E5%A4%A7%E5%96%8A%E2%80%9C%E5%A4%A9%E5%95%8A%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [瓦格纳称击落一架俄军直升机](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E7%A7%B0%E5%87%BB%E8%90%BD%E4%B8%80%E6%9E%B6%E4%BF%84%E5%86%9B%E7%9B%B4%E5%8D%87%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [乌克兰首都基辅传出爆炸声](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E9%A6%96%E9%83%BD%E5%9F%BA%E8%BE%85%E4%BC%A0%E5%87%BA%E7%88%86%E7%82%B8%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
