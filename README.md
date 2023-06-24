@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 17:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 17:24:01</h4></div>
 
 > 微博  
 
@@ -9,20 +9,20 @@
 5. [考上研究生要让大家都知道](https://s.weibo.com/weibo?q=%23%E8%80%83%E4%B8%8A%E7%A0%94%E7%A9%B6%E7%94%9F%E8%A6%81%E8%AE%A9%E5%A4%A7%E5%AE%B6%E9%83%BD%E7%9F%A5%E9%81%93%23&t=31&band_rank=5&Refer=top)<br />
 6. [辽宁高考分数线砍一刀](https://s.weibo.com/weibo?q=%E8%BE%BD%E5%AE%81%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E7%A0%8D%E4%B8%80%E5%88%80&t=31&band_rank=6&Refer=top)<br />
 7. [虞书欣到底有多少靴子](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%B0%91%E9%9D%B4%E5%AD%90%23&t=31&band_rank=7&Refer=top)<br />
-8. [资助了三年的妹妹考了六百多分](https://s.weibo.com/weibo?q=%23%E8%B5%84%E5%8A%A9%E4%BA%86%E4%B8%89%E5%B9%B4%E7%9A%84%E5%A6%B9%E5%A6%B9%E8%80%83%E4%BA%86%E5%85%AD%E7%99%BE%E5%A4%9A%E5%88%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [白敬亭女团舞](https://s.weibo.com/weibo?q=%E7%99%BD%E6%95%AC%E4%BA%AD%E5%A5%B3%E5%9B%A2%E8%88%9E&t=31&band_rank=9&Refer=top)<br />
+8. [白敬亭女团舞](https://s.weibo.com/weibo?q=%E7%99%BD%E6%95%AC%E4%BA%AD%E5%A5%B3%E5%9B%A2%E8%88%9E&t=31&band_rank=8&Refer=top)<br />
+9. [资助了三年的妹妹考了六百多分](https://s.weibo.com/weibo?q=%23%E8%B5%84%E5%8A%A9%E4%BA%86%E4%B8%89%E5%B9%B4%E7%9A%84%E5%A6%B9%E5%A6%B9%E8%80%83%E4%BA%86%E5%85%AD%E7%99%BE%E5%A4%9A%E5%88%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [普京发表讲话称俄罗斯正为未来开展「最复杂的战斗」，不会让俄罗斯分裂，反叛者会受惩罚，哪些信息值得关注？](https://www.zhihu.com/question/608260419)<br />
 2. [如何评价《原神》枫丹版本的部分美术设计为甜美魔幻风，而非蒸汽朋克？](https://www.zhihu.com/question/608230338)<br />
-3. [硅谷银行亚洲客户遭「双向挤压」，存款被没收，贷款必须还，如何看待此事？](https://www.zhihu.com/question/607811714)<br />
-4. [俄国防部否认袭击瓦格纳营地，瓦格纳领导人因号召武装叛乱被立案，如何看待此事？](https://www.zhihu.com/question/608218892)<br />
-5. [市面上的玻璃到底有铅没铅？](https://www.zhihu.com/question/606342982)<br />
+3. [市面上的玻璃到底有铅没铅？](https://www.zhihu.com/question/606342982)<br />
+4. [乌龟养熟的表现有哪些？](https://www.zhihu.com/question/597512707)<br />
+5. [硅谷银行亚洲客户遭「双向挤压」，存款被没收，贷款必须还，如何看待此事？](https://www.zhihu.com/question/607811714)<br />
 6. [俄国防部称，瓦格纳集团武装力量被拖入普里戈任的武装叛乱，释放了哪些信号？](https://www.zhihu.com/question/608259505)<br />
 7. [电影《消失的她》里何非到底是怎样的一个人?](https://www.zhihu.com/question/607967579)<br />
-8. [乌龟养熟的表现有哪些？](https://www.zhihu.com/question/597512707)<br />
-9. [想带孩子去户外玩耍，哪些「带娃神器」必不可少？](https://www.zhihu.com/question/606792842)<br />
+8. [想带孩子去户外玩耍，哪些「带娃神器」必不可少？](https://www.zhihu.com/question/606792842)<br />
+9. [高考失利可以考研翻盘吗?](https://www.zhihu.com/question/608117599)<br />
 
 > 百度  
 
@@ -33,8 +33,8 @@
 5. [瓦格纳集团回应普京讲话](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%9B%86%E5%9B%A2%E5%9B%9E%E5%BA%94%E6%99%AE%E4%BA%AC%E8%AE%B2%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [直击俄罗斯街头实况](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E4%BF%84%E7%BD%97%E6%96%AF%E8%A1%97%E5%A4%B4%E5%AE%9E%E5%86%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [瓦格纳上传创始人与俄副防长谈判视频](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E4%B8%8A%E4%BC%A0%E5%88%9B%E5%A7%8B%E4%BA%BA%E4%B8%8E%E4%BF%84%E5%89%AF%E9%98%B2%E9%95%BF%E8%B0%88%E5%88%A4%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [普京：将采取果断行动来稳定局势](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E5%B0%86%E9%87%87%E5%8F%96%E6%9E%9C%E6%96%AD%E8%A1%8C%E5%8A%A8%E6%9D%A5%E7%A8%B3%E5%AE%9A%E5%B1%80%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [普里戈任与俄国防部副部长会面](https://www.baidu.com/s?wd=%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E4%B8%8E%E4%BF%84%E5%9B%BD%E9%98%B2%E9%83%A8%E5%89%AF%E9%83%A8%E9%95%BF%E4%BC%9A%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子醉酒吐车上司机怒骂不要脸](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%86%89%E9%85%92%E5%90%90%E8%BD%A6%E4%B8%8A%E5%8F%B8%E6%9C%BA%E6%80%92%E9%AA%82%E4%B8%8D%E8%A6%81%E8%84%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [冲场抱梅西球迷：再也不会违法了](https://www.baidu.com/s?wd=%E5%86%B2%E5%9C%BA%E6%8A%B1%E6%A2%85%E8%A5%BF%E7%90%83%E8%BF%B7%EF%BC%9A%E5%86%8D%E4%B9%9F%E4%B8%8D%E4%BC%9A%E8%BF%9D%E6%B3%95%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [瓦格纳集团回应普京讲话](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%9B%86%E5%9B%A2%E5%9B%9E%E5%BA%94%E6%99%AE%E4%BA%AC%E8%AE%B2%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [直击俄罗斯街头实况](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E4%BF%84%E7%BD%97%E6%96%AF%E8%A1%97%E5%A4%B4%E5%AE%9E%E5%86%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [瓦格纳上传创始人与俄副防长谈判视频](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E4%B8%8A%E4%BC%A0%E5%88%9B%E5%A7%8B%E4%BA%BA%E4%B8%8E%E4%BF%84%E5%89%AF%E9%98%B2%E9%95%BF%E8%B0%88%E5%88%A4%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [普京：将采取果断行动来稳定局势](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E5%B0%86%E9%87%87%E5%8F%96%E6%9E%9C%E6%96%AD%E8%A1%8C%E5%8A%A8%E6%9D%A5%E7%A8%B3%E5%AE%9A%E5%B1%80%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [普里戈任与俄国防部副部长会面](https://www.baidu.com/s?wd=%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E4%B8%8E%E4%BF%84%E5%9B%BD%E9%98%B2%E9%83%A8%E5%89%AF%E9%83%A8%E9%95%BF%E4%BC%9A%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子醉酒吐车上司机怒骂不要脸](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%86%89%E9%85%92%E5%90%90%E8%BD%A6%E4%B8%8A%E5%8F%B8%E6%9C%BA%E6%80%92%E9%AA%82%E4%B8%8D%E8%A6%81%E8%84%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [冲场抱梅西球迷：再也不会违法了](https://www.baidu.com/s?wd=%E5%86%B2%E5%9C%BA%E6%8A%B1%E6%A2%85%E8%A5%BF%E7%90%83%E8%BF%B7%EF%BC%9A%E5%86%8D%E4%B9%9F%E4%B8%8D%E4%BC%9A%E8%BF%9D%E6%B3%95%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
