@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 19:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 19:19:01</h4></div>
 
 > 微博  
 
@@ -32,8 +32,8 @@
 4. [大地诗篇](https://www.baidu.com/s?wd=%E5%A4%A7%E5%9C%B0%E8%AF%97%E7%AF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [十余人超690分 老师激动要降压药](https://www.baidu.com/s?wd=%E5%8D%81%E4%BD%99%E4%BA%BA%E8%B6%85690%E5%88%86+%E8%80%81%E5%B8%88%E6%BF%80%E5%8A%A8%E8%A6%81%E9%99%8D%E5%8E%8B%E8%8D%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [多国就俄罗斯局势表态](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E5%B0%B1%E4%BF%84%E7%BD%97%E6%96%AF%E5%B1%80%E5%8A%BF%E8%A1%A8%E6%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女生发烧考618分挨个房间报喜](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%8F%91%E7%83%A7%E8%80%83618%E5%88%86%E6%8C%A8%E4%B8%AA%E6%88%BF%E9%97%B4%E6%8A%A5%E5%96%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [雷佳音误踩赵丽颖裙子引热议](https://www.baidu.com/s?wd=%E9%9B%B7%E4%BD%B3%E9%9F%B3%E8%AF%AF%E8%B8%A9%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%A3%99%E5%AD%90%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [武大将打击“黄牛违规入校”行为](https://www.baidu.com/s?wd=%E6%AD%A6%E5%A4%A7%E5%B0%86%E6%89%93%E5%87%BB%E2%80%9C%E9%BB%84%E7%89%9B%E8%BF%9D%E8%A7%84%E5%85%A5%E6%A0%A1%E2%80%9D%E8%A1%8C%E4%B8%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [莫斯科红场内部已封锁](https://www.baidu.com/s?wd=%E8%8E%AB%E6%96%AF%E7%A7%91%E7%BA%A2%E5%9C%BA%E5%86%85%E9%83%A8%E5%B7%B2%E5%B0%81%E9%94%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [直击俄罗斯街头实况](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E4%BF%84%E7%BD%97%E6%96%AF%E8%A1%97%E5%A4%B4%E5%AE%9E%E5%86%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -44,6 +44,6 @@
 4. [大地诗篇](https://www.baidu.com/s?wd=%E5%A4%A7%E5%9C%B0%E8%AF%97%E7%AF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [十余人超690分 老师激动要降压药](https://www.baidu.com/s?wd=%E5%8D%81%E4%BD%99%E4%BA%BA%E8%B6%85690%E5%88%86+%E8%80%81%E5%B8%88%E6%BF%80%E5%8A%A8%E8%A6%81%E9%99%8D%E5%8E%8B%E8%8D%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [多国就俄罗斯局势表态](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E5%B0%B1%E4%BF%84%E7%BD%97%E6%96%AF%E5%B1%80%E5%8A%BF%E8%A1%A8%E6%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女生发烧考618分挨个房间报喜](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%8F%91%E7%83%A7%E8%80%83618%E5%88%86%E6%8C%A8%E4%B8%AA%E6%88%BF%E9%97%B4%E6%8A%A5%E5%96%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [雷佳音误踩赵丽颖裙子引热议](https://www.baidu.com/s?wd=%E9%9B%B7%E4%BD%B3%E9%9F%B3%E8%AF%AF%E8%B8%A9%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%A3%99%E5%AD%90%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [武大将打击“黄牛违规入校”行为](https://www.baidu.com/s?wd=%E6%AD%A6%E5%A4%A7%E5%B0%86%E6%89%93%E5%87%BB%E2%80%9C%E9%BB%84%E7%89%9B%E8%BF%9D%E8%A7%84%E5%85%A5%E6%A0%A1%E2%80%9D%E8%A1%8C%E4%B8%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [莫斯科红场内部已封锁](https://www.baidu.com/s?wd=%E8%8E%AB%E6%96%AF%E7%A7%91%E7%BA%A2%E5%9C%BA%E5%86%85%E9%83%A8%E5%B7%B2%E5%B0%81%E9%94%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [直击俄罗斯街头实况](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E4%BF%84%E7%BD%97%E6%96%AF%E8%A1%97%E5%A4%B4%E5%AE%9E%E5%86%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
