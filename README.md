@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 17:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 17:14:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [世界互联网大会数字文明尼山对话](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A%E6%95%B0%E5%AD%97%E6%96%87%E6%98%8E%E5%B0%BC%E5%B1%B1%E5%AF%B9%E8%AF%9D%23&t=31&band_rank=3&Refer=top)<br />
 4. [网友问老婆变成文咏珊为什么要报警](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E9%97%AE%E8%80%81%E5%A9%86%E5%8F%98%E6%88%90%E6%96%87%E5%92%8F%E7%8F%8A%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=4&Refer=top)<br />
 5. [台媒曝黄子佼下个月复工](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E5%AA%92%E6%9B%9D%E9%BB%84%E5%AD%90%E4%BD%BC%E4%B8%8B%E4%B8%AA%E6%9C%88%E5%A4%8D%E5%B7%A5%23&t=31&band_rank=5&Refer=top)<br />
-6. [江苏高考分数线](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%23&t=31&band_rank=6&Refer=top)<br />
-7. [资助了三年的妹妹考了六百多分](https://s.weibo.com/weibo?q=%23%E8%B5%84%E5%8A%A9%E4%BA%86%E4%B8%89%E5%B9%B4%E7%9A%84%E5%A6%B9%E5%A6%B9%E8%80%83%E4%BA%86%E5%85%AD%E7%99%BE%E5%A4%9A%E5%88%86%23&t=31&band_rank=7&Refer=top)<br />
+6. [资助了三年的妹妹考了六百多分](https://s.weibo.com/weibo?q=%23%E8%B5%84%E5%8A%A9%E4%BA%86%E4%B8%89%E5%B9%B4%E7%9A%84%E5%A6%B9%E5%A6%B9%E8%80%83%E4%BA%86%E5%85%AD%E7%99%BE%E5%A4%9A%E5%88%86%23&t=31&band_rank=6&Refer=top)<br />
+7. [江苏高考分数线](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%23&t=31&band_rank=7&Refer=top)<br />
 8. [考上研究生要让大家都知道](https://s.weibo.com/weibo?q=%23%E8%80%83%E4%B8%8A%E7%A0%94%E7%A9%B6%E7%94%9F%E8%A6%81%E8%AE%A9%E5%A4%A7%E5%AE%B6%E9%83%BD%E7%9F%A5%E9%81%93%23&t=31&band_rank=8&Refer=top)<br />
 9. [炎亚纶前男友A先生再爆料](https://s.weibo.com/weibo?q=%23%E7%82%8E%E4%BA%9A%E7%BA%B6%E5%89%8D%E7%94%B7%E5%8F%8BA%E5%85%88%E7%94%9F%E5%86%8D%E7%88%86%E6%96%99%23&t=31&band_rank=9&Refer=top)<br />
 
@@ -33,8 +33,8 @@
 5. [瓦格纳集团回应普京讲话](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%9B%86%E5%9B%A2%E5%9B%9E%E5%BA%94%E6%99%AE%E4%BA%AC%E8%AE%B2%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [直击俄罗斯街头实况](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E4%BF%84%E7%BD%97%E6%96%AF%E8%A1%97%E5%A4%B4%E5%AE%9E%E5%86%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [普京：将采取果断行动来稳定局势](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E5%B0%86%E9%87%87%E5%8F%96%E6%9E%9C%E6%96%AD%E8%A1%8C%E5%8A%A8%E6%9D%A5%E7%A8%B3%E5%AE%9A%E5%B1%80%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [乌克兰首都基辅传出爆炸声](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E9%A6%96%E9%83%BD%E5%9F%BA%E8%BE%85%E4%BC%A0%E5%87%BA%E7%88%86%E7%82%B8%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [普里戈任与俄国防部副部长会面](https://www.baidu.com/s?wd=%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E4%B8%8E%E4%BF%84%E5%9B%BD%E9%98%B2%E9%83%A8%E5%89%AF%E9%83%A8%E9%95%BF%E4%BC%9A%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [普里戈任与俄国防部副部长会面](https://www.baidu.com/s?wd=%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E4%B8%8E%E4%BF%84%E5%9B%BD%E9%98%B2%E9%83%A8%E5%89%AF%E9%83%A8%E9%95%BF%E4%BC%9A%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [华晨宇回应奥运舞美造价第一](https://www.baidu.com/s?wd=%E5%8D%8E%E6%99%A8%E5%AE%87%E5%9B%9E%E5%BA%94%E5%A5%A5%E8%BF%90%E8%88%9E%E7%BE%8E%E9%80%A0%E4%BB%B7%E7%AC%AC%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [瓦格纳集团回应普京讲话](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%9B%86%E5%9B%A2%E5%9B%9E%E5%BA%94%E6%99%AE%E4%BA%AC%E8%AE%B2%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [直击俄罗斯街头实况](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E4%BF%84%E7%BD%97%E6%96%AF%E8%A1%97%E5%A4%B4%E5%AE%9E%E5%86%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [普京：将采取果断行动来稳定局势](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E5%B0%86%E9%87%87%E5%8F%96%E6%9E%9C%E6%96%AD%E8%A1%8C%E5%8A%A8%E6%9D%A5%E7%A8%B3%E5%AE%9A%E5%B1%80%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [乌克兰首都基辅传出爆炸声](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E9%A6%96%E9%83%BD%E5%9F%BA%E8%BE%85%E4%BC%A0%E5%87%BA%E7%88%86%E7%82%B8%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [普里戈任与俄国防部副部长会面](https://www.baidu.com/s?wd=%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E4%B8%8E%E4%BF%84%E5%9B%BD%E9%98%B2%E9%83%A8%E5%89%AF%E9%83%A8%E9%95%BF%E4%BC%9A%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [普里戈任与俄国防部副部长会面](https://www.baidu.com/s?wd=%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E4%B8%8E%E4%BF%84%E5%9B%BD%E9%98%B2%E9%83%A8%E5%89%AF%E9%83%A8%E9%95%BF%E4%BC%9A%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [华晨宇回应奥运舞美造价第一](https://www.baidu.com/s?wd=%E5%8D%8E%E6%99%A8%E5%AE%87%E5%9B%9E%E5%BA%94%E5%A5%A5%E8%BF%90%E8%88%9E%E7%BE%8E%E9%80%A0%E4%BB%B7%E7%AC%AC%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
