@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 16:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 16:41:01</h4></div>
 
 > 微博  
 
@@ -9,13 +9,13 @@
 5. [高考理科623分决心复读了](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E7%90%86%E7%A7%91623%E5%88%86%E5%86%B3%E5%BF%83%E5%A4%8D%E8%AF%BB%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [王俊凯易烊千玺G社生图](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BAG%E7%A4%BE%E7%94%9F%E5%9B%BE%23&t=31&band_rank=6&Refer=top)<br />
 7. [炎亚纶前男友A先生再爆料](https://s.weibo.com/weibo?q=%23%E7%82%8E%E4%BA%9A%E7%BA%B6%E5%89%8D%E7%94%B7%E5%8F%8BA%E5%85%88%E7%94%9F%E5%86%8D%E7%88%86%E6%96%99%23&t=31&band_rank=7&Refer=top)<br />
-8. [县委大院被恶意评分](https://s.weibo.com/weibo?q=%23%E5%8E%BF%E5%A7%94%E5%A4%A7%E9%99%A2%E8%A2%AB%E6%81%B6%E6%84%8F%E8%AF%84%E5%88%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [普京称所有对抗军队的人都是叛徒](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E7%A7%B0%E6%89%80%E6%9C%89%E5%AF%B9%E6%8A%97%E5%86%9B%E9%98%9F%E7%9A%84%E4%BA%BA%E9%83%BD%E6%98%AF%E5%8F%9B%E5%BE%92%23&t=31&band_rank=9&Refer=top)<br />
+8. [普京称所有对抗军队的人都是叛徒](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E7%A7%B0%E6%89%80%E6%9C%89%E5%AF%B9%E6%8A%97%E5%86%9B%E9%98%9F%E7%9A%84%E4%BA%BA%E9%83%BD%E6%98%AF%E5%8F%9B%E5%BE%92%23&t=31&band_rank=8&Refer=top)<br />
+9. [县委大院被恶意评分](https://s.weibo.com/weibo?q=%23%E5%8E%BF%E5%A7%94%E5%A4%A7%E9%99%A2%E8%A2%AB%E6%81%B6%E6%84%8F%E8%AF%84%E5%88%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [俄国防部否认袭击瓦格纳营地，瓦格纳领导人因号召武装叛乱被立案，如何看待此事？](https://www.zhihu.com/question/608218892)<br />
-2. [普京发表电视讲话，称俄罗斯正为其未来开展「最复杂的战斗」，不会让俄罗斯分裂，哪些信息值得关注？](https://www.zhihu.com/question/608260419)<br />
+2. [普京发表讲话称俄罗斯正为未来开展「最复杂的战斗」，不会让俄罗斯分裂，反叛者会受惩罚，哪些信息值得关注？](https://www.zhihu.com/question/608260419)<br />
 3. [硅谷银行亚洲客户遭「双向挤压」，存款被没收，贷款必须还，如何看待此事？](https://www.zhihu.com/question/607811714)<br />
 4. [台媒称「山东舰航母编队 21 日通过台湾海峡」，如何看待这一动向？](https://www.zhihu.com/question/607809103)<br />
 5. [没文化可以教育好孩子吗？](https://www.zhihu.com/question/606881570)<br />
