@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 04:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 04:18:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [俄罗斯对瓦格纳组织创始人刑事立案](https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E5%AF%B9%E7%93%A6%E6%A0%BC%E7%BA%B3%E7%BB%84%E7%BB%87%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%88%91%E4%BA%8B%E7%AB%8B%E6%A1%88%23&t=31&band_rank=6&Refer=top)<br />
 7. [消失的她 绝世大甜剧](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%20%E7%BB%9D%E4%B8%96%E5%A4%A7%E7%94%9C%E5%89%A7&t=31&band_rank=7&Refer=top)<br />
 8. [鹿晗演唱会的女安检员](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%BC%94%E5%94%B1%E4%BC%9A%E7%9A%84%E5%A5%B3%E5%AE%89%E6%A3%80%E5%91%98%23&t=31&band_rank=8&Refer=top)<br />
-9. [弟弟考673分姐姐哭了一小时](https://s.weibo.com/weibo?q=%23%E5%BC%9F%E5%BC%9F%E8%80%83673%E5%88%86%E5%A7%90%E5%A7%90%E5%93%AD%E4%BA%86%E4%B8%80%E5%B0%8F%E6%97%B6%23&t=31&band_rank=9&Refer=top)<br />
+9. [家长以为中考管饭送完孩子去郊游](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%95%BF%E4%BB%A5%E4%B8%BA%E4%B8%AD%E8%80%83%E7%AE%A1%E9%A5%AD%E9%80%81%E5%AE%8C%E5%AD%A9%E5%AD%90%E5%8E%BB%E9%83%8A%E6%B8%B8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -18,10 +18,10 @@
 2. []()<br />
 3. []()<br />
 4. [2023 江苏高考成绩公布，你考得怎么样？可以说说你的分数和心情吗？](https://www.zhihu.com/question/607974209)<br />
-5. []()<br />
-6. [一个人可以过得有多极简？](https://www.zhihu.com/question/265827355)<br />
+5. [一个人可以过得有多极简？](https://www.zhihu.com/question/265827355)<br />
+6. [宁夏银川烧烤店燃气爆炸事故 4 名犯罪嫌疑人被刑拘，从法律角度，他们将受到哪些处罚？](https://www.zhihu.com/question/608287472)<br />
 7. []()<br />
-8. [宁夏银川烧烤店燃气爆炸事故 4 名犯罪嫌疑人被刑拘，从法律角度，他们将受到哪些处罚？](https://www.zhihu.com/question/608287472)<br />
+8. []()<br />
 9. [如何评价朱一龙在电影《消失的她》中的演技？](https://www.zhihu.com/question/607660063)<br />
 
 > 百度  
@@ -32,9 +32,9 @@
 4. [大地诗篇](https://www.baidu.com/s?wd=%E5%A4%A7%E5%9C%B0%E8%AF%97%E7%AF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [瓦格纳逼近 莫斯科公共建筑人员疏散](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%80%BC%E8%BF%91+%E8%8E%AB%E6%96%AF%E7%A7%91%E5%85%AC%E5%85%B1%E5%BB%BA%E7%AD%91%E4%BA%BA%E5%91%98%E7%96%8F%E6%95%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [普京与多国领导人通话介绍局势](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%B8%8E%E5%A4%9A%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%80%9A%E8%AF%9D%E4%BB%8B%E7%BB%8D%E5%B1%80%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [泰国和美国两地大量鱼类死亡](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E5%92%8C%E7%BE%8E%E5%9B%BD%E4%B8%A4%E5%9C%B0%E5%A4%A7%E9%87%8F%E9%B1%BC%E7%B1%BB%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [拉萨原市长、原副市长同日落马](https://www.baidu.com/s?wd=%E6%8B%89%E8%90%A8%E5%8E%9F%E5%B8%82%E9%95%BF%E3%80%81%E5%8E%9F%E5%89%AF%E5%B8%82%E9%95%BF%E5%90%8C%E6%97%A5%E8%90%BD%E9%A9%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [家长以为中考管饭送完孩子去郊游](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E4%BB%A5%E4%B8%BA%E4%B8%AD%E8%80%83%E7%AE%A1%E9%A5%AD%E9%80%81%E5%AE%8C%E5%AD%A9%E5%AD%90%E5%8E%BB%E9%83%8A%E6%B8%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [拉萨原市长、原副市长同日落马](https://www.baidu.com/s?wd=%E6%8B%89%E8%90%A8%E5%8E%9F%E5%B8%82%E9%95%BF%E3%80%81%E5%8E%9F%E5%89%AF%E5%B8%82%E9%95%BF%E5%90%8C%E6%97%A5%E8%90%BD%E9%A9%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [家长以为中考管饭送完孩子去郊游](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E4%BB%A5%E4%B8%BA%E4%B8%AD%E8%80%83%E7%AE%A1%E9%A5%AD%E9%80%81%E5%AE%8C%E5%AD%A9%E5%AD%90%E5%8E%BB%E9%83%8A%E6%B8%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [泰国和美国两地大量鱼类死亡](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E5%92%8C%E7%BE%8E%E5%9B%BD%E4%B8%A4%E5%9C%B0%E5%A4%A7%E9%87%8F%E9%B1%BC%E7%B1%BB%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [大地诗篇](https://www.baidu.com/s?wd=%E5%A4%A7%E5%9C%B0%E8%AF%97%E7%AF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [瓦格纳逼近 莫斯科公共建筑人员疏散](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%80%BC%E8%BF%91+%E8%8E%AB%E6%96%AF%E7%A7%91%E5%85%AC%E5%85%B1%E5%BB%BA%E7%AD%91%E4%BA%BA%E5%91%98%E7%96%8F%E6%95%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [普京与多国领导人通话介绍局势](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%B8%8E%E5%A4%9A%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%80%9A%E8%AF%9D%E4%BB%8B%E7%BB%8D%E5%B1%80%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [泰国和美国两地大量鱼类死亡](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E5%92%8C%E7%BE%8E%E5%9B%BD%E4%B8%A4%E5%9C%B0%E5%A4%A7%E9%87%8F%E9%B1%BC%E7%B1%BB%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [拉萨原市长、原副市长同日落马](https://www.baidu.com/s?wd=%E6%8B%89%E8%90%A8%E5%8E%9F%E5%B8%82%E9%95%BF%E3%80%81%E5%8E%9F%E5%89%AF%E5%B8%82%E9%95%BF%E5%90%8C%E6%97%A5%E8%90%BD%E9%A9%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [家长以为中考管饭送完孩子去郊游](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E4%BB%A5%E4%B8%BA%E4%B8%AD%E8%80%83%E7%AE%A1%E9%A5%AD%E9%80%81%E5%AE%8C%E5%AD%A9%E5%AD%90%E5%8E%BB%E9%83%8A%E6%B8%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [拉萨原市长、原副市长同日落马](https://www.baidu.com/s?wd=%E6%8B%89%E8%90%A8%E5%8E%9F%E5%B8%82%E9%95%BF%E3%80%81%E5%8E%9F%E5%89%AF%E5%B8%82%E9%95%BF%E5%90%8C%E6%97%A5%E8%90%BD%E9%A9%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [家长以为中考管饭送完孩子去郊游](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E4%BB%A5%E4%B8%BA%E4%B8%AD%E8%80%83%E7%AE%A1%E9%A5%AD%E9%80%81%E5%AE%8C%E5%AD%A9%E5%AD%90%E5%8E%BB%E9%83%8A%E6%B8%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [泰国和美国两地大量鱼类死亡](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E5%92%8C%E7%BE%8E%E5%9B%BD%E4%B8%A4%E5%9C%B0%E5%A4%A7%E9%87%8F%E9%B1%BC%E7%B1%BB%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
