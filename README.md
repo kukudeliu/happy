@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 19:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 19:14:01</h4></div>
 
 > 微博  
 
@@ -19,8 +19,8 @@
 3. [为什么教培机构对退休教师不认可？](https://www.zhihu.com/question/588498394)<br />
 4. [医学没有民用和军用之分，那么军医大学是否有存在的意义？](https://www.zhihu.com/question/607620757)<br />
 5. [2023 年高考结束后，大学选什么专业好？](https://www.zhihu.com/question/603802531)<br />
-6. [如果重回大一学法学，你会做什么？](https://www.zhihu.com/question/600551602)<br />
-7. [这两年长沙的文和友、茶颜悦色都在走下坡路了？这个是为什么呢？](https://www.zhihu.com/question/512194945)<br />
+6. [这两年长沙的文和友、茶颜悦色都在走下坡路了？这个是为什么呢？](https://www.zhihu.com/question/512194945)<br />
+7. [如果重回大一学法学，你会做什么？](https://www.zhihu.com/question/600551602)<br />
 8. [市面上的玻璃到底有铅没铅？](https://www.zhihu.com/question/606342982)<br />
 9. [高考失利可以考研翻盘吗?](https://www.zhihu.com/question/608117599)<br />
 
@@ -33,7 +33,7 @@
 5. [十余人超690分 老师激动要降压药](https://www.baidu.com/s?wd=%E5%8D%81%E4%BD%99%E4%BA%BA%E8%B6%85690%E5%88%86+%E8%80%81%E5%B8%88%E6%BF%80%E5%8A%A8%E8%A6%81%E9%99%8D%E5%8E%8B%E8%8D%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [多国就俄罗斯局势表态](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E5%B0%B1%E4%BF%84%E7%BD%97%E6%96%AF%E5%B1%80%E5%8A%BF%E8%A1%A8%E6%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女生发烧考618分挨个房间报喜](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%8F%91%E7%83%A7%E8%80%83618%E5%88%86%E6%8C%A8%E4%B8%AA%E6%88%BF%E9%97%B4%E6%8A%A5%E5%96%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [银川爆炸事故4名犯罪嫌疑人被刑拘](https://www.baidu.com/s?wd=%E9%93%B6%E5%B7%9D%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%854%E5%90%8D%E7%8A%AF%E7%BD%AA%E5%AB%8C%E7%96%91%E4%BA%BA%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [雷佳音误踩赵丽颖裙子引热议](https://www.baidu.com/s?wd=%E9%9B%B7%E4%BD%B3%E9%9F%B3%E8%AF%AF%E8%B8%A9%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%A3%99%E5%AD%90%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [直击俄罗斯街头实况](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E4%BF%84%E7%BD%97%E6%96%AF%E8%A1%97%E5%A4%B4%E5%AE%9E%E5%86%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [十余人超690分 老师激动要降压药](https://www.baidu.com/s?wd=%E5%8D%81%E4%BD%99%E4%BA%BA%E8%B6%85690%E5%88%86+%E8%80%81%E5%B8%88%E6%BF%80%E5%8A%A8%E8%A6%81%E9%99%8D%E5%8E%8B%E8%8D%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [多国就俄罗斯局势表态](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E5%B0%B1%E4%BF%84%E7%BD%97%E6%96%AF%E5%B1%80%E5%8A%BF%E8%A1%A8%E6%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女生发烧考618分挨个房间报喜](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%8F%91%E7%83%A7%E8%80%83618%E5%88%86%E6%8C%A8%E4%B8%AA%E6%88%BF%E9%97%B4%E6%8A%A5%E5%96%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [银川爆炸事故4名犯罪嫌疑人被刑拘](https://www.baidu.com/s?wd=%E9%93%B6%E5%B7%9D%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%854%E5%90%8D%E7%8A%AF%E7%BD%AA%E5%AB%8C%E7%96%91%E4%BA%BA%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [雷佳音误踩赵丽颖裙子引热议](https://www.baidu.com/s?wd=%E9%9B%B7%E4%BD%B3%E9%9F%B3%E8%AF%AF%E8%B8%A9%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%A3%99%E5%AD%90%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [直击俄罗斯街头实况](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E4%BF%84%E7%BD%97%E6%96%AF%E8%A1%97%E5%A4%B4%E5%AE%9E%E5%86%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
