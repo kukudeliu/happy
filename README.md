@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 10:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 10:44:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [伦敦召开乌克兰重建国际会议，英国承诺未来三年内长期支援，释放了什么信号？](https://www.zhihu.com/question/607977808)<br />
 7. [如果某个人在其他人发表任何观点时都回复「这只是 TA 的个人观点」，该如何和他正常交流？](https://www.zhihu.com/question/608126713)<br />
 8. [志愿填报一窍不通，怎么办？](https://www.zhihu.com/question/595485450)<br />
-9. [布林肯称美将宣布新的对乌军事支持计划，透露了哪些信息？](https://www.zhihu.com/question/607773006)<br />
+9. [如果分数只是擦边进 985211 院校，那是保住 985211 的学历还是选普通本科大学自己喜欢的专业读？](https://www.zhihu.com/question/606739185)<br />
 
 > 百度  
 
@@ -32,9 +32,9 @@
 4. [沉浸式游览中国美丽乡村](https://www.baidu.com/s?wd=%E6%B2%89%E6%B5%B8%E5%BC%8F%E6%B8%B8%E8%A7%88%E4%B8%AD%E5%9B%BD%E7%BE%8E%E4%B8%BD%E4%B9%A1%E6%9D%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [莫斯科加强安全措施 街头直击](https://www.baidu.com/s?wd=%E8%8E%AB%E6%96%AF%E7%A7%91%E5%8A%A0%E5%BC%BA%E5%AE%89%E5%85%A8%E6%8E%AA%E6%96%BD+%E8%A1%97%E5%A4%B4%E7%9B%B4%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [一考生查分 全家一起喊出666](https://www.baidu.com/s?wd=%E4%B8%80%E8%80%83%E7%94%9F%E6%9F%A5%E5%88%86+%E5%85%A8%E5%AE%B6%E4%B8%80%E8%B5%B7%E5%96%8A%E5%87%BA666&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子回了个“OK”表情结果成被告](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9B%9E%E4%BA%86%E4%B8%AA%E2%80%9COK%E2%80%9D%E8%A1%A8%E6%83%85%E7%BB%93%E6%9E%9C%E6%88%90%E8%A2%AB%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [瓦格纳领导人称部队已进入俄南部](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%A2%86%E5%AF%BC%E4%BA%BA%E7%A7%B0%E9%83%A8%E9%98%9F%E5%B7%B2%E8%BF%9B%E5%85%A5%E4%BF%84%E5%8D%97%E9%83%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [被林丹邀请打球女孩高考理科689分](https://www.baidu.com/s?wd=%E8%A2%AB%E6%9E%97%E4%B8%B9%E9%82%80%E8%AF%B7%E6%89%93%E7%90%83%E5%A5%B3%E5%AD%A9%E9%AB%98%E8%80%83%E7%90%86%E7%A7%91689%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [瓦格纳领导人称部队已进入俄南部](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%A2%86%E5%AF%BC%E4%BA%BA%E7%A7%B0%E9%83%A8%E9%98%9F%E5%B7%B2%E8%BF%9B%E5%85%A5%E4%BF%84%E5%8D%97%E9%83%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [炎亚纶 还好没有我的脸](https://www.baidu.com/s?wd=%E7%82%8E%E4%BA%9A%E7%BA%B6+%E8%BF%98%E5%A5%BD%E6%B2%A1%E6%9C%89%E6%88%91%E7%9A%84%E8%84%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子回了个“OK”表情结果成被告](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9B%9E%E4%BA%86%E4%B8%AA%E2%80%9COK%E2%80%9D%E8%A1%A8%E6%83%85%E7%BB%93%E6%9E%9C%E6%88%90%E8%A2%AB%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [沉浸式游览中国美丽乡村](https://www.baidu.com/s?wd=%E6%B2%89%E6%B5%B8%E5%BC%8F%E6%B8%B8%E8%A7%88%E4%B8%AD%E5%9B%BD%E7%BE%8E%E4%B8%BD%E4%B9%A1%E6%9D%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [莫斯科加强安全措施 街头直击](https://www.baidu.com/s?wd=%E8%8E%AB%E6%96%AF%E7%A7%91%E5%8A%A0%E5%BC%BA%E5%AE%89%E5%85%A8%E6%8E%AA%E6%96%BD+%E8%A1%97%E5%A4%B4%E7%9B%B4%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [一考生查分 全家一起喊出666](https://www.baidu.com/s?wd=%E4%B8%80%E8%80%83%E7%94%9F%E6%9F%A5%E5%88%86+%E5%85%A8%E5%AE%B6%E4%B8%80%E8%B5%B7%E5%96%8A%E5%87%BA666&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子回了个“OK”表情结果成被告](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9B%9E%E4%BA%86%E4%B8%AA%E2%80%9COK%E2%80%9D%E8%A1%A8%E6%83%85%E7%BB%93%E6%9E%9C%E6%88%90%E8%A2%AB%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [瓦格纳领导人称部队已进入俄南部](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%A2%86%E5%AF%BC%E4%BA%BA%E7%A7%B0%E9%83%A8%E9%98%9F%E5%B7%B2%E8%BF%9B%E5%85%A5%E4%BF%84%E5%8D%97%E9%83%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [被林丹邀请打球女孩高考理科689分](https://www.baidu.com/s?wd=%E8%A2%AB%E6%9E%97%E4%B8%B9%E9%82%80%E8%AF%B7%E6%89%93%E7%90%83%E5%A5%B3%E5%AD%A9%E9%AB%98%E8%80%83%E7%90%86%E7%A7%91689%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [瓦格纳领导人称部队已进入俄南部](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%A2%86%E5%AF%BC%E4%BA%BA%E7%A7%B0%E9%83%A8%E9%98%9F%E5%B7%B2%E8%BF%9B%E5%85%A5%E4%BF%84%E5%8D%97%E9%83%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [炎亚纶 还好没有我的脸](https://www.baidu.com/s?wd=%E7%82%8E%E4%BA%9A%E7%BA%B6+%E8%BF%98%E5%A5%BD%E6%B2%A1%E6%9C%89%E6%88%91%E7%9A%84%E8%84%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子回了个“OK”表情结果成被告](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9B%9E%E4%BA%86%E4%B8%AA%E2%80%9COK%E2%80%9D%E8%A1%A8%E6%83%85%E7%BB%93%E6%9E%9C%E6%88%90%E8%A2%AB%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
