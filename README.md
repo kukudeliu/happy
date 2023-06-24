@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 22:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 22:12:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [鹿晗演唱会的女安检员](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%BC%94%E5%94%B1%E4%BC%9A%E7%9A%84%E5%A5%B3%E5%AE%89%E6%A3%80%E5%91%98%23&t=31&band_rank=5&Refer=top)<br />
 6. [圣彼得堡](https://s.weibo.com/weibo?q=%E5%9C%A3%E5%BD%BC%E5%BE%97%E5%A0%A1&t=31&band_rank=6&Refer=top)<br />
 7. [看消失的她 恋爱脑治好了](https://s.weibo.com/weibo?q=%E7%9C%8B%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%20%E6%81%8B%E7%88%B1%E8%84%91%E6%B2%BB%E5%A5%BD%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
-8. [弟弟考了640分却开心不起来](https://s.weibo.com/weibo?q=%23%E5%BC%9F%E5%BC%9F%E8%80%83%E4%BA%86640%E5%88%86%E5%8D%B4%E5%BC%80%E5%BF%83%E4%B8%8D%E8%B5%B7%E6%9D%A5%23&t=31&band_rank=8&Refer=top)<br />
-9. [关晓彤去了鹿晗的演唱会](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E5%8E%BB%E4%BA%86%E9%B9%BF%E6%99%97%E7%9A%84%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=9&Refer=top)<br />
+8. [关晓彤去了鹿晗的演唱会](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E5%8E%BB%E4%BA%86%E9%B9%BF%E6%99%97%E7%9A%84%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=8&Refer=top)<br />
+9. [弟弟考了640分却开心不起来](https://s.weibo.com/weibo?q=%23%E5%BC%9F%E5%BC%9F%E8%80%83%E4%BA%86640%E5%88%86%E5%8D%B4%E5%BC%80%E5%BF%83%E4%B8%8D%E8%B5%B7%E6%9D%A5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -21,8 +21,8 @@
 5. []()<br />
 6. [俄国防部称，瓦格纳集团武装力量被拖入普里戈任的武装叛乱，释放了哪些信号？](https://www.zhihu.com/question/608259505)<br />
 7. [为什么旗舰手机标准版大部分都不带无线充电？](https://www.zhihu.com/question/607118057)<br />
-8. [空军航空兵某团飞行二大队获「时代楷模」称号，褒扬他们是「奋飞新时代的空中铁拳」，他们值得学习的点在哪？](https://www.zhihu.com/question/607609756)<br />
-9. [外国人一般是怎么给自己取中文名的？有没有什么比较奇葩的中文名？](https://www.zhihu.com/question/26546359)<br />
+8. []()<br />
+9. [猫用饮水机真的有用吗？](https://www.zhihu.com/question/314321800)<br />
 
 > 百度  
 
@@ -31,9 +31,9 @@
 3. [多国就俄罗斯局势表态](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E5%B0%B1%E4%BF%84%E7%BD%97%E6%96%AF%E5%B1%80%E5%8A%BF%E8%A1%A8%E6%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [大地诗篇](https://www.baidu.com/s?wd=%E5%A4%A7%E5%9C%B0%E8%AF%97%E7%AF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [银川31死爆炸事故原因公布](https://www.baidu.com/s?wd=%E9%93%B6%E5%B7%9D31%E6%AD%BB%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E5%8E%9F%E5%9B%A0%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [普京与多国领导人通话介绍局势](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%B8%8E%E5%A4%9A%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%80%9A%E8%AF%9D%E4%BB%8B%E7%BB%8D%E5%B1%80%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [普里戈任办公室被搜出40亿卢布现金](https://www.baidu.com/s?wd=%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E5%8A%9E%E5%85%AC%E5%AE%A4%E8%A2%AB%E6%90%9C%E5%87%BA40%E4%BA%BF%E5%8D%A2%E5%B8%83%E7%8E%B0%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [在罗斯托夫中国人：事发突然无准备](https://www.baidu.com/s?wd=%E5%9C%A8%E7%BD%97%E6%96%AF%E6%89%98%E5%A4%AB%E4%B8%AD%E5%9B%BD%E4%BA%BA%EF%BC%9A%E4%BA%8B%E5%8F%91%E7%AA%81%E7%84%B6%E6%97%A0%E5%87%86%E5%A4%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [男生得知好友仅609分后瞬间弹起](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E5%BE%97%E7%9F%A5%E5%A5%BD%E5%8F%8B%E4%BB%85609%E5%88%86%E5%90%8E%E7%9E%AC%E9%97%B4%E5%BC%B9%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [复读女生涨61分坐地嚎啕大哭](https://www.baidu.com/s?wd=%E5%A4%8D%E8%AF%BB%E5%A5%B3%E7%94%9F%E6%B6%A861%E5%88%86%E5%9D%90%E5%9C%B0%E5%9A%8E%E5%95%95%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [炎亚纶曾强吻曾之乔](https://www.baidu.com/s?wd=%E7%82%8E%E4%BA%9A%E7%BA%B6%E6%9B%BE%E5%BC%BA%E5%90%BB%E6%9B%BE%E4%B9%8B%E4%B9%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [瓦格纳称已占领俄南部军区指挥部](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E7%A7%B0%E5%B7%B2%E5%8D%A0%E9%A2%86%E4%BF%84%E5%8D%97%E9%83%A8%E5%86%9B%E5%8C%BA%E6%8C%87%E6%8C%A5%E9%83%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -43,7 +43,7 @@
 3. [多国就俄罗斯局势表态](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E5%B0%B1%E4%BF%84%E7%BD%97%E6%96%AF%E5%B1%80%E5%8A%BF%E8%A1%A8%E6%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [大地诗篇](https://www.baidu.com/s?wd=%E5%A4%A7%E5%9C%B0%E8%AF%97%E7%AF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [银川31死爆炸事故原因公布](https://www.baidu.com/s?wd=%E9%93%B6%E5%B7%9D31%E6%AD%BB%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E5%8E%9F%E5%9B%A0%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [普京与多国领导人通话介绍局势](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%B8%8E%E5%A4%9A%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%80%9A%E8%AF%9D%E4%BB%8B%E7%BB%8D%E5%B1%80%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [普里戈任办公室被搜出40亿卢布现金](https://www.baidu.com/s?wd=%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E5%8A%9E%E5%85%AC%E5%AE%A4%E8%A2%AB%E6%90%9C%E5%87%BA40%E4%BA%BF%E5%8D%A2%E5%B8%83%E7%8E%B0%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [在罗斯托夫中国人：事发突然无准备](https://www.baidu.com/s?wd=%E5%9C%A8%E7%BD%97%E6%96%AF%E6%89%98%E5%A4%AB%E4%B8%AD%E5%9B%BD%E4%BA%BA%EF%BC%9A%E4%BA%8B%E5%8F%91%E7%AA%81%E7%84%B6%E6%97%A0%E5%87%86%E5%A4%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [男生得知好友仅609分后瞬间弹起](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E5%BE%97%E7%9F%A5%E5%A5%BD%E5%8F%8B%E4%BB%85609%E5%88%86%E5%90%8E%E7%9E%AC%E9%97%B4%E5%BC%B9%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [复读女生涨61分坐地嚎啕大哭](https://www.baidu.com/s?wd=%E5%A4%8D%E8%AF%BB%E5%A5%B3%E7%94%9F%E6%B6%A861%E5%88%86%E5%9D%90%E5%9C%B0%E5%9A%8E%E5%95%95%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [炎亚纶曾强吻曾之乔](https://www.baidu.com/s?wd=%E7%82%8E%E4%BA%9A%E7%BA%B6%E6%9B%BE%E5%BC%BA%E5%90%BB%E6%9B%BE%E4%B9%8B%E4%B9%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [瓦格纳称已占领俄南部军区指挥部](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E7%A7%B0%E5%B7%B2%E5%8D%A0%E9%A2%86%E4%BF%84%E5%8D%97%E9%83%A8%E5%86%9B%E5%8C%BA%E6%8C%87%E6%8C%A5%E9%83%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
