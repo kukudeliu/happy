@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 15:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 15:33:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [高考理科623分决心复读了](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E7%90%86%E7%A7%91623%E5%88%86%E5%86%B3%E5%BF%83%E5%A4%8D%E8%AF%BB%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [县委大院被恶意评分](https://s.weibo.com/weibo?q=%23%E5%8E%BF%E5%A7%94%E5%A4%A7%E9%99%A2%E8%A2%AB%E6%81%B6%E6%84%8F%E8%AF%84%E5%88%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [炎亚纶前男友A先生再爆料](https://s.weibo.com/weibo?q=%23%E7%82%8E%E4%BA%9A%E7%BA%B6%E5%89%8D%E7%94%B7%E5%8F%8BA%E5%85%88%E7%94%9F%E5%86%8D%E7%88%86%E6%96%99%23&t=31&band_rank=7&Refer=top)<br />
-8. [她她她](https://s.weibo.com/weibo?q=%E5%A5%B9%E5%A5%B9%E5%A5%B9&t=31&band_rank=8&Refer=top)<br />
-9. [王俊凯易烊千玺G社生图](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BAG%E7%A4%BE%E7%94%9F%E5%9B%BE%23&t=31&band_rank=9&Refer=top)<br />
+8. [王俊凯易烊千玺G社生图](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BAG%E7%A4%BE%E7%94%9F%E5%9B%BE%23&t=31&band_rank=8&Refer=top)<br />
+9. [她她她](https://s.weibo.com/weibo?q=%E5%A5%B9%E5%A5%B9%E5%A5%B9&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
