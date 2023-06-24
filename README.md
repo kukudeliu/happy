@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 15:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 15:12:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [高考理科623分决心复读了](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E7%90%86%E7%A7%91623%E5%88%86%E5%86%B3%E5%BF%83%E5%A4%8D%E8%AF%BB%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [俄罗斯](https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%23&t=31&band_rank=5&Refer=top)<br />
 6. [炎亚纶前男友A先生再爆料](https://s.weibo.com/weibo?q=%23%E7%82%8E%E4%BA%9A%E7%BA%B6%E5%89%8D%E7%94%B7%E5%8F%8BA%E5%85%88%E7%94%9F%E5%86%8D%E7%88%86%E6%96%99%23&t=31&band_rank=6&Refer=top)<br />
-7. [她她她](https://s.weibo.com/weibo?q=%E5%A5%B9%E5%A5%B9%E5%A5%B9&t=31&band_rank=7&Refer=top)<br />
-8. [县委大院被恶意评分](https://s.weibo.com/weibo?q=%23%E5%8E%BF%E5%A7%94%E5%A4%A7%E9%99%A2%E8%A2%AB%E6%81%B6%E6%84%8F%E8%AF%84%E5%88%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [闭嘴跳舞 本季最佳](https://s.weibo.com/weibo?q=%E9%97%AD%E5%98%B4%E8%B7%B3%E8%88%9E%20%E6%9C%AC%E5%AD%A3%E6%9C%80%E4%BD%B3&t=31&band_rank=9&Refer=top)<br />
+7. [县委大院被恶意评分](https://s.weibo.com/weibo?q=%23%E5%8E%BF%E5%A7%94%E5%A4%A7%E9%99%A2%E8%A2%AB%E6%81%B6%E6%84%8F%E8%AF%84%E5%88%86%23&t=31&band_rank=7&Refer=top)<br />
+8. [她她她](https://s.weibo.com/weibo?q=%E5%A5%B9%E5%A5%B9%E5%A5%B9&t=31&band_rank=8&Refer=top)<br />
+9. [直井怜我的英雄学院](https://s.weibo.com/weibo?q=%23%E7%9B%B4%E4%BA%95%E6%80%9C%E6%88%91%E7%9A%84%E8%8B%B1%E9%9B%84%E5%AD%A6%E9%99%A2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
