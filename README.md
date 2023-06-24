@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 18:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 18:23:01</h4></div>
 
 > 微博  
 
@@ -16,13 +16,13 @@
 
 1. [瓦格纳回应称普京演讲，否认叛国并称「普京做出了错误的选择，很快我们就会有一位新总统」，释放了哪些信号？](https://www.zhihu.com/question/608279921)<br />
 2. [华北多地高温，北京连续 40℃ 破纪录，为何北方比南方更热？](https://www.zhihu.com/question/608255644)<br />
-3. [市面上的玻璃到底有铅没铅？](https://www.zhihu.com/question/606342982)<br />
-4. [2023 年高考结束后，大学选什么专业好？](https://www.zhihu.com/question/603802531)<br />
-5. [高考失利可以考研翻盘吗?](https://www.zhihu.com/question/608117599)<br />
-6. [为什么教培机构对退休教师不认可？](https://www.zhihu.com/question/588498394)<br />
+3. [2023 年高考结束后，大学选什么专业好？](https://www.zhihu.com/question/603802531)<br />
+4. []()<br />
+5. [为什么教培机构对退休教师不认可？](https://www.zhihu.com/question/588498394)<br />
+6. [市面上的玻璃到底有铅没铅？](https://www.zhihu.com/question/606342982)<br />
 7. [如果重回大一学法学，你会做什么？](https://www.zhihu.com/question/600551602)<br />
-8. [如何评价《原神》枫丹版本的部分美术设计为甜美魔幻风，而非蒸汽朋克？](https://www.zhihu.com/question/608230338)<br />
-9. [乌龟养熟的表现有哪些？](https://www.zhihu.com/question/597512707)<br />
+8. [高考失利可以考研翻盘吗?](https://www.zhihu.com/question/608117599)<br />
+9. [如何评价《原神》枫丹版本的部分美术设计为甜美魔幻风，而非蒸汽朋克？](https://www.zhihu.com/question/608230338)<br />
 
 > 百度  
 
