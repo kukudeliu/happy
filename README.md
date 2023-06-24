@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 08:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 08:38:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [您读过最有力量的书是什么？](https://www.zhihu.com/question/603556848)<br />
 7. []()<br />
 8. [韩国环境部已批准「萨德」基地环评报告，基建工作将全面启动，「萨德」部署后将造成哪些影响？](https://www.zhihu.com/question/608002674)<br />
-9. [iOS 的墓碑机制这么厉害，为什么 Windows 、 Linux 不采用呢？](https://www.zhihu.com/question/604373860)<br />
+9. [6 月 22 日比特币大涨，站上 30000 美元关口，为近两月以来首次，释放了哪些信号？](https://www.zhihu.com/question/607964858)<br />
 
 > 百度  
 
