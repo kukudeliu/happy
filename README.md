@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 16:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 16:03:01</h4></div>
 
 > 微博  
 
@@ -18,8 +18,8 @@
 2. [硅谷银行亚洲客户遭「双向挤压」，存款被没收，贷款必须还，如何看待此事？](https://www.zhihu.com/question/607811714)<br />
 3. [台媒称「山东舰航母编队 21 日通过台湾海峡」，如何看待这一动向？](https://www.zhihu.com/question/607809103)<br />
 4. [没文化可以教育好孩子吗？](https://www.zhihu.com/question/606881570)<br />
-5. [想和猫咪拍照，猫咪不配合怎么办？](https://www.zhihu.com/question/421786821)<br />
-6. []()<br />
+5. []()<br />
+6. [想和猫咪拍照，猫咪不配合怎么办？](https://www.zhihu.com/question/421786821)<br />
 7. [电影《消失的她》里何非到底是怎样的一个人?](https://www.zhihu.com/question/607967579)<br />
 8. []()<br />
 9. [如何评价《原神》枫丹版本的部分美术设计为甜美魔幻风，而非蒸汽朋克？](https://www.zhihu.com/question/608230338)<br />
