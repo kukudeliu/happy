@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 20:13:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 20:14:01</h4></div>
 
 > 微博  
 
@@ -14,15 +14,15 @@
 
 > 知乎  
 
-1. [瓦格纳回应称普京演讲，否认叛国并称「普京做出了错误的选择，很快我们就会有一位新总统」，释放了哪些信号？](https://www.zhihu.com/question/608279921)<br />
-2. [瓦格纳集团称「内战已经正式开始」，哪些信息值得关注？](https://www.zhihu.com/question/608300886)<br />
+1. [瓦格纳集团称「内战已经正式开始」，哪些信息值得关注？](https://www.zhihu.com/question/608300886)<br />
+2. [瓦格纳回应称普京演讲，否认叛国并称「普京做出了错误的选择，很快我们就会有一位新总统」，释放了哪些信号？](https://www.zhihu.com/question/608279921)<br />
 3. [医学没有民用和军用之分，那么军医大学是否有存在的意义？](https://www.zhihu.com/question/607620757)<br />
 4. [2023 福建高考成绩公布，你考得怎么样？可以说说你的分数和心情吗？](https://www.zhihu.com/question/607974295)<br />
 5. [报考电竞专业是不是就能天天打游戏？](https://www.zhihu.com/theater/93769)<br />
 6. []()<br />
 7. [外国人一般是怎么给自己取中文名的？有没有什么比较奇葩的中文名？](https://www.zhihu.com/question/26546359)<br />
-8. [普里戈任称瓦格纳已控制罗斯托夫地区包括机场在内的军用设施，这意味着什么？此举对俄乌局势起到什么影响？](https://www.zhihu.com/question/608251555)<br />
-9. [高考完了，大家有什么闲书推荐吗？](https://www.zhihu.com/question/606677754)<br />
+8. [猫用饮水机真的有用吗？](https://www.zhihu.com/question/314321800)<br />
+9. [普里戈任称瓦格纳已控制罗斯托夫地区包括机场在内的军用设施，这意味着什么？此举对俄乌局势起到什么影响？](https://www.zhihu.com/question/608251555)<br />
 
 > 百度  
 
@@ -31,9 +31,9 @@
 3. [多国就俄罗斯局势表态](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E5%B0%B1%E4%BF%84%E7%BD%97%E6%96%AF%E5%B1%80%E5%8A%BF%E8%A1%A8%E6%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [大地诗篇](https://www.baidu.com/s?wd=%E5%A4%A7%E5%9C%B0%E8%AF%97%E7%AF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [复读女生涨61分坐地嚎啕大哭](https://www.baidu.com/s?wd=%E5%A4%8D%E8%AF%BB%E5%A5%B3%E7%94%9F%E6%B6%A861%E5%88%86%E5%9D%90%E5%9C%B0%E5%9A%8E%E5%95%95%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [俄执法人员进驻瓦格纳集团总部大楼](https://www.baidu.com/s?wd=%E4%BF%84%E6%89%A7%E6%B3%95%E4%BA%BA%E5%91%98%E8%BF%9B%E9%A9%BB%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%9B%86%E5%9B%A2%E6%80%BB%E9%83%A8%E5%A4%A7%E6%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [QQ可使用微信账号登录](https://www.baidu.com/s?wd=QQ%E5%8F%AF%E4%BD%BF%E7%94%A8%E5%BE%AE%E4%BF%A1%E8%B4%A6%E5%8F%B7%E7%99%BB%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女孩跌入通风井边哭边道歉](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E8%B7%8C%E5%85%A5%E9%80%9A%E9%A3%8E%E4%BA%95%E8%BE%B9%E5%93%AD%E8%BE%B9%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [瓦格纳总部大楼被封锁 多人被带走](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E6%80%BB%E9%83%A8%E5%A4%A7%E6%A5%BC%E8%A2%AB%E5%B0%81%E9%94%81+%E5%A4%9A%E4%BA%BA%E8%A2%AB%E5%B8%A6%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [俄执法人员进驻瓦格纳集团总部大楼](https://www.baidu.com/s?wd=%E4%BF%84%E6%89%A7%E6%B3%95%E4%BA%BA%E5%91%98%E8%BF%9B%E9%A9%BB%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%9B%86%E5%9B%A2%E6%80%BB%E9%83%A8%E5%A4%A7%E6%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女生发烧考618分挨个房间报喜](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%8F%91%E7%83%A7%E8%80%83618%E5%88%86%E6%8C%A8%E4%B8%AA%E6%88%BF%E9%97%B4%E6%8A%A5%E5%96%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [直击俄罗斯街头实况](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E4%BF%84%E7%BD%97%E6%96%AF%E8%A1%97%E5%A4%B4%E5%AE%9E%E5%86%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -43,7 +43,7 @@
 3. [多国就俄罗斯局势表态](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E5%B0%B1%E4%BF%84%E7%BD%97%E6%96%AF%E5%B1%80%E5%8A%BF%E8%A1%A8%E6%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [大地诗篇](https://www.baidu.com/s?wd=%E5%A4%A7%E5%9C%B0%E8%AF%97%E7%AF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [复读女生涨61分坐地嚎啕大哭](https://www.baidu.com/s?wd=%E5%A4%8D%E8%AF%BB%E5%A5%B3%E7%94%9F%E6%B6%A861%E5%88%86%E5%9D%90%E5%9C%B0%E5%9A%8E%E5%95%95%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [俄执法人员进驻瓦格纳集团总部大楼](https://www.baidu.com/s?wd=%E4%BF%84%E6%89%A7%E6%B3%95%E4%BA%BA%E5%91%98%E8%BF%9B%E9%A9%BB%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%9B%86%E5%9B%A2%E6%80%BB%E9%83%A8%E5%A4%A7%E6%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [QQ可使用微信账号登录](https://www.baidu.com/s?wd=QQ%E5%8F%AF%E4%BD%BF%E7%94%A8%E5%BE%AE%E4%BF%A1%E8%B4%A6%E5%8F%B7%E7%99%BB%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女孩跌入通风井边哭边道歉](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E8%B7%8C%E5%85%A5%E9%80%9A%E9%A3%8E%E4%BA%95%E8%BE%B9%E5%93%AD%E8%BE%B9%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [瓦格纳总部大楼被封锁 多人被带走](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E6%80%BB%E9%83%A8%E5%A4%A7%E6%A5%BC%E8%A2%AB%E5%B0%81%E9%94%81+%E5%A4%9A%E4%BA%BA%E8%A2%AB%E5%B8%A6%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [俄执法人员进驻瓦格纳集团总部大楼](https://www.baidu.com/s?wd=%E4%BF%84%E6%89%A7%E6%B3%95%E4%BA%BA%E5%91%98%E8%BF%9B%E9%A9%BB%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%9B%86%E5%9B%A2%E6%80%BB%E9%83%A8%E5%A4%A7%E6%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女生发烧考618分挨个房间报喜](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%8F%91%E7%83%A7%E8%80%83618%E5%88%86%E6%8C%A8%E4%B8%AA%E6%88%BF%E9%97%B4%E6%8A%A5%E5%96%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [直击俄罗斯街头实况](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E4%BF%84%E7%BD%97%E6%96%AF%E8%A1%97%E5%A4%B4%E5%AE%9E%E5%86%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
