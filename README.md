@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 14:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 14:26:01</h4></div>
 
 > 微博  
 
@@ -6,9 +6,9 @@
 2. [普京将发表电视讲话](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E5%B0%86%E5%8F%91%E8%A1%A8%E7%94%B5%E8%A7%86%E8%AE%B2%E8%AF%9D%23&t=31&band_rank=2&Refer=top)<br />
 3. [31省份报志愿时间全汇总](https://s.weibo.com/weibo?q=%2331%E7%9C%81%E4%BB%BD%E6%8A%A5%E5%BF%97%E6%84%BF%E6%97%B6%E9%97%B4%E5%85%A8%E6%B1%87%E6%80%BB%23&t=31&band_rank=3&Refer=top)<br />
 4. [她她她](https://s.weibo.com/weibo?q=%E5%A5%B9%E5%A5%B9%E5%A5%B9&t=31&band_rank=4&Refer=top)<br />
-5. [俄罗斯](https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%23&t=31&band_rank=5&Refer=top)<br />
+5. [高考理科623分决心复读了](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E7%90%86%E7%A7%91623%E5%88%86%E5%86%B3%E5%BF%83%E5%A4%8D%E8%AF%BB%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [炎亚纶前男友A先生再爆料](https://s.weibo.com/weibo?q=%23%E7%82%8E%E4%BA%9A%E7%BA%B6%E5%89%8D%E7%94%B7%E5%8F%8BA%E5%85%88%E7%94%9F%E5%86%8D%E7%88%86%E6%96%99%23&t=31&band_rank=6&Refer=top)<br />
-7. [高考理科623分决心复读了](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E7%90%86%E7%A7%91623%E5%88%86%E5%86%B3%E5%BF%83%E5%A4%8D%E8%AF%BB%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+7. [俄罗斯](https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%23&t=31&band_rank=7&Refer=top)<br />
 8. [闭嘴跳舞 本季最佳](https://s.weibo.com/weibo?q=%E9%97%AD%E5%98%B4%E8%B7%B3%E8%88%9E%20%E6%9C%AC%E5%AD%A3%E6%9C%80%E4%BD%B3&t=31&band_rank=8&Refer=top)<br />
 9. [女生高考712分查完分就睡了](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83712%E5%88%86%E6%9F%A5%E5%AE%8C%E5%88%86%E5%B0%B1%E7%9D%A1%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
@@ -21,8 +21,8 @@
 5. [俄国防部称乌克兰军队试图利用瓦格纳部队挑衅的机会发动反攻，瓦格纳为什么要叛变，目前当地局势如何？](https://www.zhihu.com/question/608238596)<br />
 6. [王宝强《八角笼中》首波口碑出炉，你对该影片都有哪些评价？](https://www.zhihu.com/question/607157396)<br />
 7. [台媒称「山东舰航母编队 21 日通过台湾海峡」，如何看待这一动向？](https://www.zhihu.com/question/607809103)<br />
-8. [2023 黑龙江高考分数线一本文 430 降 33 分，理 408 降 21 分，如何评价分数线下降？](https://www.zhihu.com/question/607974400)<br />
-9. [想和猫咪拍照，猫咪不配合怎么办？](https://www.zhihu.com/question/421786821)<br />
+8. [想和猫咪拍照，猫咪不配合怎么办？](https://www.zhihu.com/question/421786821)<br />
+9. [4070Ti 能战 5 年吗？](https://www.zhihu.com/question/599118671)<br />
 
 > 百度  
 
@@ -34,7 +34,7 @@
 6. [瓦格纳叛乱？俄罗斯发生了什么](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E5%8F%9B%E4%B9%B1%EF%BC%9F%E4%BF%84%E7%BD%97%E6%96%AF%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [形势突变，考验普京的时候到了](https://www.baidu.com/s?wd=%E5%BD%A2%E5%8A%BF%E7%AA%81%E5%8F%98%EF%BC%8C%E8%80%83%E9%AA%8C%E6%99%AE%E4%BA%AC%E7%9A%84%E6%97%B6%E5%80%99%E5%88%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [瓦格纳创始人否认试图发动武装叛乱](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%90%A6%E8%AE%A4%E8%AF%95%E5%9B%BE%E5%8F%91%E5%8A%A8%E6%AD%A6%E8%A3%85%E5%8F%9B%E4%B9%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [莫斯科市长：正在进行反恐行动](https://www.baidu.com/s?wd=%E8%8E%AB%E6%96%AF%E7%A7%91%E5%B8%82%E9%95%BF%EF%BC%9A%E6%AD%A3%E5%9C%A8%E8%BF%9B%E8%A1%8C%E5%8F%8D%E6%81%90%E8%A1%8C%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [雷佳音误踩赵丽颖裙子引热议](https://www.baidu.com/s?wd=%E9%9B%B7%E4%BD%B3%E9%9F%B3%E8%AF%AF%E8%B8%A9%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%A3%99%E5%AD%90%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [瓦格纳叛乱？俄罗斯发生了什么](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E5%8F%9B%E4%B9%B1%EF%BC%9F%E4%BF%84%E7%BD%97%E6%96%AF%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [形势突变，考验普京的时候到了](https://www.baidu.com/s?wd=%E5%BD%A2%E5%8A%BF%E7%AA%81%E5%8F%98%EF%BC%8C%E8%80%83%E9%AA%8C%E6%99%AE%E4%BA%AC%E7%9A%84%E6%97%B6%E5%80%99%E5%88%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [瓦格纳创始人否认试图发动武装叛乱](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%90%A6%E8%AE%A4%E8%AF%95%E5%9B%BE%E5%8F%91%E5%8A%A8%E6%AD%A6%E8%A3%85%E5%8F%9B%E4%B9%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [莫斯科市长：正在进行反恐行动](https://www.baidu.com/s?wd=%E8%8E%AB%E6%96%AF%E7%A7%91%E5%B8%82%E9%95%BF%EF%BC%9A%E6%AD%A3%E5%9C%A8%E8%BF%9B%E8%A1%8C%E5%8F%8D%E6%81%90%E8%A1%8C%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [雷佳音误踩赵丽颖裙子引热议](https://www.baidu.com/s?wd=%E9%9B%B7%E4%BD%B3%E9%9F%B3%E8%AF%AF%E8%B8%A9%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%A3%99%E5%AD%90%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
