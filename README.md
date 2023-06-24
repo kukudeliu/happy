@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 12:05:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 12:06:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [女生高考712分查完分就睡了](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83712%E5%88%86%E6%9F%A5%E5%AE%8C%E5%88%86%E5%B0%B1%E7%9D%A1%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [31省份报志愿时间全汇总](https://s.weibo.com/weibo?q=%2331%E7%9C%81%E4%BB%BD%E6%8A%A5%E5%BF%97%E6%84%BF%E6%97%B6%E9%97%B4%E5%85%A8%E6%B1%87%E6%80%BB%23&t=31&band_rank=3&Refer=top)<br />
 4. [女生查分666全家齐喊666](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E6%9F%A5%E5%88%86666%E5%85%A8%E5%AE%B6%E9%BD%90%E5%96%8A666%23&t=31&band_rank=4&Refer=top)<br />
-5. [外媒称瓦格纳部队正进入俄南部](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%AA%92%E7%A7%B0%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%83%A8%E9%98%9F%E6%AD%A3%E8%BF%9B%E5%85%A5%E4%BF%84%E5%8D%97%E9%83%A8%23&t=31&band_rank=5&Refer=top)<br />
-6. [炎亚纶 还好没有我的脸](https://s.weibo.com/weibo?q=%E7%82%8E%E4%BA%9A%E7%BA%B6%20%E8%BF%98%E5%A5%BD%E6%B2%A1%E6%9C%89%E6%88%91%E7%9A%84%E8%84%B8&t=31&band_rank=6&Refer=top)<br />
-7. [赵丽颖 戴比尔斯](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%20%E6%88%B4%E6%AF%94%E5%B0%94%E6%96%AF&t=31&band_rank=7&Refer=top)<br />
+5. [赵丽颖 戴比尔斯](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%20%E6%88%B4%E6%AF%94%E5%B0%94%E6%96%AF&t=31&band_rank=5&Refer=top)<br />
+6. [外媒称瓦格纳部队正进入俄南部](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%AA%92%E7%A7%B0%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%83%A8%E9%98%9F%E6%AD%A3%E8%BF%9B%E5%85%A5%E4%BF%84%E5%8D%97%E9%83%A8%23&t=31&band_rank=6&Refer=top)<br />
+7. [炎亚纶 还好没有我的脸](https://s.weibo.com/weibo?q=%E7%82%8E%E4%BA%9A%E7%BA%B6%20%E8%BF%98%E5%A5%BD%E6%B2%A1%E6%9C%89%E6%88%91%E7%9A%84%E8%84%B8&t=31&band_rank=7&Refer=top)<br />
 8. [吴越 是不是大女主都没关系](https://s.weibo.com/weibo?q=%E5%90%B4%E8%B6%8A%20%E6%98%AF%E4%B8%8D%E6%98%AF%E5%A4%A7%E5%A5%B3%E4%B8%BB%E9%83%BD%E6%B2%A1%E5%85%B3%E7%B3%BB&t=31&band_rank=8&Refer=top)<br />
-9. [姚景元高考分数401](https://s.weibo.com/weibo?q=%23%E5%A7%9A%E6%99%AF%E5%85%83%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0401%23&t=31&band_rank=9&Refer=top)<br />
+9. [莫斯科正在进行反恐行动](https://s.weibo.com/weibo?q=%23%E8%8E%AB%E6%96%AF%E7%A7%91%E6%AD%A3%E5%9C%A8%E8%BF%9B%E8%A1%8C%E5%8F%8D%E6%81%90%E8%A1%8C%E5%8A%A8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -26,7 +26,7 @@
 
 > 百度  
 
-1. [龙舟竞渡](https://www.baidu.com/s?wd=%E9%BE%99%E8%88%9F%E7%AB%9E%E6%B8%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [粮食安全向更高层次跃升](https://www.baidu.com/s?wd=%E7%B2%AE%E9%A3%9F%E5%AE%89%E5%85%A8%E5%90%91%E6%9B%B4%E9%AB%98%E5%B1%82%E6%AC%A1%E8%B7%83%E5%8D%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [女生高考712分 查完分就睡觉](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83712%E5%88%86+%E6%9F%A5%E5%AE%8C%E5%88%86%E5%B0%B1%E7%9D%A1%E8%A7%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [瓦格纳称击落一架俄军直升机](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E7%A7%B0%E5%87%BB%E8%90%BD%E4%B8%80%E6%9E%B6%E4%BF%84%E5%86%9B%E7%9B%B4%E5%8D%87%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [让传统佳节推陈出新](https://www.baidu.com/s?wd=%E8%AE%A9%E4%BC%A0%E7%BB%9F%E4%BD%B3%E8%8A%82%E6%8E%A8%E9%99%88%E5%87%BA%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -38,7 +38,7 @@
 
 > 哔哩哔哩  
 
-1. [龙舟竞渡](https://www.baidu.com/s?wd=%E9%BE%99%E8%88%9F%E7%AB%9E%E6%B8%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [粮食安全向更高层次跃升](https://www.baidu.com/s?wd=%E7%B2%AE%E9%A3%9F%E5%AE%89%E5%85%A8%E5%90%91%E6%9B%B4%E9%AB%98%E5%B1%82%E6%AC%A1%E8%B7%83%E5%8D%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [女生高考712分 查完分就睡觉](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83712%E5%88%86+%E6%9F%A5%E5%AE%8C%E5%88%86%E5%B0%B1%E7%9D%A1%E8%A7%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [瓦格纳称击落一架俄军直升机](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E7%A7%B0%E5%87%BB%E8%90%BD%E4%B8%80%E6%9E%B6%E4%BF%84%E5%86%9B%E7%9B%B4%E5%8D%87%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [让传统佳节推陈出新](https://www.baidu.com/s?wd=%E8%AE%A9%E4%BC%A0%E7%BB%9F%E4%BD%B3%E8%8A%82%E6%8E%A8%E9%99%88%E5%87%BA%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
