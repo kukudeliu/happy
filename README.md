@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 11:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 11:34:01</h4></div>
 
 > 微博  
 
@@ -32,9 +32,9 @@
 4. [沉浸式游览中国美丽乡村](https://www.baidu.com/s?wd=%E6%B2%89%E6%B5%B8%E5%BC%8F%E6%B8%B8%E8%A7%88%E4%B8%AD%E5%9B%BD%E7%BE%8E%E4%B8%BD%E4%B9%A1%E6%9D%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [瓦格纳首领称部队抵俄 矛头指向防长](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%A6%96%E9%A2%86%E7%A7%B0%E9%83%A8%E9%98%9F%E6%8A%B5%E4%BF%84+%E7%9F%9B%E5%A4%B4%E6%8C%87%E5%90%91%E9%98%B2%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女儿587分 老爸直呼“祖坟冒烟喽”](https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF587%E5%88%86+%E8%80%81%E7%88%B8%E7%9B%B4%E5%91%BC%E2%80%9C%E7%A5%96%E5%9D%9F%E5%86%92%E7%83%9F%E5%96%BD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [炎亚纶 还好没有我的脸](https://www.baidu.com/s?wd=%E7%82%8E%E4%BA%9A%E7%BA%B6+%E8%BF%98%E5%A5%BD%E6%B2%A1%E6%9C%89%E6%88%91%E7%9A%84%E8%84%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [莫斯科加强安全措施 街头直击](https://www.baidu.com/s?wd=%E8%8E%AB%E6%96%AF%E7%A7%91%E5%8A%A0%E5%BC%BA%E5%AE%89%E5%85%A8%E6%8E%AA%E6%96%BD+%E8%A1%97%E5%A4%B4%E7%9B%B4%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [高考709分 老师大喊“天啊”](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83709%E5%88%86+%E8%80%81%E5%B8%88%E5%A4%A7%E5%96%8A%E2%80%9C%E5%A4%A9%E5%95%8A%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [莫斯科加强安全措施 街头直击](https://www.baidu.com/s?wd=%E8%8E%AB%E6%96%AF%E7%A7%91%E5%8A%A0%E5%BC%BA%E5%AE%89%E5%85%A8%E6%8E%AA%E6%96%BD+%E8%A1%97%E5%A4%B4%E7%9B%B4%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [高考709分 老师大喊“天啊”](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83709%E5%88%86+%E8%80%81%E5%B8%88%E5%A4%A7%E5%96%8A%E2%80%9C%E5%A4%A9%E5%95%8A%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [歌手姚景元三战高考401分](https://www.baidu.com/s?wd=%E6%AD%8C%E6%89%8B%E5%A7%9A%E6%99%AF%E5%85%83%E4%B8%89%E6%88%98%E9%AB%98%E8%80%83401%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [沉浸式游览中国美丽乡村](https://www.baidu.com/s?wd=%E6%B2%89%E6%B5%B8%E5%BC%8F%E6%B8%B8%E8%A7%88%E4%B8%AD%E5%9B%BD%E7%BE%8E%E4%B8%BD%E4%B9%A1%E6%9D%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [瓦格纳首领称部队抵俄 矛头指向防长](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%A6%96%E9%A2%86%E7%A7%B0%E9%83%A8%E9%98%9F%E6%8A%B5%E4%BF%84+%E7%9F%9B%E5%A4%B4%E6%8C%87%E5%90%91%E9%98%B2%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女儿587分 老爸直呼“祖坟冒烟喽”](https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF587%E5%88%86+%E8%80%81%E7%88%B8%E7%9B%B4%E5%91%BC%E2%80%9C%E7%A5%96%E5%9D%9F%E5%86%92%E7%83%9F%E5%96%BD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [炎亚纶 还好没有我的脸](https://www.baidu.com/s?wd=%E7%82%8E%E4%BA%9A%E7%BA%B6+%E8%BF%98%E5%A5%BD%E6%B2%A1%E6%9C%89%E6%88%91%E7%9A%84%E8%84%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [莫斯科加强安全措施 街头直击](https://www.baidu.com/s?wd=%E8%8E%AB%E6%96%AF%E7%A7%91%E5%8A%A0%E5%BC%BA%E5%AE%89%E5%85%A8%E6%8E%AA%E6%96%BD+%E8%A1%97%E5%A4%B4%E7%9B%B4%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [高考709分 老师大喊“天啊”](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83709%E5%88%86+%E8%80%81%E5%B8%88%E5%A4%A7%E5%96%8A%E2%80%9C%E5%A4%A9%E5%95%8A%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [莫斯科加强安全措施 街头直击](https://www.baidu.com/s?wd=%E8%8E%AB%E6%96%AF%E7%A7%91%E5%8A%A0%E5%BC%BA%E5%AE%89%E5%85%A8%E6%8E%AA%E6%96%BD+%E8%A1%97%E5%A4%B4%E7%9B%B4%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [高考709分 老师大喊“天啊”](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83709%E5%88%86+%E8%80%81%E5%B8%88%E5%A4%A7%E5%96%8A%E2%80%9C%E5%A4%A9%E5%95%8A%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [歌手姚景元三战高考401分](https://www.baidu.com/s?wd=%E6%AD%8C%E6%89%8B%E5%A7%9A%E6%99%AF%E5%85%83%E4%B8%89%E6%88%98%E9%AB%98%E8%80%83401%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
