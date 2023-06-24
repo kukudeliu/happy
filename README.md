@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 11:47:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 11:48:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [伦敦召开乌克兰重建国际会议，英国承诺未来三年内长期支援，释放了什么信号？](https://www.zhihu.com/question/607977808)<br />
 7. [为什么有人认为做单机就是坚持梦想，做手游就是自甘堕落?](https://www.zhihu.com/question/607685693)<br />
 8. [《原神》3.8 前瞻，优菈时隔 500 多天再次复刻，本次卡池流水会十分可观吗？](https://www.zhihu.com/question/608180664)<br />
-9. []()<br />
+9. [狗会感觉被背叛吗？](https://www.zhihu.com/question/34184077)<br />
 
 > 百度  
 
