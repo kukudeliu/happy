@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 19:55:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 19:56:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [为什么教培机构对退休教师不认可？](https://www.zhihu.com/question/588498394)<br />
 6. [普里戈任称瓦格纳已控制罗斯托夫地区包括机场在内的军用设施，这意味着什么？此举对俄乌局势起到什么影响？](https://www.zhihu.com/question/608251555)<br />
 7. [2023 年高考结束后，大学选什么专业好？](https://www.zhihu.com/question/603802531)<br />
-8. [2023 福建高考成绩公布，你考得怎么样？可以说说你的分数和心情吗？](https://www.zhihu.com/question/607974295)<br />
-9. [如果重回大一学法学，你会做什么？](https://www.zhihu.com/question/600551602)<br />
+8. [如果重回大一学法学，你会做什么？](https://www.zhihu.com/question/600551602)<br />
+9. [2023 福建高考成绩公布，你考得怎么样？可以说说你的分数和心情吗？](https://www.zhihu.com/question/607974295)<br />
 
 > 百度  
 
