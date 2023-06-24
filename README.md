@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 06:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 06:09:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. []()<br />
 7. []()<br />
 8. []()<br />
-9. [一个中层管理者应该看什么书籍？](https://www.zhihu.com/question/483677374)<br />
+9. [一个人可以过得有多极简？](https://www.zhihu.com/question/265827355)<br />
 
 > 百度  
 
