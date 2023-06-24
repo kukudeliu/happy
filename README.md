@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 02:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 02:09:01</h4></div>
 
 > 微博  
 
@@ -32,8 +32,8 @@
 4. [大地诗篇](https://www.baidu.com/s?wd=%E5%A4%A7%E5%9C%B0%E8%AF%97%E7%AF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [瓦格纳逼近 莫斯科公共建筑人员疏散](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%80%BC%E8%BF%91+%E8%8E%AB%E6%96%AF%E7%A7%91%E5%85%AC%E5%85%B1%E5%BB%BA%E7%AD%91%E4%BA%BA%E5%91%98%E7%96%8F%E6%95%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [兰州一企业发生闪爆事故](https://www.baidu.com/s?wd=%E5%85%B0%E5%B7%9E%E4%B8%80%E4%BC%81%E4%B8%9A%E5%8F%91%E7%94%9F%E9%97%AA%E7%88%86%E4%BA%8B%E6%95%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [双胞胎姐妹高考查分均超600](https://www.baidu.com/s?wd=%E5%8F%8C%E8%83%9E%E8%83%8E%E5%A7%90%E5%A6%B9%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86%E5%9D%87%E8%B6%85600&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男生得知好友仅609分后瞬间弹起](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E5%BE%97%E7%9F%A5%E5%A5%BD%E5%8F%8B%E4%BB%85609%E5%88%86%E5%90%8E%E7%9E%AC%E9%97%B4%E5%BC%B9%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男生得知好友仅609分后瞬间弹起](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E5%BE%97%E7%9F%A5%E5%A5%BD%E5%8F%8B%E4%BB%85609%E5%88%86%E5%90%8E%E7%9E%AC%E9%97%B4%E5%BC%B9%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [双胞胎姐妹高考查分均超600](https://www.baidu.com/s?wd=%E5%8F%8C%E8%83%9E%E8%83%8E%E5%A7%90%E5%A6%B9%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86%E5%9D%87%E8%B6%85600&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [普京与多国领导人通话介绍局势](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%B8%8E%E5%A4%9A%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%80%9A%E8%AF%9D%E4%BB%8B%E7%BB%8D%E5%B1%80%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -44,6 +44,6 @@
 4. [大地诗篇](https://www.baidu.com/s?wd=%E5%A4%A7%E5%9C%B0%E8%AF%97%E7%AF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [瓦格纳逼近 莫斯科公共建筑人员疏散](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%80%BC%E8%BF%91+%E8%8E%AB%E6%96%AF%E7%A7%91%E5%85%AC%E5%85%B1%E5%BB%BA%E7%AD%91%E4%BA%BA%E5%91%98%E7%96%8F%E6%95%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [兰州一企业发生闪爆事故](https://www.baidu.com/s?wd=%E5%85%B0%E5%B7%9E%E4%B8%80%E4%BC%81%E4%B8%9A%E5%8F%91%E7%94%9F%E9%97%AA%E7%88%86%E4%BA%8B%E6%95%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [双胞胎姐妹高考查分均超600](https://www.baidu.com/s?wd=%E5%8F%8C%E8%83%9E%E8%83%8E%E5%A7%90%E5%A6%B9%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86%E5%9D%87%E8%B6%85600&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男生得知好友仅609分后瞬间弹起](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E5%BE%97%E7%9F%A5%E5%A5%BD%E5%8F%8B%E4%BB%85609%E5%88%86%E5%90%8E%E7%9E%AC%E9%97%B4%E5%BC%B9%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男生得知好友仅609分后瞬间弹起](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E5%BE%97%E7%9F%A5%E5%A5%BD%E5%8F%8B%E4%BB%85609%E5%88%86%E5%90%8E%E7%9E%AC%E9%97%B4%E5%BC%B9%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [双胞胎姐妹高考查分均超600](https://www.baidu.com/s?wd=%E5%8F%8C%E8%83%9E%E8%83%8E%E5%A7%90%E5%A6%B9%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86%E5%9D%87%E8%B6%85600&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [普京与多国领导人通话介绍局势](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%B8%8E%E5%A4%9A%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%80%9A%E8%AF%9D%E4%BB%8B%E7%BB%8D%E5%B1%80%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
