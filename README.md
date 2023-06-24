@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 02:49:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 02:50:01</h4></div>
 
 > 微博  
 
@@ -10,19 +10,19 @@
 6. [消失的她 绝世大甜剧](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%20%E7%BB%9D%E4%B8%96%E5%A4%A7%E7%94%9C%E5%89%A7&t=31&band_rank=6&Refer=top)<br />
 7. [绍伊古](https://s.weibo.com/weibo?q=%E7%BB%8D%E4%BC%8A%E5%8F%A4&t=31&band_rank=7&Refer=top)<br />
 8. [鹿晗演唱会的女安检员](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%BC%94%E5%94%B1%E4%BC%9A%E7%9A%84%E5%A5%B3%E5%AE%89%E6%A3%80%E5%91%98%23&t=31&band_rank=8&Refer=top)<br />
-9. [陈思诚透露误杀3和唐探新片进度](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%80%9D%E8%AF%9A%E9%80%8F%E9%9C%B2%E8%AF%AF%E6%9D%803%E5%92%8C%E5%94%90%E6%8E%A2%E6%96%B0%E7%89%87%E8%BF%9B%E5%BA%A6%23&t=31&band_rank=9&Refer=top)<br />
+9. [兰州一企业发生闪爆事故](https://s.weibo.com/weibo?q=%E5%85%B0%E5%B7%9E%E4%B8%80%E4%BC%81%E4%B8%9A%E5%8F%91%E7%94%9F%E9%97%AA%E7%88%86%E4%BA%8B%E6%95%85&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [俄国防部否认袭击瓦格纳营地，瓦格纳领导人因号召武装叛乱被立案，如何看待此事？](https://www.zhihu.com/question/608218892)<br />
 2. []()<br />
 3. []()<br />
-4. []()<br />
-5. [2023 江苏高考成绩公布，你考得怎么样？可以说说你的分数和心情吗？](https://www.zhihu.com/question/607974209)<br />
-6. []()<br />
-7. [如何评价《中国说唱巅峰对决 2023》第八期？](https://www.zhihu.com/question/608288763)<br />
-8. []()<br />
-9. [俄国防部称，瓦格纳集团武装力量被拖入普里戈任的武装叛乱，释放了哪些信号？](https://www.zhihu.com/question/608259505)<br />
+4. [2023 江苏高考成绩公布，你考得怎么样？可以说说你的分数和心情吗？](https://www.zhihu.com/question/607974209)<br />
+5. []()<br />
+6. [如何评价《中国说唱巅峰对决 2023》第八期？](https://www.zhihu.com/question/608288763)<br />
+7. []()<br />
+8. [俄国防部称，瓦格纳集团武装力量被拖入普里戈任的武装叛乱，释放了哪些信号？](https://www.zhihu.com/question/608259505)<br />
+9. []()<br />
 
 > 百度  
 
