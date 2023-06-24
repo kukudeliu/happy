@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 13:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 13:33:01</h4></div>
 
 > 微博  
 
 1. [俄罗斯](https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%23&t=31&band_rank=1&Refer=top)<br />
-2. [女生高考712分查完分就睡了](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83712%E5%88%86%E6%9F%A5%E5%AE%8C%E5%88%86%E5%B0%B1%E7%9D%A1%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
+2. [她她她](https://s.weibo.com/weibo?q=%E5%A5%B9%E5%A5%B9%E5%A5%B9&t=31&band_rank=2&Refer=top)<br />
 3. [31省份报志愿时间全汇总](https://s.weibo.com/weibo?q=%2331%E7%9C%81%E4%BB%BD%E6%8A%A5%E5%BF%97%E6%84%BF%E6%97%B6%E9%97%B4%E5%85%A8%E6%B1%87%E6%80%BB%23&t=31&band_rank=3&Refer=top)<br />
-4. [她她她](https://s.weibo.com/weibo?q=%E5%A5%B9%E5%A5%B9%E5%A5%B9&t=31&band_rank=4&Refer=top)<br />
+4. [女生高考712分查完分就睡了](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83712%E5%88%86%E6%9F%A5%E5%AE%8C%E5%88%86%E5%B0%B1%E7%9D%A1%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [高考理科623分决心复读了](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E7%90%86%E7%A7%91623%E5%88%86%E5%86%B3%E5%BF%83%E5%A4%8D%E8%AF%BB%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [炎亚纶 还好没有我的脸](https://s.weibo.com/weibo?q=%E7%82%8E%E4%BA%9A%E7%BA%B6%20%E8%BF%98%E5%A5%BD%E6%B2%A1%E6%9C%89%E6%88%91%E7%9A%84%E8%84%B8&t=31&band_rank=6&Refer=top)<br />
 7. [瓦格纳创始人否认试图发动武装叛乱](https://s.weibo.com/weibo?q=%23%E7%93%A6%E6%A0%BC%E7%BA%B3%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%90%A6%E8%AE%A4%E8%AF%95%E5%9B%BE%E5%8F%91%E5%8A%A8%E6%AD%A6%E8%A3%85%E5%8F%9B%E4%B9%B1%23&t=31&band_rank=7&Refer=top)<br />
@@ -19,9 +19,9 @@
 3. [俄国防部否认袭击瓦格纳营地，瓦格纳领导人因号召武装叛乱被立案，如何看待此事？](https://www.zhihu.com/question/608218892)<br />
 4. [2023 黑龙江高考分数线一本文 430 降 33 分，理 408 降 21 分，如何评价分数线下降？](https://www.zhihu.com/question/607974400)<br />
 5. [俄国防部称乌克兰军队试图利用瓦格纳部队挑衅的机会发动反攻，瓦格纳为什么要叛变，目前当地局势如何？](https://www.zhihu.com/question/608238596)<br />
-6. [《原神》3.8 前瞻，优菈时隔 500 多天再次复刻，本次卡池流水会十分可观吗？](https://www.zhihu.com/question/608180664)<br />
+6. [狗会感觉被背叛吗？](https://www.zhihu.com/question/34184077)<br />
 7. [因为端午礼品问题和女朋友吵架分手，请大家看看是我反应过度了吗？](https://www.zhihu.com/question/607441090)<br />
-8. [狗会感觉被背叛吗？](https://www.zhihu.com/question/34184077)<br />
+8. [《原神》3.8 前瞻，优菈时隔 500 多天再次复刻，本次卡池流水会十分可观吗？](https://www.zhihu.com/question/608180664)<br />
 9. [吴越凭借《县委大院》中「艾鲜枝」一角获第 28 届白玉兰奖获得最佳女主角，如何评价她的演技？](https://www.zhihu.com/question/608163030)<br />
 
 > 百度  
@@ -31,9 +31,9 @@
 3. [女生高考712分 查完分就睡觉](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83712%E5%88%86+%E6%9F%A5%E5%AE%8C%E5%88%86%E5%B0%B1%E7%9D%A1%E8%A7%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [让传统佳节推陈出新](https://www.baidu.com/s?wd=%E8%AE%A9%E4%BC%A0%E7%BB%9F%E4%BD%B3%E8%8A%82%E6%8E%A8%E9%99%88%E5%87%BA%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [形势突变，考验普京的时候到了](https://www.baidu.com/s?wd=%E5%BD%A2%E5%8A%BF%E7%AA%81%E5%8F%98%EF%BC%8C%E8%80%83%E9%AA%8C%E6%99%AE%E4%BA%AC%E7%9A%84%E6%97%B6%E5%80%99%E5%88%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [乌克兰首都基辅传出爆炸声](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E9%A6%96%E9%83%BD%E5%9F%BA%E8%BE%85%E4%BC%A0%E5%87%BA%E7%88%86%E7%82%B8%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [一家16口聚餐时疑遭投毒 警方介入](https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B616%E5%8F%A3%E8%81%9A%E9%A4%90%E6%97%B6%E7%96%91%E9%81%AD%E6%8A%95%E6%AF%92+%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [瓦格纳：已控制罗斯托夫军用设施](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%EF%BC%9A%E5%B7%B2%E6%8E%A7%E5%88%B6%E7%BD%97%E6%96%AF%E6%89%98%E5%A4%AB%E5%86%9B%E7%94%A8%E8%AE%BE%E6%96%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [一家16口聚餐时疑遭投毒 警方介入](https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B616%E5%8F%A3%E8%81%9A%E9%A4%90%E6%97%B6%E7%96%91%E9%81%AD%E6%8A%95%E6%AF%92+%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女儿高考630分单亲妈妈边笑边流泪](https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF%E9%AB%98%E8%80%83630%E5%88%86%E5%8D%95%E4%BA%B2%E5%A6%88%E5%A6%88%E8%BE%B9%E7%AC%91%E8%BE%B9%E6%B5%81%E6%B3%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [女儿587分 老爸直呼“祖坟冒烟喽”](https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF587%E5%88%86+%E8%80%81%E7%88%B8%E7%9B%B4%E5%91%BC%E2%80%9C%E7%A5%96%E5%9D%9F%E5%86%92%E7%83%9F%E5%96%BD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -43,7 +43,7 @@
 3. [女生高考712分 查完分就睡觉](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83712%E5%88%86+%E6%9F%A5%E5%AE%8C%E5%88%86%E5%B0%B1%E7%9D%A1%E8%A7%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [让传统佳节推陈出新](https://www.baidu.com/s?wd=%E8%AE%A9%E4%BC%A0%E7%BB%9F%E4%BD%B3%E8%8A%82%E6%8E%A8%E9%99%88%E5%87%BA%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [形势突变，考验普京的时候到了](https://www.baidu.com/s?wd=%E5%BD%A2%E5%8A%BF%E7%AA%81%E5%8F%98%EF%BC%8C%E8%80%83%E9%AA%8C%E6%99%AE%E4%BA%AC%E7%9A%84%E6%97%B6%E5%80%99%E5%88%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [乌克兰首都基辅传出爆炸声](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E9%A6%96%E9%83%BD%E5%9F%BA%E8%BE%85%E4%BC%A0%E5%87%BA%E7%88%86%E7%82%B8%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [一家16口聚餐时疑遭投毒 警方介入](https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B616%E5%8F%A3%E8%81%9A%E9%A4%90%E6%97%B6%E7%96%91%E9%81%AD%E6%8A%95%E6%AF%92+%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [瓦格纳：已控制罗斯托夫军用设施](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%EF%BC%9A%E5%B7%B2%E6%8E%A7%E5%88%B6%E7%BD%97%E6%96%AF%E6%89%98%E5%A4%AB%E5%86%9B%E7%94%A8%E8%AE%BE%E6%96%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [一家16口聚餐时疑遭投毒 警方介入](https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B616%E5%8F%A3%E8%81%9A%E9%A4%90%E6%97%B6%E7%96%91%E9%81%AD%E6%8A%95%E6%AF%92+%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女儿高考630分单亲妈妈边笑边流泪](https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF%E9%AB%98%E8%80%83630%E5%88%86%E5%8D%95%E4%BA%B2%E5%A6%88%E5%A6%88%E8%BE%B9%E7%AC%91%E8%BE%B9%E6%B5%81%E6%B3%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [女儿587分 老爸直呼“祖坟冒烟喽”](https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF587%E5%88%86+%E8%80%81%E7%88%B8%E7%9B%B4%E5%91%BC%E2%80%9C%E7%A5%96%E5%9D%9F%E5%86%92%E7%83%9F%E5%96%BD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
