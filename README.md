@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 13:31:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 13:32:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [俄国防部称乌克兰军队试图利用瓦格纳部队挑衅的机会发动反攻，瓦格纳为什么要叛变，目前当地局势如何？](https://www.zhihu.com/question/608238596)<br />
 6. [《原神》3.8 前瞻，优菈时隔 500 多天再次复刻，本次卡池流水会十分可观吗？](https://www.zhihu.com/question/608180664)<br />
 7. [因为端午礼品问题和女朋友吵架分手，请大家看看是我反应过度了吗？](https://www.zhihu.com/question/607441090)<br />
-8. [莫迪在美国国会上表示「印度很快将是世界第三大经济体」，这一目标可能实现吗？](https://www.zhihu.com/question/608151767)<br />
-9. [狗会感觉被背叛吗？](https://www.zhihu.com/question/34184077)<br />
+8. [狗会感觉被背叛吗？](https://www.zhihu.com/question/34184077)<br />
+9. [吴越凭借《县委大院》中「艾鲜枝」一角获第 28 届白玉兰奖获得最佳女主角，如何评价她的演技？](https://www.zhihu.com/question/608163030)<br />
 
 > 百度  
 
