@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 20:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 20:50:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [看消失的她 恋爱脑治好了](https://s.weibo.com/weibo?q=%E7%9C%8B%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%20%E6%81%8B%E7%88%B1%E8%84%91%E6%B2%BB%E5%A5%BD%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [披荆斩棘的哥哥](https://s.weibo.com/weibo?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E7%9A%84%E5%93%A5%E5%93%A5&t=31&band_rank=7&Refer=top)<br />
 8. [大学四年买了100斤的衣服](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E5%9B%9B%E5%B9%B4%E4%B9%B0%E4%BA%86100%E6%96%A4%E7%9A%84%E8%A1%A3%E6%9C%8D%23&t=31&band_rank=8&Refer=top)<br />
-9. [复读女生涨61分坐地嚎啕大哭](https://s.weibo.com/weibo?q=%23%E5%A4%8D%E8%AF%BB%E5%A5%B3%E7%94%9F%E6%B6%A861%E5%88%86%E5%9D%90%E5%9C%B0%E5%9A%8E%E5%95%95%E5%A4%A7%E5%93%AD%23&t=31&band_rank=9&Refer=top)<br />
+9. [瓦格纳](https://s.weibo.com/weibo?q=%23%E7%93%A6%E6%A0%BC%E7%BA%B3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
