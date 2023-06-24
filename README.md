@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 18:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 18:44:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [世界互联网大会数字文明尼山对话](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A%E6%95%B0%E5%AD%97%E6%96%87%E6%98%8E%E5%B0%BC%E5%B1%B1%E5%AF%B9%E8%AF%9D%23&t=31&band_rank=3&Refer=top)<br />
 4. [车臣](https://s.weibo.com/weibo?q=%E8%BD%A6%E8%87%A3&t=31&band_rank=4&Refer=top)<br />
 5. [班主任查出学生704分拍手大喊哎呦](https://s.weibo.com/weibo?q=%23%E7%8F%AD%E4%B8%BB%E4%BB%BB%E6%9F%A5%E5%87%BA%E5%AD%A6%E7%94%9F704%E5%88%86%E6%8B%8D%E6%89%8B%E5%A4%A7%E5%96%8A%E5%93%8E%E5%91%A6%23&t=31&band_rank=5&Refer=top)<br />
-6. [银川爆炸事故4名犯罪嫌疑人被刑拘](https://s.weibo.com/weibo?q=%23%E9%93%B6%E5%B7%9D%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%854%E5%90%8D%E7%8A%AF%E7%BD%AA%E5%AB%8C%E7%96%91%E4%BA%BA%E8%A2%AB%E5%88%91%E6%8B%98%23&t=31&band_rank=6&Refer=top)<br />
+6. [看消失的她 恋爱脑治好了](https://s.weibo.com/weibo?q=%E7%9C%8B%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%20%E6%81%8B%E7%88%B1%E8%84%91%E6%B2%BB%E5%A5%BD%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [婆婆连续3年给儿媳做午餐便当盲盒](https://s.weibo.com/weibo?q=%23%E5%A9%86%E5%A9%86%E8%BF%9E%E7%BB%AD3%E5%B9%B4%E7%BB%99%E5%84%BF%E5%AA%B3%E5%81%9A%E5%8D%88%E9%A4%90%E4%BE%BF%E5%BD%93%E7%9B%B2%E7%9B%92%23&t=31&band_rank=7&Refer=top)<br />
-8. [看消失的她 恋爱脑治好了](https://s.weibo.com/weibo?q=%E7%9C%8B%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%20%E6%81%8B%E7%88%B1%E8%84%91%E6%B2%BB%E5%A5%BD%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
+8. [银川爆炸事故4名犯罪嫌疑人被刑拘](https://s.weibo.com/weibo?q=%23%E9%93%B6%E5%B7%9D%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%854%E5%90%8D%E7%8A%AF%E7%BD%AA%E5%AB%8C%E7%96%91%E4%BA%BA%E8%A2%AB%E5%88%91%E6%8B%98%23&t=31&band_rank=8&Refer=top)<br />
 9. [车臣部队已准备好帮助镇压叛乱](https://s.weibo.com/weibo?q=%23%E8%BD%A6%E8%87%A3%E9%83%A8%E9%98%9F%E5%B7%B2%E5%87%86%E5%A4%87%E5%A5%BD%E5%B8%AE%E5%8A%A9%E9%95%87%E5%8E%8B%E5%8F%9B%E4%B9%B1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -33,8 +33,8 @@
 5. [瓦格纳集团回应普京讲话](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%9B%86%E5%9B%A2%E5%9B%9E%E5%BA%94%E6%99%AE%E4%BA%AC%E8%AE%B2%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [多国就俄罗斯局势表态](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E5%B0%B1%E4%BF%84%E7%BD%97%E6%96%AF%E5%B1%80%E5%8A%BF%E8%A1%A8%E6%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女生发烧考618分挨个房间报喜](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%8F%91%E7%83%A7%E8%80%83618%E5%88%86%E6%8C%A8%E4%B8%AA%E6%88%BF%E9%97%B4%E6%8A%A5%E5%96%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [直击俄罗斯街头实况](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E4%BF%84%E7%BD%97%E6%96%AF%E8%A1%97%E5%A4%B4%E5%AE%9E%E5%86%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [普里戈任与绍伊古到底有何恩怨](https://www.baidu.com/s?wd=%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E4%B8%8E%E7%BB%8D%E4%BC%8A%E5%8F%A4%E5%88%B0%E5%BA%95%E6%9C%89%E4%BD%95%E6%81%A9%E6%80%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [普里戈任与绍伊古到底有何恩怨](https://www.baidu.com/s?wd=%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E4%B8%8E%E7%BB%8D%E4%BC%8A%E5%8F%A4%E5%88%B0%E5%BA%95%E6%9C%89%E4%BD%95%E6%81%A9%E6%80%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [直击俄罗斯街头实况](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E4%BF%84%E7%BD%97%E6%96%AF%E8%A1%97%E5%A4%B4%E5%AE%9E%E5%86%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [瓦格纳集团回应普京讲话](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%9B%86%E5%9B%A2%E5%9B%9E%E5%BA%94%E6%99%AE%E4%BA%AC%E8%AE%B2%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [多国就俄罗斯局势表态](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E5%B0%B1%E4%BF%84%E7%BD%97%E6%96%AF%E5%B1%80%E5%8A%BF%E8%A1%A8%E6%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女生发烧考618分挨个房间报喜](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%8F%91%E7%83%A7%E8%80%83618%E5%88%86%E6%8C%A8%E4%B8%AA%E6%88%BF%E9%97%B4%E6%8A%A5%E5%96%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [直击俄罗斯街头实况](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E4%BF%84%E7%BD%97%E6%96%AF%E8%A1%97%E5%A4%B4%E5%AE%9E%E5%86%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [普里戈任与绍伊古到底有何恩怨](https://www.baidu.com/s?wd=%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E4%B8%8E%E7%BB%8D%E4%BC%8A%E5%8F%A4%E5%88%B0%E5%BA%95%E6%9C%89%E4%BD%95%E6%81%A9%E6%80%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [普里戈任与绍伊古到底有何恩怨](https://www.baidu.com/s?wd=%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E4%B8%8E%E7%BB%8D%E4%BC%8A%E5%8F%A4%E5%88%B0%E5%BA%95%E6%9C%89%E4%BD%95%E6%81%A9%E6%80%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [直击俄罗斯街头实况](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E4%BF%84%E7%BD%97%E6%96%AF%E8%A1%97%E5%A4%B4%E5%AE%9E%E5%86%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
