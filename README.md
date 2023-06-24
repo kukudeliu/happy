@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 21:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 21:38:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [鹿晗演唱会的女安检员](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%BC%94%E5%94%B1%E4%BC%9A%E7%9A%84%E5%A5%B3%E5%AE%89%E6%A3%80%E5%91%98%23&t=31&band_rank=2&Refer=top)<br />
 3. [世界互联网大会数字文明尼山对话](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A%E6%95%B0%E5%AD%97%E6%96%87%E6%98%8E%E5%B0%BC%E5%B1%B1%E5%AF%B9%E8%AF%9D%23&t=31&band_rank=3&Refer=top)<br />
 4. [弟弟考了640分却开心不起来](https://s.weibo.com/weibo?q=%23%E5%BC%9F%E5%BC%9F%E8%80%83%E4%BA%86640%E5%88%86%E5%8D%B4%E5%BC%80%E5%BF%83%E4%B8%8D%E8%B5%B7%E6%9D%A5%23&t=31&band_rank=4&Refer=top)<br />
-5. [看消失的她 恋爱脑治好了](https://s.weibo.com/weibo?q=%E7%9C%8B%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%20%E6%81%8B%E7%88%B1%E8%84%91%E6%B2%BB%E5%A5%BD%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
-6. [圣彼得堡](https://s.weibo.com/weibo?q=%23%E5%9C%A3%E5%BD%BC%E5%BE%97%E5%A0%A1%23&t=31&band_rank=6&Refer=top)<br />
+5. [圣彼得堡](https://s.weibo.com/weibo?q=%23%E5%9C%A3%E5%BD%BC%E5%BE%97%E5%A0%A1%23&t=31&band_rank=5&Refer=top)<br />
+6. [看消失的她 恋爱脑治好了](https://s.weibo.com/weibo?q=%E7%9C%8B%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%20%E6%81%8B%E7%88%B1%E8%84%91%E6%B2%BB%E5%A5%BD%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [大学四年买了100斤的衣服](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E5%9B%9B%E5%B9%B4%E4%B9%B0%E4%BA%86100%E6%96%A4%E7%9A%84%E8%A1%A3%E6%9C%8D%23&t=31&band_rank=7&Refer=top)<br />
 8. [披荆斩棘的哥哥](https://s.weibo.com/weibo?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E7%9A%84%E5%93%A5%E5%93%A5&t=31&band_rank=8&Refer=top)<br />
 9. [韩剧恶鬼](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%89%A7%E6%81%B6%E9%AC%BC&t=31&band_rank=9&Refer=top)<br />
@@ -20,8 +20,8 @@
 4. [2023 福建高考成绩公布，你考得怎么样？可以说说你的分数和心情吗？](https://www.zhihu.com/question/607974295)<br />
 5. [报考电竞专业是不是就能天天打游戏？毕业后薪资水平如何？](https://www.zhihu.com/theater/93769)<br />
 6. [外国人一般是怎么给自己取中文名的？有没有什么比较奇葩的中文名？](https://www.zhihu.com/question/26546359)<br />
-7. []()<br />
-8. []()<br />
+7. [北京观测史上首次连续两日气温突破 40℃，23 日发布高温红色预警信号，哪些信息值得关注？](https://www.zhihu.com/question/608131521)<br />
+8. [为什么旗舰手机标准版大部分都不带无线充电？](https://www.zhihu.com/question/607118057)<br />
 9. [猫用饮水机真的有用吗？](https://www.zhihu.com/question/314321800)<br />
 
 > 百度  
