@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 11:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 12:00:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [炎亚纶 还好没有我的脸](https://s.weibo.com/weibo?q=%E7%82%8E%E4%BA%9A%E7%BA%B6%20%E8%BF%98%E5%A5%BD%E6%B2%A1%E6%9C%89%E6%88%91%E7%9A%84%E8%84%B8&t=31&band_rank=6&Refer=top)<br />
 7. [吴越 是不是大女主都没关系](https://s.weibo.com/weibo?q=%E5%90%B4%E8%B6%8A%20%E6%98%AF%E4%B8%8D%E6%98%AF%E5%A4%A7%E5%A5%B3%E4%B8%BB%E9%83%BD%E6%B2%A1%E5%85%B3%E7%B3%BB&t=31&band_rank=7&Refer=top)<br />
 8. [姚景元高考分数401](https://s.weibo.com/weibo?q=%23%E5%A7%9A%E6%99%AF%E5%85%83%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0401%23&t=31&band_rank=8&Refer=top)<br />
-9. [俄总检察长已向普京汇报情况](https://s.weibo.com/weibo?q=%23%E4%BF%84%E6%80%BB%E6%A3%80%E5%AF%9F%E9%95%BF%E5%B7%B2%E5%90%91%E6%99%AE%E4%BA%AC%E6%B1%87%E6%8A%A5%E6%83%85%E5%86%B5%23&t=31&band_rank=9&Refer=top)<br />
+9. [莫斯科正在进行反恐行动](https://s.weibo.com/weibo?q=%23%E8%8E%AB%E6%96%AF%E7%A7%91%E6%AD%A3%E5%9C%A8%E8%BF%9B%E8%A1%8C%E5%8F%8D%E6%81%90%E8%A1%8C%E5%8A%A8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -34,7 +34,7 @@
 6. [女儿587分 老爸直呼“祖坟冒烟喽”](https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF587%E5%88%86+%E8%80%81%E7%88%B8%E7%9B%B4%E5%91%BC%E2%80%9C%E7%A5%96%E5%9D%9F%E5%86%92%E7%83%9F%E5%96%BD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [高考709分 老师大喊“天啊”](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83709%E5%88%86+%E8%80%81%E5%B8%88%E5%A4%A7%E5%96%8A%E2%80%9C%E5%A4%A9%E5%95%8A%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [炎亚纶 还好没有我的脸](https://www.baidu.com/s?wd=%E7%82%8E%E4%BA%9A%E7%BA%B6+%E8%BF%98%E5%A5%BD%E6%B2%A1%E6%9C%89%E6%88%91%E7%9A%84%E8%84%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [莫斯科加强安全措施 街头直击](https://www.baidu.com/s?wd=%E8%8E%AB%E6%96%AF%E7%A7%91%E5%8A%A0%E5%BC%BA%E5%AE%89%E5%85%A8%E6%8E%AA%E6%96%BD+%E8%A1%97%E5%A4%B4%E7%9B%B4%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [歌手姚景元三战高考401分](https://www.baidu.com/s?wd=%E6%AD%8C%E6%89%8B%E5%A7%9A%E6%99%AF%E5%85%83%E4%B8%89%E6%88%98%E9%AB%98%E8%80%83401%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [女儿587分 老爸直呼“祖坟冒烟喽”](https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF587%E5%88%86+%E8%80%81%E7%88%B8%E7%9B%B4%E5%91%BC%E2%80%9C%E7%A5%96%E5%9D%9F%E5%86%92%E7%83%9F%E5%96%BD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [高考709分 老师大喊“天啊”](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83709%E5%88%86+%E8%80%81%E5%B8%88%E5%A4%A7%E5%96%8A%E2%80%9C%E5%A4%A9%E5%95%8A%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [炎亚纶 还好没有我的脸](https://www.baidu.com/s?wd=%E7%82%8E%E4%BA%9A%E7%BA%B6+%E8%BF%98%E5%A5%BD%E6%B2%A1%E6%9C%89%E6%88%91%E7%9A%84%E8%84%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [莫斯科加强安全措施 街头直击](https://www.baidu.com/s?wd=%E8%8E%AB%E6%96%AF%E7%A7%91%E5%8A%A0%E5%BC%BA%E5%AE%89%E5%85%A8%E6%8E%AA%E6%96%BD+%E8%A1%97%E5%A4%B4%E7%9B%B4%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [歌手姚景元三战高考401分](https://www.baidu.com/s?wd=%E6%AD%8C%E6%89%8B%E5%A7%9A%E6%99%AF%E5%85%83%E4%B8%89%E6%88%98%E9%AB%98%E8%80%83401%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
