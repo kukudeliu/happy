@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 13:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 13:45:01</h4></div>
 
 > 微博  
 
@@ -31,10 +31,10 @@
 3. [女生高考712分 查完分就睡觉](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83712%E5%88%86+%E6%9F%A5%E5%AE%8C%E5%88%86%E5%B0%B1%E7%9D%A1%E8%A7%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [让传统佳节推陈出新](https://www.baidu.com/s?wd=%E8%AE%A9%E4%BC%A0%E7%BB%9F%E4%BD%B3%E8%8A%82%E6%8E%A8%E9%99%88%E5%87%BA%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [形势突变，考验普京的时候到了](https://www.baidu.com/s?wd=%E5%BD%A2%E5%8A%BF%E7%AA%81%E5%8F%98%EF%BC%8C%E8%80%83%E9%AA%8C%E6%99%AE%E4%BA%AC%E7%9A%84%E6%97%B6%E5%80%99%E5%88%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [女儿高考630分单亲妈妈边笑边流泪](https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF%E9%AB%98%E8%80%83630%E5%88%86%E5%8D%95%E4%BA%B2%E5%A6%88%E5%A6%88%E8%BE%B9%E7%AC%91%E8%BE%B9%E6%B5%81%E6%B3%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [一家16口聚餐时疑遭投毒 警方介入](https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B616%E5%8F%A3%E8%81%9A%E9%A4%90%E6%97%B6%E7%96%91%E9%81%AD%E6%8A%95%E6%AF%92+%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [瓦格纳：已控制罗斯托夫军用设施](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%EF%BC%9A%E5%B7%B2%E6%8E%A7%E5%88%B6%E7%BD%97%E6%96%AF%E6%89%98%E5%A4%AB%E5%86%9B%E7%94%A8%E8%AE%BE%E6%96%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [浙江一药农卖元胡10分钟赚52万元](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E8%8D%AF%E5%86%9C%E5%8D%96%E5%85%83%E8%83%A110%E5%88%86%E9%92%9F%E8%B5%9A52%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [一家16口聚餐时疑遭投毒 警方介入](https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B616%E5%8F%A3%E8%81%9A%E9%A4%90%E6%97%B6%E7%96%91%E9%81%AD%E6%8A%95%E6%AF%92+%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [歌手姚景元三战高考401分](https://www.baidu.com/s?wd=%E6%AD%8C%E6%89%8B%E5%A7%9A%E6%99%AF%E5%85%83%E4%B8%89%E6%88%98%E9%AB%98%E8%80%83401%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [女生高考712分 查完分就睡觉](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83712%E5%88%86+%E6%9F%A5%E5%AE%8C%E5%88%86%E5%B0%B1%E7%9D%A1%E8%A7%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [让传统佳节推陈出新](https://www.baidu.com/s?wd=%E8%AE%A9%E4%BC%A0%E7%BB%9F%E4%BD%B3%E8%8A%82%E6%8E%A8%E9%99%88%E5%87%BA%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [形势突变，考验普京的时候到了](https://www.baidu.com/s?wd=%E5%BD%A2%E5%8A%BF%E7%AA%81%E5%8F%98%EF%BC%8C%E8%80%83%E9%AA%8C%E6%99%AE%E4%BA%AC%E7%9A%84%E6%97%B6%E5%80%99%E5%88%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [女儿高考630分单亲妈妈边笑边流泪](https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF%E9%AB%98%E8%80%83630%E5%88%86%E5%8D%95%E4%BA%B2%E5%A6%88%E5%A6%88%E8%BE%B9%E7%AC%91%E8%BE%B9%E6%B5%81%E6%B3%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [一家16口聚餐时疑遭投毒 警方介入](https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B616%E5%8F%A3%E8%81%9A%E9%A4%90%E6%97%B6%E7%96%91%E9%81%AD%E6%8A%95%E6%AF%92+%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [瓦格纳：已控制罗斯托夫军用设施](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%EF%BC%9A%E5%B7%B2%E6%8E%A7%E5%88%B6%E7%BD%97%E6%96%AF%E6%89%98%E5%A4%AB%E5%86%9B%E7%94%A8%E8%AE%BE%E6%96%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [浙江一药农卖元胡10分钟赚52万元](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E8%8D%AF%E5%86%9C%E5%8D%96%E5%85%83%E8%83%A110%E5%88%86%E9%92%9F%E8%B5%9A52%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [一家16口聚餐时疑遭投毒 警方介入](https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B616%E5%8F%A3%E8%81%9A%E9%A4%90%E6%97%B6%E7%96%91%E9%81%AD%E6%8A%95%E6%AF%92+%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [歌手姚景元三战高考401分](https://www.baidu.com/s?wd=%E6%AD%8C%E6%89%8B%E5%A7%9A%E6%99%AF%E5%85%83%E4%B8%89%E6%88%98%E9%AB%98%E8%80%83401%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
