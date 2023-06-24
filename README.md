@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 15:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 16:00:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [想和猫咪拍照，猫咪不配合怎么办？](https://www.zhihu.com/question/421786821)<br />
 6. []()<br />
 7. [电影《消失的她》里何非到底是怎样的一个人?](https://www.zhihu.com/question/607967579)<br />
-8. [4070Ti 能战 5 年吗？](https://www.zhihu.com/question/599118671)<br />
-9. []()<br />
+8. []()<br />
+9. [如何评价《原神》枫丹版本的部分美术设计为甜美魔幻风，而非蒸汽朋克？](https://www.zhihu.com/question/608230338)<br />
 
 > 百度  
 
