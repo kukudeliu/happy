@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 10:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 10:10:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [吴越 是不是大女主都没关系](https://s.weibo.com/weibo?q=%E5%90%B4%E8%B6%8A%20%E6%98%AF%E4%B8%8D%E6%98%AF%E5%A4%A7%E5%A5%B3%E4%B8%BB%E9%83%BD%E6%B2%A1%E5%85%B3%E7%B3%BB&t=31&band_rank=5&Refer=top)<br />
 6. [炎亚纶 还好没有我的脸](https://s.weibo.com/weibo?q=%E7%82%8E%E4%BA%9A%E7%BA%B6%20%E8%BF%98%E5%A5%BD%E6%B2%A1%E6%9C%89%E6%88%91%E7%9A%84%E8%84%B8&t=31&band_rank=6&Refer=top)<br />
 7. [暴雪禁止中国大陆玩家参与暗黑4活动](https://s.weibo.com/weibo?q=%23%E6%9A%B4%E9%9B%AA%E7%A6%81%E6%AD%A2%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E7%8E%A9%E5%AE%B6%E5%8F%82%E4%B8%8E%E6%9A%97%E9%BB%914%E6%B4%BB%E5%8A%A8%23&t=31&band_rank=7&Refer=top)<br />
-8. [孙千评论赵丽颖说你跑我追](https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%8D%83%E8%AF%84%E8%AE%BA%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%AF%B4%E4%BD%A0%E8%B7%91%E6%88%91%E8%BF%BD%23&t=31&band_rank=8&Refer=top)<br />
-9. [四大女顶流奖项实绩](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%A4%A7%E5%A5%B3%E9%A1%B6%E6%B5%81%E5%A5%96%E9%A1%B9%E5%AE%9E%E7%BB%A9%23&t=31&band_rank=9&Refer=top)<br />
+8. [安徽高考分数线](https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%BE%BD%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%23&t=31&band_rank=8&Refer=top)<br />
+9. [孙千评论赵丽颖说你跑我追](https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%8D%83%E8%AF%84%E8%AE%BA%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%AF%B4%E4%BD%A0%E8%B7%91%E6%88%91%E8%BF%BD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
