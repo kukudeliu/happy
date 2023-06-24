@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 06:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 06:51:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [世界互联网大会数字文明尼山对话](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A%E6%95%B0%E5%AD%97%E6%96%87%E6%98%8E%E5%B0%BC%E5%B1%B1%E5%AF%B9%E8%AF%9D%23&t=31&band_rank=3&Refer=top)<br />
 4. [普京指责瓦格纳负责人叛国](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E6%8C%87%E8%B4%A3%E7%93%A6%E6%A0%BC%E7%BA%B3%E8%B4%9F%E8%B4%A3%E4%BA%BA%E5%8F%9B%E5%9B%BD%23&t=31&band_rank=4&Refer=top)<br />
 5. [绍伊古](https://s.weibo.com/weibo?q=%E7%BB%8D%E4%BC%8A%E5%8F%A4&t=31&band_rank=5&Refer=top)<br />
-6. [家长以为中考管饭送完孩子去郊游](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%95%BF%E4%BB%A5%E4%B8%BA%E4%B8%AD%E8%80%83%E7%AE%A1%E9%A5%AD%E9%80%81%E5%AE%8C%E5%AD%A9%E5%AD%90%E5%8E%BB%E9%83%8A%E6%B8%B8%23&t=31&band_rank=6&Refer=top)<br />
-7. [消失的她 绝世大甜剧](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%20%E7%BB%9D%E4%B8%96%E5%A4%A7%E7%94%9C%E5%89%A7&t=31&band_rank=7&Refer=top)<br />
+6. [消失的她 绝世大甜剧](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%20%E7%BB%9D%E4%B8%96%E5%A4%A7%E7%94%9C%E5%89%A7&t=31&band_rank=6&Refer=top)<br />
+7. [家长以为中考管饭送完孩子去郊游](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%95%BF%E4%BB%A5%E4%B8%BA%E4%B8%AD%E8%80%83%E7%AE%A1%E9%A5%AD%E9%80%81%E5%AE%8C%E5%AD%A9%E5%AD%90%E5%8E%BB%E9%83%8A%E6%B8%B8%23&t=31&band_rank=7&Refer=top)<br />
 8. [弟弟考673分姐姐哭了一小时](https://s.weibo.com/weibo?q=%23%E5%BC%9F%E5%BC%9F%E8%80%83673%E5%88%86%E5%A7%90%E5%A7%90%E5%93%AD%E4%BA%86%E4%B8%80%E5%B0%8F%E6%97%B6%23&t=31&band_rank=8&Refer=top)<br />
 9. [江苏高考687分及以上116人](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E9%AB%98%E8%80%83687%E5%88%86%E5%8F%8A%E4%BB%A5%E4%B8%8A116%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
@@ -18,8 +18,8 @@
 2. []()<br />
 3. []()<br />
 4. [40 岁以后，你发现哪些钱根本没必要花？](https://www.zhihu.com/question/593808844)<br />
-5. [宁夏银川烧烤店燃气爆炸事故 4 名犯罪嫌疑人被刑拘，从法律角度，他们将受到哪些处罚？](https://www.zhihu.com/question/608287472)<br />
-6. []()<br />
+5. []()<br />
+6. [宁夏银川烧烤店燃气爆炸事故 4 名犯罪嫌疑人被刑拘，从法律角度，他们将受到哪些处罚？](https://www.zhihu.com/question/608287472)<br />
 7. [如何评价朱一龙在电影《消失的她》中的演技？](https://www.zhihu.com/question/607660063)<br />
 8. [猫为什么不如狗好驯服？](https://www.zhihu.com/question/605865648)<br />
 9. []()<br />
