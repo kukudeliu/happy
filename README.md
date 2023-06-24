@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 11:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 11:09:02</h4></div>
 
 > 微博  
 
 1. [女生高考712分查完分就睡了](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83712%E5%88%86%E6%9F%A5%E5%AE%8C%E5%88%86%E5%B0%B1%E7%9D%A1%E4%BA%86%23&t=31&band_rank=1&Refer=top)<br />
-2. [俄罗斯](https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%23&t=31&band_rank=2&Refer=top)<br />
+2. [赵丽颖 戴比尔斯](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%20%E6%88%B4%E6%AF%94%E5%B0%94%E6%96%AF&t=31&band_rank=2&Refer=top)<br />
 3. [全国各地高考分数线汇总](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E5%90%84%E5%9C%B0%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E6%B1%87%E6%80%BB%23&t=31&band_rank=3&Refer=top)<br />
-4. [赵丽颖 戴比尔斯](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%20%E6%88%B4%E6%AF%94%E5%B0%94%E6%96%AF&t=31&band_rank=4&Refer=top)<br />
+4. [俄罗斯](https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%23&t=31&band_rank=4&Refer=top)<br />
 5. [姚景元高考分数401](https://s.weibo.com/weibo?q=%23%E5%A7%9A%E6%99%AF%E5%85%83%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0401%23&t=31&band_rank=5&Refer=top)<br />
 6. [炎亚纶 还好没有我的脸](https://s.weibo.com/weibo?q=%E7%82%8E%E4%BA%9A%E7%BA%B6%20%E8%BF%98%E5%A5%BD%E6%B2%A1%E6%9C%89%E6%88%91%E7%9A%84%E8%84%B8&t=31&band_rank=6&Refer=top)<br />
 7. [吴越 是不是大女主都没关系](https://s.weibo.com/weibo?q=%E5%90%B4%E8%B6%8A%20%E6%98%AF%E4%B8%8D%E6%98%AF%E5%A4%A7%E5%A5%B3%E4%B8%BB%E9%83%BD%E6%B2%A1%E5%85%B3%E7%B3%BB&t=31&band_rank=7&Refer=top)<br />
@@ -18,11 +18,11 @@
 2. [因为端午礼品问题和女朋友吵架分手，请大家看看是我反应过度了吗？](https://www.zhihu.com/question/607441090)<br />
 3. [俄国防部否认袭击瓦格纳营地，瓦格纳领导人因号召武装叛乱被立案，如何看待此事？](https://www.zhihu.com/question/608218892)<br />
 4. [近年来很多新能源汽车都把方向盘设计成了异形，这种设计对驾驶安全有影响吗？](https://www.zhihu.com/question/607651537)<br />
-5. [伦敦召开乌克兰重建国际会议，英国承诺未来三年内长期支援，释放了什么信号？](https://www.zhihu.com/question/607977808)<br />
-6. [您读过最有力量的书是什么？](https://www.zhihu.com/question/603556848)<br />
+5. [您读过最有力量的书是什么？](https://www.zhihu.com/question/603556848)<br />
+6. [伦敦召开乌克兰重建国际会议，英国承诺未来三年内长期支援，释放了什么信号？](https://www.zhihu.com/question/607977808)<br />
 7. [如何评价西南大学本科生发表五篇 sci 论文 (第一作者)，毕业典礼上表示希望五年博士毕业后回到母校工作？](https://www.zhihu.com/question/607703486)<br />
 8. [如果某个人在其他人发表任何观点时都回复「这只是 TA 的个人观点」，该如何和他正常交流？](https://www.zhihu.com/question/608126713)<br />
-9. [某一位同事被辞退明天就走了，今天给他分配任务不理我了，我错了吗？](https://www.zhihu.com/question/607636838)<br />
+9. [如果分数只是擦边进 985211 院校，那是保住 985211 的学历还是选普通本科大学自己喜欢的专业读？](https://www.zhihu.com/question/606739185)<br />
 
 > 百度  
 
