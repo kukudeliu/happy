@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 03:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 03:54:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [2023 江苏高考成绩公布，你考得怎么样？可以说说你的分数和心情吗？](https://www.zhihu.com/question/607974209)<br />
 5. []()<br />
 6. []()<br />
-7. [夏天宅家必备的电风扇，有什么推荐吗？](https://www.zhihu.com/question/603624207)<br />
-8. []()<br />
-9. [如何评价《中国说唱巅峰对决 2023》第八期？](https://www.zhihu.com/question/608288763)<br />
+7. []()<br />
+8. [如何评价《中国说唱巅峰对决 2023》第八期？](https://www.zhihu.com/question/608288763)<br />
+9. [夏天宅家必备的电风扇，有什么推荐吗？](https://www.zhihu.com/question/603624207)<br />
 
 > 百度  
 
@@ -32,9 +32,9 @@
 4. [大地诗篇](https://www.baidu.com/s?wd=%E5%A4%A7%E5%9C%B0%E8%AF%97%E7%AF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [瓦格纳逼近 莫斯科公共建筑人员疏散](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%80%BC%E8%BF%91+%E8%8E%AB%E6%96%AF%E7%A7%91%E5%85%AC%E5%85%B1%E5%BB%BA%E7%AD%91%E4%BA%BA%E5%91%98%E7%96%8F%E6%95%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [普京与多国领导人通话介绍局势](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%B8%8E%E5%A4%9A%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%80%9A%E8%AF%9D%E4%BB%8B%E7%BB%8D%E5%B1%80%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [复读女生涨61分坐地嚎啕大哭](https://www.baidu.com/s?wd=%E5%A4%8D%E8%AF%BB%E5%A5%B3%E7%94%9F%E6%B6%A861%E5%88%86%E5%9D%90%E5%9C%B0%E5%9A%8E%E5%95%95%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [家长以为中考管饭送完孩子去郊游](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E4%BB%A5%E4%B8%BA%E4%B8%AD%E8%80%83%E7%AE%A1%E9%A5%AD%E9%80%81%E5%AE%8C%E5%AD%A9%E5%AD%90%E5%8E%BB%E9%83%8A%E6%B8%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男生得知好友仅609分后瞬间弹起](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E5%BE%97%E7%9F%A5%E5%A5%BD%E5%8F%8B%E4%BB%85609%E5%88%86%E5%90%8E%E7%9E%AC%E9%97%B4%E5%BC%B9%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [家长以为中考管饭送完孩子去郊游](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E4%BB%A5%E4%B8%BA%E4%B8%AD%E8%80%83%E7%AE%A1%E9%A5%AD%E9%80%81%E5%AE%8C%E5%AD%A9%E5%AD%90%E5%8E%BB%E9%83%8A%E6%B8%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [复读女生涨61分坐地嚎啕大哭](https://www.baidu.com/s?wd=%E5%A4%8D%E8%AF%BB%E5%A5%B3%E7%94%9F%E6%B6%A861%E5%88%86%E5%9D%90%E5%9C%B0%E5%9A%8E%E5%95%95%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [雷佳音误踩赵丽颖裙子引热议](https://www.baidu.com/s?wd=%E9%9B%B7%E4%BD%B3%E9%9F%B3%E8%AF%AF%E8%B8%A9%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%A3%99%E5%AD%90%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [大地诗篇](https://www.baidu.com/s?wd=%E5%A4%A7%E5%9C%B0%E8%AF%97%E7%AF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [瓦格纳逼近 莫斯科公共建筑人员疏散](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%80%BC%E8%BF%91+%E8%8E%AB%E6%96%AF%E7%A7%91%E5%85%AC%E5%85%B1%E5%BB%BA%E7%AD%91%E4%BA%BA%E5%91%98%E7%96%8F%E6%95%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [普京与多国领导人通话介绍局势](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%B8%8E%E5%A4%9A%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%80%9A%E8%AF%9D%E4%BB%8B%E7%BB%8D%E5%B1%80%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [复读女生涨61分坐地嚎啕大哭](https://www.baidu.com/s?wd=%E5%A4%8D%E8%AF%BB%E5%A5%B3%E7%94%9F%E6%B6%A861%E5%88%86%E5%9D%90%E5%9C%B0%E5%9A%8E%E5%95%95%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [家长以为中考管饭送完孩子去郊游](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E4%BB%A5%E4%B8%BA%E4%B8%AD%E8%80%83%E7%AE%A1%E9%A5%AD%E9%80%81%E5%AE%8C%E5%AD%A9%E5%AD%90%E5%8E%BB%E9%83%8A%E6%B8%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男生得知好友仅609分后瞬间弹起](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E5%BE%97%E7%9F%A5%E5%A5%BD%E5%8F%8B%E4%BB%85609%E5%88%86%E5%90%8E%E7%9E%AC%E9%97%B4%E5%BC%B9%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [家长以为中考管饭送完孩子去郊游](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E4%BB%A5%E4%B8%BA%E4%B8%AD%E8%80%83%E7%AE%A1%E9%A5%AD%E9%80%81%E5%AE%8C%E5%AD%A9%E5%AD%90%E5%8E%BB%E9%83%8A%E6%B8%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [复读女生涨61分坐地嚎啕大哭](https://www.baidu.com/s?wd=%E5%A4%8D%E8%AF%BB%E5%A5%B3%E7%94%9F%E6%B6%A861%E5%88%86%E5%9D%90%E5%9C%B0%E5%9A%8E%E5%95%95%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [雷佳音误踩赵丽颖裙子引热议](https://www.baidu.com/s?wd=%E9%9B%B7%E4%BD%B3%E9%9F%B3%E8%AF%AF%E8%B8%A9%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%A3%99%E5%AD%90%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
