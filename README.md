@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 18:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 18:08:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [银川爆炸事故4名犯罪嫌疑人被刑拘](https://s.weibo.com/weibo?q=%23%E9%93%B6%E5%B7%9D%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%854%E5%90%8D%E7%8A%AF%E7%BD%AA%E5%AB%8C%E7%96%91%E4%BA%BA%E8%A2%AB%E5%88%91%E6%8B%98%23&t=31&band_rank=4&Refer=top)<br />
 5. [班主任查出学生704分拍手大喊哎呦](https://s.weibo.com/weibo?q=%23%E7%8F%AD%E4%B8%BB%E4%BB%BB%E6%9F%A5%E5%87%BA%E5%AD%A6%E7%94%9F704%E5%88%86%E6%8B%8D%E6%89%8B%E5%A4%A7%E5%96%8A%E5%93%8E%E5%91%A6%23&t=31&band_rank=5&Refer=top)<br />
 6. [瓦格纳集团回应普京讲话](https://s.weibo.com/weibo?q=%23%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%9B%86%E5%9B%A2%E5%9B%9E%E5%BA%94%E6%99%AE%E4%BA%AC%E8%AE%B2%E8%AF%9D%23&t=31&band_rank=6&Refer=top)<br />
-7. [店主门口花盆里发现一沓20元报警](https://s.weibo.com/weibo?q=%23%E5%BA%97%E4%B8%BB%E9%97%A8%E5%8F%A3%E8%8A%B1%E7%9B%86%E9%87%8C%E5%8F%91%E7%8E%B0%E4%B8%80%E6%B2%9320%E5%85%83%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=7&Refer=top)<br />
-8. [车臣部队已准备好帮助镇压叛乱](https://s.weibo.com/weibo?q=%23%E8%BD%A6%E8%87%A3%E9%83%A8%E9%98%9F%E5%B7%B2%E5%87%86%E5%A4%87%E5%A5%BD%E5%B8%AE%E5%8A%A9%E9%95%87%E5%8E%8B%E5%8F%9B%E4%B9%B1%23&t=31&band_rank=8&Refer=top)<br />
-9. [白敬亭女团舞](https://s.weibo.com/weibo?q=%E7%99%BD%E6%95%AC%E4%BA%AD%E5%A5%B3%E5%9B%A2%E8%88%9E&t=31&band_rank=9&Refer=top)<br />
+7. [车臣部队已准备好帮助镇压叛乱](https://s.weibo.com/weibo?q=%23%E8%BD%A6%E8%87%A3%E9%83%A8%E9%98%9F%E5%B7%B2%E5%87%86%E5%A4%87%E5%A5%BD%E5%B8%AE%E5%8A%A9%E9%95%87%E5%8E%8B%E5%8F%9B%E4%B9%B1%23&t=31&band_rank=7&Refer=top)<br />
+8. [白敬亭女团舞](https://s.weibo.com/weibo?q=%E7%99%BD%E6%95%AC%E4%BA%AD%E5%A5%B3%E5%9B%A2%E8%88%9E&t=31&band_rank=8&Refer=top)<br />
+9. [瓦格纳称已控制罗斯托夫地区军用设施](https://s.weibo.com/weibo?q=%23%E7%93%A6%E6%A0%BC%E7%BA%B3%E7%A7%B0%E5%B7%B2%E6%8E%A7%E5%88%B6%E7%BD%97%E6%96%AF%E6%89%98%E5%A4%AB%E5%9C%B0%E5%8C%BA%E5%86%9B%E7%94%A8%E8%AE%BE%E6%96%BD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -18,11 +18,11 @@
 2. [普京发表讲话称俄罗斯正为未来开展「最复杂的战斗」，不会让俄罗斯分裂，反叛者会受惩罚，哪些信息值得关注？](https://www.zhihu.com/question/608260419)<br />
 3. [华北多地高温，北京连续 40℃ 破纪录，为何北方比南方更热？](https://www.zhihu.com/question/608255644)<br />
 4. [如何评价《原神》枫丹版本的部分美术设计为甜美魔幻风，而非蒸汽朋克？](https://www.zhihu.com/question/608230338)<br />
-5. [乌龟养熟的表现有哪些？](https://www.zhihu.com/question/597512707)<br />
-6. [2023 年高考结束后，大学选什么专业好？](https://www.zhihu.com/question/603802531)<br />
-7. []()<br />
-8. [为什么教培机构对退休教师不认可？](https://www.zhihu.com/question/588498394)<br />
-9. [普里戈任称瓦格纳已控制罗斯托夫地区包括机场在内的军用设施，这意味着什么？此举对俄乌局势起到什么影响？](https://www.zhihu.com/question/608251555)<br />
+5. [2023 年高考结束后，大学选什么专业好？](https://www.zhihu.com/question/603802531)<br />
+6. []()<br />
+7. [为什么教培机构对退休教师不认可？](https://www.zhihu.com/question/588498394)<br />
+8. [乌龟养熟的表现有哪些？](https://www.zhihu.com/question/597512707)<br />
+9. [市面上的玻璃到底有铅没铅？](https://www.zhihu.com/question/606342982)<br />
 
 > 百度  
 
