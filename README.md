@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 20:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 20:35:01</h4></div>
 
 > 微博  
 
@@ -19,8 +19,8 @@
 3. [宁夏银川烧烤店燃气爆炸事故 4 名犯罪嫌疑人被刑拘，从法律角度，他们将受到哪些处罚？](https://www.zhihu.com/question/608287472)<br />
 4. [外国人一般是怎么给自己取中文名的？有没有什么比较奇葩的中文名？](https://www.zhihu.com/question/26546359)<br />
 5. [报考电竞专业是不是就能天天打游戏？](https://www.zhihu.com/theater/93769)<br />
-6. [医学没有民用和军用之分，那么军医大学是否有存在的意义？](https://www.zhihu.com/question/607620757)<br />
-7. [猫用饮水机真的有用吗？](https://www.zhihu.com/question/314321800)<br />
+6. [猫用饮水机真的有用吗？](https://www.zhihu.com/question/314321800)<br />
+7. [医学没有民用和军用之分，那么军医大学是否有存在的意义？](https://www.zhihu.com/question/607620757)<br />
 8. [华北多地高温，北京连续 40℃ 破纪录，为何北方比南方更热？](https://www.zhihu.com/question/608255644)<br />
 9. [如果重回大一学法学，你会做什么？](https://www.zhihu.com/question/600551602)<br />
 
