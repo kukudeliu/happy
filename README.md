@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 12:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 12:33:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [赵丽颖 戴比尔斯](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%20%E6%88%B4%E6%AF%94%E5%B0%94%E6%96%AF&t=31&band_rank=5&Refer=top)<br />
 6. [炎亚纶 还好没有我的脸](https://s.weibo.com/weibo?q=%E7%82%8E%E4%BA%9A%E7%BA%B6%20%E8%BF%98%E5%A5%BD%E6%B2%A1%E6%9C%89%E6%88%91%E7%9A%84%E8%84%B8&t=31&band_rank=6&Refer=top)<br />
 7. [瓦格纳创始人否认试图发动武装叛乱](https://s.weibo.com/weibo?q=%23%E7%93%A6%E6%A0%BC%E7%BA%B3%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%90%A6%E8%AE%A4%E8%AF%95%E5%9B%BE%E5%8F%91%E5%8A%A8%E6%AD%A6%E8%A3%85%E5%8F%9B%E4%B9%B1%23&t=31&band_rank=7&Refer=top)<br />
-8. [姚景元高考分数401](https://s.weibo.com/weibo?q=%23%E5%A7%9A%E6%99%AF%E5%85%83%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0401%23&t=31&band_rank=8&Refer=top)<br />
-9. [白敬亭第一次不爱鞋](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B8%8D%E7%88%B1%E9%9E%8B%23&t=31&band_rank=9&Refer=top)<br />
+8. [白敬亭第一次不爱鞋](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B8%8D%E7%88%B1%E9%9E%8B%23&t=31&band_rank=8&Refer=top)<br />
+9. [姚景元高考分数401](https://s.weibo.com/weibo?q=%23%E5%A7%9A%E6%99%AF%E5%85%83%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0401%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -21,7 +21,7 @@
 5. [近年来很多新能源汽车都把方向盘设计成了异形，这种设计对驾驶安全有影响吗？](https://www.zhihu.com/question/607651537)<br />
 6. [《原神》3.8 前瞻，优菈时隔 500 多天再次复刻，本次卡池流水会十分可观吗？](https://www.zhihu.com/question/608180664)<br />
 7. [为什么有人认为做单机就是坚持梦想，做手游就是自甘堕落?](https://www.zhihu.com/question/607685693)<br />
-8. [伦敦召开乌克兰重建国际会议，英国承诺未来三年内长期支援，释放了什么信号？](https://www.zhihu.com/question/607977808)<br />
+8. []()<br />
 9. []()<br />
 
 > 百度  
