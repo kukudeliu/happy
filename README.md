@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 08:01:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 08:02:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [全国各地高考分数线汇总](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E5%90%84%E5%9C%B0%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E6%B1%87%E6%80%BB%23&t=31&band_rank=3&Refer=top)<br />
 4. [吴越 白玉兰视后](https://s.weibo.com/weibo?q=%E5%90%B4%E8%B6%8A%20%E7%99%BD%E7%8E%89%E5%85%B0%E8%A7%86%E5%90%8E&t=31&band_rank=4&Refer=top)<br />
 5. [北部湾发生5级地震](https://s.weibo.com/weibo?q=%23%E5%8C%97%E9%83%A8%E6%B9%BE%E5%8F%91%E7%94%9F5%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=5&Refer=top)<br />
-6. [鹿晗演唱会上不敢读的灯牌](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E4%B8%8D%E6%95%A2%E8%AF%BB%E7%9A%84%E7%81%AF%E7%89%8C%23&t=31&band_rank=6&Refer=top)<br />
-7. [赵丽颖从继续熬到继续跑](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E4%BB%8E%E7%BB%A7%E7%BB%AD%E7%86%AC%E5%88%B0%E7%BB%A7%E7%BB%AD%E8%B7%91%23&t=31&band_rank=7&Refer=top)<br />
-8. [外星人](https://s.weibo.com/weibo?q=%E5%A4%96%E6%98%9F%E4%BA%BA&t=31&band_rank=8&Refer=top)<br />
-9. [赵丽颖白玉兰获奖感言](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%99%BD%E7%8E%89%E5%85%B0%E8%8E%B7%E5%A5%96%E6%84%9F%E8%A8%80%23&t=31&band_rank=9&Refer=top)<br />
+6. [赵丽颖从继续熬到继续跑](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E4%BB%8E%E7%BB%A7%E7%BB%AD%E7%86%AC%E5%88%B0%E7%BB%A7%E7%BB%AD%E8%B7%91%23&t=31&band_rank=6&Refer=top)<br />
+7. [鹿晗演唱会上不敢读的灯牌](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E4%B8%8D%E6%95%A2%E8%AF%BB%E7%9A%84%E7%81%AF%E7%89%8C%23&t=31&band_rank=7&Refer=top)<br />
+8. [赵丽颖白玉兰获奖感言](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%99%BD%E7%8E%89%E5%85%B0%E8%8E%B7%E5%A5%96%E6%84%9F%E8%A8%80%23&t=31&band_rank=8&Refer=top)<br />
+9. [瓦格纳](https://s.weibo.com/weibo?q=%23%E7%93%A6%E6%A0%BC%E7%BA%B3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -18,10 +18,10 @@
 2. [如何评价西南大学本科生发表五篇 sci 论文 (第一作者)，毕业典礼上表示希望五年博士毕业后回到母校工作？](https://www.zhihu.com/question/607703486)<br />
 3. [因为端午礼品问题和女朋友吵架分手，请大家看看是我反应过度了吗？](https://www.zhihu.com/question/607441090)<br />
 4. [布林肯称美将宣布新的对乌军事支持计划，透露了哪些信息？](https://www.zhihu.com/question/607773006)<br />
-5. [韩国环境部已批准「萨德」基地环评报告，基建工作将全面启动，「萨德」部署后将造成哪些影响？](https://www.zhihu.com/question/608002674)<br />
-6. []()<br />
-7. [6 月 22 日比特币大涨，站上 30000 美元关口，为近两月以来首次，释放了哪些信号？](https://www.zhihu.com/question/607964858)<br />
-8. [2023 云南高考分数线一本文 530 降 45 分，理 485 降 30 分，创十年新低，如何评价？](https://www.zhihu.com/question/607974372)<br />
+5. [志愿填报一窍不通，怎么办？](https://www.zhihu.com/question/595485450)<br />
+6. [韩国环境部已批准「萨德」基地环评报告，基建工作将全面启动，「萨德」部署后将造成哪些影响？](https://www.zhihu.com/question/608002674)<br />
+7. []()<br />
+8. [6 月 22 日比特币大涨，站上 30000 美元关口，为近两月以来首次，释放了哪些信号？](https://www.zhihu.com/question/607964858)<br />
 9. [如何评价 Uzi 在 2023 年复出后的表现？](https://www.zhihu.com/question/608011699)<br />
 
 > 百度  
@@ -32,9 +32,9 @@
 4. [沉浸式游览中国美丽乡村](https://www.baidu.com/s?wd=%E6%B2%89%E6%B5%B8%E5%BC%8F%E6%B8%B8%E8%A7%88%E4%B8%AD%E5%9B%BD%E7%BE%8E%E4%B8%BD%E4%B9%A1%E6%9D%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [俄国防部否认袭击俄雇佣军营地](https://www.baidu.com/s?wd=%E4%BF%84%E5%9B%BD%E9%98%B2%E9%83%A8%E5%90%A6%E8%AE%A4%E8%A2%AD%E5%87%BB%E4%BF%84%E9%9B%87%E4%BD%A3%E5%86%9B%E8%90%A5%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [俄首都莫斯科已加强安全措施](https://www.baidu.com/s?wd=%E4%BF%84%E9%A6%96%E9%83%BD%E8%8E%AB%E6%96%AF%E7%A7%91%E5%B7%B2%E5%8A%A0%E5%BC%BA%E5%AE%89%E5%85%A8%E6%8E%AA%E6%96%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [外星人或利用超新星爆炸引人类注意](https://www.baidu.com/s?wd=%E5%A4%96%E6%98%9F%E4%BA%BA%E6%88%96%E5%88%A9%E7%94%A8%E8%B6%85%E6%96%B0%E6%98%9F%E7%88%86%E7%82%B8%E5%BC%95%E4%BA%BA%E7%B1%BB%E6%B3%A8%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [梁实第27次高考424分 未达二本线](https://www.baidu.com/s?wd=%E6%A2%81%E5%AE%9E%E7%AC%AC27%E6%AC%A1%E9%AB%98%E8%80%83424%E5%88%86+%E6%9C%AA%E8%BE%BE%E4%BA%8C%E6%9C%AC%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [白玉兰完整名单出炉：狂飙挂零陪跑](https://www.baidu.com/s?wd=%E7%99%BD%E7%8E%89%E5%85%B0%E5%AE%8C%E6%95%B4%E5%90%8D%E5%8D%95%E5%87%BA%E7%82%89%EF%BC%9A%E7%8B%82%E9%A3%99%E6%8C%82%E9%9B%B6%E9%99%AA%E8%B7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女生高考712分 查完分就睡觉](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83712%E5%88%86+%E6%9F%A5%E5%AE%8C%E5%88%86%E5%B0%B1%E7%9D%A1%E8%A7%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [宁夏爆炸事故：一毕业大学生遇难](https://www.baidu.com/s?wd=%E5%AE%81%E5%A4%8F%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%EF%BC%9A%E4%B8%80%E6%AF%95%E4%B8%9A%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [外星人或利用超新星爆炸引人类注意](https://www.baidu.com/s?wd=%E5%A4%96%E6%98%9F%E4%BA%BA%E6%88%96%E5%88%A9%E7%94%A8%E8%B6%85%E6%96%B0%E6%98%9F%E7%88%86%E7%82%B8%E5%BC%95%E4%BA%BA%E7%B1%BB%E6%B3%A8%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [沉浸式游览中国美丽乡村](https://www.baidu.com/s?wd=%E6%B2%89%E6%B5%B8%E5%BC%8F%E6%B8%B8%E8%A7%88%E4%B8%AD%E5%9B%BD%E7%BE%8E%E4%B8%BD%E4%B9%A1%E6%9D%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [俄国防部否认袭击俄雇佣军营地](https://www.baidu.com/s?wd=%E4%BF%84%E5%9B%BD%E9%98%B2%E9%83%A8%E5%90%A6%E8%AE%A4%E8%A2%AD%E5%87%BB%E4%BF%84%E9%9B%87%E4%BD%A3%E5%86%9B%E8%90%A5%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [俄首都莫斯科已加强安全措施](https://www.baidu.com/s?wd=%E4%BF%84%E9%A6%96%E9%83%BD%E8%8E%AB%E6%96%AF%E7%A7%91%E5%B7%B2%E5%8A%A0%E5%BC%BA%E5%AE%89%E5%85%A8%E6%8E%AA%E6%96%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [外星人或利用超新星爆炸引人类注意](https://www.baidu.com/s?wd=%E5%A4%96%E6%98%9F%E4%BA%BA%E6%88%96%E5%88%A9%E7%94%A8%E8%B6%85%E6%96%B0%E6%98%9F%E7%88%86%E7%82%B8%E5%BC%95%E4%BA%BA%E7%B1%BB%E6%B3%A8%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [梁实第27次高考424分 未达二本线](https://www.baidu.com/s?wd=%E6%A2%81%E5%AE%9E%E7%AC%AC27%E6%AC%A1%E9%AB%98%E8%80%83424%E5%88%86+%E6%9C%AA%E8%BE%BE%E4%BA%8C%E6%9C%AC%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [白玉兰完整名单出炉：狂飙挂零陪跑](https://www.baidu.com/s?wd=%E7%99%BD%E7%8E%89%E5%85%B0%E5%AE%8C%E6%95%B4%E5%90%8D%E5%8D%95%E5%87%BA%E7%82%89%EF%BC%9A%E7%8B%82%E9%A3%99%E6%8C%82%E9%9B%B6%E9%99%AA%E8%B7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女生高考712分 查完分就睡觉](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83712%E5%88%86+%E6%9F%A5%E5%AE%8C%E5%88%86%E5%B0%B1%E7%9D%A1%E8%A7%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [宁夏爆炸事故：一毕业大学生遇难](https://www.baidu.com/s?wd=%E5%AE%81%E5%A4%8F%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%EF%BC%9A%E4%B8%80%E6%AF%95%E4%B8%9A%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [外星人或利用超新星爆炸引人类注意](https://www.baidu.com/s?wd=%E5%A4%96%E6%98%9F%E4%BA%BA%E6%88%96%E5%88%A9%E7%94%A8%E8%B6%85%E6%96%B0%E6%98%9F%E7%88%86%E7%82%B8%E5%BC%95%E4%BA%BA%E7%B1%BB%E6%B3%A8%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
