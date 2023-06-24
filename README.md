@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 11:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 11:49:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [女儿587分 老爸直呼“祖坟冒烟喽”](https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF587%E5%88%86+%E8%80%81%E7%88%B8%E7%9B%B4%E5%91%BC%E2%80%9C%E7%A5%96%E5%9D%9F%E5%86%92%E7%83%9F%E5%96%BD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [高考709分 老师大喊“天啊”](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83709%E5%88%86+%E8%80%81%E5%B8%88%E5%A4%A7%E5%96%8A%E2%80%9C%E5%A4%A9%E5%95%8A%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [寻子22年雷公第二次DNA匹配成功](https://www.baidu.com/s?wd=%E5%AF%BB%E5%AD%9022%E5%B9%B4%E9%9B%B7%E5%85%AC%E7%AC%AC%E4%BA%8C%E6%AC%A1DNA%E5%8C%B9%E9%85%8D%E6%88%90%E5%8A%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [莫斯科加强安全措施 街头直击](https://www.baidu.com/s?wd=%E8%8E%AB%E6%96%AF%E7%A7%91%E5%8A%A0%E5%BC%BA%E5%AE%89%E5%85%A8%E6%8E%AA%E6%96%BD+%E8%A1%97%E5%A4%B4%E7%9B%B4%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [炎亚纶 还好没有我的脸](https://www.baidu.com/s?wd=%E7%82%8E%E4%BA%9A%E7%BA%B6+%E8%BF%98%E5%A5%BD%E6%B2%A1%E6%9C%89%E6%88%91%E7%9A%84%E8%84%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [女儿587分 老爸直呼“祖坟冒烟喽”](https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF587%E5%88%86+%E8%80%81%E7%88%B8%E7%9B%B4%E5%91%BC%E2%80%9C%E7%A5%96%E5%9D%9F%E5%86%92%E7%83%9F%E5%96%BD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [高考709分 老师大喊“天啊”](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83709%E5%88%86+%E8%80%81%E5%B8%88%E5%A4%A7%E5%96%8A%E2%80%9C%E5%A4%A9%E5%95%8A%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [寻子22年雷公第二次DNA匹配成功](https://www.baidu.com/s?wd=%E5%AF%BB%E5%AD%9022%E5%B9%B4%E9%9B%B7%E5%85%AC%E7%AC%AC%E4%BA%8C%E6%AC%A1DNA%E5%8C%B9%E9%85%8D%E6%88%90%E5%8A%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [莫斯科加强安全措施 街头直击](https://www.baidu.com/s?wd=%E8%8E%AB%E6%96%AF%E7%A7%91%E5%8A%A0%E5%BC%BA%E5%AE%89%E5%85%A8%E6%8E%AA%E6%96%BD+%E8%A1%97%E5%A4%B4%E7%9B%B4%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [炎亚纶 还好没有我的脸](https://www.baidu.com/s?wd=%E7%82%8E%E4%BA%9A%E7%BA%B6+%E8%BF%98%E5%A5%BD%E6%B2%A1%E6%9C%89%E6%88%91%E7%9A%84%E8%84%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
