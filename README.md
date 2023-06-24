@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 20:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 20:12:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [车臣](https://s.weibo.com/weibo?q=%E8%BD%A6%E8%87%A3&t=31&band_rank=4&Refer=top)<br />
 5. [复读女生涨61分坐地嚎啕大哭](https://s.weibo.com/weibo?q=%23%E5%A4%8D%E8%AF%BB%E5%A5%B3%E7%94%9F%E6%B6%A861%E5%88%86%E5%9D%90%E5%9C%B0%E5%9A%8E%E5%95%95%E5%A4%A7%E5%93%AD%23&t=31&band_rank=5&Refer=top)<br />
 6. [看消失的她 恋爱脑治好了](https://s.weibo.com/weibo?q=%E7%9C%8B%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%20%E6%81%8B%E7%88%B1%E8%84%91%E6%B2%BB%E5%A5%BD%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
-7. [披荆斩棘的哥哥](https://s.weibo.com/weibo?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E7%9A%84%E5%93%A5%E5%93%A5&t=31&band_rank=7&Refer=top)<br />
-8. [瓦格纳集团称内战已经正式开始](https://s.weibo.com/weibo?q=%23%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%9B%86%E5%9B%A2%E7%A7%B0%E5%86%85%E6%88%98%E5%B7%B2%E7%BB%8F%E6%AD%A3%E5%BC%8F%E5%BC%80%E5%A7%8B%23&t=31&band_rank=8&Refer=top)<br />
+7. [瓦格纳集团称内战已经正式开始](https://s.weibo.com/weibo?q=%23%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%9B%86%E5%9B%A2%E7%A7%B0%E5%86%85%E6%88%98%E5%B7%B2%E7%BB%8F%E6%AD%A3%E5%BC%8F%E5%BC%80%E5%A7%8B%23&t=31&band_rank=7&Refer=top)<br />
+8. [披荆斩棘的哥哥](https://s.weibo.com/weibo?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E7%9A%84%E5%93%A5%E5%93%A5&t=31&band_rank=8&Refer=top)<br />
 9. [宋轶直播](https://s.weibo.com/weibo?q=%E5%AE%8B%E8%BD%B6%E7%9B%B4%E6%92%AD&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -19,10 +19,10 @@
 3. [医学没有民用和军用之分，那么军医大学是否有存在的意义？](https://www.zhihu.com/question/607620757)<br />
 4. [2023 福建高考成绩公布，你考得怎么样？可以说说你的分数和心情吗？](https://www.zhihu.com/question/607974295)<br />
 5. [报考电竞专业是不是就能天天打游戏？](https://www.zhihu.com/theater/93769)<br />
-6. [外国人一般是怎么给自己取中文名的？有没有什么比较奇葩的中文名？](https://www.zhihu.com/question/26546359)<br />
-7. [普里戈任称瓦格纳已控制罗斯托夫地区包括机场在内的军用设施，这意味着什么？此举对俄乌局势起到什么影响？](https://www.zhihu.com/question/608251555)<br />
-8. [高考完了，大家有什么闲书推荐吗？](https://www.zhihu.com/question/606677754)<br />
-9. [华北多地高温，北京连续 40℃ 破纪录，为何北方比南方更热？](https://www.zhihu.com/question/608255644)<br />
+6. []()<br />
+7. [外国人一般是怎么给自己取中文名的？有没有什么比较奇葩的中文名？](https://www.zhihu.com/question/26546359)<br />
+8. [普里戈任称瓦格纳已控制罗斯托夫地区包括机场在内的军用设施，这意味着什么？此举对俄乌局势起到什么影响？](https://www.zhihu.com/question/608251555)<br />
+9. [高考完了，大家有什么闲书推荐吗？](https://www.zhihu.com/question/606677754)<br />
 
 > 百度  
 
