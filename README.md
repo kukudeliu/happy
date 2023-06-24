@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 15:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 15:35:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [4070Ti 能战 5 年吗？](https://www.zhihu.com/question/599118671)<br />
 5. [想和猫咪拍照，猫咪不配合怎么办？](https://www.zhihu.com/question/421786821)<br />
 6. [没文化可以教育好孩子吗？](https://www.zhihu.com/question/606881570)<br />
-7. [吴越凭借《县委大院》中「艾鲜枝」一角获第 28 届白玉兰奖获得最佳女主角，如何评价她的演技？](https://www.zhihu.com/question/608163030)<br />
-8. [电影《消失的她》里何非到底是怎样的一个人?](https://www.zhihu.com/question/607967579)<br />
-9. [近年来很多新能源汽车都把方向盘设计成了异形，这种设计对驾驶安全有影响吗？](https://www.zhihu.com/question/607651537)<br />
+7. [考研期间，每天坐在自习室长达八九甚至十个多小时的同学们，你们是如何做到集中注意力和精力学习的？](https://www.zhihu.com/question/58537581)<br />
+8. [吴越凭借《县委大院》中「艾鲜枝」一角获第 28 届白玉兰奖获得最佳女主角，如何评价她的演技？](https://www.zhihu.com/question/608163030)<br />
+9. [电影《消失的她》里何非到底是怎样的一个人?](https://www.zhihu.com/question/607967579)<br />
 
 > 百度  
 
