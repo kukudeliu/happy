@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 18:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 18:57:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [班主任查出学生704分拍手大喊哎呦](https://s.weibo.com/weibo?q=%23%E7%8F%AD%E4%B8%BB%E4%BB%BB%E6%9F%A5%E5%87%BA%E5%AD%A6%E7%94%9F704%E5%88%86%E6%8B%8D%E6%89%8B%E5%A4%A7%E5%96%8A%E5%93%8E%E5%91%A6%23&t=31&band_rank=5&Refer=top)<br />
 6. [看消失的她 恋爱脑治好了](https://s.weibo.com/weibo?q=%E7%9C%8B%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%20%E6%81%8B%E7%88%B1%E8%84%91%E6%B2%BB%E5%A5%BD%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [婆婆连续3年给儿媳做午餐便当盲盒](https://s.weibo.com/weibo?q=%23%E5%A9%86%E5%A9%86%E8%BF%9E%E7%BB%AD3%E5%B9%B4%E7%BB%99%E5%84%BF%E5%AA%B3%E5%81%9A%E5%8D%88%E9%A4%90%E4%BE%BF%E5%BD%93%E7%9B%B2%E7%9B%92%23&t=31&band_rank=7&Refer=top)<br />
-8. [银川爆炸事故4名犯罪嫌疑人被刑拘](https://s.weibo.com/weibo?q=%23%E9%93%B6%E5%B7%9D%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%854%E5%90%8D%E7%8A%AF%E7%BD%AA%E5%AB%8C%E7%96%91%E4%BA%BA%E8%A2%AB%E5%88%91%E6%8B%98%23&t=31&band_rank=8&Refer=top)<br />
-9. [我离职5年的公司打电话让我去领钱](https://s.weibo.com/weibo?q=%E6%88%91%E7%A6%BB%E8%81%8C5%E5%B9%B4%E7%9A%84%E5%85%AC%E5%8F%B8%E6%89%93%E7%94%B5%E8%AF%9D%E8%AE%A9%E6%88%91%E5%8E%BB%E9%A2%86%E9%92%B1&t=31&band_rank=9&Refer=top)<br />
+8. [我离职5年的公司打电话让我去领钱](https://s.weibo.com/weibo?q=%E6%88%91%E7%A6%BB%E8%81%8C5%E5%B9%B4%E7%9A%84%E5%85%AC%E5%8F%B8%E6%89%93%E7%94%B5%E8%AF%9D%E8%AE%A9%E6%88%91%E5%8E%BB%E9%A2%86%E9%92%B1&t=31&band_rank=8&Refer=top)<br />
+9. [银川爆炸事故4名犯罪嫌疑人被刑拘](https://s.weibo.com/weibo?q=%23%E9%93%B6%E5%B7%9D%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%854%E5%90%8D%E7%8A%AF%E7%BD%AA%E5%AB%8C%E7%96%91%E4%BA%BA%E8%A2%AB%E5%88%91%E6%8B%98%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
