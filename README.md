@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 13:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 13:24:01</h4></div>
 
 > 微博  
 
@@ -31,10 +31,10 @@
 3. [女生高考712分 查完分就睡觉](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83712%E5%88%86+%E6%9F%A5%E5%AE%8C%E5%88%86%E5%B0%B1%E7%9D%A1%E8%A7%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [让传统佳节推陈出新](https://www.baidu.com/s?wd=%E8%AE%A9%E4%BC%A0%E7%BB%9F%E4%BD%B3%E8%8A%82%E6%8E%A8%E9%99%88%E5%87%BA%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [形势突变，考验普京的时候到了](https://www.baidu.com/s?wd=%E5%BD%A2%E5%8A%BF%E7%AA%81%E5%8F%98%EF%BC%8C%E8%80%83%E9%AA%8C%E6%99%AE%E4%BA%AC%E7%9A%84%E6%97%B6%E5%80%99%E5%88%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [无人机版“飞龙在天”震撼全网](https://www.baidu.com/s?wd=%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%89%88%E2%80%9C%E9%A3%9E%E9%BE%99%E5%9C%A8%E5%A4%A9%E2%80%9D%E9%9C%87%E6%92%BC%E5%85%A8%E7%BD%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [国泰航空客机中止起飞 11名乘客受伤](https://www.baidu.com/s?wd=%E5%9B%BD%E6%B3%B0%E8%88%AA%E7%A9%BA%E5%AE%A2%E6%9C%BA%E4%B8%AD%E6%AD%A2%E8%B5%B7%E9%A3%9E+11%E5%90%8D%E4%B9%98%E5%AE%A2%E5%8F%97%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [一家16口聚餐时疑遭投毒 警方介入](https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B616%E5%8F%A3%E8%81%9A%E9%A4%90%E6%97%B6%E7%96%91%E9%81%AD%E6%8A%95%E6%AF%92+%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [瓦格纳创始人否认试图发动武装叛乱](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%90%A6%E8%AE%A4%E8%AF%95%E5%9B%BE%E5%8F%91%E5%8A%A8%E6%AD%A6%E8%A3%85%E5%8F%9B%E4%B9%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [高考709分 老师大喊“天啊”](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83709%E5%88%86+%E8%80%81%E5%B8%88%E5%A4%A7%E5%96%8A%E2%80%9C%E5%A4%A9%E5%95%8A%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [瓦格纳：已控制罗斯托夫军用设施](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%EF%BC%9A%E5%B7%B2%E6%8E%A7%E5%88%B6%E7%BD%97%E6%96%AF%E6%89%98%E5%A4%AB%E5%86%9B%E7%94%A8%E8%AE%BE%E6%96%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [国泰航空客机中止起飞 11名乘客受伤](https://www.baidu.com/s?wd=%E5%9B%BD%E6%B3%B0%E8%88%AA%E7%A9%BA%E5%AE%A2%E6%9C%BA%E4%B8%AD%E6%AD%A2%E8%B5%B7%E9%A3%9E+11%E5%90%8D%E4%B9%98%E5%AE%A2%E5%8F%97%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [一家16口聚餐时疑遭投毒 警方介入](https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B616%E5%8F%A3%E8%81%9A%E9%A4%90%E6%97%B6%E7%96%91%E9%81%AD%E6%8A%95%E6%AF%92+%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [女生高考712分 查完分就睡觉](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83712%E5%88%86+%E6%9F%A5%E5%AE%8C%E5%88%86%E5%B0%B1%E7%9D%A1%E8%A7%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [让传统佳节推陈出新](https://www.baidu.com/s?wd=%E8%AE%A9%E4%BC%A0%E7%BB%9F%E4%BD%B3%E8%8A%82%E6%8E%A8%E9%99%88%E5%87%BA%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [形势突变，考验普京的时候到了](https://www.baidu.com/s?wd=%E5%BD%A2%E5%8A%BF%E7%AA%81%E5%8F%98%EF%BC%8C%E8%80%83%E9%AA%8C%E6%99%AE%E4%BA%AC%E7%9A%84%E6%97%B6%E5%80%99%E5%88%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [无人机版“飞龙在天”震撼全网](https://www.baidu.com/s?wd=%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%89%88%E2%80%9C%E9%A3%9E%E9%BE%99%E5%9C%A8%E5%A4%A9%E2%80%9D%E9%9C%87%E6%92%BC%E5%85%A8%E7%BD%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [国泰航空客机中止起飞 11名乘客受伤](https://www.baidu.com/s?wd=%E5%9B%BD%E6%B3%B0%E8%88%AA%E7%A9%BA%E5%AE%A2%E6%9C%BA%E4%B8%AD%E6%AD%A2%E8%B5%B7%E9%A3%9E+11%E5%90%8D%E4%B9%98%E5%AE%A2%E5%8F%97%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [一家16口聚餐时疑遭投毒 警方介入](https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B616%E5%8F%A3%E8%81%9A%E9%A4%90%E6%97%B6%E7%96%91%E9%81%AD%E6%8A%95%E6%AF%92+%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [瓦格纳创始人否认试图发动武装叛乱](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%90%A6%E8%AE%A4%E8%AF%95%E5%9B%BE%E5%8F%91%E5%8A%A8%E6%AD%A6%E8%A3%85%E5%8F%9B%E4%B9%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [高考709分 老师大喊“天啊”](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83709%E5%88%86+%E8%80%81%E5%B8%88%E5%A4%A7%E5%96%8A%E2%80%9C%E5%A4%A9%E5%95%8A%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [瓦格纳：已控制罗斯托夫军用设施](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%EF%BC%9A%E5%B7%B2%E6%8E%A7%E5%88%B6%E7%BD%97%E6%96%AF%E6%89%98%E5%A4%AB%E5%86%9B%E7%94%A8%E8%AE%BE%E6%96%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [国泰航空客机中止起飞 11名乘客受伤](https://www.baidu.com/s?wd=%E5%9B%BD%E6%B3%B0%E8%88%AA%E7%A9%BA%E5%AE%A2%E6%9C%BA%E4%B8%AD%E6%AD%A2%E8%B5%B7%E9%A3%9E+11%E5%90%8D%E4%B9%98%E5%AE%A2%E5%8F%97%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [一家16口聚餐时疑遭投毒 警方介入](https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B616%E5%8F%A3%E8%81%9A%E9%A4%90%E6%97%B6%E7%96%91%E9%81%AD%E6%8A%95%E6%AF%92+%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
