@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 20:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 20:05:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [报考电竞专业是不是就能天天打游戏？](https://www.zhihu.com/theater/93769)<br />
 6. [2023 福建高考成绩公布，你考得怎么样？可以说说你的分数和心情吗？](https://www.zhihu.com/question/607974295)<br />
 7. [普里戈任称瓦格纳已控制罗斯托夫地区包括机场在内的军用设施，这意味着什么？此举对俄乌局势起到什么影响？](https://www.zhihu.com/question/608251555)<br />
-8. [如果重回大一学法学，你会做什么？](https://www.zhihu.com/question/600551602)<br />
-9. [外国人一般是怎么给自己取中文名的？有没有什么比较奇葩的中文名？](https://www.zhihu.com/question/26546359)<br />
+8. [外国人一般是怎么给自己取中文名的？有没有什么比较奇葩的中文名？](https://www.zhihu.com/question/26546359)<br />
+9. [高考完了，大家有什么闲书推荐吗？](https://www.zhihu.com/question/606677754)<br />
 
 > 百度  
 
