@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 10:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 10:08:02</h4></div>
 
 > 微博  
 
@@ -19,8 +19,8 @@
 3. [俄国防部否认袭击瓦格纳营地，瓦格纳领导人因号召武装叛乱被立案，如何看待此事？](https://www.zhihu.com/question/608218892)<br />
 4. [如何评价西南大学本科生发表五篇 sci 论文 (第一作者)，毕业典礼上表示希望五年博士毕业后回到母校工作？](https://www.zhihu.com/question/607703486)<br />
 5. [您读过最有力量的书是什么？](https://www.zhihu.com/question/603556848)<br />
-6. [志愿填报一窍不通，怎么办？](https://www.zhihu.com/question/595485450)<br />
-7. []()<br />
+6. []()<br />
+7. [志愿填报一窍不通，怎么办？](https://www.zhihu.com/question/595485450)<br />
 8. [布林肯称美将宣布新的对乌军事支持计划，透露了哪些信息？](https://www.zhihu.com/question/607773006)<br />
 9. []()<br />
 
@@ -34,7 +34,7 @@
 6. [男子回了个“OK”表情结果成被告](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9B%9E%E4%BA%86%E4%B8%AA%E2%80%9COK%E2%80%9D%E8%A1%A8%E6%83%85%E7%BB%93%E6%9E%9C%E6%88%90%E8%A2%AB%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [一考生查分 全家一起喊出666](https://www.baidu.com/s?wd=%E4%B8%80%E8%80%83%E7%94%9F%E6%9F%A5%E5%88%86+%E5%85%A8%E5%AE%B6%E4%B8%80%E8%B5%B7%E5%96%8A%E5%87%BA666&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [浙江一药农卖元胡10分钟赚52万元](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E8%8D%AF%E5%86%9C%E5%8D%96%E5%85%83%E8%83%A110%E5%88%86%E9%92%9F%E8%B5%9A52%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [四川理科711分考生：想去北大](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E7%90%86%E7%A7%91711%E5%88%86%E8%80%83%E7%94%9F%EF%BC%9A%E6%83%B3%E5%8E%BB%E5%8C%97%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [被林丹邀请打球女孩高考理科689分](https://www.baidu.com/s?wd=%E8%A2%AB%E6%9E%97%E4%B8%B9%E9%82%80%E8%AF%B7%E6%89%93%E7%90%83%E5%A5%B3%E5%AD%A9%E9%AB%98%E8%80%83%E7%90%86%E7%A7%91689%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [男子回了个“OK”表情结果成被告](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9B%9E%E4%BA%86%E4%B8%AA%E2%80%9COK%E2%80%9D%E8%A1%A8%E6%83%85%E7%BB%93%E6%9E%9C%E6%88%90%E8%A2%AB%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [一考生查分 全家一起喊出666](https://www.baidu.com/s?wd=%E4%B8%80%E8%80%83%E7%94%9F%E6%9F%A5%E5%88%86+%E5%85%A8%E5%AE%B6%E4%B8%80%E8%B5%B7%E5%96%8A%E5%87%BA666&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [浙江一药农卖元胡10分钟赚52万元](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E8%8D%AF%E5%86%9C%E5%8D%96%E5%85%83%E8%83%A110%E5%88%86%E9%92%9F%E8%B5%9A52%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [四川理科711分考生：想去北大](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E7%90%86%E7%A7%91711%E5%88%86%E8%80%83%E7%94%9F%EF%BC%9A%E6%83%B3%E5%8E%BB%E5%8C%97%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [被林丹邀请打球女孩高考理科689分](https://www.baidu.com/s?wd=%E8%A2%AB%E6%9E%97%E4%B8%B9%E9%82%80%E8%AF%B7%E6%89%93%E7%90%83%E5%A5%B3%E5%AD%A9%E9%AB%98%E8%80%83%E7%90%86%E7%A7%91689%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
