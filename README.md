@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 22:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 22:58:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [王鹤棣赵露思合影](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%90%88%E5%BD%B1%23&t=31&band_rank=6&Refer=top)<br />
 7. [消失的她](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9&t=31&band_rank=7&Refer=top)<br />
 8. [莫斯科直飞伊斯坦布尔等地机票已售罄](https://s.weibo.com/weibo?q=%23%E8%8E%AB%E6%96%AF%E7%A7%91%E7%9B%B4%E9%A3%9E%E4%BC%8A%E6%96%AF%E5%9D%A6%E5%B8%83%E5%B0%94%E7%AD%89%E5%9C%B0%E6%9C%BA%E7%A5%A8%E5%B7%B2%E5%94%AE%E7%BD%84%23&t=31&band_rank=8&Refer=top)<br />
-9. [看消失的她 恋爱脑治好了](https://s.weibo.com/weibo?q=%E7%9C%8B%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%20%E6%81%8B%E7%88%B1%E8%84%91%E6%B2%BB%E5%A5%BD%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [BLG战胜WBG](https://s.weibo.com/weibo?q=BLG%E6%88%98%E8%83%9CWBG&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
