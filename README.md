@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 21:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 21:11:01</h4></div>
 
 > 微博  
 
@@ -14,11 +14,11 @@
 
 > 知乎  
 
-1. [2023 福建高考成绩公布，你考得怎么样？可以说说你的分数和心情吗？](https://www.zhihu.com/question/607974295)<br />
-2. [宁夏银川烧烤店燃气爆炸事故 4 名犯罪嫌疑人被刑拘，从法律角度，他们将受到哪些处罚？](https://www.zhihu.com/question/608287472)<br />
+1. [宁夏银川烧烤店燃气爆炸事故 4 名犯罪嫌疑人被刑拘，从法律角度，他们将受到哪些处罚？](https://www.zhihu.com/question/608287472)<br />
+2. [2023 福建高考成绩公布，你考得怎么样？可以说说你的分数和心情吗？](https://www.zhihu.com/question/607974295)<br />
 3. [外国人一般是怎么给自己取中文名的？有没有什么比较奇葩的中文名？](https://www.zhihu.com/question/26546359)<br />
 4. []()<br />
-5. [报考电竞专业是不是就能天天打游戏？](https://www.zhihu.com/theater/93769)<br />
+5. [报考电竞专业是不是就能天天打游戏？毕业后薪资水平如何？](https://www.zhihu.com/theater/93769)<br />
 6. [俄国防部否认袭击瓦格纳营地，瓦格纳领导人因号召武装叛乱被立案，如何看待此事？](https://www.zhihu.com/question/608218892)<br />
 7. [猫用饮水机真的有用吗？](https://www.zhihu.com/question/314321800)<br />
 8. [医学没有民用和军用之分，那么军医大学是否有存在的意义？](https://www.zhihu.com/question/607620757)<br />
