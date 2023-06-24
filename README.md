@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 08:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 08:43:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [女子到宾馆匆匆开房浙江老板娘报警](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%88%B0%E5%AE%BE%E9%A6%86%E5%8C%86%E5%8C%86%E5%BC%80%E6%88%BF%E6%B5%99%E6%B1%9F%E8%80%81%E6%9D%BF%E5%A8%98%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=4&Refer=top)<br />
 5. [瓦格纳](https://s.weibo.com/weibo?q=%23%E7%93%A6%E6%A0%BC%E7%BA%B3%23&t=31&band_rank=5&Refer=top)<br />
 6. [吴越 白玉兰视后](https://s.weibo.com/weibo?q=%E5%90%B4%E8%B6%8A%20%E7%99%BD%E7%8E%89%E5%85%B0%E8%A7%86%E5%90%8E&t=31&band_rank=6&Refer=top)<br />
-7. [赵丽颖从继续熬到继续跑](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E4%BB%8E%E7%BB%A7%E7%BB%AD%E7%86%AC%E5%88%B0%E7%BB%A7%E7%BB%AD%E8%B7%91%23&t=31&band_rank=7&Refer=top)<br />
-8. [暴雪禁止中国大陆玩家参与暗黑4活动](https://s.weibo.com/weibo?q=%23%E6%9A%B4%E9%9B%AA%E7%A6%81%E6%AD%A2%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E7%8E%A9%E5%AE%B6%E5%8F%82%E4%B8%8E%E6%9A%97%E9%BB%914%E6%B4%BB%E5%8A%A8%23&t=31&band_rank=8&Refer=top)<br />
+7. [暴雪禁止中国大陆玩家参与暗黑4活动](https://s.weibo.com/weibo?q=%23%E6%9A%B4%E9%9B%AA%E7%A6%81%E6%AD%A2%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E7%8E%A9%E5%AE%B6%E5%8F%82%E4%B8%8E%E6%9A%97%E9%BB%914%E6%B4%BB%E5%8A%A8%23&t=31&band_rank=7&Refer=top)<br />
+8. [赵丽颖从继续熬到继续跑](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E4%BB%8E%E7%BB%A7%E7%BB%AD%E7%86%AC%E5%88%B0%E7%BB%A7%E7%BB%AD%E8%B7%91%23&t=31&band_rank=8&Refer=top)<br />
 9. [鹿晗演唱会上不敢读的灯牌](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E4%B8%8D%E6%95%A2%E8%AF%BB%E7%9A%84%E7%81%AF%E7%89%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -32,9 +32,9 @@
 4. [沉浸式游览中国美丽乡村](https://www.baidu.com/s?wd=%E6%B2%89%E6%B5%B8%E5%BC%8F%E6%B8%B8%E8%A7%88%E4%B8%AD%E5%9B%BD%E7%BE%8E%E4%B8%BD%E4%B9%A1%E6%9D%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [雷佳音吴越分获白玉兰最佳男女主角](https://www.baidu.com/s?wd=%E9%9B%B7%E4%BD%B3%E9%9F%B3%E5%90%B4%E8%B6%8A%E5%88%86%E8%8E%B7%E7%99%BD%E7%8E%89%E5%85%B0%E6%9C%80%E4%BD%B3%E7%94%B7%E5%A5%B3%E4%B8%BB%E8%A7%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [浙江一药农卖元胡10分钟赚52万元](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E8%8D%AF%E5%86%9C%E5%8D%96%E5%85%83%E8%83%A110%E5%88%86%E9%92%9F%E8%B5%9A52%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [四川理科711分考生：想去北大](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E7%90%86%E7%A7%91711%E5%88%86%E8%80%83%E7%94%9F%EF%BC%9A%E6%83%B3%E5%8E%BB%E5%8C%97%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女生高考712分 查完分就睡觉](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83712%E5%88%86+%E6%9F%A5%E5%AE%8C%E5%88%86%E5%B0%B1%E7%9D%A1%E8%A7%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [浙江5车追尾致6死 警方通报](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F5%E8%BD%A6%E8%BF%BD%E5%B0%BE%E8%87%B46%E6%AD%BB+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女生高考712分 查完分就睡觉](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83712%E5%88%86+%E6%9F%A5%E5%AE%8C%E5%88%86%E5%B0%B1%E7%9D%A1%E8%A7%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [浙江5车追尾致6死 警方通报](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F5%E8%BD%A6%E8%BF%BD%E5%B0%BE%E8%87%B46%E6%AD%BB+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [四川理科711分考生：想去北大](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E7%90%86%E7%A7%91711%E5%88%86%E8%80%83%E7%94%9F%EF%BC%9A%E6%83%B3%E5%8E%BB%E5%8C%97%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [沉浸式游览中国美丽乡村](https://www.baidu.com/s?wd=%E6%B2%89%E6%B5%B8%E5%BC%8F%E6%B8%B8%E8%A7%88%E4%B8%AD%E5%9B%BD%E7%BE%8E%E4%B8%BD%E4%B9%A1%E6%9D%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [雷佳音吴越分获白玉兰最佳男女主角](https://www.baidu.com/s?wd=%E9%9B%B7%E4%BD%B3%E9%9F%B3%E5%90%B4%E8%B6%8A%E5%88%86%E8%8E%B7%E7%99%BD%E7%8E%89%E5%85%B0%E6%9C%80%E4%BD%B3%E7%94%B7%E5%A5%B3%E4%B8%BB%E8%A7%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [浙江一药农卖元胡10分钟赚52万元](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E8%8D%AF%E5%86%9C%E5%8D%96%E5%85%83%E8%83%A110%E5%88%86%E9%92%9F%E8%B5%9A52%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [四川理科711分考生：想去北大](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E7%90%86%E7%A7%91711%E5%88%86%E8%80%83%E7%94%9F%EF%BC%9A%E6%83%B3%E5%8E%BB%E5%8C%97%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女生高考712分 查完分就睡觉](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83712%E5%88%86+%E6%9F%A5%E5%AE%8C%E5%88%86%E5%B0%B1%E7%9D%A1%E8%A7%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [浙江5车追尾致6死 警方通报](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F5%E8%BD%A6%E8%BF%BD%E5%B0%BE%E8%87%B46%E6%AD%BB+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女生高考712分 查完分就睡觉](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83712%E5%88%86+%E6%9F%A5%E5%AE%8C%E5%88%86%E5%B0%B1%E7%9D%A1%E8%A7%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [浙江5车追尾致6死 警方通报](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F5%E8%BD%A6%E8%BF%BD%E5%B0%BE%E8%87%B46%E6%AD%BB+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [四川理科711分考生：想去北大](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E7%90%86%E7%A7%91711%E5%88%86%E8%80%83%E7%94%9F%EF%BC%9A%E6%83%B3%E5%8E%BB%E5%8C%97%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
