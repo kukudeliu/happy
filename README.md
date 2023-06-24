@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 16:46:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 16:47:01</h4></div>
 
 > 微博  
 
@@ -18,8 +18,8 @@
 2. [普京发表讲话称俄罗斯正为未来开展「最复杂的战斗」，不会让俄罗斯分裂，反叛者会受惩罚，哪些信息值得关注？](https://www.zhihu.com/question/608260419)<br />
 3. [硅谷银行亚洲客户遭「双向挤压」，存款被没收，贷款必须还，如何看待此事？](https://www.zhihu.com/question/607811714)<br />
 4. [台媒称「山东舰航母编队 21 日通过台湾海峡」，如何看待这一动向？](https://www.zhihu.com/question/607809103)<br />
-5. [没文化可以教育好孩子吗？](https://www.zhihu.com/question/606881570)<br />
-6. [如何评价《原神》枫丹版本的部分美术设计为甜美魔幻风，而非蒸汽朋克？](https://www.zhihu.com/question/608230338)<br />
+5. [如何评价《原神》枫丹版本的部分美术设计为甜美魔幻风，而非蒸汽朋克？](https://www.zhihu.com/question/608230338)<br />
+6. [没文化可以教育好孩子吗？](https://www.zhihu.com/question/606881570)<br />
 7. [电影《消失的她》里何非到底是怎样的一个人?](https://www.zhihu.com/question/607967579)<br />
 8. [市面上的玻璃到底有铅没铅？](https://www.zhihu.com/question/606342982)<br />
 9. [乌龟养熟的表现有哪些？](https://www.zhihu.com/question/597512707)<br />
