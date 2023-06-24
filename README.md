@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 10:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 10:34:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [一考生查分 全家一起喊出666](https://www.baidu.com/s?wd=%E4%B8%80%E8%80%83%E7%94%9F%E6%9F%A5%E5%88%86+%E5%85%A8%E5%AE%B6%E4%B8%80%E8%B5%B7%E5%96%8A%E5%87%BA666&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子回了个“OK”表情结果成被告](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9B%9E%E4%BA%86%E4%B8%AA%E2%80%9COK%E2%80%9D%E8%A1%A8%E6%83%85%E7%BB%93%E6%9E%9C%E6%88%90%E8%A2%AB%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [被林丹邀请打球女孩高考理科689分](https://www.baidu.com/s?wd=%E8%A2%AB%E6%9E%97%E4%B8%B9%E9%82%80%E8%AF%B7%E6%89%93%E7%90%83%E5%A5%B3%E5%AD%A9%E9%AB%98%E8%80%83%E7%90%86%E7%A7%91689%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男生单曲循环《好运来》查出593分](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E5%8D%95%E6%9B%B2%E5%BE%AA%E7%8E%AF%E3%80%8A%E5%A5%BD%E8%BF%90%E6%9D%A5%E3%80%8B%E6%9F%A5%E5%87%BA593%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [瓦格纳领导人因号召武装叛乱被立案](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%9B%A0%E5%8F%B7%E5%8F%AC%E6%AD%A6%E8%A3%85%E5%8F%9B%E4%B9%B1%E8%A2%AB%E7%AB%8B%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [一考生查分 全家一起喊出666](https://www.baidu.com/s?wd=%E4%B8%80%E8%80%83%E7%94%9F%E6%9F%A5%E5%88%86+%E5%85%A8%E5%AE%B6%E4%B8%80%E8%B5%B7%E5%96%8A%E5%87%BA666&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子回了个“OK”表情结果成被告](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9B%9E%E4%BA%86%E4%B8%AA%E2%80%9COK%E2%80%9D%E8%A1%A8%E6%83%85%E7%BB%93%E6%9E%9C%E6%88%90%E8%A2%AB%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [被林丹邀请打球女孩高考理科689分](https://www.baidu.com/s?wd=%E8%A2%AB%E6%9E%97%E4%B8%B9%E9%82%80%E8%AF%B7%E6%89%93%E7%90%83%E5%A5%B3%E5%AD%A9%E9%AB%98%E8%80%83%E7%90%86%E7%A7%91689%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男生单曲循环《好运来》查出593分](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E5%8D%95%E6%9B%B2%E5%BE%AA%E7%8E%AF%E3%80%8A%E5%A5%BD%E8%BF%90%E6%9D%A5%E3%80%8B%E6%9F%A5%E5%87%BA593%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [瓦格纳领导人因号召武装叛乱被立案](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%9B%A0%E5%8F%B7%E5%8F%AC%E6%AD%A6%E8%A3%85%E5%8F%9B%E4%B9%B1%E8%A2%AB%E7%AB%8B%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
