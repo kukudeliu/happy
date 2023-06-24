@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 04:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 04:45:01</h4></div>
 
 > 微博  
 
@@ -19,10 +19,10 @@
 3. []()<br />
 4. [40 岁以后，你发现哪些钱根本没必要花？](https://www.zhihu.com/question/593808844)<br />
 5. [2023 江苏高考成绩公布，你考得怎么样？可以说说你的分数和心情吗？](https://www.zhihu.com/question/607974209)<br />
-6. []()<br />
-7. [猫为什么不如狗好驯服？](https://www.zhihu.com/question/605865648)<br />
-8. [一个中层管理者应该看什么书籍？](https://www.zhihu.com/question/483677374)<br />
-9. [如何评价《中国说唱巅峰对决 2023》第八期？](https://www.zhihu.com/question/608288763)<br />
+6. [猫为什么不如狗好驯服？](https://www.zhihu.com/question/605865648)<br />
+7. [一个中层管理者应该看什么书籍？](https://www.zhihu.com/question/483677374)<br />
+8. []()<br />
+9. [如何评价朱一龙在电影《消失的她》中的演技？](https://www.zhihu.com/question/607660063)<br />
 
 > 百度  
 
