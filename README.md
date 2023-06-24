@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 19:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 19:24:01</h4></div>
 
 > 微博  
 
@@ -14,15 +14,15 @@
 
 > 知乎  
 
-1. [俄国防部否认袭击瓦格纳营地，瓦格纳领导人因号召武装叛乱被立案，如何看待此事？](https://www.zhihu.com/question/608218892)<br />
-2. [瓦格纳回应称普京演讲，否认叛国并称「普京做出了错误的选择，很快我们就会有一位新总统」，释放了哪些信号？](https://www.zhihu.com/question/608279921)<br />
-3. [华北多地高温，北京连续 40℃ 破纪录，为何北方比南方更热？](https://www.zhihu.com/question/608255644)<br />
-4. [为什么教培机构对退休教师不认可？](https://www.zhihu.com/question/588498394)<br />
-5. [医学没有民用和军用之分，那么军医大学是否有存在的意义？](https://www.zhihu.com/question/607620757)<br />
+1. [瓦格纳回应称普京演讲，否认叛国并称「普京做出了错误的选择，很快我们就会有一位新总统」，释放了哪些信号？](https://www.zhihu.com/question/608279921)<br />
+2. [华北多地高温，北京连续 40℃ 破纪录，为何北方比南方更热？](https://www.zhihu.com/question/608255644)<br />
+3. [为什么教培机构对退休教师不认可？](https://www.zhihu.com/question/588498394)<br />
+4. [医学没有民用和军用之分，那么军医大学是否有存在的意义？](https://www.zhihu.com/question/607620757)<br />
+5. [2023 年高考结束后，大学选什么专业好？](https://www.zhihu.com/question/603802531)<br />
 6. [普里戈任称瓦格纳已控制罗斯托夫地区包括机场在内的军用设施，这意味着什么？此举对俄乌局势起到什么影响？](https://www.zhihu.com/question/608251555)<br />
-7. [2023 年高考结束后，大学选什么专业好？](https://www.zhihu.com/question/603802531)<br />
-8. [如果重回大一学法学，你会做什么？](https://www.zhihu.com/question/600551602)<br />
-9. [这两年长沙的文和友、茶颜悦色都在走下坡路了？这个是为什么呢？](https://www.zhihu.com/question/512194945)<br />
+7. [如果重回大一学法学，你会做什么？](https://www.zhihu.com/question/600551602)<br />
+8. [这两年长沙的文和友、茶颜悦色都在走下坡路了？这个是为什么呢？](https://www.zhihu.com/question/512194945)<br />
+9. [台媒称「山东舰航母编队 21 日通过台湾海峡」，如何看待这一动向？](https://www.zhihu.com/question/607809103)<br />
 
 > 百度  
 
