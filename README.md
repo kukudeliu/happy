@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 19:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 19:47:01</h4></div>
 
 > 微博  
 
@@ -15,8 +15,8 @@
 > 知乎  
 
 1. [瓦格纳回应称普京演讲，否认叛国并称「普京做出了错误的选择，很快我们就会有一位新总统」，释放了哪些信号？](https://www.zhihu.com/question/608279921)<br />
-2. [华北多地高温，北京连续 40℃ 破纪录，为何北方比南方更热？](https://www.zhihu.com/question/608255644)<br />
-3. []()<br />
+2. []()<br />
+3. [华北多地高温，北京连续 40℃ 破纪录，为何北方比南方更热？](https://www.zhihu.com/question/608255644)<br />
 4. [为什么教培机构对退休教师不认可？](https://www.zhihu.com/question/588498394)<br />
 5. [医学没有民用和军用之分，那么军医大学是否有存在的意义？](https://www.zhihu.com/question/607620757)<br />
 6. [普里戈任称瓦格纳已控制罗斯托夫地区包括机场在内的军用设施，这意味着什么？此举对俄乌局势起到什么影响？](https://www.zhihu.com/question/608251555)<br />
@@ -32,8 +32,8 @@
 4. [大地诗篇](https://www.baidu.com/s?wd=%E5%A4%A7%E5%9C%B0%E8%AF%97%E7%AF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [十余人超690分 老师激动要降压药](https://www.baidu.com/s?wd=%E5%8D%81%E4%BD%99%E4%BA%BA%E8%B6%85690%E5%88%86+%E8%80%81%E5%B8%88%E6%BF%80%E5%8A%A8%E8%A6%81%E9%99%8D%E5%8E%8B%E8%8D%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [复读女生涨61分坐地嚎啕大哭](https://www.baidu.com/s?wd=%E5%A4%8D%E8%AF%BB%E5%A5%B3%E7%94%9F%E6%B6%A861%E5%88%86%E5%9D%90%E5%9C%B0%E5%9A%8E%E5%95%95%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [华晨宇回应奥运舞美造价第一](https://www.baidu.com/s?wd=%E5%8D%8E%E6%99%A8%E5%AE%87%E5%9B%9E%E5%BA%94%E5%A5%A5%E8%BF%90%E8%88%9E%E7%BE%8E%E9%80%A0%E4%BB%B7%E7%AC%AC%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [莫斯科红场内部已封锁](https://www.baidu.com/s?wd=%E8%8E%AB%E6%96%AF%E7%A7%91%E7%BA%A2%E5%9C%BA%E5%86%85%E9%83%A8%E5%B7%B2%E5%B0%81%E9%94%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [莫斯科红场内部已封锁](https://www.baidu.com/s?wd=%E8%8E%AB%E6%96%AF%E7%A7%91%E7%BA%A2%E5%9C%BA%E5%86%85%E9%83%A8%E5%B7%B2%E5%B0%81%E9%94%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [华晨宇回应奥运舞美造价第一](https://www.baidu.com/s?wd=%E5%8D%8E%E6%99%A8%E5%AE%87%E5%9B%9E%E5%BA%94%E5%A5%A5%E8%BF%90%E8%88%9E%E7%BE%8E%E9%80%A0%E4%BB%B7%E7%AC%AC%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [直击俄罗斯街头实况](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E4%BF%84%E7%BD%97%E6%96%AF%E8%A1%97%E5%A4%B4%E5%AE%9E%E5%86%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -44,6 +44,6 @@
 4. [大地诗篇](https://www.baidu.com/s?wd=%E5%A4%A7%E5%9C%B0%E8%AF%97%E7%AF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [十余人超690分 老师激动要降压药](https://www.baidu.com/s?wd=%E5%8D%81%E4%BD%99%E4%BA%BA%E8%B6%85690%E5%88%86+%E8%80%81%E5%B8%88%E6%BF%80%E5%8A%A8%E8%A6%81%E9%99%8D%E5%8E%8B%E8%8D%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [复读女生涨61分坐地嚎啕大哭](https://www.baidu.com/s?wd=%E5%A4%8D%E8%AF%BB%E5%A5%B3%E7%94%9F%E6%B6%A861%E5%88%86%E5%9D%90%E5%9C%B0%E5%9A%8E%E5%95%95%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [华晨宇回应奥运舞美造价第一](https://www.baidu.com/s?wd=%E5%8D%8E%E6%99%A8%E5%AE%87%E5%9B%9E%E5%BA%94%E5%A5%A5%E8%BF%90%E8%88%9E%E7%BE%8E%E9%80%A0%E4%BB%B7%E7%AC%AC%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [莫斯科红场内部已封锁](https://www.baidu.com/s?wd=%E8%8E%AB%E6%96%AF%E7%A7%91%E7%BA%A2%E5%9C%BA%E5%86%85%E9%83%A8%E5%B7%B2%E5%B0%81%E9%94%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [莫斯科红场内部已封锁](https://www.baidu.com/s?wd=%E8%8E%AB%E6%96%AF%E7%A7%91%E7%BA%A2%E5%9C%BA%E5%86%85%E9%83%A8%E5%B7%B2%E5%B0%81%E9%94%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [华晨宇回应奥运舞美造价第一](https://www.baidu.com/s?wd=%E5%8D%8E%E6%99%A8%E5%AE%87%E5%9B%9E%E5%BA%94%E5%A5%A5%E8%BF%90%E8%88%9E%E7%BE%8E%E9%80%A0%E4%BB%B7%E7%AC%AC%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [直击俄罗斯街头实况](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E4%BF%84%E7%BD%97%E6%96%AF%E8%A1%97%E5%A4%B4%E5%AE%9E%E5%86%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
