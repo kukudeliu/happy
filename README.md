@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 17:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 17:42:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [俄国防部称，瓦格纳集团武装力量被拖入普里戈任的武装叛乱，释放了哪些信号？](https://www.zhihu.com/question/608259505)<br />
 7. [市面上的玻璃到底有铅没铅？](https://www.zhihu.com/question/606342982)<br />
 8. [高考失利可以考研翻盘吗?](https://www.zhihu.com/question/608117599)<br />
-9. [电影《消失的她》里何非到底是怎样的一个人?](https://www.zhihu.com/question/607967579)<br />
+9. [如果没有抢位置，你们觉得《王者荣耀》最差的阵容是什么?](https://www.zhihu.com/question/435116824)<br />
 
 > 百度  
 
