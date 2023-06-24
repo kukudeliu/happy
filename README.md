@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 15:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 15:19:01</h4></div>
 
 > 微博  
 
 1. [瓦格纳称已控制罗斯托夫地区军用设施](https://s.weibo.com/weibo?q=%23%E7%93%A6%E6%A0%BC%E7%BA%B3%E7%A7%B0%E5%B7%B2%E6%8E%A7%E5%88%B6%E7%BD%97%E6%96%AF%E6%89%98%E5%A4%AB%E5%9C%B0%E5%8C%BA%E5%86%9B%E7%94%A8%E8%AE%BE%E6%96%BD%23&t=31&band_rank=1&Refer=top)<br />
-2. [普京发表讲话](https://s.weibo.com/weibo?q=%E6%99%AE%E4%BA%AC%E5%8F%91%E8%A1%A8%E8%AE%B2%E8%AF%9D&t=31&band_rank=2&Refer=top)<br />
+2. [普京发表讲话](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E5%8F%91%E8%A1%A8%E8%AE%B2%E8%AF%9D%23&t=31&band_rank=2&Refer=top)<br />
 3. [31省份报志愿时间全汇总](https://s.weibo.com/weibo?q=%2331%E7%9C%81%E4%BB%BD%E6%8A%A5%E5%BF%97%E6%84%BF%E6%97%B6%E9%97%B4%E5%85%A8%E6%B1%87%E6%80%BB%23&t=31&band_rank=3&Refer=top)<br />
 4. [俄罗斯](https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%23&t=31&band_rank=4&Refer=top)<br />
 5. [高考理科623分决心复读了](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E7%90%86%E7%A7%91623%E5%88%86%E5%86%B3%E5%BF%83%E5%A4%8D%E8%AF%BB%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
@@ -34,7 +34,7 @@
 6. [瓦格纳叛乱？俄罗斯发生了什么](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E5%8F%9B%E4%B9%B1%EF%BC%9F%E4%BF%84%E7%BD%97%E6%96%AF%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [3人往海里扔100多个粽子](https://www.baidu.com/s?wd=3%E4%BA%BA%E5%BE%80%E6%B5%B7%E9%87%8C%E6%89%94100%E5%A4%9A%E4%B8%AA%E7%B2%BD%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [雷佳音误踩赵丽颖裙子引热议](https://www.baidu.com/s?wd=%E9%9B%B7%E4%BD%B3%E9%9F%B3%E8%AF%AF%E8%B8%A9%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%A3%99%E5%AD%90%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [安徽唯一盲人考生高考成绩](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E5%94%AF%E4%B8%80%E7%9B%B2%E4%BA%BA%E8%80%83%E7%94%9F%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [瓦格纳首领称部队抵俄 矛头指向防长](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%A6%96%E9%A2%86%E7%A7%B0%E9%83%A8%E9%98%9F%E6%8A%B5%E4%BF%84+%E7%9F%9B%E5%A4%B4%E6%8C%87%E5%90%91%E9%98%B2%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [瓦格纳叛乱？俄罗斯发生了什么](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E5%8F%9B%E4%B9%B1%EF%BC%9F%E4%BF%84%E7%BD%97%E6%96%AF%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [3人往海里扔100多个粽子](https://www.baidu.com/s?wd=3%E4%BA%BA%E5%BE%80%E6%B5%B7%E9%87%8C%E6%89%94100%E5%A4%9A%E4%B8%AA%E7%B2%BD%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [雷佳音误踩赵丽颖裙子引热议](https://www.baidu.com/s?wd=%E9%9B%B7%E4%BD%B3%E9%9F%B3%E8%AF%AF%E8%B8%A9%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%A3%99%E5%AD%90%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [安徽唯一盲人考生高考成绩](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E5%94%AF%E4%B8%80%E7%9B%B2%E4%BA%BA%E8%80%83%E7%94%9F%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [瓦格纳首领称部队抵俄 矛头指向防长](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%A6%96%E9%A2%86%E7%A7%B0%E9%83%A8%E9%98%9F%E6%8A%B5%E4%BF%84+%E7%9F%9B%E5%A4%B4%E6%8C%87%E5%90%91%E9%98%B2%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
