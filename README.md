@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 19:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 19:02:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [医学没有民用和军用之分，那么军医大学是否有存在的意义？](https://www.zhihu.com/question/607620757)<br />
 5. [2023 年高考结束后，大学选什么专业好？](https://www.zhihu.com/question/603802531)<br />
 6. [如果重回大一学法学，你会做什么？](https://www.zhihu.com/question/600551602)<br />
-7. [市面上的玻璃到底有铅没铅？](https://www.zhihu.com/question/606342982)<br />
-8. [高考失利可以考研翻盘吗?](https://www.zhihu.com/question/608117599)<br />
-9. [如何评价《原神》枫丹版本的部分美术设计为甜美魔幻风，而非蒸汽朋克？](https://www.zhihu.com/question/608230338)<br />
+7. [这两年长沙的文和友、茶颜悦色都在走下坡路了？这个是为什么呢？](https://www.zhihu.com/question/512194945)<br />
+8. [市面上的玻璃到底有铅没铅？](https://www.zhihu.com/question/606342982)<br />
+9. [高考失利可以考研翻盘吗?](https://www.zhihu.com/question/608117599)<br />
 
 > 百度  
 
