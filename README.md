@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 02:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 02:14:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [关晓彤去了鹿晗的演唱会](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E5%8E%BB%E4%BA%86%E9%B9%BF%E6%99%97%E7%9A%84%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=5&Refer=top)<br />
 6. [消失的她 绝世大甜剧](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%20%E7%BB%9D%E4%B8%96%E5%A4%A7%E7%94%9C%E5%89%A7&t=31&band_rank=6&Refer=top)<br />
 7. [在俄华人讲述俄罗斯各地现状](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E4%BF%84%E5%8D%8E%E4%BA%BA%E8%AE%B2%E8%BF%B0%E4%BF%84%E7%BD%97%E6%96%AF%E5%90%84%E5%9C%B0%E7%8E%B0%E7%8A%B6%23&t=31&band_rank=7&Refer=top)<br />
-8. [兰州一企业发生闪爆事故](https://s.weibo.com/weibo?q=%E5%85%B0%E5%B7%9E%E4%B8%80%E4%BC%81%E4%B8%9A%E5%8F%91%E7%94%9F%E9%97%AA%E7%88%86%E4%BA%8B%E6%95%85&t=31&band_rank=8&Refer=top)<br />
-9. [陈思诚透露误杀3和唐探新片进度](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%80%9D%E8%AF%9A%E9%80%8F%E9%9C%B2%E8%AF%AF%E6%9D%803%E5%92%8C%E5%94%90%E6%8E%A2%E6%96%B0%E7%89%87%E8%BF%9B%E5%BA%A6%23&t=31&band_rank=9&Refer=top)<br />
+8. [陈思诚透露误杀3和唐探新片进度](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%80%9D%E8%AF%9A%E9%80%8F%E9%9C%B2%E8%AF%AF%E6%9D%803%E5%92%8C%E5%94%90%E6%8E%A2%E6%96%B0%E7%89%87%E8%BF%9B%E5%BA%A6%23&t=31&band_rank=8&Refer=top)<br />
+9. [兰州一企业发生闪爆事故](https://s.weibo.com/weibo?q=%E5%85%B0%E5%B7%9E%E4%B8%80%E4%BC%81%E4%B8%9A%E5%8F%91%E7%94%9F%E9%97%AA%E7%88%86%E4%BA%8B%E6%95%85&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -32,8 +32,8 @@
 4. [大地诗篇](https://www.baidu.com/s?wd=%E5%A4%A7%E5%9C%B0%E8%AF%97%E7%AF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [瓦格纳逼近 莫斯科公共建筑人员疏散](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%80%BC%E8%BF%91+%E8%8E%AB%E6%96%AF%E7%A7%91%E5%85%AC%E5%85%B1%E5%BB%BA%E7%AD%91%E4%BA%BA%E5%91%98%E7%96%8F%E6%95%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [兰州一企业发生闪爆事故](https://www.baidu.com/s?wd=%E5%85%B0%E5%B7%9E%E4%B8%80%E4%BC%81%E4%B8%9A%E5%8F%91%E7%94%9F%E9%97%AA%E7%88%86%E4%BA%8B%E6%95%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [双胞胎姐妹高考查分均超600](https://www.baidu.com/s?wd=%E5%8F%8C%E8%83%9E%E8%83%8E%E5%A7%90%E5%A6%B9%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86%E5%9D%87%E8%B6%85600&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男生得知好友仅609分后瞬间弹起](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E5%BE%97%E7%9F%A5%E5%A5%BD%E5%8F%8B%E4%BB%85609%E5%88%86%E5%90%8E%E7%9E%AC%E9%97%B4%E5%BC%B9%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女孩跌入通风井边哭边道歉](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E8%B7%8C%E5%85%A5%E9%80%9A%E9%A3%8E%E4%BA%95%E8%BE%B9%E5%93%AD%E8%BE%B9%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [四川考生查分打麻将缓解紧张](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E8%80%83%E7%94%9F%E6%9F%A5%E5%88%86%E6%89%93%E9%BA%BB%E5%B0%86%E7%BC%93%E8%A7%A3%E7%B4%A7%E5%BC%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [普京与多国领导人通话介绍局势](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%B8%8E%E5%A4%9A%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%80%9A%E8%AF%9D%E4%BB%8B%E7%BB%8D%E5%B1%80%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -44,6 +44,6 @@
 4. [大地诗篇](https://www.baidu.com/s?wd=%E5%A4%A7%E5%9C%B0%E8%AF%97%E7%AF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [瓦格纳逼近 莫斯科公共建筑人员疏散](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%80%BC%E8%BF%91+%E8%8E%AB%E6%96%AF%E7%A7%91%E5%85%AC%E5%85%B1%E5%BB%BA%E7%AD%91%E4%BA%BA%E5%91%98%E7%96%8F%E6%95%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [兰州一企业发生闪爆事故](https://www.baidu.com/s?wd=%E5%85%B0%E5%B7%9E%E4%B8%80%E4%BC%81%E4%B8%9A%E5%8F%91%E7%94%9F%E9%97%AA%E7%88%86%E4%BA%8B%E6%95%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [双胞胎姐妹高考查分均超600](https://www.baidu.com/s?wd=%E5%8F%8C%E8%83%9E%E8%83%8E%E5%A7%90%E5%A6%B9%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86%E5%9D%87%E8%B6%85600&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男生得知好友仅609分后瞬间弹起](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E5%BE%97%E7%9F%A5%E5%A5%BD%E5%8F%8B%E4%BB%85609%E5%88%86%E5%90%8E%E7%9E%AC%E9%97%B4%E5%BC%B9%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女孩跌入通风井边哭边道歉](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E8%B7%8C%E5%85%A5%E9%80%9A%E9%A3%8E%E4%BA%95%E8%BE%B9%E5%93%AD%E8%BE%B9%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [四川考生查分打麻将缓解紧张](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E8%80%83%E7%94%9F%E6%9F%A5%E5%88%86%E6%89%93%E9%BA%BB%E5%B0%86%E7%BC%93%E8%A7%A3%E7%B4%A7%E5%BC%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [普京与多国领导人通话介绍局势](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%B8%8E%E5%A4%9A%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%80%9A%E8%AF%9D%E4%BB%8B%E7%BB%8D%E5%B1%80%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
