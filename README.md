@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 07:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 07:15:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [普京指责瓦格纳负责人叛国](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E6%8C%87%E8%B4%A3%E7%93%A6%E6%A0%BC%E7%BA%B3%E8%B4%9F%E8%B4%A3%E4%BA%BA%E5%8F%9B%E5%9B%BD%23&t=31&band_rank=5&Refer=top)<br />
 6. [绍伊古](https://s.weibo.com/weibo?q=%E7%BB%8D%E4%BC%8A%E5%8F%A4&t=31&band_rank=6&Refer=top)<br />
 7. [消失的她 绝世大甜剧](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%20%E7%BB%9D%E4%B8%96%E5%A4%A7%E7%94%9C%E5%89%A7&t=31&band_rank=7&Refer=top)<br />
-8. [江苏高考687分及以上116人](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E9%AB%98%E8%80%83687%E5%88%86%E5%8F%8A%E4%BB%A5%E4%B8%8A116%E4%BA%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [弟弟考673分姐姐哭了一小时](https://s.weibo.com/weibo?q=%23%E5%BC%9F%E5%BC%9F%E8%80%83673%E5%88%86%E5%A7%90%E5%A7%90%E5%93%AD%E4%BA%86%E4%B8%80%E5%B0%8F%E6%97%B6%23&t=31&band_rank=9&Refer=top)<br />
+8. [瓦格纳同意停止在俄领土上的行动](https://s.weibo.com/weibo?q=%23%E7%93%A6%E6%A0%BC%E7%BA%B3%E5%90%8C%E6%84%8F%E5%81%9C%E6%AD%A2%E5%9C%A8%E4%BF%84%E9%A2%86%E5%9C%9F%E4%B8%8A%E7%9A%84%E8%A1%8C%E5%8A%A8%23&t=31&band_rank=8&Refer=top)<br />
+9. [江苏高考687分及以上116人](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E9%AB%98%E8%80%83687%E5%88%86%E5%8F%8A%E4%BB%A5%E4%B8%8A116%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
