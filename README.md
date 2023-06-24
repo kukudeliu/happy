@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 03:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 03:18:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [如何评价《中国说唱巅峰对决 2023》第八期？](https://www.zhihu.com/question/608288763)<br />
 6. []()<br />
 7. [宁夏银川烧烤店燃气爆炸事故 4 名犯罪嫌疑人被刑拘，从法律角度，他们将受到哪些处罚？](https://www.zhihu.com/question/608287472)<br />
-8. []()<br />
-9. [猫为什么不如狗好驯服？](https://www.zhihu.com/question/605865648)<br />
+8. [猫为什么不如狗好驯服？](https://www.zhihu.com/question/605865648)<br />
+9. []()<br />
 
 > 百度  
 
