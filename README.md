@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 22:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 22:53:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [消失的她 绝世大甜剧](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%20%E7%BB%9D%E4%B8%96%E5%A4%A7%E7%94%9C%E5%89%A7&t=31&band_rank=5&Refer=top)<br />
 6. [王鹤棣赵露思合影](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%90%88%E5%BD%B1%23&t=31&band_rank=6&Refer=top)<br />
 7. [消失的她](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9&t=31&band_rank=7&Refer=top)<br />
-8. [鹿晗演唱会的女安检员](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%BC%94%E5%94%B1%E4%BC%9A%E7%9A%84%E5%A5%B3%E5%AE%89%E6%A3%80%E5%91%98%23&t=31&band_rank=8&Refer=top)<br />
+8. [BLG战胜WBG](https://s.weibo.com/weibo?q=BLG%E6%88%98%E8%83%9CWBG&t=31&band_rank=8&Refer=top)<br />
 9. [莫斯科直飞伊斯坦布尔等地机票已售罄](https://s.weibo.com/weibo?q=%23%E8%8E%AB%E6%96%AF%E7%A7%91%E7%9B%B4%E9%A3%9E%E4%BC%8A%E6%96%AF%E5%9D%A6%E5%B8%83%E5%B0%94%E7%AD%89%E5%9C%B0%E6%9C%BA%E7%A5%A8%E5%B7%B2%E5%94%AE%E7%BD%84%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -18,11 +18,11 @@
 2. [2023 江苏高考分数线公布，物理科目本科线 448，历史科目本科线 474，如何评价今年的分数线？](https://www.zhihu.com/question/607974405)<br />
 3. [北京观测史上首次连续两日气温突破 40℃，23 日发布高温红色预警信号，哪些信息值得关注？](https://www.zhihu.com/question/608131521)<br />
 4. [为什么旗舰手机标准版大部分都不带无线充电？](https://www.zhihu.com/question/607118057)<br />
-5. [一个人可以过得有多极简？](https://www.zhihu.com/question/265827355)<br />
+5. [猫为什么不如狗好驯服？](https://www.zhihu.com/question/605865648)<br />
 6. [俄国防部称，瓦格纳集团武装力量被拖入普里戈任的武装叛乱，释放了哪些信号？](https://www.zhihu.com/question/608259505)<br />
-7. [宁夏银川烧烤店燃气爆炸事故 4 名犯罪嫌疑人被刑拘，从法律角度，他们将受到哪些处罚？](https://www.zhihu.com/question/608287472)<br />
-8. [外国人一般是怎么给自己取中文名的？有没有什么比较奇葩的中文名？](https://www.zhihu.com/question/26546359)<br />
-9. [猫用饮水机真的有用吗？](https://www.zhihu.com/question/314321800)<br />
+7. [一个人可以过得有多极简？](https://www.zhihu.com/question/265827355)<br />
+8. [宁夏银川烧烤店燃气爆炸事故 4 名犯罪嫌疑人被刑拘，从法律角度，他们将受到哪些处罚？](https://www.zhihu.com/question/608287472)<br />
+9. [外国人一般是怎么给自己取中文名的？有没有什么比较奇葩的中文名？](https://www.zhihu.com/question/26546359)<br />
 
 > 百度  
 
