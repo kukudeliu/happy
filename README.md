@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 19:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 19:05:01</h4></div>
 
 > 微博  
 
@@ -27,10 +27,10 @@
 > 百度  
 
 1. [夯实粮食安全根基](https://www.baidu.com/s?wd=%E5%A4%AF%E5%AE%9E%E7%B2%AE%E9%A3%9F%E5%AE%89%E5%85%A8%E6%A0%B9%E5%9F%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [普京发表讲话 指责普里戈任“叛国”](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E5%8F%91%E8%A1%A8%E8%AE%B2%E8%AF%9D+%E6%8C%87%E8%B4%A3%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E2%80%9C%E5%8F%9B%E5%9B%BD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [十余人超690分 老师激动要降压药](https://www.baidu.com/s?wd=%E5%8D%81%E4%BD%99%E4%BA%BA%E8%B6%85690%E5%88%86+%E8%80%81%E5%B8%88%E6%BF%80%E5%8A%A8%E8%A6%81%E9%99%8D%E5%8E%8B%E8%8D%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [瓦格纳集团称“内战已经正式开始”](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%9B%86%E5%9B%A2%E7%A7%B0%E2%80%9C%E5%86%85%E6%88%98%E5%B7%B2%E7%BB%8F%E6%AD%A3%E5%BC%8F%E5%BC%80%E5%A7%8B%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [普京发表讲话 指责普里戈任“叛国”](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E5%8F%91%E8%A1%A8%E8%AE%B2%E8%AF%9D+%E6%8C%87%E8%B4%A3%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E2%80%9C%E5%8F%9B%E5%9B%BD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [大地诗篇](https://www.baidu.com/s?wd=%E5%A4%A7%E5%9C%B0%E8%AF%97%E7%AF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [瓦格纳集团回应普京讲话](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%9B%86%E5%9B%A2%E5%9B%9E%E5%BA%94%E6%99%AE%E4%BA%AC%E8%AE%B2%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [十余人超690分 老师激动要降压药](https://www.baidu.com/s?wd=%E5%8D%81%E4%BD%99%E4%BA%BA%E8%B6%85690%E5%88%86+%E8%80%81%E5%B8%88%E6%BF%80%E5%8A%A8%E8%A6%81%E9%99%8D%E5%8E%8B%E8%8D%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [多国就俄罗斯局势表态](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E5%B0%B1%E4%BF%84%E7%BD%97%E6%96%AF%E5%B1%80%E5%8A%BF%E8%A1%A8%E6%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [QQ可使用微信账号登录](https://www.baidu.com/s?wd=QQ%E5%8F%AF%E4%BD%BF%E7%94%A8%E5%BE%AE%E4%BF%A1%E8%B4%A6%E5%8F%B7%E7%99%BB%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女生发烧考618分挨个房间报喜](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%8F%91%E7%83%A7%E8%80%83618%E5%88%86%E6%8C%A8%E4%B8%AA%E6%88%BF%E9%97%B4%E6%8A%A5%E5%96%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -39,10 +39,10 @@
 > 哔哩哔哩  
 
 1. [夯实粮食安全根基](https://www.baidu.com/s?wd=%E5%A4%AF%E5%AE%9E%E7%B2%AE%E9%A3%9F%E5%AE%89%E5%85%A8%E6%A0%B9%E5%9F%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [普京发表讲话 指责普里戈任“叛国”](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E5%8F%91%E8%A1%A8%E8%AE%B2%E8%AF%9D+%E6%8C%87%E8%B4%A3%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E2%80%9C%E5%8F%9B%E5%9B%BD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [十余人超690分 老师激动要降压药](https://www.baidu.com/s?wd=%E5%8D%81%E4%BD%99%E4%BA%BA%E8%B6%85690%E5%88%86+%E8%80%81%E5%B8%88%E6%BF%80%E5%8A%A8%E8%A6%81%E9%99%8D%E5%8E%8B%E8%8D%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [瓦格纳集团称“内战已经正式开始”](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%9B%86%E5%9B%A2%E7%A7%B0%E2%80%9C%E5%86%85%E6%88%98%E5%B7%B2%E7%BB%8F%E6%AD%A3%E5%BC%8F%E5%BC%80%E5%A7%8B%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [普京发表讲话 指责普里戈任“叛国”](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E5%8F%91%E8%A1%A8%E8%AE%B2%E8%AF%9D+%E6%8C%87%E8%B4%A3%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E2%80%9C%E5%8F%9B%E5%9B%BD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [大地诗篇](https://www.baidu.com/s?wd=%E5%A4%A7%E5%9C%B0%E8%AF%97%E7%AF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [瓦格纳集团回应普京讲话](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%9B%86%E5%9B%A2%E5%9B%9E%E5%BA%94%E6%99%AE%E4%BA%AC%E8%AE%B2%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [十余人超690分 老师激动要降压药](https://www.baidu.com/s?wd=%E5%8D%81%E4%BD%99%E4%BA%BA%E8%B6%85690%E5%88%86+%E8%80%81%E5%B8%88%E6%BF%80%E5%8A%A8%E8%A6%81%E9%99%8D%E5%8E%8B%E8%8D%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [多国就俄罗斯局势表态](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E5%B0%B1%E4%BF%84%E7%BD%97%E6%96%AF%E5%B1%80%E5%8A%BF%E8%A1%A8%E6%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [QQ可使用微信账号登录](https://www.baidu.com/s?wd=QQ%E5%8F%AF%E4%BD%BF%E7%94%A8%E5%BE%AE%E4%BF%A1%E8%B4%A6%E5%8F%B7%E7%99%BB%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女生发烧考618分挨个房间报喜](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%8F%91%E7%83%A7%E8%80%83618%E5%88%86%E6%8C%A8%E4%B8%AA%E6%88%BF%E9%97%B4%E6%8A%A5%E5%96%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
