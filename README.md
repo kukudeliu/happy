@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 23:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 23:23:02</h4></div>
 
 > 微博  
 
@@ -10,19 +10,19 @@
 6. [王鹤棣赵露思合影](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%90%88%E5%BD%B1%23&t=31&band_rank=6&Refer=top)<br />
 7. [鹿晗演唱会的女安检员](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%BC%94%E5%94%B1%E4%BC%9A%E7%9A%84%E5%A5%B3%E5%AE%89%E6%A3%80%E5%91%98%23&t=31&band_rank=7&Refer=top)<br />
 8. [莫斯科直飞伊斯坦布尔等地机票已售罄](https://s.weibo.com/weibo?q=%23%E8%8E%AB%E6%96%AF%E7%A7%91%E7%9B%B4%E9%A3%9E%E4%BC%8A%E6%96%AF%E5%9D%A6%E5%B8%83%E5%B0%94%E7%AD%89%E5%9C%B0%E6%9C%BA%E7%A5%A8%E5%B7%B2%E5%94%AE%E7%BD%84%23&t=31&band_rank=8&Refer=top)<br />
-9. [弟弟考673分姐姐哭了一小时](https://s.weibo.com/weibo?q=%23%E5%BC%9F%E5%BC%9F%E8%80%83673%E5%88%86%E5%A7%90%E5%A7%90%E5%93%AD%E4%BA%86%E4%B8%80%E5%B0%8F%E6%97%B6%23&t=31&band_rank=9&Refer=top)<br />
+9. [消失的她](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [俄国防部否认袭击瓦格纳营地，瓦格纳领导人因号召武装叛乱被立案，如何看待此事？](https://www.zhihu.com/question/608218892)<br />
 2. [2023 江苏高考分数线公布，物理科目本科线 448，历史科目本科线 474，如何评价今年的分数线？](https://www.zhihu.com/question/607974405)<br />
-3. [北京观测史上首次连续两日气温突破 40℃，23 日发布高温红色预警信号，哪些信息值得关注？](https://www.zhihu.com/question/608131521)<br />
-4. [为什么旗舰手机标准版大部分都不带无线充电？](https://www.zhihu.com/question/607118057)<br />
-5. [救护车压坏菜，女摊主拦车不让走，目击者称「拦车近 3 分钟后被市民拉开」，如何看待此事？](https://www.zhihu.com/question/607601229)<br />
+3. [为什么旗舰手机标准版大部分都不带无线充电？](https://www.zhihu.com/question/607118057)<br />
+4. [救护车压坏菜，女摊主拦车不让走，目击者称「拦车近 3 分钟后被市民拉开」，如何看待此事？](https://www.zhihu.com/question/607601229)<br />
+5. [北京观测史上首次连续两日气温突破 40℃，23 日发布高温红色预警信号，哪些信息值得关注？](https://www.zhihu.com/question/608131521)<br />
 6. [俄国防部称，瓦格纳集团武装力量被拖入普里戈任的武装叛乱，释放了哪些信号？](https://www.zhihu.com/question/608259505)<br />
 7. [猫为什么不如狗好驯服？](https://www.zhihu.com/question/605865648)<br />
-8. [夏天宅家必备的电风扇，有什么推荐吗？](https://www.zhihu.com/question/603624207)<br />
-9. [一个人可以过得有多极简？](https://www.zhihu.com/question/265827355)<br />
+8. []()<br />
+9. []()<br />
 
 > 百度  
 
