@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 19:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 19:49:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [婆婆连续3年给儿媳做午餐便当盲盒](https://s.weibo.com/weibo?q=%23%E5%A9%86%E5%A9%86%E8%BF%9E%E7%BB%AD3%E5%B9%B4%E7%BB%99%E5%84%BF%E5%AA%B3%E5%81%9A%E5%8D%88%E9%A4%90%E4%BE%BF%E5%BD%93%E7%9B%B2%E7%9B%92%23&t=31&band_rank=5&Refer=top)<br />
 6. [炎亚纶曾强吻曾之乔](https://s.weibo.com/weibo?q=%23%E7%82%8E%E4%BA%9A%E7%BA%B6%E6%9B%BE%E5%BC%BA%E5%90%BB%E6%9B%BE%E4%B9%8B%E4%B9%94%23&t=31&band_rank=6&Refer=top)<br />
 7. [班主任查出学生704分拍手大喊哎呦](https://s.weibo.com/weibo?q=%23%E7%8F%AD%E4%B8%BB%E4%BB%BB%E6%9F%A5%E5%87%BA%E5%AD%A6%E7%94%9F704%E5%88%86%E6%8B%8D%E6%89%8B%E5%A4%A7%E5%96%8A%E5%93%8E%E5%91%A6%23&t=31&band_rank=7&Refer=top)<br />
-8. [弟弟考了640分却开心不起来](https://s.weibo.com/weibo?q=%23%E5%BC%9F%E5%BC%9F%E8%80%83%E4%BA%86640%E5%88%86%E5%8D%B4%E5%BC%80%E5%BF%83%E4%B8%8D%E8%B5%B7%E6%9D%A5%23&t=31&band_rank=8&Refer=top)<br />
-9. [看消失的她 恋爱脑治好了](https://s.weibo.com/weibo?q=%E7%9C%8B%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%20%E6%81%8B%E7%88%B1%E8%84%91%E6%B2%BB%E5%A5%BD%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+8. [看消失的她 恋爱脑治好了](https://s.weibo.com/weibo?q=%E7%9C%8B%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%20%E6%81%8B%E7%88%B1%E8%84%91%E6%B2%BB%E5%A5%BD%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
+9. [弟弟考了640分却开心不起来](https://s.weibo.com/weibo?q=%23%E5%BC%9F%E5%BC%9F%E8%80%83%E4%BA%86640%E5%88%86%E5%8D%B4%E5%BC%80%E5%BF%83%E4%B8%8D%E8%B5%B7%E6%9D%A5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -33,7 +33,7 @@
 5. [十余人超690分 老师激动要降压药](https://www.baidu.com/s?wd=%E5%8D%81%E4%BD%99%E4%BA%BA%E8%B6%85690%E5%88%86+%E8%80%81%E5%B8%88%E6%BF%80%E5%8A%A8%E8%A6%81%E9%99%8D%E5%8E%8B%E8%8D%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [复读女生涨61分坐地嚎啕大哭](https://www.baidu.com/s?wd=%E5%A4%8D%E8%AF%BB%E5%A5%B3%E7%94%9F%E6%B6%A861%E5%88%86%E5%9D%90%E5%9C%B0%E5%9A%8E%E5%95%95%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [莫斯科红场内部已封锁](https://www.baidu.com/s?wd=%E8%8E%AB%E6%96%AF%E7%A7%91%E7%BA%A2%E5%9C%BA%E5%86%85%E9%83%A8%E5%B7%B2%E5%B0%81%E9%94%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [华晨宇回应奥运舞美造价第一](https://www.baidu.com/s?wd=%E5%8D%8E%E6%99%A8%E5%AE%87%E5%9B%9E%E5%BA%94%E5%A5%A5%E8%BF%90%E8%88%9E%E7%BE%8E%E9%80%A0%E4%BB%B7%E7%AC%AC%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [校长接到学生高考成绩喜报哭了](https://www.baidu.com/s?wd=%E6%A0%A1%E9%95%BF%E6%8E%A5%E5%88%B0%E5%AD%A6%E7%94%9F%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E5%96%9C%E6%8A%A5%E5%93%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [直击俄罗斯街头实况](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E4%BF%84%E7%BD%97%E6%96%AF%E8%A1%97%E5%A4%B4%E5%AE%9E%E5%86%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [十余人超690分 老师激动要降压药](https://www.baidu.com/s?wd=%E5%8D%81%E4%BD%99%E4%BA%BA%E8%B6%85690%E5%88%86+%E8%80%81%E5%B8%88%E6%BF%80%E5%8A%A8%E8%A6%81%E9%99%8D%E5%8E%8B%E8%8D%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [复读女生涨61分坐地嚎啕大哭](https://www.baidu.com/s?wd=%E5%A4%8D%E8%AF%BB%E5%A5%B3%E7%94%9F%E6%B6%A861%E5%88%86%E5%9D%90%E5%9C%B0%E5%9A%8E%E5%95%95%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [莫斯科红场内部已封锁](https://www.baidu.com/s?wd=%E8%8E%AB%E6%96%AF%E7%A7%91%E7%BA%A2%E5%9C%BA%E5%86%85%E9%83%A8%E5%B7%B2%E5%B0%81%E9%94%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [华晨宇回应奥运舞美造价第一](https://www.baidu.com/s?wd=%E5%8D%8E%E6%99%A8%E5%AE%87%E5%9B%9E%E5%BA%94%E5%A5%A5%E8%BF%90%E8%88%9E%E7%BE%8E%E9%80%A0%E4%BB%B7%E7%AC%AC%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [校长接到学生高考成绩喜报哭了](https://www.baidu.com/s?wd=%E6%A0%A1%E9%95%BF%E6%8E%A5%E5%88%B0%E5%AD%A6%E7%94%9F%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E5%96%9C%E6%8A%A5%E5%93%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [直击俄罗斯街头实况](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E4%BF%84%E7%BD%97%E6%96%AF%E8%A1%97%E5%A4%B4%E5%AE%9E%E5%86%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
