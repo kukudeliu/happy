@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 16:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 16:19:01</h4></div>
 
 > 微博  
 
@@ -31,9 +31,9 @@
 3. [普京：将采取果断行动来稳定局势](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E5%B0%86%E9%87%87%E5%8F%96%E6%9E%9C%E6%96%AD%E8%A1%8C%E5%8A%A8%E6%9D%A5%E7%A8%B3%E5%AE%9A%E5%B1%80%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [让传统佳节推陈出新](https://www.baidu.com/s?wd=%E8%AE%A9%E4%BC%A0%E7%BB%9F%E4%BD%B3%E8%8A%82%E6%8E%A8%E9%99%88%E5%87%BA%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女生高考712分 查完分就睡觉](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83712%E5%88%86+%E6%9F%A5%E5%AE%8C%E5%88%86%E5%B0%B1%E7%9D%A1%E8%A7%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [十余人超690分 老师激动要降压药](https://www.baidu.com/s?wd=%E5%8D%81%E4%BD%99%E4%BA%BA%E8%B6%85690%E5%88%86+%E8%80%81%E5%B8%88%E6%BF%80%E5%8A%A8%E8%A6%81%E9%99%8D%E5%8E%8B%E8%8D%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [吴越说是不是大女主都没关系](https://www.baidu.com/s?wd=%E5%90%B4%E8%B6%8A%E8%AF%B4%E6%98%AF%E4%B8%8D%E6%98%AF%E5%A4%A7%E5%A5%B3%E4%B8%BB%E9%83%BD%E6%B2%A1%E5%85%B3%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [瓦格纳叛变会是俄乌冲突转折点吗](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E5%8F%9B%E5%8F%98%E4%BC%9A%E6%98%AF%E4%BF%84%E4%B9%8C%E5%86%B2%E7%AA%81%E8%BD%AC%E6%8A%98%E7%82%B9%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [接单接到手软 龙舟生意有多火爆](https://www.baidu.com/s?wd=%E6%8E%A5%E5%8D%95%E6%8E%A5%E5%88%B0%E6%89%8B%E8%BD%AF+%E9%BE%99%E8%88%9F%E7%94%9F%E6%84%8F%E6%9C%89%E5%A4%9A%E7%81%AB%E7%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [十余人超690分 老师激动要降压药](https://www.baidu.com/s?wd=%E5%8D%81%E4%BD%99%E4%BA%BA%E8%B6%85690%E5%88%86+%E8%80%81%E5%B8%88%E6%BF%80%E5%8A%A8%E8%A6%81%E9%99%8D%E5%8E%8B%E8%8D%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [吴越说是不是大女主都没关系](https://www.baidu.com/s?wd=%E5%90%B4%E8%B6%8A%E8%AF%B4%E6%98%AF%E4%B8%8D%E6%98%AF%E5%A4%A7%E5%A5%B3%E4%B8%BB%E9%83%BD%E6%B2%A1%E5%85%B3%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [滚动更新：瓦格纳“兵变”](https://www.baidu.com/s?wd=%E6%BB%9A%E5%8A%A8%E6%9B%B4%E6%96%B0%EF%BC%9A%E7%93%A6%E6%A0%BC%E7%BA%B3%E2%80%9C%E5%85%B5%E5%8F%98%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -43,7 +43,7 @@
 3. [普京：将采取果断行动来稳定局势](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E5%B0%86%E9%87%87%E5%8F%96%E6%9E%9C%E6%96%AD%E8%A1%8C%E5%8A%A8%E6%9D%A5%E7%A8%B3%E5%AE%9A%E5%B1%80%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [让传统佳节推陈出新](https://www.baidu.com/s?wd=%E8%AE%A9%E4%BC%A0%E7%BB%9F%E4%BD%B3%E8%8A%82%E6%8E%A8%E9%99%88%E5%87%BA%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女生高考712分 查完分就睡觉](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83712%E5%88%86+%E6%9F%A5%E5%AE%8C%E5%88%86%E5%B0%B1%E7%9D%A1%E8%A7%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [十余人超690分 老师激动要降压药](https://www.baidu.com/s?wd=%E5%8D%81%E4%BD%99%E4%BA%BA%E8%B6%85690%E5%88%86+%E8%80%81%E5%B8%88%E6%BF%80%E5%8A%A8%E8%A6%81%E9%99%8D%E5%8E%8B%E8%8D%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [吴越说是不是大女主都没关系](https://www.baidu.com/s?wd=%E5%90%B4%E8%B6%8A%E8%AF%B4%E6%98%AF%E4%B8%8D%E6%98%AF%E5%A4%A7%E5%A5%B3%E4%B8%BB%E9%83%BD%E6%B2%A1%E5%85%B3%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [瓦格纳叛变会是俄乌冲突转折点吗](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E5%8F%9B%E5%8F%98%E4%BC%9A%E6%98%AF%E4%BF%84%E4%B9%8C%E5%86%B2%E7%AA%81%E8%BD%AC%E6%8A%98%E7%82%B9%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [接单接到手软 龙舟生意有多火爆](https://www.baidu.com/s?wd=%E6%8E%A5%E5%8D%95%E6%8E%A5%E5%88%B0%E6%89%8B%E8%BD%AF+%E9%BE%99%E8%88%9F%E7%94%9F%E6%84%8F%E6%9C%89%E5%A4%9A%E7%81%AB%E7%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [十余人超690分 老师激动要降压药](https://www.baidu.com/s?wd=%E5%8D%81%E4%BD%99%E4%BA%BA%E8%B6%85690%E5%88%86+%E8%80%81%E5%B8%88%E6%BF%80%E5%8A%A8%E8%A6%81%E9%99%8D%E5%8E%8B%E8%8D%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [吴越说是不是大女主都没关系](https://www.baidu.com/s?wd=%E5%90%B4%E8%B6%8A%E8%AF%B4%E6%98%AF%E4%B8%8D%E6%98%AF%E5%A4%A7%E5%A5%B3%E4%B8%BB%E9%83%BD%E6%B2%A1%E5%85%B3%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [滚动更新：瓦格纳“兵变”](https://www.baidu.com/s?wd=%E6%BB%9A%E5%8A%A8%E6%9B%B4%E6%96%B0%EF%BC%9A%E7%93%A6%E6%A0%BC%E7%BA%B3%E2%80%9C%E5%85%B5%E5%8F%98%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
