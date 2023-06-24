@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 23:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 23:33:01</h4></div>
 
 > 微博  
 
@@ -9,20 +9,20 @@
 5. [银川31死爆炸事故原因公布](https://s.weibo.com/weibo?q=%23%E9%93%B6%E5%B7%9D31%E6%AD%BB%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E5%8E%9F%E5%9B%A0%E5%85%AC%E5%B8%83%23&t=31&band_rank=5&Refer=top)<br />
 6. [王鹤棣赵露思合影](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%90%88%E5%BD%B1%23&t=31&band_rank=6&Refer=top)<br />
 7. [鹿晗演唱会的女安检员](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%BC%94%E5%94%B1%E4%BC%9A%E7%9A%84%E5%A5%B3%E5%AE%89%E6%A3%80%E5%91%98%23&t=31&band_rank=7&Refer=top)<br />
-8. [消失的她](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9&t=31&band_rank=8&Refer=top)<br />
-9. [俄罗斯对瓦格纳组织创始人刑事立案](https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E5%AF%B9%E7%93%A6%E6%A0%BC%E7%BA%B3%E7%BB%84%E7%BB%87%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%88%91%E4%BA%8B%E7%AB%8B%E6%A1%88%23&t=31&band_rank=9&Refer=top)<br />
+8. [俄罗斯对瓦格纳组织创始人刑事立案](https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E5%AF%B9%E7%93%A6%E6%A0%BC%E7%BA%B3%E7%BB%84%E7%BB%87%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%88%91%E4%BA%8B%E7%AB%8B%E6%A1%88%23&t=31&band_rank=8&Refer=top)<br />
+9. [弟弟考673分姐姐哭了一小时](https://s.weibo.com/weibo?q=%23%E5%BC%9F%E5%BC%9F%E8%80%83673%E5%88%86%E5%A7%90%E5%A7%90%E5%93%AD%E4%BA%86%E4%B8%80%E5%B0%8F%E6%97%B6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [俄国防部否认袭击瓦格纳营地，瓦格纳领导人因号召武装叛乱被立案，如何看待此事？](https://www.zhihu.com/question/608218892)<br />
-2. [2023 江苏高考分数线公布，物理科目本科线 448，历史科目本科线 474，如何评价今年的分数线？](https://www.zhihu.com/question/607974405)<br />
-3. [救护车压坏菜，女摊主拦车不让走，目击者称「拦车近 3 分钟后被市民拉开」，如何看待此事？](https://www.zhihu.com/question/607601229)<br />
+2. [救护车压坏菜，女摊主拦车不让走，目击者称「拦车近 3 分钟后被市民拉开」，如何看待此事？](https://www.zhihu.com/question/607601229)<br />
+3. [2023 江苏高考分数线公布，物理科目本科线 448，历史科目本科线 474，如何评价今年的分数线？](https://www.zhihu.com/question/607974405)<br />
 4. [猫为什么不如狗好驯服？](https://www.zhihu.com/question/605865648)<br />
 5. []()<br />
 6. [俄国防部称，瓦格纳集团武装力量被拖入普里戈任的武装叛乱，释放了哪些信号？](https://www.zhihu.com/question/608259505)<br />
 7. []()<br />
-8. [为什么旗舰手机标准版大部分都不带无线充电？](https://www.zhihu.com/question/607118057)<br />
-9. [夏天宅家必备的电风扇，有什么推荐吗？](https://www.zhihu.com/question/603624207)<br />
+8. [夏天宅家必备的电风扇，有什么推荐吗？](https://www.zhihu.com/question/603624207)<br />
+9. [为什么旗舰手机标准版大部分都不带无线充电？](https://www.zhihu.com/question/607118057)<br />
 
 > 百度  
 
