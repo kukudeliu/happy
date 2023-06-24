@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 15:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 15:17:01</h4></div>
 
 > 微博  
 
 1. [瓦格纳称已控制罗斯托夫地区军用设施](https://s.weibo.com/weibo?q=%23%E7%93%A6%E6%A0%BC%E7%BA%B3%E7%A7%B0%E5%B7%B2%E6%8E%A7%E5%88%B6%E7%BD%97%E6%96%AF%E6%89%98%E5%A4%AB%E5%9C%B0%E5%8C%BA%E5%86%9B%E7%94%A8%E8%AE%BE%E6%96%BD%23&t=31&band_rank=1&Refer=top)<br />
-2. [普京将发表电视讲话](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E5%B0%86%E5%8F%91%E8%A1%A8%E7%94%B5%E8%A7%86%E8%AE%B2%E8%AF%9D%23&t=31&band_rank=2&Refer=top)<br />
+2. [普京发表讲话](https://s.weibo.com/weibo?q=%E6%99%AE%E4%BA%AC%E5%8F%91%E8%A1%A8%E8%AE%B2%E8%AF%9D&t=31&band_rank=2&Refer=top)<br />
 3. [31省份报志愿时间全汇总](https://s.weibo.com/weibo?q=%2331%E7%9C%81%E4%BB%BD%E6%8A%A5%E5%BF%97%E6%84%BF%E6%97%B6%E9%97%B4%E5%85%A8%E6%B1%87%E6%80%BB%23&t=31&band_rank=3&Refer=top)<br />
 4. [俄罗斯](https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%23&t=31&band_rank=4&Refer=top)<br />
 5. [高考理科623分决心复读了](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E7%90%86%E7%A7%91623%E5%88%86%E5%86%B3%E5%BF%83%E5%A4%8D%E8%AF%BB%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
@@ -27,7 +27,7 @@
 > 百度  
 
 1. [粮食安全向更高层次跃升](https://www.baidu.com/s?wd=%E7%B2%AE%E9%A3%9F%E5%AE%89%E5%85%A8%E5%90%91%E6%9B%B4%E9%AB%98%E5%B1%82%E6%AC%A1%E8%B7%83%E5%8D%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [瓦格纳首领称部队抵俄 矛头指向防长](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%A6%96%E9%A2%86%E7%A7%B0%E9%83%A8%E9%98%9F%E6%8A%B5%E4%BF%84+%E7%9F%9B%E5%A4%B4%E6%8C%87%E5%90%91%E9%98%B2%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [瓦格纳被指叛乱 普京发表讲话](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E8%A2%AB%E6%8C%87%E5%8F%9B%E4%B9%B1+%E6%99%AE%E4%BA%AC%E5%8F%91%E8%A1%A8%E8%AE%B2%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [滚动更新：瓦格纳“兵变”](https://www.baidu.com/s?wd=%E6%BB%9A%E5%8A%A8%E6%9B%B4%E6%96%B0%EF%BC%9A%E7%93%A6%E6%A0%BC%E7%BA%B3%E2%80%9C%E5%85%B5%E5%8F%98%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [让传统佳节推陈出新](https://www.baidu.com/s?wd=%E8%AE%A9%E4%BC%A0%E7%BB%9F%E4%BD%B3%E8%8A%82%E6%8E%A8%E9%99%88%E5%87%BA%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女生高考712分 查完分就睡觉](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83712%E5%88%86+%E6%9F%A5%E5%AE%8C%E5%88%86%E5%B0%B1%E7%9D%A1%E8%A7%89&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -39,7 +39,7 @@
 > 哔哩哔哩  
 
 1. [粮食安全向更高层次跃升](https://www.baidu.com/s?wd=%E7%B2%AE%E9%A3%9F%E5%AE%89%E5%85%A8%E5%90%91%E6%9B%B4%E9%AB%98%E5%B1%82%E6%AC%A1%E8%B7%83%E5%8D%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [瓦格纳首领称部队抵俄 矛头指向防长](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%A6%96%E9%A2%86%E7%A7%B0%E9%83%A8%E9%98%9F%E6%8A%B5%E4%BF%84+%E7%9F%9B%E5%A4%B4%E6%8C%87%E5%90%91%E9%98%B2%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [瓦格纳被指叛乱 普京发表讲话](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E8%A2%AB%E6%8C%87%E5%8F%9B%E4%B9%B1+%E6%99%AE%E4%BA%AC%E5%8F%91%E8%A1%A8%E8%AE%B2%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [滚动更新：瓦格纳“兵变”](https://www.baidu.com/s?wd=%E6%BB%9A%E5%8A%A8%E6%9B%B4%E6%96%B0%EF%BC%9A%E7%93%A6%E6%A0%BC%E7%BA%B3%E2%80%9C%E5%85%B5%E5%8F%98%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [让传统佳节推陈出新](https://www.baidu.com/s?wd=%E8%AE%A9%E4%BC%A0%E7%BB%9F%E4%BD%B3%E8%8A%82%E6%8E%A8%E9%99%88%E5%87%BA%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女生高考712分 查完分就睡觉](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83712%E5%88%86+%E6%9F%A5%E5%AE%8C%E5%88%86%E5%B0%B1%E7%9D%A1%E8%A7%89&sa=fyb_news&rsv_dl=fyb_news)<br />
