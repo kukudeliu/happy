@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 06:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 06:15:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [一个人可以过得有多极简？](https://www.zhihu.com/question/265827355)<br />
 7. [为什么旗舰手机标准版大部分都不带无线充电？](https://www.zhihu.com/question/607118057)<br />
 8. [宁夏银川烧烤店燃气爆炸事故 4 名犯罪嫌疑人被刑拘，从法律角度，他们将受到哪些处罚？](https://www.zhihu.com/question/608287472)<br />
-9. [如何评价朱一龙在电影《消失的她》中的演技？](https://www.zhihu.com/question/607660063)<br />
+9. []()<br />
 
 > 百度  
 
