@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 09:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 09:03:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [狂飙没拿奖](https://s.weibo.com/weibo?q=%23%E7%8B%82%E9%A3%99%E6%B2%A1%E6%8B%BF%E5%A5%96%23&t=31&band_rank=5&Refer=top)<br />
 6. [赵丽颖回应三次陪跑](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%9B%9E%E5%BA%94%E4%B8%89%E6%AC%A1%E9%99%AA%E8%B7%91%23&t=31&band_rank=6&Refer=top)<br />
 7. [瓦格纳](https://s.weibo.com/weibo?q=%23%E7%93%A6%E6%A0%BC%E7%BA%B3%23&t=31&band_rank=7&Refer=top)<br />
-8. [吴越 白玉兰视后](https://s.weibo.com/weibo?q=%E5%90%B4%E8%B6%8A%20%E7%99%BD%E7%8E%89%E5%85%B0%E8%A7%86%E5%90%8E&t=31&band_rank=8&Refer=top)<br />
-9. [鹿晗演唱会上不敢读的灯牌](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E4%B8%8D%E6%95%A2%E8%AF%BB%E7%9A%84%E7%81%AF%E7%89%8C%23&t=31&band_rank=9&Refer=top)<br />
+8. [炎亚纶 还好没有我的脸](https://s.weibo.com/weibo?q=%E7%82%8E%E4%BA%9A%E7%BA%B6%20%E8%BF%98%E5%A5%BD%E6%B2%A1%E6%9C%89%E6%88%91%E7%9A%84%E8%84%B8&t=31&band_rank=8&Refer=top)<br />
+9. [女子到宾馆匆匆开房浙江老板娘报警](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%88%B0%E5%AE%BE%E9%A6%86%E5%8C%86%E5%8C%86%E5%BC%80%E6%88%BF%E6%B5%99%E6%B1%9F%E8%80%81%E6%9D%BF%E5%A8%98%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
