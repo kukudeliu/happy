@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 22:25:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 22:26:01</h4></div>
 
 > 微博  
 
@@ -18,9 +18,9 @@
 2. [2023 江苏高考分数线公布，物理科目本科线 448，历史科目本科线 474，如何评价今年的分数线？](https://www.zhihu.com/question/607974405)<br />
 3. [「瓦格纳集团」是个怎样的组织？军事实力如何？](https://www.zhihu.com/question/608310286)<br />
 4. [北京观测史上首次连续两日气温突破 40℃，23 日发布高温红色预警信号，哪些信息值得关注？](https://www.zhihu.com/question/608131521)<br />
-5. [宁夏银川烧烤店燃气爆炸事故 4 名犯罪嫌疑人被刑拘，从法律角度，他们将受到哪些处罚？](https://www.zhihu.com/question/608287472)<br />
+5. [为什么旗舰手机标准版大部分都不带无线充电？](https://www.zhihu.com/question/607118057)<br />
 6. [俄国防部称，瓦格纳集团武装力量被拖入普里戈任的武装叛乱，释放了哪些信号？](https://www.zhihu.com/question/608259505)<br />
-7. [为什么旗舰手机标准版大部分都不带无线充电？](https://www.zhihu.com/question/607118057)<br />
+7. [宁夏银川烧烤店燃气爆炸事故 4 名犯罪嫌疑人被刑拘，从法律角度，他们将受到哪些处罚？](https://www.zhihu.com/question/608287472)<br />
 8. [一个人可以过得有多极简？](https://www.zhihu.com/question/265827355)<br />
 9. [外国人一般是怎么给自己取中文名的？有没有什么比较奇葩的中文名？](https://www.zhihu.com/question/26546359)<br />
 
