@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 18:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 18:13:01</h4></div>
 
 > 微博  
 
@@ -8,21 +8,21 @@
 4. [银川爆炸事故4名犯罪嫌疑人被刑拘](https://s.weibo.com/weibo?q=%23%E9%93%B6%E5%B7%9D%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%854%E5%90%8D%E7%8A%AF%E7%BD%AA%E5%AB%8C%E7%96%91%E4%BA%BA%E8%A2%AB%E5%88%91%E6%8B%98%23&t=31&band_rank=4&Refer=top)<br />
 5. [班主任查出学生704分拍手大喊哎呦](https://s.weibo.com/weibo?q=%23%E7%8F%AD%E4%B8%BB%E4%BB%BB%E6%9F%A5%E5%87%BA%E5%AD%A6%E7%94%9F704%E5%88%86%E6%8B%8D%E6%89%8B%E5%A4%A7%E5%96%8A%E5%93%8E%E5%91%A6%23&t=31&band_rank=5&Refer=top)<br />
 6. [车臣部队已准备好帮助镇压叛乱](https://s.weibo.com/weibo?q=%23%E8%BD%A6%E8%87%A3%E9%83%A8%E9%98%9F%E5%B7%B2%E5%87%86%E5%A4%87%E5%A5%BD%E5%B8%AE%E5%8A%A9%E9%95%87%E5%8E%8B%E5%8F%9B%E4%B9%B1%23&t=31&band_rank=6&Refer=top)<br />
-7. [瓦格纳集团回应普京讲话](https://s.weibo.com/weibo?q=%23%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%9B%86%E5%9B%A2%E5%9B%9E%E5%BA%94%E6%99%AE%E4%BA%AC%E8%AE%B2%E8%AF%9D%23&t=31&band_rank=7&Refer=top)<br />
-8. [婆婆连续3年给儿媳做午餐便当盲盒](https://s.weibo.com/weibo?q=%23%E5%A9%86%E5%A9%86%E8%BF%9E%E7%BB%AD3%E5%B9%B4%E7%BB%99%E5%84%BF%E5%AA%B3%E5%81%9A%E5%8D%88%E9%A4%90%E4%BE%BF%E5%BD%93%E7%9B%B2%E7%9B%92%23&t=31&band_rank=8&Refer=top)<br />
-9. [瓦格纳称已控制罗斯托夫地区军用设施](https://s.weibo.com/weibo?q=%23%E7%93%A6%E6%A0%BC%E7%BA%B3%E7%A7%B0%E5%B7%B2%E6%8E%A7%E5%88%B6%E7%BD%97%E6%96%AF%E6%89%98%E5%A4%AB%E5%9C%B0%E5%8C%BA%E5%86%9B%E7%94%A8%E8%AE%BE%E6%96%BD%23&t=31&band_rank=9&Refer=top)<br />
+7. [婆婆连续3年给儿媳做午餐便当盲盒](https://s.weibo.com/weibo?q=%23%E5%A9%86%E5%A9%86%E8%BF%9E%E7%BB%AD3%E5%B9%B4%E7%BB%99%E5%84%BF%E5%AA%B3%E5%81%9A%E5%8D%88%E9%A4%90%E4%BE%BF%E5%BD%93%E7%9B%B2%E7%9B%92%23&t=31&band_rank=7&Refer=top)<br />
+8. [瓦格纳集团回应普京讲话](https://s.weibo.com/weibo?q=%23%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%9B%86%E5%9B%A2%E5%9B%9E%E5%BA%94%E6%99%AE%E4%BA%AC%E8%AE%B2%E8%AF%9D%23&t=31&band_rank=8&Refer=top)<br />
+9. [车臣](https://s.weibo.com/weibo?q=%E8%BD%A6%E8%87%A3&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [瓦格纳回应称普京演讲，否认叛国并称「普京做出了错误的选择，很快我们就会有一位新总统」，释放了哪些信号？](https://www.zhihu.com/question/608279921)<br />
 2. [华北多地高温，北京连续 40℃ 破纪录，为何北方比南方更热？](https://www.zhihu.com/question/608255644)<br />
-3. [普京发表讲话称俄罗斯正为未来开展「最复杂的战斗」，不会让俄罗斯分裂，反叛者会受惩罚，哪些信息值得关注？](https://www.zhihu.com/question/608260419)<br />
-4. [2023 年高考结束后，大学选什么专业好？](https://www.zhihu.com/question/603802531)<br />
-5. []()<br />
-6. [为什么教培机构对退休教师不认可？](https://www.zhihu.com/question/588498394)<br />
-7. [如何评价《原神》枫丹版本的部分美术设计为甜美魔幻风，而非蒸汽朋克？](https://www.zhihu.com/question/608230338)<br />
-8. [乌龟养熟的表现有哪些？](https://www.zhihu.com/question/597512707)<br />
-9. [市面上的玻璃到底有铅没铅？](https://www.zhihu.com/question/606342982)<br />
+3. [2023 年高考结束后，大学选什么专业好？](https://www.zhihu.com/question/603802531)<br />
+4. []()<br />
+5. [为什么教培机构对退休教师不认可？](https://www.zhihu.com/question/588498394)<br />
+6. [如何评价《原神》枫丹版本的部分美术设计为甜美魔幻风，而非蒸汽朋克？](https://www.zhihu.com/question/608230338)<br />
+7. [乌龟养熟的表现有哪些？](https://www.zhihu.com/question/597512707)<br />
+8. [市面上的玻璃到底有铅没铅？](https://www.zhihu.com/question/606342982)<br />
+9. [普里戈任称瓦格纳已控制罗斯托夫地区包括机场在内的军用设施，这意味着什么？此举对俄乌局势起到什么影响？](https://www.zhihu.com/question/608251555)<br />
 
 > 百度  
 
