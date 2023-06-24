@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 19:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 19:54:01</h4></div>
 
 > 微博  
 
@@ -33,7 +33,7 @@
 5. [复读女生涨61分坐地嚎啕大哭](https://www.baidu.com/s?wd=%E5%A4%8D%E8%AF%BB%E5%A5%B3%E7%94%9F%E6%B6%A861%E5%88%86%E5%9D%90%E5%9C%B0%E5%9A%8E%E5%95%95%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [瓦格纳集团称“内战已经正式开始”](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%9B%86%E5%9B%A2%E7%A7%B0%E2%80%9C%E5%86%85%E6%88%98%E5%B7%B2%E7%BB%8F%E6%AD%A3%E5%BC%8F%E5%BC%80%E5%A7%8B%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [莫斯科红场内部已封锁](https://www.baidu.com/s?wd=%E8%8E%AB%E6%96%AF%E7%A7%91%E7%BA%A2%E5%9C%BA%E5%86%85%E9%83%A8%E5%B7%B2%E5%B0%81%E9%94%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [校长接到学生高考成绩喜报哭了](https://www.baidu.com/s?wd=%E6%A0%A1%E9%95%BF%E6%8E%A5%E5%88%B0%E5%AD%A6%E7%94%9F%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E5%96%9C%E6%8A%A5%E5%93%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子醉酒吐车上司机怒骂不要脸](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%86%89%E9%85%92%E5%90%90%E8%BD%A6%E4%B8%8A%E5%8F%B8%E6%9C%BA%E6%80%92%E9%AA%82%E4%B8%8D%E8%A6%81%E8%84%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [直击俄罗斯街头实况](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E4%BF%84%E7%BD%97%E6%96%AF%E8%A1%97%E5%A4%B4%E5%AE%9E%E5%86%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [复读女生涨61分坐地嚎啕大哭](https://www.baidu.com/s?wd=%E5%A4%8D%E8%AF%BB%E5%A5%B3%E7%94%9F%E6%B6%A861%E5%88%86%E5%9D%90%E5%9C%B0%E5%9A%8E%E5%95%95%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [瓦格纳集团称“内战已经正式开始”](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%9B%86%E5%9B%A2%E7%A7%B0%E2%80%9C%E5%86%85%E6%88%98%E5%B7%B2%E7%BB%8F%E6%AD%A3%E5%BC%8F%E5%BC%80%E5%A7%8B%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [莫斯科红场内部已封锁](https://www.baidu.com/s?wd=%E8%8E%AB%E6%96%AF%E7%A7%91%E7%BA%A2%E5%9C%BA%E5%86%85%E9%83%A8%E5%B7%B2%E5%B0%81%E9%94%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [校长接到学生高考成绩喜报哭了](https://www.baidu.com/s?wd=%E6%A0%A1%E9%95%BF%E6%8E%A5%E5%88%B0%E5%AD%A6%E7%94%9F%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E5%96%9C%E6%8A%A5%E5%93%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子醉酒吐车上司机怒骂不要脸](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%86%89%E9%85%92%E5%90%90%E8%BD%A6%E4%B8%8A%E5%8F%B8%E6%9C%BA%E6%80%92%E9%AA%82%E4%B8%8D%E8%A6%81%E8%84%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [直击俄罗斯街头实况](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E4%BF%84%E7%BD%97%E6%96%AF%E8%A1%97%E5%A4%B4%E5%AE%9E%E5%86%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
