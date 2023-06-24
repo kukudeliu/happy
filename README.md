@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 05:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 05:03:01</h4></div>
 
 > 微博  
 
@@ -19,10 +19,10 @@
 3. []()<br />
 4. [40 岁以后，你发现哪些钱根本没必要花？](https://www.zhihu.com/question/593808844)<br />
 5. [2023 江苏高考成绩公布，你考得怎么样？可以说说你的分数和心情吗？](https://www.zhihu.com/question/607974209)<br />
-6. [宁夏银川烧烤店燃气爆炸事故 4 名犯罪嫌疑人被刑拘，从法律角度，他们将受到哪些处罚？](https://www.zhihu.com/question/608287472)<br />
-7. []()<br />
-8. [夏天宅家必备的电风扇，有什么推荐吗？](https://www.zhihu.com/question/603624207)<br />
-9. [一个人可以过得有多极简？](https://www.zhihu.com/question/265827355)<br />
+6. [夏天宅家必备的电风扇，有什么推荐吗？](https://www.zhihu.com/question/603624207)<br />
+7. [宁夏银川烧烤店燃气爆炸事故 4 名犯罪嫌疑人被刑拘，从法律角度，他们将受到哪些处罚？](https://www.zhihu.com/question/608287472)<br />
+8. []()<br />
+9. []()<br />
 
 > 百度  
 
