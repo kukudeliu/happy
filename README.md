@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 15:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 15:11:01</h4></div>
 
 > 微博  
 
@@ -15,14 +15,14 @@
 > 知乎  
 
 1. [俄国防部否认袭击瓦格纳营地，瓦格纳领导人因号召武装叛乱被立案，如何看待此事？](https://www.zhihu.com/question/608218892)<br />
-2. [王宝强《八角笼中》首波口碑出炉，你对该影片都有哪些评价？](https://www.zhihu.com/question/607157396)<br />
-3. [台媒称「山东舰航母编队 21 日通过台湾海峡」，如何看待这一动向？](https://www.zhihu.com/question/607809103)<br />
-4. [硅谷银行亚洲客户遭「双向挤压」，存款被没收，贷款必须还，如何看待此事？](https://www.zhihu.com/question/607811714)<br />
+2. [台媒称「山东舰航母编队 21 日通过台湾海峡」，如何看待这一动向？](https://www.zhihu.com/question/607809103)<br />
+3. [硅谷银行亚洲客户遭「双向挤压」，存款被没收，贷款必须还，如何看待此事？](https://www.zhihu.com/question/607811714)<br />
+4. [2023 安徽高考分数线发布，文史一本 495 分、理工一本 482 分，如何评价今年的分数线？](https://www.zhihu.com/question/607974413)<br />
 5. [俄国防部称乌克兰军队试图利用瓦格纳部队挑衅的机会发动反攻，瓦格纳为什么要叛变，目前当地局势如何？](https://www.zhihu.com/question/608238596)<br />
-6. [2023 安徽高考分数线发布，文史一本 495 分、理工一本 482 分，如何评价今年的分数线？](https://www.zhihu.com/question/607974413)<br />
-7. [想和猫咪拍照，猫咪不配合怎么办？](https://www.zhihu.com/question/421786821)<br />
-8. [4070Ti 能战 5 年吗？](https://www.zhihu.com/question/599118671)<br />
-9. [没文化可以教育好孩子吗？](https://www.zhihu.com/question/606881570)<br />
+6. [想和猫咪拍照，猫咪不配合怎么办？](https://www.zhihu.com/question/421786821)<br />
+7. [4070Ti 能战 5 年吗？](https://www.zhihu.com/question/599118671)<br />
+8. [没文化可以教育好孩子吗？](https://www.zhihu.com/question/606881570)<br />
+9. [高一学生如何进入年级前十?](https://www.zhihu.com/question/426078063)<br />
 
 > 百度  
 
