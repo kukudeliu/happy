@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 17:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 17:45:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [白敬亭女团舞](https://s.weibo.com/weibo?q=%E7%99%BD%E6%95%AC%E4%BA%AD%E5%A5%B3%E5%9B%A2%E8%88%9E&t=31&band_rank=4&Refer=top)<br />
 5. [考上研究生要让大家都知道](https://s.weibo.com/weibo?q=%23%E8%80%83%E4%B8%8A%E7%A0%94%E7%A9%B6%E7%94%9F%E8%A6%81%E8%AE%A9%E5%A4%A7%E5%AE%B6%E9%83%BD%E7%9F%A5%E9%81%93%23&t=31&band_rank=5&Refer=top)<br />
 6. [虞书欣到底有多少靴子](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%B0%91%E9%9D%B4%E5%AD%90%23&t=31&band_rank=6&Refer=top)<br />
-7. [班主任查出学生704分拍手大喊哎呦](https://s.weibo.com/weibo?q=%23%E7%8F%AD%E4%B8%BB%E4%BB%BB%E6%9F%A5%E5%87%BA%E5%AD%A6%E7%94%9F704%E5%88%86%E6%8B%8D%E6%89%8B%E5%A4%A7%E5%96%8A%E5%93%8E%E5%91%A6%23&t=31&band_rank=7&Refer=top)<br />
-8. [网友问老婆变成文咏珊为什么要报警](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E9%97%AE%E8%80%81%E5%A9%86%E5%8F%98%E6%88%90%E6%96%87%E5%92%8F%E7%8F%8A%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=8&Refer=top)<br />
+7. [网友问老婆变成文咏珊为什么要报警](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E9%97%AE%E8%80%81%E5%A9%86%E5%8F%98%E6%88%90%E6%96%87%E5%92%8F%E7%8F%8A%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=7&Refer=top)<br />
+8. [班主任查出学生704分拍手大喊哎呦](https://s.weibo.com/weibo?q=%23%E7%8F%AD%E4%B8%BB%E4%BB%BB%E6%9F%A5%E5%87%BA%E5%AD%A6%E7%94%9F704%E5%88%86%E6%8B%8D%E6%89%8B%E5%A4%A7%E5%96%8A%E5%93%8E%E5%91%A6%23&t=31&band_rank=8&Refer=top)<br />
 9. [资助了三年的妹妹考了六百多分](https://s.weibo.com/weibo?q=%23%E8%B5%84%E5%8A%A9%E4%BA%86%E4%B8%89%E5%B9%B4%E7%9A%84%E5%A6%B9%E5%A6%B9%E8%80%83%E4%BA%86%E5%85%AD%E7%99%BE%E5%A4%9A%E5%88%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
