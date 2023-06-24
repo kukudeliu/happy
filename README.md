@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 14:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 14:33:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [王宝强《八角笼中》首波口碑出炉，你对该影片都有哪些评价？](https://www.zhihu.com/question/607157396)<br />
 7. [台媒称「山东舰航母编队 21 日通过台湾海峡」，如何看待这一动向？](https://www.zhihu.com/question/607809103)<br />
 8. [想和猫咪拍照，猫咪不配合怎么办？](https://www.zhihu.com/question/421786821)<br />
-9. [4070Ti 能战 5 年吗？](https://www.zhihu.com/question/599118671)<br />
+9. []()<br />
 
 > 百度  
 
