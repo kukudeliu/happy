@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 12:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 12:29:01</h4></div>
 
 > 微博  
 
@@ -32,8 +32,8 @@
 4. [让传统佳节推陈出新](https://www.baidu.com/s?wd=%E8%AE%A9%E4%BC%A0%E7%BB%9F%E4%BD%B3%E8%8A%82%E6%8E%A8%E9%99%88%E5%87%BA%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女儿587分 老爸直呼“祖坟冒烟喽”](https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF587%E5%88%86+%E8%80%81%E7%88%B8%E7%9B%B4%E5%91%BC%E2%80%9C%E7%A5%96%E5%9D%9F%E5%86%92%E7%83%9F%E5%96%BD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [高考709分 老师大喊“天啊”](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83709%E5%88%86+%E8%80%81%E5%B8%88%E5%A4%A7%E5%96%8A%E2%80%9C%E5%A4%A9%E5%95%8A%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [日核污水排海临近 韩国人抢购海盐](https://www.baidu.com/s?wd=%E6%97%A5%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E6%B5%B7%E4%B8%B4%E8%BF%91+%E9%9F%A9%E5%9B%BD%E4%BA%BA%E6%8A%A2%E8%B4%AD%E6%B5%B7%E7%9B%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [一家16口聚餐时疑遭投毒 警方介入](https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B616%E5%8F%A3%E8%81%9A%E9%A4%90%E6%97%B6%E7%96%91%E9%81%AD%E6%8A%95%E6%AF%92+%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [一家16口聚餐时疑遭投毒 警方介入](https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B616%E5%8F%A3%E8%81%9A%E9%A4%90%E6%97%B6%E7%96%91%E9%81%AD%E6%8A%95%E6%AF%92+%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [浙江一药农卖元胡10分钟赚52万元](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E8%8D%AF%E5%86%9C%E5%8D%96%E5%85%83%E8%83%A110%E5%88%86%E9%92%9F%E8%B5%9A52%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [瓦格纳称击落一架俄军直升机](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E7%A7%B0%E5%87%BB%E8%90%BD%E4%B8%80%E6%9E%B6%E4%BF%84%E5%86%9B%E7%9B%B4%E5%8D%87%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -44,6 +44,6 @@
 4. [让传统佳节推陈出新](https://www.baidu.com/s?wd=%E8%AE%A9%E4%BC%A0%E7%BB%9F%E4%BD%B3%E8%8A%82%E6%8E%A8%E9%99%88%E5%87%BA%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女儿587分 老爸直呼“祖坟冒烟喽”](https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF587%E5%88%86+%E8%80%81%E7%88%B8%E7%9B%B4%E5%91%BC%E2%80%9C%E7%A5%96%E5%9D%9F%E5%86%92%E7%83%9F%E5%96%BD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [高考709分 老师大喊“天啊”](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83709%E5%88%86+%E8%80%81%E5%B8%88%E5%A4%A7%E5%96%8A%E2%80%9C%E5%A4%A9%E5%95%8A%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [日核污水排海临近 韩国人抢购海盐](https://www.baidu.com/s?wd=%E6%97%A5%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E6%B5%B7%E4%B8%B4%E8%BF%91+%E9%9F%A9%E5%9B%BD%E4%BA%BA%E6%8A%A2%E8%B4%AD%E6%B5%B7%E7%9B%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [一家16口聚餐时疑遭投毒 警方介入](https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B616%E5%8F%A3%E8%81%9A%E9%A4%90%E6%97%B6%E7%96%91%E9%81%AD%E6%8A%95%E6%AF%92+%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [一家16口聚餐时疑遭投毒 警方介入](https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B616%E5%8F%A3%E8%81%9A%E9%A4%90%E6%97%B6%E7%96%91%E9%81%AD%E6%8A%95%E6%AF%92+%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [浙江一药农卖元胡10分钟赚52万元](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E8%8D%AF%E5%86%9C%E5%8D%96%E5%85%83%E8%83%A110%E5%88%86%E9%92%9F%E8%B5%9A52%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [瓦格纳称击落一架俄军直升机](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E7%A7%B0%E5%87%BB%E8%90%BD%E4%B8%80%E6%9E%B6%E4%BF%84%E5%86%9B%E7%9B%B4%E5%8D%87%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
