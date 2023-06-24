@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 09:10:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-24 09:11:01</h4></div>
 
 > 微博  
 
@@ -8,15 +8,15 @@
 4. [暴雪禁止中国大陆玩家参与暗黑4活动](https://s.weibo.com/weibo?q=%23%E6%9A%B4%E9%9B%AA%E7%A6%81%E6%AD%A2%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E7%8E%A9%E5%AE%B6%E5%8F%82%E4%B8%8E%E6%9A%97%E9%BB%914%E6%B4%BB%E5%8A%A8%23&t=31&band_rank=4&Refer=top)<br />
 5. [赵丽颖回应三次陪跑](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%9B%9E%E5%BA%94%E4%B8%89%E6%AC%A1%E9%99%AA%E8%B7%91%23&t=31&band_rank=5&Refer=top)<br />
 6. [炎亚纶 还好没有我的脸](https://s.weibo.com/weibo?q=%E7%82%8E%E4%BA%9A%E7%BA%B6%20%E8%BF%98%E5%A5%BD%E6%B2%A1%E6%9C%89%E6%88%91%E7%9A%84%E8%84%B8&t=31&band_rank=6&Refer=top)<br />
-7. [狂飙没拿奖](https://s.weibo.com/weibo?q=%23%E7%8B%82%E9%A3%99%E6%B2%A1%E6%8B%BF%E5%A5%96%23&t=31&band_rank=7&Refer=top)<br />
-8. [瓦格纳](https://s.weibo.com/weibo?q=%23%E7%93%A6%E6%A0%BC%E7%BA%B3%23&t=31&band_rank=8&Refer=top)<br />
-9. [女子到宾馆匆匆开房浙江老板娘报警](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%88%B0%E5%AE%BE%E9%A6%86%E5%8C%86%E5%8C%86%E5%BC%80%E6%88%BF%E6%B5%99%E6%B1%9F%E8%80%81%E6%9D%BF%E5%A8%98%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=9&Refer=top)<br />
+7. [瓦格纳](https://s.weibo.com/weibo?q=%23%E7%93%A6%E6%A0%BC%E7%BA%B3%23&t=31&band_rank=7&Refer=top)<br />
+8. [狂飙没拿奖](https://s.weibo.com/weibo?q=%23%E7%8B%82%E9%A3%99%E6%B2%A1%E6%8B%BF%E5%A5%96%23&t=31&band_rank=8&Refer=top)<br />
+9. [鹿晗演唱会上不敢读的灯牌](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E4%B8%8D%E6%95%A2%E8%AF%BB%E7%9A%84%E7%81%AF%E7%89%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [莫迪在美国国会上表示「印度很快将是世界第三大经济体」，这一目标可能实现吗？](https://www.zhihu.com/question/608151767)<br />
-2. [如何评价西南大学本科生发表五篇 sci 论文 (第一作者)，毕业典礼上表示希望五年博士毕业后回到母校工作？](https://www.zhihu.com/question/607703486)<br />
-3. [因为端午礼品问题和女朋友吵架分手，请大家看看是我反应过度了吗？](https://www.zhihu.com/question/607441090)<br />
+2. [因为端午礼品问题和女朋友吵架分手，请大家看看是我反应过度了吗？](https://www.zhihu.com/question/607441090)<br />
+3. [如何评价西南大学本科生发表五篇 sci 论文 (第一作者)，毕业典礼上表示希望五年博士毕业后回到母校工作？](https://www.zhihu.com/question/607703486)<br />
 4. [布林肯称美将宣布新的对乌军事支持计划，透露了哪些信息？](https://www.zhihu.com/question/607773006)<br />
 5. [志愿填报一窍不通，怎么办？](https://www.zhihu.com/question/595485450)<br />
 6. [您读过最有力量的书是什么？](https://www.zhihu.com/question/603556848)<br />
@@ -33,8 +33,8 @@
 5. [雷佳音吴越分获白玉兰最佳男女主角](https://www.baidu.com/s?wd=%E9%9B%B7%E4%BD%B3%E9%9F%B3%E5%90%B4%E8%B6%8A%E5%88%86%E8%8E%B7%E7%99%BD%E7%8E%89%E5%85%B0%E6%9C%80%E4%BD%B3%E7%94%B7%E5%A5%B3%E4%B8%BB%E8%A7%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子回了个“OK”表情结果成被告](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9B%9E%E4%BA%86%E4%B8%AA%E2%80%9COK%E2%80%9D%E8%A1%A8%E6%83%85%E7%BB%93%E6%9E%9C%E6%88%90%E8%A2%AB%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [浙江一药农卖元胡10分钟赚52万元](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E8%8D%AF%E5%86%9C%E5%8D%96%E5%85%83%E8%83%A110%E5%88%86%E9%92%9F%E8%B5%9A52%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女生高考712分 查完分就睡觉](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83712%E5%88%86+%E6%9F%A5%E5%AE%8C%E5%88%86%E5%B0%B1%E7%9D%A1%E8%A7%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [四川理科711分考生：想去北大](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E7%90%86%E7%A7%91711%E5%88%86%E8%80%83%E7%94%9F%EF%BC%9A%E6%83%B3%E5%8E%BB%E5%8C%97%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [一考生查分 全家一起喊出666](https://www.baidu.com/s?wd=%E4%B8%80%E8%80%83%E7%94%9F%E6%9F%A5%E5%88%86+%E5%85%A8%E5%AE%B6%E4%B8%80%E8%B5%B7%E5%96%8A%E5%87%BA666&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女生高考712分 查完分就睡觉](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83712%E5%88%86+%E6%9F%A5%E5%AE%8C%E5%88%86%E5%B0%B1%E7%9D%A1%E8%A7%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [雷佳音吴越分获白玉兰最佳男女主角](https://www.baidu.com/s?wd=%E9%9B%B7%E4%BD%B3%E9%9F%B3%E5%90%B4%E8%B6%8A%E5%88%86%E8%8E%B7%E7%99%BD%E7%8E%89%E5%85%B0%E6%9C%80%E4%BD%B3%E7%94%B7%E5%A5%B3%E4%B8%BB%E8%A7%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子回了个“OK”表情结果成被告](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9B%9E%E4%BA%86%E4%B8%AA%E2%80%9COK%E2%80%9D%E8%A1%A8%E6%83%85%E7%BB%93%E6%9E%9C%E6%88%90%E8%A2%AB%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [浙江一药农卖元胡10分钟赚52万元](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E8%8D%AF%E5%86%9C%E5%8D%96%E5%85%83%E8%83%A110%E5%88%86%E9%92%9F%E8%B5%9A52%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女生高考712分 查完分就睡觉](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83712%E5%88%86+%E6%9F%A5%E5%AE%8C%E5%88%86%E5%B0%B1%E7%9D%A1%E8%A7%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [四川理科711分考生：想去北大](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E7%90%86%E7%A7%91711%E5%88%86%E8%80%83%E7%94%9F%EF%BC%9A%E6%83%B3%E5%8E%BB%E5%8C%97%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [一考生查分 全家一起喊出666](https://www.baidu.com/s?wd=%E4%B8%80%E8%80%83%E7%94%9F%E6%9F%A5%E5%88%86+%E5%85%A8%E5%AE%B6%E4%B8%80%E8%B5%B7%E5%96%8A%E5%87%BA666&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女生高考712分 查完分就睡觉](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83712%E5%88%86+%E6%9F%A5%E5%AE%8C%E5%88%86%E5%B0%B1%E7%9D%A1%E8%A7%89&sa=fyb_news&rsv_dl=fyb_news)<br />
