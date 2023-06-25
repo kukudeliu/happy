@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 06:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 06:38:02</h4></div>
 
 > 微博  
 
@@ -19,10 +19,10 @@
 3. [据媒体报道，一些韩国航空公司暂停部分韩中航班，具体情况如何？背后原因有哪些？对中韩关系有何影响？](https://www.zhihu.com/question/608449825)<br />
 4. []()<br />
 5. []()<br />
-6. []()<br />
-7. [熬夜最伤害哪里？](https://www.zhihu.com/question/498308126)<br />
-8. []()<br />
-9. [洗地机真的很「省心省力」吗？它又是如何做到的呢？](https://www.zhihu.com/question/486939718)<br />
+6. [熬夜最伤害哪里？](https://www.zhihu.com/question/498308126)<br />
+7. []()<br />
+8. [洗地机真的很「省心省力」吗？它又是如何做到的呢？](https://www.zhihu.com/question/486939718)<br />
+9. [高考结束后要打工吗?](https://www.zhihu.com/question/606380707)<br />
 
 > 百度  
 
