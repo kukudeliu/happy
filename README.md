@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 09:23:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 09:24:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [俄方将撤销对普里戈任的刑事立案](https://www.baidu.com/s?wd=%E4%BF%84%E6%96%B9%E5%B0%86%E6%92%A4%E9%94%80%E5%AF%B9%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E7%9A%84%E5%88%91%E4%BA%8B%E7%AB%8B%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女孩充电被电击内脏受损面临截肢](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%85%85%E7%94%B5%E8%A2%AB%E7%94%B5%E5%87%BB%E5%86%85%E8%84%8F%E5%8F%97%E6%8D%9F%E9%9D%A2%E4%B8%B4%E6%88%AA%E8%82%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女生考前3天连续失眠 一查684分落泪](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E8%80%83%E5%89%8D3%E5%A4%A9%E8%BF%9E%E7%BB%AD%E5%A4%B1%E7%9C%A0+%E4%B8%80%E6%9F%A5684%E5%88%86%E8%90%BD%E6%B3%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [双胞胎姐妹高考查分均超600](https://www.baidu.com/s?wd=%E5%8F%8C%E8%83%9E%E8%83%8E%E5%A7%90%E5%A6%B9%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86%E5%9D%87%E8%B6%85600&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [葛斯齐回应被起诉：没说大小S吸毒](https://www.baidu.com/s?wd=%E8%91%9B%E6%96%AF%E9%BD%90%E5%9B%9E%E5%BA%94%E8%A2%AB%E8%B5%B7%E8%AF%89%EF%BC%9A%E6%B2%A1%E8%AF%B4%E5%A4%A7%E5%B0%8FS%E5%90%B8%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [俄方将撤销对普里戈任的刑事立案](https://www.baidu.com/s?wd=%E4%BF%84%E6%96%B9%E5%B0%86%E6%92%A4%E9%94%80%E5%AF%B9%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E7%9A%84%E5%88%91%E4%BA%8B%E7%AB%8B%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女孩充电被电击内脏受损面临截肢](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%85%85%E7%94%B5%E8%A2%AB%E7%94%B5%E5%87%BB%E5%86%85%E8%84%8F%E5%8F%97%E6%8D%9F%E9%9D%A2%E4%B8%B4%E6%88%AA%E8%82%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女生考前3天连续失眠 一查684分落泪](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E8%80%83%E5%89%8D3%E5%A4%A9%E8%BF%9E%E7%BB%AD%E5%A4%B1%E7%9C%A0+%E4%B8%80%E6%9F%A5684%E5%88%86%E8%90%BD%E6%B3%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [双胞胎姐妹高考查分均超600](https://www.baidu.com/s?wd=%E5%8F%8C%E8%83%9E%E8%83%8E%E5%A7%90%E5%A6%B9%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86%E5%9D%87%E8%B6%85600&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [葛斯齐回应被起诉：没说大小S吸毒](https://www.baidu.com/s?wd=%E8%91%9B%E6%96%AF%E9%BD%90%E5%9B%9E%E5%BA%94%E8%A2%AB%E8%B5%B7%E8%AF%89%EF%BC%9A%E6%B2%A1%E8%AF%B4%E5%A4%A7%E5%B0%8FS%E5%90%B8%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
