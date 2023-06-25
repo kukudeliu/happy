@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 07:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 07:22:01</h4></div>
 
 > 微博  
 
@@ -9,16 +9,16 @@
 5. [中方表示瓦格纳集团事件是俄罗斯内政](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E8%A1%A8%E7%A4%BA%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%9B%86%E5%9B%A2%E4%BA%8B%E4%BB%B6%E6%98%AF%E4%BF%84%E7%BD%97%E6%96%AF%E5%86%85%E6%94%BF%23&t=31&band_rank=5&Refer=top)<br />
 6. [四川26岁女孩下网约车后失联](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D26%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%B8%8B%E7%BD%91%E7%BA%A6%E8%BD%A6%E5%90%8E%E5%A4%B1%E8%81%94%23&t=31&band_rank=6&Refer=top)<br />
 7. [现在的吃播真的令我手足无措](https://s.weibo.com/weibo?q=%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%90%83%E6%92%AD%E7%9C%9F%E7%9A%84%E4%BB%A4%E6%88%91%E6%89%8B%E8%B6%B3%E6%97%A0%E6%8E%AA&t=31&band_rank=7&Refer=top)<br />
-8. [父亲去世男孩忍痛高考如愿上岸](https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%8E%BB%E4%B8%96%E7%94%B7%E5%AD%A9%E5%BF%8D%E7%97%9B%E9%AB%98%E8%80%83%E5%A6%82%E6%84%BF%E4%B8%8A%E5%B2%B8%23&t=31&band_rank=8&Refer=top)<br />
-9. [为什么医院不让家属陪护只能请护工](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8C%BB%E9%99%A2%E4%B8%8D%E8%AE%A9%E5%AE%B6%E5%B1%9E%E9%99%AA%E6%8A%A4%E5%8F%AA%E8%83%BD%E8%AF%B7%E6%8A%A4%E5%B7%A5%23&t=31&band_rank=9&Refer=top)<br />
+8. [为什么医院不让家属陪护只能请护工](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8C%BB%E9%99%A2%E4%B8%8D%E8%AE%A9%E5%AE%B6%E5%B1%9E%E9%99%AA%E6%8A%A4%E5%8F%AA%E8%83%BD%E8%AF%B7%E6%8A%A4%E5%B7%A5%23&t=31&band_rank=8&Refer=top)<br />
+9. [父亲去世男孩忍痛高考如愿上岸](https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%8E%BB%E4%B8%96%E7%94%B7%E5%AD%A9%E5%BF%8D%E7%97%9B%E9%AB%98%E8%80%83%E5%A6%82%E6%84%BF%E4%B8%8A%E5%B2%B8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [普里戈任与瓦格纳集团武装人员已全部从俄南部军区司令部撤离，这意味着什么？](https://www.zhihu.com/question/608395500)<br />
 2. [女孩充电被电击内脏受损面临截肢，客服回应「适配器非原装」，导致电击原因是什么？如何看待涉事公司回应？](https://www.zhihu.com/question/608412173)<br />
 3. [据媒体报道，一些韩国航空公司暂停部分韩中航班，具体情况如何？背后原因有哪些？对中韩关系有何影响？](https://www.zhihu.com/question/608449825)<br />
-4. []()<br />
-5. []()<br />
+4. [17K 小说网创始人血酬离世，如何评价他的成绩？](https://www.zhihu.com/question/608360754)<br />
+5. [杭州亚运会电竞集训队最终入选名单公示，如何评价《英雄联盟》项目名单？](https://www.zhihu.com/question/608619700)<br />
 6. [消息称美情报部门 6 月中旬已得知瓦格纳计划，如何看待这一消息的真实性？透露了哪些信息？](https://www.zhihu.com/question/608485451)<br />
 7. []()<br />
 8. []()<br />
