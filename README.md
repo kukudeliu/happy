@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 21:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 21:11:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [白敬亭工作室big胆](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%B7%A5%E4%BD%9C%E5%AE%A4big%E8%83%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [消失的她评分下降](https://s.weibo.com/weibo?q=%23%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E8%AF%84%E5%88%86%E4%B8%8B%E9%99%8D%23&t=31&band_rank=7&Refer=top)<br />
 8. [浪姐4五公淘汰](https://s.weibo.com/weibo?q=%23%E6%B5%AA%E5%A7%904%E4%BA%94%E5%85%AC%E6%B7%98%E6%B1%B0%23&t=31&band_rank=8&Refer=top)<br />
-9. [西瓜猪](https://s.weibo.com/weibo?q=%E8%A5%BF%E7%93%9C%E7%8C%AA&t=31&band_rank=9&Refer=top)<br />
+9. [瓦格纳部队离开利佩茨克州](https://s.weibo.com/weibo?q=%23%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%83%A8%E9%98%9F%E7%A6%BB%E5%BC%80%E5%88%A9%E4%BD%A9%E8%8C%A8%E5%85%8B%E5%B7%9E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
