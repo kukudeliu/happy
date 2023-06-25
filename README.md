@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 11:55:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 11:56:01</h4></div>
 
 > 微博  
 
@@ -16,7 +16,7 @@
 
 1. [普里戈任与瓦格纳集团武装人员已全部从俄南部军区司令部撤离，这意味着什么？](https://www.zhihu.com/question/608395500)<br />
 2. [钻石价格大跌，分析人士称钻石价格或将进一步跳水，受哪些因素影响？如何解读？](https://www.zhihu.com/question/608252259)<br />
-3. []()<br />
+3. [为什么有老师很在意论文致谢？](https://www.zhihu.com/question/606467535)<br />
 4. [如何评价悬疑电影《消失的她》？值得到电影院看吗？](https://www.zhihu.com/question/607961545)<br />
 5. [古时候老虎多到什么程度？](https://www.zhihu.com/question/284091530)<br />
 6. [村超还能存在多久，是否打了足联与各大俱乐部的脸？](https://www.zhihu.com/question/606520764)<br />
