@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 21:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 21:38:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [消失的她评分下降](https://s.weibo.com/weibo?q=%23%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E8%AF%84%E5%88%86%E4%B8%8B%E9%99%8D%23&t=31&band_rank=4&Refer=top)<br />
 5. [汤唯 兔子警官](https://s.weibo.com/weibo?q=%E6%B1%A4%E5%94%AF%20%E5%85%94%E5%AD%90%E8%AD%A6%E5%AE%98&t=31&band_rank=5&Refer=top)<br />
 6. [孟子义27岁素颜状态](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%8927%E5%B2%81%E7%B4%A0%E9%A2%9C%E7%8A%B6%E6%80%81%23&t=31&band_rank=6&Refer=top)<br />
-7. [蔡徐坤泰国演唱会](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E6%B3%B0%E5%9B%BD%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=7&Refer=top)<br />
-8. [瓦格纳部队离开利佩茨克州](https://s.weibo.com/weibo?q=%23%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%83%A8%E9%98%9F%E7%A6%BB%E5%BC%80%E5%88%A9%E4%BD%A9%E8%8C%A8%E5%85%8B%E5%B7%9E%23&t=31&band_rank=8&Refer=top)<br />
-9. [白敬亭工作室big胆](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%B7%A5%E4%BD%9C%E5%AE%A4big%E8%83%86%23&t=31&band_rank=9&Refer=top)<br />
+7. [美媒称美国提前得知瓦格纳要行动](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AA%92%E7%A7%B0%E7%BE%8E%E5%9B%BD%E6%8F%90%E5%89%8D%E5%BE%97%E7%9F%A5%E7%93%A6%E6%A0%BC%E7%BA%B3%E8%A6%81%E8%A1%8C%E5%8A%A8%23&t=31&band_rank=7&Refer=top)<br />
+8. [蔡徐坤泰国演唱会](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E6%B3%B0%E5%9B%BD%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=8&Refer=top)<br />
+9. [iG战胜LNG](https://s.weibo.com/weibo?q=%23iG%E6%88%98%E8%83%9CLNG%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -34,7 +34,7 @@
 6. [黄多多17岁穿搭](https://www.baidu.com/s?wd=%E9%BB%84%E5%A4%9A%E5%A4%9A17%E5%B2%81%E7%A9%BF%E6%90%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [高校教师称殡葬专业就业率基本100%](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E6%95%99%E5%B8%88%E7%A7%B0%E6%AE%A1%E8%91%AC%E4%B8%93%E4%B8%9A%E5%B0%B1%E4%B8%9A%E7%8E%87%E5%9F%BA%E6%9C%AC100%25&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [690分学霸采访中接到清华电话](https://www.baidu.com/s?wd=690%E5%88%86%E5%AD%A6%E9%9C%B8%E9%87%87%E8%AE%BF%E4%B8%AD%E6%8E%A5%E5%88%B0%E6%B8%85%E5%8D%8E%E7%94%B5%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [多芬客服回应沐浴露现蓝光](https://www.baidu.com/s?wd=%E5%A4%9A%E8%8A%AC%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E6%B2%90%E6%B5%B4%E9%9C%B2%E7%8E%B0%E8%93%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子要钱买毒品遭拒殴打父亲致死](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A6%81%E9%92%B1%E4%B9%B0%E6%AF%92%E5%93%81%E9%81%AD%E6%8B%92%E6%AE%B4%E6%89%93%E7%88%B6%E4%BA%B2%E8%87%B4%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [黄多多17岁穿搭](https://www.baidu.com/s?wd=%E9%BB%84%E5%A4%9A%E5%A4%9A17%E5%B2%81%E7%A9%BF%E6%90%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [高校教师称殡葬专业就业率基本100%](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E6%95%99%E5%B8%88%E7%A7%B0%E6%AE%A1%E8%91%AC%E4%B8%93%E4%B8%9A%E5%B0%B1%E4%B8%9A%E7%8E%87%E5%9F%BA%E6%9C%AC100%25&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [690分学霸采访中接到清华电话](https://www.baidu.com/s?wd=690%E5%88%86%E5%AD%A6%E9%9C%B8%E9%87%87%E8%AE%BF%E4%B8%AD%E6%8E%A5%E5%88%B0%E6%B8%85%E5%8D%8E%E7%94%B5%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [多芬客服回应沐浴露现蓝光](https://www.baidu.com/s?wd=%E5%A4%9A%E8%8A%AC%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E6%B2%90%E6%B5%B4%E9%9C%B2%E7%8E%B0%E8%93%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子要钱买毒品遭拒殴打父亲致死](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A6%81%E9%92%B1%E4%B9%B0%E6%AF%92%E5%93%81%E9%81%AD%E6%8B%92%E6%AE%B4%E6%89%93%E7%88%B6%E4%BA%B2%E8%87%B4%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
