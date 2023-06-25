@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 16:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 16:56:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [郑欣宜](https://s.weibo.com/weibo?q=%E9%83%91%E6%AC%A3%E5%AE%9C&t=31&band_rank=6&Refer=top)<br />
 7. [邱耀乐妈妈提告炎亚纶](https://s.weibo.com/weibo?q=%23%E9%82%B1%E8%80%80%E4%B9%90%E5%A6%88%E5%A6%88%E6%8F%90%E5%91%8A%E7%82%8E%E4%BA%9A%E7%BA%B6%23&t=31&band_rank=7&Refer=top)<br />
 8. [普京反制日本](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E5%8F%8D%E5%88%B6%E6%97%A5%E6%9C%AC%23&t=31&band_rank=8&Refer=top)<br />
-9. [那个说英语难的男生高考684分](https://s.weibo.com/weibo?q=%23%E9%82%A3%E4%B8%AA%E8%AF%B4%E8%8B%B1%E8%AF%AD%E9%9A%BE%E7%9A%84%E7%94%B7%E7%94%9F%E9%AB%98%E8%80%83684%E5%88%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [一年放假115天多吗](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%B9%B4%E6%94%BE%E5%81%87115%E5%A4%A9%E5%A4%9A%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
