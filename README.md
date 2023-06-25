@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 08:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 08:58:02</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [白俄罗斯总统卢卡申科调停成功](https://www.baidu.com/s?wd=%E7%99%BD%E4%BF%84%E7%BD%97%E6%96%AF%E6%80%BB%E7%BB%9F%E5%8D%A2%E5%8D%A1%E7%94%B3%E7%A7%91%E8%B0%83%E5%81%9C%E6%88%90%E5%8A%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女孩充电被电击内脏受损面临截肢](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%85%85%E7%94%B5%E8%A2%AB%E7%94%B5%E5%87%BB%E5%86%85%E8%84%8F%E5%8F%97%E6%8D%9F%E9%9D%A2%E4%B8%B4%E6%88%AA%E8%82%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女生考前3天连续失眠 一查684分落泪](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E8%80%83%E5%89%8D3%E5%A4%A9%E8%BF%9E%E7%BB%AD%E5%A4%B1%E7%9C%A0+%E4%B8%80%E6%9F%A5684%E5%88%86%E8%90%BD%E6%B3%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [回顾瓦格纳的“24小时哗变”](https://www.baidu.com/s?wd=%E5%9B%9E%E9%A1%BE%E7%93%A6%E6%A0%BC%E7%BA%B3%E7%9A%84%E2%80%9C24%E5%B0%8F%E6%97%B6%E5%93%97%E5%8F%98%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [家长以为中考管饭送完孩子去郊游](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E4%BB%A5%E4%B8%BA%E4%B8%AD%E8%80%83%E7%AE%A1%E9%A5%AD%E9%80%81%E5%AE%8C%E5%AD%A9%E5%AD%90%E5%8E%BB%E9%83%8A%E6%B8%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [白俄罗斯总统卢卡申科调停成功](https://www.baidu.com/s?wd=%E7%99%BD%E4%BF%84%E7%BD%97%E6%96%AF%E6%80%BB%E7%BB%9F%E5%8D%A2%E5%8D%A1%E7%94%B3%E7%A7%91%E8%B0%83%E5%81%9C%E6%88%90%E5%8A%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女孩充电被电击内脏受损面临截肢](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%85%85%E7%94%B5%E8%A2%AB%E7%94%B5%E5%87%BB%E5%86%85%E8%84%8F%E5%8F%97%E6%8D%9F%E9%9D%A2%E4%B8%B4%E6%88%AA%E8%82%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女生考前3天连续失眠 一查684分落泪](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E8%80%83%E5%89%8D3%E5%A4%A9%E8%BF%9E%E7%BB%AD%E5%A4%B1%E7%9C%A0+%E4%B8%80%E6%9F%A5684%E5%88%86%E8%90%BD%E6%B3%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [回顾瓦格纳的“24小时哗变”](https://www.baidu.com/s?wd=%E5%9B%9E%E9%A1%BE%E7%93%A6%E6%A0%BC%E7%BA%B3%E7%9A%84%E2%80%9C24%E5%B0%8F%E6%97%B6%E5%93%97%E5%8F%98%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [家长以为中考管饭送完孩子去郊游](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E4%BB%A5%E4%B8%BA%E4%B8%AD%E8%80%83%E7%AE%A1%E9%A5%AD%E9%80%81%E5%AE%8C%E5%AD%A9%E5%AD%90%E5%8E%BB%E9%83%8A%E6%B8%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
