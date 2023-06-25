@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 11:43:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 11:44:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [2023广东高考分数线](https://s.weibo.com/weibo?q=%232023%E5%B9%BF%E4%B8%9C%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%23&t=31&band_rank=6&Refer=top)<br />
 7. [消失的她原型](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E5%8E%9F%E5%9E%8B&t=31&band_rank=7&Refer=top)<br />
 8. [调休制定参与者建议重新考虑政策](https://s.weibo.com/weibo?q=%23%E8%B0%83%E4%BC%91%E5%88%B6%E5%AE%9A%E5%8F%82%E4%B8%8E%E8%80%85%E5%BB%BA%E8%AE%AE%E9%87%8D%E6%96%B0%E8%80%83%E8%99%91%E6%94%BF%E7%AD%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [宋轶片场勾白敬亭下巴](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%BD%B6%E7%89%87%E5%9C%BA%E5%8B%BE%E7%99%BD%E6%95%AC%E4%BA%AD%E4%B8%8B%E5%B7%B4%23&t=31&band_rank=9&Refer=top)<br />
+9. [李天泽高考成绩586](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%A4%A9%E6%B3%BD%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9586%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
