@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 07:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 07:25:01</h4></div>
 
 > 微博  
 
@@ -27,7 +27,7 @@
 > 百度  
 
 1. [感受习近平总书记的土地情怀](https://www.baidu.com/s?wd=%E6%84%9F%E5%8F%97%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9A%84%E5%9C%9F%E5%9C%B0%E6%83%85%E6%80%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [双胞胎兄弟高考同获688分](https://www.baidu.com/s?wd=%E5%8F%8C%E8%83%9E%E8%83%8E%E5%85%84%E5%BC%9F%E9%AB%98%E8%80%83%E5%90%8C%E8%8E%B7688%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [报了=白读！这些都是野鸡大学](https://www.baidu.com/s?wd=%E6%8A%A5%E4%BA%86%3D%E7%99%BD%E8%AF%BB%EF%BC%81%E8%BF%99%E4%BA%9B%E9%83%BD%E6%98%AF%E9%87%8E%E9%B8%A1%E5%A4%A7%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [中方回应瓦格纳事件：这是俄内政](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%93%A6%E6%A0%BC%E7%BA%B3%E4%BA%8B%E4%BB%B6%EF%BC%9A%E8%BF%99%E6%98%AF%E4%BF%84%E5%86%85%E6%94%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [在希望的田野上](https://www.baidu.com/s?wd=%E5%9C%A8%E5%B8%8C%E6%9C%9B%E7%9A%84%E7%94%B0%E9%87%8E%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [跳桥救人小哥获杭州市政府最高奖励](https://www.baidu.com/s?wd=%E8%B7%B3%E6%A1%A5%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E8%8E%B7%E6%9D%AD%E5%B7%9E%E5%B8%82%E6%94%BF%E5%BA%9C%E6%9C%80%E9%AB%98%E5%A5%96%E5%8A%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -39,7 +39,7 @@
 > 哔哩哔哩  
 
 1. [感受习近平总书记的土地情怀](https://www.baidu.com/s?wd=%E6%84%9F%E5%8F%97%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9A%84%E5%9C%9F%E5%9C%B0%E6%83%85%E6%80%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [双胞胎兄弟高考同获688分](https://www.baidu.com/s?wd=%E5%8F%8C%E8%83%9E%E8%83%8E%E5%85%84%E5%BC%9F%E9%AB%98%E8%80%83%E5%90%8C%E8%8E%B7688%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [报了=白读！这些都是野鸡大学](https://www.baidu.com/s?wd=%E6%8A%A5%E4%BA%86%3D%E7%99%BD%E8%AF%BB%EF%BC%81%E8%BF%99%E4%BA%9B%E9%83%BD%E6%98%AF%E9%87%8E%E9%B8%A1%E5%A4%A7%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [中方回应瓦格纳事件：这是俄内政](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%93%A6%E6%A0%BC%E7%BA%B3%E4%BA%8B%E4%BB%B6%EF%BC%9A%E8%BF%99%E6%98%AF%E4%BF%84%E5%86%85%E6%94%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [在希望的田野上](https://www.baidu.com/s?wd=%E5%9C%A8%E5%B8%8C%E6%9C%9B%E7%9A%84%E7%94%B0%E9%87%8E%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [跳桥救人小哥获杭州市政府最高奖励](https://www.baidu.com/s?wd=%E8%B7%B3%E6%A1%A5%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E8%8E%B7%E6%9D%AD%E5%B7%9E%E5%B8%82%E6%94%BF%E5%BA%9C%E6%9C%80%E9%AB%98%E5%A5%96%E5%8A%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
