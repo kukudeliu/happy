@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 00:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 00:23:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [龙凤胎高考成绩都600分以上相差1分](https://www.baidu.com/s?wd=%E9%BE%99%E5%87%A4%E8%83%8E%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E9%83%BD600%E5%88%86%E4%BB%A5%E4%B8%8A%E7%9B%B8%E5%B7%AE1%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子要钱买毒品遭拒殴打父亲致死](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A6%81%E9%92%B1%E4%B9%B0%E6%AF%92%E5%93%81%E9%81%AD%E6%8B%92%E6%AE%B4%E6%89%93%E7%88%B6%E4%BA%B2%E8%87%B4%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [大众CEO承认奥迪落后竞争对手](https://www.baidu.com/s?wd=%E5%A4%A7%E4%BC%97CEO%E6%89%BF%E8%AE%A4%E5%A5%A5%E8%BF%AA%E8%90%BD%E5%90%8E%E7%AB%9E%E4%BA%89%E5%AF%B9%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [一家三口吃蒸双臭嘴唇发紫送急诊](https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E5%90%83%E8%92%B8%E5%8F%8C%E8%87%AD%E5%98%B4%E5%94%87%E5%8F%91%E7%B4%AB%E9%80%81%E6%80%A5%E8%AF%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [8888元猪景房为何能卖这么贵](https://www.baidu.com/s?wd=8888%E5%85%83%E7%8C%AA%E6%99%AF%E6%88%BF%E4%B8%BA%E4%BD%95%E8%83%BD%E5%8D%96%E8%BF%99%E4%B9%88%E8%B4%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [龙凤胎高考成绩都600分以上相差1分](https://www.baidu.com/s?wd=%E9%BE%99%E5%87%A4%E8%83%8E%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E9%83%BD600%E5%88%86%E4%BB%A5%E4%B8%8A%E7%9B%B8%E5%B7%AE1%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子要钱买毒品遭拒殴打父亲致死](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A6%81%E9%92%B1%E4%B9%B0%E6%AF%92%E5%93%81%E9%81%AD%E6%8B%92%E6%AE%B4%E6%89%93%E7%88%B6%E4%BA%B2%E8%87%B4%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [大众CEO承认奥迪落后竞争对手](https://www.baidu.com/s?wd=%E5%A4%A7%E4%BC%97CEO%E6%89%BF%E8%AE%A4%E5%A5%A5%E8%BF%AA%E8%90%BD%E5%90%8E%E7%AB%9E%E4%BA%89%E5%AF%B9%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [一家三口吃蒸双臭嘴唇发紫送急诊](https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E5%90%83%E8%92%B8%E5%8F%8C%E8%87%AD%E5%98%B4%E5%94%87%E5%8F%91%E7%B4%AB%E9%80%81%E6%80%A5%E8%AF%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [8888元猪景房为何能卖这么贵](https://www.baidu.com/s?wd=8888%E5%85%83%E7%8C%AA%E6%99%AF%E6%88%BF%E4%B8%BA%E4%BD%95%E8%83%BD%E5%8D%96%E8%BF%99%E4%B9%88%E8%B4%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
