@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 01:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 01:15:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [跳桥救人小哥获杭州市政府最高奖励](https://www.baidu.com/s?wd=%E8%B7%B3%E6%A1%A5%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E8%8E%B7%E6%9D%AD%E5%B7%9E%E5%B8%82%E6%94%BF%E5%BA%9C%E6%9C%80%E9%AB%98%E5%A5%96%E5%8A%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [多芬客服回应沐浴露现蓝光](https://www.baidu.com/s?wd=%E5%A4%9A%E8%8A%AC%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E6%B2%90%E6%B5%B4%E9%9C%B2%E7%8E%B0%E8%93%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中秋国庆连放8天 你期待吗](https://www.baidu.com/s?wd=%E4%B8%AD%E7%A7%8B%E5%9B%BD%E5%BA%86%E8%BF%9E%E6%94%BE8%E5%A4%A9+%E4%BD%A0%E6%9C%9F%E5%BE%85%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [一些韩国航空公司暂停部分韩中航班](https://www.baidu.com/s?wd=%E4%B8%80%E4%BA%9B%E9%9F%A9%E5%9B%BD%E8%88%AA%E7%A9%BA%E5%85%AC%E5%8F%B8%E6%9A%82%E5%81%9C%E9%83%A8%E5%88%86%E9%9F%A9%E4%B8%AD%E8%88%AA%E7%8F%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [北京今年继续不公布前20名考生成绩](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E4%BB%8A%E5%B9%B4%E7%BB%A7%E7%BB%AD%E4%B8%8D%E5%85%AC%E5%B8%83%E5%89%8D20%E5%90%8D%E8%80%83%E7%94%9F%E6%88%90%E7%BB%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [北京今年继续不公布前20名考生成绩](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E4%BB%8A%E5%B9%B4%E7%BB%A7%E7%BB%AD%E4%B8%8D%E5%85%AC%E5%B8%83%E5%89%8D20%E5%90%8D%E8%80%83%E7%94%9F%E6%88%90%E7%BB%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [那个说英语难的男生高考684分](https://www.baidu.com/s?wd=%E9%82%A3%E4%B8%AA%E8%AF%B4%E8%8B%B1%E8%AF%AD%E9%9A%BE%E7%9A%84%E7%94%B7%E7%94%9F%E9%AB%98%E8%80%83684%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [跳桥救人小哥获杭州市政府最高奖励](https://www.baidu.com/s?wd=%E8%B7%B3%E6%A1%A5%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E8%8E%B7%E6%9D%AD%E5%B7%9E%E5%B8%82%E6%94%BF%E5%BA%9C%E6%9C%80%E9%AB%98%E5%A5%96%E5%8A%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [多芬客服回应沐浴露现蓝光](https://www.baidu.com/s?wd=%E5%A4%9A%E8%8A%AC%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E6%B2%90%E6%B5%B4%E9%9C%B2%E7%8E%B0%E8%93%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中秋国庆连放8天 你期待吗](https://www.baidu.com/s?wd=%E4%B8%AD%E7%A7%8B%E5%9B%BD%E5%BA%86%E8%BF%9E%E6%94%BE8%E5%A4%A9+%E4%BD%A0%E6%9C%9F%E5%BE%85%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [一些韩国航空公司暂停部分韩中航班](https://www.baidu.com/s?wd=%E4%B8%80%E4%BA%9B%E9%9F%A9%E5%9B%BD%E8%88%AA%E7%A9%BA%E5%85%AC%E5%8F%B8%E6%9A%82%E5%81%9C%E9%83%A8%E5%88%86%E9%9F%A9%E4%B8%AD%E8%88%AA%E7%8F%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [北京今年继续不公布前20名考生成绩](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E4%BB%8A%E5%B9%B4%E7%BB%A7%E7%BB%AD%E4%B8%8D%E5%85%AC%E5%B8%83%E5%89%8D20%E5%90%8D%E8%80%83%E7%94%9F%E6%88%90%E7%BB%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [北京今年继续不公布前20名考生成绩](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E4%BB%8A%E5%B9%B4%E7%BB%A7%E7%BB%AD%E4%B8%8D%E5%85%AC%E5%B8%83%E5%89%8D20%E5%90%8D%E8%80%83%E7%94%9F%E6%88%90%E7%BB%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [那个说英语难的男生高考684分](https://www.baidu.com/s?wd=%E9%82%A3%E4%B8%AA%E8%AF%B4%E8%8B%B1%E8%AF%AD%E9%9A%BE%E7%9A%84%E7%94%B7%E7%94%9F%E9%AB%98%E8%80%83684%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
