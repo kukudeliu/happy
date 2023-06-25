@@ -1,10 +1,10 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 19:56:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 19:57:01</h4></div>
 
 > 微博  
 
 1. [女孩高考成绩被屏蔽4天小字显示全省前50](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E8%A2%AB%E5%B1%8F%E8%94%BD4%E5%A4%A9%E5%B0%8F%E5%AD%97%E6%98%BE%E7%A4%BA%E5%85%A8%E7%9C%81%E5%89%8D50%23&t=31&band_rank=1&Refer=top)<br />
 2. [女子上午买瓜34元没付上傍晚开车来补](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B8%8A%E5%8D%88%E4%B9%B0%E7%93%9C34%E5%85%83%E6%B2%A1%E4%BB%98%E4%B8%8A%E5%82%8D%E6%99%9A%E5%BC%80%E8%BD%A6%E6%9D%A5%E8%A1%A5%23&t=31&band_rank=2&Refer=top)<br />
-3. [有一种韧劲叫超预期](https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%B8%80%E7%A7%8D%E9%9F%A7%E5%8A%B2%E5%8F%AB%E8%B6%85%E9%A2%84%E6%9C%9F%23&t=31&band_rank=3&Refer=top)<br />
+3. [2023高考志愿填报10问10答](https://s.weibo.com/weibo?q=%232023%E9%AB%98%E8%80%83%E5%BF%97%E6%84%BF%E5%A1%AB%E6%8A%A510%E9%97%AE10%E7%AD%94%23&t=31&band_rank=3&Refer=top)<br />
 4. [父亲拒绝给钱买毒品被儿子殴打致死](https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E6%8B%92%E7%BB%9D%E7%BB%99%E9%92%B1%E4%B9%B0%E6%AF%92%E5%93%81%E8%A2%AB%E5%84%BF%E5%AD%90%E6%AE%B4%E6%89%93%E8%87%B4%E6%AD%BB%23&t=31&band_rank=4&Refer=top)<br />
 5. [龙凤胎兄妹高考成绩仅差1分](https://s.weibo.com/weibo?q=%23%E9%BE%99%E5%87%A4%E8%83%8E%E5%85%84%E5%A6%B9%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E4%BB%85%E5%B7%AE1%E5%88%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [白敬亭工作室big胆](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%B7%A5%E4%BD%9C%E5%AE%A4big%E8%83%86%23&t=31&band_rank=6&Refer=top)<br />
