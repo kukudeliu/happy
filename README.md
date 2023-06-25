@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 10:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 10:08:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [陈飞宇孟子义 难哄](https://s.weibo.com/weibo?q=%E9%99%88%E9%A3%9E%E5%AE%87%E5%AD%9F%E5%AD%90%E4%B9%89%20%E9%9A%BE%E5%93%84&t=31&band_rank=6&Refer=top)<br />
 7. [消失的她 绝世大甜剧](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%20%E7%BB%9D%E4%B8%96%E5%A4%A7%E7%94%9C%E5%89%A7&t=31&band_rank=7&Refer=top)<br />
 8. [普京感谢卢卡申科](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E6%84%9F%E8%B0%A2%E5%8D%A2%E5%8D%A1%E7%94%B3%E7%A7%91%23&t=31&band_rank=8&Refer=top)<br />
-9. [女孩充电被电击内脏受损面临截肢](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%85%85%E7%94%B5%E8%A2%AB%E7%94%B5%E5%87%BB%E5%86%85%E8%84%8F%E5%8F%97%E6%8D%9F%E9%9D%A2%E4%B8%B4%E6%88%AA%E8%82%A2%23&t=31&band_rank=9&Refer=top)<br />
+9. [消失的她原型](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E5%8E%9F%E5%9E%8B&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -19,8 +19,8 @@
 3. [媒体评张雪峰关于新闻学专业言论称「学不学新闻不能只凭网红一张嘴」，如何评价此观点？你怎么看新闻学专业？](https://www.zhihu.com/question/607408168)<br />
 4. [瓦格纳部队官兵将与俄国防部签署服役合同，对俄内部武装势力有何影响？事态渐平息，俄国防部会否有人事调整？](https://www.zhihu.com/question/608398366)<br />
 5. [俄罗斯总统新闻秘书佩斯科夫表示，将撤销对普里戈任的刑事立案，背后原因有哪些？还有哪些细节值得关注？](https://www.zhihu.com/question/608396033)<br />
-6. [数据称应届大学生就业重心继续下沉，越来越多应届生回县城考公，如何看待此现象？反映出哪些问题？](https://www.zhihu.com/question/607781746)<br />
-7. [钻石价格大跌，分析人士称钻石价格或将进一步跳水，受哪些因素影响？如何解读？](https://www.zhihu.com/question/608252259)<br />
+6. [钻石价格大跌，分析人士称钻石价格或将进一步跳水，受哪些因素影响？如何解读？](https://www.zhihu.com/question/608252259)<br />
+7. [数据称应届大学生就业重心继续下沉，越来越多应届生回县城考公，如何看待此现象？反映出哪些问题？](https://www.zhihu.com/question/607781746)<br />
 8. [如何看待近 4 成网友认为高考志愿优先专业？你认为填报志愿应优先考虑什么？](https://www.zhihu.com/question/607401267)<br />
 9. [如何评价朱一龙、倪妮主演的悬疑电影《消失的她》？](https://www.zhihu.com/question/607263125)<br />
 
