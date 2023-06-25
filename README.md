@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 20:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 20:30:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [2023高考志愿填报10问10答](https://s.weibo.com/weibo?q=%232023%E9%AB%98%E8%80%83%E5%BF%97%E6%84%BF%E5%A1%AB%E6%8A%A510%E9%97%AE10%E7%AD%94%23&t=31&band_rank=3&Refer=top)<br />
 4. [消失的她评分下降](https://s.weibo.com/weibo?q=%23%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E8%AF%84%E5%88%86%E4%B8%8B%E9%99%8D%23&t=31&band_rank=4&Refer=top)<br />
 5. [白敬亭工作室big胆](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%B7%A5%E4%BD%9C%E5%AE%A4big%E8%83%86%23&t=31&band_rank=5&Refer=top)<br />
-6. [西瓜猪](https://s.weibo.com/weibo?q=%E8%A5%BF%E7%93%9C%E7%8C%AA&t=31&band_rank=6&Refer=top)<br />
+6. [北京一律所称不再招聘川大毕业生](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%B8%80%E5%BE%8B%E6%89%80%E7%A7%B0%E4%B8%8D%E5%86%8D%E6%8B%9B%E8%81%98%E5%B7%9D%E5%A4%A7%E6%AF%95%E4%B8%9A%E7%94%9F%23&t=31&band_rank=6&Refer=top)<br />
 7. [父亲拒绝给钱买毒品被儿子殴打致死](https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E6%8B%92%E7%BB%9D%E7%BB%99%E9%92%B1%E4%B9%B0%E6%AF%92%E5%93%81%E8%A2%AB%E5%84%BF%E5%AD%90%E6%AE%B4%E6%89%93%E8%87%B4%E6%AD%BB%23&t=31&band_rank=7&Refer=top)<br />
-8. [北京一律所称不再招聘川大毕业生](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%B8%80%E5%BE%8B%E6%89%80%E7%A7%B0%E4%B8%8D%E5%86%8D%E6%8B%9B%E8%81%98%E5%B7%9D%E5%A4%A7%E6%AF%95%E4%B8%9A%E7%94%9F%23&t=31&band_rank=8&Refer=top)<br />
+8. [西瓜猪](https://s.weibo.com/weibo?q=%E8%A5%BF%E7%93%9C%E7%8C%AA&t=31&band_rank=8&Refer=top)<br />
 9. [陈哲远不谈恋爱的原因](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%93%B2%E8%BF%9C%E4%B8%8D%E8%B0%88%E6%81%8B%E7%88%B1%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -21,8 +21,8 @@
 5. [第一学历对未来就业影响有多大？高考成绩不理想是选择复读还是考研再战？](https://www.zhihu.com/theater/66632)<br />
 6. [消息称美情报部门 6 月中旬已得知瓦格纳计划，如何看待这一消息的真实性？透露了哪些信息？](https://www.zhihu.com/question/608485451)<br />
 7. [据媒体报道，一些韩国航空公司暂停部分韩中航班，具体情况如何？背后原因有哪些？对中韩关系有何影响？](https://www.zhihu.com/question/608449825)<br />
-8. [玩密室逃脱时有哪些有趣的经历？](https://www.zhihu.com/question/335559873)<br />
-9. [当初你是为什么报了数学专业? 现在怎么样？](https://www.zhihu.com/question/607812231)<br />
+8. [当初你是为什么报了数学专业? 现在怎么样？](https://www.zhihu.com/question/607812231)<br />
+9. [玩密室逃脱时有哪些有趣的经历？](https://www.zhihu.com/question/335559873)<br />
 
 > 百度  
 
