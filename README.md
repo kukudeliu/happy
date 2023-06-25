@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 21:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 21:26:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [白敬亭工作室big胆](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%B7%A5%E4%BD%9C%E5%AE%A4big%E8%83%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [女孩高考成绩被屏蔽4天小字显示全省前50](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E8%A2%AB%E5%B1%8F%E8%94%BD4%E5%A4%A9%E5%B0%8F%E5%AD%97%E6%98%BE%E7%A4%BA%E5%85%A8%E7%9C%81%E5%89%8D50%23&t=31&band_rank=6&Refer=top)<br />
 7. [汤唯 兔子警官](https://s.weibo.com/weibo?q=%E6%B1%A4%E5%94%AF%20%E5%85%94%E5%AD%90%E8%AD%A6%E5%AE%98&t=31&band_rank=7&Refer=top)<br />
-8. [白敬亭 纹身](https://s.weibo.com/weibo?q=%E7%99%BD%E6%95%AC%E4%BA%AD%20%E7%BA%B9%E8%BA%AB&t=31&band_rank=8&Refer=top)<br />
-9. [孟子义27岁素颜状态](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%8927%E5%B2%81%E7%B4%A0%E9%A2%9C%E7%8A%B6%E6%80%81%23&t=31&band_rank=9&Refer=top)<br />
+8. [孟子义27岁素颜状态](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%8927%E5%B2%81%E7%B4%A0%E9%A2%9C%E7%8A%B6%E6%80%81%23&t=31&band_rank=8&Refer=top)<br />
+9. [白敬亭 纹身](https://s.weibo.com/weibo?q=%E7%99%BD%E6%95%AC%E4%BA%AD%20%E7%BA%B9%E8%BA%AB&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [2023 天津高考分数线公布，本科线 472，特招线 563，如何看待今年的分数线？](https://www.zhihu.com/question/607974492)<br />
 7. [单独去旅行会经常遇到危险的事情吗？](https://www.zhihu.com/question/606863287)<br />
 8. [行测和申论该怎么复习？](https://www.zhihu.com/question/450128517)<br />
-9. [熬夜最伤害哪里？](https://www.zhihu.com/question/498308126)<br />
+9. [玩命准备考研是一种什么体验？](https://www.zhihu.com/question/599782667)<br />
 
 > 百度  
 
