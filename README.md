@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 01:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 01:28:01</h4></div>
 
 > 微博  
 
@@ -32,9 +32,9 @@
 4. [在希望的田野上](https://www.baidu.com/s?wd=%E5%9C%A8%E5%B8%8C%E6%9C%9B%E7%9A%84%E7%94%B0%E9%87%8E%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [跳桥救人小哥获杭州市政府最高奖励](https://www.baidu.com/s?wd=%E8%B7%B3%E6%A1%A5%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E8%8E%B7%E6%9D%AD%E5%B7%9E%E5%B8%82%E6%94%BF%E5%BA%9C%E6%9C%80%E9%AB%98%E5%A5%96%E5%8A%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [白敬亭工作室有点反骨在身上](https://www.baidu.com/s?wd=%E7%99%BD%E6%95%AC%E4%BA%AD%E5%B7%A5%E4%BD%9C%E5%AE%A4%E6%9C%89%E7%82%B9%E5%8F%8D%E9%AA%A8%E5%9C%A8%E8%BA%AB%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [一家三口吃蒸双臭嘴唇发紫送急诊](https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E5%90%83%E8%92%B8%E5%8F%8C%E8%87%AD%E5%98%B4%E5%94%87%E5%8F%91%E7%B4%AB%E9%80%81%E6%80%A5%E8%AF%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [儿子考694分妈妈激动叫出海豚音](https://www.baidu.com/s?wd=%E5%84%BF%E5%AD%90%E8%80%83694%E5%88%86%E5%A6%88%E5%A6%88%E6%BF%80%E5%8A%A8%E5%8F%AB%E5%87%BA%E6%B5%B7%E8%B1%9A%E9%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [那个说英语难的男生高考684分](https://www.baidu.com/s?wd=%E9%82%A3%E4%B8%AA%E8%AF%B4%E8%8B%B1%E8%AF%AD%E9%9A%BE%E7%9A%84%E7%94%B7%E7%94%9F%E9%AB%98%E8%80%83684%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [儿子考694分妈妈激动叫出海豚音](https://www.baidu.com/s?wd=%E5%84%BF%E5%AD%90%E8%80%83694%E5%88%86%E5%A6%88%E5%A6%88%E6%BF%80%E5%8A%A8%E5%8F%AB%E5%87%BA%E6%B5%B7%E8%B1%9A%E9%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [一家三口吃蒸双臭嘴唇发紫送急诊](https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E5%90%83%E8%92%B8%E5%8F%8C%E8%87%AD%E5%98%B4%E5%94%87%E5%8F%91%E7%B4%AB%E9%80%81%E6%80%A5%E8%AF%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女生考前3天连续失眠 一查684分落泪](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E8%80%83%E5%89%8D3%E5%A4%A9%E8%BF%9E%E7%BB%AD%E5%A4%B1%E7%9C%A0+%E4%B8%80%E6%9F%A5684%E5%88%86%E8%90%BD%E6%B3%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [在希望的田野上](https://www.baidu.com/s?wd=%E5%9C%A8%E5%B8%8C%E6%9C%9B%E7%9A%84%E7%94%B0%E9%87%8E%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [跳桥救人小哥获杭州市政府最高奖励](https://www.baidu.com/s?wd=%E8%B7%B3%E6%A1%A5%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E8%8E%B7%E6%9D%AD%E5%B7%9E%E5%B8%82%E6%94%BF%E5%BA%9C%E6%9C%80%E9%AB%98%E5%A5%96%E5%8A%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [白敬亭工作室有点反骨在身上](https://www.baidu.com/s?wd=%E7%99%BD%E6%95%AC%E4%BA%AD%E5%B7%A5%E4%BD%9C%E5%AE%A4%E6%9C%89%E7%82%B9%E5%8F%8D%E9%AA%A8%E5%9C%A8%E8%BA%AB%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [一家三口吃蒸双臭嘴唇发紫送急诊](https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E5%90%83%E8%92%B8%E5%8F%8C%E8%87%AD%E5%98%B4%E5%94%87%E5%8F%91%E7%B4%AB%E9%80%81%E6%80%A5%E8%AF%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [儿子考694分妈妈激动叫出海豚音](https://www.baidu.com/s?wd=%E5%84%BF%E5%AD%90%E8%80%83694%E5%88%86%E5%A6%88%E5%A6%88%E6%BF%80%E5%8A%A8%E5%8F%AB%E5%87%BA%E6%B5%B7%E8%B1%9A%E9%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [那个说英语难的男生高考684分](https://www.baidu.com/s?wd=%E9%82%A3%E4%B8%AA%E8%AF%B4%E8%8B%B1%E8%AF%AD%E9%9A%BE%E7%9A%84%E7%94%B7%E7%94%9F%E9%AB%98%E8%80%83684%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [儿子考694分妈妈激动叫出海豚音](https://www.baidu.com/s?wd=%E5%84%BF%E5%AD%90%E8%80%83694%E5%88%86%E5%A6%88%E5%A6%88%E6%BF%80%E5%8A%A8%E5%8F%AB%E5%87%BA%E6%B5%B7%E8%B1%9A%E9%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [一家三口吃蒸双臭嘴唇发紫送急诊](https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E5%90%83%E8%92%B8%E5%8F%8C%E8%87%AD%E5%98%B4%E5%94%87%E5%8F%91%E7%B4%AB%E9%80%81%E6%80%A5%E8%AF%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女生考前3天连续失眠 一查684分落泪](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E8%80%83%E5%89%8D3%E5%A4%A9%E8%BF%9E%E7%BB%AD%E5%A4%B1%E7%9C%A0+%E4%B8%80%E6%9F%A5684%E5%88%86%E8%90%BD%E6%B3%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
