@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 20:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 20:50:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [消息称美情报部门 6 月中旬已得知瓦格纳计划，如何看待这一消息的真实性？透露了哪些信息？](https://www.zhihu.com/question/608485451)<br />
 7. [2023 LPL 夏季赛 RA 1:2 不敌 EDG，如何评价这场比赛？](https://www.zhihu.com/question/608499014)<br />
 8. [2023 天津高考分数线公布，本科线 472，特招线 563，如何看待今年的分数线？](https://www.zhihu.com/question/607974492)<br />
-9. [行测和申论该怎么复习？](https://www.zhihu.com/question/450128517)<br />
+9. [单独去旅行会经常遇到危险的事情吗？](https://www.zhihu.com/question/606863287)<br />
 
 > 百度  
 
