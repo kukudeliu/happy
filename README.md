@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 10:13:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 10:14:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [俄方将撤销对普里戈任的刑事立案](https://www.baidu.com/s?wd=%E4%BF%84%E6%96%B9%E5%B0%86%E6%92%A4%E9%94%80%E5%AF%B9%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E7%9A%84%E5%88%91%E4%BA%8B%E7%AB%8B%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女孩充电被电击内脏受损面临截肢](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%85%85%E7%94%B5%E8%A2%AB%E7%94%B5%E5%87%BB%E5%86%85%E8%84%8F%E5%8F%97%E6%8D%9F%E9%9D%A2%E4%B8%B4%E6%88%AA%E8%82%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [“敬礼娃娃”已收到北大人大邀请](https://www.baidu.com/s?wd=%E2%80%9C%E6%95%AC%E7%A4%BC%E5%A8%83%E5%A8%83%E2%80%9D%E5%B7%B2%E6%94%B6%E5%88%B0%E5%8C%97%E5%A4%A7%E4%BA%BA%E5%A4%A7%E9%82%80%E8%AF%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [梁静茹演唱会观众齐喊开空调](https://www.baidu.com/s?wd=%E6%A2%81%E9%9D%99%E8%8C%B9%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A7%82%E4%BC%97%E9%BD%90%E5%96%8A%E5%BC%80%E7%A9%BA%E8%B0%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [这场“叛乱”为何旋风般收场？](https://www.baidu.com/s?wd=%E8%BF%99%E5%9C%BA%E2%80%9C%E5%8F%9B%E4%B9%B1%E2%80%9D%E4%B8%BA%E4%BD%95%E6%97%8B%E9%A3%8E%E8%88%AC%E6%94%B6%E5%9C%BA%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [俄方将撤销对普里戈任的刑事立案](https://www.baidu.com/s?wd=%E4%BF%84%E6%96%B9%E5%B0%86%E6%92%A4%E9%94%80%E5%AF%B9%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E7%9A%84%E5%88%91%E4%BA%8B%E7%AB%8B%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女孩充电被电击内脏受损面临截肢](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%85%85%E7%94%B5%E8%A2%AB%E7%94%B5%E5%87%BB%E5%86%85%E8%84%8F%E5%8F%97%E6%8D%9F%E9%9D%A2%E4%B8%B4%E6%88%AA%E8%82%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [“敬礼娃娃”已收到北大人大邀请](https://www.baidu.com/s?wd=%E2%80%9C%E6%95%AC%E7%A4%BC%E5%A8%83%E5%A8%83%E2%80%9D%E5%B7%B2%E6%94%B6%E5%88%B0%E5%8C%97%E5%A4%A7%E4%BA%BA%E5%A4%A7%E9%82%80%E8%AF%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [梁静茹演唱会观众齐喊开空调](https://www.baidu.com/s?wd=%E6%A2%81%E9%9D%99%E8%8C%B9%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A7%82%E4%BC%97%E9%BD%90%E5%96%8A%E5%BC%80%E7%A9%BA%E8%B0%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [这场“叛乱”为何旋风般收场？](https://www.baidu.com/s?wd=%E8%BF%99%E5%9C%BA%E2%80%9C%E5%8F%9B%E4%B9%B1%E2%80%9D%E4%B8%BA%E4%BD%95%E6%97%8B%E9%A3%8E%E8%88%AC%E6%94%B6%E5%9C%BA%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
