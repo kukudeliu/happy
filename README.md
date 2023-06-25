@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 00:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 00:29:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [中方表示瓦格纳集团事件是俄罗斯内政](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E8%A1%A8%E7%A4%BA%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%9B%86%E5%9B%A2%E4%BA%8B%E4%BB%B6%E6%98%AF%E4%BF%84%E7%BD%97%E6%96%AF%E5%86%85%E6%94%BF%23&t=31&band_rank=6&Refer=top)<br />
 7. [普京称全天候控制特别军事行动进程](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E7%A7%B0%E5%85%A8%E5%A4%A9%E5%80%99%E6%8E%A7%E5%88%B6%E7%89%B9%E5%88%AB%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8%E8%BF%9B%E7%A8%8B%23&t=31&band_rank=7&Refer=top)<br />
 8. [朱一龙的头为什么是歪的](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E7%9A%84%E5%A4%B4%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%AF%E6%AD%AA%E7%9A%84%23&t=31&band_rank=8&Refer=top)<br />
-9. [EXO回归预告](https://s.weibo.com/weibo?q=EXO%E5%9B%9E%E5%BD%92%E9%A2%84%E5%91%8A&t=31&band_rank=9&Refer=top)<br />
+9. [肖战谈自己如何面对各种评论](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%B0%88%E8%87%AA%E5%B7%B1%E5%A6%82%E4%BD%95%E9%9D%A2%E5%AF%B9%E5%90%84%E7%A7%8D%E8%AF%84%E8%AE%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -32,9 +32,9 @@
 4. [在希望的田野上](https://www.baidu.com/s?wd=%E5%9C%A8%E5%B8%8C%E6%9C%9B%E7%9A%84%E7%94%B0%E9%87%8E%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [跳桥救人小哥获杭州市政府最高奖励](https://www.baidu.com/s?wd=%E8%B7%B3%E6%A1%A5%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E8%8E%B7%E6%9D%AD%E5%B7%9E%E5%B8%82%E6%94%BF%E5%BA%9C%E6%9C%80%E9%AB%98%E5%A5%96%E5%8A%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [龙凤胎高考成绩都600分以上相差1分](https://www.baidu.com/s?wd=%E9%BE%99%E5%87%A4%E8%83%8E%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E9%83%BD600%E5%88%86%E4%BB%A5%E4%B8%8A%E7%9B%B8%E5%B7%AE1%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [大众CEO承认奥迪落后竞争对手](https://www.baidu.com/s?wd=%E5%A4%A7%E4%BC%97CEO%E6%89%BF%E8%AE%A4%E5%A5%A5%E8%BF%AA%E8%90%BD%E5%90%8E%E7%AB%9E%E4%BA%89%E5%AF%B9%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子要钱买毒品遭拒殴打父亲致死](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A6%81%E9%92%B1%E4%B9%B0%E6%AF%92%E5%93%81%E9%81%AD%E6%8B%92%E6%AE%B4%E6%89%93%E7%88%B6%E4%BA%B2%E8%87%B4%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [范志毅谈“村超”爆火原因](https://www.baidu.com/s?wd=%E8%8C%83%E5%BF%97%E6%AF%85%E8%B0%88%E2%80%9C%E6%9D%91%E8%B6%85%E2%80%9D%E7%88%86%E7%81%AB%E5%8E%9F%E5%9B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子要钱买毒品遭拒殴打父亲致死](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A6%81%E9%92%B1%E4%B9%B0%E6%AF%92%E5%93%81%E9%81%AD%E6%8B%92%E6%AE%B4%E6%89%93%E7%88%B6%E4%BA%B2%E8%87%B4%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [大众CEO承认奥迪落后竞争对手](https://www.baidu.com/s?wd=%E5%A4%A7%E4%BC%97CEO%E6%89%BF%E8%AE%A4%E5%A5%A5%E8%BF%AA%E8%90%BD%E5%90%8E%E7%AB%9E%E4%BA%89%E5%AF%B9%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [近15万河南考生跨过一本线](https://www.baidu.com/s?wd=%E8%BF%9115%E4%B8%87%E6%B2%B3%E5%8D%97%E8%80%83%E7%94%9F%E8%B7%A8%E8%BF%87%E4%B8%80%E6%9C%AC%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [在希望的田野上](https://www.baidu.com/s?wd=%E5%9C%A8%E5%B8%8C%E6%9C%9B%E7%9A%84%E7%94%B0%E9%87%8E%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [跳桥救人小哥获杭州市政府最高奖励](https://www.baidu.com/s?wd=%E8%B7%B3%E6%A1%A5%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E8%8E%B7%E6%9D%AD%E5%B7%9E%E5%B8%82%E6%94%BF%E5%BA%9C%E6%9C%80%E9%AB%98%E5%A5%96%E5%8A%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [龙凤胎高考成绩都600分以上相差1分](https://www.baidu.com/s?wd=%E9%BE%99%E5%87%A4%E8%83%8E%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E9%83%BD600%E5%88%86%E4%BB%A5%E4%B8%8A%E7%9B%B8%E5%B7%AE1%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [大众CEO承认奥迪落后竞争对手](https://www.baidu.com/s?wd=%E5%A4%A7%E4%BC%97CEO%E6%89%BF%E8%AE%A4%E5%A5%A5%E8%BF%AA%E8%90%BD%E5%90%8E%E7%AB%9E%E4%BA%89%E5%AF%B9%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子要钱买毒品遭拒殴打父亲致死](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A6%81%E9%92%B1%E4%B9%B0%E6%AF%92%E5%93%81%E9%81%AD%E6%8B%92%E6%AE%B4%E6%89%93%E7%88%B6%E4%BA%B2%E8%87%B4%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [范志毅谈“村超”爆火原因](https://www.baidu.com/s?wd=%E8%8C%83%E5%BF%97%E6%AF%85%E8%B0%88%E2%80%9C%E6%9D%91%E8%B6%85%E2%80%9D%E7%88%86%E7%81%AB%E5%8E%9F%E5%9B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子要钱买毒品遭拒殴打父亲致死](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A6%81%E9%92%B1%E4%B9%B0%E6%AF%92%E5%93%81%E9%81%AD%E6%8B%92%E6%AE%B4%E6%89%93%E7%88%B6%E4%BA%B2%E8%87%B4%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [大众CEO承认奥迪落后竞争对手](https://www.baidu.com/s?wd=%E5%A4%A7%E4%BC%97CEO%E6%89%BF%E8%AE%A4%E5%A5%A5%E8%BF%AA%E8%90%BD%E5%90%8E%E7%AB%9E%E4%BA%89%E5%AF%B9%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [近15万河南考生跨过一本线](https://www.baidu.com/s?wd=%E8%BF%9115%E4%B8%87%E6%B2%B3%E5%8D%97%E8%80%83%E7%94%9F%E8%B7%A8%E8%BF%87%E4%B8%80%E6%9C%AC%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
