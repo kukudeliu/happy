@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 16:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 16:10:01</h4></div>
 
 > 微博  
 
@@ -31,10 +31,10 @@
 3. [男生考702分想去北大见“韦神”](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E8%80%83702%E5%88%86%E6%83%B3%E5%8E%BB%E5%8C%97%E5%A4%A7%E8%A7%81%E2%80%9C%E9%9F%A6%E7%A5%9E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [各地多种方式服务考生志愿填报](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E5%A4%9A%E7%A7%8D%E6%96%B9%E5%BC%8F%E6%9C%8D%E5%8A%A1%E8%80%83%E7%94%9F%E5%BF%97%E6%84%BF%E5%A1%AB%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [2023各地高考分数线汇总](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E6%89%B9%E6%AC%A1%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男孩查分显示全省前31名](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E6%9F%A5%E5%88%86%E6%98%BE%E7%A4%BA%E5%85%A8%E7%9C%81%E5%89%8D31%E5%90%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [李雪琴是艺名](https://www.baidu.com/s?wd=%E6%9D%8E%E9%9B%AA%E7%90%B4%E6%98%AF%E8%89%BA%E5%90%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [清华也向敬礼娃娃郎铮伸出橄榄枝](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E4%B9%9F%E5%90%91%E6%95%AC%E7%A4%BC%E5%A8%83%E5%A8%83%E9%83%8E%E9%93%AE%E4%BC%B8%E5%87%BA%E6%A9%84%E6%A6%84%E6%9E%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子网购裤子意外发现毕业生饭卡](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%BD%91%E8%B4%AD%E8%A3%A4%E5%AD%90%E6%84%8F%E5%A4%96%E5%8F%91%E7%8E%B0%E6%AF%95%E4%B8%9A%E7%94%9F%E9%A5%AD%E5%8D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [李雪琴是艺名](https://www.baidu.com/s?wd=%E6%9D%8E%E9%9B%AA%E7%90%B4%E6%98%AF%E8%89%BA%E5%90%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男孩查分显示全省前31名](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E6%9F%A5%E5%88%86%E6%98%BE%E7%A4%BA%E5%85%A8%E7%9C%81%E5%89%8D31%E5%90%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [考生查完分跪地大喊妈妈淡定睡觉](https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%E6%9F%A5%E5%AE%8C%E5%88%86%E8%B7%AA%E5%9C%B0%E5%A4%A7%E5%96%8A%E5%A6%88%E5%A6%88%E6%B7%A1%E5%AE%9A%E7%9D%A1%E8%A7%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [清华也向敬礼娃娃郎铮伸出橄榄枝](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E4%B9%9F%E5%90%91%E6%95%AC%E7%A4%BC%E5%A8%83%E5%A8%83%E9%83%8E%E9%93%AE%E4%BC%B8%E5%87%BA%E6%A9%84%E6%A6%84%E6%9E%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [男生考702分想去北大见“韦神”](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E8%80%83702%E5%88%86%E6%83%B3%E5%8E%BB%E5%8C%97%E5%A4%A7%E8%A7%81%E2%80%9C%E9%9F%A6%E7%A5%9E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [各地多种方式服务考生志愿填报](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E5%A4%9A%E7%A7%8D%E6%96%B9%E5%BC%8F%E6%9C%8D%E5%8A%A1%E8%80%83%E7%94%9F%E5%BF%97%E6%84%BF%E5%A1%AB%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [2023各地高考分数线汇总](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E6%89%B9%E6%AC%A1%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男孩查分显示全省前31名](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E6%9F%A5%E5%88%86%E6%98%BE%E7%A4%BA%E5%85%A8%E7%9C%81%E5%89%8D31%E5%90%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [李雪琴是艺名](https://www.baidu.com/s?wd=%E6%9D%8E%E9%9B%AA%E7%90%B4%E6%98%AF%E8%89%BA%E5%90%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [清华也向敬礼娃娃郎铮伸出橄榄枝](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E4%B9%9F%E5%90%91%E6%95%AC%E7%A4%BC%E5%A8%83%E5%A8%83%E9%83%8E%E9%93%AE%E4%BC%B8%E5%87%BA%E6%A9%84%E6%A6%84%E6%9E%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子网购裤子意外发现毕业生饭卡](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%BD%91%E8%B4%AD%E8%A3%A4%E5%AD%90%E6%84%8F%E5%A4%96%E5%8F%91%E7%8E%B0%E6%AF%95%E4%B8%9A%E7%94%9F%E9%A5%AD%E5%8D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [李雪琴是艺名](https://www.baidu.com/s?wd=%E6%9D%8E%E9%9B%AA%E7%90%B4%E6%98%AF%E8%89%BA%E5%90%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男孩查分显示全省前31名](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E6%9F%A5%E5%88%86%E6%98%BE%E7%A4%BA%E5%85%A8%E7%9C%81%E5%89%8D31%E5%90%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [考生查完分跪地大喊妈妈淡定睡觉](https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%E6%9F%A5%E5%AE%8C%E5%88%86%E8%B7%AA%E5%9C%B0%E5%A4%A7%E5%96%8A%E5%A6%88%E5%A6%88%E6%B7%A1%E5%AE%9A%E7%9D%A1%E8%A7%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [清华也向敬礼娃娃郎铮伸出橄榄枝](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E4%B9%9F%E5%90%91%E6%95%AC%E7%A4%BC%E5%A8%83%E5%A8%83%E9%83%8E%E9%93%AE%E4%BC%B8%E5%87%BA%E6%A9%84%E6%A6%84%E6%9E%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
