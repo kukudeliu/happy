@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 02:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 02:36:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [女孩高考成绩被屏蔽4天小字显示全省前50](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E8%A2%AB%E5%B1%8F%E8%94%BD4%E5%A4%A9%E5%B0%8F%E5%AD%97%E6%98%BE%E7%A4%BA%E5%85%A8%E7%9C%81%E5%89%8D50%23&t=31&band_rank=6&Refer=top)<br />
 7. [中方表示瓦格纳集团事件是俄罗斯内政](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E8%A1%A8%E7%A4%BA%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%9B%86%E5%9B%A2%E4%BA%8B%E4%BB%B6%E6%98%AF%E4%BF%84%E7%BD%97%E6%96%AF%E5%86%85%E6%94%BF%23&t=31&band_rank=7&Refer=top)<br />
 8. [王传君为撞玻璃的鸟哭了](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BC%A0%E5%90%9B%E4%B8%BA%E6%92%9E%E7%8E%BB%E7%92%83%E7%9A%84%E9%B8%9F%E5%93%AD%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [消失的她](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9&t=31&band_rank=9&Refer=top)<br />
+9. [蔡徐坤不用管我死活](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E4%B8%8D%E7%94%A8%E7%AE%A1%E6%88%91%E6%AD%BB%E6%B4%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
