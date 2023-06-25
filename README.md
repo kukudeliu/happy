@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 12:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 12:29:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [高考分数线](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%23&t=31&band_rank=4&Refer=top)<br />
 5. [男生考694分妈妈激动叫出海豚音](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E8%80%83694%E5%88%86%E5%A6%88%E5%A6%88%E6%BF%80%E5%8A%A8%E5%8F%AB%E5%87%BA%E6%B5%B7%E8%B1%9A%E9%9F%B3%23&t=31&band_rank=5&Refer=top)<br />
 6. [普京感谢卢卡申科](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E6%84%9F%E8%B0%A2%E5%8D%A2%E5%8D%A1%E7%94%B3%E7%A7%91%23&t=31&band_rank=6&Refer=top)<br />
-7. [熊猫养生也少不了喝水](https://s.weibo.com/weibo?q=%23%E7%86%8A%E7%8C%AB%E5%85%BB%E7%94%9F%E4%B9%9F%E5%B0%91%E4%B8%8D%E4%BA%86%E5%96%9D%E6%B0%B4%23&t=31&band_rank=7&Refer=top)<br />
-8. [太辜负这张理科脸了](https://s.weibo.com/weibo?q=%E5%A4%AA%E8%BE%9C%E8%B4%9F%E8%BF%99%E5%BC%A0%E7%90%86%E7%A7%91%E8%84%B8%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
+7. [太辜负这张理科脸了](https://s.weibo.com/weibo?q=%E5%A4%AA%E8%BE%9C%E8%B4%9F%E8%BF%99%E5%BC%A0%E7%90%86%E7%A7%91%E8%84%B8%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
+8. [消失的她 绝世大甜剧](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%20%E7%BB%9D%E4%B8%96%E5%A4%A7%E7%94%9C%E5%89%A7&t=31&band_rank=8&Refer=top)<br />
 9. [2023广东高考分数线](https://s.weibo.com/weibo?q=%232023%E5%B9%BF%E4%B8%9C%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
