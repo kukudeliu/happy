@@ -1,13 +1,13 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 19:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 19:29:01</h4></div>
 
 > 微博  
 
 1. [女孩高考成绩被屏蔽4天小字显示全省前50](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E8%A2%AB%E5%B1%8F%E8%94%BD4%E5%A4%A9%E5%B0%8F%E5%AD%97%E6%98%BE%E7%A4%BA%E5%85%A8%E7%9C%81%E5%89%8D50%23&t=31&band_rank=1&Refer=top)<br />
 2. [女子上午买瓜34元没付上傍晚开车来补](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B8%8A%E5%8D%88%E4%B9%B0%E7%93%9C34%E5%85%83%E6%B2%A1%E4%BB%98%E4%B8%8A%E5%82%8D%E6%99%9A%E5%BC%80%E8%BD%A6%E6%9D%A5%E8%A1%A5%23&t=31&band_rank=2&Refer=top)<br />
 3. [太空视角下五颜六色的中国大地](https://s.weibo.com/weibo?q=%23%E5%A4%AA%E7%A9%BA%E8%A7%86%E8%A7%92%E4%B8%8B%E4%BA%94%E9%A2%9C%E5%85%AD%E8%89%B2%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%9C%B0%23&t=31&band_rank=3&Refer=top)<br />
-4. [白敬亭工作室big胆](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%B7%A5%E4%BD%9C%E5%AE%A4big%E8%83%86%23&t=31&band_rank=4&Refer=top)<br />
+4. [殡葬专业就业率百分之百](https://s.weibo.com/weibo?q=%23%E6%AE%A1%E8%91%AC%E4%B8%93%E4%B8%9A%E5%B0%B1%E4%B8%9A%E7%8E%87%E7%99%BE%E5%88%86%E4%B9%8B%E7%99%BE%23&t=31&band_rank=4&Refer=top)<br />
 5. [那个说英语难的男生高考684分](https://s.weibo.com/weibo?q=%23%E9%82%A3%E4%B8%AA%E8%AF%B4%E8%8B%B1%E8%AF%AD%E9%9A%BE%E7%9A%84%E7%94%B7%E7%94%9F%E9%AB%98%E8%80%83684%E5%88%86%23&t=31&band_rank=5&Refer=top)<br />
-6. [殡葬专业就业率百分之百](https://s.weibo.com/weibo?q=%23%E6%AE%A1%E8%91%AC%E4%B8%93%E4%B8%9A%E5%B0%B1%E4%B8%9A%E7%8E%87%E7%99%BE%E5%88%86%E4%B9%8B%E7%99%BE%23&t=31&band_rank=6&Refer=top)<br />
+6. [白敬亭工作室big胆](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%B7%A5%E4%BD%9C%E5%AE%A4big%E8%83%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [龙凤胎兄妹高考成绩仅差1分](https://s.weibo.com/weibo?q=%23%E9%BE%99%E5%87%A4%E8%83%8E%E5%85%84%E5%A6%B9%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E4%BB%85%E5%B7%AE1%E5%88%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [父亲拒绝给钱买毒品被儿子殴打致死](https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E6%8B%92%E7%BB%9D%E7%BB%99%E9%92%B1%E4%B9%B0%E6%AF%92%E5%93%81%E8%A2%AB%E5%84%BF%E5%AD%90%E6%AE%B4%E6%89%93%E8%87%B4%E6%AD%BB%23&t=31&band_rank=8&Refer=top)<br />
 9. [虞书欣一天喝了三杯冰美式](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E4%B8%80%E5%A4%A9%E5%96%9D%E4%BA%86%E4%B8%89%E6%9D%AF%E5%86%B0%E7%BE%8E%E5%BC%8F%23&t=31&band_rank=9&Refer=top)<br />
@@ -33,8 +33,8 @@
 5. [经纪人回应郑欣宜失踪](https://www.baidu.com/s?wd=%E7%BB%8F%E7%BA%AA%E4%BA%BA%E5%9B%9E%E5%BA%94%E9%83%91%E6%AC%A3%E5%AE%9C%E5%A4%B1%E8%B8%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [俄罗斯现在怎么样？](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E7%8E%B0%E5%9C%A8%E6%80%8E%E4%B9%88%E6%A0%B7%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [8888元猪景房为何能卖这么贵](https://www.baidu.com/s?wd=8888%E5%85%83%E7%8C%AA%E6%99%AF%E6%88%BF%E4%B8%BA%E4%BD%95%E8%83%BD%E5%8D%96%E8%BF%99%E4%B9%88%E8%B4%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [那个说英语难的男生高考684分](https://www.baidu.com/s?wd=%E9%82%A3%E4%B8%AA%E8%AF%B4%E8%8B%B1%E8%AF%AD%E9%9A%BE%E7%9A%84%E7%94%B7%E7%94%9F%E9%AB%98%E8%80%83684%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [打车软件显示阴曹地府 交运局回应](https://www.baidu.com/s?wd=%E6%89%93%E8%BD%A6%E8%BD%AF%E4%BB%B6%E6%98%BE%E7%A4%BA%E9%98%B4%E6%9B%B9%E5%9C%B0%E5%BA%9C+%E4%BA%A4%E8%BF%90%E5%B1%80%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [范志毅谈“村超”爆火原因](https://www.baidu.com/s?wd=%E8%8C%83%E5%BF%97%E6%AF%85%E8%B0%88%E2%80%9C%E6%9D%91%E8%B6%85%E2%80%9D%E7%88%86%E7%81%AB%E5%8E%9F%E5%9B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [711分考生妈妈:别把精力全投给孩子](https://www.baidu.com/s?wd=711%E5%88%86%E8%80%83%E7%94%9F%E5%A6%88%E5%A6%88%3A%E5%88%AB%E6%8A%8A%E7%B2%BE%E5%8A%9B%E5%85%A8%E6%8A%95%E7%BB%99%E5%AD%A9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [经纪人回应郑欣宜失踪](https://www.baidu.com/s?wd=%E7%BB%8F%E7%BA%AA%E4%BA%BA%E5%9B%9E%E5%BA%94%E9%83%91%E6%AC%A3%E5%AE%9C%E5%A4%B1%E8%B8%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [俄罗斯现在怎么样？](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E7%8E%B0%E5%9C%A8%E6%80%8E%E4%B9%88%E6%A0%B7%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [8888元猪景房为何能卖这么贵](https://www.baidu.com/s?wd=8888%E5%85%83%E7%8C%AA%E6%99%AF%E6%88%BF%E4%B8%BA%E4%BD%95%E8%83%BD%E5%8D%96%E8%BF%99%E4%B9%88%E8%B4%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [那个说英语难的男生高考684分](https://www.baidu.com/s?wd=%E9%82%A3%E4%B8%AA%E8%AF%B4%E8%8B%B1%E8%AF%AD%E9%9A%BE%E7%9A%84%E7%94%B7%E7%94%9F%E9%AB%98%E8%80%83684%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [打车软件显示阴曹地府 交运局回应](https://www.baidu.com/s?wd=%E6%89%93%E8%BD%A6%E8%BD%AF%E4%BB%B6%E6%98%BE%E7%A4%BA%E9%98%B4%E6%9B%B9%E5%9C%B0%E5%BA%9C+%E4%BA%A4%E8%BF%90%E5%B1%80%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [范志毅谈“村超”爆火原因](https://www.baidu.com/s?wd=%E8%8C%83%E5%BF%97%E6%AF%85%E8%B0%88%E2%80%9C%E6%9D%91%E8%B6%85%E2%80%9D%E7%88%86%E7%81%AB%E5%8E%9F%E5%9B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [711分考生妈妈:别把精力全投给孩子](https://www.baidu.com/s?wd=711%E5%88%86%E8%80%83%E7%94%9F%E5%A6%88%E5%A6%88%3A%E5%88%AB%E6%8A%8A%E7%B2%BE%E5%8A%9B%E5%85%A8%E6%8A%95%E7%BB%99%E5%AD%A9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
