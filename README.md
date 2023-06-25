@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 08:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 08:33:01</h4></div>
 
 > 微博  
 
@@ -20,8 +20,8 @@
 4. [40 岁以后，你发现哪些钱根本没必要花？](https://www.zhihu.com/question/593808844)<br />
 5. [2023 年前 5 个月全国税收收入 84774 亿元，同比增长 17% ，这一增长幅度说明了什么？](https://www.zhihu.com/question/607311547)<br />
 6. [怎么看待董路说贵州村超像跳广场舞，改变不了中国足球？](https://www.zhihu.com/question/607400160)<br />
-7. [宁夏银川烧烤店燃气爆炸事故 4 名犯罪嫌疑人被刑拘，从法律角度，他们将受到哪些处罚？](https://www.zhihu.com/question/608287472)<br />
-8. [猫为什么不如狗好驯服？](https://www.zhihu.com/question/605865648)<br />
+7. [猫为什么不如狗好驯服？](https://www.zhihu.com/question/605865648)<br />
+8. [宁夏银川烧烤店燃气爆炸事故 4 名犯罪嫌疑人被刑拘，从法律角度，他们将受到哪些处罚？](https://www.zhihu.com/question/608287472)<br />
 9. []()<br />
 
 > 百度  
@@ -32,9 +32,9 @@
 4. [大地诗篇](https://www.baidu.com/s?wd=%E5%A4%A7%E5%9C%B0%E8%AF%97%E7%AF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [梁静茹演唱会观众齐喊开空调](https://www.baidu.com/s?wd=%E6%A2%81%E9%9D%99%E8%8C%B9%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A7%82%E4%BC%97%E9%BD%90%E5%96%8A%E5%BC%80%E7%A9%BA%E8%B0%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [白俄罗斯总统卢卡申科调停成功](https://www.baidu.com/s?wd=%E7%99%BD%E4%BF%84%E7%BD%97%E6%96%AF%E6%80%BB%E7%BB%9F%E5%8D%A2%E5%8D%A1%E7%94%B3%E7%A7%91%E8%B0%83%E5%81%9C%E6%88%90%E5%8A%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [家长以为中考管饭送完孩子去郊游](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E4%BB%A5%E4%B8%BA%E4%B8%AD%E8%80%83%E7%AE%A1%E9%A5%AD%E9%80%81%E5%AE%8C%E5%AD%A9%E5%AD%90%E5%8E%BB%E9%83%8A%E6%B8%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男生得知好友仅609分后瞬间弹起](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E5%BE%97%E7%9F%A5%E5%A5%BD%E5%8F%8B%E4%BB%85609%E5%88%86%E5%90%8E%E7%9E%AC%E9%97%B4%E5%BC%B9%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [泰国和美国两地大量鱼类死亡](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E5%92%8C%E7%BE%8E%E5%9B%BD%E4%B8%A4%E5%9C%B0%E5%A4%A7%E9%87%8F%E9%B1%BC%E7%B1%BB%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女孩充电被电击内脏受损面临截肢](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%85%85%E7%94%B5%E8%A2%AB%E7%94%B5%E5%87%BB%E5%86%85%E8%84%8F%E5%8F%97%E6%8D%9F%E9%9D%A2%E4%B8%B4%E6%88%AA%E8%82%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [家长以为中考管饭送完孩子去郊游](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E4%BB%A5%E4%B8%BA%E4%B8%AD%E8%80%83%E7%AE%A1%E9%A5%AD%E9%80%81%E5%AE%8C%E5%AD%A9%E5%AD%90%E5%8E%BB%E9%83%8A%E6%B8%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男生得知好友仅609分后瞬间弹起](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E5%BE%97%E7%9F%A5%E5%A5%BD%E5%8F%8B%E4%BB%85609%E5%88%86%E5%90%8E%E7%9E%AC%E9%97%B4%E5%BC%B9%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [大地诗篇](https://www.baidu.com/s?wd=%E5%A4%A7%E5%9C%B0%E8%AF%97%E7%AF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [梁静茹演唱会观众齐喊开空调](https://www.baidu.com/s?wd=%E6%A2%81%E9%9D%99%E8%8C%B9%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A7%82%E4%BC%97%E9%BD%90%E5%96%8A%E5%BC%80%E7%A9%BA%E8%B0%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [白俄罗斯总统卢卡申科调停成功](https://www.baidu.com/s?wd=%E7%99%BD%E4%BF%84%E7%BD%97%E6%96%AF%E6%80%BB%E7%BB%9F%E5%8D%A2%E5%8D%A1%E7%94%B3%E7%A7%91%E8%B0%83%E5%81%9C%E6%88%90%E5%8A%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [家长以为中考管饭送完孩子去郊游](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E4%BB%A5%E4%B8%BA%E4%B8%AD%E8%80%83%E7%AE%A1%E9%A5%AD%E9%80%81%E5%AE%8C%E5%AD%A9%E5%AD%90%E5%8E%BB%E9%83%8A%E6%B8%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男生得知好友仅609分后瞬间弹起](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E5%BE%97%E7%9F%A5%E5%A5%BD%E5%8F%8B%E4%BB%85609%E5%88%86%E5%90%8E%E7%9E%AC%E9%97%B4%E5%BC%B9%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [泰国和美国两地大量鱼类死亡](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E5%92%8C%E7%BE%8E%E5%9B%BD%E4%B8%A4%E5%9C%B0%E5%A4%A7%E9%87%8F%E9%B1%BC%E7%B1%BB%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女孩充电被电击内脏受损面临截肢](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%85%85%E7%94%B5%E8%A2%AB%E7%94%B5%E5%87%BB%E5%86%85%E8%84%8F%E5%8F%97%E6%8D%9F%E9%9D%A2%E4%B8%B4%E6%88%AA%E8%82%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [家长以为中考管饭送完孩子去郊游](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E4%BB%A5%E4%B8%BA%E4%B8%AD%E8%80%83%E7%AE%A1%E9%A5%AD%E9%80%81%E5%AE%8C%E5%AD%A9%E5%AD%90%E5%8E%BB%E9%83%8A%E6%B8%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男生得知好友仅609分后瞬间弹起](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E5%BE%97%E7%9F%A5%E5%A5%BD%E5%8F%8B%E4%BB%85609%E5%88%86%E5%90%8E%E7%9E%AC%E9%97%B4%E5%BC%B9%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
