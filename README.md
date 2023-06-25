@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 14:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 14:03:02</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [电影《消失的她》里反复出现梵高的「星空」有什么寓意？](https://www.zhihu.com/question/607992980)<br />
 7. [如何评价《中国说唱巅峰对决 2023》第八期法老、早安、小精灵的舞台《健将 plus》？](https://www.zhihu.com/question/608288936)<br />
 8. []()<br />
-9. [复读生需要注意些什么？](https://www.zhihu.com/question/406773709)<br />
+9. []()<br />
 
 > 百度  
 
