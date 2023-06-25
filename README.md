@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 13:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 13:29:01</h4></div>
 
 > 微博  
 
@@ -16,8 +16,8 @@
 
 1. [普里戈任与瓦格纳集团武装人员已全部从俄南部军区司令部撤离，这意味着什么？](https://www.zhihu.com/question/608395500)<br />
 2. [钻石价格大跌，分析人士称钻石价格或将进一步跳水，受哪些因素影响？如何解读？](https://www.zhihu.com/question/608252259)<br />
-3. [如何评价悬疑电影《消失的她》？值得到电影院看吗？](https://www.zhihu.com/question/607961545)<br />
-4. [如何看待 2023 年江苏高考理科 600 分以上三万多人？](https://www.zhihu.com/question/608323244)<br />
+3. [如何看待 2023 年江苏高考理科 600 分以上三万多人？](https://www.zhihu.com/question/608323244)<br />
+4. [如何评价悬疑电影《消失的她》？值得到电影院看吗？](https://www.zhihu.com/question/607961545)<br />
 5. [黑客 George Hotz 爆料 GPT-4 由 8 个 MoE 模型组成，真的吗？](https://www.zhihu.com/question/607812079)<br />
 6. [端午档总票房破 9 亿，暂列影史第二，如何评价这一票房成绩？你去影院看了哪部电影？](https://www.zhihu.com/question/608300528)<br />
 7. [电影《消失的她》里反复出现梵高的「星空」有什么寓意？](https://www.zhihu.com/question/607992980)<br />
