@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 15:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 15:30:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [如何看待第 28 届白玉兰奖获奖名单《狂飙》三提零中？](https://www.zhihu.com/question/608166845)<br />
 6. [五年来「最火」最火端午收官，机票、酒店、景区门票订单量均超 2019 年同期，哪些信息值得关注？](https://www.zhihu.com/question/608421262)<br />
 7. [为啥「摩尔」不能表示宏观物质，我用 1 摩尔人来表示 6.02x10^23 个人不行吗？](https://www.zhihu.com/question/608029623)<br />
-8. [喜欢跑步的人是怎样的人呢？](https://www.zhihu.com/question/604512790)<br />
-9. []()<br />
+8. [集成烹饪中心真的比集成灶更好吗？](https://www.zhihu.com/question/408155813)<br />
+9. [喜欢跑步的人是怎样的人呢？](https://www.zhihu.com/question/604512790)<br />
 
 > 百度  
 
