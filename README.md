@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 16:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 16:57:01</h4></div>
 
 > 微博  
 
-1. [山东高考分数线](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%23&t=31&band_rank=1&Refer=top)<br />
-2. [711分考生妈妈建议家长不要把全部精力投入孩子](https://s.weibo.com/weibo?q=%23711%E5%88%86%E8%80%83%E7%94%9F%E5%A6%88%E5%A6%88%E5%BB%BA%E8%AE%AE%E5%AE%B6%E9%95%BF%E4%B8%8D%E8%A6%81%E6%8A%8A%E5%85%A8%E9%83%A8%E7%B2%BE%E5%8A%9B%E6%8A%95%E5%85%A5%E5%AD%A9%E5%AD%90%23&t=31&band_rank=2&Refer=top)<br />
+1. [711分考生妈妈建议家长不要把全部精力投入孩子](https://s.weibo.com/weibo?q=%23711%E5%88%86%E8%80%83%E7%94%9F%E5%A6%88%E5%A6%88%E5%BB%BA%E8%AE%AE%E5%AE%B6%E9%95%BF%E4%B8%8D%E8%A6%81%E6%8A%8A%E5%85%A8%E9%83%A8%E7%B2%BE%E5%8A%9B%E6%8A%95%E5%85%A5%E5%AD%A9%E5%AD%90%23&t=31&band_rank=1&Refer=top)<br />
+2. [山东高考分数线](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%23&t=31&band_rank=2&Refer=top)<br />
 3. [太空视角下五颜六色的中国大地](https://s.weibo.com/weibo?q=%23%E5%A4%AA%E7%A9%BA%E8%A7%86%E8%A7%92%E4%B8%8B%E4%BA%94%E9%A2%9C%E5%85%AD%E8%89%B2%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%9C%B0%23&t=31&band_rank=3&Refer=top)<br />
 4. [浙江高考状元](https://s.weibo.com/weibo?q=%E6%B5%99%E6%B1%9F%E9%AB%98%E8%80%83%E7%8A%B6%E5%85%83&t=31&band_rank=4&Refer=top)<br />
 5. [美媒称美国提前得知瓦格纳要行动](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AA%92%E7%A7%B0%E7%BE%8E%E5%9B%BD%E6%8F%90%E5%89%8D%E5%BE%97%E7%9F%A5%E7%93%A6%E6%A0%BC%E7%BA%B3%E8%A6%81%E8%A1%8C%E5%8A%A8%23&t=31&band_rank=5&Refer=top)<br />
