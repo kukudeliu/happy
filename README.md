@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 17:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 17:56:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [上市公司祝贺总经理女儿夺高考状元](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E7%A5%9D%E8%B4%BA%E6%80%BB%E7%BB%8F%E7%90%86%E5%A5%B3%E5%84%BF%E5%A4%BA%E9%AB%98%E8%80%83%E7%8A%B6%E5%85%83%23&t=31&band_rank=4&Refer=top)<br />
 5. [女子上午买瓜34元没付上傍晚开车来补](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B8%8A%E5%8D%88%E4%B9%B0%E7%93%9C34%E5%85%83%E6%B2%A1%E4%BB%98%E4%B8%8A%E5%82%8D%E6%99%9A%E5%BC%80%E8%BD%A6%E6%9D%A5%E8%A1%A5%23&t=31&band_rank=5&Refer=top)<br />
 6. [711分考生妈妈建议家长不要把全部精力投入孩子](https://s.weibo.com/weibo?q=%23711%E5%88%86%E8%80%83%E7%94%9F%E5%A6%88%E5%A6%88%E5%BB%BA%E8%AE%AE%E5%AE%B6%E9%95%BF%E4%B8%8D%E8%A6%81%E6%8A%8A%E5%85%A8%E9%83%A8%E7%B2%BE%E5%8A%9B%E6%8A%95%E5%85%A5%E5%AD%A9%E5%AD%90%23&t=31&band_rank=6&Refer=top)<br />
-7. [虞书欣一天喝了三杯冰美式](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E4%B8%80%E5%A4%A9%E5%96%9D%E4%BA%86%E4%B8%89%E6%9D%AF%E5%86%B0%E7%BE%8E%E5%BC%8F%23&t=31&band_rank=7&Refer=top)<br />
-8. [一年放假115天多吗](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%B9%B4%E6%94%BE%E5%81%87115%E5%A4%A9%E5%A4%9A%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [邱耀乐妈妈提告炎亚纶](https://s.weibo.com/weibo?q=%23%E9%82%B1%E8%80%80%E4%B9%90%E5%A6%88%E5%A6%88%E6%8F%90%E5%91%8A%E7%82%8E%E4%BA%9A%E7%BA%B6%23&t=31&band_rank=9&Refer=top)<br />
+7. [儿子考了675分父亲弹射冲下楼](https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E8%80%83%E4%BA%86675%E5%88%86%E7%88%B6%E4%BA%B2%E5%BC%B9%E5%B0%84%E5%86%B2%E4%B8%8B%E6%A5%BC%23&t=31&band_rank=7&Refer=top)<br />
+8. [虞书欣一天喝了三杯冰美式](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E4%B8%80%E5%A4%A9%E5%96%9D%E4%BA%86%E4%B8%89%E6%9D%AF%E5%86%B0%E7%BE%8E%E5%BC%8F%23&t=31&band_rank=8&Refer=top)<br />
+9. [一年放假115天多吗](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%B9%B4%E6%94%BE%E5%81%87115%E5%A4%A9%E5%A4%9A%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [2023 广东高考分数线公布，本科线历史 433 分，物理 439 分，如何评价今年的分数线？](https://www.zhihu.com/question/607974452)<br />
 7. [客观地说大家感觉《无畏契约》好玩吗？](https://www.zhihu.com/question/605985907)<br />
 8. [为什么减不下去肥?](https://www.zhihu.com/question/608062864)<br />
-9. [2023 河北高考分数线公布，物理类本科线 439，历史类本科线 430，如何评价河北分数线？](https://www.zhihu.com/question/607974423)<br />
+9. [2023 山东高考分数线公布，普通类一段 443，特招线 520，如何评价山东分数线？](https://www.zhihu.com/question/607974487)<br />
 
 > 百度  
 
