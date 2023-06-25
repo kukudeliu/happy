@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 23:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 23:52:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [普京称全天候控制特别军事行动进程](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E7%A7%B0%E5%85%A8%E5%A4%A9%E5%80%99%E6%8E%A7%E5%88%B6%E7%89%B9%E5%88%AB%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8%E8%BF%9B%E7%A8%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [鹿晗的泪钻](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E7%9A%84%E6%B3%AA%E9%92%BB%23&t=31&band_rank=7&Refer=top)<br />
 8. [EXO回归预告](https://s.weibo.com/weibo?q=EXO%E5%9B%9E%E5%BD%92%E9%A2%84%E5%91%8A&t=31&band_rank=8&Refer=top)<br />
-9. [孟子义27岁素颜状态](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%8927%E5%B2%81%E7%B4%A0%E9%A2%9C%E7%8A%B6%E6%80%81%23&t=31&band_rank=9&Refer=top)<br />
+9. [白敬亭是在挽回形象吗](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E6%98%AF%E5%9C%A8%E6%8C%BD%E5%9B%9E%E5%BD%A2%E8%B1%A1%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
