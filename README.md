@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 22:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 22:04:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [美媒称美国提前得知瓦格纳要行动](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AA%92%E7%A7%B0%E7%BE%8E%E5%9B%BD%E6%8F%90%E5%89%8D%E5%BE%97%E7%9F%A5%E7%93%A6%E6%A0%BC%E7%BA%B3%E8%A6%81%E8%A1%8C%E5%8A%A8%23&t=31&band_rank=5&Refer=top)<br />
 6. [汤唯 兔子警官](https://s.weibo.com/weibo?q=%E6%B1%A4%E5%94%AF%20%E5%85%94%E5%AD%90%E8%AD%A6%E5%AE%98&t=31&band_rank=6&Refer=top)<br />
 7. [消失的她评分下降](https://s.weibo.com/weibo?q=%23%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E8%AF%84%E5%88%86%E4%B8%8B%E9%99%8D%23&t=31&band_rank=7&Refer=top)<br />
-8. [羽生结弦中岛美嘉合影](https://s.weibo.com/weibo?q=%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E4%B8%AD%E5%B2%9B%E7%BE%8E%E5%98%89%E5%90%88%E5%BD%B1&t=31&band_rank=8&Refer=top)<br />
-9. [蔡徐坤泰国演唱会](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E6%B3%B0%E5%9B%BD%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=9&Refer=top)<br />
+8. [TTG战胜WE](https://s.weibo.com/weibo?q=%23TTG%E6%88%98%E8%83%9CWE%23&t=31&band_rank=8&Refer=top)<br />
+9. [羽生结弦中岛美嘉合影](https://s.weibo.com/weibo?q=%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E4%B8%AD%E5%B2%9B%E7%BE%8E%E5%98%89%E5%90%88%E5%BD%B1&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
