@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 10:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 10:23:01</h4></div>
 
 > 微博  
 
@@ -30,11 +30,11 @@
 2. [瓦格纳撤军 停止在俄境内活动](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E6%92%A4%E5%86%9B+%E5%81%9C%E6%AD%A2%E5%9C%A8%E4%BF%84%E5%A2%83%E5%86%85%E6%B4%BB%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [乌军方：趁乱从多方向对俄发起反攻](https://www.baidu.com/s?wd=%E4%B9%8C%E5%86%9B%E6%96%B9%EF%BC%9A%E8%B6%81%E4%B9%B1%E4%BB%8E%E5%A4%9A%E6%96%B9%E5%90%91%E5%AF%B9%E4%BF%84%E5%8F%91%E8%B5%B7%E5%8F%8D%E6%94%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [大地诗篇](https://www.baidu.com/s?wd=%E5%A4%A7%E5%9C%B0%E8%AF%97%E7%AF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [女生考前3天连续失眠 一查684分落泪](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E8%80%83%E5%89%8D3%E5%A4%A9%E8%BF%9E%E7%BB%AD%E5%A4%B1%E7%9C%A0+%E4%B8%80%E6%9F%A5684%E5%88%86%E8%90%BD%E6%B3%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [“敬礼娃娃”已收到北大人大邀请](https://www.baidu.com/s?wd=%E2%80%9C%E6%95%AC%E7%A4%BC%E5%A8%83%E5%A8%83%E2%80%9D%E5%B7%B2%E6%94%B6%E5%88%B0%E5%8C%97%E5%A4%A7%E4%BA%BA%E5%A4%A7%E9%82%80%E8%AF%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [俄方将撤销对普里戈任的刑事立案](https://www.baidu.com/s?wd=%E4%BF%84%E6%96%B9%E5%B0%86%E6%92%A4%E9%94%80%E5%AF%B9%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E7%9A%84%E5%88%91%E4%BA%8B%E7%AB%8B%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女孩充电被电击内脏受损面临截肢](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%85%85%E7%94%B5%E8%A2%AB%E7%94%B5%E5%87%BB%E5%86%85%E8%84%8F%E5%8F%97%E6%8D%9F%E9%9D%A2%E4%B8%B4%E6%88%AA%E8%82%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子每天1斤杨梅狂吃20天要做血透](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%AF%8F%E5%A4%A91%E6%96%A4%E6%9D%A8%E6%A2%85%E7%8B%82%E5%90%8320%E5%A4%A9%E8%A6%81%E5%81%9A%E8%A1%80%E9%80%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [“敬礼娃娃”已收到北大人大邀请](https://www.baidu.com/s?wd=%E2%80%9C%E6%95%AC%E7%A4%BC%E5%A8%83%E5%A8%83%E2%80%9D%E5%B7%B2%E6%94%B6%E5%88%B0%E5%8C%97%E5%A4%A7%E4%BA%BA%E5%A4%A7%E9%82%80%E8%AF%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女生考前3天连续失眠 一查684分落泪](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E8%80%83%E5%89%8D3%E5%A4%A9%E8%BF%9E%E7%BB%AD%E5%A4%B1%E7%9C%A0+%E4%B8%80%E6%9F%A5684%E5%88%86%E8%90%BD%E6%B3%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子每天1斤杨梅狂吃20天要做血透](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%AF%8F%E5%A4%A91%E6%96%A4%E6%9D%A8%E6%A2%85%E7%8B%82%E5%90%8320%E5%A4%A9%E8%A6%81%E5%81%9A%E8%A1%80%E9%80%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -42,8 +42,8 @@
 2. [瓦格纳撤军 停止在俄境内活动](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E6%92%A4%E5%86%9B+%E5%81%9C%E6%AD%A2%E5%9C%A8%E4%BF%84%E5%A2%83%E5%86%85%E6%B4%BB%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [乌军方：趁乱从多方向对俄发起反攻](https://www.baidu.com/s?wd=%E4%B9%8C%E5%86%9B%E6%96%B9%EF%BC%9A%E8%B6%81%E4%B9%B1%E4%BB%8E%E5%A4%9A%E6%96%B9%E5%90%91%E5%AF%B9%E4%BF%84%E5%8F%91%E8%B5%B7%E5%8F%8D%E6%94%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [大地诗篇](https://www.baidu.com/s?wd=%E5%A4%A7%E5%9C%B0%E8%AF%97%E7%AF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [女生考前3天连续失眠 一查684分落泪](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E8%80%83%E5%89%8D3%E5%A4%A9%E8%BF%9E%E7%BB%AD%E5%A4%B1%E7%9C%A0+%E4%B8%80%E6%9F%A5684%E5%88%86%E8%90%BD%E6%B3%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [“敬礼娃娃”已收到北大人大邀请](https://www.baidu.com/s?wd=%E2%80%9C%E6%95%AC%E7%A4%BC%E5%A8%83%E5%A8%83%E2%80%9D%E5%B7%B2%E6%94%B6%E5%88%B0%E5%8C%97%E5%A4%A7%E4%BA%BA%E5%A4%A7%E9%82%80%E8%AF%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [俄方将撤销对普里戈任的刑事立案](https://www.baidu.com/s?wd=%E4%BF%84%E6%96%B9%E5%B0%86%E6%92%A4%E9%94%80%E5%AF%B9%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E7%9A%84%E5%88%91%E4%BA%8B%E7%AB%8B%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女孩充电被电击内脏受损面临截肢](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%85%85%E7%94%B5%E8%A2%AB%E7%94%B5%E5%87%BB%E5%86%85%E8%84%8F%E5%8F%97%E6%8D%9F%E9%9D%A2%E4%B8%B4%E6%88%AA%E8%82%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子每天1斤杨梅狂吃20天要做血透](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%AF%8F%E5%A4%A91%E6%96%A4%E6%9D%A8%E6%A2%85%E7%8B%82%E5%90%8320%E5%A4%A9%E8%A6%81%E5%81%9A%E8%A1%80%E9%80%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [“敬礼娃娃”已收到北大人大邀请](https://www.baidu.com/s?wd=%E2%80%9C%E6%95%AC%E7%A4%BC%E5%A8%83%E5%A8%83%E2%80%9D%E5%B7%B2%E6%94%B6%E5%88%B0%E5%8C%97%E5%A4%A7%E4%BA%BA%E5%A4%A7%E9%82%80%E8%AF%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女生考前3天连续失眠 一查684分落泪](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E8%80%83%E5%89%8D3%E5%A4%A9%E8%BF%9E%E7%BB%AD%E5%A4%B1%E7%9C%A0+%E4%B8%80%E6%9F%A5684%E5%88%86%E8%90%BD%E6%B3%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子每天1斤杨梅狂吃20天要做血透](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%AF%8F%E5%A4%A91%E6%96%A4%E6%9D%A8%E6%A2%85%E7%8B%82%E5%90%8320%E5%A4%A9%E8%A6%81%E5%81%9A%E8%A1%80%E9%80%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
