@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 07:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 07:48:01</h4></div>
 
 > 微博  
 
@@ -31,9 +31,9 @@
 3. [报了=白读！这些都是野鸡大学](https://www.baidu.com/s?wd=%E6%8A%A5%E4%BA%86%3D%E7%99%BD%E8%AF%BB%EF%BC%81%E8%BF%99%E4%BA%9B%E9%83%BD%E6%98%AF%E9%87%8E%E9%B8%A1%E5%A4%A7%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [在希望的田野上](https://www.baidu.com/s?wd=%E5%9C%A8%E5%B8%8C%E6%9C%9B%E7%9A%84%E7%94%B0%E9%87%8E%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [不足1月 三个中纪委“内鬼”被揪出](https://www.baidu.com/s?wd=%E4%B8%8D%E8%B6%B31%E6%9C%88+%E4%B8%89%E4%B8%AA%E4%B8%AD%E7%BA%AA%E5%A7%94%E2%80%9C%E5%86%85%E9%AC%BC%E2%80%9D%E8%A2%AB%E6%8F%AA%E5%87%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [四川26岁女孩下网约车后失联](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D26%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%B8%8B%E7%BD%91%E7%BA%A6%E8%BD%A6%E5%90%8E%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [仅2根手指能写字的男孩高考632分](https://www.baidu.com/s?wd=%E4%BB%852%E6%A0%B9%E6%89%8B%E6%8C%87%E8%83%BD%E5%86%99%E5%AD%97%E7%9A%84%E7%94%B7%E5%AD%A9%E9%AB%98%E8%80%83632%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [双胞胎兄弟高考同获688分](https://www.baidu.com/s?wd=%E5%8F%8C%E8%83%9E%E8%83%8E%E5%85%84%E5%BC%9F%E9%AB%98%E8%80%83%E5%90%8C%E8%8E%B7688%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [李嘉诚家族抄底内地房企项目](https://www.baidu.com/s?wd=%E6%9D%8E%E5%98%89%E8%AF%9A%E5%AE%B6%E6%97%8F%E6%8A%84%E5%BA%95%E5%86%85%E5%9C%B0%E6%88%BF%E4%BC%81%E9%A1%B9%E7%9B%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [四川26岁女孩下网约车后失联](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D26%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%B8%8B%E7%BD%91%E7%BA%A6%E8%BD%A6%E5%90%8E%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [仅2根手指能写字的男孩高考632分](https://www.baidu.com/s?wd=%E4%BB%852%E6%A0%B9%E6%89%8B%E6%8C%87%E8%83%BD%E5%86%99%E5%AD%97%E7%9A%84%E7%94%B7%E5%AD%A9%E9%AB%98%E8%80%83632%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [一家三口吃蒸双臭嘴唇发紫送急诊](https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E5%90%83%E8%92%B8%E5%8F%8C%E8%87%AD%E5%98%B4%E5%94%87%E5%8F%91%E7%B4%AB%E9%80%81%E6%80%A5%E8%AF%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -43,7 +43,7 @@
 3. [报了=白读！这些都是野鸡大学](https://www.baidu.com/s?wd=%E6%8A%A5%E4%BA%86%3D%E7%99%BD%E8%AF%BB%EF%BC%81%E8%BF%99%E4%BA%9B%E9%83%BD%E6%98%AF%E9%87%8E%E9%B8%A1%E5%A4%A7%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [在希望的田野上](https://www.baidu.com/s?wd=%E5%9C%A8%E5%B8%8C%E6%9C%9B%E7%9A%84%E7%94%B0%E9%87%8E%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [不足1月 三个中纪委“内鬼”被揪出](https://www.baidu.com/s?wd=%E4%B8%8D%E8%B6%B31%E6%9C%88+%E4%B8%89%E4%B8%AA%E4%B8%AD%E7%BA%AA%E5%A7%94%E2%80%9C%E5%86%85%E9%AC%BC%E2%80%9D%E8%A2%AB%E6%8F%AA%E5%87%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [四川26岁女孩下网约车后失联](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D26%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%B8%8B%E7%BD%91%E7%BA%A6%E8%BD%A6%E5%90%8E%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [仅2根手指能写字的男孩高考632分](https://www.baidu.com/s?wd=%E4%BB%852%E6%A0%B9%E6%89%8B%E6%8C%87%E8%83%BD%E5%86%99%E5%AD%97%E7%9A%84%E7%94%B7%E5%AD%A9%E9%AB%98%E8%80%83632%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [双胞胎兄弟高考同获688分](https://www.baidu.com/s?wd=%E5%8F%8C%E8%83%9E%E8%83%8E%E5%85%84%E5%BC%9F%E9%AB%98%E8%80%83%E5%90%8C%E8%8E%B7688%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [李嘉诚家族抄底内地房企项目](https://www.baidu.com/s?wd=%E6%9D%8E%E5%98%89%E8%AF%9A%E5%AE%B6%E6%97%8F%E6%8A%84%E5%BA%95%E5%86%85%E5%9C%B0%E6%88%BF%E4%BC%81%E9%A1%B9%E7%9B%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [四川26岁女孩下网约车后失联](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D26%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%B8%8B%E7%BD%91%E7%BA%A6%E8%BD%A6%E5%90%8E%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [仅2根手指能写字的男孩高考632分](https://www.baidu.com/s?wd=%E4%BB%852%E6%A0%B9%E6%89%8B%E6%8C%87%E8%83%BD%E5%86%99%E5%AD%97%E7%9A%84%E7%94%B7%E5%AD%A9%E9%AB%98%E8%80%83632%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [一家三口吃蒸双臭嘴唇发紫送急诊](https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E5%90%83%E8%92%B8%E5%8F%8C%E8%87%AD%E5%98%B4%E5%94%87%E5%8F%91%E7%B4%AB%E9%80%81%E6%80%A5%E8%AF%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
