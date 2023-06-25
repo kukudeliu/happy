@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 08:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 09:00:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [陈飞宇孟子义 难哄](https://s.weibo.com/weibo?q=%E9%99%88%E9%A3%9E%E5%AE%87%E5%AD%9F%E5%AD%90%E4%B9%89%20%E9%9A%BE%E5%93%84&t=31&band_rank=2&Refer=top)<br />
 3. [世界互联网大会数字文明尼山对话](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A%E6%95%B0%E5%AD%97%E6%96%87%E6%98%8E%E5%B0%BC%E5%B1%B1%E5%AF%B9%E8%AF%9D%23&t=31&band_rank=3&Refer=top)<br />
 4. [男子每天1斤杨梅狂吃20天要做血透](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%AF%8F%E5%A4%A91%E6%96%A4%E6%9D%A8%E6%A2%85%E7%8B%82%E5%90%8320%E5%A4%A9%E8%A6%81%E5%81%9A%E8%A1%80%E9%80%8F%23&t=31&band_rank=4&Refer=top)<br />
-5. [消失的她 绝世大甜剧](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%20%E7%BB%9D%E4%B8%96%E5%A4%A7%E7%94%9C%E5%89%A7&t=31&band_rank=5&Refer=top)<br />
-6. [瓦格纳同意停止在俄领土上的行动](https://s.weibo.com/weibo?q=%23%E7%93%A6%E6%A0%BC%E7%BA%B3%E5%90%8C%E6%84%8F%E5%81%9C%E6%AD%A2%E5%9C%A8%E4%BF%84%E9%A2%86%E5%9C%9F%E4%B8%8A%E7%9A%84%E8%A1%8C%E5%8A%A8%23&t=31&band_rank=6&Refer=top)<br />
-7. [女孩充电被电击内脏受损面临截肢](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%85%85%E7%94%B5%E8%A2%AB%E7%94%B5%E5%87%BB%E5%86%85%E8%84%8F%E5%8F%97%E6%8D%9F%E9%9D%A2%E4%B8%B4%E6%88%AA%E8%82%A2%23&t=31&band_rank=7&Refer=top)<br />
-8. [弟弟考673分姐姐哭了一小时](https://s.weibo.com/weibo?q=%23%E5%BC%9F%E5%BC%9F%E8%80%83673%E5%88%86%E5%A7%90%E5%A7%90%E5%93%AD%E4%BA%86%E4%B8%80%E5%B0%8F%E6%97%B6%23&t=31&band_rank=8&Refer=top)<br />
-9. [关晓彤去了鹿晗的演唱会](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E5%8E%BB%E4%BA%86%E9%B9%BF%E6%99%97%E7%9A%84%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=9&Refer=top)<br />
+5. [新华书店才是隐藏的终极大佬](https://s.weibo.com/weibo?q=%E6%96%B0%E5%8D%8E%E4%B9%A6%E5%BA%97%E6%89%8D%E6%98%AF%E9%9A%90%E8%97%8F%E7%9A%84%E7%BB%88%E6%9E%81%E5%A4%A7%E4%BD%AC&t=31&band_rank=5&Refer=top)<br />
+6. [消失的她 绝世大甜剧](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%20%E7%BB%9D%E4%B8%96%E5%A4%A7%E7%94%9C%E5%89%A7&t=31&band_rank=6&Refer=top)<br />
+7. [瓦格纳同意停止在俄领土上的行动](https://s.weibo.com/weibo?q=%23%E7%93%A6%E6%A0%BC%E7%BA%B3%E5%90%8C%E6%84%8F%E5%81%9C%E6%AD%A2%E5%9C%A8%E4%BF%84%E9%A2%86%E5%9C%9F%E4%B8%8A%E7%9A%84%E8%A1%8C%E5%8A%A8%23&t=31&band_rank=7&Refer=top)<br />
+8. [女孩充电被电击内脏受损面临截肢](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%85%85%E7%94%B5%E8%A2%AB%E7%94%B5%E5%87%BB%E5%86%85%E8%84%8F%E5%8F%97%E6%8D%9F%E9%9D%A2%E4%B8%B4%E6%88%AA%E8%82%A2%23&t=31&band_rank=8&Refer=top)<br />
+9. [弟弟考673分姐姐哭了一小时](https://s.weibo.com/weibo?q=%23%E5%BC%9F%E5%BC%9F%E8%80%83673%E5%88%86%E5%A7%90%E5%A7%90%E5%93%AD%E4%BA%86%E4%B8%80%E5%B0%8F%E6%97%B6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -21,8 +21,8 @@
 5. [40 岁以后，你发现哪些钱根本没必要花？](https://www.zhihu.com/question/593808844)<br />
 6. [2023 年前 5 个月全国税收收入 84774 亿元，同比增长 17% ，这一增长幅度说明了什么？](https://www.zhihu.com/question/607311547)<br />
 7. [怎么看待董路说贵州村超像跳广场舞，改变不了中国足球？](https://www.zhihu.com/question/607400160)<br />
-8. [《灌篮高手》全国大赛之后，赤木为什么没能入选体育大学？](https://www.zhihu.com/question/21984804)<br />
-9. [宁夏银川烧烤店燃气爆炸事故 4 名犯罪嫌疑人被刑拘，从法律角度，他们将受到哪些处罚？](https://www.zhihu.com/question/608287472)<br />
+8. [宁夏银川烧烤店燃气爆炸事故 4 名犯罪嫌疑人被刑拘，从法律角度，他们将受到哪些处罚？](https://www.zhihu.com/question/608287472)<br />
+9. [《灌篮高手》全国大赛之后，赤木为什么没能入选体育大学？](https://www.zhihu.com/question/21984804)<br />
 
 > 百度  
 
