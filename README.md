@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 00:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 01:00:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [消失的她](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9&t=31&band_rank=6&Refer=top)<br />
 7. [女孩高考成绩被屏蔽4天小字显示全省前50](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E8%A2%AB%E5%B1%8F%E8%94%BD4%E5%A4%A9%E5%B0%8F%E5%AD%97%E6%98%BE%E7%A4%BA%E5%85%A8%E7%9C%81%E5%89%8D50%23&t=31&band_rank=7&Refer=top)<br />
 8. [中方表示瓦格纳集团事件是俄罗斯内政](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E8%A1%A8%E7%A4%BA%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%9B%86%E5%9B%A2%E4%BA%8B%E4%BB%B6%E6%98%AF%E4%BF%84%E7%BD%97%E6%96%AF%E5%86%85%E6%94%BF%23&t=31&band_rank=8&Refer=top)<br />
-9. [普京称全天候控制特别军事行动进程](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E7%A7%B0%E5%85%A8%E5%A4%A9%E5%80%99%E6%8E%A7%E5%88%B6%E7%89%B9%E5%88%AB%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8%E8%BF%9B%E7%A8%8B%23&t=31&band_rank=9&Refer=top)<br />
+9. [朱一龙的头为什么是歪的](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E7%9A%84%E5%A4%B4%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%AF%E6%AD%AA%E7%9A%84%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [荣耀官宣荣耀 X50 将在 7 月 5 日发布，如何看待此次新机外观酷似华为 Mate40？](https://www.zhihu.com/question/608442372)<br />
 7. []()<br />
 8. [电影《消失的她》彩蛋有何深意？](https://www.zhihu.com/question/608094853)<br />
-9. []()<br />
+9. [曝罗斯将成自由球员，尼克斯拒绝 1560 万球队选项，你认为他下赛季会加盟哪支球队？](https://www.zhihu.com/question/608399060)<br />
 
 > 百度  
 
