@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 23:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 23:30:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [一家三口吃蒸双臭嘴唇发紫送急诊](https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E5%90%83%E8%92%B8%E5%8F%8C%E8%87%AD%E5%98%B4%E5%94%87%E5%8F%91%E7%B4%AB%E9%80%81%E6%80%A5%E8%AF%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [北京一律所称不再招聘川大毕业生](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E4%B8%80%E5%BE%8B%E6%89%80%E7%A7%B0%E4%B8%8D%E5%86%8D%E6%8B%9B%E8%81%98%E5%B7%9D%E5%A4%A7%E6%AF%95%E4%B8%9A%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [黄多多17岁穿搭](https://www.baidu.com/s?wd=%E9%BB%84%E5%A4%9A%E5%A4%9A17%E5%B2%81%E7%A9%BF%E6%90%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [高校教师称殡葬专业就业率基本100%](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E6%95%99%E5%B8%88%E7%A7%B0%E6%AE%A1%E8%91%AC%E4%B8%93%E4%B8%9A%E5%B0%B1%E4%B8%9A%E7%8E%87%E5%9F%BA%E6%9C%AC100%25&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [8888元猪景房为何能卖这么贵](https://www.baidu.com/s?wd=8888%E5%85%83%E7%8C%AA%E6%99%AF%E6%88%BF%E4%B8%BA%E4%BD%95%E8%83%BD%E5%8D%96%E8%BF%99%E4%B9%88%E8%B4%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [一家三口吃蒸双臭嘴唇发紫送急诊](https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E5%90%83%E8%92%B8%E5%8F%8C%E8%87%AD%E5%98%B4%E5%94%87%E5%8F%91%E7%B4%AB%E9%80%81%E6%80%A5%E8%AF%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [北京一律所称不再招聘川大毕业生](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E4%B8%80%E5%BE%8B%E6%89%80%E7%A7%B0%E4%B8%8D%E5%86%8D%E6%8B%9B%E8%81%98%E5%B7%9D%E5%A4%A7%E6%AF%95%E4%B8%9A%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [黄多多17岁穿搭](https://www.baidu.com/s?wd=%E9%BB%84%E5%A4%9A%E5%A4%9A17%E5%B2%81%E7%A9%BF%E6%90%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [高校教师称殡葬专业就业率基本100%](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E6%95%99%E5%B8%88%E7%A7%B0%E6%AE%A1%E8%91%AC%E4%B8%93%E4%B8%9A%E5%B0%B1%E4%B8%9A%E7%8E%87%E5%9F%BA%E6%9C%AC100%25&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [8888元猪景房为何能卖这么贵](https://www.baidu.com/s?wd=8888%E5%85%83%E7%8C%AA%E6%99%AF%E6%88%BF%E4%B8%BA%E4%BD%95%E8%83%BD%E5%8D%96%E8%BF%99%E4%B9%88%E8%B4%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
