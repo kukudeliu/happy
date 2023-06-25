@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 01:51:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 01:52:01</h4></div>
 
 > 微博  
 
@@ -33,7 +33,7 @@
 5. [跳桥救人小哥获杭州市政府最高奖励](https://www.baidu.com/s?wd=%E8%B7%B3%E6%A1%A5%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E8%8E%B7%E6%9D%AD%E5%B7%9E%E5%B8%82%E6%94%BF%E5%BA%9C%E6%9C%80%E9%AB%98%E5%A5%96%E5%8A%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子要钱买毒品遭拒殴打父亲致死](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A6%81%E9%92%B1%E4%B9%B0%E6%AF%92%E5%93%81%E9%81%AD%E6%8B%92%E6%AE%B4%E6%89%93%E7%88%B6%E4%BA%B2%E8%87%B4%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [专家称4天工作制10年后可能实现](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B04%E5%A4%A9%E5%B7%A5%E4%BD%9C%E5%88%B610%E5%B9%B4%E5%90%8E%E5%8F%AF%E8%83%BD%E5%AE%9E%E7%8E%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [西湖现三条鲢鱼同时成功跃过水闸](https://www.baidu.com/s?wd=%E8%A5%BF%E6%B9%96%E7%8E%B0%E4%B8%89%E6%9D%A1%E9%B2%A2%E9%B1%BC%E5%90%8C%E6%97%B6%E6%88%90%E5%8A%9F%E8%B7%83%E8%BF%87%E6%B0%B4%E9%97%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [8888元猪景房为何能卖这么贵](https://www.baidu.com/s?wd=8888%E5%85%83%E7%8C%AA%E6%99%AF%E6%88%BF%E4%B8%BA%E4%BD%95%E8%83%BD%E5%8D%96%E8%BF%99%E4%B9%88%E8%B4%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [黄多多17岁穿搭](https://www.baidu.com/s?wd=%E9%BB%84%E5%A4%9A%E5%A4%9A17%E5%B2%81%E7%A9%BF%E6%90%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [跳桥救人小哥获杭州市政府最高奖励](https://www.baidu.com/s?wd=%E8%B7%B3%E6%A1%A5%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E8%8E%B7%E6%9D%AD%E5%B7%9E%E5%B8%82%E6%94%BF%E5%BA%9C%E6%9C%80%E9%AB%98%E5%A5%96%E5%8A%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子要钱买毒品遭拒殴打父亲致死](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A6%81%E9%92%B1%E4%B9%B0%E6%AF%92%E5%93%81%E9%81%AD%E6%8B%92%E6%AE%B4%E6%89%93%E7%88%B6%E4%BA%B2%E8%87%B4%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [专家称4天工作制10年后可能实现](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B04%E5%A4%A9%E5%B7%A5%E4%BD%9C%E5%88%B610%E5%B9%B4%E5%90%8E%E5%8F%AF%E8%83%BD%E5%AE%9E%E7%8E%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [西湖现三条鲢鱼同时成功跃过水闸](https://www.baidu.com/s?wd=%E8%A5%BF%E6%B9%96%E7%8E%B0%E4%B8%89%E6%9D%A1%E9%B2%A2%E9%B1%BC%E5%90%8C%E6%97%B6%E6%88%90%E5%8A%9F%E8%B7%83%E8%BF%87%E6%B0%B4%E9%97%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [8888元猪景房为何能卖这么贵](https://www.baidu.com/s?wd=8888%E5%85%83%E7%8C%AA%E6%99%AF%E6%88%BF%E4%B8%BA%E4%BD%95%E8%83%BD%E5%8D%96%E8%BF%99%E4%B9%88%E8%B4%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [黄多多17岁穿搭](https://www.baidu.com/s?wd=%E9%BB%84%E5%A4%9A%E5%A4%9A17%E5%B2%81%E7%A9%BF%E6%90%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
