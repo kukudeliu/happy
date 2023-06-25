@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 19:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 19:45:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [消息称美情报部门 6 月中旬已得知瓦格纳计划，如何看待这一消息的真实性？透露了哪些信息？](https://www.zhihu.com/question/608485451)<br />
 7. [玩密室逃脱时有哪些有趣的经历？](https://www.zhihu.com/question/335559873)<br />
 8. [连续高温中暑人数激增，医生提示称「警惕热射病，坚持好的生活习惯」，如何看待此事？高温天气如何防暑？](https://www.zhihu.com/question/608473030)<br />
-9. [你有哪些当初没听出来的弦外之音？](https://www.zhihu.com/question/62862636)<br />
+9. [当初你是为什么报了数学专业? 现在怎么样？](https://www.zhihu.com/question/607812231)<br />
 
 > 百度  
 
