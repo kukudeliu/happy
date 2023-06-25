@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 15:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 15:03:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [五年来「最火」最火端午收官，机票、酒店、景区门票订单量均超 2019 年同期，哪些信息值得关注？](https://www.zhihu.com/question/608421262)<br />
 7. [如何看待第 28 届白玉兰奖获奖名单《狂飙》三提零中？](https://www.zhihu.com/question/608166845)<br />
 8. []()<br />
-9. [黑客 George Hotz 爆料 GPT-4 由 8 个 MoE 模型组成，真的吗？](https://www.zhihu.com/question/607812079)<br />
+9. [有没有一句诗词，让你觉得意境特别干净？](https://www.zhihu.com/question/314071242)<br />
 
 > 百度  
 
