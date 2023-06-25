@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 08:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 08:09:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [家长以为中考管饭送完孩子去郊游](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E4%BB%A5%E4%B8%BA%E4%B8%AD%E8%80%83%E7%AE%A1%E9%A5%AD%E9%80%81%E5%AE%8C%E5%AD%A9%E5%AD%90%E5%8E%BB%E9%83%8A%E6%B8%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [白俄罗斯总统卢卡申科调停成功](https://www.baidu.com/s?wd=%E7%99%BD%E4%BF%84%E7%BD%97%E6%96%AF%E6%80%BB%E7%BB%9F%E5%8D%A2%E5%8D%A1%E7%94%B3%E7%A7%91%E8%B0%83%E5%81%9C%E6%88%90%E5%8A%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男生得知好友仅609分后瞬间弹起](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E5%BE%97%E7%9F%A5%E5%A5%BD%E5%8F%8B%E4%BB%85609%E5%88%86%E5%90%8E%E7%9E%AC%E9%97%B4%E5%BC%B9%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [复读女生涨61分坐地嚎啕大哭](https://www.baidu.com/s?wd=%E5%A4%8D%E8%AF%BB%E5%A5%B3%E7%94%9F%E6%B6%A861%E5%88%86%E5%9D%90%E5%9C%B0%E5%9A%8E%E5%95%95%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [泰国和美国两地大量鱼类死亡](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E5%92%8C%E7%BE%8E%E5%9B%BD%E4%B8%A4%E5%9C%B0%E5%A4%A7%E9%87%8F%E9%B1%BC%E7%B1%BB%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [双胞胎姐妹高考查分均超600](https://www.baidu.com/s?wd=%E5%8F%8C%E8%83%9E%E8%83%8E%E5%A7%90%E5%A6%B9%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86%E5%9D%87%E8%B6%85600&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [复读女生涨61分坐地嚎啕大哭](https://www.baidu.com/s?wd=%E5%A4%8D%E8%AF%BB%E5%A5%B3%E7%94%9F%E6%B6%A861%E5%88%86%E5%9D%90%E5%9C%B0%E5%9A%8E%E5%95%95%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [家长以为中考管饭送完孩子去郊游](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E4%BB%A5%E4%B8%BA%E4%B8%AD%E8%80%83%E7%AE%A1%E9%A5%AD%E9%80%81%E5%AE%8C%E5%AD%A9%E5%AD%90%E5%8E%BB%E9%83%8A%E6%B8%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [白俄罗斯总统卢卡申科调停成功](https://www.baidu.com/s?wd=%E7%99%BD%E4%BF%84%E7%BD%97%E6%96%AF%E6%80%BB%E7%BB%9F%E5%8D%A2%E5%8D%A1%E7%94%B3%E7%A7%91%E8%B0%83%E5%81%9C%E6%88%90%E5%8A%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男生得知好友仅609分后瞬间弹起](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E5%BE%97%E7%9F%A5%E5%A5%BD%E5%8F%8B%E4%BB%85609%E5%88%86%E5%90%8E%E7%9E%AC%E9%97%B4%E5%BC%B9%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [复读女生涨61分坐地嚎啕大哭](https://www.baidu.com/s?wd=%E5%A4%8D%E8%AF%BB%E5%A5%B3%E7%94%9F%E6%B6%A861%E5%88%86%E5%9D%90%E5%9C%B0%E5%9A%8E%E5%95%95%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [泰国和美国两地大量鱼类死亡](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E5%92%8C%E7%BE%8E%E5%9B%BD%E4%B8%A4%E5%9C%B0%E5%A4%A7%E9%87%8F%E9%B1%BC%E7%B1%BB%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [双胞胎姐妹高考查分均超600](https://www.baidu.com/s?wd=%E5%8F%8C%E8%83%9E%E8%83%8E%E5%A7%90%E5%A6%B9%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86%E5%9D%87%E8%B6%85600&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [复读女生涨61分坐地嚎啕大哭](https://www.baidu.com/s?wd=%E5%A4%8D%E8%AF%BB%E5%A5%B3%E7%94%9F%E6%B6%A861%E5%88%86%E5%9D%90%E5%9C%B0%E5%9A%8E%E5%95%95%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
