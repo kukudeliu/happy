@@ -1,13 +1,13 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 14:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 14:06:01</h4></div>
 
 > 微博  
 
 1. [普京反制日本](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E5%8F%8D%E5%88%B6%E6%97%A5%E6%9C%AC%23&t=31&band_rank=1&Refer=top)<br />
 2. [学生高考成绩被屏蔽老师激动欢呼](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E8%A2%AB%E5%B1%8F%E8%94%BD%E8%80%81%E5%B8%88%E6%BF%80%E5%8A%A8%E6%AC%A2%E5%91%BC%23&t=31&band_rank=2&Refer=top)<br />
 3. [2023高考志愿填报10问10答](https://s.weibo.com/weibo?q=%232023%E9%AB%98%E8%80%83%E5%BF%97%E6%84%BF%E5%A1%AB%E6%8A%A510%E9%97%AE10%E7%AD%94%23&t=31&band_rank=3&Refer=top)<br />
-4. [儿子考了675分父亲弹射冲下楼](https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E8%80%83%E4%BA%86675%E5%88%86%E7%88%B6%E4%BA%B2%E5%BC%B9%E5%B0%84%E5%86%B2%E4%B8%8B%E6%A5%BC%23&t=31&band_rank=4&Refer=top)<br />
-5. [高考分数线](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%23&t=31&band_rank=5&Refer=top)<br />
-6. [711分考生妈妈建议家长不要把全部精力投入孩子](https://s.weibo.com/weibo?q=%23711%E5%88%86%E8%80%83%E7%94%9F%E5%A6%88%E5%A6%88%E5%BB%BA%E8%AE%AE%E5%AE%B6%E9%95%BF%E4%B8%8D%E8%A6%81%E6%8A%8A%E5%85%A8%E9%83%A8%E7%B2%BE%E5%8A%9B%E6%8A%95%E5%85%A5%E5%AD%A9%E5%AD%90%23&t=31&band_rank=6&Refer=top)<br />
+4. [711分考生妈妈建议家长不要把全部精力投入孩子](https://s.weibo.com/weibo?q=%23711%E5%88%86%E8%80%83%E7%94%9F%E5%A6%88%E5%A6%88%E5%BB%BA%E8%AE%AE%E5%AE%B6%E9%95%BF%E4%B8%8D%E8%A6%81%E6%8A%8A%E5%85%A8%E9%83%A8%E7%B2%BE%E5%8A%9B%E6%8A%95%E5%85%A5%E5%AD%A9%E5%AD%90%23&t=31&band_rank=4&Refer=top)<br />
+5. [儿子考了675分父亲弹射冲下楼](https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E8%80%83%E4%BA%86675%E5%88%86%E7%88%B6%E4%BA%B2%E5%BC%B9%E5%B0%84%E5%86%B2%E4%B8%8B%E6%A5%BC%23&t=31&band_rank=5&Refer=top)<br />
+6. [高考分数线](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%23&t=31&band_rank=6&Refer=top)<br />
 7. [外甥女查分610小姨奔向卧室跑飞鞋](https://s.weibo.com/weibo?q=%23%E5%A4%96%E7%94%A5%E5%A5%B3%E6%9F%A5%E5%88%86610%E5%B0%8F%E5%A7%A8%E5%A5%94%E5%90%91%E5%8D%A7%E5%AE%A4%E8%B7%91%E9%A3%9E%E9%9E%8B%23&t=31&band_rank=7&Refer=top)<br />
 8. [乌克兰宣布从多方向发起反攻](https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%85%8B%E5%85%B0%E5%AE%A3%E5%B8%83%E4%BB%8E%E5%A4%9A%E6%96%B9%E5%90%91%E5%8F%91%E8%B5%B7%E5%8F%8D%E6%94%BB%23&t=31&band_rank=8&Refer=top)<br />
 9. [山东高考分数线](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%23&t=31&band_rank=9&Refer=top)<br />
@@ -21,8 +21,8 @@
 5. [端午档总票房破 9 亿，暂列影史第二，如何评价这一票房成绩？你去影院看了哪部电影？](https://www.zhihu.com/question/608300528)<br />
 6. [电影《消失的她》里反复出现梵高的「星空」有什么寓意？](https://www.zhihu.com/question/607992980)<br />
 7. [如何评价《中国说唱巅峰对决 2023》第八期法老、早安、小精灵的舞台《健将 plus》？](https://www.zhihu.com/question/608288936)<br />
-8. []()<br />
-9. []()<br />
+8. [五年来「最火」最火端午收官，机票、酒店、景区门票订单量均超 2019 年同期，哪些信息值得关注？](https://www.zhihu.com/question/608421262)<br />
+9. [为什么越来越少的人戴机械表了？](https://www.zhihu.com/question/587877901)<br />
 
 > 百度  
 
