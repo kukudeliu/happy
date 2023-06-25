@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 16:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 16:49:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [李雪琴是艺名](https://www.baidu.com/s?wd=%E6%9D%8E%E9%9B%AA%E7%90%B4%E6%98%AF%E8%89%BA%E5%90%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男孩查分显示全省前31名](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E6%9F%A5%E5%88%86%E6%98%BE%E7%A4%BA%E5%85%A8%E7%9C%81%E5%89%8D31%E5%90%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子网购裤子意外发现毕业生饭卡](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%BD%91%E8%B4%AD%E8%A3%A4%E5%AD%90%E6%84%8F%E5%A4%96%E5%8F%91%E7%8E%B0%E6%AF%95%E4%B8%9A%E7%94%9F%E9%A5%AD%E5%8D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [今年中秋国庆休八上七](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E4%B8%AD%E7%A7%8B%E5%9B%BD%E5%BA%86%E4%BC%91%E5%85%AB%E4%B8%8A%E4%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [考生查完分跪地大喊妈妈淡定睡觉](https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%E6%9F%A5%E5%AE%8C%E5%88%86%E8%B7%AA%E5%9C%B0%E5%A4%A7%E5%96%8A%E5%A6%88%E5%A6%88%E6%B7%A1%E5%AE%9A%E7%9D%A1%E8%A7%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [李雪琴是艺名](https://www.baidu.com/s?wd=%E6%9D%8E%E9%9B%AA%E7%90%B4%E6%98%AF%E8%89%BA%E5%90%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男孩查分显示全省前31名](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E6%9F%A5%E5%88%86%E6%98%BE%E7%A4%BA%E5%85%A8%E7%9C%81%E5%89%8D31%E5%90%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子网购裤子意外发现毕业生饭卡](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%BD%91%E8%B4%AD%E8%A3%A4%E5%AD%90%E6%84%8F%E5%A4%96%E5%8F%91%E7%8E%B0%E6%AF%95%E4%B8%9A%E7%94%9F%E9%A5%AD%E5%8D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [今年中秋国庆休八上七](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E4%B8%AD%E7%A7%8B%E5%9B%BD%E5%BA%86%E4%BC%91%E5%85%AB%E4%B8%8A%E4%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [考生查完分跪地大喊妈妈淡定睡觉](https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%E6%9F%A5%E5%AE%8C%E5%88%86%E8%B7%AA%E5%9C%B0%E5%A4%A7%E5%96%8A%E5%A6%88%E5%A6%88%E6%B7%A1%E5%AE%9A%E7%9D%A1%E8%A7%89&sa=fyb_news&rsv_dl=fyb_news)<br />
