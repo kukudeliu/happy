@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 22:47:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 22:48:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [白敬亭是在挽回形象吗](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E6%98%AF%E5%9C%A8%E6%8C%BD%E5%9B%9E%E5%BD%A2%E8%B1%A1%E5%90%97%23&t=31&band_rank=4&Refer=top)<br />
 5. [蔡徐坤不用管我死活](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E4%B8%8D%E7%94%A8%E7%AE%A1%E6%88%91%E6%AD%BB%E6%B4%BB%23&t=31&band_rank=5&Refer=top)<br />
 6. [博士生毕业后赴新疆任教被校长点名表扬](https://s.weibo.com/weibo?q=%23%E5%8D%9A%E5%A3%AB%E7%94%9F%E6%AF%95%E4%B8%9A%E5%90%8E%E8%B5%B4%E6%96%B0%E7%96%86%E4%BB%BB%E6%95%99%E8%A2%AB%E6%A0%A1%E9%95%BF%E7%82%B9%E5%90%8D%E8%A1%A8%E6%89%AC%23&t=31&band_rank=6&Refer=top)<br />
-7. [美媒称美国提前得知瓦格纳要行动](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AA%92%E7%A7%B0%E7%BE%8E%E5%9B%BD%E6%8F%90%E5%89%8D%E5%BE%97%E7%9F%A5%E7%93%A6%E6%A0%BC%E7%BA%B3%E8%A6%81%E8%A1%8C%E5%8A%A8%23&t=31&band_rank=7&Refer=top)<br />
-8. [车澈给王传君介绍严浩翔](https://s.weibo.com/weibo?q=%23%E8%BD%A6%E6%BE%88%E7%BB%99%E7%8E%8B%E4%BC%A0%E5%90%9B%E4%BB%8B%E7%BB%8D%E4%B8%A5%E6%B5%A9%E7%BF%94%23&t=31&band_rank=8&Refer=top)<br />
+7. [车澈给王传君介绍严浩翔](https://s.weibo.com/weibo?q=%23%E8%BD%A6%E6%BE%88%E7%BB%99%E7%8E%8B%E4%BC%A0%E5%90%9B%E4%BB%8B%E7%BB%8D%E4%B8%A5%E6%B5%A9%E7%BF%94%23&t=31&band_rank=7&Refer=top)<br />
+8. [美媒称美国提前得知瓦格纳要行动](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AA%92%E7%A7%B0%E7%BE%8E%E5%9B%BD%E6%8F%90%E5%89%8D%E5%BE%97%E7%9F%A5%E7%93%A6%E6%A0%BC%E7%BA%B3%E8%A6%81%E8%A1%8C%E5%8A%A8%23&t=31&band_rank=8&Refer=top)<br />
 9. [长风渡 萨摩耶安慰布偶猫](https://s.weibo.com/weibo?q=%E9%95%BF%E9%A3%8E%E6%B8%A1%20%E8%90%A8%E6%91%A9%E8%80%B6%E5%AE%89%E6%85%B0%E5%B8%83%E5%81%B6%E7%8C%AB&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
