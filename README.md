@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 06:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 06:58:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [女孩高考成绩被屏蔽4天小字显示全省前50](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E8%A2%AB%E5%B1%8F%E8%94%BD4%E5%A4%A9%E5%B0%8F%E5%AD%97%E6%98%BE%E7%A4%BA%E5%85%A8%E7%9C%81%E5%89%8D50%23&t=31&band_rank=6&Refer=top)<br />
 7. [四川26岁女孩下网约车后失联](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D26%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%B8%8B%E7%BD%91%E7%BA%A6%E8%BD%A6%E5%90%8E%E5%A4%B1%E8%81%94%23&t=31&band_rank=7&Refer=top)<br />
 8. [父亲去世男孩忍痛高考如愿上岸](https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%8E%BB%E4%B8%96%E7%94%B7%E5%AD%A9%E5%BF%8D%E7%97%9B%E9%AB%98%E8%80%83%E5%A6%82%E6%84%BF%E4%B8%8A%E5%B2%B8%23&t=31&band_rank=8&Refer=top)<br />
-9. [女生高考时发烧考618分挨个屋报喜](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83%E6%97%B6%E5%8F%91%E7%83%A7%E8%80%83618%E5%88%86%E6%8C%A8%E4%B8%AA%E5%B1%8B%E6%8A%A5%E5%96%9C%23&t=31&band_rank=9&Refer=top)<br />
+9. [男生怕考砸被骂查分前挨个打扫房间](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E6%80%95%E8%80%83%E7%A0%B8%E8%A2%AB%E9%AA%82%E6%9F%A5%E5%88%86%E5%89%8D%E6%8C%A8%E4%B8%AA%E6%89%93%E6%89%AB%E6%88%BF%E9%97%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
