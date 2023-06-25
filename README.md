@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 10:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 10:34:01</h4></div>
 
 > 微博  
 
@@ -32,9 +32,9 @@
 4. [大地诗篇](https://www.baidu.com/s?wd=%E5%A4%A7%E5%9C%B0%E8%AF%97%E7%AF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [“敬礼娃娃”已收到北大人大邀请](https://www.baidu.com/s?wd=%E2%80%9C%E6%95%AC%E7%A4%BC%E5%A8%83%E5%A8%83%E2%80%9D%E5%B7%B2%E6%94%B6%E5%88%B0%E5%8C%97%E5%A4%A7%E4%BA%BA%E5%A4%A7%E9%82%80%E8%AF%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [俄方将撤销对普里戈任的刑事立案](https://www.baidu.com/s?wd=%E4%BF%84%E6%96%B9%E5%B0%86%E6%92%A4%E9%94%80%E5%AF%B9%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E7%9A%84%E5%88%91%E4%BA%8B%E7%AB%8B%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女生考前3天连续失眠 一查684分落泪](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E8%80%83%E5%89%8D3%E5%A4%A9%E8%BF%9E%E7%BB%AD%E5%A4%B1%E7%9C%A0+%E4%B8%80%E6%9F%A5684%E5%88%86%E8%90%BD%E6%B3%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [这场“叛乱”为何旋风般收场？](https://www.baidu.com/s?wd=%E8%BF%99%E5%9C%BA%E2%80%9C%E5%8F%9B%E4%B9%B1%E2%80%9D%E4%B8%BA%E4%BD%95%E6%97%8B%E9%A3%8E%E8%88%AC%E6%94%B6%E5%9C%BA%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子每天1斤杨梅狂吃20天要做血透](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%AF%8F%E5%A4%A91%E6%96%A4%E6%9D%A8%E6%A2%85%E7%8B%82%E5%90%8320%E5%A4%A9%E8%A6%81%E5%81%9A%E8%A1%80%E9%80%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [这场“叛乱”为何旋风般收场？](https://www.baidu.com/s?wd=%E8%BF%99%E5%9C%BA%E2%80%9C%E5%8F%9B%E4%B9%B1%E2%80%9D%E4%B8%BA%E4%BD%95%E6%97%8B%E9%A3%8E%E8%88%AC%E6%94%B6%E5%9C%BA%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子每天1斤杨梅狂吃20天要做血透](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%AF%8F%E5%A4%A91%E6%96%A4%E6%9D%A8%E6%A2%85%E7%8B%82%E5%90%8320%E5%A4%A9%E8%A6%81%E5%81%9A%E8%A1%80%E9%80%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女生考前3天连续失眠 一查684分落泪](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E8%80%83%E5%89%8D3%E5%A4%A9%E8%BF%9E%E7%BB%AD%E5%A4%B1%E7%9C%A0+%E4%B8%80%E6%9F%A5684%E5%88%86%E8%90%BD%E6%B3%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [大地诗篇](https://www.baidu.com/s?wd=%E5%A4%A7%E5%9C%B0%E8%AF%97%E7%AF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [“敬礼娃娃”已收到北大人大邀请](https://www.baidu.com/s?wd=%E2%80%9C%E6%95%AC%E7%A4%BC%E5%A8%83%E5%A8%83%E2%80%9D%E5%B7%B2%E6%94%B6%E5%88%B0%E5%8C%97%E5%A4%A7%E4%BA%BA%E5%A4%A7%E9%82%80%E8%AF%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [俄方将撤销对普里戈任的刑事立案](https://www.baidu.com/s?wd=%E4%BF%84%E6%96%B9%E5%B0%86%E6%92%A4%E9%94%80%E5%AF%B9%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E7%9A%84%E5%88%91%E4%BA%8B%E7%AB%8B%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女生考前3天连续失眠 一查684分落泪](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E8%80%83%E5%89%8D3%E5%A4%A9%E8%BF%9E%E7%BB%AD%E5%A4%B1%E7%9C%A0+%E4%B8%80%E6%9F%A5684%E5%88%86%E8%90%BD%E6%B3%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [这场“叛乱”为何旋风般收场？](https://www.baidu.com/s?wd=%E8%BF%99%E5%9C%BA%E2%80%9C%E5%8F%9B%E4%B9%B1%E2%80%9D%E4%B8%BA%E4%BD%95%E6%97%8B%E9%A3%8E%E8%88%AC%E6%94%B6%E5%9C%BA%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子每天1斤杨梅狂吃20天要做血透](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%AF%8F%E5%A4%A91%E6%96%A4%E6%9D%A8%E6%A2%85%E7%8B%82%E5%90%8320%E5%A4%A9%E8%A6%81%E5%81%9A%E8%A1%80%E9%80%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [这场“叛乱”为何旋风般收场？](https://www.baidu.com/s?wd=%E8%BF%99%E5%9C%BA%E2%80%9C%E5%8F%9B%E4%B9%B1%E2%80%9D%E4%B8%BA%E4%BD%95%E6%97%8B%E9%A3%8E%E8%88%AC%E6%94%B6%E5%9C%BA%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子每天1斤杨梅狂吃20天要做血透](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%AF%8F%E5%A4%A91%E6%96%A4%E6%9D%A8%E6%A2%85%E7%8B%82%E5%90%8320%E5%A4%A9%E8%A6%81%E5%81%9A%E8%A1%80%E9%80%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女生考前3天连续失眠 一查684分落泪](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E8%80%83%E5%89%8D3%E5%A4%A9%E8%BF%9E%E7%BB%AD%E5%A4%B1%E7%9C%A0+%E4%B8%80%E6%9F%A5684%E5%88%86%E8%90%BD%E6%B3%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
