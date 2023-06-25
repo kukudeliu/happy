@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 21:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 21:14:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [俄罗斯现在怎么样？](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E7%8E%B0%E5%9C%A8%E6%80%8E%E4%B9%88%E6%A0%B7%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [黄多多17岁穿搭](https://www.baidu.com/s?wd=%E9%BB%84%E5%A4%9A%E5%A4%9A17%E5%B2%81%E7%A9%BF%E6%90%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [690分学霸采访中接到清华电话](https://www.baidu.com/s?wd=690%E5%88%86%E5%AD%A6%E9%9C%B8%E9%87%87%E8%AE%BF%E4%B8%AD%E6%8E%A5%E5%88%B0%E6%B8%85%E5%8D%8E%E7%94%B5%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [香港迪士尼偶遇吴尊一家](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%81%B6%E9%81%87%E5%90%B4%E5%B0%8A%E4%B8%80%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [高校教师称殡葬专业就业率基本100%](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E6%95%99%E5%B8%88%E7%A7%B0%E6%AE%A1%E8%91%AC%E4%B8%93%E4%B8%9A%E5%B0%B1%E4%B8%9A%E7%8E%87%E5%9F%BA%E6%9C%AC100%25&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [高校教师称殡葬专业就业率基本100%](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E6%95%99%E5%B8%88%E7%A7%B0%E6%AE%A1%E8%91%AC%E4%B8%93%E4%B8%9A%E5%B0%B1%E4%B8%9A%E7%8E%87%E5%9F%BA%E6%9C%AC100%25&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子要钱买毒品遭拒殴打父亲致死](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A6%81%E9%92%B1%E4%B9%B0%E6%AF%92%E5%93%81%E9%81%AD%E6%8B%92%E6%AE%B4%E6%89%93%E7%88%B6%E4%BA%B2%E8%87%B4%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [俄罗斯现在怎么样？](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E7%8E%B0%E5%9C%A8%E6%80%8E%E4%B9%88%E6%A0%B7%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [黄多多17岁穿搭](https://www.baidu.com/s?wd=%E9%BB%84%E5%A4%9A%E5%A4%9A17%E5%B2%81%E7%A9%BF%E6%90%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [690分学霸采访中接到清华电话](https://www.baidu.com/s?wd=690%E5%88%86%E5%AD%A6%E9%9C%B8%E9%87%87%E8%AE%BF%E4%B8%AD%E6%8E%A5%E5%88%B0%E6%B8%85%E5%8D%8E%E7%94%B5%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [香港迪士尼偶遇吴尊一家](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%81%B6%E9%81%87%E5%90%B4%E5%B0%8A%E4%B8%80%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [高校教师称殡葬专业就业率基本100%](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E6%95%99%E5%B8%88%E7%A7%B0%E6%AE%A1%E8%91%AC%E4%B8%93%E4%B8%9A%E5%B0%B1%E4%B8%9A%E7%8E%87%E5%9F%BA%E6%9C%AC100%25&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [高校教师称殡葬专业就业率基本100%](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E6%95%99%E5%B8%88%E7%A7%B0%E6%AE%A1%E8%91%AC%E4%B8%93%E4%B8%9A%E5%B0%B1%E4%B8%9A%E7%8E%87%E5%9F%BA%E6%9C%AC100%25&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子要钱买毒品遭拒殴打父亲致死](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A6%81%E9%92%B1%E4%B9%B0%E6%AF%92%E5%93%81%E9%81%AD%E6%8B%92%E6%AE%B4%E6%89%93%E7%88%B6%E4%BA%B2%E8%87%B4%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
