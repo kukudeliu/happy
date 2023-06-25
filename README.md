@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 19:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 19:48:02</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [经纪人回应郑欣宜失踪](https://www.baidu.com/s?wd=%E7%BB%8F%E7%BA%AA%E4%BA%BA%E5%9B%9E%E5%BA%94%E9%83%91%E6%AC%A3%E5%AE%9C%E5%A4%B1%E8%B8%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [8888元猪景房为何能卖这么贵](https://www.baidu.com/s?wd=8888%E5%85%83%E7%8C%AA%E6%99%AF%E6%88%BF%E4%B8%BA%E4%BD%95%E8%83%BD%E5%8D%96%E8%BF%99%E4%B9%88%E8%B4%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [俄罗斯现在怎么样？](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E7%8E%B0%E5%9C%A8%E6%80%8E%E4%B9%88%E6%A0%B7%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [教育局回应上市公司发高考状元喜报](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E5%8F%91%E9%AB%98%E8%80%83%E7%8A%B6%E5%85%83%E5%96%9C%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男生考666分一脸淡定爸爸偷偷捂脸哭](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E8%80%83666%E5%88%86%E4%B8%80%E8%84%B8%E6%B7%A1%E5%AE%9A%E7%88%B8%E7%88%B8%E5%81%B7%E5%81%B7%E6%8D%82%E8%84%B8%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [690分学霸采访中接到清华电话](https://www.baidu.com/s?wd=690%E5%88%86%E5%AD%A6%E9%9C%B8%E9%87%87%E8%AE%BF%E4%B8%AD%E6%8E%A5%E5%88%B0%E6%B8%85%E5%8D%8E%E7%94%B5%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [教育局回应上市公司发高考状元喜报](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E5%8F%91%E9%AB%98%E8%80%83%E7%8A%B6%E5%85%83%E5%96%9C%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [经纪人回应郑欣宜失踪](https://www.baidu.com/s?wd=%E7%BB%8F%E7%BA%AA%E4%BA%BA%E5%9B%9E%E5%BA%94%E9%83%91%E6%AC%A3%E5%AE%9C%E5%A4%B1%E8%B8%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [8888元猪景房为何能卖这么贵](https://www.baidu.com/s?wd=8888%E5%85%83%E7%8C%AA%E6%99%AF%E6%88%BF%E4%B8%BA%E4%BD%95%E8%83%BD%E5%8D%96%E8%BF%99%E4%B9%88%E8%B4%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [俄罗斯现在怎么样？](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E7%8E%B0%E5%9C%A8%E6%80%8E%E4%B9%88%E6%A0%B7%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [教育局回应上市公司发高考状元喜报](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E5%8F%91%E9%AB%98%E8%80%83%E7%8A%B6%E5%85%83%E5%96%9C%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男生考666分一脸淡定爸爸偷偷捂脸哭](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E8%80%83666%E5%88%86%E4%B8%80%E8%84%B8%E6%B7%A1%E5%AE%9A%E7%88%B8%E7%88%B8%E5%81%B7%E5%81%B7%E6%8D%82%E8%84%B8%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [690分学霸采访中接到清华电话](https://www.baidu.com/s?wd=690%E5%88%86%E5%AD%A6%E9%9C%B8%E9%87%87%E8%AE%BF%E4%B8%AD%E6%8E%A5%E5%88%B0%E6%B8%85%E5%8D%8E%E7%94%B5%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [教育局回应上市公司发高考状元喜报](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E5%8F%91%E9%AB%98%E8%80%83%E7%8A%B6%E5%85%83%E5%96%9C%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
