@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 00:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 00:15:02</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [大哥砸窗拽出司机下一秒车起大火](https://www.baidu.com/s?wd=%E5%A4%A7%E5%93%A5%E7%A0%B8%E7%AA%97%E6%8B%BD%E5%87%BA%E5%8F%B8%E6%9C%BA%E4%B8%8B%E4%B8%80%E7%A7%92%E8%BD%A6%E8%B5%B7%E5%A4%A7%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [白敬亭工作室有点反骨在身上](https://www.baidu.com/s?wd=%E7%99%BD%E6%95%AC%E4%BA%AD%E5%B7%A5%E4%BD%9C%E5%AE%A4%E6%9C%89%E7%82%B9%E5%8F%8D%E9%AA%A8%E5%9C%A8%E8%BA%AB%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [丁禹兮何超莲合照](https://www.baidu.com/s?wd=%E4%B8%81%E7%A6%B9%E5%85%AE%E4%BD%95%E8%B6%85%E8%8E%B2%E5%90%88%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [宁夏：保持“睁眼睡觉”的警觉性](https://www.baidu.com/s?wd=%E5%AE%81%E5%A4%8F%EF%BC%9A%E4%BF%9D%E6%8C%81%E2%80%9C%E7%9D%81%E7%9C%BC%E7%9D%A1%E8%A7%89%E2%80%9D%E7%9A%84%E8%AD%A6%E8%A7%89%E6%80%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子要钱买毒品遭拒殴打父亲致死](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A6%81%E9%92%B1%E4%B9%B0%E6%AF%92%E5%93%81%E9%81%AD%E6%8B%92%E6%AE%B4%E6%89%93%E7%88%B6%E4%BA%B2%E8%87%B4%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [大哥砸窗拽出司机下一秒车起大火](https://www.baidu.com/s?wd=%E5%A4%A7%E5%93%A5%E7%A0%B8%E7%AA%97%E6%8B%BD%E5%87%BA%E5%8F%B8%E6%9C%BA%E4%B8%8B%E4%B8%80%E7%A7%92%E8%BD%A6%E8%B5%B7%E5%A4%A7%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [白敬亭工作室有点反骨在身上](https://www.baidu.com/s?wd=%E7%99%BD%E6%95%AC%E4%BA%AD%E5%B7%A5%E4%BD%9C%E5%AE%A4%E6%9C%89%E7%82%B9%E5%8F%8D%E9%AA%A8%E5%9C%A8%E8%BA%AB%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [丁禹兮何超莲合照](https://www.baidu.com/s?wd=%E4%B8%81%E7%A6%B9%E5%85%AE%E4%BD%95%E8%B6%85%E8%8E%B2%E5%90%88%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [宁夏：保持“睁眼睡觉”的警觉性](https://www.baidu.com/s?wd=%E5%AE%81%E5%A4%8F%EF%BC%9A%E4%BF%9D%E6%8C%81%E2%80%9C%E7%9D%81%E7%9C%BC%E7%9D%A1%E8%A7%89%E2%80%9D%E7%9A%84%E8%AD%A6%E8%A7%89%E6%80%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子要钱买毒品遭拒殴打父亲致死](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A6%81%E9%92%B1%E4%B9%B0%E6%AF%92%E5%93%81%E9%81%AD%E6%8B%92%E6%AE%B4%E6%89%93%E7%88%B6%E4%BA%B2%E8%87%B4%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
