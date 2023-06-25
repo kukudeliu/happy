@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 20:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 20:17:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [消失的她评分下降](https://s.weibo.com/weibo?q=%23%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E8%AF%84%E5%88%86%E4%B8%8B%E9%99%8D%23&t=31&band_rank=5&Refer=top)<br />
 6. [白敬亭工作室big胆](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%B7%A5%E4%BD%9C%E5%AE%A4big%E8%83%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [西瓜猪](https://s.weibo.com/weibo?q=%E8%A5%BF%E7%93%9C%E7%8C%AA&t=31&band_rank=7&Refer=top)<br />
-8. [虞书欣一天喝了三杯冰美式](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E4%B8%80%E5%A4%A9%E5%96%9D%E4%BA%86%E4%B8%89%E6%9D%AF%E5%86%B0%E7%BE%8E%E5%BC%8F%23&t=31&band_rank=8&Refer=top)<br />
-9. [郑欣宜经纪人报平安](https://s.weibo.com/weibo?q=%23%E9%83%91%E6%AC%A3%E5%AE%9C%E7%BB%8F%E7%BA%AA%E4%BA%BA%E6%8A%A5%E5%B9%B3%E5%AE%89%23&t=31&band_rank=9&Refer=top)<br />
+8. [蔡徐坤泰国演唱会](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E6%B3%B0%E5%9B%BD%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=8&Refer=top)<br />
+9. [虞书欣一天喝了三杯冰美式](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E4%B8%80%E5%A4%A9%E5%96%9D%E4%BA%86%E4%B8%89%E6%9D%AF%E5%86%B0%E7%BE%8E%E5%BC%8F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
