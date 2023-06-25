@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 17:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 17:34:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [太空视角下五颜六色的中国大地](https://s.weibo.com/weibo?q=%23%E5%A4%AA%E7%A9%BA%E8%A7%86%E8%A7%92%E4%B8%8B%E4%BA%94%E9%A2%9C%E5%85%AD%E8%89%B2%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%9C%B0%23&t=31&band_rank=3&Refer=top)<br />
 4. [上市公司祝贺总经理女儿夺高考状元](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E7%A5%9D%E8%B4%BA%E6%80%BB%E7%BB%8F%E7%90%86%E5%A5%B3%E5%84%BF%E5%A4%BA%E9%AB%98%E8%80%83%E7%8A%B6%E5%85%83%23&t=31&band_rank=4&Refer=top)<br />
 5. [一年放假115天多吗](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%B9%B4%E6%94%BE%E5%81%87115%E5%A4%A9%E5%A4%9A%E5%90%97%23&t=31&band_rank=5&Refer=top)<br />
-6. [那个说英语难的男生高考684分](https://s.weibo.com/weibo?q=%23%E9%82%A3%E4%B8%AA%E8%AF%B4%E8%8B%B1%E8%AF%AD%E9%9A%BE%E7%9A%84%E7%94%B7%E7%94%9F%E9%AB%98%E8%80%83684%E5%88%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [虞书欣一天喝了三杯冰美式](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E4%B8%80%E5%A4%A9%E5%96%9D%E4%BA%86%E4%B8%89%E6%9D%AF%E5%86%B0%E7%BE%8E%E5%BC%8F%23&t=31&band_rank=7&Refer=top)<br />
+6. [虞书欣一天喝了三杯冰美式](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E4%B8%80%E5%A4%A9%E5%96%9D%E4%BA%86%E4%B8%89%E6%9D%AF%E5%86%B0%E7%BE%8E%E5%BC%8F%23&t=31&band_rank=6&Refer=top)<br />
+7. [邱耀乐妈妈提告炎亚纶](https://s.weibo.com/weibo?q=%23%E9%82%B1%E8%80%80%E4%B9%90%E5%A6%88%E5%A6%88%E6%8F%90%E5%91%8A%E7%82%8E%E4%BA%9A%E7%BA%B6%23&t=31&band_rank=7&Refer=top)<br />
 8. [美媒称美国提前得知瓦格纳要行动](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AA%92%E7%A7%B0%E7%BE%8E%E5%9B%BD%E6%8F%90%E5%89%8D%E5%BE%97%E7%9F%A5%E7%93%A6%E6%A0%BC%E7%BA%B3%E8%A6%81%E8%A1%8C%E5%8A%A8%23&t=31&band_rank=8&Refer=top)<br />
-9. [邱耀乐妈妈提告炎亚纶](https://s.weibo.com/weibo?q=%23%E9%82%B1%E8%80%80%E4%B9%90%E5%A6%88%E5%A6%88%E6%8F%90%E5%91%8A%E7%82%8E%E4%BA%9A%E7%BA%B6%23&t=31&band_rank=9&Refer=top)<br />
+9. [那个说英语难的男生高考684分](https://s.weibo.com/weibo?q=%23%E9%82%A3%E4%B8%AA%E8%AF%B4%E8%8B%B1%E8%AF%AD%E9%9A%BE%E7%9A%84%E7%94%B7%E7%94%9F%E9%AB%98%E8%80%83684%E5%88%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
