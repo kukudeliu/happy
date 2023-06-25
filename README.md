@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 14:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 14:09:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [端午档总票房破 9 亿，暂列影史第二，如何评价这一票房成绩？你去影院看了哪部电影？](https://www.zhihu.com/question/608300528)<br />
 6. [电影《消失的她》里反复出现梵高的「星空」有什么寓意？](https://www.zhihu.com/question/607992980)<br />
 7. [如何评价《中国说唱巅峰对决 2023》第八期法老、早安、小精灵的舞台《健将 plus》？](https://www.zhihu.com/question/608288936)<br />
-8. [五年来「最火」最火端午收官，机票、酒店、景区门票订单量均超 2019 年同期，哪些信息值得关注？](https://www.zhihu.com/question/608421262)<br />
-9. [为什么越来越少的人戴机械表了？](https://www.zhihu.com/question/587877901)<br />
+8. [为什么越来越少的人戴机械表了？](https://www.zhihu.com/question/587877901)<br />
+9. [五年来「最火」最火端午收官，机票、酒店、景区门票订单量均超 2019 年同期，哪些信息值得关注？](https://www.zhihu.com/question/608421262)<br />
 
 > 百度  
 
