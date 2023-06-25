@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 10:48:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 10:49:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [俄方将撤销对普里戈任的刑事立案](https://www.baidu.com/s?wd=%E4%BF%84%E6%96%B9%E5%B0%86%E6%92%A4%E9%94%80%E5%AF%B9%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E7%9A%84%E5%88%91%E4%BA%8B%E7%AB%8B%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子每天1斤杨梅狂吃20天要做血透](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%AF%8F%E5%A4%A91%E6%96%A4%E6%9D%A8%E6%A2%85%E7%8B%82%E5%90%8320%E5%A4%A9%E8%A6%81%E5%81%9A%E8%A1%80%E9%80%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [儿子考694分妈妈激动叫出海豚音](https://www.baidu.com/s?wd=%E5%84%BF%E5%AD%90%E8%80%83694%E5%88%86%E5%A6%88%E5%A6%88%E6%BF%80%E5%8A%A8%E5%8F%AB%E5%87%BA%E6%B5%B7%E8%B1%9A%E9%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女生考前3天连续失眠 一查684分落泪](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E8%80%83%E5%89%8D3%E5%A4%A9%E8%BF%9E%E7%BB%AD%E5%A4%B1%E7%9C%A0+%E4%B8%80%E6%9F%A5684%E5%88%86%E8%90%BD%E6%B3%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [2023各地高考分数线汇总](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E6%89%B9%E6%AC%A1%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [俄方将撤销对普里戈任的刑事立案](https://www.baidu.com/s?wd=%E4%BF%84%E6%96%B9%E5%B0%86%E6%92%A4%E9%94%80%E5%AF%B9%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E7%9A%84%E5%88%91%E4%BA%8B%E7%AB%8B%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子每天1斤杨梅狂吃20天要做血透](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%AF%8F%E5%A4%A91%E6%96%A4%E6%9D%A8%E6%A2%85%E7%8B%82%E5%90%8320%E5%A4%A9%E8%A6%81%E5%81%9A%E8%A1%80%E9%80%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [儿子考694分妈妈激动叫出海豚音](https://www.baidu.com/s?wd=%E5%84%BF%E5%AD%90%E8%80%83694%E5%88%86%E5%A6%88%E5%A6%88%E6%BF%80%E5%8A%A8%E5%8F%AB%E5%87%BA%E6%B5%B7%E8%B1%9A%E9%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女生考前3天连续失眠 一查684分落泪](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E8%80%83%E5%89%8D3%E5%A4%A9%E8%BF%9E%E7%BB%AD%E5%A4%B1%E7%9C%A0+%E4%B8%80%E6%9F%A5684%E5%88%86%E8%90%BD%E6%B3%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [2023各地高考分数线汇总](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E6%89%B9%E6%AC%A1%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
