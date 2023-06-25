@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 12:06:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 12:07:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [普京感谢卢卡申科](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E6%84%9F%E8%B0%A2%E5%8D%A2%E5%8D%A1%E7%94%B3%E7%A7%91%23&t=31&band_rank=5&Refer=top)<br />
 6. [2023广东高考分数线](https://s.weibo.com/weibo?q=%232023%E5%B9%BF%E4%B8%9C%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%23&t=31&band_rank=6&Refer=top)<br />
 7. [宋轶片场勾白敬亭下巴](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%BD%B6%E7%89%87%E5%9C%BA%E5%8B%BE%E7%99%BD%E6%95%AC%E4%BA%AD%E4%B8%8B%E5%B7%B4%23&t=31&band_rank=7&Refer=top)<br />
-8. [调休制定参与者建议重新考虑政策](https://s.weibo.com/weibo?q=%23%E8%B0%83%E4%BC%91%E5%88%B6%E5%AE%9A%E5%8F%82%E4%B8%8E%E8%80%85%E5%BB%BA%E8%AE%AE%E9%87%8D%E6%96%B0%E8%80%83%E8%99%91%E6%94%BF%E7%AD%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [长风渡宣发](https://s.weibo.com/weibo?q=%E9%95%BF%E9%A3%8E%E6%B8%A1%E5%AE%A3%E5%8F%91&t=31&band_rank=9&Refer=top)<br />
+8. [男生考694分妈妈激动叫出海豚音](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E8%80%83694%E5%88%86%E5%A6%88%E5%A6%88%E6%BF%80%E5%8A%A8%E5%8F%AB%E5%87%BA%E6%B5%B7%E8%B1%9A%E9%9F%B3%23&t=31&band_rank=8&Refer=top)<br />
+9. [调休制定参与者建议重新考虑政策](https://s.weibo.com/weibo?q=%23%E8%B0%83%E4%BC%91%E5%88%B6%E5%AE%9A%E5%8F%82%E4%B8%8E%E8%80%85%E5%BB%BA%E8%AE%AE%E9%87%8D%E6%96%B0%E8%80%83%E8%99%91%E6%94%BF%E7%AD%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -31,10 +31,10 @@
 3. [乌军方：趁乱从多方向对俄发起反攻](https://www.baidu.com/s?wd=%E4%B9%8C%E5%86%9B%E6%96%B9%EF%BC%9A%E8%B6%81%E4%B9%B1%E4%BB%8E%E5%A4%9A%E6%96%B9%E5%90%91%E5%AF%B9%E4%BF%84%E5%8F%91%E8%B5%B7%E5%8F%8D%E6%94%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [大地诗篇](https://www.baidu.com/s?wd=%E5%A4%A7%E5%9C%B0%E8%AF%97%E7%AF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [“敬礼娃娃”已收到北大人大邀请](https://www.baidu.com/s?wd=%E2%80%9C%E6%95%AC%E7%A4%BC%E5%A8%83%E5%A8%83%E2%80%9D%E5%B7%B2%E6%94%B6%E5%88%B0%E5%8C%97%E5%A4%A7%E4%BA%BA%E5%A4%A7%E9%82%80%E8%AF%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [学霸查分发现分数被屏蔽 全家尖叫](https://www.baidu.com/s?wd=%E5%AD%A6%E9%9C%B8%E6%9F%A5%E5%88%86%E5%8F%91%E7%8E%B0%E5%88%86%E6%95%B0%E8%A2%AB%E5%B1%8F%E8%94%BD+%E5%85%A8%E5%AE%B6%E5%B0%96%E5%8F%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [上市公司喜报：总经理女儿高考状元](https://www.baidu.com/s?wd=%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E5%96%9C%E6%8A%A5%EF%BC%9A%E6%80%BB%E7%BB%8F%E7%90%86%E5%A5%B3%E5%84%BF%E9%AB%98%E8%80%83%E7%8A%B6%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [瓦格纳撤军 停止在俄境内活动](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E6%92%A4%E5%86%9B+%E5%81%9C%E6%AD%A2%E5%9C%A8%E4%BF%84%E5%A2%83%E5%86%85%E6%B4%BB%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [儿子考了675分父亲弹射冲下楼](https://www.baidu.com/s?wd=%E5%84%BF%E5%AD%90%E8%80%83%E4%BA%86675%E5%88%86%E7%88%B6%E4%BA%B2%E5%BC%B9%E5%B0%84%E5%86%B2%E4%B8%8B%E6%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [超燃查分现场 学霸班一本上线率100%](https://www.baidu.com/s?wd=%E8%B6%85%E7%87%83%E6%9F%A5%E5%88%86%E7%8E%B0%E5%9C%BA+%E5%AD%A6%E9%9C%B8%E7%8F%AD%E4%B8%80%E6%9C%AC%E4%B8%8A%E7%BA%BF%E7%8E%87100%25&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [学霸查分发现分数被屏蔽 全家尖叫](https://www.baidu.com/s?wd=%E5%AD%A6%E9%9C%B8%E6%9F%A5%E5%88%86%E5%8F%91%E7%8E%B0%E5%88%86%E6%95%B0%E8%A2%AB%E5%B1%8F%E8%94%BD+%E5%85%A8%E5%AE%B6%E5%B0%96%E5%8F%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [儿子考了675分父亲弹射冲下楼](https://www.baidu.com/s?wd=%E5%84%BF%E5%AD%90%E8%80%83%E4%BA%86675%E5%88%86%E7%88%B6%E4%BA%B2%E5%BC%B9%E5%B0%84%E5%86%B2%E4%B8%8B%E6%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [乌军方：趁乱从多方向对俄发起反攻](https://www.baidu.com/s?wd=%E4%B9%8C%E5%86%9B%E6%96%B9%EF%BC%9A%E8%B6%81%E4%B9%B1%E4%BB%8E%E5%A4%9A%E6%96%B9%E5%90%91%E5%AF%B9%E4%BF%84%E5%8F%91%E8%B5%B7%E5%8F%8D%E6%94%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [大地诗篇](https://www.baidu.com/s?wd=%E5%A4%A7%E5%9C%B0%E8%AF%97%E7%AF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [“敬礼娃娃”已收到北大人大邀请](https://www.baidu.com/s?wd=%E2%80%9C%E6%95%AC%E7%A4%BC%E5%A8%83%E5%A8%83%E2%80%9D%E5%B7%B2%E6%94%B6%E5%88%B0%E5%8C%97%E5%A4%A7%E4%BA%BA%E5%A4%A7%E9%82%80%E8%AF%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [学霸查分发现分数被屏蔽 全家尖叫](https://www.baidu.com/s?wd=%E5%AD%A6%E9%9C%B8%E6%9F%A5%E5%88%86%E5%8F%91%E7%8E%B0%E5%88%86%E6%95%B0%E8%A2%AB%E5%B1%8F%E8%94%BD+%E5%85%A8%E5%AE%B6%E5%B0%96%E5%8F%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [上市公司喜报：总经理女儿高考状元](https://www.baidu.com/s?wd=%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E5%96%9C%E6%8A%A5%EF%BC%9A%E6%80%BB%E7%BB%8F%E7%90%86%E5%A5%B3%E5%84%BF%E9%AB%98%E8%80%83%E7%8A%B6%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [瓦格纳撤军 停止在俄境内活动](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E6%92%A4%E5%86%9B+%E5%81%9C%E6%AD%A2%E5%9C%A8%E4%BF%84%E5%A2%83%E5%86%85%E6%B4%BB%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [儿子考了675分父亲弹射冲下楼](https://www.baidu.com/s?wd=%E5%84%BF%E5%AD%90%E8%80%83%E4%BA%86675%E5%88%86%E7%88%B6%E4%BA%B2%E5%BC%B9%E5%B0%84%E5%86%B2%E4%B8%8B%E6%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [超燃查分现场 学霸班一本上线率100%](https://www.baidu.com/s?wd=%E8%B6%85%E7%87%83%E6%9F%A5%E5%88%86%E7%8E%B0%E5%9C%BA+%E5%AD%A6%E9%9C%B8%E7%8F%AD%E4%B8%80%E6%9C%AC%E4%B8%8A%E7%BA%BF%E7%8E%87100%25&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [学霸查分发现分数被屏蔽 全家尖叫](https://www.baidu.com/s?wd=%E5%AD%A6%E9%9C%B8%E6%9F%A5%E5%88%86%E5%8F%91%E7%8E%B0%E5%88%86%E6%95%B0%E8%A2%AB%E5%B1%8F%E8%94%BD+%E5%85%A8%E5%AE%B6%E5%B0%96%E5%8F%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [儿子考了675分父亲弹射冲下楼](https://www.baidu.com/s?wd=%E5%84%BF%E5%AD%90%E8%80%83%E4%BA%86675%E5%88%86%E7%88%B6%E4%BA%B2%E5%BC%B9%E5%B0%84%E5%86%B2%E4%B8%8B%E6%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
