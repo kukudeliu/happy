@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 22:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 22:43:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [美媒称美国提前得知瓦格纳要行动](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AA%92%E7%A7%B0%E7%BE%8E%E5%9B%BD%E6%8F%90%E5%89%8D%E5%BE%97%E7%9F%A5%E7%93%A6%E6%A0%BC%E7%BA%B3%E8%A6%81%E8%A1%8C%E5%8A%A8%23&t=31&band_rank=6&Refer=top)<br />
 7. [博士生毕业后赴新疆任教被校长点名表扬](https://s.weibo.com/weibo?q=%23%E5%8D%9A%E5%A3%AB%E7%94%9F%E6%AF%95%E4%B8%9A%E5%90%8E%E8%B5%B4%E6%96%B0%E7%96%86%E4%BB%BB%E6%95%99%E8%A2%AB%E6%A0%A1%E9%95%BF%E7%82%B9%E5%90%8D%E8%A1%A8%E6%89%AC%23&t=31&band_rank=7&Refer=top)<br />
 8. [羽生结弦中岛美嘉合影](https://s.weibo.com/weibo?q=%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E4%B8%AD%E5%B2%9B%E7%BE%8E%E5%98%89%E5%90%88%E5%BD%B1&t=31&band_rank=8&Refer=top)<br />
-9. [孟子义27岁素颜状态](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%8927%E5%B2%81%E7%B4%A0%E9%A2%9C%E7%8A%B6%E6%80%81%23&t=31&band_rank=9&Refer=top)<br />
+9. [长风渡 萨摩耶安慰布偶猫](https://s.weibo.com/weibo?q=%E9%95%BF%E9%A3%8E%E6%B8%A1%20%E8%90%A8%E6%91%A9%E8%80%B6%E5%AE%89%E6%85%B0%E5%B8%83%E5%81%B6%E7%8C%AB&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
