@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 23:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 23:02:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [普京称全天候控制特别军事行动进程](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E7%A7%B0%E5%85%A8%E5%A4%A9%E5%80%99%E6%8E%A7%E5%88%B6%E7%89%B9%E5%88%AB%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8%E8%BF%9B%E7%A8%8B%23&t=31&band_rank=4&Refer=top)<br />
 5. [白敬亭是在挽回形象吗](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E6%98%AF%E5%9C%A8%E6%8C%BD%E5%9B%9E%E5%BD%A2%E8%B1%A1%E5%90%97%23&t=31&band_rank=5&Refer=top)<br />
 6. [蔡徐坤不用管我死活](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E4%B8%8D%E7%94%A8%E7%AE%A1%E6%88%91%E6%AD%BB%E6%B4%BB%23&t=31&band_rank=6&Refer=top)<br />
-7. [博士生毕业后赴新疆任教被校长点名表扬](https://s.weibo.com/weibo?q=%23%E5%8D%9A%E5%A3%AB%E7%94%9F%E6%AF%95%E4%B8%9A%E5%90%8E%E8%B5%B4%E6%96%B0%E7%96%86%E4%BB%BB%E6%95%99%E8%A2%AB%E6%A0%A1%E9%95%BF%E7%82%B9%E5%90%8D%E8%A1%A8%E6%89%AC%23&t=31&band_rank=7&Refer=top)<br />
-8. [父亲去世男孩忍痛高考如愿上岸](https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%8E%BB%E4%B8%96%E7%94%B7%E5%AD%A9%E5%BF%8D%E7%97%9B%E9%AB%98%E8%80%83%E5%A6%82%E6%84%BF%E4%B8%8A%E5%B2%B8%23&t=31&band_rank=8&Refer=top)<br />
+7. [父亲去世男孩忍痛高考如愿上岸](https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%8E%BB%E4%B8%96%E7%94%B7%E5%AD%A9%E5%BF%8D%E7%97%9B%E9%AB%98%E8%80%83%E5%A6%82%E6%84%BF%E4%B8%8A%E5%B2%B8%23&t=31&band_rank=7&Refer=top)<br />
+8. [博士生毕业后赴新疆任教被校长点名表扬](https://s.weibo.com/weibo?q=%23%E5%8D%9A%E5%A3%AB%E7%94%9F%E6%AF%95%E4%B8%9A%E5%90%8E%E8%B5%B4%E6%96%B0%E7%96%86%E4%BB%BB%E6%95%99%E8%A2%AB%E6%A0%A1%E9%95%BF%E7%82%B9%E5%90%8D%E8%A1%A8%E6%89%AC%23&t=31&band_rank=8&Refer=top)<br />
 9. [车澈给王传君介绍严浩翔](https://s.weibo.com/weibo?q=%23%E8%BD%A6%E6%BE%88%E7%BB%99%E7%8E%8B%E4%BC%A0%E5%90%9B%E4%BB%8B%E7%BB%8D%E4%B8%A5%E6%B5%A9%E7%BF%94%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -22,7 +22,7 @@
 6. [光年之外联合创始人王慧文因个人健康问题暂时休养、辞任美团董事，将会对公司运营造成哪些影响？](https://www.zhihu.com/question/608524050)<br />
 7. [读预科是一种什么体验？](https://www.zhihu.com/question/65180289)<br />
 8. []()<br />
-9. [洗地机真的很「省心省力」吗？它又是如何做到的呢？](https://www.zhihu.com/question/486939718)<br />
+9. [电影《消失的她》彩蛋有何深意？](https://www.zhihu.com/question/608094853)<br />
 
 > 百度  
 
