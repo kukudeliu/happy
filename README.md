@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 19:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 19:03:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [殡葬专业就业率百分之百](https://s.weibo.com/weibo?q=%23%E6%AE%A1%E8%91%AC%E4%B8%93%E4%B8%9A%E5%B0%B1%E4%B8%9A%E7%8E%87%E7%99%BE%E5%88%86%E4%B9%8B%E7%99%BE%23&t=31&band_rank=4&Refer=top)<br />
 5. [女子上午买瓜34元没付上傍晚开车来补](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B8%8A%E5%8D%88%E4%B9%B0%E7%93%9C34%E5%85%83%E6%B2%A1%E4%BB%98%E4%B8%8A%E5%82%8D%E6%99%9A%E5%BC%80%E8%BD%A6%E6%9D%A5%E8%A1%A5%23&t=31&band_rank=5&Refer=top)<br />
 6. [父亲拒绝给钱买毒品被儿子殴打致死](https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E6%8B%92%E7%BB%9D%E7%BB%99%E9%92%B1%E4%B9%B0%E6%AF%92%E5%93%81%E8%A2%AB%E5%84%BF%E5%AD%90%E6%AE%B4%E6%89%93%E8%87%B4%E6%AD%BB%23&t=31&band_rank=6&Refer=top)<br />
-7. [郑欣宜经纪人报平安](https://s.weibo.com/weibo?q=%23%E9%83%91%E6%AC%A3%E5%AE%9C%E7%BB%8F%E7%BA%AA%E4%BA%BA%E6%8A%A5%E5%B9%B3%E5%AE%89%23&t=31&band_rank=7&Refer=top)<br />
-8. [虞书欣一天喝了三杯冰美式](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E4%B8%80%E5%A4%A9%E5%96%9D%E4%BA%86%E4%B8%89%E6%9D%AF%E5%86%B0%E7%BE%8E%E5%BC%8F%23&t=31&band_rank=8&Refer=top)<br />
-9. [龙凤胎兄妹高考成绩仅差1分](https://s.weibo.com/weibo?q=%23%E9%BE%99%E5%87%A4%E8%83%8E%E5%85%84%E5%A6%B9%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E4%BB%85%E5%B7%AE1%E5%88%86%23&t=31&band_rank=9&Refer=top)<br />
+7. [龙凤胎兄妹高考成绩仅差1分](https://s.weibo.com/weibo?q=%23%E9%BE%99%E5%87%A4%E8%83%8E%E5%85%84%E5%A6%B9%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E4%BB%85%E5%B7%AE1%E5%88%86%23&t=31&band_rank=7&Refer=top)<br />
+8. [郑欣宜经纪人报平安](https://s.weibo.com/weibo?q=%23%E9%83%91%E6%AC%A3%E5%AE%9C%E7%BB%8F%E7%BA%AA%E4%BA%BA%E6%8A%A5%E5%B9%B3%E5%AE%89%23&t=31&band_rank=8&Refer=top)<br />
+9. [虞书欣一天喝了三杯冰美式](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E4%B8%80%E5%A4%A9%E5%96%9D%E4%BA%86%E4%B8%89%E6%9D%AF%E5%86%B0%E7%BE%8E%E5%BC%8F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -18,10 +18,10 @@
 2. [如何看待 2023 年江苏高考理科 600 分以上三万多人？](https://www.zhihu.com/question/608323244)<br />
 3. [女孩充电被电击内脏受损面临截肢，客服回应「适配器非原装」，导致电击原因是什么？如何看待涉事公司回应？](https://www.zhihu.com/question/608412173)<br />
 4. [如何看待第 28 届白玉兰奖获奖名单《狂飙》三提零中？](https://www.zhihu.com/question/608166845)<br />
-5. [2023 广东高考分数线公布，本科线历史 433 分，物理 439 分，如何评价今年的分数线？](https://www.zhihu.com/question/607974452)<br />
-6. [瓦格纳「企图叛乱」后，美欧对俄罗斯局势保持沉默，如何解读西方这一态度？](https://www.zhihu.com/question/608482890)<br />
+5. [瓦格纳「企图叛乱」后，美欧对俄罗斯局势保持沉默，如何解读西方这一态度？](https://www.zhihu.com/question/608482890)<br />
+6. [2023 广东高考分数线公布，本科线历史 433 分，物理 439 分，如何评价今年的分数线？](https://www.zhihu.com/question/607974452)<br />
 7. [消息称美情报部门 6 月中旬已得知瓦格纳计划，如何看待这一消息的真实性？透露了哪些信息？](https://www.zhihu.com/question/608485451)<br />
-8. []()<br />
+8. [你有哪些当初没听出来的弦外之音？](https://www.zhihu.com/question/62862636)<br />
 9. [据媒体报道，一些韩国航空公司暂停部分韩中航班，具体情况如何？背后原因有哪些？对中韩关系有何影响？](https://www.zhihu.com/question/608449825)<br />
 
 > 百度  
