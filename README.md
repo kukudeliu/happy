@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 15:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 16:00:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [711分考生妈妈建议家长不要把全部精力投入孩子](https://s.weibo.com/weibo?q=%23711%E5%88%86%E8%80%83%E7%94%9F%E5%A6%88%E5%A6%88%E5%BB%BA%E8%AE%AE%E5%AE%B6%E9%95%BF%E4%B8%8D%E8%A6%81%E6%8A%8A%E5%85%A8%E9%83%A8%E7%B2%BE%E5%8A%9B%E6%8A%95%E5%85%A5%E5%AD%A9%E5%AD%90%23&t=31&band_rank=4&Refer=top)<br />
 5. [学生高考成绩被屏蔽老师激动欢呼](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E8%A2%AB%E5%B1%8F%E8%94%BD%E8%80%81%E5%B8%88%E6%BF%80%E5%8A%A8%E6%AC%A2%E5%91%BC%23&t=31&band_rank=5&Refer=top)<br />
 6. [邱耀乐妈妈提告炎亚纶](https://s.weibo.com/weibo?q=%23%E9%82%B1%E8%80%80%E4%B9%90%E5%A6%88%E5%A6%88%E6%8F%90%E5%91%8A%E7%82%8E%E4%BA%9A%E7%BA%B6%23&t=31&band_rank=6&Refer=top)<br />
-7. [普京反制日本](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E5%8F%8D%E5%88%B6%E6%97%A5%E6%9C%AC%23&t=31&band_rank=7&Refer=top)<br />
-8. [高考分数线](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%23&t=31&band_rank=8&Refer=top)<br />
-9. [李天泽高考成绩586](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%A4%A9%E6%B3%BD%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9586%23&t=31&band_rank=9&Refer=top)<br />
+7. [那个说英语难的男生高考684分](https://s.weibo.com/weibo?q=%23%E9%82%A3%E4%B8%AA%E8%AF%B4%E8%8B%B1%E8%AF%AD%E9%9A%BE%E7%9A%84%E7%94%B7%E7%94%9F%E9%AB%98%E8%80%83684%E5%88%86%23&t=31&band_rank=7&Refer=top)<br />
+8. [普京反制日本](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E5%8F%8D%E5%88%B6%E6%97%A5%E6%9C%AC%23&t=31&band_rank=8&Refer=top)<br />
+9. [高考分数线](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
