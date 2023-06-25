@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 20:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 20:39:02</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [690分学霸采访中接到清华电话](https://www.baidu.com/s?wd=690%E5%88%86%E5%AD%A6%E9%9C%B8%E9%87%87%E8%AE%BF%E4%B8%AD%E6%8E%A5%E5%88%B0%E6%B8%85%E5%8D%8E%E7%94%B5%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [8888元猪景房为何能卖这么贵](https://www.baidu.com/s?wd=8888%E5%85%83%E7%8C%AA%E6%99%AF%E6%88%BF%E4%B8%BA%E4%BD%95%E8%83%BD%E5%8D%96%E8%BF%99%E4%B9%88%E8%B4%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [教育局回应上市公司发高考状元喜报](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E5%8F%91%E9%AB%98%E8%80%83%E7%8A%B6%E5%85%83%E5%96%9C%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [李雪琴是艺名](https://www.baidu.com/s?wd=%E6%9D%8E%E9%9B%AA%E7%90%B4%E6%98%AF%E8%89%BA%E5%90%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [那个说英语难的男生高考684分](https://www.baidu.com/s?wd=%E9%82%A3%E4%B8%AA%E8%AF%B4%E8%8B%B1%E8%AF%AD%E9%9A%BE%E7%9A%84%E7%94%B7%E7%94%9F%E9%AB%98%E8%80%83684%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [690分学霸采访中接到清华电话](https://www.baidu.com/s?wd=690%E5%88%86%E5%AD%A6%E9%9C%B8%E9%87%87%E8%AE%BF%E4%B8%AD%E6%8E%A5%E5%88%B0%E6%B8%85%E5%8D%8E%E7%94%B5%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [8888元猪景房为何能卖这么贵](https://www.baidu.com/s?wd=8888%E5%85%83%E7%8C%AA%E6%99%AF%E6%88%BF%E4%B8%BA%E4%BD%95%E8%83%BD%E5%8D%96%E8%BF%99%E4%B9%88%E8%B4%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [教育局回应上市公司发高考状元喜报](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E5%8F%91%E9%AB%98%E8%80%83%E7%8A%B6%E5%85%83%E5%96%9C%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [李雪琴是艺名](https://www.baidu.com/s?wd=%E6%9D%8E%E9%9B%AA%E7%90%B4%E6%98%AF%E8%89%BA%E5%90%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [那个说英语难的男生高考684分](https://www.baidu.com/s?wd=%E9%82%A3%E4%B8%AA%E8%AF%B4%E8%8B%B1%E8%AF%AD%E9%9A%BE%E7%9A%84%E7%94%B7%E7%94%9F%E9%AB%98%E8%80%83684%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
