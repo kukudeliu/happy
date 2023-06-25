@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 13:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 13:38:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [端午档总票房破 9 亿，暂列影史第二，如何评价这一票房成绩？你去影院看了哪部电影？](https://www.zhihu.com/question/608300528)<br />
 7. [电影《消失的她》里反复出现梵高的「星空」有什么寓意？](https://www.zhihu.com/question/607992980)<br />
 8. [破壁机除了做豆浆，还有什么用？破壁机有必要买吗?](https://www.zhihu.com/question/602557876)<br />
-9. [游戏《最终幻想16》各大媒体开分，IGN和GS双9，MC均分88，如何评价这款游戏的首发表现？](https://www.zhihu.com/question/607915600)<br />
+9. [如何评价《中国说唱巅峰对决 2023》第八期法老、早安、小精灵的舞台《健将 plus》？](https://www.zhihu.com/question/608288936)<br />
 
 > 百度  
 
