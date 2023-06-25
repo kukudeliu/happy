@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 10:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 10:59:02</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [两名中国公民在美被定罪，外交部称「敦促美方立即纠正错误」，有哪些信息值得关注？](https://www.zhihu.com/question/607819218)<br />
 5. [古时候老虎多到什么程度？](https://www.zhihu.com/question/284091530)<br />
 6. [俄罗斯总统新闻秘书佩斯科夫表示，将撤销对普里戈任的刑事立案，背后原因有哪些？还有哪些细节值得关注？](https://www.zhihu.com/question/608396033)<br />
-7. [如何看待近 4 成网友认为高考志愿优先专业？你认为填报志愿应优先考虑什么？](https://www.zhihu.com/question/607401267)<br />
-8. [如何评价朱一龙、倪妮主演的悬疑电影《消失的她》？](https://www.zhihu.com/question/607263125)<br />
-9. [村超还能存在多久，是否打了足联与各大俱乐部的脸？](https://www.zhihu.com/question/606520764)<br />
+7. [如何评价朱一龙、倪妮主演的悬疑电影《消失的她》？](https://www.zhihu.com/question/607263125)<br />
+8. [村超还能存在多久，是否打了足联与各大俱乐部的脸？](https://www.zhihu.com/question/606520764)<br />
+9. [6 月 22 日华北多地高温，北京冲上 40℃，系 9 年来首次，背后原因有哪些？该如何做好防暑工作？](https://www.zhihu.com/question/607989824)<br />
 
 > 百度  
 
