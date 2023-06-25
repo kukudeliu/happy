@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 05:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 05:44:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [2023 LPL 夏季赛 iG 2:0 爆冷击败 LNG，如何评价这场比赛？](https://www.zhihu.com/question/608531926)<br />
 6. []()<br />
 7. []()<br />
-8. []()<br />
-9. [荣耀官宣荣耀 X50 将在 7 月 5 日发布，如何看待此次新机外观酷似华为 Mate40？](https://www.zhihu.com/question/608442372)<br />
+8. [荣耀官宣荣耀 X50 将在 7 月 5 日发布，如何看待此次新机外观酷似华为 Mate40？](https://www.zhihu.com/question/608442372)<br />
+9. []()<br />
 
 > 百度  
 
@@ -34,7 +34,7 @@
 6. [一家三口吃蒸双臭嘴唇发紫送急诊](https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E5%90%83%E8%92%B8%E5%8F%8C%E8%87%AD%E5%98%B4%E5%94%87%E5%8F%91%E7%B4%AB%E9%80%81%E6%80%A5%E8%AF%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [黄多多17岁穿搭](https://www.baidu.com/s?wd=%E9%BB%84%E5%A4%9A%E5%A4%9A17%E5%B2%81%E7%A9%BF%E6%90%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [司机撞倒小孩后两次碾压](https://www.baidu.com/s?wd=%E5%8F%B8%E6%9C%BA%E6%92%9E%E5%80%92%E5%B0%8F%E5%AD%A9%E5%90%8E%E4%B8%A4%E6%AC%A1%E7%A2%BE%E5%8E%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [打车软件显示阴曹地府 交运局回应](https://www.baidu.com/s?wd=%E6%89%93%E8%BD%A6%E8%BD%AF%E4%BB%B6%E6%98%BE%E7%A4%BA%E9%98%B4%E6%9B%B9%E5%9C%B0%E5%BA%9C+%E4%BA%A4%E8%BF%90%E5%B1%80%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [越南总理抵达北京](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E6%80%BB%E7%90%86%E6%8A%B5%E8%BE%BE%E5%8C%97%E4%BA%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [一家三口吃蒸双臭嘴唇发紫送急诊](https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E5%90%83%E8%92%B8%E5%8F%8C%E8%87%AD%E5%98%B4%E5%94%87%E5%8F%91%E7%B4%AB%E9%80%81%E6%80%A5%E8%AF%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [黄多多17岁穿搭](https://www.baidu.com/s?wd=%E9%BB%84%E5%A4%9A%E5%A4%9A17%E5%B2%81%E7%A9%BF%E6%90%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [司机撞倒小孩后两次碾压](https://www.baidu.com/s?wd=%E5%8F%B8%E6%9C%BA%E6%92%9E%E5%80%92%E5%B0%8F%E5%AD%A9%E5%90%8E%E4%B8%A4%E6%AC%A1%E7%A2%BE%E5%8E%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [打车软件显示阴曹地府 交运局回应](https://www.baidu.com/s?wd=%E6%89%93%E8%BD%A6%E8%BD%AF%E4%BB%B6%E6%98%BE%E7%A4%BA%E9%98%B4%E6%9B%B9%E5%9C%B0%E5%BA%9C+%E4%BA%A4%E8%BF%90%E5%B1%80%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [越南总理抵达北京](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E6%80%BB%E7%90%86%E6%8A%B5%E8%BE%BE%E5%8C%97%E4%BA%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
