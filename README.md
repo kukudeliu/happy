@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 10:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 10:44:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [世界互联网大会数字文明尼山对话](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A%E6%95%B0%E5%AD%97%E6%96%87%E6%98%8E%E5%B0%BC%E5%B1%B1%E5%AF%B9%E8%AF%9D%23&t=31&band_rank=3&Refer=top)<br />
 4. [新华书店才是隐藏的终极大佬](https://s.weibo.com/weibo?q=%E6%96%B0%E5%8D%8E%E4%B9%A6%E5%BA%97%E6%89%8D%E6%98%AF%E9%9A%90%E8%97%8F%E7%9A%84%E7%BB%88%E6%9E%81%E5%A4%A7%E4%BD%AC&t=31&band_rank=4&Refer=top)<br />
 5. [普京感谢卢卡申科](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E6%84%9F%E8%B0%A2%E5%8D%A2%E5%8D%A1%E7%94%B3%E7%A7%91%23&t=31&band_rank=5&Refer=top)<br />
-6. [男子每天1斤杨梅狂吃20天要做血透](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%AF%8F%E5%A4%A91%E6%96%A4%E6%9D%A8%E6%A2%85%E7%8B%82%E5%90%8320%E5%A4%A9%E8%A6%81%E5%81%9A%E8%A1%80%E9%80%8F%23&t=31&band_rank=6&Refer=top)<br />
-7. [陈飞宇孟子义 难哄](https://s.weibo.com/weibo?q=%E9%99%88%E9%A3%9E%E5%AE%87%E5%AD%9F%E5%AD%90%E4%B9%89%20%E9%9A%BE%E5%93%84&t=31&band_rank=7&Refer=top)<br />
+6. [陈飞宇孟子义 难哄](https://s.weibo.com/weibo?q=%E9%99%88%E9%A3%9E%E5%AE%87%E5%AD%9F%E5%AD%90%E4%B9%89%20%E9%9A%BE%E5%93%84&t=31&band_rank=6&Refer=top)<br />
+7. [男子每天1斤杨梅狂吃20天要做血透](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%AF%8F%E5%A4%A91%E6%96%A4%E6%9D%A8%E6%A2%85%E7%8B%82%E5%90%8320%E5%A4%A9%E8%A6%81%E5%81%9A%E8%A1%80%E9%80%8F%23&t=31&band_rank=7&Refer=top)<br />
 8. [宋轶片场勾白敬亭下巴](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%BD%B6%E7%89%87%E5%9C%BA%E5%8B%BE%E7%99%BD%E6%95%AC%E4%BA%AD%E4%B8%8B%E5%B7%B4%23&t=31&band_rank=8&Refer=top)<br />
 9. [调休制定参与者建议重新考虑政策](https://s.weibo.com/weibo?q=%23%E8%B0%83%E4%BC%91%E5%88%B6%E5%AE%9A%E5%8F%82%E4%B8%8E%E8%80%85%E5%BB%BA%E8%AE%AE%E9%87%8D%E6%96%B0%E8%80%83%E8%99%91%E6%94%BF%E7%AD%96%23&t=31&band_rank=9&Refer=top)<br />
 
@@ -16,13 +16,13 @@
 
 1. [普里戈任与瓦格纳集团武装人员已全部从俄南部军区司令部撤离，这意味着什么？](https://www.zhihu.com/question/608395500)<br />
 2. [媒体评张雪峰关于新闻学专业言论称「学不学新闻不能只凭网红一张嘴」，如何评价此观点？你怎么看新闻学专业？](https://www.zhihu.com/question/607408168)<br />
-3. [普京签署法律，允许戒严期间征召有犯罪记录公民入伍，将带来哪些影响？](https://www.zhihu.com/question/608345264)<br />
-4. [瓦格纳部队官兵将与俄国防部签署服役合同，对俄内部武装势力有何影响？事态渐平息，俄国防部会否有人事调整？](https://www.zhihu.com/question/608398366)<br />
-5. [俄罗斯总统新闻秘书佩斯科夫表示，将撤销对普里戈任的刑事立案，背后原因有哪些？还有哪些细节值得关注？](https://www.zhihu.com/question/608396033)<br />
-6. [钻石价格大跌，分析人士称钻石价格或将进一步跳水，受哪些因素影响？如何解读？](https://www.zhihu.com/question/608252259)<br />
-7. [数据称应届大学生就业重心继续下沉，越来越多应届生回县城考公，如何看待此现象？反映出哪些问题？](https://www.zhihu.com/question/607781746)<br />
-8. [两名中国公民在美被定罪，外交部称「敦促美方立即纠正错误」，有哪些信息值得关注？](https://www.zhihu.com/question/607819218)<br />
-9. [如何看待近 4 成网友认为高考志愿优先专业？你认为填报志愿应优先考虑什么？](https://www.zhihu.com/question/607401267)<br />
+3. [瓦格纳部队官兵将与俄国防部签署服役合同，对俄内部武装势力有何影响？事态渐平息，俄国防部会否有人事调整？](https://www.zhihu.com/question/608398366)<br />
+4. [俄罗斯总统新闻秘书佩斯科夫表示，将撤销对普里戈任的刑事立案，背后原因有哪些？还有哪些细节值得关注？](https://www.zhihu.com/question/608396033)<br />
+5. [钻石价格大跌，分析人士称钻石价格或将进一步跳水，受哪些因素影响？如何解读？](https://www.zhihu.com/question/608252259)<br />
+6. [数据称应届大学生就业重心继续下沉，越来越多应届生回县城考公，如何看待此现象？反映出哪些问题？](https://www.zhihu.com/question/607781746)<br />
+7. [两名中国公民在美被定罪，外交部称「敦促美方立即纠正错误」，有哪些信息值得关注？](https://www.zhihu.com/question/607819218)<br />
+8. [如何看待近 4 成网友认为高考志愿优先专业？你认为填报志愿应优先考虑什么？](https://www.zhihu.com/question/607401267)<br />
+9. [如何评价朱一龙、倪妮主演的悬疑电影《消失的她》？](https://www.zhihu.com/question/607263125)<br />
 
 > 百度  
 
@@ -34,7 +34,7 @@
 6. [俄方将撤销对普里戈任的刑事立案](https://www.baidu.com/s?wd=%E4%BF%84%E6%96%B9%E5%B0%86%E6%92%A4%E9%94%80%E5%AF%B9%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E7%9A%84%E5%88%91%E4%BA%8B%E7%AB%8B%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子每天1斤杨梅狂吃20天要做血透](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%AF%8F%E5%A4%A91%E6%96%A4%E6%9D%A8%E6%A2%85%E7%8B%82%E5%90%8320%E5%A4%A9%E8%A6%81%E5%81%9A%E8%A1%80%E9%80%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [这场“叛乱”为何旋风般收场？](https://www.baidu.com/s?wd=%E8%BF%99%E5%9C%BA%E2%80%9C%E5%8F%9B%E4%B9%B1%E2%80%9D%E4%B8%BA%E4%BD%95%E6%97%8B%E9%A3%8E%E8%88%AC%E6%94%B6%E5%9C%BA%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女生考前3天连续失眠 一查684分落泪](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E8%80%83%E5%89%8D3%E5%A4%A9%E8%BF%9E%E7%BB%AD%E5%A4%B1%E7%9C%A0+%E4%B8%80%E6%9F%A5684%E5%88%86%E8%90%BD%E6%B3%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [儿子考694分妈妈激动叫出海豚音](https://www.baidu.com/s?wd=%E5%84%BF%E5%AD%90%E8%80%83694%E5%88%86%E5%A6%88%E5%A6%88%E6%BF%80%E5%8A%A8%E5%8F%AB%E5%87%BA%E6%B5%B7%E8%B1%9A%E9%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [俄方将撤销对普里戈任的刑事立案](https://www.baidu.com/s?wd=%E4%BF%84%E6%96%B9%E5%B0%86%E6%92%A4%E9%94%80%E5%AF%B9%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E7%9A%84%E5%88%91%E4%BA%8B%E7%AB%8B%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子每天1斤杨梅狂吃20天要做血透](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%AF%8F%E5%A4%A91%E6%96%A4%E6%9D%A8%E6%A2%85%E7%8B%82%E5%90%8320%E5%A4%A9%E8%A6%81%E5%81%9A%E8%A1%80%E9%80%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [这场“叛乱”为何旋风般收场？](https://www.baidu.com/s?wd=%E8%BF%99%E5%9C%BA%E2%80%9C%E5%8F%9B%E4%B9%B1%E2%80%9D%E4%B8%BA%E4%BD%95%E6%97%8B%E9%A3%8E%E8%88%AC%E6%94%B6%E5%9C%BA%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女生考前3天连续失眠 一查684分落泪](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E8%80%83%E5%89%8D3%E5%A4%A9%E8%BF%9E%E7%BB%AD%E5%A4%B1%E7%9C%A0+%E4%B8%80%E6%9F%A5684%E5%88%86%E8%90%BD%E6%B3%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [儿子考694分妈妈激动叫出海豚音](https://www.baidu.com/s?wd=%E5%84%BF%E5%AD%90%E8%80%83694%E5%88%86%E5%A6%88%E5%A6%88%E6%BF%80%E5%8A%A8%E5%8F%AB%E5%87%BA%E6%B5%B7%E8%B1%9A%E9%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
