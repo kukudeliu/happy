@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 18:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 18:05:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [2023 广东高考分数线公布，本科线历史 433 分，物理 439 分，如何评价今年的分数线？](https://www.zhihu.com/question/607974452)<br />
 7. [2023 山东高考分数线公布，普通类一段 443，特招线 520，如何评价山东分数线？](https://www.zhihu.com/question/607974487)<br />
 8. [你家乡和你所生活地方的天气、气候，与小时候有了哪些变化？](https://www.zhihu.com/question/608283237)<br />
-9. [为什么减不下去肥?](https://www.zhihu.com/question/608062864)<br />
+9. [战马必须吃精饲料，那野马只吃草为何会出现好马？](https://www.zhihu.com/question/28227476)<br />
 
 > 百度  
 
