@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 12:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 12:27:02</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [如何看待 2023 年江苏高考理科 600 分以上三万多人？](https://www.zhihu.com/question/608323244)<br />
 6. [曝巴黎为姆巴佩标价 3 亿欧，皇马最多报价 2.2 亿，如何看待姆巴佩的转会前景，他能为皇马带来什么？](https://www.zhihu.com/question/608399259)<br />
 7. [iPhone 电池健康度多少才算正常？80% 和 100% 有什么区别？](https://www.zhihu.com/question/569965047)<br />
-8. [古时候老虎多到什么程度？](https://www.zhihu.com/question/284091530)<br />
-9. [《红楼梦》里周瑞家的送宫花，为什么最后才送给林黛玉？](https://www.zhihu.com/question/357960183)<br />
+8. [《红楼梦》里周瑞家的送宫花，为什么最后才送给林黛玉？](https://www.zhihu.com/question/357960183)<br />
+9. [黑客 George Hotz 爆料 GPT-4 由 8 个 MoE 模型组成，真的吗？](https://www.zhihu.com/question/607812079)<br />
 
 > 百度  
 
