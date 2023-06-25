@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 20:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 20:03:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [父亲拒绝给钱买毒品被儿子殴打致死](https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E6%8B%92%E7%BB%9D%E7%BB%99%E9%92%B1%E4%B9%B0%E6%AF%92%E5%93%81%E8%A2%AB%E5%84%BF%E5%AD%90%E6%AE%B4%E6%89%93%E8%87%B4%E6%AD%BB%23&t=31&band_rank=5&Refer=top)<br />
 6. [消失的她评分下降](https://s.weibo.com/weibo?q=%23%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E8%AF%84%E5%88%86%E4%B8%8B%E9%99%8D%23&t=31&band_rank=6&Refer=top)<br />
 7. [西瓜猪](https://s.weibo.com/weibo?q=%E8%A5%BF%E7%93%9C%E7%8C%AA&t=31&band_rank=7&Refer=top)<br />
-8. [女子上午买瓜34元没付上傍晚开车来补](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B8%8A%E5%8D%88%E4%B9%B0%E7%93%9C34%E5%85%83%E6%B2%A1%E4%BB%98%E4%B8%8A%E5%82%8D%E6%99%9A%E5%BC%80%E8%BD%A6%E6%9D%A5%E8%A1%A5%23&t=31&band_rank=8&Refer=top)<br />
-9. [虞书欣一天喝了三杯冰美式](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E4%B8%80%E5%A4%A9%E5%96%9D%E4%BA%86%E4%B8%89%E6%9D%AF%E5%86%B0%E7%BE%8E%E5%BC%8F%23&t=31&band_rank=9&Refer=top)<br />
+8. [虞书欣一天喝了三杯冰美式](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E4%B8%80%E5%A4%A9%E5%96%9D%E4%BA%86%E4%B8%89%E6%9D%AF%E5%86%B0%E7%BE%8E%E5%BC%8F%23&t=31&band_rank=8&Refer=top)<br />
+9. [陈哲远不谈恋爱的原因](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%93%B2%E8%BF%9C%E4%B8%8D%E8%B0%88%E6%81%8B%E7%88%B1%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
