@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 22:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 22:24:01</h4></div>
 
 > 微博  
 
@@ -18,9 +18,9 @@
 2. [女孩充电被电击内脏受损面临截肢，客服回应「适配器非原装」，导致电击原因是什么？如何看待涉事公司回应？](https://www.zhihu.com/question/608412173)<br />
 3. [据媒体报道，一些韩国航空公司暂停部分韩中航班，具体情况如何？背后原因有哪些？对中韩关系有何影响？](https://www.zhihu.com/question/608449825)<br />
 4. [国务院成立宁夏银川富洋烧烤店「6·21」特别重大燃气爆炸事故调查组，有哪些信息值得关注？](https://www.zhihu.com/question/608439574)<br />
-5. [2023 LPL 夏季赛 RA 1:2 不敌 EDG，如何评价这场比赛？](https://www.zhihu.com/question/608499014)<br />
-6. [历史上有没有一开始无人看他写的文章小说，后面却成了大文豪的作家？](https://www.zhihu.com/question/607992884)<br />
-7. [光年之外联合创始人王慧文因个人健康问题暂时休养、辞任美团董事，将会对公司运营造成哪些影响？](https://www.zhihu.com/question/608524050)<br />
+5. [历史上有没有一开始无人看他写的文章小说，后面却成了大文豪的作家？](https://www.zhihu.com/question/607992884)<br />
+6. [光年之外联合创始人王慧文因个人健康问题暂时休养、辞任美团董事，将会对公司运营造成哪些影响？](https://www.zhihu.com/question/608524050)<br />
+7. [2023 LPL 夏季赛 RA 1:2 不敌 EDG，如何评价这场比赛？](https://www.zhihu.com/question/608499014)<br />
 8. [行测和申论该怎么复习？](https://www.zhihu.com/question/450128517)<br />
 9. [读预科是一种什么体验？](https://www.zhihu.com/question/65180289)<br />
 
@@ -33,7 +33,7 @@
 5. [跳桥救人小哥获杭州市政府最高奖励](https://www.baidu.com/s?wd=%E8%B7%B3%E6%A1%A5%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E8%8E%B7%E6%9D%AD%E5%B7%9E%E5%B8%82%E6%94%BF%E5%BA%9C%E6%9C%80%E9%AB%98%E5%A5%96%E5%8A%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [一家三口吃蒸双臭嘴唇发紫送急诊](https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E5%90%83%E8%92%B8%E5%8F%8C%E8%87%AD%E5%98%B4%E5%94%87%E5%8F%91%E7%B4%AB%E9%80%81%E6%80%A5%E8%AF%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [黄多多17岁穿搭](https://www.baidu.com/s?wd=%E9%BB%84%E5%A4%9A%E5%A4%9A17%E5%B2%81%E7%A9%BF%E6%90%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [高校教师称殡葬专业就业率基本100%](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E6%95%99%E5%B8%88%E7%A7%B0%E6%AE%A1%E8%91%AC%E4%B8%93%E4%B8%9A%E5%B0%B1%E4%B8%9A%E7%8E%87%E5%9F%BA%E6%9C%AC100%25&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [妇联回应女子2年被老公家暴16次](https://www.baidu.com/s?wd=%E5%A6%87%E8%81%94%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%902%E5%B9%B4%E8%A2%AB%E8%80%81%E5%85%AC%E5%AE%B6%E6%9A%B416%E6%AC%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [俄罗斯现在怎么样？](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E7%8E%B0%E5%9C%A8%E6%80%8E%E4%B9%88%E6%A0%B7%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [跳桥救人小哥获杭州市政府最高奖励](https://www.baidu.com/s?wd=%E8%B7%B3%E6%A1%A5%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E8%8E%B7%E6%9D%AD%E5%B7%9E%E5%B8%82%E6%94%BF%E5%BA%9C%E6%9C%80%E9%AB%98%E5%A5%96%E5%8A%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [一家三口吃蒸双臭嘴唇发紫送急诊](https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E5%90%83%E8%92%B8%E5%8F%8C%E8%87%AD%E5%98%B4%E5%94%87%E5%8F%91%E7%B4%AB%E9%80%81%E6%80%A5%E8%AF%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [黄多多17岁穿搭](https://www.baidu.com/s?wd=%E9%BB%84%E5%A4%9A%E5%A4%9A17%E5%B2%81%E7%A9%BF%E6%90%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [高校教师称殡葬专业就业率基本100%](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E6%95%99%E5%B8%88%E7%A7%B0%E6%AE%A1%E8%91%AC%E4%B8%93%E4%B8%9A%E5%B0%B1%E4%B8%9A%E7%8E%87%E5%9F%BA%E6%9C%AC100%25&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [妇联回应女子2年被老公家暴16次](https://www.baidu.com/s?wd=%E5%A6%87%E8%81%94%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%902%E5%B9%B4%E8%A2%AB%E8%80%81%E5%85%AC%E5%AE%B6%E6%9A%B416%E6%AC%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [俄罗斯现在怎么样？](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E7%8E%B0%E5%9C%A8%E6%80%8E%E4%B9%88%E6%A0%B7%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
