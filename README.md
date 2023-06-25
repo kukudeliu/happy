@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 04:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 04:24:01</h4></div>
 
 > 微博  
 
@@ -32,9 +32,9 @@
 4. [在希望的田野上](https://www.baidu.com/s?wd=%E5%9C%A8%E5%B8%8C%E6%9C%9B%E7%9A%84%E7%94%B0%E9%87%8E%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [跳桥救人小哥获杭州市政府最高奖励](https://www.baidu.com/s?wd=%E8%B7%B3%E6%A1%A5%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E8%8E%B7%E6%9D%AD%E5%B7%9E%E5%B8%82%E6%94%BF%E5%BA%9C%E6%9C%80%E9%AB%98%E5%A5%96%E5%8A%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [一家三口吃蒸双臭嘴唇发紫送急诊](https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E5%90%83%E8%92%B8%E5%8F%8C%E8%87%AD%E5%98%B4%E5%94%87%E5%8F%91%E7%B4%AB%E9%80%81%E6%80%A5%E8%AF%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [俄罗斯现在怎么样？](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E7%8E%B0%E5%9C%A8%E6%80%8E%E4%B9%88%E6%A0%B7%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [司机撞倒小孩后两次碾压](https://www.baidu.com/s?wd=%E5%8F%B8%E6%9C%BA%E6%92%9E%E5%80%92%E5%B0%8F%E5%AD%A9%E5%90%8E%E4%B8%A4%E6%AC%A1%E7%A2%BE%E5%8E%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [711分考生妈妈:别把精力全投给孩子](https://www.baidu.com/s?wd=711%E5%88%86%E8%80%83%E7%94%9F%E5%A6%88%E5%A6%88%3A%E5%88%AB%E6%8A%8A%E7%B2%BE%E5%8A%9B%E5%85%A8%E6%8A%95%E7%BB%99%E5%AD%A9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [司机撞倒小孩后两次碾压](https://www.baidu.com/s?wd=%E5%8F%B8%E6%9C%BA%E6%92%9E%E5%80%92%E5%B0%8F%E5%AD%A9%E5%90%8E%E4%B8%A4%E6%AC%A1%E7%A2%BE%E5%8E%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [俄罗斯现在怎么样？](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E7%8E%B0%E5%9C%A8%E6%80%8E%E4%B9%88%E6%A0%B7%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子要钱买毒品遭拒殴打父亲致死](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A6%81%E9%92%B1%E4%B9%B0%E6%AF%92%E5%93%81%E9%81%AD%E6%8B%92%E6%AE%B4%E6%89%93%E7%88%B6%E4%BA%B2%E8%87%B4%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [在希望的田野上](https://www.baidu.com/s?wd=%E5%9C%A8%E5%B8%8C%E6%9C%9B%E7%9A%84%E7%94%B0%E9%87%8E%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [跳桥救人小哥获杭州市政府最高奖励](https://www.baidu.com/s?wd=%E8%B7%B3%E6%A1%A5%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E8%8E%B7%E6%9D%AD%E5%B7%9E%E5%B8%82%E6%94%BF%E5%BA%9C%E6%9C%80%E9%AB%98%E5%A5%96%E5%8A%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [一家三口吃蒸双臭嘴唇发紫送急诊](https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E5%90%83%E8%92%B8%E5%8F%8C%E8%87%AD%E5%98%B4%E5%94%87%E5%8F%91%E7%B4%AB%E9%80%81%E6%80%A5%E8%AF%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [俄罗斯现在怎么样？](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E7%8E%B0%E5%9C%A8%E6%80%8E%E4%B9%88%E6%A0%B7%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [司机撞倒小孩后两次碾压](https://www.baidu.com/s?wd=%E5%8F%B8%E6%9C%BA%E6%92%9E%E5%80%92%E5%B0%8F%E5%AD%A9%E5%90%8E%E4%B8%A4%E6%AC%A1%E7%A2%BE%E5%8E%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [711分考生妈妈:别把精力全投给孩子](https://www.baidu.com/s?wd=711%E5%88%86%E8%80%83%E7%94%9F%E5%A6%88%E5%A6%88%3A%E5%88%AB%E6%8A%8A%E7%B2%BE%E5%8A%9B%E5%85%A8%E6%8A%95%E7%BB%99%E5%AD%A9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [司机撞倒小孩后两次碾压](https://www.baidu.com/s?wd=%E5%8F%B8%E6%9C%BA%E6%92%9E%E5%80%92%E5%B0%8F%E5%AD%A9%E5%90%8E%E4%B8%A4%E6%AC%A1%E7%A2%BE%E5%8E%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [俄罗斯现在怎么样？](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E7%8E%B0%E5%9C%A8%E6%80%8E%E4%B9%88%E6%A0%B7%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子要钱买毒品遭拒殴打父亲致死](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A6%81%E9%92%B1%E4%B9%B0%E6%AF%92%E5%93%81%E9%81%AD%E6%8B%92%E6%AE%B4%E6%89%93%E7%88%B6%E4%BA%B2%E8%87%B4%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
