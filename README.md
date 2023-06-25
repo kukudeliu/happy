@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 07:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 07:20:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [四川26岁女孩下网约车后失联](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D26%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%B8%8B%E7%BD%91%E7%BA%A6%E8%BD%A6%E5%90%8E%E5%A4%B1%E8%81%94%23&t=31&band_rank=6&Refer=top)<br />
 7. [现在的吃播真的令我手足无措](https://s.weibo.com/weibo?q=%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%90%83%E6%92%AD%E7%9C%9F%E7%9A%84%E4%BB%A4%E6%88%91%E6%89%8B%E8%B6%B3%E6%97%A0%E6%8E%AA&t=31&band_rank=7&Refer=top)<br />
 8. [父亲去世男孩忍痛高考如愿上岸](https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%8E%BB%E4%B8%96%E7%94%B7%E5%AD%A9%E5%BF%8D%E7%97%9B%E9%AB%98%E8%80%83%E5%A6%82%E6%84%BF%E4%B8%8A%E5%B2%B8%23&t=31&band_rank=8&Refer=top)<br />
-9. [王者荣耀亚运会大名单](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%A4%A7%E5%90%8D%E5%8D%95%23&t=31&band_rank=9&Refer=top)<br />
+9. [为什么医院不让家属陪护只能请护工](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8C%BB%E9%99%A2%E4%B8%8D%E8%AE%A9%E5%AE%B6%E5%B1%9E%E9%99%AA%E6%8A%A4%E5%8F%AA%E8%83%BD%E8%AF%B7%E6%8A%A4%E5%B7%A5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -21,8 +21,8 @@
 5. []()<br />
 6. [消息称美情报部门 6 月中旬已得知瓦格纳计划，如何看待这一消息的真实性？透露了哪些信息？](https://www.zhihu.com/question/608485451)<br />
 7. []()<br />
-8. [国务院成立宁夏银川富洋烧烤店「6·21」特别重大燃气爆炸事故调查组，有哪些信息值得关注？](https://www.zhihu.com/question/608439574)<br />
-9. []()<br />
+8. []()<br />
+9. [国务院成立宁夏银川富洋烧烤店「6·21」特别重大燃气爆炸事故调查组，有哪些信息值得关注？](https://www.zhihu.com/question/608439574)<br />
 
 > 百度  
 
@@ -34,7 +34,7 @@
 6. [一家三口吃蒸双臭嘴唇发紫送急诊](https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E5%90%83%E8%92%B8%E5%8F%8C%E8%87%AD%E5%98%B4%E5%94%87%E5%8F%91%E7%B4%AB%E9%80%81%E6%80%A5%E8%AF%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [黄多多17岁穿搭](https://www.baidu.com/s?wd=%E9%BB%84%E5%A4%9A%E5%A4%9A17%E5%B2%81%E7%A9%BF%E6%90%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [8888元猪景房为何能卖这么贵](https://www.baidu.com/s?wd=8888%E5%85%83%E7%8C%AA%E6%99%AF%E6%88%BF%E4%B8%BA%E4%BD%95%E8%83%BD%E5%8D%96%E8%BF%99%E4%B9%88%E8%B4%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子要钱买毒品遭拒殴打父亲致死](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A6%81%E9%92%B1%E4%B9%B0%E6%AF%92%E5%93%81%E9%81%AD%E6%8B%92%E6%AE%B4%E6%89%93%E7%88%B6%E4%BA%B2%E8%87%B4%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [西湖现三条鲢鱼同时成功跃过水闸](https://www.baidu.com/s?wd=%E8%A5%BF%E6%B9%96%E7%8E%B0%E4%B8%89%E6%9D%A1%E9%B2%A2%E9%B1%BC%E5%90%8C%E6%97%B6%E6%88%90%E5%8A%9F%E8%B7%83%E8%BF%87%E6%B0%B4%E9%97%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [一家三口吃蒸双臭嘴唇发紫送急诊](https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E5%90%83%E8%92%B8%E5%8F%8C%E8%87%AD%E5%98%B4%E5%94%87%E5%8F%91%E7%B4%AB%E9%80%81%E6%80%A5%E8%AF%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [黄多多17岁穿搭](https://www.baidu.com/s?wd=%E9%BB%84%E5%A4%9A%E5%A4%9A17%E5%B2%81%E7%A9%BF%E6%90%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [8888元猪景房为何能卖这么贵](https://www.baidu.com/s?wd=8888%E5%85%83%E7%8C%AA%E6%99%AF%E6%88%BF%E4%B8%BA%E4%BD%95%E8%83%BD%E5%8D%96%E8%BF%99%E4%B9%88%E8%B4%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子要钱买毒品遭拒殴打父亲致死](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A6%81%E9%92%B1%E4%B9%B0%E6%AF%92%E5%93%81%E9%81%AD%E6%8B%92%E6%AE%B4%E6%89%93%E7%88%B6%E4%BA%B2%E8%87%B4%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [西湖现三条鲢鱼同时成功跃过水闸](https://www.baidu.com/s?wd=%E8%A5%BF%E6%B9%96%E7%8E%B0%E4%B8%89%E6%9D%A1%E9%B2%A2%E9%B1%BC%E5%90%8C%E6%97%B6%E6%88%90%E5%8A%9F%E8%B7%83%E8%BF%87%E6%B0%B4%E9%97%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
