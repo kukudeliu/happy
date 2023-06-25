@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 13:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 13:04:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [学霸查分发现分数被屏蔽 全家尖叫](https://www.baidu.com/s?wd=%E5%AD%A6%E9%9C%B8%E6%9F%A5%E5%88%86%E5%8F%91%E7%8E%B0%E5%88%86%E6%95%B0%E8%A2%AB%E5%B1%8F%E8%94%BD+%E5%85%A8%E5%AE%B6%E5%B0%96%E5%8F%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [瓦格纳撤军 停止在俄境内活动](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E6%92%A4%E5%86%9B+%E5%81%9C%E6%AD%A2%E5%9C%A8%E4%BF%84%E5%A2%83%E5%86%85%E6%B4%BB%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [儿子考了675分父亲弹射冲下楼](https://www.baidu.com/s?wd=%E5%84%BF%E5%AD%90%E8%80%83%E4%BA%86675%E5%88%86%E7%88%B6%E4%BA%B2%E5%BC%B9%E5%B0%84%E5%86%B2%E4%B8%8B%E6%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [为反制日本普京将9月3日纪念日更名](https://www.baidu.com/s?wd=%E4%B8%BA%E5%8F%8D%E5%88%B6%E6%97%A5%E6%9C%AC%E6%99%AE%E4%BA%AC%E5%B0%869%E6%9C%883%E6%97%A5%E7%BA%AA%E5%BF%B5%E6%97%A5%E6%9B%B4%E5%90%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [杀害缉毒英雄蔡晓东的毒贩已被击毙](https://www.baidu.com/s?wd=%E6%9D%80%E5%AE%B3%E7%BC%89%E6%AF%92%E8%8B%B1%E9%9B%84%E8%94%A1%E6%99%93%E4%B8%9C%E7%9A%84%E6%AF%92%E8%B4%A9%E5%B7%B2%E8%A2%AB%E5%87%BB%E6%AF%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [学霸查分发现分数被屏蔽 全家尖叫](https://www.baidu.com/s?wd=%E5%AD%A6%E9%9C%B8%E6%9F%A5%E5%88%86%E5%8F%91%E7%8E%B0%E5%88%86%E6%95%B0%E8%A2%AB%E5%B1%8F%E8%94%BD+%E5%85%A8%E5%AE%B6%E5%B0%96%E5%8F%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [瓦格纳撤军 停止在俄境内活动](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E6%92%A4%E5%86%9B+%E5%81%9C%E6%AD%A2%E5%9C%A8%E4%BF%84%E5%A2%83%E5%86%85%E6%B4%BB%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [儿子考了675分父亲弹射冲下楼](https://www.baidu.com/s?wd=%E5%84%BF%E5%AD%90%E8%80%83%E4%BA%86675%E5%88%86%E7%88%B6%E4%BA%B2%E5%BC%B9%E5%B0%84%E5%86%B2%E4%B8%8B%E6%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [为反制日本普京将9月3日纪念日更名](https://www.baidu.com/s?wd=%E4%B8%BA%E5%8F%8D%E5%88%B6%E6%97%A5%E6%9C%AC%E6%99%AE%E4%BA%AC%E5%B0%869%E6%9C%883%E6%97%A5%E7%BA%AA%E5%BF%B5%E6%97%A5%E6%9B%B4%E5%90%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [杀害缉毒英雄蔡晓东的毒贩已被击毙](https://www.baidu.com/s?wd=%E6%9D%80%E5%AE%B3%E7%BC%89%E6%AF%92%E8%8B%B1%E9%9B%84%E8%94%A1%E6%99%93%E4%B8%9C%E7%9A%84%E6%AF%92%E8%B4%A9%E5%B7%B2%E8%A2%AB%E5%87%BB%E6%AF%99&sa=fyb_news&rsv_dl=fyb_news)<br />
