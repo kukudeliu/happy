@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 22:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 22:20:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [蔡徐坤不用管我死活](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E4%B8%8D%E7%94%A8%E7%AE%A1%E6%88%91%E6%AD%BB%E6%B4%BB%23&t=31&band_rank=6&Refer=top)<br />
 7. [孟子义27岁素颜状态](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%8927%E5%B2%81%E7%B4%A0%E9%A2%9C%E7%8A%B6%E6%80%81%23&t=31&band_rank=7&Refer=top)<br />
 8. [羽生结弦中岛美嘉合影](https://s.weibo.com/weibo?q=%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E4%B8%AD%E5%B2%9B%E7%BE%8E%E5%98%89%E5%90%88%E5%BD%B1&t=31&band_rank=8&Refer=top)<br />
-9. [汤唯 兔子警官](https://s.weibo.com/weibo?q=%E6%B1%A4%E5%94%AF%20%E5%85%94%E5%AD%90%E8%AD%A6%E5%AE%98&t=31&band_rank=9&Refer=top)<br />
+9. [陈哲远不谈恋爱的原因](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%93%B2%E8%BF%9C%E4%B8%8D%E8%B0%88%E6%81%8B%E7%88%B1%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
