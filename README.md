@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 10:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 10:29:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [世界互联网大会数字文明尼山对话](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A%E6%95%B0%E5%AD%97%E6%96%87%E6%98%8E%E5%B0%BC%E5%B1%B1%E5%AF%B9%E8%AF%9D%23&t=31&band_rank=3&Refer=top)<br />
 4. [新华书店才是隐藏的终极大佬](https://s.weibo.com/weibo?q=%E6%96%B0%E5%8D%8E%E4%B9%A6%E5%BA%97%E6%89%8D%E6%98%AF%E9%9A%90%E8%97%8F%E7%9A%84%E7%BB%88%E6%9E%81%E5%A4%A7%E4%BD%AC&t=31&band_rank=4&Refer=top)<br />
 5. [男子每天1斤杨梅狂吃20天要做血透](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%AF%8F%E5%A4%A91%E6%96%A4%E6%9D%A8%E6%A2%85%E7%8B%82%E5%90%8320%E5%A4%A9%E8%A6%81%E5%81%9A%E8%A1%80%E9%80%8F%23&t=31&band_rank=5&Refer=top)<br />
-6. [普京感谢卢卡申科](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E6%84%9F%E8%B0%A2%E5%8D%A2%E5%8D%A1%E7%94%B3%E7%A7%91%23&t=31&band_rank=6&Refer=top)<br />
+6. [瓦格纳从俄南部军区司令部撤离](https://s.weibo.com/weibo?q=%23%E7%93%A6%E6%A0%BC%E7%BA%B3%E4%BB%8E%E4%BF%84%E5%8D%97%E9%83%A8%E5%86%9B%E5%8C%BA%E5%8F%B8%E4%BB%A4%E9%83%A8%E6%92%A4%E7%A6%BB%23&t=31&band_rank=6&Refer=top)<br />
 7. [陈飞宇孟子义 难哄](https://s.weibo.com/weibo?q=%E9%99%88%E9%A3%9E%E5%AE%87%E5%AD%9F%E5%AD%90%E4%B9%89%20%E9%9A%BE%E5%93%84&t=31&band_rank=7&Refer=top)<br />
 8. [宋轶片场勾白敬亭下巴](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%BD%B6%E7%89%87%E5%9C%BA%E5%8B%BE%E7%99%BD%E6%95%AC%E4%BA%AD%E4%B8%8B%E5%B7%B4%23&t=31&band_rank=8&Refer=top)<br />
-9. [瓦格纳从俄南部军区司令部撤离](https://s.weibo.com/weibo?q=%23%E7%93%A6%E6%A0%BC%E7%BA%B3%E4%BB%8E%E4%BF%84%E5%8D%97%E9%83%A8%E5%86%9B%E5%8C%BA%E5%8F%B8%E4%BB%A4%E9%83%A8%E6%92%A4%E7%A6%BB%23&t=31&band_rank=9&Refer=top)<br />
+9. [普京感谢卢卡申科](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E6%84%9F%E8%B0%A2%E5%8D%A2%E5%8D%A1%E7%94%B3%E7%A7%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
