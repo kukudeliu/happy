@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 13:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 14:00:01</h4></div>
 
 > 微博  
 
@@ -33,7 +33,7 @@
 5. [感动全网的环卫工儿子考470分](https://www.baidu.com/s?wd=%E6%84%9F%E5%8A%A8%E5%85%A8%E7%BD%91%E7%9A%84%E7%8E%AF%E5%8D%AB%E5%B7%A5%E5%84%BF%E5%AD%90%E8%80%83470%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [杀害缉毒英雄蔡晓东的毒贩已被击毙](https://www.baidu.com/s?wd=%E6%9D%80%E5%AE%B3%E7%BC%89%E6%AF%92%E8%8B%B1%E9%9B%84%E8%94%A1%E6%99%93%E4%B8%9C%E7%9A%84%E6%AF%92%E8%B4%A9%E5%B7%B2%E8%A2%AB%E5%87%BB%E6%AF%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男生考702分想去北大见“韦神”](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E8%80%83702%E5%88%86%E6%83%B3%E5%8E%BB%E5%8C%97%E5%A4%A7%E8%A7%81%E2%80%9C%E9%9F%A6%E7%A5%9E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [学霸查分发现分数被屏蔽 全家尖叫](https://www.baidu.com/s?wd=%E5%AD%A6%E9%9C%B8%E6%9F%A5%E5%88%86%E5%8F%91%E7%8E%B0%E5%88%86%E6%95%B0%E8%A2%AB%E5%B1%8F%E8%94%BD+%E5%85%A8%E5%AE%B6%E5%B0%96%E5%8F%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [老太疑因飞机换座不成辱骂女生](https://www.baidu.com/s?wd=%E8%80%81%E5%A4%AA%E7%96%91%E5%9B%A0%E9%A3%9E%E6%9C%BA%E6%8D%A2%E5%BA%A7%E4%B8%8D%E6%88%90%E8%BE%B1%E9%AA%82%E5%A5%B3%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [乌军方：趁乱从多方向对俄发起反攻](https://www.baidu.com/s?wd=%E4%B9%8C%E5%86%9B%E6%96%B9%EF%BC%9A%E8%B6%81%E4%B9%B1%E4%BB%8E%E5%A4%9A%E6%96%B9%E5%90%91%E5%AF%B9%E4%BF%84%E5%8F%91%E8%B5%B7%E5%8F%8D%E6%94%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [感动全网的环卫工儿子考470分](https://www.baidu.com/s?wd=%E6%84%9F%E5%8A%A8%E5%85%A8%E7%BD%91%E7%9A%84%E7%8E%AF%E5%8D%AB%E5%B7%A5%E5%84%BF%E5%AD%90%E8%80%83470%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [杀害缉毒英雄蔡晓东的毒贩已被击毙](https://www.baidu.com/s?wd=%E6%9D%80%E5%AE%B3%E7%BC%89%E6%AF%92%E8%8B%B1%E9%9B%84%E8%94%A1%E6%99%93%E4%B8%9C%E7%9A%84%E6%AF%92%E8%B4%A9%E5%B7%B2%E8%A2%AB%E5%87%BB%E6%AF%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男生考702分想去北大见“韦神”](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E8%80%83702%E5%88%86%E6%83%B3%E5%8E%BB%E5%8C%97%E5%A4%A7%E8%A7%81%E2%80%9C%E9%9F%A6%E7%A5%9E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [学霸查分发现分数被屏蔽 全家尖叫](https://www.baidu.com/s?wd=%E5%AD%A6%E9%9C%B8%E6%9F%A5%E5%88%86%E5%8F%91%E7%8E%B0%E5%88%86%E6%95%B0%E8%A2%AB%E5%B1%8F%E8%94%BD+%E5%85%A8%E5%AE%B6%E5%B0%96%E5%8F%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [老太疑因飞机换座不成辱骂女生](https://www.baidu.com/s?wd=%E8%80%81%E5%A4%AA%E7%96%91%E5%9B%A0%E9%A3%9E%E6%9C%BA%E6%8D%A2%E5%BA%A7%E4%B8%8D%E6%88%90%E8%BE%B1%E9%AA%82%E5%A5%B3%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [乌军方：趁乱从多方向对俄发起反攻](https://www.baidu.com/s?wd=%E4%B9%8C%E5%86%9B%E6%96%B9%EF%BC%9A%E8%B6%81%E4%B9%B1%E4%BB%8E%E5%A4%9A%E6%96%B9%E5%90%91%E5%AF%B9%E4%BF%84%E5%8F%91%E8%B5%B7%E5%8F%8D%E6%94%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
