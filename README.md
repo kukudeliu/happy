@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 19:59:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 20:00:01</h4></div>
 
 > 微博  
 
@@ -18,11 +18,11 @@
 2. [女孩充电被电击内脏受损面临截肢，客服回应「适配器非原装」，导致电击原因是什么？如何看待涉事公司回应？](https://www.zhihu.com/question/608412173)<br />
 3. [如何看待 2023 年江苏高考理科 600 分以上三万多人？](https://www.zhihu.com/question/608323244)<br />
 4. [如何看待第 28 届白玉兰奖获奖名单《狂飙》三提零中？](https://www.zhihu.com/question/608166845)<br />
-5. [据媒体报道，一些韩国航空公司暂停部分韩中航班，具体情况如何？背后原因有哪些？对中韩关系有何影响？](https://www.zhihu.com/question/608449825)<br />
+5. [高考成绩陆续公布，志愿填报怎么选？分数不及预期该去复读吗？](https://www.zhihu.com/theater/66632)<br />
 6. [消息称美情报部门 6 月中旬已得知瓦格纳计划，如何看待这一消息的真实性？透露了哪些信息？](https://www.zhihu.com/question/608485451)<br />
-7. [玩密室逃脱时有哪些有趣的经历？](https://www.zhihu.com/question/335559873)<br />
-8. [当初你是为什么报了数学专业? 现在怎么样？](https://www.zhihu.com/question/607812231)<br />
-9. [如果孩子注意到同学每天都换新鞋，她自己却没有。如何引导孩子正确的看待这个问题，还不伤害她的自尊心？](https://www.zhihu.com/question/602680415)<br />
+7. [据媒体报道，一些韩国航空公司暂停部分韩中航班，具体情况如何？背后原因有哪些？对中韩关系有何影响？](https://www.zhihu.com/question/608449825)<br />
+8. [玩密室逃脱时有哪些有趣的经历？](https://www.zhihu.com/question/335559873)<br />
+9. [当初你是为什么报了数学专业? 现在怎么样？](https://www.zhihu.com/question/607812231)<br />
 
 > 百度  
 
@@ -32,8 +32,8 @@
 4. [各地多种方式服务考生志愿填报](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E5%A4%9A%E7%A7%8D%E6%96%B9%E5%BC%8F%E6%9C%8D%E5%8A%A1%E8%80%83%E7%94%9F%E5%BF%97%E6%84%BF%E5%A1%AB%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [经纪人回应郑欣宜失踪](https://www.baidu.com/s?wd=%E7%BB%8F%E7%BA%AA%E4%BA%BA%E5%9B%9E%E5%BA%94%E9%83%91%E6%AC%A3%E5%AE%9C%E5%A4%B1%E8%B8%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [8888元猪景房为何能卖这么贵](https://www.baidu.com/s?wd=8888%E5%85%83%E7%8C%AA%E6%99%AF%E6%88%BF%E4%B8%BA%E4%BD%95%E8%83%BD%E5%8D%96%E8%BF%99%E4%B9%88%E8%B4%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [690分学霸采访中接到清华电话](https://www.baidu.com/s?wd=690%E5%88%86%E5%AD%A6%E9%9C%B8%E9%87%87%E8%AE%BF%E4%B8%AD%E6%8E%A5%E5%88%B0%E6%B8%85%E5%8D%8E%E7%94%B5%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [俄罗斯现在怎么样？](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E7%8E%B0%E5%9C%A8%E6%80%8E%E4%B9%88%E6%A0%B7%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [俄罗斯现在怎么样？](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E7%8E%B0%E5%9C%A8%E6%80%8E%E4%B9%88%E6%A0%B7%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [690分学霸采访中接到清华电话](https://www.baidu.com/s?wd=690%E5%88%86%E5%AD%A6%E9%9C%B8%E9%87%87%E8%AE%BF%E4%B8%AD%E6%8E%A5%E5%88%B0%E6%B8%85%E5%8D%8E%E7%94%B5%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [男生考666分一脸淡定爸爸偷偷捂脸哭](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E8%80%83666%E5%88%86%E4%B8%80%E8%84%B8%E6%B7%A1%E5%AE%9A%E7%88%B8%E7%88%B8%E5%81%B7%E5%81%B7%E6%8D%82%E8%84%B8%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -44,6 +44,6 @@
 4. [各地多种方式服务考生志愿填报](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E5%A4%9A%E7%A7%8D%E6%96%B9%E5%BC%8F%E6%9C%8D%E5%8A%A1%E8%80%83%E7%94%9F%E5%BF%97%E6%84%BF%E5%A1%AB%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [经纪人回应郑欣宜失踪](https://www.baidu.com/s?wd=%E7%BB%8F%E7%BA%AA%E4%BA%BA%E5%9B%9E%E5%BA%94%E9%83%91%E6%AC%A3%E5%AE%9C%E5%A4%B1%E8%B8%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [8888元猪景房为何能卖这么贵](https://www.baidu.com/s?wd=8888%E5%85%83%E7%8C%AA%E6%99%AF%E6%88%BF%E4%B8%BA%E4%BD%95%E8%83%BD%E5%8D%96%E8%BF%99%E4%B9%88%E8%B4%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [690分学霸采访中接到清华电话](https://www.baidu.com/s?wd=690%E5%88%86%E5%AD%A6%E9%9C%B8%E9%87%87%E8%AE%BF%E4%B8%AD%E6%8E%A5%E5%88%B0%E6%B8%85%E5%8D%8E%E7%94%B5%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [俄罗斯现在怎么样？](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E7%8E%B0%E5%9C%A8%E6%80%8E%E4%B9%88%E6%A0%B7%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [俄罗斯现在怎么样？](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E7%8E%B0%E5%9C%A8%E6%80%8E%E4%B9%88%E6%A0%B7%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [690分学霸采访中接到清华电话](https://www.baidu.com/s?wd=690%E5%88%86%E5%AD%A6%E9%9C%B8%E9%87%87%E8%AE%BF%E4%B8%AD%E6%8E%A5%E5%88%B0%E6%B8%85%E5%8D%8E%E7%94%B5%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [男生考666分一脸淡定爸爸偷偷捂脸哭](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E8%80%83666%E5%88%86%E4%B8%80%E8%84%B8%E6%B7%A1%E5%AE%9A%E7%88%B8%E7%88%B8%E5%81%B7%E5%81%B7%E6%8D%82%E8%84%B8%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
