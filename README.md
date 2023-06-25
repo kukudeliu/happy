@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 13:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 13:42:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [黑客 George Hotz 爆料 GPT-4 由 8 个 MoE 模型组成，真的吗？](https://www.zhihu.com/question/607812079)<br />
 6. [端午档总票房破 9 亿，暂列影史第二，如何评价这一票房成绩？你去影院看了哪部电影？](https://www.zhihu.com/question/608300528)<br />
 7. [电影《消失的她》里反复出现梵高的「星空」有什么寓意？](https://www.zhihu.com/question/607992980)<br />
-8. [破壁机除了做豆浆，还有什么用？破壁机有必要买吗?](https://www.zhihu.com/question/602557876)<br />
-9. [如何评价《中国说唱巅峰对决 2023》第八期法老、早安、小精灵的舞台《健将 plus》？](https://www.zhihu.com/question/608288936)<br />
+8. [如何评价《中国说唱巅峰对决 2023》第八期法老、早安、小精灵的舞台《健将 plus》？](https://www.zhihu.com/question/608288936)<br />
+9. [破壁机除了做豆浆，还有什么用？破壁机有必要买吗?](https://www.zhihu.com/question/602557876)<br />
 
 > 百度  
 
