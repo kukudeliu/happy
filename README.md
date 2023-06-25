@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 12:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 12:18:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [男生考694分妈妈激动叫出海豚音](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E8%80%83694%E5%88%86%E5%A6%88%E5%A6%88%E6%BF%80%E5%8A%A8%E5%8F%AB%E5%87%BA%E6%B5%B7%E8%B1%9A%E9%9F%B3%23&t=31&band_rank=2&Refer=top)<br />
 3. [世界互联网大会数字文明尼山对话](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A%E6%95%B0%E5%AD%97%E6%96%87%E6%98%8E%E5%B0%BC%E5%B1%B1%E5%AF%B9%E8%AF%9D%23&t=31&band_rank=3&Refer=top)<br />
 4. [高考分数线](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%23&t=31&band_rank=4&Refer=top)<br />
-5. [普京感谢卢卡申科](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E6%84%9F%E8%B0%A2%E5%8D%A2%E5%8D%A1%E7%94%B3%E7%A7%91%23&t=31&band_rank=5&Refer=top)<br />
-6. [长风渡宣发](https://s.weibo.com/weibo?q=%E9%95%BF%E9%A3%8E%E6%B8%A1%E5%AE%A3%E5%8F%91&t=31&band_rank=6&Refer=top)<br />
-7. [2023广东高考分数线](https://s.weibo.com/weibo?q=%232023%E5%B9%BF%E4%B8%9C%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%23&t=31&band_rank=7&Refer=top)<br />
-8. [消失的她 绝世大甜剧](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%20%E7%BB%9D%E4%B8%96%E5%A4%A7%E7%94%9C%E5%89%A7&t=31&band_rank=8&Refer=top)<br />
-9. [宋轶片场勾白敬亭下巴](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%BD%B6%E7%89%87%E5%9C%BA%E5%8B%BE%E7%99%BD%E6%95%AC%E4%BA%AD%E4%B8%8B%E5%B7%B4%23&t=31&band_rank=9&Refer=top)<br />
+5. [学生高考成绩被屏蔽老师激动欢呼](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E8%A2%AB%E5%B1%8F%E8%94%BD%E8%80%81%E5%B8%88%E6%BF%80%E5%8A%A8%E6%AC%A2%E5%91%BC%23&t=31&band_rank=5&Refer=top)<br />
+6. [普京感谢卢卡申科](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E6%84%9F%E8%B0%A2%E5%8D%A2%E5%8D%A1%E7%94%B3%E7%A7%91%23&t=31&band_rank=6&Refer=top)<br />
+7. [长风渡宣发](https://s.weibo.com/weibo?q=%E9%95%BF%E9%A3%8E%E6%B8%A1%E5%AE%A3%E5%8F%91&t=31&band_rank=7&Refer=top)<br />
+8. [2023广东高考分数线](https://s.weibo.com/weibo?q=%232023%E5%B9%BF%E4%B8%9C%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%23&t=31&band_rank=8&Refer=top)<br />
+9. [消失的她 绝世大甜剧](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%20%E7%BB%9D%E4%B8%96%E5%A4%A7%E7%94%9C%E5%89%A7&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -18,8 +18,8 @@
 2. [钻石价格大跌，分析人士称钻石价格或将进一步跳水，受哪些因素影响？如何解读？](https://www.zhihu.com/question/608252259)<br />
 3. [为什么有老师很在意论文致谢？](https://www.zhihu.com/question/606467535)<br />
 4. [如何评价悬疑电影《消失的她》？值得到电影院看吗？](https://www.zhihu.com/question/607961545)<br />
-5. [古时候老虎多到什么程度？](https://www.zhihu.com/question/284091530)<br />
-6. [如何看待 2023 年江苏高考理科 600 分以上三万多人？](https://www.zhihu.com/question/608323244)<br />
+5. [如何看待 2023 年江苏高考理科 600 分以上三万多人？](https://www.zhihu.com/question/608323244)<br />
+6. [古时候老虎多到什么程度？](https://www.zhihu.com/question/284091530)<br />
 7. [曝巴黎为姆巴佩标价 3 亿欧，皇马最多报价 2.2 亿，如何看待姆巴佩的转会前景，他能为皇马带来什么？](https://www.zhihu.com/question/608399259)<br />
 8. []()<br />
 9. [iPhone 电池健康度多少才算正常？80% 和 100% 有什么区别？](https://www.zhihu.com/question/569965047)<br />
