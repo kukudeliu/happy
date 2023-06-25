@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 17:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 17:58:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [711分考生妈妈建议家长不要把全部精力投入孩子](https://s.weibo.com/weibo?q=%23711%E5%88%86%E8%80%83%E7%94%9F%E5%A6%88%E5%A6%88%E5%BB%BA%E8%AE%AE%E5%AE%B6%E9%95%BF%E4%B8%8D%E8%A6%81%E6%8A%8A%E5%85%A8%E9%83%A8%E7%B2%BE%E5%8A%9B%E6%8A%95%E5%85%A5%E5%AD%A9%E5%AD%90%23&t=31&band_rank=6&Refer=top)<br />
 7. [女子上午买瓜34元没付上傍晚开车来补](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B8%8A%E5%8D%88%E4%B9%B0%E7%93%9C34%E5%85%83%E6%B2%A1%E4%BB%98%E4%B8%8A%E5%82%8D%E6%99%9A%E5%BC%80%E8%BD%A6%E6%9D%A5%E8%A1%A5%23&t=31&band_rank=7&Refer=top)<br />
 8. [虞书欣一天喝了三杯冰美式](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E4%B8%80%E5%A4%A9%E5%96%9D%E4%BA%86%E4%B8%89%E6%9D%AF%E5%86%B0%E7%BE%8E%E5%BC%8F%23&t=31&band_rank=8&Refer=top)<br />
-9. [一年放假115天多吗](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%B9%B4%E6%94%BE%E5%81%87115%E5%A4%A9%E5%A4%9A%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
+9. [殡葬专业就业率百分之百](https://s.weibo.com/weibo?q=%23%E6%AE%A1%E8%91%AC%E4%B8%93%E4%B8%9A%E5%B0%B1%E4%B8%9A%E7%8E%87%E7%99%BE%E5%88%86%E4%B9%8B%E7%99%BE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
