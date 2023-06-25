@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 22:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 22:33:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [国务院成立宁夏银川富洋烧烤店「6·21」特别重大燃气爆炸事故调查组，有哪些信息值得关注？](https://www.zhihu.com/question/608439574)<br />
 5. [历史上有没有一开始无人看他写的文章小说，后面却成了大文豪的作家？](https://www.zhihu.com/question/607992884)<br />
 6. [光年之外联合创始人王慧文因个人健康问题暂时休养、辞任美团董事，将会对公司运营造成哪些影响？](https://www.zhihu.com/question/608524050)<br />
-7. [行测和申论该怎么复习？](https://www.zhihu.com/question/450128517)<br />
-8. [读预科是一种什么体验？](https://www.zhihu.com/question/65180289)<br />
-9. [洗地机真的很「省心省力」吗？它又是如何做到的呢？](https://www.zhihu.com/question/486939718)<br />
+7. [读预科是一种什么体验？](https://www.zhihu.com/question/65180289)<br />
+8. [洗地机真的很「省心省力」吗？它又是如何做到的呢？](https://www.zhihu.com/question/486939718)<br />
+9. [行测和申论该怎么复习？](https://www.zhihu.com/question/450128517)<br />
 
 > 百度  
 
