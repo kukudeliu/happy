@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 00:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 00:26:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [中方表示瓦格纳集团事件是俄罗斯内政](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E8%A1%A8%E7%A4%BA%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%9B%86%E5%9B%A2%E4%BA%8B%E4%BB%B6%E6%98%AF%E4%BF%84%E7%BD%97%E6%96%AF%E5%86%85%E6%94%BF%23&t=31&band_rank=6&Refer=top)<br />
 7. [普京称全天候控制特别军事行动进程](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E7%A7%B0%E5%85%A8%E5%A4%A9%E5%80%99%E6%8E%A7%E5%88%B6%E7%89%B9%E5%88%AB%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8%E8%BF%9B%E7%A8%8B%23&t=31&band_rank=7&Refer=top)<br />
 8. [EXO回归预告](https://s.weibo.com/weibo?q=EXO%E5%9B%9E%E5%BD%92%E9%A2%84%E5%91%8A&t=31&band_rank=8&Refer=top)<br />
-9. [肖战谈自己如何面对各种评论](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%B0%88%E8%87%AA%E5%B7%B1%E5%A6%82%E4%BD%95%E9%9D%A2%E5%AF%B9%E5%90%84%E7%A7%8D%E8%AF%84%E8%AE%BA%23&t=31&band_rank=9&Refer=top)<br />
+9. [朱一龙的头为什么是歪的](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E7%9A%84%E5%A4%B4%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%AF%E6%AD%AA%E7%9A%84%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -20,8 +20,8 @@
 4. []()<br />
 5. []()<br />
 6. [电影《消失的她》彩蛋有何深意？](https://www.zhihu.com/question/608094853)<br />
-7. []()<br />
-8. [荣耀官宣荣耀 X50 将在 7 月 5 日发布，如何看待此次新机外观酷似华为 Mate40？](https://www.zhihu.com/question/608442372)<br />
+7. [荣耀官宣荣耀 X50 将在 7 月 5 日发布，如何看待此次新机外观酷似华为 Mate40？](https://www.zhihu.com/question/608442372)<br />
+8. []()<br />
 9. []()<br />
 
 > 百度  
