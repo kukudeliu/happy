@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 13:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 13:21:01</h4></div>
 
 > 微博  
 
@@ -19,10 +19,10 @@
 3. [如何评价悬疑电影《消失的她》？值得到电影院看吗？](https://www.zhihu.com/question/607961545)<br />
 4. [如何看待 2023 年江苏高考理科 600 分以上三万多人？](https://www.zhihu.com/question/608323244)<br />
 5. [黑客 George Hotz 爆料 GPT-4 由 8 个 MoE 模型组成，真的吗？](https://www.zhihu.com/question/607812079)<br />
-6. [高考差本科 18 分，是上大专还是打工好呢？](https://www.zhihu.com/question/608399927)<br />
-7. [端午档总票房破 9 亿，暂列影史第二，如何评价这一票房成绩？你去影院看了哪部电影？](https://www.zhihu.com/question/608300528)<br />
-8. [电影《消失的她》里反复出现梵高的「星空」有什么寓意？](https://www.zhihu.com/question/607992980)<br />
-9. [破壁机除了做豆浆，还有什么用？破壁机有必要买吗?](https://www.zhihu.com/question/602557876)<br />
+6. [端午档总票房破 9 亿，暂列影史第二，如何评价这一票房成绩？你去影院看了哪部电影？](https://www.zhihu.com/question/608300528)<br />
+7. [电影《消失的她》里反复出现梵高的「星空」有什么寓意？](https://www.zhihu.com/question/607992980)<br />
+8. [破壁机除了做豆浆，还有什么用？破壁机有必要买吗?](https://www.zhihu.com/question/602557876)<br />
+9. [游戏《最终幻想16》各大媒体开分，IGN和GS双9，MC均分88，如何评价这款游戏的首发表现？](https://www.zhihu.com/question/607915600)<br />
 
 > 百度  
 
