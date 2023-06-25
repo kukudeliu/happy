@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 19:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 19:56:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [白敬亭工作室big胆](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%B7%A5%E4%BD%9C%E5%AE%A4big%E8%83%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [那个说英语难的男生高考684分](https://s.weibo.com/weibo?q=%23%E9%82%A3%E4%B8%AA%E8%AF%B4%E8%8B%B1%E8%AF%AD%E9%9A%BE%E7%9A%84%E7%94%B7%E7%94%9F%E9%AB%98%E8%80%83684%E5%88%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [汤唯 兔子警官](https://s.weibo.com/weibo?q=%E6%B1%A4%E5%94%AF%20%E5%85%94%E5%AD%90%E8%AD%A6%E5%AE%98&t=31&band_rank=8&Refer=top)<br />
-9. [太空视角下五颜六色的中国大地](https://s.weibo.com/weibo?q=%23%E5%A4%AA%E7%A9%BA%E8%A7%86%E8%A7%92%E4%B8%8B%E4%BA%94%E9%A2%9C%E5%85%AD%E8%89%B2%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%9C%B0%23&t=31&band_rank=9&Refer=top)<br />
+9. [消失的她评分下降](https://s.weibo.com/weibo?q=%23%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E8%AF%84%E5%88%86%E4%B8%8B%E9%99%8D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [消息称美情报部门 6 月中旬已得知瓦格纳计划，如何看待这一消息的真实性？透露了哪些信息？](https://www.zhihu.com/question/608485451)<br />
 7. [玩密室逃脱时有哪些有趣的经历？](https://www.zhihu.com/question/335559873)<br />
 8. [当初你是为什么报了数学专业? 现在怎么样？](https://www.zhihu.com/question/607812231)<br />
-9. [连续高温中暑人数激增，医生提示称「警惕热射病，坚持好的生活习惯」，如何看待此事？高温天气如何防暑？](https://www.zhihu.com/question/608473030)<br />
+9. [如果孩子注意到同学每天都换新鞋，她自己却没有。如何引导孩子正确的看待这个问题，还不伤害她的自尊心？](https://www.zhihu.com/question/602680415)<br />
 
 > 百度  
 
