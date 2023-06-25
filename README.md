@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 23:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 23:36:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [中方表示瓦格纳集团事件是俄罗斯内政](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E8%A1%A8%E7%A4%BA%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%9B%86%E5%9B%A2%E4%BA%8B%E4%BB%B6%E6%98%AF%E4%BF%84%E7%BD%97%E6%96%AF%E5%86%85%E6%94%BF%23&t=31&band_rank=6&Refer=top)<br />
 7. [孟子义27岁素颜状态](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%8927%E5%B2%81%E7%B4%A0%E9%A2%9C%E7%8A%B6%E6%80%81%23&t=31&band_rank=7&Refer=top)<br />
 8. [鹿晗的泪钻](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E7%9A%84%E6%B3%AA%E9%92%BB%23&t=31&band_rank=8&Refer=top)<br />
-9. [蔡徐坤不用管我死活](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E4%B8%8D%E7%94%A8%E7%AE%A1%E6%88%91%E6%AD%BB%E6%B4%BB%23&t=31&band_rank=9&Refer=top)<br />
+9. [白敬亭是在挽回形象吗](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E6%98%AF%E5%9C%A8%E6%8C%BD%E5%9B%9E%E5%BD%A2%E8%B1%A1%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -20,7 +20,7 @@
 4. [国务院成立宁夏银川富洋烧烤店「6·21」特别重大燃气爆炸事故调查组，有哪些信息值得关注？](https://www.zhihu.com/question/608439574)<br />
 5. [历史上有没有一开始无人看他写的文章小说，后面却成了大文豪的作家？](https://www.zhihu.com/question/607992884)<br />
 6. [光年之外联合创始人王慧文因个人健康问题暂时休养、辞任美团董事，将会对公司运营造成哪些影响？](https://www.zhihu.com/question/608524050)<br />
-7. [读预科是一种什么体验？](https://www.zhihu.com/question/65180289)<br />
+7. []()<br />
 8. []()<br />
 9. [电影《消失的她》彩蛋有何深意？](https://www.zhihu.com/question/608094853)<br />
 
