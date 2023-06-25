@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 14:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-25 14:45:02</h4></div>
 
 > 微博  
 
@@ -27,23 +27,23 @@
 > 百度  
 
 1. [空中视角看千万工程调研行](https://www.baidu.com/s?wd=%E7%A9%BA%E4%B8%AD%E8%A7%86%E8%A7%92%E7%9C%8B%E5%8D%83%E4%B8%87%E5%B7%A5%E7%A8%8B%E8%B0%83%E7%A0%94%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [学生高考成绩被屏蔽老师激动欢呼](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E8%A2%AB%E5%B1%8F%E8%94%BD%E8%80%81%E5%B8%88%E6%BF%80%E5%8A%A8%E6%AC%A2%E5%91%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [男生考702分想去北大见“韦神”](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E8%80%83702%E5%88%86%E6%83%B3%E5%8E%BB%E5%8C%97%E5%A4%A7%E8%A7%81%E2%80%9C%E9%9F%A6%E7%A5%9E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [711分考生妈妈:别把精力全投给孩子](https://www.baidu.com/s?wd=711%E5%88%86%E8%80%83%E7%94%9F%E5%A6%88%E5%A6%88%3A%E5%88%AB%E6%8A%8A%E7%B2%BE%E5%8A%9B%E5%85%A8%E6%8A%95%E7%BB%99%E5%AD%A9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [各地多种方式服务考生志愿填报](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E5%A4%9A%E7%A7%8D%E6%96%B9%E5%BC%8F%E6%9C%8D%E5%8A%A1%E8%80%83%E7%94%9F%E5%BF%97%E6%84%BF%E5%A1%AB%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [2023各地高考分数线汇总](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E6%89%B9%E6%AC%A1%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [清华也向敬礼娃娃郎铮伸出橄榄枝](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E4%B9%9F%E5%90%91%E6%95%AC%E7%A4%BC%E5%A8%83%E5%A8%83%E9%83%8E%E9%93%AE%E4%BC%B8%E5%87%BA%E6%A9%84%E6%A6%84%E6%9E%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [唐尚珺回应高考662分将上清华传言](https://www.baidu.com/s?wd=%E5%94%90%E5%B0%9A%E7%8F%BA%E5%9B%9E%E5%BA%94%E9%AB%98%E8%80%83662%E5%88%86%E5%B0%86%E4%B8%8A%E6%B8%85%E5%8D%8E%E4%BC%A0%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [杀害缉毒英雄蔡晓东的毒贩已被击毙](https://www.baidu.com/s?wd=%E6%9D%80%E5%AE%B3%E7%BC%89%E6%AF%92%E8%8B%B1%E9%9B%84%E8%94%A1%E6%99%93%E4%B8%9C%E7%9A%84%E6%AF%92%E8%B4%A9%E5%B7%B2%E8%A2%AB%E5%87%BB%E6%AF%99&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [唐尚珺回应高考662分将上清华传言](https://www.baidu.com/s?wd=%E5%94%90%E5%B0%9A%E7%8F%BA%E5%9B%9E%E5%BA%94%E9%AB%98%E8%80%83662%E5%88%86%E5%B0%86%E4%B8%8A%E6%B8%85%E5%8D%8E%E4%BC%A0%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男生考702分想去北大见“韦神”](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E8%80%83702%E5%88%86%E6%83%B3%E5%8E%BB%E5%8C%97%E5%A4%A7%E8%A7%81%E2%80%9C%E9%9F%A6%E7%A5%9E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [清华也向敬礼娃娃郎铮伸出橄榄枝](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E4%B9%9F%E5%90%91%E6%95%AC%E7%A4%BC%E5%A8%83%E5%A8%83%E9%83%8E%E9%93%AE%E4%BC%B8%E5%87%BA%E6%A9%84%E6%A6%84%E6%9E%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [律师谈上市公司披露总经理女儿成绩](https://www.baidu.com/s?wd=%E5%BE%8B%E5%B8%88%E8%B0%88%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E6%8A%AB%E9%9C%B2%E6%80%BB%E7%BB%8F%E7%90%86%E5%A5%B3%E5%84%BF%E6%88%90%E7%BB%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [空中视角看千万工程调研行](https://www.baidu.com/s?wd=%E7%A9%BA%E4%B8%AD%E8%A7%86%E8%A7%92%E7%9C%8B%E5%8D%83%E4%B8%87%E5%B7%A5%E7%A8%8B%E8%B0%83%E7%A0%94%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [学生高考成绩被屏蔽老师激动欢呼](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E8%A2%AB%E5%B1%8F%E8%94%BD%E8%80%81%E5%B8%88%E6%BF%80%E5%8A%A8%E6%AC%A2%E5%91%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [男生考702分想去北大见“韦神”](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E8%80%83702%E5%88%86%E6%83%B3%E5%8E%BB%E5%8C%97%E5%A4%A7%E8%A7%81%E2%80%9C%E9%9F%A6%E7%A5%9E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [711分考生妈妈:别把精力全投给孩子](https://www.baidu.com/s?wd=711%E5%88%86%E8%80%83%E7%94%9F%E5%A6%88%E5%A6%88%3A%E5%88%AB%E6%8A%8A%E7%B2%BE%E5%8A%9B%E5%85%A8%E6%8A%95%E7%BB%99%E5%AD%A9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [各地多种方式服务考生志愿填报](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E5%A4%9A%E7%A7%8D%E6%96%B9%E5%BC%8F%E6%9C%8D%E5%8A%A1%E8%80%83%E7%94%9F%E5%BF%97%E6%84%BF%E5%A1%AB%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [2023各地高考分数线汇总](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E6%89%B9%E6%AC%A1%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [清华也向敬礼娃娃郎铮伸出橄榄枝](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E4%B9%9F%E5%90%91%E6%95%AC%E7%A4%BC%E5%A8%83%E5%A8%83%E9%83%8E%E9%93%AE%E4%BC%B8%E5%87%BA%E6%A9%84%E6%A6%84%E6%9E%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [唐尚珺回应高考662分将上清华传言](https://www.baidu.com/s?wd=%E5%94%90%E5%B0%9A%E7%8F%BA%E5%9B%9E%E5%BA%94%E9%AB%98%E8%80%83662%E5%88%86%E5%B0%86%E4%B8%8A%E6%B8%85%E5%8D%8E%E4%BC%A0%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [杀害缉毒英雄蔡晓东的毒贩已被击毙](https://www.baidu.com/s?wd=%E6%9D%80%E5%AE%B3%E7%BC%89%E6%AF%92%E8%8B%B1%E9%9B%84%E8%94%A1%E6%99%93%E4%B8%9C%E7%9A%84%E6%AF%92%E8%B4%A9%E5%B7%B2%E8%A2%AB%E5%87%BB%E6%AF%99&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [唐尚珺回应高考662分将上清华传言](https://www.baidu.com/s?wd=%E5%94%90%E5%B0%9A%E7%8F%BA%E5%9B%9E%E5%BA%94%E9%AB%98%E8%80%83662%E5%88%86%E5%B0%86%E4%B8%8A%E6%B8%85%E5%8D%8E%E4%BC%A0%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男生考702分想去北大见“韦神”](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E8%80%83702%E5%88%86%E6%83%B3%E5%8E%BB%E5%8C%97%E5%A4%A7%E8%A7%81%E2%80%9C%E9%9F%A6%E7%A5%9E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [清华也向敬礼娃娃郎铮伸出橄榄枝](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E4%B9%9F%E5%90%91%E6%95%AC%E7%A4%BC%E5%A8%83%E5%A8%83%E9%83%8E%E9%93%AE%E4%BC%B8%E5%87%BA%E6%A9%84%E6%A6%84%E6%9E%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [律师谈上市公司披露总经理女儿成绩](https://www.baidu.com/s?wd=%E5%BE%8B%E5%B8%88%E8%B0%88%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E6%8A%AB%E9%9C%B2%E6%80%BB%E7%BB%8F%E7%90%86%E5%A5%B3%E5%84%BF%E6%88%90%E7%BB%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
