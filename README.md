@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 01:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 01:29:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [贬低你的亲戚都是父母惯的](https://s.weibo.com/weibo?q=%E8%B4%AC%E4%BD%8E%E4%BD%A0%E7%9A%84%E4%BA%B2%E6%88%9A%E9%83%BD%E6%98%AF%E7%88%B6%E6%AF%8D%E6%83%AF%E7%9A%84&t=31&band_rank=5&Refer=top)<br />
 6. [张艺兴新片官方账号被禁言](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E6%96%B0%E7%89%87%E5%AE%98%E6%96%B9%E8%B4%A6%E5%8F%B7%E8%A2%AB%E7%A6%81%E8%A8%80%23&t=31&band_rank=6&Refer=top)<br />
 7. [妹妹考了702分却哭了一下午](https://s.weibo.com/weibo?q=%23%E5%A6%B9%E5%A6%B9%E8%80%83%E4%BA%86702%E5%88%86%E5%8D%B4%E5%93%AD%E4%BA%86%E4%B8%80%E4%B8%8B%E5%8D%88%23&t=31&band_rank=7&Refer=top)<br />
-8. [新京报评偷偷藏不住](https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%BA%AC%E6%8A%A5%E8%AF%84%E5%81%B7%E5%81%B7%E8%97%8F%E4%B8%8D%E4%BD%8F%23&t=31&band_rank=8&Refer=top)<br />
-9. [王暖暖](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%9A%96%E6%9A%96&t=31&band_rank=9&Refer=top)<br />
+8. [王暖暖](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%9A%96%E6%9A%96&t=31&band_rank=8&Refer=top)<br />
+9. [新京报评偷偷藏不住](https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%BA%AC%E6%8A%A5%E8%AF%84%E5%81%B7%E5%81%B7%E8%97%8F%E4%B8%8D%E4%BD%8F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -31,10 +31,10 @@
 3. [长沙同寝两考生成绩被屏蔽](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E5%90%8C%E5%AF%9D%E4%B8%A4%E8%80%83%E7%94%9F%E6%88%90%E7%BB%A9%E8%A2%AB%E5%B1%8F%E8%94%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [防止跑冒滴漏 端牢中国饭碗](https://www.baidu.com/s?wd=%E9%98%B2%E6%AD%A2%E8%B7%91%E5%86%92%E6%BB%B4%E6%BC%8F+%E7%AB%AF%E7%89%A2%E4%B8%AD%E5%9B%BD%E9%A5%AD%E7%A2%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [6岁男童游泳后感染“食脑虫”](https://www.baidu.com/s?wd=6%E5%B2%81%E7%94%B7%E7%AB%A5%E6%B8%B8%E6%B3%B3%E5%90%8E%E6%84%9F%E6%9F%93%E2%80%9C%E9%A3%9F%E8%84%91%E8%99%AB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [谁给了迪士尼乐园涨价的“勇气”](https://www.baidu.com/s?wd=%E8%B0%81%E7%BB%99%E4%BA%86%E8%BF%AA%E5%A3%AB%E5%B0%BC%E4%B9%90%E5%9B%AD%E6%B6%A8%E4%BB%B7%E7%9A%84%E2%80%9C%E5%8B%87%E6%B0%94%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [深圳外卖员被雨篷扎颈身亡](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%A4%96%E5%8D%96%E5%91%98%E8%A2%AB%E9%9B%A8%E7%AF%B7%E6%89%8E%E9%A2%88%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [胡锡进：普京几乎兵不血刃处置兵变](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%EF%BC%9A%E6%99%AE%E4%BA%AC%E5%87%A0%E4%B9%8E%E5%85%B5%E4%B8%8D%E8%A1%80%E5%88%83%E5%A4%84%E7%BD%AE%E5%85%B5%E5%8F%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子捉奸收2万补偿获刑 法院将再审](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8D%89%E5%A5%B8%E6%94%B62%E4%B8%87%E8%A1%A5%E5%81%BF%E8%8E%B7%E5%88%91+%E6%B3%95%E9%99%A2%E5%B0%86%E5%86%8D%E5%AE%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [最全汇总：31省份高考分数线公布](https://www.baidu.com/s?wd=%E6%9C%80%E5%85%A8%E6%B1%87%E6%80%BB%EF%BC%9A31%E7%9C%81%E4%BB%BD%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [张雪峰式报志愿的缺陷在哪](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%BC%8F%E6%8A%A5%E5%BF%97%E6%84%BF%E7%9A%84%E7%BC%BA%E9%99%B7%E5%9C%A8%E5%93%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [张雪峰曾称每年仅讲课就能挣几百万](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E6%9B%BE%E7%A7%B0%E6%AF%8F%E5%B9%B4%E4%BB%85%E8%AE%B2%E8%AF%BE%E5%B0%B1%E8%83%BD%E6%8C%A3%E5%87%A0%E7%99%BE%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [B站将用播放分钟数替代播放次数](https://www.baidu.com/s?wd=B%E7%AB%99%E5%B0%86%E7%94%A8%E6%92%AD%E6%94%BE%E5%88%86%E9%92%9F%E6%95%B0%E6%9B%BF%E4%BB%A3%E6%92%AD%E6%94%BE%E6%AC%A1%E6%95%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [长沙同寝两考生成绩被屏蔽](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E5%90%8C%E5%AF%9D%E4%B8%A4%E8%80%83%E7%94%9F%E6%88%90%E7%BB%A9%E8%A2%AB%E5%B1%8F%E8%94%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [防止跑冒滴漏 端牢中国饭碗](https://www.baidu.com/s?wd=%E9%98%B2%E6%AD%A2%E8%B7%91%E5%86%92%E6%BB%B4%E6%BC%8F+%E7%AB%AF%E7%89%A2%E4%B8%AD%E5%9B%BD%E9%A5%AD%E7%A2%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [6岁男童游泳后感染“食脑虫”](https://www.baidu.com/s?wd=6%E5%B2%81%E7%94%B7%E7%AB%A5%E6%B8%B8%E6%B3%B3%E5%90%8E%E6%84%9F%E6%9F%93%E2%80%9C%E9%A3%9F%E8%84%91%E8%99%AB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [谁给了迪士尼乐园涨价的“勇气”](https://www.baidu.com/s?wd=%E8%B0%81%E7%BB%99%E4%BA%86%E8%BF%AA%E5%A3%AB%E5%B0%BC%E4%B9%90%E5%9B%AD%E6%B6%A8%E4%BB%B7%E7%9A%84%E2%80%9C%E5%8B%87%E6%B0%94%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [深圳外卖员被雨篷扎颈身亡](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%A4%96%E5%8D%96%E5%91%98%E8%A2%AB%E9%9B%A8%E7%AF%B7%E6%89%8E%E9%A2%88%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [胡锡进：普京几乎兵不血刃处置兵变](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%EF%BC%9A%E6%99%AE%E4%BA%AC%E5%87%A0%E4%B9%8E%E5%85%B5%E4%B8%8D%E8%A1%80%E5%88%83%E5%A4%84%E7%BD%AE%E5%85%B5%E5%8F%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子捉奸收2万补偿获刑 法院将再审](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8D%89%E5%A5%B8%E6%94%B62%E4%B8%87%E8%A1%A5%E5%81%BF%E8%8E%B7%E5%88%91+%E6%B3%95%E9%99%A2%E5%B0%86%E5%86%8D%E5%AE%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [最全汇总：31省份高考分数线公布](https://www.baidu.com/s?wd=%E6%9C%80%E5%85%A8%E6%B1%87%E6%80%BB%EF%BC%9A31%E7%9C%81%E4%BB%BD%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [张雪峰式报志愿的缺陷在哪](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%BC%8F%E6%8A%A5%E5%BF%97%E6%84%BF%E7%9A%84%E7%BC%BA%E9%99%B7%E5%9C%A8%E5%93%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [张雪峰曾称每年仅讲课就能挣几百万](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E6%9B%BE%E7%A7%B0%E6%AF%8F%E5%B9%B4%E4%BB%85%E8%AE%B2%E8%AF%BE%E5%B0%B1%E8%83%BD%E6%8C%A3%E5%87%A0%E7%99%BE%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [B站将用播放分钟数替代播放次数](https://www.baidu.com/s?wd=B%E7%AB%99%E5%B0%86%E7%94%A8%E6%92%AD%E6%94%BE%E5%88%86%E9%92%9F%E6%95%B0%E6%9B%BF%E4%BB%A3%E6%92%AD%E6%94%BE%E6%AC%A1%E6%95%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
