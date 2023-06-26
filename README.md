@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 22:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 22:40:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [消失的她](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9&t=31&band_rank=6&Refer=top)<br />
 7. [澳洲爆发恐校症](https://s.weibo.com/weibo?q=%E6%BE%B3%E6%B4%B2%E7%88%86%E5%8F%91%E6%81%90%E6%A0%A1%E7%97%87&t=31&band_rank=7&Refer=top)<br />
 8. [当我被00后下属骂了](https://s.weibo.com/weibo?q=%E5%BD%93%E6%88%91%E8%A2%AB00%E5%90%8E%E4%B8%8B%E5%B1%9E%E9%AA%82%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [朱一龙心里万了一骂句](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E5%BF%83%E9%87%8C%E4%B8%87%E4%BA%86%E4%B8%80%E9%AA%82%E5%8F%A5%23&t=31&band_rank=9&Refer=top)<br />
+9. [齐思钧 身体一直没有彻底康复](https://s.weibo.com/weibo?q=%E9%BD%90%E6%80%9D%E9%92%A7%20%E8%BA%AB%E4%BD%93%E4%B8%80%E7%9B%B4%E6%B2%A1%E6%9C%89%E5%BD%BB%E5%BA%95%E5%BA%B7%E5%A4%8D&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
