@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 07:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 08:00:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [李嘉诚家族抄底内地房企项目](https://www.baidu.com/s?wd=%E6%9D%8E%E5%98%89%E8%AF%9A%E5%AE%B6%E6%97%8F%E6%8A%84%E5%BA%95%E5%86%85%E5%9C%B0%E6%88%BF%E4%BC%81%E9%A1%B9%E7%9B%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [四川26岁女孩下网约车后失联](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D26%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%B8%8B%E7%BD%91%E7%BA%A6%E8%BD%A6%E5%90%8E%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [妇联回应女子2年被老公家暴16次](https://www.baidu.com/s?wd=%E5%A6%87%E8%81%94%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%902%E5%B9%B4%E8%A2%AB%E8%80%81%E5%85%AC%E5%AE%B6%E6%9A%B416%E6%AC%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [一家三口吃蒸双臭嘴唇发紫送急诊](https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E5%90%83%E8%92%B8%E5%8F%8C%E8%87%AD%E5%98%B4%E5%94%87%E5%8F%91%E7%B4%AB%E9%80%81%E6%80%A5%E8%AF%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [双胞胎兄弟高考同获688分](https://www.baidu.com/s?wd=%E5%8F%8C%E8%83%9E%E8%83%8E%E5%85%84%E5%BC%9F%E9%AB%98%E8%80%83%E5%90%8C%E8%8E%B7688%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [李嘉诚家族抄底内地房企项目](https://www.baidu.com/s?wd=%E6%9D%8E%E5%98%89%E8%AF%9A%E5%AE%B6%E6%97%8F%E6%8A%84%E5%BA%95%E5%86%85%E5%9C%B0%E6%88%BF%E4%BC%81%E9%A1%B9%E7%9B%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [四川26岁女孩下网约车后失联](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D26%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%B8%8B%E7%BD%91%E7%BA%A6%E8%BD%A6%E5%90%8E%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [妇联回应女子2年被老公家暴16次](https://www.baidu.com/s?wd=%E5%A6%87%E8%81%94%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%902%E5%B9%B4%E8%A2%AB%E8%80%81%E5%85%AC%E5%AE%B6%E6%9A%B416%E6%AC%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [一家三口吃蒸双臭嘴唇发紫送急诊](https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E5%90%83%E8%92%B8%E5%8F%8C%E8%87%AD%E5%98%B4%E5%94%87%E5%8F%91%E7%B4%AB%E9%80%81%E6%80%A5%E8%AF%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [双胞胎兄弟高考同获688分](https://www.baidu.com/s?wd=%E5%8F%8C%E8%83%9E%E8%83%8E%E5%85%84%E5%BC%9F%E9%AB%98%E8%80%83%E5%90%8C%E8%8E%B7688%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
