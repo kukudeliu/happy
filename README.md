@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 08:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 08:02:02</h4></div>
 
 > 微博  
 
@@ -18,11 +18,11 @@
 2. [女孩充电被电击内脏受损面临截肢，客服回应「适配器非原装」，导致电击原因是什么？如何看待涉事公司回应？](https://www.zhihu.com/question/608412173)<br />
 3. [据媒体报道，一些韩国航空公司暂停部分韩中航班，具体情况如何？背后原因有哪些？对中韩关系有何影响？](https://www.zhihu.com/question/608449825)<br />
 4. [17K 小说网创始人血酬离世，如何评价他的成绩？](https://www.zhihu.com/question/608360754)<br />
-5. [杭州亚运会电竞集训队最终入选名单公示，如何评价《英雄联盟》项目名单？](https://www.zhihu.com/question/608619700)<br />
-6. [消息称美情报部门 6 月中旬已得知瓦格纳计划，如何看待这一消息的真实性？透露了哪些信息？](https://www.zhihu.com/question/608485451)<br />
-7. [古代为什么晚上要打更？](https://www.zhihu.com/question/25742121)<br />
-8. [国务院成立宁夏银川富洋烧烤店「6·21」特别重大燃气爆炸事故调查组，有哪些信息值得关注？](https://www.zhihu.com/question/608439574)<br />
-9. [如何看待第 28 届白玉兰奖获奖名单《狂飙》三提零中？](https://www.zhihu.com/question/608166845)<br />
+5. [范志毅谈贵州「村超」火爆，「纯粹的足球不带有任何色彩，踢得很开心」，如何看待他的观点？](https://www.zhihu.com/question/608517517)<br />
+6. [土匪在山上是靠什么生存的？](https://www.zhihu.com/question/599176505)<br />
+7. [杭州亚运会电竞集训队最终入选名单公示，如何评价《英雄联盟》项目名单？](https://www.zhihu.com/question/608619700)<br />
+8. [古代为什么晚上要打更？](https://www.zhihu.com/question/25742121)<br />
+9. [消息称美情报部门 6 月中旬已得知瓦格纳计划，如何看待这一消息的真实性？透露了哪些信息？](https://www.zhihu.com/question/608485451)<br />
 
 > 百度  
 
