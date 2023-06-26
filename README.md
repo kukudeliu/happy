@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 17:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 17:05:02</h4></div>
 
 > 微博  
 
-1. [经纪人回应张雪峰被强制送医](https://s.weibo.com/weibo?q=%23%E7%BB%8F%E7%BA%AA%E4%BA%BA%E5%9B%9E%E5%BA%94%E5%BC%A0%E9%9B%AA%E5%B3%B0%E8%A2%AB%E5%BC%BA%E5%88%B6%E9%80%81%E5%8C%BB%23&t=31&band_rank=1&Refer=top)<br />
-2. [齐思钧 身体一直没有彻底康复](https://s.weibo.com/weibo?q=%E9%BD%90%E6%80%9D%E9%92%A7%20%E8%BA%AB%E4%BD%93%E4%B8%80%E7%9B%B4%E6%B2%A1%E6%9C%89%E5%BD%BB%E5%BA%95%E5%BA%B7%E5%A4%8D&t=31&band_rank=2&Refer=top)<br />
+1. [齐思钧 身体一直没有彻底康复](https://s.weibo.com/weibo?q=%E9%BD%90%E6%80%9D%E9%92%A7%20%E8%BA%AB%E4%BD%93%E4%B8%80%E7%9B%B4%E6%B2%A1%E6%9C%89%E5%BD%BB%E5%BA%95%E5%BA%B7%E5%A4%8D&t=31&band_rank=1&Refer=top)<br />
+2. [经纪人回应张雪峰被强制送医](https://s.weibo.com/weibo?q=%23%E7%BB%8F%E7%BA%AA%E4%BA%BA%E5%9B%9E%E5%BA%94%E5%BC%A0%E9%9B%AA%E5%B3%B0%E8%A2%AB%E5%BC%BA%E5%88%B6%E9%80%81%E5%8C%BB%23&t=31&band_rank=2&Refer=top)<br />
 3. [高质量发展调研行](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E8%B0%83%E7%A0%94%E8%A1%8C%23&t=31&band_rank=3&Refer=top)<br />
 4. [蔡徐坤回应和歌迷互动](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E5%9B%9E%E5%BA%94%E5%92%8C%E6%AD%8C%E8%BF%B7%E4%BA%92%E5%8A%A8%23&t=31&band_rank=4&Refer=top)<br />
 5. [二十三岁的恋爱](https://s.weibo.com/weibo?q=%E4%BA%8C%E5%8D%81%E4%B8%89%E5%B2%81%E7%9A%84%E6%81%8B%E7%88%B1&t=31&band_rank=5&Refer=top)<br />
