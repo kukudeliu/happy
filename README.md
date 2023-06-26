@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 11:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 11:05:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [张萌问张铎十年了你行了吗](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%90%8C%E9%97%AE%E5%BC%A0%E9%93%8E%E5%8D%81%E5%B9%B4%E4%BA%86%E4%BD%A0%E8%A1%8C%E4%BA%86%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [A股](https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=7&Refer=top)<br />
 8. [你的童年报复性补偿行为](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%9A%84%E7%AB%A5%E5%B9%B4%E6%8A%A5%E5%A4%8D%E6%80%A7%E8%A1%A5%E5%81%BF%E8%A1%8C%E4%B8%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [长风渡网播断更](https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%A3%8E%E6%B8%A1%E7%BD%91%E6%92%AD%E6%96%AD%E6%9B%B4%23&t=31&band_rank=9&Refer=top)<br />
+9. [你上班第一个月工资有多少](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%B8%8A%E7%8F%AD%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%9C%88%E5%B7%A5%E8%B5%84%E6%9C%89%E5%A4%9A%E5%B0%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -21,8 +21,8 @@
 5. [范志毅谈贵州「村超」火爆，「纯粹的足球不带有任何色彩，踢得很开心」，如何看待他的观点？](https://www.zhihu.com/question/608517517)<br />
 6. [看哪些纪录片可以提高认知？](https://www.zhihu.com/question/599621146)<br />
 7. [姆巴佩要拿多少奖项，历史地位能超过 C 罗?](https://www.zhihu.com/question/608025000)<br />
-8. [怎样提高《英雄联盟》玩打野的水平？](https://www.zhihu.com/question/311304482)<br />
-9. [梅西参加马克西 - 罗德里格斯告别战，上半场任意球破门 + 帽子戏法，全场为他唱生日歌，如何评价他的表现？](https://www.zhihu.com/question/608398892)<br />
+8. []()<br />
+9. [怎样提高《英雄联盟》玩打野的水平？](https://www.zhihu.com/question/311304482)<br />
 
 > 百度  
 
