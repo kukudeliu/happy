@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 11:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 11:23:01</h4></div>
 
 > 微博  
 
@@ -32,9 +32,9 @@
 4. [在希望的田野上](https://www.baidu.com/s?wd=%E5%9C%A8%E5%B8%8C%E6%9C%9B%E7%9A%84%E7%94%B0%E9%87%8E%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [知情人：蔡徐坤一夜情致女方怀孕](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%EF%BC%9A%E8%94%A1%E5%BE%90%E5%9D%A4%E4%B8%80%E5%A4%9C%E6%83%85%E8%87%B4%E5%A5%B3%E6%96%B9%E6%80%80%E5%AD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [老师凡尔赛全班仅3人没上600分](https://www.baidu.com/s?wd=%E8%80%81%E5%B8%88%E5%87%A1%E5%B0%94%E8%B5%9B%E5%85%A8%E7%8F%AD%E4%BB%853%E4%BA%BA%E6%B2%A1%E4%B8%8A600%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [警方通报男童被武术俱乐部教练打死](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E7%AB%A5%E8%A2%AB%E6%AD%A6%E6%9C%AF%E4%BF%B1%E4%B9%90%E9%83%A8%E6%95%99%E7%BB%83%E6%89%93%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子欠1.7亿巨债仍住豪宅养女友](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%AC%A01.7%E4%BA%BF%E5%B7%A8%E5%80%BA%E4%BB%8D%E4%BD%8F%E8%B1%AA%E5%AE%85%E5%85%BB%E5%A5%B3%E5%8F%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [2022年中央财政赤字26500亿元](https://www.baidu.com/s?wd=2022%E5%B9%B4%E4%B8%AD%E5%A4%AE%E8%B4%A2%E6%94%BF%E8%B5%A4%E5%AD%9726500%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [小米首款轿车被曝14.99万起售](https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E9%A6%96%E6%AC%BE%E8%BD%BF%E8%BD%A6%E8%A2%AB%E6%9B%9D14.99%E4%B8%87%E8%B5%B7%E5%94%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [警方通报男童被武术俱乐部教练打死](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E7%AB%A5%E8%A2%AB%E6%AD%A6%E6%9C%AF%E4%BF%B1%E4%B9%90%E9%83%A8%E6%95%99%E7%BB%83%E6%89%93%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子欠1.7亿巨债仍住豪宅养女友](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%AC%A01.7%E4%BA%BF%E5%B7%A8%E5%80%BA%E4%BB%8D%E4%BD%8F%E8%B1%AA%E5%AE%85%E5%85%BB%E5%A5%B3%E5%8F%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [在希望的田野上](https://www.baidu.com/s?wd=%E5%9C%A8%E5%B8%8C%E6%9C%9B%E7%9A%84%E7%94%B0%E9%87%8E%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [知情人：蔡徐坤一夜情致女方怀孕](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%EF%BC%9A%E8%94%A1%E5%BE%90%E5%9D%A4%E4%B8%80%E5%A4%9C%E6%83%85%E8%87%B4%E5%A5%B3%E6%96%B9%E6%80%80%E5%AD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [老师凡尔赛全班仅3人没上600分](https://www.baidu.com/s?wd=%E8%80%81%E5%B8%88%E5%87%A1%E5%B0%94%E8%B5%9B%E5%85%A8%E7%8F%AD%E4%BB%853%E4%BA%BA%E6%B2%A1%E4%B8%8A600%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [警方通报男童被武术俱乐部教练打死](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E7%AB%A5%E8%A2%AB%E6%AD%A6%E6%9C%AF%E4%BF%B1%E4%B9%90%E9%83%A8%E6%95%99%E7%BB%83%E6%89%93%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子欠1.7亿巨债仍住豪宅养女友](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%AC%A01.7%E4%BA%BF%E5%B7%A8%E5%80%BA%E4%BB%8D%E4%BD%8F%E8%B1%AA%E5%AE%85%E5%85%BB%E5%A5%B3%E5%8F%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [2022年中央财政赤字26500亿元](https://www.baidu.com/s?wd=2022%E5%B9%B4%E4%B8%AD%E5%A4%AE%E8%B4%A2%E6%94%BF%E8%B5%A4%E5%AD%9726500%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [小米首款轿车被曝14.99万起售](https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E9%A6%96%E6%AC%BE%E8%BD%BF%E8%BD%A6%E8%A2%AB%E6%9B%9D14.99%E4%B8%87%E8%B5%B7%E5%94%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [警方通报男童被武术俱乐部教练打死](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E7%AB%A5%E8%A2%AB%E6%AD%A6%E6%9C%AF%E4%BF%B1%E4%B9%90%E9%83%A8%E6%95%99%E7%BB%83%E6%89%93%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子欠1.7亿巨债仍住豪宅养女友](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%AC%A01.7%E4%BA%BF%E5%B7%A8%E5%80%BA%E4%BB%8D%E4%BD%8F%E8%B1%AA%E5%AE%85%E5%85%BB%E5%A5%B3%E5%8F%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
