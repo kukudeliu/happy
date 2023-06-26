@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 03:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 03:45:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [王暖暖](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%9A%96%E6%9A%96&t=31&band_rank=6&Refer=top)<br />
 7. [妹妹考了702分却哭了一下午](https://s.weibo.com/weibo?q=%23%E5%A6%B9%E5%A6%B9%E8%80%83%E4%BA%86702%E5%88%86%E5%8D%B4%E5%93%AD%E4%BA%86%E4%B8%80%E4%B8%8B%E5%8D%88%23&t=31&band_rank=7&Refer=top)<br />
 8. [原来外卖店铺照片可以造假](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E5%A4%96%E5%8D%96%E5%BA%97%E9%93%BA%E7%85%A7%E7%89%87%E5%8F%AF%E4%BB%A5%E9%80%A0%E5%81%87&t=31&band_rank=8&Refer=top)<br />
-9. [张艺兴新片官方账号被禁言](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E6%96%B0%E7%89%87%E5%AE%98%E6%96%B9%E8%B4%A6%E5%8F%B7%E8%A2%AB%E7%A6%81%E8%A8%80%23&t=31&band_rank=9&Refer=top)<br />
+9. [32岁硕士带8岁儿子参加毕业典礼](https://s.weibo.com/weibo?q=%2332%E5%B2%81%E7%A1%95%E5%A3%AB%E5%B8%A68%E5%B2%81%E5%84%BF%E5%AD%90%E5%8F%82%E5%8A%A0%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -21,8 +21,8 @@
 5. [在岸人民币跌破 7.23，日内跌近 400 点，最低触及 7.2339，如何解读这一走势？](https://www.zhihu.com/question/608737327)<br />
 6. [韩外长称没理由与中国「结怨交恶」，外交部回应「中韩关系稳定发展符合双方利益」，如何看待韩方态度的转变？](https://www.zhihu.com/question/608737881)<br />
 7. [为反制日本，普京签令将 9 月 3 日更名为「对日本军国主义战争胜利日」，更名对俄日两国意味着什么？](https://www.zhihu.com/question/608582404)<br />
-8. [2022 年中央财政赤字 26500 亿元与预算持平，审计发现失业补助被蚕食等问题，哪些信息值得关注？](https://www.zhihu.com/question/608671302)<br />
-9. []()<br />
+8. []()<br />
+9. [胡锡进宣布进入 A 股，李大霄提建议「先买基金再买股票，如需要可共同研究」，哪些信息值得关注？](https://www.zhihu.com/question/608754081)<br />
 
 > 百度  
 
