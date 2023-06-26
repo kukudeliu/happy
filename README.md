@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 16:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 16:04:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [不要再对瘦子说你好瘦了](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%A6%81%E5%86%8D%E5%AF%B9%E7%98%A6%E5%AD%90%E8%AF%B4%E4%BD%A0%E5%A5%BD%E7%98%A6%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [消失的她 畸形秀](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%20%E7%95%B8%E5%BD%A2%E7%A7%80&t=31&band_rank=6&Refer=top)<br />
 7. [张雪峰对于学医的观点](https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%AF%B9%E4%BA%8E%E5%AD%A6%E5%8C%BB%E7%9A%84%E8%A7%82%E7%82%B9&t=31&band_rank=7&Refer=top)<br />
-8. [男子欠1.7亿仍住豪宅养女友](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%AC%A01.7%E4%BA%BF%E4%BB%8D%E4%BD%8F%E8%B1%AA%E5%AE%85%E5%85%BB%E5%A5%B3%E5%8F%8B%23&t=31&band_rank=8&Refer=top)<br />
-9. [那就清华呗](https://s.weibo.com/weibo?q=%23%E9%82%A3%E5%B0%B1%E6%B8%85%E5%8D%8E%E5%91%97%23&t=31&band_rank=9&Refer=top)<br />
+8. [那就清华呗](https://s.weibo.com/weibo?q=%23%E9%82%A3%E5%B0%B1%E6%B8%85%E5%8D%8E%E5%91%97%23&t=31&band_rank=8&Refer=top)<br />
+9. [男子欠1.7亿仍住豪宅养女友](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%AC%A01.7%E4%BA%BF%E4%BB%8D%E4%BD%8F%E8%B1%AA%E5%AE%85%E5%85%BB%E5%A5%B3%E5%8F%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
