@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 17:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 17:07:01</h4></div>
 
 > 微博  
 
@@ -30,7 +30,7 @@
 2. [浙江的分数线真的奇高无比吗？](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E7%9A%84%E5%88%86%E6%95%B0%E7%BA%BF%E7%9C%9F%E7%9A%84%E5%A5%87%E9%AB%98%E6%97%A0%E6%AF%94%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [经纪人回应张雪峰被强制送医](https://www.baidu.com/s?wd=%E7%BB%8F%E7%BA%AA%E4%BA%BA%E5%9B%9E%E5%BA%94%E5%BC%A0%E9%9B%AA%E5%B3%B0%E8%A2%AB%E5%BC%BA%E5%88%B6%E9%80%81%E5%8C%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“千万工程”一张蓝图绘到底](https://www.baidu.com/s?wd=%E2%80%9C%E5%8D%83%E4%B8%87%E5%B7%A5%E7%A8%8B%E2%80%9D%E4%B8%80%E5%BC%A0%E8%93%9D%E5%9B%BE%E7%BB%98%E5%88%B0%E5%BA%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [警方通报男童被武术俱乐部教练打死](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E7%AB%A5%E8%A2%AB%E6%AD%A6%E6%9C%AF%E4%BF%B1%E4%B9%90%E9%83%A8%E6%95%99%E7%BB%83%E6%89%93%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [胡锡进：已开一个股票账户](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%EF%BC%9A%E5%B7%B2%E5%BC%80%E4%B8%80%E4%B8%AA%E8%82%A1%E7%A5%A8%E8%B4%A6%E6%88%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [被家长持长杆追打 男孩从5楼跳下](https://www.baidu.com/s?wd=%E8%A2%AB%E5%AE%B6%E9%95%BF%E6%8C%81%E9%95%BF%E6%9D%86%E8%BF%BD%E6%89%93+%E7%94%B7%E5%AD%A9%E4%BB%8E5%E6%A5%BC%E8%B7%B3%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [疑蔡徐坤母亲安排女方堕胎录音曝光](https://www.baidu.com/s?wd=%E7%96%91%E8%94%A1%E5%BE%90%E5%9D%A4%E6%AF%8D%E4%BA%B2%E5%AE%89%E6%8E%92%E5%A5%B3%E6%96%B9%E5%A0%95%E8%83%8E%E5%BD%95%E9%9F%B3%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [蔡徐坤周边被粉丝光速甩卖](https://www.baidu.com/s?wd=%E8%94%A1%E5%BE%90%E5%9D%A4%E5%91%A8%E8%BE%B9%E8%A2%AB%E7%B2%89%E4%B8%9D%E5%85%89%E9%80%9F%E7%94%A9%E5%8D%96&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -42,7 +42,7 @@
 2. [浙江的分数线真的奇高无比吗？](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E7%9A%84%E5%88%86%E6%95%B0%E7%BA%BF%E7%9C%9F%E7%9A%84%E5%A5%87%E9%AB%98%E6%97%A0%E6%AF%94%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [经纪人回应张雪峰被强制送医](https://www.baidu.com/s?wd=%E7%BB%8F%E7%BA%AA%E4%BA%BA%E5%9B%9E%E5%BA%94%E5%BC%A0%E9%9B%AA%E5%B3%B0%E8%A2%AB%E5%BC%BA%E5%88%B6%E9%80%81%E5%8C%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“千万工程”一张蓝图绘到底](https://www.baidu.com/s?wd=%E2%80%9C%E5%8D%83%E4%B8%87%E5%B7%A5%E7%A8%8B%E2%80%9D%E4%B8%80%E5%BC%A0%E8%93%9D%E5%9B%BE%E7%BB%98%E5%88%B0%E5%BA%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [警方通报男童被武术俱乐部教练打死](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E7%AB%A5%E8%A2%AB%E6%AD%A6%E6%9C%AF%E4%BF%B1%E4%B9%90%E9%83%A8%E6%95%99%E7%BB%83%E6%89%93%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [胡锡进：已开一个股票账户](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%EF%BC%9A%E5%B7%B2%E5%BC%80%E4%B8%80%E4%B8%AA%E8%82%A1%E7%A5%A8%E8%B4%A6%E6%88%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [被家长持长杆追打 男孩从5楼跳下](https://www.baidu.com/s?wd=%E8%A2%AB%E5%AE%B6%E9%95%BF%E6%8C%81%E9%95%BF%E6%9D%86%E8%BF%BD%E6%89%93+%E7%94%B7%E5%AD%A9%E4%BB%8E5%E6%A5%BC%E8%B7%B3%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [疑蔡徐坤母亲安排女方堕胎录音曝光](https://www.baidu.com/s?wd=%E7%96%91%E8%94%A1%E5%BE%90%E5%9D%A4%E6%AF%8D%E4%BA%B2%E5%AE%89%E6%8E%92%E5%A5%B3%E6%96%B9%E5%A0%95%E8%83%8E%E5%BD%95%E9%9F%B3%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [蔡徐坤周边被粉丝光速甩卖](https://www.baidu.com/s?wd=%E8%94%A1%E5%BE%90%E5%9D%A4%E5%91%A8%E8%BE%B9%E8%A2%AB%E7%B2%89%E4%B8%9D%E5%85%89%E9%80%9F%E7%94%A9%E5%8D%96&sa=fyb_news&rsv_dl=fyb_news)<br />
