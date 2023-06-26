@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 13:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 13:57:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [张萌问张铎十年了你行了吗](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%90%8C%E9%97%AE%E5%BC%A0%E9%93%8E%E5%8D%81%E5%B9%B4%E4%BA%86%E4%BD%A0%E8%A1%8C%E4%BA%86%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [从胃炎到胃癌](https://s.weibo.com/weibo?q=%E4%BB%8E%E8%83%83%E7%82%8E%E5%88%B0%E8%83%83%E7%99%8C&t=31&band_rank=7&Refer=top)<br />
 8. [那就清华呗](https://s.weibo.com/weibo?q=%23%E9%82%A3%E5%B0%B1%E6%B8%85%E5%8D%8E%E5%91%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [男子欠1.7亿仍住豪宅养女友](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%AC%A01.7%E4%BA%BF%E4%BB%8D%E4%BD%8F%E8%B1%AA%E5%AE%85%E5%85%BB%E5%A5%B3%E5%8F%8B%23&t=31&band_rank=9&Refer=top)<br />
+9. [刘芸管控郑钧从头到脚](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%8A%B8%E7%AE%A1%E6%8E%A7%E9%83%91%E9%92%A7%E4%BB%8E%E5%A4%B4%E5%88%B0%E8%84%9A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -19,7 +19,7 @@
 3. [蔡徐坤被曝「曾让 C 女士独自去医院打胎」，真实情况可能如何？如何看待此事？](https://www.zhihu.com/question/608690464)<br />
 4. [李嘉诚家族被指「趁火打劫」连续抄底两上市房企自救关键项目，此举出于什么战略考量？](https://www.zhihu.com/question/608665319)<br />
 5. [瓦格纳雇佣兵集团人员从俄罗斯南部两个州撤离，这意味着什么？目前当地具体情况如何？](https://www.zhihu.com/question/608666410)<br />
-6. []()<br />
+6. [杭州亚运会电竞集训队最终入选名单公示，如何评价《王者荣耀》项目名单？](https://www.zhihu.com/question/608619934)<br />
 7. [如今的德玛西亚凭什么和诺克萨斯抗衡？](https://www.zhihu.com/question/484996882)<br />
 8. [高铁选座位的时候，你更倾向于什么座位？理由是什么？](https://www.zhihu.com/question/606948403)<br />
 9. [人在什么情况下才会大彻大悟？](https://www.zhihu.com/question/472285403)<br />
