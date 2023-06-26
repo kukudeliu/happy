@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 07:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 07:39:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [韦唯大儿子清华硕士毕业](https://www.baidu.com/s?wd=%E9%9F%A6%E5%94%AF%E5%A4%A7%E5%84%BF%E5%AD%90%E6%B8%85%E5%8D%8E%E7%A1%95%E5%A3%AB%E6%AF%95%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [16岁学生校内服毒身亡 因卖烟遭霸凌](https://www.baidu.com/s?wd=16%E5%B2%81%E5%AD%A6%E7%94%9F%E6%A0%A1%E5%86%85%E6%9C%8D%E6%AF%92%E8%BA%AB%E4%BA%A1+%E5%9B%A0%E5%8D%96%E7%83%9F%E9%81%AD%E9%9C%B8%E5%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [复旦毕业生简历衣着暴露？校方回应](https://www.baidu.com/s?wd=%E5%A4%8D%E6%97%A6%E6%AF%95%E4%B8%9A%E7%94%9F%E7%AE%80%E5%8E%86%E8%A1%A3%E7%9D%80%E6%9A%B4%E9%9C%B2%EF%BC%9F%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [瓦格纳事件后普京首次露面讲话](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E4%BA%8B%E4%BB%B6%E5%90%8E%E6%99%AE%E4%BA%AC%E9%A6%96%E6%AC%A1%E9%9C%B2%E9%9D%A2%E8%AE%B2%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [普里戈任讲述叛乱当天经过](https://www.baidu.com/s?wd=%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E8%AE%B2%E8%BF%B0%E5%8F%9B%E4%B9%B1%E5%BD%93%E5%A4%A9%E7%BB%8F%E8%BF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [韦唯大儿子清华硕士毕业](https://www.baidu.com/s?wd=%E9%9F%A6%E5%94%AF%E5%A4%A7%E5%84%BF%E5%AD%90%E6%B8%85%E5%8D%8E%E7%A1%95%E5%A3%AB%E6%AF%95%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [16岁学生校内服毒身亡 因卖烟遭霸凌](https://www.baidu.com/s?wd=16%E5%B2%81%E5%AD%A6%E7%94%9F%E6%A0%A1%E5%86%85%E6%9C%8D%E6%AF%92%E8%BA%AB%E4%BA%A1+%E5%9B%A0%E5%8D%96%E7%83%9F%E9%81%AD%E9%9C%B8%E5%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [复旦毕业生简历衣着暴露？校方回应](https://www.baidu.com/s?wd=%E5%A4%8D%E6%97%A6%E6%AF%95%E4%B8%9A%E7%94%9F%E7%AE%80%E5%8E%86%E8%A1%A3%E7%9D%80%E6%9A%B4%E9%9C%B2%EF%BC%9F%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [瓦格纳事件后普京首次露面讲话](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E4%BA%8B%E4%BB%B6%E5%90%8E%E6%99%AE%E4%BA%AC%E9%A6%96%E6%AC%A1%E9%9C%B2%E9%9D%A2%E8%AE%B2%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [普里戈任讲述叛乱当天经过](https://www.baidu.com/s?wd=%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E8%AE%B2%E8%BF%B0%E5%8F%9B%E4%B9%B1%E5%BD%93%E5%A4%A9%E7%BB%8F%E8%BF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
