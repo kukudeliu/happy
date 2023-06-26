@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 17:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 17:30:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [2022 年中央财政赤字 26500 亿元与预算持平，审计发现失业补助被蚕食等问题，哪些信息值得关注？](https://www.zhihu.com/question/608671302)<br />
 5. [高考完想换两万的游戏本，爸妈觉得太贵，准大学生想用两万的游戏本奢侈吗？](https://www.zhihu.com/question/606787090)<br />
 6. [如何评价 6 月 26 日亮相的 vivo X90s ，有哪些亮点和不足？](https://www.zhihu.com/question/608663741)<br />
-7. [《绝区零》主控选哥哥还是选妹妹？](https://www.zhihu.com/question/608515926)<br />
-8. [电影《消失的她》陈麦提到「东南亚妻子消失然后出现在畸形秀的事件」有何深意？](https://www.zhihu.com/question/608103252)<br />
-9. [发布半年的 vivo X90 系列在 3.5-5K 价位段销量仍第一，你看好中期改款的 X90s 吗？](https://www.zhihu.com/question/608663958)<br />
+7. [电影《消失的她》陈麦提到「东南亚妻子消失然后出现在畸形秀的事件」有何深意？](https://www.zhihu.com/question/608103252)<br />
+8. [发布半年的 vivo X90 系列在 3.5-5K 价位段销量仍第一，你看好中期改款的 X90s 吗？](https://www.zhihu.com/question/608663958)<br />
+9. [如果有人把氨气成本降低到一毛钱五十吨，他能拿诺贝尔化学奖吗？](https://www.zhihu.com/question/606420864)<br />
 
 > 百度  
 
