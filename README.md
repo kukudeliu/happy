@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 22:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 22:55:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [我国拟立法保障粮食安全](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E6%8B%9F%E7%AB%8B%E6%B3%95%E4%BF%9D%E9%9A%9C%E7%B2%AE%E9%A3%9F%E5%AE%89%E5%85%A8%23&t=31&band_rank=3&Refer=top)<br />
 4. [新京报评偷偷藏不住](https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%BA%AC%E6%8A%A5%E8%AF%84%E5%81%B7%E5%81%B7%E8%97%8F%E4%B8%8D%E4%BD%8F%23&t=31&band_rank=4&Refer=top)<br />
 5. [消失的她](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9&t=31&band_rank=5&Refer=top)<br />
-6. [蔡徐坤回应和歌迷互动](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E5%9B%9E%E5%BA%94%E5%92%8C%E6%AD%8C%E8%BF%B7%E4%BA%92%E5%8A%A8%23&t=31&band_rank=6&Refer=top)<br />
-7. [澳洲爆发恐校症](https://s.weibo.com/weibo?q=%E6%BE%B3%E6%B4%B2%E7%88%86%E5%8F%91%E6%81%90%E6%A0%A1%E7%97%87&t=31&band_rank=7&Refer=top)<br />
+6. [澳洲爆发恐校症](https://s.weibo.com/weibo?q=%E6%BE%B3%E6%B4%B2%E7%88%86%E5%8F%91%E6%81%90%E6%A0%A1%E7%97%87&t=31&band_rank=6&Refer=top)<br />
+7. [蔡徐坤回应和歌迷互动](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E5%9B%9E%E5%BA%94%E5%92%8C%E6%AD%8C%E8%BF%B7%E4%BA%92%E5%8A%A8%23&t=31&band_rank=7&Refer=top)<br />
 8. [当我被00后下属骂了](https://s.weibo.com/weibo?q=%E5%BD%93%E6%88%91%E8%A2%AB00%E5%90%8E%E4%B8%8B%E5%B1%9E%E9%AA%82%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [齐思钧 身体一直没有彻底康复](https://s.weibo.com/weibo?q=%E9%BD%90%E6%80%9D%E9%92%A7%20%E8%BA%AB%E4%BD%93%E4%B8%80%E7%9B%B4%E6%B2%A1%E6%9C%89%E5%BD%BB%E5%BA%95%E5%BA%B7%E5%A4%8D&t=31&band_rank=9&Refer=top)<br />
+9. [32岁硕士带8岁儿子参加毕业典礼](https://s.weibo.com/weibo?q=%2332%E5%B2%81%E7%A1%95%E5%A3%AB%E5%B8%A68%E5%B2%81%E5%84%BF%E5%AD%90%E5%8F%82%E5%8A%A0%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
