@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 00:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 00:46:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [张艺兴新片官方账号被禁言](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E6%96%B0%E7%89%87%E5%AE%98%E6%96%B9%E8%B4%A6%E5%8F%B7%E8%A2%AB%E7%A6%81%E8%A8%80%23&t=31&band_rank=6&Refer=top)<br />
 7. [妹妹考了702分却哭了一下午](https://s.weibo.com/weibo?q=%23%E5%A6%B9%E5%A6%B9%E8%80%83%E4%BA%86702%E5%88%86%E5%8D%B4%E5%93%AD%E4%BA%86%E4%B8%80%E4%B8%8B%E5%8D%88%23&t=31&band_rank=7&Refer=top)<br />
 8. [新京报评偷偷藏不住](https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%BA%AC%E6%8A%A5%E8%AF%84%E5%81%B7%E5%81%B7%E8%97%8F%E4%B8%8D%E4%BD%8F%23&t=31&band_rank=8&Refer=top)<br />
-9. [原来外卖店铺照片可以造假](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E5%A4%96%E5%8D%96%E5%BA%97%E9%93%BA%E7%85%A7%E7%89%87%E5%8F%AF%E4%BB%A5%E9%80%A0%E5%81%87&t=31&band_rank=9&Refer=top)<br />
+9. [32岁硕士带8岁儿子参加毕业典礼](https://s.weibo.com/weibo?q=%2332%E5%B2%81%E7%A1%95%E5%A3%AB%E5%B8%A68%E5%B2%81%E5%84%BF%E5%AD%90%E5%8F%82%E5%8A%A0%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
