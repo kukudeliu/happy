@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 20:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 20:06:01</h4></div>
 
 > 微博  
 
-1. [齐思钧 身体一直没有彻底康复](https://s.weibo.com/weibo?q=%E9%BD%90%E6%80%9D%E9%92%A7%20%E8%BA%AB%E4%BD%93%E4%B8%80%E7%9B%B4%E6%B2%A1%E6%9C%89%E5%BD%BB%E5%BA%95%E5%BA%B7%E5%A4%8D&t=31&band_rank=1&Refer=top)<br />
-2. [澳洲爆发恐校症](https://s.weibo.com/weibo?q=%E6%BE%B3%E6%B4%B2%E7%88%86%E5%8F%91%E6%81%90%E6%A0%A1%E7%97%87&t=31&band_rank=2&Refer=top)<br />
+1. [澳洲爆发恐校症](https://s.weibo.com/weibo?q=%E6%BE%B3%E6%B4%B2%E7%88%86%E5%8F%91%E6%81%90%E6%A0%A1%E7%97%87&t=31&band_rank=1&Refer=top)<br />
+2. [齐思钧 身体一直没有彻底康复](https://s.weibo.com/weibo?q=%E9%BD%90%E6%80%9D%E9%92%A7%20%E8%BA%AB%E4%BD%93%E4%B8%80%E7%9B%B4%E6%B2%A1%E6%9C%89%E5%BD%BB%E5%BA%95%E5%BA%B7%E5%A4%8D&t=31&band_rank=2&Refer=top)<br />
 3. [高质量发展调研行](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E8%B0%83%E7%A0%94%E8%A1%8C%23&t=31&band_rank=3&Refer=top)<br />
 4. [蔡徐坤回应和歌迷互动](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E5%9B%9E%E5%BA%94%E5%92%8C%E6%AD%8C%E8%BF%B7%E4%BA%92%E5%8A%A8%23&t=31&band_rank=4&Refer=top)<br />
 5. [男孩估分700结果真考700分](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E4%BC%B0%E5%88%86700%E7%BB%93%E6%9E%9C%E7%9C%9F%E8%80%83700%E5%88%86%23&t=31&band_rank=5&Refer=top)<br />
@@ -31,9 +31,9 @@
 3. [胡锡进自称正式进入中国股市](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%E8%87%AA%E7%A7%B0%E6%AD%A3%E5%BC%8F%E8%BF%9B%E5%85%A5%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“千万工程”一张蓝图绘到底](https://www.baidu.com/s?wd=%E2%80%9C%E5%8D%83%E4%B8%87%E5%B7%A5%E7%A8%8B%E2%80%9D%E4%B8%80%E5%BC%A0%E8%93%9D%E5%9B%BE%E7%BB%98%E5%88%B0%E5%BA%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [韩方称从未想过和中国结怨 中方回应](https://www.baidu.com/s?wd=%E9%9F%A9%E6%96%B9%E7%A7%B0%E4%BB%8E%E6%9C%AA%E6%83%B3%E8%BF%87%E5%92%8C%E4%B8%AD%E5%9B%BD%E7%BB%93%E6%80%A8+%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [东京电车有人挥刀东北大哥挺身而出](https://www.baidu.com/s?wd=%E4%B8%9C%E4%BA%AC%E7%94%B5%E8%BD%A6%E6%9C%89%E4%BA%BA%E6%8C%A5%E5%88%80%E4%B8%9C%E5%8C%97%E5%A4%A7%E5%93%A5%E6%8C%BA%E8%BA%AB%E8%80%8C%E5%87%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [男童被打跳楼 妇联:不小心掉下来的](https://www.baidu.com/s?wd=%E7%94%B7%E7%AB%A5%E8%A2%AB%E6%89%93%E8%B7%B3%E6%A5%BC+%E5%A6%87%E8%81%94%3A%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%8E%89%E4%B8%8B%E6%9D%A5%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [江小宴爆料蔡徐坤第二弹](https://www.baidu.com/s?wd=%E6%B1%9F%E5%B0%8F%E5%AE%B4%E7%88%86%E6%96%99%E8%94%A1%E5%BE%90%E5%9D%A4%E7%AC%AC%E4%BA%8C%E5%BC%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男童被打跳楼 妇联:不小心掉下来的](https://www.baidu.com/s?wd=%E7%94%B7%E7%AB%A5%E8%A2%AB%E6%89%93%E8%B7%B3%E6%A5%BC+%E5%A6%87%E8%81%94%3A%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%8E%89%E4%B8%8B%E6%9D%A5%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [东京电车有人挥刀东北大哥挺身而出](https://www.baidu.com/s?wd=%E4%B8%9C%E4%BA%AC%E7%94%B5%E8%BD%A6%E6%9C%89%E4%BA%BA%E6%8C%A5%E5%88%80%E4%B8%9C%E5%8C%97%E5%A4%A7%E5%93%A5%E6%8C%BA%E8%BA%AB%E8%80%8C%E5%87%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [蔡徐坤及蔡母曾被警方传唤](https://www.baidu.com/s?wd=%E8%94%A1%E5%BE%90%E5%9D%A4%E5%8F%8A%E8%94%A1%E6%AF%8D%E6%9B%BE%E8%A2%AB%E8%AD%A6%E6%96%B9%E4%BC%A0%E5%94%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -43,7 +43,7 @@
 3. [胡锡进自称正式进入中国股市](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%E8%87%AA%E7%A7%B0%E6%AD%A3%E5%BC%8F%E8%BF%9B%E5%85%A5%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“千万工程”一张蓝图绘到底](https://www.baidu.com/s?wd=%E2%80%9C%E5%8D%83%E4%B8%87%E5%B7%A5%E7%A8%8B%E2%80%9D%E4%B8%80%E5%BC%A0%E8%93%9D%E5%9B%BE%E7%BB%98%E5%88%B0%E5%BA%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [韩方称从未想过和中国结怨 中方回应](https://www.baidu.com/s?wd=%E9%9F%A9%E6%96%B9%E7%A7%B0%E4%BB%8E%E6%9C%AA%E6%83%B3%E8%BF%87%E5%92%8C%E4%B8%AD%E5%9B%BD%E7%BB%93%E6%80%A8+%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [东京电车有人挥刀东北大哥挺身而出](https://www.baidu.com/s?wd=%E4%B8%9C%E4%BA%AC%E7%94%B5%E8%BD%A6%E6%9C%89%E4%BA%BA%E6%8C%A5%E5%88%80%E4%B8%9C%E5%8C%97%E5%A4%A7%E5%93%A5%E6%8C%BA%E8%BA%AB%E8%80%8C%E5%87%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [男童被打跳楼 妇联:不小心掉下来的](https://www.baidu.com/s?wd=%E7%94%B7%E7%AB%A5%E8%A2%AB%E6%89%93%E8%B7%B3%E6%A5%BC+%E5%A6%87%E8%81%94%3A%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%8E%89%E4%B8%8B%E6%9D%A5%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [江小宴爆料蔡徐坤第二弹](https://www.baidu.com/s?wd=%E6%B1%9F%E5%B0%8F%E5%AE%B4%E7%88%86%E6%96%99%E8%94%A1%E5%BE%90%E5%9D%A4%E7%AC%AC%E4%BA%8C%E5%BC%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男童被打跳楼 妇联:不小心掉下来的](https://www.baidu.com/s?wd=%E7%94%B7%E7%AB%A5%E8%A2%AB%E6%89%93%E8%B7%B3%E6%A5%BC+%E5%A6%87%E8%81%94%3A%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%8E%89%E4%B8%8B%E6%9D%A5%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [东京电车有人挥刀东北大哥挺身而出](https://www.baidu.com/s?wd=%E4%B8%9C%E4%BA%AC%E7%94%B5%E8%BD%A6%E6%9C%89%E4%BA%BA%E6%8C%A5%E5%88%80%E4%B8%9C%E5%8C%97%E5%A4%A7%E5%93%A5%E6%8C%BA%E8%BA%AB%E8%80%8C%E5%87%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [蔡徐坤及蔡母曾被警方传唤](https://www.baidu.com/s?wd=%E8%94%A1%E5%BE%90%E5%9D%A4%E5%8F%8A%E8%94%A1%E6%AF%8D%E6%9B%BE%E8%A2%AB%E8%AD%A6%E6%96%B9%E4%BC%A0%E5%94%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
