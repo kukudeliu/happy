@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 10:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 10:27:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [律师称拒聘川大毕业生是明显的就业歧视](https://s.weibo.com/weibo?q=%23%E5%BE%8B%E5%B8%88%E7%A7%B0%E6%8B%92%E8%81%98%E5%B7%9D%E5%A4%A7%E6%AF%95%E4%B8%9A%E7%94%9F%E6%98%AF%E6%98%8E%E6%98%BE%E7%9A%84%E5%B0%B1%E4%B8%9A%E6%AD%A7%E8%A7%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [张萌问张铎十年了你行了吗](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%90%8C%E9%97%AE%E5%BC%A0%E9%93%8E%E5%8D%81%E5%B9%B4%E4%BA%86%E4%BD%A0%E8%A1%8C%E4%BA%86%E5%90%97%23&t=31&band_rank=5&Refer=top)<br />
 6. [赵露思露腰了](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E9%9C%B2%E8%85%B0%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [为什么医院不让家属陪护只能请护工](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8C%BB%E9%99%A2%E4%B8%8D%E8%AE%A9%E5%AE%B6%E5%B1%9E%E9%99%AA%E6%8A%A4%E5%8F%AA%E8%83%BD%E8%AF%B7%E6%8A%A4%E5%B7%A5%23&t=31&band_rank=7&Refer=top)<br />
-8. [长风渡网播断更](https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%A3%8E%E6%B8%A1%E7%BD%91%E6%92%AD%E6%96%AD%E6%9B%B4%23&t=31&band_rank=8&Refer=top)<br />
-9. [A股](https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=9&Refer=top)<br />
+7. [A股](https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=7&Refer=top)<br />
+8. [为什么医院不让家属陪护只能请护工](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8C%BB%E9%99%A2%E4%B8%8D%E8%AE%A9%E5%AE%B6%E5%B1%9E%E9%99%AA%E6%8A%A4%E5%8F%AA%E8%83%BD%E8%AF%B7%E6%8A%A4%E5%B7%A5%23&t=31&band_rank=8&Refer=top)<br />
+9. [长风渡网播断更](https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%A3%8E%E6%B8%A1%E7%BD%91%E6%92%AD%E6%96%AD%E6%9B%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
