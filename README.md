@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 11:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 11:11:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [订婚宴后母亲大发雷霆，要求分手该怎么办？](https://www.zhihu.com/question/608274088)<br />
 7. [怎样提高《英雄联盟》玩打野的水平？](https://www.zhihu.com/question/311304482)<br />
 8. [梅西参加马克西 - 罗德里格斯告别战，上半场任意球破门 + 帽子戏法，全场为他唱生日歌，如何评价他的表现？](https://www.zhihu.com/question/608398892)<br />
-9. [范志毅谈贵州「村超」火爆，「纯粹的足球不带有任何色彩，踢得很开心」，如何看待他的观点？](https://www.zhihu.com/question/608517517)<br />
+9. [为什么神经网络会存在灾难性遗忘 (catastrophic forgetting) 这个问题？](https://www.zhihu.com/question/265056068)<br />
 
 > 百度  
 
