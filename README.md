@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 14:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 14:38:01</h4></div>
 
 > 微博  
 
@@ -31,9 +31,9 @@
 3. [警方通报男童被武术俱乐部教练打死](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E7%AB%A5%E8%A2%AB%E6%AD%A6%E6%9C%AF%E4%BF%B1%E4%B9%90%E9%83%A8%E6%95%99%E7%BB%83%E6%89%93%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [战斗在缉毒战场最前沿](https://www.baidu.com/s?wd=%E6%88%98%E6%96%97%E5%9C%A8%E7%BC%89%E6%AF%92%E6%88%98%E5%9C%BA%E6%9C%80%E5%89%8D%E6%B2%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [李嘉诚95后孙女李思德正式亮相](https://www.baidu.com/s?wd=%E6%9D%8E%E5%98%89%E8%AF%9A95%E5%90%8E%E5%AD%99%E5%A5%B3%E6%9D%8E%E6%80%9D%E5%BE%B7%E6%AD%A3%E5%BC%8F%E4%BA%AE%E7%9B%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [甘肃酒泉一餐饮店液化气爆炸](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E9%85%92%E6%B3%89%E4%B8%80%E9%A4%90%E9%A5%AE%E5%BA%97%E6%B6%B2%E5%8C%96%E6%B0%94%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [父亲让女儿把带“人民”志愿都报上](https://www.baidu.com/s?wd=%E7%88%B6%E4%BA%B2%E8%AE%A9%E5%A5%B3%E5%84%BF%E6%8A%8A%E5%B8%A6%E2%80%9C%E4%BA%BA%E6%B0%91%E2%80%9D%E5%BF%97%E6%84%BF%E9%83%BD%E6%8A%A5%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [疑蔡徐坤母亲安排女方堕胎录音曝光](https://www.baidu.com/s?wd=%E7%96%91%E8%94%A1%E5%BE%90%E5%9D%A4%E6%AF%8D%E4%BA%B2%E5%AE%89%E6%8E%92%E5%A5%B3%E6%96%B9%E5%A0%95%E8%83%8E%E5%BD%95%E9%9F%B3%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [父亲让女儿把带“人民”志愿都报上](https://www.baidu.com/s?wd=%E7%88%B6%E4%BA%B2%E8%AE%A9%E5%A5%B3%E5%84%BF%E6%8A%8A%E5%B8%A6%E2%80%9C%E4%BA%BA%E6%B0%91%E2%80%9D%E5%BF%97%E6%84%BF%E9%83%BD%E6%8A%A5%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [甘肃酒泉一餐饮店液化气爆炸](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E9%85%92%E6%B3%89%E4%B8%80%E9%A4%90%E9%A5%AE%E5%BA%97%E6%B6%B2%E5%8C%96%E6%B0%94%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [C女士露面并拿出打胎档案](https://www.baidu.com/s?wd=C%E5%A5%B3%E5%A3%AB%E9%9C%B2%E9%9D%A2%E5%B9%B6%E6%8B%BF%E5%87%BA%E6%89%93%E8%83%8E%E6%A1%A3%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -43,7 +43,7 @@
 3. [警方通报男童被武术俱乐部教练打死](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E7%AB%A5%E8%A2%AB%E6%AD%A6%E6%9C%AF%E4%BF%B1%E4%B9%90%E9%83%A8%E6%95%99%E7%BB%83%E6%89%93%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [战斗在缉毒战场最前沿](https://www.baidu.com/s?wd=%E6%88%98%E6%96%97%E5%9C%A8%E7%BC%89%E6%AF%92%E6%88%98%E5%9C%BA%E6%9C%80%E5%89%8D%E6%B2%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [李嘉诚95后孙女李思德正式亮相](https://www.baidu.com/s?wd=%E6%9D%8E%E5%98%89%E8%AF%9A95%E5%90%8E%E5%AD%99%E5%A5%B3%E6%9D%8E%E6%80%9D%E5%BE%B7%E6%AD%A3%E5%BC%8F%E4%BA%AE%E7%9B%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [甘肃酒泉一餐饮店液化气爆炸](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E9%85%92%E6%B3%89%E4%B8%80%E9%A4%90%E9%A5%AE%E5%BA%97%E6%B6%B2%E5%8C%96%E6%B0%94%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [父亲让女儿把带“人民”志愿都报上](https://www.baidu.com/s?wd=%E7%88%B6%E4%BA%B2%E8%AE%A9%E5%A5%B3%E5%84%BF%E6%8A%8A%E5%B8%A6%E2%80%9C%E4%BA%BA%E6%B0%91%E2%80%9D%E5%BF%97%E6%84%BF%E9%83%BD%E6%8A%A5%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [疑蔡徐坤母亲安排女方堕胎录音曝光](https://www.baidu.com/s?wd=%E7%96%91%E8%94%A1%E5%BE%90%E5%9D%A4%E6%AF%8D%E4%BA%B2%E5%AE%89%E6%8E%92%E5%A5%B3%E6%96%B9%E5%A0%95%E8%83%8E%E5%BD%95%E9%9F%B3%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [父亲让女儿把带“人民”志愿都报上](https://www.baidu.com/s?wd=%E7%88%B6%E4%BA%B2%E8%AE%A9%E5%A5%B3%E5%84%BF%E6%8A%8A%E5%B8%A6%E2%80%9C%E4%BA%BA%E6%B0%91%E2%80%9D%E5%BF%97%E6%84%BF%E9%83%BD%E6%8A%A5%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [甘肃酒泉一餐饮店液化气爆炸](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E9%85%92%E6%B3%89%E4%B8%80%E9%A4%90%E9%A5%AE%E5%BA%97%E6%B6%B2%E5%8C%96%E6%B0%94%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [C女士露面并拿出打胎档案](https://www.baidu.com/s?wd=C%E5%A5%B3%E5%A3%AB%E9%9C%B2%E9%9D%A2%E5%B9%B6%E6%8B%BF%E5%87%BA%E6%89%93%E8%83%8E%E6%A1%A3%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
