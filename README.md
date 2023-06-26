@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 21:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 21:55:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [新京报评偷偷藏不住](https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%BA%AC%E6%8A%A5%E8%AF%84%E5%81%B7%E5%81%B7%E8%97%8F%E4%B8%8D%E4%BD%8F%23&t=31&band_rank=4&Refer=top)<br />
 5. [健身教练吸毒一个多月暴瘦70斤](https://s.weibo.com/weibo?q=%23%E5%81%A5%E8%BA%AB%E6%95%99%E7%BB%83%E5%90%B8%E6%AF%92%E4%B8%80%E4%B8%AA%E5%A4%9A%E6%9C%88%E6%9A%B4%E7%98%A670%E6%96%A4%23&t=31&band_rank=5&Refer=top)<br />
 6. [朱一龙心里万了一骂句](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E5%BF%83%E9%87%8C%E4%B8%87%E4%BA%86%E4%B8%80%E9%AA%82%E5%8F%A5%23&t=31&band_rank=6&Refer=top)<br />
-7. [澳洲爆发恐校症](https://s.weibo.com/weibo?q=%E6%BE%B3%E6%B4%B2%E7%88%86%E5%8F%91%E6%81%90%E6%A0%A1%E7%97%87&t=31&band_rank=7&Refer=top)<br />
+7. [蔡徐坤回应和歌迷互动](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E5%9B%9E%E5%BA%94%E5%92%8C%E6%AD%8C%E8%BF%B7%E4%BA%92%E5%8A%A8%23&t=31&band_rank=7&Refer=top)<br />
 8. [消失的她](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9&t=31&band_rank=8&Refer=top)<br />
-9. [蔡徐坤回应和歌迷互动](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E5%9B%9E%E5%BA%94%E5%92%8C%E6%AD%8C%E8%BF%B7%E4%BA%92%E5%8A%A8%23&t=31&band_rank=9&Refer=top)<br />
+9. [澳洲爆发恐校症](https://s.weibo.com/weibo?q=%E6%BE%B3%E6%B4%B2%E7%88%86%E5%8F%91%E6%81%90%E6%A0%A1%E7%97%87&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -18,7 +18,7 @@
 2. [李嘉诚家族被指「趁火打劫」连续抄底两上市房企自救关键项目，此举出于什么战略考量？](https://www.zhihu.com/question/608665319)<br />
 3. [电影《消失的她》陈麦提到「东南亚妻子消失然后出现在畸形秀的事件」有何深意？](https://www.zhihu.com/question/608103252)<br />
 4. [2022 年中央财政赤字 26500 亿元与预算持平，审计发现失业补助被蚕食等问题，哪些信息值得关注？](https://www.zhihu.com/question/608671302)<br />
-5. [40℃ 高温明天再上线，这股热浪还要持续多久？](https://www.zhihu.com/theater/94771)<br />
+5. [北方 40℃ 高温明天再上线，到底什么时候才能凉快一些？](https://www.zhihu.com/theater/94771)<br />
 6. [胡锡进宣布进入 A 股，李大霄提建议「先买基金再买股票，如需要可共同研究」，哪些信息值得关注？](https://www.zhihu.com/question/608754081)<br />
 7. [为反制日本，普京签令将 9 月 3 日更名为「对日本军国主义战争胜利日」，更名对俄日两国意味着什么？](https://www.zhihu.com/question/608582404)<br />
 8. [在岸人民币跌破 7.23，日内跌近 400 点，最低触及 7.2339，如何解读这一走势？](https://www.zhihu.com/question/608737327)<br />
