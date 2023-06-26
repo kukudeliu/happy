@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 13:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 13:05:02</h4></div>
 
 > 微博  
 
 1. [人彘](https://s.weibo.com/weibo?q=%E4%BA%BA%E5%BD%98&t=31&band_rank=1&Refer=top)<br />
-2. [男子欠1.7亿仍住豪宅养女友](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%AC%A01.7%E4%BA%BF%E4%BB%8D%E4%BD%8F%E8%B1%AA%E5%AE%85%E5%85%BB%E5%A5%B3%E5%8F%8B%23&t=31&band_rank=2&Refer=top)<br />
+2. [那就清华呗](https://s.weibo.com/weibo?q=%23%E9%82%A3%E5%B0%B1%E6%B8%85%E5%8D%8E%E5%91%97%23&t=31&band_rank=2&Refer=top)<br />
 3. [毕业典礼能多有仪式感](https://s.weibo.com/weibo?q=%23%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E8%83%BD%E5%A4%9A%E6%9C%89%E4%BB%AA%E5%BC%8F%E6%84%9F%23&t=31&band_rank=3&Refer=top)<br />
-4. [不要再对瘦子说你好瘦了](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%A6%81%E5%86%8D%E5%AF%B9%E7%98%A6%E5%AD%90%E8%AF%B4%E4%BD%A0%E5%A5%BD%E7%98%A6%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
-5. [那就清华呗](https://s.weibo.com/weibo?q=%23%E9%82%A3%E5%B0%B1%E6%B8%85%E5%8D%8E%E5%91%97%23&t=31&band_rank=5&Refer=top)<br />
+4. [男子欠1.7亿仍住豪宅养女友](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%AC%A01.7%E4%BA%BF%E4%BB%8D%E4%BD%8F%E8%B1%AA%E5%AE%85%E5%85%BB%E5%A5%B3%E5%8F%8B%23&t=31&band_rank=4&Refer=top)<br />
+5. [不要再对瘦子说你好瘦了](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%A6%81%E5%86%8D%E5%AF%B9%E7%98%A6%E5%AD%90%E8%AF%B4%E4%BD%A0%E5%A5%BD%E7%98%A6%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [蔡徐坤甩外套](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E7%94%A9%E5%A4%96%E5%A5%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [消失的她 畸形秀](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%20%E7%95%B8%E5%BD%A2%E7%A7%80&t=31&band_rank=7&Refer=top)<br />
 8. [蔡徐坤回应和歌迷互动](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E5%9B%9E%E5%BA%94%E5%92%8C%E6%AD%8C%E8%BF%B7%E4%BA%92%E5%8A%A8%23&t=31&band_rank=8&Refer=top)<br />
@@ -17,10 +17,10 @@
 1. [女孩充电被电击内脏受损面临截肢，客服回应「适配器非原装」，导致电击原因是什么？如何看待涉事公司回应？](https://www.zhihu.com/question/608412173)<br />
 2. [由于对川大处理不满，北京一律所不再招聘川大毕业生，并回应称「并非就业歧视」，如何看待律所的做法？](https://www.zhihu.com/question/608664630)<br />
 3. [莫迪访美之行收获满满，亚马逊谷歌加码投资印度，并呼吁全球公司进行「印度制造」，哪些信息值得关注？](https://www.zhihu.com/question/608567391)<br />
-4. [跟老公吵架，带着孩子回娘家住，弟媳故意把饭菜做的很少不够吃，还跟小孩子抢零食吃，弟弟还不管她怎么办?](https://www.zhihu.com/question/607614275)<br />
-5. [瓦格纳雇佣兵集团人员从俄罗斯南部两个州撤离，这意味着什么？目前当地具体情况如何？](https://www.zhihu.com/question/608666410)<br />
+4. [瓦格纳雇佣兵集团人员从俄罗斯南部两个州撤离，这意味着什么？目前当地具体情况如何？](https://www.zhihu.com/question/608666410)<br />
+5. [跟老公吵架，带着孩子回娘家住，弟媳故意把饭菜做的很少不够吃，还跟小孩子抢零食吃，弟弟还不管她怎么办?](https://www.zhihu.com/question/607614275)<br />
 6. [订婚宴后母亲大发雷霆，要求分手该怎么办？](https://www.zhihu.com/question/608274088)<br />
-7. [李嘉诚家族连续抄底内地房企项目，取道汇丰围猎地王，将对龙光和合景造成巨大影响，释放了哪些信号？](https://www.zhihu.com/question/608665319)<br />
+7. [李嘉诚家族连续抄底内地房企项目，围猎地王，将对龙光和合景造成巨大影响，李嘉诚的这次抄底释放了哪些信号？](https://www.zhihu.com/question/608665319)<br />
 8. [Open AI 与多家教育科技公司合作建构人工智能适应性学习系统，推进教育「天下大同」能带来变革吗？](https://www.zhihu.com/question/608671199)<br />
 9. []()<br />
 
