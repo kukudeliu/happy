@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 14:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 14:52:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [蔡徐坤回应和歌迷互动](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E5%9B%9E%E5%BA%94%E5%92%8C%E6%AD%8C%E8%BF%B7%E4%BA%92%E5%8A%A8%23&t=31&band_rank=4&Refer=top)<br />
 5. [刘芸管控郑钧从头到脚](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%8A%B8%E7%AE%A1%E6%8E%A7%E9%83%91%E9%92%A7%E4%BB%8E%E5%A4%B4%E5%88%B0%E8%84%9A%23&t=31&band_rank=5&Refer=top)<br />
 6. [不要再对瘦子说你好瘦了](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%A6%81%E5%86%8D%E5%AF%B9%E7%98%A6%E5%AD%90%E8%AF%B4%E4%BD%A0%E5%A5%BD%E7%98%A6%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [网传8岁男童被武术教练打死](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A08%E5%B2%81%E7%94%B7%E7%AB%A5%E8%A2%AB%E6%AD%A6%E6%9C%AF%E6%95%99%E7%BB%83%E6%89%93%E6%AD%BB%23&t=31&band_rank=7&Refer=top)<br />
-8. [男子欠1.7亿仍住豪宅养女友](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%AC%A01.7%E4%BA%BF%E4%BB%8D%E4%BD%8F%E8%B1%AA%E5%AE%85%E5%85%BB%E5%A5%B3%E5%8F%8B%23&t=31&band_rank=8&Refer=top)<br />
+7. [男子欠1.7亿仍住豪宅养女友](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%AC%A01.7%E4%BA%BF%E4%BB%8D%E4%BD%8F%E8%B1%AA%E5%AE%85%E5%85%BB%E5%A5%B3%E5%8F%8B%23&t=31&band_rank=7&Refer=top)<br />
+8. [网传8岁男童被武术教练打死](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A08%E5%B2%81%E7%94%B7%E7%AB%A5%E8%A2%AB%E6%AD%A6%E6%9C%AF%E6%95%99%E7%BB%83%E6%89%93%E6%AD%BB%23&t=31&band_rank=8&Refer=top)<br />
 9. [张雪峰对于学医的观点](https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%AF%B9%E4%BA%8E%E5%AD%A6%E5%8C%BB%E7%9A%84%E8%A7%82%E7%82%B9&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
