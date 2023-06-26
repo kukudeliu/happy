@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 09:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 09:27:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [这些都是野鸡大学](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%9B%E9%83%BD%E6%98%AF%E9%87%8E%E9%B8%A1%E5%A4%A7%E5%AD%A6%23&t=31&band_rank=6&Refer=top)<br />
 7. [俄官方首次发布普京在克宫处置危机画面](https://s.weibo.com/weibo?q=%23%E4%BF%84%E5%AE%98%E6%96%B9%E9%A6%96%E6%AC%A1%E5%8F%91%E5%B8%83%E6%99%AE%E4%BA%AC%E5%9C%A8%E5%85%8B%E5%AE%AB%E5%A4%84%E7%BD%AE%E5%8D%B1%E6%9C%BA%E7%94%BB%E9%9D%A2%23&t=31&band_rank=7&Refer=top)<br />
 8. [女孩高考成绩被屏蔽4天小字显示全省前50](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E8%A2%AB%E5%B1%8F%E8%94%BD4%E5%A4%A9%E5%B0%8F%E5%AD%97%E6%98%BE%E7%A4%BA%E5%85%A8%E7%9C%81%E5%89%8D50%23&t=31&band_rank=8&Refer=top)<br />
-9. [普通人的一生究竟有多难](https://s.weibo.com/weibo?q=%23%E6%99%AE%E9%80%9A%E4%BA%BA%E7%9A%84%E4%B8%80%E7%94%9F%E7%A9%B6%E7%AB%9F%E6%9C%89%E5%A4%9A%E9%9A%BE%23&t=31&band_rank=9&Refer=top)<br />
+9. [现在的吃播真的令我手足无措](https://s.weibo.com/weibo?q=%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%90%83%E6%92%AD%E7%9C%9F%E7%9A%84%E4%BB%A4%E6%88%91%E6%89%8B%E8%B6%B3%E6%97%A0%E6%8E%AA&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -20,8 +20,8 @@
 4. [范志毅谈贵州「村超」火爆，「纯粹的足球不带有任何色彩，踢得很开心」，如何看待他的观点？](https://www.zhihu.com/question/608517517)<br />
 5. [土匪在山上是靠什么生存的？](https://www.zhihu.com/question/599176505)<br />
 6. [好特卖大量开店，盒马奥莱加速发展，临期店成创投圈热门赛道，为啥临期产品受欢迎？](https://www.zhihu.com/question/608567329)<br />
-7. [据媒体报道，一些韩国航空公司暂停部分韩中航班，具体情况如何？背后原因有哪些？对中韩关系有何影响？](https://www.zhihu.com/question/608449825)<br />
-8. [看哪些纪录片可以提高认知？](https://www.zhihu.com/question/599621146)<br />
+7. [看哪些纪录片可以提高认知？](https://www.zhihu.com/question/599621146)<br />
+8. [据媒体报道，一些韩国航空公司暂停部分韩中航班，具体情况如何？背后原因有哪些？对中韩关系有何影响？](https://www.zhihu.com/question/608449825)<br />
 9. [姆巴佩要拿多少奖项，历史地位能超过 C 罗?](https://www.zhihu.com/question/608025000)<br />
 
 > 百度  
