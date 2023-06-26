@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 12:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 12:47:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [瓦格纳雇佣兵集团人员从俄罗斯南部两个州撤离，这意味着什么？目前当地具体情况如何？](https://www.zhihu.com/question/608666410)<br />
 6. [订婚宴后母亲大发雷霆，要求分手该怎么办？](https://www.zhihu.com/question/608274088)<br />
 7. [为什么神经网络会存在灾难性遗忘 (catastrophic forgetting) 这个问题？](https://www.zhihu.com/question/265056068)<br />
-8. [「奶酪越多，奶酪孔越多。奶酪孔越多，奶酪越少。所以奶酪越多，奶酪越少。」这句话的逻辑错误在哪里?](https://www.zhihu.com/question/526941332)<br />
-9. [Open AI 与多家教育科技公司合作建构人工智能适应性学习系统，推进教育「天下大同」能带来变革吗？](https://www.zhihu.com/question/608671199)<br />
+8. [Open AI 与多家教育科技公司合作建构人工智能适应性学习系统，推进教育「天下大同」能带来变革吗？](https://www.zhihu.com/question/608671199)<br />
+9. [如今的德玛西亚凭什么和诺克萨斯抗衡？](https://www.zhihu.com/question/484996882)<br />
 
 > 百度  
 
