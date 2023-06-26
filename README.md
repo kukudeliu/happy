@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 17:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 17:40:02</h4></div>
 
 > 微博  
 
@@ -33,7 +33,7 @@
 5. [被家长持长杆追打 男孩从5楼跳下](https://www.baidu.com/s?wd=%E8%A2%AB%E5%AE%B6%E9%95%BF%E6%8C%81%E9%95%BF%E6%9D%86%E8%BF%BD%E6%89%93+%E7%94%B7%E5%AD%A9%E4%BB%8E5%E6%A5%BC%E8%B7%B3%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [经纪人回应张雪峰被强制送医](https://www.baidu.com/s?wd=%E7%BB%8F%E7%BA%AA%E4%BA%BA%E5%9B%9E%E5%BA%94%E5%BC%A0%E9%9B%AA%E5%B3%B0%E8%A2%AB%E5%BC%BA%E5%88%B6%E9%80%81%E5%8C%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [疑蔡徐坤母亲安排女方堕胎录音曝光](https://www.baidu.com/s?wd=%E7%96%91%E8%94%A1%E5%BE%90%E5%9D%A4%E6%AF%8D%E4%BA%B2%E5%AE%89%E6%8E%92%E5%A5%B3%E6%96%B9%E5%A0%95%E8%83%8E%E5%BD%95%E9%9F%B3%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [四川26岁失联女子遗体在岷江找到](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D26%E5%B2%81%E5%A4%B1%E8%81%94%E5%A5%B3%E5%AD%90%E9%81%97%E4%BD%93%E5%9C%A8%E5%B2%B7%E6%B1%9F%E6%89%BE%E5%88%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [死在武术俱乐部的孩子，遭遇了什么](https://www.baidu.com/s?wd=%E6%AD%BB%E5%9C%A8%E6%AD%A6%E6%9C%AF%E4%BF%B1%E4%B9%90%E9%83%A8%E7%9A%84%E5%AD%A9%E5%AD%90%EF%BC%8C%E9%81%AD%E9%81%87%E4%BA%86%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [C女士露面并拿出打胎档案](https://www.baidu.com/s?wd=C%E5%A5%B3%E5%A3%AB%E9%9C%B2%E9%9D%A2%E5%B9%B6%E6%8B%BF%E5%87%BA%E6%89%93%E8%83%8E%E6%A1%A3%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [被家长持长杆追打 男孩从5楼跳下](https://www.baidu.com/s?wd=%E8%A2%AB%E5%AE%B6%E9%95%BF%E6%8C%81%E9%95%BF%E6%9D%86%E8%BF%BD%E6%89%93+%E7%94%B7%E5%AD%A9%E4%BB%8E5%E6%A5%BC%E8%B7%B3%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [经纪人回应张雪峰被强制送医](https://www.baidu.com/s?wd=%E7%BB%8F%E7%BA%AA%E4%BA%BA%E5%9B%9E%E5%BA%94%E5%BC%A0%E9%9B%AA%E5%B3%B0%E8%A2%AB%E5%BC%BA%E5%88%B6%E9%80%81%E5%8C%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [疑蔡徐坤母亲安排女方堕胎录音曝光](https://www.baidu.com/s?wd=%E7%96%91%E8%94%A1%E5%BE%90%E5%9D%A4%E6%AF%8D%E4%BA%B2%E5%AE%89%E6%8E%92%E5%A5%B3%E6%96%B9%E5%A0%95%E8%83%8E%E5%BD%95%E9%9F%B3%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [四川26岁失联女子遗体在岷江找到](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D26%E5%B2%81%E5%A4%B1%E8%81%94%E5%A5%B3%E5%AD%90%E9%81%97%E4%BD%93%E5%9C%A8%E5%B2%B7%E6%B1%9F%E6%89%BE%E5%88%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [死在武术俱乐部的孩子，遭遇了什么](https://www.baidu.com/s?wd=%E6%AD%BB%E5%9C%A8%E6%AD%A6%E6%9C%AF%E4%BF%B1%E4%B9%90%E9%83%A8%E7%9A%84%E5%AD%A9%E5%AD%90%EF%BC%8C%E9%81%AD%E9%81%87%E4%BA%86%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [C女士露面并拿出打胎档案](https://www.baidu.com/s?wd=C%E5%A5%B3%E5%A3%AB%E9%9C%B2%E9%9D%A2%E5%B9%B6%E6%8B%BF%E5%87%BA%E6%89%93%E8%83%8E%E6%A1%A3%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
