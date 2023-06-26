@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 08:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 08:33:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [世界互联网大会数字文明尼山对话](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A%E6%95%B0%E5%AD%97%E6%96%87%E6%98%8E%E5%B0%BC%E5%B1%B1%E5%AF%B9%E8%AF%9D%23&t=31&band_rank=3&Refer=top)<br />
 4. [女孩高考成绩被屏蔽4天小字显示全省前50](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E8%A2%AB%E5%B1%8F%E8%94%BD4%E5%A4%A9%E5%B0%8F%E5%AD%97%E6%98%BE%E7%A4%BA%E5%85%A8%E7%9C%81%E5%89%8D50%23&t=31&band_rank=4&Refer=top)<br />
 5. [亚运会英雄联盟中国队最终名单](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E4%BC%9A%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E4%B8%AD%E5%9B%BD%E9%98%9F%E6%9C%80%E7%BB%88%E5%90%8D%E5%8D%95%23&t=31&band_rank=5&Refer=top)<br />
-6. [690分学霸采访中接到清华电话](https://s.weibo.com/weibo?q=%23690%E5%88%86%E5%AD%A6%E9%9C%B8%E9%87%87%E8%AE%BF%E4%B8%AD%E6%8E%A5%E5%88%B0%E6%B8%85%E5%8D%8E%E7%94%B5%E8%AF%9D%23&t=31&band_rank=6&Refer=top)<br />
-7. [原来是何非拔掉的氧气罐](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%98%AF%E4%BD%95%E9%9D%9E%E6%8B%94%E6%8E%89%E7%9A%84%E6%B0%A7%E6%B0%94%E7%BD%90%23&t=31&band_rank=7&Refer=top)<br />
+6. [原来是何非拔掉的氧气罐](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%98%AF%E4%BD%95%E9%9D%9E%E6%8B%94%E6%8E%89%E7%9A%84%E6%B0%A7%E6%B0%94%E7%BD%90%23&t=31&band_rank=6&Refer=top)<br />
+7. [690分学霸采访中接到清华电话](https://s.weibo.com/weibo?q=%23690%E5%88%86%E5%AD%A6%E9%9C%B8%E9%87%87%E8%AE%BF%E4%B8%AD%E6%8E%A5%E5%88%B0%E6%B8%85%E5%8D%8E%E7%94%B5%E8%AF%9D%23&t=31&band_rank=7&Refer=top)<br />
 8. [现在的吃播真的令我手足无措](https://s.weibo.com/weibo?q=%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%90%83%E6%92%AD%E7%9C%9F%E7%9A%84%E4%BB%A4%E6%88%91%E6%89%8B%E8%B6%B3%E6%97%A0%E6%8E%AA&t=31&band_rank=8&Refer=top)<br />
 9. [普通人的一生究竟有多难](https://s.weibo.com/weibo?q=%23%E6%99%AE%E9%80%9A%E4%BA%BA%E7%9A%84%E4%B8%80%E7%94%9F%E7%A9%B6%E7%AB%9F%E6%9C%89%E5%A4%9A%E9%9A%BE%23&t=31&band_rank=9&Refer=top)<br />
 
