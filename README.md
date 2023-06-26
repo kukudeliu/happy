@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 19:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 19:48:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [夫妻欠债百万玩失踪老父亲凑钱还款](https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E6%AC%A0%E5%80%BA%E7%99%BE%E4%B8%87%E7%8E%A9%E5%A4%B1%E8%B8%AA%E8%80%81%E7%88%B6%E4%BA%B2%E5%87%91%E9%92%B1%E8%BF%98%E6%AC%BE%23&t=31&band_rank=5&Refer=top)<br />
 6. [四川26岁失联女子遗体被找到](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D26%E5%B2%81%E5%A4%B1%E8%81%94%E5%A5%B3%E5%AD%90%E9%81%97%E4%BD%93%E8%A2%AB%E6%89%BE%E5%88%B0%23&t=31&band_rank=6&Refer=top)<br />
 7. [缉毒警说不想再因缉毒而立功](https://s.weibo.com/weibo?q=%23%E7%BC%89%E6%AF%92%E8%AD%A6%E8%AF%B4%E4%B8%8D%E6%83%B3%E5%86%8D%E5%9B%A0%E7%BC%89%E6%AF%92%E8%80%8C%E7%AB%8B%E5%8A%9F%23&t=31&band_rank=7&Refer=top)<br />
-8. [男孩估分700结果真考700分](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E4%BC%B0%E5%88%86700%E7%BB%93%E6%9E%9C%E7%9C%9F%E8%80%83700%E5%88%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [二十三岁的恋爱](https://s.weibo.com/weibo?q=%E4%BA%8C%E5%8D%81%E4%B8%89%E5%B2%81%E7%9A%84%E6%81%8B%E7%88%B1&t=31&band_rank=9&Refer=top)<br />
+8. [二十三岁的恋爱](https://s.weibo.com/weibo?q=%E4%BA%8C%E5%8D%81%E4%B8%89%E5%B2%81%E7%9A%84%E6%81%8B%E7%88%B1&t=31&band_rank=8&Refer=top)<br />
+9. [男孩估分700结果真考700分](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E4%BC%B0%E5%88%86700%E7%BB%93%E6%9E%9C%E7%9C%9F%E8%80%83700%E5%88%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -19,8 +19,8 @@
 3. [李嘉诚家族被指「趁火打劫」连续抄底两上市房企自救关键项目，此举出于什么战略考量？](https://www.zhihu.com/question/608665319)<br />
 4. [2022 年中央财政赤字 26500 亿元与预算持平，审计发现失业补助被蚕食等问题，哪些信息值得关注？](https://www.zhihu.com/question/608671302)<br />
 5. [在岸人民币跌破 7.23，日内跌近 400 点，最低触及 7.2339，如何解读这一走势？](https://www.zhihu.com/question/608737327)<br />
-6. [高考完想换两万的游戏本，爸妈觉得太贵，准大学生想用两万的游戏本奢侈吗？](https://www.zhihu.com/question/606787090)<br />
-7. [电影《消失的她》陈麦提到「东南亚妻子消失然后出现在畸形秀的事件」有何深意？](https://www.zhihu.com/question/608103252)<br />
+6. [电影《消失的她》陈麦提到「东南亚妻子消失然后出现在畸形秀的事件」有何深意？](https://www.zhihu.com/question/608103252)<br />
+7. [高考完想换两万的游戏本，爸妈觉得太贵，准大学生想用两万的游戏本奢侈吗？](https://www.zhihu.com/question/606787090)<br />
 8. [日本球员三笘薰称「真感觉到了世界杯夺冠的可能，希望能被后世传颂」，你认为日本队能夺世界杯冠军吗？](https://www.zhihu.com/question/608592507)<br />
 9. [多地气温突破历史极值，电力供需形势偏紧，专家称「不可能再追求 100% 可靠供应」，如何看待这一现象？](https://www.zhihu.com/question/608733520)<br />
 
