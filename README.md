@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 21:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 21:36:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [蔡徐坤回应和歌迷互动](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E5%9B%9E%E5%BA%94%E5%92%8C%E6%AD%8C%E8%BF%B7%E4%BA%92%E5%8A%A8%23&t=31&band_rank=6&Refer=top)<br />
 7. [消失的她](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9&t=31&band_rank=7&Refer=top)<br />
 8. [二十三岁的恋爱](https://s.weibo.com/weibo?q=%E4%BA%8C%E5%8D%81%E4%B8%89%E5%B2%81%E7%9A%84%E6%81%8B%E7%88%B1&t=31&band_rank=8&Refer=top)<br />
-9. [周深美依礼芽合作上了](https://s.weibo.com/weibo?q=%E5%91%A8%E6%B7%B1%E7%BE%8E%E4%BE%9D%E7%A4%BC%E8%8A%BD%E5%90%88%E4%BD%9C%E4%B8%8A%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [WE零封TES](https://s.weibo.com/weibo?q=%23WE%E9%9B%B6%E5%B0%81TES%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
