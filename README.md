@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 04:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 04:05:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [妹妹考了702分却哭了一下午](https://s.weibo.com/weibo?q=%23%E5%A6%B9%E5%A6%B9%E8%80%83%E4%BA%86702%E5%88%86%E5%8D%B4%E5%93%AD%E4%BA%86%E4%B8%80%E4%B8%8B%E5%8D%88%23&t=31&band_rank=6&Refer=top)<br />
 7. [王暖暖](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%9A%96%E6%9A%96&t=31&band_rank=7&Refer=top)<br />
 8. [原来外卖店铺照片可以造假](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E5%A4%96%E5%8D%96%E5%BA%97%E9%93%BA%E7%85%A7%E7%89%87%E5%8F%AF%E4%BB%A5%E9%80%A0%E5%81%87&t=31&band_rank=8&Refer=top)<br />
-9. [32岁硕士带8岁儿子参加毕业典礼](https://s.weibo.com/weibo?q=%2332%E5%B2%81%E7%A1%95%E5%A3%AB%E5%B8%A68%E5%B2%81%E5%84%BF%E5%AD%90%E5%8F%82%E5%8A%A0%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%23&t=31&band_rank=9&Refer=top)<br />
+9. [消失的她](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -20,9 +20,9 @@
 4. [在岸人民币跌破 7.23，日内跌近 400 点，最低触及 7.2339，如何解读这一走势？](https://www.zhihu.com/question/608737327)<br />
 5. [韩外长称没理由与中国「结怨交恶」，外交部回应「中韩关系稳定发展符合双方利益」，如何看待韩方态度的转变？](https://www.zhihu.com/question/608737881)<br />
 6. []()<br />
-7. [胡锡进宣布进入 A 股，李大霄提建议「先买基金再买股票，如需要可共同研究」，哪些信息值得关注？](https://www.zhihu.com/question/608754081)<br />
+7. []()<br />
 8. []()<br />
-9. []()<br />
+9. [警方通报男童被打后跳下 5 楼，「男童多处骨折，肺部挫伤」，有哪些信息值得关注？](https://www.zhihu.com/question/608832311)<br />
 
 > 百度  
 
