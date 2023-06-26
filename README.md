@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 09:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 09:26:01</h4></div>
 
 > 微博  
 
-1. [为什么医院不让家属陪护只能请护工](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8C%BB%E9%99%A2%E4%B8%8D%E8%AE%A9%E5%AE%B6%E5%B1%9E%E9%99%AA%E6%8A%A4%E5%8F%AA%E8%83%BD%E8%AF%B7%E6%8A%A4%E5%B7%A5%23&t=31&band_rank=1&Refer=top)<br />
-2. [从胃炎到胃癌](https://s.weibo.com/weibo?q=%E4%BB%8E%E8%83%83%E7%82%8E%E5%88%B0%E8%83%83%E7%99%8C&t=31&band_rank=2&Refer=top)<br />
+1. [从胃炎到胃癌](https://s.weibo.com/weibo?q=%E4%BB%8E%E8%83%83%E7%82%8E%E5%88%B0%E8%83%83%E7%99%8C&t=31&band_rank=1&Refer=top)<br />
+2. [为什么医院不让家属陪护只能请护工](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8C%BB%E9%99%A2%E4%B8%8D%E8%AE%A9%E5%AE%B6%E5%B1%9E%E9%99%AA%E6%8A%A4%E5%8F%AA%E8%83%BD%E8%AF%B7%E6%8A%A4%E5%B7%A5%23&t=31&band_rank=2&Refer=top)<br />
 3. [世界互联网大会数字文明尼山对话](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A%E6%95%B0%E5%AD%97%E6%96%87%E6%98%8E%E5%B0%BC%E5%B1%B1%E5%AF%B9%E8%AF%9D%23&t=31&band_rank=3&Refer=top)<br />
 4. [消失的她 畸形秀](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%20%E7%95%B8%E5%BD%A2%E7%A7%80&t=31&band_rank=4&Refer=top)<br />
 5. [JackeyLove担任亚运会AD](https://s.weibo.com/weibo?q=%23JackeyLove%E6%8B%85%E4%BB%BB%E4%BA%9A%E8%BF%90%E4%BC%9AAD%23&t=31&band_rank=5&Refer=top)<br />
@@ -19,8 +19,8 @@
 3. [17K 小说网创始人血酬离世，如何评价他的成绩？](https://www.zhihu.com/question/608360754)<br />
 4. [范志毅谈贵州「村超」火爆，「纯粹的足球不带有任何色彩，踢得很开心」，如何看待他的观点？](https://www.zhihu.com/question/608517517)<br />
 5. [土匪在山上是靠什么生存的？](https://www.zhihu.com/question/599176505)<br />
-6. [据媒体报道，一些韩国航空公司暂停部分韩中航班，具体情况如何？背后原因有哪些？对中韩关系有何影响？](https://www.zhihu.com/question/608449825)<br />
-7. [好特卖大量开店，盒马奥莱加速发展，临期店成创投圈热门赛道，为啥临期产品受欢迎？](https://www.zhihu.com/question/608567329)<br />
+6. [好特卖大量开店，盒马奥莱加速发展，临期店成创投圈热门赛道，为啥临期产品受欢迎？](https://www.zhihu.com/question/608567329)<br />
+7. [据媒体报道，一些韩国航空公司暂停部分韩中航班，具体情况如何？背后原因有哪些？对中韩关系有何影响？](https://www.zhihu.com/question/608449825)<br />
 8. [看哪些纪录片可以提高认知？](https://www.zhihu.com/question/599621146)<br />
 9. [姆巴佩要拿多少奖项，历史地位能超过 C 罗?](https://www.zhihu.com/question/608025000)<br />
 
