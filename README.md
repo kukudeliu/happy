@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 21:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 21:15:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [蔡徐坤回应和歌迷互动](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E5%9B%9E%E5%BA%94%E5%92%8C%E6%AD%8C%E8%BF%B7%E4%BA%92%E5%8A%A8%23&t=31&band_rank=6&Refer=top)<br />
 7. [二十三岁的恋爱](https://s.weibo.com/weibo?q=%E4%BA%8C%E5%8D%81%E4%B8%89%E5%B2%81%E7%9A%84%E6%81%8B%E7%88%B1&t=31&band_rank=7&Refer=top)<br />
 8. [男孩估分700结果真考700分](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E4%BC%B0%E5%88%86700%E7%BB%93%E6%9E%9C%E7%9C%9F%E8%80%83700%E5%88%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [消失的她 海边牵手照](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%20%E6%B5%B7%E8%BE%B9%E7%89%B5%E6%89%8B%E7%85%A7&t=31&band_rank=9&Refer=top)<br />
+9. [朱一龙心里万了一骂句](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E5%BF%83%E9%87%8C%E4%B8%87%E4%BA%86%E4%B8%80%E9%AA%82%E5%8F%A5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -19,10 +19,10 @@
 3. [2022 年中央财政赤字 26500 亿元与预算持平，审计发现失业补助被蚕食等问题，哪些信息值得关注？](https://www.zhihu.com/question/608671302)<br />
 4. [电影《消失的她》陈麦提到「东南亚妻子消失然后出现在畸形秀的事件」有何深意？](https://www.zhihu.com/question/608103252)<br />
 5. [今年夏天还会更热吗？为什么今年北方比南方还热？](https://www.zhihu.com/theater/94771)<br />
-6. [多地气温突破历史极值，电力供需形势偏紧，专家称「不可能再追求 100% 可靠供应」，如何看待这一现象？](https://www.zhihu.com/question/608733520)<br />
-7. [外交部回应瓦格纳集团事件，称中方支持俄罗斯维护国家稳定，中俄各层级保持着密切良好的沟通，透露哪些信息？](https://www.zhihu.com/question/608734294)<br />
-8. [胡锡进宣布进入 A 股，李大霄提建议「先买基金再买股票，如需要可共同研究」，哪些信息值得关注？](https://www.zhihu.com/question/608754081)<br />
-9. [日本球员三笘薰称「真感觉到了世界杯夺冠的可能，希望能被后世传颂」，你认为日本队能夺世界杯冠军吗？](https://www.zhihu.com/question/608592507)<br />
+6. [外交部回应瓦格纳集团事件，称中方支持俄罗斯维护国家稳定，中俄各层级保持着密切良好的沟通，透露哪些信息？](https://www.zhihu.com/question/608734294)<br />
+7. [胡锡进宣布进入 A 股，李大霄提建议「先买基金再买股票，如需要可共同研究」，哪些信息值得关注？](https://www.zhihu.com/question/608754081)<br />
+8. [多地气温突破历史极值，电力供需形势偏紧，专家称「不可能再追求 100% 可靠供应」，如何看待这一现象？](https://www.zhihu.com/question/608733520)<br />
+9. [为反制日本，普京签令将 9 月 3 日更名为「对日本军国主义战争胜利日」，更名对俄日两国意味着什么？](https://www.zhihu.com/question/608582404)<br />
 
 > 百度  
 
