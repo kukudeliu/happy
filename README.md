@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 11:33:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 11:34:02</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [小米首款轿车被曝14.99万起售](https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E9%A6%96%E6%AC%BE%E8%BD%BF%E8%BD%A6%E8%A2%AB%E6%9B%9D14.99%E4%B8%87%E8%B5%B7%E5%94%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [警方通报男童被武术俱乐部教练打死](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E7%AB%A5%E8%A2%AB%E6%AD%A6%E6%9C%AF%E4%BF%B1%E4%B9%90%E9%83%A8%E6%95%99%E7%BB%83%E6%89%93%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [网友：《消失的她》畸形秀让人害怕](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%EF%BC%9A%E3%80%8A%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E3%80%8B%E7%95%B8%E5%BD%A2%E7%A7%80%E8%AE%A9%E4%BA%BA%E5%AE%B3%E6%80%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子欠1.7亿巨债仍住豪宅养女友](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%AC%A01.7%E4%BA%BF%E5%B7%A8%E5%80%BA%E4%BB%8D%E4%BD%8F%E8%B1%AA%E5%AE%85%E5%85%BB%E5%A5%B3%E5%8F%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [老师凡尔赛全班仅3人没上600分](https://www.baidu.com/s?wd=%E8%80%81%E5%B8%88%E5%87%A1%E5%B0%94%E8%B5%9B%E5%85%A8%E7%8F%AD%E4%BB%853%E4%BA%BA%E6%B2%A1%E4%B8%8A600%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [小米首款轿车被曝14.99万起售](https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E9%A6%96%E6%AC%BE%E8%BD%BF%E8%BD%A6%E8%A2%AB%E6%9B%9D14.99%E4%B8%87%E8%B5%B7%E5%94%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [警方通报男童被武术俱乐部教练打死](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E7%AB%A5%E8%A2%AB%E6%AD%A6%E6%9C%AF%E4%BF%B1%E4%B9%90%E9%83%A8%E6%95%99%E7%BB%83%E6%89%93%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [网友：《消失的她》畸形秀让人害怕](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%EF%BC%9A%E3%80%8A%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E3%80%8B%E7%95%B8%E5%BD%A2%E7%A7%80%E8%AE%A9%E4%BA%BA%E5%AE%B3%E6%80%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子欠1.7亿巨债仍住豪宅养女友](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%AC%A01.7%E4%BA%BF%E5%B7%A8%E5%80%BA%E4%BB%8D%E4%BD%8F%E8%B1%AA%E5%AE%85%E5%85%BB%E5%A5%B3%E5%8F%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [老师凡尔赛全班仅3人没上600分](https://www.baidu.com/s?wd=%E8%80%81%E5%B8%88%E5%87%A1%E5%B0%94%E8%B5%9B%E5%85%A8%E7%8F%AD%E4%BB%853%E4%BA%BA%E6%B2%A1%E4%B8%8A600%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
