@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 14:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 14:29:01</h4></div>
 
 > 微博  
 
@@ -18,11 +18,11 @@
 2. [莫迪访美之行收获满满，亚马逊谷歌加码投资印度，并呼吁全球公司进行「印度制造」，哪些信息值得关注？](https://www.zhihu.com/question/608567391)<br />
 3. [李嘉诚家族被指「趁火打劫」连续抄底两上市房企自救关键项目，此举出于什么战略考量？](https://www.zhihu.com/question/608665319)<br />
 4. [杭州亚运会电竞集训队最终入选名单公示，如何评价《王者荣耀》项目名单？](https://www.zhihu.com/question/608619934)<br />
-5. []()<br />
+5. [高考完想换两万的游戏本，爸妈觉得太贵，准大学生想用两万的游戏本奢侈吗？](https://www.zhihu.com/question/606787090)<br />
 6. [如何评价《科幻世界》2023 年正刊第六期《依尘（中）》中出现大量公式的现象？](https://www.zhihu.com/question/606816750)<br />
 7. []()<br />
 8. [高三，应该舍弃所有活动吗?](https://www.zhihu.com/question/608026522)<br />
-9. [如今的德玛西亚凭什么和诺克萨斯抗衡？](https://www.zhihu.com/question/484996882)<br />
+9. [为什么一些马拉松赛事要专门安排配速员 (Pacer) ？](https://www.zhihu.com/question/37190796)<br />
 
 > 百度  
 
