@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 07:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 07:14:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [警方通报男童被打后跳下 5 楼，「男童多处骨折，肺部挫伤」，有哪些信息值得关注？](https://www.zhihu.com/question/608832311)<br />
 7. [在岸人民币跌破 7.23，日内跌近 400 点，最低触及 7.2339，如何解读这一走势？](https://www.zhihu.com/question/608737327)<br />
 8. []()<br />
-9. []()<br />
+9. [胡锡进宣布进入 A 股，李大霄提建议「先买基金再买股票，如需要可共同研究」，哪些信息值得关注？](https://www.zhihu.com/question/608754081)<br />
 
 > 百度  
 
@@ -32,8 +32,8 @@
 4. [防止跑冒滴漏 端牢中国饭碗](https://www.baidu.com/s?wd=%E9%98%B2%E6%AD%A2%E8%B7%91%E5%86%92%E6%BB%B4%E6%BC%8F+%E7%AB%AF%E7%89%A2%E4%B8%AD%E5%9B%BD%E9%A5%AD%E7%A2%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [6岁男童游泳后感染“食脑虫”](https://www.baidu.com/s?wd=6%E5%B2%81%E7%94%B7%E7%AB%A5%E6%B8%B8%E6%B3%B3%E5%90%8E%E6%84%9F%E6%9F%93%E2%80%9C%E9%A3%9F%E8%84%91%E8%99%AB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [复旦毕业生简历衣着暴露？校方回应](https://www.baidu.com/s?wd=%E5%A4%8D%E6%97%A6%E6%AF%95%E4%B8%9A%E7%94%9F%E7%AE%80%E5%8E%86%E8%A1%A3%E7%9D%80%E6%9A%B4%E9%9C%B2%EF%BC%9F%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [深圳外卖员被雨篷扎颈身亡](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%A4%96%E5%8D%96%E5%91%98%E8%A2%AB%E9%9B%A8%E7%AF%B7%E6%89%8E%E9%A2%88%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [四川一个班高考8人锁定清北](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E4%B8%AA%E7%8F%AD%E9%AB%98%E8%80%838%E4%BA%BA%E9%94%81%E5%AE%9A%E6%B8%85%E5%8C%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [四川一个班高考8人锁定清北](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E4%B8%AA%E7%8F%AD%E9%AB%98%E8%80%838%E4%BA%BA%E9%94%81%E5%AE%9A%E6%B8%85%E5%8C%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [深圳外卖员被雨篷扎颈身亡](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%A4%96%E5%8D%96%E5%91%98%E8%A2%AB%E9%9B%A8%E7%AF%B7%E6%89%8E%E9%A2%88%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [谁给了迪士尼乐园涨价的“勇气”](https://www.baidu.com/s?wd=%E8%B0%81%E7%BB%99%E4%BA%86%E8%BF%AA%E5%A3%AB%E5%B0%BC%E4%B9%90%E5%9B%AD%E6%B6%A8%E4%BB%B7%E7%9A%84%E2%80%9C%E5%8B%87%E6%B0%94%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -44,6 +44,6 @@
 4. [防止跑冒滴漏 端牢中国饭碗](https://www.baidu.com/s?wd=%E9%98%B2%E6%AD%A2%E8%B7%91%E5%86%92%E6%BB%B4%E6%BC%8F+%E7%AB%AF%E7%89%A2%E4%B8%AD%E5%9B%BD%E9%A5%AD%E7%A2%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [6岁男童游泳后感染“食脑虫”](https://www.baidu.com/s?wd=6%E5%B2%81%E7%94%B7%E7%AB%A5%E6%B8%B8%E6%B3%B3%E5%90%8E%E6%84%9F%E6%9F%93%E2%80%9C%E9%A3%9F%E8%84%91%E8%99%AB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [复旦毕业生简历衣着暴露？校方回应](https://www.baidu.com/s?wd=%E5%A4%8D%E6%97%A6%E6%AF%95%E4%B8%9A%E7%94%9F%E7%AE%80%E5%8E%86%E8%A1%A3%E7%9D%80%E6%9A%B4%E9%9C%B2%EF%BC%9F%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [深圳外卖员被雨篷扎颈身亡](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%A4%96%E5%8D%96%E5%91%98%E8%A2%AB%E9%9B%A8%E7%AF%B7%E6%89%8E%E9%A2%88%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [四川一个班高考8人锁定清北](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E4%B8%AA%E7%8F%AD%E9%AB%98%E8%80%838%E4%BA%BA%E9%94%81%E5%AE%9A%E6%B8%85%E5%8C%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [四川一个班高考8人锁定清北](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E4%B8%AA%E7%8F%AD%E9%AB%98%E8%80%838%E4%BA%BA%E9%94%81%E5%AE%9A%E6%B8%85%E5%8C%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [深圳外卖员被雨篷扎颈身亡](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%A4%96%E5%8D%96%E5%91%98%E8%A2%AB%E9%9B%A8%E7%AF%B7%E6%89%8E%E9%A2%88%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [谁给了迪士尼乐园涨价的“勇气”](https://www.baidu.com/s?wd=%E8%B0%81%E7%BB%99%E4%BA%86%E8%BF%AA%E5%A3%AB%E5%B0%BC%E4%B9%90%E5%9B%AD%E6%B6%A8%E4%BB%B7%E7%9A%84%E2%80%9C%E5%8B%87%E6%B0%94%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
