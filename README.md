@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 09:38:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 09:39:02</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [好特卖大量开店，盒马奥莱加速发展，临期店成创投圈热门赛道，为啥临期产品受欢迎？](https://www.zhihu.com/question/608567329)<br />
 7. [看哪些纪录片可以提高认知？](https://www.zhihu.com/question/599621146)<br />
 8. [姆巴佩要拿多少奖项，历史地位能超过 C 罗?](https://www.zhihu.com/question/608025000)<br />
-9. []()<br />
+9. [莫迪访美之行收获满满，亚马逊谷歌加码投资印度，并呼吁全球公司进行「印度制造」，哪些信息值得关注？](https://www.zhihu.com/question/608567391)<br />
 
 > 百度  
 
@@ -33,7 +33,7 @@
 5. [不足1月 三个中纪委“内鬼”被揪出](https://www.baidu.com/s?wd=%E4%B8%8D%E8%B6%B31%E6%9C%88+%E4%B8%89%E4%B8%AA%E4%B8%AD%E7%BA%AA%E5%A7%94%E2%80%9C%E5%86%85%E9%AC%BC%E2%80%9D%E8%A2%AB%E6%8F%AA%E5%87%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [为什么医院不让家属陪护只能请护工](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8C%BB%E9%99%A2%E4%B8%8D%E8%AE%A9%E5%AE%B6%E5%B1%9E%E9%99%AA%E6%8A%A4%E5%8F%AA%E8%83%BD%E8%AF%B7%E6%8A%A4%E5%B7%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [烧烤店请亲戚孩子帮忙被罚2.5万](https://www.baidu.com/s?wd=%E7%83%A7%E7%83%A4%E5%BA%97%E8%AF%B7%E4%BA%B2%E6%88%9A%E5%AD%A9%E5%AD%90%E5%B8%AE%E5%BF%99%E8%A2%AB%E7%BD%9A2.5%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [李嘉诚家族抄底内地房企项目](https://www.baidu.com/s?wd=%E6%9D%8E%E5%98%89%E8%AF%9A%E5%AE%B6%E6%97%8F%E6%8A%84%E5%BA%95%E5%86%85%E5%9C%B0%E6%88%BF%E4%BC%81%E9%A1%B9%E7%9B%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [泽连斯基同拜登讨论瓦格纳事件](https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%90%8C%E6%8B%9C%E7%99%BB%E8%AE%A8%E8%AE%BA%E7%93%A6%E6%A0%BC%E7%BA%B3%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [男子误入停车场51秒被收费8元](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%AF%AF%E5%85%A5%E5%81%9C%E8%BD%A6%E5%9C%BA51%E7%A7%92%E8%A2%AB%E6%94%B6%E8%B4%B98%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [不足1月 三个中纪委“内鬼”被揪出](https://www.baidu.com/s?wd=%E4%B8%8D%E8%B6%B31%E6%9C%88+%E4%B8%89%E4%B8%AA%E4%B8%AD%E7%BA%AA%E5%A7%94%E2%80%9C%E5%86%85%E9%AC%BC%E2%80%9D%E8%A2%AB%E6%8F%AA%E5%87%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [为什么医院不让家属陪护只能请护工](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8C%BB%E9%99%A2%E4%B8%8D%E8%AE%A9%E5%AE%B6%E5%B1%9E%E9%99%AA%E6%8A%A4%E5%8F%AA%E8%83%BD%E8%AF%B7%E6%8A%A4%E5%B7%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [烧烤店请亲戚孩子帮忙被罚2.5万](https://www.baidu.com/s?wd=%E7%83%A7%E7%83%A4%E5%BA%97%E8%AF%B7%E4%BA%B2%E6%88%9A%E5%AD%A9%E5%AD%90%E5%B8%AE%E5%BF%99%E8%A2%AB%E7%BD%9A2.5%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [李嘉诚家族抄底内地房企项目](https://www.baidu.com/s?wd=%E6%9D%8E%E5%98%89%E8%AF%9A%E5%AE%B6%E6%97%8F%E6%8A%84%E5%BA%95%E5%86%85%E5%9C%B0%E6%88%BF%E4%BC%81%E9%A1%B9%E7%9B%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [泽连斯基同拜登讨论瓦格纳事件](https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%90%8C%E6%8B%9C%E7%99%BB%E8%AE%A8%E8%AE%BA%E7%93%A6%E6%A0%BC%E7%BA%B3%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [男子误入停车场51秒被收费8元](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%AF%AF%E5%85%A5%E5%81%9C%E8%BD%A6%E5%9C%BA51%E7%A7%92%E8%A2%AB%E6%94%B6%E8%B4%B98%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
