@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 08:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 08:43:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [亚运会英雄联盟中国队最终名单](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E4%BC%9A%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E4%B8%AD%E5%9B%BD%E9%98%9F%E6%9C%80%E7%BB%88%E5%90%8D%E5%8D%95%23&t=31&band_rank=5&Refer=top)<br />
 6. [现在的吃播真的令我手足无措](https://s.weibo.com/weibo?q=%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%90%83%E6%92%AD%E7%9C%9F%E7%9A%84%E4%BB%A4%E6%88%91%E6%89%8B%E8%B6%B3%E6%97%A0%E6%8E%AA&t=31&band_rank=6&Refer=top)<br />
 7. [原来是何非拔掉的氧气罐](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%98%AF%E4%BD%95%E9%9D%9E%E6%8B%94%E6%8E%89%E7%9A%84%E6%B0%A7%E6%B0%94%E7%BD%90%23&t=31&band_rank=7&Refer=top)<br />
-8. [690分学霸采访中接到清华电话](https://s.weibo.com/weibo?q=%23690%E5%88%86%E5%AD%A6%E9%9C%B8%E9%87%87%E8%AE%BF%E4%B8%AD%E6%8E%A5%E5%88%B0%E6%B8%85%E5%8D%8E%E7%94%B5%E8%AF%9D%23&t=31&band_rank=8&Refer=top)<br />
-9. [普通人的一生究竟有多难](https://s.weibo.com/weibo?q=%23%E6%99%AE%E9%80%9A%E4%BA%BA%E7%9A%84%E4%B8%80%E7%94%9F%E7%A9%B6%E7%AB%9F%E6%9C%89%E5%A4%9A%E9%9A%BE%23&t=31&band_rank=9&Refer=top)<br />
+8. [普通人的一生究竟有多难](https://s.weibo.com/weibo?q=%23%E6%99%AE%E9%80%9A%E4%BA%BA%E7%9A%84%E4%B8%80%E7%94%9F%E7%A9%B6%E7%AB%9F%E6%9C%89%E5%A4%9A%E9%9A%BE%23&t=31&band_rank=8&Refer=top)<br />
+9. [秦岚无效多巴胺](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E6%97%A0%E6%95%88%E5%A4%9A%E5%B7%B4%E8%83%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
