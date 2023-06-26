@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 14:05:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 14:06:01</h4></div>
 
 > 微博  
 
@@ -9,20 +9,20 @@
 5. [泰国孕妇坠崖案当事人谈电影消失的她](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E5%AD%95%E5%A6%87%E5%9D%A0%E5%B4%96%E6%A1%88%E5%BD%93%E4%BA%8B%E4%BA%BA%E8%B0%88%E7%94%B5%E5%BD%B1%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%23&t=31&band_rank=5&Refer=top)<br />
 6. [刘芸管控郑钧从头到脚](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%8A%B8%E7%AE%A1%E6%8E%A7%E9%83%91%E9%92%A7%E4%BB%8E%E5%A4%B4%E5%88%B0%E8%84%9A%23&t=31&band_rank=6&Refer=top)<br />
 7. [张萌问张铎十年了你行了吗](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%90%8C%E9%97%AE%E5%BC%A0%E9%93%8E%E5%8D%81%E5%B9%B4%E4%BA%86%E4%BD%A0%E8%A1%8C%E4%BA%86%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
-8. [那就清华呗](https://s.weibo.com/weibo?q=%23%E9%82%A3%E5%B0%B1%E6%B8%85%E5%8D%8E%E5%91%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [从胃炎到胃癌](https://s.weibo.com/weibo?q=%E4%BB%8E%E8%83%83%E7%82%8E%E5%88%B0%E8%83%83%E7%99%8C&t=31&band_rank=9&Refer=top)<br />
+8. [从胃炎到胃癌](https://s.weibo.com/weibo?q=%E4%BB%8E%E8%83%83%E7%82%8E%E5%88%B0%E8%83%83%E7%99%8C&t=31&band_rank=8&Refer=top)<br />
+9. [那就清华呗](https://s.weibo.com/weibo?q=%23%E9%82%A3%E5%B0%B1%E6%B8%85%E5%8D%8E%E5%91%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [女孩充电被电击内脏受损面临截肢，客服回应「适配器非原装」，导致电击原因是什么？如何看待涉事公司回应？](https://www.zhihu.com/question/608412173)<br />
-2. [莫迪访美之行收获满满，亚马逊谷歌加码投资印度，并呼吁全球公司进行「印度制造」，哪些信息值得关注？](https://www.zhihu.com/question/608567391)<br />
-3. [蔡徐坤被曝「曾让 C 女士独自去医院打胎」，真实情况可能如何？如何看待此事？](https://www.zhihu.com/question/608690464)<br />
+2. [蔡徐坤被曝「曾让 C 女士独自去医院打胎」，真实情况可能如何？如何看待此事？](https://www.zhihu.com/question/608690464)<br />
+3. [莫迪访美之行收获满满，亚马逊谷歌加码投资印度，并呼吁全球公司进行「印度制造」，哪些信息值得关注？](https://www.zhihu.com/question/608567391)<br />
 4. [李嘉诚家族被指「趁火打劫」连续抄底两上市房企自救关键项目，此举出于什么战略考量？](https://www.zhihu.com/question/608665319)<br />
 5. [杭州亚运会电竞集训队最终入选名单公示，如何评价《王者荣耀》项目名单？](https://www.zhihu.com/question/608619934)<br />
 6. [如今的德玛西亚凭什么和诺克萨斯抗衡？](https://www.zhihu.com/question/484996882)<br />
 7. [瓦格纳雇佣兵集团人员从俄罗斯南部两个州撤离，这意味着什么？目前当地具体情况如何？](https://www.zhihu.com/question/608666410)<br />
-8. [人在什么情况下才会大彻大悟？](https://www.zhihu.com/question/472285403)<br />
-9. [《星空》30 帧，《最终幻想 16》开性能模式也帧数不稳，这代主机寿命后半是否又要回归 30 帧万岁？](https://www.zhihu.com/question/608030326)<br />
+8. [《星空》30 帧，《最终幻想 16》开性能模式也帧数不稳，这代主机寿命后半是否又要回归 30 帧万岁？](https://www.zhihu.com/question/608030326)<br />
+9. [智能科技如何让豪华品牌的车更安全？](https://www.zhihu.com/question/608428443)<br />
 
 > 百度  
 
