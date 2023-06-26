@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 02:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 02:22:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [贬低你的亲戚都是父母惯的](https://s.weibo.com/weibo?q=%E8%B4%AC%E4%BD%8E%E4%BD%A0%E7%9A%84%E4%BA%B2%E6%88%9A%E9%83%BD%E6%98%AF%E7%88%B6%E6%AF%8D%E6%83%AF%E7%9A%84&t=31&band_rank=6&Refer=top)<br />
 7. [张艺兴新片官方账号被禁言](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E6%96%B0%E7%89%87%E5%AE%98%E6%96%B9%E8%B4%A6%E5%8F%B7%E8%A2%AB%E7%A6%81%E8%A8%80%23&t=31&band_rank=7&Refer=top)<br />
 8. [妹妹考了702分却哭了一下午](https://s.weibo.com/weibo?q=%23%E5%A6%B9%E5%A6%B9%E8%80%83%E4%BA%86702%E5%88%86%E5%8D%B4%E5%93%AD%E4%BA%86%E4%B8%80%E4%B8%8B%E5%8D%88%23&t=31&band_rank=8&Refer=top)<br />
-9. [新京报评偷偷藏不住](https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%BA%AC%E6%8A%A5%E8%AF%84%E5%81%B7%E5%81%B7%E8%97%8F%E4%B8%8D%E4%BD%8F%23&t=31&band_rank=9&Refer=top)<br />
+9. [你见过高考数学满分的人吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%A7%81%E8%BF%87%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E6%BB%A1%E5%88%86%E7%9A%84%E4%BA%BA%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
