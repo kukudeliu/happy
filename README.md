@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 23:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 23:44:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [深圳外卖员被雨篷扎颈身亡](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%A4%96%E5%8D%96%E5%91%98%E8%A2%AB%E9%9B%A8%E7%AF%B7%E6%89%8E%E9%A2%88%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [6岁男童游泳后感染“食脑虫”](https://www.baidu.com/s?wd=6%E5%B2%81%E7%94%B7%E7%AB%A5%E6%B8%B8%E6%B3%B3%E5%90%8E%E6%84%9F%E6%9F%93%E2%80%9C%E9%A3%9F%E8%84%91%E8%99%AB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [谁给了迪士尼乐园涨价的“勇气”](https://www.baidu.com/s?wd=%E8%B0%81%E7%BB%99%E4%BA%86%E8%BF%AA%E5%A3%AB%E5%B0%BC%E4%B9%90%E5%9B%AD%E6%B6%A8%E4%BB%B7%E7%9A%84%E2%80%9C%E5%8B%87%E6%B0%94%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [警方通报男童被母亲棒击后从5楼跳下](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E7%AB%A5%E8%A2%AB%E6%AF%8D%E4%BA%B2%E6%A3%92%E5%87%BB%E5%90%8E%E4%BB%8E5%E6%A5%BC%E8%B7%B3%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [曝周杰伦女儿将入学澳洲名校](https://www.baidu.com/s?wd=%E6%9B%9D%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%A5%B3%E5%84%BF%E5%B0%86%E5%85%A5%E5%AD%A6%E6%BE%B3%E6%B4%B2%E5%90%8D%E6%A0%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [深圳外卖员被雨篷扎颈身亡](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%A4%96%E5%8D%96%E5%91%98%E8%A2%AB%E9%9B%A8%E7%AF%B7%E6%89%8E%E9%A2%88%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [6岁男童游泳后感染“食脑虫”](https://www.baidu.com/s?wd=6%E5%B2%81%E7%94%B7%E7%AB%A5%E6%B8%B8%E6%B3%B3%E5%90%8E%E6%84%9F%E6%9F%93%E2%80%9C%E9%A3%9F%E8%84%91%E8%99%AB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [谁给了迪士尼乐园涨价的“勇气”](https://www.baidu.com/s?wd=%E8%B0%81%E7%BB%99%E4%BA%86%E8%BF%AA%E5%A3%AB%E5%B0%BC%E4%B9%90%E5%9B%AD%E6%B6%A8%E4%BB%B7%E7%9A%84%E2%80%9C%E5%8B%87%E6%B0%94%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [警方通报男童被母亲棒击后从5楼跳下](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E7%AB%A5%E8%A2%AB%E6%AF%8D%E4%BA%B2%E6%A3%92%E5%87%BB%E5%90%8E%E4%BB%8E5%E6%A5%BC%E8%B7%B3%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [曝周杰伦女儿将入学澳洲名校](https://www.baidu.com/s?wd=%E6%9B%9D%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%A5%B3%E5%84%BF%E5%B0%86%E5%85%A5%E5%AD%A6%E6%BE%B3%E6%B4%B2%E5%90%8D%E6%A0%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
