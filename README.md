@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 13:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 13:31:01</h4></div>
 
 > 微博  
 
@@ -19,16 +19,16 @@
 3. [瓦格纳雇佣兵集团人员从俄罗斯南部两个州撤离，这意味着什么？目前当地具体情况如何？](https://www.zhihu.com/question/608666410)<br />
 4. [李嘉诚家族被指「趁火打劫」连续抄底两上市房企自救关键项目，此举出于什么战略考量？](https://www.zhihu.com/question/608665319)<br />
 5. [Open AI 与多家教育科技公司合作建构人工智能适应性学习系统，推进教育「天下大同」能带来变革吗？](https://www.zhihu.com/question/608671199)<br />
-6. [由于对川大处理不满，北京一律所不再招聘川大毕业生，并回应称「并非就业歧视」，如何看待律所的做法？](https://www.zhihu.com/question/608664630)<br />
-7. []()<br />
-8. [如今的德玛西亚凭什么和诺克萨斯抗衡？](https://www.zhihu.com/question/484996882)<br />
-9. [悬疑电影《消失的她》有哪些精彩看点？](https://www.zhihu.com/question/607636330)<br />
+6. []()<br />
+7. [如今的德玛西亚凭什么和诺克萨斯抗衡？](https://www.zhihu.com/question/484996882)<br />
+8. [悬疑电影《消失的她》有哪些精彩看点？](https://www.zhihu.com/question/607636330)<br />
+9. [如果你是小草神，你会选择怎么处理散兵？是关起来择日问斩，还是忽悠一波挖愚人众墙角，或者是其他?](https://www.zhihu.com/question/608402129)<br />
 
 > 百度  
 
 1. [从世界工厂迈向智造强国](https://www.baidu.com/s?wd=%E4%BB%8E%E4%B8%96%E7%95%8C%E5%B7%A5%E5%8E%82%E8%BF%88%E5%90%91%E6%99%BA%E9%80%A0%E5%BC%BA%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [华春莹连发七文谴责美国“甩锅”](https://www.baidu.com/s?wd=%E5%8D%8E%E6%98%A5%E8%8E%B9%E8%BF%9E%E5%8F%91%E4%B8%83%E6%96%87%E8%B0%B4%E8%B4%A3%E7%BE%8E%E5%9B%BD%E2%80%9C%E7%94%A9%E9%94%85%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [普京处置瓦格纳危机画面曝光](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E5%A4%84%E7%BD%AE%E7%93%A6%E6%A0%BC%E7%BA%B3%E5%8D%B1%E6%9C%BA%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [老师凡尔赛全班仅3人没上600分](https://www.baidu.com/s?wd=%E8%80%81%E5%B8%88%E5%87%A1%E5%B0%94%E8%B5%9B%E5%85%A8%E7%8F%AD%E4%BB%853%E4%BA%BA%E6%B2%A1%E4%B8%8A600%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [战斗在缉毒战场最前沿](https://www.baidu.com/s?wd=%E6%88%98%E6%96%97%E5%9C%A8%E7%BC%89%E6%AF%92%E6%88%98%E5%9C%BA%E6%9C%80%E5%89%8D%E6%B2%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子欠1.7亿巨债仍住豪宅养女友](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%AC%A01.7%E4%BA%BF%E5%B7%A8%E5%80%BA%E4%BB%8D%E4%BD%8F%E8%B1%AA%E5%AE%85%E5%85%BB%E5%A5%B3%E5%8F%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李嘉诚95后孙女李思德正式亮相](https://www.baidu.com/s?wd=%E6%9D%8E%E5%98%89%E8%AF%9A95%E5%90%8E%E5%AD%99%E5%A5%B3%E6%9D%8E%E6%80%9D%E5%BE%B7%E6%AD%A3%E5%BC%8F%E4%BA%AE%E7%9B%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -40,7 +40,7 @@
 
 1. [从世界工厂迈向智造强国](https://www.baidu.com/s?wd=%E4%BB%8E%E4%B8%96%E7%95%8C%E5%B7%A5%E5%8E%82%E8%BF%88%E5%90%91%E6%99%BA%E9%80%A0%E5%BC%BA%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [华春莹连发七文谴责美国“甩锅”](https://www.baidu.com/s?wd=%E5%8D%8E%E6%98%A5%E8%8E%B9%E8%BF%9E%E5%8F%91%E4%B8%83%E6%96%87%E8%B0%B4%E8%B4%A3%E7%BE%8E%E5%9B%BD%E2%80%9C%E7%94%A9%E9%94%85%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [普京处置瓦格纳危机画面曝光](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E5%A4%84%E7%BD%AE%E7%93%A6%E6%A0%BC%E7%BA%B3%E5%8D%B1%E6%9C%BA%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [老师凡尔赛全班仅3人没上600分](https://www.baidu.com/s?wd=%E8%80%81%E5%B8%88%E5%87%A1%E5%B0%94%E8%B5%9B%E5%85%A8%E7%8F%AD%E4%BB%853%E4%BA%BA%E6%B2%A1%E4%B8%8A600%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [战斗在缉毒战场最前沿](https://www.baidu.com/s?wd=%E6%88%98%E6%96%97%E5%9C%A8%E7%BC%89%E6%AF%92%E6%88%98%E5%9C%BA%E6%9C%80%E5%89%8D%E6%B2%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子欠1.7亿巨债仍住豪宅养女友](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%AC%A01.7%E4%BA%BF%E5%B7%A8%E5%80%BA%E4%BB%8D%E4%BD%8F%E8%B1%AA%E5%AE%85%E5%85%BB%E5%A5%B3%E5%8F%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李嘉诚95后孙女李思德正式亮相](https://www.baidu.com/s?wd=%E6%9D%8E%E5%98%89%E8%AF%9A95%E5%90%8E%E5%AD%99%E5%A5%B3%E6%9D%8E%E6%80%9D%E5%BE%B7%E6%AD%A3%E5%BC%8F%E4%BA%AE%E7%9B%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
