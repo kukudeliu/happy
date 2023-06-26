@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 10:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 10:06:01</h4></div>
 
 > 微博  
 
@@ -19,8 +19,8 @@
 3. [范志毅谈贵州「村超」火爆，「纯粹的足球不带有任何色彩，踢得很开心」，如何看待他的观点？](https://www.zhihu.com/question/608517517)<br />
 4. [土匪在山上是靠什么生存的？](https://www.zhihu.com/question/599176505)<br />
 5. [好特卖大量开店，盒马奥莱加速发展，临期店成创投圈热门赛道，为啥临期产品受欢迎？](https://www.zhihu.com/question/608567329)<br />
-6. [17K 小说网创始人血酬离世，如何评价他的成绩？](https://www.zhihu.com/question/608360754)<br />
-7. [看哪些纪录片可以提高认知？](https://www.zhihu.com/question/599621146)<br />
+6. [看哪些纪录片可以提高认知？](https://www.zhihu.com/question/599621146)<br />
+7. [17K 小说网创始人血酬离世，如何评价他的成绩？](https://www.zhihu.com/question/608360754)<br />
 8. [莫迪访美之行收获满满，亚马逊谷歌加码投资印度，并呼吁全球公司进行「印度制造」，哪些信息值得关注？](https://www.zhihu.com/question/608567391)<br />
 9. [姆巴佩要拿多少奖项，历史地位能超过 C 罗?](https://www.zhihu.com/question/608025000)<br />
 
