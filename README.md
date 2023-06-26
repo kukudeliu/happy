@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 10:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 10:22:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [张萌问张铎十年了你行了吗](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%90%8C%E9%97%AE%E5%BC%A0%E9%93%8E%E5%8D%81%E5%B9%B4%E4%BA%86%E4%BD%A0%E8%A1%8C%E4%BA%86%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [猫眼 发疯](https://s.weibo.com/weibo?q=%E7%8C%AB%E7%9C%BC%20%E5%8F%91%E7%96%AF&t=31&band_rank=7&Refer=top)<br />
 8. [为什么医院不让家属陪护只能请护工](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8C%BB%E9%99%A2%E4%B8%8D%E8%AE%A9%E5%AE%B6%E5%B1%9E%E9%99%AA%E6%8A%A4%E5%8F%AA%E8%83%BD%E8%AF%B7%E6%8A%A4%E5%B7%A5%23&t=31&band_rank=8&Refer=top)<br />
-9. [JackeyLove担任亚运会AD](https://s.weibo.com/weibo?q=%23JackeyLove%E6%8B%85%E4%BB%BB%E4%BA%9A%E8%BF%90%E4%BC%9AAD%23&t=31&band_rank=9&Refer=top)<br />
+9. [长风渡网播断更](https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%A3%8E%E6%B8%A1%E7%BD%91%E6%92%AD%E6%96%AD%E6%9B%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
