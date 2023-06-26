@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 23:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 23:33:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [在岸人民币跌破 7.23，日内跌近 400 点，最低触及 7.2339，如何解读这一走势？](https://www.zhihu.com/question/608737327)<br />
 7. [为反制日本，普京签令将 9 月 3 日更名为「对日本军国主义战争胜利日」，更名对俄日两国意味着什么？](https://www.zhihu.com/question/608582404)<br />
 8. [东北为什么有铝盒饭？](https://www.zhihu.com/question/602991544)<br />
-9. [2023 LPL 夏季赛 TES 0:2 WE，如何评价这场比赛？](https://www.zhihu.com/question/608773481)<br />
+9. []()<br />
 
 > 百度  
 
