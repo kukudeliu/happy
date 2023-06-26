@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 12:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 12:53:01</h4></div>
 
 > 微博  
 
@@ -21,7 +21,7 @@
 5. [瓦格纳雇佣兵集团人员从俄罗斯南部两个州撤离，这意味着什么？目前当地具体情况如何？](https://www.zhihu.com/question/608666410)<br />
 6. [订婚宴后母亲大发雷霆，要求分手该怎么办？](https://www.zhihu.com/question/608274088)<br />
 7. [为什么神经网络会存在灾难性遗忘 (catastrophic forgetting) 这个问题？](https://www.zhihu.com/question/265056068)<br />
-8. [李嘉诚家族被指「趁火打劫」，出手抄底两上市房企自救关键项目，此举出于什么战略考量？](https://www.zhihu.com/question/608665319)<br />
+8. [李嘉诚家族连续抄底内地房企项目，取道汇丰围猎香港地王，将对龙光和合景造成巨大影响，释放了哪些信号？](https://www.zhihu.com/question/608665319)<br />
 9. [Open AI 与多家教育科技公司合作建构人工智能适应性学习系统，推进教育「天下大同」能带来变革吗？](https://www.zhihu.com/question/608671199)<br />
 
 > 百度  
