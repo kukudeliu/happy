@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 12:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 12:09:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [网传8岁男童被武术教练打死](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A08%E5%B2%81%E7%94%B7%E7%AB%A5%E8%A2%AB%E6%AD%A6%E6%9C%AF%E6%95%99%E7%BB%83%E6%89%93%E6%AD%BB%23&t=31&band_rank=6&Refer=top)<br />
 7. [从胃炎到胃癌](https://s.weibo.com/weibo?q=%E4%BB%8E%E8%83%83%E7%82%8E%E5%88%B0%E8%83%83%E7%99%8C&t=31&band_rank=7&Refer=top)<br />
 8. [张萌问张铎十年了你行了吗](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%90%8C%E9%97%AE%E5%BC%A0%E9%93%8E%E5%8D%81%E5%B9%B4%E4%BA%86%E4%BD%A0%E8%A1%8C%E4%BA%86%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [你的童年报复性补偿行为](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%9A%84%E7%AB%A5%E5%B9%B4%E6%8A%A5%E5%A4%8D%E6%80%A7%E8%A1%A5%E5%81%BF%E8%A1%8C%E4%B8%BA%23&t=31&band_rank=9&Refer=top)<br />
+9. [青岛警方通报武术俱乐部致一人死亡案](https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E6%AD%A6%E6%9C%AF%E4%BF%B1%E4%B9%90%E9%83%A8%E8%87%B4%E4%B8%80%E4%BA%BA%E6%AD%BB%E4%BA%A1%E6%A1%88%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
