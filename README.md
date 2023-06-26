@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 13:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 13:41:02</h4></div>
 
 > 微博  
 
@@ -33,7 +33,7 @@
 5. [男子欠1.7亿巨债仍住豪宅养女友](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%AC%A01.7%E4%BA%BF%E5%B7%A8%E5%80%BA%E4%BB%8D%E4%BD%8F%E8%B1%AA%E5%AE%85%E5%85%BB%E5%A5%B3%E5%8F%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李嘉诚95后孙女李思德正式亮相](https://www.baidu.com/s?wd=%E6%9D%8E%E5%98%89%E8%AF%9A95%E5%90%8E%E5%AD%99%E5%A5%B3%E6%9D%8E%E6%80%9D%E5%BE%B7%E6%AD%A3%E5%BC%8F%E4%BA%AE%E7%9B%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [江小宴详解蔡徐坤一夜情事件](https://www.baidu.com/s?wd=%E6%B1%9F%E5%B0%8F%E5%AE%B4%E8%AF%A6%E8%A7%A3%E8%94%A1%E5%BE%90%E5%9D%A4%E4%B8%80%E5%A4%9C%E6%83%85%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男生怕考砸被骂查分前挨个打扫房间](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E6%80%95%E8%80%83%E7%A0%B8%E8%A2%AB%E9%AA%82%E6%9F%A5%E5%88%86%E5%89%8D%E6%8C%A8%E4%B8%AA%E6%89%93%E6%89%AB%E6%88%BF%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [甘肃酒泉一餐饮店液化气爆炸](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E9%85%92%E6%B3%89%E4%B8%80%E9%A4%90%E9%A5%AE%E5%BA%97%E6%B6%B2%E5%8C%96%E6%B0%94%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [疑蔡徐坤母亲安排女方堕胎录音曝光](https://www.baidu.com/s?wd=%E7%96%91%E8%94%A1%E5%BE%90%E5%9D%A4%E6%AF%8D%E4%BA%B2%E5%AE%89%E6%8E%92%E5%A5%B3%E6%96%B9%E5%A0%95%E8%83%8E%E5%BD%95%E9%9F%B3%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [男子欠1.7亿巨债仍住豪宅养女友](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%AC%A01.7%E4%BA%BF%E5%B7%A8%E5%80%BA%E4%BB%8D%E4%BD%8F%E8%B1%AA%E5%AE%85%E5%85%BB%E5%A5%B3%E5%8F%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李嘉诚95后孙女李思德正式亮相](https://www.baidu.com/s?wd=%E6%9D%8E%E5%98%89%E8%AF%9A95%E5%90%8E%E5%AD%99%E5%A5%B3%E6%9D%8E%E6%80%9D%E5%BE%B7%E6%AD%A3%E5%BC%8F%E4%BA%AE%E7%9B%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [江小宴详解蔡徐坤一夜情事件](https://www.baidu.com/s?wd=%E6%B1%9F%E5%B0%8F%E5%AE%B4%E8%AF%A6%E8%A7%A3%E8%94%A1%E5%BE%90%E5%9D%A4%E4%B8%80%E5%A4%9C%E6%83%85%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男生怕考砸被骂查分前挨个打扫房间](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E6%80%95%E8%80%83%E7%A0%B8%E8%A2%AB%E9%AA%82%E6%9F%A5%E5%88%86%E5%89%8D%E6%8C%A8%E4%B8%AA%E6%89%93%E6%89%AB%E6%88%BF%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [甘肃酒泉一餐饮店液化气爆炸](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E9%85%92%E6%B3%89%E4%B8%80%E9%A4%90%E9%A5%AE%E5%BA%97%E6%B6%B2%E5%8C%96%E6%B0%94%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [疑蔡徐坤母亲安排女方堕胎录音曝光](https://www.baidu.com/s?wd=%E7%96%91%E8%94%A1%E5%BE%90%E5%9D%A4%E6%AF%8D%E4%BA%B2%E5%AE%89%E6%8E%92%E5%A5%B3%E6%96%B9%E5%A0%95%E8%83%8E%E5%BD%95%E9%9F%B3%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
