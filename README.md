@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 01:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 01:56:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [6岁男童游泳后感染“食脑虫”](https://www.baidu.com/s?wd=6%E5%B2%81%E7%94%B7%E7%AB%A5%E6%B8%B8%E6%B3%B3%E5%90%8E%E6%84%9F%E6%9F%93%E2%80%9C%E9%A3%9F%E8%84%91%E8%99%AB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [歌迷吐槽杨千嬅演唱会各种脏乱差](https://www.baidu.com/s?wd=%E6%AD%8C%E8%BF%B7%E5%90%90%E6%A7%BD%E6%9D%A8%E5%8D%83%E5%AC%85%E6%BC%94%E5%94%B1%E4%BC%9A%E5%90%84%E7%A7%8D%E8%84%8F%E4%B9%B1%E5%B7%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [和病魔斗争9年的男孩考出632分](https://www.baidu.com/s?wd=%E5%92%8C%E7%97%85%E9%AD%94%E6%96%97%E4%BA%899%E5%B9%B4%E7%9A%84%E7%94%B7%E5%AD%A9%E8%80%83%E5%87%BA632%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [复读女生暴涨104分弟弟激动跃起](https://www.baidu.com/s?wd=%E5%A4%8D%E8%AF%BB%E5%A5%B3%E7%94%9F%E6%9A%B4%E6%B6%A8104%E5%88%86%E5%BC%9F%E5%BC%9F%E6%BF%80%E5%8A%A8%E8%B7%83%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中国放弃2025世俱杯原因曝光](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%94%BE%E5%BC%832025%E4%B8%96%E4%BF%B1%E6%9D%AF%E5%8E%9F%E5%9B%A0%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [孩子感冒被药店开800多元药品](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E6%84%9F%E5%86%92%E8%A2%AB%E8%8D%AF%E5%BA%97%E5%BC%80800%E5%A4%9A%E5%85%83%E8%8D%AF%E5%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [谁给了迪士尼乐园涨价的“勇气”](https://www.baidu.com/s?wd=%E8%B0%81%E7%BB%99%E4%BA%86%E8%BF%AA%E5%A3%AB%E5%B0%BC%E4%B9%90%E5%9B%AD%E6%B6%A8%E4%BB%B7%E7%9A%84%E2%80%9C%E5%8B%87%E6%B0%94%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [6岁男童游泳后感染“食脑虫”](https://www.baidu.com/s?wd=6%E5%B2%81%E7%94%B7%E7%AB%A5%E6%B8%B8%E6%B3%B3%E5%90%8E%E6%84%9F%E6%9F%93%E2%80%9C%E9%A3%9F%E8%84%91%E8%99%AB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [歌迷吐槽杨千嬅演唱会各种脏乱差](https://www.baidu.com/s?wd=%E6%AD%8C%E8%BF%B7%E5%90%90%E6%A7%BD%E6%9D%A8%E5%8D%83%E5%AC%85%E6%BC%94%E5%94%B1%E4%BC%9A%E5%90%84%E7%A7%8D%E8%84%8F%E4%B9%B1%E5%B7%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [和病魔斗争9年的男孩考出632分](https://www.baidu.com/s?wd=%E5%92%8C%E7%97%85%E9%AD%94%E6%96%97%E4%BA%899%E5%B9%B4%E7%9A%84%E7%94%B7%E5%AD%A9%E8%80%83%E5%87%BA632%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [复读女生暴涨104分弟弟激动跃起](https://www.baidu.com/s?wd=%E5%A4%8D%E8%AF%BB%E5%A5%B3%E7%94%9F%E6%9A%B4%E6%B6%A8104%E5%88%86%E5%BC%9F%E5%BC%9F%E6%BF%80%E5%8A%A8%E8%B7%83%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中国放弃2025世俱杯原因曝光](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%94%BE%E5%BC%832025%E4%B8%96%E4%BF%B1%E6%9D%AF%E5%8E%9F%E5%9B%A0%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [孩子感冒被药店开800多元药品](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E6%84%9F%E5%86%92%E8%A2%AB%E8%8D%AF%E5%BA%97%E5%BC%80800%E5%A4%9A%E5%85%83%E8%8D%AF%E5%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [谁给了迪士尼乐园涨价的“勇气”](https://www.baidu.com/s?wd=%E8%B0%81%E7%BB%99%E4%BA%86%E8%BF%AA%E5%A3%AB%E5%B0%BC%E4%B9%90%E5%9B%AD%E6%B6%A8%E4%BB%B7%E7%9A%84%E2%80%9C%E5%8B%87%E6%B0%94%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
