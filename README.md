@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 03:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 03:20:02</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [审计报告披露地方财政管理漏洞](https://www.baidu.com/s?wd=%E5%AE%A1%E8%AE%A1%E6%8A%A5%E5%91%8A%E6%8A%AB%E9%9C%B2%E5%9C%B0%E6%96%B9%E8%B4%A2%E6%94%BF%E7%AE%A1%E7%90%86%E6%BC%8F%E6%B4%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女医生遭前夫投毒案多人被处分](https://www.baidu.com/s?wd=%E5%A5%B3%E5%8C%BB%E7%94%9F%E9%81%AD%E5%89%8D%E5%A4%AB%E6%8A%95%E6%AF%92%E6%A1%88%E5%A4%9A%E4%BA%BA%E8%A2%AB%E5%A4%84%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [东京电车有人挥刀东北大哥挺身而出](https://www.baidu.com/s?wd=%E4%B8%9C%E4%BA%AC%E7%94%B5%E8%BD%A6%E6%9C%89%E4%BA%BA%E6%8C%A5%E5%88%80%E4%B8%9C%E5%8C%97%E5%A4%A7%E5%93%A5%E6%8C%BA%E8%BA%AB%E8%80%8C%E5%87%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [复旦毕业生简历衣着暴露？校方回应](https://www.baidu.com/s?wd=%E5%A4%8D%E6%97%A6%E6%AF%95%E4%B8%9A%E7%94%9F%E7%AE%80%E5%8E%86%E8%A1%A3%E7%9D%80%E6%9A%B4%E9%9C%B2%EF%BC%9F%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男生怕考砸被骂查分前挨个打扫房间](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E6%80%95%E8%80%83%E7%A0%B8%E8%A2%AB%E9%AA%82%E6%9F%A5%E5%88%86%E5%89%8D%E6%8C%A8%E4%B8%AA%E6%89%93%E6%89%AB%E6%88%BF%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [审计报告披露地方财政管理漏洞](https://www.baidu.com/s?wd=%E5%AE%A1%E8%AE%A1%E6%8A%A5%E5%91%8A%E6%8A%AB%E9%9C%B2%E5%9C%B0%E6%96%B9%E8%B4%A2%E6%94%BF%E7%AE%A1%E7%90%86%E6%BC%8F%E6%B4%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女医生遭前夫投毒案多人被处分](https://www.baidu.com/s?wd=%E5%A5%B3%E5%8C%BB%E7%94%9F%E9%81%AD%E5%89%8D%E5%A4%AB%E6%8A%95%E6%AF%92%E6%A1%88%E5%A4%9A%E4%BA%BA%E8%A2%AB%E5%A4%84%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [东京电车有人挥刀东北大哥挺身而出](https://www.baidu.com/s?wd=%E4%B8%9C%E4%BA%AC%E7%94%B5%E8%BD%A6%E6%9C%89%E4%BA%BA%E6%8C%A5%E5%88%80%E4%B8%9C%E5%8C%97%E5%A4%A7%E5%93%A5%E6%8C%BA%E8%BA%AB%E8%80%8C%E5%87%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [复旦毕业生简历衣着暴露？校方回应](https://www.baidu.com/s?wd=%E5%A4%8D%E6%97%A6%E6%AF%95%E4%B8%9A%E7%94%9F%E7%AE%80%E5%8E%86%E8%A1%A3%E7%9D%80%E6%9A%B4%E9%9C%B2%EF%BC%9F%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男生怕考砸被骂查分前挨个打扫房间](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E6%80%95%E8%80%83%E7%A0%B8%E8%A2%AB%E9%AA%82%E6%9F%A5%E5%88%86%E5%89%8D%E6%8C%A8%E4%B8%AA%E6%89%93%E6%89%AB%E6%88%BF%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
