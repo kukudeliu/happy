@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 10:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 10:44:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [张萌问张铎十年了你行了吗](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%90%8C%E9%97%AE%E5%BC%A0%E9%93%8E%E5%8D%81%E5%B9%B4%E4%BA%86%E4%BD%A0%E8%A1%8C%E4%BA%86%E5%90%97%23&t=31&band_rank=5&Refer=top)<br />
 6. [A股](https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=6&Refer=top)<br />
 7. [赵露思露腰了](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E9%9C%B2%E8%85%B0%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [长风渡网播断更](https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%A3%8E%E6%B8%A1%E7%BD%91%E6%92%AD%E6%96%AD%E6%9B%B4%23&t=31&band_rank=8&Refer=top)<br />
-9. [你的童年报复性补偿行为](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%9A%84%E7%AB%A5%E5%B9%B4%E6%8A%A5%E5%A4%8D%E6%80%A7%E8%A1%A5%E5%81%BF%E8%A1%8C%E4%B8%BA%23&t=31&band_rank=9&Refer=top)<br />
+8. [你的童年报复性补偿行为](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%9A%84%E7%AB%A5%E5%B9%B4%E6%8A%A5%E5%A4%8D%E6%80%A7%E8%A1%A5%E5%81%BF%E8%A1%8C%E4%B8%BA%23&t=31&band_rank=8&Refer=top)<br />
+9. [长风渡网播断更](https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%A3%8E%E6%B8%A1%E7%BD%91%E6%92%AD%E6%96%AD%E6%9B%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -19,8 +19,8 @@
 3. [范志毅谈贵州「村超」火爆，「纯粹的足球不带有任何色彩，踢得很开心」，如何看待他的观点？](https://www.zhihu.com/question/608517517)<br />
 4. [看哪些纪录片可以提高认知？](https://www.zhihu.com/question/599621146)<br />
 5. [莫迪访美之行收获满满，亚马逊谷歌加码投资印度，并呼吁全球公司进行「印度制造」，哪些信息值得关注？](https://www.zhihu.com/question/608567391)<br />
-6. [土匪在山上是靠什么生存的？](https://www.zhihu.com/question/599176505)<br />
-7. [「奶酪越多，奶酪孔越多。奶酪孔越多，奶酪越少。所以奶酪越多，奶酪越少。」这句话的逻辑错误在哪里?](https://www.zhihu.com/question/526941332)<br />
+6. [「奶酪越多，奶酪孔越多。奶酪孔越多，奶酪越少。所以奶酪越多，奶酪越少。」这句话的逻辑错误在哪里?](https://www.zhihu.com/question/526941332)<br />
+7. [土匪在山上是靠什么生存的？](https://www.zhihu.com/question/599176505)<br />
 8. [姆巴佩要拿多少奖项，历史地位能超过 C 罗?](https://www.zhihu.com/question/608025000)<br />
 9. [梅西参加马克西 - 罗德里格斯告别战，上半场任意球破门 + 帽子戏法，全场为他唱生日歌，如何评价他的表现？](https://www.zhihu.com/question/608398892)<br />
 
@@ -34,7 +34,7 @@
 6. [警方通报男童被武术俱乐部教练打死](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E7%AB%A5%E8%A2%AB%E6%AD%A6%E6%9C%AF%E4%BF%B1%E4%B9%90%E9%83%A8%E6%95%99%E7%BB%83%E6%89%93%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子欠1.7亿巨债仍住豪宅养女友](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%AC%A01.7%E4%BA%BF%E5%B7%A8%E5%80%BA%E4%BB%8D%E4%BD%8F%E8%B1%AA%E5%AE%85%E5%85%BB%E5%A5%B3%E5%8F%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [专家称不可能再追求100%可靠供电](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E4%B8%8D%E5%8F%AF%E8%83%BD%E5%86%8D%E8%BF%BD%E6%B1%82100%25%E5%8F%AF%E9%9D%A0%E4%BE%9B%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [2022年中央财政赤字26500亿元](https://www.baidu.com/s?wd=2022%E5%B9%B4%E4%B8%AD%E5%A4%AE%E8%B4%A2%E6%94%BF%E8%B5%A4%E5%AD%9726500%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [为什么医院不让家属陪护只能请护工](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8C%BB%E9%99%A2%E4%B8%8D%E8%AE%A9%E5%AE%B6%E5%B1%9E%E9%99%AA%E6%8A%A4%E5%8F%AA%E8%83%BD%E8%AF%B7%E6%8A%A4%E5%B7%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [警方通报男童被武术俱乐部教练打死](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E7%AB%A5%E8%A2%AB%E6%AD%A6%E6%9C%AF%E4%BF%B1%E4%B9%90%E9%83%A8%E6%95%99%E7%BB%83%E6%89%93%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子欠1.7亿巨债仍住豪宅养女友](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%AC%A01.7%E4%BA%BF%E5%B7%A8%E5%80%BA%E4%BB%8D%E4%BD%8F%E8%B1%AA%E5%AE%85%E5%85%BB%E5%A5%B3%E5%8F%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [专家称不可能再追求100%可靠供电](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E4%B8%8D%E5%8F%AF%E8%83%BD%E5%86%8D%E8%BF%BD%E6%B1%82100%25%E5%8F%AF%E9%9D%A0%E4%BE%9B%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [2022年中央财政赤字26500亿元](https://www.baidu.com/s?wd=2022%E5%B9%B4%E4%B8%AD%E5%A4%AE%E8%B4%A2%E6%94%BF%E8%B5%A4%E5%AD%9726500%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [为什么医院不让家属陪护只能请护工](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8C%BB%E9%99%A2%E4%B8%8D%E8%AE%A9%E5%AE%B6%E5%B1%9E%E9%99%AA%E6%8A%A4%E5%8F%AA%E8%83%BD%E8%AF%B7%E6%8A%A4%E5%B7%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
