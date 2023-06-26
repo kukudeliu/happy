@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 18:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 18:21:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [男孩估分700结果真考700分](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E4%BC%B0%E5%88%86700%E7%BB%93%E6%9E%9C%E7%9C%9F%E8%80%83700%E5%88%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [Jennie的演技](https://s.weibo.com/weibo?q=%23Jennie%E7%9A%84%E6%BC%94%E6%8A%80%23&t=31&band_rank=7&Refer=top)<br />
 8. [消失的她 畸形秀](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%20%E7%95%B8%E5%BD%A2%E7%A7%80&t=31&band_rank=8&Refer=top)<br />
-9. [女儿博士毕业父亲拍着胸脯说骄傲](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E5%8D%9A%E5%A3%AB%E6%AF%95%E4%B8%9A%E7%88%B6%E4%BA%B2%E6%8B%8D%E7%9D%80%E8%83%B8%E8%84%AF%E8%AF%B4%E9%AA%84%E5%82%B2%23&t=31&band_rank=9&Refer=top)<br />
+9. [缉毒警说不想再因缉毒而立功](https://s.weibo.com/weibo?q=%23%E7%BC%89%E6%AF%92%E8%AD%A6%E8%AF%B4%E4%B8%8D%E6%83%B3%E5%86%8D%E5%9B%A0%E7%BC%89%E6%AF%92%E8%80%8C%E7%AB%8B%E5%8A%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -21,8 +21,8 @@
 5. [高考完想换两万的游戏本，爸妈觉得太贵，准大学生想用两万的游戏本奢侈吗？](https://www.zhihu.com/question/606787090)<br />
 6. [在岸人民币跌破 7.23，日内跌近 400 点，最低触及 7.2339，如何解读这一走势？](https://www.zhihu.com/question/608737327)<br />
 7. [诺贝尔奖获得者、锂电池之父 Goodenough 去世，享年 100 岁，他曾做出了哪些贡献？](https://www.zhihu.com/question/608703568)<br />
-8. [发布半年的 vivo X90 系列在 3.5-5K 价位段销量仍第一，你看好中期改款的 X90s 吗？](https://www.zhihu.com/question/608663958)<br />
-9. [部分城市新房交易疲软引发库存激增，全国 68 城去化周期超过 14 个月，哪些信息值得关注？](https://www.zhihu.com/question/608671498)<br />
+8. [部分城市新房交易疲软引发库存激增，全国 68 城去化周期超过 14 个月，哪些信息值得关注？](https://www.zhihu.com/question/608671498)<br />
+9. [如果有人把氨气成本降低到一毛钱五十吨，他能拿诺贝尔化学奖吗？](https://www.zhihu.com/question/606420864)<br />
 
 > 百度  
 
