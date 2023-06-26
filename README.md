@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 22:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 22:24:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [2022 年中央财政赤字 26500 亿元与预算持平，审计发现失业补助被蚕食等问题，哪些信息值得关注？](https://www.zhihu.com/question/608671302)<br />
 5. [为反制日本，普京签令将 9 月 3 日更名为「对日本军国主义战争胜利日」，更名对俄日两国意味着什么？](https://www.zhihu.com/question/608582404)<br />
 6. [俄媒称「普里戈任刑案尚未结案」，该案件后续可能会如何发展？局势可能有哪些变化？](https://www.zhihu.com/question/608757039)<br />
-7. [在岸人民币跌破 7.23，日内跌近 400 点，最低触及 7.2339，如何解读这一走势？](https://www.zhihu.com/question/608737327)<br />
-8. [东北为什么有铝盒饭？](https://www.zhihu.com/question/602991544)<br />
-9. [多地气温突破历史极值，电力供需形势偏紧，专家称「不可能再追求 100% 可靠供应」，如何看待这一现象？](https://www.zhihu.com/question/608733520)<br />
+7. [青岛一名 8 岁男童被武术教练打死，3 名犯罪嫌疑人已抓获，这起到了哪些警示作用？](https://www.zhihu.com/question/608713781)<br />
+8. [在岸人民币跌破 7.23，日内跌近 400 点，最低触及 7.2339，如何解读这一走势？](https://www.zhihu.com/question/608737327)<br />
+9. [东北为什么有铝盒饭？](https://www.zhihu.com/question/602991544)<br />
 
 > 百度  
 
@@ -34,7 +34,7 @@
 6. [深圳外卖员被雨篷扎颈身亡](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%A4%96%E5%8D%96%E5%91%98%E8%A2%AB%E9%9B%A8%E7%AF%B7%E6%89%8E%E9%A2%88%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男孩坠楼后还哭喊：妈妈别打我](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E5%9D%A0%E6%A5%BC%E5%90%8E%E8%BF%98%E5%93%AD%E5%96%8A%EF%BC%9A%E5%A6%88%E5%A6%88%E5%88%AB%E6%89%93%E6%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [东京电车有人挥刀东北大哥挺身而出](https://www.baidu.com/s?wd=%E4%B8%9C%E4%BA%AC%E7%94%B5%E8%BD%A6%E6%9C%89%E4%BA%BA%E6%8C%A5%E5%88%80%E4%B8%9C%E5%8C%97%E5%A4%A7%E5%93%A5%E6%8C%BA%E8%BA%AB%E8%80%8C%E5%87%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [泰国孕妇坠崖案当事人谈消失的她](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E5%AD%95%E5%A6%87%E5%9D%A0%E5%B4%96%E6%A1%88%E5%BD%93%E4%BA%8B%E4%BA%BA%E8%B0%88%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [律所主任回应不招川大毕业生](https://www.baidu.com/s?wd=%E5%BE%8B%E6%89%80%E4%B8%BB%E4%BB%BB%E5%9B%9E%E5%BA%94%E4%B8%8D%E6%8B%9B%E5%B7%9D%E5%A4%A7%E6%AF%95%E4%B8%9A%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [深圳外卖员被雨篷扎颈身亡](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%A4%96%E5%8D%96%E5%91%98%E8%A2%AB%E9%9B%A8%E7%AF%B7%E6%89%8E%E9%A2%88%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男孩坠楼后还哭喊：妈妈别打我](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E5%9D%A0%E6%A5%BC%E5%90%8E%E8%BF%98%E5%93%AD%E5%96%8A%EF%BC%9A%E5%A6%88%E5%A6%88%E5%88%AB%E6%89%93%E6%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [东京电车有人挥刀东北大哥挺身而出](https://www.baidu.com/s?wd=%E4%B8%9C%E4%BA%AC%E7%94%B5%E8%BD%A6%E6%9C%89%E4%BA%BA%E6%8C%A5%E5%88%80%E4%B8%9C%E5%8C%97%E5%A4%A7%E5%93%A5%E6%8C%BA%E8%BA%AB%E8%80%8C%E5%87%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [泰国孕妇坠崖案当事人谈消失的她](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E5%AD%95%E5%A6%87%E5%9D%A0%E5%B4%96%E6%A1%88%E5%BD%93%E4%BA%8B%E4%BA%BA%E8%B0%88%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [律所主任回应不招川大毕业生](https://www.baidu.com/s?wd=%E5%BE%8B%E6%89%80%E4%B8%BB%E4%BB%BB%E5%9B%9E%E5%BA%94%E4%B8%8D%E6%8B%9B%E5%B7%9D%E5%A4%A7%E6%AF%95%E4%B8%9A%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
