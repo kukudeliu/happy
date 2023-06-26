@@ -1,15 +1,15 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 14:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 14:33:01</h4></div>
 
 > 微博  
 
 1. [消失的她 畸形秀](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%20%E7%95%B8%E5%BD%A2%E7%A7%80&t=31&band_rank=1&Refer=top)<br />
-2. [不要再对瘦子说你好瘦了](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%A6%81%E5%86%8D%E5%AF%B9%E7%98%A6%E5%AD%90%E8%AF%B4%E4%BD%A0%E5%A5%BD%E7%98%A6%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
+2. [张雪峰曾称每年仅讲课就能挣几百万](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E6%9B%BE%E7%A7%B0%E6%AF%8F%E5%B9%B4%E4%BB%85%E8%AE%B2%E8%AF%BE%E5%B0%B1%E8%83%BD%E6%8C%A3%E5%87%A0%E7%99%BE%E4%B8%87%23&t=31&band_rank=2&Refer=top)<br />
 3. [毕业典礼能多有仪式感](https://s.weibo.com/weibo?q=%23%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E8%83%BD%E5%A4%9A%E6%9C%89%E4%BB%AA%E5%BC%8F%E6%84%9F%23&t=31&band_rank=3&Refer=top)<br />
 4. [蔡徐坤回应和歌迷互动](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E5%9B%9E%E5%BA%94%E5%92%8C%E6%AD%8C%E8%BF%B7%E4%BA%92%E5%8A%A8%23&t=31&band_rank=4&Refer=top)<br />
-5. [张雪峰曾称每年仅讲课就能挣几百万](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E6%9B%BE%E7%A7%B0%E6%AF%8F%E5%B9%B4%E4%BB%85%E8%AE%B2%E8%AF%BE%E5%B0%B1%E8%83%BD%E6%8C%A3%E5%87%A0%E7%99%BE%E4%B8%87%23&t=31&band_rank=5&Refer=top)<br />
-6. [刘芸管控郑钧从头到脚](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%8A%B8%E7%AE%A1%E6%8E%A7%E9%83%91%E9%92%A7%E4%BB%8E%E5%A4%B4%E5%88%B0%E8%84%9A%23&t=31&band_rank=6&Refer=top)<br />
-7. [泰国孕妇坠崖案当事人谈电影消失的她](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E5%AD%95%E5%A6%87%E5%9D%A0%E5%B4%96%E6%A1%88%E5%BD%93%E4%BA%8B%E4%BA%BA%E8%B0%88%E7%94%B5%E5%BD%B1%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%23&t=31&band_rank=7&Refer=top)<br />
-8. [男子欠1.7亿仍住豪宅养女友](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%AC%A01.7%E4%BA%BF%E4%BB%8D%E4%BD%8F%E8%B1%AA%E5%AE%85%E5%85%BB%E5%A5%B3%E5%8F%8B%23&t=31&band_rank=8&Refer=top)<br />
+5. [不要再对瘦子说你好瘦了](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%A6%81%E5%86%8D%E5%AF%B9%E7%98%A6%E5%AD%90%E8%AF%B4%E4%BD%A0%E5%A5%BD%E7%98%A6%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
+6. [男子欠1.7亿仍住豪宅养女友](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%AC%A01.7%E4%BA%BF%E4%BB%8D%E4%BD%8F%E8%B1%AA%E5%AE%85%E5%85%BB%E5%A5%B3%E5%8F%8B%23&t=31&band_rank=6&Refer=top)<br />
+7. [刘芸管控郑钧从头到脚](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%8A%B8%E7%AE%A1%E6%8E%A7%E9%83%91%E9%92%A7%E4%BB%8E%E5%A4%B4%E5%88%B0%E8%84%9A%23&t=31&band_rank=7&Refer=top)<br />
+8. [泰国孕妇坠崖案当事人谈电影消失的她](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E5%AD%95%E5%A6%87%E5%9D%A0%E5%B4%96%E6%A1%88%E5%BD%93%E4%BA%8B%E4%BA%BA%E8%B0%88%E7%94%B5%E5%BD%B1%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%23&t=31&band_rank=8&Refer=top)<br />
 9. [那就清华呗](https://s.weibo.com/weibo?q=%23%E9%82%A3%E5%B0%B1%E6%B8%85%E5%8D%8E%E5%91%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -19,8 +19,8 @@
 3. [李嘉诚家族被指「趁火打劫」连续抄底两上市房企自救关键项目，此举出于什么战略考量？](https://www.zhihu.com/question/608665319)<br />
 4. [杭州亚运会电竞集训队最终入选名单公示，如何评价《王者荣耀》项目名单？](https://www.zhihu.com/question/608619934)<br />
 5. [高考完想换两万的游戏本，爸妈觉得太贵，准大学生想用两万的游戏本奢侈吗？](https://www.zhihu.com/question/606787090)<br />
-6. [如果有人把氨气成本降低到一毛钱五十吨，他能拿诺贝尔化学奖吗？](https://www.zhihu.com/question/606420864)<br />
-7. [如何评价《科幻世界》2023 年正刊第六期《依尘（中）》中出现大量公式的现象？](https://www.zhihu.com/question/606816750)<br />
+6. [如何评价《科幻世界》2023 年正刊第六期《依尘（中）》中出现大量公式的现象？](https://www.zhihu.com/question/606816750)<br />
+7. [如果有人把氨气成本降低到一毛钱五十吨，他能拿诺贝尔化学奖吗？](https://www.zhihu.com/question/606420864)<br />
 8. []()<br />
 9. [什么是「青年危机」？每一代人面临的「青年危机」相同吗？](https://www.zhihu.com/question/604935831)<br />
 
