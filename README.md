@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 00:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 00:40:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [贬低你的亲戚都是父母惯的](https://s.weibo.com/weibo?q=%E8%B4%AC%E4%BD%8E%E4%BD%A0%E7%9A%84%E4%BA%B2%E6%88%9A%E9%83%BD%E6%98%AF%E7%88%B6%E6%AF%8D%E6%83%AF%E7%9A%84&t=31&band_rank=6&Refer=top)<br />
 7. [新京报评偷偷藏不住](https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%BA%AC%E6%8A%A5%E8%AF%84%E5%81%B7%E5%81%B7%E8%97%8F%E4%B8%8D%E4%BD%8F%23&t=31&band_rank=7&Refer=top)<br />
 8. [妹妹考了702分却哭了一下午](https://s.weibo.com/weibo?q=%23%E5%A6%B9%E5%A6%B9%E8%80%83%E4%BA%86702%E5%88%86%E5%8D%B4%E5%93%AD%E4%BA%86%E4%B8%80%E4%B8%8B%E5%8D%88%23&t=31&band_rank=8&Refer=top)<br />
-9. [陈情令开播四周年](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%83%85%E4%BB%A4%E5%BC%80%E6%92%AD%E5%9B%9B%E5%91%A8%E5%B9%B4%23&t=31&band_rank=9&Refer=top)<br />
+9. [原来外卖店铺照片可以造假](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E5%A4%96%E5%8D%96%E5%BA%97%E9%93%BA%E7%85%A7%E7%89%87%E5%8F%AF%E4%BB%A5%E9%80%A0%E5%81%87&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
