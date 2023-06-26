@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 11:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 11:39:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [从胃炎到胃癌](https://s.weibo.com/weibo?q=%E4%BB%8E%E8%83%83%E7%82%8E%E5%88%B0%E8%83%83%E7%99%8C&t=31&band_rank=6&Refer=top)<br />
 7. [张萌问张铎十年了你行了吗](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%90%8C%E9%97%AE%E5%BC%A0%E9%93%8E%E5%8D%81%E5%B9%B4%E4%BA%86%E4%BD%A0%E8%A1%8C%E4%BA%86%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
 8. [A股](https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=8&Refer=top)<br />
-9. [长风渡网播断更](https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%A3%8E%E6%B8%A1%E7%BD%91%E6%92%AD%E6%96%AD%E6%9B%B4%23&t=31&band_rank=9&Refer=top)<br />
+9. [蔡徐坤甩外套](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E7%94%A9%E5%A4%96%E5%A5%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -34,7 +34,7 @@
 6. [网友：《消失的她》畸形秀让人害怕](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%EF%BC%9A%E3%80%8A%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E3%80%8B%E7%95%B8%E5%BD%A2%E7%A7%80%E8%AE%A9%E4%BA%BA%E5%AE%B3%E6%80%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [警方通报男童被武术俱乐部教练打死](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E7%AB%A5%E8%A2%AB%E6%AD%A6%E6%9C%AF%E4%BF%B1%E4%B9%90%E9%83%A8%E6%95%99%E7%BB%83%E6%89%93%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [老师凡尔赛全班仅3人没上600分](https://www.baidu.com/s?wd=%E8%80%81%E5%B8%88%E5%87%A1%E5%B0%94%E8%B5%9B%E5%85%A8%E7%8F%AD%E4%BB%853%E4%BA%BA%E6%B2%A1%E4%B8%8A600%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [2022年中央财政赤字26500亿元](https://www.baidu.com/s?wd=2022%E5%B9%B4%E4%B8%AD%E5%A4%AE%E8%B4%A2%E6%94%BF%E8%B5%A4%E5%AD%9726500%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [专家称不可能再追求100%可靠供电](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E4%B8%8D%E5%8F%AF%E8%83%BD%E5%86%8D%E8%BF%BD%E6%B1%82100%25%E5%8F%AF%E9%9D%A0%E4%BE%9B%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [网友：《消失的她》畸形秀让人害怕](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%EF%BC%9A%E3%80%8A%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E3%80%8B%E7%95%B8%E5%BD%A2%E7%A7%80%E8%AE%A9%E4%BA%BA%E5%AE%B3%E6%80%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [警方通报男童被武术俱乐部教练打死](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E7%AB%A5%E8%A2%AB%E6%AD%A6%E6%9C%AF%E4%BF%B1%E4%B9%90%E9%83%A8%E6%95%99%E7%BB%83%E6%89%93%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [老师凡尔赛全班仅3人没上600分](https://www.baidu.com/s?wd=%E8%80%81%E5%B8%88%E5%87%A1%E5%B0%94%E8%B5%9B%E5%85%A8%E7%8F%AD%E4%BB%853%E4%BA%BA%E6%B2%A1%E4%B8%8A600%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [2022年中央财政赤字26500亿元](https://www.baidu.com/s?wd=2022%E5%B9%B4%E4%B8%AD%E5%A4%AE%E8%B4%A2%E6%94%BF%E8%B5%A4%E5%AD%9726500%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [专家称不可能再追求100%可靠供电](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E4%B8%8D%E5%8F%AF%E8%83%BD%E5%86%8D%E8%BF%BD%E6%B1%82100%25%E5%8F%AF%E9%9D%A0%E4%BE%9B%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
