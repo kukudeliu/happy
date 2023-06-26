@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 15:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 15:57:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [张雪峰对于学医的观点](https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%AF%B9%E4%BA%8E%E5%AD%A6%E5%8C%BB%E7%9A%84%E8%A7%82%E7%82%B9&t=31&band_rank=6&Refer=top)<br />
 7. [不要再对瘦子说你好瘦了](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%A6%81%E5%86%8D%E5%AF%B9%E7%98%A6%E5%AD%90%E8%AF%B4%E4%BD%A0%E5%A5%BD%E7%98%A6%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [刘芸管控郑钧从头到脚](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%8A%B8%E7%AE%A1%E6%8E%A7%E9%83%91%E9%92%A7%E4%BB%8E%E5%A4%B4%E5%88%B0%E8%84%9A%23&t=31&band_rank=8&Refer=top)<br />
-9. [那就清华呗](https://s.weibo.com/weibo?q=%23%E9%82%A3%E5%B0%B1%E6%B8%85%E5%8D%8E%E5%91%97%23&t=31&band_rank=9&Refer=top)<br />
+9. [男子欠1.7亿仍住豪宅养女友](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%AC%A01.7%E4%BA%BF%E4%BB%8D%E4%BD%8F%E8%B1%AA%E5%AE%85%E5%85%BB%E5%A5%B3%E5%8F%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -21,8 +21,8 @@
 5. [如果有人把氨气成本降低到一毛钱五十吨，他能拿诺贝尔化学奖吗？](https://www.zhihu.com/question/606420864)<br />
 6. [烧烤店因亲戚孩子来店里帮忙被罚 2.5 万，官方称属「雇佣童工」，如何从法律角度解读此事？](https://www.zhihu.com/question/608695467)<br />
 7. [上市公司祝贺总经理女儿高考 710 分，单科创佳绩，律师称「不违规，但属不当披露」，哪些信息值得关注？](https://www.zhihu.com/question/608567249)<br />
-8. [浙江 2023 年高考分数线公布，普通一段线 488，二段线 274，还有哪些信息值得关注？](https://www.zhihu.com/question/608466493)<br />
-9. [如何评价 6 月 26 日亮相的 vivo X90s ，有哪些亮点和不足？](https://www.zhihu.com/question/608663741)<br />
+8. []()<br />
+9. [浙江 2023 年高考分数线公布，普通一段线 488，二段线 274，还有哪些信息值得关注？](https://www.zhihu.com/question/608466493)<br />
 
 > 百度  
 
