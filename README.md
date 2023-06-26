@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 13:41:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 13:42:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [张萌问张铎十年了你行了吗](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%90%8C%E9%97%AE%E5%BC%A0%E9%93%8E%E5%8D%81%E5%B9%B4%E4%BA%86%E4%BD%A0%E8%A1%8C%E4%BA%86%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [那就清华呗](https://s.weibo.com/weibo?q=%23%E9%82%A3%E5%B0%B1%E6%B8%85%E5%8D%8E%E5%91%97%23&t=31&band_rank=7&Refer=top)<br />
 8. [灿烂灿烂改名定档](https://s.weibo.com/weibo?q=%23%E7%81%BF%E7%83%82%E7%81%BF%E7%83%82%E6%94%B9%E5%90%8D%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=8&Refer=top)<br />
-9. [网传8岁男童被武术教练打死](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A08%E5%B2%81%E7%94%B7%E7%AB%A5%E8%A2%AB%E6%AD%A6%E6%9C%AF%E6%95%99%E7%BB%83%E6%89%93%E6%AD%BB%23&t=31&band_rank=9&Refer=top)<br />
+9. [从胃炎到胃癌](https://s.weibo.com/weibo?q=%E4%BB%8E%E8%83%83%E7%82%8E%E5%88%B0%E8%83%83%E7%99%8C&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -18,11 +18,11 @@
 2. [莫迪访美之行收获满满，亚马逊谷歌加码投资印度，并呼吁全球公司进行「印度制造」，哪些信息值得关注？](https://www.zhihu.com/question/608567391)<br />
 3. [瓦格纳雇佣兵集团人员从俄罗斯南部两个州撤离，这意味着什么？目前当地具体情况如何？](https://www.zhihu.com/question/608666410)<br />
 4. [李嘉诚家族被指「趁火打劫」连续抄底两上市房企自救关键项目，此举出于什么战略考量？](https://www.zhihu.com/question/608665319)<br />
-5. [Open AI 与多家教育科技公司合作建构人工智能适应性学习系统，推进教育「天下大同」能带来变革吗？](https://www.zhihu.com/question/608671199)<br />
-6. []()<br />
-7. [如今的德玛西亚凭什么和诺克萨斯抗衡？](https://www.zhihu.com/question/484996882)<br />
-8. [高铁选座位的时候，你更倾向于什么座位？理由是什么？](https://www.zhihu.com/question/606948403)<br />
-9. [人在什么情况下才会大彻大悟？](https://www.zhihu.com/question/472285403)<br />
+5. [蔡徐坤被曝「曾让 C 女士独自去医院打胎」，真实情况可能如何？如何看待此事？](https://www.zhihu.com/question/608690464)<br />
+6. [Open AI 与多家教育科技公司合作建构人工智能适应性学习系统，推进教育「天下大同」能带来变革吗？](https://www.zhihu.com/question/608671199)<br />
+7. []()<br />
+8. [如今的德玛西亚凭什么和诺克萨斯抗衡？](https://www.zhihu.com/question/484996882)<br />
+9. [高铁选座位的时候，你更倾向于什么座位？理由是什么？](https://www.zhihu.com/question/606948403)<br />
 
 > 百度  
 
