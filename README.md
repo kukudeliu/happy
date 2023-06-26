@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 19:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 19:58:01</h4></div>
 
 > 微博  
 
 1. [齐思钧 身体一直没有彻底康复](https://s.weibo.com/weibo?q=%E9%BD%90%E6%80%9D%E9%92%A7%20%E8%BA%AB%E4%BD%93%E4%B8%80%E7%9B%B4%E6%B2%A1%E6%9C%89%E5%BD%BB%E5%BA%95%E5%BA%B7%E5%A4%8D&t=31&band_rank=1&Refer=top)<br />
-2. [夫妻欠债百万玩失踪老父亲凑钱还款](https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E6%AC%A0%E5%80%BA%E7%99%BE%E4%B8%87%E7%8E%A9%E5%A4%B1%E8%B8%AA%E8%80%81%E7%88%B6%E4%BA%B2%E5%87%91%E9%92%B1%E8%BF%98%E6%AC%BE%23&t=31&band_rank=2&Refer=top)<br />
+2. [跳桥小哥被邀请落户杭州](https://s.weibo.com/weibo?q=%23%E8%B7%B3%E6%A1%A5%E5%B0%8F%E5%93%A5%E8%A2%AB%E9%82%80%E8%AF%B7%E8%90%BD%E6%88%B7%E6%9D%AD%E5%B7%9E%23&t=31&band_rank=2&Refer=top)<br />
 3. [高质量发展调研行](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E8%B0%83%E7%A0%94%E8%A1%8C%23&t=31&band_rank=3&Refer=top)<br />
 4. [蔡徐坤回应和歌迷互动](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E5%9B%9E%E5%BA%94%E5%92%8C%E6%AD%8C%E8%BF%B7%E4%BA%92%E5%8A%A8%23&t=31&band_rank=4&Refer=top)<br />
-5. [跳桥小哥被邀请落户杭州](https://s.weibo.com/weibo?q=%23%E8%B7%B3%E6%A1%A5%E5%B0%8F%E5%93%A5%E8%A2%AB%E9%82%80%E8%AF%B7%E8%90%BD%E6%88%B7%E6%9D%AD%E5%B7%9E%23&t=31&band_rank=5&Refer=top)<br />
+5. [夫妻欠债百万玩失踪老父亲凑钱还款](https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E6%AC%A0%E5%80%BA%E7%99%BE%E4%B8%87%E7%8E%A9%E5%A4%B1%E8%B8%AA%E8%80%81%E7%88%B6%E4%BA%B2%E5%87%91%E9%92%B1%E8%BF%98%E6%AC%BE%23&t=31&band_rank=5&Refer=top)<br />
 6. [澳洲爆发恐校症](https://s.weibo.com/weibo?q=%E6%BE%B3%E6%B4%B2%E7%88%86%E5%8F%91%E6%81%90%E6%A0%A1%E7%97%87&t=31&band_rank=6&Refer=top)<br />
 7. [缉毒警说不想再因缉毒而立功](https://s.weibo.com/weibo?q=%23%E7%BC%89%E6%AF%92%E8%AD%A6%E8%AF%B4%E4%B8%8D%E6%83%B3%E5%86%8D%E5%9B%A0%E7%BC%89%E6%AF%92%E8%80%8C%E7%AB%8B%E5%8A%9F%23&t=31&band_rank=7&Refer=top)<br />
 8. [男孩估分700结果真考700分](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E4%BC%B0%E5%88%86700%E7%BB%93%E6%9E%9C%E7%9C%9F%E8%80%83700%E5%88%86%23&t=31&band_rank=8&Refer=top)<br />
@@ -18,11 +18,11 @@
 2. [烧烤店因亲戚孩子来店里帮忙被罚 2.5 万，官方称属「雇佣童工」，如何从法律角度解读此事？](https://www.zhihu.com/question/608695467)<br />
 3. [李嘉诚家族被指「趁火打劫」连续抄底两上市房企自救关键项目，此举出于什么战略考量？](https://www.zhihu.com/question/608665319)<br />
 4. [2022 年中央财政赤字 26500 亿元与预算持平，审计发现失业补助被蚕食等问题，哪些信息值得关注？](https://www.zhihu.com/question/608671302)<br />
-5. [在岸人民币跌破 7.23，日内跌近 400 点，最低触及 7.2339，如何解读这一走势？](https://www.zhihu.com/question/608737327)<br />
-6. [电影《消失的她》陈麦提到「东南亚妻子消失然后出现在畸形秀的事件」有何深意？](https://www.zhihu.com/question/608103252)<br />
-7. [日本球员三笘薰称「真感觉到了世界杯夺冠的可能，希望能被后世传颂」，你认为日本队能夺世界杯冠军吗？](https://www.zhihu.com/question/608592507)<br />
-8. [多地气温突破历史极值，电力供需形势偏紧，专家称「不可能再追求 100% 可靠供应」，如何看待这一现象？](https://www.zhihu.com/question/608733520)<br />
-9. [如果有人把氨气成本降低到一毛钱五十吨，他能拿诺贝尔化学奖吗？](https://www.zhihu.com/question/606420864)<br />
+5. [土木、「生化环材」还是天坑专业吗？新能源的崛起会带来报考这些专业的好时机吗？](https://www.zhihu.com/theater/14057)<br />
+6. [在岸人民币跌破 7.23，日内跌近 400 点，最低触及 7.2339，如何解读这一走势？](https://www.zhihu.com/question/608737327)<br />
+7. [电影《消失的她》陈麦提到「东南亚妻子消失然后出现在畸形秀的事件」有何深意？](https://www.zhihu.com/question/608103252)<br />
+8. [日本球员三笘薰称「真感觉到了世界杯夺冠的可能，希望能被后世传颂」，你认为日本队能夺世界杯冠军吗？](https://www.zhihu.com/question/608592507)<br />
+9. [多地气温突破历史极值，电力供需形势偏紧，专家称「不可能再追求 100% 可靠供应」，如何看待这一现象？](https://www.zhihu.com/question/608733520)<br />
 
 > 百度  
 
