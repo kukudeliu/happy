@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 18:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 18:28:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [四川26岁失联女子遗体被找到](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D26%E5%B2%81%E5%A4%B1%E8%81%94%E5%A5%B3%E5%AD%90%E9%81%97%E4%BD%93%E8%A2%AB%E6%89%BE%E5%88%B0%23&t=31&band_rank=6&Refer=top)<br />
 7. [男孩估分700结果真考700分](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E4%BC%B0%E5%88%86700%E7%BB%93%E6%9E%9C%E7%9C%9F%E8%80%83700%E5%88%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [消失的她 畸形秀](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%20%E7%95%B8%E5%BD%A2%E7%A7%80&t=31&band_rank=8&Refer=top)<br />
-9. [胡锡进开通股票账户](https://s.weibo.com/weibo?q=%23%E8%83%A1%E9%94%A1%E8%BF%9B%E5%BC%80%E9%80%9A%E8%82%A1%E7%A5%A8%E8%B4%A6%E6%88%B7%23&t=31&band_rank=9&Refer=top)<br />
+9. [2022中央财政赤字26500亿元](https://s.weibo.com/weibo?q=%232022%E4%B8%AD%E5%A4%AE%E8%B4%A2%E6%94%BF%E8%B5%A4%E5%AD%9726500%E4%BA%BF%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
