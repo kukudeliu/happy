@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 22:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 22:48:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [在岸人民币跌破 7.23，日内跌近 400 点，最低触及 7.2339，如何解读这一走势？](https://www.zhihu.com/question/608737327)<br />
 7. [青岛一名 8 岁男童被武术教练打死，3 名犯罪嫌疑人已抓获，这起到了哪些警示作用？](https://www.zhihu.com/question/608713781)<br />
 8. [东北为什么有铝盒饭？](https://www.zhihu.com/question/602991544)<br />
-9. [俄媒称「普里戈任刑案尚未结案」，该案件后续可能会如何发展？局势可能有哪些变化？](https://www.zhihu.com/question/608757039)<br />
+9. [2023 LPL 夏季赛 TES 0:2 WE，如何评价这场比赛？](https://www.zhihu.com/question/608773481)<br />
 
 > 百度  
 
