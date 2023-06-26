@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 04:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 04:08:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [贵州一6岁男童感染食脑虫](https://s.weibo.com/weibo?q=%23%E8%B4%B5%E5%B7%9E%E4%B8%806%E5%B2%81%E7%94%B7%E7%AB%A5%E6%84%9F%E6%9F%93%E9%A3%9F%E8%84%91%E8%99%AB%23&t=31&band_rank=4&Refer=top)<br />
 5. [段嘉许 男狐狸精](https://s.weibo.com/weibo?q=%E6%AE%B5%E5%98%89%E8%AE%B8%20%E7%94%B7%E7%8B%90%E7%8B%B8%E7%B2%BE&t=31&band_rank=5&Refer=top)<br />
 6. [妹妹考了702分却哭了一下午](https://s.weibo.com/weibo?q=%23%E5%A6%B9%E5%A6%B9%E8%80%83%E4%BA%86702%E5%88%86%E5%8D%B4%E5%93%AD%E4%BA%86%E4%B8%80%E4%B8%8B%E5%8D%88%23&t=31&band_rank=6&Refer=top)<br />
-7. [王暖暖](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%9A%96%E6%9A%96&t=31&band_rank=7&Refer=top)<br />
-8. [原来外卖店铺照片可以造假](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E5%A4%96%E5%8D%96%E5%BA%97%E9%93%BA%E7%85%A7%E7%89%87%E5%8F%AF%E4%BB%A5%E9%80%A0%E5%81%87&t=31&band_rank=8&Refer=top)<br />
+7. [原来外卖店铺照片可以造假](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E5%A4%96%E5%8D%96%E5%BA%97%E9%93%BA%E7%85%A7%E7%89%87%E5%8F%AF%E4%BB%A5%E9%80%A0%E5%81%87&t=31&band_rank=7&Refer=top)<br />
+8. [王暖暖](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%9A%96%E6%9A%96&t=31&band_rank=8&Refer=top)<br />
 9. [消失的她](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
