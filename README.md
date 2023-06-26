@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 10:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 10:33:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [赵露思露腰了](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E9%9C%B2%E8%85%B0%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [A股](https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=7&Refer=top)<br />
 8. [长风渡网播断更](https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%A3%8E%E6%B8%A1%E7%BD%91%E6%92%AD%E6%96%AD%E6%9B%B4%23&t=31&band_rank=8&Refer=top)<br />
-9. [为什么医院不让家属陪护只能请护工](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8C%BB%E9%99%A2%E4%B8%8D%E8%AE%A9%E5%AE%B6%E5%B1%9E%E9%99%AA%E6%8A%A4%E5%8F%AA%E8%83%BD%E8%AF%B7%E6%8A%A4%E5%B7%A5%23&t=31&band_rank=9&Refer=top)<br />
+9. [你的童年报复性补偿行为](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%9A%84%E7%AB%A5%E5%B9%B4%E6%8A%A5%E5%A4%8D%E6%80%A7%E8%A1%A5%E5%81%BF%E8%A1%8C%E4%B8%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -19,8 +19,8 @@
 3. [范志毅谈贵州「村超」火爆，「纯粹的足球不带有任何色彩，踢得很开心」，如何看待他的观点？](https://www.zhihu.com/question/608517517)<br />
 4. [土匪在山上是靠什么生存的？](https://www.zhihu.com/question/599176505)<br />
 5. [看哪些纪录片可以提高认知？](https://www.zhihu.com/question/599621146)<br />
-6. [好特卖大量开店，盒马奥莱加速发展，临期店成创投圈热门赛道，为啥临期产品受欢迎？](https://www.zhihu.com/question/608567329)<br />
-7. [莫迪访美之行收获满满，亚马逊谷歌加码投资印度，并呼吁全球公司进行「印度制造」，哪些信息值得关注？](https://www.zhihu.com/question/608567391)<br />
+6. [莫迪访美之行收获满满，亚马逊谷歌加码投资印度，并呼吁全球公司进行「印度制造」，哪些信息值得关注？](https://www.zhihu.com/question/608567391)<br />
+7. [好特卖大量开店，盒马奥莱加速发展，临期店成创投圈热门赛道，为啥临期产品受欢迎？](https://www.zhihu.com/question/608567329)<br />
 8. [「奶酪越多，奶酪孔越多。奶酪孔越多，奶酪越少。所以奶酪越多，奶酪越少。」这句话的逻辑错误在哪里?](https://www.zhihu.com/question/526941332)<br />
 9. [姆巴佩要拿多少奖项，历史地位能超过 C 罗?](https://www.zhihu.com/question/608025000)<br />
 
