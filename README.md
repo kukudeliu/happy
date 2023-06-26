@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 14:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 14:24:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [刘芸管控郑钧从头到脚](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%8A%B8%E7%AE%A1%E6%8E%A7%E9%83%91%E9%92%A7%E4%BB%8E%E5%A4%B4%E5%88%B0%E8%84%9A%23&t=31&band_rank=6&Refer=top)<br />
 7. [泰国孕妇坠崖案当事人谈电影消失的她](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E5%AD%95%E5%A6%87%E5%9D%A0%E5%B4%96%E6%A1%88%E5%BD%93%E4%BA%8B%E4%BA%BA%E8%B0%88%E7%94%B5%E5%BD%B1%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%23&t=31&band_rank=7&Refer=top)<br />
 8. [那就清华呗](https://s.weibo.com/weibo?q=%23%E9%82%A3%E5%B0%B1%E6%B8%85%E5%8D%8E%E5%91%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [张萌问张铎十年了你行了吗](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%90%8C%E9%97%AE%E5%BC%A0%E9%93%8E%E5%8D%81%E5%B9%B4%E4%BA%86%E4%BD%A0%E8%A1%8C%E4%BA%86%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
+9. [张雪峰曾称每年仅讲课就能挣几百万](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E6%9B%BE%E7%A7%B0%E6%AF%8F%E5%B9%B4%E4%BB%85%E8%AE%B2%E8%AF%BE%E5%B0%B1%E8%83%BD%E6%8C%A3%E5%87%A0%E7%99%BE%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -20,9 +20,9 @@
 4. [杭州亚运会电竞集训队最终入选名单公示，如何评价《王者荣耀》项目名单？](https://www.zhihu.com/question/608619934)<br />
 5. [如今的德玛西亚凭什么和诺克萨斯抗衡？](https://www.zhihu.com/question/484996882)<br />
 6. []()<br />
-7. [你在悬疑电影和悬疑小说里，看过最精妙的设计是什么？](https://www.zhihu.com/question/607971541)<br />
-8. [如何评价《科幻世界》2023 年正刊第六期《依尘（中）》中出现大量公式的现象？](https://www.zhihu.com/question/606816750)<br />
-9. []()<br />
+7. [如何评价《科幻世界》2023 年正刊第六期《依尘（中）》中出现大量公式的现象？](https://www.zhihu.com/question/606816750)<br />
+8. []()<br />
+9. [你在悬疑电影和悬疑小说里，看过最精妙的设计是什么？](https://www.zhihu.com/question/607971541)<br />
 
 > 百度  
 
