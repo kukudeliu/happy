@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 17:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 17:58:01</h4></div>
 
 > 微博  
 
 1. [齐思钧 身体一直没有彻底康复](https://s.weibo.com/weibo?q=%E9%BD%90%E6%80%9D%E9%92%A7%20%E8%BA%AB%E4%BD%93%E4%B8%80%E7%9B%B4%E6%B2%A1%E6%9C%89%E5%BD%BB%E5%BA%95%E5%BA%B7%E5%A4%8D&t=31&band_rank=1&Refer=top)<br />
 2. [胡锡进开通股票账户](https://s.weibo.com/weibo?q=%23%E8%83%A1%E9%94%A1%E8%BF%9B%E5%BC%80%E9%80%9A%E8%82%A1%E7%A5%A8%E8%B4%A6%E6%88%B7%23&t=31&band_rank=2&Refer=top)<br />
 3. [高质量发展调研行](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E8%B0%83%E7%A0%94%E8%A1%8C%23&t=31&band_rank=3&Refer=top)<br />
-4. [张雪峰给普通女生的报考建议](https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E7%BB%99%E6%99%AE%E9%80%9A%E5%A5%B3%E7%94%9F%E7%9A%84%E6%8A%A5%E8%80%83%E5%BB%BA%E8%AE%AE&t=31&band_rank=4&Refer=top)<br />
-5. [蔡徐坤回应和歌迷互动](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E5%9B%9E%E5%BA%94%E5%92%8C%E6%AD%8C%E8%BF%B7%E4%BA%92%E5%8A%A8%23&t=31&band_rank=5&Refer=top)<br />
-6. [男孩估分700结果真考700分](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E4%BC%B0%E5%88%86700%E7%BB%93%E6%9E%9C%E7%9C%9F%E8%80%83700%E5%88%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [跳桥小哥被邀请落户杭州](https://s.weibo.com/weibo?q=%23%E8%B7%B3%E6%A1%A5%E5%B0%8F%E5%93%A5%E8%A2%AB%E9%82%80%E8%AF%B7%E8%90%BD%E6%88%B7%E6%9D%AD%E5%B7%9E%23&t=31&band_rank=7&Refer=top)<br />
-8. [消失的她 畸形秀](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%20%E7%95%B8%E5%BD%A2%E7%A7%80&t=31&band_rank=8&Refer=top)<br />
-9. [Jennie的演技](https://s.weibo.com/weibo?q=%23Jennie%E7%9A%84%E6%BC%94%E6%8A%80%23&t=31&band_rank=9&Refer=top)<br />
+4. [蔡徐坤回应和歌迷互动](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E5%9B%9E%E5%BA%94%E5%92%8C%E6%AD%8C%E8%BF%B7%E4%BA%92%E5%8A%A8%23&t=31&band_rank=4&Refer=top)<br />
+5. [张雪峰给普通女生的报考建议](https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E7%BB%99%E6%99%AE%E9%80%9A%E5%A5%B3%E7%94%9F%E7%9A%84%E6%8A%A5%E8%80%83%E5%BB%BA%E8%AE%AE&t=31&band_rank=5&Refer=top)<br />
+6. [跳桥小哥被邀请落户杭州](https://s.weibo.com/weibo?q=%23%E8%B7%B3%E6%A1%A5%E5%B0%8F%E5%93%A5%E8%A2%AB%E9%82%80%E8%AF%B7%E8%90%BD%E6%88%B7%E6%9D%AD%E5%B7%9E%23&t=31&band_rank=6&Refer=top)<br />
+7. [周鸿祎称AI不应该引发大规模裁员](https://s.weibo.com/weibo?q=%23%E5%91%A8%E9%B8%BF%E7%A5%8E%E7%A7%B0AI%E4%B8%8D%E5%BA%94%E8%AF%A5%E5%BC%95%E5%8F%91%E5%A4%A7%E8%A7%84%E6%A8%A1%E8%A3%81%E5%91%98%23&t=31&band_rank=7&Refer=top)<br />
+8. [女儿博士毕业父亲拍着胸脯说骄傲](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E5%8D%9A%E5%A3%AB%E6%AF%95%E4%B8%9A%E7%88%B6%E4%BA%B2%E6%8B%8D%E7%9D%80%E8%83%B8%E8%84%AF%E8%AF%B4%E9%AA%84%E5%82%B2%23&t=31&band_rank=8&Refer=top)<br />
+9. [消失的她 畸形秀](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%20%E7%95%B8%E5%BD%A2%E7%A7%80&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
