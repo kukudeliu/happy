@@ -1,15 +1,15 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 15:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 15:53:01</h4></div>
 
 > 微博  
 
 1. [张雪峰曾称每年仅讲课就能挣几百万](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E6%9B%BE%E7%A7%B0%E6%AF%8F%E5%B9%B4%E4%BB%85%E8%AE%B2%E8%AF%BE%E5%B0%B1%E8%83%BD%E6%8C%A3%E5%87%A0%E7%99%BE%E4%B8%87%23&t=31&band_rank=1&Refer=top)<br />
 2. [泰国孕妇坠崖案当事人谈电影消失的她](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E5%AD%95%E5%A6%87%E5%9D%A0%E5%B4%96%E6%A1%88%E5%BD%93%E4%BA%8B%E4%BA%BA%E8%B0%88%E7%94%B5%E5%BD%B1%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%23&t=31&band_rank=2&Refer=top)<br />
-3. [毕业典礼能多有仪式感](https://s.weibo.com/weibo?q=%23%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E8%83%BD%E5%A4%9A%E6%9C%89%E4%BB%AA%E5%BC%8F%E6%84%9F%23&t=31&band_rank=3&Refer=top)<br />
+3. [张雪峰对于学医的观点](https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%AF%B9%E4%BA%8E%E5%AD%A6%E5%8C%BB%E7%9A%84%E8%A7%82%E7%82%B9&t=31&band_rank=3&Refer=top)<br />
 4. [蔡徐坤回应和歌迷互动](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E5%9B%9E%E5%BA%94%E5%92%8C%E6%AD%8C%E8%BF%B7%E4%BA%92%E5%8A%A8%23&t=31&band_rank=4&Refer=top)<br />
 5. [消失的她 畸形秀](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%20%E7%95%B8%E5%BD%A2%E7%A7%80&t=31&band_rank=5&Refer=top)<br />
-6. [张雪峰对于学医的观点](https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%AF%B9%E4%BA%8E%E5%AD%A6%E5%8C%BB%E7%9A%84%E8%A7%82%E7%82%B9&t=31&band_rank=6&Refer=top)<br />
-7. [不要再对瘦子说你好瘦了](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%A6%81%E5%86%8D%E5%AF%B9%E7%98%A6%E5%AD%90%E8%AF%B4%E4%BD%A0%E5%A5%BD%E7%98%A6%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [刘芸管控郑钧从头到脚](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%8A%B8%E7%AE%A1%E6%8E%A7%E9%83%91%E9%92%A7%E4%BB%8E%E5%A4%B4%E5%88%B0%E8%84%9A%23&t=31&band_rank=8&Refer=top)<br />
+6. [不要再对瘦子说你好瘦了](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%A6%81%E5%86%8D%E5%AF%B9%E7%98%A6%E5%AD%90%E8%AF%B4%E4%BD%A0%E5%A5%BD%E7%98%A6%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
+7. [刘芸管控郑钧从头到脚](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%8A%B8%E7%AE%A1%E6%8E%A7%E9%83%91%E9%92%A7%E4%BB%8E%E5%A4%B4%E5%88%B0%E8%84%9A%23&t=31&band_rank=7&Refer=top)<br />
+8. [毕业典礼能多有仪式感](https://s.weibo.com/weibo?q=%23%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E8%83%BD%E5%A4%9A%E6%9C%89%E4%BB%AA%E5%BC%8F%E6%84%9F%23&t=31&band_rank=8&Refer=top)<br />
 9. [那就清华呗](https://s.weibo.com/weibo?q=%23%E9%82%A3%E5%B0%B1%E6%B8%85%E5%8D%8E%E5%91%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -22,7 +22,7 @@
 6. [烧烤店因亲戚孩子来店里帮忙被罚 2.5 万，官方称属「雇佣童工」，如何从法律角度解读此事？](https://www.zhihu.com/question/608695467)<br />
 7. [上市公司祝贺总经理女儿高考 710 分，单科创佳绩，律师称「不违规，但属不当披露」，哪些信息值得关注？](https://www.zhihu.com/question/608567249)<br />
 8. [浙江 2023 年高考分数线公布，普通一段线 488，二段线 274，还有哪些信息值得关注？](https://www.zhihu.com/question/608466493)<br />
-9. [为什么一些马拉松赛事要专门安排配速员 (Pacer) ？](https://www.zhihu.com/question/37190796)<br />
+9. [如何评价 6 月 26 日亮相的 vivo X90s ，有哪些亮点和不足？](https://www.zhihu.com/question/608663741)<br />
 
 > 百度  
 
