@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 08:28:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 08:29:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [不足1月 三个中纪委“内鬼”被揪出](https://www.baidu.com/s?wd=%E4%B8%8D%E8%B6%B31%E6%9C%88+%E4%B8%89%E4%B8%AA%E4%B8%AD%E7%BA%AA%E5%A7%94%E2%80%9C%E5%86%85%E9%AC%BC%E2%80%9D%E8%A2%AB%E6%8F%AA%E5%87%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李嘉诚家族抄底内地房企项目](https://www.baidu.com/s?wd=%E6%9D%8E%E5%98%89%E8%AF%9A%E5%AE%B6%E6%97%8F%E6%8A%84%E5%BA%95%E5%86%85%E5%9C%B0%E6%88%BF%E4%BC%81%E9%A1%B9%E7%9B%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [四川26岁女孩下网约车后失联](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D26%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%B8%8B%E7%BD%91%E7%BA%A6%E8%BD%A6%E5%90%8E%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [仅2根手指能写字的男孩高考632分](https://www.baidu.com/s?wd=%E4%BB%852%E6%A0%B9%E6%89%8B%E6%8C%87%E8%83%BD%E5%86%99%E5%AD%97%E7%9A%84%E7%94%B7%E5%AD%A9%E9%AB%98%E8%80%83632%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [同校同班双胞胎高考同获688分](https://www.baidu.com/s?wd=%E5%90%8C%E6%A0%A1%E5%90%8C%E7%8F%AD%E5%8F%8C%E8%83%9E%E8%83%8E%E9%AB%98%E8%80%83%E5%90%8C%E8%8E%B7688%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [开颅3次的少年高考过二本线](https://www.baidu.com/s?wd=%E5%BC%80%E9%A2%853%E6%AC%A1%E7%9A%84%E5%B0%91%E5%B9%B4%E9%AB%98%E8%80%83%E8%BF%87%E4%BA%8C%E6%9C%AC%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [仅2根手指能写字的男孩高考632分](https://www.baidu.com/s?wd=%E4%BB%852%E6%A0%B9%E6%89%8B%E6%8C%87%E8%83%BD%E5%86%99%E5%AD%97%E7%9A%84%E7%94%B7%E5%AD%A9%E9%AB%98%E8%80%83632%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [不足1月 三个中纪委“内鬼”被揪出](https://www.baidu.com/s?wd=%E4%B8%8D%E8%B6%B31%E6%9C%88+%E4%B8%89%E4%B8%AA%E4%B8%AD%E7%BA%AA%E5%A7%94%E2%80%9C%E5%86%85%E9%AC%BC%E2%80%9D%E8%A2%AB%E6%8F%AA%E5%87%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李嘉诚家族抄底内地房企项目](https://www.baidu.com/s?wd=%E6%9D%8E%E5%98%89%E8%AF%9A%E5%AE%B6%E6%97%8F%E6%8A%84%E5%BA%95%E5%86%85%E5%9C%B0%E6%88%BF%E4%BC%81%E9%A1%B9%E7%9B%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [四川26岁女孩下网约车后失联](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D26%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%B8%8B%E7%BD%91%E7%BA%A6%E8%BD%A6%E5%90%8E%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [仅2根手指能写字的男孩高考632分](https://www.baidu.com/s?wd=%E4%BB%852%E6%A0%B9%E6%89%8B%E6%8C%87%E8%83%BD%E5%86%99%E5%AD%97%E7%9A%84%E7%94%B7%E5%AD%A9%E9%AB%98%E8%80%83632%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [同校同班双胞胎高考同获688分](https://www.baidu.com/s?wd=%E5%90%8C%E6%A0%A1%E5%90%8C%E7%8F%AD%E5%8F%8C%E8%83%9E%E8%83%8E%E9%AB%98%E8%80%83%E5%90%8C%E8%8E%B7688%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [开颅3次的少年高考过二本线](https://www.baidu.com/s?wd=%E5%BC%80%E9%A2%853%E6%AC%A1%E7%9A%84%E5%B0%91%E5%B9%B4%E9%AB%98%E8%80%83%E8%BF%87%E4%BA%8C%E6%9C%AC%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [仅2根手指能写字的男孩高考632分](https://www.baidu.com/s?wd=%E4%BB%852%E6%A0%B9%E6%89%8B%E6%8C%87%E8%83%BD%E5%86%99%E5%AD%97%E7%9A%84%E7%94%B7%E5%AD%A9%E9%AB%98%E8%80%83632%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
