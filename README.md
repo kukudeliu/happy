@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 13:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 14:00:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [杭州亚运会电竞集训队最终入选名单公示，如何评价《王者荣耀》项目名单？](https://www.zhihu.com/question/608619934)<br />
 7. [如今的德玛西亚凭什么和诺克萨斯抗衡？](https://www.zhihu.com/question/484996882)<br />
 8. [人在什么情况下才会大彻大悟？](https://www.zhihu.com/question/472285403)<br />
-9. [高铁选座位的时候，你更倾向于什么座位？理由是什么？](https://www.zhihu.com/question/606948403)<br />
+9. [《星空》30 帧，《最终幻想 16》开性能模式也帧数不稳，这代主机寿命后半是否又要回归 30 帧万岁？](https://www.zhihu.com/question/608030326)<br />
 
 > 百度  
 
