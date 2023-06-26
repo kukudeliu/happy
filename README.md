@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 10:18:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 10:19:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [不足1月 三个中纪委“内鬼”被揪出](https://www.baidu.com/s?wd=%E4%B8%8D%E8%B6%B31%E6%9C%88+%E4%B8%89%E4%B8%AA%E4%B8%AD%E7%BA%AA%E5%A7%94%E2%80%9C%E5%86%85%E9%AC%BC%E2%80%9D%E8%A2%AB%E6%8F%AA%E5%87%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子欠1.7亿巨债仍住豪宅养女友](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%AC%A01.7%E4%BA%BF%E5%B7%A8%E5%80%BA%E4%BB%8D%E4%BD%8F%E8%B1%AA%E5%AE%85%E5%85%BB%E5%A5%B3%E5%8F%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [为什么医院不让家属陪护只能请护工](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8C%BB%E9%99%A2%E4%B8%8D%E8%AE%A9%E5%AE%B6%E5%B1%9E%E9%99%AA%E6%8A%A4%E5%8F%AA%E8%83%BD%E8%AF%B7%E6%8A%A4%E5%B7%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [医学生用邮票制毒赚100元获刑](https://www.baidu.com/s?wd=%E5%8C%BB%E5%AD%A6%E7%94%9F%E7%94%A8%E9%82%AE%E7%A5%A8%E5%88%B6%E6%AF%92%E8%B5%9A100%E5%85%83%E8%8E%B7%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男生怕考砸被骂查分前挨个打扫房间](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E6%80%95%E8%80%83%E7%A0%B8%E8%A2%AB%E9%AA%82%E6%9F%A5%E5%88%86%E5%89%8D%E6%8C%A8%E4%B8%AA%E6%89%93%E6%89%AB%E6%88%BF%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [2022年中央财政赤字26500亿元](https://www.baidu.com/s?wd=2022%E5%B9%B4%E4%B8%AD%E5%A4%AE%E8%B4%A2%E6%94%BF%E8%B5%A4%E5%AD%9726500%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [警方通报男童被武术俱乐部教练打死](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E7%AB%A5%E8%A2%AB%E6%AD%A6%E6%9C%AF%E4%BF%B1%E4%B9%90%E9%83%A8%E6%95%99%E7%BB%83%E6%89%93%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [不足1月 三个中纪委“内鬼”被揪出](https://www.baidu.com/s?wd=%E4%B8%8D%E8%B6%B31%E6%9C%88+%E4%B8%89%E4%B8%AA%E4%B8%AD%E7%BA%AA%E5%A7%94%E2%80%9C%E5%86%85%E9%AC%BC%E2%80%9D%E8%A2%AB%E6%8F%AA%E5%87%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子欠1.7亿巨债仍住豪宅养女友](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%AC%A01.7%E4%BA%BF%E5%B7%A8%E5%80%BA%E4%BB%8D%E4%BD%8F%E8%B1%AA%E5%AE%85%E5%85%BB%E5%A5%B3%E5%8F%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [为什么医院不让家属陪护只能请护工](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8C%BB%E9%99%A2%E4%B8%8D%E8%AE%A9%E5%AE%B6%E5%B1%9E%E9%99%AA%E6%8A%A4%E5%8F%AA%E8%83%BD%E8%AF%B7%E6%8A%A4%E5%B7%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [医学生用邮票制毒赚100元获刑](https://www.baidu.com/s?wd=%E5%8C%BB%E5%AD%A6%E7%94%9F%E7%94%A8%E9%82%AE%E7%A5%A8%E5%88%B6%E6%AF%92%E8%B5%9A100%E5%85%83%E8%8E%B7%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男生怕考砸被骂查分前挨个打扫房间](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E6%80%95%E8%80%83%E7%A0%B8%E8%A2%AB%E9%AA%82%E6%9F%A5%E5%88%86%E5%89%8D%E6%8C%A8%E4%B8%AA%E6%89%93%E6%89%AB%E6%88%BF%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [2022年中央财政赤字26500亿元](https://www.baidu.com/s?wd=2022%E5%B9%B4%E4%B8%AD%E5%A4%AE%E8%B4%A2%E6%94%BF%E8%B5%A4%E5%AD%9726500%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [警方通报男童被武术俱乐部教练打死](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E7%AB%A5%E8%A2%AB%E6%AD%A6%E6%9C%AF%E4%BF%B1%E4%B9%90%E9%83%A8%E6%95%99%E7%BB%83%E6%89%93%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
