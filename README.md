@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 12:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 12:45:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [消失的她 畸形秀](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%20%E7%95%B8%E5%BD%A2%E7%A7%80&t=31&band_rank=5&Refer=top)<br />
 6. [蔡徐坤回应和歌迷互动](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E5%9B%9E%E5%BA%94%E5%92%8C%E6%AD%8C%E8%BF%B7%E4%BA%92%E5%8A%A8%23&t=31&band_rank=6&Refer=top)<br />
 7. [泰国孕妇坠崖案当事人谈电影消失的她](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E5%AD%95%E5%A6%87%E5%9D%A0%E5%B4%96%E6%A1%88%E5%BD%93%E4%BA%8B%E4%BA%BA%E8%B0%88%E7%94%B5%E5%BD%B1%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%23&t=31&band_rank=7&Refer=top)<br />
-8. [网传8岁男童被武术教练打死](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A08%E5%B2%81%E7%94%B7%E7%AB%A5%E8%A2%AB%E6%AD%A6%E6%9C%AF%E6%95%99%E7%BB%83%E6%89%93%E6%AD%BB%23&t=31&band_rank=8&Refer=top)<br />
-9. [男子欠1.7亿仍住豪宅养女友](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%AC%A01.7%E4%BA%BF%E4%BB%8D%E4%BD%8F%E8%B1%AA%E5%AE%85%E5%85%BB%E5%A5%B3%E5%8F%8B%23&t=31&band_rank=9&Refer=top)<br />
+8. [男子欠1.7亿仍住豪宅养女友](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%AC%A01.7%E4%BA%BF%E4%BB%8D%E4%BD%8F%E8%B1%AA%E5%AE%85%E5%85%BB%E5%A5%B3%E5%8F%8B%23&t=31&band_rank=8&Refer=top)<br />
+9. [网传8岁男童被武术教练打死](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A08%E5%B2%81%E7%94%B7%E7%AB%A5%E8%A2%AB%E6%AD%A6%E6%9C%AF%E6%95%99%E7%BB%83%E6%89%93%E6%AD%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
