@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 22:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 22:59:02</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [深圳外卖员被雨篷扎颈身亡](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%A4%96%E5%8D%96%E5%91%98%E8%A2%AB%E9%9B%A8%E7%AF%B7%E6%89%8E%E9%A2%88%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男孩坠楼后还哭喊：妈妈别打我](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E5%9D%A0%E6%A5%BC%E5%90%8E%E8%BF%98%E5%93%AD%E5%96%8A%EF%BC%9A%E5%A6%88%E5%A6%88%E5%88%AB%E6%89%93%E6%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [6岁男童游泳后感染“食脑虫”](https://www.baidu.com/s?wd=6%E5%B2%81%E7%94%B7%E7%AB%A5%E6%B8%B8%E6%B3%B3%E5%90%8E%E6%84%9F%E6%9F%93%E2%80%9C%E9%A3%9F%E8%84%91%E8%99%AB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [警方通报男童被母亲棒击后从5楼跳下](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E7%AB%A5%E8%A2%AB%E6%AF%8D%E4%BA%B2%E6%A3%92%E5%87%BB%E5%90%8E%E4%BB%8E5%E6%A5%BC%E8%B7%B3%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [B站将用播放分钟数替代播放次数](https://www.baidu.com/s?wd=B%E7%AB%99%E5%B0%86%E7%94%A8%E6%92%AD%E6%94%BE%E5%88%86%E9%92%9F%E6%95%B0%E6%9B%BF%E4%BB%A3%E6%92%AD%E6%94%BE%E6%AC%A1%E6%95%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [深圳外卖员被雨篷扎颈身亡](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%A4%96%E5%8D%96%E5%91%98%E8%A2%AB%E9%9B%A8%E7%AF%B7%E6%89%8E%E9%A2%88%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男孩坠楼后还哭喊：妈妈别打我](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E5%9D%A0%E6%A5%BC%E5%90%8E%E8%BF%98%E5%93%AD%E5%96%8A%EF%BC%9A%E5%A6%88%E5%A6%88%E5%88%AB%E6%89%93%E6%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [6岁男童游泳后感染“食脑虫”](https://www.baidu.com/s?wd=6%E5%B2%81%E7%94%B7%E7%AB%A5%E6%B8%B8%E6%B3%B3%E5%90%8E%E6%84%9F%E6%9F%93%E2%80%9C%E9%A3%9F%E8%84%91%E8%99%AB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [警方通报男童被母亲棒击后从5楼跳下](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E7%AB%A5%E8%A2%AB%E6%AF%8D%E4%BA%B2%E6%A3%92%E5%87%BB%E5%90%8E%E4%BB%8E5%E6%A5%BC%E8%B7%B3%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [B站将用播放分钟数替代播放次数](https://www.baidu.com/s?wd=B%E7%AB%99%E5%B0%86%E7%94%A8%E6%92%AD%E6%94%BE%E5%88%86%E9%92%9F%E6%95%B0%E6%9B%BF%E4%BB%A3%E6%92%AD%E6%94%BE%E6%AC%A1%E6%95%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
