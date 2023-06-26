@@ -1,15 +1,15 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 11:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 11:56:01</h4></div>
 
 > 微博  
 
 1. [那就清华呗](https://s.weibo.com/weibo?q=%23%E9%82%A3%E5%B0%B1%E6%B8%85%E5%8D%8E%E5%91%97%23&t=31&band_rank=1&Refer=top)<br />
 2. [消失的她 畸形秀](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%20%E7%95%B8%E5%BD%A2%E7%A7%80&t=31&band_rank=2&Refer=top)<br />
-3. [世界互联网大会数字文明尼山对话](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A%E6%95%B0%E5%AD%97%E6%96%87%E6%98%8E%E5%B0%BC%E5%B1%B1%E5%AF%B9%E8%AF%9D%23&t=31&band_rank=3&Refer=top)<br />
+3. [远离毒品就是保护缉毒警](https://s.weibo.com/weibo?q=%23%E8%BF%9C%E7%A6%BB%E6%AF%92%E5%93%81%E5%B0%B1%E6%98%AF%E4%BF%9D%E6%8A%A4%E7%BC%89%E6%AF%92%E8%AD%A6%23&t=31&band_rank=3&Refer=top)<br />
 4. [蔡徐坤甩外套](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E7%94%A9%E5%A4%96%E5%A5%97%23&t=31&band_rank=4&Refer=top)<br />
 5. [不要再对瘦子说你好瘦了](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%A6%81%E5%86%8D%E5%AF%B9%E7%98%A6%E5%AD%90%E8%AF%B4%E4%BD%A0%E5%A5%BD%E7%98%A6%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [从胃炎到胃癌](https://s.weibo.com/weibo?q=%E4%BB%8E%E8%83%83%E7%82%8E%E5%88%B0%E8%83%83%E7%99%8C&t=31&band_rank=6&Refer=top)<br />
 7. [张萌问张铎十年了你行了吗](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%90%8C%E9%97%AE%E5%BC%A0%E9%93%8E%E5%8D%81%E5%B9%B4%E4%BA%86%E4%BD%A0%E8%A1%8C%E4%BA%86%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
-8. [你的童年报复性补偿行为](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%9A%84%E7%AB%A5%E5%B9%B4%E6%8A%A5%E5%A4%8D%E6%80%A7%E8%A1%A5%E5%81%BF%E8%A1%8C%E4%B8%BA%23&t=31&band_rank=8&Refer=top)<br />
+8. [世界互联网大会数字文明尼山对话](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A%E6%95%B0%E5%AD%97%E6%96%87%E6%98%8E%E5%B0%BC%E5%B1%B1%E5%AF%B9%E8%AF%9D%23&t=31&band_rank=8&Refer=top)<br />
 9. [赵露思露腰了](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E9%9C%B2%E8%85%B0%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -17,8 +17,8 @@
 1. [女孩充电被电击内脏受损面临截肢，客服回应「适配器非原装」，导致电击原因是什么？如何看待涉事公司回应？](https://www.zhihu.com/question/608412173)<br />
 2. [莫迪访美之行收获满满，亚马逊谷歌加码投资印度，并呼吁全球公司进行「印度制造」，哪些信息值得关注？](https://www.zhihu.com/question/608567391)<br />
 3. [「奶酪越多，奶酪孔越多。奶酪孔越多，奶酪越少。所以奶酪越多，奶酪越少。」这句话的逻辑错误在哪里?](https://www.zhihu.com/question/526941332)<br />
-4. [由于对川大处理不满，北京一律所不再招聘川大毕业生，并回应称「并非就业歧视」，如何看待律所的做法？](https://www.zhihu.com/question/608664630)<br />
-5. [跟老公吵架，带着孩子回娘家住，弟媳故意把饭菜做的很少不够吃，还跟小孩子抢零食吃，弟弟还不管她怎么办?](https://www.zhihu.com/question/607614275)<br />
+4. [跟老公吵架，带着孩子回娘家住，弟媳故意把饭菜做的很少不够吃，还跟小孩子抢零食吃，弟弟还不管她怎么办?](https://www.zhihu.com/question/607614275)<br />
+5. [由于对川大处理不满，北京一律所不再招聘川大毕业生，并回应称「并非就业歧视」，如何看待律所的做法？](https://www.zhihu.com/question/608664630)<br />
 6. [订婚宴后母亲大发雷霆，要求分手该怎么办？](https://www.zhihu.com/question/608274088)<br />
 7. [为什么神经网络会存在灾难性遗忘 (catastrophic forgetting) 这个问题？](https://www.zhihu.com/question/265056068)<br />
 8. [怎样提高《英雄联盟》玩打野的水平？](https://www.zhihu.com/question/311304482)<br />
