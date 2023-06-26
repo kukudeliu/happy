@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 20:34:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 20:35:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [二十三岁的恋爱](https://s.weibo.com/weibo?q=%E4%BA%8C%E5%8D%81%E4%B8%89%E5%B2%81%E7%9A%84%E6%81%8B%E7%88%B1&t=31&band_rank=6&Refer=top)<br />
 7. [董事长回应祝贺高管女儿获高考状元](https://s.weibo.com/weibo?q=%23%E8%91%A3%E4%BA%8B%E9%95%BF%E5%9B%9E%E5%BA%94%E7%A5%9D%E8%B4%BA%E9%AB%98%E7%AE%A1%E5%A5%B3%E5%84%BF%E8%8E%B7%E9%AB%98%E8%80%83%E7%8A%B6%E5%85%83%23&t=31&band_rank=7&Refer=top)<br />
 8. [夫妻欠债百万玩失踪老父亲凑钱还款](https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E6%AC%A0%E5%80%BA%E7%99%BE%E4%B8%87%E7%8E%A9%E5%A4%B1%E8%B8%AA%E8%80%81%E7%88%B6%E4%BA%B2%E5%87%91%E9%92%B1%E8%BF%98%E6%AC%BE%23&t=31&band_rank=8&Refer=top)<br />
-9. [偷偷藏不住](https://s.weibo.com/weibo?q=%E5%81%B7%E5%81%B7%E8%97%8F%E4%B8%8D%E4%BD%8F&t=31&band_rank=9&Refer=top)<br />
+9. [消失的她 海边牵手照](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%20%E6%B5%B7%E8%BE%B9%E7%89%B5%E6%89%8B%E7%85%A7&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
