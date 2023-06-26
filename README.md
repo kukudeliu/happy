@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 21:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 21:54:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 2. [李嘉诚家族被指「趁火打劫」连续抄底两上市房企自救关键项目，此举出于什么战略考量？](https://www.zhihu.com/question/608665319)<br />
 3. [电影《消失的她》陈麦提到「东南亚妻子消失然后出现在畸形秀的事件」有何深意？](https://www.zhihu.com/question/608103252)<br />
 4. [2022 年中央财政赤字 26500 亿元与预算持平，审计发现失业补助被蚕食等问题，哪些信息值得关注？](https://www.zhihu.com/question/608671302)<br />
-5. [今年是史上最热一年吗？这股热浪还要持续多久？](https://www.zhihu.com/theater/94771)<br />
+5. [40℃ 高温明天再上线，这股热浪还要持续多久？](https://www.zhihu.com/theater/94771)<br />
 6. [胡锡进宣布进入 A 股，李大霄提建议「先买基金再买股票，如需要可共同研究」，哪些信息值得关注？](https://www.zhihu.com/question/608754081)<br />
 7. [为反制日本，普京签令将 9 月 3 日更名为「对日本军国主义战争胜利日」，更名对俄日两国意味着什么？](https://www.zhihu.com/question/608582404)<br />
 8. [在岸人民币跌破 7.23，日内跌近 400 点，最低触及 7.2339，如何解读这一走势？](https://www.zhihu.com/question/608737327)<br />
@@ -33,7 +33,7 @@
 5. [韩方称从未想过和中国结怨 中方回应](https://www.baidu.com/s?wd=%E9%9F%A9%E6%96%B9%E7%A7%B0%E4%BB%8E%E6%9C%AA%E6%83%B3%E8%BF%87%E5%92%8C%E4%B8%AD%E5%9B%BD%E7%BB%93%E6%80%A8+%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [复旦毕业生简历衣着暴露？校方回应](https://www.baidu.com/s?wd=%E5%A4%8D%E6%97%A6%E6%AF%95%E4%B8%9A%E7%94%9F%E7%AE%80%E5%8E%86%E8%A1%A3%E7%9D%80%E6%9A%B4%E9%9C%B2%EF%BC%9F%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [蔡徐坤及蔡母曾被警方传唤](https://www.baidu.com/s?wd=%E8%94%A1%E5%BE%90%E5%9D%A4%E5%8F%8A%E8%94%A1%E6%AF%8D%E6%9B%BE%E8%A2%AB%E8%AD%A6%E6%96%B9%E4%BC%A0%E5%94%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [官方回应男孩遭棍打跳楼：双腿骨折](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%A9%E9%81%AD%E6%A3%8D%E6%89%93%E8%B7%B3%E6%A5%BC%EF%BC%9A%E5%8F%8C%E8%85%BF%E9%AA%A8%E6%8A%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [华春莹连发七文谴责美国“甩锅”](https://www.baidu.com/s?wd=%E5%8D%8E%E6%98%A5%E8%8E%B9%E8%BF%9E%E5%8F%91%E4%B8%83%E6%96%87%E8%B0%B4%E8%B4%A3%E7%BE%8E%E5%9B%BD%E2%80%9C%E7%94%A9%E9%94%85%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [蔡徐坤被曝还有另一位秘密情人](https://www.baidu.com/s?wd=%E8%94%A1%E5%BE%90%E5%9D%A4%E8%A2%AB%E6%9B%9D%E8%BF%98%E6%9C%89%E5%8F%A6%E4%B8%80%E4%BD%8D%E7%A7%98%E5%AF%86%E6%83%85%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [韩方称从未想过和中国结怨 中方回应](https://www.baidu.com/s?wd=%E9%9F%A9%E6%96%B9%E7%A7%B0%E4%BB%8E%E6%9C%AA%E6%83%B3%E8%BF%87%E5%92%8C%E4%B8%AD%E5%9B%BD%E7%BB%93%E6%80%A8+%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [复旦毕业生简历衣着暴露？校方回应](https://www.baidu.com/s?wd=%E5%A4%8D%E6%97%A6%E6%AF%95%E4%B8%9A%E7%94%9F%E7%AE%80%E5%8E%86%E8%A1%A3%E7%9D%80%E6%9A%B4%E9%9C%B2%EF%BC%9F%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [蔡徐坤及蔡母曾被警方传唤](https://www.baidu.com/s?wd=%E8%94%A1%E5%BE%90%E5%9D%A4%E5%8F%8A%E8%94%A1%E6%AF%8D%E6%9B%BE%E8%A2%AB%E8%AD%A6%E6%96%B9%E4%BC%A0%E5%94%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [官方回应男孩遭棍打跳楼：双腿骨折](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%A9%E9%81%AD%E6%A3%8D%E6%89%93%E8%B7%B3%E6%A5%BC%EF%BC%9A%E5%8F%8C%E8%85%BF%E9%AA%A8%E6%8A%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [华春莹连发七文谴责美国“甩锅”](https://www.baidu.com/s?wd=%E5%8D%8E%E6%98%A5%E8%8E%B9%E8%BF%9E%E5%8F%91%E4%B8%83%E6%96%87%E8%B0%B4%E8%B4%A3%E7%BE%8E%E5%9B%BD%E2%80%9C%E7%94%A9%E9%94%85%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [蔡徐坤被曝还有另一位秘密情人](https://www.baidu.com/s?wd=%E8%94%A1%E5%BE%90%E5%9D%A4%E8%A2%AB%E6%9B%9D%E8%BF%98%E6%9C%89%E5%8F%A6%E4%B8%80%E4%BD%8D%E7%A7%98%E5%AF%86%E6%83%85%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
