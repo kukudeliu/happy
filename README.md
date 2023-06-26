@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 11:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 11:20:01</h4></div>
 
 > 微博  
 
@@ -20,8 +20,8 @@
 4. [「奶酪越多，奶酪孔越多。奶酪孔越多，奶酪越少。所以奶酪越多，奶酪越少。」这句话的逻辑错误在哪里?](https://www.zhihu.com/question/526941332)<br />
 5. [怎样提高《英雄联盟》玩打野的水平？](https://www.zhihu.com/question/311304482)<br />
 6. [订婚宴后母亲大发雷霆，要求分手该怎么办？](https://www.zhihu.com/question/608274088)<br />
-7. [梅西参加马克西 - 罗德里格斯告别战，上半场任意球破门 + 帽子戏法，全场为他唱生日歌，如何评价他的表现？](https://www.zhihu.com/question/608398892)<br />
-8. [为什么神经网络会存在灾难性遗忘 (catastrophic forgetting) 这个问题？](https://www.zhihu.com/question/265056068)<br />
+7. [为什么神经网络会存在灾难性遗忘 (catastrophic forgetting) 这个问题？](https://www.zhihu.com/question/265056068)<br />
+8. [梅西参加马克西 - 罗德里格斯告别战，上半场任意球破门 + 帽子戏法，全场为他唱生日歌，如何评价他的表现？](https://www.zhihu.com/question/608398892)<br />
 9. []()<br />
 
 > 百度  
