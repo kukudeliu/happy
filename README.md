@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 09:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-26 09:57:01</h4></div>
 
 > 微博  
 
@@ -17,8 +17,8 @@
 1. [女孩充电被电击内脏受损面临截肢，客服回应「适配器非原装」，导致电击原因是什么？如何看待涉事公司回应？](https://www.zhihu.com/question/608412173)<br />
 2. [普里戈任与瓦格纳集团武装人员已全部从俄南部军区司令部撤离，这意味着什么？](https://www.zhihu.com/question/608395500)<br />
 3. [范志毅谈贵州「村超」火爆，「纯粹的足球不带有任何色彩，踢得很开心」，如何看待他的观点？](https://www.zhihu.com/question/608517517)<br />
-4. [17K 小说网创始人血酬离世，如何评价他的成绩？](https://www.zhihu.com/question/608360754)<br />
-5. [土匪在山上是靠什么生存的？](https://www.zhihu.com/question/599176505)<br />
+4. [土匪在山上是靠什么生存的？](https://www.zhihu.com/question/599176505)<br />
+5. [17K 小说网创始人血酬离世，如何评价他的成绩？](https://www.zhihu.com/question/608360754)<br />
 6. [好特卖大量开店，盒马奥莱加速发展，临期店成创投圈热门赛道，为啥临期产品受欢迎？](https://www.zhihu.com/question/608567329)<br />
 7. [看哪些纪录片可以提高认知？](https://www.zhihu.com/question/599621146)<br />
 8. [姆巴佩要拿多少奖项，历史地位能超过 C 罗?](https://www.zhihu.com/question/608025000)<br />
