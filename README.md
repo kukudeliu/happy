@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 08:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 08:50:01</h4></div>
 
 > 微博  
 
@@ -7,16 +7,16 @@
 3. [我国拟立法保障粮食安全](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E6%8B%9F%E7%AB%8B%E6%B3%95%E4%BF%9D%E9%9A%9C%E7%B2%AE%E9%A3%9F%E5%AE%89%E5%85%A8%23&t=31&band_rank=3&Refer=top)<br />
 4. [景甜内娱女菩萨](https://s.weibo.com/weibo?q=%23%E6%99%AF%E7%94%9C%E5%86%85%E5%A8%B1%E5%A5%B3%E8%8F%A9%E8%90%A8%23&t=31&band_rank=4&Refer=top)<br />
 5. [原来中医不让吃水果是真的](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%B8%AD%E5%8C%BB%E4%B8%8D%E8%AE%A9%E5%90%83%E6%B0%B4%E6%9E%9C%E6%98%AF%E7%9C%9F%E7%9A%84%23&t=31&band_rank=5&Refer=top)<br />
-6. [贵州一6岁男童感染食脑虫](https://s.weibo.com/weibo?q=%23%E8%B4%B5%E5%B7%9E%E4%B8%806%E5%B2%81%E7%94%B7%E7%AB%A5%E6%84%9F%E6%9F%93%E9%A3%9F%E8%84%91%E8%99%AB%23&t=31&band_rank=6&Refer=top)<br />
-7. [韩国越来越多商铺设立禁儿童区](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E5%95%86%E9%93%BA%E8%AE%BE%E7%AB%8B%E7%A6%81%E5%84%BF%E7%AB%A5%E5%8C%BA&t=31&band_rank=7&Refer=top)<br />
+6. [韩国越来越多商铺设立禁儿童区](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E5%95%86%E9%93%BA%E8%AE%BE%E7%AB%8B%E7%A6%81%E5%84%BF%E7%AB%A5%E5%8C%BA&t=31&band_rank=6&Refer=top)<br />
+7. [贵州一6岁男童感染食脑虫](https://s.weibo.com/weibo?q=%23%E8%B4%B5%E5%B7%9E%E4%B8%806%E5%B2%81%E7%94%B7%E7%AB%A5%E6%84%9F%E6%9F%93%E9%A3%9F%E8%84%91%E8%99%AB%23&t=31&band_rank=7&Refer=top)<br />
 8. [文咏珊早几年都干嘛去了](https://s.weibo.com/weibo?q=%23%E6%96%87%E5%92%8F%E7%8F%8A%E6%97%A9%E5%87%A0%E5%B9%B4%E9%83%BD%E5%B9%B2%E5%98%9B%E5%8E%BB%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [吴越 真的不是我](https://s.weibo.com/weibo?q=%E5%90%B4%E8%B6%8A%20%E7%9C%9F%E7%9A%84%E4%B8%8D%E6%98%AF%E6%88%91&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [汶川地震「敬礼娃娃」朗铮高考 637 分，北大、人大等高校抛出橄榄枝，如何看待此事？](https://www.zhihu.com/question/608520055)<br />
-2. [韩外长称没理由与中国「结怨交恶」，外交部回应「中韩关系稳定发展符合双方利益」，如何看待韩方态度的转变？](https://www.zhihu.com/question/608737881)<br />
-3. [克宫发布视频，普京自「瓦格纳事件」结束以来首次发表公开讲话，称赞本国工业的稳定运营，释放了什么信号？](https://www.zhihu.com/question/608825587)<br />
+2. [克宫发布视频，普京自「瓦格纳事件」结束以来首次发表公开讲话，称赞本国工业的稳定运营，释放了什么信号？](https://www.zhihu.com/question/608825587)<br />
+3. [韩外长称没理由与中国「结怨交恶」，外交部回应「中韩关系稳定发展符合双方利益」，如何看待韩方态度的转变？](https://www.zhihu.com/question/608737881)<br />
 4. [警方通报男童被打后跳下 5 楼，「男童多处骨折，肺部挫伤」，有哪些信息值得关注？](https://www.zhihu.com/question/608832311)<br />
 5. [烧烤店因亲戚孩子来店里帮忙被罚 2.5 万，官方称属「雇佣童工」，如何从法律角度解读此事？](https://www.zhihu.com/question/608695467)<br />
 6. [那些曾离开「北上广」的年轻人们，正考虑重返大城市，如今对年轻人而言，大城市还具有吸引力吗？](https://www.zhihu.com/question/608736662)<br />
