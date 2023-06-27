@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 21:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 21:56:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [于斌多发点](https://s.weibo.com/weibo?q=%E4%BA%8E%E6%96%8C%E5%A4%9A%E5%8F%91%E7%82%B9&t=31&band_rank=5&Refer=top)<br />
 6. [考经纪人证](https://s.weibo.com/weibo?q=%E8%80%83%E7%BB%8F%E7%BA%AA%E4%BA%BA%E8%AF%81&t=31&band_rank=6&Refer=top)<br />
 7. [仙女棒已经进化到这种程度了吗](https://s.weibo.com/weibo?q=%E4%BB%99%E5%A5%B3%E6%A3%92%E5%B7%B2%E7%BB%8F%E8%BF%9B%E5%8C%96%E5%88%B0%E8%BF%99%E7%A7%8D%E7%A8%8B%E5%BA%A6%E4%BA%86%E5%90%97&t=31&band_rank=7&Refer=top)<br />
-8. [女孩考上清华家人放烟花前向邻居报备](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E8%80%83%E4%B8%8A%E6%B8%85%E5%8D%8E%E5%AE%B6%E4%BA%BA%E6%94%BE%E7%83%9F%E8%8A%B1%E5%89%8D%E5%90%91%E9%82%BB%E5%B1%85%E6%8A%A5%E5%A4%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [山东东营警方回应男子驾车反复碾压女子](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E4%B8%9C%E8%90%A5%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%90%E9%A9%BE%E8%BD%A6%E5%8F%8D%E5%A4%8D%E7%A2%BE%E5%8E%8B%E5%A5%B3%E5%AD%90%23&t=31&band_rank=9&Refer=top)<br />
+8. [山东东营警方回应男子驾车反复碾压女子](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E4%B8%9C%E8%90%A5%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%90%E9%A9%BE%E8%BD%A6%E5%8F%8D%E5%A4%8D%E7%A2%BE%E5%8E%8B%E5%A5%B3%E5%AD%90%23&t=31&band_rank=8&Refer=top)<br />
+9. [女孩考上清华家人放烟花前向邻居报备](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E8%80%83%E4%B8%8A%E6%B8%85%E5%8D%8E%E5%AE%B6%E4%BA%BA%E6%94%BE%E7%83%9F%E8%8A%B1%E5%89%8D%E5%90%91%E9%82%BB%E5%B1%85%E6%8A%A5%E5%A4%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -21,8 +21,8 @@
 5. [新能源车减免购置税延长到 2027 年，现在买车和三年后买一样吗？](https://www.zhihu.com/theater/28658)<br />
 6. [网传新版《新华字典》删「倭寇」一词，媒体调查称假消息，具体情况如何？](https://www.zhihu.com/question/609002775)<br />
 7. [马克龙接受美媒采访时称「法国愿意让中国融入全球秩序、更独立自主的欧洲很重要」，如何解读其表态？](https://www.zhihu.com/question/608830423)<br />
-8. [女子称在医院食堂吃魔芋鸭子「有疑似鼠头物」，医院工作人员称「确实是鼠头，正在调查」，哪些信息值得关注？](https://www.zhihu.com/question/608996249)<br />
-9. [为什么马拉松有半马，四分之一马，但是没有二倍马，四倍马？](https://www.zhihu.com/question/607606021)<br />
+8. [为什么马拉松有半马，四分之一马，但是没有二倍马，四倍马？](https://www.zhihu.com/question/607606021)<br />
+9. [女子称在医院食堂吃魔芋鸭子「有疑似鼠头物」，医院工作人员称「确实是鼠头，正在调查」，哪些信息值得关注？](https://www.zhihu.com/question/608996249)<br />
 
 > 百度  
 
