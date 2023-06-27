@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 02:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 02:50:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [周鸿祎被清华录取](https://s.weibo.com/weibo?q=%23%E5%91%A8%E9%B8%BF%E7%A5%8E%E8%A2%AB%E6%B8%85%E5%8D%8E%E5%BD%95%E5%8F%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [千万不要随意私拆学生档案](https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E9%9A%8F%E6%84%8F%E7%A7%81%E6%8B%86%E5%AD%A6%E7%94%9F%E6%A1%A3%E6%A1%88%23&t=31&band_rank=7&Refer=top)<br />
 8. [男子13岁得糖尿病27岁进ICU](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%9013%E5%B2%81%E5%BE%97%E7%B3%96%E5%B0%BF%E7%97%8527%E5%B2%81%E8%BF%9BICU%23&t=31&band_rank=8&Refer=top)<br />
-9. [一让在让](https://s.weibo.com/weibo?q=%E4%B8%80%E8%AE%A9%E5%9C%A8%E8%AE%A9&t=31&band_rank=9&Refer=top)<br />
+9. [陈哲远竟然是男团出身](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%93%B2%E8%BF%9C%E7%AB%9F%E7%84%B6%E6%98%AF%E7%94%B7%E5%9B%A2%E5%87%BA%E8%BA%AB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
