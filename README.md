@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 00:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 00:18:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [警方通报男子反复碾压女子致死](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%90%E5%8F%8D%E5%A4%8D%E7%A2%BE%E5%8E%8B%E5%A5%B3%E5%AD%90%E8%87%B4%E6%AD%BB%23&t=31&band_rank=4&Refer=top)<br />
 5. [那些和经纪人结婚的艺人](https://s.weibo.com/weibo?q=%23%E9%82%A3%E4%BA%9B%E5%92%8C%E7%BB%8F%E7%BA%AA%E4%BA%BA%E7%BB%93%E5%A9%9A%E7%9A%84%E8%89%BA%E4%BA%BA%23&t=31&band_rank=5&Refer=top)<br />
 6. [周鸿祎被清华录取](https://s.weibo.com/weibo?q=%23%E5%91%A8%E9%B8%BF%E7%A5%8E%E8%A2%AB%E6%B8%85%E5%8D%8E%E5%BD%95%E5%8F%96%23&t=31&band_rank=6&Refer=top)<br />
-7. [男子13岁得糖尿病27岁进ICU](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%9013%E5%B2%81%E5%BE%97%E7%B3%96%E5%B0%BF%E7%97%8527%E5%B2%81%E8%BF%9BICU%23&t=31&band_rank=7&Refer=top)<br />
-8. [周杰伦昆凌见证萧敬腾求婚现场](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%98%86%E5%87%8C%E8%A7%81%E8%AF%81%E8%90%A7%E6%95%AC%E8%85%BE%E6%B1%82%E5%A9%9A%E7%8E%B0%E5%9C%BA%23&t=31&band_rank=8&Refer=top)<br />
+7. [周杰伦昆凌见证萧敬腾求婚现场](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%98%86%E5%87%8C%E8%A7%81%E8%AF%81%E8%90%A7%E6%95%AC%E8%85%BE%E6%B1%82%E5%A9%9A%E7%8E%B0%E5%9C%BA%23&t=31&band_rank=7&Refer=top)<br />
+8. [男子13岁得糖尿病27岁进ICU](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%9013%E5%B2%81%E5%BE%97%E7%B3%96%E5%B0%BF%E7%97%8527%E5%B2%81%E8%BF%9BICU%23&t=31&band_rank=8&Refer=top)<br />
 9. [人狗合一](https://s.weibo.com/weibo?q=%E4%BA%BA%E7%8B%97%E5%90%88%E4%B8%80&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
