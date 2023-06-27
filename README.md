@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 01:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 01:11:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [达沃斯在天津](https://s.weibo.com/weibo?q=%23%E8%BE%BE%E6%B2%83%E6%96%AF%E5%9C%A8%E5%A4%A9%E6%B4%A5%23&t=31&band_rank=3&Refer=top)<br />
 4. [人狗合一](https://s.weibo.com/weibo?q=%E4%BA%BA%E7%8B%97%E5%90%88%E4%B8%80&t=31&band_rank=4&Refer=top)<br />
 5. [警方通报男子反复碾压女子致死](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%90%E5%8F%8D%E5%A4%8D%E7%A2%BE%E5%8E%8B%E5%A5%B3%E5%AD%90%E8%87%B4%E6%AD%BB%23&t=31&band_rank=5&Refer=top)<br />
-6. [那些和经纪人结婚的艺人](https://s.weibo.com/weibo?q=%23%E9%82%A3%E4%BA%9B%E5%92%8C%E7%BB%8F%E7%BA%AA%E4%BA%BA%E7%BB%93%E5%A9%9A%E7%9A%84%E8%89%BA%E4%BA%BA%23&t=31&band_rank=6&Refer=top)<br />
-7. [消失的她又双叒票房逆跌了](https://s.weibo.com/weibo?q=%23%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E5%8F%88%E5%8F%8C%E5%8F%92%E7%A5%A8%E6%88%BF%E9%80%86%E8%B7%8C%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+6. [消失的她又双叒票房逆跌了](https://s.weibo.com/weibo?q=%23%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E5%8F%88%E5%8F%8C%E5%8F%92%E7%A5%A8%E6%88%BF%E9%80%86%E8%B7%8C%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
+7. [那些和经纪人结婚的艺人](https://s.weibo.com/weibo?q=%23%E9%82%A3%E4%BA%9B%E5%92%8C%E7%BB%8F%E7%BA%AA%E4%BA%BA%E7%BB%93%E5%A9%9A%E7%9A%84%E8%89%BA%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [千万不要随意私拆学生档案](https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E9%9A%8F%E6%84%8F%E7%A7%81%E6%8B%86%E5%AD%A6%E7%94%9F%E6%A1%A3%E6%A1%88%23&t=31&band_rank=8&Refer=top)<br />
 9. [陈哲远竟然是男团出身](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%93%B2%E8%BF%9C%E7%AB%9F%E7%84%B6%E6%98%AF%E7%94%B7%E5%9B%A2%E5%87%BA%E8%BA%AB%23&t=31&band_rank=9&Refer=top)<br />
 
