@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 22:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 22:26:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [那些和经纪人结婚的艺人](https://s.weibo.com/weibo?q=%23%E9%82%A3%E4%BA%9B%E5%92%8C%E7%BB%8F%E7%BA%AA%E4%BA%BA%E7%BB%93%E5%A9%9A%E7%9A%84%E8%89%BA%E4%BA%BA%23&t=31&band_rank=5&Refer=top)<br />
 6. [于斌多发点](https://s.weibo.com/weibo?q=%E4%BA%8E%E6%96%8C%E5%A4%9A%E5%8F%91%E7%82%B9&t=31&band_rank=6&Refer=top)<br />
 7. [考经纪人证](https://s.weibo.com/weibo?q=%E8%80%83%E7%BB%8F%E7%BA%AA%E4%BA%BA%E8%AF%81&t=31&band_rank=7&Refer=top)<br />
-8. [网传男子开车反复碾轧女子事发山东东营](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E7%94%B7%E5%AD%90%E5%BC%80%E8%BD%A6%E5%8F%8D%E5%A4%8D%E7%A2%BE%E8%BD%A7%E5%A5%B3%E5%AD%90%E4%BA%8B%E5%8F%91%E5%B1%B1%E4%B8%9C%E4%B8%9C%E8%90%A5%23&t=31&band_rank=8&Refer=top)<br />
-9. [被男子反复碾压女子已身亡](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%94%B7%E5%AD%90%E5%8F%8D%E5%A4%8D%E7%A2%BE%E5%8E%8B%E5%A5%B3%E5%AD%90%E5%B7%B2%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
+8. [被男子反复碾压女子已身亡](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%94%B7%E5%AD%90%E5%8F%8D%E5%A4%8D%E7%A2%BE%E5%8E%8B%E5%A5%B3%E5%AD%90%E5%B7%B2%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
+9. [网传男子开车反复碾轧女子事发山东东营](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E7%94%B7%E5%AD%90%E5%BC%80%E8%BD%A6%E5%8F%8D%E5%A4%8D%E7%A2%BE%E8%BD%A7%E5%A5%B3%E5%AD%90%E4%BA%8B%E5%8F%91%E5%B1%B1%E4%B8%9C%E4%B8%9C%E8%90%A5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -19,10 +19,10 @@
 3. [俄国防部称「瓦格纳将向军队移交重型武器，俄方取消了瓦格纳武装『叛变』的刑事案件」，如何评价这一进展？](https://www.zhihu.com/question/608972289)<br />
 4. [网传新版《新华字典》删「倭寇」一词，媒体调查称假消息，具体情况如何？](https://www.zhihu.com/question/609002775)<br />
 5. [马克龙接受美媒采访时称「法国愿意让中国融入全球秩序、更独立自主的欧洲很重要」，如何解读其表态？](https://www.zhihu.com/question/608830423)<br />
-6. [女子称在医院食堂吃魔芋鸭子「有疑似鼠头物」，医院工作人员称「确实是鼠头，正在调查」，哪些信息值得关注？](https://www.zhihu.com/question/608996249)<br />
-7. [为什么长辈们认为汉堡、炸鸡是垃圾食品，而粽子、面条、馒头、烧卖、米饭、汤圆、饺子、油条、月饼却不是？](https://www.zhihu.com/question/607811217)<br />
+6. [西安一妻子将丈夫送进精神病院，丈夫出院后又将其送进精神病院，如何看待此事？事实真相如何？](https://www.zhihu.com/question/608899147)<br />
+7. [女子称在医院食堂吃魔芋鸭子「有疑似鼠头物」，医院工作人员称「确实是鼠头，正在调查」，哪些信息值得关注？](https://www.zhihu.com/question/608996249)<br />
 8. [为什么马拉松有半马，四分之一马，但是没有二倍马，四倍马？](https://www.zhihu.com/question/607606021)<br />
-9. [青岛一名 8 岁男童被武术教练打死，3 名犯罪嫌疑人已抓获，这起到了哪些警示作用？](https://www.zhihu.com/question/608713781)<br />
+9. [美国务院称「希望引渡瓦格纳领导人普里戈任」，美方是出于哪些考虑？后续将如何发展？](https://www.zhihu.com/question/608936142)<br />
 
 > 百度  
 
