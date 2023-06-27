@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 15:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 15:52:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [杭州女子养仓鼠脸烂成火龙果](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%A5%B3%E5%AD%90%E5%85%BB%E4%BB%93%E9%BC%A0%E8%84%B8%E7%83%82%E6%88%90%E7%81%AB%E9%BE%99%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [美方：希望引渡并逮捕普里戈任](https://www.baidu.com/s?wd=%E7%BE%8E%E6%96%B9%EF%BC%9A%E5%B8%8C%E6%9C%9B%E5%BC%95%E6%B8%A1%E5%B9%B6%E9%80%AE%E6%8D%95%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [如果人们看得见](https://www.baidu.com/s?wd=%E5%A6%82%E6%9E%9C%E4%BA%BA%E4%BB%AC%E7%9C%8B%E5%BE%97%E8%A7%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [汶川突发山洪泥石流 7人失联](https://www.baidu.com/s?wd=%E6%B1%B6%E5%B7%9D%E7%AA%81%E5%8F%91%E5%B1%B1%E6%B4%AA%E6%B3%A5%E7%9F%B3%E6%B5%81+7%E4%BA%BA%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [川大回应律所称不再招川大毕业生](https://www.baidu.com/s?wd=%E5%B7%9D%E5%A4%A7%E5%9B%9E%E5%BA%94%E5%BE%8B%E6%89%80%E7%A7%B0%E4%B8%8D%E5%86%8D%E6%8B%9B%E5%B7%9D%E5%A4%A7%E6%AF%95%E4%B8%9A%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [杭州女子养仓鼠脸烂成火龙果](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%A5%B3%E5%AD%90%E5%85%BB%E4%BB%93%E9%BC%A0%E8%84%B8%E7%83%82%E6%88%90%E7%81%AB%E9%BE%99%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [美方：希望引渡并逮捕普里戈任](https://www.baidu.com/s?wd=%E7%BE%8E%E6%96%B9%EF%BC%9A%E5%B8%8C%E6%9C%9B%E5%BC%95%E6%B8%A1%E5%B9%B6%E9%80%AE%E6%8D%95%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [如果人们看得见](https://www.baidu.com/s?wd=%E5%A6%82%E6%9E%9C%E4%BA%BA%E4%BB%AC%E7%9C%8B%E5%BE%97%E8%A7%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [汶川突发山洪泥石流 7人失联](https://www.baidu.com/s?wd=%E6%B1%B6%E5%B7%9D%E7%AA%81%E5%8F%91%E5%B1%B1%E6%B4%AA%E6%B3%A5%E7%9F%B3%E6%B5%81+7%E4%BA%BA%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [川大回应律所称不再招川大毕业生](https://www.baidu.com/s?wd=%E5%B7%9D%E5%A4%A7%E5%9B%9E%E5%BA%94%E5%BE%8B%E6%89%80%E7%A7%B0%E4%B8%8D%E5%86%8D%E6%8B%9B%E5%B7%9D%E5%A4%A7%E6%AF%95%E4%B8%9A%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
