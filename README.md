@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 16:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 16:28:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [差点认不出张艺兴](https://s.weibo.com/weibo?q=%23%E5%B7%AE%E7%82%B9%E8%AE%A4%E4%B8%8D%E5%87%BA%E5%BC%A0%E8%89%BA%E5%85%B4%23&t=31&band_rank=6&Refer=top)<br />
 7. [微信否认文件传输助手是真人](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E5%90%A6%E8%AE%A4%E6%96%87%E4%BB%B6%E4%BC%A0%E8%BE%93%E5%8A%A9%E6%89%8B%E6%98%AF%E7%9C%9F%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [范玮琪支持老公陈建州](https://s.weibo.com/weibo?q=%23%E8%8C%83%E7%8E%AE%E7%90%AA%E6%94%AF%E6%8C%81%E8%80%81%E5%85%AC%E9%99%88%E5%BB%BA%E5%B7%9E%23&t=31&band_rank=8&Refer=top)<br />
-9. [陈哲远用屁股把赵露思拱下去了](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%93%B2%E8%BF%9C%E7%94%A8%E5%B1%81%E8%82%A1%E6%8A%8A%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%8B%B1%E4%B8%8B%E5%8E%BB%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [上海游泳馆设女性专用泳道](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%B8%B8%E6%B3%B3%E9%A6%86%E8%AE%BE%E5%A5%B3%E6%80%A7%E4%B8%93%E7%94%A8%E6%B3%B3%E9%81%93%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
