@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 06:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 06:53:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [萧敬腾求婚林有慧](https://s.weibo.com/weibo?q=%23%E8%90%A7%E6%95%AC%E8%85%BE%E6%B1%82%E5%A9%9A%E6%9E%97%E6%9C%89%E6%85%A7%23&t=31&band_rank=4&Refer=top)<br />
 5. [消失的她又双叒票房逆跌了](https://s.weibo.com/weibo?q=%23%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E5%8F%88%E5%8F%8C%E5%8F%92%E7%A5%A8%E6%88%BF%E9%80%86%E8%B7%8C%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [周鸿祎被清华录取](https://s.weibo.com/weibo?q=%23%E5%91%A8%E9%B8%BF%E7%A5%8E%E8%A2%AB%E6%B8%85%E5%8D%8E%E5%BD%95%E5%8F%96%23&t=31&band_rank=6&Refer=top)<br />
-7. [千万不要随意私拆学生档案](https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E9%9A%8F%E6%84%8F%E7%A7%81%E6%8B%86%E5%AD%A6%E7%94%9F%E6%A1%A3%E6%A1%88%23&t=31&band_rank=7&Refer=top)<br />
-8. [男子13岁得糖尿病27岁进ICU](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%9013%E5%B2%81%E5%BE%97%E7%B3%96%E5%B0%BF%E7%97%8527%E5%B2%81%E8%BF%9BICU%23&t=31&band_rank=8&Refer=top)<br />
+7. [男子13岁得糖尿病27岁进ICU](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%9013%E5%B2%81%E5%BE%97%E7%B3%96%E5%B0%BF%E7%97%8527%E5%B2%81%E8%BF%9BICU%23&t=31&band_rank=7&Refer=top)<br />
+8. [千万不要随意私拆学生档案](https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E9%9A%8F%E6%84%8F%E7%A7%81%E6%8B%86%E5%AD%A6%E7%94%9F%E6%A1%A3%E6%A1%88%23&t=31&band_rank=8&Refer=top)<br />
 9. [医院回应女子被司机反复碾轧遇害](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%8F%B8%E6%9C%BA%E5%8F%8D%E5%A4%8D%E7%A2%BE%E8%BD%A7%E9%81%87%E5%AE%B3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -20,8 +20,8 @@
 4. [马克龙接受美媒采访时称「法国愿意让中国融入全球秩序、更独立自主的欧洲很重要」，如何解读其表态？](https://www.zhihu.com/question/608830423)<br />
 5. []()<br />
 6. [俄国防部称「瓦格纳将向军队移交重型武器，俄方取消了瓦格纳武装『叛变』的刑事案件」，如何评价这一进展？](https://www.zhihu.com/question/608972289)<br />
-7. []()<br />
-8. [建国时期影视剧，骑自行车都先滑行一段，迈步上车的。现在为什么大家骑车为什么不用这种方式了？](https://www.zhihu.com/question/605318585)<br />
+7. [建国时期影视剧，骑自行车都先滑行一段，迈步上车的。现在为什么大家骑车为什么不用这种方式了？](https://www.zhihu.com/question/605318585)<br />
+8. []()<br />
 9. []()<br />
 
 > 百度  
