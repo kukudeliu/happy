@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 08:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 08:49:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [贵州一6岁男童感染食脑虫](https://s.weibo.com/weibo?q=%23%E8%B4%B5%E5%B7%9E%E4%B8%806%E5%B2%81%E7%94%B7%E7%AB%A5%E6%84%9F%E6%9F%93%E9%A3%9F%E8%84%91%E8%99%AB%23&t=31&band_rank=6&Refer=top)<br />
 7. [韩国越来越多商铺设立禁儿童区](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E5%95%86%E9%93%BA%E8%AE%BE%E7%AB%8B%E7%A6%81%E5%84%BF%E7%AB%A5%E5%8C%BA&t=31&band_rank=7&Refer=top)<br />
 8. [文咏珊早几年都干嘛去了](https://s.weibo.com/weibo?q=%23%E6%96%87%E5%92%8F%E7%8F%8A%E6%97%A9%E5%87%A0%E5%B9%B4%E9%83%BD%E5%B9%B2%E5%98%9B%E5%8E%BB%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [贬低你的亲戚都是父母惯的](https://s.weibo.com/weibo?q=%E8%B4%AC%E4%BD%8E%E4%BD%A0%E7%9A%84%E4%BA%B2%E6%88%9A%E9%83%BD%E6%98%AF%E7%88%B6%E6%AF%8D%E6%83%AF%E7%9A%84&t=31&band_rank=9&Refer=top)<br />
+9. [吴越 真的不是我](https://s.weibo.com/weibo?q=%E5%90%B4%E8%B6%8A%20%E7%9C%9F%E7%9A%84%E4%B8%8D%E6%98%AF%E6%88%91&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
