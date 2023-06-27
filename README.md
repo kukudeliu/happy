@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 09:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 09:33:01</h4></div>
 
 > 微博  
 
@@ -18,11 +18,11 @@
 2. [克宫发布视频，普京自「瓦格纳事件」结束以来首次发表公开讲话，称赞本国工业的稳定运营，释放了什么信号？](https://www.zhihu.com/question/608825587)<br />
 3. [警方通报男童被打后跳下 5 楼，「男童多处骨折，肺部挫伤」，有哪些信息值得关注？](https://www.zhihu.com/question/608832311)<br />
 4. [韩外长称没理由与中国「结怨交恶」，外交部回应「中韩关系稳定发展符合双方利益」，如何看待韩方态度的转变？](https://www.zhihu.com/question/608737881)<br />
-5. [烧烤店因亲戚孩子来店里帮忙被罚 2.5 万，官方称属「雇佣童工」，如何从法律角度解读此事？](https://www.zhihu.com/question/608695467)<br />
-6. [那些曾离开「北上广」的年轻人们，正考虑重返大城市，如今对年轻人而言，大城市还具有吸引力吗？](https://www.zhihu.com/question/608736662)<br />
+5. [那些曾离开「北上广」的年轻人们，正考虑重返大城市，如今对年轻人而言，大城市还具有吸引力吗？](https://www.zhihu.com/question/608736662)<br />
+6. [烧烤店因亲戚孩子来店里帮忙被罚 2.5 万，官方称属「雇佣童工」，如何从法律角度解读此事？](https://www.zhihu.com/question/608695467)<br />
 7. [可以展示一下你的文玩吗？](https://www.zhihu.com/question/56595005)<br />
-8. [为什么长辈们认为汉堡、炸鸡是垃圾食品，而粽子、面条、馒头、烧卖、米饭、汤圆、饺子、油条、月饼却不是？](https://www.zhihu.com/question/607811217)<br />
-9. [《云顶之弈》选「静水监狱」应该被骂吗？](https://www.zhihu.com/question/608552596)<br />
+8. [假如有两个按钮，只能按一次，「按钮 A 立即获得 9999 元，按钮 B 有万分之一的可能获得一亿元」，你按哪个？](https://www.zhihu.com/question/607822207)<br />
+9. [为什么长辈们认为汉堡、炸鸡是垃圾食品，而粽子、面条、馒头、烧卖、米饭、汤圆、饺子、油条、月饼却不是？](https://www.zhihu.com/question/607811217)<br />
 
 > 百度  
 
@@ -34,7 +34,7 @@
 6. [男童被教练打死 父亲：刚开课两天](https://www.baidu.com/s?wd=%E7%94%B7%E7%AB%A5%E8%A2%AB%E6%95%99%E7%BB%83%E6%89%93%E6%AD%BB+%E7%88%B6%E4%BA%B2%EF%BC%9A%E5%88%9A%E5%BC%80%E8%AF%BE%E4%B8%A4%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [景区回应“乐山大佛被卖”](https://www.baidu.com/s?wd=%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94%E2%80%9C%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B%E8%A2%AB%E5%8D%96%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [张雪峰建议报考有壁垒的专业](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%BB%BA%E8%AE%AE%E6%8A%A5%E8%80%83%E6%9C%89%E5%A3%81%E5%9E%92%E7%9A%84%E4%B8%93%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [泳装照简历中的手机号主回应](https://www.baidu.com/s?wd=%E6%B3%B3%E8%A3%85%E7%85%A7%E7%AE%80%E5%8E%86%E4%B8%AD%E7%9A%84%E6%89%8B%E6%9C%BA%E5%8F%B7%E4%B8%BB%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [25岁女孩青岛旅游失联后身亡](https://www.baidu.com/s?wd=25%E5%B2%81%E5%A5%B3%E5%AD%A9%E9%9D%92%E5%B2%9B%E6%97%85%E6%B8%B8%E5%A4%B1%E8%81%94%E5%90%8E%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [男童被教练打死 父亲：刚开课两天](https://www.baidu.com/s?wd=%E7%94%B7%E7%AB%A5%E8%A2%AB%E6%95%99%E7%BB%83%E6%89%93%E6%AD%BB+%E7%88%B6%E4%BA%B2%EF%BC%9A%E5%88%9A%E5%BC%80%E8%AF%BE%E4%B8%A4%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [景区回应“乐山大佛被卖”](https://www.baidu.com/s?wd=%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94%E2%80%9C%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B%E8%A2%AB%E5%8D%96%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [张雪峰建议报考有壁垒的专业](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%BB%BA%E8%AE%AE%E6%8A%A5%E8%80%83%E6%9C%89%E5%A3%81%E5%9E%92%E7%9A%84%E4%B8%93%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [泳装照简历中的手机号主回应](https://www.baidu.com/s?wd=%E6%B3%B3%E8%A3%85%E7%85%A7%E7%AE%80%E5%8E%86%E4%B8%AD%E7%9A%84%E6%89%8B%E6%9C%BA%E5%8F%B7%E4%B8%BB%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [25岁女孩青岛旅游失联后身亡](https://www.baidu.com/s?wd=25%E5%B2%81%E5%A5%B3%E5%AD%A9%E9%9D%92%E5%B2%9B%E6%97%85%E6%B8%B8%E5%A4%B1%E8%81%94%E5%90%8E%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
