@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 16:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 16:38:02</h4></div>
 
 > 微博  
 
@@ -7,22 +7,22 @@
 3. [达沃斯在天津](https://s.weibo.com/weibo?q=%23%E8%BE%BE%E6%B2%83%E6%96%AF%E5%9C%A8%E5%A4%A9%E6%B4%A5%23&t=31&band_rank=3&Refer=top)<br />
 4. [前男友居然去做了变性手术](https://s.weibo.com/weibo?q=%23%E5%89%8D%E7%94%B7%E5%8F%8B%E5%B1%85%E7%84%B6%E5%8E%BB%E5%81%9A%E4%BA%86%E5%8F%98%E6%80%A7%E6%89%8B%E6%9C%AF%23&t=31&band_rank=4&Refer=top)<br />
 5. [柳智敏回应](https://s.weibo.com/weibo?q=%23%E6%9F%B3%E6%99%BA%E6%95%8F%E5%9B%9E%E5%BA%94%23&t=31&band_rank=5&Refer=top)<br />
-6. [陈建州大牙行程对上了](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BB%BA%E5%B7%9E%E5%A4%A7%E7%89%99%E8%A1%8C%E7%A8%8B%E5%AF%B9%E4%B8%8A%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
+6. [范玮琪支持老公陈建州](https://s.weibo.com/weibo?q=%23%E8%8C%83%E7%8E%AE%E7%90%AA%E6%94%AF%E6%8C%81%E8%80%81%E5%85%AC%E9%99%88%E5%BB%BA%E5%B7%9E%23&t=31&band_rank=6&Refer=top)<br />
 7. [上海游泳馆设女性专用泳道](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%B8%B8%E6%B3%B3%E9%A6%86%E8%AE%BE%E5%A5%B3%E6%80%A7%E4%B8%93%E7%94%A8%E6%B3%B3%E9%81%93%23&t=31&band_rank=7&Refer=top)<br />
 8. [微信否认文件传输助手是真人](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E5%90%A6%E8%AE%A4%E6%96%87%E4%BB%B6%E4%BC%A0%E8%BE%93%E5%8A%A9%E6%89%8B%E6%98%AF%E7%9C%9F%E4%BA%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [范玮琪支持老公陈建州](https://s.weibo.com/weibo?q=%23%E8%8C%83%E7%8E%AE%E7%90%AA%E6%94%AF%E6%8C%81%E8%80%81%E5%85%AC%E9%99%88%E5%BB%BA%E5%B7%9E%23&t=31&band_rank=9&Refer=top)<br />
+9. [陈建州大牙行程对上了](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BB%BA%E5%B7%9E%E5%A4%A7%E7%89%99%E8%A1%8C%E7%A8%8B%E5%AF%B9%E4%B8%8A%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [为什么长辈们认为汉堡、炸鸡是垃圾食品，而粽子、面条、馒头、烧卖、米饭、汤圆、饺子、油条、月饼却不是？](https://www.zhihu.com/question/607811217)<br />
 2. [假如有两个按钮，只能按一次，「按钮 A 立即获得 9999 元，按钮 B 有万分之一的可能获得一亿元」，你按哪个？](https://www.zhihu.com/question/607822207)<br />
 3. [调休制定参与者建议重新考虑政策，称「目前大家普遍不满意」，如何看待此事？你支持调休吗？](https://www.zhihu.com/question/608431520)<br />
-4. [31 岁 J 罗无球可踢仍未找到下家，身价巅峰 8000 万仅剩 600 万欧，如何评价他的职业生涯？](https://www.zhihu.com/question/608892681)<br />
+4. [如何看待《原神》可莉新皮肤改变原设引争议，你有哪些看法？](https://www.zhihu.com/question/608581381)<br />
 5. [这个夏天，你的城市有哪些迷人好去处？](https://www.zhihu.com/xen/market/ecom-page/1654546294394523648)<br />
 6. [一季度全国结婚登记同比增加 4 万对，离婚多了 12 万对，这反映出什么社会现象，由哪些原因导致？](https://www.zhihu.com/question/608857761)<br />
-7. [如何看待《原神》可莉新皮肤改变原设引争议，你有哪些看法？](https://www.zhihu.com/question/608581381)<br />
+7. [31 岁 J 罗无球可踢仍未找到下家，身价巅峰 8000 万仅剩 600 万欧，如何评价他的职业生涯？](https://www.zhihu.com/question/608892681)<br />
 8. [ChatGPT 访问量增速大降，6 月环比增长率可能为负数，科技股资金大幅外流，AI 热潮熄火了吗？](https://www.zhihu.com/question/608894843)<br />
-9. [高考数学改卷写一个「解」字都有一分是真的吗？](https://www.zhihu.com/question/605608237)<br />
+9. [30  个同学聚餐让每人出  1000  元，毕业后你会去同学聚会吗？](https://www.zhihu.com/question/607992752)<br />
 
 > 百度  
 
