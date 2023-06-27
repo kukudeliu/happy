@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 03:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 03:07:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [达沃斯在天津](https://s.weibo.com/weibo?q=%23%E8%BE%BE%E6%B2%83%E6%96%AF%E5%9C%A8%E5%A4%A9%E6%B4%A5%23&t=31&band_rank=3&Refer=top)<br />
 4. [警方通报男子反复碾压女子致死](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%90%E5%8F%8D%E5%A4%8D%E7%A2%BE%E5%8E%8B%E5%A5%B3%E5%AD%90%E8%87%B4%E6%AD%BB%23&t=31&band_rank=4&Refer=top)<br />
 5. [消失的她又双叒票房逆跌了](https://s.weibo.com/weibo?q=%23%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E5%8F%88%E5%8F%8C%E5%8F%92%E7%A5%A8%E6%88%BF%E9%80%86%E8%B7%8C%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
-6. [周鸿祎被清华录取](https://s.weibo.com/weibo?q=%23%E5%91%A8%E9%B8%BF%E7%A5%8E%E8%A2%AB%E6%B8%85%E5%8D%8E%E5%BD%95%E5%8F%96%23&t=31&band_rank=6&Refer=top)<br />
-7. [男子13岁得糖尿病27岁进ICU](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%9013%E5%B2%81%E5%BE%97%E7%B3%96%E5%B0%BF%E7%97%8527%E5%B2%81%E8%BF%9BICU%23&t=31&band_rank=7&Refer=top)<br />
+6. [男子13岁得糖尿病27岁进ICU](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%9013%E5%B2%81%E5%BE%97%E7%B3%96%E5%B0%BF%E7%97%8527%E5%B2%81%E8%BF%9BICU%23&t=31&band_rank=6&Refer=top)<br />
+7. [周鸿祎被清华录取](https://s.weibo.com/weibo?q=%23%E5%91%A8%E9%B8%BF%E7%A5%8E%E8%A2%AB%E6%B8%85%E5%8D%8E%E5%BD%95%E5%8F%96%23&t=31&band_rank=7&Refer=top)<br />
 8. [千万不要随意私拆学生档案](https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E9%9A%8F%E6%84%8F%E7%A7%81%E6%8B%86%E5%AD%A6%E7%94%9F%E6%A1%A3%E6%A1%88%23&t=31&band_rank=8&Refer=top)<br />
 9. [医院回应女子被司机反复碾轧遇害](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%8F%B8%E6%9C%BA%E5%8F%8D%E5%A4%8D%E7%A2%BE%E8%BD%A7%E9%81%87%E5%AE%B3%23&t=31&band_rank=9&Refer=top)<br />
 
@@ -33,8 +33,8 @@
 5. [警方通报男子反复碾压妻子致死](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%90%E5%8F%8D%E5%A4%8D%E7%A2%BE%E5%8E%8B%E5%A6%BB%E5%AD%90%E8%87%B4%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [2米12男子盗窃被民警一眼认出](https://www.baidu.com/s?wd=2%E7%B1%B312%E7%94%B7%E5%AD%90%E7%9B%97%E7%AA%83%E8%A2%AB%E6%B0%91%E8%AD%A6%E4%B8%80%E7%9C%BC%E8%AE%A4%E5%87%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [媒体:出轨他人妻子的高校领导被免职](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%3A%E5%87%BA%E8%BD%A8%E4%BB%96%E4%BA%BA%E5%A6%BB%E5%AD%90%E7%9A%84%E9%AB%98%E6%A0%A1%E9%A2%86%E5%AF%BC%E8%A2%AB%E5%85%8D%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [高招宣讲会清华北大“无人问津”](https://www.baidu.com/s?wd=%E9%AB%98%E6%8B%9B%E5%AE%A3%E8%AE%B2%E4%BC%9A%E6%B8%85%E5%8D%8E%E5%8C%97%E5%A4%A7%E2%80%9C%E6%97%A0%E4%BA%BA%E9%97%AE%E6%B4%A5%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [喜茶、奈雪为何又不香了？](https://www.baidu.com/s?wd=%E5%96%9C%E8%8C%B6%E3%80%81%E5%A5%88%E9%9B%AA%E4%B8%BA%E4%BD%95%E5%8F%88%E4%B8%8D%E9%A6%99%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [喜茶、奈雪为何又不香了？](https://www.baidu.com/s?wd=%E5%96%9C%E8%8C%B6%E3%80%81%E5%A5%88%E9%9B%AA%E4%B8%BA%E4%BD%95%E5%8F%88%E4%B8%8D%E9%A6%99%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [普京:过去1年向瓦格纳提供860亿卢布](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%3A%E8%BF%87%E5%8E%BB1%E5%B9%B4%E5%90%91%E7%93%A6%E6%A0%BC%E7%BA%B3%E6%8F%90%E4%BE%9B860%E4%BA%BF%E5%8D%A2%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [警方通报男子反复碾压妻子致死](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%90%E5%8F%8D%E5%A4%8D%E7%A2%BE%E5%8E%8B%E5%A6%BB%E5%AD%90%E8%87%B4%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [2米12男子盗窃被民警一眼认出](https://www.baidu.com/s?wd=2%E7%B1%B312%E7%94%B7%E5%AD%90%E7%9B%97%E7%AA%83%E8%A2%AB%E6%B0%91%E8%AD%A6%E4%B8%80%E7%9C%BC%E8%AE%A4%E5%87%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [媒体:出轨他人妻子的高校领导被免职](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%3A%E5%87%BA%E8%BD%A8%E4%BB%96%E4%BA%BA%E5%A6%BB%E5%AD%90%E7%9A%84%E9%AB%98%E6%A0%A1%E9%A2%86%E5%AF%BC%E8%A2%AB%E5%85%8D%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [高招宣讲会清华北大“无人问津”](https://www.baidu.com/s?wd=%E9%AB%98%E6%8B%9B%E5%AE%A3%E8%AE%B2%E4%BC%9A%E6%B8%85%E5%8D%8E%E5%8C%97%E5%A4%A7%E2%80%9C%E6%97%A0%E4%BA%BA%E9%97%AE%E6%B4%A5%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [喜茶、奈雪为何又不香了？](https://www.baidu.com/s?wd=%E5%96%9C%E8%8C%B6%E3%80%81%E5%A5%88%E9%9B%AA%E4%B8%BA%E4%BD%95%E5%8F%88%E4%B8%8D%E9%A6%99%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [喜茶、奈雪为何又不香了？](https://www.baidu.com/s?wd=%E5%96%9C%E8%8C%B6%E3%80%81%E5%A5%88%E9%9B%AA%E4%B8%BA%E4%BD%95%E5%8F%88%E4%B8%8D%E9%A6%99%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [普京:过去1年向瓦格纳提供860亿卢布](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%3A%E8%BF%87%E5%8E%BB1%E5%B9%B4%E5%90%91%E7%93%A6%E6%A0%BC%E7%BA%B3%E6%8F%90%E4%BE%9B860%E4%BA%BF%E5%8D%A2%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
