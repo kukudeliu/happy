@@ -1,23 +1,23 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 20:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 20:02:01</h4></div>
 
 > 微博  
 
 1. [重庆一医院被曝盒饭中吃出老鼠头](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E4%B8%80%E5%8C%BB%E9%99%A2%E8%A2%AB%E6%9B%9D%E7%9B%92%E9%A5%AD%E4%B8%AD%E5%90%83%E5%87%BA%E8%80%81%E9%BC%A0%E5%A4%B4%23&t=31&band_rank=1&Refer=top)<br />
-2. [沈阳一洗浴中心回应租赁爸爸服务](https://s.weibo.com/weibo?q=%23%E6%B2%88%E9%98%B3%E4%B8%80%E6%B4%97%E6%B5%B4%E4%B8%AD%E5%BF%83%E5%9B%9E%E5%BA%94%E7%A7%9F%E8%B5%81%E7%88%B8%E7%88%B8%E6%9C%8D%E5%8A%A1%23&t=31&band_rank=2&Refer=top)<br />
+2. [女子找工作政审发现自己被坐过牢](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%89%BE%E5%B7%A5%E4%BD%9C%E6%94%BF%E5%AE%A1%E5%8F%91%E7%8E%B0%E8%87%AA%E5%B7%B1%E8%A2%AB%E5%9D%90%E8%BF%87%E7%89%A2%23&t=31&band_rank=2&Refer=top)<br />
 3. [达沃斯在天津](https://s.weibo.com/weibo?q=%23%E8%BE%BE%E6%B2%83%E6%96%AF%E5%9C%A8%E5%A4%A9%E6%B4%A5%23&t=31&band_rank=3&Refer=top)<br />
 4. [小S曾在节目中批陈建州](https://s.weibo.com/weibo?q=%23%E5%B0%8FS%E6%9B%BE%E5%9C%A8%E8%8A%82%E7%9B%AE%E4%B8%AD%E6%89%B9%E9%99%88%E5%BB%BA%E5%B7%9E%23&t=31&band_rank=4&Refer=top)<br />
-5. [女孩在3厘米珠子内反手作画](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%9C%A83%E5%8E%98%E7%B1%B3%E7%8F%A0%E5%AD%90%E5%86%85%E5%8F%8D%E6%89%8B%E4%BD%9C%E7%94%BB%23&t=31&band_rank=5&Refer=top)<br />
-6. [女子找工作政审发现自己被坐过牢](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%89%BE%E5%B7%A5%E4%BD%9C%E6%94%BF%E5%AE%A1%E5%8F%91%E7%8E%B0%E8%87%AA%E5%B7%B1%E8%A2%AB%E5%9D%90%E8%BF%87%E7%89%A2%23&t=31&band_rank=6&Refer=top)<br />
-7. [女孩考上清华家人放烟花前向邻居报备](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E8%80%83%E4%B8%8A%E6%B8%85%E5%8D%8E%E5%AE%B6%E4%BA%BA%E6%94%BE%E7%83%9F%E8%8A%B1%E5%89%8D%E5%90%91%E9%82%BB%E5%B1%85%E6%8A%A5%E5%A4%87%23&t=31&band_rank=7&Refer=top)<br />
-8. [FPX战胜WBG](https://s.weibo.com/weibo?q=%23FPX%E6%88%98%E8%83%9CWBG%23&t=31&band_rank=8&Refer=top)<br />
-9. [昆凌避谈陈建州大牙事件](https://s.weibo.com/weibo?q=%23%E6%98%86%E5%87%8C%E9%81%BF%E8%B0%88%E9%99%88%E5%BB%BA%E5%B7%9E%E5%A4%A7%E7%89%99%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=9&Refer=top)<br />
+5. [FPX战胜WBG](https://s.weibo.com/weibo?q=%23FPX%E6%88%98%E8%83%9CWBG%23&t=31&band_rank=5&Refer=top)<br />
+6. [花千骨2已备案](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%8D%83%E9%AA%A82%E5%B7%B2%E5%A4%87%E6%A1%88%23&t=31&band_rank=6&Refer=top)<br />
+7. [沈阳一洗浴中心回应租赁爸爸服务](https://s.weibo.com/weibo?q=%23%E6%B2%88%E9%98%B3%E4%B8%80%E6%B4%97%E6%B5%B4%E4%B8%AD%E5%BF%83%E5%9B%9E%E5%BA%94%E7%A7%9F%E8%B5%81%E7%88%B8%E7%88%B8%E6%9C%8D%E5%8A%A1%23&t=31&band_rank=7&Refer=top)<br />
+8. [昆凌避谈陈建州大牙事件](https://s.weibo.com/weibo?q=%23%E6%98%86%E5%87%8C%E9%81%BF%E8%B0%88%E9%99%88%E5%BB%BA%E5%B7%9E%E5%A4%A7%E7%89%99%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=8&Refer=top)<br />
+9. [内娱男演员五大系](https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E7%94%B7%E6%BC%94%E5%91%98%E4%BA%94%E5%A4%A7%E7%B3%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [为什么长辈们认为汉堡、炸鸡是垃圾食品，而粽子、面条、馒头、烧卖、米饭、汤圆、饺子、油条、月饼却不是？](https://www.zhihu.com/question/607811217)<br />
 2. [调休制定参与者建议重新考虑政策，称「目前大家普遍不满意」，如何看待此事？你支持调休吗？](https://www.zhihu.com/question/608431520)<br />
-3. [假如有两个按钮，只能按一次，「按钮 A 立即获得 9999 元，按钮 B 有万分之一的可能获得一亿元」，你按哪个？](https://www.zhihu.com/question/607822207)<br />
-4. [ChatGPT 访问量增速大降，6 月环比增长率可能为负数，科技股资金大幅外流，AI 热潮熄火了吗？](https://www.zhihu.com/question/608894843)<br />
+3. [ChatGPT 访问量增速大降，6 月环比增长率可能为负数，科技股资金大幅外流，AI 热潮熄火了吗？](https://www.zhihu.com/question/608894843)<br />
+4. [假如有两个按钮，只能按一次，「按钮 A 立即获得 9999 元，按钮 B 有万分之一的可能获得一亿元」，你按哪个？](https://www.zhihu.com/question/607822207)<br />
 5. [报读纯文科专业，是不是每天看书就行了？](https://www.zhihu.com/theater/14057)<br />
 6. [30  个同学聚餐让每人出  1000  元，毕业后你会去同学聚会吗？](https://www.zhihu.com/question/607992752)<br />
 7. [高考数学改卷写一个「解」字都有一分是真的吗？](https://www.zhihu.com/question/605608237)<br />
