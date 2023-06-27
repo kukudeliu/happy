@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 22:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 22:24:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [那些和经纪人结婚的艺人](https://s.weibo.com/weibo?q=%23%E9%82%A3%E4%BA%9B%E5%92%8C%E7%BB%8F%E7%BA%AA%E4%BA%BA%E7%BB%93%E5%A9%9A%E7%9A%84%E8%89%BA%E4%BA%BA%23&t=31&band_rank=5&Refer=top)<br />
 6. [于斌多发点](https://s.weibo.com/weibo?q=%E4%BA%8E%E6%96%8C%E5%A4%9A%E5%8F%91%E7%82%B9&t=31&band_rank=6&Refer=top)<br />
 7. [考经纪人证](https://s.weibo.com/weibo?q=%E8%80%83%E7%BB%8F%E7%BA%AA%E4%BA%BA%E8%AF%81&t=31&band_rank=7&Refer=top)<br />
-8. [女孩考上清华家人放烟花前向邻居报备](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E8%80%83%E4%B8%8A%E6%B8%85%E5%8D%8E%E5%AE%B6%E4%BA%BA%E6%94%BE%E7%83%9F%E8%8A%B1%E5%89%8D%E5%90%91%E9%82%BB%E5%B1%85%E6%8A%A5%E5%A4%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [网传男子开车反复碾轧女子事发山东东营](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E7%94%B7%E5%AD%90%E5%BC%80%E8%BD%A6%E5%8F%8D%E5%A4%8D%E7%A2%BE%E8%BD%A7%E5%A5%B3%E5%AD%90%E4%BA%8B%E5%8F%91%E5%B1%B1%E4%B8%9C%E4%B8%9C%E8%90%A5%23&t=31&band_rank=9&Refer=top)<br />
+8. [网传男子开车反复碾轧女子事发山东东营](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E7%94%B7%E5%AD%90%E5%BC%80%E8%BD%A6%E5%8F%8D%E5%A4%8D%E7%A2%BE%E8%BD%A7%E5%A5%B3%E5%AD%90%E4%BA%8B%E5%8F%91%E5%B1%B1%E4%B8%9C%E4%B8%9C%E8%90%A5%23&t=31&band_rank=8&Refer=top)<br />
+9. [女孩考上清华家人放烟花前向邻居报备](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E8%80%83%E4%B8%8A%E6%B8%85%E5%8D%8E%E5%AE%B6%E4%BA%BA%E6%94%BE%E7%83%9F%E8%8A%B1%E5%89%8D%E5%90%91%E9%82%BB%E5%B1%85%E6%8A%A5%E5%A4%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -19,10 +19,10 @@
 3. [俄国防部称「瓦格纳将向军队移交重型武器，俄方取消了瓦格纳武装『叛变』的刑事案件」，如何评价这一进展？](https://www.zhihu.com/question/608972289)<br />
 4. [网传新版《新华字典》删「倭寇」一词，媒体调查称假消息，具体情况如何？](https://www.zhihu.com/question/609002775)<br />
 5. [马克龙接受美媒采访时称「法国愿意让中国融入全球秩序、更独立自主的欧洲很重要」，如何解读其表态？](https://www.zhihu.com/question/608830423)<br />
-6. [为什么长辈们认为汉堡、炸鸡是垃圾食品，而粽子、面条、馒头、烧卖、米饭、汤圆、饺子、油条、月饼却不是？](https://www.zhihu.com/question/607811217)<br />
-7. [西安一妻子将丈夫送进精神病院，丈夫出院后又将其送进精神病院，如何看待此事？事实真相如何？](https://www.zhihu.com/question/608899147)<br />
-8. [女子称在医院食堂吃魔芋鸭子「有疑似鼠头物」，医院工作人员称「确实是鼠头，正在调查」，哪些信息值得关注？](https://www.zhihu.com/question/608996249)<br />
-9. [美国务院称「希望引渡瓦格纳领导人普里戈任」，美方是出于哪些考虑？后续将如何发展？](https://www.zhihu.com/question/608936142)<br />
+6. [女子称在医院食堂吃魔芋鸭子「有疑似鼠头物」，医院工作人员称「确实是鼠头，正在调查」，哪些信息值得关注？](https://www.zhihu.com/question/608996249)<br />
+7. [为什么长辈们认为汉堡、炸鸡是垃圾食品，而粽子、面条、馒头、烧卖、米饭、汤圆、饺子、油条、月饼却不是？](https://www.zhihu.com/question/607811217)<br />
+8. [为什么马拉松有半马，四分之一马，但是没有二倍马，四倍马？](https://www.zhihu.com/question/607606021)<br />
+9. [青岛一名 8 岁男童被武术教练打死，3 名犯罪嫌疑人已抓获，这起到了哪些警示作用？](https://www.zhihu.com/question/608713781)<br />
 
 > 百度  
 
@@ -31,10 +31,10 @@
 3. [#萧敬腾官宣向经纪人求婚成功#](https://www.baidu.com/s?wd=%23%E8%90%A7%E6%95%AC%E8%85%BE%E5%AE%98%E5%AE%A3%E5%90%91%E7%BB%8F%E7%BA%AA%E4%BA%BA%E6%B1%82%E5%A9%9A%E6%88%90%E5%8A%9F%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [构建安全可信的数字世界](https://www.baidu.com/s?wd=%E6%9E%84%E5%BB%BA%E5%AE%89%E5%85%A8%E5%8F%AF%E4%BF%A1%E7%9A%84%E6%95%B0%E5%AD%97%E4%B8%96%E7%95%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [警方:开车反复碾压女子的司机已被捕](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%3A%E5%BC%80%E8%BD%A6%E5%8F%8D%E5%A4%8D%E7%A2%BE%E5%8E%8B%E5%A5%B3%E5%AD%90%E7%9A%84%E5%8F%B8%E6%9C%BA%E5%B7%B2%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [美亿万富翁生日当天车祸死亡](https://www.baidu.com/s?wd=%E7%BE%8E%E4%BA%BF%E4%B8%87%E5%AF%8C%E7%BF%81%E7%94%9F%E6%97%A5%E5%BD%93%E5%A4%A9%E8%BD%A6%E7%A5%B8%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [周鸿祎晒清华博士录取通知书](https://www.baidu.com/s?wd=%E5%91%A8%E9%B8%BF%E7%A5%8E%E6%99%92%E6%B8%85%E5%8D%8E%E5%8D%9A%E5%A3%AB%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [2米12男子盗窃被民警一眼认出](https://www.baidu.com/s?wd=2%E7%B1%B312%E7%94%B7%E5%AD%90%E7%9B%97%E7%AA%83%E8%A2%AB%E6%B0%91%E8%AD%A6%E4%B8%80%E7%9C%BC%E8%AE%A4%E5%87%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [张杰谢娜观看跳跳俏俏演出](https://www.baidu.com/s?wd=%E5%BC%A0%E6%9D%B0%E8%B0%A2%E5%A8%9C%E8%A7%82%E7%9C%8B%E8%B7%B3%E8%B7%B3%E4%BF%8F%E4%BF%8F%E6%BC%94%E5%87%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [俄媒：普京称俄士兵阻止了“内战”](https://www.baidu.com/s?wd=%E4%BF%84%E5%AA%92%EF%BC%9A%E6%99%AE%E4%BA%AC%E7%A7%B0%E4%BF%84%E5%A3%AB%E5%85%B5%E9%98%BB%E6%AD%A2%E4%BA%86%E2%80%9C%E5%86%85%E6%88%98%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [美亿万富翁生日当天车祸死亡](https://www.baidu.com/s?wd=%E7%BE%8E%E4%BA%BF%E4%B8%87%E5%AF%8C%E7%BF%81%E7%94%9F%E6%97%A5%E5%BD%93%E5%A4%A9%E8%BD%A6%E7%A5%B8%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [周鸿祎晒清华博士录取通知书](https://www.baidu.com/s?wd=%E5%91%A8%E9%B8%BF%E7%A5%8E%E6%99%92%E6%B8%85%E5%8D%8E%E5%8D%9A%E5%A3%AB%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [美容院发生劫持人质致1死？警方回应](https://www.baidu.com/s?wd=%E7%BE%8E%E5%AE%B9%E9%99%A2%E5%8F%91%E7%94%9F%E5%8A%AB%E6%8C%81%E4%BA%BA%E8%B4%A8%E8%87%B41%E6%AD%BB%EF%BC%9F%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [#萧敬腾官宣向经纪人求婚成功#](https://www.baidu.com/s?wd=%23%E8%90%A7%E6%95%AC%E8%85%BE%E5%AE%98%E5%AE%A3%E5%90%91%E7%BB%8F%E7%BA%AA%E4%BA%BA%E6%B1%82%E5%A9%9A%E6%88%90%E5%8A%9F%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [构建安全可信的数字世界](https://www.baidu.com/s?wd=%E6%9E%84%E5%BB%BA%E5%AE%89%E5%85%A8%E5%8F%AF%E4%BF%A1%E7%9A%84%E6%95%B0%E5%AD%97%E4%B8%96%E7%95%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [警方:开车反复碾压女子的司机已被捕](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%3A%E5%BC%80%E8%BD%A6%E5%8F%8D%E5%A4%8D%E7%A2%BE%E5%8E%8B%E5%A5%B3%E5%AD%90%E7%9A%84%E5%8F%B8%E6%9C%BA%E5%B7%B2%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [美亿万富翁生日当天车祸死亡](https://www.baidu.com/s?wd=%E7%BE%8E%E4%BA%BF%E4%B8%87%E5%AF%8C%E7%BF%81%E7%94%9F%E6%97%A5%E5%BD%93%E5%A4%A9%E8%BD%A6%E7%A5%B8%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [周鸿祎晒清华博士录取通知书](https://www.baidu.com/s?wd=%E5%91%A8%E9%B8%BF%E7%A5%8E%E6%99%92%E6%B8%85%E5%8D%8E%E5%8D%9A%E5%A3%AB%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [2米12男子盗窃被民警一眼认出](https://www.baidu.com/s?wd=2%E7%B1%B312%E7%94%B7%E5%AD%90%E7%9B%97%E7%AA%83%E8%A2%AB%E6%B0%91%E8%AD%A6%E4%B8%80%E7%9C%BC%E8%AE%A4%E5%87%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [张杰谢娜观看跳跳俏俏演出](https://www.baidu.com/s?wd=%E5%BC%A0%E6%9D%B0%E8%B0%A2%E5%A8%9C%E8%A7%82%E7%9C%8B%E8%B7%B3%E8%B7%B3%E4%BF%8F%E4%BF%8F%E6%BC%94%E5%87%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [俄媒：普京称俄士兵阻止了“内战”](https://www.baidu.com/s?wd=%E4%BF%84%E5%AA%92%EF%BC%9A%E6%99%AE%E4%BA%AC%E7%A7%B0%E4%BF%84%E5%A3%AB%E5%85%B5%E9%98%BB%E6%AD%A2%E4%BA%86%E2%80%9C%E5%86%85%E6%88%98%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [美亿万富翁生日当天车祸死亡](https://www.baidu.com/s?wd=%E7%BE%8E%E4%BA%BF%E4%B8%87%E5%AF%8C%E7%BF%81%E7%94%9F%E6%97%A5%E5%BD%93%E5%A4%A9%E8%BD%A6%E7%A5%B8%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [周鸿祎晒清华博士录取通知书](https://www.baidu.com/s?wd=%E5%91%A8%E9%B8%BF%E7%A5%8E%E6%99%92%E6%B8%85%E5%8D%8E%E5%8D%9A%E5%A3%AB%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [美容院发生劫持人质致1死？警方回应](https://www.baidu.com/s?wd=%E7%BE%8E%E5%AE%B9%E9%99%A2%E5%8F%91%E7%94%9F%E5%8A%AB%E6%8C%81%E4%BA%BA%E8%B4%A8%E8%87%B41%E6%AD%BB%EF%BC%9F%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
