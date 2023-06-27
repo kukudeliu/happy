@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 17:08:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 17:09:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [达沃斯在天津](https://s.weibo.com/weibo?q=%23%E8%BE%BE%E6%B2%83%E6%96%AF%E5%9C%A8%E5%A4%A9%E6%B4%A5%23&t=31&band_rank=3&Refer=top)<br />
 4. [台媒曝范玮琪失联](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E5%AA%92%E6%9B%9D%E8%8C%83%E7%8E%AE%E7%90%AA%E5%A4%B1%E8%81%94%23&t=31&band_rank=4&Refer=top)<br />
 5. [厌童现象](https://s.weibo.com/weibo?q=%E5%8E%8C%E7%AB%A5%E7%8E%B0%E8%B1%A1&t=31&band_rank=5&Refer=top)<br />
-6. [前男友居然去做了变性手术](https://s.weibo.com/weibo?q=%23%E5%89%8D%E7%94%B7%E5%8F%8B%E5%B1%85%E7%84%B6%E5%8E%BB%E5%81%9A%E4%BA%86%E5%8F%98%E6%80%A7%E6%89%8B%E6%9C%AF%23&t=31&band_rank=6&Refer=top)<br />
+6. [柳智敏回应](https://s.weibo.com/weibo?q=%23%E6%9F%B3%E6%99%BA%E6%95%8F%E5%9B%9E%E5%BA%94%23&t=31&band_rank=6&Refer=top)<br />
 7. [陈建州被指控性骚扰](https://s.weibo.com/weibo?q=%E9%99%88%E5%BB%BA%E5%B7%9E%E8%A2%AB%E6%8C%87%E6%8E%A7%E6%80%A7%E9%AA%9A%E6%89%B0&t=31&band_rank=7&Refer=top)<br />
-8. [柳智敏回应](https://s.weibo.com/weibo?q=%23%E6%9F%B3%E6%99%BA%E6%95%8F%E5%9B%9E%E5%BA%94%23&t=31&band_rank=8&Refer=top)<br />
-9. [男朋友发朋友圈官宣仅我可见](https://s.weibo.com/weibo?q=%23%E7%94%B7%E6%9C%8B%E5%8F%8B%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%AE%98%E5%AE%A3%E4%BB%85%E6%88%91%E5%8F%AF%E8%A7%81%23&t=31&band_rank=9&Refer=top)<br />
+8. [前男友居然去做了变性手术](https://s.weibo.com/weibo?q=%23%E5%89%8D%E7%94%B7%E5%8F%8B%E5%B1%85%E7%84%B6%E5%8E%BB%E5%81%9A%E4%BA%86%E5%8F%98%E6%80%A7%E6%89%8B%E6%9C%AF%23&t=31&band_rank=8&Refer=top)<br />
+9. [曾黎 谁说我今天像去参加婚礼了](https://s.weibo.com/weibo?q=%E6%9B%BE%E9%BB%8E%20%E8%B0%81%E8%AF%B4%E6%88%91%E4%BB%8A%E5%A4%A9%E5%83%8F%E5%8E%BB%E5%8F%82%E5%8A%A0%E5%A9%9A%E7%A4%BC%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -21,7 +21,7 @@
 5. [这个夏天，你的城市有哪些迷人好去处？](https://www.zhihu.com/xen/market/ecom-page/1654546294394523648)<br />
 6. [ChatGPT 访问量增速大降，6 月环比增长率可能为负数，科技股资金大幅外流，AI 热潮熄火了吗？](https://www.zhihu.com/question/608894843)<br />
 7. [挑狗时如何看性格？](https://www.zhihu.com/question/607558718)<br />
-8. [30  个同学聚餐让每人出  1000  元，毕业后你会去同学聚会吗？](https://www.zhihu.com/question/607992752)<br />
+8. [一季度全国结婚登记同比增加 4 万对，离婚多了 12 万对，这反映出什么社会现象，由哪些原因导致？](https://www.zhihu.com/question/608857761)<br />
 9. [多地景区出现「围墙挡景」现象，游客观赏景区必须花钱买票，怎样看待这一现象？](https://www.zhihu.com/question/608710388)<br />
 
 > 百度  
