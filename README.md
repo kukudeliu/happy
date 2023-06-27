@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 17:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 17:45:01</h4></div>
 
 > 微博  
 
@@ -20,8 +20,8 @@
 4. [如何看待《原神》可莉新皮肤改变原设引争议，你有哪些看法？](https://www.zhihu.com/question/608581381)<br />
 5. [ChatGPT 访问量增速大降，6 月环比增长率可能为负数，科技股资金大幅外流，AI 热潮熄火了吗？](https://www.zhihu.com/question/608894843)<br />
 6. [挑狗时如何看性格？](https://www.zhihu.com/question/607558718)<br />
-7. [多地景区出现「围墙挡景」现象，游客观赏景区必须花钱买票，怎样看待这一现象？](https://www.zhihu.com/question/608710388)<br />
-8. [30  个同学聚餐让每人出  1000  元，毕业后你会去同学聚会吗？](https://www.zhihu.com/question/607992752)<br />
+7. [30  个同学聚餐让每人出  1000  元，毕业后你会去同学聚会吗？](https://www.zhihu.com/question/607992752)<br />
+8. [多地景区出现「围墙挡景」现象，游客观赏景区必须花钱买票，怎样看待这一现象？](https://www.zhihu.com/question/608710388)<br />
 9. [高考数学改卷写一个「解」字都有一分是真的吗？](https://www.zhihu.com/question/605608237)<br />
 
 > 百度  
