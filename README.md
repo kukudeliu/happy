@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 02:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 02:39:01</h4></div>
 
 > 微博  
 
@@ -31,7 +31,7 @@
 3. [#萧敬腾官宣向经纪人求婚成功#](https://www.baidu.com/s?wd=%23%E8%90%A7%E6%95%AC%E8%85%BE%E5%AE%98%E5%AE%A3%E5%90%91%E7%BB%8F%E7%BA%AA%E4%BA%BA%E6%B1%82%E5%A9%9A%E6%88%90%E5%8A%9F%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [构建安全可信的数字世界](https://www.baidu.com/s?wd=%E6%9E%84%E5%BB%BA%E5%AE%89%E5%85%A8%E5%8F%AF%E4%BF%A1%E7%9A%84%E6%95%B0%E5%AD%97%E4%B8%96%E7%95%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [警方通报男子反复碾压妻子致死](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%90%E5%8F%8D%E5%A4%8D%E7%A2%BE%E5%8E%8B%E5%A6%BB%E5%AD%90%E8%87%B4%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [被家暴男子否认炒作：想离婚退彩礼](https://www.baidu.com/s?wd=%E8%A2%AB%E5%AE%B6%E6%9A%B4%E7%94%B7%E5%AD%90%E5%90%A6%E8%AE%A4%E7%82%92%E4%BD%9C%EF%BC%9A%E6%83%B3%E7%A6%BB%E5%A9%9A%E9%80%80%E5%BD%A9%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [韩国女团成员柳智敏回应辱华争议](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E5%A5%B3%E5%9B%A2%E6%88%90%E5%91%98%E6%9F%B3%E6%99%BA%E6%95%8F%E5%9B%9E%E5%BA%94%E8%BE%B1%E5%8D%8E%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [媒体:出轨他人妻子的高校领导被免职](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%3A%E5%87%BA%E8%BD%A8%E4%BB%96%E4%BA%BA%E5%A6%BB%E5%AD%90%E7%9A%84%E9%AB%98%E6%A0%A1%E9%A2%86%E5%AF%BC%E8%A2%AB%E5%85%8D%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [喜茶、奈雪为何又不香了？](https://www.baidu.com/s?wd=%E5%96%9C%E8%8C%B6%E3%80%81%E5%A5%88%E9%9B%AA%E4%B8%BA%E4%BD%95%E5%8F%88%E4%B8%8D%E9%A6%99%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [周鸿祎晒清华博士录取通知书](https://www.baidu.com/s?wd=%E5%91%A8%E9%B8%BF%E7%A5%8E%E6%99%92%E6%B8%85%E5%8D%8E%E5%8D%9A%E5%A3%AB%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -43,7 +43,7 @@
 3. [#萧敬腾官宣向经纪人求婚成功#](https://www.baidu.com/s?wd=%23%E8%90%A7%E6%95%AC%E8%85%BE%E5%AE%98%E5%AE%A3%E5%90%91%E7%BB%8F%E7%BA%AA%E4%BA%BA%E6%B1%82%E5%A9%9A%E6%88%90%E5%8A%9F%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [构建安全可信的数字世界](https://www.baidu.com/s?wd=%E6%9E%84%E5%BB%BA%E5%AE%89%E5%85%A8%E5%8F%AF%E4%BF%A1%E7%9A%84%E6%95%B0%E5%AD%97%E4%B8%96%E7%95%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [警方通报男子反复碾压妻子致死](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%90%E5%8F%8D%E5%A4%8D%E7%A2%BE%E5%8E%8B%E5%A6%BB%E5%AD%90%E8%87%B4%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [被家暴男子否认炒作：想离婚退彩礼](https://www.baidu.com/s?wd=%E8%A2%AB%E5%AE%B6%E6%9A%B4%E7%94%B7%E5%AD%90%E5%90%A6%E8%AE%A4%E7%82%92%E4%BD%9C%EF%BC%9A%E6%83%B3%E7%A6%BB%E5%A9%9A%E9%80%80%E5%BD%A9%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [韩国女团成员柳智敏回应辱华争议](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E5%A5%B3%E5%9B%A2%E6%88%90%E5%91%98%E6%9F%B3%E6%99%BA%E6%95%8F%E5%9B%9E%E5%BA%94%E8%BE%B1%E5%8D%8E%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [媒体:出轨他人妻子的高校领导被免职](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%3A%E5%87%BA%E8%BD%A8%E4%BB%96%E4%BA%BA%E5%A6%BB%E5%AD%90%E7%9A%84%E9%AB%98%E6%A0%A1%E9%A2%86%E5%AF%BC%E8%A2%AB%E5%85%8D%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [喜茶、奈雪为何又不香了？](https://www.baidu.com/s?wd=%E5%96%9C%E8%8C%B6%E3%80%81%E5%A5%88%E9%9B%AA%E4%B8%BA%E4%BD%95%E5%8F%88%E4%B8%8D%E9%A6%99%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [周鸿祎晒清华博士录取通知书](https://www.baidu.com/s?wd=%E5%91%A8%E9%B8%BF%E7%A5%8E%E6%99%92%E6%B8%85%E5%8D%8E%E5%8D%9A%E5%A3%AB%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
