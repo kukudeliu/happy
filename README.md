@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 09:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 09:45:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [原来中医不让吃水果是真的](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%B8%AD%E5%8C%BB%E4%B8%8D%E8%AE%A9%E5%90%83%E6%B0%B4%E6%9E%9C%E6%98%AF%E7%9C%9F%E7%9A%84%23&t=31&band_rank=5&Refer=top)<br />
 6. [吴越 真的不是我](https://s.weibo.com/weibo?q=%E5%90%B4%E8%B6%8A%20%E7%9C%9F%E7%9A%84%E4%B8%8D%E6%98%AF%E6%88%91&t=31&band_rank=6&Refer=top)<br />
 7. [青岛旅游失联25岁女孩已身亡](https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B%E6%97%85%E6%B8%B8%E5%A4%B1%E8%81%9425%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%B7%B2%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=7&Refer=top)<br />
-8. [复旦大学回应毕业生简历衣着暴露](https://s.weibo.com/weibo?q=%23%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E6%AF%95%E4%B8%9A%E7%94%9F%E7%AE%80%E5%8E%86%E8%A1%A3%E7%9D%80%E6%9A%B4%E9%9C%B2%23&t=31&band_rank=8&Refer=top)<br />
-9. [LV上海书店帆布包最低580](https://s.weibo.com/weibo?q=%23LV%E4%B8%8A%E6%B5%B7%E4%B9%A6%E5%BA%97%E5%B8%86%E5%B8%83%E5%8C%85%E6%9C%80%E4%BD%8E580%23&t=31&band_rank=9&Refer=top)<br />
+8. [海南考生881分想报北大](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%8D%97%E8%80%83%E7%94%9F881%E5%88%86%E6%83%B3%E6%8A%A5%E5%8C%97%E5%A4%A7%23&t=31&band_rank=8&Refer=top)<br />
+9. [复旦大学回应毕业生简历衣着暴露](https://s.weibo.com/weibo?q=%23%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E6%AF%95%E4%B8%9A%E7%94%9F%E7%AE%80%E5%8E%86%E8%A1%A3%E7%9D%80%E6%9A%B4%E9%9C%B2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [可以展示一下你的文玩吗？](https://www.zhihu.com/question/56595005)<br />
 7. [为什么长辈们认为汉堡、炸鸡是垃圾食品，而粽子、面条、馒头、烧卖、米饭、汤圆、饺子、油条、月饼却不是？](https://www.zhihu.com/question/607811217)<br />
 8. [《云顶之弈》选「静水监狱」应该被骂吗？](https://www.zhihu.com/question/608552596)<br />
-9. [烧烤店因亲戚孩子来店里帮忙被罚 2.5 万，官方称属「雇佣童工」，如何从法律角度解读此事？](https://www.zhihu.com/question/608695467)<br />
+9. [为什么杨过的玄铁重剑熔的刀叫屠龙刀？](https://www.zhihu.com/question/608706254)<br />
 
 > 百度  
 
@@ -31,10 +31,10 @@
 3. [普里戈任：瓦格纳7月1日不复存在](https://www.baidu.com/s?wd=%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%EF%BC%9A%E7%93%A6%E6%A0%BC%E7%BA%B37%E6%9C%881%E6%97%A5%E4%B8%8D%E5%A4%8D%E5%AD%98%E5%9C%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [防止跑冒滴漏 端牢中国饭碗](https://www.baidu.com/s?wd=%E9%98%B2%E6%AD%A2%E8%B7%91%E5%86%92%E6%BB%B4%E6%BC%8F+%E7%AB%AF%E7%89%A2%E4%B8%AD%E5%9B%BD%E9%A5%AD%E7%A2%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [6岁男童游泳后感染“食脑虫”](https://www.baidu.com/s?wd=6%E5%B2%81%E7%94%B7%E7%AB%A5%E6%B8%B8%E6%B3%B3%E5%90%8E%E6%84%9F%E6%9F%93%E2%80%9C%E9%A3%9F%E8%84%91%E8%99%AB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男童被教练打死 父亲：刚开课两天](https://www.baidu.com/s?wd=%E7%94%B7%E7%AB%A5%E8%A2%AB%E6%95%99%E7%BB%83%E6%89%93%E6%AD%BB+%E7%88%B6%E4%BA%B2%EF%BC%9A%E5%88%9A%E5%BC%80%E8%AF%BE%E4%B8%A4%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [夫妻先后把对方送进精神病院](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%85%88%E5%90%8E%E6%8A%8A%E5%AF%B9%E6%96%B9%E9%80%81%E8%BF%9B%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [景区回应“乐山大佛被卖”](https://www.baidu.com/s?wd=%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94%E2%80%9C%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B%E8%A2%AB%E5%8D%96%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [泳装照简历中的手机号主回应](https://www.baidu.com/s?wd=%E6%B3%B3%E8%A3%85%E7%85%A7%E7%AE%80%E5%8E%86%E4%B8%AD%E7%9A%84%E6%89%8B%E6%9C%BA%E5%8F%B7%E4%B8%BB%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [夫妻先后把对方送进精神病院](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%85%88%E5%90%8E%E6%8A%8A%E5%AF%B9%E6%96%B9%E9%80%81%E8%BF%9B%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男童被教练打死 父亲：刚开课两天](https://www.baidu.com/s?wd=%E7%94%B7%E7%AB%A5%E8%A2%AB%E6%95%99%E7%BB%83%E6%89%93%E6%AD%BB+%E7%88%B6%E4%BA%B2%EF%BC%9A%E5%88%9A%E5%BC%80%E8%AF%BE%E4%B8%A4%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [泳装照简历中的手机号主回应](https://www.baidu.com/s?wd=%E6%B3%B3%E8%A3%85%E7%85%A7%E7%AE%80%E5%8E%86%E4%B8%AD%E7%9A%84%E6%89%8B%E6%9C%BA%E5%8F%B7%E4%B8%BB%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [景区回应“乐山大佛被卖”](https://www.baidu.com/s?wd=%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94%E2%80%9C%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B%E8%A2%AB%E5%8D%96%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [普里戈任：瓦格纳7月1日不复存在](https://www.baidu.com/s?wd=%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%EF%BC%9A%E7%93%A6%E6%A0%BC%E7%BA%B37%E6%9C%881%E6%97%A5%E4%B8%8D%E5%A4%8D%E5%AD%98%E5%9C%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [防止跑冒滴漏 端牢中国饭碗](https://www.baidu.com/s?wd=%E9%98%B2%E6%AD%A2%E8%B7%91%E5%86%92%E6%BB%B4%E6%BC%8F+%E7%AB%AF%E7%89%A2%E4%B8%AD%E5%9B%BD%E9%A5%AD%E7%A2%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [6岁男童游泳后感染“食脑虫”](https://www.baidu.com/s?wd=6%E5%B2%81%E7%94%B7%E7%AB%A5%E6%B8%B8%E6%B3%B3%E5%90%8E%E6%84%9F%E6%9F%93%E2%80%9C%E9%A3%9F%E8%84%91%E8%99%AB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男童被教练打死 父亲：刚开课两天](https://www.baidu.com/s?wd=%E7%94%B7%E7%AB%A5%E8%A2%AB%E6%95%99%E7%BB%83%E6%89%93%E6%AD%BB+%E7%88%B6%E4%BA%B2%EF%BC%9A%E5%88%9A%E5%BC%80%E8%AF%BE%E4%B8%A4%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [夫妻先后把对方送进精神病院](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%85%88%E5%90%8E%E6%8A%8A%E5%AF%B9%E6%96%B9%E9%80%81%E8%BF%9B%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [景区回应“乐山大佛被卖”](https://www.baidu.com/s?wd=%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94%E2%80%9C%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B%E8%A2%AB%E5%8D%96%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [泳装照简历中的手机号主回应](https://www.baidu.com/s?wd=%E6%B3%B3%E8%A3%85%E7%85%A7%E7%AE%80%E5%8E%86%E4%B8%AD%E7%9A%84%E6%89%8B%E6%9C%BA%E5%8F%B7%E4%B8%BB%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [夫妻先后把对方送进精神病院](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%85%88%E5%90%8E%E6%8A%8A%E5%AF%B9%E6%96%B9%E9%80%81%E8%BF%9B%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男童被教练打死 父亲：刚开课两天](https://www.baidu.com/s?wd=%E7%94%B7%E7%AB%A5%E8%A2%AB%E6%95%99%E7%BB%83%E6%89%93%E6%AD%BB+%E7%88%B6%E4%BA%B2%EF%BC%9A%E5%88%9A%E5%BC%80%E8%AF%BE%E4%B8%A4%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [泳装照简历中的手机号主回应](https://www.baidu.com/s?wd=%E6%B3%B3%E8%A3%85%E7%85%A7%E7%AE%80%E5%8E%86%E4%B8%AD%E7%9A%84%E6%89%8B%E6%9C%BA%E5%8F%B7%E4%B8%BB%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [景区回应“乐山大佛被卖”](https://www.baidu.com/s?wd=%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94%E2%80%9C%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B%E8%A2%AB%E5%8D%96%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
