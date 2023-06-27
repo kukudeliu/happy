@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 08:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 08:40:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [复旦大学回应毕业生简历衣着暴露](https://s.weibo.com/weibo?q=%23%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E6%AF%95%E4%B8%9A%E7%94%9F%E7%AE%80%E5%8E%86%E8%A1%A3%E7%9D%80%E6%9A%B4%E9%9C%B2%23&t=31&band_rank=2&Refer=top)<br />
 3. [我国拟立法保障粮食安全](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E6%8B%9F%E7%AB%8B%E6%B3%95%E4%BF%9D%E9%9A%9C%E7%B2%AE%E9%A3%9F%E5%AE%89%E5%85%A8%23&t=31&band_rank=3&Refer=top)<br />
 4. [景甜内娱女菩萨](https://s.weibo.com/weibo?q=%23%E6%99%AF%E7%94%9C%E5%86%85%E5%A8%B1%E5%A5%B3%E8%8F%A9%E8%90%A8%23&t=31&band_rank=4&Refer=top)<br />
-5. [贵州一6岁男童感染食脑虫](https://s.weibo.com/weibo?q=%23%E8%B4%B5%E5%B7%9E%E4%B8%806%E5%B2%81%E7%94%B7%E7%AB%A5%E6%84%9F%E6%9F%93%E9%A3%9F%E8%84%91%E8%99%AB%23&t=31&band_rank=5&Refer=top)<br />
-6. [原来中医不让吃水果是真的](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%B8%AD%E5%8C%BB%E4%B8%8D%E8%AE%A9%E5%90%83%E6%B0%B4%E6%9E%9C%E6%98%AF%E7%9C%9F%E7%9A%84%23&t=31&band_rank=6&Refer=top)<br />
+5. [原来中医不让吃水果是真的](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%B8%AD%E5%8C%BB%E4%B8%8D%E8%AE%A9%E5%90%83%E6%B0%B4%E6%9E%9C%E6%98%AF%E7%9C%9F%E7%9A%84%23&t=31&band_rank=5&Refer=top)<br />
+6. [贵州一6岁男童感染食脑虫](https://s.weibo.com/weibo?q=%23%E8%B4%B5%E5%B7%9E%E4%B8%806%E5%B2%81%E7%94%B7%E7%AB%A5%E6%84%9F%E6%9F%93%E9%A3%9F%E8%84%91%E8%99%AB%23&t=31&band_rank=6&Refer=top)<br />
 7. [韩国越来越多商铺设立禁儿童区](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E5%95%86%E9%93%BA%E8%AE%BE%E7%AB%8B%E7%A6%81%E5%84%BF%E7%AB%A5%E5%8C%BA&t=31&band_rank=7&Refer=top)<br />
 8. [贬低你的亲戚都是父母惯的](https://s.weibo.com/weibo?q=%E8%B4%AC%E4%BD%8E%E4%BD%A0%E7%9A%84%E4%BA%B2%E6%88%9A%E9%83%BD%E6%98%AF%E7%88%B6%E6%AF%8D%E6%83%AF%E7%9A%84&t=31&band_rank=8&Refer=top)<br />
 9. [孙子高考561分乡下爷爷送来5000元奖励](https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%AD%90%E9%AB%98%E8%80%83561%E5%88%86%E4%B9%A1%E4%B8%8B%E7%88%B7%E7%88%B7%E9%80%81%E6%9D%A55000%E5%85%83%E5%A5%96%E5%8A%B1%23&t=31&band_rank=9&Refer=top)<br />
@@ -34,7 +34,7 @@
 6. [男童被教练打死 父亲：刚开课两天](https://www.baidu.com/s?wd=%E7%94%B7%E7%AB%A5%E8%A2%AB%E6%95%99%E7%BB%83%E6%89%93%E6%AD%BB+%E7%88%B6%E4%BA%B2%EF%BC%9A%E5%88%9A%E5%BC%80%E8%AF%BE%E4%B8%A4%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [韦唯大儿子清华硕士毕业](https://www.baidu.com/s?wd=%E9%9F%A6%E5%94%AF%E5%A4%A7%E5%84%BF%E5%AD%90%E6%B8%85%E5%8D%8E%E7%A1%95%E5%A3%AB%E6%AF%95%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [16岁学生校内服毒身亡 因卖烟遭霸凌](https://www.baidu.com/s?wd=16%E5%B2%81%E5%AD%A6%E7%94%9F%E6%A0%A1%E5%86%85%E6%9C%8D%E6%AF%92%E8%BA%AB%E4%BA%A1+%E5%9B%A0%E5%8D%96%E7%83%9F%E9%81%AD%E9%9C%B8%E5%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [四川出现非洲猪瘟？当地回应](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%87%BA%E7%8E%B0%E9%9D%9E%E6%B4%B2%E7%8C%AA%E7%98%9F%EF%BC%9F%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [泳装照简历中的手机号主回应](https://www.baidu.com/s?wd=%E6%B3%B3%E8%A3%85%E7%85%A7%E7%AE%80%E5%8E%86%E4%B8%AD%E7%9A%84%E6%89%8B%E6%9C%BA%E5%8F%B7%E4%B8%BB%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [男童被教练打死 父亲：刚开课两天](https://www.baidu.com/s?wd=%E7%94%B7%E7%AB%A5%E8%A2%AB%E6%95%99%E7%BB%83%E6%89%93%E6%AD%BB+%E7%88%B6%E4%BA%B2%EF%BC%9A%E5%88%9A%E5%BC%80%E8%AF%BE%E4%B8%A4%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [韦唯大儿子清华硕士毕业](https://www.baidu.com/s?wd=%E9%9F%A6%E5%94%AF%E5%A4%A7%E5%84%BF%E5%AD%90%E6%B8%85%E5%8D%8E%E7%A1%95%E5%A3%AB%E6%AF%95%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [16岁学生校内服毒身亡 因卖烟遭霸凌](https://www.baidu.com/s?wd=16%E5%B2%81%E5%AD%A6%E7%94%9F%E6%A0%A1%E5%86%85%E6%9C%8D%E6%AF%92%E8%BA%AB%E4%BA%A1+%E5%9B%A0%E5%8D%96%E7%83%9F%E9%81%AD%E9%9C%B8%E5%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [四川出现非洲猪瘟？当地回应](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%87%BA%E7%8E%B0%E9%9D%9E%E6%B4%B2%E7%8C%AA%E7%98%9F%EF%BC%9F%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [泳装照简历中的手机号主回应](https://www.baidu.com/s?wd=%E6%B3%B3%E8%A3%85%E7%85%A7%E7%AE%80%E5%8E%86%E4%B8%AD%E7%9A%84%E6%89%8B%E6%9C%BA%E5%8F%B7%E4%B8%BB%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
