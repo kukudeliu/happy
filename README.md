@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 19:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 19:04:02</h4></div>
 
 > 微博  
 
@@ -33,7 +33,7 @@
 5. [重庆一医院食堂盒饭中疑吃出老鼠头](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E5%8C%BB%E9%99%A2%E9%A3%9F%E5%A0%82%E7%9B%92%E9%A5%AD%E4%B8%AD%E7%96%91%E5%90%83%E5%87%BA%E8%80%81%E9%BC%A0%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子找工作政审发现自己被坐过牢](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%89%BE%E5%B7%A5%E4%BD%9C%E6%94%BF%E5%AE%A1%E5%8F%91%E7%8E%B0%E8%87%AA%E5%B7%B1%E8%A2%AB%E5%9D%90%E8%BF%87%E7%89%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [台媒曝范玮琪失联](https://www.baidu.com/s?wd=%E5%8F%B0%E5%AA%92%E6%9B%9D%E8%8C%83%E7%8E%AE%E7%90%AA%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [9岁男孩跪地向新郎爸爸要出生证明](https://www.baidu.com/s?wd=9%E5%B2%81%E7%94%B7%E5%AD%A9%E8%B7%AA%E5%9C%B0%E5%90%91%E6%96%B0%E9%83%8E%E7%88%B8%E7%88%B8%E8%A6%81%E5%87%BA%E7%94%9F%E8%AF%81%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [被家暴男子否认炒作：想离婚退彩礼](https://www.baidu.com/s?wd=%E8%A2%AB%E5%AE%B6%E6%9A%B4%E7%94%B7%E5%AD%90%E5%90%A6%E8%AE%A4%E7%82%92%E4%BD%9C%EF%BC%9A%E6%83%B3%E7%A6%BB%E5%A9%9A%E9%80%80%E5%BD%A9%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [普京发表讲话 绍伊古在场](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E5%8F%91%E8%A1%A8%E8%AE%B2%E8%AF%9D+%E7%BB%8D%E4%BC%8A%E5%8F%A4%E5%9C%A8%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [重庆一医院食堂盒饭中疑吃出老鼠头](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E5%8C%BB%E9%99%A2%E9%A3%9F%E5%A0%82%E7%9B%92%E9%A5%AD%E4%B8%AD%E7%96%91%E5%90%83%E5%87%BA%E8%80%81%E9%BC%A0%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子找工作政审发现自己被坐过牢](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%89%BE%E5%B7%A5%E4%BD%9C%E6%94%BF%E5%AE%A1%E5%8F%91%E7%8E%B0%E8%87%AA%E5%B7%B1%E8%A2%AB%E5%9D%90%E8%BF%87%E7%89%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [台媒曝范玮琪失联](https://www.baidu.com/s?wd=%E5%8F%B0%E5%AA%92%E6%9B%9D%E8%8C%83%E7%8E%AE%E7%90%AA%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [9岁男孩跪地向新郎爸爸要出生证明](https://www.baidu.com/s?wd=9%E5%B2%81%E7%94%B7%E5%AD%A9%E8%B7%AA%E5%9C%B0%E5%90%91%E6%96%B0%E9%83%8E%E7%88%B8%E7%88%B8%E8%A6%81%E5%87%BA%E7%94%9F%E8%AF%81%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [被家暴男子否认炒作：想离婚退彩礼](https://www.baidu.com/s?wd=%E8%A2%AB%E5%AE%B6%E6%9A%B4%E7%94%B7%E5%AD%90%E5%90%A6%E8%AE%A4%E7%82%92%E4%BD%9C%EF%BC%9A%E6%83%B3%E7%A6%BB%E5%A9%9A%E9%80%80%E5%BD%A9%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [普京发表讲话 绍伊古在场](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E5%8F%91%E8%A1%A8%E8%AE%B2%E8%AF%9D+%E7%BB%8D%E4%BC%8A%E5%8F%A4%E5%9C%A8%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
