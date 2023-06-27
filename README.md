@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 18:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 18:41:01</h4></div>
 
 > 微博  
 
@@ -20,8 +20,8 @@
 4. [ChatGPT 访问量增速大降，6 月环比增长率可能为负数，科技股资金大幅外流，AI 热潮熄火了吗？](https://www.zhihu.com/question/608894843)<br />
 5. [30  个同学聚餐让每人出  1000  元，毕业后你会去同学聚会吗？](https://www.zhihu.com/question/607992752)<br />
 6. [高考数学改卷写一个「解」字都有一分是真的吗？](https://www.zhihu.com/question/605608237)<br />
-7. [如何看待《原神》可莉新皮肤改变原设引争议，你有哪些看法？](https://www.zhihu.com/question/608581381)<br />
-8. [如果你是电影《消失的她》中的李木子，你怎么尝试从深潜的牢笼中自救？](https://www.zhihu.com/question/608169334)<br />
+7. [如果你是电影《消失的她》中的李木子，你怎么尝试从深潜的牢笼中自救？](https://www.zhihu.com/question/608169334)<br />
+8. [如何看待《原神》可莉新皮肤改变原设引争议，你有哪些看法？](https://www.zhihu.com/question/608581381)<br />
 9. [一季度全国结婚登记同比增加 4 万对，离婚多了 12 万对，这反映出什么社会现象，由哪些原因导致？](https://www.zhihu.com/question/608857761)<br />
 
 > 百度  
