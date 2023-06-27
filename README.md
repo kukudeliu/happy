@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 09:34:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 09:35:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [文咏珊早几年都干嘛去了](https://s.weibo.com/weibo?q=%23%E6%96%87%E5%92%8F%E7%8F%8A%E6%97%A9%E5%87%A0%E5%B9%B4%E9%83%BD%E5%B9%B2%E5%98%9B%E5%8E%BB%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [吴越 真的不是我](https://s.weibo.com/weibo?q=%E5%90%B4%E8%B6%8A%20%E7%9C%9F%E7%9A%84%E4%B8%8D%E6%98%AF%E6%88%91&t=31&band_rank=6&Refer=top)<br />
 7. [青岛旅游失联25岁女孩已身亡](https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B%E6%97%85%E6%B8%B8%E5%A4%B1%E8%81%9425%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%B7%B2%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=7&Refer=top)<br />
-8. [复旦大学回应毕业生简历衣着暴露](https://s.weibo.com/weibo?q=%23%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E6%AF%95%E4%B8%9A%E7%94%9F%E7%AE%80%E5%8E%86%E8%A1%A3%E7%9D%80%E6%9A%B4%E9%9C%B2%23&t=31&band_rank=8&Refer=top)<br />
-9. [3000元化妆品用完后空瓶竟卖300元](https://s.weibo.com/weibo?q=%233000%E5%85%83%E5%8C%96%E5%A6%86%E5%93%81%E7%94%A8%E5%AE%8C%E5%90%8E%E7%A9%BA%E7%93%B6%E7%AB%9F%E5%8D%96300%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
+8. [3000元化妆品用完后空瓶竟卖300元](https://s.weibo.com/weibo?q=%233000%E5%85%83%E5%8C%96%E5%A6%86%E5%93%81%E7%94%A8%E5%AE%8C%E5%90%8E%E7%A9%BA%E7%93%B6%E7%AB%9F%E5%8D%96300%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
+9. [韩国越来越多商铺设立禁儿童区](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E5%95%86%E9%93%BA%E8%AE%BE%E7%AB%8B%E7%A6%81%E5%84%BF%E7%AB%A5%E5%8C%BA&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -21,8 +21,8 @@
 5. [那些曾离开「北上广」的年轻人们，正考虑重返大城市，如今对年轻人而言，大城市还具有吸引力吗？](https://www.zhihu.com/question/608736662)<br />
 6. [烧烤店因亲戚孩子来店里帮忙被罚 2.5 万，官方称属「雇佣童工」，如何从法律角度解读此事？](https://www.zhihu.com/question/608695467)<br />
 7. [可以展示一下你的文玩吗？](https://www.zhihu.com/question/56595005)<br />
-8. [假如有两个按钮，只能按一次，「按钮 A 立即获得 9999 元，按钮 B 有万分之一的可能获得一亿元」，你按哪个？](https://www.zhihu.com/question/607822207)<br />
-9. [为什么长辈们认为汉堡、炸鸡是垃圾食品，而粽子、面条、馒头、烧卖、米饭、汤圆、饺子、油条、月饼却不是？](https://www.zhihu.com/question/607811217)<br />
+8. [为什么长辈们认为汉堡、炸鸡是垃圾食品，而粽子、面条、馒头、烧卖、米饭、汤圆、饺子、油条、月饼却不是？](https://www.zhihu.com/question/607811217)<br />
+9. [《云顶之弈》选「静水监狱」应该被骂吗？](https://www.zhihu.com/question/608552596)<br />
 
 > 百度  
 
