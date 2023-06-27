@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 20:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 20:40:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 2. [调休制定参与者建议重新考虑政策，称「目前大家普遍不满意」，如何看待此事？你支持调休吗？](https://www.zhihu.com/question/608431520)<br />
 3. [俄国防部称「瓦格纳将向军队移交重型武器，俄方取消了瓦格纳武装『叛变』的刑事案件」，如何评价这一进展？](https://www.zhihu.com/question/608972289)<br />
 4. [女子称在医院食堂吃魔芋鸭子「有疑似鼠头物」，医院工作人员称「确实是鼠头，正在调查」，哪些信息值得关注？](https://www.zhihu.com/question/608996249)<br />
-5. [新能源车减免购置税政策延续至 2027 年，怎么买划算？](https://www.zhihu.com/theater/28658)<br />
+5. [新能源车减免购置税延长到 2027 年，现在买车和三年后买一样吗？](https://www.zhihu.com/theater/28658)<br />
 6. [30  个同学聚餐让每人出  1000  元，毕业后你会去同学聚会吗？](https://www.zhihu.com/question/607992752)<br />
 7. [马克龙接受美媒采访时称「法国愿意让中国融入全球秩序、更独立自主的欧洲很重要」，如何解读其表态？](https://www.zhihu.com/question/608830423)<br />
 8. [ChatGPT 访问量增速大降，6 月环比增长率可能为负数，科技股资金大幅外流，AI 热潮熄火了吗？](https://www.zhihu.com/question/608894843)<br />
@@ -31,10 +31,10 @@
 3. [妈妈回应误拆档案袋女儿崩溃大吼](https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E5%9B%9E%E5%BA%94%E8%AF%AF%E6%8B%86%E6%A1%A3%E6%A1%88%E8%A2%8B%E5%A5%B3%E5%84%BF%E5%B4%A9%E6%BA%83%E5%A4%A7%E5%90%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [爱国主义教育法草案首次提请审议](https://www.baidu.com/s?wd=%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89%E6%95%99%E8%82%B2%E6%B3%95%E8%8D%89%E6%A1%88%E9%A6%96%E6%AC%A1%E6%8F%90%E8%AF%B7%E5%AE%A1%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [俄军方:政府提前得知瓦格纳准备叛乱](https://www.baidu.com/s?wd=%E4%BF%84%E5%86%9B%E6%96%B9%3A%E6%94%BF%E5%BA%9C%E6%8F%90%E5%89%8D%E5%BE%97%E7%9F%A5%E7%93%A6%E6%A0%BC%E7%BA%B3%E5%87%86%E5%A4%87%E5%8F%9B%E4%B9%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [女生毕业删除90%同学被骂有病](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E6%AF%95%E4%B8%9A%E5%88%A0%E9%99%A490%25%E5%90%8C%E5%AD%A6%E8%A2%AB%E9%AA%82%E6%9C%89%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [新版新华字典中删除“倭寇”一词](https://www.baidu.com/s?wd=%E6%96%B0%E7%89%88%E6%96%B0%E5%8D%8E%E5%AD%97%E5%85%B8%E4%B8%AD%E5%88%A0%E9%99%A4%E2%80%9C%E5%80%AD%E5%AF%87%E2%80%9D%E4%B8%80%E8%AF%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [新版新华字典中删除“倭寇”一词](https://www.baidu.com/s?wd=%E6%96%B0%E7%89%88%E6%96%B0%E5%8D%8E%E5%AD%97%E5%85%B8%E4%B8%AD%E5%88%A0%E9%99%A4%E2%80%9C%E5%80%AD%E5%AF%87%E2%80%9D%E4%B8%80%E8%AF%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女生毕业删除90%同学被骂有病](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E6%AF%95%E4%B8%9A%E5%88%A0%E9%99%A490%25%E5%90%8C%E5%AD%A6%E8%A2%AB%E9%AA%82%E6%9C%89%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [差点认不出张艺兴](https://www.baidu.com/s?wd=%E5%B7%AE%E7%82%B9%E8%AE%A4%E4%B8%8D%E5%87%BA%E5%BC%A0%E8%89%BA%E5%85%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [俄称瓦格纳将向军队移交重型武器](https://www.baidu.com/s?wd=%E4%BF%84%E7%A7%B0%E7%93%A6%E6%A0%BC%E7%BA%B3%E5%B0%86%E5%90%91%E5%86%9B%E9%98%9F%E7%A7%BB%E4%BA%A4%E9%87%8D%E5%9E%8B%E6%AD%A6%E5%99%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [杭州女子养仓鼠脸烂成火龙果](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%A5%B3%E5%AD%90%E5%85%BB%E4%BB%93%E9%BC%A0%E8%84%B8%E7%83%82%E6%88%90%E7%81%AB%E9%BE%99%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [妈妈回应误拆档案袋女儿崩溃大吼](https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E5%9B%9E%E5%BA%94%E8%AF%AF%E6%8B%86%E6%A1%A3%E6%A1%88%E8%A2%8B%E5%A5%B3%E5%84%BF%E5%B4%A9%E6%BA%83%E5%A4%A7%E5%90%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [爱国主义教育法草案首次提请审议](https://www.baidu.com/s?wd=%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89%E6%95%99%E8%82%B2%E6%B3%95%E8%8D%89%E6%A1%88%E9%A6%96%E6%AC%A1%E6%8F%90%E8%AF%B7%E5%AE%A1%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [俄军方:政府提前得知瓦格纳准备叛乱](https://www.baidu.com/s?wd=%E4%BF%84%E5%86%9B%E6%96%B9%3A%E6%94%BF%E5%BA%9C%E6%8F%90%E5%89%8D%E5%BE%97%E7%9F%A5%E7%93%A6%E6%A0%BC%E7%BA%B3%E5%87%86%E5%A4%87%E5%8F%9B%E4%B9%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [女生毕业删除90%同学被骂有病](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E6%AF%95%E4%B8%9A%E5%88%A0%E9%99%A490%25%E5%90%8C%E5%AD%A6%E8%A2%AB%E9%AA%82%E6%9C%89%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [新版新华字典中删除“倭寇”一词](https://www.baidu.com/s?wd=%E6%96%B0%E7%89%88%E6%96%B0%E5%8D%8E%E5%AD%97%E5%85%B8%E4%B8%AD%E5%88%A0%E9%99%A4%E2%80%9C%E5%80%AD%E5%AF%87%E2%80%9D%E4%B8%80%E8%AF%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [新版新华字典中删除“倭寇”一词](https://www.baidu.com/s?wd=%E6%96%B0%E7%89%88%E6%96%B0%E5%8D%8E%E5%AD%97%E5%85%B8%E4%B8%AD%E5%88%A0%E9%99%A4%E2%80%9C%E5%80%AD%E5%AF%87%E2%80%9D%E4%B8%80%E8%AF%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女生毕业删除90%同学被骂有病](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E6%AF%95%E4%B8%9A%E5%88%A0%E9%99%A490%25%E5%90%8C%E5%AD%A6%E8%A2%AB%E9%AA%82%E6%9C%89%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [差点认不出张艺兴](https://www.baidu.com/s?wd=%E5%B7%AE%E7%82%B9%E8%AE%A4%E4%B8%8D%E5%87%BA%E5%BC%A0%E8%89%BA%E5%85%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [俄称瓦格纳将向军队移交重型武器](https://www.baidu.com/s?wd=%E4%BF%84%E7%A7%B0%E7%93%A6%E6%A0%BC%E7%BA%B3%E5%B0%86%E5%90%91%E5%86%9B%E9%98%9F%E7%A7%BB%E4%BA%A4%E9%87%8D%E5%9E%8B%E6%AD%A6%E5%99%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [杭州女子养仓鼠脸烂成火龙果](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%A5%B3%E5%AD%90%E5%85%BB%E4%BB%93%E9%BC%A0%E8%84%B8%E7%83%82%E6%88%90%E7%81%AB%E9%BE%99%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
