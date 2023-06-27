@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 00:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 00:56:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [警方通报男子反复碾压女子致死](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%90%E5%8F%8D%E5%A4%8D%E7%A2%BE%E5%8E%8B%E5%A5%B3%E5%AD%90%E8%87%B4%E6%AD%BB%23&t=31&band_rank=6&Refer=top)<br />
 7. [那些和经纪人结婚的艺人](https://s.weibo.com/weibo?q=%23%E9%82%A3%E4%BA%9B%E5%92%8C%E7%BB%8F%E7%BA%AA%E4%BA%BA%E7%BB%93%E5%A9%9A%E7%9A%84%E8%89%BA%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [周鸿祎被清华录取](https://s.weibo.com/weibo?q=%23%E5%91%A8%E9%B8%BF%E7%A5%8E%E8%A2%AB%E6%B8%85%E5%8D%8E%E5%BD%95%E5%8F%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [男子13岁得糖尿病27岁进ICU](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%9013%E5%B2%81%E5%BE%97%E7%B3%96%E5%B0%BF%E7%97%8527%E5%B2%81%E8%BF%9BICU%23&t=31&band_rank=9&Refer=top)<br />
+9. [姜个顾事](https://s.weibo.com/weibo?q=%E5%A7%9C%E4%B8%AA%E9%A1%BE%E4%BA%8B&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [马克龙接受美媒采访时称「法国愿意让中国融入全球秩序、更独立自主的欧洲很重要」，如何解读其表态？](https://www.zhihu.com/question/608830423)<br />
 7. [美国务院称「希望引渡瓦格纳领导人普里戈任」，美方是出于哪些考虑？后续将如何发展？](https://www.zhihu.com/question/608936142)<br />
 8. [普京称「俄政府一年内向瓦格纳提供超 860 亿卢布，将调查瓦格纳资金问题」，透露了哪些信息？](https://www.zhihu.com/question/609049162)<br />
-9. [高考数学改卷写一个「解」字都有一分是真的吗？](https://www.zhihu.com/question/605608237)<br />
+9. []()<br />
 
 > 百度  
 
