@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 20:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 20:57:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [女孩考上清华家人放烟花前向邻居报备](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E8%80%83%E4%B8%8A%E6%B8%85%E5%8D%8E%E5%AE%B6%E4%BA%BA%E6%94%BE%E7%83%9F%E8%8A%B1%E5%89%8D%E5%90%91%E9%82%BB%E5%B1%85%E6%8A%A5%E5%A4%87%23&t=31&band_rank=5&Refer=top)<br />
 6. [小S曾在节目中批陈建州](https://s.weibo.com/weibo?q=%23%E5%B0%8FS%E6%9B%BE%E5%9C%A8%E8%8A%82%E7%9B%AE%E4%B8%AD%E6%89%B9%E9%99%88%E5%BB%BA%E5%B7%9E%23&t=31&band_rank=6&Refer=top)<br />
 7. [内娱男演员五大系](https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E7%94%B7%E6%BC%94%E5%91%98%E4%BA%94%E5%A4%A7%E7%B3%BB%23&t=31&band_rank=7&Refer=top)<br />
-8. [花千骨2已备案](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%8D%83%E9%AA%A82%E5%B7%B2%E5%A4%87%E6%A1%88%23&t=31&band_rank=8&Refer=top)<br />
-9. [惠英红哽咽回应](https://s.weibo.com/weibo?q=%E6%83%A0%E8%8B%B1%E7%BA%A2%E5%93%BD%E5%92%BD%E5%9B%9E%E5%BA%94&t=31&band_rank=9&Refer=top)<br />
+8. [惠英红哽咽回应](https://s.weibo.com/weibo?q=%E6%83%A0%E8%8B%B1%E7%BA%A2%E5%93%BD%E5%92%BD%E5%9B%9E%E5%BA%94&t=31&band_rank=8&Refer=top)<br />
+9. [花千骨2已备案](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%8D%83%E9%AA%A82%E5%B7%B2%E5%A4%87%E6%A1%88%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
