@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 10:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 10:16:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [景甜内娱女菩萨](https://s.weibo.com/weibo?q=%23%E6%99%AF%E7%94%9C%E5%86%85%E5%A8%B1%E5%A5%B3%E8%8F%A9%E8%90%A8%23&t=31&band_rank=6&Refer=top)<br />
 7. [毕业照只有一人没被马赛克](https://s.weibo.com/weibo?q=%23%E6%AF%95%E4%B8%9A%E7%85%A7%E5%8F%AA%E6%9C%89%E4%B8%80%E4%BA%BA%E6%B2%A1%E8%A2%AB%E9%A9%AC%E8%B5%9B%E5%85%8B%23&t=31&band_rank=7&Refer=top)<br />
 8. [海南考生881分想报北大](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%8D%97%E8%80%83%E7%94%9F881%E5%88%86%E6%83%B3%E6%8A%A5%E5%8C%97%E5%A4%A7%23&t=31&band_rank=8&Refer=top)<br />
-9. [3000元化妆品用完后空瓶竟卖300元](https://s.weibo.com/weibo?q=%233000%E5%85%83%E5%8C%96%E5%A6%86%E5%93%81%E7%94%A8%E5%AE%8C%E5%90%8E%E7%A9%BA%E7%93%B6%E7%AB%9F%E5%8D%96300%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
+9. [LV上海书店帆布包最低580](https://s.weibo.com/weibo?q=%23LV%E4%B8%8A%E6%B5%B7%E4%B9%A6%E5%BA%97%E5%B8%86%E5%B8%83%E5%8C%85%E6%9C%80%E4%BD%8E580%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
