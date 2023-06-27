@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 11:38:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 11:39:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [40℃高温让空调卖爆了](https://www.baidu.com/s?wd=40%E2%84%83%E9%AB%98%E6%B8%A9%E8%AE%A9%E7%A9%BA%E8%B0%83%E5%8D%96%E7%88%86%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [房子被邻居打通后续：开发商已买回](https://www.baidu.com/s?wd=%E6%88%BF%E5%AD%90%E8%A2%AB%E9%82%BB%E5%B1%85%E6%89%93%E9%80%9A%E5%90%8E%E7%BB%AD%EF%BC%9A%E5%BC%80%E5%8F%91%E5%95%86%E5%B7%B2%E4%B9%B0%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [安徽一法院现“阴阳判决”](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E4%B8%80%E6%B3%95%E9%99%A2%E7%8E%B0%E2%80%9C%E9%98%B4%E9%98%B3%E5%88%A4%E5%86%B3%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [泳装照简历中的手机号主回应](https://www.baidu.com/s?wd=%E6%B3%B3%E8%A3%85%E7%85%A7%E7%AE%80%E5%8E%86%E4%B8%AD%E7%9A%84%E6%89%8B%E6%9C%BA%E5%8F%B7%E4%B8%BB%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [上汽回应在印度丧失控制权](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B1%BD%E5%9B%9E%E5%BA%94%E5%9C%A8%E5%8D%B0%E5%BA%A6%E4%B8%A7%E5%A4%B1%E6%8E%A7%E5%88%B6%E6%9D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [40℃高温让空调卖爆了](https://www.baidu.com/s?wd=40%E2%84%83%E9%AB%98%E6%B8%A9%E8%AE%A9%E7%A9%BA%E8%B0%83%E5%8D%96%E7%88%86%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [房子被邻居打通后续：开发商已买回](https://www.baidu.com/s?wd=%E6%88%BF%E5%AD%90%E8%A2%AB%E9%82%BB%E5%B1%85%E6%89%93%E9%80%9A%E5%90%8E%E7%BB%AD%EF%BC%9A%E5%BC%80%E5%8F%91%E5%95%86%E5%B7%B2%E4%B9%B0%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [安徽一法院现“阴阳判决”](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E4%B8%80%E6%B3%95%E9%99%A2%E7%8E%B0%E2%80%9C%E9%98%B4%E9%98%B3%E5%88%A4%E5%86%B3%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [泳装照简历中的手机号主回应](https://www.baidu.com/s?wd=%E6%B3%B3%E8%A3%85%E7%85%A7%E7%AE%80%E5%8E%86%E4%B8%AD%E7%9A%84%E6%89%8B%E6%9C%BA%E5%8F%B7%E4%B8%BB%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [上汽回应在印度丧失控制权](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B1%BD%E5%9B%9E%E5%BA%94%E5%9C%A8%E5%8D%B0%E5%BA%A6%E4%B8%A7%E5%A4%B1%E6%8E%A7%E5%88%B6%E6%9D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
