@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 17:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 17:20:01</h4></div>
 
 > 微博  
 
@@ -19,10 +19,10 @@
 3. [调休制定参与者建议重新考虑政策，称「目前大家普遍不满意」，如何看待此事？你支持调休吗？](https://www.zhihu.com/question/608431520)<br />
 4. [如何看待《原神》可莉新皮肤改变原设引争议，你有哪些看法？](https://www.zhihu.com/question/608581381)<br />
 5. [这个夏天，你的城市有哪些迷人好去处？](https://www.zhihu.com/xen/market/ecom-page/1654546294394523648)<br />
-6. [ChatGPT 访问量增速大降，6 月环比增长率可能为负数，科技股资金大幅外流，AI 热潮熄火了吗？](https://www.zhihu.com/question/608894843)<br />
-7. [挑狗时如何看性格？](https://www.zhihu.com/question/607558718)<br />
-8. [多地景区出现「围墙挡景」现象，游客观赏景区必须花钱买票，怎样看待这一现象？](https://www.zhihu.com/question/608710388)<br />
-9. [一季度全国结婚登记同比增加 4 万对，离婚多了 12 万对，这反映出什么社会现象，由哪些原因导致？](https://www.zhihu.com/question/608857761)<br />
+6. [30  个同学聚餐让每人出  1000  元，毕业后你会去同学聚会吗？](https://www.zhihu.com/question/607992752)<br />
+7. [ChatGPT 访问量增速大降，6 月环比增长率可能为负数，科技股资金大幅外流，AI 热潮熄火了吗？](https://www.zhihu.com/question/608894843)<br />
+8. [挑狗时如何看性格？](https://www.zhihu.com/question/607558718)<br />
+9. [多地景区出现「围墙挡景」现象，游客观赏景区必须花钱买票，怎样看待这一现象？](https://www.zhihu.com/question/608710388)<br />
 
 > 百度  
 
