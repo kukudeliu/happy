@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 07:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 07:14:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [媒体:出轨他人妻子的高校领导被免职](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%3A%E5%87%BA%E8%BD%A8%E4%BB%96%E4%BA%BA%E5%A6%BB%E5%AD%90%E7%9A%84%E9%AB%98%E6%A0%A1%E9%A2%86%E5%AF%BC%E8%A2%AB%E5%85%8D%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [差点认不出张艺兴](https://www.baidu.com/s?wd=%E5%B7%AE%E7%82%B9%E8%AE%A4%E4%B8%8D%E5%87%BA%E5%BC%A0%E8%89%BA%E5%85%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女生毕业删除90%同学被骂有病](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E6%AF%95%E4%B8%9A%E5%88%A0%E9%99%A490%25%E5%90%8C%E5%AD%A6%E8%A2%AB%E9%AA%82%E6%9C%89%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [张杰谢娜观看跳跳俏俏演出](https://www.baidu.com/s?wd=%E5%BC%A0%E6%9D%B0%E8%B0%A2%E5%A8%9C%E8%A7%82%E7%9C%8B%E8%B7%B3%E8%B7%B3%E4%BF%8F%E4%BF%8F%E6%BC%94%E5%87%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [沈阳一洗浴中心回应租赁爸爸服务](https://www.baidu.com/s?wd=%E6%B2%88%E9%98%B3%E4%B8%80%E6%B4%97%E6%B5%B4%E4%B8%AD%E5%BF%83%E5%9B%9E%E5%BA%94%E7%A7%9F%E8%B5%81%E7%88%B8%E7%88%B8%E6%9C%8D%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [媒体:出轨他人妻子的高校领导被免职](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%3A%E5%87%BA%E8%BD%A8%E4%BB%96%E4%BA%BA%E5%A6%BB%E5%AD%90%E7%9A%84%E9%AB%98%E6%A0%A1%E9%A2%86%E5%AF%BC%E8%A2%AB%E5%85%8D%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [差点认不出张艺兴](https://www.baidu.com/s?wd=%E5%B7%AE%E7%82%B9%E8%AE%A4%E4%B8%8D%E5%87%BA%E5%BC%A0%E8%89%BA%E5%85%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女生毕业删除90%同学被骂有病](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E6%AF%95%E4%B8%9A%E5%88%A0%E9%99%A490%25%E5%90%8C%E5%AD%A6%E8%A2%AB%E9%AA%82%E6%9C%89%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [张杰谢娜观看跳跳俏俏演出](https://www.baidu.com/s?wd=%E5%BC%A0%E6%9D%B0%E8%B0%A2%E5%A8%9C%E8%A7%82%E7%9C%8B%E8%B7%B3%E8%B7%B3%E4%BF%8F%E4%BF%8F%E6%BC%94%E5%87%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [沈阳一洗浴中心回应租赁爸爸服务](https://www.baidu.com/s?wd=%E6%B2%88%E9%98%B3%E4%B8%80%E6%B4%97%E6%B5%B4%E4%B8%AD%E5%BF%83%E5%9B%9E%E5%BA%94%E7%A7%9F%E8%B5%81%E7%88%B8%E7%88%B8%E6%9C%8D%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
