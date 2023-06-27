@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 16:38:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 16:39:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [达沃斯在天津](https://s.weibo.com/weibo?q=%23%E8%BE%BE%E6%B2%83%E6%96%AF%E5%9C%A8%E5%A4%A9%E6%B4%A5%23&t=31&band_rank=3&Refer=top)<br />
 4. [前男友居然去做了变性手术](https://s.weibo.com/weibo?q=%23%E5%89%8D%E7%94%B7%E5%8F%8B%E5%B1%85%E7%84%B6%E5%8E%BB%E5%81%9A%E4%BA%86%E5%8F%98%E6%80%A7%E6%89%8B%E6%9C%AF%23&t=31&band_rank=4&Refer=top)<br />
 5. [柳智敏回应](https://s.weibo.com/weibo?q=%23%E6%9F%B3%E6%99%BA%E6%95%8F%E5%9B%9E%E5%BA%94%23&t=31&band_rank=5&Refer=top)<br />
-6. [范玮琪支持老公陈建州](https://s.weibo.com/weibo?q=%23%E8%8C%83%E7%8E%AE%E7%90%AA%E6%94%AF%E6%8C%81%E8%80%81%E5%85%AC%E9%99%88%E5%BB%BA%E5%B7%9E%23&t=31&band_rank=6&Refer=top)<br />
-7. [上海游泳馆设女性专用泳道](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%B8%B8%E6%B3%B3%E9%A6%86%E8%AE%BE%E5%A5%B3%E6%80%A7%E4%B8%93%E7%94%A8%E6%B3%B3%E9%81%93%23&t=31&band_rank=7&Refer=top)<br />
-8. [微信否认文件传输助手是真人](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E5%90%A6%E8%AE%A4%E6%96%87%E4%BB%B6%E4%BC%A0%E8%BE%93%E5%8A%A9%E6%89%8B%E6%98%AF%E7%9C%9F%E4%BA%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [陈建州大牙行程对上了](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BB%BA%E5%B7%9E%E5%A4%A7%E7%89%99%E8%A1%8C%E7%A8%8B%E5%AF%B9%E4%B8%8A%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+6. [粉丝将亲妈骨灰扔上演唱会舞台](https://s.weibo.com/weibo?q=%23%E7%B2%89%E4%B8%9D%E5%B0%86%E4%BA%B2%E5%A6%88%E9%AA%A8%E7%81%B0%E6%89%94%E4%B8%8A%E6%BC%94%E5%94%B1%E4%BC%9A%E8%88%9E%E5%8F%B0%23&t=31&band_rank=6&Refer=top)<br />
+7. [范玮琪支持老公陈建州](https://s.weibo.com/weibo?q=%23%E8%8C%83%E7%8E%AE%E7%90%AA%E6%94%AF%E6%8C%81%E8%80%81%E5%85%AC%E9%99%88%E5%BB%BA%E5%B7%9E%23&t=31&band_rank=7&Refer=top)<br />
+8. [上海游泳馆设女性专用泳道](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%B8%B8%E6%B3%B3%E9%A6%86%E8%AE%BE%E5%A5%B3%E6%80%A7%E4%B8%93%E7%94%A8%E6%B3%B3%E9%81%93%23&t=31&band_rank=8&Refer=top)<br />
+9. [微信否认文件传输助手是真人](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E5%90%A6%E8%AE%A4%E6%96%87%E4%BB%B6%E4%BC%A0%E8%BE%93%E5%8A%A9%E6%89%8B%E6%98%AF%E7%9C%9F%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [一季度全国结婚登记同比增加 4 万对，离婚多了 12 万对，这反映出什么社会现象，由哪些原因导致？](https://www.zhihu.com/question/608857761)<br />
 7. [31 岁 J 罗无球可踢仍未找到下家，身价巅峰 8000 万仅剩 600 万欧，如何评价他的职业生涯？](https://www.zhihu.com/question/608892681)<br />
 8. [ChatGPT 访问量增速大降，6 月环比增长率可能为负数，科技股资金大幅外流，AI 热潮熄火了吗？](https://www.zhihu.com/question/608894843)<br />
-9. [30  个同学聚餐让每人出  1000  元，毕业后你会去同学聚会吗？](https://www.zhihu.com/question/607992752)<br />
+9. [多地景区出现「围墙挡景」现象，游客观赏景区必须花钱买票，怎样看待这一现象？](https://www.zhihu.com/question/608710388)<br />
 
 > 百度  
 
@@ -32,9 +32,9 @@
 4. [爱国主义教育法草案首次提请审议](https://www.baidu.com/s?wd=%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89%E6%95%99%E8%82%B2%E6%B3%95%E8%8D%89%E6%A1%88%E9%A6%96%E6%AC%A1%E6%8F%90%E8%AF%B7%E5%AE%A1%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [陈建州被指控性骚扰](https://www.baidu.com/s?wd=%E9%99%88%E5%BB%BA%E5%B7%9E%E8%A2%AB%E6%8C%87%E6%8E%A7%E6%80%A7%E9%AA%9A%E6%89%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [杭州女子养仓鼠脸烂成火龙果](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%A5%B3%E5%AD%90%E5%85%BB%E4%BB%93%E9%BC%A0%E8%84%B8%E7%83%82%E6%88%90%E7%81%AB%E9%BE%99%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [美容院发生劫持人质致1死？警方回应](https://www.baidu.com/s?wd=%E7%BE%8E%E5%AE%B9%E9%99%A2%E5%8F%91%E7%94%9F%E5%8A%AB%E6%8C%81%E4%BA%BA%E8%B4%A8%E8%87%B41%E6%AD%BB%EF%BC%9F%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [微信文件传输助手是真人？官方回应](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%96%87%E4%BB%B6%E4%BC%A0%E8%BE%93%E5%8A%A9%E6%89%8B%E6%98%AF%E7%9C%9F%E4%BA%BA%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [如果人们看得见](https://www.baidu.com/s?wd=%E5%A6%82%E6%9E%9C%E4%BA%BA%E4%BB%AC%E7%9C%8B%E5%BE%97%E8%A7%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [微信文件传输助手是真人？官方回应](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%96%87%E4%BB%B6%E4%BC%A0%E8%BE%93%E5%8A%A9%E6%89%8B%E6%98%AF%E7%9C%9F%E4%BA%BA%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [大牙经纪人回应指控陈建州性骚扰](https://www.baidu.com/s?wd=%E5%A4%A7%E7%89%99%E7%BB%8F%E7%BA%AA%E4%BA%BA%E5%9B%9E%E5%BA%94%E6%8C%87%E6%8E%A7%E9%99%88%E5%BB%BA%E5%B7%9E%E6%80%A7%E9%AA%9A%E6%89%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [爱国主义教育法草案首次提请审议](https://www.baidu.com/s?wd=%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89%E6%95%99%E8%82%B2%E6%B3%95%E8%8D%89%E6%A1%88%E9%A6%96%E6%AC%A1%E6%8F%90%E8%AF%B7%E5%AE%A1%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [陈建州被指控性骚扰](https://www.baidu.com/s?wd=%E9%99%88%E5%BB%BA%E5%B7%9E%E8%A2%AB%E6%8C%87%E6%8E%A7%E6%80%A7%E9%AA%9A%E6%89%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [杭州女子养仓鼠脸烂成火龙果](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%A5%B3%E5%AD%90%E5%85%BB%E4%BB%93%E9%BC%A0%E8%84%B8%E7%83%82%E6%88%90%E7%81%AB%E9%BE%99%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [美容院发生劫持人质致1死？警方回应](https://www.baidu.com/s?wd=%E7%BE%8E%E5%AE%B9%E9%99%A2%E5%8F%91%E7%94%9F%E5%8A%AB%E6%8C%81%E4%BA%BA%E8%B4%A8%E8%87%B41%E6%AD%BB%EF%BC%9F%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [微信文件传输助手是真人？官方回应](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%96%87%E4%BB%B6%E4%BC%A0%E8%BE%93%E5%8A%A9%E6%89%8B%E6%98%AF%E7%9C%9F%E4%BA%BA%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [如果人们看得见](https://www.baidu.com/s?wd=%E5%A6%82%E6%9E%9C%E4%BA%BA%E4%BB%AC%E7%9C%8B%E5%BE%97%E8%A7%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [微信文件传输助手是真人？官方回应](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%96%87%E4%BB%B6%E4%BC%A0%E8%BE%93%E5%8A%A9%E6%89%8B%E6%98%AF%E7%9C%9F%E4%BA%BA%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [大牙经纪人回应指控陈建州性骚扰](https://www.baidu.com/s?wd=%E5%A4%A7%E7%89%99%E7%BB%8F%E7%BA%AA%E4%BA%BA%E5%9B%9E%E5%BA%94%E6%8C%87%E6%8E%A7%E9%99%88%E5%BB%BA%E5%B7%9E%E6%80%A7%E9%AA%9A%E6%89%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
