@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 11:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 11:09:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [16岁中学生校内服毒自杀身亡](https://s.weibo.com/weibo?q=%2316%E5%B2%81%E4%B8%AD%E5%AD%A6%E7%94%9F%E6%A0%A1%E5%86%85%E6%9C%8D%E6%AF%92%E8%87%AA%E6%9D%80%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=5&Refer=top)<br />
 6. [iPhone15Pro将成主打产品](https://s.weibo.com/weibo?q=%23iPhone15Pro%E5%B0%86%E6%88%90%E4%B8%BB%E6%89%93%E4%BA%A7%E5%93%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [吴越 真的不是我](https://s.weibo.com/weibo?q=%E5%90%B4%E8%B6%8A%20%E7%9C%9F%E7%9A%84%E4%B8%8D%E6%98%AF%E6%88%91&t=31&band_rank=7&Refer=top)<br />
-8. [景甜内娱女菩萨](https://s.weibo.com/weibo?q=%23%E6%99%AF%E7%94%9C%E5%86%85%E5%A8%B1%E5%A5%B3%E8%8F%A9%E8%90%A8%23&t=31&band_rank=8&Refer=top)<br />
-9. [高铁调座椅弄撒了后座的泡面](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E8%B0%83%E5%BA%A7%E6%A4%85%E5%BC%84%E6%92%92%E4%BA%86%E5%90%8E%E5%BA%A7%E7%9A%84%E6%B3%A1%E9%9D%A2%23&t=31&band_rank=9&Refer=top)<br />
+8. [高铁调座椅弄撒了后座的泡面](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E8%B0%83%E5%BA%A7%E6%A4%85%E5%BC%84%E6%92%92%E4%BA%86%E5%90%8E%E5%BA%A7%E7%9A%84%E6%B3%A1%E9%9D%A2%23&t=31&band_rank=8&Refer=top)<br />
+9. [景甜内娱女菩萨](https://s.weibo.com/weibo?q=%23%E6%99%AF%E7%94%9C%E5%86%85%E5%A8%B1%E5%A5%B3%E8%8F%A9%E8%90%A8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
