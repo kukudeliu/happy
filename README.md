@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 16:16:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 16:17:01</h4></div>
 
 > 微博  
 
-1. [前男友居然去做了变性手术](https://s.weibo.com/weibo?q=%23%E5%89%8D%E7%94%B7%E5%8F%8B%E5%B1%85%E7%84%B6%E5%8E%BB%E5%81%9A%E4%BA%86%E5%8F%98%E6%80%A7%E6%89%8B%E6%9C%AF%23&t=31&band_rank=1&Refer=top)<br />
-2. [男朋友发朋友圈官宣仅我可见](https://s.weibo.com/weibo?q=%23%E7%94%B7%E6%9C%8B%E5%8F%8B%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%AE%98%E5%AE%A3%E4%BB%85%E6%88%91%E5%8F%AF%E8%A7%81%23&t=31&band_rank=2&Refer=top)<br />
+1. [男朋友发朋友圈官宣仅我可见](https://s.weibo.com/weibo?q=%23%E7%94%B7%E6%9C%8B%E5%8F%8B%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%AE%98%E5%AE%A3%E4%BB%85%E6%88%91%E5%8F%AF%E8%A7%81%23&t=31&band_rank=1&Refer=top)<br />
+2. [前男友居然去做了变性手术](https://s.weibo.com/weibo?q=%23%E5%89%8D%E7%94%B7%E5%8F%8B%E5%B1%85%E7%84%B6%E5%8E%BB%E5%81%9A%E4%BA%86%E5%8F%98%E6%80%A7%E6%89%8B%E6%9C%AF%23&t=31&band_rank=2&Refer=top)<br />
 3. [达沃斯在天津](https://s.weibo.com/weibo?q=%23%E8%BE%BE%E6%B2%83%E6%96%AF%E5%9C%A8%E5%A4%A9%E6%B4%A5%23&t=31&band_rank=3&Refer=top)<br />
 4. [柳智敏回应](https://s.weibo.com/weibo?q=%23%E6%9F%B3%E6%99%BA%E6%95%8F%E5%9B%9E%E5%BA%94%23&t=31&band_rank=4&Refer=top)<br />
 5. [范玮琪支持老公陈建州](https://s.weibo.com/weibo?q=%23%E8%8C%83%E7%8E%AE%E7%90%AA%E6%94%AF%E6%8C%81%E8%80%81%E5%85%AC%E9%99%88%E5%BB%BA%E5%B7%9E%23&t=31&band_rank=5&Refer=top)<br />
@@ -21,8 +21,8 @@
 5. [这个夏天，你的城市有哪些迷人好去处？](https://www.zhihu.com/xen/market/ecom-page/1654546294394523648)<br />
 6. [一季度全国结婚登记同比增加 4 万对，离婚多了 12 万对，这反映出什么社会现象，由哪些原因导致？](https://www.zhihu.com/question/608857761)<br />
 7. [ChatGPT 访问量增速大降，6 月环比增长率可能为负数，科技股资金大幅外流，AI 热潮熄火了吗？](https://www.zhihu.com/question/608894843)<br />
-8. [高考数学改卷写一个「解」字都有一分是真的吗？](https://www.zhihu.com/question/605608237)<br />
-9. [媒体发文《30 多岁正当年，找工作怎么就被嫌弃了》，称收割「青春红利」不利于长远发展，该问题有解吗？](https://www.zhihu.com/question/608697850)<br />
+8. [媒体发文《30 多岁正当年，找工作怎么就被嫌弃了》，称收割「青春红利」不利于长远发展，该问题有解吗？](https://www.zhihu.com/question/608697850)<br />
+9. [30  个同学聚餐让每人出  1000  元，毕业后你会去同学聚会吗？](https://www.zhihu.com/question/607992752)<br />
 
 > 百度  
 
