@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 22:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 22:25:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [于斌多发点](https://s.weibo.com/weibo?q=%E4%BA%8E%E6%96%8C%E5%A4%9A%E5%8F%91%E7%82%B9&t=31&band_rank=6&Refer=top)<br />
 7. [考经纪人证](https://s.weibo.com/weibo?q=%E8%80%83%E7%BB%8F%E7%BA%AA%E4%BA%BA%E8%AF%81&t=31&band_rank=7&Refer=top)<br />
 8. [网传男子开车反复碾轧女子事发山东东营](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E7%94%B7%E5%AD%90%E5%BC%80%E8%BD%A6%E5%8F%8D%E5%A4%8D%E7%A2%BE%E8%BD%A7%E5%A5%B3%E5%AD%90%E4%BA%8B%E5%8F%91%E5%B1%B1%E4%B8%9C%E4%B8%9C%E8%90%A5%23&t=31&band_rank=8&Refer=top)<br />
-9. [女孩考上清华家人放烟花前向邻居报备](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E8%80%83%E4%B8%8A%E6%B8%85%E5%8D%8E%E5%AE%B6%E4%BA%BA%E6%94%BE%E7%83%9F%E8%8A%B1%E5%89%8D%E5%90%91%E9%82%BB%E5%B1%85%E6%8A%A5%E5%A4%87%23&t=31&band_rank=9&Refer=top)<br />
+9. [被男子反复碾压女子已身亡](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%94%B7%E5%AD%90%E5%8F%8D%E5%A4%8D%E7%A2%BE%E5%8E%8B%E5%A5%B3%E5%AD%90%E5%B7%B2%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
