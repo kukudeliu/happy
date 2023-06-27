@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 15:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 15:45:01</h4></div>
 
 > 微博  
 
@@ -22,14 +22,14 @@
 6. [调休制定参与者建议重新考虑政策，称「目前大家普遍不满意」，如何看待此事？你支持调休吗？](https://www.zhihu.com/question/608431520)<br />
 7. [ChatGPT 访问量增速大降，6 月环比增长率可能为负数，科技股资金大幅外流，AI 热潮熄火了吗？](https://www.zhihu.com/question/608894843)<br />
 8. [媒体发文《30 多岁正当年，找工作怎么就被嫌弃了》，称收割「青春红利」不利于长远发展，该问题有解吗？](https://www.zhihu.com/question/608697850)<br />
-9. [《西游记》里老龟因唐僧没帮他问寿命，把师徒四人弄下河，谁对谁错？](https://www.zhihu.com/question/602287339)<br />
+9. [高考数学改卷写一个「解」字都有一分是真的吗？](https://www.zhihu.com/question/605608237)<br />
 
 > 百度  
 
-1. [弘扬清廉之风 永葆政治本色](https://www.baidu.com/s?wd=%E5%BC%98%E6%89%AC%E6%B8%85%E5%BB%89%E4%B9%8B%E9%A3%8E+%E6%B0%B8%E8%91%86%E6%94%BF%E6%B2%BB%E6%9C%AC%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [千方百计拓宽农民增收致富渠道](https://www.baidu.com/s?wd=%E5%8D%83%E6%96%B9%E7%99%BE%E8%AE%A1%E6%8B%93%E5%AE%BD%E5%86%9C%E6%B0%91%E5%A2%9E%E6%94%B6%E8%87%B4%E5%AF%8C%E6%B8%A0%E9%81%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [钟南山与学生合照时意外被亲](https://www.baidu.com/s?wd=%E9%92%9F%E5%8D%97%E5%B1%B1%E4%B8%8E%E5%AD%A6%E7%94%9F%E5%90%88%E7%85%A7%E6%97%B6%E6%84%8F%E5%A4%96%E8%A2%AB%E4%BA%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [微信文件传输助手是真人？官方回应](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%96%87%E4%BB%B6%E4%BC%A0%E8%BE%93%E5%8A%A9%E6%89%8B%E6%98%AF%E7%9C%9F%E4%BA%BA%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [耕好“无形粮田”](https://www.baidu.com/s?wd=%E8%80%95%E5%A5%BD%E2%80%9C%E6%97%A0%E5%BD%A2%E7%B2%AE%E7%94%B0%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [爱国主义教育法草案首次提请审议](https://www.baidu.com/s?wd=%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89%E6%95%99%E8%82%B2%E6%B3%95%E8%8D%89%E6%A1%88%E9%A6%96%E6%AC%A1%E6%8F%90%E8%AF%B7%E5%AE%A1%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [陈建州被指控性骚扰](https://www.baidu.com/s?wd=%E9%99%88%E5%BB%BA%E5%B7%9E%E8%A2%AB%E6%8C%87%E6%8E%A7%E6%80%A7%E9%AA%9A%E6%89%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [杭州女子养仓鼠脸烂成火龙果](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%A5%B3%E5%AD%90%E5%85%BB%E4%BB%93%E9%BC%A0%E8%84%B8%E7%83%82%E6%88%90%E7%81%AB%E9%BE%99%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [美方：希望引渡并逮捕普里戈任](https://www.baidu.com/s?wd=%E7%BE%8E%E6%96%B9%EF%BC%9A%E5%B8%8C%E6%9C%9B%E5%BC%95%E6%B8%A1%E5%B9%B6%E9%80%AE%E6%8D%95%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -38,10 +38,10 @@
 
 > 哔哩哔哩  
 
-1. [弘扬清廉之风 永葆政治本色](https://www.baidu.com/s?wd=%E5%BC%98%E6%89%AC%E6%B8%85%E5%BB%89%E4%B9%8B%E9%A3%8E+%E6%B0%B8%E8%91%86%E6%94%BF%E6%B2%BB%E6%9C%AC%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [千方百计拓宽农民增收致富渠道](https://www.baidu.com/s?wd=%E5%8D%83%E6%96%B9%E7%99%BE%E8%AE%A1%E6%8B%93%E5%AE%BD%E5%86%9C%E6%B0%91%E5%A2%9E%E6%94%B6%E8%87%B4%E5%AF%8C%E6%B8%A0%E9%81%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [钟南山与学生合照时意外被亲](https://www.baidu.com/s?wd=%E9%92%9F%E5%8D%97%E5%B1%B1%E4%B8%8E%E5%AD%A6%E7%94%9F%E5%90%88%E7%85%A7%E6%97%B6%E6%84%8F%E5%A4%96%E8%A2%AB%E4%BA%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [微信文件传输助手是真人？官方回应](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%96%87%E4%BB%B6%E4%BC%A0%E8%BE%93%E5%8A%A9%E6%89%8B%E6%98%AF%E7%9C%9F%E4%BA%BA%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [耕好“无形粮田”](https://www.baidu.com/s?wd=%E8%80%95%E5%A5%BD%E2%80%9C%E6%97%A0%E5%BD%A2%E7%B2%AE%E7%94%B0%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [爱国主义教育法草案首次提请审议](https://www.baidu.com/s?wd=%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89%E6%95%99%E8%82%B2%E6%B3%95%E8%8D%89%E6%A1%88%E9%A6%96%E6%AC%A1%E6%8F%90%E8%AF%B7%E5%AE%A1%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [陈建州被指控性骚扰](https://www.baidu.com/s?wd=%E9%99%88%E5%BB%BA%E5%B7%9E%E8%A2%AB%E6%8C%87%E6%8E%A7%E6%80%A7%E9%AA%9A%E6%89%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [杭州女子养仓鼠脸烂成火龙果](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%A5%B3%E5%AD%90%E5%85%BB%E4%BB%93%E9%BC%A0%E8%84%B8%E7%83%82%E6%88%90%E7%81%AB%E9%BE%99%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [美方：希望引渡并逮捕普里戈任](https://www.baidu.com/s?wd=%E7%BE%8E%E6%96%B9%EF%BC%9A%E5%B8%8C%E6%9C%9B%E5%BC%95%E6%B8%A1%E5%B9%B6%E9%80%AE%E6%8D%95%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
