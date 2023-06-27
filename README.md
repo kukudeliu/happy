@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 17:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 17:01:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [男朋友发朋友圈官宣仅我可见](https://s.weibo.com/weibo?q=%23%E7%94%B7%E6%9C%8B%E5%8F%8B%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%AE%98%E5%AE%A3%E4%BB%85%E6%88%91%E5%8F%AF%E8%A7%81%23&t=31&band_rank=2&Refer=top)<br />
 3. [达沃斯在天津](https://s.weibo.com/weibo?q=%23%E8%BE%BE%E6%B2%83%E6%96%AF%E5%9C%A8%E5%A4%A9%E6%B4%A5%23&t=31&band_rank=3&Refer=top)<br />
 4. [台媒曝范玮琪失联](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E5%AA%92%E6%9B%9D%E8%8C%83%E7%8E%AE%E7%90%AA%E5%A4%B1%E8%81%94%23&t=31&band_rank=4&Refer=top)<br />
-5. [前男友居然去做了变性手术](https://s.weibo.com/weibo?q=%23%E5%89%8D%E7%94%B7%E5%8F%8B%E5%B1%85%E7%84%B6%E5%8E%BB%E5%81%9A%E4%BA%86%E5%8F%98%E6%80%A7%E6%89%8B%E6%9C%AF%23&t=31&band_rank=5&Refer=top)<br />
-6. [厌童现象](https://s.weibo.com/weibo?q=%E5%8E%8C%E7%AB%A5%E7%8E%B0%E8%B1%A1&t=31&band_rank=6&Refer=top)<br />
+5. [厌童现象](https://s.weibo.com/weibo?q=%E5%8E%8C%E7%AB%A5%E7%8E%B0%E8%B1%A1&t=31&band_rank=5&Refer=top)<br />
+6. [前男友居然去做了变性手术](https://s.weibo.com/weibo?q=%23%E5%89%8D%E7%94%B7%E5%8F%8B%E5%B1%85%E7%84%B6%E5%8E%BB%E5%81%9A%E4%BA%86%E5%8F%98%E6%80%A7%E6%89%8B%E6%9C%AF%23&t=31&band_rank=6&Refer=top)<br />
 7. [陈建州被指控性骚扰](https://s.weibo.com/weibo?q=%E9%99%88%E5%BB%BA%E5%B7%9E%E8%A2%AB%E6%8C%87%E6%8E%A7%E6%80%A7%E9%AA%9A%E6%89%B0&t=31&band_rank=7&Refer=top)<br />
 8. [柳智敏回应](https://s.weibo.com/weibo?q=%23%E6%9F%B3%E6%99%BA%E6%95%8F%E5%9B%9E%E5%BA%94%23&t=31&band_rank=8&Refer=top)<br />
 9. [俄罗斯称瓦格纳将向军队移交重型武器](https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E7%A7%B0%E7%93%A6%E6%A0%BC%E7%BA%B3%E5%B0%86%E5%90%91%E5%86%9B%E9%98%9F%E7%A7%BB%E4%BA%A4%E9%87%8D%E5%9E%8B%E6%AD%A6%E5%99%A8%23&t=31&band_rank=9&Refer=top)<br />
