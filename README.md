@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 05:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 05:05:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [周鸿祎被清华录取](https://s.weibo.com/weibo?q=%23%E5%91%A8%E9%B8%BF%E7%A5%8E%E8%A2%AB%E6%B8%85%E5%8D%8E%E5%BD%95%E5%8F%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [消失的她又双叒票房逆跌了](https://s.weibo.com/weibo?q=%23%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E5%8F%88%E5%8F%8C%E5%8F%92%E7%A5%A8%E6%88%BF%E9%80%86%E8%B7%8C%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [千万不要随意私拆学生档案](https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E9%9A%8F%E6%84%8F%E7%A7%81%E6%8B%86%E5%AD%A6%E7%94%9F%E6%A1%A3%E6%A1%88%23&t=31&band_rank=8&Refer=top)<br />
-9. [医院回应女子被司机反复碾轧遇害](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%8F%B8%E6%9C%BA%E5%8F%8D%E5%A4%8D%E7%A2%BE%E8%BD%A7%E9%81%87%E5%AE%B3%23&t=31&band_rank=9&Refer=top)<br />
+9. [张雪峰呼吁警惕填志愿骗局](https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%91%BC%E5%90%81%E8%AD%A6%E6%83%95%E5%A1%AB%E5%BF%97%E6%84%BF%E9%AA%97%E5%B1%80&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. []()<br />
 7. [中国正式接受 WTO《渔业补贴协定》议定书，将带来哪些影响？](https://www.zhihu.com/question/609036777)<br />
 8. [美国务院称「希望引渡瓦格纳领导人普里戈任」，美方是出于哪些考虑？后续将如何发展？](https://www.zhihu.com/question/608936142)<br />
-9. [建国时期影视剧，骑自行车都先滑行一段，迈步上车的。现在为什么大家骑车为什么不用这种方式了？](https://www.zhihu.com/question/605318585)<br />
+9. []()<br />
 
 > 百度  
 
