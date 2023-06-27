@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 18:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 18:42:01</h4></div>
 
 > 微博  
 
@@ -21,7 +21,7 @@
 5. [30  个同学聚餐让每人出  1000  元，毕业后你会去同学聚会吗？](https://www.zhihu.com/question/607992752)<br />
 6. [高考数学改卷写一个「解」字都有一分是真的吗？](https://www.zhihu.com/question/605608237)<br />
 7. [如果你是电影《消失的她》中的李木子，你怎么尝试从深潜的牢笼中自救？](https://www.zhihu.com/question/608169334)<br />
-8. [如何看待《原神》可莉新皮肤改变原设引争议，你有哪些看法？](https://www.zhihu.com/question/608581381)<br />
+8. [俄国防部称「瓦格纳将向军队移交重型武器，俄方取消了瓦格纳武装『叛变』的刑事案件」，如何评价这一进展？](https://www.zhihu.com/question/608972289)<br />
 9. [一季度全国结婚登记同比增加 4 万对，离婚多了 12 万对，这反映出什么社会现象，由哪些原因导致？](https://www.zhihu.com/question/608857761)<br />
 
 > 百度  
@@ -34,7 +34,7 @@
 6. [女子找工作政审发现自己被坐过牢](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%89%BE%E5%B7%A5%E4%BD%9C%E6%94%BF%E5%AE%A1%E5%8F%91%E7%8E%B0%E8%87%AA%E5%B7%B1%E8%A2%AB%E5%9D%90%E8%BF%87%E7%89%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [台媒曝范玮琪失联](https://www.baidu.com/s?wd=%E5%8F%B0%E5%AA%92%E6%9B%9D%E8%8C%83%E7%8E%AE%E7%90%AA%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [9岁男孩跪地向新郎爸爸要出生证明](https://www.baidu.com/s?wd=9%E5%B2%81%E7%94%B7%E5%AD%A9%E8%B7%AA%E5%9C%B0%E5%90%91%E6%96%B0%E9%83%8E%E7%88%B8%E7%88%B8%E8%A6%81%E5%87%BA%E7%94%9F%E8%AF%81%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子疑雨中触电身亡 警方回应](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%96%91%E9%9B%A8%E4%B8%AD%E8%A7%A6%E7%94%B5%E8%BA%AB%E4%BA%A1+%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [上汽回应在印度丧失控制权](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B1%BD%E5%9B%9E%E5%BA%94%E5%9C%A8%E5%8D%B0%E5%BA%A6%E4%B8%A7%E5%A4%B1%E6%8E%A7%E5%88%B6%E6%9D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [女子找工作政审发现自己被坐过牢](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%89%BE%E5%B7%A5%E4%BD%9C%E6%94%BF%E5%AE%A1%E5%8F%91%E7%8E%B0%E8%87%AA%E5%B7%B1%E8%A2%AB%E5%9D%90%E8%BF%87%E7%89%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [台媒曝范玮琪失联](https://www.baidu.com/s?wd=%E5%8F%B0%E5%AA%92%E6%9B%9D%E8%8C%83%E7%8E%AE%E7%90%AA%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [9岁男孩跪地向新郎爸爸要出生证明](https://www.baidu.com/s?wd=9%E5%B2%81%E7%94%B7%E5%AD%A9%E8%B7%AA%E5%9C%B0%E5%90%91%E6%96%B0%E9%83%8E%E7%88%B8%E7%88%B8%E8%A6%81%E5%87%BA%E7%94%9F%E8%AF%81%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子疑雨中触电身亡 警方回应](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%96%91%E9%9B%A8%E4%B8%AD%E8%A7%A6%E7%94%B5%E8%BA%AB%E4%BA%A1+%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [上汽回应在印度丧失控制权](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B1%BD%E5%9B%9E%E5%BA%94%E5%9C%A8%E5%8D%B0%E5%BA%A6%E4%B8%A7%E5%A4%B1%E6%8E%A7%E5%88%B6%E6%9D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
