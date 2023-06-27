@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 20:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 20:59:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [重庆一医院被曝盒饭中吃出老鼠头](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E4%B8%80%E5%8C%BB%E9%99%A2%E8%A2%AB%E6%9B%9D%E7%9B%92%E9%A5%AD%E4%B8%AD%E5%90%83%E5%87%BA%E8%80%81%E9%BC%A0%E5%A4%B4%23&t=31&band_rank=4&Refer=top)<br />
 5. [女孩考上清华家人放烟花前向邻居报备](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E8%80%83%E4%B8%8A%E6%B8%85%E5%8D%8E%E5%AE%B6%E4%BA%BA%E6%94%BE%E7%83%9F%E8%8A%B1%E5%89%8D%E5%90%91%E9%82%BB%E5%B1%85%E6%8A%A5%E5%A4%87%23&t=31&band_rank=5&Refer=top)<br />
 6. [小S曾在节目中批陈建州](https://s.weibo.com/weibo?q=%23%E5%B0%8FS%E6%9B%BE%E5%9C%A8%E8%8A%82%E7%9B%AE%E4%B8%AD%E6%89%B9%E9%99%88%E5%BB%BA%E5%B7%9E%23&t=31&band_rank=6&Refer=top)<br />
-7. [内娱男演员五大系](https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E7%94%B7%E6%BC%94%E5%91%98%E4%BA%94%E5%A4%A7%E7%B3%BB%23&t=31&band_rank=7&Refer=top)<br />
-8. [惠英红哽咽回应](https://s.weibo.com/weibo?q=%E6%83%A0%E8%8B%B1%E7%BA%A2%E5%93%BD%E5%92%BD%E5%9B%9E%E5%BA%94&t=31&band_rank=8&Refer=top)<br />
+7. [惠英红哽咽回应](https://s.weibo.com/weibo?q=%E6%83%A0%E8%8B%B1%E7%BA%A2%E5%93%BD%E5%92%BD%E5%9B%9E%E5%BA%94&t=31&band_rank=7&Refer=top)<br />
+8. [内娱男演员五大系](https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E7%94%B7%E6%BC%94%E5%91%98%E4%BA%94%E5%A4%A7%E7%B3%BB%23&t=31&band_rank=8&Refer=top)<br />
 9. [花千骨2已备案](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%8D%83%E9%AA%A82%E5%B7%B2%E5%A4%87%E6%A1%88%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -33,8 +33,8 @@
 5. [妈妈回应误拆档案袋女儿崩溃大吼](https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E5%9B%9E%E5%BA%94%E8%AF%AF%E6%8B%86%E6%A1%A3%E6%A1%88%E8%A2%8B%E5%A5%B3%E5%84%BF%E5%B4%A9%E6%BA%83%E5%A4%A7%E5%90%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [周鸿祎晒清华博士录取通知书](https://www.baidu.com/s?wd=%E5%91%A8%E9%B8%BF%E7%A5%8E%E6%99%92%E6%B8%85%E5%8D%8E%E5%8D%9A%E5%A3%AB%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [新版新华字典中删除“倭寇”一词](https://www.baidu.com/s?wd=%E6%96%B0%E7%89%88%E6%96%B0%E5%8D%8E%E5%AD%97%E5%85%B8%E4%B8%AD%E5%88%A0%E9%99%A4%E2%80%9C%E5%80%AD%E5%AF%87%E2%80%9D%E4%B8%80%E8%AF%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女生毕业删除90%同学被骂有病](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E6%AF%95%E4%B8%9A%E5%88%A0%E9%99%A490%25%E5%90%8C%E5%AD%A6%E8%A2%AB%E9%AA%82%E6%9C%89%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [王俊凯父母奶茶店因合同纠纷被诉](https://www.baidu.com/s?wd=%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%88%B6%E6%AF%8D%E5%A5%B6%E8%8C%B6%E5%BA%97%E5%9B%A0%E5%90%88%E5%90%8C%E7%BA%A0%E7%BA%B7%E8%A2%AB%E8%AF%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [差点认不出张艺兴](https://www.baidu.com/s?wd=%E5%B7%AE%E7%82%B9%E8%AE%A4%E4%B8%8D%E5%87%BA%E5%BC%A0%E8%89%BA%E5%85%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子疑雨中触电身亡 警方回应](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%96%91%E9%9B%A8%E4%B8%AD%E8%A7%A6%E7%94%B5%E8%BA%AB%E4%BA%A1+%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [妈妈回应误拆档案袋女儿崩溃大吼](https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E5%9B%9E%E5%BA%94%E8%AF%AF%E6%8B%86%E6%A1%A3%E6%A1%88%E8%A2%8B%E5%A5%B3%E5%84%BF%E5%B4%A9%E6%BA%83%E5%A4%A7%E5%90%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [周鸿祎晒清华博士录取通知书](https://www.baidu.com/s?wd=%E5%91%A8%E9%B8%BF%E7%A5%8E%E6%99%92%E6%B8%85%E5%8D%8E%E5%8D%9A%E5%A3%AB%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [新版新华字典中删除“倭寇”一词](https://www.baidu.com/s?wd=%E6%96%B0%E7%89%88%E6%96%B0%E5%8D%8E%E5%AD%97%E5%85%B8%E4%B8%AD%E5%88%A0%E9%99%A4%E2%80%9C%E5%80%AD%E5%AF%87%E2%80%9D%E4%B8%80%E8%AF%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女生毕业删除90%同学被骂有病](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E6%AF%95%E4%B8%9A%E5%88%A0%E9%99%A490%25%E5%90%8C%E5%AD%A6%E8%A2%AB%E9%AA%82%E6%9C%89%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [王俊凯父母奶茶店因合同纠纷被诉](https://www.baidu.com/s?wd=%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%88%B6%E6%AF%8D%E5%A5%B6%E8%8C%B6%E5%BA%97%E5%9B%A0%E5%90%88%E5%90%8C%E7%BA%A0%E7%BA%B7%E8%A2%AB%E8%AF%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [差点认不出张艺兴](https://www.baidu.com/s?wd=%E5%B7%AE%E7%82%B9%E8%AE%A4%E4%B8%8D%E5%87%BA%E5%BC%A0%E8%89%BA%E5%85%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子疑雨中触电身亡 警方回应](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%96%91%E9%9B%A8%E4%B8%AD%E8%A7%A6%E7%94%B5%E8%BA%AB%E4%BA%A1+%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
