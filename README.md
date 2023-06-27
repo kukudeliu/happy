@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 18:00:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 18:01:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [昆凌避谈陈建州大牙事件](https://s.weibo.com/weibo?q=%23%E6%98%86%E5%87%8C%E9%81%BF%E8%B0%88%E9%99%88%E5%BB%BA%E5%B7%9E%E5%A4%A7%E7%89%99%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=4&Refer=top)<br />
 5. [女孩在3厘米珠子内反手作画](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%9C%A83%E5%8E%98%E7%B1%B3%E7%8F%A0%E5%AD%90%E5%86%85%E5%8F%8D%E6%89%8B%E4%BD%9C%E7%94%BB%23&t=31&band_rank=5&Refer=top)<br />
 6. [柳智敏回应](https://s.weibo.com/weibo?q=%23%E6%9F%B3%E6%99%BA%E6%95%8F%E5%9B%9E%E5%BA%94%23&t=31&band_rank=6&Refer=top)<br />
-7. [俄罗斯称瓦格纳将向军队移交重型武器](https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E7%A7%B0%E7%93%A6%E6%A0%BC%E7%BA%B3%E5%B0%86%E5%90%91%E5%86%9B%E9%98%9F%E7%A7%BB%E4%BA%A4%E9%87%8D%E5%9E%8B%E6%AD%A6%E5%99%A8%23&t=31&band_rank=7&Refer=top)<br />
-8. [民警大喊靠边为聋哑孕妇开道](https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E5%A4%A7%E5%96%8A%E9%9D%A0%E8%BE%B9%E4%B8%BA%E8%81%8B%E5%93%91%E5%AD%95%E5%A6%87%E5%BC%80%E9%81%93%23&t=31&band_rank=8&Refer=top)<br />
-9. [差点认不出张艺兴](https://s.weibo.com/weibo?q=%23%E5%B7%AE%E7%82%B9%E8%AE%A4%E4%B8%8D%E5%87%BA%E5%BC%A0%E8%89%BA%E5%85%B4%23&t=31&band_rank=9&Refer=top)<br />
+7. [民警大喊靠边为聋哑孕妇开道](https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E5%A4%A7%E5%96%8A%E9%9D%A0%E8%BE%B9%E4%B8%BA%E8%81%8B%E5%93%91%E5%AD%95%E5%A6%87%E5%BC%80%E9%81%93%23&t=31&band_rank=7&Refer=top)<br />
+8. [俄罗斯称瓦格纳将向军队移交重型武器](https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E7%A7%B0%E7%93%A6%E6%A0%BC%E7%BA%B3%E5%B0%86%E5%90%91%E5%86%9B%E9%98%9F%E7%A7%BB%E4%BA%A4%E9%87%8D%E5%9E%8B%E6%AD%A6%E5%99%A8%23&t=31&band_rank=8&Refer=top)<br />
+9. [大牙回应陈建州声明](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%89%99%E5%9B%9E%E5%BA%94%E9%99%88%E5%BB%BA%E5%B7%9E%E5%A3%B0%E6%98%8E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
