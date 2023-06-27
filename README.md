@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 18:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 18:46:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [女子找工作政审发现自己被坐过牢](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%89%BE%E5%B7%A5%E4%BD%9C%E6%94%BF%E5%AE%A1%E5%8F%91%E7%8E%B0%E8%87%AA%E5%B7%B1%E8%A2%AB%E5%9D%90%E8%BF%87%E7%89%A2%23&t=31&band_rank=6&Refer=top)<br />
 7. [爸爸站的梯子突然断裂孩子稳稳扶住](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E7%AB%99%E7%9A%84%E6%A2%AF%E5%AD%90%E7%AA%81%E7%84%B6%E6%96%AD%E8%A3%82%E5%AD%A9%E5%AD%90%E7%A8%B3%E7%A8%B3%E6%89%B6%E4%BD%8F%23&t=31&band_rank=7&Refer=top)<br />
 8. [大牙回应陈建州声明](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%89%99%E5%9B%9E%E5%BA%94%E9%99%88%E5%BB%BA%E5%B7%9E%E5%A3%B0%E6%98%8E%23&t=31&band_rank=8&Refer=top)<br />
-9. [朱一龙回应何非用假手发誓](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E5%9B%9E%E5%BA%94%E4%BD%95%E9%9D%9E%E7%94%A8%E5%81%87%E6%89%8B%E5%8F%91%E8%AA%93%23&t=31&band_rank=9&Refer=top)<br />
+9. [花千骨2已备案](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%8D%83%E9%AA%A82%E5%B7%B2%E5%A4%87%E6%A1%88%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
