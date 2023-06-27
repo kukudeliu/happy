@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 01:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 01:47:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [警方通报男子反复碾压女子致死](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%90%E5%8F%8D%E5%A4%8D%E7%A2%BE%E5%8E%8B%E5%A5%B3%E5%AD%90%E8%87%B4%E6%AD%BB%23&t=31&band_rank=6&Refer=top)<br />
 7. [陈哲远竟然是男团出身](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%93%B2%E8%BF%9C%E7%AB%9F%E7%84%B6%E6%98%AF%E7%94%B7%E5%9B%A2%E5%87%BA%E8%BA%AB%23&t=31&band_rank=7&Refer=top)<br />
 8. [人狗合一](https://s.weibo.com/weibo?q=%E4%BA%BA%E7%8B%97%E5%90%88%E4%B8%80&t=31&band_rank=8&Refer=top)<br />
-9. [那些和经纪人结婚的艺人](https://s.weibo.com/weibo?q=%23%E9%82%A3%E4%BA%9B%E5%92%8C%E7%BB%8F%E7%BA%AA%E4%BA%BA%E7%BB%93%E5%A9%9A%E7%9A%84%E8%89%BA%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
+9. [一让在让](https://s.weibo.com/weibo?q=%E4%B8%80%E8%AE%A9%E5%9C%A8%E8%AE%A9&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
