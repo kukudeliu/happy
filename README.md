@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 19:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 19:15:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [女子找工作政审发现自己被坐过牢](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%89%BE%E5%B7%A5%E4%BD%9C%E6%94%BF%E5%AE%A1%E5%8F%91%E7%8E%B0%E8%87%AA%E5%B7%B1%E8%A2%AB%E5%9D%90%E8%BF%87%E7%89%A2%23&t=31&band_rank=6&Refer=top)<br />
 7. [花千骨2已备案](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%8D%83%E9%AA%A82%E5%B7%B2%E5%A4%87%E6%A1%88%23&t=31&band_rank=7&Refer=top)<br />
 8. [专家不建议选专业首要考虑挣多少钱](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E4%B8%8D%E5%BB%BA%E8%AE%AE%E9%80%89%E4%B8%93%E4%B8%9A%E9%A6%96%E8%A6%81%E8%80%83%E8%99%91%E6%8C%A3%E5%A4%9A%E5%B0%91%E9%92%B1%23&t=31&band_rank=8&Refer=top)<br />
-9. [上海游泳馆设女性专用泳道](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%B8%B8%E6%B3%B3%E9%A6%86%E8%AE%BE%E5%A5%B3%E6%80%A7%E4%B8%93%E7%94%A8%E6%B3%B3%E9%81%93%23&t=31&band_rank=9&Refer=top)<br />
+9. [内娱男演员五大系](https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E7%94%B7%E6%BC%94%E5%91%98%E4%BA%94%E5%A4%A7%E7%B3%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -21,7 +21,7 @@
 5. [30  个同学聚餐让每人出  1000  元，毕业后你会去同学聚会吗？](https://www.zhihu.com/question/607992752)<br />
 6. [高考数学改卷写一个「解」字都有一分是真的吗？](https://www.zhihu.com/question/605608237)<br />
 7. [俄国防部称「瓦格纳将向军队移交重型武器，俄方取消了瓦格纳武装『叛变』的刑事案件」，如何评价这一进展？](https://www.zhihu.com/question/608972289)<br />
-8. [京津冀等局地或达 40℃，高温让空调卖爆了，经销商称工人紧缺，下单要等几天才能安装，哪些信息值得关注？](https://www.zhihu.com/question/608921052)<br />
+8. [德国反对欧盟用俄被冻结资产帮乌重建，如何看待此事？](https://www.zhihu.com/question/608894809)<br />
 9. [一季度全国结婚登记同比增加 4 万对，离婚多了 12 万对，这反映出什么社会现象，由哪些原因导致？](https://www.zhihu.com/question/608857761)<br />
 
 > 百度  
