@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 00:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 00:29:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [喜茶、奈雪为何又不香了？](https://www.baidu.com/s?wd=%E5%96%9C%E8%8C%B6%E3%80%81%E5%A5%88%E9%9B%AA%E4%B8%BA%E4%BD%95%E5%8F%88%E4%B8%8D%E9%A6%99%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [普京:过去1年向瓦格纳提供860亿卢布](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%3A%E8%BF%87%E5%8E%BB1%E5%B9%B4%E5%90%91%E7%93%A6%E6%A0%BC%E7%BA%B3%E6%8F%90%E4%BE%9B860%E4%BA%BF%E5%8D%A2%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [媒体:出轨他人妻子的高校领导被免职](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%3A%E5%87%BA%E8%BD%A8%E4%BB%96%E4%BA%BA%E5%A6%BB%E5%AD%90%E7%9A%84%E9%AB%98%E6%A0%A1%E9%A2%86%E5%AF%BC%E8%A2%AB%E5%85%8D%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [周杰伦昆凌见证萧敬腾求婚现场](https://www.baidu.com/s?wd=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%98%86%E5%87%8C%E8%A7%81%E8%AF%81%E8%90%A7%E6%95%AC%E8%85%BE%E6%B1%82%E5%A9%9A%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [王俊凯父母奶茶店因合同纠纷被诉](https://www.baidu.com/s?wd=%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%88%B6%E6%AF%8D%E5%A5%B6%E8%8C%B6%E5%BA%97%E5%9B%A0%E5%90%88%E5%90%8C%E7%BA%A0%E7%BA%B7%E8%A2%AB%E8%AF%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [喜茶、奈雪为何又不香了？](https://www.baidu.com/s?wd=%E5%96%9C%E8%8C%B6%E3%80%81%E5%A5%88%E9%9B%AA%E4%B8%BA%E4%BD%95%E5%8F%88%E4%B8%8D%E9%A6%99%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [普京:过去1年向瓦格纳提供860亿卢布](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%3A%E8%BF%87%E5%8E%BB1%E5%B9%B4%E5%90%91%E7%93%A6%E6%A0%BC%E7%BA%B3%E6%8F%90%E4%BE%9B860%E4%BA%BF%E5%8D%A2%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [媒体:出轨他人妻子的高校领导被免职](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%3A%E5%87%BA%E8%BD%A8%E4%BB%96%E4%BA%BA%E5%A6%BB%E5%AD%90%E7%9A%84%E9%AB%98%E6%A0%A1%E9%A2%86%E5%AF%BC%E8%A2%AB%E5%85%8D%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [周杰伦昆凌见证萧敬腾求婚现场](https://www.baidu.com/s?wd=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%98%86%E5%87%8C%E8%A7%81%E8%AF%81%E8%90%A7%E6%95%AC%E8%85%BE%E6%B1%82%E5%A9%9A%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [王俊凯父母奶茶店因合同纠纷被诉](https://www.baidu.com/s?wd=%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%88%B6%E6%AF%8D%E5%A5%B6%E8%8C%B6%E5%BA%97%E5%9B%A0%E5%90%88%E5%90%8C%E7%BA%A0%E7%BA%B7%E8%A2%AB%E8%AF%89&sa=fyb_news&rsv_dl=fyb_news)<br />
