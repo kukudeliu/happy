@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 13:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 13:29:02</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [这个夏天，你的城市有哪些迷人好去处？](https://www.zhihu.com/xen/market/ecom-page/1654546294394523648)<br />
 6. [31 岁 J 罗无球可踢仍未找到下家，身价巅峰 8000 万仅剩 600 万欧，如何评价他的职业生涯？](https://www.zhihu.com/question/608892681)<br />
 7. [游戏设计中，主角面对体型巨大的敌人，如何避免「修脚趾」式的对决？](https://www.zhihu.com/question/604068086)<br />
-8. [警方通报男童被打后跳下 5 楼，「男童多处骨折，肺部挫伤」，有哪些信息值得关注？](https://www.zhihu.com/question/608832311)<br />
-9. [如何看待 2023 年新高考一卷浙江高考分数线?](https://www.zhihu.com/question/608590594)<br />
+8. [如何看待 2023 年新高考一卷浙江高考分数线?](https://www.zhihu.com/question/608590594)<br />
+9. [警方通报男童被打后跳下 5 楼，「男童多处骨折，肺部挫伤」，有哪些信息值得关注？](https://www.zhihu.com/question/608832311)<br />
 
 > 百度  
 
@@ -34,7 +34,7 @@
 6. [运毒女子连续怀孕欲逃避刑罚](https://www.baidu.com/s?wd=%E8%BF%90%E6%AF%92%E5%A5%B3%E5%AD%90%E8%BF%9E%E7%BB%AD%E6%80%80%E5%AD%95%E6%AC%B2%E9%80%83%E9%81%BF%E5%88%91%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [老乡鸡为玩梗蔡徐坤道歉](https://www.baidu.com/s?wd=%E8%80%81%E4%B9%A1%E9%B8%A1%E4%B8%BA%E7%8E%A9%E6%A2%97%E8%94%A1%E5%BE%90%E5%9D%A4%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [杨澜公司被冻结270万财产](https://www.baidu.com/s?wd=%E6%9D%A8%E6%BE%9C%E5%85%AC%E5%8F%B8%E8%A2%AB%E5%86%BB%E7%BB%93270%E4%B8%87%E8%B4%A2%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [40℃高温让空调卖爆了](https://www.baidu.com/s?wd=40%E2%84%83%E9%AB%98%E6%B8%A9%E8%AE%A9%E7%A9%BA%E8%B0%83%E5%8D%96%E7%88%86%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [夫妻先后把对方送进精神病院](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%85%88%E5%90%8E%E6%8A%8A%E5%AF%B9%E6%96%B9%E9%80%81%E8%BF%9B%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [运毒女子连续怀孕欲逃避刑罚](https://www.baidu.com/s?wd=%E8%BF%90%E6%AF%92%E5%A5%B3%E5%AD%90%E8%BF%9E%E7%BB%AD%E6%80%80%E5%AD%95%E6%AC%B2%E9%80%83%E9%81%BF%E5%88%91%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [老乡鸡为玩梗蔡徐坤道歉](https://www.baidu.com/s?wd=%E8%80%81%E4%B9%A1%E9%B8%A1%E4%B8%BA%E7%8E%A9%E6%A2%97%E8%94%A1%E5%BE%90%E5%9D%A4%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [杨澜公司被冻结270万财产](https://www.baidu.com/s?wd=%E6%9D%A8%E6%BE%9C%E5%85%AC%E5%8F%B8%E8%A2%AB%E5%86%BB%E7%BB%93270%E4%B8%87%E8%B4%A2%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [40℃高温让空调卖爆了](https://www.baidu.com/s?wd=40%E2%84%83%E9%AB%98%E6%B8%A9%E8%AE%A9%E7%A9%BA%E8%B0%83%E5%8D%96%E7%88%86%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [夫妻先后把对方送进精神病院](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%85%88%E5%90%8E%E6%8A%8A%E5%AF%B9%E6%96%B9%E9%80%81%E8%BF%9B%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
