@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 18:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 18:22:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [昆凌避谈陈建州大牙事件](https://s.weibo.com/weibo?q=%23%E6%98%86%E5%87%8C%E9%81%BF%E8%B0%88%E9%99%88%E5%BB%BA%E5%B7%9E%E5%A4%A7%E7%89%99%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=4&Refer=top)<br />
 5. [上海游泳馆设女性专用泳道](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%B8%B8%E6%B3%B3%E9%A6%86%E8%AE%BE%E5%A5%B3%E6%80%A7%E4%B8%93%E7%94%A8%E6%B3%B3%E9%81%93%23&t=31&band_rank=5&Refer=top)<br />
 6. [重庆一医院被曝盒饭中吃出老鼠头](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E4%B8%80%E5%8C%BB%E9%99%A2%E8%A2%AB%E6%9B%9D%E7%9B%92%E9%A5%AD%E4%B8%AD%E5%90%83%E5%87%BA%E8%80%81%E9%BC%A0%E5%A4%B4%23&t=31&band_rank=6&Refer=top)<br />
-7. [大牙回应陈建州声明](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%89%99%E5%9B%9E%E5%BA%94%E9%99%88%E5%BB%BA%E5%B7%9E%E5%A3%B0%E6%98%8E%23&t=31&band_rank=7&Refer=top)<br />
-8. [柳智敏回应](https://s.weibo.com/weibo?q=%23%E6%9F%B3%E6%99%BA%E6%95%8F%E5%9B%9E%E5%BA%94%23&t=31&band_rank=8&Refer=top)<br />
-9. [爸爸站的梯子突然断裂孩子稳稳扶住](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E7%AB%99%E7%9A%84%E6%A2%AF%E5%AD%90%E7%AA%81%E7%84%B6%E6%96%AD%E8%A3%82%E5%AD%A9%E5%AD%90%E7%A8%B3%E7%A8%B3%E6%89%B6%E4%BD%8F%23&t=31&band_rank=9&Refer=top)<br />
+7. [爸爸站的梯子突然断裂孩子稳稳扶住](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E7%AB%99%E7%9A%84%E6%A2%AF%E5%AD%90%E7%AA%81%E7%84%B6%E6%96%AD%E8%A3%82%E5%AD%A9%E5%AD%90%E7%A8%B3%E7%A8%B3%E6%89%B6%E4%BD%8F%23&t=31&band_rank=7&Refer=top)<br />
+8. [大牙回应陈建州声明](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%89%99%E5%9B%9E%E5%BA%94%E9%99%88%E5%BB%BA%E5%B7%9E%E5%A3%B0%E6%98%8E%23&t=31&band_rank=8&Refer=top)<br />
+9. [柳智敏回应](https://s.weibo.com/weibo?q=%23%E6%9F%B3%E6%99%BA%E6%95%8F%E5%9B%9E%E5%BA%94%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
