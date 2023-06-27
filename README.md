@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 10:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 10:01:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [原来中医不让吃水果是真的](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%B8%AD%E5%8C%BB%E4%B8%8D%E8%AE%A9%E5%90%83%E6%B0%B4%E6%9E%9C%E6%98%AF%E7%9C%9F%E7%9A%84%23&t=31&band_rank=2&Refer=top)<br />
 3. [我国拟立法保障粮食安全](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E6%8B%9F%E7%AB%8B%E6%B3%95%E4%BF%9D%E9%9A%9C%E7%B2%AE%E9%A3%9F%E5%AE%89%E5%85%A8%23&t=31&band_rank=3&Refer=top)<br />
 4. [文咏珊早几年都干嘛去了](https://s.weibo.com/weibo?q=%23%E6%96%87%E5%92%8F%E7%8F%8A%E6%97%A9%E5%87%A0%E5%B9%B4%E9%83%BD%E5%B9%B2%E5%98%9B%E5%8E%BB%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
-5. [吴越 真的不是我](https://s.weibo.com/weibo?q=%E5%90%B4%E8%B6%8A%20%E7%9C%9F%E7%9A%84%E4%B8%8D%E6%98%AF%E6%88%91&t=31&band_rank=5&Refer=top)<br />
-6. [景甜内娱女菩萨](https://s.weibo.com/weibo?q=%23%E6%99%AF%E7%94%9C%E5%86%85%E5%A8%B1%E5%A5%B3%E8%8F%A9%E8%90%A8%23&t=31&band_rank=6&Refer=top)<br />
+5. [景甜内娱女菩萨](https://s.weibo.com/weibo?q=%23%E6%99%AF%E7%94%9C%E5%86%85%E5%A8%B1%E5%A5%B3%E8%8F%A9%E8%90%A8%23&t=31&band_rank=5&Refer=top)<br />
+6. [吴越 真的不是我](https://s.weibo.com/weibo?q=%E5%90%B4%E8%B6%8A%20%E7%9C%9F%E7%9A%84%E4%B8%8D%E6%98%AF%E6%88%91&t=31&band_rank=6&Refer=top)<br />
 7. [海南考生881分想报北大](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%8D%97%E8%80%83%E7%94%9F881%E5%88%86%E6%83%B3%E6%8A%A5%E5%8C%97%E5%A4%A7%23&t=31&band_rank=7&Refer=top)<br />
 8. [青岛旅游失联25岁女孩已身亡](https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B%E6%97%85%E6%B8%B8%E5%A4%B1%E8%81%9425%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%B7%B2%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
 9. [3000元化妆品用完后空瓶竟卖300元](https://s.weibo.com/weibo?q=%233000%E5%85%83%E5%8C%96%E5%A6%86%E5%93%81%E7%94%A8%E5%AE%8C%E5%90%8E%E7%A9%BA%E7%93%B6%E7%AB%9F%E5%8D%96300%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
