@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 21:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 21:24:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [周鸿祎晒清华博士录取通知书](https://www.baidu.com/s?wd=%E5%91%A8%E9%B8%BF%E7%A5%8E%E6%99%92%E6%B8%85%E5%8D%8E%E5%8D%9A%E5%A3%AB%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [内娱男演员五大系](https://www.baidu.com/s?wd=%E5%86%85%E5%A8%B1%E7%94%B7%E6%BC%94%E5%91%98%E4%BA%94%E5%A4%A7%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [差点认不出张艺兴](https://www.baidu.com/s?wd=%E5%B7%AE%E7%82%B9%E8%AE%A4%E4%B8%8D%E5%87%BA%E5%BC%A0%E8%89%BA%E5%85%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [美容院发生劫持人质致1死？警方回应](https://www.baidu.com/s?wd=%E7%BE%8E%E5%AE%B9%E9%99%A2%E5%8F%91%E7%94%9F%E5%8A%AB%E6%8C%81%E4%BA%BA%E8%B4%A8%E8%87%B41%E6%AD%BB%EF%BC%9F%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [9岁男孩跪地向新郎爸爸要出生证明](https://www.baidu.com/s?wd=9%E5%B2%81%E7%94%B7%E5%AD%A9%E8%B7%AA%E5%9C%B0%E5%90%91%E6%96%B0%E9%83%8E%E7%88%B8%E7%88%B8%E8%A6%81%E5%87%BA%E7%94%9F%E8%AF%81%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [周鸿祎晒清华博士录取通知书](https://www.baidu.com/s?wd=%E5%91%A8%E9%B8%BF%E7%A5%8E%E6%99%92%E6%B8%85%E5%8D%8E%E5%8D%9A%E5%A3%AB%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [内娱男演员五大系](https://www.baidu.com/s?wd=%E5%86%85%E5%A8%B1%E7%94%B7%E6%BC%94%E5%91%98%E4%BA%94%E5%A4%A7%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [差点认不出张艺兴](https://www.baidu.com/s?wd=%E5%B7%AE%E7%82%B9%E8%AE%A4%E4%B8%8D%E5%87%BA%E5%BC%A0%E8%89%BA%E5%85%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [美容院发生劫持人质致1死？警方回应](https://www.baidu.com/s?wd=%E7%BE%8E%E5%AE%B9%E9%99%A2%E5%8F%91%E7%94%9F%E5%8A%AB%E6%8C%81%E4%BA%BA%E8%B4%A8%E8%87%B41%E6%AD%BB%EF%BC%9F%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [9岁男孩跪地向新郎爸爸要出生证明](https://www.baidu.com/s?wd=9%E5%B2%81%E7%94%B7%E5%AD%A9%E8%B7%AA%E5%9C%B0%E5%90%91%E6%96%B0%E9%83%8E%E7%88%B8%E7%88%B8%E8%A6%81%E5%87%BA%E7%94%9F%E8%AF%81%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
