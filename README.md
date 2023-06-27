@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 20:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 20:32:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [女孩考上清华家人放烟花前向邻居报备](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E8%80%83%E4%B8%8A%E6%B8%85%E5%8D%8E%E5%AE%B6%E4%BA%BA%E6%94%BE%E7%83%9F%E8%8A%B1%E5%89%8D%E5%90%91%E9%82%BB%E5%B1%85%E6%8A%A5%E5%A4%87%23&t=31&band_rank=2&Refer=top)<br />
 3. [达沃斯在天津](https://s.weibo.com/weibo?q=%23%E8%BE%BE%E6%B2%83%E6%96%AF%E5%9C%A8%E5%A4%A9%E6%B4%A5%23&t=31&band_rank=3&Refer=top)<br />
 4. [小S曾在节目中批陈建州](https://s.weibo.com/weibo?q=%23%E5%B0%8FS%E6%9B%BE%E5%9C%A8%E8%8A%82%E7%9B%AE%E4%B8%AD%E6%89%B9%E9%99%88%E5%BB%BA%E5%B7%9E%23&t=31&band_rank=4&Refer=top)<br />
-5. [女子找工作政审发现自己被坐过牢](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%89%BE%E5%B7%A5%E4%BD%9C%E6%94%BF%E5%AE%A1%E5%8F%91%E7%8E%B0%E8%87%AA%E5%B7%B1%E8%A2%AB%E5%9D%90%E8%BF%87%E7%89%A2%23&t=31&band_rank=5&Refer=top)<br />
-6. [女儿都22岁了什么时候才能独立](https://s.weibo.com/weibo?q=%E5%A5%B3%E5%84%BF%E9%83%BD22%E5%B2%81%E4%BA%86%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E6%89%8D%E8%83%BD%E7%8B%AC%E7%AB%8B&t=31&band_rank=6&Refer=top)<br />
+5. [女儿都22岁了什么时候才能独立](https://s.weibo.com/weibo?q=%E5%A5%B3%E5%84%BF%E9%83%BD22%E5%B2%81%E4%BA%86%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E6%89%8D%E8%83%BD%E7%8B%AC%E7%AB%8B&t=31&band_rank=5&Refer=top)<br />
+6. [女子找工作政审发现自己被坐过牢](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%89%BE%E5%B7%A5%E4%BD%9C%E6%94%BF%E5%AE%A1%E5%8F%91%E7%8E%B0%E8%87%AA%E5%B7%B1%E8%A2%AB%E5%9D%90%E8%BF%87%E7%89%A2%23&t=31&band_rank=6&Refer=top)<br />
 7. [内娱男演员五大系](https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E7%94%B7%E6%BC%94%E5%91%98%E4%BA%94%E5%A4%A7%E7%B3%BB%23&t=31&band_rank=7&Refer=top)<br />
 8. [花千骨2已备案](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%8D%83%E9%AA%A82%E5%B7%B2%E5%A4%87%E6%A1%88%23&t=31&band_rank=8&Refer=top)<br />
-9. [昆凌避谈陈建州大牙事件](https://s.weibo.com/weibo?q=%23%E6%98%86%E5%87%8C%E9%81%BF%E8%B0%88%E9%99%88%E5%BB%BA%E5%B7%9E%E5%A4%A7%E7%89%99%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=9&Refer=top)<br />
+9. [上班早到了八分钟被约谈话](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E7%8F%AD%E6%97%A9%E5%88%B0%E4%BA%86%E5%85%AB%E5%88%86%E9%92%9F%E8%A2%AB%E7%BA%A6%E8%B0%88%E8%AF%9D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
