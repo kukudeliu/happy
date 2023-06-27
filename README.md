@@ -1,13 +1,13 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 09:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 09:37:01</h4></div>
 
 > 微博  
 
 1. [去医院查早孕被妈妈知道了](https://s.weibo.com/weibo?q=%23%E5%8E%BB%E5%8C%BB%E9%99%A2%E6%9F%A5%E6%97%A9%E5%AD%95%E8%A2%AB%E5%A6%88%E5%A6%88%E7%9F%A5%E9%81%93%E4%BA%86%23&t=31&band_rank=1&Refer=top)<br />
 2. [原来中医不让吃水果是真的](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%B8%AD%E5%8C%BB%E4%B8%8D%E8%AE%A9%E5%90%83%E6%B0%B4%E6%9E%9C%E6%98%AF%E7%9C%9F%E7%9A%84%23&t=31&band_rank=2&Refer=top)<br />
 3. [我国拟立法保障粮食安全](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E6%8B%9F%E7%AB%8B%E6%B3%95%E4%BF%9D%E9%9A%9C%E7%B2%AE%E9%A3%9F%E5%AE%89%E5%85%A8%23&t=31&band_rank=3&Refer=top)<br />
-4. [景甜内娱女菩萨](https://s.weibo.com/weibo?q=%23%E6%99%AF%E7%94%9C%E5%86%85%E5%A8%B1%E5%A5%B3%E8%8F%A9%E8%90%A8%23&t=31&band_rank=4&Refer=top)<br />
-5. [文咏珊早几年都干嘛去了](https://s.weibo.com/weibo?q=%23%E6%96%87%E5%92%8F%E7%8F%8A%E6%97%A9%E5%87%A0%E5%B9%B4%E9%83%BD%E5%B9%B2%E5%98%9B%E5%8E%BB%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
-6. [吴越 真的不是我](https://s.weibo.com/weibo?q=%E5%90%B4%E8%B6%8A%20%E7%9C%9F%E7%9A%84%E4%B8%8D%E6%98%AF%E6%88%91&t=31&band_rank=6&Refer=top)<br />
+4. [文咏珊早几年都干嘛去了](https://s.weibo.com/weibo?q=%23%E6%96%87%E5%92%8F%E7%8F%8A%E6%97%A9%E5%87%A0%E5%B9%B4%E9%83%BD%E5%B9%B2%E5%98%9B%E5%8E%BB%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
+5. [吴越 真的不是我](https://s.weibo.com/weibo?q=%E5%90%B4%E8%B6%8A%20%E7%9C%9F%E7%9A%84%E4%B8%8D%E6%98%AF%E6%88%91&t=31&band_rank=5&Refer=top)<br />
+6. [景甜内娱女菩萨](https://s.weibo.com/weibo?q=%23%E6%99%AF%E7%94%9C%E5%86%85%E5%A8%B1%E5%A5%B3%E8%8F%A9%E8%90%A8%23&t=31&band_rank=6&Refer=top)<br />
 7. [青岛旅游失联25岁女孩已身亡](https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B%E6%97%85%E6%B8%B8%E5%A4%B1%E8%81%9425%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%B7%B2%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=7&Refer=top)<br />
 8. [3000元化妆品用完后空瓶竟卖300元](https://s.weibo.com/weibo?q=%233000%E5%85%83%E5%8C%96%E5%A6%86%E5%93%81%E7%94%A8%E5%AE%8C%E5%90%8E%E7%A9%BA%E7%93%B6%E7%AB%9F%E5%8D%96300%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
 9. [韩国越来越多商铺设立禁儿童区](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E5%95%86%E9%93%BA%E8%AE%BE%E7%AB%8B%E7%A6%81%E5%84%BF%E7%AB%A5%E5%8C%BA&t=31&band_rank=9&Refer=top)<br />
@@ -32,9 +32,9 @@
 4. [防止跑冒滴漏 端牢中国饭碗](https://www.baidu.com/s?wd=%E9%98%B2%E6%AD%A2%E8%B7%91%E5%86%92%E6%BB%B4%E6%BC%8F+%E7%AB%AF%E7%89%A2%E4%B8%AD%E5%9B%BD%E9%A5%AD%E7%A2%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [6岁男童游泳后感染“食脑虫”](https://www.baidu.com/s?wd=6%E5%B2%81%E7%94%B7%E7%AB%A5%E6%B8%B8%E6%B3%B3%E5%90%8E%E6%84%9F%E6%9F%93%E2%80%9C%E9%A3%9F%E8%84%91%E8%99%AB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男童被教练打死 父亲：刚开课两天](https://www.baidu.com/s?wd=%E7%94%B7%E7%AB%A5%E8%A2%AB%E6%95%99%E7%BB%83%E6%89%93%E6%AD%BB+%E7%88%B6%E4%BA%B2%EF%BC%9A%E5%88%9A%E5%BC%80%E8%AF%BE%E4%B8%A4%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [景区回应“乐山大佛被卖”](https://www.baidu.com/s?wd=%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94%E2%80%9C%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B%E8%A2%AB%E5%8D%96%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [张雪峰建议报考有壁垒的专业](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%BB%BA%E8%AE%AE%E6%8A%A5%E8%80%83%E6%9C%89%E5%A3%81%E5%9E%92%E7%9A%84%E4%B8%93%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [25岁女孩青岛旅游失联后身亡](https://www.baidu.com/s?wd=25%E5%B2%81%E5%A5%B3%E5%AD%A9%E9%9D%92%E5%B2%9B%E6%97%85%E6%B8%B8%E5%A4%B1%E8%81%94%E5%90%8E%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [夫妻先后把对方送进精神病院](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%85%88%E5%90%8E%E6%8A%8A%E5%AF%B9%E6%96%B9%E9%80%81%E8%BF%9B%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [景区回应“乐山大佛被卖”](https://www.baidu.com/s?wd=%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94%E2%80%9C%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B%E8%A2%AB%E5%8D%96%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [张雪峰建议报考有壁垒的专业](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%BB%BA%E8%AE%AE%E6%8A%A5%E8%80%83%E6%9C%89%E5%A3%81%E5%9E%92%E7%9A%84%E4%B8%93%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [防止跑冒滴漏 端牢中国饭碗](https://www.baidu.com/s?wd=%E9%98%B2%E6%AD%A2%E8%B7%91%E5%86%92%E6%BB%B4%E6%BC%8F+%E7%AB%AF%E7%89%A2%E4%B8%AD%E5%9B%BD%E9%A5%AD%E7%A2%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [6岁男童游泳后感染“食脑虫”](https://www.baidu.com/s?wd=6%E5%B2%81%E7%94%B7%E7%AB%A5%E6%B8%B8%E6%B3%B3%E5%90%8E%E6%84%9F%E6%9F%93%E2%80%9C%E9%A3%9F%E8%84%91%E8%99%AB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男童被教练打死 父亲：刚开课两天](https://www.baidu.com/s?wd=%E7%94%B7%E7%AB%A5%E8%A2%AB%E6%95%99%E7%BB%83%E6%89%93%E6%AD%BB+%E7%88%B6%E4%BA%B2%EF%BC%9A%E5%88%9A%E5%BC%80%E8%AF%BE%E4%B8%A4%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [景区回应“乐山大佛被卖”](https://www.baidu.com/s?wd=%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94%E2%80%9C%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B%E8%A2%AB%E5%8D%96%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [张雪峰建议报考有壁垒的专业](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%BB%BA%E8%AE%AE%E6%8A%A5%E8%80%83%E6%9C%89%E5%A3%81%E5%9E%92%E7%9A%84%E4%B8%93%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [25岁女孩青岛旅游失联后身亡](https://www.baidu.com/s?wd=25%E5%B2%81%E5%A5%B3%E5%AD%A9%E9%9D%92%E5%B2%9B%E6%97%85%E6%B8%B8%E5%A4%B1%E8%81%94%E5%90%8E%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [夫妻先后把对方送进精神病院](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%85%88%E5%90%8E%E6%8A%8A%E5%AF%B9%E6%96%B9%E9%80%81%E8%BF%9B%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [景区回应“乐山大佛被卖”](https://www.baidu.com/s?wd=%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94%E2%80%9C%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B%E8%A2%AB%E5%8D%96%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [张雪峰建议报考有壁垒的专业](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%BB%BA%E8%AE%AE%E6%8A%A5%E8%80%83%E6%9C%89%E5%A3%81%E5%9E%92%E7%9A%84%E4%B8%93%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
