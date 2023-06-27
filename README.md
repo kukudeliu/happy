@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 12:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 12:48:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [iPhone15Pro将成主打产品](https://s.weibo.com/weibo?q=%23iPhone15Pro%E5%B0%86%E6%88%90%E4%B8%BB%E6%89%93%E4%BA%A7%E5%93%81%23&t=31&band_rank=4&Refer=top)<br />
 5. [林生斌关联公司被吊销](https://s.weibo.com/weibo?q=%23%E6%9E%97%E7%94%9F%E6%96%8C%E5%85%B3%E8%81%94%E5%85%AC%E5%8F%B8%E8%A2%AB%E5%90%8A%E9%94%80%23&t=31&band_rank=5&Refer=top)<br />
 6. [文咏珊非过没丑过](https://s.weibo.com/weibo?q=%23%E6%96%87%E5%92%8F%E7%8F%8A%E9%9D%9E%E8%BF%87%E6%B2%A1%E4%B8%91%E8%BF%87%23&t=31&band_rank=6&Refer=top)<br />
-7. [有人劝我结婚我就捧杀对方](https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%BA%BA%E5%8A%9D%E6%88%91%E7%BB%93%E5%A9%9A%E6%88%91%E5%B0%B1%E6%8D%A7%E6%9D%80%E5%AF%B9%E6%96%B9%23&t=31&band_rank=7&Refer=top)<br />
-8. [陈建州 你范范姐就很不爱这种事啊](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BB%BA%E5%B7%9E%20%E4%BD%A0%E8%8C%83%E8%8C%83%E5%A7%90%E5%B0%B1%E5%BE%88%E4%B8%8D%E7%88%B1%E8%BF%99%E7%A7%8D%E4%BA%8B%E5%95%8A%23&t=31&band_rank=8&Refer=top)<br />
-9. [男子消失的她映后影院求婚](https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E6%98%A0%E5%90%8E%E5%BD%B1%E9%99%A2%E6%B1%82%E5%A9%9A&t=31&band_rank=9&Refer=top)<br />
+7. [空姐结识男乘客染毒瘾后贩毒](https://s.weibo.com/weibo?q=%23%E7%A9%BA%E5%A7%90%E7%BB%93%E8%AF%86%E7%94%B7%E4%B9%98%E5%AE%A2%E6%9F%93%E6%AF%92%E7%98%BE%E5%90%8E%E8%B4%A9%E6%AF%92%23&t=31&band_rank=7&Refer=top)<br />
+8. [男子消失的她映后影院求婚](https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E6%98%A0%E5%90%8E%E5%BD%B1%E9%99%A2%E6%B1%82%E5%A9%9A&t=31&band_rank=8&Refer=top)<br />
+9. [有人劝我结婚我就捧杀对方](https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%BA%BA%E5%8A%9D%E6%88%91%E7%BB%93%E5%A9%9A%E6%88%91%E5%B0%B1%E6%8D%A7%E6%9D%80%E5%AF%B9%E6%96%B9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
