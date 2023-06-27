@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 22:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 23:00:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [于斌多发点](https://s.weibo.com/weibo?q=%E4%BA%8E%E6%96%8C%E5%A4%9A%E5%8F%91%E7%82%B9&t=31&band_rank=6&Refer=top)<br />
 7. [女孩考上清华家人放烟花前向邻居报备](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E8%80%83%E4%B8%8A%E6%B8%85%E5%8D%8E%E5%AE%B6%E4%BA%BA%E6%94%BE%E7%83%9F%E8%8A%B1%E5%89%8D%E5%90%91%E9%82%BB%E5%B1%85%E6%8A%A5%E5%A4%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [考经纪人证](https://s.weibo.com/weibo?q=%E8%80%83%E7%BB%8F%E7%BA%AA%E4%BA%BA%E8%AF%81&t=31&band_rank=8&Refer=top)<br />
-9. [被男子反复碾压女子已身亡](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%94%B7%E5%AD%90%E5%8F%8D%E5%A4%8D%E7%A2%BE%E5%8E%8B%E5%A5%B3%E5%AD%90%E5%B7%B2%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
+9. [仙女棒已经进化到这种程度了吗](https://s.weibo.com/weibo?q=%E4%BB%99%E5%A5%B3%E6%A3%92%E5%B7%B2%E7%BB%8F%E8%BF%9B%E5%8C%96%E5%88%B0%E8%BF%99%E7%A7%8D%E7%A8%8B%E5%BA%A6%E4%BA%86%E5%90%97&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -33,7 +33,7 @@
 5. [妈妈回应误拆档案袋女儿崩溃大吼](https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E5%9B%9E%E5%BA%94%E8%AF%AF%E6%8B%86%E6%A1%A3%E6%A1%88%E8%A2%8B%E5%A5%B3%E5%84%BF%E5%B4%A9%E6%BA%83%E5%A4%A7%E5%90%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [被男子反复碾压女子已身亡](https://www.baidu.com/s?wd=%E8%A2%AB%E7%94%B7%E5%AD%90%E5%8F%8D%E5%A4%8D%E7%A2%BE%E5%8E%8B%E5%A5%B3%E5%AD%90%E5%B7%B2%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [普京:过去1年向瓦格纳提供860亿卢布](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%3A%E8%BF%87%E5%8E%BB1%E5%B9%B4%E5%90%91%E7%93%A6%E6%A0%BC%E7%BA%B3%E6%8F%90%E4%BE%9B860%E4%BA%BF%E5%8D%A2%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [杭州女子养仓鼠脸烂成火龙果](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%A5%B3%E5%AD%90%E5%85%BB%E4%BB%93%E9%BC%A0%E8%84%B8%E7%83%82%E6%88%90%E7%81%AB%E9%BE%99%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [周鸿祎晒清华博士录取通知书](https://www.baidu.com/s?wd=%E5%91%A8%E9%B8%BF%E7%A5%8E%E6%99%92%E6%B8%85%E5%8D%8E%E5%8D%9A%E5%A3%AB%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [美亿万富翁生日当天车祸死亡](https://www.baidu.com/s?wd=%E7%BE%8E%E4%BA%BF%E4%B8%87%E5%AF%8C%E7%BF%81%E7%94%9F%E6%97%A5%E5%BD%93%E5%A4%A9%E8%BD%A6%E7%A5%B8%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [妈妈回应误拆档案袋女儿崩溃大吼](https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E5%9B%9E%E5%BA%94%E8%AF%AF%E6%8B%86%E6%A1%A3%E6%A1%88%E8%A2%8B%E5%A5%B3%E5%84%BF%E5%B4%A9%E6%BA%83%E5%A4%A7%E5%90%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [被男子反复碾压女子已身亡](https://www.baidu.com/s?wd=%E8%A2%AB%E7%94%B7%E5%AD%90%E5%8F%8D%E5%A4%8D%E7%A2%BE%E5%8E%8B%E5%A5%B3%E5%AD%90%E5%B7%B2%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [普京:过去1年向瓦格纳提供860亿卢布](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%3A%E8%BF%87%E5%8E%BB1%E5%B9%B4%E5%90%91%E7%93%A6%E6%A0%BC%E7%BA%B3%E6%8F%90%E4%BE%9B860%E4%BA%BF%E5%8D%A2%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [杭州女子养仓鼠脸烂成火龙果](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%A5%B3%E5%AD%90%E5%85%BB%E4%BB%93%E9%BC%A0%E8%84%B8%E7%83%82%E6%88%90%E7%81%AB%E9%BE%99%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [周鸿祎晒清华博士录取通知书](https://www.baidu.com/s?wd=%E5%91%A8%E9%B8%BF%E7%A5%8E%E6%99%92%E6%B8%85%E5%8D%8E%E5%8D%9A%E5%A3%AB%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [美亿万富翁生日当天车祸死亡](https://www.baidu.com/s?wd=%E7%BE%8E%E4%BA%BF%E4%B8%87%E5%AF%8C%E7%BF%81%E7%94%9F%E6%97%A5%E5%BD%93%E5%A4%A9%E8%BD%A6%E7%A5%B8%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
