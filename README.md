@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 08:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 08:28:01</h4></div>
 
 > 微博  
 
@@ -31,10 +31,10 @@
 3. [长沙同寝两考生成绩被屏蔽](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E5%90%8C%E5%AF%9D%E4%B8%A4%E8%80%83%E7%94%9F%E6%88%90%E7%BB%A9%E8%A2%AB%E5%B1%8F%E8%94%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [防止跑冒滴漏 端牢中国饭碗](https://www.baidu.com/s?wd=%E9%98%B2%E6%AD%A2%E8%B7%91%E5%86%92%E6%BB%B4%E6%BC%8F+%E7%AB%AF%E7%89%A2%E4%B8%AD%E5%9B%BD%E9%A5%AD%E7%A2%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [6岁男童游泳后感染“食脑虫”](https://www.baidu.com/s?wd=6%E5%B2%81%E7%94%B7%E7%AB%A5%E6%B8%B8%E6%B3%B3%E5%90%8E%E6%84%9F%E6%9F%93%E2%80%9C%E9%A3%9F%E8%84%91%E8%99%AB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男童被教练打死 父亲：刚开课两天](https://www.baidu.com/s?wd=%E7%94%B7%E7%AB%A5%E8%A2%AB%E6%95%99%E7%BB%83%E6%89%93%E6%AD%BB+%E7%88%B6%E4%BA%B2%EF%BC%9A%E5%88%9A%E5%BC%80%E8%AF%BE%E4%B8%A4%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [媒体：高考满屏高分是错觉和误导](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E9%AB%98%E8%80%83%E6%BB%A1%E5%B1%8F%E9%AB%98%E5%88%86%E6%98%AF%E9%94%99%E8%A7%89%E5%92%8C%E8%AF%AF%E5%AF%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [韦唯大儿子清华硕士毕业](https://www.baidu.com/s?wd=%E9%9F%A6%E5%94%AF%E5%A4%A7%E5%84%BF%E5%AD%90%E6%B8%85%E5%8D%8E%E7%A1%95%E5%A3%AB%E6%AF%95%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [16岁学生校内服毒身亡 因卖烟遭霸凌](https://www.baidu.com/s?wd=16%E5%B2%81%E5%AD%A6%E7%94%9F%E6%A0%A1%E5%86%85%E6%9C%8D%E6%AF%92%E8%BA%AB%E4%BA%A1+%E5%9B%A0%E5%8D%96%E7%83%9F%E9%81%AD%E9%9C%B8%E5%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [韦唯大儿子清华硕士毕业](https://www.baidu.com/s?wd=%E9%9F%A6%E5%94%AF%E5%A4%A7%E5%84%BF%E5%AD%90%E6%B8%85%E5%8D%8E%E7%A1%95%E5%A3%AB%E6%AF%95%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男童被教练打死 父亲：刚开课两天](https://www.baidu.com/s?wd=%E7%94%B7%E7%AB%A5%E8%A2%AB%E6%95%99%E7%BB%83%E6%89%93%E6%AD%BB+%E7%88%B6%E4%BA%B2%EF%BC%9A%E5%88%9A%E5%BC%80%E8%AF%BE%E4%B8%A4%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [16岁学生校内服毒身亡 因卖烟遭霸凌](https://www.baidu.com/s?wd=16%E5%B2%81%E5%AD%A6%E7%94%9F%E6%A0%A1%E5%86%85%E6%9C%8D%E6%AF%92%E8%BA%AB%E4%BA%A1+%E5%9B%A0%E5%8D%96%E7%83%9F%E9%81%AD%E9%9C%B8%E5%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [媒体：高考满屏高分是错觉和误导](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E9%AB%98%E8%80%83%E6%BB%A1%E5%B1%8F%E9%AB%98%E5%88%86%E6%98%AF%E9%94%99%E8%A7%89%E5%92%8C%E8%AF%AF%E5%AF%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [长沙同寝两考生成绩被屏蔽](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E5%90%8C%E5%AF%9D%E4%B8%A4%E8%80%83%E7%94%9F%E6%88%90%E7%BB%A9%E8%A2%AB%E5%B1%8F%E8%94%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [防止跑冒滴漏 端牢中国饭碗](https://www.baidu.com/s?wd=%E9%98%B2%E6%AD%A2%E8%B7%91%E5%86%92%E6%BB%B4%E6%BC%8F+%E7%AB%AF%E7%89%A2%E4%B8%AD%E5%9B%BD%E9%A5%AD%E7%A2%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [6岁男童游泳后感染“食脑虫”](https://www.baidu.com/s?wd=6%E5%B2%81%E7%94%B7%E7%AB%A5%E6%B8%B8%E6%B3%B3%E5%90%8E%E6%84%9F%E6%9F%93%E2%80%9C%E9%A3%9F%E8%84%91%E8%99%AB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男童被教练打死 父亲：刚开课两天](https://www.baidu.com/s?wd=%E7%94%B7%E7%AB%A5%E8%A2%AB%E6%95%99%E7%BB%83%E6%89%93%E6%AD%BB+%E7%88%B6%E4%BA%B2%EF%BC%9A%E5%88%9A%E5%BC%80%E8%AF%BE%E4%B8%A4%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [媒体：高考满屏高分是错觉和误导](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E9%AB%98%E8%80%83%E6%BB%A1%E5%B1%8F%E9%AB%98%E5%88%86%E6%98%AF%E9%94%99%E8%A7%89%E5%92%8C%E8%AF%AF%E5%AF%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [韦唯大儿子清华硕士毕业](https://www.baidu.com/s?wd=%E9%9F%A6%E5%94%AF%E5%A4%A7%E5%84%BF%E5%AD%90%E6%B8%85%E5%8D%8E%E7%A1%95%E5%A3%AB%E6%AF%95%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [16岁学生校内服毒身亡 因卖烟遭霸凌](https://www.baidu.com/s?wd=16%E5%B2%81%E5%AD%A6%E7%94%9F%E6%A0%A1%E5%86%85%E6%9C%8D%E6%AF%92%E8%BA%AB%E4%BA%A1+%E5%9B%A0%E5%8D%96%E7%83%9F%E9%81%AD%E9%9C%B8%E5%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [韦唯大儿子清华硕士毕业](https://www.baidu.com/s?wd=%E9%9F%A6%E5%94%AF%E5%A4%A7%E5%84%BF%E5%AD%90%E6%B8%85%E5%8D%8E%E7%A1%95%E5%A3%AB%E6%AF%95%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男童被教练打死 父亲：刚开课两天](https://www.baidu.com/s?wd=%E7%94%B7%E7%AB%A5%E8%A2%AB%E6%95%99%E7%BB%83%E6%89%93%E6%AD%BB+%E7%88%B6%E4%BA%B2%EF%BC%9A%E5%88%9A%E5%BC%80%E8%AF%BE%E4%B8%A4%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [16岁学生校内服毒身亡 因卖烟遭霸凌](https://www.baidu.com/s?wd=16%E5%B2%81%E5%AD%A6%E7%94%9F%E6%A0%A1%E5%86%85%E6%9C%8D%E6%AF%92%E8%BA%AB%E4%BA%A1+%E5%9B%A0%E5%8D%96%E7%83%9F%E9%81%AD%E9%9C%B8%E5%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [媒体：高考满屏高分是错觉和误导](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E9%AB%98%E8%80%83%E6%BB%A1%E5%B1%8F%E9%AB%98%E5%88%86%E6%98%AF%E9%94%99%E8%A7%89%E5%92%8C%E8%AF%AF%E5%AF%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
