@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 10:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 10:02:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [为什么长辈们认为汉堡、炸鸡是垃圾食品，而粽子、面条、馒头、烧卖、米饭、汤圆、饺子、油条、月饼却不是？](https://www.zhihu.com/question/607811217)<br />
 6. [可以展示一下你的文玩吗？](https://www.zhihu.com/question/56595005)<br />
 7. [《云顶之弈》选「静水监狱」应该被骂吗？](https://www.zhihu.com/question/608552596)<br />
-8. [韩外长称没理由与中国「结怨交恶」，外交部回应「中韩关系稳定发展符合双方利益」，如何看待韩方态度的转变？](https://www.zhihu.com/question/608737881)<br />
-9. [为什么杨过的玄铁重剑熔的刀叫屠龙刀？](https://www.zhihu.com/question/608706254)<br />
+8. [为什么杨过的玄铁重剑熔的刀叫屠龙刀？](https://www.zhihu.com/question/608706254)<br />
+9. [假如有两个按钮，只能按一次，「按钮 A 立即获得 9999 元，按钮 B 有万分之一的可能获得一亿元」，你按哪个？](https://www.zhihu.com/question/607822207)<br />
 
 > 百度  
 
