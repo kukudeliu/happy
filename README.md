@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 18:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 18:15:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [如何看待《原神》可莉新皮肤改变原设引争议，你有哪些看法？](https://www.zhihu.com/question/608581381)<br />
 5. [ChatGPT 访问量增速大降，6 月环比增长率可能为负数，科技股资金大幅外流，AI 热潮熄火了吗？](https://www.zhihu.com/question/608894843)<br />
 6. [30  个同学聚餐让每人出  1000  元，毕业后你会去同学聚会吗？](https://www.zhihu.com/question/607992752)<br />
-7. [挑狗时如何看性格？](https://www.zhihu.com/question/607558718)<br />
-8. [德国反对欧盟用俄被冻结资产帮乌重建，如何看待此事？](https://www.zhihu.com/question/608894809)<br />
-9. [高考数学改卷写一个「解」字都有一分是真的吗？](https://www.zhihu.com/question/605608237)<br />
+7. [德国反对欧盟用俄被冻结资产帮乌重建，如何看待此事？](https://www.zhihu.com/question/608894809)<br />
+8. [高考数学改卷写一个「解」字都有一分是真的吗？](https://www.zhihu.com/question/605608237)<br />
+9. [男孩遭家人棍打后跳下五楼，官方回应「系家庭矛盾导致，孩子双腿骨折」，家长是否会面临处罚？](https://www.zhihu.com/question/608827621)<br />
 
 > 百度  
 
