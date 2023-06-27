@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 21:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 21:41:01</h4></div>
 
 > 微博  
 
@@ -7,15 +7,15 @@
 3. [达沃斯在天津](https://s.weibo.com/weibo?q=%23%E8%BE%BE%E6%B2%83%E6%96%AF%E5%9C%A8%E5%A4%A9%E6%B4%A5%23&t=31&band_rank=3&Refer=top)<br />
 4. [肖战王一博早期吃火锅视频](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%97%A9%E6%9C%9F%E5%90%83%E7%81%AB%E9%94%85%E8%A7%86%E9%A2%91%23&t=31&band_rank=4&Refer=top)<br />
 5. [于斌多发点](https://s.weibo.com/weibo?q=%E4%BA%8E%E6%96%8C%E5%A4%9A%E5%8F%91%E7%82%B9&t=31&band_rank=5&Refer=top)<br />
-6. [仙女棒已经进化到这种程度了吗](https://s.weibo.com/weibo?q=%E4%BB%99%E5%A5%B3%E6%A3%92%E5%B7%B2%E7%BB%8F%E8%BF%9B%E5%8C%96%E5%88%B0%E8%BF%99%E7%A7%8D%E7%A8%8B%E5%BA%A6%E4%BA%86%E5%90%97&t=31&band_rank=6&Refer=top)<br />
-7. [周鸿祎被清华录取](https://s.weibo.com/weibo?q=%23%E5%91%A8%E9%B8%BF%E7%A5%8E%E8%A2%AB%E6%B8%85%E5%8D%8E%E5%BD%95%E5%8F%96%23&t=31&band_rank=7&Refer=top)<br />
+6. [周鸿祎被清华录取](https://s.weibo.com/weibo?q=%23%E5%91%A8%E9%B8%BF%E7%A5%8E%E8%A2%AB%E6%B8%85%E5%8D%8E%E5%BD%95%E5%8F%96%23&t=31&band_rank=6&Refer=top)<br />
+7. [仙女棒已经进化到这种程度了吗](https://s.weibo.com/weibo?q=%E4%BB%99%E5%A5%B3%E6%A3%92%E5%B7%B2%E7%BB%8F%E8%BF%9B%E5%8C%96%E5%88%B0%E8%BF%99%E7%A7%8D%E7%A8%8B%E5%BA%A6%E4%BA%86%E5%90%97&t=31&band_rank=7&Refer=top)<br />
 8. [考经纪人证](https://s.weibo.com/weibo?q=%E8%80%83%E7%BB%8F%E7%BA%AA%E4%BA%BA%E8%AF%81&t=31&band_rank=8&Refer=top)<br />
 9. [女儿都22岁了什么时候才能独立](https://s.weibo.com/weibo?q=%E5%A5%B3%E5%84%BF%E9%83%BD22%E5%B2%81%E4%BA%86%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E6%89%8D%E8%83%BD%E7%8B%AC%E7%AB%8B&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
-1. [为什么长辈们认为汉堡、炸鸡是垃圾食品，而粽子、面条、馒头、烧卖、米饭、汤圆、饺子、油条、月饼却不是？](https://www.zhihu.com/question/607811217)<br />
-2. [调休制定参与者建议重新考虑政策，称「目前大家普遍不满意」，如何看待此事？你支持调休吗？](https://www.zhihu.com/question/608431520)<br />
+1. [调休制定参与者建议重新考虑政策，称「目前大家普遍不满意」，如何看待此事？你支持调休吗？](https://www.zhihu.com/question/608431520)<br />
+2. [为什么长辈们认为汉堡、炸鸡是垃圾食品，而粽子、面条、馒头、烧卖、米饭、汤圆、饺子、油条、月饼却不是？](https://www.zhihu.com/question/607811217)<br />
 3. [女子称在医院食堂吃魔芋鸭子「有疑似鼠头物」，医院工作人员称「确实是鼠头，正在调查」，哪些信息值得关注？](https://www.zhihu.com/question/608996249)<br />
 4. [俄国防部称「瓦格纳将向军队移交重型武器，俄方取消了瓦格纳武装『叛变』的刑事案件」，如何评价这一进展？](https://www.zhihu.com/question/608972289)<br />
 5. [新能源车减免购置税再延长，现在买插混还是纯电更合适？](https://www.zhihu.com/theater/28658)<br />
@@ -26,7 +26,7 @@
 
 > 百度  
 
-1. [千方百计拓宽农民增收致富渠道](https://www.baidu.com/s?wd=%E5%8D%83%E6%96%B9%E7%99%BE%E8%AE%A1%E6%8B%93%E5%AE%BD%E5%86%9C%E6%B0%91%E5%A2%9E%E6%94%B6%E8%87%B4%E5%AF%8C%E6%B8%A0%E9%81%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [“千万工程”开启未来乡村新实践](https://www.baidu.com/s?wd=%E2%80%9C%E5%8D%83%E4%B8%87%E5%B7%A5%E7%A8%8B%E2%80%9D%E5%BC%80%E5%90%AF%E6%9C%AA%E6%9D%A5%E4%B9%A1%E6%9D%91%E6%96%B0%E5%AE%9E%E8%B7%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [官方：重庆一医院食堂异物确为鼠头](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%EF%BC%9A%E9%87%8D%E5%BA%86%E4%B8%80%E5%8C%BB%E9%99%A2%E9%A3%9F%E5%A0%82%E5%BC%82%E7%89%A9%E7%A1%AE%E4%B8%BA%E9%BC%A0%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [萧敬腾官宣向经纪人求婚成功](https://www.baidu.com/s?wd=%E8%90%A7%E6%95%AC%E8%85%BE%E5%AE%98%E5%AE%A3%E5%90%91%E7%BB%8F%E7%BA%AA%E4%BA%BA%E6%B1%82%E5%A9%9A%E6%88%90%E5%8A%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [爱国主义教育法草案首次提请审议](https://www.baidu.com/s?wd=%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89%E6%95%99%E8%82%B2%E6%B3%95%E8%8D%89%E6%A1%88%E9%A6%96%E6%AC%A1%E6%8F%90%E8%AF%B7%E5%AE%A1%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -38,7 +38,7 @@
 
 > 哔哩哔哩  
 
-1. [千方百计拓宽农民增收致富渠道](https://www.baidu.com/s?wd=%E5%8D%83%E6%96%B9%E7%99%BE%E8%AE%A1%E6%8B%93%E5%AE%BD%E5%86%9C%E6%B0%91%E5%A2%9E%E6%94%B6%E8%87%B4%E5%AF%8C%E6%B8%A0%E9%81%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [“千万工程”开启未来乡村新实践](https://www.baidu.com/s?wd=%E2%80%9C%E5%8D%83%E4%B8%87%E5%B7%A5%E7%A8%8B%E2%80%9D%E5%BC%80%E5%90%AF%E6%9C%AA%E6%9D%A5%E4%B9%A1%E6%9D%91%E6%96%B0%E5%AE%9E%E8%B7%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [官方：重庆一医院食堂异物确为鼠头](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%EF%BC%9A%E9%87%8D%E5%BA%86%E4%B8%80%E5%8C%BB%E9%99%A2%E9%A3%9F%E5%A0%82%E5%BC%82%E7%89%A9%E7%A1%AE%E4%B8%BA%E9%BC%A0%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [萧敬腾官宣向经纪人求婚成功](https://www.baidu.com/s?wd=%E8%90%A7%E6%95%AC%E8%85%BE%E5%AE%98%E5%AE%A3%E5%90%91%E7%BB%8F%E7%BA%AA%E4%BA%BA%E6%B1%82%E5%A9%9A%E6%88%90%E5%8A%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [爱国主义教育法草案首次提请审议](https://www.baidu.com/s?wd=%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89%E6%95%99%E8%82%B2%E6%B3%95%E8%8D%89%E6%A1%88%E9%A6%96%E6%AC%A1%E6%8F%90%E8%AF%B7%E5%AE%A1%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
