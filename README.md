@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 19:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 19:17:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [爸爸站的梯子突然断裂孩子稳稳扶住](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E7%AB%99%E7%9A%84%E6%A2%AF%E5%AD%90%E7%AA%81%E7%84%B6%E6%96%AD%E8%A3%82%E5%AD%A9%E5%AD%90%E7%A8%B3%E7%A8%B3%E6%89%B6%E4%BD%8F%23&t=31&band_rank=5&Refer=top)<br />
 6. [女子找工作政审发现自己被坐过牢](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%89%BE%E5%B7%A5%E4%BD%9C%E6%94%BF%E5%AE%A1%E5%8F%91%E7%8E%B0%E8%87%AA%E5%B7%B1%E8%A2%AB%E5%9D%90%E8%BF%87%E7%89%A2%23&t=31&band_rank=6&Refer=top)<br />
 7. [花千骨2已备案](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%8D%83%E9%AA%A82%E5%B7%B2%E5%A4%87%E6%A1%88%23&t=31&band_rank=7&Refer=top)<br />
-8. [专家不建议选专业首要考虑挣多少钱](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E4%B8%8D%E5%BB%BA%E8%AE%AE%E9%80%89%E4%B8%93%E4%B8%9A%E9%A6%96%E8%A6%81%E8%80%83%E8%99%91%E6%8C%A3%E5%A4%9A%E5%B0%91%E9%92%B1%23&t=31&band_rank=8&Refer=top)<br />
-9. [内娱男演员五大系](https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E7%94%B7%E6%BC%94%E5%91%98%E4%BA%94%E5%A4%A7%E7%B3%BB%23&t=31&band_rank=9&Refer=top)<br />
+8. [沈阳一洗浴中心回应租赁爸爸服务](https://s.weibo.com/weibo?q=%23%E6%B2%88%E9%98%B3%E4%B8%80%E6%B4%97%E6%B5%B4%E4%B8%AD%E5%BF%83%E5%9B%9E%E5%BA%94%E7%A7%9F%E8%B5%81%E7%88%B8%E7%88%B8%E6%9C%8D%E5%8A%A1%23&t=31&band_rank=8&Refer=top)<br />
+9. [专家不建议选专业首要考虑挣多少钱](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E4%B8%8D%E5%BB%BA%E8%AE%AE%E9%80%89%E4%B8%93%E4%B8%9A%E9%A6%96%E8%A6%81%E8%80%83%E8%99%91%E6%8C%A3%E5%A4%9A%E5%B0%91%E9%92%B1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
