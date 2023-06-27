@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 21:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 21:38:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [仙女棒已经进化到这种程度了吗](https://s.weibo.com/weibo?q=%E4%BB%99%E5%A5%B3%E6%A3%92%E5%B7%B2%E7%BB%8F%E8%BF%9B%E5%8C%96%E5%88%B0%E8%BF%99%E7%A7%8D%E7%A8%8B%E5%BA%A6%E4%BA%86%E5%90%97&t=31&band_rank=6&Refer=top)<br />
 7. [女儿都22岁了什么时候才能独立](https://s.weibo.com/weibo?q=%E5%A5%B3%E5%84%BF%E9%83%BD22%E5%B2%81%E4%BA%86%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E6%89%8D%E8%83%BD%E7%8B%AC%E7%AB%8B&t=31&band_rank=7&Refer=top)<br />
 8. [女孩考上清华家人放烟花前向邻居报备](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E8%80%83%E4%B8%8A%E6%B8%85%E5%8D%8E%E5%AE%B6%E4%BA%BA%E6%94%BE%E7%83%9F%E8%8A%B1%E5%89%8D%E5%90%91%E9%82%BB%E5%B1%85%E6%8A%A5%E5%A4%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [重庆一医院被曝盒饭中吃出老鼠头](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E4%B8%80%E5%8C%BB%E9%99%A2%E8%A2%AB%E6%9B%9D%E7%9B%92%E9%A5%AD%E4%B8%AD%E5%90%83%E5%87%BA%E8%80%81%E9%BC%A0%E5%A4%B4%23&t=31&band_rank=9&Refer=top)<br />
+9. [周鸿祎被清华录取](https://s.weibo.com/weibo?q=%23%E5%91%A8%E9%B8%BF%E7%A5%8E%E8%A2%AB%E6%B8%85%E5%8D%8E%E5%BD%95%E5%8F%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -18,7 +18,7 @@
 2. [调休制定参与者建议重新考虑政策，称「目前大家普遍不满意」，如何看待此事？你支持调休吗？](https://www.zhihu.com/question/608431520)<br />
 3. [女子称在医院食堂吃魔芋鸭子「有疑似鼠头物」，医院工作人员称「确实是鼠头，正在调查」，哪些信息值得关注？](https://www.zhihu.com/question/608996249)<br />
 4. [俄国防部称「瓦格纳将向军队移交重型武器，俄方取消了瓦格纳武装『叛变』的刑事案件」，如何评价这一进展？](https://www.zhihu.com/question/608972289)<br />
-5. [新能源车减免购置税延长到 2027 年，现在买车和三年后买一样吗？](https://www.zhihu.com/theater/28658)<br />
+5. [新能源车减免购置税再延长，现在买插混还是纯电更合适？](https://www.zhihu.com/theater/28658)<br />
 6. [网传新版《新华字典》删「倭寇」一词，媒体调查称假消息，具体情况如何？](https://www.zhihu.com/question/609002775)<br />
 7. [马克龙接受美媒采访时称「法国愿意让中国融入全球秩序、更独立自主的欧洲很重要」，如何解读其表态？](https://www.zhihu.com/question/608830423)<br />
 8. [为什么马拉松有半马，四分之一马，但是没有二倍马，四倍马？](https://www.zhihu.com/question/607606021)<br />
