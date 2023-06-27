@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 19:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 19:07:01</h4></div>
 
 > 微博  
 
 1. [重庆一医院被曝盒饭中吃出老鼠头](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E4%B8%80%E5%8C%BB%E9%99%A2%E8%A2%AB%E6%9B%9D%E7%9B%92%E9%A5%AD%E4%B8%AD%E5%90%83%E5%87%BA%E8%80%81%E9%BC%A0%E5%A4%B4%23&t=31&band_rank=1&Refer=top)<br />
-2. [爸爸站的梯子突然断裂孩子稳稳扶住](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E7%AB%99%E7%9A%84%E6%A2%AF%E5%AD%90%E7%AA%81%E7%84%B6%E6%96%AD%E8%A3%82%E5%AD%A9%E5%AD%90%E7%A8%B3%E7%A8%B3%E6%89%B6%E4%BD%8F%23&t=31&band_rank=2&Refer=top)<br />
+2. [女孩在3厘米珠子内反手作画](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%9C%A83%E5%8E%98%E7%B1%B3%E7%8F%A0%E5%AD%90%E5%86%85%E5%8F%8D%E6%89%8B%E4%BD%9C%E7%94%BB%23&t=31&band_rank=2&Refer=top)<br />
 3. [达沃斯在天津](https://s.weibo.com/weibo?q=%23%E8%BE%BE%E6%B2%83%E6%96%AF%E5%9C%A8%E5%A4%A9%E6%B4%A5%23&t=31&band_rank=3&Refer=top)<br />
 4. [昆凌避谈陈建州大牙事件](https://s.weibo.com/weibo?q=%23%E6%98%86%E5%87%8C%E9%81%BF%E8%B0%88%E9%99%88%E5%BB%BA%E5%B7%9E%E5%A4%A7%E7%89%99%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=4&Refer=top)<br />
-5. [女孩在3厘米珠子内反手作画](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%9C%A83%E5%8E%98%E7%B1%B3%E7%8F%A0%E5%AD%90%E5%86%85%E5%8F%8D%E6%89%8B%E4%BD%9C%E7%94%BB%23&t=31&band_rank=5&Refer=top)<br />
+5. [爸爸站的梯子突然断裂孩子稳稳扶住](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E7%AB%99%E7%9A%84%E6%A2%AF%E5%AD%90%E7%AA%81%E7%84%B6%E6%96%AD%E8%A3%82%E5%AD%A9%E5%AD%90%E7%A8%B3%E7%A8%B3%E6%89%B6%E4%BD%8F%23&t=31&band_rank=5&Refer=top)<br />
 6. [女子找工作政审发现自己被坐过牢](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%89%BE%E5%B7%A5%E4%BD%9C%E6%94%BF%E5%AE%A1%E5%8F%91%E7%8E%B0%E8%87%AA%E5%B7%B1%E8%A2%AB%E5%9D%90%E8%BF%87%E7%89%A2%23&t=31&band_rank=6&Refer=top)<br />
 7. [花千骨2已备案](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%8D%83%E9%AA%A82%E5%B7%B2%E5%A4%87%E6%A1%88%23&t=31&band_rank=7&Refer=top)<br />
 8. [上海游泳馆设女性专用泳道](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%B8%B8%E6%B3%B3%E9%A6%86%E8%AE%BE%E5%A5%B3%E6%80%A7%E4%B8%93%E7%94%A8%E6%B3%B3%E9%81%93%23&t=31&band_rank=8&Refer=top)<br />
