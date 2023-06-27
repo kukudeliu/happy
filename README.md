@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 18:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 18:48:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [女孩在3厘米珠子内反手作画](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%9C%A83%E5%8E%98%E7%B1%B3%E7%8F%A0%E5%AD%90%E5%86%85%E5%8F%8D%E6%89%8B%E4%BD%9C%E7%94%BB%23&t=31&band_rank=5&Refer=top)<br />
 6. [女子找工作政审发现自己被坐过牢](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%89%BE%E5%B7%A5%E4%BD%9C%E6%94%BF%E5%AE%A1%E5%8F%91%E7%8E%B0%E8%87%AA%E5%B7%B1%E8%A2%AB%E5%9D%90%E8%BF%87%E7%89%A2%23&t=31&band_rank=6&Refer=top)<br />
 7. [爸爸站的梯子突然断裂孩子稳稳扶住](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E7%AB%99%E7%9A%84%E6%A2%AF%E5%AD%90%E7%AA%81%E7%84%B6%E6%96%AD%E8%A3%82%E5%AD%A9%E5%AD%90%E7%A8%B3%E7%A8%B3%E6%89%B6%E4%BD%8F%23&t=31&band_rank=7&Refer=top)<br />
-8. [大牙回应陈建州声明](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%89%99%E5%9B%9E%E5%BA%94%E9%99%88%E5%BB%BA%E5%B7%9E%E5%A3%B0%E6%98%8E%23&t=31&band_rank=8&Refer=top)<br />
-9. [花千骨2已备案](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%8D%83%E9%AA%A82%E5%B7%B2%E5%A4%87%E6%A1%88%23&t=31&band_rank=9&Refer=top)<br />
+8. [花千骨2已备案](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%8D%83%E9%AA%A82%E5%B7%B2%E5%A4%87%E6%A1%88%23&t=31&band_rank=8&Refer=top)<br />
+9. [大牙回应陈建州声明](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%89%99%E5%9B%9E%E5%BA%94%E9%99%88%E5%BB%BA%E5%B7%9E%E5%A3%B0%E6%98%8E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -20,8 +20,8 @@
 4. [ChatGPT 访问量增速大降，6 月环比增长率可能为负数，科技股资金大幅外流，AI 热潮熄火了吗？](https://www.zhihu.com/question/608894843)<br />
 5. [30  个同学聚餐让每人出  1000  元，毕业后你会去同学聚会吗？](https://www.zhihu.com/question/607992752)<br />
 6. [高考数学改卷写一个「解」字都有一分是真的吗？](https://www.zhihu.com/question/605608237)<br />
-7. [如果你是电影《消失的她》中的李木子，你怎么尝试从深潜的牢笼中自救？](https://www.zhihu.com/question/608169334)<br />
-8. [俄国防部称「瓦格纳将向军队移交重型武器，俄方取消了瓦格纳武装『叛变』的刑事案件」，如何评价这一进展？](https://www.zhihu.com/question/608972289)<br />
+7. [俄国防部称「瓦格纳将向军队移交重型武器，俄方取消了瓦格纳武装『叛变』的刑事案件」，如何评价这一进展？](https://www.zhihu.com/question/608972289)<br />
+8. [如果你是电影《消失的她》中的李木子，你怎么尝试从深潜的牢笼中自救？](https://www.zhihu.com/question/608169334)<br />
 9. [一季度全国结婚登记同比增加 4 万对，离婚多了 12 万对，这反映出什么社会现象，由哪些原因导致？](https://www.zhihu.com/question/608857761)<br />
 
 > 百度  
