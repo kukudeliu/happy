@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 16:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 16:48:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [这个夏天，你的城市有哪些迷人好去处？](https://www.zhihu.com/xen/market/ecom-page/1654546294394523648)<br />
 6. [一季度全国结婚登记同比增加 4 万对，离婚多了 12 万对，这反映出什么社会现象，由哪些原因导致？](https://www.zhihu.com/question/608857761)<br />
 7. [ChatGPT 访问量增速大降，6 月环比增长率可能为负数，科技股资金大幅外流，AI 热潮熄火了吗？](https://www.zhihu.com/question/608894843)<br />
-8. [31 岁 J 罗无球可踢仍未找到下家，身价巅峰 8000 万仅剩 600 万欧，如何评价他的职业生涯？](https://www.zhihu.com/question/608892681)<br />
-9. [30  个同学聚餐让每人出  1000  元，毕业后你会去同学聚会吗？](https://www.zhihu.com/question/607992752)<br />
+8. [挑狗时如何看性格？](https://www.zhihu.com/question/607558718)<br />
+9. [高考数学改卷写一个「解」字都有一分是真的吗？](https://www.zhihu.com/question/605608237)<br />
 
 > 百度  
 
@@ -34,7 +34,7 @@
 6. [杭州女子养仓鼠脸烂成火龙果](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%A5%B3%E5%AD%90%E5%85%BB%E4%BB%93%E9%BC%A0%E8%84%B8%E7%83%82%E6%88%90%E7%81%AB%E9%BE%99%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [夫妻颜值差异过大被疑婚姻动机不纯](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E9%A2%9C%E5%80%BC%E5%B7%AE%E5%BC%82%E8%BF%87%E5%A4%A7%E8%A2%AB%E7%96%91%E5%A9%9A%E5%A7%BB%E5%8A%A8%E6%9C%BA%E4%B8%8D%E7%BA%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [如果人们看得见](https://www.baidu.com/s?wd=%E5%A6%82%E6%9E%9C%E4%BA%BA%E4%BB%AC%E7%9C%8B%E5%BE%97%E8%A7%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [微信文件传输助手是真人？官方回应](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%96%87%E4%BB%B6%E4%BC%A0%E8%BE%93%E5%8A%A9%E6%89%8B%E6%98%AF%E7%9C%9F%E4%BA%BA%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [荔枝季致广东人拇指成黑色](https://www.baidu.com/s?wd=%E8%8D%94%E6%9E%9D%E5%AD%A3%E8%87%B4%E5%B9%BF%E4%B8%9C%E4%BA%BA%E6%8B%87%E6%8C%87%E6%88%90%E9%BB%91%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [杭州女子养仓鼠脸烂成火龙果](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%A5%B3%E5%AD%90%E5%85%BB%E4%BB%93%E9%BC%A0%E8%84%B8%E7%83%82%E6%88%90%E7%81%AB%E9%BE%99%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [夫妻颜值差异过大被疑婚姻动机不纯](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E9%A2%9C%E5%80%BC%E5%B7%AE%E5%BC%82%E8%BF%87%E5%A4%A7%E8%A2%AB%E7%96%91%E5%A9%9A%E5%A7%BB%E5%8A%A8%E6%9C%BA%E4%B8%8D%E7%BA%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [如果人们看得见](https://www.baidu.com/s?wd=%E5%A6%82%E6%9E%9C%E4%BA%BA%E4%BB%AC%E7%9C%8B%E5%BE%97%E8%A7%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [微信文件传输助手是真人？官方回应](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%96%87%E4%BB%B6%E4%BC%A0%E8%BE%93%E5%8A%A9%E6%89%8B%E6%98%AF%E7%9C%9F%E4%BA%BA%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [荔枝季致广东人拇指成黑色](https://www.baidu.com/s?wd=%E8%8D%94%E6%9E%9D%E5%AD%A3%E8%87%B4%E5%B9%BF%E4%B8%9C%E4%BA%BA%E6%8B%87%E6%8C%87%E6%88%90%E9%BB%91%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
