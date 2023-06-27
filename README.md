@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 08:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 08:35:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [景甜内娱女菩萨](https://s.weibo.com/weibo?q=%23%E6%99%AF%E7%94%9C%E5%86%85%E5%A8%B1%E5%A5%B3%E8%8F%A9%E8%90%A8%23&t=31&band_rank=4&Refer=top)<br />
 5. [贵州一6岁男童感染食脑虫](https://s.weibo.com/weibo?q=%23%E8%B4%B5%E5%B7%9E%E4%B8%806%E5%B2%81%E7%94%B7%E7%AB%A5%E6%84%9F%E6%9F%93%E9%A3%9F%E8%84%91%E8%99%AB%23&t=31&band_rank=5&Refer=top)<br />
 6. [韩国越来越多商铺设立禁儿童区](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E5%95%86%E9%93%BA%E8%AE%BE%E7%AB%8B%E7%A6%81%E5%84%BF%E7%AB%A5%E5%8C%BA&t=31&band_rank=6&Refer=top)<br />
-7. [贬低你的亲戚都是父母惯的](https://s.weibo.com/weibo?q=%E8%B4%AC%E4%BD%8E%E4%BD%A0%E7%9A%84%E4%BA%B2%E6%88%9A%E9%83%BD%E6%98%AF%E7%88%B6%E6%AF%8D%E6%83%AF%E7%9A%84&t=31&band_rank=7&Refer=top)<br />
-8. [一定要学会主动汇报工作](https://s.weibo.com/weibo?q=%E4%B8%80%E5%AE%9A%E8%A6%81%E5%AD%A6%E4%BC%9A%E4%B8%BB%E5%8A%A8%E6%B1%87%E6%8A%A5%E5%B7%A5%E4%BD%9C&t=31&band_rank=8&Refer=top)<br />
-9. [普里戈任称瓦格纳7月1日不复存在](https://s.weibo.com/weibo?q=%23%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E7%A7%B0%E7%93%A6%E6%A0%BC%E7%BA%B37%E6%9C%881%E6%97%A5%E4%B8%8D%E5%A4%8D%E5%AD%98%E5%9C%A8%23&t=31&band_rank=9&Refer=top)<br />
+7. [原来中医不让吃水果是真的](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%B8%AD%E5%8C%BB%E4%B8%8D%E8%AE%A9%E5%90%83%E6%B0%B4%E6%9E%9C%E6%98%AF%E7%9C%9F%E7%9A%84%23&t=31&band_rank=7&Refer=top)<br />
+8. [贬低你的亲戚都是父母惯的](https://s.weibo.com/weibo?q=%E8%B4%AC%E4%BD%8E%E4%BD%A0%E7%9A%84%E4%BA%B2%E6%88%9A%E9%83%BD%E6%98%AF%E7%88%B6%E6%AF%8D%E6%83%AF%E7%9A%84&t=31&band_rank=8&Refer=top)<br />
+9. [一定要学会主动汇报工作](https://s.weibo.com/weibo?q=%E4%B8%80%E5%AE%9A%E8%A6%81%E5%AD%A6%E4%BC%9A%E4%B8%BB%E5%8A%A8%E6%B1%87%E6%8A%A5%E5%B7%A5%E4%BD%9C&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
