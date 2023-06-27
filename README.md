@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 16:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 16:21:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [调休制定参与者建议重新考虑政策，称「目前大家普遍不满意」，如何看待此事？你支持调休吗？](https://www.zhihu.com/question/608431520)<br />
 5. [这个夏天，你的城市有哪些迷人好去处？](https://www.zhihu.com/xen/market/ecom-page/1654546294394523648)<br />
 6. [一季度全国结婚登记同比增加 4 万对，离婚多了 12 万对，这反映出什么社会现象，由哪些原因导致？](https://www.zhihu.com/question/608857761)<br />
-7. [ChatGPT 访问量增速大降，6 月环比增长率可能为负数，科技股资金大幅外流，AI 热潮熄火了吗？](https://www.zhihu.com/question/608894843)<br />
-8. [媒体发文《30 多岁正当年，找工作怎么就被嫌弃了》，称收割「青春红利」不利于长远发展，该问题有解吗？](https://www.zhihu.com/question/608697850)<br />
-9. [30  个同学聚餐让每人出  1000  元，毕业后你会去同学聚会吗？](https://www.zhihu.com/question/607992752)<br />
+7. []()<br />
+8. [ChatGPT 访问量增速大降，6 月环比增长率可能为负数，科技股资金大幅外流，AI 热潮熄火了吗？](https://www.zhihu.com/question/608894843)<br />
+9. [高考数学改卷写一个「解」字都有一分是真的吗？](https://www.zhihu.com/question/605608237)<br />
 
 > 百度  
 
