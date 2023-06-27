@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 10:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 10:19:01</h4></div>
 
 > 微博  
 
 1. [原来中医不让吃水果是真的](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%B8%AD%E5%8C%BB%E4%B8%8D%E8%AE%A9%E5%90%83%E6%B0%B4%E6%9E%9C%E6%98%AF%E7%9C%9F%E7%9A%84%23&t=31&band_rank=1&Refer=top)<br />
 2. [去医院查早孕被妈妈知道了](https://s.weibo.com/weibo?q=%23%E5%8E%BB%E5%8C%BB%E9%99%A2%E6%9F%A5%E6%97%A9%E5%AD%95%E8%A2%AB%E5%A6%88%E5%A6%88%E7%9F%A5%E9%81%93%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [我国拟立法保障粮食安全](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E6%8B%9F%E7%AB%8B%E6%B3%95%E4%BF%9D%E9%9A%9C%E7%B2%AE%E9%A3%9F%E5%AE%89%E5%85%A8%23&t=31&band_rank=3&Refer=top)<br />
-4. [文咏珊早几年都干嘛去了](https://s.weibo.com/weibo?q=%23%E6%96%87%E5%92%8F%E7%8F%8A%E6%97%A9%E5%87%A0%E5%B9%B4%E9%83%BD%E5%B9%B2%E5%98%9B%E5%8E%BB%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
-5. [吴越 真的不是我](https://s.weibo.com/weibo?q=%E5%90%B4%E8%B6%8A%20%E7%9C%9F%E7%9A%84%E4%B8%8D%E6%98%AF%E6%88%91&t=31&band_rank=5&Refer=top)<br />
+4. [吴越 真的不是我](https://s.weibo.com/weibo?q=%E5%90%B4%E8%B6%8A%20%E7%9C%9F%E7%9A%84%E4%B8%8D%E6%98%AF%E6%88%91&t=31&band_rank=4&Refer=top)<br />
+5. [文咏珊早几年都干嘛去了](https://s.weibo.com/weibo?q=%23%E6%96%87%E5%92%8F%E7%8F%8A%E6%97%A9%E5%87%A0%E5%B9%B4%E9%83%BD%E5%B9%B2%E5%98%9B%E5%8E%BB%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [景甜内娱女菩萨](https://s.weibo.com/weibo?q=%23%E6%99%AF%E7%94%9C%E5%86%85%E5%A8%B1%E5%A5%B3%E8%8F%A9%E8%90%A8%23&t=31&band_rank=6&Refer=top)<br />
 7. [毕业照只有一人没被马赛克](https://s.weibo.com/weibo?q=%23%E6%AF%95%E4%B8%9A%E7%85%A7%E5%8F%AA%E6%9C%89%E4%B8%80%E4%BA%BA%E6%B2%A1%E8%A2%AB%E9%A9%AC%E8%B5%9B%E5%85%8B%23&t=31&band_rank=7&Refer=top)<br />
 8. [海南考生881分想报北大](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%8D%97%E8%80%83%E7%94%9F881%E5%88%86%E6%83%B3%E6%8A%A5%E5%8C%97%E5%A4%A7%23&t=31&band_rank=8&Refer=top)<br />
