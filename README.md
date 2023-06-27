@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 10:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 10:36:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [假如有两个按钮，只能按一次，「按钮 A 立即获得 9999 元，按钮 B 有万分之一的可能获得一亿元」，你按哪个？](https://www.zhihu.com/question/607822207)<br />
 6. [既然宇宙都有最小单位，那是不是说明圆周率是可以穷尽的？](https://www.zhihu.com/question/605591121)<br />
 7. [婚姻中双方都已经不爱对方了，一直还是在维持表面和谐，不知能坚持多久？](https://www.zhihu.com/question/603546994)<br />
-8. [可以展示一下你的文玩吗？](https://www.zhihu.com/question/56595005)<br />
-9. [中国足球，能从「村超」里学点什么?](https://www.zhihu.com/question/607108029)<br />
+8. [中国足球，能从「村超」里学点什么?](https://www.zhihu.com/question/607108029)<br />
+9. [单片机为什么能直接烧录程序？](https://www.zhihu.com/question/322309698)<br />
 
 > 百度  
 
