@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 17:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 17:57:01</h4></div>
 
 > 微博  
 
@@ -6,10 +6,10 @@
 2. [上海游泳馆设女性专用泳道](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%B8%B8%E6%B3%B3%E9%A6%86%E8%AE%BE%E5%A5%B3%E6%80%A7%E4%B8%93%E7%94%A8%E6%B3%B3%E9%81%93%23&t=31&band_rank=2&Refer=top)<br />
 3. [达沃斯在天津](https://s.weibo.com/weibo?q=%23%E8%BE%BE%E6%B2%83%E6%96%AF%E5%9C%A8%E5%A4%A9%E6%B4%A5%23&t=31&band_rank=3&Refer=top)<br />
 4. [俄罗斯称瓦格纳将向军队移交重型武器](https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E7%A7%B0%E7%93%A6%E6%A0%BC%E7%BA%B3%E5%B0%86%E5%90%91%E5%86%9B%E9%98%9F%E7%A7%BB%E4%BA%A4%E9%87%8D%E5%9E%8B%E6%AD%A6%E5%99%A8%23&t=31&band_rank=4&Refer=top)<br />
-5. [柳智敏回应](https://s.weibo.com/weibo?q=%23%E6%9F%B3%E6%99%BA%E6%95%8F%E5%9B%9E%E5%BA%94%23&t=31&band_rank=5&Refer=top)<br />
-6. [差点认不出张艺兴](https://s.weibo.com/weibo?q=%23%E5%B7%AE%E7%82%B9%E8%AE%A4%E4%B8%8D%E5%87%BA%E5%BC%A0%E8%89%BA%E5%85%B4%23&t=31&band_rank=6&Refer=top)<br />
-7. [大牙回应陈建州声明](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%89%99%E5%9B%9E%E5%BA%94%E9%99%88%E5%BB%BA%E5%B7%9E%E5%A3%B0%E6%98%8E%23&t=31&band_rank=7&Refer=top)<br />
-8. [女孩在3厘米珠子内反手作画](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%9C%A83%E5%8E%98%E7%B1%B3%E7%8F%A0%E5%AD%90%E5%86%85%E5%8F%8D%E6%89%8B%E4%BD%9C%E7%94%BB%23&t=31&band_rank=8&Refer=top)<br />
+5. [女孩在3厘米珠子内反手作画](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%9C%A83%E5%8E%98%E7%B1%B3%E7%8F%A0%E5%AD%90%E5%86%85%E5%8F%8D%E6%89%8B%E4%BD%9C%E7%94%BB%23&t=31&band_rank=5&Refer=top)<br />
+6. [柳智敏回应](https://s.weibo.com/weibo?q=%23%E6%9F%B3%E6%99%BA%E6%95%8F%E5%9B%9E%E5%BA%94%23&t=31&band_rank=6&Refer=top)<br />
+7. [差点认不出张艺兴](https://s.weibo.com/weibo?q=%23%E5%B7%AE%E7%82%B9%E8%AE%A4%E4%B8%8D%E5%87%BA%E5%BC%A0%E8%89%BA%E5%85%B4%23&t=31&band_rank=7&Refer=top)<br />
+8. [大牙回应陈建州声明](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%89%99%E5%9B%9E%E5%BA%94%E9%99%88%E5%BB%BA%E5%B7%9E%E5%A3%B0%E6%98%8E%23&t=31&band_rank=8&Refer=top)<br />
 9. [曾黎 谁说我今天像去参加婚礼了](https://s.weibo.com/weibo?q=%E6%9B%BE%E9%BB%8E%20%E8%B0%81%E8%AF%B4%E6%88%91%E4%BB%8A%E5%A4%A9%E5%83%8F%E5%8E%BB%E5%8F%82%E5%8A%A0%E5%A9%9A%E7%A4%BC%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -21,8 +21,8 @@
 5. [ChatGPT 访问量增速大降，6 月环比增长率可能为负数，科技股资金大幅外流，AI 热潮熄火了吗？](https://www.zhihu.com/question/608894843)<br />
 6. [挑狗时如何看性格？](https://www.zhihu.com/question/607558718)<br />
 7. [30  个同学聚餐让每人出  1000  元，毕业后你会去同学聚会吗？](https://www.zhihu.com/question/607992752)<br />
-8. [多地景区出现「围墙挡景」现象，游客观赏景区必须花钱买票，怎样看待这一现象？](https://www.zhihu.com/question/608710388)<br />
-9. [高考数学改卷写一个「解」字都有一分是真的吗？](https://www.zhihu.com/question/605608237)<br />
+8. [高考数学改卷写一个「解」字都有一分是真的吗？](https://www.zhihu.com/question/605608237)<br />
+9. [德国反对欧盟用俄被冻结资产帮乌重建，如何看待此事？](https://www.zhihu.com/question/608894809)<br />
 
 > 百度  
 
