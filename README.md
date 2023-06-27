@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 12:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 12:32:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [原来中医不让吃水果是真的](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%B8%AD%E5%8C%BB%E4%B8%8D%E8%AE%A9%E5%90%83%E6%B0%B4%E6%9E%9C%E6%98%AF%E7%9C%9F%E7%9A%84%23&t=31&band_rank=6&Refer=top)<br />
 7. [有人劝我结婚我就捧杀对方](https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%BA%BA%E5%8A%9D%E6%88%91%E7%BB%93%E5%A9%9A%E6%88%91%E5%B0%B1%E6%8D%A7%E6%9D%80%E5%AF%B9%E6%96%B9%23&t=31&band_rank=7&Refer=top)<br />
 8. [何非连发誓都是用假手](https://s.weibo.com/weibo?q=%23%E4%BD%95%E9%9D%9E%E8%BF%9E%E5%8F%91%E8%AA%93%E9%83%BD%E6%98%AF%E7%94%A8%E5%81%87%E6%89%8B%23&t=31&band_rank=8&Refer=top)<br />
-9. [空姐结识男乘客染毒瘾后贩毒](https://s.weibo.com/weibo?q=%23%E7%A9%BA%E5%A7%90%E7%BB%93%E8%AF%86%E7%94%B7%E4%B9%98%E5%AE%A2%E6%9F%93%E6%AF%92%E7%98%BE%E5%90%8E%E8%B4%A9%E6%AF%92%23&t=31&band_rank=9&Refer=top)<br />
+9. [毕业照只有一人没被马赛克](https://s.weibo.com/weibo?q=%23%E6%AF%95%E4%B8%9A%E7%85%A7%E5%8F%AA%E6%9C%89%E4%B8%80%E4%BA%BA%E6%B2%A1%E8%A2%AB%E9%A9%AC%E8%B5%9B%E5%85%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
