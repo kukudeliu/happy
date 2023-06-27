@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 22:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 22:40:01</h4></div>
 
 > 微博  
 
 1. [萧敬腾求婚林有慧](https://s.weibo.com/weibo?q=%23%E8%90%A7%E6%95%AC%E8%85%BE%E6%B1%82%E5%A9%9A%E6%9E%97%E6%9C%89%E6%85%A7%23&t=31&band_rank=1&Refer=top)<br />
-2. [周鸿祎被清华录取](https://s.weibo.com/weibo?q=%23%E5%91%A8%E9%B8%BF%E7%A5%8E%E8%A2%AB%E6%B8%85%E5%8D%8E%E5%BD%95%E5%8F%96%23&t=31&band_rank=2&Refer=top)<br />
+2. [被男子反复碾压女子已身亡](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%94%B7%E5%AD%90%E5%8F%8D%E5%A4%8D%E7%A2%BE%E5%8E%8B%E5%A5%B3%E5%AD%90%E5%B7%B2%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=2&Refer=top)<br />
 3. [达沃斯在天津](https://s.weibo.com/weibo?q=%23%E8%BE%BE%E6%B2%83%E6%96%AF%E5%9C%A8%E5%A4%A9%E6%B4%A5%23&t=31&band_rank=3&Refer=top)<br />
-4. [被男子反复碾压女子已身亡](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%94%B7%E5%AD%90%E5%8F%8D%E5%A4%8D%E7%A2%BE%E5%8E%8B%E5%A5%B3%E5%AD%90%E5%B7%B2%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=4&Refer=top)<br />
+4. [周鸿祎被清华录取](https://s.weibo.com/weibo?q=%23%E5%91%A8%E9%B8%BF%E7%A5%8E%E8%A2%AB%E6%B8%85%E5%8D%8E%E5%BD%95%E5%8F%96%23&t=31&band_rank=4&Refer=top)<br />
 5. [那些和经纪人结婚的艺人](https://s.weibo.com/weibo?q=%23%E9%82%A3%E4%BA%9B%E5%92%8C%E7%BB%8F%E7%BA%AA%E4%BA%BA%E7%BB%93%E5%A9%9A%E7%9A%84%E8%89%BA%E4%BA%BA%23&t=31&band_rank=5&Refer=top)<br />
 6. [于斌多发点](https://s.weibo.com/weibo?q=%E4%BA%8E%E6%96%8C%E5%A4%9A%E5%8F%91%E7%82%B9&t=31&band_rank=6&Refer=top)<br />
 7. [考经纪人证](https://s.weibo.com/weibo?q=%E8%80%83%E7%BB%8F%E7%BA%AA%E4%BA%BA%E8%AF%81&t=31&band_rank=7&Refer=top)<br />
