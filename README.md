@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 20:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 20:07:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [乌克兰和谈将于7月进行？中方回应](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E5%92%8C%E8%B0%88%E5%B0%86%E4%BA%8E7%E6%9C%88%E8%BF%9B%E8%A1%8C%EF%BC%9F%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女生毕业删除90%同学被骂有病](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E6%AF%95%E4%B8%9A%E5%88%A0%E9%99%A490%25%E5%90%8C%E5%AD%A6%E8%A2%AB%E9%AA%82%E6%9C%89%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [差点认不出张艺兴](https://www.baidu.com/s?wd=%E5%B7%AE%E7%82%B9%E8%AE%A4%E4%B8%8D%E5%87%BA%E5%BC%A0%E8%89%BA%E5%85%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [美容院发生劫持人质致1死？警方回应](https://www.baidu.com/s?wd=%E7%BE%8E%E5%AE%B9%E9%99%A2%E5%8F%91%E7%94%9F%E5%8A%AB%E6%8C%81%E4%BA%BA%E8%B4%A8%E8%87%B41%E6%AD%BB%EF%BC%9F%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女孩在3厘米珠子内反手作画](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%9C%A83%E5%8E%98%E7%B1%B3%E7%8F%A0%E5%AD%90%E5%86%85%E5%8F%8D%E6%89%8B%E4%BD%9C%E7%94%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女孩在3厘米珠子内反手作画](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%9C%A83%E5%8E%98%E7%B1%B3%E7%8F%A0%E5%AD%90%E5%86%85%E5%8F%8D%E6%89%8B%E4%BD%9C%E7%94%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [美容院发生劫持人质致1死？警方回应](https://www.baidu.com/s?wd=%E7%BE%8E%E5%AE%B9%E9%99%A2%E5%8F%91%E7%94%9F%E5%8A%AB%E6%8C%81%E4%BA%BA%E8%B4%A8%E8%87%B41%E6%AD%BB%EF%BC%9F%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [乌克兰和谈将于7月进行？中方回应](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E5%92%8C%E8%B0%88%E5%B0%86%E4%BA%8E7%E6%9C%88%E8%BF%9B%E8%A1%8C%EF%BC%9F%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女生毕业删除90%同学被骂有病](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E6%AF%95%E4%B8%9A%E5%88%A0%E9%99%A490%25%E5%90%8C%E5%AD%A6%E8%A2%AB%E9%AA%82%E6%9C%89%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [差点认不出张艺兴](https://www.baidu.com/s?wd=%E5%B7%AE%E7%82%B9%E8%AE%A4%E4%B8%8D%E5%87%BA%E5%BC%A0%E8%89%BA%E5%85%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [美容院发生劫持人质致1死？警方回应](https://www.baidu.com/s?wd=%E7%BE%8E%E5%AE%B9%E9%99%A2%E5%8F%91%E7%94%9F%E5%8A%AB%E6%8C%81%E4%BA%BA%E8%B4%A8%E8%87%B41%E6%AD%BB%EF%BC%9F%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女孩在3厘米珠子内反手作画](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%9C%A83%E5%8E%98%E7%B1%B3%E7%8F%A0%E5%AD%90%E5%86%85%E5%8F%8D%E6%89%8B%E4%BD%9C%E7%94%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女孩在3厘米珠子内反手作画](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%9C%A83%E5%8E%98%E7%B1%B3%E7%8F%A0%E5%AD%90%E5%86%85%E5%8F%8D%E6%89%8B%E4%BD%9C%E7%94%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [美容院发生劫持人质致1死？警方回应](https://www.baidu.com/s?wd=%E7%BE%8E%E5%AE%B9%E9%99%A2%E5%8F%91%E7%94%9F%E5%8A%AB%E6%8C%81%E4%BA%BA%E8%B4%A8%E8%87%B41%E6%AD%BB%EF%BC%9F%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
