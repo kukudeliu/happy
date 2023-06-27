@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 14:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 14:15:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [微信文件传输助手是真人？官方回应](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%96%87%E4%BB%B6%E4%BC%A0%E8%BE%93%E5%8A%A9%E6%89%8B%E6%98%AF%E7%9C%9F%E4%BA%BA%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [和辅警爸爸拥抱的他考了701分](https://www.baidu.com/s?wd=%E5%92%8C%E8%BE%85%E8%AD%A6%E7%88%B8%E7%88%B8%E6%8B%A5%E6%8A%B1%E7%9A%84%E4%BB%96%E8%80%83%E4%BA%86701%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [如果人们看得见](https://www.baidu.com/s?wd=%E5%A6%82%E6%9E%9C%E4%BA%BA%E4%BB%AC%E7%9C%8B%E5%BE%97%E8%A7%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [印度男子在飞机上大小便被捕](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E7%94%B7%E5%AD%90%E5%9C%A8%E9%A3%9E%E6%9C%BA%E4%B8%8A%E5%A4%A7%E5%B0%8F%E4%BE%BF%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [陈建州:你范范姐就很不爱这种事](https://www.baidu.com/s?wd=%E9%99%88%E5%BB%BA%E5%B7%9E%3A%E4%BD%A0%E8%8C%83%E8%8C%83%E5%A7%90%E5%B0%B1%E5%BE%88%E4%B8%8D%E7%88%B1%E8%BF%99%E7%A7%8D%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [微信文件传输助手是真人？官方回应](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%96%87%E4%BB%B6%E4%BC%A0%E8%BE%93%E5%8A%A9%E6%89%8B%E6%98%AF%E7%9C%9F%E4%BA%BA%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [和辅警爸爸拥抱的他考了701分](https://www.baidu.com/s?wd=%E5%92%8C%E8%BE%85%E8%AD%A6%E7%88%B8%E7%88%B8%E6%8B%A5%E6%8A%B1%E7%9A%84%E4%BB%96%E8%80%83%E4%BA%86701%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [如果人们看得见](https://www.baidu.com/s?wd=%E5%A6%82%E6%9E%9C%E4%BA%BA%E4%BB%AC%E7%9C%8B%E5%BE%97%E8%A7%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [印度男子在飞机上大小便被捕](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E7%94%B7%E5%AD%90%E5%9C%A8%E9%A3%9E%E6%9C%BA%E4%B8%8A%E5%A4%A7%E5%B0%8F%E4%BE%BF%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [陈建州:你范范姐就很不爱这种事](https://www.baidu.com/s?wd=%E9%99%88%E5%BB%BA%E5%B7%9E%3A%E4%BD%A0%E8%8C%83%E8%8C%83%E5%A7%90%E5%B0%B1%E5%BE%88%E4%B8%8D%E7%88%B1%E8%BF%99%E7%A7%8D%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
