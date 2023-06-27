@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 08:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 08:56:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [景甜内娱女菩萨](https://s.weibo.com/weibo?q=%23%E6%99%AF%E7%94%9C%E5%86%85%E5%A8%B1%E5%A5%B3%E8%8F%A9%E8%90%A8%23&t=31&band_rank=4&Refer=top)<br />
 5. [去医院查早孕被妈妈知道了](https://s.weibo.com/weibo?q=%23%E5%8E%BB%E5%8C%BB%E9%99%A2%E6%9F%A5%E6%97%A9%E5%AD%95%E8%A2%AB%E5%A6%88%E5%A6%88%E7%9F%A5%E9%81%93%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [原来中医不让吃水果是真的](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%B8%AD%E5%8C%BB%E4%B8%8D%E8%AE%A9%E5%90%83%E6%B0%B4%E6%9E%9C%E6%98%AF%E7%9C%9F%E7%9A%84%23&t=31&band_rank=6&Refer=top)<br />
-7. [韩国越来越多商铺设立禁儿童区](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E5%95%86%E9%93%BA%E8%AE%BE%E7%AB%8B%E7%A6%81%E5%84%BF%E7%AB%A5%E5%8C%BA&t=31&band_rank=7&Refer=top)<br />
-8. [文咏珊早几年都干嘛去了](https://s.weibo.com/weibo?q=%23%E6%96%87%E5%92%8F%E7%8F%8A%E6%97%A9%E5%87%A0%E5%B9%B4%E9%83%BD%E5%B9%B2%E5%98%9B%E5%8E%BB%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+7. [文咏珊早几年都干嘛去了](https://s.weibo.com/weibo?q=%23%E6%96%87%E5%92%8F%E7%8F%8A%E6%97%A9%E5%87%A0%E5%B9%B4%E9%83%BD%E5%B9%B2%E5%98%9B%E5%8E%BB%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+8. [韩国越来越多商铺设立禁儿童区](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E5%95%86%E9%93%BA%E8%AE%BE%E7%AB%8B%E7%A6%81%E5%84%BF%E7%AB%A5%E5%8C%BA&t=31&band_rank=8&Refer=top)<br />
 9. [贵州一6岁男童感染食脑虫](https://s.weibo.com/weibo?q=%23%E8%B4%B5%E5%B7%9E%E4%B8%806%E5%B2%81%E7%94%B7%E7%AB%A5%E6%84%9F%E6%9F%93%E9%A3%9F%E8%84%91%E8%99%AB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
