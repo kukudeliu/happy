@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 09:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-27 09:02:01</h4></div>
 
 > 微博  
 
-1. [青岛旅游失联25岁女孩已身亡](https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B%E6%97%85%E6%B8%B8%E5%A4%B1%E8%81%9425%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%B7%B2%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=1&Refer=top)<br />
-2. [去医院查早孕被妈妈知道了](https://s.weibo.com/weibo?q=%23%E5%8E%BB%E5%8C%BB%E9%99%A2%E6%9F%A5%E6%97%A9%E5%AD%95%E8%A2%AB%E5%A6%88%E5%A6%88%E7%9F%A5%E9%81%93%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
+1. [去医院查早孕被妈妈知道了](https://s.weibo.com/weibo?q=%23%E5%8E%BB%E5%8C%BB%E9%99%A2%E6%9F%A5%E6%97%A9%E5%AD%95%E8%A2%AB%E5%A6%88%E5%A6%88%E7%9F%A5%E9%81%93%E4%BA%86%23&t=31&band_rank=1&Refer=top)<br />
+2. [青岛旅游失联25岁女孩已身亡](https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B%E6%97%85%E6%B8%B8%E5%A4%B1%E8%81%9425%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%B7%B2%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=2&Refer=top)<br />
 3. [我国拟立法保障粮食安全](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E6%8B%9F%E7%AB%8B%E6%B3%95%E4%BF%9D%E9%9A%9C%E7%B2%AE%E9%A3%9F%E5%AE%89%E5%85%A8%23&t=31&band_rank=3&Refer=top)<br />
 4. [景甜内娱女菩萨](https://s.weibo.com/weibo?q=%23%E6%99%AF%E7%94%9C%E5%86%85%E5%A8%B1%E5%A5%B3%E8%8F%A9%E8%90%A8%23&t=31&band_rank=4&Refer=top)<br />
 5. [复旦大学回应毕业生简历衣着暴露](https://s.weibo.com/weibo?q=%23%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E6%AF%95%E4%B8%9A%E7%94%9F%E7%AE%80%E5%8E%86%E8%A1%A3%E7%9D%80%E6%9A%B4%E9%9C%B2%23&t=31&band_rank=5&Refer=top)<br />
@@ -21,8 +21,8 @@
 5. [烧烤店因亲戚孩子来店里帮忙被罚 2.5 万，官方称属「雇佣童工」，如何从法律角度解读此事？](https://www.zhihu.com/question/608695467)<br />
 6. [那些曾离开「北上广」的年轻人们，正考虑重返大城市，如今对年轻人而言，大城市还具有吸引力吗？](https://www.zhihu.com/question/608736662)<br />
 7. [可以展示一下你的文玩吗？](https://www.zhihu.com/question/56595005)<br />
-8. [为什么杨过的玄铁重剑熔的刀叫屠龙刀？](https://www.zhihu.com/question/608706254)<br />
-9. [《云顶之弈》选「静水监狱」应该被骂吗？](https://www.zhihu.com/question/608552596)<br />
+8. [为什么长辈们认为汉堡、炸鸡是垃圾食品，而粽子、面条、馒头、烧卖、米饭、汤圆、饺子、油条、月饼却不是？](https://www.zhihu.com/question/607811217)<br />
+9. [为什么杨过的玄铁重剑熔的刀叫屠龙刀？](https://www.zhihu.com/question/608706254)<br />
 
 > 百度  
 
