@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 20:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 20:49:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [高级动卧票价一站8分钟420元](https://www.baidu.com/s?wd=%E9%AB%98%E7%BA%A7%E5%8A%A8%E5%8D%A7%E7%A5%A8%E4%BB%B7%E4%B8%80%E7%AB%998%E5%88%86%E9%92%9F420%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子称30年前被强奸后遭拐卖](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B030%E5%B9%B4%E5%89%8D%E8%A2%AB%E5%BC%BA%E5%A5%B8%E5%90%8E%E9%81%AD%E6%8B%90%E5%8D%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [时隔6个月中国再现霍乱病例](https://www.baidu.com/s?wd=%E6%97%B6%E9%9A%946%E4%B8%AA%E6%9C%88%E4%B8%AD%E5%9B%BD%E5%86%8D%E7%8E%B0%E9%9C%8D%E4%B9%B1%E7%97%85%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [韩综用中国国歌做BGM](https://www.baidu.com/s?wd=%E9%9F%A9%E7%BB%BC%E7%94%A8%E4%B8%AD%E5%9B%BD%E5%9B%BD%E6%AD%8C%E5%81%9ABGM&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [警方回应女子找工作政审发现被坐牢](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E6%89%BE%E5%B7%A5%E4%BD%9C%E6%94%BF%E5%AE%A1%E5%8F%91%E7%8E%B0%E8%A2%AB%E5%9D%90%E7%89%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [高级动卧票价一站8分钟420元](https://www.baidu.com/s?wd=%E9%AB%98%E7%BA%A7%E5%8A%A8%E5%8D%A7%E7%A5%A8%E4%BB%B7%E4%B8%80%E7%AB%998%E5%88%86%E9%92%9F420%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子称30年前被强奸后遭拐卖](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B030%E5%B9%B4%E5%89%8D%E8%A2%AB%E5%BC%BA%E5%A5%B8%E5%90%8E%E9%81%AD%E6%8B%90%E5%8D%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [时隔6个月中国再现霍乱病例](https://www.baidu.com/s?wd=%E6%97%B6%E9%9A%946%E4%B8%AA%E6%9C%88%E4%B8%AD%E5%9B%BD%E5%86%8D%E7%8E%B0%E9%9C%8D%E4%B9%B1%E7%97%85%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [韩综用中国国歌做BGM](https://www.baidu.com/s?wd=%E9%9F%A9%E7%BB%BC%E7%94%A8%E4%B8%AD%E5%9B%BD%E5%9B%BD%E6%AD%8C%E5%81%9ABGM&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [警方回应女子找工作政审发现被坐牢](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E6%89%BE%E5%B7%A5%E4%BD%9C%E6%94%BF%E5%AE%A1%E5%8F%91%E7%8E%B0%E8%A2%AB%E5%9D%90%E7%89%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
