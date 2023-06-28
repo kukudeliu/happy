@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 12:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 12:25:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [萧敬腾求婚林有慧](https://s.weibo.com/weibo?q=%23%E8%90%A7%E6%95%AC%E8%85%BE%E6%B1%82%E5%A9%9A%E6%9E%97%E6%9C%89%E6%85%A7%23&t=31&band_rank=6&Refer=top)<br />
 7. [肖战加盟2023湾区升明月](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%8A%A0%E7%9B%9F2023%E6%B9%BE%E5%8C%BA%E5%8D%87%E6%98%8E%E6%9C%88%23&t=31&band_rank=7&Refer=top)<br />
 8. [日本警方逮捕一名中国籍研究员](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%AD%A6%E6%96%B9%E9%80%AE%E6%8D%95%E4%B8%80%E5%90%8D%E4%B8%AD%E5%9B%BD%E7%B1%8D%E7%A0%94%E7%A9%B6%E5%91%98%23&t=31&band_rank=8&Refer=top)<br />
-9. [七仔父母首次曝光](https://s.weibo.com/weibo?q=%23%E4%B8%83%E4%BB%94%E7%88%B6%E6%AF%8D%E9%A6%96%E6%AC%A1%E6%9B%9D%E5%85%89%23&t=31&band_rank=9&Refer=top)<br />
+9. [同事怀孕后一直请假我离职了](https://s.weibo.com/weibo?q=%23%E5%90%8C%E4%BA%8B%E6%80%80%E5%AD%95%E5%90%8E%E4%B8%80%E7%9B%B4%E8%AF%B7%E5%81%87%E6%88%91%E7%A6%BB%E8%81%8C%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
