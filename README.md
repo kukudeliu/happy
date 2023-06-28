@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 20:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 20:52:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [李沁工作室疑似因造型问题删博](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B2%81%E5%B7%A5%E4%BD%9C%E5%AE%A4%E7%96%91%E4%BC%BC%E5%9B%A0%E9%80%A0%E5%9E%8B%E9%97%AE%E9%A2%98%E5%88%A0%E5%8D%9A%23&t=31&band_rank=5&Refer=top)<br />
 6. [GQ红毯](https://s.weibo.com/weibo?q=%23GQ%E7%BA%A2%E6%AF%AF%23&t=31&band_rank=6&Refer=top)<br />
 7. [白鹿的体态](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E7%9A%84%E4%BD%93%E6%80%81%23&t=31&band_rank=7&Refer=top)<br />
-8. [大牙 这次我会勇敢法院见](https://s.weibo.com/weibo?q=%E5%A4%A7%E7%89%99%20%E8%BF%99%E6%AC%A1%E6%88%91%E4%BC%9A%E5%8B%87%E6%95%A2%E6%B3%95%E9%99%A2%E8%A7%81&t=31&band_rank=8&Refer=top)<br />
-9. [四川考生王俊凯高考699分](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E8%80%83%E7%94%9F%E7%8E%8B%E4%BF%8A%E5%87%AF%E9%AB%98%E8%80%83699%E5%88%86%23&t=31&band_rank=9&Refer=top)<br />
+8. [四川考生王俊凯高考699分](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E8%80%83%E7%94%9F%E7%8E%8B%E4%BF%8A%E5%87%AF%E9%AB%98%E8%80%83699%E5%88%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [大牙 这次我会勇敢法院见](https://s.weibo.com/weibo?q=%E5%A4%A7%E7%89%99%20%E8%BF%99%E6%AC%A1%E6%88%91%E4%BC%9A%E5%8B%87%E6%95%A2%E6%B3%95%E9%99%A2%E8%A7%81&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
