@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 18:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 18:18:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [GQ主编评价宋妍霏衣服闪瞎](https://s.weibo.com/weibo?q=%23GQ%E4%B8%BB%E7%BC%96%E8%AF%84%E4%BB%B7%E5%AE%8B%E5%A6%8D%E9%9C%8F%E8%A1%A3%E6%9C%8D%E9%97%AA%E7%9E%8E%23&t=31&band_rank=5&Refer=top)<br />
 6. [还得是李梦](https://s.weibo.com/weibo?q=%23%E8%BF%98%E5%BE%97%E6%98%AF%E6%9D%8E%E6%A2%A6%23&t=31&band_rank=6&Refer=top)<br />
 7. [00后小伙把网红蛙带到了川西](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%B0%8F%E4%BC%99%E6%8A%8A%E7%BD%91%E7%BA%A2%E8%9B%99%E5%B8%A6%E5%88%B0%E4%BA%86%E5%B7%9D%E8%A5%BF%23&t=31&band_rank=7&Refer=top)<br />
-8. [鹿晗的提词器](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E7%9A%84%E6%8F%90%E8%AF%8D%E5%99%A8%23&t=31&band_rank=8&Refer=top)<br />
-9. [SEVENTEEN的家谱这下全都乱了](https://s.weibo.com/weibo?q=%23SEVENTEEN%E7%9A%84%E5%AE%B6%E8%B0%B1%E8%BF%99%E4%B8%8B%E5%85%A8%E9%83%BD%E4%B9%B1%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+8. [SEVENTEEN的家谱这下全都乱了](https://s.weibo.com/weibo?q=%23SEVENTEEN%E7%9A%84%E5%AE%B6%E8%B0%B1%E8%BF%99%E4%B8%8B%E5%85%A8%E9%83%BD%E4%B9%B1%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [鹿晗的提词器](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E7%9A%84%E6%8F%90%E8%AF%8D%E5%99%A8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
