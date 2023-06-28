@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 19:53:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 19:54:01</h4></div>
 
 > 微博  
 
@@ -32,9 +32,9 @@
 4. [瞄准机遇，向未来出发](https://www.baidu.com/s?wd=%E7%9E%84%E5%87%86%E6%9C%BA%E9%81%87%EF%BC%8C%E5%90%91%E6%9C%AA%E6%9D%A5%E5%87%BA%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子碾死妻子因遭家暴?女方弟弟回应](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A2%BE%E6%AD%BB%E5%A6%BB%E5%AD%90%E5%9B%A0%E9%81%AD%E5%AE%B6%E6%9A%B4%3F%E5%A5%B3%E6%96%B9%E5%BC%9F%E5%BC%9F%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [韩综用中国国歌做BGM](https://www.baidu.com/s?wd=%E9%9F%A9%E7%BB%BC%E7%94%A8%E4%B8%AD%E5%9B%BD%E5%9B%BD%E6%AD%8C%E5%81%9ABGM&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [《破冰行动》原型之一被双开](https://www.baidu.com/s?wd=%E3%80%8A%E7%A0%B4%E5%86%B0%E8%A1%8C%E5%8A%A8%E3%80%8B%E5%8E%9F%E5%9E%8B%E4%B9%8B%E4%B8%80%E8%A2%AB%E5%8F%8C%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子在动车上霸座充电被行拘](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E5%8A%A8%E8%BD%A6%E4%B8%8A%E9%9C%B8%E5%BA%A7%E5%85%85%E7%94%B5%E8%A2%AB%E8%A1%8C%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [蔡徐坤巡演将如期举行](https://www.baidu.com/s?wd=%E8%94%A1%E5%BE%90%E5%9D%A4%E5%B7%A1%E6%BC%94%E5%B0%86%E5%A6%82%E6%9C%9F%E4%B8%BE%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [鹿晗演唱会社恐版提词器](https://www.baidu.com/s?wd=%E9%B9%BF%E6%99%97%E6%BC%94%E5%94%B1%E4%BC%9A%E7%A4%BE%E6%81%90%E7%89%88%E6%8F%90%E8%AF%8D%E5%99%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [《破冰行动》原型之一被双开](https://www.baidu.com/s?wd=%E3%80%8A%E7%A0%B4%E5%86%B0%E8%A1%8C%E5%8A%A8%E3%80%8B%E5%8E%9F%E5%9E%8B%E4%B9%8B%E4%B8%80%E8%A2%AB%E5%8F%8C%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [瞄准机遇，向未来出发](https://www.baidu.com/s?wd=%E7%9E%84%E5%87%86%E6%9C%BA%E9%81%87%EF%BC%8C%E5%90%91%E6%9C%AA%E6%9D%A5%E5%87%BA%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子碾死妻子因遭家暴?女方弟弟回应](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A2%BE%E6%AD%BB%E5%A6%BB%E5%AD%90%E5%9B%A0%E9%81%AD%E5%AE%B6%E6%9A%B4%3F%E5%A5%B3%E6%96%B9%E5%BC%9F%E5%BC%9F%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [韩综用中国国歌做BGM](https://www.baidu.com/s?wd=%E9%9F%A9%E7%BB%BC%E7%94%A8%E4%B8%AD%E5%9B%BD%E5%9B%BD%E6%AD%8C%E5%81%9ABGM&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [《破冰行动》原型之一被双开](https://www.baidu.com/s?wd=%E3%80%8A%E7%A0%B4%E5%86%B0%E8%A1%8C%E5%8A%A8%E3%80%8B%E5%8E%9F%E5%9E%8B%E4%B9%8B%E4%B8%80%E8%A2%AB%E5%8F%8C%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子在动车上霸座充电被行拘](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E5%8A%A8%E8%BD%A6%E4%B8%8A%E9%9C%B8%E5%BA%A7%E5%85%85%E7%94%B5%E8%A2%AB%E8%A1%8C%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [蔡徐坤巡演将如期举行](https://www.baidu.com/s?wd=%E8%94%A1%E5%BE%90%E5%9D%A4%E5%B7%A1%E6%BC%94%E5%B0%86%E5%A6%82%E6%9C%9F%E4%B8%BE%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [鹿晗演唱会社恐版提词器](https://www.baidu.com/s?wd=%E9%B9%BF%E6%99%97%E6%BC%94%E5%94%B1%E4%BC%9A%E7%A4%BE%E6%81%90%E7%89%88%E6%8F%90%E8%AF%8D%E5%99%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [《破冰行动》原型之一被双开](https://www.baidu.com/s?wd=%E3%80%8A%E7%A0%B4%E5%86%B0%E8%A1%8C%E5%8A%A8%E3%80%8B%E5%8E%9F%E5%9E%8B%E4%B9%8B%E4%B8%80%E8%A2%AB%E5%8F%8C%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
