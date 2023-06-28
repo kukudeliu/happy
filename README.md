@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 22:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 22:18:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [陈建州 喔这张床不可以](https://s.weibo.com/weibo?q=%E9%99%88%E5%BB%BA%E5%B7%9E%20%E5%96%94%E8%BF%99%E5%BC%A0%E5%BA%8A%E4%B8%8D%E5%8F%AF%E4%BB%A5&t=31&band_rank=4&Refer=top)<br />
 5. [美特斯邦威以3亿元出售房产自救](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E7%89%B9%E6%96%AF%E9%82%A6%E5%A8%81%E4%BB%A53%E4%BA%BF%E5%85%83%E5%87%BA%E5%94%AE%E6%88%BF%E4%BA%A7%E8%87%AA%E6%95%91%23&t=31&band_rank=5&Refer=top)<br />
 6. [Victoria还是这么美](https://s.weibo.com/weibo?q=Victoria%E8%BF%98%E6%98%AF%E8%BF%99%E4%B9%88%E7%BE%8E&t=31&band_rank=6&Refer=top)<br />
-7. [Angelababy金发芭比](https://s.weibo.com/weibo?q=Angelababy%E9%87%91%E5%8F%91%E8%8A%AD%E6%AF%94&t=31&band_rank=7&Refer=top)<br />
-8. [大牙 这次我会勇敢法院见](https://s.weibo.com/weibo?q=%E5%A4%A7%E7%89%99%20%E8%BF%99%E6%AC%A1%E6%88%91%E4%BC%9A%E5%8B%87%E6%95%A2%E6%B3%95%E9%99%A2%E8%A7%81&t=31&band_rank=8&Refer=top)<br />
-9. [四川考生王俊凯高考699分](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E8%80%83%E7%94%9F%E7%8E%8B%E4%BF%8A%E5%87%AF%E9%AB%98%E8%80%83699%E5%88%86%23&t=31&band_rank=9&Refer=top)<br />
+7. [大牙 这次我会勇敢法院见](https://s.weibo.com/weibo?q=%E5%A4%A7%E7%89%99%20%E8%BF%99%E6%AC%A1%E6%88%91%E4%BC%9A%E5%8B%87%E6%95%A2%E6%B3%95%E9%99%A2%E8%A7%81&t=31&band_rank=7&Refer=top)<br />
+8. [Angelababy金发芭比](https://s.weibo.com/weibo?q=Angelababy%E9%87%91%E5%8F%91%E8%8A%AD%E6%AF%94&t=31&band_rank=8&Refer=top)<br />
+9. [jiejie怎么了](https://s.weibo.com/weibo?q=jiejie%E6%80%8E%E4%B9%88%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
