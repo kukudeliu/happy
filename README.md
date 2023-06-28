@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 23:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 23:12:02</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [胃癌几乎都是吃出来的](https://s.weibo.com/weibo?q=%23%E8%83%83%E7%99%8C%E5%87%A0%E4%B9%8E%E9%83%BD%E6%98%AF%E5%90%83%E5%87%BA%E6%9D%A5%E7%9A%84%23&t=31&band_rank=4&Refer=top)<br />
 5. [我只穿便宜衣服但我觉得我很会买](https://s.weibo.com/weibo?q=%E6%88%91%E5%8F%AA%E7%A9%BF%E4%BE%BF%E5%AE%9C%E8%A1%A3%E6%9C%8D%E4%BD%86%E6%88%91%E8%A7%89%E5%BE%97%E6%88%91%E5%BE%88%E4%BC%9A%E4%B9%B0&t=31&band_rank=5&Refer=top)<br />
 6. [Victoria还是这么美](https://s.weibo.com/weibo?q=Victoria%E8%BF%98%E6%98%AF%E8%BF%99%E4%B9%88%E7%BE%8E&t=31&band_rank=6&Refer=top)<br />
-7. [Angelababy金发芭比](https://s.weibo.com/weibo?q=Angelababy%E9%87%91%E5%8F%91%E8%8A%AD%E6%AF%94&t=31&band_rank=7&Refer=top)<br />
-8. [李现被杨幂夸好帅的反应](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%B0%E8%A2%AB%E6%9D%A8%E5%B9%82%E5%A4%B8%E5%A5%BD%E5%B8%85%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=8&Refer=top)<br />
-9. [jiejie怎么了](https://s.weibo.com/weibo?q=jiejie%E6%80%8E%E4%B9%88%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+7. [jiejie怎么了](https://s.weibo.com/weibo?q=jiejie%E6%80%8E%E4%B9%88%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
+8. [Angelababy金发芭比](https://s.weibo.com/weibo?q=Angelababy%E9%87%91%E5%8F%91%E8%8A%AD%E6%AF%94&t=31&band_rank=8&Refer=top)<br />
+9. [李现被杨幂夸好帅的反应](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%B0%E8%A2%AB%E6%9D%A8%E5%B9%82%E5%A4%B8%E5%A5%BD%E5%B8%85%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
