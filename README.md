@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 20:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 20:09:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 2. [西安一妻子将丈夫送进精神病院，丈夫出院后又将其送进精神病院，如何看待此事？事实真相如何？](https://www.zhihu.com/question/608899147)<br />
 3. [浙江一学生毕业后删除约 90% 的同学老师，称「留着没什么用」，你会删除不常联系的人吗？](https://www.zhihu.com/question/608984327)<br />
 4. [普通农民花十几万供孩子上了一个三本的意义是什么？](https://www.zhihu.com/question/601925776)<br />
-5. [高考成绩不好要不要出国留学？学什么专业好找工作？](https://www.zhihu.com/theater/112990)<br />
+5. [海归优先职位平均薪资连续三年上涨，高出所有职位平均值 46.5%，出国留学还是好选择吗？](https://www.zhihu.com/theater/112990)<br />
 6. [教育部正式批准设立深圳职业技术大学，如何看待此事？](https://www.zhihu.com/question/608543386)<br />
 7. [外卖太贵、做饭太累，吃饭难的上班族带火「成人小饭桌」，如何看待这门生意？上班族吃饭问题何解？](https://www.zhihu.com/question/607821291)<br />
 8. [央企国企招聘「内卷」加剧，中石油综合行政岗报录比 470:1，更有清北博士参与应聘，如何看待这一现象？](https://www.zhihu.com/question/609167359)<br />
@@ -32,9 +32,9 @@
 4. [瞄准机遇，向未来出发](https://www.baidu.com/s?wd=%E7%9E%84%E5%87%86%E6%9C%BA%E9%81%87%EF%BC%8C%E5%90%91%E6%9C%AA%E6%9D%A5%E5%87%BA%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子碾死妻子因遭家暴?女方弟弟回应](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A2%BE%E6%AD%BB%E5%A6%BB%E5%AD%90%E5%9B%A0%E9%81%AD%E5%AE%B6%E6%9A%B4%3F%E5%A5%B3%E6%96%B9%E5%BC%9F%E5%BC%9F%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [韩综用中国国歌做BGM](https://www.baidu.com/s?wd=%E9%9F%A9%E7%BB%BC%E7%94%A8%E4%B8%AD%E5%9B%BD%E5%9B%BD%E6%AD%8C%E5%81%9ABGM&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [记者调查养猪场被持刀追赶](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E8%B0%83%E6%9F%A5%E5%85%BB%E7%8C%AA%E5%9C%BA%E8%A2%AB%E6%8C%81%E5%88%80%E8%BF%BD%E8%B5%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [《破冰行动》原型之一被双开](https://www.baidu.com/s?wd=%E3%80%8A%E7%A0%B4%E5%86%B0%E8%A1%8C%E5%8A%A8%E3%80%8B%E5%8E%9F%E5%9E%8B%E4%B9%8B%E4%B8%80%E8%A2%AB%E5%8F%8C%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [普京曾有意杀死普里戈任](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E6%9B%BE%E6%9C%89%E6%84%8F%E6%9D%80%E6%AD%BB%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [美媒：美方拟再对华实施芯片制裁](https://www.baidu.com/s?wd=%E7%BE%8E%E5%AA%92%EF%BC%9A%E7%BE%8E%E6%96%B9%E6%8B%9F%E5%86%8D%E5%AF%B9%E5%8D%8E%E5%AE%9E%E6%96%BD%E8%8A%AF%E7%89%87%E5%88%B6%E8%A3%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [书法家杀人后疑假跳河 帽子被捞出](https://www.baidu.com/s?wd=%E4%B9%A6%E6%B3%95%E5%AE%B6%E6%9D%80%E4%BA%BA%E5%90%8E%E7%96%91%E5%81%87%E8%B7%B3%E6%B2%B3+%E5%B8%BD%E5%AD%90%E8%A2%AB%E6%8D%9E%E5%87%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子与人冲突进饭店厨房找菜刀](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%8E%E4%BA%BA%E5%86%B2%E7%AA%81%E8%BF%9B%E9%A5%AD%E5%BA%97%E5%8E%A8%E6%88%BF%E6%89%BE%E8%8F%9C%E5%88%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [瞄准机遇，向未来出发](https://www.baidu.com/s?wd=%E7%9E%84%E5%87%86%E6%9C%BA%E9%81%87%EF%BC%8C%E5%90%91%E6%9C%AA%E6%9D%A5%E5%87%BA%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子碾死妻子因遭家暴?女方弟弟回应](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A2%BE%E6%AD%BB%E5%A6%BB%E5%AD%90%E5%9B%A0%E9%81%AD%E5%AE%B6%E6%9A%B4%3F%E5%A5%B3%E6%96%B9%E5%BC%9F%E5%BC%9F%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [韩综用中国国歌做BGM](https://www.baidu.com/s?wd=%E9%9F%A9%E7%BB%BC%E7%94%A8%E4%B8%AD%E5%9B%BD%E5%9B%BD%E6%AD%8C%E5%81%9ABGM&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [记者调查养猪场被持刀追赶](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E8%B0%83%E6%9F%A5%E5%85%BB%E7%8C%AA%E5%9C%BA%E8%A2%AB%E6%8C%81%E5%88%80%E8%BF%BD%E8%B5%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [《破冰行动》原型之一被双开](https://www.baidu.com/s?wd=%E3%80%8A%E7%A0%B4%E5%86%B0%E8%A1%8C%E5%8A%A8%E3%80%8B%E5%8E%9F%E5%9E%8B%E4%B9%8B%E4%B8%80%E8%A2%AB%E5%8F%8C%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [普京曾有意杀死普里戈任](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E6%9B%BE%E6%9C%89%E6%84%8F%E6%9D%80%E6%AD%BB%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [美媒：美方拟再对华实施芯片制裁](https://www.baidu.com/s?wd=%E7%BE%8E%E5%AA%92%EF%BC%9A%E7%BE%8E%E6%96%B9%E6%8B%9F%E5%86%8D%E5%AF%B9%E5%8D%8E%E5%AE%9E%E6%96%BD%E8%8A%AF%E7%89%87%E5%88%B6%E8%A3%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [书法家杀人后疑假跳河 帽子被捞出](https://www.baidu.com/s?wd=%E4%B9%A6%E6%B3%95%E5%AE%B6%E6%9D%80%E4%BA%BA%E5%90%8E%E7%96%91%E5%81%87%E8%B7%B3%E6%B2%B3+%E5%B8%BD%E5%AD%90%E8%A2%AB%E6%8D%9E%E5%87%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子与人冲突进饭店厨房找菜刀](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%8E%E4%BA%BA%E5%86%B2%E7%AA%81%E8%BF%9B%E9%A5%AD%E5%BA%97%E5%8E%A8%E6%88%BF%E6%89%BE%E8%8F%9C%E5%88%80&sa=fyb_news&rsv_dl=fyb_news)<br />
