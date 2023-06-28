@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 02:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 02:48:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [白鹿的体态](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E7%9A%84%E4%BD%93%E6%80%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [曝陈建州在范玮琪孕期骚扰女艺人](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E9%99%88%E5%BB%BA%E5%B7%9E%E5%9C%A8%E8%8C%83%E7%8E%AE%E7%90%AA%E5%AD%95%E6%9C%9F%E9%AA%9A%E6%89%B0%E5%A5%B3%E8%89%BA%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [胃癌几乎都是吃出来的](https://s.weibo.com/weibo?q=%23%E8%83%83%E7%99%8C%E5%87%A0%E4%B9%8E%E9%83%BD%E6%98%AF%E5%90%83%E5%87%BA%E6%9D%A5%E7%9A%84%23&t=31&band_rank=8&Refer=top)<br />
-9. [468一份的扬州炒饭有多牛](https://s.weibo.com/weibo?q=468%E4%B8%80%E4%BB%BD%E7%9A%84%E6%89%AC%E5%B7%9E%E7%82%92%E9%A5%AD%E6%9C%89%E5%A4%9A%E7%89%9B&t=31&band_rank=9&Refer=top)<br />
+9. [警方通报女子驾车冲撞男子致死](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E9%A9%BE%E8%BD%A6%E5%86%B2%E6%92%9E%E7%94%B7%E5%AD%90%E8%87%B4%E6%AD%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
