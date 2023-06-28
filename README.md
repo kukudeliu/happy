@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 22:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 22:38:02</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [胃癌几乎都是吃出来的](https://s.weibo.com/weibo?q=%23%E8%83%83%E7%99%8C%E5%87%A0%E4%B9%8E%E9%83%BD%E6%98%AF%E5%90%83%E5%87%BA%E6%9D%A5%E7%9A%84%23&t=31&band_rank=2&Refer=top)<br />
 3. [8月15日成为全国生态日](https://s.weibo.com/weibo?q=%238%E6%9C%8815%E6%97%A5%E6%88%90%E4%B8%BA%E5%85%A8%E5%9B%BD%E7%94%9F%E6%80%81%E6%97%A5%23&t=31&band_rank=3&Refer=top)<br />
 4. [李现被杨幂夸好帅的反应](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%B0%E8%A2%AB%E6%9D%A8%E5%B9%82%E5%A4%B8%E5%A5%BD%E5%B8%85%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=4&Refer=top)<br />
-5. [四川考生王俊凯高考699分](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E8%80%83%E7%94%9F%E7%8E%8B%E4%BF%8A%E5%87%AF%E9%AB%98%E8%80%83699%E5%88%86%23&t=31&band_rank=5&Refer=top)<br />
+5. [蔡徐坤巡演将如期举行](https://s.weibo.com/weibo?q=%E8%94%A1%E5%BE%90%E5%9D%A4%E5%B7%A1%E6%BC%94%E5%B0%86%E5%A6%82%E6%9C%9F%E4%B8%BE%E8%A1%8C&t=31&band_rank=5&Refer=top)<br />
 6. [Victoria还是这么美](https://s.weibo.com/weibo?q=Victoria%E8%BF%98%E6%98%AF%E8%BF%99%E4%B9%88%E7%BE%8E&t=31&band_rank=6&Refer=top)<br />
 7. [Angelababy金发芭比](https://s.weibo.com/weibo?q=Angelababy%E9%87%91%E5%8F%91%E8%8A%AD%E6%AF%94&t=31&band_rank=7&Refer=top)<br />
 8. [美特斯邦威以3亿元出售房产自救](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E7%89%B9%E6%96%AF%E9%82%A6%E5%A8%81%E4%BB%A53%E4%BA%BF%E5%85%83%E5%87%BA%E5%94%AE%E6%88%BF%E4%BA%A7%E8%87%AA%E6%95%91%23&t=31&band_rank=8&Refer=top)<br />
-9. [不要再坐公共场合的按摩椅了](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%A6%81%E5%86%8D%E5%9D%90%E5%85%AC%E5%85%B1%E5%9C%BA%E5%90%88%E7%9A%84%E6%8C%89%E6%91%A9%E6%A4%85%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [四川考生王俊凯高考699分](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E8%80%83%E7%94%9F%E7%8E%8B%E4%BF%8A%E5%87%AF%E9%AB%98%E8%80%83699%E5%88%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -21,8 +21,8 @@
 5. [如何评价 360 公司 CEO 周鸿祎攻读清华大学博士学位，对 360 对发展有什么影响，对此你有什么期待？](https://www.zhihu.com/question/609075165)<br />
 6. [《崩坏：星穹铁道》的「绀海组」，游戏里有什么剧情可以佐证这对 CP 的合理性？](https://www.zhihu.com/question/608274411)<br />
 7. [《甄嬛传》里的人为什么看不起安陵容，觉得她小家子气？](https://www.zhihu.com/question/511831826)<br />
-8. [台防务部门罕见通报「两艘俄罗斯护卫舰现身台东部海域」，透露了哪些信息？](https://www.zhihu.com/question/609120611)<br />
-9. [有孩子后花钱如流水，你觉得哪些钱被浪费了？](https://www.zhihu.com/question/608757091)<br />
+8. [有孩子后花钱如流水，你觉得哪些钱被浪费了？](https://www.zhihu.com/question/608757091)<br />
+9. [斐济耕地那么少，为什么能养活 80 多万人？渔业真的可以养这么多人吗？不担心粮食安全吗？](https://www.zhihu.com/question/608402519)<br />
 
 > 百度  
 
