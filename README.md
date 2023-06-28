@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 20:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 20:10:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [蔡徐坤巡演将如期举行](https://s.weibo.com/weibo?q=%E8%94%A1%E5%BE%90%E5%9D%A4%E5%B7%A1%E6%BC%94%E5%B0%86%E5%A6%82%E6%9C%9F%E4%B8%BE%E8%A1%8C&t=31&band_rank=6&Refer=top)<br />
 7. [大牙方回应被起诉](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%89%99%E6%96%B9%E5%9B%9E%E5%BA%94%E8%A2%AB%E8%B5%B7%E8%AF%89%23&t=31&band_rank=7&Refer=top)<br />
 8. [不要再坐公共场合的按摩椅了](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%A6%81%E5%86%8D%E5%9D%90%E5%85%AC%E5%85%B1%E5%9C%BA%E5%90%88%E7%9A%84%E6%8C%89%E6%91%A9%E6%A4%85%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [巨蟹座一定要远离影响自己情绪的人](https://s.weibo.com/weibo?q=%E5%B7%A8%E8%9F%B9%E5%BA%A7%E4%B8%80%E5%AE%9A%E8%A6%81%E8%BF%9C%E7%A6%BB%E5%BD%B1%E5%93%8D%E8%87%AA%E5%B7%B1%E6%83%85%E7%BB%AA%E7%9A%84%E4%BA%BA&t=31&band_rank=9&Refer=top)<br />
+9. [爷爷临终前开了个玩笑](https://s.weibo.com/weibo?q=%E7%88%B7%E7%88%B7%E4%B8%B4%E7%BB%88%E5%89%8D%E5%BC%80%E4%BA%86%E4%B8%AA%E7%8E%A9%E7%AC%91&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -18,11 +18,11 @@
 2. [西安一妻子将丈夫送进精神病院，丈夫出院后又将其送进精神病院，如何看待此事？事实真相如何？](https://www.zhihu.com/question/608899147)<br />
 3. [浙江一学生毕业后删除约 90% 的同学老师，称「留着没什么用」，你会删除不常联系的人吗？](https://www.zhihu.com/question/608984327)<br />
 4. [普通农民花十几万供孩子上了一个三本的意义是什么？](https://www.zhihu.com/question/601925776)<br />
-5. [海归优先职位平均薪资连续三年上涨，高出所有职位平均值 46.5%，出国留学还是好选择吗？](https://www.zhihu.com/theater/112990)<br />
-6. [教育部正式批准设立深圳职业技术大学，如何看待此事？](https://www.zhihu.com/question/608543386)<br />
-7. [外卖太贵、做饭太累，吃饭难的上班族带火「成人小饭桌」，如何看待这门生意？上班族吃饭问题何解？](https://www.zhihu.com/question/607821291)<br />
-8. [央企国企招聘「内卷」加剧，中石油综合行政岗报录比 470:1，更有清北博士参与应聘，如何看待这一现象？](https://www.zhihu.com/question/609167359)<br />
-9. [山东东营警方通报「男子驾车反复碾压女子致死」，犯罪嫌疑人已被刑拘，法律角度如何解读？](https://www.zhihu.com/question/609117132)<br />
+5. [教育部正式批准设立深圳职业技术大学，如何看待此事？](https://www.zhihu.com/question/608543386)<br />
+6. [外卖太贵、做饭太累，吃饭难的上班族带火「成人小饭桌」，如何看待这门生意？上班族吃饭问题何解？](https://www.zhihu.com/question/607821291)<br />
+7. [央企国企招聘「内卷」加剧，中石油综合行政岗报录比 470:1，更有清北博士参与应聘，如何看待这一现象？](https://www.zhihu.com/question/609167359)<br />
+8. [山东东营警方通报「男子驾车反复碾压女子致死」，犯罪嫌疑人已被刑拘，法律角度如何解读？](https://www.zhihu.com/question/609117132)<br />
+9. [贵州「村超」举办地榕江端午旅游收入 4.44 亿元，接待游客超 35 万人次，如何评价这样的模式？](https://www.zhihu.com/question/609163019)<br />
 
 > 百度  
 
