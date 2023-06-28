@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 14:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 14:55:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [人民日报评相关企业拒聘川大学生](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E7%9B%B8%E5%85%B3%E4%BC%81%E4%B8%9A%E6%8B%92%E8%81%98%E5%B7%9D%E5%A4%A7%E5%AD%A6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [王宝强被问是否还相信爱情](https://www.baidu.com/s?wd=%E7%8E%8B%E5%AE%9D%E5%BC%BA%E8%A2%AB%E9%97%AE%E6%98%AF%E5%90%A6%E8%BF%98%E7%9B%B8%E4%BF%A1%E7%88%B1%E6%83%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [普京曾有意杀死普里戈任](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E6%9B%BE%E6%9C%89%E6%84%8F%E6%9D%80%E6%AD%BB%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [为了卖课渲染暑假很可怕太损了](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BA%86%E5%8D%96%E8%AF%BE%E6%B8%B2%E6%9F%93%E6%9A%91%E5%81%87%E5%BE%88%E5%8F%AF%E6%80%95%E5%A4%AA%E6%8D%9F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [曝李铁被正式逮捕 移送看守所](https://www.baidu.com/s?wd=%E6%9B%9D%E6%9D%8E%E9%93%81%E8%A2%AB%E6%AD%A3%E5%BC%8F%E9%80%AE%E6%8D%95+%E7%A7%BB%E9%80%81%E7%9C%8B%E5%AE%88%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [曝李铁被正式逮捕 移送看守所](https://www.baidu.com/s?wd=%E6%9B%9D%E6%9D%8E%E9%93%81%E8%A2%AB%E6%AD%A3%E5%BC%8F%E9%80%AE%E6%8D%95+%E7%A7%BB%E9%80%81%E7%9C%8B%E5%AE%88%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [为了卖课渲染暑假很可怕太损了](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BA%86%E5%8D%96%E8%AF%BE%E6%B8%B2%E6%9F%93%E6%9A%91%E5%81%87%E5%BE%88%E5%8F%AF%E6%80%95%E5%A4%AA%E6%8D%9F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [人民日报评相关企业拒聘川大学生](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E7%9B%B8%E5%85%B3%E4%BC%81%E4%B8%9A%E6%8B%92%E8%81%98%E5%B7%9D%E5%A4%A7%E5%AD%A6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [王宝强被问是否还相信爱情](https://www.baidu.com/s?wd=%E7%8E%8B%E5%AE%9D%E5%BC%BA%E8%A2%AB%E9%97%AE%E6%98%AF%E5%90%A6%E8%BF%98%E7%9B%B8%E4%BF%A1%E7%88%B1%E6%83%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [普京曾有意杀死普里戈任](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E6%9B%BE%E6%9C%89%E6%84%8F%E6%9D%80%E6%AD%BB%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [为了卖课渲染暑假很可怕太损了](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BA%86%E5%8D%96%E8%AF%BE%E6%B8%B2%E6%9F%93%E6%9A%91%E5%81%87%E5%BE%88%E5%8F%AF%E6%80%95%E5%A4%AA%E6%8D%9F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [曝李铁被正式逮捕 移送看守所](https://www.baidu.com/s?wd=%E6%9B%9D%E6%9D%8E%E9%93%81%E8%A2%AB%E6%AD%A3%E5%BC%8F%E9%80%AE%E6%8D%95+%E7%A7%BB%E9%80%81%E7%9C%8B%E5%AE%88%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [曝李铁被正式逮捕 移送看守所](https://www.baidu.com/s?wd=%E6%9B%9D%E6%9D%8E%E9%93%81%E8%A2%AB%E6%AD%A3%E5%BC%8F%E9%80%AE%E6%8D%95+%E7%A7%BB%E9%80%81%E7%9C%8B%E5%AE%88%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [为了卖课渲染暑假很可怕太损了](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BA%86%E5%8D%96%E8%AF%BE%E6%B8%B2%E6%9F%93%E6%9A%91%E5%81%87%E5%BE%88%E5%8F%AF%E6%80%95%E5%A4%AA%E6%8D%9F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
