@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 14:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 14:36:02</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [普京曾有意杀死普里戈任](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E6%9B%BE%E6%9C%89%E6%84%8F%E6%9D%80%E6%AD%BB%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%23&t=31&band_rank=4&Refer=top)<br />
 5. [王一博官宣还是这图](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%AE%98%E5%AE%A3%E8%BF%98%E6%98%AF%E8%BF%99%E5%9B%BE%23&t=31&band_rank=5&Refer=top)<br />
 6. [iPhone拍照掉队了吗](https://s.weibo.com/weibo?q=%23iPhone%E6%8B%8D%E7%85%A7%E6%8E%89%E9%98%9F%E4%BA%86%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
-7. [刘亦菲入围首尔电视剧大赏最佳女主](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E5%85%A5%E5%9B%B4%E9%A6%96%E5%B0%94%E7%94%B5%E8%A7%86%E5%89%A7%E5%A4%A7%E8%B5%8F%E6%9C%80%E4%BD%B3%E5%A5%B3%E4%B8%BB%23&t=31&band_rank=7&Refer=top)<br />
-8. [双休和月休八天有什么区别](https://s.weibo.com/weibo?q=%23%E5%8F%8C%E4%BC%91%E5%92%8C%E6%9C%88%E4%BC%91%E5%85%AB%E5%A4%A9%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB%23&t=31&band_rank=8&Refer=top)<br />
+7. [双休和月休八天有什么区别](https://s.weibo.com/weibo?q=%23%E5%8F%8C%E4%BC%91%E5%92%8C%E6%9C%88%E4%BC%91%E5%85%AB%E5%A4%A9%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB%23&t=31&band_rank=7&Refer=top)<br />
+8. [刘亦菲入围首尔电视剧大赏最佳女主](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E5%85%A5%E5%9B%B4%E9%A6%96%E5%B0%94%E7%94%B5%E8%A7%86%E5%89%A7%E5%A4%A7%E8%B5%8F%E6%9C%80%E4%BD%B3%E5%A5%B3%E4%B8%BB%23&t=31&band_rank=8&Refer=top)<br />
 9. [萧敬腾求婚林有慧](https://s.weibo.com/weibo?q=%23%E8%90%A7%E6%95%AC%E8%85%BE%E6%B1%82%E5%A9%9A%E6%9E%97%E6%9C%89%E6%85%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -21,8 +21,8 @@
 5. [如何看待电影《消失的她》评分高开低走？](https://www.zhihu.com/question/608924640)<br />
 6. [浙江一学生毕业后删除约 90% 的同学老师，称「留着没什么用」，你会删除不常联系的人吗？](https://www.zhihu.com/question/608984327)<br />
 7. [马斯克选定加拿大格斗冠军做陪练，准备应战扎克伯格，此前马斯克母亲发文称已经取消比赛，此事或将如何进展？](https://www.zhihu.com/question/608939502)<br />
-8. [卢卡申科透露与普里戈任谈判细节，「谈了七轮，多次警告他不要触发流血事件」，透露了哪些信息？](https://www.zhihu.com/question/609124717)<br />
-9. [有没有可能太阳的核心已经熄灭，停止核聚变，但是地球人还不知道？](https://www.zhihu.com/question/55606798)<br />
+8. [普通农民花十几万供孩子上了一个三本的意义是什么？](https://www.zhihu.com/question/601925776)<br />
+9. [卢卡申科透露与普里戈任谈判细节，「谈了七轮，多次警告他不要触发流血事件」，透露了哪些信息？](https://www.zhihu.com/question/609124717)<br />
 
 > 百度  
 
