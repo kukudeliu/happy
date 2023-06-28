@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 10:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 10:08:02</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [住建部表示将提高住房品质，探索建立房屋养老金制度，此举将带来哪些长远影响？](https://www.zhihu.com/question/608976349)<br />
 6. [《消失的她》中何非如果回头看到了 B 超照片，他会救出李木子吗?](https://www.zhihu.com/question/608865471)<br />
 7. [在职场上如何看领导值不值得跟？](https://www.zhihu.com/question/607278481)<br />
-8. [普京称「俄政府一年内向瓦格纳提供超 860 亿卢布，将调查瓦格纳资金问题」，透露了哪些信息？](https://www.zhihu.com/question/609049162)<br />
-9. [如何看待「七成年轻人愿意为钱加班」一事？如果每小时 100 块你愿意加班吗？](https://www.zhihu.com/question/608935474)<br />
+8. [如何看待「七成年轻人愿意为钱加班」一事？如果每小时 100 块你愿意加班吗？](https://www.zhihu.com/question/608935474)<br />
+9. [你长大以后明白了什么道理？](https://www.zhihu.com/question/598387304)<br />
 
 > 百度  
 
