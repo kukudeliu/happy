@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 11:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 11:11:02</h4></div>
 
 > 微博  
 
@@ -9,16 +9,16 @@
 5. [高考377分复读一年逆袭677分](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83377%E5%88%86%E5%A4%8D%E8%AF%BB%E4%B8%80%E5%B9%B4%E9%80%86%E8%A2%AD677%E5%88%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [和对象一起入职当天被辞退了](https://s.weibo.com/weibo?q=%23%E5%92%8C%E5%AF%B9%E8%B1%A1%E4%B8%80%E8%B5%B7%E5%85%A5%E8%81%8C%E5%BD%93%E5%A4%A9%E8%A2%AB%E8%BE%9E%E9%80%80%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [萧敬腾求婚林有慧](https://s.weibo.com/weibo?q=%23%E8%90%A7%E6%95%AC%E8%85%BE%E6%B1%82%E5%A9%9A%E6%9E%97%E6%9C%89%E6%85%A7%23&t=31&band_rank=7&Refer=top)<br />
-8. [消失的她李木子视角](https://s.weibo.com/weibo?q=%23%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E6%9D%8E%E6%9C%A8%E5%AD%90%E8%A7%86%E8%A7%92%23&t=31&band_rank=8&Refer=top)<br />
-9. [同事怀孕后一直请假我离职了](https://s.weibo.com/weibo?q=%23%E5%90%8C%E4%BA%8B%E6%80%80%E5%AD%95%E5%90%8E%E4%B8%80%E7%9B%B4%E8%AF%B7%E5%81%87%E6%88%91%E7%A6%BB%E8%81%8C%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+8. [同事怀孕后一直请假我离职了](https://s.weibo.com/weibo?q=%23%E5%90%8C%E4%BA%8B%E6%80%80%E5%AD%95%E5%90%8E%E4%B8%80%E7%9B%B4%E8%AF%B7%E5%81%87%E6%88%91%E7%A6%BB%E8%81%8C%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [消失的她李木子视角](https://s.weibo.com/weibo?q=%23%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E6%9D%8E%E6%9C%A8%E5%AD%90%E8%A7%86%E8%A7%92%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [西安一妻子将丈夫送进精神病院，丈夫出院后又将其送进精神病院，如何看待此事？事实真相如何？](https://www.zhihu.com/question/608899147)<br />
 2. [多城二手房挂牌量压顶，上海增幅全国第一，重庆规模全国第一，武汉八成房源降价，如何看待当下二手房市场？](https://www.zhihu.com/question/608945751)<br />
 3. [为什么每次进乐高店，店员要问是自己玩还是送人?](https://www.zhihu.com/question/579923538)<br />
-4. [官方通报「医院盒饭芋头烧鸭现老鼠头」，称「异物为老鼠头，正核实如何进入盒饭」，食品安全监管有哪些难点？](https://www.zhihu.com/question/609038262)<br />
-5. [如何看待「七成年轻人愿意为钱加班」一事？如果每小时 100 块你愿意加班吗？](https://www.zhihu.com/question/608935474)<br />
+4. [如何看待「七成年轻人愿意为钱加班」一事？如果每小时 100 块你愿意加班吗？](https://www.zhihu.com/question/608935474)<br />
+5. [官方通报「医院盒饭芋头烧鸭现老鼠头」，称「异物为老鼠头，正核实如何进入盒饭」，食品安全监管有哪些难点？](https://www.zhihu.com/question/609038262)<br />
 6. [红极一时的付费自习室「去 K 书」广州 4 家门店已全部关门，并拖欠会员充值费、房租，哪些信息值得关注？](https://www.zhihu.com/question/609067575)<br />
 7. [中国近 20 城放松住房限购，限制性购房政策有望进一步松动，将带来哪些变化？](https://www.zhihu.com/question/609117362)<br />
 8. [为什么国内各大游戏厂商的开放世界游戏陆续难产？](https://www.zhihu.com/question/603518950)<br />
