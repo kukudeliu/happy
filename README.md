@@ -1,14 +1,14 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 15:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 15:34:01</h4></div>
 
 > 微博  
 
 1. [陈建州起诉大牙](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BB%BA%E5%B7%9E%E8%B5%B7%E8%AF%89%E5%A4%A7%E7%89%99%23&t=31&band_rank=1&Refer=top)<br />
-2. [王一博官宣还是这图](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%AE%98%E5%AE%A3%E8%BF%98%E6%98%AF%E8%BF%99%E5%9B%BE%23&t=31&band_rank=2&Refer=top)<br />
+2. [鹿晗的提词器](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E7%9A%84%E6%8F%90%E8%AF%8D%E5%99%A8%23&t=31&band_rank=2&Refer=top)<br />
 3. [穿越中国新基建](https://s.weibo.com/weibo?q=%23%E7%A9%BF%E8%B6%8A%E4%B8%AD%E5%9B%BD%E6%96%B0%E5%9F%BA%E5%BB%BA%23&t=31&band_rank=3&Refer=top)<br />
 4. [普京曾有意杀死普里戈任](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E6%9B%BE%E6%9C%89%E6%84%8F%E6%9D%80%E6%AD%BB%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%23&t=31&band_rank=4&Refer=top)<br />
 5. [B站崩了](https://s.weibo.com/weibo?q=B%E7%AB%99%E5%B4%A9%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
 6. [吃完小龙虾美甲变绿了](https://s.weibo.com/weibo?q=%23%E5%90%83%E5%AE%8C%E5%B0%8F%E9%BE%99%E8%99%BE%E7%BE%8E%E7%94%B2%E5%8F%98%E7%BB%BF%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [鹿晗的提词器](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E7%9A%84%E6%8F%90%E8%AF%8D%E5%99%A8%23&t=31&band_rank=7&Refer=top)<br />
+7. [王一博官宣还是这图](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%AE%98%E5%AE%A3%E8%BF%98%E6%98%AF%E8%BF%99%E5%9B%BE%23&t=31&band_rank=7&Refer=top)<br />
 8. [年轻人唯一有点把握的是单身](https://s.weibo.com/weibo?q=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%94%AF%E4%B8%80%E6%9C%89%E7%82%B9%E6%8A%8A%E6%8F%A1%E7%9A%84%E6%98%AF%E5%8D%95%E8%BA%AB&t=31&band_rank=8&Refer=top)<br />
 9. [陈思诚叫朱一龙老公的反应](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%80%9D%E8%AF%9A%E5%8F%AB%E6%9C%B1%E4%B8%80%E9%BE%99%E8%80%81%E5%85%AC%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=9&Refer=top)<br />
 
@@ -34,7 +34,7 @@
 6. [向太叫林有慧媳妇儿](https://www.baidu.com/s?wd=%E5%90%91%E5%A4%AA%E5%8F%AB%E6%9E%97%E6%9C%89%E6%85%A7%E5%AA%B3%E5%A6%87%E5%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [普京曾有意杀死普里戈任](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E6%9B%BE%E6%9C%89%E6%84%8F%E6%9D%80%E6%AD%BB%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [470名硕博生竞争1个中石油行政岗](https://www.baidu.com/s?wd=470%E5%90%8D%E7%A1%95%E5%8D%9A%E7%94%9F%E7%AB%9E%E4%BA%891%E4%B8%AA%E4%B8%AD%E7%9F%B3%E6%B2%B9%E8%A1%8C%E6%94%BF%E5%B2%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [小猴子意外被困树洞](https://www.baidu.com/s?wd=%E5%B0%8F%E7%8C%B4%E5%AD%90%E6%84%8F%E5%A4%96%E8%A2%AB%E5%9B%B0%E6%A0%91%E6%B4%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [王宝强被问是否还相信爱情](https://www.baidu.com/s?wd=%E7%8E%8B%E5%AE%9D%E5%BC%BA%E8%A2%AB%E9%97%AE%E6%98%AF%E5%90%A6%E8%BF%98%E7%9B%B8%E4%BF%A1%E7%88%B1%E6%83%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [向太叫林有慧媳妇儿](https://www.baidu.com/s?wd=%E5%90%91%E5%A4%AA%E5%8F%AB%E6%9E%97%E6%9C%89%E6%85%A7%E5%AA%B3%E5%A6%87%E5%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [普京曾有意杀死普里戈任](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E6%9B%BE%E6%9C%89%E6%84%8F%E6%9D%80%E6%AD%BB%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [470名硕博生竞争1个中石油行政岗](https://www.baidu.com/s?wd=470%E5%90%8D%E7%A1%95%E5%8D%9A%E7%94%9F%E7%AB%9E%E4%BA%891%E4%B8%AA%E4%B8%AD%E7%9F%B3%E6%B2%B9%E8%A1%8C%E6%94%BF%E5%B2%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [小猴子意外被困树洞](https://www.baidu.com/s?wd=%E5%B0%8F%E7%8C%B4%E5%AD%90%E6%84%8F%E5%A4%96%E8%A2%AB%E5%9B%B0%E6%A0%91%E6%B4%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [王宝强被问是否还相信爱情](https://www.baidu.com/s?wd=%E7%8E%8B%E5%AE%9D%E5%BC%BA%E8%A2%AB%E9%97%AE%E6%98%AF%E5%90%A6%E8%BF%98%E7%9B%B8%E4%BF%A1%E7%88%B1%E6%83%85&sa=fyb_news&rsv_dl=fyb_news)<br />
