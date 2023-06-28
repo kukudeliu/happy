@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 16:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 16:56:01</h4></div>
 
 > 微博  
 
@@ -10,19 +10,19 @@
 6. [韩国医生都不喝的韩式烧酒](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E5%8C%BB%E7%94%9F%E9%83%BD%E4%B8%8D%E5%96%9D%E7%9A%84%E9%9F%A9%E5%BC%8F%E7%83%A7%E9%85%92&t=31&band_rank=6&Refer=top)<br />
 7. [王一博官宣还是这图](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%AE%98%E5%AE%A3%E8%BF%98%E6%98%AF%E8%BF%99%E5%9B%BE%23&t=31&band_rank=7&Refer=top)<br />
 8. [吃完小龙虾美甲变绿了](https://s.weibo.com/weibo?q=%23%E5%90%83%E5%AE%8C%E5%B0%8F%E9%BE%99%E8%99%BE%E7%BE%8E%E7%94%B2%E5%8F%98%E7%BB%BF%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [陈思诚叫朱一龙老公的反应](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%80%9D%E8%AF%9A%E5%8F%AB%E6%9C%B1%E4%B8%80%E9%BE%99%E8%80%81%E5%85%AC%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=9&Refer=top)<br />
+9. [咒术回战](https://s.weibo.com/weibo?q=%E5%92%92%E6%9C%AF%E5%9B%9E%E6%88%98&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [西安一妻子将丈夫送进精神病院，丈夫出院后又将其送进精神病院，如何看待此事？事实真相如何？](https://www.zhihu.com/question/608899147)<br />
-2. [多城二手房挂牌量压顶，上海增幅全国第一，重庆规模全国第一，武汉八成房源降价，如何看待当下二手房市场？](https://www.zhihu.com/question/608945751)<br />
-3. [「妈妈私拆档案袋气哭女儿」引热议，毕业生档案私拆后有什么后果？](https://www.zhihu.com/question/608989364)<br />
+2. [「妈妈私拆档案袋气哭女儿」引热议，毕业生档案私拆后有什么后果？](https://www.zhihu.com/question/608989364)<br />
+3. [多城二手房挂牌量压顶，上海增幅全国第一，重庆规模全国第一，武汉八成房源降价，如何看待当下二手房市场？](https://www.zhihu.com/question/608945751)<br />
 4. [浙江一学生毕业后删除约 90% 的同学老师，称「留着没什么用」，你会删除不常联系的人吗？](https://www.zhihu.com/question/608984327)<br />
-5. [2024QS 世界大学排名公布，麻省理工、剑桥、牛津前三，北大 17 清华 25，如何看待新版排名？](https://www.zhihu.com/question/609090659)<br />
-6. [普通农民花十几万供孩子上了一个三本的意义是什么？](https://www.zhihu.com/question/601925776)<br />
+5. [普通农民花十几万供孩子上了一个三本的意义是什么？](https://www.zhihu.com/question/601925776)<br />
+6. [2024QS 世界大学排名公布，麻省理工、剑桥、牛津前三，北大 17 清华 25，如何看待新版排名？](https://www.zhihu.com/question/609090659)<br />
 7. [姆巴佩坚持不走，因为要拿 2 亿的忠诚奖金 + 皇马签字费，对此你作何评价？](https://www.zhihu.com/question/608418386)<br />
-8. [台防务部门罕见通报「两艘俄罗斯护卫舰现身台东部海域」，透露了哪些信息？](https://www.zhihu.com/question/609120611)<br />
-9. [《流浪地球 2》中，550w 这么快，为什么不用来解码全球核武器，而是要派人去手工引爆呢？](https://www.zhihu.com/question/597418932)<br />
+8. [业主空置房被物业当宿舍， 物业称「业主没办入住手续，也没交物业费，物业有权管理」，该行为是否合理？](https://www.zhihu.com/question/603853390)<br />
+9. [台防务部门罕见通报「两艘俄罗斯护卫舰现身台东部海域」，透露了哪些信息？](https://www.zhihu.com/question/609120611)<br />
 
 > 百度  
 
