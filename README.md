@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 21:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 21:06:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [李沁工作室疑似因造型问题删博](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B2%81%E5%B7%A5%E4%BD%9C%E5%AE%A4%E7%96%91%E4%BC%BC%E5%9B%A0%E9%80%A0%E5%9E%8B%E9%97%AE%E9%A2%98%E5%88%A0%E5%8D%9A%23&t=31&band_rank=5&Refer=top)<br />
 6. [陈都灵蓝发人鱼姬](https://s.weibo.com/weibo?q=%23%E9%99%88%E9%83%BD%E7%81%B5%E8%93%9D%E5%8F%91%E4%BA%BA%E9%B1%BC%E5%A7%AC%23&t=31&band_rank=6&Refer=top)<br />
 7. [四川考生王俊凯高考699分](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E8%80%83%E7%94%9F%E7%8E%8B%E4%BF%8A%E5%87%AF%E9%AB%98%E8%80%83699%E5%88%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [白鹿的体态](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E7%9A%84%E4%BD%93%E6%80%81%23&t=31&band_rank=8&Refer=top)<br />
-9. [28个月男童误入电梯坠楼身亡](https://s.weibo.com/weibo?q=%2328%E4%B8%AA%E6%9C%88%E7%94%B7%E7%AB%A5%E8%AF%AF%E5%85%A5%E7%94%B5%E6%A2%AF%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
+8. [28个月男童误入电梯坠楼身亡](https://s.weibo.com/weibo?q=%2328%E4%B8%AA%E6%9C%88%E7%94%B7%E7%AB%A5%E8%AF%AF%E5%85%A5%E7%94%B5%E6%A2%AF%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
+9. [白鹿的体态](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E7%9A%84%E4%BD%93%E6%80%81%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
