@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 02:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 02:15:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [468一份的扬州炒饭有多牛](https://s.weibo.com/weibo?q=468%E4%B8%80%E4%BB%BD%E7%9A%84%E6%89%AC%E5%B7%9E%E7%82%92%E9%A5%AD%E6%9C%89%E5%A4%9A%E7%89%9B&t=31&band_rank=6&Refer=top)<br />
 7. [曝陈建州在范玮琪孕期骚扰女艺人](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E9%99%88%E5%BB%BA%E5%B7%9E%E5%9C%A8%E8%8C%83%E7%8E%AE%E7%90%AA%E5%AD%95%E6%9C%9F%E9%AA%9A%E6%89%B0%E5%A5%B3%E8%89%BA%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [白鹿的体态](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E7%9A%84%E4%BD%93%E6%80%81%23&t=31&band_rank=8&Refer=top)<br />
-9. [LV老板带着儿女北京巡店](https://s.weibo.com/weibo?q=%23LV%E8%80%81%E6%9D%BF%E5%B8%A6%E7%9D%80%E5%84%BF%E5%A5%B3%E5%8C%97%E4%BA%AC%E5%B7%A1%E5%BA%97%23&t=31&band_rank=9&Refer=top)<br />
+9. [李沁工作室疑似因造型问题删博](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B2%81%E5%B7%A5%E4%BD%9C%E5%AE%A4%E7%96%91%E4%BC%BC%E5%9B%A0%E9%80%A0%E5%9E%8B%E9%97%AE%E9%A2%98%E5%88%A0%E5%8D%9A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
