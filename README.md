@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 17:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 17:49:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [法院阐释为何不对吴谢宇精神鉴定](https://www.baidu.com/s?wd=%E6%B3%95%E9%99%A2%E9%98%90%E9%87%8A%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%AF%B9%E5%90%B4%E8%B0%A2%E5%AE%87%E7%B2%BE%E7%A5%9E%E9%89%B4%E5%AE%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [范玮琪被曝失联后首发文](https://www.baidu.com/s?wd=%E8%8C%83%E7%8E%AE%E7%90%AA%E8%A2%AB%E6%9B%9D%E5%A4%B1%E8%81%94%E5%90%8E%E9%A6%96%E5%8F%91%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [恒大地产被强制执行10.9亿](https://www.baidu.com/s?wd=%E6%81%92%E5%A4%A7%E5%9C%B0%E4%BA%A7%E8%A2%AB%E5%BC%BA%E5%88%B6%E6%89%A7%E8%A1%8C10.9%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [普京曾有意杀死普里戈任](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E6%9B%BE%E6%9C%89%E6%84%8F%E6%9D%80%E6%AD%BB%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子13岁得糖尿病27岁进ICU](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%9013%E5%B2%81%E5%BE%97%E7%B3%96%E5%B0%BF%E7%97%8527%E5%B2%81%E8%BF%9BICU&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子13岁得糖尿病27岁进ICU](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%9013%E5%B2%81%E5%BE%97%E7%B3%96%E5%B0%BF%E7%97%8527%E5%B2%81%E8%BF%9BICU&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [人民日报评相关企业拒聘川大学生](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E7%9B%B8%E5%85%B3%E4%BC%81%E4%B8%9A%E6%8B%92%E8%81%98%E5%B7%9D%E5%A4%A7%E5%AD%A6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [法院阐释为何不对吴谢宇精神鉴定](https://www.baidu.com/s?wd=%E6%B3%95%E9%99%A2%E9%98%90%E9%87%8A%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%AF%B9%E5%90%B4%E8%B0%A2%E5%AE%87%E7%B2%BE%E7%A5%9E%E9%89%B4%E5%AE%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [范玮琪被曝失联后首发文](https://www.baidu.com/s?wd=%E8%8C%83%E7%8E%AE%E7%90%AA%E8%A2%AB%E6%9B%9D%E5%A4%B1%E8%81%94%E5%90%8E%E9%A6%96%E5%8F%91%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [恒大地产被强制执行10.9亿](https://www.baidu.com/s?wd=%E6%81%92%E5%A4%A7%E5%9C%B0%E4%BA%A7%E8%A2%AB%E5%BC%BA%E5%88%B6%E6%89%A7%E8%A1%8C10.9%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [普京曾有意杀死普里戈任](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E6%9B%BE%E6%9C%89%E6%84%8F%E6%9D%80%E6%AD%BB%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子13岁得糖尿病27岁进ICU](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%9013%E5%B2%81%E5%BE%97%E7%B3%96%E5%B0%BF%E7%97%8527%E5%B2%81%E8%BF%9BICU&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子13岁得糖尿病27岁进ICU](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%9013%E5%B2%81%E5%BE%97%E7%B3%96%E5%B0%BF%E7%97%8527%E5%B2%81%E8%BF%9BICU&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [人民日报评相关企业拒聘川大学生](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E7%9B%B8%E5%85%B3%E4%BC%81%E4%B8%9A%E6%8B%92%E8%81%98%E5%B7%9D%E5%A4%A7%E5%AD%A6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
