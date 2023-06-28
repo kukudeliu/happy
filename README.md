@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 17:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 17:08:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [浙江一学生毕业后删除约 90% 的同学老师，称「留着没什么用」，你会删除不常联系的人吗？](https://www.zhihu.com/question/608984327)<br />
 5. [普通农民花十几万供孩子上了一个三本的意义是什么？](https://www.zhihu.com/question/601925776)<br />
 6. [2024QS 世界大学排名公布，麻省理工、剑桥、牛津前三，北大 17 清华 25，如何看待新版排名？](https://www.zhihu.com/question/609090659)<br />
-7. [业主空置房被物业当宿舍， 物业称「业主没办入住手续，也没交物业费，物业有权管理」，该行为是否合理？](https://www.zhihu.com/question/603853390)<br />
-8. [马斯克选定加拿大格斗冠军做陪练，准备应战扎克伯格，此前马斯克母亲发文称已经取消比赛，此事或将如何进展？](https://www.zhihu.com/question/608939502)<br />
-9. [夏天太阳如此强烈为什么汽车都不安装太阳能充电板呢？](https://www.zhihu.com/question/608434206)<br />
+7. [马斯克选定加拿大格斗冠军做陪练，准备应战扎克伯格，此前马斯克母亲发文称已经取消比赛，此事或将如何进展？](https://www.zhihu.com/question/608939502)<br />
+8. [夏天太阳如此强烈为什么汽车都不安装太阳能充电板呢？](https://www.zhihu.com/question/608434206)<br />
+9. [有没有可能太阳的核心已经熄灭，停止核聚变，但是地球人还不知道？](https://www.zhihu.com/question/55606798)<br />
 
 > 百度  
 
@@ -31,10 +31,10 @@
 3. [跳江救人外卖小哥回应被女生求婚](https://www.baidu.com/s?wd=%E8%B7%B3%E6%B1%9F%E6%95%91%E4%BA%BA%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%A5%B3%E7%94%9F%E6%B1%82%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [小微经济呈现八大新亮点](https://www.baidu.com/s?wd=%E5%B0%8F%E5%BE%AE%E7%BB%8F%E6%B5%8E%E5%91%88%E7%8E%B0%E5%85%AB%E5%A4%A7%E6%96%B0%E4%BA%AE%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [法院阐释为何不对吴谢宇精神鉴定](https://www.baidu.com/s?wd=%E6%B3%95%E9%99%A2%E9%98%90%E9%87%8A%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%AF%B9%E5%90%B4%E8%B0%A2%E5%AE%87%E7%B2%BE%E7%A5%9E%E9%89%B4%E5%AE%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [特朗普民调支持率超拜登](https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%B0%91%E8%B0%83%E6%94%AF%E6%8C%81%E7%8E%87%E8%B6%85%E6%8B%9C%E7%99%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [向太叫林有慧媳妇儿](https://www.baidu.com/s?wd=%E5%90%91%E5%A4%AA%E5%8F%AB%E6%9E%97%E6%9C%89%E6%85%A7%E5%AA%B3%E5%A6%87%E5%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [萧敬腾求婚时叫未婚妻妈妈](https://www.baidu.com/s?wd=%E8%90%A7%E6%95%AC%E8%85%BE%E6%B1%82%E5%A9%9A%E6%97%B6%E5%8F%AB%E6%9C%AA%E5%A9%9A%E5%A6%BB%E5%A6%88%E5%A6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [日警方逮捕中国籍研究员 中方回应](https://www.baidu.com/s?wd=%E6%97%A5%E8%AD%A6%E6%96%B9%E9%80%AE%E6%8D%95%E4%B8%AD%E5%9B%BD%E7%B1%8D%E7%A0%94%E7%A9%B6%E5%91%98+%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [向太叫林有慧媳妇儿](https://www.baidu.com/s?wd=%E5%90%91%E5%A4%AA%E5%8F%AB%E6%9E%97%E6%9C%89%E6%85%A7%E5%AA%B3%E5%A6%87%E5%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [萧敬腾求婚时叫未婚妻妈妈](https://www.baidu.com/s?wd=%E8%90%A7%E6%95%AC%E8%85%BE%E6%B1%82%E5%A9%9A%E6%97%B6%E5%8F%AB%E6%9C%AA%E5%A9%9A%E5%A6%BB%E5%A6%88%E5%A6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [日警方逮捕中国籍研究员 中方回应](https://www.baidu.com/s?wd=%E6%97%A5%E8%AD%A6%E6%96%B9%E9%80%AE%E6%8D%95%E4%B8%AD%E5%9B%BD%E7%B1%8D%E7%A0%94%E7%A9%B6%E5%91%98+%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [普京曾有意杀死普里戈任](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E6%9B%BE%E6%9C%89%E6%84%8F%E6%9D%80%E6%AD%BB%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [跳江救人外卖小哥回应被女生求婚](https://www.baidu.com/s?wd=%E8%B7%B3%E6%B1%9F%E6%95%91%E4%BA%BA%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%A5%B3%E7%94%9F%E6%B1%82%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [小微经济呈现八大新亮点](https://www.baidu.com/s?wd=%E5%B0%8F%E5%BE%AE%E7%BB%8F%E6%B5%8E%E5%91%88%E7%8E%B0%E5%85%AB%E5%A4%A7%E6%96%B0%E4%BA%AE%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [法院阐释为何不对吴谢宇精神鉴定](https://www.baidu.com/s?wd=%E6%B3%95%E9%99%A2%E9%98%90%E9%87%8A%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%AF%B9%E5%90%B4%E8%B0%A2%E5%AE%87%E7%B2%BE%E7%A5%9E%E9%89%B4%E5%AE%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [特朗普民调支持率超拜登](https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%B0%91%E8%B0%83%E6%94%AF%E6%8C%81%E7%8E%87%E8%B6%85%E6%8B%9C%E7%99%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [向太叫林有慧媳妇儿](https://www.baidu.com/s?wd=%E5%90%91%E5%A4%AA%E5%8F%AB%E6%9E%97%E6%9C%89%E6%85%A7%E5%AA%B3%E5%A6%87%E5%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [萧敬腾求婚时叫未婚妻妈妈](https://www.baidu.com/s?wd=%E8%90%A7%E6%95%AC%E8%85%BE%E6%B1%82%E5%A9%9A%E6%97%B6%E5%8F%AB%E6%9C%AA%E5%A9%9A%E5%A6%BB%E5%A6%88%E5%A6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [日警方逮捕中国籍研究员 中方回应](https://www.baidu.com/s?wd=%E6%97%A5%E8%AD%A6%E6%96%B9%E9%80%AE%E6%8D%95%E4%B8%AD%E5%9B%BD%E7%B1%8D%E7%A0%94%E7%A9%B6%E5%91%98+%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [向太叫林有慧媳妇儿](https://www.baidu.com/s?wd=%E5%90%91%E5%A4%AA%E5%8F%AB%E6%9E%97%E6%9C%89%E6%85%A7%E5%AA%B3%E5%A6%87%E5%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [萧敬腾求婚时叫未婚妻妈妈](https://www.baidu.com/s?wd=%E8%90%A7%E6%95%AC%E8%85%BE%E6%B1%82%E5%A9%9A%E6%97%B6%E5%8F%AB%E6%9C%AA%E5%A9%9A%E5%A6%BB%E5%A6%88%E5%A6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [日警方逮捕中国籍研究员 中方回应](https://www.baidu.com/s?wd=%E6%97%A5%E8%AD%A6%E6%96%B9%E9%80%AE%E6%8D%95%E4%B8%AD%E5%9B%BD%E7%B1%8D%E7%A0%94%E7%A9%B6%E5%91%98+%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [普京曾有意杀死普里戈任](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E6%9B%BE%E6%9C%89%E6%84%8F%E6%9D%80%E6%AD%BB%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
