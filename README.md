@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 15:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 15:08:01</h4></div>
 
 > 微博  
 
-1. [普京曾有意杀死普里戈任](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E6%9B%BE%E6%9C%89%E6%84%8F%E6%9D%80%E6%AD%BB%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%23&t=31&band_rank=1&Refer=top)<br />
-2. [陈建州起诉大牙](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BB%BA%E5%B7%9E%E8%B5%B7%E8%AF%89%E5%A4%A7%E7%89%99%23&t=31&band_rank=2&Refer=top)<br />
+1. [陈建州起诉大牙](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BB%BA%E5%B7%9E%E8%B5%B7%E8%AF%89%E5%A4%A7%E7%89%99%23&t=31&band_rank=1&Refer=top)<br />
+2. [普京曾有意杀死普里戈任](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E6%9B%BE%E6%9C%89%E6%84%8F%E6%9D%80%E6%AD%BB%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%23&t=31&band_rank=2&Refer=top)<br />
 3. [成都大运会倒计时1个月](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%A4%A7%E8%BF%90%E4%BC%9A%E5%80%92%E8%AE%A1%E6%97%B61%E4%B8%AA%E6%9C%88%23&t=31&band_rank=3&Refer=top)<br />
 4. [B站崩了](https://s.weibo.com/weibo?q=B%E7%AB%99%E5%B4%A9%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
 5. [李铁](https://s.weibo.com/weibo?q=%E6%9D%8E%E9%93%81&t=31&band_rank=5&Refer=top)<br />
