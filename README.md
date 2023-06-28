@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 15:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 15:15:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [李铁](https://s.weibo.com/weibo?q=%E6%9D%8E%E9%93%81&t=31&band_rank=6&Refer=top)<br />
 7. [王一博官宣还是这图](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%AE%98%E5%AE%A3%E8%BF%98%E6%98%AF%E8%BF%99%E5%9B%BE%23&t=31&band_rank=7&Refer=top)<br />
 8. [聊半年的暧昧对象突然领证了](https://s.weibo.com/weibo?q=%23%E8%81%8A%E5%8D%8A%E5%B9%B4%E7%9A%84%E6%9A%A7%E6%98%A7%E5%AF%B9%E8%B1%A1%E7%AA%81%E7%84%B6%E9%A2%86%E8%AF%81%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [我爱你 大闹孝宴](https://s.weibo.com/weibo?q=%E6%88%91%E7%88%B1%E4%BD%A0%20%E5%A4%A7%E9%97%B9%E5%AD%9D%E5%AE%B4&t=31&band_rank=9&Refer=top)<br />
+9. [GQ编辑说张艺兴好辣](https://s.weibo.com/weibo?q=%23GQ%E7%BC%96%E8%BE%91%E8%AF%B4%E5%BC%A0%E8%89%BA%E5%85%B4%E5%A5%BD%E8%BE%A3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
