@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 02:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 02:05:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [霸占电脑拒办证工作人员被停职](https://www.baidu.com/s?wd=%E9%9C%B8%E5%8D%A0%E7%94%B5%E8%84%91%E6%8B%92%E5%8A%9E%E8%AF%81%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E8%A2%AB%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [记者调查养猪场被持刀追赶](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E8%B0%83%E6%9F%A5%E5%85%BB%E7%8C%AA%E5%9C%BA%E8%A2%AB%E6%8C%81%E5%88%80%E8%BF%BD%E8%B5%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [时隔6个月中国再现霍乱病例](https://www.baidu.com/s?wd=%E6%97%B6%E9%9A%946%E4%B8%AA%E6%9C%88%E4%B8%AD%E5%9B%BD%E5%86%8D%E7%8E%B0%E9%9C%8D%E4%B9%B1%E7%97%85%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [美特斯邦威以3亿元出售房产自救](https://www.baidu.com/s?wd=%E7%BE%8E%E7%89%B9%E6%96%AF%E9%82%A6%E5%A8%81%E4%BB%A53%E4%BA%BF%E5%85%83%E5%87%BA%E5%94%AE%E6%88%BF%E4%BA%A7%E8%87%AA%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [法院回应女子称被女法官抓伤面部](https://www.baidu.com/s?wd=%E6%B3%95%E9%99%A2%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E7%A7%B0%E8%A2%AB%E5%A5%B3%E6%B3%95%E5%AE%98%E6%8A%93%E4%BC%A4%E9%9D%A2%E9%83%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [霸占电脑拒办证工作人员被停职](https://www.baidu.com/s?wd=%E9%9C%B8%E5%8D%A0%E7%94%B5%E8%84%91%E6%8B%92%E5%8A%9E%E8%AF%81%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E8%A2%AB%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [记者调查养猪场被持刀追赶](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E8%B0%83%E6%9F%A5%E5%85%BB%E7%8C%AA%E5%9C%BA%E8%A2%AB%E6%8C%81%E5%88%80%E8%BF%BD%E8%B5%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [时隔6个月中国再现霍乱病例](https://www.baidu.com/s?wd=%E6%97%B6%E9%9A%946%E4%B8%AA%E6%9C%88%E4%B8%AD%E5%9B%BD%E5%86%8D%E7%8E%B0%E9%9C%8D%E4%B9%B1%E7%97%85%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [美特斯邦威以3亿元出售房产自救](https://www.baidu.com/s?wd=%E7%BE%8E%E7%89%B9%E6%96%AF%E9%82%A6%E5%A8%81%E4%BB%A53%E4%BA%BF%E5%85%83%E5%87%BA%E5%94%AE%E6%88%BF%E4%BA%A7%E8%87%AA%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [法院回应女子称被女法官抓伤面部](https://www.baidu.com/s?wd=%E6%B3%95%E9%99%A2%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E7%A7%B0%E8%A2%AB%E5%A5%B3%E6%B3%95%E5%AE%98%E6%8A%93%E4%BC%A4%E9%9D%A2%E9%83%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
