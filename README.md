@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 00:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 00:27:01</h4></div>
 
 > 微博  
 
@@ -19,7 +19,7 @@
 3. [外卖太贵、做饭太累，吃饭难的上班族带火「成人小饭桌」，如何看待这门生意？上班族吃饭问题何解？](https://www.zhihu.com/question/607821291)<br />
 4. [国务院和中央军委公布实施《无人驾驶航空器飞行管理暂行条例》，哪些信息值得关注？](https://www.zhihu.com/question/609227057)<br />
 5. [如何评价 360 公司 CEO 周鸿祎攻读清华大学博士学位，对 360 对发展有什么影响，对此你有什么期待？](https://www.zhihu.com/question/609075165)<br />
-6. [2023 LPL 夏季赛 EDG VS UP，如何评价这场比赛？](https://www.zhihu.com/question/609252513)<br />
+6. [2023 LPL 夏季赛 EDG 2:1 击败 UP，如何评价这场比赛？](https://www.zhihu.com/question/609252513)<br />
 7. []()<br />
 8. [山东东营警方通报「男子驾车反复碾压女子致死」，犯罪嫌疑人已被刑拘，法律角度如何解读？](https://www.zhihu.com/question/609117132)<br />
 9. []()<br />
