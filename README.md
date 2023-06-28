@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 20:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 20:42:01</h4></div>
 
 > 微博  
 
@@ -19,8 +19,8 @@
 3. [普通农民花十几万供孩子上了一个三本的意义是什么？](https://www.zhihu.com/question/601925776)<br />
 4. [教育部正式批准设立深圳职业技术大学，如何看待此事？](https://www.zhihu.com/question/608543386)<br />
 5. [刺激政策陆续出台，稳房价还是重中之重吗？](https://www.zhihu.com/theater/98961)<br />
-6. [西安一妻子将丈夫送进精神病院，丈夫出院后又将其送进精神病院，如何看待此事？事实真相如何？](https://www.zhihu.com/question/608899147)<br />
-7. [外卖太贵、做饭太累，吃饭难的上班族带火「成人小饭桌」，如何看待这门生意？上班族吃饭问题何解？](https://www.zhihu.com/question/607821291)<br />
+6. [外卖太贵、做饭太累，吃饭难的上班族带火「成人小饭桌」，如何看待这门生意？上班族吃饭问题何解？](https://www.zhihu.com/question/607821291)<br />
+7. [西安一妻子将丈夫送进精神病院，丈夫出院后又将其送进精神病院，如何看待此事？事实真相如何？](https://www.zhihu.com/question/608899147)<br />
 8. [央企国企招聘「内卷」加剧，中石油综合行政岗报录比 470:1，更有清北博士参与应聘，如何看待这一现象？](https://www.zhihu.com/question/609167359)<br />
 9. [山东东营警方通报「男子驾车反复碾压女子致死」，犯罪嫌疑人已被刑拘，法律角度如何解读？](https://www.zhihu.com/question/609117132)<br />
 
@@ -32,8 +32,8 @@
 4. [瞄准机遇，向未来出发](https://www.baidu.com/s?wd=%E7%9E%84%E5%87%86%E6%9C%BA%E9%81%87%EF%BC%8C%E5%90%91%E6%9C%AA%E6%9D%A5%E5%87%BA%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子碾死妻子因遭家暴?女方弟弟回应](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A2%BE%E6%AD%BB%E5%A6%BB%E5%AD%90%E5%9B%A0%E9%81%AD%E5%AE%B6%E6%9A%B4%3F%E5%A5%B3%E6%96%B9%E5%BC%9F%E5%BC%9F%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女生试衣遭陌生男性拉帘暴露下身](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E8%AF%95%E8%A1%A3%E9%81%AD%E9%99%8C%E7%94%9F%E7%94%B7%E6%80%A7%E6%8B%89%E5%B8%98%E6%9A%B4%E9%9C%B2%E4%B8%8B%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子称30年前被强奸后遭拐卖](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B030%E5%B9%B4%E5%89%8D%E8%A2%AB%E5%BC%BA%E5%A5%B8%E5%90%8E%E9%81%AD%E6%8B%90%E5%8D%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [韩综用中国国歌做BGM](https://www.baidu.com/s?wd=%E9%9F%A9%E7%BB%BC%E7%94%A8%E4%B8%AD%E5%9B%BD%E5%9B%BD%E6%AD%8C%E5%81%9ABGM&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [高级动卧票价一站8分钟420元](https://www.baidu.com/s?wd=%E9%AB%98%E7%BA%A7%E5%8A%A8%E5%8D%A7%E7%A5%A8%E4%BB%B7%E4%B8%80%E7%AB%998%E5%88%86%E9%92%9F420%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子称30年前被强奸后遭拐卖](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B030%E5%B9%B4%E5%89%8D%E8%A2%AB%E5%BC%BA%E5%A5%B8%E5%90%8E%E9%81%AD%E6%8B%90%E5%8D%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [时隔6个月中国再现霍乱病例](https://www.baidu.com/s?wd=%E6%97%B6%E9%9A%946%E4%B8%AA%E6%9C%88%E4%B8%AD%E5%9B%BD%E5%86%8D%E7%8E%B0%E9%9C%8D%E4%B9%B1%E7%97%85%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -44,6 +44,6 @@
 4. [瞄准机遇，向未来出发](https://www.baidu.com/s?wd=%E7%9E%84%E5%87%86%E6%9C%BA%E9%81%87%EF%BC%8C%E5%90%91%E6%9C%AA%E6%9D%A5%E5%87%BA%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子碾死妻子因遭家暴?女方弟弟回应](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A2%BE%E6%AD%BB%E5%A6%BB%E5%AD%90%E5%9B%A0%E9%81%AD%E5%AE%B6%E6%9A%B4%3F%E5%A5%B3%E6%96%B9%E5%BC%9F%E5%BC%9F%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女生试衣遭陌生男性拉帘暴露下身](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E8%AF%95%E8%A1%A3%E9%81%AD%E9%99%8C%E7%94%9F%E7%94%B7%E6%80%A7%E6%8B%89%E5%B8%98%E6%9A%B4%E9%9C%B2%E4%B8%8B%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子称30年前被强奸后遭拐卖](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B030%E5%B9%B4%E5%89%8D%E8%A2%AB%E5%BC%BA%E5%A5%B8%E5%90%8E%E9%81%AD%E6%8B%90%E5%8D%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [韩综用中国国歌做BGM](https://www.baidu.com/s?wd=%E9%9F%A9%E7%BB%BC%E7%94%A8%E4%B8%AD%E5%9B%BD%E5%9B%BD%E6%AD%8C%E5%81%9ABGM&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [高级动卧票价一站8分钟420元](https://www.baidu.com/s?wd=%E9%AB%98%E7%BA%A7%E5%8A%A8%E5%8D%A7%E7%A5%A8%E4%BB%B7%E4%B8%80%E7%AB%998%E5%88%86%E9%92%9F420%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子称30年前被强奸后遭拐卖](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B030%E5%B9%B4%E5%89%8D%E8%A2%AB%E5%BC%BA%E5%A5%B8%E5%90%8E%E9%81%AD%E6%8B%90%E5%8D%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [时隔6个月中国再现霍乱病例](https://www.baidu.com/s?wd=%E6%97%B6%E9%9A%946%E4%B8%AA%E6%9C%88%E4%B8%AD%E5%9B%BD%E5%86%8D%E7%8E%B0%E9%9C%8D%E4%B9%B1%E7%97%85%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
