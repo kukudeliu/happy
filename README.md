@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 10:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 10:30:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [《消失的她》中何非如果回头看到了 B 超照片，他会救出李木子吗？](https://www.zhihu.com/question/608865471)<br />
 7. [在职场上如何看领导值不值得跟？](https://www.zhihu.com/question/607278481)<br />
 8. [如何看待「七成年轻人愿意为钱加班」一事？如果每小时 100 块你愿意加班吗？](https://www.zhihu.com/question/608935474)<br />
-9. []()<br />
+9. [为什么国内各大游戏厂商的开放世界游戏陆续难产？](https://www.zhihu.com/question/603518950)<br />
 
 > 百度  
 
