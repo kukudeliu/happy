@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 20:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 20:17:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [大牙 这次我会勇敢法院见](https://s.weibo.com/weibo?q=%E5%A4%A7%E7%89%99%20%E8%BF%99%E6%AC%A1%E6%88%91%E4%BC%9A%E5%8B%87%E6%95%A2%E6%B3%95%E9%99%A2%E8%A7%81&t=31&band_rank=4&Refer=top)<br />
 5. [李沁工作室疑似因造型问题删博](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B2%81%E5%B7%A5%E4%BD%9C%E5%AE%A4%E7%96%91%E4%BC%BC%E5%9B%A0%E9%80%A0%E5%9E%8B%E9%97%AE%E9%A2%98%E5%88%A0%E5%8D%9A%23&t=31&band_rank=5&Refer=top)<br />
 6. [白鹿的体态](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E7%9A%84%E4%BD%93%E6%80%81%23&t=31&band_rank=6&Refer=top)<br />
-7. [大牙方回应被起诉](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%89%99%E6%96%B9%E5%9B%9E%E5%BA%94%E8%A2%AB%E8%B5%B7%E8%AF%89%23&t=31&band_rank=7&Refer=top)<br />
-8. [被丈夫多次碾压致死女子弟弟发声](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E4%B8%88%E5%A4%AB%E5%A4%9A%E6%AC%A1%E7%A2%BE%E5%8E%8B%E8%87%B4%E6%AD%BB%E5%A5%B3%E5%AD%90%E5%BC%9F%E5%BC%9F%E5%8F%91%E5%A3%B0%23&t=31&band_rank=8&Refer=top)<br />
+7. [被丈夫多次碾压致死女子弟弟发声](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E4%B8%88%E5%A4%AB%E5%A4%9A%E6%AC%A1%E7%A2%BE%E5%8E%8B%E8%87%B4%E6%AD%BB%E5%A5%B3%E5%AD%90%E5%BC%9F%E5%BC%9F%E5%8F%91%E5%A3%B0%23&t=31&band_rank=7&Refer=top)<br />
+8. [大牙方回应被起诉](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%89%99%E6%96%B9%E5%9B%9E%E5%BA%94%E8%A2%AB%E8%B5%B7%E8%AF%89%23&t=31&band_rank=8&Refer=top)<br />
 9. [不要再坐公共场合的按摩椅了](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%A6%81%E5%86%8D%E5%9D%90%E5%85%AC%E5%85%B1%E5%9C%BA%E5%90%88%E7%9A%84%E6%8C%89%E6%91%A9%E6%A4%85%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
