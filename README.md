@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 12:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 12:57:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [萧敬腾求婚林有慧](https://s.weibo.com/weibo?q=%23%E8%90%A7%E6%95%AC%E8%85%BE%E6%B1%82%E5%A9%9A%E6%9E%97%E6%9C%89%E6%85%A7%23&t=31&band_rank=5&Refer=top)<br />
 6. [双休和月休八天有什么区别](https://s.weibo.com/weibo?q=%23%E5%8F%8C%E4%BC%91%E5%92%8C%E6%9C%88%E4%BC%91%E5%85%AB%E5%A4%A9%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB%23&t=31&band_rank=6&Refer=top)<br />
 7. [喜茶奈雪为何又不香了](https://s.weibo.com/weibo?q=%23%E5%96%9C%E8%8C%B6%E5%A5%88%E9%9B%AA%E4%B8%BA%E4%BD%95%E5%8F%88%E4%B8%8D%E9%A6%99%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [和对象一起入职当天被辞退了](https://s.weibo.com/weibo?q=%23%E5%92%8C%E5%AF%B9%E8%B1%A1%E4%B8%80%E8%B5%B7%E5%85%A5%E8%81%8C%E5%BD%93%E5%A4%A9%E8%A2%AB%E8%BE%9E%E9%80%80%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [肖战加盟2023湾区升明月](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%8A%A0%E7%9B%9F2023%E6%B9%BE%E5%8C%BA%E5%8D%87%E6%98%8E%E6%9C%88%23&t=31&band_rank=9&Refer=top)<br />
+8. [肖战加盟2023湾区升明月](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%8A%A0%E7%9B%9F2023%E6%B9%BE%E5%8C%BA%E5%8D%87%E6%98%8E%E6%9C%88%23&t=31&band_rank=8&Refer=top)<br />
+9. [和对象一起入职当天被辞退了](https://s.weibo.com/weibo?q=%23%E5%92%8C%E5%AF%B9%E8%B1%A1%E4%B8%80%E8%B5%B7%E5%85%A5%E8%81%8C%E5%BD%93%E5%A4%A9%E8%A2%AB%E8%BE%9E%E9%80%80%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -19,8 +19,8 @@
 3. [2024QS 世界大学排名公布，麻省理工、剑桥、牛津前三，北大 17 清华 25，如何看待新版排名？](https://www.zhihu.com/question/609090659)<br />
 4. [为什么每次进乐高店，店员要问是自己玩还是送人?](https://www.zhihu.com/question/579923538)<br />
 5. [如何看待「七成年轻人愿意为钱加班」一事？如果每小时 100 块你愿意加班吗？](https://www.zhihu.com/question/608935474)<br />
-6. [红极一时的付费自习室「去 K 书」广州 4 家门店已全部关门，并拖欠会员充值费、房租，哪些信息值得关注？](https://www.zhihu.com/question/609067575)<br />
-7. [「妈妈私拆档案袋气哭女儿」引热议，毕业生档案私拆后有什么后果？](https://www.zhihu.com/question/608989364)<br />
+6. [「妈妈私拆档案袋气哭女儿」引热议，毕业生档案私拆后有什么后果？](https://www.zhihu.com/question/608989364)<br />
+7. [红极一时的付费自习室「去 K 书」广州 4 家门店已全部关门，并拖欠会员充值费、房租，哪些信息值得关注？](https://www.zhihu.com/question/609067575)<br />
 8. [1-5 月全国规模以上工业企业利润总额 26688.9 亿元，同比下降 18.8%，哪些信息值得关注？](https://www.zhihu.com/question/609124681)<br />
 9. [如何看待电影《消失的她》评分高开低走？](https://www.zhihu.com/question/608924640)<br />
 
