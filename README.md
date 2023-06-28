@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 14:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 14:06:02</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [王一博官宣还是这图](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%AE%98%E5%AE%A3%E8%BF%98%E6%98%AF%E8%BF%99%E5%9B%BE%23&t=31&band_rank=4&Refer=top)<br />
 5. [刘亦菲入围首尔电视剧大赏最佳女主](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E5%85%A5%E5%9B%B4%E9%A6%96%E5%B0%94%E7%94%B5%E8%A7%86%E5%89%A7%E5%A4%A7%E8%B5%8F%E6%9C%80%E4%BD%B3%E5%A5%B3%E4%B8%BB%23&t=31&band_rank=5&Refer=top)<br />
 6. [iPhone拍照掉队了吗](https://s.weibo.com/weibo?q=%23iPhone%E6%8B%8D%E7%85%A7%E6%8E%89%E9%98%9F%E4%BA%86%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
-7. [人民日报评相关企业拒聘川大学生](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E7%9B%B8%E5%85%B3%E4%BC%81%E4%B8%9A%E6%8B%92%E8%81%98%E5%B7%9D%E5%A4%A7%E5%AD%A6%E7%94%9F%23&t=31&band_rank=7&Refer=top)<br />
-8. [双休和月休八天有什么区别](https://s.weibo.com/weibo?q=%23%E5%8F%8C%E4%BC%91%E5%92%8C%E6%9C%88%E4%BC%91%E5%85%AB%E5%A4%A9%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB%23&t=31&band_rank=8&Refer=top)<br />
+7. [双休和月休八天有什么区别](https://s.weibo.com/weibo?q=%23%E5%8F%8C%E4%BC%91%E5%92%8C%E6%9C%88%E4%BC%91%E5%85%AB%E5%A4%A9%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB%23&t=31&band_rank=7&Refer=top)<br />
+8. [人民日报评相关企业拒聘川大学生](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E7%9B%B8%E5%85%B3%E4%BC%81%E4%B8%9A%E6%8B%92%E8%81%98%E5%B7%9D%E5%A4%A7%E5%AD%A6%E7%94%9F%23&t=31&band_rank=8&Refer=top)<br />
 9. [广州宝马撞人案二审维持死刑原判](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%AE%9D%E9%A9%AC%E6%92%9E%E4%BA%BA%E6%A1%88%E4%BA%8C%E5%AE%A1%E7%BB%B4%E6%8C%81%E6%AD%BB%E5%88%91%E5%8E%9F%E5%88%A4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -18,8 +18,8 @@
 2. [多城二手房挂牌量压顶，上海增幅全国第一，重庆规模全国第一，武汉八成房源降价，如何看待当下二手房市场？](https://www.zhihu.com/question/608945751)<br />
 3. [2024QS 世界大学排名公布，麻省理工、剑桥、牛津前三，北大 17 清华 25，如何看待新版排名？](https://www.zhihu.com/question/609090659)<br />
 4. [「妈妈私拆档案袋气哭女儿」引热议，毕业生档案私拆后有什么后果？](https://www.zhihu.com/question/608989364)<br />
-5. [如何看待「七成年轻人愿意为钱加班」一事？如果每小时 100 块你愿意加班吗？](https://www.zhihu.com/question/608935474)<br />
-6. [如何看待电影《消失的她》评分高开低走？](https://www.zhihu.com/question/608924640)<br />
+5. [如何看待电影《消失的她》评分高开低走？](https://www.zhihu.com/question/608924640)<br />
+6. [如何看待「七成年轻人愿意为钱加班」一事？如果每小时 100 块你愿意加班吗？](https://www.zhihu.com/question/608935474)<br />
 7. [马斯克选定加拿大格斗冠军做陪练，准备应战扎克伯格，此前马斯克母亲发文称已经取消比赛，此事或将如何进展？](https://www.zhihu.com/question/608939502)<br />
 8. [浙江一学生毕业后删除约 90% 的同学老师，称「留着没什么用」，你会删除不常联系的人吗？](https://www.zhihu.com/question/608984327)<br />
 9. [卢卡申科透露与普里戈任谈判细节，「谈了七轮，多次警告他不要触发流血事件」，透露了哪些信息？](https://www.zhihu.com/question/609124717)<br />
