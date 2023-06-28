@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 23:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 23:29:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [杨颖金发像芭比](https://www.baidu.com/s?wd=%E6%9D%A8%E9%A2%96%E9%87%91%E5%8F%91%E5%83%8F%E8%8A%AD%E6%AF%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [韩国人将集体减龄一至两岁](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E4%BA%BA%E5%B0%86%E9%9B%86%E4%BD%93%E5%87%8F%E9%BE%84%E4%B8%80%E8%87%B3%E4%B8%A4%E5%B2%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [私拆女儿档案母亲道歉](https://www.baidu.com/s?wd=%E7%A7%81%E6%8B%86%E5%A5%B3%E5%84%BF%E6%A1%A3%E6%A1%88%E6%AF%8D%E4%BA%B2%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [韩综用中国国歌做BGM](https://www.baidu.com/s?wd=%E9%9F%A9%E7%BB%BC%E7%94%A8%E4%B8%AD%E5%9B%BD%E5%9B%BD%E6%AD%8C%E5%81%9ABGM&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [盘点那些与经纪人在一起的明星](https://www.baidu.com/s?wd=%E7%9B%98%E7%82%B9%E9%82%A3%E4%BA%9B%E4%B8%8E%E7%BB%8F%E7%BA%AA%E4%BA%BA%E5%9C%A8%E4%B8%80%E8%B5%B7%E7%9A%84%E6%98%8E%E6%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [杨颖金发像芭比](https://www.baidu.com/s?wd=%E6%9D%A8%E9%A2%96%E9%87%91%E5%8F%91%E5%83%8F%E8%8A%AD%E6%AF%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [韩国人将集体减龄一至两岁](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E4%BA%BA%E5%B0%86%E9%9B%86%E4%BD%93%E5%87%8F%E9%BE%84%E4%B8%80%E8%87%B3%E4%B8%A4%E5%B2%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [私拆女儿档案母亲道歉](https://www.baidu.com/s?wd=%E7%A7%81%E6%8B%86%E5%A5%B3%E5%84%BF%E6%A1%A3%E6%A1%88%E6%AF%8D%E4%BA%B2%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [韩综用中国国歌做BGM](https://www.baidu.com/s?wd=%E9%9F%A9%E7%BB%BC%E7%94%A8%E4%B8%AD%E5%9B%BD%E5%9B%BD%E6%AD%8C%E5%81%9ABGM&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [盘点那些与经纪人在一起的明星](https://www.baidu.com/s?wd=%E7%9B%98%E7%82%B9%E9%82%A3%E4%BA%9B%E4%B8%8E%E7%BB%8F%E7%BA%AA%E4%BA%BA%E5%9C%A8%E4%B8%80%E8%B5%B7%E7%9A%84%E6%98%8E%E6%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
