@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 19:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 19:38:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [农村三胞胎姐妹均高分超一本线](https://s.weibo.com/weibo?q=%23%E5%86%9C%E6%9D%91%E4%B8%89%E8%83%9E%E8%83%8E%E5%A7%90%E5%A6%B9%E5%9D%87%E9%AB%98%E5%88%86%E8%B6%85%E4%B8%80%E6%9C%AC%E7%BA%BF%23&t=31&band_rank=5&Refer=top)<br />
 6. [蔡徐坤巡演将如期举行](https://s.weibo.com/weibo?q=%E8%94%A1%E5%BE%90%E5%9D%A4%E5%B7%A1%E6%BC%94%E5%B0%86%E5%A6%82%E6%9C%9F%E4%B8%BE%E8%A1%8C&t=31&band_rank=6&Refer=top)<br />
 7. [00后小伙把网红蛙带到了川西](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%B0%8F%E4%BC%99%E6%8A%8A%E7%BD%91%E7%BA%A2%E8%9B%99%E5%B8%A6%E5%88%B0%E4%BA%86%E5%B7%9D%E8%A5%BF%23&t=31&band_rank=7&Refer=top)<br />
-8. [张雪峰建议不好好学习带孩子到四个地方](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%BB%BA%E8%AE%AE%E4%B8%8D%E5%A5%BD%E5%A5%BD%E5%AD%A6%E4%B9%A0%E5%B8%A6%E5%AD%A9%E5%AD%90%E5%88%B0%E5%9B%9B%E4%B8%AA%E5%9C%B0%E6%96%B9%23&t=31&band_rank=8&Refer=top)<br />
-9. [白鹿采访忘词](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E9%87%87%E8%AE%BF%E5%BF%98%E8%AF%8D%23&t=31&band_rank=9&Refer=top)<br />
+8. [白鹿采访忘词](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E9%87%87%E8%AE%BF%E5%BF%98%E8%AF%8D%23&t=31&band_rank=8&Refer=top)<br />
+9. [张雪峰建议不好好学习带孩子到四个地方](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%BB%BA%E8%AE%AE%E4%B8%8D%E5%A5%BD%E5%A5%BD%E5%AD%A6%E4%B9%A0%E5%B8%A6%E5%AD%A9%E5%AD%90%E5%88%B0%E5%9B%9B%E4%B8%AA%E5%9C%B0%E6%96%B9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -20,9 +20,9 @@
 4. [普通农民花十几万供孩子上了一个三本的意义是什么？](https://www.zhihu.com/question/601925776)<br />
 5. [《流浪地球 2》中，550w 这么快，为什么不用来解码全球核武器，而是要派人去手工引爆呢？](https://www.zhihu.com/question/597418932)<br />
 6. [教育部正式批准设立深圳职业技术大学，如何看待此事？](https://www.zhihu.com/question/608543386)<br />
-7. [台防务部门罕见通报「两艘俄罗斯护卫舰现身台东部海域」，透露了哪些信息？](https://www.zhihu.com/question/609120611)<br />
-8. [外卖太贵、做饭太累，吃饭难的上班族带火「成人小饭桌」，如何看待这门生意？上班族吃饭问题何解？](https://www.zhihu.com/question/607821291)<br />
-9. [英雄联盟为什么不设计一个真正的 ap 射手？](https://www.zhihu.com/question/609023601)<br />
+7. [外卖太贵、做饭太累，吃饭难的上班族带火「成人小饭桌」，如何看待这门生意？上班族吃饭问题何解？](https://www.zhihu.com/question/607821291)<br />
+8. [台防务部门罕见通报「两艘俄罗斯护卫舰现身台东部海域」，透露了哪些信息？](https://www.zhihu.com/question/609120611)<br />
+9. [2023 河南高考近 15 万考生过一本线，600 分及以上超 2.6 万人，如何看待河南高考成绩？](https://www.zhihu.com/question/608449348)<br />
 
 > 百度  
 
