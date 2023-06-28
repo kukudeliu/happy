@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 21:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 21:10:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [陈都灵蓝发人鱼姬](https://s.weibo.com/weibo?q=%23%E9%99%88%E9%83%BD%E7%81%B5%E8%93%9D%E5%8F%91%E4%BA%BA%E9%B1%BC%E5%A7%AC%23&t=31&band_rank=6&Refer=top)<br />
 7. [四川考生王俊凯高考699分](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E8%80%83%E7%94%9F%E7%8E%8B%E4%BF%8A%E5%87%AF%E9%AB%98%E8%80%83699%E5%88%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [杨幂在酷暑张艺兴在寒冬](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%9C%A8%E9%85%B7%E6%9A%91%E5%BC%A0%E8%89%BA%E5%85%B4%E5%9C%A8%E5%AF%92%E5%86%AC%23&t=31&band_rank=8&Refer=top)<br />
-9. [28个月男童误入电梯坠楼身亡](https://s.weibo.com/weibo?q=%2328%E4%B8%AA%E6%9C%88%E7%94%B7%E7%AB%A5%E8%AF%AF%E5%85%A5%E7%94%B5%E6%A2%AF%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
+9. [Victoria还是这么美](https://s.weibo.com/weibo?q=Victoria%E8%BF%98%E6%98%AF%E8%BF%99%E4%B9%88%E7%BE%8E&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
