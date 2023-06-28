@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 12:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 12:51:01</h4></div>
 
 > 微博  
 
 1. [人民日报评相关企业拒聘川大学生](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E7%9B%B8%E5%85%B3%E4%BC%81%E4%B8%9A%E6%8B%92%E8%81%98%E5%B7%9D%E5%A4%A7%E5%AD%A6%E7%94%9F%23&t=31&band_rank=1&Refer=top)<br />
-2. [和对象一起入职当天被辞退了](https://s.weibo.com/weibo?q=%23%E5%92%8C%E5%AF%B9%E8%B1%A1%E4%B8%80%E8%B5%B7%E5%85%A5%E8%81%8C%E5%BD%93%E5%A4%A9%E8%A2%AB%E8%BE%9E%E9%80%80%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
+2. [聊半年的暧昧对象突然领证了](https://s.weibo.com/weibo?q=%23%E8%81%8A%E5%8D%8A%E5%B9%B4%E7%9A%84%E6%9A%A7%E6%98%A7%E5%AF%B9%E8%B1%A1%E7%AA%81%E7%84%B6%E9%A2%86%E8%AF%81%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [成都大运会倒计时1个月](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%A4%A7%E8%BF%90%E4%BC%9A%E5%80%92%E8%AE%A1%E6%97%B61%E4%B8%AA%E6%9C%88%23&t=31&band_rank=3&Refer=top)<br />
-4. [聊半年的暧昧对象突然领证了](https://s.weibo.com/weibo?q=%23%E8%81%8A%E5%8D%8A%E5%B9%B4%E7%9A%84%E6%9A%A7%E6%98%A7%E5%AF%B9%E8%B1%A1%E7%AA%81%E7%84%B6%E9%A2%86%E8%AF%81%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
+4. [和对象一起入职当天被辞退了](https://s.weibo.com/weibo?q=%23%E5%92%8C%E5%AF%B9%E8%B1%A1%E4%B8%80%E8%B5%B7%E5%85%A5%E8%81%8C%E5%BD%93%E5%A4%A9%E8%A2%AB%E8%BE%9E%E9%80%80%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [广州宝马撞人案二审维持死刑原判](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%AE%9D%E9%A9%AC%E6%92%9E%E4%BA%BA%E6%A1%88%E4%BA%8C%E5%AE%A1%E7%BB%B4%E6%8C%81%E6%AD%BB%E5%88%91%E5%8E%9F%E5%88%A4%23&t=31&band_rank=5&Refer=top)<br />
 6. [萧敬腾求婚林有慧](https://s.weibo.com/weibo?q=%23%E8%90%A7%E6%95%AC%E8%85%BE%E6%B1%82%E5%A9%9A%E6%9E%97%E6%9C%89%E6%85%A7%23&t=31&band_rank=6&Refer=top)<br />
 7. [双休和月休八天有什么区别](https://s.weibo.com/weibo?q=%23%E5%8F%8C%E4%BC%91%E5%92%8C%E6%9C%88%E4%BC%91%E5%85%AB%E5%A4%A9%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB%23&t=31&band_rank=7&Refer=top)<br />
