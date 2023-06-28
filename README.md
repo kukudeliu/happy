@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 09:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 09:21:02</h4></div>
 
 > 微博  
 
 1. [同事怀孕后一直请假我离职了](https://s.weibo.com/weibo?q=%23%E5%90%8C%E4%BA%8B%E6%80%80%E5%AD%95%E5%90%8E%E4%B8%80%E7%9B%B4%E8%AF%B7%E5%81%87%E6%88%91%E7%A6%BB%E8%81%8C%E4%BA%86%23&t=31&band_rank=1&Refer=top)<br />
-2. [萧敬腾求婚林有慧](https://s.weibo.com/weibo?q=%23%E8%90%A7%E6%95%AC%E8%85%BE%E6%B1%82%E5%A9%9A%E6%9E%97%E6%9C%89%E6%85%A7%23&t=31&band_rank=2&Refer=top)<br />
+2. [高考377分复读一年逆袭677分](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83377%E5%88%86%E5%A4%8D%E8%AF%BB%E4%B8%80%E5%B9%B4%E9%80%86%E8%A2%AD677%E5%88%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [达沃斯在天津](https://s.weibo.com/weibo?q=%23%E8%BE%BE%E6%B2%83%E6%96%AF%E5%9C%A8%E5%A4%A9%E6%B4%A5%23&t=31&band_rank=3&Refer=top)<br />
-4. [高考377分复读一年逆袭677分](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83377%E5%88%86%E5%A4%8D%E8%AF%BB%E4%B8%80%E5%B9%B4%E9%80%86%E8%A2%AD677%E5%88%86%23&t=31&band_rank=4&Refer=top)<br />
+4. [萧敬腾求婚林有慧](https://s.weibo.com/weibo?q=%23%E8%90%A7%E6%95%AC%E8%85%BE%E6%B1%82%E5%A9%9A%E6%9E%97%E6%9C%89%E6%85%A7%23&t=31&band_rank=4&Refer=top)<br />
 5. [喜茶奈雪为何又不香了](https://s.weibo.com/weibo?q=%23%E5%96%9C%E8%8C%B6%E5%A5%88%E9%9B%AA%E4%B8%BA%E4%BD%95%E5%8F%88%E4%B8%8D%E9%A6%99%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [消失的她又双叒票房逆跌了](https://s.weibo.com/weibo?q=%23%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E5%8F%88%E5%8F%8C%E5%8F%92%E7%A5%A8%E6%88%BF%E9%80%86%E8%B7%8C%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [六公主拍的Angelababy](https://s.weibo.com/weibo?q=%23%E5%85%AD%E5%85%AC%E4%B8%BB%E6%8B%8D%E7%9A%84Angelababy%23&t=31&band_rank=7&Refer=top)<br />
@@ -21,8 +21,8 @@
 5. [马克龙接受美媒采访时称「法国愿意让中国融入全球秩序、更独立自主的欧洲很重要」，如何解读其表态？](https://www.zhihu.com/question/608830423)<br />
 6. [如何评价《王者荣耀》S32 开篇新英雄亚连？](https://www.zhihu.com/question/608317885)<br />
 7. [日本「AI 红娘」促成相亲成功率高，如何看待此事？未来 AI 相亲匹配系统会普及吗？](https://www.zhihu.com/question/608916386)<br />
-8. [贵州一 6 岁男童感染食脑虫，曾到海边游泳，什么是食脑虫？感染后治疗情况如何？](https://www.zhihu.com/question/608893347)<br />
-9. [住建部表示将提高住房品质，探索建立房屋养老金制度，此举将带来哪些长远影响？](https://www.zhihu.com/question/608976349)<br />
+8. [住建部表示将提高住房品质，探索建立房屋养老金制度，此举将带来哪些长远影响？](https://www.zhihu.com/question/608976349)<br />
+9. [贵州一 6 岁男童感染食脑虫，曾到海边游泳，什么是食脑虫？感染后治疗情况如何？](https://www.zhihu.com/question/608893347)<br />
 
 > 百度  
 
