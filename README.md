@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 17:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 17:54:02</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [普通农民花十几万供孩子上了一个三本的意义是什么？](https://www.zhihu.com/question/601925776)<br />
 5. [《流浪地球 2》中，550w 这么快，为什么不用来解码全球核武器，而是要派人去手工引爆呢？](https://www.zhihu.com/question/597418932)<br />
 6. [2023 河南高考近 15 万考生过一本线，600 分及以上超 2.6 万人，如何看待河南高考成绩？](https://www.zhihu.com/question/608449348)<br />
-7. [有没有可能太阳的核心已经熄灭，停止核聚变，但是地球人还不知道？](https://www.zhihu.com/question/55606798)<br />
-8. [山东东营警方通报「男子驾车反复碾压女子致死」，犯罪嫌疑人已被刑拘，法律角度如何解读？](https://www.zhihu.com/question/609117132)<br />
-9. [曝李铁结束留置调查阶段，已被移送至看守所并且正式逮捕，下一步是法院庭审，有哪些信息值得关注？](https://www.zhihu.com/question/609125365)<br />
+7. [山东东营警方通报「男子驾车反复碾压女子致死」，犯罪嫌疑人已被刑拘，法律角度如何解读？](https://www.zhihu.com/question/609117132)<br />
+8. [曝李铁结束留置调查阶段，已被移送至看守所并且正式逮捕，下一步是法院庭审，有哪些信息值得关注？](https://www.zhihu.com/question/609125365)<br />
+9. [有没有可能太阳的核心已经熄灭，停止核聚变，但是地球人还不知道？](https://www.zhihu.com/question/55606798)<br />
 
 > 百度  
 
@@ -34,7 +34,7 @@
 6. [范玮琪被曝失联后首发文](https://www.baidu.com/s?wd=%E8%8C%83%E7%8E%AE%E7%90%AA%E8%A2%AB%E6%9B%9D%E5%A4%B1%E8%81%94%E5%90%8E%E9%A6%96%E5%8F%91%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [运营者:每月百部偷拍影片从中国传来](https://www.baidu.com/s?wd=%E8%BF%90%E8%90%A5%E8%80%85%3A%E6%AF%8F%E6%9C%88%E7%99%BE%E9%83%A8%E5%81%B7%E6%8B%8D%E5%BD%B1%E7%89%87%E4%BB%8E%E4%B8%AD%E5%9B%BD%E4%BC%A0%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [恒大地产被强制执行10.9亿](https://www.baidu.com/s?wd=%E6%81%92%E5%A4%A7%E5%9C%B0%E4%BA%A7%E8%A2%AB%E5%BC%BA%E5%88%B6%E6%89%A7%E8%A1%8C10.9%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子13岁得糖尿病27岁进ICU](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%9013%E5%B2%81%E5%BE%97%E7%B3%96%E5%B0%BF%E7%97%8527%E5%B2%81%E8%BF%9BICU&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [小猴子意外被困树洞](https://www.baidu.com/s?wd=%E5%B0%8F%E7%8C%B4%E5%AD%90%E6%84%8F%E5%A4%96%E8%A2%AB%E5%9B%B0%E6%A0%91%E6%B4%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [范玮琪被曝失联后首发文](https://www.baidu.com/s?wd=%E8%8C%83%E7%8E%AE%E7%90%AA%E8%A2%AB%E6%9B%9D%E5%A4%B1%E8%81%94%E5%90%8E%E9%A6%96%E5%8F%91%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [运营者:每月百部偷拍影片从中国传来](https://www.baidu.com/s?wd=%E8%BF%90%E8%90%A5%E8%80%85%3A%E6%AF%8F%E6%9C%88%E7%99%BE%E9%83%A8%E5%81%B7%E6%8B%8D%E5%BD%B1%E7%89%87%E4%BB%8E%E4%B8%AD%E5%9B%BD%E4%BC%A0%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [恒大地产被强制执行10.9亿](https://www.baidu.com/s?wd=%E6%81%92%E5%A4%A7%E5%9C%B0%E4%BA%A7%E8%A2%AB%E5%BC%BA%E5%88%B6%E6%89%A7%E8%A1%8C10.9%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子13岁得糖尿病27岁进ICU](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%9013%E5%B2%81%E5%BE%97%E7%B3%96%E5%B0%BF%E7%97%8527%E5%B2%81%E8%BF%9BICU&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [小猴子意外被困树洞](https://www.baidu.com/s?wd=%E5%B0%8F%E7%8C%B4%E5%AD%90%E6%84%8F%E5%A4%96%E8%A2%AB%E5%9B%B0%E6%A0%91%E6%B4%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
