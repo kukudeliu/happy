@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 02:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 02:09:01</h4></div>
 
 > 微博  
 
@@ -31,10 +31,10 @@
 3. [胃癌几乎都是吃出来的](https://www.baidu.com/s?wd=%E8%83%83%E7%99%8C%E5%87%A0%E4%B9%8E%E9%83%BD%E6%98%AF%E5%90%83%E5%87%BA%E6%9D%A5%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [小微经济呈现八大新亮点](https://www.baidu.com/s?wd=%E5%B0%8F%E5%BE%AE%E7%BB%8F%E6%B5%8E%E5%91%88%E7%8E%B0%E5%85%AB%E5%A4%A7%E6%96%B0%E4%BA%AE%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [高级动卧票价一站8分钟420元](https://www.baidu.com/s?wd=%E9%AB%98%E7%BA%A7%E5%8A%A8%E5%8D%A7%E7%A5%A8%E4%BB%B7%E4%B8%80%E7%AB%998%E5%88%86%E9%92%9F420%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [霸占电脑拒办证工作人员被停职](https://www.baidu.com/s?wd=%E9%9C%B8%E5%8D%A0%E7%94%B5%E8%84%91%E6%8B%92%E5%8A%9E%E8%AF%81%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E8%A2%AB%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [记者调查养猪场被持刀追赶](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E8%B0%83%E6%9F%A5%E5%85%BB%E7%8C%AA%E5%9C%BA%E8%A2%AB%E6%8C%81%E5%88%80%E8%BF%BD%E8%B5%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [菜鸟官宣自营快递菜鸟速递](https://www.baidu.com/s?wd=%E8%8F%9C%E9%B8%9F%E5%AE%98%E5%AE%A3%E8%87%AA%E8%90%A5%E5%BF%AB%E9%80%92%E8%8F%9C%E9%B8%9F%E9%80%9F%E9%80%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [霸占电脑拒办证工作人员被停职](https://www.baidu.com/s?wd=%E9%9C%B8%E5%8D%A0%E7%94%B5%E8%84%91%E6%8B%92%E5%8A%9E%E8%AF%81%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E8%A2%AB%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [时隔6个月中国再现霍乱病例](https://www.baidu.com/s?wd=%E6%97%B6%E9%9A%946%E4%B8%AA%E6%9C%88%E4%B8%AD%E5%9B%BD%E5%86%8D%E7%8E%B0%E9%9C%8D%E4%B9%B1%E7%97%85%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [法院回应女子称被女法官抓伤面部](https://www.baidu.com/s?wd=%E6%B3%95%E9%99%A2%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E7%A7%B0%E8%A2%AB%E5%A5%B3%E6%B3%95%E5%AE%98%E6%8A%93%E4%BC%A4%E9%9D%A2%E9%83%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子在动车上霸座充电被行拘](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E5%8A%A8%E8%BD%A6%E4%B8%8A%E9%9C%B8%E5%BA%A7%E5%85%85%E7%94%B5%E8%A2%AB%E8%A1%8C%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [胃癌几乎都是吃出来的](https://www.baidu.com/s?wd=%E8%83%83%E7%99%8C%E5%87%A0%E4%B9%8E%E9%83%BD%E6%98%AF%E5%90%83%E5%87%BA%E6%9D%A5%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [小微经济呈现八大新亮点](https://www.baidu.com/s?wd=%E5%B0%8F%E5%BE%AE%E7%BB%8F%E6%B5%8E%E5%91%88%E7%8E%B0%E5%85%AB%E5%A4%A7%E6%96%B0%E4%BA%AE%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [高级动卧票价一站8分钟420元](https://www.baidu.com/s?wd=%E9%AB%98%E7%BA%A7%E5%8A%A8%E5%8D%A7%E7%A5%A8%E4%BB%B7%E4%B8%80%E7%AB%998%E5%88%86%E9%92%9F420%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [霸占电脑拒办证工作人员被停职](https://www.baidu.com/s?wd=%E9%9C%B8%E5%8D%A0%E7%94%B5%E8%84%91%E6%8B%92%E5%8A%9E%E8%AF%81%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E8%A2%AB%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [记者调查养猪场被持刀追赶](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E8%B0%83%E6%9F%A5%E5%85%BB%E7%8C%AA%E5%9C%BA%E8%A2%AB%E6%8C%81%E5%88%80%E8%BF%BD%E8%B5%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [菜鸟官宣自营快递菜鸟速递](https://www.baidu.com/s?wd=%E8%8F%9C%E9%B8%9F%E5%AE%98%E5%AE%A3%E8%87%AA%E8%90%A5%E5%BF%AB%E9%80%92%E8%8F%9C%E9%B8%9F%E9%80%9F%E9%80%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [霸占电脑拒办证工作人员被停职](https://www.baidu.com/s?wd=%E9%9C%B8%E5%8D%A0%E7%94%B5%E8%84%91%E6%8B%92%E5%8A%9E%E8%AF%81%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E8%A2%AB%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [时隔6个月中国再现霍乱病例](https://www.baidu.com/s?wd=%E6%97%B6%E9%9A%946%E4%B8%AA%E6%9C%88%E4%B8%AD%E5%9B%BD%E5%86%8D%E7%8E%B0%E9%9C%8D%E4%B9%B1%E7%97%85%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [法院回应女子称被女法官抓伤面部](https://www.baidu.com/s?wd=%E6%B3%95%E9%99%A2%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E7%A7%B0%E8%A2%AB%E5%A5%B3%E6%B3%95%E5%AE%98%E6%8A%93%E4%BC%A4%E9%9D%A2%E9%83%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子在动车上霸座充电被行拘](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E5%8A%A8%E8%BD%A6%E4%B8%8A%E9%9C%B8%E5%BA%A7%E5%85%85%E7%94%B5%E8%A2%AB%E8%A1%8C%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
