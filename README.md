@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 11:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 11:22:01</h4></div>
 
 > 微博  
 
 1. [喜茶奈雪为何又不香了](https://s.weibo.com/weibo?q=%23%E5%96%9C%E8%8C%B6%E5%A5%88%E9%9B%AA%E4%B8%BA%E4%BD%95%E5%8F%88%E4%B8%8D%E9%A6%99%E4%BA%86%23&t=31&band_rank=1&Refer=top)<br />
 2. [人民日报评相关企业拒聘川大学生](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E7%9B%B8%E5%85%B3%E4%BC%81%E4%B8%9A%E6%8B%92%E8%81%98%E5%B7%9D%E5%A4%A7%E5%AD%A6%E7%94%9F%23&t=31&band_rank=2&Refer=top)<br />
-3. [达沃斯在天津](https://s.weibo.com/weibo?q=%23%E8%BE%BE%E6%B2%83%E6%96%AF%E5%9C%A8%E5%A4%A9%E6%B4%A5%23&t=31&band_rank=3&Refer=top)<br />
-4. [高考377分复读一年逆袭677分](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83377%E5%88%86%E5%A4%8D%E8%AF%BB%E4%B8%80%E5%B9%B4%E9%80%86%E8%A2%AD677%E5%88%86%23&t=31&band_rank=4&Refer=top)<br />
-5. [和对象一起入职当天被辞退了](https://s.weibo.com/weibo?q=%23%E5%92%8C%E5%AF%B9%E8%B1%A1%E4%B8%80%E8%B5%B7%E5%85%A5%E8%81%8C%E5%BD%93%E5%A4%A9%E8%A2%AB%E8%BE%9E%E9%80%80%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
-6. [萧敬腾求婚林有慧](https://s.weibo.com/weibo?q=%23%E8%90%A7%E6%95%AC%E8%85%BE%E6%B1%82%E5%A9%9A%E6%9E%97%E6%9C%89%E6%85%A7%23&t=31&band_rank=6&Refer=top)<br />
-7. [同事怀孕后一直请假我离职了](https://s.weibo.com/weibo?q=%23%E5%90%8C%E4%BA%8B%E6%80%80%E5%AD%95%E5%90%8E%E4%B8%80%E7%9B%B4%E8%AF%B7%E5%81%87%E6%88%91%E7%A6%BB%E8%81%8C%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [消失的她李木子视角](https://s.weibo.com/weibo?q=%23%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E6%9D%8E%E6%9C%A8%E5%AD%90%E8%A7%86%E8%A7%92%23&t=31&band_rank=8&Refer=top)<br />
-9. [黄子韬说挺想宋亚轩的](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E8%AF%B4%E6%8C%BA%E6%83%B3%E5%AE%8B%E4%BA%9A%E8%BD%A9%E7%9A%84%23&t=31&band_rank=9&Refer=top)<br />
+3. [高考377分复读一年逆袭677分](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83377%E5%88%86%E5%A4%8D%E8%AF%BB%E4%B8%80%E5%B9%B4%E9%80%86%E8%A2%AD677%E5%88%86%23&t=31&band_rank=3&Refer=top)<br />
+4. [和对象一起入职当天被辞退了](https://s.weibo.com/weibo?q=%23%E5%92%8C%E5%AF%B9%E8%B1%A1%E4%B8%80%E8%B5%B7%E5%85%A5%E8%81%8C%E5%BD%93%E5%A4%A9%E8%A2%AB%E8%BE%9E%E9%80%80%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
+5. [萧敬腾求婚林有慧](https://s.weibo.com/weibo?q=%23%E8%90%A7%E6%95%AC%E8%85%BE%E6%B1%82%E5%A9%9A%E6%9E%97%E6%9C%89%E6%85%A7%23&t=31&band_rank=5&Refer=top)<br />
+6. [同事怀孕后一直请假我离职了](https://s.weibo.com/weibo?q=%23%E5%90%8C%E4%BA%8B%E6%80%80%E5%AD%95%E5%90%8E%E4%B8%80%E7%9B%B4%E8%AF%B7%E5%81%87%E6%88%91%E7%A6%BB%E8%81%8C%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
+7. [消失的她李木子视角](https://s.weibo.com/weibo?q=%23%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E6%9D%8E%E6%9C%A8%E5%AD%90%E8%A7%86%E8%A7%92%23&t=31&band_rank=7&Refer=top)<br />
+8. [黄子韬说挺想宋亚轩的](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E8%AF%B4%E6%8C%BA%E6%83%B3%E5%AE%8B%E4%BA%9A%E8%BD%A9%E7%9A%84%23&t=31&band_rank=8&Refer=top)<br />
+9. [达沃斯在天津](https://s.weibo.com/weibo?q=%23%E8%BE%BE%E6%B2%83%E6%96%AF%E5%9C%A8%E5%A4%A9%E6%B4%A5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
