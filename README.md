@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 23:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 23:32:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [Victoria还是这么美](https://s.weibo.com/weibo?q=Victoria%E8%BF%98%E6%98%AF%E8%BF%99%E4%B9%88%E7%BE%8E&t=31&band_rank=6&Refer=top)<br />
 7. [不要再坐公共场合的按摩椅了](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%A6%81%E5%86%8D%E5%9D%90%E5%85%AC%E5%85%B1%E5%9C%BA%E5%90%88%E7%9A%84%E6%8C%89%E6%91%A9%E6%A4%85%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [李现被杨幂夸好帅的反应](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%B0%E8%A2%AB%E6%9D%A8%E5%B9%82%E5%A4%B8%E5%A5%BD%E5%B8%85%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=8&Refer=top)<br />
-9. [四川考生王俊凯高考699分](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E8%80%83%E7%94%9F%E7%8E%8B%E4%BF%8A%E5%87%AF%E9%AB%98%E8%80%83699%E5%88%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [Uzi卡莎超神](https://s.weibo.com/weibo?q=%23Uzi%E5%8D%A1%E8%8E%8E%E8%B6%85%E7%A5%9E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
