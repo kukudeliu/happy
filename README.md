@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 09:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 09:56:01</h4></div>
 
 > 微博  
 
@@ -20,8 +20,8 @@
 4. [为什么每次进乐高店，店员要问是自己玩还是送人?](https://www.zhihu.com/question/579923538)<br />
 5. [住建部表示将提高住房品质，探索建立房屋养老金制度，此举将带来哪些长远影响？](https://www.zhihu.com/question/608976349)<br />
 6. [《消失的她》中何非如果回头看到了 B 超照片，他会救出李木子吗?](https://www.zhihu.com/question/608865471)<br />
-7. [如何评价《王者荣耀》S32 开篇新英雄亚连？](https://www.zhihu.com/question/608317885)<br />
-8. [普京称「俄政府一年内向瓦格纳提供超 860 亿卢布，将调查瓦格纳资金问题」，透露了哪些信息？](https://www.zhihu.com/question/609049162)<br />
+7. [普京称「俄政府一年内向瓦格纳提供超 860 亿卢布，将调查瓦格纳资金问题」，透露了哪些信息？](https://www.zhihu.com/question/609049162)<br />
+8. [如何评价《王者荣耀》S32 开篇新英雄亚连？](https://www.zhihu.com/question/608317885)<br />
 9. [在职场上如何看领导值不值得跟？](https://www.zhihu.com/question/607278481)<br />
 
 > 百度  
