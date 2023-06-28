@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 16:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 16:08:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [普京曾有意杀死普里戈任](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E6%9B%BE%E6%9C%89%E6%84%8F%E6%9D%80%E6%AD%BB%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%23&t=31&band_rank=4&Refer=top)<br />
 5. [年轻人唯一有点把握的是单身](https://s.weibo.com/weibo?q=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%94%AF%E4%B8%80%E6%9C%89%E7%82%B9%E6%8A%8A%E6%8F%A1%E7%9A%84%E6%98%AF%E5%8D%95%E8%BA%AB&t=31&band_rank=5&Refer=top)<br />
 6. [吃完小龙虾美甲变绿了](https://s.weibo.com/weibo?q=%23%E5%90%83%E5%AE%8C%E5%B0%8F%E9%BE%99%E8%99%BE%E7%BE%8E%E7%94%B2%E5%8F%98%E7%BB%BF%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [陈建州起诉大牙](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BB%BA%E5%B7%9E%E8%B5%B7%E8%AF%89%E5%A4%A7%E7%89%99%23&t=31&band_rank=7&Refer=top)<br />
-8. [B站崩了](https://s.weibo.com/weibo?q=B%E7%AB%99%E5%B4%A9%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
+7. [B站崩了](https://s.weibo.com/weibo?q=B%E7%AB%99%E5%B4%A9%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
+8. [陈建州起诉大牙](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BB%BA%E5%B7%9E%E8%B5%B7%E8%AF%89%E5%A4%A7%E7%89%99%23&t=31&band_rank=8&Refer=top)<br />
 9. [王一博官宣还是这图](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%AE%98%E5%AE%A3%E8%BF%98%E6%98%AF%E8%BF%99%E5%9B%BE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
