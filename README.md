@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 13:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 13:10:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [卢卡申科普里戈任谈判被曝出口成脏](https://www.baidu.com/s?wd=%E5%8D%A2%E5%8D%A1%E7%94%B3%E7%A7%91%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E8%B0%88%E5%88%A4%E8%A2%AB%E6%9B%9D%E5%87%BA%E5%8F%A3%E6%88%90%E8%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [网友称被江苏一民警强奸 纪委介入](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B0%E8%A2%AB%E6%B1%9F%E8%8B%8F%E4%B8%80%E6%B0%91%E8%AD%A6%E5%BC%BA%E5%A5%B8+%E7%BA%AA%E5%A7%94%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [萧敬腾求婚时叫未婚妻妈妈](https://www.baidu.com/s?wd=%E8%90%A7%E6%95%AC%E8%85%BE%E6%B1%82%E5%A9%9A%E6%97%B6%E5%8F%AB%E6%9C%AA%E5%A9%9A%E5%A6%BB%E5%A6%88%E5%A6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子13岁得糖尿病27岁进ICU](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%9013%E5%B2%81%E5%BE%97%E7%B3%96%E5%B0%BF%E7%97%8527%E5%B2%81%E8%BF%9BICU&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [俞敏洪首次透露自己的遗嘱分配](https://www.baidu.com/s?wd=%E4%BF%9E%E6%95%8F%E6%B4%AA%E9%A6%96%E6%AC%A1%E9%80%8F%E9%9C%B2%E8%87%AA%E5%B7%B1%E7%9A%84%E9%81%97%E5%98%B1%E5%88%86%E9%85%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [俞敏洪首次透露自己的遗嘱分配](https://www.baidu.com/s?wd=%E4%BF%9E%E6%95%8F%E6%B4%AA%E9%A6%96%E6%AC%A1%E9%80%8F%E9%9C%B2%E8%87%AA%E5%B7%B1%E7%9A%84%E9%81%97%E5%98%B1%E5%88%86%E9%85%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子13岁得糖尿病27岁进ICU](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%9013%E5%B2%81%E5%BE%97%E7%B3%96%E5%B0%BF%E7%97%8527%E5%B2%81%E8%BF%9BICU&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [卢卡申科普里戈任谈判被曝出口成脏](https://www.baidu.com/s?wd=%E5%8D%A2%E5%8D%A1%E7%94%B3%E7%A7%91%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E8%B0%88%E5%88%A4%E8%A2%AB%E6%9B%9D%E5%87%BA%E5%8F%A3%E6%88%90%E8%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [网友称被江苏一民警强奸 纪委介入](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B0%E8%A2%AB%E6%B1%9F%E8%8B%8F%E4%B8%80%E6%B0%91%E8%AD%A6%E5%BC%BA%E5%A5%B8+%E7%BA%AA%E5%A7%94%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [萧敬腾求婚时叫未婚妻妈妈](https://www.baidu.com/s?wd=%E8%90%A7%E6%95%AC%E8%85%BE%E6%B1%82%E5%A9%9A%E6%97%B6%E5%8F%AB%E6%9C%AA%E5%A9%9A%E5%A6%BB%E5%A6%88%E5%A6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子13岁得糖尿病27岁进ICU](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%9013%E5%B2%81%E5%BE%97%E7%B3%96%E5%B0%BF%E7%97%8527%E5%B2%81%E8%BF%9BICU&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [俞敏洪首次透露自己的遗嘱分配](https://www.baidu.com/s?wd=%E4%BF%9E%E6%95%8F%E6%B4%AA%E9%A6%96%E6%AC%A1%E9%80%8F%E9%9C%B2%E8%87%AA%E5%B7%B1%E7%9A%84%E9%81%97%E5%98%B1%E5%88%86%E9%85%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [俞敏洪首次透露自己的遗嘱分配](https://www.baidu.com/s?wd=%E4%BF%9E%E6%95%8F%E6%B4%AA%E9%A6%96%E6%AC%A1%E9%80%8F%E9%9C%B2%E8%87%AA%E5%B7%B1%E7%9A%84%E9%81%97%E5%98%B1%E5%88%86%E9%85%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子13岁得糖尿病27岁进ICU](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%9013%E5%B2%81%E5%BE%97%E7%B3%96%E5%B0%BF%E7%97%8527%E5%B2%81%E8%BF%9BICU&sa=fyb_news&rsv_dl=fyb_news)<br />
