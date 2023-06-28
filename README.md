@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 12:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 12:56:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [广州宝马撞人案二审维持死刑原判](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%AE%9D%E9%A9%AC%E6%92%9E%E4%BA%BA%E6%A1%88%E4%BA%8C%E5%AE%A1%E7%BB%B4%E6%8C%81%E6%AD%BB%E5%88%91%E5%8E%9F%E5%88%A4%23&t=31&band_rank=4&Refer=top)<br />
 5. [萧敬腾求婚林有慧](https://s.weibo.com/weibo?q=%23%E8%90%A7%E6%95%AC%E8%85%BE%E6%B1%82%E5%A9%9A%E6%9E%97%E6%9C%89%E6%85%A7%23&t=31&band_rank=5&Refer=top)<br />
 6. [双休和月休八天有什么区别](https://s.weibo.com/weibo?q=%23%E5%8F%8C%E4%BC%91%E5%92%8C%E6%9C%88%E4%BC%91%E5%85%AB%E5%A4%A9%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB%23&t=31&band_rank=6&Refer=top)<br />
-7. [和对象一起入职当天被辞退了](https://s.weibo.com/weibo?q=%23%E5%92%8C%E5%AF%B9%E8%B1%A1%E4%B8%80%E8%B5%B7%E5%85%A5%E8%81%8C%E5%BD%93%E5%A4%A9%E8%A2%AB%E8%BE%9E%E9%80%80%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [喜茶奈雪为何又不香了](https://s.weibo.com/weibo?q=%23%E5%96%9C%E8%8C%B6%E5%A5%88%E9%9B%AA%E4%B8%BA%E4%BD%95%E5%8F%88%E4%B8%8D%E9%A6%99%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+7. [喜茶奈雪为何又不香了](https://s.weibo.com/weibo?q=%23%E5%96%9C%E8%8C%B6%E5%A5%88%E9%9B%AA%E4%B8%BA%E4%BD%95%E5%8F%88%E4%B8%8D%E9%A6%99%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+8. [和对象一起入职当天被辞退了](https://s.weibo.com/weibo?q=%23%E5%92%8C%E5%AF%B9%E8%B1%A1%E4%B8%80%E8%B5%B7%E5%85%A5%E8%81%8C%E5%BD%93%E5%A4%A9%E8%A2%AB%E8%BE%9E%E9%80%80%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [肖战加盟2023湾区升明月](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%8A%A0%E7%9B%9F2023%E6%B9%BE%E5%8C%BA%E5%8D%87%E6%98%8E%E6%9C%88%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
