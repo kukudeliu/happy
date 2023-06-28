@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 17:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 17:17:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [知情人讲述男子反复碾压妻子致死](https://s.weibo.com/weibo?q=%23%E7%9F%A5%E6%83%85%E4%BA%BA%E8%AE%B2%E8%BF%B0%E7%94%B7%E5%AD%90%E5%8F%8D%E5%A4%8D%E7%A2%BE%E5%8E%8B%E5%A6%BB%E5%AD%90%E8%87%B4%E6%AD%BB%23&t=31&band_rank=2&Refer=top)<br />
 3. [穿越中国新基建](https://s.weibo.com/weibo?q=%23%E7%A9%BF%E8%B6%8A%E4%B8%AD%E5%9B%BD%E6%96%B0%E5%9F%BA%E5%BB%BA%23&t=31&band_rank=3&Refer=top)<br />
 4. [GQ主编评价宋妍霏衣服闪瞎](https://s.weibo.com/weibo?q=%23GQ%E4%B8%BB%E7%BC%96%E8%AF%84%E4%BB%B7%E5%AE%8B%E5%A6%8D%E9%9C%8F%E8%A1%A3%E6%9C%8D%E9%97%AA%E7%9E%8E%23&t=31&band_rank=4&Refer=top)<br />
-5. [鹿晗的提词器](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E7%9A%84%E6%8F%90%E8%AF%8D%E5%99%A8%23&t=31&band_rank=5&Refer=top)<br />
-6. [山河大学](https://s.weibo.com/weibo?q=%E5%B1%B1%E6%B2%B3%E5%A4%A7%E5%AD%A6&t=31&band_rank=6&Refer=top)<br />
+5. [山河大学](https://s.weibo.com/weibo?q=%E5%B1%B1%E6%B2%B3%E5%A4%A7%E5%AD%A6&t=31&band_rank=5&Refer=top)<br />
+6. [鹿晗的提词器](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E7%9A%84%E6%8F%90%E8%AF%8D%E5%99%A8%23&t=31&band_rank=6&Refer=top)<br />
 7. [肖战抵达香港](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%8A%B5%E8%BE%BE%E9%A6%99%E6%B8%AF%23&t=31&band_rank=7&Refer=top)<br />
 8. [普京曾有意杀死普里戈任](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E6%9B%BE%E6%9C%89%E6%84%8F%E6%9D%80%E6%AD%BB%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%23&t=31&band_rank=8&Refer=top)<br />
 9. [韩国医生都不喝的韩式烧酒](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E5%8C%BB%E7%94%9F%E9%83%BD%E4%B8%8D%E5%96%9D%E7%9A%84%E9%9F%A9%E5%BC%8F%E7%83%A7%E9%85%92&t=31&band_rank=9&Refer=top)<br />
@@ -17,8 +17,8 @@
 1. [西安一妻子将丈夫送进精神病院，丈夫出院后又将其送进精神病院，如何看待此事？事实真相如何？](https://www.zhihu.com/question/608899147)<br />
 2. [「妈妈私拆档案袋气哭女儿」引热议，毕业生档案私拆后有什么后果？](https://www.zhihu.com/question/608989364)<br />
 3. [浙江一学生毕业后删除约 90% 的同学老师，称「留着没什么用」，你会删除不常联系的人吗？](https://www.zhihu.com/question/608984327)<br />
-4. [多城二手房挂牌量压顶，上海增幅全国第一，重庆规模全国第一，武汉八成房源降价，如何看待当下二手房市场？](https://www.zhihu.com/question/608945751)<br />
-5. [普通农民花十几万供孩子上了一个三本的意义是什么？](https://www.zhihu.com/question/601925776)<br />
+4. [普通农民花十几万供孩子上了一个三本的意义是什么？](https://www.zhihu.com/question/601925776)<br />
+5. [多城二手房挂牌量压顶，上海增幅全国第一，重庆规模全国第一，武汉八成房源降价，如何看待当下二手房市场？](https://www.zhihu.com/question/608945751)<br />
 6. [夏天太阳如此强烈为什么汽车都不安装太阳能充电板呢？](https://www.zhihu.com/question/608434206)<br />
 7. [马斯克选定加拿大格斗冠军做陪练，准备应战扎克伯格，此前马斯克母亲发文称已经取消比赛，此事或将如何进展？](https://www.zhihu.com/question/608939502)<br />
 8. [有没有可能太阳的核心已经熄灭，停止核聚变，但是地球人还不知道？](https://www.zhihu.com/question/55606798)<br />
