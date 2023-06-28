@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 22:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 22:12:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [8月15日成为全国生态日](https://s.weibo.com/weibo?q=%238%E6%9C%8815%E6%97%A5%E6%88%90%E4%B8%BA%E5%85%A8%E5%9B%BD%E7%94%9F%E6%80%81%E6%97%A5%23&t=31&band_rank=3&Refer=top)<br />
 4. [陈建州 喔这张床不可以](https://s.weibo.com/weibo?q=%E9%99%88%E5%BB%BA%E5%B7%9E%20%E5%96%94%E8%BF%99%E5%BC%A0%E5%BA%8A%E4%B8%8D%E5%8F%AF%E4%BB%A5&t=31&band_rank=4&Refer=top)<br />
 5. [李沁工作室疑似因造型问题删博](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B2%81%E5%B7%A5%E4%BD%9C%E5%AE%A4%E7%96%91%E4%BC%BC%E5%9B%A0%E9%80%A0%E5%9E%8B%E9%97%AE%E9%A2%98%E5%88%A0%E5%8D%9A%23&t=31&band_rank=5&Refer=top)<br />
-6. [Angelababy金发芭比](https://s.weibo.com/weibo?q=Angelababy%E9%87%91%E5%8F%91%E8%8A%AD%E6%AF%94&t=31&band_rank=6&Refer=top)<br />
-7. [Victoria还是这么美](https://s.weibo.com/weibo?q=Victoria%E8%BF%98%E6%98%AF%E8%BF%99%E4%B9%88%E7%BE%8E&t=31&band_rank=7&Refer=top)<br />
+6. [Victoria还是这么美](https://s.weibo.com/weibo?q=Victoria%E8%BF%98%E6%98%AF%E8%BF%99%E4%B9%88%E7%BE%8E&t=31&band_rank=6&Refer=top)<br />
+7. [Angelababy金发芭比](https://s.weibo.com/weibo?q=Angelababy%E9%87%91%E5%8F%91%E8%8A%AD%E6%AF%94&t=31&band_rank=7&Refer=top)<br />
 8. [四川考生王俊凯高考699分](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E8%80%83%E7%94%9F%E7%8E%8B%E4%BF%8A%E5%87%AF%E9%AB%98%E8%80%83699%E5%88%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [jiejie怎么了](https://s.weibo.com/weibo?q=jiejie%E6%80%8E%E4%B9%88%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
@@ -16,8 +16,8 @@
 
 1. [「妈妈私拆档案袋气哭女儿」引热议，毕业生档案私拆后有什么后果？](https://www.zhihu.com/question/608989364)<br />
 2. [普通农民花十几万供孩子上了一个三本的意义是什么？](https://www.zhihu.com/question/601925776)<br />
-3. [胡锡进炒股第一天赚了 104.78 元，并表示以后会陆续加仓，买更多个股和基金，哪些信息值得关注？](https://www.zhihu.com/question/609069494)<br />
-4. [外卖太贵、做饭太累，吃饭难的上班族带火「成人小饭桌」，如何看待这门生意？上班族吃饭问题何解？](https://www.zhihu.com/question/607821291)<br />
+3. [外卖太贵、做饭太累，吃饭难的上班族带火「成人小饭桌」，如何看待这门生意？上班族吃饭问题何解？](https://www.zhihu.com/question/607821291)<br />
+4. [胡锡进炒股第一天赚了 104.78 元，并表示以后会陆续加仓，买更多个股和基金，哪些信息值得关注？](https://www.zhihu.com/question/609069494)<br />
 5. [刺激政策陆续出台，稳房价还是重中之重吗？](https://www.zhihu.com/theater/98961)<br />
 6. [国务院和中央军委公布实施《无人驾驶航空器飞行管理暂行条例》，哪些信息值得关注？](https://www.zhihu.com/question/609227057)<br />
 7. [如何评价 360 公司 CEO 周鸿祎攻读清华大学博士学位，对 360 对发展有什么影响，对此你有什么期待？](https://www.zhihu.com/question/609075165)<br />
