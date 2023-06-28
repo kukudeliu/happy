@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 18:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 18:51:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [爷爷临终前开了个玩笑](https://s.weibo.com/weibo?q=%E7%88%B7%E7%88%B7%E4%B8%B4%E7%BB%88%E5%89%8D%E5%BC%80%E4%BA%86%E4%B8%AA%E7%8E%A9%E7%AC%91&t=31&band_rank=6&Refer=top)<br />
 7. [大牙方回应被起诉](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%89%99%E6%96%B9%E5%9B%9E%E5%BA%94%E8%A2%AB%E8%B5%B7%E8%AF%89%23&t=31&band_rank=7&Refer=top)<br />
 8. [张嘉倪小狐狸](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%98%89%E5%80%AA%E5%B0%8F%E7%8B%90%E7%8B%B8&t=31&band_rank=8&Refer=top)<br />
-9. [安乐传真的要来了](https://s.weibo.com/weibo?q=%23%E5%AE%89%E4%B9%90%E4%BC%A0%E7%9C%9F%E7%9A%84%E8%A6%81%E6%9D%A5%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [白鹿采访忘词](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E9%87%87%E8%AE%BF%E5%BF%98%E8%AF%8D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
