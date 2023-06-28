@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 10:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 10:32:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [同事怀孕后一直请假我离职了](https://s.weibo.com/weibo?q=%23%E5%90%8C%E4%BA%8B%E6%80%80%E5%AD%95%E5%90%8E%E4%B8%80%E7%9B%B4%E8%AF%B7%E5%81%87%E6%88%91%E7%A6%BB%E8%81%8C%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [萧敬腾求婚林有慧](https://s.weibo.com/weibo?q=%23%E8%90%A7%E6%95%AC%E8%85%BE%E6%B1%82%E5%A9%9A%E6%9E%97%E6%9C%89%E6%85%A7%23&t=31&band_rank=5&Refer=top)<br />
 6. [人民日报评相关企业拒聘川大学生](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E7%9B%B8%E5%85%B3%E4%BC%81%E4%B8%9A%E6%8B%92%E8%81%98%E5%B7%9D%E5%A4%A7%E5%AD%A6%E7%94%9F%23&t=31&band_rank=6&Refer=top)<br />
-7. [迪士尼门票近800一张合理吗](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E5%A3%AB%E5%B0%BC%E9%97%A8%E7%A5%A8%E8%BF%91800%E4%B8%80%E5%BC%A0%E5%90%88%E7%90%86%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
-8. [拍CT之前记得上个厕所](https://s.weibo.com/weibo?q=%23%E6%8B%8DCT%E4%B9%8B%E5%89%8D%E8%AE%B0%E5%BE%97%E4%B8%8A%E4%B8%AA%E5%8E%95%E6%89%80%23&t=31&band_rank=8&Refer=top)<br />
-9. [六公主拍的Angelababy](https://s.weibo.com/weibo?q=%23%E5%85%AD%E5%85%AC%E4%B8%BB%E6%8B%8D%E7%9A%84Angelababy%23&t=31&band_rank=9&Refer=top)<br />
+7. [拍CT之前记得上个厕所](https://s.weibo.com/weibo?q=%23%E6%8B%8DCT%E4%B9%8B%E5%89%8D%E8%AE%B0%E5%BE%97%E4%B8%8A%E4%B8%AA%E5%8E%95%E6%89%80%23&t=31&band_rank=7&Refer=top)<br />
+8. [六公主拍的Angelababy](https://s.weibo.com/weibo?q=%23%E5%85%AD%E5%85%AC%E4%B8%BB%E6%8B%8D%E7%9A%84Angelababy%23&t=31&band_rank=8&Refer=top)<br />
+9. [迪士尼门票近800一张合理吗](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E5%A3%AB%E5%B0%BC%E9%97%A8%E7%A5%A8%E8%BF%91800%E4%B8%80%E5%BC%A0%E5%90%88%E7%90%86%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -19,10 +19,10 @@
 3. [官方通报「医院盒饭芋头烧鸭现老鼠头」，称「异物为老鼠头，正核实如何进入盒饭」，食品安全监管有哪些难点？](https://www.zhihu.com/question/609038262)<br />
 4. [为什么每次进乐高店，店员要问是自己玩还是送人?](https://www.zhihu.com/question/579923538)<br />
 5. [住建部表示将提高住房品质，探索建立房屋养老金制度，此举将带来哪些长远影响？](https://www.zhihu.com/question/608976349)<br />
-6. [《消失的她》中何非如果回头看到了 B 超照片，他会救出李木子吗？](https://www.zhihu.com/question/608865471)<br />
-7. [在职场上如何看领导值不值得跟？](https://www.zhihu.com/question/607278481)<br />
-8. [如何看待「七成年轻人愿意为钱加班」一事？如果每小时 100 块你愿意加班吗？](https://www.zhihu.com/question/608935474)<br />
-9. [为什么国内各大游戏厂商的开放世界游戏陆续难产？](https://www.zhihu.com/question/603518950)<br />
+6. [红极一时的付费自习室「去 K 书」广州 4 家门店已全部关门，并拖欠会员充值费、房租，哪些信息值得关注？](https://www.zhihu.com/question/609067575)<br />
+7. [《消失的她》中何非如果回头看到了 B 超照片，他会救出李木子吗？](https://www.zhihu.com/question/608865471)<br />
+8. [在职场上如何看领导值不值得跟？](https://www.zhihu.com/question/607278481)<br />
+9. [如何看待「七成年轻人愿意为钱加班」一事？如果每小时 100 块你愿意加班吗？](https://www.zhihu.com/question/608935474)<br />
 
 > 百度  
 
