@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 10:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 10:44:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [为了卖课渲染暑假很可怕太损了](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BA%86%E5%8D%96%E8%AF%BE%E6%B8%B2%E6%9F%93%E6%9A%91%E5%81%87%E5%BE%88%E5%8F%AF%E6%80%95%E5%A4%AA%E6%8D%9F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [千万不要随意私拆学生档案](https://www.baidu.com/s?wd=%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E9%9A%8F%E6%84%8F%E7%A7%81%E6%8B%86%E5%AD%A6%E7%94%9F%E6%A1%A3%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子13岁得糖尿病27岁进ICU](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%9013%E5%B2%81%E5%BE%97%E7%B3%96%E5%B0%BF%E7%97%8527%E5%B2%81%E8%BF%9BICU&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [卢卡申科普里戈任谈判被曝出口成脏](https://www.baidu.com/s?wd=%E5%8D%A2%E5%8D%A1%E7%94%B3%E7%A7%91%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E8%B0%88%E5%88%A4%E8%A2%AB%E6%9B%9D%E5%87%BA%E5%8F%A3%E6%88%90%E8%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [快递员追求女客户被拒凌晨持刀入室](https://www.baidu.com/s?wd=%E5%BF%AB%E9%80%92%E5%91%98%E8%BF%BD%E6%B1%82%E5%A5%B3%E5%AE%A2%E6%88%B7%E8%A2%AB%E6%8B%92%E5%87%8C%E6%99%A8%E6%8C%81%E5%88%80%E5%85%A5%E5%AE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [萧敬腾求婚时叫未婚妻妈妈](https://www.baidu.com/s?wd=%E8%90%A7%E6%95%AC%E8%85%BE%E6%B1%82%E5%A9%9A%E6%97%B6%E5%8F%AB%E6%9C%AA%E5%A9%9A%E5%A6%BB%E5%A6%88%E5%A6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [双胞胎高考700多分都报清华](https://www.baidu.com/s?wd=%E5%8F%8C%E8%83%9E%E8%83%8E%E9%AB%98%E8%80%83700%E5%A4%9A%E5%88%86%E9%83%BD%E6%8A%A5%E6%B8%85%E5%8D%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [为了卖课渲染暑假很可怕太损了](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BA%86%E5%8D%96%E8%AF%BE%E6%B8%B2%E6%9F%93%E6%9A%91%E5%81%87%E5%BE%88%E5%8F%AF%E6%80%95%E5%A4%AA%E6%8D%9F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [千万不要随意私拆学生档案](https://www.baidu.com/s?wd=%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E9%9A%8F%E6%84%8F%E7%A7%81%E6%8B%86%E5%AD%A6%E7%94%9F%E6%A1%A3%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子13岁得糖尿病27岁进ICU](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%9013%E5%B2%81%E5%BE%97%E7%B3%96%E5%B0%BF%E7%97%8527%E5%B2%81%E8%BF%9BICU&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [卢卡申科普里戈任谈判被曝出口成脏](https://www.baidu.com/s?wd=%E5%8D%A2%E5%8D%A1%E7%94%B3%E7%A7%91%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E8%B0%88%E5%88%A4%E8%A2%AB%E6%9B%9D%E5%87%BA%E5%8F%A3%E6%88%90%E8%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [快递员追求女客户被拒凌晨持刀入室](https://www.baidu.com/s?wd=%E5%BF%AB%E9%80%92%E5%91%98%E8%BF%BD%E6%B1%82%E5%A5%B3%E5%AE%A2%E6%88%B7%E8%A2%AB%E6%8B%92%E5%87%8C%E6%99%A8%E6%8C%81%E5%88%80%E5%85%A5%E5%AE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [萧敬腾求婚时叫未婚妻妈妈](https://www.baidu.com/s?wd=%E8%90%A7%E6%95%AC%E8%85%BE%E6%B1%82%E5%A9%9A%E6%97%B6%E5%8F%AB%E6%9C%AA%E5%A9%9A%E5%A6%BB%E5%A6%88%E5%A6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [双胞胎高考700多分都报清华](https://www.baidu.com/s?wd=%E5%8F%8C%E8%83%9E%E8%83%8E%E9%AB%98%E8%80%83700%E5%A4%9A%E5%88%86%E9%83%BD%E6%8A%A5%E6%B8%85%E5%8D%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
