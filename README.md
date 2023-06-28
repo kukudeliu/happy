@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 20:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 20:06:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [韩综用中国国歌做BGM](https://www.baidu.com/s?wd=%E9%9F%A9%E7%BB%BC%E7%94%A8%E4%B8%AD%E5%9B%BD%E5%9B%BD%E6%AD%8C%E5%81%9ABGM&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [记者调查养猪场被持刀追赶](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E8%B0%83%E6%9F%A5%E5%85%BB%E7%8C%AA%E5%9C%BA%E8%A2%AB%E6%8C%81%E5%88%80%E8%BF%BD%E8%B5%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [《破冰行动》原型之一被双开](https://www.baidu.com/s?wd=%E3%80%8A%E7%A0%B4%E5%86%B0%E8%A1%8C%E5%8A%A8%E3%80%8B%E5%8E%9F%E5%9E%8B%E4%B9%8B%E4%B8%80%E8%A2%AB%E5%8F%8C%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [鹿晗演唱会社恐版提词器](https://www.baidu.com/s?wd=%E9%B9%BF%E6%99%97%E6%BC%94%E5%94%B1%E4%BC%9A%E7%A4%BE%E6%81%90%E7%89%88%E6%8F%90%E8%AF%8D%E5%99%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [普京曾有意杀死普里戈任](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E6%9B%BE%E6%9C%89%E6%84%8F%E6%9D%80%E6%AD%BB%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [韩综用中国国歌做BGM](https://www.baidu.com/s?wd=%E9%9F%A9%E7%BB%BC%E7%94%A8%E4%B8%AD%E5%9B%BD%E5%9B%BD%E6%AD%8C%E5%81%9ABGM&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [记者调查养猪场被持刀追赶](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E8%B0%83%E6%9F%A5%E5%85%BB%E7%8C%AA%E5%9C%BA%E8%A2%AB%E6%8C%81%E5%88%80%E8%BF%BD%E8%B5%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [《破冰行动》原型之一被双开](https://www.baidu.com/s?wd=%E3%80%8A%E7%A0%B4%E5%86%B0%E8%A1%8C%E5%8A%A8%E3%80%8B%E5%8E%9F%E5%9E%8B%E4%B9%8B%E4%B8%80%E8%A2%AB%E5%8F%8C%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [鹿晗演唱会社恐版提词器](https://www.baidu.com/s?wd=%E9%B9%BF%E6%99%97%E6%BC%94%E5%94%B1%E4%BC%9A%E7%A4%BE%E6%81%90%E7%89%88%E6%8F%90%E8%AF%8D%E5%99%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [普京曾有意杀死普里戈任](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E6%9B%BE%E6%9C%89%E6%84%8F%E6%9D%80%E6%AD%BB%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
