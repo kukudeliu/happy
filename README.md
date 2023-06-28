@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 22:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 22:02:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [李沁工作室疑似因造型问题删博](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B2%81%E5%B7%A5%E4%BD%9C%E5%AE%A4%E7%96%91%E4%BC%BC%E5%9B%A0%E9%80%A0%E5%9E%8B%E9%97%AE%E9%A2%98%E5%88%A0%E5%8D%9A%23&t=31&band_rank=4&Refer=top)<br />
 5. [Angelababy金发芭比](https://s.weibo.com/weibo?q=Angelababy%E9%87%91%E5%8F%91%E8%8A%AD%E6%AF%94&t=31&band_rank=5&Refer=top)<br />
 6. [Victoria还是这么美](https://s.weibo.com/weibo?q=Victoria%E8%BF%98%E6%98%AF%E8%BF%99%E4%B9%88%E7%BE%8E&t=31&band_rank=6&Refer=top)<br />
-7. [曾黎腰臀比](https://s.weibo.com/weibo?q=%23%E6%9B%BE%E9%BB%8E%E8%85%B0%E8%87%80%E6%AF%94%23&t=31&band_rank=7&Refer=top)<br />
+7. [大牙 这次我会勇敢法院见](https://s.weibo.com/weibo?q=%E5%A4%A7%E7%89%99%20%E8%BF%99%E6%AC%A1%E6%88%91%E4%BC%9A%E5%8B%87%E6%95%A2%E6%B3%95%E9%99%A2%E8%A7%81&t=31&band_rank=7&Refer=top)<br />
 8. [四川考生王俊凯高考699分](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E8%80%83%E7%94%9F%E7%8E%8B%E4%BF%8A%E5%87%AF%E9%AB%98%E8%80%83699%E5%88%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [美特斯邦威以3亿元出售房产自救](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E7%89%B9%E6%96%AF%E9%82%A6%E5%A8%81%E4%BB%A53%E4%BA%BF%E5%85%83%E5%87%BA%E5%94%AE%E6%88%BF%E4%BA%A7%E8%87%AA%E6%95%91%23&t=31&band_rank=9&Refer=top)<br />
+9. [jiejie怎么了](https://s.weibo.com/weibo?q=jiejie%E6%80%8E%E4%B9%88%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [浙江一学生毕业后删除约 90% 的同学老师，称「留着没什么用」，你会删除不常联系的人吗？](https://www.zhihu.com/question/608984327)<br />
 7. [国务院和中央军委公布实施《无人驾驶航空器飞行管理暂行条例》，哪些信息值得关注？](https://www.zhihu.com/question/609227057)<br />
 8. [山东东营警方通报「男子驾车反复碾压女子致死」，犯罪嫌疑人已被刑拘，法律角度如何解读？](https://www.zhihu.com/question/609117132)<br />
-9. [台防务部门罕见通报「两艘俄罗斯护卫舰现身台东部海域」，透露了哪些信息？](https://www.zhihu.com/question/609120611)<br />
+9. [如何评价 360 公司 CEO 周鸿祎攻读清华大学博士学位，对 360 对发展有什么影响，对此你有什么期待？](https://www.zhihu.com/question/609075165)<br />
 
 > 百度  
 
