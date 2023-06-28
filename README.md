@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 19:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 19:33:01</h4></div>
 
 > 微博  
 
@@ -20,8 +20,8 @@
 4. [普通农民花十几万供孩子上了一个三本的意义是什么？](https://www.zhihu.com/question/601925776)<br />
 5. [《流浪地球 2》中，550w 这么快，为什么不用来解码全球核武器，而是要派人去手工引爆呢？](https://www.zhihu.com/question/597418932)<br />
 6. [教育部正式批准设立深圳职业技术大学，如何看待此事？](https://www.zhihu.com/question/608543386)<br />
-7. [英雄联盟为什么不设计一个真正的 ap 射手？](https://www.zhihu.com/question/609023601)<br />
-8. [台防务部门罕见通报「两艘俄罗斯护卫舰现身台东部海域」，透露了哪些信息？](https://www.zhihu.com/question/609120611)<br />
+7. [台防务部门罕见通报「两艘俄罗斯护卫舰现身台东部海域」，透露了哪些信息？](https://www.zhihu.com/question/609120611)<br />
+8. [英雄联盟为什么不设计一个真正的 ap 射手？](https://www.zhihu.com/question/609023601)<br />
 9. [外卖太贵、做饭太累，吃饭难的上班族带火「成人小饭桌」，如何看待这门生意？上班族吃饭问题何解？](https://www.zhihu.com/question/607821291)<br />
 
 > 百度  
