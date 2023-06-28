@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 17:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 17:13:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [肖战抵达香港](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%8A%B5%E8%BE%BE%E9%A6%99%E6%B8%AF%23&t=31&band_rank=5&Refer=top)<br />
 6. [GQ主编评价宋妍霏衣服闪瞎](https://s.weibo.com/weibo?q=%23GQ%E4%B8%BB%E7%BC%96%E8%AF%84%E4%BB%B7%E5%AE%8B%E5%A6%8D%E9%9C%8F%E8%A1%A3%E6%9C%8D%E9%97%AA%E7%9E%8E%23&t=31&band_rank=6&Refer=top)<br />
 7. [普京曾有意杀死普里戈任](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E6%9B%BE%E6%9C%89%E6%84%8F%E6%9D%80%E6%AD%BB%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%23&t=31&band_rank=7&Refer=top)<br />
-8. [韩国医生都不喝的韩式烧酒](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E5%8C%BB%E7%94%9F%E9%83%BD%E4%B8%8D%E5%96%9D%E7%9A%84%E9%9F%A9%E5%BC%8F%E7%83%A7%E9%85%92&t=31&band_rank=8&Refer=top)<br />
-9. [山河大学](https://s.weibo.com/weibo?q=%E5%B1%B1%E6%B2%B3%E5%A4%A7%E5%AD%A6&t=31&band_rank=9&Refer=top)<br />
+8. [山河大学](https://s.weibo.com/weibo?q=%E5%B1%B1%E6%B2%B3%E5%A4%A7%E5%AD%A6&t=31&band_rank=8&Refer=top)<br />
+9. [韩国医生都不喝的韩式烧酒](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E5%8C%BB%E7%94%9F%E9%83%BD%E4%B8%8D%E5%96%9D%E7%9A%84%E9%9F%A9%E5%BC%8F%E7%83%A7%E9%85%92&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
