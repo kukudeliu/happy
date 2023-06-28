@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 17:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 17:56:02</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [还得是李梦](https://s.weibo.com/weibo?q=%23%E8%BF%98%E5%BE%97%E6%98%AF%E6%9D%8E%E6%A2%A6%23&t=31&band_rank=4&Refer=top)<br />
 5. [鹿晗的提词器](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E7%9A%84%E6%8F%90%E8%AF%8D%E5%99%A8%23&t=31&band_rank=5&Refer=top)<br />
 6. [肖战抵达香港](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%8A%B5%E8%BE%BE%E9%A6%99%E6%B8%AF%23&t=31&band_rank=6&Refer=top)<br />
-7. [吃完小龙虾美甲变绿了](https://s.weibo.com/weibo?q=%23%E5%90%83%E5%AE%8C%E5%B0%8F%E9%BE%99%E8%99%BE%E7%BE%8E%E7%94%B2%E5%8F%98%E7%BB%BF%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [SEVENTEEN的家谱这下全都乱了](https://s.weibo.com/weibo?q=%23SEVENTEEN%E7%9A%84%E5%AE%B6%E8%B0%B1%E8%BF%99%E4%B8%8B%E5%85%A8%E9%83%BD%E4%B9%B1%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [普京曾有意杀死普里戈任](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E6%9B%BE%E6%9C%89%E6%84%8F%E6%9D%80%E6%AD%BB%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%23&t=31&band_rank=9&Refer=top)<br />
+7. [SEVENTEEN的家谱这下全都乱了](https://s.weibo.com/weibo?q=%23SEVENTEEN%E7%9A%84%E5%AE%B6%E8%B0%B1%E8%BF%99%E4%B8%8B%E5%85%A8%E9%83%BD%E4%B9%B1%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+8. [农村三胞胎姐妹均高分超一本线](https://s.weibo.com/weibo?q=%23%E5%86%9C%E6%9D%91%E4%B8%89%E8%83%9E%E8%83%8E%E5%A7%90%E5%A6%B9%E5%9D%87%E9%AB%98%E5%88%86%E8%B6%85%E4%B8%80%E6%9C%AC%E7%BA%BF%23&t=31&band_rank=8&Refer=top)<br />
+9. [指尖触过细密的盲文是她向上生长的痕迹](https://s.weibo.com/weibo?q=%23%E6%8C%87%E5%B0%96%E8%A7%A6%E8%BF%87%E7%BB%86%E5%AF%86%E7%9A%84%E7%9B%B2%E6%96%87%E6%98%AF%E5%A5%B9%E5%90%91%E4%B8%8A%E7%94%9F%E9%95%BF%E7%9A%84%E7%97%95%E8%BF%B9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [2023 河南高考近 15 万考生过一本线，600 分及以上超 2.6 万人，如何看待河南高考成绩？](https://www.zhihu.com/question/608449348)<br />
 7. [山东东营警方通报「男子驾车反复碾压女子致死」，犯罪嫌疑人已被刑拘，法律角度如何解读？](https://www.zhihu.com/question/609117132)<br />
 8. [曝李铁结束留置调查阶段，已被移送至看守所并且正式逮捕，下一步是法院庭审，有哪些信息值得关注？](https://www.zhihu.com/question/609125365)<br />
-9. [有没有可能太阳的核心已经熄灭，停止核聚变，但是地球人还不知道？](https://www.zhihu.com/question/55606798)<br />
+9. [台防务部门罕见通报「两艘俄罗斯护卫舰现身台东部海域」，透露了哪些信息？](https://www.zhihu.com/question/609120611)<br />
 
 > 百度  
 
