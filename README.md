@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 06:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 06:36:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [李沁工作室疑似因造型问题删博](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B2%81%E5%B7%A5%E4%BD%9C%E5%AE%A4%E7%96%91%E4%BC%BC%E5%9B%A0%E9%80%A0%E5%9E%8B%E9%97%AE%E9%A2%98%E5%88%A0%E5%8D%9A%23&t=31&band_rank=6&Refer=top)<br />
 7. [曝陈建州在范玮琪孕期骚扰女艺人](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E9%99%88%E5%BB%BA%E5%B7%9E%E5%9C%A8%E8%8C%83%E7%8E%AE%E7%90%AA%E5%AD%95%E6%9C%9F%E9%AA%9A%E6%89%B0%E5%A5%B3%E8%89%BA%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [胃癌几乎都是吃出来的](https://s.weibo.com/weibo?q=%23%E8%83%83%E7%99%8C%E5%87%A0%E4%B9%8E%E9%83%BD%E6%98%AF%E5%90%83%E5%87%BA%E6%9D%A5%E7%9A%84%23&t=31&band_rank=8&Refer=top)<br />
-9. [蔡徐坤巡演将如期举行](https://s.weibo.com/weibo?q=%E8%94%A1%E5%BE%90%E5%9D%A4%E5%B7%A1%E6%BC%94%E5%B0%86%E5%A6%82%E6%9C%9F%E4%B8%BE%E8%A1%8C&t=31&band_rank=9&Refer=top)<br />
+9. [不要再坐公共场合的按摩椅了](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%A6%81%E5%86%8D%E5%9D%90%E5%85%AC%E5%85%B1%E5%9C%BA%E5%90%88%E7%9A%84%E6%8C%89%E6%91%A9%E6%A4%85%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -21,8 +21,8 @@
 5. [外卖太贵、做饭太累，吃饭难的上班族带火「成人小饭桌」，如何看待这门生意？上班族吃饭问题何解？](https://www.zhihu.com/question/607821291)<br />
 6. [2023 年度总票房破 250 亿，电影《消失的她》突破 11 亿，该影片爆火的原因有哪些？](https://www.zhihu.com/question/608722094)<br />
 7. [日本城堡的攻城防御能力如何？](https://www.zhihu.com/question/361727989)<br />
-8. [适合放在办公室的小家电有哪些？](https://www.zhihu.com/question/485986456)<br />
-9. []()<br />
+8. []()<br />
+9. [《崩坏：星穹铁道》的「绀海组」，游戏里有什么剧情可以佐证这对 CP 的合理性？](https://www.zhihu.com/question/608274411)<br />
 
 > 百度  
 
