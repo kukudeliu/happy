@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 14:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 14:50:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [成都大运会倒计时1个月](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%A4%A7%E8%BF%90%E4%BC%9A%E5%80%92%E8%AE%A1%E6%97%B61%E4%B8%AA%E6%9C%88%23&t=31&band_rank=3&Refer=top)<br />
 4. [聊半年的暧昧对象突然领证了](https://s.weibo.com/weibo?q=%23%E8%81%8A%E5%8D%8A%E5%B9%B4%E7%9A%84%E6%9A%A7%E6%98%A7%E5%AF%B9%E8%B1%A1%E7%AA%81%E7%84%B6%E9%A2%86%E8%AF%81%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [王一博官宣还是这图](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%AE%98%E5%AE%A3%E8%BF%98%E6%98%AF%E8%BF%99%E5%9B%BE%23&t=31&band_rank=5&Refer=top)<br />
-6. [iPhone拍照掉队了吗](https://s.weibo.com/weibo?q=%23iPhone%E6%8B%8D%E7%85%A7%E6%8E%89%E9%98%9F%E4%BA%86%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
-7. [双休和月休八天有什么区别](https://s.weibo.com/weibo?q=%23%E5%8F%8C%E4%BC%91%E5%92%8C%E6%9C%88%E4%BC%91%E5%85%AB%E5%A4%A9%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB%23&t=31&band_rank=7&Refer=top)<br />
-8. [B站崩了](https://s.weibo.com/weibo?q=B%E7%AB%99%E5%B4%A9%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
+6. [B站崩了](https://s.weibo.com/weibo?q=B%E7%AB%99%E5%B4%A9%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
+7. [iPhone拍照掉队了吗](https://s.weibo.com/weibo?q=%23iPhone%E6%8B%8D%E7%85%A7%E6%8E%89%E9%98%9F%E4%BA%86%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
+8. [双休和月休八天有什么区别](https://s.weibo.com/weibo?q=%23%E5%8F%8C%E4%BC%91%E5%92%8C%E6%9C%88%E4%BC%91%E5%85%AB%E5%A4%A9%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB%23&t=31&band_rank=8&Refer=top)<br />
 9. [刘亦菲入围首尔电视剧大赏最佳女主](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E5%85%A5%E5%9B%B4%E9%A6%96%E5%B0%94%E7%94%B5%E8%A7%86%E5%89%A7%E5%A4%A7%E8%B5%8F%E6%9C%80%E4%BD%B3%E5%A5%B3%E4%B8%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -21,8 +21,8 @@
 5. [如何看待电影《消失的她》评分高开低走？](https://www.zhihu.com/question/608924640)<br />
 6. [浙江一学生毕业后删除约 90% 的同学老师，称「留着没什么用」，你会删除不常联系的人吗？](https://www.zhihu.com/question/608984327)<br />
 7. [马斯克选定加拿大格斗冠军做陪练，准备应战扎克伯格，此前马斯克母亲发文称已经取消比赛，此事或将如何进展？](https://www.zhihu.com/question/608939502)<br />
-8. [普通农民花十几万供孩子上了一个三本的意义是什么？](https://www.zhihu.com/question/601925776)<br />
-9. [卢卡申科透露与普里戈任谈判细节，「谈了七轮，多次警告他不要触发流血事件」，透露了哪些信息？](https://www.zhihu.com/question/609124717)<br />
+8. [卢卡申科透露与普里戈任谈判细节，「谈了七轮，多次警告他不要触发流血事件」，透露了哪些信息？](https://www.zhihu.com/question/609124717)<br />
+9. [有没有可能太阳的核心已经熄灭，停止核聚变，但是地球人还不知道？](https://www.zhihu.com/question/55606798)<br />
 
 > 百度  
 
