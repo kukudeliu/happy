@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 09:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 09:52:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [萧敬腾求婚林有慧](https://s.weibo.com/weibo?q=%23%E8%90%A7%E6%95%AC%E8%85%BE%E6%B1%82%E5%A9%9A%E6%9E%97%E6%9C%89%E6%85%A7%23&t=31&band_rank=5&Refer=top)<br />
 6. [高考377分复读一年逆袭677分](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83377%E5%88%86%E5%A4%8D%E8%AF%BB%E4%B8%80%E5%B9%B4%E9%80%86%E8%A2%AD677%E5%88%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [迪士尼门票近800一张合理吗](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E5%A3%AB%E5%B0%BC%E9%97%A8%E7%A5%A8%E8%BF%91800%E4%B8%80%E5%BC%A0%E5%90%88%E7%90%86%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
-8. [消失的她又双叒票房逆跌了](https://s.weibo.com/weibo?q=%23%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E5%8F%88%E5%8F%8C%E5%8F%92%E7%A5%A8%E6%88%BF%E9%80%86%E8%B7%8C%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [六公主拍的Angelababy](https://s.weibo.com/weibo?q=%23%E5%85%AD%E5%85%AC%E4%B8%BB%E6%8B%8D%E7%9A%84Angelababy%23&t=31&band_rank=9&Refer=top)<br />
+8. [仙剑3法器是用婚戒做的](https://s.weibo.com/weibo?q=%23%E4%BB%99%E5%89%913%E6%B3%95%E5%99%A8%E6%98%AF%E7%94%A8%E5%A9%9A%E6%88%92%E5%81%9A%E7%9A%84%23&t=31&band_rank=8&Refer=top)<br />
+9. [消失的她又双叒票房逆跌了](https://s.weibo.com/weibo?q=%23%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E5%8F%88%E5%8F%8C%E5%8F%92%E7%A5%A8%E6%88%BF%E9%80%86%E8%B7%8C%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
