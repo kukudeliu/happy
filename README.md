@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 18:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 18:47:01</h4></div>
 
 > 微博  
 
@@ -19,8 +19,8 @@
 3. [浙江一学生毕业后删除约 90% 的同学老师，称「留着没什么用」，你会删除不常联系的人吗？](https://www.zhihu.com/question/608984327)<br />
 4. [普通农民花十几万供孩子上了一个三本的意义是什么？](https://www.zhihu.com/question/601925776)<br />
 5. [《流浪地球 2》中，550w 这么快，为什么不用来解码全球核武器，而是要派人去手工引爆呢？](https://www.zhihu.com/question/597418932)<br />
-6. [2023 河南高考近 15 万考生过一本线，600 分及以上超 2.6 万人，如何看待河南高考成绩？](https://www.zhihu.com/question/608449348)<br />
-7. [教育部正式批准设立深圳职业技术大学，如何看待此事？](https://www.zhihu.com/question/608543386)<br />
+6. [教育部正式批准设立深圳职业技术大学，如何看待此事？](https://www.zhihu.com/question/608543386)<br />
+7. [2023 河南高考近 15 万考生过一本线，600 分及以上超 2.6 万人，如何看待河南高考成绩？](https://www.zhihu.com/question/608449348)<br />
 8. [台防务部门罕见通报「两艘俄罗斯护卫舰现身台东部海域」，透露了哪些信息？](https://www.zhihu.com/question/609120611)<br />
 9. [英雄联盟为什么不设计一个真正的 ap 射手？](https://www.zhihu.com/question/609023601)<br />
 
