@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 04:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 04:45:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [成都大运会边看边玩攻略](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%A4%A7%E8%BF%90%E4%BC%9A%E8%BE%B9%E7%9C%8B%E8%BE%B9%E7%8E%A9%E6%94%BB%E7%95%A5%23&t=31&band_rank=3&Refer=top)<br />
 4. [陈建州 喔这张床不可以](https://s.weibo.com/weibo?q=%E9%99%88%E5%BB%BA%E5%B7%9E%20%E5%96%94%E8%BF%99%E5%BC%A0%E5%BA%8A%E4%B8%8D%E5%8F%AF%E4%BB%A5&t=31&band_rank=4&Refer=top)<br />
 5. [胃癌几乎都是吃出来的](https://s.weibo.com/weibo?q=%23%E8%83%83%E7%99%8C%E5%87%A0%E4%B9%8E%E9%83%BD%E6%98%AF%E5%90%83%E5%87%BA%E6%9D%A5%E7%9A%84%23&t=31&band_rank=5&Refer=top)<br />
-6. [我只穿便宜衣服但我觉得我很会买](https://s.weibo.com/weibo?q=%E6%88%91%E5%8F%AA%E7%A9%BF%E4%BE%BF%E5%AE%9C%E8%A1%A3%E6%9C%8D%E4%BD%86%E6%88%91%E8%A7%89%E5%BE%97%E6%88%91%E5%BE%88%E4%BC%9A%E4%B9%B0&t=31&band_rank=6&Refer=top)<br />
+6. [警方通报女子驾车冲撞男子致死](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E9%A9%BE%E8%BD%A6%E5%86%B2%E6%92%9E%E7%94%B7%E5%AD%90%E8%87%B4%E6%AD%BB%23&t=31&band_rank=6&Refer=top)<br />
 7. [曝陈建州在范玮琪孕期骚扰女艺人](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E9%99%88%E5%BB%BA%E5%B7%9E%E5%9C%A8%E8%8C%83%E7%8E%AE%E7%90%AA%E5%AD%95%E6%9C%9F%E9%AA%9A%E6%89%B0%E5%A5%B3%E8%89%BA%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
-8. [警方通报女子驾车冲撞男子致死](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E9%A9%BE%E8%BD%A6%E5%86%B2%E6%92%9E%E7%94%B7%E5%AD%90%E8%87%B4%E6%AD%BB%23&t=31&band_rank=8&Refer=top)<br />
+8. [我只穿便宜衣服但我觉得我很会买](https://s.weibo.com/weibo?q=%E6%88%91%E5%8F%AA%E7%A9%BF%E4%BE%BF%E5%AE%9C%E8%A1%A3%E6%9C%8D%E4%BD%86%E6%88%91%E8%A7%89%E5%BE%97%E6%88%91%E5%BE%88%E4%BC%9A%E4%B9%B0&t=31&band_rank=8&Refer=top)<br />
 9. [李沁工作室疑似因造型问题删博](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B2%81%E5%B7%A5%E4%BD%9C%E5%AE%A4%E7%96%91%E4%BC%BC%E5%9B%A0%E9%80%A0%E5%9E%8B%E9%97%AE%E9%A2%98%E5%88%A0%E5%8D%9A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -22,7 +22,7 @@
 6. [日本城堡的攻城防御能力如何？](https://www.zhihu.com/question/361727989)<br />
 7. [2023 年度总票房破 250 亿，电影《消失的她》突破 11 亿，该影片爆火的原因有哪些？](https://www.zhihu.com/question/608722094)<br />
 8. []()<br />
-9. [如何评价 360 公司 CEO 周鸿祎攻读清华大学博士学位，对 360 对发展有什么影响，对此你有什么期待？](https://www.zhihu.com/question/609075165)<br />
+9. [2023 LPL 夏季赛 EDG 2:1 击败 UP，如何评价这场比赛？](https://www.zhihu.com/question/609252513)<br />
 
 > 百度  
 
