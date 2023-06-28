@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 07:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 07:08:01</h4></div>
 
 > 微博  
 
@@ -20,8 +20,8 @@
 4. [外卖太贵、做饭太累，吃饭难的上班族带火「成人小饭桌」，如何看待这门生意？上班族吃饭问题何解？](https://www.zhihu.com/question/607821291)<br />
 5. [2023 年度总票房破 250 亿，电影《消失的她》突破 11 亿，该影片爆火的原因有哪些？](https://www.zhihu.com/question/608722094)<br />
 6. [斐济耕地那么少，为什么能养活 80 多万人？渔业真的可以养这么多人吗？不担心粮食安全吗？](https://www.zhihu.com/question/608402519)<br />
-7. [「妈妈私拆档案袋气哭女儿」引热议，毕业生档案私拆后有什么后果？](https://www.zhihu.com/question/608989364)<br />
-8. [早上洗脸可以只用清水，不用洗面奶吗？](https://www.zhihu.com/question/605397321)<br />
+7. [早上洗脸可以只用清水，不用洗面奶吗？](https://www.zhihu.com/question/605397321)<br />
+8. [「妈妈私拆档案袋气哭女儿」引热议，毕业生档案私拆后有什么后果？](https://www.zhihu.com/question/608989364)<br />
 9. [山东东营警方通报「男子驾车反复碾压女子致死」，犯罪嫌疑人已被刑拘，法律角度如何解读？](https://www.zhihu.com/question/609117132)<br />
 
 > 百度  
@@ -34,7 +34,7 @@
 6. [教育自媒体“贩卖焦虑”被央视痛批](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E8%87%AA%E5%AA%92%E4%BD%93%E2%80%9C%E8%B4%A9%E5%8D%96%E7%84%A6%E8%99%91%E2%80%9D%E8%A2%AB%E5%A4%AE%E8%A7%86%E7%97%9B%E6%89%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [杨颖金发像芭比](https://www.baidu.com/s?wd=%E6%9D%A8%E9%A2%96%E9%87%91%E5%8F%91%E5%83%8F%E8%8A%AD%E6%AF%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [韩国人将集体减龄一至两岁](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E4%BA%BA%E5%B0%86%E9%9B%86%E4%BD%93%E5%87%8F%E9%BE%84%E4%B8%80%E8%87%B3%E4%B8%A4%E5%B2%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [时隔6个月中国再现霍乱病例](https://www.baidu.com/s?wd=%E6%97%B6%E9%9A%946%E4%B8%AA%E6%9C%88%E4%B8%AD%E5%9B%BD%E5%86%8D%E7%8E%B0%E9%9C%8D%E4%B9%B1%E7%97%85%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [霸占电脑拒办证工作人员被停职](https://www.baidu.com/s?wd=%E9%9C%B8%E5%8D%A0%E7%94%B5%E8%84%91%E6%8B%92%E5%8A%9E%E8%AF%81%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E8%A2%AB%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [教育自媒体“贩卖焦虑”被央视痛批](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E8%87%AA%E5%AA%92%E4%BD%93%E2%80%9C%E8%B4%A9%E5%8D%96%E7%84%A6%E8%99%91%E2%80%9D%E8%A2%AB%E5%A4%AE%E8%A7%86%E7%97%9B%E6%89%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [杨颖金发像芭比](https://www.baidu.com/s?wd=%E6%9D%A8%E9%A2%96%E9%87%91%E5%8F%91%E5%83%8F%E8%8A%AD%E6%AF%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [韩国人将集体减龄一至两岁](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E4%BA%BA%E5%B0%86%E9%9B%86%E4%BD%93%E5%87%8F%E9%BE%84%E4%B8%80%E8%87%B3%E4%B8%A4%E5%B2%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [时隔6个月中国再现霍乱病例](https://www.baidu.com/s?wd=%E6%97%B6%E9%9A%946%E4%B8%AA%E6%9C%88%E4%B8%AD%E5%9B%BD%E5%86%8D%E7%8E%B0%E9%9C%8D%E4%B9%B1%E7%97%85%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [霸占电脑拒办证工作人员被停职](https://www.baidu.com/s?wd=%E9%9C%B8%E5%8D%A0%E7%94%B5%E8%84%91%E6%8B%92%E5%8A%9E%E8%AF%81%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E8%A2%AB%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
