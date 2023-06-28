@@ -1,14 +1,14 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 19:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 19:22:02</h4></div>
 
 > 微博  
 
 1. [胃癌几乎都是吃出来的](https://s.weibo.com/weibo?q=%23%E8%83%83%E7%99%8C%E5%87%A0%E4%B9%8E%E9%83%BD%E6%98%AF%E5%90%83%E5%87%BA%E6%9D%A5%E7%9A%84%23&t=31&band_rank=1&Refer=top)<br />
-2. [农村三胞胎姐妹均高分超一本线](https://s.weibo.com/weibo?q=%23%E5%86%9C%E6%9D%91%E4%B8%89%E8%83%9E%E8%83%8E%E5%A7%90%E5%A6%B9%E5%9D%87%E9%AB%98%E5%88%86%E8%B6%85%E4%B8%80%E6%9C%AC%E7%BA%BF%23&t=31&band_rank=2&Refer=top)<br />
+2. [北大学生毕业论文致谢流浪猫](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87%E8%87%B4%E8%B0%A2%E6%B5%81%E6%B5%AA%E7%8C%AB%23&t=31&band_rank=2&Refer=top)<br />
 3. [挖隧道的大国重器长啥样](https://s.weibo.com/weibo?q=%23%E6%8C%96%E9%9A%A7%E9%81%93%E7%9A%84%E5%A4%A7%E5%9B%BD%E9%87%8D%E5%99%A8%E9%95%BF%E5%95%A5%E6%A0%B7%23&t=31&band_rank=3&Refer=top)<br />
 4. [张雪峰建议不好好学习带孩子到四个地方](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%BB%BA%E8%AE%AE%E4%B8%8D%E5%A5%BD%E5%A5%BD%E5%AD%A6%E4%B9%A0%E5%B8%A6%E5%AD%A9%E5%AD%90%E5%88%B0%E5%9B%9B%E4%B8%AA%E5%9C%B0%E6%96%B9%23&t=31&band_rank=4&Refer=top)<br />
-5. [大牙方回应被起诉](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%89%99%E6%96%B9%E5%9B%9E%E5%BA%94%E8%A2%AB%E8%B5%B7%E8%AF%89%23&t=31&band_rank=5&Refer=top)<br />
-6. [蔡徐坤巡演将如期举行](https://s.weibo.com/weibo?q=%E8%94%A1%E5%BE%90%E5%9D%A4%E5%B7%A1%E6%BC%94%E5%B0%86%E5%A6%82%E6%9C%9F%E4%B8%BE%E8%A1%8C&t=31&band_rank=6&Refer=top)<br />
-7. [北大学生毕业论文致谢流浪猫](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87%E8%87%B4%E8%B0%A2%E6%B5%81%E6%B5%AA%E7%8C%AB%23&t=31&band_rank=7&Refer=top)<br />
+5. [农村三胞胎姐妹均高分超一本线](https://s.weibo.com/weibo?q=%23%E5%86%9C%E6%9D%91%E4%B8%89%E8%83%9E%E8%83%8E%E5%A7%90%E5%A6%B9%E5%9D%87%E9%AB%98%E5%88%86%E8%B6%85%E4%B8%80%E6%9C%AC%E7%BA%BF%23&t=31&band_rank=5&Refer=top)<br />
+6. [大牙方回应被起诉](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%89%99%E6%96%B9%E5%9B%9E%E5%BA%94%E8%A2%AB%E8%B5%B7%E8%AF%89%23&t=31&band_rank=6&Refer=top)<br />
+7. [蔡徐坤巡演将如期举行](https://s.weibo.com/weibo?q=%E8%94%A1%E5%BE%90%E5%9D%A4%E5%B7%A1%E6%BC%94%E5%B0%86%E5%A6%82%E6%9C%9F%E4%B8%BE%E8%A1%8C&t=31&band_rank=7&Refer=top)<br />
 8. [爷爷临终前开了个玩笑](https://s.weibo.com/weibo?q=%E7%88%B7%E7%88%B7%E4%B8%B4%E7%BB%88%E5%89%8D%E5%BC%80%E4%BA%86%E4%B8%AA%E7%8E%A9%E7%AC%91&t=31&band_rank=8&Refer=top)<br />
 9. [白鹿采访忘词](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E9%87%87%E8%AE%BF%E5%BF%98%E8%AF%8D%23&t=31&band_rank=9&Refer=top)<br />
 
