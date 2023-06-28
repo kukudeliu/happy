@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 13:18:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 13:19:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [网友称被江苏一民警强奸 纪委介入](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B0%E8%A2%AB%E6%B1%9F%E8%8B%8F%E4%B8%80%E6%B0%91%E8%AD%A6%E5%BC%BA%E5%A5%B8+%E7%BA%AA%E5%A7%94%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [萧敬腾求婚时叫未婚妻妈妈](https://www.baidu.com/s?wd=%E8%90%A7%E6%95%AC%E8%85%BE%E6%B1%82%E5%A9%9A%E6%97%B6%E5%8F%AB%E6%9C%AA%E5%A9%9A%E5%A6%BB%E5%A6%88%E5%A6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [曝李铁被正式逮捕 移送看守所](https://www.baidu.com/s?wd=%E6%9B%9D%E6%9D%8E%E9%93%81%E8%A2%AB%E6%AD%A3%E5%BC%8F%E9%80%AE%E6%8D%95+%E7%A7%BB%E9%80%81%E7%9C%8B%E5%AE%88%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [俞敏洪首次透露自己的遗嘱分配](https://www.baidu.com/s?wd=%E4%BF%9E%E6%95%8F%E6%B4%AA%E9%A6%96%E6%AC%A1%E9%80%8F%E9%9C%B2%E8%87%AA%E5%B7%B1%E7%9A%84%E9%81%97%E5%98%B1%E5%88%86%E9%85%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [暑期研学游又火了 人均约6000元](https://www.baidu.com/s?wd=%E6%9A%91%E6%9C%9F%E7%A0%94%E5%AD%A6%E6%B8%B8%E5%8F%88%E7%81%AB%E4%BA%86+%E4%BA%BA%E5%9D%87%E7%BA%A66000%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [网友称被江苏一民警强奸 纪委介入](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B0%E8%A2%AB%E6%B1%9F%E8%8B%8F%E4%B8%80%E6%B0%91%E8%AD%A6%E5%BC%BA%E5%A5%B8+%E7%BA%AA%E5%A7%94%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [萧敬腾求婚时叫未婚妻妈妈](https://www.baidu.com/s?wd=%E8%90%A7%E6%95%AC%E8%85%BE%E6%B1%82%E5%A9%9A%E6%97%B6%E5%8F%AB%E6%9C%AA%E5%A9%9A%E5%A6%BB%E5%A6%88%E5%A6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [曝李铁被正式逮捕 移送看守所](https://www.baidu.com/s?wd=%E6%9B%9D%E6%9D%8E%E9%93%81%E8%A2%AB%E6%AD%A3%E5%BC%8F%E9%80%AE%E6%8D%95+%E7%A7%BB%E9%80%81%E7%9C%8B%E5%AE%88%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [俞敏洪首次透露自己的遗嘱分配](https://www.baidu.com/s?wd=%E4%BF%9E%E6%95%8F%E6%B4%AA%E9%A6%96%E6%AC%A1%E9%80%8F%E9%9C%B2%E8%87%AA%E5%B7%B1%E7%9A%84%E9%81%97%E5%98%B1%E5%88%86%E9%85%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [暑期研学游又火了 人均约6000元](https://www.baidu.com/s?wd=%E6%9A%91%E6%9C%9F%E7%A0%94%E5%AD%A6%E6%B8%B8%E5%8F%88%E7%81%AB%E4%BA%86+%E4%BA%BA%E5%9D%87%E7%BA%A66000%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
