@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 04:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 04:39:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [跳江救人外卖小哥回应被女生求婚](https://www.baidu.com/s?wd=%E8%B7%B3%E6%B1%9F%E6%95%91%E4%BA%BA%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%A5%B3%E7%94%9F%E6%B1%82%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子碾压妻子案:涉事家庭孩子未成年](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A2%BE%E5%8E%8B%E5%A6%BB%E5%AD%90%E6%A1%88%3A%E6%B6%89%E4%BA%8B%E5%AE%B6%E5%BA%AD%E5%AD%A9%E5%AD%90%E6%9C%AA%E6%88%90%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [菜鸟官宣自营快递菜鸟速递](https://www.baidu.com/s?wd=%E8%8F%9C%E9%B8%9F%E5%AE%98%E5%AE%A3%E8%87%AA%E8%90%A5%E5%BF%AB%E9%80%92%E8%8F%9C%E9%B8%9F%E9%80%9F%E9%80%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [韩国人将集体减龄一至两岁](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E4%BA%BA%E5%B0%86%E9%9B%86%E4%BD%93%E5%87%8F%E9%BE%84%E4%B8%80%E8%87%B3%E4%B8%A4%E5%B2%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [范玮琪被曝失联后首发文](https://www.baidu.com/s?wd=%E8%8C%83%E7%8E%AE%E7%90%AA%E8%A2%AB%E6%9B%9D%E5%A4%B1%E8%81%94%E5%90%8E%E9%A6%96%E5%8F%91%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [跳江救人外卖小哥回应被女生求婚](https://www.baidu.com/s?wd=%E8%B7%B3%E6%B1%9F%E6%95%91%E4%BA%BA%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%A5%B3%E7%94%9F%E6%B1%82%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子碾压妻子案:涉事家庭孩子未成年](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A2%BE%E5%8E%8B%E5%A6%BB%E5%AD%90%E6%A1%88%3A%E6%B6%89%E4%BA%8B%E5%AE%B6%E5%BA%AD%E5%AD%A9%E5%AD%90%E6%9C%AA%E6%88%90%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [菜鸟官宣自营快递菜鸟速递](https://www.baidu.com/s?wd=%E8%8F%9C%E9%B8%9F%E5%AE%98%E5%AE%A3%E8%87%AA%E8%90%A5%E5%BF%AB%E9%80%92%E8%8F%9C%E9%B8%9F%E9%80%9F%E9%80%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [韩国人将集体减龄一至两岁](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E4%BA%BA%E5%B0%86%E9%9B%86%E4%BD%93%E5%87%8F%E9%BE%84%E4%B8%80%E8%87%B3%E4%B8%A4%E5%B2%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [范玮琪被曝失联后首发文](https://www.baidu.com/s?wd=%E8%8C%83%E7%8E%AE%E7%90%AA%E8%A2%AB%E6%9B%9D%E5%A4%B1%E8%81%94%E5%90%8E%E9%A6%96%E5%8F%91%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
