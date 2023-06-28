@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 08:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 08:59:02</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [为什么每次进乐高店，店员要问是自己玩还是送人?](https://www.zhihu.com/question/579923538)<br />
 6. []()<br />
 7. [普京称「俄政府一年内向瓦格纳提供超 860 亿卢布，将调查瓦格纳资金问题」，透露了哪些信息？](https://www.zhihu.com/question/609049162)<br />
-8. [贵州一 6 岁男童感染食脑虫，曾到海边游泳，什么是食脑虫？感染后治疗情况如何？](https://www.zhihu.com/question/608893347)<br />
-9. [如何评价《王者荣耀》S32 开篇新英雄亚连？](https://www.zhihu.com/question/608317885)<br />
+8. [如何评价《王者荣耀》S32 开篇新英雄亚连？](https://www.zhihu.com/question/608317885)<br />
+9. [日本「AI 红娘」促成相亲成功率高，如何看待此事？未来 AI 相亲匹配系统会普及吗？](https://www.zhihu.com/question/608916386)<br />
 
 > 百度  
 
