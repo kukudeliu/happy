@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 23:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 23:17:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [Victoria还是这么美](https://s.weibo.com/weibo?q=Victoria%E8%BF%98%E6%98%AF%E8%BF%99%E4%B9%88%E7%BE%8E&t=31&band_rank=6&Refer=top)<br />
 7. [jiejie怎么了](https://s.weibo.com/weibo?q=jiejie%E6%80%8E%E4%B9%88%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [李现被杨幂夸好帅的反应](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%B0%E8%A2%AB%E6%9D%A8%E5%B9%82%E5%A4%B8%E5%A5%BD%E5%B8%85%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=8&Refer=top)<br />
-9. [李沁工作室疑似因造型问题删博](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B2%81%E5%B7%A5%E4%BD%9C%E5%AE%A4%E7%96%91%E4%BC%BC%E5%9B%A0%E9%80%A0%E5%9E%8B%E9%97%AE%E9%A2%98%E5%88%A0%E5%8D%9A%23&t=31&band_rank=9&Refer=top)<br />
+9. [Uzi卡莎超神](https://s.weibo.com/weibo?q=%23Uzi%E5%8D%A1%E8%8E%8E%E8%B6%85%E7%A5%9E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
