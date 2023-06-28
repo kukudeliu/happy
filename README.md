@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 20:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 20:02:02</h4></div>
 
 > 微博  
 
 1. [胃癌几乎都是吃出来的](https://s.weibo.com/weibo?q=%23%E8%83%83%E7%99%8C%E5%87%A0%E4%B9%8E%E9%83%BD%E6%98%AF%E5%90%83%E5%87%BA%E6%9D%A5%E7%9A%84%23&t=31&band_rank=1&Refer=top)<br />
-2. [北大学生毕业论文致谢流浪猫](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87%E8%87%B4%E8%B0%A2%E6%B5%81%E6%B5%AA%E7%8C%AB%23&t=31&band_rank=2&Refer=top)<br />
+2. [GQ红毯](https://s.weibo.com/weibo?q=%23GQ%E7%BA%A2%E6%AF%AF%23&t=31&band_rank=2&Refer=top)<br />
 3. [挖隧道的大国重器长啥样](https://s.weibo.com/weibo?q=%23%E6%8C%96%E9%9A%A7%E9%81%93%E7%9A%84%E5%A4%A7%E5%9B%BD%E9%87%8D%E5%99%A8%E9%95%BF%E5%95%A5%E6%A0%B7%23&t=31&band_rank=3&Refer=top)<br />
 4. [大牙 这次我会勇敢法院见](https://s.weibo.com/weibo?q=%E5%A4%A7%E7%89%99%20%E8%BF%99%E6%AC%A1%E6%88%91%E4%BC%9A%E5%8B%87%E6%95%A2%E6%B3%95%E9%99%A2%E8%A7%81&t=31&band_rank=4&Refer=top)<br />
-5. [农村三胞胎姐妹均高分超一本线](https://s.weibo.com/weibo?q=%23%E5%86%9C%E6%9D%91%E4%B8%89%E8%83%9E%E8%83%8E%E5%A7%90%E5%A6%B9%E5%9D%87%E9%AB%98%E5%88%86%E8%B6%85%E4%B8%80%E6%9C%AC%E7%BA%BF%23&t=31&band_rank=5&Refer=top)<br />
-6. [GQ红毯](https://s.weibo.com/weibo?q=%23GQ%E7%BA%A2%E6%AF%AF%23&t=31&band_rank=6&Refer=top)<br />
-7. [大牙方回应被起诉](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%89%99%E6%96%B9%E5%9B%9E%E5%BA%94%E8%A2%AB%E8%B5%B7%E8%AF%89%23&t=31&band_rank=7&Refer=top)<br />
-8. [蔡徐坤巡演将如期举行](https://s.weibo.com/weibo?q=%E8%94%A1%E5%BE%90%E5%9D%A4%E5%B7%A1%E6%BC%94%E5%B0%86%E5%A6%82%E6%9C%9F%E4%B8%BE%E8%A1%8C&t=31&band_rank=8&Refer=top)<br />
-9. [Lisa深V露背装](https://s.weibo.com/weibo?q=%23Lisa%E6%B7%B1V%E9%9C%B2%E8%83%8C%E8%A3%85%23&t=31&band_rank=9&Refer=top)<br />
+5. [蔡徐坤巡演将如期举行](https://s.weibo.com/weibo?q=%E8%94%A1%E5%BE%90%E5%9D%A4%E5%B7%A1%E6%BC%94%E5%B0%86%E5%A6%82%E6%9C%9F%E4%B8%BE%E8%A1%8C&t=31&band_rank=5&Refer=top)<br />
+6. [Lisa深V露背装](https://s.weibo.com/weibo?q=%23Lisa%E6%B7%B1V%E9%9C%B2%E8%83%8C%E8%A3%85%23&t=31&band_rank=6&Refer=top)<br />
+7. [北大学生毕业论文致谢流浪猫](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87%E8%87%B4%E8%B0%A2%E6%B5%81%E6%B5%AA%E7%8C%AB%23&t=31&band_rank=7&Refer=top)<br />
+8. [大牙方回应被起诉](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%89%99%E6%96%B9%E5%9B%9E%E5%BA%94%E8%A2%AB%E8%B5%B7%E8%AF%89%23&t=31&band_rank=8&Refer=top)<br />
+9. [巨蟹座一定要远离影响自己情绪的人](https://s.weibo.com/weibo?q=%E5%B7%A8%E8%9F%B9%E5%BA%A7%E4%B8%80%E5%AE%9A%E8%A6%81%E8%BF%9C%E7%A6%BB%E5%BD%B1%E5%93%8D%E8%87%AA%E5%B7%B1%E6%83%85%E7%BB%AA%E7%9A%84%E4%BA%BA&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
