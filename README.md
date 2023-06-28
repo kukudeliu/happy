@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 09:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 09:59:02</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [《消失的她》中何非如果回头看到了 B 超照片，他会救出李木子吗?](https://www.zhihu.com/question/608865471)<br />
 7. [普京称「俄政府一年内向瓦格纳提供超 860 亿卢布，将调查瓦格纳资金问题」，透露了哪些信息？](https://www.zhihu.com/question/609049162)<br />
 8. [在职场上如何看领导值不值得跟？](https://www.zhihu.com/question/607278481)<br />
-9. [如何评价《王者荣耀》S32 开篇新英雄亚连？](https://www.zhihu.com/question/608317885)<br />
+9. [红极一时的付费自习室「去 K 书」广州 4 家门店已全部关门，并拖欠会员充值费、房租，哪些信息值得关注？](https://www.zhihu.com/question/609067575)<br />
 
 > 百度  
 
@@ -33,8 +33,8 @@
 5. [曝李铁被正式逮捕 移送看守所](https://www.baidu.com/s?wd=%E6%9B%9D%E6%9D%8E%E9%93%81%E8%A2%AB%E6%AD%A3%E5%BC%8F%E9%80%AE%E6%8D%95+%E7%A7%BB%E9%80%81%E7%9C%8B%E5%AE%88%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [快递员追求女客户被拒凌晨持刀入室](https://www.baidu.com/s?wd=%E5%BF%AB%E9%80%92%E5%91%98%E8%BF%BD%E6%B1%82%E5%A5%B3%E5%AE%A2%E6%88%B7%E8%A2%AB%E6%8B%92%E5%87%8C%E6%99%A8%E6%8C%81%E5%88%80%E5%85%A5%E5%AE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子13岁得糖尿病27岁进ICU](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%9013%E5%B2%81%E5%BE%97%E7%B3%96%E5%B0%BF%E7%97%8527%E5%B2%81%E8%BF%9BICU&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [暑期研学游又火了 人均约6000元](https://www.baidu.com/s?wd=%E6%9A%91%E6%9C%9F%E7%A0%94%E5%AD%A6%E6%B8%B8%E5%8F%88%E7%81%AB%E4%BA%86+%E4%BA%BA%E5%9D%87%E7%BA%A66000%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [卢卡申科普里戈任谈判被曝出口成脏](https://www.baidu.com/s?wd=%E5%8D%A2%E5%8D%A1%E7%94%B3%E7%A7%91%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E8%B0%88%E5%88%A4%E8%A2%AB%E6%9B%9D%E5%87%BA%E5%8F%A3%E6%88%90%E8%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [卢卡申科普里戈任谈判被曝出口成脏](https://www.baidu.com/s?wd=%E5%8D%A2%E5%8D%A1%E7%94%B3%E7%A7%91%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E8%B0%88%E5%88%A4%E8%A2%AB%E6%9B%9D%E5%87%BA%E5%8F%A3%E6%88%90%E8%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [暑期研学游又火了 人均约6000元](https://www.baidu.com/s?wd=%E6%9A%91%E6%9C%9F%E7%A0%94%E5%AD%A6%E6%B8%B8%E5%8F%88%E7%81%AB%E4%BA%86+%E4%BA%BA%E5%9D%87%E7%BA%A66000%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [曝李铁被正式逮捕 移送看守所](https://www.baidu.com/s?wd=%E6%9B%9D%E6%9D%8E%E9%93%81%E8%A2%AB%E6%AD%A3%E5%BC%8F%E9%80%AE%E6%8D%95+%E7%A7%BB%E9%80%81%E7%9C%8B%E5%AE%88%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [快递员追求女客户被拒凌晨持刀入室](https://www.baidu.com/s?wd=%E5%BF%AB%E9%80%92%E5%91%98%E8%BF%BD%E6%B1%82%E5%A5%B3%E5%AE%A2%E6%88%B7%E8%A2%AB%E6%8B%92%E5%87%8C%E6%99%A8%E6%8C%81%E5%88%80%E5%85%A5%E5%AE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子13岁得糖尿病27岁进ICU](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%9013%E5%B2%81%E5%BE%97%E7%B3%96%E5%B0%BF%E7%97%8527%E5%B2%81%E8%BF%9BICU&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [暑期研学游又火了 人均约6000元](https://www.baidu.com/s?wd=%E6%9A%91%E6%9C%9F%E7%A0%94%E5%AD%A6%E6%B8%B8%E5%8F%88%E7%81%AB%E4%BA%86+%E4%BA%BA%E5%9D%87%E7%BA%A66000%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [卢卡申科普里戈任谈判被曝出口成脏](https://www.baidu.com/s?wd=%E5%8D%A2%E5%8D%A1%E7%94%B3%E7%A7%91%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E8%B0%88%E5%88%A4%E8%A2%AB%E6%9B%9D%E5%87%BA%E5%8F%A3%E6%88%90%E8%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [卢卡申科普里戈任谈判被曝出口成脏](https://www.baidu.com/s?wd=%E5%8D%A2%E5%8D%A1%E7%94%B3%E7%A7%91%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E8%B0%88%E5%88%A4%E8%A2%AB%E6%9B%9D%E5%87%BA%E5%8F%A3%E6%88%90%E8%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [暑期研学游又火了 人均约6000元](https://www.baidu.com/s?wd=%E6%9A%91%E6%9C%9F%E7%A0%94%E5%AD%A6%E6%B8%B8%E5%8F%88%E7%81%AB%E4%BA%86+%E4%BA%BA%E5%9D%87%E7%BA%A66000%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
