@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 13:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 13:16:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [广州宝马撞人案二审维持死刑原判](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%AE%9D%E9%A9%AC%E6%92%9E%E4%BA%BA%E6%A1%88%E4%BA%8C%E5%AE%A1%E7%BB%B4%E6%8C%81%E6%AD%BB%E5%88%91%E5%8E%9F%E5%88%A4%23&t=31&band_rank=4&Refer=top)<br />
 5. [王一博官宣还是这图](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%AE%98%E5%AE%A3%E8%BF%98%E6%98%AF%E8%BF%99%E5%9B%BE%23&t=31&band_rank=5&Refer=top)<br />
 6. [萧敬腾求婚林有慧](https://s.weibo.com/weibo?q=%23%E8%90%A7%E6%95%AC%E8%85%BE%E6%B1%82%E5%A9%9A%E6%9E%97%E6%9C%89%E6%85%A7%23&t=31&band_rank=6&Refer=top)<br />
-7. [李铁](https://s.weibo.com/weibo?q=%E6%9D%8E%E9%93%81&t=31&band_rank=7&Refer=top)<br />
-8. [喜茶奈雪为何又不香了](https://s.weibo.com/weibo?q=%23%E5%96%9C%E8%8C%B6%E5%A5%88%E9%9B%AA%E4%B8%BA%E4%BD%95%E5%8F%88%E4%B8%8D%E9%A6%99%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+7. [喜茶奈雪为何又不香了](https://s.weibo.com/weibo?q=%23%E5%96%9C%E8%8C%B6%E5%A5%88%E9%9B%AA%E4%B8%BA%E4%BD%95%E5%8F%88%E4%B8%8D%E9%A6%99%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+8. [李铁](https://s.weibo.com/weibo?q=%E6%9D%8E%E9%93%81&t=31&band_rank=8&Refer=top)<br />
 9. [双休和月休八天有什么区别](https://s.weibo.com/weibo?q=%23%E5%8F%8C%E4%BC%91%E5%92%8C%E6%9C%88%E4%BC%91%E5%85%AB%E5%A4%A9%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
