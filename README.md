@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 18:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 18:09:02</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [《流浪地球 2》中，550w 这么快，为什么不用来解码全球核武器，而是要派人去手工引爆呢？](https://www.zhihu.com/question/597418932)<br />
 6. [2023 河南高考近 15 万考生过一本线，600 分及以上超 2.6 万人，如何看待河南高考成绩？](https://www.zhihu.com/question/608449348)<br />
 7. [曝李铁结束留置调查阶段，已被移送至看守所并且正式逮捕，下一步是法院庭审，有哪些信息值得关注？](https://www.zhihu.com/question/609125365)<br />
-8. [山东东营警方通报「男子驾车反复碾压女子致死」，犯罪嫌疑人已被刑拘，法律角度如何解读？](https://www.zhihu.com/question/609117132)<br />
-9. [台防务部门罕见通报「两艘俄罗斯护卫舰现身台东部海域」，透露了哪些信息？](https://www.zhihu.com/question/609120611)<br />
+8. [台防务部门罕见通报「两艘俄罗斯护卫舰现身台东部海域」，透露了哪些信息？](https://www.zhihu.com/question/609120611)<br />
+9. [英雄联盟为什么不设计一个真正的 ap 射手？](https://www.zhihu.com/question/609023601)<br />
 
 > 百度  
 
@@ -31,10 +31,10 @@
 3. [跳江救人外卖小哥回应被女生求婚](https://www.baidu.com/s?wd=%E8%B7%B3%E6%B1%9F%E6%95%91%E4%BA%BA%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%A5%B3%E7%94%9F%E6%B1%82%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [小微经济呈现八大新亮点](https://www.baidu.com/s?wd=%E5%B0%8F%E5%BE%AE%E7%BB%8F%E6%B5%8E%E5%91%88%E7%8E%B0%E5%85%AB%E5%A4%A7%E6%96%B0%E4%BA%AE%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [蔡徐坤巡演将如期举行](https://www.baidu.com/s?wd=%E8%94%A1%E5%BE%90%E5%9D%A4%E5%B7%A1%E6%BC%94%E5%B0%86%E5%A6%82%E6%9C%9F%E4%B8%BE%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [范玮琪被曝失联后首发文](https://www.baidu.com/s?wd=%E8%8C%83%E7%8E%AE%E7%90%AA%E8%A2%AB%E6%9B%9D%E5%A4%B1%E8%81%94%E5%90%8E%E9%A6%96%E5%8F%91%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [运营者:每月百部偷拍影片从中国传来](https://www.baidu.com/s?wd=%E8%BF%90%E8%90%A5%E8%80%85%3A%E6%AF%8F%E6%9C%88%E7%99%BE%E9%83%A8%E5%81%B7%E6%8B%8D%E5%BD%B1%E7%89%87%E4%BB%8E%E4%B8%AD%E5%9B%BD%E4%BC%A0%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [运营者:每月百部偷拍影片从中国传来](https://www.baidu.com/s?wd=%E8%BF%90%E8%90%A5%E8%80%85%3A%E6%AF%8F%E6%9C%88%E7%99%BE%E9%83%A8%E5%81%B7%E6%8B%8D%E5%BD%B1%E7%89%87%E4%BB%8E%E4%B8%AD%E5%9B%BD%E4%BC%A0%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [范玮琪被曝失联后首发文](https://www.baidu.com/s?wd=%E8%8C%83%E7%8E%AE%E7%90%AA%E8%A2%AB%E6%9B%9D%E5%A4%B1%E8%81%94%E5%90%8E%E9%A6%96%E5%8F%91%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [《破冰行动》原型之一被双开](https://www.baidu.com/s?wd=%E3%80%8A%E7%A0%B4%E5%86%B0%E8%A1%8C%E5%8A%A8%E3%80%8B%E5%8E%9F%E5%9E%8B%E4%B9%8B%E4%B8%80%E8%A2%AB%E5%8F%8C%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [恒大地产被强制执行10.9亿](https://www.baidu.com/s?wd=%E6%81%92%E5%A4%A7%E5%9C%B0%E4%BA%A7%E8%A2%AB%E5%BC%BA%E5%88%B6%E6%89%A7%E8%A1%8C10.9%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [特朗普民调支持率超拜登](https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%B0%91%E8%B0%83%E6%94%AF%E6%8C%81%E7%8E%87%E8%B6%85%E6%8B%9C%E7%99%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [跳江救人外卖小哥回应被女生求婚](https://www.baidu.com/s?wd=%E8%B7%B3%E6%B1%9F%E6%95%91%E4%BA%BA%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%A5%B3%E7%94%9F%E6%B1%82%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [小微经济呈现八大新亮点](https://www.baidu.com/s?wd=%E5%B0%8F%E5%BE%AE%E7%BB%8F%E6%B5%8E%E5%91%88%E7%8E%B0%E5%85%AB%E5%A4%A7%E6%96%B0%E4%BA%AE%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [蔡徐坤巡演将如期举行](https://www.baidu.com/s?wd=%E8%94%A1%E5%BE%90%E5%9D%A4%E5%B7%A1%E6%BC%94%E5%B0%86%E5%A6%82%E6%9C%9F%E4%B8%BE%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [范玮琪被曝失联后首发文](https://www.baidu.com/s?wd=%E8%8C%83%E7%8E%AE%E7%90%AA%E8%A2%AB%E6%9B%9D%E5%A4%B1%E8%81%94%E5%90%8E%E9%A6%96%E5%8F%91%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [运营者:每月百部偷拍影片从中国传来](https://www.baidu.com/s?wd=%E8%BF%90%E8%90%A5%E8%80%85%3A%E6%AF%8F%E6%9C%88%E7%99%BE%E9%83%A8%E5%81%B7%E6%8B%8D%E5%BD%B1%E7%89%87%E4%BB%8E%E4%B8%AD%E5%9B%BD%E4%BC%A0%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [运营者:每月百部偷拍影片从中国传来](https://www.baidu.com/s?wd=%E8%BF%90%E8%90%A5%E8%80%85%3A%E6%AF%8F%E6%9C%88%E7%99%BE%E9%83%A8%E5%81%B7%E6%8B%8D%E5%BD%B1%E7%89%87%E4%BB%8E%E4%B8%AD%E5%9B%BD%E4%BC%A0%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [范玮琪被曝失联后首发文](https://www.baidu.com/s?wd=%E8%8C%83%E7%8E%AE%E7%90%AA%E8%A2%AB%E6%9B%9D%E5%A4%B1%E8%81%94%E5%90%8E%E9%A6%96%E5%8F%91%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [《破冰行动》原型之一被双开](https://www.baidu.com/s?wd=%E3%80%8A%E7%A0%B4%E5%86%B0%E8%A1%8C%E5%8A%A8%E3%80%8B%E5%8E%9F%E5%9E%8B%E4%B9%8B%E4%B8%80%E8%A2%AB%E5%8F%8C%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [恒大地产被强制执行10.9亿](https://www.baidu.com/s?wd=%E6%81%92%E5%A4%A7%E5%9C%B0%E4%BA%A7%E8%A2%AB%E5%BC%BA%E5%88%B6%E6%89%A7%E8%A1%8C10.9%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [特朗普民调支持率超拜登](https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%B0%91%E8%B0%83%E6%94%AF%E6%8C%81%E7%8E%87%E8%B6%85%E6%8B%9C%E7%99%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
