@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 12:29:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 12:30:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [网友称被江苏一民警强奸 纪委介入](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B0%E8%A2%AB%E6%B1%9F%E8%8B%8F%E4%B8%80%E6%B0%91%E8%AD%A6%E5%BC%BA%E5%A5%B8+%E7%BA%AA%E5%A7%94%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [俞敏洪首次透露自己的遗嘱分配](https://www.baidu.com/s?wd=%E4%BF%9E%E6%95%8F%E6%B4%AA%E9%A6%96%E6%AC%A1%E9%80%8F%E9%9C%B2%E8%87%AA%E5%B7%B1%E7%9A%84%E9%81%97%E5%98%B1%E5%88%86%E9%85%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [为了卖课渲染暑假很可怕太损了](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BA%86%E5%8D%96%E8%AF%BE%E6%B8%B2%E6%9F%93%E6%9A%91%E5%81%87%E5%BE%88%E5%8F%AF%E6%80%95%E5%A4%AA%E6%8D%9F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [普里戈任发11分钟音频为出兵作说明](https://www.baidu.com/s?wd=%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E5%8F%9111%E5%88%86%E9%92%9F%E9%9F%B3%E9%A2%91%E4%B8%BA%E5%87%BA%E5%85%B5%E4%BD%9C%E8%AF%B4%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [乌外长批普里戈任：你放弃得太快了](https://www.baidu.com/s?wd=%E4%B9%8C%E5%A4%96%E9%95%BF%E6%89%B9%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%EF%BC%9A%E4%BD%A0%E6%94%BE%E5%BC%83%E5%BE%97%E5%A4%AA%E5%BF%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [网友称被江苏一民警强奸 纪委介入](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B0%E8%A2%AB%E6%B1%9F%E8%8B%8F%E4%B8%80%E6%B0%91%E8%AD%A6%E5%BC%BA%E5%A5%B8+%E7%BA%AA%E5%A7%94%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [俞敏洪首次透露自己的遗嘱分配](https://www.baidu.com/s?wd=%E4%BF%9E%E6%95%8F%E6%B4%AA%E9%A6%96%E6%AC%A1%E9%80%8F%E9%9C%B2%E8%87%AA%E5%B7%B1%E7%9A%84%E9%81%97%E5%98%B1%E5%88%86%E9%85%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [为了卖课渲染暑假很可怕太损了](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BA%86%E5%8D%96%E8%AF%BE%E6%B8%B2%E6%9F%93%E6%9A%91%E5%81%87%E5%BE%88%E5%8F%AF%E6%80%95%E5%A4%AA%E6%8D%9F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [普里戈任发11分钟音频为出兵作说明](https://www.baidu.com/s?wd=%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E5%8F%9111%E5%88%86%E9%92%9F%E9%9F%B3%E9%A2%91%E4%B8%BA%E5%87%BA%E5%85%B5%E4%BD%9C%E8%AF%B4%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [乌外长批普里戈任：你放弃得太快了](https://www.baidu.com/s?wd=%E4%B9%8C%E5%A4%96%E9%95%BF%E6%89%B9%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%EF%BC%9A%E4%BD%A0%E6%94%BE%E5%BC%83%E5%BE%97%E5%A4%AA%E5%BF%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
