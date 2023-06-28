@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 16:53:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 16:54:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [浙江一学生毕业后删除约 90% 的同学老师，称「留着没什么用」，你会删除不常联系的人吗？](https://www.zhihu.com/question/608984327)<br />
 5. [2024QS 世界大学排名公布，麻省理工、剑桥、牛津前三，北大 17 清华 25，如何看待新版排名？](https://www.zhihu.com/question/609090659)<br />
 6. [普通农民花十几万供孩子上了一个三本的意义是什么？](https://www.zhihu.com/question/601925776)<br />
-7. [台防务部门罕见通报「两艘俄罗斯护卫舰现身台东部海域」，透露了哪些信息？](https://www.zhihu.com/question/609120611)<br />
-8. [姆巴佩坚持不走，因为要拿 2 亿的忠诚奖金 + 皇马签字费，对此你作何评价？](https://www.zhihu.com/question/608418386)<br />
-9. [业主空置房被物业当宿舍， 物业称「业主没办入住手续，也没交物业费，物业有权管理」，该行为是否合理？](https://www.zhihu.com/question/603853390)<br />
+7. [姆巴佩坚持不走，因为要拿 2 亿的忠诚奖金 + 皇马签字费，对此你作何评价？](https://www.zhihu.com/question/608418386)<br />
+8. [台防务部门罕见通报「两艘俄罗斯护卫舰现身台东部海域」，透露了哪些信息？](https://www.zhihu.com/question/609120611)<br />
+9. [《流浪地球 2》中，550w 这么快，为什么不用来解码全球核武器，而是要派人去手工引爆呢？](https://www.zhihu.com/question/597418932)<br />
 
 > 百度  
 
@@ -34,7 +34,7 @@
 6. [向太叫林有慧媳妇儿](https://www.baidu.com/s?wd=%E5%90%91%E5%A4%AA%E5%8F%AB%E6%9E%97%E6%9C%89%E6%85%A7%E5%AA%B3%E5%A6%87%E5%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [碾压男抓捕现场曝光：遭市民呵斥](https://www.baidu.com/s?wd=%E7%A2%BE%E5%8E%8B%E7%94%B7%E6%8A%93%E6%8D%95%E7%8E%B0%E5%9C%BA%E6%9B%9D%E5%85%89%EF%BC%9A%E9%81%AD%E5%B8%82%E6%B0%91%E5%91%B5%E6%96%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [卢卡申科普里戈任谈判被曝出口成脏](https://www.baidu.com/s?wd=%E5%8D%A2%E5%8D%A1%E7%94%B3%E7%A7%91%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E8%B0%88%E5%88%A4%E8%A2%AB%E6%9B%9D%E5%87%BA%E5%8F%A3%E6%88%90%E8%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [普京曾有意杀死普里戈任](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E6%9B%BE%E6%9C%89%E6%84%8F%E6%9D%80%E6%AD%BB%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子在《消失的她》映后求婚](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E3%80%8A%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E3%80%8B%E6%98%A0%E5%90%8E%E6%B1%82%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [向太叫林有慧媳妇儿](https://www.baidu.com/s?wd=%E5%90%91%E5%A4%AA%E5%8F%AB%E6%9E%97%E6%9C%89%E6%85%A7%E5%AA%B3%E5%A6%87%E5%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [碾压男抓捕现场曝光：遭市民呵斥](https://www.baidu.com/s?wd=%E7%A2%BE%E5%8E%8B%E7%94%B7%E6%8A%93%E6%8D%95%E7%8E%B0%E5%9C%BA%E6%9B%9D%E5%85%89%EF%BC%9A%E9%81%AD%E5%B8%82%E6%B0%91%E5%91%B5%E6%96%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [卢卡申科普里戈任谈判被曝出口成脏](https://www.baidu.com/s?wd=%E5%8D%A2%E5%8D%A1%E7%94%B3%E7%A7%91%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E8%B0%88%E5%88%A4%E8%A2%AB%E6%9B%9D%E5%87%BA%E5%8F%A3%E6%88%90%E8%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [普京曾有意杀死普里戈任](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E6%9B%BE%E6%9C%89%E6%84%8F%E6%9D%80%E6%AD%BB%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子在《消失的她》映后求婚](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E3%80%8A%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E3%80%8B%E6%98%A0%E5%90%8E%E6%B1%82%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
