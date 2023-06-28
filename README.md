@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 17:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 17:01:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [韩国医生都不喝的韩式烧酒](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E5%8C%BB%E7%94%9F%E9%83%BD%E4%B8%8D%E5%96%9D%E7%9A%84%E9%9F%A9%E5%BC%8F%E7%83%A7%E9%85%92&t=31&band_rank=6&Refer=top)<br />
 7. [王一博官宣还是这图](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%AE%98%E5%AE%A3%E8%BF%98%E6%98%AF%E8%BF%99%E5%9B%BE%23&t=31&band_rank=7&Refer=top)<br />
 8. [吃完小龙虾美甲变绿了](https://s.weibo.com/weibo?q=%23%E5%90%83%E5%AE%8C%E5%B0%8F%E9%BE%99%E8%99%BE%E7%BE%8E%E7%94%B2%E5%8F%98%E7%BB%BF%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [咒术回战](https://s.weibo.com/weibo?q=%E5%92%92%E6%9C%AF%E5%9B%9E%E6%88%98&t=31&band_rank=9&Refer=top)<br />
+9. [GQ主编评价宋妍霏衣服闪瞎](https://s.weibo.com/weibo?q=%23GQ%E4%B8%BB%E7%BC%96%E8%AF%84%E4%BB%B7%E5%AE%8B%E5%A6%8D%E9%9C%8F%E8%A1%A3%E6%9C%8D%E9%97%AA%E7%9E%8E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
