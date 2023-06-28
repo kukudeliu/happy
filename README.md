@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 17:56:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 17:57:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [GQ主编评价宋妍霏衣服闪瞎](https://s.weibo.com/weibo?q=%23GQ%E4%B8%BB%E7%BC%96%E8%AF%84%E4%BB%B7%E5%AE%8B%E5%A6%8D%E9%9C%8F%E8%A1%A3%E6%9C%8D%E9%97%AA%E7%9E%8E%23&t=31&band_rank=2&Refer=top)<br />
 3. [穿越中国新基建](https://s.weibo.com/weibo?q=%23%E7%A9%BF%E8%B6%8A%E4%B8%AD%E5%9B%BD%E6%96%B0%E5%9F%BA%E5%BB%BA%23&t=31&band_rank=3&Refer=top)<br />
 4. [还得是李梦](https://s.weibo.com/weibo?q=%23%E8%BF%98%E5%BE%97%E6%98%AF%E6%9D%8E%E6%A2%A6%23&t=31&band_rank=4&Refer=top)<br />
-5. [鹿晗的提词器](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E7%9A%84%E6%8F%90%E8%AF%8D%E5%99%A8%23&t=31&band_rank=5&Refer=top)<br />
-6. [肖战抵达香港](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%8A%B5%E8%BE%BE%E9%A6%99%E6%B8%AF%23&t=31&band_rank=6&Refer=top)<br />
-7. [SEVENTEEN的家谱这下全都乱了](https://s.weibo.com/weibo?q=%23SEVENTEEN%E7%9A%84%E5%AE%B6%E8%B0%B1%E8%BF%99%E4%B8%8B%E5%85%A8%E9%83%BD%E4%B9%B1%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [农村三胞胎姐妹均高分超一本线](https://s.weibo.com/weibo?q=%23%E5%86%9C%E6%9D%91%E4%B8%89%E8%83%9E%E8%83%8E%E5%A7%90%E5%A6%B9%E5%9D%87%E9%AB%98%E5%88%86%E8%B6%85%E4%B8%80%E6%9C%AC%E7%BA%BF%23&t=31&band_rank=8&Refer=top)<br />
-9. [指尖触过细密的盲文是她向上生长的痕迹](https://s.weibo.com/weibo?q=%23%E6%8C%87%E5%B0%96%E8%A7%A6%E8%BF%87%E7%BB%86%E5%AF%86%E7%9A%84%E7%9B%B2%E6%96%87%E6%98%AF%E5%A5%B9%E5%90%91%E4%B8%8A%E7%94%9F%E9%95%BF%E7%9A%84%E7%97%95%E8%BF%B9%23&t=31&band_rank=9&Refer=top)<br />
+5. [农村三胞胎姐妹均高分超一本线](https://s.weibo.com/weibo?q=%23%E5%86%9C%E6%9D%91%E4%B8%89%E8%83%9E%E8%83%8E%E5%A7%90%E5%A6%B9%E5%9D%87%E9%AB%98%E5%88%86%E8%B6%85%E4%B8%80%E6%9C%AC%E7%BA%BF%23&t=31&band_rank=5&Refer=top)<br />
+6. [鹿晗的提词器](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E7%9A%84%E6%8F%90%E8%AF%8D%E5%99%A8%23&t=31&band_rank=6&Refer=top)<br />
+7. [指尖触过细密的盲文是她向上生长的痕迹](https://s.weibo.com/weibo?q=%23%E6%8C%87%E5%B0%96%E8%A7%A6%E8%BF%87%E7%BB%86%E5%AF%86%E7%9A%84%E7%9B%B2%E6%96%87%E6%98%AF%E5%A5%B9%E5%90%91%E4%B8%8A%E7%94%9F%E9%95%BF%E7%9A%84%E7%97%95%E8%BF%B9%23&t=31&band_rank=7&Refer=top)<br />
+8. [肖战抵达香港](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%8A%B5%E8%BE%BE%E9%A6%99%E6%B8%AF%23&t=31&band_rank=8&Refer=top)<br />
+9. [SEVENTEEN的家谱这下全都乱了](https://s.weibo.com/weibo?q=%23SEVENTEEN%E7%9A%84%E5%AE%B6%E8%B0%B1%E8%BF%99%E4%B8%8B%E5%85%A8%E9%83%BD%E4%B9%B1%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
