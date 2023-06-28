@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 04:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 04:02:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [小米之后 上汽在印度遭遇了什么](https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E4%B9%8B%E5%90%8E+%E4%B8%8A%E6%B1%BD%E5%9C%A8%E5%8D%B0%E5%BA%A6%E9%81%AD%E9%81%87%E4%BA%86%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子上海弄堂蹭饭碰壁引热议](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%8A%E6%B5%B7%E5%BC%84%E5%A0%82%E8%B9%AD%E9%A5%AD%E7%A2%B0%E5%A3%81%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子碾压妻子案:涉事家庭孩子未成年](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A2%BE%E5%8E%8B%E5%A6%BB%E5%AD%90%E6%A1%88%3A%E6%B6%89%E4%BA%8B%E5%AE%B6%E5%BA%AD%E5%AD%A9%E5%AD%90%E6%9C%AA%E6%88%90%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [范玮琪被曝失联后首发文](https://www.baidu.com/s?wd=%E8%8C%83%E7%8E%AE%E7%90%AA%E8%A2%AB%E6%9B%9D%E5%A4%B1%E8%81%94%E5%90%8E%E9%A6%96%E5%8F%91%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [霸占电脑拒办证工作人员被停职](https://www.baidu.com/s?wd=%E9%9C%B8%E5%8D%A0%E7%94%B5%E8%84%91%E6%8B%92%E5%8A%9E%E8%AF%81%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E8%A2%AB%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [小米之后 上汽在印度遭遇了什么](https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E4%B9%8B%E5%90%8E+%E4%B8%8A%E6%B1%BD%E5%9C%A8%E5%8D%B0%E5%BA%A6%E9%81%AD%E9%81%87%E4%BA%86%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子上海弄堂蹭饭碰壁引热议](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%8A%E6%B5%B7%E5%BC%84%E5%A0%82%E8%B9%AD%E9%A5%AD%E7%A2%B0%E5%A3%81%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子碾压妻子案:涉事家庭孩子未成年](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A2%BE%E5%8E%8B%E5%A6%BB%E5%AD%90%E6%A1%88%3A%E6%B6%89%E4%BA%8B%E5%AE%B6%E5%BA%AD%E5%AD%A9%E5%AD%90%E6%9C%AA%E6%88%90%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [范玮琪被曝失联后首发文](https://www.baidu.com/s?wd=%E8%8C%83%E7%8E%AE%E7%90%AA%E8%A2%AB%E6%9B%9D%E5%A4%B1%E8%81%94%E5%90%8E%E9%A6%96%E5%8F%91%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [霸占电脑拒办证工作人员被停职](https://www.baidu.com/s?wd=%E9%9C%B8%E5%8D%A0%E7%94%B5%E8%84%91%E6%8B%92%E5%8A%9E%E8%AF%81%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E8%A2%AB%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
