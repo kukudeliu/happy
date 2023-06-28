@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 10:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 10:55:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [同事怀孕后一直请假我离职了](https://s.weibo.com/weibo?q=%23%E5%90%8C%E4%BA%8B%E6%80%80%E5%AD%95%E5%90%8E%E4%B8%80%E7%9B%B4%E8%AF%B7%E5%81%87%E6%88%91%E7%A6%BB%E8%81%8C%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [萧敬腾求婚林有慧](https://s.weibo.com/weibo?q=%23%E8%90%A7%E6%95%AC%E8%85%BE%E6%B1%82%E5%A9%9A%E6%9E%97%E6%9C%89%E6%85%A7%23&t=31&band_rank=7&Refer=top)<br />
 8. [拍CT之前记得上个厕所](https://s.weibo.com/weibo?q=%23%E6%8B%8DCT%E4%B9%8B%E5%89%8D%E8%AE%B0%E5%BE%97%E4%B8%8A%E4%B8%AA%E5%8E%95%E6%89%80%23&t=31&band_rank=8&Refer=top)<br />
-9. [消失的她李木子视角](https://s.weibo.com/weibo?q=%23%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E6%9D%8E%E6%9C%A8%E5%AD%90%E8%A7%86%E8%A7%92%23&t=31&band_rank=9&Refer=top)<br />
+9. [和对象一起入职当天被辞退了](https://s.weibo.com/weibo?q=%23%E5%92%8C%E5%AF%B9%E8%B1%A1%E4%B8%80%E8%B5%B7%E5%85%A5%E8%81%8C%E5%BD%93%E5%A4%A9%E8%A2%AB%E8%BE%9E%E9%80%80%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
