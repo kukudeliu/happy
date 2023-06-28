@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 18:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 18:27:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [张雪峰建议不好好学习带孩子到四个地方](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%BB%BA%E8%AE%AE%E4%B8%8D%E5%A5%BD%E5%A5%BD%E5%AD%A6%E4%B9%A0%E5%B8%A6%E5%AD%A9%E5%AD%90%E5%88%B0%E5%9B%9B%E4%B8%AA%E5%9C%B0%E6%96%B9%23&t=31&band_rank=6&Refer=top)<br />
 7. [安乐传真的要来了](https://s.weibo.com/weibo?q=%23%E5%AE%89%E4%B9%90%E4%BC%A0%E7%9C%9F%E7%9A%84%E8%A6%81%E6%9D%A5%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [GQ主编评价宋妍霏衣服闪瞎](https://s.weibo.com/weibo?q=%23GQ%E4%B8%BB%E7%BC%96%E8%AF%84%E4%BB%B7%E5%AE%8B%E5%A6%8D%E9%9C%8F%E8%A1%A3%E6%9C%8D%E9%97%AA%E7%9E%8E%23&t=31&band_rank=8&Refer=top)<br />
-9. [还得是李梦](https://s.weibo.com/weibo?q=%23%E8%BF%98%E5%BE%97%E6%98%AF%E6%9D%8E%E6%A2%A6%23&t=31&band_rank=9&Refer=top)<br />
+9. [EXO综艺取消录制](https://s.weibo.com/weibo?q=%23EXO%E7%BB%BC%E8%89%BA%E5%8F%96%E6%B6%88%E5%BD%95%E5%88%B6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
