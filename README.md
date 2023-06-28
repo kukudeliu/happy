@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 12:38:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 12:39:01</h4></div>
 
 > 微博  
 
@@ -18,11 +18,11 @@
 2. [多城二手房挂牌量压顶，上海增幅全国第一，重庆规模全国第一，武汉八成房源降价，如何看待当下二手房市场？](https://www.zhihu.com/question/608945751)<br />
 3. [2024QS 世界大学排名公布，麻省理工、剑桥、牛津前三，北大 17 清华 25，如何看待新版排名？](https://www.zhihu.com/question/609090659)<br />
 4. [为什么每次进乐高店，店员要问是自己玩还是送人?](https://www.zhihu.com/question/579923538)<br />
-5. []()<br />
-6. [如何看待「七成年轻人愿意为钱加班」一事？如果每小时 100 块你愿意加班吗？](https://www.zhihu.com/question/608935474)<br />
-7. [红极一时的付费自习室「去 K 书」广州 4 家门店已全部关门，并拖欠会员充值费、房租，哪些信息值得关注？](https://www.zhihu.com/question/609067575)<br />
-8. [「妈妈私拆档案袋气哭女儿」引热议，毕业生档案私拆后有什么后果？](https://www.zhihu.com/question/608989364)<br />
-9. [1-5 月全国规模以上工业企业利润总额 26688.9 亿元，同比下降 18.8%，哪些信息值得关注？](https://www.zhihu.com/question/609124681)<br />
+5. [如何看待「七成年轻人愿意为钱加班」一事？如果每小时 100 块你愿意加班吗？](https://www.zhihu.com/question/608935474)<br />
+6. [红极一时的付费自习室「去 K 书」广州 4 家门店已全部关门，并拖欠会员充值费、房租，哪些信息值得关注？](https://www.zhihu.com/question/609067575)<br />
+7. [「妈妈私拆档案袋气哭女儿」引热议，毕业生档案私拆后有什么后果？](https://www.zhihu.com/question/608989364)<br />
+8. [1-5 月全国规模以上工业企业利润总额 26688.9 亿元，同比下降 18.8%，哪些信息值得关注？](https://www.zhihu.com/question/609124681)<br />
+9. [如何看待电影《消失的她》评分高开低走？](https://www.zhihu.com/question/608924640)<br />
 
 > 百度  
 
@@ -32,9 +32,9 @@
 4. [小微经济呈现八大新亮点](https://www.baidu.com/s?wd=%E5%B0%8F%E5%BE%AE%E7%BB%8F%E6%B5%8E%E5%91%88%E7%8E%B0%E5%85%AB%E5%A4%A7%E6%96%B0%E4%BA%AE%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [卢卡申科普里戈任谈判被曝出口成脏](https://www.baidu.com/s?wd=%E5%8D%A2%E5%8D%A1%E7%94%B3%E7%A7%91%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E8%B0%88%E5%88%A4%E8%A2%AB%E6%9B%9D%E5%87%BA%E5%8F%A3%E6%88%90%E8%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [网友称被江苏一民警强奸 纪委介入](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B0%E8%A2%AB%E6%B1%9F%E8%8B%8F%E4%B8%80%E6%B0%91%E8%AD%A6%E5%BC%BA%E5%A5%B8+%E7%BA%AA%E5%A7%94%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [俞敏洪首次透露自己的遗嘱分配](https://www.baidu.com/s?wd=%E4%BF%9E%E6%95%8F%E6%B4%AA%E9%A6%96%E6%AC%A1%E9%80%8F%E9%9C%B2%E8%87%AA%E5%B7%B1%E7%9A%84%E9%81%97%E5%98%B1%E5%88%86%E9%85%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [乌外长批普里戈任：你放弃得太快了](https://www.baidu.com/s?wd=%E4%B9%8C%E5%A4%96%E9%95%BF%E6%89%B9%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%EF%BC%9A%E4%BD%A0%E6%94%BE%E5%BC%83%E5%BE%97%E5%A4%AA%E5%BF%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [为了卖课渲染暑假很可怕太损了](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BA%86%E5%8D%96%E8%AF%BE%E6%B8%B2%E6%9F%93%E6%9A%91%E5%81%87%E5%BE%88%E5%8F%AF%E6%80%95%E5%A4%AA%E6%8D%9F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [幼儿园回应老师情绪过激推倒孩子](https://www.baidu.com/s?wd=%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%9B%9E%E5%BA%94%E8%80%81%E5%B8%88%E6%83%85%E7%BB%AA%E8%BF%87%E6%BF%80%E6%8E%A8%E5%80%92%E5%AD%A9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [俞敏洪首次透露自己的遗嘱分配](https://www.baidu.com/s?wd=%E4%BF%9E%E6%95%8F%E6%B4%AA%E9%A6%96%E6%AC%A1%E9%80%8F%E9%9C%B2%E8%87%AA%E5%B7%B1%E7%9A%84%E9%81%97%E5%98%B1%E5%88%86%E9%85%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [乌外长批普里戈任：你放弃得太快了](https://www.baidu.com/s?wd=%E4%B9%8C%E5%A4%96%E9%95%BF%E6%89%B9%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%EF%BC%9A%E4%BD%A0%E6%94%BE%E5%BC%83%E5%BE%97%E5%A4%AA%E5%BF%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [小微经济呈现八大新亮点](https://www.baidu.com/s?wd=%E5%B0%8F%E5%BE%AE%E7%BB%8F%E6%B5%8E%E5%91%88%E7%8E%B0%E5%85%AB%E5%A4%A7%E6%96%B0%E4%BA%AE%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [卢卡申科普里戈任谈判被曝出口成脏](https://www.baidu.com/s?wd=%E5%8D%A2%E5%8D%A1%E7%94%B3%E7%A7%91%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E8%B0%88%E5%88%A4%E8%A2%AB%E6%9B%9D%E5%87%BA%E5%8F%A3%E6%88%90%E8%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [网友称被江苏一民警强奸 纪委介入](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B0%E8%A2%AB%E6%B1%9F%E8%8B%8F%E4%B8%80%E6%B0%91%E8%AD%A6%E5%BC%BA%E5%A5%B8+%E7%BA%AA%E5%A7%94%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [俞敏洪首次透露自己的遗嘱分配](https://www.baidu.com/s?wd=%E4%BF%9E%E6%95%8F%E6%B4%AA%E9%A6%96%E6%AC%A1%E9%80%8F%E9%9C%B2%E8%87%AA%E5%B7%B1%E7%9A%84%E9%81%97%E5%98%B1%E5%88%86%E9%85%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [乌外长批普里戈任：你放弃得太快了](https://www.baidu.com/s?wd=%E4%B9%8C%E5%A4%96%E9%95%BF%E6%89%B9%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%EF%BC%9A%E4%BD%A0%E6%94%BE%E5%BC%83%E5%BE%97%E5%A4%AA%E5%BF%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [为了卖课渲染暑假很可怕太损了](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BA%86%E5%8D%96%E8%AF%BE%E6%B8%B2%E6%9F%93%E6%9A%91%E5%81%87%E5%BE%88%E5%8F%AF%E6%80%95%E5%A4%AA%E6%8D%9F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [幼儿园回应老师情绪过激推倒孩子](https://www.baidu.com/s?wd=%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%9B%9E%E5%BA%94%E8%80%81%E5%B8%88%E6%83%85%E7%BB%AA%E8%BF%87%E6%BF%80%E6%8E%A8%E5%80%92%E5%AD%A9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [俞敏洪首次透露自己的遗嘱分配](https://www.baidu.com/s?wd=%E4%BF%9E%E6%95%8F%E6%B4%AA%E9%A6%96%E6%AC%A1%E9%80%8F%E9%9C%B2%E8%87%AA%E5%B7%B1%E7%9A%84%E9%81%97%E5%98%B1%E5%88%86%E9%85%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [乌外长批普里戈任：你放弃得太快了](https://www.baidu.com/s?wd=%E4%B9%8C%E5%A4%96%E9%95%BF%E6%89%B9%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%EF%BC%9A%E4%BD%A0%E6%94%BE%E5%BC%83%E5%BE%97%E5%A4%AA%E5%BF%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
