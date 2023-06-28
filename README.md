@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 16:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 16:24:02</h4></div>
 
 > 微博  
 
@@ -20,8 +20,8 @@
 4. [「妈妈私拆档案袋气哭女儿」引热议，毕业生档案私拆后有什么后果？](https://www.zhihu.com/question/608989364)<br />
 5. [浙江一学生毕业后删除约 90% 的同学老师，称「留着没什么用」，你会删除不常联系的人吗？](https://www.zhihu.com/question/608984327)<br />
 6. [普通农民花十几万供孩子上了一个三本的意义是什么？](https://www.zhihu.com/question/601925776)<br />
-7. [有没有可能太阳的核心已经熄灭，停止核聚变，但是地球人还不知道？](https://www.zhihu.com/question/55606798)<br />
-8. [台防务部门罕见通报「两艘俄罗斯护卫舰现身台东部海域」，透露了哪些信息？](https://www.zhihu.com/question/609120611)<br />
+7. [台防务部门罕见通报「两艘俄罗斯护卫舰现身台东部海域」，透露了哪些信息？](https://www.zhihu.com/question/609120611)<br />
+8. [有没有可能太阳的核心已经熄灭，停止核聚变，但是地球人还不知道？](https://www.zhihu.com/question/55606798)<br />
 9. [为何自黑猩猩以后，几乎所有人类亚种全部都灭绝了？](https://www.zhihu.com/question/607606990)<br />
 
 > 百度  
@@ -33,8 +33,8 @@
 5. [陈建州起诉大牙](https://www.baidu.com/s?wd=%E9%99%88%E5%BB%BA%E5%B7%9E%E8%B5%B7%E8%AF%89%E5%A4%A7%E7%89%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [向太叫林有慧媳妇儿](https://www.baidu.com/s?wd=%E5%90%91%E5%A4%AA%E5%8F%AB%E6%9E%97%E6%9C%89%E6%85%A7%E5%AA%B3%E5%A6%87%E5%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [书法家杀人后疑假跳河 帽子被捞出](https://www.baidu.com/s?wd=%E4%B9%A6%E6%B3%95%E5%AE%B6%E6%9D%80%E4%BA%BA%E5%90%8E%E7%96%91%E5%81%87%E8%B7%B3%E6%B2%B3+%E5%B8%BD%E5%AD%90%E8%A2%AB%E6%8D%9E%E5%87%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [普京：俄罗斯军人阻止了一场内战](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E4%BF%84%E7%BD%97%E6%96%AF%E5%86%9B%E4%BA%BA%E9%98%BB%E6%AD%A2%E4%BA%86%E4%B8%80%E5%9C%BA%E5%86%85%E6%88%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [碾压男抓捕现场曝光：遭市民呵斥](https://www.baidu.com/s?wd=%E7%A2%BE%E5%8E%8B%E7%94%B7%E6%8A%93%E6%8D%95%E7%8E%B0%E5%9C%BA%E6%9B%9D%E5%85%89%EF%BC%9A%E9%81%AD%E5%B8%82%E6%B0%91%E5%91%B5%E6%96%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [碾压男抓捕现场曝光：遭市民呵斥](https://www.baidu.com/s?wd=%E7%A2%BE%E5%8E%8B%E7%94%B7%E6%8A%93%E6%8D%95%E7%8E%B0%E5%9C%BA%E6%9B%9D%E5%85%89%EF%BC%9A%E9%81%AD%E5%B8%82%E6%B0%91%E5%91%B5%E6%96%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [普京曾有意杀死普里戈任](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E6%9B%BE%E6%9C%89%E6%84%8F%E6%9D%80%E6%AD%BB%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [陈建州起诉大牙](https://www.baidu.com/s?wd=%E9%99%88%E5%BB%BA%E5%B7%9E%E8%B5%B7%E8%AF%89%E5%A4%A7%E7%89%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [向太叫林有慧媳妇儿](https://www.baidu.com/s?wd=%E5%90%91%E5%A4%AA%E5%8F%AB%E6%9E%97%E6%9C%89%E6%85%A7%E5%AA%B3%E5%A6%87%E5%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [书法家杀人后疑假跳河 帽子被捞出](https://www.baidu.com/s?wd=%E4%B9%A6%E6%B3%95%E5%AE%B6%E6%9D%80%E4%BA%BA%E5%90%8E%E7%96%91%E5%81%87%E8%B7%B3%E6%B2%B3+%E5%B8%BD%E5%AD%90%E8%A2%AB%E6%8D%9E%E5%87%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [普京：俄罗斯军人阻止了一场内战](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E4%BF%84%E7%BD%97%E6%96%AF%E5%86%9B%E4%BA%BA%E9%98%BB%E6%AD%A2%E4%BA%86%E4%B8%80%E5%9C%BA%E5%86%85%E6%88%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [碾压男抓捕现场曝光：遭市民呵斥](https://www.baidu.com/s?wd=%E7%A2%BE%E5%8E%8B%E7%94%B7%E6%8A%93%E6%8D%95%E7%8E%B0%E5%9C%BA%E6%9B%9D%E5%85%89%EF%BC%9A%E9%81%AD%E5%B8%82%E6%B0%91%E5%91%B5%E6%96%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [碾压男抓捕现场曝光：遭市民呵斥](https://www.baidu.com/s?wd=%E7%A2%BE%E5%8E%8B%E7%94%B7%E6%8A%93%E6%8D%95%E7%8E%B0%E5%9C%BA%E6%9B%9D%E5%85%89%EF%BC%9A%E9%81%AD%E5%B8%82%E6%B0%91%E5%91%B5%E6%96%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [普京曾有意杀死普里戈任](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E6%9B%BE%E6%9C%89%E6%84%8F%E6%9D%80%E6%AD%BB%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
