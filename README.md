@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 15:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 15:29:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [如何看待电影《消失的她》评分高开低走？](https://www.zhihu.com/question/608924640)<br />
 6. [浙江一学生毕业后删除约 90% 的同学老师，称「留着没什么用」，你会删除不常联系的人吗？](https://www.zhihu.com/question/608984327)<br />
 7. [马斯克选定加拿大格斗冠军做陪练，准备应战扎克伯格，此前马斯克母亲发文称已经取消比赛，此事或将如何进展？](https://www.zhihu.com/question/608939502)<br />
-8. [卢卡申科透露与普里戈任谈判细节，「谈了七轮，多次警告他不要触发流血事件」，透露了哪些信息？](https://www.zhihu.com/question/609124717)<br />
-9. [普通农民花十几万供孩子上了一个三本的意义是什么？](https://www.zhihu.com/question/601925776)<br />
+8. [普通农民花十几万供孩子上了一个三本的意义是什么？](https://www.zhihu.com/question/601925776)<br />
+9. [有没有可能太阳的核心已经熄灭，停止核聚变，但是地球人还不知道？](https://www.zhihu.com/question/55606798)<br />
 
 > 百度  
 
@@ -34,7 +34,7 @@
 6. [向太叫林有慧媳妇儿](https://www.baidu.com/s?wd=%E5%90%91%E5%A4%AA%E5%8F%AB%E6%9E%97%E6%9C%89%E6%85%A7%E5%AA%B3%E5%A6%87%E5%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [普京曾有意杀死普里戈任](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E6%9B%BE%E6%9C%89%E6%84%8F%E6%9D%80%E6%AD%BB%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [470名硕博生竞争1个中石油行政岗](https://www.baidu.com/s?wd=470%E5%90%8D%E7%A1%95%E5%8D%9A%E7%94%9F%E7%AB%9E%E4%BA%891%E4%B8%AA%E4%B8%AD%E7%9F%B3%E6%B2%B9%E8%A1%8C%E6%94%BF%E5%B2%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [王宝强被问是否还相信爱情](https://www.baidu.com/s?wd=%E7%8E%8B%E5%AE%9D%E5%BC%BA%E8%A2%AB%E9%97%AE%E6%98%AF%E5%90%A6%E8%BF%98%E7%9B%B8%E4%BF%A1%E7%88%B1%E6%83%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [小猴子意外被困树洞](https://www.baidu.com/s?wd=%E5%B0%8F%E7%8C%B4%E5%AD%90%E6%84%8F%E5%A4%96%E8%A2%AB%E5%9B%B0%E6%A0%91%E6%B4%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [向太叫林有慧媳妇儿](https://www.baidu.com/s?wd=%E5%90%91%E5%A4%AA%E5%8F%AB%E6%9E%97%E6%9C%89%E6%85%A7%E5%AA%B3%E5%A6%87%E5%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [普京曾有意杀死普里戈任](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E6%9B%BE%E6%9C%89%E6%84%8F%E6%9D%80%E6%AD%BB%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [470名硕博生竞争1个中石油行政岗](https://www.baidu.com/s?wd=470%E5%90%8D%E7%A1%95%E5%8D%9A%E7%94%9F%E7%AB%9E%E4%BA%891%E4%B8%AA%E4%B8%AD%E7%9F%B3%E6%B2%B9%E8%A1%8C%E6%94%BF%E5%B2%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [王宝强被问是否还相信爱情](https://www.baidu.com/s?wd=%E7%8E%8B%E5%AE%9D%E5%BC%BA%E8%A2%AB%E9%97%AE%E6%98%AF%E5%90%A6%E8%BF%98%E7%9B%B8%E4%BF%A1%E7%88%B1%E6%83%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [小猴子意外被困树洞](https://www.baidu.com/s?wd=%E5%B0%8F%E7%8C%B4%E5%AD%90%E6%84%8F%E5%A4%96%E8%A2%AB%E5%9B%B0%E6%A0%91%E6%B4%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
