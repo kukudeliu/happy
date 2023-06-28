@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 23:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 23:55:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [Victoria还是这么美](https://s.weibo.com/weibo?q=Victoria%E8%BF%98%E6%98%AF%E8%BF%99%E4%B9%88%E7%BE%8E&t=31&band_rank=6&Refer=top)<br />
 7. [不要再坐公共场合的按摩椅了](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%A6%81%E5%86%8D%E5%9D%90%E5%85%AC%E5%85%B1%E5%9C%BA%E5%90%88%E7%9A%84%E6%8C%89%E6%91%A9%E6%A4%85%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [李现被杨幂夸好帅的反应](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%B0%E8%A2%AB%E6%9D%A8%E5%B9%82%E5%A4%B8%E5%A5%BD%E5%B8%85%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=8&Refer=top)<br />
-9. [被男子曝光家暴纵火妻子首发声](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%94%B7%E5%AD%90%E6%9B%9D%E5%85%89%E5%AE%B6%E6%9A%B4%E7%BA%B5%E7%81%AB%E5%A6%BB%E5%AD%90%E9%A6%96%E5%8F%91%E5%A3%B0%23&t=31&band_rank=9&Refer=top)<br />
+9. [曾黎 祝我的只只永远开心快乐](https://s.weibo.com/weibo?q=%23%E6%9B%BE%E9%BB%8E%20%E7%A5%9D%E6%88%91%E7%9A%84%E5%8F%AA%E5%8F%AA%E6%B0%B8%E8%BF%9C%E5%BC%80%E5%BF%83%E5%BF%AB%E4%B9%90%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
