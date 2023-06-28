@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 19:58:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 19:59:01</h4></div>
 
 > 微博  
 
@@ -18,11 +18,11 @@
 2. [「妈妈私拆档案袋气哭女儿」引热议，毕业生档案私拆后有什么后果？](https://www.zhihu.com/question/608989364)<br />
 3. [浙江一学生毕业后删除约 90% 的同学老师，称「留着没什么用」，你会删除不常联系的人吗？](https://www.zhihu.com/question/608984327)<br />
 4. [普通农民花十几万供孩子上了一个三本的意义是什么？](https://www.zhihu.com/question/601925776)<br />
-5. [教育部正式批准设立深圳职业技术大学，如何看待此事？](https://www.zhihu.com/question/608543386)<br />
-6. [外卖太贵、做饭太累，吃饭难的上班族带火「成人小饭桌」，如何看待这门生意？上班族吃饭问题何解？](https://www.zhihu.com/question/607821291)<br />
-7. [央企国企招聘「内卷」加剧，中石油综合行政岗报录比 470:1，更有清北博士参与应聘，如何看待这一现象？](https://www.zhihu.com/question/609167359)<br />
-8. [山东东营警方通报「男子驾车反复碾压女子致死」，犯罪嫌疑人已被刑拘，法律角度如何解读？](https://www.zhihu.com/question/609117132)<br />
-9. [《流浪地球 2》中，550w 这么快，为什么不用来解码全球核武器，而是要派人去手工引爆呢？](https://www.zhihu.com/question/597418932)<br />
+5. [出国留学学什么专业合适？该怎么选国家和学校？](https://www.zhihu.com/theater/112990)<br />
+6. [教育部正式批准设立深圳职业技术大学，如何看待此事？](https://www.zhihu.com/question/608543386)<br />
+7. [外卖太贵、做饭太累，吃饭难的上班族带火「成人小饭桌」，如何看待这门生意？上班族吃饭问题何解？](https://www.zhihu.com/question/607821291)<br />
+8. [央企国企招聘「内卷」加剧，中石油综合行政岗报录比 470:1，更有清北博士参与应聘，如何看待这一现象？](https://www.zhihu.com/question/609167359)<br />
+9. [山东东营警方通报「男子驾车反复碾压女子致死」，犯罪嫌疑人已被刑拘，法律角度如何解读？](https://www.zhihu.com/question/609117132)<br />
 
 > 百度  
 
@@ -32,9 +32,9 @@
 4. [瞄准机遇，向未来出发](https://www.baidu.com/s?wd=%E7%9E%84%E5%87%86%E6%9C%BA%E9%81%87%EF%BC%8C%E5%90%91%E6%9C%AA%E6%9D%A5%E5%87%BA%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子碾死妻子因遭家暴?女方弟弟回应](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A2%BE%E6%AD%BB%E5%A6%BB%E5%AD%90%E5%9B%A0%E9%81%AD%E5%AE%B6%E6%9A%B4%3F%E5%A5%B3%E6%96%B9%E5%BC%9F%E5%BC%9F%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [韩综用中国国歌做BGM](https://www.baidu.com/s?wd=%E9%9F%A9%E7%BB%BC%E7%94%A8%E4%B8%AD%E5%9B%BD%E5%9B%BD%E6%AD%8C%E5%81%9ABGM&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [蔡徐坤巡演将如期举行](https://www.baidu.com/s?wd=%E8%94%A1%E5%BE%90%E5%9D%A4%E5%B7%A1%E6%BC%94%E5%B0%86%E5%A6%82%E6%9C%9F%E4%B8%BE%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [《破冰行动》原型之一被双开](https://www.baidu.com/s?wd=%E3%80%8A%E7%A0%B4%E5%86%B0%E8%A1%8C%E5%8A%A8%E3%80%8B%E5%8E%9F%E5%9E%8B%E4%B9%8B%E4%B8%80%E8%A2%AB%E5%8F%8C%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [470名硕博生竞争1个中石油行政岗](https://www.baidu.com/s?wd=470%E5%90%8D%E7%A1%95%E5%8D%9A%E7%94%9F%E7%AB%9E%E4%BA%891%E4%B8%AA%E4%B8%AD%E7%9F%B3%E6%B2%B9%E8%A1%8C%E6%94%BF%E5%B2%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [《破冰行动》原型之一被双开](https://www.baidu.com/s?wd=%E3%80%8A%E7%A0%B4%E5%86%B0%E8%A1%8C%E5%8A%A8%E3%80%8B%E5%8E%9F%E5%9E%8B%E4%B9%8B%E4%B8%80%E8%A2%AB%E5%8F%8C%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [470名硕博生竞争1个中石油行政岗](https://www.baidu.com/s?wd=470%E5%90%8D%E7%A1%95%E5%8D%9A%E7%94%9F%E7%AB%9E%E4%BA%891%E4%B8%AA%E4%B8%AD%E7%9F%B3%E6%B2%B9%E8%A1%8C%E6%94%BF%E5%B2%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [鹿晗演唱会社恐版提词器](https://www.baidu.com/s?wd=%E9%B9%BF%E6%99%97%E6%BC%94%E5%94%B1%E4%BC%9A%E7%A4%BE%E6%81%90%E7%89%88%E6%8F%90%E8%AF%8D%E5%99%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [瞄准机遇，向未来出发](https://www.baidu.com/s?wd=%E7%9E%84%E5%87%86%E6%9C%BA%E9%81%87%EF%BC%8C%E5%90%91%E6%9C%AA%E6%9D%A5%E5%87%BA%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子碾死妻子因遭家暴?女方弟弟回应](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A2%BE%E6%AD%BB%E5%A6%BB%E5%AD%90%E5%9B%A0%E9%81%AD%E5%AE%B6%E6%9A%B4%3F%E5%A5%B3%E6%96%B9%E5%BC%9F%E5%BC%9F%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [韩综用中国国歌做BGM](https://www.baidu.com/s?wd=%E9%9F%A9%E7%BB%BC%E7%94%A8%E4%B8%AD%E5%9B%BD%E5%9B%BD%E6%AD%8C%E5%81%9ABGM&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [蔡徐坤巡演将如期举行](https://www.baidu.com/s?wd=%E8%94%A1%E5%BE%90%E5%9D%A4%E5%B7%A1%E6%BC%94%E5%B0%86%E5%A6%82%E6%9C%9F%E4%B8%BE%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [《破冰行动》原型之一被双开](https://www.baidu.com/s?wd=%E3%80%8A%E7%A0%B4%E5%86%B0%E8%A1%8C%E5%8A%A8%E3%80%8B%E5%8E%9F%E5%9E%8B%E4%B9%8B%E4%B8%80%E8%A2%AB%E5%8F%8C%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [470名硕博生竞争1个中石油行政岗](https://www.baidu.com/s?wd=470%E5%90%8D%E7%A1%95%E5%8D%9A%E7%94%9F%E7%AB%9E%E4%BA%891%E4%B8%AA%E4%B8%AD%E7%9F%B3%E6%B2%B9%E8%A1%8C%E6%94%BF%E5%B2%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [《破冰行动》原型之一被双开](https://www.baidu.com/s?wd=%E3%80%8A%E7%A0%B4%E5%86%B0%E8%A1%8C%E5%8A%A8%E3%80%8B%E5%8E%9F%E5%9E%8B%E4%B9%8B%E4%B8%80%E8%A2%AB%E5%8F%8C%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [470名硕博生竞争1个中石油行政岗](https://www.baidu.com/s?wd=470%E5%90%8D%E7%A1%95%E5%8D%9A%E7%94%9F%E7%AB%9E%E4%BA%891%E4%B8%AA%E4%B8%AD%E7%9F%B3%E6%B2%B9%E8%A1%8C%E6%94%BF%E5%B2%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [鹿晗演唱会社恐版提词器](https://www.baidu.com/s?wd=%E9%B9%BF%E6%99%97%E6%BC%94%E5%94%B1%E4%BC%9A%E7%A4%BE%E6%81%90%E7%89%88%E6%8F%90%E8%AF%8D%E5%99%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
