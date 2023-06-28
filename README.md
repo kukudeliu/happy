@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 11:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 11:09:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [为了卖课渲染暑假很可怕太损了](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BA%86%E5%8D%96%E8%AF%BE%E6%B8%B2%E6%9F%93%E6%9A%91%E5%81%87%E5%BE%88%E5%8F%AF%E6%80%95%E5%A4%AA%E6%8D%9F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [曝长沙一酒店沐浴露疑被灌精液](https://www.baidu.com/s?wd=%E6%9B%9D%E9%95%BF%E6%B2%99%E4%B8%80%E9%85%92%E5%BA%97%E6%B2%90%E6%B5%B4%E9%9C%B2%E7%96%91%E8%A2%AB%E7%81%8C%E7%B2%BE%E6%B6%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [千万不要随意私拆学生档案](https://www.baidu.com/s?wd=%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E9%9A%8F%E6%84%8F%E7%A7%81%E6%8B%86%E5%AD%A6%E7%94%9F%E6%A1%A3%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子13岁得糖尿病27岁进ICU](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%9013%E5%B2%81%E5%BE%97%E7%B3%96%E5%B0%BF%E7%97%8527%E5%B2%81%E8%BF%9BICU&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [抢教授话筒学生高考387分系谣言](https://www.baidu.com/s?wd=%E6%8A%A2%E6%95%99%E6%8E%88%E8%AF%9D%E7%AD%92%E5%AD%A6%E7%94%9F%E9%AB%98%E8%80%83387%E5%88%86%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [俞敏洪首次透露自己的遗嘱分配](https://www.baidu.com/s?wd=%E4%BF%9E%E6%95%8F%E6%B4%AA%E9%A6%96%E6%AC%A1%E9%80%8F%E9%9C%B2%E8%87%AA%E5%B7%B1%E7%9A%84%E9%81%97%E5%98%B1%E5%88%86%E9%85%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [苹果iCloud在全球多地宣布涨价](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9CiCloud%E5%9C%A8%E5%85%A8%E7%90%83%E5%A4%9A%E5%9C%B0%E5%AE%A3%E5%B8%83%E6%B6%A8%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [为了卖课渲染暑假很可怕太损了](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BA%86%E5%8D%96%E8%AF%BE%E6%B8%B2%E6%9F%93%E6%9A%91%E5%81%87%E5%BE%88%E5%8F%AF%E6%80%95%E5%A4%AA%E6%8D%9F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [曝长沙一酒店沐浴露疑被灌精液](https://www.baidu.com/s?wd=%E6%9B%9D%E9%95%BF%E6%B2%99%E4%B8%80%E9%85%92%E5%BA%97%E6%B2%90%E6%B5%B4%E9%9C%B2%E7%96%91%E8%A2%AB%E7%81%8C%E7%B2%BE%E6%B6%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [千万不要随意私拆学生档案](https://www.baidu.com/s?wd=%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E9%9A%8F%E6%84%8F%E7%A7%81%E6%8B%86%E5%AD%A6%E7%94%9F%E6%A1%A3%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子13岁得糖尿病27岁进ICU](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%9013%E5%B2%81%E5%BE%97%E7%B3%96%E5%B0%BF%E7%97%8527%E5%B2%81%E8%BF%9BICU&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [抢教授话筒学生高考387分系谣言](https://www.baidu.com/s?wd=%E6%8A%A2%E6%95%99%E6%8E%88%E8%AF%9D%E7%AD%92%E5%AD%A6%E7%94%9F%E9%AB%98%E8%80%83387%E5%88%86%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [俞敏洪首次透露自己的遗嘱分配](https://www.baidu.com/s?wd=%E4%BF%9E%E6%95%8F%E6%B4%AA%E9%A6%96%E6%AC%A1%E9%80%8F%E9%9C%B2%E8%87%AA%E5%B7%B1%E7%9A%84%E9%81%97%E5%98%B1%E5%88%86%E9%85%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [苹果iCloud在全球多地宣布涨价](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9CiCloud%E5%9C%A8%E5%85%A8%E7%90%83%E5%A4%9A%E5%9C%B0%E5%AE%A3%E5%B8%83%E6%B6%A8%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
