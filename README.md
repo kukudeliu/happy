@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 21:21:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 21:22:01</h4></div>
 
 > 微博  
 
-1. [Angelababy金发芭比](https://s.weibo.com/weibo?q=Angelababy%E9%87%91%E5%8F%91%E8%8A%AD%E6%AF%94&t=31&band_rank=1&Refer=top)<br />
-2. [胃癌几乎都是吃出来的](https://s.weibo.com/weibo?q=%23%E8%83%83%E7%99%8C%E5%87%A0%E4%B9%8E%E9%83%BD%E6%98%AF%E5%90%83%E5%87%BA%E6%9D%A5%E7%9A%84%23&t=31&band_rank=2&Refer=top)<br />
+1. [胃癌几乎都是吃出来的](https://s.weibo.com/weibo?q=%23%E8%83%83%E7%99%8C%E5%87%A0%E4%B9%8E%E9%83%BD%E6%98%AF%E5%90%83%E5%87%BA%E6%9D%A5%E7%9A%84%23&t=31&band_rank=1&Refer=top)<br />
+2. [Angelababy金发芭比](https://s.weibo.com/weibo?q=Angelababy%E9%87%91%E5%8F%91%E8%8A%AD%E6%AF%94&t=31&band_rank=2&Refer=top)<br />
 3. [8月15日成为全国生态日](https://s.weibo.com/weibo?q=%238%E6%9C%8815%E6%97%A5%E6%88%90%E4%B8%BA%E5%85%A8%E5%9B%BD%E7%94%9F%E6%80%81%E6%97%A5%23&t=31&band_rank=3&Refer=top)<br />
 4. [被丈夫多次碾压致死女子弟弟发声](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E4%B8%88%E5%A4%AB%E5%A4%9A%E6%AC%A1%E7%A2%BE%E5%8E%8B%E8%87%B4%E6%AD%BB%E5%A5%B3%E5%AD%90%E5%BC%9F%E5%BC%9F%E5%8F%91%E5%A3%B0%23&t=31&band_rank=4&Refer=top)<br />
 5. [Victoria还是这么美](https://s.weibo.com/weibo?q=Victoria%E8%BF%98%E6%98%AF%E8%BF%99%E4%B9%88%E7%BE%8E&t=31&band_rank=5&Refer=top)<br />
