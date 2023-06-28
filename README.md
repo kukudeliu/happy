@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 18:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 18:54:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [挖隧道的大国重器长啥样](https://s.weibo.com/weibo?q=%23%E6%8C%96%E9%9A%A7%E9%81%93%E7%9A%84%E5%A4%A7%E5%9B%BD%E9%87%8D%E5%99%A8%E9%95%BF%E5%95%A5%E6%A0%B7%23&t=31&band_rank=3&Refer=top)<br />
 4. [蔡徐坤巡演将如期举行](https://s.weibo.com/weibo?q=%E8%94%A1%E5%BE%90%E5%9D%A4%E5%B7%A1%E6%BC%94%E5%B0%86%E5%A6%82%E6%9C%9F%E4%B8%BE%E8%A1%8C&t=31&band_rank=4&Refer=top)<br />
 5. [00后小伙把网红蛙带到了川西](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%B0%8F%E4%BC%99%E6%8A%8A%E7%BD%91%E7%BA%A2%E8%9B%99%E5%B8%A6%E5%88%B0%E4%BA%86%E5%B7%9D%E8%A5%BF%23&t=31&band_rank=5&Refer=top)<br />
-6. [爷爷临终前开了个玩笑](https://s.weibo.com/weibo?q=%E7%88%B7%E7%88%B7%E4%B8%B4%E7%BB%88%E5%89%8D%E5%BC%80%E4%BA%86%E4%B8%AA%E7%8E%A9%E7%AC%91&t=31&band_rank=6&Refer=top)<br />
-7. [大牙方回应被起诉](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%89%99%E6%96%B9%E5%9B%9E%E5%BA%94%E8%A2%AB%E8%B5%B7%E8%AF%89%23&t=31&band_rank=7&Refer=top)<br />
+6. [大牙方回应被起诉](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%89%99%E6%96%B9%E5%9B%9E%E5%BA%94%E8%A2%AB%E8%B5%B7%E8%AF%89%23&t=31&band_rank=6&Refer=top)<br />
+7. [爷爷临终前开了个玩笑](https://s.weibo.com/weibo?q=%E7%88%B7%E7%88%B7%E4%B8%B4%E7%BB%88%E5%89%8D%E5%BC%80%E4%BA%86%E4%B8%AA%E7%8E%A9%E7%AC%91&t=31&band_rank=7&Refer=top)<br />
 8. [张嘉倪小狐狸](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%98%89%E5%80%AA%E5%B0%8F%E7%8B%90%E7%8B%B8&t=31&band_rank=8&Refer=top)<br />
 9. [白鹿采访忘词](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E9%87%87%E8%AE%BF%E5%BF%98%E8%AF%8D%23&t=31&band_rank=9&Refer=top)<br />
 
@@ -34,7 +34,7 @@
 6. [运营者:每月百部偷拍影片从中国传来](https://www.baidu.com/s?wd=%E8%BF%90%E8%90%A5%E8%80%85%3A%E6%AF%8F%E6%9C%88%E7%99%BE%E9%83%A8%E5%81%B7%E6%8B%8D%E5%BD%B1%E7%89%87%E4%BB%8E%E4%B8%AD%E5%9B%BD%E4%BC%A0%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [蔡徐坤巡演将如期举行](https://www.baidu.com/s?wd=%E8%94%A1%E5%BE%90%E5%9D%A4%E5%B7%A1%E6%BC%94%E5%B0%86%E5%A6%82%E6%9C%9F%E4%B8%BE%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [范玮琪被曝失联后首发文](https://www.baidu.com/s?wd=%E8%8C%83%E7%8E%AE%E7%90%AA%E8%A2%AB%E6%9B%9D%E5%A4%B1%E8%81%94%E5%90%8E%E9%A6%96%E5%8F%91%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [跳江救人外卖小哥回应被女生求婚](https://www.baidu.com/s?wd=%E8%B7%B3%E6%B1%9F%E6%95%91%E4%BA%BA%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%A5%B3%E7%94%9F%E6%B1%82%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子碾压妻子案:涉事家庭孩子未成年](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A2%BE%E5%8E%8B%E5%A6%BB%E5%AD%90%E6%A1%88%3A%E6%B6%89%E4%BA%8B%E5%AE%B6%E5%BA%AD%E5%AD%A9%E5%AD%90%E6%9C%AA%E6%88%90%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [运营者:每月百部偷拍影片从中国传来](https://www.baidu.com/s?wd=%E8%BF%90%E8%90%A5%E8%80%85%3A%E6%AF%8F%E6%9C%88%E7%99%BE%E9%83%A8%E5%81%B7%E6%8B%8D%E5%BD%B1%E7%89%87%E4%BB%8E%E4%B8%AD%E5%9B%BD%E4%BC%A0%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [蔡徐坤巡演将如期举行](https://www.baidu.com/s?wd=%E8%94%A1%E5%BE%90%E5%9D%A4%E5%B7%A1%E6%BC%94%E5%B0%86%E5%A6%82%E6%9C%9F%E4%B8%BE%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [范玮琪被曝失联后首发文](https://www.baidu.com/s?wd=%E8%8C%83%E7%8E%AE%E7%90%AA%E8%A2%AB%E6%9B%9D%E5%A4%B1%E8%81%94%E5%90%8E%E9%A6%96%E5%8F%91%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [跳江救人外卖小哥回应被女生求婚](https://www.baidu.com/s?wd=%E8%B7%B3%E6%B1%9F%E6%95%91%E4%BA%BA%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%A5%B3%E7%94%9F%E6%B1%82%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子碾压妻子案:涉事家庭孩子未成年](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A2%BE%E5%8E%8B%E5%A6%BB%E5%AD%90%E6%A1%88%3A%E6%B6%89%E4%BA%8B%E5%AE%B6%E5%BA%AD%E5%AD%A9%E5%AD%90%E6%9C%AA%E6%88%90%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
