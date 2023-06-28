@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 21:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 21:37:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [被丈夫多次碾压致死女子弟弟发声](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E4%B8%88%E5%A4%AB%E5%A4%9A%E6%AC%A1%E7%A2%BE%E5%8E%8B%E8%87%B4%E6%AD%BB%E5%A5%B3%E5%AD%90%E5%BC%9F%E5%BC%9F%E5%8F%91%E5%A3%B0%23&t=31&band_rank=5&Refer=top)<br />
 6. [Victoria还是这么美](https://s.weibo.com/weibo?q=Victoria%E8%BF%98%E6%98%AF%E8%BF%99%E4%B9%88%E7%BE%8E&t=31&band_rank=6&Refer=top)<br />
 7. [李沁工作室疑似因造型问题删博](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B2%81%E5%B7%A5%E4%BD%9C%E5%AE%A4%E7%96%91%E4%BC%BC%E5%9B%A0%E9%80%A0%E5%9E%8B%E9%97%AE%E9%A2%98%E5%88%A0%E5%8D%9A%23&t=31&band_rank=7&Refer=top)<br />
-8. [四川考生王俊凯高考699分](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E8%80%83%E7%94%9F%E7%8E%8B%E4%BF%8A%E5%87%AF%E9%AB%98%E8%80%83699%E5%88%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [陈都灵蓝发人鱼姬](https://s.weibo.com/weibo?q=%23%E9%99%88%E9%83%BD%E7%81%B5%E8%93%9D%E5%8F%91%E4%BA%BA%E9%B1%BC%E5%A7%AC%23&t=31&band_rank=9&Refer=top)<br />
+8. [陈都灵蓝发人鱼姬](https://s.weibo.com/weibo?q=%23%E9%99%88%E9%83%BD%E7%81%B5%E8%93%9D%E5%8F%91%E4%BA%BA%E9%B1%BC%E5%A7%AC%23&t=31&band_rank=8&Refer=top)<br />
+9. [四川考生王俊凯高考699分](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E8%80%83%E7%94%9F%E7%8E%8B%E4%BF%8A%E5%87%AF%E9%AB%98%E8%80%83699%E5%88%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
