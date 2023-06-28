@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 16:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 16:26:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [浙江一学生毕业后删除约 90% 的同学老师，称「留着没什么用」，你会删除不常联系的人吗？](https://www.zhihu.com/question/608984327)<br />
 6. [普通农民花十几万供孩子上了一个三本的意义是什么？](https://www.zhihu.com/question/601925776)<br />
 7. [台防务部门罕见通报「两艘俄罗斯护卫舰现身台东部海域」，透露了哪些信息？](https://www.zhihu.com/question/609120611)<br />
-8. [有没有可能太阳的核心已经熄灭，停止核聚变，但是地球人还不知道？](https://www.zhihu.com/question/55606798)<br />
-9. [为何自黑猩猩以后，几乎所有人类亚种全部都灭绝了？](https://www.zhihu.com/question/607606990)<br />
+8. [为何自黑猩猩以后，几乎所有人类亚种全部都灭绝了？](https://www.zhihu.com/question/607606990)<br />
+9. [有没有可能太阳的核心已经熄灭，停止核聚变，但是地球人还不知道？](https://www.zhihu.com/question/55606798)<br />
 
 > 百度  
 
