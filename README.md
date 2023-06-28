@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 15:21:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 15:22:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [普京曾有意杀死普里戈任](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E6%9B%BE%E6%9C%89%E6%84%8F%E6%9D%80%E6%AD%BB%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%23&t=31&band_rank=4&Refer=top)<br />
 5. [B站崩了](https://s.weibo.com/weibo?q=B%E7%AB%99%E5%B4%A9%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
 6. [吃完小龙虾美甲变绿了](https://s.weibo.com/weibo?q=%23%E5%90%83%E5%AE%8C%E5%B0%8F%E9%BE%99%E8%99%BE%E7%BE%8E%E7%94%B2%E5%8F%98%E7%BB%BF%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [李铁](https://s.weibo.com/weibo?q=%E6%9D%8E%E9%93%81&t=31&band_rank=7&Refer=top)<br />
-8. [聊半年的暧昧对象突然领证了](https://s.weibo.com/weibo?q=%23%E8%81%8A%E5%8D%8A%E5%B9%B4%E7%9A%84%E6%9A%A7%E6%98%A7%E5%AF%B9%E8%B1%A1%E7%AA%81%E7%84%B6%E9%A2%86%E8%AF%81%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+7. [聊半年的暧昧对象突然领证了](https://s.weibo.com/weibo?q=%23%E8%81%8A%E5%8D%8A%E5%B9%B4%E7%9A%84%E6%9A%A7%E6%98%A7%E5%AF%B9%E8%B1%A1%E7%AA%81%E7%84%B6%E9%A2%86%E8%AF%81%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+8. [李铁](https://s.weibo.com/weibo?q=%E6%9D%8E%E9%93%81&t=31&band_rank=8&Refer=top)<br />
 9. [年轻人唯一有点把握的是单身](https://s.weibo.com/weibo?q=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%94%AF%E4%B8%80%E6%9C%89%E7%82%B9%E6%8A%8A%E6%8F%A1%E7%9A%84%E6%98%AF%E5%8D%95%E8%BA%AB&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
