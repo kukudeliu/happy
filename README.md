@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 05:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 05:21:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [日本城堡的攻城防御能力如何？](https://www.zhihu.com/question/361727989)<br />
 7. [2023 年度总票房破 250 亿，电影《消失的她》突破 11 亿，该影片爆火的原因有哪些？](https://www.zhihu.com/question/608722094)<br />
 8. [2023 LPL 夏季赛 EDG 2:1 击败 UP，如何评价这场比赛？](https://www.zhihu.com/question/609252513)<br />
-9. [国务院和中央军委公布实施《无人驾驶航空器飞行管理暂行条例》，哪些信息值得关注？](https://www.zhihu.com/question/609227057)<br />
+9. []()<br />
 
 > 百度  
 
