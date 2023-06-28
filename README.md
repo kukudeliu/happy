@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 07:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 07:59:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [周鸿祎晒清华博士录取通知书](https://www.baidu.com/s?wd=%E5%91%A8%E9%B8%BF%E7%A5%8E%E6%99%92%E6%B8%85%E5%8D%8E%E5%8D%9A%E5%A3%AB%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [萧敬腾求婚时叫未婚妻妈妈](https://www.baidu.com/s?wd=%E8%90%A7%E6%95%AC%E8%85%BE%E6%B1%82%E5%A9%9A%E6%97%B6%E5%8F%AB%E6%9C%AA%E5%A9%9A%E5%A6%BB%E5%A6%88%E5%A6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [江西航空回应老太辱骂女子反被升舱](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E8%88%AA%E7%A9%BA%E5%9B%9E%E5%BA%94%E8%80%81%E5%A4%AA%E8%BE%B1%E9%AA%82%E5%A5%B3%E5%AD%90%E5%8F%8D%E8%A2%AB%E5%8D%87%E8%88%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [媒体:出轨他人妻子的高校领导被免职](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%3A%E5%87%BA%E8%BD%A8%E4%BB%96%E4%BA%BA%E5%A6%BB%E5%AD%90%E7%9A%84%E9%AB%98%E6%A0%A1%E9%A2%86%E5%AF%BC%E8%A2%AB%E5%85%8D%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [王俊凯父母奶茶店因合同纠纷被诉](https://www.baidu.com/s?wd=%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%88%B6%E6%AF%8D%E5%A5%B6%E8%8C%B6%E5%BA%97%E5%9B%A0%E5%90%88%E5%90%8C%E7%BA%A0%E7%BA%B7%E8%A2%AB%E8%AF%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [媒体：新华字典删除倭寇是假消息](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E6%96%B0%E5%8D%8E%E5%AD%97%E5%85%B8%E5%88%A0%E9%99%A4%E5%80%AD%E5%AF%87%E6%98%AF%E5%81%87%E6%B6%88%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [媒体:出轨他人妻子的高校领导被免职](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%3A%E5%87%BA%E8%BD%A8%E4%BB%96%E4%BA%BA%E5%A6%BB%E5%AD%90%E7%9A%84%E9%AB%98%E6%A0%A1%E9%A2%86%E5%AF%BC%E8%A2%AB%E5%85%8D%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [周鸿祎晒清华博士录取通知书](https://www.baidu.com/s?wd=%E5%91%A8%E9%B8%BF%E7%A5%8E%E6%99%92%E6%B8%85%E5%8D%8E%E5%8D%9A%E5%A3%AB%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [萧敬腾求婚时叫未婚妻妈妈](https://www.baidu.com/s?wd=%E8%90%A7%E6%95%AC%E8%85%BE%E6%B1%82%E5%A9%9A%E6%97%B6%E5%8F%AB%E6%9C%AA%E5%A9%9A%E5%A6%BB%E5%A6%88%E5%A6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [江西航空回应老太辱骂女子反被升舱](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E8%88%AA%E7%A9%BA%E5%9B%9E%E5%BA%94%E8%80%81%E5%A4%AA%E8%BE%B1%E9%AA%82%E5%A5%B3%E5%AD%90%E5%8F%8D%E8%A2%AB%E5%8D%87%E8%88%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [媒体:出轨他人妻子的高校领导被免职](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%3A%E5%87%BA%E8%BD%A8%E4%BB%96%E4%BA%BA%E5%A6%BB%E5%AD%90%E7%9A%84%E9%AB%98%E6%A0%A1%E9%A2%86%E5%AF%BC%E8%A2%AB%E5%85%8D%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [王俊凯父母奶茶店因合同纠纷被诉](https://www.baidu.com/s?wd=%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%88%B6%E6%AF%8D%E5%A5%B6%E8%8C%B6%E5%BA%97%E5%9B%A0%E5%90%88%E5%90%8C%E7%BA%A0%E7%BA%B7%E8%A2%AB%E8%AF%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [媒体：新华字典删除倭寇是假消息](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E6%96%B0%E5%8D%8E%E5%AD%97%E5%85%B8%E5%88%A0%E9%99%A4%E5%80%AD%E5%AF%87%E6%98%AF%E5%81%87%E6%B6%88%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [媒体:出轨他人妻子的高校领导被免职](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%3A%E5%87%BA%E8%BD%A8%E4%BB%96%E4%BA%BA%E5%A6%BB%E5%AD%90%E7%9A%84%E9%AB%98%E6%A0%A1%E9%A2%86%E5%AF%BC%E8%A2%AB%E5%85%8D%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
