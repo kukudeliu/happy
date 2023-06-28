@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 16:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 16:16:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [普京曾有意杀死普里戈任](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E6%9B%BE%E6%9C%89%E6%84%8F%E6%9D%80%E6%AD%BB%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%23&t=31&band_rank=4&Refer=top)<br />
 5. [蔡徐坤巡演将如期举行](https://s.weibo.com/weibo?q=%E8%94%A1%E5%BE%90%E5%9D%A4%E5%B7%A1%E6%BC%94%E5%B0%86%E5%A6%82%E6%9C%9F%E4%B8%BE%E8%A1%8C&t=31&band_rank=5&Refer=top)<br />
 6. [警方回应女子称被民警强奸](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E7%A7%B0%E8%A2%AB%E6%B0%91%E8%AD%A6%E5%BC%BA%E5%A5%B8%23&t=31&band_rank=6&Refer=top)<br />
-7. [年轻人唯一有点把握的是单身](https://s.weibo.com/weibo?q=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%94%AF%E4%B8%80%E6%9C%89%E7%82%B9%E6%8A%8A%E6%8F%A1%E7%9A%84%E6%98%AF%E5%8D%95%E8%BA%AB&t=31&band_rank=7&Refer=top)<br />
-8. [吃完小龙虾美甲变绿了](https://s.weibo.com/weibo?q=%23%E5%90%83%E5%AE%8C%E5%B0%8F%E9%BE%99%E8%99%BE%E7%BE%8E%E7%94%B2%E5%8F%98%E7%BB%BF%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [韩国医生都不喝的韩式烧酒](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E5%8C%BB%E7%94%9F%E9%83%BD%E4%B8%8D%E5%96%9D%E7%9A%84%E9%9F%A9%E5%BC%8F%E7%83%A7%E9%85%92&t=31&band_rank=9&Refer=top)<br />
+7. [韩国医生都不喝的韩式烧酒](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E5%8C%BB%E7%94%9F%E9%83%BD%E4%B8%8D%E5%96%9D%E7%9A%84%E9%9F%A9%E5%BC%8F%E7%83%A7%E9%85%92&t=31&band_rank=7&Refer=top)<br />
+8. [年轻人唯一有点把握的是单身](https://s.weibo.com/weibo?q=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%94%AF%E4%B8%80%E6%9C%89%E7%82%B9%E6%8A%8A%E6%8F%A1%E7%9A%84%E6%98%AF%E5%8D%95%E8%BA%AB&t=31&band_rank=8&Refer=top)<br />
+9. [吃完小龙虾美甲变绿了](https://s.weibo.com/weibo?q=%23%E5%90%83%E5%AE%8C%E5%B0%8F%E9%BE%99%E8%99%BE%E7%BE%8E%E7%94%B2%E5%8F%98%E7%BB%BF%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
