@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 05:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 05:10:01</h4></div>
 
 > 微博  
 
-1. [蔡徐坤巡演将如期举行](https://s.weibo.com/weibo?q=%E8%94%A1%E5%BE%90%E5%9D%A4%E5%B7%A1%E6%BC%94%E5%B0%86%E5%A6%82%E6%9C%9F%E4%B8%BE%E8%A1%8C&t=31&band_rank=1&Refer=top)<br />
-2. [LV老板带着儿女北京巡店](https://s.weibo.com/weibo?q=%23LV%E8%80%81%E6%9D%BF%E5%B8%A6%E7%9D%80%E5%84%BF%E5%A5%B3%E5%8C%97%E4%BA%AC%E5%B7%A1%E5%BA%97%23&t=31&band_rank=2&Refer=top)<br />
+1. [LV老板带着儿女北京巡店](https://s.weibo.com/weibo?q=%23LV%E8%80%81%E6%9D%BF%E5%B8%A6%E7%9D%80%E5%84%BF%E5%A5%B3%E5%8C%97%E4%BA%AC%E5%B7%A1%E5%BA%97%23&t=31&band_rank=1&Refer=top)<br />
+2. [蔡徐坤巡演将如期举行](https://s.weibo.com/weibo?q=%E8%94%A1%E5%BE%90%E5%9D%A4%E5%B7%A1%E6%BC%94%E5%B0%86%E5%A6%82%E6%9C%9F%E4%B8%BE%E8%A1%8C&t=31&band_rank=2&Refer=top)<br />
 3. [成都大运会边看边玩攻略](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%A4%A7%E8%BF%90%E4%BC%9A%E8%BE%B9%E7%9C%8B%E8%BE%B9%E7%8E%A9%E6%94%BB%E7%95%A5%23&t=31&band_rank=3&Refer=top)<br />
 4. [陈建州 喔这张床不可以](https://s.weibo.com/weibo?q=%E9%99%88%E5%BB%BA%E5%B7%9E%20%E5%96%94%E8%BF%99%E5%BC%A0%E5%BA%8A%E4%B8%8D%E5%8F%AF%E4%BB%A5&t=31&band_rank=4&Refer=top)<br />
 5. [警方通报女子驾车冲撞男子致死](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E9%A9%BE%E8%BD%A6%E5%86%B2%E6%92%9E%E7%94%B7%E5%AD%90%E8%87%B4%E6%AD%BB%23&t=31&band_rank=5&Refer=top)<br />
