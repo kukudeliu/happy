@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 12:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 12:34:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [萧敬腾求婚林有慧](https://s.weibo.com/weibo?q=%23%E8%90%A7%E6%95%AC%E8%85%BE%E6%B1%82%E5%A9%9A%E6%9E%97%E6%9C%89%E6%85%A7%23&t=31&band_rank=5&Refer=top)<br />
 6. [聊半年的暧昧对象突然领证了](https://s.weibo.com/weibo?q=%23%E8%81%8A%E5%8D%8A%E5%B9%B4%E7%9A%84%E6%9A%A7%E6%98%A7%E5%AF%B9%E8%B1%A1%E7%AA%81%E7%84%B6%E9%A2%86%E8%AF%81%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [日本警方逮捕一名中国籍研究员](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%AD%A6%E6%96%B9%E9%80%AE%E6%8D%95%E4%B8%80%E5%90%8D%E4%B8%AD%E5%9B%BD%E7%B1%8D%E7%A0%94%E7%A9%B6%E5%91%98%23&t=31&band_rank=7&Refer=top)<br />
-8. [喜茶奈雪为何又不香了](https://s.weibo.com/weibo?q=%23%E5%96%9C%E8%8C%B6%E5%A5%88%E9%9B%AA%E4%B8%BA%E4%BD%95%E5%8F%88%E4%B8%8D%E9%A6%99%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [肖战加盟2023湾区升明月](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%8A%A0%E7%9B%9F2023%E6%B9%BE%E5%8C%BA%E5%8D%87%E6%98%8E%E6%9C%88%23&t=31&band_rank=9&Refer=top)<br />
+8. [肖战加盟2023湾区升明月](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%8A%A0%E7%9B%9F2023%E6%B9%BE%E5%8C%BA%E5%8D%87%E6%98%8E%E6%9C%88%23&t=31&band_rank=8&Refer=top)<br />
+9. [喜茶奈雪为何又不香了](https://s.weibo.com/weibo?q=%23%E5%96%9C%E8%8C%B6%E5%A5%88%E9%9B%AA%E4%B8%BA%E4%BD%95%E5%8F%88%E4%B8%8D%E9%A6%99%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
