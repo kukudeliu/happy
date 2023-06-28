@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 19:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 19:42:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [蔡徐坤巡演将如期举行](https://s.weibo.com/weibo?q=%E8%94%A1%E5%BE%90%E5%9D%A4%E5%B7%A1%E6%BC%94%E5%B0%86%E5%A6%82%E6%9C%9F%E4%B8%BE%E8%A1%8C&t=31&band_rank=6&Refer=top)<br />
 7. [00后小伙把网红蛙带到了川西](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%B0%8F%E4%BC%99%E6%8A%8A%E7%BD%91%E7%BA%A2%E8%9B%99%E5%B8%A6%E5%88%B0%E4%BA%86%E5%B7%9D%E8%A5%BF%23&t=31&band_rank=7&Refer=top)<br />
 8. [白鹿采访忘词](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E9%87%87%E8%AE%BF%E5%BF%98%E8%AF%8D%23&t=31&band_rank=8&Refer=top)<br />
-9. [爷爷临终前开了个玩笑](https://s.weibo.com/weibo?q=%E7%88%B7%E7%88%B7%E4%B8%B4%E7%BB%88%E5%89%8D%E5%BC%80%E4%BA%86%E4%B8%AA%E7%8E%A9%E7%AC%91&t=31&band_rank=9&Refer=top)<br />
+9. [不要再坐公共场合的按摩椅了](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%A6%81%E5%86%8D%E5%9D%90%E5%85%AC%E5%85%B1%E5%9C%BA%E5%90%88%E7%9A%84%E6%8C%89%E6%91%A9%E6%A4%85%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
