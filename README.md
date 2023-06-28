@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 13:13:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-28 13:14:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [萧敬腾求婚林有慧](https://s.weibo.com/weibo?q=%23%E8%90%A7%E6%95%AC%E8%85%BE%E6%B1%82%E5%A9%9A%E6%9E%97%E6%9C%89%E6%85%A7%23&t=31&band_rank=6&Refer=top)<br />
 7. [李铁](https://s.weibo.com/weibo?q=%E6%9D%8E%E9%93%81&t=31&band_rank=7&Refer=top)<br />
 8. [双休和月休八天有什么区别](https://s.weibo.com/weibo?q=%23%E5%8F%8C%E4%BC%91%E5%92%8C%E6%9C%88%E4%BC%91%E5%85%AB%E5%A4%A9%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB%23&t=31&band_rank=8&Refer=top)<br />
-9. [日本警方逮捕一名中国籍研究员](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%AD%A6%E6%96%B9%E9%80%AE%E6%8D%95%E4%B8%80%E5%90%8D%E4%B8%AD%E5%9B%BD%E7%B1%8D%E7%A0%94%E7%A9%B6%E5%91%98%23&t=31&band_rank=9&Refer=top)<br />
+9. [喜茶奈雪为何又不香了](https://s.weibo.com/weibo?q=%23%E5%96%9C%E8%8C%B6%E5%A5%88%E9%9B%AA%E4%B8%BA%E4%BD%95%E5%8F%88%E4%B8%8D%E9%A6%99%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -21,8 +21,8 @@
 5. [如何看待「七成年轻人愿意为钱加班」一事？如果每小时 100 块你愿意加班吗？](https://www.zhihu.com/question/608935474)<br />
 6. [「妈妈私拆档案袋气哭女儿」引热议，毕业生档案私拆后有什么后果？](https://www.zhihu.com/question/608989364)<br />
 7. [1-5 月全国规模以上工业企业利润总额 26688.9 亿元，同比下降 18.8%，哪些信息值得关注？](https://www.zhihu.com/question/609124681)<br />
-8. [红极一时的付费自习室「去 K 书」广州 4 家门店已全部关门，并拖欠会员充值费、房租，哪些信息值得关注？](https://www.zhihu.com/question/609067575)<br />
-9. [如何看待电影《消失的她》评分高开低走？](https://www.zhihu.com/question/608924640)<br />
+8. [如何看待电影《消失的她》评分高开低走？](https://www.zhihu.com/question/608924640)<br />
+9. [红极一时的付费自习室「去 K 书」广州 4 家门店已全部关门，并拖欠会员充值费、房租，哪些信息值得关注？](https://www.zhihu.com/question/609067575)<br />
 
 > 百度  
 
