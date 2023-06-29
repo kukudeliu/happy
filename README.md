@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 13:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 13:57:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [成都大运会边看边玩攻略](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%A4%A7%E8%BF%90%E4%BC%9A%E8%BE%B9%E7%9C%8B%E8%BE%B9%E7%8E%A9%E6%94%BB%E7%95%A5%23&t=31&band_rank=3&Refer=top)<br />
 4. [鳄鱼独居16年产子](https://s.weibo.com/weibo?q=%E9%B3%84%E9%B1%BC%E7%8B%AC%E5%B1%8516%E5%B9%B4%E4%BA%A7%E5%AD%90&t=31&band_rank=4&Refer=top)<br />
 5. [媒体评LV帆布袋又蠢又穷又虚荣](https://s.weibo.com/weibo?q=%23%E5%AA%92%E4%BD%93%E8%AF%84LV%E5%B8%86%E5%B8%83%E8%A2%8B%E5%8F%88%E8%A0%A2%E5%8F%88%E7%A9%B7%E5%8F%88%E8%99%9A%E8%8D%A3%23&t=31&band_rank=5&Refer=top)<br />
-6. [新版妲己首度曝光](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%89%88%E5%A6%B2%E5%B7%B1%E9%A6%96%E5%BA%A6%E6%9B%9D%E5%85%89%23&t=31&band_rank=6&Refer=top)<br />
-7. [陈建州vs全在俊](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BB%BA%E5%B7%9Evs%E5%85%A8%E5%9C%A8%E4%BF%8A%23&t=31&band_rank=7&Refer=top)<br />
+6. [陈建州vs全在俊](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BB%BA%E5%B7%9Evs%E5%85%A8%E5%9C%A8%E4%BF%8A%23&t=31&band_rank=6&Refer=top)<br />
+7. [新版妲己首度曝光](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%89%88%E5%A6%B2%E5%B7%B1%E9%A6%96%E5%BA%A6%E6%9B%9D%E5%85%89%23&t=31&band_rank=7&Refer=top)<br />
 8. [杀妻欲藏尸冰柜男子被判死刑](https://s.weibo.com/weibo?q=%23%E6%9D%80%E5%A6%BB%E6%AC%B2%E8%97%8F%E5%B0%B8%E5%86%B0%E6%9F%9C%E7%94%B7%E5%AD%90%E8%A2%AB%E5%88%A4%E6%AD%BB%E5%88%91%23&t=31&band_rank=8&Refer=top)<br />
-9. [王宝强圈内人缘](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%9D%E5%BC%BA%E5%9C%88%E5%86%85%E4%BA%BA%E7%BC%98%23&t=31&band_rank=9&Refer=top)<br />
+9. [曝陈建州在范玮琪孕期骚扰女艺人](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E9%99%88%E5%BB%BA%E5%B7%9E%E5%9C%A8%E8%8C%83%E7%8E%AE%E7%90%AA%E5%AD%95%E6%9C%9F%E9%AA%9A%E6%89%B0%E5%A5%B3%E8%89%BA%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
