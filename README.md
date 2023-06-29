@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 03:09:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 03:10:02</h4></div>
 
 > 微博  
 
@@ -8,7 +8,7 @@
 4. [港星赢得很彻底](https://s.weibo.com/weibo?q=%23%E6%B8%AF%E6%98%9F%E8%B5%A2%E5%BE%97%E5%BE%88%E5%BD%BB%E5%BA%95%23&t=31&band_rank=4&Refer=top)<br />
 5. [肖战真唱](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E7%9C%9F%E5%94%B1&t=31&band_rank=5&Refer=top)<br />
 6. [LPL大瓜](https://s.weibo.com/weibo?q=LPL%E5%A4%A7%E7%93%9C&t=31&band_rank=6&Refer=top)<br />
-7. [崔叡娜新歌下架](https://s.weibo.com/weibo?q=%E5%B4%94%E5%8F%A1%E5%A8%9C%E6%96%B0%E6%AD%8C%E4%B8%8B%E6%9E%B6&t=31&band_rank=7&Refer=top)<br />
+7. [姜个顾事](https://s.weibo.com/weibo?q=%E5%A7%9C%E4%B8%AA%E9%A1%BE%E4%BA%8B&t=31&band_rank=7&Refer=top)<br />
 8. [去故宫的时候一定要抬头](https://s.weibo.com/weibo?q=%E5%8E%BB%E6%95%85%E5%AE%AB%E7%9A%84%E6%97%B6%E5%80%99%E4%B8%80%E5%AE%9A%E8%A6%81%E6%8A%AC%E5%A4%B4&t=31&band_rank=8&Refer=top)<br />
 9. [82版西游记主创想为群众演员补全署名](https://s.weibo.com/weibo?q=%2382%E7%89%88%E8%A5%BF%E6%B8%B8%E8%AE%B0%E4%B8%BB%E5%88%9B%E6%83%B3%E4%B8%BA%E7%BE%A4%E4%BC%97%E6%BC%94%E5%91%98%E8%A1%A5%E5%85%A8%E7%BD%B2%E5%90%8D%23&t=31&band_rank=9&Refer=top)<br />
 
