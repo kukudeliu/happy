@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 07:15:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 07:16:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [任嘉伦Angelababy对手戏](https://s.weibo.com/weibo?q=%23%E4%BB%BB%E5%98%89%E4%BC%A6Angelababy%E5%AF%B9%E6%89%8B%E6%88%8F%23&t=31&band_rank=4&Refer=top)<br />
 5. [港星赢得很彻底](https://s.weibo.com/weibo?q=%23%E6%B8%AF%E6%98%9F%E8%B5%A2%E5%BE%97%E5%BE%88%E5%BD%BB%E5%BA%95%23&t=31&band_rank=5&Refer=top)<br />
 6. [LPL大瓜](https://s.weibo.com/weibo?q=LPL%E5%A4%A7%E7%93%9C&t=31&band_rank=6&Refer=top)<br />
-7. [去故宫的时候一定要抬头](https://s.weibo.com/weibo?q=%E5%8E%BB%E6%95%85%E5%AE%AB%E7%9A%84%E6%97%B6%E5%80%99%E4%B8%80%E5%AE%9A%E8%A6%81%E6%8A%AC%E5%A4%B4&t=31&band_rank=7&Refer=top)<br />
-8. [肖战湾区升明月内场饭拍](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%B9%BE%E5%8C%BA%E5%8D%87%E6%98%8E%E6%9C%88%E5%86%85%E5%9C%BA%E9%A5%AD%E6%8B%8D%23&t=31&band_rank=8&Refer=top)<br />
+7. [四胞胎高考出分父亲给警察打电话报喜](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E8%83%9E%E8%83%8E%E9%AB%98%E8%80%83%E5%87%BA%E5%88%86%E7%88%B6%E4%BA%B2%E7%BB%99%E8%AD%A6%E5%AF%9F%E6%89%93%E7%94%B5%E8%AF%9D%E6%8A%A5%E5%96%9C%23&t=31&band_rank=7&Refer=top)<br />
+8. [去故宫的时候一定要抬头](https://s.weibo.com/weibo?q=%E5%8E%BB%E6%95%85%E5%AE%AB%E7%9A%84%E6%97%B6%E5%80%99%E4%B8%80%E5%AE%9A%E8%A6%81%E6%8A%AC%E5%A4%B4&t=31&band_rank=8&Refer=top)<br />
 9. [学霸情侣本科毕业齐直博被校长写进致辞](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E9%9C%B8%E6%83%85%E4%BE%A3%E6%9C%AC%E7%A7%91%E6%AF%95%E4%B8%9A%E9%BD%90%E7%9B%B4%E5%8D%9A%E8%A2%AB%E6%A0%A1%E9%95%BF%E5%86%99%E8%BF%9B%E8%87%B4%E8%BE%9E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
