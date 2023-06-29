@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 17:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 17:38:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [胡锡进炒股第三天，称「整个账户绿了，又转入了 10 万元，求股友们鼓励」，如何看待此事？](https://www.zhihu.com/question/609352970)<br />
 5. [拜登再次就俄罗斯「瓦格纳事件」表态，但口误称「普京正输掉伊拉克战争」，如何看待美方表态？](https://www.zhihu.com/question/609352184)<br />
 6. [甘肃 350 亿氢能招标致多股暴涨，数天后被叫停，当地称备案违规，而招标方是假国企，哪些信息值得关注？](https://www.zhihu.com/question/609164890)<br />
-7. [王夫人遍寻人参而不得，贾母却有一包最好的，为什么偏是朽坏的？](https://www.zhihu.com/question/608202740)<br />
-8. [如何看待程序员的高薪现象？](https://www.zhihu.com/question/602915311)<br />
-9. [东吴后期到底是个什么局面，为何在蜀被灭后还支撑了十数年？](https://www.zhihu.com/question/37064172)<br />
+7. [如何看待程序员的高薪现象？](https://www.zhihu.com/question/602915311)<br />
+8. [东吴后期到底是个什么局面，为何在蜀被灭后还支撑了十数年？](https://www.zhihu.com/question/37064172)<br />
+9. [王夫人遍寻人参而不得，贾母却有一包最好的，为什么偏是朽坏的？](https://www.zhihu.com/question/608202740)<br />
 
 > 百度  
 
