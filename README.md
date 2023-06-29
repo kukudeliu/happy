@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 00:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 00:34:01</h4></div>
 
 > 微博  
 
@@ -32,9 +32,9 @@
 4. [点亮科学之光](https://www.baidu.com/s?wd=%E7%82%B9%E4%BA%AE%E7%A7%91%E5%AD%A6%E4%B9%8B%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [载客18人中巴被落石砸中 6人遇难](https://www.baidu.com/s?wd=%E8%BD%BD%E5%AE%A218%E4%BA%BA%E4%B8%AD%E5%B7%B4%E8%A2%AB%E8%90%BD%E7%9F%B3%E7%A0%B8%E4%B8%AD+6%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [徐小凤 今晚最佳](https://www.baidu.com/s?wd=%E5%BE%90%E5%B0%8F%E5%87%A4+%E4%BB%8A%E6%99%9A%E6%9C%80%E4%BD%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [戏曲演员话筒故障男孩后台惊艳救场](https://www.baidu.com/s?wd=%E6%88%8F%E6%9B%B2%E6%BC%94%E5%91%98%E8%AF%9D%E7%AD%92%E6%95%85%E9%9A%9C%E7%94%B7%E5%AD%A9%E5%90%8E%E5%8F%B0%E6%83%8A%E8%89%B3%E6%95%91%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [月嫂烫伤1岁小孩被判赔40万元](https://www.baidu.com/s?wd=%E6%9C%88%E5%AB%82%E7%83%AB%E4%BC%A41%E5%B2%81%E5%B0%8F%E5%AD%A9%E8%A2%AB%E5%88%A4%E8%B5%9440%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [肖战成龙拥抱](https://www.baidu.com/s?wd=%E8%82%96%E6%88%98%E6%88%90%E9%BE%99%E6%8B%A5%E6%8A%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [武警部队5人晋升少将警衔](https://www.baidu.com/s?wd=%E6%AD%A6%E8%AD%A6%E9%83%A8%E9%98%9F5%E4%BA%BA%E6%99%8B%E5%8D%87%E5%B0%91%E5%B0%86%E8%AD%A6%E8%A1%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [肖战成龙拥抱](https://www.baidu.com/s?wd=%E8%82%96%E6%88%98%E6%88%90%E9%BE%99%E6%8B%A5%E6%8A%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [月嫂烫伤1岁小孩被判赔40万元](https://www.baidu.com/s?wd=%E6%9C%88%E5%AB%82%E7%83%AB%E4%BC%A41%E5%B2%81%E5%B0%8F%E5%AD%A9%E8%A2%AB%E5%88%A4%E8%B5%9440%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [点亮科学之光](https://www.baidu.com/s?wd=%E7%82%B9%E4%BA%AE%E7%A7%91%E5%AD%A6%E4%B9%8B%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [载客18人中巴被落石砸中 6人遇难](https://www.baidu.com/s?wd=%E8%BD%BD%E5%AE%A218%E4%BA%BA%E4%B8%AD%E5%B7%B4%E8%A2%AB%E8%90%BD%E7%9F%B3%E7%A0%B8%E4%B8%AD+6%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [徐小凤 今晚最佳](https://www.baidu.com/s?wd=%E5%BE%90%E5%B0%8F%E5%87%A4+%E4%BB%8A%E6%99%9A%E6%9C%80%E4%BD%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [戏曲演员话筒故障男孩后台惊艳救场](https://www.baidu.com/s?wd=%E6%88%8F%E6%9B%B2%E6%BC%94%E5%91%98%E8%AF%9D%E7%AD%92%E6%95%85%E9%9A%9C%E7%94%B7%E5%AD%A9%E5%90%8E%E5%8F%B0%E6%83%8A%E8%89%B3%E6%95%91%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [月嫂烫伤1岁小孩被判赔40万元](https://www.baidu.com/s?wd=%E6%9C%88%E5%AB%82%E7%83%AB%E4%BC%A41%E5%B2%81%E5%B0%8F%E5%AD%A9%E8%A2%AB%E5%88%A4%E8%B5%9440%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [肖战成龙拥抱](https://www.baidu.com/s?wd=%E8%82%96%E6%88%98%E6%88%90%E9%BE%99%E6%8B%A5%E6%8A%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [武警部队5人晋升少将警衔](https://www.baidu.com/s?wd=%E6%AD%A6%E8%AD%A6%E9%83%A8%E9%98%9F5%E4%BA%BA%E6%99%8B%E5%8D%87%E5%B0%91%E5%B0%86%E8%AD%A6%E8%A1%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [肖战成龙拥抱](https://www.baidu.com/s?wd=%E8%82%96%E6%88%98%E6%88%90%E9%BE%99%E6%8B%A5%E6%8A%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [月嫂烫伤1岁小孩被判赔40万元](https://www.baidu.com/s?wd=%E6%9C%88%E5%AB%82%E7%83%AB%E4%BC%A41%E5%B2%81%E5%B0%8F%E5%AD%A9%E8%A2%AB%E5%88%A4%E8%B5%9440%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
