@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 17:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 17:08:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [支付软件开始收费你还会用吗](https://s.weibo.com/weibo?q=%23%E6%94%AF%E4%BB%98%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%A7%8B%E6%94%B6%E8%B4%B9%E4%BD%A0%E8%BF%98%E4%BC%9A%E7%94%A8%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [范玮琪 我家只有一张床](https://s.weibo.com/weibo?q=%E8%8C%83%E7%8E%AE%E7%90%AA%20%E6%88%91%E5%AE%B6%E5%8F%AA%E6%9C%89%E4%B8%80%E5%BC%A0%E5%BA%8A&t=31&band_rank=7&Refer=top)<br />
 8. [天官赐福](https://s.weibo.com/weibo?q=%E5%A4%A9%E5%AE%98%E8%B5%90%E7%A6%8F&t=31&band_rank=8&Refer=top)<br />
-9. [将进酒](https://s.weibo.com/weibo?q=%E5%B0%86%E8%BF%9B%E9%85%92&t=31&band_rank=9&Refer=top)<br />
+9. [阿斯巴甜 致癌](https://s.weibo.com/weibo?q=%E9%98%BF%E6%96%AF%E5%B7%B4%E7%94%9C%20%E8%87%B4%E7%99%8C&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -18,8 +18,8 @@
 2. [微信回应多所高校停用微信支付，如何看待此事？你能接受微信支付需要手续费吗？](https://www.zhihu.com/question/609374806)<br />
 3. [如何看待漫画家尾田荣一郎曾表示「男性不怎么表达意见，女性的意见会收到很多」?](https://www.zhihu.com/question/607642085)<br />
 4. [如何看待高级动卧票价一站 8 分钟 420 元，系二等座 70 倍？短途出行你会选高级动卧吗？](https://www.zhihu.com/question/609342725)<br />
-5. [拜登再次就俄罗斯「瓦格纳事件」表态，但口误称「普京正输掉伊拉克战争」，如何看待美方表态？](https://www.zhihu.com/question/609352184)<br />
-6. [胡锡进炒股第三天，称「整个账户绿了，又转入了 10 万元，求股友们鼓励」，如何看待此事？](https://www.zhihu.com/question/609352970)<br />
+5. [胡锡进炒股第三天，称「整个账户绿了，又转入了 10 万元，求股友们鼓励」，如何看待此事？](https://www.zhihu.com/question/609352970)<br />
+6. [拜登再次就俄罗斯「瓦格纳事件」表态，但口误称「普京正输掉伊拉克战争」，如何看待美方表态？](https://www.zhihu.com/question/609352184)<br />
 7. [成都女子被丈夫多次家暴致肠破裂，公公回应「是家事」，女子该如何保障自己权益，涉事丈夫触犯了哪些法律？](https://www.zhihu.com/question/608734635)<br />
 8. [甘肃 350 亿氢能招标致多股暴涨，数天后被叫停，当地称备案违规，而招标方是假国企，哪些信息值得关注？](https://www.zhihu.com/question/609164890)<br />
 9. [三国杀如果有四十人局，身份应该怎么分？](https://www.zhihu.com/question/359316157)<br />
