@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 00:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 00:02:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [徐小凤 今晚最佳](https://www.baidu.com/s?wd=%E5%BE%90%E5%B0%8F%E5%87%A4+%E4%BB%8A%E6%99%9A%E6%9C%80%E4%BD%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [肖战周海媚坐一桌](https://www.baidu.com/s?wd=%E8%82%96%E6%88%98%E5%91%A8%E6%B5%B7%E5%AA%9A%E5%9D%90%E4%B8%80%E6%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [肖战成龙拥抱](https://www.baidu.com/s?wd=%E8%82%96%E6%88%98%E6%88%90%E9%BE%99%E6%8B%A5%E6%8A%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [乌克兰或成首个废除现金国家](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%96%E6%88%90%E9%A6%96%E4%B8%AA%E5%BA%9F%E9%99%A4%E7%8E%B0%E9%87%91%E5%9B%BD%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [物理学家称可能发现外星飞船残骸](https://www.baidu.com/s?wd=%E7%89%A9%E7%90%86%E5%AD%A6%E5%AE%B6%E7%A7%B0%E5%8F%AF%E8%83%BD%E5%8F%91%E7%8E%B0%E5%A4%96%E6%98%9F%E9%A3%9E%E8%88%B9%E6%AE%8B%E9%AA%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [徐小凤 今晚最佳](https://www.baidu.com/s?wd=%E5%BE%90%E5%B0%8F%E5%87%A4+%E4%BB%8A%E6%99%9A%E6%9C%80%E4%BD%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [肖战周海媚坐一桌](https://www.baidu.com/s?wd=%E8%82%96%E6%88%98%E5%91%A8%E6%B5%B7%E5%AA%9A%E5%9D%90%E4%B8%80%E6%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [肖战成龙拥抱](https://www.baidu.com/s?wd=%E8%82%96%E6%88%98%E6%88%90%E9%BE%99%E6%8B%A5%E6%8A%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [乌克兰或成首个废除现金国家](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%96%E6%88%90%E9%A6%96%E4%B8%AA%E5%BA%9F%E9%99%A4%E7%8E%B0%E9%87%91%E5%9B%BD%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [物理学家称可能发现外星飞船残骸](https://www.baidu.com/s?wd=%E7%89%A9%E7%90%86%E5%AD%A6%E5%AE%B6%E7%A7%B0%E5%8F%AF%E8%83%BD%E5%8F%91%E7%8E%B0%E5%A4%96%E6%98%9F%E9%A3%9E%E8%88%B9%E6%AE%8B%E9%AA%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
