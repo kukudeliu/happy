@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 23:00:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 23:01:01</h4></div>
 
 > 微博  
 
@@ -29,7 +29,7 @@
 1. [大运会开闭幕式时间及主题确定](https://www.baidu.com/s?wd=%E5%A4%A7%E8%BF%90%E4%BC%9A%E5%BC%80%E9%97%AD%E5%B9%95%E5%BC%8F%E6%97%B6%E9%97%B4%E5%8F%8A%E4%B8%BB%E9%A2%98%E7%A1%AE%E5%AE%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [2023大湾区电影音乐晚会](https://www.baidu.com/s?wd=2023%E5%A4%A7%E6%B9%BE%E5%8C%BA%E7%94%B5%E5%BD%B1%E9%9F%B3%E4%B9%90%E6%99%9A%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [微信官方致歉](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E5%AE%98%E6%96%B9%E8%87%B4%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [减碳行动频“上新”](https://www.baidu.com/s?wd=%E5%87%8F%E7%A2%B3%E8%A1%8C%E5%8A%A8%E9%A2%91%E2%80%9C%E4%B8%8A%E6%96%B0%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [点亮科学之光](https://www.baidu.com/s?wd=%E7%82%B9%E4%BA%AE%E7%A7%91%E5%AD%A6%E4%B9%8B%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [载客18人中巴被落石砸中 6人遇难](https://www.baidu.com/s?wd=%E8%BD%BD%E5%AE%A218%E4%BA%BA%E4%B8%AD%E5%B7%B4%E8%A2%AB%E8%90%BD%E7%9F%B3%E7%A0%B8%E4%B8%AD+6%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [肖战周海媚坐一桌](https://www.baidu.com/s?wd=%E8%82%96%E6%88%98%E5%91%A8%E6%B5%B7%E5%AA%9A%E5%9D%90%E4%B8%80%E6%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [华晨宇发挥](https://www.baidu.com/s?wd=%E5%8D%8E%E6%99%A8%E5%AE%87%E5%8F%91%E6%8C%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -41,7 +41,7 @@
 1. [大运会开闭幕式时间及主题确定](https://www.baidu.com/s?wd=%E5%A4%A7%E8%BF%90%E4%BC%9A%E5%BC%80%E9%97%AD%E5%B9%95%E5%BC%8F%E6%97%B6%E9%97%B4%E5%8F%8A%E4%B8%BB%E9%A2%98%E7%A1%AE%E5%AE%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [2023大湾区电影音乐晚会](https://www.baidu.com/s?wd=2023%E5%A4%A7%E6%B9%BE%E5%8C%BA%E7%94%B5%E5%BD%B1%E9%9F%B3%E4%B9%90%E6%99%9A%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [微信官方致歉](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E5%AE%98%E6%96%B9%E8%87%B4%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [减碳行动频“上新”](https://www.baidu.com/s?wd=%E5%87%8F%E7%A2%B3%E8%A1%8C%E5%8A%A8%E9%A2%91%E2%80%9C%E4%B8%8A%E6%96%B0%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [点亮科学之光](https://www.baidu.com/s?wd=%E7%82%B9%E4%BA%AE%E7%A7%91%E5%AD%A6%E4%B9%8B%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [载客18人中巴被落石砸中 6人遇难](https://www.baidu.com/s?wd=%E8%BD%BD%E5%AE%A218%E4%BA%BA%E4%B8%AD%E5%B7%B4%E8%A2%AB%E8%90%BD%E7%9F%B3%E7%A0%B8%E4%B8%AD+6%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [肖战周海媚坐一桌](https://www.baidu.com/s?wd=%E8%82%96%E6%88%98%E5%91%A8%E6%B5%B7%E5%AA%9A%E5%9D%90%E4%B8%80%E6%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [华晨宇发挥](https://www.baidu.com/s?wd=%E5%8D%8E%E6%99%A8%E5%AE%87%E5%8F%91%E6%8C%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
