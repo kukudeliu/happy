@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 00:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 00:28:01</h4></div>
 
 > 微博  
 
@@ -8,7 +8,7 @@
 4. [刘浩存好漂亮](https://s.weibo.com/weibo?q=%E5%88%98%E6%B5%A9%E5%AD%98%E5%A5%BD%E6%BC%82%E4%BA%AE&t=31&band_rank=4&Refer=top)<br />
 5. [章子怡压轴](https://s.weibo.com/weibo?q=%E7%AB%A0%E5%AD%90%E6%80%A1%E5%8E%8B%E8%BD%B4&t=31&band_rank=5&Refer=top)<br />
 6. [LPL大瓜](https://s.weibo.com/weibo?q=LPL%E5%A4%A7%E7%93%9C&t=31&band_rank=6&Refer=top)<br />
-7. [周深修音响第一人](https://s.weibo.com/weibo?q=%E5%91%A8%E6%B7%B1%E4%BF%AE%E9%9F%B3%E5%93%8D%E7%AC%AC%E4%B8%80%E4%BA%BA&t=31&band_rank=7&Refer=top)<br />
+7. [吴京把苏有朋唱卡壳了](https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%AC%E6%8A%8A%E8%8B%8F%E6%9C%89%E6%9C%8B%E5%94%B1%E5%8D%A1%E5%A3%B3%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [去故宫的时候一定要抬头](https://s.weibo.com/weibo?q=%E5%8E%BB%E6%95%85%E5%AE%AB%E7%9A%84%E6%97%B6%E5%80%99%E4%B8%80%E5%AE%9A%E8%A6%81%E6%8A%AC%E5%A4%B4&t=31&band_rank=8&Refer=top)<br />
 9. [重庆客车被落石砸中致6死9伤](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E5%AE%A2%E8%BD%A6%E8%A2%AB%E8%90%BD%E7%9F%B3%E7%A0%B8%E4%B8%AD%E8%87%B46%E6%AD%BB9%E4%BC%A4%23&t=31&band_rank=9&Refer=top)<br />
 
