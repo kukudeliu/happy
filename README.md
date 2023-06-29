@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 06:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 06:26:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [如何评价央视 6 频道 6 月 29 日播出的《湾区升明月》晚会？](https://www.zhihu.com/question/609467276)<br />
 6. [有没有高质量的书籍推荐？](https://www.zhihu.com/question/458685685)<br />
 7. [如何看待中科大 QS2024 排名跌出 top100 排第 138？](https://www.zhihu.com/question/609135032)<br />
-8. [博主曝光山姆会员店售卖临期食品，你是如何看待临期食品的？](https://www.zhihu.com/question/609391770)<br />
-9. [为什么电影每秒播放的帧数一直停留在 24 帧而不继续向更高的帧数发展？](https://www.zhihu.com/question/281685561)<br />
+8. [为什么电影每秒播放的帧数一直停留在 24 帧而不继续向更高的帧数发展？](https://www.zhihu.com/question/281685561)<br />
+9. []()<br />
 
 > 百度  
 
