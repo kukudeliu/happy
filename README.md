@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 06:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 06:05:01</h4></div>
 
 > 微博  
 
-1. [肖战真唱](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E7%9C%9F%E5%94%B1&t=31&band_rank=1&Refer=top)<br />
-2. [官方回应上海外滩夜景灯光被吐槽](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E4%B8%8A%E6%B5%B7%E5%A4%96%E6%BB%A9%E5%A4%9C%E6%99%AF%E7%81%AF%E5%85%89%E8%A2%AB%E5%90%90%E6%A7%BD%23&t=31&band_rank=2&Refer=top)<br />
+1. [官方回应上海外滩夜景灯光被吐槽](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E4%B8%8A%E6%B5%B7%E5%A4%96%E6%BB%A9%E5%A4%9C%E6%99%AF%E7%81%AF%E5%85%89%E8%A2%AB%E5%90%90%E6%A7%BD%23&t=31&band_rank=1&Refer=top)<br />
+2. [肖战真唱](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E7%9C%9F%E5%94%B1&t=31&band_rank=2&Refer=top)<br />
 3. [2023年中国网络文明大会新闻发布会](https://s.weibo.com/weibo?q=%232023%E5%B9%B4%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E5%A4%A7%E4%BC%9A%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [港星赢得很彻底](https://s.weibo.com/weibo?q=%23%E6%B8%AF%E6%98%9F%E8%B5%A2%E5%BE%97%E5%BE%88%E5%BD%BB%E5%BA%95%23&t=31&band_rank=4&Refer=top)<br />
 5. [肖战湾区升明月内场饭拍](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%B9%BE%E5%8C%BA%E5%8D%87%E6%98%8E%E6%9C%88%E5%86%85%E5%9C%BA%E9%A5%AD%E6%8B%8D%23&t=31&band_rank=5&Refer=top)<br />
@@ -18,10 +18,10 @@
 2. [世卫组织研究机构将宣布甜味剂阿斯巴甜「可能致癌」，如何看待此事？「无糖」饮料将何去何从？](https://www.zhihu.com/question/609417354)<br />
 3. [专家认为「中国老百姓存款多恰恰是因为没钱，建议推行全民公费育儿等措施」，如何看待这一观点？](https://www.zhihu.com/question/609390380)<br />
 4. [上海学区房最强阵地失守，两年内从近 15 万跌到 10 万，曾经一周涨 39.4%，哪些信息值得关注？](https://www.zhihu.com/question/609355451)<br />
-5. [一个人最根本的能力到底是什么？](https://www.zhihu.com/question/563874394)<br />
-6. [如何评价央视 6 频道 6 月 29 日播出的《湾区升明月》晚会？](https://www.zhihu.com/question/609467276)<br />
+5. [如何评价央视 6 频道 6 月 29 日播出的《湾区升明月》晚会？](https://www.zhihu.com/question/609467276)<br />
+6. [一个人最根本的能力到底是什么？](https://www.zhihu.com/question/563874394)<br />
 7. [有没有高质量的书籍推荐？](https://www.zhihu.com/question/458685685)<br />
-8. []()<br />
+8. [经济学家朱少平称「社会别给年轻人必须要买房的压力，房贷会让他们更喘不上气」，如何评价此观点？](https://www.zhihu.com/question/609356792)<br />
 9. []()<br />
 
 > 百度  
