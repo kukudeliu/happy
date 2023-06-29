@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 21:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 21:59:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [乌克兰或成首个废除现金国家](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%96%E6%88%90%E9%A6%96%E4%B8%AA%E5%BA%9F%E9%99%A4%E7%8E%B0%E9%87%91%E5%9B%BD%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [物理学家称可能发现外星飞船残骸](https://www.baidu.com/s?wd=%E7%89%A9%E7%90%86%E5%AD%A6%E5%AE%B6%E7%A7%B0%E5%8F%AF%E8%83%BD%E5%8F%91%E7%8E%B0%E5%A4%96%E6%98%9F%E9%A3%9E%E8%88%B9%E6%AE%8B%E9%AA%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [华晨宇发挥](https://www.baidu.com/s?wd=%E5%8D%8E%E6%99%A8%E5%AE%87%E5%8F%91%E6%8C%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子杀害妻儿砍伤岳母后跳河身亡](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%9D%80%E5%AE%B3%E5%A6%BB%E5%84%BF%E7%A0%8D%E4%BC%A4%E5%B2%B3%E6%AF%8D%E5%90%8E%E8%B7%B3%E6%B2%B3%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [朱一龙回应自己立牌被打](https://www.baidu.com/s?wd=%E6%9C%B1%E4%B8%80%E9%BE%99%E5%9B%9E%E5%BA%94%E8%87%AA%E5%B7%B1%E7%AB%8B%E7%89%8C%E8%A2%AB%E6%89%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [乌克兰或成首个废除现金国家](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%96%E6%88%90%E9%A6%96%E4%B8%AA%E5%BA%9F%E9%99%A4%E7%8E%B0%E9%87%91%E5%9B%BD%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [物理学家称可能发现外星飞船残骸](https://www.baidu.com/s?wd=%E7%89%A9%E7%90%86%E5%AD%A6%E5%AE%B6%E7%A7%B0%E5%8F%AF%E8%83%BD%E5%8F%91%E7%8E%B0%E5%A4%96%E6%98%9F%E9%A3%9E%E8%88%B9%E6%AE%8B%E9%AA%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [华晨宇发挥](https://www.baidu.com/s?wd=%E5%8D%8E%E6%99%A8%E5%AE%87%E5%8F%91%E6%8C%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子杀害妻儿砍伤岳母后跳河身亡](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%9D%80%E5%AE%B3%E5%A6%BB%E5%84%BF%E7%A0%8D%E4%BC%A4%E5%B2%B3%E6%AF%8D%E5%90%8E%E8%B7%B3%E6%B2%B3%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [朱一龙回应自己立牌被打](https://www.baidu.com/s?wd=%E6%9C%B1%E4%B8%80%E9%BE%99%E5%9B%9E%E5%BA%94%E8%87%AA%E5%B7%B1%E7%AB%8B%E7%89%8C%E8%A2%AB%E6%89%93&sa=fyb_news&rsv_dl=fyb_news)<br />
