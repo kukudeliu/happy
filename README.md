@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 01:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 01:29:01</h4></div>
 
 > 微博  
 
@@ -32,9 +32,9 @@
 4. [点亮科学之光](https://www.baidu.com/s?wd=%E7%82%B9%E4%BA%AE%E7%A7%91%E5%AD%A6%E4%B9%8B%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [载客18人中巴被落石砸中 6人遇难](https://www.baidu.com/s?wd=%E8%BD%BD%E5%AE%A218%E4%BA%BA%E4%B8%AD%E5%B7%B4%E8%A2%AB%E8%90%BD%E7%9F%B3%E7%A0%B8%E4%B8%AD+6%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [乌克兰或成首个废除现金国家](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%96%E6%88%90%E9%A6%96%E4%B8%AA%E5%BA%9F%E9%99%A4%E7%8E%B0%E9%87%91%E5%9B%BD%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [腾讯回应微信支付被多所高校停用](https://www.baidu.com/s?wd=%E8%85%BE%E8%AE%AF%E5%9B%9E%E5%BA%94%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98%E8%A2%AB%E5%A4%9A%E6%89%80%E9%AB%98%E6%A0%A1%E5%81%9C%E7%94%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [物理学家称可能发现外星飞船残骸](https://www.baidu.com/s?wd=%E7%89%A9%E7%90%86%E5%AD%A6%E5%AE%B6%E7%A7%B0%E5%8F%AF%E8%83%BD%E5%8F%91%E7%8E%B0%E5%A4%96%E6%98%9F%E9%A3%9E%E8%88%B9%E6%AE%8B%E9%AA%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [徐小凤 今晚最佳](https://www.baidu.com/s?wd=%E5%BE%90%E5%B0%8F%E5%87%A4+%E4%BB%8A%E6%99%9A%E6%9C%80%E4%BD%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [未成年人暑假只能周五六日打游戏](https://www.baidu.com/s?wd=%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E6%9A%91%E5%81%87%E5%8F%AA%E8%83%BD%E5%91%A8%E4%BA%94%E5%85%AD%E6%97%A5%E6%89%93%E6%B8%B8%E6%88%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [浙江26岁小伙月薪3千存下30万](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F26%E5%B2%81%E5%B0%8F%E4%BC%99%E6%9C%88%E8%96%AA3%E5%8D%83%E5%AD%98%E4%B8%8B30%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [物理学家称可能发现外星飞船残骸](https://www.baidu.com/s?wd=%E7%89%A9%E7%90%86%E5%AD%A6%E5%AE%B6%E7%A7%B0%E5%8F%AF%E8%83%BD%E5%8F%91%E7%8E%B0%E5%A4%96%E6%98%9F%E9%A3%9E%E8%88%B9%E6%AE%8B%E9%AA%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [点亮科学之光](https://www.baidu.com/s?wd=%E7%82%B9%E4%BA%AE%E7%A7%91%E5%AD%A6%E4%B9%8B%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [载客18人中巴被落石砸中 6人遇难](https://www.baidu.com/s?wd=%E8%BD%BD%E5%AE%A218%E4%BA%BA%E4%B8%AD%E5%B7%B4%E8%A2%AB%E8%90%BD%E7%9F%B3%E7%A0%B8%E4%B8%AD+6%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [乌克兰或成首个废除现金国家](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%96%E6%88%90%E9%A6%96%E4%B8%AA%E5%BA%9F%E9%99%A4%E7%8E%B0%E9%87%91%E5%9B%BD%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [腾讯回应微信支付被多所高校停用](https://www.baidu.com/s?wd=%E8%85%BE%E8%AE%AF%E5%9B%9E%E5%BA%94%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98%E8%A2%AB%E5%A4%9A%E6%89%80%E9%AB%98%E6%A0%A1%E5%81%9C%E7%94%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [物理学家称可能发现外星飞船残骸](https://www.baidu.com/s?wd=%E7%89%A9%E7%90%86%E5%AD%A6%E5%AE%B6%E7%A7%B0%E5%8F%AF%E8%83%BD%E5%8F%91%E7%8E%B0%E5%A4%96%E6%98%9F%E9%A3%9E%E8%88%B9%E6%AE%8B%E9%AA%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [徐小凤 今晚最佳](https://www.baidu.com/s?wd=%E5%BE%90%E5%B0%8F%E5%87%A4+%E4%BB%8A%E6%99%9A%E6%9C%80%E4%BD%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [未成年人暑假只能周五六日打游戏](https://www.baidu.com/s?wd=%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E6%9A%91%E5%81%87%E5%8F%AA%E8%83%BD%E5%91%A8%E4%BA%94%E5%85%AD%E6%97%A5%E6%89%93%E6%B8%B8%E6%88%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [浙江26岁小伙月薪3千存下30万](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F26%E5%B2%81%E5%B0%8F%E4%BC%99%E6%9C%88%E8%96%AA3%E5%8D%83%E5%AD%98%E4%B8%8B30%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [物理学家称可能发现外星飞船残骸](https://www.baidu.com/s?wd=%E7%89%A9%E7%90%86%E5%AD%A6%E5%AE%B6%E7%A7%B0%E5%8F%AF%E8%83%BD%E5%8F%91%E7%8E%B0%E5%A4%96%E6%98%9F%E9%A3%9E%E8%88%B9%E6%AE%8B%E9%AA%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
