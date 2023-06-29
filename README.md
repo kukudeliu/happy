@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 06:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 06:30:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [如何评价央视 6 频道 6 月 29 日播出的《湾区升明月》晚会？](https://www.zhihu.com/question/609467276)<br />
 6. [有没有高质量的书籍推荐？](https://www.zhihu.com/question/458685685)<br />
 7. [为什么电影每秒播放的帧数一直停留在 24 帧而不继续向更高的帧数发展？](https://www.zhihu.com/question/281685561)<br />
-8. [如何看待中科大 QS2024 排名跌出 top100 排第 138？](https://www.zhihu.com/question/609135032)<br />
-9. []()<br />
+8. [经济学家朱少平称「社会别给年轻人必须要买房的压力，房贷会让他们更喘不上气」，如何评价此观点？](https://www.zhihu.com/question/609356792)<br />
+9. [如何看待中科大 QS2024 排名跌出 top100 排第 138？](https://www.zhihu.com/question/609135032)<br />
 
 > 百度  
 
