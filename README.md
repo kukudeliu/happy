@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 16:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 16:17:01</h4></div>
 
 > 微博  
 
-1. [多所高校停用微信支付](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%89%80%E9%AB%98%E6%A0%A1%E5%81%9C%E7%94%A8%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98%23&t=31&band_rank=1&Refer=top)<br />
-2. [范玮琪 我丈夫是个正直的人](https://s.weibo.com/weibo?q=%E8%8C%83%E7%8E%AE%E7%90%AA%20%E6%88%91%E4%B8%88%E5%A4%AB%E6%98%AF%E4%B8%AA%E6%AD%A3%E7%9B%B4%E7%9A%84%E4%BA%BA&t=31&band_rank=2&Refer=top)<br />
+1. [范玮琪 我丈夫是个正直的人](https://s.weibo.com/weibo?q=%E8%8C%83%E7%8E%AE%E7%90%AA%20%E6%88%91%E4%B8%88%E5%A4%AB%E6%98%AF%E4%B8%AA%E6%AD%A3%E7%9B%B4%E7%9A%84%E4%BA%BA&t=31&band_rank=1&Refer=top)<br />
+2. [多所高校停用微信支付](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%89%80%E9%AB%98%E6%A0%A1%E5%81%9C%E7%94%A8%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98%23&t=31&band_rank=2&Refer=top)<br />
 3. [我国安装完成全球首台16兆瓦风电机组](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E5%AE%89%E8%A3%85%E5%AE%8C%E6%88%90%E5%85%A8%E7%90%83%E9%A6%96%E5%8F%B016%E5%85%86%E7%93%A6%E9%A3%8E%E7%94%B5%E6%9C%BA%E7%BB%84%23&t=31&band_rank=3&Refer=top)<br />
 4. [姜广涛 开工](https://s.weibo.com/weibo?q=%E5%A7%9C%E5%B9%BF%E6%B6%9B%20%E5%BC%80%E5%B7%A5&t=31&band_rank=4&Refer=top)<br />
 5. [学校承诺考上985奖30万未兑现被起诉](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E6%A0%A1%E6%89%BF%E8%AF%BA%E8%80%83%E4%B8%8A985%E5%A5%9630%E4%B8%87%E6%9C%AA%E5%85%91%E7%8E%B0%E8%A2%AB%E8%B5%B7%E8%AF%89%23&t=31&band_rank=5&Refer=top)<br />
@@ -18,11 +18,11 @@
 2. [如果让你在 50 万人民币和清华大学录取通知书二选一你会选哪个？](https://www.zhihu.com/question/607748095)<br />
 3. [微信回应多所高校停用微信支付，如何看待此事？你能接受微信支付需要手续费吗？](https://www.zhihu.com/question/609374806)<br />
 4. [如何看待漫画家尾田荣一郎曾表示「男性不怎么表达意见，女性的意见会收到很多」?](https://www.zhihu.com/question/607642085)<br />
-5. [俄「末日将军」苏洛维金据传被捕，疑为普里戈任内应，如何看待此事？后续进展如何？](https://www.zhihu.com/question/609355915)<br />
+5. [山河大学是什么梗？你心中的山河大学是什么样？](https://www.zhihu.com/question/609033191)<br />
 6. [王宝强《八角笼中》点映口碑如何，你对该影片有哪些评价？](https://www.zhihu.com/question/608000476)<br />
-7. [如何看待高级动卧票价一站 8 分钟 420 元，系二等座 70 倍？短途出行你会选高级动卧吗？](https://www.zhihu.com/question/609342725)<br />
-8. [在密室逃脱工作是一种怎样的体验？](https://www.zhihu.com/question/292922127)<br />
-9. [考驾照怎样能一把过？](https://www.zhihu.com/question/439943462)<br />
+7. [俄「末日将军」苏洛维金据传被捕，疑为普里戈任内应，如何看待此事？后续进展如何？](https://www.zhihu.com/question/609355915)<br />
+8. [如何看待高级动卧票价一站 8 分钟 420 元，系二等座 70 倍？短途出行你会选高级动卧吗？](https://www.zhihu.com/question/609342725)<br />
+9. [在密室逃脱工作是一种怎样的体验？](https://www.zhihu.com/question/292922127)<br />
 
 > 百度  
 
