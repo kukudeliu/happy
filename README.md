@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 22:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 22:40:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [肖战好港](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%A5%BD%E6%B8%AF%23&t=31&band_rank=6&Refer=top)<br />
 7. [去故宫的时候一定要抬头](https://s.weibo.com/weibo?q=%E5%8E%BB%E6%95%85%E5%AE%AB%E7%9A%84%E6%97%B6%E5%80%99%E4%B8%80%E5%AE%9A%E8%A6%81%E6%8A%AC%E5%A4%B4&t=31&band_rank=7&Refer=top)<br />
 8. [LV帆布袋已被炒至700元](https://s.weibo.com/weibo?q=%23LV%E5%B8%86%E5%B8%83%E8%A2%8B%E5%B7%B2%E8%A2%AB%E7%82%92%E8%87%B3700%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [学霸情侣本科毕业齐直博被校长写进致辞](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E9%9C%B8%E6%83%85%E4%BE%A3%E6%9C%AC%E7%A7%91%E6%AF%95%E4%B8%9A%E9%BD%90%E7%9B%B4%E5%8D%9A%E8%A2%AB%E6%A0%A1%E9%95%BF%E5%86%99%E8%BF%9B%E8%87%B4%E8%BE%9E%23&t=31&band_rank=9&Refer=top)<br />
+9. [武契奇儿子被科索沃当局扣留](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A5%91%E5%A5%87%E5%84%BF%E5%AD%90%E8%A2%AB%E7%A7%91%E7%B4%A2%E6%B2%83%E5%BD%93%E5%B1%80%E6%89%A3%E7%95%99%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
