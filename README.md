@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 06:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 06:59:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [徐小凤 今晚最佳](https://www.baidu.com/s?wd=%E5%BE%90%E5%B0%8F%E5%87%A4+%E4%BB%8A%E6%99%9A%E6%9C%80%E4%BD%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [物理学家称可能发现外星飞船残骸](https://www.baidu.com/s?wd=%E7%89%A9%E7%90%86%E5%AD%A6%E5%AE%B6%E7%A7%B0%E5%8F%AF%E8%83%BD%E5%8F%91%E7%8E%B0%E5%A4%96%E6%98%9F%E9%A3%9E%E8%88%B9%E6%AE%8B%E9%AA%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [浙江26岁小伙月薪3千存下30万](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F26%E5%B2%81%E5%B0%8F%E4%BC%99%E6%9C%88%E8%96%AA3%E5%8D%83%E5%AD%98%E4%B8%8B30%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [LV帆布袋已被炒至700元](https://www.baidu.com/s?wd=LV%E5%B8%86%E5%B8%83%E8%A2%8B%E5%B7%B2%E8%A2%AB%E7%82%92%E8%87%B3700%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [无糖可乐不能喝了？或含致癌物](https://www.baidu.com/s?wd=%E6%97%A0%E7%B3%96%E5%8F%AF%E4%B9%90%E4%B8%8D%E8%83%BD%E5%96%9D%E4%BA%86%EF%BC%9F%E6%88%96%E5%90%AB%E8%87%B4%E7%99%8C%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [徐小凤 今晚最佳](https://www.baidu.com/s?wd=%E5%BE%90%E5%B0%8F%E5%87%A4+%E4%BB%8A%E6%99%9A%E6%9C%80%E4%BD%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [物理学家称可能发现外星飞船残骸](https://www.baidu.com/s?wd=%E7%89%A9%E7%90%86%E5%AD%A6%E5%AE%B6%E7%A7%B0%E5%8F%AF%E8%83%BD%E5%8F%91%E7%8E%B0%E5%A4%96%E6%98%9F%E9%A3%9E%E8%88%B9%E6%AE%8B%E9%AA%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [浙江26岁小伙月薪3千存下30万](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F26%E5%B2%81%E5%B0%8F%E4%BC%99%E6%9C%88%E8%96%AA3%E5%8D%83%E5%AD%98%E4%B8%8B30%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [LV帆布袋已被炒至700元](https://www.baidu.com/s?wd=LV%E5%B8%86%E5%B8%83%E8%A2%8B%E5%B7%B2%E8%A2%AB%E7%82%92%E8%87%B3700%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [无糖可乐不能喝了？或含致癌物](https://www.baidu.com/s?wd=%E6%97%A0%E7%B3%96%E5%8F%AF%E4%B9%90%E4%B8%8D%E8%83%BD%E5%96%9D%E4%BA%86%EF%BC%9F%E6%88%96%E5%90%AB%E8%87%B4%E7%99%8C%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
