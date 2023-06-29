@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 04:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 04:35:01</h4></div>
 
 > 微博  
 
@@ -19,9 +19,9 @@
 3. [专家认为「中国老百姓存款多恰恰是因为没钱，建议推行全民公费育儿等措施」，如何看待这一观点？](https://www.zhihu.com/question/609390380)<br />
 4. [上海学区房最强阵地失守，两年内从近 15 万跌到 10 万，曾经一周涨 39.4%，哪些信息值得关注？](https://www.zhihu.com/question/609355451)<br />
 5. [如何看待中科大 QS2024 排名跌出 top100 排第 138？](https://www.zhihu.com/question/609135032)<br />
-6. [为什么电影每秒播放的帧数一直停留在 24 帧而不继续向更高的帧数发展？](https://www.zhihu.com/question/281685561)<br />
-7. [如何评价央视 6 频道 6 月 29 日播出的《湾区升明月》晚会？](https://www.zhihu.com/question/609467276)<br />
-8. [一个人最根本的能力到底是什么？](https://www.zhihu.com/question/563874394)<br />
+6. [如何评价央视 6 频道 6 月 29 日播出的《湾区升明月》晚会？](https://www.zhihu.com/question/609467276)<br />
+7. [一个人最根本的能力到底是什么？](https://www.zhihu.com/question/563874394)<br />
+8. [为什么电影每秒播放的帧数一直停留在 24 帧而不继续向更高的帧数发展？](https://www.zhihu.com/question/281685561)<br />
 9. [经济学家朱少平称「社会别给年轻人必须要买房的压力，房贷会让他们更喘不上气」，如何评价此观点？](https://www.zhihu.com/question/609356792)<br />
 
 > 百度  
