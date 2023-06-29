@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 16:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 16:48:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [天官赐福](https://s.weibo.com/weibo?q=%E5%A4%A9%E5%AE%98%E8%B5%90%E7%A6%8F&t=31&band_rank=6&Refer=top)<br />
 7. [学校承诺考上985奖30万未兑现被起诉](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E6%A0%A1%E6%89%BF%E8%AF%BA%E8%80%83%E4%B8%8A985%E5%A5%9630%E4%B8%87%E6%9C%AA%E5%85%91%E7%8E%B0%E8%A2%AB%E8%B5%B7%E8%AF%89%23&t=31&band_rank=7&Refer=top)<br />
 8. [张睿谈被披哥节目组连拒四次](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%9D%BF%E8%B0%88%E8%A2%AB%E6%8A%AB%E5%93%A5%E8%8A%82%E7%9B%AE%E7%BB%84%E8%BF%9E%E6%8B%92%E5%9B%9B%E6%AC%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [黄婷婷与丝芭正式解约](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%A9%B7%E5%A9%B7%E4%B8%8E%E4%B8%9D%E8%8A%AD%E6%AD%A3%E5%BC%8F%E8%A7%A3%E7%BA%A6%23&t=31&band_rank=9&Refer=top)<br />
+9. [光合积木](https://s.weibo.com/weibo?q=%E5%85%89%E5%90%88%E7%A7%AF%E6%9C%A8&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -19,10 +19,10 @@
 3. [广州二孩及以上家庭公积金贷款购房额上浮 30%，最高贷 130 万，节约利息 32 万，如何看待此举？](https://www.zhihu.com/question/609178796)<br />
 4. [如何看待漫画家尾田荣一郎曾表示「男性不怎么表达意见，女性的意见会收到很多」?](https://www.zhihu.com/question/607642085)<br />
 5. [如何看待高级动卧票价一站 8 分钟 420 元，系二等座 70 倍？短途出行你会选高级动卧吗？](https://www.zhihu.com/question/609342725)<br />
-6. [胡锡进炒股第三天，称「整个账户绿了，又转入了 10 万元，求股友们鼓励」，如何看待此事？](https://www.zhihu.com/question/609352970)<br />
-7. [王宝强《八角笼中》点映口碑如何，你对该影片有哪些评价？](https://www.zhihu.com/question/608000476)<br />
-8. [拜登再次就俄罗斯「瓦格纳事件」表态，但口误称「普京正输掉伊拉克战争」，如何看待美方表态？](https://www.zhihu.com/question/609352184)<br />
-9. [2023 广东高考已放榜，如何评价深圳中学首届扩招生 2023 高考成绩？](https://www.zhihu.com/question/608749773)<br />
+6. [拜登再次就俄罗斯「瓦格纳事件」表态，但口误称「普京正输掉伊拉克战争」，如何看待美方表态？](https://www.zhihu.com/question/609352184)<br />
+7. [胡锡进炒股第三天，称「整个账户绿了，又转入了 10 万元，求股友们鼓励」，如何看待此事？](https://www.zhihu.com/question/609352970)<br />
+8. [王宝强《八角笼中》点映口碑如何，你对该影片有哪些评价？](https://www.zhihu.com/question/608000476)<br />
+9. [成都女子被丈夫多次家暴致肠破裂，公公回应「是家事」，女子该如何保障自己权益，涉事丈夫触犯了哪些法律？](https://www.zhihu.com/question/608734635)<br />
 
 > 百度  
 
