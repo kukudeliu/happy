@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 17:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 17:40:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [支付软件开始收费你还会用吗](https://s.weibo.com/weibo?q=%23%E6%94%AF%E4%BB%98%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%A7%8B%E6%94%B6%E8%B4%B9%E4%BD%A0%E8%BF%98%E4%BC%9A%E7%94%A8%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [Angelababy宋威龙GQ合照](https://s.weibo.com/weibo?q=%23Angelababy%E5%AE%8B%E5%A8%81%E9%BE%99GQ%E5%90%88%E7%85%A7%23&t=31&band_rank=7&Refer=top)<br />
 8. [多所高校停用微信支付](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%89%80%E9%AB%98%E6%A0%A1%E5%81%9C%E7%94%A8%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98%23&t=31&band_rank=8&Refer=top)<br />
-9. [天官赐福](https://s.weibo.com/weibo?q=%E5%A4%A9%E5%AE%98%E8%B5%90%E7%A6%8F&t=31&band_rank=9&Refer=top)<br />
+9. [LV帆布袋已被炒至700元](https://s.weibo.com/weibo?q=%23LV%E5%B8%86%E5%B8%83%E8%A2%8B%E5%B7%B2%E8%A2%AB%E7%82%92%E8%87%B3700%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
