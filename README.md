@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 18:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 18:12:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [阿斯巴甜 致癌](https://s.weibo.com/weibo?q=%E9%98%BF%E6%96%AF%E5%B7%B4%E7%94%9C%20%E8%87%B4%E7%99%8C&t=31&band_rank=4&Refer=top)<br />
 5. [山东龙凤四胞胎同圆大学梦](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E9%BE%99%E5%87%A4%E5%9B%9B%E8%83%9E%E8%83%8E%E5%90%8C%E5%9C%86%E5%A4%A7%E5%AD%A6%E6%A2%A6%23&t=31&band_rank=5&Refer=top)<br />
 6. [姜广涛 开工](https://s.weibo.com/weibo?q=%E5%A7%9C%E5%B9%BF%E6%B6%9B%20%E5%BC%80%E5%B7%A5&t=31&band_rank=6&Refer=top)<br />
-7. [货车侧翻男子托举伤者近1小时](https://s.weibo.com/weibo?q=%23%E8%B4%A7%E8%BD%A6%E4%BE%A7%E7%BF%BB%E7%94%B7%E5%AD%90%E6%89%98%E4%B8%BE%E4%BC%A4%E8%80%85%E8%BF%911%E5%B0%8F%E6%97%B6%23&t=31&band_rank=7&Refer=top)<br />
-8. [关晓彤帽子P掉了鹿晗品牌](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E5%B8%BD%E5%AD%90P%E6%8E%89%E4%BA%86%E9%B9%BF%E6%99%97%E5%93%81%E7%89%8C%23&t=31&band_rank=8&Refer=top)<br />
-9. [袁姗姗一期节目落了五次水](https://s.weibo.com/weibo?q=%23%E8%A2%81%E5%A7%97%E5%A7%97%E4%B8%80%E6%9C%9F%E8%8A%82%E7%9B%AE%E8%90%BD%E4%BA%86%E4%BA%94%E6%AC%A1%E6%B0%B4%23&t=31&band_rank=9&Refer=top)<br />
+7. [关晓彤帽子P掉了鹿晗品牌](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E5%B8%BD%E5%AD%90P%E6%8E%89%E4%BA%86%E9%B9%BF%E6%99%97%E5%93%81%E7%89%8C%23&t=31&band_rank=7&Refer=top)<br />
+8. [袁姗姗一期节目落了五次水](https://s.weibo.com/weibo?q=%23%E8%A2%81%E5%A7%97%E5%A7%97%E4%B8%80%E6%9C%9F%E8%8A%82%E7%9B%AE%E8%90%BD%E4%BA%86%E4%BA%94%E6%AC%A1%E6%B0%B4%23&t=31&band_rank=8&Refer=top)<br />
+9. [Angelababy宋威龙GQ合照](https://s.weibo.com/weibo?q=%23Angelababy%E5%AE%8B%E5%A8%81%E9%BE%99GQ%E5%90%88%E7%85%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -21,8 +21,8 @@
 5. [甘肃 350 亿氢能招标致多股暴涨，数天后被叫停，当地称备案违规，而招标方是假国企，哪些信息值得关注？](https://www.zhihu.com/question/609164890)<br />
 6. [如果让你在 50 万人民币和清华大学录取通知书二选一你会选哪个？](https://www.zhihu.com/question/607748095)<br />
 7. [东吴后期到底是个什么局面，为何在蜀被灭后还支撑了十数年？](https://www.zhihu.com/question/37064172)<br />
-8. []()<br />
-9. [《星球大战》里帝国士兵的白色铠甲不防弹，甚至手枪都不防，为什么还要全军配备？而且一直让士兵穿着？](https://www.zhihu.com/question/445290525)<br />
+8. [《星球大战》里帝国士兵的白色铠甲不防弹，甚至手枪都不防，为什么还要全军配备？而且一直让士兵穿着？](https://www.zhihu.com/question/445290525)<br />
+9. []()<br />
 
 > 百度  
 
