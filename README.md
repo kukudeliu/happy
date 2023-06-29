@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 01:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 01:40:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [LPL大瓜](https://s.weibo.com/weibo?q=LPL%E5%A4%A7%E7%93%9C&t=31&band_rank=6&Refer=top)<br />
 7. [章子怡压轴](https://s.weibo.com/weibo?q=%E7%AB%A0%E5%AD%90%E6%80%A1%E5%8E%8B%E8%BD%B4&t=31&band_rank=7&Refer=top)<br />
 8. [去故宫的时候一定要抬头](https://s.weibo.com/weibo?q=%E5%8E%BB%E6%95%85%E5%AE%AB%E7%9A%84%E6%97%B6%E5%80%99%E4%B8%80%E5%AE%9A%E8%A6%81%E6%8A%AC%E5%A4%B4&t=31&band_rank=8&Refer=top)<br />
-9. [学霸情侣本科毕业齐直博被校长写进致辞](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E9%9C%B8%E6%83%85%E4%BE%A3%E6%9C%AC%E7%A7%91%E6%AF%95%E4%B8%9A%E9%BD%90%E7%9B%B4%E5%8D%9A%E8%A2%AB%E6%A0%A1%E9%95%BF%E5%86%99%E8%BF%9B%E8%87%B4%E8%BE%9E%23&t=31&band_rank=9&Refer=top)<br />
+9. [为什么火锅价格越来越贵了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E7%81%AB%E9%94%85%E4%BB%B7%E6%A0%BC%E8%B6%8A%E6%9D%A5%E8%B6%8A%E8%B4%B5%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -32,9 +32,9 @@
 4. [点亮科学之光](https://www.baidu.com/s?wd=%E7%82%B9%E4%BA%AE%E7%A7%91%E5%AD%A6%E4%B9%8B%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [载客18人中巴被落石砸中 6人遇难](https://www.baidu.com/s?wd=%E8%BD%BD%E5%AE%A218%E4%BA%BA%E4%B8%AD%E5%B7%B4%E8%A2%AB%E8%90%BD%E7%9F%B3%E7%A0%B8%E4%B8%AD+6%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大连一高校食堂放多台彩票机](https://www.baidu.com/s?wd=%E5%A4%A7%E8%BF%9E%E4%B8%80%E9%AB%98%E6%A0%A1%E9%A3%9F%E5%A0%82%E6%94%BE%E5%A4%9A%E5%8F%B0%E5%BD%A9%E7%A5%A8%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [印度一座桥梁在大风中坍塌](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E4%B8%80%E5%BA%A7%E6%A1%A5%E6%A2%81%E5%9C%A8%E5%A4%A7%E9%A3%8E%E4%B8%AD%E5%9D%8D%E5%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [乌克兰或成首个废除现金国家](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%96%E6%88%90%E9%A6%96%E4%B8%AA%E5%BA%9F%E9%99%A4%E7%8E%B0%E9%87%91%E5%9B%BD%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [浙江26岁小伙月薪3千存下30万](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F26%E5%B2%81%E5%B0%8F%E4%BC%99%E6%9C%88%E8%96%AA3%E5%8D%83%E5%AD%98%E4%B8%8B30%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [乌克兰或成首个废除现金国家](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%96%E6%88%90%E9%A6%96%E4%B8%AA%E5%BA%9F%E9%99%A4%E7%8E%B0%E9%87%91%E5%9B%BD%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女生考入清华 父母凉菜摊3天打8.8折](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E8%80%83%E5%85%A5%E6%B8%85%E5%8D%8E+%E7%88%B6%E6%AF%8D%E5%87%89%E8%8F%9C%E6%91%8A3%E5%A4%A9%E6%89%938.8%E6%8A%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [印度一座桥梁在大风中坍塌](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E4%B8%80%E5%BA%A7%E6%A1%A5%E6%A2%81%E5%9C%A8%E5%A4%A7%E9%A3%8E%E4%B8%AD%E5%9D%8D%E5%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [点亮科学之光](https://www.baidu.com/s?wd=%E7%82%B9%E4%BA%AE%E7%A7%91%E5%AD%A6%E4%B9%8B%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [载客18人中巴被落石砸中 6人遇难](https://www.baidu.com/s?wd=%E8%BD%BD%E5%AE%A218%E4%BA%BA%E4%B8%AD%E5%B7%B4%E8%A2%AB%E8%90%BD%E7%9F%B3%E7%A0%B8%E4%B8%AD+6%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大连一高校食堂放多台彩票机](https://www.baidu.com/s?wd=%E5%A4%A7%E8%BF%9E%E4%B8%80%E9%AB%98%E6%A0%A1%E9%A3%9F%E5%A0%82%E6%94%BE%E5%A4%9A%E5%8F%B0%E5%BD%A9%E7%A5%A8%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [印度一座桥梁在大风中坍塌](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E4%B8%80%E5%BA%A7%E6%A1%A5%E6%A2%81%E5%9C%A8%E5%A4%A7%E9%A3%8E%E4%B8%AD%E5%9D%8D%E5%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [乌克兰或成首个废除现金国家](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%96%E6%88%90%E9%A6%96%E4%B8%AA%E5%BA%9F%E9%99%A4%E7%8E%B0%E9%87%91%E5%9B%BD%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [浙江26岁小伙月薪3千存下30万](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F26%E5%B2%81%E5%B0%8F%E4%BC%99%E6%9C%88%E8%96%AA3%E5%8D%83%E5%AD%98%E4%B8%8B30%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [乌克兰或成首个废除现金国家](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%96%E6%88%90%E9%A6%96%E4%B8%AA%E5%BA%9F%E9%99%A4%E7%8E%B0%E9%87%91%E5%9B%BD%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女生考入清华 父母凉菜摊3天打8.8折](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E8%80%83%E5%85%A5%E6%B8%85%E5%8D%8E+%E7%88%B6%E6%AF%8D%E5%87%89%E8%8F%9C%E6%91%8A3%E5%A4%A9%E6%89%938.8%E6%8A%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [印度一座桥梁在大风中坍塌](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E4%B8%80%E5%BA%A7%E6%A1%A5%E6%A2%81%E5%9C%A8%E5%A4%A7%E9%A3%8E%E4%B8%AD%E5%9D%8D%E5%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
