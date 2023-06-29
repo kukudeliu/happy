@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 06:46:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 06:47:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [LPL大瓜](https://s.weibo.com/weibo?q=LPL%E5%A4%A7%E7%93%9C&t=31&band_rank=6&Refer=top)<br />
 7. [去故宫的时候一定要抬头](https://s.weibo.com/weibo?q=%E5%8E%BB%E6%95%85%E5%AE%AB%E7%9A%84%E6%97%B6%E5%80%99%E4%B8%80%E5%AE%9A%E8%A6%81%E6%8A%AC%E5%A4%B4&t=31&band_rank=7&Refer=top)<br />
 8. [章子怡压轴](https://s.weibo.com/weibo?q=%E7%AB%A0%E5%AD%90%E6%80%A1%E5%8E%8B%E8%BD%B4&t=31&band_rank=8&Refer=top)<br />
-9. [韩国网友对长月烬明的评价](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%BD%91%E5%8F%8B%E5%AF%B9%E9%95%BF%E6%9C%88%E7%83%AC%E6%98%8E%E7%9A%84%E8%AF%84%E4%BB%B7%23&t=31&band_rank=9&Refer=top)<br />
+9. [任嘉伦Angelababy对手戏](https://s.weibo.com/weibo?q=%23%E4%BB%BB%E5%98%89%E4%BC%A6Angelababy%E5%AF%B9%E6%89%8B%E6%88%8F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
