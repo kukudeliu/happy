@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 05:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 05:06:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [如何评价央视 6 频道 6 月 29 日播出的《湾区升明月》晚会？](https://www.zhihu.com/question/609467276)<br />
 7. [一个人最根本的能力到底是什么？](https://www.zhihu.com/question/563874394)<br />
 8. [经济学家朱少平称「社会别给年轻人必须要买房的压力，房贷会让他们更喘不上气」，如何评价此观点？](https://www.zhihu.com/question/609356792)<br />
-9. [你是从什么时候开始不爱发朋友圈了?](https://www.zhihu.com/question/602644549)<br />
+9. []()<br />
 
 > 百度  
 
