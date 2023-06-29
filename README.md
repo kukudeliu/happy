@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 23:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 23:19:01</h4></div>
 
 > 微博  
 
@@ -32,9 +32,9 @@
 4. [点亮科学之光](https://www.baidu.com/s?wd=%E7%82%B9%E4%BA%AE%E7%A7%91%E5%AD%A6%E4%B9%8B%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [载客18人中巴被落石砸中 6人遇难](https://www.baidu.com/s?wd=%E8%BD%BD%E5%AE%A218%E4%BA%BA%E4%B8%AD%E5%B7%B4%E8%A2%AB%E8%90%BD%E7%9F%B3%E7%A0%B8%E4%B8%AD+6%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [肖战周海媚坐一桌](https://www.baidu.com/s?wd=%E8%82%96%E6%88%98%E5%91%A8%E6%B5%B7%E5%AA%9A%E5%9D%90%E4%B8%80%E6%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [华晨宇发挥](https://www.baidu.com/s?wd=%E5%8D%8E%E6%99%A8%E5%AE%87%E5%8F%91%E6%8C%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [朱一龙回应自己立牌被打](https://www.baidu.com/s?wd=%E6%9C%B1%E4%B8%80%E9%BE%99%E5%9B%9E%E5%BA%94%E8%87%AA%E5%B7%B1%E7%AB%8B%E7%89%8C%E8%A2%AB%E6%89%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [2岁男童坠楼身亡 家属索赔145万](https://www.baidu.com/s?wd=2%E5%B2%81%E7%94%B7%E7%AB%A5%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1+%E5%AE%B6%E5%B1%9E%E7%B4%A2%E8%B5%94145%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [传阿斯巴甜将被列为可能致癌物质](https://www.baidu.com/s?wd=%E4%BC%A0%E9%98%BF%E6%96%AF%E5%B7%B4%E7%94%9C%E5%B0%86%E8%A2%AB%E5%88%97%E4%B8%BA%E5%8F%AF%E8%83%BD%E8%87%B4%E7%99%8C%E7%89%A9%E8%B4%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [戏曲演员话筒故障男孩后台惊艳救场](https://www.baidu.com/s?wd=%E6%88%8F%E6%9B%B2%E6%BC%94%E5%91%98%E8%AF%9D%E7%AD%92%E6%95%85%E9%9A%9C%E7%94%B7%E5%AD%A9%E5%90%8E%E5%8F%B0%E6%83%8A%E8%89%B3%E6%95%91%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [华晨宇发挥](https://www.baidu.com/s?wd=%E5%8D%8E%E6%99%A8%E5%AE%87%E5%8F%91%E6%8C%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [点亮科学之光](https://www.baidu.com/s?wd=%E7%82%B9%E4%BA%AE%E7%A7%91%E5%AD%A6%E4%B9%8B%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [载客18人中巴被落石砸中 6人遇难](https://www.baidu.com/s?wd=%E8%BD%BD%E5%AE%A218%E4%BA%BA%E4%B8%AD%E5%B7%B4%E8%A2%AB%E8%90%BD%E7%9F%B3%E7%A0%B8%E4%B8%AD+6%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [肖战周海媚坐一桌](https://www.baidu.com/s?wd=%E8%82%96%E6%88%98%E5%91%A8%E6%B5%B7%E5%AA%9A%E5%9D%90%E4%B8%80%E6%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [华晨宇发挥](https://www.baidu.com/s?wd=%E5%8D%8E%E6%99%A8%E5%AE%87%E5%8F%91%E6%8C%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [朱一龙回应自己立牌被打](https://www.baidu.com/s?wd=%E6%9C%B1%E4%B8%80%E9%BE%99%E5%9B%9E%E5%BA%94%E8%87%AA%E5%B7%B1%E7%AB%8B%E7%89%8C%E8%A2%AB%E6%89%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [2岁男童坠楼身亡 家属索赔145万](https://www.baidu.com/s?wd=2%E5%B2%81%E7%94%B7%E7%AB%A5%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1+%E5%AE%B6%E5%B1%9E%E7%B4%A2%E8%B5%94145%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [传阿斯巴甜将被列为可能致癌物质](https://www.baidu.com/s?wd=%E4%BC%A0%E9%98%BF%E6%96%AF%E5%B7%B4%E7%94%9C%E5%B0%86%E8%A2%AB%E5%88%97%E4%B8%BA%E5%8F%AF%E8%83%BD%E8%87%B4%E7%99%8C%E7%89%A9%E8%B4%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [戏曲演员话筒故障男孩后台惊艳救场](https://www.baidu.com/s?wd=%E6%88%8F%E6%9B%B2%E6%BC%94%E5%91%98%E8%AF%9D%E7%AD%92%E6%95%85%E9%9A%9C%E7%94%B7%E5%AD%A9%E5%90%8E%E5%8F%B0%E6%83%8A%E8%89%B3%E6%95%91%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [华晨宇发挥](https://www.baidu.com/s?wd=%E5%8D%8E%E6%99%A8%E5%AE%87%E5%8F%91%E6%8C%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
