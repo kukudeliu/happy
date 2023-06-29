@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 20:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 20:06:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [暮色心约 空降](https://s.weibo.com/weibo?q=%E6%9A%AE%E8%89%B2%E5%BF%83%E7%BA%A6%20%E7%A9%BA%E9%99%8D&t=31&band_rank=6&Refer=top)<br />
 7. [关晓彤帽子P掉了鹿晗品牌](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E5%B8%BD%E5%AD%90P%E6%8E%89%E4%BA%86%E9%B9%BF%E6%99%97%E5%93%81%E7%89%8C%23&t=31&band_rank=7&Refer=top)<br />
 8. [LV帆布袋已被炒至700元](https://s.weibo.com/weibo?q=%23LV%E5%B8%86%E5%B8%83%E8%A2%8B%E5%B7%B2%E8%A2%AB%E7%82%92%E8%87%B3700%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [中国科大宿舍拎包入住](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%A4%A7%E5%AE%BF%E8%88%8D%E6%8B%8E%E5%8C%85%E5%85%A5%E4%BD%8F%23&t=31&band_rank=9&Refer=top)<br />
+9. [顶尖ad](https://s.weibo.com/weibo?q=%E9%A1%B6%E5%B0%96ad&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -18,8 +18,8 @@
 2. [如何看待高级动卧票价一站 8 分钟 420 元，系二等座 70 倍？短途出行你会选高级动卧吗？](https://www.zhihu.com/question/609342725)<br />
 3. [拜登再次就俄罗斯「瓦格纳事件」表态，但口误称「普京正输掉伊拉克战争」，如何看待美方表态？](https://www.zhihu.com/question/609352184)<br />
 4. [上海卫健委称「网传『仁济医院医生嫖娼、科室组织卖淫』不实，已报警」，如何看待此谣言？](https://www.zhihu.com/question/609373690)<br />
-5. [胡锡进炒股第三天，称「整个账户绿了，又转入了 10 万元，求股友们鼓励」，如何看待此事？](https://www.zhihu.com/question/609352970)<br />
-6. [每天给你 100 万（考虑通胀还会增加）和全世界的狗和猫都听从并且只听从于你，你怎么选？](https://www.zhihu.com/question/606648178)<br />
+5. [每天给你 100 万（考虑通胀还会增加）和全世界的狗和猫都听从并且只听从于你，你怎么选？](https://www.zhihu.com/question/606648178)<br />
+6. [胡锡进炒股第三天，称「整个账户绿了，又转入了 10 万元，求股友们鼓励」，如何看待此事？](https://www.zhihu.com/question/609352970)<br />
 7. [人体能扛得住以 140-180KM/h 的速度被抛出去并撞在钢铁护栏上的冲量吗？](https://www.zhihu.com/question/602955496)<br />
 8. [欧盟考虑遮挡太阳以阻止全球变暖，专家称「这可能造成不可预见的副作用」，哪些信息值得关注？](https://www.zhihu.com/question/609213930)<br />
 9. [贵州村超举办地榕江 38 万人有 5 万人踢球，全县标准足球场 14 块免费开放，哪些信息值得关注？](https://www.zhihu.com/question/609367220)<br />
