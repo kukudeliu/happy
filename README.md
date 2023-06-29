@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 18:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 18:05:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [山东龙凤四胞胎同圆大学梦](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E9%BE%99%E5%87%A4%E5%9B%9B%E8%83%9E%E8%83%8E%E5%90%8C%E5%9C%86%E5%A4%A7%E5%AD%A6%E6%A2%A6%23&t=31&band_rank=5&Refer=top)<br />
 6. [关晓彤帽子P掉了鹿晗品牌](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E5%B8%BD%E5%AD%90P%E6%8E%89%E4%BA%86%E9%B9%BF%E6%99%97%E5%93%81%E7%89%8C%23&t=31&band_rank=6&Refer=top)<br />
 7. [袁姗姗一期节目落了五次水](https://s.weibo.com/weibo?q=%23%E8%A2%81%E5%A7%97%E5%A7%97%E4%B8%80%E6%9C%9F%E8%8A%82%E7%9B%AE%E8%90%BD%E4%BA%86%E4%BA%94%E6%AC%A1%E6%B0%B4%23&t=31&band_rank=7&Refer=top)<br />
-8. [Angelababy宋威龙GQ合照](https://s.weibo.com/weibo?q=%23Angelababy%E5%AE%8B%E5%A8%81%E9%BE%99GQ%E5%90%88%E7%85%A7%23&t=31&band_rank=8&Refer=top)<br />
-9. [LV帆布袋已被炒至700元](https://s.weibo.com/weibo?q=%23LV%E5%B8%86%E5%B8%83%E8%A2%8B%E5%B7%B2%E8%A2%AB%E7%82%92%E8%87%B3700%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
+8. [中国科大宿舍拎包入住](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%A4%A7%E5%AE%BF%E8%88%8D%E6%8B%8E%E5%8C%85%E5%85%A5%E4%BD%8F%23&t=31&band_rank=8&Refer=top)<br />
+9. [Angelababy宋威龙GQ合照](https://s.weibo.com/weibo?q=%23Angelababy%E5%AE%8B%E5%A8%81%E9%BE%99GQ%E5%90%88%E7%85%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
