@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 01:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 01:48:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [LPL大瓜](https://s.weibo.com/weibo?q=LPL%E5%A4%A7%E7%93%9C&t=31&band_rank=6&Refer=top)<br />
 7. [章子怡压轴](https://s.weibo.com/weibo?q=%E7%AB%A0%E5%AD%90%E6%80%A1%E5%8E%8B%E8%BD%B4&t=31&band_rank=7&Refer=top)<br />
 8. [去故宫的时候一定要抬头](https://s.weibo.com/weibo?q=%E5%8E%BB%E6%95%85%E5%AE%AB%E7%9A%84%E6%97%B6%E5%80%99%E4%B8%80%E5%AE%9A%E8%A6%81%E6%8A%AC%E5%A4%B4&t=31&band_rank=8&Refer=top)<br />
-9. [为什么火锅价格越来越贵了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E7%81%AB%E9%94%85%E4%BB%B7%E6%A0%BC%E8%B6%8A%E6%9D%A5%E8%B6%8A%E8%B4%B5%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [学霸情侣本科毕业齐直博被校长写进致辞](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E9%9C%B8%E6%83%85%E4%BE%A3%E6%9C%AC%E7%A7%91%E6%AF%95%E4%B8%9A%E9%BD%90%E7%9B%B4%E5%8D%9A%E8%A2%AB%E6%A0%A1%E9%95%BF%E5%86%99%E8%BF%9B%E8%87%B4%E8%BE%9E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -32,9 +32,9 @@
 4. [点亮科学之光](https://www.baidu.com/s?wd=%E7%82%B9%E4%BA%AE%E7%A7%91%E5%AD%A6%E4%B9%8B%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [载客18人中巴被落石砸中 6人遇难](https://www.baidu.com/s?wd=%E8%BD%BD%E5%AE%A218%E4%BA%BA%E4%B8%AD%E5%B7%B4%E8%A2%AB%E8%90%BD%E7%9F%B3%E7%A0%B8%E4%B8%AD+6%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [武警部队5人晋升少将警衔](https://www.baidu.com/s?wd=%E6%AD%A6%E8%AD%A6%E9%83%A8%E9%98%9F5%E4%BA%BA%E6%99%8B%E5%8D%87%E5%B0%91%E5%B0%86%E8%AD%A6%E8%A1%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [乌克兰或成首个废除现金国家](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%96%E6%88%90%E9%A6%96%E4%B8%AA%E5%BA%9F%E9%99%A4%E7%8E%B0%E9%87%91%E5%9B%BD%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [戏曲演员话筒故障男孩后台惊艳救场](https://www.baidu.com/s?wd=%E6%88%8F%E6%9B%B2%E6%BC%94%E5%91%98%E8%AF%9D%E7%AD%92%E6%95%85%E9%9A%9C%E7%94%B7%E5%AD%A9%E5%90%8E%E5%8F%B0%E6%83%8A%E8%89%B3%E6%95%91%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [肖战真唱](https://www.baidu.com/s?wd=%E8%82%96%E6%88%98%E7%9C%9F%E5%94%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [肖战真唱](https://www.baidu.com/s?wd=%E8%82%96%E6%88%98%E7%9C%9F%E5%94%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [乌克兰或成首个废除现金国家](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%96%E6%88%90%E9%A6%96%E4%B8%AA%E5%BA%9F%E9%99%A4%E7%8E%B0%E9%87%91%E5%9B%BD%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [戏曲演员话筒故障男孩后台惊艳救场](https://www.baidu.com/s?wd=%E6%88%8F%E6%9B%B2%E6%BC%94%E5%91%98%E8%AF%9D%E7%AD%92%E6%95%85%E9%9A%9C%E7%94%B7%E5%AD%A9%E5%90%8E%E5%8F%B0%E6%83%8A%E8%89%B3%E6%95%91%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [点亮科学之光](https://www.baidu.com/s?wd=%E7%82%B9%E4%BA%AE%E7%A7%91%E5%AD%A6%E4%B9%8B%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [载客18人中巴被落石砸中 6人遇难](https://www.baidu.com/s?wd=%E8%BD%BD%E5%AE%A218%E4%BA%BA%E4%B8%AD%E5%B7%B4%E8%A2%AB%E8%90%BD%E7%9F%B3%E7%A0%B8%E4%B8%AD+6%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [武警部队5人晋升少将警衔](https://www.baidu.com/s?wd=%E6%AD%A6%E8%AD%A6%E9%83%A8%E9%98%9F5%E4%BA%BA%E6%99%8B%E5%8D%87%E5%B0%91%E5%B0%86%E8%AD%A6%E8%A1%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [乌克兰或成首个废除现金国家](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%96%E6%88%90%E9%A6%96%E4%B8%AA%E5%BA%9F%E9%99%A4%E7%8E%B0%E9%87%91%E5%9B%BD%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [戏曲演员话筒故障男孩后台惊艳救场](https://www.baidu.com/s?wd=%E6%88%8F%E6%9B%B2%E6%BC%94%E5%91%98%E8%AF%9D%E7%AD%92%E6%95%85%E9%9A%9C%E7%94%B7%E5%AD%A9%E5%90%8E%E5%8F%B0%E6%83%8A%E8%89%B3%E6%95%91%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [肖战真唱](https://www.baidu.com/s?wd=%E8%82%96%E6%88%98%E7%9C%9F%E5%94%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [肖战真唱](https://www.baidu.com/s?wd=%E8%82%96%E6%88%98%E7%9C%9F%E5%94%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [乌克兰或成首个废除现金国家](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%96%E6%88%90%E9%A6%96%E4%B8%AA%E5%BA%9F%E9%99%A4%E7%8E%B0%E9%87%91%E5%9B%BD%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [戏曲演员话筒故障男孩后台惊艳救场](https://www.baidu.com/s?wd=%E6%88%8F%E6%9B%B2%E6%BC%94%E5%91%98%E8%AF%9D%E7%AD%92%E6%95%85%E9%9A%9C%E7%94%B7%E5%AD%A9%E5%90%8E%E5%8F%B0%E6%83%8A%E8%89%B3%E6%95%91%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
