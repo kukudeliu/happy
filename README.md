@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 02:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 02:54:01</h4></div>
 
 > 微博  
 
@@ -31,10 +31,10 @@
 3. [网友称外滩夜景灯光太土 官方回应](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B0%E5%A4%96%E6%BB%A9%E5%A4%9C%E6%99%AF%E7%81%AF%E5%85%89%E5%A4%AA%E5%9C%9F+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [点亮科学之光](https://www.baidu.com/s?wd=%E7%82%B9%E4%BA%AE%E7%A7%91%E5%AD%A6%E4%B9%8B%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [载客18人中巴被落石砸中 6人遇难](https://www.baidu.com/s?wd=%E8%BD%BD%E5%AE%A218%E4%BA%BA%E4%B8%AD%E5%B7%B4%E8%A2%AB%E8%90%BD%E7%9F%B3%E7%A0%B8%E4%B8%AD+6%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [女生考入清华 父母凉菜摊3天打8.8折](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E8%80%83%E5%85%A5%E6%B8%85%E5%8D%8E+%E7%88%B6%E6%AF%8D%E5%87%89%E8%8F%9C%E6%91%8A3%E5%A4%A9%E6%89%938.8%E6%8A%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [印度一座桥梁在大风中坍塌](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E4%B8%80%E5%BA%A7%E6%A1%A5%E6%A2%81%E5%9C%A8%E5%A4%A7%E9%A3%8E%E4%B8%AD%E5%9D%8D%E5%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [戏曲演员话筒故障男孩后台惊艳救场](https://www.baidu.com/s?wd=%E6%88%8F%E6%9B%B2%E6%BC%94%E5%91%98%E8%AF%9D%E7%AD%92%E6%95%85%E9%9A%9C%E7%94%B7%E5%AD%A9%E5%90%8E%E5%8F%B0%E6%83%8A%E8%89%B3%E6%95%91%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [物理学家称可能发现外星飞船残骸](https://www.baidu.com/s?wd=%E7%89%A9%E7%90%86%E5%AD%A6%E5%AE%B6%E7%A7%B0%E5%8F%AF%E8%83%BD%E5%8F%91%E7%8E%B0%E5%A4%96%E6%98%9F%E9%A3%9E%E8%88%B9%E6%AE%8B%E9%AA%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [戏曲演员话筒故障男孩后台惊艳救场](https://www.baidu.com/s?wd=%E6%88%8F%E6%9B%B2%E6%BC%94%E5%91%98%E8%AF%9D%E7%AD%92%E6%95%85%E9%9A%9C%E7%94%B7%E5%AD%A9%E5%90%8E%E5%8F%B0%E6%83%8A%E8%89%B3%E6%95%91%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [物理学家称可能发现外星飞船残骸](https://www.baidu.com/s?wd=%E7%89%A9%E7%90%86%E5%AD%A6%E5%AE%B6%E7%A7%B0%E5%8F%AF%E8%83%BD%E5%8F%91%E7%8E%B0%E5%A4%96%E6%98%9F%E9%A3%9E%E8%88%B9%E6%AE%8B%E9%AA%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [月嫂烫伤1岁小孩被判赔40万元](https://www.baidu.com/s?wd=%E6%9C%88%E5%AB%82%E7%83%AB%E4%BC%A41%E5%B2%81%E5%B0%8F%E5%AD%A9%E8%A2%AB%E5%88%A4%E8%B5%9440%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [乌克兰或成首个废除现金国家](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%96%E6%88%90%E9%A6%96%E4%B8%AA%E5%BA%9F%E9%99%A4%E7%8E%B0%E9%87%91%E5%9B%BD%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [网友称外滩夜景灯光太土 官方回应](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B0%E5%A4%96%E6%BB%A9%E5%A4%9C%E6%99%AF%E7%81%AF%E5%85%89%E5%A4%AA%E5%9C%9F+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [点亮科学之光](https://www.baidu.com/s?wd=%E7%82%B9%E4%BA%AE%E7%A7%91%E5%AD%A6%E4%B9%8B%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [载客18人中巴被落石砸中 6人遇难](https://www.baidu.com/s?wd=%E8%BD%BD%E5%AE%A218%E4%BA%BA%E4%B8%AD%E5%B7%B4%E8%A2%AB%E8%90%BD%E7%9F%B3%E7%A0%B8%E4%B8%AD+6%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [女生考入清华 父母凉菜摊3天打8.8折](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E8%80%83%E5%85%A5%E6%B8%85%E5%8D%8E+%E7%88%B6%E6%AF%8D%E5%87%89%E8%8F%9C%E6%91%8A3%E5%A4%A9%E6%89%938.8%E6%8A%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [印度一座桥梁在大风中坍塌](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E4%B8%80%E5%BA%A7%E6%A1%A5%E6%A2%81%E5%9C%A8%E5%A4%A7%E9%A3%8E%E4%B8%AD%E5%9D%8D%E5%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [戏曲演员话筒故障男孩后台惊艳救场](https://www.baidu.com/s?wd=%E6%88%8F%E6%9B%B2%E6%BC%94%E5%91%98%E8%AF%9D%E7%AD%92%E6%95%85%E9%9A%9C%E7%94%B7%E5%AD%A9%E5%90%8E%E5%8F%B0%E6%83%8A%E8%89%B3%E6%95%91%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [物理学家称可能发现外星飞船残骸](https://www.baidu.com/s?wd=%E7%89%A9%E7%90%86%E5%AD%A6%E5%AE%B6%E7%A7%B0%E5%8F%AF%E8%83%BD%E5%8F%91%E7%8E%B0%E5%A4%96%E6%98%9F%E9%A3%9E%E8%88%B9%E6%AE%8B%E9%AA%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [戏曲演员话筒故障男孩后台惊艳救场](https://www.baidu.com/s?wd=%E6%88%8F%E6%9B%B2%E6%BC%94%E5%91%98%E8%AF%9D%E7%AD%92%E6%95%85%E9%9A%9C%E7%94%B7%E5%AD%A9%E5%90%8E%E5%8F%B0%E6%83%8A%E8%89%B3%E6%95%91%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [物理学家称可能发现外星飞船残骸](https://www.baidu.com/s?wd=%E7%89%A9%E7%90%86%E5%AD%A6%E5%AE%B6%E7%A7%B0%E5%8F%AF%E8%83%BD%E5%8F%91%E7%8E%B0%E5%A4%96%E6%98%9F%E9%A3%9E%E8%88%B9%E6%AE%8B%E9%AA%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [月嫂烫伤1岁小孩被判赔40万元](https://www.baidu.com/s?wd=%E6%9C%88%E5%AB%82%E7%83%AB%E4%BC%A41%E5%B2%81%E5%B0%8F%E5%AD%A9%E8%A2%AB%E5%88%A4%E8%B5%9440%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [乌克兰或成首个废除现金国家](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%96%E6%88%90%E9%A6%96%E4%B8%AA%E5%BA%9F%E9%99%A4%E7%8E%B0%E9%87%91%E5%9B%BD%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
