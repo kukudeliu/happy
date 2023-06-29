@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 16:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 16:53:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [姜广涛 开工](https://s.weibo.com/weibo?q=%E5%A7%9C%E5%B9%BF%E6%B6%9B%20%E5%BC%80%E5%B7%A5&t=31&band_rank=4&Refer=top)<br />
 5. [范玮琪 我家只有一张床](https://s.weibo.com/weibo?q=%E8%8C%83%E7%8E%AE%E7%90%AA%20%E6%88%91%E5%AE%B6%E5%8F%AA%E6%9C%89%E4%B8%80%E5%BC%A0%E5%BA%8A&t=31&band_rank=5&Refer=top)<br />
 6. [天官赐福](https://s.weibo.com/weibo?q=%E5%A4%A9%E5%AE%98%E8%B5%90%E7%A6%8F&t=31&band_rank=6&Refer=top)<br />
-7. [张睿谈被披哥节目组连拒四次](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%9D%BF%E8%B0%88%E8%A2%AB%E6%8A%AB%E5%93%A5%E8%8A%82%E7%9B%AE%E7%BB%84%E8%BF%9E%E6%8B%92%E5%9B%9B%E6%AC%A1%23&t=31&band_rank=7&Refer=top)<br />
-8. [学校承诺考上985奖30万未兑现被起诉](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E6%A0%A1%E6%89%BF%E8%AF%BA%E8%80%83%E4%B8%8A985%E5%A5%9630%E4%B8%87%E6%9C%AA%E5%85%91%E7%8E%B0%E8%A2%AB%E8%B5%B7%E8%AF%89%23&t=31&band_rank=8&Refer=top)<br />
-9. [黄婷婷与丝芭正式解约](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%A9%B7%E5%A9%B7%E4%B8%8E%E4%B8%9D%E8%8A%AD%E6%AD%A3%E5%BC%8F%E8%A7%A3%E7%BA%A6%23&t=31&band_rank=9&Refer=top)<br />
+7. [支付软件开始收费你还会用吗](https://s.weibo.com/weibo?q=%23%E6%94%AF%E4%BB%98%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%A7%8B%E6%94%B6%E8%B4%B9%E4%BD%A0%E8%BF%98%E4%BC%9A%E7%94%A8%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
+8. [张睿谈被披哥节目组连拒四次](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%9D%BF%E8%B0%88%E8%A2%AB%E6%8A%AB%E5%93%A5%E8%8A%82%E7%9B%AE%E7%BB%84%E8%BF%9E%E6%8B%92%E5%9B%9B%E6%AC%A1%23&t=31&band_rank=8&Refer=top)<br />
+9. [学校承诺考上985奖30万未兑现被起诉](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E6%A0%A1%E6%89%BF%E8%AF%BA%E8%80%83%E4%B8%8A985%E5%A5%9630%E4%B8%87%E6%9C%AA%E5%85%91%E7%8E%B0%E8%A2%AB%E8%B5%B7%E8%AF%89%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
