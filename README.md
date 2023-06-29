@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 16:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 16:20:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [张睿谈被披哥节目组连拒四次](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%9D%BF%E8%B0%88%E8%A2%AB%E6%8A%AB%E5%93%A5%E8%8A%82%E7%9B%AE%E7%BB%84%E8%BF%9E%E6%8B%92%E5%9B%9B%E6%AC%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [黄婷婷与丝芭正式解约](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%A9%B7%E5%A9%B7%E4%B8%8E%E4%B8%9D%E8%8A%AD%E6%AD%A3%E5%BC%8F%E8%A7%A3%E7%BA%A6%23&t=31&band_rank=7&Refer=top)<br />
 8. [仁济医院已报警](https://s.weibo.com/weibo?q=%23%E4%BB%81%E6%B5%8E%E5%8C%BB%E9%99%A2%E5%B7%B2%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=8&Refer=top)<br />
-9. [时代峰峻回应TF三代吵架](https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E5%9B%9E%E5%BA%94TF%E4%B8%89%E4%BB%A3%E5%90%B5%E6%9E%B6%23&t=31&band_rank=9&Refer=top)<br />
+9. [天官赐福](https://s.weibo.com/weibo?q=%E5%A4%A9%E5%AE%98%E8%B5%90%E7%A6%8F&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -28,7 +28,7 @@
 
 1. [为奋进新征程凝心聚力](https://www.baidu.com/s?wd=%E4%B8%BA%E5%A5%8B%E8%BF%9B%E6%96%B0%E5%BE%81%E7%A8%8B%E5%87%9D%E5%BF%83%E8%81%9A%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [多家高校下月起停用微信支付](https://www.baidu.com/s?wd=%E5%A4%9A%E5%AE%B6%E9%AB%98%E6%A0%A1%E4%B8%8B%E6%9C%88%E8%B5%B7%E5%81%9C%E7%94%A8%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [甘肃350亿氢能项目招标方竟是假国企](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83350%E4%BA%BF%E6%B0%A2%E8%83%BD%E9%A1%B9%E7%9B%AE%E6%8B%9B%E6%A0%87%E6%96%B9%E7%AB%9F%E6%98%AF%E5%81%87%E5%9B%BD%E4%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [范玮琪说相信丈夫是个正直的人](https://www.baidu.com/s?wd=%E8%8C%83%E7%8E%AE%E7%90%AA%E8%AF%B4%E7%9B%B8%E4%BF%A1%E4%B8%88%E5%A4%AB%E6%98%AF%E4%B8%AA%E6%AD%A3%E7%9B%B4%E7%9A%84%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [设立全国生态日意义深远](https://www.baidu.com/s?wd=%E8%AE%BE%E7%AB%8B%E5%85%A8%E5%9B%BD%E7%94%9F%E6%80%81%E6%97%A5%E6%84%8F%E4%B9%89%E6%B7%B1%E8%BF%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [姜广涛晒工作照片宣布“开工”](https://www.baidu.com/s?wd=%E5%A7%9C%E5%B9%BF%E6%B6%9B%E6%99%92%E5%B7%A5%E4%BD%9C%E7%85%A7%E7%89%87%E5%AE%A3%E5%B8%83%E2%80%9C%E5%BC%80%E5%B7%A5%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [腾讯回应微信支付被多所高校停用](https://www.baidu.com/s?wd=%E8%85%BE%E8%AE%AF%E5%9B%9E%E5%BA%94%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98%E8%A2%AB%E5%A4%9A%E6%89%80%E9%AB%98%E6%A0%A1%E5%81%9C%E7%94%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -40,7 +40,7 @@
 
 1. [为奋进新征程凝心聚力](https://www.baidu.com/s?wd=%E4%B8%BA%E5%A5%8B%E8%BF%9B%E6%96%B0%E5%BE%81%E7%A8%8B%E5%87%9D%E5%BF%83%E8%81%9A%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [多家高校下月起停用微信支付](https://www.baidu.com/s?wd=%E5%A4%9A%E5%AE%B6%E9%AB%98%E6%A0%A1%E4%B8%8B%E6%9C%88%E8%B5%B7%E5%81%9C%E7%94%A8%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [甘肃350亿氢能项目招标方竟是假国企](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83350%E4%BA%BF%E6%B0%A2%E8%83%BD%E9%A1%B9%E7%9B%AE%E6%8B%9B%E6%A0%87%E6%96%B9%E7%AB%9F%E6%98%AF%E5%81%87%E5%9B%BD%E4%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [范玮琪说相信丈夫是个正直的人](https://www.baidu.com/s?wd=%E8%8C%83%E7%8E%AE%E7%90%AA%E8%AF%B4%E7%9B%B8%E4%BF%A1%E4%B8%88%E5%A4%AB%E6%98%AF%E4%B8%AA%E6%AD%A3%E7%9B%B4%E7%9A%84%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [设立全国生态日意义深远](https://www.baidu.com/s?wd=%E8%AE%BE%E7%AB%8B%E5%85%A8%E5%9B%BD%E7%94%9F%E6%80%81%E6%97%A5%E6%84%8F%E4%B9%89%E6%B7%B1%E8%BF%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [姜广涛晒工作照片宣布“开工”](https://www.baidu.com/s?wd=%E5%A7%9C%E5%B9%BF%E6%B6%9B%E6%99%92%E5%B7%A5%E4%BD%9C%E7%85%A7%E7%89%87%E5%AE%A3%E5%B8%83%E2%80%9C%E5%BC%80%E5%B7%A5%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [腾讯回应微信支付被多所高校停用](https://www.baidu.com/s?wd=%E8%85%BE%E8%AE%AF%E5%9B%9E%E5%BA%94%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98%E8%A2%AB%E5%A4%9A%E6%89%80%E9%AB%98%E6%A0%A1%E5%81%9C%E7%94%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
