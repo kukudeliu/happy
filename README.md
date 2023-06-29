@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 10:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 10:11:01</h4></div>
 
 > 微博  
 
@@ -19,10 +19,10 @@
 3. [为什么《疾速追杀 4》中基努·里维斯动作戏看着吃力、踉踉跄跄？](https://www.zhihu.com/question/607986724)<br />
 4. [请问这样的字（准高三生写的）适合用来参加高考吗？](https://www.zhihu.com/question/602274661)<br />
 5. [鲍威尔表示美联储预计会出现更多的紧缩力量，并重申「多数决策者预计今年将再加息两次」，释放了什么信号？](https://www.zhihu.com/question/609288325)<br />
-6. [普通农民花十几万供孩子上了一个三本的意义是什么？](https://www.zhihu.com/question/601925776)<br />
-7. []()<br />
-8. [烦恼和痛苦的本质是什么？](https://www.zhihu.com/question/607957452)<br />
-9. [为什么那么多人执着于考公务员呢？](https://www.zhihu.com/question/595603265)<br />
+6. []()<br />
+7. [烦恼和痛苦的本质是什么？](https://www.zhihu.com/question/607957452)<br />
+8. [为什么那么多人执着于考公务员呢？](https://www.zhihu.com/question/595603265)<br />
+9. []()<br />
 
 > 百度  
 
