@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 20:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 20:03:02</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [2023年中国网络文明大会新闻发布会](https://s.weibo.com/weibo?q=%232023%E5%B9%B4%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E5%A4%A7%E4%BC%9A%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [湾区升明月](https://s.weibo.com/weibo?q=%E6%B9%BE%E5%8C%BA%E5%8D%87%E6%98%8E%E6%9C%88&t=31&band_rank=4&Refer=top)<br />
 5. [Ella自曝出道后被性骚扰](https://s.weibo.com/weibo?q=%23Ella%E8%87%AA%E6%9B%9D%E5%87%BA%E9%81%93%E5%90%8E%E8%A2%AB%E6%80%A7%E9%AA%9A%E6%89%B0%23&t=31&band_rank=5&Refer=top)<br />
-6. [中国科大宿舍拎包入住](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%A4%A7%E5%AE%BF%E8%88%8D%E6%8B%8E%E5%8C%85%E5%85%A5%E4%BD%8F%23&t=31&band_rank=6&Refer=top)<br />
-7. [暮色心约 空降](https://s.weibo.com/weibo?q=%E6%9A%AE%E8%89%B2%E5%BF%83%E7%BA%A6%20%E7%A9%BA%E9%99%8D&t=31&band_rank=7&Refer=top)<br />
-8. [关晓彤帽子P掉了鹿晗品牌](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E5%B8%BD%E5%AD%90P%E6%8E%89%E4%BA%86%E9%B9%BF%E6%99%97%E5%93%81%E7%89%8C%23&t=31&band_rank=8&Refer=top)<br />
-9. [青海6岁烧伤男孩千里转运成都](https://s.weibo.com/weibo?q=%23%E9%9D%92%E6%B5%B76%E5%B2%81%E7%83%A7%E4%BC%A4%E7%94%B7%E5%AD%A9%E5%8D%83%E9%87%8C%E8%BD%AC%E8%BF%90%E6%88%90%E9%83%BD%23&t=31&band_rank=9&Refer=top)<br />
+6. [暮色心约 空降](https://s.weibo.com/weibo?q=%E6%9A%AE%E8%89%B2%E5%BF%83%E7%BA%A6%20%E7%A9%BA%E9%99%8D&t=31&band_rank=6&Refer=top)<br />
+7. [关晓彤帽子P掉了鹿晗品牌](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E5%B8%BD%E5%AD%90P%E6%8E%89%E4%BA%86%E9%B9%BF%E6%99%97%E5%93%81%E7%89%8C%23&t=31&band_rank=7&Refer=top)<br />
+8. [LV帆布袋已被炒至700元](https://s.weibo.com/weibo?q=%23LV%E5%B8%86%E5%B8%83%E8%A2%8B%E5%B7%B2%E8%A2%AB%E7%82%92%E8%87%B3700%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
+9. [中国科大宿舍拎包入住](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%A4%A7%E5%AE%BF%E8%88%8D%E6%8B%8E%E5%8C%85%E5%85%A5%E4%BD%8F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -34,7 +34,7 @@
 6. [浙江26岁小伙月薪3千存下30万](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F26%E5%B2%81%E5%B0%8F%E4%BC%99%E6%9C%88%E8%96%AA3%E5%8D%83%E5%AD%98%E4%B8%8B30%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [12岁女孩被强奸起诉3宾馆索赔105万](https://www.baidu.com/s?wd=12%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%A2%AB%E5%BC%BA%E5%A5%B8%E8%B5%B7%E8%AF%893%E5%AE%BE%E9%A6%86%E7%B4%A2%E8%B5%94105%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [辛芷蕾自曝小时候曾遭遇轻微猥亵](https://www.baidu.com/s?wd=%E8%BE%9B%E8%8A%B7%E8%95%BE%E8%87%AA%E6%9B%9D%E5%B0%8F%E6%97%B6%E5%80%99%E6%9B%BE%E9%81%AD%E9%81%87%E8%BD%BB%E5%BE%AE%E7%8C%A5%E4%BA%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [#下一站大学#](https://www.baidu.com/s?wd=%23%E4%B8%8B%E4%B8%80%E7%AB%99%E5%A4%A7%E5%AD%A6%23&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [山西一铁矿至少瞒报17名矿工死亡](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E4%B8%80%E9%93%81%E7%9F%BF%E8%87%B3%E5%B0%91%E7%9E%92%E6%8A%A517%E5%90%8D%E7%9F%BF%E5%B7%A5%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [浙江26岁小伙月薪3千存下30万](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F26%E5%B2%81%E5%B0%8F%E4%BC%99%E6%9C%88%E8%96%AA3%E5%8D%83%E5%AD%98%E4%B8%8B30%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [12岁女孩被强奸起诉3宾馆索赔105万](https://www.baidu.com/s?wd=12%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%A2%AB%E5%BC%BA%E5%A5%B8%E8%B5%B7%E8%AF%893%E5%AE%BE%E9%A6%86%E7%B4%A2%E8%B5%94105%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [辛芷蕾自曝小时候曾遭遇轻微猥亵](https://www.baidu.com/s?wd=%E8%BE%9B%E8%8A%B7%E8%95%BE%E8%87%AA%E6%9B%9D%E5%B0%8F%E6%97%B6%E5%80%99%E6%9B%BE%E9%81%AD%E9%81%87%E8%BD%BB%E5%BE%AE%E7%8C%A5%E4%BA%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [#下一站大学#](https://www.baidu.com/s?wd=%23%E4%B8%8B%E4%B8%80%E7%AB%99%E5%A4%A7%E5%AD%A6%23&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [山西一铁矿至少瞒报17名矿工死亡](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E4%B8%80%E9%93%81%E7%9F%BF%E8%87%B3%E5%B0%91%E7%9E%92%E6%8A%A517%E5%90%8D%E7%9F%BF%E5%B7%A5%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
