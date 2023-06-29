@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 12:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 13:00:01</h4></div>
 
 > 微博  
 
@@ -10,18 +10,18 @@
 6. [王宝强圈内人缘](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%9D%E5%BC%BA%E5%9C%88%E5%86%85%E4%BA%BA%E7%BC%98%23&t=31&band_rank=6&Refer=top)<br />
 7. [曝陈建州在范玮琪孕期骚扰女艺人](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E9%99%88%E5%BB%BA%E5%B7%9E%E5%9C%A8%E8%8C%83%E7%8E%AE%E7%90%AA%E5%AD%95%E6%9C%9F%E9%AA%9A%E6%89%B0%E5%A5%B3%E8%89%BA%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [港媒曝郑欣宜失踪原因](https://s.weibo.com/weibo?q=%23%E6%B8%AF%E5%AA%92%E6%9B%9D%E9%83%91%E6%AC%A3%E5%AE%9C%E5%A4%B1%E8%B8%AA%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=8&Refer=top)<br />
-9. [被新加坡法律法规吓晕](https://s.weibo.com/weibo?q=%E8%A2%AB%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%B3%95%E5%BE%8B%E6%B3%95%E8%A7%84%E5%90%93%E6%99%95&t=31&band_rank=9&Refer=top)<br />
+9. [山西一男子杀害妻儿后跳河身亡](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E4%B8%80%E7%94%B7%E5%AD%90%E6%9D%80%E5%AE%B3%E5%A6%BB%E5%84%BF%E5%90%8E%E8%B7%B3%E6%B2%B3%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [广州二孩及以上家庭公积金贷款购房额上浮 30%，最高贷 130 万，节约利息 32 万，如何看待此举？](https://www.zhihu.com/question/609178796)<br />
 2. [泰坦号潜水器内爆残骸被运回岸上，残骸中发现「疑似人类遗骸」，哪些信息值得关注？](https://www.zhihu.com/question/609334039)<br />
 3. [苏东坡曾「日啖荔枝三百颗」，那他会上火吗？](https://www.zhihu.com/question/598568202)<br />
-4. [如何看待《成龙历险记》大结局?](https://www.zhihu.com/question/347103500)<br />
-5. [U19 世界杯，中国男篮 69:92 美国男篮止步 8 强，王浩然 20 分，如何评价本场比赛？](https://www.zhihu.com/question/609289219)<br />
+4. [U19 世界杯，中国男篮 69:92 美国男篮止步 8 强，王浩然 20 分，如何评价本场比赛？](https://www.zhihu.com/question/609289219)<br />
+5. [如何看待《成龙历险记》大结局?](https://www.zhihu.com/question/347103500)<br />
 6. [我忘记了笔记本电脑键盘禁用了，然后把电脑屏幕亮度调到了最低，现在屏幕看不见亮度也调不了了，怎么办？](https://www.zhihu.com/question/608618980)<br />
 7. [苹果 iPhone15 机型基本敲定，如何评价该产品？](https://www.zhihu.com/question/601025532)<br />
-8. []()<br />
+8. [如果让你在 50 万人民币和清华大学录取通知书二选一你会选哪个？](https://www.zhihu.com/question/607748095)<br />
 9. []()<br />
 
 > 百度  
