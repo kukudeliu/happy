@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 19:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 19:39:01</h4></div>
 
 > 微博  
 
@@ -32,8 +32,8 @@
 4. [减碳行动频“上新”](https://www.baidu.com/s?wd=%E5%87%8F%E7%A2%B3%E8%A1%8C%E5%8A%A8%E9%A2%91%E2%80%9C%E4%B8%8A%E6%96%B0%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [无糖可乐不能喝了？或含致癌物](https://www.baidu.com/s?wd=%E6%97%A0%E7%B3%96%E5%8F%AF%E4%B9%90%E4%B8%8D%E8%83%BD%E5%96%9D%E4%BA%86%EF%BC%9F%E6%88%96%E5%90%AB%E8%87%B4%E7%99%8C%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [12岁女孩被强奸起诉3宾馆索赔105万](https://www.baidu.com/s?wd=12%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%A2%AB%E5%BC%BA%E5%A5%B8%E8%B5%B7%E8%AF%893%E5%AE%BE%E9%A6%86%E7%B4%A2%E8%B5%94105%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [山西一铁矿至少瞒报17名矿工死亡](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E4%B8%80%E9%93%81%E7%9F%BF%E8%87%B3%E5%B0%91%E7%9E%92%E6%8A%A517%E5%90%8D%E7%9F%BF%E5%B7%A5%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [辛芷蕾自曝小时候曾遭遇轻微猥亵](https://www.baidu.com/s?wd=%E8%BE%9B%E8%8A%B7%E8%95%BE%E8%87%AA%E6%9B%9D%E5%B0%8F%E6%97%B6%E5%80%99%E6%9B%BE%E9%81%AD%E9%81%87%E8%BD%BB%E5%BE%AE%E7%8C%A5%E4%BA%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [印度一座桥梁在大风中坍塌](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E4%B8%80%E5%BA%A7%E6%A1%A5%E6%A2%81%E5%9C%A8%E5%A4%A7%E9%A3%8E%E4%B8%AD%E5%9D%8D%E5%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [山西一铁矿至少瞒报17名矿工死亡](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E4%B8%80%E9%93%81%E7%9F%BF%E8%87%B3%E5%B0%91%E7%9E%92%E6%8A%A517%E5%90%8D%E7%9F%BF%E5%B7%A5%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [#下一站大学#](https://www.baidu.com/s?wd=%23%E4%B8%8B%E4%B8%80%E7%AB%99%E5%A4%A7%E5%AD%A6%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -44,6 +44,6 @@
 4. [减碳行动频“上新”](https://www.baidu.com/s?wd=%E5%87%8F%E7%A2%B3%E8%A1%8C%E5%8A%A8%E9%A2%91%E2%80%9C%E4%B8%8A%E6%96%B0%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [无糖可乐不能喝了？或含致癌物](https://www.baidu.com/s?wd=%E6%97%A0%E7%B3%96%E5%8F%AF%E4%B9%90%E4%B8%8D%E8%83%BD%E5%96%9D%E4%BA%86%EF%BC%9F%E6%88%96%E5%90%AB%E8%87%B4%E7%99%8C%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [12岁女孩被强奸起诉3宾馆索赔105万](https://www.baidu.com/s?wd=12%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%A2%AB%E5%BC%BA%E5%A5%B8%E8%B5%B7%E8%AF%893%E5%AE%BE%E9%A6%86%E7%B4%A2%E8%B5%94105%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [山西一铁矿至少瞒报17名矿工死亡](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E4%B8%80%E9%93%81%E7%9F%BF%E8%87%B3%E5%B0%91%E7%9E%92%E6%8A%A517%E5%90%8D%E7%9F%BF%E5%B7%A5%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [辛芷蕾自曝小时候曾遭遇轻微猥亵](https://www.baidu.com/s?wd=%E8%BE%9B%E8%8A%B7%E8%95%BE%E8%87%AA%E6%9B%9D%E5%B0%8F%E6%97%B6%E5%80%99%E6%9B%BE%E9%81%AD%E9%81%87%E8%BD%BB%E5%BE%AE%E7%8C%A5%E4%BA%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [印度一座桥梁在大风中坍塌](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E4%B8%80%E5%BA%A7%E6%A1%A5%E6%A2%81%E5%9C%A8%E5%A4%A7%E9%A3%8E%E4%B8%AD%E5%9D%8D%E5%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [山西一铁矿至少瞒报17名矿工死亡](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E4%B8%80%E9%93%81%E7%9F%BF%E8%87%B3%E5%B0%91%E7%9E%92%E6%8A%A517%E5%90%8D%E7%9F%BF%E5%B7%A5%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [#下一站大学#](https://www.baidu.com/s?wd=%23%E4%B8%8B%E4%B8%80%E7%AB%99%E5%A4%A7%E5%AD%A6%23&sa=fyb_news&rsv_dl=fyb_news)<br />
