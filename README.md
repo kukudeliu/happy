@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 10:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 10:14:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [成都大运会边看边玩攻略](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%A4%A7%E8%BF%90%E4%BC%9A%E8%BE%B9%E7%9C%8B%E8%BE%B9%E7%8E%A9%E6%94%BB%E7%95%A5%23&t=31&band_rank=3&Refer=top)<br />
 4. [私拆女儿档案的母亲道歉](https://s.weibo.com/weibo?q=%23%E7%A7%81%E6%8B%86%E5%A5%B3%E5%84%BF%E6%A1%A3%E6%A1%88%E7%9A%84%E6%AF%8D%E4%BA%B2%E9%81%93%E6%AD%89%23&t=31&band_rank=4&Refer=top)<br />
 5. [泰坦号潜水器残骸中发现疑似人类遗骸](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9D%A6%E5%8F%B7%E6%BD%9C%E6%B0%B4%E5%99%A8%E6%AE%8B%E9%AA%B8%E4%B8%AD%E5%8F%91%E7%8E%B0%E7%96%91%E4%BC%BC%E4%BA%BA%E7%B1%BB%E9%81%97%E9%AA%B8%23&t=31&band_rank=5&Refer=top)<br />
-6. [肖战王一博今晚见](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%8E%8B%E4%B8%80%E5%8D%9A%E4%BB%8A%E6%99%9A%E8%A7%81%23&t=31&band_rank=6&Refer=top)<br />
+6. [12306回应高级动卧乘坐一站8分钟420元](https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E9%AB%98%E7%BA%A7%E5%8A%A8%E5%8D%A7%E4%B9%98%E5%9D%90%E4%B8%80%E7%AB%998%E5%88%86%E9%92%9F420%E5%85%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [拜登使用呼吸机治疗睡眠呼吸暂停](https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E4%BD%BF%E7%94%A8%E5%91%BC%E5%90%B8%E6%9C%BA%E6%B2%BB%E7%96%97%E7%9D%A1%E7%9C%A0%E5%91%BC%E5%90%B8%E6%9A%82%E5%81%9C%23&t=31&band_rank=7&Refer=top)<br />
-8. [12306回应高级动卧乘坐一站8分钟420元](https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E9%AB%98%E7%BA%A7%E5%8A%A8%E5%8D%A7%E4%B9%98%E5%9D%90%E4%B8%80%E7%AB%998%E5%88%86%E9%92%9F420%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
+8. [肖战王一博今晚见](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%8E%8B%E4%B8%80%E5%8D%9A%E4%BB%8A%E6%99%9A%E8%A7%81%23&t=31&band_rank=8&Refer=top)<br />
 9. [曝陈建州在范玮琪孕期骚扰女艺人](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E9%99%88%E5%BB%BA%E5%B7%9E%E5%9C%A8%E8%8C%83%E7%8E%AE%E7%90%AA%E5%AD%95%E6%9C%9F%E9%AA%9A%E6%89%B0%E5%A5%B3%E8%89%BA%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -20,8 +20,8 @@
 4. [鲍威尔表示美联储预计会出现更多的紧缩力量，并重申「多数决策者预计今年将再加息两次」，释放了什么信号？](https://www.zhihu.com/question/609288325)<br />
 5. []()<br />
 6. [广州二孩及以上家庭公积金贷款购房额上浮 30%，最高贷 130 万，节约利息 32 万，如何看待此举？](https://www.zhihu.com/question/609178796)<br />
-7. [假如存在 III 级外星文明，为什么他们一直不发动宇宙战争？](https://www.zhihu.com/question/290849728)<br />
-8. [为什么那么多人执着于考公务员呢？](https://www.zhihu.com/question/595603265)<br />
+7. [为什么那么多人执着于考公务员呢？](https://www.zhihu.com/question/595603265)<br />
+8. []()<br />
 9. []()<br />
 
 > 百度  
