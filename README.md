@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 05:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 05:45:01</h4></div>
 
 > 微博  
 
@@ -19,10 +19,10 @@
 3. [专家认为「中国老百姓存款多恰恰是因为没钱，建议推行全民公费育儿等措施」，如何看待这一观点？](https://www.zhihu.com/question/609390380)<br />
 4. [上海学区房最强阵地失守，两年内从近 15 万跌到 10 万，曾经一周涨 39.4%，哪些信息值得关注？](https://www.zhihu.com/question/609355451)<br />
 5. [一个人最根本的能力到底是什么？](https://www.zhihu.com/question/563874394)<br />
-6. [有没有高质量的书籍推荐？](https://www.zhihu.com/question/458685685)<br />
-7. [如何评价央视 6 频道 6 月 29 日播出的《湾区升明月》晚会？](https://www.zhihu.com/question/609467276)<br />
+6. [如何评价央视 6 频道 6 月 29 日播出的《湾区升明月》晚会？](https://www.zhihu.com/question/609467276)<br />
+7. [有没有高质量的书籍推荐？](https://www.zhihu.com/question/458685685)<br />
 8. []()<br />
-9. [为什么电影每秒播放的帧数一直停留在 24 帧而不继续向更高的帧数发展？](https://www.zhihu.com/question/281685561)<br />
+9. [每天给你 100 万（考虑通胀还会增加）和全世界的狗和猫都听从并且只听从于你，你怎么选？](https://www.zhihu.com/question/606648178)<br />
 
 > 百度  
 
