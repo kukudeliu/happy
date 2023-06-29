@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 05:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 05:04:01</h4></div>
 
 > 微博  
 
@@ -31,9 +31,9 @@
 3. [网友称外滩夜景灯光太土 官方回应](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B0%E5%A4%96%E6%BB%A9%E5%A4%9C%E6%99%AF%E7%81%AF%E5%85%89%E5%A4%AA%E5%9C%9F+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [点亮科学之光](https://www.baidu.com/s?wd=%E7%82%B9%E4%BA%AE%E7%A7%91%E5%AD%A6%E4%B9%8B%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [载客18人中巴被落石砸中 6人遇难](https://www.baidu.com/s?wd=%E8%BD%BD%E5%AE%A218%E4%BA%BA%E4%B8%AD%E5%B7%B4%E8%A2%AB%E8%90%BD%E7%9F%B3%E7%A0%B8%E4%B8%AD+6%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [浙江不明飞行物冲破云层快速下坠](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9%E5%86%B2%E7%A0%B4%E4%BA%91%E5%B1%82%E5%BF%AB%E9%80%9F%E4%B8%8B%E5%9D%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [无糖可乐不能喝了？或含致癌物](https://www.baidu.com/s?wd=%E6%97%A0%E7%B3%96%E5%8F%AF%E4%B9%90%E4%B8%8D%E8%83%BD%E5%96%9D%E4%BA%86%EF%BC%9F%E6%88%96%E5%90%AB%E8%87%B4%E7%99%8C%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女生考入清华 父母凉菜摊3天打8.8折](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E8%80%83%E5%85%A5%E6%B8%85%E5%8D%8E+%E7%88%B6%E6%AF%8D%E5%87%89%E8%8F%9C%E6%91%8A3%E5%A4%A9%E6%89%938.8%E6%8A%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [无糖可乐不能喝了？或含致癌物](https://www.baidu.com/s?wd=%E6%97%A0%E7%B3%96%E5%8F%AF%E4%B9%90%E4%B8%8D%E8%83%BD%E5%96%9D%E4%BA%86%EF%BC%9F%E6%88%96%E5%90%AB%E8%87%B4%E7%99%8C%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [武警部队5人晋升少将警衔](https://www.baidu.com/s?wd=%E6%AD%A6%E8%AD%A6%E9%83%A8%E9%98%9F5%E4%BA%BA%E6%99%8B%E5%8D%87%E5%B0%91%E5%B0%86%E8%AD%A6%E8%A1%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [浙江不明飞行物冲破云层快速下坠](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9%E5%86%B2%E7%A0%B4%E4%BA%91%E5%B1%82%E5%BF%AB%E9%80%9F%E4%B8%8B%E5%9D%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方介入调查山西矿山瞒报死亡人数](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E4%BB%8B%E5%85%A5%E8%B0%83%E6%9F%A5%E5%B1%B1%E8%A5%BF%E7%9F%BF%E5%B1%B1%E7%9E%92%E6%8A%A5%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -43,7 +43,7 @@
 3. [网友称外滩夜景灯光太土 官方回应](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B0%E5%A4%96%E6%BB%A9%E5%A4%9C%E6%99%AF%E7%81%AF%E5%85%89%E5%A4%AA%E5%9C%9F+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [点亮科学之光](https://www.baidu.com/s?wd=%E7%82%B9%E4%BA%AE%E7%A7%91%E5%AD%A6%E4%B9%8B%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [载客18人中巴被落石砸中 6人遇难](https://www.baidu.com/s?wd=%E8%BD%BD%E5%AE%A218%E4%BA%BA%E4%B8%AD%E5%B7%B4%E8%A2%AB%E8%90%BD%E7%9F%B3%E7%A0%B8%E4%B8%AD+6%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [浙江不明飞行物冲破云层快速下坠](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9%E5%86%B2%E7%A0%B4%E4%BA%91%E5%B1%82%E5%BF%AB%E9%80%9F%E4%B8%8B%E5%9D%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [无糖可乐不能喝了？或含致癌物](https://www.baidu.com/s?wd=%E6%97%A0%E7%B3%96%E5%8F%AF%E4%B9%90%E4%B8%8D%E8%83%BD%E5%96%9D%E4%BA%86%EF%BC%9F%E6%88%96%E5%90%AB%E8%87%B4%E7%99%8C%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女生考入清华 父母凉菜摊3天打8.8折](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E8%80%83%E5%85%A5%E6%B8%85%E5%8D%8E+%E7%88%B6%E6%AF%8D%E5%87%89%E8%8F%9C%E6%91%8A3%E5%A4%A9%E6%89%938.8%E6%8A%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [无糖可乐不能喝了？或含致癌物](https://www.baidu.com/s?wd=%E6%97%A0%E7%B3%96%E5%8F%AF%E4%B9%90%E4%B8%8D%E8%83%BD%E5%96%9D%E4%BA%86%EF%BC%9F%E6%88%96%E5%90%AB%E8%87%B4%E7%99%8C%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [武警部队5人晋升少将警衔](https://www.baidu.com/s?wd=%E6%AD%A6%E8%AD%A6%E9%83%A8%E9%98%9F5%E4%BA%BA%E6%99%8B%E5%8D%87%E5%B0%91%E5%B0%86%E8%AD%A6%E8%A1%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [浙江不明飞行物冲破云层快速下坠](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9%E5%86%B2%E7%A0%B4%E4%BA%91%E5%B1%82%E5%BF%AB%E9%80%9F%E4%B8%8B%E5%9D%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方介入调查山西矿山瞒报死亡人数](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E4%BB%8B%E5%85%A5%E8%B0%83%E6%9F%A5%E5%B1%B1%E8%A5%BF%E7%9F%BF%E5%B1%B1%E7%9E%92%E6%8A%A5%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
