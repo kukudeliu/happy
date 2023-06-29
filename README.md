@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 21:01:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 21:02:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [还得是成龙](https://s.weibo.com/weibo?q=%E8%BF%98%E5%BE%97%E6%98%AF%E6%88%90%E9%BE%99&t=31&band_rank=4&Refer=top)<br />
 5. [2023湾区升明月大湾区电影音乐晚会](https://s.weibo.com/weibo?q=%232023%E6%B9%BE%E5%8C%BA%E5%8D%87%E6%98%8E%E6%9C%88%E5%A4%A7%E6%B9%BE%E5%8C%BA%E7%94%B5%E5%BD%B1%E9%9F%B3%E4%B9%90%E6%99%9A%E4%BC%9A%23&t=31&band_rank=5&Refer=top)<br />
 6. [张柏芝美得我眼前一亮](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9F%8F%E8%8A%9D%E7%BE%8E%E5%BE%97%E6%88%91%E7%9C%BC%E5%89%8D%E4%B8%80%E4%BA%AE&t=31&band_rank=6&Refer=top)<br />
-7. [暮色心约 空降](https://s.weibo.com/weibo?q=%E6%9A%AE%E8%89%B2%E5%BF%83%E7%BA%A6%20%E7%A9%BA%E9%99%8D&t=31&band_rank=7&Refer=top)<br />
-8. [LV帆布袋已被炒至700元](https://s.weibo.com/weibo?q=%23LV%E5%B8%86%E5%B8%83%E8%A2%8B%E5%B7%B2%E8%A2%AB%E7%82%92%E8%87%B3700%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [顶尖ad](https://s.weibo.com/weibo?q=%E9%A1%B6%E5%B0%96ad&t=31&band_rank=9&Refer=top)<br />
+7. [LV帆布袋已被炒至700元](https://s.weibo.com/weibo?q=%23LV%E5%B8%86%E5%B8%83%E8%A2%8B%E5%B7%B2%E8%A2%AB%E7%82%92%E8%87%B3700%E5%85%83%23&t=31&band_rank=7&Refer=top)<br />
+8. [顶尖ad](https://s.weibo.com/weibo?q=%E9%A1%B6%E5%B0%96ad&t=31&band_rank=8&Refer=top)<br />
+9. [中国科大宿舍拎包入住](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%A4%A7%E5%AE%BF%E8%88%8D%E6%8B%8E%E5%8C%85%E5%85%A5%E4%BD%8F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [贵州村超举办地榕江 38 万人有 5 万人踢球，全县标准足球场 14 块免费开放，哪些信息值得关注？](https://www.zhihu.com/question/609367220)<br />
 7. [美团发布公告「已订立交易协议收购光年之外的全部权益」，将带来哪些影响？](https://www.zhihu.com/question/609420800)<br />
 8. [博主曝光山姆会员店售卖临期食品，你是如何看待临期食品的？](https://www.zhihu.com/question/609391770)<br />
-9. [拜登再次就俄罗斯「瓦格纳事件」表态，但口误称「普京正输掉伊拉克战争」，如何看待美方表态？](https://www.zhihu.com/question/609352184)<br />
+9. [欧盟考虑遮挡太阳以阻止全球变暖，专家称「这可能造成不可预见的副作用」，哪些信息值得关注？](https://www.zhihu.com/question/609213930)<br />
 
 > 百度  
 
