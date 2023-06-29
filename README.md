@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 17:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 17:57:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [阿斯巴甜 致癌](https://s.weibo.com/weibo?q=%E9%98%BF%E6%96%AF%E5%B7%B4%E7%94%9C%20%E8%87%B4%E7%99%8C&t=31&band_rank=2&Refer=top)<br />
 3. [2023年中国网络文明大会新闻发布会](https://s.weibo.com/weibo?q=%232023%E5%B9%B4%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E5%A4%A7%E4%BC%9A%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [姜广涛 开工](https://s.weibo.com/weibo?q=%E5%A7%9C%E5%B9%BF%E6%B6%9B%20%E5%BC%80%E5%B7%A5&t=31&band_rank=4&Refer=top)<br />
-5. [关晓彤帽子P掉了鹿晗品牌](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E5%B8%BD%E5%AD%90P%E6%8E%89%E4%BA%86%E9%B9%BF%E6%99%97%E5%93%81%E7%89%8C%23&t=31&band_rank=5&Refer=top)<br />
-6. [Angelababy宋威龙GQ合照](https://s.weibo.com/weibo?q=%23Angelababy%E5%AE%8B%E5%A8%81%E9%BE%99GQ%E5%90%88%E7%85%A7%23&t=31&band_rank=6&Refer=top)<br />
-7. [LV帆布袋已被炒至700元](https://s.weibo.com/weibo?q=%23LV%E5%B8%86%E5%B8%83%E8%A2%8B%E5%B7%B2%E8%A2%AB%E7%82%92%E8%87%B3700%E5%85%83%23&t=31&band_rank=7&Refer=top)<br />
-8. [袁姗姗一期节目落了五次水](https://s.weibo.com/weibo?q=%23%E8%A2%81%E5%A7%97%E5%A7%97%E4%B8%80%E6%9C%9F%E8%8A%82%E7%9B%AE%E8%90%BD%E4%BA%86%E4%BA%94%E6%AC%A1%E6%B0%B4%23&t=31&band_rank=8&Refer=top)<br />
-9. [多所高校停用微信支付](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%89%80%E9%AB%98%E6%A0%A1%E5%81%9C%E7%94%A8%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98%23&t=31&band_rank=9&Refer=top)<br />
+5. [民警送考的受伤女孩高考成绩过线啦](https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E9%80%81%E8%80%83%E7%9A%84%E5%8F%97%E4%BC%A4%E5%A5%B3%E5%AD%A9%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E8%BF%87%E7%BA%BF%E5%95%A6%23&t=31&band_rank=5&Refer=top)<br />
+6. [山东龙凤四胞胎同圆大学梦](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E9%BE%99%E5%87%A4%E5%9B%9B%E8%83%9E%E8%83%8E%E5%90%8C%E5%9C%86%E5%A4%A7%E5%AD%A6%E6%A2%A6%23&t=31&band_rank=6&Refer=top)<br />
+7. [关晓彤帽子P掉了鹿晗品牌](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E5%B8%BD%E5%AD%90P%E6%8E%89%E4%BA%86%E9%B9%BF%E6%99%97%E5%93%81%E7%89%8C%23&t=31&band_rank=7&Refer=top)<br />
+8. [Angelababy宋威龙GQ合照](https://s.weibo.com/weibo?q=%23Angelababy%E5%AE%8B%E5%A8%81%E9%BE%99GQ%E5%90%88%E7%85%A7%23&t=31&band_rank=8&Refer=top)<br />
+9. [袁姗姗一期节目落了五次水](https://s.weibo.com/weibo?q=%23%E8%A2%81%E5%A7%97%E5%A7%97%E4%B8%80%E6%9C%9F%E8%8A%82%E7%9B%AE%E8%90%BD%E4%BA%86%E4%BA%94%E6%AC%A1%E6%B0%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
