@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 01:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 01:26:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [为什么电影每秒播放的帧数一直停留在 24 帧而不继续向更高的帧数发展？](https://www.zhihu.com/question/281685561)<br />
 7. []()<br />
 8. [博主曝光山姆会员店售卖临期食品，你是如何看待临期食品的？](https://www.zhihu.com/question/609391770)<br />
-9. [2023 LPL 夏季赛 LNG 2:0 WE，如何评价这场比赛？](https://www.zhihu.com/question/609428545)<br />
+9. [电影《消失的她》中陈麦对李木子是什么样的感情？](https://www.zhihu.com/question/608467482)<br />
 
 > 百度  
 
