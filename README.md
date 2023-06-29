@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 07:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 07:20:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [有没有高质量的书籍推荐？](https://www.zhihu.com/question/458685685)<br />
 7. [经济学家朱少平称「社会别给年轻人必须要买房的压力，房贷会让他们更喘不上气」，如何评价此观点？](https://www.zhihu.com/question/609356792)<br />
 8. [《星球大战》里帝国士兵的白色铠甲不防弹，甚至手枪都不防，为什么还要全军配备？而且一直让士兵穿着？](https://www.zhihu.com/question/445290525)<br />
-9. [如何看待小鹏 G6 上市价格 20.99 万起？](https://www.zhihu.com/question/609476325)<br />
+9. [如何看待中科大 QS2024 排名跌出 top100 排第 138？](https://www.zhihu.com/question/609135032)<br />
 
 > 百度  
 
