@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 01:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 01:49:01</h4></div>
 
 > 微博  
 
@@ -31,10 +31,10 @@
 3. [网友称外滩夜景灯光太土 官方回应](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B0%E5%A4%96%E6%BB%A9%E5%A4%9C%E6%99%AF%E7%81%AF%E5%85%89%E5%A4%AA%E5%9C%9F+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [点亮科学之光](https://www.baidu.com/s?wd=%E7%82%B9%E4%BA%AE%E7%A7%91%E5%AD%A6%E4%B9%8B%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [载客18人中巴被落石砸中 6人遇难](https://www.baidu.com/s?wd=%E8%BD%BD%E5%AE%A218%E4%BA%BA%E4%B8%AD%E5%B7%B4%E8%A2%AB%E8%90%BD%E7%9F%B3%E7%A0%B8%E4%B8%AD+6%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [武警部队5人晋升少将警衔](https://www.baidu.com/s?wd=%E6%AD%A6%E8%AD%A6%E9%83%A8%E9%98%9F5%E4%BA%BA%E6%99%8B%E5%8D%87%E5%B0%91%E5%B0%86%E8%AD%A6%E8%A1%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [肖战真唱](https://www.baidu.com/s?wd=%E8%82%96%E6%88%98%E7%9C%9F%E5%94%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [乌克兰或成首个废除现金国家](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%96%E6%88%90%E9%A6%96%E4%B8%AA%E5%BA%9F%E9%99%A4%E7%8E%B0%E9%87%91%E5%9B%BD%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [戏曲演员话筒故障男孩后台惊艳救场](https://www.baidu.com/s?wd=%E6%88%8F%E6%9B%B2%E6%BC%94%E5%91%98%E8%AF%9D%E7%AD%92%E6%95%85%E9%9A%9C%E7%94%B7%E5%AD%A9%E5%90%8E%E5%8F%B0%E6%83%8A%E8%89%B3%E6%95%91%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [肖战真唱](https://www.baidu.com/s?wd=%E8%82%96%E6%88%98%E7%9C%9F%E5%94%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [学校称高考奖励系印刷错误](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E7%A7%B0%E9%AB%98%E8%80%83%E5%A5%96%E5%8A%B1%E7%B3%BB%E5%8D%B0%E5%88%B7%E9%94%99%E8%AF%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [传阿斯巴甜将被列为可能致癌物质](https://www.baidu.com/s?wd=%E4%BC%A0%E9%98%BF%E6%96%AF%E5%B7%B4%E7%94%9C%E5%B0%86%E8%A2%AB%E5%88%97%E4%B8%BA%E5%8F%AF%E8%83%BD%E8%87%B4%E7%99%8C%E7%89%A9%E8%B4%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [朱一龙回应自己立牌被打](https://www.baidu.com/s?wd=%E6%9C%B1%E4%B8%80%E9%BE%99%E5%9B%9E%E5%BA%94%E8%87%AA%E5%B7%B1%E7%AB%8B%E7%89%8C%E8%A2%AB%E6%89%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [网友称外滩夜景灯光太土 官方回应](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B0%E5%A4%96%E6%BB%A9%E5%A4%9C%E6%99%AF%E7%81%AF%E5%85%89%E5%A4%AA%E5%9C%9F+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [点亮科学之光](https://www.baidu.com/s?wd=%E7%82%B9%E4%BA%AE%E7%A7%91%E5%AD%A6%E4%B9%8B%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [载客18人中巴被落石砸中 6人遇难](https://www.baidu.com/s?wd=%E8%BD%BD%E5%AE%A218%E4%BA%BA%E4%B8%AD%E5%B7%B4%E8%A2%AB%E8%90%BD%E7%9F%B3%E7%A0%B8%E4%B8%AD+6%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [武警部队5人晋升少将警衔](https://www.baidu.com/s?wd=%E6%AD%A6%E8%AD%A6%E9%83%A8%E9%98%9F5%E4%BA%BA%E6%99%8B%E5%8D%87%E5%B0%91%E5%B0%86%E8%AD%A6%E8%A1%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [肖战真唱](https://www.baidu.com/s?wd=%E8%82%96%E6%88%98%E7%9C%9F%E5%94%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [乌克兰或成首个废除现金国家](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%96%E6%88%90%E9%A6%96%E4%B8%AA%E5%BA%9F%E9%99%A4%E7%8E%B0%E9%87%91%E5%9B%BD%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [戏曲演员话筒故障男孩后台惊艳救场](https://www.baidu.com/s?wd=%E6%88%8F%E6%9B%B2%E6%BC%94%E5%91%98%E8%AF%9D%E7%AD%92%E6%95%85%E9%9A%9C%E7%94%B7%E5%AD%A9%E5%90%8E%E5%8F%B0%E6%83%8A%E8%89%B3%E6%95%91%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [肖战真唱](https://www.baidu.com/s?wd=%E8%82%96%E6%88%98%E7%9C%9F%E5%94%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [学校称高考奖励系印刷错误](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E7%A7%B0%E9%AB%98%E8%80%83%E5%A5%96%E5%8A%B1%E7%B3%BB%E5%8D%B0%E5%88%B7%E9%94%99%E8%AF%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [传阿斯巴甜将被列为可能致癌物质](https://www.baidu.com/s?wd=%E4%BC%A0%E9%98%BF%E6%96%AF%E5%B7%B4%E7%94%9C%E5%B0%86%E8%A2%AB%E5%88%97%E4%B8%BA%E5%8F%AF%E8%83%BD%E8%87%B4%E7%99%8C%E7%89%A9%E8%B4%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [朱一龙回应自己立牌被打](https://www.baidu.com/s?wd=%E6%9C%B1%E4%B8%80%E9%BE%99%E5%9B%9E%E5%BA%94%E8%87%AA%E5%B7%B1%E7%AB%8B%E7%89%8C%E8%A2%AB%E6%89%93&sa=fyb_news&rsv_dl=fyb_news)<br />
