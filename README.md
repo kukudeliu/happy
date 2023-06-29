@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 22:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 22:10:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [张柏芝美得我眼前一亮](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9F%8F%E8%8A%9D%E7%BE%8E%E5%BE%97%E6%88%91%E7%9C%BC%E5%89%8D%E4%B8%80%E4%BA%AE&t=31&band_rank=5&Refer=top)<br />
 6. [港星赢得很彻底](https://s.weibo.com/weibo?q=%23%E6%B8%AF%E6%98%9F%E8%B5%A2%E5%BE%97%E5%BE%88%E5%BD%BB%E5%BA%95%23&t=31&band_rank=6&Refer=top)<br />
 7. [去故宫的时候一定要抬头](https://s.weibo.com/weibo?q=%E5%8E%BB%E6%95%85%E5%AE%AB%E7%9A%84%E6%97%B6%E5%80%99%E4%B8%80%E5%AE%9A%E8%A6%81%E6%8A%AC%E5%A4%B4&t=31&band_rank=7&Refer=top)<br />
-8. [LV帆布袋已被炒至700元](https://s.weibo.com/weibo?q=%23LV%E5%B8%86%E5%B8%83%E8%A2%8B%E5%B7%B2%E8%A2%AB%E7%82%92%E8%87%B3700%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [学霸情侣本科毕业齐直博被校长写进致辞](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E9%9C%B8%E6%83%85%E4%BE%A3%E6%9C%AC%E7%A7%91%E6%AF%95%E4%B8%9A%E9%BD%90%E7%9B%B4%E5%8D%9A%E8%A2%AB%E6%A0%A1%E9%95%BF%E5%86%99%E8%BF%9B%E8%87%B4%E8%BE%9E%23&t=31&band_rank=9&Refer=top)<br />
+8. [学霸情侣本科毕业齐直博被校长写进致辞](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E9%9C%B8%E6%83%85%E4%BE%A3%E6%9C%AC%E7%A7%91%E6%AF%95%E4%B8%9A%E9%BD%90%E7%9B%B4%E5%8D%9A%E8%A2%AB%E6%A0%A1%E9%95%BF%E5%86%99%E8%BF%9B%E8%87%B4%E8%BE%9E%23&t=31&band_rank=8&Refer=top)<br />
+9. [LV帆布袋已被炒至700元](https://s.weibo.com/weibo?q=%23LV%E5%B8%86%E5%B8%83%E8%A2%8B%E5%B7%B2%E8%A2%AB%E7%82%92%E8%87%B3700%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -33,7 +33,7 @@
 5. [载客18人中巴被落石砸中 6人遇难](https://www.baidu.com/s?wd=%E8%BD%BD%E5%AE%A218%E4%BA%BA%E4%B8%AD%E5%B7%B4%E8%A2%AB%E8%90%BD%E7%9F%B3%E7%A0%B8%E4%B8%AD+6%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [乌克兰或成首个废除现金国家](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%96%E6%88%90%E9%A6%96%E4%B8%AA%E5%BA%9F%E9%99%A4%E7%8E%B0%E9%87%91%E5%9B%BD%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [物理学家称可能发现外星飞船残骸](https://www.baidu.com/s?wd=%E7%89%A9%E7%90%86%E5%AD%A6%E5%AE%B6%E7%A7%B0%E5%8F%AF%E8%83%BD%E5%8F%91%E7%8E%B0%E5%A4%96%E6%98%9F%E9%A3%9E%E8%88%B9%E6%AE%8B%E9%AA%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [华晨宇发挥](https://www.baidu.com/s?wd=%E5%8D%8E%E6%99%A8%E5%AE%87%E5%8F%91%E6%8C%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [马斯克被曝患抑郁症 正使用药物治疗](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E8%A2%AB%E6%9B%9D%E6%82%A3%E6%8A%91%E9%83%81%E7%97%87+%E6%AD%A3%E4%BD%BF%E7%94%A8%E8%8D%AF%E7%89%A9%E6%B2%BB%E7%96%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [货车侧翻男子托举伤者近1小时](https://www.baidu.com/s?wd=%E8%B4%A7%E8%BD%A6%E4%BE%A7%E7%BF%BB%E7%94%B7%E5%AD%90%E6%89%98%E4%B8%BE%E4%BC%A4%E8%80%85%E8%BF%911%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [载客18人中巴被落石砸中 6人遇难](https://www.baidu.com/s?wd=%E8%BD%BD%E5%AE%A218%E4%BA%BA%E4%B8%AD%E5%B7%B4%E8%A2%AB%E8%90%BD%E7%9F%B3%E7%A0%B8%E4%B8%AD+6%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [乌克兰或成首个废除现金国家](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%96%E6%88%90%E9%A6%96%E4%B8%AA%E5%BA%9F%E9%99%A4%E7%8E%B0%E9%87%91%E5%9B%BD%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [物理学家称可能发现外星飞船残骸](https://www.baidu.com/s?wd=%E7%89%A9%E7%90%86%E5%AD%A6%E5%AE%B6%E7%A7%B0%E5%8F%AF%E8%83%BD%E5%8F%91%E7%8E%B0%E5%A4%96%E6%98%9F%E9%A3%9E%E8%88%B9%E6%AE%8B%E9%AA%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [华晨宇发挥](https://www.baidu.com/s?wd=%E5%8D%8E%E6%99%A8%E5%AE%87%E5%8F%91%E6%8C%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [马斯克被曝患抑郁症 正使用药物治疗](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E8%A2%AB%E6%9B%9D%E6%82%A3%E6%8A%91%E9%83%81%E7%97%87+%E6%AD%A3%E4%BD%BF%E7%94%A8%E8%8D%AF%E7%89%A9%E6%B2%BB%E7%96%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [货车侧翻男子托举伤者近1小时](https://www.baidu.com/s?wd=%E8%B4%A7%E8%BD%A6%E4%BE%A7%E7%BF%BB%E7%94%B7%E5%AD%90%E6%89%98%E4%B8%BE%E4%BC%A4%E8%80%85%E8%BF%911%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
