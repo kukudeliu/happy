@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 09:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 09:52:01</h4></div>
 
 > 微博  
 
@@ -16,13 +16,13 @@
 
 1. [网传清北每年 80% 学子出国，实际去年清华毕业生出国（境）深造比例为 7.1%，为何与真相差距这么大？](https://www.zhihu.com/question/609195242)<br />
 2. [假如存在 III 级外星文明，为什么他们一直不发动宇宙战争？](https://www.zhihu.com/question/290849728)<br />
-3. [安徽「抢教授话筒」学生被造谣高考失利，成绩 387 分，如何从法律角度进行解读？被造谣学生该如何维权？](https://www.zhihu.com/question/609124271)<br />
-4. [普通农民花十几万供孩子上了一个三本的意义是什么？](https://www.zhihu.com/question/601925776)<br />
-5. [请问这样的字（准高三生写的）适合用来参加高考吗？](https://www.zhihu.com/question/602274661)<br />
+3. [普通农民花十几万供孩子上了一个三本的意义是什么？](https://www.zhihu.com/question/601925776)<br />
+4. [请问这样的字（准高三生写的）适合用来参加高考吗？](https://www.zhihu.com/question/602274661)<br />
+5. []()<br />
 6. []()<br />
 7. []()<br />
-8. []()<br />
-9. [烦恼和痛苦的本质是什么？](https://www.zhihu.com/question/607957452)<br />
+8. [烦恼和痛苦的本质是什么？](https://www.zhihu.com/question/607957452)<br />
+9. []()<br />
 
 > 百度  
 
