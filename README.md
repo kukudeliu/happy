@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 20:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 20:49:01</h4></div>
 
 > 微博  
 
@@ -32,9 +32,9 @@
 4. [减碳行动频“上新”](https://www.baidu.com/s?wd=%E5%87%8F%E7%A2%B3%E8%A1%8C%E5%8A%A8%E9%A2%91%E2%80%9C%E4%B8%8A%E6%96%B0%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [无糖可乐不能喝了？或含致癌物](https://www.baidu.com/s?wd=%E6%97%A0%E7%B3%96%E5%8F%AF%E4%B9%90%E4%B8%8D%E8%83%BD%E5%96%9D%E4%BA%86%EF%BC%9F%E6%88%96%E5%90%AB%E8%87%B4%E7%99%8C%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [浙江26岁小伙月薪3千存下30万](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F26%E5%B2%81%E5%B0%8F%E4%BC%99%E6%9C%88%E8%96%AA3%E5%8D%83%E5%AD%98%E4%B8%8B30%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [河南一餐馆液化气爆炸 无人伤亡](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E9%A4%90%E9%A6%86%E6%B6%B2%E5%8C%96%E6%B0%94%E7%88%86%E7%82%B8+%E6%97%A0%E4%BA%BA%E4%BC%A4%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [母亲以女儿名义开公司反被偷转财产](https://www.baidu.com/s?wd=%E6%AF%8D%E4%BA%B2%E4%BB%A5%E5%A5%B3%E5%84%BF%E5%90%8D%E4%B9%89%E5%BC%80%E5%85%AC%E5%8F%B8%E5%8F%8D%E8%A2%AB%E5%81%B7%E8%BD%AC%E8%B4%A2%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [黑涩会美眉妖娇指控陈建州性骚扰](https://www.baidu.com/s?wd=%E9%BB%91%E6%B6%A9%E4%BC%9A%E7%BE%8E%E7%9C%89%E5%A6%96%E5%A8%87%E6%8C%87%E6%8E%A7%E9%99%88%E5%BB%BA%E5%B7%9E%E6%80%A7%E9%AA%9A%E6%89%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [印度一座桥梁在大风中坍塌](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E4%B8%80%E5%BA%A7%E6%A1%A5%E6%A2%81%E5%9C%A8%E5%A4%A7%E9%A3%8E%E4%B8%AD%E5%9D%8D%E5%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [乌克兰或成首个废除现金国家](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%96%E6%88%90%E9%A6%96%E4%B8%AA%E5%BA%9F%E9%99%A4%E7%8E%B0%E9%87%91%E5%9B%BD%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [传阿斯巴甜将被列为可能致癌物质](https://www.baidu.com/s?wd=%E4%BC%A0%E9%98%BF%E6%96%AF%E5%B7%B4%E7%94%9C%E5%B0%86%E8%A2%AB%E5%88%97%E4%B8%BA%E5%8F%AF%E8%83%BD%E8%87%B4%E7%99%8C%E7%89%A9%E8%B4%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [减碳行动频“上新”](https://www.baidu.com/s?wd=%E5%87%8F%E7%A2%B3%E8%A1%8C%E5%8A%A8%E9%A2%91%E2%80%9C%E4%B8%8A%E6%96%B0%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [无糖可乐不能喝了？或含致癌物](https://www.baidu.com/s?wd=%E6%97%A0%E7%B3%96%E5%8F%AF%E4%B9%90%E4%B8%8D%E8%83%BD%E5%96%9D%E4%BA%86%EF%BC%9F%E6%88%96%E5%90%AB%E8%87%B4%E7%99%8C%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [浙江26岁小伙月薪3千存下30万](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F26%E5%B2%81%E5%B0%8F%E4%BC%99%E6%9C%88%E8%96%AA3%E5%8D%83%E5%AD%98%E4%B8%8B30%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [河南一餐馆液化气爆炸 无人伤亡](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E9%A4%90%E9%A6%86%E6%B6%B2%E5%8C%96%E6%B0%94%E7%88%86%E7%82%B8+%E6%97%A0%E4%BA%BA%E4%BC%A4%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [母亲以女儿名义开公司反被偷转财产](https://www.baidu.com/s?wd=%E6%AF%8D%E4%BA%B2%E4%BB%A5%E5%A5%B3%E5%84%BF%E5%90%8D%E4%B9%89%E5%BC%80%E5%85%AC%E5%8F%B8%E5%8F%8D%E8%A2%AB%E5%81%B7%E8%BD%AC%E8%B4%A2%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [黑涩会美眉妖娇指控陈建州性骚扰](https://www.baidu.com/s?wd=%E9%BB%91%E6%B6%A9%E4%BC%9A%E7%BE%8E%E7%9C%89%E5%A6%96%E5%A8%87%E6%8C%87%E6%8E%A7%E9%99%88%E5%BB%BA%E5%B7%9E%E6%80%A7%E9%AA%9A%E6%89%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [印度一座桥梁在大风中坍塌](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E4%B8%80%E5%BA%A7%E6%A1%A5%E6%A2%81%E5%9C%A8%E5%A4%A7%E9%A3%8E%E4%B8%AD%E5%9D%8D%E5%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [乌克兰或成首个废除现金国家](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%96%E6%88%90%E9%A6%96%E4%B8%AA%E5%BA%9F%E9%99%A4%E7%8E%B0%E9%87%91%E5%9B%BD%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [传阿斯巴甜将被列为可能致癌物质](https://www.baidu.com/s?wd=%E4%BC%A0%E9%98%BF%E6%96%AF%E5%B7%B4%E7%94%9C%E5%B0%86%E8%A2%AB%E5%88%97%E4%B8%BA%E5%8F%AF%E8%83%BD%E8%87%B4%E7%99%8C%E7%89%A9%E8%B4%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
