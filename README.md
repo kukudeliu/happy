@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 13:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 13:03:02</h4></div>
 
 > 微博  
 
@@ -21,13 +21,13 @@
 5. [苹果 iPhone15 机型基本敲定，如何评价该产品？](https://www.zhihu.com/question/601025532)<br />
 6. [我忘记了笔记本电脑键盘禁用了，然后把电脑屏幕亮度调到了最低，现在屏幕看不见亮度也调不了了，怎么办？](https://www.zhihu.com/question/608618980)<br />
 7. []()<br />
-8. []()<br />
-9. [如何看待《成龙历险记》大结局?](https://www.zhihu.com/question/347103500)<br />
+8. [如果让你在 50 万人民币和清华大学录取通知书二选一你会选哪个？](https://www.zhihu.com/question/607748095)<br />
+9. []()<br />
 
 > 百度  
 
 1. [期待共享中国机遇](https://www.baidu.com/s?wd=%E6%9C%9F%E5%BE%85%E5%85%B1%E4%BA%AB%E4%B8%AD%E5%9B%BD%E6%9C%BA%E9%81%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [胡锡进炒股第三天：账户绿了](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%E7%82%92%E8%82%A1%E7%AC%AC%E4%B8%89%E5%A4%A9%EF%BC%9A%E8%B4%A6%E6%88%B7%E7%BB%BF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [胡锡进炒股第三天：账户绿了，加仓](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%E7%82%92%E8%82%A1%E7%AC%AC%E4%B8%89%E5%A4%A9%EF%BC%9A%E8%B4%A6%E6%88%B7%E7%BB%BF%E4%BA%86%EF%BC%8C%E5%8A%A0%E4%BB%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [泰坦号残骸中发现疑似人类遗骸](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9D%A6%E5%8F%B7%E6%AE%8B%E9%AA%B8%E4%B8%AD%E5%8F%91%E7%8E%B0%E7%96%91%E4%BC%BC%E4%BA%BA%E7%B1%BB%E9%81%97%E9%AA%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [小微经济呈现八大新亮点](https://www.baidu.com/s?wd=%E5%B0%8F%E5%BE%AE%E7%BB%8F%E6%B5%8E%E5%91%88%E7%8E%B0%E5%85%AB%E5%A4%A7%E6%96%B0%E4%BA%AE%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [甘肃350亿氢能项目招标方竟是假国企](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83350%E4%BA%BF%E6%B0%A2%E8%83%BD%E9%A1%B9%E7%9B%AE%E6%8B%9B%E6%A0%87%E6%96%B9%E7%AB%9F%E6%98%AF%E5%81%87%E5%9B%BD%E4%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -39,7 +39,7 @@
 > 哔哩哔哩  
 
 1. [期待共享中国机遇](https://www.baidu.com/s?wd=%E6%9C%9F%E5%BE%85%E5%85%B1%E4%BA%AB%E4%B8%AD%E5%9B%BD%E6%9C%BA%E9%81%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [胡锡进炒股第三天：账户绿了](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%E7%82%92%E8%82%A1%E7%AC%AC%E4%B8%89%E5%A4%A9%EF%BC%9A%E8%B4%A6%E6%88%B7%E7%BB%BF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [胡锡进炒股第三天：账户绿了，加仓](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%E7%82%92%E8%82%A1%E7%AC%AC%E4%B8%89%E5%A4%A9%EF%BC%9A%E8%B4%A6%E6%88%B7%E7%BB%BF%E4%BA%86%EF%BC%8C%E5%8A%A0%E4%BB%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [泰坦号残骸中发现疑似人类遗骸](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9D%A6%E5%8F%B7%E6%AE%8B%E9%AA%B8%E4%B8%AD%E5%8F%91%E7%8E%B0%E7%96%91%E4%BC%BC%E4%BA%BA%E7%B1%BB%E9%81%97%E9%AA%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [小微经济呈现八大新亮点](https://www.baidu.com/s?wd=%E5%B0%8F%E5%BE%AE%E7%BB%8F%E6%B5%8E%E5%91%88%E7%8E%B0%E5%85%AB%E5%A4%A7%E6%96%B0%E4%BA%AE%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [甘肃350亿氢能项目招标方竟是假国企](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83350%E4%BA%BF%E6%B0%A2%E8%83%BD%E9%A1%B9%E7%9B%AE%E6%8B%9B%E6%A0%87%E6%96%B9%E7%AB%9F%E6%98%AF%E5%81%87%E5%9B%BD%E4%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
