@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 10:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 10:06:01</h4></div>
 
 > 微博  
 
@@ -16,13 +16,13 @@
 
 1. [网传清北每年 80% 学子出国，实际去年清华毕业生出国（境）深造比例为 7.1%，为何与真相差距这么大？](https://www.zhihu.com/question/609195242)<br />
 2. [假如存在 III 级外星文明，为什么他们一直不发动宇宙战争？](https://www.zhihu.com/question/290849728)<br />
-3. []()<br />
-4. [为什么《疾速追杀 4》中基努·里维斯动作戏看着吃力、踉踉跄跄？](https://www.zhihu.com/question/607986724)<br />
-5. [普通农民花十几万供孩子上了一个三本的意义是什么？](https://www.zhihu.com/question/601925776)<br />
-6. [请问这样的字（准高三生写的）适合用来参加高考吗？](https://www.zhihu.com/question/602274661)<br />
+3. [为什么《疾速追杀 4》中基努·里维斯动作戏看着吃力、踉踉跄跄？](https://www.zhihu.com/question/607986724)<br />
+4. [普通农民花十几万供孩子上了一个三本的意义是什么？](https://www.zhihu.com/question/601925776)<br />
+5. [请问这样的字（准高三生写的）适合用来参加高考吗？](https://www.zhihu.com/question/602274661)<br />
+6. []()<br />
 7. []()<br />
-8. []()<br />
-9. [烦恼和痛苦的本质是什么？](https://www.zhihu.com/question/607957452)<br />
+8. [烦恼和痛苦的本质是什么？](https://www.zhihu.com/question/607957452)<br />
+9. [为什么那么多人执着于考公务员呢？](https://www.zhihu.com/question/595603265)<br />
 
 > 百度  
 
