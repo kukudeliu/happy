@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 20:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 20:32:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [华晨宇发挥](https://s.weibo.com/weibo?q=%E5%8D%8E%E6%99%A8%E5%AE%87%E5%8F%91%E6%8C%A5&t=31&band_rank=4&Refer=top)<br />
 5. [还得是成龙](https://s.weibo.com/weibo?q=%E8%BF%98%E5%BE%97%E6%98%AF%E6%88%90%E9%BE%99&t=31&band_rank=5&Refer=top)<br />
 6. [关晓彤帽子P掉了鹿晗品牌](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E5%B8%BD%E5%AD%90P%E6%8E%89%E4%BA%86%E9%B9%BF%E6%99%97%E5%93%81%E7%89%8C%23&t=31&band_rank=6&Refer=top)<br />
-7. [辛芷蕾自曝小时候遭遇猥亵](https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E8%87%AA%E6%9B%9D%E5%B0%8F%E6%97%B6%E5%80%99%E9%81%AD%E9%81%87%E7%8C%A5%E4%BA%B5%23&t=31&band_rank=7&Refer=top)<br />
-8. [LV帆布袋已被炒至700元](https://s.weibo.com/weibo?q=%23LV%E5%B8%86%E5%B8%83%E8%A2%8B%E5%B7%B2%E8%A2%AB%E7%82%92%E8%87%B3700%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [顶尖ad](https://s.weibo.com/weibo?q=%E9%A1%B6%E5%B0%96ad&t=31&band_rank=9&Refer=top)<br />
+7. [LV帆布袋已被炒至700元](https://s.weibo.com/weibo?q=%23LV%E5%B8%86%E5%B8%83%E8%A2%8B%E5%B7%B2%E8%A2%AB%E7%82%92%E8%87%B3700%E5%85%83%23&t=31&band_rank=7&Refer=top)<br />
+8. [顶尖ad](https://s.weibo.com/weibo?q=%E9%A1%B6%E5%B0%96ad&t=31&band_rank=8&Refer=top)<br />
+9. [山西代县矿工死亡瞒报事件调查](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E4%BB%A3%E5%8E%BF%E7%9F%BF%E5%B7%A5%E6%AD%BB%E4%BA%A1%E7%9E%92%E6%8A%A5%E4%BA%8B%E4%BB%B6%E8%B0%83%E6%9F%A5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -18,8 +18,8 @@
 2. [如何看待高级动卧票价一站 8 分钟 420 元，系二等座 70 倍？短途出行你会选高级动卧吗？](https://www.zhihu.com/question/609342725)<br />
 3. [上海卫健委称「网传『仁济医院医生嫖娼、科室组织卖淫』不实，已报警」，如何看待此谣言？](https://www.zhihu.com/question/609373690)<br />
 4. [拜登再次就俄罗斯「瓦格纳事件」表态，但口误称「普京正输掉伊拉克战争」，如何看待美方表态？](https://www.zhihu.com/question/609352184)<br />
-5. [每天给你 100 万（考虑通胀还会增加）和全世界的狗和猫都听从并且只听从于你，你怎么选？](https://www.zhihu.com/question/606648178)<br />
-6. []()<br />
+5. []()<br />
+6. [每天给你 100 万（考虑通胀还会增加）和全世界的狗和猫都听从并且只听从于你，你怎么选？](https://www.zhihu.com/question/606648178)<br />
 7. [人体能扛得住以 140-180KM/h 的速度被抛出去并撞在钢铁护栏上的冲量吗？](https://www.zhihu.com/question/602955496)<br />
 8. [贵州村超举办地榕江 38 万人有 5 万人踢球，全县标准足球场 14 块免费开放，哪些信息值得关注？](https://www.zhihu.com/question/609367220)<br />
 9. [博主曝光山姆会员店售卖临期食品，你是如何看待临期食品的？](https://www.zhihu.com/question/609391770)<br />
