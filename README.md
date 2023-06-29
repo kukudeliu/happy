@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 22:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 22:59:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [关晓彤这腿](https://s.weibo.com/weibo?q=%E5%85%B3%E6%99%93%E5%BD%A4%E8%BF%99%E8%85%BF&t=31&band_rank=4&Refer=top)<br />
 5. [肖战好港](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%A5%BD%E6%B8%AF%23&t=31&band_rank=5&Refer=top)<br />
 6. [徐小凤 今晚最佳](https://s.weibo.com/weibo?q=%E5%BE%90%E5%B0%8F%E5%87%A4%20%E4%BB%8A%E6%99%9A%E6%9C%80%E4%BD%B3&t=31&band_rank=6&Refer=top)<br />
-7. [许嵩挽回了面子](https://s.weibo.com/weibo?q=%E8%AE%B8%E5%B5%A9%E6%8C%BD%E5%9B%9E%E4%BA%86%E9%9D%A2%E5%AD%90&t=31&band_rank=7&Refer=top)<br />
-8. [去故宫的时候一定要抬头](https://s.weibo.com/weibo?q=%E5%8E%BB%E6%95%85%E5%AE%AB%E7%9A%84%E6%97%B6%E5%80%99%E4%B8%80%E5%AE%9A%E8%A6%81%E6%8A%AC%E5%A4%B4&t=31&band_rank=8&Refer=top)<br />
-9. [张雪峰](https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%AA%E5%B3%B0&t=31&band_rank=9&Refer=top)<br />
+7. [去故宫的时候一定要抬头](https://s.weibo.com/weibo?q=%E5%8E%BB%E6%95%85%E5%AE%AB%E7%9A%84%E6%97%B6%E5%80%99%E4%B8%80%E5%AE%9A%E8%A6%81%E6%8A%AC%E5%A4%B4&t=31&band_rank=7&Refer=top)<br />
+8. [张雪峰](https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%AA%E5%B3%B0&t=31&band_rank=8&Refer=top)<br />
+9. [学霸情侣本科毕业齐直博被校长写进致辞](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E9%9C%B8%E6%83%85%E4%BE%A3%E6%9C%AC%E7%A7%91%E6%AF%95%E4%B8%9A%E9%BD%90%E7%9B%B4%E5%8D%9A%E8%A2%AB%E6%A0%A1%E9%95%BF%E5%86%99%E8%BF%9B%E8%87%B4%E8%BE%9E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [如何看待中科大 QS2024 排名跌出 top100 排第 138？](https://www.zhihu.com/question/609135032)<br />
 7. [袭人嫁给蒋玉菡获得幸福了吗？](https://www.zhihu.com/question/608867428)<br />
 8. [每天给你 100 万（考虑通胀还会增加）和全世界的狗和猫都听从并且只听从于你，你怎么选？](https://www.zhihu.com/question/606648178)<br />
-9. [「限玩令」下第二个暑假开启，腾讯游戏等发布最新未成年限玩安排，共 26 小时，严格限时之下有哪些变化？](https://www.zhihu.com/question/609383172)<br />
+9. [经济学家朱少平称「社会别给年轻人必须要买房的压力，房贷会让他们更喘不上气」，如何评价此观点？](https://www.zhihu.com/question/609356792)<br />
 
 > 百度  
 
@@ -32,7 +32,7 @@
 4. [减碳行动频“上新”](https://www.baidu.com/s?wd=%E5%87%8F%E7%A2%B3%E8%A1%8C%E5%8A%A8%E9%A2%91%E2%80%9C%E4%B8%8A%E6%96%B0%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [载客18人中巴被落石砸中 6人遇难](https://www.baidu.com/s?wd=%E8%BD%BD%E5%AE%A218%E4%BA%BA%E4%B8%AD%E5%B7%B4%E8%A2%AB%E8%90%BD%E7%9F%B3%E7%A0%B8%E4%B8%AD+6%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [肖战周海媚坐一桌](https://www.baidu.com/s?wd=%E8%82%96%E6%88%98%E5%91%A8%E6%B5%B7%E5%AA%9A%E5%9D%90%E4%B8%80%E6%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [物理学家称可能发现外星飞船残骸](https://www.baidu.com/s?wd=%E7%89%A9%E7%90%86%E5%AD%A6%E5%AE%B6%E7%A7%B0%E5%8F%AF%E8%83%BD%E5%8F%91%E7%8E%B0%E5%A4%96%E6%98%9F%E9%A3%9E%E8%88%B9%E6%AE%8B%E9%AA%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [华晨宇发挥](https://www.baidu.com/s?wd=%E5%8D%8E%E6%99%A8%E5%AE%87%E5%8F%91%E6%8C%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [浙江26岁小伙月薪3千存下30万](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F26%E5%B2%81%E5%B0%8F%E4%BC%99%E6%9C%88%E8%96%AA3%E5%8D%83%E5%AD%98%E4%B8%8B30%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [朱一龙回应自己立牌被打](https://www.baidu.com/s?wd=%E6%9C%B1%E4%B8%80%E9%BE%99%E5%9B%9E%E5%BA%94%E8%87%AA%E5%B7%B1%E7%AB%8B%E7%89%8C%E8%A2%AB%E6%89%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -44,6 +44,6 @@
 4. [减碳行动频“上新”](https://www.baidu.com/s?wd=%E5%87%8F%E7%A2%B3%E8%A1%8C%E5%8A%A8%E9%A2%91%E2%80%9C%E4%B8%8A%E6%96%B0%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [载客18人中巴被落石砸中 6人遇难](https://www.baidu.com/s?wd=%E8%BD%BD%E5%AE%A218%E4%BA%BA%E4%B8%AD%E5%B7%B4%E8%A2%AB%E8%90%BD%E7%9F%B3%E7%A0%B8%E4%B8%AD+6%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [肖战周海媚坐一桌](https://www.baidu.com/s?wd=%E8%82%96%E6%88%98%E5%91%A8%E6%B5%B7%E5%AA%9A%E5%9D%90%E4%B8%80%E6%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [物理学家称可能发现外星飞船残骸](https://www.baidu.com/s?wd=%E7%89%A9%E7%90%86%E5%AD%A6%E5%AE%B6%E7%A7%B0%E5%8F%AF%E8%83%BD%E5%8F%91%E7%8E%B0%E5%A4%96%E6%98%9F%E9%A3%9E%E8%88%B9%E6%AE%8B%E9%AA%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [华晨宇发挥](https://www.baidu.com/s?wd=%E5%8D%8E%E6%99%A8%E5%AE%87%E5%8F%91%E6%8C%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [浙江26岁小伙月薪3千存下30万](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F26%E5%B2%81%E5%B0%8F%E4%BC%99%E6%9C%88%E8%96%AA3%E5%8D%83%E5%AD%98%E4%B8%8B30%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [朱一龙回应自己立牌被打](https://www.baidu.com/s?wd=%E6%9C%B1%E4%B8%80%E9%BE%99%E5%9B%9E%E5%BA%94%E8%87%AA%E5%B7%B1%E7%AB%8B%E7%89%8C%E8%A2%AB%E6%89%93&sa=fyb_news&rsv_dl=fyb_news)<br />
