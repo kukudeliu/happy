@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 17:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 17:12:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [2023年中国网络文明大会新闻发布会](https://s.weibo.com/weibo?q=%232023%E5%B9%B4%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E5%A4%A7%E4%BC%9A%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [姜广涛 开工](https://s.weibo.com/weibo?q=%E5%A7%9C%E5%B9%BF%E6%B6%9B%20%E5%BC%80%E5%B7%A5&t=31&band_rank=4&Refer=top)<br />
 5. [关晓彤帽子P掉了鹿晗品牌](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E5%B8%BD%E5%AD%90P%E6%8E%89%E4%BA%86%E9%B9%BF%E6%99%97%E5%93%81%E7%89%8C%23&t=31&band_rank=5&Refer=top)<br />
-6. [支付软件开始收费你还会用吗](https://s.weibo.com/weibo?q=%23%E6%94%AF%E4%BB%98%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%A7%8B%E6%94%B6%E8%B4%B9%E4%BD%A0%E8%BF%98%E4%BC%9A%E7%94%A8%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
-7. [阿斯巴甜 致癌](https://s.weibo.com/weibo?q=%E9%98%BF%E6%96%AF%E5%B7%B4%E7%94%9C%20%E8%87%B4%E7%99%8C&t=31&band_rank=7&Refer=top)<br />
+6. [阿斯巴甜 致癌](https://s.weibo.com/weibo?q=%E9%98%BF%E6%96%AF%E5%B7%B4%E7%94%9C%20%E8%87%B4%E7%99%8C&t=31&band_rank=6&Refer=top)<br />
+7. [支付软件开始收费你还会用吗](https://s.weibo.com/weibo?q=%23%E6%94%AF%E4%BB%98%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%A7%8B%E6%94%B6%E8%B4%B9%E4%BD%A0%E8%BF%98%E4%BC%9A%E7%94%A8%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
 8. [范玮琪 我家只有一张床](https://s.weibo.com/weibo?q=%E8%8C%83%E7%8E%AE%E7%90%AA%20%E6%88%91%E5%AE%B6%E5%8F%AA%E6%9C%89%E4%B8%80%E5%BC%A0%E5%BA%8A&t=31&band_rank=8&Refer=top)<br />
 9. [天官赐福](https://s.weibo.com/weibo?q=%E5%A4%A9%E5%AE%98%E8%B5%90%E7%A6%8F&t=31&band_rank=9&Refer=top)<br />
 
@@ -22,7 +22,7 @@
 6. [拜登再次就俄罗斯「瓦格纳事件」表态，但口误称「普京正输掉伊拉克战争」，如何看待美方表态？](https://www.zhihu.com/question/609352184)<br />
 7. [甘肃 350 亿氢能招标致多股暴涨，数天后被叫停，当地称备案违规，而招标方是假国企，哪些信息值得关注？](https://www.zhihu.com/question/609164890)<br />
 8. [王夫人遍寻人参而不得，贾母却有一包最好的，为什么偏是朽坏的？](https://www.zhihu.com/question/608202740)<br />
-9. [成都女子被丈夫多次家暴致肠破裂，公公回应「是家事」，女子该如何保障自己权益，涉事丈夫触犯了哪些法律？](https://www.zhihu.com/question/608734635)<br />
+9. [如何解决 async/await 的传染性？](https://www.zhihu.com/question/264341373)<br />
 
 > 百度  
 
