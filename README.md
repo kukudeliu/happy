@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 06:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 06:18:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [有没有高质量的书籍推荐？](https://www.zhihu.com/question/458685685)<br />
 7. [应届生加了 HR 的微信，应该称呼她什么?](https://www.zhihu.com/question/520705594)<br />
 8. [博主曝光山姆会员店售卖临期食品，你是如何看待临期食品的？](https://www.zhihu.com/question/609391770)<br />
-9. [一个人最根本的能力到底是什么？](https://www.zhihu.com/question/563874394)<br />
+9. [如何看待中科大 QS2024 排名跌出 top100 排第 138？](https://www.zhihu.com/question/609135032)<br />
 
 > 百度  
 
