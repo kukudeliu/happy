@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 19:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 19:25:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [12岁女孩被强奸起诉3宾馆索赔105万](https://www.baidu.com/s?wd=12%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%A2%AB%E5%BC%BA%E5%A5%B8%E8%B5%B7%E8%AF%893%E5%AE%BE%E9%A6%86%E7%B4%A2%E8%B5%94105%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [关晓彤帽子P掉了鹿晗品牌](https://www.baidu.com/s?wd=%E5%85%B3%E6%99%93%E5%BD%A4%E5%B8%BD%E5%AD%90P%E6%8E%89%E4%BA%86%E9%B9%BF%E6%99%97%E5%93%81%E7%89%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [山西一铁矿至少瞒报17名矿工死亡](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E4%B8%80%E9%93%81%E7%9F%BF%E8%87%B3%E5%B0%91%E7%9E%92%E6%8A%A517%E5%90%8D%E7%9F%BF%E5%B7%A5%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [辛芷蕾自曝小时候曾遭遇轻微猥亵](https://www.baidu.com/s?wd=%E8%BE%9B%E8%8A%B7%E8%95%BE%E8%87%AA%E6%9B%9D%E5%B0%8F%E6%97%B6%E5%80%99%E6%9B%BE%E9%81%AD%E9%81%87%E8%BD%BB%E5%BE%AE%E7%8C%A5%E4%BA%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [#下一站大学#](https://www.baidu.com/s?wd=%23%E4%B8%8B%E4%B8%80%E7%AB%99%E5%A4%A7%E5%AD%A6%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [12岁女孩被强奸起诉3宾馆索赔105万](https://www.baidu.com/s?wd=12%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%A2%AB%E5%BC%BA%E5%A5%B8%E8%B5%B7%E8%AF%893%E5%AE%BE%E9%A6%86%E7%B4%A2%E8%B5%94105%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [关晓彤帽子P掉了鹿晗品牌](https://www.baidu.com/s?wd=%E5%85%B3%E6%99%93%E5%BD%A4%E5%B8%BD%E5%AD%90P%E6%8E%89%E4%BA%86%E9%B9%BF%E6%99%97%E5%93%81%E7%89%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [山西一铁矿至少瞒报17名矿工死亡](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E4%B8%80%E9%93%81%E7%9F%BF%E8%87%B3%E5%B0%91%E7%9E%92%E6%8A%A517%E5%90%8D%E7%9F%BF%E5%B7%A5%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [辛芷蕾自曝小时候曾遭遇轻微猥亵](https://www.baidu.com/s?wd=%E8%BE%9B%E8%8A%B7%E8%95%BE%E8%87%AA%E6%9B%9D%E5%B0%8F%E6%97%B6%E5%80%99%E6%9B%BE%E9%81%AD%E9%81%87%E8%BD%BB%E5%BE%AE%E7%8C%A5%E4%BA%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [#下一站大学#](https://www.baidu.com/s?wd=%23%E4%B8%8B%E4%B8%80%E7%AB%99%E5%A4%A7%E5%AD%A6%23&sa=fyb_news&rsv_dl=fyb_news)<br />
