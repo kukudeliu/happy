@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 21:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 21:21:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [还得是成龙](https://s.weibo.com/weibo?q=%E8%BF%98%E5%BE%97%E6%98%AF%E6%88%90%E9%BE%99&t=31&band_rank=6&Refer=top)<br />
 7. [去故宫的时候一定要抬头](https://s.weibo.com/weibo?q=%E5%8E%BB%E6%95%85%E5%AE%AB%E7%9A%84%E6%97%B6%E5%80%99%E4%B8%80%E5%AE%9A%E8%A6%81%E6%8A%AC%E5%A4%B4&t=31&band_rank=7&Refer=top)<br />
 8. [LV帆布袋已被炒至700元](https://s.weibo.com/weibo?q=%23LV%E5%B8%86%E5%B8%83%E8%A2%8B%E5%B7%B2%E8%A2%AB%E7%82%92%E8%87%B3700%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [中国科大宿舍拎包入住](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%A4%A7%E5%AE%BF%E8%88%8D%E6%8B%8E%E5%8C%85%E5%85%A5%E4%BD%8F%23&t=31&band_rank=9&Refer=top)<br />
+9. [GALA卡莎五杀](https://s.weibo.com/weibo?q=%23GALA%E5%8D%A1%E8%8E%8E%E4%BA%94%E6%9D%80%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [贵州村超举办地榕江 38 万人有 5 万人踢球，全县标准足球场 14 块免费开放，哪些信息值得关注？](https://www.zhihu.com/question/609367220)<br />
 7. [博主曝光山姆会员店售卖临期食品，你是如何看待临期食品的？](https://www.zhihu.com/question/609391770)<br />
 8. [美团发布公告「已订立交易协议收购光年之外的全部权益」，将带来哪些影响？](https://www.zhihu.com/question/609420800)<br />
-9. []()<br />
+9. [为什么电影每秒播放的帧数一直停留在 24 帧而不继续向更高的帧数发展？](https://www.zhihu.com/question/281685561)<br />
 
 > 百度  
 
