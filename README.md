@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 20:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 20:52:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [2023年中国网络文明大会新闻发布会](https://s.weibo.com/weibo?q=%232023%E5%B9%B4%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E5%A4%A7%E4%BC%9A%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [还得是成龙](https://s.weibo.com/weibo?q=%E8%BF%98%E5%BE%97%E6%98%AF%E6%88%90%E9%BE%99&t=31&band_rank=4&Refer=top)<br />
 5. [暮色心约 空降](https://s.weibo.com/weibo?q=%E6%9A%AE%E8%89%B2%E5%BF%83%E7%BA%A6%20%E7%A9%BA%E9%99%8D&t=31&band_rank=5&Refer=top)<br />
-6. [LV帆布袋已被炒至700元](https://s.weibo.com/weibo?q=%23LV%E5%B8%86%E5%B8%83%E8%A2%8B%E5%B7%B2%E8%A2%AB%E7%82%92%E8%87%B3700%E5%85%83%23&t=31&band_rank=6&Refer=top)<br />
-7. [顶尖ad](https://s.weibo.com/weibo?q=%E9%A1%B6%E5%B0%96ad&t=31&band_rank=7&Refer=top)<br />
+6. [顶尖ad](https://s.weibo.com/weibo?q=%E9%A1%B6%E5%B0%96ad&t=31&band_rank=6&Refer=top)<br />
+7. [LV帆布袋已被炒至700元](https://s.weibo.com/weibo?q=%23LV%E5%B8%86%E5%B8%83%E8%A2%8B%E5%B7%B2%E8%A2%AB%E7%82%92%E8%87%B3700%E5%85%83%23&t=31&band_rank=7&Refer=top)<br />
 8. [山西代县矿工死亡瞒报事件调查](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E4%BB%A3%E5%8E%BF%E7%9F%BF%E5%B7%A5%E6%AD%BB%E4%BA%A1%E7%9E%92%E6%8A%A5%E4%BA%8B%E4%BB%B6%E8%B0%83%E6%9F%A5%23&t=31&band_rank=8&Refer=top)<br />
 9. [中国科大宿舍拎包入住](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%A4%A7%E5%AE%BF%E8%88%8D%E6%8B%8E%E5%8C%85%E5%85%A5%E4%BD%8F%23&t=31&band_rank=9&Refer=top)<br />
 
