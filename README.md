@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 15:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 15:28:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [时代峰峻回应TF三代吵架](https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E5%9B%9E%E5%BA%94TF%E4%B8%89%E4%BB%A3%E5%90%B5%E6%9E%B6%23&t=31&band_rank=5&Refer=top)<br />
 6. [张睿谈被披哥节目组连拒四次](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%9D%BF%E8%B0%88%E8%A2%AB%E6%8A%AB%E5%93%A5%E8%8A%82%E7%9B%AE%E7%BB%84%E8%BF%9E%E6%8B%92%E5%9B%9B%E6%AC%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [陈建州vs全在俊](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BB%BA%E5%B7%9Evs%E5%85%A8%E5%9C%A8%E4%BF%8A%23&t=31&band_rank=7&Refer=top)<br />
-8. [女孩出生4天被遗弃养父收废品养大](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%87%BA%E7%94%9F4%E5%A4%A9%E8%A2%AB%E9%81%97%E5%BC%83%E5%85%BB%E7%88%B6%E6%94%B6%E5%BA%9F%E5%93%81%E5%85%BB%E5%A4%A7%23&t=31&band_rank=8&Refer=top)<br />
-9. [媒体评LV帆布袋又蠢又穷又虚荣](https://s.weibo.com/weibo?q=%23%E5%AA%92%E4%BD%93%E8%AF%84LV%E5%B8%86%E5%B8%83%E8%A2%8B%E5%8F%88%E8%A0%A2%E5%8F%88%E7%A9%B7%E5%8F%88%E8%99%9A%E8%8D%A3%23&t=31&band_rank=9&Refer=top)<br />
+8. [媒体评LV帆布袋又蠢又穷又虚荣](https://s.weibo.com/weibo?q=%23%E5%AA%92%E4%BD%93%E8%AF%84LV%E5%B8%86%E5%B8%83%E8%A2%8B%E5%8F%88%E8%A0%A2%E5%8F%88%E7%A9%B7%E5%8F%88%E8%99%9A%E8%8D%A3%23&t=31&band_rank=8&Refer=top)<br />
+9. [女孩出生4天被遗弃养父收废品养大](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%87%BA%E7%94%9F4%E5%A4%A9%E8%A2%AB%E9%81%97%E5%BC%83%E5%85%BB%E7%88%B6%E6%94%B6%E5%BA%9F%E5%93%81%E5%85%BB%E5%A4%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
