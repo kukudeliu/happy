@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 15:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 15:32:01</h4></div>
 
 > 微博  
 
 1. [多所高校停用微信支付](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%89%80%E9%AB%98%E6%A0%A1%E5%81%9C%E7%94%A8%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98%23&t=31&band_rank=1&Refer=top)<br />
 2. [仁济医院已报警](https://s.weibo.com/weibo?q=%23%E4%BB%81%E6%B5%8E%E5%8C%BB%E9%99%A2%E5%B7%B2%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=2&Refer=top)<br />
 3. [2023年中国网络文明大会新闻发布会](https://s.weibo.com/weibo?q=%232023%E5%B9%B4%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E5%A4%A7%E4%BC%9A%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
-4. [微信支付](https://s.weibo.com/weibo?q=%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98&t=31&band_rank=4&Refer=top)<br />
-5. [学校承诺考上985奖30万未兑现被起诉](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E6%A0%A1%E6%89%BF%E8%AF%BA%E8%80%83%E4%B8%8A985%E5%A5%9630%E4%B8%87%E6%9C%AA%E5%85%91%E7%8E%B0%E8%A2%AB%E8%B5%B7%E8%AF%89%23&t=31&band_rank=5&Refer=top)<br />
+4. [学校承诺考上985奖30万未兑现被起诉](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E6%A0%A1%E6%89%BF%E8%AF%BA%E8%80%83%E4%B8%8A985%E5%A5%9630%E4%B8%87%E6%9C%AA%E5%85%91%E7%8E%B0%E8%A2%AB%E8%B5%B7%E8%AF%89%23&t=31&band_rank=4&Refer=top)<br />
+5. [微信支付](https://s.weibo.com/weibo?q=%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98&t=31&band_rank=5&Refer=top)<br />
 6. [时代峰峻回应TF三代吵架](https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E5%9B%9E%E5%BA%94TF%E4%B8%89%E4%BB%A3%E5%90%B5%E6%9E%B6%23&t=31&band_rank=6&Refer=top)<br />
 7. [张睿谈被披哥节目组连拒四次](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%9D%BF%E8%B0%88%E8%A2%AB%E6%8A%AB%E5%93%A5%E8%8A%82%E7%9B%AE%E7%BB%84%E8%BF%9E%E6%8B%92%E5%9B%9B%E6%AC%A1%23&t=31&band_rank=7&Refer=top)<br />
 8. [陈建州vs全在俊](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BB%BA%E5%B7%9Evs%E5%85%A8%E5%9C%A8%E4%BF%8A%23&t=31&band_rank=8&Refer=top)<br />
@@ -16,13 +16,13 @@
 
 1. [广州二孩及以上家庭公积金贷款购房额上浮 30%，最高贷 130 万，节约利息 32 万，如何看待此举？](https://www.zhihu.com/question/609178796)<br />
 2. [泰坦号潜水器内爆残骸被运回岸上，残骸中发现「疑似人类遗骸」，哪些信息值得关注？](https://www.zhihu.com/question/609334039)<br />
-3. [苏东坡曾「日啖荔枝三百颗」，那他会上火吗？](https://www.zhihu.com/question/598568202)<br />
-4. [如果让你在 50 万人民币和清华大学录取通知书二选一你会选哪个？](https://www.zhihu.com/question/607748095)<br />
+3. [如果让你在 50 万人民币和清华大学录取通知书二选一你会选哪个？](https://www.zhihu.com/question/607748095)<br />
+4. [苏东坡曾「日啖荔枝三百颗」，那他会上火吗？](https://www.zhihu.com/question/598568202)<br />
 5. [白宫证实拜登使用 CPAP 呼吸机治疗睡眠呼吸暂停，睡眠呼吸暂停综合症是种什么病？有好的治疗方法吗？](https://www.zhihu.com/question/609350758)<br />
 6. [俄「末日将军」苏洛维金据传被捕，疑为普里戈任内应，如何看待此事？后续进展如何？](https://www.zhihu.com/question/609355915)<br />
 7. []()<br />
 8. []()<br />
-9. []()<br />
+9. [山河大学是什么梗？你心中的山河大学是什么样？](https://www.zhihu.com/question/609033191)<br />
 
 > 百度  
 
