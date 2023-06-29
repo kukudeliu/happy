@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 21:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 21:29:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [乌克兰或成首个废除现金国家](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%96%E6%88%90%E9%A6%96%E4%B8%AA%E5%BA%9F%E9%99%A4%E7%8E%B0%E9%87%91%E5%9B%BD%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [物理学家称可能发现外星飞船残骸](https://www.baidu.com/s?wd=%E7%89%A9%E7%90%86%E5%AD%A6%E5%AE%B6%E7%A7%B0%E5%8F%AF%E8%83%BD%E5%8F%91%E7%8E%B0%E5%A4%96%E6%98%9F%E9%A3%9E%E8%88%B9%E6%AE%8B%E9%AA%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [浙江26岁小伙月薪3千存下30万](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F26%E5%B2%81%E5%B0%8F%E4%BC%99%E6%9C%88%E8%96%AA3%E5%8D%83%E5%AD%98%E4%B8%8B30%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [游客称在青海湖附近买水遭驱赶](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E7%A7%B0%E5%9C%A8%E9%9D%92%E6%B5%B7%E6%B9%96%E9%99%84%E8%BF%91%E4%B9%B0%E6%B0%B4%E9%81%AD%E9%A9%B1%E8%B5%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [西南民大学生坠亡 校方称不便回应](https://www.baidu.com/s?wd=%E8%A5%BF%E5%8D%97%E6%B0%91%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9D%A0%E4%BA%A1+%E6%A0%A1%E6%96%B9%E7%A7%B0%E4%B8%8D%E4%BE%BF%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [乌克兰或成首个废除现金国家](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%96%E6%88%90%E9%A6%96%E4%B8%AA%E5%BA%9F%E9%99%A4%E7%8E%B0%E9%87%91%E5%9B%BD%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [物理学家称可能发现外星飞船残骸](https://www.baidu.com/s?wd=%E7%89%A9%E7%90%86%E5%AD%A6%E5%AE%B6%E7%A7%B0%E5%8F%AF%E8%83%BD%E5%8F%91%E7%8E%B0%E5%A4%96%E6%98%9F%E9%A3%9E%E8%88%B9%E6%AE%8B%E9%AA%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [浙江26岁小伙月薪3千存下30万](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F26%E5%B2%81%E5%B0%8F%E4%BC%99%E6%9C%88%E8%96%AA3%E5%8D%83%E5%AD%98%E4%B8%8B30%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [游客称在青海湖附近买水遭驱赶](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E7%A7%B0%E5%9C%A8%E9%9D%92%E6%B5%B7%E6%B9%96%E9%99%84%E8%BF%91%E4%B9%B0%E6%B0%B4%E9%81%AD%E9%A9%B1%E8%B5%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [西南民大学生坠亡 校方称不便回应](https://www.baidu.com/s?wd=%E8%A5%BF%E5%8D%97%E6%B0%91%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9D%A0%E4%BA%A1+%E6%A0%A1%E6%96%B9%E7%A7%B0%E4%B8%8D%E4%BE%BF%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
