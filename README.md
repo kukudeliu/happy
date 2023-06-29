@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 13:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 13:30:01</h4></div>
 
 > 微博  
 
 1. [人民网评倪妮消失的她角色](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E5%80%AA%E5%A6%AE%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E8%A7%92%E8%89%B2%23&t=31&band_rank=1&Refer=top)<br />
-2. [杀妻欲藏尸冰柜男子被判死刑](https://s.weibo.com/weibo?q=%23%E6%9D%80%E5%A6%BB%E6%AC%B2%E8%97%8F%E5%B0%B8%E5%86%B0%E6%9F%9C%E7%94%B7%E5%AD%90%E8%A2%AB%E5%88%A4%E6%AD%BB%E5%88%91%23&t=31&band_rank=2&Refer=top)<br />
+2. [鲁A33632你做的好事藏不住了](https://s.weibo.com/weibo?q=%23%E9%B2%81A33632%E4%BD%A0%E5%81%9A%E7%9A%84%E5%A5%BD%E4%BA%8B%E8%97%8F%E4%B8%8D%E4%BD%8F%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [成都大运会边看边玩攻略](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%A4%A7%E8%BF%90%E4%BC%9A%E8%BE%B9%E7%9C%8B%E8%BE%B9%E7%8E%A9%E6%94%BB%E7%95%A5%23&t=31&band_rank=3&Refer=top)<br />
-4. [鲁A33632你做的好事藏不住了](https://s.weibo.com/weibo?q=%23%E9%B2%81A33632%E4%BD%A0%E5%81%9A%E7%9A%84%E5%A5%BD%E4%BA%8B%E8%97%8F%E4%B8%8D%E4%BD%8F%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
+4. [杀妻欲藏尸冰柜男子被判死刑](https://s.weibo.com/weibo?q=%23%E6%9D%80%E5%A6%BB%E6%AC%B2%E8%97%8F%E5%B0%B8%E5%86%B0%E6%9F%9C%E7%94%B7%E5%AD%90%E8%A2%AB%E5%88%A4%E6%AD%BB%E5%88%91%23&t=31&band_rank=4&Refer=top)<br />
 5. [新版妲己首度曝光](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%89%88%E5%A6%B2%E5%B7%B1%E9%A6%96%E5%BA%A6%E6%9B%9D%E5%85%89%23&t=31&band_rank=5&Refer=top)<br />
 6. [鳄鱼独居16年产子](https://s.weibo.com/weibo?q=%E9%B3%84%E9%B1%BC%E7%8B%AC%E5%B1%8516%E5%B9%B4%E4%BA%A7%E5%AD%90&t=31&band_rank=6&Refer=top)<br />
 7. [媒体评LV帆布袋又蠢又穷又虚荣](https://s.weibo.com/weibo?q=%23%E5%AA%92%E4%BD%93%E8%AF%84LV%E5%B8%86%E5%B8%83%E8%A2%8B%E5%8F%88%E8%A0%A2%E5%8F%88%E7%A9%B7%E5%8F%88%E8%99%9A%E8%8D%A3%23&t=31&band_rank=7&Refer=top)<br />
