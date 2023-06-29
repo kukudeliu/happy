@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 12:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 12:12:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [六公主评偷偷藏不住](https://s.weibo.com/weibo?q=%23%E5%85%AD%E5%85%AC%E4%B8%BB%E8%AF%84%E5%81%B7%E5%81%B7%E8%97%8F%E4%B8%8D%E4%BD%8F%23&t=31&band_rank=6&Refer=top)<br />
 7. [曝陈建州在范玮琪孕期骚扰女艺人](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E9%99%88%E5%BB%BA%E5%B7%9E%E5%9C%A8%E8%8C%83%E7%8E%AE%E7%90%AA%E5%AD%95%E6%9C%9F%E9%AA%9A%E6%89%B0%E5%A5%B3%E8%89%BA%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [丫丫](https://s.weibo.com/weibo?q=%E4%B8%AB%E4%B8%AB&t=31&band_rank=8&Refer=top)<br />
-9. [暑假未成年人只能周五六日打游戏](https://s.weibo.com/weibo?q=%23%E6%9A%91%E5%81%87%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E5%8F%AA%E8%83%BD%E5%91%A8%E4%BA%94%E5%85%AD%E6%97%A5%E6%89%93%E6%B8%B8%E6%88%8F%23&t=31&band_rank=9&Refer=top)<br />
+9. [被新加坡法律法规吓晕](https://s.weibo.com/weibo?q=%E8%A2%AB%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%B3%95%E5%BE%8B%E6%B3%95%E8%A7%84%E5%90%93%E6%99%95&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
