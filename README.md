@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 14:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 14:02:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [鳄鱼独居16年产子](https://s.weibo.com/weibo?q=%E9%B3%84%E9%B1%BC%E7%8B%AC%E5%B1%8516%E5%B9%B4%E4%BA%A7%E5%AD%90&t=31&band_rank=6&Refer=top)<br />
 7. [新版妲己首度曝光](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%89%88%E5%A6%B2%E5%B7%B1%E9%A6%96%E5%BA%A6%E6%9B%9D%E5%85%89%23&t=31&band_rank=7&Refer=top)<br />
 8. [曝陈建州在范玮琪孕期骚扰女艺人](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E9%99%88%E5%BB%BA%E5%B7%9E%E5%9C%A8%E8%8C%83%E7%8E%AE%E7%90%AA%E5%AD%95%E6%9C%9F%E9%AA%9A%E6%89%B0%E5%A5%B3%E8%89%BA%E4%BA%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [女孩出生4天被遗弃养父收废品养大](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%87%BA%E7%94%9F4%E5%A4%A9%E8%A2%AB%E9%81%97%E5%BC%83%E5%85%BB%E7%88%B6%E6%94%B6%E5%BA%9F%E5%93%81%E5%85%BB%E5%A4%A7%23&t=31&band_rank=9&Refer=top)<br />
+9. [山西一男子杀害妻儿后跳河身亡](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E4%B8%80%E7%94%B7%E5%AD%90%E6%9D%80%E5%AE%B3%E5%A6%BB%E5%84%BF%E5%90%8E%E8%B7%B3%E6%B2%B3%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
