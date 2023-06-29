@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 11:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 11:27:01</h4></div>
 
 > 微博  
 
@@ -16,8 +16,8 @@
 
 1. [广州二孩及以上家庭公积金贷款购房额上浮 30%，最高贷 130 万，节约利息 32 万，如何看待此举？](https://www.zhihu.com/question/609178796)<br />
 2. [为什么《疾速追杀 4》中基努·里维斯的动作戏看着很吃力、踉踉跄跄？](https://www.zhihu.com/question/607986724)<br />
-3. [天天健身的人最后膝盖都怎么样了？](https://www.zhihu.com/question/370126051)<br />
-4. [为什么那么多人执着于考公务员呢？](https://www.zhihu.com/question/595603265)<br />
+3. [为什么那么多人执着于考公务员呢？](https://www.zhihu.com/question/595603265)<br />
+4. [天天健身的人最后膝盖都怎么样了？](https://www.zhihu.com/question/370126051)<br />
 5. [鲍威尔表示美联储预计会出现更多的紧缩力量，并重申「多数决策者预计今年将再加息两次」，释放了什么信号？](https://www.zhihu.com/question/609288325)<br />
 6. [我忘记了笔记本电脑键盘禁用了，然后把电脑屏幕亮度调到了最低，现在屏幕看不见亮度也调不了了，怎么办？](https://www.zhihu.com/question/608618980)<br />
 7. [泰坦号潜水器内爆残骸被运回岸上，残骸中发现「疑似人类遗骸」，哪些信息值得关注？](https://www.zhihu.com/question/609334039)<br />
