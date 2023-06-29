@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 16:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 16:02:02</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [学校承诺考上985奖30万未兑现被起诉](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E6%A0%A1%E6%89%BF%E8%AF%BA%E8%80%83%E4%B8%8A985%E5%A5%9630%E4%B8%87%E6%9C%AA%E5%85%91%E7%8E%B0%E8%A2%AB%E8%B5%B7%E8%AF%89%23&t=31&band_rank=2&Refer=top)<br />
 3. [2023年中国网络文明大会新闻发布会](https://s.weibo.com/weibo?q=%232023%E5%B9%B4%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E5%A4%A7%E4%BC%9A%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [姜广涛 开工](https://s.weibo.com/weibo?q=%E5%A7%9C%E5%B9%BF%E6%B6%9B%20%E5%BC%80%E5%B7%A5&t=31&band_rank=4&Refer=top)<br />
-5. [仁济医院已报警](https://s.weibo.com/weibo?q=%23%E4%BB%81%E6%B5%8E%E5%8C%BB%E9%99%A2%E5%B7%B2%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=5&Refer=top)<br />
-6. [黄婷婷与丝芭正式解约](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%A9%B7%E5%A9%B7%E4%B8%8E%E4%B8%9D%E8%8A%AD%E6%AD%A3%E5%BC%8F%E8%A7%A3%E7%BA%A6%23&t=31&band_rank=6&Refer=top)<br />
-7. [时代峰峻回应TF三代吵架](https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E5%9B%9E%E5%BA%94TF%E4%B8%89%E4%BB%A3%E5%90%B5%E6%9E%B6%23&t=31&band_rank=7&Refer=top)<br />
-8. [微信支付](https://s.weibo.com/weibo?q=%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98&t=31&band_rank=8&Refer=top)<br />
-9. [张睿谈被披哥节目组连拒四次](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%9D%BF%E8%B0%88%E8%A2%AB%E6%8A%AB%E5%93%A5%E8%8A%82%E7%9B%AE%E7%BB%84%E8%BF%9E%E6%8B%92%E5%9B%9B%E6%AC%A1%23&t=31&band_rank=9&Refer=top)<br />
+5. [张睿谈被披哥节目组连拒四次](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%9D%BF%E8%B0%88%E8%A2%AB%E6%8A%AB%E5%93%A5%E8%8A%82%E7%9B%AE%E7%BB%84%E8%BF%9E%E6%8B%92%E5%9B%9B%E6%AC%A1%23&t=31&band_rank=5&Refer=top)<br />
+6. [仁济医院已报警](https://s.weibo.com/weibo?q=%23%E4%BB%81%E6%B5%8E%E5%8C%BB%E9%99%A2%E5%B7%B2%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=6&Refer=top)<br />
+7. [黄婷婷与丝芭正式解约](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%A9%B7%E5%A9%B7%E4%B8%8E%E4%B8%9D%E8%8A%AD%E6%AD%A3%E5%BC%8F%E8%A7%A3%E7%BA%A6%23&t=31&band_rank=7&Refer=top)<br />
+8. [时代峰峻回应TF三代吵架](https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E5%9B%9E%E5%BA%94TF%E4%B8%89%E4%BB%A3%E5%90%B5%E6%9E%B6%23&t=31&band_rank=8&Refer=top)<br />
+9. [微信支付](https://s.weibo.com/weibo?q=%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
