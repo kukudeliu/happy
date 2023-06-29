@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 02:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 02:24:01</h4></div>
 
 > 微博  
 
@@ -31,8 +31,8 @@
 3. [网友称外滩夜景灯光太土 官方回应](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B0%E5%A4%96%E6%BB%A9%E5%A4%9C%E6%99%AF%E7%81%AF%E5%85%89%E5%A4%AA%E5%9C%9F+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [点亮科学之光](https://www.baidu.com/s?wd=%E7%82%B9%E4%BA%AE%E7%A7%91%E5%AD%A6%E4%B9%8B%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [载客18人中巴被落石砸中 6人遇难](https://www.baidu.com/s?wd=%E8%BD%BD%E5%AE%A218%E4%BA%BA%E4%B8%AD%E5%B7%B4%E8%A2%AB%E8%90%BD%E7%9F%B3%E7%A0%B8%E4%B8%AD+6%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [9个月宝宝被遗忘电梯邻居送回](https://www.baidu.com/s?wd=9%E4%B8%AA%E6%9C%88%E5%AE%9D%E5%AE%9D%E8%A2%AB%E9%81%97%E5%BF%98%E7%94%B5%E6%A2%AF%E9%82%BB%E5%B1%85%E9%80%81%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [甘肃350亿氢能项目招标方竟是假国企](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83350%E4%BA%BF%E6%B0%A2%E8%83%BD%E9%A1%B9%E7%9B%AE%E6%8B%9B%E6%A0%87%E6%96%B9%E7%AB%9F%E6%98%AF%E5%81%87%E5%9B%BD%E4%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [甘肃350亿氢能项目招标方竟是假国企](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83350%E4%BA%BF%E6%B0%A2%E8%83%BD%E9%A1%B9%E7%9B%AE%E6%8B%9B%E6%A0%87%E6%96%B9%E7%AB%9F%E6%98%AF%E5%81%87%E5%9B%BD%E4%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [高考生起诉母校未兑现奖金承诺获5万](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E7%94%9F%E8%B5%B7%E8%AF%89%E6%AF%8D%E6%A0%A1%E6%9C%AA%E5%85%91%E7%8E%B0%E5%A5%96%E9%87%91%E6%89%BF%E8%AF%BA%E8%8E%B75%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [村BA美女主持人去看周杰伦了](https://www.baidu.com/s?wd=%E6%9D%91BA%E7%BE%8E%E5%A5%B3%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%8E%BB%E7%9C%8B%E5%91%A8%E6%9D%B0%E4%BC%A6%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [肖战真唱](https://www.baidu.com/s?wd=%E8%82%96%E6%88%98%E7%9C%9F%E5%94%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -43,7 +43,7 @@
 3. [网友称外滩夜景灯光太土 官方回应](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B0%E5%A4%96%E6%BB%A9%E5%A4%9C%E6%99%AF%E7%81%AF%E5%85%89%E5%A4%AA%E5%9C%9F+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [点亮科学之光](https://www.baidu.com/s?wd=%E7%82%B9%E4%BA%AE%E7%A7%91%E5%AD%A6%E4%B9%8B%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [载客18人中巴被落石砸中 6人遇难](https://www.baidu.com/s?wd=%E8%BD%BD%E5%AE%A218%E4%BA%BA%E4%B8%AD%E5%B7%B4%E8%A2%AB%E8%90%BD%E7%9F%B3%E7%A0%B8%E4%B8%AD+6%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [9个月宝宝被遗忘电梯邻居送回](https://www.baidu.com/s?wd=9%E4%B8%AA%E6%9C%88%E5%AE%9D%E5%AE%9D%E8%A2%AB%E9%81%97%E5%BF%98%E7%94%B5%E6%A2%AF%E9%82%BB%E5%B1%85%E9%80%81%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [甘肃350亿氢能项目招标方竟是假国企](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83350%E4%BA%BF%E6%B0%A2%E8%83%BD%E9%A1%B9%E7%9B%AE%E6%8B%9B%E6%A0%87%E6%96%B9%E7%AB%9F%E6%98%AF%E5%81%87%E5%9B%BD%E4%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [甘肃350亿氢能项目招标方竟是假国企](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83350%E4%BA%BF%E6%B0%A2%E8%83%BD%E9%A1%B9%E7%9B%AE%E6%8B%9B%E6%A0%87%E6%96%B9%E7%AB%9F%E6%98%AF%E5%81%87%E5%9B%BD%E4%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [高考生起诉母校未兑现奖金承诺获5万](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E7%94%9F%E8%B5%B7%E8%AF%89%E6%AF%8D%E6%A0%A1%E6%9C%AA%E5%85%91%E7%8E%B0%E5%A5%96%E9%87%91%E6%89%BF%E8%AF%BA%E8%8E%B75%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [村BA美女主持人去看周杰伦了](https://www.baidu.com/s?wd=%E6%9D%91BA%E7%BE%8E%E5%A5%B3%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%8E%BB%E7%9C%8B%E5%91%A8%E6%9D%B0%E4%BC%A6%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [肖战真唱](https://www.baidu.com/s?wd=%E8%82%96%E6%88%98%E7%9C%9F%E5%94%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
