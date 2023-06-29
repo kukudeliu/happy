@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 14:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 14:56:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [微信支付](https://s.weibo.com/weibo?q=%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98&t=31&band_rank=2&Refer=top)<br />
 3. [2023年中国网络文明大会新闻发布会](https://s.weibo.com/weibo?q=%232023%E5%B9%B4%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E5%A4%A7%E4%BC%9A%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [仁济医院已报警](https://s.weibo.com/weibo?q=%23%E4%BB%81%E6%B5%8E%E5%8C%BB%E9%99%A2%E5%B7%B2%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=4&Refer=top)<br />
-5. [陈建州vs全在俊](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BB%BA%E5%B7%9Evs%E5%85%A8%E5%9C%A8%E4%BF%8A%23&t=31&band_rank=5&Refer=top)<br />
-6. [时代峰峻回应TF三代吵架](https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E5%9B%9E%E5%BA%94TF%E4%B8%89%E4%BB%A3%E5%90%B5%E6%9E%B6%23&t=31&band_rank=6&Refer=top)<br />
+5. [时代峰峻回应TF三代吵架](https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E5%9B%9E%E5%BA%94TF%E4%B8%89%E4%BB%A3%E5%90%B5%E6%9E%B6%23&t=31&band_rank=5&Refer=top)<br />
+6. [陈建州vs全在俊](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BB%BA%E5%B7%9Evs%E5%85%A8%E5%9C%A8%E4%BF%8A%23&t=31&band_rank=6&Refer=top)<br />
 7. [鳄鱼独居16年产子](https://s.weibo.com/weibo?q=%E9%B3%84%E9%B1%BC%E7%8B%AC%E5%B1%8516%E5%B9%B4%E4%BA%A7%E5%AD%90&t=31&band_rank=7&Refer=top)<br />
-8. [曝陈建州在范玮琪孕期骚扰女艺人](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E9%99%88%E5%BB%BA%E5%B7%9E%E5%9C%A8%E8%8C%83%E7%8E%AE%E7%90%AA%E5%AD%95%E6%9C%9F%E9%AA%9A%E6%89%B0%E5%A5%B3%E8%89%BA%E4%BA%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [媒体评LV帆布袋又蠢又穷又虚荣](https://s.weibo.com/weibo?q=%23%E5%AA%92%E4%BD%93%E8%AF%84LV%E5%B8%86%E5%B8%83%E8%A2%8B%E5%8F%88%E8%A0%A2%E5%8F%88%E7%A9%B7%E5%8F%88%E8%99%9A%E8%8D%A3%23&t=31&band_rank=9&Refer=top)<br />
+8. [媒体评LV帆布袋又蠢又穷又虚荣](https://s.weibo.com/weibo?q=%23%E5%AA%92%E4%BD%93%E8%AF%84LV%E5%B8%86%E5%B8%83%E8%A2%8B%E5%8F%88%E8%A0%A2%E5%8F%88%E7%A9%B7%E5%8F%88%E8%99%9A%E8%8D%A3%23&t=31&band_rank=8&Refer=top)<br />
+9. [曝陈建州在范玮琪孕期骚扰女艺人](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E9%99%88%E5%BB%BA%E5%B7%9E%E5%9C%A8%E8%8C%83%E7%8E%AE%E7%90%AA%E5%AD%95%E6%9C%9F%E9%AA%9A%E6%89%B0%E5%A5%B3%E8%89%BA%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -18,9 +18,9 @@
 2. [泰坦号潜水器内爆残骸被运回岸上，残骸中发现「疑似人类遗骸」，哪些信息值得关注？](https://www.zhihu.com/question/609334039)<br />
 3. [苏东坡曾「日啖荔枝三百颗」，那他会上火吗？](https://www.zhihu.com/question/598568202)<br />
 4. [如果让你在 50 万人民币和清华大学录取通知书二选一你会选哪个？](https://www.zhihu.com/question/607748095)<br />
-5. [苹果 iPhone15 机型基本敲定，如何评价该产品？](https://www.zhihu.com/question/601025532)<br />
-6. [我忘记了笔记本电脑键盘禁用了，然后把电脑屏幕亮度调到了最低，现在屏幕看不见亮度也调不了了，怎么办？](https://www.zhihu.com/question/608618980)<br />
-7. [白宫证实拜登使用 CPAP 呼吸机治疗睡眠呼吸暂停，睡眠呼吸暂停综合症是种什么病？有好的治疗方法吗？](https://www.zhihu.com/question/609350758)<br />
+5. [白宫证实拜登使用 CPAP 呼吸机治疗睡眠呼吸暂停，睡眠呼吸暂停综合症是种什么病？有好的治疗方法吗？](https://www.zhihu.com/question/609350758)<br />
+6. [苹果 iPhone15 机型基本敲定，如何评价该产品？](https://www.zhihu.com/question/601025532)<br />
+7. [我忘记了笔记本电脑键盘禁用了，然后把电脑屏幕亮度调到了最低，现在屏幕看不见亮度也调不了了，怎么办？](https://www.zhihu.com/question/608618980)<br />
 8. [泽连斯基称「反对任何将俄乌冲突变为『冻结的冲突』的和平计划」，如何解读？](https://www.zhihu.com/question/609341151)<br />
 9. [俄「末日将军」苏洛维金据传被捕，疑为普里戈任内应，如何看待此事？后续进展如何？](https://www.zhihu.com/question/609355915)<br />
 
