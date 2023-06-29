@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 06:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 06:39:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [如何评价央视 6 频道 6 月 29 日播出的《湾区升明月》晚会？](https://www.zhihu.com/question/609467276)<br />
 6. [有没有高质量的书籍推荐？](https://www.zhihu.com/question/458685685)<br />
 7. [经济学家朱少平称「社会别给年轻人必须要买房的压力，房贷会让他们更喘不上气」，如何评价此观点？](https://www.zhihu.com/question/609356792)<br />
-8. []()<br />
-9. [《星球大战》里帝国士兵的白色铠甲不防弹，甚至手枪都不防，为什么还要全军配备？而且一直让士兵穿着？](https://www.zhihu.com/question/445290525)<br />
+8. [《星球大战》里帝国士兵的白色铠甲不防弹，甚至手枪都不防，为什么还要全军配备？而且一直让士兵穿着？](https://www.zhihu.com/question/445290525)<br />
+9. [你是从什么时候开始不爱发朋友圈了?](https://www.zhihu.com/question/602644549)<br />
 
 > 百度  
 
@@ -31,8 +31,8 @@
 3. [网友称外滩夜景灯光太土 官方回应](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B0%E5%A4%96%E6%BB%A9%E5%A4%9C%E6%99%AF%E7%81%AF%E5%85%89%E5%A4%AA%E5%9C%9F+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [点亮科学之光](https://www.baidu.com/s?wd=%E7%82%B9%E4%BA%AE%E7%A7%91%E5%AD%A6%E4%B9%8B%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [载客18人中巴被落石砸中 6人遇难](https://www.baidu.com/s?wd=%E8%BD%BD%E5%AE%A218%E4%BA%BA%E4%B8%AD%E5%B7%B4%E8%A2%AB%E8%90%BD%E7%9F%B3%E7%A0%B8%E4%B8%AD+6%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [徐小凤 今晚最佳](https://www.baidu.com/s?wd=%E5%BE%90%E5%B0%8F%E5%87%A4+%E4%BB%8A%E6%99%9A%E6%9C%80%E4%BD%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [物理学家称可能发现外星飞船残骸](https://www.baidu.com/s?wd=%E7%89%A9%E7%90%86%E5%AD%A6%E5%AE%B6%E7%A7%B0%E5%8F%AF%E8%83%BD%E5%8F%91%E7%8E%B0%E5%A4%96%E6%98%9F%E9%A3%9E%E8%88%B9%E6%AE%8B%E9%AA%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [物理学家称可能发现外星飞船残骸](https://www.baidu.com/s?wd=%E7%89%A9%E7%90%86%E5%AD%A6%E5%AE%B6%E7%A7%B0%E5%8F%AF%E8%83%BD%E5%8F%91%E7%8E%B0%E5%A4%96%E6%98%9F%E9%A3%9E%E8%88%B9%E6%AE%8B%E9%AA%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [徐小凤 今晚最佳](https://www.baidu.com/s?wd=%E5%BE%90%E5%B0%8F%E5%87%A4+%E4%BB%8A%E6%99%9A%E6%9C%80%E4%BD%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [浙江26岁小伙月薪3千存下30万](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F26%E5%B2%81%E5%B0%8F%E4%BC%99%E6%9C%88%E8%96%AA3%E5%8D%83%E5%AD%98%E4%B8%8B30%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [关晓彤帽子P掉了鹿晗品牌](https://www.baidu.com/s?wd=%E5%85%B3%E6%99%93%E5%BD%A4%E5%B8%BD%E5%AD%90P%E6%8E%89%E4%BA%86%E9%B9%BF%E6%99%97%E5%93%81%E7%89%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -43,7 +43,7 @@
 3. [网友称外滩夜景灯光太土 官方回应](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B0%E5%A4%96%E6%BB%A9%E5%A4%9C%E6%99%AF%E7%81%AF%E5%85%89%E5%A4%AA%E5%9C%9F+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [点亮科学之光](https://www.baidu.com/s?wd=%E7%82%B9%E4%BA%AE%E7%A7%91%E5%AD%A6%E4%B9%8B%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [载客18人中巴被落石砸中 6人遇难](https://www.baidu.com/s?wd=%E8%BD%BD%E5%AE%A218%E4%BA%BA%E4%B8%AD%E5%B7%B4%E8%A2%AB%E8%90%BD%E7%9F%B3%E7%A0%B8%E4%B8%AD+6%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [徐小凤 今晚最佳](https://www.baidu.com/s?wd=%E5%BE%90%E5%B0%8F%E5%87%A4+%E4%BB%8A%E6%99%9A%E6%9C%80%E4%BD%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [物理学家称可能发现外星飞船残骸](https://www.baidu.com/s?wd=%E7%89%A9%E7%90%86%E5%AD%A6%E5%AE%B6%E7%A7%B0%E5%8F%AF%E8%83%BD%E5%8F%91%E7%8E%B0%E5%A4%96%E6%98%9F%E9%A3%9E%E8%88%B9%E6%AE%8B%E9%AA%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [物理学家称可能发现外星飞船残骸](https://www.baidu.com/s?wd=%E7%89%A9%E7%90%86%E5%AD%A6%E5%AE%B6%E7%A7%B0%E5%8F%AF%E8%83%BD%E5%8F%91%E7%8E%B0%E5%A4%96%E6%98%9F%E9%A3%9E%E8%88%B9%E6%AE%8B%E9%AA%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [徐小凤 今晚最佳](https://www.baidu.com/s?wd=%E5%BE%90%E5%B0%8F%E5%87%A4+%E4%BB%8A%E6%99%9A%E6%9C%80%E4%BD%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [浙江26岁小伙月薪3千存下30万](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F26%E5%B2%81%E5%B0%8F%E4%BC%99%E6%9C%88%E8%96%AA3%E5%8D%83%E5%AD%98%E4%B8%8B30%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [关晓彤帽子P掉了鹿晗品牌](https://www.baidu.com/s?wd=%E5%85%B3%E6%99%93%E5%BD%A4%E5%B8%BD%E5%AD%90P%E6%8E%89%E4%BA%86%E9%B9%BF%E6%99%97%E5%93%81%E7%89%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
