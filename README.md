@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 15:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 15:23:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [陈建州vs全在俊](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BB%BA%E5%B7%9Evs%E5%85%A8%E5%9C%A8%E4%BF%8A%23&t=31&band_rank=6&Refer=top)<br />
 7. [张睿谈被披哥节目组连拒四次](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%9D%BF%E8%B0%88%E8%A2%AB%E6%8A%AB%E5%93%A5%E8%8A%82%E7%9B%AE%E7%BB%84%E8%BF%9E%E6%8B%92%E5%9B%9B%E6%AC%A1%23&t=31&band_rank=7&Refer=top)<br />
 8. [媒体评LV帆布袋又蠢又穷又虚荣](https://s.weibo.com/weibo?q=%23%E5%AA%92%E4%BD%93%E8%AF%84LV%E5%B8%86%E5%B8%83%E8%A2%8B%E5%8F%88%E8%A0%A2%E5%8F%88%E7%A9%B7%E5%8F%88%E8%99%9A%E8%8D%A3%23&t=31&band_rank=8&Refer=top)<br />
-9. [鳄鱼独居16年产子](https://s.weibo.com/weibo?q=%E9%B3%84%E9%B1%BC%E7%8B%AC%E5%B1%8516%E5%B9%B4%E4%BA%A7%E5%AD%90&t=31&band_rank=9&Refer=top)<br />
+9. [曝陈建州在范玮琪孕期骚扰女艺人](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E9%99%88%E5%BB%BA%E5%B7%9E%E5%9C%A8%E8%8C%83%E7%8E%AE%E7%90%AA%E5%AD%95%E6%9C%9F%E9%AA%9A%E6%89%B0%E5%A5%B3%E8%89%BA%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
