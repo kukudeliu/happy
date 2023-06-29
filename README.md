@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 20:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 20:34:01</h4></div>
 
 > 微博  
 
@@ -18,11 +18,11 @@
 2. [如何看待高级动卧票价一站 8 分钟 420 元，系二等座 70 倍？短途出行你会选高级动卧吗？](https://www.zhihu.com/question/609342725)<br />
 3. [上海卫健委称「网传『仁济医院医生嫖娼、科室组织卖淫』不实，已报警」，如何看待此谣言？](https://www.zhihu.com/question/609373690)<br />
 4. [拜登再次就俄罗斯「瓦格纳事件」表态，但口误称「普京正输掉伊拉克战争」，如何看待美方表态？](https://www.zhihu.com/question/609352184)<br />
-5. []()<br />
-6. [每天给你 100 万（考虑通胀还会增加）和全世界的狗和猫都听从并且只听从于你，你怎么选？](https://www.zhihu.com/question/606648178)<br />
-7. [人体能扛得住以 140-180KM/h 的速度被抛出去并撞在钢铁护栏上的冲量吗？](https://www.zhihu.com/question/602955496)<br />
-8. [贵州村超举办地榕江 38 万人有 5 万人踢球，全县标准足球场 14 块免费开放，哪些信息值得关注？](https://www.zhihu.com/question/609367220)<br />
-9. [博主曝光山姆会员店售卖临期食品，你是如何看待临期食品的？](https://www.zhihu.com/question/609391770)<br />
+5. [日本物价指数连月上涨，日本真的要走出通缩了吗？对我国有哪些借鉴意义？](https://www.zhihu.com/theater/89439)<br />
+6. []()<br />
+7. [每天给你 100 万（考虑通胀还会增加）和全世界的狗和猫都听从并且只听从于你，你怎么选？](https://www.zhihu.com/question/606648178)<br />
+8. [人体能扛得住以 140-180KM/h 的速度被抛出去并撞在钢铁护栏上的冲量吗？](https://www.zhihu.com/question/602955496)<br />
+9. [贵州村超举办地榕江 38 万人有 5 万人踢球，全县标准足球场 14 块免费开放，哪些信息值得关注？](https://www.zhihu.com/question/609367220)<br />
 
 > 百度  
 
@@ -33,7 +33,7 @@
 5. [无糖可乐不能喝了？或含致癌物](https://www.baidu.com/s?wd=%E6%97%A0%E7%B3%96%E5%8F%AF%E4%B9%90%E4%B8%8D%E8%83%BD%E5%96%9D%E4%BA%86%EF%BC%9F%E6%88%96%E5%90%AB%E8%87%B4%E7%99%8C%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [浙江26岁小伙月薪3千存下30万](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F26%E5%B2%81%E5%B0%8F%E4%BC%99%E6%9C%88%E8%96%AA3%E5%8D%83%E5%AD%98%E4%B8%8B30%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [辛芷蕾自曝小时候曾遭遇轻微猥亵](https://www.baidu.com/s?wd=%E8%BE%9B%E8%8A%B7%E8%95%BE%E8%87%AA%E6%9B%9D%E5%B0%8F%E6%97%B6%E5%80%99%E6%9B%BE%E9%81%AD%E9%81%87%E8%BD%BB%E5%BE%AE%E7%8C%A5%E4%BA%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子疑坐公交不付钱踩猫威胁司机](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%96%91%E5%9D%90%E5%85%AC%E4%BA%A4%E4%B8%8D%E4%BB%98%E9%92%B1%E8%B8%A9%E7%8C%AB%E5%A8%81%E8%83%81%E5%8F%B8%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [2岁男童坠楼身亡 家属索赔145万](https://www.baidu.com/s?wd=2%E5%B2%81%E7%94%B7%E7%AB%A5%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1+%E5%AE%B6%E5%B1%9E%E7%B4%A2%E8%B5%94145%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆一客运大巴被落石砸中](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E5%AE%A2%E8%BF%90%E5%A4%A7%E5%B7%B4%E8%A2%AB%E8%90%BD%E7%9F%B3%E7%A0%B8%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [无糖可乐不能喝了？或含致癌物](https://www.baidu.com/s?wd=%E6%97%A0%E7%B3%96%E5%8F%AF%E4%B9%90%E4%B8%8D%E8%83%BD%E5%96%9D%E4%BA%86%EF%BC%9F%E6%88%96%E5%90%AB%E8%87%B4%E7%99%8C%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [浙江26岁小伙月薪3千存下30万](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F26%E5%B2%81%E5%B0%8F%E4%BC%99%E6%9C%88%E8%96%AA3%E5%8D%83%E5%AD%98%E4%B8%8B30%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [辛芷蕾自曝小时候曾遭遇轻微猥亵](https://www.baidu.com/s?wd=%E8%BE%9B%E8%8A%B7%E8%95%BE%E8%87%AA%E6%9B%9D%E5%B0%8F%E6%97%B6%E5%80%99%E6%9B%BE%E9%81%AD%E9%81%87%E8%BD%BB%E5%BE%AE%E7%8C%A5%E4%BA%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子疑坐公交不付钱踩猫威胁司机](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%96%91%E5%9D%90%E5%85%AC%E4%BA%A4%E4%B8%8D%E4%BB%98%E9%92%B1%E8%B8%A9%E7%8C%AB%E5%A8%81%E8%83%81%E5%8F%B8%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [2岁男童坠楼身亡 家属索赔145万](https://www.baidu.com/s?wd=2%E5%B2%81%E7%94%B7%E7%AB%A5%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1+%E5%AE%B6%E5%B1%9E%E7%B4%A2%E8%B5%94145%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆一客运大巴被落石砸中](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E5%AE%A2%E8%BF%90%E5%A4%A7%E5%B7%B4%E8%A2%AB%E8%90%BD%E7%9F%B3%E7%A0%B8%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
