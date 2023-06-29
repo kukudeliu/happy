@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 09:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 09:59:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. []()<br />
 6. [请问这样的字（准高三生写的）适合用来参加高考吗？](https://www.zhihu.com/question/602274661)<br />
 7. []()<br />
-8. [烦恼和痛苦的本质是什么？](https://www.zhihu.com/question/607957452)<br />
-9. []()<br />
+8. []()<br />
+9. [烦恼和痛苦的本质是什么？](https://www.zhihu.com/question/607957452)<br />
 
 > 百度  
 
