@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 03:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 03:21:01</h4></div>
 
 > 微博  
 
 1. [韩国网友对长月烬明的评价](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%BD%91%E5%8F%8B%E5%AF%B9%E9%95%BF%E6%9C%88%E7%83%AC%E6%98%8E%E7%9A%84%E8%AF%84%E4%BB%B7%23&t=31&band_rank=1&Refer=top)<br />
-2. [刘浩存好漂亮](https://s.weibo.com/weibo?q=%E5%88%98%E6%B5%A9%E5%AD%98%E5%A5%BD%E6%BC%82%E4%BA%AE&t=31&band_rank=2&Refer=top)<br />
+2. [港星赢得很彻底](https://s.weibo.com/weibo?q=%23%E6%B8%AF%E6%98%9F%E8%B5%A2%E5%BE%97%E5%BE%88%E5%BD%BB%E5%BA%95%23&t=31&band_rank=2&Refer=top)<br />
 3. [2023年中国网络文明大会新闻发布会](https://s.weibo.com/weibo?q=%232023%E5%B9%B4%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E5%A4%A7%E4%BC%9A%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
-4. [港星赢得很彻底](https://s.weibo.com/weibo?q=%23%E6%B8%AF%E6%98%9F%E8%B5%A2%E5%BE%97%E5%BE%88%E5%BD%BB%E5%BA%95%23&t=31&band_rank=4&Refer=top)<br />
+4. [刘浩存好漂亮](https://s.weibo.com/weibo?q=%E5%88%98%E6%B5%A9%E5%AD%98%E5%A5%BD%E6%BC%82%E4%BA%AE&t=31&band_rank=4&Refer=top)<br />
 5. [肖战真唱](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E7%9C%9F%E5%94%B1&t=31&band_rank=5&Refer=top)<br />
 6. [LPL大瓜](https://s.weibo.com/weibo?q=LPL%E5%A4%A7%E7%93%9C&t=31&band_rank=6&Refer=top)<br />
 7. [姜个顾事](https://s.weibo.com/weibo?q=%E5%A7%9C%E4%B8%AA%E9%A1%BE%E4%BA%8B&t=31&band_rank=7&Refer=top)<br />
@@ -21,8 +21,8 @@
 5. [如何看待中科大 QS2024 排名跌出 top100 排第 138？](https://www.zhihu.com/question/609135032)<br />
 6. [为什么电影每秒播放的帧数一直停留在 24 帧而不继续向更高的帧数发展？](https://www.zhihu.com/question/281685561)<br />
 7. []()<br />
-8. [经济学家朱少平称「社会别给年轻人必须要买房的压力，房贷会让他们更喘不上气」，如何评价此观点？](https://www.zhihu.com/question/609356792)<br />
-9. [你是从什么时候开始不爱发朋友圈了?](https://www.zhihu.com/question/602644549)<br />
+8. [如何评价央视 6 频道 6 月 29 日播出的《湾区升明月》晚会？](https://www.zhihu.com/question/609467276)<br />
+9. [经济学家朱少平称「社会别给年轻人必须要买房的压力，房贷会让他们更喘不上气」，如何评价此观点？](https://www.zhihu.com/question/609356792)<br />
 
 > 百度  
 
