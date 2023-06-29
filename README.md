@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 06:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 06:51:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [官方回应上海外滩夜景灯光被吐槽](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E4%B8%8A%E6%B5%B7%E5%A4%96%E6%BB%A9%E5%A4%9C%E6%99%AF%E7%81%AF%E5%85%89%E8%A2%AB%E5%90%90%E6%A7%BD%23&t=31&band_rank=2&Refer=top)<br />
 3. [2023年中国网络文明大会新闻发布会](https://s.weibo.com/weibo?q=%232023%E5%B9%B4%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E5%A4%A7%E4%BC%9A%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [港星赢得很彻底](https://s.weibo.com/weibo?q=%23%E6%B8%AF%E6%98%9F%E8%B5%A2%E5%BE%97%E5%BE%88%E5%BD%BB%E5%BA%95%23&t=31&band_rank=4&Refer=top)<br />
-5. [肖战湾区升明月内场饭拍](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%B9%BE%E5%8C%BA%E5%8D%87%E6%98%8E%E6%9C%88%E5%86%85%E5%9C%BA%E9%A5%AD%E6%8B%8D%23&t=31&band_rank=5&Refer=top)<br />
+5. [去故宫的时候一定要抬头](https://s.weibo.com/weibo?q=%E5%8E%BB%E6%95%85%E5%AE%AB%E7%9A%84%E6%97%B6%E5%80%99%E4%B8%80%E5%AE%9A%E8%A6%81%E6%8A%AC%E5%A4%B4&t=31&band_rank=5&Refer=top)<br />
 6. [LPL大瓜](https://s.weibo.com/weibo?q=LPL%E5%A4%A7%E7%93%9C&t=31&band_rank=6&Refer=top)<br />
-7. [去故宫的时候一定要抬头](https://s.weibo.com/weibo?q=%E5%8E%BB%E6%95%85%E5%AE%AB%E7%9A%84%E6%97%B6%E5%80%99%E4%B8%80%E5%AE%9A%E8%A6%81%E6%8A%AC%E5%A4%B4&t=31&band_rank=7&Refer=top)<br />
-8. [章子怡压轴](https://s.weibo.com/weibo?q=%E7%AB%A0%E5%AD%90%E6%80%A1%E5%8E%8B%E8%BD%B4&t=31&band_rank=8&Refer=top)<br />
-9. [任嘉伦Angelababy对手戏](https://s.weibo.com/weibo?q=%23%E4%BB%BB%E5%98%89%E4%BC%A6Angelababy%E5%AF%B9%E6%89%8B%E6%88%8F%23&t=31&band_rank=9&Refer=top)<br />
+7. [肖战湾区升明月内场饭拍](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%B9%BE%E5%8C%BA%E5%8D%87%E6%98%8E%E6%9C%88%E5%86%85%E5%9C%BA%E9%A5%AD%E6%8B%8D%23&t=31&band_rank=7&Refer=top)<br />
+8. [任嘉伦Angelababy对手戏](https://s.weibo.com/weibo?q=%23%E4%BB%BB%E5%98%89%E4%BC%A6Angelababy%E5%AF%B9%E6%89%8B%E6%88%8F%23&t=31&band_rank=8&Refer=top)<br />
+9. [章子怡压轴](https://s.weibo.com/weibo?q=%E7%AB%A0%E5%AD%90%E6%80%A1%E5%8E%8B%E8%BD%B4&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [有没有高质量的书籍推荐？](https://www.zhihu.com/question/458685685)<br />
 7. [经济学家朱少平称「社会别给年轻人必须要买房的压力，房贷会让他们更喘不上气」，如何评价此观点？](https://www.zhihu.com/question/609356792)<br />
 8. [博主曝光山姆会员店售卖临期食品，你是如何看待临期食品的？](https://www.zhihu.com/question/609391770)<br />
-9. [《星球大战》里帝国士兵的白色铠甲不防弹，甚至手枪都不防，为什么还要全军配备？而且一直让士兵穿着？](https://www.zhihu.com/question/445290525)<br />
+9. []()<br />
 
 > 百度  
 
