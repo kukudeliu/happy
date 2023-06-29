@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 05:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 05:56:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [如何评价央视 6 频道 6 月 29 日播出的《湾区升明月》晚会？](https://www.zhihu.com/question/609467276)<br />
 7. [有没有高质量的书籍推荐？](https://www.zhihu.com/question/458685685)<br />
 8. [你是从什么时候开始不爱发朋友圈了?](https://www.zhihu.com/question/602644549)<br />
-9. [每天给你 100 万（考虑通胀还会增加）和全世界的狗和猫都听从并且只听从于你，你怎么选？](https://www.zhihu.com/question/606648178)<br />
+9. []()<br />
 
 > 百度  
 
