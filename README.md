@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 06:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 06:20:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [上海学区房最强阵地失守，两年内从近 15 万跌到 10 万，曾经一周涨 39.4%，哪些信息值得关注？](https://www.zhihu.com/question/609355451)<br />
 5. [如何评价央视 6 频道 6 月 29 日播出的《湾区升明月》晚会？](https://www.zhihu.com/question/609467276)<br />
 6. [有没有高质量的书籍推荐？](https://www.zhihu.com/question/458685685)<br />
-7. [应届生加了 HR 的微信，应该称呼她什么?](https://www.zhihu.com/question/520705594)<br />
-8. [博主曝光山姆会员店售卖临期食品，你是如何看待临期食品的？](https://www.zhihu.com/question/609391770)<br />
-9. [如何看待中科大 QS2024 排名跌出 top100 排第 138？](https://www.zhihu.com/question/609135032)<br />
+7. [博主曝光山姆会员店售卖临期食品，你是如何看待临期食品的？](https://www.zhihu.com/question/609391770)<br />
+8. [如何看待中科大 QS2024 排名跌出 top100 排第 138？](https://www.zhihu.com/question/609135032)<br />
+9. [应届生加了 HR 的微信，应该称呼她什么?](https://www.zhihu.com/question/520705594)<br />
 
 > 百度  
 
