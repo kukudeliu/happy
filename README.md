@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 14:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 14:59:01</h4></div>
 
 > 微博  
 
@@ -19,10 +19,10 @@
 3. [苏东坡曾「日啖荔枝三百颗」，那他会上火吗？](https://www.zhihu.com/question/598568202)<br />
 4. [如果让你在 50 万人民币和清华大学录取通知书二选一你会选哪个？](https://www.zhihu.com/question/607748095)<br />
 5. [白宫证实拜登使用 CPAP 呼吸机治疗睡眠呼吸暂停，睡眠呼吸暂停综合症是种什么病？有好的治疗方法吗？](https://www.zhihu.com/question/609350758)<br />
-6. [苹果 iPhone15 机型基本敲定，如何评价该产品？](https://www.zhihu.com/question/601025532)<br />
-7. [我忘记了笔记本电脑键盘禁用了，然后把电脑屏幕亮度调到了最低，现在屏幕看不见亮度也调不了了，怎么办？](https://www.zhihu.com/question/608618980)<br />
-8. [泽连斯基称「反对任何将俄乌冲突变为『冻结的冲突』的和平计划」，如何解读？](https://www.zhihu.com/question/609341151)<br />
-9. [俄「末日将军」苏洛维金据传被捕，疑为普里戈任内应，如何看待此事？后续进展如何？](https://www.zhihu.com/question/609355915)<br />
+6. [泽连斯基称「反对任何将俄乌冲突变为『冻结的冲突』的和平计划」，如何解读？](https://www.zhihu.com/question/609341151)<br />
+7. [俄「末日将军」苏洛维金据传被捕，疑为普里戈任内应，如何看待此事？后续进展如何？](https://www.zhihu.com/question/609355915)<br />
+8. [苹果 iPhone15 机型基本敲定，如何评价该产品？](https://www.zhihu.com/question/601025532)<br />
+9. [我忘记了笔记本电脑键盘禁用了，然后把电脑屏幕亮度调到了最低，现在屏幕看不见亮度也调不了了，怎么办？](https://www.zhihu.com/question/608618980)<br />
 
 > 百度  
 
