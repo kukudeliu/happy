@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 11:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 11:39:01</h4></div>
 
 > 微博  
 
@@ -15,14 +15,14 @@
 > 知乎  
 
 1. [广州二孩及以上家庭公积金贷款购房额上浮 30%，最高贷 130 万，节约利息 32 万，如何看待此举？](https://www.zhihu.com/question/609178796)<br />
-2. [为什么那么多人执着于考公务员呢？](https://www.zhihu.com/question/595603265)<br />
-3. [泰坦号潜水器内爆残骸被运回岸上，残骸中发现「疑似人类遗骸」，哪些信息值得关注？](https://www.zhihu.com/question/609334039)<br />
+2. [泰坦号潜水器内爆残骸被运回岸上，残骸中发现「疑似人类遗骸」，哪些信息值得关注？](https://www.zhihu.com/question/609334039)<br />
+3. [为什么那么多人执着于考公务员呢？](https://www.zhihu.com/question/595603265)<br />
 4. [鲍威尔表示美联储预计会出现更多的紧缩力量，并重申「多数决策者预计今年将再加息两次」，释放了什么信号？](https://www.zhihu.com/question/609288325)<br />
 5. [如何看待《成龙历险记》大结局?](https://www.zhihu.com/question/347103500)<br />
 6. [我忘记了笔记本电脑键盘禁用了，然后把电脑屏幕亮度调到了最低，现在屏幕看不见亮度也调不了了，怎么办？](https://www.zhihu.com/question/608618980)<br />
 7. [天天健身的人最后膝盖都怎么样了？](https://www.zhihu.com/question/370126051)<br />
-8. [为什么《疾速追杀 4》中基努·里维斯的动作戏看着很吃力、踉踉跄跄？](https://www.zhihu.com/question/607986724)<br />
-9. [高考 200 多分是去打工还是读大专？](https://www.zhihu.com/question/608970156)<br />
+8. [高考 200 多分是去打工还是读大专？](https://www.zhihu.com/question/608970156)<br />
+9. [调查称「未来十年美元全球外汇储备占比将降至 54 %，超 30 % 央行计划增加人民币储备」，有何原因？](https://www.zhihu.com/question/609174009)<br />
 
 > 百度  
 
@@ -34,7 +34,7 @@
 6. [四川考生王俊凯高考理科699分](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E8%80%83%E7%94%9F%E7%8E%8B%E4%BF%8A%E5%87%AF%E9%AB%98%E8%80%83%E7%90%86%E7%A7%91699%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [“鼠鼠鸭”玩具遭下架 创作者回应](https://www.baidu.com/s?wd=%E2%80%9C%E9%BC%A0%E9%BC%A0%E9%B8%AD%E2%80%9D%E7%8E%A9%E5%85%B7%E9%81%AD%E4%B8%8B%E6%9E%B6+%E5%88%9B%E4%BD%9C%E8%80%85%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [富豪40度高温看房 茶水费就要160万](https://www.baidu.com/s?wd=%E5%AF%8C%E8%B1%AA40%E5%BA%A6%E9%AB%98%E6%B8%A9%E7%9C%8B%E6%88%BF+%E8%8C%B6%E6%B0%B4%E8%B4%B9%E5%B0%B1%E8%A6%81160%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [张雪峰6年前的演讲火了](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B3%B06%E5%B9%B4%E5%89%8D%E7%9A%84%E6%BC%94%E8%AE%B2%E7%81%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子杀害妻儿砍伤岳母后跳河身亡](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%9D%80%E5%AE%B3%E5%A6%BB%E5%84%BF%E7%A0%8D%E4%BC%A4%E5%B2%B3%E6%AF%8D%E5%90%8E%E8%B7%B3%E6%B2%B3%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [四川考生王俊凯高考理科699分](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E8%80%83%E7%94%9F%E7%8E%8B%E4%BF%8A%E5%87%AF%E9%AB%98%E8%80%83%E7%90%86%E7%A7%91699%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [“鼠鼠鸭”玩具遭下架 创作者回应](https://www.baidu.com/s?wd=%E2%80%9C%E9%BC%A0%E9%BC%A0%E9%B8%AD%E2%80%9D%E7%8E%A9%E5%85%B7%E9%81%AD%E4%B8%8B%E6%9E%B6+%E5%88%9B%E4%BD%9C%E8%80%85%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [富豪40度高温看房 茶水费就要160万](https://www.baidu.com/s?wd=%E5%AF%8C%E8%B1%AA40%E5%BA%A6%E9%AB%98%E6%B8%A9%E7%9C%8B%E6%88%BF+%E8%8C%B6%E6%B0%B4%E8%B4%B9%E5%B0%B1%E8%A6%81160%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [张雪峰6年前的演讲火了](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B3%B06%E5%B9%B4%E5%89%8D%E7%9A%84%E6%BC%94%E8%AE%B2%E7%81%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子杀害妻儿砍伤岳母后跳河身亡](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%9D%80%E5%AE%B3%E5%A6%BB%E5%84%BF%E7%A0%8D%E4%BC%A4%E5%B2%B3%E6%AF%8D%E5%90%8E%E8%B7%B3%E6%B2%B3%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
