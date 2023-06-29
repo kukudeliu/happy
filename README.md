@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 11:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-29 11:54:01</h4></div>
 
 > 微博  
 
@@ -16,8 +16,8 @@
 
 1. [广州二孩及以上家庭公积金贷款购房额上浮 30%，最高贷 130 万，节约利息 32 万，如何看待此举？](https://www.zhihu.com/question/609178796)<br />
 2. [泰坦号潜水器内爆残骸被运回岸上，残骸中发现「疑似人类遗骸」，哪些信息值得关注？](https://www.zhihu.com/question/609334039)<br />
-3. [为什么那么多人执着于考公务员呢？](https://www.zhihu.com/question/595603265)<br />
-4. [如何看待《成龙历险记》大结局?](https://www.zhihu.com/question/347103500)<br />
+3. [如何看待《成龙历险记》大结局?](https://www.zhihu.com/question/347103500)<br />
+4. [为什么那么多人执着于考公务员呢？](https://www.zhihu.com/question/595603265)<br />
 5. [高考 200 多分是去打工还是读大专？](https://www.zhihu.com/question/608970156)<br />
 6. [我忘记了笔记本电脑键盘禁用了，然后把电脑屏幕亮度调到了最低，现在屏幕看不见亮度也调不了了，怎么办？](https://www.zhihu.com/question/608618980)<br />
 7. [调查称「未来十年美元全球外汇储备占比将降至 54 %，超 30 % 央行计划增加人民币储备」，有何原因？](https://www.zhihu.com/question/609174009)<br />
