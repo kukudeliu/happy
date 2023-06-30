@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 04:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 04:34:01</h4></div>
 
 > 微博  
 
@@ -32,9 +32,9 @@
 4. [数字里看亮点](https://www.baidu.com/s?wd=%E6%95%B0%E5%AD%97%E9%87%8C%E7%9C%8B%E4%BA%AE%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [美国将重返教科文组织 中方投反对票](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%B0%86%E9%87%8D%E8%BF%94%E6%95%99%E7%A7%91%E6%96%87%E7%BB%84%E7%BB%87+%E4%B8%AD%E6%96%B9%E6%8A%95%E5%8F%8D%E5%AF%B9%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [比盐粒还小的手提包卖出46.2万](https://www.baidu.com/s?wd=%E6%AF%94%E7%9B%90%E7%B2%92%E8%BF%98%E5%B0%8F%E7%9A%84%E6%89%8B%E6%8F%90%E5%8C%85%E5%8D%96%E5%87%BA46.2%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [深圳一地回应鼓励49岁以下再生育](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%9C%B0%E5%9B%9E%E5%BA%94%E9%BC%93%E5%8A%B149%E5%B2%81%E4%BB%A5%E4%B8%8B%E5%86%8D%E7%94%9F%E8%82%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [山姆泡面桶炒至500元仍遭疯抢](https://www.baidu.com/s?wd=%E5%B1%B1%E5%A7%86%E6%B3%A1%E9%9D%A2%E6%A1%B6%E7%82%92%E8%87%B3500%E5%85%83%E4%BB%8D%E9%81%AD%E7%96%AF%E6%8A%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [教师在医院楼顶水箱溺亡 官方回应](https://www.baidu.com/s?wd=%E6%95%99%E5%B8%88%E5%9C%A8%E5%8C%BB%E9%99%A2%E6%A5%BC%E9%A1%B6%E6%B0%B4%E7%AE%B1%E6%BA%BA%E4%BA%A1+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [媒体：不跳不是人如此起哄不是人话](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E4%B8%8D%E8%B7%B3%E4%B8%8D%E6%98%AF%E4%BA%BA%E5%A6%82%E6%AD%A4%E8%B5%B7%E5%93%84%E4%B8%8D%E6%98%AF%E4%BA%BA%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [深圳一地回应鼓励49岁以下再生育](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%9C%B0%E5%9B%9E%E5%BA%94%E9%BC%93%E5%8A%B149%E5%B2%81%E4%BB%A5%E4%B8%8B%E5%86%8D%E7%94%9F%E8%82%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [山姆泡面桶炒至500元仍遭疯抢](https://www.baidu.com/s?wd=%E5%B1%B1%E5%A7%86%E6%B3%A1%E9%9D%A2%E6%A1%B6%E7%82%92%E8%87%B3500%E5%85%83%E4%BB%8D%E9%81%AD%E7%96%AF%E6%8A%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [数字里看亮点](https://www.baidu.com/s?wd=%E6%95%B0%E5%AD%97%E9%87%8C%E7%9C%8B%E4%BA%AE%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [美国将重返教科文组织 中方投反对票](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%B0%86%E9%87%8D%E8%BF%94%E6%95%99%E7%A7%91%E6%96%87%E7%BB%84%E7%BB%87+%E4%B8%AD%E6%96%B9%E6%8A%95%E5%8F%8D%E5%AF%B9%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [比盐粒还小的手提包卖出46.2万](https://www.baidu.com/s?wd=%E6%AF%94%E7%9B%90%E7%B2%92%E8%BF%98%E5%B0%8F%E7%9A%84%E6%89%8B%E6%8F%90%E5%8C%85%E5%8D%96%E5%87%BA46.2%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [深圳一地回应鼓励49岁以下再生育](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%9C%B0%E5%9B%9E%E5%BA%94%E9%BC%93%E5%8A%B149%E5%B2%81%E4%BB%A5%E4%B8%8B%E5%86%8D%E7%94%9F%E8%82%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [山姆泡面桶炒至500元仍遭疯抢](https://www.baidu.com/s?wd=%E5%B1%B1%E5%A7%86%E6%B3%A1%E9%9D%A2%E6%A1%B6%E7%82%92%E8%87%B3500%E5%85%83%E4%BB%8D%E9%81%AD%E7%96%AF%E6%8A%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [教师在医院楼顶水箱溺亡 官方回应](https://www.baidu.com/s?wd=%E6%95%99%E5%B8%88%E5%9C%A8%E5%8C%BB%E9%99%A2%E6%A5%BC%E9%A1%B6%E6%B0%B4%E7%AE%B1%E6%BA%BA%E4%BA%A1+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [媒体：不跳不是人如此起哄不是人话](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E4%B8%8D%E8%B7%B3%E4%B8%8D%E6%98%AF%E4%BA%BA%E5%A6%82%E6%AD%A4%E8%B5%B7%E5%93%84%E4%B8%8D%E6%98%AF%E4%BA%BA%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [深圳一地回应鼓励49岁以下再生育](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%9C%B0%E5%9B%9E%E5%BA%94%E9%BC%93%E5%8A%B149%E5%B2%81%E4%BB%A5%E4%B8%8B%E5%86%8D%E7%94%9F%E8%82%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [山姆泡面桶炒至500元仍遭疯抢](https://www.baidu.com/s?wd=%E5%B1%B1%E5%A7%86%E6%B3%A1%E9%9D%A2%E6%A1%B6%E7%82%92%E8%87%B3500%E5%85%83%E4%BB%8D%E9%81%AD%E7%96%AF%E6%8A%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
