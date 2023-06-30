@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 21:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 21:14:01</h4></div>
 
 > 微博  
 
@@ -33,7 +33,7 @@
 5. [Kindle真的要拿来盖泡面了](https://www.baidu.com/s?wd=Kindle%E7%9C%9F%E7%9A%84%E8%A6%81%E6%8B%BF%E6%9D%A5%E7%9B%96%E6%B3%A1%E9%9D%A2%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [1700元周杰伦演唱会门票直接烧了](https://www.baidu.com/s?wd=1700%E5%85%83%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E7%9B%B4%E6%8E%A5%E7%83%A7%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [教师在医院楼顶水箱溺亡 官方回应](https://www.baidu.com/s?wd=%E6%95%99%E5%B8%88%E5%9C%A8%E5%8C%BB%E9%99%A2%E6%A5%BC%E9%A1%B6%E6%B0%B4%E7%AE%B1%E6%BA%BA%E4%BA%A1+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [大数据看这个6月北方有多热](https://www.baidu.com/s?wd=%E5%A4%A7%E6%95%B0%E6%8D%AE%E7%9C%8B%E8%BF%99%E4%B8%AA6%E6%9C%88%E5%8C%97%E6%96%B9%E6%9C%89%E5%A4%9A%E7%83%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [牛犊被咬死现场留巨大爪痕](https://www.baidu.com/s?wd=%E7%89%9B%E7%8A%8A%E8%A2%AB%E5%92%AC%E6%AD%BB%E7%8E%B0%E5%9C%BA%E7%95%99%E5%B7%A8%E5%A4%A7%E7%88%AA%E7%97%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [#奔跑吧延期播出#](https://www.baidu.com/s?wd=%23%E5%A5%94%E8%B7%91%E5%90%A7%E5%BB%B6%E6%9C%9F%E6%92%AD%E5%87%BA%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [Kindle真的要拿来盖泡面了](https://www.baidu.com/s?wd=Kindle%E7%9C%9F%E7%9A%84%E8%A6%81%E6%8B%BF%E6%9D%A5%E7%9B%96%E6%B3%A1%E9%9D%A2%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [1700元周杰伦演唱会门票直接烧了](https://www.baidu.com/s?wd=1700%E5%85%83%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E7%9B%B4%E6%8E%A5%E7%83%A7%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [教师在医院楼顶水箱溺亡 官方回应](https://www.baidu.com/s?wd=%E6%95%99%E5%B8%88%E5%9C%A8%E5%8C%BB%E9%99%A2%E6%A5%BC%E9%A1%B6%E6%B0%B4%E7%AE%B1%E6%BA%BA%E4%BA%A1+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [大数据看这个6月北方有多热](https://www.baidu.com/s?wd=%E5%A4%A7%E6%95%B0%E6%8D%AE%E7%9C%8B%E8%BF%99%E4%B8%AA6%E6%9C%88%E5%8C%97%E6%96%B9%E6%9C%89%E5%A4%9A%E7%83%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [牛犊被咬死现场留巨大爪痕](https://www.baidu.com/s?wd=%E7%89%9B%E7%8A%8A%E8%A2%AB%E5%92%AC%E6%AD%BB%E7%8E%B0%E5%9C%BA%E7%95%99%E5%B7%A8%E5%A4%A7%E7%88%AA%E7%97%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [#奔跑吧延期播出#](https://www.baidu.com/s?wd=%23%E5%A5%94%E8%B7%91%E5%90%A7%E5%BB%B6%E6%9C%9F%E6%92%AD%E5%87%BA%23&sa=fyb_news&rsv_dl=fyb_news)<br />
