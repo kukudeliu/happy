@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 09:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 09:37:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [你贫血的原因可能和咖啡有关](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%B4%AB%E8%A1%80%E7%9A%84%E5%8E%9F%E5%9B%A0%E5%8F%AF%E8%83%BD%E5%92%8C%E5%92%96%E5%95%A1%E6%9C%89%E5%85%B3%23&t=31&band_rank=5&Refer=top)<br />
 6. [杰森斯坦森回应爱称郭达](https://s.weibo.com/weibo?q=%23%E6%9D%B0%E6%A3%AE%E6%96%AF%E5%9D%A6%E6%A3%AE%E5%9B%9E%E5%BA%94%E7%88%B1%E7%A7%B0%E9%83%AD%E8%BE%BE%23&t=31&band_rank=6&Refer=top)<br />
 7. [小伙在没信号的原始森林隐居4年](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E5%9C%A8%E6%B2%A1%E4%BF%A1%E5%8F%B7%E7%9A%84%E5%8E%9F%E5%A7%8B%E6%A3%AE%E6%9E%97%E9%9A%90%E5%B1%854%E5%B9%B4%23&t=31&band_rank=7&Refer=top)<br />
-8. [唐朝早就有多巴胺穿搭了](https://s.weibo.com/weibo?q=%23%E5%94%90%E6%9C%9D%E6%97%A9%E5%B0%B1%E6%9C%89%E5%A4%9A%E5%B7%B4%E8%83%BA%E7%A9%BF%E6%90%AD%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [LPL大瓜](https://s.weibo.com/weibo?q=LPL%E5%A4%A7%E7%93%9C&t=31&band_rank=9&Refer=top)<br />
+8. [四胞胎高考出分父亲给警察打电话报喜](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E8%83%9E%E8%83%8E%E9%AB%98%E8%80%83%E5%87%BA%E5%88%86%E7%88%B6%E4%BA%B2%E7%BB%99%E8%AD%A6%E5%AF%9F%E6%89%93%E7%94%B5%E8%AF%9D%E6%8A%A5%E5%96%9C%23&t=31&band_rank=8&Refer=top)<br />
+9. [人性最大的恶](https://s.weibo.com/weibo?q=%E4%BA%BA%E6%80%A7%E6%9C%80%E5%A4%A7%E7%9A%84%E6%81%B6&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
