@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 21:48:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 21:49:01</h4></div>
 
 > 微博  
 
@@ -31,10 +31,10 @@
 3. [“警察射杀17岁少年”引爆法国社会](https://www.baidu.com/s?wd=%E2%80%9C%E8%AD%A6%E5%AF%9F%E5%B0%84%E6%9D%8017%E5%B2%81%E5%B0%91%E5%B9%B4%E2%80%9D%E5%BC%95%E7%88%86%E6%B3%95%E5%9B%BD%E7%A4%BE%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [数字里看亮点](https://www.baidu.com/s?wd=%E6%95%B0%E5%AD%97%E9%87%8C%E7%9C%8B%E4%BA%AE%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [Kindle真的要拿来盖泡面了](https://www.baidu.com/s?wd=Kindle%E7%9C%9F%E7%9A%84%E8%A6%81%E6%8B%BF%E6%9D%A5%E7%9B%96%E6%B3%A1%E9%9D%A2%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [教师在医院楼顶水箱溺亡 官方回应](https://www.baidu.com/s?wd=%E6%95%99%E5%B8%88%E5%9C%A8%E5%8C%BB%E9%99%A2%E6%A5%BC%E9%A1%B6%E6%B0%B4%E7%AE%B1%E6%BA%BA%E4%BA%A1+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [湖南遇特大暴雨：市民街头抱团互救](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E9%81%87%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%A8%EF%BC%9A%E5%B8%82%E6%B0%91%E8%A1%97%E5%A4%B4%E6%8A%B1%E5%9B%A2%E4%BA%92%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [多名陌生男子闯入室内 住户坠楼身亡](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E9%99%8C%E7%94%9F%E7%94%B7%E5%AD%90%E9%97%AF%E5%85%A5%E5%AE%A4%E5%86%85+%E4%BD%8F%E6%88%B7%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [山姆泡面桶炒至500元仍遭疯抢](https://www.baidu.com/s?wd=%E5%B1%B1%E5%A7%86%E6%B3%A1%E9%9D%A2%E6%A1%B6%E7%82%92%E8%87%B3500%E5%85%83%E4%BB%8D%E9%81%AD%E7%96%AF%E6%8A%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [多名陌生男子闯入室内 住户坠楼身亡](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E9%99%8C%E7%94%9F%E7%94%B7%E5%AD%90%E9%97%AF%E5%85%A5%E5%AE%A4%E5%86%85+%E4%BD%8F%E6%88%B7%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [复读14年的高考钉子户考了594分](https://www.baidu.com/s?wd=%E5%A4%8D%E8%AF%BB14%E5%B9%B4%E7%9A%84%E9%AB%98%E8%80%83%E9%92%89%E5%AD%90%E6%88%B7%E8%80%83%E4%BA%86594%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中方：印尼需调查情侣命案作案动机](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%EF%BC%9A%E5%8D%B0%E5%B0%BC%E9%9C%80%E8%B0%83%E6%9F%A5%E6%83%85%E4%BE%A3%E5%91%BD%E6%A1%88%E4%BD%9C%E6%A1%88%E5%8A%A8%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [教师在医院楼顶水箱溺亡 官方回应](https://www.baidu.com/s?wd=%E6%95%99%E5%B8%88%E5%9C%A8%E5%8C%BB%E9%99%A2%E6%A5%BC%E9%A1%B6%E6%B0%B4%E7%AE%B1%E6%BA%BA%E4%BA%A1+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [“警察射杀17岁少年”引爆法国社会](https://www.baidu.com/s?wd=%E2%80%9C%E8%AD%A6%E5%AF%9F%E5%B0%84%E6%9D%8017%E5%B2%81%E5%B0%91%E5%B9%B4%E2%80%9D%E5%BC%95%E7%88%86%E6%B3%95%E5%9B%BD%E7%A4%BE%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [数字里看亮点](https://www.baidu.com/s?wd=%E6%95%B0%E5%AD%97%E9%87%8C%E7%9C%8B%E4%BA%AE%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [Kindle真的要拿来盖泡面了](https://www.baidu.com/s?wd=Kindle%E7%9C%9F%E7%9A%84%E8%A6%81%E6%8B%BF%E6%9D%A5%E7%9B%96%E6%B3%A1%E9%9D%A2%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [教师在医院楼顶水箱溺亡 官方回应](https://www.baidu.com/s?wd=%E6%95%99%E5%B8%88%E5%9C%A8%E5%8C%BB%E9%99%A2%E6%A5%BC%E9%A1%B6%E6%B0%B4%E7%AE%B1%E6%BA%BA%E4%BA%A1+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [湖南遇特大暴雨：市民街头抱团互救](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E9%81%87%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%A8%EF%BC%9A%E5%B8%82%E6%B0%91%E8%A1%97%E5%A4%B4%E6%8A%B1%E5%9B%A2%E4%BA%92%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [多名陌生男子闯入室内 住户坠楼身亡](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E9%99%8C%E7%94%9F%E7%94%B7%E5%AD%90%E9%97%AF%E5%85%A5%E5%AE%A4%E5%86%85+%E4%BD%8F%E6%88%B7%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [山姆泡面桶炒至500元仍遭疯抢](https://www.baidu.com/s?wd=%E5%B1%B1%E5%A7%86%E6%B3%A1%E9%9D%A2%E6%A1%B6%E7%82%92%E8%87%B3500%E5%85%83%E4%BB%8D%E9%81%AD%E7%96%AF%E6%8A%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [多名陌生男子闯入室内 住户坠楼身亡](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E9%99%8C%E7%94%9F%E7%94%B7%E5%AD%90%E9%97%AF%E5%85%A5%E5%AE%A4%E5%86%85+%E4%BD%8F%E6%88%B7%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [复读14年的高考钉子户考了594分](https://www.baidu.com/s?wd=%E5%A4%8D%E8%AF%BB14%E5%B9%B4%E7%9A%84%E9%AB%98%E8%80%83%E9%92%89%E5%AD%90%E6%88%B7%E8%80%83%E4%BA%86594%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中方：印尼需调查情侣命案作案动机](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%EF%BC%9A%E5%8D%B0%E5%B0%BC%E9%9C%80%E8%B0%83%E6%9F%A5%E6%83%85%E4%BE%A3%E5%91%BD%E6%A1%88%E4%BD%9C%E6%A1%88%E5%8A%A8%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [教师在医院楼顶水箱溺亡 官方回应](https://www.baidu.com/s?wd=%E6%95%99%E5%B8%88%E5%9C%A8%E5%8C%BB%E9%99%A2%E6%A5%BC%E9%A1%B6%E6%B0%B4%E7%AE%B1%E6%BA%BA%E4%BA%A1+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
