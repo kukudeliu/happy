@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 18:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 18:12:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [孕妻身体不适丈夫产房外哭泣守护](https://s.weibo.com/weibo?q=%23%E5%AD%95%E5%A6%BB%E8%BA%AB%E4%BD%93%E4%B8%8D%E9%80%82%E4%B8%88%E5%A4%AB%E4%BA%A7%E6%88%BF%E5%A4%96%E5%93%AD%E6%B3%A3%E5%AE%88%E6%8A%A4%23&t=31&band_rank=5&Refer=top)<br />
 6. [奔跑吧今天播不播](https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%E4%BB%8A%E5%A4%A9%E6%92%AD%E4%B8%8D%E6%92%AD%23&t=31&band_rank=6&Refer=top)<br />
 7. [大棕熊着急下班咣咣砸门](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E6%A3%95%E7%86%8A%E7%9D%80%E6%80%A5%E4%B8%8B%E7%8F%AD%E5%92%A3%E5%92%A3%E7%A0%B8%E9%97%A8%23&t=31&band_rank=7&Refer=top)<br />
-8. [为白敬亭的回答发疯](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E7%99%BD%E6%95%AC%E4%BA%AD%E7%9A%84%E5%9B%9E%E7%AD%94%E5%8F%91%E7%96%AF%23&t=31&band_rank=8&Refer=top)<br />
-9. [苏州一男子高楼徘徊数小时后跳楼身亡](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E5%B7%9E%E4%B8%80%E7%94%B7%E5%AD%90%E9%AB%98%E6%A5%BC%E5%BE%98%E5%BE%8A%E6%95%B0%E5%B0%8F%E6%97%B6%E5%90%8E%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
+8. [苏州一男子高楼徘徊数小时后跳楼身亡](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E5%B7%9E%E4%B8%80%E7%94%B7%E5%AD%90%E9%AB%98%E6%A5%BC%E5%BE%98%E5%BE%8A%E6%95%B0%E5%B0%8F%E6%97%B6%E5%90%8E%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
+9. [赵露思私信优酷催更](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E7%A7%81%E4%BF%A1%E4%BC%98%E9%85%B7%E5%82%AC%E6%9B%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [在岸、离岸人民币分别跌破 7.25 、 7.27 关口，分析师称警惕汇市「羊群效应」，下半年汇率怎么走？](https://www.zhihu.com/question/609552420)<br />
 7. [如何看待 2023 年 6 月 30 日 A 股市场？](https://www.zhihu.com/question/609544444)<br />
 8. [《崩坏：星穹铁道》中为什么没有出现明确的日本文化背景的星神？](https://www.zhihu.com/question/609217082)<br />
-9. [如果你突然有了梅西的足球能力，怎么才能进入国家队？](https://www.zhihu.com/question/609482729)<br />
+9. [旧日本海军舰船的名字在中国人听起来感觉很好听，但日本人听起来是不是觉得很土？](https://www.zhihu.com/question/609546498)<br />
 
 > 百度  
 
