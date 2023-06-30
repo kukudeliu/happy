@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 06:47:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 06:48:02</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [多名陌生男子闯入室内 住户坠楼身亡](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E9%99%8C%E7%94%9F%E7%94%B7%E5%AD%90%E9%97%AF%E5%85%A5%E5%AE%A4%E5%86%85+%E4%BD%8F%E6%88%B7%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [湖南遇特大暴雨：市民街头抱团互救](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E9%81%87%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%A8%EF%BC%9A%E5%B8%82%E6%B0%91%E8%A1%97%E5%A4%B4%E6%8A%B1%E5%9B%A2%E4%BA%92%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [消失的她票根隐藏款是陈思诚](https://www.baidu.com/s?wd=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%A0%B9%E9%9A%90%E8%97%8F%E6%AC%BE%E6%98%AF%E9%99%88%E6%80%9D%E8%AF%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [裸男带手机闯女浴室 警方：疑罪从无](https://www.baidu.com/s?wd=%E8%A3%B8%E7%94%B7%E5%B8%A6%E6%89%8B%E6%9C%BA%E9%97%AF%E5%A5%B3%E6%B5%B4%E5%AE%A4+%E8%AD%A6%E6%96%B9%EF%BC%9A%E7%96%91%E7%BD%AA%E4%BB%8E%E6%97%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [Kindle真的要拿来盖泡面了](https://www.baidu.com/s?wd=Kindle%E7%9C%9F%E7%9A%84%E8%A6%81%E6%8B%BF%E6%9D%A5%E7%9B%96%E6%B3%A1%E9%9D%A2%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [多名陌生男子闯入室内 住户坠楼身亡](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E9%99%8C%E7%94%9F%E7%94%B7%E5%AD%90%E9%97%AF%E5%85%A5%E5%AE%A4%E5%86%85+%E4%BD%8F%E6%88%B7%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [湖南遇特大暴雨：市民街头抱团互救](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E9%81%87%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%A8%EF%BC%9A%E5%B8%82%E6%B0%91%E8%A1%97%E5%A4%B4%E6%8A%B1%E5%9B%A2%E4%BA%92%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [消失的她票根隐藏款是陈思诚](https://www.baidu.com/s?wd=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%A0%B9%E9%9A%90%E8%97%8F%E6%AC%BE%E6%98%AF%E9%99%88%E6%80%9D%E8%AF%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [裸男带手机闯女浴室 警方：疑罪从无](https://www.baidu.com/s?wd=%E8%A3%B8%E7%94%B7%E5%B8%A6%E6%89%8B%E6%9C%BA%E9%97%AF%E5%A5%B3%E6%B5%B4%E5%AE%A4+%E8%AD%A6%E6%96%B9%EF%BC%9A%E7%96%91%E7%BD%AA%E4%BB%8E%E6%97%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [Kindle真的要拿来盖泡面了](https://www.baidu.com/s?wd=Kindle%E7%9C%9F%E7%9A%84%E8%A6%81%E6%8B%BF%E6%9D%A5%E7%9B%96%E6%B3%A1%E9%9D%A2%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
