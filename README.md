@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 21:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 21:15:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [《消失的她》凭什么能领跑端午档？](https://www.zhihu.com/theater/97165)<br />
 6. [央视官宣福建舰即将海试，这艘电磁弹射型航母首次海试，将带来哪些重大意义？](https://www.zhihu.com/question/609607306)<br />
 7. [电影《消失的她》中的「何非」是个纯粹的恶人吗？](https://www.zhihu.com/question/608333307)<br />
-8. [2023 LPL 夏季赛 NIP 0:2 WBG，如何评价这场比赛？](https://www.zhihu.com/question/609607873)<br />
-9. [如何看待一批 985 毕业生选择主动延毕？主动延毕到底值不值得？](https://www.zhihu.com/question/606719187)<br />
+8. [如何看待一批 985 毕业生选择主动延毕？主动延毕到底值不值得？](https://www.zhihu.com/question/606719187)<br />
+9. [2023 LPL 夏季赛 NIP 0:2 WBG，如何评价这场比赛？](https://www.zhihu.com/question/609607873)<br />
 
 > 百度  
 
