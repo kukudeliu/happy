@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 07:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 07:39:01</h4></div>
 
 > 微博  
 
 1. [白敬亭宋轶是不是忘记官宣了](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6%E6%98%AF%E4%B8%8D%E6%98%AF%E5%BF%98%E8%AE%B0%E5%AE%98%E5%AE%A3%E4%BA%86%23&t=31&band_rank=1&Refer=top)<br />
 2. [法国](https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD&t=31&band_rank=2&Refer=top)<br />
 3. [中国制造在土耳其火了](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E5%9C%A8%E5%9C%9F%E8%80%B3%E5%85%B6%E7%81%AB%E4%BA%86%23&t=31&band_rank=3&Refer=top)<br />
-4. [越南一位老人50年没睡觉](https://s.weibo.com/weibo?q=%E8%B6%8A%E5%8D%97%E4%B8%80%E4%BD%8D%E8%80%81%E4%BA%BA50%E5%B9%B4%E6%B2%A1%E7%9D%A1%E8%A7%89&t=31&band_rank=4&Refer=top)<br />
-5. [爱奇艺工作人员 白敬亭好好对宋轶](https://s.weibo.com/weibo?q=%E7%88%B1%E5%A5%87%E8%89%BA%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%20%E7%99%BD%E6%95%AC%E4%BA%AD%E5%A5%BD%E5%A5%BD%E5%AF%B9%E5%AE%8B%E8%BD%B6&t=31&band_rank=5&Refer=top)<br />
+4. [爱奇艺工作人员 白敬亭好好对宋轶](https://s.weibo.com/weibo?q=%E7%88%B1%E5%A5%87%E8%89%BA%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%20%E7%99%BD%E6%95%AC%E4%BA%AD%E5%A5%BD%E5%A5%BD%E5%AF%B9%E5%AE%8B%E8%BD%B6&t=31&band_rank=4&Refer=top)<br />
+5. [越南一位老人50年没睡觉](https://s.weibo.com/weibo?q=%E8%B6%8A%E5%8D%97%E4%B8%80%E4%BD%8D%E8%80%81%E4%BA%BA50%E5%B9%B4%E6%B2%A1%E7%9D%A1%E8%A7%89&t=31&band_rank=5&Refer=top)<br />
 6. [三十岁女生给二十岁女生的建议](https://s.weibo.com/weibo?q=%E4%B8%89%E5%8D%81%E5%B2%81%E5%A5%B3%E7%94%9F%E7%BB%99%E4%BA%8C%E5%8D%81%E5%B2%81%E5%A5%B3%E7%94%9F%E7%9A%84%E5%BB%BA%E8%AE%AE&t=31&band_rank=6&Refer=top)<br />
 7. [李现周杰伦花海大合唱](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%B0%E5%91%A8%E6%9D%B0%E4%BC%A6%E8%8A%B1%E6%B5%B7%E5%A4%A7%E5%90%88%E5%94%B1%23&t=31&band_rank=7&Refer=top)<br />
 8. [章泽天回应拒绝张艺谋演戏](https://s.weibo.com/weibo?q=%23%E7%AB%A0%E6%B3%BD%E5%A4%A9%E5%9B%9E%E5%BA%94%E6%8B%92%E7%BB%9D%E5%BC%A0%E8%89%BA%E8%B0%8B%E6%BC%94%E6%88%8F%23&t=31&band_rank=8&Refer=top)<br />
@@ -33,8 +33,8 @@
 5. [美国将重返教科文组织 中方投反对票](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%B0%86%E9%87%8D%E8%BF%94%E6%95%99%E7%A7%91%E6%96%87%E7%BB%84%E7%BB%87+%E4%B8%AD%E6%96%B9%E6%8A%95%E5%8F%8D%E5%AF%B9%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [章泽天回应拒绝张艺谋演戏](https://www.baidu.com/s?wd=%E7%AB%A0%E6%B3%BD%E5%A4%A9%E5%9B%9E%E5%BA%94%E6%8B%92%E7%BB%9D%E5%BC%A0%E8%89%BA%E8%B0%8B%E6%BC%94%E6%88%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [专家谈350亿氢能项目：侮辱智商](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E8%B0%88350%E4%BA%BF%E6%B0%A2%E8%83%BD%E9%A1%B9%E7%9B%AE%EF%BC%9A%E4%BE%AE%E8%BE%B1%E6%99%BA%E5%95%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [胖东来老板称企业家要活得像人](https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E8%80%81%E6%9D%BF%E7%A7%B0%E4%BC%81%E4%B8%9A%E5%AE%B6%E8%A6%81%E6%B4%BB%E5%BE%97%E5%83%8F%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [“警察射杀17岁少年”引爆法国社会](https://www.baidu.com/s?wd=%E2%80%9C%E8%AD%A6%E5%AF%9F%E5%B0%84%E6%9D%8017%E5%B2%81%E5%B0%91%E5%B9%B4%E2%80%9D%E5%BC%95%E7%88%86%E6%B3%95%E5%9B%BD%E7%A4%BE%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [“警察射杀17岁少年”引爆法国社会](https://www.baidu.com/s?wd=%E2%80%9C%E8%AD%A6%E5%AF%9F%E5%B0%84%E6%9D%8017%E5%B2%81%E5%B0%91%E5%B9%B4%E2%80%9D%E5%BC%95%E7%88%86%E6%B3%95%E5%9B%BD%E7%A4%BE%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [胖东来8页报告调查顾客与员工争执](https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A58%E9%A1%B5%E6%8A%A5%E5%91%8A%E8%B0%83%E6%9F%A5%E9%A1%BE%E5%AE%A2%E4%B8%8E%E5%91%98%E5%B7%A5%E4%BA%89%E6%89%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [美国将重返教科文组织 中方投反对票](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%B0%86%E9%87%8D%E8%BF%94%E6%95%99%E7%A7%91%E6%96%87%E7%BB%84%E7%BB%87+%E4%B8%AD%E6%96%B9%E6%8A%95%E5%8F%8D%E5%AF%B9%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [章泽天回应拒绝张艺谋演戏](https://www.baidu.com/s?wd=%E7%AB%A0%E6%B3%BD%E5%A4%A9%E5%9B%9E%E5%BA%94%E6%8B%92%E7%BB%9D%E5%BC%A0%E8%89%BA%E8%B0%8B%E6%BC%94%E6%88%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [专家谈350亿氢能项目：侮辱智商](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E8%B0%88350%E4%BA%BF%E6%B0%A2%E8%83%BD%E9%A1%B9%E7%9B%AE%EF%BC%9A%E4%BE%AE%E8%BE%B1%E6%99%BA%E5%95%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [胖东来老板称企业家要活得像人](https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E8%80%81%E6%9D%BF%E7%A7%B0%E4%BC%81%E4%B8%9A%E5%AE%B6%E8%A6%81%E6%B4%BB%E5%BE%97%E5%83%8F%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [“警察射杀17岁少年”引爆法国社会](https://www.baidu.com/s?wd=%E2%80%9C%E8%AD%A6%E5%AF%9F%E5%B0%84%E6%9D%8017%E5%B2%81%E5%B0%91%E5%B9%B4%E2%80%9D%E5%BC%95%E7%88%86%E6%B3%95%E5%9B%BD%E7%A4%BE%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [“警察射杀17岁少年”引爆法国社会](https://www.baidu.com/s?wd=%E2%80%9C%E8%AD%A6%E5%AF%9F%E5%B0%84%E6%9D%8017%E5%B2%81%E5%B0%91%E5%B9%B4%E2%80%9D%E5%BC%95%E7%88%86%E6%B3%95%E5%9B%BD%E7%A4%BE%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [胖东来8页报告调查顾客与员工争执](https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A58%E9%A1%B5%E6%8A%A5%E5%91%8A%E8%B0%83%E6%9F%A5%E9%A1%BE%E5%AE%A2%E4%B8%8E%E5%91%98%E5%B7%A5%E4%BA%89%E6%89%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
