@@ -1,15 +1,15 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 06:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 06:40:01</h4></div>
 
 > 微博  
 
 1. [白敬亭宋轶是不是忘记官宣了](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6%E6%98%AF%E4%B8%8D%E6%98%AF%E5%BF%98%E8%AE%B0%E5%AE%98%E5%AE%A3%E4%BA%86%23&t=31&band_rank=1&Refer=top)<br />
-2. [越南一位老人50年没睡觉](https://s.weibo.com/weibo?q=%E8%B6%8A%E5%8D%97%E4%B8%80%E4%BD%8D%E8%80%81%E4%BA%BA50%E5%B9%B4%E6%B2%A1%E7%9D%A1%E8%A7%89&t=31&band_rank=2&Refer=top)<br />
+2. [章泽天回应拒绝张艺谋演戏](https://s.weibo.com/weibo?q=%23%E7%AB%A0%E6%B3%BD%E5%A4%A9%E5%9B%9E%E5%BA%94%E6%8B%92%E7%BB%9D%E5%BC%A0%E8%89%BA%E8%B0%8B%E6%BC%94%E6%88%8F%23&t=31&band_rank=2&Refer=top)<br />
 3. [中国制造在土耳其火了](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E5%9C%A8%E5%9C%9F%E8%80%B3%E5%85%B6%E7%81%AB%E4%BA%86%23&t=31&band_rank=3&Refer=top)<br />
-4. [爱奇艺工作人员 白敬亭好好对宋轶](https://s.weibo.com/weibo?q=%E7%88%B1%E5%A5%87%E8%89%BA%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%20%E7%99%BD%E6%95%AC%E4%BA%AD%E5%A5%BD%E5%A5%BD%E5%AF%B9%E5%AE%8B%E8%BD%B6&t=31&band_rank=4&Refer=top)<br />
-5. [章泽天回应拒绝张艺谋演戏](https://s.weibo.com/weibo?q=%23%E7%AB%A0%E6%B3%BD%E5%A4%A9%E5%9B%9E%E5%BA%94%E6%8B%92%E7%BB%9D%E5%BC%A0%E8%89%BA%E8%B0%8B%E6%BC%94%E6%88%8F%23&t=31&band_rank=5&Refer=top)<br />
+4. [越南一位老人50年没睡觉](https://s.weibo.com/weibo?q=%E8%B6%8A%E5%8D%97%E4%B8%80%E4%BD%8D%E8%80%81%E4%BA%BA50%E5%B9%B4%E6%B2%A1%E7%9D%A1%E8%A7%89&t=31&band_rank=4&Refer=top)<br />
+5. [爱奇艺工作人员 白敬亭好好对宋轶](https://s.weibo.com/weibo?q=%E7%88%B1%E5%A5%87%E8%89%BA%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%20%E7%99%BD%E6%95%AC%E4%BA%AD%E5%A5%BD%E5%A5%BD%E5%AF%B9%E5%AE%8B%E8%BD%B6&t=31&band_rank=5&Refer=top)<br />
 6. [山东大学拟聘用2名硕士为公寓管理员](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E5%A4%A7%E5%AD%A6%E6%8B%9F%E8%81%98%E7%94%A82%E5%90%8D%E7%A1%95%E5%A3%AB%E4%B8%BA%E5%85%AC%E5%AF%93%E7%AE%A1%E7%90%86%E5%91%98%23&t=31&band_rank=6&Refer=top)<br />
-7. [白敬亭是有牵手肌肉记忆吗](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E6%98%AF%E6%9C%89%E7%89%B5%E6%89%8B%E8%82%8C%E8%82%89%E8%AE%B0%E5%BF%86%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
-8. [其实世界上有很多情侣根本不熟](https://s.weibo.com/weibo?q=%E5%85%B6%E5%AE%9E%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%89%E5%BE%88%E5%A4%9A%E6%83%85%E4%BE%A3%E6%A0%B9%E6%9C%AC%E4%B8%8D%E7%86%9F&t=31&band_rank=8&Refer=top)<br />
+7. [其实世界上有很多情侣根本不熟](https://s.weibo.com/weibo?q=%E5%85%B6%E5%AE%9E%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%89%E5%BE%88%E5%A4%9A%E6%83%85%E4%BE%A3%E6%A0%B9%E6%9C%AC%E4%B8%8D%E7%86%9F&t=31&band_rank=7&Refer=top)<br />
+8. [白敬亭是有牵手肌肉记忆吗](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E6%98%AF%E6%9C%89%E7%89%B5%E6%89%8B%E8%82%8C%E8%82%89%E8%AE%B0%E5%BF%86%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
 9. [我是党员](https://s.weibo.com/weibo?q=%23%E6%88%91%E6%98%AF%E5%85%9A%E5%91%98%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -31,10 +31,10 @@
 3. [复读14年的高考钉子户考了594分](https://www.baidu.com/s?wd=%E5%A4%8D%E8%AF%BB14%E5%B9%B4%E7%9A%84%E9%AB%98%E8%80%83%E9%92%89%E5%AD%90%E6%88%B7%E8%80%83%E4%BA%86594%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [数字里看亮点](https://www.baidu.com/s?wd=%E6%95%B0%E5%AD%97%E9%87%8C%E7%9C%8B%E4%BA%AE%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [美国将重返教科文组织 中方投反对票](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%B0%86%E9%87%8D%E8%BF%94%E6%95%99%E7%A7%91%E6%96%87%E7%BB%84%E7%BB%87+%E4%B8%AD%E6%96%B9%E6%8A%95%E5%8F%8D%E5%AF%B9%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [消失的她票根隐藏款是陈思诚](https://www.baidu.com/s?wd=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%A0%B9%E9%9A%90%E8%97%8F%E6%AC%BE%E6%98%AF%E9%99%88%E6%80%9D%E8%AF%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [多名陌生男子闯入室内 住户坠楼身亡](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E9%99%8C%E7%94%9F%E7%94%B7%E5%AD%90%E9%97%AF%E5%85%A5%E5%AE%A4%E5%86%85+%E4%BD%8F%E6%88%B7%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [多名陌生男子闯入室内 住户坠楼身亡](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E9%99%8C%E7%94%9F%E7%94%B7%E5%AD%90%E9%97%AF%E5%85%A5%E5%AE%A4%E5%86%85+%E4%BD%8F%E6%88%B7%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [湖南遇特大暴雨：市民街头抱团互救](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E9%81%87%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%A8%EF%BC%9A%E5%B8%82%E6%B0%91%E8%A1%97%E5%A4%B4%E6%8A%B1%E5%9B%A2%E4%BA%92%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [电话号码过户要预存1万元话费？](https://www.baidu.com/s?wd=%E7%94%B5%E8%AF%9D%E5%8F%B7%E7%A0%81%E8%BF%87%E6%88%B7%E8%A6%81%E9%A2%84%E5%AD%981%E4%B8%87%E5%85%83%E8%AF%9D%E8%B4%B9%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [湖南遇特大暴雨：市民街头抱团互救](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E9%81%87%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%A8%EF%BC%9A%E5%B8%82%E6%B0%91%E8%A1%97%E5%A4%B4%E6%8A%B1%E5%9B%A2%E4%BA%92%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [消失的她票根隐藏款是陈思诚](https://www.baidu.com/s?wd=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%A0%B9%E9%9A%90%E8%97%8F%E6%AC%BE%E6%98%AF%E9%99%88%E6%80%9D%E8%AF%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [复读14年的高考钉子户考了594分](https://www.baidu.com/s?wd=%E5%A4%8D%E8%AF%BB14%E5%B9%B4%E7%9A%84%E9%AB%98%E8%80%83%E9%92%89%E5%AD%90%E6%88%B7%E8%80%83%E4%BA%86594%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [数字里看亮点](https://www.baidu.com/s?wd=%E6%95%B0%E5%AD%97%E9%87%8C%E7%9C%8B%E4%BA%AE%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [美国将重返教科文组织 中方投反对票](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%B0%86%E9%87%8D%E8%BF%94%E6%95%99%E7%A7%91%E6%96%87%E7%BB%84%E7%BB%87+%E4%B8%AD%E6%96%B9%E6%8A%95%E5%8F%8D%E5%AF%B9%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [消失的她票根隐藏款是陈思诚](https://www.baidu.com/s?wd=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%A0%B9%E9%9A%90%E8%97%8F%E6%AC%BE%E6%98%AF%E9%99%88%E6%80%9D%E8%AF%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [多名陌生男子闯入室内 住户坠楼身亡](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E9%99%8C%E7%94%9F%E7%94%B7%E5%AD%90%E9%97%AF%E5%85%A5%E5%AE%A4%E5%86%85+%E4%BD%8F%E6%88%B7%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [多名陌生男子闯入室内 住户坠楼身亡](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E9%99%8C%E7%94%9F%E7%94%B7%E5%AD%90%E9%97%AF%E5%85%A5%E5%AE%A4%E5%86%85+%E4%BD%8F%E6%88%B7%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [湖南遇特大暴雨：市民街头抱团互救](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E9%81%87%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%A8%EF%BC%9A%E5%B8%82%E6%B0%91%E8%A1%97%E5%A4%B4%E6%8A%B1%E5%9B%A2%E4%BA%92%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [电话号码过户要预存1万元话费？](https://www.baidu.com/s?wd=%E7%94%B5%E8%AF%9D%E5%8F%B7%E7%A0%81%E8%BF%87%E6%88%B7%E8%A6%81%E9%A2%84%E5%AD%981%E4%B8%87%E5%85%83%E8%AF%9D%E8%B4%B9%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [湖南遇特大暴雨：市民街头抱团互救](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E9%81%87%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%A8%EF%BC%9A%E5%B8%82%E6%B0%91%E8%A1%97%E5%A4%B4%E6%8A%B1%E5%9B%A2%E4%BA%92%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [消失的她票根隐藏款是陈思诚](https://www.baidu.com/s?wd=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%A0%B9%E9%9A%90%E8%97%8F%E6%AC%BE%E6%98%AF%E9%99%88%E6%80%9D%E8%AF%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
