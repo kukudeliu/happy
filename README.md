@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 00:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 00:35:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [越南一位老人50年没睡觉](https://s.weibo.com/weibo?q=%E8%B6%8A%E5%8D%97%E4%B8%80%E4%BD%8D%E8%80%81%E4%BA%BA50%E5%B9%B4%E6%B2%A1%E7%9D%A1%E8%A7%89&t=31&band_rank=5&Refer=top)<br />
 6. [李现周杰伦花海大合唱](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%B0%E5%91%A8%E6%9D%B0%E4%BC%A6%E8%8A%B1%E6%B5%B7%E5%A4%A7%E5%90%88%E5%94%B1%23&t=31&band_rank=6&Refer=top)<br />
 7. [白敬亭是有牵手肌肉记忆吗](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E6%98%AF%E6%9C%89%E7%89%B5%E6%89%8B%E8%82%8C%E8%82%89%E8%AE%B0%E5%BF%86%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
-8. [山东大学拟聘用2名硕士为公寓管理员](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E5%A4%A7%E5%AD%A6%E6%8B%9F%E8%81%98%E7%94%A82%E5%90%8D%E7%A1%95%E5%A3%AB%E4%B8%BA%E5%85%AC%E5%AF%93%E7%AE%A1%E7%90%86%E5%91%98%23&t=31&band_rank=8&Refer=top)<br />
-9. [男子颈部插着切割机警车狂飙10分钟](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%A2%88%E9%83%A8%E6%8F%92%E7%9D%80%E5%88%87%E5%89%B2%E6%9C%BA%E8%AD%A6%E8%BD%A6%E7%8B%82%E9%A3%9910%E5%88%86%E9%92%9F%23&t=31&band_rank=9&Refer=top)<br />
+8. [男子颈部插着切割机警车狂飙10分钟](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%A2%88%E9%83%A8%E6%8F%92%E7%9D%80%E5%88%87%E5%89%B2%E6%9C%BA%E8%AD%A6%E8%BD%A6%E7%8B%82%E9%A3%9910%E5%88%86%E9%92%9F%23&t=31&band_rank=8&Refer=top)<br />
+9. [山东大学拟聘用2名硕士为公寓管理员](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E5%A4%A7%E5%AD%A6%E6%8B%9F%E8%81%98%E7%94%A82%E5%90%8D%E7%A1%95%E5%A3%AB%E4%B8%BA%E5%85%AC%E5%AF%93%E7%AE%A1%E7%90%86%E5%91%98%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -19,10 +19,10 @@
 3. [中国高铁出海首单，印尼雅万高铁时速达 350 公里，日媒感叹「难以逾越的实力差距」，哪些信息值得关注？](https://www.zhihu.com/question/609596590)<br />
 4. [如何看待山河四省学子在网上自建山河大学？](https://www.zhihu.com/question/609297089)<br />
 5. [乌克兰正讨论禁止现金支付，或成首个废除现金国家，号称可减少至少 95% 腐败，这一举措是否合理？](https://www.zhihu.com/question/609605756)<br />
-6. [如何评价电影《夺宝奇兵：命运转盘》？](https://www.zhihu.com/question/608509359)<br />
+6. []()<br />
 7. []()<br />
-8. []()<br />
-9. [社会各界纪念黄家驹逝世三十年，黄贯中等好友发文缅怀，他有哪些广为人知的代表作？给华语乐坛留下了什么？](https://www.zhihu.com/question/609585703)<br />
+8. [社会各界纪念黄家驹逝世三十年，黄贯中等好友发文缅怀，他有哪些广为人知的代表作？给华语乐坛留下了什么？](https://www.zhihu.com/question/609585703)<br />
+9. [如何评价电影《夺宝奇兵：命运转盘》？](https://www.zhihu.com/question/608509359)<br />
 
 > 百度  
 
