@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 20:22:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 20:23:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [第一次嗑内娱cp](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%97%91%E5%86%85%E5%A8%B1cp%23&t=31&band_rank=5&Refer=top)<br />
 6. [胖东来](https://s.weibo.com/weibo?q=%E8%83%96%E4%B8%9C%E6%9D%A5&t=31&band_rank=6&Refer=top)<br />
 7. [范玮琪演唱会遭网友抵制](https://s.weibo.com/weibo?q=%23%E8%8C%83%E7%8E%AE%E7%90%AA%E6%BC%94%E5%94%B1%E4%BC%9A%E9%81%AD%E7%BD%91%E5%8F%8B%E6%8A%B5%E5%88%B6%23&t=31&band_rank=7&Refer=top)<br />
-8. [中国女排](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92&t=31&band_rank=8&Refer=top)<br />
-9. [爸爸用15元买了孩子一下午的快乐](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E7%94%A815%E5%85%83%E4%B9%B0%E4%BA%86%E5%AD%A9%E5%AD%90%E4%B8%80%E4%B8%8B%E5%8D%88%E7%9A%84%E5%BF%AB%E4%B9%90%23&t=31&band_rank=9&Refer=top)<br />
+8. [爸爸用15元买了孩子一下午的快乐](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E7%94%A815%E5%85%83%E4%B9%B0%E4%BA%86%E5%AD%A9%E5%AD%90%E4%B8%80%E4%B8%8B%E5%8D%88%E7%9A%84%E5%BF%AB%E4%B9%90%23&t=31&band_rank=8&Refer=top)<br />
+9. [中国女排](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
