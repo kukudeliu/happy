@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 20:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 20:19:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [第一次嗑内娱cp](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%97%91%E5%86%85%E5%A8%B1cp%23&t=31&band_rank=5&Refer=top)<br />
 6. [胖东来](https://s.weibo.com/weibo?q=%E8%83%96%E4%B8%9C%E6%9D%A5&t=31&band_rank=6&Refer=top)<br />
 7. [范玮琪演唱会遭网友抵制](https://s.weibo.com/weibo?q=%23%E8%8C%83%E7%8E%AE%E7%90%AA%E6%BC%94%E5%94%B1%E4%BC%9A%E9%81%AD%E7%BD%91%E5%8F%8B%E6%8A%B5%E5%88%B6%23&t=31&band_rank=7&Refer=top)<br />
-8. [爸爸用15元买了孩子一下午的快乐](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E7%94%A815%E5%85%83%E4%B9%B0%E4%BA%86%E5%AD%A9%E5%AD%90%E4%B8%80%E4%B8%8B%E5%8D%88%E7%9A%84%E5%BF%AB%E4%B9%90%23&t=31&band_rank=8&Refer=top)<br />
-9. [中国女排](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92&t=31&band_rank=9&Refer=top)<br />
+8. [中国女排](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92&t=31&band_rank=8&Refer=top)<br />
+9. [爸爸用15元买了孩子一下午的快乐](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E7%94%A815%E5%85%83%E4%B9%B0%E4%BA%86%E5%AD%A9%E5%AD%90%E4%B8%80%E4%B8%8B%E5%8D%88%E7%9A%84%E5%BF%AB%E4%B9%90%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -34,7 +34,7 @@
 6. [教师在医院楼顶水箱溺亡 官方回应](https://www.baidu.com/s?wd=%E6%95%99%E5%B8%88%E5%9C%A8%E5%8C%BB%E9%99%A2%E6%A5%BC%E9%A1%B6%E6%B0%B4%E7%AE%B1%E6%BA%BA%E4%BA%A1+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [山姆泡面桶炒至500元仍遭疯抢](https://www.baidu.com/s?wd=%E5%B1%B1%E5%A7%86%E6%B3%A1%E9%9D%A2%E6%A1%B6%E7%82%92%E8%87%B3500%E5%85%83%E4%BB%8D%E9%81%AD%E7%96%AF%E6%8A%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [秋瓷炫被淘汰全场大哭](https://www.baidu.com/s?wd=%E7%A7%8B%E7%93%B7%E7%82%AB%E8%A2%AB%E6%B7%98%E6%B1%B0%E5%85%A8%E5%9C%BA%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [拜登没等插播广告直接离开现场](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E6%B2%A1%E7%AD%89%E6%8F%92%E6%92%AD%E5%B9%BF%E5%91%8A%E7%9B%B4%E6%8E%A5%E7%A6%BB%E5%BC%80%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [消失的她票根隐藏款是陈思诚](https://www.baidu.com/s?wd=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%A0%B9%E9%9A%90%E8%97%8F%E6%AC%BE%E6%98%AF%E9%99%88%E6%80%9D%E8%AF%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [教师在医院楼顶水箱溺亡 官方回应](https://www.baidu.com/s?wd=%E6%95%99%E5%B8%88%E5%9C%A8%E5%8C%BB%E9%99%A2%E6%A5%BC%E9%A1%B6%E6%B0%B4%E7%AE%B1%E6%BA%BA%E4%BA%A1+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [山姆泡面桶炒至500元仍遭疯抢](https://www.baidu.com/s?wd=%E5%B1%B1%E5%A7%86%E6%B3%A1%E9%9D%A2%E6%A1%B6%E7%82%92%E8%87%B3500%E5%85%83%E4%BB%8D%E9%81%AD%E7%96%AF%E6%8A%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [秋瓷炫被淘汰全场大哭](https://www.baidu.com/s?wd=%E7%A7%8B%E7%93%B7%E7%82%AB%E8%A2%AB%E6%B7%98%E6%B1%B0%E5%85%A8%E5%9C%BA%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [拜登没等插播广告直接离开现场](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E6%B2%A1%E7%AD%89%E6%8F%92%E6%92%AD%E5%B9%BF%E5%91%8A%E7%9B%B4%E6%8E%A5%E7%A6%BB%E5%BC%80%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [消失的她票根隐藏款是陈思诚](https://www.baidu.com/s?wd=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%A0%B9%E9%9A%90%E8%97%8F%E6%AC%BE%E6%98%AF%E9%99%88%E6%80%9D%E8%AF%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
