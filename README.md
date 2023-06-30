@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 19:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 19:29:02</h4></div>
 
 > 微博  
 
@@ -32,9 +32,9 @@
 4. [7月新规来了 关系你我生活](https://www.baidu.com/s?wd=7%E6%9C%88%E6%96%B0%E8%A7%84%E6%9D%A5%E4%BA%86+%E5%85%B3%E7%B3%BB%E4%BD%A0%E6%88%91%E7%94%9F%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [比盐粒还小的手提包卖出46.2万](https://www.baidu.com/s?wd=%E6%AF%94%E7%9B%90%E7%B2%92%E8%BF%98%E5%B0%8F%E7%9A%84%E6%89%8B%E6%8F%90%E5%8C%85%E5%8D%96%E5%87%BA46.2%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [裸男带手机闯女浴室 警方：疑罪从无](https://www.baidu.com/s?wd=%E8%A3%B8%E7%94%B7%E5%B8%A6%E6%89%8B%E6%9C%BA%E9%97%AF%E5%A5%B3%E6%B5%B4%E5%AE%A4+%E8%AD%A6%E6%96%B9%EF%BC%9A%E7%96%91%E7%BD%AA%E4%BB%8E%E6%97%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [牛犊被咬死现场留巨大爪痕](https://www.baidu.com/s?wd=%E7%89%9B%E7%8A%8A%E8%A2%AB%E5%92%AC%E6%AD%BB%E7%8E%B0%E5%9C%BA%E7%95%99%E5%B7%A8%E5%A4%A7%E7%88%AA%E7%97%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子称怀孕6周被男友偷下打胎药](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E6%80%80%E5%AD%956%E5%91%A8%E8%A2%AB%E7%94%B7%E5%8F%8B%E5%81%B7%E4%B8%8B%E6%89%93%E8%83%8E%E8%8D%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [深圳一地回应鼓励49岁以下再生育](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%9C%B0%E5%9B%9E%E5%BA%94%E9%BC%93%E5%8A%B149%E5%B2%81%E4%BB%A5%E4%B8%8B%E5%86%8D%E7%94%9F%E8%82%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [梁建章称养育孩子是未来最好投资](https://www.baidu.com/s?wd=%E6%A2%81%E5%BB%BA%E7%AB%A0%E7%A7%B0%E5%85%BB%E8%82%B2%E5%AD%A9%E5%AD%90%E6%98%AF%E6%9C%AA%E6%9D%A5%E6%9C%80%E5%A5%BD%E6%8A%95%E8%B5%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [牛犊被咬死现场留巨大爪痕](https://www.baidu.com/s?wd=%E7%89%9B%E7%8A%8A%E8%A2%AB%E5%92%AC%E6%AD%BB%E7%8E%B0%E5%9C%BA%E7%95%99%E5%B7%A8%E5%A4%A7%E7%88%AA%E7%97%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [泽连斯基呼吁乌大麻药物合法化](https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%91%BC%E5%90%81%E4%B9%8C%E5%A4%A7%E9%BA%BB%E8%8D%AF%E7%89%A9%E5%90%88%E6%B3%95%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [7月新规来了 关系你我生活](https://www.baidu.com/s?wd=7%E6%9C%88%E6%96%B0%E8%A7%84%E6%9D%A5%E4%BA%86+%E5%85%B3%E7%B3%BB%E4%BD%A0%E6%88%91%E7%94%9F%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [比盐粒还小的手提包卖出46.2万](https://www.baidu.com/s?wd=%E6%AF%94%E7%9B%90%E7%B2%92%E8%BF%98%E5%B0%8F%E7%9A%84%E6%89%8B%E6%8F%90%E5%8C%85%E5%8D%96%E5%87%BA46.2%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [裸男带手机闯女浴室 警方：疑罪从无](https://www.baidu.com/s?wd=%E8%A3%B8%E7%94%B7%E5%B8%A6%E6%89%8B%E6%9C%BA%E9%97%AF%E5%A5%B3%E6%B5%B4%E5%AE%A4+%E8%AD%A6%E6%96%B9%EF%BC%9A%E7%96%91%E7%BD%AA%E4%BB%8E%E6%97%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [牛犊被咬死现场留巨大爪痕](https://www.baidu.com/s?wd=%E7%89%9B%E7%8A%8A%E8%A2%AB%E5%92%AC%E6%AD%BB%E7%8E%B0%E5%9C%BA%E7%95%99%E5%B7%A8%E5%A4%A7%E7%88%AA%E7%97%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子称怀孕6周被男友偷下打胎药](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E6%80%80%E5%AD%956%E5%91%A8%E8%A2%AB%E7%94%B7%E5%8F%8B%E5%81%B7%E4%B8%8B%E6%89%93%E8%83%8E%E8%8D%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [深圳一地回应鼓励49岁以下再生育](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%9C%B0%E5%9B%9E%E5%BA%94%E9%BC%93%E5%8A%B149%E5%B2%81%E4%BB%A5%E4%B8%8B%E5%86%8D%E7%94%9F%E8%82%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [梁建章称养育孩子是未来最好投资](https://www.baidu.com/s?wd=%E6%A2%81%E5%BB%BA%E7%AB%A0%E7%A7%B0%E5%85%BB%E8%82%B2%E5%AD%A9%E5%AD%90%E6%98%AF%E6%9C%AA%E6%9D%A5%E6%9C%80%E5%A5%BD%E6%8A%95%E8%B5%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [牛犊被咬死现场留巨大爪痕](https://www.baidu.com/s?wd=%E7%89%9B%E7%8A%8A%E8%A2%AB%E5%92%AC%E6%AD%BB%E7%8E%B0%E5%9C%BA%E7%95%99%E5%B7%A8%E5%A4%A7%E7%88%AA%E7%97%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [泽连斯基呼吁乌大麻药物合法化](https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%91%BC%E5%90%81%E4%B9%8C%E5%A4%A7%E9%BA%BB%E8%8D%AF%E7%89%A9%E5%90%88%E6%B3%95%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
