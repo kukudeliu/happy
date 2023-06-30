@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 12:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 12:45:01</h4></div>
 
 > 微博  
 
@@ -10,15 +10,15 @@
 6. [LWX](https://s.weibo.com/weibo?q=LWX&t=31&band_rank=6&Refer=top)<br />
 7. [倪妮和朱一龙对戏指尖都在用力](https://s.weibo.com/weibo?q=%23%E5%80%AA%E5%A6%AE%E5%92%8C%E6%9C%B1%E4%B8%80%E9%BE%99%E5%AF%B9%E6%88%8F%E6%8C%87%E5%B0%96%E9%83%BD%E5%9C%A8%E7%94%A8%E5%8A%9B%23&t=31&band_rank=7&Refer=top)<br />
 8. [王一博cos垃圾桶造型](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9Acos%E5%9E%83%E5%9C%BE%E6%A1%B6%E9%80%A0%E5%9E%8B%23&t=31&band_rank=8&Refer=top)<br />
-9. [怎么没人写硕博士的偶像剧](https://s.weibo.com/weibo?q=%23%E6%80%8E%E4%B9%88%E6%B2%A1%E4%BA%BA%E5%86%99%E7%A1%95%E5%8D%9A%E5%A3%AB%E7%9A%84%E5%81%B6%E5%83%8F%E5%89%A7%23&t=31&band_rank=9&Refer=top)<br />
+9. [宁艺卓说国内缺少音乐舞台](https://s.weibo.com/weibo?q=%23%E5%AE%81%E8%89%BA%E5%8D%93%E8%AF%B4%E5%9B%BD%E5%86%85%E7%BC%BA%E5%B0%91%E9%9F%B3%E4%B9%90%E8%88%9E%E5%8F%B0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [世卫组织研究机构将宣布甜味剂阿斯巴甜「可能致癌」，如何看待此事？「无糖」饮料将何去何从？](https://www.zhihu.com/question/609417354)<br />
 2. [上海学区房最强阵地失守，两年内从近 15 万跌到 10 万，曾经一周涨 39.4%，哪些信息值得关注？](https://www.zhihu.com/question/609355451)<br />
 3. [网友在北方发现大蟑螂身影，如何看待此事？为什么北方大蟑螂越来越多？](https://www.zhihu.com/question/609451038)<br />
-4. [2399 元起的 RTX4060 甜品卡正式上市，适合哪些人群购买？](https://www.zhihu.com/question/609280591)<br />
-5. [美众院共和党议员施压布林肯不续签《中美科技合作协定》，如何解读美方意图？将对中美带来哪些影响？](https://www.zhihu.com/question/609347160)<br />
+4. [美众院共和党议员施压布林肯不续签《中美科技合作协定》，如何解读美方意图？将对中美带来哪些影响？](https://www.zhihu.com/question/609347160)<br />
+5. [2399 元起的 RTX4060 甜品卡正式上市，适合哪些人群购买？](https://www.zhihu.com/question/609280591)<br />
 6. [央行调查显示，未来三个月 16.2%居民打算购房，比例大幅回落，哪些信息值得关注？](https://www.zhihu.com/question/609413648)<br />
 7. [为什么感觉这几十年给孩子起的名字越来越幼稚?](https://www.zhihu.com/question/608128511)<br />
 8. [新一轮「抢人大战」打响，多地出台吸纳高校毕业生政策，「抢人大战」实质是在抢什么？抢后又该如何「留才」？](https://www.zhihu.com/question/609453693)<br />
