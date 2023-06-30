@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 05:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 05:44:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [胡锡进称「经过这一周，更渴望国家刺激经济政策的出台」，如何看待此事？](https://www.zhihu.com/question/609622405)<br />
 7. []()<br />
 8. [「网红超市」胖东来 8 页报告调查「顾客与员工争执」，如何看待胖东来的处理结果，你是否满意？](https://www.zhihu.com/question/609604339)<br />
-9. []()<br />
+9. [高考报志愿花 5000 块值吗？](https://www.zhihu.com/question/603639824)<br />
 
 > 百度  
 
@@ -33,8 +33,8 @@
 5. [美国将重返教科文组织 中方投反对票](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%B0%86%E9%87%8D%E8%BF%94%E6%95%99%E7%A7%91%E6%96%87%E7%BB%84%E7%BB%87+%E4%B8%AD%E6%96%B9%E6%8A%95%E5%8F%8D%E5%AF%B9%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [教师在医院楼顶水箱溺亡 官方回应](https://www.baidu.com/s?wd=%E6%95%99%E5%B8%88%E5%9C%A8%E5%8C%BB%E9%99%A2%E6%A5%BC%E9%A1%B6%E6%B0%B4%E7%AE%B1%E6%BA%BA%E4%BA%A1+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [1700元周杰伦演唱会门票直接烧了](https://www.baidu.com/s?wd=1700%E5%85%83%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E7%9B%B4%E6%8E%A5%E7%83%A7%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女高材生制售救猫药获刑15年](https://www.baidu.com/s?wd=%E5%A5%B3%E9%AB%98%E6%9D%90%E7%94%9F%E5%88%B6%E5%94%AE%E6%95%91%E7%8C%AB%E8%8D%AF%E8%8E%B7%E5%88%9115%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [比盐粒还小的手提包卖出46.2万](https://www.baidu.com/s?wd=%E6%AF%94%E7%9B%90%E7%B2%92%E8%BF%98%E5%B0%8F%E7%9A%84%E6%89%8B%E6%8F%90%E5%8C%85%E5%8D%96%E5%87%BA46.2%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [比盐粒还小的手提包卖出46.2万](https://www.baidu.com/s?wd=%E6%AF%94%E7%9B%90%E7%B2%92%E8%BF%98%E5%B0%8F%E7%9A%84%E6%89%8B%E6%8F%90%E5%8C%85%E5%8D%96%E5%87%BA46.2%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女高材生制售救猫药获刑15年](https://www.baidu.com/s?wd=%E5%A5%B3%E9%AB%98%E6%9D%90%E7%94%9F%E5%88%B6%E5%94%AE%E6%95%91%E7%8C%AB%E8%8D%AF%E8%8E%B7%E5%88%9115%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [美国将重返教科文组织 中方投反对票](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%B0%86%E9%87%8D%E8%BF%94%E6%95%99%E7%A7%91%E6%96%87%E7%BB%84%E7%BB%87+%E4%B8%AD%E6%96%B9%E6%8A%95%E5%8F%8D%E5%AF%B9%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [教师在医院楼顶水箱溺亡 官方回应](https://www.baidu.com/s?wd=%E6%95%99%E5%B8%88%E5%9C%A8%E5%8C%BB%E9%99%A2%E6%A5%BC%E9%A1%B6%E6%B0%B4%E7%AE%B1%E6%BA%BA%E4%BA%A1+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [1700元周杰伦演唱会门票直接烧了](https://www.baidu.com/s?wd=1700%E5%85%83%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E7%9B%B4%E6%8E%A5%E7%83%A7%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女高材生制售救猫药获刑15年](https://www.baidu.com/s?wd=%E5%A5%B3%E9%AB%98%E6%9D%90%E7%94%9F%E5%88%B6%E5%94%AE%E6%95%91%E7%8C%AB%E8%8D%AF%E8%8E%B7%E5%88%9115%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [比盐粒还小的手提包卖出46.2万](https://www.baidu.com/s?wd=%E6%AF%94%E7%9B%90%E7%B2%92%E8%BF%98%E5%B0%8F%E7%9A%84%E6%89%8B%E6%8F%90%E5%8C%85%E5%8D%96%E5%87%BA46.2%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [比盐粒还小的手提包卖出46.2万](https://www.baidu.com/s?wd=%E6%AF%94%E7%9B%90%E7%B2%92%E8%BF%98%E5%B0%8F%E7%9A%84%E6%89%8B%E6%8F%90%E5%8C%85%E5%8D%96%E5%87%BA46.2%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女高材生制售救猫药获刑15年](https://www.baidu.com/s?wd=%E5%A5%B3%E9%AB%98%E6%9D%90%E7%94%9F%E5%88%B6%E5%94%AE%E6%95%91%E7%8C%AB%E8%8D%AF%E8%8E%B7%E5%88%9115%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
