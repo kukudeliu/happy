@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 10:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 10:28:01</h4></div>
 
 > 微博  
 
 1. [Angelababy重现甩头发名场面](https://s.weibo.com/weibo?q=%23Angelababy%E9%87%8D%E7%8E%B0%E7%94%A9%E5%A4%B4%E5%8F%91%E5%90%8D%E5%9C%BA%E9%9D%A2%23&t=31&band_rank=1&Refer=top)<br />
-2. [仁济医院医生嫖娼为实习生造谣](https://s.weibo.com/weibo?q=%23%E4%BB%81%E6%B5%8E%E5%8C%BB%E9%99%A2%E5%8C%BB%E7%94%9F%E5%AB%96%E5%A8%BC%E4%B8%BA%E5%AE%9E%E4%B9%A0%E7%94%9F%E9%80%A0%E8%B0%A3%23&t=31&band_rank=2&Refer=top)<br />
+2. [怎么没人写硕博士的偶像剧](https://s.weibo.com/weibo?q=%23%E6%80%8E%E4%B9%88%E6%B2%A1%E4%BA%BA%E5%86%99%E7%A1%95%E5%8D%9A%E5%A3%AB%E7%9A%84%E5%81%B6%E5%83%8F%E5%89%A7%23&t=31&band_rank=2&Refer=top)<br />
 3. [2023年中国网络文明大会新闻发布会](https://s.weibo.com/weibo?q=%232023%E5%B9%B4%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E5%A4%A7%E4%BC%9A%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [卖菜大爷挣21元被罚款11万元](https://s.weibo.com/weibo?q=%23%E5%8D%96%E8%8F%9C%E5%A4%A7%E7%88%B7%E6%8C%A321%E5%85%83%E8%A2%AB%E7%BD%9A%E6%AC%BE11%E4%B8%87%E5%85%83%23&t=31&band_rank=4&Refer=top)<br />
-5. [怎么没人写硕博士的偶像剧](https://s.weibo.com/weibo?q=%23%E6%80%8E%E4%B9%88%E6%B2%A1%E4%BA%BA%E5%86%99%E7%A1%95%E5%8D%9A%E5%A3%AB%E7%9A%84%E5%81%B6%E5%83%8F%E5%89%A7%23&t=31&band_rank=5&Refer=top)<br />
+5. [仁济医院医生嫖娼为实习生造谣](https://s.weibo.com/weibo?q=%23%E4%BB%81%E6%B5%8E%E5%8C%BB%E9%99%A2%E5%8C%BB%E7%94%9F%E5%AB%96%E5%A8%BC%E4%B8%BA%E5%AE%9E%E4%B9%A0%E7%94%9F%E9%80%A0%E8%B0%A3%23&t=31&band_rank=5&Refer=top)<br />
 6. [LWX](https://s.weibo.com/weibo?q=LWX&t=31&band_rank=6&Refer=top)<br />
 7. [宋妍霏左眼流泪右眼笑](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E5%A6%8D%E9%9C%8F%E5%B7%A6%E7%9C%BC%E6%B5%81%E6%B3%AA%E5%8F%B3%E7%9C%BC%E7%AC%91%23&t=31&band_rank=7&Refer=top)<br />
 8. [香港艺人vs内地艺人](https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E8%89%BA%E4%BA%BAvs%E5%86%85%E5%9C%B0%E8%89%BA%E4%BA%BA%23&t=31&band_rank=8&Refer=top)<br />
