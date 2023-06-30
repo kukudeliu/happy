@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 22:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 22:08:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [胖东来](https://s.weibo.com/weibo?q=%E8%83%96%E4%B8%9C%E6%9D%A5&t=31&band_rank=6&Refer=top)<br />
 7. [男子高铁站持刀刺2人致1死](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%AB%98%E9%93%81%E7%AB%99%E6%8C%81%E5%88%80%E5%88%BA2%E4%BA%BA%E8%87%B41%E6%AD%BB%23&t=31&band_rank=7&Refer=top)<br />
 8. [赵露思宋轶全都白干](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%AE%8B%E8%BD%B6%E5%85%A8%E9%83%BD%E7%99%BD%E5%B9%B2%23&t=31&band_rank=8&Refer=top)<br />
-9. [泰坦号失事前水下短信通信记录](https://s.weibo.com/weibo?q=%E6%B3%B0%E5%9D%A6%E5%8F%B7%E5%A4%B1%E4%BA%8B%E5%89%8D%E6%B0%B4%E4%B8%8B%E7%9F%AD%E4%BF%A1%E9%80%9A%E4%BF%A1%E8%AE%B0%E5%BD%95&t=31&band_rank=9&Refer=top)<br />
+9. [原来猫咪允许你摸它的鼻子是这个意思](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E7%8C%AB%E5%92%AA%E5%85%81%E8%AE%B8%E4%BD%A0%E6%91%B8%E5%AE%83%E7%9A%84%E9%BC%BB%E5%AD%90%E6%98%AF%E8%BF%99%E4%B8%AA%E6%84%8F%E6%80%9D&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [洗烘一体机好还是单独烘干机好？](https://www.zhihu.com/question/491205550)<br />
 7. [如何看待任天堂回应高层回应股东 Switch 的特点不在性能？你觉得游戏机什么最重要？](https://www.zhihu.com/question/609196080)<br />
 8. [A 股上半年收官，沪指险守 3200 点关口，下半年走势或将如何？](https://www.zhihu.com/question/609608897)<br />
-9. []()<br />
+9. [电影《消失的她》中，为什么何非没有识别出陈麦的律师身份是假的？他没有怀疑过陈麦吗？](https://www.zhihu.com/question/608097247)<br />
 
 > 百度  
 
