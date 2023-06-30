@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 08:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 08:50:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [四胞胎高考出分父亲给警察打电话报喜](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E8%83%9E%E8%83%8E%E9%AB%98%E8%80%83%E5%87%BA%E5%88%86%E7%88%B6%E4%BA%B2%E7%BB%99%E8%AD%A6%E5%AF%9F%E6%89%93%E7%94%B5%E8%AF%9D%E6%8A%A5%E5%96%9C%23&t=31&band_rank=5&Refer=top)<br />
 6. [杰森斯坦森回应爱称郭达](https://s.weibo.com/weibo?q=%23%E6%9D%B0%E6%A3%AE%E6%96%AF%E5%9D%A6%E6%A3%AE%E5%9B%9E%E5%BA%94%E7%88%B1%E7%A7%B0%E9%83%AD%E8%BE%BE%23&t=31&band_rank=6&Refer=top)<br />
 7. [唐朝早就有多巴胺穿搭了](https://s.weibo.com/weibo?q=%23%E5%94%90%E6%9C%9D%E6%97%A9%E5%B0%B1%E6%9C%89%E5%A4%9A%E5%B7%B4%E8%83%BA%E7%A9%BF%E6%90%AD%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [LPL大瓜](https://s.weibo.com/weibo?q=LPL%E5%A4%A7%E7%93%9C&t=31&band_rank=8&Refer=top)<br />
-9. [曾黎声援辛芷蕾](https://s.weibo.com/weibo?q=%23%E6%9B%BE%E9%BB%8E%E5%A3%B0%E6%8F%B4%E8%BE%9B%E8%8A%B7%E8%95%BE%23&t=31&band_rank=9&Refer=top)<br />
+8. [曾黎声援辛芷蕾](https://s.weibo.com/weibo?q=%23%E6%9B%BE%E9%BB%8E%E5%A3%B0%E6%8F%B4%E8%BE%9B%E8%8A%B7%E8%95%BE%23&t=31&band_rank=8&Refer=top)<br />
+9. [LPL大瓜](https://s.weibo.com/weibo?q=LPL%E5%A4%A7%E7%93%9C&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
