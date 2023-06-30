@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 08:23:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 08:24:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [网友在北方发现大蟑螂身影，如何看待此事？为什么北方大蟑螂越来越多？](https://www.zhihu.com/question/609451038)<br />
 7. [有没有一张照片让你觉得你的猫被你养的很好？](https://www.zhihu.com/question/596919746)<br />
 8. [经济学家朱少平称「社会别给年轻人必须要买房的压力，房贷会让他们更喘不上气」，如何评价此观点？](https://www.zhihu.com/question/609356792)<br />
-9. [《星球大战》里帝国士兵的白色铠甲不防弹，甚至手枪都不防，为什么还要全军配备？而且一直让士兵穿着？](https://www.zhihu.com/question/445290525)<br />
+9. [如何看待小鹏 G6 上市价格 20.99 万起？](https://www.zhihu.com/question/609476325)<br />
 
 > 百度  
 
@@ -32,8 +32,8 @@
 4. [点亮科学之光](https://www.baidu.com/s?wd=%E7%82%B9%E4%BA%AE%E7%A7%91%E5%AD%A6%E4%B9%8B%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [载客18人中巴被落石砸中 6人遇难](https://www.baidu.com/s?wd=%E8%BD%BD%E5%AE%A218%E4%BA%BA%E4%B8%AD%E5%B7%B4%E8%A2%AB%E8%90%BD%E7%9F%B3%E7%A0%B8%E4%B8%AD+6%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [四胞胎高考出分父亲致电警察报喜](https://www.baidu.com/s?wd=%E5%9B%9B%E8%83%9E%E8%83%8E%E9%AB%98%E8%80%83%E5%87%BA%E5%88%86%E7%88%B6%E4%BA%B2%E8%87%B4%E7%94%B5%E8%AD%A6%E5%AF%9F%E6%8A%A5%E5%96%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [多方回应“俄空天军总司令被捕”](https://www.baidu.com/s?wd=%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E4%BF%84%E7%A9%BA%E5%A4%A9%E5%86%9B%E6%80%BB%E5%8F%B8%E4%BB%A4%E8%A2%AB%E6%8D%95%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [媒体：警惕抹黑清华的舆论倾向](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E8%AD%A6%E6%83%95%E6%8A%B9%E9%BB%91%E6%B8%85%E5%8D%8E%E7%9A%84%E8%88%86%E8%AE%BA%E5%80%BE%E5%90%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [媒体：警惕抹黑清华的舆论倾向](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E8%AD%A6%E6%83%95%E6%8A%B9%E9%BB%91%E6%B8%85%E5%8D%8E%E7%9A%84%E8%88%86%E8%AE%BA%E5%80%BE%E5%90%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [多方回应“俄空天军总司令被捕”](https://www.baidu.com/s?wd=%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E4%BF%84%E7%A9%BA%E5%A4%A9%E5%86%9B%E6%80%BB%E5%8F%B8%E4%BB%A4%E8%A2%AB%E6%8D%95%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [4个月内11次通报！央企多人密集落马](https://www.baidu.com/s?wd=4%E4%B8%AA%E6%9C%88%E5%86%8511%E6%AC%A1%E9%80%9A%E6%8A%A5%EF%BC%81%E5%A4%AE%E4%BC%81%E5%A4%9A%E4%BA%BA%E5%AF%86%E9%9B%86%E8%90%BD%E9%A9%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -44,6 +44,6 @@
 4. [点亮科学之光](https://www.baidu.com/s?wd=%E7%82%B9%E4%BA%AE%E7%A7%91%E5%AD%A6%E4%B9%8B%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [载客18人中巴被落石砸中 6人遇难](https://www.baidu.com/s?wd=%E8%BD%BD%E5%AE%A218%E4%BA%BA%E4%B8%AD%E5%B7%B4%E8%A2%AB%E8%90%BD%E7%9F%B3%E7%A0%B8%E4%B8%AD+6%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [四胞胎高考出分父亲致电警察报喜](https://www.baidu.com/s?wd=%E5%9B%9B%E8%83%9E%E8%83%8E%E9%AB%98%E8%80%83%E5%87%BA%E5%88%86%E7%88%B6%E4%BA%B2%E8%87%B4%E7%94%B5%E8%AD%A6%E5%AF%9F%E6%8A%A5%E5%96%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [多方回应“俄空天军总司令被捕”](https://www.baidu.com/s?wd=%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E4%BF%84%E7%A9%BA%E5%A4%A9%E5%86%9B%E6%80%BB%E5%8F%B8%E4%BB%A4%E8%A2%AB%E6%8D%95%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [媒体：警惕抹黑清华的舆论倾向](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E8%AD%A6%E6%83%95%E6%8A%B9%E9%BB%91%E6%B8%85%E5%8D%8E%E7%9A%84%E8%88%86%E8%AE%BA%E5%80%BE%E5%90%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [媒体：警惕抹黑清华的舆论倾向](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E8%AD%A6%E6%83%95%E6%8A%B9%E9%BB%91%E6%B8%85%E5%8D%8E%E7%9A%84%E8%88%86%E8%AE%BA%E5%80%BE%E5%90%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [多方回应“俄空天军总司令被捕”](https://www.baidu.com/s?wd=%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E4%BF%84%E7%A9%BA%E5%A4%A9%E5%86%9B%E6%80%BB%E5%8F%B8%E4%BB%A4%E8%A2%AB%E6%8D%95%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [4个月内11次通报！央企多人密集落马](https://www.baidu.com/s?wd=4%E4%B8%AA%E6%9C%88%E5%86%8511%E6%AC%A1%E9%80%9A%E6%8A%A5%EF%BC%81%E5%A4%AE%E4%BC%81%E5%A4%9A%E4%BA%BA%E5%AF%86%E9%9B%86%E8%90%BD%E9%A9%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
