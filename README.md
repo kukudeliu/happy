@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 00:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 00:12:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [胖东来](https://s.weibo.com/weibo?q=%E8%83%96%E4%B8%9C%E6%9D%A5&t=31&band_rank=6&Refer=top)<br />
 7. [白敬亭是有牵手肌肉记忆吗](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E6%98%AF%E6%9C%89%E7%89%B5%E6%89%8B%E8%82%8C%E8%82%89%E8%AE%B0%E5%BF%86%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
 8. [未定事件簿 茶百道](https://s.weibo.com/weibo?q=%E6%9C%AA%E5%AE%9A%E4%BA%8B%E4%BB%B6%E7%B0%BF%20%E8%8C%B6%E7%99%BE%E9%81%93&t=31&band_rank=8&Refer=top)<br />
-9. [泰坦号失事前水下短信通信记录](https://s.weibo.com/weibo?q=%E6%B3%B0%E5%9D%A6%E5%8F%B7%E5%A4%B1%E4%BA%8B%E5%89%8D%E6%B0%B4%E4%B8%8B%E7%9F%AD%E4%BF%A1%E9%80%9A%E4%BF%A1%E8%AE%B0%E5%BD%95&t=31&band_rank=9&Refer=top)<br />
+9. [山东大学拟聘用2名硕士为公寓管理员](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E5%A4%A7%E5%AD%A6%E6%8B%9F%E8%81%98%E7%94%A82%E5%90%8D%E7%A1%95%E5%A3%AB%E4%B8%BA%E5%85%AC%E5%AF%93%E7%AE%A1%E7%90%86%E5%91%98%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
