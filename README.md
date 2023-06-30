@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 21:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 21:18:01</h4></div>
 
 > 微博  
 
@@ -17,9 +17,9 @@
 1. [恶魔给你 1 个亿，但接下来你的所有支出都变为 5 倍 (见详细描述)，你会答应恶魔的契约吗？](https://www.zhihu.com/question/608441800)<br />
 2. [如果给你一个山河大学的职务，你想当什么？不考虑预算的情况下，你会怎样建设？](https://www.zhihu.com/question/609402567)<br />
 3. [财政部数据显示「5 月份全国共销售彩票 500.21 亿元，同比增长 52.7%」，如何看待这一数据？](https://www.zhihu.com/question/609601825)<br />
-4. [益生菌市场乱象丛生，代工价 8 毛钱一袋已是中高档产品，企业直言比的是包装、噱头，哪些信息值得关注？](https://www.zhihu.com/question/609147169)<br />
+4. [央视官宣福建舰即将海试，这艘电磁弹射型航母首次海试，将带来哪些重大意义？](https://www.zhihu.com/question/609607306)<br />
 5. [《消失的她》凭什么能领跑端午档？](https://www.zhihu.com/theater/97165)<br />
-6. [央视官宣福建舰即将海试，这艘电磁弹射型航母首次海试，将带来哪些重大意义？](https://www.zhihu.com/question/609607306)<br />
+6. [益生菌市场乱象丛生，代工价 8 毛钱一袋已是中高档产品，企业直言比的是包装、噱头，哪些信息值得关注？](https://www.zhihu.com/question/609147169)<br />
 7. [电影《消失的她》中的「何非」是个纯粹的恶人吗？](https://www.zhihu.com/question/608333307)<br />
 8. [如何看待一批 985 毕业生选择主动延毕？主动延毕到底值不值得？](https://www.zhihu.com/question/606719187)<br />
 9. [2023 LPL 夏季赛 NIP 0:2 WBG，如何评价这场比赛？](https://www.zhihu.com/question/609607873)<br />
