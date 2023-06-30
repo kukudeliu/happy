@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 20:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 20:38:01</h4></div>
 
 > 微博  
 
@@ -9,20 +9,20 @@
 5. [胖东来](https://s.weibo.com/weibo?q=%E8%83%96%E4%B8%9C%E6%9D%A5&t=31&band_rank=5&Refer=top)<br />
 6. [搂着扫楼](https://s.weibo.com/weibo?q=%E6%90%82%E7%9D%80%E6%89%AB%E6%A5%BC&t=31&band_rank=6&Refer=top)<br />
 7. [日食记 被低估的贵州美食](https://s.weibo.com/weibo?q=%E6%97%A5%E9%A3%9F%E8%AE%B0%20%E8%A2%AB%E4%BD%8E%E4%BC%B0%E7%9A%84%E8%B4%B5%E5%B7%9E%E7%BE%8E%E9%A3%9F&t=31&band_rank=7&Refer=top)<br />
-8. [爸爸用15元买了孩子一下午的快乐](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E7%94%A815%E5%85%83%E4%B9%B0%E4%BA%86%E5%AD%A9%E5%AD%90%E4%B8%80%E4%B8%8B%E5%8D%88%E7%9A%84%E5%BF%AB%E4%B9%90%23&t=31&band_rank=8&Refer=top)<br />
+8. [中国女排](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92&t=31&band_rank=8&Refer=top)<br />
 9. [第一次嗑内娱cp](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%97%91%E5%86%85%E5%A8%B1cp%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [恶魔给你 1 个亿，但接下来你的所有支出都变为 5 倍 (见详细描述)，你会答应恶魔的契约吗？](https://www.zhihu.com/question/608441800)<br />
 2. [如果给你一个山河大学的职务，你想当什么？不考虑预算的情况下，你会怎样建设？](https://www.zhihu.com/question/609402567)<br />
-3. [上半年一系列提振经济的政策有无取得预期效果？下半年是否应进一步提升政策的刺激力度？](https://www.zhihu.com/question/609604657)<br />
-4. [财政部数据显示「5 月份全国共销售彩票 500.21 亿元，同比增长 52.7%」，如何看待这一数据？](https://www.zhihu.com/question/609601825)<br />
+3. [财政部数据显示「5 月份全国共销售彩票 500.21 亿元，同比增长 52.7%」，如何看待这一数据？](https://www.zhihu.com/question/609601825)<br />
+4. [上半年一系列提振经济的政策有无取得预期效果？下半年是否应进一步提升政策的刺激力度？](https://www.zhihu.com/question/609604657)<br />
 5. [如果你是《消失的她》里的李木子，你能逃脱牢笼吗？](https://www.zhihu.com/theater/97165)<br />
 6. [《火影忍者》为什么鸣人一直不放弃佐助，即使佐助说了很多伤人的话？](https://www.zhihu.com/question/48974655)<br />
 7. [益生菌市场乱象丛生，代工价 8 毛钱一袋已是中高档产品，企业直言比的是包装、噱头，哪些信息值得关注？](https://www.zhihu.com/question/609147169)<br />
-8. [7 月起大批新规将施行，涉及铁路出行、消费者权益、低保标准等，将对生活带来哪些影响？](https://www.zhihu.com/question/609544589)<br />
-9. [电影《消失的她》中的「何非」是个纯粹的恶人吗？](https://www.zhihu.com/question/608333307)<br />
+8. [电影《消失的她》中的「何非」是个纯粹的恶人吗？](https://www.zhihu.com/question/608333307)<br />
+9. [2023 LPL 夏季赛 NIP 0:2 WBG，如何评价这场比赛？](https://www.zhihu.com/question/609607873)<br />
 
 > 百度  
 
