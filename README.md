@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 03:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 03:29:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. []()<br />
 7. [「网红超市」胖东来 8 页报告调查「顾客与员工争执」，如何看待胖东来的处理结果，你是否满意？](https://www.zhihu.com/question/609604339)<br />
 8. [中国超级计算机为什么不能为 AI 提供算力？](https://www.zhihu.com/question/609008408)<br />
-9. []()<br />
+9. [MBA 是什么？为什么读 MBA？](https://www.zhihu.com/question/440312189)<br />
 
 > 百度  
 
@@ -31,10 +31,10 @@
 3. [复读14年的高考钉子户考了594分](https://www.baidu.com/s?wd=%E5%A4%8D%E8%AF%BB14%E5%B9%B4%E7%9A%84%E9%AB%98%E8%80%83%E9%92%89%E5%AD%90%E6%88%B7%E8%80%83%E4%BA%86594%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [数字里看亮点](https://www.baidu.com/s?wd=%E6%95%B0%E5%AD%97%E9%87%8C%E7%9C%8B%E4%BA%AE%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [美国将重返教科文组织 中方投反对票](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%B0%86%E9%87%8D%E8%BF%94%E6%95%99%E7%A7%91%E6%96%87%E7%BB%84%E7%BB%87+%E4%B8%AD%E6%96%B9%E6%8A%95%E5%8F%8D%E5%AF%B9%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [1700元周杰伦演唱会门票直接烧了](https://www.baidu.com/s?wd=1700%E5%85%83%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E7%9B%B4%E6%8E%A5%E7%83%A7%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [粉丝曝蔡徐坤已回国](https://www.baidu.com/s?wd=%E7%B2%89%E4%B8%9D%E6%9B%9D%E8%94%A1%E5%BE%90%E5%9D%A4%E5%B7%B2%E5%9B%9E%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [比盐粒还小的手提包卖出46.2万](https://www.baidu.com/s?wd=%E6%AF%94%E7%9B%90%E7%B2%92%E8%BF%98%E5%B0%8F%E7%9A%84%E6%89%8B%E6%8F%90%E5%8C%85%E5%8D%96%E5%87%BA46.2%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [多名陌生男子闯入室内 住户坠楼身亡](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E9%99%8C%E7%94%9F%E7%94%B7%E5%AD%90%E9%97%AF%E5%85%A5%E5%AE%A4%E5%86%85+%E4%BD%8F%E6%88%B7%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [粉丝曝蔡徐坤已回国](https://www.baidu.com/s?wd=%E7%B2%89%E4%B8%9D%E6%9B%9D%E8%94%A1%E5%BE%90%E5%9D%A4%E5%B7%B2%E5%9B%9E%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [拜登没等插播广告直接离开现场](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E6%B2%A1%E7%AD%89%E6%8F%92%E6%92%AD%E5%B9%BF%E5%91%8A%E7%9B%B4%E6%8E%A5%E7%A6%BB%E5%BC%80%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [1700元周杰伦演唱会门票直接烧了](https://www.baidu.com/s?wd=1700%E5%85%83%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E7%9B%B4%E6%8E%A5%E7%83%A7%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [比盐粒还小的手提包卖出46.2万](https://www.baidu.com/s?wd=%E6%AF%94%E7%9B%90%E7%B2%92%E8%BF%98%E5%B0%8F%E7%9A%84%E6%89%8B%E6%8F%90%E5%8C%85%E5%8D%96%E5%87%BA46.2%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [复读14年的高考钉子户考了594分](https://www.baidu.com/s?wd=%E5%A4%8D%E8%AF%BB14%E5%B9%B4%E7%9A%84%E9%AB%98%E8%80%83%E9%92%89%E5%AD%90%E6%88%B7%E8%80%83%E4%BA%86594%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [数字里看亮点](https://www.baidu.com/s?wd=%E6%95%B0%E5%AD%97%E9%87%8C%E7%9C%8B%E4%BA%AE%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [美国将重返教科文组织 中方投反对票](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%B0%86%E9%87%8D%E8%BF%94%E6%95%99%E7%A7%91%E6%96%87%E7%BB%84%E7%BB%87+%E4%B8%AD%E6%96%B9%E6%8A%95%E5%8F%8D%E5%AF%B9%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [1700元周杰伦演唱会门票直接烧了](https://www.baidu.com/s?wd=1700%E5%85%83%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E7%9B%B4%E6%8E%A5%E7%83%A7%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [粉丝曝蔡徐坤已回国](https://www.baidu.com/s?wd=%E7%B2%89%E4%B8%9D%E6%9B%9D%E8%94%A1%E5%BE%90%E5%9D%A4%E5%B7%B2%E5%9B%9E%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [比盐粒还小的手提包卖出46.2万](https://www.baidu.com/s?wd=%E6%AF%94%E7%9B%90%E7%B2%92%E8%BF%98%E5%B0%8F%E7%9A%84%E6%89%8B%E6%8F%90%E5%8C%85%E5%8D%96%E5%87%BA46.2%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [多名陌生男子闯入室内 住户坠楼身亡](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E9%99%8C%E7%94%9F%E7%94%B7%E5%AD%90%E9%97%AF%E5%85%A5%E5%AE%A4%E5%86%85+%E4%BD%8F%E6%88%B7%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [粉丝曝蔡徐坤已回国](https://www.baidu.com/s?wd=%E7%B2%89%E4%B8%9D%E6%9B%9D%E8%94%A1%E5%BE%90%E5%9D%A4%E5%B7%B2%E5%9B%9E%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [拜登没等插播广告直接离开现场](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E6%B2%A1%E7%AD%89%E6%8F%92%E6%92%AD%E5%B9%BF%E5%91%8A%E7%9B%B4%E6%8E%A5%E7%A6%BB%E5%BC%80%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [1700元周杰伦演唱会门票直接烧了](https://www.baidu.com/s?wd=1700%E5%85%83%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E7%9B%B4%E6%8E%A5%E7%83%A7%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [比盐粒还小的手提包卖出46.2万](https://www.baidu.com/s?wd=%E6%AF%94%E7%9B%90%E7%B2%92%E8%BF%98%E5%B0%8F%E7%9A%84%E6%89%8B%E6%8F%90%E5%8C%85%E5%8D%96%E5%87%BA46.2%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
