@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 20:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 20:50:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 2. [如果给你一个山河大学的职务，你想当什么？不考虑预算的情况下，你会怎样建设？](https://www.zhihu.com/question/609402567)<br />
 3. [财政部数据显示「5 月份全国共销售彩票 500.21 亿元，同比增长 52.7%」，如何看待这一数据？](https://www.zhihu.com/question/609601825)<br />
 4. [《火影忍者》为什么鸣人一直不放弃佐助，即使佐助说了很多伤人的话？](https://www.zhihu.com/question/48974655)<br />
-5. [如果你是《消失的她》里的李木子，你能逃脱牢笼吗？](https://www.zhihu.com/theater/97165)<br />
+5. [《消失的她》凭什么能领跑端午档？](https://www.zhihu.com/theater/97165)<br />
 6. [益生菌市场乱象丛生，代工价 8 毛钱一袋已是中高档产品，企业直言比的是包装、噱头，哪些信息值得关注？](https://www.zhihu.com/question/609147169)<br />
 7. [电影《消失的她》中的「何非」是个纯粹的恶人吗？](https://www.zhihu.com/question/608333307)<br />
 8. [央视官宣福建舰即将海试，这艘电磁弹射型航母首次海试，将带来哪些重大意义？](https://www.zhihu.com/question/609607306)<br />
