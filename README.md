@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 19:35:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 19:36:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [堂哥失联7年堂弟报警后奇迹发生](https://s.weibo.com/weibo?q=%23%E5%A0%82%E5%93%A5%E5%A4%B1%E8%81%947%E5%B9%B4%E5%A0%82%E5%BC%9F%E6%8A%A5%E8%AD%A6%E5%90%8E%E5%A5%87%E8%BF%B9%E5%8F%91%E7%94%9F%23&t=31&band_rank=5&Refer=top)<br />
 6. [胖东来](https://s.weibo.com/weibo?q=%E8%83%96%E4%B8%9C%E6%9D%A5&t=31&band_rank=6&Refer=top)<br />
 7. [孕妻身体不适丈夫产房外哭泣守护](https://s.weibo.com/weibo?q=%23%E5%AD%95%E5%A6%BB%E8%BA%AB%E4%BD%93%E4%B8%8D%E9%80%82%E4%B8%88%E5%A4%AB%E4%BA%A7%E6%88%BF%E5%A4%96%E5%93%AD%E6%B3%A3%E5%AE%88%E6%8A%A4%23&t=31&band_rank=7&Refer=top)<br />
-8. [白敬亭宋轶同框](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6%E5%90%8C%E6%A1%86%23&t=31&band_rank=8&Refer=top)<br />
+8. [第一次嗑内娱cp](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%97%91%E5%86%85%E5%A8%B1cp%23&t=31&band_rank=8&Refer=top)<br />
 9. [浙江卫视节目单奔跑吧泰国篇](https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86%E8%8A%82%E7%9B%AE%E5%8D%95%E5%A5%94%E8%B7%91%E5%90%A7%E6%B3%B0%E5%9B%BD%E7%AF%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -20,9 +20,9 @@
 4. [为什么小学英语教材要用这种字体体印刷？](https://www.zhihu.com/question/577940256)<br />
 5. [上半年一系列提振经济的政策有无取得预期效果？下半年是否应进一步提升政策的刺激力度？](https://www.zhihu.com/question/609604657)<br />
 6. [电路板上的 0 欧电阻有什么用？](https://www.zhihu.com/question/601580372)<br />
-7. [上海学区房最强阵地失守，两年内从近 15 万跌到 10 万，曾经一周涨 39.4%，哪些信息值得关注？](https://www.zhihu.com/question/609355451)<br />
-8. [财政部数据显示「5 月份全国共销售彩票 500.21 亿元，同比增长 52.7%」，如何看待这一数据？](https://www.zhihu.com/question/609601825)<br />
-9. [菜农卖菜赚 21.05 元，因抽检不合格被罚 11 万，法院「不予强制执行」，如何看待这一行政处罚？](https://www.zhihu.com/question/609558753)<br />
+7. [财政部数据显示「5 月份全国共销售彩票 500.21 亿元，同比增长 52.7%」，如何看待这一数据？](https://www.zhihu.com/question/609601825)<br />
+8. [菜农卖菜赚 21.05 元，因抽检不合格被罚 11 万，法院「不予强制执行」，如何看待这一行政处罚？](https://www.zhihu.com/question/609558753)<br />
+9. [《火影忍者》为什么鸣人一直不放弃佐助，即使佐助说了很多伤人的话？](https://www.zhihu.com/question/48974655)<br />
 
 > 百度  
 
