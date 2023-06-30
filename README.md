@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 06:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 06:03:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [胡锡进称「经过这一周，更渴望国家刺激经济政策的出台」，如何看待此事？](https://www.zhihu.com/question/609622405)<br />
 7. [「网红超市」胖东来 8 页报告调查「顾客与员工争执」，如何看待胖东来的处理结果，你是否满意？](https://www.zhihu.com/question/609604339)<br />
 8. [高考报志愿花 5000 块值吗？](https://www.zhihu.com/question/603639824)<br />
-9. [去呼伦贝尔旅游怎么玩才最爽？](https://www.zhihu.com/question/317006293)<br />
+9. []()<br />
 
 > 百度  
 
