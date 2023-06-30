@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 07:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 07:47:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [爱奇艺工作人员 白敬亭好好对宋轶](https://s.weibo.com/weibo?q=%E7%88%B1%E5%A5%87%E8%89%BA%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%20%E7%99%BD%E6%95%AC%E4%BA%AD%E5%A5%BD%E5%A5%BD%E5%AF%B9%E5%AE%8B%E8%BD%B6&t=31&band_rank=5&Refer=top)<br />
 6. [三十岁女生给二十岁女生的建议](https://s.weibo.com/weibo?q=%E4%B8%89%E5%8D%81%E5%B2%81%E5%A5%B3%E7%94%9F%E7%BB%99%E4%BA%8C%E5%8D%81%E5%B2%81%E5%A5%B3%E7%94%9F%E7%9A%84%E5%BB%BA%E8%AE%AE&t=31&band_rank=6&Refer=top)<br />
 7. [越南一位老人50年没睡觉](https://s.weibo.com/weibo?q=%E8%B6%8A%E5%8D%97%E4%B8%80%E4%BD%8D%E8%80%81%E4%BA%BA50%E5%B9%B4%E6%B2%A1%E7%9D%A1%E8%A7%89&t=31&band_rank=7&Refer=top)<br />
-8. [建党节](https://s.weibo.com/weibo?q=%E5%BB%BA%E5%85%9A%E8%8A%82&t=31&band_rank=8&Refer=top)<br />
-9. [山东大学拟聘用2名硕士为公寓管理员](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E5%A4%A7%E5%AD%A6%E6%8B%9F%E8%81%98%E7%94%A82%E5%90%8D%E7%A1%95%E5%A3%AB%E4%B8%BA%E5%85%AC%E5%AF%93%E7%AE%A1%E7%90%86%E5%91%98%23&t=31&band_rank=9&Refer=top)<br />
+8. [消失的她票房超人生大事](https://s.weibo.com/weibo?q=%23%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%88%BF%E8%B6%85%E4%BA%BA%E7%94%9F%E5%A4%A7%E4%BA%8B%23&t=31&band_rank=8&Refer=top)<br />
+9. [建党节](https://s.weibo.com/weibo?q=%E5%BB%BA%E5%85%9A%E8%8A%82&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -21,8 +21,8 @@
 5. [乌克兰正讨论禁止现金支付，或成首个废除现金国家，号称可减少至少 95% 腐败，这一举措是否合理？](https://www.zhihu.com/question/609605756)<br />
 6. [「网红超市」胖东来 8 页报告调查「顾客与员工争执」，如何看待胖东来的处理结果，你是否满意？](https://www.zhihu.com/question/609604339)<br />
 7. [我打算隐居终南山，用毕生精力探索宇宙人生的真相，我应该带上哪些书？](https://www.zhihu.com/question/604728024)<br />
-8. []()<br />
-9. [越来越多高校开始取消硕士研究生新生奖学金，如何看待此事？取消原因是什么？](https://www.zhihu.com/question/609591751)<br />
+8. [越来越多高校开始取消硕士研究生新生奖学金，如何看待此事？取消原因是什么？](https://www.zhihu.com/question/609591751)<br />
+9. []()<br />
 
 > 百度  
 
