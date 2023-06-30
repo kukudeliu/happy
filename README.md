@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 12:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 12:03:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [专家称中国不存在房贷压力大问题](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E4%B8%AD%E5%9B%BD%E4%B8%8D%E5%AD%98%E5%9C%A8%E6%88%BF%E8%B4%B7%E5%8E%8B%E5%8A%9B%E5%A4%A7%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子徘徊数小时跳楼身亡 路人曾起哄](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BE%98%E5%BE%8A%E6%95%B0%E5%B0%8F%E6%97%B6%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1+%E8%B7%AF%E4%BA%BA%E6%9B%BE%E8%B5%B7%E5%93%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [卖菜大爷挣21元被罚款11万元](https://www.baidu.com/s?wd=%E5%8D%96%E8%8F%9C%E5%A4%A7%E7%88%B7%E6%8C%A321%E5%85%83%E8%A2%AB%E7%BD%9A%E6%AC%BE11%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子野生菌中毒病床上隔空捋线](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%87%8E%E7%94%9F%E8%8F%8C%E4%B8%AD%E6%AF%92%E7%97%85%E5%BA%8A%E4%B8%8A%E9%9A%94%E7%A9%BA%E6%8D%8B%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [范玮琪护陈建州被打脸](https://www.baidu.com/s?wd=%E8%8C%83%E7%8E%AE%E7%90%AA%E6%8A%A4%E9%99%88%E5%BB%BA%E5%B7%9E%E8%A2%AB%E6%89%93%E8%84%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [专家称中国不存在房贷压力大问题](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E4%B8%AD%E5%9B%BD%E4%B8%8D%E5%AD%98%E5%9C%A8%E6%88%BF%E8%B4%B7%E5%8E%8B%E5%8A%9B%E5%A4%A7%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子徘徊数小时跳楼身亡 路人曾起哄](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BE%98%E5%BE%8A%E6%95%B0%E5%B0%8F%E6%97%B6%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1+%E8%B7%AF%E4%BA%BA%E6%9B%BE%E8%B5%B7%E5%93%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [卖菜大爷挣21元被罚款11万元](https://www.baidu.com/s?wd=%E5%8D%96%E8%8F%9C%E5%A4%A7%E7%88%B7%E6%8C%A321%E5%85%83%E8%A2%AB%E7%BD%9A%E6%AC%BE11%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子野生菌中毒病床上隔空捋线](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%87%8E%E7%94%9F%E8%8F%8C%E4%B8%AD%E6%AF%92%E7%97%85%E5%BA%8A%E4%B8%8A%E9%9A%94%E7%A9%BA%E6%8D%8B%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [范玮琪护陈建州被打脸](https://www.baidu.com/s?wd=%E8%8C%83%E7%8E%AE%E7%90%AA%E6%8A%A4%E9%99%88%E5%BB%BA%E5%B7%9E%E8%A2%AB%E6%89%93%E8%84%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
