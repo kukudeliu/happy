@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 08:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 08:39:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [四胞胎高考出分父亲致电警察报喜](https://www.baidu.com/s?wd=%E5%9B%9B%E8%83%9E%E8%83%8E%E9%AB%98%E8%80%83%E5%87%BA%E5%88%86%E7%88%B6%E4%BA%B2%E8%87%B4%E7%94%B5%E8%AD%A6%E5%AF%9F%E6%8A%A5%E5%96%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [媒体：警惕抹黑清华的舆论倾向](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E8%AD%A6%E6%83%95%E6%8A%B9%E9%BB%91%E6%B8%85%E5%8D%8E%E7%9A%84%E8%88%86%E8%AE%BA%E5%80%BE%E5%90%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [4个月内11次通报！央企多人密集落马](https://www.baidu.com/s?wd=4%E4%B8%AA%E6%9C%88%E5%86%8511%E6%AC%A1%E9%80%9A%E6%8A%A5%EF%BC%81%E5%A4%AE%E4%BC%81%E5%A4%9A%E4%BA%BA%E5%AF%86%E9%9B%86%E8%90%BD%E9%A9%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [村BA美女主持人去看周杰伦了](https://www.baidu.com/s?wd=%E6%9D%91BA%E7%BE%8E%E5%A5%B3%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%8E%BB%E7%9C%8B%E5%91%A8%E6%9D%B0%E4%BC%A6%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [官方称学生被关教室8天未上课不实](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E7%A7%B0%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%85%B3%E6%95%99%E5%AE%A48%E5%A4%A9%E6%9C%AA%E4%B8%8A%E8%AF%BE%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [四胞胎高考出分父亲致电警察报喜](https://www.baidu.com/s?wd=%E5%9B%9B%E8%83%9E%E8%83%8E%E9%AB%98%E8%80%83%E5%87%BA%E5%88%86%E7%88%B6%E4%BA%B2%E8%87%B4%E7%94%B5%E8%AD%A6%E5%AF%9F%E6%8A%A5%E5%96%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [媒体：警惕抹黑清华的舆论倾向](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E8%AD%A6%E6%83%95%E6%8A%B9%E9%BB%91%E6%B8%85%E5%8D%8E%E7%9A%84%E8%88%86%E8%AE%BA%E5%80%BE%E5%90%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [4个月内11次通报！央企多人密集落马](https://www.baidu.com/s?wd=4%E4%B8%AA%E6%9C%88%E5%86%8511%E6%AC%A1%E9%80%9A%E6%8A%A5%EF%BC%81%E5%A4%AE%E4%BC%81%E5%A4%9A%E4%BA%BA%E5%AF%86%E9%9B%86%E8%90%BD%E9%A9%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [村BA美女主持人去看周杰伦了](https://www.baidu.com/s?wd=%E6%9D%91BA%E7%BE%8E%E5%A5%B3%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%8E%BB%E7%9C%8B%E5%91%A8%E6%9D%B0%E4%BC%A6%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [官方称学生被关教室8天未上课不实](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E7%A7%B0%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%85%B3%E6%95%99%E5%AE%A48%E5%A4%A9%E6%9C%AA%E4%B8%8A%E8%AF%BE%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
