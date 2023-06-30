@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 10:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 10:09:01</h4></div>
 
 > 微博  
 
@@ -18,8 +18,8 @@
 2. [上海学区房最强阵地失守，两年内从近 15 万跌到 10 万，曾经一周涨 39.4%，哪些信息值得关注？](https://www.zhihu.com/question/609355451)<br />
 3. [专家认为「中国老百姓存款多恰恰是因为没钱，建议推行全民公费育儿等措施」，如何看待这一观点？](https://www.zhihu.com/question/609390380)<br />
 4. [网友在北方发现大蟑螂身影，如何看待此事？为什么北方大蟑螂越来越多？](https://www.zhihu.com/question/609451038)<br />
-5. [微信回应多所高校停用微信支付，如何看待此事？你能接受微信支付需要手续费吗？](https://www.zhihu.com/question/609374806)<br />
-6. [2399 元起的 RTX4060 甜品卡正式上市，适合哪些人群购买？](https://www.zhihu.com/question/609280591)<br />
+5. [2399 元起的 RTX4060 甜品卡正式上市，适合哪些人群购买？](https://www.zhihu.com/question/609280591)<br />
+6. [微信回应多所高校停用微信支付，如何看待此事？你能接受微信支付需要手续费吗？](https://www.zhihu.com/question/609374806)<br />
 7. [美众院共和党议员施压布林肯不续签《中美科技合作协定》，如何解读美方意图？将对中美带来哪些影响？](https://www.zhihu.com/question/609347160)<br />
 8. [浙江入夏以来已出现数起热射病例，66 岁老伯散步后中招，什么是热射病？如何预防、判断和急救？](https://www.zhihu.com/question/607815978)<br />
 9. []()<br />
@@ -32,9 +32,9 @@
 4. [点亮科学之光](https://www.baidu.com/s?wd=%E7%82%B9%E4%BA%AE%E7%A7%91%E5%AD%A6%E4%B9%8B%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [实习生造谣仁济医院组织卖淫被罚](https://www.baidu.com/s?wd=%E5%AE%9E%E4%B9%A0%E7%94%9F%E9%80%A0%E8%B0%A3%E4%BB%81%E6%B5%8E%E5%8C%BB%E9%99%A2%E7%BB%84%E7%BB%87%E5%8D%96%E6%B7%AB%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [4女子酒吧遭3男子骚扰双方大打出手](https://www.baidu.com/s?wd=4%E5%A5%B3%E5%AD%90%E9%85%92%E5%90%A7%E9%81%AD3%E7%94%B7%E5%AD%90%E9%AA%9A%E6%89%B0%E5%8F%8C%E6%96%B9%E5%A4%A7%E6%89%93%E5%87%BA%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [公募喊话胡锡进：别炒股了 快买基金](https://www.baidu.com/s?wd=%E5%85%AC%E5%8B%9F%E5%96%8A%E8%AF%9D%E8%83%A1%E9%94%A1%E8%BF%9B%EF%BC%9A%E5%88%AB%E7%82%92%E8%82%A1%E4%BA%86+%E5%BF%AB%E4%B9%B0%E5%9F%BA%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [贵州6人吃野生菌4人被送云南抢救](https://www.baidu.com/s?wd=%E8%B4%B5%E5%B7%9E6%E4%BA%BA%E5%90%83%E9%87%8E%E7%94%9F%E8%8F%8C4%E4%BA%BA%E8%A2%AB%E9%80%81%E4%BA%91%E5%8D%97%E6%8A%A2%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [四胞胎高考出分父亲致电警察报喜](https://www.baidu.com/s?wd=%E5%9B%9B%E8%83%9E%E8%83%8E%E9%AB%98%E8%80%83%E5%87%BA%E5%88%86%E7%88%B6%E4%BA%B2%E8%87%B4%E7%94%B5%E8%AD%A6%E5%AF%9F%E6%8A%A5%E5%96%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [媒体：警惕抹黑清华的舆论倾向](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E8%AD%A6%E6%83%95%E6%8A%B9%E9%BB%91%E6%B8%85%E5%8D%8E%E7%9A%84%E8%88%86%E8%AE%BA%E5%80%BE%E5%90%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [公募喊话胡锡进：别炒股了 快买基金](https://www.baidu.com/s?wd=%E5%85%AC%E5%8B%9F%E5%96%8A%E8%AF%9D%E8%83%A1%E9%94%A1%E8%BF%9B%EF%BC%9A%E5%88%AB%E7%82%92%E8%82%A1%E4%BA%86+%E5%BF%AB%E4%B9%B0%E5%9F%BA%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [贵州6人吃野生菌4人被送云南抢救](https://www.baidu.com/s?wd=%E8%B4%B5%E5%B7%9E6%E4%BA%BA%E5%90%83%E9%87%8E%E7%94%9F%E8%8F%8C4%E4%BA%BA%E8%A2%AB%E9%80%81%E4%BA%91%E5%8D%97%E6%8A%A2%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [点亮科学之光](https://www.baidu.com/s?wd=%E7%82%B9%E4%BA%AE%E7%A7%91%E5%AD%A6%E4%B9%8B%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [实习生造谣仁济医院组织卖淫被罚](https://www.baidu.com/s?wd=%E5%AE%9E%E4%B9%A0%E7%94%9F%E9%80%A0%E8%B0%A3%E4%BB%81%E6%B5%8E%E5%8C%BB%E9%99%A2%E7%BB%84%E7%BB%87%E5%8D%96%E6%B7%AB%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [4女子酒吧遭3男子骚扰双方大打出手](https://www.baidu.com/s?wd=4%E5%A5%B3%E5%AD%90%E9%85%92%E5%90%A7%E9%81%AD3%E7%94%B7%E5%AD%90%E9%AA%9A%E6%89%B0%E5%8F%8C%E6%96%B9%E5%A4%A7%E6%89%93%E5%87%BA%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [公募喊话胡锡进：别炒股了 快买基金](https://www.baidu.com/s?wd=%E5%85%AC%E5%8B%9F%E5%96%8A%E8%AF%9D%E8%83%A1%E9%94%A1%E8%BF%9B%EF%BC%9A%E5%88%AB%E7%82%92%E8%82%A1%E4%BA%86+%E5%BF%AB%E4%B9%B0%E5%9F%BA%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [贵州6人吃野生菌4人被送云南抢救](https://www.baidu.com/s?wd=%E8%B4%B5%E5%B7%9E6%E4%BA%BA%E5%90%83%E9%87%8E%E7%94%9F%E8%8F%8C4%E4%BA%BA%E8%A2%AB%E9%80%81%E4%BA%91%E5%8D%97%E6%8A%A2%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [四胞胎高考出分父亲致电警察报喜](https://www.baidu.com/s?wd=%E5%9B%9B%E8%83%9E%E8%83%8E%E9%AB%98%E8%80%83%E5%87%BA%E5%88%86%E7%88%B6%E4%BA%B2%E8%87%B4%E7%94%B5%E8%AD%A6%E5%AF%9F%E6%8A%A5%E5%96%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [媒体：警惕抹黑清华的舆论倾向](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E8%AD%A6%E6%83%95%E6%8A%B9%E9%BB%91%E6%B8%85%E5%8D%8E%E7%9A%84%E8%88%86%E8%AE%BA%E5%80%BE%E5%90%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [公募喊话胡锡进：别炒股了 快买基金](https://www.baidu.com/s?wd=%E5%85%AC%E5%8B%9F%E5%96%8A%E8%AF%9D%E8%83%A1%E9%94%A1%E8%BF%9B%EF%BC%9A%E5%88%AB%E7%82%92%E8%82%A1%E4%BA%86+%E5%BF%AB%E4%B9%B0%E5%9F%BA%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [贵州6人吃野生菌4人被送云南抢救](https://www.baidu.com/s?wd=%E8%B4%B5%E5%B7%9E6%E4%BA%BA%E5%90%83%E9%87%8E%E7%94%9F%E8%8F%8C4%E4%BA%BA%E8%A2%AB%E9%80%81%E4%BA%91%E5%8D%97%E6%8A%A2%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
