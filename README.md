@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 19:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 19:04:01</h4></div>
 
 > 微博  
 
@@ -33,7 +33,7 @@
 5. [比盐粒还小的手提包卖出46.2万](https://www.baidu.com/s?wd=%E6%AF%94%E7%9B%90%E7%B2%92%E8%BF%98%E5%B0%8F%E7%9A%84%E6%89%8B%E6%8F%90%E5%8C%85%E5%8D%96%E5%87%BA46.2%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [裸男带手机闯女浴室 警方：疑罪从无](https://www.baidu.com/s?wd=%E8%A3%B8%E7%94%B7%E5%B8%A6%E6%89%8B%E6%9C%BA%E9%97%AF%E5%A5%B3%E6%B5%B4%E5%AE%A4+%E8%AD%A6%E6%96%B9%EF%BC%9A%E7%96%91%E7%BD%AA%E4%BB%8E%E6%97%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [牛犊被咬死现场留巨大爪痕](https://www.baidu.com/s?wd=%E7%89%9B%E7%8A%8A%E8%A2%AB%E5%92%AC%E6%AD%BB%E7%8E%B0%E5%9C%BA%E7%95%99%E5%B7%A8%E5%A4%A7%E7%88%AA%E7%97%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [山姆泡面桶炒至500元仍遭疯抢](https://www.baidu.com/s?wd=%E5%B1%B1%E5%A7%86%E6%B3%A1%E9%9D%A2%E6%A1%B6%E7%82%92%E8%87%B3500%E5%85%83%E4%BB%8D%E9%81%AD%E7%96%AF%E6%8A%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [湘西多地内涝 河水漫过桥梁](https://www.baidu.com/s?wd=%E6%B9%98%E8%A5%BF%E5%A4%9A%E5%9C%B0%E5%86%85%E6%B6%9D+%E6%B2%B3%E6%B0%B4%E6%BC%AB%E8%BF%87%E6%A1%A5%E6%A2%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [秋瓷炫被淘汰全场大哭](https://www.baidu.com/s?wd=%E7%A7%8B%E7%93%B7%E7%82%AB%E8%A2%AB%E6%B7%98%E6%B1%B0%E5%85%A8%E5%9C%BA%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [比盐粒还小的手提包卖出46.2万](https://www.baidu.com/s?wd=%E6%AF%94%E7%9B%90%E7%B2%92%E8%BF%98%E5%B0%8F%E7%9A%84%E6%89%8B%E6%8F%90%E5%8C%85%E5%8D%96%E5%87%BA46.2%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [裸男带手机闯女浴室 警方：疑罪从无](https://www.baidu.com/s?wd=%E8%A3%B8%E7%94%B7%E5%B8%A6%E6%89%8B%E6%9C%BA%E9%97%AF%E5%A5%B3%E6%B5%B4%E5%AE%A4+%E8%AD%A6%E6%96%B9%EF%BC%9A%E7%96%91%E7%BD%AA%E4%BB%8E%E6%97%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [牛犊被咬死现场留巨大爪痕](https://www.baidu.com/s?wd=%E7%89%9B%E7%8A%8A%E8%A2%AB%E5%92%AC%E6%AD%BB%E7%8E%B0%E5%9C%BA%E7%95%99%E5%B7%A8%E5%A4%A7%E7%88%AA%E7%97%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [山姆泡面桶炒至500元仍遭疯抢](https://www.baidu.com/s?wd=%E5%B1%B1%E5%A7%86%E6%B3%A1%E9%9D%A2%E6%A1%B6%E7%82%92%E8%87%B3500%E5%85%83%E4%BB%8D%E9%81%AD%E7%96%AF%E6%8A%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [湘西多地内涝 河水漫过桥梁](https://www.baidu.com/s?wd=%E6%B9%98%E8%A5%BF%E5%A4%9A%E5%9C%B0%E5%86%85%E6%B6%9D+%E6%B2%B3%E6%B0%B4%E6%BC%AB%E8%BF%87%E6%A1%A5%E6%A2%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [秋瓷炫被淘汰全场大哭](https://www.baidu.com/s?wd=%E7%A7%8B%E7%93%B7%E7%82%AB%E8%A2%AB%E6%B7%98%E6%B1%B0%E5%85%A8%E5%9C%BA%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
