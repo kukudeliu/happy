@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 22:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 22:17:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [奔跑吧延期播出](https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%E5%BB%B6%E6%9C%9F%E6%92%AD%E5%87%BA%23&t=31&band_rank=5&Refer=top)<br />
 6. [白敬亭是有牵手肌肉记忆吗](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E6%98%AF%E6%9C%89%E7%89%B5%E6%89%8B%E8%82%8C%E8%82%89%E8%AE%B0%E5%BF%86%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [胖东来](https://s.weibo.com/weibo?q=%E8%83%96%E4%B8%9C%E6%9D%A5&t=31&band_rank=7&Refer=top)<br />
-8. [男子高铁站持刀刺2人致1死](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%AB%98%E9%93%81%E7%AB%99%E6%8C%81%E5%88%80%E5%88%BA2%E4%BA%BA%E8%87%B41%E6%AD%BB%23&t=31&band_rank=8&Refer=top)<br />
-9. [男子颈部插着切割机警车狂飙10分钟](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%A2%88%E9%83%A8%E6%8F%92%E7%9D%80%E5%88%87%E5%89%B2%E6%9C%BA%E8%AD%A6%E8%BD%A6%E7%8B%82%E9%A3%9910%E5%88%86%E9%92%9F%23&t=31&band_rank=9&Refer=top)<br />
+8. [男子颈部插着切割机警车狂飙10分钟](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%A2%88%E9%83%A8%E6%8F%92%E7%9D%80%E5%88%87%E5%89%B2%E6%9C%BA%E8%AD%A6%E8%BD%A6%E7%8B%82%E9%A3%9910%E5%88%86%E9%92%9F%23&t=31&band_rank=8&Refer=top)<br />
+9. [男子高铁站持刀刺2人致1死](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%AB%98%E9%93%81%E7%AB%99%E6%8C%81%E5%88%80%E5%88%BA2%E4%BA%BA%E8%87%B41%E6%AD%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -19,10 +19,10 @@
 3. [2023 年过半，上半年你的目标都实现了吗？对下半年有哪些期望？](https://www.zhihu.com/question/609642988)<br />
 4. [恶魔给你 1 个亿，但接下来你的所有支出都变为 5 倍 (见详细描述)，你会答应恶魔的契约吗？](https://www.zhihu.com/question/608441800)<br />
 5. [如何看待任天堂回应高层回应股东 Switch 的特点不在性能？你觉得游戏机什么最重要？](https://www.zhihu.com/question/609196080)<br />
-6. [洗烘一体机好还是单独烘干机好？](https://www.zhihu.com/question/491205550)<br />
-7. [电影《消失的她》中，为什么何非没有识别出陈麦的律师身份是假的？他没有怀疑过陈麦吗？](https://www.zhihu.com/question/608097247)<br />
-8. [A 股上半年收官，沪指险守 3200 点关口，下半年走势或将如何？](https://www.zhihu.com/question/609608897)<br />
-9. [如果你是《甄嬛传》里的皇上，你会给众妃子什么位分？](https://www.zhihu.com/question/564564424)<br />
+6. [电影《消失的她》中，为什么何非没有识别出陈麦的律师身份是假的？他没有怀疑过陈麦吗？](https://www.zhihu.com/question/608097247)<br />
+7. [A 股上半年收官，沪指险守 3200 点关口，下半年走势或将如何？](https://www.zhihu.com/question/609608897)<br />
+8. [如果你是《甄嬛传》里的皇上，你会给众妃子什么位分？](https://www.zhihu.com/question/564564424)<br />
+9. [5 月份，社会消费总额同比增长 12.7%，如何解读这一数据？上半年政府稳增长、促内需的政策是否有所成效？](https://www.zhihu.com/question/609606063)<br />
 
 > 百度  
 
