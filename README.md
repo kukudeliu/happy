@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 00:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 00:03:02</h4></div>
 
 > 微博  
 
@@ -9,16 +9,16 @@
 5. [男子颈部插着切割机警车狂飙10分钟](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%A2%88%E9%83%A8%E6%8F%92%E7%9D%80%E5%88%87%E5%89%B2%E6%9C%BA%E8%AD%A6%E8%BD%A6%E7%8B%82%E9%A3%9910%E5%88%86%E9%92%9F%23&t=31&band_rank=5&Refer=top)<br />
 6. [胖东来](https://s.weibo.com/weibo?q=%E8%83%96%E4%B8%9C%E6%9D%A5&t=31&band_rank=6&Refer=top)<br />
 7. [白敬亭是有牵手肌肉记忆吗](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E6%98%AF%E6%9C%89%E7%89%B5%E6%89%8B%E8%82%8C%E8%82%89%E8%AE%B0%E5%BF%86%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
-8. [朱婷](https://s.weibo.com/weibo?q=%E6%9C%B1%E5%A9%B7&t=31&band_rank=8&Refer=top)<br />
-9. [未定事件簿 茶百道](https://s.weibo.com/weibo?q=%E6%9C%AA%E5%AE%9A%E4%BA%8B%E4%BB%B6%E7%B0%BF%20%E8%8C%B6%E7%99%BE%E9%81%93&t=31&band_rank=9&Refer=top)<br />
+8. [未定事件簿 茶百道](https://s.weibo.com/weibo?q=%E6%9C%AA%E5%AE%9A%E4%BA%8B%E4%BB%B6%E7%B0%BF%20%E8%8C%B6%E7%99%BE%E9%81%93&t=31&band_rank=8&Refer=top)<br />
+9. [朱婷](https://s.weibo.com/weibo?q=%E6%9C%B1%E5%A9%B7&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [财政部数据显示「5 月份全国共销售彩票 500.21 亿元，同比增长 52.7%」，如何看待这一数据？](https://www.zhihu.com/question/609601825)<br />
 2. [央视官宣福建舰即将海试，这艘电磁弹射型航母首次海试，将带来哪些重大意义？](https://www.zhihu.com/question/609607306)<br />
-3. [电影《消失的她》中，为什么何非没有识别出陈麦的律师身份是假的？他没有怀疑过陈麦吗？](https://www.zhihu.com/question/608097247)<br />
+3. [中国高铁出海首单，印尼雅万高铁时速达 350 公里，日媒感叹「难以逾越的实力差距」，哪些信息值得关注？](https://www.zhihu.com/question/609596590)<br />
 4. [如何看待山河四省学子在网上自建山河大学？](https://www.zhihu.com/question/609297089)<br />
-5. [中国高铁出海首单，印尼雅万高铁时速达 350 公里，日媒感叹「难以逾越的实力差距」，哪些信息值得关注？](https://www.zhihu.com/question/609596590)<br />
+5. [电影《消失的她》中，为什么何非没有识别出陈麦的律师身份是假的？他没有怀疑过陈麦吗？](https://www.zhihu.com/question/608097247)<br />
 6. [乌克兰正讨论禁止现金支付，或成首个废除现金国家，号称可减少至少 95% 腐败，这一举措是否合理？](https://www.zhihu.com/question/609605756)<br />
 7. [从「做饭糊弄学」到「白人饭」，一些年轻人正在把「敷衍饮食」的精神发扬到极致，如何看待年轻人的生活观念？](https://www.zhihu.com/question/609598856)<br />
 8. [2023 LPL 夏季赛 iG 0:2 TES，如何评价这场比赛？](https://www.zhihu.com/question/609651912)<br />
