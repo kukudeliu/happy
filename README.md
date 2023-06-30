@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 23:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 23:10:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [多名陌生男子闯入室内 住户坠楼身亡](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E9%99%8C%E7%94%9F%E7%94%B7%E5%AD%90%E9%97%AF%E5%85%A5%E5%AE%A4%E5%86%85+%E4%BD%8F%E6%88%B7%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [官方回应青海湖保安不让停车拍照](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E9%9D%92%E6%B5%B7%E6%B9%96%E4%BF%9D%E5%AE%89%E4%B8%8D%E8%AE%A9%E5%81%9C%E8%BD%A6%E6%8B%8D%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [当地回应执法大队变“执法犬队”](https://www.baidu.com/s?wd=%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94%E6%89%A7%E6%B3%95%E5%A4%A7%E9%98%9F%E5%8F%98%E2%80%9C%E6%89%A7%E6%B3%95%E7%8A%AC%E9%98%9F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [胖东来8页报告调查顾客与员工争执](https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A58%E9%A1%B5%E6%8A%A5%E5%91%8A%E8%B0%83%E6%9F%A5%E9%A1%BE%E5%AE%A2%E4%B8%8E%E5%91%98%E5%B7%A5%E4%BA%89%E6%89%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [胖东来老板称企业家要活得像人](https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E8%80%81%E6%9D%BF%E7%A7%B0%E4%BC%81%E4%B8%9A%E5%AE%B6%E8%A6%81%E6%B4%BB%E5%BE%97%E5%83%8F%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [多名陌生男子闯入室内 住户坠楼身亡](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E9%99%8C%E7%94%9F%E7%94%B7%E5%AD%90%E9%97%AF%E5%85%A5%E5%AE%A4%E5%86%85+%E4%BD%8F%E6%88%B7%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [官方回应青海湖保安不让停车拍照](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E9%9D%92%E6%B5%B7%E6%B9%96%E4%BF%9D%E5%AE%89%E4%B8%8D%E8%AE%A9%E5%81%9C%E8%BD%A6%E6%8B%8D%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [当地回应执法大队变“执法犬队”](https://www.baidu.com/s?wd=%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94%E6%89%A7%E6%B3%95%E5%A4%A7%E9%98%9F%E5%8F%98%E2%80%9C%E6%89%A7%E6%B3%95%E7%8A%AC%E9%98%9F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [胖东来8页报告调查顾客与员工争执](https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A58%E9%A1%B5%E6%8A%A5%E5%91%8A%E8%B0%83%E6%9F%A5%E9%A1%BE%E5%AE%A2%E4%B8%8E%E5%91%98%E5%B7%A5%E4%BA%89%E6%89%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [胖东来老板称企业家要活得像人](https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E8%80%81%E6%9D%BF%E7%A7%B0%E4%BC%81%E4%B8%9A%E5%AE%B6%E8%A6%81%E6%B4%BB%E5%BE%97%E5%83%8F%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
