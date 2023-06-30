@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 02:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 02:16:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [奔跑吧延期播出](https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%E5%BB%B6%E6%9C%9F%E6%92%AD%E5%87%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [其实世界上有很多情侣根本不熟](https://s.weibo.com/weibo?q=%E5%85%B6%E5%AE%9E%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%89%E5%BE%88%E5%A4%9A%E6%83%85%E4%BE%A3%E6%A0%B9%E6%9C%AC%E4%B8%8D%E7%86%9F&t=31&band_rank=7&Refer=top)<br />
 8. [白敬亭是有牵手肌肉记忆吗](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E6%98%AF%E6%9C%89%E7%89%B5%E6%89%8B%E8%82%8C%E8%82%89%E8%AE%B0%E5%BF%86%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [seventeen官宣TMEA](https://s.weibo.com/weibo?q=%23seventeen%E5%AE%98%E5%AE%A3TMEA%23&t=31&band_rank=9&Refer=top)<br />
+9. [男子颈部插着切割机警车狂飙10分钟](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%A2%88%E9%83%A8%E6%8F%92%E7%9D%80%E5%88%87%E5%89%B2%E6%9C%BA%E8%AD%A6%E8%BD%A6%E7%8B%82%E9%A3%9910%E5%88%86%E9%92%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
