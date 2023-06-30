@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 21:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 21:25:01</h4></div>
 
 > 微博  
 
-1. [赵露思宋轶全都白干](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%AE%8B%E8%BD%B6%E5%85%A8%E9%83%BD%E7%99%BD%E5%B9%B2%23&t=31&band_rank=1&Refer=top)<br />
-2. [1700元的周杰伦演唱会门票直接烧了](https://s.weibo.com/weibo?q=%231700%E5%85%83%E7%9A%84%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E7%9B%B4%E6%8E%A5%E7%83%A7%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
+1. [1700元的周杰伦演唱会门票直接烧了](https://s.weibo.com/weibo?q=%231700%E5%85%83%E7%9A%84%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E7%9B%B4%E6%8E%A5%E7%83%A7%E4%BA%86%23&t=31&band_rank=1&Refer=top)<br />
+2. [赵露思宋轶全都白干](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%AE%8B%E8%BD%B6%E5%85%A8%E9%83%BD%E7%99%BD%E5%B9%B2%23&t=31&band_rank=2&Refer=top)<br />
 3. [7月一批新规实施](https://s.weibo.com/weibo?q=%237%E6%9C%88%E4%B8%80%E6%89%B9%E6%96%B0%E8%A7%84%E5%AE%9E%E6%96%BD%23&t=31&band_rank=3&Refer=top)<br />
 4. [奔跑吧延期播出](https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%E5%BB%B6%E6%9C%9F%E6%92%AD%E5%87%BA%23&t=31&band_rank=4&Refer=top)<br />
 5. [搂着扫楼](https://s.weibo.com/weibo?q=%E6%90%82%E7%9D%80%E6%89%AB%E6%A5%BC&t=31&band_rank=5&Refer=top)<br />
@@ -33,7 +33,7 @@
 5. [Kindle真的要拿来盖泡面了](https://www.baidu.com/s?wd=Kindle%E7%9C%9F%E7%9A%84%E8%A6%81%E6%8B%BF%E6%9D%A5%E7%9B%96%E6%B3%A1%E9%9D%A2%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [1700元周杰伦演唱会门票直接烧了](https://www.baidu.com/s?wd=1700%E5%85%83%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E7%9B%B4%E6%8E%A5%E7%83%A7%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [教师在医院楼顶水箱溺亡 官方回应](https://www.baidu.com/s?wd=%E6%95%99%E5%B8%88%E5%9C%A8%E5%8C%BB%E9%99%A2%E6%A5%BC%E9%A1%B6%E6%B0%B4%E7%AE%B1%E6%BA%BA%E4%BA%A1+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [牛犊被咬死现场留巨大爪痕](https://www.baidu.com/s?wd=%E7%89%9B%E7%8A%8A%E8%A2%AB%E5%92%AC%E6%AD%BB%E7%8E%B0%E5%9C%BA%E7%95%99%E5%B7%A8%E5%A4%A7%E7%88%AA%E7%97%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [消失的她票根隐藏款是陈思诚](https://www.baidu.com/s?wd=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%A0%B9%E9%9A%90%E8%97%8F%E6%AC%BE%E6%98%AF%E9%99%88%E6%80%9D%E8%AF%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [#奔跑吧延期播出#](https://www.baidu.com/s?wd=%23%E5%A5%94%E8%B7%91%E5%90%A7%E5%BB%B6%E6%9C%9F%E6%92%AD%E5%87%BA%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [Kindle真的要拿来盖泡面了](https://www.baidu.com/s?wd=Kindle%E7%9C%9F%E7%9A%84%E8%A6%81%E6%8B%BF%E6%9D%A5%E7%9B%96%E6%B3%A1%E9%9D%A2%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [1700元周杰伦演唱会门票直接烧了](https://www.baidu.com/s?wd=1700%E5%85%83%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E7%9B%B4%E6%8E%A5%E7%83%A7%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [教师在医院楼顶水箱溺亡 官方回应](https://www.baidu.com/s?wd=%E6%95%99%E5%B8%88%E5%9C%A8%E5%8C%BB%E9%99%A2%E6%A5%BC%E9%A1%B6%E6%B0%B4%E7%AE%B1%E6%BA%BA%E4%BA%A1+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [牛犊被咬死现场留巨大爪痕](https://www.baidu.com/s?wd=%E7%89%9B%E7%8A%8A%E8%A2%AB%E5%92%AC%E6%AD%BB%E7%8E%B0%E5%9C%BA%E7%95%99%E5%B7%A8%E5%A4%A7%E7%88%AA%E7%97%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [消失的她票根隐藏款是陈思诚](https://www.baidu.com/s?wd=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%A0%B9%E9%9A%90%E8%97%8F%E6%AC%BE%E6%98%AF%E9%99%88%E6%80%9D%E8%AF%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [#奔跑吧延期播出#](https://www.baidu.com/s?wd=%23%E5%A5%94%E8%B7%91%E5%90%A7%E5%BB%B6%E6%9C%9F%E6%92%AD%E5%87%BA%23&sa=fyb_news&rsv_dl=fyb_news)<br />
