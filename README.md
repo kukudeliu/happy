@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 00:03:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 00:04:01</h4></div>
 
 > 微博  
 
@@ -31,9 +31,9 @@
 3. [复读14年的高考钉子户考了594分](https://www.baidu.com/s?wd=%E5%A4%8D%E8%AF%BB14%E5%B9%B4%E7%9A%84%E9%AB%98%E8%80%83%E9%92%89%E5%AD%90%E6%88%B7%E8%80%83%E4%BA%86594%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [数字里看亮点](https://www.baidu.com/s?wd=%E6%95%B0%E5%AD%97%E9%87%8C%E7%9C%8B%E4%BA%AE%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [美国将重返教科文组织 中方投反对票](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%B0%86%E9%87%8D%E8%BF%94%E6%95%99%E7%A7%91%E6%96%87%E7%BB%84%E7%BB%87+%E4%B8%AD%E6%96%B9%E6%8A%95%E5%8F%8D%E5%AF%B9%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [曝陈建州曾偷拍大牙整理衣服](https://www.baidu.com/s?wd=%E6%9B%9D%E9%99%88%E5%BB%BA%E5%B7%9E%E6%9B%BE%E5%81%B7%E6%8B%8D%E5%A4%A7%E7%89%99%E6%95%B4%E7%90%86%E8%A1%A3%E6%9C%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [山东大学拟聘用2名硕士为寓管](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%A4%A7%E5%AD%A6%E6%8B%9F%E8%81%98%E7%94%A82%E5%90%8D%E7%A1%95%E5%A3%AB%E4%B8%BA%E5%AF%93%E7%AE%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [消失的她票根隐藏款是陈思诚](https://www.baidu.com/s?wd=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%A0%B9%E9%9A%90%E8%97%8F%E6%AC%BE%E6%98%AF%E9%99%88%E6%80%9D%E8%AF%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [中方：印尼需调查情侣命案作案动机](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%EF%BC%9A%E5%8D%B0%E5%B0%BC%E9%9C%80%E8%B0%83%E6%9F%A5%E6%83%85%E4%BE%A3%E5%91%BD%E6%A1%88%E4%BD%9C%E6%A1%88%E5%8A%A8%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [消失的她票根隐藏款是陈思诚](https://www.baidu.com/s?wd=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%A0%B9%E9%9A%90%E8%97%8F%E6%AC%BE%E6%98%AF%E9%99%88%E6%80%9D%E8%AF%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [山东大学拟聘用2名硕士为寓管](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%A4%A7%E5%AD%A6%E6%8B%9F%E8%81%98%E7%94%A82%E5%90%8D%E7%A1%95%E5%A3%AB%E4%B8%BA%E5%AF%93%E7%AE%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [邯郸3名小学生在河渠不幸溺亡](https://www.baidu.com/s?wd=%E9%82%AF%E9%83%B83%E5%90%8D%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%9C%A8%E6%B2%B3%E6%B8%A0%E4%B8%8D%E5%B9%B8%E6%BA%BA%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -43,7 +43,7 @@
 3. [复读14年的高考钉子户考了594分](https://www.baidu.com/s?wd=%E5%A4%8D%E8%AF%BB14%E5%B9%B4%E7%9A%84%E9%AB%98%E8%80%83%E9%92%89%E5%AD%90%E6%88%B7%E8%80%83%E4%BA%86594%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [数字里看亮点](https://www.baidu.com/s?wd=%E6%95%B0%E5%AD%97%E9%87%8C%E7%9C%8B%E4%BA%AE%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [美国将重返教科文组织 中方投反对票](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%B0%86%E9%87%8D%E8%BF%94%E6%95%99%E7%A7%91%E6%96%87%E7%BB%84%E7%BB%87+%E4%B8%AD%E6%96%B9%E6%8A%95%E5%8F%8D%E5%AF%B9%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [曝陈建州曾偷拍大牙整理衣服](https://www.baidu.com/s?wd=%E6%9B%9D%E9%99%88%E5%BB%BA%E5%B7%9E%E6%9B%BE%E5%81%B7%E6%8B%8D%E5%A4%A7%E7%89%99%E6%95%B4%E7%90%86%E8%A1%A3%E6%9C%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [山东大学拟聘用2名硕士为寓管](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%A4%A7%E5%AD%A6%E6%8B%9F%E8%81%98%E7%94%A82%E5%90%8D%E7%A1%95%E5%A3%AB%E4%B8%BA%E5%AF%93%E7%AE%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [消失的她票根隐藏款是陈思诚](https://www.baidu.com/s?wd=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%A0%B9%E9%9A%90%E8%97%8F%E6%AC%BE%E6%98%AF%E9%99%88%E6%80%9D%E8%AF%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [中方：印尼需调查情侣命案作案动机](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%EF%BC%9A%E5%8D%B0%E5%B0%BC%E9%9C%80%E8%B0%83%E6%9F%A5%E6%83%85%E4%BE%A3%E5%91%BD%E6%A1%88%E4%BD%9C%E6%A1%88%E5%8A%A8%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [消失的她票根隐藏款是陈思诚](https://www.baidu.com/s?wd=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%A0%B9%E9%9A%90%E8%97%8F%E6%AC%BE%E6%98%AF%E9%99%88%E6%80%9D%E8%AF%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [山东大学拟聘用2名硕士为寓管](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%A4%A7%E5%AD%A6%E6%8B%9F%E8%81%98%E7%94%A82%E5%90%8D%E7%A1%95%E5%A3%AB%E4%B8%BA%E5%AF%93%E7%AE%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [邯郸3名小学生在河渠不幸溺亡](https://www.baidu.com/s?wd=%E9%82%AF%E9%83%B83%E5%90%8D%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%9C%A8%E6%B2%B3%E6%B8%A0%E4%B8%8D%E5%B9%B8%E6%BA%BA%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
