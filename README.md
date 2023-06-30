@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 23:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 23:38:01</h4></div>
 
 > 微博  
 
@@ -32,8 +32,8 @@
 4. [数字里看亮点](https://www.baidu.com/s?wd=%E6%95%B0%E5%AD%97%E9%87%8C%E7%9C%8B%E4%BA%AE%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [美国将重返教科文组织 中方投反对票](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%B0%86%E9%87%8D%E8%BF%94%E6%95%99%E7%A7%91%E6%96%87%E7%BB%84%E7%BB%87+%E4%B8%AD%E6%96%B9%E6%8A%95%E5%8F%8D%E5%AF%B9%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [多名陌生男子闯入室内 住户坠楼身亡](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E9%99%8C%E7%94%9F%E7%94%B7%E5%AD%90%E9%97%AF%E5%85%A5%E5%AE%A4%E5%86%85+%E4%BD%8F%E6%88%B7%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [胡锡进称刺激跳楼者是社会的耻辱](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%E7%A7%B0%E5%88%BA%E6%BF%80%E8%B7%B3%E6%A5%BC%E8%80%85%E6%98%AF%E7%A4%BE%E4%BC%9A%E7%9A%84%E8%80%BB%E8%BE%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [媒体：不跳不是人如此起哄不是人话](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E4%B8%8D%E8%B7%B3%E4%B8%8D%E6%98%AF%E4%BA%BA%E5%A6%82%E6%AD%A4%E8%B5%B7%E5%93%84%E4%B8%8D%E6%98%AF%E4%BA%BA%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [媒体：不跳不是人如此起哄不是人话](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E4%B8%8D%E8%B7%B3%E4%B8%8D%E6%98%AF%E4%BA%BA%E5%A6%82%E6%AD%A4%E8%B5%B7%E5%93%84%E4%B8%8D%E6%98%AF%E4%BA%BA%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [山东大学拟聘用2名硕士为寓管](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%A4%A7%E5%AD%A6%E6%8B%9F%E8%81%98%E7%94%A82%E5%90%8D%E7%A1%95%E5%A3%AB%E4%B8%BA%E5%AF%93%E7%AE%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [比盐粒还小的手提包卖出46.2万](https://www.baidu.com/s?wd=%E6%AF%94%E7%9B%90%E7%B2%92%E8%BF%98%E5%B0%8F%E7%9A%84%E6%89%8B%E6%8F%90%E5%8C%85%E5%8D%96%E5%87%BA46.2%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -44,6 +44,6 @@
 4. [数字里看亮点](https://www.baidu.com/s?wd=%E6%95%B0%E5%AD%97%E9%87%8C%E7%9C%8B%E4%BA%AE%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [美国将重返教科文组织 中方投反对票](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%B0%86%E9%87%8D%E8%BF%94%E6%95%99%E7%A7%91%E6%96%87%E7%BB%84%E7%BB%87+%E4%B8%AD%E6%96%B9%E6%8A%95%E5%8F%8D%E5%AF%B9%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [多名陌生男子闯入室内 住户坠楼身亡](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E9%99%8C%E7%94%9F%E7%94%B7%E5%AD%90%E9%97%AF%E5%85%A5%E5%AE%A4%E5%86%85+%E4%BD%8F%E6%88%B7%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [胡锡进称刺激跳楼者是社会的耻辱](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%E7%A7%B0%E5%88%BA%E6%BF%80%E8%B7%B3%E6%A5%BC%E8%80%85%E6%98%AF%E7%A4%BE%E4%BC%9A%E7%9A%84%E8%80%BB%E8%BE%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [媒体：不跳不是人如此起哄不是人话](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E4%B8%8D%E8%B7%B3%E4%B8%8D%E6%98%AF%E4%BA%BA%E5%A6%82%E6%AD%A4%E8%B5%B7%E5%93%84%E4%B8%8D%E6%98%AF%E4%BA%BA%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [媒体：不跳不是人如此起哄不是人话](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E4%B8%8D%E8%B7%B3%E4%B8%8D%E6%98%AF%E4%BA%BA%E5%A6%82%E6%AD%A4%E8%B5%B7%E5%93%84%E4%B8%8D%E6%98%AF%E4%BA%BA%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [山东大学拟聘用2名硕士为寓管](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%A4%A7%E5%AD%A6%E6%8B%9F%E8%81%98%E7%94%A82%E5%90%8D%E7%A1%95%E5%A3%AB%E4%B8%BA%E5%AF%93%E7%AE%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [比盐粒还小的手提包卖出46.2万](https://www.baidu.com/s?wd=%E6%AF%94%E7%9B%90%E7%B2%92%E8%BF%98%E5%B0%8F%E7%9A%84%E6%89%8B%E6%8F%90%E5%8C%85%E5%8D%96%E5%87%BA46.2%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
