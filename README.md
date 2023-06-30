@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 09:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 10:00:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [卖菜大爷挣21元被罚款11万元](https://s.weibo.com/weibo?q=%23%E5%8D%96%E8%8F%9C%E5%A4%A7%E7%88%B7%E6%8C%A321%E5%85%83%E8%A2%AB%E7%BD%9A%E6%AC%BE11%E4%B8%87%E5%85%83%23&t=31&band_rank=4&Refer=top)<br />
 5. [Angelababy重现甩头发名场面](https://s.weibo.com/weibo?q=%23Angelababy%E9%87%8D%E7%8E%B0%E7%94%A9%E5%A4%B4%E5%8F%91%E5%90%8D%E5%9C%BA%E9%9D%A2%23&t=31&band_rank=5&Refer=top)<br />
 6. [你贫血的原因可能和咖啡有关](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%B4%AB%E8%A1%80%E7%9A%84%E5%8E%9F%E5%9B%A0%E5%8F%AF%E8%83%BD%E5%92%8C%E5%92%96%E5%95%A1%E6%9C%89%E5%85%B3%23&t=31&band_rank=6&Refer=top)<br />
-7. [杰森斯坦森回应爱称郭达](https://s.weibo.com/weibo?q=%23%E6%9D%B0%E6%A3%AE%E6%96%AF%E5%9D%A6%E6%A3%AE%E5%9B%9E%E5%BA%94%E7%88%B1%E7%A7%B0%E9%83%AD%E8%BE%BE%23&t=31&band_rank=7&Refer=top)<br />
-8. [怎么没人写硕博士的偶像剧](https://s.weibo.com/weibo?q=%23%E6%80%8E%E4%B9%88%E6%B2%A1%E4%BA%BA%E5%86%99%E7%A1%95%E5%8D%9A%E5%A3%AB%E7%9A%84%E5%81%B6%E5%83%8F%E5%89%A7%23&t=31&band_rank=8&Refer=top)<br />
+7. [怎么没人写硕博士的偶像剧](https://s.weibo.com/weibo?q=%23%E6%80%8E%E4%B9%88%E6%B2%A1%E4%BA%BA%E5%86%99%E7%A1%95%E5%8D%9A%E5%A3%AB%E7%9A%84%E5%81%B6%E5%83%8F%E5%89%A7%23&t=31&band_rank=7&Refer=top)<br />
+8. [小伙在没信号的原始森林隐居4年](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E5%9C%A8%E6%B2%A1%E4%BF%A1%E5%8F%B7%E7%9A%84%E5%8E%9F%E5%A7%8B%E6%A3%AE%E6%9E%97%E9%9A%90%E5%B1%854%E5%B9%B4%23&t=31&band_rank=8&Refer=top)<br />
 9. [LWX](https://s.weibo.com/weibo?q=LWX&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
