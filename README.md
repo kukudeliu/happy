@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 06:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 06:30:01</h4></div>
 
 > 微博  
 
 1. [白敬亭宋轶是不是忘记官宣了](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6%E6%98%AF%E4%B8%8D%E6%98%AF%E5%BF%98%E8%AE%B0%E5%AE%98%E5%AE%A3%E4%BA%86%23&t=31&band_rank=1&Refer=top)<br />
-2. [章泽天回应拒绝张艺谋演戏](https://s.weibo.com/weibo?q=%23%E7%AB%A0%E6%B3%BD%E5%A4%A9%E5%9B%9E%E5%BA%94%E6%8B%92%E7%BB%9D%E5%BC%A0%E8%89%BA%E8%B0%8B%E6%BC%94%E6%88%8F%23&t=31&band_rank=2&Refer=top)<br />
+2. [越南一位老人50年没睡觉](https://s.weibo.com/weibo?q=%E8%B6%8A%E5%8D%97%E4%B8%80%E4%BD%8D%E8%80%81%E4%BA%BA50%E5%B9%B4%E6%B2%A1%E7%9D%A1%E8%A7%89&t=31&band_rank=2&Refer=top)<br />
 3. [中国制造在土耳其火了](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E5%9C%A8%E5%9C%9F%E8%80%B3%E5%85%B6%E7%81%AB%E4%BA%86%23&t=31&band_rank=3&Refer=top)<br />
-4. [越南一位老人50年没睡觉](https://s.weibo.com/weibo?q=%E8%B6%8A%E5%8D%97%E4%B8%80%E4%BD%8D%E8%80%81%E4%BA%BA50%E5%B9%B4%E6%B2%A1%E7%9D%A1%E8%A7%89&t=31&band_rank=4&Refer=top)<br />
+4. [章泽天回应拒绝张艺谋演戏](https://s.weibo.com/weibo?q=%23%E7%AB%A0%E6%B3%BD%E5%A4%A9%E5%9B%9E%E5%BA%94%E6%8B%92%E7%BB%9D%E5%BC%A0%E8%89%BA%E8%B0%8B%E6%BC%94%E6%88%8F%23&t=31&band_rank=4&Refer=top)<br />
 5. [爱奇艺工作人员 白敬亭好好对宋轶](https://s.weibo.com/weibo?q=%E7%88%B1%E5%A5%87%E8%89%BA%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%20%E7%99%BD%E6%95%AC%E4%BA%AD%E5%A5%BD%E5%A5%BD%E5%AF%B9%E5%AE%8B%E8%BD%B6&t=31&band_rank=5&Refer=top)<br />
 6. [山东大学拟聘用2名硕士为公寓管理员](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E5%A4%A7%E5%AD%A6%E6%8B%9F%E8%81%98%E7%94%A82%E5%90%8D%E7%A1%95%E5%A3%AB%E4%B8%BA%E5%85%AC%E5%AF%93%E7%AE%A1%E7%90%86%E5%91%98%23&t=31&band_rank=6&Refer=top)<br />
 7. [其实世界上有很多情侣根本不熟](https://s.weibo.com/weibo?q=%E5%85%B6%E5%AE%9E%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%89%E5%BE%88%E5%A4%9A%E6%83%85%E4%BE%A3%E6%A0%B9%E6%9C%AC%E4%B8%8D%E7%86%9F&t=31&band_rank=7&Refer=top)<br />
