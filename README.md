@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 03:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 03:18:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [大数据看这个6月北方有多热](https://www.baidu.com/s?wd=%E5%A4%A7%E6%95%B0%E6%8D%AE%E7%9C%8B%E8%BF%99%E4%B8%AA6%E6%9C%88%E5%8C%97%E6%96%B9%E6%9C%89%E5%A4%9A%E7%83%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [比盐粒还小的手提包卖出46.2万](https://www.baidu.com/s?wd=%E6%AF%94%E7%9B%90%E7%B2%92%E8%BF%98%E5%B0%8F%E7%9A%84%E6%89%8B%E6%8F%90%E5%8C%85%E5%8D%96%E5%87%BA46.2%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [1700元周杰伦演唱会门票直接烧了](https://www.baidu.com/s?wd=1700%E5%85%83%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E7%9B%B4%E6%8E%A5%E7%83%A7%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [范玮琪演唱会门票遭抵制](https://www.baidu.com/s?wd=%E8%8C%83%E7%8E%AE%E7%90%AA%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E9%81%AD%E6%8A%B5%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [多名陌生男子闯入室内 住户坠楼身亡](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E9%99%8C%E7%94%9F%E7%94%B7%E5%AD%90%E9%97%AF%E5%85%A5%E5%AE%A4%E5%86%85+%E4%BD%8F%E6%88%B7%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [大数据看这个6月北方有多热](https://www.baidu.com/s?wd=%E5%A4%A7%E6%95%B0%E6%8D%AE%E7%9C%8B%E8%BF%99%E4%B8%AA6%E6%9C%88%E5%8C%97%E6%96%B9%E6%9C%89%E5%A4%9A%E7%83%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [比盐粒还小的手提包卖出46.2万](https://www.baidu.com/s?wd=%E6%AF%94%E7%9B%90%E7%B2%92%E8%BF%98%E5%B0%8F%E7%9A%84%E6%89%8B%E6%8F%90%E5%8C%85%E5%8D%96%E5%87%BA46.2%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [1700元周杰伦演唱会门票直接烧了](https://www.baidu.com/s?wd=1700%E5%85%83%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E7%9B%B4%E6%8E%A5%E7%83%A7%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [范玮琪演唱会门票遭抵制](https://www.baidu.com/s?wd=%E8%8C%83%E7%8E%AE%E7%90%AA%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E9%81%AD%E6%8A%B5%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [多名陌生男子闯入室内 住户坠楼身亡](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E9%99%8C%E7%94%9F%E7%94%B7%E5%AD%90%E9%97%AF%E5%85%A5%E5%AE%A4%E5%86%85+%E4%BD%8F%E6%88%B7%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
