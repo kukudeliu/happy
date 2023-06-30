@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 11:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 11:05:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [卖菜大爷挣21元被罚款11万元](https://www.baidu.com/s?wd=%E5%8D%96%E8%8F%9C%E5%A4%A7%E7%88%B7%E6%8C%A321%E5%85%83%E8%A2%AB%E7%BD%9A%E6%AC%BE11%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [专家称中国不存在房贷压力大问题](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E4%B8%AD%E5%9B%BD%E4%B8%8D%E5%AD%98%E5%9C%A8%E6%88%BF%E8%B4%B7%E5%8E%8B%E5%8A%9B%E5%A4%A7%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [小伙在没信号的原始森林隐居4年](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E5%9C%A8%E6%B2%A1%E4%BF%A1%E5%8F%B7%E7%9A%84%E5%8E%9F%E5%A7%8B%E6%A3%AE%E6%9E%97%E9%9A%90%E5%B1%854%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [官方称学生被关教室8天未上课不实](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E7%A7%B0%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%85%B3%E6%95%99%E5%AE%A48%E5%A4%A9%E6%9C%AA%E4%B8%8A%E8%AF%BE%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [医院诊疗过错致3岁女孩死亡判赔78万](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E8%AF%8A%E7%96%97%E8%BF%87%E9%94%99%E8%87%B43%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%AD%BB%E4%BA%A1%E5%88%A4%E8%B5%9478%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [卖菜大爷挣21元被罚款11万元](https://www.baidu.com/s?wd=%E5%8D%96%E8%8F%9C%E5%A4%A7%E7%88%B7%E6%8C%A321%E5%85%83%E8%A2%AB%E7%BD%9A%E6%AC%BE11%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [专家称中国不存在房贷压力大问题](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E4%B8%AD%E5%9B%BD%E4%B8%8D%E5%AD%98%E5%9C%A8%E6%88%BF%E8%B4%B7%E5%8E%8B%E5%8A%9B%E5%A4%A7%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [小伙在没信号的原始森林隐居4年](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E5%9C%A8%E6%B2%A1%E4%BF%A1%E5%8F%B7%E7%9A%84%E5%8E%9F%E5%A7%8B%E6%A3%AE%E6%9E%97%E9%9A%90%E5%B1%854%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [官方称学生被关教室8天未上课不实](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E7%A7%B0%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%85%B3%E6%95%99%E5%AE%A48%E5%A4%A9%E6%9C%AA%E4%B8%8A%E8%AF%BE%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [医院诊疗过错致3岁女孩死亡判赔78万](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E8%AF%8A%E7%96%97%E8%BF%87%E9%94%99%E8%87%B43%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%AD%BB%E4%BA%A1%E5%88%A4%E8%B5%9478%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
