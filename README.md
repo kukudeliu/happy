@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 14:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 14:52:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [向佐回应穿搭像卖鱼的](https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%E5%9B%9E%E5%BA%94%E7%A9%BF%E6%90%AD%E5%83%8F%E5%8D%96%E9%B1%BC%E7%9A%84%23&t=31&band_rank=6&Refer=top)<br />
 7. [萧敬腾求婚成功全国都在随礼](https://s.weibo.com/weibo?q=%E8%90%A7%E6%95%AC%E8%85%BE%E6%B1%82%E5%A9%9A%E6%88%90%E5%8A%9F%E5%85%A8%E5%9B%BD%E9%83%BD%E5%9C%A8%E9%9A%8F%E7%A4%BC&t=31&band_rank=7&Refer=top)<br />
 8. [LWX](https://s.weibo.com/weibo?q=LWX&t=31&band_rank=8&Refer=top)<br />
-9. [怎么没人写硕博士的偶像剧](https://s.weibo.com/weibo?q=%23%E6%80%8E%E4%B9%88%E6%B2%A1%E4%BA%BA%E5%86%99%E7%A1%95%E5%8D%9A%E5%A3%AB%E7%9A%84%E5%81%B6%E5%83%8F%E5%89%A7%23&t=31&band_rank=9&Refer=top)<br />
+9. [胖东来8页报告调查顾客与员工争执](https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A58%E9%A1%B5%E6%8A%A5%E5%91%8A%E8%B0%83%E6%9F%A5%E9%A1%BE%E5%AE%A2%E4%B8%8E%E5%91%98%E5%B7%A5%E4%BA%89%E6%89%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
