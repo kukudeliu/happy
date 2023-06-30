@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 07:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 07:33:01</h4></div>
 
 > 微博  
 
@@ -20,8 +20,8 @@
 4. [如何看待山河四省学子在网上自建山河大学？](https://www.zhihu.com/question/609297089)<br />
 5. [乌克兰正讨论禁止现金支付，或成首个废除现金国家，号称可减少至少 95% 腐败，这一举措是否合理？](https://www.zhihu.com/question/609605756)<br />
 6. [「网红超市」胖东来 8 页报告调查「顾客与员工争执」，如何看待胖东来的处理结果，你是否满意？](https://www.zhihu.com/question/609604339)<br />
-7. [高考报志愿花 5000 块值吗？](https://www.zhihu.com/question/603639824)<br />
-8. [我打算隐居终南山，用毕生精力探索宇宙人生的真相，我应该带上哪些书？](https://www.zhihu.com/question/604728024)<br />
+7. [我打算隐居终南山，用毕生精力探索宇宙人生的真相，我应该带上哪些书？](https://www.zhihu.com/question/604728024)<br />
+8. [高考报志愿花 5000 块值吗？](https://www.zhihu.com/question/603639824)<br />
 9. []()<br />
 
 > 百度  
