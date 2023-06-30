@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 15:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 15:38:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [《逆水寒》手游公测开启，你的游戏体验如何？](https://www.zhihu.com/question/609557879)<br />
 7. [国家统计局发布数据，6 月 PMI 为 49.0%，比上月上升 0.2 个百分点，这一数据说明了什么？](https://www.zhihu.com/question/609549350)<br />
 8. [新能源车免征购置税四度延期，这一次跟此前有什么差异？现在买车合适吗？](https://www.zhihu.com/question/607436719)<br />
-9. [拥有一个顶级域名意味着什么？](https://www.zhihu.com/question/20091009)<br />
+9. [AT 变速箱这么好，越来越多的车却用 CVT 和双离合，这是为什么？](https://www.zhihu.com/question/602026912)<br />
 
 > 百度  
 
