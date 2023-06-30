@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 14:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 14:18:01</h4></div>
 
 > 微博  
 
@@ -9,20 +9,20 @@
 5. [萧敬腾求婚成功全国都在随礼](https://s.weibo.com/weibo?q=%E8%90%A7%E6%95%AC%E8%85%BE%E6%B1%82%E5%A9%9A%E6%88%90%E5%8A%9F%E5%85%A8%E5%9B%BD%E9%83%BD%E5%9C%A8%E9%9A%8F%E7%A4%BC&t=31&band_rank=5&Refer=top)<br />
 6. [中国共产党党员总数为9804.1万名](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E5%85%9A%E5%91%98%E6%80%BB%E6%95%B0%E4%B8%BA9804.1%E4%B8%87%E5%90%8D%23&t=31&band_rank=6&Refer=top)<br />
 7. [杨雪杨颖暮色心约演母女](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E9%9B%AA%E6%9D%A8%E9%A2%96%E6%9A%AE%E8%89%B2%E5%BF%83%E7%BA%A6%E6%BC%94%E6%AF%8D%E5%A5%B3%23&t=31&band_rank=7&Refer=top)<br />
-8. [怎么没人写硕博士的偶像剧](https://s.weibo.com/weibo?q=%23%E6%80%8E%E4%B9%88%E6%B2%A1%E4%BA%BA%E5%86%99%E7%A1%95%E5%8D%9A%E5%A3%AB%E7%9A%84%E5%81%B6%E5%83%8F%E5%89%A7%23&t=31&band_rank=8&Refer=top)<br />
-9. [Ella终于第一了](https://s.weibo.com/weibo?q=%23Ella%E7%BB%88%E4%BA%8E%E7%AC%AC%E4%B8%80%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+8. [Ella终于第一了](https://s.weibo.com/weibo?q=%23Ella%E7%BB%88%E4%BA%8E%E7%AC%AC%E4%B8%80%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [怎么没人写硕博士的偶像剧](https://s.weibo.com/weibo?q=%23%E6%80%8E%E4%B9%88%E6%B2%A1%E4%BA%BA%E5%86%99%E7%A1%95%E5%8D%9A%E5%A3%AB%E7%9A%84%E5%81%B6%E5%83%8F%E5%89%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [上海学区房最强阵地失守，两年内从近 15 万跌到 10 万，曾经一周涨 39.4%，哪些信息值得关注？](https://www.zhihu.com/question/609355451)<br />
 2. [世卫组织研究机构将宣布甜味剂阿斯巴甜「可能致癌」，如何看待此事？「无糖」饮料将何去何从？](https://www.zhihu.com/question/609417354)<br />
 3. [为什么感觉这几十年给孩子起的名字越来越幼稚?](https://www.zhihu.com/question/608128511)<br />
-4. [网友在北方发现大蟑螂身影，如何看待此事？为什么北方大蟑螂越来越多？](https://www.zhihu.com/question/609451038)<br />
-5. [恶魔给你 1 个亿，但接下来你的所有支出都变为 5 倍 (见详细描述)，你会答应恶魔的契约吗？](https://www.zhihu.com/question/608441800)<br />
+4. [恶魔给你 1 个亿，但接下来你的所有支出都变为 5 倍 (见详细描述)，你会答应恶魔的契约吗？](https://www.zhihu.com/question/608441800)<br />
+5. [网友在北方发现大蟑螂身影，如何看待此事？为什么北方大蟑螂越来越多？](https://www.zhihu.com/question/609451038)<br />
 6. [央行调查显示，未来三个月 16.2%居民打算购房，比例大幅回落，哪些信息值得关注？](https://www.zhihu.com/question/609413648)<br />
 7. [新华社发文分析贵州「村超」，「一场乡村体育、民族文化的嘉年华」，你认为村超能带给中国足球什么启示呢？](https://www.zhihu.com/question/609564348)<br />
 8. [网传上海仁济医院医生嫖娼并组织卖淫，警方通报「系该院实习生造谣」，如何看待这位实习生的做法？](https://www.zhihu.com/question/609539743)<br />
-9. [哈登决定执行 3560 万美元球员选项，并与 76 人探索交易方案，如何评价他的选择和未来？](https://www.zhihu.com/question/609535141)<br />
+9. [国家统计局发布数据，6 月 PMI 为 49.0%，比上月上升 0.2 个百分点，这一数据说明了什么？](https://www.zhihu.com/question/609549350)<br />
 
 > 百度  
 
