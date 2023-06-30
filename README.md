@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 02:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 02:53:02</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. []()<br />
 7. [「网红超市」胖东来 8 页报告调查「顾客与员工争执」，如何看待胖东来的处理结果，你是否满意？](https://www.zhihu.com/question/609604339)<br />
 8. [如何评价电视剧《追光的日子》？](https://www.zhihu.com/question/608753108)<br />
-9. [高温环境下怎么样预防家中宠物中暑？](https://www.zhihu.com/question/545306427)<br />
+9. [中国超级计算机为什么不能为 AI 提供算力？](https://www.zhihu.com/question/609008408)<br />
 
 > 百度  
 
