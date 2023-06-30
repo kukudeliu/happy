@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 10:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 10:22:01</h4></div>
 
 > 微博  
 
@@ -31,10 +31,10 @@
 3. [多方回应“俄空天军总司令被捕”](https://www.baidu.com/s?wd=%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E4%BF%84%E7%A9%BA%E5%A4%A9%E5%86%9B%E6%80%BB%E5%8F%B8%E4%BB%A4%E8%A2%AB%E6%8D%95%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [点亮科学之光](https://www.baidu.com/s?wd=%E7%82%B9%E4%BA%AE%E7%A7%91%E5%AD%A6%E4%B9%8B%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [实习生造谣仁济医院组织卖淫被罚](https://www.baidu.com/s?wd=%E5%AE%9E%E4%B9%A0%E7%94%9F%E9%80%A0%E8%B0%A3%E4%BB%81%E6%B5%8E%E5%8C%BB%E9%99%A2%E7%BB%84%E7%BB%87%E5%8D%96%E6%B7%AB%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [邻居讲述山西男子杀妻灭子案](https://www.baidu.com/s?wd=%E9%82%BB%E5%B1%85%E8%AE%B2%E8%BF%B0%E5%B1%B1%E8%A5%BF%E7%94%B7%E5%AD%90%E6%9D%80%E5%A6%BB%E7%81%AD%E5%AD%90%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [4女子酒吧遭3男子骚扰双方大打出手](https://www.baidu.com/s?wd=4%E5%A5%B3%E5%AD%90%E9%85%92%E5%90%A7%E9%81%AD3%E7%94%B7%E5%AD%90%E9%AA%9A%E6%89%B0%E5%8F%8C%E6%96%B9%E5%A4%A7%E6%89%93%E5%87%BA%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [国家地理杂志明年起在美报刊亭停售](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E5%9C%B0%E7%90%86%E6%9D%82%E5%BF%97%E6%98%8E%E5%B9%B4%E8%B5%B7%E5%9C%A8%E7%BE%8E%E6%8A%A5%E5%88%8A%E4%BA%AD%E5%81%9C%E5%94%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [国际饮料协会回应阿斯巴甜争议](https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E9%A5%AE%E6%96%99%E5%8D%8F%E4%BC%9A%E5%9B%9E%E5%BA%94%E9%98%BF%E6%96%AF%E5%B7%B4%E7%94%9C%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [4女子酒吧遭3男子骚扰双方大打出手](https://www.baidu.com/s?wd=4%E5%A5%B3%E5%AD%90%E9%85%92%E5%90%A7%E9%81%AD3%E7%94%B7%E5%AD%90%E9%AA%9A%E6%89%B0%E5%8F%8C%E6%96%B9%E5%A4%A7%E6%89%93%E5%87%BA%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [国家地理杂志明年起在美报刊亭停售](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E5%9C%B0%E7%90%86%E6%9D%82%E5%BF%97%E6%98%8E%E5%B9%B4%E8%B5%B7%E5%9C%A8%E7%BE%8E%E6%8A%A5%E5%88%8A%E4%BA%AD%E5%81%9C%E5%94%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [邻居讲述山西男子杀妻灭子案](https://www.baidu.com/s?wd=%E9%82%BB%E5%B1%85%E8%AE%B2%E8%BF%B0%E5%B1%B1%E8%A5%BF%E7%94%B7%E5%AD%90%E6%9D%80%E5%A6%BB%E7%81%AD%E5%AD%90%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [公募喊话胡锡进：别炒股了 快买基金](https://www.baidu.com/s?wd=%E5%85%AC%E5%8B%9F%E5%96%8A%E8%AF%9D%E8%83%A1%E9%94%A1%E8%BF%9B%EF%BC%9A%E5%88%AB%E7%82%92%E8%82%A1%E4%BA%86+%E5%BF%AB%E4%B9%B0%E5%9F%BA%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [多方回应“俄空天军总司令被捕”](https://www.baidu.com/s?wd=%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E4%BF%84%E7%A9%BA%E5%A4%A9%E5%86%9B%E6%80%BB%E5%8F%B8%E4%BB%A4%E8%A2%AB%E6%8D%95%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [点亮科学之光](https://www.baidu.com/s?wd=%E7%82%B9%E4%BA%AE%E7%A7%91%E5%AD%A6%E4%B9%8B%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [实习生造谣仁济医院组织卖淫被罚](https://www.baidu.com/s?wd=%E5%AE%9E%E4%B9%A0%E7%94%9F%E9%80%A0%E8%B0%A3%E4%BB%81%E6%B5%8E%E5%8C%BB%E9%99%A2%E7%BB%84%E7%BB%87%E5%8D%96%E6%B7%AB%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [邻居讲述山西男子杀妻灭子案](https://www.baidu.com/s?wd=%E9%82%BB%E5%B1%85%E8%AE%B2%E8%BF%B0%E5%B1%B1%E8%A5%BF%E7%94%B7%E5%AD%90%E6%9D%80%E5%A6%BB%E7%81%AD%E5%AD%90%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [4女子酒吧遭3男子骚扰双方大打出手](https://www.baidu.com/s?wd=4%E5%A5%B3%E5%AD%90%E9%85%92%E5%90%A7%E9%81%AD3%E7%94%B7%E5%AD%90%E9%AA%9A%E6%89%B0%E5%8F%8C%E6%96%B9%E5%A4%A7%E6%89%93%E5%87%BA%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [国家地理杂志明年起在美报刊亭停售](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E5%9C%B0%E7%90%86%E6%9D%82%E5%BF%97%E6%98%8E%E5%B9%B4%E8%B5%B7%E5%9C%A8%E7%BE%8E%E6%8A%A5%E5%88%8A%E4%BA%AD%E5%81%9C%E5%94%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [国际饮料协会回应阿斯巴甜争议](https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E9%A5%AE%E6%96%99%E5%8D%8F%E4%BC%9A%E5%9B%9E%E5%BA%94%E9%98%BF%E6%96%AF%E5%B7%B4%E7%94%9C%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [4女子酒吧遭3男子骚扰双方大打出手](https://www.baidu.com/s?wd=4%E5%A5%B3%E5%AD%90%E9%85%92%E5%90%A7%E9%81%AD3%E7%94%B7%E5%AD%90%E9%AA%9A%E6%89%B0%E5%8F%8C%E6%96%B9%E5%A4%A7%E6%89%93%E5%87%BA%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [国家地理杂志明年起在美报刊亭停售](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E5%9C%B0%E7%90%86%E6%9D%82%E5%BF%97%E6%98%8E%E5%B9%B4%E8%B5%B7%E5%9C%A8%E7%BE%8E%E6%8A%A5%E5%88%8A%E4%BA%AD%E5%81%9C%E5%94%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [邻居讲述山西男子杀妻灭子案](https://www.baidu.com/s?wd=%E9%82%BB%E5%B1%85%E8%AE%B2%E8%BF%B0%E5%B1%B1%E8%A5%BF%E7%94%B7%E5%AD%90%E6%9D%80%E5%A6%BB%E7%81%AD%E5%AD%90%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [公募喊话胡锡进：别炒股了 快买基金](https://www.baidu.com/s?wd=%E5%85%AC%E5%8B%9F%E5%96%8A%E8%AF%9D%E8%83%A1%E9%94%A1%E8%BF%9B%EF%BC%9A%E5%88%AB%E7%82%92%E8%82%A1%E4%BA%86+%E5%BF%AB%E4%B9%B0%E5%9F%BA%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
