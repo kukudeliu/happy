@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 02:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 02:09:02</h4></div>
 
 > 微博  
 
@@ -31,10 +31,10 @@
 3. [复读14年的高考钉子户考了594分](https://www.baidu.com/s?wd=%E5%A4%8D%E8%AF%BB14%E5%B9%B4%E7%9A%84%E9%AB%98%E8%80%83%E9%92%89%E5%AD%90%E6%88%B7%E8%80%83%E4%BA%86594%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [数字里看亮点](https://www.baidu.com/s?wd=%E6%95%B0%E5%AD%97%E9%87%8C%E7%9C%8B%E4%BA%AE%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [美国将重返教科文组织 中方投反对票](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%B0%86%E9%87%8D%E8%BF%94%E6%95%99%E7%A7%91%E6%96%87%E7%BB%84%E7%BB%87+%E4%B8%AD%E6%96%B9%E6%8A%95%E5%8F%8D%E5%AF%B9%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [媒体：不跳不是人如此起哄不是人话](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E4%B8%8D%E8%B7%B3%E4%B8%8D%E6%98%AF%E4%BA%BA%E5%A6%82%E6%AD%A4%E8%B5%B7%E5%93%84%E4%B8%8D%E6%98%AF%E4%BA%BA%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [撤销福岛食品进口限制?欧盟回应](https://www.baidu.com/s?wd=%E6%92%A4%E9%94%80%E7%A6%8F%E5%B2%9B%E9%A3%9F%E5%93%81%E8%BF%9B%E5%8F%A3%E9%99%90%E5%88%B6%3F%E6%AC%A7%E7%9B%9F%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [1700元周杰伦演唱会门票直接烧了](https://www.baidu.com/s?wd=1700%E5%85%83%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E7%9B%B4%E6%8E%A5%E7%83%A7%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [大棕熊“下班”咣咣砸门急得直跳脚](https://www.baidu.com/s?wd=%E5%A4%A7%E6%A3%95%E7%86%8A%E2%80%9C%E4%B8%8B%E7%8F%AD%E2%80%9D%E5%92%A3%E5%92%A3%E7%A0%B8%E9%97%A8%E6%80%A5%E5%BE%97%E7%9B%B4%E8%B7%B3%E8%84%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [比盐粒还小的手提包卖出46.2万](https://www.baidu.com/s?wd=%E6%AF%94%E7%9B%90%E7%B2%92%E8%BF%98%E5%B0%8F%E7%9A%84%E6%89%8B%E6%8F%90%E5%8C%85%E5%8D%96%E5%87%BA46.2%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [目击者谈路人教唆男子轻生经过](https://www.baidu.com/s?wd=%E7%9B%AE%E5%87%BB%E8%80%85%E8%B0%88%E8%B7%AF%E4%BA%BA%E6%95%99%E5%94%86%E7%94%B7%E5%AD%90%E8%BD%BB%E7%94%9F%E7%BB%8F%E8%BF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [大棕熊“下班”咣咣砸门急得直跳脚](https://www.baidu.com/s?wd=%E5%A4%A7%E6%A3%95%E7%86%8A%E2%80%9C%E4%B8%8B%E7%8F%AD%E2%80%9D%E5%92%A3%E5%92%A3%E7%A0%B8%E9%97%A8%E6%80%A5%E5%BE%97%E7%9B%B4%E8%B7%B3%E8%84%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [复读14年的高考钉子户考了594分](https://www.baidu.com/s?wd=%E5%A4%8D%E8%AF%BB14%E5%B9%B4%E7%9A%84%E9%AB%98%E8%80%83%E9%92%89%E5%AD%90%E6%88%B7%E8%80%83%E4%BA%86594%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [数字里看亮点](https://www.baidu.com/s?wd=%E6%95%B0%E5%AD%97%E9%87%8C%E7%9C%8B%E4%BA%AE%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [美国将重返教科文组织 中方投反对票](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%B0%86%E9%87%8D%E8%BF%94%E6%95%99%E7%A7%91%E6%96%87%E7%BB%84%E7%BB%87+%E4%B8%AD%E6%96%B9%E6%8A%95%E5%8F%8D%E5%AF%B9%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [媒体：不跳不是人如此起哄不是人话](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E4%B8%8D%E8%B7%B3%E4%B8%8D%E6%98%AF%E4%BA%BA%E5%A6%82%E6%AD%A4%E8%B5%B7%E5%93%84%E4%B8%8D%E6%98%AF%E4%BA%BA%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [撤销福岛食品进口限制?欧盟回应](https://www.baidu.com/s?wd=%E6%92%A4%E9%94%80%E7%A6%8F%E5%B2%9B%E9%A3%9F%E5%93%81%E8%BF%9B%E5%8F%A3%E9%99%90%E5%88%B6%3F%E6%AC%A7%E7%9B%9F%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [1700元周杰伦演唱会门票直接烧了](https://www.baidu.com/s?wd=1700%E5%85%83%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E7%9B%B4%E6%8E%A5%E7%83%A7%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [大棕熊“下班”咣咣砸门急得直跳脚](https://www.baidu.com/s?wd=%E5%A4%A7%E6%A3%95%E7%86%8A%E2%80%9C%E4%B8%8B%E7%8F%AD%E2%80%9D%E5%92%A3%E5%92%A3%E7%A0%B8%E9%97%A8%E6%80%A5%E5%BE%97%E7%9B%B4%E8%B7%B3%E8%84%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [比盐粒还小的手提包卖出46.2万](https://www.baidu.com/s?wd=%E6%AF%94%E7%9B%90%E7%B2%92%E8%BF%98%E5%B0%8F%E7%9A%84%E6%89%8B%E6%8F%90%E5%8C%85%E5%8D%96%E5%87%BA46.2%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [目击者谈路人教唆男子轻生经过](https://www.baidu.com/s?wd=%E7%9B%AE%E5%87%BB%E8%80%85%E8%B0%88%E8%B7%AF%E4%BA%BA%E6%95%99%E5%94%86%E7%94%B7%E5%AD%90%E8%BD%BB%E7%94%9F%E7%BB%8F%E8%BF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [大棕熊“下班”咣咣砸门急得直跳脚](https://www.baidu.com/s?wd=%E5%A4%A7%E6%A3%95%E7%86%8A%E2%80%9C%E4%B8%8B%E7%8F%AD%E2%80%9D%E5%92%A3%E5%92%A3%E7%A0%B8%E9%97%A8%E6%80%A5%E5%BE%97%E7%9B%B4%E8%B7%B3%E8%84%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
