@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 04:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 04:19:01</h4></div>
 
 > 微博  
 
@@ -32,9 +32,9 @@
 4. [数字里看亮点](https://www.baidu.com/s?wd=%E6%95%B0%E5%AD%97%E9%87%8C%E7%9C%8B%E4%BA%AE%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [美国将重返教科文组织 中方投反对票](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%B0%86%E9%87%8D%E8%BF%94%E6%95%99%E7%A7%91%E6%96%87%E7%BB%84%E7%BB%87+%E4%B8%AD%E6%96%B9%E6%8A%95%E5%8F%8D%E5%AF%B9%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [教师在医院楼顶水箱溺亡 官方回应](https://www.baidu.com/s?wd=%E6%95%99%E5%B8%88%E5%9C%A8%E5%8C%BB%E9%99%A2%E6%A5%BC%E9%A1%B6%E6%B0%B4%E7%AE%B1%E6%BA%BA%E4%BA%A1+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [深圳一地回应鼓励49岁以下再生育](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%9C%B0%E5%9B%9E%E5%BA%94%E9%BC%93%E5%8A%B149%E5%B2%81%E4%BB%A5%E4%B8%8B%E5%86%8D%E7%94%9F%E8%82%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女高材生制售救猫药获刑15年](https://www.baidu.com/s?wd=%E5%A5%B3%E9%AB%98%E6%9D%90%E7%94%9F%E5%88%B6%E5%94%AE%E6%95%91%E7%8C%AB%E8%8D%AF%E8%8E%B7%E5%88%9115%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [秋瓷炫被淘汰全场大哭](https://www.baidu.com/s?wd=%E7%A7%8B%E7%93%B7%E7%82%AB%E8%A2%AB%E6%B7%98%E6%B1%B0%E5%85%A8%E5%9C%BA%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [5月份全国共销售彩票500.21亿元](https://www.baidu.com/s?wd=5%E6%9C%88%E4%BB%BD%E5%85%A8%E5%9B%BD%E5%85%B1%E9%94%80%E5%94%AE%E5%BD%A9%E7%A5%A8500.21%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [深圳一地回应鼓励49岁以下再生育](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%9C%B0%E5%9B%9E%E5%BA%94%E9%BC%93%E5%8A%B149%E5%B2%81%E4%BB%A5%E4%B8%8B%E5%86%8D%E7%94%9F%E8%82%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女高材生制售救猫药获刑15年](https://www.baidu.com/s?wd=%E5%A5%B3%E9%AB%98%E6%9D%90%E7%94%9F%E5%88%B6%E5%94%AE%E6%95%91%E7%8C%AB%E8%8D%AF%E8%8E%B7%E5%88%9115%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [数字里看亮点](https://www.baidu.com/s?wd=%E6%95%B0%E5%AD%97%E9%87%8C%E7%9C%8B%E4%BA%AE%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [美国将重返教科文组织 中方投反对票](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%B0%86%E9%87%8D%E8%BF%94%E6%95%99%E7%A7%91%E6%96%87%E7%BB%84%E7%BB%87+%E4%B8%AD%E6%96%B9%E6%8A%95%E5%8F%8D%E5%AF%B9%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [教师在医院楼顶水箱溺亡 官方回应](https://www.baidu.com/s?wd=%E6%95%99%E5%B8%88%E5%9C%A8%E5%8C%BB%E9%99%A2%E6%A5%BC%E9%A1%B6%E6%B0%B4%E7%AE%B1%E6%BA%BA%E4%BA%A1+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [深圳一地回应鼓励49岁以下再生育](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%9C%B0%E5%9B%9E%E5%BA%94%E9%BC%93%E5%8A%B149%E5%B2%81%E4%BB%A5%E4%B8%8B%E5%86%8D%E7%94%9F%E8%82%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女高材生制售救猫药获刑15年](https://www.baidu.com/s?wd=%E5%A5%B3%E9%AB%98%E6%9D%90%E7%94%9F%E5%88%B6%E5%94%AE%E6%95%91%E7%8C%AB%E8%8D%AF%E8%8E%B7%E5%88%9115%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [秋瓷炫被淘汰全场大哭](https://www.baidu.com/s?wd=%E7%A7%8B%E7%93%B7%E7%82%AB%E8%A2%AB%E6%B7%98%E6%B1%B0%E5%85%A8%E5%9C%BA%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [5月份全国共销售彩票500.21亿元](https://www.baidu.com/s?wd=5%E6%9C%88%E4%BB%BD%E5%85%A8%E5%9B%BD%E5%85%B1%E9%94%80%E5%94%AE%E5%BD%A9%E7%A5%A8500.21%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [深圳一地回应鼓励49岁以下再生育](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%9C%B0%E5%9B%9E%E5%BA%94%E9%BC%93%E5%8A%B149%E5%B2%81%E4%BB%A5%E4%B8%8B%E5%86%8D%E7%94%9F%E8%82%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女高材生制售救猫药获刑15年](https://www.baidu.com/s?wd=%E5%A5%B3%E9%AB%98%E6%9D%90%E7%94%9F%E5%88%B6%E5%94%AE%E6%95%91%E7%8C%AB%E8%8D%AF%E8%8E%B7%E5%88%9115%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
