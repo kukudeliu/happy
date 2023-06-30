@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 01:08:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 01:09:01</h4></div>
 
 > 微博  
 
@@ -31,10 +31,10 @@
 3. [复读14年的高考钉子户考了594分](https://www.baidu.com/s?wd=%E5%A4%8D%E8%AF%BB14%E5%B9%B4%E7%9A%84%E9%AB%98%E8%80%83%E9%92%89%E5%AD%90%E6%88%B7%E8%80%83%E4%BA%86594%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [数字里看亮点](https://www.baidu.com/s?wd=%E6%95%B0%E5%AD%97%E9%87%8C%E7%9C%8B%E4%BA%AE%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [美国将重返教科文组织 中方投反对票](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%B0%86%E9%87%8D%E8%BF%94%E6%95%99%E7%A7%91%E6%96%87%E7%BB%84%E7%BB%87+%E4%B8%AD%E6%96%B9%E6%8A%95%E5%8F%8D%E5%AF%B9%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [湖南遇特大暴雨：市民街头抱团互救](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E9%81%87%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%A8%EF%BC%9A%E5%B8%82%E6%B0%91%E8%A1%97%E5%A4%B4%E6%8A%B1%E5%9B%A2%E4%BA%92%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [拜登没等插播广告直接离开现场](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E6%B2%A1%E7%AD%89%E6%8F%92%E6%92%AD%E5%B9%BF%E5%91%8A%E7%9B%B4%E6%8E%A5%E7%A6%BB%E5%BC%80%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [曝陈建州曾偷拍大牙整理衣服](https://www.baidu.com/s?wd=%E6%9B%9D%E9%99%88%E5%BB%BA%E5%B7%9E%E6%9B%BE%E5%81%B7%E6%8B%8D%E5%A4%A7%E7%89%99%E6%95%B4%E7%90%86%E8%A1%A3%E6%9C%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [湖南遇特大暴雨：市民街头抱团互救](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E9%81%87%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%A8%EF%BC%9A%E5%B8%82%E6%B0%91%E8%A1%97%E5%A4%B4%E6%8A%B1%E5%9B%A2%E4%BA%92%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [多名陌生男子闯入室内 住户坠楼身亡](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E9%99%8C%E7%94%9F%E7%94%B7%E5%AD%90%E9%97%AF%E5%85%A5%E5%AE%A4%E5%86%85+%E4%BD%8F%E6%88%B7%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [“警察射杀17岁少年”引爆法国社会](https://www.baidu.com/s?wd=%E2%80%9C%E8%AD%A6%E5%AF%9F%E5%B0%84%E6%9D%8017%E5%B2%81%E5%B0%91%E5%B9%B4%E2%80%9D%E5%BC%95%E7%88%86%E6%B3%95%E5%9B%BD%E7%A4%BE%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [网友吐槽一条街三四十个井盖](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD%E4%B8%80%E6%9D%A1%E8%A1%97%E4%B8%89%E5%9B%9B%E5%8D%81%E4%B8%AA%E4%BA%95%E7%9B%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [复读14年的高考钉子户考了594分](https://www.baidu.com/s?wd=%E5%A4%8D%E8%AF%BB14%E5%B9%B4%E7%9A%84%E9%AB%98%E8%80%83%E9%92%89%E5%AD%90%E6%88%B7%E8%80%83%E4%BA%86594%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [数字里看亮点](https://www.baidu.com/s?wd=%E6%95%B0%E5%AD%97%E9%87%8C%E7%9C%8B%E4%BA%AE%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [美国将重返教科文组织 中方投反对票](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%B0%86%E9%87%8D%E8%BF%94%E6%95%99%E7%A7%91%E6%96%87%E7%BB%84%E7%BB%87+%E4%B8%AD%E6%96%B9%E6%8A%95%E5%8F%8D%E5%AF%B9%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [湖南遇特大暴雨：市民街头抱团互救](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E9%81%87%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%A8%EF%BC%9A%E5%B8%82%E6%B0%91%E8%A1%97%E5%A4%B4%E6%8A%B1%E5%9B%A2%E4%BA%92%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [拜登没等插播广告直接离开现场](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E6%B2%A1%E7%AD%89%E6%8F%92%E6%92%AD%E5%B9%BF%E5%91%8A%E7%9B%B4%E6%8E%A5%E7%A6%BB%E5%BC%80%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [曝陈建州曾偷拍大牙整理衣服](https://www.baidu.com/s?wd=%E6%9B%9D%E9%99%88%E5%BB%BA%E5%B7%9E%E6%9B%BE%E5%81%B7%E6%8B%8D%E5%A4%A7%E7%89%99%E6%95%B4%E7%90%86%E8%A1%A3%E6%9C%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [湖南遇特大暴雨：市民街头抱团互救](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E9%81%87%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%A8%EF%BC%9A%E5%B8%82%E6%B0%91%E8%A1%97%E5%A4%B4%E6%8A%B1%E5%9B%A2%E4%BA%92%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [多名陌生男子闯入室内 住户坠楼身亡](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E9%99%8C%E7%94%9F%E7%94%B7%E5%AD%90%E9%97%AF%E5%85%A5%E5%AE%A4%E5%86%85+%E4%BD%8F%E6%88%B7%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [“警察射杀17岁少年”引爆法国社会](https://www.baidu.com/s?wd=%E2%80%9C%E8%AD%A6%E5%AF%9F%E5%B0%84%E6%9D%8017%E5%B2%81%E5%B0%91%E5%B9%B4%E2%80%9D%E5%BC%95%E7%88%86%E6%B3%95%E5%9B%BD%E7%A4%BE%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [网友吐槽一条街三四十个井盖](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD%E4%B8%80%E6%9D%A1%E8%A1%97%E4%B8%89%E5%9B%9B%E5%8D%81%E4%B8%AA%E4%BA%95%E7%9B%96&sa=fyb_news&rsv_dl=fyb_news)<br />
