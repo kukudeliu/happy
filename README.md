@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 18:58:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 18:59:01</h4></div>
 
 > 微博  
 
@@ -19,9 +19,9 @@
 3. [恶魔给你 1 个亿，但接下来你的所有支出都变为 5 倍 (见详细描述)，你会答应恶魔的契约吗？](https://www.zhihu.com/question/608441800)<br />
 4. [苏州一男子高楼徘徊数小时后跳楼身亡，行人刺激「跳楼者不跳不是人」，现场真实情况如何，如何评价行人做法？](https://www.zhihu.com/question/609559392)<br />
 5. [阿斯巴甜可能导致癌症引热议，那么代糖到底是否有害健康？「无糖」食品还能吃吗？](https://www.zhihu.com/question/609548110)<br />
-6. [旧日本海军舰船的名字在中国人听起来感觉很好听，但日本人听起来是不是觉得很土？](https://www.zhihu.com/question/609546498)<br />
-7. [为什么小学英语教材要用这种字体体印刷？](https://www.zhihu.com/question/577940256)<br />
-8. [电路板上的 0 欧电阻有什么用？](https://www.zhihu.com/question/601580372)<br />
+6. [为什么小学英语教材要用这种字体体印刷？](https://www.zhihu.com/question/577940256)<br />
+7. [电路板上的 0 欧电阻有什么用？](https://www.zhihu.com/question/601580372)<br />
+8. [旧日本海军舰船的名字在中国人听起来感觉很好听，但日本人听起来是不是觉得很土？](https://www.zhihu.com/question/609546498)<br />
 9. [上半年一系列提振经济的政策有无取得预期效果？下半年是否应进一步提升政策的刺激力度？](https://www.zhihu.com/question/609604657)<br />
 
 > 百度  
