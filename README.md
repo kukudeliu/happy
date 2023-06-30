@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 03:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 03:45:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [乌克兰正讨论禁止现金支付，或成首个废除现金国家，号称可减少至少 95% 腐败，这一举措是否合理？](https://www.zhihu.com/question/609605756)<br />
 6. []()<br />
 7. [「网红超市」胖东来 8 页报告调查「顾客与员工争执」，如何看待胖东来的处理结果，你是否满意？](https://www.zhihu.com/question/609604339)<br />
-8. [中国超级计算机为什么不能为 AI 提供算力？](https://www.zhihu.com/question/609008408)<br />
-9. [MBA 是什么？为什么读 MBA？](https://www.zhihu.com/question/440312189)<br />
+8. [胡锡进称「经过这一周，更渴望国家刺激经济政策的出台」，如何看待此事？](https://www.zhihu.com/question/609622405)<br />
+9. [中国超级计算机为什么不能为 AI 提供算力？](https://www.zhihu.com/question/609008408)<br />
 
 > 百度  
 
