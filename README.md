@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 10:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 10:56:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [LWX](https://s.weibo.com/weibo?q=LWX&t=31&band_rank=6&Refer=top)<br />
 7. [仁济医院医生嫖娼为实习生造谣](https://s.weibo.com/weibo?q=%23%E4%BB%81%E6%B5%8E%E5%8C%BB%E9%99%A2%E5%8C%BB%E7%94%9F%E5%AB%96%E5%A8%BC%E4%B8%BA%E5%AE%9E%E4%B9%A0%E7%94%9F%E9%80%A0%E8%B0%A3%23&t=31&band_rank=7&Refer=top)<br />
 8. [宋妍霏左眼流泪右眼笑](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E5%A6%8D%E9%9C%8F%E5%B7%A6%E7%9C%BC%E6%B5%81%E6%B3%AA%E5%8F%B3%E7%9C%BC%E7%AC%91%23&t=31&band_rank=8&Refer=top)<br />
-9. [低成本恋爱](https://s.weibo.com/weibo?q=%E4%BD%8E%E6%88%90%E6%9C%AC%E6%81%8B%E7%88%B1&t=31&band_rank=9&Refer=top)<br />
+9. [肖战下个镜头切了李沁](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E4%B8%8B%E4%B8%AA%E9%95%9C%E5%A4%B4%E5%88%87%E4%BA%86%E6%9D%8E%E6%B2%81%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
