@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 00:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 00:05:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [电影《消失的她》中，为什么何非没有识别出陈麦的律师身份是假的？他没有怀疑过陈麦吗？](https://www.zhihu.com/question/608097247)<br />
 6. [乌克兰正讨论禁止现金支付，或成首个废除现金国家，号称可减少至少 95% 腐败，这一举措是否合理？](https://www.zhihu.com/question/609605756)<br />
 7. [从「做饭糊弄学」到「白人饭」，一些年轻人正在把「敷衍饮食」的精神发扬到极致，如何看待年轻人的生活观念？](https://www.zhihu.com/question/609598856)<br />
-8. [2023 LPL 夏季赛 iG 0:2 TES，如何评价这场比赛？](https://www.zhihu.com/question/609651912)<br />
-9. [如何评价电影《夺宝奇兵：命运转盘》？](https://www.zhihu.com/question/608509359)<br />
+8. [如何评价电影《夺宝奇兵：命运转盘》？](https://www.zhihu.com/question/608509359)<br />
+9. [2023 LPL 夏季赛 iG 0:2 TES，如何评价这场比赛？](https://www.zhihu.com/question/609651912)<br />
 
 > 百度  
 
