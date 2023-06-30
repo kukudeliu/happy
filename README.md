@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 21:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 21:27:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [《消失的她》凭什么能领跑端午档？](https://www.zhihu.com/theater/97165)<br />
 6. [电影《消失的她》中的「何非」是个纯粹的恶人吗？](https://www.zhihu.com/question/608333307)<br />
 7. [洗烘一体机好还是单独烘干机好？](https://www.zhihu.com/question/491205550)<br />
-8. [抢滩登陆作战中直升机垂直登陆真的有足够作用吗？](https://www.zhihu.com/question/608513724)<br />
-9. []()<br />
+8. []()<br />
+9. [抢滩登陆作战中直升机垂直登陆真的有足够作用吗？](https://www.zhihu.com/question/608513724)<br />
 
 > 百度  
 
