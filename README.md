@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 05:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 05:34:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [女高材生制售救猫药获刑15年](https://www.baidu.com/s?wd=%E5%A5%B3%E9%AB%98%E6%9D%90%E7%94%9F%E5%88%B6%E5%94%AE%E6%95%91%E7%8C%AB%E8%8D%AF%E8%8E%B7%E5%88%9115%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [消失的她票根隐藏款是陈思诚](https://www.baidu.com/s?wd=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%A0%B9%E9%9A%90%E8%97%8F%E6%AC%BE%E6%98%AF%E9%99%88%E6%80%9D%E8%AF%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [裸男带手机闯女浴室 警方：疑罪从无](https://www.baidu.com/s?wd=%E8%A3%B8%E7%94%B7%E5%B8%A6%E6%89%8B%E6%9C%BA%E9%97%AF%E5%A5%B3%E6%B5%B4%E5%AE%A4+%E8%AD%A6%E6%96%B9%EF%BC%9A%E7%96%91%E7%BD%AA%E4%BB%8E%E6%97%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [多名陌生男子闯入室内 住户坠楼身亡](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E9%99%8C%E7%94%9F%E7%94%B7%E5%AD%90%E9%97%AF%E5%85%A5%E5%AE%A4%E5%86%85+%E4%BD%8F%E6%88%B7%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [秋瓷炫被淘汰全场大哭](https://www.baidu.com/s?wd=%E7%A7%8B%E7%93%B7%E7%82%AB%E8%A2%AB%E6%B7%98%E6%B1%B0%E5%85%A8%E5%9C%BA%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [女高材生制售救猫药获刑15年](https://www.baidu.com/s?wd=%E5%A5%B3%E9%AB%98%E6%9D%90%E7%94%9F%E5%88%B6%E5%94%AE%E6%95%91%E7%8C%AB%E8%8D%AF%E8%8E%B7%E5%88%9115%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [消失的她票根隐藏款是陈思诚](https://www.baidu.com/s?wd=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%A0%B9%E9%9A%90%E8%97%8F%E6%AC%BE%E6%98%AF%E9%99%88%E6%80%9D%E8%AF%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [裸男带手机闯女浴室 警方：疑罪从无](https://www.baidu.com/s?wd=%E8%A3%B8%E7%94%B7%E5%B8%A6%E6%89%8B%E6%9C%BA%E9%97%AF%E5%A5%B3%E6%B5%B4%E5%AE%A4+%E8%AD%A6%E6%96%B9%EF%BC%9A%E7%96%91%E7%BD%AA%E4%BB%8E%E6%97%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [多名陌生男子闯入室内 住户坠楼身亡](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E9%99%8C%E7%94%9F%E7%94%B7%E5%AD%90%E9%97%AF%E5%85%A5%E5%AE%A4%E5%86%85+%E4%BD%8F%E6%88%B7%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [秋瓷炫被淘汰全场大哭](https://www.baidu.com/s?wd=%E7%A7%8B%E7%93%B7%E7%82%AB%E8%A2%AB%E6%B7%98%E6%B1%B0%E5%85%A8%E5%9C%BA%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
