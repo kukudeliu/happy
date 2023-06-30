@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 23:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 23:11:01</h4></div>
 
 > 微博  
 
@@ -19,8 +19,8 @@
 3. [电影《消失的她》中，为什么何非没有识别出陈麦的律师身份是假的？他没有怀疑过陈麦吗？](https://www.zhihu.com/question/608097247)<br />
 4. [如何看待山河四省学子在网上自建山河大学？](https://www.zhihu.com/question/609297089)<br />
 5. [中国高铁出海首单，印尼雅万高铁时速达 350 公里，日媒感叹「难以逾越的实力差距」，哪些信息值得关注？](https://www.zhihu.com/question/609596590)<br />
-6. [如何看待任天堂回应高层回应股东 Switch 的特点不在性能？你觉得游戏机什么最重要？](https://www.zhihu.com/question/609196080)<br />
-7. [A 股上半年收官，沪指险守 3200 点关口，下半年走势或将如何？](https://www.zhihu.com/question/609608897)<br />
+6. [A 股上半年收官，沪指险守 3200 点关口，下半年走势或将如何？](https://www.zhihu.com/question/609608897)<br />
+7. [如何看待任天堂回应高层回应股东 Switch 的特点不在性能？你觉得游戏机什么最重要？](https://www.zhihu.com/question/609196080)<br />
 8. [从「做饭糊弄学」到「白人饭」，一些年轻人正在把「敷衍饮食」的精神发扬到极致，如何看待年轻人的生活观念？](https://www.zhihu.com/question/609598856)<br />
 9. [2023 LPL 夏季赛 iG 0:2 TES，如何评价这场比赛？](https://www.zhihu.com/question/609651912)<br />
 
