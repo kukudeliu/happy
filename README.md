@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 13:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 13:05:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [倪妮和朱一龙对戏指尖都在用力](https://s.weibo.com/weibo?q=%23%E5%80%AA%E5%A6%AE%E5%92%8C%E6%9C%B1%E4%B8%80%E9%BE%99%E5%AF%B9%E6%88%8F%E6%8C%87%E5%B0%96%E9%83%BD%E5%9C%A8%E7%94%A8%E5%8A%9B%23&t=31&band_rank=6&Refer=top)<br />
 7. [宁艺卓说国内缺少音乐舞台](https://s.weibo.com/weibo?q=%23%E5%AE%81%E8%89%BA%E5%8D%93%E8%AF%B4%E5%9B%BD%E5%86%85%E7%BC%BA%E5%B0%91%E9%9F%B3%E4%B9%90%E8%88%9E%E5%8F%B0%23&t=31&band_rank=7&Refer=top)<br />
 8. [Angelababy重现甩头发名场面](https://s.weibo.com/weibo?q=%23Angelababy%E9%87%8D%E7%8E%B0%E7%94%A9%E5%A4%B4%E5%8F%91%E5%90%8D%E5%9C%BA%E9%9D%A2%23&t=31&band_rank=8&Refer=top)<br />
-9. [LWX](https://s.weibo.com/weibo?q=LWX&t=31&band_rank=9&Refer=top)<br />
+9. [怎么没人写硕博士的偶像剧](https://s.weibo.com/weibo?q=%23%E6%80%8E%E4%B9%88%E6%B2%A1%E4%BA%BA%E5%86%99%E7%A1%95%E5%8D%9A%E5%A3%AB%E7%9A%84%E5%81%B6%E5%83%8F%E5%89%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
