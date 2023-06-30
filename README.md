@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 19:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 19:39:01</h4></div>
 
 > 微博  
 
@@ -17,12 +17,12 @@
 1. [携程宣布投入 10 亿鼓励员工生育，每生一个孩子发 5 万，如何看待这一举措？](https://www.zhihu.com/question/609562977)<br />
 2. [恶魔给你 1 个亿，但接下来你的所有支出都变为 5 倍 (见详细描述)，你会答应恶魔的契约吗？](https://www.zhihu.com/question/608441800)<br />
 3. [阿斯巴甜可能导致癌症引热议，那么代糖到底是否有害健康？「无糖」食品还能吃吗？](https://www.zhihu.com/question/609548110)<br />
-4. [为什么小学英语教材要用这种字体体印刷？](https://www.zhihu.com/question/577940256)<br />
-5. [上半年一系列提振经济的政策有无取得预期效果？下半年是否应进一步提升政策的刺激力度？](https://www.zhihu.com/question/609604657)<br />
-6. [电路板上的 0 欧电阻有什么用？](https://www.zhihu.com/question/601580372)<br />
-7. [财政部数据显示「5 月份全国共销售彩票 500.21 亿元，同比增长 52.7%」，如何看待这一数据？](https://www.zhihu.com/question/609601825)<br />
-8. [菜农卖菜赚 21.05 元，因抽检不合格被罚 11 万，法院「不予强制执行」，如何看待这一行政处罚？](https://www.zhihu.com/question/609558753)<br />
-9. [《火影忍者》为什么鸣人一直不放弃佐助，即使佐助说了很多伤人的话？](https://www.zhihu.com/question/48974655)<br />
+4. [如果给你一个山河大学的职务，你想当什么？不考虑预算的情况下，你会怎样建设？](https://www.zhihu.com/question/609402567)<br />
+5. [为什么小学英语教材要用这种字体体印刷？](https://www.zhihu.com/question/577940256)<br />
+6. [上半年一系列提振经济的政策有无取得预期效果？下半年是否应进一步提升政策的刺激力度？](https://www.zhihu.com/question/609604657)<br />
+7. [电路板上的 0 欧电阻有什么用？](https://www.zhihu.com/question/601580372)<br />
+8. [财政部数据显示「5 月份全国共销售彩票 500.21 亿元，同比增长 52.7%」，如何看待这一数据？](https://www.zhihu.com/question/609601825)<br />
+9. [菜农卖菜赚 21.05 元，因抽检不合格被罚 11 万，法院「不予强制执行」，如何看待这一行政处罚？](https://www.zhihu.com/question/609558753)<br />
 
 > 百度  
 
@@ -32,9 +32,9 @@
 4. [7月新规来了 关系你我生活](https://www.baidu.com/s?wd=7%E6%9C%88%E6%96%B0%E8%A7%84%E6%9D%A5%E4%BA%86+%E5%85%B3%E7%B3%BB%E4%BD%A0%E6%88%91%E7%94%9F%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [比盐粒还小的手提包卖出46.2万](https://www.baidu.com/s?wd=%E6%AF%94%E7%9B%90%E7%B2%92%E8%BF%98%E5%B0%8F%E7%9A%84%E6%89%8B%E6%8F%90%E5%8C%85%E5%8D%96%E5%87%BA46.2%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [胖东来8页报告调查顾客与员工争执](https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A58%E9%A1%B5%E6%8A%A5%E5%91%8A%E8%B0%83%E6%9F%A5%E9%A1%BE%E5%AE%A2%E4%B8%8E%E5%91%98%E5%B7%A5%E4%BA%89%E6%89%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子称怀孕6周被男友偷下打胎药](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E6%80%80%E5%AD%956%E5%91%A8%E8%A2%AB%E7%94%B7%E5%8F%8B%E5%81%B7%E4%B8%8B%E6%89%93%E8%83%8E%E8%8D%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [裸男带手机闯女浴室 警方：疑罪从无](https://www.baidu.com/s?wd=%E8%A3%B8%E7%94%B7%E5%B8%A6%E6%89%8B%E6%9C%BA%E9%97%AF%E5%A5%B3%E6%B5%B4%E5%AE%A4+%E8%AD%A6%E6%96%B9%EF%BC%9A%E7%96%91%E7%BD%AA%E4%BB%8E%E6%97%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [today便利店下架含阿斯巴甜商品](https://www.baidu.com/s?wd=today%E4%BE%BF%E5%88%A9%E5%BA%97%E4%B8%8B%E6%9E%B6%E5%90%AB%E9%98%BF%E6%96%AF%E5%B7%B4%E7%94%9C%E5%95%86%E5%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [当地回应执法大队变“执法犬队”](https://www.baidu.com/s?wd=%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94%E6%89%A7%E6%B3%95%E5%A4%A7%E9%98%9F%E5%8F%98%E2%80%9C%E6%89%A7%E6%B3%95%E7%8A%AC%E9%98%9F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子称怀孕6周被男友偷下打胎药](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E6%80%80%E5%AD%956%E5%91%A8%E8%A2%AB%E7%94%B7%E5%8F%8B%E5%81%B7%E4%B8%8B%E6%89%93%E8%83%8E%E8%8D%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [裸男带手机闯女浴室 警方：疑罪从无](https://www.baidu.com/s?wd=%E8%A3%B8%E7%94%B7%E5%B8%A6%E6%89%8B%E6%9C%BA%E9%97%AF%E5%A5%B3%E6%B5%B4%E5%AE%A4+%E8%AD%A6%E6%96%B9%EF%BC%9A%E7%96%91%E7%BD%AA%E4%BB%8E%E6%97%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [7月新规来了 关系你我生活](https://www.baidu.com/s?wd=7%E6%9C%88%E6%96%B0%E8%A7%84%E6%9D%A5%E4%BA%86+%E5%85%B3%E7%B3%BB%E4%BD%A0%E6%88%91%E7%94%9F%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [比盐粒还小的手提包卖出46.2万](https://www.baidu.com/s?wd=%E6%AF%94%E7%9B%90%E7%B2%92%E8%BF%98%E5%B0%8F%E7%9A%84%E6%89%8B%E6%8F%90%E5%8C%85%E5%8D%96%E5%87%BA46.2%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [胖东来8页报告调查顾客与员工争执](https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A58%E9%A1%B5%E6%8A%A5%E5%91%8A%E8%B0%83%E6%9F%A5%E9%A1%BE%E5%AE%A2%E4%B8%8E%E5%91%98%E5%B7%A5%E4%BA%89%E6%89%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子称怀孕6周被男友偷下打胎药](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E6%80%80%E5%AD%956%E5%91%A8%E8%A2%AB%E7%94%B7%E5%8F%8B%E5%81%B7%E4%B8%8B%E6%89%93%E8%83%8E%E8%8D%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [裸男带手机闯女浴室 警方：疑罪从无](https://www.baidu.com/s?wd=%E8%A3%B8%E7%94%B7%E5%B8%A6%E6%89%8B%E6%9C%BA%E9%97%AF%E5%A5%B3%E6%B5%B4%E5%AE%A4+%E8%AD%A6%E6%96%B9%EF%BC%9A%E7%96%91%E7%BD%AA%E4%BB%8E%E6%97%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [today便利店下架含阿斯巴甜商品](https://www.baidu.com/s?wd=today%E4%BE%BF%E5%88%A9%E5%BA%97%E4%B8%8B%E6%9E%B6%E5%90%AB%E9%98%BF%E6%96%AF%E5%B7%B4%E7%94%9C%E5%95%86%E5%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [当地回应执法大队变“执法犬队”](https://www.baidu.com/s?wd=%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94%E6%89%A7%E6%B3%95%E5%A4%A7%E9%98%9F%E5%8F%98%E2%80%9C%E6%89%A7%E6%B3%95%E7%8A%AC%E9%98%9F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子称怀孕6周被男友偷下打胎药](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E6%80%80%E5%AD%956%E5%91%A8%E8%A2%AB%E7%94%B7%E5%8F%8B%E5%81%B7%E4%B8%8B%E6%89%93%E8%83%8E%E8%8D%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [裸男带手机闯女浴室 警方：疑罪从无](https://www.baidu.com/s?wd=%E8%A3%B8%E7%94%B7%E5%B8%A6%E6%89%8B%E6%9C%BA%E9%97%AF%E5%A5%B3%E6%B5%B4%E5%AE%A4+%E8%AD%A6%E6%96%B9%EF%BC%9A%E7%96%91%E7%BD%AA%E4%BB%8E%E6%97%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
