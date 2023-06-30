@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 02:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 02:17:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [1700元周杰伦演唱会门票直接烧了](https://www.baidu.com/s?wd=1700%E5%85%83%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E7%9B%B4%E6%8E%A5%E7%83%A7%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [网友吐槽一条街三四十个井盖](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD%E4%B8%80%E6%9D%A1%E8%A1%97%E4%B8%89%E5%9B%9B%E5%8D%81%E4%B8%AA%E4%BA%95%E7%9B%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [“警察射杀17岁少年”引爆法国社会](https://www.baidu.com/s?wd=%E2%80%9C%E8%AD%A6%E5%AF%9F%E5%B0%84%E6%9D%8017%E5%B2%81%E5%B0%91%E5%B9%B4%E2%80%9D%E5%BC%95%E7%88%86%E6%B3%95%E5%9B%BD%E7%A4%BE%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [多名陌生男子闯入室内 住户坠楼身亡](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E9%99%8C%E7%94%9F%E7%94%B7%E5%AD%90%E9%97%AF%E5%85%A5%E5%AE%A4%E5%86%85+%E4%BD%8F%E6%88%B7%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [牛犊被咬死现场留巨大爪痕](https://www.baidu.com/s?wd=%E7%89%9B%E7%8A%8A%E8%A2%AB%E5%92%AC%E6%AD%BB%E7%8E%B0%E5%9C%BA%E7%95%99%E5%B7%A8%E5%A4%A7%E7%88%AA%E7%97%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [1700元周杰伦演唱会门票直接烧了](https://www.baidu.com/s?wd=1700%E5%85%83%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E7%9B%B4%E6%8E%A5%E7%83%A7%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [网友吐槽一条街三四十个井盖](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD%E4%B8%80%E6%9D%A1%E8%A1%97%E4%B8%89%E5%9B%9B%E5%8D%81%E4%B8%AA%E4%BA%95%E7%9B%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [“警察射杀17岁少年”引爆法国社会](https://www.baidu.com/s?wd=%E2%80%9C%E8%AD%A6%E5%AF%9F%E5%B0%84%E6%9D%8017%E5%B2%81%E5%B0%91%E5%B9%B4%E2%80%9D%E5%BC%95%E7%88%86%E6%B3%95%E5%9B%BD%E7%A4%BE%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [多名陌生男子闯入室内 住户坠楼身亡](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E9%99%8C%E7%94%9F%E7%94%B7%E5%AD%90%E9%97%AF%E5%85%A5%E5%AE%A4%E5%86%85+%E4%BD%8F%E6%88%B7%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [牛犊被咬死现场留巨大爪痕](https://www.baidu.com/s?wd=%E7%89%9B%E7%8A%8A%E8%A2%AB%E5%92%AC%E6%AD%BB%E7%8E%B0%E5%9C%BA%E7%95%99%E5%B7%A8%E5%A4%A7%E7%88%AA%E7%97%95&sa=fyb_news&rsv_dl=fyb_news)<br />
