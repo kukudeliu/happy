@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 21:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 21:09:01</h4></div>
 
 > 微博  
 
 1. [奔跑吧延期播出](https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%E5%BB%B6%E6%9C%9F%E6%92%AD%E5%87%BA%23&t=31&band_rank=1&Refer=top)<br />
 2. [赵露思宋轶全都白干](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%AE%8B%E8%BD%B6%E5%85%A8%E9%83%BD%E7%99%BD%E5%B9%B2%23&t=31&band_rank=2&Refer=top)<br />
 3. [7月一批新规实施](https://s.weibo.com/weibo?q=%237%E6%9C%88%E4%B8%80%E6%89%B9%E6%96%B0%E8%A7%84%E5%AE%9E%E6%96%BD%23&t=31&band_rank=3&Refer=top)<br />
-4. [胖东来](https://s.weibo.com/weibo?q=%E8%83%96%E4%B8%9C%E6%9D%A5&t=31&band_rank=4&Refer=top)<br />
+4. [1700元的周杰伦演唱会门票直接烧了](https://s.weibo.com/weibo?q=%231700%E5%85%83%E7%9A%84%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E7%9B%B4%E6%8E%A5%E7%83%A7%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [搂着扫楼](https://s.weibo.com/weibo?q=%E6%90%82%E7%9D%80%E6%89%AB%E6%A5%BC&t=31&band_rank=5&Refer=top)<br />
-6. [日食记 被低估的贵州美食](https://s.weibo.com/weibo?q=%E6%97%A5%E9%A3%9F%E8%AE%B0%20%E8%A2%AB%E4%BD%8E%E4%BC%B0%E7%9A%84%E8%B4%B5%E5%B7%9E%E7%BE%8E%E9%A3%9F&t=31&band_rank=6&Refer=top)<br />
-7. [爸爸用15元买了孩子一下午的快乐](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E7%94%A815%E5%85%83%E4%B9%B0%E4%BA%86%E5%AD%A9%E5%AD%90%E4%B8%80%E4%B8%8B%E5%8D%88%E7%9A%84%E5%BF%AB%E4%B9%90%23&t=31&band_rank=7&Refer=top)<br />
+6. [胖东来](https://s.weibo.com/weibo?q=%E8%83%96%E4%B8%9C%E6%9D%A5&t=31&band_rank=6&Refer=top)<br />
+7. [日食记 被低估的贵州美食](https://s.weibo.com/weibo?q=%E6%97%A5%E9%A3%9F%E8%AE%B0%20%E8%A2%AB%E4%BD%8E%E4%BC%B0%E7%9A%84%E8%B4%B5%E5%B7%9E%E7%BE%8E%E9%A3%9F&t=31&band_rank=7&Refer=top)<br />
 8. [第一次嗑内娱cp](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%97%91%E5%86%85%E5%A8%B1cp%23&t=31&band_rank=8&Refer=top)<br />
-9. [中国女排](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92&t=31&band_rank=9&Refer=top)<br />
+9. [爸爸用15元买了孩子一下午的快乐](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E7%94%A815%E5%85%83%E4%B9%B0%E4%BA%86%E5%AD%A9%E5%AD%90%E4%B8%80%E4%B8%8B%E5%8D%88%E7%9A%84%E5%BF%AB%E4%B9%90%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -32,8 +32,8 @@
 4. [数字里看亮点](https://www.baidu.com/s?wd=%E6%95%B0%E5%AD%97%E9%87%8C%E7%9C%8B%E4%BA%AE%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [Kindle真的要拿来盖泡面了](https://www.baidu.com/s?wd=Kindle%E7%9C%9F%E7%9A%84%E8%A6%81%E6%8B%BF%E6%9D%A5%E7%9B%96%E6%B3%A1%E9%9D%A2%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [教师在医院楼顶水箱溺亡 官方回应](https://www.baidu.com/s?wd=%E6%95%99%E5%B8%88%E5%9C%A8%E5%8C%BB%E9%99%A2%E6%A5%BC%E9%A1%B6%E6%B0%B4%E7%AE%B1%E6%BA%BA%E4%BA%A1+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [5月份全国共销售彩票500.21亿元](https://www.baidu.com/s?wd=5%E6%9C%88%E4%BB%BD%E5%85%A8%E5%9B%BD%E5%85%B1%E9%94%80%E5%94%AE%E5%BD%A9%E7%A5%A8500.21%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [牛犊被咬死现场留巨大爪痕](https://www.baidu.com/s?wd=%E7%89%9B%E7%8A%8A%E8%A2%AB%E5%92%AC%E6%AD%BB%E7%8E%B0%E5%9C%BA%E7%95%99%E5%B7%A8%E5%A4%A7%E7%88%AA%E7%97%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [1700元周杰伦演唱会门票直接烧了](https://www.baidu.com/s?wd=1700%E5%85%83%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E7%9B%B4%E6%8E%A5%E7%83%A7%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [大数据看这个6月北方有多热](https://www.baidu.com/s?wd=%E5%A4%A7%E6%95%B0%E6%8D%AE%E7%9C%8B%E8%BF%99%E4%B8%AA6%E6%9C%88%E5%8C%97%E6%96%B9%E6%9C%89%E5%A4%9A%E7%83%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [#奔跑吧延期播出#](https://www.baidu.com/s?wd=%23%E5%A5%94%E8%B7%91%E5%90%A7%E5%BB%B6%E6%9C%9F%E6%92%AD%E5%87%BA%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -44,6 +44,6 @@
 4. [数字里看亮点](https://www.baidu.com/s?wd=%E6%95%B0%E5%AD%97%E9%87%8C%E7%9C%8B%E4%BA%AE%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [Kindle真的要拿来盖泡面了](https://www.baidu.com/s?wd=Kindle%E7%9C%9F%E7%9A%84%E8%A6%81%E6%8B%BF%E6%9D%A5%E7%9B%96%E6%B3%A1%E9%9D%A2%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [教师在医院楼顶水箱溺亡 官方回应](https://www.baidu.com/s?wd=%E6%95%99%E5%B8%88%E5%9C%A8%E5%8C%BB%E9%99%A2%E6%A5%BC%E9%A1%B6%E6%B0%B4%E7%AE%B1%E6%BA%BA%E4%BA%A1+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [5月份全国共销售彩票500.21亿元](https://www.baidu.com/s?wd=5%E6%9C%88%E4%BB%BD%E5%85%A8%E5%9B%BD%E5%85%B1%E9%94%80%E5%94%AE%E5%BD%A9%E7%A5%A8500.21%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [牛犊被咬死现场留巨大爪痕](https://www.baidu.com/s?wd=%E7%89%9B%E7%8A%8A%E8%A2%AB%E5%92%AC%E6%AD%BB%E7%8E%B0%E5%9C%BA%E7%95%99%E5%B7%A8%E5%A4%A7%E7%88%AA%E7%97%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [1700元周杰伦演唱会门票直接烧了](https://www.baidu.com/s?wd=1700%E5%85%83%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E7%9B%B4%E6%8E%A5%E7%83%A7%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [大数据看这个6月北方有多热](https://www.baidu.com/s?wd=%E5%A4%A7%E6%95%B0%E6%8D%AE%E7%9C%8B%E8%BF%99%E4%B8%AA6%E6%9C%88%E5%8C%97%E6%96%B9%E6%9C%89%E5%A4%9A%E7%83%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [#奔跑吧延期播出#](https://www.baidu.com/s?wd=%23%E5%A5%94%E8%B7%91%E5%90%A7%E5%BB%B6%E6%9C%9F%E6%92%AD%E5%87%BA%23&sa=fyb_news&rsv_dl=fyb_news)<br />
