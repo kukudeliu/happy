@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 23:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 23:25:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [男子颈部插着切割机警车狂飙10分钟](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%A2%88%E9%83%A8%E6%8F%92%E7%9D%80%E5%88%87%E5%89%B2%E6%9C%BA%E8%AD%A6%E8%BD%A6%E7%8B%82%E9%A3%9910%E5%88%86%E9%92%9F%23&t=31&band_rank=6&Refer=top)<br />
 7. [这和官宣有什么差别](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%92%8C%E5%AE%98%E5%AE%A3%E6%9C%89%E4%BB%80%E4%B9%88%E5%B7%AE%E5%88%AB%23&t=31&band_rank=7&Refer=top)<br />
 8. [胖东来](https://s.weibo.com/weibo?q=%E8%83%96%E4%B8%9C%E6%9D%A5&t=31&band_rank=8&Refer=top)<br />
-9. [歼20](https://s.weibo.com/weibo?q=%23%E6%AD%BC20%23&t=31&band_rank=9&Refer=top)<br />
+9. [朱婷](https://s.weibo.com/weibo?q=%E6%9C%B1%E5%A9%B7&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
