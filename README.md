@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 03:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 03:02:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [奔跑吧延期播出](https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%E5%BB%B6%E6%9C%9F%E6%92%AD%E5%87%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [其实世界上有很多情侣根本不熟](https://s.weibo.com/weibo?q=%E5%85%B6%E5%AE%9E%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%89%E5%BE%88%E5%A4%9A%E6%83%85%E4%BE%A3%E6%A0%B9%E6%9C%AC%E4%B8%8D%E7%86%9F&t=31&band_rank=7&Refer=top)<br />
 8. [白敬亭是有牵手肌肉记忆吗](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E6%98%AF%E6%9C%89%E7%89%B5%E6%89%8B%E8%82%8C%E8%82%89%E8%AE%B0%E5%BF%86%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [男子颈部插着切割机警车狂飙10分钟](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%A2%88%E9%83%A8%E6%8F%92%E7%9D%80%E5%88%87%E5%89%B2%E6%9C%BA%E8%AD%A6%E8%BD%A6%E7%8B%82%E9%A3%9910%E5%88%86%E9%92%9F%23&t=31&band_rank=9&Refer=top)<br />
+9. [泰坦号失事前水下短信通信记录](https://s.weibo.com/weibo?q=%E6%B3%B0%E5%9D%A6%E5%8F%B7%E5%A4%B1%E4%BA%8B%E5%89%8D%E6%B0%B4%E4%B8%8B%E7%9F%AD%E4%BF%A1%E9%80%9A%E4%BF%A1%E8%AE%B0%E5%BD%95&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -34,7 +34,7 @@
 6. [电话号码过户要预存1万元话费？](https://www.baidu.com/s?wd=%E7%94%B5%E8%AF%9D%E5%8F%B7%E7%A0%81%E8%BF%87%E6%88%B7%E8%A6%81%E9%A2%84%E5%AD%981%E4%B8%87%E5%85%83%E8%AF%9D%E8%B4%B9%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [today便利店下架含阿斯巴甜商品](https://www.baidu.com/s?wd=today%E4%BE%BF%E5%88%A9%E5%BA%97%E4%B8%8B%E6%9E%B6%E5%90%AB%E9%98%BF%E6%96%AF%E5%B7%B4%E7%94%9C%E5%95%86%E5%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [美批准4.4亿美元对台军售 中方回应](https://www.baidu.com/s?wd=%E7%BE%8E%E6%89%B9%E5%87%864.4%E4%BA%BF%E7%BE%8E%E5%85%83%E5%AF%B9%E5%8F%B0%E5%86%9B%E5%94%AE+%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [裸男带手机闯女浴室 警方：疑罪从无](https://www.baidu.com/s?wd=%E8%A3%B8%E7%94%B7%E5%B8%A6%E6%89%8B%E6%9C%BA%E9%97%AF%E5%A5%B3%E6%B5%B4%E5%AE%A4+%E8%AD%A6%E6%96%B9%EF%BC%9A%E7%96%91%E7%BD%AA%E4%BB%8E%E6%97%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [教师在医院楼顶水箱溺亡 官方回应](https://www.baidu.com/s?wd=%E6%95%99%E5%B8%88%E5%9C%A8%E5%8C%BB%E9%99%A2%E6%A5%BC%E9%A1%B6%E6%B0%B4%E7%AE%B1%E6%BA%BA%E4%BA%A1+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [电话号码过户要预存1万元话费？](https://www.baidu.com/s?wd=%E7%94%B5%E8%AF%9D%E5%8F%B7%E7%A0%81%E8%BF%87%E6%88%B7%E8%A6%81%E9%A2%84%E5%AD%981%E4%B8%87%E5%85%83%E8%AF%9D%E8%B4%B9%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [today便利店下架含阿斯巴甜商品](https://www.baidu.com/s?wd=today%E4%BE%BF%E5%88%A9%E5%BA%97%E4%B8%8B%E6%9E%B6%E5%90%AB%E9%98%BF%E6%96%AF%E5%B7%B4%E7%94%9C%E5%95%86%E5%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [美批准4.4亿美元对台军售 中方回应](https://www.baidu.com/s?wd=%E7%BE%8E%E6%89%B9%E5%87%864.4%E4%BA%BF%E7%BE%8E%E5%85%83%E5%AF%B9%E5%8F%B0%E5%86%9B%E5%94%AE+%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [裸男带手机闯女浴室 警方：疑罪从无](https://www.baidu.com/s?wd=%E8%A3%B8%E7%94%B7%E5%B8%A6%E6%89%8B%E6%9C%BA%E9%97%AF%E5%A5%B3%E6%B5%B4%E5%AE%A4+%E8%AD%A6%E6%96%B9%EF%BC%9A%E7%96%91%E7%BD%AA%E4%BB%8E%E6%97%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [教师在医院楼顶水箱溺亡 官方回应](https://www.baidu.com/s?wd=%E6%95%99%E5%B8%88%E5%9C%A8%E5%8C%BB%E9%99%A2%E6%A5%BC%E9%A1%B6%E6%B0%B4%E7%AE%B1%E6%BA%BA%E4%BA%A1+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
