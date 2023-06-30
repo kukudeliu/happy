@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 21:04:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 21:05:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [胖东来](https://s.weibo.com/weibo?q=%E8%83%96%E4%B8%9C%E6%9D%A5&t=31&band_rank=4&Refer=top)<br />
 5. [搂着扫楼](https://s.weibo.com/weibo?q=%E6%90%82%E7%9D%80%E6%89%AB%E6%A5%BC&t=31&band_rank=5&Refer=top)<br />
 6. [日食记 被低估的贵州美食](https://s.weibo.com/weibo?q=%E6%97%A5%E9%A3%9F%E8%AE%B0%20%E8%A2%AB%E4%BD%8E%E4%BC%B0%E7%9A%84%E8%B4%B5%E5%B7%9E%E7%BE%8E%E9%A3%9F&t=31&band_rank=6&Refer=top)<br />
-7. [优酷回复赵露思](https://s.weibo.com/weibo?q=%23%E4%BC%98%E9%85%B7%E5%9B%9E%E5%A4%8D%E8%B5%B5%E9%9C%B2%E6%80%9D%23&t=31&band_rank=7&Refer=top)<br />
+7. [爸爸用15元买了孩子一下午的快乐](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E7%94%A815%E5%85%83%E4%B9%B0%E4%BA%86%E5%AD%A9%E5%AD%90%E4%B8%80%E4%B8%8B%E5%8D%88%E7%9A%84%E5%BF%AB%E4%B9%90%23&t=31&band_rank=7&Refer=top)<br />
 8. [第一次嗑内娱cp](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%97%91%E5%86%85%E5%A8%B1cp%23&t=31&band_rank=8&Refer=top)<br />
-9. [爸爸用15元买了孩子一下午的快乐](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E7%94%A815%E5%85%83%E4%B9%B0%E4%BA%86%E5%AD%A9%E5%AD%90%E4%B8%80%E4%B8%8B%E5%8D%88%E7%9A%84%E5%BF%AB%E4%B9%90%23&t=31&band_rank=9&Refer=top)<br />
+9. [中国女排](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -21,8 +21,8 @@
 5. [《消失的她》凭什么能领跑端午档？](https://www.zhihu.com/theater/97165)<br />
 6. [央视官宣福建舰即将海试，这艘电磁弹射型航母首次海试，将带来哪些重大意义？](https://www.zhihu.com/question/609607306)<br />
 7. [电影《消失的她》中的「何非」是个纯粹的恶人吗？](https://www.zhihu.com/question/608333307)<br />
-8. [《火影忍者》为什么鸣人一直不放弃佐助，即使佐助说了很多伤人的话？](https://www.zhihu.com/question/48974655)<br />
-9. [2023 LPL 夏季赛 NIP 0:2 WBG，如何评价这场比赛？](https://www.zhihu.com/question/609607873)<br />
+8. [2023 LPL 夏季赛 NIP 0:2 WBG，如何评价这场比赛？](https://www.zhihu.com/question/609607873)<br />
+9. [如何看待一批 985 毕业生选择主动延毕？主动延毕到底值不值得？](https://www.zhihu.com/question/606719187)<br />
 
 > 百度  
 
