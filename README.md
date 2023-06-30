@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 00:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 00:10:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [韩媒网暴中国女篮韩籍教练](https://www.baidu.com/s?wd=%E9%9F%A9%E5%AA%92%E7%BD%91%E6%9A%B4%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E9%9F%A9%E7%B1%8D%E6%95%99%E7%BB%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [消失的她票根隐藏款是陈思诚](https://www.baidu.com/s?wd=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%A0%B9%E9%9A%90%E8%97%8F%E6%AC%BE%E6%98%AF%E9%99%88%E6%80%9D%E8%AF%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [中方：印尼需调查情侣命案作案动机](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%EF%BC%9A%E5%8D%B0%E5%B0%BC%E9%9C%80%E8%B0%83%E6%9F%A5%E6%83%85%E4%BE%A3%E5%91%BD%E6%A1%88%E4%BD%9C%E6%A1%88%E5%8A%A8%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [山东大学拟聘用2名硕士为寓管](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%A4%A7%E5%AD%A6%E6%8B%9F%E8%81%98%E7%94%A82%E5%90%8D%E7%A1%95%E5%A3%AB%E4%B8%BA%E5%AF%93%E7%AE%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [邯郸3名小学生在河渠不幸溺亡](https://www.baidu.com/s?wd=%E9%82%AF%E9%83%B83%E5%90%8D%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%9C%A8%E6%B2%B3%E6%B8%A0%E4%B8%8D%E5%B9%B8%E6%BA%BA%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [韩媒网暴中国女篮韩籍教练](https://www.baidu.com/s?wd=%E9%9F%A9%E5%AA%92%E7%BD%91%E6%9A%B4%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E9%9F%A9%E7%B1%8D%E6%95%99%E7%BB%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [消失的她票根隐藏款是陈思诚](https://www.baidu.com/s?wd=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%A0%B9%E9%9A%90%E8%97%8F%E6%AC%BE%E6%98%AF%E9%99%88%E6%80%9D%E8%AF%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [中方：印尼需调查情侣命案作案动机](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%EF%BC%9A%E5%8D%B0%E5%B0%BC%E9%9C%80%E8%B0%83%E6%9F%A5%E6%83%85%E4%BE%A3%E5%91%BD%E6%A1%88%E4%BD%9C%E6%A1%88%E5%8A%A8%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [山东大学拟聘用2名硕士为寓管](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%A4%A7%E5%AD%A6%E6%8B%9F%E8%81%98%E7%94%A82%E5%90%8D%E7%A1%95%E5%A3%AB%E4%B8%BA%E5%AF%93%E7%AE%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [邯郸3名小学生在河渠不幸溺亡](https://www.baidu.com/s?wd=%E9%82%AF%E9%83%B83%E5%90%8D%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%9C%A8%E6%B2%B3%E6%B8%A0%E4%B8%8D%E5%B9%B8%E6%BA%BA%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
