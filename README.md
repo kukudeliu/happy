@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 22:00:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-06-30 22:01:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [胖东来](https://s.weibo.com/weibo?q=%E8%83%96%E4%B8%9C%E6%9D%A5&t=31&band_rank=6&Refer=top)<br />
 7. [男子高铁站持刀刺2人致1死](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%AB%98%E9%93%81%E7%AB%99%E6%8C%81%E5%88%80%E5%88%BA2%E4%BA%BA%E8%87%B41%E6%AD%BB%23&t=31&band_rank=7&Refer=top)<br />
 8. [赵露思宋轶全都白干](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%AE%8B%E8%BD%B6%E5%85%A8%E9%83%BD%E7%99%BD%E5%B9%B2%23&t=31&band_rank=8&Refer=top)<br />
-9. [跳楼遭围观起哄男子已身亡](https://s.weibo.com/weibo?q=%23%E8%B7%B3%E6%A5%BC%E9%81%AD%E5%9B%B4%E8%A7%82%E8%B5%B7%E5%93%84%E7%94%B7%E5%AD%90%E5%B7%B2%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
+9. [泰坦号失事前水下短信通信记录](https://s.weibo.com/weibo?q=%E6%B3%B0%E5%9D%A6%E5%8F%B7%E5%A4%B1%E4%BA%8B%E5%89%8D%E6%B0%B4%E4%B8%8B%E7%9F%AD%E4%BF%A1%E9%80%9A%E4%BF%A1%E8%AE%B0%E5%BD%95&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
