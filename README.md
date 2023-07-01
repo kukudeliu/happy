@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 21:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 21:10:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [消失的她](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9&t=31&band_rank=6&Refer=top)<br />
 7. [金曲奖](https://s.weibo.com/weibo?q=%E9%87%91%E6%9B%B2%E5%A5%96&t=31&band_rank=7&Refer=top)<br />
 8. [法国骚乱已蔓延到邻国比利时](https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E9%AA%9A%E4%B9%B1%E5%B7%B2%E8%94%93%E5%BB%B6%E5%88%B0%E9%82%BB%E5%9B%BD%E6%AF%94%E5%88%A9%E6%97%B6%23&t=31&band_rank=8&Refer=top)<br />
-9. [鹿晗演唱会给粉丝送Gucci](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%BC%94%E5%94%B1%E4%BC%9A%E7%BB%99%E7%B2%89%E4%B8%9D%E9%80%81Gucci%23&t=31&band_rank=9&Refer=top)<br />
+9. [慷慨病](https://s.weibo.com/weibo?q=%E6%85%B7%E6%85%A8%E7%97%85&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -31,10 +31,10 @@
 3. [法国马赛最大图书馆被烧毁](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E9%A9%AC%E8%B5%9B%E6%9C%80%E5%A4%A7%E5%9B%BE%E4%B9%A6%E9%A6%86%E8%A2%AB%E7%83%A7%E6%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [2023年暑运正式启动](https://www.baidu.com/s?wd=2023%E5%B9%B4%E6%9A%91%E8%BF%90%E6%AD%A3%E5%BC%8F%E5%90%AF%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [国防科大回应近期网络传闻](https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E7%A7%91%E5%A4%A7%E5%9B%9E%E5%BA%94%E8%BF%91%E6%9C%9F%E7%BD%91%E7%BB%9C%E4%BC%A0%E9%97%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [范玮琪演唱会遭网友抵制](https://www.baidu.com/s?wd=%E8%8C%83%E7%8E%AE%E7%90%AA%E6%BC%94%E5%94%B1%E4%BC%9A%E9%81%AD%E7%BD%91%E5%8F%8B%E6%8A%B5%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [知情人:杀害女子“书法家”自缢身亡](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%3A%E6%9D%80%E5%AE%B3%E5%A5%B3%E5%AD%90%E2%80%9C%E4%B9%A6%E6%B3%95%E5%AE%B6%E2%80%9D%E8%87%AA%E7%BC%A2%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [法国骚乱已蔓延到邻国比利时](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E9%AA%9A%E4%B9%B1%E5%B7%B2%E8%94%93%E5%BB%B6%E5%88%B0%E9%82%BB%E5%9B%BD%E6%AF%94%E5%88%A9%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [杨颖工作室改名刘瑕心理工作室](https://www.baidu.com/s?wd=%E6%9D%A8%E9%A2%96%E5%B7%A5%E4%BD%9C%E5%AE%A4%E6%94%B9%E5%90%8D%E5%88%98%E7%91%95%E5%BF%83%E7%90%86%E5%B7%A5%E4%BD%9C%E5%AE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子外出干活遇超大菌子](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%A4%96%E5%87%BA%E5%B9%B2%E6%B4%BB%E9%81%87%E8%B6%85%E5%A4%A7%E8%8F%8C%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [徐佳莹金曲奖最佳作曲人](https://www.baidu.com/s?wd=%E5%BE%90%E4%BD%B3%E8%8E%B9%E9%87%91%E6%9B%B2%E5%A5%96%E6%9C%80%E4%BD%B3%E4%BD%9C%E6%9B%B2%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [达利园等品牌母公司将私有化退市](https://www.baidu.com/s?wd=%E8%BE%BE%E5%88%A9%E5%9B%AD%E7%AD%89%E5%93%81%E7%89%8C%E6%AF%8D%E5%85%AC%E5%8F%B8%E5%B0%86%E7%A7%81%E6%9C%89%E5%8C%96%E9%80%80%E5%B8%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [法国马赛最大图书馆被烧毁](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E9%A9%AC%E8%B5%9B%E6%9C%80%E5%A4%A7%E5%9B%BE%E4%B9%A6%E9%A6%86%E8%A2%AB%E7%83%A7%E6%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [2023年暑运正式启动](https://www.baidu.com/s?wd=2023%E5%B9%B4%E6%9A%91%E8%BF%90%E6%AD%A3%E5%BC%8F%E5%90%AF%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [国防科大回应近期网络传闻](https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E7%A7%91%E5%A4%A7%E5%9B%9E%E5%BA%94%E8%BF%91%E6%9C%9F%E7%BD%91%E7%BB%9C%E4%BC%A0%E9%97%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [范玮琪演唱会遭网友抵制](https://www.baidu.com/s?wd=%E8%8C%83%E7%8E%AE%E7%90%AA%E6%BC%94%E5%94%B1%E4%BC%9A%E9%81%AD%E7%BD%91%E5%8F%8B%E6%8A%B5%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [知情人:杀害女子“书法家”自缢身亡](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%3A%E6%9D%80%E5%AE%B3%E5%A5%B3%E5%AD%90%E2%80%9C%E4%B9%A6%E6%B3%95%E5%AE%B6%E2%80%9D%E8%87%AA%E7%BC%A2%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [法国骚乱已蔓延到邻国比利时](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E9%AA%9A%E4%B9%B1%E5%B7%B2%E8%94%93%E5%BB%B6%E5%88%B0%E9%82%BB%E5%9B%BD%E6%AF%94%E5%88%A9%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [杨颖工作室改名刘瑕心理工作室](https://www.baidu.com/s?wd=%E6%9D%A8%E9%A2%96%E5%B7%A5%E4%BD%9C%E5%AE%A4%E6%94%B9%E5%90%8D%E5%88%98%E7%91%95%E5%BF%83%E7%90%86%E5%B7%A5%E4%BD%9C%E5%AE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子外出干活遇超大菌子](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%A4%96%E5%87%BA%E5%B9%B2%E6%B4%BB%E9%81%87%E8%B6%85%E5%A4%A7%E8%8F%8C%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [徐佳莹金曲奖最佳作曲人](https://www.baidu.com/s?wd=%E5%BE%90%E4%BD%B3%E8%8E%B9%E9%87%91%E6%9B%B2%E5%A5%96%E6%9C%80%E4%BD%B3%E4%BD%9C%E6%9B%B2%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [达利园等品牌母公司将私有化退市](https://www.baidu.com/s?wd=%E8%BE%BE%E5%88%A9%E5%9B%AD%E7%AD%89%E5%93%81%E7%89%8C%E6%AF%8D%E5%85%AC%E5%8F%B8%E5%B0%86%E7%A7%81%E6%9C%89%E5%8C%96%E9%80%80%E5%B8%82&sa=fyb_news&rsv_dl=fyb_news)<br />
