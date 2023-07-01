@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 18:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 18:49:01</h4></div>
 
 > 微博  
 
@@ -31,10 +31,10 @@
 3. [法国马赛最大图书馆被烧毁](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E9%A9%AC%E8%B5%9B%E6%9C%80%E5%A4%A7%E5%9B%BE%E4%B9%A6%E9%A6%86%E8%A2%AB%E7%83%A7%E6%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [2023年暑运正式启动](https://www.baidu.com/s?wd=2023%E5%B9%B4%E6%9A%91%E8%BF%90%E6%AD%A3%E5%BC%8F%E5%90%AF%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [杀害女子后潜逃的“书法家”已死亡](https://www.baidu.com/s?wd=%E6%9D%80%E5%AE%B3%E5%A5%B3%E5%AD%90%E5%90%8E%E6%BD%9C%E9%80%83%E7%9A%84%E2%80%9C%E4%B9%A6%E6%B3%95%E5%AE%B6%E2%80%9D%E5%B7%B2%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [杨颖工作室改名刘瑕心理工作室](https://www.baidu.com/s?wd=%E6%9D%A8%E9%A2%96%E5%B7%A5%E4%BD%9C%E5%AE%A4%E6%94%B9%E5%90%8D%E5%88%98%E7%91%95%E5%BF%83%E7%90%86%E5%B7%A5%E4%BD%9C%E5%AE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [娄艺潇自曝体重快120斤](https://www.baidu.com/s?wd=%E5%A8%84%E8%89%BA%E6%BD%87%E8%87%AA%E6%9B%9D%E4%BD%93%E9%87%8D%E5%BF%AB120%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子驾车操作不当冲撞人群致9伤](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%A9%BE%E8%BD%A6%E6%93%8D%E4%BD%9C%E4%B8%8D%E5%BD%93%E5%86%B2%E6%92%9E%E4%BA%BA%E7%BE%A4%E8%87%B49%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [三甲医院又现“塌方式”腐败](https://www.baidu.com/s?wd=%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2%E5%8F%88%E7%8E%B0%E2%80%9C%E5%A1%8C%E6%96%B9%E5%BC%8F%E2%80%9D%E8%85%90%E8%B4%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [娄艺潇自曝体重快120斤](https://www.baidu.com/s?wd=%E5%A8%84%E8%89%BA%E6%BD%87%E8%87%AA%E6%9B%9D%E4%BD%93%E9%87%8D%E5%BF%AB120%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [杨颖工作室改名刘瑕心理工作室](https://www.baidu.com/s?wd=%E6%9D%A8%E9%A2%96%E5%B7%A5%E4%BD%9C%E5%AE%A4%E6%94%B9%E5%90%8D%E5%88%98%E7%91%95%E5%BF%83%E7%90%86%E5%B7%A5%E4%BD%9C%E5%AE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [钻石价格大跳水 今年已跌6.5%](https://www.baidu.com/s?wd=%E9%92%BB%E7%9F%B3%E4%BB%B7%E6%A0%BC%E5%A4%A7%E8%B7%B3%E6%B0%B4+%E4%BB%8A%E5%B9%B4%E5%B7%B2%E8%B7%8C6.5%25&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [雷公与儿子见面时间确认](https://www.baidu.com/s?wd=%E9%9B%B7%E5%85%AC%E4%B8%8E%E5%84%BF%E5%AD%90%E8%A7%81%E9%9D%A2%E6%97%B6%E9%97%B4%E7%A1%AE%E8%AE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [法国马赛最大图书馆被烧毁](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E9%A9%AC%E8%B5%9B%E6%9C%80%E5%A4%A7%E5%9B%BE%E4%B9%A6%E9%A6%86%E8%A2%AB%E7%83%A7%E6%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [2023年暑运正式启动](https://www.baidu.com/s?wd=2023%E5%B9%B4%E6%9A%91%E8%BF%90%E6%AD%A3%E5%BC%8F%E5%90%AF%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [杀害女子后潜逃的“书法家”已死亡](https://www.baidu.com/s?wd=%E6%9D%80%E5%AE%B3%E5%A5%B3%E5%AD%90%E5%90%8E%E6%BD%9C%E9%80%83%E7%9A%84%E2%80%9C%E4%B9%A6%E6%B3%95%E5%AE%B6%E2%80%9D%E5%B7%B2%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [杨颖工作室改名刘瑕心理工作室](https://www.baidu.com/s?wd=%E6%9D%A8%E9%A2%96%E5%B7%A5%E4%BD%9C%E5%AE%A4%E6%94%B9%E5%90%8D%E5%88%98%E7%91%95%E5%BF%83%E7%90%86%E5%B7%A5%E4%BD%9C%E5%AE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [娄艺潇自曝体重快120斤](https://www.baidu.com/s?wd=%E5%A8%84%E8%89%BA%E6%BD%87%E8%87%AA%E6%9B%9D%E4%BD%93%E9%87%8D%E5%BF%AB120%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子驾车操作不当冲撞人群致9伤](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%A9%BE%E8%BD%A6%E6%93%8D%E4%BD%9C%E4%B8%8D%E5%BD%93%E5%86%B2%E6%92%9E%E4%BA%BA%E7%BE%A4%E8%87%B49%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [三甲医院又现“塌方式”腐败](https://www.baidu.com/s?wd=%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2%E5%8F%88%E7%8E%B0%E2%80%9C%E5%A1%8C%E6%96%B9%E5%BC%8F%E2%80%9D%E8%85%90%E8%B4%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [娄艺潇自曝体重快120斤](https://www.baidu.com/s?wd=%E5%A8%84%E8%89%BA%E6%BD%87%E8%87%AA%E6%9B%9D%E4%BD%93%E9%87%8D%E5%BF%AB120%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [杨颖工作室改名刘瑕心理工作室](https://www.baidu.com/s?wd=%E6%9D%A8%E9%A2%96%E5%B7%A5%E4%BD%9C%E5%AE%A4%E6%94%B9%E5%90%8D%E5%88%98%E7%91%95%E5%BF%83%E7%90%86%E5%B7%A5%E4%BD%9C%E5%AE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [钻石价格大跳水 今年已跌6.5%](https://www.baidu.com/s?wd=%E9%92%BB%E7%9F%B3%E4%BB%B7%E6%A0%BC%E5%A4%A7%E8%B7%B3%E6%B0%B4+%E4%BB%8A%E5%B9%B4%E5%B7%B2%E8%B7%8C6.5%25&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [雷公与儿子见面时间确认](https://www.baidu.com/s?wd=%E9%9B%B7%E5%85%AC%E4%B8%8E%E5%84%BF%E5%AD%90%E8%A7%81%E9%9D%A2%E6%97%B6%E9%97%B4%E7%A1%AE%E8%AE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
