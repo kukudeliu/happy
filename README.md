@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 05:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 05:03:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [2023 LPL 夏季赛 JDG 2:0 UP，如何评价这场比赛？](https://www.zhihu.com/question/609792660)<br />
 7. [996 和高三哪个更痛苦？](https://www.zhihu.com/question/605620273)<br />
 8. [如何评价《崩坏：星穹铁道》1.1 版本彦卿同行任务「霜刃一试」?](https://www.zhihu.com/question/609476391)<br />
-9. [亚马逊公司旗下 Kindle 中国电子书店停止运营，已启动退款程序，为何 Kindle 退出中国市场？](https://www.zhihu.com/question/609622371)<br />
+9. [高考结束了，马上要步入大学校门了，有什么比较适合大学生的笔记本电脑？](https://www.zhihu.com/question/606656875)<br />
 
 > 百度  
 
@@ -34,7 +34,7 @@
 6. [ALin陪跑5次首封金曲歌后](https://www.baidu.com/s?wd=ALin%E9%99%AA%E8%B7%915%E6%AC%A1%E9%A6%96%E5%B0%81%E9%87%91%E6%9B%B2%E6%AD%8C%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [三甲医院又现“塌方式”腐败](https://www.baidu.com/s?wd=%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2%E5%8F%88%E7%8E%B0%E2%80%9C%E5%A1%8C%E6%96%B9%E5%BC%8F%E2%80%9D%E8%85%90%E8%B4%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [郑州男子当街刺伤女子 警方回应](https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E7%94%B7%E5%AD%90%E5%BD%93%E8%A1%97%E5%88%BA%E4%BC%A4%E5%A5%B3%E5%AD%90+%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [Angelababy 这是我结婚的地方](https://www.baidu.com/s?wd=Angelababy+%E8%BF%99%E6%98%AF%E6%88%91%E7%BB%93%E5%A9%9A%E7%9A%84%E5%9C%B0%E6%96%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [杀害女子后潜逃的“书法家”已死亡](https://www.baidu.com/s?wd=%E6%9D%80%E5%AE%B3%E5%A5%B3%E5%AD%90%E5%90%8E%E6%BD%9C%E9%80%83%E7%9A%84%E2%80%9C%E4%B9%A6%E6%B3%95%E5%AE%B6%E2%80%9D%E5%B7%B2%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [ALin陪跑5次首封金曲歌后](https://www.baidu.com/s?wd=ALin%E9%99%AA%E8%B7%915%E6%AC%A1%E9%A6%96%E5%B0%81%E9%87%91%E6%9B%B2%E6%AD%8C%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [三甲医院又现“塌方式”腐败](https://www.baidu.com/s?wd=%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2%E5%8F%88%E7%8E%B0%E2%80%9C%E5%A1%8C%E6%96%B9%E5%BC%8F%E2%80%9D%E8%85%90%E8%B4%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [郑州男子当街刺伤女子 警方回应](https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E7%94%B7%E5%AD%90%E5%BD%93%E8%A1%97%E5%88%BA%E4%BC%A4%E5%A5%B3%E5%AD%90+%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [Angelababy 这是我结婚的地方](https://www.baidu.com/s?wd=Angelababy+%E8%BF%99%E6%98%AF%E6%88%91%E7%BB%93%E5%A9%9A%E7%9A%84%E5%9C%B0%E6%96%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [杀害女子后潜逃的“书法家”已死亡](https://www.baidu.com/s?wd=%E6%9D%80%E5%AE%B3%E5%A5%B3%E5%AD%90%E5%90%8E%E6%BD%9C%E9%80%83%E7%9A%84%E2%80%9C%E4%B9%A6%E6%B3%95%E5%AE%B6%E2%80%9D%E5%B7%B2%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
