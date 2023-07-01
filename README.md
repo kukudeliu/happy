@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 16:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 16:59:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [7月狗屎运最旺星座](https://s.weibo.com/weibo?q=%237%E6%9C%88%E7%8B%97%E5%B1%8E%E8%BF%90%E6%9C%80%E6%97%BA%E6%98%9F%E5%BA%A7%23&t=31&band_rank=4&Refer=top)<br />
 5. [何非的保证书是朱一龙写的](https://s.weibo.com/weibo?q=%23%E4%BD%95%E9%9D%9E%E7%9A%84%E4%BF%9D%E8%AF%81%E4%B9%A6%E6%98%AF%E6%9C%B1%E4%B8%80%E9%BE%99%E5%86%99%E7%9A%84%23&t=31&band_rank=5&Refer=top)<br />
 6. [夏目友人帐](https://s.weibo.com/weibo?q=%E5%A4%8F%E7%9B%AE%E5%8F%8B%E4%BA%BA%E5%B8%90&t=31&band_rank=6&Refer=top)<br />
-7. [宋轶骂得我心都化了](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%BD%B6%E9%AA%82%E5%BE%97%E6%88%91%E5%BF%83%E9%83%BD%E5%8C%96%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [李现 这次没有版权问题了](https://s.weibo.com/weibo?q=%E6%9D%8E%E7%8E%B0%20%E8%BF%99%E6%AC%A1%E6%B2%A1%E6%9C%89%E7%89%88%E6%9D%83%E9%97%AE%E9%A2%98%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
+7. [李现 这次没有版权问题了](https://s.weibo.com/weibo?q=%E6%9D%8E%E7%8E%B0%20%E8%BF%99%E6%AC%A1%E6%B2%A1%E6%9C%89%E7%89%88%E6%9D%83%E9%97%AE%E9%A2%98%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
+8. [宋轶骂得我心都化了](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%BD%B6%E9%AA%82%E5%BE%97%E6%88%91%E5%BF%83%E9%83%BD%E5%8C%96%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [白敬亭梁洁邢菲边天扬跳的Queencard](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E6%A2%81%E6%B4%81%E9%82%A2%E8%8F%B2%E8%BE%B9%E5%A4%A9%E6%89%AC%E8%B7%B3%E7%9A%84Queencard%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -31,10 +31,10 @@
 3. [法官辟谣父亲是老赖致女儿710分落榜](https://www.baidu.com/s?wd=%E6%B3%95%E5%AE%98%E8%BE%9F%E8%B0%A3%E7%88%B6%E4%BA%B2%E6%98%AF%E8%80%81%E8%B5%96%E8%87%B4%E5%A5%B3%E5%84%BF710%E5%88%86%E8%90%BD%E6%A6%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [2023年暑运正式启动](https://www.baidu.com/s?wd=2023%E5%B9%B4%E6%9A%91%E8%BF%90%E6%AD%A3%E5%BC%8F%E5%90%AF%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [三甲医院又现“塌方式”腐败](https://www.baidu.com/s?wd=%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2%E5%8F%88%E7%8E%B0%E2%80%9C%E5%A1%8C%E6%96%B9%E5%BC%8F%E2%80%9D%E8%85%90%E8%B4%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男子外出干活遇超大菌子](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%A4%96%E5%87%BA%E5%B9%B2%E6%B4%BB%E9%81%87%E8%B6%85%E5%A4%A7%E8%8F%8C%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [一波音777在俄准备起飞时着火](https://www.baidu.com/s?wd=%E4%B8%80%E6%B3%A2%E9%9F%B3777%E5%9C%A8%E4%BF%84%E5%87%86%E5%A4%87%E8%B5%B7%E9%A3%9E%E6%97%B6%E7%9D%80%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [江西一化工厂起火 官方：无伤亡](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E4%B8%80%E5%8C%96%E5%B7%A5%E5%8E%82%E8%B5%B7%E7%81%AB+%E5%AE%98%E6%96%B9%EF%BC%9A%E6%97%A0%E4%BC%A4%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [奔跑吧节目封面大写我太难了](https://www.baidu.com/s?wd=%E5%A5%94%E8%B7%91%E5%90%A7%E8%8A%82%E7%9B%AE%E5%B0%81%E9%9D%A2%E5%A4%A7%E5%86%99%E6%88%91%E5%A4%AA%E9%9A%BE%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [14岁女孩500元卖头发被商贩剪坏](https://www.baidu.com/s?wd=14%E5%B2%81%E5%A5%B3%E5%AD%A9500%E5%85%83%E5%8D%96%E5%A4%B4%E5%8F%91%E8%A2%AB%E5%95%86%E8%B4%A9%E5%89%AA%E5%9D%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子外出干活遇超大菌子](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%A4%96%E5%87%BA%E5%B9%B2%E6%B4%BB%E9%81%87%E8%B6%85%E5%A4%A7%E8%8F%8C%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [奔跑吧节目封面大写我太难了](https://www.baidu.com/s?wd=%E5%A5%94%E8%B7%91%E5%90%A7%E8%8A%82%E7%9B%AE%E5%B0%81%E9%9D%A2%E5%A4%A7%E5%86%99%E6%88%91%E5%A4%AA%E9%9A%BE%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [法官辟谣父亲是老赖致女儿710分落榜](https://www.baidu.com/s?wd=%E6%B3%95%E5%AE%98%E8%BE%9F%E8%B0%A3%E7%88%B6%E4%BA%B2%E6%98%AF%E8%80%81%E8%B5%96%E8%87%B4%E5%A5%B3%E5%84%BF710%E5%88%86%E8%90%BD%E6%A6%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [2023年暑运正式启动](https://www.baidu.com/s?wd=2023%E5%B9%B4%E6%9A%91%E8%BF%90%E6%AD%A3%E5%BC%8F%E5%90%AF%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [三甲医院又现“塌方式”腐败](https://www.baidu.com/s?wd=%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2%E5%8F%88%E7%8E%B0%E2%80%9C%E5%A1%8C%E6%96%B9%E5%BC%8F%E2%80%9D%E8%85%90%E8%B4%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男子外出干活遇超大菌子](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%A4%96%E5%87%BA%E5%B9%B2%E6%B4%BB%E9%81%87%E8%B6%85%E5%A4%A7%E8%8F%8C%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [一波音777在俄准备起飞时着火](https://www.baidu.com/s?wd=%E4%B8%80%E6%B3%A2%E9%9F%B3777%E5%9C%A8%E4%BF%84%E5%87%86%E5%A4%87%E8%B5%B7%E9%A3%9E%E6%97%B6%E7%9D%80%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [江西一化工厂起火 官方：无伤亡](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E4%B8%80%E5%8C%96%E5%B7%A5%E5%8E%82%E8%B5%B7%E7%81%AB+%E5%AE%98%E6%96%B9%EF%BC%9A%E6%97%A0%E4%BC%A4%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [奔跑吧节目封面大写我太难了](https://www.baidu.com/s?wd=%E5%A5%94%E8%B7%91%E5%90%A7%E8%8A%82%E7%9B%AE%E5%B0%81%E9%9D%A2%E5%A4%A7%E5%86%99%E6%88%91%E5%A4%AA%E9%9A%BE%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [14岁女孩500元卖头发被商贩剪坏](https://www.baidu.com/s?wd=14%E5%B2%81%E5%A5%B3%E5%AD%A9500%E5%85%83%E5%8D%96%E5%A4%B4%E5%8F%91%E8%A2%AB%E5%95%86%E8%B4%A9%E5%89%AA%E5%9D%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子外出干活遇超大菌子](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%A4%96%E5%87%BA%E5%B9%B2%E6%B4%BB%E9%81%87%E8%B6%85%E5%A4%A7%E8%8F%8C%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [奔跑吧节目封面大写我太难了](https://www.baidu.com/s?wd=%E5%A5%94%E8%B7%91%E5%90%A7%E8%8A%82%E7%9B%AE%E5%B0%81%E9%9D%A2%E5%A4%A7%E5%86%99%E6%88%91%E5%A4%AA%E9%9A%BE%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
