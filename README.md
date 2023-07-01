@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 15:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 15:36:01</h4></div>
 
 > 微博  
 
-1. [江西一化工厂爆炸](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E4%B8%80%E5%8C%96%E5%B7%A5%E5%8E%82%E7%88%86%E7%82%B8%23&t=31&band_rank=1&Refer=top)<br />
-2. [刘宇宁王子文 蝉女](https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%E7%8E%8B%E5%AD%90%E6%96%87%20%E8%9D%89%E5%A5%B3&t=31&band_rank=2&Refer=top)<br />
+1. [刘宇宁王子文 蝉女](https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%E7%8E%8B%E5%AD%90%E6%96%87%20%E8%9D%89%E5%A5%B3&t=31&band_rank=1&Refer=top)<br />
+2. [江西一化工厂爆炸](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E4%B8%80%E5%8C%96%E5%B7%A5%E5%8E%82%E7%88%86%E7%82%B8%23&t=31&band_rank=2&Refer=top)<br />
 3. [香港回归这一刻再看依然心潮澎湃](https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%9B%9E%E5%BD%92%E8%BF%99%E4%B8%80%E5%88%BB%E5%86%8D%E7%9C%8B%E4%BE%9D%E7%84%B6%E5%BF%83%E6%BD%AE%E6%BE%8E%E6%B9%83%23&t=31&band_rank=3&Refer=top)<br />
 4. [李现 这次没有版权问题了](https://s.weibo.com/weibo?q=%E6%9D%8E%E7%8E%B0%20%E8%BF%99%E6%AC%A1%E6%B2%A1%E6%9C%89%E7%89%88%E6%9D%83%E9%97%AE%E9%A2%98%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
 5. [7月狗屎运最旺星座](https://s.weibo.com/weibo?q=%237%E6%9C%88%E7%8B%97%E5%B1%8E%E8%BF%90%E6%9C%80%E6%97%BA%E6%98%9F%E5%BA%A7%23&t=31&band_rank=5&Refer=top)<br />
