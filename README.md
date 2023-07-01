@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 15:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 15:22:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [夏目友人帐](https://s.weibo.com/weibo?q=%E5%A4%8F%E7%9B%AE%E5%8F%8B%E4%BA%BA%E5%B8%90&t=31&band_rank=6&Refer=top)<br />
 7. [素颜的杨幂](https://s.weibo.com/weibo?q=%23%E7%B4%A0%E9%A2%9C%E7%9A%84%E6%9D%A8%E5%B9%82%23&t=31&band_rank=7&Refer=top)<br />
 8. [Angelababy 这是我结婚的地方](https://s.weibo.com/weibo?q=%23Angelababy%20%E8%BF%99%E6%98%AF%E6%88%91%E7%BB%93%E5%A9%9A%E7%9A%84%E5%9C%B0%E6%96%B9%23&t=31&band_rank=8&Refer=top)<br />
-9. [江西杀害3名小孩嫌疑人被抓获](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E6%9D%80%E5%AE%B33%E5%90%8D%E5%B0%8F%E5%AD%A9%E5%AB%8C%E7%96%91%E4%BA%BA%E8%A2%AB%E6%8A%93%E8%8E%B7%23&t=31&band_rank=9&Refer=top)<br />
+9. [允许带孩子上班的单位太幸福了](https://s.weibo.com/weibo?q=%23%E5%85%81%E8%AE%B8%E5%B8%A6%E5%AD%A9%E5%AD%90%E4%B8%8A%E7%8F%AD%E7%9A%84%E5%8D%95%E4%BD%8D%E5%A4%AA%E5%B9%B8%E7%A6%8F%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
