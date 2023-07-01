@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 15:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 15:14:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [曝蔡徐坤事件或涉及未成年](https://www.baidu.com/s?wd=%E6%9B%9D%E8%94%A1%E5%BE%90%E5%9D%A4%E4%BA%8B%E4%BB%B6%E6%88%96%E6%B6%89%E5%8F%8A%E6%9C%AA%E6%88%90%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [Angelababy 这是我结婚的地方](https://www.baidu.com/s?wd=Angelababy+%E8%BF%99%E6%98%AF%E6%88%91%E7%BB%93%E5%A9%9A%E7%9A%84%E5%9C%B0%E6%96%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子带娃乘车被挤强坐女乘客腿上](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%B8%A6%E5%A8%83%E4%B9%98%E8%BD%A6%E8%A2%AB%E6%8C%A4%E5%BC%BA%E5%9D%90%E5%A5%B3%E4%B9%98%E5%AE%A2%E8%85%BF%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [泰国女游客卷入电动步道腿被夹断](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E5%A5%B3%E6%B8%B8%E5%AE%A2%E5%8D%B7%E5%85%A5%E7%94%B5%E5%8A%A8%E6%AD%A5%E9%81%93%E8%85%BF%E8%A2%AB%E5%A4%B9%E6%96%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [钻石价格大跳水 今年已跌6.5%](https://www.baidu.com/s?wd=%E9%92%BB%E7%9F%B3%E4%BB%B7%E6%A0%BC%E5%A4%A7%E8%B7%B3%E6%B0%B4+%E4%BB%8A%E5%B9%B4%E5%B7%B2%E8%B7%8C6.5%25&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [曝蔡徐坤事件或涉及未成年](https://www.baidu.com/s?wd=%E6%9B%9D%E8%94%A1%E5%BE%90%E5%9D%A4%E4%BA%8B%E4%BB%B6%E6%88%96%E6%B6%89%E5%8F%8A%E6%9C%AA%E6%88%90%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [Angelababy 这是我结婚的地方](https://www.baidu.com/s?wd=Angelababy+%E8%BF%99%E6%98%AF%E6%88%91%E7%BB%93%E5%A9%9A%E7%9A%84%E5%9C%B0%E6%96%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子带娃乘车被挤强坐女乘客腿上](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%B8%A6%E5%A8%83%E4%B9%98%E8%BD%A6%E8%A2%AB%E6%8C%A4%E5%BC%BA%E5%9D%90%E5%A5%B3%E4%B9%98%E5%AE%A2%E8%85%BF%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [泰国女游客卷入电动步道腿被夹断](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E5%A5%B3%E6%B8%B8%E5%AE%A2%E5%8D%B7%E5%85%A5%E7%94%B5%E5%8A%A8%E6%AD%A5%E9%81%93%E8%85%BF%E8%A2%AB%E5%A4%B9%E6%96%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [钻石价格大跳水 今年已跌6.5%](https://www.baidu.com/s?wd=%E9%92%BB%E7%9F%B3%E4%BB%B7%E6%A0%BC%E5%A4%A7%E8%B7%B3%E6%B0%B4+%E4%BB%8A%E5%B9%B4%E5%B7%B2%E8%B7%8C6.5%25&sa=fyb_news&rsv_dl=fyb_news)<br />
