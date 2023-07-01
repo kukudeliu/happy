@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 16:37:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 16:38:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [七一勋章获得者的事迹有多感人](https://s.weibo.com/weibo?q=%23%E4%B8%83%E4%B8%80%E5%8B%8B%E7%AB%A0%E8%8E%B7%E5%BE%97%E8%80%85%E7%9A%84%E4%BA%8B%E8%BF%B9%E6%9C%89%E5%A4%9A%E6%84%9F%E4%BA%BA%23&t=31&band_rank=3&Refer=top)<br />
 4. [7月狗屎运最旺星座](https://s.weibo.com/weibo?q=%237%E6%9C%88%E7%8B%97%E5%B1%8E%E8%BF%90%E6%9C%80%E6%97%BA%E6%98%9F%E5%BA%A7%23&t=31&band_rank=4&Refer=top)<br />
 5. [李现 这次没有版权问题了](https://s.weibo.com/weibo?q=%E6%9D%8E%E7%8E%B0%20%E8%BF%99%E6%AC%A1%E6%B2%A1%E6%9C%89%E7%89%88%E6%9D%83%E9%97%AE%E9%A2%98%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
-6. [江西一化工厂爆炸](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E4%B8%80%E5%8C%96%E5%B7%A5%E5%8E%82%E7%88%86%E7%82%B8%23&t=31&band_rank=6&Refer=top)<br />
-7. [宋轶骂得我心都化了](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%BD%B6%E9%AA%82%E5%BE%97%E6%88%91%E5%BF%83%E9%83%BD%E5%8C%96%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+6. [宋轶骂得我心都化了](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%BD%B6%E9%AA%82%E5%BE%97%E6%88%91%E5%BF%83%E9%83%BD%E5%8C%96%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
+7. [江西一化工厂爆炸](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E4%B8%80%E5%8C%96%E5%B7%A5%E5%8E%82%E7%88%86%E7%82%B8%23&t=31&band_rank=7&Refer=top)<br />
 8. [何非的保证书是朱一龙写的](https://s.weibo.com/weibo?q=%23%E4%BD%95%E9%9D%9E%E7%9A%84%E4%BF%9D%E8%AF%81%E4%B9%A6%E6%98%AF%E6%9C%B1%E4%B8%80%E9%BE%99%E5%86%99%E7%9A%84%23&t=31&band_rank=8&Refer=top)<br />
 9. [夏目友人帐](https://s.weibo.com/weibo?q=%E5%A4%8F%E7%9B%AE%E5%8F%8B%E4%BA%BA%E5%B8%90&t=31&band_rank=9&Refer=top)<br />
 
@@ -18,8 +18,8 @@
 2. [读了 17 年高中的唐尚珺今年高考 594 分，并决定去读大学，如何评价唐尚珺「多年高考」的行为？](https://www.zhihu.com/question/609651139)<br />
 3. [美国一季度 GDP 终值出现罕见大幅上修，这意味着什么？](https://www.zhihu.com/question/609552412)<br />
 4. [亚马逊公司旗下 Kindle 中国电子书店停止运营，已启动退款程序，为何 Kindle 退出中国市场？](https://www.zhihu.com/question/609622371)<br />
-5. [如何看待山河四省学子在网上自建山河大学？](https://www.zhihu.com/question/609297089)<br />
-6. [消息称小米印度正在进行大规模裁员，官方回应「根据市场和业务情况对员工数量进行规划」，哪些信息值得关注？](https://www.zhihu.com/question/609615935)<br />
+5. [消息称小米印度正在进行大规模裁员，官方回应「根据市场和业务情况对员工数量进行规划」，哪些信息值得关注？](https://www.zhihu.com/question/609615935)<br />
+6. [如何看待山河四省学子在网上自建山河大学？](https://www.zhihu.com/question/609297089)<br />
 7. [庞贝古城遗址发现疑似披萨壁画，引发披萨起源与口味之争，如何看待这轮「披萨正统」争议？](https://www.zhihu.com/question/609283104)<br />
 8. [报告称德国 2022 年资本外逃创纪录，净流出量 1250 亿欧元，或已开启去工业化进程，将有何影响？](https://www.zhihu.com/question/609749272)<br />
 9. [996 和高三哪个更痛苦？](https://www.zhihu.com/question/605620273)<br />
