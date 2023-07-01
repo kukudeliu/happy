@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 06:34:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 06:35:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [消息称小米印度正在进行大规模裁员，官方回应「根据市场和业务情况对员工数量进行规划」，哪些信息值得关注？](https://www.zhihu.com/question/609615935)<br />
 6. [为什么「加」「恰」「霞」三个字的拼音分别是 jiā、 qià、 xiá，而不是 jā、 qà、 xá？](https://www.zhihu.com/question/609163323)<br />
 7. [如何看待吃自助餐先拿一盘蛋炒饭这种行为？](https://www.zhihu.com/question/440916537)<br />
-8. [如何评价《崩坏：星穹铁道》1.1 版本彦卿同行任务「霜刃一试」?](https://www.zhihu.com/question/609476391)<br />
-9. [大家看完《消失的她》后有什么感受？](https://www.zhihu.com/question/609070712)<br />
+8. [大家看完《消失的她》后有什么感受？](https://www.zhihu.com/question/609070712)<br />
+9. [如何评价《崩坏：星穹铁道》1.1 版本彦卿同行任务「霜刃一试」?](https://www.zhihu.com/question/609476391)<br />
 
 > 百度  
 
