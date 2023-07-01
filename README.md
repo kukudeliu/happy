@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 20:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 20:38:02</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [湖人自由市场首日四笔签约：续约八村塁，签约文森特、普林斯和雷迪什，如评价这些签约？](https://www.zhihu.com/question/609753176)<br />
 7. [大家看完《消失的她》后有什么感受？](https://www.zhihu.com/question/609070712)<br />
 8. [大学生有什么学习网站?](https://www.zhihu.com/question/600134551)<br />
-9. [如何评价《崩坏：星穹铁道》1.1 版本彦卿同行任务「霜刃一试」?](https://www.zhihu.com/question/609476391)<br />
+9. [996 和高三哪个更痛苦？](https://www.zhihu.com/question/605620273)<br />
 
 > 百度  
 
