@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 01:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 01:14:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [ALin陪跑5次首封金曲歌后](https://www.baidu.com/s?wd=ALin%E9%99%AA%E8%B7%915%E6%AC%A1%E9%A6%96%E5%B0%81%E9%87%91%E6%9B%B2%E6%AD%8C%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [义乌脸基尼卖爆了](https://www.baidu.com/s?wd=%E4%B9%89%E4%B9%8C%E8%84%B8%E5%9F%BA%E5%B0%BC%E5%8D%96%E7%88%86%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [陕西黄河壶口瀑布沿线围墙被拆除](https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF%E9%BB%84%E6%B2%B3%E5%A3%B6%E5%8F%A3%E7%80%91%E5%B8%83%E6%B2%BF%E7%BA%BF%E5%9B%B4%E5%A2%99%E8%A2%AB%E6%8B%86%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女生用小喷雾器烫伤男生 高校回应](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E7%94%A8%E5%B0%8F%E5%96%B7%E9%9B%BE%E5%99%A8%E7%83%AB%E4%BC%A4%E7%94%B7%E7%94%9F+%E9%AB%98%E6%A0%A1%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [谷爱凌大一课程全A](https://www.baidu.com/s?wd=%E8%B0%B7%E7%88%B1%E5%87%8C%E5%A4%A7%E4%B8%80%E8%AF%BE%E7%A8%8B%E5%85%A8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [ALin陪跑5次首封金曲歌后](https://www.baidu.com/s?wd=ALin%E9%99%AA%E8%B7%915%E6%AC%A1%E9%A6%96%E5%B0%81%E9%87%91%E6%9B%B2%E6%AD%8C%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [义乌脸基尼卖爆了](https://www.baidu.com/s?wd=%E4%B9%89%E4%B9%8C%E8%84%B8%E5%9F%BA%E5%B0%BC%E5%8D%96%E7%88%86%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [陕西黄河壶口瀑布沿线围墙被拆除](https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF%E9%BB%84%E6%B2%B3%E5%A3%B6%E5%8F%A3%E7%80%91%E5%B8%83%E6%B2%BF%E7%BA%BF%E5%9B%B4%E5%A2%99%E8%A2%AB%E6%8B%86%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女生用小喷雾器烫伤男生 高校回应](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E7%94%A8%E5%B0%8F%E5%96%B7%E9%9B%BE%E5%99%A8%E7%83%AB%E4%BC%A4%E7%94%B7%E7%94%9F+%E9%AB%98%E6%A0%A1%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [谷爱凌大一课程全A](https://www.baidu.com/s?wd=%E8%B0%B7%E7%88%B1%E5%87%8C%E5%A4%A7%E4%B8%80%E8%AF%BE%E7%A8%8B%E5%85%A8A&sa=fyb_news&rsv_dl=fyb_news)<br />
