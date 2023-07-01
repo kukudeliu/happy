@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 08:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 08:44:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [三十岁女生给二十岁女生的建议](https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%8D%81%E5%B2%81%E5%A5%B3%E7%94%9F%E7%BB%99%E4%BA%8C%E5%8D%81%E5%B2%81%E5%A5%B3%E7%94%9F%E7%9A%84%E5%BB%BA%E8%AE%AE%23&t=31&band_rank=6&Refer=top)<br />
 7. [起哄怂恿轻生者跳楼男子被行拘](https://s.weibo.com/weibo?q=%23%E8%B5%B7%E5%93%84%E6%80%82%E6%81%BF%E8%BD%BB%E7%94%9F%E8%80%85%E8%B7%B3%E6%A5%BC%E7%94%B7%E5%AD%90%E8%A2%AB%E8%A1%8C%E6%8B%98%23&t=31&band_rank=7&Refer=top)<br />
 8. [爱奇艺工作人员 白敬亭好好对宋轶](https://s.weibo.com/weibo?q=%E7%88%B1%E5%A5%87%E8%89%BA%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%20%E7%99%BD%E6%95%AC%E4%BA%AD%E5%A5%BD%E5%A5%BD%E5%AF%B9%E5%AE%8B%E8%BD%B6&t=31&band_rank=8&Refer=top)<br />
-9. [章泽天回应拒绝张艺谋演戏](https://s.weibo.com/weibo?q=%23%E7%AB%A0%E6%B3%BD%E5%A4%A9%E5%9B%9E%E5%BA%94%E6%8B%92%E7%BB%9D%E5%BC%A0%E8%89%BA%E8%B0%8B%E6%BC%94%E6%88%8F%23&t=31&band_rank=9&Refer=top)<br />
+9. [法国骚乱](https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD%E9%AA%9A%E4%B9%B1&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -21,8 +21,8 @@
 5. [乌克兰正讨论禁止现金支付，或成首个废除现金国家，号称可减少至少 95% 腐败，这一举措是否合理？](https://www.zhihu.com/question/609605756)<br />
 6. [「网红超市」胖东来 8 页报告调查「顾客与员工争执」，如何看待胖东来的处理结果，你是否满意？](https://www.zhihu.com/question/609604339)<br />
 7. [我打算隐居终南山，用毕生精力探索宇宙人生的真相，我应该带上哪些书？](https://www.zhihu.com/question/604728024)<br />
-8. [越来越多高校开始取消硕士研究生新生奖学金，如何看待此事？取消原因是什么？](https://www.zhihu.com/question/609591751)<br />
-9. [复读这条路难走吗？成功的概率大吗？](https://www.zhihu.com/question/608781797)<br />
+8. []()<br />
+9. [越来越多高校开始取消硕士研究生新生奖学金，如何看待此事？取消原因是什么？](https://www.zhihu.com/question/609591751)<br />
 
 > 百度  
 
