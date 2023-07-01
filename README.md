@@ -1,15 +1,15 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 12:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 12:20:01</h4></div>
 
 > 微博  
 
 1. [Angelababy 这是我结婚的地方](https://s.weibo.com/weibo?q=%23Angelababy%20%E8%BF%99%E6%98%AF%E6%88%91%E7%BB%93%E5%A9%9A%E7%9A%84%E5%9C%B0%E6%96%B9%23&t=31&band_rank=1&Refer=top)<br />
 2. [白敬亭宋轶是不是忘记官宣了](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6%E6%98%AF%E4%B8%8D%E6%98%AF%E5%BF%98%E8%AE%B0%E5%AE%98%E5%AE%A3%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
-3. [高考657分想重新复读一年](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83657%E5%88%86%E6%83%B3%E9%87%8D%E6%96%B0%E5%A4%8D%E8%AF%BB%E4%B8%80%E5%B9%B4%23&t=31&band_rank=3&Refer=top)<br />
+3. [复兴号正式在青藏铁路投入运行](https://s.weibo.com/weibo?q=%23%E5%A4%8D%E5%85%B4%E5%8F%B7%E6%AD%A3%E5%BC%8F%E5%9C%A8%E9%9D%92%E8%97%8F%E9%93%81%E8%B7%AF%E6%8A%95%E5%85%A5%E8%BF%90%E8%A1%8C%23&t=31&band_rank=3&Refer=top)<br />
 4. [曝范玮琪声明是陈建州发的](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E8%8C%83%E7%8E%AE%E7%90%AA%E5%A3%B0%E6%98%8E%E6%98%AF%E9%99%88%E5%BB%BA%E5%B7%9E%E5%8F%91%E7%9A%84%23&t=31&band_rank=4&Refer=top)<br />
-5. [王宝强把张颜齐认成了周杰伦](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%9D%E5%BC%BA%E6%8A%8A%E5%BC%A0%E9%A2%9C%E9%BD%90%E8%AE%A4%E6%88%90%E4%BA%86%E5%91%A8%E6%9D%B0%E4%BC%A6%23&t=31&band_rank=5&Refer=top)<br />
-6. [三十岁女生给二十岁女生的建议](https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%8D%81%E5%B2%81%E5%A5%B3%E7%94%9F%E7%BB%99%E4%BA%8C%E5%8D%81%E5%B2%81%E5%A5%B3%E7%94%9F%E7%9A%84%E5%BB%BA%E8%AE%AE%23&t=31&band_rank=6&Refer=top)<br />
-7. [中国制造在土耳其火了](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E5%9C%A8%E5%9C%9F%E8%80%B3%E5%85%B6%E7%81%AB%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [19970701零时零分零秒](https://s.weibo.com/weibo?q=%2319970701%E9%9B%B6%E6%97%B6%E9%9B%B6%E5%88%86%E9%9B%B6%E7%A7%92%23&t=31&band_rank=8&Refer=top)<br />
+5. [高考657分想重新复读一年](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83657%E5%88%86%E6%83%B3%E9%87%8D%E6%96%B0%E5%A4%8D%E8%AF%BB%E4%B8%80%E5%B9%B4%23&t=31&band_rank=5&Refer=top)<br />
+6. [王宝强把张颜齐认成了周杰伦](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%9D%E5%BC%BA%E6%8A%8A%E5%BC%A0%E9%A2%9C%E9%BD%90%E8%AE%A4%E6%88%90%E4%BA%86%E5%91%A8%E6%9D%B0%E4%BC%A6%23&t=31&band_rank=6&Refer=top)<br />
+7. [19970701零时零分零秒](https://s.weibo.com/weibo?q=%2319970701%E9%9B%B6%E6%97%B6%E9%9B%B6%E5%88%86%E9%9B%B6%E7%A7%92%23&t=31&band_rank=7&Refer=top)<br />
+8. [三十岁女生给二十岁女生的建议](https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%8D%81%E5%B2%81%E5%A5%B3%E7%94%9F%E7%BB%99%E4%BA%8C%E5%8D%81%E5%B2%81%E5%A5%B3%E7%94%9F%E7%9A%84%E5%BB%BA%E8%AE%AE%23&t=31&band_rank=8&Refer=top)<br />
 9. [消失的她票房超人生大事](https://s.weibo.com/weibo?q=%23%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%88%BF%E8%B6%85%E4%BA%BA%E7%94%9F%E5%A4%A7%E4%BA%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -21,7 +21,7 @@
 5. [法国爆发骚乱，苹果被砸店哄抢，两千辆车被烧，政府出动 4.5 万名警察，中使馆提醒防范，目前情况如何？](https://www.zhihu.com/question/609749253)<br />
 6. [胡锡进谈炒股心得，称「扳回 664 元下周继续增持股票」，如何看待胡锡进炒股进展？](https://www.zhihu.com/question/609622563)<br />
 7. [携程宣布投入 10 亿元鼓励员工生育，每孩每年 1 万，连发 5 年，如何看待此举？哪些信息值得关注？](https://www.zhihu.com/question/609559160)<br />
-8. [《封神第一部》新预告，新版妲己首度曝光，你对该角色有哪些期待？](https://www.zhihu.com/question/609357109)<br />
+8. []()<br />
 9. []()<br />
 
 > 百度  
