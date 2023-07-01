@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 16:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 16:45:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [七一勋章获得者的事迹有多感人](https://s.weibo.com/weibo?q=%23%E4%B8%83%E4%B8%80%E5%8B%8B%E7%AB%A0%E8%8E%B7%E5%BE%97%E8%80%85%E7%9A%84%E4%BA%8B%E8%BF%B9%E6%9C%89%E5%A4%9A%E6%84%9F%E4%BA%BA%23&t=31&band_rank=3&Refer=top)<br />
 4. [7月狗屎运最旺星座](https://s.weibo.com/weibo?q=%237%E6%9C%88%E7%8B%97%E5%B1%8E%E8%BF%90%E6%9C%80%E6%97%BA%E6%98%9F%E5%BA%A7%23&t=31&band_rank=4&Refer=top)<br />
 5. [宋轶骂得我心都化了](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%BD%B6%E9%AA%82%E5%BE%97%E6%88%91%E5%BF%83%E9%83%BD%E5%8C%96%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
-6. [李现 这次没有版权问题了](https://s.weibo.com/weibo?q=%E6%9D%8E%E7%8E%B0%20%E8%BF%99%E6%AC%A1%E6%B2%A1%E6%9C%89%E7%89%88%E6%9D%83%E9%97%AE%E9%A2%98%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
-7. [何非的保证书是朱一龙写的](https://s.weibo.com/weibo?q=%23%E4%BD%95%E9%9D%9E%E7%9A%84%E4%BF%9D%E8%AF%81%E4%B9%A6%E6%98%AF%E6%9C%B1%E4%B8%80%E9%BE%99%E5%86%99%E7%9A%84%23&t=31&band_rank=7&Refer=top)<br />
+6. [何非的保证书是朱一龙写的](https://s.weibo.com/weibo?q=%23%E4%BD%95%E9%9D%9E%E7%9A%84%E4%BF%9D%E8%AF%81%E4%B9%A6%E6%98%AF%E6%9C%B1%E4%B8%80%E9%BE%99%E5%86%99%E7%9A%84%23&t=31&band_rank=6&Refer=top)<br />
+7. [李现 这次没有版权问题了](https://s.weibo.com/weibo?q=%E6%9D%8E%E7%8E%B0%20%E8%BF%99%E6%AC%A1%E6%B2%A1%E6%9C%89%E7%89%88%E6%9D%83%E9%97%AE%E9%A2%98%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [夏目友人帐](https://s.weibo.com/weibo?q=%E5%A4%8F%E7%9B%AE%E5%8F%8B%E4%BA%BA%E5%B8%90&t=31&band_rank=8&Refer=top)<br />
 9. [江西一化工厂爆炸](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E4%B8%80%E5%8C%96%E5%B7%A5%E5%8E%82%E7%88%86%E7%82%B8%23&t=31&band_rank=9&Refer=top)<br />
 
@@ -22,7 +22,7 @@
 6. [报告称德国 2022 年资本外逃创纪录，净流出量 1250 亿欧元，或已开启去工业化进程，将有何影响？](https://www.zhihu.com/question/609749272)<br />
 7. [庞贝古城遗址发现疑似披萨壁画，引发披萨起源与口味之争，如何看待这轮「披萨正统」争议？](https://www.zhihu.com/question/609283104)<br />
 8. [996 和高三哪个更痛苦？](https://www.zhihu.com/question/605620273)<br />
-9. [如何看待山河四省学子在网上自建山河大学？](https://www.zhihu.com/question/609297089)<br />
+9. [大家看完《消失的她》后有什么感受？](https://www.zhihu.com/question/609070712)<br />
 
 > 百度  
 
