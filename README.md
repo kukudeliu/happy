@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 21:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 21:14:01</h4></div>
 
 > 微博  
 
@@ -20,8 +20,8 @@
 4. [为什么「加」「恰」「霞」三个字的拼音分别是 jiā、 qià、 xiá，而不是 jā、 qà、 xá？](https://www.zhihu.com/question/609163323)<br />
 5. [湖人自由市场首日四笔签约：续约八村塁，签约文森特、普林斯和雷迪什，如评价这些签约？](https://www.zhihu.com/question/609753176)<br />
 6. [大学生有什么学习网站?](https://www.zhihu.com/question/600134551)<br />
-7. [大家看完《消失的她》后有什么感受？](https://www.zhihu.com/question/609070712)<br />
-8. [996 和高三哪个更痛苦？](https://www.zhihu.com/question/605620273)<br />
+7. [996 和高三哪个更痛苦？](https://www.zhihu.com/question/605620273)<br />
+8. [大家看完《消失的她》后有什么感受？](https://www.zhihu.com/question/609070712)<br />
 9. [目前我国经济复苏进程正处于哪一阶段？当前中国经济的复苏与以往的周期性复苏有什么差别？](https://www.zhihu.com/question/609606249)<br />
 
 > 百度  
@@ -31,10 +31,10 @@
 3. [法国马赛最大图书馆被烧毁](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E9%A9%AC%E8%B5%9B%E6%9C%80%E5%A4%A7%E5%9B%BE%E4%B9%A6%E9%A6%86%E8%A2%AB%E7%83%A7%E6%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [2023年暑运正式启动](https://www.baidu.com/s?wd=2023%E5%B9%B4%E6%9A%91%E8%BF%90%E6%AD%A3%E5%BC%8F%E5%90%AF%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [国防科大回应近期网络传闻](https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E7%A7%91%E5%A4%A7%E5%9B%9E%E5%BA%94%E8%BF%91%E6%9C%9F%E7%BD%91%E7%BB%9C%E4%BC%A0%E9%97%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男子外出干活遇超大菌子](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%A4%96%E5%87%BA%E5%B9%B2%E6%B4%BB%E9%81%87%E8%B6%85%E5%A4%A7%E8%8F%8C%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [范玮琪演唱会遭网友抵制](https://www.baidu.com/s?wd=%E8%8C%83%E7%8E%AE%E7%90%AA%E6%BC%94%E5%94%B1%E4%BC%9A%E9%81%AD%E7%BD%91%E5%8F%8B%E6%8A%B5%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [7岁女孩有弟弟后眼睛突然看不清](https://www.baidu.com/s?wd=7%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%9C%89%E5%BC%9F%E5%BC%9F%E5%90%8E%E7%9C%BC%E7%9D%9B%E7%AA%81%E7%84%B6%E7%9C%8B%E4%B8%8D%E6%B8%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [杨颖工作室改名刘瑕心理工作室](https://www.baidu.com/s?wd=%E6%9D%A8%E9%A2%96%E5%B7%A5%E4%BD%9C%E5%AE%A4%E6%94%B9%E5%90%8D%E5%88%98%E7%91%95%E5%BF%83%E7%90%86%E5%B7%A5%E4%BD%9C%E5%AE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [胖东来老板劝网友卖房](https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E8%80%81%E6%9D%BF%E5%8A%9D%E7%BD%91%E5%8F%8B%E5%8D%96%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [公司回应保洁弄脏乘客衣服下跪道歉](https://www.baidu.com/s?wd=%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94%E4%BF%9D%E6%B4%81%E5%BC%84%E8%84%8F%E4%B9%98%E5%AE%A2%E8%A1%A3%E6%9C%8D%E4%B8%8B%E8%B7%AA%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子外出干活遇超大菌子](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%A4%96%E5%87%BA%E5%B9%B2%E6%B4%BB%E9%81%87%E8%B6%85%E5%A4%A7%E8%8F%8C%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [钻石价格大跳水 今年已跌6.5%](https://www.baidu.com/s?wd=%E9%92%BB%E7%9F%B3%E4%BB%B7%E6%A0%BC%E5%A4%A7%E8%B7%B3%E6%B0%B4+%E4%BB%8A%E5%B9%B4%E5%B7%B2%E8%B7%8C6.5%25&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [法国马赛最大图书馆被烧毁](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E9%A9%AC%E8%B5%9B%E6%9C%80%E5%A4%A7%E5%9B%BE%E4%B9%A6%E9%A6%86%E8%A2%AB%E7%83%A7%E6%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [2023年暑运正式启动](https://www.baidu.com/s?wd=2023%E5%B9%B4%E6%9A%91%E8%BF%90%E6%AD%A3%E5%BC%8F%E5%90%AF%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [国防科大回应近期网络传闻](https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E7%A7%91%E5%A4%A7%E5%9B%9E%E5%BA%94%E8%BF%91%E6%9C%9F%E7%BD%91%E7%BB%9C%E4%BC%A0%E9%97%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男子外出干活遇超大菌子](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%A4%96%E5%87%BA%E5%B9%B2%E6%B4%BB%E9%81%87%E8%B6%85%E5%A4%A7%E8%8F%8C%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [范玮琪演唱会遭网友抵制](https://www.baidu.com/s?wd=%E8%8C%83%E7%8E%AE%E7%90%AA%E6%BC%94%E5%94%B1%E4%BC%9A%E9%81%AD%E7%BD%91%E5%8F%8B%E6%8A%B5%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [7岁女孩有弟弟后眼睛突然看不清](https://www.baidu.com/s?wd=7%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%9C%89%E5%BC%9F%E5%BC%9F%E5%90%8E%E7%9C%BC%E7%9D%9B%E7%AA%81%E7%84%B6%E7%9C%8B%E4%B8%8D%E6%B8%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [杨颖工作室改名刘瑕心理工作室](https://www.baidu.com/s?wd=%E6%9D%A8%E9%A2%96%E5%B7%A5%E4%BD%9C%E5%AE%A4%E6%94%B9%E5%90%8D%E5%88%98%E7%91%95%E5%BF%83%E7%90%86%E5%B7%A5%E4%BD%9C%E5%AE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [胖东来老板劝网友卖房](https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E8%80%81%E6%9D%BF%E5%8A%9D%E7%BD%91%E5%8F%8B%E5%8D%96%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [公司回应保洁弄脏乘客衣服下跪道歉](https://www.baidu.com/s?wd=%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94%E4%BF%9D%E6%B4%81%E5%BC%84%E8%84%8F%E4%B9%98%E5%AE%A2%E8%A1%A3%E6%9C%8D%E4%B8%8B%E8%B7%AA%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子外出干活遇超大菌子](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%A4%96%E5%87%BA%E5%B9%B2%E6%B4%BB%E9%81%87%E8%B6%85%E5%A4%A7%E8%8F%8C%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [钻石价格大跳水 今年已跌6.5%](https://www.baidu.com/s?wd=%E9%92%BB%E7%9F%B3%E4%BB%B7%E6%A0%BC%E5%A4%A7%E8%B7%B3%E6%B0%B4+%E4%BB%8A%E5%B9%B4%E5%B7%B2%E8%B7%8C6.5%25&sa=fyb_news&rsv_dl=fyb_news)<br />
