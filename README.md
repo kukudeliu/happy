@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 12:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 12:57:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [素颜的杨幂](https://s.weibo.com/weibo?q=%23%E7%B4%A0%E9%A2%9C%E7%9A%84%E6%9D%A8%E5%B9%82%23&t=31&band_rank=5&Refer=top)<br />
 6. [夏目友人帐](https://s.weibo.com/weibo?q=%E5%A4%8F%E7%9B%AE%E5%8F%8B%E4%BA%BA%E5%B8%90&t=31&band_rank=6&Refer=top)<br />
 7. [19970701零时零分零秒](https://s.weibo.com/weibo?q=%2319970701%E9%9B%B6%E6%97%B6%E9%9B%B6%E5%88%86%E9%9B%B6%E7%A7%92%23&t=31&band_rank=7&Refer=top)<br />
-8. [陈思诚 橙色风暴](https://s.weibo.com/weibo?q=%E9%99%88%E6%80%9D%E8%AF%9A%20%E6%A9%99%E8%89%B2%E9%A3%8E%E6%9A%B4&t=31&band_rank=8&Refer=top)<br />
-9. [白敬亭宋轶是不是忘记官宣了](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6%E6%98%AF%E4%B8%8D%E6%98%AF%E5%BF%98%E8%AE%B0%E5%AE%98%E5%AE%A3%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+8. [白敬亭宋轶是不是忘记官宣了](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6%E6%98%AF%E4%B8%8D%E6%98%AF%E5%BF%98%E8%AE%B0%E5%AE%98%E5%AE%A3%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [陈思诚 橙色风暴](https://s.weibo.com/weibo?q=%E9%99%88%E6%80%9D%E8%AF%9A%20%E6%A9%99%E8%89%B2%E9%A3%8E%E6%9A%B4&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,28 +22,28 @@
 6. [同样是 T1 坦辅，为什么张飞在顶端巅峰赛比牛魔更受大众喜爱呢？](https://www.zhihu.com/question/584112807)<br />
 7. [美国一季度 GDP 终值出现罕见大幅上修，这意味着什么？](https://www.zhihu.com/question/609552412)<br />
 8. [准大一生应该先提前买电脑还是开学后再买？](https://www.zhihu.com/question/609719019)<br />
-9. [如何看待吃自助餐先拿一盘蛋炒饭这种行为？](https://www.zhihu.com/question/440916537)<br />
+9. [为了变漂亮，你坚持了哪些好习惯？](https://www.zhihu.com/question/268216399)<br />
 
 > 百度  
 
 1. [这是信仰的力量](https://www.baidu.com/s?wd=%E8%BF%99%E6%98%AF%E4%BF%A1%E4%BB%B0%E7%9A%84%E5%8A%9B%E9%87%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [记者采访官员被反问多宣传好的不行吗](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E9%87%87%E8%AE%BF%E5%AE%98%E5%91%98%E8%A2%AB%E5%8F%8D%E9%97%AE%E5%A4%9A%E5%AE%A3%E4%BC%A0%E5%A5%BD%E7%9A%84%E4%B8%8D%E8%A1%8C%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [法国一夜间超2000辆车被烧成废铁](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E4%B8%80%E5%A4%9C%E9%97%B4%E8%B6%852000%E8%BE%86%E8%BD%A6%E8%A2%AB%E7%83%A7%E6%88%90%E5%BA%9F%E9%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [法官辟谣父亲是老赖致女儿710分落榜](https://www.baidu.com/s?wd=%E6%B3%95%E5%AE%98%E8%BE%9F%E8%B0%A3%E7%88%B6%E4%BA%B2%E6%98%AF%E8%80%81%E8%B5%96%E8%87%B4%E5%A5%B3%E5%84%BF710%E5%88%86%E8%90%BD%E6%A6%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [勇担使命谋发展 矢志奋斗谱新篇](https://www.baidu.com/s?wd=%E5%8B%87%E6%8B%85%E4%BD%BF%E5%91%BD%E8%B0%8B%E5%8F%91%E5%B1%95+%E7%9F%A2%E5%BF%97%E5%A5%8B%E6%96%97%E8%B0%B1%E6%96%B0%E7%AF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [江西一家3小孩被杀害 凶手已被抓](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E4%B8%80%E5%AE%B63%E5%B0%8F%E5%AD%A9%E8%A2%AB%E6%9D%80%E5%AE%B3+%E5%87%B6%E6%89%8B%E5%B7%B2%E8%A2%AB%E6%8A%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [曝范玮琪声明是陈建州发的](https://www.baidu.com/s?wd=%E6%9B%9D%E8%8C%83%E7%8E%AE%E7%90%AA%E5%A3%B0%E6%98%8E%E6%98%AF%E9%99%88%E5%BB%BA%E5%B7%9E%E5%8F%91%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [Angelababy 这是我结婚的地方](https://www.baidu.com/s?wd=Angelababy+%E8%BF%99%E6%98%AF%E6%88%91%E7%BB%93%E5%A9%9A%E7%9A%84%E5%9C%B0%E6%96%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [法国一辆载41名中国游客车辆被砸](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E4%B8%80%E8%BE%86%E8%BD%BD41%E5%90%8D%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E8%BD%A6%E8%BE%86%E8%A2%AB%E7%A0%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [助手给白百何吃烤焦的面包](https://www.baidu.com/s?wd=%E5%8A%A9%E6%89%8B%E7%BB%99%E7%99%BD%E7%99%BE%E4%BD%95%E5%90%83%E7%83%A4%E7%84%A6%E7%9A%84%E9%9D%A2%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [钻石价格大跳水 今年已跌6.5%](https://www.baidu.com/s?wd=%E9%92%BB%E7%9F%B3%E4%BB%B7%E6%A0%BC%E5%A4%A7%E8%B7%B3%E6%B0%B4+%E4%BB%8A%E5%B9%B4%E5%B7%B2%E8%B7%8C6.5%25&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [助手给白百何吃烤焦的面包](https://www.baidu.com/s?wd=%E5%8A%A9%E6%89%8B%E7%BB%99%E7%99%BD%E7%99%BE%E4%BD%95%E5%90%83%E7%83%A4%E7%84%A6%E7%9A%84%E9%9D%A2%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [钻石价格大跳水 今年已跌6.5%](https://www.baidu.com/s?wd=%E9%92%BB%E7%9F%B3%E4%BB%B7%E6%A0%BC%E5%A4%A7%E8%B7%B3%E6%B0%B4+%E4%BB%8A%E5%B9%B4%E5%B7%B2%E8%B7%8C6.5%25&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [野生大熊猫用屁股蹭了蹭红外相机](https://www.baidu.com/s?wd=%E9%87%8E%E7%94%9F%E5%A4%A7%E7%86%8A%E7%8C%AB%E7%94%A8%E5%B1%81%E8%82%A1%E8%B9%AD%E4%BA%86%E8%B9%AD%E7%BA%A2%E5%A4%96%E7%9B%B8%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [这是信仰的力量](https://www.baidu.com/s?wd=%E8%BF%99%E6%98%AF%E4%BF%A1%E4%BB%B0%E7%9A%84%E5%8A%9B%E9%87%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [记者采访官员被反问多宣传好的不行吗](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E9%87%87%E8%AE%BF%E5%AE%98%E5%91%98%E8%A2%AB%E5%8F%8D%E9%97%AE%E5%A4%9A%E5%AE%A3%E4%BC%A0%E5%A5%BD%E7%9A%84%E4%B8%8D%E8%A1%8C%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [法国一夜间超2000辆车被烧成废铁](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E4%B8%80%E5%A4%9C%E9%97%B4%E8%B6%852000%E8%BE%86%E8%BD%A6%E8%A2%AB%E7%83%A7%E6%88%90%E5%BA%9F%E9%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [法官辟谣父亲是老赖致女儿710分落榜](https://www.baidu.com/s?wd=%E6%B3%95%E5%AE%98%E8%BE%9F%E8%B0%A3%E7%88%B6%E4%BA%B2%E6%98%AF%E8%80%81%E8%B5%96%E8%87%B4%E5%A5%B3%E5%84%BF710%E5%88%86%E8%90%BD%E6%A6%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [勇担使命谋发展 矢志奋斗谱新篇](https://www.baidu.com/s?wd=%E5%8B%87%E6%8B%85%E4%BD%BF%E5%91%BD%E8%B0%8B%E5%8F%91%E5%B1%95+%E7%9F%A2%E5%BF%97%E5%A5%8B%E6%96%97%E8%B0%B1%E6%96%B0%E7%AF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [江西一家3小孩被杀害 凶手已被抓](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E4%B8%80%E5%AE%B63%E5%B0%8F%E5%AD%A9%E8%A2%AB%E6%9D%80%E5%AE%B3+%E5%87%B6%E6%89%8B%E5%B7%B2%E8%A2%AB%E6%8A%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [曝范玮琪声明是陈建州发的](https://www.baidu.com/s?wd=%E6%9B%9D%E8%8C%83%E7%8E%AE%E7%90%AA%E5%A3%B0%E6%98%8E%E6%98%AF%E9%99%88%E5%BB%BA%E5%B7%9E%E5%8F%91%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [Angelababy 这是我结婚的地方](https://www.baidu.com/s?wd=Angelababy+%E8%BF%99%E6%98%AF%E6%88%91%E7%BB%93%E5%A9%9A%E7%9A%84%E5%9C%B0%E6%96%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [法国一辆载41名中国游客车辆被砸](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E4%B8%80%E8%BE%86%E8%BD%BD41%E5%90%8D%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E8%BD%A6%E8%BE%86%E8%A2%AB%E7%A0%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [助手给白百何吃烤焦的面包](https://www.baidu.com/s?wd=%E5%8A%A9%E6%89%8B%E7%BB%99%E7%99%BD%E7%99%BE%E4%BD%95%E5%90%83%E7%83%A4%E7%84%A6%E7%9A%84%E9%9D%A2%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [钻石价格大跳水 今年已跌6.5%](https://www.baidu.com/s?wd=%E9%92%BB%E7%9F%B3%E4%BB%B7%E6%A0%BC%E5%A4%A7%E8%B7%B3%E6%B0%B4+%E4%BB%8A%E5%B9%B4%E5%B7%B2%E8%B7%8C6.5%25&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [助手给白百何吃烤焦的面包](https://www.baidu.com/s?wd=%E5%8A%A9%E6%89%8B%E7%BB%99%E7%99%BD%E7%99%BE%E4%BD%95%E5%90%83%E7%83%A4%E7%84%A6%E7%9A%84%E9%9D%A2%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [钻石价格大跳水 今年已跌6.5%](https://www.baidu.com/s?wd=%E9%92%BB%E7%9F%B3%E4%BB%B7%E6%A0%BC%E5%A4%A7%E8%B7%B3%E6%B0%B4+%E4%BB%8A%E5%B9%B4%E5%B7%B2%E8%B7%8C6.5%25&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [野生大熊猫用屁股蹭了蹭红外相机](https://www.baidu.com/s?wd=%E9%87%8E%E7%94%9F%E5%A4%A7%E7%86%8A%E7%8C%AB%E7%94%A8%E5%B1%81%E8%82%A1%E8%B9%AD%E4%BA%86%E8%B9%AD%E7%BA%A2%E5%A4%96%E7%9B%B8%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
