@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 16:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 16:44:01</h4></div>
 
 > 微博  
 
@@ -19,10 +19,10 @@
 3. [美国一季度 GDP 终值出现罕见大幅上修，这意味着什么？](https://www.zhihu.com/question/609552412)<br />
 4. [亚马逊公司旗下 Kindle 中国电子书店停止运营，已启动退款程序，为何 Kindle 退出中国市场？](https://www.zhihu.com/question/609622371)<br />
 5. [消息称小米印度正在进行大规模裁员，官方回应「根据市场和业务情况对员工数量进行规划」，哪些信息值得关注？](https://www.zhihu.com/question/609615935)<br />
-6. [庞贝古城遗址发现疑似披萨壁画，引发披萨起源与口味之争，如何看待这轮「披萨正统」争议？](https://www.zhihu.com/question/609283104)<br />
-7. [报告称德国 2022 年资本外逃创纪录，净流出量 1250 亿欧元，或已开启去工业化进程，将有何影响？](https://www.zhihu.com/question/609749272)<br />
-8. [如何看待山河四省学子在网上自建山河大学？](https://www.zhihu.com/question/609297089)<br />
-9. [996 和高三哪个更痛苦？](https://www.zhihu.com/question/605620273)<br />
+6. [报告称德国 2022 年资本外逃创纪录，净流出量 1250 亿欧元，或已开启去工业化进程，将有何影响？](https://www.zhihu.com/question/609749272)<br />
+7. [庞贝古城遗址发现疑似披萨壁画，引发披萨起源与口味之争，如何看待这轮「披萨正统」争议？](https://www.zhihu.com/question/609283104)<br />
+8. [996 和高三哪个更痛苦？](https://www.zhihu.com/question/605620273)<br />
+9. [如何看待山河四省学子在网上自建山河大学？](https://www.zhihu.com/question/609297089)<br />
 
 > 百度  
 
@@ -34,7 +34,7 @@
 6. [曝蔡徐坤事件或涉及未成年](https://www.baidu.com/s?wd=%E6%9B%9D%E8%94%A1%E5%BE%90%E5%9D%A4%E4%BA%8B%E4%BB%B6%E6%88%96%E6%B6%89%E5%8F%8A%E6%9C%AA%E6%88%90%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [江西一化工厂起火 官方：无伤亡](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E4%B8%80%E5%8C%96%E5%B7%A5%E5%8E%82%E8%B5%B7%E7%81%AB+%E5%AE%98%E6%96%B9%EF%BC%9A%E6%97%A0%E4%BC%A4%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子外出干活遇超大菌子](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%A4%96%E5%87%BA%E5%B9%B2%E6%B4%BB%E9%81%87%E8%B6%85%E5%A4%A7%E8%8F%8C%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [Angelababy 这是我结婚的地方](https://www.baidu.com/s?wd=Angelababy+%E8%BF%99%E6%98%AF%E6%88%91%E7%BB%93%E5%A9%9A%E7%9A%84%E5%9C%B0%E6%96%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子颈部插切割机警车狂飙10分钟](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%A2%88%E9%83%A8%E6%8F%92%E5%88%87%E5%89%B2%E6%9C%BA%E8%AD%A6%E8%BD%A6%E7%8B%82%E9%A3%9910%E5%88%86%E9%92%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [曝蔡徐坤事件或涉及未成年](https://www.baidu.com/s?wd=%E6%9B%9D%E8%94%A1%E5%BE%90%E5%9D%A4%E4%BA%8B%E4%BB%B6%E6%88%96%E6%B6%89%E5%8F%8A%E6%9C%AA%E6%88%90%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [江西一化工厂起火 官方：无伤亡](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E4%B8%80%E5%8C%96%E5%B7%A5%E5%8E%82%E8%B5%B7%E7%81%AB+%E5%AE%98%E6%96%B9%EF%BC%9A%E6%97%A0%E4%BC%A4%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子外出干活遇超大菌子](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%A4%96%E5%87%BA%E5%B9%B2%E6%B4%BB%E9%81%87%E8%B6%85%E5%A4%A7%E8%8F%8C%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [Angelababy 这是我结婚的地方](https://www.baidu.com/s?wd=Angelababy+%E8%BF%99%E6%98%AF%E6%88%91%E7%BB%93%E5%A9%9A%E7%9A%84%E5%9C%B0%E6%96%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子颈部插切割机警车狂飙10分钟](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%A2%88%E9%83%A8%E6%8F%92%E5%88%87%E5%89%B2%E6%9C%BA%E8%AD%A6%E8%BD%A6%E7%8B%82%E9%A3%9910%E5%88%86%E9%92%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
