@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 08:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 08:13:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [白敬亭宋轶是不是忘记官宣了](https://www.baidu.com/s?wd=%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6%E6%98%AF%E4%B8%8D%E6%98%AF%E5%BF%98%E8%AE%B0%E5%AE%98%E5%AE%A3%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [章泽天回应拒绝张艺谋演戏](https://www.baidu.com/s?wd=%E7%AB%A0%E6%B3%BD%E5%A4%A9%E5%9B%9E%E5%BA%94%E6%8B%92%E7%BB%9D%E5%BC%A0%E8%89%BA%E8%B0%8B%E6%BC%94%E6%88%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [专家谈350亿氢能项目：侮辱智商](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E8%B0%88350%E4%BA%BF%E6%B0%A2%E8%83%BD%E9%A1%B9%E7%9B%AE%EF%BC%9A%E4%BE%AE%E8%BE%B1%E6%99%BA%E5%95%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [陕西居民驾车途中偶遇淡定大熊猫](https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF%E5%B1%85%E6%B0%91%E9%A9%BE%E8%BD%A6%E9%80%94%E4%B8%AD%E5%81%B6%E9%81%87%E6%B7%A1%E5%AE%9A%E5%A4%A7%E7%86%8A%E7%8C%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男孩高考后失联多日 家属已报警](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E9%AB%98%E8%80%83%E5%90%8E%E5%A4%B1%E8%81%94%E5%A4%9A%E6%97%A5+%E5%AE%B6%E5%B1%9E%E5%B7%B2%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [白敬亭宋轶是不是忘记官宣了](https://www.baidu.com/s?wd=%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6%E6%98%AF%E4%B8%8D%E6%98%AF%E5%BF%98%E8%AE%B0%E5%AE%98%E5%AE%A3%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [章泽天回应拒绝张艺谋演戏](https://www.baidu.com/s?wd=%E7%AB%A0%E6%B3%BD%E5%A4%A9%E5%9B%9E%E5%BA%94%E6%8B%92%E7%BB%9D%E5%BC%A0%E8%89%BA%E8%B0%8B%E6%BC%94%E6%88%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [专家谈350亿氢能项目：侮辱智商](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E8%B0%88350%E4%BA%BF%E6%B0%A2%E8%83%BD%E9%A1%B9%E7%9B%AE%EF%BC%9A%E4%BE%AE%E8%BE%B1%E6%99%BA%E5%95%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [陕西居民驾车途中偶遇淡定大熊猫](https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF%E5%B1%85%E6%B0%91%E9%A9%BE%E8%BD%A6%E9%80%94%E4%B8%AD%E5%81%B6%E9%81%87%E6%B7%A1%E5%AE%9A%E5%A4%A7%E7%86%8A%E7%8C%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男孩高考后失联多日 家属已报警](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E9%AB%98%E8%80%83%E5%90%8E%E5%A4%B1%E8%81%94%E5%A4%9A%E6%97%A5+%E5%AE%B6%E5%B1%9E%E5%B7%B2%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
