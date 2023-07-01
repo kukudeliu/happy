@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 16:07:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 16:08:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [宋轶骂得我心都化了](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%BD%B6%E9%AA%82%E5%BE%97%E6%88%91%E5%BF%83%E9%83%BD%E5%8C%96%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [江西一化工厂爆炸](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E4%B8%80%E5%8C%96%E5%B7%A5%E5%8E%82%E7%88%86%E7%82%B8%23&t=31&band_rank=6&Refer=top)<br />
 7. [何非的保证书是朱一龙写的](https://s.weibo.com/weibo?q=%23%E4%BD%95%E9%9D%9E%E7%9A%84%E4%BF%9D%E8%AF%81%E4%B9%A6%E6%98%AF%E6%9C%B1%E4%B8%80%E9%BE%99%E5%86%99%E7%9A%84%23&t=31&band_rank=7&Refer=top)<br />
-8. [女游客左腿被绞入自动步道传送带现场截肢保命](https://s.weibo.com/weibo?q=%E5%A5%B3%E6%B8%B8%E5%AE%A2%E5%B7%A6%E8%85%BF%E8%A2%AB%E7%BB%9E%E5%85%A5%E8%87%AA%E5%8A%A8%E6%AD%A5%E9%81%93%E4%BC%A0%E9%80%81%E5%B8%A6%E7%8E%B0%E5%9C%BA%E6%88%AA%E8%82%A2%E4%BF%9D%E5%91%BD&t=31&band_rank=8&Refer=top)<br />
+8. [娄艺潇自曝体重快120斤](https://s.weibo.com/weibo?q=%23%E5%A8%84%E8%89%BA%E6%BD%87%E8%87%AA%E6%9B%9D%E4%BD%93%E9%87%8D%E5%BF%AB120%E6%96%A4%23&t=31&band_rank=8&Refer=top)<br />
 9. [夏目友人帐](https://s.weibo.com/weibo?q=%E5%A4%8F%E7%9B%AE%E5%8F%8B%E4%BA%BA%E5%B8%90&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -21,8 +21,8 @@
 5. [亚马逊公司旗下 Kindle 中国电子书店停止运营，已启动退款程序，为何 Kindle 退出中国市场？](https://www.zhihu.com/question/609622371)<br />
 6. [消息称小米印度正在进行大规模裁员，官方回应「根据市场和业务情况对员工数量进行规划」，哪些信息值得关注？](https://www.zhihu.com/question/609615935)<br />
 7. [庞贝古城遗址发现疑似披萨壁画，引发披萨起源与口味之争，如何看待这轮「披萨正统」争议？](https://www.zhihu.com/question/609283104)<br />
-8. [中国高铁出海首单，印尼雅万高铁时速达 350 公里，日媒感叹「难以逾越的实力差距」，哪些信息值得关注？](https://www.zhihu.com/question/609596590)<br />
-9. [报告称德国 2022 年资本外逃创纪录，净流出量 1250 亿欧元，或已开启去工业化进程，将有何影响？](https://www.zhihu.com/question/609749272)<br />
+8. [报告称德国 2022 年资本外逃创纪录，净流出量 1250 亿欧元，或已开启去工业化进程，将有何影响？](https://www.zhihu.com/question/609749272)<br />
+9. [中国高铁出海首单，印尼雅万高铁时速达 350 公里，日媒感叹「难以逾越的实力差距」，哪些信息值得关注？](https://www.zhihu.com/question/609596590)<br />
 
 > 百度  
 
