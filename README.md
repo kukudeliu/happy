@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 12:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 12:34:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [三十岁女生给二十岁女生的建议](https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%8D%81%E5%B2%81%E5%A5%B3%E7%94%9F%E7%BB%99%E4%BA%8C%E5%8D%81%E5%B2%81%E5%A5%B3%E7%94%9F%E7%9A%84%E5%BB%BA%E8%AE%AE%23&t=31&band_rank=6&Refer=top)<br />
 7. [19970701零时零分零秒](https://s.weibo.com/weibo?q=%2319970701%E9%9B%B6%E6%97%B6%E9%9B%B6%E5%88%86%E9%9B%B6%E7%A7%92%23&t=31&band_rank=7&Refer=top)<br />
 8. [陈思诚 橙色风暴](https://s.weibo.com/weibo?q=%E9%99%88%E6%80%9D%E8%AF%9A%20%E6%A9%99%E8%89%B2%E9%A3%8E%E6%9A%B4&t=31&band_rank=8&Refer=top)<br />
-9. [王宝强把张颜齐认成了周杰伦](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%9D%E5%BC%BA%E6%8A%8A%E5%BC%A0%E9%A2%9C%E9%BD%90%E8%AE%A4%E6%88%90%E4%BA%86%E5%91%A8%E6%9D%B0%E4%BC%A6%23&t=31&band_rank=9&Refer=top)<br />
+9. [素颜的杨幂](https://s.weibo.com/weibo?q=%23%E7%B4%A0%E9%A2%9C%E7%9A%84%E6%9D%A8%E5%B9%82%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
