@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 12:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 12:27:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [携程宣布投入 10 亿元鼓励员工生育，每孩每年 1 万，连发 5 年，如何看待此举？哪些信息值得关注？](https://www.zhihu.com/question/609559160)<br />
 7. [同样是 T1 坦辅，为什么张飞在顶端巅峰赛比牛魔更受大众喜爱呢？](https://www.zhihu.com/question/584112807)<br />
 8. [为什么物理学中先假设理论是对称的，再让其破缺？](https://www.zhihu.com/question/609401387)<br />
-9. []()<br />
+9. [人情世故真的比能力更重要吗？](https://www.zhihu.com/question/607551898)<br />
 
 > 百度  
 
