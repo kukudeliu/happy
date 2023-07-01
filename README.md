@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 12:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 12:49:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [江西一家3小孩被杀害 凶手已被抓](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E4%B8%80%E5%AE%B63%E5%B0%8F%E5%AD%A9%E8%A2%AB%E6%9D%80%E5%AE%B3+%E5%87%B6%E6%89%8B%E5%B7%B2%E8%A2%AB%E6%8A%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [Angelababy 这是我结婚的地方](https://www.baidu.com/s?wd=Angelababy+%E8%BF%99%E6%98%AF%E6%88%91%E7%BB%93%E5%A9%9A%E7%9A%84%E5%9C%B0%E6%96%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [法国一辆载41名中国游客车辆被砸](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E4%B8%80%E8%BE%86%E8%BD%BD41%E5%90%8D%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E8%BD%A6%E8%BE%86%E8%A2%AB%E7%A0%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [曝范玮琪声明是陈建州发的](https://www.baidu.com/s?wd=%E6%9B%9D%E8%8C%83%E7%8E%AE%E7%90%AA%E5%A3%B0%E6%98%8E%E6%98%AF%E9%99%88%E5%BB%BA%E5%B7%9E%E5%8F%91%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [奔跑吧节目封面大写我太难了](https://www.baidu.com/s?wd=%E5%A5%94%E8%B7%91%E5%90%A7%E8%8A%82%E7%9B%AE%E5%B0%81%E9%9D%A2%E5%A4%A7%E5%86%99%E6%88%91%E5%A4%AA%E9%9A%BE%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [钻石价格大跳水 今年已跌6.5%](https://www.baidu.com/s?wd=%E9%92%BB%E7%9F%B3%E4%BB%B7%E6%A0%BC%E5%A4%A7%E8%B7%B3%E6%B0%B4+%E4%BB%8A%E5%B9%B4%E5%B7%B2%E8%B7%8C6.5%25&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [曝范玮琪声明是陈建州发的](https://www.baidu.com/s?wd=%E6%9B%9D%E8%8C%83%E7%8E%AE%E7%90%AA%E5%A3%B0%E6%98%8E%E6%98%AF%E9%99%88%E5%BB%BA%E5%B7%9E%E5%8F%91%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [江西一家3小孩被杀害 凶手已被抓](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E4%B8%80%E5%AE%B63%E5%B0%8F%E5%AD%A9%E8%A2%AB%E6%9D%80%E5%AE%B3+%E5%87%B6%E6%89%8B%E5%B7%B2%E8%A2%AB%E6%8A%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [Angelababy 这是我结婚的地方](https://www.baidu.com/s?wd=Angelababy+%E8%BF%99%E6%98%AF%E6%88%91%E7%BB%93%E5%A9%9A%E7%9A%84%E5%9C%B0%E6%96%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [法国一辆载41名中国游客车辆被砸](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E4%B8%80%E8%BE%86%E8%BD%BD41%E5%90%8D%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E8%BD%A6%E8%BE%86%E8%A2%AB%E7%A0%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [曝范玮琪声明是陈建州发的](https://www.baidu.com/s?wd=%E6%9B%9D%E8%8C%83%E7%8E%AE%E7%90%AA%E5%A3%B0%E6%98%8E%E6%98%AF%E9%99%88%E5%BB%BA%E5%B7%9E%E5%8F%91%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [奔跑吧节目封面大写我太难了](https://www.baidu.com/s?wd=%E5%A5%94%E8%B7%91%E5%90%A7%E8%8A%82%E7%9B%AE%E5%B0%81%E9%9D%A2%E5%A4%A7%E5%86%99%E6%88%91%E5%A4%AA%E9%9A%BE%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [钻石价格大跳水 今年已跌6.5%](https://www.baidu.com/s?wd=%E9%92%BB%E7%9F%B3%E4%BB%B7%E6%A0%BC%E5%A4%A7%E8%B7%B3%E6%B0%B4+%E4%BB%8A%E5%B9%B4%E5%B7%B2%E8%B7%8C6.5%25&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [曝范玮琪声明是陈建州发的](https://www.baidu.com/s?wd=%E6%9B%9D%E8%8C%83%E7%8E%AE%E7%90%AA%E5%A3%B0%E6%98%8E%E6%98%AF%E9%99%88%E5%BB%BA%E5%B7%9E%E5%8F%91%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
