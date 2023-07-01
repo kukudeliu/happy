@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 12:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 12:41:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [陈思诚 橙色风暴](https://s.weibo.com/weibo?q=%E9%99%88%E6%80%9D%E8%AF%9A%20%E6%A9%99%E8%89%B2%E9%A3%8E%E6%9A%B4&t=31&band_rank=6&Refer=top)<br />
 7. [高考657分想重新复读一年](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83657%E5%88%86%E6%83%B3%E9%87%8D%E6%96%B0%E5%A4%8D%E8%AF%BB%E4%B8%80%E5%B9%B4%23&t=31&band_rank=7&Refer=top)<br />
 8. [19970701零时零分零秒](https://s.weibo.com/weibo?q=%2319970701%E9%9B%B6%E6%97%B6%E9%9B%B6%E5%88%86%E9%9B%B6%E7%A7%92%23&t=31&band_rank=8&Refer=top)<br />
-9. [三十岁女生给二十岁女生的建议](https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%8D%81%E5%B2%81%E5%A5%B3%E7%94%9F%E7%BB%99%E4%BA%8C%E5%8D%81%E5%B2%81%E5%A5%B3%E7%94%9F%E7%9A%84%E5%BB%BA%E8%AE%AE%23&t=31&band_rank=9&Refer=top)<br />
+9. [夏目友人帐](https://s.weibo.com/weibo?q=%E5%A4%8F%E7%9B%AE%E5%8F%8B%E4%BA%BA%E5%B8%90&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
