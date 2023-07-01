@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 12:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 12:05:02</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [中国制造在土耳其火了](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E5%9C%A8%E5%9C%9F%E8%80%B3%E5%85%B6%E7%81%AB%E4%BA%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [高考657分想重新复读一年](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83657%E5%88%86%E6%83%B3%E9%87%8D%E6%96%B0%E5%A4%8D%E8%AF%BB%E4%B8%80%E5%B9%B4%23&t=31&band_rank=4&Refer=top)<br />
 5. [王宝强把张颜齐认成了周杰伦](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%9D%E5%BC%BA%E6%8A%8A%E5%BC%A0%E9%A2%9C%E9%BD%90%E8%AE%A4%E6%88%90%E4%BA%86%E5%91%A8%E6%9D%B0%E4%BC%A6%23&t=31&band_rank=5&Refer=top)<br />
-6. [饿了么免单](https://s.weibo.com/weibo?q=%E9%A5%BF%E4%BA%86%E4%B9%88%E5%85%8D%E5%8D%95&t=31&band_rank=6&Refer=top)<br />
-7. [三十岁女生给二十岁女生的建议](https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%8D%81%E5%B2%81%E5%A5%B3%E7%94%9F%E7%BB%99%E4%BA%8C%E5%8D%81%E5%B2%81%E5%A5%B3%E7%94%9F%E7%9A%84%E5%BB%BA%E8%AE%AE%23&t=31&band_rank=7&Refer=top)<br />
+6. [三十岁女生给二十岁女生的建议](https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%8D%81%E5%B2%81%E5%A5%B3%E7%94%9F%E7%BB%99%E4%BA%8C%E5%8D%81%E5%B2%81%E5%A5%B3%E7%94%9F%E7%9A%84%E5%BB%BA%E8%AE%AE%23&t=31&band_rank=6&Refer=top)<br />
+7. [饿了么免单](https://s.weibo.com/weibo?q=%E9%A5%BF%E4%BA%86%E4%B9%88%E5%85%8D%E5%8D%95&t=31&band_rank=7&Refer=top)<br />
 8. [消失的她票房超人生大事](https://s.weibo.com/weibo?q=%23%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%88%BF%E8%B6%85%E4%BA%BA%E7%94%9F%E5%A4%A7%E4%BA%8B%23&t=31&band_rank=8&Refer=top)<br />
 9. [19970701零时零分零秒](https://s.weibo.com/weibo?q=%2319970701%E9%9B%B6%E6%97%B6%E9%9B%B6%E5%88%86%E9%9B%B6%E7%A7%92%23&t=31&band_rank=9&Refer=top)<br />
 
