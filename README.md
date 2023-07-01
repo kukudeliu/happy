@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 18:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 18:32:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [江西贵溪市一化工厂发生爆炸，目前伤亡人数正在核实，现场救援情况如何，事故原因可能是什么？](https://www.zhihu.com/question/609772825)<br />
 7. [苹果市值突破三万亿美元，上半年纳指累涨 32%，特斯拉、英伟达等均涨超 100%，哪些信息值得关注？](https://www.zhihu.com/question/609751052)<br />
 8. [情绪稳定的本质是什么？](https://www.zhihu.com/question/607297046)<br />
-9. [卧冰求鲤为什么不用火，冰变薄不怕掉水里吗？](https://www.zhihu.com/question/609352523)<br />
+9. [《红楼梦》中的「茄鲞」是一道杜撰的菜吗？](https://www.zhihu.com/question/25353387)<br />
 
 > 百度  
 
