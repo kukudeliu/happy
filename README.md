@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 08:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 09:00:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [中国制造在土耳其火了](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E5%9C%A8%E5%9C%9F%E8%80%B3%E5%85%B6%E7%81%AB%E4%BA%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [消失的她票房超人生大事](https://s.weibo.com/weibo?q=%23%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%88%BF%E8%B6%85%E4%BA%BA%E7%94%9F%E5%A4%A7%E4%BA%8B%23&t=31&band_rank=4&Refer=top)<br />
 5. [19970701零时零分零秒](https://s.weibo.com/weibo?q=%2319970701%E9%9B%B6%E6%97%B6%E9%9B%B6%E5%88%86%E9%9B%B6%E7%A7%92%23&t=31&band_rank=5&Refer=top)<br />
-6. [法国骚乱](https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD%E9%AA%9A%E4%B9%B1&t=31&band_rank=6&Refer=top)<br />
-7. [起哄怂恿轻生者跳楼男子被行拘](https://s.weibo.com/weibo?q=%23%E8%B5%B7%E5%93%84%E6%80%82%E6%81%BF%E8%BD%BB%E7%94%9F%E8%80%85%E8%B7%B3%E6%A5%BC%E7%94%B7%E5%AD%90%E8%A2%AB%E8%A1%8C%E6%8B%98%23&t=31&band_rank=7&Refer=top)<br />
+6. [起哄怂恿轻生者跳楼男子被行拘](https://s.weibo.com/weibo?q=%23%E8%B5%B7%E5%93%84%E6%80%82%E6%81%BF%E8%BD%BB%E7%94%9F%E8%80%85%E8%B7%B3%E6%A5%BC%E7%94%B7%E5%AD%90%E8%A2%AB%E8%A1%8C%E6%8B%98%23&t=31&band_rank=6&Refer=top)<br />
+7. [法国骚乱](https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD%E9%AA%9A%E4%B9%B1&t=31&band_rank=7&Refer=top)<br />
 8. [章泽天回应拒绝张艺谋演戏](https://s.weibo.com/weibo?q=%23%E7%AB%A0%E6%B3%BD%E5%A4%A9%E5%9B%9E%E5%BA%94%E6%8B%92%E7%BB%9D%E5%BC%A0%E8%89%BA%E8%B0%8B%E6%BC%94%E6%88%8F%23&t=31&band_rank=8&Refer=top)<br />
 9. [三十岁女生给二十岁女生的建议](https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%8D%81%E5%B2%81%E5%A5%B3%E7%94%9F%E7%BB%99%E4%BA%8C%E5%8D%81%E5%B2%81%E5%A5%B3%E7%94%9F%E7%9A%84%E5%BB%BA%E8%AE%AE%23&t=31&band_rank=9&Refer=top)<br />
 
