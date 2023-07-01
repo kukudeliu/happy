@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 17:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 17:36:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [大家看完《消失的她》后有什么感受？](https://www.zhihu.com/question/609070712)<br />
 7. [卧冰求鲤为什么不用火，冰变薄不怕掉水里吗？](https://www.zhihu.com/question/609352523)<br />
 8. [情绪稳定的本质是什么？](https://www.zhihu.com/question/607297046)<br />
-9. [剧透对悬疑电影影响到底有多大？你有哪些被剧透的经历？](https://www.zhihu.com/question/607981887)<br />
+9. [苹果市值突破三万亿美元，上半年纳指累涨 32%，特斯拉、英伟达等均涨超 100%，哪些信息值得关注？](https://www.zhihu.com/question/609751052)<br />
 
 > 百度  
 
