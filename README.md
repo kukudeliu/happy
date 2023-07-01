@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 17:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 18:00:01</h4></div>
 
 > 微博  
 
@@ -19,10 +19,10 @@
 3. [美国一季度 GDP 终值出现罕见大幅上修，这意味着什么？](https://www.zhihu.com/question/609552412)<br />
 4. [消息称小米印度正在进行大规模裁员，官方回应「根据市场和业务情况对员工数量进行规划」，哪些信息值得关注？](https://www.zhihu.com/question/609615935)<br />
 5. [大家看完《消失的她》后有什么感受？](https://www.zhihu.com/question/609070712)<br />
-6. [亚马逊公司旗下 Kindle 中国电子书店停止运营，已启动退款程序，为何 Kindle 退出中国市场？](https://www.zhihu.com/question/609622371)<br />
-7. [卧冰求鲤为什么不用火，冰变薄不怕掉水里吗？](https://www.zhihu.com/question/609352523)<br />
+6. [卧冰求鲤为什么不用火，冰变薄不怕掉水里吗？](https://www.zhihu.com/question/609352523)<br />
+7. [亚马逊公司旗下 Kindle 中国电子书店停止运营，已启动退款程序，为何 Kindle 退出中国市场？](https://www.zhihu.com/question/609622371)<br />
 8. [情绪稳定的本质是什么？](https://www.zhihu.com/question/607297046)<br />
-9. [猫版「药神」研制出售「猫传腹」特效药，称治愈率达 90%，案值 1000 万被刑拘，如何看待此事？](https://www.zhihu.com/question/530455813)<br />
+9. [苹果市值突破三万亿美元，上半年纳指累涨 32%，特斯拉、英伟达等均涨超 100%，哪些信息值得关注？](https://www.zhihu.com/question/609751052)<br />
 
 > 百度  
 
@@ -32,9 +32,9 @@
 4. [2023年暑运正式启动](https://www.baidu.com/s?wd=2023%E5%B9%B4%E6%9A%91%E8%BF%90%E6%AD%A3%E5%BC%8F%E5%90%AF%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [杀害女子后潜逃的“书法家”已死亡](https://www.baidu.com/s?wd=%E6%9D%80%E5%AE%B3%E5%A5%B3%E5%AD%90%E5%90%8E%E6%BD%9C%E9%80%83%E7%9A%84%E2%80%9C%E4%B9%A6%E6%B3%95%E5%AE%B6%E2%80%9D%E5%B7%B2%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [杨颖工作室改名刘瑕心理工作室](https://www.baidu.com/s?wd=%E6%9D%A8%E9%A2%96%E5%B7%A5%E4%BD%9C%E5%AE%A4%E6%94%B9%E5%90%8D%E5%88%98%E7%91%95%E5%BF%83%E7%90%86%E5%B7%A5%E4%BD%9C%E5%AE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [驻美大使谢锋向拜登递交国书](https://www.baidu.com/s?wd=%E9%A9%BB%E7%BE%8E%E5%A4%A7%E4%BD%BF%E8%B0%A2%E9%94%8B%E5%90%91%E6%8B%9C%E7%99%BB%E9%80%92%E4%BA%A4%E5%9B%BD%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [黑龙江特大冰雹砸碎几乎整栋楼玻璃](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E7%89%B9%E5%A4%A7%E5%86%B0%E9%9B%B9%E7%A0%B8%E7%A2%8E%E5%87%A0%E4%B9%8E%E6%95%B4%E6%A0%8B%E6%A5%BC%E7%8E%BB%E7%92%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [Angelababy 这是我结婚的地方](https://www.baidu.com/s?wd=Angelababy+%E8%BF%99%E6%98%AF%E6%88%91%E7%BB%93%E5%A9%9A%E7%9A%84%E5%9C%B0%E6%96%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [娄艺潇自曝体重快120斤](https://www.baidu.com/s?wd=%E5%A8%84%E8%89%BA%E6%BD%87%E8%87%AA%E6%9B%9D%E4%BD%93%E9%87%8D%E5%BF%AB120%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [驻美大使谢锋向拜登递交国书](https://www.baidu.com/s?wd=%E9%A9%BB%E7%BE%8E%E5%A4%A7%E4%BD%BF%E8%B0%A2%E9%94%8B%E5%90%91%E6%8B%9C%E7%99%BB%E9%80%92%E4%BA%A4%E5%9B%BD%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [黑龙江特大冰雹砸碎几乎整栋楼玻璃](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E7%89%B9%E5%A4%A7%E5%86%B0%E9%9B%B9%E7%A0%B8%E7%A2%8E%E5%87%A0%E4%B9%8E%E6%95%B4%E6%A0%8B%E6%A5%BC%E7%8E%BB%E7%92%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [2023年暑运正式启动](https://www.baidu.com/s?wd=2023%E5%B9%B4%E6%9A%91%E8%BF%90%E6%AD%A3%E5%BC%8F%E5%90%AF%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [杀害女子后潜逃的“书法家”已死亡](https://www.baidu.com/s?wd=%E6%9D%80%E5%AE%B3%E5%A5%B3%E5%AD%90%E5%90%8E%E6%BD%9C%E9%80%83%E7%9A%84%E2%80%9C%E4%B9%A6%E6%B3%95%E5%AE%B6%E2%80%9D%E5%B7%B2%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [杨颖工作室改名刘瑕心理工作室](https://www.baidu.com/s?wd=%E6%9D%A8%E9%A2%96%E5%B7%A5%E4%BD%9C%E5%AE%A4%E6%94%B9%E5%90%8D%E5%88%98%E7%91%95%E5%BF%83%E7%90%86%E5%B7%A5%E4%BD%9C%E5%AE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [驻美大使谢锋向拜登递交国书](https://www.baidu.com/s?wd=%E9%A9%BB%E7%BE%8E%E5%A4%A7%E4%BD%BF%E8%B0%A2%E9%94%8B%E5%90%91%E6%8B%9C%E7%99%BB%E9%80%92%E4%BA%A4%E5%9B%BD%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [黑龙江特大冰雹砸碎几乎整栋楼玻璃](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E7%89%B9%E5%A4%A7%E5%86%B0%E9%9B%B9%E7%A0%B8%E7%A2%8E%E5%87%A0%E4%B9%8E%E6%95%B4%E6%A0%8B%E6%A5%BC%E7%8E%BB%E7%92%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [Angelababy 这是我结婚的地方](https://www.baidu.com/s?wd=Angelababy+%E8%BF%99%E6%98%AF%E6%88%91%E7%BB%93%E5%A9%9A%E7%9A%84%E5%9C%B0%E6%96%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [娄艺潇自曝体重快120斤](https://www.baidu.com/s?wd=%E5%A8%84%E8%89%BA%E6%BD%87%E8%87%AA%E6%9B%9D%E4%BD%93%E9%87%8D%E5%BF%AB120%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [驻美大使谢锋向拜登递交国书](https://www.baidu.com/s?wd=%E9%A9%BB%E7%BE%8E%E5%A4%A7%E4%BD%BF%E8%B0%A2%E9%94%8B%E5%90%91%E6%8B%9C%E7%99%BB%E9%80%92%E4%BA%A4%E5%9B%BD%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [黑龙江特大冰雹砸碎几乎整栋楼玻璃](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E7%89%B9%E5%A4%A7%E5%86%B0%E9%9B%B9%E7%A0%B8%E7%A2%8E%E5%87%A0%E4%B9%8E%E6%95%B4%E6%A0%8B%E6%A5%BC%E7%8E%BB%E7%92%83&sa=fyb_news&rsv_dl=fyb_news)<br />
