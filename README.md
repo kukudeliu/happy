@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 16:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 16:09:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [消息称小米印度正在进行大规模裁员，官方回应「根据市场和业务情况对员工数量进行规划」，哪些信息值得关注？](https://www.zhihu.com/question/609615935)<br />
 7. [庞贝古城遗址发现疑似披萨壁画，引发披萨起源与口味之争，如何看待这轮「披萨正统」争议？](https://www.zhihu.com/question/609283104)<br />
 8. [报告称德国 2022 年资本外逃创纪录，净流出量 1250 亿欧元，或已开启去工业化进程，将有何影响？](https://www.zhihu.com/question/609749272)<br />
-9. [中国高铁出海首单，印尼雅万高铁时速达 350 公里，日媒感叹「难以逾越的实力差距」，哪些信息值得关注？](https://www.zhihu.com/question/609596590)<br />
+9. [996 和高三哪个更痛苦？](https://www.zhihu.com/question/605620273)<br />
 
 > 百度  
 
@@ -30,11 +30,11 @@
 2. [记者采访官员被反问多宣传好的不行吗](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E9%87%87%E8%AE%BF%E5%AE%98%E5%91%98%E8%A2%AB%E5%8F%8D%E9%97%AE%E5%A4%9A%E5%AE%A3%E4%BC%A0%E5%A5%BD%E7%9A%84%E4%B8%8D%E8%A1%8C%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [法官辟谣父亲是老赖致女儿710分落榜](https://www.baidu.com/s?wd=%E6%B3%95%E5%AE%98%E8%BE%9F%E8%B0%A3%E7%88%B6%E4%BA%B2%E6%98%AF%E8%80%81%E8%B5%96%E8%87%B4%E5%A5%B3%E5%84%BF710%E5%88%86%E8%90%BD%E6%A6%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [勇担使命谋发展 矢志奋斗谱新篇](https://www.baidu.com/s?wd=%E5%8B%87%E6%8B%85%E4%BD%BF%E5%91%BD%E8%B0%8B%E5%8F%91%E5%B1%95+%E7%9F%A2%E5%BF%97%E5%A5%8B%E6%96%97%E8%B0%B1%E6%96%B0%E7%AF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [顾客吃肯德基发现鸡腿冒血水](https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E5%90%83%E8%82%AF%E5%BE%B7%E5%9F%BA%E5%8F%91%E7%8E%B0%E9%B8%A1%E8%85%BF%E5%86%92%E8%A1%80%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [三甲医院又现“塌方式”腐败](https://www.baidu.com/s?wd=%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2%E5%8F%88%E7%8E%B0%E2%80%9C%E5%A1%8C%E6%96%B9%E5%BC%8F%E2%80%9D%E8%85%90%E8%B4%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [三甲医院又现“塌方式”腐败](https://www.baidu.com/s?wd=%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2%E5%8F%88%E7%8E%B0%E2%80%9C%E5%A1%8C%E6%96%B9%E5%BC%8F%E2%80%9D%E8%85%90%E8%B4%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [曝蔡徐坤事件或涉及未成年](https://www.baidu.com/s?wd=%E6%9B%9D%E8%94%A1%E5%BE%90%E5%9D%A4%E4%BA%8B%E4%BB%B6%E6%88%96%E6%B6%89%E5%8F%8A%E6%9C%AA%E6%88%90%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [江西一化工厂起火 官方：无伤亡](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E4%B8%80%E5%8C%96%E5%B7%A5%E5%8E%82%E8%B5%B7%E7%81%AB+%E5%AE%98%E6%96%B9%EF%BC%9A%E6%97%A0%E4%BC%A4%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [曝蔡徐坤事件或涉及未成年](https://www.baidu.com/s?wd=%E6%9B%9D%E8%94%A1%E5%BE%90%E5%9D%A4%E4%BA%8B%E4%BB%B6%E6%88%96%E6%B6%89%E5%8F%8A%E6%9C%AA%E6%88%90%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [重庆山体滑坡压垮房屋致6人死亡](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E5%B1%B1%E4%BD%93%E6%BB%91%E5%9D%A1%E5%8E%8B%E5%9E%AE%E6%88%BF%E5%B1%8B%E8%87%B46%E4%BA%BA%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [重庆山体滑坡压垮房屋致6人死亡](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E5%B1%B1%E4%BD%93%E6%BB%91%E5%9D%A1%E5%8E%8B%E5%9E%AE%E6%88%BF%E5%B1%8B%E8%87%B46%E4%BA%BA%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [7岁女孩有弟弟后眼睛突然看不清](https://www.baidu.com/s?wd=7%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%9C%89%E5%BC%9F%E5%BC%9F%E5%90%8E%E7%9C%BC%E7%9D%9B%E7%AA%81%E7%84%B6%E7%9C%8B%E4%B8%8D%E6%B8%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -42,8 +42,8 @@
 2. [记者采访官员被反问多宣传好的不行吗](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E9%87%87%E8%AE%BF%E5%AE%98%E5%91%98%E8%A2%AB%E5%8F%8D%E9%97%AE%E5%A4%9A%E5%AE%A3%E4%BC%A0%E5%A5%BD%E7%9A%84%E4%B8%8D%E8%A1%8C%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [法官辟谣父亲是老赖致女儿710分落榜](https://www.baidu.com/s?wd=%E6%B3%95%E5%AE%98%E8%BE%9F%E8%B0%A3%E7%88%B6%E4%BA%B2%E6%98%AF%E8%80%81%E8%B5%96%E8%87%B4%E5%A5%B3%E5%84%BF710%E5%88%86%E8%90%BD%E6%A6%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [勇担使命谋发展 矢志奋斗谱新篇](https://www.baidu.com/s?wd=%E5%8B%87%E6%8B%85%E4%BD%BF%E5%91%BD%E8%B0%8B%E5%8F%91%E5%B1%95+%E7%9F%A2%E5%BF%97%E5%A5%8B%E6%96%97%E8%B0%B1%E6%96%B0%E7%AF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [顾客吃肯德基发现鸡腿冒血水](https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E5%90%83%E8%82%AF%E5%BE%B7%E5%9F%BA%E5%8F%91%E7%8E%B0%E9%B8%A1%E8%85%BF%E5%86%92%E8%A1%80%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [三甲医院又现“塌方式”腐败](https://www.baidu.com/s?wd=%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2%E5%8F%88%E7%8E%B0%E2%80%9C%E5%A1%8C%E6%96%B9%E5%BC%8F%E2%80%9D%E8%85%90%E8%B4%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [三甲医院又现“塌方式”腐败](https://www.baidu.com/s?wd=%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2%E5%8F%88%E7%8E%B0%E2%80%9C%E5%A1%8C%E6%96%B9%E5%BC%8F%E2%80%9D%E8%85%90%E8%B4%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [曝蔡徐坤事件或涉及未成年](https://www.baidu.com/s?wd=%E6%9B%9D%E8%94%A1%E5%BE%90%E5%9D%A4%E4%BA%8B%E4%BB%B6%E6%88%96%E6%B6%89%E5%8F%8A%E6%9C%AA%E6%88%90%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [江西一化工厂起火 官方：无伤亡](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E4%B8%80%E5%8C%96%E5%B7%A5%E5%8E%82%E8%B5%B7%E7%81%AB+%E5%AE%98%E6%96%B9%EF%BC%9A%E6%97%A0%E4%BC%A4%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [曝蔡徐坤事件或涉及未成年](https://www.baidu.com/s?wd=%E6%9B%9D%E8%94%A1%E5%BE%90%E5%9D%A4%E4%BA%8B%E4%BB%B6%E6%88%96%E6%B6%89%E5%8F%8A%E6%9C%AA%E6%88%90%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [重庆山体滑坡压垮房屋致6人死亡](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E5%B1%B1%E4%BD%93%E6%BB%91%E5%9D%A1%E5%8E%8B%E5%9E%AE%E6%88%BF%E5%B1%8B%E8%87%B46%E4%BA%BA%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [重庆山体滑坡压垮房屋致6人死亡](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E5%B1%B1%E4%BD%93%E6%BB%91%E5%9D%A1%E5%8E%8B%E5%9E%AE%E6%88%BF%E5%B1%8B%E8%87%B46%E4%BA%BA%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [7岁女孩有弟弟后眼睛突然看不清](https://www.baidu.com/s?wd=7%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%9C%89%E5%BC%9F%E5%BC%9F%E5%90%8E%E7%9C%BC%E7%9D%9B%E7%AA%81%E7%84%B6%E7%9C%8B%E4%B8%8D%E6%B8%85&sa=fyb_news&rsv_dl=fyb_news)<br />
