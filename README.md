@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 15:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 15:39:02</h4></div>
 
 > 微博  
 
 1. [刘宇宁王子文 蝉女](https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%E7%8E%8B%E5%AD%90%E6%96%87%20%E8%9D%89%E5%A5%B3&t=31&band_rank=1&Refer=top)<br />
-2. [江西一化工厂爆炸](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E4%B8%80%E5%8C%96%E5%B7%A5%E5%8E%82%E7%88%86%E7%82%B8%23&t=31&band_rank=2&Refer=top)<br />
+2. [7月狗屎运最旺星座](https://s.weibo.com/weibo?q=%237%E6%9C%88%E7%8B%97%E5%B1%8E%E8%BF%90%E6%9C%80%E6%97%BA%E6%98%9F%E5%BA%A7%23&t=31&band_rank=2&Refer=top)<br />
 3. [香港回归这一刻再看依然心潮澎湃](https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%9B%9E%E5%BD%92%E8%BF%99%E4%B8%80%E5%88%BB%E5%86%8D%E7%9C%8B%E4%BE%9D%E7%84%B6%E5%BF%83%E6%BD%AE%E6%BE%8E%E6%B9%83%23&t=31&band_rank=3&Refer=top)<br />
-4. [李现 这次没有版权问题了](https://s.weibo.com/weibo?q=%E6%9D%8E%E7%8E%B0%20%E8%BF%99%E6%AC%A1%E6%B2%A1%E6%9C%89%E7%89%88%E6%9D%83%E9%97%AE%E9%A2%98%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
-5. [7月狗屎运最旺星座](https://s.weibo.com/weibo?q=%237%E6%9C%88%E7%8B%97%E5%B1%8E%E8%BF%90%E6%9C%80%E6%97%BA%E6%98%9F%E5%BA%A7%23&t=31&band_rank=5&Refer=top)<br />
+4. [江西一化工厂爆炸](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E4%B8%80%E5%8C%96%E5%B7%A5%E5%8E%82%E7%88%86%E7%82%B8%23&t=31&band_rank=4&Refer=top)<br />
+5. [李现 这次没有版权问题了](https://s.weibo.com/weibo?q=%E6%9D%8E%E7%8E%B0%20%E8%BF%99%E6%AC%A1%E6%B2%A1%E6%9C%89%E7%89%88%E6%9D%83%E9%97%AE%E9%A2%98%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
 6. [夏目友人帐](https://s.weibo.com/weibo?q=%E5%A4%8F%E7%9B%AE%E5%8F%8B%E4%BA%BA%E5%B8%90&t=31&band_rank=6&Refer=top)<br />
 7. [何非的保证书是朱一龙写的](https://s.weibo.com/weibo?q=%23%E4%BD%95%E9%9D%9E%E7%9A%84%E4%BF%9D%E8%AF%81%E4%B9%A6%E6%98%AF%E6%9C%B1%E4%B8%80%E9%BE%99%E5%86%99%E7%9A%84%23&t=31&band_rank=7&Refer=top)<br />
 8. [允许带孩子上班的单位太幸福了](https://s.weibo.com/weibo?q=%23%E5%85%81%E8%AE%B8%E5%B8%A6%E5%AD%A9%E5%AD%90%E4%B8%8A%E7%8F%AD%E7%9A%84%E5%8D%95%E4%BD%8D%E5%A4%AA%E5%B9%B8%E7%A6%8F%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
@@ -34,7 +34,7 @@
 6. [三甲医院又现“塌方式”腐败](https://www.baidu.com/s?wd=%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2%E5%8F%88%E7%8E%B0%E2%80%9C%E5%A1%8C%E6%96%B9%E5%BC%8F%E2%80%9D%E8%85%90%E8%B4%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [江西一化工厂起火 官方：无伤亡](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E4%B8%80%E5%8C%96%E5%B7%A5%E5%8E%82%E8%B5%B7%E7%81%AB+%E5%AE%98%E6%96%B9%EF%BC%9A%E6%97%A0%E4%BC%A4%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [曝蔡徐坤事件或涉及未成年](https://www.baidu.com/s?wd=%E6%9B%9D%E8%94%A1%E5%BE%90%E5%9D%A4%E4%BA%8B%E4%BB%B6%E6%88%96%E6%B6%89%E5%8F%8A%E6%9C%AA%E6%88%90%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子带娃乘车被挤强坐女乘客腿上](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%B8%A6%E5%A8%83%E4%B9%98%E8%BD%A6%E8%A2%AB%E6%8C%A4%E5%BC%BA%E5%9D%90%E5%A5%B3%E4%B9%98%E5%AE%A2%E8%85%BF%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [奔跑吧节目封面大写我太难了](https://www.baidu.com/s?wd=%E5%A5%94%E8%B7%91%E5%90%A7%E8%8A%82%E7%9B%AE%E5%B0%81%E9%9D%A2%E5%A4%A7%E5%86%99%E6%88%91%E5%A4%AA%E9%9A%BE%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [三甲医院又现“塌方式”腐败](https://www.baidu.com/s?wd=%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2%E5%8F%88%E7%8E%B0%E2%80%9C%E5%A1%8C%E6%96%B9%E5%BC%8F%E2%80%9D%E8%85%90%E8%B4%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [江西一化工厂起火 官方：无伤亡](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E4%B8%80%E5%8C%96%E5%B7%A5%E5%8E%82%E8%B5%B7%E7%81%AB+%E5%AE%98%E6%96%B9%EF%BC%9A%E6%97%A0%E4%BC%A4%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [曝蔡徐坤事件或涉及未成年](https://www.baidu.com/s?wd=%E6%9B%9D%E8%94%A1%E5%BE%90%E5%9D%A4%E4%BA%8B%E4%BB%B6%E6%88%96%E6%B6%89%E5%8F%8A%E6%9C%AA%E6%88%90%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子带娃乘车被挤强坐女乘客腿上](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%B8%A6%E5%A8%83%E4%B9%98%E8%BD%A6%E8%A2%AB%E6%8C%A4%E5%BC%BA%E5%9D%90%E5%A5%B3%E4%B9%98%E5%AE%A2%E8%85%BF%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [奔跑吧节目封面大写我太难了](https://www.baidu.com/s?wd=%E5%A5%94%E8%B7%91%E5%90%A7%E8%8A%82%E7%9B%AE%E5%B0%81%E9%9D%A2%E5%A4%A7%E5%86%99%E6%88%91%E5%A4%AA%E9%9A%BE%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
