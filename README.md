@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 21:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 21:38:01</h4></div>
 
 > 微博  
 
@@ -14,14 +14,14 @@
 
 > 知乎  
 
-1. [联合国教科文组织通过决议，允许美国在 7 月恢复会员国身份，中国对最终决议投了反对票，如何解读？](https://www.zhihu.com/question/609689310)<br />
-2. [读了 17 年高中的唐尚珺今年高考 594 分，并决定去读大学，如何评价唐尚珺「多年高考」的行为？](https://www.zhihu.com/question/609651139)<br />
+1. [读了 17 年高中的唐尚珺今年高考 594 分，并决定去读大学，如何评价唐尚珺「多年高考」的行为？](https://www.zhihu.com/question/609651139)<br />
+2. [联合国教科文组织通过决议，允许美国在 7 月恢复会员国身份，中国对最终决议投了反对票，如何解读？](https://www.zhihu.com/question/609689310)<br />
 3. [湖人自由市场首日四笔签约：续约八村塁，签约文森特、普林斯和雷迪什，如评价这些签约？](https://www.zhihu.com/question/609753176)<br />
 4. [大学生有什么学习网站?](https://www.zhihu.com/question/600134551)<br />
 5. [「港车北上」政策正式实施，首辆香港单牌车驶入珠海，将带来哪些便利？有哪些意义？](https://www.zhihu.com/question/609774013)<br />
 6. [为什么「加」「恰」「霞」三个字的拼音分别是 jiā、 qià、 xiá，而不是 jā、 qà、 xá？](https://www.zhihu.com/question/609163323)<br />
-7. [亚马逊公司旗下 Kindle 中国电子书店停止运营，已启动退款程序，为何 Kindle 退出中国市场？](https://www.zhihu.com/question/609622371)<br />
-8. [大家看完《消失的她》后有什么感受？](https://www.zhihu.com/question/609070712)<br />
+7. [大家看完《消失的她》后有什么感受？](https://www.zhihu.com/question/609070712)<br />
+8. [亚马逊公司旗下 Kindle 中国电子书店停止运营，已启动退款程序，为何 Kindle 退出中国市场？](https://www.zhihu.com/question/609622371)<br />
 9. [消息称小米印度正在进行大规模裁员，官方回应「根据市场和业务情况对员工数量进行规划」，哪些信息值得关注？](https://www.zhihu.com/question/609615935)<br />
 
 > 百度  
@@ -33,8 +33,8 @@
 5. [国防科大回应近期网络传闻](https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E7%A7%91%E5%A4%A7%E5%9B%9E%E5%BA%94%E8%BF%91%E6%9C%9F%E7%BD%91%E7%BB%9C%E4%BC%A0%E9%97%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [国科大校长说着说着就哭了](https://www.baidu.com/s?wd=%E5%9B%BD%E7%A7%91%E5%A4%A7%E6%A0%A1%E9%95%BF%E8%AF%B4%E7%9D%80%E8%AF%B4%E7%9D%80%E5%B0%B1%E5%93%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [胖东来老板劝网友卖房](https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E8%80%81%E6%9D%BF%E5%8A%9D%E7%BD%91%E5%8F%8B%E5%8D%96%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [三甲医院又现“塌方式”腐败](https://www.baidu.com/s?wd=%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2%E5%8F%88%E7%8E%B0%E2%80%9C%E5%A1%8C%E6%96%B9%E5%BC%8F%E2%80%9D%E8%85%90%E8%B4%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [娄艺潇自曝体重快120斤](https://www.baidu.com/s?wd=%E5%A8%84%E8%89%BA%E6%BD%87%E8%87%AA%E6%9B%9D%E4%BD%93%E9%87%8D%E5%BF%AB120%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [知情人:杀害女子“书法家”自缢身亡](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%3A%E6%9D%80%E5%AE%B3%E5%A5%B3%E5%AD%90%E2%80%9C%E4%B9%A6%E6%B3%95%E5%AE%B6%E2%80%9D%E8%87%AA%E7%BC%A2%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [三甲医院又现“塌方式”腐败](https://www.baidu.com/s?wd=%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2%E5%8F%88%E7%8E%B0%E2%80%9C%E5%A1%8C%E6%96%B9%E5%BC%8F%E2%80%9D%E8%85%90%E8%B4%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [国防科大回应近期网络传闻](https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E7%A7%91%E5%A4%A7%E5%9B%9E%E5%BA%94%E8%BF%91%E6%9C%9F%E7%BD%91%E7%BB%9C%E4%BC%A0%E9%97%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [国科大校长说着说着就哭了](https://www.baidu.com/s?wd=%E5%9B%BD%E7%A7%91%E5%A4%A7%E6%A0%A1%E9%95%BF%E8%AF%B4%E7%9D%80%E8%AF%B4%E7%9D%80%E5%B0%B1%E5%93%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [胖东来老板劝网友卖房](https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E8%80%81%E6%9D%BF%E5%8A%9D%E7%BD%91%E5%8F%8B%E5%8D%96%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [三甲医院又现“塌方式”腐败](https://www.baidu.com/s?wd=%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2%E5%8F%88%E7%8E%B0%E2%80%9C%E5%A1%8C%E6%96%B9%E5%BC%8F%E2%80%9D%E8%85%90%E8%B4%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [娄艺潇自曝体重快120斤](https://www.baidu.com/s?wd=%E5%A8%84%E8%89%BA%E6%BD%87%E8%87%AA%E6%9B%9D%E4%BD%93%E9%87%8D%E5%BF%AB120%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [知情人:杀害女子“书法家”自缢身亡](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%3A%E6%9D%80%E5%AE%B3%E5%A5%B3%E5%AD%90%E2%80%9C%E4%B9%A6%E6%B3%95%E5%AE%B6%E2%80%9D%E8%87%AA%E7%BC%A2%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [三甲医院又现“塌方式”腐败](https://www.baidu.com/s?wd=%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2%E5%8F%88%E7%8E%B0%E2%80%9C%E5%A1%8C%E6%96%B9%E5%BC%8F%E2%80%9D%E8%85%90%E8%B4%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
