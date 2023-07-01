@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 23:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 23:54:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [义乌脸基尼卖爆了](https://www.baidu.com/s?wd=%E4%B9%89%E4%B9%8C%E8%84%B8%E5%9F%BA%E5%B0%BC%E5%8D%96%E7%88%86%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [孙女给生活不能自理爷爷洗澡引争议](https://www.baidu.com/s?wd=%E5%AD%99%E5%A5%B3%E7%BB%99%E7%94%9F%E6%B4%BB%E4%B8%8D%E8%83%BD%E8%87%AA%E7%90%86%E7%88%B7%E7%88%B7%E6%B4%97%E6%BE%A1%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女生用小喷雾器烫伤男生 高校回应](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E7%94%A8%E5%B0%8F%E5%96%B7%E9%9B%BE%E5%99%A8%E7%83%AB%E4%BC%A4%E7%94%B7%E7%94%9F+%E9%AB%98%E6%A0%A1%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [“村BA”之后“村排”又爆火](https://www.baidu.com/s?wd=%E2%80%9C%E6%9D%91BA%E2%80%9D%E4%B9%8B%E5%90%8E%E2%80%9C%E6%9D%91%E6%8E%92%E2%80%9D%E5%8F%88%E7%88%86%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [三甲医院又现“塌方式”腐败](https://www.baidu.com/s?wd=%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2%E5%8F%88%E7%8E%B0%E2%80%9C%E5%A1%8C%E6%96%B9%E5%BC%8F%E2%80%9D%E8%85%90%E8%B4%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [义乌脸基尼卖爆了](https://www.baidu.com/s?wd=%E4%B9%89%E4%B9%8C%E8%84%B8%E5%9F%BA%E5%B0%BC%E5%8D%96%E7%88%86%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [孙女给生活不能自理爷爷洗澡引争议](https://www.baidu.com/s?wd=%E5%AD%99%E5%A5%B3%E7%BB%99%E7%94%9F%E6%B4%BB%E4%B8%8D%E8%83%BD%E8%87%AA%E7%90%86%E7%88%B7%E7%88%B7%E6%B4%97%E6%BE%A1%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女生用小喷雾器烫伤男生 高校回应](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E7%94%A8%E5%B0%8F%E5%96%B7%E9%9B%BE%E5%99%A8%E7%83%AB%E4%BC%A4%E7%94%B7%E7%94%9F+%E9%AB%98%E6%A0%A1%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [“村BA”之后“村排”又爆火](https://www.baidu.com/s?wd=%E2%80%9C%E6%9D%91BA%E2%80%9D%E4%B9%8B%E5%90%8E%E2%80%9C%E6%9D%91%E6%8E%92%E2%80%9D%E5%8F%88%E7%88%86%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [三甲医院又现“塌方式”腐败](https://www.baidu.com/s?wd=%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2%E5%8F%88%E7%8E%B0%E2%80%9C%E5%A1%8C%E6%96%B9%E5%BC%8F%E2%80%9D%E8%85%90%E8%B4%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
