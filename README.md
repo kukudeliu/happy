@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 12:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 12:45:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [如何看待山河四省学子在网上自建山河大学？](https://www.zhihu.com/question/609297089)<br />
 5. [乌克兰正讨论禁止现金支付，或成首个废除现金国家，号称可减少至少 95% 腐败，这一举措是否合理？](https://www.zhihu.com/question/609605756)<br />
 6. [同样是 T1 坦辅，为什么张飞在顶端巅峰赛比牛魔更受大众喜爱呢？](https://www.zhihu.com/question/584112807)<br />
-7. [携程宣布投入 10 亿元鼓励员工生育，每孩每年 1 万，连发 5 年，如何看待此举？哪些信息值得关注？](https://www.zhihu.com/question/609559160)<br />
-8. [为什么物理学中先假设理论是对称的，再让其破缺？](https://www.zhihu.com/question/609401387)<br />
-9. [人情世故真的比能力更重要吗？](https://www.zhihu.com/question/607551898)<br />
+7. [美国一季度 GDP 终值出现罕见大幅上修，这意味着什么？](https://www.zhihu.com/question/609552412)<br />
+8. [携程宣布投入 10 亿元鼓励员工生育，每孩每年 1 万，连发 5 年，如何看待此举？哪些信息值得关注？](https://www.zhihu.com/question/609559160)<br />
+9. [准大一生应该先提前买电脑还是开学后再买？](https://www.zhihu.com/question/609719019)<br />
 
 > 百度  
 
