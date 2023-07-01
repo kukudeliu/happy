@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 09:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 09:23:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [内娱纯元](https://s.weibo.com/weibo?q=%E5%86%85%E5%A8%B1%E7%BA%AF%E5%85%83&t=31&band_rank=6&Refer=top)<br />
 7. [19970701零时零分零秒](https://s.weibo.com/weibo?q=%2319970701%E9%9B%B6%E6%97%B6%E9%9B%B6%E5%88%86%E9%9B%B6%E7%A7%92%23&t=31&band_rank=7&Refer=top)<br />
 8. [法国骚乱](https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD%E9%AA%9A%E4%B9%B1&t=31&band_rank=8&Refer=top)<br />
-9. [爱奇艺工作人员 白敬亭好好对宋轶](https://s.weibo.com/weibo?q=%E7%88%B1%E5%A5%87%E8%89%BA%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%20%E7%99%BD%E6%95%AC%E4%BA%AD%E5%A5%BD%E5%A5%BD%E5%AF%B9%E5%AE%8B%E8%BD%B6&t=31&band_rank=9&Refer=top)<br />
+9. [绝世网红](https://s.weibo.com/weibo?q=%E7%BB%9D%E4%B8%96%E7%BD%91%E7%BA%A2&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
