@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 00:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 00:05:01</h4></div>
 
 > 微博  
 
@@ -19,8 +19,8 @@
 3. [如何看待 2023 年频繁的混乱天气？](https://www.zhihu.com/question/597012158)<br />
 4. [儿子今年读初中，想看金庸的书，我该不该给他买？](https://www.zhihu.com/question/609342307)<br />
 5. [2023 LPL 夏季赛 JDG 2:0 UP，如何评价这场比赛？](https://www.zhihu.com/question/609792660)<br />
-6. [想学习大语言模型 (LLM)，应该从哪个开源模型开始？](https://www.zhihu.com/question/608820310)<br />
-7. [高考结束了，马上要步入大学校门了，有什么比较适合大学生的笔记本电脑？](https://www.zhihu.com/question/606656875)<br />
+6. [高考结束了，马上要步入大学校门了，有什么比较适合大学生的笔记本电脑？](https://www.zhihu.com/question/606656875)<br />
+7. [想学习大语言模型 (LLM)，应该从哪个开源模型开始？](https://www.zhihu.com/question/608820310)<br />
 8. [大家看完《消失的她》后有什么感受？](https://www.zhihu.com/question/609070712)<br />
 9. [为什么「加」「恰」「霞」三个字的拼音分别是 jiā、 qià、 xiá，而不是 jā、 qà、 xá？](https://www.zhihu.com/question/609163323)<br />
 
