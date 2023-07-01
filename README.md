@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 11:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 12:00:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [三十岁女生给二十岁女生的建议](https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%8D%81%E5%B2%81%E5%A5%B3%E7%94%9F%E7%BB%99%E4%BA%8C%E5%8D%81%E5%B2%81%E5%A5%B3%E7%94%9F%E7%9A%84%E5%BB%BA%E8%AE%AE%23&t=31&band_rank=6&Refer=top)<br />
 7. [消失的她票房超人生大事](https://s.weibo.com/weibo?q=%23%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%88%BF%E8%B6%85%E4%BA%BA%E7%94%9F%E5%A4%A7%E4%BA%8B%23&t=31&band_rank=7&Refer=top)<br />
 8. [饿了么免单](https://s.weibo.com/weibo?q=%E9%A5%BF%E4%BA%86%E4%B9%88%E5%85%8D%E5%8D%95&t=31&band_rank=8&Refer=top)<br />
-9. [空调这样调才是真省电](https://s.weibo.com/weibo?q=%E7%A9%BA%E8%B0%83%E8%BF%99%E6%A0%B7%E8%B0%83%E6%89%8D%E6%98%AF%E7%9C%9F%E7%9C%81%E7%94%B5&t=31&band_rank=9&Refer=top)<br />
+9. [19970701零时零分零秒](https://s.weibo.com/weibo?q=%2319970701%E9%9B%B6%E6%97%B6%E9%9B%B6%E5%88%86%E9%9B%B6%E7%A7%92%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
