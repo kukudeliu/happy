@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 00:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 00:53:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [刘美含 北大](https://s.weibo.com/weibo?q=%E5%88%98%E7%BE%8E%E5%90%AB%20%E5%8C%97%E5%A4%A7&t=31&band_rank=6&Refer=top)<br />
 7. [让外国网友帮忙做英语作业](https://s.weibo.com/weibo?q=%E8%AE%A9%E5%A4%96%E5%9B%BD%E7%BD%91%E5%8F%8B%E5%B8%AE%E5%BF%99%E5%81%9A%E8%8B%B1%E8%AF%AD%E4%BD%9C%E4%B8%9A&t=31&band_rank=7&Refer=top)<br />
 8. [白敬亭这真的是你吗](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E8%BF%99%E7%9C%9F%E7%9A%84%E6%98%AF%E4%BD%A0%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [古巨基和老婆求婚的原因](https://s.weibo.com/weibo?q=%23%E5%8F%A4%E5%B7%A8%E5%9F%BA%E5%92%8C%E8%80%81%E5%A9%86%E6%B1%82%E5%A9%9A%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=9&Refer=top)<br />
+9. [HUSH 金曲歌王](https://s.weibo.com/weibo?q=HUSH%20%E9%87%91%E6%9B%B2%E6%AD%8C%E7%8E%8B&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
