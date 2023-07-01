@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 14:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 14:38:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 2. [联合国教科文组织通过决议，允许美国在 7 月恢复会员国身份，中国对最终决议投了反对票，如何解读？](https://www.zhihu.com/question/609689310)<br />
 3. [美国一季度 GDP 终值出现罕见大幅上修，这意味着什么？](https://www.zhihu.com/question/609552412)<br />
 4. [如何看待山河四省学子在网上自建山河大学？](https://www.zhihu.com/question/609297089)<br />
-5. []()<br />
+5. [读了 17 年高中的唐尚珺今年高考 594 分，并决定去读大学，如何评价唐尚珺「多年高考」的行为？](https://www.zhihu.com/question/609651139)<br />
 6. [美国《国家地理》杂志纸质版明年停刊，停刊原因可能是什么？](https://www.zhihu.com/question/609610373)<br />
 7. [亚马逊公司旗下 Kindle 中国电子书店停止运营，已启动退款程序，为何 Kindle 退出中国市场？](https://www.zhihu.com/question/609622371)<br />
 8. [你觉得勇士如何补强才能在库里生涯暮年再获一冠?](https://www.zhihu.com/question/608988761)<br />
