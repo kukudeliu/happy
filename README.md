@@ -1,13 +1,13 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 00:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 00:18:01</h4></div>
 
 > 微博  
 
 1. [ALin 金曲歌后](https://s.weibo.com/weibo?q=ALin%20%E9%87%91%E6%9B%B2%E6%AD%8C%E5%90%8E&t=31&band_rank=1&Refer=top)<br />
 2. [正式被确诊为浣碧](https://s.weibo.com/weibo?q=%23%E6%AD%A3%E5%BC%8F%E8%A2%AB%E7%A1%AE%E8%AF%8A%E4%B8%BA%E6%B5%A3%E7%A2%A7%23&t=31&band_rank=2&Refer=top)<br />
 3. [七一勋章获得者的事迹有多感人](https://s.weibo.com/weibo?q=%23%E4%B8%83%E4%B8%80%E5%8B%8B%E7%AB%A0%E8%8E%B7%E5%BE%97%E8%80%85%E7%9A%84%E4%BA%8B%E8%BF%B9%E6%9C%89%E5%A4%9A%E6%84%9F%E4%BA%BA%23&t=31&band_rank=3&Refer=top)<br />
-4. [古巨基和老婆求婚的原因](https://s.weibo.com/weibo?q=%23%E5%8F%A4%E5%B7%A8%E5%9F%BA%E5%92%8C%E8%80%81%E5%A9%86%E6%B1%82%E5%A9%9A%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=4&Refer=top)<br />
-5. [金曲奖](https://s.weibo.com/weibo?q=%E9%87%91%E6%9B%B2%E5%A5%96&t=31&band_rank=5&Refer=top)<br />
-6. [推特崩了](https://s.weibo.com/weibo?q=%E6%8E%A8%E7%89%B9%E5%B4%A9%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
+4. [推特崩了](https://s.weibo.com/weibo?q=%E6%8E%A8%E7%89%B9%E5%B4%A9%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
+5. [古巨基和老婆求婚的原因](https://s.weibo.com/weibo?q=%23%E5%8F%A4%E5%B7%A8%E5%9F%BA%E5%92%8C%E8%80%81%E5%A9%86%E6%B1%82%E5%A9%9A%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=5&Refer=top)<br />
+6. [金曲奖](https://s.weibo.com/weibo?q=%E9%87%91%E6%9B%B2%E5%A5%96&t=31&band_rank=6&Refer=top)<br />
 7. [艾怡良颁奖乌龙](https://s.weibo.com/weibo?q=%23%E8%89%BE%E6%80%A1%E8%89%AF%E9%A2%81%E5%A5%96%E4%B9%8C%E9%BE%99%23&t=31&band_rank=7&Refer=top)<br />
 8. [白敬亭这真的是你吗](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E8%BF%99%E7%9C%9F%E7%9A%84%E6%98%AF%E4%BD%A0%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
 9. [花花接住谭爷爷给的小苹果](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%8A%B1%E6%8E%A5%E4%BD%8F%E8%B0%AD%E7%88%B7%E7%88%B7%E7%BB%99%E7%9A%84%E5%B0%8F%E8%8B%B9%E6%9E%9C%23&t=31&band_rank=9&Refer=top)<br />
@@ -22,7 +22,7 @@
 6. [如何看待 2023 年频繁的混乱天气？](https://www.zhihu.com/question/597012158)<br />
 7. [想学习大语言模型 (LLM)，应该从哪个开源模型开始？](https://www.zhihu.com/question/608820310)<br />
 8. [大家看完《消失的她》后有什么感受？](https://www.zhihu.com/question/609070712)<br />
-9. [为什么「加」「恰」「霞」三个字的拼音分别是 jiā、 qià、 xiá，而不是 jā、 qà、 xá？](https://www.zhihu.com/question/609163323)<br />
+9. [亚马逊公司旗下 Kindle 中国电子书店停止运营，已启动退款程序，为何 Kindle 退出中国市场？](https://www.zhihu.com/question/609622371)<br />
 
 > 百度  
 
