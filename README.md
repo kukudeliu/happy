@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 01:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 02:00:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [刘美含 北大](https://s.weibo.com/weibo?q=%E5%88%98%E7%BE%8E%E5%90%AB%20%E5%8C%97%E5%A4%A7&t=31&band_rank=6&Refer=top)<br />
 7. [汪东城音乐节](https://s.weibo.com/weibo?q=%E6%B1%AA%E4%B8%9C%E5%9F%8E%E9%9F%B3%E4%B9%90%E8%8A%82&t=31&band_rank=7&Refer=top)<br />
 8. [女子去世7只猫继承217万遗产](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%8E%BB%E4%B8%967%E5%8F%AA%E7%8C%AB%E7%BB%A7%E6%89%BF217%E4%B8%87%E9%81%97%E4%BA%A7%23&t=31&band_rank=8&Refer=top)<br />
-9. [白敬亭这真的是你吗](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E8%BF%99%E7%9C%9F%E7%9A%84%E6%98%AF%E4%BD%A0%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
+9. [让外国网友帮忙做英语作业](https://s.weibo.com/weibo?q=%E8%AE%A9%E5%A4%96%E5%9B%BD%E7%BD%91%E5%8F%8B%E5%B8%AE%E5%BF%99%E5%81%9A%E8%8B%B1%E8%AF%AD%E4%BD%9C%E4%B8%9A&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [2023 LPL 夏季赛 Uzi 招牌 VN 登场，EDG 2:1 击败 WE，如何评价这场比赛？](https://www.zhihu.com/question/609805906)<br />
 7. [目前我国经济复苏进程正处于哪一阶段？当前中国经济的复苏与以往的周期性复苏有什么差别？](https://www.zhihu.com/question/609606249)<br />
 8. [消息称小米印度正在进行大规模裁员，官方回应「根据市场和业务情况对员工数量进行规划」，哪些信息值得关注？](https://www.zhihu.com/question/609615935)<br />
-9. [大家看完《消失的她》后有什么感受？](https://www.zhihu.com/question/609070712)<br />
+9. [996 和高三哪个更痛苦？](https://www.zhihu.com/question/605620273)<br />
 
 > 百度  
 
