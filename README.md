@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 20:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 20:48:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [102年中的变与不变](https://s.weibo.com/weibo?q=%23102%E5%B9%B4%E4%B8%AD%E7%9A%84%E5%8F%98%E4%B8%8E%E4%B8%8D%E5%8F%98%23&t=31&band_rank=3&Refer=top)<br />
 4. [胖东来老板劝网友卖房](https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E8%80%81%E6%9D%BF%E5%8A%9D%E7%BD%91%E5%8F%8B%E5%8D%96%E6%88%BF%23&t=31&band_rank=4&Refer=top)<br />
 5. [消失的她票根还有隐藏刀](https://s.weibo.com/weibo?q=%23%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%A0%B9%E8%BF%98%E6%9C%89%E9%9A%90%E8%97%8F%E5%88%80%23&t=31&band_rank=5&Refer=top)<br />
-6. [法国骚乱已蔓延到邻国比利时](https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E9%AA%9A%E4%B9%B1%E5%B7%B2%E8%94%93%E5%BB%B6%E5%88%B0%E9%82%BB%E5%9B%BD%E6%AF%94%E5%88%A9%E6%97%B6%23&t=31&band_rank=6&Refer=top)<br />
-7. [广西一教师在医院楼顶水箱溺亡](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E4%B8%80%E6%95%99%E5%B8%88%E5%9C%A8%E5%8C%BB%E9%99%A2%E6%A5%BC%E9%A1%B6%E6%B0%B4%E7%AE%B1%E6%BA%BA%E4%BA%A1%23&t=31&band_rank=7&Refer=top)<br />
+6. [广西一教师在医院楼顶水箱溺亡](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E4%B8%80%E6%95%99%E5%B8%88%E5%9C%A8%E5%8C%BB%E9%99%A2%E6%A5%BC%E9%A1%B6%E6%B0%B4%E7%AE%B1%E6%BA%BA%E4%BA%A1%23&t=31&band_rank=6&Refer=top)<br />
+7. [法国骚乱已蔓延到邻国比利时](https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E9%AA%9A%E4%B9%B1%E5%B7%B2%E8%94%93%E5%BB%B6%E5%88%B0%E9%82%BB%E5%9B%BD%E6%AF%94%E5%88%A9%E6%97%B6%23&t=31&band_rank=7&Refer=top)<br />
 8. [金曲奖](https://s.weibo.com/weibo?q=%E9%87%91%E6%9B%B2%E5%A5%96&t=31&band_rank=8&Refer=top)<br />
 9. [鹿晗演唱会给粉丝送Gucci](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%BC%94%E5%94%B1%E4%BC%9A%E7%BB%99%E7%B2%89%E4%B8%9D%E9%80%81Gucci%23&t=31&band_rank=9&Refer=top)<br />
 
@@ -17,12 +17,12 @@
 1. [联合国教科文组织通过决议，允许美国在 7 月恢复会员国身份，中国对最终决议投了反对票，如何解读？](https://www.zhihu.com/question/609689310)<br />
 2. [读了 17 年高中的唐尚珺今年高考 594 分，并决定去读大学，如何评价唐尚珺「多年高考」的行为？](https://www.zhihu.com/question/609651139)<br />
 3. [「港车北上」政策正式实施，首辆香港单牌车驶入珠海，将带来哪些便利？有哪些意义？](https://www.zhihu.com/question/609774013)<br />
-4. [消息称小米印度正在进行大规模裁员，官方回应「根据市场和业务情况对员工数量进行规划」，哪些信息值得关注？](https://www.zhihu.com/question/609615935)<br />
-5. [为什么「加」「恰」「霞」三个字的拼音分别是 jiā、 qià、 xiá，而不是 jā、 qà、 xá？](https://www.zhihu.com/question/609163323)<br />
+4. [为什么「加」「恰」「霞」三个字的拼音分别是 jiā、 qià、 xiá，而不是 jā、 qà、 xá？](https://www.zhihu.com/question/609163323)<br />
+5. [消息称小米印度正在进行大规模裁员，官方回应「根据市场和业务情况对员工数量进行规划」，哪些信息值得关注？](https://www.zhihu.com/question/609615935)<br />
 6. [湖人自由市场首日四笔签约：续约八村塁，签约文森特、普林斯和雷迪什，如评价这些签约？](https://www.zhihu.com/question/609753176)<br />
 7. [大学生有什么学习网站?](https://www.zhihu.com/question/600134551)<br />
-8. [大家看完《消失的她》后有什么感受？](https://www.zhihu.com/question/609070712)<br />
-9. [996 和高三哪个更痛苦？](https://www.zhihu.com/question/605620273)<br />
+8. [996 和高三哪个更痛苦？](https://www.zhihu.com/question/605620273)<br />
+9. [大家看完《消失的她》后有什么感受？](https://www.zhihu.com/question/609070712)<br />
 
 > 百度  
 
