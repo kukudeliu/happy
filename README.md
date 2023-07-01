@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 00:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 00:50:01</h4></div>
 
 > 微博  
 
@@ -17,8 +17,8 @@
 1. [读了 17 年高中的唐尚珺今年高考 594 分，并决定去读大学，如何评价唐尚珺「多年高考」的行为？](https://www.zhihu.com/question/609651139)<br />
 2. [2023 LPL 夏季赛 Uzi 招牌 VN 登场，EDG 2:1 击败 WE，如何评价这场比赛？](https://www.zhihu.com/question/609805906)<br />
 3. []()<br />
-4. [2023 LPL 夏季赛 JDG 2:0 UP，如何评价这场比赛？](https://www.zhihu.com/question/609792660)<br />
-5. []()<br />
+4. []()<br />
+5. [2023 LPL 夏季赛 JDG 2:0 UP，如何评价这场比赛？](https://www.zhihu.com/question/609792660)<br />
 6. [儿子今年读初中，想看金庸的书，我该不该给他买？](https://www.zhihu.com/question/609342307)<br />
 7. [高考结束了，马上要步入大学校门了，有什么比较适合大学生的笔记本电脑？](https://www.zhihu.com/question/606656875)<br />
 8. [如何评价《崩坏：星穹铁道》1.1 版本彦卿同行任务「霜刃一试」?](https://www.zhihu.com/question/609476391)<br />
