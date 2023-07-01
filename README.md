@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 08:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 08:15:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [三十岁女生给二十岁女生的建议](https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%8D%81%E5%B2%81%E5%A5%B3%E7%94%9F%E7%BB%99%E4%BA%8C%E5%8D%81%E5%B2%81%E5%A5%B3%E7%94%9F%E7%9A%84%E5%BB%BA%E8%AE%AE%23&t=31&band_rank=6&Refer=top)<br />
 7. [爱奇艺工作人员 白敬亭好好对宋轶](https://s.weibo.com/weibo?q=%E7%88%B1%E5%A5%87%E8%89%BA%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%20%E7%99%BD%E6%95%AC%E4%BA%AD%E5%A5%BD%E5%A5%BD%E5%AF%B9%E5%AE%8B%E8%BD%B6&t=31&band_rank=7&Refer=top)<br />
 8. [越南一位老人50年没睡觉](https://s.weibo.com/weibo?q=%E8%B6%8A%E5%8D%97%E4%B8%80%E4%BD%8D%E8%80%81%E4%BA%BA50%E5%B9%B4%E6%B2%A1%E7%9D%A1%E8%A7%89&t=31&band_rank=8&Refer=top)<br />
-9. [19970701零时零分零秒](https://s.weibo.com/weibo?q=%2319970701%E9%9B%B6%E6%97%B6%E9%9B%B6%E5%88%86%E9%9B%B6%E7%A7%92%23&t=31&band_rank=9&Refer=top)<br />
+9. [起哄怂恿轻生者跳楼男子被行拘](https://s.weibo.com/weibo?q=%23%E8%B5%B7%E5%93%84%E6%80%82%E6%81%BF%E8%BD%BB%E7%94%9F%E8%80%85%E8%B7%B3%E6%A5%BC%E7%94%B7%E5%AD%90%E8%A2%AB%E8%A1%8C%E6%8B%98%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
