@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 11:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 11:42:01</h4></div>
 
 > 微博  
 
@@ -32,9 +32,9 @@
 4. [数字里看亮点](https://www.baidu.com/s?wd=%E6%95%B0%E5%AD%97%E9%87%8C%E7%9C%8B%E4%BA%AE%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [法国一辆载41名中国游客车辆被砸](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E4%B8%80%E8%BE%86%E8%BD%BD41%E5%90%8D%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E8%BD%A6%E8%BE%86%E8%A2%AB%E7%A0%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [奔跑吧节目封面大写我太难了](https://www.baidu.com/s?wd=%E5%A5%94%E8%B7%91%E5%90%A7%E8%8A%82%E7%9B%AE%E5%B0%81%E9%9D%A2%E5%A4%A7%E5%86%99%E6%88%91%E5%A4%AA%E9%9A%BE%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [14岁女孩500元卖头发被商贩剪坏](https://www.baidu.com/s?wd=14%E5%B2%81%E5%A5%B3%E5%AD%A9500%E5%85%83%E5%8D%96%E5%A4%B4%E5%8F%91%E8%A2%AB%E5%95%86%E8%B4%A9%E5%89%AA%E5%9D%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [野生大熊猫用屁股蹭了蹭红外相机](https://www.baidu.com/s?wd=%E9%87%8E%E7%94%9F%E5%A4%A7%E7%86%8A%E7%8C%AB%E7%94%A8%E5%B1%81%E8%82%A1%E8%B9%AD%E4%BA%86%E8%B9%AD%E7%BA%A2%E5%A4%96%E7%9B%B8%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [章泽天回应拒绝张艺谋演戏](https://www.baidu.com/s?wd=%E7%AB%A0%E6%B3%BD%E5%A4%A9%E5%9B%9E%E5%BA%94%E6%8B%92%E7%BB%9D%E5%BC%A0%E8%89%BA%E8%B0%8B%E6%BC%94%E6%88%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [法国一夜间超2000辆车被烧成废铁](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E4%B8%80%E5%A4%9C%E9%97%B4%E8%B6%852000%E8%BE%86%E8%BD%A6%E8%A2%AB%E7%83%A7%E6%88%90%E5%BA%9F%E9%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [14岁女孩500元卖头发被商贩剪坏](https://www.baidu.com/s?wd=14%E5%B2%81%E5%A5%B3%E5%AD%A9500%E5%85%83%E5%8D%96%E5%A4%B4%E5%8F%91%E8%A2%AB%E5%95%86%E8%B4%A9%E5%89%AA%E5%9D%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [野生大熊猫用屁股蹭了蹭红外相机](https://www.baidu.com/s?wd=%E9%87%8E%E7%94%9F%E5%A4%A7%E7%86%8A%E7%8C%AB%E7%94%A8%E5%B1%81%E8%82%A1%E8%B9%AD%E4%BA%86%E8%B9%AD%E7%BA%A2%E5%A4%96%E7%9B%B8%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [数字里看亮点](https://www.baidu.com/s?wd=%E6%95%B0%E5%AD%97%E9%87%8C%E7%9C%8B%E4%BA%AE%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [法国一辆载41名中国游客车辆被砸](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E4%B8%80%E8%BE%86%E8%BD%BD41%E5%90%8D%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E8%BD%A6%E8%BE%86%E8%A2%AB%E7%A0%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [奔跑吧节目封面大写我太难了](https://www.baidu.com/s?wd=%E5%A5%94%E8%B7%91%E5%90%A7%E8%8A%82%E7%9B%AE%E5%B0%81%E9%9D%A2%E5%A4%A7%E5%86%99%E6%88%91%E5%A4%AA%E9%9A%BE%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [14岁女孩500元卖头发被商贩剪坏](https://www.baidu.com/s?wd=14%E5%B2%81%E5%A5%B3%E5%AD%A9500%E5%85%83%E5%8D%96%E5%A4%B4%E5%8F%91%E8%A2%AB%E5%95%86%E8%B4%A9%E5%89%AA%E5%9D%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [野生大熊猫用屁股蹭了蹭红外相机](https://www.baidu.com/s?wd=%E9%87%8E%E7%94%9F%E5%A4%A7%E7%86%8A%E7%8C%AB%E7%94%A8%E5%B1%81%E8%82%A1%E8%B9%AD%E4%BA%86%E8%B9%AD%E7%BA%A2%E5%A4%96%E7%9B%B8%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [章泽天回应拒绝张艺谋演戏](https://www.baidu.com/s?wd=%E7%AB%A0%E6%B3%BD%E5%A4%A9%E5%9B%9E%E5%BA%94%E6%8B%92%E7%BB%9D%E5%BC%A0%E8%89%BA%E8%B0%8B%E6%BC%94%E6%88%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [法国一夜间超2000辆车被烧成废铁](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E4%B8%80%E5%A4%9C%E9%97%B4%E8%B6%852000%E8%BE%86%E8%BD%A6%E8%A2%AB%E7%83%A7%E6%88%90%E5%BA%9F%E9%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [14岁女孩500元卖头发被商贩剪坏](https://www.baidu.com/s?wd=14%E5%B2%81%E5%A5%B3%E5%AD%A9500%E5%85%83%E5%8D%96%E5%A4%B4%E5%8F%91%E8%A2%AB%E5%95%86%E8%B4%A9%E5%89%AA%E5%9D%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [野生大熊猫用屁股蹭了蹭红外相机](https://www.baidu.com/s?wd=%E9%87%8E%E7%94%9F%E5%A4%A7%E7%86%8A%E7%8C%AB%E7%94%A8%E5%B1%81%E8%82%A1%E8%B9%AD%E4%BA%86%E8%B9%AD%E7%BA%A2%E5%A4%96%E7%9B%B8%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
