@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 02:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 02:04:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [ALin陪跑5次首封金曲歌后](https://www.baidu.com/s?wd=ALin%E9%99%AA%E8%B7%915%E6%AC%A1%E9%A6%96%E5%B0%81%E9%87%91%E6%9B%B2%E6%AD%8C%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [吴艳妮百米跨栏夺冠又美又飒](https://www.baidu.com/s?wd=%E5%90%B4%E8%89%B3%E5%A6%AE%E7%99%BE%E7%B1%B3%E8%B7%A8%E6%A0%8F%E5%A4%BA%E5%86%A0%E5%8F%88%E7%BE%8E%E5%8F%88%E9%A3%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [孙女给生活不能自理爷爷洗澡引争议](https://www.baidu.com/s?wd=%E5%AD%99%E5%A5%B3%E7%BB%99%E7%94%9F%E6%B4%BB%E4%B8%8D%E8%83%BD%E8%87%AA%E7%90%86%E7%88%B7%E7%88%B7%E6%B4%97%E6%BE%A1%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [娄艺潇自曝体重快120斤](https://www.baidu.com/s?wd=%E5%A8%84%E8%89%BA%E6%BD%87%E8%87%AA%E6%9B%9D%E4%BD%93%E9%87%8D%E5%BF%AB120%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [国科大校长说着说着就哭了](https://www.baidu.com/s?wd=%E5%9B%BD%E7%A7%91%E5%A4%A7%E6%A0%A1%E9%95%BF%E8%AF%B4%E7%9D%80%E8%AF%B4%E7%9D%80%E5%B0%B1%E5%93%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [ALin陪跑5次首封金曲歌后](https://www.baidu.com/s?wd=ALin%E9%99%AA%E8%B7%915%E6%AC%A1%E9%A6%96%E5%B0%81%E9%87%91%E6%9B%B2%E6%AD%8C%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [吴艳妮百米跨栏夺冠又美又飒](https://www.baidu.com/s?wd=%E5%90%B4%E8%89%B3%E5%A6%AE%E7%99%BE%E7%B1%B3%E8%B7%A8%E6%A0%8F%E5%A4%BA%E5%86%A0%E5%8F%88%E7%BE%8E%E5%8F%88%E9%A3%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [孙女给生活不能自理爷爷洗澡引争议](https://www.baidu.com/s?wd=%E5%AD%99%E5%A5%B3%E7%BB%99%E7%94%9F%E6%B4%BB%E4%B8%8D%E8%83%BD%E8%87%AA%E7%90%86%E7%88%B7%E7%88%B7%E6%B4%97%E6%BE%A1%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [娄艺潇自曝体重快120斤](https://www.baidu.com/s?wd=%E5%A8%84%E8%89%BA%E6%BD%87%E8%87%AA%E6%9B%9D%E4%BD%93%E9%87%8D%E5%BF%AB120%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [国科大校长说着说着就哭了](https://www.baidu.com/s?wd=%E5%9B%BD%E7%A7%91%E5%A4%A7%E6%A0%A1%E9%95%BF%E8%AF%B4%E7%9D%80%E8%AF%B4%E7%9D%80%E5%B0%B1%E5%93%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
