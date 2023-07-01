@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 05:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 05:27:02</h4></div>
 
 > 微博  
 
@@ -19,8 +19,8 @@
 3. []()<br />
 4. [目前我国经济复苏进程正处于哪一阶段？当前中国经济的复苏与以往的周期性复苏有什么差别？](https://www.zhihu.com/question/609606249)<br />
 5. [能分享你手机里好看的天空吗？](https://www.zhihu.com/question/608827610)<br />
-6. [消息称小米印度正在进行大规模裁员，官方回应「根据市场和业务情况对员工数量进行规划」，哪些信息值得关注？](https://www.zhihu.com/question/609615935)<br />
-7. [想学习大语言模型 (LLM)，应该从哪个开源模型开始？](https://www.zhihu.com/question/608820310)<br />
+6. [想学习大语言模型 (LLM)，应该从哪个开源模型开始？](https://www.zhihu.com/question/608820310)<br />
+7. [消息称小米印度正在进行大规模裁员，官方回应「根据市场和业务情况对员工数量进行规划」，哪些信息值得关注？](https://www.zhihu.com/question/609615935)<br />
 8. [2023 LPL 夏季赛 Uzi 招牌 VN 登场，EDG 2:1 击败 WE，如何评价这场比赛？](https://www.zhihu.com/question/609805906)<br />
 9. []()<br />
 
