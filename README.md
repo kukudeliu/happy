@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 01:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 01:29:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [刘美含 北大](https://s.weibo.com/weibo?q=%E5%88%98%E7%BE%8E%E5%90%AB%20%E5%8C%97%E5%A4%A7&t=31&band_rank=5&Refer=top)<br />
 6. [汪东城音乐节](https://s.weibo.com/weibo?q=%E6%B1%AA%E4%B8%9C%E5%9F%8E%E9%9F%B3%E4%B9%90%E8%8A%82&t=31&band_rank=6&Refer=top)<br />
 7. [让外国网友帮忙做英语作业](https://s.weibo.com/weibo?q=%E8%AE%A9%E5%A4%96%E5%9B%BD%E7%BD%91%E5%8F%8B%E5%B8%AE%E5%BF%99%E5%81%9A%E8%8B%B1%E8%AF%AD%E4%BD%9C%E4%B8%9A&t=31&band_rank=7&Refer=top)<br />
-8. [女子去世7只猫继承217万遗产](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%8E%BB%E4%B8%967%E5%8F%AA%E7%8C%AB%E7%BB%A7%E6%89%BF217%E4%B8%87%E9%81%97%E4%BA%A7%23&t=31&band_rank=8&Refer=top)<br />
-9. [白敬亭这真的是你吗](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E8%BF%99%E7%9C%9F%E7%9A%84%E6%98%AF%E4%BD%A0%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
+8. [白敬亭这真的是你吗](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E8%BF%99%E7%9C%9F%E7%9A%84%E6%98%AF%E4%BD%A0%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
+9. [女子去世7只猫继承217万遗产](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%8E%BB%E4%B8%967%E5%8F%AA%E7%8C%AB%E7%BB%A7%E6%89%BF217%E4%B8%87%E9%81%97%E4%BA%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [2023 LPL 夏季赛 JDG 2:0 UP，如何评价这场比赛？](https://www.zhihu.com/question/609792660)<br />
 7. [目前我国经济复苏进程正处于哪一阶段？当前中国经济的复苏与以往的周期性复苏有什么差别？](https://www.zhihu.com/question/609606249)<br />
 8. [儿子今年读初中，想看金庸的书，我该不该给他买？](https://www.zhihu.com/question/609342307)<br />
-9. [高考结束了，马上要步入大学校门了，有什么比较适合大学生的笔记本电脑？](https://www.zhihu.com/question/606656875)<br />
+9. [亚马逊公司旗下 Kindle 中国电子书店停止运营，已启动退款程序，为何 Kindle 退出中国市场？](https://www.zhihu.com/question/609622371)<br />
 
 > 百度  
 
@@ -33,7 +33,7 @@
 5. [法国连日骚乱 马克龙推迟出访](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E8%BF%9E%E6%97%A5%E9%AA%9A%E4%B9%B1+%E9%A9%AC%E5%85%8B%E9%BE%99%E6%8E%A8%E8%BF%9F%E5%87%BA%E8%AE%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [ALin陪跑5次首封金曲歌后](https://www.baidu.com/s?wd=ALin%E9%99%AA%E8%B7%915%E6%AC%A1%E9%A6%96%E5%B0%81%E9%87%91%E6%9B%B2%E6%AD%8C%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [义乌脸基尼卖爆了](https://www.baidu.com/s?wd=%E4%B9%89%E4%B9%8C%E8%84%B8%E5%9F%BA%E5%B0%BC%E5%8D%96%E7%88%86%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [陕西黄河壶口瀑布沿线围墙被拆除](https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF%E9%BB%84%E6%B2%B3%E5%A3%B6%E5%8F%A3%E7%80%91%E5%B8%83%E6%B2%BF%E7%BA%BF%E5%9B%B4%E5%A2%99%E8%A2%AB%E6%8B%86%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [广州19岁小将王世杰角球直接破门](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E19%E5%B2%81%E5%B0%8F%E5%B0%86%E7%8E%8B%E4%B8%96%E6%9D%B0%E8%A7%92%E7%90%83%E7%9B%B4%E6%8E%A5%E7%A0%B4%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [胖东来老板劝网友卖房](https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E8%80%81%E6%9D%BF%E5%8A%9D%E7%BD%91%E5%8F%8B%E5%8D%96%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [法国连日骚乱 马克龙推迟出访](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E8%BF%9E%E6%97%A5%E9%AA%9A%E4%B9%B1+%E9%A9%AC%E5%85%8B%E9%BE%99%E6%8E%A8%E8%BF%9F%E5%87%BA%E8%AE%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [ALin陪跑5次首封金曲歌后](https://www.baidu.com/s?wd=ALin%E9%99%AA%E8%B7%915%E6%AC%A1%E9%A6%96%E5%B0%81%E9%87%91%E6%9B%B2%E6%AD%8C%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [义乌脸基尼卖爆了](https://www.baidu.com/s?wd=%E4%B9%89%E4%B9%8C%E8%84%B8%E5%9F%BA%E5%B0%BC%E5%8D%96%E7%88%86%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [陕西黄河壶口瀑布沿线围墙被拆除](https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF%E9%BB%84%E6%B2%B3%E5%A3%B6%E5%8F%A3%E7%80%91%E5%B8%83%E6%B2%BF%E7%BA%BF%E5%9B%B4%E5%A2%99%E8%A2%AB%E6%8B%86%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [广州19岁小将王世杰角球直接破门](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E19%E5%B2%81%E5%B0%8F%E5%B0%86%E7%8E%8B%E4%B8%96%E6%9D%B0%E8%A7%92%E7%90%83%E7%9B%B4%E6%8E%A5%E7%A0%B4%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [胖东来老板劝网友卖房](https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E8%80%81%E6%9D%BF%E5%8A%9D%E7%BD%91%E5%8F%8B%E5%8D%96%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
