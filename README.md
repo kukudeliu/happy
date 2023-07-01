@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 11:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 11:30:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [空调这样调才是真省电](https://s.weibo.com/weibo?q=%E7%A9%BA%E8%B0%83%E8%BF%99%E6%A0%B7%E8%B0%83%E6%89%8D%E6%98%AF%E7%9C%9F%E7%9C%81%E7%94%B5&t=31&band_rank=6&Refer=top)<br />
 7. [助手给白百何吃烤焦的面包](https://s.weibo.com/weibo?q=%23%E5%8A%A9%E6%89%8B%E7%BB%99%E7%99%BD%E7%99%BE%E4%BD%95%E5%90%83%E7%83%A4%E7%84%A6%E7%9A%84%E9%9D%A2%E5%8C%85%23&t=31&band_rank=7&Refer=top)<br />
 8. [晋江](https://s.weibo.com/weibo?q=%E6%99%8B%E6%B1%9F&t=31&band_rank=8&Refer=top)<br />
-9. [韩素希担任田柾国MV主演](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%B4%A0%E5%B8%8C%E6%8B%85%E4%BB%BB%E7%94%B0%E6%9F%BE%E5%9B%BDMV%E4%B8%BB%E6%BC%94%23&t=31&band_rank=9&Refer=top)<br />
+9. [三十岁女生给二十岁女生的建议](https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%8D%81%E5%B2%81%E5%A5%B3%E7%94%9F%E7%BB%99%E4%BA%8C%E5%8D%81%E5%B2%81%E5%A5%B3%E7%94%9F%E7%9A%84%E5%BB%BA%E8%AE%AE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -19,8 +19,8 @@
 3. [联合国教科文组织通过决议，允许美国在 7 月恢复会员国身份，中国对最终决议投了反对票，如何解读？](https://www.zhihu.com/question/609689310)<br />
 4. [如何看待山河四省学子在网上自建山河大学？](https://www.zhihu.com/question/609297089)<br />
 5. [法国少年违规驾驶并逃逸被警察射杀引暴力抗议，一晚 150 人被捕，具体情况如何？抗议规模为何这么大？](https://www.zhihu.com/question/609397269)<br />
-6. [财政部数据显示「5 月份全国共销售彩票 500.21 亿元，同比增长 52.7%」，如何看待这一数据？](https://www.zhihu.com/question/609601825)<br />
-7. [法国爆发骚乱，苹果被砸店哄抢，两千辆车被烧，政府出动 4.5 万名警察，中使馆提醒防范，目前情况如何？](https://www.zhihu.com/question/609749253)<br />
+6. [法国爆发骚乱，苹果被砸店哄抢，两千辆车被烧，政府出动 4.5 万名警察，中使馆提醒防范，目前情况如何？](https://www.zhihu.com/question/609749253)<br />
+7. [财政部数据显示「5 月份全国共销售彩票 500.21 亿元，同比增长 52.7%」，如何看待这一数据？](https://www.zhihu.com/question/609601825)<br />
 8. [追梦 4 年 1 亿美元续约勇士，联手保罗 + 水花再冲总冠军，如何评价这样的选择？](https://www.zhihu.com/question/609730955)<br />
 9. [胡锡进谈炒股心得，称「扳回 664 元下周继续增持股票」，如何看待胡锡进炒股进展？](https://www.zhihu.com/question/609622563)<br />
 
