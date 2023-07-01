@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 17:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 17:27:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [消息称小米印度正在进行大规模裁员，官方回应「根据市场和业务情况对员工数量进行规划」，哪些信息值得关注？](https://www.zhihu.com/question/609615935)<br />
 6. [大家看完《消失的她》后有什么感受？](https://www.zhihu.com/question/609070712)<br />
 7. [卧冰求鲤为什么不用火，冰变薄不怕掉水里吗？](https://www.zhihu.com/question/609352523)<br />
-8. [报告称德国 2022 年资本外逃创纪录，净流出量 1250 亿欧元，或已开启去工业化进程，将有何影响？](https://www.zhihu.com/question/609749272)<br />
-9. [996 和高三哪个更痛苦？](https://www.zhihu.com/question/605620273)<br />
+8. [996 和高三哪个更痛苦？](https://www.zhihu.com/question/605620273)<br />
+9. [报告称德国 2022 年资本外逃创纪录，净流出量 1250 亿欧元，或已开启去工业化进程，将有何影响？](https://www.zhihu.com/question/609749272)<br />
 
 > 百度  
 
