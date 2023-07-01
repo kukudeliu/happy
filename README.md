@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 10:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 10:14:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [助手给白百何吃烤焦的面包](https://s.weibo.com/weibo?q=%23%E5%8A%A9%E6%89%8B%E7%BB%99%E7%99%BD%E7%99%BE%E4%BD%95%E5%90%83%E7%83%A4%E7%84%A6%E7%9A%84%E9%9D%A2%E5%8C%85%23&t=31&band_rank=6&Refer=top)<br />
 7. [刘令姿版小兰花有父母了](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BB%A4%E5%A7%BF%E7%89%88%E5%B0%8F%E5%85%B0%E8%8A%B1%E6%9C%89%E7%88%B6%E6%AF%8D%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [法国载40多名中国公民车辆被砸](https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E8%BD%BD40%E5%A4%9A%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E8%BD%A6%E8%BE%86%E8%A2%AB%E7%A0%B8%23&t=31&band_rank=8&Refer=top)<br />
-9. [19970701零时零分零秒](https://s.weibo.com/weibo?q=%2319970701%E9%9B%B6%E6%97%B6%E9%9B%B6%E5%88%86%E9%9B%B6%E7%A7%92%23&t=31&band_rank=9&Refer=top)<br />
+9. [越南一位老人50年没睡觉](https://s.weibo.com/weibo?q=%E8%B6%8A%E5%8D%97%E4%B8%80%E4%BD%8D%E8%80%81%E4%BA%BA50%E5%B9%B4%E6%B2%A1%E7%9D%A1%E8%A7%89&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
