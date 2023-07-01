@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 02:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 02:49:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [刘美含 北大](https://s.weibo.com/weibo?q=%E5%88%98%E7%BE%8E%E5%90%AB%20%E5%8C%97%E5%A4%A7&t=31&band_rank=6&Refer=top)<br />
 7. [ALin 金曲歌后](https://s.weibo.com/weibo?q=ALin%20%E9%87%91%E6%9B%B2%E6%AD%8C%E5%90%8E&t=31&band_rank=7&Refer=top)<br />
 8. [张杰未live巡回演唱会](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9D%B0%E6%9C%AAlive%E5%B7%A1%E5%9B%9E%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=8&Refer=top)<br />
-9. [让外国网友帮忙做英语作业](https://s.weibo.com/weibo?q=%E8%AE%A9%E5%A4%96%E5%9B%BD%E7%BD%91%E5%8F%8B%E5%B8%AE%E5%BF%99%E5%81%9A%E8%8B%B1%E8%AF%AD%E4%BD%9C%E4%B8%9A&t=31&band_rank=9&Refer=top)<br />
+9. [法国骚乱已蔓延到邻国比利时](https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E9%AA%9A%E4%B9%B1%E5%B7%B2%E8%94%93%E5%BB%B6%E5%88%B0%E9%82%BB%E5%9B%BD%E6%AF%94%E5%88%A9%E6%97%B6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -32,9 +32,9 @@
 4. [“港车北上”正式实施](https://www.baidu.com/s?wd=%E2%80%9C%E6%B8%AF%E8%BD%A6%E5%8C%97%E4%B8%8A%E2%80%9D%E6%AD%A3%E5%BC%8F%E5%AE%9E%E6%96%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [法国连日骚乱 马克龙推迟出访](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E8%BF%9E%E6%97%A5%E9%AA%9A%E4%B9%B1+%E9%A9%AC%E5%85%8B%E9%BE%99%E6%8E%A8%E8%BF%9F%E5%87%BA%E8%AE%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [ALin陪跑5次首封金曲歌后](https://www.baidu.com/s?wd=ALin%E9%99%AA%E8%B7%915%E6%AC%A1%E9%A6%96%E5%B0%81%E9%87%91%E6%9B%B2%E6%AD%8C%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [广州19岁小将王世杰角球直接破门](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E19%E5%B2%81%E5%B0%8F%E5%B0%86%E7%8E%8B%E4%B8%96%E6%9D%B0%E8%A7%92%E7%90%83%E7%9B%B4%E6%8E%A5%E7%A0%B4%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [专家回应浙江上空现不明飞行物](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E5%9B%9E%E5%BA%94%E6%B5%99%E6%B1%9F%E4%B8%8A%E7%A9%BA%E7%8E%B0%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [义乌脸基尼卖爆了](https://www.baidu.com/s?wd=%E4%B9%89%E4%B9%8C%E8%84%B8%E5%9F%BA%E5%B0%BC%E5%8D%96%E7%88%86%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [范玮琪演唱会遭网友抵制](https://www.baidu.com/s?wd=%E8%8C%83%E7%8E%AE%E7%90%AA%E6%BC%94%E5%94%B1%E4%BC%9A%E9%81%AD%E7%BD%91%E5%8F%8B%E6%8A%B5%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [广州19岁小将王世杰角球直接破门](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E19%E5%B2%81%E5%B0%8F%E5%B0%86%E7%8E%8B%E4%B8%96%E6%9D%B0%E8%A7%92%E7%90%83%E7%9B%B4%E6%8E%A5%E7%A0%B4%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [专家回应浙江上空现不明飞行物](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E5%9B%9E%E5%BA%94%E6%B5%99%E6%B1%9F%E4%B8%8A%E7%A9%BA%E7%8E%B0%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [“港车北上”正式实施](https://www.baidu.com/s?wd=%E2%80%9C%E6%B8%AF%E8%BD%A6%E5%8C%97%E4%B8%8A%E2%80%9D%E6%AD%A3%E5%BC%8F%E5%AE%9E%E6%96%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [法国连日骚乱 马克龙推迟出访](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E8%BF%9E%E6%97%A5%E9%AA%9A%E4%B9%B1+%E9%A9%AC%E5%85%8B%E9%BE%99%E6%8E%A8%E8%BF%9F%E5%87%BA%E8%AE%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [ALin陪跑5次首封金曲歌后](https://www.baidu.com/s?wd=ALin%E9%99%AA%E8%B7%915%E6%AC%A1%E9%A6%96%E5%B0%81%E9%87%91%E6%9B%B2%E6%AD%8C%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [广州19岁小将王世杰角球直接破门](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E19%E5%B2%81%E5%B0%8F%E5%B0%86%E7%8E%8B%E4%B8%96%E6%9D%B0%E8%A7%92%E7%90%83%E7%9B%B4%E6%8E%A5%E7%A0%B4%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [专家回应浙江上空现不明飞行物](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E5%9B%9E%E5%BA%94%E6%B5%99%E6%B1%9F%E4%B8%8A%E7%A9%BA%E7%8E%B0%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [义乌脸基尼卖爆了](https://www.baidu.com/s?wd=%E4%B9%89%E4%B9%8C%E8%84%B8%E5%9F%BA%E5%B0%BC%E5%8D%96%E7%88%86%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [范玮琪演唱会遭网友抵制](https://www.baidu.com/s?wd=%E8%8C%83%E7%8E%AE%E7%90%AA%E6%BC%94%E5%94%B1%E4%BC%9A%E9%81%AD%E7%BD%91%E5%8F%8B%E6%8A%B5%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [广州19岁小将王世杰角球直接破门](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E19%E5%B2%81%E5%B0%8F%E5%B0%86%E7%8E%8B%E4%B8%96%E6%9D%B0%E8%A7%92%E7%90%83%E7%9B%B4%E6%8E%A5%E7%A0%B4%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [专家回应浙江上空现不明飞行物](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E5%9B%9E%E5%BA%94%E6%B5%99%E6%B1%9F%E4%B8%8A%E7%A9%BA%E7%8E%B0%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
