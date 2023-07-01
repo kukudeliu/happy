@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 20:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 20:15:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [金曲奖](https://s.weibo.com/weibo?q=%E9%87%91%E6%9B%B2%E5%A5%96&t=31&band_rank=6&Refer=top)<br />
 7. [鹿晗演唱会给粉丝送Gucci](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%BC%94%E5%94%B1%E4%BC%9A%E7%BB%99%E7%B2%89%E4%B8%9D%E9%80%81Gucci%23&t=31&band_rank=7&Refer=top)<br />
 8. [法国骚乱已蔓延到邻国比利时](https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E9%AA%9A%E4%B9%B1%E5%B7%B2%E8%94%93%E5%BB%B6%E5%88%B0%E9%82%BB%E5%9B%BD%E6%AF%94%E5%88%A9%E6%97%B6%23&t=31&band_rank=8&Refer=top)<br />
-9. [中国女篮晋级亚洲杯决赛](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E6%99%8B%E7%BA%A7%E4%BA%9A%E6%B4%B2%E6%9D%AF%E5%86%B3%E8%B5%9B%23&t=31&band_rank=9&Refer=top)<br />
+9. [陈哲远王玉雯 白色橄榄树](https://s.weibo.com/weibo?q=%E9%99%88%E5%93%B2%E8%BF%9C%E7%8E%8B%E7%8E%89%E9%9B%AF%20%E7%99%BD%E8%89%B2%E6%A9%84%E6%A6%84%E6%A0%91&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
