@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 22:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 22:55:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [因女儿考705分打折的凉菜摊关门](https://www.baidu.com/s?wd=%E5%9B%A0%E5%A5%B3%E5%84%BF%E8%80%83705%E5%88%86%E6%89%93%E6%8A%98%E7%9A%84%E5%87%89%E8%8F%9C%E6%91%8A%E5%85%B3%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [国科大校长说着说着就哭了](https://www.baidu.com/s?wd=%E5%9B%BD%E7%A7%91%E5%A4%A7%E6%A0%A1%E9%95%BF%E8%AF%B4%E7%9D%80%E8%AF%B4%E7%9D%80%E5%B0%B1%E5%93%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [胖东来老板劝网友卖房](https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E8%80%81%E6%9D%BF%E5%8A%9D%E7%BD%91%E5%8F%8B%E5%8D%96%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [知情人:杀害女子“书法家”自缢身亡](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%3A%E6%9D%80%E5%AE%B3%E5%A5%B3%E5%AD%90%E2%80%9C%E4%B9%A6%E6%B3%95%E5%AE%B6%E2%80%9D%E8%87%AA%E7%BC%A2%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [一波音777在俄准备起飞时着火](https://www.baidu.com/s?wd=%E4%B8%80%E6%B3%A2%E9%9F%B3777%E5%9C%A8%E4%BF%84%E5%87%86%E5%A4%87%E8%B5%B7%E9%A3%9E%E6%97%B6%E7%9D%80%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [因女儿考705分打折的凉菜摊关门](https://www.baidu.com/s?wd=%E5%9B%A0%E5%A5%B3%E5%84%BF%E8%80%83705%E5%88%86%E6%89%93%E6%8A%98%E7%9A%84%E5%87%89%E8%8F%9C%E6%91%8A%E5%85%B3%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [国科大校长说着说着就哭了](https://www.baidu.com/s?wd=%E5%9B%BD%E7%A7%91%E5%A4%A7%E6%A0%A1%E9%95%BF%E8%AF%B4%E7%9D%80%E8%AF%B4%E7%9D%80%E5%B0%B1%E5%93%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [胖东来老板劝网友卖房](https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E8%80%81%E6%9D%BF%E5%8A%9D%E7%BD%91%E5%8F%8B%E5%8D%96%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [知情人:杀害女子“书法家”自缢身亡](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%3A%E6%9D%80%E5%AE%B3%E5%A5%B3%E5%AD%90%E2%80%9C%E4%B9%A6%E6%B3%95%E5%AE%B6%E2%80%9D%E8%87%AA%E7%BC%A2%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [一波音777在俄准备起飞时着火](https://www.baidu.com/s?wd=%E4%B8%80%E6%B3%A2%E9%9F%B3777%E5%9C%A8%E4%BF%84%E5%87%86%E5%A4%87%E8%B5%B7%E9%A3%9E%E6%97%B6%E7%9D%80%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
