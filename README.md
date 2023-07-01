@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 03:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 03:47:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. []()<br />
 5. []()<br />
 6. [目前我国经济复苏进程正处于哪一阶段？当前中国经济的复苏与以往的周期性复苏有什么差别？](https://www.zhihu.com/question/609606249)<br />
-7. [为什么「加」「恰」「霞」三个字的拼音分别是 jiā、 qià、 xiá，而不是 jā、 qà、 xá？](https://www.zhihu.com/question/609163323)<br />
-8. [如何看待吃自助餐先拿一盘蛋炒饭这种行为？](https://www.zhihu.com/question/440916537)<br />
-9. [大家看完《消失的她》后有什么感受？](https://www.zhihu.com/question/609070712)<br />
+7. [大家看完《消失的她》后有什么感受？](https://www.zhihu.com/question/609070712)<br />
+8. [儿子今年读初中，想看金庸的书，我该不该给他买？](https://www.zhihu.com/question/609342307)<br />
+9. [为什么「加」「恰」「霞」三个字的拼音分别是 jiā、 qià、 xiá，而不是 jā、 qà、 xá？](https://www.zhihu.com/question/609163323)<br />
 
 > 百度  
 
@@ -34,7 +34,7 @@
 6. [ALin陪跑5次首封金曲歌后](https://www.baidu.com/s?wd=ALin%E9%99%AA%E8%B7%915%E6%AC%A1%E9%A6%96%E5%B0%81%E9%87%91%E6%9B%B2%E6%AD%8C%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子街边吸烟被陌生女子扔水瓶](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A1%97%E8%BE%B9%E5%90%B8%E7%83%9F%E8%A2%AB%E9%99%8C%E7%94%9F%E5%A5%B3%E5%AD%90%E6%89%94%E6%B0%B4%E7%93%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [孙女给生活不能自理爷爷洗澡引争议](https://www.baidu.com/s?wd=%E5%AD%99%E5%A5%B3%E7%BB%99%E7%94%9F%E6%B4%BB%E4%B8%8D%E8%83%BD%E8%87%AA%E7%90%86%E7%88%B7%E7%88%B7%E6%B4%97%E6%BE%A1%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [曝范玮琪声明是陈建州发的](https://www.baidu.com/s?wd=%E6%9B%9D%E8%8C%83%E7%8E%AE%E7%90%AA%E5%A3%B0%E6%98%8E%E6%98%AF%E9%99%88%E5%BB%BA%E5%B7%9E%E5%8F%91%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [三甲医院又现“塌方式”腐败](https://www.baidu.com/s?wd=%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2%E5%8F%88%E7%8E%B0%E2%80%9C%E5%A1%8C%E6%96%B9%E5%BC%8F%E2%80%9D%E8%85%90%E8%B4%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [ALin陪跑5次首封金曲歌后](https://www.baidu.com/s?wd=ALin%E9%99%AA%E8%B7%915%E6%AC%A1%E9%A6%96%E5%B0%81%E9%87%91%E6%9B%B2%E6%AD%8C%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子街边吸烟被陌生女子扔水瓶](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A1%97%E8%BE%B9%E5%90%B8%E7%83%9F%E8%A2%AB%E9%99%8C%E7%94%9F%E5%A5%B3%E5%AD%90%E6%89%94%E6%B0%B4%E7%93%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [孙女给生活不能自理爷爷洗澡引争议](https://www.baidu.com/s?wd=%E5%AD%99%E5%A5%B3%E7%BB%99%E7%94%9F%E6%B4%BB%E4%B8%8D%E8%83%BD%E8%87%AA%E7%90%86%E7%88%B7%E7%88%B7%E6%B4%97%E6%BE%A1%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [曝范玮琪声明是陈建州发的](https://www.baidu.com/s?wd=%E6%9B%9D%E8%8C%83%E7%8E%AE%E7%90%AA%E5%A3%B0%E6%98%8E%E6%98%AF%E9%99%88%E5%BB%BA%E5%B7%9E%E5%8F%91%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [三甲医院又现“塌方式”腐败](https://www.baidu.com/s?wd=%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2%E5%8F%88%E7%8E%B0%E2%80%9C%E5%A1%8C%E6%96%B9%E5%BC%8F%E2%80%9D%E8%85%90%E8%B4%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
