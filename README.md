@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 23:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 23:56:01</h4></div>
 
 > 微博  
 
-1. [正式被确诊为浣碧](https://s.weibo.com/weibo?q=%23%E6%AD%A3%E5%BC%8F%E8%A2%AB%E7%A1%AE%E8%AF%8A%E4%B8%BA%E6%B5%A3%E7%A2%A7%23&t=31&band_rank=1&Refer=top)<br />
-2. [ALin 金曲歌后](https://s.weibo.com/weibo?q=ALin%20%E9%87%91%E6%9B%B2%E6%AD%8C%E5%90%8E&t=31&band_rank=2&Refer=top)<br />
+1. [ALin 金曲歌后](https://s.weibo.com/weibo?q=ALin%20%E9%87%91%E6%9B%B2%E6%AD%8C%E5%90%8E&t=31&band_rank=1&Refer=top)<br />
+2. [正式被确诊为浣碧](https://s.weibo.com/weibo?q=%23%E6%AD%A3%E5%BC%8F%E8%A2%AB%E7%A1%AE%E8%AF%8A%E4%B8%BA%E6%B5%A3%E7%A2%A7%23&t=31&band_rank=2&Refer=top)<br />
 3. [七一勋章获得者的事迹有多感人](https://s.weibo.com/weibo?q=%23%E4%B8%83%E4%B8%80%E5%8B%8B%E7%AB%A0%E8%8E%B7%E5%BE%97%E8%80%85%E7%9A%84%E4%BA%8B%E8%BF%B9%E6%9C%89%E5%A4%9A%E6%84%9F%E4%BA%BA%23&t=31&band_rank=3&Refer=top)<br />
 4. [金曲奖](https://s.weibo.com/weibo?q=%E9%87%91%E6%9B%B2%E5%A5%96&t=31&band_rank=4&Refer=top)<br />
 5. [艾怡良颁奖乌龙](https://s.weibo.com/weibo?q=%23%E8%89%BE%E6%80%A1%E8%89%AF%E9%A2%81%E5%A5%96%E4%B9%8C%E9%BE%99%23&t=31&band_rank=5&Refer=top)<br />
@@ -21,8 +21,8 @@
 5. [想学习大语言模型 (LLM)，应该从哪个开源模型开始？](https://www.zhihu.com/question/608820310)<br />
 6. [2023 LPL 夏季赛 JDG 2:0 UP，如何评价这场比赛？](https://www.zhihu.com/question/609792660)<br />
 7. [高考结束了，马上要步入大学校门了，有什么比较适合大学生的笔记本电脑？](https://www.zhihu.com/question/606656875)<br />
-8. [亚马逊公司旗下 Kindle 中国电子书店停止运营，已启动退款程序，为何 Kindle 退出中国市场？](https://www.zhihu.com/question/609622371)<br />
-9. [大家看完《消失的她》后有什么感受？](https://www.zhihu.com/question/609070712)<br />
+8. [大家看完《消失的她》后有什么感受？](https://www.zhihu.com/question/609070712)<br />
+9. [亚马逊公司旗下 Kindle 中国电子书店停止运营，已启动退款程序，为何 Kindle 退出中国市场？](https://www.zhihu.com/question/609622371)<br />
 
 > 百度  
 
