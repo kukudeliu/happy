@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 05:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 05:19:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [ALin陪跑5次首封金曲歌后](https://www.baidu.com/s?wd=ALin%E9%99%AA%E8%B7%915%E6%AC%A1%E9%A6%96%E5%B0%81%E9%87%91%E6%9B%B2%E6%AD%8C%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [三甲医院又现“塌方式”腐败](https://www.baidu.com/s?wd=%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2%E5%8F%88%E7%8E%B0%E2%80%9C%E5%A1%8C%E6%96%B9%E5%BC%8F%E2%80%9D%E8%85%90%E8%B4%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [黑龙江下冰雹：墙体像子弹打过一样](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%8B%E5%86%B0%E9%9B%B9%EF%BC%9A%E5%A2%99%E4%BD%93%E5%83%8F%E5%AD%90%E5%BC%B9%E6%89%93%E8%BF%87%E4%B8%80%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [义乌脸基尼卖爆了](https://www.baidu.com/s?wd=%E4%B9%89%E4%B9%8C%E8%84%B8%E5%9F%BA%E5%B0%BC%E5%8D%96%E7%88%86%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [李现 这次没有版权问题了](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%B0+%E8%BF%99%E6%AC%A1%E6%B2%A1%E6%9C%89%E7%89%88%E6%9D%83%E9%97%AE%E9%A2%98%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [ALin陪跑5次首封金曲歌后](https://www.baidu.com/s?wd=ALin%E9%99%AA%E8%B7%915%E6%AC%A1%E9%A6%96%E5%B0%81%E9%87%91%E6%9B%B2%E6%AD%8C%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [三甲医院又现“塌方式”腐败](https://www.baidu.com/s?wd=%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2%E5%8F%88%E7%8E%B0%E2%80%9C%E5%A1%8C%E6%96%B9%E5%BC%8F%E2%80%9D%E8%85%90%E8%B4%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [黑龙江下冰雹：墙体像子弹打过一样](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%8B%E5%86%B0%E9%9B%B9%EF%BC%9A%E5%A2%99%E4%BD%93%E5%83%8F%E5%AD%90%E5%BC%B9%E6%89%93%E8%BF%87%E4%B8%80%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [义乌脸基尼卖爆了](https://www.baidu.com/s?wd=%E4%B9%89%E4%B9%8C%E8%84%B8%E5%9F%BA%E5%B0%BC%E5%8D%96%E7%88%86%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [李现 这次没有版权问题了](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%B0+%E8%BF%99%E6%AC%A1%E6%B2%A1%E6%9C%89%E7%89%88%E6%9D%83%E9%97%AE%E9%A2%98%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
