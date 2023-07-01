@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 13:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 13:17:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [乌克兰正讨论禁止现金支付，或成首个废除现金国家，号称可减少至少 95% 腐败，这一举措是否合理？](https://www.zhihu.com/question/609605756)<br />
 7. [准大一生应该先提前买电脑还是开学后再买？](https://www.zhihu.com/question/609719019)<br />
 8. [恩里克将出任巴黎新主帅，签约两年，他会给球队带来怎样的改变？](https://www.zhihu.com/question/609604604)<br />
-9. [为了变漂亮，你坚持了哪些好习惯？](https://www.zhihu.com/question/268216399)<br />
+9. [你觉得勇士如何补强才能在库里生涯暮年再获一冠?](https://www.zhihu.com/question/608988761)<br />
 
 > 百度  
 
