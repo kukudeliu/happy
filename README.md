@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 18:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 18:59:02</h4></div>
 
 > 微博  
 
@@ -32,9 +32,9 @@
 4. [2023年暑运正式启动](https://www.baidu.com/s?wd=2023%E5%B9%B4%E6%9A%91%E8%BF%90%E6%AD%A3%E5%BC%8F%E5%90%AF%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [蔡徐坤豆瓣主页作品全部清空](https://www.baidu.com/s?wd=%E8%94%A1%E5%BE%90%E5%9D%A4%E8%B1%86%E7%93%A3%E4%B8%BB%E9%A1%B5%E4%BD%9C%E5%93%81%E5%85%A8%E9%83%A8%E6%B8%85%E7%A9%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [娄艺潇自曝体重快120斤](https://www.baidu.com/s?wd=%E5%A8%84%E8%89%BA%E6%BD%87%E8%87%AA%E6%9B%9D%E4%BD%93%E9%87%8D%E5%BF%AB120%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [杀害女子后潜逃的“书法家”已死亡](https://www.baidu.com/s?wd=%E6%9D%80%E5%AE%B3%E5%A5%B3%E5%AD%90%E5%90%8E%E6%BD%9C%E9%80%83%E7%9A%84%E2%80%9C%E4%B9%A6%E6%B3%95%E5%AE%B6%E2%80%9D%E5%B7%B2%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [杨颖工作室改名刘瑕心理工作室](https://www.baidu.com/s?wd=%E6%9D%A8%E9%A2%96%E5%B7%A5%E4%BD%9C%E5%AE%A4%E6%94%B9%E5%90%8D%E5%88%98%E7%91%95%E5%BF%83%E7%90%86%E5%B7%A5%E4%BD%9C%E5%AE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [顾客吃肯德基发现鸡腿冒血水](https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E5%90%83%E8%82%AF%E5%BE%B7%E5%9F%BA%E5%8F%91%E7%8E%B0%E9%B8%A1%E8%85%BF%E5%86%92%E8%A1%80%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [顾客吃肯德基发现鸡腿冒血水](https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E5%90%83%E8%82%AF%E5%BE%B7%E5%9F%BA%E5%8F%91%E7%8E%B0%E9%B8%A1%E8%85%BF%E5%86%92%E8%A1%80%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [杀害女子后潜逃的“书法家”已死亡](https://www.baidu.com/s?wd=%E6%9D%80%E5%AE%B3%E5%A5%B3%E5%AD%90%E5%90%8E%E6%BD%9C%E9%80%83%E7%9A%84%E2%80%9C%E4%B9%A6%E6%B3%95%E5%AE%B6%E2%80%9D%E5%B7%B2%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [杨颖工作室改名刘瑕心理工作室](https://www.baidu.com/s?wd=%E6%9D%A8%E9%A2%96%E5%B7%A5%E4%BD%9C%E5%AE%A4%E6%94%B9%E5%90%8D%E5%88%98%E7%91%95%E5%BF%83%E7%90%86%E5%B7%A5%E4%BD%9C%E5%AE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [2023年暑运正式启动](https://www.baidu.com/s?wd=2023%E5%B9%B4%E6%9A%91%E8%BF%90%E6%AD%A3%E5%BC%8F%E5%90%AF%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [蔡徐坤豆瓣主页作品全部清空](https://www.baidu.com/s?wd=%E8%94%A1%E5%BE%90%E5%9D%A4%E8%B1%86%E7%93%A3%E4%B8%BB%E9%A1%B5%E4%BD%9C%E5%93%81%E5%85%A8%E9%83%A8%E6%B8%85%E7%A9%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [娄艺潇自曝体重快120斤](https://www.baidu.com/s?wd=%E5%A8%84%E8%89%BA%E6%BD%87%E8%87%AA%E6%9B%9D%E4%BD%93%E9%87%8D%E5%BF%AB120%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [杀害女子后潜逃的“书法家”已死亡](https://www.baidu.com/s?wd=%E6%9D%80%E5%AE%B3%E5%A5%B3%E5%AD%90%E5%90%8E%E6%BD%9C%E9%80%83%E7%9A%84%E2%80%9C%E4%B9%A6%E6%B3%95%E5%AE%B6%E2%80%9D%E5%B7%B2%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [杨颖工作室改名刘瑕心理工作室](https://www.baidu.com/s?wd=%E6%9D%A8%E9%A2%96%E5%B7%A5%E4%BD%9C%E5%AE%A4%E6%94%B9%E5%90%8D%E5%88%98%E7%91%95%E5%BF%83%E7%90%86%E5%B7%A5%E4%BD%9C%E5%AE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [顾客吃肯德基发现鸡腿冒血水](https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E5%90%83%E8%82%AF%E5%BE%B7%E5%9F%BA%E5%8F%91%E7%8E%B0%E9%B8%A1%E8%85%BF%E5%86%92%E8%A1%80%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [顾客吃肯德基发现鸡腿冒血水](https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E5%90%83%E8%82%AF%E5%BE%B7%E5%9F%BA%E5%8F%91%E7%8E%B0%E9%B8%A1%E8%85%BF%E5%86%92%E8%A1%80%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [杀害女子后潜逃的“书法家”已死亡](https://www.baidu.com/s?wd=%E6%9D%80%E5%AE%B3%E5%A5%B3%E5%AD%90%E5%90%8E%E6%BD%9C%E9%80%83%E7%9A%84%E2%80%9C%E4%B9%A6%E6%B3%95%E5%AE%B6%E2%80%9D%E5%B7%B2%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [杨颖工作室改名刘瑕心理工作室](https://www.baidu.com/s?wd=%E6%9D%A8%E9%A2%96%E5%B7%A5%E4%BD%9C%E5%AE%A4%E6%94%B9%E5%90%8D%E5%88%98%E7%91%95%E5%BF%83%E7%90%86%E5%B7%A5%E4%BD%9C%E5%AE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
