@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 03:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 03:48:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. []()<br />
 5. []()<br />
 6. [目前我国经济复苏进程正处于哪一阶段？当前中国经济的复苏与以往的周期性复苏有什么差别？](https://www.zhihu.com/question/609606249)<br />
-7. [大家看完《消失的她》后有什么感受？](https://www.zhihu.com/question/609070712)<br />
-8. [儿子今年读初中，想看金庸的书，我该不该给他买？](https://www.zhihu.com/question/609342307)<br />
-9. [为什么「加」「恰」「霞」三个字的拼音分别是 jiā、 qià、 xiá，而不是 jā、 qà、 xá？](https://www.zhihu.com/question/609163323)<br />
+7. [儿子今年读初中，想看金庸的书，我该不该给他买？](https://www.zhihu.com/question/609342307)<br />
+8. [大家看完《消失的她》后有什么感受？](https://www.zhihu.com/question/609070712)<br />
+9. [想学习大语言模型 (LLM)，应该从哪个开源模型开始？](https://www.zhihu.com/question/608820310)<br />
 
 > 百度  
 
