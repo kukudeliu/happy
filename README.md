@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 12:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 12:25:02</h4></div>
 
 > 微博  
 
@@ -21,12 +21,12 @@
 5. [法国爆发骚乱，苹果被砸店哄抢，两千辆车被烧，政府出动 4.5 万名警察，中使馆提醒防范，目前情况如何？](https://www.zhihu.com/question/609749253)<br />
 6. [携程宣布投入 10 亿元鼓励员工生育，每孩每年 1 万，连发 5 年，如何看待此举？哪些信息值得关注？](https://www.zhihu.com/question/609559160)<br />
 7. [胡锡进谈炒股心得，称「扳回 664 元下周继续增持股票」，如何看待胡锡进炒股进展？](https://www.zhihu.com/question/609622563)<br />
-8. []()<br />
+8. [同样是 T1 坦辅，为什么张飞在顶端巅峰赛比牛魔更受大众喜爱呢？](https://www.zhihu.com/question/584112807)<br />
 9. []()<br />
 
 > 百度  
 
-1. [百年大党永葆青春](https://www.baidu.com/s?wd=%E7%99%BE%E5%B9%B4%E5%A4%A7%E5%85%9A%E6%B0%B8%E8%91%86%E9%9D%92%E6%98%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [这是信仰的力量](https://www.baidu.com/s?wd=%E8%BF%99%E6%98%AF%E4%BF%A1%E4%BB%B0%E7%9A%84%E5%8A%9B%E9%87%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [记者采访官员被反问多宣传好的不行吗](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E9%87%87%E8%AE%BF%E5%AE%98%E5%91%98%E8%A2%AB%E5%8F%8D%E9%97%AE%E5%A4%9A%E5%AE%A3%E4%BC%A0%E5%A5%BD%E7%9A%84%E4%B8%8D%E8%A1%8C%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [法国一辆载41名中国游客车辆被砸](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E4%B8%80%E8%BE%86%E8%BD%BD41%E5%90%8D%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E8%BD%A6%E8%BE%86%E8%A2%AB%E7%A0%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [勇担使命谋发展 矢志奋斗谱新篇](https://www.baidu.com/s?wd=%E5%8B%87%E6%8B%85%E4%BD%BF%E5%91%BD%E8%B0%8B%E5%8F%91%E5%B1%95+%E7%9F%A2%E5%BF%97%E5%A5%8B%E6%96%97%E8%B0%B1%E6%96%B0%E7%AF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -38,7 +38,7 @@
 
 > 哔哩哔哩  
 
-1. [百年大党永葆青春](https://www.baidu.com/s?wd=%E7%99%BE%E5%B9%B4%E5%A4%A7%E5%85%9A%E6%B0%B8%E8%91%86%E9%9D%92%E6%98%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [这是信仰的力量](https://www.baidu.com/s?wd=%E8%BF%99%E6%98%AF%E4%BF%A1%E4%BB%B0%E7%9A%84%E5%8A%9B%E9%87%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [记者采访官员被反问多宣传好的不行吗](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E9%87%87%E8%AE%BF%E5%AE%98%E5%91%98%E8%A2%AB%E5%8F%8D%E9%97%AE%E5%A4%9A%E5%AE%A3%E4%BC%A0%E5%A5%BD%E7%9A%84%E4%B8%8D%E8%A1%8C%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [法国一辆载41名中国游客车辆被砸](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E4%B8%80%E8%BE%86%E8%BD%BD41%E5%90%8D%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E8%BD%A6%E8%BE%86%E8%A2%AB%E7%A0%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [勇担使命谋发展 矢志奋斗谱新篇](https://www.baidu.com/s?wd=%E5%8B%87%E6%8B%85%E4%BD%BF%E5%91%BD%E8%B0%8B%E5%8F%91%E5%B1%95+%E7%9F%A2%E5%BF%97%E5%A5%8B%E6%96%97%E8%B0%B1%E6%96%B0%E7%AF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
