@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 17:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 17:19:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [三甲医院又现“塌方式”腐败](https://www.baidu.com/s?wd=%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2%E5%8F%88%E7%8E%B0%E2%80%9C%E5%A1%8C%E6%96%B9%E5%BC%8F%E2%80%9D%E8%85%90%E8%B4%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [江西一化工厂起火 官方：无伤亡](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E4%B8%80%E5%8C%96%E5%B7%A5%E5%8E%82%E8%B5%B7%E7%81%AB+%E5%AE%98%E6%96%B9%EF%BC%9A%E6%97%A0%E4%BC%A4%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [杀害女子后潜逃的“书法家”已死亡](https://www.baidu.com/s?wd=%E6%9D%80%E5%AE%B3%E5%A5%B3%E5%AD%90%E5%90%8E%E6%BD%9C%E9%80%83%E7%9A%84%E2%80%9C%E4%B9%A6%E6%B3%95%E5%AE%B6%E2%80%9D%E5%B7%B2%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子外出干活遇超大菌子](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%A4%96%E5%87%BA%E5%B9%B2%E6%B4%BB%E9%81%87%E8%B6%85%E5%A4%A7%E8%8F%8C%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [张大大说白敬亭宋轶是真的就祝福](https://www.baidu.com/s?wd=%E5%BC%A0%E5%A4%A7%E5%A4%A7%E8%AF%B4%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6%E6%98%AF%E7%9C%9F%E7%9A%84%E5%B0%B1%E7%A5%9D%E7%A6%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [三甲医院又现“塌方式”腐败](https://www.baidu.com/s?wd=%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2%E5%8F%88%E7%8E%B0%E2%80%9C%E5%A1%8C%E6%96%B9%E5%BC%8F%E2%80%9D%E8%85%90%E8%B4%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [江西一化工厂起火 官方：无伤亡](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E4%B8%80%E5%8C%96%E5%B7%A5%E5%8E%82%E8%B5%B7%E7%81%AB+%E5%AE%98%E6%96%B9%EF%BC%9A%E6%97%A0%E4%BC%A4%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [杀害女子后潜逃的“书法家”已死亡](https://www.baidu.com/s?wd=%E6%9D%80%E5%AE%B3%E5%A5%B3%E5%AD%90%E5%90%8E%E6%BD%9C%E9%80%83%E7%9A%84%E2%80%9C%E4%B9%A6%E6%B3%95%E5%AE%B6%E2%80%9D%E5%B7%B2%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子外出干活遇超大菌子](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%A4%96%E5%87%BA%E5%B9%B2%E6%B4%BB%E9%81%87%E8%B6%85%E5%A4%A7%E8%8F%8C%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [张大大说白敬亭宋轶是真的就祝福](https://www.baidu.com/s?wd=%E5%BC%A0%E5%A4%A7%E5%A4%A7%E8%AF%B4%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6%E6%98%AF%E7%9C%9F%E7%9A%84%E5%B0%B1%E7%A5%9D%E7%A6%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
