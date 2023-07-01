@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 12:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 12:18:01</h4></div>
 
 > 微博  
 
@@ -20,8 +20,8 @@
 4. [如何看待山河四省学子在网上自建山河大学？](https://www.zhihu.com/question/609297089)<br />
 5. [法国爆发骚乱，苹果被砸店哄抢，两千辆车被烧，政府出动 4.5 万名警察，中使馆提醒防范，目前情况如何？](https://www.zhihu.com/question/609749253)<br />
 6. [胡锡进谈炒股心得，称「扳回 664 元下周继续增持股票」，如何看待胡锡进炒股进展？](https://www.zhihu.com/question/609622563)<br />
-7. [《封神第一部》新预告，新版妲己首度曝光，你对该角色有哪些期待？](https://www.zhihu.com/question/609357109)<br />
-8. [携程宣布投入 10 亿元鼓励员工生育，每孩每年 1 万，连发 5 年，如何看待此举？哪些信息值得关注？](https://www.zhihu.com/question/609559160)<br />
+7. [携程宣布投入 10 亿元鼓励员工生育，每孩每年 1 万，连发 5 年，如何看待此举？哪些信息值得关注？](https://www.zhihu.com/question/609559160)<br />
+8. [《封神第一部》新预告，新版妲己首度曝光，你对该角色有哪些期待？](https://www.zhihu.com/question/609357109)<br />
 9. []()<br />
 
 > 百度  
@@ -34,7 +34,7 @@
 6. [Angelababy 这是我结婚的地方](https://www.baidu.com/s?wd=Angelababy+%E8%BF%99%E6%98%AF%E6%88%91%E7%BB%93%E5%A9%9A%E7%9A%84%E5%9C%B0%E6%96%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [法国一夜间超2000辆车被烧成废铁](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E4%B8%80%E5%A4%9C%E9%97%B4%E8%B6%852000%E8%BE%86%E8%BD%A6%E8%A2%AB%E7%83%A7%E6%88%90%E5%BA%9F%E9%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [奔跑吧节目封面大写我太难了](https://www.baidu.com/s?wd=%E5%A5%94%E8%B7%91%E5%90%A7%E8%8A%82%E7%9B%AE%E5%B0%81%E9%9D%A2%E5%A4%A7%E5%86%99%E6%88%91%E5%A4%AA%E9%9A%BE%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [野猪正式调出“三有”名录](https://www.baidu.com/s?wd=%E9%87%8E%E7%8C%AA%E6%AD%A3%E5%BC%8F%E8%B0%83%E5%87%BA%E2%80%9C%E4%B8%89%E6%9C%89%E2%80%9D%E5%90%8D%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [助手给白百何吃烤焦的面包](https://www.baidu.com/s?wd=%E5%8A%A9%E6%89%8B%E7%BB%99%E7%99%BD%E7%99%BE%E4%BD%95%E5%90%83%E7%83%A4%E7%84%A6%E7%9A%84%E9%9D%A2%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [Angelababy 这是我结婚的地方](https://www.baidu.com/s?wd=Angelababy+%E8%BF%99%E6%98%AF%E6%88%91%E7%BB%93%E5%A9%9A%E7%9A%84%E5%9C%B0%E6%96%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [法国一夜间超2000辆车被烧成废铁](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E4%B8%80%E5%A4%9C%E9%97%B4%E8%B6%852000%E8%BE%86%E8%BD%A6%E8%A2%AB%E7%83%A7%E6%88%90%E5%BA%9F%E9%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [奔跑吧节目封面大写我太难了](https://www.baidu.com/s?wd=%E5%A5%94%E8%B7%91%E5%90%A7%E8%8A%82%E7%9B%AE%E5%B0%81%E9%9D%A2%E5%A4%A7%E5%86%99%E6%88%91%E5%A4%AA%E9%9A%BE%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [野猪正式调出“三有”名录](https://www.baidu.com/s?wd=%E9%87%8E%E7%8C%AA%E6%AD%A3%E5%BC%8F%E8%B0%83%E5%87%BA%E2%80%9C%E4%B8%89%E6%9C%89%E2%80%9D%E5%90%8D%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [助手给白百何吃烤焦的面包](https://www.baidu.com/s?wd=%E5%8A%A9%E6%89%8B%E7%BB%99%E7%99%BD%E7%99%BE%E4%BD%95%E5%90%83%E7%83%A4%E7%84%A6%E7%9A%84%E9%9D%A2%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
