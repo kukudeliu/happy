@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 22:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 22:09:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [刘美含 北大](https://s.weibo.com/weibo?q=%E5%88%98%E7%BE%8E%E5%90%AB%20%E5%8C%97%E5%A4%A7&t=31&band_rank=2&Refer=top)<br />
 3. [七一勋章获得者的事迹有多感人](https://s.weibo.com/weibo?q=%23%E4%B8%83%E4%B8%80%E5%8B%8B%E7%AB%A0%E8%8E%B7%E5%BE%97%E8%80%85%E7%9A%84%E4%BA%8B%E8%BF%B9%E6%9C%89%E5%A4%9A%E6%84%9F%E4%BA%BA%23&t=31&band_rank=3&Refer=top)<br />
 4. [金曲奖](https://s.weibo.com/weibo?q=%E9%87%91%E6%9B%B2%E5%A5%96&t=31&band_rank=4&Refer=top)<br />
-5. [消失的她票根还有隐藏刀](https://s.weibo.com/weibo?q=%23%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%A0%B9%E8%BF%98%E6%9C%89%E9%9A%90%E8%97%8F%E5%88%80%23&t=31&band_rank=5&Refer=top)<br />
-6. [Uzi选出VN](https://s.weibo.com/weibo?q=%23Uzi%E9%80%89%E5%87%BAVN%23&t=31&band_rank=6&Refer=top)<br />
+5. [Uzi选出VN](https://s.weibo.com/weibo?q=%23Uzi%E9%80%89%E5%87%BAVN%23&t=31&band_rank=5&Refer=top)<br />
+6. [消失的她票根还有隐藏刀](https://s.weibo.com/weibo?q=%23%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%A0%B9%E8%BF%98%E6%9C%89%E9%9A%90%E8%97%8F%E5%88%80%23&t=31&band_rank=6&Refer=top)<br />
 7. [澡堂子偶遇王嘉尔](https://s.weibo.com/weibo?q=%23%E6%BE%A1%E5%A0%82%E5%AD%90%E5%81%B6%E9%81%87%E7%8E%8B%E5%98%89%E5%B0%94%23&t=31&band_rank=7&Refer=top)<br />
 8. [网友感谢王一博赞助奖学金](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E6%84%9F%E8%B0%A2%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%B5%9E%E5%8A%A9%E5%A5%96%E5%AD%A6%E9%87%91%23&t=31&band_rank=8&Refer=top)<br />
 9. [EDG战胜WE](https://s.weibo.com/weibo?q=%23EDG%E6%88%98%E8%83%9CWE%23&t=31&band_rank=9&Refer=top)<br />
@@ -34,7 +34,7 @@
 6. [国科大校长说着说着就哭了](https://www.baidu.com/s?wd=%E5%9B%BD%E7%A7%91%E5%A4%A7%E6%A0%A1%E9%95%BF%E8%AF%B4%E7%9D%80%E8%AF%B4%E7%9D%80%E5%B0%B1%E5%93%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [胖东来老板劝网友卖房](https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E8%80%81%E6%9D%BF%E5%8A%9D%E7%BD%91%E5%8F%8B%E5%8D%96%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [泰国女子小腿卷入自动步道被迫截肢](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E5%A5%B3%E5%AD%90%E5%B0%8F%E8%85%BF%E5%8D%B7%E5%85%A5%E8%87%AA%E5%8A%A8%E6%AD%A5%E9%81%93%E8%A2%AB%E8%BF%AB%E6%88%AA%E8%82%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男生旅行3年收集50余个城市水土](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E6%97%85%E8%A1%8C3%E5%B9%B4%E6%94%B6%E9%9B%8650%E4%BD%99%E4%B8%AA%E5%9F%8E%E5%B8%82%E6%B0%B4%E5%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子外出干活遇超大菌子](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%A4%96%E5%87%BA%E5%B9%B2%E6%B4%BB%E9%81%87%E8%B6%85%E5%A4%A7%E8%8F%8C%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [国科大校长说着说着就哭了](https://www.baidu.com/s?wd=%E5%9B%BD%E7%A7%91%E5%A4%A7%E6%A0%A1%E9%95%BF%E8%AF%B4%E7%9D%80%E8%AF%B4%E7%9D%80%E5%B0%B1%E5%93%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [胖东来老板劝网友卖房](https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E8%80%81%E6%9D%BF%E5%8A%9D%E7%BD%91%E5%8F%8B%E5%8D%96%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [泰国女子小腿卷入自动步道被迫截肢](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E5%A5%B3%E5%AD%90%E5%B0%8F%E8%85%BF%E5%8D%B7%E5%85%A5%E8%87%AA%E5%8A%A8%E6%AD%A5%E9%81%93%E8%A2%AB%E8%BF%AB%E6%88%AA%E8%82%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男生旅行3年收集50余个城市水土](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E6%97%85%E8%A1%8C3%E5%B9%B4%E6%94%B6%E9%9B%8650%E4%BD%99%E4%B8%AA%E5%9F%8E%E5%B8%82%E6%B0%B4%E5%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子外出干活遇超大菌子](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%A4%96%E5%87%BA%E5%B9%B2%E6%B4%BB%E9%81%87%E8%B6%85%E5%A4%A7%E8%8F%8C%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
