@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 11:58:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 11:59:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [法国一夜间超2000辆车被烧成废铁](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E4%B8%80%E5%A4%9C%E9%97%B4%E8%B6%852000%E8%BE%86%E8%BD%A6%E8%A2%AB%E7%83%A7%E6%88%90%E5%BA%9F%E9%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [奔跑吧节目封面大写我太难了](https://www.baidu.com/s?wd=%E5%A5%94%E8%B7%91%E5%90%A7%E8%8A%82%E7%9B%AE%E5%B0%81%E9%9D%A2%E5%A4%A7%E5%86%99%E6%88%91%E5%A4%AA%E9%9A%BE%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [白敬亭宋轶是不是忘记官宣了](https://www.baidu.com/s?wd=%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6%E6%98%AF%E4%B8%8D%E6%98%AF%E5%BF%98%E8%AE%B0%E5%AE%98%E5%AE%A3%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [法官辟谣父亲是老赖致女儿710分落榜](https://www.baidu.com/s?wd=%E6%B3%95%E5%AE%98%E8%BE%9F%E8%B0%A3%E7%88%B6%E4%BA%B2%E6%98%AF%E8%80%81%E8%B5%96%E8%87%B4%E5%A5%B3%E5%84%BF710%E5%88%86%E8%90%BD%E6%A6%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子围观火灾拍视频结果着火的是自家](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9B%B4%E8%A7%82%E7%81%AB%E7%81%BE%E6%8B%8D%E8%A7%86%E9%A2%91%E7%BB%93%E6%9E%9C%E7%9D%80%E7%81%AB%E7%9A%84%E6%98%AF%E8%87%AA%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [法国一夜间超2000辆车被烧成废铁](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E4%B8%80%E5%A4%9C%E9%97%B4%E8%B6%852000%E8%BE%86%E8%BD%A6%E8%A2%AB%E7%83%A7%E6%88%90%E5%BA%9F%E9%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [奔跑吧节目封面大写我太难了](https://www.baidu.com/s?wd=%E5%A5%94%E8%B7%91%E5%90%A7%E8%8A%82%E7%9B%AE%E5%B0%81%E9%9D%A2%E5%A4%A7%E5%86%99%E6%88%91%E5%A4%AA%E9%9A%BE%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [白敬亭宋轶是不是忘记官宣了](https://www.baidu.com/s?wd=%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6%E6%98%AF%E4%B8%8D%E6%98%AF%E5%BF%98%E8%AE%B0%E5%AE%98%E5%AE%A3%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [法官辟谣父亲是老赖致女儿710分落榜](https://www.baidu.com/s?wd=%E6%B3%95%E5%AE%98%E8%BE%9F%E8%B0%A3%E7%88%B6%E4%BA%B2%E6%98%AF%E8%80%81%E8%B5%96%E8%87%B4%E5%A5%B3%E5%84%BF710%E5%88%86%E8%90%BD%E6%A6%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子围观火灾拍视频结果着火的是自家](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9B%B4%E8%A7%82%E7%81%AB%E7%81%BE%E6%8B%8D%E8%A7%86%E9%A2%91%E7%BB%93%E6%9E%9C%E7%9D%80%E7%81%AB%E7%9A%84%E6%98%AF%E8%87%AA%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
