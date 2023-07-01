@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 06:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 06:17:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [目前我国经济复苏进程正处于哪一阶段？当前中国经济的复苏与以往的周期性复苏有什么差别？](https://www.zhihu.com/question/609606249)<br />
 5. [消息称小米印度正在进行大规模裁员，官方回应「根据市场和业务情况对员工数量进行规划」，哪些信息值得关注？](https://www.zhihu.com/question/609615935)<br />
 6. [如何看待吃自助餐先拿一盘蛋炒饭这种行为？](https://www.zhihu.com/question/440916537)<br />
-7. [儿子今年读初中，想看金庸的书，我该不该给他买？](https://www.zhihu.com/question/609342307)<br />
-8. [如何看待 2023 年频繁的混乱天气？](https://www.zhihu.com/question/597012158)<br />
-9. [能分享你手机里好看的天空吗？](https://www.zhihu.com/question/608827610)<br />
+7. [如何看待 2023 年频繁的混乱天气？](https://www.zhihu.com/question/597012158)<br />
+8. [2023 LPL 夏季赛 JDG 2:0 UP，如何评价这场比赛？](https://www.zhihu.com/question/609792660)<br />
+9. [儿子今年读初中，想看金庸的书，我该不该给他买？](https://www.zhihu.com/question/609342307)<br />
 
 > 百度  
 
