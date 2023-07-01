@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 00:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 00:29:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [推特崩了](https://s.weibo.com/weibo?q=%E6%8E%A8%E7%89%B9%E5%B4%A9%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
 5. [女子去世7只猫继承217万遗产](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%8E%BB%E4%B8%967%E5%8F%AA%E7%8C%AB%E7%BB%A7%E6%89%BF217%E4%B8%87%E9%81%97%E4%BA%A7%23&t=31&band_rank=5&Refer=top)<br />
 6. [白敬亭这真的是你吗](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E8%BF%99%E7%9C%9F%E7%9A%84%E6%98%AF%E4%BD%A0%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
-7. [艾怡良颁奖乌龙](https://s.weibo.com/weibo?q=%23%E8%89%BE%E6%80%A1%E8%89%AF%E9%A2%81%E5%A5%96%E4%B9%8C%E9%BE%99%23&t=31&band_rank=7&Refer=top)<br />
-8. [刘美含 北大](https://s.weibo.com/weibo?q=%E5%88%98%E7%BE%8E%E5%90%AB%20%E5%8C%97%E5%A4%A7&t=31&band_rank=8&Refer=top)<br />
+7. [刘美含 北大](https://s.weibo.com/weibo?q=%E5%88%98%E7%BE%8E%E5%90%AB%20%E5%8C%97%E5%A4%A7&t=31&band_rank=7&Refer=top)<br />
+8. [艾怡良颁奖乌龙](https://s.weibo.com/weibo?q=%23%E8%89%BE%E6%80%A1%E8%89%AF%E9%A2%81%E5%A5%96%E4%B9%8C%E9%BE%99%23&t=31&band_rank=8&Refer=top)<br />
 9. [金曲奖](https://s.weibo.com/weibo?q=%E9%87%91%E6%9B%B2%E5%A5%96&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -17,8 +17,8 @@
 1. [读了 17 年高中的唐尚珺今年高考 594 分，并决定去读大学，如何评价唐尚珺「多年高考」的行为？](https://www.zhihu.com/question/609651139)<br />
 2. [2023 LPL 夏季赛 Uzi 招牌 VN 登场，EDG 2:1 击败 WE，如何评价这场比赛？](https://www.zhihu.com/question/609805906)<br />
 3. [儿子今年读初中，想看金庸的书，我该不该给他买？](https://www.zhihu.com/question/609342307)<br />
-4. [2023 LPL 夏季赛 JDG 2:0 UP，如何评价这场比赛？](https://www.zhihu.com/question/609792660)<br />
-5. []()<br />
+4. []()<br />
+5. [2023 LPL 夏季赛 JDG 2:0 UP，如何评价这场比赛？](https://www.zhihu.com/question/609792660)<br />
 6. [高考结束了，马上要步入大学校门了，有什么比较适合大学生的笔记本电脑？](https://www.zhihu.com/question/606656875)<br />
 7. []()<br />
 8. [如何评价《崩坏：星穹铁道》1.1 版本彦卿同行任务「霜刃一试」?](https://www.zhihu.com/question/609476391)<br />
@@ -34,7 +34,7 @@
 6. [ALin陪跑5次首封金曲歌后](https://www.baidu.com/s?wd=ALin%E9%99%AA%E8%B7%915%E6%AC%A1%E9%A6%96%E5%B0%81%E9%87%91%E6%9B%B2%E6%AD%8C%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [义乌脸基尼卖爆了](https://www.baidu.com/s?wd=%E4%B9%89%E4%B9%8C%E8%84%B8%E5%9F%BA%E5%B0%BC%E5%8D%96%E7%88%86%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [孙女给生活不能自理爷爷洗澡引争议](https://www.baidu.com/s?wd=%E5%AD%99%E5%A5%B3%E7%BB%99%E7%94%9F%E6%B4%BB%E4%B8%8D%E8%83%BD%E8%87%AA%E7%90%86%E7%88%B7%E7%88%B7%E6%B4%97%E6%BE%A1%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [专家回应浙江上空现不明飞行物](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E5%9B%9E%E5%BA%94%E6%B5%99%E6%B1%9F%E4%B8%8A%E7%A9%BA%E7%8E%B0%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [达利园等品牌母公司将私有化退市](https://www.baidu.com/s?wd=%E8%BE%BE%E5%88%A9%E5%9B%AD%E7%AD%89%E5%93%81%E7%89%8C%E6%AF%8D%E5%85%AC%E5%8F%B8%E5%B0%86%E7%A7%81%E6%9C%89%E5%8C%96%E9%80%80%E5%B8%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [ALin陪跑5次首封金曲歌后](https://www.baidu.com/s?wd=ALin%E9%99%AA%E8%B7%915%E6%AC%A1%E9%A6%96%E5%B0%81%E9%87%91%E6%9B%B2%E6%AD%8C%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [义乌脸基尼卖爆了](https://www.baidu.com/s?wd=%E4%B9%89%E4%B9%8C%E8%84%B8%E5%9F%BA%E5%B0%BC%E5%8D%96%E7%88%86%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [孙女给生活不能自理爷爷洗澡引争议](https://www.baidu.com/s?wd=%E5%AD%99%E5%A5%B3%E7%BB%99%E7%94%9F%E6%B4%BB%E4%B8%8D%E8%83%BD%E8%87%AA%E7%90%86%E7%88%B7%E7%88%B7%E6%B4%97%E6%BE%A1%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [专家回应浙江上空现不明飞行物](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E5%9B%9E%E5%BA%94%E6%B5%99%E6%B1%9F%E4%B8%8A%E7%A9%BA%E7%8E%B0%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [达利园等品牌母公司将私有化退市](https://www.baidu.com/s?wd=%E8%BE%BE%E5%88%A9%E5%9B%AD%E7%AD%89%E5%93%81%E7%89%8C%E6%AF%8D%E5%85%AC%E5%8F%B8%E5%B0%86%E7%A7%81%E6%9C%89%E5%8C%96%E9%80%80%E5%B8%82&sa=fyb_news&rsv_dl=fyb_news)<br />
