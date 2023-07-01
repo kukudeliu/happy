@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 18:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 18:26:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [杨颖工作室改名刘瑕心理工作室](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E9%A2%96%E5%B7%A5%E4%BD%9C%E5%AE%A4%E6%94%B9%E5%90%8D%E5%88%98%E7%91%95%E5%BF%83%E7%90%86%E5%B7%A5%E4%BD%9C%E5%AE%A4%23&t=31&band_rank=6&Refer=top)<br />
 7. [女兵退伍当村支书集体收入3年翻3倍](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%85%B5%E9%80%80%E4%BC%8D%E5%BD%93%E6%9D%91%E6%94%AF%E4%B9%A6%E9%9B%86%E4%BD%93%E6%94%B6%E5%85%A53%E5%B9%B4%E7%BF%BB3%E5%80%8D%23&t=31&band_rank=7&Refer=top)<br />
 8. [刘瑕被网暴](https://s.weibo.com/weibo?q=%23%E5%88%98%E7%91%95%E8%A2%AB%E7%BD%91%E6%9A%B4%23&t=31&band_rank=8&Refer=top)<br />
-9. [娄艺潇自曝体重快120斤](https://s.weibo.com/weibo?q=%23%E5%A8%84%E8%89%BA%E6%BD%87%E8%87%AA%E6%9B%9D%E4%BD%93%E9%87%8D%E5%BF%AB120%E6%96%A4%23&t=31&band_rank=9&Refer=top)<br />
+9. [韩剧里财阀的脱鞋方式](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%89%A7%E9%87%8C%E8%B4%A2%E9%98%80%E7%9A%84%E8%84%B1%E9%9E%8B%E6%96%B9%E5%BC%8F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -20,9 +20,9 @@
 4. [消息称小米印度正在进行大规模裁员，官方回应「根据市场和业务情况对员工数量进行规划」，哪些信息值得关注？](https://www.zhihu.com/question/609615935)<br />
 5. [大家看完《消失的她》后有什么感受？](https://www.zhihu.com/question/609070712)<br />
 6. [卧冰求鲤为什么不用火，冰变薄不怕掉水里吗？](https://www.zhihu.com/question/609352523)<br />
-7. [情绪稳定的本质是什么？](https://www.zhihu.com/question/607297046)<br />
-8. [苹果市值突破三万亿美元，上半年纳指累涨 32%，特斯拉、英伟达等均涨超 100%，哪些信息值得关注？](https://www.zhihu.com/question/609751052)<br />
-9. [《红楼梦》中的「茄鲞」是一道杜撰的菜吗？](https://www.zhihu.com/question/25353387)<br />
+7. [江西贵溪市一化工厂发生爆炸，目前伤亡人数正在核实，现场救援情况如何，事故原因可能是什么？](https://www.zhihu.com/question/609772825)<br />
+8. [情绪稳定的本质是什么？](https://www.zhihu.com/question/607297046)<br />
+9. [苹果市值突破三万亿美元，上半年纳指累涨 32%，特斯拉、英伟达等均涨超 100%，哪些信息值得关注？](https://www.zhihu.com/question/609751052)<br />
 
 > 百度  
 
