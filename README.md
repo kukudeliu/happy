@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 22:10:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 22:11:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [刘美含 北大](https://s.weibo.com/weibo?q=%E5%88%98%E7%BE%8E%E5%90%AB%20%E5%8C%97%E5%A4%A7&t=31&band_rank=2&Refer=top)<br />
 3. [七一勋章获得者的事迹有多感人](https://s.weibo.com/weibo?q=%23%E4%B8%83%E4%B8%80%E5%8B%8B%E7%AB%A0%E8%8E%B7%E5%BE%97%E8%80%85%E7%9A%84%E4%BA%8B%E8%BF%B9%E6%9C%89%E5%A4%9A%E6%84%9F%E4%BA%BA%23&t=31&band_rank=3&Refer=top)<br />
 4. [金曲奖](https://s.weibo.com/weibo?q=%E9%87%91%E6%9B%B2%E5%A5%96&t=31&band_rank=4&Refer=top)<br />
-5. [Uzi选出VN](https://s.weibo.com/weibo?q=%23Uzi%E9%80%89%E5%87%BAVN%23&t=31&band_rank=5&Refer=top)<br />
-6. [消失的她票根还有隐藏刀](https://s.weibo.com/weibo?q=%23%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%A0%B9%E8%BF%98%E6%9C%89%E9%9A%90%E8%97%8F%E5%88%80%23&t=31&band_rank=6&Refer=top)<br />
+5. [消失的她票根还有隐藏刀](https://s.weibo.com/weibo?q=%23%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%A0%B9%E8%BF%98%E6%9C%89%E9%9A%90%E8%97%8F%E5%88%80%23&t=31&band_rank=5&Refer=top)<br />
+6. [Uzi选出VN](https://s.weibo.com/weibo?q=%23Uzi%E9%80%89%E5%87%BAVN%23&t=31&band_rank=6&Refer=top)<br />
 7. [澡堂子偶遇王嘉尔](https://s.weibo.com/weibo?q=%23%E6%BE%A1%E5%A0%82%E5%AD%90%E5%81%B6%E9%81%87%E7%8E%8B%E5%98%89%E5%B0%94%23&t=31&band_rank=7&Refer=top)<br />
 8. [网友感谢王一博赞助奖学金](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E6%84%9F%E8%B0%A2%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%B5%9E%E5%8A%A9%E5%A5%96%E5%AD%A6%E9%87%91%23&t=31&band_rank=8&Refer=top)<br />
 9. [EDG战胜WE](https://s.weibo.com/weibo?q=%23EDG%E6%88%98%E8%83%9CWE%23&t=31&band_rank=9&Refer=top)<br />
@@ -21,8 +21,8 @@
 5. [如何看待 2023 年频繁的混乱天气？](https://www.zhihu.com/question/597012158)<br />
 6. [想学习大语言模型 (LLM)，应该从哪个开源模型开始？](https://www.zhihu.com/question/608820310)<br />
 7. [大学生有什么学习网站?](https://www.zhihu.com/question/600134551)<br />
-8. [「港车北上」政策正式实施，首辆香港单牌车驶入珠海，将带来哪些便利？有哪些意义？](https://www.zhihu.com/question/609774013)<br />
-9. [消息称小米印度正在进行大规模裁员，官方回应「根据市场和业务情况对员工数量进行规划」，哪些信息值得关注？](https://www.zhihu.com/question/609615935)<br />
+8. [消息称小米印度正在进行大规模裁员，官方回应「根据市场和业务情况对员工数量进行规划」，哪些信息值得关注？](https://www.zhihu.com/question/609615935)<br />
+9. [亚马逊公司旗下 Kindle 中国电子书店停止运营，已启动退款程序，为何 Kindle 退出中国市场？](https://www.zhihu.com/question/609622371)<br />
 
 > 百度  
 
