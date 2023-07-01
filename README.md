@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 01:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 01:32:01</h4></div>
 
 > 微博  
 
-1. [ALin 金曲歌后](https://s.weibo.com/weibo?q=ALin%20%E9%87%91%E6%9B%B2%E6%AD%8C%E5%90%8E&t=31&band_rank=1&Refer=top)<br />
-2. [推特崩了](https://s.weibo.com/weibo?q=%E6%8E%A8%E7%89%B9%E5%B4%A9%E4%BA%86&t=31&band_rank=2&Refer=top)<br />
+1. [正式被确诊为浣碧](https://s.weibo.com/weibo?q=%23%E6%AD%A3%E5%BC%8F%E8%A2%AB%E7%A1%AE%E8%AF%8A%E4%B8%BA%E6%B5%A3%E7%A2%A7%23&t=31&band_rank=1&Refer=top)<br />
+2. [ALin 金曲歌后](https://s.weibo.com/weibo?q=ALin%20%E9%87%91%E6%9B%B2%E6%AD%8C%E5%90%8E&t=31&band_rank=2&Refer=top)<br />
 3. [七一勋章获得者的事迹有多感人](https://s.weibo.com/weibo?q=%23%E4%B8%83%E4%B8%80%E5%8B%8B%E7%AB%A0%E8%8E%B7%E5%BE%97%E8%80%85%E7%9A%84%E4%BA%8B%E8%BF%B9%E6%9C%89%E5%A4%9A%E6%84%9F%E4%BA%BA%23&t=31&band_rank=3&Refer=top)<br />
-4. [正式被确诊为浣碧](https://s.weibo.com/weibo?q=%23%E6%AD%A3%E5%BC%8F%E8%A2%AB%E7%A1%AE%E8%AF%8A%E4%B8%BA%E6%B5%A3%E7%A2%A7%23&t=31&band_rank=4&Refer=top)<br />
+4. [推特崩了](https://s.weibo.com/weibo?q=%E6%8E%A8%E7%89%B9%E5%B4%A9%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
 5. [女子去世7只猫继承217万遗产](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%8E%BB%E4%B8%967%E5%8F%AA%E7%8C%AB%E7%BB%A7%E6%89%BF217%E4%B8%87%E9%81%97%E4%BA%A7%23&t=31&band_rank=5&Refer=top)<br />
 6. [刘美含 北大](https://s.weibo.com/weibo?q=%E5%88%98%E7%BE%8E%E5%90%AB%20%E5%8C%97%E5%A4%A7&t=31&band_rank=6&Refer=top)<br />
 7. [汪东城音乐节](https://s.weibo.com/weibo?q=%E6%B1%AA%E4%B8%9C%E5%9F%8E%E9%9F%B3%E4%B9%90%E8%8A%82&t=31&band_rank=7&Refer=top)<br />
@@ -22,7 +22,7 @@
 6. [2023 LPL 夏季赛 JDG 2:0 UP，如何评价这场比赛？](https://www.zhihu.com/question/609792660)<br />
 7. [目前我国经济复苏进程正处于哪一阶段？当前中国经济的复苏与以往的周期性复苏有什么差别？](https://www.zhihu.com/question/609606249)<br />
 8. [亚马逊公司旗下 Kindle 中国电子书店停止运营，已启动退款程序，为何 Kindle 退出中国市场？](https://www.zhihu.com/question/609622371)<br />
-9. [儿子今年读初中，想看金庸的书，我该不该给他买？](https://www.zhihu.com/question/609342307)<br />
+9. [大家看完《消失的她》后有什么感受？](https://www.zhihu.com/question/609070712)<br />
 
 > 百度  
 
