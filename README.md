@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 06:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 06:08:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [ALin陪跑5次首封金曲歌后](https://www.baidu.com/s?wd=ALin%E9%99%AA%E8%B7%915%E6%AC%A1%E9%A6%96%E5%B0%81%E9%87%91%E6%9B%B2%E6%AD%8C%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [义乌脸基尼卖爆了](https://www.baidu.com/s?wd=%E4%B9%89%E4%B9%8C%E8%84%B8%E5%9F%BA%E5%B0%BC%E5%8D%96%E7%88%86%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [孙女给生活不能自理爷爷洗澡引争议](https://www.baidu.com/s?wd=%E5%AD%99%E5%A5%B3%E7%BB%99%E7%94%9F%E6%B4%BB%E4%B8%8D%E8%83%BD%E8%87%AA%E7%90%86%E7%88%B7%E7%88%B7%E6%B4%97%E6%BE%A1%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子驾车操作不当冲撞人群致9伤](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%A9%BE%E8%BD%A6%E6%93%8D%E4%BD%9C%E4%B8%8D%E5%BD%93%E5%86%B2%E6%92%9E%E4%BA%BA%E7%BE%A4%E8%87%B49%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [国科大校长说着说着就哭了](https://www.baidu.com/s?wd=%E5%9B%BD%E7%A7%91%E5%A4%A7%E6%A0%A1%E9%95%BF%E8%AF%B4%E7%9D%80%E8%AF%B4%E7%9D%80%E5%B0%B1%E5%93%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [ALin陪跑5次首封金曲歌后](https://www.baidu.com/s?wd=ALin%E9%99%AA%E8%B7%915%E6%AC%A1%E9%A6%96%E5%B0%81%E9%87%91%E6%9B%B2%E6%AD%8C%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [义乌脸基尼卖爆了](https://www.baidu.com/s?wd=%E4%B9%89%E4%B9%8C%E8%84%B8%E5%9F%BA%E5%B0%BC%E5%8D%96%E7%88%86%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [孙女给生活不能自理爷爷洗澡引争议](https://www.baidu.com/s?wd=%E5%AD%99%E5%A5%B3%E7%BB%99%E7%94%9F%E6%B4%BB%E4%B8%8D%E8%83%BD%E8%87%AA%E7%90%86%E7%88%B7%E7%88%B7%E6%B4%97%E6%BE%A1%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子驾车操作不当冲撞人群致9伤](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%A9%BE%E8%BD%A6%E6%93%8D%E4%BD%9C%E4%B8%8D%E5%BD%93%E5%86%B2%E6%92%9E%E4%BA%BA%E7%BE%A4%E8%87%B49%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [国科大校长说着说着就哭了](https://www.baidu.com/s?wd=%E5%9B%BD%E7%A7%91%E5%A4%A7%E6%A0%A1%E9%95%BF%E8%AF%B4%E7%9D%80%E8%AF%B4%E7%9D%80%E5%B0%B1%E5%93%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
