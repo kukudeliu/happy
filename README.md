@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 21:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 21:16:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [鸟胃型猪瘾](https://s.weibo.com/weibo?q=%E9%B8%9F%E8%83%83%E5%9E%8B%E7%8C%AA%E7%98%BE&t=31&band_rank=5&Refer=top)<br />
 6. [消失的她](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9&t=31&band_rank=6&Refer=top)<br />
 7. [金曲奖](https://s.weibo.com/weibo?q=%E9%87%91%E6%9B%B2%E5%A5%96&t=31&band_rank=7&Refer=top)<br />
-8. [法国骚乱已蔓延到邻国比利时](https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E9%AA%9A%E4%B9%B1%E5%B7%B2%E8%94%93%E5%BB%B6%E5%88%B0%E9%82%BB%E5%9B%BD%E6%AF%94%E5%88%A9%E6%97%B6%23&t=31&band_rank=8&Refer=top)<br />
-9. [慷慨病](https://s.weibo.com/weibo?q=%E6%85%B7%E6%85%A8%E7%97%85&t=31&band_rank=9&Refer=top)<br />
+8. [慷慨病](https://s.weibo.com/weibo?q=%E6%85%B7%E6%85%A8%E7%97%85&t=31&band_rank=8&Refer=top)<br />
+9. [法国骚乱已蔓延到邻国比利时](https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E9%AA%9A%E4%B9%B1%E5%B7%B2%E8%94%93%E5%BB%B6%E5%88%B0%E9%82%BB%E5%9B%BD%E6%AF%94%E5%88%A9%E6%97%B6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
