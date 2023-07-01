@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 17:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 17:15:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [报告称德国 2022 年资本外逃创纪录，净流出量 1250 亿欧元，或已开启去工业化进程，将有何影响？](https://www.zhihu.com/question/609749272)<br />
 7. [大家看完《消失的她》后有什么感受？](https://www.zhihu.com/question/609070712)<br />
 8. [卧冰求鲤为什么不用火，冰变薄不怕掉水里吗？](https://www.zhihu.com/question/609352523)<br />
-9. [如果你以现在的心智，带着当年高考答案穿越回你高考那年的身体，你会选择上清华北大，还是继续选择现在的路?](https://www.zhihu.com/question/608394355)<br />
+9. [996 和高三哪个更痛苦？](https://www.zhihu.com/question/605620273)<br />
 
 > 百度  
 
