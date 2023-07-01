@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 00:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 00:36:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [白敬亭这真的是你吗](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E8%BF%99%E7%9C%9F%E7%9A%84%E6%98%AF%E4%BD%A0%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [刘美含 北大](https://s.weibo.com/weibo?q=%E5%88%98%E7%BE%8E%E5%90%AB%20%E5%8C%97%E5%A4%A7&t=31&band_rank=7&Refer=top)<br />
 8. [HUSH 金曲歌王](https://s.weibo.com/weibo?q=HUSH%20%E9%87%91%E6%9B%B2%E6%AD%8C%E7%8E%8B&t=31&band_rank=8&Refer=top)<br />
-9. [女子去世7只猫继承217万遗产](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%8E%BB%E4%B8%967%E5%8F%AA%E7%8C%AB%E7%BB%A7%E6%89%BF217%E4%B8%87%E9%81%97%E4%BA%A7%23&t=31&band_rank=9&Refer=top)<br />
+9. [花花接住谭爷爷给的小苹果](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%8A%B1%E6%8E%A5%E4%BD%8F%E8%B0%AD%E7%88%B7%E7%88%B7%E7%BB%99%E7%9A%84%E5%B0%8F%E8%8B%B9%E6%9E%9C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
