@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 22:20:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 22:21:01</h4></div>
 
 > 微博  
 
@@ -17,8 +17,8 @@
 1. [读了 17 年高中的唐尚珺今年高考 594 分，并决定去读大学，如何评价唐尚珺「多年高考」的行为？](https://www.zhihu.com/question/609651139)<br />
 2. [2023 LPL 夏季赛 Uzi 招牌 VN 登场，EDG 2:1 击败 WE，如何评价这场比赛？](https://www.zhihu.com/question/609805906)<br />
 3. [联合国教科文组织通过决议，允许美国在 7 月恢复会员国身份，中国对最终决议投了反对票，如何解读？](https://www.zhihu.com/question/609689310)<br />
-4. [湖人自由市场首日四笔签约：续约八村塁，签约文森特、普林斯和雷迪什，如评价这些签约？](https://www.zhihu.com/question/609753176)<br />
-5. [如何看待 2023 年频繁的混乱天气？](https://www.zhihu.com/question/597012158)<br />
+4. [如何看待 2023 年频繁的混乱天气？](https://www.zhihu.com/question/597012158)<br />
+5. [湖人自由市场首日四笔签约：续约八村塁，签约文森特、普林斯和雷迪什，如评价这些签约？](https://www.zhihu.com/question/609753176)<br />
 6. [想学习大语言模型 (LLM)，应该从哪个开源模型开始？](https://www.zhihu.com/question/608820310)<br />
 7. [大学生有什么学习网站?](https://www.zhihu.com/question/600134551)<br />
 8. [亚马逊公司旗下 Kindle 中国电子书店停止运营，已启动退款程序，为何 Kindle 退出中国市场？](https://www.zhihu.com/question/609622371)<br />
