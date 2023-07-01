@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 14:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 14:50:01</h4></div>
 
 > 微博  
 
@@ -32,7 +32,7 @@
 4. [勇担使命谋发展 矢志奋斗谱新篇](https://www.baidu.com/s?wd=%E5%8B%87%E6%8B%85%E4%BD%BF%E5%91%BD%E8%B0%8B%E5%8F%91%E5%B1%95+%E7%9F%A2%E5%BF%97%E5%A5%8B%E6%96%97%E8%B0%B1%E6%96%B0%E7%AF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [驻美大使谢锋向拜登递交国书](https://www.baidu.com/s?wd=%E9%A9%BB%E7%BE%8E%E5%A4%A7%E4%BD%BF%E8%B0%A2%E9%94%8B%E5%90%91%E6%8B%9C%E7%99%BB%E9%80%92%E4%BA%A4%E5%9B%BD%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [顾客吃肯德基发现鸡腿冒血水](https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E5%90%83%E8%82%AF%E5%BE%B7%E5%9F%BA%E5%8F%91%E7%8E%B0%E9%B8%A1%E8%85%BF%E5%86%92%E8%A1%80%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [江西贵溪一化工厂发生爆炸](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E8%B4%B5%E6%BA%AA%E4%B8%80%E5%8C%96%E5%B7%A5%E5%8E%82%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [江西一化工厂起火 官方：无伤亡](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E4%B8%80%E5%8C%96%E5%B7%A5%E5%8E%82%E8%B5%B7%E7%81%AB+%E5%AE%98%E6%96%B9%EF%BC%9A%E6%97%A0%E4%BC%A4%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [法国球星姆巴佩发声呼吁结束暴力](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E7%90%83%E6%98%9F%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%8F%91%E5%A3%B0%E5%91%BC%E5%90%81%E7%BB%93%E6%9D%9F%E6%9A%B4%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [7岁女孩有弟弟后眼睛突然看不清](https://www.baidu.com/s?wd=7%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%9C%89%E5%BC%9F%E5%BC%9F%E5%90%8E%E7%9C%BC%E7%9D%9B%E7%AA%81%E7%84%B6%E7%9C%8B%E4%B8%8D%E6%B8%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -44,6 +44,6 @@
 4. [勇担使命谋发展 矢志奋斗谱新篇](https://www.baidu.com/s?wd=%E5%8B%87%E6%8B%85%E4%BD%BF%E5%91%BD%E8%B0%8B%E5%8F%91%E5%B1%95+%E7%9F%A2%E5%BF%97%E5%A5%8B%E6%96%97%E8%B0%B1%E6%96%B0%E7%AF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [驻美大使谢锋向拜登递交国书](https://www.baidu.com/s?wd=%E9%A9%BB%E7%BE%8E%E5%A4%A7%E4%BD%BF%E8%B0%A2%E9%94%8B%E5%90%91%E6%8B%9C%E7%99%BB%E9%80%92%E4%BA%A4%E5%9B%BD%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [顾客吃肯德基发现鸡腿冒血水](https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E5%90%83%E8%82%AF%E5%BE%B7%E5%9F%BA%E5%8F%91%E7%8E%B0%E9%B8%A1%E8%85%BF%E5%86%92%E8%A1%80%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [江西贵溪一化工厂发生爆炸](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E8%B4%B5%E6%BA%AA%E4%B8%80%E5%8C%96%E5%B7%A5%E5%8E%82%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [江西一化工厂起火 官方：无伤亡](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E4%B8%80%E5%8C%96%E5%B7%A5%E5%8E%82%E8%B5%B7%E7%81%AB+%E5%AE%98%E6%96%B9%EF%BC%9A%E6%97%A0%E4%BC%A4%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [法国球星姆巴佩发声呼吁结束暴力](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E7%90%83%E6%98%9F%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%8F%91%E5%A3%B0%E5%91%BC%E5%90%81%E7%BB%93%E6%9D%9F%E6%9A%B4%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [7岁女孩有弟弟后眼睛突然看不清](https://www.baidu.com/s?wd=7%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%9C%89%E5%BC%9F%E5%BC%9F%E5%90%8E%E7%9C%BC%E7%9D%9B%E7%AA%81%E7%84%B6%E7%9C%8B%E4%B8%8D%E6%B8%85&sa=fyb_news&rsv_dl=fyb_news)<br />
