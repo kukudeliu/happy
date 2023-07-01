@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 12:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 13:00:01</h4></div>
 
 > 微博  
 
@@ -15,14 +15,14 @@
 > 知乎  
 
 1. [中国高铁出海首单，印尼雅万高铁时速达 350 公里，日媒感叹「难以逾越的实力差距」，哪些信息值得关注？](https://www.zhihu.com/question/609596590)<br />
-2. [法国爆发骚乱，苹果被砸店哄抢，两千辆车被烧，政府出动 4.5 万名警察，中使馆提醒防范，目前情况如何？](https://www.zhihu.com/question/609749253)<br />
-3. [联合国教科文组织通过决议，允许美国在 7 月恢复会员国身份，中国对最终决议投了反对票，如何解读？](https://www.zhihu.com/question/609689310)<br />
+2. [联合国教科文组织通过决议，允许美国在 7 月恢复会员国身份，中国对最终决议投了反对票，如何解读？](https://www.zhihu.com/question/609689310)<br />
+3. [乌克兰正讨论禁止现金支付，或成首个废除现金国家，号称可减少至少 95% 腐败，这一举措是否合理？](https://www.zhihu.com/question/609605756)<br />
 4. [如何看待山河四省学子在网上自建山河大学？](https://www.zhihu.com/question/609297089)<br />
-5. [乌克兰正讨论禁止现金支付，或成首个废除现金国家，号称可减少至少 95% 腐败，这一举措是否合理？](https://www.zhihu.com/question/609605756)<br />
-6. [同样是 T1 坦辅，为什么张飞在顶端巅峰赛比牛魔更受大众喜爱呢？](https://www.zhihu.com/question/584112807)<br />
-7. [美国一季度 GDP 终值出现罕见大幅上修，这意味着什么？](https://www.zhihu.com/question/609552412)<br />
-8. [准大一生应该先提前买电脑还是开学后再买？](https://www.zhihu.com/question/609719019)<br />
-9. [为了变漂亮，你坚持了哪些好习惯？](https://www.zhihu.com/question/268216399)<br />
+5. [同样是 T1 坦辅，为什么张飞在顶端巅峰赛比牛魔更受大众喜爱呢？](https://www.zhihu.com/question/584112807)<br />
+6. [美国一季度 GDP 终值出现罕见大幅上修，这意味着什么？](https://www.zhihu.com/question/609552412)<br />
+7. [准大一生应该先提前买电脑还是开学后再买？](https://www.zhihu.com/question/609719019)<br />
+8. [为了变漂亮，你坚持了哪些好习惯？](https://www.zhihu.com/question/268216399)<br />
+9. [如何看待吃自助餐先拿一盘蛋炒饭这种行为？](https://www.zhihu.com/question/440916537)<br />
 
 > 百度  
 
