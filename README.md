@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 09:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 09:44:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [7岁女孩有弟弟后眼睛突然看不清](https://www.baidu.com/s?wd=7%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%9C%89%E5%BC%9F%E5%BC%9F%E5%90%8E%E7%9C%BC%E7%9D%9B%E7%AA%81%E7%84%B6%E7%9C%8B%E4%B8%8D%E6%B8%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [14岁女孩500元卖头发被商贩剪坏](https://www.baidu.com/s?wd=14%E5%B2%81%E5%A5%B3%E5%AD%A9500%E5%85%83%E5%8D%96%E5%A4%B4%E5%8F%91%E8%A2%AB%E5%95%86%E8%B4%A9%E5%89%AA%E5%9D%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子颈部插切割机警车狂飙10分钟](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%A2%88%E9%83%A8%E6%8F%92%E5%88%87%E5%89%B2%E6%9C%BA%E8%AD%A6%E8%BD%A6%E7%8B%82%E9%A3%9910%E5%88%86%E9%92%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [白敬亭宋轶是不是忘记官宣了](https://www.baidu.com/s?wd=%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6%E6%98%AF%E4%B8%8D%E6%98%AF%E5%BF%98%E8%AE%B0%E5%AE%98%E5%AE%A3%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [传载有40多名中国人大巴在法被砸](https://www.baidu.com/s?wd=%E4%BC%A0%E8%BD%BD%E6%9C%8940%E5%A4%9A%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%A4%A7%E5%B7%B4%E5%9C%A8%E6%B3%95%E8%A2%AB%E7%A0%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [7岁女孩有弟弟后眼睛突然看不清](https://www.baidu.com/s?wd=7%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%9C%89%E5%BC%9F%E5%BC%9F%E5%90%8E%E7%9C%BC%E7%9D%9B%E7%AA%81%E7%84%B6%E7%9C%8B%E4%B8%8D%E6%B8%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [14岁女孩500元卖头发被商贩剪坏](https://www.baidu.com/s?wd=14%E5%B2%81%E5%A5%B3%E5%AD%A9500%E5%85%83%E5%8D%96%E5%A4%B4%E5%8F%91%E8%A2%AB%E5%95%86%E8%B4%A9%E5%89%AA%E5%9D%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子颈部插切割机警车狂飙10分钟](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%A2%88%E9%83%A8%E6%8F%92%E5%88%87%E5%89%B2%E6%9C%BA%E8%AD%A6%E8%BD%A6%E7%8B%82%E9%A3%9910%E5%88%86%E9%92%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [白敬亭宋轶是不是忘记官宣了](https://www.baidu.com/s?wd=%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6%E6%98%AF%E4%B8%8D%E6%98%AF%E5%BF%98%E8%AE%B0%E5%AE%98%E5%AE%A3%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [传载有40多名中国人大巴在法被砸](https://www.baidu.com/s?wd=%E4%BC%A0%E8%BD%BD%E6%9C%8940%E5%A4%9A%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%A4%A7%E5%B7%B4%E5%9C%A8%E6%B3%95%E8%A2%AB%E7%A0%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
