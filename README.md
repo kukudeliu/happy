@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 06:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 06:09:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [如何看待吃自助餐先拿一盘蛋炒饭这种行为？](https://www.zhihu.com/question/440916537)<br />
 7. []()<br />
 8. [2023 LPL 夏季赛 Uzi 招牌 VN 登场，EDG 2:1 击败 WE，如何评价这场比赛？](https://www.zhihu.com/question/609805906)<br />
-9. [想学习大语言模型 (LLM)，应该从哪个开源模型开始？](https://www.zhihu.com/question/608820310)<br />
+9. [能分享你手机里好看的天空吗？](https://www.zhihu.com/question/608827610)<br />
 
 > 百度  
 
