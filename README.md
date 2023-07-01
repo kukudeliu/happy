@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 18:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 18:42:01</h4></div>
 
 > 微博  
 
@@ -19,9 +19,9 @@
 3. [美国一季度 GDP 终值出现罕见大幅上修，这意味着什么？](https://www.zhihu.com/question/609552412)<br />
 4. [消息称小米印度正在进行大规模裁员，官方回应「根据市场和业务情况对员工数量进行规划」，哪些信息值得关注？](https://www.zhihu.com/question/609615935)<br />
 5. [江西贵溪市一化工厂发生爆炸，目前伤亡人数正在核实，现场救援情况如何，事故原因可能是什么？](https://www.zhihu.com/question/609772825)<br />
-6. [大家看完《消失的她》后有什么感受？](https://www.zhihu.com/question/609070712)<br />
-7. [苹果市值突破三万亿美元，上半年纳指累涨 32%，特斯拉、英伟达等均涨超 100%，哪些信息值得关注？](https://www.zhihu.com/question/609751052)<br />
-8. [情绪稳定的本质是什么？](https://www.zhihu.com/question/607297046)<br />
+6. [苹果市值突破三万亿美元，上半年纳指累涨 32%，特斯拉、英伟达等均涨超 100%，哪些信息值得关注？](https://www.zhihu.com/question/609751052)<br />
+7. [情绪稳定的本质是什么？](https://www.zhihu.com/question/607297046)<br />
+8. [大家看完《消失的她》后有什么感受？](https://www.zhihu.com/question/609070712)<br />
 9. [《红楼梦》中的「茄鲞」是一道杜撰的菜吗？](https://www.zhihu.com/question/25353387)<br />
 
 > 百度  
