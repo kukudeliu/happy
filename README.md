@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 05:44:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 05:45:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [2023 LPL 夏季赛 JDG 2:0 UP，如何评价这场比赛？](https://www.zhihu.com/question/609792660)<br />
 7. [高考结束了，马上要步入大学校门了，有什么比较适合大学生的笔记本电脑？](https://www.zhihu.com/question/606656875)<br />
 8. [亚马逊公司旗下 Kindle 中国电子书店停止运营，已启动退款程序，为何 Kindle 退出中国市场？](https://www.zhihu.com/question/609622371)<br />
-9. [如何看待 2023 年频繁的混乱天气？](https://www.zhihu.com/question/597012158)<br />
+9. [如何评价《崩坏：星穹铁道》1.1 版本彦卿同行任务「霜刃一试」?](https://www.zhihu.com/question/609476391)<br />
 
 > 百度  
 
