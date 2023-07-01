@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 10:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 10:54:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [韩素希担任田柾国MV主演](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%B4%A0%E5%B8%8C%E6%8B%85%E4%BB%BB%E7%94%B0%E6%9F%BE%E5%9B%BDMV%E4%B8%BB%E6%BC%94%23&t=31&band_rank=6&Refer=top)<br />
 7. [三十岁女生给二十岁女生的建议](https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%8D%81%E5%B2%81%E5%A5%B3%E7%94%9F%E7%BB%99%E4%BA%8C%E5%8D%81%E5%B2%81%E5%A5%B3%E7%94%9F%E7%9A%84%E5%BB%BA%E8%AE%AE%23&t=31&band_rank=7&Refer=top)<br />
 8. [刘令姿版小兰花有父母了](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BB%A4%E5%A7%BF%E7%89%88%E5%B0%8F%E5%85%B0%E8%8A%B1%E6%9C%89%E7%88%B6%E6%AF%8D%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [法国骚乱](https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD%E9%AA%9A%E4%B9%B1&t=31&band_rank=9&Refer=top)<br />
+9. [晋江](https://s.weibo.com/weibo?q=%E6%99%8B%E6%B1%9F&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -34,7 +34,7 @@
 6. [7岁女孩有弟弟后眼睛突然看不清](https://www.baidu.com/s?wd=7%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%9C%89%E5%BC%9F%E5%BC%9F%E5%90%8E%E7%9C%BC%E7%9D%9B%E7%AA%81%E7%84%B6%E7%9C%8B%E4%B8%8D%E6%B8%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [14岁女孩500元卖头发被商贩剪坏](https://www.baidu.com/s?wd=14%E5%B2%81%E5%A5%B3%E5%AD%A9500%E5%85%83%E5%8D%96%E5%A4%B4%E5%8F%91%E8%A2%AB%E5%95%86%E8%B4%A9%E5%89%AA%E5%9D%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [沈月问真的有必要生小孩吗](https://www.baidu.com/s?wd=%E6%B2%88%E6%9C%88%E9%97%AE%E7%9C%9F%E7%9A%84%E6%9C%89%E5%BF%85%E8%A6%81%E7%94%9F%E5%B0%8F%E5%AD%A9%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [野生大熊猫用屁股蹭了蹭红外相机](https://www.baidu.com/s?wd=%E9%87%8E%E7%94%9F%E5%A4%A7%E7%86%8A%E7%8C%AB%E7%94%A8%E5%B1%81%E8%82%A1%E8%B9%AD%E4%BA%86%E8%B9%AD%E7%BA%A2%E5%A4%96%E7%9B%B8%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子颈部插切割机警车狂飙10分钟](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%A2%88%E9%83%A8%E6%8F%92%E5%88%87%E5%89%B2%E6%9C%BA%E8%AD%A6%E8%BD%A6%E7%8B%82%E9%A3%9910%E5%88%86%E9%92%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [7岁女孩有弟弟后眼睛突然看不清](https://www.baidu.com/s?wd=7%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%9C%89%E5%BC%9F%E5%BC%9F%E5%90%8E%E7%9C%BC%E7%9D%9B%E7%AA%81%E7%84%B6%E7%9C%8B%E4%B8%8D%E6%B8%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [14岁女孩500元卖头发被商贩剪坏](https://www.baidu.com/s?wd=14%E5%B2%81%E5%A5%B3%E5%AD%A9500%E5%85%83%E5%8D%96%E5%A4%B4%E5%8F%91%E8%A2%AB%E5%95%86%E8%B4%A9%E5%89%AA%E5%9D%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [沈月问真的有必要生小孩吗](https://www.baidu.com/s?wd=%E6%B2%88%E6%9C%88%E9%97%AE%E7%9C%9F%E7%9A%84%E6%9C%89%E5%BF%85%E8%A6%81%E7%94%9F%E5%B0%8F%E5%AD%A9%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [野生大熊猫用屁股蹭了蹭红外相机](https://www.baidu.com/s?wd=%E9%87%8E%E7%94%9F%E5%A4%A7%E7%86%8A%E7%8C%AB%E7%94%A8%E5%B1%81%E8%82%A1%E8%B9%AD%E4%BA%86%E8%B9%AD%E7%BA%A2%E5%A4%96%E7%9B%B8%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子颈部插切割机警车狂飙10分钟](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%A2%88%E9%83%A8%E6%8F%92%E5%88%87%E5%89%B2%E6%9C%BA%E8%AD%A6%E8%BD%A6%E7%8B%82%E9%A3%9910%E5%88%86%E9%92%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
