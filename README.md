@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 16:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 16:53:01</h4></div>
 
 > 微博  
 
@@ -20,8 +20,8 @@
 4. [亚马逊公司旗下 Kindle 中国电子书店停止运营，已启动退款程序，为何 Kindle 退出中国市场？](https://www.zhihu.com/question/609622371)<br />
 5. [消息称小米印度正在进行大规模裁员，官方回应「根据市场和业务情况对员工数量进行规划」，哪些信息值得关注？](https://www.zhihu.com/question/609615935)<br />
 6. [报告称德国 2022 年资本外逃创纪录，净流出量 1250 亿欧元，或已开启去工业化进程，将有何影响？](https://www.zhihu.com/question/609749272)<br />
-7. [996 和高三哪个更痛苦？](https://www.zhihu.com/question/605620273)<br />
-8. [大家看完《消失的她》后有什么感受？](https://www.zhihu.com/question/609070712)<br />
+7. [大家看完《消失的她》后有什么感受？](https://www.zhihu.com/question/609070712)<br />
+8. [996 和高三哪个更痛苦？](https://www.zhihu.com/question/605620273)<br />
 9. [卧冰求鲤为什么不用火，冰变薄不怕掉水里吗？](https://www.zhihu.com/question/609352523)<br />
 
 > 百度  
