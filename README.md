@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 02:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 02:26:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [推特崩了](https://s.weibo.com/weibo?q=%E6%8E%A8%E7%89%B9%E5%B4%A9%E4%BA%86&t=31&band_rank=2&Refer=top)<br />
 3. [七一勋章获得者的事迹有多感人](https://s.weibo.com/weibo?q=%23%E4%B8%83%E4%B8%80%E5%8B%8B%E7%AB%A0%E8%8E%B7%E5%BE%97%E8%80%85%E7%9A%84%E4%BA%8B%E8%BF%B9%E6%9C%89%E5%A4%9A%E6%84%9F%E4%BA%BA%23&t=31&band_rank=3&Refer=top)<br />
 4. [恐怖程度约等于零的恐怖片](https://s.weibo.com/weibo?q=%E6%81%90%E6%80%96%E7%A8%8B%E5%BA%A6%E7%BA%A6%E7%AD%89%E4%BA%8E%E9%9B%B6%E7%9A%84%E6%81%90%E6%80%96%E7%89%87&t=31&band_rank=4&Refer=top)<br />
-5. [ALin 金曲歌后](https://s.weibo.com/weibo?q=ALin%20%E9%87%91%E6%9B%B2%E6%AD%8C%E5%90%8E&t=31&band_rank=5&Refer=top)<br />
-6. [女子去世7只猫继承217万遗产](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%8E%BB%E4%B8%967%E5%8F%AA%E7%8C%AB%E7%BB%A7%E6%89%BF217%E4%B8%87%E9%81%97%E4%BA%A7%23&t=31&band_rank=6&Refer=top)<br />
+5. [女子去世7只猫继承217万遗产](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%8E%BB%E4%B8%967%E5%8F%AA%E7%8C%AB%E7%BB%A7%E6%89%BF217%E4%B8%87%E9%81%97%E4%BA%A7%23&t=31&band_rank=5&Refer=top)<br />
+6. [ALin 金曲歌后](https://s.weibo.com/weibo?q=ALin%20%E9%87%91%E6%9B%B2%E6%AD%8C%E5%90%8E&t=31&band_rank=6&Refer=top)<br />
 7. [刘美含 北大](https://s.weibo.com/weibo?q=%E5%88%98%E7%BE%8E%E5%90%AB%20%E5%8C%97%E5%A4%A7&t=31&band_rank=7&Refer=top)<br />
 8. [汪东城音乐节](https://s.weibo.com/weibo?q=%E6%B1%AA%E4%B8%9C%E5%9F%8E%E9%9F%B3%E4%B9%90%E8%8A%82&t=31&band_rank=8&Refer=top)<br />
 9. [张杰未live巡回演唱会](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9D%B0%E6%9C%AAlive%E5%B7%A1%E5%9B%9E%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=9&Refer=top)<br />
