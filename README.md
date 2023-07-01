@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 12:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 12:07:01</h4></div>
 
 > 微博  
 
@@ -28,9 +28,9 @@
 
 1. [百年大党永葆青春](https://www.baidu.com/s?wd=%E7%99%BE%E5%B9%B4%E5%A4%A7%E5%85%9A%E6%B0%B8%E8%91%86%E9%9D%92%E6%98%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [记者采访官员被反问多宣传好的不行吗](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E9%87%87%E8%AE%BF%E5%AE%98%E5%91%98%E8%A2%AB%E5%8F%8D%E9%97%AE%E5%A4%9A%E5%AE%A3%E4%BC%A0%E5%A5%BD%E7%9A%84%E4%B8%8D%E8%A1%8C%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [专家谈350亿氢能项目：侮辱智商](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E8%B0%88350%E4%BA%BF%E6%B0%A2%E8%83%BD%E9%A1%B9%E7%9B%AE%EF%BC%9A%E4%BE%AE%E8%BE%B1%E6%99%BA%E5%95%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [法国一辆载41名中国游客车辆被砸](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E4%B8%80%E8%BE%86%E8%BD%BD41%E5%90%8D%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E8%BD%A6%E8%BE%86%E8%A2%AB%E7%A0%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [数字里看亮点](https://www.baidu.com/s?wd=%E6%95%B0%E5%AD%97%E9%87%8C%E7%9C%8B%E4%BA%AE%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [法国一辆载41名中国游客车辆被砸](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E4%B8%80%E8%BE%86%E8%BD%BD41%E5%90%8D%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E8%BD%A6%E8%BE%86%E8%A2%AB%E7%A0%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [江西一家3小孩被杀害 凶手已被抓](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E4%B8%80%E5%AE%B63%E5%B0%8F%E5%AD%A9%E8%A2%AB%E6%9D%80%E5%AE%B3+%E5%87%B6%E6%89%8B%E5%B7%B2%E8%A2%AB%E6%8A%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [Angelababy 这是我结婚的地方](https://www.baidu.com/s?wd=Angelababy+%E8%BF%99%E6%98%AF%E6%88%91%E7%BB%93%E5%A9%9A%E7%9A%84%E5%9C%B0%E6%96%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [法国一夜间超2000辆车被烧成废铁](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E4%B8%80%E5%A4%9C%E9%97%B4%E8%B6%852000%E8%BE%86%E8%BD%A6%E8%A2%AB%E7%83%A7%E6%88%90%E5%BA%9F%E9%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [奔跑吧节目封面大写我太难了](https://www.baidu.com/s?wd=%E5%A5%94%E8%B7%91%E5%90%A7%E8%8A%82%E7%9B%AE%E5%B0%81%E9%9D%A2%E5%A4%A7%E5%86%99%E6%88%91%E5%A4%AA%E9%9A%BE%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -40,9 +40,9 @@
 
 1. [百年大党永葆青春](https://www.baidu.com/s?wd=%E7%99%BE%E5%B9%B4%E5%A4%A7%E5%85%9A%E6%B0%B8%E8%91%86%E9%9D%92%E6%98%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [记者采访官员被反问多宣传好的不行吗](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E9%87%87%E8%AE%BF%E5%AE%98%E5%91%98%E8%A2%AB%E5%8F%8D%E9%97%AE%E5%A4%9A%E5%AE%A3%E4%BC%A0%E5%A5%BD%E7%9A%84%E4%B8%8D%E8%A1%8C%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [专家谈350亿氢能项目：侮辱智商](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E8%B0%88350%E4%BA%BF%E6%B0%A2%E8%83%BD%E9%A1%B9%E7%9B%AE%EF%BC%9A%E4%BE%AE%E8%BE%B1%E6%99%BA%E5%95%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [法国一辆载41名中国游客车辆被砸](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E4%B8%80%E8%BE%86%E8%BD%BD41%E5%90%8D%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E8%BD%A6%E8%BE%86%E8%A2%AB%E7%A0%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [数字里看亮点](https://www.baidu.com/s?wd=%E6%95%B0%E5%AD%97%E9%87%8C%E7%9C%8B%E4%BA%AE%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [法国一辆载41名中国游客车辆被砸](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E4%B8%80%E8%BE%86%E8%BD%BD41%E5%90%8D%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E8%BD%A6%E8%BE%86%E8%A2%AB%E7%A0%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [江西一家3小孩被杀害 凶手已被抓](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E4%B8%80%E5%AE%B63%E5%B0%8F%E5%AD%A9%E8%A2%AB%E6%9D%80%E5%AE%B3+%E5%87%B6%E6%89%8B%E5%B7%B2%E8%A2%AB%E6%8A%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [Angelababy 这是我结婚的地方](https://www.baidu.com/s?wd=Angelababy+%E8%BF%99%E6%98%AF%E6%88%91%E7%BB%93%E5%A9%9A%E7%9A%84%E5%9C%B0%E6%96%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [法国一夜间超2000辆车被烧成废铁](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E4%B8%80%E5%A4%9C%E9%97%B4%E8%B6%852000%E8%BE%86%E8%BD%A6%E8%A2%AB%E7%83%A7%E6%88%90%E5%BA%9F%E9%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [奔跑吧节目封面大写我太难了](https://www.baidu.com/s?wd=%E5%A5%94%E8%B7%91%E5%90%A7%E8%8A%82%E7%9B%AE%E5%B0%81%E9%9D%A2%E5%A4%A7%E5%86%99%E6%88%91%E5%A4%AA%E9%9A%BE%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
