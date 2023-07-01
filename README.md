@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 04:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 04:48:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [法国骚乱已蔓延到邻国比利时](https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E9%AA%9A%E4%B9%B1%E5%B7%B2%E8%94%93%E5%BB%B6%E5%88%B0%E9%82%BB%E5%9B%BD%E6%AF%94%E5%88%A9%E6%97%B6%23&t=31&band_rank=6&Refer=top)<br />
 7. [ALin 金曲歌后](https://s.weibo.com/weibo?q=ALin%20%E9%87%91%E6%9B%B2%E6%AD%8C%E5%90%8E&t=31&band_rank=7&Refer=top)<br />
 8. [刘美含 北大](https://s.weibo.com/weibo?q=%E5%88%98%E7%BE%8E%E5%90%AB%20%E5%8C%97%E5%A4%A7&t=31&band_rank=8&Refer=top)<br />
-9. [胖东来老板劝网友卖房](https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E8%80%81%E6%9D%BF%E5%8A%9D%E7%BD%91%E5%8F%8B%E5%8D%96%E6%88%BF%23&t=31&band_rank=9&Refer=top)<br />
+9. [6大人争接萌娃放学姥爷赢麻了](https://s.weibo.com/weibo?q=%236%E5%A4%A7%E4%BA%BA%E4%BA%89%E6%8E%A5%E8%90%8C%E5%A8%83%E6%94%BE%E5%AD%A6%E5%A7%A5%E7%88%B7%E8%B5%A2%E9%BA%BB%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -21,8 +21,8 @@
 5. [目前我国经济复苏进程正处于哪一阶段？当前中国经济的复苏与以往的周期性复苏有什么差别？](https://www.zhihu.com/question/609606249)<br />
 6. []()<br />
 7. [亚马逊公司旗下 Kindle 中国电子书店停止运营，已启动退款程序，为何 Kindle 退出中国市场？](https://www.zhihu.com/question/609622371)<br />
-8. [想学习大语言模型 (LLM)，应该从哪个开源模型开始？](https://www.zhihu.com/question/608820310)<br />
-9. [儿子今年读初中，想看金庸的书，我该不该给他买？](https://www.zhihu.com/question/609342307)<br />
+8. [儿子今年读初中，想看金庸的书，我该不该给他买？](https://www.zhihu.com/question/609342307)<br />
+9. [如何看待 2023 年频繁的混乱天气？](https://www.zhihu.com/question/597012158)<br />
 
 > 百度  
 
