@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 07:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 07:08:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [ALin 金曲歌后](https://s.weibo.com/weibo?q=ALin%20%E9%87%91%E6%9B%B2%E6%AD%8C%E5%90%8E&t=31&band_rank=6&Refer=top)<br />
 7. [刘美含 北大](https://s.weibo.com/weibo?q=%E5%88%98%E7%BE%8E%E5%90%AB%20%E5%8C%97%E5%A4%A7&t=31&band_rank=7&Refer=top)<br />
 8. [推特崩了](https://s.weibo.com/weibo?q=%E6%8E%A8%E7%89%B9%E5%B4%A9%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [韩安冉 不要因为受伤就怕输](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%AE%89%E5%86%89%20%E4%B8%8D%E8%A6%81%E5%9B%A0%E4%B8%BA%E5%8F%97%E4%BC%A4%E5%B0%B1%E6%80%95%E8%BE%93&t=31&band_rank=9&Refer=top)<br />
+9. [法国骚乱已蔓延到邻国比利时](https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E9%AA%9A%E4%B9%B1%E5%B7%B2%E8%94%93%E5%BB%B6%E5%88%B0%E9%82%BB%E5%9B%BD%E6%AF%94%E5%88%A9%E6%97%B6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [目前我国经济复苏进程正处于哪一阶段？当前中国经济的复苏与以往的周期性复苏有什么差别？](https://www.zhihu.com/question/609606249)<br />
 7. [消息称小米印度正在进行大规模裁员，官方回应「根据市场和业务情况对员工数量进行规划」，哪些信息值得关注？](https://www.zhihu.com/question/609615935)<br />
 8. [亚马逊公司旗下 Kindle 中国电子书店停止运营，已启动退款程序，为何 Kindle 退出中国市场？](https://www.zhihu.com/question/609622371)<br />
-9. [如何看待 2023 年频繁的混乱天气？](https://www.zhihu.com/question/597012158)<br />
+9. [为什么「加」「恰」「霞」三个字的拼音分别是 jiā、 qià、 xiá，而不是 jā、 qà、 xá？](https://www.zhihu.com/question/609163323)<br />
 
 > 百度  
 
