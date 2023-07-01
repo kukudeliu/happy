@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 06:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 06:49:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [ALin陪跑5次首封金曲歌后](https://www.baidu.com/s?wd=ALin%E9%99%AA%E8%B7%915%E6%AC%A1%E9%A6%96%E5%B0%81%E9%87%91%E6%9B%B2%E6%AD%8C%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [义乌脸基尼卖爆了](https://www.baidu.com/s?wd=%E4%B9%89%E4%B9%8C%E8%84%B8%E5%9F%BA%E5%B0%BC%E5%8D%96%E7%88%86%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [胖东来老板劝网友卖房](https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E8%80%81%E6%9D%BF%E5%8A%9D%E7%BD%91%E5%8F%8B%E5%8D%96%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [孙女给生活不能自理爷爷洗澡引争议](https://www.baidu.com/s?wd=%E5%AD%99%E5%A5%B3%E7%BB%99%E7%94%9F%E6%B4%BB%E4%B8%8D%E8%83%BD%E8%87%AA%E7%90%86%E7%88%B7%E7%88%B7%E6%B4%97%E6%BE%A1%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女生用小喷雾器烫伤男生 高校回应](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E7%94%A8%E5%B0%8F%E5%96%B7%E9%9B%BE%E5%99%A8%E7%83%AB%E4%BC%A4%E7%94%B7%E7%94%9F+%E9%AB%98%E6%A0%A1%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [ALin陪跑5次首封金曲歌后](https://www.baidu.com/s?wd=ALin%E9%99%AA%E8%B7%915%E6%AC%A1%E9%A6%96%E5%B0%81%E9%87%91%E6%9B%B2%E6%AD%8C%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [义乌脸基尼卖爆了](https://www.baidu.com/s?wd=%E4%B9%89%E4%B9%8C%E8%84%B8%E5%9F%BA%E5%B0%BC%E5%8D%96%E7%88%86%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [胖东来老板劝网友卖房](https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E8%80%81%E6%9D%BF%E5%8A%9D%E7%BD%91%E5%8F%8B%E5%8D%96%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [孙女给生活不能自理爷爷洗澡引争议](https://www.baidu.com/s?wd=%E5%AD%99%E5%A5%B3%E7%BB%99%E7%94%9F%E6%B4%BB%E4%B8%8D%E8%83%BD%E8%87%AA%E7%90%86%E7%88%B7%E7%88%B7%E6%B4%97%E6%BE%A1%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女生用小喷雾器烫伤男生 高校回应](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E7%94%A8%E5%B0%8F%E5%96%B7%E9%9B%BE%E5%99%A8%E7%83%AB%E4%BC%A4%E7%94%B7%E7%94%9F+%E9%AB%98%E6%A0%A1%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
