@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 22:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 22:43:01</h4></div>
 
 > 微博  
 
@@ -31,10 +31,10 @@
 3. [国防科大回应近期网络传闻](https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E7%A7%91%E5%A4%A7%E5%9B%9E%E5%BA%94%E8%BF%91%E6%9C%9F%E7%BD%91%E7%BB%9C%E4%BC%A0%E9%97%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“港车北上”正式实施](https://www.baidu.com/s?wd=%E2%80%9C%E6%B8%AF%E8%BD%A6%E5%8C%97%E4%B8%8A%E2%80%9D%E6%AD%A3%E5%BC%8F%E5%AE%9E%E6%96%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [法国连日骚乱 马克龙推迟出访](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E8%BF%9E%E6%97%A5%E9%AA%9A%E4%B9%B1+%E9%A9%AC%E5%85%8B%E9%BE%99%E6%8E%A8%E8%BF%9F%E5%87%BA%E8%AE%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [国科大校长说着说着就哭了](https://www.baidu.com/s?wd=%E5%9B%BD%E7%A7%91%E5%A4%A7%E6%A0%A1%E9%95%BF%E8%AF%B4%E7%9D%80%E8%AF%B4%E7%9D%80%E5%B0%B1%E5%93%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [胖东来老板劝网友卖房](https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E8%80%81%E6%9D%BF%E5%8A%9D%E7%BD%91%E5%8F%8B%E5%8D%96%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [知情人:杀害女子“书法家”自缢身亡](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%3A%E6%9D%80%E5%AE%B3%E5%A5%B3%E5%AD%90%E2%80%9C%E4%B9%A6%E6%B3%95%E5%AE%B6%E2%80%9D%E8%87%AA%E7%BC%A2%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [三甲医院又现“塌方式”腐败](https://www.baidu.com/s?wd=%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2%E5%8F%88%E7%8E%B0%E2%80%9C%E5%A1%8C%E6%96%B9%E5%BC%8F%E2%80%9D%E8%85%90%E8%B4%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [因女儿考705分打折的凉菜摊关门](https://www.baidu.com/s?wd=%E5%9B%A0%E5%A5%B3%E5%84%BF%E8%80%83705%E5%88%86%E6%89%93%E6%8A%98%E7%9A%84%E5%87%89%E8%8F%9C%E6%91%8A%E5%85%B3%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [国科大校长说着说着就哭了](https://www.baidu.com/s?wd=%E5%9B%BD%E7%A7%91%E5%A4%A7%E6%A0%A1%E9%95%BF%E8%AF%B4%E7%9D%80%E8%AF%B4%E7%9D%80%E5%B0%B1%E5%93%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [胖东来老板劝网友卖房](https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E8%80%81%E6%9D%BF%E5%8A%9D%E7%BD%91%E5%8F%8B%E5%8D%96%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [知情人:杀害女子“书法家”自缢身亡](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%3A%E6%9D%80%E5%AE%B3%E5%A5%B3%E5%AD%90%E2%80%9C%E4%B9%A6%E6%B3%95%E5%AE%B6%E2%80%9D%E8%87%AA%E7%BC%A2%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [国防科大回应近期网络传闻](https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E7%A7%91%E5%A4%A7%E5%9B%9E%E5%BA%94%E8%BF%91%E6%9C%9F%E7%BD%91%E7%BB%9C%E4%BC%A0%E9%97%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“港车北上”正式实施](https://www.baidu.com/s?wd=%E2%80%9C%E6%B8%AF%E8%BD%A6%E5%8C%97%E4%B8%8A%E2%80%9D%E6%AD%A3%E5%BC%8F%E5%AE%9E%E6%96%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [法国连日骚乱 马克龙推迟出访](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E8%BF%9E%E6%97%A5%E9%AA%9A%E4%B9%B1+%E9%A9%AC%E5%85%8B%E9%BE%99%E6%8E%A8%E8%BF%9F%E5%87%BA%E8%AE%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [国科大校长说着说着就哭了](https://www.baidu.com/s?wd=%E5%9B%BD%E7%A7%91%E5%A4%A7%E6%A0%A1%E9%95%BF%E8%AF%B4%E7%9D%80%E8%AF%B4%E7%9D%80%E5%B0%B1%E5%93%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [胖东来老板劝网友卖房](https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E8%80%81%E6%9D%BF%E5%8A%9D%E7%BD%91%E5%8F%8B%E5%8D%96%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [知情人:杀害女子“书法家”自缢身亡](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%3A%E6%9D%80%E5%AE%B3%E5%A5%B3%E5%AD%90%E2%80%9C%E4%B9%A6%E6%B3%95%E5%AE%B6%E2%80%9D%E8%87%AA%E7%BC%A2%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [三甲医院又现“塌方式”腐败](https://www.baidu.com/s?wd=%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2%E5%8F%88%E7%8E%B0%E2%80%9C%E5%A1%8C%E6%96%B9%E5%BC%8F%E2%80%9D%E8%85%90%E8%B4%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [因女儿考705分打折的凉菜摊关门](https://www.baidu.com/s?wd=%E5%9B%A0%E5%A5%B3%E5%84%BF%E8%80%83705%E5%88%86%E6%89%93%E6%8A%98%E7%9A%84%E5%87%89%E8%8F%9C%E6%91%8A%E5%85%B3%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [国科大校长说着说着就哭了](https://www.baidu.com/s?wd=%E5%9B%BD%E7%A7%91%E5%A4%A7%E6%A0%A1%E9%95%BF%E8%AF%B4%E7%9D%80%E8%AF%B4%E7%9D%80%E5%B0%B1%E5%93%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [胖东来老板劝网友卖房](https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E8%80%81%E6%9D%BF%E5%8A%9D%E7%BD%91%E5%8F%8B%E5%8D%96%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [知情人:杀害女子“书法家”自缢身亡](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%3A%E6%9D%80%E5%AE%B3%E5%A5%B3%E5%AD%90%E2%80%9C%E4%B9%A6%E6%B3%95%E5%AE%B6%E2%80%9D%E8%87%AA%E7%BC%A2%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
