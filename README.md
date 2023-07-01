@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 04:49:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 04:50:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [能分享你手机里好看的天空吗？](https://www.zhihu.com/question/608827610)<br />
 5. [目前我国经济复苏进程正处于哪一阶段？当前中国经济的复苏与以往的周期性复苏有什么差别？](https://www.zhihu.com/question/609606249)<br />
 6. []()<br />
-7. [亚马逊公司旗下 Kindle 中国电子书店停止运营，已启动退款程序，为何 Kindle 退出中国市场？](https://www.zhihu.com/question/609622371)<br />
-8. [儿子今年读初中，想看金庸的书，我该不该给他买？](https://www.zhihu.com/question/609342307)<br />
-9. [如何看待 2023 年频繁的混乱天气？](https://www.zhihu.com/question/597012158)<br />
+7. [儿子今年读初中，想看金庸的书，我该不该给他买？](https://www.zhihu.com/question/609342307)<br />
+8. [如何看待 2023 年频繁的混乱天气？](https://www.zhihu.com/question/597012158)<br />
+9. [亚马逊公司旗下 Kindle 中国电子书店停止运营，已启动退款程序，为何 Kindle 退出中国市场？](https://www.zhihu.com/question/609622371)<br />
 
 > 百度  
 
