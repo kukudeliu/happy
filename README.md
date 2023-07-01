@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 05:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 05:57:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [为什么「加」「恰」「霞」三个字的拼音分别是 jiā、 qià、 xiá，而不是 jā、 qà、 xá？](https://www.zhihu.com/question/609163323)<br />
 7. [大家看完《消失的她》后有什么感受？](https://www.zhihu.com/question/609070712)<br />
 8. [亚马逊公司旗下 Kindle 中国电子书店停止运营，已启动退款程序，为何 Kindle 退出中国市场？](https://www.zhihu.com/question/609622371)<br />
-9. [如何评价《崩坏：星穹铁道》1.1 版本彦卿同行任务「霜刃一试」?](https://www.zhihu.com/question/609476391)<br />
+9. [如何看待吃自助餐先拿一盘蛋炒饭这种行为？](https://www.zhihu.com/question/440916537)<br />
 
 > 百度  
 
