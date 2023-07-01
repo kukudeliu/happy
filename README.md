@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 04:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 04:10:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [刘美含 北大](https://s.weibo.com/weibo?q=%E5%88%98%E7%BE%8E%E5%90%AB%20%E5%8C%97%E5%A4%A7&t=31&band_rank=6&Refer=top)<br />
 7. [ALin 金曲歌后](https://s.weibo.com/weibo?q=ALin%20%E9%87%91%E6%9B%B2%E6%AD%8C%E5%90%8E&t=31&band_rank=7&Refer=top)<br />
 8. [胖东来老板劝网友卖房](https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E8%80%81%E6%9D%BF%E5%8A%9D%E7%BD%91%E5%8F%8B%E5%8D%96%E6%88%BF%23&t=31&band_rank=8&Refer=top)<br />
-9. [女子去世7只猫继承217万遗产](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%8E%BB%E4%B8%967%E5%8F%AA%E7%8C%AB%E7%BB%A7%E6%89%BF217%E4%B8%87%E9%81%97%E4%BA%A7%23&t=31&band_rank=9&Refer=top)<br />
+9. [汪东城音乐节](https://s.weibo.com/weibo?q=%E6%B1%AA%E4%B8%9C%E5%9F%8E%E9%9F%B3%E4%B9%90%E8%8A%82&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
