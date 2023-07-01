@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 17:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 17:35:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [7月狗屎运最旺星座](https://s.weibo.com/weibo?q=%237%E6%9C%88%E7%8B%97%E5%B1%8E%E8%BF%90%E6%9C%80%E6%97%BA%E6%98%9F%E5%BA%A7%23&t=31&band_rank=6&Refer=top)<br />
 7. [何非的保证书是朱一龙写的](https://s.weibo.com/weibo?q=%23%E4%BD%95%E9%9D%9E%E7%9A%84%E4%BF%9D%E8%AF%81%E4%B9%A6%E6%98%AF%E6%9C%B1%E4%B8%80%E9%BE%99%E5%86%99%E7%9A%84%23&t=31&band_rank=7&Refer=top)<br />
 8. [法国](https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD&t=31&band_rank=8&Refer=top)<br />
-9. [娄艺潇自曝体重快120斤](https://s.weibo.com/weibo?q=%23%E5%A8%84%E8%89%BA%E6%BD%87%E8%87%AA%E6%9B%9D%E4%BD%93%E9%87%8D%E5%BF%AB120%E6%96%A4%23&t=31&band_rank=9&Refer=top)<br />
+9. [法国马赛最大图书馆被烧毁](https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E9%A9%AC%E8%B5%9B%E6%9C%80%E5%A4%A7%E5%9B%BE%E4%B9%A6%E9%A6%86%E8%A2%AB%E7%83%A7%E6%AF%81%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
