@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 00:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 00:11:01</h4></div>
 
 > 微博  
 
@@ -10,15 +10,15 @@
 6. [古巨基和老婆求婚的原因](https://s.weibo.com/weibo?q=%23%E5%8F%A4%E5%B7%A8%E5%9F%BA%E5%92%8C%E8%80%81%E5%A9%86%E6%B1%82%E5%A9%9A%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=6&Refer=top)<br />
 7. [白敬亭这真的是你吗](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E8%BF%99%E7%9C%9F%E7%9A%84%E6%98%AF%E4%BD%A0%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
 8. [花花接住谭爷爷给的小苹果](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%8A%B1%E6%8E%A5%E4%BD%8F%E8%B0%AD%E7%88%B7%E7%88%B7%E7%BB%99%E7%9A%84%E5%B0%8F%E8%8B%B9%E6%9E%9C%23&t=31&band_rank=8&Refer=top)<br />
-9. [谷爱凌大一课程全A](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E5%A4%A7%E4%B8%80%E8%AF%BE%E7%A8%8B%E5%85%A8A%23&t=31&band_rank=9&Refer=top)<br />
+9. [推特崩了](https://s.weibo.com/weibo?q=%E6%8E%A8%E7%89%B9%E5%B4%A9%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [读了 17 年高中的唐尚珺今年高考 594 分，并决定去读大学，如何评价唐尚珺「多年高考」的行为？](https://www.zhihu.com/question/609651139)<br />
 2. [2023 LPL 夏季赛 Uzi 招牌 VN 登场，EDG 2:1 击败 WE，如何评价这场比赛？](https://www.zhihu.com/question/609805906)<br />
 3. [儿子今年读初中，想看金庸的书，我该不该给他买？](https://www.zhihu.com/question/609342307)<br />
-4. [如何看待 2023 年频繁的混乱天气？](https://www.zhihu.com/question/597012158)<br />
-5. [2023 LPL 夏季赛 JDG 2:0 UP，如何评价这场比赛？](https://www.zhihu.com/question/609792660)<br />
+4. [2023 LPL 夏季赛 JDG 2:0 UP，如何评价这场比赛？](https://www.zhihu.com/question/609792660)<br />
+5. [如何看待 2023 年频繁的混乱天气？](https://www.zhihu.com/question/597012158)<br />
 6. [高考结束了，马上要步入大学校门了，有什么比较适合大学生的笔记本电脑？](https://www.zhihu.com/question/606656875)<br />
 7. [想学习大语言模型 (LLM)，应该从哪个开源模型开始？](https://www.zhihu.com/question/608820310)<br />
 8. [为什么「加」「恰」「霞」三个字的拼音分别是 jiā、 qià、 xiá，而不是 jā、 qà、 xá？](https://www.zhihu.com/question/609163323)<br />
