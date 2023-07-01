@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 21:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 21:35:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [消失的她票根还有隐藏刀](https://s.weibo.com/weibo?q=%23%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%A0%B9%E8%BF%98%E6%9C%89%E9%9A%90%E8%97%8F%E5%88%80%23&t=31&band_rank=4&Refer=top)<br />
 5. [金曲奖](https://s.weibo.com/weibo?q=%E9%87%91%E6%9B%B2%E5%A5%96&t=31&band_rank=5&Refer=top)<br />
 6. [消失的她](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9&t=31&band_rank=6&Refer=top)<br />
-7. [鸟胃型猪瘾](https://s.weibo.com/weibo?q=%E9%B8%9F%E8%83%83%E5%9E%8B%E7%8C%AA%E7%98%BE&t=31&band_rank=7&Refer=top)<br />
-8. [慷慨病](https://s.weibo.com/weibo?q=%E6%85%B7%E6%85%A8%E7%97%85&t=31&band_rank=8&Refer=top)<br />
-9. [法国骚乱已蔓延到邻国比利时](https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E9%AA%9A%E4%B9%B1%E5%B7%B2%E8%94%93%E5%BB%B6%E5%88%B0%E9%82%BB%E5%9B%BD%E6%AF%94%E5%88%A9%E6%97%B6%23&t=31&band_rank=9&Refer=top)<br />
+7. [慷慨病](https://s.weibo.com/weibo?q=%E6%85%B7%E6%85%A8%E7%97%85&t=31&band_rank=7&Refer=top)<br />
+8. [鸟胃型猪瘾](https://s.weibo.com/weibo?q=%E9%B8%9F%E8%83%83%E5%9E%8B%E7%8C%AA%E7%98%BE&t=31&band_rank=8&Refer=top)<br />
+9. [Uzi选出VN](https://s.weibo.com/weibo?q=%23Uzi%E9%80%89%E5%87%BAVN%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -21,8 +21,8 @@
 5. [「港车北上」政策正式实施，首辆香港单牌车驶入珠海，将带来哪些便利？有哪些意义？](https://www.zhihu.com/question/609774013)<br />
 6. [为什么「加」「恰」「霞」三个字的拼音分别是 jiā、 qià、 xiá，而不是 jā、 qà、 xá？](https://www.zhihu.com/question/609163323)<br />
 7. [亚马逊公司旗下 Kindle 中国电子书店停止运营，已启动退款程序，为何 Kindle 退出中国市场？](https://www.zhihu.com/question/609622371)<br />
-8. [消息称小米印度正在进行大规模裁员，官方回应「根据市场和业务情况对员工数量进行规划」，哪些信息值得关注？](https://www.zhihu.com/question/609615935)<br />
-9. [大家看完《消失的她》后有什么感受？](https://www.zhihu.com/question/609070712)<br />
+8. [大家看完《消失的她》后有什么感受？](https://www.zhihu.com/question/609070712)<br />
+9. [消息称小米印度正在进行大规模裁员，官方回应「根据市场和业务情况对员工数量进行规划」，哪些信息值得关注？](https://www.zhihu.com/question/609615935)<br />
 
 > 百度  
 
