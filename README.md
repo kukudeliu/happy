@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 04:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 04:11:01</h4></div>
 
 > 微博  
 
 1. [推特崩了](https://s.weibo.com/weibo?q=%E6%8E%A8%E7%89%B9%E5%B4%A9%E4%BA%86&t=31&band_rank=1&Refer=top)<br />
 2. [正式被确诊为浣碧](https://s.weibo.com/weibo?q=%23%E6%AD%A3%E5%BC%8F%E8%A2%AB%E7%A1%AE%E8%AF%8A%E4%B8%BA%E6%B5%A3%E7%A2%A7%23&t=31&band_rank=2&Refer=top)<br />
 3. [七一勋章获得者的事迹有多感人](https://s.weibo.com/weibo?q=%23%E4%B8%83%E4%B8%80%E5%8B%8B%E7%AB%A0%E8%8E%B7%E5%BE%97%E8%80%85%E7%9A%84%E4%BA%8B%E8%BF%B9%E6%9C%89%E5%A4%9A%E6%84%9F%E4%BA%BA%23&t=31&band_rank=3&Refer=top)<br />
-4. [恐怖程度约等于零的恐怖片](https://s.weibo.com/weibo?q=%E6%81%90%E6%80%96%E7%A8%8B%E5%BA%A6%E7%BA%A6%E7%AD%89%E4%BA%8E%E9%9B%B6%E7%9A%84%E6%81%90%E6%80%96%E7%89%87&t=31&band_rank=4&Refer=top)<br />
+4. [女子去世7只猫继承217万遗产](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%8E%BB%E4%B8%967%E5%8F%AA%E7%8C%AB%E7%BB%A7%E6%89%BF217%E4%B8%87%E9%81%97%E4%BA%A7%23&t=31&band_rank=4&Refer=top)<br />
 5. [法国骚乱已蔓延到邻国比利时](https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E9%AA%9A%E4%B9%B1%E5%B7%B2%E8%94%93%E5%BB%B6%E5%88%B0%E9%82%BB%E5%9B%BD%E6%AF%94%E5%88%A9%E6%97%B6%23&t=31&band_rank=5&Refer=top)<br />
-6. [刘美含 北大](https://s.weibo.com/weibo?q=%E5%88%98%E7%BE%8E%E5%90%AB%20%E5%8C%97%E5%A4%A7&t=31&band_rank=6&Refer=top)<br />
-7. [ALin 金曲歌后](https://s.weibo.com/weibo?q=ALin%20%E9%87%91%E6%9B%B2%E6%AD%8C%E5%90%8E&t=31&band_rank=7&Refer=top)<br />
-8. [胖东来老板劝网友卖房](https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E8%80%81%E6%9D%BF%E5%8A%9D%E7%BD%91%E5%8F%8B%E5%8D%96%E6%88%BF%23&t=31&band_rank=8&Refer=top)<br />
-9. [汪东城音乐节](https://s.weibo.com/weibo?q=%E6%B1%AA%E4%B8%9C%E5%9F%8E%E9%9F%B3%E4%B9%90%E8%8A%82&t=31&band_rank=9&Refer=top)<br />
+6. [恐怖程度约等于零的恐怖片](https://s.weibo.com/weibo?q=%E6%81%90%E6%80%96%E7%A8%8B%E5%BA%A6%E7%BA%A6%E7%AD%89%E4%BA%8E%E9%9B%B6%E7%9A%84%E6%81%90%E6%80%96%E7%89%87&t=31&band_rank=6&Refer=top)<br />
+7. [刘美含 北大](https://s.weibo.com/weibo?q=%E5%88%98%E7%BE%8E%E5%90%AB%20%E5%8C%97%E5%A4%A7&t=31&band_rank=7&Refer=top)<br />
+8. [ALin 金曲歌后](https://s.weibo.com/weibo?q=ALin%20%E9%87%91%E6%9B%B2%E6%AD%8C%E5%90%8E&t=31&band_rank=8&Refer=top)<br />
+9. [胖东来老板劝网友卖房](https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E8%80%81%E6%9D%BF%E5%8A%9D%E7%BD%91%E5%8F%8B%E5%8D%96%E6%88%BF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -21,8 +21,8 @@
 5. []()<br />
 6. [目前我国经济复苏进程正处于哪一阶段？当前中国经济的复苏与以往的周期性复苏有什么差别？](https://www.zhihu.com/question/609606249)<br />
 7. [如何评价《崩坏：星穹铁道》1.1 版本彦卿同行任务「霜刃一试」?](https://www.zhihu.com/question/609476391)<br />
-8. [2023 LPL 夏季赛 JDG 2:0 UP，如何评价这场比赛？](https://www.zhihu.com/question/609792660)<br />
-9. [亚马逊公司旗下 Kindle 中国电子书店停止运营，已启动退款程序，为何 Kindle 退出中国市场？](https://www.zhihu.com/question/609622371)<br />
+8. [亚马逊公司旗下 Kindle 中国电子书店停止运营，已启动退款程序，为何 Kindle 退出中国市场？](https://www.zhihu.com/question/609622371)<br />
+9. [高考结束了，马上要步入大学校门了，有什么比较适合大学生的笔记本电脑？](https://www.zhihu.com/question/606656875)<br />
 
 > 百度  
 
@@ -32,9 +32,9 @@
 4. [“港车北上”正式实施](https://www.baidu.com/s?wd=%E2%80%9C%E6%B8%AF%E8%BD%A6%E5%8C%97%E4%B8%8A%E2%80%9D%E6%AD%A3%E5%BC%8F%E5%AE%9E%E6%96%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [法国连日骚乱 马克龙推迟出访](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E8%BF%9E%E6%97%A5%E9%AA%9A%E4%B9%B1+%E9%A9%AC%E5%85%8B%E9%BE%99%E6%8E%A8%E8%BF%9F%E5%87%BA%E8%AE%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [ALin陪跑5次首封金曲歌后](https://www.baidu.com/s?wd=ALin%E9%99%AA%E8%B7%915%E6%AC%A1%E9%A6%96%E5%B0%81%E9%87%91%E6%9B%B2%E6%AD%8C%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [北控球员王少杰狂殴黑人球员](https://www.baidu.com/s?wd=%E5%8C%97%E6%8E%A7%E7%90%83%E5%91%98%E7%8E%8B%E5%B0%91%E6%9D%B0%E7%8B%82%E6%AE%B4%E9%BB%91%E4%BA%BA%E7%90%83%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [奔跑吧节目封面大写我太难了](https://www.baidu.com/s?wd=%E5%A5%94%E8%B7%91%E5%90%A7%E8%8A%82%E7%9B%AE%E5%B0%81%E9%9D%A2%E5%A4%A7%E5%86%99%E6%88%91%E5%A4%AA%E9%9A%BE%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [三甲医院又现“塌方式”腐败](https://www.baidu.com/s?wd=%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2%E5%8F%88%E7%8E%B0%E2%80%9C%E5%A1%8C%E6%96%B9%E5%BC%8F%E2%80%9D%E8%85%90%E8%B4%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [奔跑吧节目封面大写我太难了](https://www.baidu.com/s?wd=%E5%A5%94%E8%B7%91%E5%90%A7%E8%8A%82%E7%9B%AE%E5%B0%81%E9%9D%A2%E5%A4%A7%E5%86%99%E6%88%91%E5%A4%AA%E9%9A%BE%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [北控球员王少杰狂殴黑人球员](https://www.baidu.com/s?wd=%E5%8C%97%E6%8E%A7%E7%90%83%E5%91%98%E7%8E%8B%E5%B0%91%E6%9D%B0%E7%8B%82%E6%AE%B4%E9%BB%91%E4%BA%BA%E7%90%83%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [14岁女孩500元卖头发被商贩剪坏](https://www.baidu.com/s?wd=14%E5%B2%81%E5%A5%B3%E5%AD%A9500%E5%85%83%E5%8D%96%E5%A4%B4%E5%8F%91%E8%A2%AB%E5%95%86%E8%B4%A9%E5%89%AA%E5%9D%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [“港车北上”正式实施](https://www.baidu.com/s?wd=%E2%80%9C%E6%B8%AF%E8%BD%A6%E5%8C%97%E4%B8%8A%E2%80%9D%E6%AD%A3%E5%BC%8F%E5%AE%9E%E6%96%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [法国连日骚乱 马克龙推迟出访](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E8%BF%9E%E6%97%A5%E9%AA%9A%E4%B9%B1+%E9%A9%AC%E5%85%8B%E9%BE%99%E6%8E%A8%E8%BF%9F%E5%87%BA%E8%AE%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [ALin陪跑5次首封金曲歌后](https://www.baidu.com/s?wd=ALin%E9%99%AA%E8%B7%915%E6%AC%A1%E9%A6%96%E5%B0%81%E9%87%91%E6%9B%B2%E6%AD%8C%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [北控球员王少杰狂殴黑人球员](https://www.baidu.com/s?wd=%E5%8C%97%E6%8E%A7%E7%90%83%E5%91%98%E7%8E%8B%E5%B0%91%E6%9D%B0%E7%8B%82%E6%AE%B4%E9%BB%91%E4%BA%BA%E7%90%83%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [奔跑吧节目封面大写我太难了](https://www.baidu.com/s?wd=%E5%A5%94%E8%B7%91%E5%90%A7%E8%8A%82%E7%9B%AE%E5%B0%81%E9%9D%A2%E5%A4%A7%E5%86%99%E6%88%91%E5%A4%AA%E9%9A%BE%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [三甲医院又现“塌方式”腐败](https://www.baidu.com/s?wd=%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2%E5%8F%88%E7%8E%B0%E2%80%9C%E5%A1%8C%E6%96%B9%E5%BC%8F%E2%80%9D%E8%85%90%E8%B4%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [奔跑吧节目封面大写我太难了](https://www.baidu.com/s?wd=%E5%A5%94%E8%B7%91%E5%90%A7%E8%8A%82%E7%9B%AE%E5%B0%81%E9%9D%A2%E5%A4%A7%E5%86%99%E6%88%91%E5%A4%AA%E9%9A%BE%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [北控球员王少杰狂殴黑人球员](https://www.baidu.com/s?wd=%E5%8C%97%E6%8E%A7%E7%90%83%E5%91%98%E7%8E%8B%E5%B0%91%E6%9D%B0%E7%8B%82%E6%AE%B4%E9%BB%91%E4%BA%BA%E7%90%83%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [14岁女孩500元卖头发被商贩剪坏](https://www.baidu.com/s?wd=14%E5%B2%81%E5%A5%B3%E5%AD%A9500%E5%85%83%E5%8D%96%E5%A4%B4%E5%8F%91%E8%A2%AB%E5%95%86%E8%B4%A9%E5%89%AA%E5%9D%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
