@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 14:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 14:15:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [公司回应保洁弄脏乘客衣服下跪道歉](https://www.baidu.com/s?wd=%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94%E4%BF%9D%E6%B4%81%E5%BC%84%E8%84%8F%E4%B9%98%E5%AE%A2%E8%A1%A3%E6%9C%8D%E4%B8%8B%E8%B7%AA%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [江西贵溪一化工厂发生爆炸](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E8%B4%B5%E6%BA%AA%E4%B8%80%E5%8C%96%E5%B7%A5%E5%8E%82%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [顾客吃肯德基发现鸡腿冒血水](https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E5%90%83%E8%82%AF%E5%BE%B7%E5%9F%BA%E5%8F%91%E7%8E%B0%E9%B8%A1%E8%85%BF%E5%86%92%E8%A1%80%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子颈部插切割机警车狂飙10分钟](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%A2%88%E9%83%A8%E6%8F%92%E5%88%87%E5%89%B2%E6%9C%BA%E8%AD%A6%E8%BD%A6%E7%8B%82%E9%A3%9910%E5%88%86%E9%92%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子街边吸烟被陌生女子扔水瓶](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A1%97%E8%BE%B9%E5%90%B8%E7%83%9F%E8%A2%AB%E9%99%8C%E7%94%9F%E5%A5%B3%E5%AD%90%E6%89%94%E6%B0%B4%E7%93%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [公司回应保洁弄脏乘客衣服下跪道歉](https://www.baidu.com/s?wd=%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94%E4%BF%9D%E6%B4%81%E5%BC%84%E8%84%8F%E4%B9%98%E5%AE%A2%E8%A1%A3%E6%9C%8D%E4%B8%8B%E8%B7%AA%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [江西贵溪一化工厂发生爆炸](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E8%B4%B5%E6%BA%AA%E4%B8%80%E5%8C%96%E5%B7%A5%E5%8E%82%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [顾客吃肯德基发现鸡腿冒血水](https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E5%90%83%E8%82%AF%E5%BE%B7%E5%9F%BA%E5%8F%91%E7%8E%B0%E9%B8%A1%E8%85%BF%E5%86%92%E8%A1%80%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子颈部插切割机警车狂飙10分钟](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%A2%88%E9%83%A8%E6%8F%92%E5%88%87%E5%89%B2%E6%9C%BA%E8%AD%A6%E8%BD%A6%E7%8B%82%E9%A3%9910%E5%88%86%E9%92%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子街边吸烟被陌生女子扔水瓶](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A1%97%E8%BE%B9%E5%90%B8%E7%83%9F%E8%A2%AB%E9%99%8C%E7%94%9F%E5%A5%B3%E5%AD%90%E6%89%94%E6%B0%B4%E7%93%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
