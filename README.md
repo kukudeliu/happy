@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 10:45:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 10:46:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [高考657分想重新复读一年](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83657%E5%88%86%E6%83%B3%E9%87%8D%E6%96%B0%E5%A4%8D%E8%AF%BB%E4%B8%80%E5%B9%B4%23&t=31&band_rank=5&Refer=top)<br />
 6. [刘令姿版小兰花有父母了](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BB%A4%E5%A7%BF%E7%89%88%E5%B0%8F%E5%85%B0%E8%8A%B1%E6%9C%89%E7%88%B6%E6%AF%8D%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [法国骚乱](https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD%E9%AA%9A%E4%B9%B1&t=31&band_rank=7&Refer=top)<br />
-8. [三十岁女生给二十岁女生的建议](https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%8D%81%E5%B2%81%E5%A5%B3%E7%94%9F%E7%BB%99%E4%BA%8C%E5%8D%81%E5%B2%81%E5%A5%B3%E7%94%9F%E7%9A%84%E5%BB%BA%E8%AE%AE%23&t=31&band_rank=8&Refer=top)<br />
-9. [韩素希担任田柾国MV主演](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%B4%A0%E5%B8%8C%E6%8B%85%E4%BB%BB%E7%94%B0%E6%9F%BE%E5%9B%BDMV%E4%B8%BB%E6%BC%94%23&t=31&band_rank=9&Refer=top)<br />
+8. [韩素希担任田柾国MV主演](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%B4%A0%E5%B8%8C%E6%8B%85%E4%BB%BB%E7%94%B0%E6%9F%BE%E5%9B%BDMV%E4%B8%BB%E6%BC%94%23&t=31&band_rank=8&Refer=top)<br />
+9. [三十岁女生给二十岁女生的建议](https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%8D%81%E5%B2%81%E5%A5%B3%E7%94%9F%E7%BB%99%E4%BA%8C%E5%8D%81%E5%B2%81%E5%A5%B3%E7%94%9F%E7%9A%84%E5%BB%BA%E8%AE%AE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
