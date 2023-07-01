@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 16:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-01 16:35:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [江西一化工厂爆炸](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E4%B8%80%E5%8C%96%E5%B7%A5%E5%8E%82%E7%88%86%E7%82%B8%23&t=31&band_rank=6&Refer=top)<br />
 7. [何非的保证书是朱一龙写的](https://s.weibo.com/weibo?q=%23%E4%BD%95%E9%9D%9E%E7%9A%84%E4%BF%9D%E8%AF%81%E4%B9%A6%E6%98%AF%E6%9C%B1%E4%B8%80%E9%BE%99%E5%86%99%E7%9A%84%23&t=31&band_rank=7&Refer=top)<br />
 8. [宋轶骂得我心都化了](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%BD%B6%E9%AA%82%E5%BE%97%E6%88%91%E5%BF%83%E9%83%BD%E5%8C%96%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [香港回归这一刻再看依然心潮澎湃](https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%9B%9E%E5%BD%92%E8%BF%99%E4%B8%80%E5%88%BB%E5%86%8D%E7%9C%8B%E4%BE%9D%E7%84%B6%E5%BF%83%E6%BD%AE%E6%BE%8E%E6%B9%83%23&t=31&band_rank=9&Refer=top)<br />
+9. [夏目友人帐](https://s.weibo.com/weibo?q=%E5%A4%8F%E7%9B%AE%E5%8F%8B%E4%BA%BA%E5%B8%90&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
