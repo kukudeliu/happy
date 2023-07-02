@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 13:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 13:33:01</h4></div>
 
 > 微博  
 
@@ -19,10 +19,10 @@
 3. [阿根廷计划用人民币支付 IMF 到期外债，如何看待此事？释放了什么信号？](https://www.zhihu.com/question/609598786)<br />
 4. [巴黎奥运会一施工现场遭破坏，马赛最大图书馆被烧，马克龙推迟对德访问，法国多地骚乱，背后深层原因有哪些?](https://www.zhihu.com/question/609892911)<br />
 5. [离职当天，HR 说要启动竞业协议，但是已经接了竞对的 offer（上个月离职的都没启动），可以规避吗？](https://www.zhihu.com/question/605648138)<br />
-6. [如何看待中科大 QS2024 排名跌出 top100 排第 138？](https://www.zhihu.com/question/609135032)<br />
-7. [潘功胜任中国人民银行党委书记，郭树清不再担任，哪些信息值得关注？](https://www.zhihu.com/question/609794310)<br />
+6. [潘功胜任中国人民银行党委书记，郭树清不再担任，哪些信息值得关注？](https://www.zhihu.com/question/609794310)<br />
+7. [如何看待中科大 QS2024 排名跌出 top100 排第 138？](https://www.zhihu.com/question/609135032)<br />
 8. [如何看待小鹏 G6 上市价格 20.99 万起？](https://www.zhihu.com/question/609476325)<br />
-9. [《流浪地球 2》中没抽到签的人怎么办？](https://www.zhihu.com/question/580053079)<br />
+9. [网传医院拒绝剖腹产致婴儿死亡，亲属称「妹妹曾 4 次要求剖腹产」，内江卫健委称「正处理」，如何看待？](https://www.zhihu.com/question/609391116)<br />
 
 > 百度  
 
