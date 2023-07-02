@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 08:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 08:30:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [今天是平分2023年的一天](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%B9%B3%E5%88%862023%E5%B9%B4%E7%9A%84%E4%B8%80%E5%A4%A9%23&t=31&band_rank=6&Refer=top)<br />
 7. [刘美含 北大](https://s.weibo.com/weibo?q=%E5%88%98%E7%BE%8E%E5%90%AB%20%E5%8C%97%E5%A4%A7&t=31&band_rank=7&Refer=top)<br />
 8. [6大人争接萌娃放学姥爷赢麻了](https://s.weibo.com/weibo?q=%236%E5%A4%A7%E4%BA%BA%E4%BA%89%E6%8E%A5%E8%90%8C%E5%A8%83%E6%94%BE%E5%AD%A6%E5%A7%A5%E7%88%B7%E8%B5%A2%E9%BA%BB%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [ALin 金曲歌后](https://s.weibo.com/weibo?q=ALin%20%E9%87%91%E6%9B%B2%E6%AD%8C%E5%90%8E&t=31&band_rank=9&Refer=top)<br />
+9. [白敬亭这真的是你吗](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E8%BF%99%E7%9C%9F%E7%9A%84%E6%98%AF%E4%BD%A0%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [读了 17 年高中的唐尚珺今年高考 594 分，并决定去读大学，如何评价唐尚珺「多年高考」的行为？](https://www.zhihu.com/question/609651139)<br />
 7. [如何看待吃自助餐先拿一盘蛋炒饭这种行为？](https://www.zhihu.com/question/440916537)<br />
 8. [为什么「加」「恰」「霞」三个字的拼音分别是 jiā、 qià、 xiá，而不是 jā、 qà、 xá？](https://www.zhihu.com/question/609163323)<br />
-9. [消息称小米印度正在进行大规模裁员，官方回应「根据市场和业务情况对员工数量进行规划」，哪些信息值得关注？](https://www.zhihu.com/question/609615935)<br />
+9. [大家看完《消失的她》后有什么感受？](https://www.zhihu.com/question/609070712)<br />
 
 > 百度  
 
