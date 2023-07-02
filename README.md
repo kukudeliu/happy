@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 00:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 00:19:01</h4></div>
 
 > 微博  
 
@@ -32,8 +32,8 @@
 4. [殷殷挂念暖香江](https://www.baidu.com/s?wd=%E6%AE%B7%E6%AE%B7%E6%8C%82%E5%BF%B5%E6%9A%96%E9%A6%99%E6%B1%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [成都一草坪惊现上百条“蚊卷风”](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E4%B8%80%E8%8D%89%E5%9D%AA%E6%83%8A%E7%8E%B0%E4%B8%8A%E7%99%BE%E6%9D%A1%E2%80%9C%E8%9A%8A%E5%8D%B7%E9%A3%8E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [官方通报男孩被3人逼迫吃粪便](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%A9%E8%A2%AB3%E4%BA%BA%E9%80%BC%E8%BF%AB%E5%90%83%E7%B2%AA%E4%BE%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [小S拖家带口现身厦门酒店](https://www.baidu.com/s?wd=%E5%B0%8FS%E6%8B%96%E5%AE%B6%E5%B8%A6%E5%8F%A3%E7%8E%B0%E8%BA%AB%E5%8E%A6%E9%97%A8%E9%85%92%E5%BA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [白敬亭小号改名白敬亭94玩儿](https://www.baidu.com/s?wd=%E7%99%BD%E6%95%AC%E4%BA%AD%E5%B0%8F%E5%8F%B7%E6%94%B9%E5%90%8D%E7%99%BD%E6%95%AC%E4%BA%AD94%E7%8E%A9%E5%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [媒体：蔡徐坤事件不能总靠爆料来挖](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E8%94%A1%E5%BE%90%E5%9D%A4%E4%BA%8B%E4%BB%B6%E4%B8%8D%E8%83%BD%E6%80%BB%E9%9D%A0%E7%88%86%E6%96%99%E6%9D%A5%E6%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [餐馆举办大胃王比赛被立案调查](https://www.baidu.com/s?wd=%E9%A4%90%E9%A6%86%E4%B8%BE%E5%8A%9E%E5%A4%A7%E8%83%83%E7%8E%8B%E6%AF%94%E8%B5%9B%E8%A2%AB%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [大鹏全麻前最后一瞬遭遇暴击](https://www.baidu.com/s?wd=%E5%A4%A7%E9%B9%8F%E5%85%A8%E9%BA%BB%E5%89%8D%E6%9C%80%E5%90%8E%E4%B8%80%E7%9E%AC%E9%81%AD%E9%81%87%E6%9A%B4%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -44,6 +44,6 @@
 4. [殷殷挂念暖香江](https://www.baidu.com/s?wd=%E6%AE%B7%E6%AE%B7%E6%8C%82%E5%BF%B5%E6%9A%96%E9%A6%99%E6%B1%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [成都一草坪惊现上百条“蚊卷风”](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E4%B8%80%E8%8D%89%E5%9D%AA%E6%83%8A%E7%8E%B0%E4%B8%8A%E7%99%BE%E6%9D%A1%E2%80%9C%E8%9A%8A%E5%8D%B7%E9%A3%8E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [官方通报男孩被3人逼迫吃粪便](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%A9%E8%A2%AB3%E4%BA%BA%E9%80%BC%E8%BF%AB%E5%90%83%E7%B2%AA%E4%BE%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [小S拖家带口现身厦门酒店](https://www.baidu.com/s?wd=%E5%B0%8FS%E6%8B%96%E5%AE%B6%E5%B8%A6%E5%8F%A3%E7%8E%B0%E8%BA%AB%E5%8E%A6%E9%97%A8%E9%85%92%E5%BA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [白敬亭小号改名白敬亭94玩儿](https://www.baidu.com/s?wd=%E7%99%BD%E6%95%AC%E4%BA%AD%E5%B0%8F%E5%8F%B7%E6%94%B9%E5%90%8D%E7%99%BD%E6%95%AC%E4%BA%AD94%E7%8E%A9%E5%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [媒体：蔡徐坤事件不能总靠爆料来挖](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E8%94%A1%E5%BE%90%E5%9D%A4%E4%BA%8B%E4%BB%B6%E4%B8%8D%E8%83%BD%E6%80%BB%E9%9D%A0%E7%88%86%E6%96%99%E6%9D%A5%E6%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [餐馆举办大胃王比赛被立案调查](https://www.baidu.com/s?wd=%E9%A4%90%E9%A6%86%E4%B8%BE%E5%8A%9E%E5%A4%A7%E8%83%83%E7%8E%8B%E6%AF%94%E8%B5%9B%E8%A2%AB%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [大鹏全麻前最后一瞬遭遇暴击](https://www.baidu.com/s?wd=%E5%A4%A7%E9%B9%8F%E5%85%A8%E9%BA%BB%E5%89%8D%E6%9C%80%E5%90%8E%E4%B8%80%E7%9E%AC%E9%81%AD%E9%81%87%E6%9A%B4%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
