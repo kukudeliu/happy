@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 11:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 11:48:01</h4></div>
 
 > 微博  
 
 1. [杨洋王楚然我的人间烟火新预告](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B4%8B%E7%8E%8B%E6%A5%9A%E7%84%B6%E6%88%91%E7%9A%84%E4%BA%BA%E9%97%B4%E7%83%9F%E7%81%AB%E6%96%B0%E9%A2%84%E5%91%8A%23&t=31&band_rank=1&Refer=top)<br />
-2. [正式被确诊为浣碧](https://s.weibo.com/weibo?q=%23%E6%AD%A3%E5%BC%8F%E8%A2%AB%E7%A1%AE%E8%AF%8A%E4%B8%BA%E6%B5%A3%E7%A2%A7%23&t=31&band_rank=2&Refer=top)<br />
+2. [终于知道我头发油的原因了](https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E6%88%91%E5%A4%B4%E5%8F%91%E6%B2%B9%E7%9A%84%E5%8E%9F%E5%9B%A0%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [青藏铁路开启动车时代](https://s.weibo.com/weibo?q=%23%E9%9D%92%E8%97%8F%E9%93%81%E8%B7%AF%E5%BC%80%E5%90%AF%E5%8A%A8%E8%BD%A6%E6%97%B6%E4%BB%A3%23&t=31&band_rank=3&Refer=top)<br />
-4. [在飞机上偶遇三只狗狗](https://s.weibo.com/weibo?q=%E5%9C%A8%E9%A3%9E%E6%9C%BA%E4%B8%8A%E5%81%B6%E9%81%87%E4%B8%89%E5%8F%AA%E7%8B%97%E7%8B%97&t=31&band_rank=4&Refer=top)<br />
-5. [终于知道我头发油的原因了](https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E6%88%91%E5%A4%B4%E5%8F%91%E6%B2%B9%E7%9A%84%E5%8E%9F%E5%9B%A0%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
-6. [人大回应网传学生个人信息被泄露](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E5%A4%A7%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E5%AD%A6%E7%94%9F%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E8%A2%AB%E6%B3%84%E9%9C%B2%23&t=31&band_rank=6&Refer=top)<br />
+4. [正式被确诊为浣碧](https://s.weibo.com/weibo?q=%23%E6%AD%A3%E5%BC%8F%E8%A2%AB%E7%A1%AE%E8%AF%8A%E4%B8%BA%E6%B5%A3%E7%A2%A7%23&t=31&band_rank=4&Refer=top)<br />
+5. [人大回应网传学生个人信息被泄露](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E5%A4%A7%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E5%AD%A6%E7%94%9F%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E8%A2%AB%E6%B3%84%E9%9C%B2%23&t=31&band_rank=5&Refer=top)<br />
+6. [在飞机上偶遇三只狗狗](https://s.weibo.com/weibo?q=%E5%9C%A8%E9%A3%9E%E6%9C%BA%E4%B8%8A%E5%81%B6%E9%81%87%E4%B8%89%E5%8F%AA%E7%8B%97%E7%8B%97&t=31&band_rank=6&Refer=top)<br />
 7. [尘缘定档今晚](https://s.weibo.com/weibo?q=%23%E5%B0%98%E7%BC%98%E5%AE%9A%E6%A1%A3%E4%BB%8A%E6%99%9A%23&t=31&band_rank=7&Refer=top)<br />
-8. [嘉兴女会计转光同事卡里的钱反而被感谢](https://s.weibo.com/weibo?q=%23%E5%98%89%E5%85%B4%E5%A5%B3%E4%BC%9A%E8%AE%A1%E8%BD%AC%E5%85%89%E5%90%8C%E4%BA%8B%E5%8D%A1%E9%87%8C%E7%9A%84%E9%92%B1%E5%8F%8D%E8%80%8C%E8%A2%AB%E6%84%9F%E8%B0%A2%23&t=31&band_rank=8&Refer=top)<br />
-9. [朱一龙20亿票房男主](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%9920%E4%BA%BF%E7%A5%A8%E6%88%BF%E7%94%B7%E4%B8%BB%23&t=31&band_rank=9&Refer=top)<br />
+8. [朱一龙20亿票房男主](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%9920%E4%BA%BF%E7%A5%A8%E6%88%BF%E7%94%B7%E4%B8%BB%23&t=31&band_rank=8&Refer=top)<br />
+9. [嘉兴女会计转光同事卡里的钱反而被感谢](https://s.weibo.com/weibo?q=%23%E5%98%89%E5%85%B4%E5%A5%B3%E4%BC%9A%E8%AE%A1%E8%BD%AC%E5%85%89%E5%90%8C%E4%BA%8B%E5%8D%A1%E9%87%8C%E7%9A%84%E9%92%B1%E5%8F%8D%E8%80%8C%E8%A2%AB%E6%84%9F%E8%B0%A2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [荷兰宣布将半导体相关产品纳入出口管制，商务部「表示坚决反对」，哪些信息值得关注？](https://www.zhihu.com/question/609805120)<br />
 7. [离职当天，HR 说要启动竞业协议，但是已经接了竞对的 offer（上个月离职的都没启动），可以规避吗？](https://www.zhihu.com/question/605648138)<br />
 8. []()<br />
-9. [四十岁了一事无成，还该努力吗？](https://www.zhihu.com/question/609058839)<br />
+9. [如何看待小鹏 G6 上市价格 20.99 万起？](https://www.zhihu.com/question/609476325)<br />
 
 > 百度  
 
