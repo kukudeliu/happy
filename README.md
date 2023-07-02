@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 21:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 21:20:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [米哈游的「全球同步运营能力」是否是讨论米哈游成功时最被忽略的一个点？](https://www.zhihu.com/question/607506484)<br />
 7. [如何正确腌咸鸡蛋？](https://www.zhihu.com/question/63499356)<br />
 8. [进大公司看学历还是看能力?](https://www.zhihu.com/question/608164942)<br />
-9. []()<br />
+9. [36 岁法布雷加斯宣布退役，将执教意乙科莫 U19 梯队，如何评价他的职业生涯？](https://www.zhihu.com/question/609897494)<br />
 
 > 百度  
 
