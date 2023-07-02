@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 02:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 02:59:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [北京广告协会发文「对歌手蔡某某做好风险把控」，如何看待此事？后续进展如何？](https://www.zhihu.com/question/609892459)<br />
 7. [法国警察射杀少年引骚乱，汽车被烧、数十警察受伤，目前事件调查进展如何？](https://www.zhihu.com/question/609226125)<br />
 8. []()<br />
-9. []()<br />
+9. [宝钗为什么一直劝宝玉读书？](https://www.zhihu.com/question/608638962)<br />
 
 > 百度  
 
@@ -33,8 +33,8 @@
 5. [成都一草坪惊现上百条“蚊卷风”](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E4%B8%80%E8%8D%89%E5%9D%AA%E6%83%8A%E7%8E%B0%E4%B8%8A%E7%99%BE%E6%9D%A1%E2%80%9C%E8%9A%8A%E5%8D%B7%E9%A3%8E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大鹏全麻前最后一瞬遭遇暴击](https://www.baidu.com/s?wd=%E5%A4%A7%E9%B9%8F%E5%85%A8%E9%BA%BB%E5%89%8D%E6%9C%80%E5%90%8E%E4%B8%80%E7%9E%AC%E9%81%AD%E9%81%87%E6%9A%B4%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [2米长蛇闯进公司大厅吓跑员工](https://www.baidu.com/s?wd=2%E7%B1%B3%E9%95%BF%E8%9B%87%E9%97%AF%E8%BF%9B%E5%85%AC%E5%8F%B8%E5%A4%A7%E5%8E%85%E5%90%93%E8%B7%91%E5%91%98%E5%B7%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [小S拖家带口现身厦门酒店](https://www.baidu.com/s?wd=%E5%B0%8FS%E6%8B%96%E5%AE%B6%E5%B8%A6%E5%8F%A3%E7%8E%B0%E8%BA%AB%E5%8E%A6%E9%97%A8%E9%85%92%E5%BA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [“执法犬队”事件系10岁熊孩子所为](https://www.baidu.com/s?wd=%E2%80%9C%E6%89%A7%E6%B3%95%E7%8A%AC%E9%98%9F%E2%80%9D%E4%BA%8B%E4%BB%B6%E7%B3%BB10%E5%B2%81%E7%86%8A%E5%AD%A9%E5%AD%90%E6%89%80%E4%B8%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [“执法犬队”事件系10岁熊孩子所为](https://www.baidu.com/s?wd=%E2%80%9C%E6%89%A7%E6%B3%95%E7%8A%AC%E9%98%9F%E2%80%9D%E4%BA%8B%E4%BB%B6%E7%B3%BB10%E5%B2%81%E7%86%8A%E5%AD%A9%E5%AD%90%E6%89%80%E4%B8%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [小S拖家带口现身厦门酒店](https://www.baidu.com/s?wd=%E5%B0%8FS%E6%8B%96%E5%AE%B6%E5%B8%A6%E5%8F%A3%E7%8E%B0%E8%BA%AB%E5%8E%A6%E9%97%A8%E9%85%92%E5%BA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [成都一草坪惊现上百条“蚊卷风”](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E4%B8%80%E8%8D%89%E5%9D%AA%E6%83%8A%E7%8E%B0%E4%B8%8A%E7%99%BE%E6%9D%A1%E2%80%9C%E8%9A%8A%E5%8D%B7%E9%A3%8E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大鹏全麻前最后一瞬遭遇暴击](https://www.baidu.com/s?wd=%E5%A4%A7%E9%B9%8F%E5%85%A8%E9%BA%BB%E5%89%8D%E6%9C%80%E5%90%8E%E4%B8%80%E7%9E%AC%E9%81%AD%E9%81%87%E6%9A%B4%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [2米长蛇闯进公司大厅吓跑员工](https://www.baidu.com/s?wd=2%E7%B1%B3%E9%95%BF%E8%9B%87%E9%97%AF%E8%BF%9B%E5%85%AC%E5%8F%B8%E5%A4%A7%E5%8E%85%E5%90%93%E8%B7%91%E5%91%98%E5%B7%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [小S拖家带口现身厦门酒店](https://www.baidu.com/s?wd=%E5%B0%8FS%E6%8B%96%E5%AE%B6%E5%B8%A6%E5%8F%A3%E7%8E%B0%E8%BA%AB%E5%8E%A6%E9%97%A8%E9%85%92%E5%BA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [“执法犬队”事件系10岁熊孩子所为](https://www.baidu.com/s?wd=%E2%80%9C%E6%89%A7%E6%B3%95%E7%8A%AC%E9%98%9F%E2%80%9D%E4%BA%8B%E4%BB%B6%E7%B3%BB10%E5%B2%81%E7%86%8A%E5%AD%A9%E5%AD%90%E6%89%80%E4%B8%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [“执法犬队”事件系10岁熊孩子所为](https://www.baidu.com/s?wd=%E2%80%9C%E6%89%A7%E6%B3%95%E7%8A%AC%E9%98%9F%E2%80%9D%E4%BA%8B%E4%BB%B6%E7%B3%BB10%E5%B2%81%E7%86%8A%E5%AD%A9%E5%AD%90%E6%89%80%E4%B8%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [小S拖家带口现身厦门酒店](https://www.baidu.com/s?wd=%E5%B0%8FS%E6%8B%96%E5%AE%B6%E5%B8%A6%E5%8F%A3%E7%8E%B0%E8%BA%AB%E5%8E%A6%E9%97%A8%E9%85%92%E5%BA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
