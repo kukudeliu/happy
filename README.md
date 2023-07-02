@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 12:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 12:52:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [青藏铁路开启动车时代](https://s.weibo.com/weibo?q=%23%E9%9D%92%E8%97%8F%E9%93%81%E8%B7%AF%E5%BC%80%E5%90%AF%E5%8A%A8%E8%BD%A6%E6%97%B6%E4%BB%A3%23&t=31&band_rank=3&Refer=top)<br />
 4. [倪妮能够出演陈麦的原因](https://s.weibo.com/weibo?q=%23%E5%80%AA%E5%A6%AE%E8%83%BD%E5%A4%9F%E5%87%BA%E6%BC%94%E9%99%88%E9%BA%A6%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=4&Refer=top)<br />
 5. [终于知道我头发油的原因了](https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E6%88%91%E5%A4%B4%E5%8F%91%E6%B2%B9%E7%9A%84%E5%8E%9F%E5%9B%A0%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
-6. [法国警察射杀17岁少年引起骚乱](https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E8%AD%A6%E5%AF%9F%E5%B0%84%E6%9D%8017%E5%B2%81%E5%B0%91%E5%B9%B4%E5%BC%95%E8%B5%B7%E9%AA%9A%E4%B9%B1%23&t=31&band_rank=6&Refer=top)<br />
-7. [广东液体榴莲](https://s.weibo.com/weibo?q=%E5%B9%BF%E4%B8%9C%E6%B6%B2%E4%BD%93%E6%A6%B4%E8%8E%B2&t=31&band_rank=7&Refer=top)<br />
-8. [凌肖 查无此人](https://s.weibo.com/weibo?q=%E5%87%8C%E8%82%96%20%E6%9F%A5%E6%97%A0%E6%AD%A4%E4%BA%BA&t=31&band_rank=8&Refer=top)<br />
+6. [凌肖 查无此人](https://s.weibo.com/weibo?q=%E5%87%8C%E8%82%96%20%E6%9F%A5%E6%97%A0%E6%AD%A4%E4%BA%BA&t=31&band_rank=6&Refer=top)<br />
+7. [法国警察射杀17岁少年引起骚乱](https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E8%AD%A6%E5%AF%9F%E5%B0%84%E6%9D%8017%E5%B2%81%E5%B0%91%E5%B9%B4%E5%BC%95%E8%B5%B7%E9%AA%9A%E4%B9%B1%23&t=31&band_rank=7&Refer=top)<br />
+8. [广东液体榴莲](https://s.weibo.com/weibo?q=%E5%B9%BF%E4%B8%9C%E6%B6%B2%E4%BD%93%E6%A6%B4%E8%8E%B2&t=31&band_rank=8&Refer=top)<br />
 9. [100多岁鲸鱼的眼睛](https://s.weibo.com/weibo?q=100%E5%A4%9A%E5%B2%81%E9%B2%B8%E9%B1%BC%E7%9A%84%E7%9C%BC%E7%9D%9B&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
