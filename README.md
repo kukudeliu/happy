@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 22:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 22:45:02</h4></div>
 
 > 微博  
 
@@ -10,19 +10,19 @@
 6. [室友卖掉了我将近十年的青春](https://s.weibo.com/weibo?q=%23%E5%AE%A4%E5%8F%8B%E5%8D%96%E6%8E%89%E4%BA%86%E6%88%91%E5%B0%86%E8%BF%91%E5%8D%81%E5%B9%B4%E7%9A%84%E9%9D%92%E6%98%A5%23&t=31&band_rank=6&Refer=top)<br />
 7. [玉骨遥首播评价](https://s.weibo.com/weibo?q=%23%E7%8E%89%E9%AA%A8%E9%81%A5%E9%A6%96%E6%92%AD%E8%AF%84%E4%BB%B7%23&t=31&band_rank=7&Refer=top)<br />
 8. [中国人民大学称已报警](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%A4%A7%E5%AD%A6%E7%A7%B0%E5%B7%B2%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=8&Refer=top)<br />
-9. [大老远来找男朋友发现他没关空调](https://s.weibo.com/weibo?q=%E5%A4%A7%E8%80%81%E8%BF%9C%E6%9D%A5%E6%89%BE%E7%94%B7%E6%9C%8B%E5%8F%8B%E5%8F%91%E7%8E%B0%E4%BB%96%E6%B2%A1%E5%85%B3%E7%A9%BA%E8%B0%83&t=31&band_rank=9&Refer=top)<br />
+9. [女生称求职因是上海人2天被拒3次](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E7%A7%B0%E6%B1%82%E8%81%8C%E5%9B%A0%E6%98%AF%E4%B8%8A%E6%B5%B7%E4%BA%BA2%E5%A4%A9%E8%A2%AB%E6%8B%923%E6%AC%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [开场后票价跳水也卖不掉，黄牛把 1700 元的周杰伦演唱会门票直接烧了，称烧了也不卖，如何看待此事？](https://www.zhihu.com/question/609780283)<br />
 2. [泽连斯基提与俄谈判条件，为「恢复 1991 年边界」，如何解读？俄乌和谈面临哪些障碍？](https://www.zhihu.com/question/609935325)<br />
-3. [米哈游的「全球同步运营能力」是否是讨论米哈游成功时最被忽略的一个点？](https://www.zhihu.com/question/607506484)<br />
+3. [全球首例猪心脏移植人类只存活 60 天，柳叶刀公布失败原因，哪些信息值得关注？对后续研究有何启示？](https://www.zhihu.com/question/609926133)<br />
 4. [巴黎奥运会一施工现场遭破坏，马赛最大图书馆被烧，马克龙推迟对德访问，法国多地骚乱，背后深层原因有哪些?](https://www.zhihu.com/question/609892911)<br />
-5. [全球首例猪心脏移植人类只存活 60 天，柳叶刀公布失败原因，哪些信息值得关注？对后续研究有何启示？](https://www.zhihu.com/question/609926133)<br />
+5. [米哈游的「全球同步运营能力」是否是讨论米哈游成功时最被忽略的一个点？](https://www.zhihu.com/question/607506484)<br />
 6. [FIFA 越位新规开始试运行攻方全身都比守方靠前才判定为越位，这将给球员带来怎样的影响？](https://www.zhihu.com/question/609815031)<br />
 7. []()<br />
-8. [进大公司看学历还是看能力?](https://www.zhihu.com/question/608164942)<br />
-9. [威少同意以 2 年 780 万的合同回归快船，第二年为球员选项，如何评价他的选择？](https://www.zhihu.com/question/609897623)<br />
+8. [威少同意以 2 年 780 万的合同回归快船，第二年为球员选项，如何评价他的选择？](https://www.zhihu.com/question/609897623)<br />
+9. [如何正确腌咸鸡蛋？](https://www.zhihu.com/question/63499356)<br />
 
 > 百度  
 
