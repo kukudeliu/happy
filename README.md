@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 21:35:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 21:36:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [宁安如梦](https://s.weibo.com/weibo?q=%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6&t=31&band_rank=5&Refer=top)<br />
 6. [玉骨遥取景地梦回陈情令](https://s.weibo.com/weibo?q=%23%E7%8E%89%E9%AA%A8%E9%81%A5%E5%8F%96%E6%99%AF%E5%9C%B0%E6%A2%A6%E5%9B%9E%E9%99%88%E6%83%85%E4%BB%A4%23&t=31&band_rank=6&Refer=top)<br />
 7. [中国人民大学称已报警](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%A4%A7%E5%AD%A6%E7%A7%B0%E5%B7%B2%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=7&Refer=top)<br />
-8. [孙颖莎vs平野美宇](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8Evs%E5%B9%B3%E9%87%8E%E7%BE%8E%E5%AE%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [玉骨遥任敏演技](https://s.weibo.com/weibo?q=%23%E7%8E%89%E9%AA%A8%E9%81%A5%E4%BB%BB%E6%95%8F%E6%BC%94%E6%8A%80%23&t=31&band_rank=9&Refer=top)<br />
+8. [玉骨遥任敏演技](https://s.weibo.com/weibo?q=%23%E7%8E%89%E9%AA%A8%E9%81%A5%E4%BB%BB%E6%95%8F%E6%BC%94%E6%8A%80%23&t=31&band_rank=8&Refer=top)<br />
+9. [孙颖莎vs平野美宇](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8Evs%E5%B9%B3%E9%87%8E%E7%BE%8E%E5%AE%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
