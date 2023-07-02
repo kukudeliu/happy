@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 22:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 22:17:01</h4></div>
 
 > 微博  
 
@@ -19,10 +19,10 @@
 3. [米哈游的「全球同步运营能力」是否是讨论米哈游成功时最被忽略的一个点？](https://www.zhihu.com/question/607506484)<br />
 4. [巴黎奥运会一施工现场遭破坏，马赛最大图书馆被烧，马克龙推迟对德访问，法国多地骚乱，背后深层原因有哪些?](https://www.zhihu.com/question/609892911)<br />
 5. []()<br />
-6. [进大公司看学历还是看能力?](https://www.zhihu.com/question/608164942)<br />
+6. []()<br />
 7. [FIFA 越位新规开始试运行攻方全身都比守方靠前才判定为越位，这将给球员带来怎样的影响？](https://www.zhihu.com/question/609815031)<br />
-8. [威少同意以 2 年 780 万的合同回归快船，第二年为球员选项，如何评价他的选择？](https://www.zhihu.com/question/609897623)<br />
-9. [如何正确腌咸鸡蛋？](https://www.zhihu.com/question/63499356)<br />
+8. [进大公司看学历还是看能力?](https://www.zhihu.com/question/608164942)<br />
+9. [威少同意以 2 年 780 万的合同回归快船，第二年为球员选项，如何评价他的选择？](https://www.zhihu.com/question/609897623)<br />
 
 > 百度  
 
