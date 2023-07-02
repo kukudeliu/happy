@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 14:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 14:26:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [法国警察射杀17岁少年引起骚乱](https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E8%AD%A6%E5%AF%9F%E5%B0%84%E6%9D%8017%E5%B2%81%E5%B0%91%E5%B9%B4%E5%BC%95%E8%B5%B7%E9%AA%9A%E4%B9%B1%23&t=31&band_rank=6&Refer=top)<br />
 7. [宋妍霏带200多套衣服拍戏](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E5%A6%8D%E9%9C%8F%E5%B8%A6200%E5%A4%9A%E5%A5%97%E8%A1%A3%E6%9C%8D%E6%8B%8D%E6%88%8F%23&t=31&band_rank=7&Refer=top)<br />
 8. [尹净汉ins](https://s.weibo.com/weibo?q=%E5%B0%B9%E5%87%80%E6%B1%89ins&t=31&band_rank=8&Refer=top)<br />
-9. [王俊凯小时候给王源的信](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%B0%8F%E6%97%B6%E5%80%99%E7%BB%99%E7%8E%8B%E6%BA%90%E7%9A%84%E4%BF%A1%23&t=31&band_rank=9&Refer=top)<br />
+9. [中国的学生最缺少什么教育](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%AD%A6%E7%94%9F%E6%9C%80%E7%BC%BA%E5%B0%91%E4%BB%80%E4%B9%88%E6%95%99%E8%82%B2&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
