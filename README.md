@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 19:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 19:11:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [离职当天，HR 说要启动竞业协议，但是已经接了竞对的 offer（上个月离职的都没启动），可以规避吗？](https://www.zhihu.com/question/605648138)<br />
 7. []()<br />
 8. [Uzi 加入 EDG 后，EDG 进世界赛的可能性有多大？](https://www.zhihu.com/question/606486163)<br />
-9. [赤壁之战中曹操的谋士们为什么智商下线了？](https://www.zhihu.com/question/568961938)<br />
+9. []()<br />
 
 > 百度  
 
