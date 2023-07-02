@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 21:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 21:49:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [普里戈任的俄罗斯商业帝国崩溃](https://www.baidu.com/s?wd=%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E7%9A%84%E4%BF%84%E7%BD%97%E6%96%AF%E5%95%86%E4%B8%9A%E5%B8%9D%E5%9B%BD%E5%B4%A9%E6%BA%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [大妈称月薪5000生娃比赚5个亿优秀](https://www.baidu.com/s?wd=%E5%A4%A7%E5%A6%88%E7%A7%B0%E6%9C%88%E8%96%AA5000%E7%94%9F%E5%A8%83%E6%AF%94%E8%B5%9A5%E4%B8%AA%E4%BA%BF%E4%BC%98%E7%A7%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [美欧等国已援助乌克兰超1.3万亿](https://www.baidu.com/s?wd=%E7%BE%8E%E6%AC%A7%E7%AD%89%E5%9B%BD%E5%B7%B2%E6%8F%B4%E5%8A%A9%E4%B9%8C%E5%85%8B%E5%85%B0%E8%B6%851.3%E4%B8%87%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [白岩松谈母亲误拆女儿档案袋](https://www.baidu.com/s?wd=%E7%99%BD%E5%B2%A9%E6%9D%BE%E8%B0%88%E6%AF%8D%E4%BA%B2%E8%AF%AF%E6%8B%86%E5%A5%B3%E5%84%BF%E6%A1%A3%E6%A1%88%E8%A2%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [歌手胡海泉名下私募被警示](https://www.baidu.com/s?wd=%E6%AD%8C%E6%89%8B%E8%83%A1%E6%B5%B7%E6%B3%89%E5%90%8D%E4%B8%8B%E7%A7%81%E5%8B%9F%E8%A2%AB%E8%AD%A6%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [普里戈任的俄罗斯商业帝国崩溃](https://www.baidu.com/s?wd=%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E7%9A%84%E4%BF%84%E7%BD%97%E6%96%AF%E5%95%86%E4%B8%9A%E5%B8%9D%E5%9B%BD%E5%B4%A9%E6%BA%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [大妈称月薪5000生娃比赚5个亿优秀](https://www.baidu.com/s?wd=%E5%A4%A7%E5%A6%88%E7%A7%B0%E6%9C%88%E8%96%AA5000%E7%94%9F%E5%A8%83%E6%AF%94%E8%B5%9A5%E4%B8%AA%E4%BA%BF%E4%BC%98%E7%A7%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [美欧等国已援助乌克兰超1.3万亿](https://www.baidu.com/s?wd=%E7%BE%8E%E6%AC%A7%E7%AD%89%E5%9B%BD%E5%B7%B2%E6%8F%B4%E5%8A%A9%E4%B9%8C%E5%85%8B%E5%85%B0%E8%B6%851.3%E4%B8%87%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [白岩松谈母亲误拆女儿档案袋](https://www.baidu.com/s?wd=%E7%99%BD%E5%B2%A9%E6%9D%BE%E8%B0%88%E6%AF%8D%E4%BA%B2%E8%AF%AF%E6%8B%86%E5%A5%B3%E5%84%BF%E6%A1%A3%E6%A1%88%E8%A2%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [歌手胡海泉名下私募被警示](https://www.baidu.com/s?wd=%E6%AD%8C%E6%89%8B%E8%83%A1%E6%B5%B7%E6%B3%89%E5%90%8D%E4%B8%8B%E7%A7%81%E5%8B%9F%E8%A2%AB%E8%AD%A6%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
