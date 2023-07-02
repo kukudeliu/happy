@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 08:17:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 08:18:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [刘美含 北大](https://s.weibo.com/weibo?q=%E5%88%98%E7%BE%8E%E5%90%AB%20%E5%8C%97%E5%A4%A7&t=31&band_rank=6&Refer=top)<br />
 7. [6大人争接萌娃放学姥爷赢麻了](https://s.weibo.com/weibo?q=%236%E5%A4%A7%E4%BA%BA%E4%BA%89%E6%8E%A5%E8%90%8C%E5%A8%83%E6%94%BE%E5%AD%A6%E5%A7%A5%E7%88%B7%E8%B5%A2%E9%BA%BB%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [ALin 金曲歌后](https://s.weibo.com/weibo?q=ALin%20%E9%87%91%E6%9B%B2%E6%AD%8C%E5%90%8E&t=31&band_rank=8&Refer=top)<br />
-9. [TF家族合照](https://s.weibo.com/weibo?q=TF%E5%AE%B6%E6%97%8F%E5%90%88%E7%85%A7&t=31&band_rank=9&Refer=top)<br />
+9. [纹去世朋友名字去看周杰伦演唱会](https://s.weibo.com/weibo?q=%E7%BA%B9%E5%8E%BB%E4%B8%96%E6%9C%8B%E5%8F%8B%E5%90%8D%E5%AD%97%E5%8E%BB%E7%9C%8B%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
