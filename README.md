@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 01:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 01:20:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [ITZY](https://s.weibo.com/weibo?q=ITZY&t=31&band_rank=4&Refer=top)<br />
 5. [龚俊周杰伦合唱发如雪](https://s.weibo.com/weibo?q=%23%E9%BE%9A%E4%BF%8A%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%90%88%E5%94%B1%E5%8F%91%E5%A6%82%E9%9B%AA%23&t=31&band_rank=5&Refer=top)<br />
 6. [大老远来找男朋友发现他没关空调](https://s.weibo.com/weibo?q=%E5%A4%A7%E8%80%81%E8%BF%9C%E6%9D%A5%E6%89%BE%E7%94%B7%E6%9C%8B%E5%8F%8B%E5%8F%91%E7%8E%B0%E4%BB%96%E6%B2%A1%E5%85%B3%E7%A9%BA%E8%B0%83&t=31&band_rank=6&Refer=top)<br />
-7. [玉骨遥今日开播](https://s.weibo.com/weibo?q=%23%E7%8E%89%E9%AA%A8%E9%81%A5%E4%BB%8A%E6%97%A5%E5%BC%80%E6%92%AD%23&t=31&band_rank=7&Refer=top)<br />
-8. [Jennie音乐节彩排视频](https://s.weibo.com/weibo?q=%23Jennie%E9%9F%B3%E4%B9%90%E8%8A%82%E5%BD%A9%E6%8E%92%E8%A7%86%E9%A2%91%23&t=31&band_rank=8&Refer=top)<br />
+7. [Jennie音乐节彩排视频](https://s.weibo.com/weibo?q=%23Jennie%E9%9F%B3%E4%B9%90%E8%8A%82%E5%BD%A9%E6%8E%92%E8%A7%86%E9%A2%91%23&t=31&band_rank=7&Refer=top)<br />
+8. [玉骨遥今日开播](https://s.weibo.com/weibo?q=%23%E7%8E%89%E9%AA%A8%E9%81%A5%E4%BB%8A%E6%97%A5%E5%BC%80%E6%92%AD%23&t=31&band_rank=8&Refer=top)<br />
 9. [为什么建议年轻时多谈恋爱](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BB%BA%E8%AE%AE%E5%B9%B4%E8%BD%BB%E6%97%B6%E5%A4%9A%E8%B0%88%E6%81%8B%E7%88%B1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -22,7 +22,7 @@
 6. [北京广告协会发文「对歌手蔡某某做好风险把控」，如何看待此事？后续进展如何？](https://www.zhihu.com/question/609892459)<br />
 7. []()<br />
 8. []()<br />
-9. [如何评价肖战和任敏主演的电视剧《玉骨遥》？](https://www.zhihu.com/question/609797990)<br />
+9. [法国警察射杀少年引骚乱，汽车被烧、数十警察受伤，目前事件调查进展如何？](https://www.zhihu.com/question/609226125)<br />
 
 > 百度  
 
