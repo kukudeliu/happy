@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 01:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 01:59:02</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [中国动车组单列试验时速453公里](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%8A%A8%E8%BD%A6%E7%BB%84%E5%8D%95%E5%88%97%E8%AF%95%E9%AA%8C%E6%97%B6%E9%80%9F453%E5%85%AC%E9%87%8C%23&t=31&band_rank=3&Refer=top)<br />
 4. [ITZY](https://s.weibo.com/weibo?q=ITZY&t=31&band_rank=4&Refer=top)<br />
 5. [龚俊周杰伦合唱发如雪](https://s.weibo.com/weibo?q=%23%E9%BE%9A%E4%BF%8A%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%90%88%E5%94%B1%E5%8F%91%E5%A6%82%E9%9B%AA%23&t=31&band_rank=5&Refer=top)<br />
-6. [毒蘑菇导致幻觉动感图](https://s.weibo.com/weibo?q=%E6%AF%92%E8%98%91%E8%8F%87%E5%AF%BC%E8%87%B4%E5%B9%BB%E8%A7%89%E5%8A%A8%E6%84%9F%E5%9B%BE&t=31&band_rank=6&Refer=top)<br />
-7. [室友卖掉了我将近十年的青春](https://s.weibo.com/weibo?q=%23%E5%AE%A4%E5%8F%8B%E5%8D%96%E6%8E%89%E4%BA%86%E6%88%91%E5%B0%86%E8%BF%91%E5%8D%81%E5%B9%B4%E7%9A%84%E9%9D%92%E6%98%A5%23&t=31&band_rank=7&Refer=top)<br />
+6. [室友卖掉了我将近十年的青春](https://s.weibo.com/weibo?q=%23%E5%AE%A4%E5%8F%8B%E5%8D%96%E6%8E%89%E4%BA%86%E6%88%91%E5%B0%86%E8%BF%91%E5%8D%81%E5%B9%B4%E7%9A%84%E9%9D%92%E6%98%A5%23&t=31&band_rank=6&Refer=top)<br />
+7. [毒蘑菇导致幻觉动感图](https://s.weibo.com/weibo?q=%E6%AF%92%E8%98%91%E8%8F%87%E5%AF%BC%E8%87%B4%E5%B9%BB%E8%A7%89%E5%8A%A8%E6%84%9F%E5%9B%BE&t=31&band_rank=7&Refer=top)<br />
 8. [为什么建议年轻时多谈恋爱](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BB%BA%E8%AE%AE%E5%B9%B4%E8%BD%BB%E6%97%B6%E5%A4%9A%E8%B0%88%E6%81%8B%E7%88%B1%23&t=31&band_rank=8&Refer=top)<br />
 9. [大老远来找男朋友发现他没关空调](https://s.weibo.com/weibo?q=%E5%A4%A7%E8%80%81%E8%BF%9C%E6%9D%A5%E6%89%BE%E7%94%B7%E6%9C%8B%E5%8F%8B%E5%8F%91%E7%8E%B0%E4%BB%96%E6%B2%A1%E5%85%B3%E7%A9%BA%E8%B0%83&t=31&band_rank=9&Refer=top)<br />
 
@@ -32,9 +32,9 @@
 4. [殷殷挂念暖香江](https://www.baidu.com/s?wd=%E6%AE%B7%E6%AE%B7%E6%8C%82%E5%BF%B5%E6%9A%96%E9%A6%99%E6%B1%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [成都一草坪惊现上百条“蚊卷风”](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E4%B8%80%E8%8D%89%E5%9D%AA%E6%83%8A%E7%8E%B0%E4%B8%8A%E7%99%BE%E6%9D%A1%E2%80%9C%E8%9A%8A%E5%8D%B7%E9%A3%8E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [王宝强导演电影票房破10亿](https://www.baidu.com/s?wd=%E7%8E%8B%E5%AE%9D%E5%BC%BA%E5%AF%BC%E6%BC%94%E7%94%B5%E5%BD%B1%E7%A5%A8%E6%88%BF%E7%A0%B410%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [韩86岁男演员涉嫌性侵女学生被捕](https://www.baidu.com/s?wd=%E9%9F%A986%E5%B2%81%E7%94%B7%E6%BC%94%E5%91%98%E6%B6%89%E5%AB%8C%E6%80%A7%E4%BE%B5%E5%A5%B3%E5%AD%A6%E7%94%9F%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [人民大学通报学生信息泄露事件](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E5%A4%A7%E5%AD%A6%E9%80%9A%E6%8A%A5%E5%AD%A6%E7%94%9F%E4%BF%A1%E6%81%AF%E6%B3%84%E9%9C%B2%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [官方通报城管铲除商户门上贴字](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%9F%8E%E7%AE%A1%E9%93%B2%E9%99%A4%E5%95%86%E6%88%B7%E9%97%A8%E4%B8%8A%E8%B4%B4%E5%AD%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [媒体：蔡徐坤事件不能总靠爆料来挖](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E8%94%A1%E5%BE%90%E5%9D%A4%E4%BA%8B%E4%BB%B6%E4%B8%8D%E8%83%BD%E6%80%BB%E9%9D%A0%E7%88%86%E6%96%99%E6%9D%A5%E6%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [韩86岁男演员涉嫌性侵女学生被捕](https://www.baidu.com/s?wd=%E9%9F%A986%E5%B2%81%E7%94%B7%E6%BC%94%E5%91%98%E6%B6%89%E5%AB%8C%E6%80%A7%E4%BE%B5%E5%A5%B3%E5%AD%A6%E7%94%9F%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [中国游客口述在法之旅:遭袭全靠自救](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%8F%A3%E8%BF%B0%E5%9C%A8%E6%B3%95%E4%B9%8B%E6%97%85%3A%E9%81%AD%E8%A2%AD%E5%85%A8%E9%9D%A0%E8%87%AA%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [殷殷挂念暖香江](https://www.baidu.com/s?wd=%E6%AE%B7%E6%AE%B7%E6%8C%82%E5%BF%B5%E6%9A%96%E9%A6%99%E6%B1%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [成都一草坪惊现上百条“蚊卷风”](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E4%B8%80%E8%8D%89%E5%9D%AA%E6%83%8A%E7%8E%B0%E4%B8%8A%E7%99%BE%E6%9D%A1%E2%80%9C%E8%9A%8A%E5%8D%B7%E9%A3%8E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [王宝强导演电影票房破10亿](https://www.baidu.com/s?wd=%E7%8E%8B%E5%AE%9D%E5%BC%BA%E5%AF%BC%E6%BC%94%E7%94%B5%E5%BD%B1%E7%A5%A8%E6%88%BF%E7%A0%B410%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [韩86岁男演员涉嫌性侵女学生被捕](https://www.baidu.com/s?wd=%E9%9F%A986%E5%B2%81%E7%94%B7%E6%BC%94%E5%91%98%E6%B6%89%E5%AB%8C%E6%80%A7%E4%BE%B5%E5%A5%B3%E5%AD%A6%E7%94%9F%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [人民大学通报学生信息泄露事件](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E5%A4%A7%E5%AD%A6%E9%80%9A%E6%8A%A5%E5%AD%A6%E7%94%9F%E4%BF%A1%E6%81%AF%E6%B3%84%E9%9C%B2%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [官方通报城管铲除商户门上贴字](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%9F%8E%E7%AE%A1%E9%93%B2%E9%99%A4%E5%95%86%E6%88%B7%E9%97%A8%E4%B8%8A%E8%B4%B4%E5%AD%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [媒体：蔡徐坤事件不能总靠爆料来挖](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E8%94%A1%E5%BE%90%E5%9D%A4%E4%BA%8B%E4%BB%B6%E4%B8%8D%E8%83%BD%E6%80%BB%E9%9D%A0%E7%88%86%E6%96%99%E6%9D%A5%E6%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [韩86岁男演员涉嫌性侵女学生被捕](https://www.baidu.com/s?wd=%E9%9F%A986%E5%B2%81%E7%94%B7%E6%BC%94%E5%91%98%E6%B6%89%E5%AB%8C%E6%80%A7%E4%BE%B5%E5%A5%B3%E5%AD%A6%E7%94%9F%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [中国游客口述在法之旅:遭袭全靠自救](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%8F%A3%E8%BF%B0%E5%9C%A8%E6%B3%95%E4%B9%8B%E6%97%85%3A%E9%81%AD%E8%A2%AD%E5%85%A8%E9%9D%A0%E8%87%AA%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
