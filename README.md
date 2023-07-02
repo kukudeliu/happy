@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 20:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 20:11:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [大老远来找男朋友发现他没关空调](https://s.weibo.com/weibo?q=%E5%A4%A7%E8%80%81%E8%BF%9C%E6%9D%A5%E6%89%BE%E7%94%B7%E6%9C%8B%E5%8F%8B%E5%8F%91%E7%8E%B0%E4%BB%96%E6%B2%A1%E5%85%B3%E7%A9%BA%E8%B0%83&t=31&band_rank=5&Refer=top)<br />
 6. [曾黎玉骨遥上线3集就下线](https://s.weibo.com/weibo?q=%23%E6%9B%BE%E9%BB%8E%E7%8E%89%E9%AA%A8%E9%81%A5%E4%B8%8A%E7%BA%BF3%E9%9B%86%E5%B0%B1%E4%B8%8B%E7%BA%BF%23&t=31&band_rank=6&Refer=top)<br />
 7. [中国女排3比2战胜美国](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%923%E6%AF%942%E6%88%98%E8%83%9C%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=7&Refer=top)<br />
-8. [央视频下架蔡徐坤所有视频](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E9%A2%91%E4%B8%8B%E6%9E%B6%E8%94%A1%E5%BE%90%E5%9D%A4%E6%89%80%E6%9C%89%E8%A7%86%E9%A2%91%23&t=31&band_rank=8&Refer=top)<br />
-9. [玉骨遥任敏演技](https://s.weibo.com/weibo?q=%23%E7%8E%89%E9%AA%A8%E9%81%A5%E4%BB%BB%E6%95%8F%E6%BC%94%E6%8A%80%23&t=31&band_rank=9&Refer=top)<br />
+8. [玉骨遥任敏演技](https://s.weibo.com/weibo?q=%23%E7%8E%89%E9%AA%A8%E9%81%A5%E4%BB%BB%E6%95%8F%E6%BC%94%E6%8A%80%23&t=31&band_rank=8&Refer=top)<br />
+9. [央视频下架蔡徐坤所有视频](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E9%A2%91%E4%B8%8B%E6%9E%B6%E8%94%A1%E5%BE%90%E5%9D%A4%E6%89%80%E6%9C%89%E8%A7%86%E9%A2%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -21,8 +21,8 @@
 5. [人大毕业生被指盗取全校学生信息进行颜值打分，校方称已报警，实际情况如何？若属实将承担什么责任？](https://www.zhihu.com/question/609903688)<br />
 6. [Uzi 加入 EDG 后，EDG 进世界赛的可能性有多大？](https://www.zhihu.com/question/606486163)<br />
 7. [36 岁法布雷加斯宣布退役，将执教意乙科莫 U19 梯队，如何评价他的职业生涯？](https://www.zhihu.com/question/609897494)<br />
-8. [很多游戏中的装备都不做成消耗品，为什么?](https://www.zhihu.com/question/609180230)<br />
-9. []()<br />
+8. [鬼灭之刃中的鬼为什么不先用普通武器把自己头砍了？](https://www.zhihu.com/question/601884162)<br />
+9. [如何评价 2023 年 7 月浙江学考？](https://www.zhihu.com/question/605948919)<br />
 
 > 百度  
 
