@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 15:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 15:06:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [离职当天，HR 说要启动竞业协议，但是已经接了竞对的 offer（上个月离职的都没启动），可以规避吗？](https://www.zhihu.com/question/605648138)<br />
 7. [中央空调一拖三好还是三个一拖一好？](https://www.zhihu.com/question/524987232)<br />
 8. []()<br />
-9. [2399 元起的 RTX4060 甜品卡正式上市，适合哪些人群购买？](https://www.zhihu.com/question/609280591)<br />
+9. []()<br />
 
 > 百度  
 
