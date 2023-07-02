@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 20:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 20:12:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [曾黎玉骨遥上线3集就下线](https://s.weibo.com/weibo?q=%23%E6%9B%BE%E9%BB%8E%E7%8E%89%E9%AA%A8%E9%81%A5%E4%B8%8A%E7%BA%BF3%E9%9B%86%E5%B0%B1%E4%B8%8B%E7%BA%BF%23&t=31&band_rank=6&Refer=top)<br />
 7. [中国女排3比2战胜美国](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%923%E6%AF%942%E6%88%98%E8%83%9C%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=7&Refer=top)<br />
 8. [玉骨遥任敏演技](https://s.weibo.com/weibo?q=%23%E7%8E%89%E9%AA%A8%E9%81%A5%E4%BB%BB%E6%95%8F%E6%BC%94%E6%8A%80%23&t=31&band_rank=8&Refer=top)<br />
-9. [央视频下架蔡徐坤所有视频](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E9%A2%91%E4%B8%8B%E6%9E%B6%E8%94%A1%E5%BE%90%E5%9D%A4%E6%89%80%E6%9C%89%E8%A7%86%E9%A2%91%23&t=31&band_rank=9&Refer=top)<br />
+9. [正式被确诊为懒羊羊](https://s.weibo.com/weibo?q=%23%E6%AD%A3%E5%BC%8F%E8%A2%AB%E7%A1%AE%E8%AF%8A%E4%B8%BA%E6%87%92%E7%BE%8A%E7%BE%8A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
