@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 23:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 23:27:01</h4></div>
 
 > 微博  
 
@@ -8,7 +8,7 @@
 4. [玉骨遥今日开播](https://s.weibo.com/weibo?q=%23%E7%8E%89%E9%AA%A8%E9%81%A5%E4%BB%8A%E6%97%A5%E5%BC%80%E6%92%AD%23&t=31&band_rank=4&Refer=top)<br />
 5. [杨和苏喊话张杰全国裸巡](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%92%8C%E8%8B%8F%E5%96%8A%E8%AF%9D%E5%BC%A0%E6%9D%B0%E5%85%A8%E5%9B%BD%E8%A3%B8%E5%B7%A1%23&t=31&band_rank=5&Refer=top)<br />
 6. [玉骨遥美工好忙](https://s.weibo.com/weibo?q=%23%E7%8E%89%E9%AA%A8%E9%81%A5%E7%BE%8E%E5%B7%A5%E5%A5%BD%E5%BF%99%23&t=31&band_rank=6&Refer=top)<br />
-7. [室友卖掉了我将近十年的青春](https://s.weibo.com/weibo?q=%23%E5%AE%A4%E5%8F%8B%E5%8D%96%E6%8E%89%E4%BA%86%E6%88%91%E5%B0%86%E8%BF%91%E5%8D%81%E5%B9%B4%E7%9A%84%E9%9D%92%E6%98%A5%23&t=31&band_rank=7&Refer=top)<br />
+7. [分手时送前任一束有眼无珠](https://s.weibo.com/weibo?q=%23%E5%88%86%E6%89%8B%E6%97%B6%E9%80%81%E5%89%8D%E4%BB%BB%E4%B8%80%E6%9D%9F%E6%9C%89%E7%9C%BC%E6%97%A0%E7%8F%A0%23&t=31&band_rank=7&Refer=top)<br />
 8. [薛之谦脱掉](https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E8%84%B1%E6%8E%89&t=31&band_rank=8&Refer=top)<br />
 9. [中国人民大学称已报警](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%A4%A7%E5%AD%A6%E7%A7%B0%E5%B7%B2%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=9&Refer=top)<br />
 
