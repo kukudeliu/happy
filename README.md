@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 15:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 15:10:01</h4></div>
 
 > 微博  
 
@@ -6,10 +6,10 @@
 2. [全球首例猪心脏移植人类失败原因找到了](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E9%A6%96%E4%BE%8B%E7%8C%AA%E5%BF%83%E8%84%8F%E7%A7%BB%E6%A4%8D%E4%BA%BA%E7%B1%BB%E5%A4%B1%E8%B4%A5%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [青藏铁路开启动车时代](https://s.weibo.com/weibo?q=%23%E9%9D%92%E8%97%8F%E9%93%81%E8%B7%AF%E5%BC%80%E5%90%AF%E5%8A%A8%E8%BD%A6%E6%97%B6%E4%BB%A3%23&t=31&band_rank=3&Refer=top)<br />
 4. [王鹤棣圈内最好的朋友是宋伊人](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%9C%88%E5%86%85%E6%9C%80%E5%A5%BD%E7%9A%84%E6%9C%8B%E5%8F%8B%E6%98%AF%E5%AE%8B%E4%BC%8A%E4%BA%BA%23&t=31&band_rank=4&Refer=top)<br />
-5. [李梦状态](https://s.weibo.com/weibo?q=%E6%9D%8E%E6%A2%A6%E7%8A%B6%E6%80%81&t=31&band_rank=5&Refer=top)<br />
-6. [中国女篮vs日本女篮](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AEvs%E6%97%A5%E6%9C%AC%E5%A5%B3%E7%AF%AE&t=31&band_rank=6&Refer=top)<br />
-7. [歌手胡海泉名下私募被警示](https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E8%83%A1%E6%B5%B7%E6%B3%89%E5%90%8D%E4%B8%8B%E7%A7%81%E5%8B%9F%E8%A2%AB%E8%AD%A6%E7%A4%BA%23&t=31&band_rank=7&Refer=top)<br />
-8. [台媒曝解放军回呛台军](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E5%AA%92%E6%9B%9D%E8%A7%A3%E6%94%BE%E5%86%9B%E5%9B%9E%E5%91%9B%E5%8F%B0%E5%86%9B%23&t=31&band_rank=8&Refer=top)<br />
+5. [因女儿考705分打折庆祝的凉菜摊关门](https://s.weibo.com/weibo?q=%23%E5%9B%A0%E5%A5%B3%E5%84%BF%E8%80%83705%E5%88%86%E6%89%93%E6%8A%98%E5%BA%86%E7%A5%9D%E7%9A%84%E5%87%89%E8%8F%9C%E6%91%8A%E5%85%B3%E9%97%A8%23&t=31&band_rank=5&Refer=top)<br />
+6. [李梦状态](https://s.weibo.com/weibo?q=%E6%9D%8E%E6%A2%A6%E7%8A%B6%E6%80%81&t=31&band_rank=6&Refer=top)<br />
+7. [中国女篮vs日本女篮](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AEvs%E6%97%A5%E6%9C%AC%E5%A5%B3%E7%AF%AE&t=31&band_rank=7&Refer=top)<br />
+8. [歌手胡海泉名下私募被警示](https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E8%83%A1%E6%B5%B7%E6%B3%89%E5%90%8D%E4%B8%8B%E7%A7%81%E5%8B%9F%E8%A2%AB%E8%AD%A6%E7%A4%BA%23&t=31&band_rank=8&Refer=top)<br />
 9. [前交通局长孙女炫富事件调查近百日](https://s.weibo.com/weibo?q=%23%E5%89%8D%E4%BA%A4%E9%80%9A%E5%B1%80%E9%95%BF%E5%AD%99%E5%A5%B3%E7%82%AB%E5%AF%8C%E4%BA%8B%E4%BB%B6%E8%B0%83%E6%9F%A5%E8%BF%91%E7%99%BE%E6%97%A5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
