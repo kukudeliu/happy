@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 16:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 16:31:01</h4></div>
 
 > 微博  
 
@@ -21,7 +21,7 @@
 5. [2399 元起的 RTX4060 甜品卡正式上市，适合哪些人群购买？](https://www.zhihu.com/question/609280591)<br />
 6. [赤壁之战中曹操的谋士们为什么智商下线了？](https://www.zhihu.com/question/568961938)<br />
 7. [自由市场第二日湖人与拉塞尔续约 2 年 3700 万，与里夫斯续约 4 年 5600 万，你如何评价？](https://www.zhihu.com/question/609896613)<br />
-8. []()<br />
+8. [为什么很多人钓鱼钓了一网兜最后全部放生？](https://www.zhihu.com/question/599943515)<br />
 9. [你对薛宝钗和史湘云的螃蟹宴都有哪些评价？](https://www.zhihu.com/question/557749837)<br />
 
 > 百度  
