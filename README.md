@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 17:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 17:03:01</h4></div>
 
 > 微博  
 
@@ -18,11 +18,11 @@
 2. [巴黎奥运会一施工现场遭破坏，马赛最大图书馆被烧，马克龙推迟对德访问，法国多地骚乱，背后深层原因有哪些?](https://www.zhihu.com/question/609892911)<br />
 3. [网传 K1505 次列车在苏州站未载所有乘客就发车，官方因「未观察到剩余旅客」致歉，哪些信息需要关注？](https://www.zhihu.com/question/609806278)<br />
 4. [2023 女篮亚洲杯决赛，中国女篮终结日本 5 连冠，时隔 12 年再夺亚洲杯冠军，如何评价这场比赛？](https://www.zhihu.com/question/609920757)<br />
-5. [赤壁之战中曹操的谋士们为什么智商下线了？](https://www.zhihu.com/question/568961938)<br />
-6. [为什么很多人钓鱼钓了一网兜最后全部放生？](https://www.zhihu.com/question/599943515)<br />
-7. [自由市场第二日湖人与拉塞尔续约 2 年 3700 万，与里夫斯续约 4 年 5600 万，你如何评价？](https://www.zhihu.com/question/609896613)<br />
+5. [为什么很多人钓鱼钓了一网兜最后全部放生？](https://www.zhihu.com/question/599943515)<br />
+6. [自由市场第二日湖人与拉塞尔续约 2 年 3700 万，与里夫斯续约 4 年 5600 万，你如何评价？](https://www.zhihu.com/question/609896613)<br />
+7. [赤壁之战中曹操的谋士们为什么智商下线了？](https://www.zhihu.com/question/568961938)<br />
 8. [你对薛宝钗和史湘云的螃蟹宴都有哪些评价？](https://www.zhihu.com/question/557749837)<br />
-9. [2399 元起的 RTX4060 甜品卡正式上市，适合哪些人群购买？](https://www.zhihu.com/question/609280591)<br />
+9. [小说《水浒传》中鲁智深的武功怎么样？](https://www.zhihu.com/question/608752071)<br />
 
 > 百度  
 
