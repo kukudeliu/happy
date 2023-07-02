@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 14:13:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 14:14:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [青藏铁路开启动车时代](https://s.weibo.com/weibo?q=%23%E9%9D%92%E8%97%8F%E9%93%81%E8%B7%AF%E5%BC%80%E5%90%AF%E5%8A%A8%E8%BD%A6%E6%97%B6%E4%BB%A3%23&t=31&band_rank=3&Refer=top)<br />
 4. [大鹏全麻前最后一瞬遭遇暴击](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%B9%8F%E5%85%A8%E9%BA%BB%E5%89%8D%E6%9C%80%E5%90%8E%E4%B8%80%E7%9E%AC%E9%81%AD%E9%81%87%E6%9A%B4%E5%87%BB%23&t=31&band_rank=4&Refer=top)<br />
 5. [王鹤棣圈内最好的朋友是宋伊人](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%9C%88%E5%86%85%E6%9C%80%E5%A5%BD%E7%9A%84%E6%9C%8B%E5%8F%8B%E6%98%AF%E5%AE%8B%E4%BC%8A%E4%BA%BA%23&t=31&band_rank=5&Refer=top)<br />
-6. [法国警察射杀17岁少年引起骚乱](https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E8%AD%A6%E5%AF%9F%E5%B0%84%E6%9D%8017%E5%B2%81%E5%B0%91%E5%B9%B4%E5%BC%95%E8%B5%B7%E9%AA%9A%E4%B9%B1%23&t=31&band_rank=6&Refer=top)<br />
-7. [尹净汉ins](https://s.weibo.com/weibo?q=%E5%B0%B9%E5%87%80%E6%B1%89ins&t=31&band_rank=7&Refer=top)<br />
+6. [尹净汉ins](https://s.weibo.com/weibo?q=%E5%B0%B9%E5%87%80%E6%B1%89ins&t=31&band_rank=6&Refer=top)<br />
+7. [法国警察射杀17岁少年引起骚乱](https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E8%AD%A6%E5%AF%9F%E5%B0%84%E6%9D%8017%E5%B2%81%E5%B0%91%E5%B9%B4%E5%BC%95%E8%B5%B7%E9%AA%9A%E4%B9%B1%23&t=31&band_rank=7&Refer=top)<br />
 8. [宋妍霏带200多套衣服拍戏](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E5%A6%8D%E9%9C%8F%E5%B8%A6200%E5%A4%9A%E5%A5%97%E8%A1%A3%E6%9C%8D%E6%8B%8D%E6%88%8F%23&t=31&band_rank=8&Refer=top)<br />
 9. [迪丽热巴工作室公布维权情况进展](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%85%AC%E5%B8%83%E7%BB%B4%E6%9D%83%E6%83%85%E5%86%B5%E8%BF%9B%E5%B1%95%23&t=31&band_rank=9&Refer=top)<br />
 
@@ -33,8 +33,8 @@
 5. [男生看完《消失的她》后共情大哭](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E7%9C%8B%E5%AE%8C%E3%80%8A%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E3%80%8B%E5%90%8E%E5%85%B1%E6%83%85%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大妈用高铁上的插座焖了一锅米饭](https://www.baidu.com/s?wd=%E5%A4%A7%E5%A6%88%E7%94%A8%E9%AB%98%E9%93%81%E4%B8%8A%E7%9A%84%E6%8F%92%E5%BA%A7%E7%84%96%E4%BA%86%E4%B8%80%E9%94%85%E7%B1%B3%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子称住17楼未穿衣遭无人机偷拍](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E4%BD%8F17%E6%A5%BC%E6%9C%AA%E7%A9%BF%E8%A1%A3%E9%81%AD%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%81%B7%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [留守儿童因缺钱哭着给爸爸打电话](https://www.baidu.com/s?wd=%E7%95%99%E5%AE%88%E5%84%BF%E7%AB%A5%E5%9B%A0%E7%BC%BA%E9%92%B1%E5%93%AD%E7%9D%80%E7%BB%99%E7%88%B8%E7%88%B8%E6%89%93%E7%94%B5%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [韩86岁男演员涉嫌性侵女学生被捕](https://www.baidu.com/s?wd=%E9%9F%A986%E5%B2%81%E7%94%B7%E6%BC%94%E5%91%98%E6%B6%89%E5%AB%8C%E6%80%A7%E4%BE%B5%E5%A5%B3%E5%AD%A6%E7%94%9F%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [6大人争接萌娃放学姥爷赢麻了](https://www.baidu.com/s?wd=6%E5%A4%A7%E4%BA%BA%E4%BA%89%E6%8E%A5%E8%90%8C%E5%A8%83%E6%94%BE%E5%AD%A6%E5%A7%A5%E7%88%B7%E8%B5%A2%E9%BA%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [留守儿童因缺钱哭着给爸爸打电话](https://www.baidu.com/s?wd=%E7%95%99%E5%AE%88%E5%84%BF%E7%AB%A5%E5%9B%A0%E7%BC%BA%E9%92%B1%E5%93%AD%E7%9D%80%E7%BB%99%E7%88%B8%E7%88%B8%E6%89%93%E7%94%B5%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [男生看完《消失的她》后共情大哭](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E7%9C%8B%E5%AE%8C%E3%80%8A%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E3%80%8B%E5%90%8E%E5%85%B1%E6%83%85%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大妈用高铁上的插座焖了一锅米饭](https://www.baidu.com/s?wd=%E5%A4%A7%E5%A6%88%E7%94%A8%E9%AB%98%E9%93%81%E4%B8%8A%E7%9A%84%E6%8F%92%E5%BA%A7%E7%84%96%E4%BA%86%E4%B8%80%E9%94%85%E7%B1%B3%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子称住17楼未穿衣遭无人机偷拍](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E4%BD%8F17%E6%A5%BC%E6%9C%AA%E7%A9%BF%E8%A1%A3%E9%81%AD%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%81%B7%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [留守儿童因缺钱哭着给爸爸打电话](https://www.baidu.com/s?wd=%E7%95%99%E5%AE%88%E5%84%BF%E7%AB%A5%E5%9B%A0%E7%BC%BA%E9%92%B1%E5%93%AD%E7%9D%80%E7%BB%99%E7%88%B8%E7%88%B8%E6%89%93%E7%94%B5%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [韩86岁男演员涉嫌性侵女学生被捕](https://www.baidu.com/s?wd=%E9%9F%A986%E5%B2%81%E7%94%B7%E6%BC%94%E5%91%98%E6%B6%89%E5%AB%8C%E6%80%A7%E4%BE%B5%E5%A5%B3%E5%AD%A6%E7%94%9F%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [6大人争接萌娃放学姥爷赢麻了](https://www.baidu.com/s?wd=6%E5%A4%A7%E4%BA%BA%E4%BA%89%E6%8E%A5%E8%90%8C%E5%A8%83%E6%94%BE%E5%AD%A6%E5%A7%A5%E7%88%B7%E8%B5%A2%E9%BA%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [留守儿童因缺钱哭着给爸爸打电话](https://www.baidu.com/s?wd=%E7%95%99%E5%AE%88%E5%84%BF%E7%AB%A5%E5%9B%A0%E7%BC%BA%E9%92%B1%E5%93%AD%E7%9D%80%E7%BB%99%E7%88%B8%E7%88%B8%E6%89%93%E7%94%B5%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
