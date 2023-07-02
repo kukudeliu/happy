@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 10:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 10:53:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [朱一龙20亿票房男主](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%9920%E4%BA%BF%E7%A5%A8%E6%88%BF%E7%94%B7%E4%B8%BB%23&t=31&band_rank=6&Refer=top)<br />
 7. [马克龙把骚乱归咎于社交媒体和电子游戏](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%85%8B%E9%BE%99%E6%8A%8A%E9%AA%9A%E4%B9%B1%E5%BD%92%E5%92%8E%E4%BA%8E%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93%E5%92%8C%E7%94%B5%E5%AD%90%E6%B8%B8%E6%88%8F%23&t=31&band_rank=7&Refer=top)<br />
 8. [苏格兰呼吁女性生育时不用止痛药](https://s.weibo.com/weibo?q=%E8%8B%8F%E6%A0%BC%E5%85%B0%E5%91%BC%E5%90%81%E5%A5%B3%E6%80%A7%E7%94%9F%E8%82%B2%E6%97%B6%E4%B8%8D%E7%94%A8%E6%AD%A2%E7%97%9B%E8%8D%AF&t=31&band_rank=8&Refer=top)<br />
-9. [退休老人认18个爸妈为其养老送终](https://s.weibo.com/weibo?q=%23%E9%80%80%E4%BC%91%E8%80%81%E4%BA%BA%E8%AE%A418%E4%B8%AA%E7%88%B8%E5%A6%88%E4%B8%BA%E5%85%B6%E5%85%BB%E8%80%81%E9%80%81%E7%BB%88%23&t=31&band_rank=9&Refer=top)<br />
+9. [一个发型拯救一张脸](https://s.weibo.com/weibo?q=%E4%B8%80%E4%B8%AA%E5%8F%91%E5%9E%8B%E6%8B%AF%E6%95%91%E4%B8%80%E5%BC%A0%E8%84%B8&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -19,9 +19,9 @@
 3. [荷兰宣布将半导体相关产品纳入出口管制，商务部「表示坚决反对」，哪些信息值得关注？](https://www.zhihu.com/question/609805120)<br />
 4. [阿根廷计划用人民币支付 IMF 到期外债，如何看待此事？释放了什么信号？](https://www.zhihu.com/question/609598786)<br />
 5. [亚洲杯半决赛中国女篮大胜澳大利亚，挺进决赛将与日本争冠，如何评价这场比赛？](https://www.zhihu.com/question/609813838)<br />
-6. [怎么才能让孩子明白有价值才会被爱，但又不让他缺爱?](https://www.zhihu.com/question/602376859)<br />
-7. []()<br />
-8. [巴黎奥运会一施工现场遭破坏，马赛最大图书馆被烧，马克龙推迟对德访问，法国多地骚乱，背后深层原因有哪些?](https://www.zhihu.com/question/609892911)<br />
+6. []()<br />
+7. [巴黎奥运会一施工现场遭破坏，马赛最大图书馆被烧，马克龙推迟对德访问，法国多地骚乱，背后深层原因有哪些?](https://www.zhihu.com/question/609892911)<br />
+8. [怎么才能让孩子明白有价值才会被爱，但又不让他缺爱?](https://www.zhihu.com/question/602376859)<br />
 9. [离职当天，HR 说要启动竞业协议，但是已经接了竞对的 offer（上个月离职的都没启动），可以规避吗？](https://www.zhihu.com/question/605648138)<br />
 
 > 百度  
