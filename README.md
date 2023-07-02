@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 05:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 05:19:01</h4></div>
 
 > 微博  
 
@@ -32,8 +32,8 @@
 4. [殷殷挂念暖香江](https://www.baidu.com/s?wd=%E6%AE%B7%E6%AE%B7%E6%8C%82%E5%BF%B5%E6%9A%96%E9%A6%99%E6%B1%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [成都一草坪惊现上百条“蚊卷风”](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E4%B8%80%E8%8D%89%E5%9D%AA%E6%83%8A%E7%8E%B0%E4%B8%8A%E7%99%BE%E6%9D%A1%E2%80%9C%E8%9A%8A%E5%8D%B7%E9%A3%8E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [在法遇袭中国旅客：再也不会来了](https://www.baidu.com/s?wd=%E5%9C%A8%E6%B3%95%E9%81%87%E8%A2%AD%E4%B8%AD%E5%9B%BD%E6%97%85%E5%AE%A2%EF%BC%9A%E5%86%8D%E4%B9%9F%E4%B8%8D%E4%BC%9A%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [白岩松谈母亲误拆女儿档案袋](https://www.baidu.com/s?wd=%E7%99%BD%E5%B2%A9%E6%9D%BE%E8%B0%88%E6%AF%8D%E4%BA%B2%E8%AF%AF%E6%8B%86%E5%A5%B3%E5%84%BF%E6%A1%A3%E6%A1%88%E8%A2%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [西安交大校长雨中致辞党委书记撑伞](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E4%BA%A4%E5%A4%A7%E6%A0%A1%E9%95%BF%E9%9B%A8%E4%B8%AD%E8%87%B4%E8%BE%9E%E5%85%9A%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%92%91%E4%BC%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [西安交大校长雨中致辞党委书记撑伞](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E4%BA%A4%E5%A4%A7%E6%A0%A1%E9%95%BF%E9%9B%A8%E4%B8%AD%E8%87%B4%E8%BE%9E%E5%85%9A%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%92%91%E4%BC%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [宋轶说喜欢胖的男生](https://www.baidu.com/s?wd=%E5%AE%8B%E8%BD%B6%E8%AF%B4%E5%96%9C%E6%AC%A2%E8%83%96%E7%9A%84%E7%94%B7%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [吴世春：钱流向不缺钱的人](https://www.baidu.com/s?wd=%E5%90%B4%E4%B8%96%E6%98%A5%EF%BC%9A%E9%92%B1%E6%B5%81%E5%90%91%E4%B8%8D%E7%BC%BA%E9%92%B1%E7%9A%84%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -44,6 +44,6 @@
 4. [殷殷挂念暖香江](https://www.baidu.com/s?wd=%E6%AE%B7%E6%AE%B7%E6%8C%82%E5%BF%B5%E6%9A%96%E9%A6%99%E6%B1%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [成都一草坪惊现上百条“蚊卷风”](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E4%B8%80%E8%8D%89%E5%9D%AA%E6%83%8A%E7%8E%B0%E4%B8%8A%E7%99%BE%E6%9D%A1%E2%80%9C%E8%9A%8A%E5%8D%B7%E9%A3%8E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [在法遇袭中国旅客：再也不会来了](https://www.baidu.com/s?wd=%E5%9C%A8%E6%B3%95%E9%81%87%E8%A2%AD%E4%B8%AD%E5%9B%BD%E6%97%85%E5%AE%A2%EF%BC%9A%E5%86%8D%E4%B9%9F%E4%B8%8D%E4%BC%9A%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [白岩松谈母亲误拆女儿档案袋](https://www.baidu.com/s?wd=%E7%99%BD%E5%B2%A9%E6%9D%BE%E8%B0%88%E6%AF%8D%E4%BA%B2%E8%AF%AF%E6%8B%86%E5%A5%B3%E5%84%BF%E6%A1%A3%E6%A1%88%E8%A2%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [西安交大校长雨中致辞党委书记撑伞](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E4%BA%A4%E5%A4%A7%E6%A0%A1%E9%95%BF%E9%9B%A8%E4%B8%AD%E8%87%B4%E8%BE%9E%E5%85%9A%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%92%91%E4%BC%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [西安交大校长雨中致辞党委书记撑伞](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E4%BA%A4%E5%A4%A7%E6%A0%A1%E9%95%BF%E9%9B%A8%E4%B8%AD%E8%87%B4%E8%BE%9E%E5%85%9A%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%92%91%E4%BC%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [宋轶说喜欢胖的男生](https://www.baidu.com/s?wd=%E5%AE%8B%E8%BD%B6%E8%AF%B4%E5%96%9C%E6%AC%A2%E8%83%96%E7%9A%84%E7%94%B7%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [吴世春：钱流向不缺钱的人](https://www.baidu.com/s?wd=%E5%90%B4%E4%B8%96%E6%98%A5%EF%BC%9A%E9%92%B1%E6%B5%81%E5%90%91%E4%B8%8D%E7%BC%BA%E9%92%B1%E7%9A%84%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
