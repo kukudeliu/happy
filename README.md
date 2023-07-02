@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 18:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 18:31:01</h4></div>
 
 > 微博  
 
@@ -18,8 +18,8 @@
 2. [开场后票价跳水也卖不掉，黄牛把 1700 元的周杰伦演唱会门票直接烧了，称烧了也不卖，如何看待此事？](https://www.zhihu.com/question/609780283)<br />
 3. [为什么很多人钓鱼钓了一网兜最后全部放生？](https://www.zhihu.com/question/599943515)<br />
 4. [很多游戏中的装备都不做成消耗品，为什么?](https://www.zhihu.com/question/609180230)<br />
-5. []()<br />
-6. [人最顶级的养生是什么？](https://www.zhihu.com/question/601084412)<br />
+5. [人最顶级的养生是什么？](https://www.zhihu.com/question/601084412)<br />
+6. []()<br />
 7. [可否留下一张你近期拍的照片以及照片背后的故事？](https://www.zhihu.com/question/603807485)<br />
 8. [离职当天，HR 说要启动竞业协议，但是已经接了竞对的 offer（上个月离职的都没启动），可以规避吗？](https://www.zhihu.com/question/605648138)<br />
 9. [2399 元起的 RTX4060 甜品卡正式上市，适合哪些人群购买？](https://www.zhihu.com/question/609280591)<br />
