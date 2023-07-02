@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 17:05:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 17:06:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [为什么很多人钓鱼钓了一网兜最后全部放生？](https://www.zhihu.com/question/599943515)<br />
 6. [自由市场第二日湖人与拉塞尔续约 2 年 3700 万，与里夫斯续约 4 年 5600 万，你如何评价？](https://www.zhihu.com/question/609896613)<br />
 7. [你对薛宝钗和史湘云的螃蟹宴都有哪些评价？](https://www.zhihu.com/question/557749837)<br />
-8. [赤壁之战中曹操的谋士们为什么智商下线了？](https://www.zhihu.com/question/568961938)<br />
-9. [小说《水浒传》中鲁智深的武功怎么样？](https://www.zhihu.com/question/608752071)<br />
+8. [小说《水浒传》中鲁智深的武功怎么样？](https://www.zhihu.com/question/608752071)<br />
+9. [离职当天，HR 说要启动竞业协议，但是已经接了竞对的 offer（上个月离职的都没启动），可以规避吗？](https://www.zhihu.com/question/605648138)<br />
 
 > 百度  
 
