@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 07:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 07:21:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [大老远来找男朋友发现他没关空调](https://s.weibo.com/weibo?q=%E5%A4%A7%E8%80%81%E8%BF%9C%E6%9D%A5%E6%89%BE%E7%94%B7%E6%9C%8B%E5%8F%8B%E5%8F%91%E7%8E%B0%E4%BB%96%E6%B2%A1%E5%85%B3%E7%A9%BA%E8%B0%83&t=31&band_rank=6&Refer=top)<br />
 7. [玉骨遥女主](https://s.weibo.com/weibo?q=%23%E7%8E%89%E9%AA%A8%E9%81%A5%E5%A5%B3%E4%B8%BB%23&t=31&band_rank=7&Refer=top)<br />
 8. [男孩为保护孕妈电梯里劝止烟民](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E4%B8%BA%E4%BF%9D%E6%8A%A4%E5%AD%95%E5%A6%88%E7%94%B5%E6%A2%AF%E9%87%8C%E5%8A%9D%E6%AD%A2%E7%83%9F%E6%B0%91%23&t=31&band_rank=8&Refer=top)<br />
-9. [哪部会成为暑期档爆剧](https://s.weibo.com/weibo?q=%23%E5%93%AA%E9%83%A8%E4%BC%9A%E6%88%90%E4%B8%BA%E6%9A%91%E6%9C%9F%E6%A1%A3%E7%88%86%E5%89%A7%23&t=31&band_rank=9&Refer=top)<br />
+9. [环卫工人儿子高考687分被多校电话争抢](https://s.weibo.com/weibo?q=%23%E7%8E%AF%E5%8D%AB%E5%B7%A5%E4%BA%BA%E5%84%BF%E5%AD%90%E9%AB%98%E8%80%83687%E5%88%86%E8%A2%AB%E5%A4%9A%E6%A0%A1%E7%94%B5%E8%AF%9D%E4%BA%89%E6%8A%A2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
