@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 08:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 08:59:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [大学毕业生带小黄鸭坐火车被拒](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E6%AF%95%E4%B8%9A%E7%94%9F%E5%B8%A6%E5%B0%8F%E9%BB%84%E9%B8%AD%E5%9D%90%E7%81%AB%E8%BD%A6%E8%A2%AB%E6%8B%92%23&t=31&band_rank=5&Refer=top)<br />
 6. [今天是平分2023年的一天](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%B9%B3%E5%88%862023%E5%B9%B4%E7%9A%84%E4%B8%80%E5%A4%A9%23&t=31&band_rank=6&Refer=top)<br />
 7. [俩南方小伙山东旅游点6个菜吃不完](https://s.weibo.com/weibo?q=%23%E4%BF%A9%E5%8D%97%E6%96%B9%E5%B0%8F%E4%BC%99%E5%B1%B1%E4%B8%9C%E6%97%85%E6%B8%B8%E7%82%B96%E4%B8%AA%E8%8F%9C%E5%90%83%E4%B8%8D%E5%AE%8C%23&t=31&band_rank=7&Refer=top)<br />
-8. [朱一龙20亿票房男主](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%9920%E4%BA%BF%E7%A5%A8%E6%88%BF%E7%94%B7%E4%B8%BB%23&t=31&band_rank=8&Refer=top)<br />
-9. [恐怖程度约等于零的恐怖片](https://s.weibo.com/weibo?q=%23%E6%81%90%E6%80%96%E7%A8%8B%E5%BA%A6%E7%BA%A6%E7%AD%89%E4%BA%8E%E9%9B%B6%E7%9A%84%E6%81%90%E6%80%96%E7%89%87%23&t=31&band_rank=9&Refer=top)<br />
+8. [恐怖程度约等于零的恐怖片](https://s.weibo.com/weibo?q=%23%E6%81%90%E6%80%96%E7%A8%8B%E5%BA%A6%E7%BA%A6%E7%AD%89%E4%BA%8E%E9%9B%B6%E7%9A%84%E6%81%90%E6%80%96%E7%89%87%23&t=31&band_rank=8&Refer=top)<br />
+9. [朱一龙20亿票房男主](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%9920%E4%BA%BF%E7%A5%A8%E6%88%BF%E7%94%B7%E4%B8%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -20,7 +20,7 @@
 4. [当前消费已成为中国经济发展的主要驱动力，在上半年积压需求大量释放后，如何进一步实现内需的提质扩容？](https://www.zhihu.com/question/609606386)<br />
 5. [第 34 届金曲奖获奖名单公布，吴青峰​​​《马拉美的星期二》获年度专辑，你对各奖项归属满意吗？](https://www.zhihu.com/question/609813513)<br />
 6. []()<br />
-7. []()<br />
+7. [怎么才能让孩子明白有价值才会被爱，但又不让他缺爱?](https://www.zhihu.com/question/602376859)<br />
 8. [女朋友想买个稳定器拍视频，相机手机都能用最好，有没有轻巧点的稳定器推荐，最好颜值高点？](https://www.zhihu.com/question/602610611)<br />
 9. [中国驻美大使馆发布「中美禁毒事实清单」，有哪些信息值得关注？](https://www.zhihu.com/question/609763242)<br />
 
