@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 15:46:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 15:47:01</h4></div>
 
 > 微博  
 
@@ -18,11 +18,11 @@
 2. [开场后票价跳水也卖不掉，黄牛把 1700 元的周杰伦演唱会门票直接烧了，称烧了也不卖，如何看待此事？](https://www.zhihu.com/question/609780283)<br />
 3. [巴黎奥运会一施工现场遭破坏，马赛最大图书馆被烧，马克龙推迟对德访问，法国多地骚乱，背后深层原因有哪些?](https://www.zhihu.com/question/609892911)<br />
 4. [2023 女篮亚洲杯决赛，中国女篮终结日本 5 连冠，时隔 12 年再夺亚洲杯冠军，如何评价这场比赛？](https://www.zhihu.com/question/609920757)<br />
-5. [如何看待中科大 QS2024 排名跌出 top100 排第 138？](https://www.zhihu.com/question/609135032)<br />
-6. [中央空调一拖三好还是三个一拖一好？](https://www.zhihu.com/question/524987232)<br />
-7. [既然哥德尔已经证明了数学不能公理化，为什么物理学家还相信大一统呢？](https://www.zhihu.com/question/28078123)<br />
-8. [2399 元起的 RTX4060 甜品卡正式上市，适合哪些人群购买？](https://www.zhihu.com/question/609280591)<br />
-9. [赤壁之战中曹操的谋士们为什么智商下线了？](https://www.zhihu.com/question/568961938)<br />
+5. [既然哥德尔已经证明了数学不能公理化，为什么物理学家还相信大一统呢？](https://www.zhihu.com/question/28078123)<br />
+6. [2399 元起的 RTX4060 甜品卡正式上市，适合哪些人群购买？](https://www.zhihu.com/question/609280591)<br />
+7. [如何看待中科大 QS2024 排名跌出 top100 排第 138？](https://www.zhihu.com/question/609135032)<br />
+8. [赤壁之战中曹操的谋士们为什么智商下线了？](https://www.zhihu.com/question/568961938)<br />
+9. [中央空调一拖三好还是三个一拖一好？](https://www.zhihu.com/question/524987232)<br />
 
 > 百度  
 
