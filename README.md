@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 12:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 12:54:01</h4></div>
 
 > 微博  
 
@@ -19,8 +19,8 @@
 3. [阿根廷计划用人民币支付 IMF 到期外债，如何看待此事？释放了什么信号？](https://www.zhihu.com/question/609598786)<br />
 4. [巴黎奥运会一施工现场遭破坏，马赛最大图书馆被烧，马克龙推迟对德访问，法国多地骚乱，背后深层原因有哪些?](https://www.zhihu.com/question/609892911)<br />
 5. [离职当天，HR 说要启动竞业协议，但是已经接了竞对的 offer（上个月离职的都没启动），可以规避吗？](https://www.zhihu.com/question/605648138)<br />
-6. [如何看待小鹏 G6 上市价格 20.99 万起？](https://www.zhihu.com/question/609476325)<br />
-7. [潘功胜任中国人民银行党委书记，郭树清不再担任，哪些信息值得关注？](https://www.zhihu.com/question/609794310)<br />
+6. [潘功胜任中国人民银行党委书记，郭树清不再担任，哪些信息值得关注？](https://www.zhihu.com/question/609794310)<br />
+7. [如何看待小鹏 G6 上市价格 20.99 万起？](https://www.zhihu.com/question/609476325)<br />
 8. [有没有一张照片让你觉得你的猫被你养的很好？](https://www.zhihu.com/question/596919746)<br />
 9. [「全职儿女」按下职场暂停键回家给父母「打工」，如何看待这一现象？是逃避现实还是回归生活？](https://www.zhihu.com/question/609890590)<br />
 
@@ -34,7 +34,7 @@
 6. [女子称住17楼未穿衣遭无人机偷拍](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E4%BD%8F17%E6%A5%BC%E6%9C%AA%E7%A9%BF%E8%A1%A3%E9%81%AD%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%81%B7%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [大妈用高铁上的插座焖了一锅米饭](https://www.baidu.com/s?wd=%E5%A4%A7%E5%A6%88%E7%94%A8%E9%AB%98%E9%93%81%E4%B8%8A%E7%9A%84%E6%8F%92%E5%BA%A7%E7%84%96%E4%BA%86%E4%B8%80%E9%94%85%E7%B1%B3%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男生看完《消失的她》后共情大哭](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E7%9C%8B%E5%AE%8C%E3%80%8A%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E3%80%8B%E5%90%8E%E5%85%B1%E6%83%85%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [大学毕业生带小黄鸭坐火车被拒](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E6%AF%95%E4%B8%9A%E7%94%9F%E5%B8%A6%E5%B0%8F%E9%BB%84%E9%B8%AD%E5%9D%90%E7%81%AB%E8%BD%A6%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男女因插队争执互扇耳光](https://www.baidu.com/s?wd=%E7%94%B7%E5%A5%B3%E5%9B%A0%E6%8F%92%E9%98%9F%E4%BA%89%E6%89%A7%E4%BA%92%E6%89%87%E8%80%B3%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [女子称住17楼未穿衣遭无人机偷拍](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E4%BD%8F17%E6%A5%BC%E6%9C%AA%E7%A9%BF%E8%A1%A3%E9%81%AD%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%81%B7%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [大妈用高铁上的插座焖了一锅米饭](https://www.baidu.com/s?wd=%E5%A4%A7%E5%A6%88%E7%94%A8%E9%AB%98%E9%93%81%E4%B8%8A%E7%9A%84%E6%8F%92%E5%BA%A7%E7%84%96%E4%BA%86%E4%B8%80%E9%94%85%E7%B1%B3%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男生看完《消失的她》后共情大哭](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E7%9C%8B%E5%AE%8C%E3%80%8A%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E3%80%8B%E5%90%8E%E5%85%B1%E6%83%85%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [大学毕业生带小黄鸭坐火车被拒](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E6%AF%95%E4%B8%9A%E7%94%9F%E5%B8%A6%E5%B0%8F%E9%BB%84%E9%B8%AD%E5%9D%90%E7%81%AB%E8%BD%A6%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男女因插队争执互扇耳光](https://www.baidu.com/s?wd=%E7%94%B7%E5%A5%B3%E5%9B%A0%E6%8F%92%E9%98%9F%E4%BA%89%E6%89%A7%E4%BA%92%E6%89%87%E8%80%B3%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
