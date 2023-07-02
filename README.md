@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 15:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 15:14:02</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [如何看待中科大 QS2024 排名跌出 top100 排第 138？](https://www.zhihu.com/question/609135032)<br />
 5. [网传医院拒绝剖腹产致婴儿死亡，亲属称「妹妹曾 4 次要求剖腹产」，内江卫健委称「正处理」，如何看待？](https://www.zhihu.com/question/609391116)<br />
 6. []()<br />
-7. [离职当天，HR 说要启动竞业协议，但是已经接了竞对的 offer（上个月离职的都没启动），可以规避吗？](https://www.zhihu.com/question/605648138)<br />
-8. [中央空调一拖三好还是三个一拖一好？](https://www.zhihu.com/question/524987232)<br />
-9. []()<br />
+7. [中央空调一拖三好还是三个一拖一好？](https://www.zhihu.com/question/524987232)<br />
+8. []()<br />
+9. [2399 元起的 RTX4060 甜品卡正式上市，适合哪些人群购买？](https://www.zhihu.com/question/609280591)<br />
 
 > 百度  
 
@@ -34,7 +34,7 @@
 6. [留守儿童因缺钱哭着给爸爸打电话](https://www.baidu.com/s?wd=%E7%95%99%E5%AE%88%E5%84%BF%E7%AB%A5%E5%9B%A0%E7%BC%BA%E9%92%B1%E5%93%AD%E7%9D%80%E7%BB%99%E7%88%B8%E7%88%B8%E6%89%93%E7%94%B5%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [倪妮能够出演陈麦的原因](https://www.baidu.com/s?wd=%E5%80%AA%E5%A6%AE%E8%83%BD%E5%A4%9F%E5%87%BA%E6%BC%94%E9%99%88%E9%BA%A6%E7%9A%84%E5%8E%9F%E5%9B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [大学毕业生带小黄鸭坐火车被拒](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E6%AF%95%E4%B8%9A%E7%94%9F%E5%B8%A6%E5%B0%8F%E9%BB%84%E9%B8%AD%E5%9D%90%E7%81%AB%E8%BD%A6%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [歌手胡海泉名下私募被警示](https://www.baidu.com/s?wd=%E6%AD%8C%E6%89%8B%E8%83%A1%E6%B5%B7%E6%B3%89%E5%90%8D%E4%B8%8B%E7%A7%81%E5%8B%9F%E8%A2%AB%E8%AD%A6%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [泽连斯基表明与俄谈判唯一条件](https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E8%A1%A8%E6%98%8E%E4%B8%8E%E4%BF%84%E8%B0%88%E5%88%A4%E5%94%AF%E4%B8%80%E6%9D%A1%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [留守儿童因缺钱哭着给爸爸打电话](https://www.baidu.com/s?wd=%E7%95%99%E5%AE%88%E5%84%BF%E7%AB%A5%E5%9B%A0%E7%BC%BA%E9%92%B1%E5%93%AD%E7%9D%80%E7%BB%99%E7%88%B8%E7%88%B8%E6%89%93%E7%94%B5%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [倪妮能够出演陈麦的原因](https://www.baidu.com/s?wd=%E5%80%AA%E5%A6%AE%E8%83%BD%E5%A4%9F%E5%87%BA%E6%BC%94%E9%99%88%E9%BA%A6%E7%9A%84%E5%8E%9F%E5%9B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [大学毕业生带小黄鸭坐火车被拒](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E6%AF%95%E4%B8%9A%E7%94%9F%E5%B8%A6%E5%B0%8F%E9%BB%84%E9%B8%AD%E5%9D%90%E7%81%AB%E8%BD%A6%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [歌手胡海泉名下私募被警示](https://www.baidu.com/s?wd=%E6%AD%8C%E6%89%8B%E8%83%A1%E6%B5%B7%E6%B3%89%E5%90%8D%E4%B8%8B%E7%A7%81%E5%8B%9F%E8%A2%AB%E8%AD%A6%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [泽连斯基表明与俄谈判唯一条件](https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E8%A1%A8%E6%98%8E%E4%B8%8E%E4%BF%84%E8%B0%88%E5%88%A4%E5%94%AF%E4%B8%80%E6%9D%A1%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
