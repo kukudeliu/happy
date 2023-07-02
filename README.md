@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 21:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 21:15:01</h4></div>
 
 > 微博  
 
-1. [玉骨遥今日开播](https://s.weibo.com/weibo?q=%23%E7%8E%89%E9%AA%A8%E9%81%A5%E4%BB%8A%E6%97%A5%E5%BC%80%E6%92%AD%23&t=31&band_rank=1&Refer=top)<br />
-2. [室友卖掉了我将近十年的青春](https://s.weibo.com/weibo?q=%23%E5%AE%A4%E5%8F%8B%E5%8D%96%E6%8E%89%E4%BA%86%E6%88%91%E5%B0%86%E8%BF%91%E5%8D%81%E5%B9%B4%E7%9A%84%E9%9D%92%E6%98%A5%23&t=31&band_rank=2&Refer=top)<br />
+1. [室友卖掉了我将近十年的青春](https://s.weibo.com/weibo?q=%23%E5%AE%A4%E5%8F%8B%E5%8D%96%E6%8E%89%E4%BA%86%E6%88%91%E5%B0%86%E8%BF%91%E5%8D%81%E5%B9%B4%E7%9A%84%E9%9D%92%E6%98%A5%23&t=31&band_rank=1&Refer=top)<br />
+2. [玉骨遥今日开播](https://s.weibo.com/weibo?q=%23%E7%8E%89%E9%AA%A8%E9%81%A5%E4%BB%8A%E6%97%A5%E5%BC%80%E6%92%AD%23&t=31&band_rank=2&Refer=top)<br />
 3. [中国动车组单列试验时速453公里](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%8A%A8%E8%BD%A6%E7%BB%84%E5%8D%95%E5%88%97%E8%AF%95%E9%AA%8C%E6%97%B6%E9%80%9F453%E5%85%AC%E9%87%8C%23&t=31&band_rank=3&Refer=top)<br />
 4. [玉骨遥首播评价](https://s.weibo.com/weibo?q=%23%E7%8E%89%E9%AA%A8%E9%81%A5%E9%A6%96%E6%92%AD%E8%AF%84%E4%BB%B7%23&t=31&band_rank=4&Refer=top)<br />
 5. [宁安如梦](https://s.weibo.com/weibo?q=%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6&t=31&band_rank=5&Refer=top)<br />
@@ -16,13 +16,13 @@
 
 1. [开场后票价跳水也卖不掉，黄牛把 1700 元的周杰伦演唱会门票直接烧了，称烧了也不卖，如何看待此事？](https://www.zhihu.com/question/609780283)<br />
 2. [泽连斯基提与俄谈判条件，为「恢复 1991 年边界」，如何解读？俄乌和谈面临哪些障碍？](https://www.zhihu.com/question/609935325)<br />
-3. [人大毕业生被指盗取全校学生信息进行颜值打分，校方称已报警，实际情况如何？若属实将承担什么责任？](https://www.zhihu.com/question/609903688)<br />
+3. [鬼灭之刃中的鬼为什么不先用普通武器把自己头砍了？](https://www.zhihu.com/question/601884162)<br />
 4. [巴黎奥运会一施工现场遭破坏，马赛最大图书馆被烧，马克龙推迟对德访问，法国多地骚乱，背后深层原因有哪些?](https://www.zhihu.com/question/609892911)<br />
-5. [鬼灭之刃中的鬼为什么不先用普通武器把自己头砍了？](https://www.zhihu.com/question/601884162)<br />
-6. [如何评价 2023 年 7 月浙江学考？](https://www.zhihu.com/question/605948919)<br />
-7. [米哈游的「全球同步运营能力」是否是讨论米哈游成功时最被忽略的一个点？](https://www.zhihu.com/question/607506484)<br />
-8. [36 岁法布雷加斯宣布退役，将执教意乙科莫 U19 梯队，如何评价他的职业生涯？](https://www.zhihu.com/question/609897494)<br />
-9. []()<br />
+5. [如何评价 2023 年 7 月浙江学考？](https://www.zhihu.com/question/605948919)<br />
+6. [米哈游的「全球同步运营能力」是否是讨论米哈游成功时最被忽略的一个点？](https://www.zhihu.com/question/607506484)<br />
+7. []()<br />
+8. []()<br />
+9. [36 岁法布雷加斯宣布退役，将执教意乙科莫 U19 梯队，如何评价他的职业生涯？](https://www.zhihu.com/question/609897494)<br />
 
 > 百度  
 
