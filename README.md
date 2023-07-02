@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 17:26:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 17:27:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [小说《水浒传》中鲁智深的武功怎么样？](https://www.zhihu.com/question/608752071)<br />
 7. [可否留下一张你近期拍的照片以及照片背后的故事？](https://www.zhihu.com/question/603807485)<br />
 8. [离职当天，HR 说要启动竞业协议，但是已经接了竞对的 offer（上个月离职的都没启动），可以规避吗？](https://www.zhihu.com/question/605648138)<br />
-9. [2023 女篮亚洲杯决赛，中国女篮终结日本 5 连冠，时隔 12 年再夺亚洲杯冠军，如何评价这场比赛？](https://www.zhihu.com/question/609920757)<br />
+9. [潘功胜任中国人民银行党委书记，郭树清不再担任，哪些信息值得关注？](https://www.zhihu.com/question/609794310)<br />
 
 > 百度  
 
