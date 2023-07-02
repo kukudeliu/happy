@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 05:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 05:41:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [如何看待 2023 年 6 月 30 日 A 股市场？](https://www.zhihu.com/question/609544444)<br />
 7. []()<br />
 8. []()<br />
-9. []()<br />
+9. [宝钗为什么一直劝宝玉读书？](https://www.zhihu.com/question/608638962)<br />
 
 > 百度  
 
