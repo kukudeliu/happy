@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 10:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 10:24:01</h4></div>
 
 > 微博  
 
 1. [终于知道我头发油的原因了](https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E6%88%91%E5%A4%B4%E5%8F%91%E6%B2%B9%E7%9A%84%E5%8E%9F%E5%9B%A0%E4%BA%86%23&t=31&band_rank=1&Refer=top)<br />
 2. [退休老人认18个爸妈为其养老送终](https://s.weibo.com/weibo?q=%23%E9%80%80%E4%BC%91%E8%80%81%E4%BA%BA%E8%AE%A418%E4%B8%AA%E7%88%B8%E5%A6%88%E4%B8%BA%E5%85%B6%E5%85%BB%E8%80%81%E9%80%81%E7%BB%88%23&t=31&band_rank=2&Refer=top)<br />
 3. [七一勋章获得者的事迹有多感人](https://s.weibo.com/weibo?q=%23%E4%B8%83%E4%B8%80%E5%8B%8B%E7%AB%A0%E8%8E%B7%E5%BE%97%E8%80%85%E7%9A%84%E4%BA%8B%E8%BF%B9%E6%9C%89%E5%A4%9A%E6%84%9F%E4%BA%BA%23&t=31&band_rank=3&Refer=top)<br />
-4. [马克龙把骚乱归咎于社交媒体和电子游戏](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%85%8B%E9%BE%99%E6%8A%8A%E9%AA%9A%E4%B9%B1%E5%BD%92%E5%92%8E%E4%BA%8E%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93%E5%92%8C%E7%94%B5%E5%AD%90%E6%B8%B8%E6%88%8F%23&t=31&band_rank=4&Refer=top)<br />
-5. [尘缘定档今晚](https://s.weibo.com/weibo?q=%23%E5%B0%98%E7%BC%98%E5%AE%9A%E6%A1%A3%E4%BB%8A%E6%99%9A%23&t=31&band_rank=5&Refer=top)<br />
+4. [尘缘定档今晚](https://s.weibo.com/weibo?q=%23%E5%B0%98%E7%BC%98%E5%AE%9A%E6%A1%A3%E4%BB%8A%E6%99%9A%23&t=31&band_rank=4&Refer=top)<br />
+5. [马克龙把骚乱归咎于社交媒体和电子游戏](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%85%8B%E9%BE%99%E6%8A%8A%E9%AA%9A%E4%B9%B1%E5%BD%92%E5%92%8E%E4%BA%8E%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93%E5%92%8C%E7%94%B5%E5%AD%90%E6%B8%B8%E6%88%8F%23&t=31&band_rank=5&Refer=top)<br />
 6. [朱一龙20亿票房男主](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%9920%E4%BA%BF%E7%A5%A8%E6%88%BF%E7%94%B7%E4%B8%BB%23&t=31&band_rank=6&Refer=top)<br />
 7. [正式被确诊为浣碧](https://s.weibo.com/weibo?q=%23%E6%AD%A3%E5%BC%8F%E8%A2%AB%E7%A1%AE%E8%AF%8A%E4%B8%BA%E6%B5%A3%E7%A2%A7%23&t=31&band_rank=7&Refer=top)<br />
 8. [大学毕业生带小黄鸭坐火车被拒](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E6%AF%95%E4%B8%9A%E7%94%9F%E5%B8%A6%E5%B0%8F%E9%BB%84%E9%B8%AD%E5%9D%90%E7%81%AB%E8%BD%A6%E8%A2%AB%E6%8B%92%23&t=31&band_rank=8&Refer=top)<br />
@@ -15,14 +15,14 @@
 > 知乎  
 
 1. [网传 K1505 次列车在苏州站未载所有乘客就发车，官方因「未观察到剩余旅客」致歉，哪些信息需要关注？](https://www.zhihu.com/question/609806278)<br />
-2. [开场后票价跳水也卖不掉，黄牛把 1700 元的周杰伦演唱会门票直接烧了，称烧了也不卖，如何看待此事？](https://www.zhihu.com/question/609780283)<br />
-3. [荷兰宣布将半导体相关产品纳入出口管制，商务部「表示坚决反对」，哪些信息值得关注？](https://www.zhihu.com/question/609805120)<br />
+2. [荷兰宣布将半导体相关产品纳入出口管制，商务部「表示坚决反对」，哪些信息值得关注？](https://www.zhihu.com/question/609805120)<br />
+3. [开场后票价跳水也卖不掉，黄牛把 1700 元的周杰伦演唱会门票直接烧了，称烧了也不卖，如何看待此事？](https://www.zhihu.com/question/609780283)<br />
 4. []()<br />
 5. [阿根廷计划用人民币支付 IMF 到期外债，如何看待此事？释放了什么信号？](https://www.zhihu.com/question/609598786)<br />
-6. []()<br />
-7. [第 34 届金曲奖获奖名单公布，吴青峰​​​《马拉美的星期二》获年度专辑，你对各奖项归属满意吗？](https://www.zhihu.com/question/609813513)<br />
-8. [亚洲杯半决赛中国女篮大胜澳大利亚，挺进决赛将与日本争冠，如何评价这场比赛？](https://www.zhihu.com/question/609813838)<br />
-9. [怎么才能让孩子明白有价值才会被爱，但又不让他缺爱?](https://www.zhihu.com/question/602376859)<br />
+6. [第 34 届金曲奖获奖名单公布，吴青峰​​​《马拉美的星期二》获年度专辑，你对各奖项归属满意吗？](https://www.zhihu.com/question/609813513)<br />
+7. [亚洲杯半决赛中国女篮大胜澳大利亚，挺进决赛将与日本争冠，如何评价这场比赛？](https://www.zhihu.com/question/609813838)<br />
+8. [怎么才能让孩子明白有价值才会被爱，但又不让他缺爱?](https://www.zhihu.com/question/602376859)<br />
+9. []()<br />
 
 > 百度  
 
