@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 00:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 00:02:01</h4></div>
 
 > 微博  
 
@@ -8,7 +8,7 @@
 4. [ITZY](https://s.weibo.com/weibo?q=ITZY&t=31&band_rank=4&Refer=top)<br />
 5. [白岩松谈母亲误拆女儿档案袋](https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%B2%A9%E6%9D%BE%E8%B0%88%E6%AF%8D%E4%BA%B2%E8%AF%AF%E6%8B%86%E5%A5%B3%E5%84%BF%E6%A1%A3%E6%A1%88%E8%A2%8B%23&t=31&band_rank=5&Refer=top)<br />
 6. [玉骨遥今日开播](https://s.weibo.com/weibo?q=%23%E7%8E%89%E9%AA%A8%E9%81%A5%E4%BB%8A%E6%97%A5%E5%BC%80%E6%92%AD%23&t=31&band_rank=6&Refer=top)<br />
-7. [黄子韬孙千徐志胜对话信息量太大了](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%AD%99%E5%8D%83%E5%BE%90%E5%BF%97%E8%83%9C%E5%AF%B9%E8%AF%9D%E4%BF%A1%E6%81%AF%E9%87%8F%E5%A4%AA%E5%A4%A7%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+7. [薛之谦脱掉](https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E8%84%B1%E6%8E%89&t=31&band_rank=7&Refer=top)<br />
 8. [大老远来找男朋友发现他没关空调](https://s.weibo.com/weibo?q=%E5%A4%A7%E8%80%81%E8%BF%9C%E6%9D%A5%E6%89%BE%E7%94%B7%E6%9C%8B%E5%8F%8B%E5%8F%91%E7%8E%B0%E4%BB%96%E6%B2%A1%E5%85%B3%E7%A9%BA%E8%B0%83&t=31&band_rank=8&Refer=top)<br />
 9. [白桃星座](https://s.weibo.com/weibo?q=%E7%99%BD%E6%A1%83%E6%98%9F%E5%BA%A7&t=31&band_rank=9&Refer=top)<br />
 
