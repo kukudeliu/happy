@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 20:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 20:32:01</h4></div>
 
 > 微博  
 
@@ -19,8 +19,8 @@
 3. [泽连斯基提与俄谈判条件，为「恢复 1991 年边界」，如何解读？俄乌和谈面临哪些障碍？](https://www.zhihu.com/question/609935325)<br />
 4. [人大毕业生被指盗取全校学生信息进行颜值打分，校方称已报警，实际情况如何？若属实将承担什么责任？](https://www.zhihu.com/question/609903688)<br />
 5. [Uzi 加入 EDG 后，EDG 进世界赛的可能性有多大？](https://www.zhihu.com/question/606486163)<br />
-6. [人最顶级的养生是什么？](https://www.zhihu.com/question/601084412)<br />
-7. [36 岁法布雷加斯宣布退役，将执教意乙科莫 U19 梯队，如何评价他的职业生涯？](https://www.zhihu.com/question/609897494)<br />
+6. [36 岁法布雷加斯宣布退役，将执教意乙科莫 U19 梯队，如何评价他的职业生涯？](https://www.zhihu.com/question/609897494)<br />
+7. [人最顶级的养生是什么？](https://www.zhihu.com/question/601084412)<br />
 8. [鬼灭之刃中的鬼为什么不先用普通武器把自己头砍了？](https://www.zhihu.com/question/601884162)<br />
 9. [如何评价 2023 年 7 月浙江学考？](https://www.zhihu.com/question/605948919)<br />
 
