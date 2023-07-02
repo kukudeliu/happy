@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 08:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 08:41:01</h4></div>
 
 > 微博  
 
@@ -17,12 +17,12 @@
 1. [网传 K1505 次列车在苏州站未载所有乘客就发车，官方因「未观察到剩余旅客」致歉，哪些信息需要关注？](https://www.zhihu.com/question/609806278)<br />
 2. [荷兰宣布将半导体相关产品纳入出口管制，商务部「表示坚决反对」，哪些信息值得关注？](https://www.zhihu.com/question/609805120)<br />
 3. [中国驻美大使馆发布「中美禁毒事实清单」，有哪些信息值得关注？](https://www.zhihu.com/question/609763242)<br />
-4. [当前消费已成为中国经济发展的主要驱动力，在上半年积压需求大量释放后，如何进一步实现内需的提质扩容？](https://www.zhihu.com/question/609606386)<br />
-5. [开场后票价跳水也卖不掉，黄牛把 1700 元的周杰伦演唱会门票直接烧了，称烧了也不卖，如何看待此事？](https://www.zhihu.com/question/609780283)<br />
+4. [开场后票价跳水也卖不掉，黄牛把 1700 元的周杰伦演唱会门票直接烧了，称烧了也不卖，如何看待此事？](https://www.zhihu.com/question/609780283)<br />
+5. [当前消费已成为中国经济发展的主要驱动力，在上半年积压需求大量释放后，如何进一步实现内需的提质扩容？](https://www.zhihu.com/question/609606386)<br />
 6. [读了 17 年高中的唐尚珺今年高考 594 分，并决定去读大学，如何评价唐尚珺「多年高考」的行为？](https://www.zhihu.com/question/609651139)<br />
 7. [亚马逊公司旗下 Kindle 中国电子书店停止运营，已启动退款程序，为何 Kindle 退出中国市场？](https://www.zhihu.com/question/609622371)<br />
-8. [大家看完《消失的她》后有什么感受？](https://www.zhihu.com/question/609070712)<br />
-9. [2023 LPL 夏季赛 Uzi 招牌 VN 登场，EDG 2:1 击败 WE，如何评价这场比赛？](https://www.zhihu.com/question/609805906)<br />
+8. [2023 LPL 夏季赛 Uzi 招牌 VN 登场，EDG 2:1 击败 WE，如何评价这场比赛？](https://www.zhihu.com/question/609805906)<br />
+9. [大家看完《消失的她》后有什么感受？](https://www.zhihu.com/question/609070712)<br />
 
 > 百度  
 
