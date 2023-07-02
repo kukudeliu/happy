@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 11:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 11:20:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [正式被确诊为浣碧](https://s.weibo.com/weibo?q=%23%E6%AD%A3%E5%BC%8F%E8%A2%AB%E7%A1%AE%E8%AF%8A%E4%B8%BA%E6%B5%A3%E7%A2%A7%23&t=31&band_rank=5&Refer=top)<br />
 6. [尘缘定档今晚](https://s.weibo.com/weibo?q=%23%E5%B0%98%E7%BC%98%E5%AE%9A%E6%A1%A3%E4%BB%8A%E6%99%9A%23&t=31&band_rank=6&Refer=top)<br />
 7. [退休老人认18个爸妈为其养老送终](https://s.weibo.com/weibo?q=%23%E9%80%80%E4%BC%91%E8%80%81%E4%BA%BA%E8%AE%A418%E4%B8%AA%E7%88%B8%E5%A6%88%E4%B8%BA%E5%85%B6%E5%85%BB%E8%80%81%E9%80%81%E7%BB%88%23&t=31&band_rank=7&Refer=top)<br />
-8. [朱一龙20亿票房男主](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%9920%E4%BA%BF%E7%A5%A8%E6%88%BF%E7%94%B7%E4%B8%BB%23&t=31&band_rank=8&Refer=top)<br />
-9. [苏格兰呼吁女性生育时不用止痛药](https://s.weibo.com/weibo?q=%E8%8B%8F%E6%A0%BC%E5%85%B0%E5%91%BC%E5%90%81%E5%A5%B3%E6%80%A7%E7%94%9F%E8%82%B2%E6%97%B6%E4%B8%8D%E7%94%A8%E6%AD%A2%E7%97%9B%E8%8D%AF&t=31&band_rank=9&Refer=top)<br />
+8. [杨洋王楚然我的人间烟火新预告](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B4%8B%E7%8E%8B%E6%A5%9A%E7%84%B6%E6%88%91%E7%9A%84%E4%BA%BA%E9%97%B4%E7%83%9F%E7%81%AB%E6%96%B0%E9%A2%84%E5%91%8A%23&t=31&band_rank=8&Refer=top)<br />
+9. [朱一龙20亿票房男主](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%9920%E4%BA%BF%E7%A5%A8%E6%88%BF%E7%94%B7%E4%B8%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
