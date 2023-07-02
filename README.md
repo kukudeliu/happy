@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 04:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 04:29:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [法国警察射杀少年引骚乱，汽车被烧、数十警察受伤，目前事件调查进展如何？](https://www.zhihu.com/question/609226125)<br />
 7. [宝钗为什么一直劝宝玉读书？](https://www.zhihu.com/question/608638962)<br />
 8. []()<br />
-9. []()<br />
+9. [开场后票价跳水也卖不掉，黄牛把 1700 元的周杰伦演唱会门票直接烧了，称烧了也不卖，如何看待此事？](https://www.zhihu.com/question/609780283)<br />
 
 > 百度  
 
@@ -32,9 +32,9 @@
 4. [殷殷挂念暖香江](https://www.baidu.com/s?wd=%E6%AE%B7%E6%AE%B7%E6%8C%82%E5%BF%B5%E6%9A%96%E9%A6%99%E6%B1%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [成都一草坪惊现上百条“蚊卷风”](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E4%B8%80%E8%8D%89%E5%9D%AA%E6%83%8A%E7%8E%B0%E4%B8%8A%E7%99%BE%E6%9D%A1%E2%80%9C%E8%9A%8A%E5%8D%B7%E9%A3%8E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大鹏全麻前最后一瞬遭遇暴击](https://www.baidu.com/s?wd=%E5%A4%A7%E9%B9%8F%E5%85%A8%E9%BA%BB%E5%89%8D%E6%9C%80%E5%90%8E%E4%B8%80%E7%9E%AC%E9%81%AD%E9%81%87%E6%9A%B4%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [吴世春：钱流向不缺钱的人](https://www.baidu.com/s?wd=%E5%90%B4%E4%B8%96%E6%98%A5%EF%BC%9A%E9%92%B1%E6%B5%81%E5%90%91%E4%B8%8D%E7%BC%BA%E9%92%B1%E7%9A%84%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子种地5600亩国企老公辞职支持](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%8D%E5%9C%B05600%E4%BA%A9%E5%9B%BD%E4%BC%81%E8%80%81%E5%85%AC%E8%BE%9E%E8%81%8C%E6%94%AF%E6%8C%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子称住17楼未穿衣遭无人机偷拍](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E4%BD%8F17%E6%A5%BC%E6%9C%AA%E7%A9%BF%E8%A1%A3%E9%81%AD%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%81%B7%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子种地5600亩国企老公辞职支持](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%8D%E5%9C%B05600%E4%BA%A9%E5%9B%BD%E4%BC%81%E8%80%81%E5%85%AC%E8%BE%9E%E8%81%8C%E6%94%AF%E6%8C%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子称住17楼未穿衣遭无人机偷拍](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E4%BD%8F17%E6%A5%BC%E6%9C%AA%E7%A9%BF%E8%A1%A3%E9%81%AD%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%81%B7%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [吴世春：钱流向不缺钱的人](https://www.baidu.com/s?wd=%E5%90%B4%E4%B8%96%E6%98%A5%EF%BC%9A%E9%92%B1%E6%B5%81%E5%90%91%E4%B8%8D%E7%BC%BA%E9%92%B1%E7%9A%84%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [殷殷挂念暖香江](https://www.baidu.com/s?wd=%E6%AE%B7%E6%AE%B7%E6%8C%82%E5%BF%B5%E6%9A%96%E9%A6%99%E6%B1%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [成都一草坪惊现上百条“蚊卷风”](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E4%B8%80%E8%8D%89%E5%9D%AA%E6%83%8A%E7%8E%B0%E4%B8%8A%E7%99%BE%E6%9D%A1%E2%80%9C%E8%9A%8A%E5%8D%B7%E9%A3%8E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大鹏全麻前最后一瞬遭遇暴击](https://www.baidu.com/s?wd=%E5%A4%A7%E9%B9%8F%E5%85%A8%E9%BA%BB%E5%89%8D%E6%9C%80%E5%90%8E%E4%B8%80%E7%9E%AC%E9%81%AD%E9%81%87%E6%9A%B4%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [吴世春：钱流向不缺钱的人](https://www.baidu.com/s?wd=%E5%90%B4%E4%B8%96%E6%98%A5%EF%BC%9A%E9%92%B1%E6%B5%81%E5%90%91%E4%B8%8D%E7%BC%BA%E9%92%B1%E7%9A%84%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子种地5600亩国企老公辞职支持](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%8D%E5%9C%B05600%E4%BA%A9%E5%9B%BD%E4%BC%81%E8%80%81%E5%85%AC%E8%BE%9E%E8%81%8C%E6%94%AF%E6%8C%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子称住17楼未穿衣遭无人机偷拍](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E4%BD%8F17%E6%A5%BC%E6%9C%AA%E7%A9%BF%E8%A1%A3%E9%81%AD%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%81%B7%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子种地5600亩国企老公辞职支持](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%8D%E5%9C%B05600%E4%BA%A9%E5%9B%BD%E4%BC%81%E8%80%81%E5%85%AC%E8%BE%9E%E8%81%8C%E6%94%AF%E6%8C%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子称住17楼未穿衣遭无人机偷拍](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E4%BD%8F17%E6%A5%BC%E6%9C%AA%E7%A9%BF%E8%A1%A3%E9%81%AD%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%81%B7%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [吴世春：钱流向不缺钱的人](https://www.baidu.com/s?wd=%E5%90%B4%E4%B8%96%E6%98%A5%EF%BC%9A%E9%92%B1%E6%B5%81%E5%90%91%E4%B8%8D%E7%BC%BA%E9%92%B1%E7%9A%84%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
