@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 05:55:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 05:56:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [巴黎奥运会一施工现场遭破坏，马赛最大图书馆被烧，马克龙推迟对德访问，法国多地骚乱，背后深层原因有哪些?](https://www.zhihu.com/question/609892911)<br />
 6. [如何看待 2023 年 6 月 30 日 A 股市场？](https://www.zhihu.com/question/609544444)<br />
 7. []()<br />
-8. [哪些统计学的书让你相见恨晚？](https://www.zhihu.com/question/602368094)<br />
-9. []()<br />
+8. []()<br />
+9. [售价 33.5 万元，坦克 500 Hi4-T 值得入手吗？](https://www.zhihu.com/question/608837406)<br />
 
 > 百度  
 
