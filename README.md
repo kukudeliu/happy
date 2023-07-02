@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 08:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 08:06:01</h4></div>
 
 > 微博  
 
@@ -20,8 +20,8 @@
 4. [当前消费已成为中国经济发展的主要驱动力，在上半年积压需求大量释放后，如何进一步实现内需的提质扩容？](https://www.zhihu.com/question/609606386)<br />
 5. [读了 17 年高中的唐尚珺今年高考 594 分，并决定去读大学，如何评价唐尚珺「多年高考」的行为？](https://www.zhihu.com/question/609651139)<br />
 6. [大家看完《消失的她》后有什么感受？](https://www.zhihu.com/question/609070712)<br />
-7. [如何看待吃自助餐先拿一盘蛋炒饭这种行为？](https://www.zhihu.com/question/440916537)<br />
-8. [2023 LPL 夏季赛 Uzi 招牌 VN 登场，EDG 2:1 击败 WE，如何评价这场比赛？](https://www.zhihu.com/question/609805906)<br />
+7. [2023 LPL 夏季赛 Uzi 招牌 VN 登场，EDG 2:1 击败 WE，如何评价这场比赛？](https://www.zhihu.com/question/609805906)<br />
+8. [如何看待吃自助餐先拿一盘蛋炒饭这种行为？](https://www.zhihu.com/question/440916537)<br />
 9. [为什么「加」「恰」「霞」三个字的拼音分别是 jiā、 qià、 xiá，而不是 jā、 qà、 xá？](https://www.zhihu.com/question/609163323)<br />
 
 > 百度  
