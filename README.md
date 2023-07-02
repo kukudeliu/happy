@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 15:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 15:48:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [2023 女篮亚洲杯决赛，中国女篮终结日本 5 连冠，时隔 12 年再夺亚洲杯冠军，如何评价这场比赛？](https://www.zhihu.com/question/609920757)<br />
 5. [既然哥德尔已经证明了数学不能公理化，为什么物理学家还相信大一统呢？](https://www.zhihu.com/question/28078123)<br />
 6. [2399 元起的 RTX4060 甜品卡正式上市，适合哪些人群购买？](https://www.zhihu.com/question/609280591)<br />
-7. [如何看待中科大 QS2024 排名跌出 top100 排第 138？](https://www.zhihu.com/question/609135032)<br />
-8. [赤壁之战中曹操的谋士们为什么智商下线了？](https://www.zhihu.com/question/568961938)<br />
-9. [中央空调一拖三好还是三个一拖一好？](https://www.zhihu.com/question/524987232)<br />
+7. [赤壁之战中曹操的谋士们为什么智商下线了？](https://www.zhihu.com/question/568961938)<br />
+8. [美众院共和党议员施压布林肯不续签《中美科技合作协定》，如何解读美方意图？将对中美带来哪些影响？](https://www.zhihu.com/question/609347160)<br />
+9. []()<br />
 
 > 百度  
 
@@ -34,7 +34,7 @@
 6. [大鹏全麻前最后一瞬遭遇暴击](https://www.baidu.com/s?wd=%E5%A4%A7%E9%B9%8F%E5%85%A8%E9%BA%BB%E5%89%8D%E6%9C%80%E5%90%8E%E4%B8%80%E7%9E%AC%E9%81%AD%E9%81%87%E6%9A%B4%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [今天是平分2023年的一天](https://www.baidu.com/s?wd=%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%B9%B3%E5%88%862023%E5%B9%B4%E7%9A%84%E4%B8%80%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女子称住17楼未穿衣遭无人机偷拍](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E4%BD%8F17%E6%A5%BC%E6%9C%AA%E7%A9%BF%E8%A1%A3%E9%81%AD%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%81%B7%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [云南九龙瀑布群被吐槽建围墙防看](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E4%B9%9D%E9%BE%99%E7%80%91%E5%B8%83%E7%BE%A4%E8%A2%AB%E5%90%90%E6%A7%BD%E5%BB%BA%E5%9B%B4%E5%A2%99%E9%98%B2%E7%9C%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [导游对打呼噜游客说要不你下车](https://www.baidu.com/s?wd=%E5%AF%BC%E6%B8%B8%E5%AF%B9%E6%89%93%E5%91%BC%E5%99%9C%E6%B8%B8%E5%AE%A2%E8%AF%B4%E8%A6%81%E4%B8%8D%E4%BD%A0%E4%B8%8B%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [大鹏全麻前最后一瞬遭遇暴击](https://www.baidu.com/s?wd=%E5%A4%A7%E9%B9%8F%E5%85%A8%E9%BA%BB%E5%89%8D%E6%9C%80%E5%90%8E%E4%B8%80%E7%9E%AC%E9%81%AD%E9%81%87%E6%9A%B4%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [今天是平分2023年的一天](https://www.baidu.com/s?wd=%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%B9%B3%E5%88%862023%E5%B9%B4%E7%9A%84%E4%B8%80%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女子称住17楼未穿衣遭无人机偷拍](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E4%BD%8F17%E6%A5%BC%E6%9C%AA%E7%A9%BF%E8%A1%A3%E9%81%AD%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%81%B7%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [云南九龙瀑布群被吐槽建围墙防看](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E4%B9%9D%E9%BE%99%E7%80%91%E5%B8%83%E7%BE%A4%E8%A2%AB%E5%90%90%E6%A7%BD%E5%BB%BA%E5%9B%B4%E5%A2%99%E9%98%B2%E7%9C%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [导游对打呼噜游客说要不你下车](https://www.baidu.com/s?wd=%E5%AF%BC%E6%B8%B8%E5%AF%B9%E6%89%93%E5%91%BC%E5%99%9C%E6%B8%B8%E5%AE%A2%E8%AF%B4%E8%A6%81%E4%B8%8D%E4%BD%A0%E4%B8%8B%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
