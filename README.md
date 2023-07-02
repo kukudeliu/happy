@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 21:01:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 21:02:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [鬼灭之刃中的鬼为什么不先用普通武器把自己头砍了？](https://www.zhihu.com/question/601884162)<br />
 6. [36 岁法布雷加斯宣布退役，将执教意乙科莫 U19 梯队，如何评价他的职业生涯？](https://www.zhihu.com/question/609897494)<br />
 7. [如何评价 2023 年 7 月浙江学考？](https://www.zhihu.com/question/605948919)<br />
-8. [Uzi 加入 EDG 后，EDG 进世界赛的可能性有多大？](https://www.zhihu.com/question/606486163)<br />
-9. [米哈游的「全球同步运营能力」是否是讨论米哈游成功时最被忽略的一个点？](https://www.zhihu.com/question/607506484)<br />
+8. [米哈游的「全球同步运营能力」是否是讨论米哈游成功时最被忽略的一个点？](https://www.zhihu.com/question/607506484)<br />
+9. []()<br />
 
 > 百度  
 
