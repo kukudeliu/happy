@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 12:15:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 12:16:01</h4></div>
 
 > 微博  
 
 1. [杨洋王楚然我的人间烟火新预告](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B4%8B%E7%8E%8B%E6%A5%9A%E7%84%B6%E6%88%91%E7%9A%84%E4%BA%BA%E9%97%B4%E7%83%9F%E7%81%AB%E6%96%B0%E9%A2%84%E5%91%8A%23&t=31&band_rank=1&Refer=top)<br />
-2. [倪妮能够出演陈麦的原因](https://s.weibo.com/weibo?q=%23%E5%80%AA%E5%A6%AE%E8%83%BD%E5%A4%9F%E5%87%BA%E6%BC%94%E9%99%88%E9%BA%A6%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=2&Refer=top)<br />
+2. [终于知道我头发油的原因了](https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E6%88%91%E5%A4%B4%E5%8F%91%E6%B2%B9%E7%9A%84%E5%8E%9F%E5%9B%A0%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [青藏铁路开启动车时代](https://s.weibo.com/weibo?q=%23%E9%9D%92%E8%97%8F%E9%93%81%E8%B7%AF%E5%BC%80%E5%90%AF%E5%8A%A8%E8%BD%A6%E6%97%B6%E4%BB%A3%23&t=31&band_rank=3&Refer=top)<br />
-4. [广东液体榴莲](https://s.weibo.com/weibo?q=%E5%B9%BF%E4%B8%9C%E6%B6%B2%E4%BD%93%E6%A6%B4%E8%8E%B2&t=31&band_rank=4&Refer=top)<br />
-5. [终于知道我头发油的原因了](https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E6%88%91%E5%A4%B4%E5%8F%91%E6%B2%B9%E7%9A%84%E5%8E%9F%E5%9B%A0%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
+4. [倪妮能够出演陈麦的原因](https://s.weibo.com/weibo?q=%23%E5%80%AA%E5%A6%AE%E8%83%BD%E5%A4%9F%E5%87%BA%E6%BC%94%E9%99%88%E9%BA%A6%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=4&Refer=top)<br />
+5. [广东液体榴莲](https://s.weibo.com/weibo?q=%E5%B9%BF%E4%B8%9C%E6%B6%B2%E4%BD%93%E6%A6%B4%E8%8E%B2&t=31&band_rank=5&Refer=top)<br />
 6. [人大回应网传学生个人信息被泄露](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E5%A4%A7%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E5%AD%A6%E7%94%9F%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E8%A2%AB%E6%B3%84%E9%9C%B2%23&t=31&band_rank=6&Refer=top)<br />
 7. [李耕耘 四姑娘山](https://s.weibo.com/weibo?q=%E6%9D%8E%E8%80%95%E8%80%98%20%E5%9B%9B%E5%A7%91%E5%A8%98%E5%B1%B1&t=31&band_rank=7&Refer=top)<br />
 8. [正式被确诊为浣碧](https://s.weibo.com/weibo?q=%23%E6%AD%A3%E5%BC%8F%E8%A2%AB%E7%A1%AE%E8%AF%8A%E4%B8%BA%E6%B5%A3%E7%A2%A7%23&t=31&band_rank=8&Refer=top)<br />
