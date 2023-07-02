@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 11:37:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 11:38:01</h4></div>
 
 > 微博  
 
@@ -8,21 +8,21 @@
 4. [终于知道我头发油的原因了](https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E6%88%91%E5%A4%B4%E5%8F%91%E6%B2%B9%E7%9A%84%E5%8E%9F%E5%9B%A0%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [在飞机上偶遇三只狗狗](https://s.weibo.com/weibo?q=%E5%9C%A8%E9%A3%9E%E6%9C%BA%E4%B8%8A%E5%81%B6%E9%81%87%E4%B8%89%E5%8F%AA%E7%8B%97%E7%8B%97&t=31&band_rank=5&Refer=top)<br />
 6. [尘缘定档今晚](https://s.weibo.com/weibo?q=%23%E5%B0%98%E7%BC%98%E5%AE%9A%E6%A1%A3%E4%BB%8A%E6%99%9A%23&t=31&band_rank=6&Refer=top)<br />
-7. [退休老人认18个爸妈为其养老送终](https://s.weibo.com/weibo?q=%23%E9%80%80%E4%BC%91%E8%80%81%E4%BA%BA%E8%AE%A418%E4%B8%AA%E7%88%B8%E5%A6%88%E4%B8%BA%E5%85%B6%E5%85%BB%E8%80%81%E9%80%81%E7%BB%88%23&t=31&band_rank=7&Refer=top)<br />
-8. [朱一龙20亿票房男主](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%9920%E4%BA%BF%E7%A5%A8%E6%88%BF%E7%94%B7%E4%B8%BB%23&t=31&band_rank=8&Refer=top)<br />
-9. [正式被确诊为浣碧](https://s.weibo.com/weibo?q=%23%E6%AD%A3%E5%BC%8F%E8%A2%AB%E7%A1%AE%E8%AF%8A%E4%B8%BA%E6%B5%A3%E7%A2%A7%23&t=31&band_rank=9&Refer=top)<br />
+7. [正式被确诊为浣碧](https://s.weibo.com/weibo?q=%23%E6%AD%A3%E5%BC%8F%E8%A2%AB%E7%A1%AE%E8%AF%8A%E4%B8%BA%E6%B5%A3%E7%A2%A7%23&t=31&band_rank=7&Refer=top)<br />
+8. [退休老人认18个爸妈为其养老送终](https://s.weibo.com/weibo?q=%23%E9%80%80%E4%BC%91%E8%80%81%E4%BA%BA%E8%AE%A418%E4%B8%AA%E7%88%B8%E5%A6%88%E4%B8%BA%E5%85%B6%E5%85%BB%E8%80%81%E9%80%81%E7%BB%88%23&t=31&band_rank=8&Refer=top)<br />
+9. [朱一龙20亿票房男主](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%9920%E4%BA%BF%E7%A5%A8%E6%88%BF%E7%94%B7%E4%B8%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [网传 K1505 次列车在苏州站未载所有乘客就发车，官方因「未观察到剩余旅客」致歉，哪些信息需要关注？](https://www.zhihu.com/question/609806278)<br />
 2. [开场后票价跳水也卖不掉，黄牛把 1700 元的周杰伦演唱会门票直接烧了，称烧了也不卖，如何看待此事？](https://www.zhihu.com/question/609780283)<br />
-3. [荷兰宣布将半导体相关产品纳入出口管制，商务部「表示坚决反对」，哪些信息值得关注？](https://www.zhihu.com/question/609805120)<br />
-4. [阿根廷计划用人民币支付 IMF 到期外债，如何看待此事？释放了什么信号？](https://www.zhihu.com/question/609598786)<br />
+3. [阿根廷计划用人民币支付 IMF 到期外债，如何看待此事？释放了什么信号？](https://www.zhihu.com/question/609598786)<br />
+4. [荷兰宣布将半导体相关产品纳入出口管制，商务部「表示坚决反对」，哪些信息值得关注？](https://www.zhihu.com/question/609805120)<br />
 5. [巴黎奥运会一施工现场遭破坏，马赛最大图书馆被烧，马克龙推迟对德访问，法国多地骚乱，背后深层原因有哪些?](https://www.zhihu.com/question/609892911)<br />
-6. [离职当天，HR 说要启动竞业协议，但是已经接了竞对的 offer（上个月离职的都没启动），可以规避吗？](https://www.zhihu.com/question/605648138)<br />
-7. []()<br />
+6. [如何评 CCTV6 电影频道 6 月 29 日播出的《湾区升明月》大湾区电影音乐晚会？](https://www.zhihu.com/question/609467276)<br />
+7. [离职当天，HR 说要启动竞业协议，但是已经接了竞对的 offer（上个月离职的都没启动），可以规避吗？](https://www.zhihu.com/question/605648138)<br />
 8. []()<br />
-9. [四十岁了一事无成，还该努力吗？](https://www.zhihu.com/question/609058839)<br />
+9. []()<br />
 
 > 百度  
 
