@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 10:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 10:42:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [俩南方小伙山东旅游点6个菜吃不完](https://www.baidu.com/s?wd=%E4%BF%A9%E5%8D%97%E6%96%B9%E5%B0%8F%E4%BC%99%E5%B1%B1%E4%B8%9C%E6%97%85%E6%B8%B8%E7%82%B96%E4%B8%AA%E8%8F%9C%E5%90%83%E4%B8%8D%E5%AE%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [大学毕业生带小黄鸭坐火车被拒](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E6%AF%95%E4%B8%9A%E7%94%9F%E5%B8%A6%E5%B0%8F%E9%BB%84%E9%B8%AD%E5%9D%90%E7%81%AB%E8%BD%A6%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [朱一龙20亿票房男主](https://www.baidu.com/s?wd=%E6%9C%B1%E4%B8%80%E9%BE%9920%E4%BA%BF%E7%A5%A8%E6%88%BF%E7%94%B7%E4%B8%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [苏格兰呼吁女性生育时不用止痛药](https://www.baidu.com/s?wd=%E8%8B%8F%E6%A0%BC%E5%85%B0%E5%91%BC%E5%90%81%E5%A5%B3%E6%80%A7%E7%94%9F%E8%82%B2%E6%97%B6%E4%B8%8D%E7%94%A8%E6%AD%A2%E7%97%9B%E8%8D%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [网友爬泰山自我洗脑马上到南天门](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%88%AC%E6%B3%B0%E5%B1%B1%E8%87%AA%E6%88%91%E6%B4%97%E8%84%91%E9%A9%AC%E4%B8%8A%E5%88%B0%E5%8D%97%E5%A4%A9%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [俩南方小伙山东旅游点6个菜吃不完](https://www.baidu.com/s?wd=%E4%BF%A9%E5%8D%97%E6%96%B9%E5%B0%8F%E4%BC%99%E5%B1%B1%E4%B8%9C%E6%97%85%E6%B8%B8%E7%82%B96%E4%B8%AA%E8%8F%9C%E5%90%83%E4%B8%8D%E5%AE%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [大学毕业生带小黄鸭坐火车被拒](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E6%AF%95%E4%B8%9A%E7%94%9F%E5%B8%A6%E5%B0%8F%E9%BB%84%E9%B8%AD%E5%9D%90%E7%81%AB%E8%BD%A6%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [朱一龙20亿票房男主](https://www.baidu.com/s?wd=%E6%9C%B1%E4%B8%80%E9%BE%9920%E4%BA%BF%E7%A5%A8%E6%88%BF%E7%94%B7%E4%B8%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [苏格兰呼吁女性生育时不用止痛药](https://www.baidu.com/s?wd=%E8%8B%8F%E6%A0%BC%E5%85%B0%E5%91%BC%E5%90%81%E5%A5%B3%E6%80%A7%E7%94%9F%E8%82%B2%E6%97%B6%E4%B8%8D%E7%94%A8%E6%AD%A2%E7%97%9B%E8%8D%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [网友爬泰山自我洗脑马上到南天门](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%88%AC%E6%B3%B0%E5%B1%B1%E8%87%AA%E6%88%91%E6%B4%97%E8%84%91%E9%A9%AC%E4%B8%8A%E5%88%B0%E5%8D%97%E5%A4%A9%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
