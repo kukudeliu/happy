@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 16:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 16:04:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [大鹏全麻前最后一瞬遭遇暴击](https://www.baidu.com/s?wd=%E5%A4%A7%E9%B9%8F%E5%85%A8%E9%BA%BB%E5%89%8D%E6%9C%80%E5%90%8E%E4%B8%80%E7%9E%AC%E9%81%AD%E9%81%87%E6%9A%B4%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [大妈用高铁上的插座焖了一锅米饭](https://www.baidu.com/s?wd=%E5%A4%A7%E5%A6%88%E7%94%A8%E9%AB%98%E9%93%81%E4%B8%8A%E7%9A%84%E6%8F%92%E5%BA%A7%E7%84%96%E4%BA%86%E4%B8%80%E9%94%85%E7%B1%B3%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女子去世7只猫继承217万遗产](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%8E%BB%E4%B8%967%E5%8F%AA%E7%8C%AB%E7%BB%A7%E6%89%BF217%E4%B8%87%E9%81%97%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [导游对打呼噜游客说要不你下车](https://www.baidu.com/s?wd=%E5%AF%BC%E6%B8%B8%E5%AF%B9%E6%89%93%E5%91%BC%E5%99%9C%E6%B8%B8%E5%AE%A2%E8%AF%B4%E8%A6%81%E4%B8%8D%E4%BD%A0%E4%B8%8B%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子种地5600亩国企老公辞职支持](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%8D%E5%9C%B05600%E4%BA%A9%E5%9B%BD%E4%BC%81%E8%80%81%E5%85%AC%E8%BE%9E%E8%81%8C%E6%94%AF%E6%8C%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [大鹏全麻前最后一瞬遭遇暴击](https://www.baidu.com/s?wd=%E5%A4%A7%E9%B9%8F%E5%85%A8%E9%BA%BB%E5%89%8D%E6%9C%80%E5%90%8E%E4%B8%80%E7%9E%AC%E9%81%AD%E9%81%87%E6%9A%B4%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [大妈用高铁上的插座焖了一锅米饭](https://www.baidu.com/s?wd=%E5%A4%A7%E5%A6%88%E7%94%A8%E9%AB%98%E9%93%81%E4%B8%8A%E7%9A%84%E6%8F%92%E5%BA%A7%E7%84%96%E4%BA%86%E4%B8%80%E9%94%85%E7%B1%B3%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女子去世7只猫继承217万遗产](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%8E%BB%E4%B8%967%E5%8F%AA%E7%8C%AB%E7%BB%A7%E6%89%BF217%E4%B8%87%E9%81%97%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [导游对打呼噜游客说要不你下车](https://www.baidu.com/s?wd=%E5%AF%BC%E6%B8%B8%E5%AF%B9%E6%89%93%E5%91%BC%E5%99%9C%E6%B8%B8%E5%AE%A2%E8%AF%B4%E8%A6%81%E4%B8%8D%E4%BD%A0%E4%B8%8B%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子种地5600亩国企老公辞职支持](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%8D%E5%9C%B05600%E4%BA%A9%E5%9B%BD%E4%BC%81%E8%80%81%E5%85%AC%E8%BE%9E%E8%81%8C%E6%94%AF%E6%8C%81&sa=fyb_news&rsv_dl=fyb_news)<br />
