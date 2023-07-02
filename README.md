@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 12:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 12:24:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [广东液体榴莲](https://s.weibo.com/weibo?q=%E5%B9%BF%E4%B8%9C%E6%B6%B2%E4%BD%93%E6%A6%B4%E8%8E%B2&t=31&band_rank=4&Refer=top)<br />
 5. [终于知道我头发油的原因了](https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E6%88%91%E5%A4%B4%E5%8F%91%E6%B2%B9%E7%9A%84%E5%8E%9F%E5%9B%A0%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [嘉兴女会计转光同事卡里的钱反而被感谢](https://s.weibo.com/weibo?q=%23%E5%98%89%E5%85%B4%E5%A5%B3%E4%BC%9A%E8%AE%A1%E8%BD%AC%E5%85%89%E5%90%8C%E4%BA%8B%E5%8D%A1%E9%87%8C%E7%9A%84%E9%92%B1%E5%8F%8D%E8%80%8C%E8%A2%AB%E6%84%9F%E8%B0%A2%23&t=31&band_rank=6&Refer=top)<br />
-7. [人大回应网传学生个人信息被泄露](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E5%A4%A7%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E5%AD%A6%E7%94%9F%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E8%A2%AB%E6%B3%84%E9%9C%B2%23&t=31&band_rank=7&Refer=top)<br />
-8. [正式被确诊为浣碧](https://s.weibo.com/weibo?q=%23%E6%AD%A3%E5%BC%8F%E8%A2%AB%E7%A1%AE%E8%AF%8A%E4%B8%BA%E6%B5%A3%E7%A2%A7%23&t=31&band_rank=8&Refer=top)<br />
+7. [正式被确诊为浣碧](https://s.weibo.com/weibo?q=%23%E6%AD%A3%E5%BC%8F%E8%A2%AB%E7%A1%AE%E8%AF%8A%E4%B8%BA%E6%B5%A3%E7%A2%A7%23&t=31&band_rank=7&Refer=top)<br />
+8. [人大回应网传学生个人信息被泄露](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E5%A4%A7%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E5%AD%A6%E7%94%9F%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E8%A2%AB%E6%B3%84%E9%9C%B2%23&t=31&band_rank=8&Refer=top)<br />
 9. [李耕耘 四姑娘山](https://s.weibo.com/weibo?q=%E6%9D%8E%E8%80%95%E8%80%98%20%E5%9B%9B%E5%A7%91%E5%A8%98%E5%B1%B1&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -34,7 +34,7 @@
 6. [女子称住17楼未穿衣遭无人机偷拍](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E4%BD%8F17%E6%A5%BC%E6%9C%AA%E7%A9%BF%E8%A1%A3%E9%81%AD%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%81%B7%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男生看完《消失的她》后共情大哭](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E7%9C%8B%E5%AE%8C%E3%80%8A%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E3%80%8B%E5%90%8E%E5%85%B1%E6%83%85%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男女因插队争执互扇耳光](https://www.baidu.com/s?wd=%E7%94%B7%E5%A5%B3%E5%9B%A0%E6%8F%92%E9%98%9F%E4%BA%89%E6%89%A7%E4%BA%92%E6%89%87%E8%80%B3%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [苏格兰呼吁女性生育时不用止痛药](https://www.baidu.com/s?wd=%E8%8B%8F%E6%A0%BC%E5%85%B0%E5%91%BC%E5%90%81%E5%A5%B3%E6%80%A7%E7%94%9F%E8%82%B2%E6%97%B6%E4%B8%8D%E7%94%A8%E6%AD%A2%E7%97%9B%E8%8D%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [朱一龙20亿票房男主](https://www.baidu.com/s?wd=%E6%9C%B1%E4%B8%80%E9%BE%9920%E4%BA%BF%E7%A5%A8%E6%88%BF%E7%94%B7%E4%B8%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [女子称住17楼未穿衣遭无人机偷拍](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E4%BD%8F17%E6%A5%BC%E6%9C%AA%E7%A9%BF%E8%A1%A3%E9%81%AD%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%81%B7%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男生看完《消失的她》后共情大哭](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E7%9C%8B%E5%AE%8C%E3%80%8A%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E3%80%8B%E5%90%8E%E5%85%B1%E6%83%85%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男女因插队争执互扇耳光](https://www.baidu.com/s?wd=%E7%94%B7%E5%A5%B3%E5%9B%A0%E6%8F%92%E9%98%9F%E4%BA%89%E6%89%A7%E4%BA%92%E6%89%87%E8%80%B3%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [苏格兰呼吁女性生育时不用止痛药](https://www.baidu.com/s?wd=%E8%8B%8F%E6%A0%BC%E5%85%B0%E5%91%BC%E5%90%81%E5%A5%B3%E6%80%A7%E7%94%9F%E8%82%B2%E6%97%B6%E4%B8%8D%E7%94%A8%E6%AD%A2%E7%97%9B%E8%8D%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [朱一龙20亿票房男主](https://www.baidu.com/s?wd=%E6%9C%B1%E4%B8%80%E9%BE%9920%E4%BA%BF%E7%A5%A8%E6%88%BF%E7%94%B7%E4%B8%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
