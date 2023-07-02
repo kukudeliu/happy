@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 19:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 19:56:01</h4></div>
 
 > 微博  
 
@@ -19,9 +19,9 @@
 3. [人最顶级的养生是什么？](https://www.zhihu.com/question/601084412)<br />
 4. [很多游戏中的装备都不做成消耗品，为什么?](https://www.zhihu.com/question/609180230)<br />
 5. [泽连斯基提与俄谈判条件，为「恢复 1991 年边界」，如何解读？俄乌和谈面临哪些障碍？](https://www.zhihu.com/question/609935325)<br />
-6. [Uzi 加入 EDG 后，EDG 进世界赛的可能性有多大？](https://www.zhihu.com/question/606486163)<br />
-7. [36 岁法布雷加斯宣布退役，将执教意乙科莫 U19 梯队，如何评价他的职业生涯？](https://www.zhihu.com/question/609897494)<br />
-8. []()<br />
+6. []()<br />
+7. [Uzi 加入 EDG 后，EDG 进世界赛的可能性有多大？](https://www.zhihu.com/question/606486163)<br />
+8. [36 岁法布雷加斯宣布退役，将执教意乙科莫 U19 梯队，如何评价他的职业生涯？](https://www.zhihu.com/question/609897494)<br />
 9. []()<br />
 
 > 百度  
