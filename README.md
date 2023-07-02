@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 20:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 20:53:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [室友卖掉了我将近十年的青春](https://s.weibo.com/weibo?q=%23%E5%AE%A4%E5%8F%8B%E5%8D%96%E6%8E%89%E4%BA%86%E6%88%91%E5%B0%86%E8%BF%91%E5%8D%81%E5%B9%B4%E7%9A%84%E9%9D%92%E6%98%A5%23&t=31&band_rank=2&Refer=top)<br />
 3. [中国动车组单列试验时速453公里](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%8A%A8%E8%BD%A6%E7%BB%84%E5%8D%95%E5%88%97%E8%AF%95%E9%AA%8C%E6%97%B6%E9%80%9F453%E5%85%AC%E9%87%8C%23&t=31&band_rank=3&Refer=top)<br />
 4. [玉骨遥首播评价](https://s.weibo.com/weibo?q=%23%E7%8E%89%E9%AA%A8%E9%81%A5%E9%A6%96%E6%92%AD%E8%AF%84%E4%BB%B7%23&t=31&band_rank=4&Refer=top)<br />
-5. [中国人民大学称已报警](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%A4%A7%E5%AD%A6%E7%A7%B0%E5%B7%B2%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=5&Refer=top)<br />
-6. [宁安如梦](https://s.weibo.com/weibo?q=%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6&t=31&band_rank=6&Refer=top)<br />
+5. [宁安如梦](https://s.weibo.com/weibo?q=%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6&t=31&band_rank=5&Refer=top)<br />
+6. [中国人民大学称已报警](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%A4%A7%E5%AD%A6%E7%A7%B0%E5%B7%B2%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=6&Refer=top)<br />
 7. [玉骨遥任敏演技](https://s.weibo.com/weibo?q=%23%E7%8E%89%E9%AA%A8%E9%81%A5%E4%BB%BB%E6%95%8F%E6%BC%94%E6%8A%80%23&t=31&band_rank=7&Refer=top)<br />
 8. [大老远来找男朋友发现他没关空调](https://s.weibo.com/weibo?q=%E5%A4%A7%E8%80%81%E8%BF%9C%E6%9D%A5%E6%89%BE%E7%94%B7%E6%9C%8B%E5%8F%8B%E5%8F%91%E7%8E%B0%E4%BB%96%E6%B2%A1%E5%85%B3%E7%A9%BA%E8%B0%83&t=31&band_rank=8&Refer=top)<br />
 9. [赵露思8集换29套衣服](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D8%E9%9B%86%E6%8D%A229%E5%A5%97%E8%A1%A3%E6%9C%8D%23&t=31&band_rank=9&Refer=top)<br />
