@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 12:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 12:29:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [终于知道我头发油的原因了](https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E6%88%91%E5%A4%B4%E5%8F%91%E6%B2%B9%E7%9A%84%E5%8E%9F%E5%9B%A0%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [嘉兴女会计转光同事卡里的钱反而被感谢](https://s.weibo.com/weibo?q=%23%E5%98%89%E5%85%B4%E5%A5%B3%E4%BC%9A%E8%AE%A1%E8%BD%AC%E5%85%89%E5%90%8C%E4%BA%8B%E5%8D%A1%E9%87%8C%E7%9A%84%E9%92%B1%E5%8F%8D%E8%80%8C%E8%A2%AB%E6%84%9F%E8%B0%A2%23&t=31&band_rank=6&Refer=top)<br />
 7. [李耕耘 四姑娘山](https://s.weibo.com/weibo?q=%E6%9D%8E%E8%80%95%E8%80%98%20%E5%9B%9B%E5%A7%91%E5%A8%98%E5%B1%B1&t=31&band_rank=7&Refer=top)<br />
-8. [人大回应网传学生个人信息被泄露](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E5%A4%A7%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E5%AD%A6%E7%94%9F%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E8%A2%AB%E6%B3%84%E9%9C%B2%23&t=31&band_rank=8&Refer=top)<br />
-9. [正式被确诊为浣碧](https://s.weibo.com/weibo?q=%23%E6%AD%A3%E5%BC%8F%E8%A2%AB%E7%A1%AE%E8%AF%8A%E4%B8%BA%E6%B5%A3%E7%A2%A7%23&t=31&band_rank=9&Refer=top)<br />
+8. [正式被确诊为浣碧](https://s.weibo.com/weibo?q=%23%E6%AD%A3%E5%BC%8F%E8%A2%AB%E7%A1%AE%E8%AF%8A%E4%B8%BA%E6%B5%A3%E7%A2%A7%23&t=31&band_rank=8&Refer=top)<br />
+9. [人大回应网传学生个人信息被泄露](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E5%A4%A7%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E5%AD%A6%E7%94%9F%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E8%A2%AB%E6%B3%84%E9%9C%B2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
