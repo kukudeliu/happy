@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 18:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 18:38:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [很多游戏中的装备都不做成消耗品，为什么?](https://www.zhihu.com/question/609180230)<br />
 5. [人最顶级的养生是什么？](https://www.zhihu.com/question/601084412)<br />
 6. []()<br />
-7. [可否留下一张你近期拍的照片以及照片背后的故事？](https://www.zhihu.com/question/603807485)<br />
-8. [潘功胜任中国人民银行党委书记，郭树清不再担任，哪些信息值得关注？](https://www.zhihu.com/question/609794310)<br />
-9. [2399 元起的 RTX4060 甜品卡正式上市，适合哪些人群购买？](https://www.zhihu.com/question/609280591)<br />
+7. []()<br />
+8. [可否留下一张你近期拍的照片以及照片背后的故事？](https://www.zhihu.com/question/603807485)<br />
+9. [潘功胜任中国人民银行党委书记，郭树清不再担任，哪些信息值得关注？](https://www.zhihu.com/question/609794310)<br />
 
 > 百度  
 
