@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 10:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 10:27:01</h4></div>
 
 > 微博  
 
@@ -10,19 +10,19 @@
 6. [朱一龙20亿票房男主](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%9920%E4%BA%BF%E7%A5%A8%E6%88%BF%E7%94%B7%E4%B8%BB%23&t=31&band_rank=6&Refer=top)<br />
 7. [正式被确诊为浣碧](https://s.weibo.com/weibo?q=%23%E6%AD%A3%E5%BC%8F%E8%A2%AB%E7%A1%AE%E8%AF%8A%E4%B8%BA%E6%B5%A3%E7%A2%A7%23&t=31&band_rank=7&Refer=top)<br />
 8. [女子去世7只猫继承217万遗产](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%8E%BB%E4%B8%967%E5%8F%AA%E7%8C%AB%E7%BB%A7%E6%89%BF217%E4%B8%87%E9%81%97%E4%BA%A7%23&t=31&band_rank=8&Refer=top)<br />
-9. [苏格兰呼吁女性生育时不用止痛药](https://s.weibo.com/weibo?q=%E8%8B%8F%E6%A0%BC%E5%85%B0%E5%91%BC%E5%90%81%E5%A5%B3%E6%80%A7%E7%94%9F%E8%82%B2%E6%97%B6%E4%B8%8D%E7%94%A8%E6%AD%A2%E7%97%9B%E8%8D%AF&t=31&band_rank=9&Refer=top)<br />
+9. [大学毕业生带小黄鸭坐火车被拒](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E6%AF%95%E4%B8%9A%E7%94%9F%E5%B8%A6%E5%B0%8F%E9%BB%84%E9%B8%AD%E5%9D%90%E7%81%AB%E8%BD%A6%E8%A2%AB%E6%8B%92%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [网传 K1505 次列车在苏州站未载所有乘客就发车，官方因「未观察到剩余旅客」致歉，哪些信息需要关注？](https://www.zhihu.com/question/609806278)<br />
-2. [开场后票价跳水也卖不掉，黄牛把 1700 元的周杰伦演唱会门票直接烧了，称烧了也不卖，如何看待此事？](https://www.zhihu.com/question/609780283)<br />
-3. [荷兰宣布将半导体相关产品纳入出口管制，商务部「表示坚决反对」，哪些信息值得关注？](https://www.zhihu.com/question/609805120)<br />
+2. [荷兰宣布将半导体相关产品纳入出口管制，商务部「表示坚决反对」，哪些信息值得关注？](https://www.zhihu.com/question/609805120)<br />
+3. [开场后票价跳水也卖不掉，黄牛把 1700 元的周杰伦演唱会门票直接烧了，称烧了也不卖，如何看待此事？](https://www.zhihu.com/question/609780283)<br />
 4. []()<br />
 5. [阿根廷计划用人民币支付 IMF 到期外债，如何看待此事？释放了什么信号？](https://www.zhihu.com/question/609598786)<br />
 6. [第 34 届金曲奖获奖名单公布，吴青峰​​​《马拉美的星期二》获年度专辑，你对各奖项归属满意吗？](https://www.zhihu.com/question/609813513)<br />
 7. [亚洲杯半决赛中国女篮大胜澳大利亚，挺进决赛将与日本争冠，如何评价这场比赛？](https://www.zhihu.com/question/609813838)<br />
-8. []()<br />
-9. [怎么才能让孩子明白有价值才会被爱，但又不让他缺爱?](https://www.zhihu.com/question/602376859)<br />
+8. [怎么才能让孩子明白有价值才会被爱，但又不让他缺爱?](https://www.zhihu.com/question/602376859)<br />
+9. []()<br />
 
 > 百度  
 
