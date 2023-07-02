@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 22:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 22:21:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [玉骨遥首播评价](https://s.weibo.com/weibo?q=%23%E7%8E%89%E9%AA%A8%E9%81%A5%E9%A6%96%E6%92%AD%E8%AF%84%E4%BB%B7%23&t=31&band_rank=6&Refer=top)<br />
 7. [大老远来找男朋友发现他没关空调](https://s.weibo.com/weibo?q=%E5%A4%A7%E8%80%81%E8%BF%9C%E6%9D%A5%E6%89%BE%E7%94%B7%E6%9C%8B%E5%8F%8B%E5%8F%91%E7%8E%B0%E4%BB%96%E6%B2%A1%E5%85%B3%E7%A9%BA%E8%B0%83&t=31&band_rank=7&Refer=top)<br />
 8. [玉骨遥取景地梦回陈情令](https://s.weibo.com/weibo?q=%23%E7%8E%89%E9%AA%A8%E9%81%A5%E5%8F%96%E6%99%AF%E5%9C%B0%E6%A2%A6%E5%9B%9E%E9%99%88%E6%83%85%E4%BB%A4%23&t=31&band_rank=8&Refer=top)<br />
-9. [抑制食欲的办法 关空调](https://s.weibo.com/weibo?q=%E6%8A%91%E5%88%B6%E9%A3%9F%E6%AC%B2%E7%9A%84%E5%8A%9E%E6%B3%95%20%E5%85%B3%E7%A9%BA%E8%B0%83&t=31&band_rank=9&Refer=top)<br />
+9. [分手时送前任一束有眼无珠](https://s.weibo.com/weibo?q=%23%E5%88%86%E6%89%8B%E6%97%B6%E9%80%81%E5%89%8D%E4%BB%BB%E4%B8%80%E6%9D%9F%E6%9C%89%E7%9C%BC%E6%97%A0%E7%8F%A0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
