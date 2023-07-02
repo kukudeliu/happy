@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 09:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 09:41:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [朱一龙20亿票房男主](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%9920%E4%BA%BF%E7%A5%A8%E6%88%BF%E7%94%B7%E4%B8%BB%23&t=31&band_rank=5&Refer=top)<br />
 6. [大学毕业生带小黄鸭坐火车被拒](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E6%AF%95%E4%B8%9A%E7%94%9F%E5%B8%A6%E5%B0%8F%E9%BB%84%E9%B8%AD%E5%9D%90%E7%81%AB%E8%BD%A6%E8%A2%AB%E6%8B%92%23&t=31&band_rank=6&Refer=top)<br />
 7. [退休老人认18个爸妈为其养老送终](https://s.weibo.com/weibo?q=%23%E9%80%80%E4%BC%91%E8%80%81%E4%BA%BA%E8%AE%A418%E4%B8%AA%E7%88%B8%E5%A6%88%E4%B8%BA%E5%85%B6%E5%85%BB%E8%80%81%E9%80%81%E7%BB%88%23&t=31&band_rank=7&Refer=top)<br />
-8. [法国](https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%23&t=31&band_rank=8&Refer=top)<br />
-9. [今天是平分2023年的一天](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%B9%B3%E5%88%862023%E5%B9%B4%E7%9A%84%E4%B8%80%E5%A4%A9%23&t=31&band_rank=9&Refer=top)<br />
+8. [今天是平分2023年的一天](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%B9%B3%E5%88%862023%E5%B9%B4%E7%9A%84%E4%B8%80%E5%A4%A9%23&t=31&band_rank=8&Refer=top)<br />
+9. [黄子韬说让马伯骞去干建筑师](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E8%AF%B4%E8%AE%A9%E9%A9%AC%E4%BC%AF%E9%AA%9E%E5%8E%BB%E5%B9%B2%E5%BB%BA%E7%AD%91%E5%B8%88%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
