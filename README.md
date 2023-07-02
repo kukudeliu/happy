@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 03:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 03:13:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [成都一草坪惊现上百条“蚊卷风”](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E4%B8%80%E8%8D%89%E5%9D%AA%E6%83%8A%E7%8E%B0%E4%B8%8A%E7%99%BE%E6%9D%A1%E2%80%9C%E8%9A%8A%E5%8D%B7%E9%A3%8E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [导游对打呼噜游客说要不你下车](https://www.baidu.com/s?wd=%E5%AF%BC%E6%B8%B8%E5%AF%B9%E6%89%93%E5%91%BC%E5%99%9C%E6%B8%B8%E5%AE%A2%E8%AF%B4%E8%A6%81%E4%B8%8D%E4%BD%A0%E4%B8%8B%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [王宝强导演电影票房破10亿](https://www.baidu.com/s?wd=%E7%8E%8B%E5%AE%9D%E5%BC%BA%E5%AF%BC%E6%BC%94%E7%94%B5%E5%BD%B1%E7%A5%A8%E6%88%BF%E7%A0%B410%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [大鹏全麻前最后一瞬遭遇暴击](https://www.baidu.com/s?wd=%E5%A4%A7%E9%B9%8F%E5%85%A8%E9%BA%BB%E5%89%8D%E6%9C%80%E5%90%8E%E4%B8%80%E7%9E%AC%E9%81%AD%E9%81%87%E6%9A%B4%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [“执法犬队”事件系10岁熊孩子所为](https://www.baidu.com/s?wd=%E2%80%9C%E6%89%A7%E6%B3%95%E7%8A%AC%E9%98%9F%E2%80%9D%E4%BA%8B%E4%BB%B6%E7%B3%BB10%E5%B2%81%E7%86%8A%E5%AD%A9%E5%AD%90%E6%89%80%E4%B8%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [媒体：蔡徐坤事件不能总靠爆料来挖](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E8%94%A1%E5%BE%90%E5%9D%A4%E4%BA%8B%E4%BB%B6%E4%B8%8D%E8%83%BD%E6%80%BB%E9%9D%A0%E7%88%86%E6%96%99%E6%9D%A5%E6%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [小S拖家带口现身厦门酒店](https://www.baidu.com/s?wd=%E5%B0%8FS%E6%8B%96%E5%AE%B6%E5%B8%A6%E5%8F%A3%E7%8E%B0%E8%BA%AB%E5%8E%A6%E9%97%A8%E9%85%92%E5%BA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [成都一草坪惊现上百条“蚊卷风”](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E4%B8%80%E8%8D%89%E5%9D%AA%E6%83%8A%E7%8E%B0%E4%B8%8A%E7%99%BE%E6%9D%A1%E2%80%9C%E8%9A%8A%E5%8D%B7%E9%A3%8E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [导游对打呼噜游客说要不你下车](https://www.baidu.com/s?wd=%E5%AF%BC%E6%B8%B8%E5%AF%B9%E6%89%93%E5%91%BC%E5%99%9C%E6%B8%B8%E5%AE%A2%E8%AF%B4%E8%A6%81%E4%B8%8D%E4%BD%A0%E4%B8%8B%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [王宝强导演电影票房破10亿](https://www.baidu.com/s?wd=%E7%8E%8B%E5%AE%9D%E5%BC%BA%E5%AF%BC%E6%BC%94%E7%94%B5%E5%BD%B1%E7%A5%A8%E6%88%BF%E7%A0%B410%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [大鹏全麻前最后一瞬遭遇暴击](https://www.baidu.com/s?wd=%E5%A4%A7%E9%B9%8F%E5%85%A8%E9%BA%BB%E5%89%8D%E6%9C%80%E5%90%8E%E4%B8%80%E7%9E%AC%E9%81%AD%E9%81%87%E6%9A%B4%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [“执法犬队”事件系10岁熊孩子所为](https://www.baidu.com/s?wd=%E2%80%9C%E6%89%A7%E6%B3%95%E7%8A%AC%E9%98%9F%E2%80%9D%E4%BA%8B%E4%BB%B6%E7%B3%BB10%E5%B2%81%E7%86%8A%E5%AD%A9%E5%AD%90%E6%89%80%E4%B8%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [媒体：蔡徐坤事件不能总靠爆料来挖](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E8%94%A1%E5%BE%90%E5%9D%A4%E4%BA%8B%E4%BB%B6%E4%B8%8D%E8%83%BD%E6%80%BB%E9%9D%A0%E7%88%86%E6%96%99%E6%9D%A5%E6%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [小S拖家带口现身厦门酒店](https://www.baidu.com/s?wd=%E5%B0%8FS%E6%8B%96%E5%AE%B6%E5%B8%A6%E5%8F%A3%E7%8E%B0%E8%BA%AB%E5%8E%A6%E9%97%A8%E9%85%92%E5%BA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
