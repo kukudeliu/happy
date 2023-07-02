@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 11:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 11:26:01</h4></div>
 
 > 微博  
 
-1. [蔡徐坤豆瓣主页正常了](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E8%B1%86%E7%93%A3%E4%B8%BB%E9%A1%B5%E6%AD%A3%E5%B8%B8%E4%BA%86%23&t=31&band_rank=1&Refer=top)<br />
-2. [大妈用高铁上的插座焖了一锅米饭](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%A6%88%E7%94%A8%E9%AB%98%E9%93%81%E4%B8%8A%E7%9A%84%E6%8F%92%E5%BA%A7%E7%84%96%E4%BA%86%E4%B8%80%E9%94%85%E7%B1%B3%E9%A5%AD&t=31&band_rank=2&Refer=top)<br />
+1. [大妈用高铁上的插座焖了一锅米饭](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%A6%88%E7%94%A8%E9%AB%98%E9%93%81%E4%B8%8A%E7%9A%84%E6%8F%92%E5%BA%A7%E7%84%96%E4%BA%86%E4%B8%80%E9%94%85%E7%B1%B3%E9%A5%AD&t=31&band_rank=1&Refer=top)<br />
+2. [蔡徐坤豆瓣主页正常了](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E8%B1%86%E7%93%A3%E4%B8%BB%E9%A1%B5%E6%AD%A3%E5%B8%B8%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [终于知道我头发油的原因了](https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E6%88%91%E5%A4%B4%E5%8F%91%E6%B2%B9%E7%9A%84%E5%8E%9F%E5%9B%A0%E4%BA%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [杨洋王楚然我的人间烟火新预告](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B4%8B%E7%8E%8B%E6%A5%9A%E7%84%B6%E6%88%91%E7%9A%84%E4%BA%BA%E9%97%B4%E7%83%9F%E7%81%AB%E6%96%B0%E9%A2%84%E5%91%8A%23&t=31&band_rank=4&Refer=top)<br />
 5. [正式被确诊为浣碧](https://s.weibo.com/weibo?q=%23%E6%AD%A3%E5%BC%8F%E8%A2%AB%E7%A1%AE%E8%AF%8A%E4%B8%BA%E6%B5%A3%E7%A2%A7%23&t=31&band_rank=5&Refer=top)<br />
