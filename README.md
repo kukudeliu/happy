@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 14:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 14:34:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [青藏铁路开启动车时代](https://s.weibo.com/weibo?q=%23%E9%9D%92%E8%97%8F%E9%93%81%E8%B7%AF%E5%BC%80%E5%90%AF%E5%8A%A8%E8%BD%A6%E6%97%B6%E4%BB%A3%23&t=31&band_rank=3&Refer=top)<br />
 4. [王鹤棣圈内最好的朋友是宋伊人](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%9C%88%E5%86%85%E6%9C%80%E5%A5%BD%E7%9A%84%E6%9C%8B%E5%8F%8B%E6%98%AF%E5%AE%8B%E4%BC%8A%E4%BA%BA%23&t=31&band_rank=4&Refer=top)<br />
 5. [大鹏全麻前最后一瞬遭遇暴击](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%B9%8F%E5%85%A8%E9%BA%BB%E5%89%8D%E6%9C%80%E5%90%8E%E4%B8%80%E7%9E%AC%E9%81%AD%E9%81%87%E6%9A%B4%E5%87%BB%23&t=31&band_rank=5&Refer=top)<br />
-6. [法国警察射杀17岁少年引起骚乱](https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E8%AD%A6%E5%AF%9F%E5%B0%84%E6%9D%8017%E5%B2%81%E5%B0%91%E5%B9%B4%E5%BC%95%E8%B5%B7%E9%AA%9A%E4%B9%B1%23&t=31&band_rank=6&Refer=top)<br />
-7. [中国的学生最缺少什么教育](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%AD%A6%E7%94%9F%E6%9C%80%E7%BC%BA%E5%B0%91%E4%BB%80%E4%B9%88%E6%95%99%E8%82%B2&t=31&band_rank=7&Refer=top)<br />
-8. [尹净汉ins](https://s.weibo.com/weibo?q=%E5%B0%B9%E5%87%80%E6%B1%89ins&t=31&band_rank=8&Refer=top)<br />
-9. [宋妍霏带200多套衣服拍戏](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E5%A6%8D%E9%9C%8F%E5%B8%A6200%E5%A4%9A%E5%A5%97%E8%A1%A3%E6%9C%8D%E6%8B%8D%E6%88%8F%23&t=31&band_rank=9&Refer=top)<br />
+6. [中国的学生最缺少什么教育](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%AD%A6%E7%94%9F%E6%9C%80%E7%BC%BA%E5%B0%91%E4%BB%80%E4%B9%88%E6%95%99%E8%82%B2&t=31&band_rank=6&Refer=top)<br />
+7. [法国警察射杀17岁少年引起骚乱](https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E8%AD%A6%E5%AF%9F%E5%B0%84%E6%9D%8017%E5%B2%81%E5%B0%91%E5%B9%B4%E5%BC%95%E8%B5%B7%E9%AA%9A%E4%B9%B1%23&t=31&band_rank=7&Refer=top)<br />
+8. [王俊凯小时候给王源的信](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%B0%8F%E6%97%B6%E5%80%99%E7%BB%99%E7%8E%8B%E6%BA%90%E7%9A%84%E4%BF%A1%23&t=31&band_rank=8&Refer=top)<br />
+9. [李梦状态](https://s.weibo.com/weibo?q=%E6%9D%8E%E6%A2%A6%E7%8A%B6%E6%80%81&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -34,7 +34,7 @@
 6. [大妈用高铁上的插座焖了一锅米饭](https://www.baidu.com/s?wd=%E5%A4%A7%E5%A6%88%E7%94%A8%E9%AB%98%E9%93%81%E4%B8%8A%E7%9A%84%E6%8F%92%E5%BA%A7%E7%84%96%E4%BA%86%E4%B8%80%E9%94%85%E7%B1%B3%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [前交通局长孙女炫富事件仍在调查](https://www.baidu.com/s?wd=%E5%89%8D%E4%BA%A4%E9%80%9A%E5%B1%80%E9%95%BF%E5%AD%99%E5%A5%B3%E7%82%AB%E5%AF%8C%E4%BA%8B%E4%BB%B6%E4%BB%8D%E5%9C%A8%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女子去世7只猫继承217万遗产](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%8E%BB%E4%B8%967%E5%8F%AA%E7%8C%AB%E7%BB%A7%E6%89%BF217%E4%B8%87%E9%81%97%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子称住17楼未穿衣遭无人机偷拍](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E4%BD%8F17%E6%A5%BC%E6%9C%AA%E7%A9%BF%E8%A1%A3%E9%81%AD%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%81%B7%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [今天是平分2023年的一天](https://www.baidu.com/s?wd=%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%B9%B3%E5%88%862023%E5%B9%B4%E7%9A%84%E4%B8%80%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [大妈用高铁上的插座焖了一锅米饭](https://www.baidu.com/s?wd=%E5%A4%A7%E5%A6%88%E7%94%A8%E9%AB%98%E9%93%81%E4%B8%8A%E7%9A%84%E6%8F%92%E5%BA%A7%E7%84%96%E4%BA%86%E4%B8%80%E9%94%85%E7%B1%B3%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [前交通局长孙女炫富事件仍在调查](https://www.baidu.com/s?wd=%E5%89%8D%E4%BA%A4%E9%80%9A%E5%B1%80%E9%95%BF%E5%AD%99%E5%A5%B3%E7%82%AB%E5%AF%8C%E4%BA%8B%E4%BB%B6%E4%BB%8D%E5%9C%A8%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女子去世7只猫继承217万遗产](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%8E%BB%E4%B8%967%E5%8F%AA%E7%8C%AB%E7%BB%A7%E6%89%BF217%E4%B8%87%E9%81%97%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子称住17楼未穿衣遭无人机偷拍](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E4%BD%8F17%E6%A5%BC%E6%9C%AA%E7%A9%BF%E8%A1%A3%E9%81%AD%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%81%B7%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [今天是平分2023年的一天](https://www.baidu.com/s?wd=%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%B9%B3%E5%88%862023%E5%B9%B4%E7%9A%84%E4%B8%80%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
