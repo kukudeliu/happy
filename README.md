@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 15:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 15:29:01</h4></div>
 
 > 微博  
 
@@ -18,8 +18,8 @@
 2. [开场后票价跳水也卖不掉，黄牛把 1700 元的周杰伦演唱会门票直接烧了，称烧了也不卖，如何看待此事？](https://www.zhihu.com/question/609780283)<br />
 3. [巴黎奥运会一施工现场遭破坏，马赛最大图书馆被烧，马克龙推迟对德访问，法国多地骚乱，背后深层原因有哪些?](https://www.zhihu.com/question/609892911)<br />
 4. [如何看待中科大 QS2024 排名跌出 top100 排第 138？](https://www.zhihu.com/question/609135032)<br />
-5. [网传医院拒绝剖腹产致婴儿死亡，亲属称「妹妹曾 4 次要求剖腹产」，内江卫健委称「正处理」，如何看待？](https://www.zhihu.com/question/609391116)<br />
-6. [2023 女篮亚洲杯决赛，中国女篮终结日本 5 连冠，时隔 12 年再夺亚洲杯冠军，如何评价这场比赛？](https://www.zhihu.com/question/609920757)<br />
+5. [2023 女篮亚洲杯决赛，中国女篮终结日本 5 连冠，时隔 12 年再夺亚洲杯冠军，如何评价这场比赛？](https://www.zhihu.com/question/609920757)<br />
+6. [网传医院拒绝剖腹产致婴儿死亡，亲属称「妹妹曾 4 次要求剖腹产」，内江卫健委称「正处理」，如何看待？](https://www.zhihu.com/question/609391116)<br />
 7. [中央空调一拖三好还是三个一拖一好？](https://www.zhihu.com/question/524987232)<br />
 8. [既然哥德尔已经证明了数学不能公理化，为什么物理学家还相信大一统呢？](https://www.zhihu.com/question/28078123)<br />
 9. [2399 元起的 RTX4060 甜品卡正式上市，适合哪些人群购买？](https://www.zhihu.com/question/609280591)<br />
@@ -33,8 +33,8 @@
 5. [男生看完《消失的她》后共情大哭](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E7%9C%8B%E5%AE%8C%E3%80%8A%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E3%80%8B%E5%90%8E%E5%85%B1%E6%83%85%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大鹏全麻前最后一瞬遭遇暴击](https://www.baidu.com/s?wd=%E5%A4%A7%E9%B9%8F%E5%85%A8%E9%BA%BB%E5%89%8D%E6%9C%80%E5%90%8E%E4%B8%80%E7%9E%AC%E9%81%AD%E9%81%87%E6%9A%B4%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [留守儿童因缺钱哭着给爸爸打电话](https://www.baidu.com/s?wd=%E7%95%99%E5%AE%88%E5%84%BF%E7%AB%A5%E5%9B%A0%E7%BC%BA%E9%92%B1%E5%93%AD%E7%9D%80%E7%BB%99%E7%88%B8%E7%88%B8%E6%89%93%E7%94%B5%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子称住17楼未穿衣遭无人机偷拍](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E4%BD%8F17%E6%A5%BC%E6%9C%AA%E7%A9%BF%E8%A1%A3%E9%81%AD%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%81%B7%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [韩86岁男演员涉嫌性侵女学生被捕](https://www.baidu.com/s?wd=%E9%9F%A986%E5%B2%81%E7%94%B7%E6%BC%94%E5%91%98%E6%B6%89%E5%AB%8C%E6%80%A7%E4%BE%B5%E5%A5%B3%E5%AD%A6%E7%94%9F%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [韩86岁男演员涉嫌性侵女学生被捕](https://www.baidu.com/s?wd=%E9%9F%A986%E5%B2%81%E7%94%B7%E6%BC%94%E5%91%98%E6%B6%89%E5%AB%8C%E6%80%A7%E4%BE%B5%E5%A5%B3%E5%AD%A6%E7%94%9F%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子称住17楼未穿衣遭无人机偷拍](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E4%BD%8F17%E6%A5%BC%E6%9C%AA%E7%A9%BF%E8%A1%A3%E9%81%AD%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%81%B7%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [男生看完《消失的她》后共情大哭](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E7%9C%8B%E5%AE%8C%E3%80%8A%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E3%80%8B%E5%90%8E%E5%85%B1%E6%83%85%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大鹏全麻前最后一瞬遭遇暴击](https://www.baidu.com/s?wd=%E5%A4%A7%E9%B9%8F%E5%85%A8%E9%BA%BB%E5%89%8D%E6%9C%80%E5%90%8E%E4%B8%80%E7%9E%AC%E9%81%AD%E9%81%87%E6%9A%B4%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [留守儿童因缺钱哭着给爸爸打电话](https://www.baidu.com/s?wd=%E7%95%99%E5%AE%88%E5%84%BF%E7%AB%A5%E5%9B%A0%E7%BC%BA%E9%92%B1%E5%93%AD%E7%9D%80%E7%BB%99%E7%88%B8%E7%88%B8%E6%89%93%E7%94%B5%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子称住17楼未穿衣遭无人机偷拍](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E4%BD%8F17%E6%A5%BC%E6%9C%AA%E7%A9%BF%E8%A1%A3%E9%81%AD%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%81%B7%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [韩86岁男演员涉嫌性侵女学生被捕](https://www.baidu.com/s?wd=%E9%9F%A986%E5%B2%81%E7%94%B7%E6%BC%94%E5%91%98%E6%B6%89%E5%AB%8C%E6%80%A7%E4%BE%B5%E5%A5%B3%E5%AD%A6%E7%94%9F%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [韩86岁男演员涉嫌性侵女学生被捕](https://www.baidu.com/s?wd=%E9%9F%A986%E5%B2%81%E7%94%B7%E6%BC%94%E5%91%98%E6%B6%89%E5%AB%8C%E6%80%A7%E4%BE%B5%E5%A5%B3%E5%AD%A6%E7%94%9F%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子称住17楼未穿衣遭无人机偷拍](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E4%BD%8F17%E6%A5%BC%E6%9C%AA%E7%A9%BF%E8%A1%A3%E9%81%AD%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%81%B7%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
