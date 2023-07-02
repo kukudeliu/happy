@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 13:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 13:23:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [潘功胜任中国人民银行党委书记，郭树清不再担任，哪些信息值得关注？](https://www.zhihu.com/question/609794310)<br />
 7. [如何看待小鹏 G6 上市价格 20.99 万起？](https://www.zhihu.com/question/609476325)<br />
 8. [《流浪地球 2》中没抽到签的人怎么办？](https://www.zhihu.com/question/580053079)<br />
-9. [有没有一张照片让你觉得你的猫被你养的很好？](https://www.zhihu.com/question/596919746)<br />
+9. [「全职儿女」按下职场暂停键回家给父母「打工」，如何看待这一现象？是逃避现实还是回归生活？](https://www.zhihu.com/question/609890590)<br />
 
 > 百度  
 
