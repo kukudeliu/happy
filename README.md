@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 21:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 21:13:01</h4></div>
 
 > 微博  
 
-1. [室友卖掉了我将近十年的青春](https://s.weibo.com/weibo?q=%23%E5%AE%A4%E5%8F%8B%E5%8D%96%E6%8E%89%E4%BA%86%E6%88%91%E5%B0%86%E8%BF%91%E5%8D%81%E5%B9%B4%E7%9A%84%E9%9D%92%E6%98%A5%23&t=31&band_rank=1&Refer=top)<br />
-2. [玉骨遥今日开播](https://s.weibo.com/weibo?q=%23%E7%8E%89%E9%AA%A8%E9%81%A5%E4%BB%8A%E6%97%A5%E5%BC%80%E6%92%AD%23&t=31&band_rank=2&Refer=top)<br />
+1. [玉骨遥今日开播](https://s.weibo.com/weibo?q=%23%E7%8E%89%E9%AA%A8%E9%81%A5%E4%BB%8A%E6%97%A5%E5%BC%80%E6%92%AD%23&t=31&band_rank=1&Refer=top)<br />
+2. [室友卖掉了我将近十年的青春](https://s.weibo.com/weibo?q=%23%E5%AE%A4%E5%8F%8B%E5%8D%96%E6%8E%89%E4%BA%86%E6%88%91%E5%B0%86%E8%BF%91%E5%8D%81%E5%B9%B4%E7%9A%84%E9%9D%92%E6%98%A5%23&t=31&band_rank=2&Refer=top)<br />
 3. [中国动车组单列试验时速453公里](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%8A%A8%E8%BD%A6%E7%BB%84%E5%8D%95%E5%88%97%E8%AF%95%E9%AA%8C%E6%97%B6%E9%80%9F453%E5%85%AC%E9%87%8C%23&t=31&band_rank=3&Refer=top)<br />
 4. [玉骨遥首播评价](https://s.weibo.com/weibo?q=%23%E7%8E%89%E9%AA%A8%E9%81%A5%E9%A6%96%E6%92%AD%E8%AF%84%E4%BB%B7%23&t=31&band_rank=4&Refer=top)<br />
 5. [宁安如梦](https://s.weibo.com/weibo?q=%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6&t=31&band_rank=5&Refer=top)<br />
