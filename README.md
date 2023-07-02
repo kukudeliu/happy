@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 13:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-02 13:46:02</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [法国警察射杀17岁少年引起骚乱](https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E8%AD%A6%E5%AF%9F%E5%B0%84%E6%9D%8017%E5%B2%81%E5%B0%91%E5%B9%B4%E5%BC%95%E8%B5%B7%E9%AA%9A%E4%B9%B1%23&t=31&band_rank=4&Refer=top)<br />
 5. [尹净汉ins](https://s.weibo.com/weibo?q=%E5%B0%B9%E5%87%80%E6%B1%89ins&t=31&band_rank=5&Refer=top)<br />
 6. [宋妍霏带200多套衣服拍戏](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E5%A6%8D%E9%9C%8F%E5%B8%A6200%E5%A4%9A%E5%A5%97%E8%A1%A3%E6%9C%8D%E6%8B%8D%E6%88%8F%23&t=31&band_rank=6&Refer=top)<br />
-7. [终于知道我头发油的原因了](https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E6%88%91%E5%A4%B4%E5%8F%91%E6%B2%B9%E7%9A%84%E5%8E%9F%E5%9B%A0%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [迪丽热巴工作室公布维权情况进展](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%85%AC%E5%B8%83%E7%BB%B4%E6%9D%83%E6%83%85%E5%86%B5%E8%BF%9B%E5%B1%95%23&t=31&band_rank=8&Refer=top)<br />
+7. [迪丽热巴工作室公布维权情况进展](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%85%AC%E5%B8%83%E7%BB%B4%E6%9D%83%E6%83%85%E5%86%B5%E8%BF%9B%E5%B1%95%23&t=31&band_rank=7&Refer=top)<br />
+8. [终于知道我头发油的原因了](https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E6%88%91%E5%A4%B4%E5%8F%91%E6%B2%B9%E7%9A%84%E5%8E%9F%E5%9B%A0%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [凌肖 查无此人](https://s.weibo.com/weibo?q=%E5%87%8C%E8%82%96%20%E6%9F%A5%E6%97%A0%E6%AD%A4%E4%BA%BA&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
