@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 02:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 02:14:01</h4></div>
 
 > 微博  
 
@@ -6,9 +6,9 @@
 2. [龚俊周杰伦合唱发如雪](https://s.weibo.com/weibo?q=%23%E9%BE%9A%E4%BF%8A%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%90%88%E5%94%B1%E5%8F%91%E5%A6%82%E9%9B%AA%23&t=31&band_rank=2&Refer=top)<br />
 3. [中国动车组单列试验时速453公里](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%8A%A8%E8%BD%A6%E7%BB%84%E5%8D%95%E5%88%97%E8%AF%95%E9%AA%8C%E6%97%B6%E9%80%9F453%E5%85%AC%E9%87%8C%23&t=31&band_rank=3&Refer=top)<br />
 4. [ITZY](https://s.weibo.com/weibo?q=ITZY&t=31&band_rank=4&Refer=top)<br />
-5. [室友卖掉了我将近十年的青春](https://s.weibo.com/weibo?q=%23%E5%AE%A4%E5%8F%8B%E5%8D%96%E6%8E%89%E4%BA%86%E6%88%91%E5%B0%86%E8%BF%91%E5%8D%81%E5%B9%B4%E7%9A%84%E9%9D%92%E6%98%A5%23&t=31&band_rank=5&Refer=top)<br />
+5. [毒蘑菇导致幻觉动感图](https://s.weibo.com/weibo?q=%E6%AF%92%E8%98%91%E8%8F%87%E5%AF%BC%E8%87%B4%E5%B9%BB%E8%A7%89%E5%8A%A8%E6%84%9F%E5%9B%BE&t=31&band_rank=5&Refer=top)<br />
 6. [只能骗骗涉世未深的小狗](https://s.weibo.com/weibo?q=%E5%8F%AA%E8%83%BD%E9%AA%97%E9%AA%97%E6%B6%89%E4%B8%96%E6%9C%AA%E6%B7%B1%E7%9A%84%E5%B0%8F%E7%8B%97&t=31&band_rank=6&Refer=top)<br />
-7. [毒蘑菇导致幻觉动感图](https://s.weibo.com/weibo?q=%E6%AF%92%E8%98%91%E8%8F%87%E5%AF%BC%E8%87%B4%E5%B9%BB%E8%A7%89%E5%8A%A8%E6%84%9F%E5%9B%BE&t=31&band_rank=7&Refer=top)<br />
+7. [室友卖掉了我将近十年的青春](https://s.weibo.com/weibo?q=%23%E5%AE%A4%E5%8F%8B%E5%8D%96%E6%8E%89%E4%BA%86%E6%88%91%E5%B0%86%E8%BF%91%E5%8D%81%E5%B9%B4%E7%9A%84%E9%9D%92%E6%98%A5%23&t=31&band_rank=7&Refer=top)<br />
 8. [大老远来找男朋友发现他没关空调](https://s.weibo.com/weibo?q=%E5%A4%A7%E8%80%81%E8%BF%9C%E6%9D%A5%E6%89%BE%E7%94%B7%E6%9C%8B%E5%8F%8B%E5%8F%91%E7%8E%B0%E4%BB%96%E6%B2%A1%E5%85%B3%E7%A9%BA%E8%B0%83&t=31&band_rank=8&Refer=top)<br />
 9. [为什么建议年轻时多谈恋爱](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BB%BA%E8%AE%AE%E5%B9%B4%E8%BD%BB%E6%97%B6%E5%A4%9A%E8%B0%88%E6%81%8B%E7%88%B1%23&t=31&band_rank=9&Refer=top)<br />
 
@@ -31,10 +31,10 @@
 3. [大妈称月薪5000生娃比赚5个亿优秀](https://www.baidu.com/s?wd=%E5%A4%A7%E5%A6%88%E7%A7%B0%E6%9C%88%E8%96%AA5000%E7%94%9F%E5%A8%83%E6%AF%94%E8%B5%9A5%E4%B8%AA%E4%BA%BF%E4%BC%98%E7%A7%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [殷殷挂念暖香江](https://www.baidu.com/s?wd=%E6%AE%B7%E6%AE%B7%E6%8C%82%E5%BF%B5%E6%9A%96%E9%A6%99%E6%B1%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [成都一草坪惊现上百条“蚊卷风”](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E4%B8%80%E8%8D%89%E5%9D%AA%E6%83%8A%E7%8E%B0%E4%B8%8A%E7%99%BE%E6%9D%A1%E2%80%9C%E8%9A%8A%E5%8D%B7%E9%A3%8E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [李一桐在飞机上脱鞋被拍](https://www.baidu.com/s?wd=%E6%9D%8E%E4%B8%80%E6%A1%90%E5%9C%A8%E9%A3%9E%E6%9C%BA%E4%B8%8A%E8%84%B1%E9%9E%8B%E8%A2%AB%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [祝贺！韩旭双料MVP](https://www.baidu.com/s?wd=%E7%A5%9D%E8%B4%BA%EF%BC%81%E9%9F%A9%E6%97%AD%E5%8F%8C%E6%96%99MVP&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [王宝强导演电影票房破10亿](https://www.baidu.com/s?wd=%E7%8E%8B%E5%AE%9D%E5%BC%BA%E5%AF%BC%E6%BC%94%E7%94%B5%E5%BD%B1%E7%A5%A8%E6%88%BF%E7%A0%B410%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [浙师大学生向他人泼热水被留校察看](https://www.baidu.com/s?wd=%E6%B5%99%E5%B8%88%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%90%91%E4%BB%96%E4%BA%BA%E6%B3%BC%E7%83%AD%E6%B0%B4%E8%A2%AB%E7%95%99%E6%A0%A1%E5%AF%9F%E7%9C%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [浙师大学生向他人泼热水被留校察看](https://www.baidu.com/s?wd=%E6%B5%99%E5%B8%88%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%90%91%E4%BB%96%E4%BA%BA%E6%B3%BC%E7%83%AD%E6%B0%B4%E8%A2%AB%E7%95%99%E6%A0%A1%E5%AF%9F%E7%9C%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [李一桐在飞机上脱鞋被拍](https://www.baidu.com/s?wd=%E6%9D%8E%E4%B8%80%E6%A1%90%E5%9C%A8%E9%A3%9E%E6%9C%BA%E4%B8%8A%E8%84%B1%E9%9E%8B%E8%A2%AB%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [韩议员组团去市场喝养殖池海水](https://www.baidu.com/s?wd=%E9%9F%A9%E8%AE%AE%E5%91%98%E7%BB%84%E5%9B%A2%E5%8E%BB%E5%B8%82%E5%9C%BA%E5%96%9D%E5%85%BB%E6%AE%96%E6%B1%A0%E6%B5%B7%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [小S拖家带口现身厦门酒店](https://www.baidu.com/s?wd=%E5%B0%8FS%E6%8B%96%E5%AE%B6%E5%B8%A6%E5%8F%A3%E7%8E%B0%E8%BA%AB%E5%8E%A6%E9%97%A8%E9%85%92%E5%BA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [大妈称月薪5000生娃比赚5个亿优秀](https://www.baidu.com/s?wd=%E5%A4%A7%E5%A6%88%E7%A7%B0%E6%9C%88%E8%96%AA5000%E7%94%9F%E5%A8%83%E6%AF%94%E8%B5%9A5%E4%B8%AA%E4%BA%BF%E4%BC%98%E7%A7%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [殷殷挂念暖香江](https://www.baidu.com/s?wd=%E6%AE%B7%E6%AE%B7%E6%8C%82%E5%BF%B5%E6%9A%96%E9%A6%99%E6%B1%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [成都一草坪惊现上百条“蚊卷风”](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E4%B8%80%E8%8D%89%E5%9D%AA%E6%83%8A%E7%8E%B0%E4%B8%8A%E7%99%BE%E6%9D%A1%E2%80%9C%E8%9A%8A%E5%8D%B7%E9%A3%8E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [李一桐在飞机上脱鞋被拍](https://www.baidu.com/s?wd=%E6%9D%8E%E4%B8%80%E6%A1%90%E5%9C%A8%E9%A3%9E%E6%9C%BA%E4%B8%8A%E8%84%B1%E9%9E%8B%E8%A2%AB%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [祝贺！韩旭双料MVP](https://www.baidu.com/s?wd=%E7%A5%9D%E8%B4%BA%EF%BC%81%E9%9F%A9%E6%97%AD%E5%8F%8C%E6%96%99MVP&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [王宝强导演电影票房破10亿](https://www.baidu.com/s?wd=%E7%8E%8B%E5%AE%9D%E5%BC%BA%E5%AF%BC%E6%BC%94%E7%94%B5%E5%BD%B1%E7%A5%A8%E6%88%BF%E7%A0%B410%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [浙师大学生向他人泼热水被留校察看](https://www.baidu.com/s?wd=%E6%B5%99%E5%B8%88%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%90%91%E4%BB%96%E4%BA%BA%E6%B3%BC%E7%83%AD%E6%B0%B4%E8%A2%AB%E7%95%99%E6%A0%A1%E5%AF%9F%E7%9C%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [浙师大学生向他人泼热水被留校察看](https://www.baidu.com/s?wd=%E6%B5%99%E5%B8%88%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%90%91%E4%BB%96%E4%BA%BA%E6%B3%BC%E7%83%AD%E6%B0%B4%E8%A2%AB%E7%95%99%E6%A0%A1%E5%AF%9F%E7%9C%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [李一桐在飞机上脱鞋被拍](https://www.baidu.com/s?wd=%E6%9D%8E%E4%B8%80%E6%A1%90%E5%9C%A8%E9%A3%9E%E6%9C%BA%E4%B8%8A%E8%84%B1%E9%9E%8B%E8%A2%AB%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [韩议员组团去市场喝养殖池海水](https://www.baidu.com/s?wd=%E9%9F%A9%E8%AE%AE%E5%91%98%E7%BB%84%E5%9B%A2%E5%8E%BB%E5%B8%82%E5%9C%BA%E5%96%9D%E5%85%BB%E6%AE%96%E6%B1%A0%E6%B5%B7%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [小S拖家带口现身厦门酒店](https://www.baidu.com/s?wd=%E5%B0%8FS%E6%8B%96%E5%AE%B6%E5%B8%A6%E5%8F%A3%E7%8E%B0%E8%BA%AB%E5%8E%A6%E9%97%A8%E9%85%92%E5%BA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
