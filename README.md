@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 00:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 00:14:01</h4></div>
 
 > 微博  
 
-1. [沪上阿姨回应一杯开水卖10元](https://s.weibo.com/weibo?q=%23%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%E5%9B%9E%E5%BA%94%E4%B8%80%E6%9D%AF%E5%BC%80%E6%B0%B4%E5%8D%9610%E5%85%83%23&t=31&band_rank=1&Refer=top)<br />
-2. [369](https://s.weibo.com/weibo?q=369&t=31&band_rank=2&Refer=top)<br />
+1. [369](https://s.weibo.com/weibo?q=369&t=31&band_rank=1&Refer=top)<br />
+2. [沪上阿姨回应一杯开水卖10元](https://s.weibo.com/weibo?q=%23%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%E5%9B%9E%E5%BA%94%E4%B8%80%E6%9D%AF%E5%BC%80%E6%B0%B4%E5%8D%9610%E5%85%83%23&t=31&band_rank=2&Refer=top)<br />
 3. [巨型海底盲盒开出超18万件文物](https://s.weibo.com/weibo?q=%23%E5%B7%A8%E5%9E%8B%E6%B5%B7%E5%BA%95%E7%9B%B2%E7%9B%92%E5%BC%80%E5%87%BA%E8%B6%8518%E4%B8%87%E4%BB%B6%E6%96%87%E7%89%A9%23&t=31&band_rank=3&Refer=top)<br />
 4. [蔡徐坤委托律所将提起刑事自诉](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E5%A7%94%E6%89%98%E5%BE%8B%E6%89%80%E5%B0%86%E6%8F%90%E8%B5%B7%E5%88%91%E4%BA%8B%E8%87%AA%E8%AF%89%23&t=31&band_rank=4&Refer=top)<br />
 5. [爷爷得知孙子四千元买条狗直接上秤](https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E5%BE%97%E7%9F%A5%E5%AD%99%E5%AD%90%E5%9B%9B%E5%8D%83%E5%85%83%E4%B9%B0%E6%9D%A1%E7%8B%97%E7%9B%B4%E6%8E%A5%E4%B8%8A%E7%A7%A4%23&t=31&band_rank=5&Refer=top)<br />
@@ -32,8 +32,8 @@
 4. [暑期游新玩法折射消费新趋势](https://www.baidu.com/s?wd=%E6%9A%91%E6%9C%9F%E6%B8%B8%E6%96%B0%E7%8E%A9%E6%B3%95%E6%8A%98%E5%B0%84%E6%B6%88%E8%B4%B9%E6%96%B0%E8%B6%8B%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [沪上阿姨回应一杯开水卖10元](https://www.baidu.com/s?wd=%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%E5%9B%9E%E5%BA%94%E4%B8%80%E6%9D%AF%E5%BC%80%E6%B0%B4%E5%8D%9610%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [浙江仙居太阳像戴了美瞳](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%BB%99%E5%B1%85%E5%A4%AA%E9%98%B3%E5%83%8F%E6%88%B4%E4%BA%86%E7%BE%8E%E7%9E%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [李承铉参加张杰谢娜婚礼晕倒了](https://www.baidu.com/s?wd=%E6%9D%8E%E6%89%BF%E9%93%89%E5%8F%82%E5%8A%A0%E5%BC%A0%E6%9D%B0%E8%B0%A2%E5%A8%9C%E5%A9%9A%E7%A4%BC%E6%99%95%E5%80%92%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [孟子义把周也哄睡后去打牌](https://www.baidu.com/s?wd=%E5%AD%9F%E5%AD%90%E4%B9%89%E6%8A%8A%E5%91%A8%E4%B9%9F%E5%93%84%E7%9D%A1%E5%90%8E%E5%8E%BB%E6%89%93%E7%89%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [河南一男子持刀伤人后跳楼身亡](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E7%94%B7%E5%AD%90%E6%8C%81%E5%88%80%E4%BC%A4%E4%BA%BA%E5%90%8E%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [李承铉参加张杰谢娜婚礼晕倒了](https://www.baidu.com/s?wd=%E6%9D%8E%E6%89%BF%E9%93%89%E5%8F%82%E5%8A%A0%E5%BC%A0%E6%9D%B0%E8%B0%A2%E5%A8%9C%E5%A9%9A%E7%A4%BC%E6%99%95%E5%80%92%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [燕京啤酒董秘办回应蔡徐坤事件影响](https://www.baidu.com/s?wd=%E7%87%95%E4%BA%AC%E5%95%A4%E9%85%92%E8%91%A3%E7%A7%98%E5%8A%9E%E5%9B%9E%E5%BA%94%E8%94%A1%E5%BE%90%E5%9D%A4%E4%BA%8B%E4%BB%B6%E5%BD%B1%E5%93%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -44,6 +44,6 @@
 4. [暑期游新玩法折射消费新趋势](https://www.baidu.com/s?wd=%E6%9A%91%E6%9C%9F%E6%B8%B8%E6%96%B0%E7%8E%A9%E6%B3%95%E6%8A%98%E5%B0%84%E6%B6%88%E8%B4%B9%E6%96%B0%E8%B6%8B%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [沪上阿姨回应一杯开水卖10元](https://www.baidu.com/s?wd=%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%E5%9B%9E%E5%BA%94%E4%B8%80%E6%9D%AF%E5%BC%80%E6%B0%B4%E5%8D%9610%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [浙江仙居太阳像戴了美瞳](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%BB%99%E5%B1%85%E5%A4%AA%E9%98%B3%E5%83%8F%E6%88%B4%E4%BA%86%E7%BE%8E%E7%9E%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [李承铉参加张杰谢娜婚礼晕倒了](https://www.baidu.com/s?wd=%E6%9D%8E%E6%89%BF%E9%93%89%E5%8F%82%E5%8A%A0%E5%BC%A0%E6%9D%B0%E8%B0%A2%E5%A8%9C%E5%A9%9A%E7%A4%BC%E6%99%95%E5%80%92%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [孟子义把周也哄睡后去打牌](https://www.baidu.com/s?wd=%E5%AD%9F%E5%AD%90%E4%B9%89%E6%8A%8A%E5%91%A8%E4%B9%9F%E5%93%84%E7%9D%A1%E5%90%8E%E5%8E%BB%E6%89%93%E7%89%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [河南一男子持刀伤人后跳楼身亡](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E7%94%B7%E5%AD%90%E6%8C%81%E5%88%80%E4%BC%A4%E4%BA%BA%E5%90%8E%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [李承铉参加张杰谢娜婚礼晕倒了](https://www.baidu.com/s?wd=%E6%9D%8E%E6%89%BF%E9%93%89%E5%8F%82%E5%8A%A0%E5%BC%A0%E6%9D%B0%E8%B0%A2%E5%A8%9C%E5%A9%9A%E7%A4%BC%E6%99%95%E5%80%92%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [燕京啤酒董秘办回应蔡徐坤事件影响](https://www.baidu.com/s?wd=%E7%87%95%E4%BA%AC%E5%95%A4%E9%85%92%E8%91%A3%E7%A7%98%E5%8A%9E%E5%9B%9E%E5%BA%94%E8%94%A1%E5%BE%90%E5%9D%A4%E4%BA%8B%E4%BB%B6%E5%BD%B1%E5%93%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
