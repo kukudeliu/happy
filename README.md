@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 03:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 03:44:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [网友热议贵州村超「招一万民工月薪 3000 训练一年，选 30 人去踢世界杯」，如何评价这样的观点？](https://www.zhihu.com/question/610056090)<br />
 7. [上海一豪宅拍出 1.58 亿天价，单价超 34 万，或由得物创始人竞得，哪些信息值得关注？](https://www.zhihu.com/question/610023999)<br />
 8. [滔搏电子竞技俱乐部发声「被行政处罚的喻某波与旗下选手喻文波毫无关联」对此你有什么想说？](https://www.zhihu.com/question/610071455)<br />
-9. [一名北京地接导游在颐和园中暑送医，经抢救无效死亡，如何看待此事？高温天气户外作业如何预防中暑？](https://www.zhihu.com/question/610074062)<br />
+9. [山姆泡面桶已被炒至 1999 元一桶，仍有人购买，如何看待此事？背后是怎样的消费心理？](https://www.zhihu.com/question/610060285)<br />
 
 > 百度  
 
@@ -34,7 +34,7 @@
 6. [中国夫妻非洲遭枪杀 华商会悬赏追凶](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%AB%E5%A6%BB%E9%9D%9E%E6%B4%B2%E9%81%AD%E6%9E%AA%E6%9D%80+%E5%8D%8E%E5%95%86%E4%BC%9A%E6%82%AC%E8%B5%8F%E8%BF%BD%E5%87%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [墨西哥一市长连续2年与鳄鱼结婚](https://www.baidu.com/s?wd=%E5%A2%A8%E8%A5%BF%E5%93%A5%E4%B8%80%E5%B8%82%E9%95%BF%E8%BF%9E%E7%BB%AD2%E5%B9%B4%E4%B8%8E%E9%B3%84%E9%B1%BC%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [英国将首推水葬：沸水煮遗体4小时](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E5%B0%86%E9%A6%96%E6%8E%A8%E6%B0%B4%E8%91%AC%EF%BC%9A%E6%B2%B8%E6%B0%B4%E7%85%AE%E9%81%97%E4%BD%934%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [年轻人租房降级：住30元1天太空舱](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%A7%9F%E6%88%BF%E9%99%8D%E7%BA%A7%EF%BC%9A%E4%BD%8F30%E5%85%831%E5%A4%A9%E5%A4%AA%E7%A9%BA%E8%88%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [陕西一地遭50年一遇特大暴雨侵袭](https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF%E4%B8%80%E5%9C%B0%E9%81%AD50%E5%B9%B4%E4%B8%80%E9%81%87%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%A8%E4%BE%B5%E8%A2%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [中国夫妻非洲遭枪杀 华商会悬赏追凶](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%AB%E5%A6%BB%E9%9D%9E%E6%B4%B2%E9%81%AD%E6%9E%AA%E6%9D%80+%E5%8D%8E%E5%95%86%E4%BC%9A%E6%82%AC%E8%B5%8F%E8%BF%BD%E5%87%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [墨西哥一市长连续2年与鳄鱼结婚](https://www.baidu.com/s?wd=%E5%A2%A8%E8%A5%BF%E5%93%A5%E4%B8%80%E5%B8%82%E9%95%BF%E8%BF%9E%E7%BB%AD2%E5%B9%B4%E4%B8%8E%E9%B3%84%E9%B1%BC%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [英国将首推水葬：沸水煮遗体4小时](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E5%B0%86%E9%A6%96%E6%8E%A8%E6%B0%B4%E8%91%AC%EF%BC%9A%E6%B2%B8%E6%B0%B4%E7%85%AE%E9%81%97%E4%BD%934%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [年轻人租房降级：住30元1天太空舱](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%A7%9F%E6%88%BF%E9%99%8D%E7%BA%A7%EF%BC%9A%E4%BD%8F30%E5%85%831%E5%A4%A9%E5%A4%AA%E7%A9%BA%E8%88%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [陕西一地遭50年一遇特大暴雨侵袭](https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF%E4%B8%80%E5%9C%B0%E9%81%AD50%E5%B9%B4%E4%B8%80%E9%81%87%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%A8%E4%BE%B5%E8%A2%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
