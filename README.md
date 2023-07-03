@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 11:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 11:21:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [山姆泡面桶已被炒至1999元一桶](https://www.baidu.com/s?wd=%E5%B1%B1%E5%A7%86%E6%B3%A1%E9%9D%A2%E6%A1%B6%E5%B7%B2%E8%A2%AB%E7%82%92%E8%87%B31999%E5%85%83%E4%B8%80%E6%A1%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [环卫工儿子高考687分被多校争抢](https://www.baidu.com/s?wd=%E7%8E%AF%E5%8D%AB%E5%B7%A5%E5%84%BF%E5%AD%90%E9%AB%98%E8%80%83687%E5%88%86%E8%A2%AB%E5%A4%9A%E6%A0%A1%E4%BA%89%E6%8A%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [上海豪宅1.58亿成交 买家身份曝光](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E8%B1%AA%E5%AE%851.58%E4%BA%BF%E6%88%90%E4%BA%A4+%E4%B9%B0%E5%AE%B6%E8%BA%AB%E4%BB%BD%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [五旬女子被喊阿姨拒买单索赔2000](https://www.baidu.com/s?wd=%E4%BA%94%E6%97%AC%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%96%8A%E9%98%BF%E5%A7%A8%E6%8B%92%E4%B9%B0%E5%8D%95%E7%B4%A2%E8%B5%942000&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [陕西一地遭50年一遇特大暴雨侵袭](https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF%E4%B8%80%E5%9C%B0%E9%81%AD50%E5%B9%B4%E4%B8%80%E9%81%87%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%A8%E4%BE%B5%E8%A2%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [山姆泡面桶已被炒至1999元一桶](https://www.baidu.com/s?wd=%E5%B1%B1%E5%A7%86%E6%B3%A1%E9%9D%A2%E6%A1%B6%E5%B7%B2%E8%A2%AB%E7%82%92%E8%87%B31999%E5%85%83%E4%B8%80%E6%A1%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [环卫工儿子高考687分被多校争抢](https://www.baidu.com/s?wd=%E7%8E%AF%E5%8D%AB%E5%B7%A5%E5%84%BF%E5%AD%90%E9%AB%98%E8%80%83687%E5%88%86%E8%A2%AB%E5%A4%9A%E6%A0%A1%E4%BA%89%E6%8A%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [上海豪宅1.58亿成交 买家身份曝光](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E8%B1%AA%E5%AE%851.58%E4%BA%BF%E6%88%90%E4%BA%A4+%E4%B9%B0%E5%AE%B6%E8%BA%AB%E4%BB%BD%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [五旬女子被喊阿姨拒买单索赔2000](https://www.baidu.com/s?wd=%E4%BA%94%E6%97%AC%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%96%8A%E9%98%BF%E5%A7%A8%E6%8B%92%E4%B9%B0%E5%8D%95%E7%B4%A2%E8%B5%942000&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [陕西一地遭50年一遇特大暴雨侵袭](https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF%E4%B8%80%E5%9C%B0%E9%81%AD50%E5%B9%B4%E4%B8%80%E9%81%87%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%A8%E4%BE%B5%E8%A2%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
