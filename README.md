@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 15:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 15:44:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [苹果占 618 手机销量 42%，领先第二名近 200 万部，这一调查结果说明什么？](https://www.zhihu.com/question/609145071)<br />
 5. [黄河壶口瀑布安全墙、云南罗平九龙瀑布景区沿线围挡均已拆除，专家称应警惕筑墙挡景背后思维，如何看待此事？](https://www.zhihu.com/question/609988074)<br />
 6. [为什么杨毅说 CBA 的商业化程度甚至还不如 LPL？](https://www.zhihu.com/question/609130013)<br />
-7. [国内哪个男演员适合演《三体》里的罗辑？](https://www.zhihu.com/question/540660392)<br />
-8. [猫经常坐在院子中间，偶尔舔舔身上的毛，然后坐在那一个下午，它坐在那干什么？](https://www.zhihu.com/question/603451215)<br />
-9. [儿子被科索沃当局扣留，武契奇谴责科索沃领导人「没我儿子勇敢」，他儿子会面临什么？科索沃局势将如何发展？](https://www.zhihu.com/question/609485354)<br />
+7. [猫经常坐在院子中间，偶尔舔舔身上的毛，然后坐在那一个下午，它坐在那干什么？](https://www.zhihu.com/question/603451215)<br />
+8. [国内哪个男演员适合演《三体》里的罗辑？](https://www.zhihu.com/question/540660392)<br />
+9. [泰坦尼克号沉没的根本原因是什么？是不是本来是可以避免的？](https://www.zhihu.com/question/551424112)<br />
 
 > 百度  
 
