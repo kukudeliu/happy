@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 13:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 13:39:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [人大毕业生马某某被刑拘](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E5%A4%A7%E6%AF%95%E4%B8%9A%E7%94%9F%E9%A9%AC%E6%9F%90%E6%9F%90%E8%A2%AB%E5%88%91%E6%8B%98%23&t=31&band_rank=6&Refer=top)<br />
 7. [刘昊然胡子](https://s.weibo.com/weibo?q=%E5%88%98%E6%98%8A%E7%84%B6%E8%83%A1%E5%AD%90&t=31&band_rank=7&Refer=top)<br />
 8. [缅甸逃回男子忆水牢满地是血](https://s.weibo.com/weibo?q=%23%E7%BC%85%E7%94%B8%E9%80%83%E5%9B%9E%E7%94%B7%E5%AD%90%E5%BF%86%E6%B0%B4%E7%89%A2%E6%BB%A1%E5%9C%B0%E6%98%AF%E8%A1%80%23&t=31&band_rank=8&Refer=top)<br />
-9. [海口三子大闹周杰伦演唱会](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%8F%A3%E4%B8%89%E5%AD%90%E5%A4%A7%E9%97%B9%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=9&Refer=top)<br />
+9. [炎亚纶前往警局做笔录](https://s.weibo.com/weibo?q=%23%E7%82%8E%E4%BA%9A%E7%BA%B6%E5%89%8D%E5%BE%80%E8%AD%A6%E5%B1%80%E5%81%9A%E7%AC%94%E5%BD%95%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -33,7 +33,7 @@
 5. [人大毕业生盗取学校学生信息被刑拘](https://www.baidu.com/s?wd=%E4%BA%BA%E5%A4%A7%E6%AF%95%E4%B8%9A%E7%94%9F%E7%9B%97%E5%8F%96%E5%AD%A6%E6%A0%A1%E5%AD%A6%E7%94%9F%E4%BF%A1%E6%81%AF%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [夫妻攒百万想给40年没见的女儿](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E6%94%92%E7%99%BE%E4%B8%87%E6%83%B3%E7%BB%9940%E5%B9%B4%E6%B2%A1%E8%A7%81%E7%9A%84%E5%A5%B3%E5%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [#蔡徐坤首度回应风波#](https://www.baidu.com/s?wd=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E9%A6%96%E5%BA%A6%E5%9B%9E%E5%BA%94%E9%A3%8E%E6%B3%A2%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [“白娘子”施法手势是赵雅芝设计的](https://www.baidu.com/s?wd=%E2%80%9C%E7%99%BD%E5%A8%98%E5%AD%90%E2%80%9D%E6%96%BD%E6%B3%95%E6%89%8B%E5%8A%BF%E6%98%AF%E8%B5%B5%E9%9B%85%E8%8A%9D%E8%AE%BE%E8%AE%A1%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [警方怀疑炎亚纶不止偷拍一人](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E6%80%80%E7%96%91%E7%82%8E%E4%BA%9A%E7%BA%B6%E4%B8%8D%E6%AD%A2%E5%81%B7%E6%8B%8D%E4%B8%80%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [蔡徐坤工作室称已起诉造谣者](https://www.baidu.com/s?wd=%E8%94%A1%E5%BE%90%E5%9D%A4%E5%B7%A5%E4%BD%9C%E5%AE%A4%E7%A7%B0%E5%B7%B2%E8%B5%B7%E8%AF%89%E9%80%A0%E8%B0%A3%E8%80%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [人大毕业生盗取学校学生信息被刑拘](https://www.baidu.com/s?wd=%E4%BA%BA%E5%A4%A7%E6%AF%95%E4%B8%9A%E7%94%9F%E7%9B%97%E5%8F%96%E5%AD%A6%E6%A0%A1%E5%AD%A6%E7%94%9F%E4%BF%A1%E6%81%AF%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [夫妻攒百万想给40年没见的女儿](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E6%94%92%E7%99%BE%E4%B8%87%E6%83%B3%E7%BB%9940%E5%B9%B4%E6%B2%A1%E8%A7%81%E7%9A%84%E5%A5%B3%E5%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [#蔡徐坤首度回应风波#](https://www.baidu.com/s?wd=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E9%A6%96%E5%BA%A6%E5%9B%9E%E5%BA%94%E9%A3%8E%E6%B3%A2%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [“白娘子”施法手势是赵雅芝设计的](https://www.baidu.com/s?wd=%E2%80%9C%E7%99%BD%E5%A8%98%E5%AD%90%E2%80%9D%E6%96%BD%E6%B3%95%E6%89%8B%E5%8A%BF%E6%98%AF%E8%B5%B5%E9%9B%85%E8%8A%9D%E8%AE%BE%E8%AE%A1%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [警方怀疑炎亚纶不止偷拍一人](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E6%80%80%E7%96%91%E7%82%8E%E4%BA%9A%E7%BA%B6%E4%B8%8D%E6%AD%A2%E5%81%B7%E6%8B%8D%E4%B8%80%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [蔡徐坤工作室称已起诉造谣者](https://www.baidu.com/s?wd=%E8%94%A1%E5%BE%90%E5%9D%A4%E5%B7%A5%E4%BD%9C%E5%AE%A4%E7%A7%B0%E5%B7%B2%E8%B5%B7%E8%AF%89%E9%80%A0%E8%B0%A3%E8%80%85&sa=fyb_news&rsv_dl=fyb_news)<br />
