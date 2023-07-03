@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 07:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 07:35:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [如何评价蔡徐坤道歉](https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E8%94%A1%E5%BE%90%E5%9D%A4%E9%81%93%E6%AD%89%23&t=31&band_rank=5&Refer=top)<br />
 6. [爷爷得知孙子四千元买条狗直接上秤](https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E5%BE%97%E7%9F%A5%E5%AD%99%E5%AD%90%E5%9B%9B%E5%8D%83%E5%85%83%E4%B9%B0%E6%9D%A1%E7%8B%97%E7%9B%B4%E6%8E%A5%E4%B8%8A%E7%A7%A4%23&t=31&band_rank=6&Refer=top)<br />
 7. [父亲和丈夫的尊重要自己去赚](https://s.weibo.com/weibo?q=%E7%88%B6%E4%BA%B2%E5%92%8C%E4%B8%88%E5%A4%AB%E7%9A%84%E5%B0%8A%E9%87%8D%E8%A6%81%E8%87%AA%E5%B7%B1%E5%8E%BB%E8%B5%9A&t=31&band_rank=7&Refer=top)<br />
-8. [沪上阿姨回应一杯开水卖10元](https://s.weibo.com/weibo?q=%23%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%E5%9B%9E%E5%BA%94%E4%B8%80%E6%9D%AF%E5%BC%80%E6%B0%B4%E5%8D%9610%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [店长回应多个榴莲被偷吃损失近千元](https://s.weibo.com/weibo?q=%23%E5%BA%97%E9%95%BF%E5%9B%9E%E5%BA%94%E5%A4%9A%E4%B8%AA%E6%A6%B4%E8%8E%B2%E8%A2%AB%E5%81%B7%E5%90%83%E6%8D%9F%E5%A4%B1%E8%BF%91%E5%8D%83%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
+8. [店长回应多个榴莲被偷吃损失近千元](https://s.weibo.com/weibo?q=%23%E5%BA%97%E9%95%BF%E5%9B%9E%E5%BA%94%E5%A4%9A%E4%B8%AA%E6%A6%B4%E8%8E%B2%E8%A2%AB%E5%81%B7%E5%90%83%E6%8D%9F%E5%A4%B1%E8%BF%91%E5%8D%83%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
+9. [沪上阿姨回应一杯开水卖10元](https://s.weibo.com/weibo?q=%23%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%E5%9B%9E%E5%BA%94%E4%B8%80%E6%9D%AF%E5%BC%80%E6%B0%B4%E5%8D%9610%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -18,11 +18,11 @@
 2. [青年失业率突破 20%，毕业生「慢就业」愈加显著，如今毕业生的就业观发生了哪些变化？如何看待这一变化？](https://www.zhihu.com/question/608938944)<br />
 3. [一名北京地接导游在颐和园中暑送医，经抢救无效死亡，如何看待此事？高温天气户外作业如何预防中暑？](https://www.zhihu.com/question/610074062)<br />
 4. [专家称「尽快研究出台遗赠税，弱化财富两极分化走势」，如何看待此观点？可行性如何？](https://www.zhihu.com/question/610090923)<br />
-5. [朝鲜女孩拍视频介绍平壤，韩国以「宣传朝鲜体制」为由屏蔽，谷歌封号，透露了哪些信息？](https://www.zhihu.com/question/610162816)<br />
-6. [网友热议贵州村超「招一万民工月薪 3000 训练一年，选 30 人去踢世界杯」，如何评价这样的观点？](https://www.zhihu.com/question/610056090)<br />
-7. [山姆泡面桶已被炒至 1999 元一桶，仍有人购买，如何看待此事？背后是怎样的消费心理？](https://www.zhihu.com/question/610060285)<br />
-8. [一个很小的东西，比如指甲盖大小。但是它的重量却很大，重到几万吨。这个东西放在手上，它的重力会穿破手吗？](https://www.zhihu.com/question/519865099)<br />
-9. [国家电竞集训队发布公告「《英雄联盟》项目选手剔除喻文波、白家浩更换为彭立勋、赵嘉豪」这将造成哪些影响？](https://www.zhihu.com/question/610188481)<br />
+5. [国家电竞集训队发布公告「《英雄联盟》项目选手剔除喻文波、白家浩更换为彭立勋、赵嘉豪」这将造成哪些影响？](https://www.zhihu.com/question/610188481)<br />
+6. [山姆泡面桶已被炒至 1999 元一桶，仍有人购买，如何看待此事？背后是怎样的消费心理？](https://www.zhihu.com/question/610060285)<br />
+7. [朝鲜女孩拍视频介绍平壤，韩国以「宣传朝鲜体制」为由屏蔽，谷歌封号，透露了哪些信息？](https://www.zhihu.com/question/610162816)<br />
+8. [网友热议贵州村超「招一万民工月薪 3000 训练一年，选 30 人去踢世界杯」，如何评价这样的观点？](https://www.zhihu.com/question/610056090)<br />
+9. [一个很小的东西，比如指甲盖大小。但是它的重量却很大，重到几万吨。这个东西放在手上，它的重力会穿破手吗？](https://www.zhihu.com/question/519865099)<br />
 
 > 百度  
 
