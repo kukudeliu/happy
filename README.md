@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 04:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 04:54:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [大熊猫萌兰](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E8%90%8C%E5%85%B0%23&t=31&band_rank=5&Refer=top)<br />
 6. [爷爷得知孙子四千元买条狗直接上秤](https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E5%BE%97%E7%9F%A5%E5%AD%99%E5%AD%90%E5%9B%9B%E5%8D%83%E5%85%83%E4%B9%B0%E6%9D%A1%E7%8B%97%E7%9B%B4%E6%8E%A5%E4%B8%8A%E7%A7%A4%23&t=31&band_rank=6&Refer=top)<br />
 7. [工人高温修空调女子留吃饭多给200元](https://s.weibo.com/weibo?q=%23%E5%B7%A5%E4%BA%BA%E9%AB%98%E6%B8%A9%E4%BF%AE%E7%A9%BA%E8%B0%83%E5%A5%B3%E5%AD%90%E7%95%99%E5%90%83%E9%A5%AD%E5%A4%9A%E7%BB%99200%E5%85%83%23&t=31&band_rank=7&Refer=top)<br />
-8. [女子外卖备注多放醋商家送1大袋](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%A4%96%E5%8D%96%E5%A4%87%E6%B3%A8%E5%A4%9A%E6%94%BE%E9%86%8B%E5%95%86%E5%AE%B6%E9%80%811%E5%A4%A7%E8%A2%8B%23&t=31&band_rank=8&Refer=top)<br />
-9. [微信支付每月免费提现额度](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98%E6%AF%8F%E6%9C%88%E5%85%8D%E8%B4%B9%E6%8F%90%E7%8E%B0%E9%A2%9D%E5%BA%A6%23&t=31&band_rank=9&Refer=top)<br />
+8. [微信支付每月免费提现额度](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98%E6%AF%8F%E6%9C%88%E5%85%8D%E8%B4%B9%E6%8F%90%E7%8E%B0%E9%A2%9D%E5%BA%A6%23&t=31&band_rank=8&Refer=top)<br />
+9. [女子外卖备注多放醋商家送1大袋](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%A4%96%E5%8D%96%E5%A4%87%E6%B3%A8%E5%A4%9A%E6%94%BE%E9%86%8B%E5%95%86%E5%AE%B6%E9%80%811%E5%A4%A7%E8%A2%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -20,9 +20,9 @@
 4. [网友热议贵州村超「招一万民工月薪 3000 训练一年，选 30 人去踢世界杯」，如何评价这样的观点？](https://www.zhihu.com/question/610056090)<br />
 5. [滔搏电子竞技俱乐部发声「被行政处罚的喻某波与旗下选手喻文波毫无关联」对此你有什么想说？](https://www.zhihu.com/question/610071455)<br />
 6. [一名北京地接导游在颐和园中暑送医，经抢救无效死亡，如何看待此事？高温天气户外作业如何预防中暑？](https://www.zhihu.com/question/610074062)<br />
-7. [山姆泡面桶已被炒至 1999 元一桶，仍有人购买，如何看待此事？背后是怎样的消费心理？](https://www.zhihu.com/question/610060285)<br />
-8. [上海一豪宅拍出 1.58 亿天价，单价超 34 万，或由得物创始人竞得，哪些信息值得关注？](https://www.zhihu.com/question/610023999)<br />
-9. [专家称「尽快研究出台遗赠税，弱化财富两极分化走势」，如何看待此观点？可行性如何？](https://www.zhihu.com/question/610090923)<br />
+7. [专家称「尽快研究出台遗赠税，弱化财富两极分化走势」，如何看待此观点？可行性如何？](https://www.zhihu.com/question/610090923)<br />
+8. [环卫工儿子高考 687 分被多校争抢，父亲称「就算贷款、卖房也会让他读下去」，如何看待此事？](https://www.zhihu.com/question/610045381)<br />
+9. [如果加大力度刺激楼市，会不会出现新一轮的楼市泡沫？楼市还具备再出现一轮泡沫的条件吗？](https://www.zhihu.com/question/609279307)<br />
 
 > 百度  
 
@@ -34,7 +34,7 @@
 6. [对方撤回了一个老太太](https://www.baidu.com/s?wd=%E5%AF%B9%E6%96%B9%E6%92%A4%E5%9B%9E%E4%BA%86%E4%B8%80%E4%B8%AA%E8%80%81%E5%A4%AA%E5%A4%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [日本东京市中心发生爆炸](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%B8%9C%E4%BA%AC%E5%B8%82%E4%B8%AD%E5%BF%83%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [从缅甸逃回男子自述水牢满地是血](https://www.baidu.com/s?wd=%E4%BB%8E%E7%BC%85%E7%94%B8%E9%80%83%E5%9B%9E%E7%94%B7%E5%AD%90%E8%87%AA%E8%BF%B0%E6%B0%B4%E7%89%A2%E6%BB%A1%E5%9C%B0%E6%98%AF%E8%A1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [越南高考中文题曝光引热议](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E9%AB%98%E8%80%83%E4%B8%AD%E6%96%87%E9%A2%98%E6%9B%9D%E5%85%89%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [墨西哥一市长连续2年与鳄鱼结婚](https://www.baidu.com/s?wd=%E5%A2%A8%E8%A5%BF%E5%93%A5%E4%B8%80%E5%B8%82%E9%95%BF%E8%BF%9E%E7%BB%AD2%E5%B9%B4%E4%B8%8E%E9%B3%84%E9%B1%BC%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [对方撤回了一个老太太](https://www.baidu.com/s?wd=%E5%AF%B9%E6%96%B9%E6%92%A4%E5%9B%9E%E4%BA%86%E4%B8%80%E4%B8%AA%E8%80%81%E5%A4%AA%E5%A4%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [日本东京市中心发生爆炸](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%B8%9C%E4%BA%AC%E5%B8%82%E4%B8%AD%E5%BF%83%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [从缅甸逃回男子自述水牢满地是血](https://www.baidu.com/s?wd=%E4%BB%8E%E7%BC%85%E7%94%B8%E9%80%83%E5%9B%9E%E7%94%B7%E5%AD%90%E8%87%AA%E8%BF%B0%E6%B0%B4%E7%89%A2%E6%BB%A1%E5%9C%B0%E6%98%AF%E8%A1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [越南高考中文题曝光引热议](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E9%AB%98%E8%80%83%E4%B8%AD%E6%96%87%E9%A2%98%E6%9B%9D%E5%85%89%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [墨西哥一市长连续2年与鳄鱼结婚](https://www.baidu.com/s?wd=%E5%A2%A8%E8%A5%BF%E5%93%A5%E4%B8%80%E5%B8%82%E9%95%BF%E8%BF%9E%E7%BB%AD2%E5%B9%B4%E4%B8%8E%E9%B3%84%E9%B1%BC%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
