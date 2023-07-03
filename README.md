@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 19:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 19:11:01</h4></div>
 
 > 微博  
 
-1. [空气炸锅里放烤纸的要小心了](https://s.weibo.com/weibo?q=%23%E7%A9%BA%E6%B0%94%E7%82%B8%E9%94%85%E9%87%8C%E6%94%BE%E7%83%A4%E7%BA%B8%E7%9A%84%E8%A6%81%E5%B0%8F%E5%BF%83%E4%BA%86%23&t=31&band_rank=1&Refer=top)<br />
+1. [微信支付每月免费提现额度](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98%E6%AF%8F%E6%9C%88%E5%85%8D%E8%B4%B9%E6%8F%90%E7%8E%B0%E9%A2%9D%E5%BA%A6%23&t=31&band_rank=1&Refer=top)<br />
 2. [孕妇大出血遇早高峰交警咆哮开道](https://s.weibo.com/weibo?q=%23%E5%AD%95%E5%A6%87%E5%A4%A7%E5%87%BA%E8%A1%80%E9%81%87%E6%97%A9%E9%AB%98%E5%B3%B0%E4%BA%A4%E8%AD%A6%E5%92%86%E5%93%AE%E5%BC%80%E9%81%93%23&t=31&band_rank=2&Refer=top)<br />
 3. [毕业典礼催泪发言盘点](https://s.weibo.com/weibo?q=%23%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E5%82%AC%E6%B3%AA%E5%8F%91%E8%A8%80%E7%9B%98%E7%82%B9%23&t=31&band_rank=3&Refer=top)<br />
 4. [蔡徐坤报案回执](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E6%8A%A5%E6%A1%88%E5%9B%9E%E6%89%A7%23&t=31&band_rank=4&Refer=top)<br />
 5. [1岁宝宝掉下轨道女乘务员秒跳下救娃](https://s.weibo.com/weibo?q=%231%E5%B2%81%E5%AE%9D%E5%AE%9D%E6%8E%89%E4%B8%8B%E8%BD%A8%E9%81%93%E5%A5%B3%E4%B9%98%E5%8A%A1%E5%91%98%E7%A7%92%E8%B7%B3%E4%B8%8B%E6%95%91%E5%A8%83%23&t=31&band_rank=5&Refer=top)<br />
 6. [我的新娘被人说好像杨紫](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E6%96%B0%E5%A8%98%E8%A2%AB%E4%BA%BA%E8%AF%B4%E5%A5%BD%E5%83%8F%E6%9D%A8%E7%B4%AB%23&t=31&band_rank=6&Refer=top)<br />
 7. [7旬婆婆冒高温挑担给儿媳送菜](https://s.weibo.com/weibo?q=%237%E6%97%AC%E5%A9%86%E5%A9%86%E5%86%92%E9%AB%98%E6%B8%A9%E6%8C%91%E6%8B%85%E7%BB%99%E5%84%BF%E5%AA%B3%E9%80%81%E8%8F%9C%23&t=31&band_rank=7&Refer=top)<br />
-8. [汪峰发了个锤子](https://s.weibo.com/weibo?q=%23%E6%B1%AA%E5%B3%B0%E5%8F%91%E4%BA%86%E4%B8%AA%E9%94%A4%E5%AD%90%23&t=31&band_rank=8&Refer=top)<br />
-9. [微信支付每月免费提现额度](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98%E6%AF%8F%E6%9C%88%E5%85%8D%E8%B4%B9%E6%8F%90%E7%8E%B0%E9%A2%9D%E5%BA%A6%23&t=31&band_rank=9&Refer=top)<br />
+8. [空气炸锅里放烤纸的要小心了](https://s.weibo.com/weibo?q=%23%E7%A9%BA%E6%B0%94%E7%82%B8%E9%94%85%E9%87%8C%E6%94%BE%E7%83%A4%E7%BA%B8%E7%9A%84%E8%A6%81%E5%B0%8F%E5%BF%83%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [汪峰发了个锤子](https://s.weibo.com/weibo?q=%23%E6%B1%AA%E5%B3%B0%E5%8F%91%E4%BA%86%E4%B8%AA%E9%94%A4%E5%AD%90%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -20,9 +20,9 @@
 4. [一个人离职前有什么征兆？](https://www.zhihu.com/question/486792072)<br />
 5. [小的时候农村三伏天，没有电扇和空调，是怎么熬过炎热的?](https://www.zhihu.com/question/608934044)<br />
 6. [北大团队发布法律大模型 ChatLaw，为大众提供普惠法律服务，将带来哪些影响？](https://www.zhihu.com/question/610072848)<br />
-7. [黄河壶口瀑布安全墙、云南罗平九龙瀑布景区沿线围挡均已拆除，专家称应警惕筑墙挡景背后思维，如何看待此事？](https://www.zhihu.com/question/609988074)<br />
-8. [青年失业率突破 20%，毕业生「慢就业」愈加显著，如今毕业生的就业观发生了哪些变化？如何看待这一变化？](https://www.zhihu.com/question/608938944)<br />
-9. [上海一豪宅拍出 1.58 亿天价，单价超 34 万，或由得物创始人竞得，哪些信息值得关注？](https://www.zhihu.com/question/610023999)<br />
+7. [青年失业率突破 20%，毕业生「慢就业」愈加显著，如今毕业生的就业观发生了哪些变化？如何看待这一变化？](https://www.zhihu.com/question/608938944)<br />
+8. [上海一豪宅拍出 1.58 亿天价，单价超 34 万，或由得物创始人竞得，哪些信息值得关注？](https://www.zhihu.com/question/610023999)<br />
+9. [黄河壶口瀑布安全墙、云南罗平九龙瀑布景区沿线围挡均已拆除，专家称应警惕筑墙挡景背后思维，如何看待此事？](https://www.zhihu.com/question/609988074)<br />
 
 > 百度  
 
