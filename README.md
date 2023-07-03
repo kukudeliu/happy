@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 14:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 14:26:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [汪峰发了个锤子](https://s.weibo.com/weibo?q=%23%E6%B1%AA%E5%B3%B0%E5%8F%91%E4%BA%86%E4%B8%AA%E9%94%A4%E5%AD%90%23&t=31&band_rank=4&Refer=top)<br />
 5. [郑爽及其工作室被限制高消费](https://s.weibo.com/weibo?q=%23%E9%83%91%E7%88%BD%E5%8F%8A%E5%85%B6%E5%B7%A5%E4%BD%9C%E5%AE%A4%E8%A2%AB%E9%99%90%E5%88%B6%E9%AB%98%E6%B6%88%E8%B4%B9%23&t=31&band_rank=5&Refer=top)<br />
 6. [警方前往炎亚纶家中搜查](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%89%8D%E5%BE%80%E7%82%8E%E4%BA%9A%E7%BA%B6%E5%AE%B6%E4%B8%AD%E6%90%9C%E6%9F%A5%23&t=31&band_rank=6&Refer=top)<br />
-7. [炎亚纶前往警局做笔录](https://s.weibo.com/weibo?q=%23%E7%82%8E%E4%BA%9A%E7%BA%B6%E5%89%8D%E5%BE%80%E8%AD%A6%E5%B1%80%E5%81%9A%E7%AC%94%E5%BD%95%23&t=31&band_rank=7&Refer=top)<br />
-8. [刘昊然胡子](https://s.weibo.com/weibo?q=%E5%88%98%E6%98%8A%E7%84%B6%E8%83%A1%E5%AD%90&t=31&band_rank=8&Refer=top)<br />
+7. [刘昊然胡子](https://s.weibo.com/weibo?q=%E5%88%98%E6%98%8A%E7%84%B6%E8%83%A1%E5%AD%90&t=31&band_rank=7&Refer=top)<br />
+8. [炎亚纶前往警局做笔录](https://s.weibo.com/weibo?q=%23%E7%82%8E%E4%BA%9A%E7%BA%B6%E5%89%8D%E5%BE%80%E8%AD%A6%E5%B1%80%E5%81%9A%E7%AC%94%E5%BD%95%23&t=31&band_rank=8&Refer=top)<br />
 9. [缅甸逃回男子忆水牢满地是血](https://s.weibo.com/weibo?q=%23%E7%BC%85%E7%94%B8%E9%80%83%E5%9B%9E%E7%94%B7%E5%AD%90%E5%BF%86%E6%B0%B4%E7%89%A2%E6%BB%A1%E5%9C%B0%E6%98%AF%E8%A1%80%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -22,7 +22,7 @@
 6. [重提「逆周期调节」、删去「结构性工具有进有退」，央行这场例会释放重磅信号，哪些内容值得关注？](https://www.zhihu.com/question/610019780)<br />
 7. [如何评价《原神》序曲 PV——「致终幕的欢宴」？](https://www.zhihu.com/question/610051243)<br />
 8. [苹果占 618 手机销量 42%，领先第二名近 200 万部，这一调查结果说明什么？](https://www.zhihu.com/question/609145071)<br />
-9. [杭州是否可以被称为世界级旅游城市?](https://www.zhihu.com/question/607027657)<br />
+9. [荣耀官宣全新的 Magic V2 折叠屏将在 7 月 12 日发布，有哪些信息值得关注和期待？](https://www.zhihu.com/question/610039832)<br />
 
 > 百度  
 
