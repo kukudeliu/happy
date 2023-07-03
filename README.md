@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 00:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 00:07:01</h4></div>
 
 > 微博  
 
@@ -33,7 +33,7 @@
 5. [沪上阿姨回应一杯开水卖10元](https://www.baidu.com/s?wd=%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%E5%9B%9E%E5%BA%94%E4%B8%80%E6%9D%AF%E5%BC%80%E6%B0%B4%E5%8D%9610%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [浙江仙居太阳像戴了美瞳](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%BB%99%E5%B1%85%E5%A4%AA%E9%98%B3%E5%83%8F%E6%88%B4%E4%BA%86%E7%BE%8E%E7%9E%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李承铉参加张杰谢娜婚礼晕倒了](https://www.baidu.com/s?wd=%E6%9D%8E%E6%89%BF%E9%93%89%E5%8F%82%E5%8A%A0%E5%BC%A0%E6%9D%B0%E8%B0%A2%E5%A8%9C%E5%A9%9A%E7%A4%BC%E6%99%95%E5%80%92%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [柬埔寨夜店起火致8死 包括6名中国人](https://www.baidu.com/s?wd=%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%A4%9C%E5%BA%97%E8%B5%B7%E7%81%AB%E8%87%B48%E6%AD%BB+%E5%8C%85%E6%8B%AC6%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [上半年A股人均赚3.9万 你赚了吗](https://www.baidu.com/s?wd=%E4%B8%8A%E5%8D%8A%E5%B9%B4A%E8%82%A1%E4%BA%BA%E5%9D%87%E8%B5%9A3.9%E4%B8%87+%E4%BD%A0%E8%B5%9A%E4%BA%86%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [燕京啤酒董秘办回应蔡徐坤事件影响](https://www.baidu.com/s?wd=%E7%87%95%E4%BA%AC%E5%95%A4%E9%85%92%E8%91%A3%E7%A7%98%E5%8A%9E%E5%9B%9E%E5%BA%94%E8%94%A1%E5%BE%90%E5%9D%A4%E4%BA%8B%E4%BB%B6%E5%BD%B1%E5%93%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [沪上阿姨回应一杯开水卖10元](https://www.baidu.com/s?wd=%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%E5%9B%9E%E5%BA%94%E4%B8%80%E6%9D%AF%E5%BC%80%E6%B0%B4%E5%8D%9610%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [浙江仙居太阳像戴了美瞳](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%BB%99%E5%B1%85%E5%A4%AA%E9%98%B3%E5%83%8F%E6%88%B4%E4%BA%86%E7%BE%8E%E7%9E%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李承铉参加张杰谢娜婚礼晕倒了](https://www.baidu.com/s?wd=%E6%9D%8E%E6%89%BF%E9%93%89%E5%8F%82%E5%8A%A0%E5%BC%A0%E6%9D%B0%E8%B0%A2%E5%A8%9C%E5%A9%9A%E7%A4%BC%E6%99%95%E5%80%92%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [柬埔寨夜店起火致8死 包括6名中国人](https://www.baidu.com/s?wd=%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%A4%9C%E5%BA%97%E8%B5%B7%E7%81%AB%E8%87%B48%E6%AD%BB+%E5%8C%85%E6%8B%AC6%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [上半年A股人均赚3.9万 你赚了吗](https://www.baidu.com/s?wd=%E4%B8%8A%E5%8D%8A%E5%B9%B4A%E8%82%A1%E4%BA%BA%E5%9D%87%E8%B5%9A3.9%E4%B8%87+%E4%BD%A0%E8%B5%9A%E4%BA%86%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [燕京啤酒董秘办回应蔡徐坤事件影响](https://www.baidu.com/s?wd=%E7%87%95%E4%BA%AC%E5%95%A4%E9%85%92%E8%91%A3%E7%A7%98%E5%8A%9E%E5%9B%9E%E5%BA%94%E8%94%A1%E5%BE%90%E5%9D%A4%E4%BA%8B%E4%BB%B6%E5%BD%B1%E5%93%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
