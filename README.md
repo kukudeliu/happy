@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 19:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 19:14:01</h4></div>
 
 > 微博  
 
@@ -18,8 +18,8 @@
 2. [猫经常坐在院子中间，偶尔舔舔身上的毛，然后坐在那一个下午，它坐在那干什么？](https://www.zhihu.com/question/603451215)<br />
 3. [苹果占 618 手机销量 42%，领先第二名近 200 万部，这一调查结果说明什么？](https://www.zhihu.com/question/609145071)<br />
 4. [一个人离职前有什么征兆？](https://www.zhihu.com/question/486792072)<br />
-5. [小的时候农村三伏天，没有电扇和空调，是怎么熬过炎热的?](https://www.zhihu.com/question/608934044)<br />
-6. [北大团队发布法律大模型 ChatLaw，为大众提供普惠法律服务，将带来哪些影响？](https://www.zhihu.com/question/610072848)<br />
+5. [北大团队发布法律大模型 ChatLaw，为大众提供普惠法律服务，将带来哪些影响？](https://www.zhihu.com/question/610072848)<br />
+6. [小的时候农村三伏天，没有电扇和空调，是怎么熬过炎热的?](https://www.zhihu.com/question/608934044)<br />
 7. [青年失业率突破 20%，毕业生「慢就业」愈加显著，如今毕业生的就业观发生了哪些变化？如何看待这一变化？](https://www.zhihu.com/question/608938944)<br />
 8. [上海一豪宅拍出 1.58 亿天价，单价超 34 万，或由得物创始人竞得，哪些信息值得关注？](https://www.zhihu.com/question/610023999)<br />
 9. [成绩去不了北大，但是能去北大医学部，应该去吗?](https://www.zhihu.com/question/609084243)<br />
@@ -34,7 +34,7 @@
 6. [交警情绪失控大喊弄死你？警方回应](https://www.baidu.com/s?wd=%E4%BA%A4%E8%AD%A6%E6%83%85%E7%BB%AA%E5%A4%B1%E6%8E%A7%E5%A4%A7%E5%96%8A%E5%BC%84%E6%AD%BB%E4%BD%A0%EF%BC%9F%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李承铉参加张杰谢娜婚礼晕倒了](https://www.baidu.com/s?wd=%E6%9D%8E%E6%89%BF%E9%93%89%E5%8F%82%E5%8A%A0%E5%BC%A0%E6%9D%B0%E8%B0%A2%E5%A8%9C%E5%A9%9A%E7%A4%BC%E6%99%95%E5%80%92%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [西南大学回应网传学生不当言论](https://www.baidu.com/s?wd=%E8%A5%BF%E5%8D%97%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E5%AD%A6%E7%94%9F%E4%B8%8D%E5%BD%93%E8%A8%80%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [人大再回应学生信息泄露事件:将起诉](https://www.baidu.com/s?wd=%E4%BA%BA%E5%A4%A7%E5%86%8D%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E4%BF%A1%E6%81%AF%E6%B3%84%E9%9C%B2%E4%BA%8B%E4%BB%B6%3A%E5%B0%86%E8%B5%B7%E8%AF%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [北京一导游在颐和园中暑身亡](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E4%B8%80%E5%AF%BC%E6%B8%B8%E5%9C%A8%E9%A2%90%E5%92%8C%E5%9B%AD%E4%B8%AD%E6%9A%91%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [交警情绪失控大喊弄死你？警方回应](https://www.baidu.com/s?wd=%E4%BA%A4%E8%AD%A6%E6%83%85%E7%BB%AA%E5%A4%B1%E6%8E%A7%E5%A4%A7%E5%96%8A%E5%BC%84%E6%AD%BB%E4%BD%A0%EF%BC%9F%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李承铉参加张杰谢娜婚礼晕倒了](https://www.baidu.com/s?wd=%E6%9D%8E%E6%89%BF%E9%93%89%E5%8F%82%E5%8A%A0%E5%BC%A0%E6%9D%B0%E8%B0%A2%E5%A8%9C%E5%A9%9A%E7%A4%BC%E6%99%95%E5%80%92%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [西南大学回应网传学生不当言论](https://www.baidu.com/s?wd=%E8%A5%BF%E5%8D%97%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E5%AD%A6%E7%94%9F%E4%B8%8D%E5%BD%93%E8%A8%80%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [人大再回应学生信息泄露事件:将起诉](https://www.baidu.com/s?wd=%E4%BA%BA%E5%A4%A7%E5%86%8D%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E4%BF%A1%E6%81%AF%E6%B3%84%E9%9C%B2%E4%BA%8B%E4%BB%B6%3A%E5%B0%86%E8%B5%B7%E8%AF%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [北京一导游在颐和园中暑身亡](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E4%B8%80%E5%AF%BC%E6%B8%B8%E5%9C%A8%E9%A2%90%E5%92%8C%E5%9B%AD%E4%B8%AD%E6%9A%91%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
