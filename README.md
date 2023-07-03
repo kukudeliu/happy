@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 15:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 15:20:01</h4></div>
 
 > 微博  
 
@@ -19,8 +19,8 @@
 3. [CIA 局长英国演讲提 19 次「中国」，称「对华脱钩是愚蠢的」，透露了哪些信息？](https://www.zhihu.com/question/609934026)<br />
 4. [如何评价《原神》序曲 PV——「致终幕的欢宴」？](https://www.zhihu.com/question/610051243)<br />
 5. [如何看待松江公安发布行政处罚公告，喻某波为赌博提供条件将拘留十日？](https://www.zhihu.com/question/610063126)<br />
-6. [如何看待手机内存卷到 24G+1T，真的有必要吗？](https://www.zhihu.com/question/608801781)<br />
-7. [苹果占 618 手机销量 42%，领先第二名近 200 万部，这一调查结果说明什么？](https://www.zhihu.com/question/609145071)<br />
+6. [苹果占 618 手机销量 42%，领先第二名近 200 万部，这一调查结果说明什么？](https://www.zhihu.com/question/609145071)<br />
+7. [如何看待手机内存卷到 24G+1T，真的有必要吗？](https://www.zhihu.com/question/608801781)<br />
 8. [黄河壶口瀑布安全墙、云南罗平九龙瀑布景区沿线围挡均已拆除，专家称应警惕筑墙挡景背后思维，如何看待此事？](https://www.zhihu.com/question/609988074)<br />
 9. [为什么杨毅说 CBA 的商业化程度甚至还不如 LPL？](https://www.zhihu.com/question/609130013)<br />
 
