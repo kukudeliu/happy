@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 21:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 21:42:02</h4></div>
 
 > 微博  
 
@@ -16,8 +16,8 @@
 
 1. [北大团队发布法律大模型 ChatLaw，为大众提供普惠法律服务，将带来哪些影响？](https://www.zhihu.com/question/610072848)<br />
 2. [小的时候农村三伏天，没有电扇和空调，是怎么熬过炎热的?](https://www.zhihu.com/question/608934044)<br />
-3. [苹果占 618 手机销量 42%，领先第二名近 200 万部，这一调查结果说明什么？](https://www.zhihu.com/question/609145071)<br />
-4. [青年失业率突破 20%，毕业生「慢就业」愈加显著，如今毕业生的就业观发生了哪些变化？如何看待这一变化？](https://www.zhihu.com/question/608938944)<br />
+3. [青年失业率突破 20%，毕业生「慢就业」愈加显著，如今毕业生的就业观发生了哪些变化？如何看待这一变化？](https://www.zhihu.com/question/608938944)<br />
+4. [苹果占 618 手机销量 42%，领先第二名近 200 万部，这一调查结果说明什么？](https://www.zhihu.com/question/609145071)<br />
 5. [住建部长称将探索建立房屋养老金制度，钱从哪来、花到哪去？](https://www.zhihu.com/theater/25765)<br />
 6. [成绩去不了北大，但是能去北大医学部，应该去吗?](https://www.zhihu.com/question/609084243)<br />
 7. [网友热议贵州村超「招一万民工月薪 3000 训练一年，选 30 人去踢世界杯」，如何评价这样的观点？](https://www.zhihu.com/question/610056090)<br />
@@ -34,7 +34,7 @@
 6. [男子开着“小吃街”出摊](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BC%80%E7%9D%80%E2%80%9C%E5%B0%8F%E5%90%83%E8%A1%97%E2%80%9D%E5%87%BA%E6%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [租房降级年轻人：住30元1天太空舱](https://www.baidu.com/s?wd=%E7%A7%9F%E6%88%BF%E9%99%8D%E7%BA%A7%E5%B9%B4%E8%BD%BB%E4%BA%BA%EF%BC%9A%E4%BD%8F30%E5%85%831%E5%A4%A9%E5%A4%AA%E7%A9%BA%E8%88%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [北京一导游在颐和园中暑身亡](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E4%B8%80%E5%AF%BC%E6%B8%B8%E5%9C%A8%E9%A2%90%E5%92%8C%E5%9B%AD%E4%B8%AD%E6%9A%91%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [李承铉参加张杰谢娜婚礼晕倒了](https://www.baidu.com/s?wd=%E6%9D%8E%E6%89%BF%E9%93%89%E5%8F%82%E5%8A%A0%E5%BC%A0%E6%9D%B0%E8%B0%A2%E5%A8%9C%E5%A9%9A%E7%A4%BC%E6%99%95%E5%80%92%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [孟子义把周也哄睡后去打牌](https://www.baidu.com/s?wd=%E5%AD%9F%E5%AD%90%E4%B9%89%E6%8A%8A%E5%91%A8%E4%B9%9F%E5%93%84%E7%9D%A1%E5%90%8E%E5%8E%BB%E6%89%93%E7%89%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [男子开着“小吃街”出摊](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BC%80%E7%9D%80%E2%80%9C%E5%B0%8F%E5%90%83%E8%A1%97%E2%80%9D%E5%87%BA%E6%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [租房降级年轻人：住30元1天太空舱](https://www.baidu.com/s?wd=%E7%A7%9F%E6%88%BF%E9%99%8D%E7%BA%A7%E5%B9%B4%E8%BD%BB%E4%BA%BA%EF%BC%9A%E4%BD%8F30%E5%85%831%E5%A4%A9%E5%A4%AA%E7%A9%BA%E8%88%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [北京一导游在颐和园中暑身亡](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E4%B8%80%E5%AF%BC%E6%B8%B8%E5%9C%A8%E9%A2%90%E5%92%8C%E5%9B%AD%E4%B8%AD%E6%9A%91%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [李承铉参加张杰谢娜婚礼晕倒了](https://www.baidu.com/s?wd=%E6%9D%8E%E6%89%BF%E9%93%89%E5%8F%82%E5%8A%A0%E5%BC%A0%E6%9D%B0%E8%B0%A2%E5%A8%9C%E5%A9%9A%E7%A4%BC%E6%99%95%E5%80%92%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [孟子义把周也哄睡后去打牌](https://www.baidu.com/s?wd=%E5%AD%9F%E5%AD%90%E4%B9%89%E6%8A%8A%E5%91%A8%E4%B9%9F%E5%93%84%E7%9D%A1%E5%90%8E%E5%8E%BB%E6%89%93%E7%89%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
