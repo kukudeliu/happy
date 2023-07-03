@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 19:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 19:30:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [我的新娘被人说好像杨紫](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E6%96%B0%E5%A8%98%E8%A2%AB%E4%BA%BA%E8%AF%B4%E5%A5%BD%E5%83%8F%E6%9D%A8%E7%B4%AB%23&t=31&band_rank=6&Refer=top)<br />
 7. [7旬婆婆冒高温挑担给儿媳送菜](https://s.weibo.com/weibo?q=%237%E6%97%AC%E5%A9%86%E5%A9%86%E5%86%92%E9%AB%98%E6%B8%A9%E6%8C%91%E6%8B%85%E7%BB%99%E5%84%BF%E5%AA%B3%E9%80%81%E8%8F%9C%23&t=31&band_rank=7&Refer=top)<br />
 8. [找对象要找帅的 只有帅才是真的](https://s.weibo.com/weibo?q=%E6%89%BE%E5%AF%B9%E8%B1%A1%E8%A6%81%E6%89%BE%E5%B8%85%E7%9A%84%20%E5%8F%AA%E6%9C%89%E5%B8%85%E6%89%8D%E6%98%AF%E7%9C%9F%E7%9A%84&t=31&band_rank=8&Refer=top)<br />
-9. [空气炸锅里放烤纸的要小心了](https://s.weibo.com/weibo?q=%23%E7%A9%BA%E6%B0%94%E7%82%B8%E9%94%85%E9%87%8C%E6%94%BE%E7%83%A4%E7%BA%B8%E7%9A%84%E8%A6%81%E5%B0%8F%E5%BF%83%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [汪峰发了个锤子](https://s.weibo.com/weibo?q=%23%E6%B1%AA%E5%B3%B0%E5%8F%91%E4%BA%86%E4%B8%AA%E9%94%A4%E5%AD%90%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
