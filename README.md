@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 22:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 22:10:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [男子开着“小吃街”出摊](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BC%80%E7%9D%80%E2%80%9C%E5%B0%8F%E5%90%83%E8%A1%97%E2%80%9D%E5%87%BA%E6%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [交警情绪失控大喊弄死你？警方回应](https://www.baidu.com/s?wd=%E4%BA%A4%E8%AD%A6%E6%83%85%E7%BB%AA%E5%A4%B1%E6%8E%A7%E5%A4%A7%E5%96%8A%E5%BC%84%E6%AD%BB%E4%BD%A0%EF%BC%9F%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女孩回应给患病外公洗澡：望理解](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%9B%9E%E5%BA%94%E7%BB%99%E6%82%A3%E7%97%85%E5%A4%96%E5%85%AC%E6%B4%97%E6%BE%A1%EF%BC%9A%E6%9C%9B%E7%90%86%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [汪峰发了个锤子](https://www.baidu.com/s?wd=%E6%B1%AA%E5%B3%B0%E5%8F%91%E4%BA%86%E4%B8%AA%E9%94%A4%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [上半年A股人均赚3.9万 你赚了吗](https://www.baidu.com/s?wd=%E4%B8%8A%E5%8D%8A%E5%B9%B4A%E8%82%A1%E4%BA%BA%E5%9D%87%E8%B5%9A3.9%E4%B8%87+%E4%BD%A0%E8%B5%9A%E4%BA%86%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [男子开着“小吃街”出摊](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BC%80%E7%9D%80%E2%80%9C%E5%B0%8F%E5%90%83%E8%A1%97%E2%80%9D%E5%87%BA%E6%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [交警情绪失控大喊弄死你？警方回应](https://www.baidu.com/s?wd=%E4%BA%A4%E8%AD%A6%E6%83%85%E7%BB%AA%E5%A4%B1%E6%8E%A7%E5%A4%A7%E5%96%8A%E5%BC%84%E6%AD%BB%E4%BD%A0%EF%BC%9F%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女孩回应给患病外公洗澡：望理解](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%9B%9E%E5%BA%94%E7%BB%99%E6%82%A3%E7%97%85%E5%A4%96%E5%85%AC%E6%B4%97%E6%BE%A1%EF%BC%9A%E6%9C%9B%E7%90%86%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [汪峰发了个锤子](https://www.baidu.com/s?wd=%E6%B1%AA%E5%B3%B0%E5%8F%91%E4%BA%86%E4%B8%AA%E9%94%A4%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [上半年A股人均赚3.9万 你赚了吗](https://www.baidu.com/s?wd=%E4%B8%8A%E5%8D%8A%E5%B9%B4A%E8%82%A1%E4%BA%BA%E5%9D%87%E8%B5%9A3.9%E4%B8%87+%E4%BD%A0%E8%B5%9A%E4%BA%86%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
