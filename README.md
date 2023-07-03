@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 14:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 14:13:01</h4></div>
 
 > 微博  
 
@@ -27,8 +27,8 @@
 > 百度  
 
 1. [党旗高扬 初心如炬](https://www.baidu.com/s?wd=%E5%85%9A%E6%97%97%E9%AB%98%E6%89%AC+%E5%88%9D%E5%BF%83%E5%A6%82%E7%82%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [夫妻攒百万想给40年没见的女儿](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E6%94%92%E7%99%BE%E4%B8%87%E6%83%B3%E7%BB%9940%E5%B9%B4%E6%B2%A1%E8%A7%81%E7%9A%84%E5%A5%B3%E5%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [越南高考中文题曝光引热议](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E9%AB%98%E8%80%83%E4%B8%AD%E6%96%87%E9%A2%98%E6%9B%9D%E5%85%89%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [越南高考中文题曝光引热议](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E9%AB%98%E8%80%83%E4%B8%AD%E6%96%87%E9%A2%98%E6%9B%9D%E5%85%89%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [夫妻攒百万想给40年没见的女儿](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E6%94%92%E7%99%BE%E4%B8%87%E6%83%B3%E7%BB%9940%E5%B9%B4%E6%B2%A1%E8%A7%81%E7%9A%84%E5%A5%B3%E5%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [殷殷挂念暖香江](https://www.baidu.com/s?wd=%E6%AE%B7%E6%AE%B7%E6%8C%82%E5%BF%B5%E6%9A%96%E9%A6%99%E6%B1%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [蔡徐坤回应“亲密照”：不是我](https://www.baidu.com/s?wd=%E8%94%A1%E5%BE%90%E5%9D%A4%E5%9B%9E%E5%BA%94%E2%80%9C%E4%BA%B2%E5%AF%86%E7%85%A7%E2%80%9D%EF%BC%9A%E4%B8%8D%E6%98%AF%E6%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [实拍新疆遭强沙尘袭击：遮天蔽日](https://www.baidu.com/s?wd=%E5%AE%9E%E6%8B%8D%E6%96%B0%E7%96%86%E9%81%AD%E5%BC%BA%E6%B2%99%E5%B0%98%E8%A2%AD%E5%87%BB%EF%BC%9A%E9%81%AE%E5%A4%A9%E8%94%BD%E6%97%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -39,8 +39,8 @@
 > 哔哩哔哩  
 
 1. [党旗高扬 初心如炬](https://www.baidu.com/s?wd=%E5%85%9A%E6%97%97%E9%AB%98%E6%89%AC+%E5%88%9D%E5%BF%83%E5%A6%82%E7%82%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [夫妻攒百万想给40年没见的女儿](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E6%94%92%E7%99%BE%E4%B8%87%E6%83%B3%E7%BB%9940%E5%B9%B4%E6%B2%A1%E8%A7%81%E7%9A%84%E5%A5%B3%E5%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [越南高考中文题曝光引热议](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E9%AB%98%E8%80%83%E4%B8%AD%E6%96%87%E9%A2%98%E6%9B%9D%E5%85%89%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [越南高考中文题曝光引热议](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E9%AB%98%E8%80%83%E4%B8%AD%E6%96%87%E9%A2%98%E6%9B%9D%E5%85%89%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [夫妻攒百万想给40年没见的女儿](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E6%94%92%E7%99%BE%E4%B8%87%E6%83%B3%E7%BB%9940%E5%B9%B4%E6%B2%A1%E8%A7%81%E7%9A%84%E5%A5%B3%E5%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [殷殷挂念暖香江](https://www.baidu.com/s?wd=%E6%AE%B7%E6%AE%B7%E6%8C%82%E5%BF%B5%E6%9A%96%E9%A6%99%E6%B1%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [蔡徐坤回应“亲密照”：不是我](https://www.baidu.com/s?wd=%E8%94%A1%E5%BE%90%E5%9D%A4%E5%9B%9E%E5%BA%94%E2%80%9C%E4%BA%B2%E5%AF%86%E7%85%A7%E2%80%9D%EF%BC%9A%E4%B8%8D%E6%98%AF%E6%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [实拍新疆遭强沙尘袭击：遮天蔽日](https://www.baidu.com/s?wd=%E5%AE%9E%E6%8B%8D%E6%96%B0%E7%96%86%E9%81%AD%E5%BC%BA%E6%B2%99%E5%B0%98%E8%A2%AD%E5%87%BB%EF%BC%9A%E9%81%AE%E5%A4%A9%E8%94%BD%E6%97%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
