@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 20:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 20:04:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [找对象要找帅的 只有帅才是真的](https://s.weibo.com/weibo?q=%E6%89%BE%E5%AF%B9%E8%B1%A1%E8%A6%81%E6%89%BE%E5%B8%85%E7%9A%84%20%E5%8F%AA%E6%9C%89%E5%B8%85%E6%89%8D%E6%98%AF%E7%9C%9F%E7%9A%84&t=31&band_rank=5&Refer=top)<br />
 6. [我的新娘被人说好像杨紫](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E6%96%B0%E5%A8%98%E8%A2%AB%E4%BA%BA%E8%AF%B4%E5%A5%BD%E5%83%8F%E6%9D%A8%E7%B4%AB%23&t=31&band_rank=6&Refer=top)<br />
 7. [周翊然陈哲远Gucci大片](https://s.weibo.com/weibo?q=%23%E5%91%A8%E7%BF%8A%E7%84%B6%E9%99%88%E5%93%B2%E8%BF%9CGucci%E5%A4%A7%E7%89%87%23&t=31&band_rank=7&Refer=top)<br />
-8. [孕妇大出血遇早高峰交警咆哮开道](https://s.weibo.com/weibo?q=%23%E5%AD%95%E5%A6%87%E5%A4%A7%E5%87%BA%E8%A1%80%E9%81%87%E6%97%A9%E9%AB%98%E5%B3%B0%E4%BA%A4%E8%AD%A6%E5%92%86%E5%93%AE%E5%BC%80%E9%81%93%23&t=31&band_rank=8&Refer=top)<br />
-9. [空气炸锅里放烤纸的要小心了](https://s.weibo.com/weibo?q=%23%E7%A9%BA%E6%B0%94%E7%82%B8%E9%94%85%E9%87%8C%E6%94%BE%E7%83%A4%E7%BA%B8%E7%9A%84%E8%A6%81%E5%B0%8F%E5%BF%83%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+8. [空气炸锅里放烤纸的要小心了](https://s.weibo.com/weibo?q=%23%E7%A9%BA%E6%B0%94%E7%82%B8%E9%94%85%E9%87%8C%E6%94%BE%E7%83%A4%E7%BA%B8%E7%9A%84%E8%A6%81%E5%B0%8F%E5%BF%83%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [孕妇大出血遇早高峰交警咆哮开道](https://s.weibo.com/weibo?q=%23%E5%AD%95%E5%A6%87%E5%A4%A7%E5%87%BA%E8%A1%80%E9%81%87%E6%97%A9%E9%AB%98%E5%B3%B0%E4%BA%A4%E8%AD%A6%E5%92%86%E5%93%AE%E5%BC%80%E9%81%93%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -32,9 +32,9 @@
 4. [录取通知书里的中国式浪漫](https://www.baidu.com/s?wd=%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%BC%8F%E6%B5%AA%E6%BC%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [蔡徐坤方公布报警回执](https://www.baidu.com/s?wd=%E8%94%A1%E5%BE%90%E5%9D%A4%E6%96%B9%E5%85%AC%E5%B8%83%E6%8A%A5%E8%AD%A6%E5%9B%9E%E6%89%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [英国将首推水葬：沸水煮遗体4小时](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E5%B0%86%E9%A6%96%E6%8E%A8%E6%B0%B4%E8%91%AC%EF%BC%9A%E6%B2%B8%E6%B0%B4%E7%85%AE%E9%81%97%E4%BD%934%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [高校校长雨中致辞这一幕火了](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E6%A0%A1%E9%95%BF%E9%9B%A8%E4%B8%AD%E8%87%B4%E8%BE%9E%E8%BF%99%E4%B8%80%E5%B9%95%E7%81%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [红黄蓝早教中心幼师被指虐童](https://www.baidu.com/s?wd=%E7%BA%A2%E9%BB%84%E8%93%9D%E6%97%A9%E6%95%99%E4%B8%AD%E5%BF%83%E5%B9%BC%E5%B8%88%E8%A2%AB%E6%8C%87%E8%99%90%E7%AB%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [老人称遭保姆虐待被偷百万 家属回应](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E7%A7%B0%E9%81%AD%E4%BF%9D%E5%A7%86%E8%99%90%E5%BE%85%E8%A2%AB%E5%81%B7%E7%99%BE%E4%B8%87+%E5%AE%B6%E5%B1%9E%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [红黄蓝早教中心幼师被指虐童](https://www.baidu.com/s?wd=%E7%BA%A2%E9%BB%84%E8%93%9D%E6%97%A9%E6%95%99%E4%B8%AD%E5%BF%83%E5%B9%BC%E5%B8%88%E8%A2%AB%E6%8C%87%E8%99%90%E7%AB%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [对方撤回了一个老太太](https://www.baidu.com/s?wd=%E5%AF%B9%E6%96%B9%E6%92%A4%E5%9B%9E%E4%BA%86%E4%B8%80%E4%B8%AA%E8%80%81%E5%A4%AA%E5%A4%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [越南高考中文题曝光引热议](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E9%AB%98%E8%80%83%E4%B8%AD%E6%96%87%E9%A2%98%E6%9B%9D%E5%85%89%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [录取通知书里的中国式浪漫](https://www.baidu.com/s?wd=%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%BC%8F%E6%B5%AA%E6%BC%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [蔡徐坤方公布报警回执](https://www.baidu.com/s?wd=%E8%94%A1%E5%BE%90%E5%9D%A4%E6%96%B9%E5%85%AC%E5%B8%83%E6%8A%A5%E8%AD%A6%E5%9B%9E%E6%89%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [英国将首推水葬：沸水煮遗体4小时](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E5%B0%86%E9%A6%96%E6%8E%A8%E6%B0%B4%E8%91%AC%EF%BC%9A%E6%B2%B8%E6%B0%B4%E7%85%AE%E9%81%97%E4%BD%934%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [高校校长雨中致辞这一幕火了](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E6%A0%A1%E9%95%BF%E9%9B%A8%E4%B8%AD%E8%87%B4%E8%BE%9E%E8%BF%99%E4%B8%80%E5%B9%95%E7%81%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [红黄蓝早教中心幼师被指虐童](https://www.baidu.com/s?wd=%E7%BA%A2%E9%BB%84%E8%93%9D%E6%97%A9%E6%95%99%E4%B8%AD%E5%BF%83%E5%B9%BC%E5%B8%88%E8%A2%AB%E6%8C%87%E8%99%90%E7%AB%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [老人称遭保姆虐待被偷百万 家属回应](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E7%A7%B0%E9%81%AD%E4%BF%9D%E5%A7%86%E8%99%90%E5%BE%85%E8%A2%AB%E5%81%B7%E7%99%BE%E4%B8%87+%E5%AE%B6%E5%B1%9E%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [红黄蓝早教中心幼师被指虐童](https://www.baidu.com/s?wd=%E7%BA%A2%E9%BB%84%E8%93%9D%E6%97%A9%E6%95%99%E4%B8%AD%E5%BF%83%E5%B9%BC%E5%B8%88%E8%A2%AB%E6%8C%87%E8%99%90%E7%AB%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [对方撤回了一个老太太](https://www.baidu.com/s?wd=%E5%AF%B9%E6%96%B9%E6%92%A4%E5%9B%9E%E4%BA%86%E4%B8%80%E4%B8%AA%E8%80%81%E5%A4%AA%E5%A4%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [越南高考中文题曝光引热议](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E9%AB%98%E8%80%83%E4%B8%AD%E6%96%87%E9%A2%98%E6%9B%9D%E5%85%89%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
