@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 11:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 11:34:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [隐形眼镜有根线先别急着扔](https://s.weibo.com/weibo?q=%23%E9%9A%90%E5%BD%A2%E7%9C%BC%E9%95%9C%E6%9C%89%E6%A0%B9%E7%BA%BF%E5%85%88%E5%88%AB%E6%80%A5%E7%9D%80%E6%89%94%23&t=31&band_rank=6&Refer=top)<br />
 7. [睡觉时身体为什么会抖一下](https://s.weibo.com/weibo?q=%23%E7%9D%A1%E8%A7%89%E6%97%B6%E8%BA%AB%E4%BD%93%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E6%8A%96%E4%B8%80%E4%B8%8B%23&t=31&band_rank=7&Refer=top)<br />
 8. [缅甸逃回男子忆水牢满地是血](https://s.weibo.com/weibo?q=%23%E7%BC%85%E7%94%B8%E9%80%83%E5%9B%9E%E7%94%B7%E5%AD%90%E5%BF%86%E6%B0%B4%E7%89%A2%E6%BB%A1%E5%9C%B0%E6%98%AF%E8%A1%80%23&t=31&band_rank=8&Refer=top)<br />
-9. [肖战演王楚然表哥](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%BC%94%E7%8E%8B%E6%A5%9A%E7%84%B6%E8%A1%A8%E5%93%A5%23&t=31&band_rank=9&Refer=top)<br />
+9. [花少北 一直逃避回应做视频的问题](https://s.weibo.com/weibo?q=%E8%8A%B1%E5%B0%91%E5%8C%97%20%E4%B8%80%E7%9B%B4%E9%80%83%E9%81%BF%E5%9B%9E%E5%BA%94%E5%81%9A%E8%A7%86%E9%A2%91%E7%9A%84%E9%97%AE%E9%A2%98&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
