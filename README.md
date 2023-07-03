@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 00:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 00:28:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [沪上阿姨回应一杯开水卖10元](https://s.weibo.com/weibo?q=%23%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%E5%9B%9E%E5%BA%94%E4%B8%80%E6%9D%AF%E5%BC%80%E6%B0%B4%E5%8D%9610%E5%85%83%23&t=31&band_rank=5&Refer=top)<br />
 6. [TFBOYS不合体排练吗](https://s.weibo.com/weibo?q=%23TFBOYS%E4%B8%8D%E5%90%88%E4%BD%93%E6%8E%92%E7%BB%83%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [宋轶是不是男生都喜欢的类型](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%BD%B6%E6%98%AF%E4%B8%8D%E6%98%AF%E7%94%B7%E7%94%9F%E9%83%BD%E5%96%9C%E6%AC%A2%E7%9A%84%E7%B1%BB%E5%9E%8B%23&t=31&band_rank=7&Refer=top)<br />
-8. [广东地震](https://s.weibo.com/weibo?q=%E5%B9%BF%E4%B8%9C%E5%9C%B0%E9%9C%87&t=31&band_rank=8&Refer=top)<br />
-9. [为什么运钞车不直接运一张银行卡](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%90%E9%92%9E%E8%BD%A6%E4%B8%8D%E7%9B%B4%E6%8E%A5%E8%BF%90%E4%B8%80%E5%BC%A0%E9%93%B6%E8%A1%8C%E5%8D%A1&t=31&band_rank=9&Refer=top)<br />
+8. [为什么运钞车不直接运一张银行卡](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%90%E9%92%9E%E8%BD%A6%E4%B8%8D%E7%9B%B4%E6%8E%A5%E8%BF%90%E4%B8%80%E5%BC%A0%E9%93%B6%E8%A1%8C%E5%8D%A1&t=31&band_rank=8&Refer=top)<br />
+9. [广东地震](https://s.weibo.com/weibo?q=%E5%B9%BF%E4%B8%9C%E5%9C%B0%E9%9C%87&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
