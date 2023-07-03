@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 18:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 18:44:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [一个人离职前有什么征兆？](https://www.zhihu.com/question/486792072)<br />
 7. [小的时候农村三伏天，没有电扇和空调，是怎么熬过炎热的?](https://www.zhihu.com/question/608934044)<br />
 8. [青年失业率突破 20%，毕业生「慢就业」愈加显著，如今毕业生的就业观发生了哪些变化？如何看待这一变化？](https://www.zhihu.com/question/608938944)<br />
-9. [上海一豪宅拍出 1.58 亿天价，单价超 34 万，或由得物创始人竞得，哪些信息值得关注？](https://www.zhihu.com/question/610023999)<br />
+9. [北大团队发布法律大模型 ChatLaw，为大众提供普惠法律服务，将带来哪些影响？](https://www.zhihu.com/question/610072848)<br />
 
 > 百度  
 
@@ -33,8 +33,8 @@
 5. [王毅回应韩国外长登北汉山邀约](https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E5%9B%9E%E5%BA%94%E9%9F%A9%E5%9B%BD%E5%A4%96%E9%95%BF%E7%99%BB%E5%8C%97%E6%B1%89%E5%B1%B1%E9%82%80%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [交警情绪失控大喊弄死你？警方回应](https://www.baidu.com/s?wd=%E4%BA%A4%E8%AD%A6%E6%83%85%E7%BB%AA%E5%A4%B1%E6%8E%A7%E5%A4%A7%E5%96%8A%E5%BC%84%E6%AD%BB%E4%BD%A0%EF%BC%9F%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [蔡徐坤回应“亲密照”：不是我](https://www.baidu.com/s?wd=%E8%94%A1%E5%BE%90%E5%9D%A4%E5%9B%9E%E5%BA%94%E2%80%9C%E4%BA%B2%E5%AF%86%E7%85%A7%E2%80%9D%EF%BC%9A%E4%B8%8D%E6%98%AF%E6%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [对方撤回了一个老太太](https://www.baidu.com/s?wd=%E5%AF%B9%E6%96%B9%E6%92%A4%E5%9B%9E%E4%BA%86%E4%B8%80%E4%B8%AA%E8%80%81%E5%A4%AA%E5%A4%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [李承铉参加张杰谢娜婚礼晕倒了](https://www.baidu.com/s?wd=%E6%9D%8E%E6%89%BF%E9%93%89%E5%8F%82%E5%8A%A0%E5%BC%A0%E6%9D%B0%E8%B0%A2%E5%A8%9C%E5%A9%9A%E7%A4%BC%E6%99%95%E5%80%92%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [李承铉参加张杰谢娜婚礼晕倒了](https://www.baidu.com/s?wd=%E6%9D%8E%E6%89%BF%E9%93%89%E5%8F%82%E5%8A%A0%E5%BC%A0%E6%9D%B0%E8%B0%A2%E5%A8%9C%E5%A9%9A%E7%A4%BC%E6%99%95%E5%80%92%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [对方撤回了一个老太太](https://www.baidu.com/s?wd=%E5%AF%B9%E6%96%B9%E6%92%A4%E5%9B%9E%E4%BA%86%E4%B8%80%E4%B8%AA%E8%80%81%E5%A4%AA%E5%A4%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [王毅回应韩国外长登北汉山邀约](https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E5%9B%9E%E5%BA%94%E9%9F%A9%E5%9B%BD%E5%A4%96%E9%95%BF%E7%99%BB%E5%8C%97%E6%B1%89%E5%B1%B1%E9%82%80%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [交警情绪失控大喊弄死你？警方回应](https://www.baidu.com/s?wd=%E4%BA%A4%E8%AD%A6%E6%83%85%E7%BB%AA%E5%A4%B1%E6%8E%A7%E5%A4%A7%E5%96%8A%E5%BC%84%E6%AD%BB%E4%BD%A0%EF%BC%9F%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [蔡徐坤回应“亲密照”：不是我](https://www.baidu.com/s?wd=%E8%94%A1%E5%BE%90%E5%9D%A4%E5%9B%9E%E5%BA%94%E2%80%9C%E4%BA%B2%E5%AF%86%E7%85%A7%E2%80%9D%EF%BC%9A%E4%B8%8D%E6%98%AF%E6%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [对方撤回了一个老太太](https://www.baidu.com/s?wd=%E5%AF%B9%E6%96%B9%E6%92%A4%E5%9B%9E%E4%BA%86%E4%B8%80%E4%B8%AA%E8%80%81%E5%A4%AA%E5%A4%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [李承铉参加张杰谢娜婚礼晕倒了](https://www.baidu.com/s?wd=%E6%9D%8E%E6%89%BF%E9%93%89%E5%8F%82%E5%8A%A0%E5%BC%A0%E6%9D%B0%E8%B0%A2%E5%A8%9C%E5%A9%9A%E7%A4%BC%E6%99%95%E5%80%92%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [李承铉参加张杰谢娜婚礼晕倒了](https://www.baidu.com/s?wd=%E6%9D%8E%E6%89%BF%E9%93%89%E5%8F%82%E5%8A%A0%E5%BC%A0%E6%9D%B0%E8%B0%A2%E5%A8%9C%E5%A9%9A%E7%A4%BC%E6%99%95%E5%80%92%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [对方撤回了一个老太太](https://www.baidu.com/s?wd=%E5%AF%B9%E6%96%B9%E6%92%A4%E5%9B%9E%E4%BA%86%E4%B8%80%E4%B8%AA%E8%80%81%E5%A4%AA%E5%A4%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
