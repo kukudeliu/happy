@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 01:23:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 01:24:01</h4></div>
 
 > 微博  
 
@@ -31,9 +31,9 @@
 3. [中南大学一校友向母校捐赠6亿元](https://www.baidu.com/s?wd=%E4%B8%AD%E5%8D%97%E5%A4%A7%E5%AD%A6%E4%B8%80%E6%A0%A1%E5%8F%8B%E5%90%91%E6%AF%8D%E6%A0%A1%E6%8D%90%E8%B5%A06%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [暑期游新玩法折射消费新趋势](https://www.baidu.com/s?wd=%E6%9A%91%E6%9C%9F%E6%B8%B8%E6%96%B0%E7%8E%A9%E6%B3%95%E6%8A%98%E5%B0%84%E6%B6%88%E8%B4%B9%E6%96%B0%E8%B6%8B%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [沪上阿姨回应一杯开水卖10元](https://www.baidu.com/s?wd=%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%E5%9B%9E%E5%BA%94%E4%B8%80%E6%9D%AF%E5%BC%80%E6%B0%B4%E5%8D%9610%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [景区回应丑女文字雕塑被指辱女](https://www.baidu.com/s?wd=%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94%E4%B8%91%E5%A5%B3%E6%96%87%E5%AD%97%E9%9B%95%E5%A1%91%E8%A2%AB%E6%8C%87%E8%BE%B1%E5%A5%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [官方回应深圳白芒村统租房事件](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E6%B7%B1%E5%9C%B3%E7%99%BD%E8%8A%92%E6%9D%91%E7%BB%9F%E7%A7%9F%E6%88%BF%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女孩将小猫绑起来抡圈玩](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%B0%86%E5%B0%8F%E7%8C%AB%E7%BB%91%E8%B5%B7%E6%9D%A5%E6%8A%A1%E5%9C%88%E7%8E%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [官方回应深圳白芒村统租房事件](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E6%B7%B1%E5%9C%B3%E7%99%BD%E8%8A%92%E6%9D%91%E7%BB%9F%E7%A7%9F%E6%88%BF%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [景区回应丑女文字雕塑被指辱女](https://www.baidu.com/s?wd=%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94%E4%B8%91%E5%A5%B3%E6%96%87%E5%AD%97%E9%9B%95%E5%A1%91%E8%A2%AB%E6%8C%87%E8%BE%B1%E5%A5%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [孟子义把周也哄睡后去打牌](https://www.baidu.com/s?wd=%E5%AD%9F%E5%AD%90%E4%B9%89%E6%8A%8A%E5%91%A8%E4%B9%9F%E5%93%84%E7%9D%A1%E5%90%8E%E5%8E%BB%E6%89%93%E7%89%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [燕京啤酒董秘办回应蔡徐坤事件影响](https://www.baidu.com/s?wd=%E7%87%95%E4%BA%AC%E5%95%A4%E9%85%92%E8%91%A3%E7%A7%98%E5%8A%9E%E5%9B%9E%E5%BA%94%E8%94%A1%E5%BE%90%E5%9D%A4%E4%BA%8B%E4%BB%B6%E5%BD%B1%E5%93%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -43,7 +43,7 @@
 3. [中南大学一校友向母校捐赠6亿元](https://www.baidu.com/s?wd=%E4%B8%AD%E5%8D%97%E5%A4%A7%E5%AD%A6%E4%B8%80%E6%A0%A1%E5%8F%8B%E5%90%91%E6%AF%8D%E6%A0%A1%E6%8D%90%E8%B5%A06%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [暑期游新玩法折射消费新趋势](https://www.baidu.com/s?wd=%E6%9A%91%E6%9C%9F%E6%B8%B8%E6%96%B0%E7%8E%A9%E6%B3%95%E6%8A%98%E5%B0%84%E6%B6%88%E8%B4%B9%E6%96%B0%E8%B6%8B%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [沪上阿姨回应一杯开水卖10元](https://www.baidu.com/s?wd=%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%E5%9B%9E%E5%BA%94%E4%B8%80%E6%9D%AF%E5%BC%80%E6%B0%B4%E5%8D%9610%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [景区回应丑女文字雕塑被指辱女](https://www.baidu.com/s?wd=%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94%E4%B8%91%E5%A5%B3%E6%96%87%E5%AD%97%E9%9B%95%E5%A1%91%E8%A2%AB%E6%8C%87%E8%BE%B1%E5%A5%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [官方回应深圳白芒村统租房事件](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E6%B7%B1%E5%9C%B3%E7%99%BD%E8%8A%92%E6%9D%91%E7%BB%9F%E7%A7%9F%E6%88%BF%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女孩将小猫绑起来抡圈玩](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%B0%86%E5%B0%8F%E7%8C%AB%E7%BB%91%E8%B5%B7%E6%9D%A5%E6%8A%A1%E5%9C%88%E7%8E%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [官方回应深圳白芒村统租房事件](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E6%B7%B1%E5%9C%B3%E7%99%BD%E8%8A%92%E6%9D%91%E7%BB%9F%E7%A7%9F%E6%88%BF%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [景区回应丑女文字雕塑被指辱女](https://www.baidu.com/s?wd=%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94%E4%B8%91%E5%A5%B3%E6%96%87%E5%AD%97%E9%9B%95%E5%A1%91%E8%A2%AB%E6%8C%87%E8%BE%B1%E5%A5%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [孟子义把周也哄睡后去打牌](https://www.baidu.com/s?wd=%E5%AD%9F%E5%AD%90%E4%B9%89%E6%8A%8A%E5%91%A8%E4%B9%9F%E5%93%84%E7%9D%A1%E5%90%8E%E5%8E%BB%E6%89%93%E7%89%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [燕京啤酒董秘办回应蔡徐坤事件影响](https://www.baidu.com/s?wd=%E7%87%95%E4%BA%AC%E5%95%A4%E9%85%92%E8%91%A3%E7%A7%98%E5%8A%9E%E5%9B%9E%E5%BA%94%E8%94%A1%E5%BE%90%E5%9D%A4%E4%BA%8B%E4%BB%B6%E5%BD%B1%E5%93%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
