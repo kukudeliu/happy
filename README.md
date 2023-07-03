@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 02:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 02:02:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [JackeyLove退出亚运会名单](https://s.weibo.com/weibo?q=%23JackeyLove%E9%80%80%E5%87%BA%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%90%8D%E5%8D%95%23&t=31&band_rank=2&Refer=top)<br />
 3. [巨型海底盲盒开出超18万件文物](https://s.weibo.com/weibo?q=%23%E5%B7%A8%E5%9E%8B%E6%B5%B7%E5%BA%95%E7%9B%B2%E7%9B%92%E5%BC%80%E5%87%BA%E8%B6%8518%E4%B8%87%E4%BB%B6%E6%96%87%E7%89%A9%23&t=31&band_rank=3&Refer=top)<br />
 4. [沪上阿姨回应一杯开水卖10元](https://s.weibo.com/weibo?q=%23%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%E5%9B%9E%E5%BA%94%E4%B8%80%E6%9D%AF%E5%BC%80%E6%B0%B4%E5%8D%9610%E5%85%83%23&t=31&band_rank=4&Refer=top)<br />
-5. [广东地震](https://s.weibo.com/weibo?q=%E5%B9%BF%E4%B8%9C%E5%9C%B0%E9%9C%87&t=31&band_rank=5&Refer=top)<br />
-6. [爷爷得知孙子四千元买条狗直接上秤](https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E5%BE%97%E7%9F%A5%E5%AD%99%E5%AD%90%E5%9B%9B%E5%8D%83%E5%85%83%E4%B9%B0%E6%9D%A1%E7%8B%97%E7%9B%B4%E6%8E%A5%E4%B8%8A%E7%A7%A4%23&t=31&band_rank=6&Refer=top)<br />
+5. [爷爷得知孙子四千元买条狗直接上秤](https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E5%BE%97%E7%9F%A5%E5%AD%99%E5%AD%90%E5%9B%9B%E5%8D%83%E5%85%83%E4%B9%B0%E6%9D%A1%E7%8B%97%E7%9B%B4%E6%8E%A5%E4%B8%8A%E7%A7%A4%23&t=31&band_rank=5&Refer=top)<br />
+6. [广东地震](https://s.weibo.com/weibo?q=%E5%B9%BF%E4%B8%9C%E5%9C%B0%E9%9C%87&t=31&band_rank=6&Refer=top)<br />
 7. [369退出亚运会名单](https://s.weibo.com/weibo?q=%23369%E9%80%80%E5%87%BA%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%90%8D%E5%8D%95%23&t=31&band_rank=7&Refer=top)<br />
 8. [为什么运钞车不直接运一张银行卡](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%90%E9%92%9E%E8%BD%A6%E4%B8%8D%E7%9B%B4%E6%8E%A5%E8%BF%90%E4%B8%80%E5%BC%A0%E9%93%B6%E8%A1%8C%E5%8D%A1&t=31&band_rank=8&Refer=top)<br />
-9. [TFBOYS不合体排练吗](https://s.weibo.com/weibo?q=%23TFBOYS%E4%B8%8D%E5%90%88%E4%BD%93%E6%8E%92%E7%BB%83%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
+9. [找对象要找帅的 只有帅才是真的](https://s.weibo.com/weibo?q=%E6%89%BE%E5%AF%B9%E8%B1%A1%E8%A6%81%E6%89%BE%E5%B8%85%E7%9A%84%20%E5%8F%AA%E6%9C%89%E5%B8%85%E6%89%8D%E6%98%AF%E7%9C%9F%E7%9A%84&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
