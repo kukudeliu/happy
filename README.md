@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 15:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 15:28:01</h4></div>
 
 > 微博  
 
@@ -26,7 +26,7 @@
 
 > 百度  
 
-1. [党旗高扬 初心如炬](https://www.baidu.com/s?wd=%E5%85%9A%E6%97%97%E9%AB%98%E6%89%AC+%E5%88%9D%E5%BF%83%E5%A6%82%E7%82%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [走好新时代“赶考”路](https://www.baidu.com/s?wd=%E8%B5%B0%E5%A5%BD%E6%96%B0%E6%97%B6%E4%BB%A3%E2%80%9C%E8%B5%B6%E8%80%83%E2%80%9D%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [越南高考中文题曝光引热议](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E9%AB%98%E8%80%83%E4%B8%AD%E6%96%87%E9%A2%98%E6%9B%9D%E5%85%89%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [夫妻攒百万想给40年没见的女儿](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E6%94%92%E7%99%BE%E4%B8%87%E6%83%B3%E7%BB%9940%E5%B9%B4%E6%B2%A1%E8%A7%81%E7%9A%84%E5%A5%B3%E5%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [动车组驶上青藏线](https://www.baidu.com/s?wd=%E5%8A%A8%E8%BD%A6%E7%BB%84%E9%A9%B6%E4%B8%8A%E9%9D%92%E8%97%8F%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -38,7 +38,7 @@
 
 > 哔哩哔哩  
 
-1. [党旗高扬 初心如炬](https://www.baidu.com/s?wd=%E5%85%9A%E6%97%97%E9%AB%98%E6%89%AC+%E5%88%9D%E5%BF%83%E5%A6%82%E7%82%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [走好新时代“赶考”路](https://www.baidu.com/s?wd=%E8%B5%B0%E5%A5%BD%E6%96%B0%E6%97%B6%E4%BB%A3%E2%80%9C%E8%B5%B6%E8%80%83%E2%80%9D%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [越南高考中文题曝光引热议](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E9%AB%98%E8%80%83%E4%B8%AD%E6%96%87%E9%A2%98%E6%9B%9D%E5%85%89%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [夫妻攒百万想给40年没见的女儿](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E6%94%92%E7%99%BE%E4%B8%87%E6%83%B3%E7%BB%9940%E5%B9%B4%E6%B2%A1%E8%A7%81%E7%9A%84%E5%A5%B3%E5%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [动车组驶上青藏线](https://www.baidu.com/s?wd=%E5%8A%A8%E8%BD%A6%E7%BB%84%E9%A9%B6%E4%B8%8A%E9%9D%92%E8%97%8F%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
