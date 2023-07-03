@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 14:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 14:03:01</h4></div>
 
 > 微博  
 
@@ -27,23 +27,23 @@
 > 百度  
 
 1. [党旗高扬 初心如炬](https://www.baidu.com/s?wd=%E5%85%9A%E6%97%97%E9%AB%98%E6%89%AC+%E5%88%9D%E5%BF%83%E5%A6%82%E7%82%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [蔡徐坤回应“亲密照”：不是我](https://www.baidu.com/s?wd=%E8%94%A1%E5%BE%90%E5%9D%A4%E5%9B%9E%E5%BA%94%E2%80%9C%E4%BA%B2%E5%AF%86%E7%85%A7%E2%80%9D%EF%BC%9A%E4%B8%8D%E6%98%AF%E6%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [汪峰发了个锤子](https://www.baidu.com/s?wd=%E6%B1%AA%E5%B3%B0%E5%8F%91%E4%BA%86%E4%B8%AA%E9%94%A4%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [夫妻攒百万想给40年没见的女儿](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E6%94%92%E7%99%BE%E4%B8%87%E6%83%B3%E7%BB%9940%E5%B9%B4%E6%B2%A1%E8%A7%81%E7%9A%84%E5%A5%B3%E5%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [越南高考中文题曝光引热议](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E9%AB%98%E8%80%83%E4%B8%AD%E6%96%87%E9%A2%98%E6%9B%9D%E5%85%89%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [殷殷挂念暖香江](https://www.baidu.com/s?wd=%E6%AE%B7%E6%AE%B7%E6%8C%82%E5%BF%B5%E6%9A%96%E9%A6%99%E6%B1%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [人大毕业生盗取学校学生信息被刑拘](https://www.baidu.com/s?wd=%E4%BA%BA%E5%A4%A7%E6%AF%95%E4%B8%9A%E7%94%9F%E7%9B%97%E5%8F%96%E5%AD%A6%E6%A0%A1%E5%AD%A6%E7%94%9F%E4%BF%A1%E6%81%AF%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [夫妻攒百万想给40年没见的女儿](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E6%94%92%E7%99%BE%E4%B8%87%E6%83%B3%E7%BB%9940%E5%B9%B4%E6%B2%A1%E8%A7%81%E7%9A%84%E5%A5%B3%E5%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [蔡徐坤回应“亲密照”：不是我](https://www.baidu.com/s?wd=%E8%94%A1%E5%BE%90%E5%9D%A4%E5%9B%9E%E5%BA%94%E2%80%9C%E4%BA%B2%E5%AF%86%E7%85%A7%E2%80%9D%EF%BC%9A%E4%B8%8D%E6%98%AF%E6%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [警方怀疑炎亚纶不止偷拍一人](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E6%80%80%E7%96%91%E7%82%8E%E4%BA%9A%E7%BA%B6%E4%B8%8D%E6%AD%A2%E5%81%B7%E6%8B%8D%E4%B8%80%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [#蔡徐坤首度回应风波#](https://www.baidu.com/s?wd=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E9%A6%96%E5%BA%A6%E5%9B%9E%E5%BA%94%E9%A3%8E%E6%B3%A2%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [警方怀疑炎亚纶不止偷拍一人](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E6%80%80%E7%96%91%E7%82%8E%E4%BA%9A%E7%BA%B6%E4%B8%8D%E6%AD%A2%E5%81%B7%E6%8B%8D%E4%B8%80%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [火车站不让进候车厅 乘客顶烈日排队](https://www.baidu.com/s?wd=%E7%81%AB%E8%BD%A6%E7%AB%99%E4%B8%8D%E8%AE%A9%E8%BF%9B%E5%80%99%E8%BD%A6%E5%8E%85+%E4%B9%98%E5%AE%A2%E9%A1%B6%E7%83%88%E6%97%A5%E6%8E%92%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [蔡徐坤工作室称已起诉造谣者](https://www.baidu.com/s?wd=%E8%94%A1%E5%BE%90%E5%9D%A4%E5%B7%A5%E4%BD%9C%E5%AE%A4%E7%A7%B0%E5%B7%B2%E8%B5%B7%E8%AF%89%E9%80%A0%E8%B0%A3%E8%80%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [党旗高扬 初心如炬](https://www.baidu.com/s?wd=%E5%85%9A%E6%97%97%E9%AB%98%E6%89%AC+%E5%88%9D%E5%BF%83%E5%A6%82%E7%82%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [蔡徐坤回应“亲密照”：不是我](https://www.baidu.com/s?wd=%E8%94%A1%E5%BE%90%E5%9D%A4%E5%9B%9E%E5%BA%94%E2%80%9C%E4%BA%B2%E5%AF%86%E7%85%A7%E2%80%9D%EF%BC%9A%E4%B8%8D%E6%98%AF%E6%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [汪峰发了个锤子](https://www.baidu.com/s?wd=%E6%B1%AA%E5%B3%B0%E5%8F%91%E4%BA%86%E4%B8%AA%E9%94%A4%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [夫妻攒百万想给40年没见的女儿](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E6%94%92%E7%99%BE%E4%B8%87%E6%83%B3%E7%BB%9940%E5%B9%B4%E6%B2%A1%E8%A7%81%E7%9A%84%E5%A5%B3%E5%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [越南高考中文题曝光引热议](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E9%AB%98%E8%80%83%E4%B8%AD%E6%96%87%E9%A2%98%E6%9B%9D%E5%85%89%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [殷殷挂念暖香江](https://www.baidu.com/s?wd=%E6%AE%B7%E6%AE%B7%E6%8C%82%E5%BF%B5%E6%9A%96%E9%A6%99%E6%B1%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [人大毕业生盗取学校学生信息被刑拘](https://www.baidu.com/s?wd=%E4%BA%BA%E5%A4%A7%E6%AF%95%E4%B8%9A%E7%94%9F%E7%9B%97%E5%8F%96%E5%AD%A6%E6%A0%A1%E5%AD%A6%E7%94%9F%E4%BF%A1%E6%81%AF%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [夫妻攒百万想给40年没见的女儿](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E6%94%92%E7%99%BE%E4%B8%87%E6%83%B3%E7%BB%9940%E5%B9%B4%E6%B2%A1%E8%A7%81%E7%9A%84%E5%A5%B3%E5%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [蔡徐坤回应“亲密照”：不是我](https://www.baidu.com/s?wd=%E8%94%A1%E5%BE%90%E5%9D%A4%E5%9B%9E%E5%BA%94%E2%80%9C%E4%BA%B2%E5%AF%86%E7%85%A7%E2%80%9D%EF%BC%9A%E4%B8%8D%E6%98%AF%E6%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [警方怀疑炎亚纶不止偷拍一人](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E6%80%80%E7%96%91%E7%82%8E%E4%BA%9A%E7%BA%B6%E4%B8%8D%E6%AD%A2%E5%81%B7%E6%8B%8D%E4%B8%80%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [#蔡徐坤首度回应风波#](https://www.baidu.com/s?wd=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E9%A6%96%E5%BA%A6%E5%9B%9E%E5%BA%94%E9%A3%8E%E6%B3%A2%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [警方怀疑炎亚纶不止偷拍一人](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E6%80%80%E7%96%91%E7%82%8E%E4%BA%9A%E7%BA%B6%E4%B8%8D%E6%AD%A2%E5%81%B7%E6%8B%8D%E4%B8%80%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [火车站不让进候车厅 乘客顶烈日排队](https://www.baidu.com/s?wd=%E7%81%AB%E8%BD%A6%E7%AB%99%E4%B8%8D%E8%AE%A9%E8%BF%9B%E5%80%99%E8%BD%A6%E5%8E%85+%E4%B9%98%E5%AE%A2%E9%A1%B6%E7%83%88%E6%97%A5%E6%8E%92%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [蔡徐坤工作室称已起诉造谣者](https://www.baidu.com/s?wd=%E8%94%A1%E5%BE%90%E5%9D%A4%E5%B7%A5%E4%BD%9C%E5%AE%A4%E7%A7%B0%E5%B7%B2%E8%B5%B7%E8%AF%89%E9%80%A0%E8%B0%A3%E8%80%85&sa=fyb_news&rsv_dl=fyb_news)<br />
