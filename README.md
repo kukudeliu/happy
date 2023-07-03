@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 14:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 14:57:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [汪峰发了个锤子](https://s.weibo.com/weibo?q=%23%E6%B1%AA%E5%B3%B0%E5%8F%91%E4%BA%86%E4%B8%AA%E9%94%A4%E5%AD%90%23&t=31&band_rank=4&Refer=top)<br />
 5. [JackeyLove 赌博](https://s.weibo.com/weibo?q=JackeyLove%20%E8%B5%8C%E5%8D%9A&t=31&band_rank=5&Refer=top)<br />
 6. [夫胜宽暂停活动](https://s.weibo.com/weibo?q=%23%E5%A4%AB%E8%83%9C%E5%AE%BD%E6%9A%82%E5%81%9C%E6%B4%BB%E5%8A%A8%23&t=31&band_rank=6&Refer=top)<br />
-7. [缅甸逃回男子忆水牢满地是血](https://s.weibo.com/weibo?q=%23%E7%BC%85%E7%94%B8%E9%80%83%E5%9B%9E%E7%94%B7%E5%AD%90%E5%BF%86%E6%B0%B4%E7%89%A2%E6%BB%A1%E5%9C%B0%E6%98%AF%E8%A1%80%23&t=31&band_rank=7&Refer=top)<br />
-8. [1岁宝宝掉下轨道女乘务员秒跳下救娃](https://s.weibo.com/weibo?q=%231%E5%B2%81%E5%AE%9D%E5%AE%9D%E6%8E%89%E4%B8%8B%E8%BD%A8%E9%81%93%E5%A5%B3%E4%B9%98%E5%8A%A1%E5%91%98%E7%A7%92%E8%B7%B3%E4%B8%8B%E6%95%91%E5%A8%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [肖战是靠什么长红多年的](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%98%AF%E9%9D%A0%E4%BB%80%E4%B9%88%E9%95%BF%E7%BA%A2%E5%A4%9A%E5%B9%B4%E7%9A%84%23&t=31&band_rank=9&Refer=top)<br />
+7. [刘昊然胡子](https://s.weibo.com/weibo?q=%E5%88%98%E6%98%8A%E7%84%B6%E8%83%A1%E5%AD%90&t=31&band_rank=7&Refer=top)<br />
+8. [缅甸逃回男子忆水牢满地是血](https://s.weibo.com/weibo?q=%23%E7%BC%85%E7%94%B8%E9%80%83%E5%9B%9E%E7%94%B7%E5%AD%90%E5%BF%86%E6%B0%B4%E7%89%A2%E6%BB%A1%E5%9C%B0%E6%98%AF%E8%A1%80%23&t=31&band_rank=8&Refer=top)<br />
+9. [1岁宝宝掉下轨道女乘务员秒跳下救娃](https://s.weibo.com/weibo?q=%231%E5%B2%81%E5%AE%9D%E5%AE%9D%E6%8E%89%E4%B8%8B%E8%BD%A8%E9%81%93%E5%A5%B3%E4%B9%98%E5%8A%A1%E5%91%98%E7%A7%92%E8%B7%B3%E4%B8%8B%E6%95%91%E5%A8%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -21,8 +21,8 @@
 5. [重提「逆周期调节」、删去「结构性工具有进有退」，央行这场例会释放重磅信号，哪些内容值得关注？](https://www.zhihu.com/question/610019780)<br />
 6. [如何评价《原神》序曲 PV——「致终幕的欢宴」？](https://www.zhihu.com/question/610051243)<br />
 7. [苹果占 618 手机销量 42%，领先第二名近 200 万部，这一调查结果说明什么？](https://www.zhihu.com/question/609145071)<br />
-8. [为什么很多长辈都让高考结束就去考驾照呢？](https://www.zhihu.com/question/609953037)<br />
-9. [黄河壶口瀑布安全墙、云南罗平九龙瀑布景区沿线围挡均已拆除，专家称应警惕筑墙挡景背后思维，如何看待此事？](https://www.zhihu.com/question/609988074)<br />
+8. [黄河壶口瀑布安全墙、云南罗平九龙瀑布景区沿线围挡均已拆除，专家称应警惕筑墙挡景背后思维，如何看待此事？](https://www.zhihu.com/question/609988074)<br />
+9. [为什么很多长辈都让高考结束就去考驾照呢？](https://www.zhihu.com/question/609953037)<br />
 
 > 百度  
 
