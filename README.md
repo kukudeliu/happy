@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 22:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 22:15:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [肖战玉骨遥里也有陈情令演员](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%8E%89%E9%AA%A8%E9%81%A5%E9%87%8C%E4%B9%9F%E6%9C%89%E9%99%88%E6%83%85%E4%BB%A4%E6%BC%94%E5%91%98%23&t=31&band_rank=6&Refer=top)<br />
 7. [男友留的瓜](https://s.weibo.com/weibo?q=%E7%94%B7%E5%8F%8B%E7%95%99%E7%9A%84%E7%93%9C&t=31&band_rank=7&Refer=top)<br />
 8. [八角笼中](https://s.weibo.com/weibo?q=%E5%85%AB%E8%A7%92%E7%AC%BC%E4%B8%AD&t=31&band_rank=8&Refer=top)<br />
-9. [吴磊深V](https://s.weibo.com/weibo?q=%E5%90%B4%E7%A3%8A%E6%B7%B1V&t=31&band_rank=9&Refer=top)<br />
+9. [我的新娘被人说好像杨紫](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E6%96%B0%E5%A8%98%E8%A2%AB%E4%BA%BA%E8%AF%B4%E5%A5%BD%E5%83%8F%E6%9D%A8%E7%B4%AB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
