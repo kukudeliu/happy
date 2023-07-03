@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 04:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 04:59:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [网友热议贵州村超「招一万民工月薪 3000 训练一年，选 30 人去踢世界杯」，如何评价这样的观点？](https://www.zhihu.com/question/610056090)<br />
 5. [滔搏电子竞技俱乐部发声「被行政处罚的喻某波与旗下选手喻文波毫无关联」对此你有什么想说？](https://www.zhihu.com/question/610071455)<br />
 6. [一名北京地接导游在颐和园中暑送医，经抢救无效死亡，如何看待此事？高温天气户外作业如何预防中暑？](https://www.zhihu.com/question/610074062)<br />
-7. [专家称「尽快研究出台遗赠税，弱化财富两极分化走势」，如何看待此观点？可行性如何？](https://www.zhihu.com/question/610090923)<br />
-8. [环卫工儿子高考 687 分被多校争抢，父亲称「就算贷款、卖房也会让他读下去」，如何看待此事？](https://www.zhihu.com/question/610045381)<br />
-9. [如果加大力度刺激楼市，会不会出现新一轮的楼市泡沫？楼市还具备再出现一轮泡沫的条件吗？](https://www.zhihu.com/question/609279307)<br />
+7. [山姆泡面桶已被炒至 1999 元一桶，仍有人购买，如何看待此事？背后是怎样的消费心理？](https://www.zhihu.com/question/610060285)<br />
+8. [专家称「尽快研究出台遗赠税，弱化财富两极分化走势」，如何看待此观点？可行性如何？](https://www.zhihu.com/question/610090923)<br />
+9. [环卫工儿子高考 687 分被多校争抢，父亲称「就算贷款、卖房也会让他读下去」，如何看待此事？](https://www.zhihu.com/question/610045381)<br />
 
 > 百度  
 
@@ -31,10 +31,10 @@
 3. [中南大学一校友向母校捐赠6亿元](https://www.baidu.com/s?wd=%E4%B8%AD%E5%8D%97%E5%A4%A7%E5%AD%A6%E4%B8%80%E6%A0%A1%E5%8F%8B%E5%90%91%E6%AF%8D%E6%A0%A1%E6%8D%90%E8%B5%A06%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [暑期游新玩法折射消费新趋势](https://www.baidu.com/s?wd=%E6%9A%91%E6%9C%9F%E6%B8%B8%E6%96%B0%E7%8E%A9%E6%B3%95%E6%8A%98%E5%B0%84%E6%B6%88%E8%B4%B9%E6%96%B0%E8%B6%8B%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [沪上阿姨回应一杯开水卖10元](https://www.baidu.com/s?wd=%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%E5%9B%9E%E5%BA%94%E4%B8%80%E6%9D%AF%E5%BC%80%E6%B0%B4%E5%8D%9610%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [对方撤回了一个老太太](https://www.baidu.com/s?wd=%E5%AF%B9%E6%96%B9%E6%92%A4%E5%9B%9E%E4%BA%86%E4%B8%80%E4%B8%AA%E8%80%81%E5%A4%AA%E5%A4%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [北京一导游中暑身亡 系家中独子](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E4%B8%80%E5%AF%BC%E6%B8%B8%E4%B8%AD%E6%9A%91%E8%BA%AB%E4%BA%A1+%E7%B3%BB%E5%AE%B6%E4%B8%AD%E7%8B%AC%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [日本东京市中心发生爆炸](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%B8%9C%E4%BA%AC%E5%B8%82%E4%B8%AD%E5%BF%83%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [墨西哥一市长连续2年与鳄鱼结婚](https://www.baidu.com/s?wd=%E5%A2%A8%E8%A5%BF%E5%93%A5%E4%B8%80%E5%B8%82%E9%95%BF%E8%BF%9E%E7%BB%AD2%E5%B9%B4%E4%B8%8E%E9%B3%84%E9%B1%BC%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [从缅甸逃回男子自述水牢满地是血](https://www.baidu.com/s?wd=%E4%BB%8E%E7%BC%85%E7%94%B8%E9%80%83%E5%9B%9E%E7%94%B7%E5%AD%90%E8%87%AA%E8%BF%B0%E6%B0%B4%E7%89%A2%E6%BB%A1%E5%9C%B0%E6%98%AF%E8%A1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [对方撤回了一个老太太](https://www.baidu.com/s?wd=%E5%AF%B9%E6%96%B9%E6%92%A4%E5%9B%9E%E4%BA%86%E4%B8%80%E4%B8%AA%E8%80%81%E5%A4%AA%E5%A4%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [墨西哥一市长连续2年与鳄鱼结婚](https://www.baidu.com/s?wd=%E5%A2%A8%E8%A5%BF%E5%93%A5%E4%B8%80%E5%B8%82%E9%95%BF%E8%BF%9E%E7%BB%AD2%E5%B9%B4%E4%B8%8E%E9%B3%84%E9%B1%BC%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [中南大学一校友向母校捐赠6亿元](https://www.baidu.com/s?wd=%E4%B8%AD%E5%8D%97%E5%A4%A7%E5%AD%A6%E4%B8%80%E6%A0%A1%E5%8F%8B%E5%90%91%E6%AF%8D%E6%A0%A1%E6%8D%90%E8%B5%A06%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [暑期游新玩法折射消费新趋势](https://www.baidu.com/s?wd=%E6%9A%91%E6%9C%9F%E6%B8%B8%E6%96%B0%E7%8E%A9%E6%B3%95%E6%8A%98%E5%B0%84%E6%B6%88%E8%B4%B9%E6%96%B0%E8%B6%8B%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [沪上阿姨回应一杯开水卖10元](https://www.baidu.com/s?wd=%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%E5%9B%9E%E5%BA%94%E4%B8%80%E6%9D%AF%E5%BC%80%E6%B0%B4%E5%8D%9610%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [对方撤回了一个老太太](https://www.baidu.com/s?wd=%E5%AF%B9%E6%96%B9%E6%92%A4%E5%9B%9E%E4%BA%86%E4%B8%80%E4%B8%AA%E8%80%81%E5%A4%AA%E5%A4%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [北京一导游中暑身亡 系家中独子](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E4%B8%80%E5%AF%BC%E6%B8%B8%E4%B8%AD%E6%9A%91%E8%BA%AB%E4%BA%A1+%E7%B3%BB%E5%AE%B6%E4%B8%AD%E7%8B%AC%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [日本东京市中心发生爆炸](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%B8%9C%E4%BA%AC%E5%B8%82%E4%B8%AD%E5%BF%83%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [墨西哥一市长连续2年与鳄鱼结婚](https://www.baidu.com/s?wd=%E5%A2%A8%E8%A5%BF%E5%93%A5%E4%B8%80%E5%B8%82%E9%95%BF%E8%BF%9E%E7%BB%AD2%E5%B9%B4%E4%B8%8E%E9%B3%84%E9%B1%BC%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [从缅甸逃回男子自述水牢满地是血](https://www.baidu.com/s?wd=%E4%BB%8E%E7%BC%85%E7%94%B8%E9%80%83%E5%9B%9E%E7%94%B7%E5%AD%90%E8%87%AA%E8%BF%B0%E6%B0%B4%E7%89%A2%E6%BB%A1%E5%9C%B0%E6%98%AF%E8%A1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [对方撤回了一个老太太](https://www.baidu.com/s?wd=%E5%AF%B9%E6%96%B9%E6%92%A4%E5%9B%9E%E4%BA%86%E4%B8%80%E4%B8%AA%E8%80%81%E5%A4%AA%E5%A4%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [墨西哥一市长连续2年与鳄鱼结婚](https://www.baidu.com/s?wd=%E5%A2%A8%E8%A5%BF%E5%93%A5%E4%B8%80%E5%B8%82%E9%95%BF%E8%BF%9E%E7%BB%AD2%E5%B9%B4%E4%B8%8E%E9%B3%84%E9%B1%BC%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
