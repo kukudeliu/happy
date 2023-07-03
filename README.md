@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 12:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 12:14:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [动画电影《长安三万里》点映口碑如何？值得去电影院看吗？](https://www.zhihu.com/question/549287398)<br />
 6. [北京广告协会发文「对歌手蔡某某做好风险把控」，如何看待此事？后续进展如何？](https://www.zhihu.com/question/609892459)<br />
 7. [怎么理解「 善战者无赫赫之功 」？](https://www.zhihu.com/question/409246699)<br />
-8. [为什么感觉这几十年给孩子起的名字越来越幼稚?](https://www.zhihu.com/question/608128511)<br />
-9. []()<br />
+8. [4 岁半女孩，以后不准备走艺术路线，请问学什么乐器比较好？](https://www.zhihu.com/question/609567378)<br />
+9. [为什么感觉这几十年给孩子起的名字越来越幼稚?](https://www.zhihu.com/question/608128511)<br />
 
 > 百度  
 
