@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 04:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 04:24:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [成绩去不了北大，但是能去北大医学部，应该去吗?](https://www.zhihu.com/question/609084243)<br />
 7. [上海一豪宅拍出 1.58 亿天价，单价超 34 万，或由得物创始人竞得，哪些信息值得关注？](https://www.zhihu.com/question/610023999)<br />
 8. [滔搏电子竞技俱乐部发声「被行政处罚的喻某波与旗下选手喻文波毫无关联」对此你有什么想说？](https://www.zhihu.com/question/610071455)<br />
-9. [山姆泡面桶已被炒至 1999 元一桶，仍有人购买，如何看待此事？背后是怎样的消费心理？](https://www.zhihu.com/question/610060285)<br />
+9. [一个很小的东西，比如指甲盖大小。但是它的重量却很大，重到几万吨。这个东西放在手上，它的重力会穿破手吗？](https://www.zhihu.com/question/519865099)<br />
 
 > 百度  
 
@@ -32,9 +32,9 @@
 4. [暑期游新玩法折射消费新趋势](https://www.baidu.com/s?wd=%E6%9A%91%E6%9C%9F%E6%B8%B8%E6%96%B0%E7%8E%A9%E6%B3%95%E6%8A%98%E5%B0%84%E6%B6%88%E8%B4%B9%E6%96%B0%E8%B6%8B%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [沪上阿姨回应一杯开水卖10元](https://www.baidu.com/s?wd=%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%E5%9B%9E%E5%BA%94%E4%B8%80%E6%9D%AF%E5%BC%80%E6%B0%B4%E5%8D%9610%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [日本东京市中心发生爆炸](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%B8%9C%E4%BA%AC%E5%B8%82%E4%B8%AD%E5%BF%83%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [上海豪宅1.58亿成交 买家身份曝光](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E8%B1%AA%E5%AE%851.58%E4%BA%BF%E6%88%90%E4%BA%A4+%E4%B9%B0%E5%AE%B6%E8%BA%AB%E4%BB%BD%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [越南高考中文题曝光引热议](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E9%AB%98%E8%80%83%E4%B8%AD%E6%96%87%E9%A2%98%E6%9B%9D%E5%85%89%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [为何对镓和锗实行出口管制？](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BD%95%E5%AF%B9%E9%95%93%E5%92%8C%E9%94%97%E5%AE%9E%E8%A1%8C%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [越南高考中文题曝光引热议](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E9%AB%98%E8%80%83%E4%B8%AD%E6%96%87%E9%A2%98%E6%9B%9D%E5%85%89%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [为何对镓和锗实行出口管制？](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BD%95%E5%AF%B9%E9%95%93%E5%92%8C%E9%94%97%E5%AE%9E%E8%A1%8C%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [上海豪宅1.58亿成交 买家身份曝光](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E8%B1%AA%E5%AE%851.58%E4%BA%BF%E6%88%90%E4%BA%A4+%E4%B9%B0%E5%AE%B6%E8%BA%AB%E4%BB%BD%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [暑期游新玩法折射消费新趋势](https://www.baidu.com/s?wd=%E6%9A%91%E6%9C%9F%E6%B8%B8%E6%96%B0%E7%8E%A9%E6%B3%95%E6%8A%98%E5%B0%84%E6%B6%88%E8%B4%B9%E6%96%B0%E8%B6%8B%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [沪上阿姨回应一杯开水卖10元](https://www.baidu.com/s?wd=%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%E5%9B%9E%E5%BA%94%E4%B8%80%E6%9D%AF%E5%BC%80%E6%B0%B4%E5%8D%9610%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [日本东京市中心发生爆炸](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%B8%9C%E4%BA%AC%E5%B8%82%E4%B8%AD%E5%BF%83%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [上海豪宅1.58亿成交 买家身份曝光](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E8%B1%AA%E5%AE%851.58%E4%BA%BF%E6%88%90%E4%BA%A4+%E4%B9%B0%E5%AE%B6%E8%BA%AB%E4%BB%BD%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [越南高考中文题曝光引热议](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E9%AB%98%E8%80%83%E4%B8%AD%E6%96%87%E9%A2%98%E6%9B%9D%E5%85%89%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [为何对镓和锗实行出口管制？](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BD%95%E5%AF%B9%E9%95%93%E5%92%8C%E9%94%97%E5%AE%9E%E8%A1%8C%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [越南高考中文题曝光引热议](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E9%AB%98%E8%80%83%E4%B8%AD%E6%96%87%E9%A2%98%E6%9B%9D%E5%85%89%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [为何对镓和锗实行出口管制？](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BD%95%E5%AF%B9%E9%95%93%E5%92%8C%E9%94%97%E5%AE%9E%E8%A1%8C%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [上海豪宅1.58亿成交 买家身份曝光](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E8%B1%AA%E5%AE%851.58%E4%BA%BF%E6%88%90%E4%BA%A4+%E4%B9%B0%E5%AE%B6%E8%BA%AB%E4%BB%BD%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
