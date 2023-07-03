@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 12:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 12:19:01</h4></div>
 
 > 微博  
 
@@ -27,23 +27,23 @@
 > 百度  
 
 1. [党旗高扬 初心如炬](https://www.baidu.com/s?wd=%E5%85%9A%E6%97%97%E9%AB%98%E6%89%AC+%E5%88%9D%E5%BF%83%E5%A6%82%E7%82%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [#蔡徐坤首度回应风波#](https://www.baidu.com/s?wd=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E9%A6%96%E5%BA%A6%E5%9B%9E%E5%BA%94%E9%A3%8E%E6%B3%A2%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [人大毕业生盗取学校学生信息被刑拘](https://www.baidu.com/s?wd=%E4%BA%BA%E5%A4%A7%E6%AF%95%E4%B8%9A%E7%94%9F%E7%9B%97%E5%8F%96%E5%AD%A6%E6%A0%A1%E5%AD%A6%E7%94%9F%E4%BF%A1%E6%81%AF%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [人大毕业生盗取学校学生信息被刑拘](https://www.baidu.com/s?wd=%E4%BA%BA%E5%A4%A7%E6%AF%95%E4%B8%9A%E7%94%9F%E7%9B%97%E5%8F%96%E5%AD%A6%E6%A0%A1%E5%AD%A6%E7%94%9F%E4%BF%A1%E6%81%AF%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [被巨石砸中的“渝A97G82”](https://www.baidu.com/s?wd=%E8%A2%AB%E5%B7%A8%E7%9F%B3%E7%A0%B8%E4%B8%AD%E7%9A%84%E2%80%9C%E6%B8%9DA97G82%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [殷殷挂念暖香江](https://www.baidu.com/s?wd=%E6%AE%B7%E6%AE%B7%E6%8C%82%E5%BF%B5%E6%9A%96%E9%A6%99%E6%B1%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [被巨石砸中的“渝A97G82”](https://www.baidu.com/s?wd=%E8%A2%AB%E5%B7%A8%E7%9F%B3%E7%A0%B8%E4%B8%AD%E7%9A%84%E2%80%9C%E6%B8%9DA97G82%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [从缅甸逃回男子自述水牢满地是血](https://www.baidu.com/s?wd=%E4%BB%8E%E7%BC%85%E7%94%B8%E9%80%83%E5%9B%9E%E7%94%B7%E5%AD%90%E8%87%AA%E8%BF%B0%E6%B0%B4%E7%89%A2%E6%BB%A1%E5%9C%B0%E6%98%AF%E8%A1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [蔡徐坤工作室称已起诉造谣者](https://www.baidu.com/s?wd=%E8%94%A1%E5%BE%90%E5%9D%A4%E5%B7%A5%E4%BD%9C%E5%AE%A4%E7%A7%B0%E5%B7%B2%E8%B5%B7%E8%AF%89%E9%80%A0%E8%B0%A3%E8%80%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [山姆泡面桶已被炒至1999元一桶](https://www.baidu.com/s?wd=%E5%B1%B1%E5%A7%86%E6%B3%A1%E9%9D%A2%E6%A1%B6%E5%B7%B2%E8%A2%AB%E7%82%92%E8%87%B31999%E5%85%83%E4%B8%80%E6%A1%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [“白娘子”施法手势是赵雅芝设计的](https://www.baidu.com/s?wd=%E2%80%9C%E7%99%BD%E5%A8%98%E5%AD%90%E2%80%9D%E6%96%BD%E6%B3%95%E6%89%8B%E5%8A%BF%E6%98%AF%E8%B5%B5%E9%9B%85%E8%8A%9D%E8%AE%BE%E8%AE%A1%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [从缅甸逃回男子自述水牢满地是血](https://www.baidu.com/s?wd=%E4%BB%8E%E7%BC%85%E7%94%B8%E9%80%83%E5%9B%9E%E7%94%B7%E5%AD%90%E8%87%AA%E8%BF%B0%E6%B0%B4%E7%89%A2%E6%BB%A1%E5%9C%B0%E6%98%AF%E8%A1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [山姆泡面桶已被炒至1999元一桶](https://www.baidu.com/s?wd=%E5%B1%B1%E5%A7%86%E6%B3%A1%E9%9D%A2%E6%A1%B6%E5%B7%B2%E8%A2%AB%E7%82%92%E8%87%B31999%E5%85%83%E4%B8%80%E6%A1%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [#蔡徐坤首度回应风波#](https://www.baidu.com/s?wd=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E9%A6%96%E5%BA%A6%E5%9B%9E%E5%BA%94%E9%A3%8E%E6%B3%A2%23&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [“白娘子”施法手势是赵雅芝设计的](https://www.baidu.com/s?wd=%E2%80%9C%E7%99%BD%E5%A8%98%E5%AD%90%E2%80%9D%E6%96%BD%E6%B3%95%E6%89%8B%E5%8A%BF%E6%98%AF%E8%B5%B5%E9%9B%85%E8%8A%9D%E8%AE%BE%E8%AE%A1%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [蔡徐坤工作室称已起诉造谣者](https://www.baidu.com/s?wd=%E8%94%A1%E5%BE%90%E5%9D%A4%E5%B7%A5%E4%BD%9C%E5%AE%A4%E7%A7%B0%E5%B7%B2%E8%B5%B7%E8%AF%89%E9%80%A0%E8%B0%A3%E8%80%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [党旗高扬 初心如炬](https://www.baidu.com/s?wd=%E5%85%9A%E6%97%97%E9%AB%98%E6%89%AC+%E5%88%9D%E5%BF%83%E5%A6%82%E7%82%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [#蔡徐坤首度回应风波#](https://www.baidu.com/s?wd=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E9%A6%96%E5%BA%A6%E5%9B%9E%E5%BA%94%E9%A3%8E%E6%B3%A2%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [人大毕业生盗取学校学生信息被刑拘](https://www.baidu.com/s?wd=%E4%BA%BA%E5%A4%A7%E6%AF%95%E4%B8%9A%E7%94%9F%E7%9B%97%E5%8F%96%E5%AD%A6%E6%A0%A1%E5%AD%A6%E7%94%9F%E4%BF%A1%E6%81%AF%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [人大毕业生盗取学校学生信息被刑拘](https://www.baidu.com/s?wd=%E4%BA%BA%E5%A4%A7%E6%AF%95%E4%B8%9A%E7%94%9F%E7%9B%97%E5%8F%96%E5%AD%A6%E6%A0%A1%E5%AD%A6%E7%94%9F%E4%BF%A1%E6%81%AF%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [被巨石砸中的“渝A97G82”](https://www.baidu.com/s?wd=%E8%A2%AB%E5%B7%A8%E7%9F%B3%E7%A0%B8%E4%B8%AD%E7%9A%84%E2%80%9C%E6%B8%9DA97G82%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [殷殷挂念暖香江](https://www.baidu.com/s?wd=%E6%AE%B7%E6%AE%B7%E6%8C%82%E5%BF%B5%E6%9A%96%E9%A6%99%E6%B1%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [被巨石砸中的“渝A97G82”](https://www.baidu.com/s?wd=%E8%A2%AB%E5%B7%A8%E7%9F%B3%E7%A0%B8%E4%B8%AD%E7%9A%84%E2%80%9C%E6%B8%9DA97G82%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [从缅甸逃回男子自述水牢满地是血](https://www.baidu.com/s?wd=%E4%BB%8E%E7%BC%85%E7%94%B8%E9%80%83%E5%9B%9E%E7%94%B7%E5%AD%90%E8%87%AA%E8%BF%B0%E6%B0%B4%E7%89%A2%E6%BB%A1%E5%9C%B0%E6%98%AF%E8%A1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [蔡徐坤工作室称已起诉造谣者](https://www.baidu.com/s?wd=%E8%94%A1%E5%BE%90%E5%9D%A4%E5%B7%A5%E4%BD%9C%E5%AE%A4%E7%A7%B0%E5%B7%B2%E8%B5%B7%E8%AF%89%E9%80%A0%E8%B0%A3%E8%80%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [山姆泡面桶已被炒至1999元一桶](https://www.baidu.com/s?wd=%E5%B1%B1%E5%A7%86%E6%B3%A1%E9%9D%A2%E6%A1%B6%E5%B7%B2%E8%A2%AB%E7%82%92%E8%87%B31999%E5%85%83%E4%B8%80%E6%A1%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [“白娘子”施法手势是赵雅芝设计的](https://www.baidu.com/s?wd=%E2%80%9C%E7%99%BD%E5%A8%98%E5%AD%90%E2%80%9D%E6%96%BD%E6%B3%95%E6%89%8B%E5%8A%BF%E6%98%AF%E8%B5%B5%E9%9B%85%E8%8A%9D%E8%AE%BE%E8%AE%A1%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [从缅甸逃回男子自述水牢满地是血](https://www.baidu.com/s?wd=%E4%BB%8E%E7%BC%85%E7%94%B8%E9%80%83%E5%9B%9E%E7%94%B7%E5%AD%90%E8%87%AA%E8%BF%B0%E6%B0%B4%E7%89%A2%E6%BB%A1%E5%9C%B0%E6%98%AF%E8%A1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [山姆泡面桶已被炒至1999元一桶](https://www.baidu.com/s?wd=%E5%B1%B1%E5%A7%86%E6%B3%A1%E9%9D%A2%E6%A1%B6%E5%B7%B2%E8%A2%AB%E7%82%92%E8%87%B31999%E5%85%83%E4%B8%80%E6%A1%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [#蔡徐坤首度回应风波#](https://www.baidu.com/s?wd=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E9%A6%96%E5%BA%A6%E5%9B%9E%E5%BA%94%E9%A3%8E%E6%B3%A2%23&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [“白娘子”施法手势是赵雅芝设计的](https://www.baidu.com/s?wd=%E2%80%9C%E7%99%BD%E5%A8%98%E5%AD%90%E2%80%9D%E6%96%BD%E6%B3%95%E6%89%8B%E5%8A%BF%E6%98%AF%E8%B5%B5%E9%9B%85%E8%8A%9D%E8%AE%BE%E8%AE%A1%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [蔡徐坤工作室称已起诉造谣者](https://www.baidu.com/s?wd=%E8%94%A1%E5%BE%90%E5%9D%A4%E5%B7%A5%E4%BD%9C%E5%AE%A4%E7%A7%B0%E5%B7%B2%E8%B5%B7%E8%AF%89%E9%80%A0%E8%B0%A3%E8%80%85&sa=fyb_news&rsv_dl=fyb_news)<br />
