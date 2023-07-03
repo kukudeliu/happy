@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 22:03:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 22:04:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [蔡徐坤方公布报警回执](https://www.baidu.com/s?wd=%E8%94%A1%E5%BE%90%E5%9D%A4%E6%96%B9%E5%85%AC%E5%B8%83%E6%8A%A5%E8%AD%A6%E5%9B%9E%E6%89%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子开着“小吃街”出摊](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BC%80%E7%9D%80%E2%80%9C%E5%B0%8F%E5%90%83%E8%A1%97%E2%80%9D%E5%87%BA%E6%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [法国遭警察射杀少年外祖母发声](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E9%81%AD%E8%AD%A6%E5%AF%9F%E5%B0%84%E6%9D%80%E5%B0%91%E5%B9%B4%E5%A4%96%E7%A5%96%E6%AF%8D%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [北京一导游中暑身亡 系家中独子](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E4%B8%80%E5%AF%BC%E6%B8%B8%E4%B8%AD%E6%9A%91%E8%BA%AB%E4%BA%A1+%E7%B3%BB%E5%AE%B6%E4%B8%AD%E7%8B%AC%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [租房降级年轻人：住30元1天太空舱](https://www.baidu.com/s?wd=%E7%A7%9F%E6%88%BF%E9%99%8D%E7%BA%A7%E5%B9%B4%E8%BD%BB%E4%BA%BA%EF%BC%9A%E4%BD%8F30%E5%85%831%E5%A4%A9%E5%A4%AA%E7%A9%BA%E8%88%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女孩回应给患病外公洗澡：望理解](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%9B%9E%E5%BA%94%E7%BB%99%E6%82%A3%E7%97%85%E5%A4%96%E5%85%AC%E6%B4%97%E6%BE%A1%EF%BC%9A%E6%9C%9B%E7%90%86%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [交警情绪失控大喊弄死你？警方回应](https://www.baidu.com/s?wd=%E4%BA%A4%E8%AD%A6%E6%83%85%E7%BB%AA%E5%A4%B1%E6%8E%A7%E5%A4%A7%E5%96%8A%E5%BC%84%E6%AD%BB%E4%BD%A0%EF%BC%9F%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [蔡徐坤方公布报警回执](https://www.baidu.com/s?wd=%E8%94%A1%E5%BE%90%E5%9D%A4%E6%96%B9%E5%85%AC%E5%B8%83%E6%8A%A5%E8%AD%A6%E5%9B%9E%E6%89%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子开着“小吃街”出摊](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BC%80%E7%9D%80%E2%80%9C%E5%B0%8F%E5%90%83%E8%A1%97%E2%80%9D%E5%87%BA%E6%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [法国遭警察射杀少年外祖母发声](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E9%81%AD%E8%AD%A6%E5%AF%9F%E5%B0%84%E6%9D%80%E5%B0%91%E5%B9%B4%E5%A4%96%E7%A5%96%E6%AF%8D%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [北京一导游中暑身亡 系家中独子](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E4%B8%80%E5%AF%BC%E6%B8%B8%E4%B8%AD%E6%9A%91%E8%BA%AB%E4%BA%A1+%E7%B3%BB%E5%AE%B6%E4%B8%AD%E7%8B%AC%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [租房降级年轻人：住30元1天太空舱](https://www.baidu.com/s?wd=%E7%A7%9F%E6%88%BF%E9%99%8D%E7%BA%A7%E5%B9%B4%E8%BD%BB%E4%BA%BA%EF%BC%9A%E4%BD%8F30%E5%85%831%E5%A4%A9%E5%A4%AA%E7%A9%BA%E8%88%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女孩回应给患病外公洗澡：望理解](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%9B%9E%E5%BA%94%E7%BB%99%E6%82%A3%E7%97%85%E5%A4%96%E5%85%AC%E6%B4%97%E6%BE%A1%EF%BC%9A%E6%9C%9B%E7%90%86%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [交警情绪失控大喊弄死你？警方回应](https://www.baidu.com/s?wd=%E4%BA%A4%E8%AD%A6%E6%83%85%E7%BB%AA%E5%A4%B1%E6%8E%A7%E5%A4%A7%E5%96%8A%E5%BC%84%E6%AD%BB%E4%BD%A0%EF%BC%9F%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
