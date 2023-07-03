@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 03:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 03:24:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [沪上阿姨回应一杯开水卖10元](https://s.weibo.com/weibo?q=%23%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%E5%9B%9E%E5%BA%94%E4%B8%80%E6%9D%AF%E5%BC%80%E6%B0%B4%E5%8D%9610%E5%85%83%23&t=31&band_rank=5&Refer=top)<br />
 6. [女子外卖备注多放醋商家送1大袋](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%A4%96%E5%8D%96%E5%A4%87%E6%B3%A8%E5%A4%9A%E6%94%BE%E9%86%8B%E5%95%86%E5%AE%B6%E9%80%811%E5%A4%A7%E8%A2%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [为什么运钞车不直接运一张银行卡](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%90%E9%92%9E%E8%BD%A6%E4%B8%8D%E7%9B%B4%E6%8E%A5%E8%BF%90%E4%B8%80%E5%BC%A0%E9%93%B6%E8%A1%8C%E5%8D%A1&t=31&band_rank=7&Refer=top)<br />
-8. [爷爷得知孙子四千元买条狗直接上秤](https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E5%BE%97%E7%9F%A5%E5%AD%99%E5%AD%90%E5%9B%9B%E5%8D%83%E5%85%83%E4%B9%B0%E6%9D%A1%E7%8B%97%E7%9B%B4%E6%8E%A5%E4%B8%8A%E7%A7%A4%23&t=31&band_rank=8&Refer=top)<br />
-9. [广东地震](https://s.weibo.com/weibo?q=%E5%B9%BF%E4%B8%9C%E5%9C%B0%E9%9C%87&t=31&band_rank=9&Refer=top)<br />
+8. [广东地震](https://s.weibo.com/weibo?q=%E5%B9%BF%E4%B8%9C%E5%9C%B0%E9%9C%87&t=31&band_rank=8&Refer=top)<br />
+9. [爷爷得知孙子四千元买条狗直接上秤](https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E5%BE%97%E7%9F%A5%E5%AD%99%E5%AD%90%E5%9B%9B%E5%8D%83%E5%85%83%E4%B9%B0%E6%9D%A1%E7%8B%97%E7%9B%B4%E6%8E%A5%E4%B8%8A%E7%A7%A4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -20,8 +20,8 @@
 4. [两部门发布公告表示为维护国家安全和利益，决定对镓、锗相关物项实施出口管制，如何看待这一举措？](https://www.zhihu.com/question/610105939)<br />
 5. [成绩去不了北大，但是能去北大医学部，应该去吗?](https://www.zhihu.com/question/609084243)<br />
 6. [网友热议贵州村超「招一万民工月薪 3000 训练一年，选 30 人去踢世界杯」，如何评价这样的观点？](https://www.zhihu.com/question/610056090)<br />
-7. [上海一豪宅拍出 1.58 亿天价，单价超 34 万，或由得物创始人竞得，哪些信息值得关注？](https://www.zhihu.com/question/610023999)<br />
-8. [如果加大力度刺激楼市，会不会出现新一轮的楼市泡沫？楼市还具备再出现一轮泡沫的条件吗？](https://www.zhihu.com/question/609279307)<br />
+7. [如果加大力度刺激楼市，会不会出现新一轮的楼市泡沫？楼市还具备再出现一轮泡沫的条件吗？](https://www.zhihu.com/question/609279307)<br />
+8. [上海一豪宅拍出 1.58 亿天价，单价超 34 万，或由得物创始人竞得，哪些信息值得关注？](https://www.zhihu.com/question/610023999)<br />
 9. [滔搏电子竞技俱乐部发声「被行政处罚的喻某波与旗下选手喻文波毫无关联」对此你有什么想说？](https://www.zhihu.com/question/610071455)<br />
 
 > 百度  
@@ -33,8 +33,8 @@
 5. [沪上阿姨回应一杯开水卖10元](https://www.baidu.com/s?wd=%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%E5%9B%9E%E5%BA%94%E4%B8%80%E6%9D%AF%E5%BC%80%E6%B0%B4%E5%8D%9610%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [被巨石砸中的“渝A97G82”](https://www.baidu.com/s?wd=%E8%A2%AB%E5%B7%A8%E7%9F%B3%E7%A0%B8%E4%B8%AD%E7%9A%84%E2%80%9C%E6%B8%9DA97G82%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [越南高考中文题曝光引热议](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E9%AB%98%E8%80%83%E4%B8%AD%E6%96%87%E9%A2%98%E6%9B%9D%E5%85%89%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [对方撤回了一个老太太](https://www.baidu.com/s?wd=%E5%AF%B9%E6%96%B9%E6%92%A4%E5%9B%9E%E4%BA%86%E4%B8%80%E4%B8%AA%E8%80%81%E5%A4%AA%E5%A4%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [官方回应深圳白芒村统租房事件](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E6%B7%B1%E5%9C%B3%E7%99%BD%E8%8A%92%E6%9D%91%E7%BB%9F%E7%A7%9F%E6%88%BF%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [官方回应深圳白芒村统租房事件](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E6%B7%B1%E5%9C%B3%E7%99%BD%E8%8A%92%E6%9D%91%E7%BB%9F%E7%A7%9F%E6%88%BF%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [对方撤回了一个老太太](https://www.baidu.com/s?wd=%E5%AF%B9%E6%96%B9%E6%92%A4%E5%9B%9E%E4%BA%86%E4%B8%80%E4%B8%AA%E8%80%81%E5%A4%AA%E5%A4%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [沪上阿姨回应一杯开水卖10元](https://www.baidu.com/s?wd=%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%E5%9B%9E%E5%BA%94%E4%B8%80%E6%9D%AF%E5%BC%80%E6%B0%B4%E5%8D%9610%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [被巨石砸中的“渝A97G82”](https://www.baidu.com/s?wd=%E8%A2%AB%E5%B7%A8%E7%9F%B3%E7%A0%B8%E4%B8%AD%E7%9A%84%E2%80%9C%E6%B8%9DA97G82%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [越南高考中文题曝光引热议](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E9%AB%98%E8%80%83%E4%B8%AD%E6%96%87%E9%A2%98%E6%9B%9D%E5%85%89%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [对方撤回了一个老太太](https://www.baidu.com/s?wd=%E5%AF%B9%E6%96%B9%E6%92%A4%E5%9B%9E%E4%BA%86%E4%B8%80%E4%B8%AA%E8%80%81%E5%A4%AA%E5%A4%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [官方回应深圳白芒村统租房事件](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E6%B7%B1%E5%9C%B3%E7%99%BD%E8%8A%92%E6%9D%91%E7%BB%9F%E7%A7%9F%E6%88%BF%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [官方回应深圳白芒村统租房事件](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E6%B7%B1%E5%9C%B3%E7%99%BD%E8%8A%92%E6%9D%91%E7%BB%9F%E7%A7%9F%E6%88%BF%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [对方撤回了一个老太太](https://www.baidu.com/s?wd=%E5%AF%B9%E6%96%B9%E6%92%A4%E5%9B%9E%E4%BA%86%E4%B8%80%E4%B8%AA%E8%80%81%E5%A4%AA%E5%A4%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
