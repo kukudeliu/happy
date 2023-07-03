@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 07:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 07:37:01</h4></div>
 
 > 微博  
 
@@ -32,8 +32,8 @@
 4. [暑期游新玩法折射消费新趋势](https://www.baidu.com/s?wd=%E6%9A%91%E6%9C%9F%E6%B8%B8%E6%96%B0%E7%8E%A9%E6%B3%95%E6%8A%98%E5%B0%84%E6%B6%88%E8%B4%B9%E6%96%B0%E8%B6%8B%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [沪上阿姨回应一杯开水卖10元](https://www.baidu.com/s?wd=%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%E5%9B%9E%E5%BA%94%E4%B8%80%E6%9D%AF%E5%BC%80%E6%B0%B4%E5%8D%9610%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [扬言“弄死你”女交警系辅警](https://www.baidu.com/s?wd=%E6%89%AC%E8%A8%80%E2%80%9C%E5%BC%84%E6%AD%BB%E4%BD%A0%E2%80%9D%E5%A5%B3%E4%BA%A4%E8%AD%A6%E7%B3%BB%E8%BE%85%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [多人组团偷吃榴莲致超市损失近千元](https://www.baidu.com/s?wd=%E5%A4%9A%E4%BA%BA%E7%BB%84%E5%9B%A2%E5%81%B7%E5%90%83%E6%A6%B4%E8%8E%B2%E8%87%B4%E8%B6%85%E5%B8%82%E6%8D%9F%E5%A4%B1%E8%BF%91%E5%8D%83%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [超7成年轻人存款不足10万](https://www.baidu.com/s?wd=%E8%B6%857%E6%88%90%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%AD%98%E6%AC%BE%E4%B8%8D%E8%B6%B310%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [超7成年轻人存款不足10万](https://www.baidu.com/s?wd=%E8%B6%857%E6%88%90%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%AD%98%E6%AC%BE%E4%B8%8D%E8%B6%B310%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [多人组团偷吃榴莲致超市损失近千元](https://www.baidu.com/s?wd=%E5%A4%9A%E4%BA%BA%E7%BB%84%E5%9B%A2%E5%81%B7%E5%90%83%E6%A6%B4%E8%8E%B2%E8%87%B4%E8%B6%85%E5%B8%82%E6%8D%9F%E5%A4%B1%E8%BF%91%E5%8D%83%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [JackeyLove退出亚运会名单](https://www.baidu.com/s?wd=JackeyLove%E9%80%80%E5%87%BA%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%90%8D%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -44,6 +44,6 @@
 4. [暑期游新玩法折射消费新趋势](https://www.baidu.com/s?wd=%E6%9A%91%E6%9C%9F%E6%B8%B8%E6%96%B0%E7%8E%A9%E6%B3%95%E6%8A%98%E5%B0%84%E6%B6%88%E8%B4%B9%E6%96%B0%E8%B6%8B%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [沪上阿姨回应一杯开水卖10元](https://www.baidu.com/s?wd=%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%E5%9B%9E%E5%BA%94%E4%B8%80%E6%9D%AF%E5%BC%80%E6%B0%B4%E5%8D%9610%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [扬言“弄死你”女交警系辅警](https://www.baidu.com/s?wd=%E6%89%AC%E8%A8%80%E2%80%9C%E5%BC%84%E6%AD%BB%E4%BD%A0%E2%80%9D%E5%A5%B3%E4%BA%A4%E8%AD%A6%E7%B3%BB%E8%BE%85%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [多人组团偷吃榴莲致超市损失近千元](https://www.baidu.com/s?wd=%E5%A4%9A%E4%BA%BA%E7%BB%84%E5%9B%A2%E5%81%B7%E5%90%83%E6%A6%B4%E8%8E%B2%E8%87%B4%E8%B6%85%E5%B8%82%E6%8D%9F%E5%A4%B1%E8%BF%91%E5%8D%83%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [超7成年轻人存款不足10万](https://www.baidu.com/s?wd=%E8%B6%857%E6%88%90%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%AD%98%E6%AC%BE%E4%B8%8D%E8%B6%B310%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [超7成年轻人存款不足10万](https://www.baidu.com/s?wd=%E8%B6%857%E6%88%90%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%AD%98%E6%AC%BE%E4%B8%8D%E8%B6%B310%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [多人组团偷吃榴莲致超市损失近千元](https://www.baidu.com/s?wd=%E5%A4%9A%E4%BA%BA%E7%BB%84%E5%9B%A2%E5%81%B7%E5%90%83%E6%A6%B4%E8%8E%B2%E8%87%B4%E8%B6%85%E5%B8%82%E6%8D%9F%E5%A4%B1%E8%BF%91%E5%8D%83%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [JackeyLove退出亚运会名单](https://www.baidu.com/s?wd=JackeyLove%E9%80%80%E5%87%BA%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%90%8D%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
