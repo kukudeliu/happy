@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 04:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 04:43:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [对方撤回了一个老太太](https://www.baidu.com/s?wd=%E5%AF%B9%E6%96%B9%E6%92%A4%E5%9B%9E%E4%BA%86%E4%B8%80%E4%B8%AA%E8%80%81%E5%A4%AA%E5%A4%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [日本东京市中心发生爆炸](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%B8%9C%E4%BA%AC%E5%B8%82%E4%B8%AD%E5%BF%83%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [越南高考中文题曝光引热议](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E9%AB%98%E8%80%83%E4%B8%AD%E6%96%87%E9%A2%98%E6%9B%9D%E5%85%89%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [被巨石砸中的“渝A97G82”](https://www.baidu.com/s?wd=%E8%A2%AB%E5%B7%A8%E7%9F%B3%E7%A0%B8%E4%B8%AD%E7%9A%84%E2%80%9C%E6%B8%9DA97G82%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [从缅甸逃回男子自述水牢满地是血](https://www.baidu.com/s?wd=%E4%BB%8E%E7%BC%85%E7%94%B8%E9%80%83%E5%9B%9E%E7%94%B7%E5%AD%90%E8%87%AA%E8%BF%B0%E6%B0%B4%E7%89%A2%E6%BB%A1%E5%9C%B0%E6%98%AF%E8%A1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [对方撤回了一个老太太](https://www.baidu.com/s?wd=%E5%AF%B9%E6%96%B9%E6%92%A4%E5%9B%9E%E4%BA%86%E4%B8%80%E4%B8%AA%E8%80%81%E5%A4%AA%E5%A4%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [日本东京市中心发生爆炸](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%B8%9C%E4%BA%AC%E5%B8%82%E4%B8%AD%E5%BF%83%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [越南高考中文题曝光引热议](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E9%AB%98%E8%80%83%E4%B8%AD%E6%96%87%E9%A2%98%E6%9B%9D%E5%85%89%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [被巨石砸中的“渝A97G82”](https://www.baidu.com/s?wd=%E8%A2%AB%E5%B7%A8%E7%9F%B3%E7%A0%B8%E4%B8%AD%E7%9A%84%E2%80%9C%E6%B8%9DA97G82%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [从缅甸逃回男子自述水牢满地是血](https://www.baidu.com/s?wd=%E4%BB%8E%E7%BC%85%E7%94%B8%E9%80%83%E5%9B%9E%E7%94%B7%E5%AD%90%E8%87%AA%E8%BF%B0%E6%B0%B4%E7%89%A2%E6%BB%A1%E5%9C%B0%E6%98%AF%E8%A1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
