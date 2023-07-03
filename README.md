@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 17:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 17:36:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [汪峰发了个锤子](https://s.weibo.com/weibo?q=%23%E6%B1%AA%E5%B3%B0%E5%8F%91%E4%BA%86%E4%B8%AA%E9%94%A4%E5%AD%90%23&t=31&band_rank=5&Refer=top)<br />
 6. [对方撤回了一个老太太](https://s.weibo.com/weibo?q=%23%E5%AF%B9%E6%96%B9%E6%92%A4%E5%9B%9E%E4%BA%86%E4%B8%80%E4%B8%AA%E8%80%81%E5%A4%AA%E5%A4%AA%23&t=31&band_rank=6&Refer=top)<br />
 7. [蔡徐坤回应](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E5%9B%9E%E5%BA%94%23&t=31&band_rank=7&Refer=top)<br />
-8. [赵丽颖 CL](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%20CL&t=31&band_rank=8&Refer=top)<br />
-9. [日本东京市中心发生爆炸](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%9C%E4%BA%AC%E5%B8%82%E4%B8%AD%E5%BF%83%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%23&t=31&band_rank=9&Refer=top)<br />
+8. [日本东京市中心发生爆炸](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%9C%E4%BA%AC%E5%B8%82%E4%B8%AD%E5%BF%83%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%23&t=31&band_rank=8&Refer=top)<br />
+9. [爸爸连买房都喜欢和朋友一起](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E8%BF%9E%E4%B9%B0%E6%88%BF%E9%83%BD%E5%96%9C%E6%AC%A2%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%B8%80%E8%B5%B7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [小的时候农村三伏天，没有电扇和空调，是怎么熬过炎热的?](https://www.zhihu.com/question/608934044)<br />
 7. [泰坦尼克号沉没的根本原因是什么？是不是本来是可以避免的？](https://www.zhihu.com/question/551424112)<br />
 8. [法国境内连续多日发生骚乱，上千人被捕，目前情况如何？有哪些信息值得关注？](https://www.zhihu.com/question/610031283)<br />
-9. [上海一豪宅拍出 1.58 亿天价，单价超 34 万，或由得物创始人竞得，哪些信息值得关注？](https://www.zhihu.com/question/610023999)<br />
+9. [点球大战是第一个罚的重要，还是第五个罚的更重要？](https://www.zhihu.com/question/402265764)<br />
 
 > 百度  
 
