@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 17:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 17:44:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [电影《消失的她》改编自真实事件，该事件原型是什么样的？](https://www.zhihu.com/question/608181201)<br />
 6. [一个人离职前有什么征兆？](https://www.zhihu.com/question/486792072)<br />
 7. [小的时候农村三伏天，没有电扇和空调，是怎么熬过炎热的?](https://www.zhihu.com/question/608934044)<br />
-8. [成绩去不了北大，但是能去北大医学部，应该去吗?](https://www.zhihu.com/question/609084243)<br />
-9. [法国境内连续多日发生骚乱，上千人被捕，目前情况如何？有哪些信息值得关注？](https://www.zhihu.com/question/610031283)<br />
+8. [法国境内连续多日发生骚乱，上千人被捕，目前情况如何？有哪些信息值得关注？](https://www.zhihu.com/question/610031283)<br />
+9. [上海一豪宅拍出 1.58 亿天价，单价超 34 万，或由得物创始人竞得，哪些信息值得关注？](https://www.zhihu.com/question/610023999)<br />
 
 > 百度  
 
@@ -33,8 +33,8 @@
 5. [人大再回应学生信息泄露事件:将起诉](https://www.baidu.com/s?wd=%E4%BA%BA%E5%A4%A7%E5%86%8D%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E4%BF%A1%E6%81%AF%E6%B3%84%E9%9C%B2%E4%BA%8B%E4%BB%B6%3A%E5%B0%86%E8%B5%B7%E8%AF%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [对方撤回了一个老太太](https://www.baidu.com/s?wd=%E5%AF%B9%E6%96%B9%E6%92%A4%E5%9B%9E%E4%BA%86%E4%B8%80%E4%B8%AA%E8%80%81%E5%A4%AA%E5%A4%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [蔡徐坤回应“亲密照”：不是我](https://www.baidu.com/s?wd=%E8%94%A1%E5%BE%90%E5%9D%A4%E5%9B%9E%E5%BA%94%E2%80%9C%E4%BA%B2%E5%AF%86%E7%85%A7%E2%80%9D%EF%BC%9A%E4%B8%8D%E6%98%AF%E6%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [北京一导游在颐和园中暑身亡](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E4%B8%80%E5%AF%BC%E6%B8%B8%E5%9C%A8%E9%A2%90%E5%92%8C%E5%9B%AD%E4%B8%AD%E6%9A%91%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [胡锡进：目前实现盈利2829.17元](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%EF%BC%9A%E7%9B%AE%E5%89%8D%E5%AE%9E%E7%8E%B0%E7%9B%88%E5%88%A92829.17%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [交警情绪失控大喊弄死你？警方回应](https://www.baidu.com/s?wd=%E4%BA%A4%E8%AD%A6%E6%83%85%E7%BB%AA%E5%A4%B1%E6%8E%A7%E5%A4%A7%E5%96%8A%E5%BC%84%E6%AD%BB%E4%BD%A0%EF%BC%9F%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [李承铉参加张杰谢娜婚礼晕倒了](https://www.baidu.com/s?wd=%E6%9D%8E%E6%89%BF%E9%93%89%E5%8F%82%E5%8A%A0%E5%BC%A0%E6%9D%B0%E8%B0%A2%E5%A8%9C%E5%A9%9A%E7%A4%BC%E6%99%95%E5%80%92%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [人大再回应学生信息泄露事件:将起诉](https://www.baidu.com/s?wd=%E4%BA%BA%E5%A4%A7%E5%86%8D%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E4%BF%A1%E6%81%AF%E6%B3%84%E9%9C%B2%E4%BA%8B%E4%BB%B6%3A%E5%B0%86%E8%B5%B7%E8%AF%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [对方撤回了一个老太太](https://www.baidu.com/s?wd=%E5%AF%B9%E6%96%B9%E6%92%A4%E5%9B%9E%E4%BA%86%E4%B8%80%E4%B8%AA%E8%80%81%E5%A4%AA%E5%A4%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [蔡徐坤回应“亲密照”：不是我](https://www.baidu.com/s?wd=%E8%94%A1%E5%BE%90%E5%9D%A4%E5%9B%9E%E5%BA%94%E2%80%9C%E4%BA%B2%E5%AF%86%E7%85%A7%E2%80%9D%EF%BC%9A%E4%B8%8D%E6%98%AF%E6%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [北京一导游在颐和园中暑身亡](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E4%B8%80%E5%AF%BC%E6%B8%B8%E5%9C%A8%E9%A2%90%E5%92%8C%E5%9B%AD%E4%B8%AD%E6%9A%91%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [胡锡进：目前实现盈利2829.17元](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%EF%BC%9A%E7%9B%AE%E5%89%8D%E5%AE%9E%E7%8E%B0%E7%9B%88%E5%88%A92829.17%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [交警情绪失控大喊弄死你？警方回应](https://www.baidu.com/s?wd=%E4%BA%A4%E8%AD%A6%E6%83%85%E7%BB%AA%E5%A4%B1%E6%8E%A7%E5%A4%A7%E5%96%8A%E5%BC%84%E6%AD%BB%E4%BD%A0%EF%BC%9F%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [李承铉参加张杰谢娜婚礼晕倒了](https://www.baidu.com/s?wd=%E6%9D%8E%E6%89%BF%E9%93%89%E5%8F%82%E5%8A%A0%E5%BC%A0%E6%9D%B0%E8%B0%A2%E5%A8%9C%E5%A9%9A%E7%A4%BC%E6%99%95%E5%80%92%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
