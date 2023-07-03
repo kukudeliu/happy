@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 02:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 02:13:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [沪上阿姨回应一杯开水卖10元](https://s.weibo.com/weibo?q=%23%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%E5%9B%9E%E5%BA%94%E4%B8%80%E6%9D%AF%E5%BC%80%E6%B0%B4%E5%8D%9610%E5%85%83%23&t=31&band_rank=4&Refer=top)<br />
 5. [爷爷得知孙子四千元买条狗直接上秤](https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E5%BE%97%E7%9F%A5%E5%AD%99%E5%AD%90%E5%9B%9B%E5%8D%83%E5%85%83%E4%B9%B0%E6%9D%A1%E7%8B%97%E7%9B%B4%E6%8E%A5%E4%B8%8A%E7%A7%A4%23&t=31&band_rank=5&Refer=top)<br />
 6. [广东地震](https://s.weibo.com/weibo?q=%E5%B9%BF%E4%B8%9C%E5%9C%B0%E9%9C%87&t=31&band_rank=6&Refer=top)<br />
-7. [为什么运钞车不直接运一张银行卡](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%90%E9%92%9E%E8%BD%A6%E4%B8%8D%E7%9B%B4%E6%8E%A5%E8%BF%90%E4%B8%80%E5%BC%A0%E9%93%B6%E8%A1%8C%E5%8D%A1&t=31&band_rank=7&Refer=top)<br />
-8. [369退出亚运会名单](https://s.weibo.com/weibo?q=%23369%E9%80%80%E5%87%BA%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%90%8D%E5%8D%95%23&t=31&band_rank=8&Refer=top)<br />
-9. [找对象要找帅的 只有帅才是真的](https://s.weibo.com/weibo?q=%E6%89%BE%E5%AF%B9%E8%B1%A1%E8%A6%81%E6%89%BE%E5%B8%85%E7%9A%84%20%E5%8F%AA%E6%9C%89%E5%B8%85%E6%89%8D%E6%98%AF%E7%9C%9F%E7%9A%84&t=31&band_rank=9&Refer=top)<br />
+7. [工人高温修空调女子留吃饭多给200元](https://s.weibo.com/weibo?q=%23%E5%B7%A5%E4%BA%BA%E9%AB%98%E6%B8%A9%E4%BF%AE%E7%A9%BA%E8%B0%83%E5%A5%B3%E5%AD%90%E7%95%99%E5%90%83%E9%A5%AD%E5%A4%9A%E7%BB%99200%E5%85%83%23&t=31&band_rank=7&Refer=top)<br />
+8. [为什么运钞车不直接运一张银行卡](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%90%E9%92%9E%E8%BD%A6%E4%B8%8D%E7%9B%B4%E6%8E%A5%E8%BF%90%E4%B8%80%E5%BC%A0%E9%93%B6%E8%A1%8C%E5%8D%A1&t=31&band_rank=8&Refer=top)<br />
+9. [369退出亚运会名单](https://s.weibo.com/weibo?q=%23369%E9%80%80%E5%87%BA%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%90%8D%E5%8D%95%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -31,9 +31,9 @@
 3. [中南大学一校友向母校捐赠6亿元](https://www.baidu.com/s?wd=%E4%B8%AD%E5%8D%97%E5%A4%A7%E5%AD%A6%E4%B8%80%E6%A0%A1%E5%8F%8B%E5%90%91%E6%AF%8D%E6%A0%A1%E6%8D%90%E8%B5%A06%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [暑期游新玩法折射消费新趋势](https://www.baidu.com/s?wd=%E6%9A%91%E6%9C%9F%E6%B8%B8%E6%96%B0%E7%8E%A9%E6%B3%95%E6%8A%98%E5%B0%84%E6%B6%88%E8%B4%B9%E6%96%B0%E8%B6%8B%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [沪上阿姨回应一杯开水卖10元](https://www.baidu.com/s?wd=%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%E5%9B%9E%E5%BA%94%E4%B8%80%E6%9D%AF%E5%BC%80%E6%B0%B4%E5%8D%9610%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [为何对镓和锗实行出口管制？](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BD%95%E5%AF%B9%E9%95%93%E5%92%8C%E9%94%97%E5%AE%9E%E8%A1%8C%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [中国夫妻非洲遭枪杀 华商会悬赏追凶](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%AB%E5%A6%BB%E9%9D%9E%E6%B4%B2%E9%81%AD%E6%9E%AA%E6%9D%80+%E5%8D%8E%E5%95%86%E4%BC%9A%E6%82%AC%E8%B5%8F%E8%BF%BD%E5%87%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [官方回应深圳白芒村统租房事件](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E6%B7%B1%E5%9C%B3%E7%99%BD%E8%8A%92%E6%9D%91%E7%BB%9F%E7%A7%9F%E6%88%BF%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [中国夫妻非洲遭枪杀 华商会悬赏追凶](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%AB%E5%A6%BB%E9%9D%9E%E6%B4%B2%E9%81%AD%E6%9E%AA%E6%9D%80+%E5%8D%8E%E5%95%86%E4%BC%9A%E6%82%AC%E8%B5%8F%E8%BF%BD%E5%87%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [官方回应深圳白芒村统租房事件](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E6%B7%B1%E5%9C%B3%E7%99%BD%E8%8A%92%E6%9D%91%E7%BB%9F%E7%A7%9F%E6%88%BF%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [年轻人租房降级：住30元1天太空舱](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%A7%9F%E6%88%BF%E9%99%8D%E7%BA%A7%EF%BC%9A%E4%BD%8F30%E5%85%831%E5%A4%A9%E5%A4%AA%E7%A9%BA%E8%88%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [燕京啤酒董秘办回应蔡徐坤事件影响](https://www.baidu.com/s?wd=%E7%87%95%E4%BA%AC%E5%95%A4%E9%85%92%E8%91%A3%E7%A7%98%E5%8A%9E%E5%9B%9E%E5%BA%94%E8%94%A1%E5%BE%90%E5%9D%A4%E4%BA%8B%E4%BB%B6%E5%BD%B1%E5%93%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -43,7 +43,7 @@
 3. [中南大学一校友向母校捐赠6亿元](https://www.baidu.com/s?wd=%E4%B8%AD%E5%8D%97%E5%A4%A7%E5%AD%A6%E4%B8%80%E6%A0%A1%E5%8F%8B%E5%90%91%E6%AF%8D%E6%A0%A1%E6%8D%90%E8%B5%A06%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [暑期游新玩法折射消费新趋势](https://www.baidu.com/s?wd=%E6%9A%91%E6%9C%9F%E6%B8%B8%E6%96%B0%E7%8E%A9%E6%B3%95%E6%8A%98%E5%B0%84%E6%B6%88%E8%B4%B9%E6%96%B0%E8%B6%8B%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [沪上阿姨回应一杯开水卖10元](https://www.baidu.com/s?wd=%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%E5%9B%9E%E5%BA%94%E4%B8%80%E6%9D%AF%E5%BC%80%E6%B0%B4%E5%8D%9610%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [为何对镓和锗实行出口管制？](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BD%95%E5%AF%B9%E9%95%93%E5%92%8C%E9%94%97%E5%AE%9E%E8%A1%8C%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [中国夫妻非洲遭枪杀 华商会悬赏追凶](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%AB%E5%A6%BB%E9%9D%9E%E6%B4%B2%E9%81%AD%E6%9E%AA%E6%9D%80+%E5%8D%8E%E5%95%86%E4%BC%9A%E6%82%AC%E8%B5%8F%E8%BF%BD%E5%87%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [官方回应深圳白芒村统租房事件](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E6%B7%B1%E5%9C%B3%E7%99%BD%E8%8A%92%E6%9D%91%E7%BB%9F%E7%A7%9F%E6%88%BF%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [中国夫妻非洲遭枪杀 华商会悬赏追凶](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%AB%E5%A6%BB%E9%9D%9E%E6%B4%B2%E9%81%AD%E6%9E%AA%E6%9D%80+%E5%8D%8E%E5%95%86%E4%BC%9A%E6%82%AC%E8%B5%8F%E8%BF%BD%E5%87%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [官方回应深圳白芒村统租房事件](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E6%B7%B1%E5%9C%B3%E7%99%BD%E8%8A%92%E6%9D%91%E7%BB%9F%E7%A7%9F%E6%88%BF%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [年轻人租房降级：住30元1天太空舱](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%A7%9F%E6%88%BF%E9%99%8D%E7%BA%A7%EF%BC%9A%E4%BD%8F30%E5%85%831%E5%A4%A9%E5%A4%AA%E7%A9%BA%E8%88%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [燕京啤酒董秘办回应蔡徐坤事件影响](https://www.baidu.com/s?wd=%E7%87%95%E4%BA%AC%E5%95%A4%E9%85%92%E8%91%A3%E7%A7%98%E5%8A%9E%E5%9B%9E%E5%BA%94%E8%94%A1%E5%BE%90%E5%9D%A4%E4%BA%8B%E4%BB%B6%E5%BD%B1%E5%93%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
