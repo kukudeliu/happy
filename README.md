@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 19:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 19:36:02</h4></div>
 
 > 微博  
 
@@ -14,10 +14,10 @@
 
 > 知乎  
 
-1. [猫经常坐在院子中间，偶尔舔舔身上的毛，然后坐在那一个下午，它坐在那干什么？](https://www.zhihu.com/question/603451215)<br />
-2. [苹果占 618 手机销量 42%，领先第二名近 200 万部，这一调查结果说明什么？](https://www.zhihu.com/question/609145071)<br />
-3. [北大团队发布法律大模型 ChatLaw，为大众提供普惠法律服务，将带来哪些影响？](https://www.zhihu.com/question/610072848)<br />
-4. [一个人离职前有什么征兆？](https://www.zhihu.com/question/486792072)<br />
+1. [苹果占 618 手机销量 42%，领先第二名近 200 万部，这一调查结果说明什么？](https://www.zhihu.com/question/609145071)<br />
+2. [北大团队发布法律大模型 ChatLaw，为大众提供普惠法律服务，将带来哪些影响？](https://www.zhihu.com/question/610072848)<br />
+3. [一个人离职前有什么征兆？](https://www.zhihu.com/question/486792072)<br />
+4. [猫经常坐在院子中间，偶尔舔舔身上的毛，然后坐在那一个下午，它坐在那干什么？](https://www.zhihu.com/question/603451215)<br />
 5. [小的时候农村三伏天，没有电扇和空调，是怎么熬过炎热的?](https://www.zhihu.com/question/608934044)<br />
 6. [青年失业率突破 20%，毕业生「慢就业」愈加显著，如今毕业生的就业观发生了哪些变化？如何看待这一变化？](https://www.zhihu.com/question/608938944)<br />
 7. [上海一豪宅拍出 1.58 亿天价，单价超 34 万，或由得物创始人竞得，哪些信息值得关注？](https://www.zhihu.com/question/610023999)<br />
