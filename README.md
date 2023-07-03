@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 22:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 22:07:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [沪上阿姨回应一杯开水卖10元](https://s.weibo.com/weibo?q=%23%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%E5%9B%9E%E5%BA%94%E4%B8%80%E6%9D%AF%E5%BC%80%E6%B0%B4%E5%8D%9610%E5%85%83%23&t=31&band_rank=3&Refer=top)<br />
 4. [宋轶是不是男生都喜欢的类型](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%BD%B6%E6%98%AF%E4%B8%8D%E6%98%AF%E7%94%B7%E7%94%9F%E9%83%BD%E5%96%9C%E6%AC%A2%E7%9A%84%E7%B1%BB%E5%9E%8B%23&t=31&band_rank=4&Refer=top)<br />
 5. [肖战玉骨遥里也有陈情令演员](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%8E%89%E9%AA%A8%E9%81%A5%E9%87%8C%E4%B9%9F%E6%9C%89%E9%99%88%E6%83%85%E4%BB%A4%E6%BC%94%E5%91%98%23&t=31&band_rank=5&Refer=top)<br />
-6. [蔡徐坤报案回执](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E6%8A%A5%E6%A1%88%E5%9B%9E%E6%89%A7%23&t=31&band_rank=6&Refer=top)<br />
-7. [男友留的瓜](https://s.weibo.com/weibo?q=%E7%94%B7%E5%8F%8B%E7%95%99%E7%9A%84%E7%93%9C&t=31&band_rank=7&Refer=top)<br />
-8. [太空种菜自给自足真的要实现啦](https://s.weibo.com/weibo?q=%23%E5%A4%AA%E7%A9%BA%E7%A7%8D%E8%8F%9C%E8%87%AA%E7%BB%99%E8%87%AA%E8%B6%B3%E7%9C%9F%E7%9A%84%E8%A6%81%E5%AE%9E%E7%8E%B0%E5%95%A6%23&t=31&band_rank=8&Refer=top)<br />
-9. [八角笼中](https://s.weibo.com/weibo?q=%E5%85%AB%E8%A7%92%E7%AC%BC%E4%B8%AD&t=31&band_rank=9&Refer=top)<br />
+6. [男友留的瓜](https://s.weibo.com/weibo?q=%E7%94%B7%E5%8F%8B%E7%95%99%E7%9A%84%E7%93%9C&t=31&band_rank=6&Refer=top)<br />
+7. [蔡徐坤报案回执](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E6%8A%A5%E6%A1%88%E5%9B%9E%E6%89%A7%23&t=31&band_rank=7&Refer=top)<br />
+8. [八角笼中](https://s.weibo.com/weibo?q=%E5%85%AB%E8%A7%92%E7%AC%BC%E4%B8%AD&t=31&band_rank=8&Refer=top)<br />
+9. [我的新娘被人说好像杨紫](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E6%96%B0%E5%A8%98%E8%A2%AB%E4%BA%BA%E8%AF%B4%E5%A5%BD%E5%83%8F%E6%9D%A8%E7%B4%AB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
