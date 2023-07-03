@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 23:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 23:44:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [沪上阿姨回应一杯开水卖10元](https://www.baidu.com/s?wd=%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%E5%9B%9E%E5%BA%94%E4%B8%80%E6%9D%AF%E5%BC%80%E6%B0%B4%E5%8D%9610%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [英国将首推水葬：沸水煮遗体4小时](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E5%B0%86%E9%A6%96%E6%8E%A8%E6%B0%B4%E8%91%AC%EF%BC%9A%E6%B2%B8%E6%B0%B4%E7%85%AE%E9%81%97%E4%BD%934%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [年轻人租房降级：住30元1天太空舱](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%A7%9F%E6%88%BF%E9%99%8D%E7%BA%A7%EF%BC%9A%E4%BD%8F30%E5%85%831%E5%A4%A9%E5%A4%AA%E7%A9%BA%E8%88%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [汪峰发了个锤子](https://www.baidu.com/s?wd=%E6%B1%AA%E5%B3%B0%E5%8F%91%E4%BA%86%E4%B8%AA%E9%94%A4%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [越南高考中文题曝光引热议](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E9%AB%98%E8%80%83%E4%B8%AD%E6%96%87%E9%A2%98%E6%9B%9D%E5%85%89%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [浙江仙居太阳像戴了美瞳](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%BB%99%E5%B1%85%E5%A4%AA%E9%98%B3%E5%83%8F%E6%88%B4%E4%BA%86%E7%BE%8E%E7%9E%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [汪峰发了个锤子](https://www.baidu.com/s?wd=%E6%B1%AA%E5%B3%B0%E5%8F%91%E4%BA%86%E4%B8%AA%E9%94%A4%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [沪上阿姨回应一杯开水卖10元](https://www.baidu.com/s?wd=%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%E5%9B%9E%E5%BA%94%E4%B8%80%E6%9D%AF%E5%BC%80%E6%B0%B4%E5%8D%9610%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [英国将首推水葬：沸水煮遗体4小时](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E5%B0%86%E9%A6%96%E6%8E%A8%E6%B0%B4%E8%91%AC%EF%BC%9A%E6%B2%B8%E6%B0%B4%E7%85%AE%E9%81%97%E4%BD%934%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [年轻人租房降级：住30元1天太空舱](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%A7%9F%E6%88%BF%E9%99%8D%E7%BA%A7%EF%BC%9A%E4%BD%8F30%E5%85%831%E5%A4%A9%E5%A4%AA%E7%A9%BA%E8%88%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [汪峰发了个锤子](https://www.baidu.com/s?wd=%E6%B1%AA%E5%B3%B0%E5%8F%91%E4%BA%86%E4%B8%AA%E9%94%A4%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [越南高考中文题曝光引热议](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E9%AB%98%E8%80%83%E4%B8%AD%E6%96%87%E9%A2%98%E6%9B%9D%E5%85%89%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [浙江仙居太阳像戴了美瞳](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%BB%99%E5%B1%85%E5%A4%AA%E9%98%B3%E5%83%8F%E6%88%B4%E4%BA%86%E7%BE%8E%E7%9E%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [汪峰发了个锤子](https://www.baidu.com/s?wd=%E6%B1%AA%E5%B3%B0%E5%8F%91%E4%BA%86%E4%B8%AA%E9%94%A4%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
