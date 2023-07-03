@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 10:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 10:33:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [如何看待越来越多应届生回县城考公？大城市打拼与离家近的安稳工作，你会如何选择？](https://www.zhihu.com/question/607786487)<br />
 7. [美财政部部长耶伦将访华，哪些信息值得关注？](https://www.zhihu.com/question/610020971)<br />
 8. [如何看待手机内存卷到 24G+1T，真的有必要吗？](https://www.zhihu.com/question/608801781)<br />
-9. []()<br />
+9. [哪些是你到了日本才发现不一样的事？](https://www.zhihu.com/question/609481571)<br />
 
 > 百度  
 
