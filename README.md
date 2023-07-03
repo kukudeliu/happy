@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 11:14:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 11:15:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [美财政部部长耶伦将访华，哪些信息值得关注？](https://www.zhihu.com/question/610020971)<br />
 7. [如何看待手机内存卷到 24G+1T，真的有必要吗？](https://www.zhihu.com/question/608801781)<br />
 8. [动画电影《长安三万里》点映口碑如何？值得去电影院看吗？](https://www.zhihu.com/question/549287398)<br />
-9. [网传中国人民大学一硕士毕业生盗取全校学生信息建颜值打分网站，校方称正核实，具体情况如何？](https://www.zhihu.com/question/609906518)<br />
+9. [哪些是你到了日本才发现不一样的事？](https://www.zhihu.com/question/609481571)<br />
 
 > 百度  
 
