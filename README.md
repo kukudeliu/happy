@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 11:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 11:25:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [山姆泡面桶已被炒至1999元一桶](https://www.baidu.com/s?wd=%E5%B1%B1%E5%A7%86%E6%B3%A1%E9%9D%A2%E6%A1%B6%E5%B7%B2%E8%A2%AB%E7%82%92%E8%87%B31999%E5%85%83%E4%B8%80%E6%A1%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [环卫工儿子高考687分被多校争抢](https://www.baidu.com/s?wd=%E7%8E%AF%E5%8D%AB%E5%B7%A5%E5%84%BF%E5%AD%90%E9%AB%98%E8%80%83687%E5%88%86%E8%A2%AB%E5%A4%9A%E6%A0%A1%E4%BA%89%E6%8A%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [上海豪宅1.58亿成交 买家身份曝光](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E8%B1%AA%E5%AE%851.58%E4%BA%BF%E6%88%90%E4%BA%A4+%E4%B9%B0%E5%AE%B6%E8%BA%AB%E4%BB%BD%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [玉骨遥开播](https://www.baidu.com/s?wd=%E7%8E%89%E9%AA%A8%E9%81%A5%E5%BC%80%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子被跑车撞飞 交警判定引热议](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A2%AB%E8%B7%91%E8%BD%A6%E6%92%9E%E9%A3%9E+%E4%BA%A4%E8%AD%A6%E5%88%A4%E5%AE%9A%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [山姆泡面桶已被炒至1999元一桶](https://www.baidu.com/s?wd=%E5%B1%B1%E5%A7%86%E6%B3%A1%E9%9D%A2%E6%A1%B6%E5%B7%B2%E8%A2%AB%E7%82%92%E8%87%B31999%E5%85%83%E4%B8%80%E6%A1%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [环卫工儿子高考687分被多校争抢](https://www.baidu.com/s?wd=%E7%8E%AF%E5%8D%AB%E5%B7%A5%E5%84%BF%E5%AD%90%E9%AB%98%E8%80%83687%E5%88%86%E8%A2%AB%E5%A4%9A%E6%A0%A1%E4%BA%89%E6%8A%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [上海豪宅1.58亿成交 买家身份曝光](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E8%B1%AA%E5%AE%851.58%E4%BA%BF%E6%88%90%E4%BA%A4+%E4%B9%B0%E5%AE%B6%E8%BA%AB%E4%BB%BD%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [玉骨遥开播](https://www.baidu.com/s?wd=%E7%8E%89%E9%AA%A8%E9%81%A5%E5%BC%80%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子被跑车撞飞 交警判定引热议](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A2%AB%E8%B7%91%E8%BD%A6%E6%92%9E%E9%A3%9E+%E4%BA%A4%E8%AD%A6%E5%88%A4%E5%AE%9A%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
