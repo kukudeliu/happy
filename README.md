@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 03:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 03:30:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [沪上阿姨回应一杯开水卖10元](https://www.baidu.com/s?wd=%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%E5%9B%9E%E5%BA%94%E4%B8%80%E6%9D%AF%E5%BC%80%E6%B0%B4%E5%8D%9610%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [柬埔寨夜店起火致8死 包括6名中国人](https://www.baidu.com/s?wd=%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%A4%9C%E5%BA%97%E8%B5%B7%E7%81%AB%E8%87%B48%E6%AD%BB+%E5%8C%85%E6%8B%AC6%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [越南高考中文题曝光引热议](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E9%AB%98%E8%80%83%E4%B8%AD%E6%96%87%E9%A2%98%E6%9B%9D%E5%85%89%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [被巨石砸中的“渝A97G82”](https://www.baidu.com/s?wd=%E8%A2%AB%E5%B7%A8%E7%9F%B3%E7%A0%B8%E4%B8%AD%E7%9A%84%E2%80%9C%E6%B8%9DA97G82%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [英国将首推水葬：沸水煮遗体4小时](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E5%B0%86%E9%A6%96%E6%8E%A8%E6%B0%B4%E8%91%AC%EF%BC%9A%E6%B2%B8%E6%B0%B4%E7%85%AE%E9%81%97%E4%BD%934%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [英国将首推水葬：沸水煮遗体4小时](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E5%B0%86%E9%A6%96%E6%8E%A8%E6%B0%B4%E8%91%AC%EF%BC%9A%E6%B2%B8%E6%B0%B4%E7%85%AE%E9%81%97%E4%BD%934%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [被巨石砸中的“渝A97G82”](https://www.baidu.com/s?wd=%E8%A2%AB%E5%B7%A8%E7%9F%B3%E7%A0%B8%E4%B8%AD%E7%9A%84%E2%80%9C%E6%B8%9DA97G82%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [沪上阿姨回应一杯开水卖10元](https://www.baidu.com/s?wd=%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%E5%9B%9E%E5%BA%94%E4%B8%80%E6%9D%AF%E5%BC%80%E6%B0%B4%E5%8D%9610%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [柬埔寨夜店起火致8死 包括6名中国人](https://www.baidu.com/s?wd=%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%A4%9C%E5%BA%97%E8%B5%B7%E7%81%AB%E8%87%B48%E6%AD%BB+%E5%8C%85%E6%8B%AC6%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [越南高考中文题曝光引热议](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E9%AB%98%E8%80%83%E4%B8%AD%E6%96%87%E9%A2%98%E6%9B%9D%E5%85%89%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [被巨石砸中的“渝A97G82”](https://www.baidu.com/s?wd=%E8%A2%AB%E5%B7%A8%E7%9F%B3%E7%A0%B8%E4%B8%AD%E7%9A%84%E2%80%9C%E6%B8%9DA97G82%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [英国将首推水葬：沸水煮遗体4小时](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E5%B0%86%E9%A6%96%E6%8E%A8%E6%B0%B4%E8%91%AC%EF%BC%9A%E6%B2%B8%E6%B0%B4%E7%85%AE%E9%81%97%E4%BD%934%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [英国将首推水葬：沸水煮遗体4小时](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E5%B0%86%E9%A6%96%E6%8E%A8%E6%B0%B4%E8%91%AC%EF%BC%9A%E6%B2%B8%E6%B0%B4%E7%85%AE%E9%81%97%E4%BD%934%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [被巨石砸中的“渝A97G82”](https://www.baidu.com/s?wd=%E8%A2%AB%E5%B7%A8%E7%9F%B3%E7%A0%B8%E4%B8%AD%E7%9A%84%E2%80%9C%E6%B8%9DA97G82%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
