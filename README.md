@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 22:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 22:22:01</h4></div>
 
 > 微博  
 
@@ -31,10 +31,10 @@
 3. [中南大学一校友向母校捐赠6亿元](https://www.baidu.com/s?wd=%E4%B8%AD%E5%8D%97%E5%A4%A7%E5%AD%A6%E4%B8%80%E6%A0%A1%E5%8F%8B%E5%90%91%E6%AF%8D%E6%A0%A1%E6%8D%90%E8%B5%A06%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [录取通知书里的中国式浪漫](https://www.baidu.com/s?wd=%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%BC%8F%E6%B5%AA%E6%BC%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [乘客称起飞时机组人员联网刷视频](https://www.baidu.com/s?wd=%E4%B9%98%E5%AE%A2%E7%A7%B0%E8%B5%B7%E9%A3%9E%E6%97%B6%E6%9C%BA%E7%BB%84%E4%BA%BA%E5%91%98%E8%81%94%E7%BD%91%E5%88%B7%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男子造谣幼师肉偿打车被刑拘](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%80%A0%E8%B0%A3%E5%B9%BC%E5%B8%88%E8%82%89%E5%81%BF%E6%89%93%E8%BD%A6%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [男子开着“小吃街”出摊](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BC%80%E7%9D%80%E2%80%9C%E5%B0%8F%E5%90%83%E8%A1%97%E2%80%9D%E5%87%BA%E6%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [汪峰发了个锤子](https://www.baidu.com/s?wd=%E6%B1%AA%E5%B3%B0%E5%8F%91%E4%BA%86%E4%B8%AA%E9%94%A4%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子开着“小吃街”出摊](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BC%80%E7%9D%80%E2%80%9C%E5%B0%8F%E5%90%83%E8%A1%97%E2%80%9D%E5%87%BA%E6%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [交警情绪失控大喊弄死你？警方回应](https://www.baidu.com/s?wd=%E4%BA%A4%E8%AD%A6%E6%83%85%E7%BB%AA%E5%A4%B1%E6%8E%A7%E5%A4%A7%E5%96%8A%E5%BC%84%E6%AD%BB%E4%BD%A0%EF%BC%9F%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [交警情绪失控大喊弄死你？警方回应](https://www.baidu.com/s?wd=%E4%BA%A4%E8%AD%A6%E6%83%85%E7%BB%AA%E5%A4%B1%E6%8E%A7%E5%A4%A7%E5%96%8A%E5%BC%84%E6%AD%BB%E4%BD%A0%EF%BC%9F%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [英国将首推水葬：沸水煮遗体4小时](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E5%B0%86%E9%A6%96%E6%8E%A8%E6%B0%B4%E8%91%AC%EF%BC%9A%E6%B2%B8%E6%B0%B4%E7%85%AE%E9%81%97%E4%BD%934%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [中南大学一校友向母校捐赠6亿元](https://www.baidu.com/s?wd=%E4%B8%AD%E5%8D%97%E5%A4%A7%E5%AD%A6%E4%B8%80%E6%A0%A1%E5%8F%8B%E5%90%91%E6%AF%8D%E6%A0%A1%E6%8D%90%E8%B5%A06%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [录取通知书里的中国式浪漫](https://www.baidu.com/s?wd=%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%BC%8F%E6%B5%AA%E6%BC%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [乘客称起飞时机组人员联网刷视频](https://www.baidu.com/s?wd=%E4%B9%98%E5%AE%A2%E7%A7%B0%E8%B5%B7%E9%A3%9E%E6%97%B6%E6%9C%BA%E7%BB%84%E4%BA%BA%E5%91%98%E8%81%94%E7%BD%91%E5%88%B7%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男子造谣幼师肉偿打车被刑拘](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%80%A0%E8%B0%A3%E5%B9%BC%E5%B8%88%E8%82%89%E5%81%BF%E6%89%93%E8%BD%A6%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [男子开着“小吃街”出摊](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BC%80%E7%9D%80%E2%80%9C%E5%B0%8F%E5%90%83%E8%A1%97%E2%80%9D%E5%87%BA%E6%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [汪峰发了个锤子](https://www.baidu.com/s?wd=%E6%B1%AA%E5%B3%B0%E5%8F%91%E4%BA%86%E4%B8%AA%E9%94%A4%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子开着“小吃街”出摊](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BC%80%E7%9D%80%E2%80%9C%E5%B0%8F%E5%90%83%E8%A1%97%E2%80%9D%E5%87%BA%E6%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [交警情绪失控大喊弄死你？警方回应](https://www.baidu.com/s?wd=%E4%BA%A4%E8%AD%A6%E6%83%85%E7%BB%AA%E5%A4%B1%E6%8E%A7%E5%A4%A7%E5%96%8A%E5%BC%84%E6%AD%BB%E4%BD%A0%EF%BC%9F%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [交警情绪失控大喊弄死你？警方回应](https://www.baidu.com/s?wd=%E4%BA%A4%E8%AD%A6%E6%83%85%E7%BB%AA%E5%A4%B1%E6%8E%A7%E5%A4%A7%E5%96%8A%E5%BC%84%E6%AD%BB%E4%BD%A0%EF%BC%9F%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [英国将首推水葬：沸水煮遗体4小时](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E5%B0%86%E9%A6%96%E6%8E%A8%E6%B0%B4%E8%91%AC%EF%BC%9A%E6%B2%B8%E6%B0%B4%E7%85%AE%E9%81%97%E4%BD%934%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
