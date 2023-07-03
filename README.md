@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 02:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 02:19:02</h4></div>
 
 > 微博  
 
@@ -32,9 +32,9 @@
 4. [暑期游新玩法折射消费新趋势](https://www.baidu.com/s?wd=%E6%9A%91%E6%9C%9F%E6%B8%B8%E6%96%B0%E7%8E%A9%E6%B3%95%E6%8A%98%E5%B0%84%E6%B6%88%E8%B4%B9%E6%96%B0%E8%B6%8B%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [沪上阿姨回应一杯开水卖10元](https://www.baidu.com/s?wd=%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%E5%9B%9E%E5%BA%94%E4%B8%80%E6%9D%AF%E5%BC%80%E6%B0%B4%E5%8D%9610%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [中国夫妻非洲遭枪杀 华商会悬赏追凶](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%AB%E5%A6%BB%E9%9D%9E%E6%B4%B2%E9%81%AD%E6%9E%AA%E6%9D%80+%E5%8D%8E%E5%95%86%E4%BC%9A%E6%82%AC%E8%B5%8F%E8%BF%BD%E5%87%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [年轻人租房降级：住30元1天太空舱](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%A7%9F%E6%88%BF%E9%99%8D%E7%BA%A7%EF%BC%9A%E4%BD%8F30%E5%85%831%E5%A4%A9%E5%A4%AA%E7%A9%BA%E8%88%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [官方回应深圳白芒村统租房事件](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E6%B7%B1%E5%9C%B3%E7%99%BD%E8%8A%92%E6%9D%91%E7%BB%9F%E7%A7%9F%E6%88%BF%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [燕京啤酒董秘办回应蔡徐坤事件影响](https://www.baidu.com/s?wd=%E7%87%95%E4%BA%AC%E5%95%A4%E9%85%92%E8%91%A3%E7%A7%98%E5%8A%9E%E5%9B%9E%E5%BA%94%E8%94%A1%E5%BE%90%E5%9D%A4%E4%BA%8B%E4%BB%B6%E5%BD%B1%E5%93%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [英国将首推水葬：沸水煮遗体4小时](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E5%B0%86%E9%A6%96%E6%8E%A8%E6%B0%B4%E8%91%AC%EF%BC%9A%E6%B2%B8%E6%B0%B4%E7%85%AE%E9%81%97%E4%BD%934%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [年轻人租房降级：住30元1天太空舱](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%A7%9F%E6%88%BF%E9%99%8D%E7%BA%A7%EF%BC%9A%E4%BD%8F30%E5%85%831%E5%A4%A9%E5%A4%AA%E7%A9%BA%E8%88%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [官方回应深圳白芒村统租房事件](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E6%B7%B1%E5%9C%B3%E7%99%BD%E8%8A%92%E6%9D%91%E7%BB%9F%E7%A7%9F%E6%88%BF%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [暑期游新玩法折射消费新趋势](https://www.baidu.com/s?wd=%E6%9A%91%E6%9C%9F%E6%B8%B8%E6%96%B0%E7%8E%A9%E6%B3%95%E6%8A%98%E5%B0%84%E6%B6%88%E8%B4%B9%E6%96%B0%E8%B6%8B%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [沪上阿姨回应一杯开水卖10元](https://www.baidu.com/s?wd=%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%E5%9B%9E%E5%BA%94%E4%B8%80%E6%9D%AF%E5%BC%80%E6%B0%B4%E5%8D%9610%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [中国夫妻非洲遭枪杀 华商会悬赏追凶](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%AB%E5%A6%BB%E9%9D%9E%E6%B4%B2%E9%81%AD%E6%9E%AA%E6%9D%80+%E5%8D%8E%E5%95%86%E4%BC%9A%E6%82%AC%E8%B5%8F%E8%BF%BD%E5%87%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [年轻人租房降级：住30元1天太空舱](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%A7%9F%E6%88%BF%E9%99%8D%E7%BA%A7%EF%BC%9A%E4%BD%8F30%E5%85%831%E5%A4%A9%E5%A4%AA%E7%A9%BA%E8%88%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [官方回应深圳白芒村统租房事件](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E6%B7%B1%E5%9C%B3%E7%99%BD%E8%8A%92%E6%9D%91%E7%BB%9F%E7%A7%9F%E6%88%BF%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [燕京啤酒董秘办回应蔡徐坤事件影响](https://www.baidu.com/s?wd=%E7%87%95%E4%BA%AC%E5%95%A4%E9%85%92%E8%91%A3%E7%A7%98%E5%8A%9E%E5%9B%9E%E5%BA%94%E8%94%A1%E5%BE%90%E5%9D%A4%E4%BA%8B%E4%BB%B6%E5%BD%B1%E5%93%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [英国将首推水葬：沸水煮遗体4小时](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E5%B0%86%E9%A6%96%E6%8E%A8%E6%B0%B4%E8%91%AC%EF%BC%9A%E6%B2%B8%E6%B0%B4%E7%85%AE%E9%81%97%E4%BD%934%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [年轻人租房降级：住30元1天太空舱](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%A7%9F%E6%88%BF%E9%99%8D%E7%BA%A7%EF%BC%9A%E4%BD%8F30%E5%85%831%E5%A4%A9%E5%A4%AA%E7%A9%BA%E8%88%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [官方回应深圳白芒村统租房事件](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E6%B7%B1%E5%9C%B3%E7%99%BD%E8%8A%92%E6%9D%91%E7%BB%9F%E7%A7%9F%E6%88%BF%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
