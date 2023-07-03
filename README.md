@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 13:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 13:11:01</h4></div>
 
 > 微博  
 
-1. [蔡徐坤否认女方未成年及强制堕胎](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E5%90%A6%E8%AE%A4%E5%A5%B3%E6%96%B9%E6%9C%AA%E6%88%90%E5%B9%B4%E5%8F%8A%E5%BC%BA%E5%88%B6%E5%A0%95%E8%83%8E%23&t=31&band_rank=1&Refer=top)<br />
-2. [蔡徐坤回应](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E5%9B%9E%E5%BA%94%23&t=31&band_rank=2&Refer=top)<br />
+1. [蔡徐坤回应](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E5%9B%9E%E5%BA%94%23&t=31&band_rank=1&Refer=top)<br />
+2. [蔡徐坤否认女方未成年及强制堕胎](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E5%90%A6%E8%AE%A4%E5%A5%B3%E6%96%B9%E6%9C%AA%E6%88%90%E5%B9%B4%E5%8F%8A%E5%BC%BA%E5%88%B6%E5%A0%95%E8%83%8E%23&t=31&band_rank=2&Refer=top)<br />
 3. [他们获颁光荣在党50年纪念章](https://s.weibo.com/weibo?q=%23%E4%BB%96%E4%BB%AC%E8%8E%B7%E9%A2%81%E5%85%89%E8%8D%A3%E5%9C%A8%E5%85%9A50%E5%B9%B4%E7%BA%AA%E5%BF%B5%E7%AB%A0%23&t=31&band_rank=3&Refer=top)<br />
 4. [汪峰发了个锤子](https://s.weibo.com/weibo?q=%23%E6%B1%AA%E5%B3%B0%E5%8F%91%E4%BA%86%E4%B8%AA%E9%94%A4%E5%AD%90%23&t=31&band_rank=4&Refer=top)<br />
 5. [人大毕业生马某某被刑拘](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E5%A4%A7%E6%AF%95%E4%B8%9A%E7%94%9F%E9%A9%AC%E6%9F%90%E6%9F%90%E8%A2%AB%E5%88%91%E6%8B%98%23&t=31&band_rank=5&Refer=top)<br />
