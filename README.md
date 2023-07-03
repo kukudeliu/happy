@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 19:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 19:20:01</h4></div>
 
 > 微博  
 
@@ -17,8 +17,8 @@
 1. [如何看待松江公安发布行政处罚公告，喻某波为赌博提供条件将拘留十日？](https://www.zhihu.com/question/610063126)<br />
 2. [猫经常坐在院子中间，偶尔舔舔身上的毛，然后坐在那一个下午，它坐在那干什么？](https://www.zhihu.com/question/603451215)<br />
 3. [苹果占 618 手机销量 42%，领先第二名近 200 万部，这一调查结果说明什么？](https://www.zhihu.com/question/609145071)<br />
-4. [一个人离职前有什么征兆？](https://www.zhihu.com/question/486792072)<br />
-5. [北大团队发布法律大模型 ChatLaw，为大众提供普惠法律服务，将带来哪些影响？](https://www.zhihu.com/question/610072848)<br />
+4. [北大团队发布法律大模型 ChatLaw，为大众提供普惠法律服务，将带来哪些影响？](https://www.zhihu.com/question/610072848)<br />
+5. [一个人离职前有什么征兆？](https://www.zhihu.com/question/486792072)<br />
 6. [小的时候农村三伏天，没有电扇和空调，是怎么熬过炎热的?](https://www.zhihu.com/question/608934044)<br />
 7. [青年失业率突破 20%，毕业生「慢就业」愈加显著，如今毕业生的就业观发生了哪些变化？如何看待这一变化？](https://www.zhihu.com/question/608938944)<br />
 8. [上海一豪宅拍出 1.58 亿天价，单价超 34 万，或由得物创始人竞得，哪些信息值得关注？](https://www.zhihu.com/question/610023999)<br />
