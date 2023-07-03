@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 00:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 00:43:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [TFBOYS不合体排练吗](https://s.weibo.com/weibo?q=%23TFBOYS%E4%B8%8D%E5%90%88%E4%BD%93%E6%8E%92%E7%BB%83%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [广东地震](https://s.weibo.com/weibo?q=%E5%B9%BF%E4%B8%9C%E5%9C%B0%E9%9C%87&t=31&band_rank=7&Refer=top)<br />
 8. [为什么运钞车不直接运一张银行卡](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%90%E9%92%9E%E8%BD%A6%E4%B8%8D%E7%9B%B4%E6%8E%A5%E8%BF%90%E4%B8%80%E5%BC%A0%E9%93%B6%E8%A1%8C%E5%8D%A1&t=31&band_rank=8&Refer=top)<br />
-9. [蔡徐坤委托律所将提起刑事自诉](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E5%A7%94%E6%89%98%E5%BE%8B%E6%89%80%E5%B0%86%E6%8F%90%E8%B5%B7%E5%88%91%E4%BA%8B%E8%87%AA%E8%AF%89%23&t=31&band_rank=9&Refer=top)<br />
+9. [宋轶是不是男生都喜欢的类型](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%BD%B6%E6%98%AF%E4%B8%8D%E6%98%AF%E7%94%B7%E7%94%9F%E9%83%BD%E5%96%9C%E6%AC%A2%E7%9A%84%E7%B1%BB%E5%9E%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
