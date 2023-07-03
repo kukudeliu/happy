@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 05:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 05:32:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [巨型海底盲盒开出超18万件文物](https://s.weibo.com/weibo?q=%23%E5%B7%A8%E5%9E%8B%E6%B5%B7%E5%BA%95%E7%9B%B2%E7%9B%92%E5%BC%80%E5%87%BA%E8%B6%8518%E4%B8%87%E4%BB%B6%E6%96%87%E7%89%A9%23&t=31&band_rank=3&Refer=top)<br />
 4. [大熊猫萌兰](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E8%90%8C%E5%85%B0%23&t=31&band_rank=4&Refer=top)<br />
 5. [如何评价蔡徐坤道歉](https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E8%94%A1%E5%BE%90%E5%9D%A4%E9%81%93%E6%AD%89%23&t=31&band_rank=5&Refer=top)<br />
-6. [女子外卖备注多放醋商家送1大袋](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%A4%96%E5%8D%96%E5%A4%87%E6%B3%A8%E5%A4%9A%E6%94%BE%E9%86%8B%E5%95%86%E5%AE%B6%E9%80%811%E5%A4%A7%E8%A2%8B%23&t=31&band_rank=6&Refer=top)<br />
-7. [为什么运钞车不直接运一张银行卡](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%90%E9%92%9E%E8%BD%A6%E4%B8%8D%E7%9B%B4%E6%8E%A5%E8%BF%90%E4%B8%80%E5%BC%A0%E9%93%B6%E8%A1%8C%E5%8D%A1&t=31&band_rank=7&Refer=top)<br />
-8. [沪上阿姨回应一杯开水卖10元](https://s.weibo.com/weibo?q=%23%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%E5%9B%9E%E5%BA%94%E4%B8%80%E6%9D%AF%E5%BC%80%E6%B0%B4%E5%8D%9610%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [微信支付每月免费提现额度](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98%E6%AF%8F%E6%9C%88%E5%85%8D%E8%B4%B9%E6%8F%90%E7%8E%B0%E9%A2%9D%E5%BA%A6%23&t=31&band_rank=9&Refer=top)<br />
+6. [爷爷得知孙子四千元买条狗直接上秤](https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E5%BE%97%E7%9F%A5%E5%AD%99%E5%AD%90%E5%9B%9B%E5%8D%83%E5%85%83%E4%B9%B0%E6%9D%A1%E7%8B%97%E7%9B%B4%E6%8E%A5%E4%B8%8A%E7%A7%A4%23&t=31&band_rank=6&Refer=top)<br />
+7. [女子外卖备注多放醋商家送1大袋](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%A4%96%E5%8D%96%E5%A4%87%E6%B3%A8%E5%A4%9A%E6%94%BE%E9%86%8B%E5%95%86%E5%AE%B6%E9%80%811%E5%A4%A7%E8%A2%8B%23&t=31&band_rank=7&Refer=top)<br />
+8. [为什么运钞车不直接运一张银行卡](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%90%E9%92%9E%E8%BD%A6%E4%B8%8D%E7%9B%B4%E6%8E%A5%E8%BF%90%E4%B8%80%E5%BC%A0%E9%93%B6%E8%A1%8C%E5%8D%A1&t=31&band_rank=8&Refer=top)<br />
+9. [沪上阿姨回应一杯开水卖10元](https://s.weibo.com/weibo?q=%23%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%E5%9B%9E%E5%BA%94%E4%B8%80%E6%9D%AF%E5%BC%80%E6%B0%B4%E5%8D%9610%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -20,9 +20,9 @@
 4. [网友热议贵州村超「招一万民工月薪 3000 训练一年，选 30 人去踢世界杯」，如何评价这样的观点？](https://www.zhihu.com/question/610056090)<br />
 5. [滔搏电子竞技俱乐部发声「被行政处罚的喻某波与旗下选手喻文波毫无关联」对此你有什么想说？](https://www.zhihu.com/question/610071455)<br />
 6. [一名北京地接导游在颐和园中暑送医，经抢救无效死亡，如何看待此事？高温天气户外作业如何预防中暑？](https://www.zhihu.com/question/610074062)<br />
-7. [国家电竞集训队发布公告「《英雄联盟》项目选手剔除喻文波、白家浩更换为彭立勋、赵嘉豪」这将造成哪些影响？](https://www.zhihu.com/question/610188481)<br />
-8. [朝鲜女孩拍视频介绍平壤，韩国以「宣传朝鲜体制」为由屏蔽，谷歌封号，透露了哪些信息？](https://www.zhihu.com/question/610162816)<br />
-9. [专家称「尽快研究出台遗赠税，弱化财富两极分化走势」，如何看待此观点？可行性如何？](https://www.zhihu.com/question/610090923)<br />
+7. [山姆泡面桶已被炒至 1999 元一桶，仍有人购买，如何看待此事？背后是怎样的消费心理？](https://www.zhihu.com/question/610060285)<br />
+8. [专家称「尽快研究出台遗赠税，弱化财富两极分化走势」，如何看待此观点？可行性如何？](https://www.zhihu.com/question/610090923)<br />
+9. [环卫工儿子高考 687 分被多校争抢，父亲称「就算贷款、卖房也会让他读下去」，如何看待此事？](https://www.zhihu.com/question/610045381)<br />
 
 > 百度  
 
