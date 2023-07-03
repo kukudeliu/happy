@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 12:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 12:21:01</h4></div>
 
 > 微博  
 
@@ -19,10 +19,10 @@
 3. [儿子被科索沃当局扣留，武契奇谴责科索沃领导人「没我儿子勇敢」，他儿子会面临什么？科索沃局势将如何发展？](https://www.zhihu.com/question/609485354)<br />
 4. [如何看待手机内存卷到 24G+1T，真的有必要吗？](https://www.zhihu.com/question/608801781)<br />
 5. [动画电影《长安三万里》点映口碑如何？值得去电影院看吗？](https://www.zhihu.com/question/549287398)<br />
-6. [北京广告协会发文「对歌手蔡某某做好风险把控」，如何看待此事？后续进展如何？](https://www.zhihu.com/question/609892459)<br />
-7. [怎么理解「 善战者无赫赫之功 」？](https://www.zhihu.com/question/409246699)<br />
-8. [4 岁半女孩，以后不准备走艺术路线，请问学什么乐器比较好？](https://www.zhihu.com/question/609567378)<br />
-9. [饺子馅料有哪些经典组合？](https://www.zhihu.com/question/606215078)<br />
+6. [怎么理解「 善战者无赫赫之功 」？](https://www.zhihu.com/question/409246699)<br />
+7. [4 岁半女孩，以后不准备走艺术路线，请问学什么乐器比较好？](https://www.zhihu.com/question/609567378)<br />
+8. [饺子馅料有哪些经典组合？](https://www.zhihu.com/question/606215078)<br />
+9. [普通人能全职炒股吗？](https://www.zhihu.com/question/609201925)<br />
 
 > 百度  
 
