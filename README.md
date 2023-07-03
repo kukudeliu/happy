@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 03:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 03:43:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [沪上阿姨回应一杯开水卖10元](https://s.weibo.com/weibo?q=%23%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%E5%9B%9E%E5%BA%94%E4%B8%80%E6%9D%AF%E5%BC%80%E6%B0%B4%E5%8D%9610%E5%85%83%23&t=31&band_rank=5&Refer=top)<br />
 6. [工人高温修空调女子留吃饭多给200元](https://s.weibo.com/weibo?q=%23%E5%B7%A5%E4%BA%BA%E9%AB%98%E6%B8%A9%E4%BF%AE%E7%A9%BA%E8%B0%83%E5%A5%B3%E5%AD%90%E7%95%99%E5%90%83%E9%A5%AD%E5%A4%9A%E7%BB%99200%E5%85%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [蔡徐坤否认女方未成年及强制堕胎](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E5%90%A6%E8%AE%A4%E5%A5%B3%E6%96%B9%E6%9C%AA%E6%88%90%E5%B9%B4%E5%8F%8A%E5%BC%BA%E5%88%B6%E5%A0%95%E8%83%8E%23&t=31&band_rank=7&Refer=top)<br />
-8. [广东地震](https://s.weibo.com/weibo?q=%E5%B9%BF%E4%B8%9C%E5%9C%B0%E9%9C%87&t=31&band_rank=8&Refer=top)<br />
-9. [为什么运钞车不直接运一张银行卡](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%90%E9%92%9E%E8%BD%A6%E4%B8%8D%E7%9B%B4%E6%8E%A5%E8%BF%90%E4%B8%80%E5%BC%A0%E9%93%B6%E8%A1%8C%E5%8D%A1&t=31&band_rank=9&Refer=top)<br />
+8. [爷爷得知孙子四千元买条狗直接上秤](https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E5%BE%97%E7%9F%A5%E5%AD%99%E5%AD%90%E5%9B%9B%E5%8D%83%E5%85%83%E4%B9%B0%E6%9D%A1%E7%8B%97%E7%9B%B4%E6%8E%A5%E4%B8%8A%E7%A7%A4%23&t=31&band_rank=8&Refer=top)<br />
+9. [广东地震](https://s.weibo.com/weibo?q=%E5%B9%BF%E4%B8%9C%E5%9C%B0%E9%9C%87&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
