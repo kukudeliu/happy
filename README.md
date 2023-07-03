@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 06:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 06:19:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [爷爷得知孙子四千元买条狗直接上秤](https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E5%BE%97%E7%9F%A5%E5%AD%99%E5%AD%90%E5%9B%9B%E5%8D%83%E5%85%83%E4%B9%B0%E6%9D%A1%E7%8B%97%E7%9B%B4%E6%8E%A5%E4%B8%8A%E7%A7%A4%23&t=31&band_rank=5&Refer=top)<br />
 6. [如何评价蔡徐坤道歉](https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E8%94%A1%E5%BE%90%E5%9D%A4%E9%81%93%E6%AD%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [沪上阿姨回应一杯开水卖10元](https://s.weibo.com/weibo?q=%23%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%E5%9B%9E%E5%BA%94%E4%B8%80%E6%9D%AF%E5%BC%80%E6%B0%B4%E5%8D%9610%E5%85%83%23&t=31&band_rank=7&Refer=top)<br />
-8. [工人高温修空调女子留吃饭多给200元](https://s.weibo.com/weibo?q=%23%E5%B7%A5%E4%BA%BA%E9%AB%98%E6%B8%A9%E4%BF%AE%E7%A9%BA%E8%B0%83%E5%A5%B3%E5%AD%90%E7%95%99%E5%90%83%E9%A5%AD%E5%A4%9A%E7%BB%99200%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
+8. [店长回应多个榴莲被偷吃损失近千元](https://s.weibo.com/weibo?q=%23%E5%BA%97%E9%95%BF%E5%9B%9E%E5%BA%94%E5%A4%9A%E4%B8%AA%E6%A6%B4%E8%8E%B2%E8%A2%AB%E5%81%B7%E5%90%83%E6%8D%9F%E5%A4%B1%E8%BF%91%E5%8D%83%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
 9. [给校长撑伞挡雨的书记是山东人](https://s.weibo.com/weibo?q=%23%E7%BB%99%E6%A0%A1%E9%95%BF%E6%92%91%E4%BC%9E%E6%8C%A1%E9%9B%A8%E7%9A%84%E4%B9%A6%E8%AE%B0%E6%98%AF%E5%B1%B1%E4%B8%9C%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -31,10 +31,10 @@
 3. [中南大学一校友向母校捐赠6亿元](https://www.baidu.com/s?wd=%E4%B8%AD%E5%8D%97%E5%A4%A7%E5%AD%A6%E4%B8%80%E6%A0%A1%E5%8F%8B%E5%90%91%E6%AF%8D%E6%A0%A1%E6%8D%90%E8%B5%A06%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [暑期游新玩法折射消费新趋势](https://www.baidu.com/s?wd=%E6%9A%91%E6%9C%9F%E6%B8%B8%E6%96%B0%E7%8E%A9%E6%B3%95%E6%8A%98%E5%B0%84%E6%B6%88%E8%B4%B9%E6%96%B0%E8%B6%8B%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [沪上阿姨回应一杯开水卖10元](https://www.baidu.com/s?wd=%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%E5%9B%9E%E5%BA%94%E4%B8%80%E6%9D%AF%E5%BC%80%E6%B0%B4%E5%8D%9610%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [人大再回应学生信息泄露事件:将起诉](https://www.baidu.com/s?wd=%E4%BA%BA%E5%A4%A7%E5%86%8D%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E4%BF%A1%E6%81%AF%E6%B3%84%E9%9C%B2%E4%BA%8B%E4%BB%B6%3A%E5%B0%86%E8%B5%B7%E8%AF%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [英国将首推水葬：沸水煮遗体4小时](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E5%B0%86%E9%A6%96%E6%8E%A8%E6%B0%B4%E8%91%AC%EF%BC%9A%E6%B2%B8%E6%B0%B4%E7%85%AE%E9%81%97%E4%BD%934%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [年轻人租房降级：住30元1天太空舱](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%A7%9F%E6%88%BF%E9%99%8D%E7%BA%A7%EF%BC%9A%E4%BD%8F30%E5%85%831%E5%A4%A9%E5%A4%AA%E7%A9%BA%E8%88%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [北京一导游中暑身亡 系家中独子](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E4%B8%80%E5%AF%BC%E6%B8%B8%E4%B8%AD%E6%9A%91%E8%BA%AB%E4%BA%A1+%E7%B3%BB%E5%AE%B6%E4%B8%AD%E7%8B%AC%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [英国将首推水葬：沸水煮遗体4小时](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E5%B0%86%E9%A6%96%E6%8E%A8%E6%B0%B4%E8%91%AC%EF%BC%9A%E6%B2%B8%E6%B0%B4%E7%85%AE%E9%81%97%E4%BD%934%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [年轻人租房降级：住30元1天太空舱](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%A7%9F%E6%88%BF%E9%99%8D%E7%BA%A7%EF%BC%9A%E4%BD%8F30%E5%85%831%E5%A4%A9%E5%A4%AA%E7%A9%BA%E8%88%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [北京一导游中暑身亡 系家中独子](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E4%B8%80%E5%AF%BC%E6%B8%B8%E4%B8%AD%E6%9A%91%E8%BA%AB%E4%BA%A1+%E7%B3%BB%E5%AE%B6%E4%B8%AD%E7%8B%AC%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [浙江仙居太阳像戴了美瞳](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%BB%99%E5%B1%85%E5%A4%AA%E9%98%B3%E5%83%8F%E6%88%B4%E4%BA%86%E7%BE%8E%E7%9E%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [中南大学一校友向母校捐赠6亿元](https://www.baidu.com/s?wd=%E4%B8%AD%E5%8D%97%E5%A4%A7%E5%AD%A6%E4%B8%80%E6%A0%A1%E5%8F%8B%E5%90%91%E6%AF%8D%E6%A0%A1%E6%8D%90%E8%B5%A06%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [暑期游新玩法折射消费新趋势](https://www.baidu.com/s?wd=%E6%9A%91%E6%9C%9F%E6%B8%B8%E6%96%B0%E7%8E%A9%E6%B3%95%E6%8A%98%E5%B0%84%E6%B6%88%E8%B4%B9%E6%96%B0%E8%B6%8B%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [沪上阿姨回应一杯开水卖10元](https://www.baidu.com/s?wd=%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%E5%9B%9E%E5%BA%94%E4%B8%80%E6%9D%AF%E5%BC%80%E6%B0%B4%E5%8D%9610%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [人大再回应学生信息泄露事件:将起诉](https://www.baidu.com/s?wd=%E4%BA%BA%E5%A4%A7%E5%86%8D%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E4%BF%A1%E6%81%AF%E6%B3%84%E9%9C%B2%E4%BA%8B%E4%BB%B6%3A%E5%B0%86%E8%B5%B7%E8%AF%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [英国将首推水葬：沸水煮遗体4小时](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E5%B0%86%E9%A6%96%E6%8E%A8%E6%B0%B4%E8%91%AC%EF%BC%9A%E6%B2%B8%E6%B0%B4%E7%85%AE%E9%81%97%E4%BD%934%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [年轻人租房降级：住30元1天太空舱](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%A7%9F%E6%88%BF%E9%99%8D%E7%BA%A7%EF%BC%9A%E4%BD%8F30%E5%85%831%E5%A4%A9%E5%A4%AA%E7%A9%BA%E8%88%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [北京一导游中暑身亡 系家中独子](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E4%B8%80%E5%AF%BC%E6%B8%B8%E4%B8%AD%E6%9A%91%E8%BA%AB%E4%BA%A1+%E7%B3%BB%E5%AE%B6%E4%B8%AD%E7%8B%AC%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [英国将首推水葬：沸水煮遗体4小时](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E5%B0%86%E9%A6%96%E6%8E%A8%E6%B0%B4%E8%91%AC%EF%BC%9A%E6%B2%B8%E6%B0%B4%E7%85%AE%E9%81%97%E4%BD%934%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [年轻人租房降级：住30元1天太空舱](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%A7%9F%E6%88%BF%E9%99%8D%E7%BA%A7%EF%BC%9A%E4%BD%8F30%E5%85%831%E5%A4%A9%E5%A4%AA%E7%A9%BA%E8%88%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [北京一导游中暑身亡 系家中独子](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E4%B8%80%E5%AF%BC%E6%B8%B8%E4%B8%AD%E6%9A%91%E8%BA%AB%E4%BA%A1+%E7%B3%BB%E5%AE%B6%E4%B8%AD%E7%8B%AC%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [浙江仙居太阳像戴了美瞳](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%BB%99%E5%B1%85%E5%A4%AA%E9%98%B3%E5%83%8F%E6%88%B4%E4%BA%86%E7%BE%8E%E7%9E%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
