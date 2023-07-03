@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 16:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 16:08:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [黄河壶口瀑布安全墙、云南罗平九龙瀑布景区沿线围挡均已拆除，专家称应警惕筑墙挡景背后思维，如何看待此事？](https://www.zhihu.com/question/609988074)<br />
 6. [为什么杨毅说 CBA 的商业化程度甚至还不如 LPL？](https://www.zhihu.com/question/609130013)<br />
 7. [国内哪个男演员适合演《三体》里的罗辑？](https://www.zhihu.com/question/540660392)<br />
-8. [如何评价《原神》序曲 PV——「致终幕的欢宴」？](https://www.zhihu.com/question/610051243)<br />
-9. [当前的经济环境下，如果要刺激楼市来稳经济，还有哪些牌可以打？预计效果如何？](https://www.zhihu.com/question/609280405)<br />
+8. [当前的经济环境下，如果要刺激楼市来稳经济，还有哪些牌可以打？预计效果如何？](https://www.zhihu.com/question/609280405)<br />
+9. [泰坦尼克号沉没的根本原因是什么？是不是本来是可以避免的？](https://www.zhihu.com/question/551424112)<br />
 
 > 百度  
 
