@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 04:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 04:09:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [工人高温修空调女子留吃饭多给200元](https://s.weibo.com/weibo?q=%23%E5%B7%A5%E4%BA%BA%E9%AB%98%E6%B8%A9%E4%BF%AE%E7%A9%BA%E8%B0%83%E5%A5%B3%E5%AD%90%E7%95%99%E5%90%83%E9%A5%AD%E5%A4%9A%E7%BB%99200%E5%85%83%23&t=31&band_rank=5&Refer=top)<br />
 6. [爷爷得知孙子四千元买条狗直接上秤](https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E5%BE%97%E7%9F%A5%E5%AD%99%E5%AD%90%E5%9B%9B%E5%8D%83%E5%85%83%E4%B9%B0%E6%9D%A1%E7%8B%97%E7%9B%B4%E6%8E%A5%E4%B8%8A%E7%A7%A4%23&t=31&band_rank=6&Refer=top)<br />
 7. [沪上阿姨回应一杯开水卖10元](https://s.weibo.com/weibo?q=%23%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%E5%9B%9E%E5%BA%94%E4%B8%80%E6%9D%AF%E5%BC%80%E6%B0%B4%E5%8D%9610%E5%85%83%23&t=31&band_rank=7&Refer=top)<br />
-8. [广东地震](https://s.weibo.com/weibo?q=%E5%B9%BF%E4%B8%9C%E5%9C%B0%E9%9C%87&t=31&band_rank=8&Refer=top)<br />
-9. [女子外卖备注多放醋商家送1大袋](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%A4%96%E5%8D%96%E5%A4%87%E6%B3%A8%E5%A4%9A%E6%94%BE%E9%86%8B%E5%95%86%E5%AE%B6%E9%80%811%E5%A4%A7%E8%A2%8B%23&t=31&band_rank=9&Refer=top)<br />
+8. [为什么运钞车不直接运一张银行卡](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%90%E9%92%9E%E8%BD%A6%E4%B8%8D%E7%9B%B4%E6%8E%A5%E8%BF%90%E4%B8%80%E5%BC%A0%E9%93%B6%E8%A1%8C%E5%8D%A1&t=31&band_rank=8&Refer=top)<br />
+9. [广东地震](https://s.weibo.com/weibo?q=%E5%B9%BF%E4%B8%9C%E5%9C%B0%E9%9C%87&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [成绩去不了北大，但是能去北大医学部，应该去吗?](https://www.zhihu.com/question/609084243)<br />
 7. [上海一豪宅拍出 1.58 亿天价，单价超 34 万，或由得物创始人竞得，哪些信息值得关注？](https://www.zhihu.com/question/610023999)<br />
 8. [滔搏电子竞技俱乐部发声「被行政处罚的喻某波与旗下选手喻文波毫无关联」对此你有什么想说？](https://www.zhihu.com/question/610071455)<br />
-9. [山姆泡面桶已被炒至 1999 元一桶，仍有人购买，如何看待此事？背后是怎样的消费心理？](https://www.zhihu.com/question/610060285)<br />
+9. [一个很小的东西，比如指甲盖大小。但是它的重量却很大，重到几万吨。这个东西放在手上，它的重力会穿破手吗？](https://www.zhihu.com/question/519865099)<br />
 
 > 百度  
 
@@ -31,8 +31,8 @@
 3. [中南大学一校友向母校捐赠6亿元](https://www.baidu.com/s?wd=%E4%B8%AD%E5%8D%97%E5%A4%A7%E5%AD%A6%E4%B8%80%E6%A0%A1%E5%8F%8B%E5%90%91%E6%AF%8D%E6%A0%A1%E6%8D%90%E8%B5%A06%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [暑期游新玩法折射消费新趋势](https://www.baidu.com/s?wd=%E6%9A%91%E6%9C%9F%E6%B8%B8%E6%96%B0%E7%8E%A9%E6%B3%95%E6%8A%98%E5%B0%84%E6%B6%88%E8%B4%B9%E6%96%B0%E8%B6%8B%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [沪上阿姨回应一杯开水卖10元](https://www.baidu.com/s?wd=%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%E5%9B%9E%E5%BA%94%E4%B8%80%E6%9D%AF%E5%BC%80%E6%B0%B4%E5%8D%9610%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男子造谣幼师肉偿打车被刑拘](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%80%A0%E8%B0%A3%E5%B9%BC%E5%B8%88%E8%82%89%E5%81%BF%E6%89%93%E8%BD%A6%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [夫妻攒百万想给40年没见的女儿](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E6%94%92%E7%99%BE%E4%B8%87%E6%83%B3%E7%BB%9940%E5%B9%B4%E6%B2%A1%E8%A7%81%E7%9A%84%E5%A5%B3%E5%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [乘客称起飞时机组人员联网刷视频](https://www.baidu.com/s?wd=%E4%B9%98%E5%AE%A2%E7%A7%B0%E8%B5%B7%E9%A3%9E%E6%97%B6%E6%9C%BA%E7%BB%84%E4%BA%BA%E5%91%98%E8%81%94%E7%BD%91%E5%88%B7%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [浙江仙居太阳像戴了美瞳](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%BB%99%E5%B1%85%E5%A4%AA%E9%98%B3%E5%83%8F%E6%88%B4%E4%BA%86%E7%BE%8E%E7%9E%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [李承铉参加张杰谢娜婚礼晕倒了](https://www.baidu.com/s?wd=%E6%9D%8E%E6%89%BF%E9%93%89%E5%8F%82%E5%8A%A0%E5%BC%A0%E6%9D%B0%E8%B0%A2%E5%A8%9C%E5%A9%9A%E7%A4%BC%E6%99%95%E5%80%92%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [燕京啤酒董秘办回应蔡徐坤事件影响](https://www.baidu.com/s?wd=%E7%87%95%E4%BA%AC%E5%95%A4%E9%85%92%E8%91%A3%E7%A7%98%E5%8A%9E%E5%9B%9E%E5%BA%94%E8%94%A1%E5%BE%90%E5%9D%A4%E4%BA%8B%E4%BB%B6%E5%BD%B1%E5%93%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -43,7 +43,7 @@
 3. [中南大学一校友向母校捐赠6亿元](https://www.baidu.com/s?wd=%E4%B8%AD%E5%8D%97%E5%A4%A7%E5%AD%A6%E4%B8%80%E6%A0%A1%E5%8F%8B%E5%90%91%E6%AF%8D%E6%A0%A1%E6%8D%90%E8%B5%A06%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [暑期游新玩法折射消费新趋势](https://www.baidu.com/s?wd=%E6%9A%91%E6%9C%9F%E6%B8%B8%E6%96%B0%E7%8E%A9%E6%B3%95%E6%8A%98%E5%B0%84%E6%B6%88%E8%B4%B9%E6%96%B0%E8%B6%8B%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [沪上阿姨回应一杯开水卖10元](https://www.baidu.com/s?wd=%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%E5%9B%9E%E5%BA%94%E4%B8%80%E6%9D%AF%E5%BC%80%E6%B0%B4%E5%8D%9610%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男子造谣幼师肉偿打车被刑拘](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%80%A0%E8%B0%A3%E5%B9%BC%E5%B8%88%E8%82%89%E5%81%BF%E6%89%93%E8%BD%A6%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [夫妻攒百万想给40年没见的女儿](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E6%94%92%E7%99%BE%E4%B8%87%E6%83%B3%E7%BB%9940%E5%B9%B4%E6%B2%A1%E8%A7%81%E7%9A%84%E5%A5%B3%E5%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [乘客称起飞时机组人员联网刷视频](https://www.baidu.com/s?wd=%E4%B9%98%E5%AE%A2%E7%A7%B0%E8%B5%B7%E9%A3%9E%E6%97%B6%E6%9C%BA%E7%BB%84%E4%BA%BA%E5%91%98%E8%81%94%E7%BD%91%E5%88%B7%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [浙江仙居太阳像戴了美瞳](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%BB%99%E5%B1%85%E5%A4%AA%E9%98%B3%E5%83%8F%E6%88%B4%E4%BA%86%E7%BE%8E%E7%9E%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [李承铉参加张杰谢娜婚礼晕倒了](https://www.baidu.com/s?wd=%E6%9D%8E%E6%89%BF%E9%93%89%E5%8F%82%E5%8A%A0%E5%BC%A0%E6%9D%B0%E8%B0%A2%E5%A8%9C%E5%A9%9A%E7%A4%BC%E6%99%95%E5%80%92%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [燕京啤酒董秘办回应蔡徐坤事件影响](https://www.baidu.com/s?wd=%E7%87%95%E4%BA%AC%E5%95%A4%E9%85%92%E8%91%A3%E7%A7%98%E5%8A%9E%E5%9B%9E%E5%BA%94%E8%94%A1%E5%BE%90%E5%9D%A4%E4%BA%8B%E4%BB%B6%E5%BD%B1%E5%93%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
