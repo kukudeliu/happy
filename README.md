@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 13:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 13:09:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [CIA 局长英国演讲提 19 次「中国」，称「对华脱钩是愚蠢的」，透露了哪些信息？](https://www.zhihu.com/question/609934026)<br />
 6. [为什么现在的孩子普遍都特别脆弱？](https://www.zhihu.com/question/591144391)<br />
 7. [警方通报人大部分学生信息被非法获取的情况，「嫌疑人已被刑拘」，哪些信息值得关注？他或将面临何种处罚？](https://www.zhihu.com/question/610044604)<br />
-8. [动画电影《长安三万里》点映口碑如何？值得去电影院看吗？](https://www.zhihu.com/question/549287398)<br />
-9. [为什么很多长辈都让高考结束就去考驾照呢？](https://www.zhihu.com/question/609953037)<br />
+8. [为什么很多长辈都让高考结束就去考驾照呢？](https://www.zhihu.com/question/609953037)<br />
+9. [杭州是否可以被称为世界级旅游城市?](https://www.zhihu.com/question/607027657)<br />
 
 > 百度  
 
