@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 05:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 05:34:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [大熊猫萌兰](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E8%90%8C%E5%85%B0%23&t=31&band_rank=4&Refer=top)<br />
 5. [如何评价蔡徐坤道歉](https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E8%94%A1%E5%BE%90%E5%9D%A4%E9%81%93%E6%AD%89%23&t=31&band_rank=5&Refer=top)<br />
 6. [爷爷得知孙子四千元买条狗直接上秤](https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E5%BE%97%E7%9F%A5%E5%AD%99%E5%AD%90%E5%9B%9B%E5%8D%83%E5%85%83%E4%B9%B0%E6%9D%A1%E7%8B%97%E7%9B%B4%E6%8E%A5%E4%B8%8A%E7%A7%A4%23&t=31&band_rank=6&Refer=top)<br />
-7. [微信支付每月免费提现额度](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98%E6%AF%8F%E6%9C%88%E5%85%8D%E8%B4%B9%E6%8F%90%E7%8E%B0%E9%A2%9D%E5%BA%A6%23&t=31&band_rank=7&Refer=top)<br />
-8. [女子外卖备注多放醋商家送1大袋](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%A4%96%E5%8D%96%E5%A4%87%E6%B3%A8%E5%A4%9A%E6%94%BE%E9%86%8B%E5%95%86%E5%AE%B6%E9%80%811%E5%A4%A7%E8%A2%8B%23&t=31&band_rank=8&Refer=top)<br />
-9. [为什么运钞车不直接运一张银行卡](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%90%E9%92%9E%E8%BD%A6%E4%B8%8D%E7%9B%B4%E6%8E%A5%E8%BF%90%E4%B8%80%E5%BC%A0%E9%93%B6%E8%A1%8C%E5%8D%A1&t=31&band_rank=9&Refer=top)<br />
+7. [沪上阿姨回应一杯开水卖10元](https://s.weibo.com/weibo?q=%23%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%E5%9B%9E%E5%BA%94%E4%B8%80%E6%9D%AF%E5%BC%80%E6%B0%B4%E5%8D%9610%E5%85%83%23&t=31&band_rank=7&Refer=top)<br />
+8. [微信支付每月免费提现额度](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98%E6%AF%8F%E6%9C%88%E5%85%8D%E8%B4%B9%E6%8F%90%E7%8E%B0%E9%A2%9D%E5%BA%A6%23&t=31&band_rank=8&Refer=top)<br />
+9. [女子外卖备注多放醋商家送1大袋](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%A4%96%E5%8D%96%E5%A4%87%E6%B3%A8%E5%A4%9A%E6%94%BE%E9%86%8B%E5%95%86%E5%AE%B6%E9%80%811%E5%A4%A7%E8%A2%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -31,10 +31,10 @@
 3. [中南大学一校友向母校捐赠6亿元](https://www.baidu.com/s?wd=%E4%B8%AD%E5%8D%97%E5%A4%A7%E5%AD%A6%E4%B8%80%E6%A0%A1%E5%8F%8B%E5%90%91%E6%AF%8D%E6%A0%A1%E6%8D%90%E8%B5%A06%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [暑期游新玩法折射消费新趋势](https://www.baidu.com/s?wd=%E6%9A%91%E6%9C%9F%E6%B8%B8%E6%96%B0%E7%8E%A9%E6%B3%95%E6%8A%98%E5%B0%84%E6%B6%88%E8%B4%B9%E6%96%B0%E8%B6%8B%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [沪上阿姨回应一杯开水卖10元](https://www.baidu.com/s?wd=%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%E5%9B%9E%E5%BA%94%E4%B8%80%E6%9D%AF%E5%BC%80%E6%B0%B4%E5%8D%9610%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [为何对镓和锗实行出口管制？](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BD%95%E5%AF%B9%E9%95%93%E5%92%8C%E9%94%97%E5%AE%9E%E8%A1%8C%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [北京一导游中暑身亡 系家中独子](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E4%B8%80%E5%AF%BC%E6%B8%B8%E4%B8%AD%E6%9A%91%E8%BA%AB%E4%BA%A1+%E7%B3%BB%E5%AE%B6%E4%B8%AD%E7%8B%AC%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [李承铉参加张杰谢娜婚礼晕倒了](https://www.baidu.com/s?wd=%E6%9D%8E%E6%89%BF%E9%93%89%E5%8F%82%E5%8A%A0%E5%BC%A0%E6%9D%B0%E8%B0%A2%E5%A8%9C%E5%A9%9A%E7%A4%BC%E6%99%95%E5%80%92%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中国夫妻非洲遭枪杀 华商会悬赏追凶](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%AB%E5%A6%BB%E9%9D%9E%E6%B4%B2%E9%81%AD%E6%9E%AA%E6%9D%80+%E5%8D%8E%E5%95%86%E4%BC%9A%E6%82%AC%E8%B5%8F%E8%BF%BD%E5%87%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [北京一导游中暑身亡 系家中独子](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E4%B8%80%E5%AF%BC%E6%B8%B8%E4%B8%AD%E6%9A%91%E8%BA%AB%E4%BA%A1+%E7%B3%BB%E5%AE%B6%E4%B8%AD%E7%8B%AC%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [对方撤回了一个老太太](https://www.baidu.com/s?wd=%E5%AF%B9%E6%96%B9%E6%92%A4%E5%9B%9E%E4%BA%86%E4%B8%80%E4%B8%AA%E8%80%81%E5%A4%AA%E5%A4%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中国夫妻非洲遭枪杀 华商会悬赏追凶](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%AB%E5%A6%BB%E9%9D%9E%E6%B4%B2%E9%81%AD%E6%9E%AA%E6%9D%80+%E5%8D%8E%E5%95%86%E4%BC%9A%E6%82%AC%E8%B5%8F%E8%BF%BD%E5%87%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [李承铉参加张杰谢娜婚礼晕倒了](https://www.baidu.com/s?wd=%E6%9D%8E%E6%89%BF%E9%93%89%E5%8F%82%E5%8A%A0%E5%BC%A0%E6%9D%B0%E8%B0%A2%E5%A8%9C%E5%A9%9A%E7%A4%BC%E6%99%95%E5%80%92%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [中南大学一校友向母校捐赠6亿元](https://www.baidu.com/s?wd=%E4%B8%AD%E5%8D%97%E5%A4%A7%E5%AD%A6%E4%B8%80%E6%A0%A1%E5%8F%8B%E5%90%91%E6%AF%8D%E6%A0%A1%E6%8D%90%E8%B5%A06%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [暑期游新玩法折射消费新趋势](https://www.baidu.com/s?wd=%E6%9A%91%E6%9C%9F%E6%B8%B8%E6%96%B0%E7%8E%A9%E6%B3%95%E6%8A%98%E5%B0%84%E6%B6%88%E8%B4%B9%E6%96%B0%E8%B6%8B%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [沪上阿姨回应一杯开水卖10元](https://www.baidu.com/s?wd=%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%E5%9B%9E%E5%BA%94%E4%B8%80%E6%9D%AF%E5%BC%80%E6%B0%B4%E5%8D%9610%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [为何对镓和锗实行出口管制？](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BD%95%E5%AF%B9%E9%95%93%E5%92%8C%E9%94%97%E5%AE%9E%E8%A1%8C%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [北京一导游中暑身亡 系家中独子](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E4%B8%80%E5%AF%BC%E6%B8%B8%E4%B8%AD%E6%9A%91%E8%BA%AB%E4%BA%A1+%E7%B3%BB%E5%AE%B6%E4%B8%AD%E7%8B%AC%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [李承铉参加张杰谢娜婚礼晕倒了](https://www.baidu.com/s?wd=%E6%9D%8E%E6%89%BF%E9%93%89%E5%8F%82%E5%8A%A0%E5%BC%A0%E6%9D%B0%E8%B0%A2%E5%A8%9C%E5%A9%9A%E7%A4%BC%E6%99%95%E5%80%92%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中国夫妻非洲遭枪杀 华商会悬赏追凶](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%AB%E5%A6%BB%E9%9D%9E%E6%B4%B2%E9%81%AD%E6%9E%AA%E6%9D%80+%E5%8D%8E%E5%95%86%E4%BC%9A%E6%82%AC%E8%B5%8F%E8%BF%BD%E5%87%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [北京一导游中暑身亡 系家中独子](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E4%B8%80%E5%AF%BC%E6%B8%B8%E4%B8%AD%E6%9A%91%E8%BA%AB%E4%BA%A1+%E7%B3%BB%E5%AE%B6%E4%B8%AD%E7%8B%AC%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [对方撤回了一个老太太](https://www.baidu.com/s?wd=%E5%AF%B9%E6%96%B9%E6%92%A4%E5%9B%9E%E4%BA%86%E4%B8%80%E4%B8%AA%E8%80%81%E5%A4%AA%E5%A4%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中国夫妻非洲遭枪杀 华商会悬赏追凶](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%AB%E5%A6%BB%E9%9D%9E%E6%B4%B2%E9%81%AD%E6%9E%AA%E6%9D%80+%E5%8D%8E%E5%95%86%E4%BC%9A%E6%82%AC%E8%B5%8F%E8%BF%BD%E5%87%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [李承铉参加张杰谢娜婚礼晕倒了](https://www.baidu.com/s?wd=%E6%9D%8E%E6%89%BF%E9%93%89%E5%8F%82%E5%8A%A0%E5%BC%A0%E6%9D%B0%E8%B0%A2%E5%A8%9C%E5%A9%9A%E7%A4%BC%E6%99%95%E5%80%92%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
