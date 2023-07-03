@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 10:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 10:41:02</h4></div>
 
 > 微博  
 
@@ -20,8 +20,8 @@
 4. [北京广告协会发文「对歌手蔡某某做好风险把控」，如何看待此事？后续进展如何？](https://www.zhihu.com/question/609892459)<br />
 5. [儿子被科索沃当局扣留，武契奇谴责科索沃领导人「没我儿子勇敢」，他儿子会面临什么？科索沃局势将如何发展？](https://www.zhihu.com/question/609485354)<br />
 6. [美财政部部长耶伦将访华，哪些信息值得关注？](https://www.zhihu.com/question/610020971)<br />
-7. [如何看待越来越多应届生回县城考公？大城市打拼与离家近的安稳工作，你会如何选择？](https://www.zhihu.com/question/607786487)<br />
-8. [如何看待手机内存卷到 24G+1T，真的有必要吗？](https://www.zhihu.com/question/608801781)<br />
+7. [如何看待手机内存卷到 24G+1T，真的有必要吗？](https://www.zhihu.com/question/608801781)<br />
+8. [如何看待越来越多应届生回县城考公？大城市打拼与离家近的安稳工作，你会如何选择？](https://www.zhihu.com/question/607786487)<br />
 9. [哪些是你到了日本才发现不一样的事？](https://www.zhihu.com/question/609481571)<br />
 
 > 百度  
