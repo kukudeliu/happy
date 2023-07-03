@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 17:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 17:05:02</h4></div>
 
 > 微博  
 
@@ -18,9 +18,9 @@
 2. [猫经常坐在院子中间，偶尔舔舔身上的毛，然后坐在那一个下午，它坐在那干什么？](https://www.zhihu.com/question/603451215)<br />
 3. [苹果占 618 手机销量 42%，领先第二名近 200 万部，这一调查结果说明什么？](https://www.zhihu.com/question/609145071)<br />
 4. [黄河壶口瀑布安全墙、云南罗平九龙瀑布景区沿线围挡均已拆除，专家称应警惕筑墙挡景背后思维，如何看待此事？](https://www.zhihu.com/question/609988074)<br />
-5. [为什么杨毅说 CBA 的商业化程度甚至还不如 LPL？](https://www.zhihu.com/question/609130013)<br />
+5. [电影《消失的她》改编自真实事件，该事件原型是什么样的？](https://www.zhihu.com/question/608181201)<br />
 6. [蔡徐坤风波后首次发声，称与 C 女士有过交往，但不存在女方未成年和强制堕胎的情况，如何看待这一回应？](https://www.zhihu.com/question/610047617)<br />
-7. [电影《消失的她》改编自真实事件，该事件原型是什么样的？](https://www.zhihu.com/question/608181201)<br />
+7. [为什么杨毅说 CBA 的商业化程度甚至还不如 LPL？](https://www.zhihu.com/question/609130013)<br />
 8. [泰坦尼克号沉没的根本原因是什么？是不是本来是可以避免的？](https://www.zhihu.com/question/551424112)<br />
 9. [如何看待「七成应届生毕业后还需父母经济支持」一事？毕业后你需要父母经济支持了吗？](https://www.zhihu.com/question/609808731)<br />
 
