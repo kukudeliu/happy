@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 09:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 09:51:01</h4></div>
 
 > 微博  
 
@@ -27,7 +27,7 @@
 > 百度  
 
 1. [党旗高扬 初心如炬](https://www.baidu.com/s?wd=%E5%85%9A%E6%97%97%E9%AB%98%E6%89%AC+%E5%88%9D%E5%BF%83%E5%A6%82%E7%82%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [陕西一地遭50年一遇特大暴雨侵袭](https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF%E4%B8%80%E5%9C%B0%E9%81%AD50%E5%B9%B4%E4%B8%80%E9%81%87%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%A8%E4%BE%B5%E8%A2%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [曝多家平台清空蔡徐坤相关内容](https://www.baidu.com/s?wd=%E6%9B%9D%E5%A4%9A%E5%AE%B6%E5%B9%B3%E5%8F%B0%E6%B8%85%E7%A9%BA%E8%94%A1%E5%BE%90%E5%9D%A4%E7%9B%B8%E5%85%B3%E5%86%85%E5%AE%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [上海豪宅1.58亿成交 买家身份曝光](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E8%B1%AA%E5%AE%851.58%E4%BA%BF%E6%88%90%E4%BA%A4+%E4%B9%B0%E5%AE%B6%E8%BA%AB%E4%BB%BD%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [殷殷挂念暖香江](https://www.baidu.com/s?wd=%E6%AE%B7%E6%AE%B7%E6%8C%82%E5%BF%B5%E6%9A%96%E9%A6%99%E6%B1%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [法父亲揪参与骚乱儿子耳朵塞进车箱](https://www.baidu.com/s?wd=%E6%B3%95%E7%88%B6%E4%BA%B2%E6%8F%AA%E5%8F%82%E4%B8%8E%E9%AA%9A%E4%B9%B1%E5%84%BF%E5%AD%90%E8%80%B3%E6%9C%B5%E5%A1%9E%E8%BF%9B%E8%BD%A6%E7%AE%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -39,7 +39,7 @@
 > 哔哩哔哩  
 
 1. [党旗高扬 初心如炬](https://www.baidu.com/s?wd=%E5%85%9A%E6%97%97%E9%AB%98%E6%89%AC+%E5%88%9D%E5%BF%83%E5%A6%82%E7%82%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [陕西一地遭50年一遇特大暴雨侵袭](https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF%E4%B8%80%E5%9C%B0%E9%81%AD50%E5%B9%B4%E4%B8%80%E9%81%87%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%A8%E4%BE%B5%E8%A2%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [曝多家平台清空蔡徐坤相关内容](https://www.baidu.com/s?wd=%E6%9B%9D%E5%A4%9A%E5%AE%B6%E5%B9%B3%E5%8F%B0%E6%B8%85%E7%A9%BA%E8%94%A1%E5%BE%90%E5%9D%A4%E7%9B%B8%E5%85%B3%E5%86%85%E5%AE%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [上海豪宅1.58亿成交 买家身份曝光](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E8%B1%AA%E5%AE%851.58%E4%BA%BF%E6%88%90%E4%BA%A4+%E4%B9%B0%E5%AE%B6%E8%BA%AB%E4%BB%BD%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [殷殷挂念暖香江](https://www.baidu.com/s?wd=%E6%AE%B7%E6%AE%B7%E6%8C%82%E5%BF%B5%E6%9A%96%E9%A6%99%E6%B1%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [法父亲揪参与骚乱儿子耳朵塞进车箱](https://www.baidu.com/s?wd=%E6%B3%95%E7%88%B6%E4%BA%B2%E6%8F%AA%E5%8F%82%E4%B8%8E%E9%AA%9A%E4%B9%B1%E5%84%BF%E5%AD%90%E8%80%B3%E6%9C%B5%E5%A1%9E%E8%BF%9B%E8%BD%A6%E7%AE%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
