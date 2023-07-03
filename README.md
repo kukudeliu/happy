@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 19:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 19:29:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [英国将首推水葬：沸水煮遗体4小时](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E5%B0%86%E9%A6%96%E6%8E%A8%E6%B0%B4%E8%91%AC%EF%BC%9A%E6%B2%B8%E6%B0%B4%E7%85%AE%E9%81%97%E4%BD%934%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [交警情绪失控大喊弄死你？警方回应](https://www.baidu.com/s?wd=%E4%BA%A4%E8%AD%A6%E6%83%85%E7%BB%AA%E5%A4%B1%E6%8E%A7%E5%A4%A7%E5%96%8A%E5%BC%84%E6%AD%BB%E4%BD%A0%EF%BC%9F%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [李承铉参加张杰谢娜婚礼晕倒了](https://www.baidu.com/s?wd=%E6%9D%8E%E6%89%BF%E9%93%89%E5%8F%82%E5%8A%A0%E5%BC%A0%E6%9D%B0%E8%B0%A2%E5%A8%9C%E5%A9%9A%E7%A4%BC%E6%99%95%E5%80%92%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [遇害3儿童家属:嫌犯欲侵犯孩子奶奶](https://www.baidu.com/s?wd=%E9%81%87%E5%AE%B33%E5%84%BF%E7%AB%A5%E5%AE%B6%E5%B1%9E%3A%E5%AB%8C%E7%8A%AF%E6%AC%B2%E4%BE%B5%E7%8A%AF%E5%AD%A9%E5%AD%90%E5%A5%B6%E5%A5%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [墨西哥一市长连续2年与鳄鱼结婚](https://www.baidu.com/s?wd=%E5%A2%A8%E8%A5%BF%E5%93%A5%E4%B8%80%E5%B8%82%E9%95%BF%E8%BF%9E%E7%BB%AD2%E5%B9%B4%E4%B8%8E%E9%B3%84%E9%B1%BC%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [英国将首推水葬：沸水煮遗体4小时](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E5%B0%86%E9%A6%96%E6%8E%A8%E6%B0%B4%E8%91%AC%EF%BC%9A%E6%B2%B8%E6%B0%B4%E7%85%AE%E9%81%97%E4%BD%934%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [交警情绪失控大喊弄死你？警方回应](https://www.baidu.com/s?wd=%E4%BA%A4%E8%AD%A6%E6%83%85%E7%BB%AA%E5%A4%B1%E6%8E%A7%E5%A4%A7%E5%96%8A%E5%BC%84%E6%AD%BB%E4%BD%A0%EF%BC%9F%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [李承铉参加张杰谢娜婚礼晕倒了](https://www.baidu.com/s?wd=%E6%9D%8E%E6%89%BF%E9%93%89%E5%8F%82%E5%8A%A0%E5%BC%A0%E6%9D%B0%E8%B0%A2%E5%A8%9C%E5%A9%9A%E7%A4%BC%E6%99%95%E5%80%92%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [遇害3儿童家属:嫌犯欲侵犯孩子奶奶](https://www.baidu.com/s?wd=%E9%81%87%E5%AE%B33%E5%84%BF%E7%AB%A5%E5%AE%B6%E5%B1%9E%3A%E5%AB%8C%E7%8A%AF%E6%AC%B2%E4%BE%B5%E7%8A%AF%E5%AD%A9%E5%AD%90%E5%A5%B6%E5%A5%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [墨西哥一市长连续2年与鳄鱼结婚](https://www.baidu.com/s?wd=%E5%A2%A8%E8%A5%BF%E5%93%A5%E4%B8%80%E5%B8%82%E9%95%BF%E8%BF%9E%E7%BB%AD2%E5%B9%B4%E4%B8%8E%E9%B3%84%E9%B1%BC%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
