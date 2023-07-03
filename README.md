@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 14:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 14:22:01</h4></div>
 
 > 微博  
 
@@ -33,7 +33,7 @@
 5. [蔡徐坤回应“亲密照”：不是我](https://www.baidu.com/s?wd=%E8%94%A1%E5%BE%90%E5%9D%A4%E5%9B%9E%E5%BA%94%E2%80%9C%E4%BA%B2%E5%AF%86%E7%85%A7%E2%80%9D%EF%BC%9A%E4%B8%8D%E6%98%AF%E6%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [警方确认炎亚纶涉嫌偷拍](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E7%A1%AE%E8%AE%A4%E7%82%8E%E4%BA%9A%E7%BA%B6%E6%B6%89%E5%AB%8C%E5%81%B7%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [#蔡徐坤首度回应风波#](https://www.baidu.com/s?wd=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E9%A6%96%E5%BA%A6%E5%9B%9E%E5%BA%94%E9%A3%8E%E6%B3%A2%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [上海豪宅1.58亿成交 买家身份曝光](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E8%B1%AA%E5%AE%851.58%E4%BA%BF%E6%88%90%E4%BA%A4+%E4%B9%B0%E5%AE%B6%E8%BA%AB%E4%BB%BD%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [西南大学回应网传学生不当言论](https://www.baidu.com/s?wd=%E8%A5%BF%E5%8D%97%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E5%AD%A6%E7%94%9F%E4%B8%8D%E5%BD%93%E8%A8%80%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [汪峰发了个锤子](https://www.baidu.com/s?wd=%E6%B1%AA%E5%B3%B0%E5%8F%91%E4%BA%86%E4%B8%AA%E9%94%A4%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [蔡徐坤回应“亲密照”：不是我](https://www.baidu.com/s?wd=%E8%94%A1%E5%BE%90%E5%9D%A4%E5%9B%9E%E5%BA%94%E2%80%9C%E4%BA%B2%E5%AF%86%E7%85%A7%E2%80%9D%EF%BC%9A%E4%B8%8D%E6%98%AF%E6%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [警方确认炎亚纶涉嫌偷拍](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E7%A1%AE%E8%AE%A4%E7%82%8E%E4%BA%9A%E7%BA%B6%E6%B6%89%E5%AB%8C%E5%81%B7%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [#蔡徐坤首度回应风波#](https://www.baidu.com/s?wd=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E9%A6%96%E5%BA%A6%E5%9B%9E%E5%BA%94%E9%A3%8E%E6%B3%A2%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [上海豪宅1.58亿成交 买家身份曝光](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E8%B1%AA%E5%AE%851.58%E4%BA%BF%E6%88%90%E4%BA%A4+%E4%B9%B0%E5%AE%B6%E8%BA%AB%E4%BB%BD%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [西南大学回应网传学生不当言论](https://www.baidu.com/s?wd=%E8%A5%BF%E5%8D%97%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E5%AD%A6%E7%94%9F%E4%B8%8D%E5%BD%93%E8%A8%80%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [汪峰发了个锤子](https://www.baidu.com/s?wd=%E6%B1%AA%E5%B3%B0%E5%8F%91%E4%BA%86%E4%B8%AA%E9%94%A4%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
