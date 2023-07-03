@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 20:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 20:58:02</h4></div>
 
 > 微博  
 
@@ -32,9 +32,9 @@
 4. [录取通知书里的中国式浪漫](https://www.baidu.com/s?wd=%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%BC%8F%E6%B5%AA%E6%BC%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [蔡徐坤方公布报警回执](https://www.baidu.com/s?wd=%E8%94%A1%E5%BE%90%E5%9D%A4%E6%96%B9%E5%85%AC%E5%B8%83%E6%8A%A5%E8%AD%A6%E5%9B%9E%E6%89%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [英国将首推水葬：沸水煮遗体4小时](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E5%B0%86%E9%A6%96%E6%8E%A8%E6%B0%B4%E8%91%AC%EF%BC%9A%E6%B2%B8%E6%B0%B4%E7%85%AE%E9%81%97%E4%BD%934%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女孩回应给患病外公洗澡：望理解](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%9B%9E%E5%BA%94%E7%BB%99%E6%82%A3%E7%97%85%E5%A4%96%E5%85%AC%E6%B4%97%E6%BE%A1%EF%BC%9A%E6%9C%9B%E7%90%86%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [上半年A股人均赚3.9万 你赚了吗](https://www.baidu.com/s?wd=%E4%B8%8A%E5%8D%8A%E5%B9%B4A%E8%82%A1%E4%BA%BA%E5%9D%87%E8%B5%9A3.9%E4%B8%87+%E4%BD%A0%E8%B5%9A%E4%BA%86%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中国夫妻非洲遭枪杀 华商会悬赏追凶](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%AB%E5%A6%BB%E9%9D%9E%E6%B4%B2%E9%81%AD%E6%9E%AA%E6%9D%80+%E5%8D%8E%E5%95%86%E4%BC%9A%E6%82%AC%E8%B5%8F%E8%BF%BD%E5%87%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [上半年A股人均赚3.9万 你赚了吗](https://www.baidu.com/s?wd=%E4%B8%8A%E5%8D%8A%E5%B9%B4A%E8%82%A1%E4%BA%BA%E5%9D%87%E8%B5%9A3.9%E4%B8%87+%E4%BD%A0%E8%B5%9A%E4%BA%86%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [租房降级年轻人：住30元1天太空舱](https://www.baidu.com/s?wd=%E7%A7%9F%E6%88%BF%E9%99%8D%E7%BA%A7%E5%B9%B4%E8%BD%BB%E4%BA%BA%EF%BC%9A%E4%BD%8F30%E5%85%831%E5%A4%A9%E5%A4%AA%E7%A9%BA%E8%88%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女孩回应给患病外公洗澡：望理解](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%9B%9E%E5%BA%94%E7%BB%99%E6%82%A3%E7%97%85%E5%A4%96%E5%85%AC%E6%B4%97%E6%BE%A1%EF%BC%9A%E6%9C%9B%E7%90%86%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [录取通知书里的中国式浪漫](https://www.baidu.com/s?wd=%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%BC%8F%E6%B5%AA%E6%BC%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [蔡徐坤方公布报警回执](https://www.baidu.com/s?wd=%E8%94%A1%E5%BE%90%E5%9D%A4%E6%96%B9%E5%85%AC%E5%B8%83%E6%8A%A5%E8%AD%A6%E5%9B%9E%E6%89%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [英国将首推水葬：沸水煮遗体4小时](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E5%B0%86%E9%A6%96%E6%8E%A8%E6%B0%B4%E8%91%AC%EF%BC%9A%E6%B2%B8%E6%B0%B4%E7%85%AE%E9%81%97%E4%BD%934%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女孩回应给患病外公洗澡：望理解](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%9B%9E%E5%BA%94%E7%BB%99%E6%82%A3%E7%97%85%E5%A4%96%E5%85%AC%E6%B4%97%E6%BE%A1%EF%BC%9A%E6%9C%9B%E7%90%86%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [上半年A股人均赚3.9万 你赚了吗](https://www.baidu.com/s?wd=%E4%B8%8A%E5%8D%8A%E5%B9%B4A%E8%82%A1%E4%BA%BA%E5%9D%87%E8%B5%9A3.9%E4%B8%87+%E4%BD%A0%E8%B5%9A%E4%BA%86%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中国夫妻非洲遭枪杀 华商会悬赏追凶](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%AB%E5%A6%BB%E9%9D%9E%E6%B4%B2%E9%81%AD%E6%9E%AA%E6%9D%80+%E5%8D%8E%E5%95%86%E4%BC%9A%E6%82%AC%E8%B5%8F%E8%BF%BD%E5%87%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [上半年A股人均赚3.9万 你赚了吗](https://www.baidu.com/s?wd=%E4%B8%8A%E5%8D%8A%E5%B9%B4A%E8%82%A1%E4%BA%BA%E5%9D%87%E8%B5%9A3.9%E4%B8%87+%E4%BD%A0%E8%B5%9A%E4%BA%86%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [租房降级年轻人：住30元1天太空舱](https://www.baidu.com/s?wd=%E7%A7%9F%E6%88%BF%E9%99%8D%E7%BA%A7%E5%B9%B4%E8%BD%BB%E4%BA%BA%EF%BC%9A%E4%BD%8F30%E5%85%831%E5%A4%A9%E5%A4%AA%E7%A9%BA%E8%88%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女孩回应给患病外公洗澡：望理解](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%9B%9E%E5%BA%94%E7%BB%99%E6%82%A3%E7%97%85%E5%A4%96%E5%85%AC%E6%B4%97%E6%BE%A1%EF%BC%9A%E6%9C%9B%E7%90%86%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
