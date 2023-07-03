@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 03:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 03:54:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [网友热议贵州村超「招一万民工月薪 3000 训练一年，选 30 人去踢世界杯」，如何评价这样的观点？](https://www.zhihu.com/question/610056090)<br />
 7. [上海一豪宅拍出 1.58 亿天价，单价超 34 万，或由得物创始人竞得，哪些信息值得关注？](https://www.zhihu.com/question/610023999)<br />
 8. [滔搏电子竞技俱乐部发声「被行政处罚的喻某波与旗下选手喻文波毫无关联」对此你有什么想说？](https://www.zhihu.com/question/610071455)<br />
-9. [山姆泡面桶已被炒至 1999 元一桶，仍有人购买，如何看待此事？背后是怎样的消费心理？](https://www.zhihu.com/question/610060285)<br />
+9. [一个很小的东西，比如指甲盖大小。但是它的重量却很大，重到几万吨。这个东西放在手上，它的重力会穿破手吗？](https://www.zhihu.com/question/519865099)<br />
 
 > 百度  
 
@@ -31,10 +31,10 @@
 3. [中南大学一校友向母校捐赠6亿元](https://www.baidu.com/s?wd=%E4%B8%AD%E5%8D%97%E5%A4%A7%E5%AD%A6%E4%B8%80%E6%A0%A1%E5%8F%8B%E5%90%91%E6%AF%8D%E6%A0%A1%E6%8D%90%E8%B5%A06%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [暑期游新玩法折射消费新趋势](https://www.baidu.com/s?wd=%E6%9A%91%E6%9C%9F%E6%B8%B8%E6%96%B0%E7%8E%A9%E6%B3%95%E6%8A%98%E5%B0%84%E6%B6%88%E8%B4%B9%E6%96%B0%E8%B6%8B%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [沪上阿姨回应一杯开水卖10元](https://www.baidu.com/s?wd=%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%E5%9B%9E%E5%BA%94%E4%B8%80%E6%9D%AF%E5%BC%80%E6%B0%B4%E5%8D%9610%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [中国夫妻非洲遭枪杀 华商会悬赏追凶](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%AB%E5%A6%BB%E9%9D%9E%E6%B4%B2%E9%81%AD%E6%9E%AA%E6%9D%80+%E5%8D%8E%E5%95%86%E4%BC%9A%E6%82%AC%E8%B5%8F%E8%BF%BD%E5%87%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [夫妻攒百万想给40年没见的女儿](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E6%94%92%E7%99%BE%E4%B8%87%E6%83%B3%E7%BB%9940%E5%B9%B4%E6%B2%A1%E8%A7%81%E7%9A%84%E5%A5%B3%E5%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [墨西哥一市长连续2年与鳄鱼结婚](https://www.baidu.com/s?wd=%E5%A2%A8%E8%A5%BF%E5%93%A5%E4%B8%80%E5%B8%82%E9%95%BF%E8%BF%9E%E7%BB%AD2%E5%B9%B4%E4%B8%8E%E9%B3%84%E9%B1%BC%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [警方回应中学教师被指诱奸女学生](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%AD%A6%E6%95%99%E5%B8%88%E8%A2%AB%E6%8C%87%E8%AF%B1%E5%A5%B8%E5%A5%B3%E5%AD%A6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [夫妻攒百万想给40年没见的女儿](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E6%94%92%E7%99%BE%E4%B8%87%E6%83%B3%E7%BB%9940%E5%B9%B4%E6%B2%A1%E8%A7%81%E7%9A%84%E5%A5%B3%E5%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [北京一导游中暑身亡 系家中独子](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E4%B8%80%E5%AF%BC%E6%B8%B8%E4%B8%AD%E6%9A%91%E8%BA%AB%E4%BA%A1+%E7%B3%BB%E5%AE%B6%E4%B8%AD%E7%8B%AC%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [河南一男子持刀伤人后跳楼身亡](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E7%94%B7%E5%AD%90%E6%8C%81%E5%88%80%E4%BC%A4%E4%BA%BA%E5%90%8E%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子造谣幼师肉偿打车被刑拘](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%80%A0%E8%B0%A3%E5%B9%BC%E5%B8%88%E8%82%89%E5%81%BF%E6%89%93%E8%BD%A6%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [中南大学一校友向母校捐赠6亿元](https://www.baidu.com/s?wd=%E4%B8%AD%E5%8D%97%E5%A4%A7%E5%AD%A6%E4%B8%80%E6%A0%A1%E5%8F%8B%E5%90%91%E6%AF%8D%E6%A0%A1%E6%8D%90%E8%B5%A06%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [暑期游新玩法折射消费新趋势](https://www.baidu.com/s?wd=%E6%9A%91%E6%9C%9F%E6%B8%B8%E6%96%B0%E7%8E%A9%E6%B3%95%E6%8A%98%E5%B0%84%E6%B6%88%E8%B4%B9%E6%96%B0%E8%B6%8B%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [沪上阿姨回应一杯开水卖10元](https://www.baidu.com/s?wd=%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%E5%9B%9E%E5%BA%94%E4%B8%80%E6%9D%AF%E5%BC%80%E6%B0%B4%E5%8D%9610%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [中国夫妻非洲遭枪杀 华商会悬赏追凶](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%AB%E5%A6%BB%E9%9D%9E%E6%B4%B2%E9%81%AD%E6%9E%AA%E6%9D%80+%E5%8D%8E%E5%95%86%E4%BC%9A%E6%82%AC%E8%B5%8F%E8%BF%BD%E5%87%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [夫妻攒百万想给40年没见的女儿](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E6%94%92%E7%99%BE%E4%B8%87%E6%83%B3%E7%BB%9940%E5%B9%B4%E6%B2%A1%E8%A7%81%E7%9A%84%E5%A5%B3%E5%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [墨西哥一市长连续2年与鳄鱼结婚](https://www.baidu.com/s?wd=%E5%A2%A8%E8%A5%BF%E5%93%A5%E4%B8%80%E5%B8%82%E9%95%BF%E8%BF%9E%E7%BB%AD2%E5%B9%B4%E4%B8%8E%E9%B3%84%E9%B1%BC%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [警方回应中学教师被指诱奸女学生](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%AD%A6%E6%95%99%E5%B8%88%E8%A2%AB%E6%8C%87%E8%AF%B1%E5%A5%B8%E5%A5%B3%E5%AD%A6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [夫妻攒百万想给40年没见的女儿](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E6%94%92%E7%99%BE%E4%B8%87%E6%83%B3%E7%BB%9940%E5%B9%B4%E6%B2%A1%E8%A7%81%E7%9A%84%E5%A5%B3%E5%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [北京一导游中暑身亡 系家中独子](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E4%B8%80%E5%AF%BC%E6%B8%B8%E4%B8%AD%E6%9A%91%E8%BA%AB%E4%BA%A1+%E7%B3%BB%E5%AE%B6%E4%B8%AD%E7%8B%AC%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [河南一男子持刀伤人后跳楼身亡](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E7%94%B7%E5%AD%90%E6%8C%81%E5%88%80%E4%BC%A4%E4%BA%BA%E5%90%8E%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子造谣幼师肉偿打车被刑拘](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%80%A0%E8%B0%A3%E5%B9%BC%E5%B8%88%E8%82%89%E5%81%BF%E6%89%93%E8%BD%A6%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
