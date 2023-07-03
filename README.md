@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 14:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 14:39:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [JackeyLove 赌博](https://s.weibo.com/weibo?q=JackeyLove%20%E8%B5%8C%E5%8D%9A&t=31&band_rank=6&Refer=top)<br />
 7. [警方前往炎亚纶家中搜查](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%89%8D%E5%BE%80%E7%82%8E%E4%BA%9A%E7%BA%B6%E5%AE%B6%E4%B8%AD%E6%90%9C%E6%9F%A5%23&t=31&band_rank=7&Refer=top)<br />
 8. [刘昊然胡子](https://s.weibo.com/weibo?q=%E5%88%98%E6%98%8A%E7%84%B6%E8%83%A1%E5%AD%90&t=31&band_rank=8&Refer=top)<br />
-9. [炎亚纶前往警局做笔录](https://s.weibo.com/weibo?q=%23%E7%82%8E%E4%BA%9A%E7%BA%B6%E5%89%8D%E5%BE%80%E8%AD%A6%E5%B1%80%E5%81%9A%E7%AC%94%E5%BD%95%23&t=31&band_rank=9&Refer=top)<br />
+9. [杨紫官宣MLB棒球大使](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%AE%98%E5%AE%A3MLB%E6%A3%92%E7%90%83%E5%A4%A7%E4%BD%BF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -18,8 +18,8 @@
 2. [如何看待手机内存卷到 24G+1T，真的有必要吗？](https://www.zhihu.com/question/608801781)<br />
 3. [CIA 局长英国演讲提 19 次「中国」，称「对华脱钩是愚蠢的」，透露了哪些信息？](https://www.zhihu.com/question/609934026)<br />
 4. [警方通报人大部分学生信息被非法获取的情况，「嫌疑人已被刑拘」，哪些信息值得关注？他或将面临何种处罚？](https://www.zhihu.com/question/610044604)<br />
-5. [为什么很多长辈都让高考结束就去考驾照呢？](https://www.zhihu.com/question/609953037)<br />
-6. [重提「逆周期调节」、删去「结构性工具有进有退」，央行这场例会释放重磅信号，哪些内容值得关注？](https://www.zhihu.com/question/610019780)<br />
+5. [重提「逆周期调节」、删去「结构性工具有进有退」，央行这场例会释放重磅信号，哪些内容值得关注？](https://www.zhihu.com/question/610019780)<br />
+6. [为什么很多长辈都让高考结束就去考驾照呢？](https://www.zhihu.com/question/609953037)<br />
 7. [如何评价《原神》序曲 PV——「致终幕的欢宴」？](https://www.zhihu.com/question/610051243)<br />
 8. [苹果占 618 手机销量 42%，领先第二名近 200 万部，这一调查结果说明什么？](https://www.zhihu.com/question/609145071)<br />
 9. [黄河壶口瀑布安全墙、云南罗平九龙瀑布景区沿线围挡均已拆除，专家称应警惕筑墙挡景背后思维，如何看待此事？](https://www.zhihu.com/question/609988074)<br />
