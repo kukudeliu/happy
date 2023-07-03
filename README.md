@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 09:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-03 09:18:02</h4></div>
 
 > 微博  
 
@@ -19,8 +19,8 @@
 3. [为什么感觉这几十年给孩子起的名字越来越幼稚?](https://www.zhihu.com/question/608128511)<br />
 4. [在岸、离岸人民币分别跌破 7.25 、 7.27 关口，分析师称警惕汇市「羊群效应」，下半年汇率怎么走？](https://www.zhihu.com/question/609552420)<br />
 5. [北京广告协会发文「对歌手蔡某某做好风险把控」，如何看待此事？后续进展如何？](https://www.zhihu.com/question/609892459)<br />
-6. [《逆水寒》手游公测开启，你的游戏体验如何？](https://www.zhihu.com/question/609557879)<br />
-7. [拥有一个顶级域名意味着什么？](https://www.zhihu.com/question/20091009)<br />
+6. [拥有一个顶级域名意味着什么？](https://www.zhihu.com/question/20091009)<br />
+7. [《逆水寒》手游公测开启，你的游戏体验如何？](https://www.zhihu.com/question/609557879)<br />
 8. [儿子被科索沃当局扣留，武契奇谴责科索沃领导人「没我儿子勇敢」，他儿子会面临什么？科索沃局势将如何发展？](https://www.zhihu.com/question/609485354)<br />
 9. [恶魔给你 1 个亿，但接下来你的所有支出都变为 5 倍 (见详细描述)，你会答应恶魔的契约吗？](https://www.zhihu.com/question/608441800)<br />
 
