@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 20:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 20:38:01</h4></div>
 
 > 微博  
 
@@ -20,8 +20,8 @@
 4. [为什么中国不自己开发一个汉字的电脑，底层用汉字编写，有一套汉字的汇编语言、高级语言？](https://www.zhihu.com/question/520064736)<br />
 5. [朝鲜女孩拍视频介绍平壤，韩国以「宣传朝鲜体制」为由屏蔽，谷歌封号，透露了哪些信息？](https://www.zhihu.com/question/610162816)<br />
 6. [世卫组织宣布甜味剂阿斯巴甜「可能致癌」，「无糖」饮料还能喝吗？](https://www.zhihu.com/theater/17281)<br />
-7. [男子故意 1 次取 1 元逼哭柜员称「非把你开除！」，如何看待该男子的做法？](https://www.zhihu.com/question/610236031)<br />
-8. [为什么公司领导喜欢效率低、爱加班的员工，却不喜欢效率高、准时下班的员工？](https://www.zhihu.com/question/600312394)<br />
+7. [为什么公司领导喜欢效率低、爱加班的员工，却不喜欢效率高、准时下班的员工？](https://www.zhihu.com/question/600312394)<br />
+8. [男子故意 1 次取 1 元逼哭柜员称「非把你开除！」，如何看待该男子的做法？](https://www.zhihu.com/question/610236031)<br />
 9. [湖南一火车站不让进候车厅，乘客顶烈日排队，铁路官方回应「非营业时段不开放」，如何看待此事？](https://www.zhihu.com/question/610039783)<br />
 
 > 百度  
@@ -32,8 +32,8 @@
 4. [乡村振兴靠队伍](https://www.baidu.com/s?wd=%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4%E9%9D%A0%E9%98%9F%E4%BC%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男生被要28万8彩礼写信给县长求整治](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E8%A2%AB%E8%A6%8128%E4%B8%878%E5%BD%A9%E7%A4%BC%E5%86%99%E4%BF%A1%E7%BB%99%E5%8E%BF%E9%95%BF%E6%B1%82%E6%95%B4%E6%B2%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [马云现身巴基斯坦](https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%E7%8E%B0%E8%BA%AB%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [医院回应违规购买二手体外循环机](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E8%BF%9D%E8%A7%84%E8%B4%AD%E4%B9%B0%E4%BA%8C%E6%89%8B%E4%BD%93%E5%A4%96%E5%BE%AA%E7%8E%AF%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [泰坦号乘客最后时刻:听音乐沉入海底](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9D%A6%E5%8F%B7%E4%B9%98%E5%AE%A2%E6%9C%80%E5%90%8E%E6%97%B6%E5%88%BB%3A%E5%90%AC%E9%9F%B3%E4%B9%90%E6%B2%89%E5%85%A5%E6%B5%B7%E5%BA%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [泰坦号乘客最后时刻:听音乐沉入海底](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9D%A6%E5%8F%B7%E4%B9%98%E5%AE%A2%E6%9C%80%E5%90%8E%E6%97%B6%E5%88%BB%3A%E5%90%AC%E9%9F%B3%E4%B9%90%E6%B2%89%E5%85%A5%E6%B5%B7%E5%BA%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [艺人“塌房”是否会面临天价违约金?](https://www.baidu.com/s?wd=%E8%89%BA%E4%BA%BA%E2%80%9C%E5%A1%8C%E6%88%BF%E2%80%9D%E6%98%AF%E5%90%A6%E4%BC%9A%E9%9D%A2%E4%B8%B4%E5%A4%A9%E4%BB%B7%E8%BF%9D%E7%BA%A6%E9%87%91%3F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [痞幼别墅被男子偷住半个月喝6瓶茅台](https://www.baidu.com/s?wd=%E7%97%9E%E5%B9%BC%E5%88%AB%E5%A2%85%E8%A2%AB%E7%94%B7%E5%AD%90%E5%81%B7%E4%BD%8F%E5%8D%8A%E4%B8%AA%E6%9C%88%E5%96%9D6%E7%93%B6%E8%8C%85%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -44,6 +44,6 @@
 4. [乡村振兴靠队伍](https://www.baidu.com/s?wd=%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4%E9%9D%A0%E9%98%9F%E4%BC%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男生被要28万8彩礼写信给县长求整治](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E8%A2%AB%E8%A6%8128%E4%B8%878%E5%BD%A9%E7%A4%BC%E5%86%99%E4%BF%A1%E7%BB%99%E5%8E%BF%E9%95%BF%E6%B1%82%E6%95%B4%E6%B2%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [马云现身巴基斯坦](https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%E7%8E%B0%E8%BA%AB%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [医院回应违规购买二手体外循环机](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E8%BF%9D%E8%A7%84%E8%B4%AD%E4%B9%B0%E4%BA%8C%E6%89%8B%E4%BD%93%E5%A4%96%E5%BE%AA%E7%8E%AF%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [泰坦号乘客最后时刻:听音乐沉入海底](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9D%A6%E5%8F%B7%E4%B9%98%E5%AE%A2%E6%9C%80%E5%90%8E%E6%97%B6%E5%88%BB%3A%E5%90%AC%E9%9F%B3%E4%B9%90%E6%B2%89%E5%85%A5%E6%B5%B7%E5%BA%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [泰坦号乘客最后时刻:听音乐沉入海底](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9D%A6%E5%8F%B7%E4%B9%98%E5%AE%A2%E6%9C%80%E5%90%8E%E6%97%B6%E5%88%BB%3A%E5%90%AC%E9%9F%B3%E4%B9%90%E6%B2%89%E5%85%A5%E6%B5%B7%E5%BA%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [艺人“塌房”是否会面临天价违约金?](https://www.baidu.com/s?wd=%E8%89%BA%E4%BA%BA%E2%80%9C%E5%A1%8C%E6%88%BF%E2%80%9D%E6%98%AF%E5%90%A6%E4%BC%9A%E9%9D%A2%E4%B8%B4%E5%A4%A9%E4%BB%B7%E8%BF%9D%E7%BA%A6%E9%87%91%3F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [痞幼别墅被男子偷住半个月喝6瓶茅台](https://www.baidu.com/s?wd=%E7%97%9E%E5%B9%BC%E5%88%AB%E5%A2%85%E8%A2%AB%E7%94%B7%E5%AD%90%E5%81%B7%E4%BD%8F%E5%8D%8A%E4%B8%AA%E6%9C%88%E5%96%9D6%E7%93%B6%E8%8C%85%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
