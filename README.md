@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 01:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 01:25:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [秦牛正威回应为了男友改名](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E7%89%9B%E6%AD%A3%E5%A8%81%E5%9B%9E%E5%BA%94%E4%B8%BA%E4%BA%86%E7%94%B7%E5%8F%8B%E6%94%B9%E5%90%8D%23&t=31&band_rank=6&Refer=top)<br />
 7. [女子称入职时被要求上交毕业证原件](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%B0%E5%85%A5%E8%81%8C%E6%97%B6%E8%A2%AB%E8%A6%81%E6%B1%82%E4%B8%8A%E4%BA%A4%E6%AF%95%E4%B8%9A%E8%AF%81%E5%8E%9F%E4%BB%B6%23&t=31&band_rank=7&Refer=top)<br />
 8. [EDG 啃老](https://s.weibo.com/weibo?q=EDG%20%E5%95%83%E8%80%81&t=31&band_rank=8&Refer=top)<br />
-9. [小姨为了抱认生的孩子用奇招](https://s.weibo.com/weibo?q=%E5%B0%8F%E5%A7%A8%E4%B8%BA%E4%BA%86%E6%8A%B1%E8%AE%A4%E7%94%9F%E7%9A%84%E5%AD%A9%E5%AD%90%E7%94%A8%E5%A5%87%E6%8B%9B&t=31&band_rank=9&Refer=top)<br />
+9. [周也 孟子义](https://s.weibo.com/weibo?q=%E5%91%A8%E4%B9%9F%20%E5%AD%9F%E5%AD%90%E4%B9%89&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
