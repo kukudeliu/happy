@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 15:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 16:00:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [西汉青铜灯人性化设计太妙了](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E6%B1%89%E9%9D%92%E9%93%9C%E7%81%AF%E4%BA%BA%E6%80%A7%E5%8C%96%E8%AE%BE%E8%AE%A1%E5%A4%AA%E5%A6%99%E4%BA%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [秦牛正威改名秦语鹿](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E7%89%9B%E6%AD%A3%E5%A8%81%E6%94%B9%E5%90%8D%E7%A7%A6%E8%AF%AD%E9%B9%BF%23&t=31&band_rank=4&Refer=top)<br />
 5. [金星 不需要靠夸张服饰来赚取眼球](https://s.weibo.com/weibo?q=%E9%87%91%E6%98%9F%20%E4%B8%8D%E9%9C%80%E8%A6%81%E9%9D%A0%E5%A4%B8%E5%BC%A0%E6%9C%8D%E9%A5%B0%E6%9D%A5%E8%B5%9A%E5%8F%96%E7%9C%BC%E7%90%83&t=31&band_rank=5&Refer=top)<br />
-6. [任敏认领猪猪敏](https://s.weibo.com/weibo?q=%23%E4%BB%BB%E6%95%8F%E8%AE%A4%E9%A2%86%E7%8C%AA%E7%8C%AA%E6%95%8F%23&t=31&band_rank=6&Refer=top)<br />
+6. [苏醒 尊重各自工作和身份](https://s.weibo.com/weibo?q=%E8%8B%8F%E9%86%92%20%E5%B0%8A%E9%87%8D%E5%90%84%E8%87%AA%E5%B7%A5%E4%BD%9C%E5%92%8C%E8%BA%AB%E4%BB%BD&t=31&band_rank=6&Refer=top)<br />
 7. [金星吐槽女明星走红毯捂胸口](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%98%9F%E5%90%90%E6%A7%BD%E5%A5%B3%E6%98%8E%E6%98%9F%E8%B5%B0%E7%BA%A2%E6%AF%AF%E6%8D%82%E8%83%B8%E5%8F%A3%23&t=31&band_rank=7&Refer=top)<br />
-8. [苏醒 尊重各自工作和身份](https://s.weibo.com/weibo?q=%E8%8B%8F%E9%86%92%20%E5%B0%8A%E9%87%8D%E5%90%84%E8%87%AA%E5%B7%A5%E4%BD%9C%E5%92%8C%E8%BA%AB%E4%BB%BD&t=31&band_rank=8&Refer=top)<br />
+8. [任敏认领猪猪敏](https://s.weibo.com/weibo?q=%23%E4%BB%BB%E6%95%8F%E8%AE%A4%E9%A2%86%E7%8C%AA%E7%8C%AA%E6%95%8F%23&t=31&band_rank=8&Refer=top)<br />
 9. [沈阳发现一例猴痘病例](https://s.weibo.com/weibo?q=%23%E6%B2%88%E9%98%B3%E5%8F%91%E7%8E%B0%E4%B8%80%E4%BE%8B%E7%8C%B4%E7%97%98%E7%97%85%E4%BE%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
