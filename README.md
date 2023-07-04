@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 02:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 02:17:01</h4></div>
 
 > 微博  
 
@@ -33,7 +33,7 @@
 5. [牵手门涉事公司近期公布核查处理结果](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E6%B6%89%E4%BA%8B%E5%85%AC%E5%8F%B8%E8%BF%91%E6%9C%9F%E5%85%AC%E5%B8%83%E6%A0%B8%E6%9F%A5%E5%A4%84%E7%90%86%E7%BB%93%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [研究生应聘垃圾专管员 街道回应](https://www.baidu.com/s?wd=%E7%A0%94%E7%A9%B6%E7%94%9F%E5%BA%94%E8%81%98%E5%9E%83%E5%9C%BE%E4%B8%93%E7%AE%A1%E5%91%98+%E8%A1%97%E9%81%93%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [王毅：头发染得再黄也变不成西方人](https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%EF%BC%9A%E5%A4%B4%E5%8F%91%E6%9F%93%E5%BE%97%E5%86%8D%E9%BB%84%E4%B9%9F%E5%8F%98%E4%B8%8D%E6%88%90%E8%A5%BF%E6%96%B9%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [马云现身巴基斯坦](https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%E7%8E%B0%E8%BA%AB%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [轻生男子递烟被民警飞身拽回](https://www.baidu.com/s?wd=%E8%BD%BB%E7%94%9F%E7%94%B7%E5%AD%90%E9%80%92%E7%83%9F%E8%A2%AB%E6%B0%91%E8%AD%A6%E9%A3%9E%E8%BA%AB%E6%8B%BD%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [日本札幌一酒店惊现无头男尸](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%9C%AD%E5%B9%8C%E4%B8%80%E9%85%92%E5%BA%97%E6%83%8A%E7%8E%B0%E6%97%A0%E5%A4%B4%E7%94%B7%E5%B0%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [牵手门涉事公司近期公布核查处理结果](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E6%B6%89%E4%BA%8B%E5%85%AC%E5%8F%B8%E8%BF%91%E6%9C%9F%E5%85%AC%E5%B8%83%E6%A0%B8%E6%9F%A5%E5%A4%84%E7%90%86%E7%BB%93%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [研究生应聘垃圾专管员 街道回应](https://www.baidu.com/s?wd=%E7%A0%94%E7%A9%B6%E7%94%9F%E5%BA%94%E8%81%98%E5%9E%83%E5%9C%BE%E4%B8%93%E7%AE%A1%E5%91%98+%E8%A1%97%E9%81%93%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [王毅：头发染得再黄也变不成西方人](https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%EF%BC%9A%E5%A4%B4%E5%8F%91%E6%9F%93%E5%BE%97%E5%86%8D%E9%BB%84%E4%B9%9F%E5%8F%98%E4%B8%8D%E6%88%90%E8%A5%BF%E6%96%B9%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [马云现身巴基斯坦](https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%E7%8E%B0%E8%BA%AB%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [轻生男子递烟被民警飞身拽回](https://www.baidu.com/s?wd=%E8%BD%BB%E7%94%9F%E7%94%B7%E5%AD%90%E9%80%92%E7%83%9F%E8%A2%AB%E6%B0%91%E8%AD%A6%E9%A3%9E%E8%BA%AB%E6%8B%BD%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [日本札幌一酒店惊现无头男尸](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%9C%AD%E5%B9%8C%E4%B8%80%E9%85%92%E5%BA%97%E6%83%8A%E7%8E%B0%E6%97%A0%E5%A4%B4%E7%94%B7%E5%B0%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
