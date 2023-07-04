@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 20:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 20:24:02</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [为什么公司领导喜欢效率低、爱加班的员工，却不喜欢效率高、准时下班的员工？](https://www.zhihu.com/question/600312394)<br />
 7. [男子故意 1 次取 1 元逼哭柜员称「非把你开除！」，如何看待该男子的做法？](https://www.zhihu.com/question/610236031)<br />
 8. [法国骚乱蔓延至瑞士，一百多名年轻人聚集在洛桑，7 人被捕，如何看待此事？骚乱参与者为何趋向低龄化？](https://www.zhihu.com/question/610081393)<br />
-9. [泰山那么矮，为啥是五岳之首？](https://www.zhihu.com/question/36468499)<br />
+9. [湖南一火车站不让进候车厅，乘客顶烈日排队，铁路官方回应「非营业时段不开放」，如何看待此事？](https://www.zhihu.com/question/610039783)<br />
 
 > 百度  
 
@@ -31,10 +31,10 @@
 3. [IAEA：日本核污染水排海符合标准](https://www.baidu.com/s?wd=IAEA%EF%BC%9A%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%B5%B7%E7%AC%A6%E5%90%88%E6%A0%87%E5%87%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [乡村振兴靠队伍](https://www.baidu.com/s?wd=%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4%E9%9D%A0%E9%98%9F%E4%BC%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男生被要28万8彩礼写信给县长求整治](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E8%A2%AB%E8%A6%8128%E4%B8%878%E5%BD%A9%E7%A4%BC%E5%86%99%E4%BF%A1%E7%BB%99%E5%8E%BF%E9%95%BF%E6%B1%82%E6%95%B4%E6%B2%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [牵手门涉事领导仍任高管？公司回应](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E6%B6%89%E4%BA%8B%E9%A2%86%E5%AF%BC%E4%BB%8D%E4%BB%BB%E9%AB%98%E7%AE%A1%EF%BC%9F%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [马云现身巴基斯坦](https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%E7%8E%B0%E8%BA%AB%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [大麦回应被罚](https://www.baidu.com/s?wd=%E5%A4%A7%E9%BA%A6%E5%9B%9E%E5%BA%94%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [呼和浩特山洪失联3人已遇难](https://www.baidu.com/s?wd=%E5%91%BC%E5%92%8C%E6%B5%A9%E7%89%B9%E5%B1%B1%E6%B4%AA%E5%A4%B1%E8%81%943%E4%BA%BA%E5%B7%B2%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [轻生男子递烟被民警飞身拽回](https://www.baidu.com/s?wd=%E8%BD%BB%E7%94%9F%E7%94%B7%E5%AD%90%E9%80%92%E7%83%9F%E8%A2%AB%E6%B0%91%E8%AD%A6%E9%A3%9E%E8%BA%AB%E6%8B%BD%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [牵手门涉事领导仍任高管？公司回应](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E6%B6%89%E4%BA%8B%E9%A2%86%E5%AF%BC%E4%BB%8D%E4%BB%BB%E9%AB%98%E7%AE%A1%EF%BC%9F%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [马云现身巴基斯坦](https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%E7%8E%B0%E8%BA%AB%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [泰坦号乘客最后时刻:听音乐沉入海底](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9D%A6%E5%8F%B7%E4%B9%98%E5%AE%A2%E6%9C%80%E5%90%8E%E6%97%B6%E5%88%BB%3A%E5%90%AC%E9%9F%B3%E4%B9%90%E6%B2%89%E5%85%A5%E6%B5%B7%E5%BA%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [IAEA：日本核污染水排海符合标准](https://www.baidu.com/s?wd=IAEA%EF%BC%9A%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%B5%B7%E7%AC%A6%E5%90%88%E6%A0%87%E5%87%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [乡村振兴靠队伍](https://www.baidu.com/s?wd=%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4%E9%9D%A0%E9%98%9F%E4%BC%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男生被要28万8彩礼写信给县长求整治](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E8%A2%AB%E8%A6%8128%E4%B8%878%E5%BD%A9%E7%A4%BC%E5%86%99%E4%BF%A1%E7%BB%99%E5%8E%BF%E9%95%BF%E6%B1%82%E6%95%B4%E6%B2%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [牵手门涉事领导仍任高管？公司回应](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E6%B6%89%E4%BA%8B%E9%A2%86%E5%AF%BC%E4%BB%8D%E4%BB%BB%E9%AB%98%E7%AE%A1%EF%BC%9F%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [马云现身巴基斯坦](https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%E7%8E%B0%E8%BA%AB%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [大麦回应被罚](https://www.baidu.com/s?wd=%E5%A4%A7%E9%BA%A6%E5%9B%9E%E5%BA%94%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [呼和浩特山洪失联3人已遇难](https://www.baidu.com/s?wd=%E5%91%BC%E5%92%8C%E6%B5%A9%E7%89%B9%E5%B1%B1%E6%B4%AA%E5%A4%B1%E8%81%943%E4%BA%BA%E5%B7%B2%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [轻生男子递烟被民警飞身拽回](https://www.baidu.com/s?wd=%E8%BD%BB%E7%94%9F%E7%94%B7%E5%AD%90%E9%80%92%E7%83%9F%E8%A2%AB%E6%B0%91%E8%AD%A6%E9%A3%9E%E8%BA%AB%E6%8B%BD%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [牵手门涉事领导仍任高管？公司回应](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E6%B6%89%E4%BA%8B%E9%A2%86%E5%AF%BC%E4%BB%8D%E4%BB%BB%E9%AB%98%E7%AE%A1%EF%BC%9F%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [马云现身巴基斯坦](https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%E7%8E%B0%E8%BA%AB%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [泰坦号乘客最后时刻:听音乐沉入海底](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9D%A6%E5%8F%B7%E4%B9%98%E5%AE%A2%E6%9C%80%E5%90%8E%E6%97%B6%E5%88%BB%3A%E5%90%AC%E9%9F%B3%E4%B9%90%E6%B2%89%E5%85%A5%E6%B5%B7%E5%BA%95&sa=fyb_news&rsv_dl=fyb_news)<br />
