@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 07:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 07:39:01</h4></div>
 
 > 微博  
 
@@ -21,7 +21,7 @@
 5. [如何评价肖战在电视剧《玉骨遥》中的演技？](https://www.zhihu.com/question/609940615)<br />
 6. []()<br />
 7. [高考后有必要跟风染头发吗？](https://www.zhihu.com/question/609581246)<br />
-8. []()<br />
+8. [苏武在贝加尔湖牧羊，条件恶劣，挖食鼠粮草根为生，他为什么不吃羊？](https://www.zhihu.com/question/25483987)<br />
 9. []()<br />
 
 > 百度  
