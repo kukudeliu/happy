@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 19:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 19:39:02</h4></div>
 
 > 微博  
 
@@ -21,29 +21,29 @@
 5. [朝鲜女孩拍视频介绍平壤，韩国以「宣传朝鲜体制」为由屏蔽，谷歌封号，透露了哪些信息？](https://www.zhihu.com/question/610162816)<br />
 6. [为什么中国不自己开发一个汉字的电脑，底层用汉字编写，有一套汉字的汇编语言、高级语言？](https://www.zhihu.com/question/520064736)<br />
 7. [泰山那么矮，为啥是五岳之首？](https://www.zhihu.com/question/36468499)<br />
-8. [男子故意 1 次取 1 元逼哭柜员称「非把你开除！」，如何看待该男子的做法？](https://www.zhihu.com/question/610236031)<br />
-9. [为什么公司领导喜欢效率低、爱加班的员工，却不喜欢效率高、准时下班的员工？](https://www.zhihu.com/question/600312394)<br />
+8. [为什么公司领导喜欢效率低、爱加班的员工，却不喜欢效率高、准时下班的员工？](https://www.zhihu.com/question/600312394)<br />
+9. [男子故意 1 次取 1 元逼哭柜员称「非把你开除！」，如何看待该男子的做法？](https://www.zhihu.com/question/610236031)<br />
 
 > 百度  
 
-1. [携手促进人类文明进步](https://www.baidu.com/s?wd=%E6%90%BA%E6%89%8B%E4%BF%83%E8%BF%9B%E4%BA%BA%E7%B1%BB%E6%96%87%E6%98%8E%E8%BF%9B%E6%AD%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [凝聚团结共识 促进人类进步](https://www.baidu.com/s?wd=%E5%87%9D%E8%81%9A%E5%9B%A2%E7%BB%93%E5%85%B1%E8%AF%86+%E4%BF%83%E8%BF%9B%E4%BA%BA%E7%B1%BB%E8%BF%9B%E6%AD%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [广东人正式被确诊为依萍](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%BA%BA%E6%AD%A3%E5%BC%8F%E8%A2%AB%E7%A1%AE%E8%AF%8A%E4%B8%BA%E4%BE%9D%E8%90%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [IAEA：日本核污染水排海符合标准](https://www.baidu.com/s?wd=IAEA%EF%BC%9A%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%B5%B7%E7%AC%A6%E5%90%88%E6%A0%87%E5%87%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [激活乡土文化生命力](https://www.baidu.com/s?wd=%E6%BF%80%E6%B4%BB%E4%B9%A1%E5%9C%9F%E6%96%87%E5%8C%96%E7%94%9F%E5%91%BD%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [乡村振兴靠队伍](https://www.baidu.com/s?wd=%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4%E9%9D%A0%E9%98%9F%E4%BC%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男生被要28万8彩礼写信给县长求整治](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E8%A2%AB%E8%A6%8128%E4%B8%878%E5%BD%A9%E7%A4%BC%E5%86%99%E4%BF%A1%E7%BB%99%E5%8E%BF%E9%95%BF%E6%B1%82%E6%95%B4%E6%B2%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [王毅：头发染得再黄也变不成西方人](https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%EF%BC%9A%E5%A4%B4%E5%8F%91%E6%9F%93%E5%BE%97%E5%86%8D%E9%BB%84%E4%B9%9F%E5%8F%98%E4%B8%8D%E6%88%90%E8%A5%BF%E6%96%B9%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [牵手门涉事领导仍任高管？公司回应](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E6%B6%89%E4%BA%8B%E9%A2%86%E5%AF%BC%E4%BB%8D%E4%BB%BB%E9%AB%98%E7%AE%A1%EF%BC%9F%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [德国健身网红拉丝哥离世](https://www.baidu.com/s?wd=%E5%BE%B7%E5%9B%BD%E5%81%A5%E8%BA%AB%E7%BD%91%E7%BA%A2%E6%8B%89%E4%B8%9D%E5%93%A5%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [13岁男孩被送特训学校戒网瘾遭猥亵](https://www.baidu.com/s?wd=13%E5%B2%81%E7%94%B7%E5%AD%A9%E8%A2%AB%E9%80%81%E7%89%B9%E8%AE%AD%E5%AD%A6%E6%A0%A1%E6%88%92%E7%BD%91%E7%98%BE%E9%81%AD%E7%8C%A5%E4%BA%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [官方回应女童被指遭父亲遗弃街头](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%AB%A5%E8%A2%AB%E6%8C%87%E9%81%AD%E7%88%B6%E4%BA%B2%E9%81%97%E5%BC%83%E8%A1%97%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [牵手门涉事领导仍任高管？公司回应](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E6%B6%89%E4%BA%8B%E9%A2%86%E5%AF%BC%E4%BB%8D%E4%BB%BB%E9%AB%98%E7%AE%A1%EF%BC%9F%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [台湾网友跟着解放军用别瞎吵吵造句](https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E7%BD%91%E5%8F%8B%E8%B7%9F%E7%9D%80%E8%A7%A3%E6%94%BE%E5%86%9B%E7%94%A8%E5%88%AB%E7%9E%8E%E5%90%B5%E5%90%B5%E9%80%A0%E5%8F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
-1. [携手促进人类文明进步](https://www.baidu.com/s?wd=%E6%90%BA%E6%89%8B%E4%BF%83%E8%BF%9B%E4%BA%BA%E7%B1%BB%E6%96%87%E6%98%8E%E8%BF%9B%E6%AD%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [凝聚团结共识 促进人类进步](https://www.baidu.com/s?wd=%E5%87%9D%E8%81%9A%E5%9B%A2%E7%BB%93%E5%85%B1%E8%AF%86+%E4%BF%83%E8%BF%9B%E4%BA%BA%E7%B1%BB%E8%BF%9B%E6%AD%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [广东人正式被确诊为依萍](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%BA%BA%E6%AD%A3%E5%BC%8F%E8%A2%AB%E7%A1%AE%E8%AF%8A%E4%B8%BA%E4%BE%9D%E8%90%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [IAEA：日本核污染水排海符合标准](https://www.baidu.com/s?wd=IAEA%EF%BC%9A%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%B5%B7%E7%AC%A6%E5%90%88%E6%A0%87%E5%87%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [激活乡土文化生命力](https://www.baidu.com/s?wd=%E6%BF%80%E6%B4%BB%E4%B9%A1%E5%9C%9F%E6%96%87%E5%8C%96%E7%94%9F%E5%91%BD%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [乡村振兴靠队伍](https://www.baidu.com/s?wd=%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4%E9%9D%A0%E9%98%9F%E4%BC%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男生被要28万8彩礼写信给县长求整治](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E8%A2%AB%E8%A6%8128%E4%B8%878%E5%BD%A9%E7%A4%BC%E5%86%99%E4%BF%A1%E7%BB%99%E5%8E%BF%E9%95%BF%E6%B1%82%E6%95%B4%E6%B2%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [王毅：头发染得再黄也变不成西方人](https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%EF%BC%9A%E5%A4%B4%E5%8F%91%E6%9F%93%E5%BE%97%E5%86%8D%E9%BB%84%E4%B9%9F%E5%8F%98%E4%B8%8D%E6%88%90%E8%A5%BF%E6%96%B9%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [牵手门涉事领导仍任高管？公司回应](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E6%B6%89%E4%BA%8B%E9%A2%86%E5%AF%BC%E4%BB%8D%E4%BB%BB%E9%AB%98%E7%AE%A1%EF%BC%9F%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [德国健身网红拉丝哥离世](https://www.baidu.com/s?wd=%E5%BE%B7%E5%9B%BD%E5%81%A5%E8%BA%AB%E7%BD%91%E7%BA%A2%E6%8B%89%E4%B8%9D%E5%93%A5%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [13岁男孩被送特训学校戒网瘾遭猥亵](https://www.baidu.com/s?wd=13%E5%B2%81%E7%94%B7%E5%AD%A9%E8%A2%AB%E9%80%81%E7%89%B9%E8%AE%AD%E5%AD%A6%E6%A0%A1%E6%88%92%E7%BD%91%E7%98%BE%E9%81%AD%E7%8C%A5%E4%BA%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [官方回应女童被指遭父亲遗弃街头](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%AB%A5%E8%A2%AB%E6%8C%87%E9%81%AD%E7%88%B6%E4%BA%B2%E9%81%97%E5%BC%83%E8%A1%97%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [牵手门涉事领导仍任高管？公司回应](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E6%B6%89%E4%BA%8B%E9%A2%86%E5%AF%BC%E4%BB%8D%E4%BB%BB%E9%AB%98%E7%AE%A1%EF%BC%9F%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [台湾网友跟着解放军用别瞎吵吵造句](https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E7%BD%91%E5%8F%8B%E8%B7%9F%E7%9D%80%E8%A7%A3%E6%94%BE%E5%86%9B%E7%94%A8%E5%88%AB%E7%9E%8E%E5%90%B5%E5%90%B5%E9%80%A0%E5%8F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
