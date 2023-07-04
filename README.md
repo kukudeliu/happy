@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 21:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 21:32:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [朱某龙骑车去痞幼家偷茅台](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E6%9F%90%E9%BE%99%E9%AA%91%E8%BD%A6%E5%8E%BB%E7%97%9E%E5%B9%BC%E5%AE%B6%E5%81%B7%E8%8C%85%E5%8F%B0%23&t=31&band_rank=6&Refer=top)<br />
 7. [我的人间烟火官宣定档](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E4%BA%BA%E9%97%B4%E7%83%9F%E7%81%AB%E5%AE%98%E5%AE%A3%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=7&Refer=top)<br />
 8. [莲花楼](https://s.weibo.com/weibo?q=%E8%8E%B2%E8%8A%B1%E6%A5%BC&t=31&band_rank=8&Refer=top)<br />
-9. [男生被要28万8彩礼写信给县长求整治](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E8%A2%AB%E8%A6%8128%E4%B8%878%E5%BD%A9%E7%A4%BC%E5%86%99%E4%BF%A1%E7%BB%99%E5%8E%BF%E9%95%BF%E6%B1%82%E6%95%B4%E6%B2%BB%23&t=31&band_rank=9&Refer=top)<br />
+9. [否定型人格](https://s.weibo.com/weibo?q=%E5%90%A6%E5%AE%9A%E5%9E%8B%E4%BA%BA%E6%A0%BC&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
