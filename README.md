@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 10:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 10:56:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [孙艺珍产后首个公开行程](https://s.weibo.com/weibo?q=%23%E5%AD%99%E8%89%BA%E7%8F%8D%E4%BA%A7%E5%90%8E%E9%A6%96%E4%B8%AA%E5%85%AC%E5%BC%80%E8%A1%8C%E7%A8%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [王楚钦世界排名第一](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E4%B8%96%E7%95%8C%E6%8E%92%E5%90%8D%E7%AC%AC%E4%B8%80%23&t=31&band_rank=7&Refer=top)<br />
 8. [黄子韬和马伯骞情人节被困高速](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%92%8C%E9%A9%AC%E4%BC%AF%E9%AA%9E%E6%83%85%E4%BA%BA%E8%8A%82%E8%A2%AB%E5%9B%B0%E9%AB%98%E9%80%9F%23&t=31&band_rank=8&Refer=top)<br />
-9. [眼药水不能滴在眼睛上](https://s.weibo.com/weibo?q=%23%E7%9C%BC%E8%8D%AF%E6%B0%B4%E4%B8%8D%E8%83%BD%E6%BB%B4%E5%9C%A8%E7%9C%BC%E7%9D%9B%E4%B8%8A%23&t=31&band_rank=9&Refer=top)<br />
+9. [倪妮哭戏撞到摄像机](https://s.weibo.com/weibo?q=%23%E5%80%AA%E5%A6%AE%E5%93%AD%E6%88%8F%E6%92%9E%E5%88%B0%E6%91%84%E5%83%8F%E6%9C%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
