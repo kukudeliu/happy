@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 23:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 23:43:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [东京一店长闻到煤气味后点了根烟](https://www.baidu.com/s?wd=%E4%B8%9C%E4%BA%AC%E4%B8%80%E5%BA%97%E9%95%BF%E9%97%BB%E5%88%B0%E7%85%A4%E6%B0%94%E5%91%B3%E5%90%8E%E7%82%B9%E4%BA%86%E6%A0%B9%E7%83%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [日本札幌一酒店惊现无头男尸](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%9C%AD%E5%B9%8C%E4%B8%80%E9%85%92%E5%BA%97%E6%83%8A%E7%8E%B0%E6%97%A0%E5%A4%B4%E7%94%B7%E5%B0%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [王毅：头发染得再黄也变不成西方人](https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%EF%BC%9A%E5%A4%B4%E5%8F%91%E6%9F%93%E5%BE%97%E5%86%8D%E9%BB%84%E4%B9%9F%E5%8F%98%E4%B8%8D%E6%88%90%E8%A5%BF%E6%96%B9%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [雨天女子欲跳楼嫌雨大向警察借雨衣](https://www.baidu.com/s?wd=%E9%9B%A8%E5%A4%A9%E5%A5%B3%E5%AD%90%E6%AC%B2%E8%B7%B3%E6%A5%BC%E5%AB%8C%E9%9B%A8%E5%A4%A7%E5%90%91%E8%AD%A6%E5%AF%9F%E5%80%9F%E9%9B%A8%E8%A1%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [广东人正式被确诊为依萍](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%BA%BA%E6%AD%A3%E5%BC%8F%E8%A2%AB%E7%A1%AE%E8%AF%8A%E4%B8%BA%E4%BE%9D%E8%90%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [东京一店长闻到煤气味后点了根烟](https://www.baidu.com/s?wd=%E4%B8%9C%E4%BA%AC%E4%B8%80%E5%BA%97%E9%95%BF%E9%97%BB%E5%88%B0%E7%85%A4%E6%B0%94%E5%91%B3%E5%90%8E%E7%82%B9%E4%BA%86%E6%A0%B9%E7%83%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [日本札幌一酒店惊现无头男尸](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%9C%AD%E5%B9%8C%E4%B8%80%E9%85%92%E5%BA%97%E6%83%8A%E7%8E%B0%E6%97%A0%E5%A4%B4%E7%94%B7%E5%B0%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [王毅：头发染得再黄也变不成西方人](https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%EF%BC%9A%E5%A4%B4%E5%8F%91%E6%9F%93%E5%BE%97%E5%86%8D%E9%BB%84%E4%B9%9F%E5%8F%98%E4%B8%8D%E6%88%90%E8%A5%BF%E6%96%B9%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [雨天女子欲跳楼嫌雨大向警察借雨衣](https://www.baidu.com/s?wd=%E9%9B%A8%E5%A4%A9%E5%A5%B3%E5%AD%90%E6%AC%B2%E8%B7%B3%E6%A5%BC%E5%AB%8C%E9%9B%A8%E5%A4%A7%E5%90%91%E8%AD%A6%E5%AF%9F%E5%80%9F%E9%9B%A8%E8%A1%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [广东人正式被确诊为依萍](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%BA%BA%E6%AD%A3%E5%BC%8F%E8%A2%AB%E7%A1%AE%E8%AF%8A%E4%B8%BA%E4%BE%9D%E8%90%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
