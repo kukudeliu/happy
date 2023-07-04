@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 22:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 22:09:02</h4></div>
 
 > 微博  
 
@@ -18,11 +18,11 @@
 2. [两部门发布公告表示为维护国家安全和利益，决定对镓、锗相关物项实施出口管制，如何看待这一举措？](https://www.zhihu.com/question/610105939)<br />
 3. [男子故意 1 次取 1 元逼哭柜员称「非把你开除！」，如何看待该男子的做法？](https://www.zhihu.com/question/610236031)<br />
 4. [为什么中国不自己开发一个汉字的电脑，底层用汉字编写，有一套汉字的汇编语言、高级语言？](https://www.zhihu.com/question/520064736)<br />
-5. [代糖阿斯巴甜陷入「可能致癌」风波，无糖产品还能放心选购吗？是否也存在「致癌」的风险？](https://www.zhihu.com/theater/17281)<br />
-6. [湖南一火车站不让进候车厅，乘客顶烈日排队，铁路官方回应「非营业时段不开放」，如何看待此事？](https://www.zhihu.com/question/610039783)<br />
-7. [如何看待 26 城发布地铁年报，但只有 4 城是赚到钱的？地铁是个「亏钱」的生意吗？](https://www.zhihu.com/question/610117816)<br />
-8. [恒大董事长许家印发声：明确广州目标「今年保级、明年冲超！」，引援须恒大足校出品，哪些信息值得关注？](https://www.zhihu.com/question/610278108)<br />
-9. [男朋友很没有边界感没有隐私意识怎么办？](https://www.zhihu.com/question/589062450)<br />
+5. [湖南一火车站不让进候车厅，乘客顶烈日排队，铁路官方回应「非营业时段不开放」，如何看待此事？](https://www.zhihu.com/question/610039783)<br />
+6. [如何看待 26 城发布地铁年报，但只有 4 城是赚到钱的？地铁是个「亏钱」的生意吗？](https://www.zhihu.com/question/610117816)<br />
+7. [恒大董事长许家印发声：明确广州目标「今年保级、明年冲超！」，引援须恒大足校出品，哪些信息值得关注？](https://www.zhihu.com/question/610278108)<br />
+8. [男朋友很没有边界感没有隐私意识怎么办？](https://www.zhihu.com/question/589062450)<br />
+9. [医院实习生不小心把锐器等垃圾丢进医疗垃圾犯法吗?](https://www.zhihu.com/question/609510495)<br />
 
 > 百度  
 
@@ -33,8 +33,8 @@
 5. [牵手门涉事公司近期公布核查处理结果](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E6%B6%89%E4%BA%8B%E5%85%AC%E5%8F%B8%E8%BF%91%E6%9C%9F%E5%85%AC%E5%B8%83%E6%A0%B8%E6%9F%A5%E5%A4%84%E7%90%86%E7%BB%93%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女生遭8名未成年人欺凌 2人被刑拘](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%81%AD8%E5%90%8D%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E6%AC%BA%E5%87%8C+2%E4%BA%BA%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [内蒙古一车辆连撞多人?警方通报](https://www.baidu.com/s?wd=%E5%86%85%E8%92%99%E5%8F%A4%E4%B8%80%E8%BD%A6%E8%BE%86%E8%BF%9E%E6%92%9E%E5%A4%9A%E4%BA%BA%3F%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [骚乱中的法国游：仍有游客报团](https://www.baidu.com/s?wd=%E9%AA%9A%E4%B9%B1%E4%B8%AD%E7%9A%84%E6%B3%95%E5%9B%BD%E6%B8%B8%EF%BC%9A%E4%BB%8D%E6%9C%89%E6%B8%B8%E5%AE%A2%E6%8A%A5%E5%9B%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [剩菜盲盒你会去购买吗](https://www.baidu.com/s?wd=%E5%89%A9%E8%8F%9C%E7%9B%B2%E7%9B%92%E4%BD%A0%E4%BC%9A%E5%8E%BB%E8%B4%AD%E4%B9%B0%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [痞幼：吃瓜吃到自己头上](https://www.baidu.com/s?wd=%E7%97%9E%E5%B9%BC%EF%BC%9A%E5%90%83%E7%93%9C%E5%90%83%E5%88%B0%E8%87%AA%E5%B7%B1%E5%A4%B4%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [骚乱中的法国游：仍有游客报团](https://www.baidu.com/s?wd=%E9%AA%9A%E4%B9%B1%E4%B8%AD%E7%9A%84%E6%B3%95%E5%9B%BD%E6%B8%B8%EF%BC%9A%E4%BB%8D%E6%9C%89%E6%B8%B8%E5%AE%A2%E6%8A%A5%E5%9B%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [牵手门涉事公司近期公布核查处理结果](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E6%B6%89%E4%BA%8B%E5%85%AC%E5%8F%B8%E8%BF%91%E6%9C%9F%E5%85%AC%E5%B8%83%E6%A0%B8%E6%9F%A5%E5%A4%84%E7%90%86%E7%BB%93%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女生遭8名未成年人欺凌 2人被刑拘](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%81%AD8%E5%90%8D%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E6%AC%BA%E5%87%8C+2%E4%BA%BA%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [内蒙古一车辆连撞多人?警方通报](https://www.baidu.com/s?wd=%E5%86%85%E8%92%99%E5%8F%A4%E4%B8%80%E8%BD%A6%E8%BE%86%E8%BF%9E%E6%92%9E%E5%A4%9A%E4%BA%BA%3F%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [骚乱中的法国游：仍有游客报团](https://www.baidu.com/s?wd=%E9%AA%9A%E4%B9%B1%E4%B8%AD%E7%9A%84%E6%B3%95%E5%9B%BD%E6%B8%B8%EF%BC%9A%E4%BB%8D%E6%9C%89%E6%B8%B8%E5%AE%A2%E6%8A%A5%E5%9B%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [剩菜盲盒你会去购买吗](https://www.baidu.com/s?wd=%E5%89%A9%E8%8F%9C%E7%9B%B2%E7%9B%92%E4%BD%A0%E4%BC%9A%E5%8E%BB%E8%B4%AD%E4%B9%B0%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [痞幼：吃瓜吃到自己头上](https://www.baidu.com/s?wd=%E7%97%9E%E5%B9%BC%EF%BC%9A%E5%90%83%E7%93%9C%E5%90%83%E5%88%B0%E8%87%AA%E5%B7%B1%E5%A4%B4%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [骚乱中的法国游：仍有游客报团](https://www.baidu.com/s?wd=%E9%AA%9A%E4%B9%B1%E4%B8%AD%E7%9A%84%E6%B3%95%E5%9B%BD%E6%B8%B8%EF%BC%9A%E4%BB%8D%E6%9C%89%E6%B8%B8%E5%AE%A2%E6%8A%A5%E5%9B%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
