@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 08:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 08:03:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [大熊猫萌兰](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E8%90%8C%E5%85%B0%23&t=31&band_rank=3&Refer=top)<br />
 4. [超7成年轻人存款不足10万](https://s.weibo.com/weibo?q=%23%E8%B6%857%E6%88%90%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%AD%98%E6%AC%BE%E4%B8%8D%E8%B6%B310%E4%B8%87%23&t=31&band_rank=4&Refer=top)<br />
 5. [周杰伦你真的不热吗](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E4%BD%A0%E7%9C%9F%E7%9A%84%E4%B8%8D%E7%83%AD%E5%90%97%23&t=31&band_rank=5&Refer=top)<br />
-6. [爷爷得知孙子四千元买条狗直接上秤](https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E5%BE%97%E7%9F%A5%E5%AD%99%E5%AD%90%E5%9B%9B%E5%8D%83%E5%85%83%E4%B9%B0%E6%9D%A1%E7%8B%97%E7%9B%B4%E6%8E%A5%E4%B8%8A%E7%A7%A4%23&t=31&band_rank=6&Refer=top)<br />
-7. [越南因南海九段线禁止芭比上映](https://s.weibo.com/weibo?q=%23%E8%B6%8A%E5%8D%97%E5%9B%A0%E5%8D%97%E6%B5%B7%E4%B9%9D%E6%AE%B5%E7%BA%BF%E7%A6%81%E6%AD%A2%E8%8A%AD%E6%AF%94%E4%B8%8A%E6%98%A0%23&t=31&band_rank=7&Refer=top)<br />
+6. [越南因南海九段线禁止芭比上映](https://s.weibo.com/weibo?q=%23%E8%B6%8A%E5%8D%97%E5%9B%A0%E5%8D%97%E6%B5%B7%E4%B9%9D%E6%AE%B5%E7%BA%BF%E7%A6%81%E6%AD%A2%E8%8A%AD%E6%AF%94%E4%B8%8A%E6%98%A0%23&t=31&band_rank=6&Refer=top)<br />
+7. [爷爷得知孙子四千元买条狗直接上秤](https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E5%BE%97%E7%9F%A5%E5%AD%99%E5%AD%90%E5%9B%9B%E5%8D%83%E5%85%83%E4%B9%B0%E6%9D%A1%E7%8B%97%E7%9B%B4%E6%8E%A5%E4%B8%8A%E7%A7%A4%23&t=31&band_rank=7&Refer=top)<br />
 8. [父亲和丈夫的尊重要自己去赚](https://s.weibo.com/weibo?q=%E7%88%B6%E4%BA%B2%E5%92%8C%E4%B8%88%E5%A4%AB%E7%9A%84%E5%B0%8A%E9%87%8D%E8%A6%81%E8%87%AA%E5%B7%B1%E5%8E%BB%E8%B5%9A&t=31&band_rank=8&Refer=top)<br />
 9. [沪上阿姨回应一杯开水卖10元](https://s.weibo.com/weibo?q=%23%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%E5%9B%9E%E5%BA%94%E4%B8%80%E6%9D%AF%E5%BC%80%E6%B0%B4%E5%8D%9610%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
 
@@ -16,11 +16,11 @@
 
 1. [两部门发布公告表示为维护国家安全和利益，决定对镓、锗相关物项实施出口管制，如何看待这一举措？](https://www.zhihu.com/question/610105939)<br />
 2. [青年失业率突破 20%，毕业生「慢就业」愈加显著，如今毕业生的就业观发生了哪些变化？如何看待这一变化？](https://www.zhihu.com/question/608938944)<br />
-3. [专家称「尽快研究出台遗赠税，弱化财富两极分化走势」，如何看待此观点？可行性如何？](https://www.zhihu.com/question/610090923)<br />
-4. [朝鲜女孩拍视频介绍平壤，韩国以「宣传朝鲜体制」为由屏蔽，谷歌封号，透露了哪些信息？](https://www.zhihu.com/question/610162816)<br />
+3. [朝鲜女孩拍视频介绍平壤，韩国以「宣传朝鲜体制」为由屏蔽，谷歌封号，透露了哪些信息？](https://www.zhihu.com/question/610162816)<br />
+4. [专家称「尽快研究出台遗赠税，弱化财富两极分化走势」，如何看待此观点？可行性如何？](https://www.zhihu.com/question/610090923)<br />
 5. [国家电竞集训队发布公告「《英雄联盟》项目选手剔除喻文波、白家浩更换为彭立勋、赵嘉豪」这将造成哪些影响？](https://www.zhihu.com/question/610188481)<br />
-6. [一名北京地接导游在颐和园中暑送医，经抢救无效死亡，如何看待此事？高温天气户外作业如何预防中暑？](https://www.zhihu.com/question/610074062)<br />
-7. [山姆泡面桶已被炒至 1999 元一桶，仍有人购买，如何看待此事？背后是怎样的消费心理？](https://www.zhihu.com/question/610060285)<br />
+6. [山姆泡面桶已被炒至 1999 元一桶，仍有人购买，如何看待此事？背后是怎样的消费心理？](https://www.zhihu.com/question/610060285)<br />
+7. [一名北京地接导游在颐和园中暑送医，经抢救无效死亡，如何看待此事？高温天气户外作业如何预防中暑？](https://www.zhihu.com/question/610074062)<br />
 8. [一个很小的东西，比如指甲盖大小。但是它的重量却很大，重到几万吨。这个东西放在手上，它的重力会穿破手吗？](https://www.zhihu.com/question/519865099)<br />
 9. [医院实行「年薪制」，主任 30 万、主治 20 万，你怎么看？](https://www.zhihu.com/question/610087179)<br />
 
