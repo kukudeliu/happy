@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 21:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 21:09:01</h4></div>
 
 > 微博  
 
-1. [痞幼](https://s.weibo.com/weibo?q=%E7%97%9E%E5%B9%BC&t=31&band_rank=1&Refer=top)<br />
-2. [EDG 啃老](https://s.weibo.com/weibo?q=EDG%20%E5%95%83%E8%80%81&t=31&band_rank=2&Refer=top)<br />
+1. [EDG 啃老](https://s.weibo.com/weibo?q=EDG%20%E5%95%83%E8%80%81&t=31&band_rank=1&Refer=top)<br />
+2. [痞幼](https://s.weibo.com/weibo?q=%E7%97%9E%E5%B9%BC&t=31&band_rank=2&Refer=top)<br />
 3. [闪闪发光的中国00后](https://s.weibo.com/weibo?q=%23%E9%97%AA%E9%97%AA%E5%8F%91%E5%85%89%E7%9A%84%E4%B8%AD%E5%9B%BD00%E5%90%8E%23&t=31&band_rank=3&Refer=top)<br />
 4. [秦牛正威回应为了男友改名](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E7%89%9B%E6%AD%A3%E5%A8%81%E5%9B%9E%E5%BA%94%E4%B8%BA%E4%BA%86%E7%94%B7%E5%8F%8B%E6%94%B9%E5%90%8D%23&t=31&band_rank=4&Refer=top)<br />
 5. [公积金年度结息到账](https://s.weibo.com/weibo?q=%23%E5%85%AC%E7%A7%AF%E9%87%91%E5%B9%B4%E5%BA%A6%E7%BB%93%E6%81%AF%E5%88%B0%E8%B4%A6%23&t=31&band_rank=5&Refer=top)<br />
@@ -31,10 +31,10 @@
 3. [IAEA：日本核污染水排海符合标准](https://www.baidu.com/s?wd=IAEA%EF%BC%9A%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%B5%B7%E7%AC%A6%E5%90%88%E6%A0%87%E5%87%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [乡村振兴靠队伍](https://www.baidu.com/s?wd=%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4%E9%9D%A0%E9%98%9F%E4%BC%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男生被要28万8彩礼写信给县长求整治](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E8%A2%AB%E8%A6%8128%E4%B8%878%E5%BD%A9%E7%A4%BC%E5%86%99%E4%BF%A1%E7%BB%99%E5%8E%BF%E9%95%BF%E6%B1%82%E6%95%B4%E6%B2%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [骑车相撞女子下车掌掴男孩](https://www.baidu.com/s?wd=%E9%AA%91%E8%BD%A6%E7%9B%B8%E6%92%9E%E5%A5%B3%E5%AD%90%E4%B8%8B%E8%BD%A6%E6%8E%8C%E6%8E%B4%E7%94%B7%E5%AD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [泰坦号乘客最后时刻:听音乐沉入海底](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9D%A6%E5%8F%B7%E4%B9%98%E5%AE%A2%E6%9C%80%E5%90%8E%E6%97%B6%E5%88%BB%3A%E5%90%AC%E9%9F%B3%E4%B9%90%E6%B2%89%E5%85%A5%E6%B5%B7%E5%BA%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [泰坦号乘客最后时刻:听音乐沉入海底](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9D%A6%E5%8F%B7%E4%B9%98%E5%AE%A2%E6%9C%80%E5%90%8E%E6%97%B6%E5%88%BB%3A%E5%90%AC%E9%9F%B3%E4%B9%90%E6%B2%89%E5%85%A5%E6%B5%B7%E5%BA%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [骑车相撞女子下车掌掴男孩](https://www.baidu.com/s?wd=%E9%AA%91%E8%BD%A6%E7%9B%B8%E6%92%9E%E5%A5%B3%E5%AD%90%E4%B8%8B%E8%BD%A6%E6%8E%8C%E6%8E%B4%E7%94%B7%E5%AD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [中南大学回应校友匿名向母校捐6亿](https://www.baidu.com/s?wd=%E4%B8%AD%E5%8D%97%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E6%A0%A1%E5%8F%8B%E5%8C%BF%E5%90%8D%E5%90%91%E6%AF%8D%E6%A0%A1%E6%8D%906%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [马云现身巴基斯坦](https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%E7%8E%B0%E8%BA%AB%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [情侣遇洪水被困 男生要求先救女友](https://www.baidu.com/s?wd=%E6%83%85%E4%BE%A3%E9%81%87%E6%B4%AA%E6%B0%B4%E8%A2%AB%E5%9B%B0+%E7%94%B7%E7%94%9F%E8%A6%81%E6%B1%82%E5%85%88%E6%95%91%E5%A5%B3%E5%8F%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [IAEA：日本核污染水排海符合标准](https://www.baidu.com/s?wd=IAEA%EF%BC%9A%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%B5%B7%E7%AC%A6%E5%90%88%E6%A0%87%E5%87%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [乡村振兴靠队伍](https://www.baidu.com/s?wd=%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4%E9%9D%A0%E9%98%9F%E4%BC%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男生被要28万8彩礼写信给县长求整治](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E8%A2%AB%E8%A6%8128%E4%B8%878%E5%BD%A9%E7%A4%BC%E5%86%99%E4%BF%A1%E7%BB%99%E5%8E%BF%E9%95%BF%E6%B1%82%E6%95%B4%E6%B2%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [骑车相撞女子下车掌掴男孩](https://www.baidu.com/s?wd=%E9%AA%91%E8%BD%A6%E7%9B%B8%E6%92%9E%E5%A5%B3%E5%AD%90%E4%B8%8B%E8%BD%A6%E6%8E%8C%E6%8E%B4%E7%94%B7%E5%AD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [泰坦号乘客最后时刻:听音乐沉入海底](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9D%A6%E5%8F%B7%E4%B9%98%E5%AE%A2%E6%9C%80%E5%90%8E%E6%97%B6%E5%88%BB%3A%E5%90%AC%E9%9F%B3%E4%B9%90%E6%B2%89%E5%85%A5%E6%B5%B7%E5%BA%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [泰坦号乘客最后时刻:听音乐沉入海底](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9D%A6%E5%8F%B7%E4%B9%98%E5%AE%A2%E6%9C%80%E5%90%8E%E6%97%B6%E5%88%BB%3A%E5%90%AC%E9%9F%B3%E4%B9%90%E6%B2%89%E5%85%A5%E6%B5%B7%E5%BA%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [骑车相撞女子下车掌掴男孩](https://www.baidu.com/s?wd=%E9%AA%91%E8%BD%A6%E7%9B%B8%E6%92%9E%E5%A5%B3%E5%AD%90%E4%B8%8B%E8%BD%A6%E6%8E%8C%E6%8E%B4%E7%94%B7%E5%AD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [中南大学回应校友匿名向母校捐6亿](https://www.baidu.com/s?wd=%E4%B8%AD%E5%8D%97%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E6%A0%A1%E5%8F%8B%E5%8C%BF%E5%90%8D%E5%90%91%E6%AF%8D%E6%A0%A1%E6%8D%906%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [马云现身巴基斯坦](https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%E7%8E%B0%E8%BA%AB%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [情侣遇洪水被困 男生要求先救女友](https://www.baidu.com/s?wd=%E6%83%85%E4%BE%A3%E9%81%87%E6%B4%AA%E6%B0%B4%E8%A2%AB%E5%9B%B0+%E7%94%B7%E7%94%9F%E8%A6%81%E6%B1%82%E5%85%88%E6%95%91%E5%A5%B3%E5%8F%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
