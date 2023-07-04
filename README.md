@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 08:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 08:47:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [燕京啤酒回应蔡徐坤事件](https://s.weibo.com/weibo?q=%23%E7%87%95%E4%BA%AC%E5%95%A4%E9%85%92%E5%9B%9E%E5%BA%94%E8%94%A1%E5%BE%90%E5%9D%A4%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=4&Refer=top)<br />
 5. [周杰伦你真的不热吗](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E4%BD%A0%E7%9C%9F%E7%9A%84%E4%B8%8D%E7%83%AD%E5%90%97%23&t=31&band_rank=5&Refer=top)<br />
 6. [越南因南海九段线禁止芭比上映](https://s.weibo.com/weibo?q=%23%E8%B6%8A%E5%8D%97%E5%9B%A0%E5%8D%97%E6%B5%B7%E4%B9%9D%E6%AE%B5%E7%BA%BF%E7%A6%81%E6%AD%A2%E8%8A%AD%E6%AF%94%E4%B8%8A%E6%98%A0%23&t=31&band_rank=6&Refer=top)<br />
-7. [超7成年轻人存款不足10万](https://s.weibo.com/weibo?q=%23%E8%B6%857%E6%88%90%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%AD%98%E6%AC%BE%E4%B8%8D%E8%B6%B310%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
-8. [沪上阿姨回应一杯开水卖10元](https://s.weibo.com/weibo?q=%23%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%E5%9B%9E%E5%BA%94%E4%B8%80%E6%9D%AF%E5%BC%80%E6%B0%B4%E5%8D%9610%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
+7. [沪上阿姨回应一杯开水卖10元](https://s.weibo.com/weibo?q=%23%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%E5%9B%9E%E5%BA%94%E4%B8%80%E6%9D%AF%E5%BC%80%E6%B0%B4%E5%8D%9610%E5%85%83%23&t=31&band_rank=7&Refer=top)<br />
+8. [超7成年轻人存款不足10万](https://s.weibo.com/weibo?q=%23%E8%B6%857%E6%88%90%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%AD%98%E6%AC%BE%E4%B8%8D%E8%B6%B310%E4%B8%87%23&t=31&band_rank=8&Refer=top)<br />
 9. [父亲和丈夫的尊重要自己去赚](https://s.weibo.com/weibo?q=%E7%88%B6%E4%BA%B2%E5%92%8C%E4%B8%88%E5%A4%AB%E7%9A%84%E5%B0%8A%E9%87%8D%E8%A6%81%E8%87%AA%E5%B7%B1%E5%8E%BB%E8%B5%9A&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
