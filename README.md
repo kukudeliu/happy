@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 07:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 07:37:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [小姨为了抱认生的孩子用奇招](https://s.weibo.com/weibo?q=%E5%B0%8F%E5%A7%A8%E4%B8%BA%E4%BA%86%E6%8A%B1%E8%AE%A4%E7%94%9F%E7%9A%84%E5%AD%A9%E5%AD%90%E7%94%A8%E5%A5%87%E6%8B%9B&t=31&band_rank=6&Refer=top)<br />
 7. [白敬亭说网络消息大家想一下再信](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E8%AF%B4%E7%BD%91%E7%BB%9C%E6%B6%88%E6%81%AF%E5%A4%A7%E5%AE%B6%E6%83%B3%E4%B8%80%E4%B8%8B%E5%86%8D%E4%BF%A1%23&t=31&band_rank=7&Refer=top)<br />
 8. [老人高铁霸座掏出一把药丸](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E9%AB%98%E9%93%81%E9%9C%B8%E5%BA%A7%E6%8E%8F%E5%87%BA%E4%B8%80%E6%8A%8A%E8%8D%AF%E4%B8%B8%23&t=31&band_rank=8&Refer=top)<br />
-9. [女子称入职时被要求上交毕业证原件](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%B0%E5%85%A5%E8%81%8C%E6%97%B6%E8%A2%AB%E8%A6%81%E6%B1%82%E4%B8%8A%E4%BA%A4%E6%AF%95%E4%B8%9A%E8%AF%81%E5%8E%9F%E4%BB%B6%23&t=31&band_rank=9&Refer=top)<br />
+9. [赵丽颖粉丝在张睿直播间宣传与凤行](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%B2%89%E4%B8%9D%E5%9C%A8%E5%BC%A0%E7%9D%BF%E7%9B%B4%E6%92%AD%E9%97%B4%E5%AE%A3%E4%BC%A0%E4%B8%8E%E5%87%A4%E8%A1%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
