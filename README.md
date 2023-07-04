@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 08:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 08:30:01</h4></div>
 
 > 微博  
 
@@ -18,8 +18,8 @@
 2. [青年失业率突破 20%，毕业生「慢就业」愈加显著，如今毕业生的就业观发生了哪些变化？如何看待这一变化？](https://www.zhihu.com/question/608938944)<br />
 3. [朝鲜女孩拍视频介绍平壤，韩国以「宣传朝鲜体制」为由屏蔽，谷歌封号，透露了哪些信息？](https://www.zhihu.com/question/610162816)<br />
 4. [国家电竞集训队发布公告「《英雄联盟》项目选手剔除喻文波、白家浩更换为彭立勋、赵嘉豪」这将造成哪些影响？](https://www.zhihu.com/question/610188481)<br />
-5. [专家称「尽快研究出台遗赠税，弱化财富两极分化走势」，如何看待此观点？可行性如何？](https://www.zhihu.com/question/610090923)<br />
-6. [山姆泡面桶已被炒至 1999 元一桶，仍有人购买，如何看待此事？背后是怎样的消费心理？](https://www.zhihu.com/question/610060285)<br />
+5. [山姆泡面桶已被炒至 1999 元一桶，仍有人购买，如何看待此事？背后是怎样的消费心理？](https://www.zhihu.com/question/610060285)<br />
+6. [专家称「尽快研究出台遗赠税，弱化财富两极分化走势」，如何看待此观点？可行性如何？](https://www.zhihu.com/question/610090923)<br />
 7. [医院实行「年薪制」，主任 30 万、主治 20 万，你怎么看？](https://www.zhihu.com/question/610087179)<br />
 8. [一个很小的东西，比如指甲盖大小。但是它的重量却很大，重到几万吨。这个东西放在手上，它的重力会穿破手吗？](https://www.zhihu.com/question/519865099)<br />
 9. [如何看待国科大校长周琪院士 2023 年毕业典礼多次哽咽发言?](https://www.zhihu.com/question/609952307)<br />
@@ -31,10 +31,10 @@
 3. [超7成年轻人存款不足10万](https://www.baidu.com/s?wd=%E8%B6%857%E6%88%90%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%AD%98%E6%AC%BE%E4%B8%8D%E8%B6%B310%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [暑期游新玩法折射消费新趋势](https://www.baidu.com/s?wd=%E6%9A%91%E6%9C%9F%E6%B8%B8%E6%96%B0%E7%8E%A9%E6%B3%95%E6%8A%98%E5%B0%84%E6%B6%88%E8%B4%B9%E6%96%B0%E8%B6%8B%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [多人组团偷吃榴莲致超市损失近千元](https://www.baidu.com/s?wd=%E5%A4%9A%E4%BA%BA%E7%BB%84%E5%9B%A2%E5%81%B7%E5%90%83%E6%A6%B4%E8%8E%B2%E8%87%B4%E8%B6%85%E5%B8%82%E6%8D%9F%E5%A4%B1%E8%BF%91%E5%8D%83%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [JackeyLove退出亚运会名单](https://www.baidu.com/s?wd=JackeyLove%E9%80%80%E5%87%BA%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%90%8D%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [13岁被拐女子向人贩子索赔被驳](https://www.baidu.com/s?wd=13%E5%B2%81%E8%A2%AB%E6%8B%90%E5%A5%B3%E5%AD%90%E5%90%91%E4%BA%BA%E8%B4%A9%E5%AD%90%E7%B4%A2%E8%B5%94%E8%A2%AB%E9%A9%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [中国侨胞夫妻在刚果（金）遭枪杀](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BE%A8%E8%83%9E%E5%A4%AB%E5%A6%BB%E5%9C%A8%E5%88%9A%E6%9E%9C%EF%BC%88%E9%87%91%EF%BC%89%E9%81%AD%E6%9E%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [乘客称起飞时机组人员联网刷视频](https://www.baidu.com/s?wd=%E4%B9%98%E5%AE%A2%E7%A7%B0%E8%B5%B7%E9%A3%9E%E6%97%B6%E6%9C%BA%E7%BB%84%E4%BA%BA%E5%91%98%E8%81%94%E7%BD%91%E5%88%B7%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [中国侨胞夫妻在刚果（金）遭枪杀](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BE%A8%E8%83%9E%E5%A4%AB%E5%A6%BB%E5%9C%A8%E5%88%9A%E6%9E%9C%EF%BC%88%E9%87%91%EF%BC%89%E9%81%AD%E6%9E%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [JackeyLove退出亚运会名单](https://www.baidu.com/s?wd=JackeyLove%E9%80%80%E5%87%BA%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%90%8D%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [乘客称起飞时机组人员联网刷视频](https://www.baidu.com/s?wd=%E4%B9%98%E5%AE%A2%E7%A7%B0%E8%B5%B7%E9%A3%9E%E6%97%B6%E6%9C%BA%E7%BB%84%E4%BA%BA%E5%91%98%E8%81%94%E7%BD%91%E5%88%B7%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [专家：尽快研究出台遗赠税](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E5%B0%BD%E5%BF%AB%E7%A0%94%E7%A9%B6%E5%87%BA%E5%8F%B0%E9%81%97%E8%B5%A0%E7%A8%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [超7成年轻人存款不足10万](https://www.baidu.com/s?wd=%E8%B6%857%E6%88%90%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%AD%98%E6%AC%BE%E4%B8%8D%E8%B6%B310%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [暑期游新玩法折射消费新趋势](https://www.baidu.com/s?wd=%E6%9A%91%E6%9C%9F%E6%B8%B8%E6%96%B0%E7%8E%A9%E6%B3%95%E6%8A%98%E5%B0%84%E6%B6%88%E8%B4%B9%E6%96%B0%E8%B6%8B%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [多人组团偷吃榴莲致超市损失近千元](https://www.baidu.com/s?wd=%E5%A4%9A%E4%BA%BA%E7%BB%84%E5%9B%A2%E5%81%B7%E5%90%83%E6%A6%B4%E8%8E%B2%E8%87%B4%E8%B6%85%E5%B8%82%E6%8D%9F%E5%A4%B1%E8%BF%91%E5%8D%83%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [JackeyLove退出亚运会名单](https://www.baidu.com/s?wd=JackeyLove%E9%80%80%E5%87%BA%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%90%8D%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [13岁被拐女子向人贩子索赔被驳](https://www.baidu.com/s?wd=13%E5%B2%81%E8%A2%AB%E6%8B%90%E5%A5%B3%E5%AD%90%E5%90%91%E4%BA%BA%E8%B4%A9%E5%AD%90%E7%B4%A2%E8%B5%94%E8%A2%AB%E9%A9%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [中国侨胞夫妻在刚果（金）遭枪杀](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BE%A8%E8%83%9E%E5%A4%AB%E5%A6%BB%E5%9C%A8%E5%88%9A%E6%9E%9C%EF%BC%88%E9%87%91%EF%BC%89%E9%81%AD%E6%9E%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [乘客称起飞时机组人员联网刷视频](https://www.baidu.com/s?wd=%E4%B9%98%E5%AE%A2%E7%A7%B0%E8%B5%B7%E9%A3%9E%E6%97%B6%E6%9C%BA%E7%BB%84%E4%BA%BA%E5%91%98%E8%81%94%E7%BD%91%E5%88%B7%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [中国侨胞夫妻在刚果（金）遭枪杀](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BE%A8%E8%83%9E%E5%A4%AB%E5%A6%BB%E5%9C%A8%E5%88%9A%E6%9E%9C%EF%BC%88%E9%87%91%EF%BC%89%E9%81%AD%E6%9E%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [JackeyLove退出亚运会名单](https://www.baidu.com/s?wd=JackeyLove%E9%80%80%E5%87%BA%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%90%8D%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [乘客称起飞时机组人员联网刷视频](https://www.baidu.com/s?wd=%E4%B9%98%E5%AE%A2%E7%A7%B0%E8%B5%B7%E9%A3%9E%E6%97%B6%E6%9C%BA%E7%BB%84%E4%BA%BA%E5%91%98%E8%81%94%E7%BD%91%E5%88%B7%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [专家：尽快研究出台遗赠税](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E5%B0%BD%E5%BF%AB%E7%A0%94%E7%A9%B6%E5%87%BA%E5%8F%B0%E9%81%97%E8%B5%A0%E7%A8%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
