@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 22:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 22:36:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [周也 孟子义](https://s.weibo.com/weibo?q=%E5%91%A8%E4%B9%9F%20%E5%AD%9F%E5%AD%90%E4%B9%89&t=31&band_rank=5&Refer=top)<br />
 6. [痞幼](https://s.weibo.com/weibo?q=%E7%97%9E%E5%B9%BC&t=31&band_rank=6&Refer=top)<br />
 7. [日本札幌一酒店惊现无头男尸](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%9C%AD%E5%B9%8C%E4%B8%80%E9%85%92%E5%BA%97%E6%83%8A%E7%8E%B0%E6%97%A0%E5%A4%B4%E7%94%B7%E5%B0%B8%23&t=31&band_rank=7&Refer=top)<br />
-8. [EDG 亚运野辅](https://s.weibo.com/weibo?q=EDG%20%E4%BA%9A%E8%BF%90%E9%87%8E%E8%BE%85&t=31&band_rank=8&Refer=top)<br />
-9. [TT战胜EDG](https://s.weibo.com/weibo?q=TT%E6%88%98%E8%83%9CEDG&t=31&band_rank=9&Refer=top)<br />
+8. [胡继勇被免去多项职务](https://s.weibo.com/weibo?q=%23%E8%83%A1%E7%BB%A7%E5%8B%87%E8%A2%AB%E5%85%8D%E5%8E%BB%E5%A4%9A%E9%A1%B9%E8%81%8C%E5%8A%A1%23&t=31&band_rank=8&Refer=top)<br />
+9. [EDG 亚运野辅](https://s.weibo.com/weibo?q=EDG%20%E4%BA%9A%E8%BF%90%E9%87%8E%E8%BE%85&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -18,8 +18,8 @@
 2. [男子故意 1 次取 1 元逼哭柜员称「非把你开除！」，如何看待该男子的做法？](https://www.zhihu.com/question/610236031)<br />
 3. [湖南一火车站不让进候车厅，乘客顶烈日排队，铁路官方回应「非营业时段不开放」，如何看待此事？](https://www.zhihu.com/question/610039783)<br />
 4. [如何看待 26 城发布地铁年报，但只有 4 城是赚到钱的？地铁是个「亏钱」的生意吗？](https://www.zhihu.com/question/610117816)<br />
-5. [两部门发布公告表示为维护国家安全和利益，决定对镓、锗相关物项实施出口管制，如何看待这一举措？](https://www.zhihu.com/question/610105939)<br />
-6. [医院实习生不小心把锐器等垃圾丢进医疗垃圾犯法吗?](https://www.zhihu.com/question/609510495)<br />
+5. [医院实习生不小心把锐器等垃圾丢进医疗垃圾犯法吗?](https://www.zhihu.com/question/609510495)<br />
+6. [两部门发布公告表示为维护国家安全和利益，决定对镓、锗相关物项实施出口管制，如何看待这一举措？](https://www.zhihu.com/question/610105939)<br />
 7. [这届亚运会，首次作为正式项目的手游电竞比赛都有什么值得期待？](https://www.zhihu.com/question/609567949)<br />
 8. [泰山那么矮，为啥是五岳之首？](https://www.zhihu.com/question/36468499)<br />
 9. [如何评价 7 月 4 日发布的 iQOO 11S，作为本届亚运会电竞赛事官方用机，都有哪些亮点？](https://www.zhihu.com/question/609567853)<br />
@@ -32,9 +32,9 @@
 4. [江风海韵绘就生态美](https://www.baidu.com/s?wd=%E6%B1%9F%E9%A3%8E%E6%B5%B7%E9%9F%B5%E7%BB%98%E5%B0%B1%E7%94%9F%E6%80%81%E7%BE%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [牵手门涉事公司近期公布核查处理结果](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E6%B6%89%E4%BA%8B%E5%85%AC%E5%8F%B8%E8%BF%91%E6%9C%9F%E5%85%AC%E5%B8%83%E6%A0%B8%E6%9F%A5%E5%A4%84%E7%90%86%E7%BB%93%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [东京一店长闻到煤气味后点了根烟](https://www.baidu.com/s?wd=%E4%B8%9C%E4%BA%AC%E4%B8%80%E5%BA%97%E9%95%BF%E9%97%BB%E5%88%B0%E7%85%A4%E6%B0%94%E5%91%B3%E5%90%8E%E7%82%B9%E4%BA%86%E6%A0%B9%E7%83%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [寻女继承百万遗产母亲再发声](https://www.baidu.com/s?wd=%E5%AF%BB%E5%A5%B3%E7%BB%A7%E6%89%BF%E7%99%BE%E4%B8%87%E9%81%97%E4%BA%A7%E6%AF%8D%E4%BA%B2%E5%86%8D%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女生遭8名未成年人欺凌 2人被刑拘](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%81%AD8%E5%90%8D%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E6%AC%BA%E5%87%8C+2%E4%BA%BA%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [广东人正式被确诊为依萍](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%BA%BA%E6%AD%A3%E5%BC%8F%E8%A2%AB%E7%A1%AE%E8%AF%8A%E4%B8%BA%E4%BE%9D%E8%90%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [官方回应山东一辅警杀害2名女性](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%B1%B1%E4%B8%9C%E4%B8%80%E8%BE%85%E8%AD%A6%E6%9D%80%E5%AE%B32%E5%90%8D%E5%A5%B3%E6%80%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [寻女继承百万遗产母亲再发声](https://www.baidu.com/s?wd=%E5%AF%BB%E5%A5%B3%E7%BB%A7%E6%89%BF%E7%99%BE%E4%B8%87%E9%81%97%E4%BA%A7%E6%AF%8D%E4%BA%B2%E5%86%8D%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女生遭8名未成年人欺凌 2人被刑拘](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%81%AD8%E5%90%8D%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E6%AC%BA%E5%87%8C+2%E4%BA%BA%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [江风海韵绘就生态美](https://www.baidu.com/s?wd=%E6%B1%9F%E9%A3%8E%E6%B5%B7%E9%9F%B5%E7%BB%98%E5%B0%B1%E7%94%9F%E6%80%81%E7%BE%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [牵手门涉事公司近期公布核查处理结果](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E6%B6%89%E4%BA%8B%E5%85%AC%E5%8F%B8%E8%BF%91%E6%9C%9F%E5%85%AC%E5%B8%83%E6%A0%B8%E6%9F%A5%E5%A4%84%E7%90%86%E7%BB%93%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [东京一店长闻到煤气味后点了根烟](https://www.baidu.com/s?wd=%E4%B8%9C%E4%BA%AC%E4%B8%80%E5%BA%97%E9%95%BF%E9%97%BB%E5%88%B0%E7%85%A4%E6%B0%94%E5%91%B3%E5%90%8E%E7%82%B9%E4%BA%86%E6%A0%B9%E7%83%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [寻女继承百万遗产母亲再发声](https://www.baidu.com/s?wd=%E5%AF%BB%E5%A5%B3%E7%BB%A7%E6%89%BF%E7%99%BE%E4%B8%87%E9%81%97%E4%BA%A7%E6%AF%8D%E4%BA%B2%E5%86%8D%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女生遭8名未成年人欺凌 2人被刑拘](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%81%AD8%E5%90%8D%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E6%AC%BA%E5%87%8C+2%E4%BA%BA%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [广东人正式被确诊为依萍](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%BA%BA%E6%AD%A3%E5%BC%8F%E8%A2%AB%E7%A1%AE%E8%AF%8A%E4%B8%BA%E4%BE%9D%E8%90%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [官方回应山东一辅警杀害2名女性](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%B1%B1%E4%B8%9C%E4%B8%80%E8%BE%85%E8%AD%A6%E6%9D%80%E5%AE%B32%E5%90%8D%E5%A5%B3%E6%80%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [寻女继承百万遗产母亲再发声](https://www.baidu.com/s?wd=%E5%AF%BB%E5%A5%B3%E7%BB%A7%E6%89%BF%E7%99%BE%E4%B8%87%E9%81%97%E4%BA%A7%E6%AF%8D%E4%BA%B2%E5%86%8D%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女生遭8名未成年人欺凌 2人被刑拘](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%81%AD8%E5%90%8D%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E6%AC%BA%E5%87%8C+2%E4%BA%BA%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
