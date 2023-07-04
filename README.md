@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 22:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 22:45:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [医院实习生不小心把锐器等垃圾丢进医疗垃圾犯法吗?](https://www.zhihu.com/question/609510495)<br />
 6. [这届亚运会，首次作为正式项目的手游电竞比赛都有什么值得期待？](https://www.zhihu.com/question/609567949)<br />
 7. [2023 LPL 夏季赛 EDG 1:2 不敌 TT，如何评价这场比赛？](https://www.zhihu.com/question/610296656)<br />
-8. [如何评价 7 月 4 日发布的 iQOO 11S，作为本届亚运会电竞赛事官方用机，都有哪些亮点？](https://www.zhihu.com/question/609567853)<br />
-9. []()<br />
+8. []()<br />
+9. [沙特、俄罗斯同日宣布石油减产计划，8 月共减产 150 万桶，原因有哪些？将带来哪些影响？](https://www.zhihu.com/question/610217964)<br />
 
 > 百度  
 
