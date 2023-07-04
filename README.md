@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 12:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 12:24:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [公司的一个同事和我关系特别好，要辞职了，他的岗位很重要，我和老板的关系也好，我要先跟老板说一声吗?](https://www.zhihu.com/question/609530299)<br />
 7. [医院实行「年薪制」，主任 30 万、主治 20 万，你怎么看？](https://www.zhihu.com/question/610087179)<br />
 8. []()<br />
-9. []()<br />
+9. [法国人还会为了法兰西而在战场上冲锋吗？](https://www.zhihu.com/question/576591456)<br />
 
 > 百度  
 
@@ -33,8 +33,8 @@
 5. [男子偷住无人别墅多日喝光6瓶茅台](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%B7%E4%BD%8F%E6%97%A0%E4%BA%BA%E5%88%AB%E5%A2%85%E5%A4%9A%E6%97%A5%E5%96%9D%E5%85%896%E7%93%B6%E8%8C%85%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [剩菜盲盒你会去购买吗](https://www.baidu.com/s?wd=%E5%89%A9%E8%8F%9C%E7%9B%B2%E7%9B%92%E4%BD%A0%E4%BC%9A%E5%8E%BB%E8%B4%AD%E4%B9%B0%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [王楚钦世界排名第一](https://www.baidu.com/s?wd=%E7%8E%8B%E6%A5%9A%E9%92%A6%E4%B8%96%E7%95%8C%E6%8E%92%E5%90%8D%E7%AC%AC%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女工程师为出轨对象做间谍17年](https://www.baidu.com/s?wd=%E5%A5%B3%E5%B7%A5%E7%A8%8B%E5%B8%88%E4%B8%BA%E5%87%BA%E8%BD%A8%E5%AF%B9%E8%B1%A1%E5%81%9A%E9%97%B4%E8%B0%8D17%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [东京大楼爆炸瞬间 有人高喊快逃](https://www.baidu.com/s?wd=%E4%B8%9C%E4%BA%AC%E5%A4%A7%E6%A5%BC%E7%88%86%E7%82%B8%E7%9E%AC%E9%97%B4+%E6%9C%89%E4%BA%BA%E9%AB%98%E5%96%8A%E5%BF%AB%E9%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [老师称在越南学好中文工资更高](https://www.baidu.com/s?wd=%E8%80%81%E5%B8%88%E7%A7%B0%E5%9C%A8%E8%B6%8A%E5%8D%97%E5%AD%A6%E5%A5%BD%E4%B8%AD%E6%96%87%E5%B7%A5%E8%B5%84%E6%9B%B4%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女工程师为出轨对象做间谍17年](https://www.baidu.com/s?wd=%E5%A5%B3%E5%B7%A5%E7%A8%8B%E5%B8%88%E4%B8%BA%E5%87%BA%E8%BD%A8%E5%AF%B9%E8%B1%A1%E5%81%9A%E9%97%B4%E8%B0%8D17%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [男子偷住无人别墅多日喝光6瓶茅台](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%B7%E4%BD%8F%E6%97%A0%E4%BA%BA%E5%88%AB%E5%A2%85%E5%A4%9A%E6%97%A5%E5%96%9D%E5%85%896%E7%93%B6%E8%8C%85%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [剩菜盲盒你会去购买吗](https://www.baidu.com/s?wd=%E5%89%A9%E8%8F%9C%E7%9B%B2%E7%9B%92%E4%BD%A0%E4%BC%9A%E5%8E%BB%E8%B4%AD%E4%B9%B0%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [王楚钦世界排名第一](https://www.baidu.com/s?wd=%E7%8E%8B%E6%A5%9A%E9%92%A6%E4%B8%96%E7%95%8C%E6%8E%92%E5%90%8D%E7%AC%AC%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女工程师为出轨对象做间谍17年](https://www.baidu.com/s?wd=%E5%A5%B3%E5%B7%A5%E7%A8%8B%E5%B8%88%E4%B8%BA%E5%87%BA%E8%BD%A8%E5%AF%B9%E8%B1%A1%E5%81%9A%E9%97%B4%E8%B0%8D17%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [东京大楼爆炸瞬间 有人高喊快逃](https://www.baidu.com/s?wd=%E4%B8%9C%E4%BA%AC%E5%A4%A7%E6%A5%BC%E7%88%86%E7%82%B8%E7%9E%AC%E9%97%B4+%E6%9C%89%E4%BA%BA%E9%AB%98%E5%96%8A%E5%BF%AB%E9%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [老师称在越南学好中文工资更高](https://www.baidu.com/s?wd=%E8%80%81%E5%B8%88%E7%A7%B0%E5%9C%A8%E8%B6%8A%E5%8D%97%E5%AD%A6%E5%A5%BD%E4%B8%AD%E6%96%87%E5%B7%A5%E8%B5%84%E6%9B%B4%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女工程师为出轨对象做间谍17年](https://www.baidu.com/s?wd=%E5%A5%B3%E5%B7%A5%E7%A8%8B%E5%B8%88%E4%B8%BA%E5%87%BA%E8%BD%A8%E5%AF%B9%E8%B1%A1%E5%81%9A%E9%97%B4%E8%B0%8D17%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
