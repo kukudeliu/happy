@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 07:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 07:09:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [朱某龙骑车去痞幼家偷茅台](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E6%9F%90%E9%BE%99%E9%AA%91%E8%BD%A6%E5%8E%BB%E7%97%9E%E5%B9%BC%E5%AE%B6%E5%81%B7%E8%8C%85%E5%8F%B0%23&t=31&band_rank=5&Refer=top)<br />
 6. [小姨为了抱认生的孩子用奇招](https://s.weibo.com/weibo?q=%E5%B0%8F%E5%A7%A8%E4%B8%BA%E4%BA%86%E6%8A%B1%E8%AE%A4%E7%94%9F%E7%9A%84%E5%AD%A9%E5%AD%90%E7%94%A8%E5%A5%87%E6%8B%9B&t=31&band_rank=6&Refer=top)<br />
 7. [老人高铁霸座掏出一把药丸](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E9%AB%98%E9%93%81%E9%9C%B8%E5%BA%A7%E6%8E%8F%E5%87%BA%E4%B8%80%E6%8A%8A%E8%8D%AF%E4%B8%B8%23&t=31&band_rank=7&Refer=top)<br />
-8. [日本札幌一酒店惊现无头男尸](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%9C%AD%E5%B9%8C%E4%B8%80%E9%85%92%E5%BA%97%E6%83%8A%E7%8E%B0%E6%97%A0%E5%A4%B4%E7%94%B7%E5%B0%B8%23&t=31&band_rank=8&Refer=top)<br />
-9. [女子称入职时被要求上交毕业证原件](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%B0%E5%85%A5%E8%81%8C%E6%97%B6%E8%A2%AB%E8%A6%81%E6%B1%82%E4%B8%8A%E4%BA%A4%E6%AF%95%E4%B8%9A%E8%AF%81%E5%8E%9F%E4%BB%B6%23&t=31&band_rank=9&Refer=top)<br />
+8. [你家会整夜开空调吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%AE%B6%E4%BC%9A%E6%95%B4%E5%A4%9C%E5%BC%80%E7%A9%BA%E8%B0%83%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
+9. [日本札幌一酒店惊现无头男尸](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%9C%AD%E5%B9%8C%E4%B8%80%E9%85%92%E5%BA%97%E6%83%8A%E7%8E%B0%E6%97%A0%E5%A4%B4%E7%94%B7%E5%B0%B8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
