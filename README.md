@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 22:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 22:19:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [东京一店长闻到煤气味后点了根烟](https://www.baidu.com/s?wd=%E4%B8%9C%E4%BA%AC%E4%B8%80%E5%BA%97%E9%95%BF%E9%97%BB%E5%88%B0%E7%85%A4%E6%B0%94%E5%91%B3%E5%90%8E%E7%82%B9%E4%BA%86%E6%A0%B9%E7%83%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女生遭8名未成年人欺凌 2人被刑拘](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%81%AD8%E5%90%8D%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E6%AC%BA%E5%87%8C+2%E4%BA%BA%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [重庆万州遇暴雨：巡逻员喊楼撤离](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%87%E5%B7%9E%E9%81%87%E6%9A%B4%E9%9B%A8%EF%BC%9A%E5%B7%A1%E9%80%BB%E5%91%98%E5%96%8A%E6%A5%BC%E6%92%A4%E7%A6%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中南大学回应校友匿名向母校捐6亿](https://www.baidu.com/s?wd=%E4%B8%AD%E5%8D%97%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E6%A0%A1%E5%8F%8B%E5%8C%BF%E5%90%8D%E5%90%91%E6%AF%8D%E6%A0%A1%E6%8D%906%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [王毅：头发染得再黄也变不成西方人](https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%EF%BC%9A%E5%A4%B4%E5%8F%91%E6%9F%93%E5%BE%97%E5%86%8D%E9%BB%84%E4%B9%9F%E5%8F%98%E4%B8%8D%E6%88%90%E8%A5%BF%E6%96%B9%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [东京一店长闻到煤气味后点了根烟](https://www.baidu.com/s?wd=%E4%B8%9C%E4%BA%AC%E4%B8%80%E5%BA%97%E9%95%BF%E9%97%BB%E5%88%B0%E7%85%A4%E6%B0%94%E5%91%B3%E5%90%8E%E7%82%B9%E4%BA%86%E6%A0%B9%E7%83%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女生遭8名未成年人欺凌 2人被刑拘](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%81%AD8%E5%90%8D%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E6%AC%BA%E5%87%8C+2%E4%BA%BA%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [重庆万州遇暴雨：巡逻员喊楼撤离](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%87%E5%B7%9E%E9%81%87%E6%9A%B4%E9%9B%A8%EF%BC%9A%E5%B7%A1%E9%80%BB%E5%91%98%E5%96%8A%E6%A5%BC%E6%92%A4%E7%A6%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中南大学回应校友匿名向母校捐6亿](https://www.baidu.com/s?wd=%E4%B8%AD%E5%8D%97%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E6%A0%A1%E5%8F%8B%E5%8C%BF%E5%90%8D%E5%90%91%E6%AF%8D%E6%A0%A1%E6%8D%906%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [王毅：头发染得再黄也变不成西方人](https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%EF%BC%9A%E5%A4%B4%E5%8F%91%E6%9F%93%E5%BE%97%E5%86%8D%E9%BB%84%E4%B9%9F%E5%8F%98%E4%B8%8D%E6%88%90%E8%A5%BF%E6%96%B9%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
