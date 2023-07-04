@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 14:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 14:12:02</h4></div>
 
 > 微博  
 
-1. [大麦被罚](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%BA%A6%E8%A2%AB%E7%BD%9A%23&t=31&band_rank=1&Refer=top)<br />
-2. [沈阳发现一例猴痘病例](https://s.weibo.com/weibo?q=%23%E6%B2%88%E9%98%B3%E5%8F%91%E7%8E%B0%E4%B8%80%E4%BE%8B%E7%8C%B4%E7%97%98%E7%97%85%E4%BE%8B%23&t=31&band_rank=2&Refer=top)<br />
+1. [沈阳发现一例猴痘病例](https://s.weibo.com/weibo?q=%23%E6%B2%88%E9%98%B3%E5%8F%91%E7%8E%B0%E4%B8%80%E4%BE%8B%E7%8C%B4%E7%97%98%E7%97%85%E4%BE%8B%23&t=31&band_rank=1&Refer=top)<br />
+2. [大麦被罚](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%BA%A6%E8%A2%AB%E7%BD%9A%23&t=31&band_rank=2&Refer=top)<br />
 3. [2023下半年大事日历](https://s.weibo.com/weibo?q=%232023%E4%B8%8B%E5%8D%8A%E5%B9%B4%E5%A4%A7%E4%BA%8B%E6%97%A5%E5%8E%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [金星吐槽女明星走红毯捂胸口](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%98%9F%E5%90%90%E6%A7%BD%E5%A5%B3%E6%98%8E%E6%98%9F%E8%B5%B0%E7%BA%A2%E6%AF%AF%E6%8D%82%E8%83%B8%E5%8F%A3%23&t=31&band_rank=4&Refer=top)<br />
 5. [婚检后才知道自己有蚕豆病](https://s.weibo.com/weibo?q=%23%E5%A9%9A%E6%A3%80%E5%90%8E%E6%89%8D%E7%9F%A5%E9%81%93%E8%87%AA%E5%B7%B1%E6%9C%89%E8%9A%95%E8%B1%86%E7%97%85%23&t=31&band_rank=5&Refer=top)<br />
