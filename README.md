@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 22:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 22:11:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [湖南一火车站不让进候车厅，乘客顶烈日排队，铁路官方回应「非营业时段不开放」，如何看待此事？](https://www.zhihu.com/question/610039783)<br />
 6. [如何看待 26 城发布地铁年报，但只有 4 城是赚到钱的？地铁是个「亏钱」的生意吗？](https://www.zhihu.com/question/610117816)<br />
 7. [恒大董事长许家印发声：明确广州目标「今年保级、明年冲超！」，引援须恒大足校出品，哪些信息值得关注？](https://www.zhihu.com/question/610278108)<br />
-8. [男朋友很没有边界感没有隐私意识怎么办？](https://www.zhihu.com/question/589062450)<br />
-9. [医院实习生不小心把锐器等垃圾丢进医疗垃圾犯法吗?](https://www.zhihu.com/question/609510495)<br />
+8. [医院实习生不小心把锐器等垃圾丢进医疗垃圾犯法吗?](https://www.zhihu.com/question/609510495)<br />
+9. [男朋友很没有边界感没有隐私意识怎么办？](https://www.zhihu.com/question/589062450)<br />
 
 > 百度  
 
