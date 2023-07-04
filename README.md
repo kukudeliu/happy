@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 18:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 18:44:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [王毅：头发染得再黄也变不成西方人](https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%EF%BC%9A%E5%A4%B4%E5%8F%91%E6%9F%93%E5%BE%97%E5%86%8D%E9%BB%84%E4%B9%9F%E5%8F%98%E4%B8%8D%E6%88%90%E8%A5%BF%E6%96%B9%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [痞幼：吃瓜吃到自己头上](https://www.baidu.com/s?wd=%E7%97%9E%E5%B9%BC%EF%BC%9A%E5%90%83%E7%93%9C%E5%90%83%E5%88%B0%E8%87%AA%E5%B7%B1%E5%A4%B4%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子游泳被鲨鱼袭击幸有海豚相救](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%B8%B8%E6%B3%B3%E8%A2%AB%E9%B2%A8%E9%B1%BC%E8%A2%AD%E5%87%BB%E5%B9%B8%E6%9C%89%E6%B5%B7%E8%B1%9A%E7%9B%B8%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [胡锡进评清北遭舆论攻击：太过分](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%E8%AF%84%E6%B8%85%E5%8C%97%E9%81%AD%E8%88%86%E8%AE%BA%E6%94%BB%E5%87%BB%EF%BC%9A%E5%A4%AA%E8%BF%87%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [金星吐槽女明星走红毯捂胸口](https://www.baidu.com/s?wd=%E9%87%91%E6%98%9F%E5%90%90%E6%A7%BD%E5%A5%B3%E6%98%8E%E6%98%9F%E8%B5%B0%E7%BA%A2%E6%AF%AF%E6%8D%82%E8%83%B8%E5%8F%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [王毅：头发染得再黄也变不成西方人](https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%EF%BC%9A%E5%A4%B4%E5%8F%91%E6%9F%93%E5%BE%97%E5%86%8D%E9%BB%84%E4%B9%9F%E5%8F%98%E4%B8%8D%E6%88%90%E8%A5%BF%E6%96%B9%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [痞幼：吃瓜吃到自己头上](https://www.baidu.com/s?wd=%E7%97%9E%E5%B9%BC%EF%BC%9A%E5%90%83%E7%93%9C%E5%90%83%E5%88%B0%E8%87%AA%E5%B7%B1%E5%A4%B4%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子游泳被鲨鱼袭击幸有海豚相救](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%B8%B8%E6%B3%B3%E8%A2%AB%E9%B2%A8%E9%B1%BC%E8%A2%AD%E5%87%BB%E5%B9%B8%E6%9C%89%E6%B5%B7%E8%B1%9A%E7%9B%B8%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [胡锡进评清北遭舆论攻击：太过分](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%E8%AF%84%E6%B8%85%E5%8C%97%E9%81%AD%E8%88%86%E8%AE%BA%E6%94%BB%E5%87%BB%EF%BC%9A%E5%A4%AA%E8%BF%87%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [金星吐槽女明星走红毯捂胸口](https://www.baidu.com/s?wd=%E9%87%91%E6%98%9F%E5%90%90%E6%A7%BD%E5%A5%B3%E6%98%8E%E6%98%9F%E8%B5%B0%E7%BA%A2%E6%AF%AF%E6%8D%82%E8%83%B8%E5%8F%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
