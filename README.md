@@ -1,13 +1,13 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 13:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 13:40:01</h4></div>
 
 > 微博  
 
 1. [大麦被罚](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%BA%A6%E8%A2%AB%E7%BD%9A%23&t=31&band_rank=1&Refer=top)<br />
-2. [杭州女子买彩票误打误撞中了一千万](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%A5%B3%E5%AD%90%E4%B9%B0%E5%BD%A9%E7%A5%A8%E8%AF%AF%E6%89%93%E8%AF%AF%E6%92%9E%E4%B8%AD%E4%BA%86%E4%B8%80%E5%8D%83%E4%B8%87%23&t=31&band_rank=2&Refer=top)<br />
+2. [观众缘好的明星](https://s.weibo.com/weibo?q=%23%E8%A7%82%E4%BC%97%E7%BC%98%E5%A5%BD%E7%9A%84%E6%98%8E%E6%98%9F%23&t=31&band_rank=2&Refer=top)<br />
 3. [2023下半年大事日历](https://s.weibo.com/weibo?q=%232023%E4%B8%8B%E5%8D%8A%E5%B9%B4%E5%A4%A7%E4%BA%8B%E6%97%A5%E5%8E%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [金星吐槽女明星走红毯捂胸口](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%98%9F%E5%90%90%E6%A7%BD%E5%A5%B3%E6%98%8E%E6%98%9F%E8%B5%B0%E7%BA%A2%E6%AF%AF%E6%8D%82%E8%83%B8%E5%8F%A3%23&t=31&band_rank=4&Refer=top)<br />
 5. [婚检后才知道自己有蚕豆病](https://s.weibo.com/weibo?q=%23%E5%A9%9A%E6%A3%80%E5%90%8E%E6%89%8D%E7%9F%A5%E9%81%93%E8%87%AA%E5%B7%B1%E6%9C%89%E8%9A%95%E8%B1%86%E7%97%85%23&t=31&band_rank=5&Refer=top)<br />
-6. [观众缘好的明星](https://s.weibo.com/weibo?q=%23%E8%A7%82%E4%BC%97%E7%BC%98%E5%A5%BD%E7%9A%84%E6%98%8E%E6%98%9F%23&t=31&band_rank=6&Refer=top)<br />
+6. [杭州女子买彩票误打误撞中了一千万](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%A5%B3%E5%AD%90%E4%B9%B0%E5%BD%A9%E7%A5%A8%E8%AF%AF%E6%89%93%E8%AF%AF%E6%92%9E%E4%B8%AD%E4%BA%86%E4%B8%80%E5%8D%83%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [黑执事](https://s.weibo.com/weibo?q=%E9%BB%91%E6%89%A7%E4%BA%8B&t=31&band_rank=7&Refer=top)<br />
 8. [减肥人的黄金40天](https://s.weibo.com/weibo?q=%23%E5%87%8F%E8%82%A5%E4%BA%BA%E7%9A%84%E9%BB%84%E9%87%9140%E5%A4%A9%23&t=31&band_rank=8&Refer=top)<br />
 9. [妻子回应男子起哄怂恿轻生者跳楼](https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%90%E8%B5%B7%E5%93%84%E6%80%82%E6%81%BF%E8%BD%BB%E7%94%9F%E8%80%85%E8%B7%B3%E6%A5%BC%23&t=31&band_rank=9&Refer=top)<br />
