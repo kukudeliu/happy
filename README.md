@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 03:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 03:13:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [日本札幌一酒店惊现无头男尸](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%9C%AD%E5%B9%8C%E4%B8%80%E9%85%92%E5%BA%97%E6%83%8A%E7%8E%B0%E6%97%A0%E5%A4%B4%E7%94%B7%E5%B0%B8%23&t=31&band_rank=6&Refer=top)<br />
 7. [秦牛正威回应为了男友改名](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E7%89%9B%E6%AD%A3%E5%A8%81%E5%9B%9E%E5%BA%94%E4%B8%BA%E4%BA%86%E7%94%B7%E5%8F%8B%E6%94%B9%E5%90%8D%23&t=31&band_rank=7&Refer=top)<br />
 8. [时影刚满18就要开始带娃了](https://s.weibo.com/weibo?q=%23%E6%97%B6%E5%BD%B1%E5%88%9A%E6%BB%A118%E5%B0%B1%E8%A6%81%E5%BC%80%E5%A7%8B%E5%B8%A6%E5%A8%83%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [老人高铁霸座掏出一把药丸](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E9%AB%98%E9%93%81%E9%9C%B8%E5%BA%A7%E6%8E%8F%E5%87%BA%E4%B8%80%E6%8A%8A%E8%8D%AF%E4%B8%B8%23&t=31&band_rank=9&Refer=top)<br />
+9. [freenbecky](https://s.weibo.com/weibo?q=%23freenbecky%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
