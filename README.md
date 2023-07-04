@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 12:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 12:58:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [金星吐槽女明星走红毯捂胸口](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%98%9F%E5%90%90%E6%A7%BD%E5%A5%B3%E6%98%8E%E6%98%9F%E8%B5%B0%E7%BA%A2%E6%AF%AF%E6%8D%82%E8%83%B8%E5%8F%A3%23&t=31&band_rank=4&Refer=top)<br />
 5. [婚检后才知道自己有蚕豆病](https://s.weibo.com/weibo?q=%23%E5%A9%9A%E6%A3%80%E5%90%8E%E6%89%8D%E7%9F%A5%E9%81%93%E8%87%AA%E5%B7%B1%E6%9C%89%E8%9A%95%E8%B1%86%E7%97%85%23&t=31&band_rank=5&Refer=top)<br />
 6. [杭州女子买彩票误打误撞中了一千万](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%A5%B3%E5%AD%90%E4%B9%B0%E5%BD%A9%E7%A5%A8%E8%AF%AF%E6%89%93%E8%AF%AF%E6%92%9E%E4%B8%AD%E4%BA%86%E4%B8%80%E5%8D%83%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
-7. [男子故意1次取1元逼哭柜员](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%95%85%E6%84%8F1%E6%AC%A1%E5%8F%961%E5%85%83%E9%80%BC%E5%93%AD%E6%9F%9C%E5%91%98%23&t=31&band_rank=7&Refer=top)<br />
-8. [黄渤被防暴力划伤膜背刺](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%B8%A4%E8%A2%AB%E9%98%B2%E6%9A%B4%E5%8A%9B%E5%88%92%E4%BC%A4%E8%86%9C%E8%83%8C%E5%88%BA%23&t=31&band_rank=8&Refer=top)<br />
+7. [黄渤被防暴力划伤膜背刺](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%B8%A4%E8%A2%AB%E9%98%B2%E6%9A%B4%E5%8A%9B%E5%88%92%E4%BC%A4%E8%86%9C%E8%83%8C%E5%88%BA%23&t=31&band_rank=7&Refer=top)<br />
+8. [男子故意1次取1元逼哭柜员](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%95%85%E6%84%8F1%E6%AC%A1%E5%8F%961%E5%85%83%E9%80%BC%E5%93%AD%E6%9F%9C%E5%91%98%23&t=31&band_rank=8&Refer=top)<br />
 9. [花花和叶3岁生日合照](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%8A%B1%E5%92%8C%E5%8F%B63%E5%B2%81%E7%94%9F%E6%97%A5%E5%90%88%E7%85%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -22,7 +22,7 @@
 6. [公司的一个同事和我关系特别好，要辞职了，他的岗位很重要，我和老板的关系也好，我要先跟老板说一声吗?](https://www.zhihu.com/question/609530299)<br />
 7. [香港警察通缉罗冠聪等 8 名乱港分子，每人悬赏 100 万港元，有哪些信息值得关注？](https://www.zhihu.com/question/610144743)<br />
 8. [你对《原神》新公布的枫丹 4.0 版本的 3 位新角色有哪些看法？](https://www.zhihu.com/question/610136771)<br />
-9. [医院实行「年薪制」，主任 30 万、主治 20 万，你怎么看？](https://www.zhihu.com/question/610087179)<br />
+9. [美国投资巨头免费接手乌克兰全部国企，包括能源和电网，哪些信息值得关注？](https://www.zhihu.com/question/610223926)<br />
 
 > 百度  
 
