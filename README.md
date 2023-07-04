@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 04:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 05:00:01</h4></div>
 
 > 微博  
 
@@ -31,9 +31,9 @@
 3. [小学连开3天家长会 教育局：正调查](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E8%BF%9E%E5%BC%803%E5%A4%A9%E5%AE%B6%E9%95%BF%E4%BC%9A+%E6%95%99%E8%82%B2%E5%B1%80%EF%BC%9A%E6%AD%A3%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [江风海韵绘就生态美](https://www.baidu.com/s?wd=%E6%B1%9F%E9%A3%8E%E6%B5%B7%E9%9F%B5%E7%BB%98%E5%B0%B1%E7%94%9F%E6%80%81%E7%BE%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [牵手门涉事公司近期公布核查处理结果](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E6%B6%89%E4%BA%8B%E5%85%AC%E5%8F%B8%E8%BF%91%E6%9C%9F%E5%85%AC%E5%B8%83%E6%A0%B8%E6%9F%A5%E5%A4%84%E7%90%86%E7%BB%93%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [马斯克请来三届UFC格斗冠军当教练](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E8%AF%B7%E6%9D%A5%E4%B8%89%E5%B1%8AUFC%E6%A0%BC%E6%96%97%E5%86%A0%E5%86%9B%E5%BD%93%E6%95%99%E7%BB%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [王毅：头发染得再黄也变不成西方人](https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%EF%BC%9A%E5%A4%B4%E5%8F%91%E6%9F%93%E5%BE%97%E5%86%8D%E9%BB%84%E4%B9%9F%E5%8F%98%E4%B8%8D%E6%88%90%E8%A5%BF%E6%96%B9%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [小孩影厅排泄致退票家长拒赔偿](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A9%E5%BD%B1%E5%8E%85%E6%8E%92%E6%B3%84%E8%87%B4%E9%80%80%E7%A5%A8%E5%AE%B6%E9%95%BF%E6%8B%92%E8%B5%94%E5%81%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [王毅：头发染得再黄也变不成西方人](https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%EF%BC%9A%E5%A4%B4%E5%8F%91%E6%9F%93%E5%BE%97%E5%86%8D%E9%BB%84%E4%B9%9F%E5%8F%98%E4%B8%8D%E6%88%90%E8%A5%BF%E6%96%B9%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [小孩影厅排泄致退票家长拒赔偿](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A9%E5%BD%B1%E5%8E%85%E6%8E%92%E6%B3%84%E8%87%B4%E9%80%80%E7%A5%A8%E5%AE%B6%E9%95%BF%E6%8B%92%E8%B5%94%E5%81%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [德国健身网红拉丝哥离世](https://www.baidu.com/s?wd=%E5%BE%B7%E5%9B%BD%E5%81%A5%E8%BA%AB%E7%BD%91%E7%BA%A2%E6%8B%89%E4%B8%9D%E5%93%A5%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [女生地铁控诉男孩摸屁股被家长反呛](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%9C%B0%E9%93%81%E6%8E%A7%E8%AF%89%E7%94%B7%E5%AD%A9%E6%91%B8%E5%B1%81%E8%82%A1%E8%A2%AB%E5%AE%B6%E9%95%BF%E5%8F%8D%E5%91%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -43,7 +43,7 @@
 3. [小学连开3天家长会 教育局：正调查](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E8%BF%9E%E5%BC%803%E5%A4%A9%E5%AE%B6%E9%95%BF%E4%BC%9A+%E6%95%99%E8%82%B2%E5%B1%80%EF%BC%9A%E6%AD%A3%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [江风海韵绘就生态美](https://www.baidu.com/s?wd=%E6%B1%9F%E9%A3%8E%E6%B5%B7%E9%9F%B5%E7%BB%98%E5%B0%B1%E7%94%9F%E6%80%81%E7%BE%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [牵手门涉事公司近期公布核查处理结果](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E6%B6%89%E4%BA%8B%E5%85%AC%E5%8F%B8%E8%BF%91%E6%9C%9F%E5%85%AC%E5%B8%83%E6%A0%B8%E6%9F%A5%E5%A4%84%E7%90%86%E7%BB%93%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [马斯克请来三届UFC格斗冠军当教练](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E8%AF%B7%E6%9D%A5%E4%B8%89%E5%B1%8AUFC%E6%A0%BC%E6%96%97%E5%86%A0%E5%86%9B%E5%BD%93%E6%95%99%E7%BB%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [王毅：头发染得再黄也变不成西方人](https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%EF%BC%9A%E5%A4%B4%E5%8F%91%E6%9F%93%E5%BE%97%E5%86%8D%E9%BB%84%E4%B9%9F%E5%8F%98%E4%B8%8D%E6%88%90%E8%A5%BF%E6%96%B9%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [小孩影厅排泄致退票家长拒赔偿](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A9%E5%BD%B1%E5%8E%85%E6%8E%92%E6%B3%84%E8%87%B4%E9%80%80%E7%A5%A8%E5%AE%B6%E9%95%BF%E6%8B%92%E8%B5%94%E5%81%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [王毅：头发染得再黄也变不成西方人](https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%EF%BC%9A%E5%A4%B4%E5%8F%91%E6%9F%93%E5%BE%97%E5%86%8D%E9%BB%84%E4%B9%9F%E5%8F%98%E4%B8%8D%E6%88%90%E8%A5%BF%E6%96%B9%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [小孩影厅排泄致退票家长拒赔偿](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A9%E5%BD%B1%E5%8E%85%E6%8E%92%E6%B3%84%E8%87%B4%E9%80%80%E7%A5%A8%E5%AE%B6%E9%95%BF%E6%8B%92%E8%B5%94%E5%81%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [德国健身网红拉丝哥离世](https://www.baidu.com/s?wd=%E5%BE%B7%E5%9B%BD%E5%81%A5%E8%BA%AB%E7%BD%91%E7%BA%A2%E6%8B%89%E4%B8%9D%E5%93%A5%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [女生地铁控诉男孩摸屁股被家长反呛](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%9C%B0%E9%93%81%E6%8E%A7%E8%AF%89%E7%94%B7%E5%AD%A9%E6%91%B8%E5%B1%81%E8%82%A1%E8%A2%AB%E5%AE%B6%E9%95%BF%E5%8F%8D%E5%91%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
