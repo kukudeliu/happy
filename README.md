@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 18:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 18:27:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [男生被要28万8彩礼写信给县长求整治](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E8%A2%AB%E8%A6%8128%E4%B8%878%E5%BD%A9%E7%A4%BC%E5%86%99%E4%BF%A1%E7%BB%99%E5%8E%BF%E9%95%BF%E6%B1%82%E6%95%B4%E6%B2%BB%23&t=31&band_rank=4&Refer=top)<br />
 5. [同济520宿舍四位女生全员上岸名校](https://s.weibo.com/weibo?q=%23%E5%90%8C%E6%B5%8E520%E5%AE%BF%E8%88%8D%E5%9B%9B%E4%BD%8D%E5%A5%B3%E7%94%9F%E5%85%A8%E5%91%98%E4%B8%8A%E5%B2%B8%E5%90%8D%E6%A0%A1%23&t=31&band_rank=5&Refer=top)<br />
 6. [秦牛正威改名秦语鹿](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E7%89%9B%E6%AD%A3%E5%A8%81%E6%94%B9%E5%90%8D%E7%A7%A6%E8%AF%AD%E9%B9%BF%23&t=31&band_rank=6&Refer=top)<br />
-7. [广东人正式被确诊为依萍](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E4%BA%BA%E6%AD%A3%E5%BC%8F%E8%A2%AB%E7%A1%AE%E8%AF%8A%E4%B8%BA%E4%BE%9D%E8%90%8D%23&t=31&band_rank=7&Refer=top)<br />
-8. [假装发错消息给喜欢的人](https://s.weibo.com/weibo?q=%23%E5%81%87%E8%A3%85%E5%8F%91%E9%94%99%E6%B6%88%E6%81%AF%E7%BB%99%E5%96%9C%E6%AC%A2%E7%9A%84%E4%BA%BA%23&t=31&band_rank=8&Refer=top)<br />
+7. [假装发错消息给喜欢的人](https://s.weibo.com/weibo?q=%23%E5%81%87%E8%A3%85%E5%8F%91%E9%94%99%E6%B6%88%E6%81%AF%E7%BB%99%E5%96%9C%E6%AC%A2%E7%9A%84%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
+8. [广东人正式被确诊为依萍](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E4%BA%BA%E6%AD%A3%E5%BC%8F%E8%A2%AB%E7%A1%AE%E8%AF%8A%E4%B8%BA%E4%BE%9D%E8%90%8D%23&t=31&band_rank=8&Refer=top)<br />
 9. [健身网红拉丝哥离世](https://s.weibo.com/weibo?q=%23%E5%81%A5%E8%BA%AB%E7%BD%91%E7%BA%A2%E6%8B%89%E4%B8%9D%E5%93%A5%E7%A6%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
