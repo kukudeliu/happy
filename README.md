@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 20:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 20:11:01</h4></div>
 
 > 微博  
 
@@ -19,8 +19,8 @@
 3. [3 名员工盗用前公司游戏代码上线新游戏半年流水 1.5 亿，此案有何警示意义？](https://www.zhihu.com/question/609251189)<br />
 4. [为什么中国不自己开发一个汉字的电脑，底层用汉字编写，有一套汉字的汇编语言、高级语言？](https://www.zhihu.com/question/520064736)<br />
 5. [朝鲜女孩拍视频介绍平壤，韩国以「宣传朝鲜体制」为由屏蔽，谷歌封号，透露了哪些信息？](https://www.zhihu.com/question/610162816)<br />
-6. [香港警察通缉罗冠聪等 8 名乱港分子，每人悬赏 100 万港元，有哪些信息值得关注？](https://www.zhihu.com/question/610144743)<br />
-7. [泰山那么矮，为啥是五岳之首？](https://www.zhihu.com/question/36468499)<br />
+6. [泰山那么矮，为啥是五岳之首？](https://www.zhihu.com/question/36468499)<br />
+7. [香港警察通缉罗冠聪等 8 名乱港分子，每人悬赏 100 万港元，有哪些信息值得关注？](https://www.zhihu.com/question/610144743)<br />
 8. [为什么公司领导喜欢效率低、爱加班的员工，却不喜欢效率高、准时下班的员工？](https://www.zhihu.com/question/600312394)<br />
 9. [男子故意 1 次取 1 元逼哭柜员称「非把你开除！」，如何看待该男子的做法？](https://www.zhihu.com/question/610236031)<br />
 
