@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 02:23:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 02:24:01</h4></div>
 
 > 微博  
 
@@ -31,10 +31,10 @@
 3. [小学连开3天家长会 教育局：正调查](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E8%BF%9E%E5%BC%803%E5%A4%A9%E5%AE%B6%E9%95%BF%E4%BC%9A+%E6%95%99%E8%82%B2%E5%B1%80%EF%BC%9A%E6%AD%A3%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [江风海韵绘就生态美](https://www.baidu.com/s?wd=%E6%B1%9F%E9%A3%8E%E6%B5%B7%E9%9F%B5%E7%BB%98%E5%B0%B1%E7%94%9F%E6%80%81%E7%BE%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [牵手门涉事公司近期公布核查处理结果](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E6%B6%89%E4%BA%8B%E5%85%AC%E5%8F%B8%E8%BF%91%E6%9C%9F%E5%85%AC%E5%B8%83%E6%A0%B8%E6%9F%A5%E5%A4%84%E7%90%86%E7%BB%93%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [马克龙称法国骚乱“高峰期”已过](https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%8B%E9%BE%99%E7%A7%B0%E6%B3%95%E5%9B%BD%E9%AA%9A%E4%B9%B1%E2%80%9C%E9%AB%98%E5%B3%B0%E6%9C%9F%E2%80%9D%E5%B7%B2%E8%BF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [研究生应聘垃圾专管员 街道回应](https://www.baidu.com/s?wd=%E7%A0%94%E7%A9%B6%E7%94%9F%E5%BA%94%E8%81%98%E5%9E%83%E5%9C%BE%E4%B8%93%E7%AE%A1%E5%91%98+%E8%A1%97%E9%81%93%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [沈阳发现一例猴痘病例](https://www.baidu.com/s?wd=%E6%B2%88%E9%98%B3%E5%8F%91%E7%8E%B0%E4%B8%80%E4%BE%8B%E7%8C%B4%E7%97%98%E7%97%85%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [许家印提恒大足球俱乐部目标](https://www.baidu.com/s?wd=%E8%AE%B8%E5%AE%B6%E5%8D%B0%E6%8F%90%E6%81%92%E5%A4%A7%E8%B6%B3%E7%90%83%E4%BF%B1%E4%B9%90%E9%83%A8%E7%9B%AE%E6%A0%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [炎亚纶节目正脸镜头被删](https://www.baidu.com/s?wd=%E7%82%8E%E4%BA%9A%E7%BA%B6%E8%8A%82%E7%9B%AE%E6%AD%A3%E8%84%B8%E9%95%9C%E5%A4%B4%E8%A2%AB%E5%88%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [王毅：头发染得再黄也变不成西方人](https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%EF%BC%9A%E5%A4%B4%E5%8F%91%E6%9F%93%E5%BE%97%E5%86%8D%E9%BB%84%E4%B9%9F%E5%8F%98%E4%B8%8D%E6%88%90%E8%A5%BF%E6%96%B9%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [日本札幌一酒店惊现无头男尸](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%9C%AD%E5%B9%8C%E4%B8%80%E9%85%92%E5%BA%97%E6%83%8A%E7%8E%B0%E6%97%A0%E5%A4%B4%E7%94%B7%E5%B0%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [胡锡进评清北遭舆论攻击：太过分](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%E8%AF%84%E6%B8%85%E5%8C%97%E9%81%AD%E8%88%86%E8%AE%BA%E6%94%BB%E5%87%BB%EF%BC%9A%E5%A4%AA%E8%BF%87%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [小学连开3天家长会 教育局：正调查](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E8%BF%9E%E5%BC%803%E5%A4%A9%E5%AE%B6%E9%95%BF%E4%BC%9A+%E6%95%99%E8%82%B2%E5%B1%80%EF%BC%9A%E6%AD%A3%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [江风海韵绘就生态美](https://www.baidu.com/s?wd=%E6%B1%9F%E9%A3%8E%E6%B5%B7%E9%9F%B5%E7%BB%98%E5%B0%B1%E7%94%9F%E6%80%81%E7%BE%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [牵手门涉事公司近期公布核查处理结果](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E6%B6%89%E4%BA%8B%E5%85%AC%E5%8F%B8%E8%BF%91%E6%9C%9F%E5%85%AC%E5%B8%83%E6%A0%B8%E6%9F%A5%E5%A4%84%E7%90%86%E7%BB%93%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [马克龙称法国骚乱“高峰期”已过](https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%8B%E9%BE%99%E7%A7%B0%E6%B3%95%E5%9B%BD%E9%AA%9A%E4%B9%B1%E2%80%9C%E9%AB%98%E5%B3%B0%E6%9C%9F%E2%80%9D%E5%B7%B2%E8%BF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [研究生应聘垃圾专管员 街道回应](https://www.baidu.com/s?wd=%E7%A0%94%E7%A9%B6%E7%94%9F%E5%BA%94%E8%81%98%E5%9E%83%E5%9C%BE%E4%B8%93%E7%AE%A1%E5%91%98+%E8%A1%97%E9%81%93%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [沈阳发现一例猴痘病例](https://www.baidu.com/s?wd=%E6%B2%88%E9%98%B3%E5%8F%91%E7%8E%B0%E4%B8%80%E4%BE%8B%E7%8C%B4%E7%97%98%E7%97%85%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [许家印提恒大足球俱乐部目标](https://www.baidu.com/s?wd=%E8%AE%B8%E5%AE%B6%E5%8D%B0%E6%8F%90%E6%81%92%E5%A4%A7%E8%B6%B3%E7%90%83%E4%BF%B1%E4%B9%90%E9%83%A8%E7%9B%AE%E6%A0%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [炎亚纶节目正脸镜头被删](https://www.baidu.com/s?wd=%E7%82%8E%E4%BA%9A%E7%BA%B6%E8%8A%82%E7%9B%AE%E6%AD%A3%E8%84%B8%E9%95%9C%E5%A4%B4%E8%A2%AB%E5%88%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [王毅：头发染得再黄也变不成西方人](https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%EF%BC%9A%E5%A4%B4%E5%8F%91%E6%9F%93%E5%BE%97%E5%86%8D%E9%BB%84%E4%B9%9F%E5%8F%98%E4%B8%8D%E6%88%90%E8%A5%BF%E6%96%B9%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [日本札幌一酒店惊现无头男尸](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%9C%AD%E5%B9%8C%E4%B8%80%E9%85%92%E5%BA%97%E6%83%8A%E7%8E%B0%E6%97%A0%E5%A4%B4%E7%94%B7%E5%B0%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [胡锡进评清北遭舆论攻击：太过分](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%E8%AF%84%E6%B8%85%E5%8C%97%E9%81%AD%E8%88%86%E8%AE%BA%E6%94%BB%E5%87%BB%EF%BC%9A%E5%A4%AA%E8%BF%87%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
