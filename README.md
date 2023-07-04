@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 12:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 12:42:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [婚检后才知道自己有蚕豆病](https://s.weibo.com/weibo?q=%23%E5%A9%9A%E6%A3%80%E5%90%8E%E6%89%8D%E7%9F%A5%E9%81%93%E8%87%AA%E5%B7%B1%E6%9C%89%E8%9A%95%E8%B1%86%E7%97%85%23&t=31&band_rank=5&Refer=top)<br />
 6. [男子故意1次取1元逼哭柜员](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%95%85%E6%84%8F1%E6%AC%A1%E5%8F%961%E5%85%83%E9%80%BC%E5%93%AD%E6%9F%9C%E5%91%98%23&t=31&band_rank=6&Refer=top)<br />
 7. [花花和叶3岁生日合照](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%8A%B1%E5%92%8C%E5%8F%B63%E5%B2%81%E7%94%9F%E6%97%A5%E5%90%88%E7%85%A7%23&t=31&band_rank=7&Refer=top)<br />
-8. [爱说笑死的人要注意你的心脏了](https://s.weibo.com/weibo?q=%23%E7%88%B1%E8%AF%B4%E7%AC%91%E6%AD%BB%E7%9A%84%E4%BA%BA%E8%A6%81%E6%B3%A8%E6%84%8F%E4%BD%A0%E7%9A%84%E5%BF%83%E8%84%8F%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [杭州女子买彩票误打误撞中了一千万](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%A5%B3%E5%AD%90%E4%B9%B0%E5%BD%A9%E7%A5%A8%E8%AF%AF%E6%89%93%E8%AF%AF%E6%92%9E%E4%B8%AD%E4%BA%86%E4%B8%80%E5%8D%83%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
+8. [杭州女子买彩票误打误撞中了一千万](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%A5%B3%E5%AD%90%E4%B9%B0%E5%BD%A9%E7%A5%A8%E8%AF%AF%E6%89%93%E8%AF%AF%E6%92%9E%E4%B8%AD%E4%BA%86%E4%B8%80%E5%8D%83%E4%B8%87%23&t=31&band_rank=8&Refer=top)<br />
+9. [爱说笑死的人要注意你的心脏了](https://s.weibo.com/weibo?q=%23%E7%88%B1%E8%AF%B4%E7%AC%91%E6%AD%BB%E7%9A%84%E4%BA%BA%E8%A6%81%E6%B3%A8%E6%84%8F%E4%BD%A0%E7%9A%84%E5%BF%83%E8%84%8F%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
