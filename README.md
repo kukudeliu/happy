@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 20:07:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 20:08:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [发现自己误成间谍帮手后主动投案](https://s.weibo.com/weibo?q=%23%E5%8F%91%E7%8E%B0%E8%87%AA%E5%B7%B1%E8%AF%AF%E6%88%90%E9%97%B4%E8%B0%8D%E5%B8%AE%E6%89%8B%E5%90%8E%E4%B8%BB%E5%8A%A8%E6%8A%95%E6%A1%88%23&t=31&band_rank=5&Refer=top)<br />
 6. [男生被要28万8彩礼写信给县长求整治](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E8%A2%AB%E8%A6%8128%E4%B8%878%E5%BD%A9%E7%A4%BC%E5%86%99%E4%BF%A1%E7%BB%99%E5%8E%BF%E9%95%BF%E6%B1%82%E6%95%B4%E6%B2%BB%23&t=31&band_rank=6&Refer=top)<br />
 7. [古偶妆造天花板](https://s.weibo.com/weibo?q=%23%E5%8F%A4%E5%81%B6%E5%A6%86%E9%80%A0%E5%A4%A9%E8%8A%B1%E6%9D%BF%23&t=31&band_rank=7&Refer=top)<br />
-8. [欧豪有12部待播剧](https://s.weibo.com/weibo?q=%23%E6%AC%A7%E8%B1%AA%E6%9C%8912%E9%83%A8%E5%BE%85%E6%92%AD%E5%89%A7%23&t=31&band_rank=8&Refer=top)<br />
-9. [把苹果咬成我买不起的样子](https://s.weibo.com/weibo?q=%E6%8A%8A%E8%8B%B9%E6%9E%9C%E5%92%AC%E6%88%90%E6%88%91%E4%B9%B0%E4%B8%8D%E8%B5%B7%E7%9A%84%E6%A0%B7%E5%AD%90&t=31&band_rank=9&Refer=top)<br />
+8. [朱一龙 散播清澈的好笑](https://s.weibo.com/weibo?q=%E6%9C%B1%E4%B8%80%E9%BE%99%20%E6%95%A3%E6%92%AD%E6%B8%85%E6%BE%88%E7%9A%84%E5%A5%BD%E7%AC%91&t=31&band_rank=8&Refer=top)<br />
+9. [公积金年度结息到账](https://s.weibo.com/weibo?q=%23%E5%85%AC%E7%A7%AF%E9%87%91%E5%B9%B4%E5%BA%A6%E7%BB%93%E6%81%AF%E5%88%B0%E8%B4%A6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
