@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 23:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 23:15:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [EDG 啃老](https://s.weibo.com/weibo?q=EDG%20%E5%95%83%E8%80%81&t=31&band_rank=6&Refer=top)<br />
 7. [周也 孟子义](https://s.weibo.com/weibo?q=%E5%91%A8%E4%B9%9F%20%E5%AD%9F%E5%AD%90%E4%B9%89&t=31&band_rank=7&Refer=top)<br />
 8. [不容易近视的人 睫状肌](https://s.weibo.com/weibo?q=%E4%B8%8D%E5%AE%B9%E6%98%93%E8%BF%91%E8%A7%86%E7%9A%84%E4%BA%BA%20%E7%9D%AB%E7%8A%B6%E8%82%8C&t=31&band_rank=8&Refer=top)<br />
-9. [痞幼](https://s.weibo.com/weibo?q=%E7%97%9E%E5%B9%BC&t=31&band_rank=9&Refer=top)<br />
+9. [美依礼芽被蜗牛吓到尖叫](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%BE%9D%E7%A4%BC%E8%8A%BD%E8%A2%AB%E8%9C%97%E7%89%9B%E5%90%93%E5%88%B0%E5%B0%96%E5%8F%AB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -31,10 +31,10 @@
 3. [小学连开3天家长会 教育局：正调查](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E8%BF%9E%E5%BC%803%E5%A4%A9%E5%AE%B6%E9%95%BF%E4%BC%9A+%E6%95%99%E8%82%B2%E5%B1%80%EF%BC%9A%E6%AD%A3%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [江风海韵绘就生态美](https://www.baidu.com/s?wd=%E6%B1%9F%E9%A3%8E%E6%B5%B7%E9%9F%B5%E7%BB%98%E5%B0%B1%E7%94%9F%E6%80%81%E7%BE%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [牵手门涉事公司近期公布核查处理结果](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E6%B6%89%E4%BA%8B%E5%85%AC%E5%8F%B8%E8%BF%91%E6%9C%9F%E5%85%AC%E5%B8%83%E6%A0%B8%E6%9F%A5%E5%A4%84%E7%90%86%E7%BB%93%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [官方回应山东一辅警杀害2名女性](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%B1%B1%E4%B8%9C%E4%B8%80%E8%BE%85%E8%AD%A6%E6%9D%80%E5%AE%B32%E5%90%8D%E5%A5%B3%E6%80%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [东京一店长闻到煤气味后点了根烟](https://www.baidu.com/s?wd=%E4%B8%9C%E4%BA%AC%E4%B8%80%E5%BA%97%E9%95%BF%E9%97%BB%E5%88%B0%E7%85%A4%E6%B0%94%E5%91%B3%E5%90%8E%E7%82%B9%E4%BA%86%E6%A0%B9%E7%83%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女生遭8名未成年人欺凌 2人被刑拘](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%81%AD8%E5%90%8D%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E6%AC%BA%E5%87%8C+2%E4%BA%BA%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [痞幼：吃瓜吃到自己头上](https://www.baidu.com/s?wd=%E7%97%9E%E5%B9%BC%EF%BC%9A%E5%90%83%E7%93%9C%E5%90%83%E5%88%B0%E8%87%AA%E5%B7%B1%E5%A4%B4%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [东京一店长闻到煤气味后点了根烟](https://www.baidu.com/s?wd=%E4%B8%9C%E4%BA%AC%E4%B8%80%E5%BA%97%E9%95%BF%E9%97%BB%E5%88%B0%E7%85%A4%E6%B0%94%E5%91%B3%E5%90%8E%E7%82%B9%E4%BA%86%E6%A0%B9%E7%83%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女生遭8名未成年人欺凌 2人被刑拘](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%81%AD8%E5%90%8D%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E6%AC%BA%E5%87%8C+2%E4%BA%BA%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [痞幼：吃瓜吃到自己头上](https://www.baidu.com/s?wd=%E7%97%9E%E5%B9%BC%EF%BC%9A%E5%90%83%E7%93%9C%E5%90%83%E5%88%B0%E8%87%AA%E5%B7%B1%E5%A4%B4%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男生被要28万8彩礼写信给县长求整治](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E8%A2%AB%E8%A6%8128%E4%B8%878%E5%BD%A9%E7%A4%BC%E5%86%99%E4%BF%A1%E7%BB%99%E5%8E%BF%E9%95%BF%E6%B1%82%E6%95%B4%E6%B2%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [小学连开3天家长会 教育局：正调查](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E8%BF%9E%E5%BC%803%E5%A4%A9%E5%AE%B6%E9%95%BF%E4%BC%9A+%E6%95%99%E8%82%B2%E5%B1%80%EF%BC%9A%E6%AD%A3%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [江风海韵绘就生态美](https://www.baidu.com/s?wd=%E6%B1%9F%E9%A3%8E%E6%B5%B7%E9%9F%B5%E7%BB%98%E5%B0%B1%E7%94%9F%E6%80%81%E7%BE%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [牵手门涉事公司近期公布核查处理结果](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E6%B6%89%E4%BA%8B%E5%85%AC%E5%8F%B8%E8%BF%91%E6%9C%9F%E5%85%AC%E5%B8%83%E6%A0%B8%E6%9F%A5%E5%A4%84%E7%90%86%E7%BB%93%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [官方回应山东一辅警杀害2名女性](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%B1%B1%E4%B8%9C%E4%B8%80%E8%BE%85%E8%AD%A6%E6%9D%80%E5%AE%B32%E5%90%8D%E5%A5%B3%E6%80%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [东京一店长闻到煤气味后点了根烟](https://www.baidu.com/s?wd=%E4%B8%9C%E4%BA%AC%E4%B8%80%E5%BA%97%E9%95%BF%E9%97%BB%E5%88%B0%E7%85%A4%E6%B0%94%E5%91%B3%E5%90%8E%E7%82%B9%E4%BA%86%E6%A0%B9%E7%83%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女生遭8名未成年人欺凌 2人被刑拘](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%81%AD8%E5%90%8D%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E6%AC%BA%E5%87%8C+2%E4%BA%BA%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [痞幼：吃瓜吃到自己头上](https://www.baidu.com/s?wd=%E7%97%9E%E5%B9%BC%EF%BC%9A%E5%90%83%E7%93%9C%E5%90%83%E5%88%B0%E8%87%AA%E5%B7%B1%E5%A4%B4%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [东京一店长闻到煤气味后点了根烟](https://www.baidu.com/s?wd=%E4%B8%9C%E4%BA%AC%E4%B8%80%E5%BA%97%E9%95%BF%E9%97%BB%E5%88%B0%E7%85%A4%E6%B0%94%E5%91%B3%E5%90%8E%E7%82%B9%E4%BA%86%E6%A0%B9%E7%83%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女生遭8名未成年人欺凌 2人被刑拘](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%81%AD8%E5%90%8D%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E6%AC%BA%E5%87%8C+2%E4%BA%BA%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [痞幼：吃瓜吃到自己头上](https://www.baidu.com/s?wd=%E7%97%9E%E5%B9%BC%EF%BC%9A%E5%90%83%E7%93%9C%E5%90%83%E5%88%B0%E8%87%AA%E5%B7%B1%E5%A4%B4%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男生被要28万8彩礼写信给县长求整治](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E8%A2%AB%E8%A6%8128%E4%B8%878%E5%BD%A9%E7%A4%BC%E5%86%99%E4%BF%A1%E7%BB%99%E5%8E%BF%E9%95%BF%E6%B1%82%E6%95%B4%E6%B2%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
