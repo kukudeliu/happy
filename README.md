@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 15:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 15:09:02</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [金星吐槽女明星走红毯捂胸口](https://www.baidu.com/s?wd=%E9%87%91%E6%98%9F%E5%90%90%E6%A7%BD%E5%A5%B3%E6%98%8E%E6%98%9F%E8%B5%B0%E7%BA%A2%E6%AF%AF%E6%8D%82%E8%83%B8%E5%8F%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [媒体：“被逼吃屎”是怎么和解的？](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E2%80%9C%E8%A2%AB%E9%80%BC%E5%90%83%E5%B1%8E%E2%80%9D%E6%98%AF%E6%80%8E%E4%B9%88%E5%92%8C%E8%A7%A3%E7%9A%84%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [网友称看消失的她时发现靠背有针](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B0%E7%9C%8B%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E6%97%B6%E5%8F%91%E7%8E%B0%E9%9D%A0%E8%83%8C%E6%9C%89%E9%92%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [高温叠加少雨 北方2地出现特旱](https://www.baidu.com/s?wd=%E9%AB%98%E6%B8%A9%E5%8F%A0%E5%8A%A0%E5%B0%91%E9%9B%A8+%E5%8C%97%E6%96%B92%E5%9C%B0%E5%87%BA%E7%8E%B0%E7%89%B9%E6%97%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [iPhone15及Plus新增青绿色](https://www.baidu.com/s?wd=iPhone15%E5%8F%8APlus%E6%96%B0%E5%A2%9E%E9%9D%92%E7%BB%BF%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [金星吐槽女明星走红毯捂胸口](https://www.baidu.com/s?wd=%E9%87%91%E6%98%9F%E5%90%90%E6%A7%BD%E5%A5%B3%E6%98%8E%E6%98%9F%E8%B5%B0%E7%BA%A2%E6%AF%AF%E6%8D%82%E8%83%B8%E5%8F%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [媒体：“被逼吃屎”是怎么和解的？](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E2%80%9C%E8%A2%AB%E9%80%BC%E5%90%83%E5%B1%8E%E2%80%9D%E6%98%AF%E6%80%8E%E4%B9%88%E5%92%8C%E8%A7%A3%E7%9A%84%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [网友称看消失的她时发现靠背有针](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B0%E7%9C%8B%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E6%97%B6%E5%8F%91%E7%8E%B0%E9%9D%A0%E8%83%8C%E6%9C%89%E9%92%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [高温叠加少雨 北方2地出现特旱](https://www.baidu.com/s?wd=%E9%AB%98%E6%B8%A9%E5%8F%A0%E5%8A%A0%E5%B0%91%E9%9B%A8+%E5%8C%97%E6%96%B92%E5%9C%B0%E5%87%BA%E7%8E%B0%E7%89%B9%E6%97%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [iPhone15及Plus新增青绿色](https://www.baidu.com/s?wd=iPhone15%E5%8F%8APlus%E6%96%B0%E5%A2%9E%E9%9D%92%E7%BB%BF%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
