@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 10:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 10:02:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [花花生日](https://s.weibo.com/weibo?q=%E8%8A%B1%E8%8A%B1%E7%94%9F%E6%97%A5&t=31&band_rank=6&Refer=top)<br />
 7. [消失的她塑料情头](https://s.weibo.com/weibo?q=%23%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E5%A1%91%E6%96%99%E6%83%85%E5%A4%B4%23&t=31&band_rank=7&Refer=top)<br />
 8. [十多年前买的绿萝爬满了办公室](https://s.weibo.com/weibo?q=%E5%8D%81%E5%A4%9A%E5%B9%B4%E5%89%8D%E4%B9%B0%E7%9A%84%E7%BB%BF%E8%90%9D%E7%88%AC%E6%BB%A1%E4%BA%86%E5%8A%9E%E5%85%AC%E5%AE%A4&t=31&band_rank=8&Refer=top)<br />
-9. [369](https://s.weibo.com/weibo?q=369&t=31&band_rank=9&Refer=top)<br />
+9. [王楚钦世界排名第一](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E4%B8%96%E7%95%8C%E6%8E%92%E5%90%8D%E7%AC%AC%E4%B8%80%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
