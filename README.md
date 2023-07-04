@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 09:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 09:29:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [男子不满柜员询问取款用途1次取1元](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%8D%E6%BB%A1%E6%9F%9C%E5%91%98%E8%AF%A2%E9%97%AE%E5%8F%96%E6%AC%BE%E7%94%A8%E9%80%941%E6%AC%A1%E5%8F%961%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [超7成年轻人存款不足10万](https://www.baidu.com/s?wd=%E8%B6%857%E6%88%90%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%AD%98%E6%AC%BE%E4%B8%8D%E8%B6%B310%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [工人高温修空调女子留其吃饭](https://www.baidu.com/s?wd=%E5%B7%A5%E4%BA%BA%E9%AB%98%E6%B8%A9%E4%BF%AE%E7%A9%BA%E8%B0%83%E5%A5%B3%E5%AD%90%E7%95%99%E5%85%B6%E5%90%83%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [13岁被拐女子向人贩子索赔被驳](https://www.baidu.com/s?wd=13%E5%B2%81%E8%A2%AB%E6%8B%90%E5%A5%B3%E5%AD%90%E5%90%91%E4%BA%BA%E8%B4%A9%E5%AD%90%E7%B4%A2%E8%B5%94%E8%A2%AB%E9%A9%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [中国侨胞夫妻在刚果（金）遭枪杀](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BE%A8%E8%83%9E%E5%A4%AB%E5%A6%BB%E5%9C%A8%E5%88%9A%E6%9E%9C%EF%BC%88%E9%87%91%EF%BC%89%E9%81%AD%E6%9E%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [男子不满柜员询问取款用途1次取1元](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%8D%E6%BB%A1%E6%9F%9C%E5%91%98%E8%AF%A2%E9%97%AE%E5%8F%96%E6%AC%BE%E7%94%A8%E9%80%941%E6%AC%A1%E5%8F%961%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [超7成年轻人存款不足10万](https://www.baidu.com/s?wd=%E8%B6%857%E6%88%90%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%AD%98%E6%AC%BE%E4%B8%8D%E8%B6%B310%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [工人高温修空调女子留其吃饭](https://www.baidu.com/s?wd=%E5%B7%A5%E4%BA%BA%E9%AB%98%E6%B8%A9%E4%BF%AE%E7%A9%BA%E8%B0%83%E5%A5%B3%E5%AD%90%E7%95%99%E5%85%B6%E5%90%83%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [13岁被拐女子向人贩子索赔被驳](https://www.baidu.com/s?wd=13%E5%B2%81%E8%A2%AB%E6%8B%90%E5%A5%B3%E5%AD%90%E5%90%91%E4%BA%BA%E8%B4%A9%E5%AD%90%E7%B4%A2%E8%B5%94%E8%A2%AB%E9%A9%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [中国侨胞夫妻在刚果（金）遭枪杀](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BE%A8%E8%83%9E%E5%A4%AB%E5%A6%BB%E5%9C%A8%E5%88%9A%E6%9E%9C%EF%BC%88%E9%87%91%EF%BC%89%E9%81%AD%E6%9E%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
