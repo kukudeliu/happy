@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 16:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 16:19:01</h4></div>
 
 > 微博  
 
@@ -31,10 +31,10 @@
 3. [沈阳发现一例猴痘病例](https://www.baidu.com/s?wd=%E6%B2%88%E9%98%B3%E5%8F%91%E7%8E%B0%E4%B8%80%E4%BE%8B%E7%8C%B4%E7%97%98%E7%97%85%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [激活乡土文化生命力](https://www.baidu.com/s?wd=%E6%BF%80%E6%B4%BB%E4%B9%A1%E5%9C%9F%E6%96%87%E5%8C%96%E7%94%9F%E5%91%BD%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [广东人正式被确诊为依萍](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%BA%BA%E6%AD%A3%E5%BC%8F%E8%A2%AB%E7%A1%AE%E8%AF%8A%E4%B8%BA%E4%BE%9D%E8%90%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [高温叠加少雨 北方2地出现特旱](https://www.baidu.com/s?wd=%E9%AB%98%E6%B8%A9%E5%8F%A0%E5%8A%A0%E5%B0%91%E9%9B%A8+%E5%8C%97%E6%96%B92%E5%9C%B0%E5%87%BA%E7%8E%B0%E7%89%B9%E6%97%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [乌副防长称不能买中国无人机](https://www.baidu.com/s?wd=%E4%B9%8C%E5%89%AF%E9%98%B2%E9%95%BF%E7%A7%B0%E4%B8%8D%E8%83%BD%E4%B9%B0%E4%B8%AD%E5%9B%BD%E6%97%A0%E4%BA%BA%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [落马副市长妻子：往婆婆头顶浇水](https://www.baidu.com/s?wd=%E8%90%BD%E9%A9%AC%E5%89%AF%E5%B8%82%E9%95%BF%E5%A6%BB%E5%AD%90%EF%BC%9A%E5%BE%80%E5%A9%86%E5%A9%86%E5%A4%B4%E9%A1%B6%E6%B5%87%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [成都一小学组织3天家长会](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E4%B8%80%E5%B0%8F%E5%AD%A6%E7%BB%84%E7%BB%873%E5%A4%A9%E5%AE%B6%E9%95%BF%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [男生被要28万8彩礼写信给县长求整治](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E8%A2%AB%E8%A6%8128%E4%B8%878%E5%BD%A9%E7%A4%BC%E5%86%99%E4%BF%A1%E7%BB%99%E5%8E%BF%E9%95%BF%E6%B1%82%E6%95%B4%E6%B2%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [高温叠加少雨 北方2地出现特旱](https://www.baidu.com/s?wd=%E9%AB%98%E6%B8%A9%E5%8F%A0%E5%8A%A0%E5%B0%91%E9%9B%A8+%E5%8C%97%E6%96%B92%E5%9C%B0%E5%87%BA%E7%8E%B0%E7%89%B9%E6%97%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [乌副防长称不能买中国无人机](https://www.baidu.com/s?wd=%E4%B9%8C%E5%89%AF%E9%98%B2%E9%95%BF%E7%A7%B0%E4%B8%8D%E8%83%BD%E4%B9%B0%E4%B8%AD%E5%9B%BD%E6%97%A0%E4%BA%BA%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [落马副市长妻子：往婆婆头顶浇水](https://www.baidu.com/s?wd=%E8%90%BD%E9%A9%AC%E5%89%AF%E5%B8%82%E9%95%BF%E5%A6%BB%E5%AD%90%EF%BC%9A%E5%BE%80%E5%A9%86%E5%A9%86%E5%A4%B4%E9%A1%B6%E6%B5%87%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [沈阳发现一例猴痘病例](https://www.baidu.com/s?wd=%E6%B2%88%E9%98%B3%E5%8F%91%E7%8E%B0%E4%B8%80%E4%BE%8B%E7%8C%B4%E7%97%98%E7%97%85%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [激活乡土文化生命力](https://www.baidu.com/s?wd=%E6%BF%80%E6%B4%BB%E4%B9%A1%E5%9C%9F%E6%96%87%E5%8C%96%E7%94%9F%E5%91%BD%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [广东人正式被确诊为依萍](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%BA%BA%E6%AD%A3%E5%BC%8F%E8%A2%AB%E7%A1%AE%E8%AF%8A%E4%B8%BA%E4%BE%9D%E8%90%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [高温叠加少雨 北方2地出现特旱](https://www.baidu.com/s?wd=%E9%AB%98%E6%B8%A9%E5%8F%A0%E5%8A%A0%E5%B0%91%E9%9B%A8+%E5%8C%97%E6%96%B92%E5%9C%B0%E5%87%BA%E7%8E%B0%E7%89%B9%E6%97%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [乌副防长称不能买中国无人机](https://www.baidu.com/s?wd=%E4%B9%8C%E5%89%AF%E9%98%B2%E9%95%BF%E7%A7%B0%E4%B8%8D%E8%83%BD%E4%B9%B0%E4%B8%AD%E5%9B%BD%E6%97%A0%E4%BA%BA%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [落马副市长妻子：往婆婆头顶浇水](https://www.baidu.com/s?wd=%E8%90%BD%E9%A9%AC%E5%89%AF%E5%B8%82%E9%95%BF%E5%A6%BB%E5%AD%90%EF%BC%9A%E5%BE%80%E5%A9%86%E5%A9%86%E5%A4%B4%E9%A1%B6%E6%B5%87%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [成都一小学组织3天家长会](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E4%B8%80%E5%B0%8F%E5%AD%A6%E7%BB%84%E7%BB%873%E5%A4%A9%E5%AE%B6%E9%95%BF%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [男生被要28万8彩礼写信给县长求整治](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E8%A2%AB%E8%A6%8128%E4%B8%878%E5%BD%A9%E7%A4%BC%E5%86%99%E4%BF%A1%E7%BB%99%E5%8E%BF%E9%95%BF%E6%B1%82%E6%95%B4%E6%B2%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [高温叠加少雨 北方2地出现特旱](https://www.baidu.com/s?wd=%E9%AB%98%E6%B8%A9%E5%8F%A0%E5%8A%A0%E5%B0%91%E9%9B%A8+%E5%8C%97%E6%96%B92%E5%9C%B0%E5%87%BA%E7%8E%B0%E7%89%B9%E6%97%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [乌副防长称不能买中国无人机](https://www.baidu.com/s?wd=%E4%B9%8C%E5%89%AF%E9%98%B2%E9%95%BF%E7%A7%B0%E4%B8%8D%E8%83%BD%E4%B9%B0%E4%B8%AD%E5%9B%BD%E6%97%A0%E4%BA%BA%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [落马副市长妻子：往婆婆头顶浇水](https://www.baidu.com/s?wd=%E8%90%BD%E9%A9%AC%E5%89%AF%E5%B8%82%E9%95%BF%E5%A6%BB%E5%AD%90%EF%BC%9A%E5%BE%80%E5%A9%86%E5%A9%86%E5%A4%B4%E9%A1%B6%E6%B5%87%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
