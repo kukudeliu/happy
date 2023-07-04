@@ -1,10 +1,10 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 08:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 08:40:01</h4></div>
 
 > 微博  
 
 1. [369](https://s.weibo.com/weibo?q=369&t=31&band_rank=1&Refer=top)<br />
-2. [JackeyLove退出亚运会名单](https://s.weibo.com/weibo?q=%23JackeyLove%E9%80%80%E5%87%BA%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%90%8D%E5%8D%95%23&t=31&band_rank=2&Refer=top)<br />
-3. [因推特限流大量画师涌入微博](https://s.weibo.com/weibo?q=%E5%9B%A0%E6%8E%A8%E7%89%B9%E9%99%90%E6%B5%81%E5%A4%A7%E9%87%8F%E7%94%BB%E5%B8%88%E6%B6%8C%E5%85%A5%E5%BE%AE%E5%8D%9A&t=31&band_rank=3&Refer=top)<br />
+2. [因推特限流大量画师涌入微博](https://s.weibo.com/weibo?q=%E5%9B%A0%E6%8E%A8%E7%89%B9%E9%99%90%E6%B5%81%E5%A4%A7%E9%87%8F%E7%94%BB%E5%B8%88%E6%B6%8C%E5%85%A5%E5%BE%AE%E5%8D%9A&t=31&band_rank=2&Refer=top)<br />
+3. [JackeyLove退出亚运会名单](https://s.weibo.com/weibo?q=%23JackeyLove%E9%80%80%E5%87%BA%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%90%8D%E5%8D%95%23&t=31&band_rank=3&Refer=top)<br />
 4. [燕京啤酒回应蔡徐坤事件](https://s.weibo.com/weibo?q=%23%E7%87%95%E4%BA%AC%E5%95%A4%E9%85%92%E5%9B%9E%E5%BA%94%E8%94%A1%E5%BE%90%E5%9D%A4%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=4&Refer=top)<br />
 5. [超7成年轻人存款不足10万](https://s.weibo.com/weibo?q=%23%E8%B6%857%E6%88%90%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%AD%98%E6%AC%BE%E4%B8%8D%E8%B6%B310%E4%B8%87%23&t=31&band_rank=5&Refer=top)<br />
 6. [大熊猫萌兰](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E8%90%8C%E5%85%B0%23&t=31&band_rank=6&Refer=top)<br />
