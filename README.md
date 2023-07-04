@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 19:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 19:25:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [宁艺卓被Ella三连问](https://s.weibo.com/weibo?q=%23%E5%AE%81%E8%89%BA%E5%8D%93%E8%A2%ABElla%E4%B8%89%E8%BF%9E%E9%97%AE%23&t=31&band_rank=6&Refer=top)<br />
 7. [秦牛正威改名秦语鹿](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E7%89%9B%E6%AD%A3%E5%A8%81%E6%94%B9%E5%90%8D%E7%A7%A6%E8%AF%AD%E9%B9%BF%23&t=31&band_rank=7&Refer=top)<br />
 8. [假装发错消息给喜欢的人](https://s.weibo.com/weibo?q=%23%E5%81%87%E8%A3%85%E5%8F%91%E9%94%99%E6%B6%88%E6%81%AF%E7%BB%99%E5%96%9C%E6%AC%A2%E7%9A%84%E4%BA%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [我的人间烟火官宣定档](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E4%BA%BA%E9%97%B4%E7%83%9F%E7%81%AB%E5%AE%98%E5%AE%A3%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=9&Refer=top)<br />
+9. [欧豪有12部待播剧](https://s.weibo.com/weibo?q=%23%E6%AC%A7%E8%B1%AA%E6%9C%8912%E9%83%A8%E5%BE%85%E6%92%AD%E5%89%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
