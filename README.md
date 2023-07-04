@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 14:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 14:22:02</h4></div>
 
 > 微博  
 
@@ -31,10 +31,10 @@
 3. [美国国务院发布赴华旅行警告](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%8F%91%E5%B8%83%E8%B5%B4%E5%8D%8E%E6%97%85%E8%A1%8C%E8%AD%A6%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [激活乡土文化生命力](https://www.baidu.com/s?wd=%E6%BF%80%E6%B4%BB%E4%B9%A1%E5%9C%9F%E6%96%87%E5%8C%96%E7%94%9F%E5%91%BD%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [沈阳发现一例猴痘病例](https://www.baidu.com/s?wd=%E6%B2%88%E9%98%B3%E5%8F%91%E7%8E%B0%E4%B8%80%E4%BE%8B%E7%8C%B4%E7%97%98%E7%97%85%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [艺人“塌房”是否会面临天价违约金?](https://www.baidu.com/s?wd=%E8%89%BA%E4%BA%BA%E2%80%9C%E5%A1%8C%E6%88%BF%E2%80%9D%E6%98%AF%E5%90%A6%E4%BC%9A%E9%9D%A2%E4%B8%B4%E5%A4%A9%E4%BB%B7%E8%BF%9D%E7%BA%A6%E9%87%91%3F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [小孩影厅排泄致退票家长拒赔偿](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A9%E5%BD%B1%E5%8E%85%E6%8E%92%E6%B3%84%E8%87%B4%E9%80%80%E7%A5%A8%E5%AE%B6%E9%95%BF%E6%8B%92%E8%B5%94%E5%81%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [网友称看消失的她时发现靠背有针](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B0%E7%9C%8B%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E6%97%B6%E5%8F%91%E7%8E%B0%E9%9D%A0%E8%83%8C%E6%9C%89%E9%92%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [“土地爷”摆酒卖地 开发商整不动了](https://www.baidu.com/s?wd=%E2%80%9C%E5%9C%9F%E5%9C%B0%E7%88%B7%E2%80%9D%E6%91%86%E9%85%92%E5%8D%96%E5%9C%B0+%E5%BC%80%E5%8F%91%E5%95%86%E6%95%B4%E4%B8%8D%E5%8A%A8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [金星吐槽女明星走红毯捂胸口](https://www.baidu.com/s?wd=%E9%87%91%E6%98%9F%E5%90%90%E6%A7%BD%E5%A5%B3%E6%98%8E%E6%98%9F%E8%B5%B0%E7%BA%A2%E6%AF%AF%E6%8D%82%E8%83%B8%E5%8F%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [艺人“塌房”是否会面临天价违约金?](https://www.baidu.com/s?wd=%E8%89%BA%E4%BA%BA%E2%80%9C%E5%A1%8C%E6%88%BF%E2%80%9D%E6%98%AF%E5%90%A6%E4%BC%9A%E9%9D%A2%E4%B8%B4%E5%A4%A9%E4%BB%B7%E8%BF%9D%E7%BA%A6%E9%87%91%3F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [小孩影厅排泄致退票家长拒赔偿](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A9%E5%BD%B1%E5%8E%85%E6%8E%92%E6%B3%84%E8%87%B4%E9%80%80%E7%A5%A8%E5%AE%B6%E9%95%BF%E6%8B%92%E8%B5%94%E5%81%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [网友称看消失的她时发现靠背有针](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B0%E7%9C%8B%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E6%97%B6%E5%8F%91%E7%8E%B0%E9%9D%A0%E8%83%8C%E6%9C%89%E9%92%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [美国国务院发布赴华旅行警告](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%8F%91%E5%B8%83%E8%B5%B4%E5%8D%8E%E6%97%85%E8%A1%8C%E8%AD%A6%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [激活乡土文化生命力](https://www.baidu.com/s?wd=%E6%BF%80%E6%B4%BB%E4%B9%A1%E5%9C%9F%E6%96%87%E5%8C%96%E7%94%9F%E5%91%BD%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [沈阳发现一例猴痘病例](https://www.baidu.com/s?wd=%E6%B2%88%E9%98%B3%E5%8F%91%E7%8E%B0%E4%B8%80%E4%BE%8B%E7%8C%B4%E7%97%98%E7%97%85%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [艺人“塌房”是否会面临天价违约金?](https://www.baidu.com/s?wd=%E8%89%BA%E4%BA%BA%E2%80%9C%E5%A1%8C%E6%88%BF%E2%80%9D%E6%98%AF%E5%90%A6%E4%BC%9A%E9%9D%A2%E4%B8%B4%E5%A4%A9%E4%BB%B7%E8%BF%9D%E7%BA%A6%E9%87%91%3F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [小孩影厅排泄致退票家长拒赔偿](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A9%E5%BD%B1%E5%8E%85%E6%8E%92%E6%B3%84%E8%87%B4%E9%80%80%E7%A5%A8%E5%AE%B6%E9%95%BF%E6%8B%92%E8%B5%94%E5%81%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [网友称看消失的她时发现靠背有针](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B0%E7%9C%8B%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E6%97%B6%E5%8F%91%E7%8E%B0%E9%9D%A0%E8%83%8C%E6%9C%89%E9%92%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [“土地爷”摆酒卖地 开发商整不动了](https://www.baidu.com/s?wd=%E2%80%9C%E5%9C%9F%E5%9C%B0%E7%88%B7%E2%80%9D%E6%91%86%E9%85%92%E5%8D%96%E5%9C%B0+%E5%BC%80%E5%8F%91%E5%95%86%E6%95%B4%E4%B8%8D%E5%8A%A8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [金星吐槽女明星走红毯捂胸口](https://www.baidu.com/s?wd=%E9%87%91%E6%98%9F%E5%90%90%E6%A7%BD%E5%A5%B3%E6%98%8E%E6%98%9F%E8%B5%B0%E7%BA%A2%E6%AF%AF%E6%8D%82%E8%83%B8%E5%8F%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [艺人“塌房”是否会面临天价违约金?](https://www.baidu.com/s?wd=%E8%89%BA%E4%BA%BA%E2%80%9C%E5%A1%8C%E6%88%BF%E2%80%9D%E6%98%AF%E5%90%A6%E4%BC%9A%E9%9D%A2%E4%B8%B4%E5%A4%A9%E4%BB%B7%E8%BF%9D%E7%BA%A6%E9%87%91%3F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [小孩影厅排泄致退票家长拒赔偿](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A9%E5%BD%B1%E5%8E%85%E6%8E%92%E6%B3%84%E8%87%B4%E9%80%80%E7%A5%A8%E5%AE%B6%E9%95%BF%E6%8B%92%E8%B5%94%E5%81%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [网友称看消失的她时发现靠背有针](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B0%E7%9C%8B%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E6%97%B6%E5%8F%91%E7%8E%B0%E9%9D%A0%E8%83%8C%E6%9C%89%E9%92%88&sa=fyb_news&rsv_dl=fyb_news)<br />
