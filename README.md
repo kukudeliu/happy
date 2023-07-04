@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 23:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 23:14:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [EDG 啃老](https://s.weibo.com/weibo?q=EDG%20%E5%95%83%E8%80%81&t=31&band_rank=6&Refer=top)<br />
 7. [周也 孟子义](https://s.weibo.com/weibo?q=%E5%91%A8%E4%B9%9F%20%E5%AD%9F%E5%AD%90%E4%B9%89&t=31&band_rank=7&Refer=top)<br />
 8. [不容易近视的人 睫状肌](https://s.weibo.com/weibo?q=%E4%B8%8D%E5%AE%B9%E6%98%93%E8%BF%91%E8%A7%86%E7%9A%84%E4%BA%BA%20%E7%9D%AB%E7%8A%B6%E8%82%8C&t=31&band_rank=8&Refer=top)<br />
-9. [美依礼芽被蜗牛吓到尖叫](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%BE%9D%E7%A4%BC%E8%8A%BD%E8%A2%AB%E8%9C%97%E7%89%9B%E5%90%93%E5%88%B0%E5%B0%96%E5%8F%AB%23&t=31&band_rank=9&Refer=top)<br />
+9. [痞幼](https://s.weibo.com/weibo?q=%E7%97%9E%E5%B9%BC&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -21,8 +21,8 @@
 5. [2023 LPL 夏季赛 EDG 1:2 不敌 TT，如何评价这场比赛？](https://www.zhihu.com/question/610296656)<br />
 6. []()<br />
 7. [沙特、俄罗斯同日宣布石油减产计划，8 月共减产 150 万桶，原因有哪些？将带来哪些影响？](https://www.zhihu.com/question/610217964)<br />
-8. [伊朗成为上合组织成员国，该国发展会产生哪些影响？对上合组织有哪些利好？](https://www.zhihu.com/question/610315319)<br />
-9. [光速这么慢，以后月球和地球怎么联机打游戏？](https://www.zhihu.com/question/609921573)<br />
+8. [光速这么慢，以后月球和地球怎么联机打游戏？](https://www.zhihu.com/question/609921573)<br />
+9. [侯友宜首度表态称接受合乎「中华民国宪法」的「九二共识」，反对蔡英文污蔑「九二共识」，如何看待这一表态？](https://www.zhihu.com/question/610259391)<br />
 
 > 百度  
 
