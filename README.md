@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 21:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 21:47:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [秦牛正威回应为了男友改名](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E7%89%9B%E6%AD%A3%E5%A8%81%E5%9B%9E%E5%BA%94%E4%B8%BA%E4%BA%86%E7%94%B7%E5%8F%8B%E6%94%B9%E5%90%8D%23&t=31&band_rank=4&Refer=top)<br />
 5. [东京一店长闻到煤气味后点了根烟](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E4%BA%AC%E4%B8%80%E5%BA%97%E9%95%BF%E9%97%BB%E5%88%B0%E7%85%A4%E6%B0%94%E5%91%B3%E5%90%8E%E7%82%B9%E4%BA%86%E6%A0%B9%E7%83%9F%23&t=31&band_rank=5&Refer=top)<br />
 6. [莲花楼](https://s.weibo.com/weibo?q=%E8%8E%B2%E8%8A%B1%E6%A5%BC&t=31&band_rank=6&Refer=top)<br />
-7. [朱某龙骑车去痞幼家偷茅台](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E6%9F%90%E9%BE%99%E9%AA%91%E8%BD%A6%E5%8E%BB%E7%97%9E%E5%B9%BC%E5%AE%B6%E5%81%B7%E8%8C%85%E5%8F%B0%23&t=31&band_rank=7&Refer=top)<br />
-8. [苏州大学录取通知书太用心了](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E5%B7%9E%E5%A4%A7%E5%AD%A6%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E5%A4%AA%E7%94%A8%E5%BF%83%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+7. [苏州大学录取通知书太用心了](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E5%B7%9E%E5%A4%A7%E5%AD%A6%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E5%A4%AA%E7%94%A8%E5%BF%83%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+8. [朱某龙骑车去痞幼家偷茅台](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E6%9F%90%E9%BE%99%E9%AA%91%E8%BD%A6%E5%8E%BB%E7%97%9E%E5%B9%BC%E5%AE%B6%E5%81%B7%E8%8C%85%E5%8F%B0%23&t=31&band_rank=8&Refer=top)<br />
 9. [公积金年度结息到账](https://s.weibo.com/weibo?q=%23%E5%85%AC%E7%A7%AF%E9%87%91%E5%B9%B4%E5%BA%A6%E7%BB%93%E6%81%AF%E5%88%B0%E8%B4%A6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -17,9 +17,9 @@
 1. [美国投资巨头免费接手乌克兰全部国企，包括能源和电网，哪些信息值得关注？](https://www.zhihu.com/question/610223926)<br />
 2. [两部门发布公告表示为维护国家安全和利益，决定对镓、锗相关物项实施出口管制，如何看待这一举措？](https://www.zhihu.com/question/610105939)<br />
 3. [为什么中国不自己开发一个汉字的电脑，底层用汉字编写，有一套汉字的汇编语言、高级语言？](https://www.zhihu.com/question/520064736)<br />
-4. [3 名员工盗用前公司游戏代码上线新游戏半年流水 1.5 亿，此案有何警示意义？](https://www.zhihu.com/question/609251189)<br />
+4. [男子故意 1 次取 1 元逼哭柜员称「非把你开除！」，如何看待该男子的做法？](https://www.zhihu.com/question/610236031)<br />
 5. [代糖阿斯巴甜陷入「可能致癌」风波，无糖产品还能放心选购吗？是否也存在「致癌」的风险？](https://www.zhihu.com/theater/17281)<br />
-6. [男子故意 1 次取 1 元逼哭柜员称「非把你开除！」，如何看待该男子的做法？](https://www.zhihu.com/question/610236031)<br />
+6. [3 名员工盗用前公司游戏代码上线新游戏半年流水 1.5 亿，此案有何警示意义？](https://www.zhihu.com/question/609251189)<br />
 7. [湖南一火车站不让进候车厅，乘客顶烈日排队，铁路官方回应「非营业时段不开放」，如何看待此事？](https://www.zhihu.com/question/610039783)<br />
 8. [如何看待 26 城发布地铁年报，但只有 4 城是赚到钱的？地铁是个「亏钱」的生意吗？](https://www.zhihu.com/question/610117816)<br />
 9. [恒大董事长许家印发声：明确广州目标「今年保级、明年冲超！」，引援须恒大足校出品，哪些信息值得关注？](https://www.zhihu.com/question/610278108)<br />
