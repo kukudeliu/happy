@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 05:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 05:24:01</h4></div>
 
 > 微博  
 
@@ -32,9 +32,9 @@
 4. [江风海韵绘就生态美](https://www.baidu.com/s?wd=%E6%B1%9F%E9%A3%8E%E6%B5%B7%E9%9F%B5%E7%BB%98%E5%B0%B1%E7%94%9F%E6%80%81%E7%BE%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [牵手门涉事公司近期公布核查处理结果](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E6%B6%89%E4%BA%8B%E5%85%AC%E5%8F%B8%E8%BF%91%E6%9C%9F%E5%85%AC%E5%B8%83%E6%A0%B8%E6%9F%A5%E5%A4%84%E7%90%86%E7%BB%93%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [广东人正式被确诊为依萍](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%BA%BA%E6%AD%A3%E5%BC%8F%E8%A2%AB%E7%A1%AE%E8%AF%8A%E4%B8%BA%E4%BE%9D%E8%90%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [王毅：头发染得再黄也变不成西方人](https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%EF%BC%9A%E5%A4%B4%E5%8F%91%E6%9F%93%E5%BE%97%E5%86%8D%E9%BB%84%E4%B9%9F%E5%8F%98%E4%B8%8D%E6%88%90%E8%A5%BF%E6%96%B9%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子游泳被鲨鱼袭击幸有海豚相救](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%B8%B8%E6%B3%B3%E8%A2%AB%E9%B2%A8%E9%B1%BC%E8%A2%AD%E5%87%BB%E5%B9%B8%E6%9C%89%E6%B5%B7%E8%B1%9A%E7%9B%B8%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女生遭8名未成年人欺凌 2人被刑拘](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%81%AD8%E5%90%8D%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E6%AC%BA%E5%87%8C+2%E4%BA%BA%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [孙女帮八旬爷爷实现零食自由](https://www.baidu.com/s?wd=%E5%AD%99%E5%A5%B3%E5%B8%AE%E5%85%AB%E6%97%AC%E7%88%B7%E7%88%B7%E5%AE%9E%E7%8E%B0%E9%9B%B6%E9%A3%9F%E8%87%AA%E7%94%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [英国75岁前市长被卡管道5天](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD75%E5%B2%81%E5%89%8D%E5%B8%82%E9%95%BF%E8%A2%AB%E5%8D%A1%E7%AE%A1%E9%81%935%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [江风海韵绘就生态美](https://www.baidu.com/s?wd=%E6%B1%9F%E9%A3%8E%E6%B5%B7%E9%9F%B5%E7%BB%98%E5%B0%B1%E7%94%9F%E6%80%81%E7%BE%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [牵手门涉事公司近期公布核查处理结果](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E6%B6%89%E4%BA%8B%E5%85%AC%E5%8F%B8%E8%BF%91%E6%9C%9F%E5%85%AC%E5%B8%83%E6%A0%B8%E6%9F%A5%E5%A4%84%E7%90%86%E7%BB%93%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [广东人正式被确诊为依萍](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%BA%BA%E6%AD%A3%E5%BC%8F%E8%A2%AB%E7%A1%AE%E8%AF%8A%E4%B8%BA%E4%BE%9D%E8%90%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [王毅：头发染得再黄也变不成西方人](https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%EF%BC%9A%E5%A4%B4%E5%8F%91%E6%9F%93%E5%BE%97%E5%86%8D%E9%BB%84%E4%B9%9F%E5%8F%98%E4%B8%8D%E6%88%90%E8%A5%BF%E6%96%B9%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子游泳被鲨鱼袭击幸有海豚相救](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%B8%B8%E6%B3%B3%E8%A2%AB%E9%B2%A8%E9%B1%BC%E8%A2%AD%E5%87%BB%E5%B9%B8%E6%9C%89%E6%B5%B7%E8%B1%9A%E7%9B%B8%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女生遭8名未成年人欺凌 2人被刑拘](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%81%AD8%E5%90%8D%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E6%AC%BA%E5%87%8C+2%E4%BA%BA%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [孙女帮八旬爷爷实现零食自由](https://www.baidu.com/s?wd=%E5%AD%99%E5%A5%B3%E5%B8%AE%E5%85%AB%E6%97%AC%E7%88%B7%E7%88%B7%E5%AE%9E%E7%8E%B0%E9%9B%B6%E9%A3%9F%E8%87%AA%E7%94%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [英国75岁前市长被卡管道5天](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD75%E5%B2%81%E5%89%8D%E5%B8%82%E9%95%BF%E8%A2%AB%E5%8D%A1%E7%AE%A1%E9%81%935%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
