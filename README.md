@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 17:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 17:49:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [健身网红拉丝哥离世](https://s.weibo.com/weibo?q=%23%E5%81%A5%E8%BA%AB%E7%BD%91%E7%BA%A2%E6%8B%89%E4%B8%9D%E5%93%A5%E7%A6%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [牵手门涉事男领导仍担任企业高管](https://s.weibo.com/weibo?q=%23%E7%89%B5%E6%89%8B%E9%97%A8%E6%B6%89%E4%BA%8B%E7%94%B7%E9%A2%86%E5%AF%BC%E4%BB%8D%E6%8B%85%E4%BB%BB%E4%BC%81%E4%B8%9A%E9%AB%98%E7%AE%A1%23&t=31&band_rank=7&Refer=top)<br />
 8. [头发染得再黄鼻子修得再尖也变不了欧美人](https://s.weibo.com/weibo?q=%23%E5%A4%B4%E5%8F%91%E6%9F%93%E5%BE%97%E5%86%8D%E9%BB%84%E9%BC%BB%E5%AD%90%E4%BF%AE%E5%BE%97%E5%86%8D%E5%B0%96%E4%B9%9F%E5%8F%98%E4%B8%8D%E4%BA%86%E6%AC%A7%E7%BE%8E%E4%BA%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [肖战片场公主抱任敏](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%89%87%E5%9C%BA%E5%85%AC%E4%B8%BB%E6%8A%B1%E4%BB%BB%E6%95%8F%23&t=31&band_rank=9&Refer=top)<br />
+9. [杨洋王楚然荧幕初吻都给了马思纯](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B4%8B%E7%8E%8B%E6%A5%9A%E7%84%B6%E8%8D%A7%E5%B9%95%E5%88%9D%E5%90%BB%E9%83%BD%E7%BB%99%E4%BA%86%E9%A9%AC%E6%80%9D%E7%BA%AF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -34,7 +34,7 @@
 6. [痞幼：吃瓜吃到自己头上](https://www.baidu.com/s?wd=%E7%97%9E%E5%B9%BC%EF%BC%9A%E5%90%83%E7%93%9C%E5%90%83%E5%88%B0%E8%87%AA%E5%B7%B1%E5%A4%B4%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [媒体：牵手门涉事干部仍任高管](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E7%89%B5%E6%89%8B%E9%97%A8%E6%B6%89%E4%BA%8B%E5%B9%B2%E9%83%A8%E4%BB%8D%E4%BB%BB%E9%AB%98%E7%AE%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [痞幼别墅被男子偷住半个月喝6瓶茅台](https://www.baidu.com/s?wd=%E7%97%9E%E5%B9%BC%E5%88%AB%E5%A2%85%E8%A2%AB%E7%94%B7%E5%AD%90%E5%81%B7%E4%BD%8F%E5%8D%8A%E4%B8%AA%E6%9C%88%E5%96%9D6%E7%93%B6%E8%8C%85%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子买彩票误打误撞中了一千万](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B9%B0%E5%BD%A9%E7%A5%A8%E8%AF%AF%E6%89%93%E8%AF%AF%E6%92%9E%E4%B8%AD%E4%BA%86%E4%B8%80%E5%8D%83%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [中国侨胞夫妻在刚果（金）遭枪杀](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BE%A8%E8%83%9E%E5%A4%AB%E5%A6%BB%E5%9C%A8%E5%88%9A%E6%9E%9C%EF%BC%88%E9%87%91%EF%BC%89%E9%81%AD%E6%9E%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [痞幼：吃瓜吃到自己头上](https://www.baidu.com/s?wd=%E7%97%9E%E5%B9%BC%EF%BC%9A%E5%90%83%E7%93%9C%E5%90%83%E5%88%B0%E8%87%AA%E5%B7%B1%E5%A4%B4%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [媒体：牵手门涉事干部仍任高管](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E7%89%B5%E6%89%8B%E9%97%A8%E6%B6%89%E4%BA%8B%E5%B9%B2%E9%83%A8%E4%BB%8D%E4%BB%BB%E9%AB%98%E7%AE%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [痞幼别墅被男子偷住半个月喝6瓶茅台](https://www.baidu.com/s?wd=%E7%97%9E%E5%B9%BC%E5%88%AB%E5%A2%85%E8%A2%AB%E7%94%B7%E5%AD%90%E5%81%B7%E4%BD%8F%E5%8D%8A%E4%B8%AA%E6%9C%88%E5%96%9D6%E7%93%B6%E8%8C%85%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子买彩票误打误撞中了一千万](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B9%B0%E5%BD%A9%E7%A5%A8%E8%AF%AF%E6%89%93%E8%AF%AF%E6%92%9E%E4%B8%AD%E4%BA%86%E4%B8%80%E5%8D%83%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [中国侨胞夫妻在刚果（金）遭枪杀](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BE%A8%E8%83%9E%E5%A4%AB%E5%A6%BB%E5%9C%A8%E5%88%9A%E6%9E%9C%EF%BC%88%E9%87%91%EF%BC%89%E9%81%AD%E6%9E%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
