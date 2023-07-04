@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 09:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 09:19:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [西安忍不住根本忍不住](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E5%BF%8D%E4%B8%8D%E4%BD%8F%E6%A0%B9%E6%9C%AC%E5%BF%8D%E4%B8%8D%E4%BD%8F%23&t=31&band_rank=6&Refer=top)<br />
 7. [周杰伦你真的不热吗](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E4%BD%A0%E7%9C%9F%E7%9A%84%E4%B8%8D%E7%83%AD%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
 8. [大熊猫萌兰](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E8%90%8C%E5%85%B0%23&t=31&band_rank=8&Refer=top)<br />
-9. [中暑导游去世前坚持将学生们送上车](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%9A%91%E5%AF%BC%E6%B8%B8%E5%8E%BB%E4%B8%96%E5%89%8D%E5%9D%9A%E6%8C%81%E5%B0%86%E5%AD%A6%E7%94%9F%E4%BB%AC%E9%80%81%E4%B8%8A%E8%BD%A6%23&t=31&band_rank=9&Refer=top)<br />
+9. [黑执事](https://s.weibo.com/weibo?q=%E9%BB%91%E6%89%A7%E4%BA%8B&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
