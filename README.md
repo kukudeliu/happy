@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 13:25:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 13:26:01</h4></div>
 
 > 微博  
 
@@ -30,11 +30,11 @@
 2. [美国国务院发布赴华旅行警告](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%8F%91%E5%B8%83%E8%B5%B4%E5%8D%8E%E6%97%85%E8%A1%8C%E8%AD%A6%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [被逼吃粪便男童父亲:孩子精神受刺激](https://www.baidu.com/s?wd=%E8%A2%AB%E9%80%BC%E5%90%83%E7%B2%AA%E4%BE%BF%E7%94%B7%E7%AB%A5%E7%88%B6%E4%BA%B2%3A%E5%AD%A9%E5%AD%90%E7%B2%BE%E7%A5%9E%E5%8F%97%E5%88%BA%E6%BF%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [激活乡土文化生命力](https://www.baidu.com/s?wd=%E6%BF%80%E6%B4%BB%E4%B9%A1%E5%9C%9F%E6%96%87%E5%8C%96%E7%94%9F%E5%91%BD%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [越南因南海九段线禁止芭比上映](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E5%9B%A0%E5%8D%97%E6%B5%B7%E4%B9%9D%E6%AE%B5%E7%BA%BF%E7%A6%81%E6%AD%A2%E8%8A%AD%E6%AF%94%E4%B8%8A%E6%98%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [小孩影厅排泄致退票家长拒赔偿](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A9%E5%BD%B1%E5%8E%85%E6%8E%92%E6%B3%84%E8%87%B4%E9%80%80%E7%A5%A8%E5%AE%B6%E9%95%BF%E6%8B%92%E8%B5%94%E5%81%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子偷住无人别墅多日喝光6瓶茅台](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%B7%E4%BD%8F%E6%97%A0%E4%BA%BA%E5%88%AB%E5%A2%85%E5%A4%9A%E6%97%A5%E5%96%9D%E5%85%896%E7%93%B6%E8%8C%85%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [小孩影厅排泄致退票家长拒赔偿](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A9%E5%BD%B1%E5%8E%85%E6%8E%92%E6%B3%84%E8%87%B4%E9%80%80%E7%A5%A8%E5%AE%B6%E9%95%BF%E6%8B%92%E8%B5%94%E5%81%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [“土地爷”摆酒卖地 开发商整不动了](https://www.baidu.com/s?wd=%E2%80%9C%E5%9C%9F%E5%9C%B0%E7%88%B7%E2%80%9D%E6%91%86%E9%85%92%E5%8D%96%E5%9C%B0+%E5%BC%80%E5%8F%91%E5%95%86%E6%95%B4%E4%B8%8D%E5%8A%A8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [喊“不跳不是人”的大爷是个什么人](https://www.baidu.com/s?wd=%E5%96%8A%E2%80%9C%E4%B8%8D%E8%B7%B3%E4%B8%8D%E6%98%AF%E4%BA%BA%E2%80%9D%E7%9A%84%E5%A4%A7%E7%88%B7%E6%98%AF%E4%B8%AA%E4%BB%80%E4%B9%88%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [“土地爷”摆酒卖地 开发商整不动了](https://www.baidu.com/s?wd=%E2%80%9C%E5%9C%9F%E5%9C%B0%E7%88%B7%E2%80%9D%E6%91%86%E9%85%92%E5%8D%96%E5%9C%B0+%E5%BC%80%E5%8F%91%E5%95%86%E6%95%B4%E4%B8%8D%E5%8A%A8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [喊“不跳不是人”的大爷是个什么人](https://www.baidu.com/s?wd=%E5%96%8A%E2%80%9C%E4%B8%8D%E8%B7%B3%E4%B8%8D%E6%98%AF%E4%BA%BA%E2%80%9D%E7%9A%84%E5%A4%A7%E7%88%B7%E6%98%AF%E4%B8%AA%E4%BB%80%E4%B9%88%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [多人组团偷吃榴莲致超市损失近千元](https://www.baidu.com/s?wd=%E5%A4%9A%E4%BA%BA%E7%BB%84%E5%9B%A2%E5%81%B7%E5%90%83%E6%A6%B4%E8%8E%B2%E8%87%B4%E8%B6%85%E5%B8%82%E6%8D%9F%E5%A4%B1%E8%BF%91%E5%8D%83%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -42,8 +42,8 @@
 2. [美国国务院发布赴华旅行警告](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%8F%91%E5%B8%83%E8%B5%B4%E5%8D%8E%E6%97%85%E8%A1%8C%E8%AD%A6%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [被逼吃粪便男童父亲:孩子精神受刺激](https://www.baidu.com/s?wd=%E8%A2%AB%E9%80%BC%E5%90%83%E7%B2%AA%E4%BE%BF%E7%94%B7%E7%AB%A5%E7%88%B6%E4%BA%B2%3A%E5%AD%A9%E5%AD%90%E7%B2%BE%E7%A5%9E%E5%8F%97%E5%88%BA%E6%BF%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [激活乡土文化生命力](https://www.baidu.com/s?wd=%E6%BF%80%E6%B4%BB%E4%B9%A1%E5%9C%9F%E6%96%87%E5%8C%96%E7%94%9F%E5%91%BD%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [越南因南海九段线禁止芭比上映](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E5%9B%A0%E5%8D%97%E6%B5%B7%E4%B9%9D%E6%AE%B5%E7%BA%BF%E7%A6%81%E6%AD%A2%E8%8A%AD%E6%AF%94%E4%B8%8A%E6%98%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [小孩影厅排泄致退票家长拒赔偿](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A9%E5%BD%B1%E5%8E%85%E6%8E%92%E6%B3%84%E8%87%B4%E9%80%80%E7%A5%A8%E5%AE%B6%E9%95%BF%E6%8B%92%E8%B5%94%E5%81%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子偷住无人别墅多日喝光6瓶茅台](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%B7%E4%BD%8F%E6%97%A0%E4%BA%BA%E5%88%AB%E5%A2%85%E5%A4%9A%E6%97%A5%E5%96%9D%E5%85%896%E7%93%B6%E8%8C%85%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [小孩影厅排泄致退票家长拒赔偿](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A9%E5%BD%B1%E5%8E%85%E6%8E%92%E6%B3%84%E8%87%B4%E9%80%80%E7%A5%A8%E5%AE%B6%E9%95%BF%E6%8B%92%E8%B5%94%E5%81%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [“土地爷”摆酒卖地 开发商整不动了](https://www.baidu.com/s?wd=%E2%80%9C%E5%9C%9F%E5%9C%B0%E7%88%B7%E2%80%9D%E6%91%86%E9%85%92%E5%8D%96%E5%9C%B0+%E5%BC%80%E5%8F%91%E5%95%86%E6%95%B4%E4%B8%8D%E5%8A%A8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [喊“不跳不是人”的大爷是个什么人](https://www.baidu.com/s?wd=%E5%96%8A%E2%80%9C%E4%B8%8D%E8%B7%B3%E4%B8%8D%E6%98%AF%E4%BA%BA%E2%80%9D%E7%9A%84%E5%A4%A7%E7%88%B7%E6%98%AF%E4%B8%AA%E4%BB%80%E4%B9%88%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [“土地爷”摆酒卖地 开发商整不动了](https://www.baidu.com/s?wd=%E2%80%9C%E5%9C%9F%E5%9C%B0%E7%88%B7%E2%80%9D%E6%91%86%E9%85%92%E5%8D%96%E5%9C%B0+%E5%BC%80%E5%8F%91%E5%95%86%E6%95%B4%E4%B8%8D%E5%8A%A8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [喊“不跳不是人”的大爷是个什么人](https://www.baidu.com/s?wd=%E5%96%8A%E2%80%9C%E4%B8%8D%E8%B7%B3%E4%B8%8D%E6%98%AF%E4%BA%BA%E2%80%9D%E7%9A%84%E5%A4%A7%E7%88%B7%E6%98%AF%E4%B8%AA%E4%BB%80%E4%B9%88%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [多人组团偷吃榴莲致超市损失近千元](https://www.baidu.com/s?wd=%E5%A4%9A%E4%BA%BA%E7%BB%84%E5%9B%A2%E5%81%B7%E5%90%83%E6%A6%B4%E8%8E%B2%E8%87%B4%E8%B6%85%E5%B8%82%E6%8D%9F%E5%A4%B1%E8%BF%91%E5%8D%83%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
