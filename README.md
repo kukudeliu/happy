@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 00:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 00:29:01</h4></div>
 
 > 微博  
 
@@ -31,10 +31,10 @@
 3. [小学连开3天家长会 教育局：正调查](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E8%BF%9E%E5%BC%803%E5%A4%A9%E5%AE%B6%E9%95%BF%E4%BC%9A+%E6%95%99%E8%82%B2%E5%B1%80%EF%BC%9A%E6%AD%A3%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [江风海韵绘就生态美](https://www.baidu.com/s?wd=%E6%B1%9F%E9%A3%8E%E6%B5%B7%E9%9F%B5%E7%BB%98%E5%B0%B1%E7%94%9F%E6%80%81%E7%BE%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [牵手门涉事公司近期公布核查处理结果](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E6%B6%89%E4%BA%8B%E5%85%AC%E5%8F%B8%E8%BF%91%E6%9C%9F%E5%85%AC%E5%B8%83%E6%A0%B8%E6%9F%A5%E5%A4%84%E7%90%86%E7%BB%93%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [何炅王嘉尔曾预言白敬亭宋轶](https://www.baidu.com/s?wd=%E4%BD%95%E7%82%85%E7%8E%8B%E5%98%89%E5%B0%94%E6%9B%BE%E9%A2%84%E8%A8%80%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [东京一店长闻到煤气味后点了根烟](https://www.baidu.com/s?wd=%E4%B8%9C%E4%BA%AC%E4%B8%80%E5%BA%97%E9%95%BF%E9%97%BB%E5%88%B0%E7%85%A4%E6%B0%94%E5%91%B3%E5%90%8E%E7%82%B9%E4%BA%86%E6%A0%B9%E7%83%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [日本札幌一酒店惊现无头男尸](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%9C%AD%E5%B9%8C%E4%B8%80%E9%85%92%E5%BA%97%E6%83%8A%E7%8E%B0%E6%97%A0%E5%A4%B4%E7%94%B7%E5%B0%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子买彩票误打误撞中了一千万](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B9%B0%E5%BD%A9%E7%A5%A8%E8%AF%AF%E6%89%93%E8%AF%AF%E6%92%9E%E4%B8%AD%E4%BA%86%E4%B8%80%E5%8D%83%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [市监局回应山姆泡面桶被炒至1999元](https://www.baidu.com/s?wd=%E5%B8%82%E7%9B%91%E5%B1%80%E5%9B%9E%E5%BA%94%E5%B1%B1%E5%A7%86%E6%B3%A1%E9%9D%A2%E6%A1%B6%E8%A2%AB%E7%82%92%E8%87%B31999%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [何炅王嘉尔曾预言白敬亭宋轶](https://www.baidu.com/s?wd=%E4%BD%95%E7%82%85%E7%8E%8B%E5%98%89%E5%B0%94%E6%9B%BE%E9%A2%84%E8%A8%80%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [重庆万州遇暴雨：巡逻员喊楼撤离](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%87%E5%B7%9E%E9%81%87%E6%9A%B4%E9%9B%A8%EF%BC%9A%E5%B7%A1%E9%80%BB%E5%91%98%E5%96%8A%E6%A5%BC%E6%92%A4%E7%A6%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [东京一店长闻到煤气味后点了根烟](https://www.baidu.com/s?wd=%E4%B8%9C%E4%BA%AC%E4%B8%80%E5%BA%97%E9%95%BF%E9%97%BB%E5%88%B0%E7%85%A4%E6%B0%94%E5%91%B3%E5%90%8E%E7%82%B9%E4%BA%86%E6%A0%B9%E7%83%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [小学连开3天家长会 教育局：正调查](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E8%BF%9E%E5%BC%803%E5%A4%A9%E5%AE%B6%E9%95%BF%E4%BC%9A+%E6%95%99%E8%82%B2%E5%B1%80%EF%BC%9A%E6%AD%A3%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [江风海韵绘就生态美](https://www.baidu.com/s?wd=%E6%B1%9F%E9%A3%8E%E6%B5%B7%E9%9F%B5%E7%BB%98%E5%B0%B1%E7%94%9F%E6%80%81%E7%BE%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [牵手门涉事公司近期公布核查处理结果](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E6%B6%89%E4%BA%8B%E5%85%AC%E5%8F%B8%E8%BF%91%E6%9C%9F%E5%85%AC%E5%B8%83%E6%A0%B8%E6%9F%A5%E5%A4%84%E7%90%86%E7%BB%93%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [何炅王嘉尔曾预言白敬亭宋轶](https://www.baidu.com/s?wd=%E4%BD%95%E7%82%85%E7%8E%8B%E5%98%89%E5%B0%94%E6%9B%BE%E9%A2%84%E8%A8%80%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [东京一店长闻到煤气味后点了根烟](https://www.baidu.com/s?wd=%E4%B8%9C%E4%BA%AC%E4%B8%80%E5%BA%97%E9%95%BF%E9%97%BB%E5%88%B0%E7%85%A4%E6%B0%94%E5%91%B3%E5%90%8E%E7%82%B9%E4%BA%86%E6%A0%B9%E7%83%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [日本札幌一酒店惊现无头男尸](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%9C%AD%E5%B9%8C%E4%B8%80%E9%85%92%E5%BA%97%E6%83%8A%E7%8E%B0%E6%97%A0%E5%A4%B4%E7%94%B7%E5%B0%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子买彩票误打误撞中了一千万](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B9%B0%E5%BD%A9%E7%A5%A8%E8%AF%AF%E6%89%93%E8%AF%AF%E6%92%9E%E4%B8%AD%E4%BA%86%E4%B8%80%E5%8D%83%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [市监局回应山姆泡面桶被炒至1999元](https://www.baidu.com/s?wd=%E5%B8%82%E7%9B%91%E5%B1%80%E5%9B%9E%E5%BA%94%E5%B1%B1%E5%A7%86%E6%B3%A1%E9%9D%A2%E6%A1%B6%E8%A2%AB%E7%82%92%E8%87%B31999%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [何炅王嘉尔曾预言白敬亭宋轶](https://www.baidu.com/s?wd=%E4%BD%95%E7%82%85%E7%8E%8B%E5%98%89%E5%B0%94%E6%9B%BE%E9%A2%84%E8%A8%80%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [重庆万州遇暴雨：巡逻员喊楼撤离](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%87%E5%B7%9E%E9%81%87%E6%9A%B4%E9%9B%A8%EF%BC%9A%E5%B7%A1%E9%80%BB%E5%91%98%E5%96%8A%E6%A5%BC%E6%92%A4%E7%A6%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [东京一店长闻到煤气味后点了根烟](https://www.baidu.com/s?wd=%E4%B8%9C%E4%BA%AC%E4%B8%80%E5%BA%97%E9%95%BF%E9%97%BB%E5%88%B0%E7%85%A4%E6%B0%94%E5%91%B3%E5%90%8E%E7%82%B9%E4%BA%86%E6%A0%B9%E7%83%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
