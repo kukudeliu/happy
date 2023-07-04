@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 01:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 01:29:01</h4></div>
 
 > 微博  
 
@@ -31,10 +31,10 @@
 3. [小学连开3天家长会 教育局：正调查](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E8%BF%9E%E5%BC%803%E5%A4%A9%E5%AE%B6%E9%95%BF%E4%BC%9A+%E6%95%99%E8%82%B2%E5%B1%80%EF%BC%9A%E6%AD%A3%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [江风海韵绘就生态美](https://www.baidu.com/s?wd=%E6%B1%9F%E9%A3%8E%E6%B5%B7%E9%9F%B5%E7%BB%98%E5%B0%B1%E7%94%9F%E6%80%81%E7%BE%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [牵手门涉事公司近期公布核查处理结果](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E6%B6%89%E4%BA%8B%E5%85%AC%E5%8F%B8%E8%BF%91%E6%9C%9F%E5%85%AC%E5%B8%83%E6%A0%B8%E6%9F%A5%E5%A4%84%E7%90%86%E7%BB%93%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [广东人正式被确诊为依萍](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%BA%BA%E6%AD%A3%E5%BC%8F%E8%A2%AB%E7%A1%AE%E8%AF%8A%E4%B8%BA%E4%BE%9D%E8%90%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [何炅王嘉尔曾预言白敬亭宋轶](https://www.baidu.com/s?wd=%E4%BD%95%E7%82%85%E7%8E%8B%E5%98%89%E5%B0%94%E6%9B%BE%E9%A2%84%E8%A8%80%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女生遭8名未成年人欺凌 2人被刑拘](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%81%AD8%E5%90%8D%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E6%AC%BA%E5%87%8C+2%E4%BA%BA%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [泰坦号乘客最后时刻:听音乐沉入海底](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9D%A6%E5%8F%B7%E4%B9%98%E5%AE%A2%E6%9C%80%E5%90%8E%E6%97%B6%E5%88%BB%3A%E5%90%AC%E9%9F%B3%E4%B9%90%E6%B2%89%E5%85%A5%E6%B5%B7%E5%BA%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [马斯克请来三届UFC格斗冠军当教练](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E8%AF%B7%E6%9D%A5%E4%B8%89%E5%B1%8AUFC%E6%A0%BC%E6%96%97%E5%86%A0%E5%86%9B%E5%BD%93%E6%95%99%E7%BB%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [广东人正式被确诊为依萍](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%BA%BA%E6%AD%A3%E5%BC%8F%E8%A2%AB%E7%A1%AE%E8%AF%8A%E4%B8%BA%E4%BE%9D%E8%90%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [杨澜方回应公司被冻结数百万财产](https://www.baidu.com/s?wd=%E6%9D%A8%E6%BE%9C%E6%96%B9%E5%9B%9E%E5%BA%94%E5%85%AC%E5%8F%B8%E8%A2%AB%E5%86%BB%E7%BB%93%E6%95%B0%E7%99%BE%E4%B8%87%E8%B4%A2%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [何炅王嘉尔曾预言白敬亭宋轶](https://www.baidu.com/s?wd=%E4%BD%95%E7%82%85%E7%8E%8B%E5%98%89%E5%B0%94%E6%9B%BE%E9%A2%84%E8%A8%80%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [小学连开3天家长会 教育局：正调查](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E8%BF%9E%E5%BC%803%E5%A4%A9%E5%AE%B6%E9%95%BF%E4%BC%9A+%E6%95%99%E8%82%B2%E5%B1%80%EF%BC%9A%E6%AD%A3%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [江风海韵绘就生态美](https://www.baidu.com/s?wd=%E6%B1%9F%E9%A3%8E%E6%B5%B7%E9%9F%B5%E7%BB%98%E5%B0%B1%E7%94%9F%E6%80%81%E7%BE%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [牵手门涉事公司近期公布核查处理结果](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E6%B6%89%E4%BA%8B%E5%85%AC%E5%8F%B8%E8%BF%91%E6%9C%9F%E5%85%AC%E5%B8%83%E6%A0%B8%E6%9F%A5%E5%A4%84%E7%90%86%E7%BB%93%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [广东人正式被确诊为依萍](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%BA%BA%E6%AD%A3%E5%BC%8F%E8%A2%AB%E7%A1%AE%E8%AF%8A%E4%B8%BA%E4%BE%9D%E8%90%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [何炅王嘉尔曾预言白敬亭宋轶](https://www.baidu.com/s?wd=%E4%BD%95%E7%82%85%E7%8E%8B%E5%98%89%E5%B0%94%E6%9B%BE%E9%A2%84%E8%A8%80%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女生遭8名未成年人欺凌 2人被刑拘](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%81%AD8%E5%90%8D%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E6%AC%BA%E5%87%8C+2%E4%BA%BA%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [泰坦号乘客最后时刻:听音乐沉入海底](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9D%A6%E5%8F%B7%E4%B9%98%E5%AE%A2%E6%9C%80%E5%90%8E%E6%97%B6%E5%88%BB%3A%E5%90%AC%E9%9F%B3%E4%B9%90%E6%B2%89%E5%85%A5%E6%B5%B7%E5%BA%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [马斯克请来三届UFC格斗冠军当教练](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E8%AF%B7%E6%9D%A5%E4%B8%89%E5%B1%8AUFC%E6%A0%BC%E6%96%97%E5%86%A0%E5%86%9B%E5%BD%93%E6%95%99%E7%BB%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [广东人正式被确诊为依萍](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%BA%BA%E6%AD%A3%E5%BC%8F%E8%A2%AB%E7%A1%AE%E8%AF%8A%E4%B8%BA%E4%BE%9D%E8%90%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [杨澜方回应公司被冻结数百万财产](https://www.baidu.com/s?wd=%E6%9D%A8%E6%BE%9C%E6%96%B9%E5%9B%9E%E5%BA%94%E5%85%AC%E5%8F%B8%E8%A2%AB%E5%86%BB%E7%BB%93%E6%95%B0%E7%99%BE%E4%B8%87%E8%B4%A2%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [何炅王嘉尔曾预言白敬亭宋轶](https://www.baidu.com/s?wd=%E4%BD%95%E7%82%85%E7%8E%8B%E5%98%89%E5%B0%94%E6%9B%BE%E9%A2%84%E8%A8%80%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
