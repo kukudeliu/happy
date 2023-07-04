@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 10:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 10:30:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [王楚钦世界排名第一](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E4%B8%96%E7%95%8C%E6%8E%92%E5%90%8D%E7%AC%AC%E4%B8%80%23&t=31&band_rank=6&Refer=top)<br />
 7. [孙艺珍产后首个公开行程](https://s.weibo.com/weibo?q=%23%E5%AD%99%E8%89%BA%E7%8F%8D%E4%BA%A7%E5%90%8E%E9%A6%96%E4%B8%AA%E5%85%AC%E5%BC%80%E8%A1%8C%E7%A8%8B%23&t=31&band_rank=7&Refer=top)<br />
 8. [消失的她塑料情头](https://s.weibo.com/weibo?q=%23%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E5%A1%91%E6%96%99%E6%83%85%E5%A4%B4%23&t=31&band_rank=8&Refer=top)<br />
-9. [花花生日](https://s.weibo.com/weibo?q=%E8%8A%B1%E8%8A%B1%E7%94%9F%E6%97%A5&t=31&band_rank=9&Refer=top)<br />
+9. [黄子韬和马伯骞情人节被困高速](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%92%8C%E9%A9%AC%E4%BC%AF%E9%AA%9E%E6%83%85%E4%BA%BA%E8%8A%82%E8%A2%AB%E5%9B%B0%E9%AB%98%E9%80%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -21,7 +21,7 @@
 5. [朝鲜女孩拍视频介绍平壤，韩国以「宣传朝鲜体制」为由屏蔽，谷歌封号，透露了哪些信息？](https://www.zhihu.com/question/610162816)<br />
 6. [上海 94 岁老人实名举报「遭保姆虐待，250 多万养老钱被卷光」，警方已介入，具体情况如何？](https://www.zhihu.com/question/610021603)<br />
 7. [如何看待英雄联盟亚运名单更新，369 、 JKL 退赛？](https://www.zhihu.com/question/610189438)<br />
-8. [一个很小的东西，比如指甲盖大小。但是它的重量却很大，重到几万吨。这个东西放在手上，它的重力会穿破手吗？](https://www.zhihu.com/question/519865099)<br />
+8. [如何看待国科大校长周琪院士 2023 年毕业典礼多次哽咽发言?](https://www.zhihu.com/question/609952307)<br />
 9. [公司的一个同事和我关系特别好，要辞职了，他的岗位很重要，我和老板的关系也好，我要先跟老板说一声吗?](https://www.zhihu.com/question/609530299)<br />
 
 > 百度  
