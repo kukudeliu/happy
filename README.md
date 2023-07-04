@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 22:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 22:40:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [痞幼](https://s.weibo.com/weibo?q=%E7%97%9E%E5%B9%BC&t=31&band_rank=6&Refer=top)<br />
 7. [日本札幌一酒店惊现无头男尸](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%9C%AD%E5%B9%8C%E4%B8%80%E9%85%92%E5%BA%97%E6%83%8A%E7%8E%B0%E6%97%A0%E5%A4%B4%E7%94%B7%E5%B0%B8%23&t=31&band_rank=7&Refer=top)<br />
 8. [胡继勇被免去多项职务](https://s.weibo.com/weibo?q=%23%E8%83%A1%E7%BB%A7%E5%8B%87%E8%A2%AB%E5%85%8D%E5%8E%BB%E5%A4%9A%E9%A1%B9%E8%81%8C%E5%8A%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [EDG 亚运野辅](https://s.weibo.com/weibo?q=EDG%20%E4%BA%9A%E8%BF%90%E9%87%8E%E8%BE%85&t=31&band_rank=9&Refer=top)<br />
+9. [东京一店长闻到煤气味后点了根烟](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E4%BA%AC%E4%B8%80%E5%BA%97%E9%95%BF%E9%97%BB%E5%88%B0%E7%85%A4%E6%B0%94%E5%91%B3%E5%90%8E%E7%82%B9%E4%BA%86%E6%A0%B9%E7%83%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
