@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 21:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 21:36:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [朱某龙骑车去痞幼家偷茅台](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E6%9F%90%E9%BE%99%E9%AA%91%E8%BD%A6%E5%8E%BB%E7%97%9E%E5%B9%BC%E5%AE%B6%E5%81%B7%E8%8C%85%E5%8F%B0%23&t=31&band_rank=6&Refer=top)<br />
 7. [莲花楼](https://s.weibo.com/weibo?q=%E8%8E%B2%E8%8A%B1%E6%A5%BC&t=31&band_rank=7&Refer=top)<br />
 8. [我的人间烟火官宣定档](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E4%BA%BA%E9%97%B4%E7%83%9F%E7%81%AB%E5%AE%98%E5%AE%A3%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=8&Refer=top)<br />
-9. [东京一店长闻到煤气味后点了根烟](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E4%BA%AC%E4%B8%80%E5%BA%97%E9%95%BF%E9%97%BB%E5%88%B0%E7%85%A4%E6%B0%94%E5%91%B3%E5%90%8E%E7%82%B9%E4%BA%86%E6%A0%B9%E7%83%9F%23&t=31&band_rank=9&Refer=top)<br />
+9. [苏州大学录取通知书太用心了](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E5%B7%9E%E5%A4%A7%E5%AD%A6%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E5%A4%AA%E7%94%A8%E5%BF%83%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
