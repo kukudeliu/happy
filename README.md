@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 22:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 22:38:01</h4></div>
 
 > 微博  
 
@@ -19,10 +19,10 @@
 3. [湖南一火车站不让进候车厅，乘客顶烈日排队，铁路官方回应「非营业时段不开放」，如何看待此事？](https://www.zhihu.com/question/610039783)<br />
 4. [如何看待 26 城发布地铁年报，但只有 4 城是赚到钱的？地铁是个「亏钱」的生意吗？](https://www.zhihu.com/question/610117816)<br />
 5. [医院实习生不小心把锐器等垃圾丢进医疗垃圾犯法吗?](https://www.zhihu.com/question/609510495)<br />
-6. [两部门发布公告表示为维护国家安全和利益，决定对镓、锗相关物项实施出口管制，如何看待这一举措？](https://www.zhihu.com/question/610105939)<br />
-7. [这届亚运会，首次作为正式项目的手游电竞比赛都有什么值得期待？](https://www.zhihu.com/question/609567949)<br />
-8. [泰山那么矮，为啥是五岳之首？](https://www.zhihu.com/question/36468499)<br />
-9. [如何评价 7 月 4 日发布的 iQOO 11S，作为本届亚运会电竞赛事官方用机，都有哪些亮点？](https://www.zhihu.com/question/609567853)<br />
+6. [这届亚运会，首次作为正式项目的手游电竞比赛都有什么值得期待？](https://www.zhihu.com/question/609567949)<br />
+7. [2023 LPL 夏季赛 EDG 1:2 不敌 TT，如何评价这场比赛？](https://www.zhihu.com/question/610296656)<br />
+8. [如何评价 7 月 4 日发布的 iQOO 11S，作为本届亚运会电竞赛事官方用机，都有哪些亮点？](https://www.zhihu.com/question/609567853)<br />
+9. []()<br />
 
 > 百度  
 
