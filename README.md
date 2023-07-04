@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 13:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 13:28:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [黄渤被防暴力划伤膜背刺](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%B8%A4%E8%A2%AB%E9%98%B2%E6%9A%B4%E5%8A%9B%E5%88%92%E4%BC%A4%E8%86%9C%E8%83%8C%E5%88%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [黑执事](https://s.weibo.com/weibo?q=%E9%BB%91%E6%89%A7%E4%BA%8B&t=31&band_rank=7&Refer=top)<br />
 8. [减肥人的黄金40天](https://s.weibo.com/weibo?q=%23%E5%87%8F%E8%82%A5%E4%BA%BA%E7%9A%84%E9%BB%84%E9%87%9140%E5%A4%A9%23&t=31&band_rank=8&Refer=top)<br />
-9. [妻子回应男子起哄怂恿轻生者跳楼](https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%90%E8%B5%B7%E5%93%84%E6%80%82%E6%81%BF%E8%BD%BB%E7%94%9F%E8%80%85%E8%B7%B3%E6%A5%BC%23&t=31&band_rank=9&Refer=top)<br />
+9. [观众缘好的明星](https://s.weibo.com/weibo?q=%23%E8%A7%82%E4%BC%97%E7%BC%98%E5%A5%BD%E7%9A%84%E6%98%8E%E6%98%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
