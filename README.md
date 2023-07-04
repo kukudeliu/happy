@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 15:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 15:04:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [婚检后才知道自己有蚕豆病](https://s.weibo.com/weibo?q=%23%E5%A9%9A%E6%A3%80%E5%90%8E%E6%89%8D%E7%9F%A5%E9%81%93%E8%87%AA%E5%B7%B1%E6%9C%89%E8%9A%95%E8%B1%86%E7%97%85%23&t=31&band_rank=6&Refer=top)<br />
 7. [金星吐槽女明星走红毯捂胸口](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%98%9F%E5%90%90%E6%A7%BD%E5%A5%B3%E6%98%8E%E6%98%9F%E8%B5%B0%E7%BA%A2%E6%AF%AF%E6%8D%82%E8%83%B8%E5%8F%A3%23&t=31&band_rank=7&Refer=top)<br />
 8. [北科大录取通知书是用钢做的](https://s.weibo.com/weibo?q=%23%E5%8C%97%E7%A7%91%E5%A4%A7%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E6%98%AF%E7%94%A8%E9%92%A2%E5%81%9A%E7%9A%84%23&t=31&band_rank=8&Refer=top)<br />
-9. [炎亚纶节目镜头遭删减](https://s.weibo.com/weibo?q=%23%E7%82%8E%E4%BA%9A%E7%BA%B6%E8%8A%82%E7%9B%AE%E9%95%9C%E5%A4%B4%E9%81%AD%E5%88%A0%E5%87%8F%23&t=31&band_rank=9&Refer=top)<br />
+9. [任敏认领猪猪敏](https://s.weibo.com/weibo?q=%23%E4%BB%BB%E6%95%8F%E8%AE%A4%E9%A2%86%E7%8C%AA%E7%8C%AA%E6%95%8F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -34,7 +34,7 @@
 6. [金星吐槽女明星走红毯捂胸口](https://www.baidu.com/s?wd=%E9%87%91%E6%98%9F%E5%90%90%E6%A7%BD%E5%A5%B3%E6%98%8E%E6%98%9F%E8%B5%B0%E7%BA%A2%E6%AF%AF%E6%8D%82%E8%83%B8%E5%8F%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [媒体：“被逼吃屎”是怎么和解的？](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E2%80%9C%E8%A2%AB%E9%80%BC%E5%90%83%E5%B1%8E%E2%80%9D%E6%98%AF%E6%80%8E%E4%B9%88%E5%92%8C%E8%A7%A3%E7%9A%84%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [网友称看消失的她时发现靠背有针](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B0%E7%9C%8B%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E6%97%B6%E5%8F%91%E7%8E%B0%E9%9D%A0%E8%83%8C%E6%9C%89%E9%92%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [东京大楼爆炸瞬间 有人高喊快逃](https://www.baidu.com/s?wd=%E4%B8%9C%E4%BA%AC%E5%A4%A7%E6%A5%BC%E7%88%86%E7%82%B8%E7%9E%AC%E9%97%B4+%E6%9C%89%E4%BA%BA%E9%AB%98%E5%96%8A%E5%BF%AB%E9%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [高温叠加少雨 北方2地出现特旱](https://www.baidu.com/s?wd=%E9%AB%98%E6%B8%A9%E5%8F%A0%E5%8A%A0%E5%B0%91%E9%9B%A8+%E5%8C%97%E6%96%B92%E5%9C%B0%E5%87%BA%E7%8E%B0%E7%89%B9%E6%97%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [金星吐槽女明星走红毯捂胸口](https://www.baidu.com/s?wd=%E9%87%91%E6%98%9F%E5%90%90%E6%A7%BD%E5%A5%B3%E6%98%8E%E6%98%9F%E8%B5%B0%E7%BA%A2%E6%AF%AF%E6%8D%82%E8%83%B8%E5%8F%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [媒体：“被逼吃屎”是怎么和解的？](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E2%80%9C%E8%A2%AB%E9%80%BC%E5%90%83%E5%B1%8E%E2%80%9D%E6%98%AF%E6%80%8E%E4%B9%88%E5%92%8C%E8%A7%A3%E7%9A%84%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [网友称看消失的她时发现靠背有针](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B0%E7%9C%8B%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E6%97%B6%E5%8F%91%E7%8E%B0%E9%9D%A0%E8%83%8C%E6%9C%89%E9%92%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [东京大楼爆炸瞬间 有人高喊快逃](https://www.baidu.com/s?wd=%E4%B8%9C%E4%BA%AC%E5%A4%A7%E6%A5%BC%E7%88%86%E7%82%B8%E7%9E%AC%E9%97%B4+%E6%9C%89%E4%BA%BA%E9%AB%98%E5%96%8A%E5%BF%AB%E9%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [高温叠加少雨 北方2地出现特旱](https://www.baidu.com/s?wd=%E9%AB%98%E6%B8%A9%E5%8F%A0%E5%8A%A0%E5%B0%91%E9%9B%A8+%E5%8C%97%E6%96%B92%E5%9C%B0%E5%87%BA%E7%8E%B0%E7%89%B9%E6%97%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
