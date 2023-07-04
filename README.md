@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 13:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 13:01:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [杭州女子买彩票误打误撞中了一千万](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%A5%B3%E5%AD%90%E4%B9%B0%E5%BD%A9%E7%A5%A8%E8%AF%AF%E6%89%93%E8%AF%AF%E6%92%9E%E4%B8%AD%E4%BA%86%E4%B8%80%E5%8D%83%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [黄渤被防暴力划伤膜背刺](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%B8%A4%E8%A2%AB%E9%98%B2%E6%9A%B4%E5%8A%9B%E5%88%92%E4%BC%A4%E8%86%9C%E8%83%8C%E5%88%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [花花和叶3岁生日合照](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%8A%B1%E5%92%8C%E5%8F%B63%E5%B2%81%E7%94%9F%E6%97%A5%E5%90%88%E7%85%A7%23&t=31&band_rank=8&Refer=top)<br />
-9. [男子故意1次取1元逼哭柜员](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%95%85%E6%84%8F1%E6%AC%A1%E5%8F%961%E5%85%83%E9%80%BC%E5%93%AD%E6%9F%9C%E5%91%98%23&t=31&band_rank=9&Refer=top)<br />
+9. [减肥人的黄金40天](https://s.weibo.com/weibo?q=%23%E5%87%8F%E8%82%A5%E4%BA%BA%E7%9A%84%E9%BB%84%E9%87%9140%E5%A4%A9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -32,8 +32,8 @@
 4. [激活乡土文化生命力](https://www.baidu.com/s?wd=%E6%BF%80%E6%B4%BB%E4%B9%A1%E5%9C%9F%E6%96%87%E5%8C%96%E7%94%9F%E5%91%BD%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [越南因南海九段线禁止芭比上映](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E5%9B%A0%E5%8D%97%E6%B5%B7%E4%B9%9D%E6%AE%B5%E7%BA%BF%E7%A6%81%E6%AD%A2%E8%8A%AD%E6%AF%94%E4%B8%8A%E6%98%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子偷住无人别墅多日喝光6瓶茅台](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%B7%E4%BD%8F%E6%97%A0%E4%BA%BA%E5%88%AB%E5%A2%85%E5%A4%9A%E6%97%A5%E5%96%9D%E5%85%896%E7%93%B6%E8%8C%85%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [小孩影厅排泄致退票家长拒赔偿](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A9%E5%BD%B1%E5%8E%85%E6%8E%92%E6%B3%84%E8%87%B4%E9%80%80%E7%A5%A8%E5%AE%B6%E9%95%BF%E6%8B%92%E8%B5%94%E5%81%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [扬言“弄死你”女交警系辅警](https://www.baidu.com/s?wd=%E6%89%AC%E8%A8%80%E2%80%9C%E5%BC%84%E6%AD%BB%E4%BD%A0%E2%80%9D%E5%A5%B3%E4%BA%A4%E8%AD%A6%E7%B3%BB%E8%BE%85%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [扬言“弄死你”女交警系辅警](https://www.baidu.com/s?wd=%E6%89%AC%E8%A8%80%E2%80%9C%E5%BC%84%E6%AD%BB%E4%BD%A0%E2%80%9D%E5%A5%B3%E4%BA%A4%E8%AD%A6%E7%B3%BB%E8%BE%85%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [小孩影厅排泄致退票家长拒赔偿](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A9%E5%BD%B1%E5%8E%85%E6%8E%92%E6%B3%84%E8%87%B4%E9%80%80%E7%A5%A8%E5%AE%B6%E9%95%BF%E6%8B%92%E8%B5%94%E5%81%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [女子施救倒地大爷围观人不停泼冷水](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%96%BD%E6%95%91%E5%80%92%E5%9C%B0%E5%A4%A7%E7%88%B7%E5%9B%B4%E8%A7%82%E4%BA%BA%E4%B8%8D%E5%81%9C%E6%B3%BC%E5%86%B7%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -44,6 +44,6 @@
 4. [激活乡土文化生命力](https://www.baidu.com/s?wd=%E6%BF%80%E6%B4%BB%E4%B9%A1%E5%9C%9F%E6%96%87%E5%8C%96%E7%94%9F%E5%91%BD%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [越南因南海九段线禁止芭比上映](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E5%9B%A0%E5%8D%97%E6%B5%B7%E4%B9%9D%E6%AE%B5%E7%BA%BF%E7%A6%81%E6%AD%A2%E8%8A%AD%E6%AF%94%E4%B8%8A%E6%98%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子偷住无人别墅多日喝光6瓶茅台](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%B7%E4%BD%8F%E6%97%A0%E4%BA%BA%E5%88%AB%E5%A2%85%E5%A4%9A%E6%97%A5%E5%96%9D%E5%85%896%E7%93%B6%E8%8C%85%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [小孩影厅排泄致退票家长拒赔偿](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A9%E5%BD%B1%E5%8E%85%E6%8E%92%E6%B3%84%E8%87%B4%E9%80%80%E7%A5%A8%E5%AE%B6%E9%95%BF%E6%8B%92%E8%B5%94%E5%81%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [扬言“弄死你”女交警系辅警](https://www.baidu.com/s?wd=%E6%89%AC%E8%A8%80%E2%80%9C%E5%BC%84%E6%AD%BB%E4%BD%A0%E2%80%9D%E5%A5%B3%E4%BA%A4%E8%AD%A6%E7%B3%BB%E8%BE%85%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [扬言“弄死你”女交警系辅警](https://www.baidu.com/s?wd=%E6%89%AC%E8%A8%80%E2%80%9C%E5%BC%84%E6%AD%BB%E4%BD%A0%E2%80%9D%E5%A5%B3%E4%BA%A4%E8%AD%A6%E7%B3%BB%E8%BE%85%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [小孩影厅排泄致退票家长拒赔偿](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A9%E5%BD%B1%E5%8E%85%E6%8E%92%E6%B3%84%E8%87%B4%E9%80%80%E7%A5%A8%E5%AE%B6%E9%95%BF%E6%8B%92%E8%B5%94%E5%81%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [女子施救倒地大爷围观人不停泼冷水](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%96%BD%E6%95%91%E5%80%92%E5%9C%B0%E5%A4%A7%E7%88%B7%E5%9B%B4%E8%A7%82%E4%BA%BA%E4%B8%8D%E5%81%9C%E6%B3%BC%E5%86%B7%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
