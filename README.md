@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 09:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 09:18:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [医院实行「年薪制」，主任 30 万、主治 20 万，你怎么看？](https://www.zhihu.com/question/610087179)<br />
 7. [如何看待国科大校长周琪院士 2023 年毕业典礼多次哽咽发言?](https://www.zhihu.com/question/609952307)<br />
 8. [一个很小的东西，比如指甲盖大小。但是它的重量却很大，重到几万吨。这个东西放在手上，它的重力会穿破手吗？](https://www.zhihu.com/question/519865099)<br />
-9. [专家称「尽快研究出台遗赠税，弱化财富两极分化走势」，如何看待此观点？可行性如何？](https://www.zhihu.com/question/610090923)<br />
+9. [上海 94 岁老人实名举报「遭保姆虐待，250 多万养老钱被卷光」，警方已介入，具体情况如何？](https://www.zhihu.com/question/610021603)<br />
 
 > 百度  
 
@@ -33,8 +33,8 @@
 5. [女工程师为出轨对象做间谍17年](https://www.baidu.com/s?wd=%E5%A5%B3%E5%B7%A5%E7%A8%8B%E5%B8%88%E4%B8%BA%E5%87%BA%E8%BD%A8%E5%AF%B9%E8%B1%A1%E5%81%9A%E9%97%B4%E8%B0%8D17%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [超7成年轻人存款不足10万](https://www.baidu.com/s?wd=%E8%B6%857%E6%88%90%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%AD%98%E6%AC%BE%E4%B8%8D%E8%B6%B310%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [工人高温修空调女子留其吃饭](https://www.baidu.com/s?wd=%E5%B7%A5%E4%BA%BA%E9%AB%98%E6%B8%A9%E4%BF%AE%E7%A9%BA%E8%B0%83%E5%A5%B3%E5%AD%90%E7%95%99%E5%85%B6%E5%90%83%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [多人组团偷吃榴莲致超市损失近千元](https://www.baidu.com/s?wd=%E5%A4%9A%E4%BA%BA%E7%BB%84%E5%9B%A2%E5%81%B7%E5%90%83%E6%A6%B4%E8%8E%B2%E8%87%B4%E8%B6%85%E5%B8%82%E6%8D%9F%E5%A4%B1%E8%BF%91%E5%8D%83%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子不满柜员询问取款用途1次取1元](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%8D%E6%BB%A1%E6%9F%9C%E5%91%98%E8%AF%A2%E9%97%AE%E5%8F%96%E6%AC%BE%E7%94%A8%E9%80%941%E6%AC%A1%E5%8F%961%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子不满柜员询问取款用途1次取1元](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%8D%E6%BB%A1%E6%9F%9C%E5%91%98%E8%AF%A2%E9%97%AE%E5%8F%96%E6%AC%BE%E7%94%A8%E9%80%941%E6%AC%A1%E5%8F%961%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [多人组团偷吃榴莲致超市损失近千元](https://www.baidu.com/s?wd=%E5%A4%9A%E4%BA%BA%E7%BB%84%E5%9B%A2%E5%81%B7%E5%90%83%E6%A6%B4%E8%8E%B2%E8%87%B4%E8%B6%85%E5%B8%82%E6%8D%9F%E5%A4%B1%E8%BF%91%E5%8D%83%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [女工程师为出轨对象做间谍17年](https://www.baidu.com/s?wd=%E5%A5%B3%E5%B7%A5%E7%A8%8B%E5%B8%88%E4%B8%BA%E5%87%BA%E8%BD%A8%E5%AF%B9%E8%B1%A1%E5%81%9A%E9%97%B4%E8%B0%8D17%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [超7成年轻人存款不足10万](https://www.baidu.com/s?wd=%E8%B6%857%E6%88%90%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%AD%98%E6%AC%BE%E4%B8%8D%E8%B6%B310%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [工人高温修空调女子留其吃饭](https://www.baidu.com/s?wd=%E5%B7%A5%E4%BA%BA%E9%AB%98%E6%B8%A9%E4%BF%AE%E7%A9%BA%E8%B0%83%E5%A5%B3%E5%AD%90%E7%95%99%E5%85%B6%E5%90%83%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [多人组团偷吃榴莲致超市损失近千元](https://www.baidu.com/s?wd=%E5%A4%9A%E4%BA%BA%E7%BB%84%E5%9B%A2%E5%81%B7%E5%90%83%E6%A6%B4%E8%8E%B2%E8%87%B4%E8%B6%85%E5%B8%82%E6%8D%9F%E5%A4%B1%E8%BF%91%E5%8D%83%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子不满柜员询问取款用途1次取1元](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%8D%E6%BB%A1%E6%9F%9C%E5%91%98%E8%AF%A2%E9%97%AE%E5%8F%96%E6%AC%BE%E7%94%A8%E9%80%941%E6%AC%A1%E5%8F%961%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子不满柜员询问取款用途1次取1元](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%8D%E6%BB%A1%E6%9F%9C%E5%91%98%E8%AF%A2%E9%97%AE%E5%8F%96%E6%AC%BE%E7%94%A8%E9%80%941%E6%AC%A1%E5%8F%961%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [多人组团偷吃榴莲致超市损失近千元](https://www.baidu.com/s?wd=%E5%A4%9A%E4%BA%BA%E7%BB%84%E5%9B%A2%E5%81%B7%E5%90%83%E6%A6%B4%E8%8E%B2%E8%87%B4%E8%B6%85%E5%B8%82%E6%8D%9F%E5%A4%B1%E8%BF%91%E5%8D%83%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
