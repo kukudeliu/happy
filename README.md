@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 19:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 19:14:02</h4></div>
 
 > 微博  
 
@@ -32,8 +32,8 @@
 4. [激活乡土文化生命力](https://www.baidu.com/s?wd=%E6%BF%80%E6%B4%BB%E4%B9%A1%E5%9C%9F%E6%96%87%E5%8C%96%E7%94%9F%E5%91%BD%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男生被要28万8彩礼写信给县长求整治](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E8%A2%AB%E8%A6%8128%E4%B8%878%E5%BD%A9%E7%A4%BC%E5%86%99%E4%BF%A1%E7%BB%99%E5%8E%BF%E9%95%BF%E6%B1%82%E6%95%B4%E6%B2%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [王毅：头发染得再黄也变不成西方人](https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%EF%BC%9A%E5%A4%B4%E5%8F%91%E6%9F%93%E5%BE%97%E5%86%8D%E9%BB%84%E4%B9%9F%E5%8F%98%E4%B8%8D%E6%88%90%E8%A5%BF%E6%96%B9%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [13岁男孩被送特训学校戒网瘾遭猥亵](https://www.baidu.com/s?wd=13%E5%B2%81%E7%94%B7%E5%AD%A9%E8%A2%AB%E9%80%81%E7%89%B9%E8%AE%AD%E5%AD%A6%E6%A0%A1%E6%88%92%E7%BD%91%E7%98%BE%E9%81%AD%E7%8C%A5%E4%BA%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [呼和浩特山洪失联3人已遇难](https://www.baidu.com/s?wd=%E5%91%BC%E5%92%8C%E6%B5%A9%E7%89%B9%E5%B1%B1%E6%B4%AA%E5%A4%B1%E8%81%943%E4%BA%BA%E5%B7%B2%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [医院回应违规购买二手体外循环机](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E8%BF%9D%E8%A7%84%E8%B4%AD%E4%B9%B0%E4%BA%8C%E6%89%8B%E4%BD%93%E5%A4%96%E5%BE%AA%E7%8E%AF%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [13岁男孩被送特训学校戒网瘾遭猥亵](https://www.baidu.com/s?wd=13%E5%B2%81%E7%94%B7%E5%AD%A9%E8%A2%AB%E9%80%81%E7%89%B9%E8%AE%AD%E5%AD%A6%E6%A0%A1%E6%88%92%E7%BD%91%E7%98%BE%E9%81%AD%E7%8C%A5%E4%BA%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [台湾网友跟着解放军用别瞎吵吵造句](https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E7%BD%91%E5%8F%8B%E8%B7%9F%E7%9D%80%E8%A7%A3%E6%94%BE%E5%86%9B%E7%94%A8%E5%88%AB%E7%9E%8E%E5%90%B5%E5%90%B5%E9%80%A0%E5%8F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -44,6 +44,6 @@
 4. [激活乡土文化生命力](https://www.baidu.com/s?wd=%E6%BF%80%E6%B4%BB%E4%B9%A1%E5%9C%9F%E6%96%87%E5%8C%96%E7%94%9F%E5%91%BD%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男生被要28万8彩礼写信给县长求整治](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E8%A2%AB%E8%A6%8128%E4%B8%878%E5%BD%A9%E7%A4%BC%E5%86%99%E4%BF%A1%E7%BB%99%E5%8E%BF%E9%95%BF%E6%B1%82%E6%95%B4%E6%B2%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [王毅：头发染得再黄也变不成西方人](https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%EF%BC%9A%E5%A4%B4%E5%8F%91%E6%9F%93%E5%BE%97%E5%86%8D%E9%BB%84%E4%B9%9F%E5%8F%98%E4%B8%8D%E6%88%90%E8%A5%BF%E6%96%B9%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [13岁男孩被送特训学校戒网瘾遭猥亵](https://www.baidu.com/s?wd=13%E5%B2%81%E7%94%B7%E5%AD%A9%E8%A2%AB%E9%80%81%E7%89%B9%E8%AE%AD%E5%AD%A6%E6%A0%A1%E6%88%92%E7%BD%91%E7%98%BE%E9%81%AD%E7%8C%A5%E4%BA%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [呼和浩特山洪失联3人已遇难](https://www.baidu.com/s?wd=%E5%91%BC%E5%92%8C%E6%B5%A9%E7%89%B9%E5%B1%B1%E6%B4%AA%E5%A4%B1%E8%81%943%E4%BA%BA%E5%B7%B2%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [医院回应违规购买二手体外循环机](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E8%BF%9D%E8%A7%84%E8%B4%AD%E4%B9%B0%E4%BA%8C%E6%89%8B%E4%BD%93%E5%A4%96%E5%BE%AA%E7%8E%AF%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [13岁男孩被送特训学校戒网瘾遭猥亵](https://www.baidu.com/s?wd=13%E5%B2%81%E7%94%B7%E5%AD%A9%E8%A2%AB%E9%80%81%E7%89%B9%E8%AE%AD%E5%AD%A6%E6%A0%A1%E6%88%92%E7%BD%91%E7%98%BE%E9%81%AD%E7%8C%A5%E4%BA%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [台湾网友跟着解放军用别瞎吵吵造句](https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E7%BD%91%E5%8F%8B%E8%B7%9F%E7%9D%80%E8%A7%A3%E6%94%BE%E5%86%9B%E7%94%A8%E5%88%AB%E7%9E%8E%E5%90%B5%E5%90%B5%E9%80%A0%E5%8F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
