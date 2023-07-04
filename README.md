@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 00:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 00:18:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [女子称入职时被要求上交毕业证原件](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%B0%E5%85%A5%E8%81%8C%E6%97%B6%E8%A2%AB%E8%A6%81%E6%B1%82%E4%B8%8A%E4%BA%A4%E6%AF%95%E4%B8%9A%E8%AF%81%E5%8E%9F%E4%BB%B6%23&t=31&band_rank=2&Refer=top)<br />
 3. [闪闪发光的中国00后](https://s.weibo.com/weibo?q=%23%E9%97%AA%E9%97%AA%E5%8F%91%E5%85%89%E7%9A%84%E4%B8%AD%E5%9B%BD00%E5%90%8E%23&t=31&band_rank=3&Refer=top)<br />
 4. [胡继勇被免去多项职务](https://s.weibo.com/weibo?q=%23%E8%83%A1%E7%BB%A7%E5%8B%87%E8%A2%AB%E5%85%8D%E5%8E%BB%E5%A4%9A%E9%A1%B9%E8%81%8C%E5%8A%A1%23&t=31&band_rank=4&Refer=top)<br />
-5. [秦牛正威回应为了男友改名](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E7%89%9B%E6%AD%A3%E5%A8%81%E5%9B%9E%E5%BA%94%E4%B8%BA%E4%BA%86%E7%94%B7%E5%8F%8B%E6%94%B9%E5%90%8D%23&t=31&band_rank=5&Refer=top)<br />
-6. [褪黑素](https://s.weibo.com/weibo?q=%E8%A4%AA%E9%BB%91%E7%B4%A0&t=31&band_rank=6&Refer=top)<br />
+5. [褪黑素](https://s.weibo.com/weibo?q=%E8%A4%AA%E9%BB%91%E7%B4%A0&t=31&band_rank=5&Refer=top)<br />
+6. [秦牛正威回应为了男友改名](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E7%89%9B%E6%AD%A3%E5%A8%81%E5%9B%9E%E5%BA%94%E4%B8%BA%E4%BA%86%E7%94%B7%E5%8F%8B%E6%94%B9%E5%90%8D%23&t=31&band_rank=6&Refer=top)<br />
 7. [日本札幌一酒店惊现无头男尸](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%9C%AD%E5%B9%8C%E4%B8%80%E9%85%92%E5%BA%97%E6%83%8A%E7%8E%B0%E6%97%A0%E5%A4%B4%E7%94%B7%E5%B0%B8%23&t=31&band_rank=7&Refer=top)<br />
 8. [马龙](https://s.weibo.com/weibo?q=%E9%A9%AC%E9%BE%99&t=31&band_rank=8&Refer=top)<br />
 9. [陈伟霆胸肌快把衬衫扣子崩开了](https://s.weibo.com/weibo?q=%23%E9%99%88%E4%BC%9F%E9%9C%86%E8%83%B8%E8%82%8C%E5%BF%AB%E6%8A%8A%E8%A1%AC%E8%A1%AB%E6%89%A3%E5%AD%90%E5%B4%A9%E5%BC%80%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
