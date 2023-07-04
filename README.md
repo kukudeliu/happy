@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 22:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 22:50:01</h4></div>
 
 > 微博  
 
@@ -20,8 +20,8 @@
 4. [如何看待 26 城发布地铁年报，但只有 4 城是赚到钱的？地铁是个「亏钱」的生意吗？](https://www.zhihu.com/question/610117816)<br />
 5. [医院实习生不小心把锐器等垃圾丢进医疗垃圾犯法吗?](https://www.zhihu.com/question/609510495)<br />
 6. [2023 LPL 夏季赛 EDG 1:2 不敌 TT，如何评价这场比赛？](https://www.zhihu.com/question/610296656)<br />
-7. [这届亚运会，首次作为正式项目的手游电竞比赛都有什么值得期待？](https://www.zhihu.com/question/609567949)<br />
-8. []()<br />
+7. []()<br />
+8. [这届亚运会，首次作为正式项目的手游电竞比赛都有什么值得期待？](https://www.zhihu.com/question/609567949)<br />
 9. [沙特、俄罗斯同日宣布石油减产计划，8 月共减产 150 万桶，原因有哪些？将带来哪些影响？](https://www.zhihu.com/question/610217964)<br />
 
 > 百度  
