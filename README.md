@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 07:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 07:41:01</h4></div>
 
 > 微博  
 
@@ -17,12 +17,12 @@
 1. [美国投资巨头免费接手乌克兰全部国企，包括能源和电网，哪些信息值得关注？](https://www.zhihu.com/question/610223926)<br />
 2. [越南因南海九段线禁止电影《芭比》上映，外交部回应「不应将南海问题同人文交流挂钩」，如何看待越方行为？](https://www.zhihu.com/question/610272972)<br />
 3. [冲绳知事访华，参观北京琉球国墓地遗址，从历史上看，琉球和中国有何渊源？哪些信息值得关注？](https://www.zhihu.com/question/610361691)<br />
-4. [光速这么慢，以后月球和地球怎么联机打游戏？](https://www.zhihu.com/question/609921573)<br />
-5. [如何评价肖战在电视剧《玉骨遥》中的演技？](https://www.zhihu.com/question/609940615)<br />
-6. []()<br />
-7. [高考后有必要跟风染头发吗？](https://www.zhihu.com/question/609581246)<br />
-8. [苏武在贝加尔湖牧羊，条件恶劣，挖食鼠粮草根为生，他为什么不吃羊？](https://www.zhihu.com/question/25483987)<br />
-9. []()<br />
+4. [中国对半导体关键材料镓和锗两种关键金属管制出口，日韩接连回应，中方此举有何影响？还有哪些信息值得关注？](https://www.zhihu.com/question/610357929)<br />
+5. [光速这么慢，以后月球和地球怎么联机打游戏？](https://www.zhihu.com/question/609921573)<br />
+6. [如何评价肖战在电视剧《玉骨遥》中的演技？](https://www.zhihu.com/question/609940615)<br />
+7. []()<br />
+8. [高考后有必要跟风染头发吗？](https://www.zhihu.com/question/609581246)<br />
+9. [苏武在贝加尔湖牧羊，条件恶劣，挖食鼠粮草根为生，他为什么不吃羊？](https://www.zhihu.com/question/25483987)<br />
 
 > 百度  
 
