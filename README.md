@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 20:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 20:07:02</h4></div>
 
 > 微博  
 
-1. [痞幼](https://s.weibo.com/weibo?q=%E7%97%9E%E5%B9%BC&t=31&band_rank=1&Refer=top)<br />
-2. [秦牛正威回应为了男友改名](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E7%89%9B%E6%AD%A3%E5%A8%81%E5%9B%9E%E5%BA%94%E4%B8%BA%E4%BA%86%E7%94%B7%E5%8F%8B%E6%94%B9%E5%90%8D%23&t=31&band_rank=2&Refer=top)<br />
+1. [秦牛正威回应为了男友改名](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E7%89%9B%E6%AD%A3%E5%A8%81%E5%9B%9E%E5%BA%94%E4%B8%BA%E4%BA%86%E7%94%B7%E5%8F%8B%E6%94%B9%E5%90%8D%23&t=31&band_rank=1&Refer=top)<br />
+2. [痞幼](https://s.weibo.com/weibo?q=%E7%97%9E%E5%B9%BC&t=31&band_rank=2&Refer=top)<br />
 3. [这段交通安全宣传片看得有点上头](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%AE%B5%E4%BA%A4%E9%80%9A%E5%AE%89%E5%85%A8%E5%AE%A3%E4%BC%A0%E7%89%87%E7%9C%8B%E5%BE%97%E6%9C%89%E7%82%B9%E4%B8%8A%E5%A4%B4%23&t=31&band_rank=3&Refer=top)<br />
 4. [朱某龙骑车去痞幼家偷茅台](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E6%9F%90%E9%BE%99%E9%AA%91%E8%BD%A6%E5%8E%BB%E7%97%9E%E5%B9%BC%E5%AE%B6%E5%81%B7%E8%8C%85%E5%8F%B0%23&t=31&band_rank=4&Refer=top)<br />
 5. [发现自己误成间谍帮手后主动投案](https://s.weibo.com/weibo?q=%23%E5%8F%91%E7%8E%B0%E8%87%AA%E5%B7%B1%E8%AF%AF%E6%88%90%E9%97%B4%E8%B0%8D%E5%B8%AE%E6%89%8B%E5%90%8E%E4%B8%BB%E5%8A%A8%E6%8A%95%E6%A1%88%23&t=31&band_rank=5&Refer=top)<br />
