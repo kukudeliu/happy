@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 21:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 21:44:01</h4></div>
 
 > 微博  
 
@@ -31,10 +31,10 @@
 3. [小学连开3天家长会 教育局：正调查](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E8%BF%9E%E5%BC%803%E5%A4%A9%E5%AE%B6%E9%95%BF%E4%BC%9A+%E6%95%99%E8%82%B2%E5%B1%80%EF%BC%9A%E6%AD%A3%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [江风海韵绘就生态美](https://www.baidu.com/s?wd=%E6%B1%9F%E9%A3%8E%E6%B5%B7%E9%9F%B5%E7%BB%98%E5%B0%B1%E7%94%9F%E6%80%81%E7%BE%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [牵手门涉事公司近期公布核查处理结果](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E6%B6%89%E4%BA%8B%E5%85%AC%E5%8F%B8%E8%BF%91%E6%9C%9F%E5%85%AC%E5%B8%83%E6%A0%B8%E6%9F%A5%E5%A4%84%E7%90%86%E7%BB%93%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [泰坦号乘客最后时刻:听音乐沉入海底](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9D%A6%E5%8F%B7%E4%B9%98%E5%AE%A2%E6%9C%80%E5%90%8E%E6%97%B6%E5%88%BB%3A%E5%90%AC%E9%9F%B3%E4%B9%90%E6%B2%89%E5%85%A5%E6%B5%B7%E5%BA%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女生遭8名未成年人欺凌 2人被刑拘](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%81%AD8%E5%90%8D%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E6%AC%BA%E5%87%8C+2%E4%BA%BA%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [艺人“塌房”是否会面临天价违约金?](https://www.baidu.com/s?wd=%E8%89%BA%E4%BA%BA%E2%80%9C%E5%A1%8C%E6%88%BF%E2%80%9D%E6%98%AF%E5%90%A6%E4%BC%9A%E9%9D%A2%E4%B8%B4%E5%A4%A9%E4%BB%B7%E8%BF%9D%E7%BA%A6%E9%87%91%3F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [泰坦号乘客最后时刻:听音乐沉入海底](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9D%A6%E5%8F%B7%E4%B9%98%E5%AE%A2%E6%9C%80%E5%90%8E%E6%97%B6%E5%88%BB%3A%E5%90%AC%E9%9F%B3%E4%B9%90%E6%B2%89%E5%85%A5%E6%B5%B7%E5%BA%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [郭树清被免去央行副行长职务](https://www.baidu.com/s?wd=%E9%83%AD%E6%A0%91%E6%B8%85%E8%A2%AB%E5%85%8D%E5%8E%BB%E5%A4%AE%E8%A1%8C%E5%89%AF%E8%A1%8C%E9%95%BF%E8%81%8C%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [日本核污染水排海获认可 中方表态](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%B5%B7%E8%8E%B7%E8%AE%A4%E5%8F%AF+%E4%B8%AD%E6%96%B9%E8%A1%A8%E6%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [13岁被拐女子向人贩子索赔被驳](https://www.baidu.com/s?wd=13%E5%B2%81%E8%A2%AB%E6%8B%90%E5%A5%B3%E5%AD%90%E5%90%91%E4%BA%BA%E8%B4%A9%E5%AD%90%E7%B4%A2%E8%B5%94%E8%A2%AB%E9%A9%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [小学连开3天家长会 教育局：正调查](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E8%BF%9E%E5%BC%803%E5%A4%A9%E5%AE%B6%E9%95%BF%E4%BC%9A+%E6%95%99%E8%82%B2%E5%B1%80%EF%BC%9A%E6%AD%A3%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [江风海韵绘就生态美](https://www.baidu.com/s?wd=%E6%B1%9F%E9%A3%8E%E6%B5%B7%E9%9F%B5%E7%BB%98%E5%B0%B1%E7%94%9F%E6%80%81%E7%BE%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [牵手门涉事公司近期公布核查处理结果](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E6%B6%89%E4%BA%8B%E5%85%AC%E5%8F%B8%E8%BF%91%E6%9C%9F%E5%85%AC%E5%B8%83%E6%A0%B8%E6%9F%A5%E5%A4%84%E7%90%86%E7%BB%93%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [泰坦号乘客最后时刻:听音乐沉入海底](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9D%A6%E5%8F%B7%E4%B9%98%E5%AE%A2%E6%9C%80%E5%90%8E%E6%97%B6%E5%88%BB%3A%E5%90%AC%E9%9F%B3%E4%B9%90%E6%B2%89%E5%85%A5%E6%B5%B7%E5%BA%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女生遭8名未成年人欺凌 2人被刑拘](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%81%AD8%E5%90%8D%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E6%AC%BA%E5%87%8C+2%E4%BA%BA%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [艺人“塌房”是否会面临天价违约金?](https://www.baidu.com/s?wd=%E8%89%BA%E4%BA%BA%E2%80%9C%E5%A1%8C%E6%88%BF%E2%80%9D%E6%98%AF%E5%90%A6%E4%BC%9A%E9%9D%A2%E4%B8%B4%E5%A4%A9%E4%BB%B7%E8%BF%9D%E7%BA%A6%E9%87%91%3F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [泰坦号乘客最后时刻:听音乐沉入海底](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9D%A6%E5%8F%B7%E4%B9%98%E5%AE%A2%E6%9C%80%E5%90%8E%E6%97%B6%E5%88%BB%3A%E5%90%AC%E9%9F%B3%E4%B9%90%E6%B2%89%E5%85%A5%E6%B5%B7%E5%BA%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [郭树清被免去央行副行长职务](https://www.baidu.com/s?wd=%E9%83%AD%E6%A0%91%E6%B8%85%E8%A2%AB%E5%85%8D%E5%8E%BB%E5%A4%AE%E8%A1%8C%E5%89%AF%E8%A1%8C%E9%95%BF%E8%81%8C%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [日本核污染水排海获认可 中方表态](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%B5%B7%E8%8E%B7%E8%AE%A4%E5%8F%AF+%E4%B8%AD%E6%96%B9%E8%A1%A8%E6%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [13岁被拐女子向人贩子索赔被驳](https://www.baidu.com/s?wd=13%E5%B2%81%E8%A2%AB%E6%8B%90%E5%A5%B3%E5%AD%90%E5%90%91%E4%BA%BA%E8%B4%A9%E5%AD%90%E7%B4%A2%E8%B5%94%E8%A2%AB%E9%A9%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
