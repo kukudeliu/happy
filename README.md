@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 07:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 07:47:01</h4></div>
 
 > 微博  
 
 1. [你家会整夜开空调吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%AE%B6%E4%BC%9A%E6%95%B4%E5%A4%9C%E5%BC%80%E7%A9%BA%E8%B0%83%E5%90%97%23&t=31&band_rank=1&Refer=top)<br />
 2. [欧洲代表指责中国遭津巴布韦大使馆参赞质问](https://s.weibo.com/weibo?q=%23%E6%AC%A7%E6%B4%B2%E4%BB%A3%E8%A1%A8%E6%8C%87%E8%B4%A3%E4%B8%AD%E5%9B%BD%E9%81%AD%E6%B4%A5%E5%B7%B4%E5%B8%83%E9%9F%A6%E5%A4%A7%E4%BD%BF%E9%A6%86%E5%8F%82%E8%B5%9E%E8%B4%A8%E9%97%AE%23&t=31&band_rank=2&Refer=top)<br />
 3. [这段交通安全宣传片看得有点上头](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%AE%B5%E4%BA%A4%E9%80%9A%E5%AE%89%E5%85%A8%E5%AE%A3%E4%BC%A0%E7%89%87%E7%9C%8B%E5%BE%97%E6%9C%89%E7%82%B9%E4%B8%8A%E5%A4%B4%23&t=31&band_rank=3&Refer=top)<br />
-4. [北大女生穿马面裙参加毕业典礼](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E5%A5%B3%E7%94%9F%E7%A9%BF%E9%A9%AC%E9%9D%A2%E8%A3%99%E5%8F%82%E5%8A%A0%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%23&t=31&band_rank=4&Refer=top)<br />
-5. [考研和考编同时上岸怎么选](https://s.weibo.com/weibo?q=%23%E8%80%83%E7%A0%94%E5%92%8C%E8%80%83%E7%BC%96%E5%90%8C%E6%97%B6%E4%B8%8A%E5%B2%B8%E6%80%8E%E4%B9%88%E9%80%89%23&t=31&band_rank=5&Refer=top)<br />
+4. [考研和考编同时上岸怎么选](https://s.weibo.com/weibo?q=%23%E8%80%83%E7%A0%94%E5%92%8C%E8%80%83%E7%BC%96%E5%90%8C%E6%97%B6%E4%B8%8A%E5%B2%B8%E6%80%8E%E4%B9%88%E9%80%89%23&t=31&band_rank=4&Refer=top)<br />
+5. [北大女生穿马面裙参加毕业典礼](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E5%A5%B3%E7%94%9F%E7%A9%BF%E9%A9%AC%E9%9D%A2%E8%A3%99%E5%8F%82%E5%8A%A0%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%23&t=31&band_rank=5&Refer=top)<br />
 6. [白敬亭说网络消息大家想一下再信](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E8%AF%B4%E7%BD%91%E7%BB%9C%E6%B6%88%E6%81%AF%E5%A4%A7%E5%AE%B6%E6%83%B3%E4%B8%80%E4%B8%8B%E5%86%8D%E4%BF%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [朱某龙骑车去痞幼家偷茅台](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E6%9F%90%E9%BE%99%E9%AA%91%E8%BD%A6%E5%8E%BB%E7%97%9E%E5%B9%BC%E5%AE%B6%E5%81%B7%E8%8C%85%E5%8F%B0%23&t=31&band_rank=7&Refer=top)<br />
 8. [小姨为了抱认生的孩子用奇招](https://s.weibo.com/weibo?q=%E5%B0%8F%E5%A7%A8%E4%B8%BA%E4%BA%86%E6%8A%B1%E8%AE%A4%E7%94%9F%E7%9A%84%E5%AD%A9%E5%AD%90%E7%94%A8%E5%A5%87%E6%8B%9B&t=31&band_rank=8&Refer=top)<br />
@@ -15,10 +15,10 @@
 > 知乎  
 
 1. [美国投资巨头免费接手乌克兰全部国企，包括能源和电网，哪些信息值得关注？](https://www.zhihu.com/question/610223926)<br />
-2. [越南因南海九段线禁止电影《芭比》上映，外交部回应「不应将南海问题同人文交流挂钩」，如何看待越方行为？](https://www.zhihu.com/question/610272972)<br />
-3. [冲绳知事访华，参观北京琉球国墓地遗址，从历史上看，琉球和中国有何渊源？哪些信息值得关注？](https://www.zhihu.com/question/610361691)<br />
-4. [中国对半导体关键材料镓和锗两种关键金属管制出口，日韩接连回应，中方此举有何影响？还有哪些信息值得关注？](https://www.zhihu.com/question/610357929)<br />
-5. [光速这么慢，以后月球和地球怎么联机打游戏？](https://www.zhihu.com/question/609921573)<br />
+2. [冲绳知事访华，参观北京琉球国墓地遗址，从历史上看，琉球和中国有何渊源？哪些信息值得关注？](https://www.zhihu.com/question/610361691)<br />
+3. [中国对半导体关键材料镓和锗两种关键金属管制出口，日韩接连回应，中方此举有何影响？还有哪些信息值得关注？](https://www.zhihu.com/question/610357929)<br />
+4. [光速这么慢，以后月球和地球怎么联机打游戏？](https://www.zhihu.com/question/609921573)<br />
+5. [越南因南海九段线禁止电影《芭比》上映，外交部回应「不应将南海问题同人文交流挂钩」，如何看待越方行为？](https://www.zhihu.com/question/610272972)<br />
 6. [如何评价肖战在电视剧《玉骨遥》中的演技？](https://www.zhihu.com/question/609940615)<br />
 7. []()<br />
 8. [高考后有必要跟风染头发吗？](https://www.zhihu.com/question/609581246)<br />
