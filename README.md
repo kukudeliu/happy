@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 15:47:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 15:48:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [苏醒 尊重各自工作和身份](https://s.weibo.com/weibo?q=%E8%8B%8F%E9%86%92%20%E5%B0%8A%E9%87%8D%E5%90%84%E8%87%AA%E5%B7%A5%E4%BD%9C%E5%92%8C%E8%BA%AB%E4%BB%BD&t=31&band_rank=6&Refer=top)<br />
 7. [任敏认领猪猪敏](https://s.weibo.com/weibo?q=%23%E4%BB%BB%E6%95%8F%E8%AE%A4%E9%A2%86%E7%8C%AA%E7%8C%AA%E6%95%8F%23&t=31&band_rank=7&Refer=top)<br />
 8. [婚检后才知道自己有蚕豆病](https://s.weibo.com/weibo?q=%23%E5%A9%9A%E6%A3%80%E5%90%8E%E6%89%8D%E7%9F%A5%E9%81%93%E8%87%AA%E5%B7%B1%E6%9C%89%E8%9A%95%E8%B1%86%E7%97%85%23&t=31&band_rank=8&Refer=top)<br />
-9. [金星吐槽女明星走红毯捂胸口](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%98%9F%E5%90%90%E6%A7%BD%E5%A5%B3%E6%98%8E%E6%98%9F%E8%B5%B0%E7%BA%A2%E6%AF%AF%E6%8D%82%E8%83%B8%E5%8F%A3%23&t=31&band_rank=9&Refer=top)<br />
+9. [男子吃菌后看到冰块飘空中果断报警](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%90%83%E8%8F%8C%E5%90%8E%E7%9C%8B%E5%88%B0%E5%86%B0%E5%9D%97%E9%A3%98%E7%A9%BA%E4%B8%AD%E6%9E%9C%E6%96%AD%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
