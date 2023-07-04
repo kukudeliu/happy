@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 06:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 06:20:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [这段交通安全宣传片看得有点上头](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%AE%B5%E4%BA%A4%E9%80%9A%E5%AE%89%E5%85%A8%E5%AE%A3%E4%BC%A0%E7%89%87%E7%9C%8B%E5%BE%97%E6%9C%89%E7%82%B9%E4%B8%8A%E5%A4%B4%23&t=31&band_rank=3&Refer=top)<br />
 4. [朱某龙骑车去痞幼家偷茅台](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E6%9F%90%E9%BE%99%E9%AA%91%E8%BD%A6%E5%8E%BB%E7%97%9E%E5%B9%BC%E5%AE%B6%E5%81%B7%E8%8C%85%E5%8F%B0%23&t=31&band_rank=4&Refer=top)<br />
 5. [小姨为了抱认生的孩子用奇招](https://s.weibo.com/weibo?q=%E5%B0%8F%E5%A7%A8%E4%B8%BA%E4%BA%86%E6%8A%B1%E8%AE%A4%E7%94%9F%E7%9A%84%E5%AD%A9%E5%AD%90%E7%94%A8%E5%A5%87%E6%8B%9B&t=31&band_rank=5&Refer=top)<br />
-6. [日本札幌一酒店惊现无头男尸](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%9C%AD%E5%B9%8C%E4%B8%80%E9%85%92%E5%BA%97%E6%83%8A%E7%8E%B0%E6%97%A0%E5%A4%B4%E7%94%B7%E5%B0%B8%23&t=31&band_rank=6&Refer=top)<br />
-7. [老人高铁霸座掏出一把药丸](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E9%AB%98%E9%93%81%E9%9C%B8%E5%BA%A7%E6%8E%8F%E5%87%BA%E4%B8%80%E6%8A%8A%E8%8D%AF%E4%B8%B8%23&t=31&band_rank=7&Refer=top)<br />
+6. [老人高铁霸座掏出一把药丸](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E9%AB%98%E9%93%81%E9%9C%B8%E5%BA%A7%E6%8E%8F%E5%87%BA%E4%B8%80%E6%8A%8A%E8%8D%AF%E4%B8%B8%23&t=31&band_rank=6&Refer=top)<br />
+7. [日本札幌一酒店惊现无头男尸](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%9C%AD%E5%B9%8C%E4%B8%80%E9%85%92%E5%BA%97%E6%83%8A%E7%8E%B0%E6%97%A0%E5%A4%B4%E7%94%B7%E5%B0%B8%23&t=31&band_rank=7&Refer=top)<br />
 8. [胡继勇被免去多项职务](https://s.weibo.com/weibo?q=%23%E8%83%A1%E7%BB%A7%E5%8B%87%E8%A2%AB%E5%85%8D%E5%8E%BB%E5%A4%9A%E9%A1%B9%E8%81%8C%E5%8A%A1%23&t=31&band_rank=8&Refer=top)<br />
 9. [时影拉住朱颜vs蓝忘机拉住魏无羡](https://s.weibo.com/weibo?q=%23%E6%97%B6%E5%BD%B1%E6%8B%89%E4%BD%8F%E6%9C%B1%E9%A2%9Cvs%E8%93%9D%E5%BF%98%E6%9C%BA%E6%8B%89%E4%BD%8F%E9%AD%8F%E6%97%A0%E7%BE%A1%23&t=31&band_rank=9&Refer=top)<br />
 
