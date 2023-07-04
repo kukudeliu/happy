@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 07:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 07:24:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [东京一店长闻到煤气味后点了根烟](https://www.baidu.com/s?wd=%E4%B8%9C%E4%BA%AC%E4%B8%80%E5%BA%97%E9%95%BF%E9%97%BB%E5%88%B0%E7%85%A4%E6%B0%94%E5%91%B3%E5%90%8E%E7%82%B9%E4%BA%86%E6%A0%B9%E7%83%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [何炅王嘉尔曾预言白敬亭宋轶](https://www.baidu.com/s?wd=%E4%BD%95%E7%82%85%E7%8E%8B%E5%98%89%E5%B0%94%E6%9B%BE%E9%A2%84%E8%A8%80%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女生遭8名未成年人欺凌 2人被刑拘](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%81%AD8%E5%90%8D%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E6%AC%BA%E5%87%8C+2%E4%BA%BA%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女生地铁控诉男孩摸屁股被家长反呛](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%9C%B0%E9%93%81%E6%8E%A7%E8%AF%89%E7%94%B7%E5%AD%A9%E6%91%B8%E5%B1%81%E8%82%A1%E8%A2%AB%E5%AE%B6%E9%95%BF%E5%8F%8D%E5%91%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [马斯克请来三届UFC格斗冠军当教练](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E8%AF%B7%E6%9D%A5%E4%B8%89%E5%B1%8AUFC%E6%A0%BC%E6%96%97%E5%86%A0%E5%86%9B%E5%BD%93%E6%95%99%E7%BB%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [东京一店长闻到煤气味后点了根烟](https://www.baidu.com/s?wd=%E4%B8%9C%E4%BA%AC%E4%B8%80%E5%BA%97%E9%95%BF%E9%97%BB%E5%88%B0%E7%85%A4%E6%B0%94%E5%91%B3%E5%90%8E%E7%82%B9%E4%BA%86%E6%A0%B9%E7%83%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [何炅王嘉尔曾预言白敬亭宋轶](https://www.baidu.com/s?wd=%E4%BD%95%E7%82%85%E7%8E%8B%E5%98%89%E5%B0%94%E6%9B%BE%E9%A2%84%E8%A8%80%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女生遭8名未成年人欺凌 2人被刑拘](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%81%AD8%E5%90%8D%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E6%AC%BA%E5%87%8C+2%E4%BA%BA%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女生地铁控诉男孩摸屁股被家长反呛](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%9C%B0%E9%93%81%E6%8E%A7%E8%AF%89%E7%94%B7%E5%AD%A9%E6%91%B8%E5%B1%81%E8%82%A1%E8%A2%AB%E5%AE%B6%E9%95%BF%E5%8F%8D%E5%91%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [马斯克请来三届UFC格斗冠军当教练](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E8%AF%B7%E6%9D%A5%E4%B8%89%E5%B1%8AUFC%E6%A0%BC%E6%96%97%E5%86%A0%E5%86%9B%E5%BD%93%E6%95%99%E7%BB%83&sa=fyb_news&rsv_dl=fyb_news)<br />
