@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 23:46:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 23:47:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. []()<br />
 6. [光速这么慢，以后月球和地球怎么联机打游戏？](https://www.zhihu.com/question/609921573)<br />
 7. [侯友宜首度表态称接受合乎「中华民国宪法」的「九二共识」，反对蔡英文污蔑「九二共识」，如何看待这一表态？](https://www.zhihu.com/question/610259391)<br />
-8. [泰山那么矮，为啥是五岳之首？](https://www.zhihu.com/question/36468499)<br />
-9. []()<br />
+8. []()<br />
+9. [泰山那么矮，为啥是五岳之首？](https://www.zhihu.com/question/36468499)<br />
 
 > 百度  
 
