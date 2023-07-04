@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 13:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 13:41:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [杭州女子买彩票误打误撞中了一千万](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%A5%B3%E5%AD%90%E4%B9%B0%E5%BD%A9%E7%A5%A8%E8%AF%AF%E6%89%93%E8%AF%AF%E6%92%9E%E4%B8%AD%E4%BA%86%E4%B8%80%E5%8D%83%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [黑执事](https://s.weibo.com/weibo?q=%E9%BB%91%E6%89%A7%E4%BA%8B&t=31&band_rank=7&Refer=top)<br />
 8. [减肥人的黄金40天](https://s.weibo.com/weibo?q=%23%E5%87%8F%E8%82%A5%E4%BA%BA%E7%9A%84%E9%BB%84%E9%87%9140%E5%A4%A9%23&t=31&band_rank=8&Refer=top)<br />
-9. [妻子回应男子起哄怂恿轻生者跳楼](https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%90%E8%B5%B7%E5%93%84%E6%80%82%E6%81%BF%E8%BD%BB%E7%94%9F%E8%80%85%E8%B7%B3%E6%A5%BC%23&t=31&band_rank=9&Refer=top)<br />
+9. [文咏珊还原李木子妆容](https://s.weibo.com/weibo?q=%23%E6%96%87%E5%92%8F%E7%8F%8A%E8%BF%98%E5%8E%9F%E6%9D%8E%E6%9C%A8%E5%AD%90%E5%A6%86%E5%AE%B9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
