@@ -1,15 +1,15 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 00:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 00:59:01</h4></div>
 
 > 微博  
 
 1. [白敬亭说网络消息大家想一下再信](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E8%AF%B4%E7%BD%91%E7%BB%9C%E6%B6%88%E6%81%AF%E5%A4%A7%E5%AE%B6%E6%83%B3%E4%B8%80%E4%B8%8B%E5%86%8D%E4%BF%A1%23&t=31&band_rank=1&Refer=top)<br />
 2. [北大女生穿马面裙参加毕业典礼](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E5%A5%B3%E7%94%9F%E7%A9%BF%E9%A9%AC%E9%9D%A2%E8%A3%99%E5%8F%82%E5%8A%A0%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%23&t=31&band_rank=2&Refer=top)<br />
 3. [闪闪发光的中国00后](https://s.weibo.com/weibo?q=%23%E9%97%AA%E9%97%AA%E5%8F%91%E5%85%89%E7%9A%84%E4%B8%AD%E5%9B%BD00%E5%90%8E%23&t=31&band_rank=3&Refer=top)<br />
-4. [日本札幌一酒店惊现无头男尸](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%9C%AD%E5%B9%8C%E4%B8%80%E9%85%92%E5%BA%97%E6%83%8A%E7%8E%B0%E6%97%A0%E5%A4%B4%E7%94%B7%E5%B0%B8%23&t=31&band_rank=4&Refer=top)<br />
-5. [小姨为了抱认生的孩子用奇招](https://s.weibo.com/weibo?q=%E5%B0%8F%E5%A7%A8%E4%B8%BA%E4%BA%86%E6%8A%B1%E8%AE%A4%E7%94%9F%E7%9A%84%E5%AD%A9%E5%AD%90%E7%94%A8%E5%A5%87%E6%8B%9B&t=31&band_rank=5&Refer=top)<br />
-6. [老人高铁霸座掏出一把药丸](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E9%AB%98%E9%93%81%E9%9C%B8%E5%BA%A7%E6%8E%8F%E5%87%BA%E4%B8%80%E6%8A%8A%E8%8D%AF%E4%B8%B8%23&t=31&band_rank=6&Refer=top)<br />
-7. [秦牛正威回应为了男友改名](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E7%89%9B%E6%AD%A3%E5%A8%81%E5%9B%9E%E5%BA%94%E4%B8%BA%E4%BA%86%E7%94%B7%E5%8F%8B%E6%94%B9%E5%90%8D%23&t=31&band_rank=7&Refer=top)<br />
-8. [女子称入职时被要求上交毕业证原件](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%B0%E5%85%A5%E8%81%8C%E6%97%B6%E8%A2%AB%E8%A6%81%E6%B1%82%E4%B8%8A%E4%BA%A4%E6%AF%95%E4%B8%9A%E8%AF%81%E5%8E%9F%E4%BB%B6%23&t=31&band_rank=8&Refer=top)<br />
+4. [女子称入职时被要求上交毕业证原件](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%B0%E5%85%A5%E8%81%8C%E6%97%B6%E8%A2%AB%E8%A6%81%E6%B1%82%E4%B8%8A%E4%BA%A4%E6%AF%95%E4%B8%9A%E8%AF%81%E5%8E%9F%E4%BB%B6%23&t=31&band_rank=4&Refer=top)<br />
+5. [日本札幌一酒店惊现无头男尸](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%9C%AD%E5%B9%8C%E4%B8%80%E9%85%92%E5%BA%97%E6%83%8A%E7%8E%B0%E6%97%A0%E5%A4%B4%E7%94%B7%E5%B0%B8%23&t=31&band_rank=5&Refer=top)<br />
+6. [小姨为了抱认生的孩子用奇招](https://s.weibo.com/weibo?q=%E5%B0%8F%E5%A7%A8%E4%B8%BA%E4%BA%86%E6%8A%B1%E8%AE%A4%E7%94%9F%E7%9A%84%E5%AD%A9%E5%AD%90%E7%94%A8%E5%A5%87%E6%8B%9B&t=31&band_rank=6&Refer=top)<br />
+7. [老人高铁霸座掏出一把药丸](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E9%AB%98%E9%93%81%E9%9C%B8%E5%BA%A7%E6%8E%8F%E5%87%BA%E4%B8%80%E6%8A%8A%E8%8D%AF%E4%B8%B8%23&t=31&band_rank=7&Refer=top)<br />
+8. [秦牛正威回应为了男友改名](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E7%89%9B%E6%AD%A3%E5%A8%81%E5%9B%9E%E5%BA%94%E4%B8%BA%E4%BA%86%E7%94%B7%E5%8F%8B%E6%94%B9%E5%90%8D%23&t=31&band_rank=8&Refer=top)<br />
 9. [胡继勇被免去多项职务](https://s.weibo.com/weibo?q=%23%E8%83%A1%E7%BB%A7%E5%8B%87%E8%A2%AB%E5%85%8D%E5%8E%BB%E5%A4%9A%E9%A1%B9%E8%81%8C%E5%8A%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -31,10 +31,10 @@
 3. [小学连开3天家长会 教育局：正调查](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E8%BF%9E%E5%BC%803%E5%A4%A9%E5%AE%B6%E9%95%BF%E4%BC%9A+%E6%95%99%E8%82%B2%E5%B1%80%EF%BC%9A%E6%AD%A3%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [江风海韵绘就生态美](https://www.baidu.com/s?wd=%E6%B1%9F%E9%A3%8E%E6%B5%B7%E9%9F%B5%E7%BB%98%E5%B0%B1%E7%94%9F%E6%80%81%E7%BE%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [牵手门涉事公司近期公布核查处理结果](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E6%B6%89%E4%BA%8B%E5%85%AC%E5%8F%B8%E8%BF%91%E6%9C%9F%E5%85%AC%E5%B8%83%E6%A0%B8%E6%9F%A5%E5%A4%84%E7%90%86%E7%BB%93%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [苏醒 尊重各自工作和身份](https://www.baidu.com/s?wd=%E8%8B%8F%E9%86%92+%E5%B0%8A%E9%87%8D%E5%90%84%E8%87%AA%E5%B7%A5%E4%BD%9C%E5%92%8C%E8%BA%AB%E4%BB%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [王毅：头发染得再黄也变不成西方人](https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%EF%BC%9A%E5%A4%B4%E5%8F%91%E6%9F%93%E5%BE%97%E5%86%8D%E9%BB%84%E4%B9%9F%E5%8F%98%E4%B8%8D%E6%88%90%E8%A5%BF%E6%96%B9%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [日本札幌一酒店惊现无头男尸](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%9C%AD%E5%B9%8C%E4%B8%80%E9%85%92%E5%BA%97%E6%83%8A%E7%8E%B0%E6%97%A0%E5%A4%B4%E7%94%B7%E5%B0%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [何炅王嘉尔曾预言白敬亭宋轶](https://www.baidu.com/s?wd=%E4%BD%95%E7%82%85%E7%8E%8B%E5%98%89%E5%B0%94%E6%9B%BE%E9%A2%84%E8%A8%80%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [学生打车遭涨价 开空调另收30](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E6%89%93%E8%BD%A6%E9%81%AD%E6%B6%A8%E4%BB%B7+%E5%BC%80%E7%A9%BA%E8%B0%83%E5%8F%A6%E6%94%B630&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [苏醒 尊重各自工作和身份](https://www.baidu.com/s?wd=%E8%8B%8F%E9%86%92+%E5%B0%8A%E9%87%8D%E5%90%84%E8%87%AA%E5%B7%A5%E4%BD%9C%E5%92%8C%E8%BA%AB%E4%BB%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [何炅王嘉尔曾预言白敬亭宋轶](https://www.baidu.com/s?wd=%E4%BD%95%E7%82%85%E7%8E%8B%E5%98%89%E5%B0%94%E6%9B%BE%E9%A2%84%E8%A8%80%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [王毅：头发染得再黄也变不成西方人](https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%EF%BC%9A%E5%A4%B4%E5%8F%91%E6%9F%93%E5%BE%97%E5%86%8D%E9%BB%84%E4%B9%9F%E5%8F%98%E4%B8%8D%E6%88%90%E8%A5%BF%E6%96%B9%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [小学连开3天家长会 教育局：正调查](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E8%BF%9E%E5%BC%803%E5%A4%A9%E5%AE%B6%E9%95%BF%E4%BC%9A+%E6%95%99%E8%82%B2%E5%B1%80%EF%BC%9A%E6%AD%A3%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [江风海韵绘就生态美](https://www.baidu.com/s?wd=%E6%B1%9F%E9%A3%8E%E6%B5%B7%E9%9F%B5%E7%BB%98%E5%B0%B1%E7%94%9F%E6%80%81%E7%BE%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [牵手门涉事公司近期公布核查处理结果](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E6%B6%89%E4%BA%8B%E5%85%AC%E5%8F%B8%E8%BF%91%E6%9C%9F%E5%85%AC%E5%B8%83%E6%A0%B8%E6%9F%A5%E5%A4%84%E7%90%86%E7%BB%93%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [苏醒 尊重各自工作和身份](https://www.baidu.com/s?wd=%E8%8B%8F%E9%86%92+%E5%B0%8A%E9%87%8D%E5%90%84%E8%87%AA%E5%B7%A5%E4%BD%9C%E5%92%8C%E8%BA%AB%E4%BB%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [王毅：头发染得再黄也变不成西方人](https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%EF%BC%9A%E5%A4%B4%E5%8F%91%E6%9F%93%E5%BE%97%E5%86%8D%E9%BB%84%E4%B9%9F%E5%8F%98%E4%B8%8D%E6%88%90%E8%A5%BF%E6%96%B9%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [日本札幌一酒店惊现无头男尸](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%9C%AD%E5%B9%8C%E4%B8%80%E9%85%92%E5%BA%97%E6%83%8A%E7%8E%B0%E6%97%A0%E5%A4%B4%E7%94%B7%E5%B0%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [何炅王嘉尔曾预言白敬亭宋轶](https://www.baidu.com/s?wd=%E4%BD%95%E7%82%85%E7%8E%8B%E5%98%89%E5%B0%94%E6%9B%BE%E9%A2%84%E8%A8%80%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [学生打车遭涨价 开空调另收30](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E6%89%93%E8%BD%A6%E9%81%AD%E6%B6%A8%E4%BB%B7+%E5%BC%80%E7%A9%BA%E8%B0%83%E5%8F%A6%E6%94%B630&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [苏醒 尊重各自工作和身份](https://www.baidu.com/s?wd=%E8%8B%8F%E9%86%92+%E5%B0%8A%E9%87%8D%E5%90%84%E8%87%AA%E5%B7%A5%E4%BD%9C%E5%92%8C%E8%BA%AB%E4%BB%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [何炅王嘉尔曾预言白敬亭宋轶](https://www.baidu.com/s?wd=%E4%BD%95%E7%82%85%E7%8E%8B%E5%98%89%E5%B0%94%E6%9B%BE%E9%A2%84%E8%A8%80%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [王毅：头发染得再黄也变不成西方人](https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%EF%BC%9A%E5%A4%B4%E5%8F%91%E6%9F%93%E5%BE%97%E5%86%8D%E9%BB%84%E4%B9%9F%E5%8F%98%E4%B8%8D%E6%88%90%E8%A5%BF%E6%96%B9%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
