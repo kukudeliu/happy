@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 17:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 17:20:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [公司的一个同事和我关系特别好，要辞职了，他的岗位很重要，我和老板的关系也好，我要先跟老板说一声吗?](https://www.zhihu.com/question/609530299)<br />
 7. [山姆泡面桶已被炒至 1999 元一桶，仍有人购买，如何看待此事？背后是怎样的消费心理？](https://www.zhihu.com/question/610060285)<br />
 8. [3 名员工盗用前公司游戏代码上线新游戏半年流水 1.5 亿，此案有何警示意义？](https://www.zhihu.com/question/609251189)<br />
-9. []()<br />
+9. [男人挣钱回来晚就不参与家务了吗?](https://www.zhihu.com/question/608109085)<br />
 
 > 百度  
 
@@ -32,9 +32,9 @@
 4. [激活乡土文化生命力](https://www.baidu.com/s?wd=%E6%BF%80%E6%B4%BB%E4%B9%A1%E5%9C%9F%E6%96%87%E5%8C%96%E7%94%9F%E5%91%BD%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男生被要28万8彩礼写信给县长求整治](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E8%A2%AB%E8%A6%8128%E4%B8%878%E5%BD%A9%E7%A4%BC%E5%86%99%E4%BF%A1%E7%BB%99%E5%8E%BF%E9%95%BF%E6%B1%82%E6%95%B4%E6%B2%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [媒体：牵手门涉事干部仍任高管](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E7%89%B5%E6%89%8B%E9%97%A8%E6%B6%89%E4%BA%8B%E5%B9%B2%E9%83%A8%E4%BB%8D%E4%BB%BB%E9%AB%98%E7%AE%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子买彩票误打误撞中了一千万](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B9%B0%E5%BD%A9%E7%A5%A8%E8%AF%AF%E6%89%93%E8%AF%AF%E6%92%9E%E4%B8%AD%E4%BA%86%E4%B8%80%E5%8D%83%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [金星吐槽女明星走红毯捂胸口](https://www.baidu.com/s?wd=%E9%87%91%E6%98%9F%E5%90%90%E6%A7%BD%E5%A5%B3%E6%98%8E%E6%98%9F%E8%B5%B0%E7%BA%A2%E6%AF%AF%E6%8D%82%E8%83%B8%E5%8F%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [商户疑将瓶装水分装售卖10元一杯](https://www.baidu.com/s?wd=%E5%95%86%E6%88%B7%E7%96%91%E5%B0%86%E7%93%B6%E8%A3%85%E6%B0%B4%E5%88%86%E8%A3%85%E5%94%AE%E5%8D%9610%E5%85%83%E4%B8%80%E6%9D%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [痞幼：吃瓜吃到自己头上](https://www.baidu.com/s?wd=%E7%97%9E%E5%B9%BC%EF%BC%9A%E5%90%83%E7%93%9C%E5%90%83%E5%88%B0%E8%87%AA%E5%B7%B1%E5%A4%B4%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子买彩票误打误撞中了一千万](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B9%B0%E5%BD%A9%E7%A5%A8%E8%AF%AF%E6%89%93%E8%AF%AF%E6%92%9E%E4%B8%AD%E4%BA%86%E4%B8%80%E5%8D%83%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [金星吐槽女明星走红毯捂胸口](https://www.baidu.com/s?wd=%E9%87%91%E6%98%9F%E5%90%90%E6%A7%BD%E5%A5%B3%E6%98%8E%E6%98%9F%E8%B5%B0%E7%BA%A2%E6%AF%AF%E6%8D%82%E8%83%B8%E5%8F%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [激活乡土文化生命力](https://www.baidu.com/s?wd=%E6%BF%80%E6%B4%BB%E4%B9%A1%E5%9C%9F%E6%96%87%E5%8C%96%E7%94%9F%E5%91%BD%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男生被要28万8彩礼写信给县长求整治](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E8%A2%AB%E8%A6%8128%E4%B8%878%E5%BD%A9%E7%A4%BC%E5%86%99%E4%BF%A1%E7%BB%99%E5%8E%BF%E9%95%BF%E6%B1%82%E6%95%B4%E6%B2%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [媒体：牵手门涉事干部仍任高管](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E7%89%B5%E6%89%8B%E9%97%A8%E6%B6%89%E4%BA%8B%E5%B9%B2%E9%83%A8%E4%BB%8D%E4%BB%BB%E9%AB%98%E7%AE%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子买彩票误打误撞中了一千万](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B9%B0%E5%BD%A9%E7%A5%A8%E8%AF%AF%E6%89%93%E8%AF%AF%E6%92%9E%E4%B8%AD%E4%BA%86%E4%B8%80%E5%8D%83%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [金星吐槽女明星走红毯捂胸口](https://www.baidu.com/s?wd=%E9%87%91%E6%98%9F%E5%90%90%E6%A7%BD%E5%A5%B3%E6%98%8E%E6%98%9F%E8%B5%B0%E7%BA%A2%E6%AF%AF%E6%8D%82%E8%83%B8%E5%8F%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [商户疑将瓶装水分装售卖10元一杯](https://www.baidu.com/s?wd=%E5%95%86%E6%88%B7%E7%96%91%E5%B0%86%E7%93%B6%E8%A3%85%E6%B0%B4%E5%88%86%E8%A3%85%E5%94%AE%E5%8D%9610%E5%85%83%E4%B8%80%E6%9D%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [痞幼：吃瓜吃到自己头上](https://www.baidu.com/s?wd=%E7%97%9E%E5%B9%BC%EF%BC%9A%E5%90%83%E7%93%9C%E5%90%83%E5%88%B0%E8%87%AA%E5%B7%B1%E5%A4%B4%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子买彩票误打误撞中了一千万](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B9%B0%E5%BD%A9%E7%A5%A8%E8%AF%AF%E6%89%93%E8%AF%AF%E6%92%9E%E4%B8%AD%E4%BA%86%E4%B8%80%E5%8D%83%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [金星吐槽女明星走红毯捂胸口](https://www.baidu.com/s?wd=%E9%87%91%E6%98%9F%E5%90%90%E6%A7%BD%E5%A5%B3%E6%98%8E%E6%98%9F%E8%B5%B0%E7%BA%A2%E6%AF%AF%E6%8D%82%E8%83%B8%E5%8F%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
