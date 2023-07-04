@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 10:09:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 10:10:01</h4></div>
 
 > 微博  
 
@@ -28,22 +28,22 @@
 
 1. [功勋不朽](https://www.baidu.com/s?wd=%E5%8A%9F%E5%8B%8B%E4%B8%8D%E6%9C%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [喊“不跳不是人”的大爷是个什么人](https://www.baidu.com/s?wd=%E5%96%8A%E2%80%9C%E4%B8%8D%E8%B7%B3%E4%B8%8D%E6%98%AF%E4%BA%BA%E2%80%9D%E7%9A%84%E5%A4%A7%E7%88%B7%E6%98%AF%E4%B8%AA%E4%BB%80%E4%B9%88%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [扬言“弄死你”女交警系辅警](https://www.baidu.com/s?wd=%E6%89%AC%E8%A8%80%E2%80%9C%E5%BC%84%E6%AD%BB%E4%BD%A0%E2%80%9D%E5%A5%B3%E4%BA%A4%E8%AD%A6%E7%B3%BB%E8%BE%85%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [男子不满柜员询问取款用途1次取1元](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%8D%E6%BB%A1%E6%9F%9C%E5%91%98%E8%AF%A2%E9%97%AE%E5%8F%96%E6%AC%BE%E7%94%A8%E9%80%941%E6%AC%A1%E5%8F%961%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [暑期游新玩法折射消费新趋势](https://www.baidu.com/s?wd=%E6%9A%91%E6%9C%9F%E6%B8%B8%E6%96%B0%E7%8E%A9%E6%B3%95%E6%8A%98%E5%B0%84%E6%B6%88%E8%B4%B9%E6%96%B0%E8%B6%8B%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女工程师为出轨对象做间谍17年](https://www.baidu.com/s?wd=%E5%A5%B3%E5%B7%A5%E7%A8%8B%E5%B8%88%E4%B8%BA%E5%87%BA%E8%BD%A8%E5%AF%B9%E8%B1%A1%E5%81%9A%E9%97%B4%E8%B0%8D17%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [iPhone15及Plus新增青绿色](https://www.baidu.com/s?wd=iPhone15%E5%8F%8APlus%E6%96%B0%E5%A2%9E%E9%9D%92%E7%BB%BF%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子不满柜员询问取款用途1次取1元](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%8D%E6%BB%A1%E6%9F%9C%E5%91%98%E8%AF%A2%E9%97%AE%E5%8F%96%E6%AC%BE%E7%94%A8%E9%80%941%E6%AC%A1%E5%8F%961%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [工人高温修空调女子留其吃饭](https://www.baidu.com/s?wd=%E5%B7%A5%E4%BA%BA%E9%AB%98%E6%B8%A9%E4%BF%AE%E7%A9%BA%E8%B0%83%E5%A5%B3%E5%AD%90%E7%95%99%E5%85%B6%E5%90%83%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [普里戈任：我们将在前线取得新胜利](https://www.baidu.com/s?wd=%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%EF%BC%9A%E6%88%91%E4%BB%AC%E5%B0%86%E5%9C%A8%E5%89%8D%E7%BA%BF%E5%8F%96%E5%BE%97%E6%96%B0%E8%83%9C%E5%88%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [工人高温修空调女子留其吃饭](https://www.baidu.com/s?wd=%E5%B7%A5%E4%BA%BA%E9%AB%98%E6%B8%A9%E4%BF%AE%E7%A9%BA%E8%B0%83%E5%A5%B3%E5%AD%90%E7%95%99%E5%85%B6%E5%90%83%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [普里戈任：我们将在前线取得新胜利](https://www.baidu.com/s?wd=%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%EF%BC%9A%E6%88%91%E4%BB%AC%E5%B0%86%E5%9C%A8%E5%89%8D%E7%BA%BF%E5%8F%96%E5%BE%97%E6%96%B0%E8%83%9C%E5%88%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [东京大楼爆炸瞬间 有人高喊快逃](https://www.baidu.com/s?wd=%E4%B8%9C%E4%BA%AC%E5%A4%A7%E6%A5%BC%E7%88%86%E7%82%B8%E7%9E%AC%E9%97%B4+%E6%9C%89%E4%BA%BA%E9%AB%98%E5%96%8A%E5%BF%AB%E9%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [功勋不朽](https://www.baidu.com/s?wd=%E5%8A%9F%E5%8B%8B%E4%B8%8D%E6%9C%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [喊“不跳不是人”的大爷是个什么人](https://www.baidu.com/s?wd=%E5%96%8A%E2%80%9C%E4%B8%8D%E8%B7%B3%E4%B8%8D%E6%98%AF%E4%BA%BA%E2%80%9D%E7%9A%84%E5%A4%A7%E7%88%B7%E6%98%AF%E4%B8%AA%E4%BB%80%E4%B9%88%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [扬言“弄死你”女交警系辅警](https://www.baidu.com/s?wd=%E6%89%AC%E8%A8%80%E2%80%9C%E5%BC%84%E6%AD%BB%E4%BD%A0%E2%80%9D%E5%A5%B3%E4%BA%A4%E8%AD%A6%E7%B3%BB%E8%BE%85%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [男子不满柜员询问取款用途1次取1元](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%8D%E6%BB%A1%E6%9F%9C%E5%91%98%E8%AF%A2%E9%97%AE%E5%8F%96%E6%AC%BE%E7%94%A8%E9%80%941%E6%AC%A1%E5%8F%961%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [暑期游新玩法折射消费新趋势](https://www.baidu.com/s?wd=%E6%9A%91%E6%9C%9F%E6%B8%B8%E6%96%B0%E7%8E%A9%E6%B3%95%E6%8A%98%E5%B0%84%E6%B6%88%E8%B4%B9%E6%96%B0%E8%B6%8B%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女工程师为出轨对象做间谍17年](https://www.baidu.com/s?wd=%E5%A5%B3%E5%B7%A5%E7%A8%8B%E5%B8%88%E4%B8%BA%E5%87%BA%E8%BD%A8%E5%AF%B9%E8%B1%A1%E5%81%9A%E9%97%B4%E8%B0%8D17%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [iPhone15及Plus新增青绿色](https://www.baidu.com/s?wd=iPhone15%E5%8F%8APlus%E6%96%B0%E5%A2%9E%E9%9D%92%E7%BB%BF%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子不满柜员询问取款用途1次取1元](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%8D%E6%BB%A1%E6%9F%9C%E5%91%98%E8%AF%A2%E9%97%AE%E5%8F%96%E6%AC%BE%E7%94%A8%E9%80%941%E6%AC%A1%E5%8F%961%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [工人高温修空调女子留其吃饭](https://www.baidu.com/s?wd=%E5%B7%A5%E4%BA%BA%E9%AB%98%E6%B8%A9%E4%BF%AE%E7%A9%BA%E8%B0%83%E5%A5%B3%E5%AD%90%E7%95%99%E5%85%B6%E5%90%83%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [普里戈任：我们将在前线取得新胜利](https://www.baidu.com/s?wd=%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%EF%BC%9A%E6%88%91%E4%BB%AC%E5%B0%86%E5%9C%A8%E5%89%8D%E7%BA%BF%E5%8F%96%E5%BE%97%E6%96%B0%E8%83%9C%E5%88%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [工人高温修空调女子留其吃饭](https://www.baidu.com/s?wd=%E5%B7%A5%E4%BA%BA%E9%AB%98%E6%B8%A9%E4%BF%AE%E7%A9%BA%E8%B0%83%E5%A5%B3%E5%AD%90%E7%95%99%E5%85%B6%E5%90%83%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [普里戈任：我们将在前线取得新胜利](https://www.baidu.com/s?wd=%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%EF%BC%9A%E6%88%91%E4%BB%AC%E5%B0%86%E5%9C%A8%E5%89%8D%E7%BA%BF%E5%8F%96%E5%BE%97%E6%96%B0%E8%83%9C%E5%88%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [东京大楼爆炸瞬间 有人高喊快逃](https://www.baidu.com/s?wd=%E4%B8%9C%E4%BA%AC%E5%A4%A7%E6%A5%BC%E7%88%86%E7%82%B8%E7%9E%AC%E9%97%B4+%E6%9C%89%E4%BA%BA%E9%AB%98%E5%96%8A%E5%BF%AB%E9%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
