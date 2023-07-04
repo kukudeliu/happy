@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 10:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 10:59:01</h4></div>
 
 > 微博  
 
@@ -6,10 +6,10 @@
 2. [黑执事](https://s.weibo.com/weibo?q=%E9%BB%91%E6%89%A7%E4%BA%8B&t=31&band_rank=2&Refer=top)<br />
 3. [中国人首次荣获护理界国际成就奖](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E9%A6%96%E6%AC%A1%E8%8D%A3%E8%8E%B7%E6%8A%A4%E7%90%86%E7%95%8C%E5%9B%BD%E9%99%85%E6%88%90%E5%B0%B1%E5%A5%96%23&t=31&band_rank=3&Refer=top)<br />
 4. [iPhone15及Plus新增青绿色](https://s.weibo.com/weibo?q=%23iPhone15%E5%8F%8APlus%E6%96%B0%E5%A2%9E%E9%9D%92%E7%BB%BF%E8%89%B2%23&t=31&band_rank=4&Refer=top)<br />
-5. [西安忍不住根本忍不住](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E5%BF%8D%E4%B8%8D%E4%BD%8F%E6%A0%B9%E6%9C%AC%E5%BF%8D%E4%B8%8D%E4%BD%8F%23&t=31&band_rank=5&Refer=top)<br />
-6. [孙艺珍产后首个公开行程](https://s.weibo.com/weibo?q=%23%E5%AD%99%E8%89%BA%E7%8F%8D%E4%BA%A7%E5%90%8E%E9%A6%96%E4%B8%AA%E5%85%AC%E5%BC%80%E8%A1%8C%E7%A8%8B%23&t=31&band_rank=6&Refer=top)<br />
-7. [王楚钦世界排名第一](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E4%B8%96%E7%95%8C%E6%8E%92%E5%90%8D%E7%AC%AC%E4%B8%80%23&t=31&band_rank=7&Refer=top)<br />
-8. [黄子韬和马伯骞情人节被困高速](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%92%8C%E9%A9%AC%E4%BC%AF%E9%AA%9E%E6%83%85%E4%BA%BA%E8%8A%82%E8%A2%AB%E5%9B%B0%E9%AB%98%E9%80%9F%23&t=31&band_rank=8&Refer=top)<br />
+5. [孙艺珍产后首个公开行程](https://s.weibo.com/weibo?q=%23%E5%AD%99%E8%89%BA%E7%8F%8D%E4%BA%A7%E5%90%8E%E9%A6%96%E4%B8%AA%E5%85%AC%E5%BC%80%E8%A1%8C%E7%A8%8B%23&t=31&band_rank=5&Refer=top)<br />
+6. [西安忍不住根本忍不住](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E5%BF%8D%E4%B8%8D%E4%BD%8F%E6%A0%B9%E6%9C%AC%E5%BF%8D%E4%B8%8D%E4%BD%8F%23&t=31&band_rank=6&Refer=top)<br />
+7. [黄子韬和马伯骞情人节被困高速](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%92%8C%E9%A9%AC%E4%BC%AF%E9%AA%9E%E6%83%85%E4%BA%BA%E8%8A%82%E8%A2%AB%E5%9B%B0%E9%AB%98%E9%80%9F%23&t=31&band_rank=7&Refer=top)<br />
+8. [王楚钦世界排名第一](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E4%B8%96%E7%95%8C%E6%8E%92%E5%90%8D%E7%AC%AC%E4%B8%80%23&t=31&band_rank=8&Refer=top)<br />
 9. [倪妮哭戏撞到摄像机](https://s.weibo.com/weibo?q=%23%E5%80%AA%E5%A6%AE%E5%93%AD%E6%88%8F%E6%92%9E%E5%88%B0%E6%91%84%E5%83%8F%E6%9C%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -33,8 +33,8 @@
 5. [女工程师为出轨对象做间谍17年](https://www.baidu.com/s?wd=%E5%A5%B3%E5%B7%A5%E7%A8%8B%E5%B8%88%E4%B8%BA%E5%87%BA%E8%BD%A8%E5%AF%B9%E8%B1%A1%E5%81%9A%E9%97%B4%E8%B0%8D17%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [东京大楼爆炸瞬间 有人高喊快逃](https://www.baidu.com/s?wd=%E4%B8%9C%E4%BA%AC%E5%A4%A7%E6%A5%BC%E7%88%86%E7%82%B8%E7%9E%AC%E9%97%B4+%E6%9C%89%E4%BA%BA%E9%AB%98%E5%96%8A%E5%BF%AB%E9%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [王楚钦世界排名第一](https://www.baidu.com/s?wd=%E7%8E%8B%E6%A5%9A%E9%92%A6%E4%B8%96%E7%95%8C%E6%8E%92%E5%90%8D%E7%AC%AC%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子施救倒地大爷围观人不停泼冷水](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%96%BD%E6%95%91%E5%80%92%E5%9C%B0%E5%A4%A7%E7%88%B7%E5%9B%B4%E8%A7%82%E4%BA%BA%E4%B8%8D%E5%81%9C%E6%B3%BC%E5%86%B7%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [工人高温修空调女子留其吃饭](https://www.baidu.com/s?wd=%E5%B7%A5%E4%BA%BA%E9%AB%98%E6%B8%A9%E4%BF%AE%E7%A9%BA%E8%B0%83%E5%A5%B3%E5%AD%90%E7%95%99%E5%85%B6%E5%90%83%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [媒体：部分地区中小学学位预警](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E9%83%A8%E5%88%86%E5%9C%B0%E5%8C%BA%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%AD%A6%E4%BD%8D%E9%A2%84%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [iPhone15及Plus新增青绿色](https://www.baidu.com/s?wd=iPhone15%E5%8F%8APlus%E6%96%B0%E5%A2%9E%E9%9D%92%E7%BB%BF%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [女工程师为出轨对象做间谍17年](https://www.baidu.com/s?wd=%E5%A5%B3%E5%B7%A5%E7%A8%8B%E5%B8%88%E4%B8%BA%E5%87%BA%E8%BD%A8%E5%AF%B9%E8%B1%A1%E5%81%9A%E9%97%B4%E8%B0%8D17%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [东京大楼爆炸瞬间 有人高喊快逃](https://www.baidu.com/s?wd=%E4%B8%9C%E4%BA%AC%E5%A4%A7%E6%A5%BC%E7%88%86%E7%82%B8%E7%9E%AC%E9%97%B4+%E6%9C%89%E4%BA%BA%E9%AB%98%E5%96%8A%E5%BF%AB%E9%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [王楚钦世界排名第一](https://www.baidu.com/s?wd=%E7%8E%8B%E6%A5%9A%E9%92%A6%E4%B8%96%E7%95%8C%E6%8E%92%E5%90%8D%E7%AC%AC%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子施救倒地大爷围观人不停泼冷水](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%96%BD%E6%95%91%E5%80%92%E5%9C%B0%E5%A4%A7%E7%88%B7%E5%9B%B4%E8%A7%82%E4%BA%BA%E4%B8%8D%E5%81%9C%E6%B3%BC%E5%86%B7%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [工人高温修空调女子留其吃饭](https://www.baidu.com/s?wd=%E5%B7%A5%E4%BA%BA%E9%AB%98%E6%B8%A9%E4%BF%AE%E7%A9%BA%E8%B0%83%E5%A5%B3%E5%AD%90%E7%95%99%E5%85%B6%E5%90%83%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [媒体：部分地区中小学学位预警](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E9%83%A8%E5%88%86%E5%9C%B0%E5%8C%BA%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%AD%A6%E4%BD%8D%E9%A2%84%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [iPhone15及Plus新增青绿色](https://www.baidu.com/s?wd=iPhone15%E5%8F%8APlus%E6%96%B0%E5%A2%9E%E9%9D%92%E7%BB%BF%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
