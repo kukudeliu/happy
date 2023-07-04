@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 12:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 12:54:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [男子偷住无人别墅多日喝光6瓶茅台](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%B7%E4%BD%8F%E6%97%A0%E4%BA%BA%E5%88%AB%E5%A2%85%E5%A4%9A%E6%97%A5%E5%96%9D%E5%85%896%E7%93%B6%E8%8C%85%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [小孩影厅排泄致退票家长拒赔偿](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A9%E5%BD%B1%E5%8E%85%E6%8E%92%E6%B3%84%E8%87%B4%E9%80%80%E7%A5%A8%E5%AE%B6%E9%95%BF%E6%8B%92%E8%B5%94%E5%81%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [扬言“弄死你”女交警系辅警](https://www.baidu.com/s?wd=%E6%89%AC%E8%A8%80%E2%80%9C%E5%BC%84%E6%AD%BB%E4%BD%A0%E2%80%9D%E5%A5%B3%E4%BA%A4%E8%AD%A6%E7%B3%BB%E8%BE%85%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [王楚钦世界排名第一](https://www.baidu.com/s?wd=%E7%8E%8B%E6%A5%9A%E9%92%A6%E4%B8%96%E7%95%8C%E6%8E%92%E5%90%8D%E7%AC%AC%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子施救倒地大爷围观人不停泼冷水](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%96%BD%E6%95%91%E5%80%92%E5%9C%B0%E5%A4%A7%E7%88%B7%E5%9B%B4%E8%A7%82%E4%BA%BA%E4%B8%8D%E5%81%9C%E6%B3%BC%E5%86%B7%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [男子偷住无人别墅多日喝光6瓶茅台](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%B7%E4%BD%8F%E6%97%A0%E4%BA%BA%E5%88%AB%E5%A2%85%E5%A4%9A%E6%97%A5%E5%96%9D%E5%85%896%E7%93%B6%E8%8C%85%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [小孩影厅排泄致退票家长拒赔偿](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A9%E5%BD%B1%E5%8E%85%E6%8E%92%E6%B3%84%E8%87%B4%E9%80%80%E7%A5%A8%E5%AE%B6%E9%95%BF%E6%8B%92%E8%B5%94%E5%81%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [扬言“弄死你”女交警系辅警](https://www.baidu.com/s?wd=%E6%89%AC%E8%A8%80%E2%80%9C%E5%BC%84%E6%AD%BB%E4%BD%A0%E2%80%9D%E5%A5%B3%E4%BA%A4%E8%AD%A6%E7%B3%BB%E8%BE%85%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [王楚钦世界排名第一](https://www.baidu.com/s?wd=%E7%8E%8B%E6%A5%9A%E9%92%A6%E4%B8%96%E7%95%8C%E6%8E%92%E5%90%8D%E7%AC%AC%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子施救倒地大爷围观人不停泼冷水](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%96%BD%E6%95%91%E5%80%92%E5%9C%B0%E5%A4%A7%E7%88%B7%E5%9B%B4%E8%A7%82%E4%BA%BA%E4%B8%8D%E5%81%9C%E6%B3%BC%E5%86%B7%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
