@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 19:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 19:49:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [朱某龙骑车去痞幼家偷茅台](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E6%9F%90%E9%BE%99%E9%AA%91%E8%BD%A6%E5%8E%BB%E7%97%9E%E5%B9%BC%E5%AE%B6%E5%81%B7%E8%8C%85%E5%8F%B0%23&t=31&band_rank=6&Refer=top)<br />
 7. [民警接过一支烟救下一条命](https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E6%8E%A5%E8%BF%87%E4%B8%80%E6%94%AF%E7%83%9F%E6%95%91%E4%B8%8B%E4%B8%80%E6%9D%A1%E5%91%BD%23&t=31&band_rank=7&Refer=top)<br />
 8. [欧豪有12部待播剧](https://s.weibo.com/weibo?q=%23%E6%AC%A7%E8%B1%AA%E6%9C%8912%E9%83%A8%E5%BE%85%E6%92%AD%E5%89%A7%23&t=31&band_rank=8&Refer=top)<br />
-9. [男生被要28万8彩礼写信给县长求整治](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E8%A2%AB%E8%A6%8128%E4%B8%878%E5%BD%A9%E7%A4%BC%E5%86%99%E4%BF%A1%E7%BB%99%E5%8E%BF%E9%95%BF%E6%B1%82%E6%95%B4%E6%B2%BB%23&t=31&band_rank=9&Refer=top)<br />
+9. [朱一龙 散播清澈的好笑](https://s.weibo.com/weibo?q=%E6%9C%B1%E4%B8%80%E9%BE%99%20%E6%95%A3%E6%92%AD%E6%B8%85%E6%BE%88%E7%9A%84%E5%A5%BD%E7%AC%91&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -34,7 +34,7 @@
 6. [王毅：头发染得再黄也变不成西方人](https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%EF%BC%9A%E5%A4%B4%E5%8F%91%E6%9F%93%E5%BE%97%E5%86%8D%E9%BB%84%E4%B9%9F%E5%8F%98%E4%B8%8D%E6%88%90%E8%A5%BF%E6%96%B9%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [牵手门涉事领导仍任高管？公司回应](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E6%B6%89%E4%BA%8B%E9%A2%86%E5%AF%BC%E4%BB%8D%E4%BB%BB%E9%AB%98%E7%AE%A1%EF%BC%9F%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [官方回应女童被指遭父亲遗弃街头](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%AB%A5%E8%A2%AB%E6%8C%87%E9%81%AD%E7%88%B6%E4%BA%B2%E9%81%97%E5%BC%83%E8%A1%97%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [13岁男孩被送特训学校戒网瘾遭猥亵](https://www.baidu.com/s?wd=13%E5%B2%81%E7%94%B7%E5%AD%A9%E8%A2%AB%E9%80%81%E7%89%B9%E8%AE%AD%E5%AD%A6%E6%A0%A1%E6%88%92%E7%BD%91%E7%98%BE%E9%81%AD%E7%8C%A5%E4%BA%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女生地铁控诉男孩摸屁股被家长反呛](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%9C%B0%E9%93%81%E6%8E%A7%E8%AF%89%E7%94%B7%E5%AD%A9%E6%91%B8%E5%B1%81%E8%82%A1%E8%A2%AB%E5%AE%B6%E9%95%BF%E5%8F%8D%E5%91%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [王毅：头发染得再黄也变不成西方人](https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%EF%BC%9A%E5%A4%B4%E5%8F%91%E6%9F%93%E5%BE%97%E5%86%8D%E9%BB%84%E4%B9%9F%E5%8F%98%E4%B8%8D%E6%88%90%E8%A5%BF%E6%96%B9%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [牵手门涉事领导仍任高管？公司回应](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E6%B6%89%E4%BA%8B%E9%A2%86%E5%AF%BC%E4%BB%8D%E4%BB%BB%E9%AB%98%E7%AE%A1%EF%BC%9F%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [官方回应女童被指遭父亲遗弃街头](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%AB%A5%E8%A2%AB%E6%8C%87%E9%81%AD%E7%88%B6%E4%BA%B2%E9%81%97%E5%BC%83%E8%A1%97%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [13岁男孩被送特训学校戒网瘾遭猥亵](https://www.baidu.com/s?wd=13%E5%B2%81%E7%94%B7%E5%AD%A9%E8%A2%AB%E9%80%81%E7%89%B9%E8%AE%AD%E5%AD%A6%E6%A0%A1%E6%88%92%E7%BD%91%E7%98%BE%E9%81%AD%E7%8C%A5%E4%BA%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女生地铁控诉男孩摸屁股被家长反呛](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%9C%B0%E9%93%81%E6%8E%A7%E8%AF%89%E7%94%B7%E5%AD%A9%E6%91%B8%E5%B1%81%E8%82%A1%E8%A2%AB%E5%AE%B6%E9%95%BF%E5%8F%8D%E5%91%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
