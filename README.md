@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 23:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 23:21:01</h4></div>
 
 > 微博  
 
@@ -8,16 +8,16 @@
 4. [日本札幌一酒店惊现无头男尸](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%9C%AD%E5%B9%8C%E4%B8%80%E9%85%92%E5%BA%97%E6%83%8A%E7%8E%B0%E6%97%A0%E5%A4%B4%E7%94%B7%E5%B0%B8%23&t=31&band_rank=4&Refer=top)<br />
 5. [秦牛正威回应为了男友改名](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E7%89%9B%E6%AD%A3%E5%A8%81%E5%9B%9E%E5%BA%94%E4%B8%BA%E4%BA%86%E7%94%B7%E5%8F%8B%E6%94%B9%E5%90%8D%23&t=31&band_rank=5&Refer=top)<br />
 6. [EDG 啃老](https://s.weibo.com/weibo?q=EDG%20%E5%95%83%E8%80%81&t=31&band_rank=6&Refer=top)<br />
-7. [周也 孟子义](https://s.weibo.com/weibo?q=%E5%91%A8%E4%B9%9F%20%E5%AD%9F%E5%AD%90%E4%B9%89&t=31&band_rank=7&Refer=top)<br />
-8. [褪黑素](https://s.weibo.com/weibo?q=%E8%A4%AA%E9%BB%91%E7%B4%A0&t=31&band_rank=8&Refer=top)<br />
+7. [褪黑素](https://s.weibo.com/weibo?q=%E8%A4%AA%E9%BB%91%E7%B4%A0&t=31&band_rank=7&Refer=top)<br />
+8. [周也 孟子义](https://s.weibo.com/weibo?q=%E5%91%A8%E4%B9%9F%20%E5%AD%9F%E5%AD%90%E4%B9%89&t=31&band_rank=8&Refer=top)<br />
 9. [不容易近视的人 睫状肌](https://s.weibo.com/weibo?q=%E4%B8%8D%E5%AE%B9%E6%98%93%E8%BF%91%E8%A7%86%E7%9A%84%E4%BA%BA%20%E7%9D%AB%E7%8A%B6%E8%82%8C&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [美国投资巨头免费接手乌克兰全部国企，包括能源和电网，哪些信息值得关注？](https://www.zhihu.com/question/610223926)<br />
 2. [男子故意 1 次取 1 元逼哭柜员称「非把你开除！」，如何看待该男子的做法？](https://www.zhihu.com/question/610236031)<br />
-3. [湖南一火车站不让进候车厅，乘客顶烈日排队，铁路官方回应「非营业时段不开放」，如何看待此事？](https://www.zhihu.com/question/610039783)<br />
-4. [如何看待 26 城发布地铁年报，但只有 4 城是赚到钱的？地铁是个「亏钱」的生意吗？](https://www.zhihu.com/question/610117816)<br />
+3. [如何看待 26 城发布地铁年报，但只有 4 城是赚到钱的？地铁是个「亏钱」的生意吗？](https://www.zhihu.com/question/610117816)<br />
+4. [湖南一火车站不让进候车厅，乘客顶烈日排队，铁路官方回应「非营业时段不开放」，如何看待此事？](https://www.zhihu.com/question/610039783)<br />
 5. [2023 LPL 夏季赛 EDG 1:2 不敌 TT，如何评价这场比赛？](https://www.zhihu.com/question/610296656)<br />
 6. []()<br />
 7. [光速这么慢，以后月球和地球怎么联机打游戏？](https://www.zhihu.com/question/609921573)<br />
