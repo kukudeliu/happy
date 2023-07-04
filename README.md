@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 17:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 17:52:01</h4></div>
 
 > 微博  
 
@@ -33,7 +33,7 @@
 5. [男生被要28万8彩礼写信给县长求整治](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E8%A2%AB%E8%A6%8128%E4%B8%878%E5%BD%A9%E7%A4%BC%E5%86%99%E4%BF%A1%E7%BB%99%E5%8E%BF%E9%95%BF%E6%B1%82%E6%95%B4%E6%B2%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [痞幼：吃瓜吃到自己头上](https://www.baidu.com/s?wd=%E7%97%9E%E5%B9%BC%EF%BC%9A%E5%90%83%E7%93%9C%E5%90%83%E5%88%B0%E8%87%AA%E5%B7%B1%E5%A4%B4%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [媒体：牵手门涉事干部仍任高管](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E7%89%B5%E6%89%8B%E9%97%A8%E6%B6%89%E4%BA%8B%E5%B9%B2%E9%83%A8%E4%BB%8D%E4%BB%BB%E9%AB%98%E7%AE%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [痞幼别墅被男子偷住半个月喝6瓶茅台](https://www.baidu.com/s?wd=%E7%97%9E%E5%B9%BC%E5%88%AB%E5%A2%85%E8%A2%AB%E7%94%B7%E5%AD%90%E5%81%B7%E4%BD%8F%E5%8D%8A%E4%B8%AA%E6%9C%88%E5%96%9D6%E7%93%B6%E8%8C%85%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [德国健身网红拉丝哥离世](https://www.baidu.com/s?wd=%E5%BE%B7%E5%9B%BD%E5%81%A5%E8%BA%AB%E7%BD%91%E7%BA%A2%E6%8B%89%E4%B8%9D%E5%93%A5%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [中国侨胞夫妻在刚果（金）遭枪杀](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BE%A8%E8%83%9E%E5%A4%AB%E5%A6%BB%E5%9C%A8%E5%88%9A%E6%9E%9C%EF%BC%88%E9%87%91%EF%BC%89%E9%81%AD%E6%9E%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [男生被要28万8彩礼写信给县长求整治](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E8%A2%AB%E8%A6%8128%E4%B8%878%E5%BD%A9%E7%A4%BC%E5%86%99%E4%BF%A1%E7%BB%99%E5%8E%BF%E9%95%BF%E6%B1%82%E6%95%B4%E6%B2%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [痞幼：吃瓜吃到自己头上](https://www.baidu.com/s?wd=%E7%97%9E%E5%B9%BC%EF%BC%9A%E5%90%83%E7%93%9C%E5%90%83%E5%88%B0%E8%87%AA%E5%B7%B1%E5%A4%B4%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [媒体：牵手门涉事干部仍任高管](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E7%89%B5%E6%89%8B%E9%97%A8%E6%B6%89%E4%BA%8B%E5%B9%B2%E9%83%A8%E4%BB%8D%E4%BB%BB%E9%AB%98%E7%AE%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [痞幼别墅被男子偷住半个月喝6瓶茅台](https://www.baidu.com/s?wd=%E7%97%9E%E5%B9%BC%E5%88%AB%E5%A2%85%E8%A2%AB%E7%94%B7%E5%AD%90%E5%81%B7%E4%BD%8F%E5%8D%8A%E4%B8%AA%E6%9C%88%E5%96%9D6%E7%93%B6%E8%8C%85%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [德国健身网红拉丝哥离世](https://www.baidu.com/s?wd=%E5%BE%B7%E5%9B%BD%E5%81%A5%E8%BA%AB%E7%BD%91%E7%BA%A2%E6%8B%89%E4%B8%9D%E5%93%A5%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [中国侨胞夫妻在刚果（金）遭枪杀](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BE%A8%E8%83%9E%E5%A4%AB%E5%A6%BB%E5%9C%A8%E5%88%9A%E6%9E%9C%EF%BC%88%E9%87%91%EF%BC%89%E9%81%AD%E6%9E%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
