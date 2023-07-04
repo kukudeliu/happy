@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 12:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 12:12:01</h4></div>
 
 > 微博  
 
 1. [黑执事](https://s.weibo.com/weibo?q=%E9%BB%91%E6%89%A7%E4%BA%8B&t=31&band_rank=1&Refer=top)<br />
-2. [男子故意1次取1元逼哭柜员](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%95%85%E6%84%8F1%E6%AC%A1%E5%8F%961%E5%85%83%E9%80%BC%E5%93%AD%E6%9F%9C%E5%91%98%23&t=31&band_rank=2&Refer=top)<br />
+2. [大麦被罚](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%BA%A6%E8%A2%AB%E7%BD%9A%23&t=31&band_rank=2&Refer=top)<br />
 3. [2023下半年大事日历](https://s.weibo.com/weibo?q=%232023%E4%B8%8B%E5%8D%8A%E5%B9%B4%E5%A4%A7%E4%BA%8B%E6%97%A5%E5%8E%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [金星吐槽女明星走红毯捂胸口](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%98%9F%E5%90%90%E6%A7%BD%E5%A5%B3%E6%98%8E%E6%98%9F%E8%B5%B0%E7%BA%A2%E6%AF%AF%E6%8D%82%E8%83%B8%E5%8F%A3%23&t=31&band_rank=4&Refer=top)<br />
-5. [大麦被罚](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%BA%A6%E8%A2%AB%E7%BD%9A%23&t=31&band_rank=5&Refer=top)<br />
+5. [男子故意1次取1元逼哭柜员](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%95%85%E6%84%8F1%E6%AC%A1%E5%8F%961%E5%85%83%E9%80%BC%E5%93%AD%E6%9F%9C%E5%91%98%23&t=31&band_rank=5&Refer=top)<br />
 6. [花花和叶3岁生日合照](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%8A%B1%E5%92%8C%E5%8F%B63%E5%B2%81%E7%94%9F%E6%97%A5%E5%90%88%E7%85%A7%23&t=31&band_rank=6&Refer=top)<br />
 7. [爱说笑死的人要注意你的心脏了](https://s.weibo.com/weibo?q=%23%E7%88%B1%E8%AF%B4%E7%AC%91%E6%AD%BB%E7%9A%84%E4%BA%BA%E8%A6%81%E6%B3%A8%E6%84%8F%E4%BD%A0%E7%9A%84%E5%BF%83%E8%84%8F%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [扬言弄死市民的辅警已调岗](https://s.weibo.com/weibo?q=%23%E6%89%AC%E8%A8%80%E5%BC%84%E6%AD%BB%E5%B8%82%E6%B0%91%E7%9A%84%E8%BE%85%E8%AD%A6%E5%B7%B2%E8%B0%83%E5%B2%97%23&t=31&band_rank=8&Refer=top)<br />
@@ -33,8 +33,8 @@
 5. [男子偷住无人别墅多日喝光6瓶茅台](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%B7%E4%BD%8F%E6%97%A0%E4%BA%BA%E5%88%AB%E5%A2%85%E5%A4%9A%E6%97%A5%E5%96%9D%E5%85%896%E7%93%B6%E8%8C%85%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [王楚钦世界排名第一](https://www.baidu.com/s?wd=%E7%8E%8B%E6%A5%9A%E9%92%A6%E4%B8%96%E7%95%8C%E6%8E%92%E5%90%8D%E7%AC%AC%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中青报谈文字失语症](https://www.baidu.com/s?wd=%E4%B8%AD%E9%9D%92%E6%8A%A5%E8%B0%88%E6%96%87%E5%AD%97%E5%A4%B1%E8%AF%AD%E7%97%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女工程师为出轨对象做间谍17年](https://www.baidu.com/s?wd=%E5%A5%B3%E5%B7%A5%E7%A8%8B%E5%B8%88%E4%B8%BA%E5%87%BA%E8%BD%A8%E5%AF%B9%E8%B1%A1%E5%81%9A%E9%97%B4%E8%B0%8D17%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [东京大楼爆炸瞬间 有人高喊快逃](https://www.baidu.com/s?wd=%E4%B8%9C%E4%BA%AC%E5%A4%A7%E6%A5%BC%E7%88%86%E7%82%B8%E7%9E%AC%E9%97%B4+%E6%9C%89%E4%BA%BA%E9%AB%98%E5%96%8A%E5%BF%AB%E9%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [东京大楼爆炸瞬间 有人高喊快逃](https://www.baidu.com/s?wd=%E4%B8%9C%E4%BA%AC%E5%A4%A7%E6%A5%BC%E7%88%86%E7%82%B8%E7%9E%AC%E9%97%B4+%E6%9C%89%E4%BA%BA%E9%AB%98%E5%96%8A%E5%BF%AB%E9%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女工程师为出轨对象做间谍17年](https://www.baidu.com/s?wd=%E5%A5%B3%E5%B7%A5%E7%A8%8B%E5%B8%88%E4%B8%BA%E5%87%BA%E8%BD%A8%E5%AF%B9%E8%B1%A1%E5%81%9A%E9%97%B4%E8%B0%8D17%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [男子偷住无人别墅多日喝光6瓶茅台](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%B7%E4%BD%8F%E6%97%A0%E4%BA%BA%E5%88%AB%E5%A2%85%E5%A4%9A%E6%97%A5%E5%96%9D%E5%85%896%E7%93%B6%E8%8C%85%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [王楚钦世界排名第一](https://www.baidu.com/s?wd=%E7%8E%8B%E6%A5%9A%E9%92%A6%E4%B8%96%E7%95%8C%E6%8E%92%E5%90%8D%E7%AC%AC%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中青报谈文字失语症](https://www.baidu.com/s?wd=%E4%B8%AD%E9%9D%92%E6%8A%A5%E8%B0%88%E6%96%87%E5%AD%97%E5%A4%B1%E8%AF%AD%E7%97%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女工程师为出轨对象做间谍17年](https://www.baidu.com/s?wd=%E5%A5%B3%E5%B7%A5%E7%A8%8B%E5%B8%88%E4%B8%BA%E5%87%BA%E8%BD%A8%E5%AF%B9%E8%B1%A1%E5%81%9A%E9%97%B4%E8%B0%8D17%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [东京大楼爆炸瞬间 有人高喊快逃](https://www.baidu.com/s?wd=%E4%B8%9C%E4%BA%AC%E5%A4%A7%E6%A5%BC%E7%88%86%E7%82%B8%E7%9E%AC%E9%97%B4+%E6%9C%89%E4%BA%BA%E9%AB%98%E5%96%8A%E5%BF%AB%E9%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [东京大楼爆炸瞬间 有人高喊快逃](https://www.baidu.com/s?wd=%E4%B8%9C%E4%BA%AC%E5%A4%A7%E6%A5%BC%E7%88%86%E7%82%B8%E7%9E%AC%E9%97%B4+%E6%9C%89%E4%BA%BA%E9%AB%98%E5%96%8A%E5%BF%AB%E9%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女工程师为出轨对象做间谍17年](https://www.baidu.com/s?wd=%E5%A5%B3%E5%B7%A5%E7%A8%8B%E5%B8%88%E4%B8%BA%E5%87%BA%E8%BD%A8%E5%AF%B9%E8%B1%A1%E5%81%9A%E9%97%B4%E8%B0%8D17%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
