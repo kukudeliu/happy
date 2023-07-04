@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 23:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 23:50:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [秦牛正威回应为了男友改名](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E7%89%9B%E6%AD%A3%E5%A8%81%E5%9B%9E%E5%BA%94%E4%B8%BA%E4%BA%86%E7%94%B7%E5%8F%8B%E6%94%B9%E5%90%8D%23&t=31&band_rank=6&Refer=top)<br />
 7. [马龙](https://s.weibo.com/weibo?q=%E9%A9%AC%E9%BE%99&t=31&band_rank=7&Refer=top)<br />
 8. [EDG 啃老](https://s.weibo.com/weibo?q=EDG%20%E5%95%83%E8%80%81&t=31&band_rank=8&Refer=top)<br />
-9. [周也 孟子义](https://s.weibo.com/weibo?q=%E5%91%A8%E4%B9%9F%20%E5%AD%9F%E5%AD%90%E4%B9%89&t=31&band_rank=9&Refer=top)<br />
+9. [猪猪侠大战愤怒的小鸟](https://s.weibo.com/weibo?q=%23%E7%8C%AA%E7%8C%AA%E4%BE%A0%E5%A4%A7%E6%88%98%E6%84%A4%E6%80%92%E7%9A%84%E5%B0%8F%E9%B8%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
