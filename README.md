@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 22:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 22:24:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [EDG 啃老](https://s.weibo.com/weibo?q=EDG%20%E5%95%83%E8%80%81&t=31&band_rank=2&Refer=top)<br />
 3. [闪闪发光的中国00后](https://s.weibo.com/weibo?q=%23%E9%97%AA%E9%97%AA%E5%8F%91%E5%85%89%E7%9A%84%E4%B8%AD%E5%9B%BD00%E5%90%8E%23&t=31&band_rank=3&Refer=top)<br />
 4. [秦牛正威回应为了男友改名](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E7%89%9B%E6%AD%A3%E5%A8%81%E5%9B%9E%E5%BA%94%E4%B8%BA%E4%BA%86%E7%94%B7%E5%8F%8B%E6%94%B9%E5%90%8D%23&t=31&band_rank=4&Refer=top)<br />
-5. [TT战胜EDG](https://s.weibo.com/weibo?q=TT%E6%88%98%E8%83%9CEDG&t=31&band_rank=5&Refer=top)<br />
-6. [周也 孟子义](https://s.weibo.com/weibo?q=%E5%91%A8%E4%B9%9F%20%E5%AD%9F%E5%AD%90%E4%B9%89&t=31&band_rank=6&Refer=top)<br />
+5. [周也 孟子义](https://s.weibo.com/weibo?q=%E5%91%A8%E4%B9%9F%20%E5%AD%9F%E5%AD%90%E4%B9%89&t=31&band_rank=5&Refer=top)<br />
+6. [TT战胜EDG](https://s.weibo.com/weibo?q=TT%E6%88%98%E8%83%9CEDG&t=31&band_rank=6&Refer=top)<br />
 7. [痞幼](https://s.weibo.com/weibo?q=%E7%97%9E%E5%B9%BC&t=31&band_rank=7&Refer=top)<br />
 8. [日本札幌一酒店惊现无头男尸](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%9C%AD%E5%B9%8C%E4%B8%80%E9%85%92%E5%BA%97%E6%83%8A%E7%8E%B0%E6%97%A0%E5%A4%B4%E7%94%B7%E5%B0%B8%23&t=31&band_rank=8&Refer=top)<br />
 9. [苏州大学录取通知书太用心了](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E5%B7%9E%E5%A4%A7%E5%AD%A6%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E5%A4%AA%E7%94%A8%E5%BF%83%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
@@ -19,10 +19,10 @@
 3. [两部门发布公告表示为维护国家安全和利益，决定对镓、锗相关物项实施出口管制，如何看待这一举措？](https://www.zhihu.com/question/610105939)<br />
 4. [湖南一火车站不让进候车厅，乘客顶烈日排队，铁路官方回应「非营业时段不开放」，如何看待此事？](https://www.zhihu.com/question/610039783)<br />
 5. [如何看待 26 城发布地铁年报，但只有 4 城是赚到钱的？地铁是个「亏钱」的生意吗？](https://www.zhihu.com/question/610117816)<br />
-6. [为什么中国不自己开发一个汉字的电脑，底层用汉字编写，有一套汉字的汇编语言、高级语言？](https://www.zhihu.com/question/520064736)<br />
-7. [医院实习生不小心把锐器等垃圾丢进医疗垃圾犯法吗?](https://www.zhihu.com/question/609510495)<br />
-8. [法国骚乱蔓延至瑞士，一百多名年轻人聚集在洛桑，7 人被捕，如何看待此事？骚乱参与者为何趋向低龄化？](https://www.zhihu.com/question/610081393)<br />
-9. [这届亚运会，首次作为正式项目的手游电竞比赛都有什么值得期待？](https://www.zhihu.com/question/609567949)<br />
+6. [医院实习生不小心把锐器等垃圾丢进医疗垃圾犯法吗?](https://www.zhihu.com/question/609510495)<br />
+7. [为什么中国不自己开发一个汉字的电脑，底层用汉字编写，有一套汉字的汇编语言、高级语言？](https://www.zhihu.com/question/520064736)<br />
+8. [这届亚运会，首次作为正式项目的手游电竞比赛都有什么值得期待？](https://www.zhihu.com/question/609567949)<br />
+9. [男朋友很没有边界感没有隐私意识怎么办？](https://www.zhihu.com/question/589062450)<br />
 
 > 百度  
 
