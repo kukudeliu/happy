@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 13:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 13:59:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [沈阳发现一例猴痘病例](https://s.weibo.com/weibo?q=%23%E6%B2%88%E9%98%B3%E5%8F%91%E7%8E%B0%E4%B8%80%E4%BE%8B%E7%8C%B4%E7%97%98%E7%97%85%E4%BE%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [观众缘好的明星](https://s.weibo.com/weibo?q=%23%E8%A7%82%E4%BC%97%E7%BC%98%E5%A5%BD%E7%9A%84%E6%98%8E%E6%98%9F%23&t=31&band_rank=7&Refer=top)<br />
 8. [北科大录取通知书是用钢做的](https://s.weibo.com/weibo?q=%23%E5%8C%97%E7%A7%91%E5%A4%A7%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E6%98%AF%E7%94%A8%E9%92%A2%E5%81%9A%E7%9A%84%23&t=31&band_rank=8&Refer=top)<br />
-9. [减肥人的黄金40天](https://s.weibo.com/weibo?q=%23%E5%87%8F%E8%82%A5%E4%BA%BA%E7%9A%84%E9%BB%84%E9%87%9140%E5%A4%A9%23&t=31&band_rank=9&Refer=top)<br />
+9. [猴痘](https://s.weibo.com/weibo?q=%E7%8C%B4%E7%97%98&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
