@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 22:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 22:18:01</h4></div>
 
 > 微博  
 
@@ -15,8 +15,8 @@
 > 知乎  
 
 1. [美国投资巨头免费接手乌克兰全部国企，包括能源和电网，哪些信息值得关注？](https://www.zhihu.com/question/610223926)<br />
-2. [两部门发布公告表示为维护国家安全和利益，决定对镓、锗相关物项实施出口管制，如何看待这一举措？](https://www.zhihu.com/question/610105939)<br />
-3. [男子故意 1 次取 1 元逼哭柜员称「非把你开除！」，如何看待该男子的做法？](https://www.zhihu.com/question/610236031)<br />
+2. [男子故意 1 次取 1 元逼哭柜员称「非把你开除！」，如何看待该男子的做法？](https://www.zhihu.com/question/610236031)<br />
+3. [两部门发布公告表示为维护国家安全和利益，决定对镓、锗相关物项实施出口管制，如何看待这一举措？](https://www.zhihu.com/question/610105939)<br />
 4. [为什么中国不自己开发一个汉字的电脑，底层用汉字编写，有一套汉字的汇编语言、高级语言？](https://www.zhihu.com/question/520064736)<br />
 5. [湖南一火车站不让进候车厅，乘客顶烈日排队，铁路官方回应「非营业时段不开放」，如何看待此事？](https://www.zhihu.com/question/610039783)<br />
 6. [如何看待 26 城发布地铁年报，但只有 4 城是赚到钱的？地铁是个「亏钱」的生意吗？](https://www.zhihu.com/question/610117816)<br />
@@ -31,10 +31,10 @@
 3. [小学连开3天家长会 教育局：正调查](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E8%BF%9E%E5%BC%803%E5%A4%A9%E5%AE%B6%E9%95%BF%E4%BC%9A+%E6%95%99%E8%82%B2%E5%B1%80%EF%BC%9A%E6%AD%A3%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [江风海韵绘就生态美](https://www.baidu.com/s?wd=%E6%B1%9F%E9%A3%8E%E6%B5%B7%E9%9F%B5%E7%BB%98%E5%B0%B1%E7%94%9F%E6%80%81%E7%BE%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [牵手门涉事公司近期公布核查处理结果](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E6%B6%89%E4%BA%8B%E5%85%AC%E5%8F%B8%E8%BF%91%E6%9C%9F%E5%85%AC%E5%B8%83%E6%A0%B8%E6%9F%A5%E5%A4%84%E7%90%86%E7%BB%93%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [重庆万州遇暴雨：巡逻员喊楼撤离](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%87%E5%B7%9E%E9%81%87%E6%9A%B4%E9%9B%A8%EF%BC%9A%E5%B7%A1%E9%80%BB%E5%91%98%E5%96%8A%E6%A5%BC%E6%92%A4%E7%A6%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [东京一店长闻到煤气味后点了根烟](https://www.baidu.com/s?wd=%E4%B8%9C%E4%BA%AC%E4%B8%80%E5%BA%97%E9%95%BF%E9%97%BB%E5%88%B0%E7%85%A4%E6%B0%94%E5%91%B3%E5%90%8E%E7%82%B9%E4%BA%86%E6%A0%B9%E7%83%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女生遭8名未成年人欺凌 2人被刑拘](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%81%AD8%E5%90%8D%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E6%AC%BA%E5%87%8C+2%E4%BA%BA%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [东京一店长闻到煤气味后点了根烟](https://www.baidu.com/s?wd=%E4%B8%9C%E4%BA%AC%E4%B8%80%E5%BA%97%E9%95%BF%E9%97%BB%E5%88%B0%E7%85%A4%E6%B0%94%E5%91%B3%E5%90%8E%E7%82%B9%E4%BA%86%E6%A0%B9%E7%83%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [市监局回应山姆泡面桶被炒至1999元](https://www.baidu.com/s?wd=%E5%B8%82%E7%9B%91%E5%B1%80%E5%9B%9E%E5%BA%94%E5%B1%B1%E5%A7%86%E6%B3%A1%E9%9D%A2%E6%A1%B6%E8%A2%AB%E7%82%92%E8%87%B31999%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [重庆万州遇暴雨：巡逻员喊楼撤离](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%87%E5%B7%9E%E9%81%87%E6%9A%B4%E9%9B%A8%EF%BC%9A%E5%B7%A1%E9%80%BB%E5%91%98%E5%96%8A%E6%A5%BC%E6%92%A4%E7%A6%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [中南大学回应校友匿名向母校捐6亿](https://www.baidu.com/s?wd=%E4%B8%AD%E5%8D%97%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E6%A0%A1%E5%8F%8B%E5%8C%BF%E5%90%8D%E5%90%91%E6%AF%8D%E6%A0%A1%E6%8D%906%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [小学连开3天家长会 教育局：正调查](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E8%BF%9E%E5%BC%803%E5%A4%A9%E5%AE%B6%E9%95%BF%E4%BC%9A+%E6%95%99%E8%82%B2%E5%B1%80%EF%BC%9A%E6%AD%A3%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [江风海韵绘就生态美](https://www.baidu.com/s?wd=%E6%B1%9F%E9%A3%8E%E6%B5%B7%E9%9F%B5%E7%BB%98%E5%B0%B1%E7%94%9F%E6%80%81%E7%BE%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [牵手门涉事公司近期公布核查处理结果](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E6%B6%89%E4%BA%8B%E5%85%AC%E5%8F%B8%E8%BF%91%E6%9C%9F%E5%85%AC%E5%B8%83%E6%A0%B8%E6%9F%A5%E5%A4%84%E7%90%86%E7%BB%93%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [重庆万州遇暴雨：巡逻员喊楼撤离](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%87%E5%B7%9E%E9%81%87%E6%9A%B4%E9%9B%A8%EF%BC%9A%E5%B7%A1%E9%80%BB%E5%91%98%E5%96%8A%E6%A5%BC%E6%92%A4%E7%A6%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [东京一店长闻到煤气味后点了根烟](https://www.baidu.com/s?wd=%E4%B8%9C%E4%BA%AC%E4%B8%80%E5%BA%97%E9%95%BF%E9%97%BB%E5%88%B0%E7%85%A4%E6%B0%94%E5%91%B3%E5%90%8E%E7%82%B9%E4%BA%86%E6%A0%B9%E7%83%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女生遭8名未成年人欺凌 2人被刑拘](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%81%AD8%E5%90%8D%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E6%AC%BA%E5%87%8C+2%E4%BA%BA%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [东京一店长闻到煤气味后点了根烟](https://www.baidu.com/s?wd=%E4%B8%9C%E4%BA%AC%E4%B8%80%E5%BA%97%E9%95%BF%E9%97%BB%E5%88%B0%E7%85%A4%E6%B0%94%E5%91%B3%E5%90%8E%E7%82%B9%E4%BA%86%E6%A0%B9%E7%83%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [市监局回应山姆泡面桶被炒至1999元](https://www.baidu.com/s?wd=%E5%B8%82%E7%9B%91%E5%B1%80%E5%9B%9E%E5%BA%94%E5%B1%B1%E5%A7%86%E6%B3%A1%E9%9D%A2%E6%A1%B6%E8%A2%AB%E7%82%92%E8%87%B31999%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [重庆万州遇暴雨：巡逻员喊楼撤离](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%87%E5%B7%9E%E9%81%87%E6%9A%B4%E9%9B%A8%EF%BC%9A%E5%B7%A1%E9%80%BB%E5%91%98%E5%96%8A%E6%A5%BC%E6%92%A4%E7%A6%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [中南大学回应校友匿名向母校捐6亿](https://www.baidu.com/s?wd=%E4%B8%AD%E5%8D%97%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E6%A0%A1%E5%8F%8B%E5%8C%BF%E5%90%8D%E5%90%91%E6%AF%8D%E6%A0%A1%E6%8D%906%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
