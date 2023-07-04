@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 04:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 04:48:01</h4></div>
 
 > 微博  
 
@@ -31,10 +31,10 @@
 3. [小学连开3天家长会 教育局：正调查](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E8%BF%9E%E5%BC%803%E5%A4%A9%E5%AE%B6%E9%95%BF%E4%BC%9A+%E6%95%99%E8%82%B2%E5%B1%80%EF%BC%9A%E6%AD%A3%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [江风海韵绘就生态美](https://www.baidu.com/s?wd=%E6%B1%9F%E9%A3%8E%E6%B5%B7%E9%9F%B5%E7%BB%98%E5%B0%B1%E7%94%9F%E6%80%81%E7%BE%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [牵手门涉事公司近期公布核查处理结果](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E6%B6%89%E4%BA%8B%E5%85%AC%E5%8F%B8%E8%BF%91%E6%9C%9F%E5%85%AC%E5%B8%83%E6%A0%B8%E6%9F%A5%E5%A4%84%E7%90%86%E7%BB%93%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [痞幼别墅被男子偷住半个月喝6瓶茅台](https://www.baidu.com/s?wd=%E7%97%9E%E5%B9%BC%E5%88%AB%E5%A2%85%E8%A2%AB%E7%94%B7%E5%AD%90%E5%81%B7%E4%BD%8F%E5%8D%8A%E4%B8%AA%E6%9C%88%E5%96%9D6%E7%93%B6%E8%8C%85%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [王毅：头发染得再黄也变不成西方人](https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%EF%BC%9A%E5%A4%B4%E5%8F%91%E6%9F%93%E5%BE%97%E5%86%8D%E9%BB%84%E4%B9%9F%E5%8F%98%E4%B8%8D%E6%88%90%E8%A5%BF%E6%96%B9%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [落马副市长妻子：往婆婆头顶浇水](https://www.baidu.com/s?wd=%E8%90%BD%E9%A9%AC%E5%89%AF%E5%B8%82%E9%95%BF%E5%A6%BB%E5%AD%90%EF%BC%9A%E5%BE%80%E5%A9%86%E5%A9%86%E5%A4%B4%E9%A1%B6%E6%B5%87%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子买彩票误打误撞中了一千万](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B9%B0%E5%BD%A9%E7%A5%A8%E8%AF%AF%E6%89%93%E8%AF%AF%E6%92%9E%E4%B8%AD%E4%BA%86%E4%B8%80%E5%8D%83%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [王毅：头发染得再黄也变不成西方人](https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%EF%BC%9A%E5%A4%B4%E5%8F%91%E6%9F%93%E5%BE%97%E5%86%8D%E9%BB%84%E4%B9%9F%E5%8F%98%E4%B8%8D%E6%88%90%E8%A5%BF%E6%96%B9%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [落马副市长妻子：往婆婆头顶浇水](https://www.baidu.com/s?wd=%E8%90%BD%E9%A9%AC%E5%89%AF%E5%B8%82%E9%95%BF%E5%A6%BB%E5%AD%90%EF%BC%9A%E5%BE%80%E5%A9%86%E5%A9%86%E5%A4%B4%E9%A1%B6%E6%B5%87%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子买彩票误打误撞中了一千万](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B9%B0%E5%BD%A9%E7%A5%A8%E8%AF%AF%E6%89%93%E8%AF%AF%E6%92%9E%E4%B8%AD%E4%BA%86%E4%B8%80%E5%8D%83%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [痞幼别墅被男子偷住半个月喝6瓶茅台](https://www.baidu.com/s?wd=%E7%97%9E%E5%B9%BC%E5%88%AB%E5%A2%85%E8%A2%AB%E7%94%B7%E5%AD%90%E5%81%B7%E4%BD%8F%E5%8D%8A%E4%B8%AA%E6%9C%88%E5%96%9D6%E7%93%B6%E8%8C%85%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [小学连开3天家长会 教育局：正调查](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E8%BF%9E%E5%BC%803%E5%A4%A9%E5%AE%B6%E9%95%BF%E4%BC%9A+%E6%95%99%E8%82%B2%E5%B1%80%EF%BC%9A%E6%AD%A3%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [江风海韵绘就生态美](https://www.baidu.com/s?wd=%E6%B1%9F%E9%A3%8E%E6%B5%B7%E9%9F%B5%E7%BB%98%E5%B0%B1%E7%94%9F%E6%80%81%E7%BE%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [牵手门涉事公司近期公布核查处理结果](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E9%97%A8%E6%B6%89%E4%BA%8B%E5%85%AC%E5%8F%B8%E8%BF%91%E6%9C%9F%E5%85%AC%E5%B8%83%E6%A0%B8%E6%9F%A5%E5%A4%84%E7%90%86%E7%BB%93%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [痞幼别墅被男子偷住半个月喝6瓶茅台](https://www.baidu.com/s?wd=%E7%97%9E%E5%B9%BC%E5%88%AB%E5%A2%85%E8%A2%AB%E7%94%B7%E5%AD%90%E5%81%B7%E4%BD%8F%E5%8D%8A%E4%B8%AA%E6%9C%88%E5%96%9D6%E7%93%B6%E8%8C%85%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [王毅：头发染得再黄也变不成西方人](https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%EF%BC%9A%E5%A4%B4%E5%8F%91%E6%9F%93%E5%BE%97%E5%86%8D%E9%BB%84%E4%B9%9F%E5%8F%98%E4%B8%8D%E6%88%90%E8%A5%BF%E6%96%B9%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [落马副市长妻子：往婆婆头顶浇水](https://www.baidu.com/s?wd=%E8%90%BD%E9%A9%AC%E5%89%AF%E5%B8%82%E9%95%BF%E5%A6%BB%E5%AD%90%EF%BC%9A%E5%BE%80%E5%A9%86%E5%A9%86%E5%A4%B4%E9%A1%B6%E6%B5%87%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子买彩票误打误撞中了一千万](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B9%B0%E5%BD%A9%E7%A5%A8%E8%AF%AF%E6%89%93%E8%AF%AF%E6%92%9E%E4%B8%AD%E4%BA%86%E4%B8%80%E5%8D%83%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [王毅：头发染得再黄也变不成西方人](https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%EF%BC%9A%E5%A4%B4%E5%8F%91%E6%9F%93%E5%BE%97%E5%86%8D%E9%BB%84%E4%B9%9F%E5%8F%98%E4%B8%8D%E6%88%90%E8%A5%BF%E6%96%B9%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [落马副市长妻子：往婆婆头顶浇水](https://www.baidu.com/s?wd=%E8%90%BD%E9%A9%AC%E5%89%AF%E5%B8%82%E9%95%BF%E5%A6%BB%E5%AD%90%EF%BC%9A%E5%BE%80%E5%A9%86%E5%A9%86%E5%A4%B4%E9%A1%B6%E6%B5%87%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子买彩票误打误撞中了一千万](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B9%B0%E5%BD%A9%E7%A5%A8%E8%AF%AF%E6%89%93%E8%AF%AF%E6%92%9E%E4%B8%AD%E4%BA%86%E4%B8%80%E5%8D%83%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [痞幼别墅被男子偷住半个月喝6瓶茅台](https://www.baidu.com/s?wd=%E7%97%9E%E5%B9%BC%E5%88%AB%E5%A2%85%E8%A2%AB%E7%94%B7%E5%AD%90%E5%81%B7%E4%BD%8F%E5%8D%8A%E4%B8%AA%E6%9C%88%E5%96%9D6%E7%93%B6%E8%8C%85%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
