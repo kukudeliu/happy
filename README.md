@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 09:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 09:39:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [十多年前买的绿萝爬满了办公室](https://s.weibo.com/weibo?q=%E5%8D%81%E5%A4%9A%E5%B9%B4%E5%89%8D%E4%B9%B0%E7%9A%84%E7%BB%BF%E8%90%9D%E7%88%AC%E6%BB%A1%E4%BA%86%E5%8A%9E%E5%85%AC%E5%AE%A4&t=31&band_rank=5&Refer=top)<br />
 6. [JackeyLove退出亚运会名单](https://s.weibo.com/weibo?q=%23JackeyLove%E9%80%80%E5%87%BA%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%90%8D%E5%8D%95%23&t=31&band_rank=6&Refer=top)<br />
 7. [花花生日](https://s.weibo.com/weibo?q=%E8%8A%B1%E8%8A%B1%E7%94%9F%E6%97%A5&t=31&band_rank=7&Refer=top)<br />
-8. [中暑导游去世前坚持将学生们送上车](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%9A%91%E5%AF%BC%E6%B8%B8%E5%8E%BB%E4%B8%96%E5%89%8D%E5%9D%9A%E6%8C%81%E5%B0%86%E5%AD%A6%E7%94%9F%E4%BB%AC%E9%80%81%E4%B8%8A%E8%BD%A6%23&t=31&band_rank=8&Refer=top)<br />
-9. [iPhone15及Plus新增青绿色](https://s.weibo.com/weibo?q=%23iPhone15%E5%8F%8APlus%E6%96%B0%E5%A2%9E%E9%9D%92%E7%BB%BF%E8%89%B2%23&t=31&band_rank=9&Refer=top)<br />
+8. [iPhone15及Plus新增青绿色](https://s.weibo.com/weibo?q=%23iPhone15%E5%8F%8APlus%E6%96%B0%E5%A2%9E%E9%9D%92%E7%BB%BF%E8%89%B2%23&t=31&band_rank=8&Refer=top)<br />
+9. [中暑导游去世前坚持将学生们送上车](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%9A%91%E5%AF%BC%E6%B8%B8%E5%8E%BB%E4%B8%96%E5%89%8D%E5%9D%9A%E6%8C%81%E5%B0%86%E5%AD%A6%E7%94%9F%E4%BB%AC%E9%80%81%E4%B8%8A%E8%BD%A6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -32,9 +32,9 @@
 4. [暑期游新玩法折射消费新趋势](https://www.baidu.com/s?wd=%E6%9A%91%E6%9C%9F%E6%B8%B8%E6%96%B0%E7%8E%A9%E6%B3%95%E6%8A%98%E5%B0%84%E6%B6%88%E8%B4%B9%E6%96%B0%E8%B6%8B%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女工程师为出轨对象做间谍17年](https://www.baidu.com/s?wd=%E5%A5%B3%E5%B7%A5%E7%A8%8B%E5%B8%88%E4%B8%BA%E5%87%BA%E8%BD%A8%E5%AF%B9%E8%B1%A1%E5%81%9A%E9%97%B4%E8%B0%8D17%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子不满柜员询问取款用途1次取1元](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%8D%E6%BB%A1%E6%9F%9C%E5%91%98%E8%AF%A2%E9%97%AE%E5%8F%96%E6%AC%BE%E7%94%A8%E9%80%941%E6%AC%A1%E5%8F%961%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [工人高温修空调女子留其吃饭](https://www.baidu.com/s?wd=%E5%B7%A5%E4%BA%BA%E9%AB%98%E6%B8%A9%E4%BF%AE%E7%A9%BA%E8%B0%83%E5%A5%B3%E5%AD%90%E7%95%99%E5%85%B6%E5%90%83%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [越南因南海九段线禁止芭比上映](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E5%9B%A0%E5%8D%97%E6%B5%B7%E4%B9%9D%E6%AE%B5%E7%BA%BF%E7%A6%81%E6%AD%A2%E8%8A%AD%E6%AF%94%E4%B8%8A%E6%98%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中国侨胞夫妻在刚果（金）遭枪杀](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BE%A8%E8%83%9E%E5%A4%AB%E5%A6%BB%E5%9C%A8%E5%88%9A%E6%9E%9C%EF%BC%88%E9%87%91%EF%BC%89%E9%81%AD%E6%9E%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [越南因南海九段线禁止芭比上映](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E5%9B%A0%E5%8D%97%E6%B5%B7%E4%B9%9D%E6%AE%B5%E7%BA%BF%E7%A6%81%E6%AD%A2%E8%8A%AD%E6%AF%94%E4%B8%8A%E6%98%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [工人高温修空调女子留其吃饭](https://www.baidu.com/s?wd=%E5%B7%A5%E4%BA%BA%E9%AB%98%E6%B8%A9%E4%BF%AE%E7%A9%BA%E8%B0%83%E5%A5%B3%E5%AD%90%E7%95%99%E5%85%B6%E5%90%83%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [多人组团偷吃榴莲致超市损失近千元](https://www.baidu.com/s?wd=%E5%A4%9A%E4%BA%BA%E7%BB%84%E5%9B%A2%E5%81%B7%E5%90%83%E6%A6%B4%E8%8E%B2%E8%87%B4%E8%B6%85%E5%B8%82%E6%8D%9F%E5%A4%B1%E8%BF%91%E5%8D%83%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [暑期游新玩法折射消费新趋势](https://www.baidu.com/s?wd=%E6%9A%91%E6%9C%9F%E6%B8%B8%E6%96%B0%E7%8E%A9%E6%B3%95%E6%8A%98%E5%B0%84%E6%B6%88%E8%B4%B9%E6%96%B0%E8%B6%8B%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女工程师为出轨对象做间谍17年](https://www.baidu.com/s?wd=%E5%A5%B3%E5%B7%A5%E7%A8%8B%E5%B8%88%E4%B8%BA%E5%87%BA%E8%BD%A8%E5%AF%B9%E8%B1%A1%E5%81%9A%E9%97%B4%E8%B0%8D17%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子不满柜员询问取款用途1次取1元](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%8D%E6%BB%A1%E6%9F%9C%E5%91%98%E8%AF%A2%E9%97%AE%E5%8F%96%E6%AC%BE%E7%94%A8%E9%80%941%E6%AC%A1%E5%8F%961%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [工人高温修空调女子留其吃饭](https://www.baidu.com/s?wd=%E5%B7%A5%E4%BA%BA%E9%AB%98%E6%B8%A9%E4%BF%AE%E7%A9%BA%E8%B0%83%E5%A5%B3%E5%AD%90%E7%95%99%E5%85%B6%E5%90%83%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [越南因南海九段线禁止芭比上映](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E5%9B%A0%E5%8D%97%E6%B5%B7%E4%B9%9D%E6%AE%B5%E7%BA%BF%E7%A6%81%E6%AD%A2%E8%8A%AD%E6%AF%94%E4%B8%8A%E6%98%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中国侨胞夫妻在刚果（金）遭枪杀](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BE%A8%E8%83%9E%E5%A4%AB%E5%A6%BB%E5%9C%A8%E5%88%9A%E6%9E%9C%EF%BC%88%E9%87%91%EF%BC%89%E9%81%AD%E6%9E%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [越南因南海九段线禁止芭比上映](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E5%9B%A0%E5%8D%97%E6%B5%B7%E4%B9%9D%E6%AE%B5%E7%BA%BF%E7%A6%81%E6%AD%A2%E8%8A%AD%E6%AF%94%E4%B8%8A%E6%98%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [工人高温修空调女子留其吃饭](https://www.baidu.com/s?wd=%E5%B7%A5%E4%BA%BA%E9%AB%98%E6%B8%A9%E4%BF%AE%E7%A9%BA%E8%B0%83%E5%A5%B3%E5%AD%90%E7%95%99%E5%85%B6%E5%90%83%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [多人组团偷吃榴莲致超市损失近千元](https://www.baidu.com/s?wd=%E5%A4%9A%E4%BA%BA%E7%BB%84%E5%9B%A2%E5%81%B7%E5%90%83%E6%A6%B4%E8%8E%B2%E8%87%B4%E8%B6%85%E5%B8%82%E6%8D%9F%E5%A4%B1%E8%BF%91%E5%8D%83%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
