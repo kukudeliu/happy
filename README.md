@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 10:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 10:47:01</h4></div>
 
 > 微博  
 
@@ -32,9 +32,9 @@
 4. [暑期游新玩法折射消费新趋势](https://www.baidu.com/s?wd=%E6%9A%91%E6%9C%9F%E6%B8%B8%E6%96%B0%E7%8E%A9%E6%B3%95%E6%8A%98%E5%B0%84%E6%B6%88%E8%B4%B9%E6%96%B0%E8%B6%8B%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女工程师为出轨对象做间谍17年](https://www.baidu.com/s?wd=%E5%A5%B3%E5%B7%A5%E7%A8%8B%E5%B8%88%E4%B8%BA%E5%87%BA%E8%BD%A8%E5%AF%B9%E8%B1%A1%E5%81%9A%E9%97%B4%E8%B0%8D17%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [东京大楼爆炸瞬间 有人高喊快逃](https://www.baidu.com/s?wd=%E4%B8%9C%E4%BA%AC%E5%A4%A7%E6%A5%BC%E7%88%86%E7%82%B8%E7%9E%AC%E9%97%B4+%E6%9C%89%E4%BA%BA%E9%AB%98%E5%96%8A%E5%BF%AB%E9%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [媒体：部分地区中小学学位预警](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E9%83%A8%E5%88%86%E5%9C%B0%E5%8C%BA%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%AD%A6%E4%BD%8D%E9%A2%84%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [49岁导游中暑去世仍把学生送回车](https://www.baidu.com/s?wd=49%E5%B2%81%E5%AF%BC%E6%B8%B8%E4%B8%AD%E6%9A%91%E5%8E%BB%E4%B8%96%E4%BB%8D%E6%8A%8A%E5%AD%A6%E7%94%9F%E9%80%81%E5%9B%9E%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子施救倒地大爷围观人不停泼冷水](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%96%BD%E6%95%91%E5%80%92%E5%9C%B0%E5%A4%A7%E7%88%B7%E5%9B%B4%E8%A7%82%E4%BA%BA%E4%B8%8D%E5%81%9C%E6%B3%BC%E5%86%B7%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [49岁导游中暑去世仍把学生送回车](https://www.baidu.com/s?wd=49%E5%B2%81%E5%AF%BC%E6%B8%B8%E4%B8%AD%E6%9A%91%E5%8E%BB%E4%B8%96%E4%BB%8D%E6%8A%8A%E5%AD%A6%E7%94%9F%E9%80%81%E5%9B%9E%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [媒体：部分地区中小学学位预警](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E9%83%A8%E5%88%86%E5%9C%B0%E5%8C%BA%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%AD%A6%E4%BD%8D%E9%A2%84%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [王楚钦世界排名第一](https://www.baidu.com/s?wd=%E7%8E%8B%E6%A5%9A%E9%92%A6%E4%B8%96%E7%95%8C%E6%8E%92%E5%90%8D%E7%AC%AC%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [暑期游新玩法折射消费新趋势](https://www.baidu.com/s?wd=%E6%9A%91%E6%9C%9F%E6%B8%B8%E6%96%B0%E7%8E%A9%E6%B3%95%E6%8A%98%E5%B0%84%E6%B6%88%E8%B4%B9%E6%96%B0%E8%B6%8B%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女工程师为出轨对象做间谍17年](https://www.baidu.com/s?wd=%E5%A5%B3%E5%B7%A5%E7%A8%8B%E5%B8%88%E4%B8%BA%E5%87%BA%E8%BD%A8%E5%AF%B9%E8%B1%A1%E5%81%9A%E9%97%B4%E8%B0%8D17%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [东京大楼爆炸瞬间 有人高喊快逃](https://www.baidu.com/s?wd=%E4%B8%9C%E4%BA%AC%E5%A4%A7%E6%A5%BC%E7%88%86%E7%82%B8%E7%9E%AC%E9%97%B4+%E6%9C%89%E4%BA%BA%E9%AB%98%E5%96%8A%E5%BF%AB%E9%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [媒体：部分地区中小学学位预警](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E9%83%A8%E5%88%86%E5%9C%B0%E5%8C%BA%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%AD%A6%E4%BD%8D%E9%A2%84%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [49岁导游中暑去世仍把学生送回车](https://www.baidu.com/s?wd=49%E5%B2%81%E5%AF%BC%E6%B8%B8%E4%B8%AD%E6%9A%91%E5%8E%BB%E4%B8%96%E4%BB%8D%E6%8A%8A%E5%AD%A6%E7%94%9F%E9%80%81%E5%9B%9E%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子施救倒地大爷围观人不停泼冷水](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%96%BD%E6%95%91%E5%80%92%E5%9C%B0%E5%A4%A7%E7%88%B7%E5%9B%B4%E8%A7%82%E4%BA%BA%E4%B8%8D%E5%81%9C%E6%B3%BC%E5%86%B7%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [49岁导游中暑去世仍把学生送回车](https://www.baidu.com/s?wd=49%E5%B2%81%E5%AF%BC%E6%B8%B8%E4%B8%AD%E6%9A%91%E5%8E%BB%E4%B8%96%E4%BB%8D%E6%8A%8A%E5%AD%A6%E7%94%9F%E9%80%81%E5%9B%9E%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [媒体：部分地区中小学学位预警](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E9%83%A8%E5%88%86%E5%9C%B0%E5%8C%BA%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%AD%A6%E4%BD%8D%E9%A2%84%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [王楚钦世界排名第一](https://www.baidu.com/s?wd=%E7%8E%8B%E6%A5%9A%E9%92%A6%E4%B8%96%E7%95%8C%E6%8E%92%E5%90%8D%E7%AC%AC%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
