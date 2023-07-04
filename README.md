@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 07:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 07:32:01</h4></div>
 
 > 微博  
 
@@ -17,12 +17,12 @@
 1. [美国投资巨头免费接手乌克兰全部国企，包括能源和电网，哪些信息值得关注？](https://www.zhihu.com/question/610223926)<br />
 2. [越南因南海九段线禁止电影《芭比》上映，外交部回应「不应将南海问题同人文交流挂钩」，如何看待越方行为？](https://www.zhihu.com/question/610272972)<br />
 3. [冲绳知事访华，参观北京琉球国墓地遗址，从历史上看，琉球和中国有何渊源？哪些信息值得关注？](https://www.zhihu.com/question/610361691)<br />
-4. [男子故意 1 次取 1 元逼哭柜员称「非把你开除！」，如何看待该男子的做法？](https://www.zhihu.com/question/610236031)<br />
-5. [光速这么慢，以后月球和地球怎么联机打游戏？](https://www.zhihu.com/question/609921573)<br />
-6. [如何评价肖战在电视剧《玉骨遥》中的演技？](https://www.zhihu.com/question/609940615)<br />
+4. [光速这么慢，以后月球和地球怎么联机打游戏？](https://www.zhihu.com/question/609921573)<br />
+5. [如何评价肖战在电视剧《玉骨遥》中的演技？](https://www.zhihu.com/question/609940615)<br />
+6. []()<br />
 7. []()<br />
-8. []()<br />
-9. [高考后有必要跟风染头发吗？](https://www.zhihu.com/question/609581246)<br />
+8. [高考后有必要跟风染头发吗？](https://www.zhihu.com/question/609581246)<br />
+9. []()<br />
 
 > 百度  
 
@@ -34,7 +34,7 @@
 6. [东京一店长闻到煤气味后点了根烟](https://www.baidu.com/s?wd=%E4%B8%9C%E4%BA%AC%E4%B8%80%E5%BA%97%E9%95%BF%E9%97%BB%E5%88%B0%E7%85%A4%E6%B0%94%E5%91%B3%E5%90%8E%E7%82%B9%E4%BA%86%E6%A0%B9%E7%83%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [何炅王嘉尔曾预言白敬亭宋轶](https://www.baidu.com/s?wd=%E4%BD%95%E7%82%85%E7%8E%8B%E5%98%89%E5%B0%94%E6%9B%BE%E9%A2%84%E8%A8%80%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女生遭8名未成年人欺凌 2人被刑拘](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%81%AD8%E5%90%8D%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E6%AC%BA%E5%87%8C+2%E4%BA%BA%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [16岁女孩结婚40天后离家出走](https://www.baidu.com/s?wd=16%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%BB%93%E5%A9%9A40%E5%A4%A9%E5%90%8E%E7%A6%BB%E5%AE%B6%E5%87%BA%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [王毅：头发染得再黄也变不成西方人](https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%EF%BC%9A%E5%A4%B4%E5%8F%91%E6%9F%93%E5%BE%97%E5%86%8D%E9%BB%84%E4%B9%9F%E5%8F%98%E4%B8%8D%E6%88%90%E8%A5%BF%E6%96%B9%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [东京一店长闻到煤气味后点了根烟](https://www.baidu.com/s?wd=%E4%B8%9C%E4%BA%AC%E4%B8%80%E5%BA%97%E9%95%BF%E9%97%BB%E5%88%B0%E7%85%A4%E6%B0%94%E5%91%B3%E5%90%8E%E7%82%B9%E4%BA%86%E6%A0%B9%E7%83%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [何炅王嘉尔曾预言白敬亭宋轶](https://www.baidu.com/s?wd=%E4%BD%95%E7%82%85%E7%8E%8B%E5%98%89%E5%B0%94%E6%9B%BE%E9%A2%84%E8%A8%80%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女生遭8名未成年人欺凌 2人被刑拘](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%81%AD8%E5%90%8D%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E6%AC%BA%E5%87%8C+2%E4%BA%BA%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [16岁女孩结婚40天后离家出走](https://www.baidu.com/s?wd=16%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%BB%93%E5%A9%9A40%E5%A4%A9%E5%90%8E%E7%A6%BB%E5%AE%B6%E5%87%BA%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [王毅：头发染得再黄也变不成西方人](https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%EF%BC%9A%E5%A4%B4%E5%8F%91%E6%9F%93%E5%BE%97%E5%86%8D%E9%BB%84%E4%B9%9F%E5%8F%98%E4%B8%8D%E6%88%90%E8%A5%BF%E6%96%B9%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
