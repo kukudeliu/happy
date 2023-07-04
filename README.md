@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 01:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 01:52:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [日本札幌一酒店惊现无头男尸](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%9C%AD%E5%B9%8C%E4%B8%80%E9%85%92%E5%BA%97%E6%83%8A%E7%8E%B0%E6%97%A0%E5%A4%B4%E7%94%B7%E5%B0%B8%23&t=31&band_rank=5&Refer=top)<br />
 6. [EDG 啃老](https://s.weibo.com/weibo?q=EDG%20%E5%95%83%E8%80%81&t=31&band_rank=6&Refer=top)<br />
 7. [朱某龙骑车去痞幼家偷茅台](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E6%9F%90%E9%BE%99%E9%AA%91%E8%BD%A6%E5%8E%BB%E7%97%9E%E5%B9%BC%E5%AE%B6%E5%81%B7%E8%8C%85%E5%8F%B0%23&t=31&band_rank=7&Refer=top)<br />
-8. [老人高铁霸座掏出一把药丸](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E9%AB%98%E9%93%81%E9%9C%B8%E5%BA%A7%E6%8E%8F%E5%87%BA%E4%B8%80%E6%8A%8A%E8%8D%AF%E4%B8%B8%23&t=31&band_rank=8&Refer=top)<br />
-9. [时影刚满18就要开始带娃了](https://s.weibo.com/weibo?q=%23%E6%97%B6%E5%BD%B1%E5%88%9A%E6%BB%A118%E5%B0%B1%E8%A6%81%E5%BC%80%E5%A7%8B%E5%B8%A6%E5%A8%83%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+8. [时影刚满18就要开始带娃了](https://s.weibo.com/weibo?q=%23%E6%97%B6%E5%BD%B1%E5%88%9A%E6%BB%A118%E5%B0%B1%E8%A6%81%E5%BC%80%E5%A7%8B%E5%B8%A6%E5%A8%83%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [老人高铁霸座掏出一把药丸](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E9%AB%98%E9%93%81%E9%9C%B8%E5%BA%A7%E6%8E%8F%E5%87%BA%E4%B8%80%E6%8A%8A%E8%8D%AF%E4%B8%B8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
