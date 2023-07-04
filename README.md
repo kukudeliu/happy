@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 04:08:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 04:09:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [广东人正式被确诊为依萍](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%BA%BA%E6%AD%A3%E5%BC%8F%E8%A2%AB%E7%A1%AE%E8%AF%8A%E4%B8%BA%E4%BE%9D%E8%90%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [落马副市长妻子：往婆婆头顶浇水](https://www.baidu.com/s?wd=%E8%90%BD%E9%A9%AC%E5%89%AF%E5%B8%82%E9%95%BF%E5%A6%BB%E5%AD%90%EF%BC%9A%E5%BE%80%E5%A9%86%E5%A9%86%E5%A4%B4%E9%A1%B6%E6%B5%87%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女生遭8名未成年人欺凌 2人被刑拘](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%81%AD8%E5%90%8D%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E6%AC%BA%E5%87%8C+2%E4%BA%BA%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [胡锡进评清北遭舆论攻击：太过分](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%E8%AF%84%E6%B8%85%E5%8C%97%E9%81%AD%E8%88%86%E8%AE%BA%E6%94%BB%E5%87%BB%EF%BC%9A%E5%A4%AA%E8%BF%87%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子买彩票误打误撞中了一千万](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B9%B0%E5%BD%A9%E7%A5%A8%E8%AF%AF%E6%89%93%E8%AF%AF%E6%92%9E%E4%B8%AD%E4%BA%86%E4%B8%80%E5%8D%83%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [广东人正式被确诊为依萍](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%BA%BA%E6%AD%A3%E5%BC%8F%E8%A2%AB%E7%A1%AE%E8%AF%8A%E4%B8%BA%E4%BE%9D%E8%90%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [落马副市长妻子：往婆婆头顶浇水](https://www.baidu.com/s?wd=%E8%90%BD%E9%A9%AC%E5%89%AF%E5%B8%82%E9%95%BF%E5%A6%BB%E5%AD%90%EF%BC%9A%E5%BE%80%E5%A9%86%E5%A9%86%E5%A4%B4%E9%A1%B6%E6%B5%87%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女生遭8名未成年人欺凌 2人被刑拘](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%81%AD8%E5%90%8D%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E6%AC%BA%E5%87%8C+2%E4%BA%BA%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [胡锡进评清北遭舆论攻击：太过分](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%E8%AF%84%E6%B8%85%E5%8C%97%E9%81%AD%E8%88%86%E8%AE%BA%E6%94%BB%E5%87%BB%EF%BC%9A%E5%A4%AA%E8%BF%87%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子买彩票误打误撞中了一千万](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B9%B0%E5%BD%A9%E7%A5%A8%E8%AF%AF%E6%89%93%E8%AF%AF%E6%92%9E%E4%B8%AD%E4%BA%86%E4%B8%80%E5%8D%83%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
