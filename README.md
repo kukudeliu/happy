@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 09:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-04 09:56:01</h4></div>
 
 > 微博  
 
 1. [黑执事](https://s.weibo.com/weibo?q=%E9%BB%91%E6%89%A7%E4%BA%8B&t=31&band_rank=1&Refer=top)<br />
-2. [西安忍不住根本忍不住](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E5%BF%8D%E4%B8%8D%E4%BD%8F%E6%A0%B9%E6%9C%AC%E5%BF%8D%E4%B8%8D%E4%BD%8F%23&t=31&band_rank=2&Refer=top)<br />
+2. [男子故意1次取1元逼哭柜员](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%95%85%E6%84%8F1%E6%AC%A1%E5%8F%961%E5%85%83%E9%80%BC%E5%93%AD%E6%9F%9C%E5%91%98%23&t=31&band_rank=2&Refer=top)<br />
 3. [中国人首次荣获护理界国际成就奖](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E9%A6%96%E6%AC%A1%E8%8D%A3%E8%8E%B7%E6%8A%A4%E7%90%86%E7%95%8C%E5%9B%BD%E9%99%85%E6%88%90%E5%B0%B1%E5%A5%96%23&t=31&band_rank=3&Refer=top)<br />
-4. [iPhone15及Plus新增青绿色](https://s.weibo.com/weibo?q=%23iPhone15%E5%8F%8APlus%E6%96%B0%E5%A2%9E%E9%9D%92%E7%BB%BF%E8%89%B2%23&t=31&band_rank=4&Refer=top)<br />
-5. [男子故意1次取1元逼哭柜员](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%95%85%E6%84%8F1%E6%AC%A1%E5%8F%961%E5%85%83%E9%80%BC%E5%93%AD%E6%9F%9C%E5%91%98%23&t=31&band_rank=5&Refer=top)<br />
+4. [西安忍不住根本忍不住](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E5%BF%8D%E4%B8%8D%E4%BD%8F%E6%A0%B9%E6%9C%AC%E5%BF%8D%E4%B8%8D%E4%BD%8F%23&t=31&band_rank=4&Refer=top)<br />
+5. [iPhone15及Plus新增青绿色](https://s.weibo.com/weibo?q=%23iPhone15%E5%8F%8APlus%E6%96%B0%E5%A2%9E%E9%9D%92%E7%BB%BF%E8%89%B2%23&t=31&band_rank=5&Refer=top)<br />
 6. [花花生日](https://s.weibo.com/weibo?q=%E8%8A%B1%E8%8A%B1%E7%94%9F%E6%97%A5&t=31&band_rank=6&Refer=top)<br />
 7. [十多年前买的绿萝爬满了办公室](https://s.weibo.com/weibo?q=%E5%8D%81%E5%A4%9A%E5%B9%B4%E5%89%8D%E4%B9%B0%E7%9A%84%E7%BB%BF%E8%90%9D%E7%88%AC%E6%BB%A1%E4%BA%86%E5%8A%9E%E5%85%AC%E5%AE%A4&t=31&band_rank=7&Refer=top)<br />
-8. [369](https://s.weibo.com/weibo?q=369&t=31&band_rank=8&Refer=top)<br />
-9. [消失的她塑料情头](https://s.weibo.com/weibo?q=%23%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E5%A1%91%E6%96%99%E6%83%85%E5%A4%B4%23&t=31&band_rank=9&Refer=top)<br />
+8. [消失的她塑料情头](https://s.weibo.com/weibo?q=%23%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E5%A1%91%E6%96%99%E6%83%85%E5%A4%B4%23&t=31&band_rank=8&Refer=top)<br />
+9. [369](https://s.weibo.com/weibo?q=369&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -20,9 +20,9 @@
 4. [医院实行「年薪制」，主任 30 万、主治 20 万，你怎么看？](https://www.zhihu.com/question/610087179)<br />
 5. [朝鲜女孩拍视频介绍平壤，韩国以「宣传朝鲜体制」为由屏蔽，谷歌封号，透露了哪些信息？](https://www.zhihu.com/question/610162816)<br />
 6. [上海 94 岁老人实名举报「遭保姆虐待，250 多万养老钱被卷光」，警方已介入，具体情况如何？](https://www.zhihu.com/question/610021603)<br />
-7. [青年失业率突破 20%，毕业生「慢就业」愈加显著，如今毕业生的就业观发生了哪些变化？如何看待这一变化？](https://www.zhihu.com/question/608938944)<br />
-8. [一个很小的东西，比如指甲盖大小。但是它的重量却很大，重到几万吨。这个东西放在手上，它的重力会穿破手吗？](https://www.zhihu.com/question/519865099)<br />
-9. [如何看待英雄联盟亚运名单更新，369 、 JKL 退赛？](https://www.zhihu.com/question/610189438)<br />
+7. [一个很小的东西，比如指甲盖大小。但是它的重量却很大，重到几万吨。这个东西放在手上，它的重力会穿破手吗？](https://www.zhihu.com/question/519865099)<br />
+8. [如何看待英雄联盟亚运名单更新，369 、 JKL 退赛？](https://www.zhihu.com/question/610189438)<br />
+9. [如何看待国科大校长周琪院士 2023 年毕业典礼多次哽咽发言?](https://www.zhihu.com/question/609952307)<br />
 
 > 百度  
 
