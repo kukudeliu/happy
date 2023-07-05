@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 12:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 12:15:02</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [这段交通安全宣传片看得有点上头](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%AE%B5%E4%BA%A4%E9%80%9A%E5%AE%89%E5%85%A8%E5%AE%A3%E4%BC%A0%E7%89%87%E7%9C%8B%E5%BE%97%E6%9C%89%E7%82%B9%E4%B8%8A%E5%A4%B4%23&t=31&band_rank=3&Refer=top)<br />
 4. [现在该大小S有压力了](https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E8%AF%A5%E5%A4%A7%E5%B0%8FS%E6%9C%89%E5%8E%8B%E5%8A%9B%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [官方回应山东一辅警接连杀害两名女性](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%B1%B1%E4%B8%9C%E4%B8%80%E8%BE%85%E8%AD%A6%E6%8E%A5%E8%BF%9E%E6%9D%80%E5%AE%B3%E4%B8%A4%E5%90%8D%E5%A5%B3%E6%80%A7%23&t=31&band_rank=5&Refer=top)<br />
-6. [阿雅工作室发检测报告](https://s.weibo.com/weibo?q=%23%E9%98%BF%E9%9B%85%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%8F%91%E6%A3%80%E6%B5%8B%E6%8A%A5%E5%91%8A%23&t=31&band_rank=6&Refer=top)<br />
-7. [倪妮在干什么](https://s.weibo.com/weibo?q=%E5%80%AA%E5%A6%AE%E5%9C%A8%E5%B9%B2%E4%BB%80%E4%B9%88&t=31&band_rank=7&Refer=top)<br />
+6. [倪妮在干什么](https://s.weibo.com/weibo?q=%E5%80%AA%E5%A6%AE%E5%9C%A8%E5%B9%B2%E4%BB%80%E4%B9%88&t=31&band_rank=6&Refer=top)<br />
+7. [阿雅工作室发检测报告](https://s.weibo.com/weibo?q=%23%E9%98%BF%E9%9B%85%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%8F%91%E6%A3%80%E6%B5%8B%E6%8A%A5%E5%91%8A%23&t=31&band_rank=7&Refer=top)<br />
 8. [当我飞奔向你](https://s.weibo.com/weibo?q=%E5%BD%93%E6%88%91%E9%A3%9E%E5%A5%94%E5%90%91%E4%BD%A0&t=31&band_rank=8&Refer=top)<br />
 9. [世界气象组织确认厄尔尼诺出现](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%B0%94%E8%B1%A1%E7%BB%84%E7%BB%87%E7%A1%AE%E8%AE%A4%E5%8E%84%E5%B0%94%E5%B0%BC%E8%AF%BA%E5%87%BA%E7%8E%B0%23&t=31&band_rank=9&Refer=top)<br />
 
@@ -16,10 +16,10 @@
 
 1. [冲绳知事访华，参观北京琉球国墓地遗址，从历史上看，琉球和中国有何渊源？哪些信息值得关注？](https://www.zhihu.com/question/610361691)<br />
 2. [中南大学一校友「匿名」向母校捐赠六亿元，校方回应「校友不愿出名想做实在事」，将会产生哪些社会影响？](https://www.zhihu.com/question/610238278)<br />
-3. [中国对半导体关键材料镓和锗两种关键金属管制出口，日韩接连回应，中方此举有何影响？还有哪些信息值得关注？](https://www.zhihu.com/question/610357929)<br />
-4. [光速这么慢，以后月球和地球怎么联机打游戏？](https://www.zhihu.com/question/609921573)<br />
+3. [光速这么慢，以后月球和地球怎么联机打游戏？](https://www.zhihu.com/question/609921573)<br />
+4. [盖伦沉默增加 10 秒能上职业联赛吗?](https://www.zhihu.com/question/610089911)<br />
 5. [普京称中俄贸易超 80% 由人民币和卢布结算，释放了哪些信号？](https://www.zhihu.com/question/610356466)<br />
-6. [盖伦沉默增加 10 秒能上职业联赛吗?](https://www.zhihu.com/question/610089911)<br />
+6. [中国对半导体关键材料镓和锗两种关键金属管制出口，日韩接连回应，中方此举有何影响？还有哪些信息值得关注？](https://www.zhihu.com/question/610357929)<br />
 7. [知名主持人杨澜名下公司数百万财产被冻结，哪些信息值得关注？](https://www.zhihu.com/question/610235048)<br />
 8. [为什么陈思诚的电影总能在商业上取得很好的成绩？](https://www.zhihu.com/question/609609362)<br />
 9. [网传国有大行向融资平台新增 25 年期贷款且前四年免息，经媒体求证信息不实，有哪些信息值得关注？](https://www.zhihu.com/question/610426814)<br />
