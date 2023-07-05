@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 02:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 02:18:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [李玟去世](https://s.weibo.com/weibo?q=%E6%9D%8E%E7%8E%9F%E5%8E%BB%E4%B8%96&t=31&band_rank=4&Refer=top)<br />
 5. [快告诉我是假的](https://s.weibo.com/weibo?q=%23%E5%BF%AB%E5%91%8A%E8%AF%89%E6%88%91%E6%98%AF%E5%81%87%E7%9A%84%23&t=31&band_rank=5&Refer=top)<br />
 6. [众星悼念李玟](https://s.weibo.com/weibo?q=%23%E4%BC%97%E6%98%9F%E6%82%BC%E5%BF%B5%E6%9D%8E%E7%8E%9F%23&t=31&band_rank=6&Refer=top)<br />
-7. [经纪公司回应李玟去世](https://s.weibo.com/weibo?q=%23%E7%BB%8F%E7%BA%AA%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94%E6%9D%8E%E7%8E%9F%E5%8E%BB%E4%B8%96%23&t=31&band_rank=7&Refer=top)<br />
-8. [抑郁症不是情绪问题](https://s.weibo.com/weibo?q=%23%E6%8A%91%E9%83%81%E7%97%87%E4%B8%8D%E6%98%AF%E6%83%85%E7%BB%AA%E9%97%AE%E9%A2%98%23&t=31&band_rank=8&Refer=top)<br />
-9. [2年被家暴16次女子希望判丈夫死刑](https://s.weibo.com/weibo?q=%232%E5%B9%B4%E8%A2%AB%E5%AE%B6%E6%9A%B416%E6%AC%A1%E5%A5%B3%E5%AD%90%E5%B8%8C%E6%9C%9B%E5%88%A4%E4%B8%88%E5%A4%AB%E6%AD%BB%E5%88%91%23&t=31&band_rank=9&Refer=top)<br />
+7. [抑郁症不是情绪问题](https://s.weibo.com/weibo?q=%23%E6%8A%91%E9%83%81%E7%97%87%E4%B8%8D%E6%98%AF%E6%83%85%E7%BB%AA%E9%97%AE%E9%A2%98%23&t=31&band_rank=7&Refer=top)<br />
+8. [2年被家暴16次女子希望判丈夫死刑](https://s.weibo.com/weibo?q=%232%E5%B9%B4%E8%A2%AB%E5%AE%B6%E6%9A%B416%E6%AC%A1%E5%A5%B3%E5%AD%90%E5%B8%8C%E6%9C%9B%E5%88%A4%E4%B8%88%E5%A4%AB%E6%AD%BB%E5%88%91%23&t=31&band_rank=8&Refer=top)<br />
+9. [抑郁症早期征兆有哪些](https://s.weibo.com/weibo?q=%23%E6%8A%91%E9%83%81%E7%97%87%E6%97%A9%E6%9C%9F%E5%BE%81%E5%85%86%E6%9C%89%E5%93%AA%E4%BA%9B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
