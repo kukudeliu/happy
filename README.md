@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 09:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 09:53:01</h4></div>
 
 > 微博  
 
@@ -17,12 +17,12 @@
 1. [冲绳知事访华，参观北京琉球国墓地遗址，从历史上看，琉球和中国有何渊源？哪些信息值得关注？](https://www.zhihu.com/question/610361691)<br />
 2. [光速这么慢，以后月球和地球怎么联机打游戏？](https://www.zhihu.com/question/609921573)<br />
 3. [周末下午地铁上有个小孩特别大声的说要坐着，但是目之所及已经没座了，如果你作为家长应该怎么办？](https://www.zhihu.com/question/602074778)<br />
-4. [美国投资巨头免费接手乌克兰全部国企，包括能源和电网，哪些信息值得关注？](https://www.zhihu.com/question/610223926)<br />
+4. [普京称中俄贸易超 80% 由人民币和卢布结算，释放了哪些信号？](https://www.zhihu.com/question/610356466)<br />
 5. [中国对半导体关键材料镓和锗两种关键金属管制出口，日韩接连回应，中方此举有何影响？还有哪些信息值得关注？](https://www.zhihu.com/question/610357929)<br />
 6. [越南因南海九段线禁止电影《芭比》上映，外交部回应「不应将南海问题同人文交流挂钩」，如何看待越方行为？](https://www.zhihu.com/question/610272972)<br />
-7. [普京称中俄贸易超 80% 由人民币和卢布结算，释放了哪些信号？](https://www.zhihu.com/question/610356466)<br />
-8. [为庆祝女儿考入清华大学，父母凉菜摊连打三天 8.8 折，如何看待此事？ 高考出分你是怎么庆祝的？](https://www.zhihu.com/question/609394580)<br />
-9. [耐克宣布 Kobe Bryant 系列球鞋全面回归，如何评价这一商业行为？](https://www.zhihu.com/question/610236585)<br />
+7. [为庆祝女儿考入清华大学，父母凉菜摊连打三天 8.8 折，如何看待此事？ 高考出分你是怎么庆祝的？](https://www.zhihu.com/question/609394580)<br />
+8. [耐克宣布 Kobe Bryant 系列球鞋全面回归，如何评价这一商业行为？](https://www.zhihu.com/question/610236585)<br />
+9. [中国有真正的汽车文化吗？](https://www.zhihu.com/question/318609913)<br />
 
 > 百度  
 
