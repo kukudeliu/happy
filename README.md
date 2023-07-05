@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 04:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 04:26:01</h4></div>
 
 > 微博  
 
 1. [李玟80岁母亲首先发现女儿在寓所轻生](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F80%E5%B2%81%E6%AF%8D%E4%BA%B2%E9%A6%96%E5%85%88%E5%8F%91%E7%8E%B0%E5%A5%B3%E5%84%BF%E5%9C%A8%E5%AF%93%E6%89%80%E8%BD%BB%E7%94%9F%23&t=31&band_rank=1&Refer=top)<br />
-2. [李玟去世](https://s.weibo.com/weibo?q=%E6%9D%8E%E7%8E%9F%E5%8E%BB%E4%B8%96&t=31&band_rank=2&Refer=top)<br />
+2. [李玟生前曾完全失声](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E7%94%9F%E5%89%8D%E6%9B%BE%E5%AE%8C%E5%85%A8%E5%A4%B1%E5%A3%B0%23&t=31&band_rank=2&Refer=top)<br />
 3. [世界最早印花工具做出的汉服有多美](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9C%80%E6%97%A9%E5%8D%B0%E8%8A%B1%E5%B7%A5%E5%85%B7%E5%81%9A%E5%87%BA%E7%9A%84%E6%B1%89%E6%9C%8D%E6%9C%89%E5%A4%9A%E7%BE%8E%23&t=31&band_rank=3&Refer=top)<br />
-4. [李玟生前曾完全失声](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E7%94%9F%E5%89%8D%E6%9B%BE%E5%AE%8C%E5%85%A8%E5%A4%B1%E5%A3%B0%23&t=31&band_rank=4&Refer=top)<br />
+4. [李玟去世](https://s.weibo.com/weibo?q=%E6%9D%8E%E7%8E%9F%E5%8E%BB%E4%B8%96&t=31&band_rank=4&Refer=top)<br />
 5. [萧亚轩 她是我永远的天后](https://s.weibo.com/weibo?q=%E8%90%A7%E4%BA%9A%E8%BD%A9%20%E5%A5%B9%E6%98%AF%E6%88%91%E6%B0%B8%E8%BF%9C%E7%9A%84%E5%A4%A9%E5%90%8E&t=31&band_rank=5&Refer=top)<br />
 6. [众星悼念李玟](https://s.weibo.com/weibo?q=%23%E4%BC%97%E6%98%9F%E6%82%BC%E5%BF%B5%E6%9D%8E%E7%8E%9F%23&t=31&band_rank=6&Refer=top)<br />
 7. [抑郁症不是情绪问题](https://s.weibo.com/weibo?q=%23%E6%8A%91%E9%83%81%E7%97%87%E4%B8%8D%E6%98%AF%E6%83%85%E7%BB%AA%E9%97%AE%E9%A2%98%23&t=31&band_rank=7&Refer=top)<br />
