@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 21:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 21:26:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [中国陷入资产负债表衰退是真相还是噱头？](https://www.zhihu.com/theater/97424)<br />
 6. [报道称欧盟外长博雷利原定下周访华被中方取消，外交部称愿同欧方继续保持沟通，取消原因是什么？如何解读？](https://www.zhihu.com/question/610463055)<br />
 7. [如何看待起售价为 1399 元起的荣耀 X50 ？有哪些亮点和不足？](https://www.zhihu.com/question/610537841)<br />
-8. [假如一只被特别娇惯的猫突然失去主人，能适应以后的生活吗？](https://www.zhihu.com/question/609779217)<br />
-9. [2023 年前端流行什么技术和框架了？](https://www.zhihu.com/question/609395923)<br />
+8. [重庆万州区遭暴雨袭击，因灾死亡 15 人，失踪 4 人，目前情况如何？](https://www.zhihu.com/question/610456313)<br />
+9. [假如一只被特别娇惯的猫突然失去主人，能适应以后的生活吗？](https://www.zhihu.com/question/609779217)<br />
 
 > 百度  
 
