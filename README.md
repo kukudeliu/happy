@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 21:57:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 21:58:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [韩红首次公开回应被举报](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%BA%A2%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80%E5%9B%9E%E5%BA%94%E8%A2%AB%E4%B8%BE%E6%8A%A5%23&t=31&band_rank=5&Refer=top)<br />
 6. [你留下的爱](https://s.weibo.com/weibo?q=%E4%BD%A0%E7%95%99%E4%B8%8B%E7%9A%84%E7%88%B1&t=31&band_rank=6&Refer=top)<br />
 7. [圆肩驼背探颈是种病](https://s.weibo.com/weibo?q=%E5%9C%86%E8%82%A9%E9%A9%BC%E8%83%8C%E6%8E%A2%E9%A2%88%E6%98%AF%E7%A7%8D%E7%97%85&t=31&band_rank=7&Refer=top)<br />
-8. [硕士毕业10年被查出论文剽窃](https://s.weibo.com/weibo?q=%23%E7%A1%95%E5%A3%AB%E6%AF%95%E4%B8%9A10%E5%B9%B4%E8%A2%AB%E6%9F%A5%E5%87%BA%E8%AE%BA%E6%96%87%E5%89%BD%E7%AA%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [坐高铁最好不要趴小桌板上](https://s.weibo.com/weibo?q=%23%E5%9D%90%E9%AB%98%E9%93%81%E6%9C%80%E5%A5%BD%E4%B8%8D%E8%A6%81%E8%B6%B4%E5%B0%8F%E6%A1%8C%E6%9D%BF%E4%B8%8A%23&t=31&band_rank=9&Refer=top)<br />
+8. [坐高铁最好不要趴小桌板上](https://s.weibo.com/weibo?q=%23%E5%9D%90%E9%AB%98%E9%93%81%E6%9C%80%E5%A5%BD%E4%B8%8D%E8%A6%81%E8%B6%B4%E5%B0%8F%E6%A1%8C%E6%9D%BF%E4%B8%8A%23&t=31&band_rank=8&Refer=top)<br />
+9. [硕士毕业10年被查出论文剽窃](https://s.weibo.com/weibo?q=%23%E7%A1%95%E5%A3%AB%E6%AF%95%E4%B8%9A10%E5%B9%B4%E8%A2%AB%E6%9F%A5%E5%87%BA%E8%AE%BA%E6%96%87%E5%89%BD%E7%AA%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
