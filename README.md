@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 06:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 06:28:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [萧亚轩 她是我永远的天后](https://s.weibo.com/weibo?q=%E8%90%A7%E4%BA%9A%E8%BD%A9%20%E5%A5%B9%E6%98%AF%E6%88%91%E6%B0%B8%E8%BF%9C%E7%9A%84%E5%A4%A9%E5%90%8E&t=31&band_rank=5&Refer=top)<br />
 6. [李玟去世](https://s.weibo.com/weibo?q=%E6%9D%8E%E7%8E%9F%E5%8E%BB%E4%B8%96&t=31&band_rank=6&Refer=top)<br />
 7. [抑郁症两大原因](https://s.weibo.com/weibo?q=%23%E6%8A%91%E9%83%81%E7%97%87%E4%B8%A4%E5%A4%A7%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=7&Refer=top)<br />
-8. [偷拿同学20元男孩被妈妈带去派出所自首](https://s.weibo.com/weibo?q=%23%E5%81%B7%E6%8B%BF%E5%90%8C%E5%AD%A620%E5%85%83%E7%94%B7%E5%AD%A9%E8%A2%AB%E5%A6%88%E5%A6%88%E5%B8%A6%E5%8E%BB%E6%B4%BE%E5%87%BA%E6%89%80%E8%87%AA%E9%A6%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [2年被家暴16次女子希望判丈夫死刑](https://s.weibo.com/weibo?q=%232%E5%B9%B4%E8%A2%AB%E5%AE%B6%E6%9A%B416%E6%AC%A1%E5%A5%B3%E5%AD%90%E5%B8%8C%E6%9C%9B%E5%88%A4%E4%B8%88%E5%A4%AB%E6%AD%BB%E5%88%91%23&t=31&band_rank=9&Refer=top)<br />
+8. [2年被家暴16次女子希望判丈夫死刑](https://s.weibo.com/weibo?q=%232%E5%B9%B4%E8%A2%AB%E5%AE%B6%E6%9A%B416%E6%AC%A1%E5%A5%B3%E5%AD%90%E5%B8%8C%E6%9C%9B%E5%88%A4%E4%B8%88%E5%A4%AB%E6%AD%BB%E5%88%91%23&t=31&band_rank=8&Refer=top)<br />
+9. [偷拿同学20元男孩被妈妈带去派出所自首](https://s.weibo.com/weibo?q=%23%E5%81%B7%E6%8B%BF%E5%90%8C%E5%AD%A620%E5%85%83%E7%94%B7%E5%AD%A9%E8%A2%AB%E5%A6%88%E5%A6%88%E5%B8%A6%E5%8E%BB%E6%B4%BE%E5%87%BA%E6%89%80%E8%87%AA%E9%A6%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -33,8 +33,8 @@
 5. [#歌手李玟去世#](https://www.baidu.com/s?wd=%23%E6%AD%8C%E6%89%8B%E6%9D%8E%E7%8E%9F%E5%8E%BB%E4%B8%96%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [微笑抑郁症](https://www.baidu.com/s?wd=%E5%BE%AE%E7%AC%91%E6%8A%91%E9%83%81%E7%97%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [港媒：李玟疑割腕自杀 未写遗书](https://www.baidu.com/s?wd=%E6%B8%AF%E5%AA%92%EF%BC%9A%E6%9D%8E%E7%8E%9F%E7%96%91%E5%89%B2%E8%85%95%E8%87%AA%E6%9D%80+%E6%9C%AA%E5%86%99%E9%81%97%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [韩红首次公开回应被举报](https://www.baidu.com/s?wd=%E9%9F%A9%E7%BA%A2%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80%E5%9B%9E%E5%BA%94%E8%A2%AB%E4%B8%BE%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [抑郁症有多可怕](https://www.baidu.com/s?wd=%E6%8A%91%E9%83%81%E7%97%87%E6%9C%89%E5%A4%9A%E5%8F%AF%E6%80%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [抑郁症有多可怕](https://www.baidu.com/s?wd=%E6%8A%91%E9%83%81%E7%97%87%E6%9C%89%E5%A4%9A%E5%8F%AF%E6%80%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [官方回应李克勤补选为茂名人大代表](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E6%9D%8E%E5%85%8B%E5%8B%A4%E8%A1%A5%E9%80%89%E4%B8%BA%E8%8C%82%E5%90%8D%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [#歌手李玟去世#](https://www.baidu.com/s?wd=%23%E6%AD%8C%E6%89%8B%E6%9D%8E%E7%8E%9F%E5%8E%BB%E4%B8%96%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [微笑抑郁症](https://www.baidu.com/s?wd=%E5%BE%AE%E7%AC%91%E6%8A%91%E9%83%81%E7%97%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [港媒：李玟疑割腕自杀 未写遗书](https://www.baidu.com/s?wd=%E6%B8%AF%E5%AA%92%EF%BC%9A%E6%9D%8E%E7%8E%9F%E7%96%91%E5%89%B2%E8%85%95%E8%87%AA%E6%9D%80+%E6%9C%AA%E5%86%99%E9%81%97%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [韩红首次公开回应被举报](https://www.baidu.com/s?wd=%E9%9F%A9%E7%BA%A2%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80%E5%9B%9E%E5%BA%94%E8%A2%AB%E4%B8%BE%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [抑郁症有多可怕](https://www.baidu.com/s?wd=%E6%8A%91%E9%83%81%E7%97%87%E6%9C%89%E5%A4%9A%E5%8F%AF%E6%80%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [抑郁症有多可怕](https://www.baidu.com/s?wd=%E6%8A%91%E9%83%81%E7%97%87%E6%9C%89%E5%A4%9A%E5%8F%AF%E6%80%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [官方回应李克勤补选为茂名人大代表](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E6%9D%8E%E5%85%8B%E5%8B%A4%E8%A1%A5%E9%80%89%E4%B8%BA%E8%8C%82%E5%90%8D%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
