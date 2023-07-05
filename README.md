@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 14:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 14:34:01</h4></div>
 
 > 微博  
 
@@ -31,10 +31,10 @@
 3. [7月3日是地球有记录以来最热一天](https://www.baidu.com/s?wd=7%E6%9C%883%E6%97%A5%E6%98%AF%E5%9C%B0%E7%90%83%E6%9C%89%E8%AE%B0%E5%BD%95%E4%BB%A5%E6%9D%A5%E6%9C%80%E7%83%AD%E4%B8%80%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [凝聚上合力量](https://www.baidu.com/s?wd=%E5%87%9D%E8%81%9A%E4%B8%8A%E5%90%88%E5%8A%9B%E9%87%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [抹香鲸尸体中被发现9.5公斤龙涎香](https://www.baidu.com/s?wd=%E6%8A%B9%E9%A6%99%E9%B2%B8%E5%B0%B8%E4%BD%93%E4%B8%AD%E8%A2%AB%E5%8F%91%E7%8E%B09.5%E5%85%AC%E6%96%A4%E9%BE%99%E6%B6%8E%E9%A6%99&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [有新冠检测公司花218亿去理财](https://www.baidu.com/s?wd=%E6%9C%89%E6%96%B0%E5%86%A0%E6%A3%80%E6%B5%8B%E5%85%AC%E5%8F%B8%E8%8A%B1218%E4%BA%BF%E5%8E%BB%E7%90%86%E8%B4%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [白俄罗斯首批瓦格纳营地曝光](https://www.baidu.com/s?wd=%E7%99%BD%E4%BF%84%E7%BD%97%E6%96%AF%E9%A6%96%E6%89%B9%E7%93%A6%E6%A0%BC%E7%BA%B3%E8%90%A5%E5%9C%B0%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [高级餐厅厕所用凹凸标记引争议](https://www.baidu.com/s?wd=%E9%AB%98%E7%BA%A7%E9%A4%90%E5%8E%85%E5%8E%95%E6%89%80%E7%94%A8%E5%87%B9%E5%87%B8%E6%A0%87%E8%AE%B0%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [官方回应返还高收入人群个税](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E8%BF%94%E8%BF%98%E9%AB%98%E6%94%B6%E5%85%A5%E4%BA%BA%E7%BE%A4%E4%B8%AA%E7%A8%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [白俄罗斯首批瓦格纳营地曝光](https://www.baidu.com/s?wd=%E7%99%BD%E4%BF%84%E7%BD%97%E6%96%AF%E9%A6%96%E6%89%B9%E7%93%A6%E6%A0%BC%E7%BA%B3%E8%90%A5%E5%9C%B0%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [有新冠检测公司花218亿去理财](https://www.baidu.com/s?wd=%E6%9C%89%E6%96%B0%E5%86%A0%E6%A3%80%E6%B5%8B%E5%85%AC%E5%8F%B8%E8%8A%B1218%E4%BA%BF%E5%8E%BB%E7%90%86%E8%B4%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [高校女生宿舍疑闯入3名陌生男子](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E5%A5%B3%E7%94%9F%E5%AE%BF%E8%88%8D%E7%96%91%E9%97%AF%E5%85%A53%E5%90%8D%E9%99%8C%E7%94%9F%E7%94%B7%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [高级餐厅厕所用凹凸标记引争议](https://www.baidu.com/s?wd=%E9%AB%98%E7%BA%A7%E9%A4%90%E5%8E%85%E5%8E%95%E6%89%80%E7%94%A8%E5%87%B9%E5%87%B8%E6%A0%87%E8%AE%B0%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [7月3日是地球有记录以来最热一天](https://www.baidu.com/s?wd=7%E6%9C%883%E6%97%A5%E6%98%AF%E5%9C%B0%E7%90%83%E6%9C%89%E8%AE%B0%E5%BD%95%E4%BB%A5%E6%9D%A5%E6%9C%80%E7%83%AD%E4%B8%80%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [凝聚上合力量](https://www.baidu.com/s?wd=%E5%87%9D%E8%81%9A%E4%B8%8A%E5%90%88%E5%8A%9B%E9%87%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [抹香鲸尸体中被发现9.5公斤龙涎香](https://www.baidu.com/s?wd=%E6%8A%B9%E9%A6%99%E9%B2%B8%E5%B0%B8%E4%BD%93%E4%B8%AD%E8%A2%AB%E5%8F%91%E7%8E%B09.5%E5%85%AC%E6%96%A4%E9%BE%99%E6%B6%8E%E9%A6%99&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [有新冠检测公司花218亿去理财](https://www.baidu.com/s?wd=%E6%9C%89%E6%96%B0%E5%86%A0%E6%A3%80%E6%B5%8B%E5%85%AC%E5%8F%B8%E8%8A%B1218%E4%BA%BF%E5%8E%BB%E7%90%86%E8%B4%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [白俄罗斯首批瓦格纳营地曝光](https://www.baidu.com/s?wd=%E7%99%BD%E4%BF%84%E7%BD%97%E6%96%AF%E9%A6%96%E6%89%B9%E7%93%A6%E6%A0%BC%E7%BA%B3%E8%90%A5%E5%9C%B0%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [高级餐厅厕所用凹凸标记引争议](https://www.baidu.com/s?wd=%E9%AB%98%E7%BA%A7%E9%A4%90%E5%8E%85%E5%8E%95%E6%89%80%E7%94%A8%E5%87%B9%E5%87%B8%E6%A0%87%E8%AE%B0%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [官方回应返还高收入人群个税](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E8%BF%94%E8%BF%98%E9%AB%98%E6%94%B6%E5%85%A5%E4%BA%BA%E7%BE%A4%E4%B8%AA%E7%A8%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [白俄罗斯首批瓦格纳营地曝光](https://www.baidu.com/s?wd=%E7%99%BD%E4%BF%84%E7%BD%97%E6%96%AF%E9%A6%96%E6%89%B9%E7%93%A6%E6%A0%BC%E7%BA%B3%E8%90%A5%E5%9C%B0%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [有新冠检测公司花218亿去理财](https://www.baidu.com/s?wd=%E6%9C%89%E6%96%B0%E5%86%A0%E6%A3%80%E6%B5%8B%E5%85%AC%E5%8F%B8%E8%8A%B1218%E4%BA%BF%E5%8E%BB%E7%90%86%E8%B4%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [高校女生宿舍疑闯入3名陌生男子](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E5%A5%B3%E7%94%9F%E5%AE%BF%E8%88%8D%E7%96%91%E9%97%AF%E5%85%A53%E5%90%8D%E9%99%8C%E7%94%9F%E7%94%B7%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [高级餐厅厕所用凹凸标记引争议](https://www.baidu.com/s?wd=%E9%AB%98%E7%BA%A7%E9%A4%90%E5%8E%85%E5%8E%95%E6%89%80%E7%94%A8%E5%87%B9%E5%87%B8%E6%A0%87%E8%AE%B0%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
