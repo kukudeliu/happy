@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 22:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 22:49:01</h4></div>
 
 > 微博  
 
@@ -33,7 +33,7 @@
 5. [李玟轻生当天还在给粉丝发语音](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E8%BD%BB%E7%94%9F%E5%BD%93%E5%A4%A9%E8%BF%98%E5%9C%A8%E7%BB%99%E7%B2%89%E4%B8%9D%E5%8F%91%E8%AF%AD%E9%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李玟生前最后一首歌](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E7%94%9F%E5%89%8D%E6%9C%80%E5%90%8E%E4%B8%80%E9%A6%96%E6%AD%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李玟好友说她生前想要一个小孩](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E5%A5%BD%E5%8F%8B%E8%AF%B4%E5%A5%B9%E7%94%9F%E5%89%8D%E6%83%B3%E8%A6%81%E4%B8%80%E4%B8%AA%E5%B0%8F%E5%AD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [韩红首次公开回应被举报](https://www.baidu.com/s?wd=%E9%9F%A9%E7%BA%A2%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80%E5%9B%9E%E5%BA%94%E8%A2%AB%E4%B8%BE%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [缅甸仰光市区发生数起爆炸事件](https://www.baidu.com/s?wd=%E7%BC%85%E7%94%B8%E4%BB%B0%E5%85%89%E5%B8%82%E5%8C%BA%E5%8F%91%E7%94%9F%E6%95%B0%E8%B5%B7%E7%88%86%E7%82%B8%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [美依礼芽凤凰传奇终于同框了](https://www.baidu.com/s?wd=%E7%BE%8E%E4%BE%9D%E7%A4%BC%E8%8A%BD%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E7%BB%88%E4%BA%8E%E5%90%8C%E6%A1%86%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [李玟轻生当天还在给粉丝发语音](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E8%BD%BB%E7%94%9F%E5%BD%93%E5%A4%A9%E8%BF%98%E5%9C%A8%E7%BB%99%E7%B2%89%E4%B8%9D%E5%8F%91%E8%AF%AD%E9%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李玟生前最后一首歌](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E7%94%9F%E5%89%8D%E6%9C%80%E5%90%8E%E4%B8%80%E9%A6%96%E6%AD%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李玟好友说她生前想要一个小孩](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E5%A5%BD%E5%8F%8B%E8%AF%B4%E5%A5%B9%E7%94%9F%E5%89%8D%E6%83%B3%E8%A6%81%E4%B8%80%E4%B8%AA%E5%B0%8F%E5%AD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [韩红首次公开回应被举报](https://www.baidu.com/s?wd=%E9%9F%A9%E7%BA%A2%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80%E5%9B%9E%E5%BA%94%E8%A2%AB%E4%B8%BE%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [缅甸仰光市区发生数起爆炸事件](https://www.baidu.com/s?wd=%E7%BC%85%E7%94%B8%E4%BB%B0%E5%85%89%E5%B8%82%E5%8C%BA%E5%8F%91%E7%94%9F%E6%95%B0%E8%B5%B7%E7%88%86%E7%82%B8%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [美依礼芽凤凰传奇终于同框了](https://www.baidu.com/s?wd=%E7%BE%8E%E4%BE%9D%E7%A4%BC%E8%8A%BD%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E7%BB%88%E4%BA%8E%E5%90%8C%E6%A1%86%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
