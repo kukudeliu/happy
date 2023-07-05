@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 21:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 21:16:01</h4></div>
 
 > 微博  
 
@@ -32,8 +32,8 @@
 4. [就业形势总体稳定](https://www.baidu.com/s?wd=%E5%B0%B1%E4%B8%9A%E5%BD%A2%E5%8A%BF%E6%80%BB%E4%BD%93%E7%A8%B3%E5%AE%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [航拍暴雨后重庆：江滩公园成江心岛](https://www.baidu.com/s?wd=%E8%88%AA%E6%8B%8D%E6%9A%B4%E9%9B%A8%E5%90%8E%E9%87%8D%E5%BA%86%EF%BC%9A%E6%B1%9F%E6%BB%A9%E5%85%AC%E5%9B%AD%E6%88%90%E6%B1%9F%E5%BF%83%E5%B2%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [211大学校长毕业致辞被指抄袭](https://www.baidu.com/s?wd=211%E5%A4%A7%E5%AD%A6%E6%A0%A1%E9%95%BF%E6%AF%95%E4%B8%9A%E8%87%B4%E8%BE%9E%E8%A2%AB%E6%8C%87%E6%8A%84%E8%A2%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [兰博基尼燃油车被抢购一空](https://www.baidu.com/s?wd=%E5%85%B0%E5%8D%9A%E5%9F%BA%E5%B0%BC%E7%87%83%E6%B2%B9%E8%BD%A6%E8%A2%AB%E6%8A%A2%E8%B4%AD%E4%B8%80%E7%A9%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男孩玩水陷沙坑2男子捕鱼式救人](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E7%8E%A9%E6%B0%B4%E9%99%B7%E6%B2%99%E5%9D%912%E7%94%B7%E5%AD%90%E6%8D%95%E9%B1%BC%E5%BC%8F%E6%95%91%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男孩玩水陷沙坑2男子捕鱼式救人](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E7%8E%A9%E6%B0%B4%E9%99%B7%E6%B2%99%E5%9D%912%E7%94%B7%E5%AD%90%E6%8D%95%E9%B1%BC%E5%BC%8F%E6%95%91%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [兰博基尼燃油车被抢购一空](https://www.baidu.com/s?wd=%E5%85%B0%E5%8D%9A%E5%9F%BA%E5%B0%BC%E7%87%83%E6%B2%B9%E8%BD%A6%E8%A2%AB%E6%8A%A2%E8%B4%AD%E4%B8%80%E7%A9%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [女子花盆里种出2.5米高向日葵](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B1%E7%9B%86%E9%87%8C%E7%A7%8D%E5%87%BA2.5%E7%B1%B3%E9%AB%98%E5%90%91%E6%97%A5%E8%91%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -44,6 +44,6 @@
 4. [就业形势总体稳定](https://www.baidu.com/s?wd=%E5%B0%B1%E4%B8%9A%E5%BD%A2%E5%8A%BF%E6%80%BB%E4%BD%93%E7%A8%B3%E5%AE%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [航拍暴雨后重庆：江滩公园成江心岛](https://www.baidu.com/s?wd=%E8%88%AA%E6%8B%8D%E6%9A%B4%E9%9B%A8%E5%90%8E%E9%87%8D%E5%BA%86%EF%BC%9A%E6%B1%9F%E6%BB%A9%E5%85%AC%E5%9B%AD%E6%88%90%E6%B1%9F%E5%BF%83%E5%B2%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [211大学校长毕业致辞被指抄袭](https://www.baidu.com/s?wd=211%E5%A4%A7%E5%AD%A6%E6%A0%A1%E9%95%BF%E6%AF%95%E4%B8%9A%E8%87%B4%E8%BE%9E%E8%A2%AB%E6%8C%87%E6%8A%84%E8%A2%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [兰博基尼燃油车被抢购一空](https://www.baidu.com/s?wd=%E5%85%B0%E5%8D%9A%E5%9F%BA%E5%B0%BC%E7%87%83%E6%B2%B9%E8%BD%A6%E8%A2%AB%E6%8A%A2%E8%B4%AD%E4%B8%80%E7%A9%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男孩玩水陷沙坑2男子捕鱼式救人](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E7%8E%A9%E6%B0%B4%E9%99%B7%E6%B2%99%E5%9D%912%E7%94%B7%E5%AD%90%E6%8D%95%E9%B1%BC%E5%BC%8F%E6%95%91%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男孩玩水陷沙坑2男子捕鱼式救人](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E7%8E%A9%E6%B0%B4%E9%99%B7%E6%B2%99%E5%9D%912%E7%94%B7%E5%AD%90%E6%8D%95%E9%B1%BC%E5%BC%8F%E6%95%91%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [兰博基尼燃油车被抢购一空](https://www.baidu.com/s?wd=%E5%85%B0%E5%8D%9A%E5%9F%BA%E5%B0%BC%E7%87%83%E6%B2%B9%E8%BD%A6%E8%A2%AB%E6%8A%A2%E8%B4%AD%E4%B8%80%E7%A9%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [女子花盆里种出2.5米高向日葵](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B1%E7%9B%86%E9%87%8C%E7%A7%8D%E5%87%BA2.5%E7%B1%B3%E9%AB%98%E5%90%91%E6%97%A5%E8%91%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
