@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 00:33:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 00:34:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [李玟80岁母亲最先发现女儿轻生](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F80%E5%B2%81%E6%AF%8D%E4%BA%B2%E6%9C%80%E5%85%88%E5%8F%91%E7%8E%B0%E5%A5%B3%E5%84%BF%E8%BD%BB%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [#众星发文悼念李玟#](https://www.baidu.com/s?wd=%23%E4%BC%97%E6%98%9F%E5%8F%91%E6%96%87%E6%82%BC%E5%BF%B5%E6%9D%8E%E7%8E%9F%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [李玟为世界奉献好心情到最后一刻](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E4%B8%BA%E4%B8%96%E7%95%8C%E5%A5%89%E7%8C%AE%E5%A5%BD%E5%BF%83%E6%83%85%E5%88%B0%E6%9C%80%E5%90%8E%E4%B8%80%E5%88%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [李玟不久前与李克勤演唱会上热舞](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E4%B8%8D%E4%B9%85%E5%89%8D%E4%B8%8E%E6%9D%8E%E5%85%8B%E5%8B%A4%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E7%83%AD%E8%88%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [抑郁症有多可怕](https://www.baidu.com/s?wd=%E6%8A%91%E9%83%81%E7%97%87%E6%9C%89%E5%A4%9A%E5%8F%AF%E6%80%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [李玟80岁母亲最先发现女儿轻生](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F80%E5%B2%81%E6%AF%8D%E4%BA%B2%E6%9C%80%E5%85%88%E5%8F%91%E7%8E%B0%E5%A5%B3%E5%84%BF%E8%BD%BB%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [#众星发文悼念李玟#](https://www.baidu.com/s?wd=%23%E4%BC%97%E6%98%9F%E5%8F%91%E6%96%87%E6%82%BC%E5%BF%B5%E6%9D%8E%E7%8E%9F%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [李玟为世界奉献好心情到最后一刻](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E4%B8%BA%E4%B8%96%E7%95%8C%E5%A5%89%E7%8C%AE%E5%A5%BD%E5%BF%83%E6%83%85%E5%88%B0%E6%9C%80%E5%90%8E%E4%B8%80%E5%88%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [李玟不久前与李克勤演唱会上热舞](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E4%B8%8D%E4%B9%85%E5%89%8D%E4%B8%8E%E6%9D%8E%E5%85%8B%E5%8B%A4%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E7%83%AD%E8%88%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [抑郁症有多可怕](https://www.baidu.com/s?wd=%E6%8A%91%E9%83%81%E7%97%87%E6%9C%89%E5%A4%9A%E5%8F%AF%E6%80%95&sa=fyb_news&rsv_dl=fyb_news)<br />
