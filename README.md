@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 21:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 21:15:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [刘雯穿几十斤重锁链裙走秀](https://s.weibo.com/weibo?q=%23%E5%88%98%E9%9B%AF%E7%A9%BF%E5%87%A0%E5%8D%81%E6%96%A4%E9%87%8D%E9%94%81%E9%93%BE%E8%A3%99%E8%B5%B0%E7%A7%80%23&t=31&band_rank=4&Refer=top)<br />
 5. [光渊下架](https://s.weibo.com/weibo?q=%23%E5%85%89%E6%B8%8A%E4%B8%8B%E6%9E%B6%23&t=31&band_rank=5&Refer=top)<br />
 6. [谁给杨幂做的发型](https://s.weibo.com/weibo?q=%23%E8%B0%81%E7%BB%99%E6%9D%A8%E5%B9%82%E5%81%9A%E7%9A%84%E5%8F%91%E5%9E%8B%23&t=31&band_rank=6&Refer=top)<br />
-7. [papi酱 如果看剧也是一门课](https://s.weibo.com/weibo?q=papi%E9%85%B1%20%E5%A6%82%E6%9E%9C%E7%9C%8B%E5%89%A7%E4%B9%9F%E6%98%AF%E4%B8%80%E9%97%A8%E8%AF%BE&t=31&band_rank=7&Refer=top)<br />
-8. [硕士毕业10年被查出论文剽窃](https://s.weibo.com/weibo?q=%23%E7%A1%95%E5%A3%AB%E6%AF%95%E4%B8%9A10%E5%B9%B4%E8%A2%AB%E6%9F%A5%E5%87%BA%E8%AE%BA%E6%96%87%E5%89%BD%E7%AA%83%23&t=31&band_rank=8&Refer=top)<br />
+7. [硕士毕业10年被查出论文剽窃](https://s.weibo.com/weibo?q=%23%E7%A1%95%E5%A3%AB%E6%AF%95%E4%B8%9A10%E5%B9%B4%E8%A2%AB%E6%9F%A5%E5%87%BA%E8%AE%BA%E6%96%87%E5%89%BD%E7%AA%83%23&t=31&band_rank=7&Refer=top)<br />
+8. [圆肩驼背探颈是种病](https://s.weibo.com/weibo?q=%E5%9C%86%E8%82%A9%E9%A9%BC%E8%83%8C%E6%8E%A2%E9%A2%88%E6%98%AF%E7%A7%8D%E7%97%85&t=31&band_rank=8&Refer=top)<br />
 9. [坐高铁最好不要趴小桌板上](https://s.weibo.com/weibo?q=%23%E5%9D%90%E9%AB%98%E9%93%81%E6%9C%80%E5%A5%BD%E4%B8%8D%E8%A6%81%E8%B6%B4%E5%B0%8F%E6%A1%8C%E6%9D%BF%E4%B8%8A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
