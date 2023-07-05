@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 07:14:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 07:15:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [李玟老公](https://s.weibo.com/weibo?q=%E6%9D%8E%E7%8E%9F%E8%80%81%E5%85%AC&t=31&band_rank=5&Refer=top)<br />
 6. [李玟去世](https://s.weibo.com/weibo?q=%E6%9D%8E%E7%8E%9F%E5%8E%BB%E4%B8%96&t=31&band_rank=6&Refer=top)<br />
 7. [李玟](https://s.weibo.com/weibo?q=%E6%9D%8E%E7%8E%9F&t=31&band_rank=7&Refer=top)<br />
-8. [抑郁症两大原因](https://s.weibo.com/weibo?q=%23%E6%8A%91%E9%83%81%E7%97%87%E4%B8%A4%E5%A4%A7%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=8&Refer=top)<br />
-9. [被奶奶在海边的这句话整泪目了](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%A5%B6%E5%A5%B6%E5%9C%A8%E6%B5%B7%E8%BE%B9%E7%9A%84%E8%BF%99%E5%8F%A5%E8%AF%9D%E6%95%B4%E6%B3%AA%E7%9B%AE%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+8. [偷拿同学20元男孩被妈妈带去派出所自首](https://s.weibo.com/weibo?q=%23%E5%81%B7%E6%8B%BF%E5%90%8C%E5%AD%A620%E5%85%83%E7%94%B7%E5%AD%A9%E8%A2%AB%E5%A6%88%E5%A6%88%E5%B8%A6%E5%8E%BB%E6%B4%BE%E5%87%BA%E6%89%80%E8%87%AA%E9%A6%96%23&t=31&band_rank=8&Refer=top)<br />
+9. [抑郁症两大原因](https://s.weibo.com/weibo?q=%23%E6%8A%91%E9%83%81%E7%97%87%E4%B8%A4%E5%A4%A7%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
