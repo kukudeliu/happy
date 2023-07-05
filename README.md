@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 11:22:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 11:23:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [舞台2023歌手阵容官宣](https://s.weibo.com/weibo?q=%23%E8%88%9E%E5%8F%B02023%E6%AD%8C%E6%89%8B%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3%23&t=31&band_rank=6&Refer=top)<br />
 7. [赵丽颖张睿演过新还珠格格](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%BC%A0%E7%9D%BF%E6%BC%94%E8%BF%87%E6%96%B0%E8%BF%98%E7%8F%A0%E6%A0%BC%E6%A0%BC%23&t=31&band_rank=7&Refer=top)<br />
 8. [学生恶意篡改同学高考志愿被行拘](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E6%81%B6%E6%84%8F%E7%AF%A1%E6%94%B9%E5%90%8C%E5%AD%A6%E9%AB%98%E8%80%83%E5%BF%97%E6%84%BF%E8%A2%AB%E8%A1%8C%E6%8B%98%23&t=31&band_rank=8&Refer=top)<br />
-9. [iPhone15系列电池容量曝光](https://s.weibo.com/weibo?q=%23iPhone15%E7%B3%BB%E5%88%97%E7%94%B5%E6%B1%A0%E5%AE%B9%E9%87%8F%E6%9B%9D%E5%85%89%23&t=31&band_rank=9&Refer=top)<br />
+9. [起猛了看见韩栋抱肖战](https://s.weibo.com/weibo?q=%23%E8%B5%B7%E7%8C%9B%E4%BA%86%E7%9C%8B%E8%A7%81%E9%9F%A9%E6%A0%8B%E6%8A%B1%E8%82%96%E6%88%98%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
