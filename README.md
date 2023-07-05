@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 04:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 04:10:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [微笑抑郁症](https://www.baidu.com/s?wd=%E5%BE%AE%E7%AC%91%E6%8A%91%E9%83%81%E7%97%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [港媒：李玟疑割腕自杀 未写遗书](https://www.baidu.com/s?wd=%E6%B8%AF%E5%AA%92%EF%BC%9A%E6%9D%8E%E7%8E%9F%E7%96%91%E5%89%B2%E8%85%95%E8%87%AA%E6%9D%80+%E6%9C%AA%E5%86%99%E9%81%97%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [硕士毕业10年被查出论文剽窃](https://www.baidu.com/s?wd=%E7%A1%95%E5%A3%AB%E6%AF%95%E4%B8%9A10%E5%B9%B4%E8%A2%AB%E6%9F%A5%E5%87%BA%E8%AE%BA%E6%96%87%E5%89%BD%E7%AA%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [韩红首次公开回应被举报](https://www.baidu.com/s?wd=%E9%9F%A9%E7%BA%A2%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80%E5%9B%9E%E5%BA%94%E8%A2%AB%E4%B8%BE%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [抹香鲸尸体中被发现9.5公斤龙涎香](https://www.baidu.com/s?wd=%E6%8A%B9%E9%A6%99%E9%B2%B8%E5%B0%B8%E4%BD%93%E4%B8%AD%E8%A2%AB%E5%8F%91%E7%8E%B09.5%E5%85%AC%E6%96%A4%E9%BE%99%E6%B6%8E%E9%A6%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [微笑抑郁症](https://www.baidu.com/s?wd=%E5%BE%AE%E7%AC%91%E6%8A%91%E9%83%81%E7%97%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [港媒：李玟疑割腕自杀 未写遗书](https://www.baidu.com/s?wd=%E6%B8%AF%E5%AA%92%EF%BC%9A%E6%9D%8E%E7%8E%9F%E7%96%91%E5%89%B2%E8%85%95%E8%87%AA%E6%9D%80+%E6%9C%AA%E5%86%99%E9%81%97%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [硕士毕业10年被查出论文剽窃](https://www.baidu.com/s?wd=%E7%A1%95%E5%A3%AB%E6%AF%95%E4%B8%9A10%E5%B9%B4%E8%A2%AB%E6%9F%A5%E5%87%BA%E8%AE%BA%E6%96%87%E5%89%BD%E7%AA%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [韩红首次公开回应被举报](https://www.baidu.com/s?wd=%E9%9F%A9%E7%BA%A2%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80%E5%9B%9E%E5%BA%94%E8%A2%AB%E4%B8%BE%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [抹香鲸尸体中被发现9.5公斤龙涎香](https://www.baidu.com/s?wd=%E6%8A%B9%E9%A6%99%E9%B2%B8%E5%B0%B8%E4%BD%93%E4%B8%AD%E8%A2%AB%E5%8F%91%E7%8E%B09.5%E5%85%AC%E6%96%A4%E9%BE%99%E6%B6%8E%E9%A6%99&sa=fyb_news&rsv_dl=fyb_news)<br />
