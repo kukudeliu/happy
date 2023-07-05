@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 22:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 22:38:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [重庆万州区遭暴雨袭击，因灾死亡 15 人，失踪 4 人，目前情况如何？](https://www.zhihu.com/question/610456313)<br />
 7. [2023 LPL 夏季赛 BLG 2:0 击败 TES，如何评价这场比赛？](https://www.zhihu.com/question/610514738)<br />
 8. [如何评价理想汽车官方回应 10 条质疑，从专业角度看真实性如何？](https://www.zhihu.com/question/610442905)<br />
-9. [2023 年前端流行什么技术和框架了？](https://www.zhihu.com/question/609395923)<br />
+9. []()<br />
 
 > 百度  
 
