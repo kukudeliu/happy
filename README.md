@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 03:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 03:34:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [#歌手李玟去世#](https://www.baidu.com/s?wd=%23%E6%AD%8C%E6%89%8B%E6%9D%8E%E7%8E%9F%E5%8E%BB%E4%B8%96%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [微笑抑郁症](https://www.baidu.com/s?wd=%E5%BE%AE%E7%AC%91%E6%8A%91%E9%83%81%E7%97%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [港媒：李玟疑割腕自杀 未写遗书](https://www.baidu.com/s?wd=%E6%B8%AF%E5%AA%92%EF%BC%9A%E6%9D%8E%E7%8E%9F%E7%96%91%E5%89%B2%E8%85%95%E8%87%AA%E6%9D%80+%E6%9C%AA%E5%86%99%E9%81%97%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [抑郁症有多可怕](https://www.baidu.com/s?wd=%E6%8A%91%E9%83%81%E7%97%87%E6%9C%89%E5%A4%9A%E5%8F%AF%E6%80%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [爱笑的人也可能得抑郁症](https://www.baidu.com/s?wd=%E7%88%B1%E7%AC%91%E7%9A%84%E4%BA%BA%E4%B9%9F%E5%8F%AF%E8%83%BD%E5%BE%97%E6%8A%91%E9%83%81%E7%97%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子用棉袜装6条活体蛇入境被查](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%94%A8%E6%A3%89%E8%A2%9C%E8%A3%856%E6%9D%A1%E6%B4%BB%E4%BD%93%E8%9B%87%E5%85%A5%E5%A2%83%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [抑郁症有多可怕](https://www.baidu.com/s?wd=%E6%8A%91%E9%83%81%E7%97%87%E6%9C%89%E5%A4%9A%E5%8F%AF%E6%80%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [#歌手李玟去世#](https://www.baidu.com/s?wd=%23%E6%AD%8C%E6%89%8B%E6%9D%8E%E7%8E%9F%E5%8E%BB%E4%B8%96%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [微笑抑郁症](https://www.baidu.com/s?wd=%E5%BE%AE%E7%AC%91%E6%8A%91%E9%83%81%E7%97%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [港媒：李玟疑割腕自杀 未写遗书](https://www.baidu.com/s?wd=%E6%B8%AF%E5%AA%92%EF%BC%9A%E6%9D%8E%E7%8E%9F%E7%96%91%E5%89%B2%E8%85%95%E8%87%AA%E6%9D%80+%E6%9C%AA%E5%86%99%E9%81%97%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [抑郁症有多可怕](https://www.baidu.com/s?wd=%E6%8A%91%E9%83%81%E7%97%87%E6%9C%89%E5%A4%9A%E5%8F%AF%E6%80%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [爱笑的人也可能得抑郁症](https://www.baidu.com/s?wd=%E7%88%B1%E7%AC%91%E7%9A%84%E4%BA%BA%E4%B9%9F%E5%8F%AF%E8%83%BD%E5%BE%97%E6%8A%91%E9%83%81%E7%97%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子用棉袜装6条活体蛇入境被查](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%94%A8%E6%A3%89%E8%A2%9C%E8%A3%856%E6%9D%A1%E6%B4%BB%E4%BD%93%E8%9B%87%E5%85%A5%E5%A2%83%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [抑郁症有多可怕](https://www.baidu.com/s?wd=%E6%8A%91%E9%83%81%E7%97%87%E6%9C%89%E5%A4%9A%E5%8F%AF%E6%80%95&sa=fyb_news&rsv_dl=fyb_news)<br />
