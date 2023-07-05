@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 15:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 15:17:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [连夜取关5000人](https://s.weibo.com/weibo?q=%E8%BF%9E%E5%A4%9C%E5%8F%96%E5%85%B35000%E4%BA%BA&t=31&band_rank=4&Refer=top)<br />
 5. [蔡徐坤暂缓现场出席TMEA盛典](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E6%9A%82%E7%BC%93%E7%8E%B0%E5%9C%BA%E5%87%BA%E5%B8%ADTMEA%E7%9B%9B%E5%85%B8%23&t=31&band_rank=5&Refer=top)<br />
 6. [北京政法职业学院回应男生被退学](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%94%BF%E6%B3%95%E8%81%8C%E4%B8%9A%E5%AD%A6%E9%99%A2%E5%9B%9E%E5%BA%94%E7%94%B7%E7%94%9F%E8%A2%AB%E9%80%80%E5%AD%A6%23&t=31&band_rank=6&Refer=top)<br />
-7. [现在该大小S有压力了](https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E8%AF%A5%E5%A4%A7%E5%B0%8FS%E6%9C%89%E5%8E%8B%E5%8A%9B%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [被花非花雾非雾震撼了](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E8%8A%B1%E9%9D%9E%E8%8A%B1%E9%9B%BE%E9%9D%9E%E9%9B%BE%E9%9C%87%E6%92%BC%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+7. [被花非花雾非雾震撼了](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E8%8A%B1%E9%9D%9E%E8%8A%B1%E9%9B%BE%E9%9D%9E%E9%9B%BE%E9%9C%87%E6%92%BC%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+8. [现在该大小S有压力了](https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E8%AF%A5%E5%A4%A7%E5%B0%8FS%E6%9C%89%E5%8E%8B%E5%8A%9B%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [何赛飞当众发飙后戏曲演员张军波现状](https://s.weibo.com/weibo?q=%23%E4%BD%95%E8%B5%9B%E9%A3%9E%E5%BD%93%E4%BC%97%E5%8F%91%E9%A3%99%E5%90%8E%E6%88%8F%E6%9B%B2%E6%BC%94%E5%91%98%E5%BC%A0%E5%86%9B%E6%B3%A2%E7%8E%B0%E7%8A%B6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -21,8 +21,8 @@
 5. [报道称牵手门涉事领导仍担任高管，公司回应称胡继勇已不再履行法定代表人职责，哪些信息值得关注？](https://www.zhihu.com/question/610320361)<br />
 6. [周六放假，男朋友一大早要去送女同事去高铁站，我不高兴是心眼小吗？](https://www.zhihu.com/question/609749261)<br />
 7. [AI 画人的最大问题是什么，为什么好多人物图明明很真实，却能被一眼看出来是 AI ？](https://www.zhihu.com/question/603331907)<br />
-8. [如何委婉地和家里人说我想当全职儿女？](https://www.zhihu.com/question/593083416)<br />
-9. [在只换了 AD 的情况下，为什么 2023 年 EDG 春季赛和夏季赛表现差距能如此大？](https://www.zhihu.com/question/610380860)<br />
+8. [一个家庭越来越好的征兆是什么？](https://www.zhihu.com/question/555044022)<br />
+9. [如何委婉地和家里人说我想当全职儿女？](https://www.zhihu.com/question/593083416)<br />
 
 > 百度  
 
