@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 00:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 00:12:01</h4></div>
 
 > 微博  
 
@@ -19,9 +19,9 @@
 3. [丰田宣布固态电池技术获重大突破「10 分钟充满跑 1200 公里，体积重量成本将减半」，影响几何？](https://www.zhihu.com/question/610463631)<br />
 4. [报道称欧盟外长博雷利原定下周访华被中方取消，外交部称愿同欧方继续保持沟通，取消原因是什么？如何解读？](https://www.zhihu.com/question/610463055)<br />
 5. []()<br />
-6. [这个字真的不能用来参加高考吗？](https://www.zhihu.com/question/607978069)<br />
+6. [你敢穿 30 元一件的衣服去上班吗？](https://www.zhihu.com/question/606509967)<br />
 7. [此前对中国半导体出手的荷兰敦促欧盟回应中方对镓、锗实施出口管制，荷兰在急什么？欧盟将如何应对？](https://www.zhihu.com/question/610538153)<br />
-8. [你敢穿 30 元一件的衣服去上班吗？](https://www.zhihu.com/question/606509967)<br />
+8. [这个字真的不能用来参加高考吗？](https://www.zhihu.com/question/607978069)<br />
 9. []()<br />
 
 > 百度  
