@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 00:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 00:06:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [李玟轻生当天还在给粉丝发语音](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E8%BD%BB%E7%94%9F%E5%BD%93%E5%A4%A9%E8%BF%98%E5%9C%A8%E7%BB%99%E7%B2%89%E4%B8%9D%E5%8F%91%E8%AF%AD%E9%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李玟80岁母亲首先发现女儿在寓所轻生](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F80%E5%B2%81%E6%AF%8D%E4%BA%B2%E9%A6%96%E5%85%88%E5%8F%91%E7%8E%B0%E5%A5%B3%E5%84%BF%E5%9C%A8%E5%AF%93%E6%89%80%E8%BD%BB%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [#众星发文悼念李玟#](https://www.baidu.com/s?wd=%23%E4%BC%97%E6%98%9F%E5%8F%91%E6%96%87%E6%82%BC%E5%BF%B5%E6%9D%8E%E7%8E%9F%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [李玟五大成名曲](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E4%BA%94%E5%A4%A7%E6%88%90%E5%90%8D%E6%9B%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [李玟不久前与李克勤演唱会上热舞](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E4%B8%8D%E4%B9%85%E5%89%8D%E4%B8%8E%E6%9D%8E%E5%85%8B%E5%8B%A4%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E7%83%AD%E8%88%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [李玟为世界奉献好心情到最后一刻](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E4%B8%BA%E4%B8%96%E7%95%8C%E5%A5%89%E7%8C%AE%E5%A5%BD%E5%BF%83%E6%83%85%E5%88%B0%E6%9C%80%E5%90%8E%E4%B8%80%E5%88%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [李玟五大成名曲](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E4%BA%94%E5%A4%A7%E6%88%90%E5%90%8D%E6%9B%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [李玟轻生当天还在给粉丝发语音](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E8%BD%BB%E7%94%9F%E5%BD%93%E5%A4%A9%E8%BF%98%E5%9C%A8%E7%BB%99%E7%B2%89%E4%B8%9D%E5%8F%91%E8%AF%AD%E9%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李玟80岁母亲首先发现女儿在寓所轻生](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F80%E5%B2%81%E6%AF%8D%E4%BA%B2%E9%A6%96%E5%85%88%E5%8F%91%E7%8E%B0%E5%A5%B3%E5%84%BF%E5%9C%A8%E5%AF%93%E6%89%80%E8%BD%BB%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [#众星发文悼念李玟#](https://www.baidu.com/s?wd=%23%E4%BC%97%E6%98%9F%E5%8F%91%E6%96%87%E6%82%BC%E5%BF%B5%E6%9D%8E%E7%8E%9F%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [李玟五大成名曲](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E4%BA%94%E5%A4%A7%E6%88%90%E5%90%8D%E6%9B%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [李玟不久前与李克勤演唱会上热舞](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E4%B8%8D%E4%B9%85%E5%89%8D%E4%B8%8E%E6%9D%8E%E5%85%8B%E5%8B%A4%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E7%83%AD%E8%88%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [李玟为世界奉献好心情到最后一刻](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E4%B8%BA%E4%B8%96%E7%95%8C%E5%A5%89%E7%8C%AE%E5%A5%BD%E5%BF%83%E6%83%85%E5%88%B0%E6%9C%80%E5%90%8E%E4%B8%80%E5%88%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [李玟五大成名曲](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E4%BA%94%E5%A4%A7%E6%88%90%E5%90%8D%E6%9B%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
