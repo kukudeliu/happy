@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 11:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 11:19:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [7月3日是地球有记录以来最热一天](https://www.baidu.com/s?wd=7%E6%9C%883%E6%97%A5%E6%98%AF%E5%9C%B0%E7%90%83%E6%9C%89%E8%AE%B0%E5%BD%95%E4%BB%A5%E6%9D%A5%E6%9C%80%E7%83%AD%E4%B8%80%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [13岁男孩被篮球架砸中身亡](https://www.baidu.com/s?wd=13%E5%B2%81%E7%94%B7%E5%AD%A9%E8%A2%AB%E7%AF%AE%E7%90%83%E6%9E%B6%E7%A0%B8%E4%B8%AD%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女生用一个鱼缸做出海市蜃楼](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E7%94%A8%E4%B8%80%E4%B8%AA%E9%B1%BC%E7%BC%B8%E5%81%9A%E5%87%BA%E6%B5%B7%E5%B8%82%E8%9C%83%E6%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [法院判定王力宏李靓蕾离婚获准](https://www.baidu.com/s?wd=%E6%B3%95%E9%99%A2%E5%88%A4%E5%AE%9A%E7%8E%8B%E5%8A%9B%E5%AE%8F%E6%9D%8E%E9%9D%93%E8%95%BE%E7%A6%BB%E5%A9%9A%E8%8E%B7%E5%87%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [首个国产减肥神药利拉鲁肽获批](https://www.baidu.com/s?wd=%E9%A6%96%E4%B8%AA%E5%9B%BD%E4%BA%A7%E5%87%8F%E8%82%A5%E7%A5%9E%E8%8D%AF%E5%88%A9%E6%8B%89%E9%B2%81%E8%82%BD%E8%8E%B7%E6%89%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男孩被锁车内父母心疼玻璃不愿砸](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E8%A2%AB%E9%94%81%E8%BD%A6%E5%86%85%E7%88%B6%E6%AF%8D%E5%BF%83%E7%96%BC%E7%8E%BB%E7%92%83%E4%B8%8D%E6%84%BF%E7%A0%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [法院判定王力宏李靓蕾离婚获准](https://www.baidu.com/s?wd=%E6%B3%95%E9%99%A2%E5%88%A4%E5%AE%9A%E7%8E%8B%E5%8A%9B%E5%AE%8F%E6%9D%8E%E9%9D%93%E8%95%BE%E7%A6%BB%E5%A9%9A%E8%8E%B7%E5%87%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [7月3日是地球有记录以来最热一天](https://www.baidu.com/s?wd=7%E6%9C%883%E6%97%A5%E6%98%AF%E5%9C%B0%E7%90%83%E6%9C%89%E8%AE%B0%E5%BD%95%E4%BB%A5%E6%9D%A5%E6%9C%80%E7%83%AD%E4%B8%80%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [13岁男孩被篮球架砸中身亡](https://www.baidu.com/s?wd=13%E5%B2%81%E7%94%B7%E5%AD%A9%E8%A2%AB%E7%AF%AE%E7%90%83%E6%9E%B6%E7%A0%B8%E4%B8%AD%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女生用一个鱼缸做出海市蜃楼](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E7%94%A8%E4%B8%80%E4%B8%AA%E9%B1%BC%E7%BC%B8%E5%81%9A%E5%87%BA%E6%B5%B7%E5%B8%82%E8%9C%83%E6%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [法院判定王力宏李靓蕾离婚获准](https://www.baidu.com/s?wd=%E6%B3%95%E9%99%A2%E5%88%A4%E5%AE%9A%E7%8E%8B%E5%8A%9B%E5%AE%8F%E6%9D%8E%E9%9D%93%E8%95%BE%E7%A6%BB%E5%A9%9A%E8%8E%B7%E5%87%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [首个国产减肥神药利拉鲁肽获批](https://www.baidu.com/s?wd=%E9%A6%96%E4%B8%AA%E5%9B%BD%E4%BA%A7%E5%87%8F%E8%82%A5%E7%A5%9E%E8%8D%AF%E5%88%A9%E6%8B%89%E9%B2%81%E8%82%BD%E8%8E%B7%E6%89%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男孩被锁车内父母心疼玻璃不愿砸](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E8%A2%AB%E9%94%81%E8%BD%A6%E5%86%85%E7%88%B6%E6%AF%8D%E5%BF%83%E7%96%BC%E7%8E%BB%E7%92%83%E4%B8%8D%E6%84%BF%E7%A0%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [法院判定王力宏李靓蕾离婚获准](https://www.baidu.com/s?wd=%E6%B3%95%E9%99%A2%E5%88%A4%E5%AE%9A%E7%8E%8B%E5%8A%9B%E5%AE%8F%E6%9D%8E%E9%9D%93%E8%95%BE%E7%A6%BB%E5%A9%9A%E8%8E%B7%E5%87%86&sa=fyb_news&rsv_dl=fyb_news)<br />
