@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 19:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 19:19:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [清华硫酸泼熊学生已成中科院副研究员](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E7%A1%AB%E9%85%B8%E6%B3%BC%E7%86%8A%E5%AD%A6%E7%94%9F%E5%B7%B2%E6%88%90%E4%B8%AD%E7%A7%91%E9%99%A2%E5%89%AF%E7%A0%94%E7%A9%B6%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子不穿内裤试衣隔天要求退换遭拒](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%8D%E7%A9%BF%E5%86%85%E8%A3%A4%E8%AF%95%E8%A1%A3%E9%9A%94%E5%A4%A9%E8%A6%81%E6%B1%82%E9%80%80%E6%8D%A2%E9%81%AD%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [硕士毕业10年被查出论文剽窃](https://www.baidu.com/s?wd=%E7%A1%95%E5%A3%AB%E6%AF%95%E4%B8%9A10%E5%B9%B4%E8%A2%AB%E6%9F%A5%E5%87%BA%E8%AE%BA%E6%96%87%E5%89%BD%E7%AA%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [美国女网红直播睡觉月入超1400万](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%A5%B3%E7%BD%91%E7%BA%A2%E7%9B%B4%E6%92%AD%E7%9D%A1%E8%A7%89%E6%9C%88%E5%85%A5%E8%B6%851400%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [拜登去世假消息流传 健康状况引关注](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E5%8E%BB%E4%B8%96%E5%81%87%E6%B6%88%E6%81%AF%E6%B5%81%E4%BC%A0+%E5%81%A5%E5%BA%B7%E7%8A%B6%E5%86%B5%E5%BC%95%E5%85%B3%E6%B3%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [继母涉嫌虐待继女致其残疾](https://www.baidu.com/s?wd=%E7%BB%A7%E6%AF%8D%E6%B6%89%E5%AB%8C%E8%99%90%E5%BE%85%E7%BB%A7%E5%A5%B3%E8%87%B4%E5%85%B6%E6%AE%8B%E7%96%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [安徽车祸10死6伤 7人被追究刑责](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E8%BD%A6%E7%A5%B810%E6%AD%BB6%E4%BC%A4+7%E4%BA%BA%E8%A2%AB%E8%BF%BD%E7%A9%B6%E5%88%91%E8%B4%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [清华硫酸泼熊学生已成中科院副研究员](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E7%A1%AB%E9%85%B8%E6%B3%BC%E7%86%8A%E5%AD%A6%E7%94%9F%E5%B7%B2%E6%88%90%E4%B8%AD%E7%A7%91%E9%99%A2%E5%89%AF%E7%A0%94%E7%A9%B6%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子不穿内裤试衣隔天要求退换遭拒](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%8D%E7%A9%BF%E5%86%85%E8%A3%A4%E8%AF%95%E8%A1%A3%E9%9A%94%E5%A4%A9%E8%A6%81%E6%B1%82%E9%80%80%E6%8D%A2%E9%81%AD%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [硕士毕业10年被查出论文剽窃](https://www.baidu.com/s?wd=%E7%A1%95%E5%A3%AB%E6%AF%95%E4%B8%9A10%E5%B9%B4%E8%A2%AB%E6%9F%A5%E5%87%BA%E8%AE%BA%E6%96%87%E5%89%BD%E7%AA%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [美国女网红直播睡觉月入超1400万](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%A5%B3%E7%BD%91%E7%BA%A2%E7%9B%B4%E6%92%AD%E7%9D%A1%E8%A7%89%E6%9C%88%E5%85%A5%E8%B6%851400%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [拜登去世假消息流传 健康状况引关注](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E5%8E%BB%E4%B8%96%E5%81%87%E6%B6%88%E6%81%AF%E6%B5%81%E4%BC%A0+%E5%81%A5%E5%BA%B7%E7%8A%B6%E5%86%B5%E5%BC%95%E5%85%B3%E6%B3%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [继母涉嫌虐待继女致其残疾](https://www.baidu.com/s?wd=%E7%BB%A7%E6%AF%8D%E6%B6%89%E5%AB%8C%E8%99%90%E5%BE%85%E7%BB%A7%E5%A5%B3%E8%87%B4%E5%85%B6%E6%AE%8B%E7%96%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [安徽车祸10死6伤 7人被追究刑责](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E8%BD%A6%E7%A5%B810%E6%AD%BB6%E4%BC%A4+7%E4%BA%BA%E8%A2%AB%E8%BF%BD%E7%A9%B6%E5%88%91%E8%B4%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
