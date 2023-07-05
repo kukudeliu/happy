@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 11:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 11:55:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [现在该大小S有压力了](https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E8%AF%A5%E5%A4%A7%E5%B0%8FS%E6%9C%89%E5%8E%8B%E5%8A%9B%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [肖战迪丽热巴合作一部古偶吧](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%90%88%E4%BD%9C%E4%B8%80%E9%83%A8%E5%8F%A4%E5%81%B6%E5%90%A7%23&t=31&band_rank=5&Refer=top)<br />
 6. [倪妮在干什么](https://s.weibo.com/weibo?q=%E5%80%AA%E5%A6%AE%E5%9C%A8%E5%B9%B2%E4%BB%80%E4%B9%88&t=31&band_rank=6&Refer=top)<br />
-7. [当我飞奔向你](https://s.weibo.com/weibo?q=%E5%BD%93%E6%88%91%E9%A3%9E%E5%A5%94%E5%90%91%E4%BD%A0&t=31&band_rank=7&Refer=top)<br />
-8. [世界气象组织确认厄尔尼诺出现](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%B0%94%E8%B1%A1%E7%BB%84%E7%BB%87%E7%A1%AE%E8%AE%A4%E5%8E%84%E5%B0%94%E5%B0%BC%E8%AF%BA%E5%87%BA%E7%8E%B0%23&t=31&band_rank=8&Refer=top)<br />
+7. [世界气象组织确认厄尔尼诺出现](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%B0%94%E8%B1%A1%E7%BB%84%E7%BB%87%E7%A1%AE%E8%AE%A4%E5%8E%84%E5%B0%94%E5%B0%BC%E8%AF%BA%E5%87%BA%E7%8E%B0%23&t=31&band_rank=7&Refer=top)<br />
+8. [当我飞奔向你](https://s.weibo.com/weibo?q=%E5%BD%93%E6%88%91%E9%A3%9E%E5%A5%94%E5%90%91%E4%BD%A0&t=31&band_rank=8&Refer=top)<br />
 9. [学生恶意篡改同学高考志愿被行拘](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E6%81%B6%E6%84%8F%E7%AF%A1%E6%94%B9%E5%90%8C%E5%AD%A6%E9%AB%98%E8%80%83%E5%BF%97%E6%84%BF%E8%A2%AB%E8%A1%8C%E6%8B%98%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -30,7 +30,7 @@
 2. [阿雅方晒毛发及尿液检测报告](https://www.baidu.com/s?wd=%E9%98%BF%E9%9B%85%E6%96%B9%E6%99%92%E6%AF%9B%E5%8F%91%E5%8F%8A%E5%B0%BF%E6%B6%B2%E6%A3%80%E6%B5%8B%E6%8A%A5%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [7月3日是地球有记录以来最热一天](https://www.baidu.com/s?wd=7%E6%9C%883%E6%97%A5%E6%98%AF%E5%9C%B0%E7%90%83%E6%9C%89%E8%AE%B0%E5%BD%95%E4%BB%A5%E6%9D%A5%E6%9C%80%E7%83%AD%E4%B8%80%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [江风海韵绘就生态美](https://www.baidu.com/s?wd=%E6%B1%9F%E9%A3%8E%E6%B5%B7%E9%9F%B5%E7%BB%98%E5%B0%B1%E7%94%9F%E6%80%81%E7%BE%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [男生恶意篡改同学高考志愿被行拘](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E6%81%B6%E6%84%8F%E7%AF%A1%E6%94%B9%E5%90%8C%E5%AD%A6%E9%AB%98%E8%80%83%E5%BF%97%E6%84%BF%E8%A2%AB%E8%A1%8C%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [男生疑因制止霸凌遭辱骂 自曝已退学](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E7%96%91%E5%9B%A0%E5%88%B6%E6%AD%A2%E9%9C%B8%E5%87%8C%E9%81%AD%E8%BE%B1%E9%AA%82+%E8%87%AA%E6%9B%9D%E5%B7%B2%E9%80%80%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [13岁男孩被篮球架砸中身亡](https://www.baidu.com/s?wd=13%E5%B2%81%E7%94%B7%E5%AD%A9%E8%A2%AB%E7%AF%AE%E7%90%83%E6%9E%B6%E7%A0%B8%E4%B8%AD%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [学生去世俩月家属不知死因 高校回应](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E5%8E%BB%E4%B8%96%E4%BF%A9%E6%9C%88%E5%AE%B6%E5%B1%9E%E4%B8%8D%E7%9F%A5%E6%AD%BB%E5%9B%A0+%E9%AB%98%E6%A0%A1%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [官方回应李克勤补选为茂名人大代表](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E6%9D%8E%E5%85%8B%E5%8B%A4%E8%A1%A5%E9%80%89%E4%B8%BA%E8%8C%82%E5%90%8D%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -42,7 +42,7 @@
 2. [阿雅方晒毛发及尿液检测报告](https://www.baidu.com/s?wd=%E9%98%BF%E9%9B%85%E6%96%B9%E6%99%92%E6%AF%9B%E5%8F%91%E5%8F%8A%E5%B0%BF%E6%B6%B2%E6%A3%80%E6%B5%8B%E6%8A%A5%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [7月3日是地球有记录以来最热一天](https://www.baidu.com/s?wd=7%E6%9C%883%E6%97%A5%E6%98%AF%E5%9C%B0%E7%90%83%E6%9C%89%E8%AE%B0%E5%BD%95%E4%BB%A5%E6%9D%A5%E6%9C%80%E7%83%AD%E4%B8%80%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [江风海韵绘就生态美](https://www.baidu.com/s?wd=%E6%B1%9F%E9%A3%8E%E6%B5%B7%E9%9F%B5%E7%BB%98%E5%B0%B1%E7%94%9F%E6%80%81%E7%BE%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [男生恶意篡改同学高考志愿被行拘](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E6%81%B6%E6%84%8F%E7%AF%A1%E6%94%B9%E5%90%8C%E5%AD%A6%E9%AB%98%E8%80%83%E5%BF%97%E6%84%BF%E8%A2%AB%E8%A1%8C%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [男生疑因制止霸凌遭辱骂 自曝已退学](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E7%96%91%E5%9B%A0%E5%88%B6%E6%AD%A2%E9%9C%B8%E5%87%8C%E9%81%AD%E8%BE%B1%E9%AA%82+%E8%87%AA%E6%9B%9D%E5%B7%B2%E9%80%80%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [13岁男孩被篮球架砸中身亡](https://www.baidu.com/s?wd=13%E5%B2%81%E7%94%B7%E5%AD%A9%E8%A2%AB%E7%AF%AE%E7%90%83%E6%9E%B6%E7%A0%B8%E4%B8%AD%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [学生去世俩月家属不知死因 高校回应](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E5%8E%BB%E4%B8%96%E4%BF%A9%E6%9C%88%E5%AE%B6%E5%B1%9E%E4%B8%8D%E7%9F%A5%E6%AD%BB%E5%9B%A0+%E9%AB%98%E6%A0%A1%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [官方回应李克勤补选为茂名人大代表](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E6%9D%8E%E5%85%8B%E5%8B%A4%E8%A1%A5%E9%80%89%E4%B8%BA%E8%8C%82%E5%90%8D%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
