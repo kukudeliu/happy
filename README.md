@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 20:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 20:57:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [中国陷入资产负债表衰退是真相还是噱头，提前还贷能缓解家庭负债压力吗？](https://www.zhihu.com/theater/97424)<br />
 6. [如何评价王宝强执导的电影《八角笼中》？](https://www.zhihu.com/question/603748979)<br />
 7. [报道称欧盟外长博雷利原定下周访华被中方取消，外交部称愿同欧方继续保持沟通，取消原因是什么？如何解读？](https://www.zhihu.com/question/610463055)<br />
-8. [假如一只被特别娇惯的猫突然失去主人，能适应以后的生活吗？](https://www.zhihu.com/question/609779217)<br />
-9. [小米对华为锁屏专利发起无效宣告请求，哪些信息值得关注？](https://www.zhihu.com/question/610265154)<br />
+8. [如何系统的分析甲午战争?](https://www.zhihu.com/question/24703203)<br />
+9. [假如一只被特别娇惯的猫突然失去主人，能适应以后的生活吗？](https://www.zhihu.com/question/609779217)<br />
 
 > 百度  
 
