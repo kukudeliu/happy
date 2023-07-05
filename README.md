@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 22:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 22:20:01</h4></div>
 
 > 微博  
 
@@ -16,12 +16,12 @@
 
 1. [歌手李玟轻生去世，其姐姐发声称其患上抑郁症，她的哪些作品让你印象深刻？](https://www.zhihu.com/question/610553174)<br />
 2. [丰田宣布固态电池技术获重大突破「10 分钟充满跑 1200 公里，体积重量成本将减半」，影响几何？](https://www.zhihu.com/question/610463631)<br />
-3. [中南大学一校友「匿名」向母校捐赠六亿元，校方回应「校友不愿出名想做实在事」，将会产生哪些社会影响？](https://www.zhihu.com/question/610238278)<br />
-4. [歌手李玟因抑郁症轻生去世，她已出道近 30 年，你对她有什么印象？面对抑郁症我们还能帮他们做些什么？](https://www.zhihu.com/question/610553893)<br />
+3. [歌手李玟因抑郁症轻生去世，她已出道近 30 年，你对她有什么印象？面对抑郁症我们还能帮他们做些什么？](https://www.zhihu.com/question/610553893)<br />
+4. [中南大学一校友「匿名」向母校捐赠六亿元，校方回应「校友不愿出名想做实在事」，将会产生哪些社会影响？](https://www.zhihu.com/question/610238278)<br />
 5. [报道称欧盟外长博雷利原定下周访华被中方取消，外交部称愿同欧方继续保持沟通，取消原因是什么？如何解读？](https://www.zhihu.com/question/610463055)<br />
 6. [如何看待起售价为 1399 元起的荣耀 X50 ？有哪些亮点和不足？](https://www.zhihu.com/question/610537841)<br />
-7. [8 名代表建议「返还企业高管个税」，当地财税部门回应「违反个税立法根本，无法实现」，哪些信息值得关注？](https://www.zhihu.com/question/610431175)<br />
-8. [重庆万州区遭暴雨袭击，因灾死亡 15 人，失踪 4 人，目前情况如何？](https://www.zhihu.com/question/610456313)<br />
+7. [重庆万州区遭暴雨袭击，因灾死亡 15 人，失踪 4 人，目前情况如何？](https://www.zhihu.com/question/610456313)<br />
+8. [8 名代表建议「返还企业高管个税」，当地财税部门回应「违反个税立法根本，无法实现」，哪些信息值得关注？](https://www.zhihu.com/question/610431175)<br />
 9. [2023 LPL 夏季赛 BLG 2:0 击败 TES，如何评价这场比赛？](https://www.zhihu.com/question/610514738)<br />
 
 > 百度  
@@ -31,10 +31,10 @@
 3. [李玟数年前患上抑郁症](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E6%95%B0%E5%B9%B4%E5%89%8D%E6%82%A3%E4%B8%8A%E6%8A%91%E9%83%81%E7%97%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [就业形势总体稳定](https://www.baidu.com/s?wd=%E5%B0%B1%E4%B8%9A%E5%BD%A2%E5%8A%BF%E6%80%BB%E4%BD%93%E7%A8%B3%E5%AE%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [航拍暴雨后重庆：江滩公园成江心岛](https://www.baidu.com/s?wd=%E8%88%AA%E6%8B%8D%E6%9A%B4%E9%9B%A8%E5%90%8E%E9%87%8D%E5%BA%86%EF%BC%9A%E6%B1%9F%E6%BB%A9%E5%85%AC%E5%9B%AD%E6%88%90%E6%B1%9F%E5%BF%83%E5%B2%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男子死亡威胁劳荣枝律师被拘5日](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%AD%BB%E4%BA%A1%E5%A8%81%E8%83%81%E5%8A%B3%E8%8D%A3%E6%9E%9D%E5%BE%8B%E5%B8%88%E8%A2%AB%E6%8B%985%E6%97%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [韩红首次公开回应被举报](https://www.baidu.com/s?wd=%E9%9F%A9%E7%BA%A2%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80%E5%9B%9E%E5%BA%94%E8%A2%AB%E4%B8%BE%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [法院将传唤大牙陈建州](https://www.baidu.com/s?wd=%E6%B3%95%E9%99%A2%E5%B0%86%E4%BC%A0%E5%94%A4%E5%A4%A7%E7%89%99%E9%99%88%E5%BB%BA%E5%B7%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [故宫门票抢不到 黄牛要价翻6倍](https://www.baidu.com/s?wd=%E6%95%85%E5%AE%AB%E9%97%A8%E7%A5%A8%E6%8A%A2%E4%B8%8D%E5%88%B0+%E9%BB%84%E7%89%9B%E8%A6%81%E4%BB%B7%E7%BF%BB6%E5%80%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [李玟轻生当天还在给粉丝发语音](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E8%BD%BB%E7%94%9F%E5%BD%93%E5%A4%A9%E8%BF%98%E5%9C%A8%E7%BB%99%E7%B2%89%E4%B8%9D%E5%8F%91%E8%AF%AD%E9%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子死亡威胁劳荣枝律师被拘5日](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%AD%BB%E4%BA%A1%E5%A8%81%E8%83%81%E5%8A%B3%E8%8D%A3%E6%9E%9D%E5%BE%8B%E5%B8%88%E8%A2%AB%E6%8B%985%E6%97%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [韩红首次公开回应被举报](https://www.baidu.com/s?wd=%E9%9F%A9%E7%BA%A2%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80%E5%9B%9E%E5%BA%94%E8%A2%AB%E4%B8%BE%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [法院将传唤大牙陈建州](https://www.baidu.com/s?wd=%E6%B3%95%E9%99%A2%E5%B0%86%E4%BC%A0%E5%94%A4%E5%A4%A7%E7%89%99%E9%99%88%E5%BB%BA%E5%B7%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [李玟数年前患上抑郁症](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E6%95%B0%E5%B9%B4%E5%89%8D%E6%82%A3%E4%B8%8A%E6%8A%91%E9%83%81%E7%97%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [就业形势总体稳定](https://www.baidu.com/s?wd=%E5%B0%B1%E4%B8%9A%E5%BD%A2%E5%8A%BF%E6%80%BB%E4%BD%93%E7%A8%B3%E5%AE%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [航拍暴雨后重庆：江滩公园成江心岛](https://www.baidu.com/s?wd=%E8%88%AA%E6%8B%8D%E6%9A%B4%E9%9B%A8%E5%90%8E%E9%87%8D%E5%BA%86%EF%BC%9A%E6%B1%9F%E6%BB%A9%E5%85%AC%E5%9B%AD%E6%88%90%E6%B1%9F%E5%BF%83%E5%B2%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男子死亡威胁劳荣枝律师被拘5日](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%AD%BB%E4%BA%A1%E5%A8%81%E8%83%81%E5%8A%B3%E8%8D%A3%E6%9E%9D%E5%BE%8B%E5%B8%88%E8%A2%AB%E6%8B%985%E6%97%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [韩红首次公开回应被举报](https://www.baidu.com/s?wd=%E9%9F%A9%E7%BA%A2%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80%E5%9B%9E%E5%BA%94%E8%A2%AB%E4%B8%BE%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [法院将传唤大牙陈建州](https://www.baidu.com/s?wd=%E6%B3%95%E9%99%A2%E5%B0%86%E4%BC%A0%E5%94%A4%E5%A4%A7%E7%89%99%E9%99%88%E5%BB%BA%E5%B7%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [故宫门票抢不到 黄牛要价翻6倍](https://www.baidu.com/s?wd=%E6%95%85%E5%AE%AB%E9%97%A8%E7%A5%A8%E6%8A%A2%E4%B8%8D%E5%88%B0+%E9%BB%84%E7%89%9B%E8%A6%81%E4%BB%B7%E7%BF%BB6%E5%80%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [李玟轻生当天还在给粉丝发语音](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E8%BD%BB%E7%94%9F%E5%BD%93%E5%A4%A9%E8%BF%98%E5%9C%A8%E7%BB%99%E7%B2%89%E4%B8%9D%E5%8F%91%E8%AF%AD%E9%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子死亡威胁劳荣枝律师被拘5日](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%AD%BB%E4%BA%A1%E5%A8%81%E8%83%81%E5%8A%B3%E8%8D%A3%E6%9E%9D%E5%BE%8B%E5%B8%88%E8%A2%AB%E6%8B%985%E6%97%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [韩红首次公开回应被举报](https://www.baidu.com/s?wd=%E9%9F%A9%E7%BA%A2%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80%E5%9B%9E%E5%BA%94%E8%A2%AB%E4%B8%BE%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [法院将传唤大牙陈建州](https://www.baidu.com/s?wd=%E6%B3%95%E9%99%A2%E5%B0%86%E4%BC%A0%E5%94%A4%E5%A4%A7%E7%89%99%E9%99%88%E5%BB%BA%E5%B7%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
