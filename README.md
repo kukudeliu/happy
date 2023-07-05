@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 20:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 20:27:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [丰田宣布固态电池技术获重大突破「10 分钟充满跑 1200 公里，体积重量成本将减半」，影响几何？](https://www.zhihu.com/question/610463631)<br />
 5. [比亚迪投资 45 亿元在巴西建三座全新工厂，计划年产能达 15 万辆，如何看待该企业此举？](https://www.zhihu.com/question/610472668)<br />
 6. [如何评价王宝强执导的电影《八角笼中》？](https://www.zhihu.com/question/603748979)<br />
-7. [鲁智深好歹是个提辖，还有上司庇护，为什么拳打镇关西后却逃了？](https://www.zhihu.com/question/594491024)<br />
-8. [假如一只被特别娇惯的猫突然失去主人，能适应以后的生活吗？](https://www.zhihu.com/question/609779217)<br />
-9. [如何评价电影《艋舺》？](https://www.zhihu.com/question/23229737)<br />
+7. [假如一只被特别娇惯的猫突然失去主人，能适应以后的生活吗？](https://www.zhihu.com/question/609779217)<br />
+8. [如何评价电影《艋舺》？](https://www.zhihu.com/question/23229737)<br />
+9. [小米对华为锁屏专利发起无效宣告请求，哪些信息值得关注？](https://www.zhihu.com/question/610265154)<br />
 
 > 百度  
 
