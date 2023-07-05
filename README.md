@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 13:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 13:32:01</h4></div>
 
 > 微博  
 
@@ -8,18 +8,18 @@
 4. [现在该大小S有压力了](https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E8%AF%A5%E5%A4%A7%E5%B0%8FS%E6%9C%89%E5%8E%8B%E5%8A%9B%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [原副市长妻子打人耳光成习惯](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E5%89%AF%E5%B8%82%E9%95%BF%E5%A6%BB%E5%AD%90%E6%89%93%E4%BA%BA%E8%80%B3%E5%85%89%E6%88%90%E4%B9%A0%E6%83%AF%23&t=31&band_rank=5&Refer=top)<br />
 6. [北京政法职业学院回应男生被退学](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%94%BF%E6%B3%95%E8%81%8C%E4%B8%9A%E5%AD%A6%E9%99%A2%E5%9B%9E%E5%BA%94%E7%94%B7%E7%94%9F%E8%A2%AB%E9%80%80%E5%AD%A6%23&t=31&band_rank=6&Refer=top)<br />
-7. [为什么有钱人更容易保持身材](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E9%92%B1%E4%BA%BA%E6%9B%B4%E5%AE%B9%E6%98%93%E4%BF%9D%E6%8C%81%E8%BA%AB%E6%9D%90&t=31&band_rank=7&Refer=top)<br />
-8. [八角笼中后期 陈思诚出钱](https://s.weibo.com/weibo?q=%E5%85%AB%E8%A7%92%E7%AC%BC%E4%B8%AD%E5%90%8E%E6%9C%9F%20%E9%99%88%E6%80%9D%E8%AF%9A%E5%87%BA%E9%92%B1&t=31&band_rank=8&Refer=top)<br />
-9. [jiejie](https://s.weibo.com/weibo?q=jiejie&t=31&band_rank=9&Refer=top)<br />
+7. [八角笼中后期 陈思诚出钱](https://s.weibo.com/weibo?q=%E5%85%AB%E8%A7%92%E7%AC%BC%E4%B8%AD%E5%90%8E%E6%9C%9F%20%E9%99%88%E6%80%9D%E8%AF%9A%E5%87%BA%E9%92%B1&t=31&band_rank=7&Refer=top)<br />
+8. [jiejie](https://s.weibo.com/weibo?q=jiejie&t=31&band_rank=8&Refer=top)<br />
+9. [为什么有钱人更容易保持身材](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E9%92%B1%E4%BA%BA%E6%9B%B4%E5%AE%B9%E6%98%93%E4%BF%9D%E6%8C%81%E8%BA%AB%E6%9D%90&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [冲绳知事访华，参观北京琉球国墓地遗址，从历史上看，琉球和中国有何渊源？哪些信息值得关注？](https://www.zhihu.com/question/610361691)<br />
 2. [中南大学一校友「匿名」向母校捐赠六亿元，校方回应「校友不愿出名想做实在事」，将会产生哪些社会影响？](https://www.zhihu.com/question/610238278)<br />
 3. [盖伦沉默增加 10 秒能上职业联赛吗?](https://www.zhihu.com/question/610089911)<br />
-4. [知名主持人杨澜名下公司数百万财产被冻结，哪些信息值得关注？](https://www.zhihu.com/question/610235048)<br />
+4. [为什么陈思诚的电影总能在商业上取得很好的成绩？](https://www.zhihu.com/question/609609362)<br />
 5. [普京称中俄贸易超 80% 由人民币和卢布结算，释放了哪些信号？](https://www.zhihu.com/question/610356466)<br />
-6. [为什么陈思诚的电影总能在商业上取得很好的成绩？](https://www.zhihu.com/question/609609362)<br />
+6. [知名主持人杨澜名下公司数百万财产被冻结，哪些信息值得关注？](https://www.zhihu.com/question/610235048)<br />
 7. [网传国有大行向融资平台新增 25 年期贷款且前四年免息，经媒体求证信息不实，有哪些信息值得关注？](https://www.zhihu.com/question/610426814)<br />
 8. []()<br />
 9. []()<br />
