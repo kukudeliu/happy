@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 17:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 17:48:02</h4></div>
 
 > 微博  
 
-1. [淄博烧烤怎么样了](https://s.weibo.com/weibo?q=%23%E6%B7%84%E5%8D%9A%E7%83%A7%E7%83%A4%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86%23&t=31&band_rank=1&Refer=top)<br />
-2. [断崖式分手](https://s.weibo.com/weibo?q=%E6%96%AD%E5%B4%96%E5%BC%8F%E5%88%86%E6%89%8B&t=31&band_rank=2&Refer=top)<br />
+1. [断崖式分手](https://s.weibo.com/weibo?q=%E6%96%AD%E5%B4%96%E5%BC%8F%E5%88%86%E6%89%8B&t=31&band_rank=1&Refer=top)<br />
+2. [淄博烧烤怎么样了](https://s.weibo.com/weibo?q=%23%E6%B7%84%E5%8D%9A%E7%83%A7%E7%83%A4%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [中国航天版向云端](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E7%89%88%E5%90%91%E4%BA%91%E7%AB%AF%23&t=31&band_rank=3&Refer=top)<br />
 4. [清华硫酸泼熊学生成中科院副研究员](https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8D%8E%E7%A1%AB%E9%85%B8%E6%B3%BC%E7%86%8A%E5%AD%A6%E7%94%9F%E6%88%90%E4%B8%AD%E7%A7%91%E9%99%A2%E5%89%AF%E7%A0%94%E7%A9%B6%E5%91%98%23&t=31&band_rank=4&Refer=top)<br />
 5. [蔡徐坤暂缓现场出席TMEA盛典](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E6%9A%82%E7%BC%93%E7%8E%B0%E5%9C%BA%E5%87%BA%E5%B8%ADTMEA%E7%9B%9B%E5%85%B8%23&t=31&band_rank=5&Refer=top)<br />
