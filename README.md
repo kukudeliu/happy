@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 17:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 17:33:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [周润发确诊新冠](https://www.baidu.com/s?wd=%E5%91%A8%E6%B6%A6%E5%8F%91%E7%A1%AE%E8%AF%8A%E6%96%B0%E5%86%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [美国女网红直播睡觉月入超1400万](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%A5%B3%E7%BD%91%E7%BA%A2%E7%9B%B4%E6%92%AD%E7%9D%A1%E8%A7%89%E6%9C%88%E5%85%A5%E8%B6%851400%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [私家车开上火车站站台？深圳站道歉](https://www.baidu.com/s?wd=%E7%A7%81%E5%AE%B6%E8%BD%A6%E5%BC%80%E4%B8%8A%E7%81%AB%E8%BD%A6%E7%AB%99%E7%AB%99%E5%8F%B0%EF%BC%9F%E6%B7%B1%E5%9C%B3%E7%AB%99%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [《八角笼中》点映票房破纪录](https://www.baidu.com/s?wd=%E3%80%8A%E5%85%AB%E8%A7%92%E7%AC%BC%E4%B8%AD%E3%80%8B%E7%82%B9%E6%98%A0%E7%A5%A8%E6%88%BF%E7%A0%B4%E7%BA%AA%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [安徽车祸10死6伤 7人被追究刑责](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E8%BD%A6%E7%A5%B810%E6%AD%BB6%E4%BC%A4+7%E4%BA%BA%E8%A2%AB%E8%BF%BD%E7%A9%B6%E5%88%91%E8%B4%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [周润发确诊新冠](https://www.baidu.com/s?wd=%E5%91%A8%E6%B6%A6%E5%8F%91%E7%A1%AE%E8%AF%8A%E6%96%B0%E5%86%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [美国女网红直播睡觉月入超1400万](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%A5%B3%E7%BD%91%E7%BA%A2%E7%9B%B4%E6%92%AD%E7%9D%A1%E8%A7%89%E6%9C%88%E5%85%A5%E8%B6%851400%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [私家车开上火车站站台？深圳站道歉](https://www.baidu.com/s?wd=%E7%A7%81%E5%AE%B6%E8%BD%A6%E5%BC%80%E4%B8%8A%E7%81%AB%E8%BD%A6%E7%AB%99%E7%AB%99%E5%8F%B0%EF%BC%9F%E6%B7%B1%E5%9C%B3%E7%AB%99%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [《八角笼中》点映票房破纪录](https://www.baidu.com/s?wd=%E3%80%8A%E5%85%AB%E8%A7%92%E7%AC%BC%E4%B8%AD%E3%80%8B%E7%82%B9%E6%98%A0%E7%A5%A8%E6%88%BF%E7%A0%B4%E7%BA%AA%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [安徽车祸10死6伤 7人被追究刑责](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E8%BD%A6%E7%A5%B810%E6%AD%BB6%E4%BC%A4+7%E4%BA%BA%E8%A2%AB%E8%BF%BD%E7%A9%B6%E5%88%91%E8%B4%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
