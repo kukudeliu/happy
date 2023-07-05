@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 22:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 22:48:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [李玟生前最后一首歌](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E7%94%9F%E5%89%8D%E6%9C%80%E5%90%8E%E4%B8%80%E9%A6%96%E6%AD%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李玟好友说她生前想要一个小孩](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E5%A5%BD%E5%8F%8B%E8%AF%B4%E5%A5%B9%E7%94%9F%E5%89%8D%E6%83%B3%E8%A6%81%E4%B8%80%E4%B8%AA%E5%B0%8F%E5%AD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [韩红首次公开回应被举报](https://www.baidu.com/s?wd=%E9%9F%A9%E7%BA%A2%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80%E5%9B%9E%E5%BA%94%E8%A2%AB%E4%B8%BE%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [高校通报留长发男子进入女生公寓](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E9%80%9A%E6%8A%A5%E7%95%99%E9%95%BF%E5%8F%91%E7%94%B7%E5%AD%90%E8%BF%9B%E5%85%A5%E5%A5%B3%E7%94%9F%E5%85%AC%E5%AF%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [美依礼芽凤凰传奇终于同框了](https://www.baidu.com/s?wd=%E7%BE%8E%E4%BE%9D%E7%A4%BC%E8%8A%BD%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E7%BB%88%E4%BA%8E%E5%90%8C%E6%A1%86%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [李玟生前最后一首歌](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E7%94%9F%E5%89%8D%E6%9C%80%E5%90%8E%E4%B8%80%E9%A6%96%E6%AD%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李玟好友说她生前想要一个小孩](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E5%A5%BD%E5%8F%8B%E8%AF%B4%E5%A5%B9%E7%94%9F%E5%89%8D%E6%83%B3%E8%A6%81%E4%B8%80%E4%B8%AA%E5%B0%8F%E5%AD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [韩红首次公开回应被举报](https://www.baidu.com/s?wd=%E9%9F%A9%E7%BA%A2%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80%E5%9B%9E%E5%BA%94%E8%A2%AB%E4%B8%BE%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [高校通报留长发男子进入女生公寓](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E9%80%9A%E6%8A%A5%E7%95%99%E9%95%BF%E5%8F%91%E7%94%B7%E5%AD%90%E8%BF%9B%E5%85%A5%E5%A5%B3%E7%94%9F%E5%85%AC%E5%AF%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [美依礼芽凤凰传奇终于同框了](https://www.baidu.com/s?wd=%E7%BE%8E%E4%BE%9D%E7%A4%BC%E8%8A%BD%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E7%BB%88%E4%BA%8E%E5%90%8C%E6%A1%86%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
