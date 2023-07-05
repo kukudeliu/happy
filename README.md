@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 16:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 16:07:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [连夜取关5000人](https://s.weibo.com/weibo?q=%E8%BF%9E%E5%A4%9C%E5%8F%96%E5%85%B35000%E4%BA%BA&t=31&band_rank=4&Refer=top)<br />
 5. [蔡徐坤暂缓现场出席TMEA盛典](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E6%9A%82%E7%BC%93%E7%8E%B0%E5%9C%BA%E5%87%BA%E5%B8%ADTMEA%E7%9B%9B%E5%85%B8%23&t=31&band_rank=5&Refer=top)<br />
 6. [周润发确诊新冠](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B6%A6%E5%8F%91%E7%A1%AE%E8%AF%8A%E6%96%B0%E5%86%A0%23&t=31&band_rank=6&Refer=top)<br />
-7. [张睿早几年都干嘛去了](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%9D%BF%E6%97%A9%E5%87%A0%E5%B9%B4%E9%83%BD%E5%B9%B2%E5%98%9B%E5%8E%BB%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [大妈300万买基金一年赚不到两万](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%A6%88300%E4%B8%87%E4%B9%B0%E5%9F%BA%E9%87%91%E4%B8%80%E5%B9%B4%E8%B5%9A%E4%B8%8D%E5%88%B0%E4%B8%A4%E4%B8%87%23&t=31&band_rank=8&Refer=top)<br />
+7. [大妈300万买基金一年赚不到两万](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%A6%88300%E4%B8%87%E4%B9%B0%E5%9F%BA%E9%87%91%E4%B8%80%E5%B9%B4%E8%B5%9A%E4%B8%8D%E5%88%B0%E4%B8%A4%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
+8. [张睿早几年都干嘛去了](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%9D%BF%E6%97%A9%E5%87%A0%E5%B9%B4%E9%83%BD%E5%B9%B2%E5%98%9B%E5%8E%BB%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [因为养多肉接到供电局电话](https://s.weibo.com/weibo?q=%23%E5%9B%A0%E4%B8%BA%E5%85%BB%E5%A4%9A%E8%82%89%E6%8E%A5%E5%88%B0%E4%BE%9B%E7%94%B5%E5%B1%80%E7%94%B5%E8%AF%9D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -18,9 +18,9 @@
 2. [为什么陈思诚的电影总能在商业上取得很好的成绩？](https://www.zhihu.com/question/609609362)<br />
 3. [知名主持人杨澜名下公司数百万财产被冻结，哪些信息值得关注？](https://www.zhihu.com/question/610235048)<br />
 4. [报道称牵手门涉事领导仍担任高管，公司回应称胡继勇已不再履行法定代表人职责，哪些信息值得关注？](https://www.zhihu.com/question/610320361)<br />
-5. [盖伦沉默增加 10 秒能上职业联赛吗?](https://www.zhihu.com/question/610089911)<br />
-6. [周六放假，男朋友一大早要去送女同事去高铁站，我不高兴是心眼小吗？](https://www.zhihu.com/question/609749261)<br />
-7. [一个家庭越来越好的征兆是什么？](https://www.zhihu.com/question/555044022)<br />
+5. [一个家庭越来越好的征兆是什么？](https://www.zhihu.com/question/555044022)<br />
+6. [盖伦沉默增加 10 秒能上职业联赛吗?](https://www.zhihu.com/question/610089911)<br />
+7. [周六放假，男朋友一大早要去送女同事去高铁站，我不高兴是心眼小吗？](https://www.zhihu.com/question/609749261)<br />
 8. [8 名代表建议「返还企业高管个税」，当地财税部门回应「违反个税立法根本，无法实现」，哪些信息值得关注？](https://www.zhihu.com/question/610431175)<br />
 9. [在只换了 AD 的情况下，为什么 2023 年 EDG 春季赛和夏季赛表现差距能如此大？](https://www.zhihu.com/question/610380860)<br />
 
