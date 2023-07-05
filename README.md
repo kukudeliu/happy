@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 10:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 10:29:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [工作八年的工资被父母拿走](https://s.weibo.com/weibo?q=%23%E5%B7%A5%E4%BD%9C%E5%85%AB%E5%B9%B4%E7%9A%84%E5%B7%A5%E8%B5%84%E8%A2%AB%E7%88%B6%E6%AF%8D%E6%8B%BF%E8%B5%B0%23&t=31&band_rank=4&Refer=top)<br />
 5. [学生恶意篡改同学高考志愿被行拘](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E6%81%B6%E6%84%8F%E7%AF%A1%E6%94%B9%E5%90%8C%E5%AD%A6%E9%AB%98%E8%80%83%E5%BF%97%E6%84%BF%E8%A2%AB%E8%A1%8C%E6%8B%98%23&t=31&band_rank=5&Refer=top)<br />
 6. [iPhone15系列电池容量曝光](https://s.weibo.com/weibo?q=%23iPhone15%E7%B3%BB%E5%88%97%E7%94%B5%E6%B1%A0%E5%AE%B9%E9%87%8F%E6%9B%9D%E5%85%89%23&t=31&band_rank=6&Refer=top)<br />
-7. [原来银行并不是五点下班](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E9%93%B6%E8%A1%8C%E5%B9%B6%E4%B8%8D%E6%98%AF%E4%BA%94%E7%82%B9%E4%B8%8B%E7%8F%AD%23&t=31&band_rank=7&Refer=top)<br />
-8. [嘴角很明显的一块凸起是什么](https://s.weibo.com/weibo?q=%23%E5%98%B4%E8%A7%92%E5%BE%88%E6%98%8E%E6%98%BE%E7%9A%84%E4%B8%80%E5%9D%97%E5%87%B8%E8%B5%B7%E6%98%AF%E4%BB%80%E4%B9%88%23&t=31&band_rank=8&Refer=top)<br />
-9. [起猛了看见韩栋抱肖战](https://s.weibo.com/weibo?q=%23%E8%B5%B7%E7%8C%9B%E4%BA%86%E7%9C%8B%E8%A7%81%E9%9F%A9%E6%A0%8B%E6%8A%B1%E8%82%96%E6%88%98%23&t=31&band_rank=9&Refer=top)<br />
+7. [起猛了看见韩栋抱肖战](https://s.weibo.com/weibo?q=%23%E8%B5%B7%E7%8C%9B%E4%BA%86%E7%9C%8B%E8%A7%81%E9%9F%A9%E6%A0%8B%E6%8A%B1%E8%82%96%E6%88%98%23&t=31&band_rank=7&Refer=top)<br />
+8. [原来银行并不是五点下班](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E9%93%B6%E8%A1%8C%E5%B9%B6%E4%B8%8D%E6%98%AF%E4%BA%94%E7%82%B9%E4%B8%8B%E7%8F%AD%23&t=31&band_rank=8&Refer=top)<br />
+9. [嘴角很明显的一块凸起是什么](https://s.weibo.com/weibo?q=%23%E5%98%B4%E8%A7%92%E5%BE%88%E6%98%8E%E6%98%BE%E7%9A%84%E4%B8%80%E5%9D%97%E5%87%B8%E8%B5%B7%E6%98%AF%E4%BB%80%E4%B9%88%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
