@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 21:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 21:27:01</h4></div>
 
 > 微博  
 
@@ -27,7 +27,7 @@
 > 百度  
 
 1. [坚守好这个魂和根](https://www.baidu.com/s?wd=%E5%9D%9A%E5%AE%88%E5%A5%BD%E8%BF%99%E4%B8%AA%E9%AD%82%E5%92%8C%E6%A0%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [淄博烧烤“凉”了？](https://www.baidu.com/s?wd=%E6%B7%84%E5%8D%9A%E7%83%A7%E7%83%A4%E2%80%9C%E5%87%89%E2%80%9D%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [歌手李玟轻生去世 姐姐发声](https://www.baidu.com/s?wd=%E6%AD%8C%E6%89%8B%E6%9D%8E%E7%8E%9F%E8%BD%BB%E7%94%9F%E5%8E%BB%E4%B8%96+%E5%A7%90%E5%A7%90%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [女孩与家人走失被显眼包式寻亲](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E4%B8%8E%E5%AE%B6%E4%BA%BA%E8%B5%B0%E5%A4%B1%E8%A2%AB%E6%98%BE%E7%9C%BC%E5%8C%85%E5%BC%8F%E5%AF%BB%E4%BA%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [就业形势总体稳定](https://www.baidu.com/s?wd=%E5%B0%B1%E4%B8%9A%E5%BD%A2%E5%8A%BF%E6%80%BB%E4%BD%93%E7%A8%B3%E5%AE%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [航拍暴雨后重庆：江滩公园成江心岛](https://www.baidu.com/s?wd=%E8%88%AA%E6%8B%8D%E6%9A%B4%E9%9B%A8%E5%90%8E%E9%87%8D%E5%BA%86%EF%BC%9A%E6%B1%9F%E6%BB%A9%E5%85%AC%E5%9B%AD%E6%88%90%E6%B1%9F%E5%BF%83%E5%B2%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -39,7 +39,7 @@
 > 哔哩哔哩  
 
 1. [坚守好这个魂和根](https://www.baidu.com/s?wd=%E5%9D%9A%E5%AE%88%E5%A5%BD%E8%BF%99%E4%B8%AA%E9%AD%82%E5%92%8C%E6%A0%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [淄博烧烤“凉”了？](https://www.baidu.com/s?wd=%E6%B7%84%E5%8D%9A%E7%83%A7%E7%83%A4%E2%80%9C%E5%87%89%E2%80%9D%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [歌手李玟轻生去世 姐姐发声](https://www.baidu.com/s?wd=%E6%AD%8C%E6%89%8B%E6%9D%8E%E7%8E%9F%E8%BD%BB%E7%94%9F%E5%8E%BB%E4%B8%96+%E5%A7%90%E5%A7%90%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [女孩与家人走失被显眼包式寻亲](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E4%B8%8E%E5%AE%B6%E4%BA%BA%E8%B5%B0%E5%A4%B1%E8%A2%AB%E6%98%BE%E7%9C%BC%E5%8C%85%E5%BC%8F%E5%AF%BB%E4%BA%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [就业形势总体稳定](https://www.baidu.com/s?wd=%E5%B0%B1%E4%B8%9A%E5%BD%A2%E5%8A%BF%E6%80%BB%E4%BD%93%E7%A8%B3%E5%AE%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [航拍暴雨后重庆：江滩公园成江心岛](https://www.baidu.com/s?wd=%E8%88%AA%E6%8B%8D%E6%9A%B4%E9%9B%A8%E5%90%8E%E9%87%8D%E5%BA%86%EF%BC%9A%E6%B1%9F%E6%BB%A9%E5%85%AC%E5%9B%AD%E6%88%90%E6%B1%9F%E5%BF%83%E5%B2%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
