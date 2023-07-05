@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 03:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 03:53:01</h4></div>
 
 > 微博  
 
@@ -19,10 +19,10 @@
 3. [大量店铺转让，小饼「内卷」带来供应过剩，淄博烧烤「凉」了吗？为什么会出现这种现象？](https://www.zhihu.com/question/610461393)<br />
 4. [歌手李玟轻生去世，其姐姐发声称其患上抑郁症，她的哪些作品让你印象深刻？](https://www.zhihu.com/question/610553174)<br />
 5. []()<br />
-6. []()<br />
+6. [如何评价王宝强执导的电影《八角笼中》？](https://www.zhihu.com/question/603748979)<br />
 7. [此前对中国半导体出手的荷兰敦促欧盟回应中方对镓、锗实施出口管制，荷兰在急什么？欧盟将如何应对？](https://www.zhihu.com/question/610538153)<br />
 8. [歌手李玟因抑郁症轻生去世，她已出道近 30 年，你对她有什么印象？面对抑郁症我们还能帮他们做些什么？](https://www.zhihu.com/question/610553893)<br />
-9. [如何评价王宝强执导的电影《八角笼中》？](https://www.zhihu.com/question/603748979)<br />
+9. []()<br />
 
 > 百度  
 
@@ -33,7 +33,7 @@
 5. [#歌手李玟去世#](https://www.baidu.com/s?wd=%23%E6%AD%8C%E6%89%8B%E6%9D%8E%E7%8E%9F%E5%8E%BB%E4%B8%96%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [微笑抑郁症](https://www.baidu.com/s?wd=%E5%BE%AE%E7%AC%91%E6%8A%91%E9%83%81%E7%97%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [港媒：李玟疑割腕自杀 未写遗书](https://www.baidu.com/s?wd=%E6%B8%AF%E5%AA%92%EF%BC%9A%E6%9D%8E%E7%8E%9F%E7%96%91%E5%89%B2%E8%85%95%E8%87%AA%E6%9D%80+%E6%9C%AA%E5%86%99%E9%81%97%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [私家车开上火车站站台？深圳站道歉](https://www.baidu.com/s?wd=%E7%A7%81%E5%AE%B6%E8%BD%A6%E5%BC%80%E4%B8%8A%E7%81%AB%E8%BD%A6%E7%AB%99%E7%AB%99%E5%8F%B0%EF%BC%9F%E6%B7%B1%E5%9C%B3%E7%AB%99%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [安徽车祸10死6伤 7人被追究刑责](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E8%BD%A6%E7%A5%B810%E6%AD%BB6%E4%BC%A4+7%E4%BA%BA%E8%A2%AB%E8%BF%BD%E7%A9%B6%E5%88%91%E8%B4%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [抑郁症有多可怕](https://www.baidu.com/s?wd=%E6%8A%91%E9%83%81%E7%97%87%E6%9C%89%E5%A4%9A%E5%8F%AF%E6%80%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [#歌手李玟去世#](https://www.baidu.com/s?wd=%23%E6%AD%8C%E6%89%8B%E6%9D%8E%E7%8E%9F%E5%8E%BB%E4%B8%96%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [微笑抑郁症](https://www.baidu.com/s?wd=%E5%BE%AE%E7%AC%91%E6%8A%91%E9%83%81%E7%97%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [港媒：李玟疑割腕自杀 未写遗书](https://www.baidu.com/s?wd=%E6%B8%AF%E5%AA%92%EF%BC%9A%E6%9D%8E%E7%8E%9F%E7%96%91%E5%89%B2%E8%85%95%E8%87%AA%E6%9D%80+%E6%9C%AA%E5%86%99%E9%81%97%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [私家车开上火车站站台？深圳站道歉](https://www.baidu.com/s?wd=%E7%A7%81%E5%AE%B6%E8%BD%A6%E5%BC%80%E4%B8%8A%E7%81%AB%E8%BD%A6%E7%AB%99%E7%AB%99%E5%8F%B0%EF%BC%9F%E6%B7%B1%E5%9C%B3%E7%AB%99%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [安徽车祸10死6伤 7人被追究刑责](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E8%BD%A6%E7%A5%B810%E6%AD%BB6%E4%BC%A4+7%E4%BA%BA%E8%A2%AB%E8%BF%BD%E7%A9%B6%E5%88%91%E8%B4%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [抑郁症有多可怕](https://www.baidu.com/s?wd=%E6%8A%91%E9%83%81%E7%97%87%E6%9C%89%E5%A4%9A%E5%8F%AF%E6%80%95&sa=fyb_news&rsv_dl=fyb_news)<br />
