@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 17:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 17:19:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [清华硫酸泼熊学生成中科院副研究员](https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8D%8E%E7%A1%AB%E9%85%B8%E6%B3%BC%E7%86%8A%E5%AD%A6%E7%94%9F%E6%88%90%E4%B8%AD%E7%A7%91%E9%99%A2%E5%89%AF%E7%A0%94%E7%A9%B6%E5%91%98%23&t=31&band_rank=6&Refer=top)<br />
 7. [被花非花雾非雾震撼了](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E8%8A%B1%E9%9D%9E%E8%8A%B1%E9%9B%BE%E9%9D%9E%E9%9B%BE%E9%9C%87%E6%92%BC%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [周润发确诊新冠](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B6%A6%E5%8F%91%E7%A1%AE%E8%AF%8A%E6%96%B0%E5%86%A0%23&t=31&band_rank=8&Refer=top)<br />
-9. [张睿早几年都干嘛去了](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%9D%BF%E6%97%A9%E5%87%A0%E5%B9%B4%E9%83%BD%E5%B9%B2%E5%98%9B%E5%8E%BB%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [仙侠剧女主颜值TOP](https://s.weibo.com/weibo?q=%23%E4%BB%99%E4%BE%A0%E5%89%A7%E5%A5%B3%E4%B8%BB%E9%A2%9C%E5%80%BCTOP%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -21,8 +21,8 @@
 5. [为什么说白猫在猫眼里是最丑的？有什么科学依据？](https://www.zhihu.com/question/609445968)<br />
 6. [调查称超 7 成年轻人存款不足 10 万，超 5 成存 50 至 200 万考虑退休，如何看待此数据？](https://www.zhihu.com/question/610224300)<br />
 7. [《原神》3.8 版本「清夏！乐园？大秘境！」现已开启，请问你的体验如何？](https://www.zhihu.com/question/610429701)<br />
-8. [小米对华为锁屏专利发起无效宣告请求，哪些信息值得关注？](https://www.zhihu.com/question/610265154)<br />
-9. [让男朋友开车带我去买电动车，买的过程他不参与意见，我有点生气怎么办？](https://www.zhihu.com/question/609945575)<br />
+8. [让男朋友开车带我去买电动车，买的过程他不参与意见，我有点生气怎么办？](https://www.zhihu.com/question/609945575)<br />
+9. [小米对华为锁屏专利发起无效宣告请求，哪些信息值得关注？](https://www.zhihu.com/question/610265154)<br />
 
 > 百度  
 
