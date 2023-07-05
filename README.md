@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 13:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 13:50:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [抹香鲸尸体中被发现9.5公斤龙涎香](https://www.baidu.com/s?wd=%E6%8A%B9%E9%A6%99%E9%B2%B8%E5%B0%B8%E4%BD%93%E4%B8%AD%E8%A2%AB%E5%8F%91%E7%8E%B09.5%E5%85%AC%E6%96%A4%E9%BE%99%E6%B6%8E%E9%A6%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [有新冠检测公司花218亿去理财](https://www.baidu.com/s?wd=%E6%9C%89%E6%96%B0%E5%86%A0%E6%A3%80%E6%B5%8B%E5%85%AC%E5%8F%B8%E8%8A%B1218%E4%BA%BF%E5%8E%BB%E7%90%86%E8%B4%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [《八角笼中》点映票房破纪录](https://www.baidu.com/s?wd=%E3%80%8A%E5%85%AB%E8%A7%92%E7%AC%BC%E4%B8%AD%E3%80%8B%E7%82%B9%E6%98%A0%E7%A5%A8%E6%88%BF%E7%A0%B4%E7%BA%AA%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [欧洲代表质疑中国遭台下观众质问](https://www.baidu.com/s?wd=%E6%AC%A7%E6%B4%B2%E4%BB%A3%E8%A1%A8%E8%B4%A8%E7%96%91%E4%B8%AD%E5%9B%BD%E9%81%AD%E5%8F%B0%E4%B8%8B%E8%A7%82%E4%BC%97%E8%B4%A8%E9%97%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [高级餐厅厕所用凹凸标记引争议](https://www.baidu.com/s?wd=%E9%AB%98%E7%BA%A7%E9%A4%90%E5%8E%85%E5%8E%95%E6%89%80%E7%94%A8%E5%87%B9%E5%87%B8%E6%A0%87%E8%AE%B0%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [抹香鲸尸体中被发现9.5公斤龙涎香](https://www.baidu.com/s?wd=%E6%8A%B9%E9%A6%99%E9%B2%B8%E5%B0%B8%E4%BD%93%E4%B8%AD%E8%A2%AB%E5%8F%91%E7%8E%B09.5%E5%85%AC%E6%96%A4%E9%BE%99%E6%B6%8E%E9%A6%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [有新冠检测公司花218亿去理财](https://www.baidu.com/s?wd=%E6%9C%89%E6%96%B0%E5%86%A0%E6%A3%80%E6%B5%8B%E5%85%AC%E5%8F%B8%E8%8A%B1218%E4%BA%BF%E5%8E%BB%E7%90%86%E8%B4%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [《八角笼中》点映票房破纪录](https://www.baidu.com/s?wd=%E3%80%8A%E5%85%AB%E8%A7%92%E7%AC%BC%E4%B8%AD%E3%80%8B%E7%82%B9%E6%98%A0%E7%A5%A8%E6%88%BF%E7%A0%B4%E7%BA%AA%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [欧洲代表质疑中国遭台下观众质问](https://www.baidu.com/s?wd=%E6%AC%A7%E6%B4%B2%E4%BB%A3%E8%A1%A8%E8%B4%A8%E7%96%91%E4%B8%AD%E5%9B%BD%E9%81%AD%E5%8F%B0%E4%B8%8B%E8%A7%82%E4%BC%97%E8%B4%A8%E9%97%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [高级餐厅厕所用凹凸标记引争议](https://www.baidu.com/s?wd=%E9%AB%98%E7%BA%A7%E9%A4%90%E5%8E%85%E5%8E%95%E6%89%80%E7%94%A8%E5%87%B9%E5%87%B8%E6%A0%87%E8%AE%B0%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
