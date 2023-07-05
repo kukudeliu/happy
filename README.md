@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 03:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 03:23:01</h4></div>
 
 > 微博  
 
@@ -19,10 +19,10 @@
 3. [你敢穿 30 元一件的衣服去上班吗？](https://www.zhihu.com/question/606509967)<br />
 4. [歌手李玟轻生去世，其姐姐发声称其患上抑郁症，她的哪些作品让你印象深刻？](https://www.zhihu.com/question/610553174)<br />
 5. [大量店铺转让，小饼「内卷」带来供应过剩，淄博烧烤「凉」了吗？为什么会出现这种现象？](https://www.zhihu.com/question/610461393)<br />
-6. []()<br />
+6. [猫对人是没有感情的吗？](https://www.zhihu.com/question/27378204)<br />
 7. [此前对中国半导体出手的荷兰敦促欧盟回应中方对镓、锗实施出口管制，荷兰在急什么？欧盟将如何应对？](https://www.zhihu.com/question/610538153)<br />
 8. [歌手李玟因抑郁症轻生去世，她已出道近 30 年，你对她有什么印象？面对抑郁症我们还能帮他们做些什么？](https://www.zhihu.com/question/610553893)<br />
-9. [猫对人是没有感情的吗？](https://www.zhihu.com/question/27378204)<br />
+9. [有没有什么冷门又好看的电视剧推荐?](https://www.zhihu.com/question/595259975)<br />
 
 > 百度  
 
