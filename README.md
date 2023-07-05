@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 13:25:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 13:26:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [北京政法职业学院回应男生被退学](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%94%BF%E6%B3%95%E8%81%8C%E4%B8%9A%E5%AD%A6%E9%99%A2%E5%9B%9E%E5%BA%94%E7%94%B7%E7%94%9F%E8%A2%AB%E9%80%80%E5%AD%A6%23&t=31&band_rank=6&Refer=top)<br />
 7. [为什么有钱人更容易保持身材](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E9%92%B1%E4%BA%BA%E6%9B%B4%E5%AE%B9%E6%98%93%E4%BF%9D%E6%8C%81%E8%BA%AB%E6%9D%90&t=31&band_rank=7&Refer=top)<br />
 8. [婚礼结束看清很多人](https://s.weibo.com/weibo?q=%23%E5%A9%9A%E7%A4%BC%E7%BB%93%E6%9D%9F%E7%9C%8B%E6%B8%85%E5%BE%88%E5%A4%9A%E4%BA%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [官方回应山东一辅警接连杀害两名女性](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%B1%B1%E4%B8%9C%E4%B8%80%E8%BE%85%E8%AD%A6%E6%8E%A5%E8%BF%9E%E6%9D%80%E5%AE%B3%E4%B8%A4%E5%90%8D%E5%A5%B3%E6%80%A7%23&t=31&band_rank=9&Refer=top)<br />
+9. [八角笼中后期 陈思诚出钱](https://s.weibo.com/weibo?q=%E5%85%AB%E8%A7%92%E7%AC%BC%E4%B8%AD%E5%90%8E%E6%9C%9F%20%E9%99%88%E6%80%9D%E8%AF%9A%E5%87%BA%E9%92%B1&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
