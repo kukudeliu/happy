@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 13:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 13:21:01</h4></div>
 
 > 微博  
 
 1. [张睿早几年都干嘛去了](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%9D%BF%E6%97%A9%E5%87%A0%E5%B9%B4%E9%83%BD%E5%B9%B2%E5%98%9B%E5%8E%BB%E4%BA%86%23&t=31&band_rank=1&Refer=top)<br />
 2. [肖战迪丽热巴合作一部古偶吧](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%90%88%E4%BD%9C%E4%B8%80%E9%83%A8%E5%8F%A4%E5%81%B6%E5%90%A7%23&t=31&band_rank=2&Refer=top)<br />
-3. [上合组织顺应当今时代潮流契合人类进步方向](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E5%90%88%E7%BB%84%E7%BB%87%E9%A1%BA%E5%BA%94%E5%BD%93%E4%BB%8A%E6%97%B6%E4%BB%A3%E6%BD%AE%E6%B5%81%E5%A5%91%E5%90%88%E4%BA%BA%E7%B1%BB%E8%BF%9B%E6%AD%A5%E6%96%B9%E5%90%91%23&t=31&band_rank=3&Refer=top)<br />
+3. [原副市长妻子打人耳光成习惯](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E5%89%AF%E5%B8%82%E9%95%BF%E5%A6%BB%E5%AD%90%E6%89%93%E4%BA%BA%E8%80%B3%E5%85%89%E6%88%90%E4%B9%A0%E6%83%AF%23&t=31&band_rank=3&Refer=top)<br />
 4. [现在该大小S有压力了](https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E8%AF%A5%E5%A4%A7%E5%B0%8FS%E6%9C%89%E5%8E%8B%E5%8A%9B%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
-5. [原副市长妻子打人耳光成习惯](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E5%89%AF%E5%B8%82%E9%95%BF%E5%A6%BB%E5%AD%90%E6%89%93%E4%BA%BA%E8%80%B3%E5%85%89%E6%88%90%E4%B9%A0%E6%83%AF%23&t=31&band_rank=5&Refer=top)<br />
+5. [婚礼结束看清很多人](https://s.weibo.com/weibo?q=%23%E5%A9%9A%E7%A4%BC%E7%BB%93%E6%9D%9F%E7%9C%8B%E6%B8%85%E5%BE%88%E5%A4%9A%E4%BA%BA%23&t=31&band_rank=5&Refer=top)<br />
 6. [北京政法职业学院回应男生被退学](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%94%BF%E6%B3%95%E8%81%8C%E4%B8%9A%E5%AD%A6%E9%99%A2%E5%9B%9E%E5%BA%94%E7%94%B7%E7%94%9F%E8%A2%AB%E9%80%80%E5%AD%A6%23&t=31&band_rank=6&Refer=top)<br />
-7. [婚礼结束看清很多人](https://s.weibo.com/weibo?q=%23%E5%A9%9A%E7%A4%BC%E7%BB%93%E6%9D%9F%E7%9C%8B%E6%B8%85%E5%BE%88%E5%A4%9A%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
-8. [为什么有钱人更容易保持身材](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E9%92%B1%E4%BA%BA%E6%9B%B4%E5%AE%B9%E6%98%93%E4%BF%9D%E6%8C%81%E8%BA%AB%E6%9D%90&t=31&band_rank=8&Refer=top)<br />
-9. [官方回应山东一辅警接连杀害两名女性](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%B1%B1%E4%B8%9C%E4%B8%80%E8%BE%85%E8%AD%A6%E6%8E%A5%E8%BF%9E%E6%9D%80%E5%AE%B3%E4%B8%A4%E5%90%8D%E5%A5%B3%E6%80%A7%23&t=31&band_rank=9&Refer=top)<br />
+7. [为什么有钱人更容易保持身材](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E9%92%B1%E4%BA%BA%E6%9B%B4%E5%AE%B9%E6%98%93%E4%BF%9D%E6%8C%81%E8%BA%AB%E6%9D%90&t=31&band_rank=7&Refer=top)<br />
+8. [官方回应山东一辅警接连杀害两名女性](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%B1%B1%E4%B8%9C%E4%B8%80%E8%BE%85%E8%AD%A6%E6%8E%A5%E8%BF%9E%E6%9D%80%E5%AE%B3%E4%B8%A4%E5%90%8D%E5%A5%B3%E6%80%A7%23&t=31&band_rank=8&Refer=top)<br />
+9. [鹿晗广州站官宣嘉宾](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E5%B9%BF%E5%B7%9E%E7%AB%99%E5%AE%98%E5%AE%A3%E5%98%89%E5%AE%BE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
