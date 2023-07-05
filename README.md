@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 22:56:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 22:57:02</h4></div>
 
 > 微博  
 
@@ -20,8 +20,8 @@
 4. [报道称欧盟外长博雷利原定下周访华被中方取消，外交部称愿同欧方继续保持沟通，取消原因是什么？如何解读？](https://www.zhihu.com/question/610463055)<br />
 5. [如何看待起售价为 1399 元起的荣耀 X50 ？有哪些亮点和不足？](https://www.zhihu.com/question/610537841)<br />
 6. [重庆万州区遭暴雨袭击，因灾死亡 15 人，失踪 4 人，目前情况如何？](https://www.zhihu.com/question/610456313)<br />
-7. [2023 LPL 夏季赛 BLG 2:0 击败 TES，如何评价这场比赛？](https://www.zhihu.com/question/610514738)<br />
-8. [此前对中国半导体出手的荷兰敦促欧盟回应中方对镓、锗实施出口管制，荷兰在急什么？欧盟将如何应对？](https://www.zhihu.com/question/610538153)<br />
+7. [此前对中国半导体出手的荷兰敦促欧盟回应中方对镓、锗实施出口管制，荷兰在急什么？欧盟将如何应对？](https://www.zhihu.com/question/610538153)<br />
+8. [2023 LPL 夏季赛 BLG 2:0 击败 TES，如何评价这场比赛？](https://www.zhihu.com/question/610514738)<br />
 9. [如何评价理想汽车官方回应 10 条质疑，从专业角度看真实性如何？](https://www.zhihu.com/question/610442905)<br />
 
 > 百度  
