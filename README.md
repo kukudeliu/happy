@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 20:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 20:18:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [鲁智深好歹是个提辖，还有上司庇护，为什么拳打镇关西后却逃了？](https://www.zhihu.com/question/594491024)<br />
 7. [如何评价王宝强执导的电影《八角笼中》？](https://www.zhihu.com/question/603748979)<br />
 8. [如何评价电影《艋舺》？](https://www.zhihu.com/question/23229737)<br />
-9. [小米对华为锁屏专利发起无效宣告请求，哪些信息值得关注？](https://www.zhihu.com/question/610265154)<br />
+9. [假如一只被特别娇惯的猫突然失去主人，能适应以后的生活吗？](https://www.zhihu.com/question/609779217)<br />
 
 > 百度  
 
