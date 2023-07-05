@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 16:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 16:50:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [被花非花雾非雾震撼了](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E8%8A%B1%E9%9D%9E%E8%8A%B1%E9%9B%BE%E9%9D%9E%E9%9B%BE%E9%9C%87%E6%92%BC%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [因为养多肉接到供电局电话](https://s.weibo.com/weibo?q=%23%E5%9B%A0%E4%B8%BA%E5%85%BB%E5%A4%9A%E8%82%89%E6%8E%A5%E5%88%B0%E4%BE%9B%E7%94%B5%E5%B1%80%E7%94%B5%E8%AF%9D%23&t=31&band_rank=7&Refer=top)<br />
 8. [周润发确诊新冠](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B6%A6%E5%8F%91%E7%A1%AE%E8%AF%8A%E6%96%B0%E5%86%A0%23&t=31&band_rank=8&Refer=top)<br />
-9. [大妈300万买基金一年赚不到两万](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%A6%88300%E4%B8%87%E4%B9%B0%E5%9F%BA%E9%87%91%E4%B8%80%E5%B9%B4%E8%B5%9A%E4%B8%8D%E5%88%B0%E4%B8%A4%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
+9. [肖战任敏水下吻](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E4%BB%BB%E6%95%8F%E6%B0%B4%E4%B8%8B%E5%90%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
