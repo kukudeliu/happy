@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 19:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 19:57:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [世界最早印花工具做出的汉服有多美](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9C%80%E6%97%A9%E5%8D%B0%E8%8A%B1%E5%B7%A5%E5%85%B7%E5%81%9A%E5%87%BA%E7%9A%84%E6%B1%89%E6%9C%8D%E6%9C%89%E5%A4%9A%E7%BE%8E%23&t=31&band_rank=3&Refer=top)<br />
 4. [光渊下架](https://s.weibo.com/weibo?q=%23%E5%85%89%E6%B8%8A%E4%B8%8B%E6%9E%B6%23&t=31&band_rank=4&Refer=top)<br />
 5. [贵州村超出圈蜀黍喊话球迷](https://s.weibo.com/weibo?q=%23%E8%B4%B5%E5%B7%9E%E6%9D%91%E8%B6%85%E5%87%BA%E5%9C%88%E8%9C%80%E9%BB%8D%E5%96%8A%E8%AF%9D%E7%90%83%E8%BF%B7%23&t=31&band_rank=5&Refer=top)<br />
-6. [硕士毕业10年被查出论文剽窃](https://s.weibo.com/weibo?q=%23%E7%A1%95%E5%A3%AB%E6%AF%95%E4%B8%9A10%E5%B9%B4%E8%A2%AB%E6%9F%A5%E5%87%BA%E8%AE%BA%E6%96%87%E5%89%BD%E7%AA%83%23&t=31&band_rank=6&Refer=top)<br />
+6. [坐高铁最好不要趴小桌板上](https://s.weibo.com/weibo?q=%23%E5%9D%90%E9%AB%98%E9%93%81%E6%9C%80%E5%A5%BD%E4%B8%8D%E8%A6%81%E8%B6%B4%E5%B0%8F%E6%A1%8C%E6%9D%BF%E4%B8%8A%23&t=31&band_rank=6&Refer=top)<br />
 7. [广西现鸳鸯江奇景](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E7%8E%B0%E9%B8%B3%E9%B8%AF%E6%B1%9F%E5%A5%87%E6%99%AF%23&t=31&band_rank=7&Refer=top)<br />
-8. [坐高铁最好不要趴小桌板上](https://s.weibo.com/weibo?q=%23%E5%9D%90%E9%AB%98%E9%93%81%E6%9C%80%E5%A5%BD%E4%B8%8D%E8%A6%81%E8%B6%B4%E5%B0%8F%E6%A1%8C%E6%9D%BF%E4%B8%8A%23&t=31&band_rank=8&Refer=top)<br />
+8. [硕士毕业10年被查出论文剽窃](https://s.weibo.com/weibo?q=%23%E7%A1%95%E5%A3%AB%E6%AF%95%E4%B8%9A10%E5%B9%B4%E8%A2%AB%E6%9F%A5%E5%87%BA%E8%AE%BA%E6%96%87%E5%89%BD%E7%AA%83%23&t=31&band_rank=8&Refer=top)<br />
 9. [赵露思陈哲远沙发40秒拥吻](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E9%99%88%E5%93%B2%E8%BF%9C%E6%B2%99%E5%8F%9140%E7%A7%92%E6%8B%A5%E5%90%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -21,8 +21,8 @@
 5. [俄乌相互指责对方密谋袭击扎波罗热核电站 ，具体情况如何？如何看待此事？](https://www.zhihu.com/question/610438524)<br />
 6. [比亚迪投资 45 亿元在巴西建三座全新工厂，计划年产能达 15 万辆，如何看待该企业此举？](https://www.zhihu.com/question/610472668)<br />
 7. [让男朋友开车带我去买电动车，买的过程他不参与意见，我有点生气怎么办？](https://www.zhihu.com/question/609945575)<br />
-8. [年轻人有多少 city walk 的时间？是不是大部分人都把时间投入到「city work」里了？](https://www.zhihu.com/question/610470097)<br />
-9. [鲁智深好歹是个提辖，还有上司庇护，为什么拳打镇关西后却逃了？](https://www.zhihu.com/question/594491024)<br />
+8. [鲁智深好歹是个提辖，还有上司庇护，为什么拳打镇关西后却逃了？](https://www.zhihu.com/question/594491024)<br />
+9. [如何评价王宝强执导的电影《八角笼中》？](https://www.zhihu.com/question/603748979)<br />
 
 > 百度  
 
