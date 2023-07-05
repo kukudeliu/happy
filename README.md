@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 19:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 19:14:01</h4></div>
 
 > 微博  
 
-1. [北京人正式被确诊为哪吒](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%BA%BA%E6%AD%A3%E5%BC%8F%E8%A2%AB%E7%A1%AE%E8%AF%8A%E4%B8%BA%E5%93%AA%E5%90%92%23&t=31&band_rank=1&Refer=top)<br />
+1. [光渊下架](https://s.weibo.com/weibo?q=%23%E5%85%89%E6%B8%8A%E4%B8%8B%E6%9E%B6%23&t=31&band_rank=1&Refer=top)<br />
 2. [成都一公园开出红黄对称双色睡莲](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E4%B8%80%E5%85%AC%E5%9B%AD%E5%BC%80%E5%87%BA%E7%BA%A2%E9%BB%84%E5%AF%B9%E7%A7%B0%E5%8F%8C%E8%89%B2%E7%9D%A1%E8%8E%B2%23&t=31&band_rank=2&Refer=top)<br />
 3. [中国航天版向云端](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E7%89%88%E5%90%91%E4%BA%91%E7%AB%AF%23&t=31&band_rank=3&Refer=top)<br />
-4. [光渊下架](https://s.weibo.com/weibo?q=%23%E5%85%89%E6%B8%8A%E4%B8%8B%E6%9E%B6%23&t=31&band_rank=4&Refer=top)<br />
+4. [北京人正式被确诊为哪吒](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%BA%BA%E6%AD%A3%E5%BC%8F%E8%A2%AB%E7%A1%AE%E8%AF%8A%E4%B8%BA%E5%93%AA%E5%90%92%23&t=31&band_rank=4&Refer=top)<br />
 5. [贵州村超出圈蜀黍喊话球迷](https://s.weibo.com/weibo?q=%23%E8%B4%B5%E5%B7%9E%E6%9D%91%E8%B6%85%E5%87%BA%E5%9C%88%E8%9C%80%E9%BB%8D%E5%96%8A%E8%AF%9D%E7%90%83%E8%BF%B7%23&t=31&band_rank=5&Refer=top)<br />
 6. [断崖式分手](https://s.weibo.com/weibo?q=%E6%96%AD%E5%B4%96%E5%BC%8F%E5%88%86%E6%89%8B&t=31&band_rank=6&Refer=top)<br />
 7. [广西现鸳鸯江奇景](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E7%8E%B0%E9%B8%B3%E9%B8%AF%E6%B1%9F%E5%A5%87%E6%99%AF%23&t=31&band_rank=7&Refer=top)<br />
@@ -32,9 +32,9 @@
 4. [凝聚上合力量](https://www.baidu.com/s?wd=%E5%87%9D%E8%81%9A%E4%B8%8A%E5%90%88%E5%8A%9B%E9%87%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [清华硫酸泼熊学生已成中科院副研究员](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E7%A1%AB%E9%85%B8%E6%B3%BC%E7%86%8A%E5%AD%A6%E7%94%9F%E5%B7%B2%E6%88%90%E4%B8%AD%E7%A7%91%E9%99%A2%E5%89%AF%E7%A0%94%E7%A9%B6%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子不穿内裤试衣隔天要求退换遭拒](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%8D%E7%A9%BF%E5%86%85%E8%A3%A4%E8%AF%95%E8%A1%A3%E9%9A%94%E5%A4%A9%E8%A6%81%E6%B1%82%E9%80%80%E6%8D%A2%E9%81%AD%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [福建一理想汽车冲进餐厅撞飞2人](https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E4%B8%80%E7%90%86%E6%83%B3%E6%B1%BD%E8%BD%A6%E5%86%B2%E8%BF%9B%E9%A4%90%E5%8E%85%E6%92%9E%E9%A3%9E2%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [高校女生宿舍疑闯入3名陌生男子](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E5%A5%B3%E7%94%9F%E5%AE%BF%E8%88%8D%E7%96%91%E9%97%AF%E5%85%A53%E5%90%8D%E9%99%8C%E7%94%9F%E7%94%B7%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [硕士毕业10年被查出论文剽窃](https://www.baidu.com/s?wd=%E7%A1%95%E5%A3%AB%E6%AF%95%E4%B8%9A10%E5%B9%B4%E8%A2%AB%E6%9F%A5%E5%87%BA%E8%AE%BA%E6%96%87%E5%89%BD%E7%AA%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [硕士毕业10年被查出论文剽窃](https://www.baidu.com/s?wd=%E7%A1%95%E5%A3%AB%E6%AF%95%E4%B8%9A10%E5%B9%B4%E8%A2%AB%E6%9F%A5%E5%87%BA%E8%AE%BA%E6%96%87%E5%89%BD%E7%AA%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [美国女网红直播睡觉月入超1400万](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%A5%B3%E7%BD%91%E7%BA%A2%E7%9B%B4%E6%92%AD%E7%9D%A1%E8%A7%89%E6%9C%88%E5%85%A5%E8%B6%851400%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [拜登去世假消息流传 健康状况引关注](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E5%8E%BB%E4%B8%96%E5%81%87%E6%B6%88%E6%81%AF%E6%B5%81%E4%BC%A0+%E5%81%A5%E5%BA%B7%E7%8A%B6%E5%86%B5%E5%BC%95%E5%85%B3%E6%B3%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [凝聚上合力量](https://www.baidu.com/s?wd=%E5%87%9D%E8%81%9A%E4%B8%8A%E5%90%88%E5%8A%9B%E9%87%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [清华硫酸泼熊学生已成中科院副研究员](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E7%A1%AB%E9%85%B8%E6%B3%BC%E7%86%8A%E5%AD%A6%E7%94%9F%E5%B7%B2%E6%88%90%E4%B8%AD%E7%A7%91%E9%99%A2%E5%89%AF%E7%A0%94%E7%A9%B6%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子不穿内裤试衣隔天要求退换遭拒](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%8D%E7%A9%BF%E5%86%85%E8%A3%A4%E8%AF%95%E8%A1%A3%E9%9A%94%E5%A4%A9%E8%A6%81%E6%B1%82%E9%80%80%E6%8D%A2%E9%81%AD%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [福建一理想汽车冲进餐厅撞飞2人](https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E4%B8%80%E7%90%86%E6%83%B3%E6%B1%BD%E8%BD%A6%E5%86%B2%E8%BF%9B%E9%A4%90%E5%8E%85%E6%92%9E%E9%A3%9E2%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [高校女生宿舍疑闯入3名陌生男子](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E5%A5%B3%E7%94%9F%E5%AE%BF%E8%88%8D%E7%96%91%E9%97%AF%E5%85%A53%E5%90%8D%E9%99%8C%E7%94%9F%E7%94%B7%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [硕士毕业10年被查出论文剽窃](https://www.baidu.com/s?wd=%E7%A1%95%E5%A3%AB%E6%AF%95%E4%B8%9A10%E5%B9%B4%E8%A2%AB%E6%9F%A5%E5%87%BA%E8%AE%BA%E6%96%87%E5%89%BD%E7%AA%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [硕士毕业10年被查出论文剽窃](https://www.baidu.com/s?wd=%E7%A1%95%E5%A3%AB%E6%AF%95%E4%B8%9A10%E5%B9%B4%E8%A2%AB%E6%9F%A5%E5%87%BA%E8%AE%BA%E6%96%87%E5%89%BD%E7%AA%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [美国女网红直播睡觉月入超1400万](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%A5%B3%E7%BD%91%E7%BA%A2%E7%9B%B4%E6%92%AD%E7%9D%A1%E8%A7%89%E6%9C%88%E5%85%A5%E8%B6%851400%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [拜登去世假消息流传 健康状况引关注](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E5%8E%BB%E4%B8%96%E5%81%87%E6%B6%88%E6%81%AF%E6%B5%81%E4%BC%A0+%E5%81%A5%E5%BA%B7%E7%8A%B6%E5%86%B5%E5%BC%95%E5%85%B3%E6%B3%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
