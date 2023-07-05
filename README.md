@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 15:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 15:08:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [周六放假，男朋友一大早要去送女同事去高铁站，我不高兴是心眼小吗？](https://www.zhihu.com/question/609749261)<br />
 7. [AI 画人的最大问题是什么，为什么好多人物图明明很真实，却能被一眼看出来是 AI ？](https://www.zhihu.com/question/603331907)<br />
 8. [如何委婉地和家里人说我想当全职儿女？](https://www.zhihu.com/question/593083416)<br />
-9. [嵌入式要卷成下一个 Java 了吗？](https://www.zhihu.com/question/596543159)<br />
+9. [在只换了 AD 的情况下，为什么 2023 年 EDG 春季赛和夏季赛表现差距能如此大？](https://www.zhihu.com/question/610380860)<br />
 
 > 百度  
 
