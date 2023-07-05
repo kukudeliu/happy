@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 07:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 07:34:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [微笑抑郁症](https://www.baidu.com/s?wd=%E5%BE%AE%E7%AC%91%E6%8A%91%E9%83%81%E7%97%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [港媒：李玟疑割腕自杀 未写遗书](https://www.baidu.com/s?wd=%E6%B8%AF%E5%AA%92%EF%BC%9A%E6%9D%8E%E7%8E%9F%E7%96%91%E5%89%B2%E8%85%95%E8%87%AA%E6%9D%80+%E6%9C%AA%E5%86%99%E9%81%97%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [抑郁症有多可怕](https://www.baidu.com/s?wd=%E6%8A%91%E9%83%81%E7%97%87%E6%9C%89%E5%A4%9A%E5%8F%AF%E6%80%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [美总统参选人拿中国提醒美国](https://www.baidu.com/s?wd=%E7%BE%8E%E6%80%BB%E7%BB%9F%E5%8F%82%E9%80%89%E4%BA%BA%E6%8B%BF%E4%B8%AD%E5%9B%BD%E6%8F%90%E9%86%92%E7%BE%8E%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [因扫到脚男子殴打环卫工被行拘](https://www.baidu.com/s?wd=%E5%9B%A0%E6%89%AB%E5%88%B0%E8%84%9A%E7%94%B7%E5%AD%90%E6%AE%B4%E6%89%93%E7%8E%AF%E5%8D%AB%E5%B7%A5%E8%A2%AB%E8%A1%8C%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [微笑抑郁症](https://www.baidu.com/s?wd=%E5%BE%AE%E7%AC%91%E6%8A%91%E9%83%81%E7%97%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [港媒：李玟疑割腕自杀 未写遗书](https://www.baidu.com/s?wd=%E6%B8%AF%E5%AA%92%EF%BC%9A%E6%9D%8E%E7%8E%9F%E7%96%91%E5%89%B2%E8%85%95%E8%87%AA%E6%9D%80+%E6%9C%AA%E5%86%99%E9%81%97%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [抑郁症有多可怕](https://www.baidu.com/s?wd=%E6%8A%91%E9%83%81%E7%97%87%E6%9C%89%E5%A4%9A%E5%8F%AF%E6%80%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [美总统参选人拿中国提醒美国](https://www.baidu.com/s?wd=%E7%BE%8E%E6%80%BB%E7%BB%9F%E5%8F%82%E9%80%89%E4%BA%BA%E6%8B%BF%E4%B8%AD%E5%9B%BD%E6%8F%90%E9%86%92%E7%BE%8E%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [因扫到脚男子殴打环卫工被行拘](https://www.baidu.com/s?wd=%E5%9B%A0%E6%89%AB%E5%88%B0%E8%84%9A%E7%94%B7%E5%AD%90%E6%AE%B4%E6%89%93%E7%8E%AF%E5%8D%AB%E5%B7%A5%E8%A2%AB%E8%A1%8C%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
