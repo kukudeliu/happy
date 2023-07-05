@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 02:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 02:55:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [快告诉我是假的](https://s.weibo.com/weibo?q=%23%E5%BF%AB%E5%91%8A%E8%AF%89%E6%88%91%E6%98%AF%E5%81%87%E7%9A%84%23&t=31&band_rank=6&Refer=top)<br />
 7. [2年被家暴16次女子希望判丈夫死刑](https://s.weibo.com/weibo?q=%232%E5%B9%B4%E8%A2%AB%E5%AE%B6%E6%9A%B416%E6%AC%A1%E5%A5%B3%E5%AD%90%E5%B8%8C%E6%9C%9B%E5%88%A4%E4%B8%88%E5%A4%AB%E6%AD%BB%E5%88%91%23&t=31&band_rank=7&Refer=top)<br />
 8. [抑郁症不是情绪问题](https://s.weibo.com/weibo?q=%23%E6%8A%91%E9%83%81%E7%97%87%E4%B8%8D%E6%98%AF%E6%83%85%E7%BB%AA%E9%97%AE%E9%A2%98%23&t=31&band_rank=8&Refer=top)<br />
-9. [抑郁症早期征兆有哪些](https://s.weibo.com/weibo?q=%23%E6%8A%91%E9%83%81%E7%97%87%E6%97%A9%E6%9C%9F%E5%BE%81%E5%85%86%E6%9C%89%E5%93%AA%E4%BA%9B%23&t=31&band_rank=9&Refer=top)<br />
+9. [偷拿同学20元男孩被妈妈带去派出所自首](https://s.weibo.com/weibo?q=%23%E5%81%B7%E6%8B%BF%E5%90%8C%E5%AD%A620%E5%85%83%E7%94%B7%E5%AD%A9%E8%A2%AB%E5%A6%88%E5%A6%88%E5%B8%A6%E5%8E%BB%E6%B4%BE%E5%87%BA%E6%89%80%E8%87%AA%E9%A6%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -27,23 +27,23 @@
 > 百度  
 
 1. [坚守好这个魂和根](https://www.baidu.com/s?wd=%E5%9D%9A%E5%AE%88%E5%A5%BD%E8%BF%99%E4%B8%AA%E9%AD%82%E5%92%8C%E6%A0%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [#歌手李玟去世#](https://www.baidu.com/s?wd=%23%E6%AD%8C%E6%89%8B%E6%9D%8E%E7%8E%9F%E5%8E%BB%E4%B8%96%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [李玟数年前患上抑郁症](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E6%95%B0%E5%B9%B4%E5%89%8D%E6%82%A3%E4%B8%8A%E6%8A%91%E9%83%81%E7%97%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [淄博烧烤“凉”了？](https://www.baidu.com/s?wd=%E6%B7%84%E5%8D%9A%E7%83%A7%E7%83%A4%E2%80%9C%E5%87%89%E2%80%9D%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [因未见到普京大哭的女孩获邀到克宫](https://www.baidu.com/s?wd=%E5%9B%A0%E6%9C%AA%E8%A7%81%E5%88%B0%E6%99%AE%E4%BA%AC%E5%A4%A7%E5%93%AD%E7%9A%84%E5%A5%B3%E5%AD%A9%E8%8E%B7%E9%82%80%E5%88%B0%E5%85%8B%E5%AE%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [就业形势总体稳定](https://www.baidu.com/s?wd=%E5%B0%B1%E4%B8%9A%E5%BD%A2%E5%8A%BF%E6%80%BB%E4%BD%93%E7%A8%B3%E5%AE%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [李玟轻生当天还在给粉丝发语音](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E8%BD%BB%E7%94%9F%E5%BD%93%E5%A4%A9%E8%BF%98%E5%9C%A8%E7%BB%99%E7%B2%89%E4%B8%9D%E5%8F%91%E8%AF%AD%E9%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [爱笑的人也可能得抑郁症](https://www.baidu.com/s?wd=%E7%88%B1%E7%AC%91%E7%9A%84%E4%BA%BA%E4%B9%9F%E5%8F%AF%E8%83%BD%E5%BE%97%E6%8A%91%E9%83%81%E7%97%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李玟80岁母亲最先发现女儿轻生](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F80%E5%B2%81%E6%AF%8D%E4%BA%B2%E6%9C%80%E5%85%88%E5%8F%91%E7%8E%B0%E5%A5%B3%E5%84%BF%E8%BD%BB%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [#众星发文悼念李玟#](https://www.baidu.com/s?wd=%23%E4%BC%97%E6%98%9F%E5%8F%91%E6%96%87%E6%82%BC%E5%BF%B5%E6%9D%8E%E7%8E%9F%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [李玟为世界奉献好心情到最后一刻](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E4%B8%BA%E4%B8%96%E7%95%8C%E5%A5%89%E7%8C%AE%E5%A5%BD%E5%BF%83%E6%83%85%E5%88%B0%E6%9C%80%E5%90%8E%E4%B8%80%E5%88%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [微笑抑郁症](https://www.baidu.com/s?wd=%E5%BE%AE%E7%AC%91%E6%8A%91%E9%83%81%E7%97%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [港媒：李玟疑割腕自杀 未写遗书](https://www.baidu.com/s?wd=%E6%B8%AF%E5%AA%92%EF%BC%9A%E6%9D%8E%E7%8E%9F%E7%96%91%E5%89%B2%E8%85%95%E8%87%AA%E6%9D%80+%E6%9C%AA%E5%86%99%E9%81%97%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [韩红首次公开回应被举报](https://www.baidu.com/s?wd=%E9%9F%A9%E7%BA%A2%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80%E5%9B%9E%E5%BA%94%E8%A2%AB%E4%B8%BE%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [兰博基尼燃油车被抢购一空](https://www.baidu.com/s?wd=%E5%85%B0%E5%8D%9A%E5%9F%BA%E5%B0%BC%E7%87%83%E6%B2%B9%E8%BD%A6%E8%A2%AB%E6%8A%A2%E8%B4%AD%E4%B8%80%E7%A9%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [坚守好这个魂和根](https://www.baidu.com/s?wd=%E5%9D%9A%E5%AE%88%E5%A5%BD%E8%BF%99%E4%B8%AA%E9%AD%82%E5%92%8C%E6%A0%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [#歌手李玟去世#](https://www.baidu.com/s?wd=%23%E6%AD%8C%E6%89%8B%E6%9D%8E%E7%8E%9F%E5%8E%BB%E4%B8%96%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [李玟数年前患上抑郁症](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E6%95%B0%E5%B9%B4%E5%89%8D%E6%82%A3%E4%B8%8A%E6%8A%91%E9%83%81%E7%97%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [淄博烧烤“凉”了？](https://www.baidu.com/s?wd=%E6%B7%84%E5%8D%9A%E7%83%A7%E7%83%A4%E2%80%9C%E5%87%89%E2%80%9D%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [因未见到普京大哭的女孩获邀到克宫](https://www.baidu.com/s?wd=%E5%9B%A0%E6%9C%AA%E8%A7%81%E5%88%B0%E6%99%AE%E4%BA%AC%E5%A4%A7%E5%93%AD%E7%9A%84%E5%A5%B3%E5%AD%A9%E8%8E%B7%E9%82%80%E5%88%B0%E5%85%8B%E5%AE%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [就业形势总体稳定](https://www.baidu.com/s?wd=%E5%B0%B1%E4%B8%9A%E5%BD%A2%E5%8A%BF%E6%80%BB%E4%BD%93%E7%A8%B3%E5%AE%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [李玟轻生当天还在给粉丝发语音](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E8%BD%BB%E7%94%9F%E5%BD%93%E5%A4%A9%E8%BF%98%E5%9C%A8%E7%BB%99%E7%B2%89%E4%B8%9D%E5%8F%91%E8%AF%AD%E9%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [爱笑的人也可能得抑郁症](https://www.baidu.com/s?wd=%E7%88%B1%E7%AC%91%E7%9A%84%E4%BA%BA%E4%B9%9F%E5%8F%AF%E8%83%BD%E5%BE%97%E6%8A%91%E9%83%81%E7%97%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李玟80岁母亲最先发现女儿轻生](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F80%E5%B2%81%E6%AF%8D%E4%BA%B2%E6%9C%80%E5%85%88%E5%8F%91%E7%8E%B0%E5%A5%B3%E5%84%BF%E8%BD%BB%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [#众星发文悼念李玟#](https://www.baidu.com/s?wd=%23%E4%BC%97%E6%98%9F%E5%8F%91%E6%96%87%E6%82%BC%E5%BF%B5%E6%9D%8E%E7%8E%9F%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [李玟为世界奉献好心情到最后一刻](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E4%B8%BA%E4%B8%96%E7%95%8C%E5%A5%89%E7%8C%AE%E5%A5%BD%E5%BF%83%E6%83%85%E5%88%B0%E6%9C%80%E5%90%8E%E4%B8%80%E5%88%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [微笑抑郁症](https://www.baidu.com/s?wd=%E5%BE%AE%E7%AC%91%E6%8A%91%E9%83%81%E7%97%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [港媒：李玟疑割腕自杀 未写遗书](https://www.baidu.com/s?wd=%E6%B8%AF%E5%AA%92%EF%BC%9A%E6%9D%8E%E7%8E%9F%E7%96%91%E5%89%B2%E8%85%95%E8%87%AA%E6%9D%80+%E6%9C%AA%E5%86%99%E9%81%97%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [韩红首次公开回应被举报](https://www.baidu.com/s?wd=%E9%9F%A9%E7%BA%A2%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80%E5%9B%9E%E5%BA%94%E8%A2%AB%E4%B8%BE%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [兰博基尼燃油车被抢购一空](https://www.baidu.com/s?wd=%E5%85%B0%E5%8D%9A%E5%9F%BA%E5%B0%BC%E7%87%83%E6%B2%B9%E8%BD%A6%E8%A2%AB%E6%8A%A2%E8%B4%AD%E4%B8%80%E7%A9%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
