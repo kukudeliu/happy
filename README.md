@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 10:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 10:35:01</h4></div>
 
 > 微博  
 
-1. [当老公知道前男友随礼5000](https://s.weibo.com/weibo?q=%23%E5%BD%93%E8%80%81%E5%85%AC%E7%9F%A5%E9%81%93%E5%89%8D%E7%94%B7%E5%8F%8B%E9%9A%8F%E7%A4%BC5000%23&t=31&band_rank=1&Refer=top)<br />
-2. [阿雅毛发及尿液检测报告](https://s.weibo.com/weibo?q=%23%E9%98%BF%E9%9B%85%E6%AF%9B%E5%8F%91%E5%8F%8A%E5%B0%BF%E6%B6%B2%E6%A3%80%E6%B5%8B%E6%8A%A5%E5%91%8A%23&t=31&band_rank=2&Refer=top)<br />
+1. [阿雅毛发及尿液检测报告](https://s.weibo.com/weibo?q=%23%E9%98%BF%E9%9B%85%E6%AF%9B%E5%8F%91%E5%8F%8A%E5%B0%BF%E6%B6%B2%E6%A3%80%E6%B5%8B%E6%8A%A5%E5%91%8A%23&t=31&band_rank=1&Refer=top)<br />
+2. [当老公知道前男友随礼5000](https://s.weibo.com/weibo?q=%23%E5%BD%93%E8%80%81%E5%85%AC%E7%9F%A5%E9%81%93%E5%89%8D%E7%94%B7%E5%8F%8B%E9%9A%8F%E7%A4%BC5000%23&t=31&band_rank=2&Refer=top)<br />
 3. [这段交通安全宣传片看得有点上头](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%AE%B5%E4%BA%A4%E9%80%9A%E5%AE%89%E5%85%A8%E5%AE%A3%E4%BC%A0%E7%89%87%E7%9C%8B%E5%BE%97%E6%9C%89%E7%82%B9%E4%B8%8A%E5%A4%B4%23&t=31&band_rank=3&Refer=top)<br />
 4. [美国女网红直播睡觉月入1447万](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A5%B3%E7%BD%91%E7%BA%A2%E7%9B%B4%E6%92%AD%E7%9D%A1%E8%A7%89%E6%9C%88%E5%85%A51447%E4%B8%87%23&t=31&band_rank=4&Refer=top)<br />
 5. [工作八年的工资被父母拿走](https://s.weibo.com/weibo?q=%23%E5%B7%A5%E4%BD%9C%E5%85%AB%E5%B9%B4%E7%9A%84%E5%B7%A5%E8%B5%84%E8%A2%AB%E7%88%B6%E6%AF%8D%E6%8B%BF%E8%B5%B0%23&t=31&band_rank=5&Refer=top)<br />
