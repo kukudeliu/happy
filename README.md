@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 20:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 20:34:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [谁给杨幂做的发型](https://s.weibo.com/weibo?q=%23%E8%B0%81%E7%BB%99%E6%9D%A8%E5%B9%82%E5%81%9A%E7%9A%84%E5%8F%91%E5%9E%8B%23&t=31&band_rank=5&Refer=top)<br />
 6. [papi酱 如果看剧也是一门课](https://s.weibo.com/weibo?q=papi%E9%85%B1%20%E5%A6%82%E6%9E%9C%E7%9C%8B%E5%89%A7%E4%B9%9F%E6%98%AF%E4%B8%80%E9%97%A8%E8%AF%BE&t=31&band_rank=6&Refer=top)<br />
 7. [硕士毕业10年被查出论文剽窃](https://s.weibo.com/weibo?q=%23%E7%A1%95%E5%A3%AB%E6%AF%95%E4%B8%9A10%E5%B9%B4%E8%A2%AB%E6%9F%A5%E5%87%BA%E8%AE%BA%E6%96%87%E5%89%BD%E7%AA%83%23&t=31&band_rank=7&Refer=top)<br />
-8. [肖战最有cp感的女主](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%9C%80%E6%9C%89cp%E6%84%9F%E7%9A%84%E5%A5%B3%E4%B8%BB%23&t=31&band_rank=8&Refer=top)<br />
+8. [刘昊然露额头好帅](https://s.weibo.com/weibo?q=%23%E5%88%98%E6%98%8A%E7%84%B6%E9%9C%B2%E9%A2%9D%E5%A4%B4%E5%A5%BD%E5%B8%85%23&t=31&band_rank=8&Refer=top)<br />
 9. [断崖式分手](https://s.weibo.com/weibo?q=%E6%96%AD%E5%B4%96%E5%BC%8F%E5%88%86%E6%89%8B&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -34,7 +34,7 @@
 6. [女子不穿内裤试衣隔天要求退换遭拒](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%8D%E7%A9%BF%E5%86%85%E8%A3%A4%E8%AF%95%E8%A1%A3%E9%9A%94%E5%A4%A9%E8%A6%81%E6%B1%82%E9%80%80%E6%8D%A2%E9%81%AD%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [兰博基尼燃油车被抢购一空](https://www.baidu.com/s?wd=%E5%85%B0%E5%8D%9A%E5%9F%BA%E5%B0%BC%E7%87%83%E6%B2%B9%E8%BD%A6%E8%A2%AB%E6%8A%A2%E8%B4%AD%E4%B8%80%E7%A9%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女子花盆里种出2.5米高向日葵](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B1%E7%9B%86%E9%87%8C%E7%A7%8D%E5%87%BA2.5%E7%B1%B3%E9%AB%98%E5%90%91%E6%97%A5%E8%91%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [成都一公园开出红黄对称双色睡莲](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E4%B8%80%E5%85%AC%E5%9B%AD%E5%BC%80%E5%87%BA%E7%BA%A2%E9%BB%84%E5%AF%B9%E7%A7%B0%E5%8F%8C%E8%89%B2%E7%9D%A1%E8%8E%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [继母涉嫌虐待继女致其残疾](https://www.baidu.com/s?wd=%E7%BB%A7%E6%AF%8D%E6%B6%89%E5%AB%8C%E8%99%90%E5%BE%85%E7%BB%A7%E5%A5%B3%E8%87%B4%E5%85%B6%E6%AE%8B%E7%96%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [女子不穿内裤试衣隔天要求退换遭拒](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%8D%E7%A9%BF%E5%86%85%E8%A3%A4%E8%AF%95%E8%A1%A3%E9%9A%94%E5%A4%A9%E8%A6%81%E6%B1%82%E9%80%80%E6%8D%A2%E9%81%AD%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [兰博基尼燃油车被抢购一空](https://www.baidu.com/s?wd=%E5%85%B0%E5%8D%9A%E5%9F%BA%E5%B0%BC%E7%87%83%E6%B2%B9%E8%BD%A6%E8%A2%AB%E6%8A%A2%E8%B4%AD%E4%B8%80%E7%A9%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女子花盆里种出2.5米高向日葵](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B1%E7%9B%86%E9%87%8C%E7%A7%8D%E5%87%BA2.5%E7%B1%B3%E9%AB%98%E5%90%91%E6%97%A5%E8%91%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [成都一公园开出红黄对称双色睡莲](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E4%B8%80%E5%85%AC%E5%9B%AD%E5%BC%80%E5%87%BA%E7%BA%A2%E9%BB%84%E5%AF%B9%E7%A7%B0%E5%8F%8C%E8%89%B2%E7%9D%A1%E8%8E%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [继母涉嫌虐待继女致其残疾](https://www.baidu.com/s?wd=%E7%BB%A7%E6%AF%8D%E6%B6%89%E5%AB%8C%E8%99%90%E5%BE%85%E7%BB%A7%E5%A5%B3%E8%87%B4%E5%85%B6%E6%AE%8B%E7%96%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
