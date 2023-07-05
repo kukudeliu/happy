@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 11:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 11:54:01</h4></div>
 
 > 微博  
 
@@ -32,9 +32,9 @@
 4. [江风海韵绘就生态美](https://www.baidu.com/s?wd=%E6%B1%9F%E9%A3%8E%E6%B5%B7%E9%9F%B5%E7%BB%98%E5%B0%B1%E7%94%9F%E6%80%81%E7%BE%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男生恶意篡改同学高考志愿被行拘](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E6%81%B6%E6%84%8F%E7%AF%A1%E6%94%B9%E5%90%8C%E5%AD%A6%E9%AB%98%E8%80%83%E5%BF%97%E6%84%BF%E8%A2%AB%E8%A1%8C%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [13岁男孩被篮球架砸中身亡](https://www.baidu.com/s?wd=13%E5%B2%81%E7%94%B7%E5%AD%A9%E8%A2%AB%E7%AF%AE%E7%90%83%E6%9E%B6%E7%A0%B8%E4%B8%AD%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女生用一个鱼缸做出海市蜃楼](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E7%94%A8%E4%B8%80%E4%B8%AA%E9%B1%BC%E7%BC%B8%E5%81%9A%E5%87%BA%E6%B5%B7%E5%B8%82%E8%9C%83%E6%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [学生去世俩月家属不知死因 高校回应](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E5%8E%BB%E4%B8%96%E4%BF%A9%E6%9C%88%E5%AE%B6%E5%B1%9E%E4%B8%8D%E7%9F%A5%E6%AD%BB%E5%9B%A0+%E9%AB%98%E6%A0%A1%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [官方回应李克勤补选为茂名人大代表](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E6%9D%8E%E5%85%8B%E5%8B%A4%E8%A1%A5%E9%80%89%E4%B8%BA%E8%8C%82%E5%90%8D%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [姚明：冲击奥运会是今年头等任务](https://www.baidu.com/s?wd=%E5%A7%9A%E6%98%8E%EF%BC%9A%E5%86%B2%E5%87%BB%E5%A5%A5%E8%BF%90%E4%BC%9A%E6%98%AF%E4%BB%8A%E5%B9%B4%E5%A4%B4%E7%AD%89%E4%BB%BB%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女生用一个鱼缸做出海市蜃楼](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E7%94%A8%E4%B8%80%E4%B8%AA%E9%B1%BC%E7%BC%B8%E5%81%9A%E5%87%BA%E6%B5%B7%E5%B8%82%E8%9C%83%E6%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [江风海韵绘就生态美](https://www.baidu.com/s?wd=%E6%B1%9F%E9%A3%8E%E6%B5%B7%E9%9F%B5%E7%BB%98%E5%B0%B1%E7%94%9F%E6%80%81%E7%BE%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男生恶意篡改同学高考志愿被行拘](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E6%81%B6%E6%84%8F%E7%AF%A1%E6%94%B9%E5%90%8C%E5%AD%A6%E9%AB%98%E8%80%83%E5%BF%97%E6%84%BF%E8%A2%AB%E8%A1%8C%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [13岁男孩被篮球架砸中身亡](https://www.baidu.com/s?wd=13%E5%B2%81%E7%94%B7%E5%AD%A9%E8%A2%AB%E7%AF%AE%E7%90%83%E6%9E%B6%E7%A0%B8%E4%B8%AD%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女生用一个鱼缸做出海市蜃楼](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E7%94%A8%E4%B8%80%E4%B8%AA%E9%B1%BC%E7%BC%B8%E5%81%9A%E5%87%BA%E6%B5%B7%E5%B8%82%E8%9C%83%E6%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [学生去世俩月家属不知死因 高校回应](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E5%8E%BB%E4%B8%96%E4%BF%A9%E6%9C%88%E5%AE%B6%E5%B1%9E%E4%B8%8D%E7%9F%A5%E6%AD%BB%E5%9B%A0+%E9%AB%98%E6%A0%A1%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [官方回应李克勤补选为茂名人大代表](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E6%9D%8E%E5%85%8B%E5%8B%A4%E8%A1%A5%E9%80%89%E4%B8%BA%E8%8C%82%E5%90%8D%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [姚明：冲击奥运会是今年头等任务](https://www.baidu.com/s?wd=%E5%A7%9A%E6%98%8E%EF%BC%9A%E5%86%B2%E5%87%BB%E5%A5%A5%E8%BF%90%E4%BC%9A%E6%98%AF%E4%BB%8A%E5%B9%B4%E5%A4%B4%E7%AD%89%E4%BB%BB%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女生用一个鱼缸做出海市蜃楼](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E7%94%A8%E4%B8%80%E4%B8%AA%E9%B1%BC%E7%BC%B8%E5%81%9A%E5%87%BA%E6%B5%B7%E5%B8%82%E8%9C%83%E6%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
