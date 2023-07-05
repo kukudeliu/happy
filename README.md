@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 22:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 22:29:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [如何看待起售价为 1399 元起的荣耀 X50 ？有哪些亮点和不足？](https://www.zhihu.com/question/610537841)<br />
 6. [重庆万州区遭暴雨袭击，因灾死亡 15 人，失踪 4 人，目前情况如何？](https://www.zhihu.com/question/610456313)<br />
 7. [2023 LPL 夏季赛 BLG 2:0 击败 TES，如何评价这场比赛？](https://www.zhihu.com/question/610514738)<br />
-8. [中南大学一校友「匿名」向母校捐赠六亿元，校方回应「校友不愿出名想做实在事」，将会产生哪些社会影响？](https://www.zhihu.com/question/610238278)<br />
-9. [如何评价理想汽车官方回应 10 条质疑，从专业角度看真实性如何？](https://www.zhihu.com/question/610442905)<br />
+8. [如何评价理想汽车官方回应 10 条质疑，从专业角度看真实性如何？](https://www.zhihu.com/question/610442905)<br />
+9. [2023 年前端流行什么技术和框架了？](https://www.zhihu.com/question/609395923)<br />
 
 > 百度  
 
@@ -32,9 +32,9 @@
 4. [就业形势总体稳定](https://www.baidu.com/s?wd=%E5%B0%B1%E4%B8%9A%E5%BD%A2%E5%8A%BF%E6%80%BB%E4%BD%93%E7%A8%B3%E5%AE%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [航拍暴雨后重庆：江滩公园成江心岛](https://www.baidu.com/s?wd=%E8%88%AA%E6%8B%8D%E6%9A%B4%E9%9B%A8%E5%90%8E%E9%87%8D%E5%BA%86%EF%BC%9A%E6%B1%9F%E6%BB%A9%E5%85%AC%E5%9B%AD%E6%88%90%E6%B1%9F%E5%BF%83%E5%B2%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李玟轻生当天还在给粉丝发语音](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E8%BD%BB%E7%94%9F%E5%BD%93%E5%A4%A9%E8%BF%98%E5%9C%A8%E7%BB%99%E7%B2%89%E4%B8%9D%E5%8F%91%E8%AF%AD%E9%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [韩红首次公开回应被举报](https://www.baidu.com/s?wd=%E9%9F%A9%E7%BA%A2%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80%E5%9B%9E%E5%BA%94%E8%A2%AB%E4%B8%BE%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [淄博烧烤“凉”了？](https://www.baidu.com/s?wd=%E6%B7%84%E5%8D%9A%E7%83%A7%E7%83%A4%E2%80%9C%E5%87%89%E2%80%9D%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [记者质问IAEA是否收日本100万欧元](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E8%B4%A8%E9%97%AEIAEA%E6%98%AF%E5%90%A6%E6%94%B6%E6%97%A5%E6%9C%AC100%E4%B8%87%E6%AC%A7%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男孩玩水陷沙坑2男子捕鱼式救人](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E7%8E%A9%E6%B0%B4%E9%99%B7%E6%B2%99%E5%9D%912%E7%94%B7%E5%AD%90%E6%8D%95%E9%B1%BC%E5%BC%8F%E6%95%91%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [商务部原副部长：中国反制工具很多](https://www.baidu.com/s?wd=%E5%95%86%E5%8A%A1%E9%83%A8%E5%8E%9F%E5%89%AF%E9%83%A8%E9%95%BF%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%8F%8D%E5%88%B6%E5%B7%A5%E5%85%B7%E5%BE%88%E5%A4%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [媒体评将毕业生出国留学列为罪状](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E5%B0%86%E6%AF%95%E4%B8%9A%E7%94%9F%E5%87%BA%E5%9B%BD%E7%95%99%E5%AD%A6%E5%88%97%E4%B8%BA%E7%BD%AA%E7%8A%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [就业形势总体稳定](https://www.baidu.com/s?wd=%E5%B0%B1%E4%B8%9A%E5%BD%A2%E5%8A%BF%E6%80%BB%E4%BD%93%E7%A8%B3%E5%AE%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [航拍暴雨后重庆：江滩公园成江心岛](https://www.baidu.com/s?wd=%E8%88%AA%E6%8B%8D%E6%9A%B4%E9%9B%A8%E5%90%8E%E9%87%8D%E5%BA%86%EF%BC%9A%E6%B1%9F%E6%BB%A9%E5%85%AC%E5%9B%AD%E6%88%90%E6%B1%9F%E5%BF%83%E5%B2%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李玟轻生当天还在给粉丝发语音](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E8%BD%BB%E7%94%9F%E5%BD%93%E5%A4%A9%E8%BF%98%E5%9C%A8%E7%BB%99%E7%B2%89%E4%B8%9D%E5%8F%91%E8%AF%AD%E9%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [韩红首次公开回应被举报](https://www.baidu.com/s?wd=%E9%9F%A9%E7%BA%A2%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80%E5%9B%9E%E5%BA%94%E8%A2%AB%E4%B8%BE%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [淄博烧烤“凉”了？](https://www.baidu.com/s?wd=%E6%B7%84%E5%8D%9A%E7%83%A7%E7%83%A4%E2%80%9C%E5%87%89%E2%80%9D%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [记者质问IAEA是否收日本100万欧元](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E8%B4%A8%E9%97%AEIAEA%E6%98%AF%E5%90%A6%E6%94%B6%E6%97%A5%E6%9C%AC100%E4%B8%87%E6%AC%A7%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男孩玩水陷沙坑2男子捕鱼式救人](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E7%8E%A9%E6%B0%B4%E9%99%B7%E6%B2%99%E5%9D%912%E7%94%B7%E5%AD%90%E6%8D%95%E9%B1%BC%E5%BC%8F%E6%95%91%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [商务部原副部长：中国反制工具很多](https://www.baidu.com/s?wd=%E5%95%86%E5%8A%A1%E9%83%A8%E5%8E%9F%E5%89%AF%E9%83%A8%E9%95%BF%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%8F%8D%E5%88%B6%E5%B7%A5%E5%85%B7%E5%BE%88%E5%A4%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [媒体评将毕业生出国留学列为罪状](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E5%B0%86%E6%AF%95%E4%B8%9A%E7%94%9F%E5%87%BA%E5%9B%BD%E7%95%99%E5%AD%A6%E5%88%97%E4%B8%BA%E7%BD%AA%E7%8A%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
