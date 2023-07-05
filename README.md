@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 11:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 11:21:01</h4></div>
 
 > 微博  
 
-1. [阿雅毛发及尿液检测报告](https://s.weibo.com/weibo?q=%23%E9%98%BF%E9%9B%85%E6%AF%9B%E5%8F%91%E5%8F%8A%E5%B0%BF%E6%B6%B2%E6%A3%80%E6%B5%8B%E6%8A%A5%E5%91%8A%23&t=31&band_rank=1&Refer=top)<br />
+1. [阿雅工作室发检测报告](https://s.weibo.com/weibo?q=%E9%98%BF%E9%9B%85%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%8F%91%E6%A3%80%E6%B5%8B%E6%8A%A5%E5%91%8A&t=31&band_rank=1&Refer=top)<br />
 2. [原副市长妻子打人耳光成习惯](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E5%89%AF%E5%B8%82%E9%95%BF%E5%A6%BB%E5%AD%90%E6%89%93%E4%BA%BA%E8%80%B3%E5%85%89%E6%88%90%E4%B9%A0%E6%83%AF%23&t=31&band_rank=2&Refer=top)<br />
 3. [这段交通安全宣传片看得有点上头](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%AE%B5%E4%BA%A4%E9%80%9A%E5%AE%89%E5%85%A8%E5%AE%A3%E4%BC%A0%E7%89%87%E7%9C%8B%E5%BE%97%E6%9C%89%E7%82%B9%E4%B8%8A%E5%A4%B4%23&t=31&band_rank=3&Refer=top)<br />
 4. [倪妮在干什么](https://s.weibo.com/weibo?q=%E5%80%AA%E5%A6%AE%E5%9C%A8%E5%B9%B2%E4%BB%80%E4%B9%88&t=31&band_rank=4&Refer=top)<br />
 5. [当老公知道前男友随礼5000](https://s.weibo.com/weibo?q=%23%E5%BD%93%E8%80%81%E5%85%AC%E7%9F%A5%E9%81%93%E5%89%8D%E7%94%B7%E5%8F%8B%E9%9A%8F%E7%A4%BC5000%23&t=31&band_rank=5&Refer=top)<br />
 6. [工作八年的工资被父母拿走](https://s.weibo.com/weibo?q=%23%E5%B7%A5%E4%BD%9C%E5%85%AB%E5%B9%B4%E7%9A%84%E5%B7%A5%E8%B5%84%E8%A2%AB%E7%88%B6%E6%AF%8D%E6%8B%BF%E8%B5%B0%23&t=31&band_rank=6&Refer=top)<br />
 7. [舞台2023歌手阵容官宣](https://s.weibo.com/weibo?q=%23%E8%88%9E%E5%8F%B02023%E6%AD%8C%E6%89%8B%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3%23&t=31&band_rank=7&Refer=top)<br />
-8. [学生恶意篡改同学高考志愿被行拘](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E6%81%B6%E6%84%8F%E7%AF%A1%E6%94%B9%E5%90%8C%E5%AD%A6%E9%AB%98%E8%80%83%E5%BF%97%E6%84%BF%E8%A2%AB%E8%A1%8C%E6%8B%98%23&t=31&band_rank=8&Refer=top)<br />
-9. [iPhone15系列电池容量曝光](https://s.weibo.com/weibo?q=%23iPhone15%E7%B3%BB%E5%88%97%E7%94%B5%E6%B1%A0%E5%AE%B9%E9%87%8F%E6%9B%9D%E5%85%89%23&t=31&band_rank=9&Refer=top)<br />
+8. [赵丽颖张睿演过新还珠格格](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%BC%A0%E7%9D%BF%E6%BC%94%E8%BF%87%E6%96%B0%E8%BF%98%E7%8F%A0%E6%A0%BC%E6%A0%BC%23&t=31&band_rank=8&Refer=top)<br />
+9. [学生恶意篡改同学高考志愿被行拘](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E6%81%B6%E6%84%8F%E7%AF%A1%E6%94%B9%E5%90%8C%E5%AD%A6%E9%AB%98%E8%80%83%E5%BF%97%E6%84%BF%E8%A2%AB%E8%A1%8C%E6%8B%98%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
