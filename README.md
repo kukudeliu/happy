@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 05:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 05:35:01</h4></div>
 
 > 微博  
 
 1. [李玟80岁母亲首先发现女儿在寓所轻生](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F80%E5%B2%81%E6%AF%8D%E4%BA%B2%E9%A6%96%E5%85%88%E5%8F%91%E7%8E%B0%E5%A5%B3%E5%84%BF%E5%9C%A8%E5%AF%93%E6%89%80%E8%BD%BB%E7%94%9F%23&t=31&band_rank=1&Refer=top)<br />
 2. [李玟老公](https://s.weibo.com/weibo?q=%E6%9D%8E%E7%8E%9F%E8%80%81%E5%85%AC&t=31&band_rank=2&Refer=top)<br />
 3. [世界最早印花工具做出的汉服有多美](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9C%80%E6%97%A9%E5%8D%B0%E8%8A%B1%E5%B7%A5%E5%85%B7%E5%81%9A%E5%87%BA%E7%9A%84%E6%B1%89%E6%9C%8D%E6%9C%89%E5%A4%9A%E7%BE%8E%23&t=31&band_rank=3&Refer=top)<br />
-4. [李玟去世](https://s.weibo.com/weibo?q=%E6%9D%8E%E7%8E%9F%E5%8E%BB%E4%B8%96&t=31&band_rank=4&Refer=top)<br />
-5. [李玟生前曾完全失声](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E7%94%9F%E5%89%8D%E6%9B%BE%E5%AE%8C%E5%85%A8%E5%A4%B1%E5%A3%B0%23&t=31&band_rank=5&Refer=top)<br />
+4. [李玟生前曾完全失声](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E7%94%9F%E5%89%8D%E6%9B%BE%E5%AE%8C%E5%85%A8%E5%A4%B1%E5%A3%B0%23&t=31&band_rank=4&Refer=top)<br />
+5. [李玟去世](https://s.weibo.com/weibo?q=%E6%9D%8E%E7%8E%9F%E5%8E%BB%E4%B8%96&t=31&band_rank=5&Refer=top)<br />
 6. [萧亚轩 她是我永远的天后](https://s.weibo.com/weibo?q=%E8%90%A7%E4%BA%9A%E8%BD%A9%20%E5%A5%B9%E6%98%AF%E6%88%91%E6%B0%B8%E8%BF%9C%E7%9A%84%E5%A4%A9%E5%90%8E&t=31&band_rank=6&Refer=top)<br />
 7. [抑郁症不是情绪问题](https://s.weibo.com/weibo?q=%23%E6%8A%91%E9%83%81%E7%97%87%E4%B8%8D%E6%98%AF%E6%83%85%E7%BB%AA%E9%97%AE%E9%A2%98%23&t=31&band_rank=7&Refer=top)<br />
 8. [偷拿同学20元男孩被妈妈带去派出所自首](https://s.weibo.com/weibo?q=%23%E5%81%B7%E6%8B%BF%E5%90%8C%E5%AD%A620%E5%85%83%E7%94%B7%E5%AD%A9%E8%A2%AB%E5%A6%88%E5%A6%88%E5%B8%A6%E5%8E%BB%E6%B4%BE%E5%87%BA%E6%89%80%E8%87%AA%E9%A6%96%23&t=31&band_rank=8&Refer=top)<br />
@@ -34,7 +34,7 @@
 6. [微笑抑郁症](https://www.baidu.com/s?wd=%E5%BE%AE%E7%AC%91%E6%8A%91%E9%83%81%E7%97%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [港媒：李玟疑割腕自杀 未写遗书](https://www.baidu.com/s?wd=%E6%B8%AF%E5%AA%92%EF%BC%9A%E6%9D%8E%E7%8E%9F%E7%96%91%E5%89%B2%E8%85%95%E8%87%AA%E6%9D%80+%E6%9C%AA%E5%86%99%E9%81%97%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [兰博基尼燃油车被抢购一空](https://www.baidu.com/s?wd=%E5%85%B0%E5%8D%9A%E5%9F%BA%E5%B0%BC%E7%87%83%E6%B2%B9%E8%BD%A6%E8%A2%AB%E6%8A%A2%E8%B4%AD%E4%B8%80%E7%A9%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [塔利班要求阿富汗女子美容院全关停](https://www.baidu.com/s?wd=%E5%A1%94%E5%88%A9%E7%8F%AD%E8%A6%81%E6%B1%82%E9%98%BF%E5%AF%8C%E6%B1%97%E5%A5%B3%E5%AD%90%E7%BE%8E%E5%AE%B9%E9%99%A2%E5%85%A8%E5%85%B3%E5%81%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [韩红首次公开回应被举报](https://www.baidu.com/s?wd=%E9%9F%A9%E7%BA%A2%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80%E5%9B%9E%E5%BA%94%E8%A2%AB%E4%B8%BE%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [微笑抑郁症](https://www.baidu.com/s?wd=%E5%BE%AE%E7%AC%91%E6%8A%91%E9%83%81%E7%97%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [港媒：李玟疑割腕自杀 未写遗书](https://www.baidu.com/s?wd=%E6%B8%AF%E5%AA%92%EF%BC%9A%E6%9D%8E%E7%8E%9F%E7%96%91%E5%89%B2%E8%85%95%E8%87%AA%E6%9D%80+%E6%9C%AA%E5%86%99%E9%81%97%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [兰博基尼燃油车被抢购一空](https://www.baidu.com/s?wd=%E5%85%B0%E5%8D%9A%E5%9F%BA%E5%B0%BC%E7%87%83%E6%B2%B9%E8%BD%A6%E8%A2%AB%E6%8A%A2%E8%B4%AD%E4%B8%80%E7%A9%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [塔利班要求阿富汗女子美容院全关停](https://www.baidu.com/s?wd=%E5%A1%94%E5%88%A9%E7%8F%AD%E8%A6%81%E6%B1%82%E9%98%BF%E5%AF%8C%E6%B1%97%E5%A5%B3%E5%AD%90%E7%BE%8E%E5%AE%B9%E9%99%A2%E5%85%A8%E5%85%B3%E5%81%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [韩红首次公开回应被举报](https://www.baidu.com/s?wd=%E9%9F%A9%E7%BA%A2%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80%E5%9B%9E%E5%BA%94%E8%A2%AB%E4%B8%BE%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
