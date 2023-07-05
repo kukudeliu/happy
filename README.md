@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 03:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 03:45:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [微笑抑郁症](https://www.baidu.com/s?wd=%E5%BE%AE%E7%AC%91%E6%8A%91%E9%83%81%E7%97%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [港媒：李玟疑割腕自杀 未写遗书](https://www.baidu.com/s?wd=%E6%B8%AF%E5%AA%92%EF%BC%9A%E6%9D%8E%E7%8E%9F%E7%96%91%E5%89%B2%E8%85%95%E8%87%AA%E6%9D%80+%E6%9C%AA%E5%86%99%E9%81%97%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [抑郁症有多可怕](https://www.baidu.com/s?wd=%E6%8A%91%E9%83%81%E7%97%87%E6%9C%89%E5%A4%9A%E5%8F%AF%E6%80%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子半夜拍蚊子走出158步吓坏母亲](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%8D%8A%E5%A4%9C%E6%8B%8D%E8%9A%8A%E5%AD%90%E8%B5%B0%E5%87%BA158%E6%AD%A5%E5%90%93%E5%9D%8F%E6%AF%8D%E4%BA%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [私家车开上火车站站台？深圳站道歉](https://www.baidu.com/s?wd=%E7%A7%81%E5%AE%B6%E8%BD%A6%E5%BC%80%E4%B8%8A%E7%81%AB%E8%BD%A6%E7%AB%99%E7%AB%99%E5%8F%B0%EF%BC%9F%E6%B7%B1%E5%9C%B3%E7%AB%99%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [微笑抑郁症](https://www.baidu.com/s?wd=%E5%BE%AE%E7%AC%91%E6%8A%91%E9%83%81%E7%97%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [港媒：李玟疑割腕自杀 未写遗书](https://www.baidu.com/s?wd=%E6%B8%AF%E5%AA%92%EF%BC%9A%E6%9D%8E%E7%8E%9F%E7%96%91%E5%89%B2%E8%85%95%E8%87%AA%E6%9D%80+%E6%9C%AA%E5%86%99%E9%81%97%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [抑郁症有多可怕](https://www.baidu.com/s?wd=%E6%8A%91%E9%83%81%E7%97%87%E6%9C%89%E5%A4%9A%E5%8F%AF%E6%80%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子半夜拍蚊子走出158步吓坏母亲](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%8D%8A%E5%A4%9C%E6%8B%8D%E8%9A%8A%E5%AD%90%E8%B5%B0%E5%87%BA158%E6%AD%A5%E5%90%93%E5%9D%8F%E6%AF%8D%E4%BA%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [私家车开上火车站站台？深圳站道歉](https://www.baidu.com/s?wd=%E7%A7%81%E5%AE%B6%E8%BD%A6%E5%BC%80%E4%B8%8A%E7%81%AB%E8%BD%A6%E7%AB%99%E7%AB%99%E5%8F%B0%EF%BC%9F%E6%B7%B1%E5%9C%B3%E7%AB%99%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
