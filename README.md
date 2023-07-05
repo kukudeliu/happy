@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 21:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 21:12:01</h4></div>
 
 > 微博  
 
@@ -20,8 +20,8 @@
 4. [如何评价王宝强执导的电影《八角笼中》？](https://www.zhihu.com/question/603748979)<br />
 5. [中国陷入资产负债表衰退是真相还是噱头？](https://www.zhihu.com/theater/97424)<br />
 6. [报道称欧盟外长博雷利原定下周访华被中方取消，外交部称愿同欧方继续保持沟通，取消原因是什么？如何解读？](https://www.zhihu.com/question/610463055)<br />
-7. [调查称超 7 成年轻人存款不足 10 万，超 5 成存 50 至 200 万考虑退休，如何看待此数据？](https://www.zhihu.com/question/610224300)<br />
-8. [假如一只被特别娇惯的猫突然失去主人，能适应以后的生活吗？](https://www.zhihu.com/question/609779217)<br />
+7. [假如一只被特别娇惯的猫突然失去主人，能适应以后的生活吗？](https://www.zhihu.com/question/609779217)<br />
+8. [调查称超 7 成年轻人存款不足 10 万，超 5 成存 50 至 200 万考虑退休，如何看待此数据？](https://www.zhihu.com/question/610224300)<br />
 9. [2023 年前端流行什么技术和框架了？](https://www.zhihu.com/question/609395923)<br />
 
 > 百度  
