@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 17:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 17:02:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [知名主持人杨澜名下公司数百万财产被冻结，哪些信息值得关注？](https://www.zhihu.com/question/610235048)<br />
 6. [为什么说白猫在猫眼里是最丑的？有什么科学依据？](https://www.zhihu.com/question/609445968)<br />
 7. [调查称超 7 成年轻人存款不足 10 万，超 5 成存 50 至 200 万考虑退休，如何看待此数据？](https://www.zhihu.com/question/610224300)<br />
-8. [在只换了 AD 的情况下，为什么 2023 年 EDG 春季赛和夏季赛表现差距能如此大？](https://www.zhihu.com/question/610380860)<br />
-9. [《原神》3.8 版本「清夏！乐园？大秘境！」现已开启，请问你的体验如何？](https://www.zhihu.com/question/610429701)<br />
+8. []()<br />
+9. [小米对华为锁屏专利发起无效宣告请求，哪些信息值得关注？](https://www.zhihu.com/question/610265154)<br />
 
 > 百度  
 
