@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 12:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 12:14:01</h4></div>
 
 > 微博  
 
@@ -15,8 +15,8 @@
 > 知乎  
 
 1. [冲绳知事访华，参观北京琉球国墓地遗址，从历史上看，琉球和中国有何渊源？哪些信息值得关注？](https://www.zhihu.com/question/610361691)<br />
-2. [中国对半导体关键材料镓和锗两种关键金属管制出口，日韩接连回应，中方此举有何影响？还有哪些信息值得关注？](https://www.zhihu.com/question/610357929)<br />
-3. [中南大学一校友「匿名」向母校捐赠六亿元，校方回应「校友不愿出名想做实在事」，将会产生哪些社会影响？](https://www.zhihu.com/question/610238278)<br />
+2. [中南大学一校友「匿名」向母校捐赠六亿元，校方回应「校友不愿出名想做实在事」，将会产生哪些社会影响？](https://www.zhihu.com/question/610238278)<br />
+3. [中国对半导体关键材料镓和锗两种关键金属管制出口，日韩接连回应，中方此举有何影响？还有哪些信息值得关注？](https://www.zhihu.com/question/610357929)<br />
 4. [光速这么慢，以后月球和地球怎么联机打游戏？](https://www.zhihu.com/question/609921573)<br />
 5. [普京称中俄贸易超 80% 由人民币和卢布结算，释放了哪些信号？](https://www.zhihu.com/question/610356466)<br />
 6. [盖伦沉默增加 10 秒能上职业联赛吗?](https://www.zhihu.com/question/610089911)<br />
@@ -27,10 +27,10 @@
 > 百度  
 
 1. [把牢正确方向 增进团结互信](https://www.baidu.com/s?wd=%E6%8A%8A%E7%89%A2%E6%AD%A3%E7%A1%AE%E6%96%B9%E5%90%91+%E5%A2%9E%E8%BF%9B%E5%9B%A2%E7%BB%93%E4%BA%92%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [阿雅方晒毛发及尿液检测报告](https://www.baidu.com/s?wd=%E9%98%BF%E9%9B%85%E6%96%B9%E6%99%92%E6%AF%9B%E5%8F%91%E5%8F%8A%E5%B0%BF%E6%B6%B2%E6%A3%80%E6%B5%8B%E6%8A%A5%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [7月3日是地球有记录以来最热一天](https://www.baidu.com/s?wd=7%E6%9C%883%E6%97%A5%E6%98%AF%E5%9C%B0%E7%90%83%E6%9C%89%E8%AE%B0%E5%BD%95%E4%BB%A5%E6%9D%A5%E6%9C%80%E7%83%AD%E4%B8%80%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [7月3日是地球有记录以来最热一天](https://www.baidu.com/s?wd=7%E6%9C%883%E6%97%A5%E6%98%AF%E5%9C%B0%E7%90%83%E6%9C%89%E8%AE%B0%E5%BD%95%E4%BB%A5%E6%9D%A5%E6%9C%80%E7%83%AD%E4%B8%80%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [男生疑因制止霸凌遭辱骂 自曝已退学](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E7%96%91%E5%9B%A0%E5%88%B6%E6%AD%A2%E9%9C%B8%E5%87%8C%E9%81%AD%E8%BE%B1%E9%AA%82+%E8%87%AA%E6%9B%9D%E5%B7%B2%E9%80%80%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [江风海韵绘就生态美](https://www.baidu.com/s?wd=%E6%B1%9F%E9%A3%8E%E6%B5%B7%E9%9F%B5%E7%BB%98%E5%B0%B1%E7%94%9F%E6%80%81%E7%BE%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [男生疑因制止霸凌遭辱骂 自曝已退学](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E7%96%91%E5%9B%A0%E5%88%B6%E6%AD%A2%E9%9C%B8%E5%87%8C%E9%81%AD%E8%BE%B1%E9%AA%82+%E8%87%AA%E6%9B%9D%E5%B7%B2%E9%80%80%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [阿雅方晒毛发及尿液检测报告](https://www.baidu.com/s?wd=%E9%98%BF%E9%9B%85%E6%96%B9%E6%99%92%E6%AF%9B%E5%8F%91%E5%8F%8A%E5%B0%BF%E6%B6%B2%E6%A3%80%E6%B5%8B%E6%8A%A5%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [《八角笼中》点映票房破纪录](https://www.baidu.com/s?wd=%E3%80%8A%E5%85%AB%E8%A7%92%E7%AC%BC%E4%B8%AD%E3%80%8B%E7%82%B9%E6%98%A0%E7%A5%A8%E6%88%BF%E7%A0%B4%E7%BA%AA%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [13岁男孩被篮球架砸中身亡](https://www.baidu.com/s?wd=13%E5%B2%81%E7%94%B7%E5%AD%A9%E8%A2%AB%E7%AF%AE%E7%90%83%E6%9E%B6%E7%A0%B8%E4%B8%AD%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [学生去世俩月家属不知死因 高校回应](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E5%8E%BB%E4%B8%96%E4%BF%A9%E6%9C%88%E5%AE%B6%E5%B1%9E%E4%B8%8D%E7%9F%A5%E6%AD%BB%E5%9B%A0+%E9%AB%98%E6%A0%A1%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -39,10 +39,10 @@
 > 哔哩哔哩  
 
 1. [把牢正确方向 增进团结互信](https://www.baidu.com/s?wd=%E6%8A%8A%E7%89%A2%E6%AD%A3%E7%A1%AE%E6%96%B9%E5%90%91+%E5%A2%9E%E8%BF%9B%E5%9B%A2%E7%BB%93%E4%BA%92%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [阿雅方晒毛发及尿液检测报告](https://www.baidu.com/s?wd=%E9%98%BF%E9%9B%85%E6%96%B9%E6%99%92%E6%AF%9B%E5%8F%91%E5%8F%8A%E5%B0%BF%E6%B6%B2%E6%A3%80%E6%B5%8B%E6%8A%A5%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [7月3日是地球有记录以来最热一天](https://www.baidu.com/s?wd=7%E6%9C%883%E6%97%A5%E6%98%AF%E5%9C%B0%E7%90%83%E6%9C%89%E8%AE%B0%E5%BD%95%E4%BB%A5%E6%9D%A5%E6%9C%80%E7%83%AD%E4%B8%80%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [7月3日是地球有记录以来最热一天](https://www.baidu.com/s?wd=7%E6%9C%883%E6%97%A5%E6%98%AF%E5%9C%B0%E7%90%83%E6%9C%89%E8%AE%B0%E5%BD%95%E4%BB%A5%E6%9D%A5%E6%9C%80%E7%83%AD%E4%B8%80%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [男生疑因制止霸凌遭辱骂 自曝已退学](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E7%96%91%E5%9B%A0%E5%88%B6%E6%AD%A2%E9%9C%B8%E5%87%8C%E9%81%AD%E8%BE%B1%E9%AA%82+%E8%87%AA%E6%9B%9D%E5%B7%B2%E9%80%80%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [江风海韵绘就生态美](https://www.baidu.com/s?wd=%E6%B1%9F%E9%A3%8E%E6%B5%B7%E9%9F%B5%E7%BB%98%E5%B0%B1%E7%94%9F%E6%80%81%E7%BE%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [男生疑因制止霸凌遭辱骂 自曝已退学](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E7%96%91%E5%9B%A0%E5%88%B6%E6%AD%A2%E9%9C%B8%E5%87%8C%E9%81%AD%E8%BE%B1%E9%AA%82+%E8%87%AA%E6%9B%9D%E5%B7%B2%E9%80%80%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [阿雅方晒毛发及尿液检测报告](https://www.baidu.com/s?wd=%E9%98%BF%E9%9B%85%E6%96%B9%E6%99%92%E6%AF%9B%E5%8F%91%E5%8F%8A%E5%B0%BF%E6%B6%B2%E6%A3%80%E6%B5%8B%E6%8A%A5%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [《八角笼中》点映票房破纪录](https://www.baidu.com/s?wd=%E3%80%8A%E5%85%AB%E8%A7%92%E7%AC%BC%E4%B8%AD%E3%80%8B%E7%82%B9%E6%98%A0%E7%A5%A8%E6%88%BF%E7%A0%B4%E7%BA%AA%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [13岁男孩被篮球架砸中身亡](https://www.baidu.com/s?wd=13%E5%B2%81%E7%94%B7%E5%AD%A9%E8%A2%AB%E7%AF%AE%E7%90%83%E6%9E%B6%E7%A0%B8%E4%B8%AD%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [学生去世俩月家属不知死因 高校回应](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E5%8E%BB%E4%B8%96%E4%BF%A9%E6%9C%88%E5%AE%B6%E5%B1%9E%E4%B8%8D%E7%9F%A5%E6%AD%BB%E5%9B%A0+%E9%AB%98%E6%A0%A1%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
