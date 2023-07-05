@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 15:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 15:05:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [蔡徐坤暂缓现场出席TMEA盛典](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E6%9A%82%E7%BC%93%E7%8E%B0%E5%9C%BA%E5%87%BA%E5%B8%ADTMEA%E7%9B%9B%E5%85%B8%23&t=31&band_rank=5&Refer=top)<br />
 6. [北京政法职业学院回应男生被退学](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%94%BF%E6%B3%95%E8%81%8C%E4%B8%9A%E5%AD%A6%E9%99%A2%E5%9B%9E%E5%BA%94%E7%94%B7%E7%94%9F%E8%A2%AB%E9%80%80%E5%AD%A6%23&t=31&band_rank=6&Refer=top)<br />
 7. [现在该大小S有压力了](https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E8%AF%A5%E5%A4%A7%E5%B0%8FS%E6%9C%89%E5%8E%8B%E5%8A%9B%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [重庆万州洪涝灾害致15死4失踪](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E4%B8%87%E5%B7%9E%E6%B4%AA%E6%B6%9D%E7%81%BE%E5%AE%B3%E8%87%B415%E6%AD%BB4%E5%A4%B1%E8%B8%AA%23&t=31&band_rank=8&Refer=top)<br />
-9. [工作室辟谣井柏然小号](https://s.weibo.com/weibo?q=%23%E5%B7%A5%E4%BD%9C%E5%AE%A4%E8%BE%9F%E8%B0%A3%E4%BA%95%E6%9F%8F%E7%84%B6%E5%B0%8F%E5%8F%B7%23&t=31&band_rank=9&Refer=top)<br />
+8. [工作室辟谣井柏然小号](https://s.weibo.com/weibo?q=%23%E5%B7%A5%E4%BD%9C%E5%AE%A4%E8%BE%9F%E8%B0%A3%E4%BA%95%E6%9F%8F%E7%84%B6%E5%B0%8F%E5%8F%B7%23&t=31&band_rank=8&Refer=top)<br />
+9. [重庆万州洪涝灾害致15死4失踪](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E4%B8%87%E5%B7%9E%E6%B4%AA%E6%B6%9D%E7%81%BE%E5%AE%B3%E8%87%B415%E6%AD%BB4%E5%A4%B1%E8%B8%AA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [周六放假，男朋友一大早要去送女同事去高铁站，我不高兴是心眼小吗？](https://www.zhihu.com/question/609749261)<br />
 7. [AI 画人的最大问题是什么，为什么好多人物图明明很真实，却能被一眼看出来是 AI ？](https://www.zhihu.com/question/603331907)<br />
 8. [如何委婉地和家里人说我想当全职儿女？](https://www.zhihu.com/question/593083416)<br />
-9. []()<br />
+9. [嵌入式要卷成下一个 Java 了吗？](https://www.zhihu.com/question/596543159)<br />
 
 > 百度  
 
