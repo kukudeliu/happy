@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 16:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 16:16:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [8 名代表建议「返还企业高管个税」，当地财税部门回应「违反个税立法根本，无法实现」，哪些信息值得关注？](https://www.zhihu.com/question/610431175)<br />
 7. [在只换了 AD 的情况下，为什么 2023 年 EDG 春季赛和夏季赛表现差距能如此大？](https://www.zhihu.com/question/610380860)<br />
 8. [周六放假，男朋友一大早要去送女同事去高铁站，我不高兴是心眼小吗？](https://www.zhihu.com/question/609749261)<br />
-9. [盖伦沉默增加 10 秒能上职业联赛吗?](https://www.zhihu.com/question/610089911)<br />
+9. [为什么说白猫在猫眼里是最丑的？有什么科学依据？](https://www.zhihu.com/question/609445968)<br />
 
 > 百度  
 
