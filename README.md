@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 14:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 14:59:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [北京政法职业学院回应男生被退学](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%94%BF%E6%B3%95%E8%81%8C%E4%B8%9A%E5%AD%A6%E9%99%A2%E5%9B%9E%E5%BA%94%E7%94%B7%E7%94%9F%E8%A2%AB%E9%80%80%E5%AD%A6%23&t=31&band_rank=6&Refer=top)<br />
 7. [现在该大小S有压力了](https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E8%AF%A5%E5%A4%A7%E5%B0%8FS%E6%9C%89%E5%8E%8B%E5%8A%9B%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [重庆万州洪涝灾害致15死4失踪](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E4%B8%87%E5%B7%9E%E6%B4%AA%E6%B6%9D%E7%81%BE%E5%AE%B3%E8%87%B415%E6%AD%BB4%E5%A4%B1%E8%B8%AA%23&t=31&band_rank=8&Refer=top)<br />
-9. [何赛飞当众发飙后戏曲演员张军波现状](https://s.weibo.com/weibo?q=%23%E4%BD%95%E8%B5%9B%E9%A3%9E%E5%BD%93%E4%BC%97%E5%8F%91%E9%A3%99%E5%90%8E%E6%88%8F%E6%9B%B2%E6%BC%94%E5%91%98%E5%BC%A0%E5%86%9B%E6%B3%A2%E7%8E%B0%E7%8A%B6%23&t=31&band_rank=9&Refer=top)<br />
+9. [工作室辟谣井柏然小号](https://s.weibo.com/weibo?q=%23%E5%B7%A5%E4%BD%9C%E5%AE%A4%E8%BE%9F%E8%B0%A3%E4%BA%95%E6%9F%8F%E7%84%B6%E5%B0%8F%E5%8F%B7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [周六放假，男朋友一大早要去送女同事去高铁站，我不高兴是心眼小吗？](https://www.zhihu.com/question/609749261)<br />
 7. [AI 画人的最大问题是什么，为什么好多人物图明明很真实，却能被一眼看出来是 AI ？](https://www.zhihu.com/question/603331907)<br />
 8. [如何委婉地和家里人说我想当全职儿女？](https://www.zhihu.com/question/593083416)<br />
-9. [如何看待越来越火的脑洞科技文？](https://www.zhihu.com/question/610238188)<br />
+9. []()<br />
 
 > 百度  
 
@@ -32,9 +32,9 @@
 4. [凝聚上合力量](https://www.baidu.com/s?wd=%E5%87%9D%E8%81%9A%E4%B8%8A%E5%90%88%E5%8A%9B%E9%87%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [抹香鲸尸体中被发现9.5公斤龙涎香](https://www.baidu.com/s?wd=%E6%8A%B9%E9%A6%99%E9%B2%B8%E5%B0%B8%E4%BD%93%E4%B8%AD%E8%A2%AB%E5%8F%91%E7%8E%B09.5%E5%85%AC%E6%96%A4%E9%BE%99%E6%B6%8E%E9%A6%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [有新冠检测公司花218亿去理财](https://www.baidu.com/s?wd=%E6%9C%89%E6%96%B0%E5%86%A0%E6%A3%80%E6%B5%8B%E5%85%AC%E5%8F%B8%E8%8A%B1218%E4%BA%BF%E5%8E%BB%E7%90%86%E8%B4%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [高级餐厅厕所用凹凸标记引争议](https://www.baidu.com/s?wd=%E9%AB%98%E7%BA%A7%E9%A4%90%E5%8E%85%E5%8E%95%E6%89%80%E7%94%A8%E5%87%B9%E5%87%B8%E6%A0%87%E8%AE%B0%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [警方称逼男孩吃粪便3人未满14周岁](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E7%A7%B0%E9%80%BC%E7%94%B7%E5%AD%A9%E5%90%83%E7%B2%AA%E4%BE%BF3%E4%BA%BA%E6%9C%AA%E6%BB%A114%E5%91%A8%E5%B2%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女孩救同学溺亡 官方申办见义勇为](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E6%95%91%E5%90%8C%E5%AD%A6%E6%BA%BA%E4%BA%A1+%E5%AE%98%E6%96%B9%E7%94%B3%E5%8A%9E%E8%A7%81%E4%B9%89%E5%8B%87%E4%B8%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [校方回应男生仗义执言反遭劝退](https://www.baidu.com/s?wd=%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94%E7%94%B7%E7%94%9F%E4%BB%97%E4%B9%89%E6%89%A7%E8%A8%80%E5%8F%8D%E9%81%AD%E5%8A%9D%E9%80%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [高级餐厅厕所用凹凸标记引争议](https://www.baidu.com/s?wd=%E9%AB%98%E7%BA%A7%E9%A4%90%E5%8E%85%E5%8E%95%E6%89%80%E7%94%A8%E5%87%B9%E5%87%B8%E6%A0%87%E8%AE%B0%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [警方称逼男孩吃粪便3人未满14周岁](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E7%A7%B0%E9%80%BC%E7%94%B7%E5%AD%A9%E5%90%83%E7%B2%AA%E4%BE%BF3%E4%BA%BA%E6%9C%AA%E6%BB%A114%E5%91%A8%E5%B2%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [凝聚上合力量](https://www.baidu.com/s?wd=%E5%87%9D%E8%81%9A%E4%B8%8A%E5%90%88%E5%8A%9B%E9%87%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [抹香鲸尸体中被发现9.5公斤龙涎香](https://www.baidu.com/s?wd=%E6%8A%B9%E9%A6%99%E9%B2%B8%E5%B0%B8%E4%BD%93%E4%B8%AD%E8%A2%AB%E5%8F%91%E7%8E%B09.5%E5%85%AC%E6%96%A4%E9%BE%99%E6%B6%8E%E9%A6%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [有新冠检测公司花218亿去理财](https://www.baidu.com/s?wd=%E6%9C%89%E6%96%B0%E5%86%A0%E6%A3%80%E6%B5%8B%E5%85%AC%E5%8F%B8%E8%8A%B1218%E4%BA%BF%E5%8E%BB%E7%90%86%E8%B4%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [高级餐厅厕所用凹凸标记引争议](https://www.baidu.com/s?wd=%E9%AB%98%E7%BA%A7%E9%A4%90%E5%8E%85%E5%8E%95%E6%89%80%E7%94%A8%E5%87%B9%E5%87%B8%E6%A0%87%E8%AE%B0%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [警方称逼男孩吃粪便3人未满14周岁](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E7%A7%B0%E9%80%BC%E7%94%B7%E5%AD%A9%E5%90%83%E7%B2%AA%E4%BE%BF3%E4%BA%BA%E6%9C%AA%E6%BB%A114%E5%91%A8%E5%B2%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女孩救同学溺亡 官方申办见义勇为](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E6%95%91%E5%90%8C%E5%AD%A6%E6%BA%BA%E4%BA%A1+%E5%AE%98%E6%96%B9%E7%94%B3%E5%8A%9E%E8%A7%81%E4%B9%89%E5%8B%87%E4%B8%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [校方回应男生仗义执言反遭劝退](https://www.baidu.com/s?wd=%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94%E7%94%B7%E7%94%9F%E4%BB%97%E4%B9%89%E6%89%A7%E8%A8%80%E5%8F%8D%E9%81%AD%E5%8A%9D%E9%80%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [高级餐厅厕所用凹凸标记引争议](https://www.baidu.com/s?wd=%E9%AB%98%E7%BA%A7%E9%A4%90%E5%8E%85%E5%8E%95%E6%89%80%E7%94%A8%E5%87%B9%E5%87%B8%E6%A0%87%E8%AE%B0%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [警方称逼男孩吃粪便3人未满14周岁](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E7%A7%B0%E9%80%BC%E7%94%B7%E5%AD%A9%E5%90%83%E7%B2%AA%E4%BE%BF3%E4%BA%BA%E6%9C%AA%E6%BB%A114%E5%91%A8%E5%B2%81&sa=fyb_news&rsv_dl=fyb_news)<br />
