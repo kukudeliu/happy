@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 02:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 02:16:02</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [李玟80岁母亲最先发现女儿轻生](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F80%E5%B2%81%E6%AF%8D%E4%BA%B2%E6%9C%80%E5%85%88%E5%8F%91%E7%8E%B0%E5%A5%B3%E5%84%BF%E8%BD%BB%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [#众星发文悼念李玟#](https://www.baidu.com/s?wd=%23%E4%BC%97%E6%98%9F%E5%8F%91%E6%96%87%E6%82%BC%E5%BF%B5%E6%9D%8E%E7%8E%9F%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [李玟为世界奉献好心情到最后一刻](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E4%B8%BA%E4%B8%96%E7%95%8C%E5%A5%89%E7%8C%AE%E5%A5%BD%E5%BF%83%E6%83%85%E5%88%B0%E6%9C%80%E5%90%8E%E4%B8%80%E5%88%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [微笑抑郁症](https://www.baidu.com/s?wd=%E5%BE%AE%E7%AC%91%E6%8A%91%E9%83%81%E7%97%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [港媒：李玟疑割腕自杀 未写遗书](https://www.baidu.com/s?wd=%E6%B8%AF%E5%AA%92%EF%BC%9A%E6%9D%8E%E7%8E%9F%E7%96%91%E5%89%B2%E8%85%95%E8%87%AA%E6%9D%80+%E6%9C%AA%E5%86%99%E9%81%97%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [李玟80岁母亲最先发现女儿轻生](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F80%E5%B2%81%E6%AF%8D%E4%BA%B2%E6%9C%80%E5%85%88%E5%8F%91%E7%8E%B0%E5%A5%B3%E5%84%BF%E8%BD%BB%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [#众星发文悼念李玟#](https://www.baidu.com/s?wd=%23%E4%BC%97%E6%98%9F%E5%8F%91%E6%96%87%E6%82%BC%E5%BF%B5%E6%9D%8E%E7%8E%9F%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [李玟为世界奉献好心情到最后一刻](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E4%B8%BA%E4%B8%96%E7%95%8C%E5%A5%89%E7%8C%AE%E5%A5%BD%E5%BF%83%E6%83%85%E5%88%B0%E6%9C%80%E5%90%8E%E4%B8%80%E5%88%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [微笑抑郁症](https://www.baidu.com/s?wd=%E5%BE%AE%E7%AC%91%E6%8A%91%E9%83%81%E7%97%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [港媒：李玟疑割腕自杀 未写遗书](https://www.baidu.com/s?wd=%E6%B8%AF%E5%AA%92%EF%BC%9A%E6%9D%8E%E7%8E%9F%E7%96%91%E5%89%B2%E8%85%95%E8%87%AA%E6%9D%80+%E6%9C%AA%E5%86%99%E9%81%97%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
