@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 14:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 14:46:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [报道称牵手门涉事领导仍担任高管，公司回应称胡继勇已不再履行法定代表人职责，哪些信息值得关注？](https://www.zhihu.com/question/610320361)<br />
 6. [周六放假，男朋友一大早要去送女同事去高铁站，我不高兴是心眼小吗？](https://www.zhihu.com/question/609749261)<br />
 7. [AI 画人的最大问题是什么，为什么好多人物图明明很真实，却能被一眼看出来是 AI ？](https://www.zhihu.com/question/603331907)<br />
-8. [普京称中俄贸易超 80% 由人民币和卢布结算，释放了哪些信号？](https://www.zhihu.com/question/610356466)<br />
-9. [如何看待越来越火的脑洞科技文？](https://www.zhihu.com/question/610238188)<br />
+8. [如何看待越来越火的脑洞科技文？](https://www.zhihu.com/question/610238188)<br />
+9. [如何委婉地和家里人说我想当全职儿女？](https://www.zhihu.com/question/593083416)<br />
 
 > 百度  
 
