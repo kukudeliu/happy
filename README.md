@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 20:12:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 20:13:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [谁给杨幂做的发型](https://s.weibo.com/weibo?q=%23%E8%B0%81%E7%BB%99%E6%9D%A8%E5%B9%82%E5%81%9A%E7%9A%84%E5%8F%91%E5%9E%8B%23&t=31&band_rank=5&Refer=top)<br />
 6. [硕士毕业10年被查出论文剽窃](https://s.weibo.com/weibo?q=%23%E7%A1%95%E5%A3%AB%E6%AF%95%E4%B8%9A10%E5%B9%B4%E8%A2%AB%E6%9F%A5%E5%87%BA%E8%AE%BA%E6%96%87%E5%89%BD%E7%AA%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [肖战最有cp感的女主](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%9C%80%E6%9C%89cp%E6%84%9F%E7%9A%84%E5%A5%B3%E4%B8%BB%23&t=31&band_rank=7&Refer=top)<br />
-8. [北京人正式被确诊为哪吒](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%BA%BA%E6%AD%A3%E5%BC%8F%E8%A2%AB%E7%A1%AE%E8%AF%8A%E4%B8%BA%E5%93%AA%E5%90%92%23&t=31&band_rank=8&Refer=top)<br />
-9. [赵露思陈哲远沙发40秒拥吻](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E9%99%88%E5%93%B2%E8%BF%9C%E6%B2%99%E5%8F%9140%E7%A7%92%E6%8B%A5%E5%90%BB%23&t=31&band_rank=9&Refer=top)<br />
+8. [赵露思陈哲远沙发40秒拥吻](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E9%99%88%E5%93%B2%E8%BF%9C%E6%B2%99%E5%8F%9140%E7%A7%92%E6%8B%A5%E5%90%BB%23&t=31&band_rank=8&Refer=top)<br />
+9. [北京人正式被确诊为哪吒](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%BA%BA%E6%AD%A3%E5%BC%8F%E8%A2%AB%E7%A1%AE%E8%AF%8A%E4%B8%BA%E5%93%AA%E5%90%92%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
