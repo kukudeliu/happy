@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 20:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 20:06:01</h4></div>
 
 > 微博  
 
-1. [北京人正式被确诊为哪吒](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%BA%BA%E6%AD%A3%E5%BC%8F%E8%A2%AB%E7%A1%AE%E8%AF%8A%E4%B8%BA%E5%93%AA%E5%90%92%23&t=31&band_rank=1&Refer=top)<br />
-2. [光渊下架](https://s.weibo.com/weibo?q=%23%E5%85%89%E6%B8%8A%E4%B8%8B%E6%9E%B6%23&t=31&band_rank=2&Refer=top)<br />
+1. [光渊下架](https://s.weibo.com/weibo?q=%23%E5%85%89%E6%B8%8A%E4%B8%8B%E6%9E%B6%23&t=31&band_rank=1&Refer=top)<br />
+2. [北京人正式被确诊为哪吒](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%BA%BA%E6%AD%A3%E5%BC%8F%E8%A2%AB%E7%A1%AE%E8%AF%8A%E4%B8%BA%E5%93%AA%E5%90%92%23&t=31&band_rank=2&Refer=top)<br />
 3. [世界最早印花工具做出的汉服有多美](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9C%80%E6%97%A9%E5%8D%B0%E8%8A%B1%E5%B7%A5%E5%85%B7%E5%81%9A%E5%87%BA%E7%9A%84%E6%B1%89%E6%9C%8D%E6%9C%89%E5%A4%9A%E7%BE%8E%23&t=31&band_rank=3&Refer=top)<br />
 4. [坐高铁最好不要趴小桌板上](https://s.weibo.com/weibo?q=%23%E5%9D%90%E9%AB%98%E9%93%81%E6%9C%80%E5%A5%BD%E4%B8%8D%E8%A6%81%E8%B6%B4%E5%B0%8F%E6%A1%8C%E6%9D%BF%E4%B8%8A%23&t=31&band_rank=4&Refer=top)<br />
 5. [硕士毕业10年被查出论文剽窃](https://s.weibo.com/weibo?q=%23%E7%A1%95%E5%A3%AB%E6%AF%95%E4%B8%9A10%E5%B9%B4%E8%A2%AB%E6%9F%A5%E5%87%BA%E8%AE%BA%E6%96%87%E5%89%BD%E7%AA%83%23&t=31&band_rank=5&Refer=top)<br />
