@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 15:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 15:30:01</h4></div>
 
 > 微博  
 
-1. [张睿早几年都干嘛去了](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%9D%BF%E6%97%A9%E5%87%A0%E5%B9%B4%E9%83%BD%E5%B9%B2%E5%98%9B%E5%8E%BB%E4%BA%86%23&t=31&band_rank=1&Refer=top)<br />
-2. [被花非花雾非雾震撼了](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E8%8A%B1%E9%9D%9E%E8%8A%B1%E9%9B%BE%E9%9D%9E%E9%9B%BE%E9%9C%87%E6%92%BC%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
+1. [被花非花雾非雾震撼了](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E8%8A%B1%E9%9D%9E%E8%8A%B1%E9%9B%BE%E9%9D%9E%E9%9B%BE%E9%9C%87%E6%92%BC%E4%BA%86%23&t=31&band_rank=1&Refer=top)<br />
+2. [张睿早几年都干嘛去了](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%9D%BF%E6%97%A9%E5%87%A0%E5%B9%B4%E9%83%BD%E5%B9%B2%E5%98%9B%E5%8E%BB%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [中国航天版向云端](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E7%89%88%E5%90%91%E4%BA%91%E7%AB%AF%23&t=31&band_rank=3&Refer=top)<br />
 4. [连夜取关5000人](https://s.weibo.com/weibo?q=%E8%BF%9E%E5%A4%9C%E5%8F%96%E5%85%B35000%E4%BA%BA&t=31&band_rank=4&Refer=top)<br />
 5. [蔡徐坤暂缓现场出席TMEA盛典](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E6%9A%82%E7%BC%93%E7%8E%B0%E5%9C%BA%E5%87%BA%E5%B8%ADTMEA%E7%9B%9B%E5%85%B8%23&t=31&band_rank=5&Refer=top)<br />
 6. [jiejie](https://s.weibo.com/weibo?q=jiejie&t=31&band_rank=6&Refer=top)<br />
 7. [现在该大小S有压力了](https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E8%AF%A5%E5%A4%A7%E5%B0%8FS%E6%9C%89%E5%8E%8B%E5%8A%9B%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [女子失联23年母亲被邻居刷视频发现](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%A4%B1%E8%81%9423%E5%B9%B4%E6%AF%8D%E4%BA%B2%E8%A2%AB%E9%82%BB%E5%B1%85%E5%88%B7%E8%A7%86%E9%A2%91%E5%8F%91%E7%8E%B0%23&t=31&band_rank=8&Refer=top)<br />
-9. [何赛飞当众发飙后戏曲演员张军波现状](https://s.weibo.com/weibo?q=%23%E4%BD%95%E8%B5%9B%E9%A3%9E%E5%BD%93%E4%BC%97%E5%8F%91%E9%A3%99%E5%90%8E%E6%88%8F%E6%9B%B2%E6%BC%94%E5%91%98%E5%BC%A0%E5%86%9B%E6%B3%A2%E7%8E%B0%E7%8A%B6%23&t=31&band_rank=9&Refer=top)<br />
+9. [大妈300万买基金一年赚不到两万](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%A6%88300%E4%B8%87%E4%B9%B0%E5%9F%BA%E9%87%91%E4%B8%80%E5%B9%B4%E8%B5%9A%E4%B8%8D%E5%88%B0%E4%B8%A4%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
