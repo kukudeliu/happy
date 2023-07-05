@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 20:03:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 20:04:01</h4></div>
 
 > 微博  
 
@@ -32,9 +32,9 @@
 4. [就业形势总体稳定](https://www.baidu.com/s?wd=%E5%B0%B1%E4%B8%9A%E5%BD%A2%E5%8A%BF%E6%80%BB%E4%BD%93%E7%A8%B3%E5%AE%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [航拍暴雨后重庆：江滩公园成江心岛](https://www.baidu.com/s?wd=%E8%88%AA%E6%8B%8D%E6%9A%B4%E9%9B%A8%E5%90%8E%E9%87%8D%E5%BA%86%EF%BC%9A%E6%B1%9F%E6%BB%A9%E5%85%AC%E5%9B%AD%E6%88%90%E6%B1%9F%E5%BF%83%E5%B2%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子不穿内裤试衣隔天要求退换遭拒](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%8D%E7%A9%BF%E5%86%85%E8%A3%A4%E8%AF%95%E8%A1%A3%E9%9A%94%E5%A4%A9%E8%A6%81%E6%B1%82%E9%80%80%E6%8D%A2%E9%81%AD%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [兰博基尼燃油车被抢购一空](https://www.baidu.com/s?wd=%E5%85%B0%E5%8D%9A%E5%9F%BA%E5%B0%BC%E7%87%83%E6%B2%B9%E8%BD%A6%E8%A2%AB%E6%8A%A2%E8%B4%AD%E4%B8%80%E7%A9%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [成都一公园开出红黄对称双色睡莲](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E4%B8%80%E5%85%AC%E5%9B%AD%E5%BC%80%E5%87%BA%E7%BA%A2%E9%BB%84%E5%AF%B9%E7%A7%B0%E5%8F%8C%E8%89%B2%E7%9D%A1%E8%8E%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子花盆里种出2.5米高向日葵](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B1%E7%9B%86%E9%87%8C%E7%A7%8D%E5%87%BA2.5%E7%B1%B3%E9%AB%98%E5%90%91%E6%97%A5%E8%91%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [高校通报留长发男子进入女生公寓](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E9%80%9A%E6%8A%A5%E7%95%99%E9%95%BF%E5%8F%91%E7%94%B7%E5%AD%90%E8%BF%9B%E5%85%A5%E5%A5%B3%E7%94%9F%E5%85%AC%E5%AF%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [兰博基尼燃油车被抢购一空](https://www.baidu.com/s?wd=%E5%85%B0%E5%8D%9A%E5%9F%BA%E5%B0%BC%E7%87%83%E6%B2%B9%E8%BD%A6%E8%A2%AB%E6%8A%A2%E8%B4%AD%E4%B8%80%E7%A9%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [成都一公园开出红黄对称双色睡莲](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E4%B8%80%E5%85%AC%E5%9B%AD%E5%BC%80%E5%87%BA%E7%BA%A2%E9%BB%84%E5%AF%B9%E7%A7%B0%E5%8F%8C%E8%89%B2%E7%9D%A1%E8%8E%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [就业形势总体稳定](https://www.baidu.com/s?wd=%E5%B0%B1%E4%B8%9A%E5%BD%A2%E5%8A%BF%E6%80%BB%E4%BD%93%E7%A8%B3%E5%AE%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [航拍暴雨后重庆：江滩公园成江心岛](https://www.baidu.com/s?wd=%E8%88%AA%E6%8B%8D%E6%9A%B4%E9%9B%A8%E5%90%8E%E9%87%8D%E5%BA%86%EF%BC%9A%E6%B1%9F%E6%BB%A9%E5%85%AC%E5%9B%AD%E6%88%90%E6%B1%9F%E5%BF%83%E5%B2%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子不穿内裤试衣隔天要求退换遭拒](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%8D%E7%A9%BF%E5%86%85%E8%A3%A4%E8%AF%95%E8%A1%A3%E9%9A%94%E5%A4%A9%E8%A6%81%E6%B1%82%E9%80%80%E6%8D%A2%E9%81%AD%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [兰博基尼燃油车被抢购一空](https://www.baidu.com/s?wd=%E5%85%B0%E5%8D%9A%E5%9F%BA%E5%B0%BC%E7%87%83%E6%B2%B9%E8%BD%A6%E8%A2%AB%E6%8A%A2%E8%B4%AD%E4%B8%80%E7%A9%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [成都一公园开出红黄对称双色睡莲](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E4%B8%80%E5%85%AC%E5%9B%AD%E5%BC%80%E5%87%BA%E7%BA%A2%E9%BB%84%E5%AF%B9%E7%A7%B0%E5%8F%8C%E8%89%B2%E7%9D%A1%E8%8E%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子花盆里种出2.5米高向日葵](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B1%E7%9B%86%E9%87%8C%E7%A7%8D%E5%87%BA2.5%E7%B1%B3%E9%AB%98%E5%90%91%E6%97%A5%E8%91%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [高校通报留长发男子进入女生公寓](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E9%80%9A%E6%8A%A5%E7%95%99%E9%95%BF%E5%8F%91%E7%94%B7%E5%AD%90%E8%BF%9B%E5%85%A5%E5%A5%B3%E7%94%9F%E5%85%AC%E5%AF%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [兰博基尼燃油车被抢购一空](https://www.baidu.com/s?wd=%E5%85%B0%E5%8D%9A%E5%9F%BA%E5%B0%BC%E7%87%83%E6%B2%B9%E8%BD%A6%E8%A2%AB%E6%8A%A2%E8%B4%AD%E4%B8%80%E7%A9%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [成都一公园开出红黄对称双色睡莲](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E4%B8%80%E5%85%AC%E5%9B%AD%E5%BC%80%E5%87%BA%E7%BA%A2%E9%BB%84%E5%AF%B9%E7%A7%B0%E5%8F%8C%E8%89%B2%E7%9D%A1%E8%8E%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
