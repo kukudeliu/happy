@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 05:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 06:00:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [如何评价王宝强执导的电影《八角笼中》？](https://www.zhihu.com/question/603748979)<br />
 7. [此前对中国半导体出手的荷兰敦促欧盟回应中方对镓、锗实施出口管制，荷兰在急什么？欧盟将如何应对？](https://www.zhihu.com/question/610538153)<br />
 8. []()<br />
-9. []()<br />
+9. [「研学热」席卷，提前一周抢不到故宫门票，上午排烤鸭下午才吃到，为何「研学」项目火爆？如何看待这一现象？](https://www.zhihu.com/question/610438956)<br />
 
 > 百度  
 
@@ -34,7 +34,7 @@
 6. [微笑抑郁症](https://www.baidu.com/s?wd=%E5%BE%AE%E7%AC%91%E6%8A%91%E9%83%81%E7%97%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [港媒：李玟疑割腕自杀 未写遗书](https://www.baidu.com/s?wd=%E6%B8%AF%E5%AA%92%EF%BC%9A%E6%9D%8E%E7%8E%9F%E7%96%91%E5%89%B2%E8%85%95%E8%87%AA%E6%9D%80+%E6%9C%AA%E5%86%99%E9%81%97%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女子不穿内裤试衣隔天要求退换遭拒](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%8D%E7%A9%BF%E5%86%85%E8%A3%A4%E8%AF%95%E8%A1%A3%E9%9A%94%E5%A4%A9%E8%A6%81%E6%B1%82%E9%80%80%E6%8D%A2%E9%81%AD%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子花盆里种出2.5米高向日葵](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B1%E7%9B%86%E9%87%8C%E7%A7%8D%E5%87%BA2.5%E7%B1%B3%E9%AB%98%E5%90%91%E6%97%A5%E8%91%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [抑郁症有多可怕](https://www.baidu.com/s?wd=%E6%8A%91%E9%83%81%E7%97%87%E6%9C%89%E5%A4%9A%E5%8F%AF%E6%80%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [微笑抑郁症](https://www.baidu.com/s?wd=%E5%BE%AE%E7%AC%91%E6%8A%91%E9%83%81%E7%97%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [港媒：李玟疑割腕自杀 未写遗书](https://www.baidu.com/s?wd=%E6%B8%AF%E5%AA%92%EF%BC%9A%E6%9D%8E%E7%8E%9F%E7%96%91%E5%89%B2%E8%85%95%E8%87%AA%E6%9D%80+%E6%9C%AA%E5%86%99%E9%81%97%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女子不穿内裤试衣隔天要求退换遭拒](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%8D%E7%A9%BF%E5%86%85%E8%A3%A4%E8%AF%95%E8%A1%A3%E9%9A%94%E5%A4%A9%E8%A6%81%E6%B1%82%E9%80%80%E6%8D%A2%E9%81%AD%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子花盆里种出2.5米高向日葵](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B1%E7%9B%86%E9%87%8C%E7%A7%8D%E5%87%BA2.5%E7%B1%B3%E9%AB%98%E5%90%91%E6%97%A5%E8%91%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [抑郁症有多可怕](https://www.baidu.com/s?wd=%E6%8A%91%E9%83%81%E7%97%87%E6%9C%89%E5%A4%9A%E5%8F%AF%E6%80%95&sa=fyb_news&rsv_dl=fyb_news)<br />
