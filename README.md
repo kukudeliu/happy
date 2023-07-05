@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 21:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 21:42:01</h4></div>
 
 > 微博  
 
 1. [李玟去世](https://s.weibo.com/weibo?q=%E6%9D%8E%E7%8E%9F%E5%8E%BB%E4%B8%96&t=31&band_rank=1&Refer=top)<br />
-2. [韩红首次公开回应被举报](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%BA%A2%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80%E5%9B%9E%E5%BA%94%E8%A2%AB%E4%B8%BE%E6%8A%A5%23&t=31&band_rank=2&Refer=top)<br />
+2. [李玟抑郁症](https://s.weibo.com/weibo?q=%E6%9D%8E%E7%8E%9F%E6%8A%91%E9%83%81%E7%97%87&t=31&band_rank=2&Refer=top)<br />
 3. [驰援重庆暴雨的武警官兵辛苦了](https://s.weibo.com/weibo?q=%23%E9%A9%B0%E6%8F%B4%E9%87%8D%E5%BA%86%E6%9A%B4%E9%9B%A8%E7%9A%84%E6%AD%A6%E8%AD%A6%E5%AE%98%E5%85%B5%E8%BE%9B%E8%8B%A6%E4%BA%86%23&t=31&band_rank=3&Refer=top)<br />
-4. [李玟抑郁症](https://s.weibo.com/weibo?q=%E6%9D%8E%E7%8E%9F%E6%8A%91%E9%83%81%E7%97%87&t=31&band_rank=4&Refer=top)<br />
+4. [韩红首次公开回应被举报](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%BA%A2%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80%E5%9B%9E%E5%BA%94%E8%A2%AB%E4%B8%BE%E6%8A%A5%23&t=31&band_rank=4&Refer=top)<br />
 5. [TFBOYS再不官宣就不礼貌了](https://s.weibo.com/weibo?q=%23TFBOYS%E5%86%8D%E4%B8%8D%E5%AE%98%E5%AE%A3%E5%B0%B1%E4%B8%8D%E7%A4%BC%E8%B2%8C%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [刘雯穿几十斤重锁链裙走秀](https://s.weibo.com/weibo?q=%23%E5%88%98%E9%9B%AF%E7%A9%BF%E5%87%A0%E5%8D%81%E6%96%A4%E9%87%8D%E9%94%81%E9%93%BE%E8%A3%99%E8%B5%B0%E7%A7%80%23&t=31&band_rank=6&Refer=top)<br />
 7. [圆肩驼背探颈是种病](https://s.weibo.com/weibo?q=%E5%9C%86%E8%82%A9%E9%A9%BC%E8%83%8C%E6%8E%A2%E9%A2%88%E6%98%AF%E7%A7%8D%E7%97%85&t=31&band_rank=7&Refer=top)<br />
@@ -21,8 +21,8 @@
 5. [房贷是居民最大的家庭债务，降低房价是修复债务表的唯一出路吗？](https://www.zhihu.com/theater/97424)<br />
 6. [如何看待起售价为 1399 元起的荣耀 X50 ？有哪些亮点和不足？](https://www.zhihu.com/question/610537841)<br />
 7. [重庆万州区遭暴雨袭击，因灾死亡 15 人，失踪 4 人，目前情况如何？](https://www.zhihu.com/question/610456313)<br />
-8. [假如一只被特别娇惯的猫突然失去主人，能适应以后的生活吗？](https://www.zhihu.com/question/609779217)<br />
-9. [2023 LPL 夏季赛 BLG VS TES，如何评价这场比赛？](https://www.zhihu.com/question/610514738)<br />
+8. [2023 LPL 夏季赛 BLG VS TES，如何评价这场比赛？](https://www.zhihu.com/question/610514738)<br />
+9. [假如一只被特别娇惯的猫突然失去主人，能适应以后的生活吗？](https://www.zhihu.com/question/609779217)<br />
 
 > 百度  
 
