@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 10:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 10:48:01</h4></div>
 
 > 微博  
 
@@ -19,10 +19,10 @@
 3. [普京称中俄贸易超 80% 由人民币和卢布结算，释放了哪些信号？](https://www.zhihu.com/question/610356466)<br />
 4. [耐克宣布 Kobe Bryant 系列球鞋全面回归，如何评价这一商业行为？](https://www.zhihu.com/question/610236585)<br />
 5. [中国对半导体关键材料镓和锗两种关键金属管制出口，日韩接连回应，中方此举有何影响？还有哪些信息值得关注？](https://www.zhihu.com/question/610357929)<br />
-6. [越南因南海九段线禁止电影《芭比》上映，外交部回应「不应将南海问题同人文交流挂钩」，如何看待越方行为？](https://www.zhihu.com/question/610272972)<br />
-7. [中南大学一校友「匿名」向母校捐赠六亿元，校方回应「校友不愿出名想做实在事」，将会产生哪些社会影响？](https://www.zhihu.com/question/610238278)<br />
+6. [中南大学一校友「匿名」向母校捐赠六亿元，校方回应「校友不愿出名想做实在事」，将会产生哪些社会影响？](https://www.zhihu.com/question/610238278)<br />
+7. [越南因南海九段线禁止电影《芭比》上映，外交部回应「不应将南海问题同人文交流挂钩」，如何看待越方行为？](https://www.zhihu.com/question/610272972)<br />
 8. [中国有真正的汽车文化吗？](https://www.zhihu.com/question/318609913)<br />
-9. [高考完无聊有什么可以干的吗？](https://www.zhihu.com/question/610350222)<br />
+9. [心术不正的人会有哪些表现?](https://www.zhihu.com/question/606642834)<br />
 
 > 百度  
 
