@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 19:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 19:01:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [北京人正式被确诊为哪吒](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%BA%BA%E6%AD%A3%E5%BC%8F%E8%A2%AB%E7%A1%AE%E8%AF%8A%E4%B8%BA%E5%93%AA%E5%90%92%23&t=31&band_rank=6&Refer=top)<br />
 7. [广西现鸳鸯江奇景](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E7%8E%B0%E9%B8%B3%E9%B8%AF%E6%B1%9F%E5%A5%87%E6%99%AF%23&t=31&band_rank=7&Refer=top)<br />
 8. [蔡徐坤暂缓现场出席TMEA盛典](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E6%9A%82%E7%BC%93%E7%8E%B0%E5%9C%BA%E5%87%BA%E5%B8%ADTMEA%E7%9B%9B%E5%85%B8%23&t=31&band_rank=8&Refer=top)<br />
-9. [淄博烧烤怎么样了](https://s.weibo.com/weibo?q=%23%E6%B7%84%E5%8D%9A%E7%83%A7%E7%83%A4%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [硕士毕业10年被查出论文剽窃](https://s.weibo.com/weibo?q=%23%E7%A1%95%E5%A3%AB%E6%AF%95%E4%B8%9A10%E5%B9%B4%E8%A2%AB%E6%9F%A5%E5%87%BA%E8%AE%BA%E6%96%87%E5%89%BD%E7%AA%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
