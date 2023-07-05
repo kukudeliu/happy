@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 17:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 17:39:01</h4></div>
 
 > 微博  
 
@@ -18,8 +18,8 @@
 2. [为什么陈思诚的电影总能在商业上取得很好的成绩？](https://www.zhihu.com/question/609609362)<br />
 3. [8 名代表建议「返还企业高管个税」，当地财税部门回应「违反个税立法根本，无法实现」，哪些信息值得关注？](https://www.zhihu.com/question/610431175)<br />
 4. [一个家庭越来越好的征兆是什么？](https://www.zhihu.com/question/555044022)<br />
-5. [为什么说白猫在猫眼里是最丑的？有什么科学依据？](https://www.zhihu.com/question/609445968)<br />
-6. [调查称超 7 成年轻人存款不足 10 万，超 5 成存 50 至 200 万考虑退休，如何看待此数据？](https://www.zhihu.com/question/610224300)<br />
+5. [调查称超 7 成年轻人存款不足 10 万，超 5 成存 50 至 200 万考虑退休，如何看待此数据？](https://www.zhihu.com/question/610224300)<br />
+6. [为什么说白猫在猫眼里是最丑的？有什么科学依据？](https://www.zhihu.com/question/609445968)<br />
 7. [让男朋友开车带我去买电动车，买的过程他不参与意见，我有点生气怎么办？](https://www.zhihu.com/question/609945575)<br />
 8. [《原神》3.8 版本「清夏！乐园？大秘境！」现已开启，请问你的体验如何？](https://www.zhihu.com/question/610429701)<br />
 9. [目前中国企业贷款积极性不高、居民提前还贷，我国陷入「资产负债表衰退」了吗？](https://www.zhihu.com/question/610066945)<br />
