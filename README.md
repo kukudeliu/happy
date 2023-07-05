@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 07:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 07:35:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [李玟去世](https://s.weibo.com/weibo?q=%E6%9D%8E%E7%8E%9F%E5%8E%BB%E4%B8%96&t=31&band_rank=6&Refer=top)<br />
 7. [李玟](https://s.weibo.com/weibo?q=%E6%9D%8E%E7%8E%9F&t=31&band_rank=7&Refer=top)<br />
 8. [偷拿同学20元男孩被妈妈带去派出所自首](https://s.weibo.com/weibo?q=%23%E5%81%B7%E6%8B%BF%E5%90%8C%E5%AD%A620%E5%85%83%E7%94%B7%E5%AD%A9%E8%A2%AB%E5%A6%88%E5%A6%88%E5%B8%A6%E5%8E%BB%E6%B4%BE%E5%87%BA%E6%89%80%E8%87%AA%E9%A6%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [2年被家暴16次女子希望判丈夫死刑](https://s.weibo.com/weibo?q=%232%E5%B9%B4%E8%A2%AB%E5%AE%B6%E6%9A%B416%E6%AC%A1%E5%A5%B3%E5%AD%90%E5%B8%8C%E6%9C%9B%E5%88%A4%E4%B8%88%E5%A4%AB%E6%AD%BB%E5%88%91%23&t=31&band_rank=9&Refer=top)<br />
+9. [抑郁症两大原因](https://s.weibo.com/weibo?q=%23%E6%8A%91%E9%83%81%E7%97%87%E4%B8%A4%E5%A4%A7%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
