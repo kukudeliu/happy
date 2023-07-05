@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 15:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 15:54:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [张睿早几年都干嘛去了](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%9D%BF%E6%97%A9%E5%87%A0%E5%B9%B4%E9%83%BD%E5%B9%B2%E5%98%9B%E5%8E%BB%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [周润发确诊新冠](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B6%A6%E5%8F%91%E7%A1%AE%E8%AF%8A%E6%96%B0%E5%86%A0%23&t=31&band_rank=7&Refer=top)<br />
 8. [大妈300万买基金一年赚不到两万](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%A6%88300%E4%B8%87%E4%B9%B0%E5%9F%BA%E9%87%91%E4%B8%80%E5%B9%B4%E8%B5%9A%E4%B8%8D%E5%88%B0%E4%B8%A4%E4%B8%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [因为养多肉接到供电局电话](https://s.weibo.com/weibo?q=%23%E5%9B%A0%E4%B8%BA%E5%85%BB%E5%A4%9A%E8%82%89%E6%8E%A5%E5%88%B0%E4%BE%9B%E7%94%B5%E5%B1%80%E7%94%B5%E8%AF%9D%23&t=31&band_rank=9&Refer=top)<br />
+9. [井柏然 明显比我唱的好听](https://s.weibo.com/weibo?q=%E4%BA%95%E6%9F%8F%E7%84%B6%20%E6%98%8E%E6%98%BE%E6%AF%94%E6%88%91%E5%94%B1%E7%9A%84%E5%A5%BD%E5%90%AC&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -34,7 +34,7 @@
 6. [淄博烧烤“凉”了？](https://www.baidu.com/s?wd=%E6%B7%84%E5%8D%9A%E7%83%A7%E7%83%A4%E2%80%9C%E5%87%89%E2%80%9D%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [阿雅方晒毛发及尿液检测报告](https://www.baidu.com/s?wd=%E9%98%BF%E9%9B%85%E6%96%B9%E6%99%92%E6%AF%9B%E5%8F%91%E5%8F%8A%E5%B0%BF%E6%B6%B2%E6%A3%80%E6%B5%8B%E6%8A%A5%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [高级餐厅厕所用凹凸标记引争议](https://www.baidu.com/s?wd=%E9%AB%98%E7%BA%A7%E9%A4%90%E5%8E%85%E5%8E%95%E6%89%80%E7%94%A8%E5%87%B9%E5%87%B8%E6%A0%87%E8%AE%B0%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [有新冠检测公司花218亿去理财](https://www.baidu.com/s?wd=%E6%9C%89%E6%96%B0%E5%86%A0%E6%A3%80%E6%B5%8B%E5%85%AC%E5%8F%B8%E8%8A%B1218%E4%BA%BF%E5%8E%BB%E7%90%86%E8%B4%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [警方称逼男孩吃粪便3人未满14周岁](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E7%A7%B0%E9%80%BC%E7%94%B7%E5%AD%A9%E5%90%83%E7%B2%AA%E4%BE%BF3%E4%BA%BA%E6%9C%AA%E6%BB%A114%E5%91%A8%E5%B2%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [淄博烧烤“凉”了？](https://www.baidu.com/s?wd=%E6%B7%84%E5%8D%9A%E7%83%A7%E7%83%A4%E2%80%9C%E5%87%89%E2%80%9D%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [阿雅方晒毛发及尿液检测报告](https://www.baidu.com/s?wd=%E9%98%BF%E9%9B%85%E6%96%B9%E6%99%92%E6%AF%9B%E5%8F%91%E5%8F%8A%E5%B0%BF%E6%B6%B2%E6%A3%80%E6%B5%8B%E6%8A%A5%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [高级餐厅厕所用凹凸标记引争议](https://www.baidu.com/s?wd=%E9%AB%98%E7%BA%A7%E9%A4%90%E5%8E%85%E5%8E%95%E6%89%80%E7%94%A8%E5%87%B9%E5%87%B8%E6%A0%87%E8%AE%B0%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [有新冠检测公司花218亿去理财](https://www.baidu.com/s?wd=%E6%9C%89%E6%96%B0%E5%86%A0%E6%A3%80%E6%B5%8B%E5%85%AC%E5%8F%B8%E8%8A%B1218%E4%BA%BF%E5%8E%BB%E7%90%86%E8%B4%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [警方称逼男孩吃粪便3人未满14周岁](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E7%A7%B0%E9%80%BC%E7%94%B7%E5%AD%A9%E5%90%83%E7%B2%AA%E4%BE%BF3%E4%BA%BA%E6%9C%AA%E6%BB%A114%E5%91%A8%E5%B2%81&sa=fyb_news&rsv_dl=fyb_news)<br />
