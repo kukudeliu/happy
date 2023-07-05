@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 18:50:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 18:51:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [贵州村超出圈蜀黍喊话球迷](https://s.weibo.com/weibo?q=%23%E8%B4%B5%E5%B7%9E%E6%9D%91%E8%B6%85%E5%87%BA%E5%9C%88%E8%9C%80%E9%BB%8D%E5%96%8A%E8%AF%9D%E7%90%83%E8%BF%B7%23&t=31&band_rank=5&Refer=top)<br />
 6. [北京人正式被确诊为哪吒](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%BA%BA%E6%AD%A3%E5%BC%8F%E8%A2%AB%E7%A1%AE%E8%AF%8A%E4%B8%BA%E5%93%AA%E5%90%92%23&t=31&band_rank=6&Refer=top)<br />
 7. [广西现鸳鸯江奇景](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E7%8E%B0%E9%B8%B3%E9%B8%AF%E6%B1%9F%E5%A5%87%E6%99%AF%23&t=31&band_rank=7&Refer=top)<br />
-8. [清华硫酸泼熊学生成中科院副研究员](https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8D%8E%E7%A1%AB%E9%85%B8%E6%B3%BC%E7%86%8A%E5%AD%A6%E7%94%9F%E6%88%90%E4%B8%AD%E7%A7%91%E9%99%A2%E5%89%AF%E7%A0%94%E7%A9%B6%E5%91%98%23&t=31&band_rank=8&Refer=top)<br />
-9. [蔡徐坤暂缓现场出席TMEA盛典](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E6%9A%82%E7%BC%93%E7%8E%B0%E5%9C%BA%E5%87%BA%E5%B8%ADTMEA%E7%9B%9B%E5%85%B8%23&t=31&band_rank=9&Refer=top)<br />
+8. [蔡徐坤暂缓现场出席TMEA盛典](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E6%9A%82%E7%BC%93%E7%8E%B0%E5%9C%BA%E5%87%BA%E5%B8%ADTMEA%E7%9B%9B%E5%85%B8%23&t=31&band_rank=8&Refer=top)<br />
+9. [硕士毕业10年被查出论文剽窃](https://s.weibo.com/weibo?q=%23%E7%A1%95%E5%A3%AB%E6%AF%95%E4%B8%9A10%E5%B9%B4%E8%A2%AB%E6%9F%A5%E5%87%BA%E8%AE%BA%E6%96%87%E5%89%BD%E7%AA%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -19,8 +19,8 @@
 3. [为什么陈思诚的电影总能在商业上取得很好的成绩？](https://www.zhihu.com/question/609609362)<br />
 4. [调查称超 7 成年轻人存款不足 10 万，超 5 成存 50 至 200 万考虑退休，如何看待此数据？](https://www.zhihu.com/question/610224300)<br />
 5. [年轻人有多少 city walk 的时间？是不是大部分人都把时间投入到「city work」里了？](https://www.zhihu.com/question/610470097)<br />
-6. [让男朋友开车带我去买电动车，买的过程他不参与意见，我有点生气怎么办？](https://www.zhihu.com/question/609945575)<br />
-7. [丰田宣布固态电池技术获重大突破「10 分钟充满跑 1200 公里，体积重量成本将减半」，影响几何？](https://www.zhihu.com/question/610463631)<br />
+6. [丰田宣布固态电池技术获重大突破「10 分钟充满跑 1200 公里，体积重量成本将减半」，影响几何？](https://www.zhihu.com/question/610463631)<br />
+7. [让男朋友开车带我去买电动车，买的过程他不参与意见，我有点生气怎么办？](https://www.zhihu.com/question/609945575)<br />
 8. [俄乌相互指责对方密谋袭击扎波罗热核电站 ，具体情况如何？如何看待此事？](https://www.zhihu.com/question/610438524)<br />
 9. [如何看待各省市加快探索直播带岗、促进高质量就业？直播带岗未来的发展趋势是什么样的？](https://www.zhihu.com/question/610459235)<br />
 
