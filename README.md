@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 21:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 21:13:01</h4></div>
 
 > 微博  
 
-1. [TFBOYS再不官宣就不礼貌了](https://s.weibo.com/weibo?q=%23TFBOYS%E5%86%8D%E4%B8%8D%E5%AE%98%E5%AE%A3%E5%B0%B1%E4%B8%8D%E7%A4%BC%E8%B2%8C%E4%BA%86%23&t=31&band_rank=1&Refer=top)<br />
-2. [韩红首次公开回应被举报](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%BA%A2%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80%E5%9B%9E%E5%BA%94%E8%A2%AB%E4%B8%BE%E6%8A%A5%23&t=31&band_rank=2&Refer=top)<br />
+1. [韩红首次公开回应被举报](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%BA%A2%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80%E5%9B%9E%E5%BA%94%E8%A2%AB%E4%B8%BE%E6%8A%A5%23&t=31&band_rank=1&Refer=top)<br />
+2. [TFBOYS再不官宣就不礼貌了](https://s.weibo.com/weibo?q=%23TFBOYS%E5%86%8D%E4%B8%8D%E5%AE%98%E5%AE%A3%E5%B0%B1%E4%B8%8D%E7%A4%BC%E8%B2%8C%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [驰援重庆暴雨的武警官兵辛苦了](https://s.weibo.com/weibo?q=%23%E9%A9%B0%E6%8F%B4%E9%87%8D%E5%BA%86%E6%9A%B4%E9%9B%A8%E7%9A%84%E6%AD%A6%E8%AD%A6%E5%AE%98%E5%85%B5%E8%BE%9B%E8%8B%A6%E4%BA%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [光渊下架](https://s.weibo.com/weibo?q=%23%E5%85%89%E6%B8%8A%E4%B8%8B%E6%9E%B6%23&t=31&band_rank=4&Refer=top)<br />
 5. [谁给杨幂做的发型](https://s.weibo.com/weibo?q=%23%E8%B0%81%E7%BB%99%E6%9D%A8%E5%B9%82%E5%81%9A%E7%9A%84%E5%8F%91%E5%9E%8B%23&t=31&band_rank=5&Refer=top)<br />
