@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 19:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 19:39:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [断崖式分手](https://s.weibo.com/weibo?q=%E6%96%AD%E5%B4%96%E5%BC%8F%E5%88%86%E6%89%8B&t=31&band_rank=6&Refer=top)<br />
 7. [广西现鸳鸯江奇景](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E7%8E%B0%E9%B8%B3%E9%B8%AF%E6%B1%9F%E5%A5%87%E6%99%AF%23&t=31&band_rank=7&Refer=top)<br />
 8. [硕士毕业10年被查出论文剽窃](https://s.weibo.com/weibo?q=%23%E7%A1%95%E5%A3%AB%E6%AF%95%E4%B8%9A10%E5%B9%B4%E8%A2%AB%E6%9F%A5%E5%87%BA%E8%AE%BA%E6%96%87%E5%89%BD%E7%AA%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [坐高铁最好不要趴小桌板上](https://s.weibo.com/weibo?q=%23%E5%9D%90%E9%AB%98%E9%93%81%E6%9C%80%E5%A5%BD%E4%B8%8D%E8%A6%81%E8%B6%B4%E5%B0%8F%E6%A1%8C%E6%9D%BF%E4%B8%8A%23&t=31&band_rank=9&Refer=top)<br />
+9. [赵露思陈哲远沙发40秒拥吻](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E9%99%88%E5%93%B2%E8%BF%9C%E6%B2%99%E5%8F%9140%E7%A7%92%E6%8B%A5%E5%90%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [俄乌相互指责对方密谋袭击扎波罗热核电站 ，具体情况如何？如何看待此事？](https://www.zhihu.com/question/610438524)<br />
 7. [比亚迪投资 45 亿元在巴西建三座全新工厂，计划年产能达 15 万辆，如何看待该企业此举？](https://www.zhihu.com/question/610472668)<br />
 8. [让男朋友开车带我去买电动车，买的过程他不参与意见，我有点生气怎么办？](https://www.zhihu.com/question/609945575)<br />
-9. [作为「全职儿女」是一种怎样的体验？把爸妈当老板和出去工作有什么不同？](https://www.zhihu.com/question/610276483)<br />
+9. [鲁智深好歹是个提辖，还有上司庇护，为什么拳打镇关西后却逃了？](https://www.zhihu.com/question/594491024)<br />
 
 > 百度  
 
