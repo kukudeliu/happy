@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 15:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 15:57:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [张睿早几年都干嘛去了](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%9D%BF%E6%97%A9%E5%87%A0%E5%B9%B4%E9%83%BD%E5%B9%B2%E5%98%9B%E5%8E%BB%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [周润发确诊新冠](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B6%A6%E5%8F%91%E7%A1%AE%E8%AF%8A%E6%96%B0%E5%86%A0%23&t=31&band_rank=7&Refer=top)<br />
 8. [大妈300万买基金一年赚不到两万](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%A6%88300%E4%B8%87%E4%B9%B0%E5%9F%BA%E9%87%91%E4%B8%80%E5%B9%B4%E8%B5%9A%E4%B8%8D%E5%88%B0%E4%B8%A4%E4%B8%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [井柏然 明显比我唱的好听](https://s.weibo.com/weibo?q=%E4%BA%95%E6%9F%8F%E7%84%B6%20%E6%98%8E%E6%98%BE%E6%AF%94%E6%88%91%E5%94%B1%E7%9A%84%E5%A5%BD%E5%90%AC&t=31&band_rank=9&Refer=top)<br />
+9. [因为养多肉接到供电局电话](https://s.weibo.com/weibo?q=%23%E5%9B%A0%E4%B8%BA%E5%85%BB%E5%A4%9A%E8%82%89%E6%8E%A5%E5%88%B0%E4%BE%9B%E7%94%B5%E5%B1%80%E7%94%B5%E8%AF%9D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
