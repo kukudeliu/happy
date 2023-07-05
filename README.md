@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 10:40:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 10:41:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [原副市长妻子打人耳光成习惯](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E5%89%AF%E5%B8%82%E9%95%BF%E5%A6%BB%E5%AD%90%E6%89%93%E4%BA%BA%E8%80%B3%E5%85%89%E6%88%90%E4%B9%A0%E6%83%AF%23&t=31&band_rank=4&Refer=top)<br />
 5. [美国女网红直播睡觉月入1447万](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A5%B3%E7%BD%91%E7%BA%A2%E7%9B%B4%E6%92%AD%E7%9D%A1%E8%A7%89%E6%9C%88%E5%85%A51447%E4%B8%87%23&t=31&band_rank=5&Refer=top)<br />
 6. [工作八年的工资被父母拿走](https://s.weibo.com/weibo?q=%23%E5%B7%A5%E4%BD%9C%E5%85%AB%E5%B9%B4%E7%9A%84%E5%B7%A5%E8%B5%84%E8%A2%AB%E7%88%B6%E6%AF%8D%E6%8B%BF%E8%B5%B0%23&t=31&band_rank=6&Refer=top)<br />
-7. [iPhone15系列电池容量曝光](https://s.weibo.com/weibo?q=%23iPhone15%E7%B3%BB%E5%88%97%E7%94%B5%E6%B1%A0%E5%AE%B9%E9%87%8F%E6%9B%9D%E5%85%89%23&t=31&band_rank=7&Refer=top)<br />
-8. [学生恶意篡改同学高考志愿被行拘](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E6%81%B6%E6%84%8F%E7%AF%A1%E6%94%B9%E5%90%8C%E5%AD%A6%E9%AB%98%E8%80%83%E5%BF%97%E6%84%BF%E8%A2%AB%E8%A1%8C%E6%8B%98%23&t=31&band_rank=8&Refer=top)<br />
+7. [学生恶意篡改同学高考志愿被行拘](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E6%81%B6%E6%84%8F%E7%AF%A1%E6%94%B9%E5%90%8C%E5%AD%A6%E9%AB%98%E8%80%83%E5%BF%97%E6%84%BF%E8%A2%AB%E8%A1%8C%E6%8B%98%23&t=31&band_rank=7&Refer=top)<br />
+8. [iPhone15系列电池容量曝光](https://s.weibo.com/weibo?q=%23iPhone15%E7%B3%BB%E5%88%97%E7%94%B5%E6%B1%A0%E5%AE%B9%E9%87%8F%E6%9B%9D%E5%85%89%23&t=31&band_rank=8&Refer=top)<br />
 9. [起猛了看见韩栋抱肖战](https://s.weibo.com/weibo?q=%23%E8%B5%B7%E7%8C%9B%E4%BA%86%E7%9C%8B%E8%A7%81%E9%9F%A9%E6%A0%8B%E6%8A%B1%E8%82%96%E6%88%98%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
