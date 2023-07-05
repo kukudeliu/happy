@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 09:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 09:44:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [女子半夜拍蚊子走出158步吓坏母亲](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%8D%8A%E5%A4%9C%E6%8B%8D%E8%9A%8A%E5%AD%90%E8%B5%B0%E5%87%BA158%E6%AD%A5%E5%90%93%E5%9D%8F%E6%AF%8D%E4%BA%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男孩被锁车内父母心疼玻璃不愿砸](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E8%A2%AB%E9%94%81%E8%BD%A6%E5%86%85%E7%88%B6%E6%AF%8D%E5%BF%83%E7%96%BC%E7%8E%BB%E7%92%83%E4%B8%8D%E6%84%BF%E7%A0%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [考研和考编同时上岸怎么选](https://www.baidu.com/s?wd=%E8%80%83%E7%A0%94%E5%92%8C%E8%80%83%E7%BC%96%E5%90%8C%E6%97%B6%E4%B8%8A%E5%B2%B8%E6%80%8E%E4%B9%88%E9%80%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [TT战胜EDG](https://www.baidu.com/s?wd=TT%E6%88%98%E8%83%9CEDG&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [中使馆：在乌中国公民立即备案登记](https://www.baidu.com/s?wd=%E4%B8%AD%E4%BD%BF%E9%A6%86%EF%BC%9A%E5%9C%A8%E4%B9%8C%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E7%AB%8B%E5%8D%B3%E5%A4%87%E6%A1%88%E7%99%BB%E8%AE%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [女子半夜拍蚊子走出158步吓坏母亲](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%8D%8A%E5%A4%9C%E6%8B%8D%E8%9A%8A%E5%AD%90%E8%B5%B0%E5%87%BA158%E6%AD%A5%E5%90%93%E5%9D%8F%E6%AF%8D%E4%BA%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男孩被锁车内父母心疼玻璃不愿砸](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E8%A2%AB%E9%94%81%E8%BD%A6%E5%86%85%E7%88%B6%E6%AF%8D%E5%BF%83%E7%96%BC%E7%8E%BB%E7%92%83%E4%B8%8D%E6%84%BF%E7%A0%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [考研和考编同时上岸怎么选](https://www.baidu.com/s?wd=%E8%80%83%E7%A0%94%E5%92%8C%E8%80%83%E7%BC%96%E5%90%8C%E6%97%B6%E4%B8%8A%E5%B2%B8%E6%80%8E%E4%B9%88%E9%80%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [TT战胜EDG](https://www.baidu.com/s?wd=TT%E6%88%98%E8%83%9CEDG&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [中使馆：在乌中国公民立即备案登记](https://www.baidu.com/s?wd=%E4%B8%AD%E4%BD%BF%E9%A6%86%EF%BC%9A%E5%9C%A8%E4%B9%8C%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E7%AB%8B%E5%8D%B3%E5%A4%87%E6%A1%88%E7%99%BB%E8%AE%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
