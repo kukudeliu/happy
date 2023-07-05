@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 15:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 15:49:02</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [抹香鲸尸体中被发现9.5公斤龙涎香](https://www.baidu.com/s?wd=%E6%8A%B9%E9%A6%99%E9%B2%B8%E5%B0%B8%E4%BD%93%E4%B8%AD%E8%A2%AB%E5%8F%91%E7%8E%B09.5%E5%85%AC%E6%96%A4%E9%BE%99%E6%B6%8E%E9%A6%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [淄博烧烤“凉”了？](https://www.baidu.com/s?wd=%E6%B7%84%E5%8D%9A%E7%83%A7%E7%83%A4%E2%80%9C%E5%87%89%E2%80%9D%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [阿雅方晒毛发及尿液检测报告](https://www.baidu.com/s?wd=%E9%98%BF%E9%9B%85%E6%96%B9%E6%99%92%E6%AF%9B%E5%8F%91%E5%8F%8A%E5%B0%BF%E6%B6%B2%E6%A3%80%E6%B5%8B%E6%8A%A5%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子被鱼刺刺伤致手指坏死被截除](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A2%AB%E9%B1%BC%E5%88%BA%E5%88%BA%E4%BC%A4%E8%87%B4%E6%89%8B%E6%8C%87%E5%9D%8F%E6%AD%BB%E8%A2%AB%E6%88%AA%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [高级餐厅厕所用凹凸标记引争议](https://www.baidu.com/s?wd=%E9%AB%98%E7%BA%A7%E9%A4%90%E5%8E%85%E5%8E%95%E6%89%80%E7%94%A8%E5%87%B9%E5%87%B8%E6%A0%87%E8%AE%B0%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [高级餐厅厕所用凹凸标记引争议](https://www.baidu.com/s?wd=%E9%AB%98%E7%BA%A7%E9%A4%90%E5%8E%85%E5%8E%95%E6%89%80%E7%94%A8%E5%87%B9%E5%87%B8%E6%A0%87%E8%AE%B0%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [有新冠检测公司花218亿去理财](https://www.baidu.com/s?wd=%E6%9C%89%E6%96%B0%E5%86%A0%E6%A3%80%E6%B5%8B%E5%85%AC%E5%8F%B8%E8%8A%B1218%E4%BA%BF%E5%8E%BB%E7%90%86%E8%B4%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [抹香鲸尸体中被发现9.5公斤龙涎香](https://www.baidu.com/s?wd=%E6%8A%B9%E9%A6%99%E9%B2%B8%E5%B0%B8%E4%BD%93%E4%B8%AD%E8%A2%AB%E5%8F%91%E7%8E%B09.5%E5%85%AC%E6%96%A4%E9%BE%99%E6%B6%8E%E9%A6%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [淄博烧烤“凉”了？](https://www.baidu.com/s?wd=%E6%B7%84%E5%8D%9A%E7%83%A7%E7%83%A4%E2%80%9C%E5%87%89%E2%80%9D%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [阿雅方晒毛发及尿液检测报告](https://www.baidu.com/s?wd=%E9%98%BF%E9%9B%85%E6%96%B9%E6%99%92%E6%AF%9B%E5%8F%91%E5%8F%8A%E5%B0%BF%E6%B6%B2%E6%A3%80%E6%B5%8B%E6%8A%A5%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子被鱼刺刺伤致手指坏死被截除](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A2%AB%E9%B1%BC%E5%88%BA%E5%88%BA%E4%BC%A4%E8%87%B4%E6%89%8B%E6%8C%87%E5%9D%8F%E6%AD%BB%E8%A2%AB%E6%88%AA%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [高级餐厅厕所用凹凸标记引争议](https://www.baidu.com/s?wd=%E9%AB%98%E7%BA%A7%E9%A4%90%E5%8E%85%E5%8E%95%E6%89%80%E7%94%A8%E5%87%B9%E5%87%B8%E6%A0%87%E8%AE%B0%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [高级餐厅厕所用凹凸标记引争议](https://www.baidu.com/s?wd=%E9%AB%98%E7%BA%A7%E9%A4%90%E5%8E%85%E5%8E%95%E6%89%80%E7%94%A8%E5%87%B9%E5%87%B8%E6%A0%87%E8%AE%B0%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [有新冠检测公司花218亿去理财](https://www.baidu.com/s?wd=%E6%9C%89%E6%96%B0%E5%86%A0%E6%A3%80%E6%B5%8B%E5%85%AC%E5%8F%B8%E8%8A%B1218%E4%BA%BF%E5%8E%BB%E7%90%86%E8%B4%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
