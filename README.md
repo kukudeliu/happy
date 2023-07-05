@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 21:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 21:25:01</h4></div>
 
 > 微博  
 
-1. [韩红首次公开回应被举报](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%BA%A2%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80%E5%9B%9E%E5%BA%94%E8%A2%AB%E4%B8%BE%E6%8A%A5%23&t=31&band_rank=1&Refer=top)<br />
-2. [李玟去世](https://s.weibo.com/weibo?q=%E6%9D%8E%E7%8E%9F%E5%8E%BB%E4%B8%96&t=31&band_rank=2&Refer=top)<br />
+1. [李玟去世](https://s.weibo.com/weibo?q=%E6%9D%8E%E7%8E%9F%E5%8E%BB%E4%B8%96&t=31&band_rank=1&Refer=top)<br />
+2. [韩红首次公开回应被举报](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%BA%A2%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80%E5%9B%9E%E5%BA%94%E8%A2%AB%E4%B8%BE%E6%8A%A5%23&t=31&band_rank=2&Refer=top)<br />
 3. [驰援重庆暴雨的武警官兵辛苦了](https://s.weibo.com/weibo?q=%23%E9%A9%B0%E6%8F%B4%E9%87%8D%E5%BA%86%E6%9A%B4%E9%9B%A8%E7%9A%84%E6%AD%A6%E8%AD%A6%E5%AE%98%E5%85%B5%E8%BE%9B%E8%8B%A6%E4%BA%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [TFBOYS再不官宣就不礼貌了](https://s.weibo.com/weibo?q=%23TFBOYS%E5%86%8D%E4%B8%8D%E5%AE%98%E5%AE%A3%E5%B0%B1%E4%B8%8D%E7%A4%BC%E8%B2%8C%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [刘雯穿几十斤重锁链裙走秀](https://s.weibo.com/weibo?q=%23%E5%88%98%E9%9B%AF%E7%A9%BF%E5%87%A0%E5%8D%81%E6%96%A4%E9%87%8D%E9%94%81%E9%93%BE%E8%A3%99%E8%B5%B0%E7%A7%80%23&t=31&band_rank=5&Refer=top)<br />
 6. [光渊下架](https://s.weibo.com/weibo?q=%23%E5%85%89%E6%B8%8A%E4%B8%8B%E6%9E%B6%23&t=31&band_rank=6&Refer=top)<br />
-7. [谁给杨幂做的发型](https://s.weibo.com/weibo?q=%23%E8%B0%81%E7%BB%99%E6%9D%A8%E5%B9%82%E5%81%9A%E7%9A%84%E5%8F%91%E5%9E%8B%23&t=31&band_rank=7&Refer=top)<br />
-8. [圆肩驼背探颈是种病](https://s.weibo.com/weibo?q=%E5%9C%86%E8%82%A9%E9%A9%BC%E8%83%8C%E6%8E%A2%E9%A2%88%E6%98%AF%E7%A7%8D%E7%97%85&t=31&band_rank=8&Refer=top)<br />
-9. [硕士毕业10年被查出论文剽窃](https://s.weibo.com/weibo?q=%23%E7%A1%95%E5%A3%AB%E6%AF%95%E4%B8%9A10%E5%B9%B4%E8%A2%AB%E6%9F%A5%E5%87%BA%E8%AE%BA%E6%96%87%E5%89%BD%E7%AA%83%23&t=31&band_rank=9&Refer=top)<br />
+7. [圆肩驼背探颈是种病](https://s.weibo.com/weibo?q=%E5%9C%86%E8%82%A9%E9%A9%BC%E8%83%8C%E6%8E%A2%E9%A2%88%E6%98%AF%E7%A7%8D%E7%97%85&t=31&band_rank=7&Refer=top)<br />
+8. [硕士毕业10年被查出论文剽窃](https://s.weibo.com/weibo?q=%23%E7%A1%95%E5%A3%AB%E6%AF%95%E4%B8%9A10%E5%B9%B4%E8%A2%AB%E6%9F%A5%E5%87%BA%E8%AE%BA%E6%96%87%E5%89%BD%E7%AA%83%23&t=31&band_rank=8&Refer=top)<br />
+9. [坐高铁最好不要趴小桌板上](https://s.weibo.com/weibo?q=%23%E5%9D%90%E9%AB%98%E9%93%81%E6%9C%80%E5%A5%BD%E4%B8%8D%E8%A6%81%E8%B6%B4%E5%B0%8F%E6%A1%8C%E6%9D%BF%E4%B8%8A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
