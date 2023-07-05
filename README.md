@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 22:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 22:18:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [韩红首次公开回应被举报](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%BA%A2%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80%E5%9B%9E%E5%BA%94%E8%A2%AB%E4%B8%BE%E6%8A%A5%23&t=31&band_rank=6&Refer=top)<br />
 7. [圆肩驼背探颈是种病](https://s.weibo.com/weibo?q=%E5%9C%86%E8%82%A9%E9%A9%BC%E8%83%8C%E6%8E%A2%E9%A2%88%E6%98%AF%E7%A7%8D%E7%97%85&t=31&band_rank=7&Refer=top)<br />
 8. [断崖式分手](https://s.weibo.com/weibo?q=%E6%96%AD%E5%B4%96%E5%BC%8F%E5%88%86%E6%89%8B&t=31&band_rank=8&Refer=top)<br />
-9. [座头鲸妈妈把乳汁喷射到宝宝口中](https://s.weibo.com/weibo?q=%23%E5%BA%A7%E5%A4%B4%E9%B2%B8%E5%A6%88%E5%A6%88%E6%8A%8A%E4%B9%B3%E6%B1%81%E5%96%B7%E5%B0%84%E5%88%B0%E5%AE%9D%E5%AE%9D%E5%8F%A3%E4%B8%AD%23&t=31&band_rank=9&Refer=top)<br />
+9. [坐高铁最好不要趴小桌板上](https://s.weibo.com/weibo?q=%23%E5%9D%90%E9%AB%98%E9%93%81%E6%9C%80%E5%A5%BD%E4%B8%8D%E8%A6%81%E8%B6%B4%E5%B0%8F%E6%A1%8C%E6%9D%BF%E4%B8%8A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -18,11 +18,11 @@
 2. [丰田宣布固态电池技术获重大突破「10 分钟充满跑 1200 公里，体积重量成本将减半」，影响几何？](https://www.zhihu.com/question/610463631)<br />
 3. [中南大学一校友「匿名」向母校捐赠六亿元，校方回应「校友不愿出名想做实在事」，将会产生哪些社会影响？](https://www.zhihu.com/question/610238278)<br />
 4. [歌手李玟因抑郁症轻生去世，她已出道近 30 年，你对她有什么印象？面对抑郁症我们还能帮他们做些什么？](https://www.zhihu.com/question/610553893)<br />
-5. [中国陷入资产负债表衰退是真相还是噱头，提前还贷能缓解家庭负债压力吗？](https://www.zhihu.com/theater/97424)<br />
-6. [报道称欧盟外长博雷利原定下周访华被中方取消，外交部称愿同欧方继续保持沟通，取消原因是什么？如何解读？](https://www.zhihu.com/question/610463055)<br />
-7. [如何看待起售价为 1399 元起的荣耀 X50 ？有哪些亮点和不足？](https://www.zhihu.com/question/610537841)<br />
-8. [8 名代表建议「返还企业高管个税」，当地财税部门回应「违反个税立法根本，无法实现」，哪些信息值得关注？](https://www.zhihu.com/question/610431175)<br />
-9. [重庆万州区遭暴雨袭击，因灾死亡 15 人，失踪 4 人，目前情况如何？](https://www.zhihu.com/question/610456313)<br />
+5. [报道称欧盟外长博雷利原定下周访华被中方取消，外交部称愿同欧方继续保持沟通，取消原因是什么？如何解读？](https://www.zhihu.com/question/610463055)<br />
+6. [如何看待起售价为 1399 元起的荣耀 X50 ？有哪些亮点和不足？](https://www.zhihu.com/question/610537841)<br />
+7. [8 名代表建议「返还企业高管个税」，当地财税部门回应「违反个税立法根本，无法实现」，哪些信息值得关注？](https://www.zhihu.com/question/610431175)<br />
+8. [重庆万州区遭暴雨袭击，因灾死亡 15 人，失踪 4 人，目前情况如何？](https://www.zhihu.com/question/610456313)<br />
+9. [2023 LPL 夏季赛 BLG 2:0 击败 TES，如何评价这场比赛？](https://www.zhihu.com/question/610514738)<br />
 
 > 百度  
 
