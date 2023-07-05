@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 01:59:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 02:00:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [你敢穿 30 元一件的衣服去上班吗？](https://www.zhihu.com/question/606509967)<br />
 6. [这个字真的不能用来参加高考吗？](https://www.zhihu.com/question/607978069)<br />
 7. [此前对中国半导体出手的荷兰敦促欧盟回应中方对镓、锗实施出口管制，荷兰在急什么？欧盟将如何应对？](https://www.zhihu.com/question/610538153)<br />
-8. []()<br />
-9. [大量店铺转让，小饼「内卷」带来供应过剩，淄博烧烤「凉」了吗？为什么会出现这种现象？](https://www.zhihu.com/question/610461393)<br />
+8. [大量店铺转让，小饼「内卷」带来供应过剩，淄博烧烤「凉」了吗？为什么会出现这种现象？](https://www.zhihu.com/question/610461393)<br />
+9. []()<br />
 
 > 百度  
 
@@ -34,7 +34,7 @@
 6. [李玟80岁母亲最先发现女儿轻生](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F80%E5%B2%81%E6%AF%8D%E4%BA%B2%E6%9C%80%E5%85%88%E5%8F%91%E7%8E%B0%E5%A5%B3%E5%84%BF%E8%BD%BB%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [#众星发文悼念李玟#](https://www.baidu.com/s?wd=%23%E4%BC%97%E6%98%9F%E5%8F%91%E6%96%87%E6%82%BC%E5%BF%B5%E6%9D%8E%E7%8E%9F%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [李玟为世界奉献好心情到最后一刻](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E4%B8%BA%E4%B8%96%E7%95%8C%E5%A5%89%E7%8C%AE%E5%A5%BD%E5%BF%83%E6%83%85%E5%88%B0%E6%9C%80%E5%90%8E%E4%B8%80%E5%88%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [2023年那些离开我们的人](https://www.baidu.com/s?wd=2023%E5%B9%B4%E9%82%A3%E4%BA%9B%E7%A6%BB%E5%BC%80%E6%88%91%E4%BB%AC%E7%9A%84%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [微笑抑郁症](https://www.baidu.com/s?wd=%E5%BE%AE%E7%AC%91%E6%8A%91%E9%83%81%E7%97%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [李玟80岁母亲最先发现女儿轻生](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F80%E5%B2%81%E6%AF%8D%E4%BA%B2%E6%9C%80%E5%85%88%E5%8F%91%E7%8E%B0%E5%A5%B3%E5%84%BF%E8%BD%BB%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [#众星发文悼念李玟#](https://www.baidu.com/s?wd=%23%E4%BC%97%E6%98%9F%E5%8F%91%E6%96%87%E6%82%BC%E5%BF%B5%E6%9D%8E%E7%8E%9F%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [李玟为世界奉献好心情到最后一刻](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E4%B8%BA%E4%B8%96%E7%95%8C%E5%A5%89%E7%8C%AE%E5%A5%BD%E5%BF%83%E6%83%85%E5%88%B0%E6%9C%80%E5%90%8E%E4%B8%80%E5%88%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [2023年那些离开我们的人](https://www.baidu.com/s?wd=2023%E5%B9%B4%E9%82%A3%E4%BA%9B%E7%A6%BB%E5%BC%80%E6%88%91%E4%BB%AC%E7%9A%84%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [微笑抑郁症](https://www.baidu.com/s?wd=%E5%BE%AE%E7%AC%91%E6%8A%91%E9%83%81%E7%97%87&sa=fyb_news&rsv_dl=fyb_news)<br />
