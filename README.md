@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 10:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 10:53:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [中南大学一校友「匿名」向母校捐赠六亿元，校方回应「校友不愿出名想做实在事」，将会产生哪些社会影响？](https://www.zhihu.com/question/610238278)<br />
 7. [中国有真正的汽车文化吗？](https://www.zhihu.com/question/318609913)<br />
 8. [心术不正的人会有哪些表现?](https://www.zhihu.com/question/606642834)<br />
-9. [高考完无聊有什么可以干的吗？](https://www.zhihu.com/question/610350222)<br />
+9. [盖伦沉默增加 10 秒能上职业联赛吗?](https://www.zhihu.com/question/610089911)<br />
 
 > 百度  
 
