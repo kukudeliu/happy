@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 20:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-05 20:51:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [中国陷入资产负债表衰退是真相还是噱头，提前还贷能缓解家庭负债压力吗？](https://www.zhihu.com/theater/97424)<br />
 6. [如何评价王宝强执导的电影《八角笼中》？](https://www.zhihu.com/question/603748979)<br />
 7. [报道称欧盟外长博雷利原定下周访华被中方取消，外交部称愿同欧方继续保持沟通，取消原因是什么？如何解读？](https://www.zhihu.com/question/610463055)<br />
-8. [比亚迪投资 45 亿元在巴西建三座全新工厂，计划年产能达 15 万辆，如何看待该企业此举？](https://www.zhihu.com/question/610472668)<br />
-9. [假如一只被特别娇惯的猫突然失去主人，能适应以后的生活吗？](https://www.zhihu.com/question/609779217)<br />
+8. [假如一只被特别娇惯的猫突然失去主人，能适应以后的生活吗？](https://www.zhihu.com/question/609779217)<br />
+9. [如何评价电影《艋舺》？](https://www.zhihu.com/question/23229737)<br />
 
 > 百度  
 
