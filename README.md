@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 12:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 12:29:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [李玟遗产全部留给母亲](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E9%81%97%E4%BA%A7%E5%85%A8%E9%83%A8%E7%95%99%E7%BB%99%E6%AF%8D%E4%BA%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [浙江一村资产500万以下是困难户](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E6%9D%91%E8%B5%84%E4%BA%A7500%E4%B8%87%E4%BB%A5%E4%B8%8B%E6%98%AF%E5%9B%B0%E9%9A%BE%E6%88%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [#中国好声音悼念李玟引争议#](https://www.baidu.com/s?wd=%23%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E6%82%BC%E5%BF%B5%E6%9D%8E%E7%8E%9F%E5%BC%95%E4%BA%89%E8%AE%AE%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女童被继母虐待致残 其父称绝不和解](https://www.baidu.com/s?wd=%E5%A5%B3%E7%AB%A5%E8%A2%AB%E7%BB%A7%E6%AF%8D%E8%99%90%E5%BE%85%E8%87%B4%E6%AE%8B+%E5%85%B6%E7%88%B6%E7%A7%B0%E7%BB%9D%E4%B8%8D%E5%92%8C%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [好友否认麦当娜脑死亡](https://www.baidu.com/s?wd=%E5%A5%BD%E5%8F%8B%E5%90%A6%E8%AE%A4%E9%BA%A6%E5%BD%93%E5%A8%9C%E8%84%91%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女司机醉驾撞人受害者生活不能自理](https://www.baidu.com/s?wd=%E5%A5%B3%E5%8F%B8%E6%9C%BA%E9%86%89%E9%A9%BE%E6%92%9E%E4%BA%BA%E5%8F%97%E5%AE%B3%E8%80%85%E7%94%9F%E6%B4%BB%E4%B8%8D%E8%83%BD%E8%87%AA%E7%90%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女童被继母虐待致残 其父称绝不和解](https://www.baidu.com/s?wd=%E5%A5%B3%E7%AB%A5%E8%A2%AB%E7%BB%A7%E6%AF%8D%E8%99%90%E5%BE%85%E8%87%B4%E6%AE%8B+%E5%85%B6%E7%88%B6%E7%A7%B0%E7%BB%9D%E4%B8%8D%E5%92%8C%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [李玟遗产全部留给母亲](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E9%81%97%E4%BA%A7%E5%85%A8%E9%83%A8%E7%95%99%E7%BB%99%E6%AF%8D%E4%BA%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [浙江一村资产500万以下是困难户](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E6%9D%91%E8%B5%84%E4%BA%A7500%E4%B8%87%E4%BB%A5%E4%B8%8B%E6%98%AF%E5%9B%B0%E9%9A%BE%E6%88%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [#中国好声音悼念李玟引争议#](https://www.baidu.com/s?wd=%23%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E6%82%BC%E5%BF%B5%E6%9D%8E%E7%8E%9F%E5%BC%95%E4%BA%89%E8%AE%AE%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女童被继母虐待致残 其父称绝不和解](https://www.baidu.com/s?wd=%E5%A5%B3%E7%AB%A5%E8%A2%AB%E7%BB%A7%E6%AF%8D%E8%99%90%E5%BE%85%E8%87%B4%E6%AE%8B+%E5%85%B6%E7%88%B6%E7%A7%B0%E7%BB%9D%E4%B8%8D%E5%92%8C%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [好友否认麦当娜脑死亡](https://www.baidu.com/s?wd=%E5%A5%BD%E5%8F%8B%E5%90%A6%E8%AE%A4%E9%BA%A6%E5%BD%93%E5%A8%9C%E8%84%91%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女司机醉驾撞人受害者生活不能自理](https://www.baidu.com/s?wd=%E5%A5%B3%E5%8F%B8%E6%9C%BA%E9%86%89%E9%A9%BE%E6%92%9E%E4%BA%BA%E5%8F%97%E5%AE%B3%E8%80%85%E7%94%9F%E6%B4%BB%E4%B8%8D%E8%83%BD%E8%87%AA%E7%90%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女童被继母虐待致残 其父称绝不和解](https://www.baidu.com/s?wd=%E5%A5%B3%E7%AB%A5%E8%A2%AB%E7%BB%A7%E6%AF%8D%E8%99%90%E5%BE%85%E8%87%B4%E6%AE%8B+%E5%85%B6%E7%88%B6%E7%A7%B0%E7%BB%9D%E4%B8%8D%E5%92%8C%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
