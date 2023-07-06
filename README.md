@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 20:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 20:09:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [男子偷走女友家80瓶飞天茅台](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%B7%E8%B5%B0%E5%A5%B3%E5%8F%8B%E5%AE%B680%E7%93%B6%E9%A3%9E%E5%A4%A9%E8%8C%85%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [特别节目：我们的CoCo李玟](https://www.baidu.com/s?wd=%E7%89%B9%E5%88%AB%E8%8A%82%E7%9B%AE%EF%BC%9A%E6%88%91%E4%BB%AC%E7%9A%84CoCo%E6%9D%8E%E7%8E%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [花百万上大学上了1年发现没入学](https://www.baidu.com/s?wd=%E8%8A%B1%E7%99%BE%E4%B8%87%E4%B8%8A%E5%A4%A7%E5%AD%A6%E4%B8%8A%E4%BA%861%E5%B9%B4%E5%8F%91%E7%8E%B0%E6%B2%A1%E5%85%A5%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [明明看起来很乐观为什么会得抑郁症](https://www.baidu.com/s?wd=%E6%98%8E%E6%98%8E%E7%9C%8B%E8%B5%B7%E6%9D%A5%E5%BE%88%E4%B9%90%E8%A7%82%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E5%BE%97%E6%8A%91%E9%83%81%E7%97%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [关于抑郁症的10个真相](https://www.baidu.com/s?wd=%E5%85%B3%E4%BA%8E%E6%8A%91%E9%83%81%E7%97%87%E7%9A%8410%E4%B8%AA%E7%9C%9F%E7%9B%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [男子偷走女友家80瓶飞天茅台](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%B7%E8%B5%B0%E5%A5%B3%E5%8F%8B%E5%AE%B680%E7%93%B6%E9%A3%9E%E5%A4%A9%E8%8C%85%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [特别节目：我们的CoCo李玟](https://www.baidu.com/s?wd=%E7%89%B9%E5%88%AB%E8%8A%82%E7%9B%AE%EF%BC%9A%E6%88%91%E4%BB%AC%E7%9A%84CoCo%E6%9D%8E%E7%8E%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [花百万上大学上了1年发现没入学](https://www.baidu.com/s?wd=%E8%8A%B1%E7%99%BE%E4%B8%87%E4%B8%8A%E5%A4%A7%E5%AD%A6%E4%B8%8A%E4%BA%861%E5%B9%B4%E5%8F%91%E7%8E%B0%E6%B2%A1%E5%85%A5%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [明明看起来很乐观为什么会得抑郁症](https://www.baidu.com/s?wd=%E6%98%8E%E6%98%8E%E7%9C%8B%E8%B5%B7%E6%9D%A5%E5%BE%88%E4%B9%90%E8%A7%82%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E5%BE%97%E6%8A%91%E9%83%81%E7%97%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [关于抑郁症的10个真相](https://www.baidu.com/s?wd=%E5%85%B3%E4%BA%8E%E6%8A%91%E9%83%81%E7%97%87%E7%9A%8410%E4%B8%AA%E7%9C%9F%E7%9B%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
