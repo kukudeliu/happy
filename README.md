@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 20:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 20:22:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [程青松喊话王宝强退还金扫帚](https://s.weibo.com/weibo?q=%23%E7%A8%8B%E9%9D%92%E6%9D%BE%E5%96%8A%E8%AF%9D%E7%8E%8B%E5%AE%9D%E5%BC%BA%E9%80%80%E8%BF%98%E9%87%91%E6%89%AB%E5%B8%9A%23&t=31&band_rank=6&Refer=top)<br />
 7. [老人卖桑葚担心价格太贵主动降价](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%8D%96%E6%A1%91%E8%91%9A%E6%8B%85%E5%BF%83%E4%BB%B7%E6%A0%BC%E5%A4%AA%E8%B4%B5%E4%B8%BB%E5%8A%A8%E9%99%8D%E4%BB%B7%23&t=31&band_rank=7&Refer=top)<br />
 8. [黄晓明 CoCo一直像小太阳](https://s.weibo.com/weibo?q=%E9%BB%84%E6%99%93%E6%98%8E%20CoCo%E4%B8%80%E7%9B%B4%E5%83%8F%E5%B0%8F%E5%A4%AA%E9%98%B3&t=31&band_rank=8&Refer=top)<br />
-9. [王雪峰被开除党籍](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%9B%AA%E5%B3%B0%E8%A2%AB%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D%23&t=31&band_rank=9&Refer=top)<br />
+9. [胡锡进 农民工退休待遇](https://s.weibo.com/weibo?q=%E8%83%A1%E9%94%A1%E8%BF%9B%20%E5%86%9C%E6%B0%91%E5%B7%A5%E9%80%80%E4%BC%91%E5%BE%85%E9%81%87&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
