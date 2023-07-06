@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 13:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 13:33:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [突发火灾妈妈将婴儿从4楼扔下楼求生](https://s.weibo.com/weibo?q=%23%E7%AA%81%E5%8F%91%E7%81%AB%E7%81%BE%E5%A6%88%E5%A6%88%E5%B0%86%E5%A9%B4%E5%84%BF%E4%BB%8E4%E6%A5%BC%E6%89%94%E4%B8%8B%E6%A5%BC%E6%B1%82%E7%94%9F%23&t=31&band_rank=6&Refer=top)<br />
 7. [成龙 CoCo是天生的明星](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%BE%99%20CoCo%E6%98%AF%E5%A4%A9%E7%94%9F%E7%9A%84%E6%98%8E%E6%98%9F%23&t=31&band_rank=7&Refer=top)<br />
 8. [boss直聘](https://s.weibo.com/weibo?q=boss%E7%9B%B4%E8%81%98&t=31&band_rank=8&Refer=top)<br />
-9. [2年被家暴16次女子希望判丈夫死刑](https://s.weibo.com/weibo?q=%232%E5%B9%B4%E8%A2%AB%E5%AE%B6%E6%9A%B416%E6%AC%A1%E5%A5%B3%E5%AD%90%E5%B8%8C%E6%9C%9B%E5%88%A4%E4%B8%88%E5%A4%AB%E6%AD%BB%E5%88%91%23&t=31&band_rank=9&Refer=top)<br />
+9. [烫了个爆炸头把小猫耳朵吓没了](https://s.weibo.com/weibo?q=%E7%83%AB%E4%BA%86%E4%B8%AA%E7%88%86%E7%82%B8%E5%A4%B4%E6%8A%8A%E5%B0%8F%E7%8C%AB%E8%80%B3%E6%9C%B5%E5%90%93%E6%B2%A1%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -19,8 +19,8 @@
 3. [美国总统参选人表示「中国周边有 313 个美军基地，其他国家会觉得谁对全球安全威胁更大」，如何评价？](https://www.zhihu.com/question/610542360)<br />
 4. [为什么李玟明明看起来那么开朗自信，却罹患抑郁症？](https://www.zhihu.com/question/610557808)<br />
 5. [代遛狗城市热度图发布，超十万人在闲鱼发布「可代遛狗」贴，武汉市内「一狗难求」，代遛狗需求为何如此火爆？](https://www.zhihu.com/question/610497990)<br />
-6. [「深夜拉群、积分打卡、朋友圈转发」打工人深受其害，中央整治形式主义专项会议召开，会带来改变吗？](https://www.zhihu.com/question/610480659)<br />
-7. [房地产业低迷，百万农民工被迫失业或转行，当农民工「退休」，收入下滑焦虑在家庭弥漫，如何保障他们的生活？](https://www.zhihu.com/question/610633138)<br />
+6. [房地产业低迷，百万农民工被迫失业或转行，当农民工「退休」，收入下滑焦虑在家庭弥漫，如何保障他们的生活？](https://www.zhihu.com/question/610633138)<br />
+7. [「深夜拉群、积分打卡、朋友圈转发」打工人深受其害，中央整治形式主义专项会议召开，会带来改变吗？](https://www.zhihu.com/question/610480659)<br />
 8. [快到订婚的日子了，男朋友突然提分手，我该怎么办?](https://www.zhihu.com/question/610191146)<br />
 9. [游戏《永劫无间》宣布销量突破 2000 万、并即将转为免费游戏，有哪些值得关注的？](https://www.zhihu.com/question/610483242)<br />
 
