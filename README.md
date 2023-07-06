@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 21:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 21:12:01</h4></div>
 
 > 微博  
 
@@ -17,9 +17,9 @@
 1. [房地产业低迷，百万农民工被迫失业或转行，当农民工「退休」，收入下滑焦虑在家庭弥漫，如何保障他们的生活？](https://www.zhihu.com/question/610633138)<br />
 2. [76.1% 的农民工 60 岁后不愿休息，为何会出现这样的情况？他们的晚年如何「安放」？](https://www.zhihu.com/question/610495725)<br />
 3. [上海交大录取通知书里有「一滴水」，北科大的通知书「由钢制成」，哪些高校的录取通知书给你留下了深刻印象？](https://www.zhihu.com/question/610635358)<br />
-4. [公司为什么要实行薪酬保密制度？](https://www.zhihu.com/question/28079407)<br />
+4. [三亚一海鲜店短斤缺两罚款 30 万，涉事商户被清退出场，将起到哪些警示作用？](https://www.zhihu.com/question/610555575)<br />
 5. [王宝强新片《八角笼中》上映，电影主角有哪些不为人知的幕后故事？](https://www.zhihu.com/theater/92559)<br />
-6. [三亚一海鲜店短斤缺两罚款 30 万，涉事商户被清退出场，将起到哪些警示作用？](https://www.zhihu.com/question/610555575)<br />
+6. [公司为什么要实行薪酬保密制度？](https://www.zhihu.com/question/28079407)<br />
 7. [交警查酒驾时后排男子亮出警官证质问「能不能走」，官方回应「正在调查处理」，后续调查有何进展？](https://www.zhihu.com/question/610659420)<br />
 8. [2023 年 6 月，31 省份新增新冠重症病例 1968 例、死亡 239 例，这一数据说明了什么？](https://www.zhihu.com/question/610625066)<br />
 9. [如何评价古天乐、郭富城、刘青云主演的动作犯罪电影《扫毒 3：人在天涯》？](https://www.zhihu.com/question/610485745)<br />
@@ -33,8 +33,8 @@
 5. [李玟老公发讣文：送别挚爱 万分悲痛](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E8%80%81%E5%85%AC%E5%8F%91%E8%AE%A3%E6%96%87%EF%BC%9A%E9%80%81%E5%88%AB%E6%8C%9A%E7%88%B1+%E4%B8%87%E5%88%86%E6%82%B2%E7%97%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [金星再回应捂胸](https://www.baidu.com/s?wd=%E9%87%91%E6%98%9F%E5%86%8D%E5%9B%9E%E5%BA%94%E6%8D%82%E8%83%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [特别节目：我们的CoCo李玟](https://www.baidu.com/s?wd=%E7%89%B9%E5%88%AB%E8%8A%82%E7%9B%AE%EF%BC%9A%E6%88%91%E4%BB%AC%E7%9A%84CoCo%E6%9D%8E%E7%8E%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [20道题自测有没有抑郁风险](https://www.baidu.com/s?wd=20%E9%81%93%E9%A2%98%E8%87%AA%E6%B5%8B%E6%9C%89%E6%B2%A1%E6%9C%89%E6%8A%91%E9%83%81%E9%A3%8E%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [程青松喊话王宝强退还金扫帚](https://www.baidu.com/s?wd=%E7%A8%8B%E9%9D%92%E6%9D%BE%E5%96%8A%E8%AF%9D%E7%8E%8B%E5%AE%9D%E5%BC%BA%E9%80%80%E8%BF%98%E9%87%91%E6%89%AB%E5%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [程青松喊话王宝强退还金扫帚](https://www.baidu.com/s?wd=%E7%A8%8B%E9%9D%92%E6%9D%BE%E5%96%8A%E8%AF%9D%E7%8E%8B%E5%AE%9D%E5%BC%BA%E9%80%80%E8%BF%98%E9%87%91%E6%89%AB%E5%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [20道题自测有没有抑郁风险](https://www.baidu.com/s?wd=20%E9%81%93%E9%A2%98%E8%87%AA%E6%B5%8B%E6%9C%89%E6%B2%A1%E6%9C%89%E6%8A%91%E9%83%81%E9%A3%8E%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [李玟老公发讣文：送别挚爱 万分悲痛](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E8%80%81%E5%85%AC%E5%8F%91%E8%AE%A3%E6%96%87%EF%BC%9A%E9%80%81%E5%88%AB%E6%8C%9A%E7%88%B1+%E4%B8%87%E5%88%86%E6%82%B2%E7%97%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [金星再回应捂胸](https://www.baidu.com/s?wd=%E9%87%91%E6%98%9F%E5%86%8D%E5%9B%9E%E5%BA%94%E6%8D%82%E8%83%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [特别节目：我们的CoCo李玟](https://www.baidu.com/s?wd=%E7%89%B9%E5%88%AB%E8%8A%82%E7%9B%AE%EF%BC%9A%E6%88%91%E4%BB%AC%E7%9A%84CoCo%E6%9D%8E%E7%8E%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [20道题自测有没有抑郁风险](https://www.baidu.com/s?wd=20%E9%81%93%E9%A2%98%E8%87%AA%E6%B5%8B%E6%9C%89%E6%B2%A1%E6%9C%89%E6%8A%91%E9%83%81%E9%A3%8E%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [程青松喊话王宝强退还金扫帚](https://www.baidu.com/s?wd=%E7%A8%8B%E9%9D%92%E6%9D%BE%E5%96%8A%E8%AF%9D%E7%8E%8B%E5%AE%9D%E5%BC%BA%E9%80%80%E8%BF%98%E9%87%91%E6%89%AB%E5%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [程青松喊话王宝强退还金扫帚](https://www.baidu.com/s?wd=%E7%A8%8B%E9%9D%92%E6%9D%BE%E5%96%8A%E8%AF%9D%E7%8E%8B%E5%AE%9D%E5%BC%BA%E9%80%80%E8%BF%98%E9%87%91%E6%89%AB%E5%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [20道题自测有没有抑郁风险](https://www.baidu.com/s?wd=20%E9%81%93%E9%A2%98%E8%87%AA%E6%B5%8B%E6%9C%89%E6%B2%A1%E6%9C%89%E6%8A%91%E9%83%81%E9%A3%8E%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
