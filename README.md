@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 10:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 10:05:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [上海交通大学录取通知书里有一滴水](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E9%87%8C%E6%9C%89%E4%B8%80%E6%BB%B4%E6%B0%B4%23&t=31&band_rank=2&Refer=top)<br />
 3. [世界最早印花工具做出的汉服有多美](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9C%80%E6%97%A9%E5%8D%B0%E8%8A%B1%E5%B7%A5%E5%85%B7%E5%81%9A%E5%87%BA%E7%9A%84%E6%B1%89%E6%9C%8D%E6%9C%89%E5%A4%9A%E7%BE%8E%23&t=31&band_rank=3&Refer=top)<br />
 4. [林俊杰 失去了你音乐宇宙将不再如昔](https://s.weibo.com/weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%20%E5%A4%B1%E5%8E%BB%E4%BA%86%E4%BD%A0%E9%9F%B3%E4%B9%90%E5%AE%87%E5%AE%99%E5%B0%86%E4%B8%8D%E5%86%8D%E5%A6%82%E6%98%94&t=31&band_rank=4&Refer=top)<br />
-5. [他袜子满是补丁去世才被发现没领过工资](https://s.weibo.com/weibo?q=%23%E4%BB%96%E8%A2%9C%E5%AD%90%E6%BB%A1%E6%98%AF%E8%A1%A5%E4%B8%81%E5%8E%BB%E4%B8%96%E6%89%8D%E8%A2%AB%E5%8F%91%E7%8E%B0%E6%B2%A1%E9%A2%86%E8%BF%87%E5%B7%A5%E8%B5%84%23&t=31&band_rank=5&Refer=top)<br />
-6. [抢教授话筒的同学被哈工大录取](https://s.weibo.com/weibo?q=%E6%8A%A2%E6%95%99%E6%8E%88%E8%AF%9D%E7%AD%92%E7%9A%84%E5%90%8C%E5%AD%A6%E8%A2%AB%E5%93%88%E5%B7%A5%E5%A4%A7%E5%BD%95%E5%8F%96&t=31&band_rank=6&Refer=top)<br />
+5. [抢教授话筒的同学被哈工大录取](https://s.weibo.com/weibo?q=%E6%8A%A2%E6%95%99%E6%8E%88%E8%AF%9D%E7%AD%92%E7%9A%84%E5%90%8C%E5%AD%A6%E8%A2%AB%E5%93%88%E5%B7%A5%E5%A4%A7%E5%BD%95%E5%8F%96&t=31&band_rank=5&Refer=top)<br />
+6. [他袜子满是补丁去世才被发现没领过工资](https://s.weibo.com/weibo?q=%23%E4%BB%96%E8%A2%9C%E5%AD%90%E6%BB%A1%E6%98%AF%E8%A1%A5%E4%B8%81%E5%8E%BB%E4%B8%96%E6%89%8D%E8%A2%AB%E5%8F%91%E7%8E%B0%E6%B2%A1%E9%A2%86%E8%BF%87%E5%B7%A5%E8%B5%84%23&t=31&band_rank=6&Refer=top)<br />
 7. [姐姐忆述李玟生死一刻](https://s.weibo.com/weibo?q=%23%E5%A7%90%E5%A7%90%E5%BF%86%E8%BF%B0%E6%9D%8E%E7%8E%9F%E7%94%9F%E6%AD%BB%E4%B8%80%E5%88%BB%23&t=31&band_rank=7&Refer=top)<br />
-8. [2年被家暴16次女子希望判丈夫死刑](https://s.weibo.com/weibo?q=%232%E5%B9%B4%E8%A2%AB%E5%AE%B6%E6%9A%B416%E6%AC%A1%E5%A5%B3%E5%AD%90%E5%B8%8C%E6%9C%9B%E5%88%A4%E4%B8%88%E5%A4%AB%E6%AD%BB%E5%88%91%23&t=31&band_rank=8&Refer=top)<br />
-9. [中国驻乌克兰大使馆郑重提醒](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A9%BB%E4%B9%8C%E5%85%8B%E5%85%B0%E5%A4%A7%E4%BD%BF%E9%A6%86%E9%83%91%E9%87%8D%E6%8F%90%E9%86%92%23&t=31&band_rank=9&Refer=top)<br />
+8. [中国驻乌克兰大使馆郑重提醒](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A9%BB%E4%B9%8C%E5%85%8B%E5%85%B0%E5%A4%A7%E4%BD%BF%E9%A6%86%E9%83%91%E9%87%8D%E6%8F%90%E9%86%92%23&t=31&band_rank=8&Refer=top)<br />
+9. [2年被家暴16次女子希望判丈夫死刑](https://s.weibo.com/weibo?q=%232%E5%B9%B4%E8%A2%AB%E5%AE%B6%E6%9A%B416%E6%AC%A1%E5%A5%B3%E5%AD%90%E5%B8%8C%E6%9C%9B%E5%88%A4%E4%B8%88%E5%A4%AB%E6%AD%BB%E5%88%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -19,10 +19,10 @@
 3. [有没有一种食材没做成美食前不敢上手碰，做成美食之后却又很好吃？](https://www.zhihu.com/question/610062999)<br />
 4. [歌手李玟轻生去世，其姐姐发声称其患上抑郁症，她的哪些作品让你印象深刻？](https://www.zhihu.com/question/610553174)<br />
 5. []()<br />
-6. [报道称欧盟外长博雷利原定下周访华被中方取消，外交部称愿同欧方继续保持沟通，取消原因是什么？如何解读？](https://www.zhihu.com/question/610463055)<br />
+6. []()<br />
 7. [此前对中国半导体出手的荷兰敦促欧盟回应中方对镓、锗实施出口管制，荷兰在急什么？欧盟将如何应对？](https://www.zhihu.com/question/610538153)<br />
-8. []()<br />
-9. [如何看待首发骁龙 8 Gen 2 高频版的红魔 8S Pro ？](https://www.zhihu.com/question/609348234)<br />
+8. [如何看待首发骁龙 8 Gen 2 高频版的红魔 8S Pro ？](https://www.zhihu.com/question/609348234)<br />
+9. [报道称欧盟外长博雷利原定下周访华被中方取消，外交部称愿同欧方继续保持沟通，取消原因是什么？如何解读？](https://www.zhihu.com/question/610463055)<br />
 
 > 百度  
 
