@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 17:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 17:22:01</h4></div>
 
 > 微博  
 
 1. [TFBOYS演唱会的票价](https://s.weibo.com/weibo?q=%23TFBOYS%E6%BC%94%E5%94%B1%E4%BC%9A%E7%9A%84%E7%A5%A8%E4%BB%B7%23&t=31&band_rank=1&Refer=top)<br />
-2. [梁朝伟一个人看电影要买六个位子](https://s.weibo.com/weibo?q=%23%E6%A2%81%E6%9C%9D%E4%BC%9F%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9C%8B%E7%94%B5%E5%BD%B1%E8%A6%81%E4%B9%B0%E5%85%AD%E4%B8%AA%E4%BD%8D%E5%AD%90%23&t=31&band_rank=2&Refer=top)<br />
+2. [金星再回应捂胸](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%98%9F%E5%86%8D%E5%9B%9E%E5%BA%94%E6%8D%82%E8%83%B8%23&t=31&band_rank=2&Refer=top)<br />
 3. [大学四年如何不虚度](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E5%9B%9B%E5%B9%B4%E5%A6%82%E4%BD%95%E4%B8%8D%E8%99%9A%E5%BA%A6%23&t=31&band_rank=3&Refer=top)<br />
 4. [家人将为李玟举办佛教丧礼](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E4%BA%BA%E5%B0%86%E4%B8%BA%E6%9D%8E%E7%8E%9F%E4%B8%BE%E5%8A%9E%E4%BD%9B%E6%95%99%E4%B8%A7%E7%A4%BC%23&t=31&band_rank=4&Refer=top)<br />
-5. [金星再回应捂胸](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%98%9F%E5%86%8D%E5%9B%9E%E5%BA%94%E6%8D%82%E8%83%B8%23&t=31&band_rank=5&Refer=top)<br />
+5. [梁朝伟一个人看电影要买六个位子](https://s.weibo.com/weibo?q=%23%E6%A2%81%E6%9C%9D%E4%BC%9F%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9C%8B%E7%94%B5%E5%BD%B1%E8%A6%81%E4%B9%B0%E5%85%AD%E4%B8%AA%E4%BD%8D%E5%AD%90%23&t=31&band_rank=5&Refer=top)<br />
 6. [手机玩太久可导致抑郁症](https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E7%8E%A9%E5%A4%AA%E4%B9%85%E5%8F%AF%E5%AF%BC%E8%87%B4%E6%8A%91%E9%83%81%E7%97%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [83岁老人感谢李玟曾帮他卖柑桔](https://s.weibo.com/weibo?q=%2383%E5%B2%81%E8%80%81%E4%BA%BA%E6%84%9F%E8%B0%A2%E6%9D%8E%E7%8E%9F%E6%9B%BE%E5%B8%AE%E4%BB%96%E5%8D%96%E6%9F%91%E6%A1%94%23&t=31&band_rank=7&Refer=top)<br />
 8. [PDD朋友圈调侃彭昱畅](https://s.weibo.com/weibo?q=%23PDD%E6%9C%8B%E5%8F%8B%E5%9C%88%E8%B0%83%E4%BE%83%E5%BD%AD%E6%98%B1%E7%95%85%23&t=31&band_rank=8&Refer=top)<br />
