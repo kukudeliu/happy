@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-07 07:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-07 07:51:02</h4></div>
 
 > 微博  
 
-1. [学校要求教师不要晒暑假旅游照片](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E6%A0%A1%E8%A6%81%E6%B1%82%E6%95%99%E5%B8%88%E4%B8%8D%E8%A6%81%E6%99%92%E6%9A%91%E5%81%87%E6%97%85%E6%B8%B8%E7%85%A7%E7%89%87%23&t=31&band_rank=1&Refer=top)<br />
-2. [杭州男子卖掉三套房换别墅刚到手就后悔](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E7%94%B7%E5%AD%90%E5%8D%96%E6%8E%89%E4%B8%89%E5%A5%97%E6%88%BF%E6%8D%A2%E5%88%AB%E5%A2%85%E5%88%9A%E5%88%B0%E6%89%8B%E5%B0%B1%E5%90%8E%E6%82%94%23&t=31&band_rank=2&Refer=top)<br />
+1. [杭州男子卖掉三套房换别墅刚到手就后悔](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E7%94%B7%E5%AD%90%E5%8D%96%E6%8E%89%E4%B8%89%E5%A5%97%E6%88%BF%E6%8D%A2%E5%88%AB%E5%A2%85%E5%88%9A%E5%88%B0%E6%89%8B%E5%B0%B1%E5%90%8E%E6%82%94%23&t=31&band_rank=1&Refer=top)<br />
+2. [学校要求教师不要晒暑假旅游照片](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E6%A0%A1%E8%A6%81%E6%B1%82%E6%95%99%E5%B8%88%E4%B8%8D%E8%A6%81%E6%99%92%E6%9A%91%E5%81%87%E6%97%85%E6%B8%B8%E7%85%A7%E7%89%87%23&t=31&band_rank=2&Refer=top)<br />
 3. [高温下坚守的人](https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%B8%A9%E4%B8%8B%E5%9D%9A%E5%AE%88%E7%9A%84%E4%BA%BA%23&t=31&band_rank=3&Refer=top)<br />
 4. [我姓彭 土豆丝彭](https://s.weibo.com/weibo?q=%E6%88%91%E5%A7%93%E5%BD%AD%20%E5%9C%9F%E8%B1%86%E4%B8%9D%E5%BD%AD&t=31&band_rank=4&Refer=top)<br />
 5. [李玟妈妈目前不吃不睡](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E5%A6%88%E5%A6%88%E7%9B%AE%E5%89%8D%E4%B8%8D%E5%90%83%E4%B8%8D%E7%9D%A1%23&t=31&band_rank=5&Refer=top)<br />
@@ -21,8 +21,8 @@
 5. [不沉迷游戏和热爱游戏可能并存吗？如果可以，是如何做到的？](https://www.zhihu.com/question/602728740)<br />
 6. [对大一新生来说，笔记本和平板应该买哪个?](https://www.zhihu.com/question/608742301)<br />
 7. [高考完需要背四六级单词吗？](https://www.zhihu.com/question/608041668)<br />
-8. [女上司以前高高在上现在退休了态度可好了，该如何应对？](https://www.zhihu.com/question/604372105)<br />
-9. [上海交大录取通知书里有「一滴水」，北科大的通知书「由钢制成」，哪些高校的录取通知书给你留下了深刻印象？](https://www.zhihu.com/question/610635358)<br />
+8. [上海交大录取通知书里有「一滴水」，北科大的通知书「由钢制成」，哪些高校的录取通知书给你留下了深刻印象？](https://www.zhihu.com/question/610635358)<br />
+9. [女上司以前高高在上现在退休了态度可好了，该如何应对？](https://www.zhihu.com/question/604372105)<br />
 
 > 百度  
 
