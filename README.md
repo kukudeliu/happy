@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 08:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 08:45:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [T1 发布公告「Faker 因手伤持续疼痛将转入休息状态」这将对他的职业生涯和今年的成绩造成哪些影响？](https://www.zhihu.com/question/610485839)<br />
 6. []()<br />
 7. [此前对中国半导体出手的荷兰敦促欧盟回应中方对镓、锗实施出口管制，荷兰在急什么？欧盟将如何应对？](https://www.zhihu.com/question/610538153)<br />
-8. [如何评价王宝强执导的电影《八角笼中》？](https://www.zhihu.com/question/603748979)<br />
-9. [你敢穿 30 元一件的衣服去上班吗？](https://www.zhihu.com/question/606509967)<br />
+8. [有没有一种食材没做成美食前不敢上手碰，做成美食之后却又很好吃？](https://www.zhihu.com/question/610062999)<br />
+9. [如何评价王宝强执导的电影《八角笼中》？](https://www.zhihu.com/question/603748979)<br />
 
 > 百度  
 
