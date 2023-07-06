@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-07 02:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-07 02:34:01</h4></div>
 
 > 微博  
 
@@ -31,10 +31,10 @@
 3. [央企反腐罕见“九连发”说明什么](https://www.baidu.com/s?wd=%E5%A4%AE%E4%BC%81%E5%8F%8D%E8%85%90%E7%BD%95%E8%A7%81%E2%80%9C%E4%B9%9D%E8%BF%9E%E5%8F%91%E2%80%9D%E8%AF%B4%E6%98%8E%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [夏日经济火起来](https://www.baidu.com/s?wd=%E5%A4%8F%E6%97%A5%E7%BB%8F%E6%B5%8E%E7%81%AB%E8%B5%B7%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [李玟老公发讣文：送别挚爱 万分悲痛](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E8%80%81%E5%85%AC%E5%8F%91%E8%AE%A3%E6%96%87%EF%BC%9A%E9%80%81%E5%88%AB%E6%8C%9A%E7%88%B1+%E4%B8%87%E5%88%86%E6%82%B2%E7%97%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [三星Q2利润恐暴跌96%](https://www.baidu.com/s?wd=%E4%B8%89%E6%98%9FQ2%E5%88%A9%E6%B6%A6%E6%81%90%E6%9A%B4%E8%B7%8C96%25&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [近20年超25位艺人因抑郁症故去](https://www.baidu.com/s?wd=%E8%BF%9120%E5%B9%B4%E8%B6%8525%E4%BD%8D%E8%89%BA%E4%BA%BA%E5%9B%A0%E6%8A%91%E9%83%81%E7%97%87%E6%95%85%E5%8E%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李玟二姐否认与李玟老公同发讣告](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E4%BA%8C%E5%A7%90%E5%90%A6%E8%AE%A4%E4%B8%8E%E6%9D%8E%E7%8E%9F%E8%80%81%E5%85%AC%E5%90%8C%E5%8F%91%E8%AE%A3%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [恒大地产6天被强制执行46亿](https://www.baidu.com/s?wd=%E6%81%92%E5%A4%A7%E5%9C%B0%E4%BA%A76%E5%A4%A9%E8%A2%AB%E5%BC%BA%E5%88%B6%E6%89%A7%E8%A1%8C46%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子偷走女友家80瓶飞天茅台](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%B7%E8%B5%B0%E5%A5%B3%E5%8F%8B%E5%AE%B680%E7%93%B6%E9%A3%9E%E5%A4%A9%E8%8C%85%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子偷走女友家80瓶飞天茅台](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%B7%E8%B5%B0%E5%A5%B3%E5%8F%8B%E5%AE%B680%E7%93%B6%E9%A3%9E%E5%A4%A9%E8%8C%85%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [热依扎：抑郁症不是开刀就能好的病](https://www.baidu.com/s?wd=%E7%83%AD%E4%BE%9D%E6%89%8E%EF%BC%9A%E6%8A%91%E9%83%81%E7%97%87%E4%B8%8D%E6%98%AF%E5%BC%80%E5%88%80%E5%B0%B1%E8%83%BD%E5%A5%BD%E7%9A%84%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [央企反腐罕见“九连发”说明什么](https://www.baidu.com/s?wd=%E5%A4%AE%E4%BC%81%E5%8F%8D%E8%85%90%E7%BD%95%E8%A7%81%E2%80%9C%E4%B9%9D%E8%BF%9E%E5%8F%91%E2%80%9D%E8%AF%B4%E6%98%8E%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [夏日经济火起来](https://www.baidu.com/s?wd=%E5%A4%8F%E6%97%A5%E7%BB%8F%E6%B5%8E%E7%81%AB%E8%B5%B7%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [李玟老公发讣文：送别挚爱 万分悲痛](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E8%80%81%E5%85%AC%E5%8F%91%E8%AE%A3%E6%96%87%EF%BC%9A%E9%80%81%E5%88%AB%E6%8C%9A%E7%88%B1+%E4%B8%87%E5%88%86%E6%82%B2%E7%97%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [三星Q2利润恐暴跌96%](https://www.baidu.com/s?wd=%E4%B8%89%E6%98%9FQ2%E5%88%A9%E6%B6%A6%E6%81%90%E6%9A%B4%E8%B7%8C96%25&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [近20年超25位艺人因抑郁症故去](https://www.baidu.com/s?wd=%E8%BF%9120%E5%B9%B4%E8%B6%8525%E4%BD%8D%E8%89%BA%E4%BA%BA%E5%9B%A0%E6%8A%91%E9%83%81%E7%97%87%E6%95%85%E5%8E%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李玟二姐否认与李玟老公同发讣告](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E4%BA%8C%E5%A7%90%E5%90%A6%E8%AE%A4%E4%B8%8E%E6%9D%8E%E7%8E%9F%E8%80%81%E5%85%AC%E5%90%8C%E5%8F%91%E8%AE%A3%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [恒大地产6天被强制执行46亿](https://www.baidu.com/s?wd=%E6%81%92%E5%A4%A7%E5%9C%B0%E4%BA%A76%E5%A4%A9%E8%A2%AB%E5%BC%BA%E5%88%B6%E6%89%A7%E8%A1%8C46%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子偷走女友家80瓶飞天茅台](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%B7%E8%B5%B0%E5%A5%B3%E5%8F%8B%E5%AE%B680%E7%93%B6%E9%A3%9E%E5%A4%A9%E8%8C%85%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子偷走女友家80瓶飞天茅台](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%B7%E8%B5%B0%E5%A5%B3%E5%8F%8B%E5%AE%B680%E7%93%B6%E9%A3%9E%E5%A4%A9%E8%8C%85%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [热依扎：抑郁症不是开刀就能好的病](https://www.baidu.com/s?wd=%E7%83%AD%E4%BE%9D%E6%89%8E%EF%BC%9A%E6%8A%91%E9%83%81%E7%97%87%E4%B8%8D%E6%98%AF%E5%BC%80%E5%88%80%E5%B0%B1%E8%83%BD%E5%A5%BD%E7%9A%84%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
