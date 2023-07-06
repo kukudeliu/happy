@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 12:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 12:30:01</h4></div>
 
 > 微博  
 
-1. [教育部回应山河大学](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E5%B1%B1%E6%B2%B3%E5%A4%A7%E5%AD%A6%23&t=31&band_rank=1&Refer=top)<br />
-2. [boss直聘](https://s.weibo.com/weibo?q=boss%E7%9B%B4%E8%81%98&t=31&band_rank=2&Refer=top)<br />
+1. [boss直聘](https://s.weibo.com/weibo?q=boss%E7%9B%B4%E8%81%98&t=31&band_rank=1&Refer=top)<br />
+2. [教育部回应山河大学](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E5%B1%B1%E6%B2%B3%E5%A4%A7%E5%AD%A6%23&t=31&band_rank=2&Refer=top)<br />
 3. [路途遥远且听完这最后一课](https://s.weibo.com/weibo?q=%23%E8%B7%AF%E9%80%94%E9%81%A5%E8%BF%9C%E4%B8%94%E5%90%AC%E5%AE%8C%E8%BF%99%E6%9C%80%E5%90%8E%E4%B8%80%E8%AF%BE%23&t=31&band_rank=3&Refer=top)<br />
 4. [李玟遗产都留给妈妈](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E9%81%97%E4%BA%A7%E9%83%BD%E7%95%99%E7%BB%99%E5%A6%88%E5%A6%88%23&t=31&band_rank=4&Refer=top)<br />
 5. [肖战再提陈情令](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%86%8D%E6%8F%90%E9%99%88%E6%83%85%E4%BB%A4%23&t=31&band_rank=5&Refer=top)<br />
