@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 16:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 16:39:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [我国首个开源桌面操作系统「开放麒麟 1.0」发布，有哪些技术亮点？对我国国产操作系统有何意义？](https://www.zhihu.com/question/610513030)<br />
 7. [电视剧《长安十二时辰》里的「第八团」这个番号是不是太现代了？](https://www.zhihu.com/question/338263871)<br />
 8. [印度 6 月日经制造业 PMI 57.8 ，这一数据透露了哪些信息？](https://www.zhihu.com/question/610064203)<br />
-9. []()<br />
+9. [76.1% 的农民工 60 岁后不愿休息，为何会出现这样的情况？他们的晚年如何「安放」？](https://www.zhihu.com/question/610495725)<br />
 
 > 百度  
 
@@ -33,7 +33,7 @@
 5. [二姐否认李玟是割腕自杀](https://www.baidu.com/s?wd=%E4%BA%8C%E5%A7%90%E5%90%A6%E8%AE%A4%E6%9D%8E%E7%8E%9F%E6%98%AF%E5%89%B2%E8%85%95%E8%87%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [蔡徐坤粉丝帝国的崩塌](https://www.baidu.com/s?wd=%E8%94%A1%E5%BE%90%E5%9D%A4%E7%B2%89%E4%B8%9D%E5%B8%9D%E5%9B%BD%E7%9A%84%E5%B4%A9%E5%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [曝李玟原定7月与老公离婚](https://www.baidu.com/s?wd=%E6%9B%9D%E6%9D%8E%E7%8E%9F%E5%8E%9F%E5%AE%9A7%E6%9C%88%E4%B8%8E%E8%80%81%E5%85%AC%E7%A6%BB%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [曝iPhone15将配备更大电池](https://www.baidu.com/s?wd=%E6%9B%9DiPhone15%E5%B0%86%E9%85%8D%E5%A4%87%E6%9B%B4%E5%A4%A7%E7%94%B5%E6%B1%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [怎么和抑郁症患者相处](https://www.baidu.com/s?wd=%E6%80%8E%E4%B9%88%E5%92%8C%E6%8A%91%E9%83%81%E7%97%87%E6%82%A3%E8%80%85%E7%9B%B8%E5%A4%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [张杰呼吁多关心身边的朋友们](https://www.baidu.com/s?wd=%E5%BC%A0%E6%9D%B0%E5%91%BC%E5%90%81%E5%A4%9A%E5%85%B3%E5%BF%83%E8%BA%AB%E8%BE%B9%E7%9A%84%E6%9C%8B%E5%8F%8B%E4%BB%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [二姐否认李玟是割腕自杀](https://www.baidu.com/s?wd=%E4%BA%8C%E5%A7%90%E5%90%A6%E8%AE%A4%E6%9D%8E%E7%8E%9F%E6%98%AF%E5%89%B2%E8%85%95%E8%87%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [蔡徐坤粉丝帝国的崩塌](https://www.baidu.com/s?wd=%E8%94%A1%E5%BE%90%E5%9D%A4%E7%B2%89%E4%B8%9D%E5%B8%9D%E5%9B%BD%E7%9A%84%E5%B4%A9%E5%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [曝李玟原定7月与老公离婚](https://www.baidu.com/s?wd=%E6%9B%9D%E6%9D%8E%E7%8E%9F%E5%8E%9F%E5%AE%9A7%E6%9C%88%E4%B8%8E%E8%80%81%E5%85%AC%E7%A6%BB%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [曝iPhone15将配备更大电池](https://www.baidu.com/s?wd=%E6%9B%9DiPhone15%E5%B0%86%E9%85%8D%E5%A4%87%E6%9B%B4%E5%A4%A7%E7%94%B5%E6%B1%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [怎么和抑郁症患者相处](https://www.baidu.com/s?wd=%E6%80%8E%E4%B9%88%E5%92%8C%E6%8A%91%E9%83%81%E7%97%87%E6%82%A3%E8%80%85%E7%9B%B8%E5%A4%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [张杰呼吁多关心身边的朋友们](https://www.baidu.com/s?wd=%E5%BC%A0%E6%9D%B0%E5%91%BC%E5%90%81%E5%A4%9A%E5%85%B3%E5%BF%83%E8%BA%AB%E8%BE%B9%E7%9A%84%E6%9C%8B%E5%8F%8B%E4%BB%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
