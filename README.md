@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 15:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 15:35:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [路途遥远且听完这最后一课](https://s.weibo.com/weibo?q=%23%E8%B7%AF%E9%80%94%E9%81%A5%E8%BF%9C%E4%B8%94%E5%90%AC%E5%AE%8C%E8%BF%99%E6%9C%80%E5%90%8E%E4%B8%80%E8%AF%BE%23&t=31&band_rank=3&Refer=top)<br />
 4. [成龙 CoCo是天生的明星](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%BE%99%20CoCo%E6%98%AF%E5%A4%A9%E7%94%9F%E7%9A%84%E6%98%8E%E6%98%9F%23&t=31&band_rank=4&Refer=top)<br />
 5. [奔跑吧](https://s.weibo.com/weibo?q=%E5%A5%94%E8%B7%91%E5%90%A7&t=31&band_rank=5&Refer=top)<br />
-6. [播一部爆一部的演员](https://s.weibo.com/weibo?q=%23%E6%92%AD%E4%B8%80%E9%83%A8%E7%88%86%E4%B8%80%E9%83%A8%E7%9A%84%E6%BC%94%E5%91%98%23&t=31&band_rank=6&Refer=top)<br />
+6. [28.8万彩礼男生读大一双方家长未见面](https://s.weibo.com/weibo?q=%2328.8%E4%B8%87%E5%BD%A9%E7%A4%BC%E7%94%B7%E7%94%9F%E8%AF%BB%E5%A4%A7%E4%B8%80%E5%8F%8C%E6%96%B9%E5%AE%B6%E9%95%BF%E6%9C%AA%E8%A7%81%E9%9D%A2%23&t=31&band_rank=6&Refer=top)<br />
 7. [李玟遗产都留给妈妈](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E9%81%97%E4%BA%A7%E9%83%BD%E7%95%99%E7%BB%99%E5%A6%88%E5%A6%88%23&t=31&band_rank=7&Refer=top)<br />
-8. [丫丫冰块凉席安排上了](https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E5%86%B0%E5%9D%97%E5%87%89%E5%B8%AD%E5%AE%89%E6%8E%92%E4%B8%8A%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [陕西文旅回应TFBOYS十周年演唱会志愿者招募](https://s.weibo.com/weibo?q=%23%E9%99%95%E8%A5%BF%E6%96%87%E6%97%85%E5%9B%9E%E5%BA%94TFBOYS%E5%8D%81%E5%91%A8%E5%B9%B4%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BF%97%E6%84%BF%E8%80%85%E6%8B%9B%E5%8B%9F%23&t=31&band_rank=9&Refer=top)<br />
+8. [播一部爆一部的演员](https://s.weibo.com/weibo?q=%23%E6%92%AD%E4%B8%80%E9%83%A8%E7%88%86%E4%B8%80%E9%83%A8%E7%9A%84%E6%BC%94%E5%91%98%23&t=31&band_rank=8&Refer=top)<br />
+9. [丫丫冰块凉席安排上了](https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E5%86%B0%E5%9D%97%E5%87%89%E5%B8%AD%E5%AE%89%E6%8E%92%E4%B8%8A%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
