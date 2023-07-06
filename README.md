@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-07 07:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-07 07:24:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [央企反腐罕见“九连发”说明什么](https://www.baidu.com/s?wd=%E5%A4%AE%E4%BC%81%E5%8F%8D%E8%85%90%E7%BD%95%E8%A7%81%E2%80%9C%E4%B9%9D%E8%BF%9E%E5%8F%91%E2%80%9D%E8%AF%B4%E6%98%8E%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [王雪峰被开除党籍](https://www.baidu.com/s?wd=%E7%8E%8B%E9%9B%AA%E5%B3%B0%E8%A2%AB%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李玟二姐否认与李玟老公同发讣告](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E4%BA%8C%E5%A7%90%E5%90%A6%E8%AE%A4%E4%B8%8E%E6%9D%8E%E7%8E%9F%E8%80%81%E5%85%AC%E5%90%8C%E5%8F%91%E8%AE%A3%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子持剪刀刺人致1死1伤](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8C%81%E5%89%AA%E5%88%80%E5%88%BA%E4%BA%BA%E8%87%B41%E6%AD%BB1%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [程青松喊话王宝强退还金扫帚](https://www.baidu.com/s?wd=%E7%A8%8B%E9%9D%92%E6%9D%BE%E5%96%8A%E8%AF%9D%E7%8E%8B%E5%AE%9D%E5%BC%BA%E9%80%80%E8%BF%98%E9%87%91%E6%89%AB%E5%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [程青松喊话王宝强退还金扫帚](https://www.baidu.com/s?wd=%E7%A8%8B%E9%9D%92%E6%9D%BE%E5%96%8A%E8%AF%9D%E7%8E%8B%E5%AE%9D%E5%BC%BA%E9%80%80%E8%BF%98%E9%87%91%E6%89%AB%E5%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [4名学生公交事故中遇难 1人刚高考完](https://www.baidu.com/s?wd=4%E5%90%8D%E5%AD%A6%E7%94%9F%E5%85%AC%E4%BA%A4%E4%BA%8B%E6%95%85%E4%B8%AD%E9%81%87%E9%9A%BE+1%E4%BA%BA%E5%88%9A%E9%AB%98%E8%80%83%E5%AE%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [央企反腐罕见“九连发”说明什么](https://www.baidu.com/s?wd=%E5%A4%AE%E4%BC%81%E5%8F%8D%E8%85%90%E7%BD%95%E8%A7%81%E2%80%9C%E4%B9%9D%E8%BF%9E%E5%8F%91%E2%80%9D%E8%AF%B4%E6%98%8E%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [王雪峰被开除党籍](https://www.baidu.com/s?wd=%E7%8E%8B%E9%9B%AA%E5%B3%B0%E8%A2%AB%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李玟二姐否认与李玟老公同发讣告](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E4%BA%8C%E5%A7%90%E5%90%A6%E8%AE%A4%E4%B8%8E%E6%9D%8E%E7%8E%9F%E8%80%81%E5%85%AC%E5%90%8C%E5%8F%91%E8%AE%A3%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子持剪刀刺人致1死1伤](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8C%81%E5%89%AA%E5%88%80%E5%88%BA%E4%BA%BA%E8%87%B41%E6%AD%BB1%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [程青松喊话王宝强退还金扫帚](https://www.baidu.com/s?wd=%E7%A8%8B%E9%9D%92%E6%9D%BE%E5%96%8A%E8%AF%9D%E7%8E%8B%E5%AE%9D%E5%BC%BA%E9%80%80%E8%BF%98%E9%87%91%E6%89%AB%E5%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [程青松喊话王宝强退还金扫帚](https://www.baidu.com/s?wd=%E7%A8%8B%E9%9D%92%E6%9D%BE%E5%96%8A%E8%AF%9D%E7%8E%8B%E5%AE%9D%E5%BC%BA%E9%80%80%E8%BF%98%E9%87%91%E6%89%AB%E5%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [4名学生公交事故中遇难 1人刚高考完](https://www.baidu.com/s?wd=4%E5%90%8D%E5%AD%A6%E7%94%9F%E5%85%AC%E4%BA%A4%E4%BA%8B%E6%95%85%E4%B8%AD%E9%81%87%E9%9A%BE+1%E4%BA%BA%E5%88%9A%E9%AB%98%E8%80%83%E5%AE%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
