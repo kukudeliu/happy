@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 09:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 09:44:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [中产的面子藏在1999元的泡面桶里](https://www.baidu.com/s?wd=%E4%B8%AD%E4%BA%A7%E7%9A%84%E9%9D%A2%E5%AD%90%E8%97%8F%E5%9C%A81999%E5%85%83%E7%9A%84%E6%B3%A1%E9%9D%A2%E6%A1%B6%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [港媒：李玟疑割腕自杀 未写遗书](https://www.baidu.com/s?wd=%E6%B8%AF%E5%AA%92%EF%BC%9A%E6%9D%8E%E7%8E%9F%E7%96%91%E5%89%B2%E8%85%95%E8%87%AA%E6%9D%80+%E6%9C%AA%E5%86%99%E9%81%97%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [抑郁症两大原因](https://www.baidu.com/s?wd=%E6%8A%91%E9%83%81%E7%97%87%E4%B8%A4%E5%A4%A7%E5%8E%9F%E5%9B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [老师办白事家长号召出15辆车](https://www.baidu.com/s?wd=%E8%80%81%E5%B8%88%E5%8A%9E%E7%99%BD%E4%BA%8B%E5%AE%B6%E9%95%BF%E5%8F%B7%E5%8F%AC%E5%87%BA15%E8%BE%86%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [这届年轻人盯上了电动轮椅](https://www.baidu.com/s?wd=%E8%BF%99%E5%B1%8A%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9B%AF%E4%B8%8A%E4%BA%86%E7%94%B5%E5%8A%A8%E8%BD%AE%E6%A4%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [中产的面子藏在1999元的泡面桶里](https://www.baidu.com/s?wd=%E4%B8%AD%E4%BA%A7%E7%9A%84%E9%9D%A2%E5%AD%90%E8%97%8F%E5%9C%A81999%E5%85%83%E7%9A%84%E6%B3%A1%E9%9D%A2%E6%A1%B6%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [港媒：李玟疑割腕自杀 未写遗书](https://www.baidu.com/s?wd=%E6%B8%AF%E5%AA%92%EF%BC%9A%E6%9D%8E%E7%8E%9F%E7%96%91%E5%89%B2%E8%85%95%E8%87%AA%E6%9D%80+%E6%9C%AA%E5%86%99%E9%81%97%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [抑郁症两大原因](https://www.baidu.com/s?wd=%E6%8A%91%E9%83%81%E7%97%87%E4%B8%A4%E5%A4%A7%E5%8E%9F%E5%9B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [老师办白事家长号召出15辆车](https://www.baidu.com/s?wd=%E8%80%81%E5%B8%88%E5%8A%9E%E7%99%BD%E4%BA%8B%E5%AE%B6%E9%95%BF%E5%8F%B7%E5%8F%AC%E5%87%BA15%E8%BE%86%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [这届年轻人盯上了电动轮椅](https://www.baidu.com/s?wd=%E8%BF%99%E5%B1%8A%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9B%AF%E4%B8%8A%E4%BA%86%E7%94%B5%E5%8A%A8%E8%BD%AE%E6%A4%85&sa=fyb_news&rsv_dl=fyb_news)<br />
