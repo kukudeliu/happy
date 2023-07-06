@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 12:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 12:37:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [播一部爆一部的演员](https://s.weibo.com/weibo?q=%23%E6%92%AD%E4%B8%80%E9%83%A8%E7%88%86%E4%B8%80%E9%83%A8%E7%9A%84%E6%BC%94%E5%91%98%23&t=31&band_rank=6&Refer=top)<br />
 7. [那英 还没等到我们俩合作你就走了](https://s.weibo.com/weibo?q=%E9%82%A3%E8%8B%B1%20%E8%BF%98%E6%B2%A1%E7%AD%89%E5%88%B0%E6%88%91%E4%BB%AC%E4%BF%A9%E5%90%88%E4%BD%9C%E4%BD%A0%E5%B0%B1%E8%B5%B0%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [烫了个爆炸头把小猫耳朵吓没了](https://s.weibo.com/weibo?q=%E7%83%AB%E4%BA%86%E4%B8%AA%E7%88%86%E7%82%B8%E5%A4%B4%E6%8A%8A%E5%B0%8F%E7%8C%AB%E8%80%B3%E6%9C%B5%E5%90%93%E6%B2%A1%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [教育部回应山河大学](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E5%B1%B1%E6%B2%B3%E5%A4%A7%E5%AD%A6%23&t=31&band_rank=9&Refer=top)<br />
+9. [2年被家暴16次女子希望判丈夫死刑](https://s.weibo.com/weibo?q=%232%E5%B9%B4%E8%A2%AB%E5%AE%B6%E6%9A%B416%E6%AC%A1%E5%A5%B3%E5%AD%90%E5%B8%8C%E6%9C%9B%E5%88%A4%E4%B8%88%E5%A4%AB%E6%AD%BB%E5%88%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [湖北一基层法庭宣传「调撤率 100%，无一判决」，法律学者认为「不宜过度提倡」，这反映出什么社会现象？](https://www.zhihu.com/question/610470335)<br />
 7. [「深夜拉群、积分打卡、朋友圈转发」打工人深受其害，中央整治形式主义专项会议召开，会带来改变吗？](https://www.zhihu.com/question/610480659)<br />
 8. []()<br />
-9. [2023 世界人工智能大会将展示 30 多款大模型，这对人工智能行业发展有哪些意义？](https://www.zhihu.com/question/609545571)<br />
+9. [快到订婚的日子了，男朋友突然提分手，我该怎么办?](https://www.zhihu.com/question/610191146)<br />
 
 > 百度  
 
