@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 20:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 20:35:01</h4></div>
 
 > 微博  
 
@@ -8,19 +8,19 @@
 4. [李玟老公发讣告](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E8%80%81%E5%85%AC%E5%8F%91%E8%AE%A3%E5%91%8A%23&t=31&band_rank=4&Refer=top)<br />
 5. [肖战包场电影八角笼中](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%8C%85%E5%9C%BA%E7%94%B5%E5%BD%B1%E5%85%AB%E8%A7%92%E7%AC%BC%E4%B8%AD%23&t=31&band_rank=5&Refer=top)<br />
 6. [周星驰晒照悼念李玟](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%98%9F%E9%A9%B0%E6%99%92%E7%85%A7%E6%82%BC%E5%BF%B5%E6%9D%8E%E7%8E%9F%23&t=31&band_rank=6&Refer=top)<br />
-7. [胡锡进 农民工退休待遇](https://s.weibo.com/weibo?q=%E8%83%A1%E9%94%A1%E8%BF%9B%20%E5%86%9C%E6%B0%91%E5%B7%A5%E9%80%80%E4%BC%91%E5%BE%85%E9%81%87&t=31&band_rank=7&Refer=top)<br />
+7. [老人卖桑葚担心价格太贵主动降价](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%8D%96%E6%A1%91%E8%91%9A%E6%8B%85%E5%BF%83%E4%BB%B7%E6%A0%BC%E5%A4%AA%E8%B4%B5%E4%B8%BB%E5%8A%A8%E9%99%8D%E4%BB%B7%23&t=31&band_rank=7&Refer=top)<br />
 8. [周星驰看王宝强新电影说服了](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%98%9F%E9%A9%B0%E7%9C%8B%E7%8E%8B%E5%AE%9D%E5%BC%BA%E6%96%B0%E7%94%B5%E5%BD%B1%E8%AF%B4%E6%9C%8D%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [老人卖桑葚担心价格太贵主动降价](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%8D%96%E6%A1%91%E8%91%9A%E6%8B%85%E5%BF%83%E4%BB%B7%E6%A0%BC%E5%A4%AA%E8%B4%B5%E4%B8%BB%E5%8A%A8%E9%99%8D%E4%BB%B7%23&t=31&band_rank=9&Refer=top)<br />
+9. [胡锡进 农民工退休待遇](https://s.weibo.com/weibo?q=%E8%83%A1%E9%94%A1%E8%BF%9B%20%E5%86%9C%E6%B0%91%E5%B7%A5%E9%80%80%E4%BC%91%E5%BE%85%E9%81%87&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [房地产业低迷，百万农民工被迫失业或转行，当农民工「退休」，收入下滑焦虑在家庭弥漫，如何保障他们的生活？](https://www.zhihu.com/question/610633138)<br />
 2. [76.1% 的农民工 60 岁后不愿休息，为何会出现这样的情况？他们的晚年如何「安放」？](https://www.zhihu.com/question/610495725)<br />
 3. [上海交大录取通知书里有「一滴水」，北科大的通知书「由钢制成」，哪些高校的录取通知书给你留下了深刻印象？](https://www.zhihu.com/question/610635358)<br />
-4. [我国首个开源桌面操作系统「开放麒麟 1.0」发布，有哪些技术亮点？对我国国产操作系统有何意义？](https://www.zhihu.com/question/610513030)<br />
+4. [为什么要实行薪酬保密？](https://www.zhihu.com/question/28079407)<br />
 5. [王宝强新片《八角笼中》上映，电影主角有哪些不为人知的幕后故事？](https://www.zhihu.com/theater/92559)<br />
-6. [为什么要实行薪酬保密？](https://www.zhihu.com/question/28079407)<br />
-7. [上海交大医学博士当中学保健员，媒体称高学历就业下沉或成常态，为何该现象频频出现？对社会发展有哪些影响？](https://www.zhihu.com/question/610692768)<br />
+6. [上海交大医学博士当中学保健员，媒体称高学历就业下沉或成常态，为何该现象频频出现？对社会发展有哪些影响？](https://www.zhihu.com/question/610692768)<br />
+7. [我国首个开源桌面操作系统「开放麒麟 1.0」发布，有哪些技术亮点？对我国国产操作系统有何意义？](https://www.zhihu.com/question/610513030)<br />
 8. [如何评价《原神》新角色「林尼」立绘的美术形象设计？](https://www.zhihu.com/question/610344138)<br />
 9. [三亚一海鲜店短斤缺两罚款 30 万，涉事商户被清退出场，将起到哪些警示作用？](https://www.zhihu.com/question/610555575)<br />
 
