@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 16:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 16:38:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [房地产业低迷，百万农民工被迫失业或转行，当农民工「退休」，收入下滑焦虑在家庭弥漫，如何保障他们的生活？](https://www.zhihu.com/question/610633138)<br />
 5. [为什么《英雄联盟》热度就是降不下来？](https://www.zhihu.com/question/582973653)<br />
 6. [我国首个开源桌面操作系统「开放麒麟 1.0」发布，有哪些技术亮点？对我国国产操作系统有何意义？](https://www.zhihu.com/question/610513030)<br />
-7. []()<br />
-8. []()<br />
-9. [印度 6 月日经制造业 PMI 57.8 ，这一数据透露了哪些信息？](https://www.zhihu.com/question/610064203)<br />
+7. [电视剧《长安十二时辰》里的「第八团」这个番号是不是太现代了？](https://www.zhihu.com/question/338263871)<br />
+8. [印度 6 月日经制造业 PMI 57.8 ，这一数据透露了哪些信息？](https://www.zhihu.com/question/610064203)<br />
+9. []()<br />
 
 > 百度  
 
@@ -31,10 +31,10 @@
 3. [官方回应网传28.8万彩礼男生被退婚](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A028.8%E4%B8%87%E5%BD%A9%E7%A4%BC%E7%94%B7%E7%94%9F%E8%A2%AB%E9%80%80%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [新机遇迸发新活力](https://www.baidu.com/s?wd=%E6%96%B0%E6%9C%BA%E9%81%87%E8%BF%B8%E5%8F%91%E6%96%B0%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [二姐否认李玟是割腕自杀](https://www.baidu.com/s?wd=%E4%BA%8C%E5%A7%90%E5%90%A6%E8%AE%A4%E6%9D%8E%E7%8E%9F%E6%98%AF%E5%89%B2%E8%85%95%E8%87%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [有人要价2800元卖孩子？平台回应](https://www.baidu.com/s?wd=%E6%9C%89%E4%BA%BA%E8%A6%81%E4%BB%B72800%E5%85%83%E5%8D%96%E5%AD%A9%E5%AD%90%EF%BC%9F%E5%B9%B3%E5%8F%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [蔡徐坤粉丝帝国的崩塌](https://www.baidu.com/s?wd=%E8%94%A1%E5%BE%90%E5%9D%A4%E7%B2%89%E4%B8%9D%E5%B8%9D%E5%9B%BD%E7%9A%84%E5%B4%A9%E5%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [曝李玟原定7月与老公离婚](https://www.baidu.com/s?wd=%E6%9B%9D%E6%9D%8E%E7%8E%9F%E5%8E%9F%E5%AE%9A7%E6%9C%88%E4%B8%8E%E8%80%81%E5%85%AC%E7%A6%BB%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [台媒：李玟遗体将被解剖](https://www.baidu.com/s?wd=%E5%8F%B0%E5%AA%92%EF%BC%9A%E6%9D%8E%E7%8E%9F%E9%81%97%E4%BD%93%E5%B0%86%E8%A2%AB%E8%A7%A3%E5%89%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [蔡徐坤粉丝帝国的崩塌](https://www.baidu.com/s?wd=%E8%94%A1%E5%BE%90%E5%9D%A4%E7%B2%89%E4%B8%9D%E5%B8%9D%E5%9B%BD%E7%9A%84%E5%B4%A9%E5%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [曝iPhone15将配备更大电池](https://www.baidu.com/s?wd=%E6%9B%9DiPhone15%E5%B0%86%E9%85%8D%E5%A4%87%E6%9B%B4%E5%A4%A7%E7%94%B5%E6%B1%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [张杰呼吁多关心身边的朋友们](https://www.baidu.com/s?wd=%E5%BC%A0%E6%9D%B0%E5%91%BC%E5%90%81%E5%A4%9A%E5%85%B3%E5%BF%83%E8%BA%AB%E8%BE%B9%E7%9A%84%E6%9C%8B%E5%8F%8B%E4%BB%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [官方回应网传28.8万彩礼男生被退婚](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A028.8%E4%B8%87%E5%BD%A9%E7%A4%BC%E7%94%B7%E7%94%9F%E8%A2%AB%E9%80%80%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [新机遇迸发新活力](https://www.baidu.com/s?wd=%E6%96%B0%E6%9C%BA%E9%81%87%E8%BF%B8%E5%8F%91%E6%96%B0%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [二姐否认李玟是割腕自杀](https://www.baidu.com/s?wd=%E4%BA%8C%E5%A7%90%E5%90%A6%E8%AE%A4%E6%9D%8E%E7%8E%9F%E6%98%AF%E5%89%B2%E8%85%95%E8%87%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [有人要价2800元卖孩子？平台回应](https://www.baidu.com/s?wd=%E6%9C%89%E4%BA%BA%E8%A6%81%E4%BB%B72800%E5%85%83%E5%8D%96%E5%AD%A9%E5%AD%90%EF%BC%9F%E5%B9%B3%E5%8F%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [蔡徐坤粉丝帝国的崩塌](https://www.baidu.com/s?wd=%E8%94%A1%E5%BE%90%E5%9D%A4%E7%B2%89%E4%B8%9D%E5%B8%9D%E5%9B%BD%E7%9A%84%E5%B4%A9%E5%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [曝李玟原定7月与老公离婚](https://www.baidu.com/s?wd=%E6%9B%9D%E6%9D%8E%E7%8E%9F%E5%8E%9F%E5%AE%9A7%E6%9C%88%E4%B8%8E%E8%80%81%E5%85%AC%E7%A6%BB%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [台媒：李玟遗体将被解剖](https://www.baidu.com/s?wd=%E5%8F%B0%E5%AA%92%EF%BC%9A%E6%9D%8E%E7%8E%9F%E9%81%97%E4%BD%93%E5%B0%86%E8%A2%AB%E8%A7%A3%E5%89%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [蔡徐坤粉丝帝国的崩塌](https://www.baidu.com/s?wd=%E8%94%A1%E5%BE%90%E5%9D%A4%E7%B2%89%E4%B8%9D%E5%B8%9D%E5%9B%BD%E7%9A%84%E5%B4%A9%E5%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [曝iPhone15将配备更大电池](https://www.baidu.com/s?wd=%E6%9B%9DiPhone15%E5%B0%86%E9%85%8D%E5%A4%87%E6%9B%B4%E5%A4%A7%E7%94%B5%E6%B1%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [张杰呼吁多关心身边的朋友们](https://www.baidu.com/s?wd=%E5%BC%A0%E6%9D%B0%E5%91%BC%E5%90%81%E5%A4%9A%E5%85%B3%E5%BF%83%E8%BA%AB%E8%BE%B9%E7%9A%84%E6%9C%8B%E5%8F%8B%E4%BB%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
