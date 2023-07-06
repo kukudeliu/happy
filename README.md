@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 21:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 21:36:01</h4></div>
 
 > 微博  
 
@@ -6,9 +6,9 @@
 2. [肖战包场电影八角笼中](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%8C%85%E5%9C%BA%E7%94%B5%E5%BD%B1%E5%85%AB%E8%A7%92%E7%AC%BC%E4%B8%AD%23&t=31&band_rank=2&Refer=top)<br />
 3. [首只在台出生的大熊猫十岁啦](https://s.weibo.com/weibo?q=%23%E9%A6%96%E5%8F%AA%E5%9C%A8%E5%8F%B0%E5%87%BA%E7%94%9F%E7%9A%84%E5%A4%A7%E7%86%8A%E7%8C%AB%E5%8D%81%E5%B2%81%E5%95%A6%23&t=31&band_rank=3&Refer=top)<br />
 4. [李玟老公发讣告](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E8%80%81%E5%85%AC%E5%8F%91%E8%AE%A3%E5%91%8A%23&t=31&band_rank=4&Refer=top)<br />
-5. [周星驰看王宝强新电影说服了](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%98%9F%E9%A9%B0%E7%9C%8B%E7%8E%8B%E5%AE%9D%E5%BC%BA%E6%96%B0%E7%94%B5%E5%BD%B1%E8%AF%B4%E6%9C%8D%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
-6. [李雪琴谈走出抑郁症的方法](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%9B%AA%E7%90%B4%E8%B0%88%E8%B5%B0%E5%87%BA%E6%8A%91%E9%83%81%E7%97%87%E7%9A%84%E6%96%B9%E6%B3%95%23&t=31&band_rank=6&Refer=top)<br />
-7. [杨迪童年被父亲打到鼻子出血](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%BF%AA%E7%AB%A5%E5%B9%B4%E8%A2%AB%E7%88%B6%E4%BA%B2%E6%89%93%E5%88%B0%E9%BC%BB%E5%AD%90%E5%87%BA%E8%A1%80%23&t=31&band_rank=7&Refer=top)<br />
+5. [李玟妈妈目前不吃不睡](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E5%A6%88%E5%A6%88%E7%9B%AE%E5%89%8D%E4%B8%8D%E5%90%83%E4%B8%8D%E7%9D%A1%23&t=31&band_rank=5&Refer=top)<br />
+6. [周星驰看王宝强新电影说服了](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%98%9F%E9%A9%B0%E7%9C%8B%E7%8E%8B%E5%AE%9D%E5%BC%BA%E6%96%B0%E7%94%B5%E5%BD%B1%E8%AF%B4%E6%9C%8D%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
+7. [李雪琴谈走出抑郁症的方法](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%9B%AA%E7%90%B4%E8%B0%88%E8%B5%B0%E5%87%BA%E6%8A%91%E9%83%81%E7%97%87%E7%9A%84%E6%96%B9%E6%B3%95%23&t=31&band_rank=7&Refer=top)<br />
 8. [cube 还有什么比今天爽](https://s.weibo.com/weibo?q=cube%20%E8%BF%98%E6%9C%89%E4%BB%80%E4%B9%88%E6%AF%94%E4%BB%8A%E5%A4%A9%E7%88%BD&t=31&band_rank=8&Refer=top)<br />
 9. [美方称坚决反对中国对镓和锗出口管制](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%96%B9%E7%A7%B0%E5%9D%9A%E5%86%B3%E5%8F%8D%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%AF%B9%E9%95%93%E5%92%8C%E9%94%97%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%23&t=31&band_rank=9&Refer=top)<br />
 
@@ -20,8 +20,8 @@
 4. [三亚一海鲜店短斤缺两罚款 30 万，涉事商户被清退出场，将起到哪些警示作用？](https://www.zhihu.com/question/610555575)<br />
 5. [王宝强新片《八角笼中》上映，电影主角有哪些不为人知的幕后故事？](https://www.zhihu.com/theater/92559)<br />
 6. [交警查酒驾时后排男子亮出警官证质问「能不能走」，官方回应「正在调查处理」，后续调查有何进展？](https://www.zhihu.com/question/610659420)<br />
-7. [公司为什么要实行薪酬保密制度？](https://www.zhihu.com/question/28079407)<br />
-8. [2023 年 6 月，31 省份新增新冠重症病例 1968 例、死亡 239 例，这一数据说明了什么？](https://www.zhihu.com/question/610625066)<br />
+7. [2023 年 6 月，31 省份新增新冠重症病例 1968 例、死亡 239 例，这一数据说明了什么？](https://www.zhihu.com/question/610625066)<br />
+8. [公司为什么要实行薪酬保密制度？](https://www.zhihu.com/question/28079407)<br />
 9. [歼 -8 首飞 54 周年，为什么今天我们还在提「歼 -8」？](https://www.zhihu.com/question/610461295)<br />
 
 > 百度  
