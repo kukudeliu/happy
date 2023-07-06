@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 17:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 17:59:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [香港特首李家超在贵州街头吃早餐](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E7%89%B9%E9%A6%96%E6%9D%8E%E5%AE%B6%E8%B6%85%E5%9C%A8%E8%B4%B5%E5%B7%9E%E8%A1%97%E5%A4%B4%E5%90%83%E6%97%A9%E9%A4%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [二姐否认李玟是割腕自杀](https://www.baidu.com/s?wd=%E4%BA%8C%E5%A7%90%E5%90%A6%E8%AE%A4%E6%9D%8E%E7%8E%9F%E6%98%AF%E5%89%B2%E8%85%95%E8%87%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [国产悬疑剧《光渊》惨遭下架](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7%E6%82%AC%E7%96%91%E5%89%A7%E3%80%8A%E5%85%89%E6%B8%8A%E3%80%8B%E6%83%A8%E9%81%AD%E4%B8%8B%E6%9E%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男生遭同学欺负大腿被圆规扎出血](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E9%81%AD%E5%90%8C%E5%AD%A6%E6%AC%BA%E8%B4%9F%E5%A4%A7%E8%85%BF%E8%A2%AB%E5%9C%86%E8%A7%84%E6%89%8E%E5%87%BA%E8%A1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [美总统参选人拿中国提醒美国](https://www.baidu.com/s?wd=%E7%BE%8E%E6%80%BB%E7%BB%9F%E5%8F%82%E9%80%89%E4%BA%BA%E6%8B%BF%E4%B8%AD%E5%9B%BD%E6%8F%90%E9%86%92%E7%BE%8E%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [香港特首李家超在贵州街头吃早餐](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E7%89%B9%E9%A6%96%E6%9D%8E%E5%AE%B6%E8%B6%85%E5%9C%A8%E8%B4%B5%E5%B7%9E%E8%A1%97%E5%A4%B4%E5%90%83%E6%97%A9%E9%A4%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [二姐否认李玟是割腕自杀](https://www.baidu.com/s?wd=%E4%BA%8C%E5%A7%90%E5%90%A6%E8%AE%A4%E6%9D%8E%E7%8E%9F%E6%98%AF%E5%89%B2%E8%85%95%E8%87%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [国产悬疑剧《光渊》惨遭下架](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7%E6%82%AC%E7%96%91%E5%89%A7%E3%80%8A%E5%85%89%E6%B8%8A%E3%80%8B%E6%83%A8%E9%81%AD%E4%B8%8B%E6%9E%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男生遭同学欺负大腿被圆规扎出血](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E9%81%AD%E5%90%8C%E5%AD%A6%E6%AC%BA%E8%B4%9F%E5%A4%A7%E8%85%BF%E8%A2%AB%E5%9C%86%E8%A7%84%E6%89%8E%E5%87%BA%E8%A1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [美总统参选人拿中国提醒美国](https://www.baidu.com/s?wd=%E7%BE%8E%E6%80%BB%E7%BB%9F%E5%8F%82%E9%80%89%E4%BA%BA%E6%8B%BF%E4%B8%AD%E5%9B%BD%E6%8F%90%E9%86%92%E7%BE%8E%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
