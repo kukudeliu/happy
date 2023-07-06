@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 14:33:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 14:34:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [为什么《英雄联盟》热度就是降不下来？](https://www.zhihu.com/question/582973653)<br />
 7. [快到订婚的日子了，男朋友突然提分手，我该怎么办?](https://www.zhihu.com/question/610191146)<br />
 8. []()<br />
-9. [游戏《永劫无间》宣布销量突破 2000 万、并即将转为免费游戏，有哪些值得关注的？](https://www.zhihu.com/question/610483242)<br />
+9. [谷歌披露量子计算机新突破，经典超算需 47 年的任务可在几秒内完成，具有哪些意义？](https://www.zhihu.com/question/610524870)<br />
 
 > 百度  
 
@@ -31,10 +31,10 @@
 3. [官方回应网传28.8万彩礼男生被退婚](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A028.8%E4%B8%87%E5%BD%A9%E7%A4%BC%E7%94%B7%E7%94%9F%E8%A2%AB%E9%80%80%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [多项经济指标回升](https://www.baidu.com/s?wd=%E5%A4%9A%E9%A1%B9%E7%BB%8F%E6%B5%8E%E6%8C%87%E6%A0%87%E5%9B%9E%E5%8D%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [家人透露李玟丧礼细节](https://www.baidu.com/s?wd=%E5%AE%B6%E4%BA%BA%E9%80%8F%E9%9C%B2%E6%9D%8E%E7%8E%9F%E4%B8%A7%E7%A4%BC%E7%BB%86%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [毕淑敏儿子辟谣母亲过世](https://www.baidu.com/s?wd=%E6%AF%95%E6%B7%91%E6%95%8F%E5%84%BF%E5%AD%90%E8%BE%9F%E8%B0%A3%E6%AF%8D%E4%BA%B2%E8%BF%87%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [海鲜加工广场短斤缺两被罚30万](https://www.baidu.com/s?wd=%E6%B5%B7%E9%B2%9C%E5%8A%A0%E5%B7%A5%E5%B9%BF%E5%9C%BA%E7%9F%AD%E6%96%A4%E7%BC%BA%E4%B8%A4%E8%A2%AB%E7%BD%9A30%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [台媒曝李玟半年前罹患乳腺癌](https://www.baidu.com/s?wd=%E5%8F%B0%E5%AA%92%E6%9B%9D%E6%9D%8E%E7%8E%9F%E5%8D%8A%E5%B9%B4%E5%89%8D%E7%BD%B9%E6%82%A3%E4%B9%B3%E8%85%BA%E7%99%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [那英:还没等到我们合作你就走了](https://www.baidu.com/s?wd=%E9%82%A3%E8%8B%B1%3A%E8%BF%98%E6%B2%A1%E7%AD%89%E5%88%B0%E6%88%91%E4%BB%AC%E5%90%88%E4%BD%9C%E4%BD%A0%E5%B0%B1%E8%B5%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子火灾中扔下婴儿被路人合力接住](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%81%AB%E7%81%BE%E4%B8%AD%E6%89%94%E4%B8%8B%E5%A9%B4%E5%84%BF%E8%A2%AB%E8%B7%AF%E4%BA%BA%E5%90%88%E5%8A%9B%E6%8E%A5%E4%BD%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [毕淑敏儿子辟谣母亲过世](https://www.baidu.com/s?wd=%E6%AF%95%E6%B7%91%E6%95%8F%E5%84%BF%E5%AD%90%E8%BE%9F%E8%B0%A3%E6%AF%8D%E4%BA%B2%E8%BF%87%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [官方回应网传28.8万彩礼男生被退婚](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A028.8%E4%B8%87%E5%BD%A9%E7%A4%BC%E7%94%B7%E7%94%9F%E8%A2%AB%E9%80%80%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [多项经济指标回升](https://www.baidu.com/s?wd=%E5%A4%9A%E9%A1%B9%E7%BB%8F%E6%B5%8E%E6%8C%87%E6%A0%87%E5%9B%9E%E5%8D%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [家人透露李玟丧礼细节](https://www.baidu.com/s?wd=%E5%AE%B6%E4%BA%BA%E9%80%8F%E9%9C%B2%E6%9D%8E%E7%8E%9F%E4%B8%A7%E7%A4%BC%E7%BB%86%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [毕淑敏儿子辟谣母亲过世](https://www.baidu.com/s?wd=%E6%AF%95%E6%B7%91%E6%95%8F%E5%84%BF%E5%AD%90%E8%BE%9F%E8%B0%A3%E6%AF%8D%E4%BA%B2%E8%BF%87%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [海鲜加工广场短斤缺两被罚30万](https://www.baidu.com/s?wd=%E6%B5%B7%E9%B2%9C%E5%8A%A0%E5%B7%A5%E5%B9%BF%E5%9C%BA%E7%9F%AD%E6%96%A4%E7%BC%BA%E4%B8%A4%E8%A2%AB%E7%BD%9A30%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [台媒曝李玟半年前罹患乳腺癌](https://www.baidu.com/s?wd=%E5%8F%B0%E5%AA%92%E6%9B%9D%E6%9D%8E%E7%8E%9F%E5%8D%8A%E5%B9%B4%E5%89%8D%E7%BD%B9%E6%82%A3%E4%B9%B3%E8%85%BA%E7%99%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [那英:还没等到我们合作你就走了](https://www.baidu.com/s?wd=%E9%82%A3%E8%8B%B1%3A%E8%BF%98%E6%B2%A1%E7%AD%89%E5%88%B0%E6%88%91%E4%BB%AC%E5%90%88%E4%BD%9C%E4%BD%A0%E5%B0%B1%E8%B5%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子火灾中扔下婴儿被路人合力接住](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%81%AB%E7%81%BE%E4%B8%AD%E6%89%94%E4%B8%8B%E5%A9%B4%E5%84%BF%E8%A2%AB%E8%B7%AF%E4%BA%BA%E5%90%88%E5%8A%9B%E6%8E%A5%E4%BD%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [毕淑敏儿子辟谣母亲过世](https://www.baidu.com/s?wd=%E6%AF%95%E6%B7%91%E6%95%8F%E5%84%BF%E5%AD%90%E8%BE%9F%E8%B0%A3%E6%AF%8D%E4%BA%B2%E8%BF%87%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
