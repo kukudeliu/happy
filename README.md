@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 20:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 20:28:02</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [金星再回应捂胸](https://www.baidu.com/s?wd=%E9%87%91%E6%98%9F%E5%86%8D%E5%9B%9E%E5%BA%94%E6%8D%82%E8%83%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [特别节目：我们的CoCo李玟](https://www.baidu.com/s?wd=%E7%89%B9%E5%88%AB%E8%8A%82%E7%9B%AE%EF%BC%9A%E6%88%91%E4%BB%AC%E7%9A%84CoCo%E6%9D%8E%E7%8E%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子偷走女友家80瓶飞天茅台](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%B7%E8%B5%B0%E5%A5%B3%E5%8F%8B%E5%AE%B680%E7%93%B6%E9%A3%9E%E5%A4%A9%E8%8C%85%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子遇查酒驾亮出警官证问能不能走](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%81%87%E6%9F%A5%E9%85%92%E9%A9%BE%E4%BA%AE%E5%87%BA%E8%AD%A6%E5%AE%98%E8%AF%81%E9%97%AE%E8%83%BD%E4%B8%8D%E8%83%BD%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [老人卖桑葚担心价格太贵主动降价](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E5%8D%96%E6%A1%91%E8%91%9A%E6%8B%85%E5%BF%83%E4%BB%B7%E6%A0%BC%E5%A4%AA%E8%B4%B5%E4%B8%BB%E5%8A%A8%E9%99%8D%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [金星再回应捂胸](https://www.baidu.com/s?wd=%E9%87%91%E6%98%9F%E5%86%8D%E5%9B%9E%E5%BA%94%E6%8D%82%E8%83%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [特别节目：我们的CoCo李玟](https://www.baidu.com/s?wd=%E7%89%B9%E5%88%AB%E8%8A%82%E7%9B%AE%EF%BC%9A%E6%88%91%E4%BB%AC%E7%9A%84CoCo%E6%9D%8E%E7%8E%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子偷走女友家80瓶飞天茅台](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%B7%E8%B5%B0%E5%A5%B3%E5%8F%8B%E5%AE%B680%E7%93%B6%E9%A3%9E%E5%A4%A9%E8%8C%85%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子遇查酒驾亮出警官证问能不能走](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%81%87%E6%9F%A5%E9%85%92%E9%A9%BE%E4%BA%AE%E5%87%BA%E8%AD%A6%E5%AE%98%E8%AF%81%E9%97%AE%E8%83%BD%E4%B8%8D%E8%83%BD%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [老人卖桑葚担心价格太贵主动降价](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E5%8D%96%E6%A1%91%E8%91%9A%E6%8B%85%E5%BF%83%E4%BB%B7%E6%A0%BC%E5%A4%AA%E8%B4%B5%E4%B8%BB%E5%8A%A8%E9%99%8D%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
