@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 23:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 23:59:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [演员热依扎谈抑郁症](https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E7%83%AD%E4%BE%9D%E6%89%8E%E8%B0%88%E6%8A%91%E9%83%81%E7%97%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [李玟妈妈目前不吃不睡](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E5%A6%88%E5%A6%88%E7%9B%AE%E5%89%8D%E4%B8%8D%E5%90%83%E4%B8%8D%E7%9D%A1%23&t=31&band_rank=7&Refer=top)<br />
 8. [八角笼中票房](https://s.weibo.com/weibo?q=%E5%85%AB%E8%A7%92%E7%AC%BC%E4%B8%AD%E7%A5%A8%E6%88%BF&t=31&band_rank=8&Refer=top)<br />
-9. [哥们你小说男主啊](https://s.weibo.com/weibo?q=%E5%93%A5%E4%BB%AC%E4%BD%A0%E5%B0%8F%E8%AF%B4%E7%94%B7%E4%B8%BB%E5%95%8A&t=31&band_rank=9&Refer=top)<br />
+9. [火锅店买8000斤滞销瓜送顾客](https://s.weibo.com/weibo?q=%23%E7%81%AB%E9%94%85%E5%BA%97%E4%B9%B08000%E6%96%A4%E6%BB%9E%E9%94%80%E7%93%9C%E9%80%81%E9%A1%BE%E5%AE%A2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
