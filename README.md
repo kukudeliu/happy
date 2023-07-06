@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 15:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 15:08:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [蔡徐坤粉丝帝国的崩塌](https://www.baidu.com/s?wd=%E8%94%A1%E5%BE%90%E5%9D%A4%E7%B2%89%E4%B8%9D%E5%B8%9D%E5%9B%BD%E7%9A%84%E5%B4%A9%E5%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [家人透露李玟丧礼细节](https://www.baidu.com/s?wd=%E5%AE%B6%E4%BA%BA%E9%80%8F%E9%9C%B2%E6%9D%8E%E7%8E%9F%E4%B8%A7%E7%A4%BC%E7%BB%86%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [被逼吃粪便男孩家属已接受道歉](https://www.baidu.com/s?wd=%E8%A2%AB%E9%80%BC%E5%90%83%E7%B2%AA%E4%BE%BF%E7%94%B7%E5%AD%A9%E5%AE%B6%E5%B1%9E%E5%B7%B2%E6%8E%A5%E5%8F%97%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子开无罪证明被列为犯罪嫌疑人](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BC%80%E6%97%A0%E7%BD%AA%E8%AF%81%E6%98%8E%E8%A2%AB%E5%88%97%E4%B8%BA%E7%8A%AF%E7%BD%AA%E5%AB%8C%E7%96%91%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [这届年轻人盯上了电动轮椅](https://www.baidu.com/s?wd=%E8%BF%99%E5%B1%8A%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9B%AF%E4%B8%8A%E4%BA%86%E7%94%B5%E5%8A%A8%E8%BD%AE%E6%A4%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [蔡徐坤粉丝帝国的崩塌](https://www.baidu.com/s?wd=%E8%94%A1%E5%BE%90%E5%9D%A4%E7%B2%89%E4%B8%9D%E5%B8%9D%E5%9B%BD%E7%9A%84%E5%B4%A9%E5%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [家人透露李玟丧礼细节](https://www.baidu.com/s?wd=%E5%AE%B6%E4%BA%BA%E9%80%8F%E9%9C%B2%E6%9D%8E%E7%8E%9F%E4%B8%A7%E7%A4%BC%E7%BB%86%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [被逼吃粪便男孩家属已接受道歉](https://www.baidu.com/s?wd=%E8%A2%AB%E9%80%BC%E5%90%83%E7%B2%AA%E4%BE%BF%E7%94%B7%E5%AD%A9%E5%AE%B6%E5%B1%9E%E5%B7%B2%E6%8E%A5%E5%8F%97%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子开无罪证明被列为犯罪嫌疑人](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BC%80%E6%97%A0%E7%BD%AA%E8%AF%81%E6%98%8E%E8%A2%AB%E5%88%97%E4%B8%BA%E7%8A%AF%E7%BD%AA%E5%AB%8C%E7%96%91%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [这届年轻人盯上了电动轮椅](https://www.baidu.com/s?wd=%E8%BF%99%E5%B1%8A%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9B%AF%E4%B8%8A%E4%BA%86%E7%94%B5%E5%8A%A8%E8%BD%AE%E6%A4%85&sa=fyb_news&rsv_dl=fyb_news)<br />
