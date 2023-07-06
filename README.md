@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 23:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 23:50:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [老人中暑体温达41℃抢救无效去世](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E4%B8%AD%E6%9A%91%E4%BD%93%E6%B8%A9%E8%BE%BE41%E2%84%83%E6%8A%A2%E6%95%91%E6%97%A0%E6%95%88%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李玟二姐否认与李玟老公同发讣告](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E4%BA%8C%E5%A7%90%E5%90%A6%E8%AE%A4%E4%B8%8E%E6%9D%8E%E7%8E%9F%E8%80%81%E5%85%AC%E5%90%8C%E5%8F%91%E8%AE%A3%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [王雪峰被开除党籍](https://www.baidu.com/s?wd=%E7%8E%8B%E9%9B%AA%E5%B3%B0%E8%A2%AB%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [耶伦下飞机时被提醒看天上彩虹](https://www.baidu.com/s?wd=%E8%80%B6%E4%BC%A6%E4%B8%8B%E9%A3%9E%E6%9C%BA%E6%97%B6%E8%A2%AB%E6%8F%90%E9%86%92%E7%9C%8B%E5%A4%A9%E4%B8%8A%E5%BD%A9%E8%99%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [热依扎：抑郁症不是开刀就能好的病](https://www.baidu.com/s?wd=%E7%83%AD%E4%BE%9D%E6%89%8E%EF%BC%9A%E6%8A%91%E9%83%81%E7%97%87%E4%B8%8D%E6%98%AF%E5%BC%80%E5%88%80%E5%B0%B1%E8%83%BD%E5%A5%BD%E7%9A%84%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [老人中暑体温达41℃抢救无效去世](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E4%B8%AD%E6%9A%91%E4%BD%93%E6%B8%A9%E8%BE%BE41%E2%84%83%E6%8A%A2%E6%95%91%E6%97%A0%E6%95%88%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李玟二姐否认与李玟老公同发讣告](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E4%BA%8C%E5%A7%90%E5%90%A6%E8%AE%A4%E4%B8%8E%E6%9D%8E%E7%8E%9F%E8%80%81%E5%85%AC%E5%90%8C%E5%8F%91%E8%AE%A3%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [王雪峰被开除党籍](https://www.baidu.com/s?wd=%E7%8E%8B%E9%9B%AA%E5%B3%B0%E8%A2%AB%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [耶伦下飞机时被提醒看天上彩虹](https://www.baidu.com/s?wd=%E8%80%B6%E4%BC%A6%E4%B8%8B%E9%A3%9E%E6%9C%BA%E6%97%B6%E8%A2%AB%E6%8F%90%E9%86%92%E7%9C%8B%E5%A4%A9%E4%B8%8A%E5%BD%A9%E8%99%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [热依扎：抑郁症不是开刀就能好的病](https://www.baidu.com/s?wd=%E7%83%AD%E4%BE%9D%E6%89%8E%EF%BC%9A%E6%8A%91%E9%83%81%E7%97%87%E4%B8%8D%E6%98%AF%E5%BC%80%E5%88%80%E5%B0%B1%E8%83%BD%E5%A5%BD%E7%9A%84%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
