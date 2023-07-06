@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 16:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 16:21:01</h4></div>
 
 > 微博  
 
-1. [手机玩太久可导致抑郁症](https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E7%8E%A9%E5%A4%AA%E4%B9%85%E5%8F%AF%E5%AF%BC%E8%87%B4%E6%8A%91%E9%83%81%E7%97%87%23&t=31&band_rank=1&Refer=top)<br />
-2. [PDD朋友圈调侃彭昱畅](https://s.weibo.com/weibo?q=%23PDD%E6%9C%8B%E5%8F%8B%E5%9C%88%E8%B0%83%E4%BE%83%E5%BD%AD%E6%98%B1%E7%95%85%23&t=31&band_rank=2&Refer=top)<br />
+1. [PDD朋友圈调侃彭昱畅](https://s.weibo.com/weibo?q=%23PDD%E6%9C%8B%E5%8F%8B%E5%9C%88%E8%B0%83%E4%BE%83%E5%BD%AD%E6%98%B1%E7%95%85%23&t=31&band_rank=1&Refer=top)<br />
+2. [手机玩太久可导致抑郁症](https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E7%8E%A9%E5%A4%AA%E4%B9%85%E5%8F%AF%E5%AF%BC%E8%87%B4%E6%8A%91%E9%83%81%E7%97%87%23&t=31&band_rank=2&Refer=top)<br />
 3. [大学四年如何不虚度](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E5%9B%9B%E5%B9%B4%E5%A6%82%E4%BD%95%E4%B8%8D%E8%99%9A%E5%BA%A6%23&t=31&band_rank=3&Refer=top)<br />
 4. [家人将为李玟举办佛教丧礼](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E4%BA%BA%E5%B0%86%E4%B8%BA%E6%9D%8E%E7%8E%9F%E4%B8%BE%E5%8A%9E%E4%BD%9B%E6%95%99%E4%B8%A7%E7%A4%BC%23&t=31&band_rank=4&Refer=top)<br />
 5. [28.8万彩礼男生读大一双方家长未见面](https://s.weibo.com/weibo?q=%2328.8%E4%B8%87%E5%BD%A9%E7%A4%BC%E7%94%B7%E7%94%9F%E8%AF%BB%E5%A4%A7%E4%B8%80%E5%8F%8C%E6%96%B9%E5%AE%B6%E9%95%BF%E6%9C%AA%E8%A7%81%E9%9D%A2%23&t=31&band_rank=5&Refer=top)<br />
