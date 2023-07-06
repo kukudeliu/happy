@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 08:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 08:40:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [i人和e人的区别不在于是否社恐](https://s.weibo.com/weibo?q=i%E4%BA%BA%E5%92%8Ce%E4%BA%BA%E7%9A%84%E5%8C%BA%E5%88%AB%E4%B8%8D%E5%9C%A8%E4%BA%8E%E6%98%AF%E5%90%A6%E7%A4%BE%E6%81%90&t=31&band_rank=6&Refer=top)<br />
 7. [众星悼念李玟](https://s.weibo.com/weibo?q=%23%E4%BC%97%E6%98%9F%E6%82%BC%E5%BF%B5%E6%9D%8E%E7%8E%9F%23&t=31&band_rank=7&Refer=top)<br />
 8. [陈紫函戴向宇玉骨遥片场撒狗粮](https://s.weibo.com/weibo?q=%23%E9%99%88%E7%B4%AB%E5%87%BD%E6%88%B4%E5%90%91%E5%AE%87%E7%8E%89%E9%AA%A8%E9%81%A5%E7%89%87%E5%9C%BA%E6%92%92%E7%8B%97%E7%B2%AE%23&t=31&band_rank=8&Refer=top)<br />
-9. [偷拿同学20元男孩被妈妈带去派出所自首](https://s.weibo.com/weibo?q=%23%E5%81%B7%E6%8B%BF%E5%90%8C%E5%AD%A620%E5%85%83%E7%94%B7%E5%AD%A9%E8%A2%AB%E5%A6%88%E5%A6%88%E5%B8%A6%E5%8E%BB%E6%B4%BE%E5%87%BA%E6%89%80%E8%87%AA%E9%A6%96%23&t=31&band_rank=9&Refer=top)<br />
+9. [大学生与蟑螂的区别是什么](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%B8%8E%E8%9F%91%E8%9E%82%E7%9A%84%E5%8C%BA%E5%88%AB%E6%98%AF%E4%BB%80%E4%B9%88&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
