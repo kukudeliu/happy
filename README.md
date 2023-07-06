@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 17:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 17:04:02</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [房地产业低迷，百万农民工被迫失业或转行，当农民工「退休」，收入下滑焦虑在家庭弥漫，如何保障他们的生活？](https://www.zhihu.com/question/610633138)<br />
 5. [我国首个开源桌面操作系统「开放麒麟 1.0」发布，有哪些技术亮点？对我国国产操作系统有何意义？](https://www.zhihu.com/question/610513030)<br />
 6. [76.1% 的农民工 60 岁后不愿休息，为何会出现这样的情况？他们的晚年如何「安放」？](https://www.zhihu.com/question/610495725)<br />
-7. [如何看待 2023 中国汽车论坛上众车企签署的「汽车行业维护公平竞争市场秩序承诺书」？](https://www.zhihu.com/question/610643415)<br />
-8. [买车应该选择什么颜色？](https://www.zhihu.com/question/314127361)<br />
-9. [游戏《永劫无间》宣布销量突破 2000 万、并即将转为免费游戏，有哪些值得关注的？](https://www.zhihu.com/question/610483242)<br />
+7. [买车应该选择什么颜色？](https://www.zhihu.com/question/314127361)<br />
+8. [为什么小孩子不吃饭大人要追着满屋子跑？小孩子不会自己吃饭吗？](https://www.zhihu.com/question/604573410)<br />
+9. [如何看待 2023 中国汽车论坛上众车企签署的「汽车行业维护公平竞争市场秩序承诺书」？](https://www.zhihu.com/question/610643415)<br />
 
 > 百度  
 
@@ -31,10 +31,10 @@
 3. [故宫回应家长带娃随地小便](https://www.baidu.com/s?wd=%E6%95%85%E5%AE%AB%E5%9B%9E%E5%BA%94%E5%AE%B6%E9%95%BF%E5%B8%A6%E5%A8%83%E9%9A%8F%E5%9C%B0%E5%B0%8F%E4%BE%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [新机遇迸发新活力](https://www.baidu.com/s?wd=%E6%96%B0%E6%9C%BA%E9%81%87%E8%BF%B8%E5%8F%91%E6%96%B0%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [二姐否认李玟是割腕自杀](https://www.baidu.com/s?wd=%E4%BA%8C%E5%A7%90%E5%90%A6%E8%AE%A4%E6%9D%8E%E7%8E%9F%E6%98%AF%E5%89%B2%E8%85%95%E8%87%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [毕淑敏儿子辟谣母亲过世](https://www.baidu.com/s?wd=%E6%AF%95%E6%B7%91%E6%95%8F%E5%84%BF%E5%AD%90%E8%BE%9F%E8%B0%A3%E6%AF%8D%E4%BA%B2%E8%BF%87%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [浙江一村资产500万以下是困难户](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E6%9D%91%E8%B5%84%E4%BA%A7500%E4%B8%87%E4%BB%A5%E4%B8%8B%E6%98%AF%E5%9B%B0%E9%9A%BE%E6%88%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [曝李玟原定7月与老公离婚](https://www.baidu.com/s?wd=%E6%9B%9D%E6%9D%8E%E7%8E%9F%E5%8E%9F%E5%AE%9A7%E6%9C%88%E4%B8%8E%E8%80%81%E5%85%AC%E7%A6%BB%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [教育部：将帮助更多毕业生就业](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E5%B0%86%E5%B8%AE%E5%8A%A9%E6%9B%B4%E5%A4%9A%E6%AF%95%E4%B8%9A%E7%94%9F%E5%B0%B1%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [2023年那些离开我们的人](https://www.baidu.com/s?wd=2023%E5%B9%B4%E9%82%A3%E4%BA%9B%E7%A6%BB%E5%BC%80%E6%88%91%E4%BB%AC%E7%9A%84%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [2023年那些离开我们的人](https://www.baidu.com/s?wd=2023%E5%B9%B4%E9%82%A3%E4%BA%9B%E7%A6%BB%E5%BC%80%E6%88%91%E4%BB%AC%E7%9A%84%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [丫丫冰块凉席安排上了](https://www.baidu.com/s?wd=%E4%B8%AB%E4%B8%AB%E5%86%B0%E5%9D%97%E5%87%89%E5%B8%AD%E5%AE%89%E6%8E%92%E4%B8%8A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [故宫回应家长带娃随地小便](https://www.baidu.com/s?wd=%E6%95%85%E5%AE%AB%E5%9B%9E%E5%BA%94%E5%AE%B6%E9%95%BF%E5%B8%A6%E5%A8%83%E9%9A%8F%E5%9C%B0%E5%B0%8F%E4%BE%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [新机遇迸发新活力](https://www.baidu.com/s?wd=%E6%96%B0%E6%9C%BA%E9%81%87%E8%BF%B8%E5%8F%91%E6%96%B0%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [二姐否认李玟是割腕自杀](https://www.baidu.com/s?wd=%E4%BA%8C%E5%A7%90%E5%90%A6%E8%AE%A4%E6%9D%8E%E7%8E%9F%E6%98%AF%E5%89%B2%E8%85%95%E8%87%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [毕淑敏儿子辟谣母亲过世](https://www.baidu.com/s?wd=%E6%AF%95%E6%B7%91%E6%95%8F%E5%84%BF%E5%AD%90%E8%BE%9F%E8%B0%A3%E6%AF%8D%E4%BA%B2%E8%BF%87%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [浙江一村资产500万以下是困难户](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E6%9D%91%E8%B5%84%E4%BA%A7500%E4%B8%87%E4%BB%A5%E4%B8%8B%E6%98%AF%E5%9B%B0%E9%9A%BE%E6%88%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [曝李玟原定7月与老公离婚](https://www.baidu.com/s?wd=%E6%9B%9D%E6%9D%8E%E7%8E%9F%E5%8E%9F%E5%AE%9A7%E6%9C%88%E4%B8%8E%E8%80%81%E5%85%AC%E7%A6%BB%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [教育部：将帮助更多毕业生就业](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E5%B0%86%E5%B8%AE%E5%8A%A9%E6%9B%B4%E5%A4%9A%E6%AF%95%E4%B8%9A%E7%94%9F%E5%B0%B1%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [2023年那些离开我们的人](https://www.baidu.com/s?wd=2023%E5%B9%B4%E9%82%A3%E4%BA%9B%E7%A6%BB%E5%BC%80%E6%88%91%E4%BB%AC%E7%9A%84%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [2023年那些离开我们的人](https://www.baidu.com/s?wd=2023%E5%B9%B4%E9%82%A3%E4%BA%9B%E7%A6%BB%E5%BC%80%E6%88%91%E4%BB%AC%E7%9A%84%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [丫丫冰块凉席安排上了](https://www.baidu.com/s?wd=%E4%B8%AB%E4%B8%AB%E5%86%B0%E5%9D%97%E5%87%89%E5%B8%AD%E5%AE%89%E6%8E%92%E4%B8%8A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
