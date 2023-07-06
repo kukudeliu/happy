@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 19:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 19:49:01</h4></div>
 
 > 微博  
 
@@ -6,9 +6,9 @@
 2. [金星再回应捂胸](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%98%9F%E5%86%8D%E5%9B%9E%E5%BA%94%E6%8D%82%E8%83%B8%23&t=31&band_rank=2&Refer=top)<br />
 3. [大学四年如何不虚度](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E5%9B%9B%E5%B9%B4%E5%A6%82%E4%BD%95%E4%B8%8D%E8%99%9A%E5%BA%A6%23&t=31&band_rank=3&Refer=top)<br />
 4. [王雪峰被开除党籍](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%9B%AA%E5%B3%B0%E8%A2%AB%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D%23&t=31&band_rank=4&Refer=top)<br />
-5. [老人卖桑葚担心价格太贵主动降价](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%8D%96%E6%A1%91%E8%91%9A%E6%8B%85%E5%BF%83%E4%BB%B7%E6%A0%BC%E5%A4%AA%E8%B4%B5%E4%B8%BB%E5%8A%A8%E9%99%8D%E4%BB%B7%23&t=31&band_rank=5&Refer=top)<br />
+5. [83岁老人感谢李玟曾帮他卖柑桔](https://s.weibo.com/weibo?q=%2383%E5%B2%81%E8%80%81%E4%BA%BA%E6%84%9F%E8%B0%A2%E6%9D%8E%E7%8E%9F%E6%9B%BE%E5%B8%AE%E4%BB%96%E5%8D%96%E6%9F%91%E6%A1%94%23&t=31&band_rank=5&Refer=top)<br />
 6. [全靠Angelababy的脸在撑](https://s.weibo.com/weibo?q=%23%E5%85%A8%E9%9D%A0Angelababy%E7%9A%84%E8%84%B8%E5%9C%A8%E6%92%91%23&t=31&band_rank=6&Refer=top)<br />
-7. [83岁老人感谢李玟曾帮他卖柑桔](https://s.weibo.com/weibo?q=%2383%E5%B2%81%E8%80%81%E4%BA%BA%E6%84%9F%E8%B0%A2%E6%9D%8E%E7%8E%9F%E6%9B%BE%E5%B8%AE%E4%BB%96%E5%8D%96%E6%9F%91%E6%A1%94%23&t=31&band_rank=7&Refer=top)<br />
+7. [老人卖桑葚担心价格太贵主动降价](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%8D%96%E6%A1%91%E8%91%9A%E6%8B%85%E5%BF%83%E4%BB%B7%E6%A0%BC%E5%A4%AA%E8%B4%B5%E4%B8%BB%E5%8A%A8%E9%99%8D%E4%BB%B7%23&t=31&band_rank=7&Refer=top)<br />
 8. [杨洋看王楚然的眼神](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B4%8B%E7%9C%8B%E7%8E%8B%E6%A5%9A%E7%84%B6%E7%9A%84%E7%9C%BC%E7%A5%9E%23&t=31&band_rank=8&Refer=top)<br />
 9. [姜云升解约](https://s.weibo.com/weibo?q=%23%E5%A7%9C%E4%BA%91%E5%8D%87%E8%A7%A3%E7%BA%A6%23&t=31&band_rank=9&Refer=top)<br />
 
@@ -33,8 +33,8 @@
 5. [李玟老公发讣文：送别挚爱 万分悲痛](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E8%80%81%E5%85%AC%E5%8F%91%E8%AE%A3%E6%96%87%EF%BC%9A%E9%80%81%E5%88%AB%E6%8C%9A%E7%88%B1+%E4%B8%87%E5%88%86%E6%82%B2%E7%97%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子偷走女友家80瓶飞天茅台](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%B7%E8%B5%B0%E5%A5%B3%E5%8F%8B%E5%AE%B680%E7%93%B6%E9%A3%9E%E5%A4%A9%E8%8C%85%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [特别节目：我们的CoCo李玟](https://www.baidu.com/s?wd=%E7%89%B9%E5%88%AB%E8%8A%82%E7%9B%AE%EF%BC%9A%E6%88%91%E4%BB%AC%E7%9A%84CoCo%E6%9D%8E%E7%8E%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [花百万上大学上了1年发现没入学](https://www.baidu.com/s?wd=%E8%8A%B1%E7%99%BE%E4%B8%87%E4%B8%8A%E5%A4%A7%E5%AD%A6%E4%B8%8A%E4%BA%861%E5%B9%B4%E5%8F%91%E7%8E%B0%E6%B2%A1%E5%85%A5%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [任正非曾患抑郁症](https://www.baidu.com/s?wd=%E4%BB%BB%E6%AD%A3%E9%9D%9E%E6%9B%BE%E6%82%A3%E6%8A%91%E9%83%81%E7%97%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [2024年或成为最热一年](https://www.baidu.com/s?wd=2024%E5%B9%B4%E6%88%96%E6%88%90%E4%B8%BA%E6%9C%80%E7%83%AD%E4%B8%80%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [花百万上大学上了1年发现没入学](https://www.baidu.com/s?wd=%E8%8A%B1%E7%99%BE%E4%B8%87%E4%B8%8A%E5%A4%A7%E5%AD%A6%E4%B8%8A%E4%BA%861%E5%B9%B4%E5%8F%91%E7%8E%B0%E6%B2%A1%E5%85%A5%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [李玟老公发讣文：送别挚爱 万分悲痛](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E8%80%81%E5%85%AC%E5%8F%91%E8%AE%A3%E6%96%87%EF%BC%9A%E9%80%81%E5%88%AB%E6%8C%9A%E7%88%B1+%E4%B8%87%E5%88%86%E6%82%B2%E7%97%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子偷走女友家80瓶飞天茅台](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%B7%E8%B5%B0%E5%A5%B3%E5%8F%8B%E5%AE%B680%E7%93%B6%E9%A3%9E%E5%A4%A9%E8%8C%85%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [特别节目：我们的CoCo李玟](https://www.baidu.com/s?wd=%E7%89%B9%E5%88%AB%E8%8A%82%E7%9B%AE%EF%BC%9A%E6%88%91%E4%BB%AC%E7%9A%84CoCo%E6%9D%8E%E7%8E%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [花百万上大学上了1年发现没入学](https://www.baidu.com/s?wd=%E8%8A%B1%E7%99%BE%E4%B8%87%E4%B8%8A%E5%A4%A7%E5%AD%A6%E4%B8%8A%E4%BA%861%E5%B9%B4%E5%8F%91%E7%8E%B0%E6%B2%A1%E5%85%A5%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [任正非曾患抑郁症](https://www.baidu.com/s?wd=%E4%BB%BB%E6%AD%A3%E9%9D%9E%E6%9B%BE%E6%82%A3%E6%8A%91%E9%83%81%E7%97%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [2024年或成为最热一年](https://www.baidu.com/s?wd=2024%E5%B9%B4%E6%88%96%E6%88%90%E4%B8%BA%E6%9C%80%E7%83%AD%E4%B8%80%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [花百万上大学上了1年发现没入学](https://www.baidu.com/s?wd=%E8%8A%B1%E7%99%BE%E4%B8%87%E4%B8%8A%E5%A4%A7%E5%AD%A6%E4%B8%8A%E4%BA%861%E5%B9%B4%E5%8F%91%E7%8E%B0%E6%B2%A1%E5%85%A5%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
