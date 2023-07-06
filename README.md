@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 14:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 14:46:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [房地产业低迷，百万农民工被迫失业或转行，当农民工「退休」，收入下滑焦虑在家庭弥漫，如何保障他们的生活？](https://www.zhihu.com/question/610633138)<br />
 6. [为什么《英雄联盟》热度就是降不下来？](https://www.zhihu.com/question/582973653)<br />
 7. [谷歌披露量子计算机新突破，经典超算需 47 年的任务可在几秒内完成，具有哪些意义？](https://www.zhihu.com/question/610524870)<br />
-8. [如何看待 2023 年 7 月 6 日 A 股市场？](https://www.zhihu.com/question/610619789)<br />
-9. []()<br />
+8. []()<br />
+9. [Meta 正式推出新社媒平台 Threads，放话要取代推特，有哪些特点？未来是否可能取代推特？](https://www.zhihu.com/question/610615844)<br />
 
 > 百度  
 
