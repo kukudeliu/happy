@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 23:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 23:29:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [2023 年 6 月，31 省份新增新冠重症病例 1968 例、死亡 239 例，这一数据说明了什么？](https://www.zhihu.com/question/610625066)<br />
 6. [7 月 6 日美国财政部部长耶伦乘机抵达北京，她此行有哪些具体安排？还有哪些值得关注的地方？](https://www.zhihu.com/question/610702246)<br />
 7. []()<br />
-8. [Uzi 与 Light 同获 6 次 MVP 并列下路选手第一名，如何评价本赛季下路的竞争强度？](https://www.zhihu.com/question/610057378)<br />
-9. []()<br />
+8. []()<br />
+9. [Uzi 与 Light 同获 6 次 MVP 并列下路选手第一名，如何评价本赛季下路的竞争强度？](https://www.zhihu.com/question/610057378)<br />
 
 > 百度  
 
@@ -34,7 +34,7 @@
 6. [王雪峰被开除党籍](https://www.baidu.com/s?wd=%E7%8E%8B%E9%9B%AA%E5%B3%B0%E8%A2%AB%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李玟二姐否认与李玟老公同发讣告](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E4%BA%8C%E5%A7%90%E5%90%A6%E8%AE%A4%E4%B8%8E%E6%9D%8E%E7%8E%9F%E8%80%81%E5%85%AC%E5%90%8C%E5%8F%91%E8%AE%A3%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [老人中暑体温达41℃抢救无效去世](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E4%B8%AD%E6%9A%91%E4%BD%93%E6%B8%A9%E8%BE%BE41%E2%84%83%E6%8A%A2%E6%95%91%E6%97%A0%E6%95%88%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [4名学生公交事故中遇难 1人刚高考完](https://www.baidu.com/s?wd=4%E5%90%8D%E5%AD%A6%E7%94%9F%E5%85%AC%E4%BA%A4%E4%BA%8B%E6%95%85%E4%B8%AD%E9%81%87%E9%9A%BE+1%E4%BA%BA%E5%88%9A%E9%AB%98%E8%80%83%E5%AE%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [热依扎：抑郁症不是开刀就能好的病](https://www.baidu.com/s?wd=%E7%83%AD%E4%BE%9D%E6%89%8E%EF%BC%9A%E6%8A%91%E9%83%81%E7%97%87%E4%B8%8D%E6%98%AF%E5%BC%80%E5%88%80%E5%B0%B1%E8%83%BD%E5%A5%BD%E7%9A%84%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [王雪峰被开除党籍](https://www.baidu.com/s?wd=%E7%8E%8B%E9%9B%AA%E5%B3%B0%E8%A2%AB%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李玟二姐否认与李玟老公同发讣告](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E4%BA%8C%E5%A7%90%E5%90%A6%E8%AE%A4%E4%B8%8E%E6%9D%8E%E7%8E%9F%E8%80%81%E5%85%AC%E5%90%8C%E5%8F%91%E8%AE%A3%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [老人中暑体温达41℃抢救无效去世](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E4%B8%AD%E6%9A%91%E4%BD%93%E6%B8%A9%E8%BE%BE41%E2%84%83%E6%8A%A2%E6%95%91%E6%97%A0%E6%95%88%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [4名学生公交事故中遇难 1人刚高考完](https://www.baidu.com/s?wd=4%E5%90%8D%E5%AD%A6%E7%94%9F%E5%85%AC%E4%BA%A4%E4%BA%8B%E6%95%85%E4%B8%AD%E9%81%87%E9%9A%BE+1%E4%BA%BA%E5%88%9A%E9%AB%98%E8%80%83%E5%AE%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [热依扎：抑郁症不是开刀就能好的病](https://www.baidu.com/s?wd=%E7%83%AD%E4%BE%9D%E6%89%8E%EF%BC%9A%E6%8A%91%E9%83%81%E7%97%87%E4%B8%8D%E6%98%AF%E5%BC%80%E5%88%80%E5%B0%B1%E8%83%BD%E5%A5%BD%E7%9A%84%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
