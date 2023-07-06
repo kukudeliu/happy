@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 09:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 09:11:01</h4></div>
 
 > 微博  
 
@@ -18,11 +18,11 @@
 2. [大量店铺转让，小饼「内卷」带来供应过剩，淄博烧烤「凉」了吗？为什么会出现这种现象？](https://www.zhihu.com/question/610461393)<br />
 3. [报道称欧盟外长博雷利原定下周访华被中方取消，外交部称愿同欧方继续保持沟通，取消原因是什么？如何解读？](https://www.zhihu.com/question/610463055)<br />
 4. [歌手李玟轻生去世，其姐姐发声称其患上抑郁症，她的哪些作品让你印象深刻？](https://www.zhihu.com/question/610553174)<br />
-5. []()<br />
-6. [有没有一种食材没做成美食前不敢上手碰，做成美食之后却又很好吃？](https://www.zhihu.com/question/610062999)<br />
+5. [有没有一种食材没做成美食前不敢上手碰，做成美食之后却又很好吃？](https://www.zhihu.com/question/610062999)<br />
+6. [如何看待首发骁龙 8 Gen 2 高频版的红魔 8S Pro ？](https://www.zhihu.com/question/609348234)<br />
 7. [此前对中国半导体出手的荷兰敦促欧盟回应中方对镓、锗实施出口管制，荷兰在急什么？欧盟将如何应对？](https://www.zhihu.com/question/610538153)<br />
-8. [如何看待首发骁龙 8 Gen 2 高频版的红魔 8S Pro ？](https://www.zhihu.com/question/609348234)<br />
-9. [T1 发布公告「Faker 因手伤持续疼痛将转入休息状态」这将对他的职业生涯和今年的成绩造成哪些影响？](https://www.zhihu.com/question/610485839)<br />
+8. [T1 发布公告「Faker 因手伤持续疼痛将转入休息状态」这将对他的职业生涯和今年的成绩造成哪些影响？](https://www.zhihu.com/question/610485839)<br />
+9. [你敢穿 30 元一件的衣服去上班吗？](https://www.zhihu.com/question/606509967)<br />
 
 > 百度  
 
