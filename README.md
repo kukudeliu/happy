@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 15:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 15:40:01</h4></div>
 
 > 微博  
 
 1. [手机玩太久可导致抑郁症](https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E7%8E%A9%E5%A4%AA%E4%B9%85%E5%8F%AF%E5%AF%BC%E8%87%B4%E6%8A%91%E9%83%81%E7%97%87%23&t=31&band_rank=1&Refer=top)<br />
-2. [秋瓷炫于晓光回归韩综](https://s.weibo.com/weibo?q=%23%E7%A7%8B%E7%93%B7%E7%82%AB%E4%BA%8E%E6%99%93%E5%85%89%E5%9B%9E%E5%BD%92%E9%9F%A9%E7%BB%BC%23&t=31&band_rank=2&Refer=top)<br />
+2. [28.8万彩礼男生读大一双方家长未见面](https://s.weibo.com/weibo?q=%2328.8%E4%B8%87%E5%BD%A9%E7%A4%BC%E7%94%B7%E7%94%9F%E8%AF%BB%E5%A4%A7%E4%B8%80%E5%8F%8C%E6%96%B9%E5%AE%B6%E9%95%BF%E6%9C%AA%E8%A7%81%E9%9D%A2%23&t=31&band_rank=2&Refer=top)<br />
 3. [路途遥远且听完这最后一课](https://s.weibo.com/weibo?q=%23%E8%B7%AF%E9%80%94%E9%81%A5%E8%BF%9C%E4%B8%94%E5%90%AC%E5%AE%8C%E8%BF%99%E6%9C%80%E5%90%8E%E4%B8%80%E8%AF%BE%23&t=31&band_rank=3&Refer=top)<br />
 4. [成龙 CoCo是天生的明星](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%BE%99%20CoCo%E6%98%AF%E5%A4%A9%E7%94%9F%E7%9A%84%E6%98%8E%E6%98%9F%23&t=31&band_rank=4&Refer=top)<br />
-5. [28.8万彩礼男生读大一双方家长未见面](https://s.weibo.com/weibo?q=%2328.8%E4%B8%87%E5%BD%A9%E7%A4%BC%E7%94%B7%E7%94%9F%E8%AF%BB%E5%A4%A7%E4%B8%80%E5%8F%8C%E6%96%B9%E5%AE%B6%E9%95%BF%E6%9C%AA%E8%A7%81%E9%9D%A2%23&t=31&band_rank=5&Refer=top)<br />
+5. [秋瓷炫于晓光回归韩综](https://s.weibo.com/weibo?q=%23%E7%A7%8B%E7%93%B7%E7%82%AB%E4%BA%8E%E6%99%93%E5%85%89%E5%9B%9E%E5%BD%92%E9%9F%A9%E7%BB%BC%23&t=31&band_rank=5&Refer=top)<br />
 6. [奔跑吧](https://s.weibo.com/weibo?q=%E5%A5%94%E8%B7%91%E5%90%A7&t=31&band_rank=6&Refer=top)<br />
 7. [李玟遗产都留给妈妈](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E9%81%97%E4%BA%A7%E9%83%BD%E7%95%99%E7%BB%99%E5%A6%88%E5%A6%88%23&t=31&band_rank=7&Refer=top)<br />
 8. [播一部爆一部的演员](https://s.weibo.com/weibo?q=%23%E6%92%AD%E4%B8%80%E9%83%A8%E7%88%86%E4%B8%80%E9%83%A8%E7%9A%84%E6%BC%94%E5%91%98%23&t=31&band_rank=8&Refer=top)<br />
