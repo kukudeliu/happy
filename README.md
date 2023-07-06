@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-07 01:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-07 01:09:01</h4></div>
 
 > 微博  
 
@@ -33,7 +33,7 @@
 5. [李玟老公发讣文：送别挚爱 万分悲痛](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E8%80%81%E5%85%AC%E5%8F%91%E8%AE%A3%E6%96%87%EF%BC%9A%E9%80%81%E5%88%AB%E6%8C%9A%E7%88%B1+%E4%B8%87%E5%88%86%E6%82%B2%E7%97%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [王雪峰被开除党籍](https://www.baidu.com/s?wd=%E7%8E%8B%E9%9B%AA%E5%B3%B0%E8%A2%AB%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李玟二姐否认与李玟老公同发讣告](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E4%BA%8C%E5%A7%90%E5%90%A6%E8%AE%A4%E4%B8%8E%E6%9D%8E%E7%8E%9F%E8%80%81%E5%85%AC%E5%90%8C%E5%8F%91%E8%AE%A3%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [热依扎：抑郁症不是开刀就能好的病](https://www.baidu.com/s?wd=%E7%83%AD%E4%BE%9D%E6%89%8E%EF%BC%9A%E6%8A%91%E9%83%81%E7%97%87%E4%B8%8D%E6%98%AF%E5%BC%80%E5%88%80%E5%B0%B1%E8%83%BD%E5%A5%BD%E7%9A%84%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [耶伦下飞机时被提醒看天上彩虹](https://www.baidu.com/s?wd=%E8%80%B6%E4%BC%A6%E4%B8%8B%E9%A3%9E%E6%9C%BA%E6%97%B6%E8%A2%AB%E6%8F%90%E9%86%92%E7%9C%8B%E5%A4%A9%E4%B8%8A%E5%BD%A9%E8%99%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [女子火灾中扔下婴儿被路人合力接住](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%81%AB%E7%81%BE%E4%B8%AD%E6%89%94%E4%B8%8B%E5%A9%B4%E5%84%BF%E8%A2%AB%E8%B7%AF%E4%BA%BA%E5%90%88%E5%8A%9B%E6%8E%A5%E4%BD%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [李玟老公发讣文：送别挚爱 万分悲痛](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E8%80%81%E5%85%AC%E5%8F%91%E8%AE%A3%E6%96%87%EF%BC%9A%E9%80%81%E5%88%AB%E6%8C%9A%E7%88%B1+%E4%B8%87%E5%88%86%E6%82%B2%E7%97%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [王雪峰被开除党籍](https://www.baidu.com/s?wd=%E7%8E%8B%E9%9B%AA%E5%B3%B0%E8%A2%AB%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李玟二姐否认与李玟老公同发讣告](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E4%BA%8C%E5%A7%90%E5%90%A6%E8%AE%A4%E4%B8%8E%E6%9D%8E%E7%8E%9F%E8%80%81%E5%85%AC%E5%90%8C%E5%8F%91%E8%AE%A3%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [热依扎：抑郁症不是开刀就能好的病](https://www.baidu.com/s?wd=%E7%83%AD%E4%BE%9D%E6%89%8E%EF%BC%9A%E6%8A%91%E9%83%81%E7%97%87%E4%B8%8D%E6%98%AF%E5%BC%80%E5%88%80%E5%B0%B1%E8%83%BD%E5%A5%BD%E7%9A%84%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [耶伦下飞机时被提醒看天上彩虹](https://www.baidu.com/s?wd=%E8%80%B6%E4%BC%A6%E4%B8%8B%E9%A3%9E%E6%9C%BA%E6%97%B6%E8%A2%AB%E6%8F%90%E9%86%92%E7%9C%8B%E5%A4%A9%E4%B8%8A%E5%BD%A9%E8%99%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [女子火灾中扔下婴儿被路人合力接住](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%81%AB%E7%81%BE%E4%B8%AD%E6%89%94%E4%B8%8B%E5%A9%B4%E5%84%BF%E8%A2%AB%E8%B7%AF%E4%BA%BA%E5%90%88%E5%8A%9B%E6%8E%A5%E4%BD%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
