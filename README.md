@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 08:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 08:36:01</h4></div>
 
 > 微博  
 
@@ -19,10 +19,10 @@
 3. [大量店铺转让，小饼「内卷」带来供应过剩，淄博烧烤「凉」了吗？为什么会出现这种现象？](https://www.zhihu.com/question/610461393)<br />
 4. [歌手李玟轻生去世，其姐姐发声称其患上抑郁症，她的哪些作品让你印象深刻？](https://www.zhihu.com/question/610553174)<br />
 5. [T1 发布公告「Faker 因手伤持续疼痛将转入休息状态」这将对他的职业生涯和今年的成绩造成哪些影响？](https://www.zhihu.com/question/610485839)<br />
-6. [如何评价王宝强执导的电影《八角笼中》？](https://www.zhihu.com/question/603748979)<br />
+6. []()<br />
 7. [此前对中国半导体出手的荷兰敦促欧盟回应中方对镓、锗实施出口管制，荷兰在急什么？欧盟将如何应对？](https://www.zhihu.com/question/610538153)<br />
-8. [你敢穿 30 元一件的衣服去上班吗？](https://www.zhihu.com/question/606509967)<br />
-9. [国防部回应美对台 4.4 亿美元军售，称「美方行为把台民众推向灾难深渊」，透露了哪些信息？](https://www.zhihu.com/question/610442392)<br />
+8. [如何评价王宝强执导的电影《八角笼中》？](https://www.zhihu.com/question/603748979)<br />
+9. [你敢穿 30 元一件的衣服去上班吗？](https://www.zhihu.com/question/606509967)<br />
 
 > 百度  
 
