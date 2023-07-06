@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 09:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 09:26:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [姐姐忆述李玟生死一刻](https://s.weibo.com/weibo?q=%23%E5%A7%90%E5%A7%90%E5%BF%86%E8%BF%B0%E6%9D%8E%E7%8E%9F%E7%94%9F%E6%AD%BB%E4%B8%80%E5%88%BB%23&t=31&band_rank=4&Refer=top)<br />
 5. [我挣到钱不体面的工作就变体面了](https://s.weibo.com/weibo?q=%23%E6%88%91%E6%8C%A3%E5%88%B0%E9%92%B1%E4%B8%8D%E4%BD%93%E9%9D%A2%E7%9A%84%E5%B7%A5%E4%BD%9C%E5%B0%B1%E5%8F%98%E4%BD%93%E9%9D%A2%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [2年被家暴16次女子希望判丈夫死刑](https://s.weibo.com/weibo?q=%232%E5%B9%B4%E8%A2%AB%E5%AE%B6%E6%9A%B416%E6%AC%A1%E5%A5%B3%E5%AD%90%E5%B8%8C%E6%9C%9B%E5%88%A4%E4%B8%88%E5%A4%AB%E6%AD%BB%E5%88%91%23&t=31&band_rank=6&Refer=top)<br />
-7. [董宇辉说出了农村孩子的心声](https://s.weibo.com/weibo?q=%E8%91%A3%E5%AE%87%E8%BE%89%E8%AF%B4%E5%87%BA%E4%BA%86%E5%86%9C%E6%9D%91%E5%AD%A9%E5%AD%90%E7%9A%84%E5%BF%83%E5%A3%B0&t=31&band_rank=7&Refer=top)<br />
-8. [抢教授话筒的同学被哈工大录取](https://s.weibo.com/weibo?q=%E6%8A%A2%E6%95%99%E6%8E%88%E8%AF%9D%E7%AD%92%E7%9A%84%E5%90%8C%E5%AD%A6%E8%A2%AB%E5%93%88%E5%B7%A5%E5%A4%A7%E5%BD%95%E5%8F%96&t=31&band_rank=8&Refer=top)<br />
-9. [i人和e人的区别不在于是否社恐](https://s.weibo.com/weibo?q=i%E4%BA%BA%E5%92%8Ce%E4%BA%BA%E7%9A%84%E5%8C%BA%E5%88%AB%E4%B8%8D%E5%9C%A8%E4%BA%8E%E6%98%AF%E5%90%A6%E7%A4%BE%E6%81%90&t=31&band_rank=9&Refer=top)<br />
+7. [谢娜发文悼念李玟](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E5%8F%91%E6%96%87%E6%82%BC%E5%BF%B5%E6%9D%8E%E7%8E%9F%23&t=31&band_rank=7&Refer=top)<br />
+8. [董宇辉说出了农村孩子的心声](https://s.weibo.com/weibo?q=%E8%91%A3%E5%AE%87%E8%BE%89%E8%AF%B4%E5%87%BA%E4%BA%86%E5%86%9C%E6%9D%91%E5%AD%A9%E5%AD%90%E7%9A%84%E5%BF%83%E5%A3%B0&t=31&band_rank=8&Refer=top)<br />
+9. [抢教授话筒的同学被哈工大录取](https://s.weibo.com/weibo?q=%E6%8A%A2%E6%95%99%E6%8E%88%E8%AF%9D%E7%AD%92%E7%9A%84%E5%90%8C%E5%AD%A6%E8%A2%AB%E5%93%88%E5%B7%A5%E5%A4%A7%E5%BD%95%E5%8F%96&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
