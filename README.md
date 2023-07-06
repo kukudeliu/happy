@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 13:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 13:25:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [boss直聘](https://s.weibo.com/weibo?q=boss%E7%9B%B4%E8%81%98&t=31&band_rank=2&Refer=top)<br />
 3. [路途遥远且听完这最后一课](https://s.weibo.com/weibo?q=%23%E8%B7%AF%E9%80%94%E9%81%A5%E8%BF%9C%E4%B8%94%E5%90%AC%E5%AE%8C%E8%BF%99%E6%9C%80%E5%90%8E%E4%B8%80%E8%AF%BE%23&t=31&band_rank=3&Refer=top)<br />
 4. [李玟遗产都留给妈妈](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E9%81%97%E4%BA%A7%E9%83%BD%E7%95%99%E7%BB%99%E5%A6%88%E5%A6%88%23&t=31&band_rank=4&Refer=top)<br />
-5. [播一部爆一部的演员](https://s.weibo.com/weibo?q=%23%E6%92%AD%E4%B8%80%E9%83%A8%E7%88%86%E4%B8%80%E9%83%A8%E7%9A%84%E6%BC%94%E5%91%98%23&t=31&band_rank=5&Refer=top)<br />
-6. [Lisa无刘海vs蒋雯丽](https://s.weibo.com/weibo?q=%23Lisa%E6%97%A0%E5%88%98%E6%B5%B7vs%E8%92%8B%E9%9B%AF%E4%B8%BD%23&t=31&band_rank=6&Refer=top)<br />
+5. [Lisa无刘海vs蒋雯丽](https://s.weibo.com/weibo?q=%23Lisa%E6%97%A0%E5%88%98%E6%B5%B7vs%E8%92%8B%E9%9B%AF%E4%B8%BD%23&t=31&band_rank=5&Refer=top)<br />
+6. [播一部爆一部的演员](https://s.weibo.com/weibo?q=%23%E6%92%AD%E4%B8%80%E9%83%A8%E7%88%86%E4%B8%80%E9%83%A8%E7%9A%84%E6%BC%94%E5%91%98%23&t=31&band_rank=6&Refer=top)<br />
 7. [成龙 CoCo是天生的明星](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%BE%99%20CoCo%E6%98%AF%E5%A4%A9%E7%94%9F%E7%9A%84%E6%98%8E%E6%98%9F%23&t=31&band_rank=7&Refer=top)<br />
-8. [肖战再提陈情令](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%86%8D%E6%8F%90%E9%99%88%E6%83%85%E4%BB%A4%23&t=31&band_rank=8&Refer=top)<br />
-9. [突发火灾妈妈将婴儿从4楼扔下楼求生](https://s.weibo.com/weibo?q=%23%E7%AA%81%E5%8F%91%E7%81%AB%E7%81%BE%E5%A6%88%E5%A6%88%E5%B0%86%E5%A9%B4%E5%84%BF%E4%BB%8E4%E6%A5%BC%E6%89%94%E4%B8%8B%E6%A5%BC%E6%B1%82%E7%94%9F%23&t=31&band_rank=9&Refer=top)<br />
+8. [突发火灾妈妈将婴儿从4楼扔下楼求生](https://s.weibo.com/weibo?q=%23%E7%AA%81%E5%8F%91%E7%81%AB%E7%81%BE%E5%A6%88%E5%A6%88%E5%B0%86%E5%A9%B4%E5%84%BF%E4%BB%8E4%E6%A5%BC%E6%89%94%E4%B8%8B%E6%A5%BC%E6%B1%82%E7%94%9F%23&t=31&band_rank=8&Refer=top)<br />
+9. [2年被家暴16次女子希望判丈夫死刑](https://s.weibo.com/weibo?q=%232%E5%B9%B4%E8%A2%AB%E5%AE%B6%E6%9A%B416%E6%AC%A1%E5%A5%B3%E5%AD%90%E5%B8%8C%E6%9C%9B%E5%88%A4%E4%B8%88%E5%A4%AB%E6%AD%BB%E5%88%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
