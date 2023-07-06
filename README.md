@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-07 03:20:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-07 03:21:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [谭爷爷快成顶流了](https://s.weibo.com/weibo?q=%23%E8%B0%AD%E7%88%B7%E7%88%B7%E5%BF%AB%E6%88%90%E9%A1%B6%E6%B5%81%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [李玟老公发讣告](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E8%80%81%E5%85%AC%E5%8F%91%E8%AE%A3%E5%91%8A%23&t=31&band_rank=7&Refer=top)<br />
 8. [你们每个月的公积金有多少](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%BB%AC%E6%AF%8F%E4%B8%AA%E6%9C%88%E7%9A%84%E5%85%AC%E7%A7%AF%E9%87%91%E6%9C%89%E5%A4%9A%E5%B0%91%23&t=31&band_rank=8&Refer=top)<br />
-9. [羊毛党用无理由退货漏洞薅了100万](https://s.weibo.com/weibo?q=%23%E7%BE%8A%E6%AF%9B%E5%85%9A%E7%94%A8%E6%97%A0%E7%90%86%E7%94%B1%E9%80%80%E8%B4%A7%E6%BC%8F%E6%B4%9E%E8%96%85%E4%BA%86100%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
+9. [李雪琴谈走出抑郁症的方法](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%9B%AA%E7%90%B4%E8%B0%88%E8%B5%B0%E5%87%BA%E6%8A%91%E9%83%81%E7%97%87%E7%9A%84%E6%96%B9%E6%B3%95%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
