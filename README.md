@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 11:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 11:17:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [2年被家暴16次女子希望判丈夫死刑](https://s.weibo.com/weibo?q=%232%E5%B9%B4%E8%A2%AB%E5%AE%B6%E6%9A%B416%E6%AC%A1%E5%A5%B3%E5%AD%90%E5%B8%8C%E6%9C%9B%E5%88%A4%E4%B8%88%E5%A4%AB%E6%AD%BB%E5%88%91%23&t=31&band_rank=6&Refer=top)<br />
 7. [姐姐忆述李玟生死一刻](https://s.weibo.com/weibo?q=%23%E5%A7%90%E5%A7%90%E5%BF%86%E8%BF%B0%E6%9D%8E%E7%8E%9F%E7%94%9F%E6%AD%BB%E4%B8%80%E5%88%BB%23&t=31&band_rank=7&Refer=top)<br />
 8. [曾少年定档](https://s.weibo.com/weibo?q=%E6%9B%BE%E5%B0%91%E5%B9%B4%E5%AE%9A%E6%A1%A3&t=31&band_rank=8&Refer=top)<br />
-9. [抢教授话筒的同学被哈工大录取](https://s.weibo.com/weibo?q=%E6%8A%A2%E6%95%99%E6%8E%88%E8%AF%9D%E7%AD%92%E7%9A%84%E5%90%8C%E5%AD%A6%E8%A2%AB%E5%93%88%E5%B7%A5%E5%A4%A7%E5%BD%95%E5%8F%96&t=31&band_rank=9&Refer=top)<br />
+9. [永劫无间转为免费游戏](https://s.weibo.com/weibo?q=%23%E6%B0%B8%E5%8A%AB%E6%97%A0%E9%97%B4%E8%BD%AC%E4%B8%BA%E5%85%8D%E8%B4%B9%E6%B8%B8%E6%88%8F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -31,9 +31,9 @@
 3. [这届年轻人盯上了电动轮椅](https://www.baidu.com/s?wd=%E8%BF%99%E5%B1%8A%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9B%AF%E4%B8%8A%E4%BA%86%E7%94%B5%E5%8A%A8%E8%BD%AE%E6%A4%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [就业形势总体稳定](https://www.baidu.com/s?wd=%E5%B0%B1%E4%B8%9A%E5%BD%A2%E5%8A%BF%E6%80%BB%E4%BD%93%E7%A8%B3%E5%AE%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [李玟遗产全部留给母亲](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E9%81%97%E4%BA%A7%E5%85%A8%E9%83%A8%E7%95%99%E7%BB%99%E6%AF%8D%E4%BA%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [“中国第一高楼”没找到买家](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E9%AB%98%E6%A5%BC%E2%80%9D%E6%B2%A1%E6%89%BE%E5%88%B0%E4%B9%B0%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [好友否认麦当娜脑死亡](https://www.baidu.com/s?wd=%E5%A5%BD%E5%8F%8B%E5%90%A6%E8%AE%A4%E9%BA%A6%E5%BD%93%E5%A8%9C%E8%84%91%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [姐姐：李玟脑死亡后母亲仍不放弃](https://www.baidu.com/s?wd=%E5%A7%90%E5%A7%90%EF%BC%9A%E6%9D%8E%E7%8E%9F%E8%84%91%E6%AD%BB%E4%BA%A1%E5%90%8E%E6%AF%8D%E4%BA%B2%E4%BB%8D%E4%B8%8D%E6%94%BE%E5%BC%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [好友否认麦当娜脑死亡](https://www.baidu.com/s?wd=%E5%A5%BD%E5%8F%8B%E5%90%A6%E8%AE%A4%E9%BA%A6%E5%BD%93%E5%A8%9C%E8%84%91%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [“中国第一高楼”没找到买家](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E9%AB%98%E6%A5%BC%E2%80%9D%E6%B2%A1%E6%89%BE%E5%88%B0%E4%B9%B0%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [知情人称李玟与老公还未离婚](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0%E6%9D%8E%E7%8E%9F%E4%B8%8E%E8%80%81%E5%85%AC%E8%BF%98%E6%9C%AA%E7%A6%BB%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -43,7 +43,7 @@
 3. [这届年轻人盯上了电动轮椅](https://www.baidu.com/s?wd=%E8%BF%99%E5%B1%8A%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9B%AF%E4%B8%8A%E4%BA%86%E7%94%B5%E5%8A%A8%E8%BD%AE%E6%A4%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [就业形势总体稳定](https://www.baidu.com/s?wd=%E5%B0%B1%E4%B8%9A%E5%BD%A2%E5%8A%BF%E6%80%BB%E4%BD%93%E7%A8%B3%E5%AE%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [李玟遗产全部留给母亲](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E9%81%97%E4%BA%A7%E5%85%A8%E9%83%A8%E7%95%99%E7%BB%99%E6%AF%8D%E4%BA%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [“中国第一高楼”没找到买家](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E9%AB%98%E6%A5%BC%E2%80%9D%E6%B2%A1%E6%89%BE%E5%88%B0%E4%B9%B0%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [好友否认麦当娜脑死亡](https://www.baidu.com/s?wd=%E5%A5%BD%E5%8F%8B%E5%90%A6%E8%AE%A4%E9%BA%A6%E5%BD%93%E5%A8%9C%E8%84%91%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [姐姐：李玟脑死亡后母亲仍不放弃](https://www.baidu.com/s?wd=%E5%A7%90%E5%A7%90%EF%BC%9A%E6%9D%8E%E7%8E%9F%E8%84%91%E6%AD%BB%E4%BA%A1%E5%90%8E%E6%AF%8D%E4%BA%B2%E4%BB%8D%E4%B8%8D%E6%94%BE%E5%BC%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [好友否认麦当娜脑死亡](https://www.baidu.com/s?wd=%E5%A5%BD%E5%8F%8B%E5%90%A6%E8%AE%A4%E9%BA%A6%E5%BD%93%E5%A8%9C%E8%84%91%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [“中国第一高楼”没找到买家](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E9%AB%98%E6%A5%BC%E2%80%9D%E6%B2%A1%E6%89%BE%E5%88%B0%E4%B9%B0%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [知情人称李玟与老公还未离婚](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0%E6%9D%8E%E7%8E%9F%E4%B8%8E%E8%80%81%E5%85%AC%E8%BF%98%E6%9C%AA%E7%A6%BB%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
