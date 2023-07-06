@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-07 02:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-07 02:14:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [王雪峰被开除党籍](https://www.baidu.com/s?wd=%E7%8E%8B%E9%9B%AA%E5%B3%B0%E8%A2%AB%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李玟二姐否认与李玟老公同发讣告](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E4%BA%8C%E5%A7%90%E5%90%A6%E8%AE%A4%E4%B8%8E%E6%9D%8E%E7%8E%9F%E8%80%81%E5%85%AC%E5%90%8C%E5%8F%91%E8%AE%A3%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [老人中暑体温达41℃抢救无效去世](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E4%B8%AD%E6%9A%91%E4%BD%93%E6%B8%A9%E8%BE%BE41%E2%84%83%E6%8A%A2%E6%95%91%E6%97%A0%E6%95%88%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [程青松喊话王宝强退还金扫帚](https://www.baidu.com/s?wd=%E7%A8%8B%E9%9D%92%E6%9D%BE%E5%96%8A%E8%AF%9D%E7%8E%8B%E5%AE%9D%E5%BC%BA%E9%80%80%E8%BF%98%E9%87%91%E6%89%AB%E5%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [花百万上大学上了1年发现没入学](https://www.baidu.com/s?wd=%E8%8A%B1%E7%99%BE%E4%B8%87%E4%B8%8A%E5%A4%A7%E5%AD%A6%E4%B8%8A%E4%BA%861%E5%B9%B4%E5%8F%91%E7%8E%B0%E6%B2%A1%E5%85%A5%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [王雪峰被开除党籍](https://www.baidu.com/s?wd=%E7%8E%8B%E9%9B%AA%E5%B3%B0%E8%A2%AB%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李玟二姐否认与李玟老公同发讣告](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E4%BA%8C%E5%A7%90%E5%90%A6%E8%AE%A4%E4%B8%8E%E6%9D%8E%E7%8E%9F%E8%80%81%E5%85%AC%E5%90%8C%E5%8F%91%E8%AE%A3%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [老人中暑体温达41℃抢救无效去世](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E4%B8%AD%E6%9A%91%E4%BD%93%E6%B8%A9%E8%BE%BE41%E2%84%83%E6%8A%A2%E6%95%91%E6%97%A0%E6%95%88%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [程青松喊话王宝强退还金扫帚](https://www.baidu.com/s?wd=%E7%A8%8B%E9%9D%92%E6%9D%BE%E5%96%8A%E8%AF%9D%E7%8E%8B%E5%AE%9D%E5%BC%BA%E9%80%80%E8%BF%98%E9%87%91%E6%89%AB%E5%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [花百万上大学上了1年发现没入学](https://www.baidu.com/s?wd=%E8%8A%B1%E7%99%BE%E4%B8%87%E4%B8%8A%E5%A4%A7%E5%AD%A6%E4%B8%8A%E4%BA%861%E5%B9%B4%E5%8F%91%E7%8E%B0%E6%B2%A1%E5%85%A5%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
