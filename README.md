@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 20:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 20:39:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [周星驰晒照悼念李玟](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%98%9F%E9%A9%B0%E6%99%92%E7%85%A7%E6%82%BC%E5%BF%B5%E6%9D%8E%E7%8E%9F%23&t=31&band_rank=6&Refer=top)<br />
 7. [老人卖桑葚担心价格太贵主动降价](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%8D%96%E6%A1%91%E8%91%9A%E6%8B%85%E5%BF%83%E4%BB%B7%E6%A0%BC%E5%A4%AA%E8%B4%B5%E4%B8%BB%E5%8A%A8%E9%99%8D%E4%BB%B7%23&t=31&band_rank=7&Refer=top)<br />
 8. [周星驰看王宝强新电影说服了](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%98%9F%E9%A9%B0%E7%9C%8B%E7%8E%8B%E5%AE%9D%E5%BC%BA%E6%96%B0%E7%94%B5%E5%BD%B1%E8%AF%B4%E6%9C%8D%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [胡锡进 农民工退休待遇](https://s.weibo.com/weibo?q=%E8%83%A1%E9%94%A1%E8%BF%9B%20%E5%86%9C%E6%B0%91%E5%B7%A5%E9%80%80%E4%BC%91%E5%BE%85%E9%81%87&t=31&band_rank=9&Refer=top)<br />
+9. [美方称坚决反对中国对镓和锗出口管制](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%96%B9%E7%A7%B0%E5%9D%9A%E5%86%B3%E5%8F%8D%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%AF%B9%E9%95%93%E5%92%8C%E9%94%97%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -19,10 +19,10 @@
 3. [上海交大录取通知书里有「一滴水」，北科大的通知书「由钢制成」，哪些高校的录取通知书给你留下了深刻印象？](https://www.zhihu.com/question/610635358)<br />
 4. [为什么要实行薪酬保密？](https://www.zhihu.com/question/28079407)<br />
 5. [王宝强新片《八角笼中》上映，电影主角有哪些不为人知的幕后故事？](https://www.zhihu.com/theater/92559)<br />
-6. [上海交大医学博士当中学保健员，媒体称高学历就业下沉或成常态，为何该现象频频出现？对社会发展有哪些影响？](https://www.zhihu.com/question/610692768)<br />
-7. [三亚一海鲜店短斤缺两罚款 30 万，涉事商户被清退出场，将起到哪些警示作用？](https://www.zhihu.com/question/610555575)<br />
-8. [我国首个开源桌面操作系统「开放麒麟 1.0」发布，有哪些技术亮点？对我国国产操作系统有何意义？](https://www.zhihu.com/question/610513030)<br />
-9. [如何评价《原神》新角色「林尼」立绘的美术形象设计？](https://www.zhihu.com/question/610344138)<br />
+6. [三亚一海鲜店短斤缺两罚款 30 万，涉事商户被清退出场，将起到哪些警示作用？](https://www.zhihu.com/question/610555575)<br />
+7. [上海交大医学博士当中学保健员，媒体称高学历就业下沉或成常态，为何该现象频频出现？对社会发展有哪些影响？](https://www.zhihu.com/question/610692768)<br />
+8. [2023 年 6 月，31 省份新增新冠重症病例 1968 例、死亡 239 例，这一数据说明了什么？](https://www.zhihu.com/question/610625066)<br />
+9. [如何评价古天乐、郭富城、刘青云主演的动作犯罪电影《扫毒 3：人在天涯》？](https://www.zhihu.com/question/610485745)<br />
 
 > 百度  
 
@@ -34,7 +34,7 @@
 6. [专家警告2023年高温将创纪录](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E8%AD%A6%E5%91%8A2023%E5%B9%B4%E9%AB%98%E6%B8%A9%E5%B0%86%E5%88%9B%E7%BA%AA%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [特别节目：我们的CoCo李玟](https://www.baidu.com/s?wd=%E7%89%B9%E5%88%AB%E8%8A%82%E7%9B%AE%EF%BC%9A%E6%88%91%E4%BB%AC%E7%9A%84CoCo%E6%9D%8E%E7%8E%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [金星再回应捂胸](https://www.baidu.com/s?wd=%E9%87%91%E6%98%9F%E5%86%8D%E5%9B%9E%E5%BA%94%E6%8D%82%E8%83%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子偷走女友家80瓶飞天茅台](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%B7%E8%B5%B0%E5%A5%B3%E5%8F%8B%E5%AE%B680%E7%93%B6%E9%A3%9E%E5%A4%A9%E8%8C%85%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [迪士尼回应充电宝能借不能还](https://www.baidu.com/s?wd=%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%9B%9E%E5%BA%94%E5%85%85%E7%94%B5%E5%AE%9D%E8%83%BD%E5%80%9F%E4%B8%8D%E8%83%BD%E8%BF%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [专家警告2023年高温将创纪录](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E8%AD%A6%E5%91%8A2023%E5%B9%B4%E9%AB%98%E6%B8%A9%E5%B0%86%E5%88%9B%E7%BA%AA%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [特别节目：我们的CoCo李玟](https://www.baidu.com/s?wd=%E7%89%B9%E5%88%AB%E8%8A%82%E7%9B%AE%EF%BC%9A%E6%88%91%E4%BB%AC%E7%9A%84CoCo%E6%9D%8E%E7%8E%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [金星再回应捂胸](https://www.baidu.com/s?wd=%E9%87%91%E6%98%9F%E5%86%8D%E5%9B%9E%E5%BA%94%E6%8D%82%E8%83%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子偷走女友家80瓶飞天茅台](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%B7%E8%B5%B0%E5%A5%B3%E5%8F%8B%E5%AE%B680%E7%93%B6%E9%A3%9E%E5%A4%A9%E8%8C%85%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [迪士尼回应充电宝能借不能还](https://www.baidu.com/s?wd=%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%9B%9E%E5%BA%94%E5%85%85%E7%94%B5%E5%AE%9D%E8%83%BD%E5%80%9F%E4%B8%8D%E8%83%BD%E8%BF%98&sa=fyb_news&rsv_dl=fyb_news)<br />
