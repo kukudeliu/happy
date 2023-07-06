@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 21:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 21:39:02</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [金星再回应捂胸](https://www.baidu.com/s?wd=%E9%87%91%E6%98%9F%E5%86%8D%E5%9B%9E%E5%BA%94%E6%8D%82%E8%83%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [周星驰晒照悼念李玟](https://www.baidu.com/s?wd=%E5%91%A8%E6%98%9F%E9%A9%B0%E6%99%92%E7%85%A7%E6%82%BC%E5%BF%B5%E6%9D%8E%E7%8E%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [程青松喊话王宝强退还金扫帚](https://www.baidu.com/s?wd=%E7%A8%8B%E9%9D%92%E6%9D%BE%E5%96%8A%E8%AF%9D%E7%8E%8B%E5%AE%9D%E5%BC%BA%E9%80%80%E8%BF%98%E9%87%91%E6%89%AB%E5%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [20道题自测有没有抑郁风险](https://www.baidu.com/s?wd=20%E9%81%93%E9%A2%98%E8%87%AA%E6%B5%8B%E6%9C%89%E6%B2%A1%E6%9C%89%E6%8A%91%E9%83%81%E9%A3%8E%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [网约车司机20天碰瓷8次公交车被批捕](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A6%E8%BD%A6%E5%8F%B8%E6%9C%BA20%E5%A4%A9%E7%A2%B0%E7%93%B78%E6%AC%A1%E5%85%AC%E4%BA%A4%E8%BD%A6%E8%A2%AB%E6%89%B9%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [金星再回应捂胸](https://www.baidu.com/s?wd=%E9%87%91%E6%98%9F%E5%86%8D%E5%9B%9E%E5%BA%94%E6%8D%82%E8%83%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [周星驰晒照悼念李玟](https://www.baidu.com/s?wd=%E5%91%A8%E6%98%9F%E9%A9%B0%E6%99%92%E7%85%A7%E6%82%BC%E5%BF%B5%E6%9D%8E%E7%8E%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [程青松喊话王宝强退还金扫帚](https://www.baidu.com/s?wd=%E7%A8%8B%E9%9D%92%E6%9D%BE%E5%96%8A%E8%AF%9D%E7%8E%8B%E5%AE%9D%E5%BC%BA%E9%80%80%E8%BF%98%E9%87%91%E6%89%AB%E5%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [20道题自测有没有抑郁风险](https://www.baidu.com/s?wd=20%E9%81%93%E9%A2%98%E8%87%AA%E6%B5%8B%E6%9C%89%E6%B2%A1%E6%9C%89%E6%8A%91%E9%83%81%E9%A3%8E%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [网约车司机20天碰瓷8次公交车被批捕](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A6%E8%BD%A6%E5%8F%B8%E6%9C%BA20%E5%A4%A9%E7%A2%B0%E7%93%B78%E6%AC%A1%E5%85%AC%E4%BA%A4%E8%BD%A6%E8%A2%AB%E6%89%B9%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
