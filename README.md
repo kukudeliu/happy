@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 19:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 19:51:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [推特限流之际，Meta 推出 Threads，两小时涌入 200 万用户，体验如何？小扎能偷家成功吗？](https://www.zhihu.com/question/610631428)<br />
 7. [上海交大医学博士当中学保健员，媒体称高学历就业下沉或成常态，为何该现象频频出现？对社会发展有哪些影响？](https://www.zhihu.com/question/610692768)<br />
 8. [为什么要实行薪酬保密？](https://www.zhihu.com/question/28079407)<br />
-9. [继美国国务卿布林肯访华探路之后，耶伦此番登场能给两国以及世界带来什么？中美携手合作具有怎样的意义？](https://www.zhihu.com/question/610659233)<br />
+9. [如何评价《原神》新角色「林尼」立绘的美术形象设计？](https://www.zhihu.com/question/610344138)<br />
 
 > 百度  
 
