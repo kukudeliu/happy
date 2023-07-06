@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 19:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 19:54:01</h4></div>
 
 > 微博  
 
@@ -20,8 +20,8 @@
 4. [每天工作都在摸鱼，没有给公司带来多少实际效益，感觉很心虚怎么办？](https://www.zhihu.com/question/610282403)<br />
 5. [上海交大录取通知书里有「一滴水」，北科大的通知书「由钢制成」，哪些高校的录取通知书给你留下了深刻印象？](https://www.zhihu.com/question/610635358)<br />
 6. [推特限流之际，Meta 推出 Threads，两小时涌入 200 万用户，体验如何？小扎能偷家成功吗？](https://www.zhihu.com/question/610631428)<br />
-7. [上海交大医学博士当中学保健员，媒体称高学历就业下沉或成常态，为何该现象频频出现？对社会发展有哪些影响？](https://www.zhihu.com/question/610692768)<br />
-8. [为什么要实行薪酬保密？](https://www.zhihu.com/question/28079407)<br />
+7. [为什么要实行薪酬保密？](https://www.zhihu.com/question/28079407)<br />
+8. [上海交大医学博士当中学保健员，媒体称高学历就业下沉或成常态，为何该现象频频出现？对社会发展有哪些影响？](https://www.zhihu.com/question/610692768)<br />
 9. [如何评价《原神》新角色「林尼」立绘的美术形象设计？](https://www.zhihu.com/question/610344138)<br />
 
 > 百度  
