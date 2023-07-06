@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 09:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 09:57:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [2年被家暴16次女子希望判丈夫死刑](https://s.weibo.com/weibo?q=%232%E5%B9%B4%E8%A2%AB%E5%AE%B6%E6%9A%B416%E6%AC%A1%E5%A5%B3%E5%AD%90%E5%B8%8C%E6%9C%9B%E5%88%A4%E4%B8%88%E5%A4%AB%E6%AD%BB%E5%88%91%23&t=31&band_rank=6&Refer=top)<br />
 7. [姐姐忆述李玟生死一刻](https://s.weibo.com/weibo?q=%23%E5%A7%90%E5%A7%90%E5%BF%86%E8%BF%B0%E6%9D%8E%E7%8E%9F%E7%94%9F%E6%AD%BB%E4%B8%80%E5%88%BB%23&t=31&band_rank=7&Refer=top)<br />
 8. [抢教授话筒的同学被哈工大录取](https://s.weibo.com/weibo?q=%E6%8A%A2%E6%95%99%E6%8E%88%E8%AF%9D%E7%AD%92%E7%9A%84%E5%90%8C%E5%AD%A6%E8%A2%AB%E5%93%88%E5%B7%A5%E5%A4%A7%E5%BD%95%E5%8F%96&t=31&band_rank=8&Refer=top)<br />
-9. [中国驻乌克兰大使馆郑重提醒](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A9%BB%E4%B9%8C%E5%85%8B%E5%85%B0%E5%A4%A7%E4%BD%BF%E9%A6%86%E9%83%91%E9%87%8D%E6%8F%90%E9%86%92%23&t=31&band_rank=9&Refer=top)<br />
+9. [董宇辉说出了农村孩子的心声](https://s.weibo.com/weibo?q=%E8%91%A3%E5%AE%87%E8%BE%89%E8%AF%B4%E5%87%BA%E4%BA%86%E5%86%9C%E6%9D%91%E5%AD%A9%E5%AD%90%E7%9A%84%E5%BF%83%E5%A3%B0&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
