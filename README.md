@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 20:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 21:00:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [李玟老公发讣文：送别挚爱 万分悲痛](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E8%80%81%E5%85%AC%E5%8F%91%E8%AE%A3%E6%96%87%EF%BC%9A%E9%80%81%E5%88%AB%E6%8C%9A%E7%88%B1+%E4%B8%87%E5%88%86%E6%82%B2%E7%97%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [金星再回应捂胸](https://www.baidu.com/s?wd=%E9%87%91%E6%98%9F%E5%86%8D%E5%9B%9E%E5%BA%94%E6%8D%82%E8%83%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [特别节目：我们的CoCo李玟](https://www.baidu.com/s?wd=%E7%89%B9%E5%88%AB%E8%8A%82%E7%9B%AE%EF%BC%9A%E6%88%91%E4%BB%AC%E7%9A%84CoCo%E6%9D%8E%E7%8E%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子持剪刀刺人致1死1伤](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8C%81%E5%89%AA%E5%88%80%E5%88%BA%E4%BA%BA%E8%87%B41%E6%AD%BB1%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [程青松喊话王宝强退还金扫帚](https://www.baidu.com/s?wd=%E7%A8%8B%E9%9D%92%E6%9D%BE%E5%96%8A%E8%AF%9D%E7%8E%8B%E5%AE%9D%E5%BC%BA%E9%80%80%E8%BF%98%E9%87%91%E6%89%AB%E5%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [曝韩国低出生率致使儿科医生短缺](https://www.baidu.com/s?wd=%E6%9B%9D%E9%9F%A9%E5%9B%BD%E4%BD%8E%E5%87%BA%E7%94%9F%E7%8E%87%E8%87%B4%E4%BD%BF%E5%84%BF%E7%A7%91%E5%8C%BB%E7%94%9F%E7%9F%AD%E7%BC%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [2024年或成为最热一年](https://www.baidu.com/s?wd=2024%E5%B9%B4%E6%88%96%E6%88%90%E4%B8%BA%E6%9C%80%E7%83%AD%E4%B8%80%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [李玟老公发讣文：送别挚爱 万分悲痛](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E8%80%81%E5%85%AC%E5%8F%91%E8%AE%A3%E6%96%87%EF%BC%9A%E9%80%81%E5%88%AB%E6%8C%9A%E7%88%B1+%E4%B8%87%E5%88%86%E6%82%B2%E7%97%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [金星再回应捂胸](https://www.baidu.com/s?wd=%E9%87%91%E6%98%9F%E5%86%8D%E5%9B%9E%E5%BA%94%E6%8D%82%E8%83%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [特别节目：我们的CoCo李玟](https://www.baidu.com/s?wd=%E7%89%B9%E5%88%AB%E8%8A%82%E7%9B%AE%EF%BC%9A%E6%88%91%E4%BB%AC%E7%9A%84CoCo%E6%9D%8E%E7%8E%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子持剪刀刺人致1死1伤](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8C%81%E5%89%AA%E5%88%80%E5%88%BA%E4%BA%BA%E8%87%B41%E6%AD%BB1%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [程青松喊话王宝强退还金扫帚](https://www.baidu.com/s?wd=%E7%A8%8B%E9%9D%92%E6%9D%BE%E5%96%8A%E8%AF%9D%E7%8E%8B%E5%AE%9D%E5%BC%BA%E9%80%80%E8%BF%98%E9%87%91%E6%89%AB%E5%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [曝韩国低出生率致使儿科医生短缺](https://www.baidu.com/s?wd=%E6%9B%9D%E9%9F%A9%E5%9B%BD%E4%BD%8E%E5%87%BA%E7%94%9F%E7%8E%87%E8%87%B4%E4%BD%BF%E5%84%BF%E7%A7%91%E5%8C%BB%E7%94%9F%E7%9F%AD%E7%BC%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [2024年或成为最热一年](https://www.baidu.com/s?wd=2024%E5%B9%B4%E6%88%96%E6%88%90%E4%B8%BA%E6%9C%80%E7%83%AD%E4%B8%80%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
