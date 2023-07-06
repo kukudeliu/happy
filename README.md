@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 13:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 13:05:01</h4></div>
 
 > 微博  
 
@@ -8,7 +8,7 @@
 4. [李玟遗产都留给妈妈](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E9%81%97%E4%BA%A7%E9%83%BD%E7%95%99%E7%BB%99%E5%A6%88%E5%A6%88%23&t=31&band_rank=4&Refer=top)<br />
 5. [肖战再提陈情令](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%86%8D%E6%8F%90%E9%99%88%E6%83%85%E4%BB%A4%23&t=31&band_rank=5&Refer=top)<br />
 6. [Lisa无刘海vs蒋雯丽](https://s.weibo.com/weibo?q=%23Lisa%E6%97%A0%E5%88%98%E6%B5%B7vs%E8%92%8B%E9%9B%AF%E4%B8%BD%23&t=31&band_rank=6&Refer=top)<br />
-7. [那英 还没等到我们俩合作你就走了](https://s.weibo.com/weibo?q=%E9%82%A3%E8%8B%B1%20%E8%BF%98%E6%B2%A1%E7%AD%89%E5%88%B0%E6%88%91%E4%BB%AC%E4%BF%A9%E5%90%88%E4%BD%9C%E4%BD%A0%E5%B0%B1%E8%B5%B0%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
+7. [成龙 CoCo是天生的明星](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%BE%99%20CoCo%E6%98%AF%E5%A4%A9%E7%94%9F%E7%9A%84%E6%98%8E%E6%98%9F%23&t=31&band_rank=7&Refer=top)<br />
 8. [烫了个爆炸头把小猫耳朵吓没了](https://s.weibo.com/weibo?q=%E7%83%AB%E4%BA%86%E4%B8%AA%E7%88%86%E7%82%B8%E5%A4%B4%E6%8A%8A%E5%B0%8F%E7%8C%AB%E8%80%B3%E6%9C%B5%E5%90%93%E6%B2%A1%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
 9. [突发火灾妈妈将婴儿从4楼扔下楼求生](https://s.weibo.com/weibo?q=%23%E7%AA%81%E5%8F%91%E7%81%AB%E7%81%BE%E5%A6%88%E5%A6%88%E5%B0%86%E5%A9%B4%E5%84%BF%E4%BB%8E4%E6%A5%BC%E6%89%94%E4%B8%8B%E6%A5%BC%E6%B1%82%E7%94%9F%23&t=31&band_rank=9&Refer=top)<br />
 
