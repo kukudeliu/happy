@@ -1,15 +1,15 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 12:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 12:32:01</h4></div>
 
 > 微博  
 
 1. [boss直聘](https://s.weibo.com/weibo?q=boss%E7%9B%B4%E8%81%98&t=31&band_rank=1&Refer=top)<br />
-2. [教育部回应山河大学](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E5%B1%B1%E6%B2%B3%E5%A4%A7%E5%AD%A6%23&t=31&band_rank=2&Refer=top)<br />
+2. [永劫无间转为免费游戏](https://s.weibo.com/weibo?q=%23%E6%B0%B8%E5%8A%AB%E6%97%A0%E9%97%B4%E8%BD%AC%E4%B8%BA%E5%85%8D%E8%B4%B9%E6%B8%B8%E6%88%8F%23&t=31&band_rank=2&Refer=top)<br />
 3. [路途遥远且听完这最后一课](https://s.weibo.com/weibo?q=%23%E8%B7%AF%E9%80%94%E9%81%A5%E8%BF%9C%E4%B8%94%E5%90%AC%E5%AE%8C%E8%BF%99%E6%9C%80%E5%90%8E%E4%B8%80%E8%AF%BE%23&t=31&band_rank=3&Refer=top)<br />
 4. [李玟遗产都留给妈妈](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E9%81%97%E4%BA%A7%E9%83%BD%E7%95%99%E7%BB%99%E5%A6%88%E5%A6%88%23&t=31&band_rank=4&Refer=top)<br />
 5. [肖战再提陈情令](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%86%8D%E6%8F%90%E9%99%88%E6%83%85%E4%BB%A4%23&t=31&band_rank=5&Refer=top)<br />
-6. [播一部爆一部的演员](https://s.weibo.com/weibo?q=%23%E6%92%AD%E4%B8%80%E9%83%A8%E7%88%86%E4%B8%80%E9%83%A8%E7%9A%84%E6%BC%94%E5%91%98%23&t=31&band_rank=6&Refer=top)<br />
+6. [教育部回应山河大学](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E5%B1%B1%E6%B2%B3%E5%A4%A7%E5%AD%A6%23&t=31&band_rank=6&Refer=top)<br />
 7. [那英 还没等到我们俩合作你就走了](https://s.weibo.com/weibo?q=%E9%82%A3%E8%8B%B1%20%E8%BF%98%E6%B2%A1%E7%AD%89%E5%88%B0%E6%88%91%E4%BB%AC%E4%BF%A9%E5%90%88%E4%BD%9C%E4%BD%A0%E5%B0%B1%E8%B5%B0%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
-8. [永劫无间转为免费游戏](https://s.weibo.com/weibo?q=%23%E6%B0%B8%E5%8A%AB%E6%97%A0%E9%97%B4%E8%BD%AC%E4%B8%BA%E5%85%8D%E8%B4%B9%E6%B8%B8%E6%88%8F%23&t=31&band_rank=8&Refer=top)<br />
+8. [播一部爆一部的演员](https://s.weibo.com/weibo?q=%23%E6%92%AD%E4%B8%80%E9%83%A8%E7%88%86%E4%B8%80%E9%83%A8%E7%9A%84%E6%BC%94%E5%91%98%23&t=31&band_rank=8&Refer=top)<br />
 9. [烫了个爆炸头把小猫耳朵吓没了](https://s.weibo.com/weibo?q=%E7%83%AB%E4%BA%86%E4%B8%AA%E7%88%86%E7%82%B8%E5%A4%B4%E6%8A%8A%E5%B0%8F%E7%8C%AB%E8%80%B3%E6%9C%B5%E5%90%93%E6%B2%A1%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -21,8 +21,8 @@
 5. [为什么李玟明明看起来那么开朗自信，却罹患抑郁症？](https://www.zhihu.com/question/610557808)<br />
 6. [乌军改变反攻重点， 称「首要任务是给俄军造成最大程度伤害」，如何看待乌克兰国家安全部长发表的观点？](https://www.zhihu.com/question/610500601)<br />
 7. [代遛狗城市热度图发布，超十万人在闲鱼发布「可代遛狗」贴，武汉市内「一狗难求」，代遛狗需求为何如此火爆？](https://www.zhihu.com/question/610497990)<br />
-8. [《英雄联盟》里为什么要移除蓝药呢？](https://www.zhihu.com/question/520016742)<br />
-9. [湖北一基层法庭宣传「调撤率 100%，无一判决」，法律学者认为「不宜过度提倡」，这反映出什么社会现象？](https://www.zhihu.com/question/610470335)<br />
+8. [湖北一基层法庭宣传「调撤率 100%，无一判决」，法律学者认为「不宜过度提倡」，这反映出什么社会现象？](https://www.zhihu.com/question/610470335)<br />
+9. [「深夜拉群、积分打卡、朋友圈转发」打工人深受其害，中央整治形式主义专项会议召开，会带来改变吗？](https://www.zhihu.com/question/610480659)<br />
 
 > 百度  
 
