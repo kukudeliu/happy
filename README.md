@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 09:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 09:47:02</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [有没有一种食材没做成美食前不敢上手碰，做成美食之后却又很好吃？](https://www.zhihu.com/question/610062999)<br />
 6. [如何看待首发骁龙 8 Gen 2 高频版的红魔 8S Pro ？](https://www.zhihu.com/question/609348234)<br />
 7. [此前对中国半导体出手的荷兰敦促欧盟回应中方对镓、锗实施出口管制，荷兰在急什么？欧盟将如何应对？](https://www.zhihu.com/question/610538153)<br />
-8. [夏天可不可以用面霜？有什么适合夏天用的面霜？](https://www.zhihu.com/question/392595323)<br />
-9. [如何评价王宝强执导的电影《八角笼中》？](https://www.zhihu.com/question/603748979)<br />
+8. []()<br />
+9. [夏天可不可以用面霜？有什么适合夏天用的面霜？](https://www.zhihu.com/question/392595323)<br />
 
 > 百度  
 
