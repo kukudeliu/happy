@@ -1,14 +1,14 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 08:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 08:41:01</h4></div>
 
 > 微博  
 
 1. [上海交通大学录取通知书里有一滴水](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E9%87%8C%E6%9C%89%E4%B8%80%E6%BB%B4%E6%B0%B4%23&t=31&band_rank=1&Refer=top)<br />
 2. [乌克兰](https://s.weibo.com/weibo?q=%E4%B9%8C%E5%85%8B%E5%85%B0&t=31&band_rank=2&Refer=top)<br />
 3. [世界最早印花工具做出的汉服有多美](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9C%80%E6%97%A9%E5%8D%B0%E8%8A%B1%E5%B7%A5%E5%85%B7%E5%81%9A%E5%87%BA%E7%9A%84%E6%B1%89%E6%9C%8D%E6%9C%89%E5%A4%9A%E7%BE%8E%23&t=31&band_rank=3&Refer=top)<br />
-4. [李玟去世](https://s.weibo.com/weibo?q=%E6%9D%8E%E7%8E%9F%E5%8E%BB%E4%B8%96&t=31&band_rank=4&Refer=top)<br />
+4. [姐姐忆述李玟生死一刻](https://s.weibo.com/weibo?q=%23%E5%A7%90%E5%A7%90%E5%BF%86%E8%BF%B0%E6%9D%8E%E7%8E%9F%E7%94%9F%E6%AD%BB%E4%B8%80%E5%88%BB%23&t=31&band_rank=4&Refer=top)<br />
 5. [2年被家暴16次女子希望判丈夫死刑](https://s.weibo.com/weibo?q=%232%E5%B9%B4%E8%A2%AB%E5%AE%B6%E6%9A%B416%E6%AC%A1%E5%A5%B3%E5%AD%90%E5%B8%8C%E6%9C%9B%E5%88%A4%E4%B8%88%E5%A4%AB%E6%AD%BB%E5%88%91%23&t=31&band_rank=5&Refer=top)<br />
 6. [i人和e人的区别不在于是否社恐](https://s.weibo.com/weibo?q=i%E4%BA%BA%E5%92%8Ce%E4%BA%BA%E7%9A%84%E5%8C%BA%E5%88%AB%E4%B8%8D%E5%9C%A8%E4%BA%8E%E6%98%AF%E5%90%A6%E7%A4%BE%E6%81%90&t=31&band_rank=6&Refer=top)<br />
-7. [众星悼念李玟](https://s.weibo.com/weibo?q=%23%E4%BC%97%E6%98%9F%E6%82%BC%E5%BF%B5%E6%9D%8E%E7%8E%9F%23&t=31&band_rank=7&Refer=top)<br />
+7. [李玟去世](https://s.weibo.com/weibo?q=%E6%9D%8E%E7%8E%9F%E5%8E%BB%E4%B8%96&t=31&band_rank=7&Refer=top)<br />
 8. [陈紫函戴向宇玉骨遥片场撒狗粮](https://s.weibo.com/weibo?q=%23%E9%99%88%E7%B4%AB%E5%87%BD%E6%88%B4%E5%90%91%E5%AE%87%E7%8E%89%E9%AA%A8%E9%81%A5%E7%89%87%E5%9C%BA%E6%92%92%E7%8B%97%E7%B2%AE%23&t=31&band_rank=8&Refer=top)<br />
 9. [大学生与蟑螂的区别是什么](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%B8%8E%E8%9F%91%E8%9E%82%E7%9A%84%E5%8C%BA%E5%88%AB%E6%98%AF%E4%BB%80%E4%B9%88&t=31&band_rank=9&Refer=top)<br />
 
