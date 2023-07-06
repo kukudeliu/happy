@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 12:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 12:35:01</h4></div>
 
 > 微博  
 
@@ -9,20 +9,20 @@
 5. [肖战再提陈情令](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%86%8D%E6%8F%90%E9%99%88%E6%83%85%E4%BB%A4%23&t=31&band_rank=5&Refer=top)<br />
 6. [播一部爆一部的演员](https://s.weibo.com/weibo?q=%23%E6%92%AD%E4%B8%80%E9%83%A8%E7%88%86%E4%B8%80%E9%83%A8%E7%9A%84%E6%BC%94%E5%91%98%23&t=31&band_rank=6&Refer=top)<br />
 7. [那英 还没等到我们俩合作你就走了](https://s.weibo.com/weibo?q=%E9%82%A3%E8%8B%B1%20%E8%BF%98%E6%B2%A1%E7%AD%89%E5%88%B0%E6%88%91%E4%BB%AC%E4%BF%A9%E5%90%88%E4%BD%9C%E4%BD%A0%E5%B0%B1%E8%B5%B0%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
-8. [教育部回应山河大学](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E5%B1%B1%E6%B2%B3%E5%A4%A7%E5%AD%A6%23&t=31&band_rank=8&Refer=top)<br />
-9. [烫了个爆炸头把小猫耳朵吓没了](https://s.weibo.com/weibo?q=%E7%83%AB%E4%BA%86%E4%B8%AA%E7%88%86%E7%82%B8%E5%A4%B4%E6%8A%8A%E5%B0%8F%E7%8C%AB%E8%80%B3%E6%9C%B5%E5%90%93%E6%B2%A1%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+8. [烫了个爆炸头把小猫耳朵吓没了](https://s.weibo.com/weibo?q=%E7%83%AB%E4%BA%86%E4%B8%AA%E7%88%86%E7%82%B8%E5%A4%B4%E6%8A%8A%E5%B0%8F%E7%8C%AB%E8%80%B3%E6%9C%B5%E5%90%93%E6%B2%A1%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
+9. [教育部回应山河大学](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E5%B1%B1%E6%B2%B3%E5%A4%A7%E5%AD%A6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [丰田宣布固态电池技术获重大突破「10 分钟充满跑 1200 公里，体积重量成本将减半」，影响几何？](https://www.zhihu.com/question/610463631)<br />
 2. [大量店铺转让，小饼「内卷」带来供应过剩，淄博烧烤「凉」了吗？为什么会出现这种现象？](https://www.zhihu.com/question/610461393)<br />
 3. [美国总统参选人表示「中国周边有 313 个美军基地，其他国家会觉得谁对全球安全威胁更大」，如何评价？](https://www.zhihu.com/question/610542360)<br />
-4. [67 岁环卫工穿厚重制服在高温下工作，不穿罚款 50 元，城管局回应：长袖能够起防晒作用，对此你怎么看？](https://www.zhihu.com/question/610461726)<br />
-5. [为什么李玟明明看起来那么开朗自信，却罹患抑郁症？](https://www.zhihu.com/question/610557808)<br />
-6. [乌军改变反攻重点， 称「首要任务是给俄军造成最大程度伤害」，如何看待乌克兰国家安全部长发表的观点？](https://www.zhihu.com/question/610500601)<br />
-7. [代遛狗城市热度图发布，超十万人在闲鱼发布「可代遛狗」贴，武汉市内「一狗难求」，代遛狗需求为何如此火爆？](https://www.zhihu.com/question/610497990)<br />
-8. [湖北一基层法庭宣传「调撤率 100%，无一判决」，法律学者认为「不宜过度提倡」，这反映出什么社会现象？](https://www.zhihu.com/question/610470335)<br />
-9. [「深夜拉群、积分打卡、朋友圈转发」打工人深受其害，中央整治形式主义专项会议召开，会带来改变吗？](https://www.zhihu.com/question/610480659)<br />
+4. [为什么李玟明明看起来那么开朗自信，却罹患抑郁症？](https://www.zhihu.com/question/610557808)<br />
+5. [代遛狗城市热度图发布，超十万人在闲鱼发布「可代遛狗」贴，武汉市内「一狗难求」，代遛狗需求为何如此火爆？](https://www.zhihu.com/question/610497990)<br />
+6. [湖北一基层法庭宣传「调撤率 100%，无一判决」，法律学者认为「不宜过度提倡」，这反映出什么社会现象？](https://www.zhihu.com/question/610470335)<br />
+7. [「深夜拉群、积分打卡、朋友圈转发」打工人深受其害，中央整治形式主义专项会议召开，会带来改变吗？](https://www.zhihu.com/question/610480659)<br />
+8. []()<br />
+9. [2023 世界人工智能大会将展示 30 多款大模型，这对人工智能行业发展有哪些意义？](https://www.zhihu.com/question/609545571)<br />
 
 > 百度  
 
