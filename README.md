@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 12:17:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 12:18:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [女童被继母虐待致残 其父称绝不和解](https://www.baidu.com/s?wd=%E5%A5%B3%E7%AB%A5%E8%A2%AB%E7%BB%A7%E6%AF%8D%E8%99%90%E5%BE%85%E8%87%B4%E6%AE%8B+%E5%85%B6%E7%88%B6%E7%A7%B0%E7%BB%9D%E4%B8%8D%E5%92%8C%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [#中国好声音悼念李玟引争议#](https://www.baidu.com/s?wd=%23%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E6%82%BC%E5%BF%B5%E6%9D%8E%E7%8E%9F%E5%BC%95%E4%BA%89%E8%AE%AE%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [好友否认麦当娜脑死亡](https://www.baidu.com/s?wd=%E5%A5%BD%E5%8F%8B%E5%90%A6%E8%AE%A4%E9%BA%A6%E5%BD%93%E5%A8%9C%E8%84%91%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [老师办白事家长号召出15辆车](https://www.baidu.com/s?wd=%E8%80%81%E5%B8%88%E5%8A%9E%E7%99%BD%E4%BA%8B%E5%AE%B6%E9%95%BF%E5%8F%B7%E5%8F%AC%E5%87%BA15%E8%BE%86%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [2年被家暴16次女子希望判丈夫死刑](https://www.baidu.com/s?wd=2%E5%B9%B4%E8%A2%AB%E5%AE%B6%E6%9A%B416%E6%AC%A1%E5%A5%B3%E5%AD%90%E5%B8%8C%E6%9C%9B%E5%88%A4%E4%B8%88%E5%A4%AB%E6%AD%BB%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [女童被继母虐待致残 其父称绝不和解](https://www.baidu.com/s?wd=%E5%A5%B3%E7%AB%A5%E8%A2%AB%E7%BB%A7%E6%AF%8D%E8%99%90%E5%BE%85%E8%87%B4%E6%AE%8B+%E5%85%B6%E7%88%B6%E7%A7%B0%E7%BB%9D%E4%B8%8D%E5%92%8C%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [#中国好声音悼念李玟引争议#](https://www.baidu.com/s?wd=%23%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E6%82%BC%E5%BF%B5%E6%9D%8E%E7%8E%9F%E5%BC%95%E4%BA%89%E8%AE%AE%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [好友否认麦当娜脑死亡](https://www.baidu.com/s?wd=%E5%A5%BD%E5%8F%8B%E5%90%A6%E8%AE%A4%E9%BA%A6%E5%BD%93%E5%A8%9C%E8%84%91%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [老师办白事家长号召出15辆车](https://www.baidu.com/s?wd=%E8%80%81%E5%B8%88%E5%8A%9E%E7%99%BD%E4%BA%8B%E5%AE%B6%E9%95%BF%E5%8F%B7%E5%8F%AC%E5%87%BA15%E8%BE%86%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [2年被家暴16次女子希望判丈夫死刑](https://www.baidu.com/s?wd=2%E5%B9%B4%E8%A2%AB%E5%AE%B6%E6%9A%B416%E6%AC%A1%E5%A5%B3%E5%AD%90%E5%B8%8C%E6%9C%9B%E5%88%A4%E4%B8%88%E5%A4%AB%E6%AD%BB%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
