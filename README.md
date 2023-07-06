@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 09:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 09:23:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [如何看待首发骁龙 8 Gen 2 高频版的红魔 8S Pro ？](https://www.zhihu.com/question/609348234)<br />
 7. [此前对中国半导体出手的荷兰敦促欧盟回应中方对镓、锗实施出口管制，荷兰在急什么？欧盟将如何应对？](https://www.zhihu.com/question/610538153)<br />
 8. [夏天可不可以用面霜？有什么适合夏天用的面霜？](https://www.zhihu.com/question/392595323)<br />
-9. [你敢穿 30 元一件的衣服去上班吗？](https://www.zhihu.com/question/606509967)<br />
+9. [如何评价王宝强执导的电影《八角笼中》？](https://www.zhihu.com/question/603748979)<br />
 
 > 百度  
 
