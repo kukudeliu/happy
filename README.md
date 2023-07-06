@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 12:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 12:22:02</h4></div>
 
 > 微博  
 
-1. [boss直聘](https://s.weibo.com/weibo?q=boss%E7%9B%B4%E8%81%98&t=31&band_rank=1&Refer=top)<br />
-2. [教育部回应山河大学](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E5%B1%B1%E6%B2%B3%E5%A4%A7%E5%AD%A6%23&t=31&band_rank=2&Refer=top)<br />
+1. [教育部回应山河大学](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E5%B1%B1%E6%B2%B3%E5%A4%A7%E5%AD%A6%23&t=31&band_rank=1&Refer=top)<br />
+2. [boss直聘](https://s.weibo.com/weibo?q=boss%E7%9B%B4%E8%81%98&t=31&band_rank=2&Refer=top)<br />
 3. [路途遥远且听完这最后一课](https://s.weibo.com/weibo?q=%23%E8%B7%AF%E9%80%94%E9%81%A5%E8%BF%9C%E4%B8%94%E5%90%AC%E5%AE%8C%E8%BF%99%E6%9C%80%E5%90%8E%E4%B8%80%E8%AF%BE%23&t=31&band_rank=3&Refer=top)<br />
 4. [李玟遗产都留给妈妈](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E9%81%97%E4%BA%A7%E9%83%BD%E7%95%99%E7%BB%99%E5%A6%88%E5%A6%88%23&t=31&band_rank=4&Refer=top)<br />
 5. [肖战再提陈情令](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%86%8D%E6%8F%90%E9%99%88%E6%83%85%E4%BB%A4%23&t=31&band_rank=5&Refer=top)<br />
@@ -22,7 +22,7 @@
 6. [乌军改变反攻重点， 称「首要任务是给俄军造成最大程度伤害」，如何看待乌克兰国家安全部长发表的观点？](https://www.zhihu.com/question/610500601)<br />
 7. [代遛狗城市热度图发布，超十万人在闲鱼发布「可代遛狗」贴，武汉市内「一狗难求」，代遛狗需求为何如此火爆？](https://www.zhihu.com/question/610497990)<br />
 8. [《英雄联盟》里为什么要移除蓝药呢？](https://www.zhihu.com/question/520016742)<br />
-9. []()<br />
+9. [湖北一基层法庭宣传「调撤率 100%，无一判决」，法律学者认为「不宜过度提倡」，这反映出什么社会现象？](https://www.zhihu.com/question/610470335)<br />
 
 > 百度  
 
@@ -33,8 +33,8 @@
 5. [李玟遗产全部留给母亲](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E9%81%97%E4%BA%A7%E5%85%A8%E9%83%A8%E7%95%99%E7%BB%99%E6%AF%8D%E4%BA%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女童被继母虐待致残 其父称绝不和解](https://www.baidu.com/s?wd=%E5%A5%B3%E7%AB%A5%E8%A2%AB%E7%BB%A7%E6%AF%8D%E8%99%90%E5%BE%85%E8%87%B4%E6%AE%8B+%E5%85%B6%E7%88%B6%E7%A7%B0%E7%BB%9D%E4%B8%8D%E5%92%8C%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [#中国好声音悼念李玟引争议#](https://www.baidu.com/s?wd=%23%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E6%82%BC%E5%BF%B5%E6%9D%8E%E7%8E%9F%E5%BC%95%E4%BA%89%E8%AE%AE%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [好友否认麦当娜脑死亡](https://www.baidu.com/s?wd=%E5%A5%BD%E5%8F%8B%E5%90%A6%E8%AE%A4%E9%BA%A6%E5%BD%93%E5%A8%9C%E8%84%91%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中产的面子藏在1999元的泡面桶里](https://www.baidu.com/s?wd=%E4%B8%AD%E4%BA%A7%E7%9A%84%E9%9D%A2%E5%AD%90%E8%97%8F%E5%9C%A81999%E5%85%83%E7%9A%84%E6%B3%A1%E9%9D%A2%E6%A1%B6%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [浙江一村资产500万以下是困难户](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E6%9D%91%E8%B5%84%E4%BA%A7500%E4%B8%87%E4%BB%A5%E4%B8%8B%E6%98%AF%E5%9B%B0%E9%9A%BE%E6%88%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [好友否认麦当娜脑死亡](https://www.baidu.com/s?wd=%E5%A5%BD%E5%8F%8B%E5%90%A6%E8%AE%A4%E9%BA%A6%E5%BD%93%E5%A8%9C%E8%84%91%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [李玟遗产全部留给母亲](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E9%81%97%E4%BA%A7%E5%85%A8%E9%83%A8%E7%95%99%E7%BB%99%E6%AF%8D%E4%BA%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女童被继母虐待致残 其父称绝不和解](https://www.baidu.com/s?wd=%E5%A5%B3%E7%AB%A5%E8%A2%AB%E7%BB%A7%E6%AF%8D%E8%99%90%E5%BE%85%E8%87%B4%E6%AE%8B+%E5%85%B6%E7%88%B6%E7%A7%B0%E7%BB%9D%E4%B8%8D%E5%92%8C%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [#中国好声音悼念李玟引争议#](https://www.baidu.com/s?wd=%23%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E6%82%BC%E5%BF%B5%E6%9D%8E%E7%8E%9F%E5%BC%95%E4%BA%89%E8%AE%AE%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [好友否认麦当娜脑死亡](https://www.baidu.com/s?wd=%E5%A5%BD%E5%8F%8B%E5%90%A6%E8%AE%A4%E9%BA%A6%E5%BD%93%E5%A8%9C%E8%84%91%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中产的面子藏在1999元的泡面桶里](https://www.baidu.com/s?wd=%E4%B8%AD%E4%BA%A7%E7%9A%84%E9%9D%A2%E5%AD%90%E8%97%8F%E5%9C%A81999%E5%85%83%E7%9A%84%E6%B3%A1%E9%9D%A2%E6%A1%B6%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [浙江一村资产500万以下是困难户](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E6%9D%91%E8%B5%84%E4%BA%A7500%E4%B8%87%E4%BB%A5%E4%B8%8B%E6%98%AF%E5%9B%B0%E9%9A%BE%E6%88%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [好友否认麦当娜脑死亡](https://www.baidu.com/s?wd=%E5%A5%BD%E5%8F%8B%E5%90%A6%E8%AE%A4%E9%BA%A6%E5%BD%93%E5%A8%9C%E8%84%91%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
