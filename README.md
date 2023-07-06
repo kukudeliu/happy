@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 08:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 08:15:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [偷拿同学20元男孩被妈妈带去派出所自首](https://s.weibo.com/weibo?q=%23%E5%81%B7%E6%8B%BF%E5%90%8C%E5%AD%A620%E5%85%83%E7%94%B7%E5%AD%A9%E8%A2%AB%E5%A6%88%E5%A6%88%E5%B8%A6%E5%8E%BB%E6%B4%BE%E5%87%BA%E6%89%80%E8%87%AA%E9%A6%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [众星悼念李玟](https://s.weibo.com/weibo?q=%23%E4%BC%97%E6%98%9F%E6%82%BC%E5%BF%B5%E6%9D%8E%E7%8E%9F%23&t=31&band_rank=7&Refer=top)<br />
 8. [暴雨半夜我接到警察电话](https://s.weibo.com/weibo?q=%23%E6%9A%B4%E9%9B%A8%E5%8D%8A%E5%A4%9C%E6%88%91%E6%8E%A5%E5%88%B0%E8%AD%A6%E5%AF%9F%E7%94%B5%E8%AF%9D%23&t=31&band_rank=8&Refer=top)<br />
-9. [女子患病主动试药离世后遗体全捐](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%82%A3%E7%97%85%E4%B8%BB%E5%8A%A8%E8%AF%95%E8%8D%AF%E7%A6%BB%E4%B8%96%E5%90%8E%E9%81%97%E4%BD%93%E5%85%A8%E6%8D%90%23&t=31&band_rank=9&Refer=top)<br />
+9. [光渊剧组工作人员发长文](https://s.weibo.com/weibo?q=%23%E5%85%89%E6%B8%8A%E5%89%A7%E7%BB%84%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%8F%91%E9%95%BF%E6%96%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -27,8 +27,8 @@
 > 百度  
 
 1. [坚守好这个魂和根](https://www.baidu.com/s?wd=%E5%9D%9A%E5%AE%88%E5%A5%BD%E8%BF%99%E4%B8%AA%E9%AD%82%E5%92%8C%E6%A0%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [淄博烧烤“凉”了？](https://www.baidu.com/s?wd=%E6%B7%84%E5%8D%9A%E7%83%A7%E7%83%A4%E2%80%9C%E5%87%89%E2%80%9D%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [中产的面子藏在1999元的泡面桶里](https://www.baidu.com/s?wd=%E4%B8%AD%E4%BA%A7%E7%9A%84%E9%9D%A2%E5%AD%90%E8%97%8F%E5%9C%A81999%E5%85%83%E7%9A%84%E6%B3%A1%E9%9D%A2%E6%A1%B6%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [中产的面子藏在1999元的泡面桶里](https://www.baidu.com/s?wd=%E4%B8%AD%E4%BA%A7%E7%9A%84%E9%9D%A2%E5%AD%90%E8%97%8F%E5%9C%A81999%E5%85%83%E7%9A%84%E6%B3%A1%E9%9D%A2%E6%A1%B6%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [明明看起来很乐观为什么会得抑郁症](https://www.baidu.com/s?wd=%E6%98%8E%E6%98%8E%E7%9C%8B%E8%B5%B7%E6%9D%A5%E5%BE%88%E4%B9%90%E8%A7%82%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E5%BE%97%E6%8A%91%E9%83%81%E7%97%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [就业形势总体稳定](https://www.baidu.com/s?wd=%E5%B0%B1%E4%B8%9A%E5%BD%A2%E5%8A%BF%E6%80%BB%E4%BD%93%E7%A8%B3%E5%AE%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [姐姐：李玟脑死亡后母亲仍不放弃](https://www.baidu.com/s?wd=%E5%A7%90%E5%A7%90%EF%BC%9A%E6%9D%8E%E7%8E%9F%E8%84%91%E6%AD%BB%E4%BA%A1%E5%90%8E%E6%AF%8D%E4%BA%B2%E4%BB%8D%E4%B8%8D%E6%94%BE%E5%BC%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [美总统参选人拿中国提醒美国](https://www.baidu.com/s?wd=%E7%BE%8E%E6%80%BB%E7%BB%9F%E5%8F%82%E9%80%89%E4%BA%BA%E6%8B%BF%E4%B8%AD%E5%9B%BD%E6%8F%90%E9%86%92%E7%BE%8E%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -39,8 +39,8 @@
 > 哔哩哔哩  
 
 1. [坚守好这个魂和根](https://www.baidu.com/s?wd=%E5%9D%9A%E5%AE%88%E5%A5%BD%E8%BF%99%E4%B8%AA%E9%AD%82%E5%92%8C%E6%A0%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [淄博烧烤“凉”了？](https://www.baidu.com/s?wd=%E6%B7%84%E5%8D%9A%E7%83%A7%E7%83%A4%E2%80%9C%E5%87%89%E2%80%9D%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [中产的面子藏在1999元的泡面桶里](https://www.baidu.com/s?wd=%E4%B8%AD%E4%BA%A7%E7%9A%84%E9%9D%A2%E5%AD%90%E8%97%8F%E5%9C%A81999%E5%85%83%E7%9A%84%E6%B3%A1%E9%9D%A2%E6%A1%B6%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [中产的面子藏在1999元的泡面桶里](https://www.baidu.com/s?wd=%E4%B8%AD%E4%BA%A7%E7%9A%84%E9%9D%A2%E5%AD%90%E8%97%8F%E5%9C%A81999%E5%85%83%E7%9A%84%E6%B3%A1%E9%9D%A2%E6%A1%B6%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [明明看起来很乐观为什么会得抑郁症](https://www.baidu.com/s?wd=%E6%98%8E%E6%98%8E%E7%9C%8B%E8%B5%B7%E6%9D%A5%E5%BE%88%E4%B9%90%E8%A7%82%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E5%BE%97%E6%8A%91%E9%83%81%E7%97%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [就业形势总体稳定](https://www.baidu.com/s?wd=%E5%B0%B1%E4%B8%9A%E5%BD%A2%E5%8A%BF%E6%80%BB%E4%BD%93%E7%A8%B3%E5%AE%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [姐姐：李玟脑死亡后母亲仍不放弃](https://www.baidu.com/s?wd=%E5%A7%90%E5%A7%90%EF%BC%9A%E6%9D%8E%E7%8E%9F%E8%84%91%E6%AD%BB%E4%BA%A1%E5%90%8E%E6%AF%8D%E4%BA%B2%E4%BB%8D%E4%B8%8D%E6%94%BE%E5%BC%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [美总统参选人拿中国提醒美国](https://www.baidu.com/s?wd=%E7%BE%8E%E6%80%BB%E7%BB%9F%E5%8F%82%E9%80%89%E4%BA%BA%E6%8B%BF%E4%B8%AD%E5%9B%BD%E6%8F%90%E9%86%92%E7%BE%8E%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
