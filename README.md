@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 13:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 13:39:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [肖战再提陈情令](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%86%8D%E6%8F%90%E9%99%88%E6%83%85%E4%BB%A4%23&t=31&band_rank=5&Refer=top)<br />
 6. [突发火灾妈妈将婴儿从4楼扔下楼求生](https://s.weibo.com/weibo?q=%23%E7%AA%81%E5%8F%91%E7%81%AB%E7%81%BE%E5%A6%88%E5%A6%88%E5%B0%86%E5%A9%B4%E5%84%BF%E4%BB%8E4%E6%A5%BC%E6%89%94%E4%B8%8B%E6%A5%BC%E6%B1%82%E7%94%9F%23&t=31&band_rank=6&Refer=top)<br />
 7. [成龙 CoCo是天生的明星](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%BE%99%20CoCo%E6%98%AF%E5%A4%A9%E7%94%9F%E7%9A%84%E6%98%8E%E6%98%9F%23&t=31&band_rank=7&Refer=top)<br />
-8. [Lisa无刘海vs蒋雯丽](https://s.weibo.com/weibo?q=%23Lisa%E6%97%A0%E5%88%98%E6%B5%B7vs%E8%92%8B%E9%9B%AF%E4%B8%BD%23&t=31&band_rank=8&Refer=top)<br />
-9. [boss直聘](https://s.weibo.com/weibo?q=boss%E7%9B%B4%E8%81%98&t=31&band_rank=9&Refer=top)<br />
+8. [boss直聘](https://s.weibo.com/weibo?q=boss%E7%9B%B4%E8%81%98&t=31&band_rank=8&Refer=top)<br />
+9. [烫了个爆炸头把小猫耳朵吓没了](https://s.weibo.com/weibo?q=%E7%83%AB%E4%BA%86%E4%B8%AA%E7%88%86%E7%82%B8%E5%A4%B4%E6%8A%8A%E5%B0%8F%E7%8C%AB%E8%80%B3%E6%9C%B5%E5%90%93%E6%B2%A1%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -34,7 +34,7 @@
 6. [浙江一村资产500万以下是困难户](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E6%9D%91%E8%B5%84%E4%BA%A7500%E4%B8%87%E4%BB%A5%E4%B8%8B%E6%98%AF%E5%9B%B0%E9%9A%BE%E6%88%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [#中国好声音悼念李玟引争议#](https://www.baidu.com/s?wd=%23%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E6%82%BC%E5%BF%B5%E6%9D%8E%E7%8E%9F%E5%BC%95%E4%BA%89%E8%AE%AE%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [那英:还没等到我们合作你就走了](https://www.baidu.com/s?wd=%E9%82%A3%E8%8B%B1%3A%E8%BF%98%E6%B2%A1%E7%AD%89%E5%88%B0%E6%88%91%E4%BB%AC%E5%90%88%E4%BD%9C%E4%BD%A0%E5%B0%B1%E8%B5%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [知情人称李玟与老公还未离婚](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0%E6%9D%8E%E7%8E%9F%E4%B8%8E%E8%80%81%E5%85%AC%E8%BF%98%E6%9C%AA%E7%A6%BB%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [张帅遭遇12连败将回国调整](https://www.baidu.com/s?wd=%E5%BC%A0%E5%B8%85%E9%81%AD%E9%81%8712%E8%BF%9E%E8%B4%A5%E5%B0%86%E5%9B%9E%E5%9B%BD%E8%B0%83%E6%95%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [浙江一村资产500万以下是困难户](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E6%9D%91%E8%B5%84%E4%BA%A7500%E4%B8%87%E4%BB%A5%E4%B8%8B%E6%98%AF%E5%9B%B0%E9%9A%BE%E6%88%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [#中国好声音悼念李玟引争议#](https://www.baidu.com/s?wd=%23%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E6%82%BC%E5%BF%B5%E6%9D%8E%E7%8E%9F%E5%BC%95%E4%BA%89%E8%AE%AE%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [那英:还没等到我们合作你就走了](https://www.baidu.com/s?wd=%E9%82%A3%E8%8B%B1%3A%E8%BF%98%E6%B2%A1%E7%AD%89%E5%88%B0%E6%88%91%E4%BB%AC%E5%90%88%E4%BD%9C%E4%BD%A0%E5%B0%B1%E8%B5%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [知情人称李玟与老公还未离婚](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0%E6%9D%8E%E7%8E%9F%E4%B8%8E%E8%80%81%E5%85%AC%E8%BF%98%E6%9C%AA%E7%A6%BB%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [张帅遭遇12连败将回国调整](https://www.baidu.com/s?wd=%E5%BC%A0%E5%B8%85%E9%81%AD%E9%81%8712%E8%BF%9E%E8%B4%A5%E5%B0%86%E5%9B%9E%E5%9B%BD%E8%B0%83%E6%95%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
