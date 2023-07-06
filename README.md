@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 19:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 20:00:02</h4></div>
 
 > 微博  
 
-1. [李玟老公发讣告](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E8%80%81%E5%85%AC%E5%8F%91%E8%AE%A3%E5%91%8A%23&t=31&band_rank=1&Refer=top)<br />
-2. [金星再回应捂胸](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%98%9F%E5%86%8D%E5%9B%9E%E5%BA%94%E6%8D%82%E8%83%B8%23&t=31&band_rank=2&Refer=top)<br />
+1. [金星再回应捂胸](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%98%9F%E5%86%8D%E5%9B%9E%E5%BA%94%E6%8D%82%E8%83%B8%23&t=31&band_rank=1&Refer=top)<br />
+2. [李玟老公发讣告](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E8%80%81%E5%85%AC%E5%8F%91%E8%AE%A3%E5%91%8A%23&t=31&band_rank=2&Refer=top)<br />
 3. [大学四年如何不虚度](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E5%9B%9B%E5%B9%B4%E5%A6%82%E4%BD%95%E4%B8%8D%E8%99%9A%E5%BA%A6%23&t=31&band_rank=3&Refer=top)<br />
 4. [王雪峰被开除党籍](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%9B%AA%E5%B3%B0%E8%A2%AB%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D%23&t=31&band_rank=4&Refer=top)<br />
 5. [老人卖桑葚担心价格太贵主动降价](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%8D%96%E6%A1%91%E8%91%9A%E6%8B%85%E5%BF%83%E4%BB%B7%E6%A0%BC%E5%A4%AA%E8%B4%B5%E4%B8%BB%E5%8A%A8%E9%99%8D%E4%BB%B7%23&t=31&band_rank=5&Refer=top)<br />
@@ -21,8 +21,8 @@
 5. [上海交大录取通知书里有「一滴水」，北科大的通知书「由钢制成」，哪些高校的录取通知书给你留下了深刻印象？](https://www.zhihu.com/question/610635358)<br />
 6. [为什么要实行薪酬保密？](https://www.zhihu.com/question/28079407)<br />
 7. [上海交大医学博士当中学保健员，媒体称高学历就业下沉或成常态，为何该现象频频出现？对社会发展有哪些影响？](https://www.zhihu.com/question/610692768)<br />
-8. [推特限流之际，Meta 推出 Threads，两小时涌入 200 万用户，体验如何？小扎能偷家成功吗？](https://www.zhihu.com/question/610631428)<br />
-9. [如何评价《原神》新角色「林尼」立绘的美术形象设计？](https://www.zhihu.com/question/610344138)<br />
+8. [如何评价《原神》新角色「林尼」立绘的美术形象设计？](https://www.zhihu.com/question/610344138)<br />
+9. [有什么关于立陶宛的冷知识？](https://www.zhihu.com/question/279726729)<br />
 
 > 百度  
 
