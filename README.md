@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 12:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 12:50:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [「深夜拉群、积分打卡、朋友圈转发」打工人深受其害，中央整治形式主义专项会议召开，会带来改变吗？](https://www.zhihu.com/question/610480659)<br />
 7. []()<br />
 8. [快到订婚的日子了，男朋友突然提分手，我该怎么办?](https://www.zhihu.com/question/610191146)<br />
-9. [2023 世界人工智能大会将展示 30 多款大模型，这对人工智能行业发展有哪些意义？](https://www.zhihu.com/question/609545571)<br />
+9. [游戏《永劫无间》宣布销量突破 2000 万、并即将转为免费游戏，有哪些值得关注的？](https://www.zhihu.com/question/610483242)<br />
 
 > 百度  
 
@@ -33,8 +33,8 @@
 5. [李玟遗产全部留给母亲](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E9%81%97%E4%BA%A7%E5%85%A8%E9%83%A8%E7%95%99%E7%BB%99%E6%AF%8D%E4%BA%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [这届年轻人盯上了电动轮椅](https://www.baidu.com/s?wd=%E8%BF%99%E5%B1%8A%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9B%AF%E4%B8%8A%E4%BA%86%E7%94%B5%E5%8A%A8%E8%BD%AE%E6%A4%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [#中国好声音悼念李玟引争议#](https://www.baidu.com/s?wd=%23%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E6%82%BC%E5%BF%B5%E6%9D%8E%E7%8E%9F%E5%BC%95%E4%BA%89%E8%AE%AE%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [教育部回应山河大学](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E5%B1%B1%E6%B2%B3%E5%A4%A7%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [“中国第一高楼”没找到买家](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E9%AB%98%E6%A5%BC%E2%80%9D%E6%B2%A1%E6%89%BE%E5%88%B0%E4%B9%B0%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [“中国第一高楼”没找到买家](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E9%AB%98%E6%A5%BC%E2%80%9D%E6%B2%A1%E6%89%BE%E5%88%B0%E4%B9%B0%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女童被继母虐待致残 其父称绝不和解](https://www.baidu.com/s?wd=%E5%A5%B3%E7%AB%A5%E8%A2%AB%E7%BB%A7%E6%AF%8D%E8%99%90%E5%BE%85%E8%87%B4%E6%AE%8B+%E5%85%B6%E7%88%B6%E7%A7%B0%E7%BB%9D%E4%B8%8D%E5%92%8C%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [李玟遗产全部留给母亲](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E9%81%97%E4%BA%A7%E5%85%A8%E9%83%A8%E7%95%99%E7%BB%99%E6%AF%8D%E4%BA%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [这届年轻人盯上了电动轮椅](https://www.baidu.com/s?wd=%E8%BF%99%E5%B1%8A%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9B%AF%E4%B8%8A%E4%BA%86%E7%94%B5%E5%8A%A8%E8%BD%AE%E6%A4%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [#中国好声音悼念李玟引争议#](https://www.baidu.com/s?wd=%23%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E6%82%BC%E5%BF%B5%E6%9D%8E%E7%8E%9F%E5%BC%95%E4%BA%89%E8%AE%AE%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [教育部回应山河大学](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E5%B1%B1%E6%B2%B3%E5%A4%A7%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [“中国第一高楼”没找到买家](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E9%AB%98%E6%A5%BC%E2%80%9D%E6%B2%A1%E6%89%BE%E5%88%B0%E4%B9%B0%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [“中国第一高楼”没找到买家](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E9%AB%98%E6%A5%BC%E2%80%9D%E6%B2%A1%E6%89%BE%E5%88%B0%E4%B9%B0%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女童被继母虐待致残 其父称绝不和解](https://www.baidu.com/s?wd=%E5%A5%B3%E7%AB%A5%E8%A2%AB%E7%BB%A7%E6%AF%8D%E8%99%90%E5%BE%85%E8%87%B4%E6%AE%8B+%E5%85%B6%E7%88%B6%E7%A7%B0%E7%BB%9D%E4%B8%8D%E5%92%8C%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
