@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 10:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 10:42:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [2年被家暴16次女子希望判丈夫死刑](https://s.weibo.com/weibo?q=%232%E5%B9%B4%E8%A2%AB%E5%AE%B6%E6%9A%B416%E6%AC%A1%E5%A5%B3%E5%AD%90%E5%B8%8C%E6%9C%9B%E5%88%A4%E4%B8%88%E5%A4%AB%E6%AD%BB%E5%88%91%23&t=31&band_rank=6&Refer=top)<br />
 7. [林俊杰 失去了你音乐宇宙将不再如昔](https://s.weibo.com/weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%20%E5%A4%B1%E5%8E%BB%E4%BA%86%E4%BD%A0%E9%9F%B3%E4%B9%90%E5%AE%87%E5%AE%99%E5%B0%86%E4%B8%8D%E5%86%8D%E5%A6%82%E6%98%94&t=31&band_rank=7&Refer=top)<br />
 8. [上海交通大学录取通知书里有一滴水](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E9%87%8C%E6%9C%89%E4%B8%80%E6%BB%B4%E6%B0%B4%23&t=31&band_rank=8&Refer=top)<br />
-9. [抢教授话筒的同学被哈工大录取](https://s.weibo.com/weibo?q=%E6%8A%A2%E6%95%99%E6%8E%88%E8%AF%9D%E7%AD%92%E7%9A%84%E5%90%8C%E5%AD%A6%E8%A2%AB%E5%93%88%E5%B7%A5%E5%A4%A7%E5%BD%95%E5%8F%96&t=31&band_rank=9&Refer=top)<br />
+9. [曾少年定档](https://s.weibo.com/weibo?q=%E6%9B%BE%E5%B0%91%E5%B9%B4%E5%AE%9A%E6%A1%A3&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -20,8 +20,8 @@
 4. [歌手李玟轻生去世，其姐姐发声称其患上抑郁症，她的哪些作品让你印象深刻？](https://www.zhihu.com/question/610553174)<br />
 5. [有没有一种食材没做成美食前不敢上手碰，做成美食之后却又很好吃？](https://www.zhihu.com/question/610062999)<br />
 6. [湖北一基层法庭宣传「调撤率 100%，无一判决」，法律学者认为「不宜过度提倡」，这反映出什么社会现象？](https://www.zhihu.com/question/610470335)<br />
-7. [如何看待首发骁龙 8 Gen 2 高频版的红魔 8S Pro ？](https://www.zhihu.com/question/609348234)<br />
-8. [67 岁环卫工穿厚重制服在高温下工作，不穿罚款 50 元，城管局回应：长袖能够起防晒作用，对此你怎么看？](https://www.zhihu.com/question/610461726)<br />
+7. [67 岁环卫工穿厚重制服在高温下工作，不穿罚款 50 元，城管局回应：长袖能够起防晒作用，对此你怎么看？](https://www.zhihu.com/question/610461726)<br />
+8. [如何看待首发骁龙 8 Gen 2 高频版的红魔 8S Pro ？](https://www.zhihu.com/question/609348234)<br />
 9. [乌军改变反攻重点， 称「首要任务是给俄军造成最大程度伤害」，如何看待乌克兰国家安全部长发表的观点？](https://www.zhihu.com/question/610500601)<br />
 
 > 百度  
