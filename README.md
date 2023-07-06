@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 10:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 10:58:01</h4></div>
 
 > 微博  
 
 1. [boss直聘](https://s.weibo.com/weibo?q=boss%E7%9B%B4%E8%81%98&t=31&band_rank=1&Refer=top)<br />
 2. [我挣到钱不体面的工作就变体面了](https://s.weibo.com/weibo?q=%23%E6%88%91%E6%8C%A3%E5%88%B0%E9%92%B1%E4%B8%8D%E4%BD%93%E9%9D%A2%E7%9A%84%E5%B7%A5%E4%BD%9C%E5%B0%B1%E5%8F%98%E4%BD%93%E9%9D%A2%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
-3. [世界最早印花工具做出的汉服有多美](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9C%80%E6%97%A9%E5%8D%B0%E8%8A%B1%E5%B7%A5%E5%85%B7%E5%81%9A%E5%87%BA%E7%9A%84%E6%B1%89%E6%9C%8D%E6%9C%89%E5%A4%9A%E7%BE%8E%23&t=31&band_rank=3&Refer=top)<br />
+3. [曾少年定档](https://s.weibo.com/weibo?q=%E6%9B%BE%E5%B0%91%E5%B9%B4%E5%AE%9A%E6%A1%A3&t=31&band_rank=3&Refer=top)<br />
 4. [姐姐忆述李玟生死一刻](https://s.weibo.com/weibo?q=%23%E5%A7%90%E5%A7%90%E5%BF%86%E8%BF%B0%E6%9D%8E%E7%8E%9F%E7%94%9F%E6%AD%BB%E4%B8%80%E5%88%BB%23&t=31&band_rank=4&Refer=top)<br />
 5. [2年被家暴16次女子希望判丈夫死刑](https://s.weibo.com/weibo?q=%232%E5%B9%B4%E8%A2%AB%E5%AE%B6%E6%9A%B416%E6%AC%A1%E5%A5%B3%E5%AD%90%E5%B8%8C%E6%9C%9B%E5%88%A4%E4%B8%88%E5%A4%AB%E6%AD%BB%E5%88%91%23&t=31&band_rank=5&Refer=top)<br />
-6. [曾少年定档](https://s.weibo.com/weibo?q=%E6%9B%BE%E5%B0%91%E5%B9%B4%E5%AE%9A%E6%A1%A3&t=31&band_rank=6&Refer=top)<br />
+6. [抢教授话筒的同学被哈工大录取](https://s.weibo.com/weibo?q=%E6%8A%A2%E6%95%99%E6%8E%88%E8%AF%9D%E7%AD%92%E7%9A%84%E5%90%8C%E5%AD%A6%E8%A2%AB%E5%93%88%E5%B7%A5%E5%A4%A7%E5%BD%95%E5%8F%96&t=31&band_rank=6&Refer=top)<br />
 7. [林俊杰 失去了你音乐宇宙将不再如昔](https://s.weibo.com/weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%20%E5%A4%B1%E5%8E%BB%E4%BA%86%E4%BD%A0%E9%9F%B3%E4%B9%90%E5%AE%87%E5%AE%99%E5%B0%86%E4%B8%8D%E5%86%8D%E5%A6%82%E6%98%94&t=31&band_rank=7&Refer=top)<br />
-8. [抢教授话筒的同学被哈工大录取](https://s.weibo.com/weibo?q=%E6%8A%A2%E6%95%99%E6%8E%88%E8%AF%9D%E7%AD%92%E7%9A%84%E5%90%8C%E5%AD%A6%E8%A2%AB%E5%93%88%E5%B7%A5%E5%A4%A7%E5%BD%95%E5%8F%96&t=31&band_rank=8&Refer=top)<br />
-9. [上海交通大学录取通知书里有一滴水](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E9%87%8C%E6%9C%89%E4%B8%80%E6%BB%B4%E6%B0%B4%23&t=31&band_rank=9&Refer=top)<br />
+8. [上海交通大学录取通知书里有一滴水](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E9%87%8C%E6%9C%89%E4%B8%80%E6%BB%B4%E6%B0%B4%23&t=31&band_rank=8&Refer=top)<br />
+9. [世界最早印花工具做出的汉服有多美](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9C%80%E6%97%A9%E5%8D%B0%E8%8A%B1%E5%B7%A5%E5%85%B7%E5%81%9A%E5%87%BA%E7%9A%84%E6%B1%89%E6%9C%8D%E6%9C%89%E5%A4%9A%E7%BE%8E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [有没有一种食材没做成美食前不敢上手碰，做成美食之后却又很好吃？](https://www.zhihu.com/question/610062999)<br />
 7. [67 岁环卫工穿厚重制服在高温下工作，不穿罚款 50 元，城管局回应：长袖能够起防晒作用，对此你怎么看？](https://www.zhihu.com/question/610461726)<br />
 8. [乌军改变反攻重点， 称「首要任务是给俄军造成最大程度伤害」，如何看待乌克兰国家安全部长发表的观点？](https://www.zhihu.com/question/610500601)<br />
-9. [如何看待首发骁龙 8 Gen 2 高频版的红魔 8S Pro ？](https://www.zhihu.com/question/609348234)<br />
+9. [代遛狗城市热度图发布，超十万人在闲鱼发布「可代遛狗」贴，武汉市内「一狗难求」，代遛狗需求为何如此火爆？](https://www.zhihu.com/question/610497990)<br />
 
 > 百度  
 
