@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 16:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 16:25:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [蔡徐坤粉丝帝国的崩塌](https://www.baidu.com/s?wd=%E8%94%A1%E5%BE%90%E5%9D%A4%E7%B2%89%E4%B8%9D%E5%B8%9D%E5%9B%BD%E7%9A%84%E5%B4%A9%E5%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [曝李玟原定7月与老公离婚](https://www.baidu.com/s?wd=%E6%9B%9D%E6%9D%8E%E7%8E%9F%E5%8E%9F%E5%AE%9A7%E6%9C%88%E4%B8%8E%E8%80%81%E5%85%AC%E7%A6%BB%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [老人高铁霸座拿药称有病别欺负我](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E9%AB%98%E9%93%81%E9%9C%B8%E5%BA%A7%E6%8B%BF%E8%8D%AF%E7%A7%B0%E6%9C%89%E7%97%85%E5%88%AB%E6%AC%BA%E8%B4%9F%E6%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [丫丫冰块凉席安排上了](https://www.baidu.com/s?wd=%E4%B8%AB%E4%B8%AB%E5%86%B0%E5%9D%97%E5%87%89%E5%B8%AD%E5%AE%89%E6%8E%92%E4%B8%8A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [这届年轻人盯上了电动轮椅](https://www.baidu.com/s?wd=%E8%BF%99%E5%B1%8A%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9B%AF%E4%B8%8A%E4%BA%86%E7%94%B5%E5%8A%A8%E8%BD%AE%E6%A4%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [蔡徐坤粉丝帝国的崩塌](https://www.baidu.com/s?wd=%E8%94%A1%E5%BE%90%E5%9D%A4%E7%B2%89%E4%B8%9D%E5%B8%9D%E5%9B%BD%E7%9A%84%E5%B4%A9%E5%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [曝李玟原定7月与老公离婚](https://www.baidu.com/s?wd=%E6%9B%9D%E6%9D%8E%E7%8E%9F%E5%8E%9F%E5%AE%9A7%E6%9C%88%E4%B8%8E%E8%80%81%E5%85%AC%E7%A6%BB%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [老人高铁霸座拿药称有病别欺负我](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E9%AB%98%E9%93%81%E9%9C%B8%E5%BA%A7%E6%8B%BF%E8%8D%AF%E7%A7%B0%E6%9C%89%E7%97%85%E5%88%AB%E6%AC%BA%E8%B4%9F%E6%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [丫丫冰块凉席安排上了](https://www.baidu.com/s?wd=%E4%B8%AB%E4%B8%AB%E5%86%B0%E5%9D%97%E5%87%89%E5%B8%AD%E5%AE%89%E6%8E%92%E4%B8%8A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [这届年轻人盯上了电动轮椅](https://www.baidu.com/s?wd=%E8%BF%99%E5%B1%8A%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9B%AF%E4%B8%8A%E4%BA%86%E7%94%B5%E5%8A%A8%E8%BD%AE%E6%A4%85&sa=fyb_news&rsv_dl=fyb_news)<br />
