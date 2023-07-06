@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 16:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-06 16:40:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [28.8万彩礼男生读大一双方家长未见面](https://s.weibo.com/weibo?q=%2328.8%E4%B8%87%E5%BD%A9%E7%A4%BC%E7%94%B7%E7%94%9F%E8%AF%BB%E5%A4%A7%E4%B8%80%E5%8F%8C%E6%96%B9%E5%AE%B6%E9%95%BF%E6%9C%AA%E8%A7%81%E9%9D%A2%23&t=31&band_rank=5&Refer=top)<br />
 6. [手机玩太久可导致抑郁症](https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E7%8E%A9%E5%A4%AA%E4%B9%85%E5%8F%AF%E5%AF%BC%E8%87%B4%E6%8A%91%E9%83%81%E7%97%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [韩红 你没走就在我们身边](https://s.weibo.com/weibo?q=%E9%9F%A9%E7%BA%A2%20%E4%BD%A0%E6%B2%A1%E8%B5%B0%E5%B0%B1%E5%9C%A8%E6%88%91%E4%BB%AC%E8%BA%AB%E8%BE%B9&t=31&band_rank=7&Refer=top)<br />
-8. [秋瓷炫于晓光回归韩综](https://s.weibo.com/weibo?q=%23%E7%A7%8B%E7%93%B7%E7%82%AB%E4%BA%8E%E6%99%93%E5%85%89%E5%9B%9E%E5%BD%92%E9%9F%A9%E7%BB%BC%23&t=31&band_rank=8&Refer=top)<br />
+8. [TFBOYS演唱会的票价](https://s.weibo.com/weibo?q=%23TFBOYS%E6%BC%94%E5%94%B1%E4%BC%9A%E7%9A%84%E7%A5%A8%E4%BB%B7%23&t=31&band_rank=8&Refer=top)<br />
 9. [丫丫冰块凉席安排上了](https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E5%86%B0%E5%9D%97%E5%87%89%E5%B8%AD%E5%AE%89%E6%8E%92%E4%B8%8A%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -18,8 +18,8 @@
 2. [美国总统参选人表示「中国周边有 313 个美军基地，其他国家会觉得谁对全球安全威胁更大」，如何评价？](https://www.zhihu.com/question/610542360)<br />
 3. [为什么李玟明明看起来那么开朗自信，却罹患抑郁症？](https://www.zhihu.com/question/610557808)<br />
 4. [房地产业低迷，百万农民工被迫失业或转行，当农民工「退休」，收入下滑焦虑在家庭弥漫，如何保障他们的生活？](https://www.zhihu.com/question/610633138)<br />
-5. [为什么《英雄联盟》热度就是降不下来？](https://www.zhihu.com/question/582973653)<br />
-6. [我国首个开源桌面操作系统「开放麒麟 1.0」发布，有哪些技术亮点？对我国国产操作系统有何意义？](https://www.zhihu.com/question/610513030)<br />
+5. [我国首个开源桌面操作系统「开放麒麟 1.0」发布，有哪些技术亮点？对我国国产操作系统有何意义？](https://www.zhihu.com/question/610513030)<br />
+6. [为什么《英雄联盟》热度就是降不下来？](https://www.zhihu.com/question/582973653)<br />
 7. [电视剧《长安十二时辰》里的「第八团」这个番号是不是太现代了？](https://www.zhihu.com/question/338263871)<br />
 8. [印度 6 月日经制造业 PMI 57.8 ，这一数据透露了哪些信息？](https://www.zhihu.com/question/610064203)<br />
 9. [76.1% 的农民工 60 岁后不愿休息，为何会出现这样的情况？他们的晚年如何「安放」？](https://www.zhihu.com/question/610495725)<br />
