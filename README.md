@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-07 15:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-07 15:38:01</h4></div>
 
 > 微博  
 
@@ -19,9 +19,9 @@
 3. [报道称越来越多年轻人选择回到二三线城市工作，如何看待此现象？你会选择去一线城市打拼还是去二三线？](https://www.zhihu.com/question/610805619)<br />
 4. [日式西幻，欧式西幻，俄式西幻，美式西幻，中式西幻有什么不同?](https://www.zhihu.com/question/553760574)<br />
 5. [华为盘古大模型 3.0 将于 7 月 7 日发布，你有哪些期待？](https://www.zhihu.com/question/610687465)<br />
-6. [2023 年，考驾照还有必要考手动挡吗？](https://www.zhihu.com/question/609711494)<br />
-7. [OpenAI 宣布 GPT-4 API 全面开放使用，将带来哪些影响？](https://www.zhihu.com/question/610804494)<br />
-8. [坐在汽车后座的乘客是否有必要系安全带？为什么？](https://www.zhihu.com/question/27909668)<br />
+6. [OpenAI 宣布 GPT-4 API 全面开放使用，将带来哪些影响？](https://www.zhihu.com/question/610804494)<br />
+7. [坐在汽车后座的乘客是否有必要系安全带？为什么？](https://www.zhihu.com/question/27909668)<br />
+8. [2023 年，考驾照还有必要考手动挡吗？](https://www.zhihu.com/question/609711494)<br />
 9. [宝马司机醉驾撞人拖行案一审宣判，被告人被判有期徒刑六年三个月，还有哪些信息值得关注？](https://www.zhihu.com/question/610819210)<br />
 
 > 百度  
