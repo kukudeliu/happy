@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-07 16:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-07 16:50:01</h4></div>
 
 > 微博  
 
@@ -16,8 +16,8 @@
 
 1. [比亚迪特斯拉等车企签署承诺书，不以非正常价格扰乱市场公平竞争秩序，将带来哪些影响？](https://www.zhihu.com/question/610644843)<br />
 2. [华为 Mate60 已进入量产，你对该产品都有哪些期待？](https://www.zhihu.com/question/609780307)<br />
-3. [报道称越来越多年轻人选择回到二三线城市工作，如何看待此现象？你会选择去一线城市打拼还是去二三线？](https://www.zhihu.com/question/610805619)<br />
-4. [OpenAI 宣布 GPT-4 API 全面开放使用，将带来哪些影响？](https://www.zhihu.com/question/610804494)<br />
+3. [OpenAI 宣布 GPT-4 API 全面开放使用，将带来哪些影响？](https://www.zhihu.com/question/610804494)<br />
+4. [报道称越来越多年轻人选择回到二三线城市工作，如何看待此现象？你会选择去一线城市打拼还是去二三线？](https://www.zhihu.com/question/610805619)<br />
 5. [宝马司机醉驾撞人拖行案一审宣判，被告人被判有期徒刑六年三个月，还有哪些信息值得关注？](https://www.zhihu.com/question/610819210)<br />
 6. [中年妈妈失业后「瞒着亲人在星巴克假装上班」，如何看待中年人失业的现状？](https://www.zhihu.com/question/610628297)<br />
 7. [电影《消失的她》中，如何评价朱一龙最后一段监狱戏的表演？](https://www.zhihu.com/question/608249073)<br />
@@ -28,22 +28,22 @@
 
 1. [勇立潮头谱新篇](https://www.baidu.com/s?wd=%E5%8B%87%E7%AB%8B%E6%BD%AE%E5%A4%B4%E8%B0%B1%E6%96%B0%E7%AF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [耶伦抵京第一餐吃了云南菜见手青](https://www.baidu.com/s?wd=%E8%80%B6%E4%BC%A6%E6%8A%B5%E4%BA%AC%E7%AC%AC%E4%B8%80%E9%A4%90%E5%90%83%E4%BA%86%E4%BA%91%E5%8D%97%E8%8F%9C%E8%A7%81%E6%89%8B%E9%9D%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [醉驾撞人拖行的宝马女司机获刑超6年](https://www.baidu.com/s?wd=%E9%86%89%E9%A9%BE%E6%92%9E%E4%BA%BA%E6%8B%96%E8%A1%8C%E7%9A%84%E5%AE%9D%E9%A9%AC%E5%A5%B3%E5%8F%B8%E6%9C%BA%E8%8E%B7%E5%88%91%E8%B6%856%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [冲绳知事赴北京琉球国墓地遗址祭拜](https://www.baidu.com/s?wd=%E5%86%B2%E7%BB%B3%E7%9F%A5%E4%BA%8B%E8%B5%B4%E5%8C%97%E4%BA%AC%E7%90%89%E7%90%83%E5%9B%BD%E5%A2%93%E5%9C%B0%E9%81%97%E5%9D%80%E7%A5%AD%E6%8B%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [86年前的今天永不敢忘](https://www.baidu.com/s?wd=86%E5%B9%B4%E5%89%8D%E7%9A%84%E4%BB%8A%E5%A4%A9%E6%B0%B8%E4%B8%8D%E6%95%A2%E5%BF%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [知情人称李玟疑因窒息死亡 家属发声](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0%E6%9D%8E%E7%8E%9F%E7%96%91%E5%9B%A0%E7%AA%92%E6%81%AF%E6%AD%BB%E4%BA%A1+%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [学生被老师批评后坠亡 家长索赔1元](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E8%A2%AB%E8%80%81%E5%B8%88%E6%89%B9%E8%AF%84%E5%90%8E%E5%9D%A0%E4%BA%A1+%E5%AE%B6%E9%95%BF%E7%B4%A2%E8%B5%941%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [敦煌又双叒叕堵骆驼了！](https://www.baidu.com/s?wd=%E6%95%A6%E7%85%8C%E5%8F%88%E5%8F%8C%E5%8F%92%E5%8F%95%E5%A0%B5%E9%AA%86%E9%A9%BC%E4%BA%86%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [7旬老人为救被殴女子遭男子捅死](https://www.baidu.com/s?wd=7%E6%97%AC%E8%80%81%E4%BA%BA%E4%B8%BA%E6%95%91%E8%A2%AB%E6%AE%B4%E5%A5%B3%E5%AD%90%E9%81%AD%E7%94%B7%E5%AD%90%E6%8D%85%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女婴出生第一天喝了过期奶粉](https://www.baidu.com/s?wd=%E5%A5%B3%E5%A9%B4%E5%87%BA%E7%94%9F%E7%AC%AC%E4%B8%80%E5%A4%A9%E5%96%9D%E4%BA%86%E8%BF%87%E6%9C%9F%E5%A5%B6%E7%B2%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [科学家：地球正处12.5万年来最热期](https://www.baidu.com/s?wd=%E7%A7%91%E5%AD%A6%E5%AE%B6%EF%BC%9A%E5%9C%B0%E7%90%83%E6%AD%A3%E5%A4%8412.5%E4%B8%87%E5%B9%B4%E6%9D%A5%E6%9C%80%E7%83%AD%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [7旬老人为救被殴女子遭男子捅死](https://www.baidu.com/s?wd=7%E6%97%AC%E8%80%81%E4%BA%BA%E4%B8%BA%E6%95%91%E8%A2%AB%E6%AE%B4%E5%A5%B3%E5%AD%90%E9%81%AD%E7%94%B7%E5%AD%90%E6%8D%85%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [勇立潮头谱新篇](https://www.baidu.com/s?wd=%E5%8B%87%E7%AB%8B%E6%BD%AE%E5%A4%B4%E8%B0%B1%E6%96%B0%E7%AF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [耶伦抵京第一餐吃了云南菜见手青](https://www.baidu.com/s?wd=%E8%80%B6%E4%BC%A6%E6%8A%B5%E4%BA%AC%E7%AC%AC%E4%B8%80%E9%A4%90%E5%90%83%E4%BA%86%E4%BA%91%E5%8D%97%E8%8F%9C%E8%A7%81%E6%89%8B%E9%9D%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [醉驾撞人拖行的宝马女司机获刑超6年](https://www.baidu.com/s?wd=%E9%86%89%E9%A9%BE%E6%92%9E%E4%BA%BA%E6%8B%96%E8%A1%8C%E7%9A%84%E5%AE%9D%E9%A9%AC%E5%A5%B3%E5%8F%B8%E6%9C%BA%E8%8E%B7%E5%88%91%E8%B6%856%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [冲绳知事赴北京琉球国墓地遗址祭拜](https://www.baidu.com/s?wd=%E5%86%B2%E7%BB%B3%E7%9F%A5%E4%BA%8B%E8%B5%B4%E5%8C%97%E4%BA%AC%E7%90%89%E7%90%83%E5%9B%BD%E5%A2%93%E5%9C%B0%E9%81%97%E5%9D%80%E7%A5%AD%E6%8B%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [86年前的今天永不敢忘](https://www.baidu.com/s?wd=86%E5%B9%B4%E5%89%8D%E7%9A%84%E4%BB%8A%E5%A4%A9%E6%B0%B8%E4%B8%8D%E6%95%A2%E5%BF%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [知情人称李玟疑因窒息死亡 家属发声](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0%E6%9D%8E%E7%8E%9F%E7%96%91%E5%9B%A0%E7%AA%92%E6%81%AF%E6%AD%BB%E4%BA%A1+%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [学生被老师批评后坠亡 家长索赔1元](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E8%A2%AB%E8%80%81%E5%B8%88%E6%89%B9%E8%AF%84%E5%90%8E%E5%9D%A0%E4%BA%A1+%E5%AE%B6%E9%95%BF%E7%B4%A2%E8%B5%941%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [敦煌又双叒叕堵骆驼了！](https://www.baidu.com/s?wd=%E6%95%A6%E7%85%8C%E5%8F%88%E5%8F%8C%E5%8F%92%E5%8F%95%E5%A0%B5%E9%AA%86%E9%A9%BC%E4%BA%86%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [7旬老人为救被殴女子遭男子捅死](https://www.baidu.com/s?wd=7%E6%97%AC%E8%80%81%E4%BA%BA%E4%B8%BA%E6%95%91%E8%A2%AB%E6%AE%B4%E5%A5%B3%E5%AD%90%E9%81%AD%E7%94%B7%E5%AD%90%E6%8D%85%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女婴出生第一天喝了过期奶粉](https://www.baidu.com/s?wd=%E5%A5%B3%E5%A9%B4%E5%87%BA%E7%94%9F%E7%AC%AC%E4%B8%80%E5%A4%A9%E5%96%9D%E4%BA%86%E8%BF%87%E6%9C%9F%E5%A5%B6%E7%B2%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [科学家：地球正处12.5万年来最热期](https://www.baidu.com/s?wd=%E7%A7%91%E5%AD%A6%E5%AE%B6%EF%BC%9A%E5%9C%B0%E7%90%83%E6%AD%A3%E5%A4%8412.5%E4%B8%87%E5%B9%B4%E6%9D%A5%E6%9C%80%E7%83%AD%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [7旬老人为救被殴女子遭男子捅死](https://www.baidu.com/s?wd=7%E6%97%AC%E8%80%81%E4%BA%BA%E4%B8%BA%E6%95%91%E8%A2%AB%E6%AE%B4%E5%A5%B3%E5%AD%90%E9%81%AD%E7%94%B7%E5%AD%90%E6%8D%85%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
