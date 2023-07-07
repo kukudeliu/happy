@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-07 19:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-07 19:04:01</h4></div>
 
 > 微博  
 
@@ -18,11 +18,11 @@
 2. [年轻人开「电动轮椅」上下班，相关产品销量猛涨，律师称不违法，只能从道德层面评价，如何看待这一现象？](https://www.zhihu.com/question/610638966)<br />
 3. [OpenAI 宣布 GPT-4 API 全面开放使用，将带来哪些影响？](https://www.zhihu.com/question/610804494)<br />
 4. [中年妈妈失业后「瞒着亲人在星巴克假装上班」，如何看待中年人失业的现状？](https://www.zhihu.com/question/610628297)<br />
-5. [周杰伦四天演唱会让海口实现旅游收入 9.76 亿元，为海口端午假期旅游收入的三倍，哪些信息值得关注？](https://www.zhihu.com/question/610636669)<br />
-6. [2023 LPL 夏季赛 LGD 0:2 不敌 EDG，如何评价这场比赛？](https://www.zhihu.com/question/610850411)<br />
-7. [9 是个位数里最大的数字，99 是十位数里最大的数字，那么以此类推，世界上最大的数字就是奇数，有没有问题？](https://www.zhihu.com/question/608857133)<br />
-8. [电影《八角笼中》的原型事件是什么样的？](https://www.zhihu.com/question/610638181)<br />
-9. []()<br />
+5. [2023 LPL 夏季赛 LGD 0:2 不敌 EDG，如何评价这场比赛？](https://www.zhihu.com/question/610850411)<br />
+6. [9 是个位数里最大的数字，99 是十位数里最大的数字，那么以此类推，世界上最大的数字就是奇数，有没有问题？](https://www.zhihu.com/question/608857133)<br />
+7. [电影《八角笼中》的原型事件是什么样的？](https://www.zhihu.com/question/610638181)<br />
+8. []()<br />
+9. [江西一地发布抵制农村高价彩礼通告，指出「超六万可举报」，官方回应「已撤销，考虑不周」，如何看待此事？](https://www.zhihu.com/question/610629862)<br />
 
 > 百度  
 
