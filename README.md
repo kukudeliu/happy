@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-07 23:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-07 23:08:01</h4></div>
 
 > 微博  
 
@@ -18,10 +18,10 @@
 2. [年轻人开「电动轮椅」上下班，相关产品销量猛涨，律师称不违法，只能从道德层面评价，如何看待这一现象？](https://www.zhihu.com/question/610638966)<br />
 3. [2023 上半年仅北京、杭州卖地收入超千亿，更多城市不足百亿，如何解读这一数据？释放哪些信号？](https://www.zhihu.com/question/610863406)<br />
 4. [消息称特斯拉上海超级工厂裁员，电池一期砍掉 50%，此次裁员背后原因有哪些？对特斯拉中国业务有何影响？](https://www.zhihu.com/question/610755769)<br />
-5. [20 年来首款阿尔茨海默病新药获 FDA 完全批准，这意味着什么？阿尔茨海默病有救了吗？](https://www.zhihu.com/question/610805024)<br />
-6. [2023 LPL 夏季赛 TES 2:1 OMG，如何评价这场比赛？](https://www.zhihu.com/question/610905606)<br />
-7. []()<br />
-8. [学校要求教师不要晒暑假旅游照片，该规定合理吗？](https://www.zhihu.com/question/610704275)<br />
+5. [2023 LPL 夏季赛 TES 2:1 OMG，如何评价这场比赛？](https://www.zhihu.com/question/610905606)<br />
+6. []()<br />
+7. [学校要求教师不要晒暑假旅游照片，该规定合理吗？](https://www.zhihu.com/question/610704275)<br />
+8. [20 年来首款阿尔茨海默病新药获 FDA 完全批准，这意味着什么？阿尔茨海默病有救了吗？](https://www.zhihu.com/question/610805024)<br />
 9. [小学生热衷一元零食，「不吃就落单了」，如何看待这种「零食社交」？](https://www.zhihu.com/question/610619522)<br />
 
 > 百度  
