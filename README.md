@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-07 22:55:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-07 22:57:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [消息称特斯拉上海超级工厂裁员，电池一期砍掉 50%，此次裁员背后原因有哪些？对特斯拉中国业务有何影响？](https://www.zhihu.com/question/610755769)<br />
 6. [20 年来首款阿尔茨海默病新药获 FDA 完全批准，这意味着什么？阿尔茨海默病有救了吗？](https://www.zhihu.com/question/610805024)<br />
 7. [2023 LPL 夏季赛 TES 2:1 OMG，如何评价这场比赛？](https://www.zhihu.com/question/610905606)<br />
-8. [小县城开出品牌奶茶一条街，品牌咖啡馆也涌入，高端茶饮能否实现小县城掘金？各大品牌下沉如何影响县城社交？](https://www.zhihu.com/question/610806099)<br />
-9. [学校要求教师不要晒暑假旅游照片，该规定合理吗？](https://www.zhihu.com/question/610704275)<br />
+8. [学校要求教师不要晒暑假旅游照片，该规定合理吗？](https://www.zhihu.com/question/610704275)<br />
+9. [小学生热衷一元零食，「不吃就落单了」，如何看待这种「零食社交」？](https://www.zhihu.com/question/610619522)<br />
 
 > 百度  
 
@@ -33,8 +33,8 @@
 5. [腾讯财付通被罚没近30亿元](https://www.baidu.com/s?wd=%E8%85%BE%E8%AE%AF%E8%B4%A2%E4%BB%98%E9%80%9A%E8%A2%AB%E7%BD%9A%E6%B2%A1%E8%BF%9130%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [韩国幽灵婴儿案增至867起](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E5%B9%BD%E7%81%B5%E5%A9%B4%E5%84%BF%E6%A1%88%E5%A2%9E%E8%87%B3867%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [蚂蚁腾讯获重磅罚单释放三大信号](https://www.baidu.com/s?wd=%E8%9A%82%E8%9A%81%E8%85%BE%E8%AE%AF%E8%8E%B7%E9%87%8D%E7%A3%85%E7%BD%9A%E5%8D%95%E9%87%8A%E6%94%BE%E4%B8%89%E5%A4%A7%E4%BF%A1%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [重庆暴雨失踪者家属：想找到遗体](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E6%9A%B4%E9%9B%A8%E5%A4%B1%E8%B8%AA%E8%80%85%E5%AE%B6%E5%B1%9E%EF%BC%9A%E6%83%B3%E6%89%BE%E5%88%B0%E9%81%97%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [电影院起火男子逆行1分钟灭火](https://www.baidu.com/s?wd=%E7%94%B5%E5%BD%B1%E9%99%A2%E8%B5%B7%E7%81%AB%E7%94%B7%E5%AD%90%E9%80%86%E8%A1%8C1%E5%88%86%E9%92%9F%E7%81%AD%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [电影院起火男子逆行1分钟灭火](https://www.baidu.com/s?wd=%E7%94%B5%E5%BD%B1%E9%99%A2%E8%B5%B7%E7%81%AB%E7%94%B7%E5%AD%90%E9%80%86%E8%A1%8C1%E5%88%86%E9%92%9F%E7%81%AD%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [法国男子40度高温“包场”逛长城](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E7%94%B7%E5%AD%9040%E5%BA%A6%E9%AB%98%E6%B8%A9%E2%80%9C%E5%8C%85%E5%9C%BA%E2%80%9D%E9%80%9B%E9%95%BF%E5%9F%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [腾讯财付通被罚没近30亿元](https://www.baidu.com/s?wd=%E8%85%BE%E8%AE%AF%E8%B4%A2%E4%BB%98%E9%80%9A%E8%A2%AB%E7%BD%9A%E6%B2%A1%E8%BF%9130%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [韩国幽灵婴儿案增至867起](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E5%B9%BD%E7%81%B5%E5%A9%B4%E5%84%BF%E6%A1%88%E5%A2%9E%E8%87%B3867%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [蚂蚁腾讯获重磅罚单释放三大信号](https://www.baidu.com/s?wd=%E8%9A%82%E8%9A%81%E8%85%BE%E8%AE%AF%E8%8E%B7%E9%87%8D%E7%A3%85%E7%BD%9A%E5%8D%95%E9%87%8A%E6%94%BE%E4%B8%89%E5%A4%A7%E4%BF%A1%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [重庆暴雨失踪者家属：想找到遗体](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E6%9A%B4%E9%9B%A8%E5%A4%B1%E8%B8%AA%E8%80%85%E5%AE%B6%E5%B1%9E%EF%BC%9A%E6%83%B3%E6%89%BE%E5%88%B0%E9%81%97%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [电影院起火男子逆行1分钟灭火](https://www.baidu.com/s?wd=%E7%94%B5%E5%BD%B1%E9%99%A2%E8%B5%B7%E7%81%AB%E7%94%B7%E5%AD%90%E9%80%86%E8%A1%8C1%E5%88%86%E9%92%9F%E7%81%AD%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [电影院起火男子逆行1分钟灭火](https://www.baidu.com/s?wd=%E7%94%B5%E5%BD%B1%E9%99%A2%E8%B5%B7%E7%81%AB%E7%94%B7%E5%AD%90%E9%80%86%E8%A1%8C1%E5%88%86%E9%92%9F%E7%81%AD%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [法国男子40度高温“包场”逛长城](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E7%94%B7%E5%AD%9040%E5%BA%A6%E9%AB%98%E6%B8%A9%E2%80%9C%E5%8C%85%E5%9C%BA%E2%80%9D%E9%80%9B%E9%95%BF%E5%9F%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
