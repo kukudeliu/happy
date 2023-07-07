@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 03:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 03:30:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [电热水器该怎么选择？](https://www.zhihu.com/question/490950851)<br />
 7. [高考忘记自己贴没贴条形码了，如果没贴的话监考老师会发现吗？](https://www.zhihu.com/question/605787700)<br />
 8. [电影《八角笼中》为何口碑两极分化，你对该电影有哪些评价？](https://www.zhihu.com/question/607969019)<br />
-9. [全球每年 5 % 成年人患抑郁症，中低收入国家八九成患者未诊治，如何有效提高抑郁症就诊率？](https://www.zhihu.com/question/610868314)<br />
+9. []()<br />
 
 > 百度  
 
