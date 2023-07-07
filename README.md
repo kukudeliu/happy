@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 06:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 06:34:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [韩国幽灵婴儿案增至867起](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E5%B9%BD%E7%81%B5%E5%A9%B4%E5%84%BF%E6%A1%88%E5%A2%9E%E8%87%B3867%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [曾毅竟然50岁了](https://www.baidu.com/s?wd=%E6%9B%BE%E6%AF%85%E7%AB%9F%E7%84%B650%E5%B2%81%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [妻子修手机花70元被丈夫扇耳光](https://www.baidu.com/s?wd=%E5%A6%BB%E5%AD%90%E4%BF%AE%E6%89%8B%E6%9C%BA%E8%8A%B170%E5%85%83%E8%A2%AB%E4%B8%88%E5%A4%AB%E6%89%87%E8%80%B3%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [敦煌又双叒叕堵骆驼了！](https://www.baidu.com/s?wd=%E6%95%A6%E7%85%8C%E5%8F%88%E5%8F%8C%E5%8F%92%E5%8F%95%E5%A0%B5%E9%AA%86%E9%A9%BC%E4%BA%86%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [学生被老师批评后坠亡 家长索赔1元](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E8%A2%AB%E8%80%81%E5%B8%88%E6%89%B9%E8%AF%84%E5%90%8E%E5%9D%A0%E4%BA%A1+%E5%AE%B6%E9%95%BF%E7%B4%A2%E8%B5%941%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [韩国幽灵婴儿案增至867起](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E5%B9%BD%E7%81%B5%E5%A9%B4%E5%84%BF%E6%A1%88%E5%A2%9E%E8%87%B3867%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [曾毅竟然50岁了](https://www.baidu.com/s?wd=%E6%9B%BE%E6%AF%85%E7%AB%9F%E7%84%B650%E5%B2%81%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [妻子修手机花70元被丈夫扇耳光](https://www.baidu.com/s?wd=%E5%A6%BB%E5%AD%90%E4%BF%AE%E6%89%8B%E6%9C%BA%E8%8A%B170%E5%85%83%E8%A2%AB%E4%B8%88%E5%A4%AB%E6%89%87%E8%80%B3%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [敦煌又双叒叕堵骆驼了！](https://www.baidu.com/s?wd=%E6%95%A6%E7%85%8C%E5%8F%88%E5%8F%8C%E5%8F%92%E5%8F%95%E5%A0%B5%E9%AA%86%E9%A9%BC%E4%BA%86%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [学生被老师批评后坠亡 家长索赔1元](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E8%A2%AB%E8%80%81%E5%B8%88%E6%89%B9%E8%AF%84%E5%90%8E%E5%9D%A0%E4%BA%A1+%E5%AE%B6%E9%95%BF%E7%B4%A2%E8%B5%941%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
