@@ -1,15 +1,15 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 02:38:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 02:39:02</h4></div>
 
 > 微博  
 
 1. [邓伦被强制执行](https://s.weibo.com/weibo?q=%23%E9%82%93%E4%BC%A6%E8%A2%AB%E5%BC%BA%E5%88%B6%E6%89%A7%E8%A1%8C%23&t=31&band_rank=1&Refer=top)<br />
 2. [原来快递员能看见快递里面是啥](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%BF%AB%E9%80%92%E5%91%98%E8%83%BD%E7%9C%8B%E8%A7%81%E5%BF%AB%E9%80%92%E9%87%8C%E9%9D%A2%E6%98%AF%E5%95%A5%23&t=31&band_rank=2&Refer=top)<br />
-3. [夏日超实用防暑降温指南](https://s.weibo.com/weibo?q=%23%E5%A4%8F%E6%97%A5%E8%B6%85%E5%AE%9E%E7%94%A8%E9%98%B2%E6%9A%91%E9%99%8D%E6%B8%A9%E6%8C%87%E5%8D%97%23&t=31&band_rank=3&Refer=top)<br />
-4. [对这期跑男越来越感兴趣了](https://s.weibo.com/weibo?q=%23%E5%AF%B9%E8%BF%99%E6%9C%9F%E8%B7%91%E7%94%B7%E8%B6%8A%E6%9D%A5%E8%B6%8A%E6%84%9F%E5%85%B4%E8%B6%A3%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
-5. [取2.5万存款被盘问用途合规吗](https://s.weibo.com/weibo?q=%23%E5%8F%962.5%E4%B8%87%E5%AD%98%E6%AC%BE%E8%A2%AB%E7%9B%98%E9%97%AE%E7%94%A8%E9%80%94%E5%90%88%E8%A7%84%E5%90%97%23&t=31&band_rank=5&Refer=top)<br />
+3. [对这期跑男越来越感兴趣了](https://s.weibo.com/weibo?q=%23%E5%AF%B9%E8%BF%99%E6%9C%9F%E8%B7%91%E7%94%B7%E8%B6%8A%E6%9D%A5%E8%B6%8A%E6%84%9F%E5%85%B4%E8%B6%A3%E4%BA%86%23&t=31&band_rank=3&Refer=top)<br />
+4. [取2.5万存款被盘问用途合规吗](https://s.weibo.com/weibo?q=%23%E5%8F%962.5%E4%B8%87%E5%AD%98%E6%AC%BE%E8%A2%AB%E7%9B%98%E9%97%AE%E7%94%A8%E9%80%94%E5%90%88%E8%A7%84%E5%90%97%23&t=31&band_rank=4&Refer=top)<br />
+5. [孙红雷 他说的全是我的词啊](https://s.weibo.com/weibo?q=%E5%AD%99%E7%BA%A2%E9%9B%B7%20%E4%BB%96%E8%AF%B4%E7%9A%84%E5%85%A8%E6%98%AF%E6%88%91%E7%9A%84%E8%AF%8D%E5%95%8A&t=31&band_rank=5&Refer=top)<br />
 6. [TFBOYS会合体集训](https://s.weibo.com/weibo?q=%23TFBOYS%E4%BC%9A%E5%90%88%E4%BD%93%E9%9B%86%E8%AE%AD%23&t=31&band_rank=6&Refer=top)<br />
 7. [长风渡改编](https://s.weibo.com/weibo?q=%E9%95%BF%E9%A3%8E%E6%B8%A1%E6%94%B9%E7%BC%96&t=31&band_rank=7&Refer=top)<br />
-8. [孙红雷 他说的全是我的词啊](https://s.weibo.com/weibo?q=%E5%AD%99%E7%BA%A2%E9%9B%B7%20%E4%BB%96%E8%AF%B4%E7%9A%84%E5%85%A8%E6%98%AF%E6%88%91%E7%9A%84%E8%AF%8D%E5%95%8A&t=31&band_rank=8&Refer=top)<br />
+8. [夏日超实用防暑降温指南](https://s.weibo.com/weibo?q=%23%E5%A4%8F%E6%97%A5%E8%B6%85%E5%AE%9E%E7%94%A8%E9%98%B2%E6%9A%91%E9%99%8D%E6%B8%A9%E6%8C%87%E5%8D%97%23&t=31&band_rank=8&Refer=top)<br />
 9. [xxs](https://s.weibo.com/weibo?q=xxs&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -20,9 +20,9 @@
 4. [消息称特斯拉上海超级工厂裁员，电池一期砍掉 50%，此次裁员背后原因有哪些？对特斯拉中国业务有何影响？](https://www.zhihu.com/question/610755769)<br />
 5. [牛顿的科学观都不足以让他放弃他的神学信仰吗？](https://www.zhihu.com/question/607982401)<br />
 6. [哪个瞬间让你发现了世界的 bug？](https://www.zhihu.com/question/374412997)<br />
-7. []()<br />
+7. [全球每年 5 % 成年人患抑郁症，中低收入国家八九成患者未诊治，如何有效提高抑郁症就诊率？](https://www.zhihu.com/question/610868314)<br />
 8. []()<br />
-9. [全球每年 5 % 成年人患抑郁症，中低收入国家八九成患者未诊治，如何有效提高抑郁症就诊率？](https://www.zhihu.com/question/610868314)<br />
+9. []()<br />
 
 > 百度  
 
@@ -31,10 +31,10 @@
 3. [外媒：扎波罗热地区发生爆炸](https://www.baidu.com/s?wd=%E5%A4%96%E5%AA%92%EF%BC%9A%E6%89%8E%E6%B3%A2%E7%BD%97%E7%83%AD%E5%9C%B0%E5%8C%BA%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [筑牢防灾减灾坚固防线](https://www.baidu.com/s?wd=%E7%AD%91%E7%89%A2%E9%98%B2%E7%81%BE%E5%87%8F%E7%81%BE%E5%9D%9A%E5%9B%BA%E9%98%B2%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [邓伦被申请强制执行](https://www.baidu.com/s?wd=%E9%82%93%E4%BC%A6%E8%A2%AB%E7%94%B3%E8%AF%B7%E5%BC%BA%E5%88%B6%E6%89%A7%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [电影院起火男子逆行1分钟灭火](https://www.baidu.com/s?wd=%E7%94%B5%E5%BD%B1%E9%99%A2%E8%B5%B7%E7%81%AB%E7%94%B7%E5%AD%90%E9%80%86%E8%A1%8C1%E5%88%86%E9%92%9F%E7%81%AD%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [教授称有人花百万留学回来月薪5000](https://www.baidu.com/s?wd=%E6%95%99%E6%8E%88%E7%A7%B0%E6%9C%89%E4%BA%BA%E8%8A%B1%E7%99%BE%E4%B8%87%E7%95%99%E5%AD%A6%E5%9B%9E%E6%9D%A5%E6%9C%88%E8%96%AA5000&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [曾毅竟然50岁了](https://www.baidu.com/s?wd=%E6%9B%BE%E6%AF%85%E7%AB%9F%E7%84%B650%E5%B2%81%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [“清华选美冠军”将出国攻读博士](https://www.baidu.com/s?wd=%E2%80%9C%E6%B8%85%E5%8D%8E%E9%80%89%E7%BE%8E%E5%86%A0%E5%86%9B%E2%80%9D%E5%B0%86%E5%87%BA%E5%9B%BD%E6%94%BB%E8%AF%BB%E5%8D%9A%E5%A3%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [哈尔滨一脚手架倒塌 多人被砸中](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E4%B8%80%E8%84%9A%E6%89%8B%E6%9E%B6%E5%80%92%E5%A1%8C+%E5%A4%9A%E4%BA%BA%E8%A2%AB%E7%A0%B8%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [暑期游迎来首个高峰](https://www.baidu.com/s?wd=%E6%9A%91%E6%9C%9F%E6%B8%B8%E8%BF%8E%E6%9D%A5%E9%A6%96%E4%B8%AA%E9%AB%98%E5%B3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [电影院起火男子逆行1分钟灭火](https://www.baidu.com/s?wd=%E7%94%B5%E5%BD%B1%E9%99%A2%E8%B5%B7%E7%81%AB%E7%94%B7%E5%AD%90%E9%80%86%E8%A1%8C1%E5%88%86%E9%92%9F%E7%81%AD%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [教授称有人花百万留学回来月薪5000](https://www.baidu.com/s?wd=%E6%95%99%E6%8E%88%E7%A7%B0%E6%9C%89%E4%BA%BA%E8%8A%B1%E7%99%BE%E4%B8%87%E7%95%99%E5%AD%A6%E5%9B%9E%E6%9D%A5%E6%9C%88%E8%96%AA5000&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [外媒：扎波罗热地区发生爆炸](https://www.baidu.com/s?wd=%E5%A4%96%E5%AA%92%EF%BC%9A%E6%89%8E%E6%B3%A2%E7%BD%97%E7%83%AD%E5%9C%B0%E5%8C%BA%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [筑牢防灾减灾坚固防线](https://www.baidu.com/s?wd=%E7%AD%91%E7%89%A2%E9%98%B2%E7%81%BE%E5%87%8F%E7%81%BE%E5%9D%9A%E5%9B%BA%E9%98%B2%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [邓伦被申请强制执行](https://www.baidu.com/s?wd=%E9%82%93%E4%BC%A6%E8%A2%AB%E7%94%B3%E8%AF%B7%E5%BC%BA%E5%88%B6%E6%89%A7%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [电影院起火男子逆行1分钟灭火](https://www.baidu.com/s?wd=%E7%94%B5%E5%BD%B1%E9%99%A2%E8%B5%B7%E7%81%AB%E7%94%B7%E5%AD%90%E9%80%86%E8%A1%8C1%E5%88%86%E9%92%9F%E7%81%AD%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [教授称有人花百万留学回来月薪5000](https://www.baidu.com/s?wd=%E6%95%99%E6%8E%88%E7%A7%B0%E6%9C%89%E4%BA%BA%E8%8A%B1%E7%99%BE%E4%B8%87%E7%95%99%E5%AD%A6%E5%9B%9E%E6%9D%A5%E6%9C%88%E8%96%AA5000&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [曾毅竟然50岁了](https://www.baidu.com/s?wd=%E6%9B%BE%E6%AF%85%E7%AB%9F%E7%84%B650%E5%B2%81%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [“清华选美冠军”将出国攻读博士](https://www.baidu.com/s?wd=%E2%80%9C%E6%B8%85%E5%8D%8E%E9%80%89%E7%BE%8E%E5%86%A0%E5%86%9B%E2%80%9D%E5%B0%86%E5%87%BA%E5%9B%BD%E6%94%BB%E8%AF%BB%E5%8D%9A%E5%A3%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [哈尔滨一脚手架倒塌 多人被砸中](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E4%B8%80%E8%84%9A%E6%89%8B%E6%9E%B6%E5%80%92%E5%A1%8C+%E5%A4%9A%E4%BA%BA%E8%A2%AB%E7%A0%B8%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [暑期游迎来首个高峰](https://www.baidu.com/s?wd=%E6%9A%91%E6%9C%9F%E6%B8%B8%E8%BF%8E%E6%9D%A5%E9%A6%96%E4%B8%AA%E9%AB%98%E5%B3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [电影院起火男子逆行1分钟灭火](https://www.baidu.com/s?wd=%E7%94%B5%E5%BD%B1%E9%99%A2%E8%B5%B7%E7%81%AB%E7%94%B7%E5%AD%90%E9%80%86%E8%A1%8C1%E5%88%86%E9%92%9F%E7%81%AD%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [教授称有人花百万留学回来月薪5000](https://www.baidu.com/s?wd=%E6%95%99%E6%8E%88%E7%A7%B0%E6%9C%89%E4%BA%BA%E8%8A%B1%E7%99%BE%E4%B8%87%E7%95%99%E5%AD%A6%E5%9B%9E%E6%9D%A5%E6%9C%88%E8%96%AA5000&sa=fyb_news&rsv_dl=fyb_news)<br />
