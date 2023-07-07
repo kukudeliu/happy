@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-07 14:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-07 14:04:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [教授称有人花百万留学回来月薪5000](https://www.baidu.com/s?wd=%E6%95%99%E6%8E%88%E7%A7%B0%E6%9C%89%E4%BA%BA%E8%8A%B1%E7%99%BE%E4%B8%87%E7%95%99%E5%AD%A6%E5%9B%9E%E6%9D%A5%E6%9C%88%E8%96%AA5000&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [曝郑欣宜也患抑郁症](https://www.baidu.com/s?wd=%E6%9B%9D%E9%83%91%E6%AC%A3%E5%AE%9C%E4%B9%9F%E6%82%A3%E6%8A%91%E9%83%81%E7%97%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女孩被蛇咬伤奶奶抓蜘蛛吸毒](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E8%A2%AB%E8%9B%87%E5%92%AC%E4%BC%A4%E5%A5%B6%E5%A5%B6%E6%8A%93%E8%9C%98%E8%9B%9B%E5%90%B8%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [7旬老人为救被殴女子遭男子捅死](https://www.baidu.com/s?wd=7%E6%97%AC%E8%80%81%E4%BA%BA%E4%B8%BA%E6%95%91%E8%A2%AB%E6%AE%B4%E5%A5%B3%E5%AD%90%E9%81%AD%E7%94%B7%E5%AD%90%E6%8D%85%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [宋轶真换了头像](https://www.baidu.com/s?wd=%E5%AE%8B%E8%BD%B6%E7%9C%9F%E6%8D%A2%E4%BA%86%E5%A4%B4%E5%83%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [教授称有人花百万留学回来月薪5000](https://www.baidu.com/s?wd=%E6%95%99%E6%8E%88%E7%A7%B0%E6%9C%89%E4%BA%BA%E8%8A%B1%E7%99%BE%E4%B8%87%E7%95%99%E5%AD%A6%E5%9B%9E%E6%9D%A5%E6%9C%88%E8%96%AA5000&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [曝郑欣宜也患抑郁症](https://www.baidu.com/s?wd=%E6%9B%9D%E9%83%91%E6%AC%A3%E5%AE%9C%E4%B9%9F%E6%82%A3%E6%8A%91%E9%83%81%E7%97%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女孩被蛇咬伤奶奶抓蜘蛛吸毒](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E8%A2%AB%E8%9B%87%E5%92%AC%E4%BC%A4%E5%A5%B6%E5%A5%B6%E6%8A%93%E8%9C%98%E8%9B%9B%E5%90%B8%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [7旬老人为救被殴女子遭男子捅死](https://www.baidu.com/s?wd=7%E6%97%AC%E8%80%81%E4%BA%BA%E4%B8%BA%E6%95%91%E8%A2%AB%E6%AE%B4%E5%A5%B3%E5%AD%90%E9%81%AD%E7%94%B7%E5%AD%90%E6%8D%85%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [宋轶真换了头像](https://www.baidu.com/s?wd=%E5%AE%8B%E8%BD%B6%E7%9C%9F%E6%8D%A2%E4%BA%86%E5%A4%B4%E5%83%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
