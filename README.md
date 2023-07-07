@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-07 15:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-07 15:20:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [华为盘古大模型 3.0 将于 7 月 7 日发布，你有哪些期待？](https://www.zhihu.com/question/610687465)<br />
 7. [2023 年，考驾照还有必要考手动挡吗？](https://www.zhihu.com/question/609711494)<br />
 8. [坐在汽车后座的乘客是否有必要系安全带？为什么？](https://www.zhihu.com/question/27909668)<br />
-9. [「七七事变」已经过去 86 年，硝烟已散去，但历史难以忘怀，对此你有何肺腑之言？](https://www.zhihu.com/question/610820238)<br />
+9. [OpenAI 宣布 GPT-4 API 全面开放使用，将带来哪些影响？](https://www.zhihu.com/question/610804494)<br />
 
 > 百度  
 
