@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-07 17:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-07 17:06:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [杨紫万茜李晟你们怎么还整过这出](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E4%B8%87%E8%8C%9C%E6%9D%8E%E6%99%9F%E4%BD%A0%E4%BB%AC%E6%80%8E%E4%B9%88%E8%BF%98%E6%95%B4%E8%BF%87%E8%BF%99%E5%87%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [EDG战胜LGD](https://s.weibo.com/weibo?q=%23EDG%E6%88%98%E8%83%9CLGD%23&t=31&band_rank=7&Refer=top)<br />
 8. [朱一龙一番票房突破50亿](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E4%B8%80%E7%95%AA%E7%A5%A8%E6%88%BF%E7%AA%81%E7%A0%B450%E4%BA%BF%23&t=31&band_rank=8&Refer=top)<br />
-9. [2岁女孩遇车祸交警喊来妻子哄娃](https://s.weibo.com/weibo?q=%232%E5%B2%81%E5%A5%B3%E5%AD%A9%E9%81%87%E8%BD%A6%E7%A5%B8%E4%BA%A4%E8%AD%A6%E5%96%8A%E6%9D%A5%E5%A6%BB%E5%AD%90%E5%93%84%E5%A8%83%23&t=31&band_rank=9&Refer=top)<br />
+9. [六公主说但他可是周深啊](https://s.weibo.com/weibo?q=%23%E5%85%AD%E5%85%AC%E4%B8%BB%E8%AF%B4%E4%BD%86%E4%BB%96%E5%8F%AF%E6%98%AF%E5%91%A8%E6%B7%B1%E5%95%8A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
