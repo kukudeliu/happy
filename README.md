@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-07 18:06:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-07 18:07:01</h4></div>
 
 > 微博  
 
@@ -28,10 +28,10 @@
 
 1. [勇立潮头谱新篇](https://www.baidu.com/s?wd=%E5%8B%87%E7%AB%8B%E6%BD%AE%E5%A4%B4%E8%B0%B1%E6%96%B0%E7%AF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [耶伦将与李强总理会面？外交部回应](https://www.baidu.com/s?wd=%E8%80%B6%E4%BC%A6%E5%B0%86%E4%B8%8E%E6%9D%8E%E5%BC%BA%E6%80%BB%E7%90%86%E4%BC%9A%E9%9D%A2%EF%BC%9F%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [科学家：地球正处12.5万年来最热期](https://www.baidu.com/s?wd=%E7%A7%91%E5%AD%A6%E5%AE%B6%EF%BC%9A%E5%9C%B0%E7%90%83%E6%AD%A3%E5%A4%8412.5%E4%B8%87%E5%B9%B4%E6%9D%A5%E6%9C%80%E7%83%AD%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [学生被老师批评后坠亡 家长索赔1元](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E8%A2%AB%E8%80%81%E5%B8%88%E6%89%B9%E8%AF%84%E5%90%8E%E5%9D%A0%E4%BA%A1+%E5%AE%B6%E9%95%BF%E7%B4%A2%E8%B5%941%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [86年前的今天永不敢忘](https://www.baidu.com/s?wd=86%E5%B9%B4%E5%89%8D%E7%9A%84%E4%BB%8A%E5%A4%A9%E6%B0%B8%E4%B8%8D%E6%95%A2%E5%BF%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [知情人称李玟疑因窒息死亡 家属发声](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0%E6%9D%8E%E7%8E%9F%E7%96%91%E5%9B%A0%E7%AA%92%E6%81%AF%E6%AD%BB%E4%BA%A1+%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [学生被老师批评后坠亡 家长索赔1元](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E8%A2%AB%E8%80%81%E5%B8%88%E6%89%B9%E8%AF%84%E5%90%8E%E5%9D%A0%E4%BA%A1+%E5%AE%B6%E9%95%BF%E7%B4%A2%E8%B5%941%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [科学家：地球正处12.5万年来最热期](https://www.baidu.com/s?wd=%E7%A7%91%E5%AD%A6%E5%AE%B6%EF%BC%9A%E5%9C%B0%E7%90%83%E6%AD%A3%E5%A4%8412.5%E4%B8%87%E5%B9%B4%E6%9D%A5%E6%9C%80%E7%83%AD%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [母亲为百元毒品将儿子送给毒贩](https://www.baidu.com/s?wd=%E6%AF%8D%E4%BA%B2%E4%B8%BA%E7%99%BE%E5%85%83%E6%AF%92%E5%93%81%E5%B0%86%E5%84%BF%E5%AD%90%E9%80%81%E7%BB%99%E6%AF%92%E8%B4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [周末宅家必备宝藏零食](https://www.baidu.com/s?wd=%E5%91%A8%E6%9C%AB%E5%AE%85%E5%AE%B6%E5%BF%85%E5%A4%87%E5%AE%9D%E8%97%8F%E9%9B%B6%E9%A3%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [宋轶真换了头像](https://www.baidu.com/s?wd=%E5%AE%8B%E8%BD%B6%E7%9C%9F%E6%8D%A2%E4%BA%86%E5%A4%B4%E5%83%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -40,10 +40,10 @@
 
 1. [勇立潮头谱新篇](https://www.baidu.com/s?wd=%E5%8B%87%E7%AB%8B%E6%BD%AE%E5%A4%B4%E8%B0%B1%E6%96%B0%E7%AF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [耶伦将与李强总理会面？外交部回应](https://www.baidu.com/s?wd=%E8%80%B6%E4%BC%A6%E5%B0%86%E4%B8%8E%E6%9D%8E%E5%BC%BA%E6%80%BB%E7%90%86%E4%BC%9A%E9%9D%A2%EF%BC%9F%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [科学家：地球正处12.5万年来最热期](https://www.baidu.com/s?wd=%E7%A7%91%E5%AD%A6%E5%AE%B6%EF%BC%9A%E5%9C%B0%E7%90%83%E6%AD%A3%E5%A4%8412.5%E4%B8%87%E5%B9%B4%E6%9D%A5%E6%9C%80%E7%83%AD%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [学生被老师批评后坠亡 家长索赔1元](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E8%A2%AB%E8%80%81%E5%B8%88%E6%89%B9%E8%AF%84%E5%90%8E%E5%9D%A0%E4%BA%A1+%E5%AE%B6%E9%95%BF%E7%B4%A2%E8%B5%941%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [86年前的今天永不敢忘](https://www.baidu.com/s?wd=86%E5%B9%B4%E5%89%8D%E7%9A%84%E4%BB%8A%E5%A4%A9%E6%B0%B8%E4%B8%8D%E6%95%A2%E5%BF%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [知情人称李玟疑因窒息死亡 家属发声](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0%E6%9D%8E%E7%8E%9F%E7%96%91%E5%9B%A0%E7%AA%92%E6%81%AF%E6%AD%BB%E4%BA%A1+%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [学生被老师批评后坠亡 家长索赔1元](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E8%A2%AB%E8%80%81%E5%B8%88%E6%89%B9%E8%AF%84%E5%90%8E%E5%9D%A0%E4%BA%A1+%E5%AE%B6%E9%95%BF%E7%B4%A2%E8%B5%941%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [科学家：地球正处12.5万年来最热期](https://www.baidu.com/s?wd=%E7%A7%91%E5%AD%A6%E5%AE%B6%EF%BC%9A%E5%9C%B0%E7%90%83%E6%AD%A3%E5%A4%8412.5%E4%B8%87%E5%B9%B4%E6%9D%A5%E6%9C%80%E7%83%AD%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [母亲为百元毒品将儿子送给毒贩](https://www.baidu.com/s?wd=%E6%AF%8D%E4%BA%B2%E4%B8%BA%E7%99%BE%E5%85%83%E6%AF%92%E5%93%81%E5%B0%86%E5%84%BF%E5%AD%90%E9%80%81%E7%BB%99%E6%AF%92%E8%B4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [周末宅家必备宝藏零食](https://www.baidu.com/s?wd=%E5%91%A8%E6%9C%AB%E5%AE%85%E5%AE%B6%E5%BF%85%E5%A4%87%E5%AE%9D%E8%97%8F%E9%9B%B6%E9%A3%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [宋轶真换了头像](https://www.baidu.com/s?wd=%E5%AE%8B%E8%BD%B6%E7%9C%9F%E6%8D%A2%E4%BA%86%E5%A4%B4%E5%83%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
