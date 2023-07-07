@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 06:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 06:35:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. []()<br />
 7. [海关总署宣布禁止进口日本福岛等十个县食品，对日本其他地区食品严格实施 100% 查验，将有何影响？](https://www.zhihu.com/question/610813662)<br />
 8. [9 是个位数里最大的数字，99 是十位数里最大的数字，那么以此类推，世界上最大的数字就是奇数，有没有问题？](https://www.zhihu.com/question/608857133)<br />
-9. [全球每年 5 % 成年人患抑郁症，中低收入国家八九成患者未诊治，如何有效提高抑郁症就诊率？](https://www.zhihu.com/question/610868314)<br />
+9. []()<br />
 
 > 百度  
 
@@ -34,7 +34,7 @@
 6. [韩国幽灵婴儿案增至867起](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E5%B9%BD%E7%81%B5%E5%A9%B4%E5%84%BF%E6%A1%88%E5%A2%9E%E8%87%B3867%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [曾毅竟然50岁了](https://www.baidu.com/s?wd=%E6%9B%BE%E6%AF%85%E7%AB%9F%E7%84%B650%E5%B2%81%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [妻子修手机花70元被丈夫扇耳光](https://www.baidu.com/s?wd=%E5%A6%BB%E5%AD%90%E4%BF%AE%E6%89%8B%E6%9C%BA%E8%8A%B170%E5%85%83%E8%A2%AB%E4%B8%88%E5%A4%AB%E6%89%87%E8%80%B3%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [学生被老师批评后坠亡 家长索赔1元](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E8%A2%AB%E8%80%81%E5%B8%88%E6%89%B9%E8%AF%84%E5%90%8E%E5%9D%A0%E4%BA%A1+%E5%AE%B6%E9%95%BF%E7%B4%A2%E8%B5%941%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [拜登演讲时频频踢讲台还想站上去](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E6%BC%94%E8%AE%B2%E6%97%B6%E9%A2%91%E9%A2%91%E8%B8%A2%E8%AE%B2%E5%8F%B0%E8%BF%98%E6%83%B3%E7%AB%99%E4%B8%8A%E5%8E%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [韩国幽灵婴儿案增至867起](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E5%B9%BD%E7%81%B5%E5%A9%B4%E5%84%BF%E6%A1%88%E5%A2%9E%E8%87%B3867%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [曾毅竟然50岁了](https://www.baidu.com/s?wd=%E6%9B%BE%E6%AF%85%E7%AB%9F%E7%84%B650%E5%B2%81%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [妻子修手机花70元被丈夫扇耳光](https://www.baidu.com/s?wd=%E5%A6%BB%E5%AD%90%E4%BF%AE%E6%89%8B%E6%9C%BA%E8%8A%B170%E5%85%83%E8%A2%AB%E4%B8%88%E5%A4%AB%E6%89%87%E8%80%B3%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [学生被老师批评后坠亡 家长索赔1元](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E8%A2%AB%E8%80%81%E5%B8%88%E6%89%B9%E8%AF%84%E5%90%8E%E5%9D%A0%E4%BA%A1+%E5%AE%B6%E9%95%BF%E7%B4%A2%E8%B5%941%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [拜登演讲时频频踢讲台还想站上去](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E6%BC%94%E8%AE%B2%E6%97%B6%E9%A2%91%E9%A2%91%E8%B8%A2%E8%AE%B2%E5%8F%B0%E8%BF%98%E6%83%B3%E7%AB%99%E4%B8%8A%E5%8E%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
