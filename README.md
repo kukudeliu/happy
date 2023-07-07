@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 04:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 04:33:01</h4></div>
 
 > 微博  
 
@@ -17,8 +17,8 @@
 1. [年轻人开「电动轮椅」上下班，相关产品销量猛涨，律师称不违法，只能从道德层面评价，如何看待这一现象？](https://www.zhihu.com/question/610638966)<br />
 2. [2023 上半年仅北京、杭州卖地收入超千亿，更多城市不足百亿，如何解读这一数据？释放哪些信号？](https://www.zhihu.com/question/610863406)<br />
 3. [消息称特斯拉上海超级工厂裁员，电池一期砍掉 50%，此次裁员背后原因有哪些？对特斯拉中国业务有何影响？](https://www.zhihu.com/question/610755769)<br />
-4. [比亚迪特斯拉等车企签署承诺书，不以非正常价格扰乱市场公平竞争秩序，将带来哪些影响？](https://www.zhihu.com/question/610644843)<br />
-5. [牛顿的科学观都不足以让他放弃他的神学信仰吗？](https://www.zhihu.com/question/607982401)<br />
+4. [牛顿的科学观都不足以让他放弃他的神学信仰吗？](https://www.zhihu.com/question/607982401)<br />
+5. [比亚迪特斯拉等车企签署承诺书，不以非正常价格扰乱市场公平竞争秩序，将带来哪些影响？](https://www.zhihu.com/question/610644843)<br />
 6. [「原来骑手知道我在看配送进度」引发网友热议，你点外卖会看配送进度吗？看进度是为了催单还是其他什么考虑？](https://www.zhihu.com/question/610819713)<br />
 7. [电热水器该怎么选择？](https://www.zhihu.com/question/490950851)<br />
 8. []()<br />
@@ -33,8 +33,8 @@
 5. [邓伦被申请强制执行](https://www.baidu.com/s?wd=%E9%82%93%E4%BC%A6%E8%A2%AB%E7%94%B3%E8%AF%B7%E5%BC%BA%E5%88%B6%E6%89%A7%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [知情人称李玟疑因窒息死亡 家属发声](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0%E6%9D%8E%E7%8E%9F%E7%96%91%E5%9B%A0%E7%AA%92%E6%81%AF%E6%AD%BB%E4%BA%A1+%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [拜登演讲时频频踢讲台还想站上去](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E6%BC%94%E8%AE%B2%E6%97%B6%E9%A2%91%E9%A2%91%E8%B8%A2%E8%AE%B2%E5%8F%B0%E8%BF%98%E6%83%B3%E7%AB%99%E4%B8%8A%E5%8E%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [科学家：地球正处12.5万年来最热期](https://www.baidu.com/s?wd=%E7%A7%91%E5%AD%A6%E5%AE%B6%EF%BC%9A%E5%9C%B0%E7%90%83%E6%AD%A3%E5%A4%8412.5%E4%B8%87%E5%B9%B4%E6%9D%A5%E6%9C%80%E7%83%AD%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [法国男子40度高温“包场”逛长城](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E7%94%B7%E5%AD%9040%E5%BA%A6%E9%AB%98%E6%B8%A9%E2%80%9C%E5%8C%85%E5%9C%BA%E2%80%9D%E9%80%9B%E9%95%BF%E5%9F%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [32层高楼外墙脱落像爆炸现场](https://www.baidu.com/s?wd=32%E5%B1%82%E9%AB%98%E6%A5%BC%E5%A4%96%E5%A2%99%E8%84%B1%E8%90%BD%E5%83%8F%E7%88%86%E7%82%B8%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [亮证逃查酒驾事件执勤辅警为何被辞](https://www.baidu.com/s?wd=%E4%BA%AE%E8%AF%81%E9%80%83%E6%9F%A5%E9%85%92%E9%A9%BE%E4%BA%8B%E4%BB%B6%E6%89%A7%E5%8B%A4%E8%BE%85%E8%AD%A6%E4%B8%BA%E4%BD%95%E8%A2%AB%E8%BE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [邓伦被申请强制执行](https://www.baidu.com/s?wd=%E9%82%93%E4%BC%A6%E8%A2%AB%E7%94%B3%E8%AF%B7%E5%BC%BA%E5%88%B6%E6%89%A7%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [知情人称李玟疑因窒息死亡 家属发声](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0%E6%9D%8E%E7%8E%9F%E7%96%91%E5%9B%A0%E7%AA%92%E6%81%AF%E6%AD%BB%E4%BA%A1+%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [拜登演讲时频频踢讲台还想站上去](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E6%BC%94%E8%AE%B2%E6%97%B6%E9%A2%91%E9%A2%91%E8%B8%A2%E8%AE%B2%E5%8F%B0%E8%BF%98%E6%83%B3%E7%AB%99%E4%B8%8A%E5%8E%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [科学家：地球正处12.5万年来最热期](https://www.baidu.com/s?wd=%E7%A7%91%E5%AD%A6%E5%AE%B6%EF%BC%9A%E5%9C%B0%E7%90%83%E6%AD%A3%E5%A4%8412.5%E4%B8%87%E5%B9%B4%E6%9D%A5%E6%9C%80%E7%83%AD%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [法国男子40度高温“包场”逛长城](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E7%94%B7%E5%AD%9040%E5%BA%A6%E9%AB%98%E6%B8%A9%E2%80%9C%E5%8C%85%E5%9C%BA%E2%80%9D%E9%80%9B%E9%95%BF%E5%9F%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [32层高楼外墙脱落像爆炸现场](https://www.baidu.com/s?wd=32%E5%B1%82%E9%AB%98%E6%A5%BC%E5%A4%96%E5%A2%99%E8%84%B1%E8%90%BD%E5%83%8F%E7%88%86%E7%82%B8%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [亮证逃查酒驾事件执勤辅警为何被辞](https://www.baidu.com/s?wd=%E4%BA%AE%E8%AF%81%E9%80%83%E6%9F%A5%E9%85%92%E9%A9%BE%E4%BA%8B%E4%BB%B6%E6%89%A7%E5%8B%A4%E8%BE%85%E8%AD%A6%E4%B8%BA%E4%BD%95%E8%A2%AB%E8%BE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
