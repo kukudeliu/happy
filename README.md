@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-07 13:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-07 13:11:01</h4></div>
 
 > 微博  
 
@@ -16,13 +16,13 @@
 
 1. [三亚一海鲜店短斤缺两罚款 30 万，涉事商户被清退出场，将起到哪些警示作用？](https://www.zhihu.com/question/610555575)<br />
 2. [比亚迪特斯拉等车企签署承诺书，不以非正常价格扰乱市场公平竞争秩序，将带来哪些影响？](https://www.zhihu.com/question/610644843)<br />
-3. []()<br />
-4. [为什么摄像机的镜头不能摸，但是手机镜头能摸？](https://www.zhihu.com/question/610269078)<br />
-5. [澳大利亚允许摇头丸作为处方药，系全球首例，如何解读该政策？可能引发哪些问题？](https://www.zhihu.com/question/610426495)<br />
-6. [当地文旅局回应「淄博凉了」，称市中心客流依然较多，正积极出台政策助力淄博，哪些信息值得关注？](https://www.zhihu.com/question/610665108)<br />
-7. [如何看待今年高考报志愿法学爆满的情况？](https://www.zhihu.com/question/610440391)<br />
-8. [男朋友的工资该由我保管吗？](https://www.zhihu.com/question/609500858)<br />
-9. [海关总署回应 IAEA 发布福岛核污染水处置报告，宣布禁止进口日本福岛等十地食品，有哪些信息值得关注？](https://www.zhihu.com/question/610811776)<br />
+3. [为什么摄像机的镜头不能摸，但是手机镜头能摸？](https://www.zhihu.com/question/610269078)<br />
+4. [澳大利亚允许摇头丸作为处方药，系全球首例，如何解读该政策？可能引发哪些问题？](https://www.zhihu.com/question/610426495)<br />
+5. [当地文旅局回应「淄博凉了」，称市中心客流依然较多，正积极出台政策助力淄博，哪些信息值得关注？](https://www.zhihu.com/question/610665108)<br />
+6. [如何看待今年高考报志愿法学爆满的情况？](https://www.zhihu.com/question/610440391)<br />
+7. [男朋友的工资该由我保管吗？](https://www.zhihu.com/question/609500858)<br />
+8. [海关总署回应 IAEA 发布福岛核污染水处置报告，宣布禁止进口日本福岛等十地食品，有哪些信息值得关注？](https://www.zhihu.com/question/610811776)<br />
+9. [为什么越来越多人买三级空调？](https://www.zhihu.com/question/601063590)<br />
 
 > 百度  
 
