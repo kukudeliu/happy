@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 04:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 04:12:02</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [取2.5万存款被盘问用途合规吗](https://s.weibo.com/weibo?q=%23%E5%8F%962.5%E4%B8%87%E5%AD%98%E6%AC%BE%E8%A2%AB%E7%9B%98%E9%97%AE%E7%94%A8%E9%80%94%E5%90%88%E8%A7%84%E5%90%97%23&t=31&band_rank=4&Refer=top)<br />
 5. [对这期跑男越来越感兴趣了](https://s.weibo.com/weibo?q=%23%E5%AF%B9%E8%BF%99%E6%9C%9F%E8%B7%91%E7%94%B7%E8%B6%8A%E6%9D%A5%E8%B6%8A%E6%84%9F%E5%85%B4%E8%B6%A3%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [孙红雷 他说的全是我的词啊](https://s.weibo.com/weibo?q=%E5%AD%99%E7%BA%A2%E9%9B%B7%20%E4%BB%96%E8%AF%B4%E7%9A%84%E5%85%A8%E6%98%AF%E6%88%91%E7%9A%84%E8%AF%8D%E5%95%8A&t=31&band_rank=6&Refer=top)<br />
-7. [TFBOYS会合体集训](https://s.weibo.com/weibo?q=%23TFBOYS%E4%BC%9A%E5%90%88%E4%BD%93%E9%9B%86%E8%AE%AD%23&t=31&band_rank=7&Refer=top)<br />
-8. [天津发现一例猴痘](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E5%8F%91%E7%8E%B0%E4%B8%80%E4%BE%8B%E7%8C%B4%E7%97%98%23&t=31&band_rank=8&Refer=top)<br />
-9. [EDG被多次盗窃](https://s.weibo.com/weibo?q=%23EDG%E8%A2%AB%E5%A4%9A%E6%AC%A1%E7%9B%97%E7%AA%83%23&t=31&band_rank=9&Refer=top)<br />
+7. [天津发现一例猴痘](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E5%8F%91%E7%8E%B0%E4%B8%80%E4%BE%8B%E7%8C%B4%E7%97%98%23&t=31&band_rank=7&Refer=top)<br />
+8. [TFBOYS会合体集训](https://s.weibo.com/weibo?q=%23TFBOYS%E4%BC%9A%E5%90%88%E4%BD%93%E9%9B%86%E8%AE%AD%23&t=31&band_rank=8&Refer=top)<br />
+9. [有没有人考虑吴磊的感受](https://s.weibo.com/weibo?q=%23%E6%9C%89%E6%B2%A1%E6%9C%89%E4%BA%BA%E8%80%83%E8%99%91%E5%90%B4%E7%A3%8A%E7%9A%84%E6%84%9F%E5%8F%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -20,8 +20,8 @@
 4. [消息称特斯拉上海超级工厂裁员，电池一期砍掉 50%，此次裁员背后原因有哪些？对特斯拉中国业务有何影响？](https://www.zhihu.com/question/610755769)<br />
 5. [牛顿的科学观都不足以让他放弃他的神学信仰吗？](https://www.zhihu.com/question/607982401)<br />
 6. [电热水器该怎么选择？](https://www.zhihu.com/question/490950851)<br />
-7. []()<br />
-8. [哪个瞬间让你发现了世界的 bug？](https://www.zhihu.com/question/374412997)<br />
+7. [哪个瞬间让你发现了世界的 bug？](https://www.zhihu.com/question/374412997)<br />
+8. []()<br />
 9. []()<br />
 
 > 百度  
