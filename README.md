@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-07 15:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-07 15:37:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [FoFo](https://s.weibo.com/weibo?q=FoFo&t=31&band_rank=6&Refer=top)<br />
 7. [奔跑的安慕希](https://s.weibo.com/weibo?q=%E5%A5%94%E8%B7%91%E7%9A%84%E5%AE%89%E6%85%95%E5%B8%8C&t=31&band_rank=7&Refer=top)<br />
 8. [买香水客服竟然是高中同学](https://s.weibo.com/weibo?q=%23%E4%B9%B0%E9%A6%99%E6%B0%B4%E5%AE%A2%E6%9C%8D%E7%AB%9F%E7%84%B6%E6%98%AF%E9%AB%98%E4%B8%AD%E5%90%8C%E5%AD%A6%23&t=31&band_rank=8&Refer=top)<br />
-9. [驻日美军承认东京17个地区地下水疑受污染](https://s.weibo.com/weibo?q=%23%E9%A9%BB%E6%97%A5%E7%BE%8E%E5%86%9B%E6%89%BF%E8%AE%A4%E4%B8%9C%E4%BA%AC17%E4%B8%AA%E5%9C%B0%E5%8C%BA%E5%9C%B0%E4%B8%8B%E6%B0%B4%E7%96%91%E5%8F%97%E6%B1%A1%E6%9F%93%23&t=31&band_rank=9&Refer=top)<br />
+9. [2岁女孩遇车祸交警喊来妻子哄娃](https://s.weibo.com/weibo?q=%232%E5%B2%81%E5%A5%B3%E5%AD%A9%E9%81%87%E8%BD%A6%E7%A5%B8%E4%BA%A4%E8%AD%A6%E5%96%8A%E6%9D%A5%E5%A6%BB%E5%AD%90%E5%93%84%E5%A8%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
