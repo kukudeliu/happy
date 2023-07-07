@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-07 16:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-07 16:19:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [2岁女孩遇车祸交警喊来妻子哄娃](https://s.weibo.com/weibo?q=%232%E5%B2%81%E5%A5%B3%E5%AD%A9%E9%81%87%E8%BD%A6%E7%A5%B8%E4%BA%A4%E8%AD%A6%E5%96%8A%E6%9D%A5%E5%A6%BB%E5%AD%90%E5%93%84%E5%A8%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [奔跑的安慕希](https://s.weibo.com/weibo?q=%E5%A5%94%E8%B7%91%E7%9A%84%E5%AE%89%E6%85%95%E5%B8%8C&t=31&band_rank=7&Refer=top)<br />
 8. [肖战谈任敏角色](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%B0%88%E4%BB%BB%E6%95%8F%E8%A7%92%E8%89%B2%23&t=31&band_rank=8&Refer=top)<br />
-9. [芝芙杀疯了](https://s.weibo.com/weibo?q=%23%E8%8A%9D%E8%8A%99%E6%9D%80%E7%96%AF%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [gap day是怎么流行起来的](https://s.weibo.com/weibo?q=gap%20day%E6%98%AF%E6%80%8E%E4%B9%88%E6%B5%81%E8%A1%8C%E8%B5%B7%E6%9D%A5%E7%9A%84&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
