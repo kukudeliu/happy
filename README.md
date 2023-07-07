@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 05:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 05:02:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [「原来骑手知道我在看配送进度」引发网友热议，你点外卖会看配送进度吗？看进度是为了催单还是其他什么考虑？](https://www.zhihu.com/question/610819713)<br />
 6. [电热水器该怎么选择？](https://www.zhihu.com/question/490950851)<br />
 7. []()<br />
-8. []()<br />
-9. [高考忘记自己贴没贴条形码了，如果没贴的话监考老师会发现吗？](https://www.zhihu.com/question/605787700)<br />
+8. [高考忘记自己贴没贴条形码了，如果没贴的话监考老师会发现吗？](https://www.zhihu.com/question/605787700)<br />
+9. []()<br />
 
 > 百度  
 
@@ -32,8 +32,8 @@
 4. [筑牢防灾减灾坚固防线](https://www.baidu.com/s?wd=%E7%AD%91%E7%89%A2%E9%98%B2%E7%81%BE%E5%87%8F%E7%81%BE%E5%9D%9A%E5%9B%BA%E9%98%B2%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [邓伦被申请强制执行](https://www.baidu.com/s?wd=%E9%82%93%E4%BC%A6%E8%A2%AB%E7%94%B3%E8%AF%B7%E5%BC%BA%E5%88%B6%E6%89%A7%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [北京接连两天出现双彩虹](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E6%8E%A5%E8%BF%9E%E4%B8%A4%E5%A4%A9%E5%87%BA%E7%8E%B0%E5%8F%8C%E5%BD%A9%E8%99%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [哈尔滨一脚手架倒塌 多人被砸中](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E4%B8%80%E8%84%9A%E6%89%8B%E6%9E%B6%E5%80%92%E5%A1%8C+%E5%A4%9A%E4%BA%BA%E8%A2%AB%E7%A0%B8%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [科学家：地球正处12.5万年来最热期](https://www.baidu.com/s?wd=%E7%A7%91%E5%AD%A6%E5%AE%B6%EF%BC%9A%E5%9C%B0%E7%90%83%E6%AD%A3%E5%A4%8412.5%E4%B8%87%E5%B9%B4%E6%9D%A5%E6%9C%80%E7%83%AD%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [科学家：地球正处12.5万年来最热期](https://www.baidu.com/s?wd=%E7%A7%91%E5%AD%A6%E5%AE%B6%EF%BC%9A%E5%9C%B0%E7%90%83%E6%AD%A3%E5%A4%8412.5%E4%B8%87%E5%B9%B4%E6%9D%A5%E6%9C%80%E7%83%AD%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [哈尔滨一脚手架倒塌 多人被砸中](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E4%B8%80%E8%84%9A%E6%89%8B%E6%9E%B6%E5%80%92%E5%A1%8C+%E5%A4%9A%E4%BA%BA%E8%A2%AB%E7%A0%B8%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [女孩被蛇咬伤奶奶抓蜘蛛吸毒](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E8%A2%AB%E8%9B%87%E5%92%AC%E4%BC%A4%E5%A5%B6%E5%A5%B6%E6%8A%93%E8%9C%98%E8%9B%9B%E5%90%B8%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -44,6 +44,6 @@
 4. [筑牢防灾减灾坚固防线](https://www.baidu.com/s?wd=%E7%AD%91%E7%89%A2%E9%98%B2%E7%81%BE%E5%87%8F%E7%81%BE%E5%9D%9A%E5%9B%BA%E9%98%B2%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [邓伦被申请强制执行](https://www.baidu.com/s?wd=%E9%82%93%E4%BC%A6%E8%A2%AB%E7%94%B3%E8%AF%B7%E5%BC%BA%E5%88%B6%E6%89%A7%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [北京接连两天出现双彩虹](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E6%8E%A5%E8%BF%9E%E4%B8%A4%E5%A4%A9%E5%87%BA%E7%8E%B0%E5%8F%8C%E5%BD%A9%E8%99%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [哈尔滨一脚手架倒塌 多人被砸中](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E4%B8%80%E8%84%9A%E6%89%8B%E6%9E%B6%E5%80%92%E5%A1%8C+%E5%A4%9A%E4%BA%BA%E8%A2%AB%E7%A0%B8%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [科学家：地球正处12.5万年来最热期](https://www.baidu.com/s?wd=%E7%A7%91%E5%AD%A6%E5%AE%B6%EF%BC%9A%E5%9C%B0%E7%90%83%E6%AD%A3%E5%A4%8412.5%E4%B8%87%E5%B9%B4%E6%9D%A5%E6%9C%80%E7%83%AD%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [科学家：地球正处12.5万年来最热期](https://www.baidu.com/s?wd=%E7%A7%91%E5%AD%A6%E5%AE%B6%EF%BC%9A%E5%9C%B0%E7%90%83%E6%AD%A3%E5%A4%8412.5%E4%B8%87%E5%B9%B4%E6%9D%A5%E6%9C%80%E7%83%AD%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [哈尔滨一脚手架倒塌 多人被砸中](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E4%B8%80%E8%84%9A%E6%89%8B%E6%9E%B6%E5%80%92%E5%A1%8C+%E5%A4%9A%E4%BA%BA%E8%A2%AB%E7%A0%B8%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [女孩被蛇咬伤奶奶抓蜘蛛吸毒](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E8%A2%AB%E8%9B%87%E5%92%AC%E4%BC%A4%E5%A5%B6%E5%A5%B6%E6%8A%93%E8%9C%98%E8%9B%9B%E5%90%B8%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
