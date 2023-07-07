@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-07 10:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-07 10:54:02</h4></div>
 
 > 微博  
 
@@ -31,10 +31,10 @@
 3. [布兰妮小甜甜遭NBA状元安保掌掴](https://www.baidu.com/s?wd=%E5%B8%83%E5%85%B0%E5%A6%AE%E5%B0%8F%E7%94%9C%E7%94%9C%E9%81%ADNBA%E7%8A%B6%E5%85%83%E5%AE%89%E4%BF%9D%E6%8E%8C%E6%8E%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [夏日经济火起来](https://www.baidu.com/s?wd=%E5%A4%8F%E6%97%A5%E7%BB%8F%E6%B5%8E%E7%81%AB%E8%B5%B7%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [李玟姐姐：近一周内发现李玟不对劲](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E5%A7%90%E5%A7%90%EF%BC%9A%E8%BF%91%E4%B8%80%E5%91%A8%E5%86%85%E5%8F%91%E7%8E%B0%E6%9D%8E%E7%8E%9F%E4%B8%8D%E5%AF%B9%E5%8A%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男子卖3套房换别墅 刚到手就后悔](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%8D%963%E5%A5%97%E6%88%BF%E6%8D%A2%E5%88%AB%E5%A2%85+%E5%88%9A%E5%88%B0%E6%89%8B%E5%B0%B1%E5%90%8E%E6%82%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [美新型毒品泛滥吸食者如丧尸围城](https://www.baidu.com/s?wd=%E7%BE%8E%E6%96%B0%E5%9E%8B%E6%AF%92%E5%93%81%E6%B3%9B%E6%BB%A5%E5%90%B8%E9%A3%9F%E8%80%85%E5%A6%82%E4%B8%A7%E5%B0%B8%E5%9B%B4%E5%9F%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [美新型毒品泛滥吸食者如丧尸围城](https://www.baidu.com/s?wd=%E7%BE%8E%E6%96%B0%E5%9E%8B%E6%AF%92%E5%93%81%E6%B3%9B%E6%BB%A5%E5%90%B8%E9%A3%9F%E8%80%85%E5%A6%82%E4%B8%A7%E5%B0%B8%E5%9B%B4%E5%9F%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子卖3套房换别墅 刚到手就后悔](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%8D%963%E5%A5%97%E6%88%BF%E6%8D%A2%E5%88%AB%E5%A2%85+%E5%88%9A%E5%88%B0%E6%89%8B%E5%B0%B1%E5%90%8E%E6%82%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [周星驰看王宝强新电影说“服了”](https://www.baidu.com/s?wd=%E5%91%A8%E6%98%9F%E9%A9%B0%E7%9C%8B%E7%8E%8B%E5%AE%9D%E5%BC%BA%E6%96%B0%E7%94%B5%E5%BD%B1%E8%AF%B4%E2%80%9C%E6%9C%8D%E4%BA%86%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [曝光掏警证事件辅警系执勤违规被辞](https://www.baidu.com/s?wd=%E6%9B%9D%E5%85%89%E6%8E%8F%E8%AD%A6%E8%AF%81%E4%BA%8B%E4%BB%B6%E8%BE%85%E8%AD%A6%E7%B3%BB%E6%89%A7%E5%8B%A4%E8%BF%9D%E8%A7%84%E8%A2%AB%E8%BE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [“清华选美冠军”将出国攻读博士](https://www.baidu.com/s?wd=%E2%80%9C%E6%B8%85%E5%8D%8E%E9%80%89%E7%BE%8E%E5%86%A0%E5%86%9B%E2%80%9D%E5%B0%86%E5%87%BA%E5%9B%BD%E6%94%BB%E8%AF%BB%E5%8D%9A%E5%A3%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [布兰妮小甜甜遭NBA状元安保掌掴](https://www.baidu.com/s?wd=%E5%B8%83%E5%85%B0%E5%A6%AE%E5%B0%8F%E7%94%9C%E7%94%9C%E9%81%ADNBA%E7%8A%B6%E5%85%83%E5%AE%89%E4%BF%9D%E6%8E%8C%E6%8E%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [夏日经济火起来](https://www.baidu.com/s?wd=%E5%A4%8F%E6%97%A5%E7%BB%8F%E6%B5%8E%E7%81%AB%E8%B5%B7%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [李玟姐姐：近一周内发现李玟不对劲](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E5%A7%90%E5%A7%90%EF%BC%9A%E8%BF%91%E4%B8%80%E5%91%A8%E5%86%85%E5%8F%91%E7%8E%B0%E6%9D%8E%E7%8E%9F%E4%B8%8D%E5%AF%B9%E5%8A%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男子卖3套房换别墅 刚到手就后悔](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%8D%963%E5%A5%97%E6%88%BF%E6%8D%A2%E5%88%AB%E5%A2%85+%E5%88%9A%E5%88%B0%E6%89%8B%E5%B0%B1%E5%90%8E%E6%82%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [美新型毒品泛滥吸食者如丧尸围城](https://www.baidu.com/s?wd=%E7%BE%8E%E6%96%B0%E5%9E%8B%E6%AF%92%E5%93%81%E6%B3%9B%E6%BB%A5%E5%90%B8%E9%A3%9F%E8%80%85%E5%A6%82%E4%B8%A7%E5%B0%B8%E5%9B%B4%E5%9F%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [美新型毒品泛滥吸食者如丧尸围城](https://www.baidu.com/s?wd=%E7%BE%8E%E6%96%B0%E5%9E%8B%E6%AF%92%E5%93%81%E6%B3%9B%E6%BB%A5%E5%90%B8%E9%A3%9F%E8%80%85%E5%A6%82%E4%B8%A7%E5%B0%B8%E5%9B%B4%E5%9F%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子卖3套房换别墅 刚到手就后悔](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%8D%963%E5%A5%97%E6%88%BF%E6%8D%A2%E5%88%AB%E5%A2%85+%E5%88%9A%E5%88%B0%E6%89%8B%E5%B0%B1%E5%90%8E%E6%82%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [周星驰看王宝强新电影说“服了”](https://www.baidu.com/s?wd=%E5%91%A8%E6%98%9F%E9%A9%B0%E7%9C%8B%E7%8E%8B%E5%AE%9D%E5%BC%BA%E6%96%B0%E7%94%B5%E5%BD%B1%E8%AF%B4%E2%80%9C%E6%9C%8D%E4%BA%86%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [曝光掏警证事件辅警系执勤违规被辞](https://www.baidu.com/s?wd=%E6%9B%9D%E5%85%89%E6%8E%8F%E8%AD%A6%E8%AF%81%E4%BA%8B%E4%BB%B6%E8%BE%85%E8%AD%A6%E7%B3%BB%E6%89%A7%E5%8B%A4%E8%BF%9D%E8%A7%84%E8%A2%AB%E8%BE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [“清华选美冠军”将出国攻读博士](https://www.baidu.com/s?wd=%E2%80%9C%E6%B8%85%E5%8D%8E%E9%80%89%E7%BE%8E%E5%86%A0%E5%86%9B%E2%80%9D%E5%B0%86%E5%87%BA%E5%9B%BD%E6%94%BB%E8%AF%BB%E5%8D%9A%E5%A3%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
