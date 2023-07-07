@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 06:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 06:47:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [「原来骑手知道我在看配送进度」引发网友热议，你点外卖会看配送进度吗？看进度是为了催单还是其他什么考虑？](https://www.zhihu.com/question/610819713)<br />
 6. []()<br />
 7. [9 是个位数里最大的数字，99 是十位数里最大的数字，那么以此类推，世界上最大的数字就是奇数，有没有问题？](https://www.zhihu.com/question/608857133)<br />
-8. [海关总署宣布禁止进口日本福岛等十个县食品，对日本其他地区食品严格实施 100% 查验，将有何影响？](https://www.zhihu.com/question/610813662)<br />
-9. [学校要求教师不要晒暑假旅游照片，该规定合理吗？](https://www.zhihu.com/question/610704275)<br />
+8. [学校要求教师不要晒暑假旅游照片，该规定合理吗？](https://www.zhihu.com/question/610704275)<br />
+9. [哪个瞬间让你发现了世界的 bug？](https://www.zhihu.com/question/374412997)<br />
 
 > 百度  
 
@@ -33,8 +33,8 @@
 5. [邓伦被申请强制执行](https://www.baidu.com/s?wd=%E9%82%93%E4%BC%A6%E8%A2%AB%E7%94%B3%E8%AF%B7%E5%BC%BA%E5%88%B6%E6%89%A7%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [韩国幽灵婴儿案增至867起](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E5%B9%BD%E7%81%B5%E5%A9%B4%E5%84%BF%E6%A1%88%E5%A2%9E%E8%87%B3867%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [曾毅竟然50岁了](https://www.baidu.com/s?wd=%E6%9B%BE%E6%AF%85%E7%AB%9F%E7%84%B650%E5%B2%81%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [妻子修手机花70元被丈夫扇耳光](https://www.baidu.com/s?wd=%E5%A6%BB%E5%AD%90%E4%BF%AE%E6%89%8B%E6%9C%BA%E8%8A%B170%E5%85%83%E8%A2%AB%E4%B8%88%E5%A4%AB%E6%89%87%E8%80%B3%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [亮证逃查酒驾事件执勤辅警为何被辞](https://www.baidu.com/s?wd=%E4%BA%AE%E8%AF%81%E9%80%83%E6%9F%A5%E9%85%92%E9%A9%BE%E4%BA%8B%E4%BB%B6%E6%89%A7%E5%8B%A4%E8%BE%85%E8%AD%A6%E4%B8%BA%E4%BD%95%E8%A2%AB%E8%BE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [亮证逃查酒驾事件执勤辅警为何被辞](https://www.baidu.com/s?wd=%E4%BA%AE%E8%AF%81%E9%80%83%E6%9F%A5%E9%85%92%E9%A9%BE%E4%BA%8B%E4%BB%B6%E6%89%A7%E5%8B%A4%E8%BE%85%E8%AD%A6%E4%B8%BA%E4%BD%95%E8%A2%AB%E8%BE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [妻子修手机花70元被丈夫扇耳光](https://www.baidu.com/s?wd=%E5%A6%BB%E5%AD%90%E4%BF%AE%E6%89%8B%E6%9C%BA%E8%8A%B170%E5%85%83%E8%A2%AB%E4%B8%88%E5%A4%AB%E6%89%87%E8%80%B3%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [邓伦被申请强制执行](https://www.baidu.com/s?wd=%E9%82%93%E4%BC%A6%E8%A2%AB%E7%94%B3%E8%AF%B7%E5%BC%BA%E5%88%B6%E6%89%A7%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [韩国幽灵婴儿案增至867起](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E5%B9%BD%E7%81%B5%E5%A9%B4%E5%84%BF%E6%A1%88%E5%A2%9E%E8%87%B3867%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [曾毅竟然50岁了](https://www.baidu.com/s?wd=%E6%9B%BE%E6%AF%85%E7%AB%9F%E7%84%B650%E5%B2%81%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [妻子修手机花70元被丈夫扇耳光](https://www.baidu.com/s?wd=%E5%A6%BB%E5%AD%90%E4%BF%AE%E6%89%8B%E6%9C%BA%E8%8A%B170%E5%85%83%E8%A2%AB%E4%B8%88%E5%A4%AB%E6%89%87%E8%80%B3%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [亮证逃查酒驾事件执勤辅警为何被辞](https://www.baidu.com/s?wd=%E4%BA%AE%E8%AF%81%E9%80%83%E6%9F%A5%E9%85%92%E9%A9%BE%E4%BA%8B%E4%BB%B6%E6%89%A7%E5%8B%A4%E8%BE%85%E8%AD%A6%E4%B8%BA%E4%BD%95%E8%A2%AB%E8%BE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [亮证逃查酒驾事件执勤辅警为何被辞](https://www.baidu.com/s?wd=%E4%BA%AE%E8%AF%81%E9%80%83%E6%9F%A5%E9%85%92%E9%A9%BE%E4%BA%8B%E4%BB%B6%E6%89%A7%E5%8B%A4%E8%BE%85%E8%AD%A6%E4%B8%BA%E4%BD%95%E8%A2%AB%E8%BE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [妻子修手机花70元被丈夫扇耳光](https://www.baidu.com/s?wd=%E5%A6%BB%E5%AD%90%E4%BF%AE%E6%89%8B%E6%9C%BA%E8%8A%B170%E5%85%83%E8%A2%AB%E4%B8%88%E5%A4%AB%E6%89%87%E8%80%B3%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
