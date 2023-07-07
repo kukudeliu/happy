@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 04:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 04:18:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [牛顿的科学观都不足以让他放弃他的神学信仰吗？](https://www.zhihu.com/question/607982401)<br />
 6. [电热水器该怎么选择？](https://www.zhihu.com/question/490950851)<br />
 7. []()<br />
-8. [哪个瞬间让你发现了世界的 bug？](https://www.zhihu.com/question/374412997)<br />
-9. []()<br />
+8. []()<br />
+9. [电影《八角笼中》为何口碑两极分化，你对该电影有哪些评价？](https://www.zhihu.com/question/607969019)<br />
 
 > 百度  
 
