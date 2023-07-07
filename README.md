@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 03:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 03:27:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [TFBOYS会合体集训](https://s.weibo.com/weibo?q=%23TFBOYS%E4%BC%9A%E5%90%88%E4%BD%93%E9%9B%86%E8%AE%AD%23&t=31&band_rank=6&Refer=top)<br />
 7. [奔跑吧没播](https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%E6%B2%A1%E6%92%AD%23&t=31&band_rank=7&Refer=top)<br />
 8. [长风渡改编](https://s.weibo.com/weibo?q=%E9%95%BF%E9%A3%8E%E6%B8%A1%E6%94%B9%E7%BC%96&t=31&band_rank=8&Refer=top)<br />
-9. [孙红雷 他说的全是我的词啊](https://s.weibo.com/weibo?q=%E5%AD%99%E7%BA%A2%E9%9B%B7%20%E4%BB%96%E8%AF%B4%E7%9A%84%E5%85%A8%E6%98%AF%E6%88%91%E7%9A%84%E8%AF%8D%E5%95%8A&t=31&band_rank=9&Refer=top)<br />
+9. [EDG被多次盗窃](https://s.weibo.com/weibo?q=%23EDG%E8%A2%AB%E5%A4%9A%E6%AC%A1%E7%9B%97%E7%AA%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -19,9 +19,9 @@
 3. [2023 上半年仅北京、杭州卖地收入超千亿，更多城市不足百亿，如何解读这一数据？释放哪些信号？](https://www.zhihu.com/question/610863406)<br />
 4. [消息称特斯拉上海超级工厂裁员，电池一期砍掉 50%，此次裁员背后原因有哪些？对特斯拉中国业务有何影响？](https://www.zhihu.com/question/610755769)<br />
 5. [牛顿的科学观都不足以让他放弃他的神学信仰吗？](https://www.zhihu.com/question/607982401)<br />
-6. [全球每年 5 % 成年人患抑郁症，中低收入国家八九成患者未诊治，如何有效提高抑郁症就诊率？](https://www.zhihu.com/question/610868314)<br />
-7. [电热水器该怎么选择？](https://www.zhihu.com/question/490950851)<br />
-8. [高考忘记自己贴没贴条形码了，如果没贴的话监考老师会发现吗？](https://www.zhihu.com/question/605787700)<br />
+6. [电热水器该怎么选择？](https://www.zhihu.com/question/490950851)<br />
+7. [高考忘记自己贴没贴条形码了，如果没贴的话监考老师会发现吗？](https://www.zhihu.com/question/605787700)<br />
+8. [全球每年 5 % 成年人患抑郁症，中低收入国家八九成患者未诊治，如何有效提高抑郁症就诊率？](https://www.zhihu.com/question/610868314)<br />
 9. [电影《八角笼中》为何口碑两极分化，你对该电影有哪些评价？](https://www.zhihu.com/question/607969019)<br />
 
 > 百度  
