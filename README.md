@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 05:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 05:10:01</h4></div>
 
 > 微博  
 
@@ -19,10 +19,10 @@
 3. [消息称特斯拉上海超级工厂裁员，电池一期砍掉 50%，此次裁员背后原因有哪些？对特斯拉中国业务有何影响？](https://www.zhihu.com/question/610755769)<br />
 4. [牛顿的科学观都不足以让他放弃他的神学信仰吗？](https://www.zhihu.com/question/607982401)<br />
 5. [「原来骑手知道我在看配送进度」引发网友热议，你点外卖会看配送进度吗？看进度是为了催单还是其他什么考虑？](https://www.zhihu.com/question/610819713)<br />
-6. [高考忘记自己贴没贴条形码了，如果没贴的话监考老师会发现吗？](https://www.zhihu.com/question/605787700)<br />
+6. []()<br />
 7. []()<br />
-8. []()<br />
-9. []()<br />
+8. [高考忘记自己贴没贴条形码了，如果没贴的话监考老师会发现吗？](https://www.zhihu.com/question/605787700)<br />
+9. [怎么学英语才能达到看懂英文原著的水平?](https://www.zhihu.com/question/435733093)<br />
 
 > 百度  
 
@@ -31,10 +31,10 @@
 3. [外媒：扎波罗热地区发生爆炸](https://www.baidu.com/s?wd=%E5%A4%96%E5%AA%92%EF%BC%9A%E6%89%8E%E6%B3%A2%E7%BD%97%E7%83%AD%E5%9C%B0%E5%8C%BA%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [筑牢防灾减灾坚固防线](https://www.baidu.com/s?wd=%E7%AD%91%E7%89%A2%E9%98%B2%E7%81%BE%E5%87%8F%E7%81%BE%E5%9D%9A%E5%9B%BA%E9%98%B2%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [邓伦被申请强制执行](https://www.baidu.com/s?wd=%E9%82%93%E4%BC%A6%E8%A2%AB%E7%94%B3%E8%AF%B7%E5%BC%BA%E5%88%B6%E6%89%A7%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [大爷一铁锹拍蒙歹徒被评见义勇为](https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E4%B8%80%E9%93%81%E9%94%B9%E6%8B%8D%E8%92%99%E6%AD%B9%E5%BE%92%E8%A2%AB%E8%AF%84%E8%A7%81%E4%B9%89%E5%8B%87%E4%B8%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [科学家：地球正处12.5万年来最热期](https://www.baidu.com/s?wd=%E7%A7%91%E5%AD%A6%E5%AE%B6%EF%BC%9A%E5%9C%B0%E7%90%83%E6%AD%A3%E5%A4%8412.5%E4%B8%87%E5%B9%B4%E6%9D%A5%E6%9C%80%E7%83%AD%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [曾毅竟然50岁了](https://www.baidu.com/s?wd=%E6%9B%BE%E6%AF%85%E7%AB%9F%E7%84%B650%E5%B2%81%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [暑期游迎来首个高峰](https://www.baidu.com/s?wd=%E6%9A%91%E6%9C%9F%E6%B8%B8%E8%BF%8E%E6%9D%A5%E9%A6%96%E4%B8%AA%E9%AB%98%E5%B3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [厄尔尼诺或对中国气候产生哪些影响](https://www.baidu.com/s?wd=%E5%8E%84%E5%B0%94%E5%B0%BC%E8%AF%BA%E6%88%96%E5%AF%B9%E4%B8%AD%E5%9B%BD%E6%B0%94%E5%80%99%E4%BA%A7%E7%94%9F%E5%93%AA%E4%BA%9B%E5%BD%B1%E5%93%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [曾毅竟然50岁了](https://www.baidu.com/s?wd=%E6%9B%BE%E6%AF%85%E7%AB%9F%E7%84%B650%E5%B2%81%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [iPhone15系列8月将量产](https://www.baidu.com/s?wd=iPhone15%E7%B3%BB%E5%88%978%E6%9C%88%E5%B0%86%E9%87%8F%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [科学家：地球正处12.5万年来最热期](https://www.baidu.com/s?wd=%E7%A7%91%E5%AD%A6%E5%AE%B6%EF%BC%9A%E5%9C%B0%E7%90%83%E6%AD%A3%E5%A4%8412.5%E4%B8%87%E5%B9%B4%E6%9D%A5%E6%9C%80%E7%83%AD%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [外媒：扎波罗热地区发生爆炸](https://www.baidu.com/s?wd=%E5%A4%96%E5%AA%92%EF%BC%9A%E6%89%8E%E6%B3%A2%E7%BD%97%E7%83%AD%E5%9C%B0%E5%8C%BA%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [筑牢防灾减灾坚固防线](https://www.baidu.com/s?wd=%E7%AD%91%E7%89%A2%E9%98%B2%E7%81%BE%E5%87%8F%E7%81%BE%E5%9D%9A%E5%9B%BA%E9%98%B2%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [邓伦被申请强制执行](https://www.baidu.com/s?wd=%E9%82%93%E4%BC%A6%E8%A2%AB%E7%94%B3%E8%AF%B7%E5%BC%BA%E5%88%B6%E6%89%A7%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [大爷一铁锹拍蒙歹徒被评见义勇为](https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E4%B8%80%E9%93%81%E9%94%B9%E6%8B%8D%E8%92%99%E6%AD%B9%E5%BE%92%E8%A2%AB%E8%AF%84%E8%A7%81%E4%B9%89%E5%8B%87%E4%B8%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [科学家：地球正处12.5万年来最热期](https://www.baidu.com/s?wd=%E7%A7%91%E5%AD%A6%E5%AE%B6%EF%BC%9A%E5%9C%B0%E7%90%83%E6%AD%A3%E5%A4%8412.5%E4%B8%87%E5%B9%B4%E6%9D%A5%E6%9C%80%E7%83%AD%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [曾毅竟然50岁了](https://www.baidu.com/s?wd=%E6%9B%BE%E6%AF%85%E7%AB%9F%E7%84%B650%E5%B2%81%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [暑期游迎来首个高峰](https://www.baidu.com/s?wd=%E6%9A%91%E6%9C%9F%E6%B8%B8%E8%BF%8E%E6%9D%A5%E9%A6%96%E4%B8%AA%E9%AB%98%E5%B3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [厄尔尼诺或对中国气候产生哪些影响](https://www.baidu.com/s?wd=%E5%8E%84%E5%B0%94%E5%B0%BC%E8%AF%BA%E6%88%96%E5%AF%B9%E4%B8%AD%E5%9B%BD%E6%B0%94%E5%80%99%E4%BA%A7%E7%94%9F%E5%93%AA%E4%BA%9B%E5%BD%B1%E5%93%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [曾毅竟然50岁了](https://www.baidu.com/s?wd=%E6%9B%BE%E6%AF%85%E7%AB%9F%E7%84%B650%E5%B2%81%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [iPhone15系列8月将量产](https://www.baidu.com/s?wd=iPhone15%E7%B3%BB%E5%88%978%E6%9C%88%E5%B0%86%E9%87%8F%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [科学家：地球正处12.5万年来最热期](https://www.baidu.com/s?wd=%E7%A7%91%E5%AD%A6%E5%AE%B6%EF%BC%9A%E5%9C%B0%E7%90%83%E6%AD%A3%E5%A4%8412.5%E4%B8%87%E5%B9%B4%E6%9D%A5%E6%9C%80%E7%83%AD%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
