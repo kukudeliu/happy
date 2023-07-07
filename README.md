@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 04:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 04:39:01</h4></div>
 
 > 微博  
 
@@ -19,8 +19,8 @@
 3. [消息称特斯拉上海超级工厂裁员，电池一期砍掉 50%，此次裁员背后原因有哪些？对特斯拉中国业务有何影响？](https://www.zhihu.com/question/610755769)<br />
 4. [牛顿的科学观都不足以让他放弃他的神学信仰吗？](https://www.zhihu.com/question/607982401)<br />
 5. [「原来骑手知道我在看配送进度」引发网友热议，你点外卖会看配送进度吗？看进度是为了催单还是其他什么考虑？](https://www.zhihu.com/question/610819713)<br />
-6. [比亚迪特斯拉等车企签署承诺书，不以非正常价格扰乱市场公平竞争秩序，将带来哪些影响？](https://www.zhihu.com/question/610644843)<br />
-7. [电热水器该怎么选择？](https://www.zhihu.com/question/490950851)<br />
+6. [电热水器该怎么选择？](https://www.zhihu.com/question/490950851)<br />
+7. [比亚迪特斯拉等车企签署承诺书，不以非正常价格扰乱市场公平竞争秩序，将带来哪些影响？](https://www.zhihu.com/question/610644843)<br />
 8. []()<br />
 9. [电影《八角笼中》为何口碑两极分化，你对该电影有哪些评价？](https://www.zhihu.com/question/607969019)<br />
 
@@ -31,9 +31,9 @@
 3. [外媒：扎波罗热地区发生爆炸](https://www.baidu.com/s?wd=%E5%A4%96%E5%AA%92%EF%BC%9A%E6%89%8E%E6%B3%A2%E7%BD%97%E7%83%AD%E5%9C%B0%E5%8C%BA%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [筑牢防灾减灾坚固防线](https://www.baidu.com/s?wd=%E7%AD%91%E7%89%A2%E9%98%B2%E7%81%BE%E5%87%8F%E7%81%BE%E5%9D%9A%E5%9B%BA%E9%98%B2%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [邓伦被申请强制执行](https://www.baidu.com/s?wd=%E9%82%93%E4%BC%A6%E8%A2%AB%E7%94%B3%E8%AF%B7%E5%BC%BA%E5%88%B6%E6%89%A7%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [李家超说要买贵州非遗产品送太太](https://www.baidu.com/s?wd=%E6%9D%8E%E5%AE%B6%E8%B6%85%E8%AF%B4%E8%A6%81%E4%B9%B0%E8%B4%B5%E5%B7%9E%E9%9D%9E%E9%81%97%E4%BA%A7%E5%93%81%E9%80%81%E5%A4%AA%E5%A4%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [知情人称李玟疑因窒息死亡 家属发声](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0%E6%9D%8E%E7%8E%9F%E7%96%91%E5%9B%A0%E7%AA%92%E6%81%AF%E6%AD%BB%E4%BA%A1+%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [2岁女孩遇车祸交警喊来妻子哄娃](https://www.baidu.com/s?wd=2%E5%B2%81%E5%A5%B3%E5%AD%A9%E9%81%87%E8%BD%A6%E7%A5%B8%E4%BA%A4%E8%AD%A6%E5%96%8A%E6%9D%A5%E5%A6%BB%E5%AD%90%E5%93%84%E5%A8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [重庆暴雨失踪者家属：想找到遗体](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E6%9A%B4%E9%9B%A8%E5%A4%B1%E8%B8%AA%E8%80%85%E5%AE%B6%E5%B1%9E%EF%BC%9A%E6%83%B3%E6%89%BE%E5%88%B0%E9%81%97%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子质疑5岁男孩进出女浴室反被骂](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%B4%A8%E7%96%915%E5%B2%81%E7%94%B7%E5%AD%A9%E8%BF%9B%E5%87%BA%E5%A5%B3%E6%B5%B4%E5%AE%A4%E5%8F%8D%E8%A2%AB%E9%AA%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [知情人称李玟疑因窒息死亡 家属发声](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0%E6%9D%8E%E7%8E%9F%E7%96%91%E5%9B%A0%E7%AA%92%E6%81%AF%E6%AD%BB%E4%BA%A1+%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [拜登演讲时频频踢讲台还想站上去](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E6%BC%94%E8%AE%B2%E6%97%B6%E9%A2%91%E9%A2%91%E8%B8%A2%E8%AE%B2%E5%8F%B0%E8%BF%98%E6%83%B3%E7%AB%99%E4%B8%8A%E5%8E%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -43,7 +43,7 @@
 3. [外媒：扎波罗热地区发生爆炸](https://www.baidu.com/s?wd=%E5%A4%96%E5%AA%92%EF%BC%9A%E6%89%8E%E6%B3%A2%E7%BD%97%E7%83%AD%E5%9C%B0%E5%8C%BA%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [筑牢防灾减灾坚固防线](https://www.baidu.com/s?wd=%E7%AD%91%E7%89%A2%E9%98%B2%E7%81%BE%E5%87%8F%E7%81%BE%E5%9D%9A%E5%9B%BA%E9%98%B2%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [邓伦被申请强制执行](https://www.baidu.com/s?wd=%E9%82%93%E4%BC%A6%E8%A2%AB%E7%94%B3%E8%AF%B7%E5%BC%BA%E5%88%B6%E6%89%A7%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [李家超说要买贵州非遗产品送太太](https://www.baidu.com/s?wd=%E6%9D%8E%E5%AE%B6%E8%B6%85%E8%AF%B4%E8%A6%81%E4%B9%B0%E8%B4%B5%E5%B7%9E%E9%9D%9E%E9%81%97%E4%BA%A7%E5%93%81%E9%80%81%E5%A4%AA%E5%A4%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [知情人称李玟疑因窒息死亡 家属发声](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0%E6%9D%8E%E7%8E%9F%E7%96%91%E5%9B%A0%E7%AA%92%E6%81%AF%E6%AD%BB%E4%BA%A1+%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [2岁女孩遇车祸交警喊来妻子哄娃](https://www.baidu.com/s?wd=2%E5%B2%81%E5%A5%B3%E5%AD%A9%E9%81%87%E8%BD%A6%E7%A5%B8%E4%BA%A4%E8%AD%A6%E5%96%8A%E6%9D%A5%E5%A6%BB%E5%AD%90%E5%93%84%E5%A8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [重庆暴雨失踪者家属：想找到遗体](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E6%9A%B4%E9%9B%A8%E5%A4%B1%E8%B8%AA%E8%80%85%E5%AE%B6%E5%B1%9E%EF%BC%9A%E6%83%B3%E6%89%BE%E5%88%B0%E9%81%97%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子质疑5岁男孩进出女浴室反被骂](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%B4%A8%E7%96%915%E5%B2%81%E7%94%B7%E5%AD%A9%E8%BF%9B%E5%87%BA%E5%A5%B3%E6%B5%B4%E5%AE%A4%E5%8F%8D%E8%A2%AB%E9%AA%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [知情人称李玟疑因窒息死亡 家属发声](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0%E6%9D%8E%E7%8E%9F%E7%96%91%E5%9B%A0%E7%AA%92%E6%81%AF%E6%AD%BB%E4%BA%A1+%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [拜登演讲时频频踢讲台还想站上去](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E6%BC%94%E8%AE%B2%E6%97%B6%E9%A2%91%E9%A2%91%E8%B8%A2%E8%AE%B2%E5%8F%B0%E8%BF%98%E6%83%B3%E7%AB%99%E4%B8%8A%E5%8E%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
