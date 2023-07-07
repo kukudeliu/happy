@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-07 15:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-07 15:56:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [OpenAI 宣布 GPT-4 API 全面开放使用，将带来哪些影响？](https://www.zhihu.com/question/610804494)<br />
 7. [坐在汽车后座的乘客是否有必要系安全带？为什么？](https://www.zhihu.com/question/27909668)<br />
 8. [宝马司机醉驾撞人拖行案一审宣判，被告人被判有期徒刑六年三个月，还有哪些信息值得关注？](https://www.zhihu.com/question/610819210)<br />
-9. [如何避免一个人去健身房尴尬的局面？](https://www.zhihu.com/question/609000409)<br />
+9. [中年妈妈失业后「瞒着亲人在星巴克假装上班」，如何看待中年人失业的现状？](https://www.zhihu.com/question/610628297)<br />
 
 > 百度  
 
