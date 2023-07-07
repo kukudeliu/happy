@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 02:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 02:56:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [消息称特斯拉上海超级工厂裁员，电池一期砍掉 50%，此次裁员背后原因有哪些？对特斯拉中国业务有何影响？](https://www.zhihu.com/question/610755769)<br />
 5. [牛顿的科学观都不足以让他放弃他的神学信仰吗？](https://www.zhihu.com/question/607982401)<br />
 6. [全球每年 5 % 成年人患抑郁症，中低收入国家八九成患者未诊治，如何有效提高抑郁症就诊率？](https://www.zhihu.com/question/610868314)<br />
-7. [哪个瞬间让你发现了世界的 bug？](https://www.zhihu.com/question/374412997)<br />
-8. [电热水器该怎么选择？](https://www.zhihu.com/question/490950851)<br />
-9. []()<br />
+7. [电热水器该怎么选择？](https://www.zhihu.com/question/490950851)<br />
+8. []()<br />
+9. [哪个瞬间让你发现了世界的 bug？](https://www.zhihu.com/question/374412997)<br />
 
 > 百度  
 
