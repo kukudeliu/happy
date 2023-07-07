@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-07 21:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-07 21:20:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [原来快递员能看见快递里面是啥](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%BF%AB%E9%80%92%E5%91%98%E8%83%BD%E7%9C%8B%E8%A7%81%E5%BF%AB%E9%80%92%E9%87%8C%E9%9D%A2%E6%98%AF%E5%95%A5%23&t=31&band_rank=6&Refer=top)<br />
 7. [蚂蚁集团回应被罚](https://s.weibo.com/weibo?q=%23%E8%9A%82%E8%9A%81%E9%9B%86%E5%9B%A2%E5%9B%9E%E5%BA%94%E8%A2%AB%E7%BD%9A%23&t=31&band_rank=7&Refer=top)<br />
 8. [奔跑的安慕希](https://s.weibo.com/weibo?q=%E5%A5%94%E8%B7%91%E7%9A%84%E5%AE%89%E6%85%95%E5%B8%8C&t=31&band_rank=8&Refer=top)<br />
-9. [范玮琪演唱会取消](https://s.weibo.com/weibo?q=%23%E8%8C%83%E7%8E%AE%E7%90%AA%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8F%96%E6%B6%88%23&t=31&band_rank=9&Refer=top)<br />
+9. [张彬彬新剧上线3天就下线](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%BD%AC%E5%BD%AC%E6%96%B0%E5%89%A7%E4%B8%8A%E7%BA%BF3%E5%A4%A9%E5%B0%B1%E4%B8%8B%E7%BA%BF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
