@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-07 23:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-07 23:14:01</h4></div>
 
 > 微博  
 
@@ -20,8 +20,8 @@
 4. [消息称特斯拉上海超级工厂裁员，电池一期砍掉 50%，此次裁员背后原因有哪些？对特斯拉中国业务有何影响？](https://www.zhihu.com/question/610755769)<br />
 5. [2023 LPL 夏季赛 TES 2:1 OMG，如何评价这场比赛？](https://www.zhihu.com/question/610905606)<br />
 6. []()<br />
-7. [学校要求教师不要晒暑假旅游照片，该规定合理吗？](https://www.zhihu.com/question/610704275)<br />
-8. [小学生热衷一元零食，「不吃就落单了」，如何看待这种「零食社交」？](https://www.zhihu.com/question/610619522)<br />
+7. [小学生热衷一元零食，「不吃就落单了」，如何看待这种「零食社交」？](https://www.zhihu.com/question/610619522)<br />
+8. [学校要求教师不要晒暑假旅游照片，该规定合理吗？](https://www.zhihu.com/question/610704275)<br />
 9. [7 月 7 日创业板指跌超 1%，电力股逆势走强，两市超成交金额跌破 8000 亿，如何看待今日行情？](https://www.zhihu.com/question/610806132)<br />
 
 > 百度  
