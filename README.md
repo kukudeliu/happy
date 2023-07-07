@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-07 16:35:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-07 16:36:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [专升本和事业编同时上岸选哪个](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%8D%87%E6%9C%AC%E5%92%8C%E4%BA%8B%E4%B8%9A%E7%BC%96%E5%90%8C%E6%97%B6%E4%B8%8A%E5%B2%B8%E9%80%89%E5%93%AA%E4%B8%AA%23&t=31&band_rank=5&Refer=top)<br />
 6. [2岁女孩遇车祸交警喊来妻子哄娃](https://s.weibo.com/weibo?q=%232%E5%B2%81%E5%A5%B3%E5%AD%A9%E9%81%87%E8%BD%A6%E7%A5%B8%E4%BA%A4%E8%AD%A6%E5%96%8A%E6%9D%A5%E5%A6%BB%E5%AD%90%E5%93%84%E5%A8%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [奔跑的安慕希](https://s.weibo.com/weibo?q=%E5%A5%94%E8%B7%91%E7%9A%84%E5%AE%89%E6%85%95%E5%B8%8C&t=31&band_rank=7&Refer=top)<br />
-8. [肖战谈任敏角色](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%B0%88%E4%BB%BB%E6%95%8F%E8%A7%92%E8%89%B2%23&t=31&band_rank=8&Refer=top)<br />
-9. [朱一龙一番票房突破50亿](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E4%B8%80%E7%95%AA%E7%A5%A8%E6%88%BF%E7%AA%81%E7%A0%B450%E4%BA%BF%23&t=31&band_rank=9&Refer=top)<br />
+8. [小欢喜2](https://s.weibo.com/weibo?q=%E5%B0%8F%E6%AC%A2%E5%96%9C2&t=31&band_rank=8&Refer=top)<br />
+9. [肖战谈任敏角色](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%B0%88%E4%BB%BB%E6%95%8F%E8%A7%92%E8%89%B2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
