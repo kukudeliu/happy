@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-07 18:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-07 18:05:01</h4></div>
 
 > 微博  
 
@@ -15,8 +15,8 @@
 > 知乎  
 
 1. [比亚迪特斯拉等车企签署承诺书，不以非正常价格扰乱市场公平竞争秩序，将带来哪些影响？](https://www.zhihu.com/question/610644843)<br />
-2. [华为 Mate60 已进入量产，你对该产品都有哪些期待？](https://www.zhihu.com/question/609780307)<br />
-3. [OpenAI 宣布 GPT-4 API 全面开放使用，将带来哪些影响？](https://www.zhihu.com/question/610804494)<br />
+2. [OpenAI 宣布 GPT-4 API 全面开放使用，将带来哪些影响？](https://www.zhihu.com/question/610804494)<br />
+3. [华为 Mate60 已进入量产，你对该产品都有哪些期待？](https://www.zhihu.com/question/609780307)<br />
 4. [年轻人开「电动轮椅」上下班，相关产品销量猛涨，律师称不违法，只能从道德层面评价，如何看待这一现象？](https://www.zhihu.com/question/610638966)<br />
 5. [中年妈妈失业后「瞒着亲人在星巴克假装上班」，如何看待中年人失业的现状？](https://www.zhihu.com/question/610628297)<br />
 6. [周杰伦四天演唱会让海口实现旅游收入 9.76 亿元，为海口端午假期旅游收入的三倍，哪些信息值得关注？](https://www.zhihu.com/question/610636669)<br />
