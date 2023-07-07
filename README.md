@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 03:07:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 03:08:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [全球每年 5 % 成年人患抑郁症，中低收入国家八九成患者未诊治，如何有效提高抑郁症就诊率？](https://www.zhihu.com/question/610868314)<br />
 7. [电热水器该怎么选择？](https://www.zhihu.com/question/490950851)<br />
 8. [高考忘记自己贴没贴条形码了，如果没贴的话监考老师会发现吗？](https://www.zhihu.com/question/605787700)<br />
-9. [哪个瞬间让你发现了世界的 bug？](https://www.zhihu.com/question/374412997)<br />
+9. [电影《八角笼中》为何口碑两极分化，你对该电影有哪些评价？](https://www.zhihu.com/question/607969019)<br />
 
 > 百度  
 
@@ -33,8 +33,8 @@
 5. [邓伦被申请强制执行](https://www.baidu.com/s?wd=%E9%82%93%E4%BC%A6%E8%A2%AB%E7%94%B3%E8%AF%B7%E5%BC%BA%E5%88%B6%E6%89%A7%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [工信部通报31款侵害用户权益APP](https://www.baidu.com/s?wd=%E5%B7%A5%E4%BF%A1%E9%83%A8%E9%80%9A%E6%8A%A531%E6%AC%BE%E4%BE%B5%E5%AE%B3%E7%94%A8%E6%88%B7%E6%9D%83%E7%9B%8AAPP&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [亮证逃查酒驾事件执勤辅警为何被辞](https://www.baidu.com/s?wd=%E4%BA%AE%E8%AF%81%E9%80%83%E6%9F%A5%E9%85%92%E9%A9%BE%E4%BA%8B%E4%BB%B6%E6%89%A7%E5%8B%A4%E8%BE%85%E8%AD%A6%E4%B8%BA%E4%BD%95%E8%A2%AB%E8%BE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [日本一无人岛发现大量美制哑弹](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%B8%80%E6%97%A0%E4%BA%BA%E5%B2%9B%E5%8F%91%E7%8E%B0%E5%A4%A7%E9%87%8F%E7%BE%8E%E5%88%B6%E5%93%91%E5%BC%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [姐妹公交事故遇难：姐姐接妹妹放学](https://www.baidu.com/s?wd=%E5%A7%90%E5%A6%B9%E5%85%AC%E4%BA%A4%E4%BA%8B%E6%95%85%E9%81%87%E9%9A%BE%EF%BC%9A%E5%A7%90%E5%A7%90%E6%8E%A5%E5%A6%B9%E5%A6%B9%E6%94%BE%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [姐妹公交事故遇难：姐姐接妹妹放学](https://www.baidu.com/s?wd=%E5%A7%90%E5%A6%B9%E5%85%AC%E4%BA%A4%E4%BA%8B%E6%95%85%E9%81%87%E9%9A%BE%EF%BC%9A%E5%A7%90%E5%A7%90%E6%8E%A5%E5%A6%B9%E5%A6%B9%E6%94%BE%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [#奔跑吧还是没播#](https://www.baidu.com/s?wd=%23%E5%A5%94%E8%B7%91%E5%90%A7%E8%BF%98%E6%98%AF%E6%B2%A1%E6%92%AD%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [邓伦被申请强制执行](https://www.baidu.com/s?wd=%E9%82%93%E4%BC%A6%E8%A2%AB%E7%94%B3%E8%AF%B7%E5%BC%BA%E5%88%B6%E6%89%A7%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [工信部通报31款侵害用户权益APP](https://www.baidu.com/s?wd=%E5%B7%A5%E4%BF%A1%E9%83%A8%E9%80%9A%E6%8A%A531%E6%AC%BE%E4%BE%B5%E5%AE%B3%E7%94%A8%E6%88%B7%E6%9D%83%E7%9B%8AAPP&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [亮证逃查酒驾事件执勤辅警为何被辞](https://www.baidu.com/s?wd=%E4%BA%AE%E8%AF%81%E9%80%83%E6%9F%A5%E9%85%92%E9%A9%BE%E4%BA%8B%E4%BB%B6%E6%89%A7%E5%8B%A4%E8%BE%85%E8%AD%A6%E4%B8%BA%E4%BD%95%E8%A2%AB%E8%BE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [日本一无人岛发现大量美制哑弹](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%B8%80%E6%97%A0%E4%BA%BA%E5%B2%9B%E5%8F%91%E7%8E%B0%E5%A4%A7%E9%87%8F%E7%BE%8E%E5%88%B6%E5%93%91%E5%BC%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [姐妹公交事故遇难：姐姐接妹妹放学](https://www.baidu.com/s?wd=%E5%A7%90%E5%A6%B9%E5%85%AC%E4%BA%A4%E4%BA%8B%E6%95%85%E9%81%87%E9%9A%BE%EF%BC%9A%E5%A7%90%E5%A7%90%E6%8E%A5%E5%A6%B9%E5%A6%B9%E6%94%BE%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [姐妹公交事故遇难：姐姐接妹妹放学](https://www.baidu.com/s?wd=%E5%A7%90%E5%A6%B9%E5%85%AC%E4%BA%A4%E4%BA%8B%E6%95%85%E9%81%87%E9%9A%BE%EF%BC%9A%E5%A7%90%E5%A7%90%E6%8E%A5%E5%A6%B9%E5%A6%B9%E6%94%BE%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [#奔跑吧还是没播#](https://www.baidu.com/s?wd=%23%E5%A5%94%E8%B7%91%E5%90%A7%E8%BF%98%E6%98%AF%E6%B2%A1%E6%92%AD%23&sa=fyb_news&rsv_dl=fyb_news)<br />
