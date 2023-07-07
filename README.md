@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-07 18:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-07 18:57:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [小欢喜2](https://s.weibo.com/weibo?q=%E5%B0%8F%E6%AC%A2%E5%96%9C2&t=31&band_rank=6&Refer=top)<br />
 7. [被新疆交警的叮嘱暖到了](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%96%B0%E7%96%86%E4%BA%A4%E8%AD%A6%E7%9A%84%E5%8F%AE%E5%98%B1%E6%9A%96%E5%88%B0%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [李玟疑因窒息死亡](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E7%96%91%E5%9B%A0%E7%AA%92%E6%81%AF%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [柠萌影视否认将拍小欢喜2](https://s.weibo.com/weibo?q=%23%E6%9F%A0%E8%90%8C%E5%BD%B1%E8%A7%86%E5%90%A6%E8%AE%A4%E5%B0%86%E6%8B%8D%E5%B0%8F%E6%AC%A2%E5%96%9C2%23&t=31&band_rank=9&Refer=top)<br />
+9. [曾毅竟然50岁了](https://s.weibo.com/weibo?q=%23%E6%9B%BE%E6%AF%85%E7%AB%9F%E7%84%B650%E5%B2%81%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
