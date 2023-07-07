@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 00:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 00:28:02</h4></div>
 
 > 微博  
 
@@ -20,7 +20,7 @@
 4. [消息称特斯拉上海超级工厂裁员，电池一期砍掉 50%，此次裁员背后原因有哪些？对特斯拉中国业务有何影响？](https://www.zhihu.com/question/610755769)<br />
 5. [牛顿的科学观都不足以让他放弃他的神学信仰吗？](https://www.zhihu.com/question/607982401)<br />
 6. [电影《八角笼中》为何口碑两极分化，你对该电影有哪些评价？](https://www.zhihu.com/question/607969019)<br />
-7. [2023 LPL 夏季赛 TES 2:1 OMG，如何评价这场比赛？](https://www.zhihu.com/question/610905606)<br />
+7. []()<br />
 8. []()<br />
 9. []()<br />
 
