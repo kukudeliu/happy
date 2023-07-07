@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-07 16:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-07 16:56:01</h4></div>
 
 > 微博  
 
 1. [小欢喜2](https://s.weibo.com/weibo?q=%E5%B0%8F%E6%AC%A2%E5%96%9C2&t=31&band_rank=1&Refer=top)<br />
-2. [朱一龙一番票房突破50亿](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E4%B8%80%E7%95%AA%E7%A5%A8%E6%88%BF%E7%AA%81%E7%A0%B450%E4%BA%BF%23&t=31&band_rank=2&Refer=top)<br />
+2. [原来抽纸是从侧面撕开的](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%8A%BD%E7%BA%B8%E6%98%AF%E4%BB%8E%E4%BE%A7%E9%9D%A2%E6%92%95%E5%BC%80%E7%9A%84%23&t=31&band_rank=2&Refer=top)<br />
 3. [七七事变爆发86周年](https://s.weibo.com/weibo?q=%23%E4%B8%83%E4%B8%83%E4%BA%8B%E5%8F%98%E7%88%86%E5%8F%9186%E5%91%A8%E5%B9%B4%23&t=31&band_rank=3&Refer=top)<br />
 4. [李玟疑因窒息死亡](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E7%96%91%E5%9B%A0%E7%AA%92%E6%81%AF%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=4&Refer=top)<br />
-5. [原来抽纸是从侧面撕开的](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%8A%BD%E7%BA%B8%E6%98%AF%E4%BB%8E%E4%BE%A7%E9%9D%A2%E6%92%95%E5%BC%80%E7%9A%84%23&t=31&band_rank=5&Refer=top)<br />
+5. [朱一龙一番票房突破50亿](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E4%B8%80%E7%95%AA%E7%A5%A8%E6%88%BF%E7%AA%81%E7%A0%B450%E4%BA%BF%23&t=31&band_rank=5&Refer=top)<br />
 6. [西安人被正式确诊为沈眉庄](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E4%BA%BA%E8%A2%AB%E6%AD%A3%E5%BC%8F%E7%A1%AE%E8%AF%8A%E4%B8%BA%E6%B2%88%E7%9C%89%E5%BA%84%23&t=31&band_rank=6&Refer=top)<br />
 7. [杨紫万茜李晟你们怎么还整过这出](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E4%B8%87%E8%8C%9C%E6%9D%8E%E6%99%9F%E4%BD%A0%E4%BB%AC%E6%80%8E%E4%B9%88%E8%BF%98%E6%95%B4%E8%BF%87%E8%BF%99%E5%87%BA%23&t=31&band_rank=7&Refer=top)<br />
-8. [EDG战胜LGD](https://s.weibo.com/weibo?q=%23EDG%E6%88%98%E8%83%9CLGD%23&t=31&band_rank=8&Refer=top)<br />
-9. [2岁女孩遇车祸交警喊来妻子哄娃](https://s.weibo.com/weibo?q=%232%E5%B2%81%E5%A5%B3%E5%AD%A9%E9%81%87%E8%BD%A6%E7%A5%B8%E4%BA%A4%E8%AD%A6%E5%96%8A%E6%9D%A5%E5%A6%BB%E5%AD%90%E5%93%84%E5%A8%83%23&t=31&band_rank=9&Refer=top)<br />
+8. [2岁女孩遇车祸交警喊来妻子哄娃](https://s.weibo.com/weibo?q=%232%E5%B2%81%E5%A5%B3%E5%AD%A9%E9%81%87%E8%BD%A6%E7%A5%B8%E4%BA%A4%E8%AD%A6%E5%96%8A%E6%9D%A5%E5%A6%BB%E5%AD%90%E5%93%84%E5%A8%83%23&t=31&band_rank=8&Refer=top)<br />
+9. [EDG战胜LGD](https://s.weibo.com/weibo?q=%23EDG%E6%88%98%E8%83%9CLGD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
