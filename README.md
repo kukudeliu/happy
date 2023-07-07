@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-07 11:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-07 11:27:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [酒店为什么会免费升房](https://s.weibo.com/weibo?q=%23%E9%85%92%E5%BA%97%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E5%85%8D%E8%B4%B9%E5%8D%87%E6%88%BF%23&t=31&band_rank=6&Refer=top)<br />
 7. [美国新型毒品泛滥吸食者如丧尸围城](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%96%B0%E5%9E%8B%E6%AF%92%E5%93%81%E6%B3%9B%E6%BB%A5%E5%90%B8%E9%A3%9F%E8%80%85%E5%A6%82%E4%B8%A7%E5%B0%B8%E5%9B%B4%E5%9F%8E%23&t=31&band_rank=7&Refer=top)<br />
 8. [奔跑吧](https://s.weibo.com/weibo?q=%E5%A5%94%E8%B7%91%E5%90%A7&t=31&band_rank=8&Refer=top)<br />
-9. [广州地铁到底发生过什么](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%9C%B0%E9%93%81%E5%88%B0%E5%BA%95%E5%8F%91%E7%94%9F%E8%BF%87%E4%BB%80%E4%B9%88%23&t=31&band_rank=9&Refer=top)<br />
+9. [李玟姐姐呼吁大家不要作任何揣测](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E5%A7%90%E5%A7%90%E5%91%BC%E5%90%81%E5%A4%A7%E5%AE%B6%E4%B8%8D%E8%A6%81%E4%BD%9C%E4%BB%BB%E4%BD%95%E6%8F%A3%E6%B5%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
