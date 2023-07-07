@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 01:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 01:54:01</h4></div>
 
 > 微博  
 
@@ -32,9 +32,9 @@
 4. [筑牢防灾减灾坚固防线](https://www.baidu.com/s?wd=%E7%AD%91%E7%89%A2%E9%98%B2%E7%81%BE%E5%87%8F%E7%81%BE%E5%9D%9A%E5%9B%BA%E9%98%B2%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [邓伦被申请强制执行](https://www.baidu.com/s?wd=%E9%82%93%E4%BC%A6%E8%A2%AB%E7%94%B3%E8%AF%B7%E5%BC%BA%E5%88%B6%E6%89%A7%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [媒体人吐槽周琦交易闹剧](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E4%BA%BA%E5%90%90%E6%A7%BD%E5%91%A8%E7%90%A6%E4%BA%A4%E6%98%93%E9%97%B9%E5%89%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [拜登演讲时频频踢讲台还想站上去](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E6%BC%94%E8%AE%B2%E6%97%B6%E9%A2%91%E9%A2%91%E8%B8%A2%E8%AE%B2%E5%8F%B0%E8%BF%98%E6%83%B3%E7%AB%99%E4%B8%8A%E5%8E%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [妻子修手机花70元被丈夫扇耳光](https://www.baidu.com/s?wd=%E5%A6%BB%E5%AD%90%E4%BF%AE%E6%89%8B%E6%9C%BA%E8%8A%B170%E5%85%83%E8%A2%AB%E4%B8%88%E5%A4%AB%E6%89%87%E8%80%B3%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [“逼男孩吃粪”欺凌者由老人照顾](https://www.baidu.com/s?wd=%E2%80%9C%E9%80%BC%E7%94%B7%E5%AD%A9%E5%90%83%E7%B2%AA%E2%80%9D%E6%AC%BA%E5%87%8C%E8%80%85%E7%94%B1%E8%80%81%E4%BA%BA%E7%85%A7%E9%A1%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [布兰妮丈夫就掌掴事件发声明](https://www.baidu.com/s?wd=%E5%B8%83%E5%85%B0%E5%A6%AE%E4%B8%88%E5%A4%AB%E5%B0%B1%E6%8E%8C%E6%8E%B4%E4%BA%8B%E4%BB%B6%E5%8F%91%E5%A3%B0%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [《失孤》原型案两名被告拒不认罪](https://www.baidu.com/s?wd=%E3%80%8A%E5%A4%B1%E5%AD%A4%E3%80%8B%E5%8E%9F%E5%9E%8B%E6%A1%88%E4%B8%A4%E5%90%8D%E8%A2%AB%E5%91%8A%E6%8B%92%E4%B8%8D%E8%AE%A4%E7%BD%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [妻子修手机花70元被丈夫扇耳光](https://www.baidu.com/s?wd=%E5%A6%BB%E5%AD%90%E4%BF%AE%E6%89%8B%E6%9C%BA%E8%8A%B170%E5%85%83%E8%A2%AB%E4%B8%88%E5%A4%AB%E6%89%87%E8%80%B3%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [筑牢防灾减灾坚固防线](https://www.baidu.com/s?wd=%E7%AD%91%E7%89%A2%E9%98%B2%E7%81%BE%E5%87%8F%E7%81%BE%E5%9D%9A%E5%9B%BA%E9%98%B2%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [邓伦被申请强制执行](https://www.baidu.com/s?wd=%E9%82%93%E4%BC%A6%E8%A2%AB%E7%94%B3%E8%AF%B7%E5%BC%BA%E5%88%B6%E6%89%A7%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [媒体人吐槽周琦交易闹剧](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E4%BA%BA%E5%90%90%E6%A7%BD%E5%91%A8%E7%90%A6%E4%BA%A4%E6%98%93%E9%97%B9%E5%89%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [拜登演讲时频频踢讲台还想站上去](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E6%BC%94%E8%AE%B2%E6%97%B6%E9%A2%91%E9%A2%91%E8%B8%A2%E8%AE%B2%E5%8F%B0%E8%BF%98%E6%83%B3%E7%AB%99%E4%B8%8A%E5%8E%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [妻子修手机花70元被丈夫扇耳光](https://www.baidu.com/s?wd=%E5%A6%BB%E5%AD%90%E4%BF%AE%E6%89%8B%E6%9C%BA%E8%8A%B170%E5%85%83%E8%A2%AB%E4%B8%88%E5%A4%AB%E6%89%87%E8%80%B3%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [“逼男孩吃粪”欺凌者由老人照顾](https://www.baidu.com/s?wd=%E2%80%9C%E9%80%BC%E7%94%B7%E5%AD%A9%E5%90%83%E7%B2%AA%E2%80%9D%E6%AC%BA%E5%87%8C%E8%80%85%E7%94%B1%E8%80%81%E4%BA%BA%E7%85%A7%E9%A1%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [布兰妮丈夫就掌掴事件发声明](https://www.baidu.com/s?wd=%E5%B8%83%E5%85%B0%E5%A6%AE%E4%B8%88%E5%A4%AB%E5%B0%B1%E6%8E%8C%E6%8E%B4%E4%BA%8B%E4%BB%B6%E5%8F%91%E5%A3%B0%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [《失孤》原型案两名被告拒不认罪](https://www.baidu.com/s?wd=%E3%80%8A%E5%A4%B1%E5%AD%A4%E3%80%8B%E5%8E%9F%E5%9E%8B%E6%A1%88%E4%B8%A4%E5%90%8D%E8%A2%AB%E5%91%8A%E6%8B%92%E4%B8%8D%E8%AE%A4%E7%BD%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [妻子修手机花70元被丈夫扇耳光](https://www.baidu.com/s?wd=%E5%A6%BB%E5%AD%90%E4%BF%AE%E6%89%8B%E6%9C%BA%E8%8A%B170%E5%85%83%E8%A2%AB%E4%B8%88%E5%A4%AB%E6%89%87%E8%80%B3%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
