@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-07 11:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-07 11:52:02</h4></div>
 
 > 微博  
 
@@ -20,8 +20,8 @@
 4. [为什么摄像机的镜头不能摸，但是手机镜头能摸？](https://www.zhihu.com/question/610269078)<br />
 5. [为什么原著燕赤霞那么厉害的人物，影视剧里刻画的这么弱呢？](https://www.zhihu.com/question/478316660)<br />
 6. [澳大利亚允许摇头丸作为处方药，系全球首例，如何解读该政策？可能引发哪些问题？](https://www.zhihu.com/question/610426495)<br />
-7. [IAEA 总干事警告「当前扎波罗热核电站『极其脆弱和危险』」，具体情况如何？](https://www.zhihu.com/question/610625389)<br />
-8. [如何看待今年高考报志愿法学爆满的情况？](https://www.zhihu.com/question/610440391)<br />
+7. [如何看待今年高考报志愿法学爆满的情况？](https://www.zhihu.com/question/610440391)<br />
+8. [IAEA 总干事警告「当前扎波罗热核电站『极其脆弱和危险』」，具体情况如何？](https://www.zhihu.com/question/610625389)<br />
 9. [耶伦开启访华之旅，并称此访提供沟通和避免误解机会，如何看待这一说法？她的访华行程和其他美官员有何不同？](https://www.zhihu.com/question/610802869)<br />
 
 > 百度  
