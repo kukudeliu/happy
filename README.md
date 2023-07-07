@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 06:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 06:03:02</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [牛顿的科学观都不足以让他放弃他的神学信仰吗？](https://www.zhihu.com/question/607982401)<br />
 5. [「原来骑手知道我在看配送进度」引发网友热议，你点外卖会看配送进度吗？看进度是为了催单还是其他什么考虑？](https://www.zhihu.com/question/610819713)<br />
 6. []()<br />
-7. [学校要求教师不要晒暑假旅游照片，该规定合理吗？](https://www.zhihu.com/question/610704275)<br />
-8. [明明梅西的天赋、技术和荣誉都远超小罗，为什么大众认知中还是小罗的足球天赋更高？](https://www.zhihu.com/question/610138398)<br />
-9. [电热水器该怎么选择？](https://www.zhihu.com/question/490950851)<br />
+7. [明明梅西的天赋、技术和荣誉都远超小罗，为什么大众认知中还是小罗的足球天赋更高？](https://www.zhihu.com/question/610138398)<br />
+8. [电热水器该怎么选择？](https://www.zhihu.com/question/490950851)<br />
+9. [高考忘记自己贴没贴条形码了，如果没贴的话监考老师会发现吗？](https://www.zhihu.com/question/605787700)<br />
 
 > 百度  
 
