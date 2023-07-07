@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-07 12:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-07 12:44:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [中国禁止进口日本福岛等十地食品](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A6%81%E6%AD%A2%E8%BF%9B%E5%8F%A3%E6%97%A5%E6%9C%AC%E7%A6%8F%E5%B2%9B%E7%AD%89%E5%8D%81%E5%9C%B0%E9%A3%9F%E5%93%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [原来骑手知道我在看配送进度](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E9%AA%91%E6%89%8B%E7%9F%A5%E9%81%93%E6%88%91%E5%9C%A8%E7%9C%8B%E9%85%8D%E9%80%81%E8%BF%9B%E5%BA%A6%23&t=31&band_rank=7&Refer=top)<br />
 8. [黑色外卖勺子](https://s.weibo.com/weibo?q=%23%E9%BB%91%E8%89%B2%E5%A4%96%E5%8D%96%E5%8B%BA%E5%AD%90%23&t=31&band_rank=8&Refer=top)<br />
-9. [趁弟弟不注意把他的暑假作业写完](https://s.weibo.com/weibo?q=%E8%B6%81%E5%BC%9F%E5%BC%9F%E4%B8%8D%E6%B3%A8%E6%84%8F%E6%8A%8A%E4%BB%96%E7%9A%84%E6%9A%91%E5%81%87%E4%BD%9C%E4%B8%9A%E5%86%99%E5%AE%8C&t=31&band_rank=9&Refer=top)<br />
+9. [super shy](https://s.weibo.com/weibo?q=super%20shy&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -32,9 +32,9 @@
 4. [夏日经济火起来](https://www.baidu.com/s?wd=%E5%A4%8F%E6%97%A5%E7%BB%8F%E6%B5%8E%E7%81%AB%E8%B5%B7%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [李玟姐姐：近一周内发现李玟不对劲](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E5%A7%90%E5%A7%90%EF%BC%9A%E8%BF%91%E4%B8%80%E5%91%A8%E5%86%85%E5%8F%91%E7%8E%B0%E6%9D%8E%E7%8E%9F%E4%B8%8D%E5%AF%B9%E5%8A%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [原来骑手知道客户在看配送进度](https://www.baidu.com/s?wd=%E5%8E%9F%E6%9D%A5%E9%AA%91%E6%89%8B%E7%9F%A5%E9%81%93%E5%AE%A2%E6%88%B7%E5%9C%A8%E7%9C%8B%E9%85%8D%E9%80%81%E8%BF%9B%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [7旬老人为救被殴女子遭男子捅死](https://www.baidu.com/s?wd=7%E6%97%AC%E8%80%81%E4%BA%BA%E4%B8%BA%E6%95%91%E8%A2%AB%E6%AE%B4%E5%A5%B3%E5%AD%90%E9%81%AD%E7%94%B7%E5%AD%90%E6%8D%85%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [美国财长为何面临职场排挤](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E8%B4%A2%E9%95%BF%E4%B8%BA%E4%BD%95%E9%9D%A2%E4%B8%B4%E8%81%8C%E5%9C%BA%E6%8E%92%E6%8C%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女婴出生第一天喝了过期奶粉](https://www.baidu.com/s?wd=%E5%A5%B3%E5%A9%B4%E5%87%BA%E7%94%9F%E7%AC%AC%E4%B8%80%E5%A4%A9%E5%96%9D%E4%BA%86%E8%BF%87%E6%9C%9F%E5%A5%B6%E7%B2%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [教授称有人花百万留学回来月薪5000](https://www.baidu.com/s?wd=%E6%95%99%E6%8E%88%E7%A7%B0%E6%9C%89%E4%BA%BA%E8%8A%B1%E7%99%BE%E4%B8%87%E7%95%99%E5%AD%A6%E5%9B%9E%E6%9D%A5%E6%9C%88%E8%96%AA5000&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [7旬老人为救被殴女子遭男子捅死](https://www.baidu.com/s?wd=7%E6%97%AC%E8%80%81%E4%BA%BA%E4%B8%BA%E6%95%91%E8%A2%AB%E6%AE%B4%E5%A5%B3%E5%AD%90%E9%81%AD%E7%94%B7%E5%AD%90%E6%8D%85%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [美国财长为何面临职场排挤](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E8%B4%A2%E9%95%BF%E4%B8%BA%E4%BD%95%E9%9D%A2%E4%B8%B4%E8%81%8C%E5%9C%BA%E6%8E%92%E6%8C%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [夏日经济火起来](https://www.baidu.com/s?wd=%E5%A4%8F%E6%97%A5%E7%BB%8F%E6%B5%8E%E7%81%AB%E8%B5%B7%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [李玟姐姐：近一周内发现李玟不对劲](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E5%A7%90%E5%A7%90%EF%BC%9A%E8%BF%91%E4%B8%80%E5%91%A8%E5%86%85%E5%8F%91%E7%8E%B0%E6%9D%8E%E7%8E%9F%E4%B8%8D%E5%AF%B9%E5%8A%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [原来骑手知道客户在看配送进度](https://www.baidu.com/s?wd=%E5%8E%9F%E6%9D%A5%E9%AA%91%E6%89%8B%E7%9F%A5%E9%81%93%E5%AE%A2%E6%88%B7%E5%9C%A8%E7%9C%8B%E9%85%8D%E9%80%81%E8%BF%9B%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [7旬老人为救被殴女子遭男子捅死](https://www.baidu.com/s?wd=7%E6%97%AC%E8%80%81%E4%BA%BA%E4%B8%BA%E6%95%91%E8%A2%AB%E6%AE%B4%E5%A5%B3%E5%AD%90%E9%81%AD%E7%94%B7%E5%AD%90%E6%8D%85%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [美国财长为何面临职场排挤](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E8%B4%A2%E9%95%BF%E4%B8%BA%E4%BD%95%E9%9D%A2%E4%B8%B4%E8%81%8C%E5%9C%BA%E6%8E%92%E6%8C%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女婴出生第一天喝了过期奶粉](https://www.baidu.com/s?wd=%E5%A5%B3%E5%A9%B4%E5%87%BA%E7%94%9F%E7%AC%AC%E4%B8%80%E5%A4%A9%E5%96%9D%E4%BA%86%E8%BF%87%E6%9C%9F%E5%A5%B6%E7%B2%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [教授称有人花百万留学回来月薪5000](https://www.baidu.com/s?wd=%E6%95%99%E6%8E%88%E7%A7%B0%E6%9C%89%E4%BA%BA%E8%8A%B1%E7%99%BE%E4%B8%87%E7%95%99%E5%AD%A6%E5%9B%9E%E6%9D%A5%E6%9C%88%E8%96%AA5000&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [7旬老人为救被殴女子遭男子捅死](https://www.baidu.com/s?wd=7%E6%97%AC%E8%80%81%E4%BA%BA%E4%B8%BA%E6%95%91%E8%A2%AB%E6%AE%B4%E5%A5%B3%E5%AD%90%E9%81%AD%E7%94%B7%E5%AD%90%E6%8D%85%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [美国财长为何面临职场排挤](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E8%B4%A2%E9%95%BF%E4%B8%BA%E4%BD%95%E9%9D%A2%E4%B8%B4%E8%81%8C%E5%9C%BA%E6%8E%92%E6%8C%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
