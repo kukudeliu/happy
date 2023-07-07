@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-07 19:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-07 19:19:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [法国男子40度高温“包场”逛长城](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E7%94%B7%E5%AD%9040%E5%BA%A6%E9%AB%98%E6%B8%A9%E2%80%9C%E5%8C%85%E5%9C%BA%E2%80%9D%E9%80%9B%E9%95%BF%E5%9F%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [学生被老师批评后坠亡 家长索赔1元](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E8%A2%AB%E8%80%81%E5%B8%88%E6%89%B9%E8%AF%84%E5%90%8E%E5%9D%A0%E4%BA%A1+%E5%AE%B6%E9%95%BF%E7%B4%A2%E8%B5%941%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [周末宅家必备宝藏零食](https://www.baidu.com/s?wd=%E5%91%A8%E6%9C%AB%E5%AE%85%E5%AE%B6%E5%BF%85%E5%A4%87%E5%AE%9D%E8%97%8F%E9%9B%B6%E9%A3%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [32层高楼外墙脱落像爆炸现场](https://www.baidu.com/s?wd=32%E5%B1%82%E9%AB%98%E6%A5%BC%E5%A4%96%E5%A2%99%E8%84%B1%E8%90%BD%E5%83%8F%E7%88%86%E7%82%B8%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [2岁女孩遇车祸交警喊来妻子哄娃](https://www.baidu.com/s?wd=2%E5%B2%81%E5%A5%B3%E5%AD%A9%E9%81%87%E8%BD%A6%E7%A5%B8%E4%BA%A4%E8%AD%A6%E5%96%8A%E6%9D%A5%E5%A6%BB%E5%AD%90%E5%93%84%E5%A8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [法国男子40度高温“包场”逛长城](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E7%94%B7%E5%AD%9040%E5%BA%A6%E9%AB%98%E6%B8%A9%E2%80%9C%E5%8C%85%E5%9C%BA%E2%80%9D%E9%80%9B%E9%95%BF%E5%9F%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [学生被老师批评后坠亡 家长索赔1元](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E8%A2%AB%E8%80%81%E5%B8%88%E6%89%B9%E8%AF%84%E5%90%8E%E5%9D%A0%E4%BA%A1+%E5%AE%B6%E9%95%BF%E7%B4%A2%E8%B5%941%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [周末宅家必备宝藏零食](https://www.baidu.com/s?wd=%E5%91%A8%E6%9C%AB%E5%AE%85%E5%AE%B6%E5%BF%85%E5%A4%87%E5%AE%9D%E8%97%8F%E9%9B%B6%E9%A3%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [32层高楼外墙脱落像爆炸现场](https://www.baidu.com/s?wd=32%E5%B1%82%E9%AB%98%E6%A5%BC%E5%A4%96%E5%A2%99%E8%84%B1%E8%90%BD%E5%83%8F%E7%88%86%E7%82%B8%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [2岁女孩遇车祸交警喊来妻子哄娃](https://www.baidu.com/s?wd=2%E5%B2%81%E5%A5%B3%E5%AD%A9%E9%81%87%E8%BD%A6%E7%A5%B8%E4%BA%A4%E8%AD%A6%E5%96%8A%E6%9D%A5%E5%A6%BB%E5%AD%90%E5%93%84%E5%A8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
