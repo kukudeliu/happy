@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-07 11:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-07 11:58:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [中国禁止进口日本福岛等十地食品](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A6%81%E6%AD%A2%E8%BF%9B%E5%8F%A3%E6%97%A5%E6%9C%AC%E7%A6%8F%E5%B2%9B%E7%AD%89%E5%8D%81%E5%9C%B0%E9%A3%9F%E5%93%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [布兰妮希望NBA状元公开道歉](https://s.weibo.com/weibo?q=%23%E5%B8%83%E5%85%B0%E5%A6%AE%E5%B8%8C%E6%9C%9BNBA%E7%8A%B6%E5%85%83%E5%85%AC%E5%BC%80%E9%81%93%E6%AD%89%23&t=31&band_rank=7&Refer=top)<br />
 8. [李玟姐姐呼吁大家不要作任何揣测](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E5%A7%90%E5%A7%90%E5%91%BC%E5%90%81%E5%A4%A7%E5%AE%B6%E4%B8%8D%E8%A6%81%E4%BD%9C%E4%BB%BB%E4%BD%95%E6%8F%A3%E6%B5%8B%23&t=31&band_rank=8&Refer=top)<br />
-9. [iPhone15系列8月将量产](https://s.weibo.com/weibo?q=%23iPhone15%E7%B3%BB%E5%88%978%E6%9C%88%E5%B0%86%E9%87%8F%E4%BA%A7%23&t=31&band_rank=9&Refer=top)<br />
+9. [特斯拉](https://s.weibo.com/weibo?q=%E7%89%B9%E6%96%AF%E6%8B%89&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
