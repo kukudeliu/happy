@@ -1,15 +1,15 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-07 19:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-07 19:30:01</h4></div>
 
 > 微博  
 
 1. [知乎宣布将下线匿名功能](https://s.weibo.com/weibo?q=%23%E7%9F%A5%E4%B9%8E%E5%AE%A3%E5%B8%83%E5%B0%86%E4%B8%8B%E7%BA%BF%E5%8C%BF%E5%90%8D%E5%8A%9F%E8%83%BD%23&t=31&band_rank=1&Refer=top)<br />
 2. [2岁女孩遇车祸交警喊来妻子哄娃](https://s.weibo.com/weibo?q=%232%E5%B2%81%E5%A5%B3%E5%AD%A9%E9%81%87%E8%BD%A6%E7%A5%B8%E4%BA%A4%E8%AD%A6%E5%96%8A%E6%9D%A5%E5%A6%BB%E5%AD%90%E5%93%84%E5%A8%83%23&t=31&band_rank=2&Refer=top)<br />
 3. [七七事变爆发86周年](https://s.weibo.com/weibo?q=%23%E4%B8%83%E4%B8%83%E4%BA%8B%E5%8F%98%E7%88%86%E5%8F%9186%E5%91%A8%E5%B9%B4%23&t=31&band_rank=3&Refer=top)<br />
-4. [郑秀文 抑郁症我懂](https://s.weibo.com/weibo?q=%E9%83%91%E7%A7%80%E6%96%87%20%E6%8A%91%E9%83%81%E7%97%87%E6%88%91%E6%87%82&t=31&band_rank=4&Refer=top)<br />
+4. [李玟疑因窒息死亡](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E7%96%91%E5%9B%A0%E7%AA%92%E6%81%AF%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=4&Refer=top)<br />
 5. [新疆库木塔格沙漠海市蜃楼奇观](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E5%BA%93%E6%9C%A8%E5%A1%94%E6%A0%BC%E6%B2%99%E6%BC%A0%E6%B5%B7%E5%B8%82%E8%9C%83%E6%A5%BC%E5%A5%87%E8%A7%82%23&t=31&band_rank=5&Refer=top)<br />
 6. [曾毅竟然50岁了](https://s.weibo.com/weibo?q=%23%E6%9B%BE%E6%AF%85%E7%AB%9F%E7%84%B650%E5%B2%81%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [被新疆交警的叮嘱暖到了](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%96%B0%E7%96%86%E4%BA%A4%E8%AD%A6%E7%9A%84%E5%8F%AE%E5%98%B1%E6%9A%96%E5%88%B0%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [李玟疑因窒息死亡](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E7%96%91%E5%9B%A0%E7%AA%92%E6%81%AF%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
+8. [郑秀文 抑郁症我懂](https://s.weibo.com/weibo?q=%E9%83%91%E7%A7%80%E6%96%87%20%E6%8A%91%E9%83%81%E7%97%87%E6%88%91%E6%87%82&t=31&band_rank=8&Refer=top)<br />
 9. [小欢喜2](https://s.weibo.com/weibo?q=%E5%B0%8F%E6%AC%A2%E5%96%9C2&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -22,7 +22,7 @@
 6. [电影《八角笼中》的原型事件是什么样的？](https://www.zhihu.com/question/610638181)<br />
 7. [为什么东吴四大都督只有鲁肃好像能力不太突出，也没什么存在感？](https://www.zhihu.com/question/610654500)<br />
 8. [江西一地发布抵制农村高价彩礼通告，指出「超六万可举报」，官方回应「已撤销，考虑不周」，如何看待此事？](https://www.zhihu.com/question/610629862)<br />
-9. [2023 LPL 夏季赛 LGD 0:2 不敌 EDG，如何评价这场比赛？](https://www.zhihu.com/question/610850411)<br />
+9. [「华东五校」是同一档次的学校么？](https://www.zhihu.com/question/610232344)<br />
 
 > 百度  
 
