@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 15:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 15:32:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [坐电梯坐到张杰谢娜家](https://s.weibo.com/weibo?q=%23%E5%9D%90%E7%94%B5%E6%A2%AF%E5%9D%90%E5%88%B0%E5%BC%A0%E6%9D%B0%E8%B0%A2%E5%A8%9C%E5%AE%B6%23&t=31&band_rank=6&Refer=top)<br />
 7. [杨天真考北大博士失败](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%A4%A9%E7%9C%9F%E8%80%83%E5%8C%97%E5%A4%A7%E5%8D%9A%E5%A3%AB%E5%A4%B1%E8%B4%A5%23&t=31&band_rank=7&Refer=top)<br />
 8. [哈尔滨成功申办2025亚冬会](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E6%88%90%E5%8A%9F%E7%94%B3%E5%8A%9E2025%E4%BA%9A%E5%86%AC%E4%BC%9A%23&t=31&band_rank=8&Refer=top)<br />
-9. [凤凰传奇什么时候变成三个人了](https://s.weibo.com/weibo?q=%23%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E5%8F%98%E6%88%90%E4%B8%89%E4%B8%AA%E4%BA%BA%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [英国一年制硕士水吗](https://s.weibo.com/weibo?q=%E8%8B%B1%E5%9B%BD%E4%B8%80%E5%B9%B4%E5%88%B6%E7%A1%95%E5%A3%AB%E6%B0%B4%E5%90%97&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -20,9 +20,9 @@
 4. [为什么「日」在口语中叫「太阳」，「月」口语叫「月亮」，显得这么不对称？](https://www.zhihu.com/question/610591222)<br />
 5. [公募基金费率改革启动，涉及六方面内容，管理费率、托管费率不超过 1.2% 、 0.2%，如何解读？](https://www.zhihu.com/question/611022016)<br />
 6. [22-23 赛季 NBA 黄蜂 68:76 马刺，状元文班亚马首秀 13 投 2 中拿 9 分，如何评价这场比赛？](https://www.zhihu.com/question/611004001)<br />
-7. [「原来骑手知道我在看配送进度」引发网友热议，你点外卖会看配送进度吗？看进度是为了催单还是其他什么考虑？](https://www.zhihu.com/question/610819713)<br />
-8. [动画电影《长安三万里》7 月 8 日上映，你有哪些观影体验或想说的？](https://www.zhihu.com/question/610737000)<br />
-9. [如何评价《明日方舟》故事集「眠于树影之中」，你有哪些看法或解读？](https://www.zhihu.com/question/610266696)<br />
+7. [动画电影《长安三万里》7 月 8 日上映，你有哪些观影体验或想说的？](https://www.zhihu.com/question/610737000)<br />
+8. [如何评价《明日方舟》故事集「眠于树影之中」，你有哪些看法或解读？](https://www.zhihu.com/question/610266696)<br />
+9. [「熊孩子新闻」正在被当成爽文吸引流量，在厌女、憎男、仇老之后，「仇童」登上舆论场，反映出哪些社会问题？](https://www.zhihu.com/question/610906643)<br />
 
 > 百度  
 
