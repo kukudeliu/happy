@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 13:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 13:01:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [布兰妮被掌掴视频曝光](https://s.weibo.com/weibo?q=%23%E5%B8%83%E5%85%B0%E5%A6%AE%E8%A2%AB%E6%8E%8C%E6%8E%B4%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [柳玉茹 假死](https://s.weibo.com/weibo?q=%E6%9F%B3%E7%8E%89%E8%8C%B9%20%E5%81%87%E6%AD%BB&t=31&band_rank=7&Refer=top)<br />
 8. [iPhone15Pro系列将采用深蓝色](https://s.weibo.com/weibo?q=%23iPhone15Pro%E7%B3%BB%E5%88%97%E5%B0%86%E9%87%87%E7%94%A8%E6%B7%B1%E8%93%9D%E8%89%B2%23&t=31&band_rank=8&Refer=top)<br />
-9. [金虎](https://s.weibo.com/weibo?q=%E9%87%91%E8%99%8E&t=31&band_rank=9&Refer=top)<br />
+9. [当事人回应私搭浮桥一家18口被判刑](https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%9B%9E%E5%BA%94%E7%A7%81%E6%90%AD%E6%B5%AE%E6%A1%A5%E4%B8%80%E5%AE%B618%E5%8F%A3%E8%A2%AB%E5%88%A4%E5%88%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -20,9 +20,9 @@
 4. [「熊孩子新闻」正在被当成爽文吸引流量，在厌女、憎男、仇老之后，「仇童」登上舆论场，反映出哪些社会问题？](https://www.zhihu.com/question/610906643)<br />
 5. [《荒野大镖客 2》讲述了一个怎样的故事？](https://www.zhihu.com/question/303212755)<br />
 6. [全球平均气温连续 3 天处于历史高位，这样的高温天气还会持续多久？厄尔尼诺回归还将带来哪些影响？](https://www.zhihu.com/question/610680044)<br />
-7. [「精细式」带娃和「放养式」带娃，哪种更有利于孩子的健康成长？](https://www.zhihu.com/question/610934799)<br />
-8. [去江南游玩的话，有没有哪些地方推荐？](https://www.zhihu.com/question/590285363)<br />
-9. []()<br />
+7. [去江南游玩的话，有没有哪些地方推荐？](https://www.zhihu.com/question/590285363)<br />
+8. [「精细式」带娃和「放养式」带娃，哪种更有利于孩子的健康成长？](https://www.zhihu.com/question/610934799)<br />
+9. [高考忘记自己贴没贴条形码了，如果没贴的话监考老师会发现吗？](https://www.zhihu.com/question/605787700)<br />
 
 > 百度  
 
