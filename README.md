@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 19:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 19:33:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [中国汽车工业协会声明删除《承诺书》涉及价格表述，敦促车企严格遵守《反垄断法》，如何看待此事？](https://www.zhihu.com/question/611038104)<br />
 5. [首个国产 GLP-1「减肥神药」来了，华东医药利拉鲁肽获批，哪些信息值得关注？](https://www.zhihu.com/question/610459703)<br />
 6. [企业允许「带娃上班」并请专职老师辅导作业，如何看待企业的做法，「带娃上班」能否在全国推广？](https://www.zhihu.com/question/610867860)<br />
-7. [高考后有什么是你觉得值得去做的事？](https://www.zhihu.com/question/610802018)<br />
-8. [2023 年电热水器怎么选，能让体验有「质的飞跃」？](https://www.zhihu.com/question/589898650)<br />
-9. [方向盘打到底到底有多伤车？](https://www.zhihu.com/question/604715486)<br />
+7. [如何评价追光动画新片《长安三万里》？值得去影院看吗？](https://www.zhihu.com/question/609959903)<br />
+8. [高考后有什么是你觉得值得去做的事？](https://www.zhihu.com/question/610802018)<br />
+9. [2023 年电热水器怎么选，能让体验有「质的飞跃」？](https://www.zhihu.com/question/589898650)<br />
 
 > 百度  
 
