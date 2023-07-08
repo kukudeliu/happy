@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 18:24:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 18:25:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [李玟老公：我一直对她很好](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E8%80%81%E5%85%AC%EF%BC%9A%E6%88%91%E4%B8%80%E7%9B%B4%E5%AF%B9%E5%A5%B9%E5%BE%88%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子用丝袜包5条活蛇藏胸部入境](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%94%A8%E4%B8%9D%E8%A2%9C%E5%8C%855%E6%9D%A1%E6%B4%BB%E8%9B%87%E8%97%8F%E8%83%B8%E9%83%A8%E5%85%A5%E5%A2%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [杨天真考北大博士失败](https://www.baidu.com/s?wd=%E6%9D%A8%E5%A4%A9%E7%9C%9F%E8%80%83%E5%8C%97%E5%A4%A7%E5%8D%9A%E5%A3%AB%E5%A4%B1%E8%B4%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [高温天轿车内突然爆炸司机被烧伤](https://www.baidu.com/s?wd=%E9%AB%98%E6%B8%A9%E5%A4%A9%E8%BD%BF%E8%BD%A6%E5%86%85%E7%AA%81%E7%84%B6%E7%88%86%E7%82%B8%E5%8F%B8%E6%9C%BA%E8%A2%AB%E7%83%A7%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [拜登称支持乌加入北约意味与俄开战](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E7%A7%B0%E6%94%AF%E6%8C%81%E4%B9%8C%E5%8A%A0%E5%85%A5%E5%8C%97%E7%BA%A6%E6%84%8F%E5%91%B3%E4%B8%8E%E4%BF%84%E5%BC%80%E6%88%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [拜登称支持乌加入北约意味与俄开战](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E7%A7%B0%E6%94%AF%E6%8C%81%E4%B9%8C%E5%8A%A0%E5%85%A5%E5%8C%97%E7%BA%A6%E6%84%8F%E5%91%B3%E4%B8%8E%E4%BF%84%E5%BC%80%E6%88%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [知名男星被曝遭女友长期控制](https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E7%94%B7%E6%98%9F%E8%A2%AB%E6%9B%9D%E9%81%AD%E5%A5%B3%E5%8F%8B%E9%95%BF%E6%9C%9F%E6%8E%A7%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [李玟老公：我一直对她很好](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E8%80%81%E5%85%AC%EF%BC%9A%E6%88%91%E4%B8%80%E7%9B%B4%E5%AF%B9%E5%A5%B9%E5%BE%88%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子用丝袜包5条活蛇藏胸部入境](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%94%A8%E4%B8%9D%E8%A2%9C%E5%8C%855%E6%9D%A1%E6%B4%BB%E8%9B%87%E8%97%8F%E8%83%B8%E9%83%A8%E5%85%A5%E5%A2%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [杨天真考北大博士失败](https://www.baidu.com/s?wd=%E6%9D%A8%E5%A4%A9%E7%9C%9F%E8%80%83%E5%8C%97%E5%A4%A7%E5%8D%9A%E5%A3%AB%E5%A4%B1%E8%B4%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [高温天轿车内突然爆炸司机被烧伤](https://www.baidu.com/s?wd=%E9%AB%98%E6%B8%A9%E5%A4%A9%E8%BD%BF%E8%BD%A6%E5%86%85%E7%AA%81%E7%84%B6%E7%88%86%E7%82%B8%E5%8F%B8%E6%9C%BA%E8%A2%AB%E7%83%A7%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [拜登称支持乌加入北约意味与俄开战](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E7%A7%B0%E6%94%AF%E6%8C%81%E4%B9%8C%E5%8A%A0%E5%85%A5%E5%8C%97%E7%BA%A6%E6%84%8F%E5%91%B3%E4%B8%8E%E4%BF%84%E5%BC%80%E6%88%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [拜登称支持乌加入北约意味与俄开战](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E7%A7%B0%E6%94%AF%E6%8C%81%E4%B9%8C%E5%8A%A0%E5%85%A5%E5%8C%97%E7%BA%A6%E6%84%8F%E5%91%B3%E4%B8%8E%E4%BF%84%E5%BC%80%E6%88%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [知名男星被曝遭女友长期控制](https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E7%94%B7%E6%98%9F%E8%A2%AB%E6%9B%9D%E9%81%AD%E5%A5%B3%E5%8F%8B%E9%95%BF%E6%9C%9F%E6%8E%A7%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
