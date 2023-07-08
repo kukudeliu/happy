@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 11:48:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 11:49:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [夫妇彩票中3亿7年后各自和新人住豪宅](https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%87%E5%BD%A9%E7%A5%A8%E4%B8%AD3%E4%BA%BF7%E5%B9%B4%E5%90%8E%E5%90%84%E8%87%AA%E5%92%8C%E6%96%B0%E4%BA%BA%E4%BD%8F%E8%B1%AA%E5%AE%85%23&t=31&band_rank=4&Refer=top)<br />
 5. [柳玉茹 假死](https://s.weibo.com/weibo?q=%E6%9F%B3%E7%8E%89%E8%8C%B9%20%E5%81%87%E6%AD%BB&t=31&band_rank=5&Refer=top)<br />
 6. [布兰妮被掌掴视频曝光](https://s.weibo.com/weibo?q=%23%E5%B8%83%E5%85%B0%E5%A6%AE%E8%A2%AB%E6%8E%8C%E6%8E%B4%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89%23&t=31&band_rank=6&Refer=top)<br />
-7. [福宝要当姐姐了](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%AE%9D%E8%A6%81%E5%BD%93%E5%A7%90%E5%A7%90%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [肖战以后还演古偶吗](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E4%BB%A5%E5%90%8E%E8%BF%98%E6%BC%94%E5%8F%A4%E5%81%B6%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [男生考上研究生辞掉上万月薪工作](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E8%80%83%E4%B8%8A%E7%A0%94%E7%A9%B6%E7%94%9F%E8%BE%9E%E6%8E%89%E4%B8%8A%E4%B8%87%E6%9C%88%E8%96%AA%E5%B7%A5%E4%BD%9C%23&t=31&band_rank=9&Refer=top)<br />
+7. [读了一天博了](https://s.weibo.com/weibo?q=%23%E8%AF%BB%E4%BA%86%E4%B8%80%E5%A4%A9%E5%8D%9A%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+8. [福宝要当姐姐了](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%AE%9D%E8%A6%81%E5%BD%93%E5%A7%90%E5%A7%90%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [肖战以后还演古偶吗](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E4%BB%A5%E5%90%8E%E8%BF%98%E6%BC%94%E5%8F%A4%E5%81%B6%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [为什么我感觉我学车的整个过程都十分痛苦?](https://www.zhihu.com/question/502258796)<br />
 7. [失业后假装去上班，实则游荡街头，中年人遭遇「35 岁危机」该如何重启人生？](https://www.zhihu.com/question/610809937)<br />
 8. []()<br />
-9. [为何武侠小说的结局往往是男女主角归隐山林？](https://www.zhihu.com/question/609702617)<br />
+9. [《荒野大镖客 2》讲述了一个怎样的故事？](https://www.zhihu.com/question/303212755)<br />
 
 > 百度  
 
@@ -33,8 +33,8 @@
 5. [夫妇中3亿7年后各自和新人住豪宅](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%87%E4%B8%AD3%E4%BA%BF7%E5%B9%B4%E5%90%8E%E5%90%84%E8%87%AA%E5%92%8C%E6%96%B0%E4%BA%BA%E4%BD%8F%E8%B1%AA%E5%AE%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [布兰妮被掌掴视频曝光](https://www.baidu.com/s?wd=%E5%B8%83%E5%85%B0%E5%A6%AE%E8%A2%AB%E6%8E%8C%E6%8E%B4%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子无人区遇乞食狼下车投喂](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%97%A0%E4%BA%BA%E5%8C%BA%E9%81%87%E4%B9%9E%E9%A3%9F%E7%8B%BC%E4%B8%8B%E8%BD%A6%E6%8A%95%E5%96%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [大模型内卷：百模大战开打了](https://www.baidu.com/s?wd=%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%86%85%E5%8D%B7%EF%BC%9A%E7%99%BE%E6%A8%A1%E5%A4%A7%E6%88%98%E5%BC%80%E6%89%93%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [河南人被正式确诊为红孩儿](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%BA%BA%E8%A2%AB%E6%AD%A3%E5%BC%8F%E7%A1%AE%E8%AF%8A%E4%B8%BA%E7%BA%A2%E5%AD%A9%E5%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [村民私建浮桥被判刑 法院通报](https://www.baidu.com/s?wd=%E6%9D%91%E6%B0%91%E7%A7%81%E5%BB%BA%E6%B5%AE%E6%A1%A5%E8%A2%AB%E5%88%A4%E5%88%91+%E6%B3%95%E9%99%A2%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [扫毒3差评出奇一致](https://www.baidu.com/s?wd=%E6%89%AB%E6%AF%923%E5%B7%AE%E8%AF%84%E5%87%BA%E5%A5%87%E4%B8%80%E8%87%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [夫妇中3亿7年后各自和新人住豪宅](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%87%E4%B8%AD3%E4%BA%BF7%E5%B9%B4%E5%90%8E%E5%90%84%E8%87%AA%E5%92%8C%E6%96%B0%E4%BA%BA%E4%BD%8F%E8%B1%AA%E5%AE%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [布兰妮被掌掴视频曝光](https://www.baidu.com/s?wd=%E5%B8%83%E5%85%B0%E5%A6%AE%E8%A2%AB%E6%8E%8C%E6%8E%B4%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子无人区遇乞食狼下车投喂](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%97%A0%E4%BA%BA%E5%8C%BA%E9%81%87%E4%B9%9E%E9%A3%9F%E7%8B%BC%E4%B8%8B%E8%BD%A6%E6%8A%95%E5%96%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [大模型内卷：百模大战开打了](https://www.baidu.com/s?wd=%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%86%85%E5%8D%B7%EF%BC%9A%E7%99%BE%E6%A8%A1%E5%A4%A7%E6%88%98%E5%BC%80%E6%89%93%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [河南人被正式确诊为红孩儿](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%BA%BA%E8%A2%AB%E6%AD%A3%E5%BC%8F%E7%A1%AE%E8%AF%8A%E4%B8%BA%E7%BA%A2%E5%AD%A9%E5%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [村民私建浮桥被判刑 法院通报](https://www.baidu.com/s?wd=%E6%9D%91%E6%B0%91%E7%A7%81%E5%BB%BA%E6%B5%AE%E6%A1%A5%E8%A2%AB%E5%88%A4%E5%88%91+%E6%B3%95%E9%99%A2%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [扫毒3差评出奇一致](https://www.baidu.com/s?wd=%E6%89%AB%E6%AF%923%E5%B7%AE%E8%AF%84%E5%87%BA%E5%A5%87%E4%B8%80%E8%87%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
