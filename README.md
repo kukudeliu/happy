@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 16:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 16:56:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [公募基金费率改革启动，涉及六方面内容，管理费率、托管费率不超过 1.2% 、 0.2%，如何解读？](https://www.zhihu.com/question/611022016)<br />
 6. [金庸小说《神雕侠侣》你站的是过芙还是龙过？](https://www.zhihu.com/question/459125813)<br />
 7. [排骨怎么炖可以又嫩又香？](https://www.zhihu.com/question/559603358)<br />
-8. [孩子爱打游戏是买游戏机给他玩还是买手机给他玩？](https://www.zhihu.com/question/609898977)<br />
-9. [如何评价《布莱泽奥特曼》第一集？](https://www.zhihu.com/question/611021174)<br />
+8. []()<br />
+9. [孩子爱打游戏是买游戏机给他玩还是买手机给他玩？](https://www.zhihu.com/question/609898977)<br />
 
 > 百度  
 
