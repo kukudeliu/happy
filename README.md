@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 14:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 14:34:01</h4></div>
 
 > 微博  
 
@@ -31,10 +31,10 @@
 3. [曝上海地铁一女子发表辱华言论](https://www.baidu.com/s?wd=%E6%9B%9D%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E4%B8%80%E5%A5%B3%E5%AD%90%E5%8F%91%E8%A1%A8%E8%BE%B1%E5%8D%8E%E8%A8%80%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [奋力推进中国式现代化](https://www.baidu.com/s?wd=%E5%A5%8B%E5%8A%9B%E6%8E%A8%E8%BF%9B%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [多地多人确诊 如何避免感染猴痘病毒](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%A4%9A%E4%BA%BA%E7%A1%AE%E8%AF%8A+%E5%A6%82%E4%BD%95%E9%81%BF%E5%85%8D%E6%84%9F%E6%9F%93%E7%8C%B4%E7%97%98%E7%97%85%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [高校团队自主研发钻石送毕业生](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E5%9B%A2%E9%98%9F%E8%87%AA%E4%B8%BB%E7%A0%94%E5%8F%91%E9%92%BB%E7%9F%B3%E9%80%81%E6%AF%95%E4%B8%9A%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [专家称户籍制度改革可刺激消费](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%88%B7%E7%B1%8D%E5%88%B6%E5%BA%A6%E6%94%B9%E9%9D%A9%E5%8F%AF%E5%88%BA%E6%BF%80%E6%B6%88%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [扫毒3差评出奇一致](https://www.baidu.com/s?wd=%E6%89%AB%E6%AF%923%E5%B7%AE%E8%AF%84%E5%87%BA%E5%A5%87%E4%B8%80%E8%87%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [国货美妆逃离“李佳琦”](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B4%A7%E7%BE%8E%E5%A6%86%E9%80%83%E7%A6%BB%E2%80%9C%E6%9D%8E%E4%BD%B3%E7%90%A6%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [院长要求给病人开中药称可私自加价](https://www.baidu.com/s?wd=%E9%99%A2%E9%95%BF%E8%A6%81%E6%B1%82%E7%BB%99%E7%97%85%E4%BA%BA%E5%BC%80%E4%B8%AD%E8%8D%AF%E7%A7%B0%E5%8F%AF%E7%A7%81%E8%87%AA%E5%8A%A0%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [扫毒3差评出奇一致](https://www.baidu.com/s?wd=%E6%89%AB%E6%AF%923%E5%B7%AE%E8%AF%84%E5%87%BA%E5%A5%87%E4%B8%80%E8%87%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [大额存单，抢疯了](https://www.baidu.com/s?wd=%E5%A4%A7%E9%A2%9D%E5%AD%98%E5%8D%95%EF%BC%8C%E6%8A%A2%E7%96%AF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [大模型内卷：百模大战开打了](https://www.baidu.com/s?wd=%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%86%85%E5%8D%B7%EF%BC%9A%E7%99%BE%E6%A8%A1%E5%A4%A7%E6%88%98%E5%BC%80%E6%89%93%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [曝上海地铁一女子发表辱华言论](https://www.baidu.com/s?wd=%E6%9B%9D%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E4%B8%80%E5%A5%B3%E5%AD%90%E5%8F%91%E8%A1%A8%E8%BE%B1%E5%8D%8E%E8%A8%80%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [奋力推进中国式现代化](https://www.baidu.com/s?wd=%E5%A5%8B%E5%8A%9B%E6%8E%A8%E8%BF%9B%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [多地多人确诊 如何避免感染猴痘病毒](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%A4%9A%E4%BA%BA%E7%A1%AE%E8%AF%8A+%E5%A6%82%E4%BD%95%E9%81%BF%E5%85%8D%E6%84%9F%E6%9F%93%E7%8C%B4%E7%97%98%E7%97%85%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [高校团队自主研发钻石送毕业生](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E5%9B%A2%E9%98%9F%E8%87%AA%E4%B8%BB%E7%A0%94%E5%8F%91%E9%92%BB%E7%9F%B3%E9%80%81%E6%AF%95%E4%B8%9A%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [专家称户籍制度改革可刺激消费](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%88%B7%E7%B1%8D%E5%88%B6%E5%BA%A6%E6%94%B9%E9%9D%A9%E5%8F%AF%E5%88%BA%E6%BF%80%E6%B6%88%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [扫毒3差评出奇一致](https://www.baidu.com/s?wd=%E6%89%AB%E6%AF%923%E5%B7%AE%E8%AF%84%E5%87%BA%E5%A5%87%E4%B8%80%E8%87%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [国货美妆逃离“李佳琦”](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B4%A7%E7%BE%8E%E5%A6%86%E9%80%83%E7%A6%BB%E2%80%9C%E6%9D%8E%E4%BD%B3%E7%90%A6%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [院长要求给病人开中药称可私自加价](https://www.baidu.com/s?wd=%E9%99%A2%E9%95%BF%E8%A6%81%E6%B1%82%E7%BB%99%E7%97%85%E4%BA%BA%E5%BC%80%E4%B8%AD%E8%8D%AF%E7%A7%B0%E5%8F%AF%E7%A7%81%E8%87%AA%E5%8A%A0%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [扫毒3差评出奇一致](https://www.baidu.com/s?wd=%E6%89%AB%E6%AF%923%E5%B7%AE%E8%AF%84%E5%87%BA%E5%A5%87%E4%B8%80%E8%87%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [大额存单，抢疯了](https://www.baidu.com/s?wd=%E5%A4%A7%E9%A2%9D%E5%AD%98%E5%8D%95%EF%BC%8C%E6%8A%A2%E7%96%AF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [大模型内卷：百模大战开打了](https://www.baidu.com/s?wd=%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%86%85%E5%8D%B7%EF%BC%9A%E7%99%BE%E6%A8%A1%E5%A4%A7%E6%88%98%E5%BC%80%E6%89%93%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
