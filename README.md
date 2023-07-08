@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 16:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 16:40:01</h4></div>
 
 > 微博  
 
@@ -9,16 +9,16 @@
 5. [胡一统都当校长了](https://s.weibo.com/weibo?q=%23%E8%83%A1%E4%B8%80%E7%BB%9F%E9%83%BD%E5%BD%93%E6%A0%A1%E9%95%BF%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [现偶四大甜妹](https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%81%B6%E5%9B%9B%E5%A4%A7%E7%94%9C%E5%A6%B9%23&t=31&band_rank=6&Refer=top)<br />
 7. [德国女生坚持跑步20周成功蜕变](https://s.weibo.com/weibo?q=%E5%BE%B7%E5%9B%BD%E5%A5%B3%E7%94%9F%E5%9D%9A%E6%8C%81%E8%B7%91%E6%AD%A520%E5%91%A8%E6%88%90%E5%8A%9F%E8%9C%95%E5%8F%98&t=31&band_rank=7&Refer=top)<br />
-8. [上海地铁一女子发表辱华言论](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E4%B8%80%E5%A5%B3%E5%AD%90%E5%8F%91%E8%A1%A8%E8%BE%B1%E5%8D%8E%E8%A8%80%E8%AE%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [杨天真考北大博士失败](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%A4%A9%E7%9C%9F%E8%80%83%E5%8C%97%E5%A4%A7%E5%8D%9A%E5%A3%AB%E5%A4%B1%E8%B4%A5%23&t=31&band_rank=9&Refer=top)<br />
+8. [杨天真考北大博士失败](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%A4%A9%E7%9C%9F%E8%80%83%E5%8C%97%E5%A4%A7%E5%8D%9A%E5%A3%AB%E5%A4%B1%E8%B4%A5%23&t=31&band_rank=8&Refer=top)<br />
+9. [上海地铁一女子发表辱华言论](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E4%B8%80%E5%A5%B3%E5%AD%90%E5%8F%91%E8%A1%A8%E8%BE%B1%E5%8D%8E%E8%A8%80%E8%AE%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [拜登批准向乌克兰提供违禁武器集束弹药，联合国表示反对，集束炸弹可能带来哪些危害？对局势有何影响？](https://www.zhihu.com/question/610954206)<br />
 2. [三星电子二季度营业利润暴跌 96%，创 14 年新低，因半导体低迷，韩国或下调经济增长预测，如看解读？](https://www.zhihu.com/question/611009487)<br />
 3. [网曝郑州花 34 亿给河道干挂大理石砖，官方回应「已关注到质疑声音，正在开会讨论」，如何看待此事？](https://www.zhihu.com/question/610860810)<br />
-4. [公募基金费率改革启动，涉及六方面内容，管理费率、托管费率不超过 1.2% 、 0.2%，如何解读？](https://www.zhihu.com/question/611022016)<br />
-5. [方向盘打到底到底有多伤车？](https://www.zhihu.com/question/604715486)<br />
+4. [方向盘打到底到底有多伤车？](https://www.zhihu.com/question/604715486)<br />
+5. [公募基金费率改革启动，涉及六方面内容，管理费率、托管费率不超过 1.2% 、 0.2%，如何解读？](https://www.zhihu.com/question/611022016)<br />
 6. [金庸小说《神雕侠侣》你站的是过芙还是龙过？](https://www.zhihu.com/question/459125813)<br />
 7. [排骨怎么炖可以又嫩又香？](https://www.zhihu.com/question/559603358)<br />
 8. [「原来骑手知道我在看配送进度」引发网友热议，你点外卖会看配送进度吗？看进度是为了催单还是其他什么考虑？](https://www.zhihu.com/question/610819713)<br />
@@ -32,9 +32,9 @@
 4. [走好这条“必由之路”](https://www.baidu.com/s?wd=%E8%B5%B0%E5%A5%BD%E8%BF%99%E6%9D%A1%E2%80%9C%E5%BF%85%E7%94%B1%E4%B9%8B%E8%B7%AF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [李玟二姐喊话让知情人站出来](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E4%BA%8C%E5%A7%90%E5%96%8A%E8%AF%9D%E8%AE%A9%E7%9F%A5%E6%83%85%E4%BA%BA%E7%AB%99%E5%87%BA%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [知名男星被曝遭女友长期控制](https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E7%94%B7%E6%98%9F%E8%A2%AB%E6%9B%9D%E9%81%AD%E5%A5%B3%E5%8F%8B%E9%95%BF%E6%9C%9F%E6%8E%A7%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [河北河南山东40度高温连成片](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E6%B2%B3%E5%8D%97%E5%B1%B1%E4%B8%9C40%E5%BA%A6%E9%AB%98%E6%B8%A9%E8%BF%9E%E6%88%90%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男生考上研究生辞掉上万月薪工作](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E8%80%83%E4%B8%8A%E7%A0%94%E7%A9%B6%E7%94%9F%E8%BE%9E%E6%8E%89%E4%B8%8A%E4%B8%87%E6%9C%88%E8%96%AA%E5%B7%A5%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [先救女友情侣送完锦旗后订婚了](https://www.baidu.com/s?wd=%E5%85%88%E6%95%91%E5%A5%B3%E5%8F%8B%E6%83%85%E4%BE%A3%E9%80%81%E5%AE%8C%E9%94%A6%E6%97%97%E5%90%8E%E8%AE%A2%E5%A9%9A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [杨天真考北大博士失败](https://www.baidu.com/s?wd=%E6%9D%A8%E5%A4%A9%E7%9C%9F%E8%80%83%E5%8C%97%E5%A4%A7%E5%8D%9A%E5%A3%AB%E5%A4%B1%E8%B4%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [河北河南山东40度高温连成片](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E6%B2%B3%E5%8D%97%E5%B1%B1%E4%B8%9C40%E5%BA%A6%E9%AB%98%E6%B8%A9%E8%BF%9E%E6%88%90%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男生考上研究生辞掉上万月薪工作](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E8%80%83%E4%B8%8A%E7%A0%94%E7%A9%B6%E7%94%9F%E8%BE%9E%E6%8E%89%E4%B8%8A%E4%B8%87%E6%9C%88%E8%96%AA%E5%B7%A5%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [走好这条“必由之路”](https://www.baidu.com/s?wd=%E8%B5%B0%E5%A5%BD%E8%BF%99%E6%9D%A1%E2%80%9C%E5%BF%85%E7%94%B1%E4%B9%8B%E8%B7%AF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [李玟二姐喊话让知情人站出来](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E4%BA%8C%E5%A7%90%E5%96%8A%E8%AF%9D%E8%AE%A9%E7%9F%A5%E6%83%85%E4%BA%BA%E7%AB%99%E5%87%BA%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [知名男星被曝遭女友长期控制](https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E7%94%B7%E6%98%9F%E8%A2%AB%E6%9B%9D%E9%81%AD%E5%A5%B3%E5%8F%8B%E9%95%BF%E6%9C%9F%E6%8E%A7%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [河北河南山东40度高温连成片](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E6%B2%B3%E5%8D%97%E5%B1%B1%E4%B8%9C40%E5%BA%A6%E9%AB%98%E6%B8%A9%E8%BF%9E%E6%88%90%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男生考上研究生辞掉上万月薪工作](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E8%80%83%E4%B8%8A%E7%A0%94%E7%A9%B6%E7%94%9F%E8%BE%9E%E6%8E%89%E4%B8%8A%E4%B8%87%E6%9C%88%E8%96%AA%E5%B7%A5%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [先救女友情侣送完锦旗后订婚了](https://www.baidu.com/s?wd=%E5%85%88%E6%95%91%E5%A5%B3%E5%8F%8B%E6%83%85%E4%BE%A3%E9%80%81%E5%AE%8C%E9%94%A6%E6%97%97%E5%90%8E%E8%AE%A2%E5%A9%9A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [杨天真考北大博士失败](https://www.baidu.com/s?wd=%E6%9D%A8%E5%A4%A9%E7%9C%9F%E8%80%83%E5%8C%97%E5%A4%A7%E5%8D%9A%E5%A3%AB%E5%A4%B1%E8%B4%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [河北河南山东40度高温连成片](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E6%B2%B3%E5%8D%97%E5%B1%B1%E4%B8%9C40%E5%BA%A6%E9%AB%98%E6%B8%A9%E8%BF%9E%E6%88%90%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男生考上研究生辞掉上万月薪工作](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E8%80%83%E4%B8%8A%E7%A0%94%E7%A9%B6%E7%94%9F%E8%BE%9E%E6%8E%89%E4%B8%8A%E4%B8%87%E6%9C%88%E8%96%AA%E5%B7%A5%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
