@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 09:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 09:06:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [为什么现在越来越多人想当老师](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E4%BA%BA%E6%83%B3%E5%BD%93%E8%80%81%E5%B8%88%23&t=31&band_rank=5&Refer=top)<br />
 6. [曝河南一院长要医生多开中药提升收入](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E6%B2%B3%E5%8D%97%E4%B8%80%E9%99%A2%E9%95%BF%E8%A6%81%E5%8C%BB%E7%94%9F%E5%A4%9A%E5%BC%80%E4%B8%AD%E8%8D%AF%E6%8F%90%E5%8D%87%E6%94%B6%E5%85%A5%23&t=31&band_rank=6&Refer=top)<br />
 7. [Angelababy张殷殷](https://s.weibo.com/weibo?q=%23Angelababy%E5%BC%A0%E6%AE%B7%E6%AE%B7%23&t=31&band_rank=7&Refer=top)<br />
-8. [女子无人区遇乞食狼下车投喂](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%97%A0%E4%BA%BA%E5%8C%BA%E9%81%87%E4%B9%9E%E9%A3%9F%E7%8B%BC%E4%B8%8B%E8%BD%A6%E6%8A%95%E5%96%82%23&t=31&band_rank=8&Refer=top)<br />
-9. [对这期跑男越来越感兴趣了](https://s.weibo.com/weibo?q=%23%E5%AF%B9%E8%BF%99%E6%9C%9F%E8%B7%91%E7%94%B7%E8%B6%8A%E6%9D%A5%E8%B6%8A%E6%84%9F%E5%85%B4%E8%B6%A3%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+8. [对这期跑男越来越感兴趣了](https://s.weibo.com/weibo?q=%23%E5%AF%B9%E8%BF%99%E6%9C%9F%E8%B7%91%E7%94%B7%E8%B6%8A%E6%9D%A5%E8%B6%8A%E6%84%9F%E5%85%B4%E8%B6%A3%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [女子无人区遇乞食狼下车投喂](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%97%A0%E4%BA%BA%E5%8C%BA%E9%81%87%E4%B9%9E%E9%A3%9F%E7%8B%BC%E4%B8%8B%E8%BD%A6%E6%8A%95%E5%96%82%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -19,10 +19,10 @@
 3. [牛顿的科学观都不足以让他放弃他的神学信仰吗？](https://www.zhihu.com/question/607982401)<br />
 4. []()<br />
 5. [消息称特斯拉上海超级工厂裁员，电池一期砍掉 50%，此次裁员背后原因有哪些？对特斯拉中国业务有何影响？](https://www.zhihu.com/question/610755769)<br />
-6. [年轻人开「电动轮椅」上下班，相关产品销量猛涨，律师称不违法，只能从道德层面评价，如何看待这一现象？](https://www.zhihu.com/question/610638966)<br />
-7. [长春航展快到了，急需一套拍航展的相机和镜头（预算 30000 以内），大家有好的建议吗？](https://www.zhihu.com/question/610104648)<br />
-8. [Evernote 替代品有哪些？](https://www.zhihu.com/question/28121700)<br />
-9. [将 presentation 简称为 pre 合理吗？](https://www.zhihu.com/question/605954137)<br />
+6. [长春航展快到了，急需一套拍航展的相机和镜头（预算 30000 以内），大家有好的建议吗？](https://www.zhihu.com/question/610104648)<br />
+7. [Evernote 替代品有哪些？](https://www.zhihu.com/question/28121700)<br />
+8. [将 presentation 简称为 pre 合理吗？](https://www.zhihu.com/question/605954137)<br />
+9. [年轻人开「电动轮椅」上下班，相关产品销量猛涨，律师称不违法，只能从道德层面评价，如何看待这一现象？](https://www.zhihu.com/question/610638966)<br />
 
 > 百度  
 
