@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 06:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 06:24:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [蔡国庆儿子全科免考毕业](https://www.baidu.com/s?wd=%E8%94%A1%E5%9B%BD%E5%BA%86%E5%84%BF%E5%AD%90%E5%85%A8%E7%A7%91%E5%85%8D%E8%80%83%E6%AF%95%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [健身房被淹教练只能抱出来蛋白粉](https://www.baidu.com/s?wd=%E5%81%A5%E8%BA%AB%E6%88%BF%E8%A2%AB%E6%B7%B9%E6%95%99%E7%BB%83%E5%8F%AA%E8%83%BD%E6%8A%B1%E5%87%BA%E6%9D%A5%E8%9B%8B%E7%99%BD%E7%B2%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [李玟姐姐称李玟丈夫早已被公司撤职](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E5%A7%90%E5%A7%90%E7%A7%B0%E6%9D%8E%E7%8E%9F%E4%B8%88%E5%A4%AB%E6%97%A9%E5%B7%B2%E8%A2%AB%E5%85%AC%E5%8F%B8%E6%92%A4%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [新疆16个团力争今年退出棉花种植](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%8616%E4%B8%AA%E5%9B%A2%E5%8A%9B%E4%BA%89%E4%BB%8A%E5%B9%B4%E9%80%80%E5%87%BA%E6%A3%89%E8%8A%B1%E7%A7%8D%E6%A4%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [9个孩子被骗缅甸遭电击开水烫](https://www.baidu.com/s?wd=9%E4%B8%AA%E5%AD%A9%E5%AD%90%E8%A2%AB%E9%AA%97%E7%BC%85%E7%94%B8%E9%81%AD%E7%94%B5%E5%87%BB%E5%BC%80%E6%B0%B4%E7%83%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [蔡国庆儿子全科免考毕业](https://www.baidu.com/s?wd=%E8%94%A1%E5%9B%BD%E5%BA%86%E5%84%BF%E5%AD%90%E5%85%A8%E7%A7%91%E5%85%8D%E8%80%83%E6%AF%95%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [健身房被淹教练只能抱出来蛋白粉](https://www.baidu.com/s?wd=%E5%81%A5%E8%BA%AB%E6%88%BF%E8%A2%AB%E6%B7%B9%E6%95%99%E7%BB%83%E5%8F%AA%E8%83%BD%E6%8A%B1%E5%87%BA%E6%9D%A5%E8%9B%8B%E7%99%BD%E7%B2%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [李玟姐姐称李玟丈夫早已被公司撤职](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E5%A7%90%E5%A7%90%E7%A7%B0%E6%9D%8E%E7%8E%9F%E4%B8%88%E5%A4%AB%E6%97%A9%E5%B7%B2%E8%A2%AB%E5%85%AC%E5%8F%B8%E6%92%A4%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [新疆16个团力争今年退出棉花种植](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%8616%E4%B8%AA%E5%9B%A2%E5%8A%9B%E4%BA%89%E4%BB%8A%E5%B9%B4%E9%80%80%E5%87%BA%E6%A3%89%E8%8A%B1%E7%A7%8D%E6%A4%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [9个孩子被骗缅甸遭电击开水烫](https://www.baidu.com/s?wd=9%E4%B8%AA%E5%AD%A9%E5%AD%90%E8%A2%AB%E9%AA%97%E7%BC%85%E7%94%B8%E9%81%AD%E7%94%B5%E5%87%BB%E5%BC%80%E6%B0%B4%E7%83%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
