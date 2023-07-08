@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 20:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 20:42:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [鹿晗好喜欢戴金手链](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E5%A5%BD%E5%96%9C%E6%AC%A2%E6%88%B4%E9%87%91%E6%89%8B%E9%93%BE%23&t=31&band_rank=6&Refer=top)<br />
 7. [澳门偶遇](https://s.weibo.com/weibo?q=%E6%BE%B3%E9%97%A8%E5%81%B6%E9%81%87&t=31&band_rank=7&Refer=top)<br />
 8. [威神V全开麦](https://s.weibo.com/weibo?q=%23%E5%A8%81%E7%A5%9EV%E5%85%A8%E5%BC%80%E9%BA%A6%23&t=31&band_rank=8&Refer=top)<br />
-9. [唤醒植物人丈夫后她退还18万元善款](https://s.weibo.com/weibo?q=%23%E5%94%A4%E9%86%92%E6%A4%8D%E7%89%A9%E4%BA%BA%E4%B8%88%E5%A4%AB%E5%90%8E%E5%A5%B9%E9%80%80%E8%BF%9818%E4%B8%87%E5%85%83%E5%96%84%E6%AC%BE%23&t=31&band_rank=9&Refer=top)<br />
+9. [花傲天上场](https://s.weibo.com/weibo?q=%E8%8A%B1%E5%82%B2%E5%A4%A9%E4%B8%8A%E5%9C%BA&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [2023 年电热水器怎么选，能让体验有「质的飞跃」？](https://www.zhihu.com/question/589898650)<br />
 7. [企业允许「带娃上班」并请专职老师辅导作业，如何看待企业的做法，「带娃上班」能否在全国推广？](https://www.zhihu.com/question/610867860)<br />
 8. [方向盘打到底到底有多伤车？](https://www.zhihu.com/question/604715486)<br />
-9. [高考后有什么是你觉得值得去做的事？](https://www.zhihu.com/question/610802018)<br />
+9. [首个国产 GLP-1「减肥神药」来了，华东医药利拉鲁肽获批，哪些信息值得关注？](https://www.zhihu.com/question/610459703)<br />
 
 > 百度  
 
