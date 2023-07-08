@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 18:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 18:36:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [12岁女孩搬啤酒炸裂一地后](https://s.weibo.com/weibo?q=%2312%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%90%AC%E5%95%A4%E9%85%92%E7%82%B8%E8%A3%82%E4%B8%80%E5%9C%B0%E5%90%8E%23&t=31&band_rank=5&Refer=top)<br />
 6. [任敏和猪猪侠](https://s.weibo.com/weibo?q=%23%E4%BB%BB%E6%95%8F%E5%92%8C%E7%8C%AA%E7%8C%AA%E4%BE%A0%23&t=31&band_rank=6&Refer=top)<br />
 7. [男童挂窗外爸爸编织袋兜娃等救援](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%AB%A5%E6%8C%82%E7%AA%97%E5%A4%96%E7%88%B8%E7%88%B8%E7%BC%96%E7%BB%87%E8%A2%8B%E5%85%9C%E5%A8%83%E7%AD%89%E6%95%91%E6%8F%B4%23&t=31&band_rank=7&Refer=top)<br />
-8. [9个孩子被骗缅甸遭电击开水烫](https://s.weibo.com/weibo?q=%239%E4%B8%AA%E5%AD%A9%E5%AD%90%E8%A2%AB%E9%AA%97%E7%BC%85%E7%94%B8%E9%81%AD%E7%94%B5%E5%87%BB%E5%BC%80%E6%B0%B4%E7%83%AB%23&t=31&band_rank=8&Refer=top)<br />
-9. [姆巴佩](https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9&t=31&band_rank=9&Refer=top)<br />
+8. [姆巴佩](https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9&t=31&band_rank=8&Refer=top)<br />
+9. [9个孩子被骗缅甸遭电击开水烫](https://s.weibo.com/weibo?q=%239%E4%B8%AA%E5%AD%A9%E5%AD%90%E8%A2%AB%E9%AA%97%E7%BC%85%E7%94%B8%E9%81%AD%E7%94%B5%E5%87%BB%E5%BC%80%E6%B0%B4%E7%83%AB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
