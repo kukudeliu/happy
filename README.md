@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 13:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 13:46:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [上海地铁一女子发表辱华言论](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E4%B8%80%E5%A5%B3%E5%AD%90%E5%8F%91%E8%A1%A8%E8%BE%B1%E5%8D%8E%E8%A8%80%E8%AE%BA%23&t=31&band_rank=5&Refer=top)<br />
 6. [5旬失独母亲试管产下新生儿](https://s.weibo.com/weibo?q=%235%E6%97%AC%E5%A4%B1%E7%8B%AC%E6%AF%8D%E4%BA%B2%E8%AF%95%E7%AE%A1%E4%BA%A7%E4%B8%8B%E6%96%B0%E7%94%9F%E5%84%BF%23&t=31&band_rank=6&Refer=top)<br />
 7. [当事人回应私搭浮桥一家18口被判刑](https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%9B%9E%E5%BA%94%E7%A7%81%E6%90%AD%E6%B5%AE%E6%A1%A5%E4%B8%80%E5%AE%B618%E5%8F%A3%E8%A2%AB%E5%88%A4%E5%88%91%23&t=31&band_rank=7&Refer=top)<br />
-8. [夫妇彩票中3亿7年后各自和新人住豪宅](https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%87%E5%BD%A9%E7%A5%A8%E4%B8%AD3%E4%BA%BF7%E5%B9%B4%E5%90%8E%E5%90%84%E8%87%AA%E5%92%8C%E6%96%B0%E4%BA%BA%E4%BD%8F%E8%B1%AA%E5%AE%85%23&t=31&band_rank=8&Refer=top)<br />
-9. [布兰妮被掌掴视频曝光](https://s.weibo.com/weibo?q=%23%E5%B8%83%E5%85%B0%E5%A6%AE%E8%A2%AB%E6%8E%8C%E6%8E%B4%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89%23&t=31&band_rank=9&Refer=top)<br />
+8. [布兰妮被掌掴视频曝光](https://s.weibo.com/weibo?q=%23%E5%B8%83%E5%85%B0%E5%A6%AE%E8%A2%AB%E6%8E%8C%E6%8E%B4%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89%23&t=31&band_rank=8&Refer=top)<br />
+9. [柳玉茹 假死](https://s.weibo.com/weibo?q=%E6%9F%B3%E7%8E%89%E8%8C%B9%20%E5%81%87%E6%AD%BB&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
