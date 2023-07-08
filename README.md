@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 02:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 02:42:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [夫妻高速上被黑熊撞翻车致脑震荡](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E9%AB%98%E9%80%9F%E4%B8%8A%E8%A2%AB%E9%BB%91%E7%86%8A%E6%92%9E%E7%BF%BB%E8%BD%A6%E8%87%B4%E8%84%91%E9%9C%87%E8%8D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [高温天轿车内突然爆炸司机被烧伤](https://www.baidu.com/s?wd=%E9%AB%98%E6%B8%A9%E5%A4%A9%E8%BD%BF%E8%BD%A6%E5%86%85%E7%AA%81%E7%84%B6%E7%88%86%E7%82%B8%E5%8F%B8%E6%9C%BA%E8%A2%AB%E7%83%A7%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [乌防长：集束弹药不会攻击俄领土](https://www.baidu.com/s?wd=%E4%B9%8C%E9%98%B2%E9%95%BF%EF%BC%9A%E9%9B%86%E6%9D%9F%E5%BC%B9%E8%8D%AF%E4%B8%8D%E4%BC%9A%E6%94%BB%E5%87%BB%E4%BF%84%E9%A2%86%E5%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [9个孩子被骗缅甸遭电击开水烫](https://www.baidu.com/s?wd=9%E4%B8%AA%E5%AD%A9%E5%AD%90%E8%A2%AB%E9%AA%97%E7%BC%85%E7%94%B8%E9%81%AD%E7%94%B5%E5%87%BB%E5%BC%80%E6%B0%B4%E7%83%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子与男友合谋抢劫闺蜜4.6万](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%8E%E7%94%B7%E5%8F%8B%E5%90%88%E8%B0%8B%E6%8A%A2%E5%8A%AB%E9%97%BA%E8%9C%9C4.6%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [夫妻高速上被黑熊撞翻车致脑震荡](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E9%AB%98%E9%80%9F%E4%B8%8A%E8%A2%AB%E9%BB%91%E7%86%8A%E6%92%9E%E7%BF%BB%E8%BD%A6%E8%87%B4%E8%84%91%E9%9C%87%E8%8D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [高温天轿车内突然爆炸司机被烧伤](https://www.baidu.com/s?wd=%E9%AB%98%E6%B8%A9%E5%A4%A9%E8%BD%BF%E8%BD%A6%E5%86%85%E7%AA%81%E7%84%B6%E7%88%86%E7%82%B8%E5%8F%B8%E6%9C%BA%E8%A2%AB%E7%83%A7%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [乌防长：集束弹药不会攻击俄领土](https://www.baidu.com/s?wd=%E4%B9%8C%E9%98%B2%E9%95%BF%EF%BC%9A%E9%9B%86%E6%9D%9F%E5%BC%B9%E8%8D%AF%E4%B8%8D%E4%BC%9A%E6%94%BB%E5%87%BB%E4%BF%84%E9%A2%86%E5%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [9个孩子被骗缅甸遭电击开水烫](https://www.baidu.com/s?wd=9%E4%B8%AA%E5%AD%A9%E5%AD%90%E8%A2%AB%E9%AA%97%E7%BC%85%E7%94%B8%E9%81%AD%E7%94%B5%E5%87%BB%E5%BC%80%E6%B0%B4%E7%83%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子与男友合谋抢劫闺蜜4.6万](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%8E%E7%94%B7%E5%8F%8B%E5%90%88%E8%B0%8B%E6%8A%A2%E5%8A%AB%E9%97%BA%E8%9C%9C4.6%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
