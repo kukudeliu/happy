@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 09:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 09:59:01</h4></div>
 
 > 微博  
 
@@ -7,19 +7,19 @@
 3. [天问一号最新发现](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E9%97%AE%E4%B8%80%E5%8F%B7%E6%9C%80%E6%96%B0%E5%8F%91%E7%8E%B0%23&t=31&band_rank=3&Refer=top)<br />
 4. [谢娜自己淘汰自己](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E8%87%AA%E5%B7%B1%E6%B7%98%E6%B1%B0%E8%87%AA%E5%B7%B1%23&t=31&band_rank=4&Refer=top)<br />
 5. [外媒报道李玟去世形容巨星陨落](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%AA%92%E6%8A%A5%E9%81%93%E6%9D%8E%E7%8E%9F%E5%8E%BB%E4%B8%96%E5%BD%A2%E5%AE%B9%E5%B7%A8%E6%98%9F%E9%99%A8%E8%90%BD%23&t=31&band_rank=5&Refer=top)<br />
-6. [邓伦被强制执行](https://s.weibo.com/weibo?q=%23%E9%82%93%E4%BC%A6%E8%A2%AB%E5%BC%BA%E5%88%B6%E6%89%A7%E8%A1%8C%23&t=31&band_rank=6&Refer=top)<br />
-7. [电影一闪一闪亮星星今日开机](https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E4%B8%80%E9%97%AA%E4%B8%80%E9%97%AA%E4%BA%AE%E6%98%9F%E6%98%9F%E4%BB%8A%E6%97%A5%E5%BC%80%E6%9C%BA%23&t=31&band_rank=7&Refer=top)<br />
+6. [电影一闪一闪亮星星今日开机](https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E4%B8%80%E9%97%AA%E4%B8%80%E9%97%AA%E4%BA%AE%E6%98%9F%E6%98%9F%E4%BB%8A%E6%97%A5%E5%BC%80%E6%9C%BA%23&t=31&band_rank=6&Refer=top)<br />
+7. [邓伦被强制执行](https://s.weibo.com/weibo?q=%23%E9%82%93%E4%BC%A6%E8%A2%AB%E5%BC%BA%E5%88%B6%E6%89%A7%E8%A1%8C%23&t=31&band_rank=7&Refer=top)<br />
 8. [Angelababy张殷殷](https://s.weibo.com/weibo?q=%23Angelababy%E5%BC%A0%E6%AE%B7%E6%AE%B7%23&t=31&band_rank=8&Refer=top)<br />
-9. [为什么现在越来越多人想当老师](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E4%BA%BA%E6%83%B3%E5%BD%93%E8%80%81%E5%B8%88%23&t=31&band_rank=9&Refer=top)<br />
+9. [最新考古发现证明史记是错的](https://s.weibo.com/weibo?q=%23%E6%9C%80%E6%96%B0%E8%80%83%E5%8F%A4%E5%8F%91%E7%8E%B0%E8%AF%81%E6%98%8E%E5%8F%B2%E8%AE%B0%E6%98%AF%E9%94%99%E7%9A%84%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [2023 上半年仅北京、杭州卖地收入超千亿，更多城市不足百亿，如何解读这一数据？释放哪些信号？](https://www.zhihu.com/question/610863406)<br />
-2. [「原来骑手知道我在看配送进度」引发网友热议，你点外卖会看配送进度吗？看进度是为了催单还是其他什么考虑？](https://www.zhihu.com/question/610819713)<br />
-3. []()<br />
+2. []()<br />
+3. [「原来骑手知道我在看配送进度」引发网友热议，你点外卖会看配送进度吗？看进度是为了催单还是其他什么考虑？](https://www.zhihu.com/question/610819713)<br />
 4. [人到底经历什么，才能大彻大悟？](https://www.zhihu.com/question/600714845)<br />
-5. [长春航展快到了，急需一套拍航展的相机和镜头（预算 30000 以内），大家有好的建议吗？](https://www.zhihu.com/question/610104648)<br />
-6. [「熊孩子新闻」正在被当成爽文吸引流量，在厌女、憎男、仇老之后，「仇童」登上舆论场，反映出哪些社会问题？](https://www.zhihu.com/question/610906643)<br />
+5. [「熊孩子新闻」正在被当成爽文吸引流量，在厌女、憎男、仇老之后，「仇童」登上舆论场，反映出哪些社会问题？](https://www.zhihu.com/question/610906643)<br />
+6. [长春航展快到了，急需一套拍航展的相机和镜头（预算 30000 以内），大家有好的建议吗？](https://www.zhihu.com/question/610104648)<br />
 7. [Evernote 替代品有哪些？](https://www.zhihu.com/question/28121700)<br />
 8. []()<br />
 9. [将 presentation 简称为 pre 合理吗？](https://www.zhihu.com/question/605954137)<br />
