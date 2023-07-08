@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 08:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 08:44:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [牛顿的科学观都不足以让他放弃他的神学信仰吗？](https://www.zhihu.com/question/607982401)<br />
 5. [消息称特斯拉上海超级工厂裁员，电池一期砍掉 50%，此次裁员背后原因有哪些？对特斯拉中国业务有何影响？](https://www.zhihu.com/question/610755769)<br />
 6. [长春航展快到了，急需一套拍航展的相机和镜头（预算 30000 以内），大家有好的建议吗？](https://www.zhihu.com/question/610104648)<br />
-7. [「熊孩子新闻」正在被当成爽文吸引流量，在厌女、憎男、仇老之后，「仇童」登上舆论场，反映出哪些社会问题？](https://www.zhihu.com/question/610906643)<br />
-8. [高考忘记自己贴没贴条形码了，如果没贴的话监考老师会发现吗？](https://www.zhihu.com/question/605787700)<br />
-9. [9 是个位数里最大的数字，99 是十位数里最大的数字，那么以此类推，世界上最大的数字就是奇数，有没有问题？](https://www.zhihu.com/question/608857133)<br />
+7. [将 presentation 简称为 pre 合理吗？](https://www.zhihu.com/question/605954137)<br />
+8. [「熊孩子新闻」正在被当成爽文吸引流量，在厌女、憎男、仇老之后，「仇童」登上舆论场，反映出哪些社会问题？](https://www.zhihu.com/question/610906643)<br />
+9. [高考忘记自己贴没贴条形码了，如果没贴的话监考老师会发现吗？](https://www.zhihu.com/question/605787700)<br />
 
 > 百度  
 
@@ -32,9 +32,9 @@
 4. [筑牢防灾减灾坚固防线](https://www.baidu.com/s?wd=%E7%AD%91%E7%89%A2%E9%98%B2%E7%81%BE%E5%87%8F%E7%81%BE%E5%9D%9A%E5%9B%BA%E9%98%B2%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子回应赚5亿不如月薪5千生娃好](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%9B%9E%E5%BA%94%E8%B5%9A5%E4%BA%BF%E4%B8%8D%E5%A6%82%E6%9C%88%E8%96%AA5%E5%8D%83%E7%94%9F%E5%A8%83%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [多名学生举报遭中航国铁教育诈骗](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E5%AD%A6%E7%94%9F%E4%B8%BE%E6%8A%A5%E9%81%AD%E4%B8%AD%E8%88%AA%E5%9B%BD%E9%93%81%E6%95%99%E8%82%B2%E8%AF%88%E9%AA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [范德萨突发脑溢血被送往ICU抢救](https://www.baidu.com/s?wd=%E8%8C%83%E5%BE%B7%E8%90%A8%E7%AA%81%E5%8F%91%E8%84%91%E6%BA%A2%E8%A1%80%E8%A2%AB%E9%80%81%E5%BE%80ICU%E6%8A%A2%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [杜蕾斯客服回应避孕套发现异物](https://www.baidu.com/s?wd=%E6%9D%9C%E8%95%BE%E6%96%AF%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E9%81%BF%E5%AD%95%E5%A5%97%E5%8F%91%E7%8E%B0%E5%BC%82%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [范玮琪台北演唱会取消](https://www.baidu.com/s?wd=%E8%8C%83%E7%8E%AE%E7%90%AA%E5%8F%B0%E5%8C%97%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8F%96%E6%B6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [杜蕾斯客服回应避孕套发现异物](https://www.baidu.com/s?wd=%E6%9D%9C%E8%95%BE%E6%96%AF%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E9%81%BF%E5%AD%95%E5%A5%97%E5%8F%91%E7%8E%B0%E5%BC%82%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [范德萨突发脑溢血被送往ICU抢救](https://www.baidu.com/s?wd=%E8%8C%83%E5%BE%B7%E8%90%A8%E7%AA%81%E5%8F%91%E8%84%91%E6%BA%A2%E8%A1%80%E8%A2%AB%E9%80%81%E5%BE%80ICU%E6%8A%A2%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子质疑5岁男孩进出女浴室反被骂](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%B4%A8%E7%96%915%E5%B2%81%E7%94%B7%E5%AD%A9%E8%BF%9B%E5%87%BA%E5%A5%B3%E6%B5%B4%E5%AE%A4%E5%8F%8D%E8%A2%AB%E9%AA%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [筑牢防灾减灾坚固防线](https://www.baidu.com/s?wd=%E7%AD%91%E7%89%A2%E9%98%B2%E7%81%BE%E5%87%8F%E7%81%BE%E5%9D%9A%E5%9B%BA%E9%98%B2%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子回应赚5亿不如月薪5千生娃好](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%9B%9E%E5%BA%94%E8%B5%9A5%E4%BA%BF%E4%B8%8D%E5%A6%82%E6%9C%88%E8%96%AA5%E5%8D%83%E7%94%9F%E5%A8%83%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [多名学生举报遭中航国铁教育诈骗](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E5%AD%A6%E7%94%9F%E4%B8%BE%E6%8A%A5%E9%81%AD%E4%B8%AD%E8%88%AA%E5%9B%BD%E9%93%81%E6%95%99%E8%82%B2%E8%AF%88%E9%AA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [范德萨突发脑溢血被送往ICU抢救](https://www.baidu.com/s?wd=%E8%8C%83%E5%BE%B7%E8%90%A8%E7%AA%81%E5%8F%91%E8%84%91%E6%BA%A2%E8%A1%80%E8%A2%AB%E9%80%81%E5%BE%80ICU%E6%8A%A2%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [杜蕾斯客服回应避孕套发现异物](https://www.baidu.com/s?wd=%E6%9D%9C%E8%95%BE%E6%96%AF%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E9%81%BF%E5%AD%95%E5%A5%97%E5%8F%91%E7%8E%B0%E5%BC%82%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [范玮琪台北演唱会取消](https://www.baidu.com/s?wd=%E8%8C%83%E7%8E%AE%E7%90%AA%E5%8F%B0%E5%8C%97%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8F%96%E6%B6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [杜蕾斯客服回应避孕套发现异物](https://www.baidu.com/s?wd=%E6%9D%9C%E8%95%BE%E6%96%AF%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E9%81%BF%E5%AD%95%E5%A5%97%E5%8F%91%E7%8E%B0%E5%BC%82%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [范德萨突发脑溢血被送往ICU抢救](https://www.baidu.com/s?wd=%E8%8C%83%E5%BE%B7%E8%90%A8%E7%AA%81%E5%8F%91%E8%84%91%E6%BA%A2%E8%A1%80%E8%A2%AB%E9%80%81%E5%BE%80ICU%E6%8A%A2%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子质疑5岁男孩进出女浴室反被骂](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%B4%A8%E7%96%915%E5%B2%81%E7%94%B7%E5%AD%A9%E8%BF%9B%E5%87%BA%E5%A5%B3%E6%B5%B4%E5%AE%A4%E5%8F%8D%E8%A2%AB%E9%AA%82&sa=fyb_news&rsv_dl=fyb_news)<br />
