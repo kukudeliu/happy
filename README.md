@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 10:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 10:15:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [谢娜自己淘汰自己](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E8%87%AA%E5%B7%B1%E6%B7%98%E6%B1%B0%E8%87%AA%E5%B7%B1%23&t=31&band_rank=5&Refer=top)<br />
 6. [布兰妮被掌掴视频曝光](https://s.weibo.com/weibo?q=%23%E5%B8%83%E5%85%B0%E5%A6%AE%E8%A2%AB%E6%8E%8C%E6%8E%B4%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [外媒报道李玟去世形容巨星陨落](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%AA%92%E6%8A%A5%E9%81%93%E6%9D%8E%E7%8E%9F%E5%8E%BB%E4%B8%96%E5%BD%A2%E5%AE%B9%E5%B7%A8%E6%98%9F%E9%99%A8%E8%90%BD%23&t=31&band_rank=7&Refer=top)<br />
-8. [电影一闪一闪亮星星今日开机](https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E4%B8%80%E9%97%AA%E4%B8%80%E9%97%AA%E4%BA%AE%E6%98%9F%E6%98%9F%E4%BB%8A%E6%97%A5%E5%BC%80%E6%9C%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [邓伦被强制执行](https://s.weibo.com/weibo?q=%23%E9%82%93%E4%BC%A6%E8%A2%AB%E5%BC%BA%E5%88%B6%E6%89%A7%E8%A1%8C%23&t=31&band_rank=9&Refer=top)<br />
+8. [邓伦被强制执行](https://s.weibo.com/weibo?q=%23%E9%82%93%E4%BC%A6%E8%A2%AB%E5%BC%BA%E5%88%B6%E6%89%A7%E8%A1%8C%23&t=31&band_rank=8&Refer=top)<br />
+9. [电影一闪一闪亮星星今日开机](https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E4%B8%80%E9%97%AA%E4%B8%80%E9%97%AA%E4%BA%AE%E6%98%9F%E6%98%9F%E4%BB%8A%E6%97%A5%E5%BC%80%E6%9C%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
