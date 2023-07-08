@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 07:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 07:51:02</h4></div>
 
 > 微博  
 
@@ -18,11 +18,11 @@
 2. [湖北一基层法庭宣传「调撤率 100%，无一判决」，法律学者认为「不宜过度提倡」，这反映出什么社会现象？](https://www.zhihu.com/question/610470335)<br />
 3. [程序员们可以说个暗号，证明你是程序员吗？](https://www.zhihu.com/question/610436469)<br />
 4. [乌军改变反攻重点， 称「首要任务是给俄军造成最大程度伤害」，如何看待乌克兰国家安全部长发表的观点？](https://www.zhihu.com/question/610500601)<br />
-5. []()<br />
-6. [为什么似乎只有东亚地区有大量品种的蔬菜可以吃？](https://www.zhihu.com/question/37240268)<br />
-7. [为什么《英雄联盟》热度就是降不下来？](https://www.zhihu.com/question/582973653)<br />
-8. [为啥《八角笼中》后面的格斗场面都要用黑白镜头？](https://www.zhihu.com/question/608149481)<br />
-9. [今年以来，多个商家售卖日本核辐射区食品被罚，哪些进口产品存在风险？消费者该如何鉴别防范？](https://www.zhihu.com/question/611020761)<br />
+5. [美国总统参选人表示「中国周边有 313 个美军基地，其他国家会觉得谁对全球安全威胁更大」，如何评价？](https://www.zhihu.com/question/610542360)<br />
+6. []()<br />
+7. [为什么似乎只有东亚地区有大量品种的蔬菜可以吃？](https://www.zhihu.com/question/37240268)<br />
+8. [为什么《英雄联盟》热度就是降不下来？](https://www.zhihu.com/question/582973653)<br />
+9. [为啥《八角笼中》后面的格斗场面都要用黑白镜头？](https://www.zhihu.com/question/608149481)<br />
 
 > 百度  
 
