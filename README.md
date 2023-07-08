@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 08:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 08:39:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [多名学生举报遭中航国铁教育诈骗](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E5%AD%A6%E7%94%9F%E4%B8%BE%E6%8A%A5%E9%81%AD%E4%B8%AD%E8%88%AA%E5%9B%BD%E9%93%81%E6%95%99%E8%82%B2%E8%AF%88%E9%AA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [杜蕾斯客服回应避孕套发现异物](https://www.baidu.com/s?wd=%E6%9D%9C%E8%95%BE%E6%96%AF%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E9%81%BF%E5%AD%95%E5%A5%97%E5%8F%91%E7%8E%B0%E5%BC%82%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [范德萨突发脑溢血被送往ICU抢救](https://www.baidu.com/s?wd=%E8%8C%83%E5%BE%B7%E8%90%A8%E7%AA%81%E5%8F%91%E8%84%91%E6%BA%A2%E8%A1%80%E8%A2%AB%E9%80%81%E5%BE%80ICU%E6%8A%A2%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [河北河南山东40度高温连成片](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E6%B2%B3%E5%8D%97%E5%B1%B1%E4%B8%9C40%E5%BA%A6%E9%AB%98%E6%B8%A9%E8%BF%9E%E6%88%90%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [范玮琪台北演唱会取消](https://www.baidu.com/s?wd=%E8%8C%83%E7%8E%AE%E7%90%AA%E5%8F%B0%E5%8C%97%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8F%96%E6%B6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [多名学生举报遭中航国铁教育诈骗](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E5%AD%A6%E7%94%9F%E4%B8%BE%E6%8A%A5%E9%81%AD%E4%B8%AD%E8%88%AA%E5%9B%BD%E9%93%81%E6%95%99%E8%82%B2%E8%AF%88%E9%AA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [杜蕾斯客服回应避孕套发现异物](https://www.baidu.com/s?wd=%E6%9D%9C%E8%95%BE%E6%96%AF%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E9%81%BF%E5%AD%95%E5%A5%97%E5%8F%91%E7%8E%B0%E5%BC%82%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [范德萨突发脑溢血被送往ICU抢救](https://www.baidu.com/s?wd=%E8%8C%83%E5%BE%B7%E8%90%A8%E7%AA%81%E5%8F%91%E8%84%91%E6%BA%A2%E8%A1%80%E8%A2%AB%E9%80%81%E5%BE%80ICU%E6%8A%A2%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [河北河南山东40度高温连成片](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E6%B2%B3%E5%8D%97%E5%B1%B1%E4%B8%9C40%E5%BA%A6%E9%AB%98%E6%B8%A9%E8%BF%9E%E6%88%90%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [范玮琪台北演唱会取消](https://www.baidu.com/s?wd=%E8%8C%83%E7%8E%AE%E7%90%AA%E5%8F%B0%E5%8C%97%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8F%96%E6%B6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
