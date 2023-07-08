@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 17:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 17:40:02</h4></div>
 
 > 微博  
 
@@ -22,28 +22,28 @@
 6. [金庸小说《神雕侠侣》你站的是过芙还是龙过？](https://www.zhihu.com/question/459125813)<br />
 7. [排骨怎么炖可以又嫩又香？](https://www.zhihu.com/question/559603358)<br />
 8. [孩子爱打游戏是买游戏机给他玩还是买手机给他玩？](https://www.zhihu.com/question/609898977)<br />
-9. []()<br />
+9. [中国汽车工业协会声明删除《承诺书》涉及价格表述，敦促车企严格遵守《反垄断法》，如何看待此事？](https://www.zhihu.com/question/611038104)<br />
 
 > 百度  
 
 1. [总书记对江苏提四点希望](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%AF%B9%E6%B1%9F%E8%8B%8F%E6%8F%90%E5%9B%9B%E7%82%B9%E5%B8%8C%E6%9C%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [9个孩子被骗缅甸遭电击开水烫](https://www.baidu.com/s?wd=9%E4%B8%AA%E5%AD%A9%E5%AD%90%E8%A2%AB%E9%AA%97%E7%BC%85%E7%94%B8%E9%81%AD%E7%94%B5%E5%87%BB%E5%BC%80%E6%B0%B4%E7%83%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [女子用丝袜包5条活蛇藏胸部入境](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%94%A8%E4%B8%9D%E8%A2%9C%E5%8C%855%E6%9D%A1%E6%B4%BB%E8%9B%87%E8%97%8F%E8%83%B8%E9%83%A8%E5%85%A5%E5%A2%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [耶伦行程过半 值得关注的6个问题](https://www.baidu.com/s?wd=%E8%80%B6%E4%BC%A6%E8%A1%8C%E7%A8%8B%E8%BF%87%E5%8D%8A+%E5%80%BC%E5%BE%97%E5%85%B3%E6%B3%A8%E7%9A%846%E4%B8%AA%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [走好这条“必由之路”](https://www.baidu.com/s?wd=%E8%B5%B0%E5%A5%BD%E8%BF%99%E6%9D%A1%E2%80%9C%E5%BF%85%E7%94%B1%E4%B9%8B%E8%B7%AF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [李玟二姐喊话让知情人站出来](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E4%BA%8C%E5%A7%90%E5%96%8A%E8%AF%9D%E8%AE%A9%E7%9F%A5%E6%83%85%E4%BA%BA%E7%AB%99%E5%87%BA%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [杨天真考北大博士失败](https://www.baidu.com/s?wd=%E6%9D%A8%E5%A4%A9%E7%9C%9F%E8%80%83%E5%8C%97%E5%A4%A7%E5%8D%9A%E5%A3%AB%E5%A4%B1%E8%B4%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [当归价格3个月暴涨113%](https://www.baidu.com/s?wd=%E5%BD%93%E5%BD%92%E4%BB%B7%E6%A0%BC3%E4%B8%AA%E6%9C%88%E6%9A%B4%E6%B6%A8113%25&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [夫妇中3亿7年后各自和新人住豪宅](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%87%E4%B8%AD3%E4%BA%BF7%E5%B9%B4%E5%90%8E%E5%90%84%E8%87%AA%E5%92%8C%E6%96%B0%E4%BA%BA%E4%BD%8F%E8%B1%AA%E5%AE%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [对人类来说多热才算“太热”](https://www.baidu.com/s?wd=%E5%AF%B9%E4%BA%BA%E7%B1%BB%E6%9D%A5%E8%AF%B4%E5%A4%9A%E7%83%AD%E6%89%8D%E7%AE%97%E2%80%9C%E5%A4%AA%E7%83%AD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [女子用丝袜包5条活蛇藏胸部入境](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%94%A8%E4%B8%9D%E8%A2%9C%E5%8C%855%E6%9D%A1%E6%B4%BB%E8%9B%87%E8%97%8F%E8%83%B8%E9%83%A8%E5%85%A5%E5%A2%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [杨天真考北大博士失败](https://www.baidu.com/s?wd=%E6%9D%A8%E5%A4%A9%E7%9C%9F%E8%80%83%E5%8C%97%E5%A4%A7%E5%8D%9A%E5%A3%AB%E5%A4%B1%E8%B4%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [当归价格3个月暴涨113%](https://www.baidu.com/s?wd=%E5%BD%93%E5%BD%92%E4%BB%B7%E6%A0%BC3%E4%B8%AA%E6%9C%88%E6%9A%B4%E6%B6%A8113%25&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [夫妇中3亿7年后各自和新人住豪宅](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%87%E4%B8%AD3%E4%BA%BF7%E5%B9%B4%E5%90%8E%E5%90%84%E8%87%AA%E5%92%8C%E6%96%B0%E4%BA%BA%E4%BD%8F%E8%B1%AA%E5%AE%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [总书记对江苏提四点希望](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%AF%B9%E6%B1%9F%E8%8B%8F%E6%8F%90%E5%9B%9B%E7%82%B9%E5%B8%8C%E6%9C%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [9个孩子被骗缅甸遭电击开水烫](https://www.baidu.com/s?wd=9%E4%B8%AA%E5%AD%A9%E5%AD%90%E8%A2%AB%E9%AA%97%E7%BC%85%E7%94%B8%E9%81%AD%E7%94%B5%E5%87%BB%E5%BC%80%E6%B0%B4%E7%83%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [女子用丝袜包5条活蛇藏胸部入境](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%94%A8%E4%B8%9D%E8%A2%9C%E5%8C%855%E6%9D%A1%E6%B4%BB%E8%9B%87%E8%97%8F%E8%83%B8%E9%83%A8%E5%85%A5%E5%A2%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [耶伦行程过半 值得关注的6个问题](https://www.baidu.com/s?wd=%E8%80%B6%E4%BC%A6%E8%A1%8C%E7%A8%8B%E8%BF%87%E5%8D%8A+%E5%80%BC%E5%BE%97%E5%85%B3%E6%B3%A8%E7%9A%846%E4%B8%AA%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [走好这条“必由之路”](https://www.baidu.com/s?wd=%E8%B5%B0%E5%A5%BD%E8%BF%99%E6%9D%A1%E2%80%9C%E5%BF%85%E7%94%B1%E4%B9%8B%E8%B7%AF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [李玟二姐喊话让知情人站出来](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E4%BA%8C%E5%A7%90%E5%96%8A%E8%AF%9D%E8%AE%A9%E7%9F%A5%E6%83%85%E4%BA%BA%E7%AB%99%E5%87%BA%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [杨天真考北大博士失败](https://www.baidu.com/s?wd=%E6%9D%A8%E5%A4%A9%E7%9C%9F%E8%80%83%E5%8C%97%E5%A4%A7%E5%8D%9A%E5%A3%AB%E5%A4%B1%E8%B4%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [当归价格3个月暴涨113%](https://www.baidu.com/s?wd=%E5%BD%93%E5%BD%92%E4%BB%B7%E6%A0%BC3%E4%B8%AA%E6%9C%88%E6%9A%B4%E6%B6%A8113%25&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [夫妇中3亿7年后各自和新人住豪宅](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%87%E4%B8%AD3%E4%BA%BF7%E5%B9%B4%E5%90%8E%E5%90%84%E8%87%AA%E5%92%8C%E6%96%B0%E4%BA%BA%E4%BD%8F%E8%B1%AA%E5%AE%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [对人类来说多热才算“太热”](https://www.baidu.com/s?wd=%E5%AF%B9%E4%BA%BA%E7%B1%BB%E6%9D%A5%E8%AF%B4%E5%A4%9A%E7%83%AD%E6%89%8D%E7%AE%97%E2%80%9C%E5%A4%AA%E7%83%AD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [女子用丝袜包5条活蛇藏胸部入境](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%94%A8%E4%B8%9D%E8%A2%9C%E5%8C%855%E6%9D%A1%E6%B4%BB%E8%9B%87%E8%97%8F%E8%83%B8%E9%83%A8%E5%85%A5%E5%A2%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [杨天真考北大博士失败](https://www.baidu.com/s?wd=%E6%9D%A8%E5%A4%A9%E7%9C%9F%E8%80%83%E5%8C%97%E5%A4%A7%E5%8D%9A%E5%A3%AB%E5%A4%B1%E8%B4%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [当归价格3个月暴涨113%](https://www.baidu.com/s?wd=%E5%BD%93%E5%BD%92%E4%BB%B7%E6%A0%BC3%E4%B8%AA%E6%9C%88%E6%9A%B4%E6%B6%A8113%25&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [夫妇中3亿7年后各自和新人住豪宅](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%87%E4%B8%AD3%E4%BA%BF7%E5%B9%B4%E5%90%8E%E5%90%84%E8%87%AA%E5%92%8C%E6%96%B0%E4%BA%BA%E4%BD%8F%E8%B1%AA%E5%AE%85&sa=fyb_news&rsv_dl=fyb_news)<br />
