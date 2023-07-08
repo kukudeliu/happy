@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 19:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 19:59:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [男孩买药欲轻生被店员路人劝下](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E4%B9%B0%E8%8D%AF%E6%AC%B2%E8%BD%BB%E7%94%9F%E8%A2%AB%E5%BA%97%E5%91%98%E8%B7%AF%E4%BA%BA%E5%8A%9D%E4%B8%8B%23&t=31&band_rank=5&Refer=top)<br />
 6. [澳门偶遇](https://s.weibo.com/weibo?q=%E6%BE%B3%E9%97%A8%E5%81%B6%E9%81%87&t=31&band_rank=6&Refer=top)<br />
 7. [鹿晗好喜欢戴金手链](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E5%A5%BD%E5%96%9C%E6%AC%A2%E6%88%B4%E9%87%91%E6%89%8B%E9%93%BE%23&t=31&band_rank=7&Refer=top)<br />
-8. [TMEA红毯](https://s.weibo.com/weibo?q=TMEA%E7%BA%A2%E6%AF%AF&t=31&band_rank=8&Refer=top)<br />
-9. [LESSERAFIM用中文打招呼](https://s.weibo.com/weibo?q=LESSERAFIM%E7%94%A8%E4%B8%AD%E6%96%87%E6%89%93%E6%8B%9B%E5%91%BC&t=31&band_rank=9&Refer=top)<br />
+8. [LESSERAFIM用中文打招呼](https://s.weibo.com/weibo?q=LESSERAFIM%E7%94%A8%E4%B8%AD%E6%96%87%E6%89%93%E6%8B%9B%E5%91%BC&t=31&band_rank=8&Refer=top)<br />
+9. [TMEA红毯](https://s.weibo.com/weibo?q=TMEA%E7%BA%A2%E6%AF%AF&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -33,7 +33,7 @@
 5. [李玟老公：我一直对她很好](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E8%80%81%E5%85%AC%EF%BC%9A%E6%88%91%E4%B8%80%E7%9B%B4%E5%AF%B9%E5%A5%B9%E5%BE%88%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [新疆16个团力争今年退出棉花种植](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%8616%E4%B8%AA%E5%9B%A2%E5%8A%9B%E4%BA%89%E4%BB%8A%E5%B9%B4%E9%80%80%E5%87%BA%E6%A3%89%E8%8A%B1%E7%A7%8D%E6%A4%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [河南一雪糕店爆炸致1死1伤](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E9%9B%AA%E7%B3%95%E5%BA%97%E7%88%86%E7%82%B8%E8%87%B41%E6%AD%BB1%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [泽连斯基：感谢美国人民和拜登](https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%EF%BC%9A%E6%84%9F%E8%B0%A2%E7%BE%8E%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%92%8C%E6%8B%9C%E7%99%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [张惠妹演唱会上唱李玟的歌](https://www.baidu.com/s?wd=%E5%BC%A0%E6%83%A0%E5%A6%B9%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E5%94%B1%E6%9D%8E%E7%8E%9F%E7%9A%84%E6%AD%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [《长安三万里》上映](https://www.baidu.com/s?wd=%E3%80%8A%E9%95%BF%E5%AE%89%E4%B8%89%E4%B8%87%E9%87%8C%E3%80%8B%E4%B8%8A%E6%98%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [李玟老公：我一直对她很好](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E8%80%81%E5%85%AC%EF%BC%9A%E6%88%91%E4%B8%80%E7%9B%B4%E5%AF%B9%E5%A5%B9%E5%BE%88%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [新疆16个团力争今年退出棉花种植](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%8616%E4%B8%AA%E5%9B%A2%E5%8A%9B%E4%BA%89%E4%BB%8A%E5%B9%B4%E9%80%80%E5%87%BA%E6%A3%89%E8%8A%B1%E7%A7%8D%E6%A4%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [河南一雪糕店爆炸致1死1伤](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E9%9B%AA%E7%B3%95%E5%BA%97%E7%88%86%E7%82%B8%E8%87%B41%E6%AD%BB1%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [泽连斯基：感谢美国人民和拜登](https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%EF%BC%9A%E6%84%9F%E8%B0%A2%E7%BE%8E%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%92%8C%E6%8B%9C%E7%99%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [张惠妹演唱会上唱李玟的歌](https://www.baidu.com/s?wd=%E5%BC%A0%E6%83%A0%E5%A6%B9%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E5%94%B1%E6%9D%8E%E7%8E%9F%E7%9A%84%E6%AD%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [《长安三万里》上映](https://www.baidu.com/s?wd=%E3%80%8A%E9%95%BF%E5%AE%89%E4%B8%89%E4%B8%87%E9%87%8C%E3%80%8B%E4%B8%8A%E6%98%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
