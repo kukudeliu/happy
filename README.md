@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 04:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 04:47:02</h4></div>
 
 > 微博  
 
@@ -16,13 +16,13 @@
 
 1. [专家称「户籍制度改革可以立竿见影刺激消费，1.8 亿农民工可释放万亿级消费」，哪些信息值得关注？](https://www.zhihu.com/question/611031698)<br />
 2. []()<br />
-3. [为什么似乎只有东亚地区有大量品种的蔬菜可以吃？](https://www.zhihu.com/question/37240268)<br />
-4. [如何评价《崩坏：星穹铁道》1.2 版本的前瞻直播？](https://www.zhihu.com/question/611094813)<br />
-5. []()<br />
-6. [中国汽车工业协会声明删除《承诺书》涉及价格表述，敦促车企严格遵守《反垄断法》，如何看待此事？](https://www.zhihu.com/question/611038104)<br />
-7. [如何评价《崩坏：星穹铁道》1.2 版本前瞻特别节目「仙骸有终」？](https://www.zhihu.com/question/611095107)<br />
-8. [三星电子二季度营业利润暴跌 96%，创 14 年新低，因半导体低迷，韩国或下调经济增长预测，如看解读？](https://www.zhihu.com/question/611009487)<br />
-9. [期货里只能挣到我们认知的钱，请告诉我期货认知有几个层次？](https://www.zhihu.com/question/610216009)<br />
+3. [为什么《英雄联盟》热度就是降不下来？](https://www.zhihu.com/question/582973653)<br />
+4. [为什么似乎只有东亚地区有大量品种的蔬菜可以吃？](https://www.zhihu.com/question/37240268)<br />
+5. [如何评价《崩坏：星穹铁道》1.2 版本的前瞻直播？](https://www.zhihu.com/question/611094813)<br />
+6. []()<br />
+7. [中国汽车工业协会声明删除《承诺书》涉及价格表述，敦促车企严格遵守《反垄断法》，如何看待此事？](https://www.zhihu.com/question/611038104)<br />
+8. [如何评价《崩坏：星穹铁道》1.2 版本前瞻特别节目「仙骸有终」？](https://www.zhihu.com/question/611095107)<br />
+9. [三星电子二季度营业利润暴跌 96%，创 14 年新低，因半导体低迷，韩国或下调经济增长预测，如看解读？](https://www.zhihu.com/question/611009487)<br />
 
 > 百度  
 
@@ -31,10 +31,10 @@
 3. [李玟老公：我一直对她很好](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E8%80%81%E5%85%AC%EF%BC%9A%E6%88%91%E4%B8%80%E7%9B%B4%E5%AF%B9%E5%A5%B9%E5%BE%88%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [文明探源诠释“何以中国” ](https://www.baidu.com/s?wd=%E6%96%87%E6%98%8E%E6%8E%A2%E6%BA%90%E8%AF%A0%E9%87%8A%E2%80%9C%E4%BD%95%E4%BB%A5%E4%B8%AD%E5%9B%BD%E2%80%9D%C2%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [现场：何立峰会见耶伦](https://www.baidu.com/s?wd=%E7%8E%B0%E5%9C%BA%EF%BC%9A%E4%BD%95%E7%AB%8B%E5%B3%B0%E4%BC%9A%E8%A7%81%E8%80%B6%E4%BC%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [乘客被熊孩子薅头发弹脑壳反遭吼](https://www.baidu.com/s?wd=%E4%B9%98%E5%AE%A2%E8%A2%AB%E7%86%8A%E5%AD%A9%E5%AD%90%E8%96%85%E5%A4%B4%E5%8F%91%E5%BC%B9%E8%84%91%E5%A3%B3%E5%8F%8D%E9%81%AD%E5%90%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子用丝袜包5条活蛇藏胸部入境](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%94%A8%E4%B8%9D%E8%A2%9C%E5%8C%855%E6%9D%A1%E6%B4%BB%E8%9B%87%E8%97%8F%E8%83%B8%E9%83%A8%E5%85%A5%E5%A2%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [全球镓价格本周大涨27%](https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%95%93%E4%BB%B7%E6%A0%BC%E6%9C%AC%E5%91%A8%E5%A4%A7%E6%B6%A827%25&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [新疆16个团力争今年退出棉花种植](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%8616%E4%B8%AA%E5%9B%A2%E5%8A%9B%E4%BA%89%E4%BB%8A%E5%B9%B4%E9%80%80%E5%87%BA%E6%A3%89%E8%8A%B1%E7%A7%8D%E6%A4%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [女子用丝袜包5条活蛇藏胸部入境](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%94%A8%E4%B8%9D%E8%A2%9C%E5%8C%855%E6%9D%A1%E6%B4%BB%E8%9B%87%E8%97%8F%E8%83%B8%E9%83%A8%E5%85%A5%E5%A2%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [新疆16个团力争今年退出棉花种植](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%8616%E4%B8%AA%E5%9B%A2%E5%8A%9B%E4%BA%89%E4%BB%8A%E5%B9%B4%E9%80%80%E5%87%BA%E6%A3%89%E8%8A%B1%E7%A7%8D%E6%A4%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [乘客被熊孩子薅头发弹脑壳反遭吼](https://www.baidu.com/s?wd=%E4%B9%98%E5%AE%A2%E8%A2%AB%E7%86%8A%E5%AD%A9%E5%AD%90%E8%96%85%E5%A4%B4%E5%8F%91%E5%BC%B9%E8%84%91%E5%A3%B3%E5%8F%8D%E9%81%AD%E5%90%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [全球镓价格本周大涨27%](https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%95%93%E4%BB%B7%E6%A0%BC%E6%9C%AC%E5%91%A8%E5%A4%A7%E6%B6%A827%25&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [李玟老公：我一直对她很好](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E8%80%81%E5%85%AC%EF%BC%9A%E6%88%91%E4%B8%80%E7%9B%B4%E5%AF%B9%E5%A5%B9%E5%BE%88%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [文明探源诠释“何以中国” ](https://www.baidu.com/s?wd=%E6%96%87%E6%98%8E%E6%8E%A2%E6%BA%90%E8%AF%A0%E9%87%8A%E2%80%9C%E4%BD%95%E4%BB%A5%E4%B8%AD%E5%9B%BD%E2%80%9D%C2%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [现场：何立峰会见耶伦](https://www.baidu.com/s?wd=%E7%8E%B0%E5%9C%BA%EF%BC%9A%E4%BD%95%E7%AB%8B%E5%B3%B0%E4%BC%9A%E8%A7%81%E8%80%B6%E4%BC%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [乘客被熊孩子薅头发弹脑壳反遭吼](https://www.baidu.com/s?wd=%E4%B9%98%E5%AE%A2%E8%A2%AB%E7%86%8A%E5%AD%A9%E5%AD%90%E8%96%85%E5%A4%B4%E5%8F%91%E5%BC%B9%E8%84%91%E5%A3%B3%E5%8F%8D%E9%81%AD%E5%90%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子用丝袜包5条活蛇藏胸部入境](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%94%A8%E4%B8%9D%E8%A2%9C%E5%8C%855%E6%9D%A1%E6%B4%BB%E8%9B%87%E8%97%8F%E8%83%B8%E9%83%A8%E5%85%A5%E5%A2%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [全球镓价格本周大涨27%](https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%95%93%E4%BB%B7%E6%A0%BC%E6%9C%AC%E5%91%A8%E5%A4%A7%E6%B6%A827%25&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [新疆16个团力争今年退出棉花种植](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%8616%E4%B8%AA%E5%9B%A2%E5%8A%9B%E4%BA%89%E4%BB%8A%E5%B9%B4%E9%80%80%E5%87%BA%E6%A3%89%E8%8A%B1%E7%A7%8D%E6%A4%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [女子用丝袜包5条活蛇藏胸部入境](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%94%A8%E4%B8%9D%E8%A2%9C%E5%8C%855%E6%9D%A1%E6%B4%BB%E8%9B%87%E8%97%8F%E8%83%B8%E9%83%A8%E5%85%A5%E5%A2%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [新疆16个团力争今年退出棉花种植](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%8616%E4%B8%AA%E5%9B%A2%E5%8A%9B%E4%BA%89%E4%BB%8A%E5%B9%B4%E9%80%80%E5%87%BA%E6%A3%89%E8%8A%B1%E7%A7%8D%E6%A4%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [乘客被熊孩子薅头发弹脑壳反遭吼](https://www.baidu.com/s?wd=%E4%B9%98%E5%AE%A2%E8%A2%AB%E7%86%8A%E5%AD%A9%E5%AD%90%E8%96%85%E5%A4%B4%E5%8F%91%E5%BC%B9%E8%84%91%E5%A3%B3%E5%8F%8D%E9%81%AD%E5%90%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [全球镓价格本周大涨27%](https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%95%93%E4%BB%B7%E6%A0%BC%E6%9C%AC%E5%91%A8%E5%A4%A7%E6%B6%A827%25&sa=fyb_news&rsv_dl=fyb_news)<br />
