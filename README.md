@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 18:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 18:18:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [孩子爱打游戏是买游戏机给他玩还是买手机给他玩？](https://www.zhihu.com/question/609898977)<br />
 7. [如何评价《布莱泽奥特曼》第一集？](https://www.zhihu.com/question/611021174)<br />
 8. [首个国产 GLP-1「减肥神药」来了，华东医药利拉鲁肽获批，哪些信息值得关注？](https://www.zhihu.com/question/610459703)<br />
-9. [网曝郑州花 34 亿给河道干挂大理石砖，官方回应「已关注到质疑声音，正在开会讨论」，如何看待此事？](https://www.zhihu.com/question/610860810)<br />
+9. [科比和杜兰特谁更难防？](https://www.zhihu.com/question/610472348)<br />
 
 > 百度  
 
