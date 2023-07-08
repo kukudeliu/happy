@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 10:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 10:46:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [柳玉茹 假死](https://s.weibo.com/weibo?q=%E6%9F%B3%E7%8E%89%E8%8C%B9%20%E5%81%87%E6%AD%BB&t=31&band_rank=5&Refer=top)<br />
 6. [布兰妮被掌掴视频曝光](https://s.weibo.com/weibo?q=%23%E5%B8%83%E5%85%B0%E5%A6%AE%E8%A2%AB%E6%8E%8C%E6%8E%B4%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [男生考上研究生辞掉上万月薪工作](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E8%80%83%E4%B8%8A%E7%A0%94%E7%A9%B6%E7%94%9F%E8%BE%9E%E6%8E%89%E4%B8%8A%E4%B8%87%E6%9C%88%E8%96%AA%E5%B7%A5%E4%BD%9C%23&t=31&band_rank=7&Refer=top)<br />
-8. [谢娜自己淘汰自己](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E8%87%AA%E5%B7%B1%E6%B7%98%E6%B1%B0%E8%87%AA%E5%B7%B1%23&t=31&band_rank=8&Refer=top)<br />
-9. [肖战以后还演古偶吗](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E4%BB%A5%E5%90%8E%E8%BF%98%E6%BC%94%E5%8F%A4%E5%81%B6%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
+8. [肖战以后还演古偶吗](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E4%BB%A5%E5%90%8E%E8%BF%98%E6%BC%94%E5%8F%A4%E5%81%B6%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
+9. [谢娜自己淘汰自己](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E8%87%AA%E5%B7%B1%E6%B7%98%E6%B1%B0%E8%87%AA%E5%B7%B1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -20,9 +20,9 @@
 4. [「熊孩子新闻」正在被当成爽文吸引流量，在厌女、憎男、仇老之后，「仇童」登上舆论场，反映出哪些社会问题？](https://www.zhihu.com/question/610906643)<br />
 5. [为何武侠小说的结局往往是男女主角归隐山林？](https://www.zhihu.com/question/609702617)<br />
 6. [Evernote 替代品有哪些？](https://www.zhihu.com/question/28121700)<br />
-7. [将 presentation 简称为 pre 合理吗？](https://www.zhihu.com/question/605954137)<br />
-8. [为什么我感觉我学车的整个过程都十分痛苦?](https://www.zhihu.com/question/502258796)<br />
-9. [失业后假装去上班，实则游荡街头，中年人遭遇「35 岁危机」该如何重启人生？](https://www.zhihu.com/question/610809937)<br />
+7. [为什么我感觉我学车的整个过程都十分痛苦?](https://www.zhihu.com/question/502258796)<br />
+8. [失业后假装去上班，实则游荡街头，中年人遭遇「35 岁危机」该如何重启人生？](https://www.zhihu.com/question/610809937)<br />
+9. [什么可以治愈一切？](https://www.zhihu.com/question/609928196)<br />
 
 > 百度  
 
