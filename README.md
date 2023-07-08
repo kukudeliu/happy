@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 15:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 15:44:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [公募基金费率改革启动，涉及六方面内容，管理费率、托管费率不超过 1.2% 、 0.2%，如何解读？](https://www.zhihu.com/question/611022016)<br />
 6. []()<br />
 7. [22-23 赛季 NBA 黄蜂 68:76 马刺，状元文班亚马首秀 13 投 2 中拿 9 分，如何评价这场比赛？](https://www.zhihu.com/question/611004001)<br />
-8. [动画电影《长安三万里》7 月 8 日上映，你有哪些观影体验或想说的？](https://www.zhihu.com/question/610737000)<br />
-9. [「熊孩子新闻」正在被当成爽文吸引流量，在厌女、憎男、仇老之后，「仇童」登上舆论场，反映出哪些社会问题？](https://www.zhihu.com/question/610906643)<br />
+8. [「熊孩子新闻」正在被当成爽文吸引流量，在厌女、憎男、仇老之后，「仇童」登上舆论场，反映出哪些社会问题？](https://www.zhihu.com/question/610906643)<br />
+9. [动画电影《长安三万里》7 月 8 日上映，你有哪些观影体验或想说的？](https://www.zhihu.com/question/610737000)<br />
 
 > 百度  
 
@@ -33,8 +33,8 @@
 5. [多地多人确诊 如何避免感染猴痘病毒](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%A4%9A%E4%BA%BA%E7%A1%AE%E8%AF%8A+%E5%A6%82%E4%BD%95%E9%81%BF%E5%85%8D%E6%84%9F%E6%9F%93%E7%8C%B4%E7%97%98%E7%97%85%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [9个孩子被骗缅甸遭电击开水烫](https://www.baidu.com/s?wd=9%E4%B8%AA%E5%AD%A9%E5%AD%90%E8%A2%AB%E9%AA%97%E7%BC%85%E7%94%B8%E9%81%AD%E7%94%B5%E5%87%BB%E5%BC%80%E6%B0%B4%E7%83%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [知名男星被曝遭女友长期控制](https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E7%94%B7%E6%98%9F%E8%A2%AB%E6%9B%9D%E9%81%AD%E5%A5%B3%E5%8F%8B%E9%95%BF%E6%9C%9F%E6%8E%A7%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子因口角纠纷持刀划伤母子](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9B%A0%E5%8F%A3%E8%A7%92%E7%BA%A0%E7%BA%B7%E6%8C%81%E5%88%80%E5%88%92%E4%BC%A4%E6%AF%8D%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [大额存单，抢疯了](https://www.baidu.com/s?wd=%E5%A4%A7%E9%A2%9D%E5%AD%98%E5%8D%95%EF%BC%8C%E6%8A%A2%E7%96%AF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [院长要求给病人开中药称可私自加价](https://www.baidu.com/s?wd=%E9%99%A2%E9%95%BF%E8%A6%81%E6%B1%82%E7%BB%99%E7%97%85%E4%BA%BA%E5%BC%80%E4%B8%AD%E8%8D%AF%E7%A7%B0%E5%8F%AF%E7%A7%81%E8%87%AA%E5%8A%A0%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [南北方周末高温持续局地将达40℃](https://www.baidu.com/s?wd=%E5%8D%97%E5%8C%97%E6%96%B9%E5%91%A8%E6%9C%AB%E9%AB%98%E6%B8%A9%E6%8C%81%E7%BB%AD%E5%B1%80%E5%9C%B0%E5%B0%86%E8%BE%BE40%E2%84%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [多地多人确诊 如何避免感染猴痘病毒](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%A4%9A%E4%BA%BA%E7%A1%AE%E8%AF%8A+%E5%A6%82%E4%BD%95%E9%81%BF%E5%85%8D%E6%84%9F%E6%9F%93%E7%8C%B4%E7%97%98%E7%97%85%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [9个孩子被骗缅甸遭电击开水烫](https://www.baidu.com/s?wd=9%E4%B8%AA%E5%AD%A9%E5%AD%90%E8%A2%AB%E9%AA%97%E7%BC%85%E7%94%B8%E9%81%AD%E7%94%B5%E5%87%BB%E5%BC%80%E6%B0%B4%E7%83%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [知名男星被曝遭女友长期控制](https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E7%94%B7%E6%98%9F%E8%A2%AB%E6%9B%9D%E9%81%AD%E5%A5%B3%E5%8F%8B%E9%95%BF%E6%9C%9F%E6%8E%A7%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子因口角纠纷持刀划伤母子](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9B%A0%E5%8F%A3%E8%A7%92%E7%BA%A0%E7%BA%B7%E6%8C%81%E5%88%80%E5%88%92%E4%BC%A4%E6%AF%8D%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [大额存单，抢疯了](https://www.baidu.com/s?wd=%E5%A4%A7%E9%A2%9D%E5%AD%98%E5%8D%95%EF%BC%8C%E6%8A%A2%E7%96%AF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [院长要求给病人开中药称可私自加价](https://www.baidu.com/s?wd=%E9%99%A2%E9%95%BF%E8%A6%81%E6%B1%82%E7%BB%99%E7%97%85%E4%BA%BA%E5%BC%80%E4%B8%AD%E8%8D%AF%E7%A7%B0%E5%8F%AF%E7%A7%81%E8%87%AA%E5%8A%A0%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [南北方周末高温持续局地将达40℃](https://www.baidu.com/s?wd=%E5%8D%97%E5%8C%97%E6%96%B9%E5%91%A8%E6%9C%AB%E9%AB%98%E6%B8%A9%E6%8C%81%E7%BB%AD%E5%B1%80%E5%9C%B0%E5%B0%86%E8%BE%BE40%E2%84%83&sa=fyb_news&rsv_dl=fyb_news)<br />
