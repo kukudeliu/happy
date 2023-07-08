@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 09:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 09:43:01</h4></div>
 
 > 微博  
 
@@ -10,15 +10,15 @@
 6. [浙江人也被确诊为孙悟空了](https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E4%BA%BA%E4%B9%9F%E8%A2%AB%E7%A1%AE%E8%AF%8A%E4%B8%BA%E5%AD%99%E6%82%9F%E7%A9%BA%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [为什么现在越来越多人想当老师](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E4%BA%BA%E6%83%B3%E5%BD%93%E8%80%81%E5%B8%88%23&t=31&band_rank=7&Refer=top)<br />
 8. [女子无人区遇乞食狼下车投喂](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%97%A0%E4%BA%BA%E5%8C%BA%E9%81%87%E4%B9%9E%E9%A3%9F%E7%8B%BC%E4%B8%8B%E8%BD%A6%E6%8A%95%E5%96%82%23&t=31&band_rank=8&Refer=top)<br />
-9. [最新考古发现证明史记是错的](https://s.weibo.com/weibo?q=%23%E6%9C%80%E6%96%B0%E8%80%83%E5%8F%A4%E5%8F%91%E7%8E%B0%E8%AF%81%E6%98%8E%E5%8F%B2%E8%AE%B0%E6%98%AF%E9%94%99%E7%9A%84%23&t=31&band_rank=9&Refer=top)<br />
+9. [电影一闪一闪亮星星今日开机](https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E4%B8%80%E9%97%AA%E4%B8%80%E9%97%AA%E4%BA%AE%E6%98%9F%E6%98%9F%E4%BB%8A%E6%97%A5%E5%BC%80%E6%9C%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 1. [2023 上半年仅北京、杭州卖地收入超千亿，更多城市不足百亿，如何解读这一数据？释放哪些信号？](https://www.zhihu.com/question/610863406)<br />
 2. [「原来骑手知道我在看配送进度」引发网友热议，你点外卖会看配送进度吗？看进度是为了催单还是其他什么考虑？](https://www.zhihu.com/question/610819713)<br />
 3. []()<br />
-4. [牛顿的科学观都不足以让他放弃他的神学信仰吗？](https://www.zhihu.com/question/607982401)<br />
-5. [人到底经历什么，才能大彻大悟？](https://www.zhihu.com/question/600714845)<br />
+4. [人到底经历什么，才能大彻大悟？](https://www.zhihu.com/question/600714845)<br />
+5. [牛顿的科学观都不足以让他放弃他的神学信仰吗？](https://www.zhihu.com/question/607982401)<br />
 6. [长春航展快到了，急需一套拍航展的相机和镜头（预算 30000 以内），大家有好的建议吗？](https://www.zhihu.com/question/610104648)<br />
 7. [Evernote 替代品有哪些？](https://www.zhihu.com/question/28121700)<br />
 8. [「熊孩子新闻」正在被当成爽文吸引流量，在厌女、憎男、仇老之后，「仇童」登上舆论场，反映出哪些社会问题？](https://www.zhihu.com/question/610906643)<br />
