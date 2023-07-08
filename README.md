@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 08:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 08:56:01</h4></div>
 
 > 微博  
 
@@ -18,11 +18,11 @@
 2. [年轻人开「电动轮椅」上下班，相关产品销量猛涨，律师称不违法，只能从道德层面评价，如何看待这一现象？](https://www.zhihu.com/question/610638966)<br />
 3. [「原来骑手知道我在看配送进度」引发网友热议，你点外卖会看配送进度吗？看进度是为了催单还是其他什么考虑？](https://www.zhihu.com/question/610819713)<br />
 4. [牛顿的科学观都不足以让他放弃他的神学信仰吗？](https://www.zhihu.com/question/607982401)<br />
-5. [消息称特斯拉上海超级工厂裁员，电池一期砍掉 50%，此次裁员背后原因有哪些？对特斯拉中国业务有何影响？](https://www.zhihu.com/question/610755769)<br />
-6. [长春航展快到了，急需一套拍航展的相机和镜头（预算 30000 以内），大家有好的建议吗？](https://www.zhihu.com/question/610104648)<br />
-7. [将 presentation 简称为 pre 合理吗？](https://www.zhihu.com/question/605954137)<br />
-8. [「熊孩子新闻」正在被当成爽文吸引流量，在厌女、憎男、仇老之后，「仇童」登上舆论场，反映出哪些社会问题？](https://www.zhihu.com/question/610906643)<br />
-9. [高考忘记自己贴没贴条形码了，如果没贴的话监考老师会发现吗？](https://www.zhihu.com/question/605787700)<br />
+5. []()<br />
+6. [消息称特斯拉上海超级工厂裁员，电池一期砍掉 50%，此次裁员背后原因有哪些？对特斯拉中国业务有何影响？](https://www.zhihu.com/question/610755769)<br />
+7. [长春航展快到了，急需一套拍航展的相机和镜头（预算 30000 以内），大家有好的建议吗？](https://www.zhihu.com/question/610104648)<br />
+8. [将 presentation 简称为 pre 合理吗？](https://www.zhihu.com/question/605954137)<br />
+9. [「熊孩子新闻」正在被当成爽文吸引流量，在厌女、憎男、仇老之后，「仇童」登上舆论场，反映出哪些社会问题？](https://www.zhihu.com/question/610906643)<br />
 
 > 百度  
 
