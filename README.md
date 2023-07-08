@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 14:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 14:52:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [9个孩子被骗缅甸遭电击开水烫](https://s.weibo.com/weibo?q=%239%E4%B8%AA%E5%AD%A9%E5%AD%90%E8%A2%AB%E9%AA%97%E7%BC%85%E7%94%B8%E9%81%AD%E7%94%B5%E5%87%BB%E5%BC%80%E6%B0%B4%E7%83%AB%23&t=31&band_rank=5&Refer=top)<br />
 6. [凤凰传奇什么时候变成三个人了](https://s.weibo.com/weibo?q=%23%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E5%8F%98%E6%88%90%E4%B8%89%E4%B8%AA%E4%BA%BA%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [爱宝](https://s.weibo.com/weibo?q=%E7%88%B1%E5%AE%9D&t=31&band_rank=7&Refer=top)<br />
-8. [杨幂张大大vsAngelababy张大大打游戏](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%BC%A0%E5%A4%A7%E5%A4%A7vsAngelababy%E5%BC%A0%E5%A4%A7%E5%A4%A7%E6%89%93%E6%B8%B8%E6%88%8F%23&t=31&band_rank=8&Refer=top)<br />
-9. [5旬失独母亲试管产下新生儿](https://s.weibo.com/weibo?q=%235%E6%97%AC%E5%A4%B1%E7%8B%AC%E6%AF%8D%E4%BA%B2%E8%AF%95%E7%AE%A1%E4%BA%A7%E4%B8%8B%E6%96%B0%E7%94%9F%E5%84%BF%23&t=31&band_rank=9&Refer=top)<br />
+8. [猴痘可能使人短期毁容](https://s.weibo.com/weibo?q=%23%E7%8C%B4%E7%97%98%E5%8F%AF%E8%83%BD%E4%BD%BF%E4%BA%BA%E7%9F%AD%E6%9C%9F%E6%AF%81%E5%AE%B9%23&t=31&band_rank=8&Refer=top)<br />
+9. [杨幂张大大vsAngelababy张大大打游戏](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%BC%A0%E5%A4%A7%E5%A4%A7vsAngelababy%E5%BC%A0%E5%A4%A7%E5%A4%A7%E6%89%93%E6%B8%B8%E6%88%8F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
