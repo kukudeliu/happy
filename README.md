@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 04:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 04:35:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [三星电子二季度营业利润暴跌 96%，创 14 年新低，因半导体低迷，韩国或下调经济增长预测，如看解读？](https://www.zhihu.com/question/611009487)<br />
 7. [今年以来，多个商家售卖日本核辐射区食品被罚，哪些进口产品存在风险？消费者该如何鉴别防范？](https://www.zhihu.com/question/611020761)<br />
 8. [如何评价《崩坏：星穹铁道》1.2 版本前瞻特别节目「仙骸有终」？](https://www.zhihu.com/question/611095107)<br />
-9. [为啥《八角笼中》后面的格斗场面都要用黑白镜头？](https://www.zhihu.com/question/608149481)<br />
+9. [中国汽车工业协会声明删除《承诺书》涉及价格表述，敦促车企严格遵守《反垄断法》，如何看待此事？](https://www.zhihu.com/question/611038104)<br />
 
 > 百度  
 
@@ -33,7 +33,7 @@
 5. [现场：何立峰会见耶伦](https://www.baidu.com/s?wd=%E7%8E%B0%E5%9C%BA%EF%BC%9A%E4%BD%95%E7%AB%8B%E5%B3%B0%E4%BC%9A%E8%A7%81%E8%80%B6%E4%BC%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [卫生院让多开中药增收？官方回应](https://www.baidu.com/s?wd=%E5%8D%AB%E7%94%9F%E9%99%A2%E8%AE%A9%E5%A4%9A%E5%BC%80%E4%B8%AD%E8%8D%AF%E5%A2%9E%E6%94%B6%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [知名男星被曝遭女友长期控制](https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E7%94%B7%E6%98%9F%E8%A2%AB%E6%9B%9D%E9%81%AD%E5%A5%B3%E5%8F%8B%E9%95%BF%E6%9C%9F%E6%8E%A7%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [李梦带伤作战助神秘人止连败](https://www.baidu.com/s?wd=%E6%9D%8E%E6%A2%A6%E5%B8%A6%E4%BC%A4%E4%BD%9C%E6%88%98%E5%8A%A9%E7%A5%9E%E7%A7%98%E4%BA%BA%E6%AD%A2%E8%BF%9E%E8%B4%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [乘客被熊孩子薅头发弹脑壳反遭吼](https://www.baidu.com/s?wd=%E4%B9%98%E5%AE%A2%E8%A2%AB%E7%86%8A%E5%AD%A9%E5%AD%90%E8%96%85%E5%A4%B4%E5%8F%91%E5%BC%B9%E8%84%91%E5%A3%B3%E5%8F%8D%E9%81%AD%E5%90%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [多个商家卖日本核辐射区食品被罚](https://www.baidu.com/s?wd=%E5%A4%9A%E4%B8%AA%E5%95%86%E5%AE%B6%E5%8D%96%E6%97%A5%E6%9C%AC%E6%A0%B8%E8%BE%90%E5%B0%84%E5%8C%BA%E9%A3%9F%E5%93%81%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [现场：何立峰会见耶伦](https://www.baidu.com/s?wd=%E7%8E%B0%E5%9C%BA%EF%BC%9A%E4%BD%95%E7%AB%8B%E5%B3%B0%E4%BC%9A%E8%A7%81%E8%80%B6%E4%BC%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [卫生院让多开中药增收？官方回应](https://www.baidu.com/s?wd=%E5%8D%AB%E7%94%9F%E9%99%A2%E8%AE%A9%E5%A4%9A%E5%BC%80%E4%B8%AD%E8%8D%AF%E5%A2%9E%E6%94%B6%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [知名男星被曝遭女友长期控制](https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E7%94%B7%E6%98%9F%E8%A2%AB%E6%9B%9D%E9%81%AD%E5%A5%B3%E5%8F%8B%E9%95%BF%E6%9C%9F%E6%8E%A7%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [李梦带伤作战助神秘人止连败](https://www.baidu.com/s?wd=%E6%9D%8E%E6%A2%A6%E5%B8%A6%E4%BC%A4%E4%BD%9C%E6%88%98%E5%8A%A9%E7%A5%9E%E7%A7%98%E4%BA%BA%E6%AD%A2%E8%BF%9E%E8%B4%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [乘客被熊孩子薅头发弹脑壳反遭吼](https://www.baidu.com/s?wd=%E4%B9%98%E5%AE%A2%E8%A2%AB%E7%86%8A%E5%AD%A9%E5%AD%90%E8%96%85%E5%A4%B4%E5%8F%91%E5%BC%B9%E8%84%91%E5%A3%B3%E5%8F%8D%E9%81%AD%E5%90%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [多个商家卖日本核辐射区食品被罚](https://www.baidu.com/s?wd=%E5%A4%9A%E4%B8%AA%E5%95%86%E5%AE%B6%E5%8D%96%E6%97%A5%E6%9C%AC%E6%A0%B8%E8%BE%90%E5%B0%84%E5%8C%BA%E9%A3%9F%E5%93%81%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
