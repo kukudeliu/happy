@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 20:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 20:39:02</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [李玟老公：我一直对她很好](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E8%80%81%E5%85%AC%EF%BC%9A%E6%88%91%E4%B8%80%E7%9B%B4%E5%AF%B9%E5%A5%B9%E5%BE%88%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [新疆16个团力争今年退出棉花种植](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%8616%E4%B8%AA%E5%9B%A2%E5%8A%9B%E4%BA%89%E4%BB%8A%E5%B9%B4%E9%80%80%E5%87%BA%E6%A3%89%E8%8A%B1%E7%A7%8D%E6%A4%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子凌晨洗澡遭男子扒窗偷窥做鬼脸](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%87%8C%E6%99%A8%E6%B4%97%E6%BE%A1%E9%81%AD%E7%94%B7%E5%AD%90%E6%89%92%E7%AA%97%E5%81%B7%E7%AA%A5%E5%81%9A%E9%AC%BC%E8%84%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [河南一雪糕店爆炸致1死1伤](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E9%9B%AA%E7%B3%95%E5%BA%97%E7%88%86%E7%82%B8%E8%87%B41%E6%AD%BB1%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [多名学生举报遭中航国铁教育诈骗](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E5%AD%A6%E7%94%9F%E4%B8%BE%E6%8A%A5%E9%81%AD%E4%B8%AD%E8%88%AA%E5%9B%BD%E9%93%81%E6%95%99%E8%82%B2%E8%AF%88%E9%AA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [知名男星被曝遭女友长期控制](https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E7%94%B7%E6%98%9F%E8%A2%AB%E6%9B%9D%E9%81%AD%E5%A5%B3%E5%8F%8B%E9%95%BF%E6%9C%9F%E6%8E%A7%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [多地冲40℃！南北高温区将连成一片](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%86%B240%E2%84%83%EF%BC%81%E5%8D%97%E5%8C%97%E9%AB%98%E6%B8%A9%E5%8C%BA%E5%B0%86%E8%BF%9E%E6%88%90%E4%B8%80%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [李玟老公：我一直对她很好](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E8%80%81%E5%85%AC%EF%BC%9A%E6%88%91%E4%B8%80%E7%9B%B4%E5%AF%B9%E5%A5%B9%E5%BE%88%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [新疆16个团力争今年退出棉花种植](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%8616%E4%B8%AA%E5%9B%A2%E5%8A%9B%E4%BA%89%E4%BB%8A%E5%B9%B4%E9%80%80%E5%87%BA%E6%A3%89%E8%8A%B1%E7%A7%8D%E6%A4%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子凌晨洗澡遭男子扒窗偷窥做鬼脸](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%87%8C%E6%99%A8%E6%B4%97%E6%BE%A1%E9%81%AD%E7%94%B7%E5%AD%90%E6%89%92%E7%AA%97%E5%81%B7%E7%AA%A5%E5%81%9A%E9%AC%BC%E8%84%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [河南一雪糕店爆炸致1死1伤](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E9%9B%AA%E7%B3%95%E5%BA%97%E7%88%86%E7%82%B8%E8%87%B41%E6%AD%BB1%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [多名学生举报遭中航国铁教育诈骗](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E5%AD%A6%E7%94%9F%E4%B8%BE%E6%8A%A5%E9%81%AD%E4%B8%AD%E8%88%AA%E5%9B%BD%E9%93%81%E6%95%99%E8%82%B2%E8%AF%88%E9%AA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [知名男星被曝遭女友长期控制](https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E7%94%B7%E6%98%9F%E8%A2%AB%E6%9B%9D%E9%81%AD%E5%A5%B3%E5%8F%8B%E9%95%BF%E6%9C%9F%E6%8E%A7%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [多地冲40℃！南北高温区将连成一片](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%86%B240%E2%84%83%EF%BC%81%E5%8D%97%E5%8C%97%E9%AB%98%E6%B8%A9%E5%8C%BA%E5%B0%86%E8%BF%9E%E6%88%90%E4%B8%80%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
