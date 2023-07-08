@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 12:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 12:48:02</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [倾听运河新生的脉动](https://s.weibo.com/weibo?q=%23%E5%80%BE%E5%90%AC%E8%BF%90%E6%B2%B3%E6%96%B0%E7%94%9F%E7%9A%84%E8%84%89%E5%8A%A8%23&t=31&band_rank=3&Refer=top)<br />
 4. [坐电梯坐到张杰谢娜家](https://s.weibo.com/weibo?q=%23%E5%9D%90%E7%94%B5%E6%A2%AF%E5%9D%90%E5%88%B0%E5%BC%A0%E6%9D%B0%E8%B0%A2%E5%A8%9C%E5%AE%B6%23&t=31&band_rank=4&Refer=top)<br />
 5. [多地有猴痘普通人感染几率会增大吗](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E6%9C%89%E7%8C%B4%E7%97%98%E6%99%AE%E9%80%9A%E4%BA%BA%E6%84%9F%E6%9F%93%E5%87%A0%E7%8E%87%E4%BC%9A%E5%A2%9E%E5%A4%A7%E5%90%97%23&t=31&band_rank=5&Refer=top)<br />
-6. [柳玉茹 假死](https://s.weibo.com/weibo?q=%E6%9F%B3%E7%8E%89%E8%8C%B9%20%E5%81%87%E6%AD%BB&t=31&band_rank=6&Refer=top)<br />
+6. [iPhone15Pro系列将采用深蓝色](https://s.weibo.com/weibo?q=%23iPhone15Pro%E7%B3%BB%E5%88%97%E5%B0%86%E9%87%87%E7%94%A8%E6%B7%B1%E8%93%9D%E8%89%B2%23&t=31&band_rank=6&Refer=top)<br />
 7. [布兰妮被掌掴视频曝光](https://s.weibo.com/weibo?q=%23%E5%B8%83%E5%85%B0%E5%A6%AE%E8%A2%AB%E6%8E%8C%E6%8E%B4%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89%23&t=31&band_rank=7&Refer=top)<br />
-8. [iPhone15Pro系列将采用深蓝色](https://s.weibo.com/weibo?q=%23iPhone15Pro%E7%B3%BB%E5%88%97%E5%B0%86%E9%87%87%E7%94%A8%E6%B7%B1%E8%93%9D%E8%89%B2%23&t=31&band_rank=8&Refer=top)<br />
+8. [柳玉茹 假死](https://s.weibo.com/weibo?q=%E6%9F%B3%E7%8E%89%E8%8C%B9%20%E5%81%87%E6%AD%BB&t=31&band_rank=8&Refer=top)<br />
 9. [张杰超话 答题](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9D%B0%E8%B6%85%E8%AF%9D%20%E7%AD%94%E9%A2%98&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
