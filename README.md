@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 10:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 10:06:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [邓伦被强制执行](https://s.weibo.com/weibo?q=%23%E9%82%93%E4%BC%A6%E8%A2%AB%E5%BC%BA%E5%88%B6%E6%89%A7%E8%A1%8C%23&t=31&band_rank=6&Refer=top)<br />
 7. [Angelababy张殷殷](https://s.weibo.com/weibo?q=%23Angelababy%E5%BC%A0%E6%AE%B7%E6%AE%B7%23&t=31&band_rank=7&Refer=top)<br />
 8. [谢娜自己淘汰自己](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E8%87%AA%E5%B7%B1%E6%B7%98%E6%B1%B0%E8%87%AA%E5%B7%B1%23&t=31&band_rank=8&Refer=top)<br />
-9. [女子无人区遇乞食狼下车投喂](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%97%A0%E4%BA%BA%E5%8C%BA%E9%81%87%E4%B9%9E%E9%A3%9F%E7%8B%BC%E4%B8%8B%E8%BD%A6%E6%8A%95%E5%96%82%23&t=31&band_rank=9&Refer=top)<br />
+9. [最新考古发现证明史记是错的](https://s.weibo.com/weibo?q=%23%E6%9C%80%E6%96%B0%E8%80%83%E5%8F%A4%E5%8F%91%E7%8E%B0%E8%AF%81%E6%98%8E%E5%8F%B2%E8%AE%B0%E6%98%AF%E9%94%99%E7%9A%84%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
