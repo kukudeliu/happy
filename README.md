@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 15:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 15:49:01</h4></div>
 
 > 微博  
 
@@ -32,9 +32,9 @@
 4. [奋力推进中国式现代化](https://www.baidu.com/s?wd=%E5%A5%8B%E5%8A%9B%E6%8E%A8%E8%BF%9B%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [多地多人确诊 如何避免感染猴痘病毒](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%A4%9A%E4%BA%BA%E7%A1%AE%E8%AF%8A+%E5%A6%82%E4%BD%95%E9%81%BF%E5%85%8D%E6%84%9F%E6%9F%93%E7%8C%B4%E7%97%98%E7%97%85%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [知名男星被曝遭女友长期控制](https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E7%94%B7%E6%98%9F%E8%A2%AB%E6%9B%9D%E9%81%AD%E5%A5%B3%E5%8F%8B%E9%95%BF%E6%9C%9F%E6%8E%A7%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [警方通报女子在地铁发表辱华言论](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E5%9C%A8%E5%9C%B0%E9%93%81%E5%8F%91%E8%A1%A8%E8%BE%B1%E5%8D%8E%E8%A8%80%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [院长要求给病人开中药称可私自加价](https://www.baidu.com/s?wd=%E9%99%A2%E9%95%BF%E8%A6%81%E6%B1%82%E7%BB%99%E7%97%85%E4%BA%BA%E5%BC%80%E4%B8%AD%E8%8D%AF%E7%A7%B0%E5%8F%AF%E7%A7%81%E8%87%AA%E5%8A%A0%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [南北方周末高温持续局地将达40℃](https://www.baidu.com/s?wd=%E5%8D%97%E5%8C%97%E6%96%B9%E5%91%A8%E6%9C%AB%E9%AB%98%E6%B8%A9%E6%8C%81%E7%BB%AD%E5%B1%80%E5%9C%B0%E5%B0%86%E8%BE%BE40%E2%84%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [中汽协删除车企承诺不打价格战条款](https://www.baidu.com/s?wd=%E4%B8%AD%E6%B1%BD%E5%8D%8F%E5%88%A0%E9%99%A4%E8%BD%A6%E4%BC%81%E6%89%BF%E8%AF%BA%E4%B8%8D%E6%89%93%E4%BB%B7%E6%A0%BC%E6%88%98%E6%9D%A1%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [大额存单，抢疯了](https://www.baidu.com/s?wd=%E5%A4%A7%E9%A2%9D%E5%AD%98%E5%8D%95%EF%BC%8C%E6%8A%A2%E7%96%AF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [院长要求给病人开中药称可私自加价](https://www.baidu.com/s?wd=%E9%99%A2%E9%95%BF%E8%A6%81%E6%B1%82%E7%BB%99%E7%97%85%E4%BA%BA%E5%BC%80%E4%B8%AD%E8%8D%AF%E7%A7%B0%E5%8F%AF%E7%A7%81%E8%87%AA%E5%8A%A0%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [奋力推进中国式现代化](https://www.baidu.com/s?wd=%E5%A5%8B%E5%8A%9B%E6%8E%A8%E8%BF%9B%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [多地多人确诊 如何避免感染猴痘病毒](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%A4%9A%E4%BA%BA%E7%A1%AE%E8%AF%8A+%E5%A6%82%E4%BD%95%E9%81%BF%E5%85%8D%E6%84%9F%E6%9F%93%E7%8C%B4%E7%97%98%E7%97%85%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [知名男星被曝遭女友长期控制](https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E7%94%B7%E6%98%9F%E8%A2%AB%E6%9B%9D%E9%81%AD%E5%A5%B3%E5%8F%8B%E9%95%BF%E6%9C%9F%E6%8E%A7%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [警方通报女子在地铁发表辱华言论](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E5%9C%A8%E5%9C%B0%E9%93%81%E5%8F%91%E8%A1%A8%E8%BE%B1%E5%8D%8E%E8%A8%80%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [院长要求给病人开中药称可私自加价](https://www.baidu.com/s?wd=%E9%99%A2%E9%95%BF%E8%A6%81%E6%B1%82%E7%BB%99%E7%97%85%E4%BA%BA%E5%BC%80%E4%B8%AD%E8%8D%AF%E7%A7%B0%E5%8F%AF%E7%A7%81%E8%87%AA%E5%8A%A0%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [南北方周末高温持续局地将达40℃](https://www.baidu.com/s?wd=%E5%8D%97%E5%8C%97%E6%96%B9%E5%91%A8%E6%9C%AB%E9%AB%98%E6%B8%A9%E6%8C%81%E7%BB%AD%E5%B1%80%E5%9C%B0%E5%B0%86%E8%BE%BE40%E2%84%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [中汽协删除车企承诺不打价格战条款](https://www.baidu.com/s?wd=%E4%B8%AD%E6%B1%BD%E5%8D%8F%E5%88%A0%E9%99%A4%E8%BD%A6%E4%BC%81%E6%89%BF%E8%AF%BA%E4%B8%8D%E6%89%93%E4%BB%B7%E6%A0%BC%E6%88%98%E6%9D%A1%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [大额存单，抢疯了](https://www.baidu.com/s?wd=%E5%A4%A7%E9%A2%9D%E5%AD%98%E5%8D%95%EF%BC%8C%E6%8A%A2%E7%96%AF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [院长要求给病人开中药称可私自加价](https://www.baidu.com/s?wd=%E9%99%A2%E9%95%BF%E8%A6%81%E6%B1%82%E7%BB%99%E7%97%85%E4%BA%BA%E5%BC%80%E4%B8%AD%E8%8D%AF%E7%A7%B0%E5%8F%AF%E7%A7%81%E8%87%AA%E5%8A%A0%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
