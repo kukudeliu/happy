@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 17:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 17:05:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. []()<br />
 7. [排骨怎么炖可以又嫩又香？](https://www.zhihu.com/question/559603358)<br />
 8. [孩子爱打游戏是买游戏机给他玩还是买手机给他玩？](https://www.zhihu.com/question/609898977)<br />
-9. []()<br />
+9. [如何评价《布莱泽奥特曼》第一集？](https://www.zhihu.com/question/611021174)<br />
 
 > 百度  
 
