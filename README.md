@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 20:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 20:58:01</h4></div>
 
 > 微博  
 
@@ -32,9 +32,9 @@
 4. [走好这条“必由之路”](https://www.baidu.com/s?wd=%E8%B5%B0%E5%A5%BD%E8%BF%99%E6%9D%A1%E2%80%9C%E5%BF%85%E7%94%B1%E4%B9%8B%E8%B7%AF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [李玟老公：我一直对她很好](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E8%80%81%E5%85%AC%EF%BC%9A%E6%88%91%E4%B8%80%E7%9B%B4%E5%AF%B9%E5%A5%B9%E5%BE%88%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [新疆16个团力争今年退出棉花种植](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%8616%E4%B8%AA%E5%9B%A2%E5%8A%9B%E4%BA%89%E4%BB%8A%E5%B9%B4%E9%80%80%E5%87%BA%E6%A3%89%E8%8A%B1%E7%A7%8D%E6%A4%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [年轻人卖“刮刮乐”搞钱](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%8D%96%E2%80%9C%E5%88%AE%E5%88%AE%E4%B9%90%E2%80%9D%E6%90%9E%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [美欲“组团”施压中国 专家驳斥](https://www.baidu.com/s?wd=%E7%BE%8E%E6%AC%B2%E2%80%9C%E7%BB%84%E5%9B%A2%E2%80%9D%E6%96%BD%E5%8E%8B%E4%B8%AD%E5%9B%BD+%E4%B8%93%E5%AE%B6%E9%A9%B3%E6%96%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子凌晨洗澡遭男子扒窗偷窥做鬼脸](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%87%8C%E6%99%A8%E6%B4%97%E6%BE%A1%E9%81%AD%E7%94%B7%E5%AD%90%E6%89%92%E7%AA%97%E5%81%B7%E7%AA%A5%E5%81%9A%E9%AC%BC%E8%84%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [荷兰政府宣布将集体辞职](https://www.baidu.com/s?wd=%E8%8D%B7%E5%85%B0%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E5%B0%86%E9%9B%86%E4%BD%93%E8%BE%9E%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子凌晨洗澡遭男子扒窗偷窥做鬼脸](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%87%8C%E6%99%A8%E6%B4%97%E6%BE%A1%E9%81%AD%E7%94%B7%E5%AD%90%E6%89%92%E7%AA%97%E5%81%B7%E7%AA%A5%E5%81%9A%E9%AC%BC%E8%84%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [9个孩子被骗缅甸遭电击开水烫](https://www.baidu.com/s?wd=9%E4%B8%AA%E5%AD%A9%E5%AD%90%E8%A2%AB%E9%AA%97%E7%BC%85%E7%94%B8%E9%81%AD%E7%94%B5%E5%87%BB%E5%BC%80%E6%B0%B4%E7%83%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [走好这条“必由之路”](https://www.baidu.com/s?wd=%E8%B5%B0%E5%A5%BD%E8%BF%99%E6%9D%A1%E2%80%9C%E5%BF%85%E7%94%B1%E4%B9%8B%E8%B7%AF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [李玟老公：我一直对她很好](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E8%80%81%E5%85%AC%EF%BC%9A%E6%88%91%E4%B8%80%E7%9B%B4%E5%AF%B9%E5%A5%B9%E5%BE%88%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [新疆16个团力争今年退出棉花种植](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%8616%E4%B8%AA%E5%9B%A2%E5%8A%9B%E4%BA%89%E4%BB%8A%E5%B9%B4%E9%80%80%E5%87%BA%E6%A3%89%E8%8A%B1%E7%A7%8D%E6%A4%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [年轻人卖“刮刮乐”搞钱](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%8D%96%E2%80%9C%E5%88%AE%E5%88%AE%E4%B9%90%E2%80%9D%E6%90%9E%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [美欲“组团”施压中国 专家驳斥](https://www.baidu.com/s?wd=%E7%BE%8E%E6%AC%B2%E2%80%9C%E7%BB%84%E5%9B%A2%E2%80%9D%E6%96%BD%E5%8E%8B%E4%B8%AD%E5%9B%BD+%E4%B8%93%E5%AE%B6%E9%A9%B3%E6%96%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子凌晨洗澡遭男子扒窗偷窥做鬼脸](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%87%8C%E6%99%A8%E6%B4%97%E6%BE%A1%E9%81%AD%E7%94%B7%E5%AD%90%E6%89%92%E7%AA%97%E5%81%B7%E7%AA%A5%E5%81%9A%E9%AC%BC%E8%84%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [荷兰政府宣布将集体辞职](https://www.baidu.com/s?wd=%E8%8D%B7%E5%85%B0%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E5%B0%86%E9%9B%86%E4%BD%93%E8%BE%9E%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子凌晨洗澡遭男子扒窗偷窥做鬼脸](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%87%8C%E6%99%A8%E6%B4%97%E6%BE%A1%E9%81%AD%E7%94%B7%E5%AD%90%E6%89%92%E7%AA%97%E5%81%B7%E7%AA%A5%E5%81%9A%E9%AC%BC%E8%84%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [9个孩子被骗缅甸遭电击开水烫](https://www.baidu.com/s?wd=9%E4%B8%AA%E5%AD%A9%E5%AD%90%E8%A2%AB%E9%AA%97%E7%BC%85%E7%94%B8%E9%81%AD%E7%94%B5%E5%87%BB%E5%BC%80%E6%B0%B4%E7%83%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
