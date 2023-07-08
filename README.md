@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 23:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 23:25:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [有哪些你长期坚持过并且有效的养生方法呢？](https://www.zhihu.com/question/607477218)<br />
 7. [为啥《八角笼中》后面的格斗场面都要用黑白镜头？](https://www.zhihu.com/question/608149481)<br />
 8. [大家高考 / 中考后做的第一件事是什么？](https://www.zhihu.com/question/610760093)<br />
-9. [已婚男生高铁上把外套借给旁边陌生女生，这个行为可以理解吗？](https://www.zhihu.com/question/610339558)<br />
+9. [12 年红魔生涯终结！德赫亚发文告别「是时候接受新挑战，曼联永在我心」，如何评价他的红魔生涯？](https://www.zhihu.com/question/611111625)<br />
 
 > 百度  
 
