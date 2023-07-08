@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 19:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 19:46:01</h4></div>
 
 > 微博  
 
@@ -27,7 +27,7 @@
 > 百度  
 
 1. [总书记对江苏提四点希望](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%AF%B9%E6%B1%9F%E8%8B%8F%E6%8F%90%E5%9B%9B%E7%82%B9%E5%B8%8C%E6%9C%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [9个孩子被骗缅甸遭电击开水烫](https://www.baidu.com/s?wd=9%E4%B8%AA%E5%AD%A9%E5%AD%90%E8%A2%AB%E9%AA%97%E7%BC%85%E7%94%B8%E9%81%AD%E7%94%B5%E5%87%BB%E5%BC%80%E6%B0%B4%E7%83%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [多地冲40℃！南北高温区将连成一片](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%86%B240%E2%84%83%EF%BC%81%E5%8D%97%E5%8C%97%E9%AB%98%E6%B8%A9%E5%8C%BA%E5%B0%86%E8%BF%9E%E6%88%90%E4%B8%80%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [河南一雪糕店爆炸致1死1伤](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E9%9B%AA%E7%B3%95%E5%BA%97%E7%88%86%E7%82%B8%E8%87%B41%E6%AD%BB1%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [走好这条“必由之路”](https://www.baidu.com/s?wd=%E8%B5%B0%E5%A5%BD%E8%BF%99%E6%9D%A1%E2%80%9C%E5%BF%85%E7%94%B1%E4%B9%8B%E8%B7%AF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [李玟老公：我一直对她很好](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E8%80%81%E5%85%AC%EF%BC%9A%E6%88%91%E4%B8%80%E7%9B%B4%E5%AF%B9%E5%A5%B9%E5%BE%88%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -39,7 +39,7 @@
 > 哔哩哔哩  
 
 1. [总书记对江苏提四点希望](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%AF%B9%E6%B1%9F%E8%8B%8F%E6%8F%90%E5%9B%9B%E7%82%B9%E5%B8%8C%E6%9C%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [9个孩子被骗缅甸遭电击开水烫](https://www.baidu.com/s?wd=9%E4%B8%AA%E5%AD%A9%E5%AD%90%E8%A2%AB%E9%AA%97%E7%BC%85%E7%94%B8%E9%81%AD%E7%94%B5%E5%87%BB%E5%BC%80%E6%B0%B4%E7%83%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [多地冲40℃！南北高温区将连成一片](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%86%B240%E2%84%83%EF%BC%81%E5%8D%97%E5%8C%97%E9%AB%98%E6%B8%A9%E5%8C%BA%E5%B0%86%E8%BF%9E%E6%88%90%E4%B8%80%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [河南一雪糕店爆炸致1死1伤](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E9%9B%AA%E7%B3%95%E5%BA%97%E7%88%86%E7%82%B8%E8%87%B41%E6%AD%BB1%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [走好这条“必由之路”](https://www.baidu.com/s?wd=%E8%B5%B0%E5%A5%BD%E8%BF%99%E6%9D%A1%E2%80%9C%E5%BF%85%E7%94%B1%E4%B9%8B%E8%B7%AF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [李玟老公：我一直对她很好](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E8%80%81%E5%85%AC%EF%BC%9A%E6%88%91%E4%B8%80%E7%9B%B4%E5%AF%B9%E5%A5%B9%E5%BE%88%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
