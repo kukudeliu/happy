@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 16:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 16:58:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [李玟二姐喊话让知情人站出来](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E4%BA%8C%E5%A7%90%E5%96%8A%E8%AF%9D%E8%AE%A9%E7%9F%A5%E6%83%85%E4%BA%BA%E7%AB%99%E5%87%BA%E6%9D%A5%23&t=31&band_rank=4&Refer=top)<br />
 5. [德国女生坚持跑步20周成功蜕变](https://s.weibo.com/weibo?q=%E5%BE%B7%E5%9B%BD%E5%A5%B3%E7%94%9F%E5%9D%9A%E6%8C%81%E8%B7%91%E6%AD%A520%E5%91%A8%E6%88%90%E5%8A%9F%E8%9C%95%E5%8F%98&t=31&band_rank=5&Refer=top)<br />
 6. [胡一统都当校长了](https://s.weibo.com/weibo?q=%23%E8%83%A1%E4%B8%80%E7%BB%9F%E9%83%BD%E5%BD%93%E6%A0%A1%E9%95%BF%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [现偶四大甜妹](https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%81%B6%E5%9B%9B%E5%A4%A7%E7%94%9C%E5%A6%B9%23&t=31&band_rank=7&Refer=top)<br />
-8. [上海地铁一女子发表辱华言论](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E4%B8%80%E5%A5%B3%E5%AD%90%E5%8F%91%E8%A1%A8%E8%BE%B1%E5%8D%8E%E8%A8%80%E8%AE%BA%23&t=31&band_rank=8&Refer=top)<br />
+7. [上海地铁一女子发表辱华言论](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E4%B8%80%E5%A5%B3%E5%AD%90%E5%8F%91%E8%A1%A8%E8%BE%B1%E5%8D%8E%E8%A8%80%E8%AE%BA%23&t=31&band_rank=7&Refer=top)<br />
+8. [现偶四大甜妹](https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%81%B6%E5%9B%9B%E5%A4%A7%E7%94%9C%E5%A6%B9%23&t=31&band_rank=8&Refer=top)<br />
 9. [身边的超级致癌物 黄曲霉菌](https://s.weibo.com/weibo?q=%E8%BA%AB%E8%BE%B9%E7%9A%84%E8%B6%85%E7%BA%A7%E8%87%B4%E7%99%8C%E7%89%A9%20%E9%BB%84%E6%9B%B2%E9%9C%89%E8%8F%8C&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -18,8 +18,8 @@
 2. [三星电子二季度营业利润暴跌 96%，创 14 年新低，因半导体低迷，韩国或下调经济增长预测，如看解读？](https://www.zhihu.com/question/611009487)<br />
 3. [网曝郑州花 34 亿给河道干挂大理石砖，官方回应「已关注到质疑声音，正在开会讨论」，如何看待此事？](https://www.zhihu.com/question/610860810)<br />
 4. [方向盘打到底到底有多伤车？](https://www.zhihu.com/question/604715486)<br />
-5. [公募基金费率改革启动，涉及六方面内容，管理费率、托管费率不超过 1.2% 、 0.2%，如何解读？](https://www.zhihu.com/question/611022016)<br />
-6. [金庸小说《神雕侠侣》你站的是过芙还是龙过？](https://www.zhihu.com/question/459125813)<br />
+5. [金庸小说《神雕侠侣》你站的是过芙还是龙过？](https://www.zhihu.com/question/459125813)<br />
+6. [公募基金费率改革启动，涉及六方面内容，管理费率、托管费率不超过 1.2% 、 0.2%，如何解读？](https://www.zhihu.com/question/611022016)<br />
 7. [排骨怎么炖可以又嫩又香？](https://www.zhihu.com/question/559603358)<br />
 8. []()<br />
 9. [孩子爱打游戏是买游戏机给他玩还是买手机给他玩？](https://www.zhihu.com/question/609898977)<br />
