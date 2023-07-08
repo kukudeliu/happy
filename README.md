@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 09:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 09:17:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [长春航展快到了，急需一套拍航展的相机和镜头（预算 30000 以内），大家有好的建议吗？](https://www.zhihu.com/question/610104648)<br />
 6. [Evernote 替代品有哪些？](https://www.zhihu.com/question/28121700)<br />
 7. [将 presentation 简称为 pre 合理吗？](https://www.zhihu.com/question/605954137)<br />
-8. [消息称特斯拉上海超级工厂裁员，电池一期砍掉 50%，此次裁员背后原因有哪些？对特斯拉中国业务有何影响？](https://www.zhihu.com/question/610755769)<br />
-9. [「熊孩子新闻」正在被当成爽文吸引流量，在厌女、憎男、仇老之后，「仇童」登上舆论场，反映出哪些社会问题？](https://www.zhihu.com/question/610906643)<br />
+8. [「熊孩子新闻」正在被当成爽文吸引流量，在厌女、憎男、仇老之后，「仇童」登上舆论场，反映出哪些社会问题？](https://www.zhihu.com/question/610906643)<br />
+9. [消息称特斯拉上海超级工厂裁员，电池一期砍掉 50%，此次裁员背后原因有哪些？对特斯拉中国业务有何影响？](https://www.zhihu.com/question/610755769)<br />
 
 > 百度  
 
@@ -31,9 +31,9 @@
 3. [富豪为对抗衰老上午11点后断食](https://www.baidu.com/s?wd=%E5%AF%8C%E8%B1%AA%E4%B8%BA%E5%AF%B9%E6%8A%97%E8%A1%B0%E8%80%81%E4%B8%8A%E5%8D%8811%E7%82%B9%E5%90%8E%E6%96%AD%E9%A3%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [筑牢防灾减灾坚固防线](https://www.baidu.com/s?wd=%E7%AD%91%E7%89%A2%E9%98%B2%E7%81%BE%E5%87%8F%E7%81%BE%E5%9D%9A%E5%9B%BA%E9%98%B2%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子回应赚5亿不如月薪5千生娃好](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%9B%9E%E5%BA%94%E8%B5%9A5%E4%BA%BF%E4%B8%8D%E5%A6%82%E6%9C%88%E8%96%AA5%E5%8D%83%E7%94%9F%E5%A8%83%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [扫毒3差评出奇一致](https://www.baidu.com/s?wd=%E6%89%AB%E6%AF%923%E5%B7%AE%E8%AF%84%E5%87%BA%E5%A5%87%E4%B8%80%E8%87%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [国乒大爆冷！马龙2-3遭逆转](https://www.baidu.com/s?wd=%E5%9B%BD%E4%B9%92%E5%A4%A7%E7%88%86%E5%86%B7%EF%BC%81%E9%A9%AC%E9%BE%992-3%E9%81%AD%E9%80%86%E8%BD%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [范德萨突发脑溢血被送往ICU抢救](https://www.baidu.com/s?wd=%E8%8C%83%E5%BE%B7%E8%90%A8%E7%AA%81%E5%8F%91%E8%84%91%E6%BA%A2%E8%A1%80%E8%A2%AB%E9%80%81%E5%BE%80ICU%E6%8A%A2%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [国乒大爆冷！马龙2-3遭逆转](https://www.baidu.com/s?wd=%E5%9B%BD%E4%B9%92%E5%A4%A7%E7%88%86%E5%86%B7%EF%BC%81%E9%A9%AC%E9%BE%992-3%E9%81%AD%E9%80%86%E8%BD%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [孙红雷 他说的全是我的词啊](https://www.baidu.com/s?wd=%E5%AD%99%E7%BA%A2%E9%9B%B7+%E4%BB%96%E8%AF%B4%E7%9A%84%E5%85%A8%E6%98%AF%E6%88%91%E7%9A%84%E8%AF%8D%E5%95%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [扫毒3差评出奇一致](https://www.baidu.com/s?wd=%E6%89%AB%E6%AF%923%E5%B7%AE%E8%AF%84%E5%87%BA%E5%A5%87%E4%B8%80%E8%87%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [国货美妆逃离“李佳琦”](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B4%A7%E7%BE%8E%E5%A6%86%E9%80%83%E7%A6%BB%E2%80%9C%E6%9D%8E%E4%BD%B3%E7%90%A6%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -43,7 +43,7 @@
 3. [富豪为对抗衰老上午11点后断食](https://www.baidu.com/s?wd=%E5%AF%8C%E8%B1%AA%E4%B8%BA%E5%AF%B9%E6%8A%97%E8%A1%B0%E8%80%81%E4%B8%8A%E5%8D%8811%E7%82%B9%E5%90%8E%E6%96%AD%E9%A3%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [筑牢防灾减灾坚固防线](https://www.baidu.com/s?wd=%E7%AD%91%E7%89%A2%E9%98%B2%E7%81%BE%E5%87%8F%E7%81%BE%E5%9D%9A%E5%9B%BA%E9%98%B2%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子回应赚5亿不如月薪5千生娃好](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%9B%9E%E5%BA%94%E8%B5%9A5%E4%BA%BF%E4%B8%8D%E5%A6%82%E6%9C%88%E8%96%AA5%E5%8D%83%E7%94%9F%E5%A8%83%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [扫毒3差评出奇一致](https://www.baidu.com/s?wd=%E6%89%AB%E6%AF%923%E5%B7%AE%E8%AF%84%E5%87%BA%E5%A5%87%E4%B8%80%E8%87%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [国乒大爆冷！马龙2-3遭逆转](https://www.baidu.com/s?wd=%E5%9B%BD%E4%B9%92%E5%A4%A7%E7%88%86%E5%86%B7%EF%BC%81%E9%A9%AC%E9%BE%992-3%E9%81%AD%E9%80%86%E8%BD%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [范德萨突发脑溢血被送往ICU抢救](https://www.baidu.com/s?wd=%E8%8C%83%E5%BE%B7%E8%90%A8%E7%AA%81%E5%8F%91%E8%84%91%E6%BA%A2%E8%A1%80%E8%A2%AB%E9%80%81%E5%BE%80ICU%E6%8A%A2%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [国乒大爆冷！马龙2-3遭逆转](https://www.baidu.com/s?wd=%E5%9B%BD%E4%B9%92%E5%A4%A7%E7%88%86%E5%86%B7%EF%BC%81%E9%A9%AC%E9%BE%992-3%E9%81%AD%E9%80%86%E8%BD%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [孙红雷 他说的全是我的词啊](https://www.baidu.com/s?wd=%E5%AD%99%E7%BA%A2%E9%9B%B7+%E4%BB%96%E8%AF%B4%E7%9A%84%E5%85%A8%E6%98%AF%E6%88%91%E7%9A%84%E8%AF%8D%E5%95%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [扫毒3差评出奇一致](https://www.baidu.com/s?wd=%E6%89%AB%E6%AF%923%E5%B7%AE%E8%AF%84%E5%87%BA%E5%A5%87%E4%B8%80%E8%87%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [国货美妆逃离“李佳琦”](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B4%A7%E7%BE%8E%E5%A6%86%E9%80%83%E7%A6%BB%E2%80%9C%E6%9D%8E%E4%BD%B3%E7%90%A6%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
