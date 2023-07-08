@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 21:58:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 21:59:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [荷兰政府宣布将集体辞职](https://www.baidu.com/s?wd=%E8%8D%B7%E5%85%B0%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E5%B0%86%E9%9B%86%E4%BD%93%E8%BE%9E%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [国科大录取通知书含7颗大豆](https://www.baidu.com/s?wd=%E5%9B%BD%E7%A7%91%E5%A4%A7%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E5%90%AB7%E9%A2%97%E5%A4%A7%E8%B1%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [海南掀起“村VA”热](https://www.baidu.com/s?wd=%E6%B5%B7%E5%8D%97%E6%8E%80%E8%B5%B7%E2%80%9C%E6%9D%91VA%E2%80%9D%E7%83%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中汽协删除车企承诺不打价格战条款](https://www.baidu.com/s?wd=%E4%B8%AD%E6%B1%BD%E5%8D%8F%E5%88%A0%E9%99%A4%E8%BD%A6%E4%BC%81%E6%89%BF%E8%AF%BA%E4%B8%8D%E6%89%93%E4%BB%B7%E6%A0%BC%E6%88%98%E6%9D%A1%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [知名男星被曝遭女友长期控制](https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E7%94%B7%E6%98%9F%E8%A2%AB%E6%9B%9D%E9%81%AD%E5%A5%B3%E5%8F%8B%E9%95%BF%E6%9C%9F%E6%8E%A7%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [荷兰政府宣布将集体辞职](https://www.baidu.com/s?wd=%E8%8D%B7%E5%85%B0%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E5%B0%86%E9%9B%86%E4%BD%93%E8%BE%9E%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [国科大录取通知书含7颗大豆](https://www.baidu.com/s?wd=%E5%9B%BD%E7%A7%91%E5%A4%A7%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E5%90%AB7%E9%A2%97%E5%A4%A7%E8%B1%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [海南掀起“村VA”热](https://www.baidu.com/s?wd=%E6%B5%B7%E5%8D%97%E6%8E%80%E8%B5%B7%E2%80%9C%E6%9D%91VA%E2%80%9D%E7%83%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中汽协删除车企承诺不打价格战条款](https://www.baidu.com/s?wd=%E4%B8%AD%E6%B1%BD%E5%8D%8F%E5%88%A0%E9%99%A4%E8%BD%A6%E4%BC%81%E6%89%BF%E8%AF%BA%E4%B8%8D%E6%89%93%E4%BB%B7%E6%A0%BC%E6%88%98%E6%9D%A1%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [知名男星被曝遭女友长期控制](https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E7%94%B7%E6%98%9F%E8%A2%AB%E6%9B%9D%E9%81%AD%E5%A5%B3%E5%8F%8B%E9%95%BF%E6%9C%9F%E6%8E%A7%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
