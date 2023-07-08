@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 20:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 20:37:01</h4></div>
 
 > 微博  
 
@@ -27,7 +27,7 @@
 > 百度  
 
 1. [总书记对江苏提四点希望](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%AF%B9%E6%B1%9F%E8%8B%8F%E6%8F%90%E5%9B%9B%E7%82%B9%E5%B8%8C%E6%9C%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [多地冲40℃！南北高温区将连成一片](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%86%B240%E2%84%83%EF%BC%81%E5%8D%97%E5%8C%97%E9%AB%98%E6%B8%A9%E5%8C%BA%E5%B0%86%E8%BF%9E%E6%88%90%E4%B8%80%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [证监会原主席刘士余有了新职务](https://www.baidu.com/s?wd=%E8%AF%81%E7%9B%91%E4%BC%9A%E5%8E%9F%E4%B8%BB%E5%B8%AD%E5%88%98%E5%A3%AB%E4%BD%99%E6%9C%89%E4%BA%86%E6%96%B0%E8%81%8C%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [乌防长：集束弹药不会攻击俄领土](https://www.baidu.com/s?wd=%E4%B9%8C%E9%98%B2%E9%95%BF%EF%BC%9A%E9%9B%86%E6%9D%9F%E5%BC%B9%E8%8D%AF%E4%B8%8D%E4%BC%9A%E6%94%BB%E5%87%BB%E4%BF%84%E9%A2%86%E5%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [走好这条“必由之路”](https://www.baidu.com/s?wd=%E8%B5%B0%E5%A5%BD%E8%BF%99%E6%9D%A1%E2%80%9C%E5%BF%85%E7%94%B1%E4%B9%8B%E8%B7%AF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [李玟老公：我一直对她很好](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E8%80%81%E5%85%AC%EF%BC%9A%E6%88%91%E4%B8%80%E7%9B%B4%E5%AF%B9%E5%A5%B9%E5%BE%88%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -39,7 +39,7 @@
 > 哔哩哔哩  
 
 1. [总书记对江苏提四点希望](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%AF%B9%E6%B1%9F%E8%8B%8F%E6%8F%90%E5%9B%9B%E7%82%B9%E5%B8%8C%E6%9C%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [多地冲40℃！南北高温区将连成一片](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%86%B240%E2%84%83%EF%BC%81%E5%8D%97%E5%8C%97%E9%AB%98%E6%B8%A9%E5%8C%BA%E5%B0%86%E8%BF%9E%E6%88%90%E4%B8%80%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [证监会原主席刘士余有了新职务](https://www.baidu.com/s?wd=%E8%AF%81%E7%9B%91%E4%BC%9A%E5%8E%9F%E4%B8%BB%E5%B8%AD%E5%88%98%E5%A3%AB%E4%BD%99%E6%9C%89%E4%BA%86%E6%96%B0%E8%81%8C%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [乌防长：集束弹药不会攻击俄领土](https://www.baidu.com/s?wd=%E4%B9%8C%E9%98%B2%E9%95%BF%EF%BC%9A%E9%9B%86%E6%9D%9F%E5%BC%B9%E8%8D%AF%E4%B8%8D%E4%BC%9A%E6%94%BB%E5%87%BB%E4%BF%84%E9%A2%86%E5%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [走好这条“必由之路”](https://www.baidu.com/s?wd=%E8%B5%B0%E5%A5%BD%E8%BF%99%E6%9D%A1%E2%80%9C%E5%BF%85%E7%94%B1%E4%B9%8B%E8%B7%AF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [李玟老公：我一直对她很好](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E8%80%81%E5%85%AC%EF%BC%9A%E6%88%91%E4%B8%80%E7%9B%B4%E5%AF%B9%E5%A5%B9%E5%BE%88%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
