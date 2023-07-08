@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 19:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 19:34:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [男孩买药欲轻生被店员路人劝下](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E4%B9%B0%E8%8D%AF%E6%AC%B2%E8%BD%BB%E7%94%9F%E8%A2%AB%E5%BA%97%E5%91%98%E8%B7%AF%E4%BA%BA%E5%8A%9D%E4%B8%8B%23&t=31&band_rank=5&Refer=top)<br />
 6. [澳门偶遇](https://s.weibo.com/weibo?q=%E6%BE%B3%E9%97%A8%E5%81%B6%E9%81%87&t=31&band_rank=6&Refer=top)<br />
 7. [12岁女孩搬啤酒炸裂一地后](https://s.weibo.com/weibo?q=%2312%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%90%AC%E5%95%A4%E9%85%92%E7%82%B8%E8%A3%82%E4%B8%80%E5%9C%B0%E5%90%8E%23&t=31&band_rank=7&Refer=top)<br />
-8. [姆巴佩](https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9&t=31&band_rank=8&Refer=top)<br />
-9. [TMEA红毯](https://s.weibo.com/weibo?q=TMEA%E7%BA%A2%E6%AF%AF&t=31&band_rank=9&Refer=top)<br />
+8. [TMEA红毯](https://s.weibo.com/weibo?q=TMEA%E7%BA%A2%E6%AF%AF&t=31&band_rank=8&Refer=top)<br />
+9. [姆巴佩](https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -31,10 +31,10 @@
 3. [河南一雪糕店爆炸致1死1伤](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E9%9B%AA%E7%B3%95%E5%BA%97%E7%88%86%E7%82%B8%E8%87%B41%E6%AD%BB1%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [走好这条“必由之路”](https://www.baidu.com/s?wd=%E8%B5%B0%E5%A5%BD%E8%BF%99%E6%9D%A1%E2%80%9C%E5%BF%85%E7%94%B1%E4%B9%8B%E8%B7%AF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [李玟老公：我一直对她很好](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E8%80%81%E5%85%AC%EF%BC%9A%E6%88%91%E4%B8%80%E7%9B%B4%E5%AF%B9%E5%A5%B9%E5%BE%88%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [新疆16个团力争今年退出棉花种植](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%8616%E4%B8%AA%E5%9B%A2%E5%8A%9B%E4%BA%89%E4%BB%8A%E5%B9%B4%E9%80%80%E5%87%BA%E6%A3%89%E8%8A%B1%E7%A7%8D%E6%A4%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [《长安三万里》上映](https://www.baidu.com/s?wd=%E3%80%8A%E9%95%BF%E5%AE%89%E4%B8%89%E4%B8%87%E9%87%8C%E3%80%8B%E4%B8%8A%E6%98%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [渔船暴力抗法 恶意撞坏海警船](https://www.baidu.com/s?wd=%E6%B8%94%E8%88%B9%E6%9A%B4%E5%8A%9B%E6%8A%97%E6%B3%95+%E6%81%B6%E6%84%8F%E6%92%9E%E5%9D%8F%E6%B5%B7%E8%AD%A6%E8%88%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [知名男星被曝遭女友长期控制](https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E7%94%B7%E6%98%9F%E8%A2%AB%E6%9B%9D%E9%81%AD%E5%A5%B3%E5%8F%8B%E9%95%BF%E6%9C%9F%E6%8E%A7%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [美欲“组团”施压中国 专家驳斥](https://www.baidu.com/s?wd=%E7%BE%8E%E6%AC%B2%E2%80%9C%E7%BB%84%E5%9B%A2%E2%80%9D%E6%96%BD%E5%8E%8B%E4%B8%AD%E5%9B%BD+%E4%B8%93%E5%AE%B6%E9%A9%B3%E6%96%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [新疆16个团力争今年退出棉花种植](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%8616%E4%B8%AA%E5%9B%A2%E5%8A%9B%E4%BA%89%E4%BB%8A%E5%B9%B4%E9%80%80%E5%87%BA%E6%A3%89%E8%8A%B1%E7%A7%8D%E6%A4%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [杨天真考北大博士失败](https://www.baidu.com/s?wd=%E6%9D%A8%E5%A4%A9%E7%9C%9F%E8%80%83%E5%8C%97%E5%A4%A7%E5%8D%9A%E5%A3%AB%E5%A4%B1%E8%B4%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [渔船暴力抗法 恶意撞坏海警船](https://www.baidu.com/s?wd=%E6%B8%94%E8%88%B9%E6%9A%B4%E5%8A%9B%E6%8A%97%E6%B3%95+%E6%81%B6%E6%84%8F%E6%92%9E%E5%9D%8F%E6%B5%B7%E8%AD%A6%E8%88%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [河南一雪糕店爆炸致1死1伤](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E9%9B%AA%E7%B3%95%E5%BA%97%E7%88%86%E7%82%B8%E8%87%B41%E6%AD%BB1%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [走好这条“必由之路”](https://www.baidu.com/s?wd=%E8%B5%B0%E5%A5%BD%E8%BF%99%E6%9D%A1%E2%80%9C%E5%BF%85%E7%94%B1%E4%B9%8B%E8%B7%AF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [李玟老公：我一直对她很好](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E8%80%81%E5%85%AC%EF%BC%9A%E6%88%91%E4%B8%80%E7%9B%B4%E5%AF%B9%E5%A5%B9%E5%BE%88%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [新疆16个团力争今年退出棉花种植](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%8616%E4%B8%AA%E5%9B%A2%E5%8A%9B%E4%BA%89%E4%BB%8A%E5%B9%B4%E9%80%80%E5%87%BA%E6%A3%89%E8%8A%B1%E7%A7%8D%E6%A4%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [《长安三万里》上映](https://www.baidu.com/s?wd=%E3%80%8A%E9%95%BF%E5%AE%89%E4%B8%89%E4%B8%87%E9%87%8C%E3%80%8B%E4%B8%8A%E6%98%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [渔船暴力抗法 恶意撞坏海警船](https://www.baidu.com/s?wd=%E6%B8%94%E8%88%B9%E6%9A%B4%E5%8A%9B%E6%8A%97%E6%B3%95+%E6%81%B6%E6%84%8F%E6%92%9E%E5%9D%8F%E6%B5%B7%E8%AD%A6%E8%88%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [知名男星被曝遭女友长期控制](https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E7%94%B7%E6%98%9F%E8%A2%AB%E6%9B%9D%E9%81%AD%E5%A5%B3%E5%8F%8B%E9%95%BF%E6%9C%9F%E6%8E%A7%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [美欲“组团”施压中国 专家驳斥](https://www.baidu.com/s?wd=%E7%BE%8E%E6%AC%B2%E2%80%9C%E7%BB%84%E5%9B%A2%E2%80%9D%E6%96%BD%E5%8E%8B%E4%B8%AD%E5%9B%BD+%E4%B8%93%E5%AE%B6%E9%A9%B3%E6%96%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [新疆16个团力争今年退出棉花种植](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%8616%E4%B8%AA%E5%9B%A2%E5%8A%9B%E4%BA%89%E4%BB%8A%E5%B9%B4%E9%80%80%E5%87%BA%E6%A3%89%E8%8A%B1%E7%A7%8D%E6%A4%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [杨天真考北大博士失败](https://www.baidu.com/s?wd=%E6%9D%A8%E5%A4%A9%E7%9C%9F%E8%80%83%E5%8C%97%E5%A4%A7%E5%8D%9A%E5%A3%AB%E5%A4%B1%E8%B4%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [渔船暴力抗法 恶意撞坏海警船](https://www.baidu.com/s?wd=%E6%B8%94%E8%88%B9%E6%9A%B4%E5%8A%9B%E6%8A%97%E6%B3%95+%E6%81%B6%E6%84%8F%E6%92%9E%E5%9D%8F%E6%B5%B7%E8%AD%A6%E8%88%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
