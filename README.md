@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 07:48:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 07:49:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [山体滑坡致9人失联 湖北省长赴现场](https://www.baidu.com/s?wd=%E5%B1%B1%E4%BD%93%E6%BB%91%E5%9D%A1%E8%87%B49%E4%BA%BA%E5%A4%B1%E8%81%94+%E6%B9%96%E5%8C%97%E7%9C%81%E9%95%BF%E8%B5%B4%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [家长庆祝孩子高考660分聚众赌博](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E5%BA%86%E7%A5%9D%E5%AD%A9%E5%AD%90%E9%AB%98%E8%80%83660%E5%88%86%E8%81%9A%E4%BC%97%E8%B5%8C%E5%8D%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [蔡国庆儿子全科免考毕业](https://www.baidu.com/s?wd=%E8%94%A1%E5%9B%BD%E5%BA%86%E5%84%BF%E5%AD%90%E5%85%A8%E7%A7%91%E5%85%8D%E8%80%83%E6%AF%95%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [国科大录取通知书含7颗大豆](https://www.baidu.com/s?wd=%E5%9B%BD%E7%A7%91%E5%A4%A7%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E5%90%AB7%E9%A2%97%E5%A4%A7%E8%B1%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [健身房被淹教练只能抱出来蛋白粉](https://www.baidu.com/s?wd=%E5%81%A5%E8%BA%AB%E6%88%BF%E8%A2%AB%E6%B7%B9%E6%95%99%E7%BB%83%E5%8F%AA%E8%83%BD%E6%8A%B1%E5%87%BA%E6%9D%A5%E8%9B%8B%E7%99%BD%E7%B2%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [荷兰政府宣布将集体辞职](https://www.baidu.com/s?wd=%E8%8D%B7%E5%85%B0%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E5%B0%86%E9%9B%86%E4%BD%93%E8%BE%9E%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [多地再现“李鬼”高校网站 监管回应](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%86%8D%E7%8E%B0%E2%80%9C%E6%9D%8E%E9%AC%BC%E2%80%9D%E9%AB%98%E6%A0%A1%E7%BD%91%E7%AB%99+%E7%9B%91%E7%AE%A1%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [山体滑坡致9人失联 湖北省长赴现场](https://www.baidu.com/s?wd=%E5%B1%B1%E4%BD%93%E6%BB%91%E5%9D%A1%E8%87%B49%E4%BA%BA%E5%A4%B1%E8%81%94+%E6%B9%96%E5%8C%97%E7%9C%81%E9%95%BF%E8%B5%B4%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [家长庆祝孩子高考660分聚众赌博](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E5%BA%86%E7%A5%9D%E5%AD%A9%E5%AD%90%E9%AB%98%E8%80%83660%E5%88%86%E8%81%9A%E4%BC%97%E8%B5%8C%E5%8D%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [蔡国庆儿子全科免考毕业](https://www.baidu.com/s?wd=%E8%94%A1%E5%9B%BD%E5%BA%86%E5%84%BF%E5%AD%90%E5%85%A8%E7%A7%91%E5%85%8D%E8%80%83%E6%AF%95%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [国科大录取通知书含7颗大豆](https://www.baidu.com/s?wd=%E5%9B%BD%E7%A7%91%E5%A4%A7%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E5%90%AB7%E9%A2%97%E5%A4%A7%E8%B1%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [健身房被淹教练只能抱出来蛋白粉](https://www.baidu.com/s?wd=%E5%81%A5%E8%BA%AB%E6%88%BF%E8%A2%AB%E6%B7%B9%E6%95%99%E7%BB%83%E5%8F%AA%E8%83%BD%E6%8A%B1%E5%87%BA%E6%9D%A5%E8%9B%8B%E7%99%BD%E7%B2%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [荷兰政府宣布将集体辞职](https://www.baidu.com/s?wd=%E8%8D%B7%E5%85%B0%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E5%B0%86%E9%9B%86%E4%BD%93%E8%BE%9E%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [多地再现“李鬼”高校网站 监管回应](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%86%8D%E7%8E%B0%E2%80%9C%E6%9D%8E%E9%AC%BC%E2%80%9D%E9%AB%98%E6%A0%A1%E7%BD%91%E7%AB%99+%E7%9B%91%E7%AE%A1%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
