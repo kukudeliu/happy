@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 22:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 22:15:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [荷兰政府宣布将集体辞职](https://www.baidu.com/s?wd=%E8%8D%B7%E5%85%B0%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E5%B0%86%E9%9B%86%E4%BD%93%E8%BE%9E%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [国科大录取通知书含7颗大豆](https://www.baidu.com/s?wd=%E5%9B%BD%E7%A7%91%E5%A4%A7%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E5%90%AB7%E9%A2%97%E5%A4%A7%E8%B1%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [健身房被淹教练只能抱出来蛋白粉](https://www.baidu.com/s?wd=%E5%81%A5%E8%BA%AB%E6%88%BF%E8%A2%AB%E6%B7%B9%E6%95%99%E7%BB%83%E5%8F%AA%E8%83%BD%E6%8A%B1%E5%87%BA%E6%9D%A5%E8%9B%8B%E7%99%BD%E7%B2%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [这个千年玻璃鸭是全球限量款](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E5%8D%83%E5%B9%B4%E7%8E%BB%E7%92%83%E9%B8%AD%E6%98%AF%E5%85%A8%E7%90%83%E9%99%90%E9%87%8F%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [海南掀起“村VA”热](https://www.baidu.com/s?wd=%E6%B5%B7%E5%8D%97%E6%8E%80%E8%B5%B7%E2%80%9C%E6%9D%91VA%E2%80%9D%E7%83%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [荷兰政府宣布将集体辞职](https://www.baidu.com/s?wd=%E8%8D%B7%E5%85%B0%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E5%B0%86%E9%9B%86%E4%BD%93%E8%BE%9E%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [国科大录取通知书含7颗大豆](https://www.baidu.com/s?wd=%E5%9B%BD%E7%A7%91%E5%A4%A7%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E5%90%AB7%E9%A2%97%E5%A4%A7%E8%B1%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [健身房被淹教练只能抱出来蛋白粉](https://www.baidu.com/s?wd=%E5%81%A5%E8%BA%AB%E6%88%BF%E8%A2%AB%E6%B7%B9%E6%95%99%E7%BB%83%E5%8F%AA%E8%83%BD%E6%8A%B1%E5%87%BA%E6%9D%A5%E8%9B%8B%E7%99%BD%E7%B2%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [这个千年玻璃鸭是全球限量款](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E5%8D%83%E5%B9%B4%E7%8E%BB%E7%92%83%E9%B8%AD%E6%98%AF%E5%85%A8%E7%90%83%E9%99%90%E9%87%8F%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [海南掀起“村VA”热](https://www.baidu.com/s?wd=%E6%B5%B7%E5%8D%97%E6%8E%80%E8%B5%B7%E2%80%9C%E6%9D%91VA%E2%80%9D%E7%83%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
