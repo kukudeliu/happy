@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 05:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 05:34:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [有点理解为啥找魏大勋演了](https://s.weibo.com/weibo?q=%23%E6%9C%89%E7%82%B9%E7%90%86%E8%A7%A3%E4%B8%BA%E5%95%A5%E6%89%BE%E9%AD%8F%E5%A4%A7%E5%8B%8B%E6%BC%94%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [德国女生坚持跑步20周成功蜕变](https://s.weibo.com/weibo?q=%E5%BE%B7%E5%9B%BD%E5%A5%B3%E7%94%9F%E5%9D%9A%E6%8C%81%E8%B7%91%E6%AD%A520%E5%91%A8%E6%88%90%E5%8A%9F%E8%9C%95%E5%8F%98&t=31&band_rank=7&Refer=top)<br />
 8. [不小心发现落入山谷里的云朵](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%B0%8F%E5%BF%83%E5%8F%91%E7%8E%B0%E8%90%BD%E5%85%A5%E5%B1%B1%E8%B0%B7%E9%87%8C%E7%9A%84%E4%BA%91%E6%9C%B5%23&t=31&band_rank=8&Refer=top)<br />
-9. [9个孩子被骗缅甸遭电击开水烫](https://s.weibo.com/weibo?q=%239%E4%B8%AA%E5%AD%A9%E5%AD%90%E8%A2%AB%E9%AA%97%E7%BC%85%E7%94%B8%E9%81%AD%E7%94%B5%E5%87%BB%E5%BC%80%E6%B0%B4%E7%83%AB%23&t=31&band_rank=9&Refer=top)<br />
+9. [荷兰政府宣布将集体辞职](https://s.weibo.com/weibo?q=%23%E8%8D%B7%E5%85%B0%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E5%B0%86%E9%9B%86%E4%BD%93%E8%BE%9E%E8%81%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
