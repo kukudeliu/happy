@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 05:43:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 05:44:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. []()<br />
 6. [为什么似乎只有东亚地区有大量品种的蔬菜可以吃？](https://www.zhihu.com/question/37240268)<br />
 7. [如何评价《崩坏：星穹铁道》1.2 版本的前瞻直播？](https://www.zhihu.com/question/611094813)<br />
-8. [中国汽车工业协会声明删除《承诺书》涉及价格表述，敦促车企严格遵守《反垄断法》，如何看待此事？](https://www.zhihu.com/question/611038104)<br />
-9. []()<br />
+8. []()<br />
+9. [为啥《八角笼中》后面的格斗场面都要用黑白镜头？](https://www.zhihu.com/question/608149481)<br />
 
 > 百度  
 
@@ -32,7 +32,7 @@
 4. [文明探源诠释“何以中国” ](https://www.baidu.com/s?wd=%E6%96%87%E6%98%8E%E6%8E%A2%E6%BA%90%E8%AF%A0%E9%87%8A%E2%80%9C%E4%BD%95%E4%BB%A5%E4%B8%AD%E5%9B%BD%E2%80%9D%C2%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [现场：何立峰会见耶伦](https://www.baidu.com/s?wd=%E7%8E%B0%E5%9C%BA%EF%BC%9A%E4%BD%95%E7%AB%8B%E5%B3%B0%E4%BC%9A%E8%A7%81%E8%80%B6%E4%BC%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [蔡国庆儿子全科免考毕业](https://www.baidu.com/s?wd=%E8%94%A1%E5%9B%BD%E5%BA%86%E5%84%BF%E5%AD%90%E5%85%A8%E7%A7%91%E5%85%8D%E8%80%83%E6%AF%95%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [卫生院让多开中药增收？官方回应](https://www.baidu.com/s?wd=%E5%8D%AB%E7%94%9F%E9%99%A2%E8%AE%A9%E5%A4%9A%E5%BC%80%E4%B8%AD%E8%8D%AF%E5%A2%9E%E6%94%B6%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [俄乌冲突第500天 泽连斯基到访蛇岛](https://www.baidu.com/s?wd=%E4%BF%84%E4%B9%8C%E5%86%B2%E7%AA%81%E7%AC%AC500%E5%A4%A9+%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%88%B0%E8%AE%BF%E8%9B%87%E5%B2%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [知名男星被曝遭女友长期控制](https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E7%94%B7%E6%98%9F%E8%A2%AB%E6%9B%9D%E9%81%AD%E5%A5%B3%E5%8F%8B%E9%95%BF%E6%9C%9F%E6%8E%A7%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [身边的超级致癌物：黄曲霉菌](https://www.baidu.com/s?wd=%E8%BA%AB%E8%BE%B9%E7%9A%84%E8%B6%85%E7%BA%A7%E8%87%B4%E7%99%8C%E7%89%A9%EF%BC%9A%E9%BB%84%E6%9B%B2%E9%9C%89%E8%8F%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -44,6 +44,6 @@
 4. [文明探源诠释“何以中国” ](https://www.baidu.com/s?wd=%E6%96%87%E6%98%8E%E6%8E%A2%E6%BA%90%E8%AF%A0%E9%87%8A%E2%80%9C%E4%BD%95%E4%BB%A5%E4%B8%AD%E5%9B%BD%E2%80%9D%C2%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [现场：何立峰会见耶伦](https://www.baidu.com/s?wd=%E7%8E%B0%E5%9C%BA%EF%BC%9A%E4%BD%95%E7%AB%8B%E5%B3%B0%E4%BC%9A%E8%A7%81%E8%80%B6%E4%BC%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [蔡国庆儿子全科免考毕业](https://www.baidu.com/s?wd=%E8%94%A1%E5%9B%BD%E5%BA%86%E5%84%BF%E5%AD%90%E5%85%A8%E7%A7%91%E5%85%8D%E8%80%83%E6%AF%95%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [卫生院让多开中药增收？官方回应](https://www.baidu.com/s?wd=%E5%8D%AB%E7%94%9F%E9%99%A2%E8%AE%A9%E5%A4%9A%E5%BC%80%E4%B8%AD%E8%8D%AF%E5%A2%9E%E6%94%B6%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [俄乌冲突第500天 泽连斯基到访蛇岛](https://www.baidu.com/s?wd=%E4%BF%84%E4%B9%8C%E5%86%B2%E7%AA%81%E7%AC%AC500%E5%A4%A9+%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%88%B0%E8%AE%BF%E8%9B%87%E5%B2%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [知名男星被曝遭女友长期控制](https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E7%94%B7%E6%98%9F%E8%A2%AB%E6%9B%9D%E9%81%AD%E5%A5%B3%E5%8F%8B%E9%95%BF%E6%9C%9F%E6%8E%A7%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [身边的超级致癌物：黄曲霉菌](https://www.baidu.com/s?wd=%E8%BA%AB%E8%BE%B9%E7%9A%84%E8%B6%85%E7%BA%A7%E8%87%B4%E7%99%8C%E7%89%A9%EF%BC%9A%E9%BB%84%E6%9B%B2%E9%9C%89%E8%8F%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
