@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 01:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 01:09:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [中国汽车工业协会声明删除《承诺书》涉及价格表述，敦促车企严格遵守《反垄断法》，如何看待此事？](https://www.zhihu.com/question/611038104)<br />
 5. [12 年红魔生涯终结！德赫亚发文告别「是时候接受新挑战，曼联永在我心」，如何评价他的红魔生涯？](https://www.zhihu.com/question/611111625)<br />
 6. [如何评价《崩坏：星穹铁道》1.2 版本前瞻特别节目「仙骸有终」？](https://www.zhihu.com/question/611095107)<br />
-7. [为啥《八角笼中》后面的格斗场面都要用黑白镜头？](https://www.zhihu.com/question/608149481)<br />
-8. []()<br />
-9. [为什么似乎只有东亚地区有大量品种的蔬菜可以吃？](https://www.zhihu.com/question/37240268)<br />
+7. []()<br />
+8. [为什么似乎只有东亚地区有大量品种的蔬菜可以吃？](https://www.zhihu.com/question/37240268)<br />
+9. [期货里只能挣到我们认知的钱，请告诉我期货认知有几个层次？](https://www.zhihu.com/question/610216009)<br />
 
 > 百度  
 
@@ -31,10 +31,10 @@
 3. [李玟老公：我一直对她很好](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E8%80%81%E5%85%AC%EF%BC%9A%E6%88%91%E4%B8%80%E7%9B%B4%E5%AF%B9%E5%A5%B9%E5%BE%88%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [文明探源诠释“何以中国” ](https://www.baidu.com/s?wd=%E6%96%87%E6%98%8E%E6%8E%A2%E6%BA%90%E8%AF%A0%E9%87%8A%E2%80%9C%E4%BD%95%E4%BB%A5%E4%B8%AD%E5%9B%BD%E2%80%9D%C2%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [现场：何立峰会见耶伦](https://www.baidu.com/s?wd=%E7%8E%B0%E5%9C%BA%EF%BC%9A%E4%BD%95%E7%AB%8B%E5%B3%B0%E4%BC%9A%E8%A7%81%E8%80%B6%E4%BC%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [卫生院让多开中药增收？官方回应](https://www.baidu.com/s?wd=%E5%8D%AB%E7%94%9F%E9%99%A2%E8%AE%A9%E5%A4%9A%E5%BC%80%E4%B8%AD%E8%8D%AF%E5%A2%9E%E6%94%B6%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [对人类来说多热才算“太热”](https://www.baidu.com/s?wd=%E5%AF%B9%E4%BA%BA%E7%B1%BB%E6%9D%A5%E8%AF%B4%E5%A4%9A%E7%83%AD%E6%89%8D%E7%AE%97%E2%80%9C%E5%A4%AA%E7%83%AD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [媒体评硫酸泼熊大学生任职中科院](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E7%A1%AB%E9%85%B8%E6%B3%BC%E7%86%8A%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%BB%BB%E8%81%8C%E4%B8%AD%E7%A7%91%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [这个千年玻璃鸭是全球限量款](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E5%8D%83%E5%B9%B4%E7%8E%BB%E7%92%83%E9%B8%AD%E6%98%AF%E5%85%A8%E7%90%83%E9%99%90%E9%87%8F%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [李梦带伤作战助神秘人止连败](https://www.baidu.com/s?wd=%E6%9D%8E%E6%A2%A6%E5%B8%A6%E4%BC%A4%E4%BD%9C%E6%88%98%E5%8A%A9%E7%A5%9E%E7%A7%98%E4%BA%BA%E6%AD%A2%E8%BF%9E%E8%B4%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [卫生院让多开中药增收？官方回应](https://www.baidu.com/s?wd=%E5%8D%AB%E7%94%9F%E9%99%A2%E8%AE%A9%E5%A4%9A%E5%BC%80%E4%B8%AD%E8%8D%AF%E5%A2%9E%E6%94%B6%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [官方辟谣新疆游客断崖式下降](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%96%B0%E7%96%86%E6%B8%B8%E5%AE%A2%E6%96%AD%E5%B4%96%E5%BC%8F%E4%B8%8B%E9%99%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [李玟姐姐称李玟丈夫早已被公司撤职](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E5%A7%90%E5%A7%90%E7%A7%B0%E6%9D%8E%E7%8E%9F%E4%B8%88%E5%A4%AB%E6%97%A9%E5%B7%B2%E8%A2%AB%E5%85%AC%E5%8F%B8%E6%92%A4%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [李玟老公：我一直对她很好](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E8%80%81%E5%85%AC%EF%BC%9A%E6%88%91%E4%B8%80%E7%9B%B4%E5%AF%B9%E5%A5%B9%E5%BE%88%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [文明探源诠释“何以中国” ](https://www.baidu.com/s?wd=%E6%96%87%E6%98%8E%E6%8E%A2%E6%BA%90%E8%AF%A0%E9%87%8A%E2%80%9C%E4%BD%95%E4%BB%A5%E4%B8%AD%E5%9B%BD%E2%80%9D%C2%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [现场：何立峰会见耶伦](https://www.baidu.com/s?wd=%E7%8E%B0%E5%9C%BA%EF%BC%9A%E4%BD%95%E7%AB%8B%E5%B3%B0%E4%BC%9A%E8%A7%81%E8%80%B6%E4%BC%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [卫生院让多开中药增收？官方回应](https://www.baidu.com/s?wd=%E5%8D%AB%E7%94%9F%E9%99%A2%E8%AE%A9%E5%A4%9A%E5%BC%80%E4%B8%AD%E8%8D%AF%E5%A2%9E%E6%94%B6%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [对人类来说多热才算“太热”](https://www.baidu.com/s?wd=%E5%AF%B9%E4%BA%BA%E7%B1%BB%E6%9D%A5%E8%AF%B4%E5%A4%9A%E7%83%AD%E6%89%8D%E7%AE%97%E2%80%9C%E5%A4%AA%E7%83%AD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [媒体评硫酸泼熊大学生任职中科院](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E7%A1%AB%E9%85%B8%E6%B3%BC%E7%86%8A%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%BB%BB%E8%81%8C%E4%B8%AD%E7%A7%91%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [这个千年玻璃鸭是全球限量款](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E5%8D%83%E5%B9%B4%E7%8E%BB%E7%92%83%E9%B8%AD%E6%98%AF%E5%85%A8%E7%90%83%E9%99%90%E9%87%8F%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [李梦带伤作战助神秘人止连败](https://www.baidu.com/s?wd=%E6%9D%8E%E6%A2%A6%E5%B8%A6%E4%BC%A4%E4%BD%9C%E6%88%98%E5%8A%A9%E7%A5%9E%E7%A7%98%E4%BA%BA%E6%AD%A2%E8%BF%9E%E8%B4%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [卫生院让多开中药增收？官方回应](https://www.baidu.com/s?wd=%E5%8D%AB%E7%94%9F%E9%99%A2%E8%AE%A9%E5%A4%9A%E5%BC%80%E4%B8%AD%E8%8D%AF%E5%A2%9E%E6%94%B6%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [官方辟谣新疆游客断崖式下降](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%96%B0%E7%96%86%E6%B8%B8%E5%AE%A2%E6%96%AD%E5%B4%96%E5%BC%8F%E4%B8%8B%E9%99%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [李玟姐姐称李玟丈夫早已被公司撤职](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E5%A7%90%E5%A7%90%E7%A7%B0%E6%9D%8E%E7%8E%9F%E4%B8%88%E5%A4%AB%E6%97%A9%E5%B7%B2%E8%A2%AB%E5%85%AC%E5%8F%B8%E6%92%A4%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
