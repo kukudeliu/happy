@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 18:06:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 18:07:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [9个孩子被骗缅甸遭电击开水烫](https://s.weibo.com/weibo?q=%239%E4%B8%AA%E5%AD%A9%E5%AD%90%E8%A2%AB%E9%AA%97%E7%BC%85%E7%94%B8%E9%81%AD%E7%94%B5%E5%87%BB%E5%BC%80%E6%B0%B4%E7%83%AB%23&t=31&band_rank=6&Refer=top)<br />
 7. [李玟二姐喊话让知情人站出来](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E4%BA%8C%E5%A7%90%E5%96%8A%E8%AF%9D%E8%AE%A9%E7%9F%A5%E6%83%85%E4%BA%BA%E7%AB%99%E5%87%BA%E6%9D%A5%23&t=31&band_rank=7&Refer=top)<br />
 8. [鹿晗好喜欢戴金手链](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E5%A5%BD%E5%96%9C%E6%AC%A2%E6%88%B4%E9%87%91%E6%89%8B%E9%93%BE%23&t=31&band_rank=8&Refer=top)<br />
-9. [消失的她前传 怎么能算清白呢](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E5%89%8D%E4%BC%A0%20%E6%80%8E%E4%B9%88%E8%83%BD%E7%AE%97%E6%B8%85%E7%99%BD%E5%91%A2&t=31&band_rank=9&Refer=top)<br />
+9. [任敏和猪猪侠](https://s.weibo.com/weibo?q=%23%E4%BB%BB%E6%95%8F%E5%92%8C%E7%8C%AA%E7%8C%AA%E4%BE%A0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
