@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 10:34:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 10:35:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [金融管理部门 7 日公布了对蚂蚁、腾讯两家大型平台企业的重磅「罚单」，释放出了哪些信号？](https://www.zhihu.com/question/610937364)<br />
 6. []()<br />
 7. [Evernote 替代品有哪些？](https://www.zhihu.com/question/28121700)<br />
-8. [长春航展快到了，急需一套拍航展的相机和镜头（预算 30000 以内），大家有好的建议吗？](https://www.zhihu.com/question/610104648)<br />
-9. [将 presentation 简称为 pre 合理吗？](https://www.zhihu.com/question/605954137)<br />
+8. [将 presentation 简称为 pre 合理吗？](https://www.zhihu.com/question/605954137)<br />
+9. [为什么我感觉我学车的整个过程都十分痛苦?](https://www.zhihu.com/question/502258796)<br />
 
 > 百度  
 
