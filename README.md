@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 18:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 18:42:01</h4></div>
 
 > 微博  
 
@@ -6,9 +6,9 @@
 2. [男孩买药欲轻生被店员路人劝下](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E4%B9%B0%E8%8D%AF%E6%AC%B2%E8%BD%BB%E7%94%9F%E8%A2%AB%E5%BA%97%E5%91%98%E8%B7%AF%E4%BA%BA%E5%8A%9D%E4%B8%8B%23&t=31&band_rank=2&Refer=top)<br />
 3. [世界遗产在中国](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E9%81%97%E4%BA%A7%E5%9C%A8%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top)<br />
 4. [澳门偶遇](https://s.weibo.com/weibo?q=%E6%BE%B3%E9%97%A8%E5%81%B6%E9%81%87&t=31&band_rank=4&Refer=top)<br />
-5. [12岁女孩搬啤酒炸裂一地后](https://s.weibo.com/weibo?q=%2312%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%90%AC%E5%95%A4%E9%85%92%E7%82%B8%E8%A3%82%E4%B8%80%E5%9C%B0%E5%90%8E%23&t=31&band_rank=5&Refer=top)<br />
+5. [唤醒植物人丈夫后她退还18万元善款](https://s.weibo.com/weibo?q=%23%E5%94%A4%E9%86%92%E6%A4%8D%E7%89%A9%E4%BA%BA%E4%B8%88%E5%A4%AB%E5%90%8E%E5%A5%B9%E9%80%80%E8%BF%9818%E4%B8%87%E5%85%83%E5%96%84%E6%AC%BE%23&t=31&band_rank=5&Refer=top)<br />
 6. [任敏和猪猪侠](https://s.weibo.com/weibo?q=%23%E4%BB%BB%E6%95%8F%E5%92%8C%E7%8C%AA%E7%8C%AA%E4%BE%A0%23&t=31&band_rank=6&Refer=top)<br />
-7. [唤醒植物人丈夫后她退还18万元善款](https://s.weibo.com/weibo?q=%23%E5%94%A4%E9%86%92%E6%A4%8D%E7%89%A9%E4%BA%BA%E4%B8%88%E5%A4%AB%E5%90%8E%E5%A5%B9%E9%80%80%E8%BF%9818%E4%B8%87%E5%85%83%E5%96%84%E6%AC%BE%23&t=31&band_rank=7&Refer=top)<br />
+7. [12岁女孩搬啤酒炸裂一地后](https://s.weibo.com/weibo?q=%2312%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%90%AC%E5%95%A4%E9%85%92%E7%82%B8%E8%A3%82%E4%B8%80%E5%9C%B0%E5%90%8E%23&t=31&band_rank=7&Refer=top)<br />
 8. [9个孩子被骗缅甸遭电击开水烫](https://s.weibo.com/weibo?q=%239%E4%B8%AA%E5%AD%A9%E5%AD%90%E8%A2%AB%E9%AA%97%E7%BC%85%E7%94%B8%E9%81%AD%E7%94%B5%E5%87%BB%E5%BC%80%E6%B0%B4%E7%83%AB%23&t=31&band_rank=8&Refer=top)<br />
 9. [姆巴佩](https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9&t=31&band_rank=9&Refer=top)<br />
 
@@ -18,8 +18,8 @@
 2. [三星电子二季度营业利润暴跌 96%，创 14 年新低，因半导体低迷，韩国或下调经济增长预测，如看解读？](https://www.zhihu.com/question/611009487)<br />
 3. [专家称「户籍制度改革可以立竿见影刺激消费，1.8 亿农民工可释放万亿级消费」，哪些信息值得关注？](https://www.zhihu.com/question/611031698)<br />
 4. [中国汽车工业协会声明删除《承诺书》涉及价格表述，敦促车企严格遵守《反垄断法》，如何看待此事？](https://www.zhihu.com/question/611038104)<br />
-5. [孩子爱打游戏是买游戏机给他玩还是买手机给他玩？](https://www.zhihu.com/question/609898977)<br />
-6. [首个国产 GLP-1「减肥神药」来了，华东医药利拉鲁肽获批，哪些信息值得关注？](https://www.zhihu.com/question/610459703)<br />
+5. [首个国产 GLP-1「减肥神药」来了，华东医药利拉鲁肽获批，哪些信息值得关注？](https://www.zhihu.com/question/610459703)<br />
+6. [孩子爱打游戏是买游戏机给他玩还是买手机给他玩？](https://www.zhihu.com/question/609898977)<br />
 7. [如何评价《布莱泽奥特曼》第一集？](https://www.zhihu.com/question/611021174)<br />
 8. [企业允许「带娃上班」并请专职老师辅导作业，如何看待企业的做法，「带娃上班」能否在全国推广？](https://www.zhihu.com/question/610867860)<br />
 9. [科比和杜兰特谁更难防？](https://www.zhihu.com/question/610472348)<br />
