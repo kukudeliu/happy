@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 12:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 12:07:01</h4></div>
 
 > 微博  
 
@@ -18,11 +18,11 @@
 2. [「原来骑手知道我在看配送进度」引发网友热议，你点外卖会看配送进度吗？看进度是为了催单还是其他什么考虑？](https://www.zhihu.com/question/610819713)<br />
 3. [「熊孩子新闻」正在被当成爽文吸引流量，在厌女、憎男、仇老之后，「仇童」登上舆论场，反映出哪些社会问题？](https://www.zhihu.com/question/610906643)<br />
 4. [拜登批准向乌克兰提供违禁武器集束弹药，联合国表示反对，集束炸弹可能带来哪些危害？对局势有何影响？](https://www.zhihu.com/question/610954206)<br />
-5. [为什么我感觉我学车的整个过程都十分痛苦?](https://www.zhihu.com/question/502258796)<br />
-6. [「精细式」带娃和「放养式」带娃，哪种更有利于孩子的健康成长？](https://www.zhihu.com/question/610934799)<br />
-7. [《荒野大镖客 2》讲述了一个怎样的故事？](https://www.zhihu.com/question/303212755)<br />
-8. [失业后假装去上班，实则游荡街头，中年人遭遇「35 岁危机」该如何重启人生？](https://www.zhihu.com/question/610809937)<br />
-9. [去江南游玩的话，有没有哪些地方推荐？](https://www.zhihu.com/question/590285363)<br />
+5. [「精细式」带娃和「放养式」带娃，哪种更有利于孩子的健康成长？](https://www.zhihu.com/question/610934799)<br />
+6. [《荒野大镖客 2》讲述了一个怎样的故事？](https://www.zhihu.com/question/303212755)<br />
+7. [为什么我感觉我学车的整个过程都十分痛苦?](https://www.zhihu.com/question/502258796)<br />
+8. [去江南游玩的话，有没有哪些地方推荐？](https://www.zhihu.com/question/590285363)<br />
+9. []()<br />
 
 > 百度  
 
