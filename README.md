@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 04:50:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 04:52:02</h4></div>
 
 > 微博  
 
@@ -19,10 +19,10 @@
 3. [为什么《英雄联盟》热度就是降不下来？](https://www.zhihu.com/question/582973653)<br />
 4. [为什么似乎只有东亚地区有大量品种的蔬菜可以吃？](https://www.zhihu.com/question/37240268)<br />
 5. [如何评价《崩坏：星穹铁道》1.2 版本的前瞻直播？](https://www.zhihu.com/question/611094813)<br />
-6. []()<br />
-7. [中国汽车工业协会声明删除《承诺书》涉及价格表述，敦促车企严格遵守《反垄断法》，如何看待此事？](https://www.zhihu.com/question/611038104)<br />
+6. [中国汽车工业协会声明删除《承诺书》涉及价格表述，敦促车企严格遵守《反垄断法》，如何看待此事？](https://www.zhihu.com/question/611038104)<br />
+7. []()<br />
 8. [期货里只能挣到我们认知的钱，请告诉我期货认知有几个层次？](https://www.zhihu.com/question/610216009)<br />
-9. [如何评价《崩坏：星穹铁道》1.2 版本前瞻特别节目「仙骸有终」？](https://www.zhihu.com/question/611095107)<br />
+9. [为啥《八角笼中》后面的格斗场面都要用黑白镜头？](https://www.zhihu.com/question/608149481)<br />
 
 > 百度  
 
