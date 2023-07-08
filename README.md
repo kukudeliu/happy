@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 11:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 11:05:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [「熊孩子新闻」正在被当成爽文吸引流量，在厌女、憎男、仇老之后，「仇童」登上舆论场，反映出哪些社会问题？](https://www.zhihu.com/question/610906643)<br />
 5. [为何武侠小说的结局往往是男女主角归隐山林？](https://www.zhihu.com/question/609702617)<br />
 6. [为什么我感觉我学车的整个过程都十分痛苦?](https://www.zhihu.com/question/502258796)<br />
-7. [Evernote 替代品有哪些？](https://www.zhihu.com/question/28121700)<br />
-8. [失业后假装去上班，实则游荡街头，中年人遭遇「35 岁危机」该如何重启人生？](https://www.zhihu.com/question/610809937)<br />
-9. [拜登批准向乌克兰提供违禁武器集束弹药，联合国表示反对，集束炸弹可能带来哪些危害？对局势有何影响？](https://www.zhihu.com/question/610954206)<br />
+7. [失业后假装去上班，实则游荡街头，中年人遭遇「35 岁危机」该如何重启人生？](https://www.zhihu.com/question/610809937)<br />
+8. [拜登批准向乌克兰提供违禁武器集束弹药，联合国表示反对，集束炸弹可能带来哪些危害？对局势有何影响？](https://www.zhihu.com/question/610954206)<br />
+9. [什么可以治愈一切？](https://www.zhihu.com/question/609928196)<br />
 
 > 百度  
 
