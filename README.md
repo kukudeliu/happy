@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 21:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 21:32:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [泰妃看肖战出场的反应](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%A6%83%E7%9C%8B%E8%82%96%E6%88%98%E5%87%BA%E5%9C%BA%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=6&Refer=top)<br />
 7. [Angelababy生孩子期间打上武则天高位](https://s.weibo.com/weibo?q=%23Angelababy%E7%94%9F%E5%AD%A9%E5%AD%90%E6%9C%9F%E9%97%B4%E6%89%93%E4%B8%8A%E6%AD%A6%E5%88%99%E5%A4%A9%E9%AB%98%E4%BD%8D%23&t=31&band_rank=7&Refer=top)<br />
 8. [第一次上交工资就被警察查了](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B8%8A%E4%BA%A4%E5%B7%A5%E8%B5%84%E5%B0%B1%E8%A2%AB%E8%AD%A6%E5%AF%9F%E6%9F%A5%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [陈梦](https://s.weibo.com/weibo?q=%E9%99%88%E6%A2%A6&t=31&band_rank=9&Refer=top)<br />
+9. [90后终于熬成了挂钥匙的那群人](https://s.weibo.com/weibo?q=%2390%E5%90%8E%E7%BB%88%E4%BA%8E%E7%86%AC%E6%88%90%E4%BA%86%E6%8C%82%E9%92%A5%E5%8C%99%E7%9A%84%E9%82%A3%E7%BE%A4%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -19,7 +19,7 @@
 3. [中国汽车工业协会声明删除《承诺书》涉及价格表述，敦促车企严格遵守《反垄断法》，如何看待此事？](https://www.zhihu.com/question/611038104)<br />
 4. [如何评价追光动画新片《长安三万里》？值得去影院看吗？](https://www.zhihu.com/question/609959903)<br />
 5. [拜登批准向乌克兰提供违禁武器集束弹药，联合国表示反对，集束炸弹可能带来哪些危害？对局势有何影响？](https://www.zhihu.com/question/610954206)<br />
-6. []()<br />
+6. [electron 可以开发诸如 Adobe 全家桶这些大型软件吗？](https://www.zhihu.com/question/548572583)<br />
 7. [2023 年电热水器怎么选，能让体验有「质的飞跃」？](https://www.zhihu.com/question/589898650)<br />
 8. [方向盘打到底到底有多伤车？](https://www.zhihu.com/question/604715486)<br />
 9. [已婚男生高铁上把外套借给旁边陌生女生，这个行为可以理解吗？](https://www.zhihu.com/question/610339558)<br />
