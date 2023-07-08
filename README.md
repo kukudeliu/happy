@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 16:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 16:59:01</h4></div>
 
 > 微博  
 
@@ -19,10 +19,10 @@
 3. [网曝郑州花 34 亿给河道干挂大理石砖，官方回应「已关注到质疑声音，正在开会讨论」，如何看待此事？](https://www.zhihu.com/question/610860810)<br />
 4. [方向盘打到底到底有多伤车？](https://www.zhihu.com/question/604715486)<br />
 5. [金庸小说《神雕侠侣》你站的是过芙还是龙过？](https://www.zhihu.com/question/459125813)<br />
-6. [公募基金费率改革启动，涉及六方面内容，管理费率、托管费率不超过 1.2% 、 0.2%，如何解读？](https://www.zhihu.com/question/611022016)<br />
-7. [排骨怎么炖可以又嫩又香？](https://www.zhihu.com/question/559603358)<br />
-8. []()<br />
-9. [孩子爱打游戏是买游戏机给他玩还是买手机给他玩？](https://www.zhihu.com/question/609898977)<br />
+6. [排骨怎么炖可以又嫩又香？](https://www.zhihu.com/question/559603358)<br />
+7. []()<br />
+8. [孩子爱打游戏是买游戏机给他玩还是买手机给他玩？](https://www.zhihu.com/question/609898977)<br />
+9. [公募基金费率改革启动，涉及六方面内容，管理费率、托管费率不超过 1.2% 、 0.2%，如何解读？](https://www.zhihu.com/question/611022016)<br />
 
 > 百度  
 
@@ -31,10 +31,10 @@
 3. [多地多人确诊 如何避免感染猴痘病毒](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%A4%9A%E4%BA%BA%E7%A1%AE%E8%AF%8A+%E5%A6%82%E4%BD%95%E9%81%BF%E5%85%8D%E6%84%9F%E6%9F%93%E7%8C%B4%E7%97%98%E7%97%85%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [走好这条“必由之路”](https://www.baidu.com/s?wd=%E8%B5%B0%E5%A5%BD%E8%BF%99%E6%9D%A1%E2%80%9C%E5%BF%85%E7%94%B1%E4%B9%8B%E8%B7%AF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [李玟二姐喊话让知情人站出来](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E4%BA%8C%E5%A7%90%E5%96%8A%E8%AF%9D%E8%AE%A9%E7%9F%A5%E6%83%85%E4%BA%BA%E7%AB%99%E5%87%BA%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [杨天真考北大博士失败](https://www.baidu.com/s?wd=%E6%9D%A8%E5%A4%A9%E7%9C%9F%E8%80%83%E5%8C%97%E5%A4%A7%E5%8D%9A%E5%A3%AB%E5%A4%B1%E8%B4%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子因口角纠纷持刀划伤母子](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9B%A0%E5%8F%A3%E8%A7%92%E7%BA%A0%E7%BA%B7%E6%8C%81%E5%88%80%E5%88%92%E4%BC%A4%E6%AF%8D%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [河南人被正式确诊为红孩儿](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%BA%BA%E8%A2%AB%E6%AD%A3%E5%BC%8F%E7%A1%AE%E8%AF%8A%E4%B8%BA%E7%BA%A2%E5%AD%A9%E5%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子便秘自行灌肠致肠穿孔休克](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%BE%BF%E7%A7%98%E8%87%AA%E8%A1%8C%E7%81%8C%E8%82%A0%E8%87%B4%E8%82%A0%E7%A9%BF%E5%AD%94%E4%BC%91%E5%85%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [中汽协删除车企承诺不打价格战条款](https://www.baidu.com/s?wd=%E4%B8%AD%E6%B1%BD%E5%8D%8F%E5%88%A0%E9%99%A4%E8%BD%A6%E4%BC%81%E6%89%BF%E8%AF%BA%E4%B8%8D%E6%89%93%E4%BB%B7%E6%A0%BC%E6%88%98%E6%9D%A1%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [杨天真考北大博士失败](https://www.baidu.com/s?wd=%E6%9D%A8%E5%A4%A9%E7%9C%9F%E8%80%83%E5%8C%97%E5%A4%A7%E5%8D%9A%E5%A3%AB%E5%A4%B1%E8%B4%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [保安为女友花20万后遭拉黑](https://www.baidu.com/s?wd=%E4%BF%9D%E5%AE%89%E4%B8%BA%E5%A5%B3%E5%8F%8B%E8%8A%B120%E4%B8%87%E5%90%8E%E9%81%AD%E6%8B%89%E9%BB%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [院长要求给病人开中药称可私自加价](https://www.baidu.com/s?wd=%E9%99%A2%E9%95%BF%E8%A6%81%E6%B1%82%E7%BB%99%E7%97%85%E4%BA%BA%E5%BC%80%E4%B8%AD%E8%8D%AF%E7%A7%B0%E5%8F%AF%E7%A7%81%E8%87%AA%E5%8A%A0%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [多地多人确诊 如何避免感染猴痘病毒](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%A4%9A%E4%BA%BA%E7%A1%AE%E8%AF%8A+%E5%A6%82%E4%BD%95%E9%81%BF%E5%85%8D%E6%84%9F%E6%9F%93%E7%8C%B4%E7%97%98%E7%97%85%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [走好这条“必由之路”](https://www.baidu.com/s?wd=%E8%B5%B0%E5%A5%BD%E8%BF%99%E6%9D%A1%E2%80%9C%E5%BF%85%E7%94%B1%E4%B9%8B%E8%B7%AF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [李玟二姐喊话让知情人站出来](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E4%BA%8C%E5%A7%90%E5%96%8A%E8%AF%9D%E8%AE%A9%E7%9F%A5%E6%83%85%E4%BA%BA%E7%AB%99%E5%87%BA%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [杨天真考北大博士失败](https://www.baidu.com/s?wd=%E6%9D%A8%E5%A4%A9%E7%9C%9F%E8%80%83%E5%8C%97%E5%A4%A7%E5%8D%9A%E5%A3%AB%E5%A4%B1%E8%B4%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子因口角纠纷持刀划伤母子](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9B%A0%E5%8F%A3%E8%A7%92%E7%BA%A0%E7%BA%B7%E6%8C%81%E5%88%80%E5%88%92%E4%BC%A4%E6%AF%8D%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [河南人被正式确诊为红孩儿](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%BA%BA%E8%A2%AB%E6%AD%A3%E5%BC%8F%E7%A1%AE%E8%AF%8A%E4%B8%BA%E7%BA%A2%E5%AD%A9%E5%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子便秘自行灌肠致肠穿孔休克](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%BE%BF%E7%A7%98%E8%87%AA%E8%A1%8C%E7%81%8C%E8%82%A0%E8%87%B4%E8%82%A0%E7%A9%BF%E5%AD%94%E4%BC%91%E5%85%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [中汽协删除车企承诺不打价格战条款](https://www.baidu.com/s?wd=%E4%B8%AD%E6%B1%BD%E5%8D%8F%E5%88%A0%E9%99%A4%E8%BD%A6%E4%BC%81%E6%89%BF%E8%AF%BA%E4%B8%8D%E6%89%93%E4%BB%B7%E6%A0%BC%E6%88%98%E6%9D%A1%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [杨天真考北大博士失败](https://www.baidu.com/s?wd=%E6%9D%A8%E5%A4%A9%E7%9C%9F%E8%80%83%E5%8C%97%E5%A4%A7%E5%8D%9A%E5%A3%AB%E5%A4%B1%E8%B4%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [保安为女友花20万后遭拉黑](https://www.baidu.com/s?wd=%E4%BF%9D%E5%AE%89%E4%B8%BA%E5%A5%B3%E5%8F%8B%E8%8A%B120%E4%B8%87%E5%90%8E%E9%81%AD%E6%8B%89%E9%BB%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [院长要求给病人开中药称可私自加价](https://www.baidu.com/s?wd=%E9%99%A2%E9%95%BF%E8%A6%81%E6%B1%82%E7%BB%99%E7%97%85%E4%BA%BA%E5%BC%80%E4%B8%AD%E8%8D%AF%E7%A7%B0%E5%8F%AF%E7%A7%81%E8%87%AA%E5%8A%A0%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
