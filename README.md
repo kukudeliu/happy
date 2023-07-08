@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 05:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 05:40:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [蔡国庆儿子全科免考毕业](https://www.baidu.com/s?wd=%E8%94%A1%E5%9B%BD%E5%BA%86%E5%84%BF%E5%AD%90%E5%85%A8%E7%A7%91%E5%85%8D%E8%80%83%E6%AF%95%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [卫生院让多开中药增收？官方回应](https://www.baidu.com/s?wd=%E5%8D%AB%E7%94%9F%E9%99%A2%E8%AE%A9%E5%A4%9A%E5%BC%80%E4%B8%AD%E8%8D%AF%E5%A2%9E%E6%94%B6%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [知名男星被曝遭女友长期控制](https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E7%94%B7%E6%98%9F%E8%A2%AB%E6%9B%9D%E9%81%AD%E5%A5%B3%E5%8F%8B%E9%95%BF%E6%9C%9F%E6%8E%A7%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子凌晨洗澡遭男子扒窗偷窥做鬼脸](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%87%8C%E6%99%A8%E6%B4%97%E6%BE%A1%E9%81%AD%E7%94%B7%E5%AD%90%E6%89%92%E7%AA%97%E5%81%B7%E7%AA%A5%E5%81%9A%E9%AC%BC%E8%84%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [身边的超级致癌物：黄曲霉菌](https://www.baidu.com/s?wd=%E8%BA%AB%E8%BE%B9%E7%9A%84%E8%B6%85%E7%BA%A7%E8%87%B4%E7%99%8C%E7%89%A9%EF%BC%9A%E9%BB%84%E6%9B%B2%E9%9C%89%E8%8F%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [蔡国庆儿子全科免考毕业](https://www.baidu.com/s?wd=%E8%94%A1%E5%9B%BD%E5%BA%86%E5%84%BF%E5%AD%90%E5%85%A8%E7%A7%91%E5%85%8D%E8%80%83%E6%AF%95%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [卫生院让多开中药增收？官方回应](https://www.baidu.com/s?wd=%E5%8D%AB%E7%94%9F%E9%99%A2%E8%AE%A9%E5%A4%9A%E5%BC%80%E4%B8%AD%E8%8D%AF%E5%A2%9E%E6%94%B6%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [知名男星被曝遭女友长期控制](https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E7%94%B7%E6%98%9F%E8%A2%AB%E6%9B%9D%E9%81%AD%E5%A5%B3%E5%8F%8B%E9%95%BF%E6%9C%9F%E6%8E%A7%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子凌晨洗澡遭男子扒窗偷窥做鬼脸](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%87%8C%E6%99%A8%E6%B4%97%E6%BE%A1%E9%81%AD%E7%94%B7%E5%AD%90%E6%89%92%E7%AA%97%E5%81%B7%E7%AA%A5%E5%81%9A%E9%AC%BC%E8%84%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [身边的超级致癌物：黄曲霉菌](https://www.baidu.com/s?wd=%E8%BA%AB%E8%BE%B9%E7%9A%84%E8%B6%85%E7%BA%A7%E8%87%B4%E7%99%8C%E7%89%A9%EF%BC%9A%E9%BB%84%E6%9B%B2%E9%9C%89%E8%8F%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
