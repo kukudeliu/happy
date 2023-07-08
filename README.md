@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 14:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 14:57:02</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [上海地铁一女子发表辱华言论](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E4%B8%80%E5%A5%B3%E5%AD%90%E5%8F%91%E8%A1%A8%E8%BE%B1%E5%8D%8E%E8%A8%80%E8%AE%BA%23&t=31&band_rank=4&Refer=top)<br />
 5. [坐电梯坐到张杰谢娜家](https://s.weibo.com/weibo?q=%23%E5%9D%90%E7%94%B5%E6%A2%AF%E5%9D%90%E5%88%B0%E5%BC%A0%E6%9D%B0%E8%B0%A2%E5%A8%9C%E5%AE%B6%23&t=31&band_rank=5&Refer=top)<br />
 6. [凤凰传奇什么时候变成三个人了](https://s.weibo.com/weibo?q=%23%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E5%8F%98%E6%88%90%E4%B8%89%E4%B8%AA%E4%BA%BA%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [爱宝](https://s.weibo.com/weibo?q=%E7%88%B1%E5%AE%9D&t=31&band_rank=7&Refer=top)<br />
-8. [猴痘可能使人短期毁容](https://s.weibo.com/weibo?q=%23%E7%8C%B4%E7%97%98%E5%8F%AF%E8%83%BD%E4%BD%BF%E4%BA%BA%E7%9F%AD%E6%9C%9F%E6%AF%81%E5%AE%B9%23&t=31&band_rank=8&Refer=top)<br />
+7. [猴痘可能使人短期毁容](https://s.weibo.com/weibo?q=%23%E7%8C%B4%E7%97%98%E5%8F%AF%E8%83%BD%E4%BD%BF%E4%BA%BA%E7%9F%AD%E6%9C%9F%E6%AF%81%E5%AE%B9%23&t=31&band_rank=7&Refer=top)<br />
+8. [爱宝](https://s.weibo.com/weibo?q=%E7%88%B1%E5%AE%9D&t=31&band_rank=8&Refer=top)<br />
 9. [杨幂张大大vsAngelababy张大大打游戏](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%BC%A0%E5%A4%A7%E5%A4%A7vsAngelababy%E5%BC%A0%E5%A4%A7%E5%A4%A7%E6%89%93%E6%B8%B8%E6%88%8F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
