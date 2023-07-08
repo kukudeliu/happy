@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 02:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 02:22:01</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [现场：何立峰会见耶伦](https://www.baidu.com/s?wd=%E7%8E%B0%E5%9C%BA%EF%BC%9A%E4%BD%95%E7%AB%8B%E5%B3%B0%E4%BC%9A%E8%A7%81%E8%80%B6%E4%BC%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [这个千年玻璃鸭是全球限量款](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E5%8D%83%E5%B9%B4%E7%8E%BB%E7%92%83%E9%B8%AD%E6%98%AF%E5%85%A8%E7%90%83%E9%99%90%E9%87%8F%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [媒体：周琦大概率去北京首钢](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E5%91%A8%E7%90%A6%E5%A4%A7%E6%A6%82%E7%8E%87%E5%8E%BB%E5%8C%97%E4%BA%AC%E9%A6%96%E9%92%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [海南掀起“村VA”热](https://www.baidu.com/s?wd=%E6%B5%B7%E5%8D%97%E6%8E%80%E8%B5%B7%E2%80%9C%E6%9D%91VA%E2%80%9D%E7%83%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [健身房被淹教练只能抱出来蛋白粉](https://www.baidu.com/s?wd=%E5%81%A5%E8%BA%AB%E6%88%BF%E8%A2%AB%E6%B7%B9%E6%95%99%E7%BB%83%E5%8F%AA%E8%83%BD%E6%8A%B1%E5%87%BA%E6%9D%A5%E8%9B%8B%E7%99%BD%E7%B2%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [健身房被淹教练只能抱出来蛋白粉](https://www.baidu.com/s?wd=%E5%81%A5%E8%BA%AB%E6%88%BF%E8%A2%AB%E6%B7%B9%E6%95%99%E7%BB%83%E5%8F%AA%E8%83%BD%E6%8A%B1%E5%87%BA%E6%9D%A5%E8%9B%8B%E7%99%BD%E7%B2%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [新疆16个团力争今年退出棉花种植](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%8616%E4%B8%AA%E5%9B%A2%E5%8A%9B%E4%BA%89%E4%BB%8A%E5%B9%B4%E9%80%80%E5%87%BA%E6%A3%89%E8%8A%B1%E7%A7%8D%E6%A4%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [现场：何立峰会见耶伦](https://www.baidu.com/s?wd=%E7%8E%B0%E5%9C%BA%EF%BC%9A%E4%BD%95%E7%AB%8B%E5%B3%B0%E4%BC%9A%E8%A7%81%E8%80%B6%E4%BC%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [这个千年玻璃鸭是全球限量款](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E5%8D%83%E5%B9%B4%E7%8E%BB%E7%92%83%E9%B8%AD%E6%98%AF%E5%85%A8%E7%90%83%E9%99%90%E9%87%8F%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [媒体：周琦大概率去北京首钢](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E5%91%A8%E7%90%A6%E5%A4%A7%E6%A6%82%E7%8E%87%E5%8E%BB%E5%8C%97%E4%BA%AC%E9%A6%96%E9%92%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [海南掀起“村VA”热](https://www.baidu.com/s?wd=%E6%B5%B7%E5%8D%97%E6%8E%80%E8%B5%B7%E2%80%9C%E6%9D%91VA%E2%80%9D%E7%83%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [健身房被淹教练只能抱出来蛋白粉](https://www.baidu.com/s?wd=%E5%81%A5%E8%BA%AB%E6%88%BF%E8%A2%AB%E6%B7%B9%E6%95%99%E7%BB%83%E5%8F%AA%E8%83%BD%E6%8A%B1%E5%87%BA%E6%9D%A5%E8%9B%8B%E7%99%BD%E7%B2%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [健身房被淹教练只能抱出来蛋白粉](https://www.baidu.com/s?wd=%E5%81%A5%E8%BA%AB%E6%88%BF%E8%A2%AB%E6%B7%B9%E6%95%99%E7%BB%83%E5%8F%AA%E8%83%BD%E6%8A%B1%E5%87%BA%E6%9D%A5%E8%9B%8B%E7%99%BD%E7%B2%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [新疆16个团力争今年退出棉花种植](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%8616%E4%B8%AA%E5%9B%A2%E5%8A%9B%E4%BA%89%E4%BB%8A%E5%B9%B4%E9%80%80%E5%87%BA%E6%A3%89%E8%8A%B1%E7%A7%8D%E6%A4%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
