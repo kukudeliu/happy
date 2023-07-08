@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 09:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 09:35:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [为什么现在越来越多人想当老师](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E4%BA%BA%E6%83%B3%E5%BD%93%E8%80%81%E5%B8%88%23&t=31&band_rank=6&Refer=top)<br />
 7. [女子无人区遇乞食狼下车投喂](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%97%A0%E4%BA%BA%E5%8C%BA%E9%81%87%E4%B9%9E%E9%A3%9F%E7%8B%BC%E4%B8%8B%E8%BD%A6%E6%8A%95%E5%96%82%23&t=31&band_rank=7&Refer=top)<br />
 8. [中餐厅7倒时差官宣](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E9%A4%90%E5%8E%857%E5%80%92%E6%97%B6%E5%B7%AE%E5%AE%98%E5%AE%A3%23&t=31&band_rank=8&Refer=top)<br />
-9. [最新考古发现证明史记是错的](https://s.weibo.com/weibo?q=%23%E6%9C%80%E6%96%B0%E8%80%83%E5%8F%A4%E5%8F%91%E7%8E%B0%E8%AF%81%E6%98%8E%E5%8F%B2%E8%AE%B0%E6%98%AF%E9%94%99%E7%9A%84%23&t=31&band_rank=9&Refer=top)<br />
+9. [曝河南一院长要医生多开中药提升收入](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E6%B2%B3%E5%8D%97%E4%B8%80%E9%99%A2%E9%95%BF%E8%A6%81%E5%8C%BB%E7%94%9F%E5%A4%9A%E5%BC%80%E4%B8%AD%E8%8D%AF%E6%8F%90%E5%8D%87%E6%94%B6%E5%85%A5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
