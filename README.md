@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 09:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 09:08:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [Angelababy张殷殷](https://s.weibo.com/weibo?q=%23Angelababy%E5%BC%A0%E6%AE%B7%E6%AE%B7%23&t=31&band_rank=6&Refer=top)<br />
 7. [曝河南一院长要医生多开中药提升收入](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E6%B2%B3%E5%8D%97%E4%B8%80%E9%99%A2%E9%95%BF%E8%A6%81%E5%8C%BB%E7%94%9F%E5%A4%9A%E5%BC%80%E4%B8%AD%E8%8D%AF%E6%8F%90%E5%8D%87%E6%94%B6%E5%85%A5%23&t=31&band_rank=7&Refer=top)<br />
 8. [对这期跑男越来越感兴趣了](https://s.weibo.com/weibo?q=%23%E5%AF%B9%E8%BF%99%E6%9C%9F%E8%B7%91%E7%94%B7%E8%B6%8A%E6%9D%A5%E8%B6%8A%E6%84%9F%E5%85%B4%E8%B6%A3%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [女子无人区遇乞食狼下车投喂](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%97%A0%E4%BA%BA%E5%8C%BA%E9%81%87%E4%B9%9E%E9%A3%9F%E7%8B%BC%E4%B8%8B%E8%BD%A6%E6%8A%95%E5%96%82%23&t=31&band_rank=9&Refer=top)<br />
+9. [中餐厅7倒时差官宣](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E9%A4%90%E5%8E%857%E5%80%92%E6%97%B6%E5%B7%AE%E5%AE%98%E5%AE%A3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -18,11 +18,11 @@
 2. [「原来骑手知道我在看配送进度」引发网友热议，你点外卖会看配送进度吗？看进度是为了催单还是其他什么考虑？](https://www.zhihu.com/question/610819713)<br />
 3. [牛顿的科学观都不足以让他放弃他的神学信仰吗？](https://www.zhihu.com/question/607982401)<br />
 4. []()<br />
-5. [消息称特斯拉上海超级工厂裁员，电池一期砍掉 50%，此次裁员背后原因有哪些？对特斯拉中国业务有何影响？](https://www.zhihu.com/question/610755769)<br />
-6. [长春航展快到了，急需一套拍航展的相机和镜头（预算 30000 以内），大家有好的建议吗？](https://www.zhihu.com/question/610104648)<br />
+5. [长春航展快到了，急需一套拍航展的相机和镜头（预算 30000 以内），大家有好的建议吗？](https://www.zhihu.com/question/610104648)<br />
+6. [消息称特斯拉上海超级工厂裁员，电池一期砍掉 50%，此次裁员背后原因有哪些？对特斯拉中国业务有何影响？](https://www.zhihu.com/question/610755769)<br />
 7. [Evernote 替代品有哪些？](https://www.zhihu.com/question/28121700)<br />
 8. [将 presentation 简称为 pre 合理吗？](https://www.zhihu.com/question/605954137)<br />
-9. [年轻人开「电动轮椅」上下班，相关产品销量猛涨，律师称不违法，只能从道德层面评价，如何看待这一现象？](https://www.zhihu.com/question/610638966)<br />
+9. [「熊孩子新闻」正在被当成爽文吸引流量，在厌女、憎男、仇老之后，「仇童」登上舆论场，反映出哪些社会问题？](https://www.zhihu.com/question/610906643)<br />
 
 > 百度  
 
