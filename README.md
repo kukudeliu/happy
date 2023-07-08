@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 14:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 14:56:01</h4></div>
 
 > 微博  
 
 1. [身边的超级致癌物 黄曲霉菌](https://s.weibo.com/weibo?q=%E8%BA%AB%E8%BE%B9%E7%9A%84%E8%B6%85%E7%BA%A7%E8%87%B4%E7%99%8C%E7%89%A9%20%E9%BB%84%E6%9B%B2%E9%9C%89%E8%8F%8C&t=31&band_rank=1&Refer=top)<br />
-2. [上海地铁一女子发表辱华言论](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E4%B8%80%E5%A5%B3%E5%AD%90%E5%8F%91%E8%A1%A8%E8%BE%B1%E5%8D%8E%E8%A8%80%E8%AE%BA%23&t=31&band_rank=2&Refer=top)<br />
+2. [9个孩子被骗缅甸遭电击开水烫](https://s.weibo.com/weibo?q=%239%E4%B8%AA%E5%AD%A9%E5%AD%90%E8%A2%AB%E9%AA%97%E7%BC%85%E7%94%B8%E9%81%AD%E7%94%B5%E5%87%BB%E5%BC%80%E6%B0%B4%E7%83%AB%23&t=31&band_rank=2&Refer=top)<br />
 3. [倾听运河新生的脉动](https://s.weibo.com/weibo?q=%23%E5%80%BE%E5%90%AC%E8%BF%90%E6%B2%B3%E6%96%B0%E7%94%9F%E7%9A%84%E8%84%89%E5%8A%A8%23&t=31&band_rank=3&Refer=top)<br />
-4. [9个孩子被骗缅甸遭电击开水烫](https://s.weibo.com/weibo?q=%239%E4%B8%AA%E5%AD%A9%E5%AD%90%E8%A2%AB%E9%AA%97%E7%BC%85%E7%94%B8%E9%81%AD%E7%94%B5%E5%87%BB%E5%BC%80%E6%B0%B4%E7%83%AB%23&t=31&band_rank=4&Refer=top)<br />
+4. [上海地铁一女子发表辱华言论](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E4%B8%80%E5%A5%B3%E5%AD%90%E5%8F%91%E8%A1%A8%E8%BE%B1%E5%8D%8E%E8%A8%80%E8%AE%BA%23&t=31&band_rank=4&Refer=top)<br />
 5. [坐电梯坐到张杰谢娜家](https://s.weibo.com/weibo?q=%23%E5%9D%90%E7%94%B5%E6%A2%AF%E5%9D%90%E5%88%B0%E5%BC%A0%E6%9D%B0%E8%B0%A2%E5%A8%9C%E5%AE%B6%23&t=31&band_rank=5&Refer=top)<br />
 6. [凤凰传奇什么时候变成三个人了](https://s.weibo.com/weibo?q=%23%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E5%8F%98%E6%88%90%E4%B8%89%E4%B8%AA%E4%BA%BA%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [爱宝](https://s.weibo.com/weibo?q=%E7%88%B1%E5%AE%9D&t=31&band_rank=7&Refer=top)<br />
@@ -22,7 +22,7 @@
 6. [「原来骑手知道我在看配送进度」引发网友热议，你点外卖会看配送进度吗？看进度是为了催单还是其他什么考虑？](https://www.zhihu.com/question/610819713)<br />
 7. [为什么「日」在口语中叫「太阳」，「月」口语叫「月亮」，显得这么不对称？](https://www.zhihu.com/question/610591222)<br />
 8. [三星电子二季度营业利润暴跌 96%，创 14 年新低，因半导体低迷，韩国或下调经济增长预测，如看解读？](https://www.zhihu.com/question/611009487)<br />
-9. [如何评价《明日方舟》故事集「眠于树影之中」，你有哪些看法或解读？](https://www.zhihu.com/question/610266696)<br />
+9. [公募基金费率改革启动，涉及六方面内容，管理费率、托管费率不超过 1.2% 、 0.2%，如何解读？](https://www.zhihu.com/question/611022016)<br />
 
 > 百度  
 
