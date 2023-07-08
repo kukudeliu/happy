@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 15:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 15:24:01</h4></div>
 
 > 微博  
 
@@ -33,7 +33,7 @@
 5. [多地多人确诊 如何避免感染猴痘病毒](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%A4%9A%E4%BA%BA%E7%A1%AE%E8%AF%8A+%E5%A6%82%E4%BD%95%E9%81%BF%E5%85%8D%E6%84%9F%E6%9F%93%E7%8C%B4%E7%97%98%E7%97%85%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [知名男星被曝遭女友长期控制](https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E7%94%B7%E6%98%9F%E8%A2%AB%E6%9B%9D%E9%81%AD%E5%A5%B3%E5%8F%8B%E9%95%BF%E6%9C%9F%E6%8E%A7%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子便秘自行灌肠致肠穿孔休克](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%BE%BF%E7%A7%98%E8%87%AA%E8%A1%8C%E7%81%8C%E8%82%A0%E8%87%B4%E8%82%A0%E7%A9%BF%E5%AD%94%E4%BC%91%E5%85%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [夫妇中3亿7年后各自和新人住豪宅](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%87%E4%B8%AD3%E4%BA%BF7%E5%B9%B4%E5%90%8E%E5%90%84%E8%87%AA%E5%92%8C%E6%96%B0%E4%BA%BA%E4%BD%8F%E8%B1%AA%E5%AE%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [河北河南山东40度高温连成片](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E6%B2%B3%E5%8D%97%E5%B1%B1%E4%B8%9C40%E5%BA%A6%E9%AB%98%E6%B8%A9%E8%BF%9E%E6%88%90%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [拜登宣布美国完全销毁化学武器](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E5%AE%A3%E5%B8%83%E7%BE%8E%E5%9B%BD%E5%AE%8C%E5%85%A8%E9%94%80%E6%AF%81%E5%8C%96%E5%AD%A6%E6%AD%A6%E5%99%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [多地多人确诊 如何避免感染猴痘病毒](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%A4%9A%E4%BA%BA%E7%A1%AE%E8%AF%8A+%E5%A6%82%E4%BD%95%E9%81%BF%E5%85%8D%E6%84%9F%E6%9F%93%E7%8C%B4%E7%97%98%E7%97%85%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [知名男星被曝遭女友长期控制](https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E7%94%B7%E6%98%9F%E8%A2%AB%E6%9B%9D%E9%81%AD%E5%A5%B3%E5%8F%8B%E9%95%BF%E6%9C%9F%E6%8E%A7%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子便秘自行灌肠致肠穿孔休克](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%BE%BF%E7%A7%98%E8%87%AA%E8%A1%8C%E7%81%8C%E8%82%A0%E8%87%B4%E8%82%A0%E7%A9%BF%E5%AD%94%E4%BC%91%E5%85%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [夫妇中3亿7年后各自和新人住豪宅](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%87%E4%B8%AD3%E4%BA%BF7%E5%B9%B4%E5%90%8E%E5%90%84%E8%87%AA%E5%92%8C%E6%96%B0%E4%BA%BA%E4%BD%8F%E8%B1%AA%E5%AE%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [河北河南山东40度高温连成片](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E6%B2%B3%E5%8D%97%E5%B1%B1%E4%B8%9C40%E5%BA%A6%E9%AB%98%E6%B8%A9%E8%BF%9E%E6%88%90%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [拜登宣布美国完全销毁化学武器](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E5%AE%A3%E5%B8%83%E7%BE%8E%E5%9B%BD%E5%AE%8C%E5%85%A8%E9%94%80%E6%AF%81%E5%8C%96%E5%AD%A6%E6%AD%A6%E5%99%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
