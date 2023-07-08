@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 21:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 21:04:01</h4></div>
 
 > 微博  
 
@@ -32,7 +32,7 @@
 4. [走好这条“必由之路”](https://www.baidu.com/s?wd=%E8%B5%B0%E5%A5%BD%E8%BF%99%E6%9D%A1%E2%80%9C%E5%BF%85%E7%94%B1%E4%B9%8B%E8%B7%AF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [李玟老公：我一直对她很好](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E8%80%81%E5%85%AC%EF%BC%9A%E6%88%91%E4%B8%80%E7%9B%B4%E5%AF%B9%E5%A5%B9%E5%BE%88%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [新疆16个团力争今年退出棉花种植](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%8616%E4%B8%AA%E5%9B%A2%E5%8A%9B%E4%BA%89%E4%BB%8A%E5%B9%B4%E9%80%80%E5%87%BA%E6%A3%89%E8%8A%B1%E7%A7%8D%E6%A4%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [拜登宣布美国完全销毁化学武器](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E5%AE%A3%E5%B8%83%E7%BE%8E%E5%9B%BD%E5%AE%8C%E5%85%A8%E9%94%80%E6%AF%81%E5%8C%96%E5%AD%A6%E6%AD%A6%E5%99%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [多地再现“李鬼”高校网站 监管回应](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%86%8D%E7%8E%B0%E2%80%9C%E6%9D%8E%E9%AC%BC%E2%80%9D%E9%AB%98%E6%A0%A1%E7%BD%91%E7%AB%99+%E7%9B%91%E7%AE%A1%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女子凌晨洗澡遭男子扒窗偷窥做鬼脸](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%87%8C%E6%99%A8%E6%B4%97%E6%BE%A1%E9%81%AD%E7%94%B7%E5%AD%90%E6%89%92%E7%AA%97%E5%81%B7%E7%AA%A5%E5%81%9A%E9%AC%BC%E8%84%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“假领导”出没 三峡集团已报案](https://www.baidu.com/s?wd=%E2%80%9C%E5%81%87%E9%A2%86%E5%AF%BC%E2%80%9D%E5%87%BA%E6%B2%A1+%E4%B8%89%E5%B3%A1%E9%9B%86%E5%9B%A2%E5%B7%B2%E6%8A%A5%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -44,6 +44,6 @@
 4. [走好这条“必由之路”](https://www.baidu.com/s?wd=%E8%B5%B0%E5%A5%BD%E8%BF%99%E6%9D%A1%E2%80%9C%E5%BF%85%E7%94%B1%E4%B9%8B%E8%B7%AF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [李玟老公：我一直对她很好](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E8%80%81%E5%85%AC%EF%BC%9A%E6%88%91%E4%B8%80%E7%9B%B4%E5%AF%B9%E5%A5%B9%E5%BE%88%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [新疆16个团力争今年退出棉花种植](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%8616%E4%B8%AA%E5%9B%A2%E5%8A%9B%E4%BA%89%E4%BB%8A%E5%B9%B4%E9%80%80%E5%87%BA%E6%A3%89%E8%8A%B1%E7%A7%8D%E6%A4%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [拜登宣布美国完全销毁化学武器](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E5%AE%A3%E5%B8%83%E7%BE%8E%E5%9B%BD%E5%AE%8C%E5%85%A8%E9%94%80%E6%AF%81%E5%8C%96%E5%AD%A6%E6%AD%A6%E5%99%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [多地再现“李鬼”高校网站 监管回应](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%86%8D%E7%8E%B0%E2%80%9C%E6%9D%8E%E9%AC%BC%E2%80%9D%E9%AB%98%E6%A0%A1%E7%BD%91%E7%AB%99+%E7%9B%91%E7%AE%A1%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女子凌晨洗澡遭男子扒窗偷窥做鬼脸](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%87%8C%E6%99%A8%E6%B4%97%E6%BE%A1%E9%81%AD%E7%94%B7%E5%AD%90%E6%89%92%E7%AA%97%E5%81%B7%E7%AA%A5%E5%81%9A%E9%AC%BC%E8%84%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“假领导”出没 三峡集团已报案](https://www.baidu.com/s?wd=%E2%80%9C%E5%81%87%E9%A2%86%E5%AF%BC%E2%80%9D%E5%87%BA%E6%B2%A1+%E4%B8%89%E5%B3%A1%E9%9B%86%E5%9B%A2%E5%B7%B2%E6%8A%A5%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
