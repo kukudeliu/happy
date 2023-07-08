@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 19:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 19:30:02</h4></div>
 
 > 微博  
 
@@ -31,10 +31,10 @@
 3. [河南一雪糕店爆炸致1死1伤](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E9%9B%AA%E7%B3%95%E5%BA%97%E7%88%86%E7%82%B8%E8%87%B41%E6%AD%BB1%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [走好这条“必由之路”](https://www.baidu.com/s?wd=%E8%B5%B0%E5%A5%BD%E8%BF%99%E6%9D%A1%E2%80%9C%E5%BF%85%E7%94%B1%E4%B9%8B%E8%B7%AF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [李玟老公：我一直对她很好](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E8%80%81%E5%85%AC%EF%BC%9A%E6%88%91%E4%B8%80%E7%9B%B4%E5%AF%B9%E5%A5%B9%E5%BE%88%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [知名男星被曝遭女友长期控制](https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E7%94%B7%E6%98%9F%E8%A2%AB%E6%9B%9D%E9%81%AD%E5%A5%B3%E5%8F%8B%E9%95%BF%E6%9C%9F%E6%8E%A7%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [渔船暴力抗法 恶意撞坏海警船](https://www.baidu.com/s?wd=%E6%B8%94%E8%88%B9%E6%9A%B4%E5%8A%9B%E6%8A%97%E6%B3%95+%E6%81%B6%E6%84%8F%E6%92%9E%E5%9D%8F%E6%B5%B7%E8%AD%A6%E8%88%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [多名学生举报遭中航国铁教育诈骗](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E5%AD%A6%E7%94%9F%E4%B8%BE%E6%8A%A5%E9%81%AD%E4%B8%AD%E8%88%AA%E5%9B%BD%E9%93%81%E6%95%99%E8%82%B2%E8%AF%88%E9%AA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子用丝袜包5条活蛇藏胸部入境](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%94%A8%E4%B8%9D%E8%A2%9C%E5%8C%855%E6%9D%A1%E6%B4%BB%E8%9B%87%E8%97%8F%E8%83%B8%E9%83%A8%E5%85%A5%E5%A2%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [新疆16个团力争今年退出棉花种植](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%8616%E4%B8%AA%E5%9B%A2%E5%8A%9B%E4%BA%89%E4%BB%8A%E5%B9%B4%E9%80%80%E5%87%BA%E6%A3%89%E8%8A%B1%E7%A7%8D%E6%A4%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [《长安三万里》上映](https://www.baidu.com/s?wd=%E3%80%8A%E9%95%BF%E5%AE%89%E4%B8%89%E4%B8%87%E9%87%8C%E3%80%8B%E4%B8%8A%E6%98%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [渔船暴力抗法 恶意撞坏海警船](https://www.baidu.com/s?wd=%E6%B8%94%E8%88%B9%E6%9A%B4%E5%8A%9B%E6%8A%97%E6%B3%95+%E6%81%B6%E6%84%8F%E6%92%9E%E5%9D%8F%E6%B5%B7%E8%AD%A6%E8%88%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [知名男星被曝遭女友长期控制](https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E7%94%B7%E6%98%9F%E8%A2%AB%E6%9B%9D%E9%81%AD%E5%A5%B3%E5%8F%8B%E9%95%BF%E6%9C%9F%E6%8E%A7%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [河南一雪糕店爆炸致1死1伤](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E9%9B%AA%E7%B3%95%E5%BA%97%E7%88%86%E7%82%B8%E8%87%B41%E6%AD%BB1%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [走好这条“必由之路”](https://www.baidu.com/s?wd=%E8%B5%B0%E5%A5%BD%E8%BF%99%E6%9D%A1%E2%80%9C%E5%BF%85%E7%94%B1%E4%B9%8B%E8%B7%AF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [李玟老公：我一直对她很好](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E8%80%81%E5%85%AC%EF%BC%9A%E6%88%91%E4%B8%80%E7%9B%B4%E5%AF%B9%E5%A5%B9%E5%BE%88%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [知名男星被曝遭女友长期控制](https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E7%94%B7%E6%98%9F%E8%A2%AB%E6%9B%9D%E9%81%AD%E5%A5%B3%E5%8F%8B%E9%95%BF%E6%9C%9F%E6%8E%A7%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [渔船暴力抗法 恶意撞坏海警船](https://www.baidu.com/s?wd=%E6%B8%94%E8%88%B9%E6%9A%B4%E5%8A%9B%E6%8A%97%E6%B3%95+%E6%81%B6%E6%84%8F%E6%92%9E%E5%9D%8F%E6%B5%B7%E8%AD%A6%E8%88%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [多名学生举报遭中航国铁教育诈骗](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E5%AD%A6%E7%94%9F%E4%B8%BE%E6%8A%A5%E9%81%AD%E4%B8%AD%E8%88%AA%E5%9B%BD%E9%93%81%E6%95%99%E8%82%B2%E8%AF%88%E9%AA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子用丝袜包5条活蛇藏胸部入境](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%94%A8%E4%B8%9D%E8%A2%9C%E5%8C%855%E6%9D%A1%E6%B4%BB%E8%9B%87%E8%97%8F%E8%83%B8%E9%83%A8%E5%85%A5%E5%A2%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [新疆16个团力争今年退出棉花种植](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%8616%E4%B8%AA%E5%9B%A2%E5%8A%9B%E4%BA%89%E4%BB%8A%E5%B9%B4%E9%80%80%E5%87%BA%E6%A3%89%E8%8A%B1%E7%A7%8D%E6%A4%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [《长安三万里》上映](https://www.baidu.com/s?wd=%E3%80%8A%E9%95%BF%E5%AE%89%E4%B8%89%E4%B8%87%E9%87%8C%E3%80%8B%E4%B8%8A%E6%98%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [渔船暴力抗法 恶意撞坏海警船](https://www.baidu.com/s?wd=%E6%B8%94%E8%88%B9%E6%9A%B4%E5%8A%9B%E6%8A%97%E6%B3%95+%E6%81%B6%E6%84%8F%E6%92%9E%E5%9D%8F%E6%B5%B7%E8%AD%A6%E8%88%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [知名男星被曝遭女友长期控制](https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E7%94%B7%E6%98%9F%E8%A2%AB%E6%9B%9D%E9%81%AD%E5%A5%B3%E5%8F%8B%E9%95%BF%E6%9C%9F%E6%8E%A7%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
