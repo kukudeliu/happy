@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 08:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-08 08:09:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [「原来骑手知道我在看配送进度」引发网友热议，你点外卖会看配送进度吗？看进度是为了催单还是其他什么考虑？](https://www.zhihu.com/question/610819713)<br />
 5. [消息称特斯拉上海超级工厂裁员，电池一期砍掉 50%，此次裁员背后原因有哪些？对特斯拉中国业务有何影响？](https://www.zhihu.com/question/610755769)<br />
 6. []()<br />
-7. [学校要求教师不要晒暑假旅游照片，该规定合理吗？](https://www.zhihu.com/question/610704275)<br />
-8. [电影《八角笼中》为何口碑两极分化，你对该电影有哪些评价？](https://www.zhihu.com/question/607969019)<br />
-9. [明明梅西的天赋、技术和荣誉都远超小罗，为什么大众认知中还是小罗的足球天赋更高？](https://www.zhihu.com/question/610138398)<br />
+7. [电影《八角笼中》为何口碑两极分化，你对该电影有哪些评价？](https://www.zhihu.com/question/607969019)<br />
+8. [学校要求教师不要晒暑假旅游照片，该规定合理吗？](https://www.zhihu.com/question/610704275)<br />
+9. [高考忘记自己贴没贴条形码了，如果没贴的话监考老师会发现吗？](https://www.zhihu.com/question/605787700)<br />
 
 > 百度  
 
@@ -33,8 +33,8 @@
 5. [女子回应赚5亿不如月薪5千生娃好](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%9B%9E%E5%BA%94%E8%B5%9A5%E4%BA%BF%E4%B8%8D%E5%A6%82%E6%9C%88%E8%96%AA5%E5%8D%83%E7%94%9F%E5%A8%83%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [多名学生举报遭中航国铁教育诈骗](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E5%AD%A6%E7%94%9F%E4%B8%BE%E6%8A%A5%E9%81%AD%E4%B8%AD%E8%88%AA%E5%9B%BD%E9%93%81%E6%95%99%E8%82%B2%E8%AF%88%E9%AA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [韩国幽灵婴儿案增至867起](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E5%B9%BD%E7%81%B5%E5%A9%B4%E5%84%BF%E6%A1%88%E5%A2%9E%E8%87%B3867%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [《失孤》原型案两名被告拒不认罪](https://www.baidu.com/s?wd=%E3%80%8A%E5%A4%B1%E5%AD%A4%E3%80%8B%E5%8E%9F%E5%9E%8B%E6%A1%88%E4%B8%A4%E5%90%8D%E8%A2%AB%E5%91%8A%E6%8B%92%E4%B8%8D%E8%AE%A4%E7%BD%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [重庆暴雨失踪者家属：想找到遗体](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E6%9A%B4%E9%9B%A8%E5%A4%B1%E8%B8%AA%E8%80%85%E5%AE%B6%E5%B1%9E%EF%BC%9A%E6%83%B3%E6%89%BE%E5%88%B0%E9%81%97%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [李家超说要买贵州非遗产品送太太](https://www.baidu.com/s?wd=%E6%9D%8E%E5%AE%B6%E8%B6%85%E8%AF%B4%E8%A6%81%E4%B9%B0%E8%B4%B5%E5%B7%9E%E9%9D%9E%E9%81%97%E4%BA%A7%E5%93%81%E9%80%81%E5%A4%AA%E5%A4%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [《失孤》原型案两名被告拒不认罪](https://www.baidu.com/s?wd=%E3%80%8A%E5%A4%B1%E5%AD%A4%E3%80%8B%E5%8E%9F%E5%9E%8B%E6%A1%88%E4%B8%A4%E5%90%8D%E8%A2%AB%E5%91%8A%E6%8B%92%E4%B8%8D%E8%AE%A4%E7%BD%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [女子回应赚5亿不如月薪5千生娃好](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%9B%9E%E5%BA%94%E8%B5%9A5%E4%BA%BF%E4%B8%8D%E5%A6%82%E6%9C%88%E8%96%AA5%E5%8D%83%E7%94%9F%E5%A8%83%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [多名学生举报遭中航国铁教育诈骗](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E5%AD%A6%E7%94%9F%E4%B8%BE%E6%8A%A5%E9%81%AD%E4%B8%AD%E8%88%AA%E5%9B%BD%E9%93%81%E6%95%99%E8%82%B2%E8%AF%88%E9%AA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [韩国幽灵婴儿案增至867起](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E5%B9%BD%E7%81%B5%E5%A9%B4%E5%84%BF%E6%A1%88%E5%A2%9E%E8%87%B3867%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [《失孤》原型案两名被告拒不认罪](https://www.baidu.com/s?wd=%E3%80%8A%E5%A4%B1%E5%AD%A4%E3%80%8B%E5%8E%9F%E5%9E%8B%E6%A1%88%E4%B8%A4%E5%90%8D%E8%A2%AB%E5%91%8A%E6%8B%92%E4%B8%8D%E8%AE%A4%E7%BD%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [重庆暴雨失踪者家属：想找到遗体](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E6%9A%B4%E9%9B%A8%E5%A4%B1%E8%B8%AA%E8%80%85%E5%AE%B6%E5%B1%9E%EF%BC%9A%E6%83%B3%E6%89%BE%E5%88%B0%E9%81%97%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [李家超说要买贵州非遗产品送太太](https://www.baidu.com/s?wd=%E6%9D%8E%E5%AE%B6%E8%B6%85%E8%AF%B4%E8%A6%81%E4%B9%B0%E8%B4%B5%E5%B7%9E%E9%9D%9E%E9%81%97%E4%BA%A7%E5%93%81%E9%80%81%E5%A4%AA%E5%A4%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [《失孤》原型案两名被告拒不认罪](https://www.baidu.com/s?wd=%E3%80%8A%E5%A4%B1%E5%AD%A4%E3%80%8B%E5%8E%9F%E5%9E%8B%E6%A1%88%E4%B8%A4%E5%90%8D%E8%A2%AB%E5%91%8A%E6%8B%92%E4%B8%8D%E8%AE%A4%E7%BD%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
