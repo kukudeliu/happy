@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 07:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 07:57:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [李玟姐姐称其老公已被原公司撤职很久](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E5%A7%90%E5%A7%90%E7%A7%B0%E5%85%B6%E8%80%81%E5%85%AC%E5%B7%B2%E8%A2%AB%E5%8E%9F%E5%85%AC%E5%8F%B8%E6%92%A4%E8%81%8C%E5%BE%88%E4%B9%85%23&t=31&band_rank=4&Refer=top)<br />
 5. [罗翔](https://s.weibo.com/weibo?q=%E7%BD%97%E7%BF%94&t=31&band_rank=5&Refer=top)<br />
 6. [有点理解为啥找魏大勋演了](https://s.weibo.com/weibo?q=%23%E6%9C%89%E7%82%B9%E7%90%86%E8%A7%A3%E4%B8%BA%E5%95%A5%E6%89%BE%E9%AD%8F%E5%A4%A7%E5%8B%8B%E6%BC%94%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [00后女生帮姐姐带娃1小时崩溃大哭](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%A5%B3%E7%94%9F%E5%B8%AE%E5%A7%90%E5%A7%90%E5%B8%A6%E5%A8%831%E5%B0%8F%E6%97%B6%E5%B4%A9%E6%BA%83%E5%A4%A7%E5%93%AD%23&t=31&band_rank=7&Refer=top)<br />
-8. [泰妃看肖战出场的反应](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%A6%83%E7%9C%8B%E8%82%96%E6%88%98%E5%87%BA%E5%9C%BA%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=8&Refer=top)<br />
+7. [泰妃看肖战出场的反应](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%A6%83%E7%9C%8B%E8%82%96%E6%88%98%E5%87%BA%E5%9C%BA%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=7&Refer=top)<br />
+8. [00后女生帮姐姐带娃1小时崩溃大哭](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%A5%B3%E7%94%9F%E5%B8%AE%E5%A7%90%E5%A7%90%E5%B8%A6%E5%A8%831%E5%B0%8F%E6%97%B6%E5%B4%A9%E6%BA%83%E5%A4%A7%E5%93%AD%23&t=31&band_rank=8&Refer=top)<br />
 9. [德国女生坚持跑步20周成功蜕变](https://s.weibo.com/weibo?q=%E5%BE%B7%E5%9B%BD%E5%A5%B3%E7%94%9F%E5%9D%9A%E6%8C%81%E8%B7%91%E6%AD%A520%E5%91%A8%E6%88%90%E5%8A%9F%E8%9C%95%E5%8F%98&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -22,7 +22,7 @@
 6. [为什么似乎只有东亚地区有大量品种的蔬菜可以吃？](https://www.zhihu.com/question/37240268)<br />
 7. []()<br />
 8. [为什么《英雄联盟》热度就是降不下来？](https://www.zhihu.com/question/582973653)<br />
-9. [为啥《八角笼中》后面的格斗场面都要用黑白镜头？](https://www.zhihu.com/question/608149481)<br />
+9. [中国汽车工业协会声明删除《承诺书》涉及价格表述，敦促车企严格遵守《反垄断法》，如何看待此事？](https://www.zhihu.com/question/611038104)<br />
 
 > 百度  
 
