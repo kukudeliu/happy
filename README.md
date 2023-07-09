@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 16:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 16:29:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [顾客买到生瓜留言2年后收到回复](https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E4%B9%B0%E5%88%B0%E7%94%9F%E7%93%9C%E7%95%99%E8%A8%802%E5%B9%B4%E5%90%8E%E6%94%B6%E5%88%B0%E5%9B%9E%E5%A4%8D%23&t=31&band_rank=6&Refer=top)<br />
 7. [洪欣张丹峰带女儿合拍视频](https://s.weibo.com/weibo?q=%23%E6%B4%AA%E6%AC%A3%E5%BC%A0%E4%B8%B9%E5%B3%B0%E5%B8%A6%E5%A5%B3%E5%84%BF%E5%90%88%E6%8B%8D%E8%A7%86%E9%A2%91%23&t=31&band_rank=7&Refer=top)<br />
 8. [内娱眼睛会说话的演员](https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E7%9C%BC%E7%9D%9B%E4%BC%9A%E8%AF%B4%E8%AF%9D%E7%9A%84%E6%BC%94%E5%91%98%23&t=31&band_rank=8&Refer=top)<br />
-9. [汤唯韩国坐地铁](https://s.weibo.com/weibo?q=%23%E6%B1%A4%E5%94%AF%E9%9F%A9%E5%9B%BD%E5%9D%90%E5%9C%B0%E9%93%81%23&t=31&band_rank=9&Refer=top)<br />
+9. [年轻人为什么不买快时尚的账了](https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E4%B9%B0%E5%BF%AB%E6%97%B6%E5%B0%9A%E7%9A%84%E8%B4%A6%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. [蜀国失了法正，魏国失了郭嘉，吴国失了周瑜，哪个更可惜？](https://www.zhihu.com/question/610619467)<br />
 7. [合同签字仪式上双方都不咋看文本，万一被对方偷着改了怎么办？](https://www.zhihu.com/question/609843223)<br />
 8. []()<br />
-9. [请问三千元内是选择 ps5 还是 switch？](https://www.zhihu.com/question/610866154)<br />
+9. [电影《八角笼中》里出现的变脸川剧有什么寓意？](https://www.zhihu.com/question/610756369)<br />
 
 > 百度  
 
