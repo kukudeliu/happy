@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 05:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 05:47:01</h4></div>
 
 > 微博  
 
@@ -19,10 +19,10 @@
 3. []()<br />
 4. [女孩中考 742 分报考师范专科引争议，家长称「家里不缺钱，希望孩子以后生活轻松快乐」，如何看待此事？](https://www.zhihu.com/question/611196621)<br />
 5. [小黄人讲的是什么语言？](https://www.zhihu.com/question/30830614)<br />
-6. [单位一把手同意提拔你，二把手和三把手想提拔他们自己人，明显感受到了阻力，怎么办？](https://www.zhihu.com/question/607420190)<br />
-7. [铁路局明明是公司，为什么会有人说是「局」?](https://www.zhihu.com/question/586170267)<br />
-8. []()<br />
-9. [为什么越来越多的笔记本开始不带网线接口？](https://www.zhihu.com/question/604395192)<br />
+6. [铁路局明明是公司，为什么会有人说是「局」?](https://www.zhihu.com/question/586170267)<br />
+7. []()<br />
+8. [为什么越来越多的笔记本开始不带网线接口？](https://www.zhihu.com/question/604395192)<br />
+9. [单位一把手同意提拔你，二把手和三把手想提拔他们自己人，明显感受到了阻力，怎么办？](https://www.zhihu.com/question/607420190)<br />
 
 > 百度  
 
