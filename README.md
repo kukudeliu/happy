@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 00:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 00:46:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [两张银行卡都是我自己的，互相频繁的转账会有麻烦吗？](https://www.zhihu.com/question/600890599)<br />
 7. [为什么武林中的女侠不但武功奇高，还没有练出来麒麟臂大粗腿和老茧？](https://www.zhihu.com/question/278326506)<br />
 8. []()<br />
-9. [如何评价 JDG 被 IG 让一追二？](https://www.zhihu.com/question/611228653)<br />
+9. [2023 LPL 夏季赛 EDG 让一追二战胜 FPX，如何评价这场比赛？](https://www.zhihu.com/question/611218733)<br />
 
 > 百度  
 
