@@ -1,13 +1,13 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 14:21:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 14:22:01</h4></div>
 
 > 微博  
 
 1. [女孩中考742分报考师范专科引争议](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E4%B8%AD%E8%80%83742%E5%88%86%E6%8A%A5%E8%80%83%E5%B8%88%E8%8C%83%E4%B8%93%E7%A7%91%E5%BC%95%E4%BA%89%E8%AE%AE%23&t=31&band_rank=1&Refer=top)<br />
 2. [魏大勋反手开车门](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E5%8F%8D%E6%89%8B%E5%BC%80%E8%BD%A6%E9%97%A8%23&t=31&band_rank=2&Refer=top)<br />
 3. [滇藏铁路丽香段哈巴雪山隧道贯通](https://s.weibo.com/weibo?q=%23%E6%BB%87%E8%97%8F%E9%93%81%E8%B7%AF%E4%B8%BD%E9%A6%99%E6%AE%B5%E5%93%88%E5%B7%B4%E9%9B%AA%E5%B1%B1%E9%9A%A7%E9%81%93%E8%B4%AF%E9%80%9A%23&t=31&band_rank=3&Refer=top)<br />
-4. [新疆的店名永远在我的笑点上](https://s.weibo.com/weibo?q=%E6%96%B0%E7%96%86%E7%9A%84%E5%BA%97%E5%90%8D%E6%B0%B8%E8%BF%9C%E5%9C%A8%E6%88%91%E7%9A%84%E7%AC%91%E7%82%B9%E4%B8%8A&t=31&band_rank=4&Refer=top)<br />
-5. [曝HYBE员工搜身时摸粉丝胸部](https://s.weibo.com/weibo?q=%23%E6%9B%9DHYBE%E5%91%98%E5%B7%A5%E6%90%9C%E8%BA%AB%E6%97%B6%E6%91%B8%E7%B2%89%E4%B8%9D%E8%83%B8%E9%83%A8%23&t=31&band_rank=5&Refer=top)<br />
-6. [庆余年第二季首发剧照](https://s.weibo.com/weibo?q=%23%E5%BA%86%E4%BD%99%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A3%E9%A6%96%E5%8F%91%E5%89%A7%E7%85%A7%23&t=31&band_rank=6&Refer=top)<br />
+4. [曝HYBE员工搜身时摸粉丝胸部](https://s.weibo.com/weibo?q=%23%E6%9B%9DHYBE%E5%91%98%E5%B7%A5%E6%90%9C%E8%BA%AB%E6%97%B6%E6%91%B8%E7%B2%89%E4%B8%9D%E8%83%B8%E9%83%A8%23&t=31&band_rank=4&Refer=top)<br />
+5. [庆余年第二季首发剧照](https://s.weibo.com/weibo?q=%23%E5%BA%86%E4%BD%99%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A3%E9%A6%96%E5%8F%91%E5%89%A7%E7%85%A7%23&t=31&band_rank=5&Refer=top)<br />
+6. [新疆的店名永远在我的笑点上](https://s.weibo.com/weibo?q=%E6%96%B0%E7%96%86%E7%9A%84%E5%BA%97%E5%90%8D%E6%B0%B8%E8%BF%9C%E5%9C%A8%E6%88%91%E7%9A%84%E7%AC%91%E7%82%B9%E4%B8%8A&t=31&band_rank=6&Refer=top)<br />
 7. [夫妻情侣请求让座你会让吗](https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E6%83%85%E4%BE%A3%E8%AF%B7%E6%B1%82%E8%AE%A9%E5%BA%A7%E4%BD%A0%E4%BC%9A%E8%AE%A9%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
 8. [Ella蔡少芬和老公吵架都用短信](https://s.weibo.com/weibo?q=%23Ella%E8%94%A1%E5%B0%91%E8%8A%AC%E5%92%8C%E8%80%81%E5%85%AC%E5%90%B5%E6%9E%B6%E9%83%BD%E7%94%A8%E7%9F%AD%E4%BF%A1%23&t=31&band_rank=8&Refer=top)<br />
 9. [韩国歌手李尚恩去世](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%AD%8C%E6%89%8B%E6%9D%8E%E5%B0%9A%E6%81%A9%E5%8E%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
@@ -18,8 +18,8 @@
 2. [姆巴佩接受采访称「曾轻视梅西 C 罗，巴黎是一支分裂的球队 + 不会帮到我」，如何评价这样的言论？](https://www.zhihu.com/question/611172264)<br />
 3. [快到订婚的日子了，男朋友突然提分手，我该怎么办?](https://www.zhihu.com/question/610191146)<br />
 4. [2023 LPL 夏季赛于线下举「僵尸」牌子的粉丝公开致歉，这个梗算对 TheShy 选手的侮辱吗？](https://www.zhihu.com/question/610480367)<br />
-5. [如何评价羊祜、陆抗这两个三国最后的名将？](https://www.zhihu.com/question/60553004)<br />
-6. [2 年被家暴 16 次女子希望判丈夫死刑，代理律师称男方涉嫌故意杀人，如何看待此诉求？判决结果将如何？](https://www.zhihu.com/question/610619293)<br />
+5. [2 年被家暴 16 次女子希望判丈夫死刑，代理律师称男方涉嫌故意杀人，如何看待此诉求？判决结果将如何？](https://www.zhihu.com/question/610619293)<br />
+6. [如何评价羊祜、陆抗这两个三国最后的名将？](https://www.zhihu.com/question/60553004)<br />
 7. [做「全职儿女」和做家庭主妇有什么不同？为什么「全职儿女」会被认为是「啃老」？](https://www.zhihu.com/question/610276645)<br />
 8. [显卡和CPU的硅脂多久换一次？](https://www.zhihu.com/question/607981347)<br />
 9. [可以推荐一下自己喜欢的好书或者电影电视剧吗？](https://www.zhihu.com/question/611027388)<br />
