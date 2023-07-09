@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 09:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 09:23:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [孟宴臣许沁](https://s.weibo.com/weibo?q=%E5%AD%9F%E5%AE%B4%E8%87%A3%E8%AE%B8%E6%B2%81&t=31&band_rank=6&Refer=top)<br />
 7. [韩国人有自己的伍佰](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%BA%BA%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84%E4%BC%8D%E4%BD%B0%23&t=31&band_rank=7&Refer=top)<br />
 8. [中国网评死神2国内上线](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%BD%91%E8%AF%84%E6%AD%BB%E7%A5%9E2%E5%9B%BD%E5%86%85%E4%B8%8A%E7%BA%BF%23&t=31&band_rank=8&Refer=top)<br />
-9. [90后终于熬成了挂钥匙的那群人](https://s.weibo.com/weibo?q=%2390%E5%90%8E%E7%BB%88%E4%BA%8E%E7%86%AC%E6%88%90%E4%BA%86%E6%8C%82%E9%92%A5%E5%8C%99%E7%9A%84%E9%82%A3%E7%BE%A4%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
+9. [自驾游夫妻高速上被黑熊撞翻车](https://s.weibo.com/weibo?q=%23%E8%87%AA%E9%A9%BE%E6%B8%B8%E5%A4%AB%E5%A6%BB%E9%AB%98%E9%80%9F%E4%B8%8A%E8%A2%AB%E9%BB%91%E7%86%8A%E6%92%9E%E7%BF%BB%E8%BD%A6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
