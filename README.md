@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 09:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 09:11:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [为什么似乎只有东亚地区有大量品种的蔬菜可以吃？](https://www.zhihu.com/question/37240268)<br />
 7. []()<br />
 8. [为什么《英雄联盟》热度就是降不下来？](https://www.zhihu.com/question/582973653)<br />
-9. [为啥《八角笼中》后面的格斗场面都要用黑白镜头？](https://www.zhihu.com/question/608149481)<br />
+9. [中国汽车工业协会声明删除《承诺书》涉及价格表述，敦促车企严格遵守《反垄断法》，如何看待此事？](https://www.zhihu.com/question/611038104)<br />
 
 > 百度  
 
