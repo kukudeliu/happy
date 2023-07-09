@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 15:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 15:02:02</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [上海一餐厅两女子为抢座用餐具互砸](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E4%B8%80%E9%A4%90%E5%8E%85%E4%B8%A4%E5%A5%B3%E5%AD%90%E4%B8%BA%E6%8A%A2%E5%BA%A7%E7%94%A8%E9%A4%90%E5%85%B7%E4%BA%92%E7%A0%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [一条鱼换60万？警方突袭钓场抓86人](https://www.baidu.com/s?wd=%E4%B8%80%E6%9D%A1%E9%B1%BC%E6%8D%A260%E4%B8%87%EF%BC%9F%E8%AD%A6%E6%96%B9%E7%AA%81%E8%A2%AD%E9%92%93%E5%9C%BA%E6%8A%9386%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [药水哥两年没回向佐微信](https://www.baidu.com/s?wd=%E8%8D%AF%E6%B0%B4%E5%93%A5%E4%B8%A4%E5%B9%B4%E6%B2%A1%E5%9B%9E%E5%90%91%E4%BD%90%E5%BE%AE%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [大学生暑假涌向工厂流水线](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%9A%91%E5%81%87%E6%B6%8C%E5%90%91%E5%B7%A5%E5%8E%82%E6%B5%81%E6%B0%B4%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [爸爸用水枪将女儿背影喷在墙上](https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8%E7%94%A8%E6%B0%B4%E6%9E%AA%E5%B0%86%E5%A5%B3%E5%84%BF%E8%83%8C%E5%BD%B1%E5%96%B7%E5%9C%A8%E5%A2%99%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [上海一餐厅两女子为抢座用餐具互砸](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E4%B8%80%E9%A4%90%E5%8E%85%E4%B8%A4%E5%A5%B3%E5%AD%90%E4%B8%BA%E6%8A%A2%E5%BA%A7%E7%94%A8%E9%A4%90%E5%85%B7%E4%BA%92%E7%A0%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [一条鱼换60万？警方突袭钓场抓86人](https://www.baidu.com/s?wd=%E4%B8%80%E6%9D%A1%E9%B1%BC%E6%8D%A260%E4%B8%87%EF%BC%9F%E8%AD%A6%E6%96%B9%E7%AA%81%E8%A2%AD%E9%92%93%E5%9C%BA%E6%8A%9386%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [药水哥两年没回向佐微信](https://www.baidu.com/s?wd=%E8%8D%AF%E6%B0%B4%E5%93%A5%E4%B8%A4%E5%B9%B4%E6%B2%A1%E5%9B%9E%E5%90%91%E4%BD%90%E5%BE%AE%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [大学生暑假涌向工厂流水线](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%9A%91%E5%81%87%E6%B6%8C%E5%90%91%E5%B7%A5%E5%8E%82%E6%B5%81%E6%B0%B4%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [爸爸用水枪将女儿背影喷在墙上](https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8%E7%94%A8%E6%B0%B4%E6%9E%AA%E5%B0%86%E5%A5%B3%E5%84%BF%E8%83%8C%E5%BD%B1%E5%96%B7%E5%9C%A8%E5%A2%99%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
