@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 05:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 05:20:02</h4></div>
 
 > 微博  
 
@@ -19,10 +19,10 @@
 3. [女孩中考 742 分报考师范专科引争议，家长称「家里不缺钱，希望孩子以后生活轻松快乐」，如何看待此事？](https://www.zhihu.com/question/611196621)<br />
 4. []()<br />
 5. [小黄人讲的是什么语言？](https://www.zhihu.com/question/30830614)<br />
-6. []()<br />
-7. [为什么武林中的女侠不但武功奇高，还没有练出来麒麟臂大粗腿和老茧？](https://www.zhihu.com/question/278326506)<br />
-8. []()<br />
-9. [2023 LPL 夏季赛 JDG VS iG，如何评价这场比赛？](https://www.zhihu.com/question/611212010)<br />
+6. [为什么武林中的女侠不但武功奇高，还没有练出来麒麟臂大粗腿和老茧？](https://www.zhihu.com/question/278326506)<br />
+7. []()<br />
+8. [2023 LPL 夏季赛 JDG VS iG，如何评价这场比赛？](https://www.zhihu.com/question/611212010)<br />
+9. [三个人的友谊你感到过拥挤吗？](https://www.zhihu.com/question/600176565)<br />
 
 > 百度  
 
