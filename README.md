@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 08:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 08:29:02</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [留学生每月补助3万？济南大学回应](https://www.baidu.com/s?wd=%E7%95%99%E5%AD%A6%E7%94%9F%E6%AF%8F%E6%9C%88%E8%A1%A5%E5%8A%A93%E4%B8%87%EF%BC%9F%E6%B5%8E%E5%8D%97%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [耶伦走进烤鸭餐厅点了一份剁椒鱼头](https://www.baidu.com/s?wd=%E8%80%B6%E4%BC%A6%E8%B5%B0%E8%BF%9B%E7%83%A4%E9%B8%AD%E9%A4%90%E5%8E%85%E7%82%B9%E4%BA%86%E4%B8%80%E4%BB%BD%E5%89%81%E6%A4%92%E9%B1%BC%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [广州一餐馆汤锅遭女子投放不明液体](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E4%B8%80%E9%A4%90%E9%A6%86%E6%B1%A4%E9%94%85%E9%81%AD%E5%A5%B3%E5%AD%90%E6%8A%95%E6%94%BE%E4%B8%8D%E6%98%8E%E6%B6%B2%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子网恋5年未奔现被骗近30万](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%BD%91%E6%81%8B5%E5%B9%B4%E6%9C%AA%E5%A5%94%E7%8E%B0%E8%A2%AB%E9%AA%97%E8%BF%9130%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [海南掀起“村VA”热](https://www.baidu.com/s?wd=%E6%B5%B7%E5%8D%97%E6%8E%80%E8%B5%B7%E2%80%9C%E6%9D%91VA%E2%80%9D%E7%83%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [留学生每月补助3万？济南大学回应](https://www.baidu.com/s?wd=%E7%95%99%E5%AD%A6%E7%94%9F%E6%AF%8F%E6%9C%88%E8%A1%A5%E5%8A%A93%E4%B8%87%EF%BC%9F%E6%B5%8E%E5%8D%97%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [耶伦走进烤鸭餐厅点了一份剁椒鱼头](https://www.baidu.com/s?wd=%E8%80%B6%E4%BC%A6%E8%B5%B0%E8%BF%9B%E7%83%A4%E9%B8%AD%E9%A4%90%E5%8E%85%E7%82%B9%E4%BA%86%E4%B8%80%E4%BB%BD%E5%89%81%E6%A4%92%E9%B1%BC%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [广州一餐馆汤锅遭女子投放不明液体](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E4%B8%80%E9%A4%90%E9%A6%86%E6%B1%A4%E9%94%85%E9%81%AD%E5%A5%B3%E5%AD%90%E6%8A%95%E6%94%BE%E4%B8%8D%E6%98%8E%E6%B6%B2%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子网恋5年未奔现被骗近30万](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%BD%91%E6%81%8B5%E5%B9%B4%E6%9C%AA%E5%A5%94%E7%8E%B0%E8%A2%AB%E9%AA%97%E8%BF%9130%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [海南掀起“村VA”热](https://www.baidu.com/s?wd=%E6%B5%B7%E5%8D%97%E6%8E%80%E8%B5%B7%E2%80%9C%E6%9D%91VA%E2%80%9D%E7%83%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
