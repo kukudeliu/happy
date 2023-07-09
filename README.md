@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 16:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 16:05:01</h4></div>
 
 > 微博  
 
@@ -16,8 +16,8 @@
 
 1. [因移民政策分歧，荷兰政府宣布将集体辞职，首相吕特与国王会面通报内阁垮台，如何看待此事？](https://www.zhihu.com/question/611119005)<br />
 2. [郑州一小区业主免费赠房，受赠者需接下房贷，房价从两万跌到一万多，有人因断供房子被拍卖，如何看待此事？](https://www.zhihu.com/question/611125322)<br />
-3. [2 年被家暴 16 次女子希望判丈夫死刑，代理律师称男方涉嫌故意杀人，如何看待此诉求？判决结果将如何？](https://www.zhihu.com/question/610619293)<br />
-4. [电视机为什么有大流量上传?](https://www.zhihu.com/question/610220718)<br />
+3. [电视机为什么有大流量上传?](https://www.zhihu.com/question/610220718)<br />
+4. [2 年被家暴 16 次女子希望判丈夫死刑，代理律师称男方涉嫌故意杀人，如何看待此诉求？判决结果将如何？](https://www.zhihu.com/question/610619293)<br />
 5. [有没有以前特别讨厌的食物，后来慢慢给接受了？](https://www.zhihu.com/question/602934822)<br />
 6. [显卡和CPU的硅脂多久换一次？](https://www.zhihu.com/question/607981347)<br />
 7. [2023 LPL 夏季赛于线下举「僵尸」牌子的粉丝公开致歉，这个梗算对 TheShy 选手的侮辱吗？](https://www.zhihu.com/question/610480367)<br />
