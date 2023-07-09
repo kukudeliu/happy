@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 22:31:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 22:32:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [警方通报北京政法职业学院学生纠纷](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%8C%97%E4%BA%AC%E6%94%BF%E6%B3%95%E8%81%8C%E4%B8%9A%E5%AD%A6%E9%99%A2%E5%AD%A6%E7%94%9F%E7%BA%A0%E7%BA%B7%23&t=31&band_rank=5&Refer=top)<br />
 6. [爱豆鹿晗回来了](https://s.weibo.com/weibo?q=%23%E7%88%B1%E8%B1%86%E9%B9%BF%E6%99%97%E5%9B%9E%E6%9D%A5%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [iG爆冷战胜JDG](https://s.weibo.com/weibo?q=%23iG%E7%88%86%E5%86%B7%E6%88%98%E8%83%9CJDG%23&t=31&band_rank=7&Refer=top)<br />
-8. [鹿晗喜欢的显眼包出现了](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E5%96%9C%E6%AC%A2%E7%9A%84%E6%98%BE%E7%9C%BC%E5%8C%85%E5%87%BA%E7%8E%B0%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [孟宴臣要开始发疯了](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AE%B4%E8%87%A3%E8%A6%81%E5%BC%80%E5%A7%8B%E5%8F%91%E7%96%AF%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+8. [孟宴臣要开始发疯了](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AE%B4%E8%87%A3%E8%A6%81%E5%BC%80%E5%A7%8B%E5%8F%91%E7%96%AF%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [鹿晗喜欢的显眼包出现了](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E5%96%9C%E6%AC%A2%E7%9A%84%E6%98%BE%E7%9C%BC%E5%8C%85%E5%87%BA%E7%8E%B0%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
