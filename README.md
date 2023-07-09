@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 11:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 11:35:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [药水哥两年没回向佐微信](https://s.weibo.com/weibo?q=%23%E8%8D%AF%E6%B0%B4%E5%93%A5%E4%B8%A4%E5%B9%B4%E6%B2%A1%E5%9B%9E%E5%90%91%E4%BD%90%E5%BE%AE%E4%BF%A1%23&t=31&band_rank=4&Refer=top)<br />
 5. [一个关于指甲的小偏方](https://s.weibo.com/weibo?q=%E4%B8%80%E4%B8%AA%E5%85%B3%E4%BA%8E%E6%8C%87%E7%94%B2%E7%9A%84%E5%B0%8F%E5%81%8F%E6%96%B9&t=31&band_rank=5&Refer=top)<br />
 6. [罗翔](https://s.weibo.com/weibo?q=%E7%BD%97%E7%BF%94&t=31&band_rank=6&Refer=top)<br />
-7. [原来沈腾艾伦都是校草](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%B2%88%E8%85%BE%E8%89%BE%E4%BC%A6%E9%83%BD%E6%98%AF%E6%A0%A1%E8%8D%89%23&t=31&band_rank=7&Refer=top)<br />
-8. [何非知道李木子无论如何都活不了](https://s.weibo.com/weibo?q=%23%E4%BD%95%E9%9D%9E%E7%9F%A5%E9%81%93%E6%9D%8E%E6%9C%A8%E5%AD%90%E6%97%A0%E8%AE%BA%E5%A6%82%E4%BD%95%E9%83%BD%E6%B4%BB%E4%B8%8D%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+7. [何非知道李木子无论如何都活不了](https://s.weibo.com/weibo?q=%23%E4%BD%95%E9%9D%9E%E7%9F%A5%E9%81%93%E6%9D%8E%E6%9C%A8%E5%AD%90%E6%97%A0%E8%AE%BA%E5%A6%82%E4%BD%95%E9%83%BD%E6%B4%BB%E4%B8%8D%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+8. [原来沈腾艾伦都是校草](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%B2%88%E8%85%BE%E8%89%BE%E4%BC%A6%E9%83%BD%E6%98%AF%E6%A0%A1%E8%8D%89%23&t=31&band_rank=8&Refer=top)<br />
 9. [家长庆祝孩子高考660分聚众赌博被拘](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%95%BF%E5%BA%86%E7%A5%9D%E5%AD%A9%E5%AD%90%E9%AB%98%E8%80%83660%E5%88%86%E8%81%9A%E4%BC%97%E8%B5%8C%E5%8D%9A%E8%A2%AB%E6%8B%98%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
