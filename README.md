@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 22:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 22:23:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [2023 LPL 夏季赛 EDG 2:1 FPX，如何评价这场比赛？](https://www.zhihu.com/question/611204711)<br />
 7. [你支持我国申办世界杯吗？为什么？](https://www.zhihu.com/question/611055419)<br />
 8. [2023 LPL 夏季赛 FPX vs EDG，如何评价这局比赛？](https://www.zhihu.com/question/611215476)<br />
-9. [友谊真的会因为距离问题渐行渐远吗？](https://www.zhihu.com/question/606949939)<br />
+9. [单位一把手同意提拔你，二把手和三把手想提拔他们自己人，明显感受到了阻力，怎么办？](https://www.zhihu.com/question/607420190)<br />
 
 > 百度  
 
