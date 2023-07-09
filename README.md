@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 17:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 17:56:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [于途乔晶晶vs宋焰许沁](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E9%80%94%E4%B9%94%E6%99%B6%E6%99%B6vs%E5%AE%8B%E7%84%B0%E8%AE%B8%E6%B2%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [前金球奖得主苏亚雷斯去世](https://s.weibo.com/weibo?q=%23%E5%89%8D%E9%87%91%E7%90%83%E5%A5%96%E5%BE%97%E4%B8%BB%E8%8B%8F%E4%BA%9A%E9%9B%B7%E6%96%AF%E5%8E%BB%E4%B8%96%23&t=31&band_rank=7&Refer=top)<br />
 8. [朱丹跟周一围说市场都快把我忘了](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%B9%E8%B7%9F%E5%91%A8%E4%B8%80%E5%9B%B4%E8%AF%B4%E5%B8%82%E5%9C%BA%E9%83%BD%E5%BF%AB%E6%8A%8A%E6%88%91%E5%BF%98%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [女孩中考742分报考师范专科引争议](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E4%B8%AD%E8%80%83742%E5%88%86%E6%8A%A5%E8%80%83%E5%B8%88%E8%8C%83%E4%B8%93%E7%A7%91%E5%BC%95%E4%BA%89%E8%AE%AE%23&t=31&band_rank=9&Refer=top)<br />
+9. [粉衣姑娘暴雨中弃车救人](https://s.weibo.com/weibo?q=%23%E7%B2%89%E8%A1%A3%E5%A7%91%E5%A8%98%E6%9A%B4%E9%9B%A8%E4%B8%AD%E5%BC%83%E8%BD%A6%E6%95%91%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
