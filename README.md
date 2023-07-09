@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 21:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 21:50:01</h4></div>
 
 > 微博  
 
@@ -15,7 +15,7 @@
 > 知乎  
 
 1. [郑州一小区业主免费赠房，受赠者需接下房贷，房价从两万跌到一万多，有人因断供房子被拍卖，如何看待此事？](https://www.zhihu.com/question/611125322)<br />
-2. []()<br />
+2. [女孩中考 742 分报考师范专科引争议，家长称「家里不缺钱，希望孩子以后生活轻松快乐」，如何看待此事？](https://www.zhihu.com/question/611196621)<br />
 3. [美财长耶伦召开记者会总结访华，称「累计谈了约 10 个小时，富有成效」，透露了哪些信息？](https://www.zhihu.com/question/611205658)<br />
 4. [因移民政策分歧，荷兰政府宣布将集体辞职，首相吕特与国王会面通报内阁垮台，如何看待此事？](https://www.zhihu.com/question/611119005)<br />
 5. [乌克兰国防部承认去年实施对克里米亚大桥的袭击，此时承认有何用意？将产生哪些影响？](https://www.zhihu.com/question/611197844)<br />
@@ -32,9 +32,9 @@
 4. [一图解读成都大运会场馆绿色密码](https://www.baidu.com/s?wd=%E4%B8%80%E5%9B%BE%E8%A7%A3%E8%AF%BB%E6%88%90%E9%83%BD%E5%A4%A7%E8%BF%90%E4%BC%9A%E5%9C%BA%E9%A6%86%E7%BB%BF%E8%89%B2%E5%AF%86%E7%A0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子悬赏千万寻狗？郑州警方回应](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%82%AC%E8%B5%8F%E5%8D%83%E4%B8%87%E5%AF%BB%E7%8B%97%EF%BC%9F%E9%83%91%E5%B7%9E%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [相差40岁“爷孙恋”男主儿子再爆料](https://www.baidu.com/s?wd=%E7%9B%B8%E5%B7%AE40%E5%B2%81%E2%80%9C%E7%88%B7%E5%AD%99%E6%81%8B%E2%80%9D%E7%94%B7%E4%B8%BB%E5%84%BF%E5%AD%90%E5%86%8D%E7%88%86%E6%96%99&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [拜登赤裸上身海滩度假](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E8%B5%A4%E8%A3%B8%E4%B8%8A%E8%BA%AB%E6%B5%B7%E6%BB%A9%E5%BA%A6%E5%81%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [黑龙江一18个月女孩从6楼窗台坠亡](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%8018%E4%B8%AA%E6%9C%88%E5%A5%B3%E5%AD%A9%E4%BB%8E6%E6%A5%BC%E7%AA%97%E5%8F%B0%E5%9D%A0%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [姐姐希望两岸三地为李玟建纪念碑](https://www.baidu.com/s?wd=%E5%A7%90%E5%A7%90%E5%B8%8C%E6%9C%9B%E4%B8%A4%E5%B2%B8%E4%B8%89%E5%9C%B0%E4%B8%BA%E6%9D%8E%E7%8E%9F%E5%BB%BA%E7%BA%AA%E5%BF%B5%E7%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [黑龙江一18个月女孩从6楼窗台坠亡](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%8018%E4%B8%AA%E6%9C%88%E5%A5%B3%E5%AD%A9%E4%BB%8E6%E6%A5%BC%E7%AA%97%E5%8F%B0%E5%9D%A0%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [拜登赤裸上身海滩度假](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E8%B5%A4%E8%A3%B8%E4%B8%8A%E8%BA%AB%E6%B5%B7%E6%BB%A9%E5%BA%A6%E5%81%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [国企花1160万买6辆环卫车引质疑](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BC%81%E8%8A%B11160%E4%B8%87%E4%B9%B06%E8%BE%86%E7%8E%AF%E5%8D%AB%E8%BD%A6%E5%BC%95%E8%B4%A8%E7%96%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -44,6 +44,6 @@
 4. [一图解读成都大运会场馆绿色密码](https://www.baidu.com/s?wd=%E4%B8%80%E5%9B%BE%E8%A7%A3%E8%AF%BB%E6%88%90%E9%83%BD%E5%A4%A7%E8%BF%90%E4%BC%9A%E5%9C%BA%E9%A6%86%E7%BB%BF%E8%89%B2%E5%AF%86%E7%A0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子悬赏千万寻狗？郑州警方回应](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%82%AC%E8%B5%8F%E5%8D%83%E4%B8%87%E5%AF%BB%E7%8B%97%EF%BC%9F%E9%83%91%E5%B7%9E%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [相差40岁“爷孙恋”男主儿子再爆料](https://www.baidu.com/s?wd=%E7%9B%B8%E5%B7%AE40%E5%B2%81%E2%80%9C%E7%88%B7%E5%AD%99%E6%81%8B%E2%80%9D%E7%94%B7%E4%B8%BB%E5%84%BF%E5%AD%90%E5%86%8D%E7%88%86%E6%96%99&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [拜登赤裸上身海滩度假](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E8%B5%A4%E8%A3%B8%E4%B8%8A%E8%BA%AB%E6%B5%B7%E6%BB%A9%E5%BA%A6%E5%81%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [黑龙江一18个月女孩从6楼窗台坠亡](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%8018%E4%B8%AA%E6%9C%88%E5%A5%B3%E5%AD%A9%E4%BB%8E6%E6%A5%BC%E7%AA%97%E5%8F%B0%E5%9D%A0%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [姐姐希望两岸三地为李玟建纪念碑](https://www.baidu.com/s?wd=%E5%A7%90%E5%A7%90%E5%B8%8C%E6%9C%9B%E4%B8%A4%E5%B2%B8%E4%B8%89%E5%9C%B0%E4%B8%BA%E6%9D%8E%E7%8E%9F%E5%BB%BA%E7%BA%AA%E5%BF%B5%E7%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [黑龙江一18个月女孩从6楼窗台坠亡](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%8018%E4%B8%AA%E6%9C%88%E5%A5%B3%E5%AD%A9%E4%BB%8E6%E6%A5%BC%E7%AA%97%E5%8F%B0%E5%9D%A0%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [拜登赤裸上身海滩度假](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E8%B5%A4%E8%A3%B8%E4%B8%8A%E8%BA%AB%E6%B5%B7%E6%BB%A9%E5%BA%A6%E5%81%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [国企花1160万买6辆环卫车引质疑](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BC%81%E8%8A%B11160%E4%B8%87%E4%B9%B06%E8%BE%86%E7%8E%AF%E5%8D%AB%E8%BD%A6%E5%BC%95%E8%B4%A8%E7%96%91&sa=fyb_news&rsv_dl=fyb_news)<br />
