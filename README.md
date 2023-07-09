@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 16:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 16:31:01</h4></div>
 
 > 微博  
 
@@ -18,9 +18,9 @@
 2. [郑州一小区业主免费赠房，受赠者需接下房贷，房价从两万跌到一万多，有人因断供房子被拍卖，如何看待此事？](https://www.zhihu.com/question/611125322)<br />
 3. [电视机为什么有大流量上传?](https://www.zhihu.com/question/610220718)<br />
 4. [有没有以前特别讨厌的食物，后来慢慢给接受了？](https://www.zhihu.com/question/602934822)<br />
-5. [2 年被家暴 16 次女子希望判丈夫死刑，代理律师称男方涉嫌故意杀人，如何看待此诉求？判决结果将如何？](https://www.zhihu.com/question/610619293)<br />
-6. [蜀国失了法正，魏国失了郭嘉，吴国失了周瑜，哪个更可惜？](https://www.zhihu.com/question/610619467)<br />
-7. [合同签字仪式上双方都不咋看文本，万一被对方偷着改了怎么办？](https://www.zhihu.com/question/609843223)<br />
+5. [蜀国失了法正，魏国失了郭嘉，吴国失了周瑜，哪个更可惜？](https://www.zhihu.com/question/610619467)<br />
+6. [合同签字仪式上双方都不咋看文本，万一被对方偷着改了怎么办？](https://www.zhihu.com/question/609843223)<br />
+7. [2 年被家暴 16 次女子希望判丈夫死刑，代理律师称男方涉嫌故意杀人，如何看待此诉求？判决结果将如何？](https://www.zhihu.com/question/610619293)<br />
 8. []()<br />
 9. [电影《八角笼中》里出现的变脸川剧有什么寓意？](https://www.zhihu.com/question/610756369)<br />
 
