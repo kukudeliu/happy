@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 15:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 15:24:01</h4></div>
 
 > 微博  
 
@@ -17,7 +17,7 @@
 1. [因移民政策分歧，荷兰政府宣布将集体辞职，首相吕特与国王会面通报内阁垮台，如何看待此事？](https://www.zhihu.com/question/611119005)<br />
 2. [显卡和CPU的硅脂多久换一次？](https://www.zhihu.com/question/607981347)<br />
 3. [电视机为什么有大流量上传?](https://www.zhihu.com/question/610220718)<br />
-4. []()<br />
+4. [郑州一小区业主免费赠房，受赠者需接下房贷，房价从两万跌到一万多，有人因断供房子被拍卖，如何看待此事？](https://www.zhihu.com/question/611125322)<br />
 5. [有没有以前特别讨厌的食物，后来慢慢给接受了？](https://www.zhihu.com/question/602934822)<br />
 6. [姆巴佩接受采访称「曾轻视梅西 C 罗，巴黎是一支分裂的球队 + 不会帮到我」，如何评价这样的言论？](https://www.zhihu.com/question/611172264)<br />
 7. [治愈你的是什么?](https://www.zhihu.com/question/599701104)<br />
