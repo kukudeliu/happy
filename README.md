@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 12:46:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 12:47:01</h4></div>
 
 > 微博  
 
@@ -17,9 +17,9 @@
 1. [专家称「户籍制度改革可以立竿见影刺激消费，1.8 亿农民工可释放万亿级消费」，哪些信息值得关注？](https://www.zhihu.com/question/611031698)<br />
 2. [公司为什么要实行薪酬保密制度？](https://www.zhihu.com/question/28079407)<br />
 3. [女朋友送的 switch 被亲戚要求送小孩我该怎么办？](https://www.zhihu.com/question/596647831)<br />
-4. [2023 中国汽车论坛上众车企签署《汽车行业维护公平竞争市场秩序承诺书》，如何看待此事？](https://www.zhihu.com/question/610643415)<br />
+4. [游戏《永劫无间》宣布销量突破 2000 万、并即将转为免费游戏，有哪些值得关注的？](https://www.zhihu.com/question/610483242)<br />
 5. [有个亲妹妹是什么感觉?](https://www.zhihu.com/question/293914303)<br />
-6. [游戏《永劫无间》宣布销量突破 2000 万、并即将转为免费游戏，有哪些值得关注的？](https://www.zhihu.com/question/610483242)<br />
+6. [2023 中国汽车论坛上众车企签署《汽车行业维护公平竞争市场秩序承诺书》，如何看待此事？](https://www.zhihu.com/question/610643415)<br />
 7. [如何评价《原神》新角色「林尼」立绘的美术形象设计？](https://www.zhihu.com/question/610344138)<br />
 8. [私搭浮桥一家 18 口获刑，法院称正审查申诉，当事人称生活被毁，曾是老师现在打零工，此事或将如何进展？](https://www.zhihu.com/question/611132637)<br />
 9. [因移民政策分歧，荷兰政府宣布将集体辞职，首相吕特与国王会面通报内阁垮台，如何看待此事？](https://www.zhihu.com/question/611119005)<br />
