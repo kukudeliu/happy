@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 01:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 01:41:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [文韬发脾气是这样的吗](https://s.weibo.com/weibo?q=%E6%96%87%E9%9F%AC%E5%8F%91%E8%84%BE%E6%B0%94%E6%98%AF%E8%BF%99%E6%A0%B7%E7%9A%84%E5%90%97&t=31&band_rank=6&Refer=top)<br />
 7. [张元英露腰](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%85%83%E8%8B%B1%E9%9C%B2%E8%85%B0%23&t=31&band_rank=7&Refer=top)<br />
 8. [法老走红毯](https://s.weibo.com/weibo?q=%23%E6%B3%95%E8%80%81%E8%B5%B0%E7%BA%A2%E6%AF%AF%23&t=31&band_rank=8&Refer=top)<br />
-9. [26岁一想到明天上班还想哭](https://s.weibo.com/weibo?q=%2326%E5%B2%81%E4%B8%80%E6%83%B3%E5%88%B0%E6%98%8E%E5%A4%A9%E4%B8%8A%E7%8F%AD%E8%BF%98%E6%83%B3%E5%93%AD%23&t=31&band_rank=9&Refer=top)<br />
+9. [张兰上诉被驳回](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%85%B0%E4%B8%8A%E8%AF%89%E8%A2%AB%E9%A9%B3%E5%9B%9E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
