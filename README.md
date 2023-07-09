@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 05:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 05:56:01</h4></div>
 
 > 微博  
 
@@ -20,8 +20,8 @@
 4. [女孩中考 742 分报考师范专科引争议，家长称「家里不缺钱，希望孩子以后生活轻松快乐」，如何看待此事？](https://www.zhihu.com/question/611196621)<br />
 5. [小黄人讲的是什么语言？](https://www.zhihu.com/question/30830614)<br />
 6. [为什么越来越多的笔记本开始不带网线接口？](https://www.zhihu.com/question/604395192)<br />
-7. [你有没有从小到大都讨厌的食物？](https://www.zhihu.com/question/602838082)<br />
-8. [乌克兰国防部承认去年实施对克里米亚大桥的袭击，此时承认有何用意？将产生哪些影响？](https://www.zhihu.com/question/611197844)<br />
+7. [乌克兰国防部承认去年实施对克里米亚大桥的袭击，此时承认有何用意？将产生哪些影响？](https://www.zhihu.com/question/611197844)<br />
+8. []()<br />
 9. []()<br />
 
 > 百度  
