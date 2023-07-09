@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 04:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 04:47:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [两张银行卡都是我自己的，互相频繁的转账会有麻烦吗？](https://www.zhihu.com/question/600890599)<br />
 7. [为什么越来越多的笔记本开始不带网线接口？](https://www.zhihu.com/question/604395192)<br />
 8. []()<br />
-9. []()<br />
+9. [小黄人讲的是什么语言？](https://www.zhihu.com/question/30830614)<br />
 
 > 百度  
 
