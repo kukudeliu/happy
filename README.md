@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 15:51:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 15:52:01</h4></div>
 
 > 微博  
 
@@ -18,11 +18,11 @@
 2. [郑州一小区业主免费赠房，受赠者需接下房贷，房价从两万跌到一万多，有人因断供房子被拍卖，如何看待此事？](https://www.zhihu.com/question/611125322)<br />
 3. [电视机为什么有大流量上传?](https://www.zhihu.com/question/610220718)<br />
 4. [显卡和CPU的硅脂多久换一次？](https://www.zhihu.com/question/607981347)<br />
-5. [游戏《永劫无间》宣布销量突破 2000 万、并即将转为免费游戏，有哪些值得关注的？](https://www.zhihu.com/question/610483242)<br />
-6. [有没有以前特别讨厌的食物，后来慢慢给接受了？](https://www.zhihu.com/question/602934822)<br />
+5. [有没有以前特别讨厌的食物，后来慢慢给接受了？](https://www.zhihu.com/question/602934822)<br />
+6. [游戏《永劫无间》宣布销量突破 2000 万、并即将转为免费游戏，有哪些值得关注的？](https://www.zhihu.com/question/610483242)<br />
 7. []()<br />
 8. [2023 LPL 夏季赛于线下举「僵尸」牌子的粉丝公开致歉，这个梗算对 TheShy 选手的侮辱吗？](https://www.zhihu.com/question/610480367)<br />
-9. [2 年被家暴 16 次女子希望判丈夫死刑，代理律师称男方涉嫌故意杀人，如何看待此诉求？判决结果将如何？](https://www.zhihu.com/question/610619293)<br />
+9. []()<br />
 
 > 百度  
 
