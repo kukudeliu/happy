@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 09:34:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 09:35:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [家长庆祝孩子高考660分聚众赌博被拘](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%95%BF%E5%BA%86%E7%A5%9D%E5%AD%A9%E5%AD%90%E9%AB%98%E8%80%83660%E5%88%86%E8%81%9A%E4%BC%97%E8%B5%8C%E5%8D%9A%E8%A2%AB%E6%8B%98%23&t=31&band_rank=4&Refer=top)<br />
 5. [家里对外人谎报我的高考分数](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%87%8C%E5%AF%B9%E5%A4%96%E4%BA%BA%E8%B0%8E%E6%8A%A5%E6%88%91%E7%9A%84%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%23&t=31&band_rank=5&Refer=top)<br />
 6. [孟宴臣许沁](https://s.weibo.com/weibo?q=%E5%AD%9F%E5%AE%B4%E8%87%A3%E8%AE%B8%E6%B2%81&t=31&band_rank=6&Refer=top)<br />
-7. [暑假目前最惊喜的国产剧](https://s.weibo.com/weibo?q=%E6%9A%91%E5%81%87%E7%9B%AE%E5%89%8D%E6%9C%80%E6%83%8A%E5%96%9C%E7%9A%84%E5%9B%BD%E4%BA%A7%E5%89%A7&t=31&band_rank=7&Refer=top)<br />
-8. [人民日报评长安三万里](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E9%95%BF%E5%AE%89%E4%B8%89%E4%B8%87%E9%87%8C%23&t=31&band_rank=8&Refer=top)<br />
+7. [人民日报评长安三万里](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E9%95%BF%E5%AE%89%E4%B8%89%E4%B8%87%E9%87%8C%23&t=31&band_rank=7&Refer=top)<br />
+8. [暑假目前最惊喜的国产剧](https://s.weibo.com/weibo?q=%E6%9A%91%E5%81%87%E7%9B%AE%E5%89%8D%E6%9C%80%E6%83%8A%E5%96%9C%E7%9A%84%E5%9B%BD%E4%BA%A7%E5%89%A7&t=31&band_rank=8&Refer=top)<br />
 9. [韩国人有自己的伍佰](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%BA%BA%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84%E4%BC%8D%E4%BD%B0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
