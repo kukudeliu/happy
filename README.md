@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 13:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 13:43:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [如何评价羊祜、陆抗这两个三国最后的名将？](https://www.zhihu.com/question/60553004)<br />
 5. [7 月 6 日美国财政部部长耶伦乘机抵达北京，她此行有哪些具体安排？还有哪些值得关注的地方？](https://www.zhihu.com/question/610702246)<br />
 6. [如果你设计一个公园，你会加入什么元素？](https://www.zhihu.com/question/602529519)<br />
-7. [如何评价《原神》新角色「林尼」立绘的美术形象设计？](https://www.zhihu.com/question/610344138)<br />
-8. [2023 LPL 夏季赛于线下举「僵尸」牌子的粉丝公开致歉，这个梗算对 TheShy 选手的侮辱吗？](https://www.zhihu.com/question/610480367)<br />
-9. [做「全职儿女」和做家庭主妇有什么不同？为什么「全职儿女」会被认为是「啃老」？](https://www.zhihu.com/question/610276645)<br />
+7. [2023 LPL 夏季赛于线下举「僵尸」牌子的粉丝公开致歉，这个梗算对 TheShy 选手的侮辱吗？](https://www.zhihu.com/question/610480367)<br />
+8. [做「全职儿女」和做家庭主妇有什么不同？为什么「全职儿女」会被认为是「啃老」？](https://www.zhihu.com/question/610276645)<br />
+9. [2 年被家暴 16 次女子希望判丈夫死刑，代理律师称男方涉嫌故意杀人，如何看待此诉求？判决结果将如何？](https://www.zhihu.com/question/610619293)<br />
 
 > 百度  
 
