@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 12:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 12:24:02</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [当地回应村民搭桥收费被判刑疑问](https://www.baidu.com/s?wd=%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94%E6%9D%91%E6%B0%91%E6%90%AD%E6%A1%A5%E6%94%B6%E8%B4%B9%E8%A2%AB%E5%88%A4%E5%88%91%E7%96%91%E9%97%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [消失的她进入2023全球票房榜前十](https://www.baidu.com/s?wd=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E8%BF%9B%E5%85%A52023%E5%85%A8%E7%90%83%E7%A5%A8%E6%88%BF%E6%A6%9C%E5%89%8D%E5%8D%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子拍到两个太阳藏在云层中](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8B%8D%E5%88%B0%E4%B8%A4%E4%B8%AA%E5%A4%AA%E9%98%B3%E8%97%8F%E5%9C%A8%E4%BA%91%E5%B1%82%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子在餐厅投放不明液体已被抓获](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%9C%A8%E9%A4%90%E5%8E%85%E6%8A%95%E6%94%BE%E4%B8%8D%E6%98%8E%E6%B6%B2%E4%BD%93%E5%B7%B2%E8%A2%AB%E6%8A%93%E8%8E%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [多人游泳横渡长江船员大吼避让](https://www.baidu.com/s?wd=%E5%A4%9A%E4%BA%BA%E6%B8%B8%E6%B3%B3%E6%A8%AA%E6%B8%A1%E9%95%BF%E6%B1%9F%E8%88%B9%E5%91%98%E5%A4%A7%E5%90%BC%E9%81%BF%E8%AE%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [家长庆祝孩子高考660分聚众赌博](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E5%BA%86%E7%A5%9D%E5%AD%A9%E5%AD%90%E9%AB%98%E8%80%83660%E5%88%86%E8%81%9A%E4%BC%97%E8%B5%8C%E5%8D%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子在餐厅投放不明液体已被抓获](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%9C%A8%E9%A4%90%E5%8E%85%E6%8A%95%E6%94%BE%E4%B8%8D%E6%98%8E%E6%B6%B2%E4%BD%93%E5%B7%B2%E8%A2%AB%E6%8A%93%E8%8E%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [当地回应村民搭桥收费被判刑疑问](https://www.baidu.com/s?wd=%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94%E6%9D%91%E6%B0%91%E6%90%AD%E6%A1%A5%E6%94%B6%E8%B4%B9%E8%A2%AB%E5%88%A4%E5%88%91%E7%96%91%E9%97%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [消失的她进入2023全球票房榜前十](https://www.baidu.com/s?wd=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E8%BF%9B%E5%85%A52023%E5%85%A8%E7%90%83%E7%A5%A8%E6%88%BF%E6%A6%9C%E5%89%8D%E5%8D%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子拍到两个太阳藏在云层中](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8B%8D%E5%88%B0%E4%B8%A4%E4%B8%AA%E5%A4%AA%E9%98%B3%E8%97%8F%E5%9C%A8%E4%BA%91%E5%B1%82%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子在餐厅投放不明液体已被抓获](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%9C%A8%E9%A4%90%E5%8E%85%E6%8A%95%E6%94%BE%E4%B8%8D%E6%98%8E%E6%B6%B2%E4%BD%93%E5%B7%B2%E8%A2%AB%E6%8A%93%E8%8E%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [多人游泳横渡长江船员大吼避让](https://www.baidu.com/s?wd=%E5%A4%9A%E4%BA%BA%E6%B8%B8%E6%B3%B3%E6%A8%AA%E6%B8%A1%E9%95%BF%E6%B1%9F%E8%88%B9%E5%91%98%E5%A4%A7%E5%90%BC%E9%81%BF%E8%AE%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [家长庆祝孩子高考660分聚众赌博](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E5%BA%86%E7%A5%9D%E5%AD%A9%E5%AD%90%E9%AB%98%E8%80%83660%E5%88%86%E8%81%9A%E4%BC%97%E8%B5%8C%E5%8D%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子在餐厅投放不明液体已被抓获](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%9C%A8%E9%A4%90%E5%8E%85%E6%8A%95%E6%94%BE%E4%B8%8D%E6%98%8E%E6%B6%B2%E4%BD%93%E5%B7%B2%E8%A2%AB%E6%8A%93%E8%8E%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
