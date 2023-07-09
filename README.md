@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 22:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 22:16:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [iG爆冷战胜JDG](https://s.weibo.com/weibo?q=%23iG%E7%88%86%E5%86%B7%E6%88%98%E8%83%9CJDG%23&t=31&band_rank=6&Refer=top)<br />
 7. [鹿晗喜欢的显眼包出现了](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E5%96%9C%E6%AC%A2%E7%9A%84%E6%98%BE%E7%9C%BC%E5%8C%85%E5%87%BA%E7%8E%B0%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [一个不会离职的办公桌长啥样](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E4%B8%8D%E4%BC%9A%E7%A6%BB%E8%81%8C%E7%9A%84%E5%8A%9E%E5%85%AC%E6%A1%8C%E9%95%BF%E5%95%A5%E6%A0%B7%23&t=31&band_rank=8&Refer=top)<br />
-9. [黑龙江一18个月女孩从6楼窗台坠亡](https://s.weibo.com/weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%8018%E4%B8%AA%E6%9C%88%E5%A5%B3%E5%AD%A9%E4%BB%8E6%E6%A5%BC%E7%AA%97%E5%8F%B0%E5%9D%A0%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
+9. [警方通报北京政法职业学院学生纠纷](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%8C%97%E4%BA%AC%E6%94%BF%E6%B3%95%E8%81%8C%E4%B8%9A%E5%AD%A6%E9%99%A2%E5%AD%A6%E7%94%9F%E7%BA%A0%E7%BA%B7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
