@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 21:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 21:07:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [爱豆鹿晗回来了](https://s.weibo.com/weibo?q=%23%E7%88%B1%E8%B1%86%E9%B9%BF%E6%99%97%E5%9B%9E%E6%9D%A5%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [因为我男朋友开了家螺蛳粉店](https://s.weibo.com/weibo?q=%23%E5%9B%A0%E4%B8%BA%E6%88%91%E7%94%B7%E6%9C%8B%E5%8F%8B%E5%BC%80%E4%BA%86%E5%AE%B6%E8%9E%BA%E8%9B%B3%E7%B2%89%E5%BA%97%23&t=31&band_rank=5&Refer=top)<br />
 6. [王楚然7天涨粉13万](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E7%84%B67%E5%A4%A9%E6%B6%A8%E7%B2%8913%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
-7. [Uzi](https://s.weibo.com/weibo?q=Uzi&t=31&band_rank=7&Refer=top)<br />
-8. [TMEA音乐节](https://s.weibo.com/weibo?q=TMEA%E9%9F%B3%E4%B9%90%E8%8A%82&t=31&band_rank=8&Refer=top)<br />
+7. [TMEA音乐节](https://s.weibo.com/weibo?q=TMEA%E9%9F%B3%E4%B9%90%E8%8A%82&t=31&band_rank=7&Refer=top)<br />
+8. [Uzi](https://s.weibo.com/weibo?q=Uzi&t=31&band_rank=8&Refer=top)<br />
 9. [黑龙江一18个月女孩从6楼窗台坠亡](https://s.weibo.com/weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%8018%E4%B8%AA%E6%9C%88%E5%A5%B3%E5%AD%A9%E4%BB%8E6%E6%A5%BC%E7%AA%97%E5%8F%B0%E5%9D%A0%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
