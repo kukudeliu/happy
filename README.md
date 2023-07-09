@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 22:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 22:07:01</h4></div>
 
 > 微博  
 
@@ -18,8 +18,8 @@
 2. [女孩中考 742 分报考师范专科引争议，家长称「家里不缺钱，希望孩子以后生活轻松快乐」，如何看待此事？](https://www.zhihu.com/question/611196621)<br />
 3. [美财长耶伦召开记者会总结访华，称「累计谈了约 10 个小时，富有成效」，透露了哪些信息？](https://www.zhihu.com/question/611205658)<br />
 4. [乌克兰国防部承认去年实施对克里米亚大桥的袭击，此时承认有何用意？将产生哪些影响？](https://www.zhihu.com/question/611197844)<br />
-5. [因移民政策分歧，荷兰政府宣布将集体辞职，首相吕特与国王会面通报内阁垮台，如何看待此事？](https://www.zhihu.com/question/611119005)<br />
-6. [两张银行卡都是我自己的，互相频繁的转账会有麻烦吗？](https://www.zhihu.com/question/600890599)<br />
+5. [两张银行卡都是我自己的，互相频繁的转账会有麻烦吗？](https://www.zhihu.com/question/600890599)<br />
+6. [因移民政策分歧，荷兰政府宣布将集体辞职，首相吕特与国王会面通报内阁垮台，如何看待此事？](https://www.zhihu.com/question/611119005)<br />
 7. [高知老人带娃是什么体验？](https://www.zhihu.com/question/510311817)<br />
 8. [2023 LPL 夏季赛 EDG 2:1 FPX，如何评价这场比赛？](https://www.zhihu.com/question/611204711)<br />
 9. [你支持我国申办世界杯吗？为什么？](https://www.zhihu.com/question/611055419)<br />
