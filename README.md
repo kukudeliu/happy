@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 14:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 14:23:01</h4></div>
 
 > 微博  
 
@@ -20,8 +20,8 @@
 4. [2023 LPL 夏季赛于线下举「僵尸」牌子的粉丝公开致歉，这个梗算对 TheShy 选手的侮辱吗？](https://www.zhihu.com/question/610480367)<br />
 5. [2 年被家暴 16 次女子希望判丈夫死刑，代理律师称男方涉嫌故意杀人，如何看待此诉求？判决结果将如何？](https://www.zhihu.com/question/610619293)<br />
 6. [如何评价羊祜、陆抗这两个三国最后的名将？](https://www.zhihu.com/question/60553004)<br />
-7. [做「全职儿女」和做家庭主妇有什么不同？为什么「全职儿女」会被认为是「啃老」？](https://www.zhihu.com/question/610276645)<br />
-8. [显卡和CPU的硅脂多久换一次？](https://www.zhihu.com/question/607981347)<br />
+7. [显卡和CPU的硅脂多久换一次？](https://www.zhihu.com/question/607981347)<br />
+8. [做「全职儿女」和做家庭主妇有什么不同？为什么「全职儿女」会被认为是「啃老」？](https://www.zhihu.com/question/610276645)<br />
 9. [可以推荐一下自己喜欢的好书或者电影电视剧吗？](https://www.zhihu.com/question/611027388)<br />
 
 > 百度  
