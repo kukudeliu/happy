@@ -1,14 +1,14 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 10:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 10:21:01</h4></div>
 
 > 微博  
 
 1. [韩国歌手李尚恩去世](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%AD%8C%E6%89%8B%E6%9D%8E%E5%B0%9A%E6%81%A9%E5%8E%BB%E4%B8%96%23&t=31&band_rank=1&Refer=top)<br />
 2. [何非知道李木子无论如何都活不了](https://s.weibo.com/weibo?q=%23%E4%BD%95%E9%9D%9E%E7%9F%A5%E9%81%93%E6%9D%8E%E6%9C%A8%E5%AD%90%E6%97%A0%E8%AE%BA%E5%A6%82%E4%BD%95%E9%83%BD%E6%B4%BB%E4%B8%8D%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [守护高温下的户外劳动者](https://s.weibo.com/weibo?q=%23%E5%AE%88%E6%8A%A4%E9%AB%98%E6%B8%A9%E4%B8%8B%E7%9A%84%E6%88%B7%E5%A4%96%E5%8A%B3%E5%8A%A8%E8%80%85%23&t=31&band_rank=3&Refer=top)<br />
-4. [人民日报评长安三万里](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E9%95%BF%E5%AE%89%E4%B8%89%E4%B8%87%E9%87%8C%23&t=31&band_rank=4&Refer=top)<br />
-5. [徐峥看茶啊二中笑得肚子疼](https://s.weibo.com/weibo?q=%E5%BE%90%E5%B3%A5%E7%9C%8B%E8%8C%B6%E5%95%8A%E4%BA%8C%E4%B8%AD%E7%AC%91%E5%BE%97%E8%82%9A%E5%AD%90%E7%96%BC&t=31&band_rank=5&Refer=top)<br />
+4. [药水哥两年没回向佐微信](https://s.weibo.com/weibo?q=%23%E8%8D%AF%E6%B0%B4%E5%93%A5%E4%B8%A4%E5%B9%B4%E6%B2%A1%E5%9B%9E%E5%90%91%E4%BD%90%E5%BE%AE%E4%BF%A1%23&t=31&band_rank=4&Refer=top)<br />
+5. [人民日报评长安三万里](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E9%95%BF%E5%AE%89%E4%B8%89%E4%B8%87%E9%87%8C%23&t=31&band_rank=5&Refer=top)<br />
 6. [罗翔](https://s.weibo.com/weibo?q=%E7%BD%97%E7%BF%94&t=31&band_rank=6&Refer=top)<br />
-7. [药水哥两年没回向佐微信](https://s.weibo.com/weibo?q=%23%E8%8D%AF%E6%B0%B4%E5%93%A5%E4%B8%A4%E5%B9%B4%E6%B2%A1%E5%9B%9E%E5%90%91%E4%BD%90%E5%BE%AE%E4%BF%A1%23&t=31&band_rank=7&Refer=top)<br />
+7. [徐峥看茶啊二中笑得肚子疼](https://s.weibo.com/weibo?q=%E5%BE%90%E5%B3%A5%E7%9C%8B%E8%8C%B6%E5%95%8A%E4%BA%8C%E4%B8%AD%E7%AC%91%E5%BE%97%E8%82%9A%E5%AD%90%E7%96%BC&t=31&band_rank=7&Refer=top)<br />
 8. [家长庆祝孩子高考660分聚众赌博被拘](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%95%BF%E5%BA%86%E7%A5%9D%E5%AD%A9%E5%AD%90%E9%AB%98%E8%80%83660%E5%88%86%E8%81%9A%E4%BC%97%E8%B5%8C%E5%8D%9A%E8%A2%AB%E6%8B%98%23&t=31&band_rank=8&Refer=top)<br />
 9. [家里对外人谎报我的高考分数](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%87%8C%E5%AF%B9%E5%A4%96%E4%BA%BA%E8%B0%8E%E6%8A%A5%E6%88%91%E7%9A%84%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%23&t=31&band_rank=9&Refer=top)<br />
 
@@ -21,7 +21,7 @@
 5. [如何评价古天乐、郭富城、刘青云主演的动作犯罪电影《扫毒 3：人在天涯》？](https://www.zhihu.com/question/610485745)<br />
 6. [黄老邪对于郭靖这个女婿是个什么态度？](https://www.zhihu.com/question/31411287)<br />
 7. [美联储 6 月会议纪要「几乎所有官员都表示，可能会进一步收紧货币政策」，释放了什么信号？](https://www.zhihu.com/question/610625334)<br />
-8. []()<br />
+8. [如果换成吕布在长坂坡，是否能达到赵云的水准?](https://www.zhihu.com/question/609823649)<br />
 9. [继美国国务卿布林肯访华探路之后，耶伦此番登场能给两国以及世界带来什么？中美携手合作具有怎样的意义？](https://www.zhihu.com/question/610659233)<br />
 
 > 百度  
