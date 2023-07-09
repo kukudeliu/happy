@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 15:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 15:41:02</h4></div>
 
 > 微博  
 
@@ -14,13 +14,13 @@
 
 > 知乎  
 
-1. [如何评价羊祜、陆抗这两个三国最后的名将？](https://www.zhihu.com/question/60553004)<br />
-2. [因移民政策分歧，荷兰政府宣布将集体辞职，首相吕特与国王会面通报内阁垮台，如何看待此事？](https://www.zhihu.com/question/611119005)<br />
+1. [因移民政策分歧，荷兰政府宣布将集体辞职，首相吕特与国王会面通报内阁垮台，如何看待此事？](https://www.zhihu.com/question/611119005)<br />
+2. [如何评价羊祜、陆抗这两个三国最后的名将？](https://www.zhihu.com/question/60553004)<br />
 3. [游戏《永劫无间》宣布销量突破 2000 万、并即将转为免费游戏，有哪些值得关注的？](https://www.zhihu.com/question/610483242)<br />
 4. [显卡和CPU的硅脂多久换一次？](https://www.zhihu.com/question/607981347)<br />
 5. [电视机为什么有大流量上传?](https://www.zhihu.com/question/610220718)<br />
-6. []()<br />
-7. [郑州一小区业主免费赠房，受赠者需接下房贷，房价从两万跌到一万多，有人因断供房子被拍卖，如何看待此事？](https://www.zhihu.com/question/611125322)<br />
+6. [郑州一小区业主免费赠房，受赠者需接下房贷，房价从两万跌到一万多，有人因断供房子被拍卖，如何看待此事？](https://www.zhihu.com/question/611125322)<br />
+7. []()<br />
 8. [有没有以前特别讨厌的食物，后来慢慢给接受了？](https://www.zhihu.com/question/602934822)<br />
 9. [2023 LPL 夏季赛于线下举「僵尸」牌子的粉丝公开致歉，这个梗算对 TheShy 选手的侮辱吗？](https://www.zhihu.com/question/610480367)<br />
 
