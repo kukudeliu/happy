@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 05:31:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 05:32:01</h4></div>
 
 > 微博  
 
@@ -19,9 +19,9 @@
 3. [女孩中考 742 分报考师范专科引争议，家长称「家里不缺钱，希望孩子以后生活轻松快乐」，如何看待此事？](https://www.zhihu.com/question/611196621)<br />
 4. []()<br />
 5. [小黄人讲的是什么语言？](https://www.zhihu.com/question/30830614)<br />
-6. [三个人的友谊你感到过拥挤吗？](https://www.zhihu.com/question/600176565)<br />
-7. [两张银行卡都是我自己的，互相频繁的转账会有麻烦吗？](https://www.zhihu.com/question/600890599)<br />
-8. []()<br />
+6. [两张银行卡都是我自己的，互相频繁的转账会有麻烦吗？](https://www.zhihu.com/question/600890599)<br />
+7. []()<br />
+8. [三个人的友谊你感到过拥挤吗？](https://www.zhihu.com/question/600176565)<br />
 9. [单位一把手同意提拔你，二把手和三把手想提拔他们自己人，明显感受到了阻力，怎么办？](https://www.zhihu.com/question/607420190)<br />
 
 > 百度  
