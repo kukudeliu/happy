@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 10:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 10:30:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [罗翔](https://s.weibo.com/weibo?q=%E7%BD%97%E7%BF%94&t=31&band_rank=6&Refer=top)<br />
 7. [家长庆祝孩子高考660分聚众赌博被拘](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%95%BF%E5%BA%86%E7%A5%9D%E5%AD%A9%E5%AD%90%E9%AB%98%E8%80%83660%E5%88%86%E8%81%9A%E4%BC%97%E8%B5%8C%E5%8D%9A%E8%A2%AB%E6%8B%98%23&t=31&band_rank=7&Refer=top)<br />
 8. [徐峥看茶啊二中笑得肚子疼](https://s.weibo.com/weibo?q=%E5%BE%90%E5%B3%A5%E7%9C%8B%E8%8C%B6%E5%95%8A%E4%BA%8C%E4%B8%AD%E7%AC%91%E5%BE%97%E8%82%9A%E5%AD%90%E7%96%BC&t=31&band_rank=8&Refer=top)<br />
-9. [吉林私搭浮桥收费获刑当事人发声](https://s.weibo.com/weibo?q=%23%E5%90%89%E6%9E%97%E7%A7%81%E6%90%AD%E6%B5%AE%E6%A1%A5%E6%94%B6%E8%B4%B9%E8%8E%B7%E5%88%91%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%8F%91%E5%A3%B0%23&t=31&band_rank=9&Refer=top)<br />
+9. [家里对外人谎报我的高考分数](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%87%8C%E5%AF%B9%E5%A4%96%E4%BA%BA%E8%B0%8E%E6%8A%A5%E6%88%91%E7%9A%84%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
