@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 15:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 15:08:01</h4></div>
 
 > 微博  
 
-1. [女孩中考742分报考师范专科引争议](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E4%B8%AD%E8%80%83742%E5%88%86%E6%8A%A5%E8%80%83%E5%B8%88%E8%8C%83%E4%B8%93%E7%A7%91%E5%BC%95%E4%BA%89%E8%AE%AE%23&t=31&band_rank=1&Refer=top)<br />
-2. [肖战在任敏微博评论区刷屏](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%9C%A8%E4%BB%BB%E6%95%8F%E5%BE%AE%E5%8D%9A%E8%AF%84%E8%AE%BA%E5%8C%BA%E5%88%B7%E5%B1%8F%23&t=31&band_rank=2&Refer=top)<br />
+1. [肖战在任敏微博评论区刷屏](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%9C%A8%E4%BB%BB%E6%95%8F%E5%BE%AE%E5%8D%9A%E8%AF%84%E8%AE%BA%E5%8C%BA%E5%88%B7%E5%B1%8F%23&t=31&band_rank=1&Refer=top)<br />
+2. [女孩中考742分报考师范专科引争议](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E4%B8%AD%E8%80%83742%E5%88%86%E6%8A%A5%E8%80%83%E5%B8%88%E8%8C%83%E4%B8%93%E7%A7%91%E5%BC%95%E4%BA%89%E8%AE%AE%23&t=31&band_rank=2&Refer=top)<br />
 3. [滇藏铁路丽香段哈巴雪山隧道贯通](https://s.weibo.com/weibo?q=%23%E6%BB%87%E8%97%8F%E9%93%81%E8%B7%AF%E4%B8%BD%E9%A6%99%E6%AE%B5%E5%93%88%E5%B7%B4%E9%9B%AA%E5%B1%B1%E9%9A%A7%E9%81%93%E8%B4%AF%E9%80%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [夫妻情侣请求让座你会让吗](https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E6%83%85%E4%BE%A3%E8%AF%B7%E6%B1%82%E8%AE%A9%E5%BA%A7%E4%BD%A0%E4%BC%9A%E8%AE%A9%E5%90%97%23&t=31&band_rank=4&Refer=top)<br />
 5. [曝HYBE员工搜身时摸粉丝胸部](https://s.weibo.com/weibo?q=%23%E6%9B%9DHYBE%E5%91%98%E5%B7%A5%E6%90%9C%E8%BA%AB%E6%97%B6%E6%91%B8%E7%B2%89%E4%B8%9D%E8%83%B8%E9%83%A8%23&t=31&band_rank=5&Refer=top)<br />
@@ -18,8 +18,8 @@
 2. [姆巴佩接受采访称「曾轻视梅西 C 罗，巴黎是一支分裂的球队 + 不会帮到我」，如何评价这样的言论？](https://www.zhihu.com/question/611172264)<br />
 3. [2023 LPL 夏季赛于线下举「僵尸」牌子的粉丝公开致歉，这个梗算对 TheShy 选手的侮辱吗？](https://www.zhihu.com/question/610480367)<br />
 4. [快到订婚的日子了，男朋友突然提分手，我该怎么办?](https://www.zhihu.com/question/610191146)<br />
-5. [2 年被家暴 16 次女子希望判丈夫死刑，代理律师称男方涉嫌故意杀人，如何看待此诉求？判决结果将如何？](https://www.zhihu.com/question/610619293)<br />
-6. [显卡和CPU的硅脂多久换一次？](https://www.zhihu.com/question/607981347)<br />
+5. [显卡和CPU的硅脂多久换一次？](https://www.zhihu.com/question/607981347)<br />
+6. [2 年被家暴 16 次女子希望判丈夫死刑，代理律师称男方涉嫌故意杀人，如何看待此诉求？判决结果将如何？](https://www.zhihu.com/question/610619293)<br />
 7. [做「全职儿女」和做家庭主妇有什么不同？为什么「全职儿女」会被认为是「啃老」？](https://www.zhihu.com/question/610276645)<br />
 8. [电视机为什么有大流量上传?](https://www.zhihu.com/question/610220718)<br />
 9. [有没有以前特别讨厌的食物，后来慢慢给接受了？](https://www.zhihu.com/question/602934822)<br />
