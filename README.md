@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 15:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-09 15:36:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [庆余年第二季首发剧照](https://s.weibo.com/weibo?q=%23%E5%BA%86%E4%BD%99%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A3%E9%A6%96%E5%8F%91%E5%89%A7%E7%85%A7%23&t=31&band_rank=6&Refer=top)<br />
 7. [魏大勋反手开车门](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E5%8F%8D%E6%89%8B%E5%BC%80%E8%BD%A6%E9%97%A8%23&t=31&band_rank=7&Refer=top)<br />
 8. [共享充电宝电用完只充了30%](https://s.weibo.com/weibo?q=%23%E5%85%B1%E4%BA%AB%E5%85%85%E7%94%B5%E5%AE%9D%E7%94%B5%E7%94%A8%E5%AE%8C%E5%8F%AA%E5%85%85%E4%BA%8630%25%23&t=31&band_rank=8&Refer=top)<br />
-9. [夫妻情侣请求让座你会让吗](https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E6%83%85%E4%BE%A3%E8%AF%B7%E6%B1%82%E8%AE%A9%E5%BA%A7%E4%BD%A0%E4%BC%9A%E8%AE%A9%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
+9. [年轻人为什么不买快时尚的账了](https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E4%B9%B0%E5%BF%AB%E6%97%B6%E5%B0%9A%E7%9A%84%E8%B4%A6%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
