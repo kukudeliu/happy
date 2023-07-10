@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 15:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 16:00:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [黄河流域发现长达百万年连续古人类文化遗存](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%B2%B3%E6%B5%81%E5%9F%9F%E5%8F%91%E7%8E%B0%E9%95%BF%E8%BE%BE%E7%99%BE%E4%B8%87%E5%B9%B4%E8%BF%9E%E7%BB%AD%E5%8F%A4%E4%BA%BA%E7%B1%BB%E6%96%87%E5%8C%96%E9%81%97%E5%AD%98%23&t=31&band_rank=3&Refer=top)<br />
 4. [李咏女儿将出道](https://s.weibo.com/weibo?q=%E6%9D%8E%E5%92%8F%E5%A5%B3%E5%84%BF%E5%B0%86%E5%87%BA%E9%81%93&t=31&band_rank=4&Refer=top)<br />
 5. [杨幂采访谈离嘉](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E9%87%87%E8%AE%BF%E8%B0%88%E7%A6%BB%E5%98%89%23&t=31&band_rank=5&Refer=top)<br />
-6. [毕业后一直在当女大学生](https://s.weibo.com/weibo?q=%23%E6%AF%95%E4%B8%9A%E5%90%8E%E4%B8%80%E7%9B%B4%E5%9C%A8%E5%BD%93%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%23&t=31&band_rank=6&Refer=top)<br />
-7. [官方回应垃圾桶里捡到人头](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%9E%83%E5%9C%BE%E6%A1%B6%E9%87%8C%E6%8D%A1%E5%88%B0%E4%BA%BA%E5%A4%B4%23&t=31&band_rank=7&Refer=top)<br />
+6. [谢娜听不懂蔡少芬吵架时说什么](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E5%90%AC%E4%B8%8D%E6%87%82%E8%94%A1%E5%B0%91%E8%8A%AC%E5%90%B5%E6%9E%B6%E6%97%B6%E8%AF%B4%E4%BB%80%E4%B9%88%23&t=31&band_rank=6&Refer=top)<br />
+7. [毕业后一直在当女大学生](https://s.weibo.com/weibo?q=%23%E6%AF%95%E4%B8%9A%E5%90%8E%E4%B8%80%E7%9B%B4%E5%9C%A8%E5%BD%93%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%23&t=31&band_rank=7&Refer=top)<br />
 8. [曝Jennie将与YG解约](https://s.weibo.com/weibo?q=%23%E6%9B%9DJennie%E5%B0%86%E4%B8%8EYG%E8%A7%A3%E7%BA%A6%23&t=31&band_rank=8&Refer=top)<br />
-9. [广东廉江发生一起故意伤害案致6死1伤](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E5%BB%89%E6%B1%9F%E5%8F%91%E7%94%9F%E4%B8%80%E8%B5%B7%E6%95%85%E6%84%8F%E4%BC%A4%E5%AE%B3%E6%A1%88%E8%87%B46%E6%AD%BB1%E4%BC%A4%23&t=31&band_rank=9&Refer=top)<br />
+9. [官方回应垃圾桶里捡到人头](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%9E%83%E5%9C%BE%E6%A1%B6%E9%87%8C%E6%8D%A1%E5%88%B0%E4%BA%BA%E5%A4%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
