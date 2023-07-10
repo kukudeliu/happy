@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 11:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 11:05:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [毕业后一直在当女大学生](https://s.weibo.com/weibo?q=%23%E6%AF%95%E4%B8%9A%E5%90%8E%E4%B8%80%E7%9B%B4%E5%9C%A8%E5%BD%93%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%23&t=31&band_rank=5&Refer=top)<br />
 6. [孟佳在餐厅坐了一个半小时找不到刘雨昕](https://s.weibo.com/weibo?q=%E5%AD%9F%E4%BD%B3%E5%9C%A8%E9%A4%90%E5%8E%85%E5%9D%90%E4%BA%86%E4%B8%80%E4%B8%AA%E5%8D%8A%E5%B0%8F%E6%97%B6%E6%89%BE%E4%B8%8D%E5%88%B0%E5%88%98%E9%9B%A8%E6%98%95&t=31&band_rank=6&Refer=top)<br />
 7. [李玟](https://s.weibo.com/weibo?q=%E6%9D%8E%E7%8E%9F&t=31&band_rank=7&Refer=top)<br />
-8. [提前15个月还完67万多感觉天亮了](https://s.weibo.com/weibo?q=%23%E6%8F%90%E5%89%8D15%E4%B8%AA%E6%9C%88%E8%BF%98%E5%AE%8C67%E4%B8%87%E5%A4%9A%E6%84%9F%E8%A7%89%E5%A4%A9%E4%BA%AE%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [国乒公布杭州亚运会名单](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E5%85%AC%E5%B8%83%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%90%8D%E5%8D%95%23&t=31&band_rank=9&Refer=top)<br />
+8. [国乒公布杭州亚运会名单](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E5%85%AC%E5%B8%83%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%90%8D%E5%8D%95%23&t=31&band_rank=8&Refer=top)<br />
+9. [提前15个月还完67万多感觉天亮了](https://s.weibo.com/weibo?q=%23%E6%8F%90%E5%89%8D15%E4%B8%AA%E6%9C%88%E8%BF%98%E5%AE%8C67%E4%B8%87%E5%A4%9A%E6%84%9F%E8%A7%89%E5%A4%A9%E4%BA%AE%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 6. []()<br />
 7. [为什么武林中的女侠不但武功奇高，还没有练出来麒麟臂大粗腿和老茧？](https://www.zhihu.com/question/278326506)<br />
 8. []()<br />
-9. [怎么看待高适和李白的关系？](https://www.zhihu.com/question/25161001)<br />
+9. [现在教师资格证有效期三年，是怎么理解的呢？](https://www.zhihu.com/question/52975570)<br />
 
 > 百度  
 
@@ -31,10 +31,10 @@
 3. [郑州通报河道贴瓷砖:项目造价650万](https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E9%80%9A%E6%8A%A5%E6%B2%B3%E9%81%93%E8%B4%B4%E7%93%B7%E7%A0%96%3A%E9%A1%B9%E7%9B%AE%E9%80%A0%E4%BB%B7650%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [多项重点工程取得突破](https://www.baidu.com/s?wd=%E5%A4%9A%E9%A1%B9%E9%87%8D%E7%82%B9%E5%B7%A5%E7%A8%8B%E5%8F%96%E5%BE%97%E7%AA%81%E7%A0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [广东廉江发生故意伤人案致6死1伤](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E5%BB%89%E6%B1%9F%E5%8F%91%E7%94%9F%E6%95%85%E6%84%8F%E4%BC%A4%E4%BA%BA%E6%A1%88%E8%87%B46%E6%AD%BB1%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [月薪3万女子提离职数月才批获赔56万](https://www.baidu.com/s?wd=%E6%9C%88%E8%96%AA3%E4%B8%87%E5%A5%B3%E5%AD%90%E6%8F%90%E7%A6%BB%E8%81%8C%E6%95%B0%E6%9C%88%E6%89%8D%E6%89%B9%E8%8E%B7%E8%B5%9456%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [明起正式入伏 5省份局地达40℃以上](https://www.baidu.com/s?wd=%E6%98%8E%E8%B5%B7%E6%AD%A3%E5%BC%8F%E5%85%A5%E4%BC%8F+5%E7%9C%81%E4%BB%BD%E5%B1%80%E5%9C%B0%E8%BE%BE40%E2%84%83%E4%BB%A5%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [提前15个月还完67万多感觉天亮了](https://www.baidu.com/s?wd=%E6%8F%90%E5%89%8D15%E4%B8%AA%E6%9C%88%E8%BF%98%E5%AE%8C67%E4%B8%87%E5%A4%9A%E6%84%9F%E8%A7%89%E5%A4%A9%E4%BA%AE%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [扬言毁灭人类的女机器人答记者问](https://www.baidu.com/s?wd=%E6%89%AC%E8%A8%80%E6%AF%81%E7%81%AD%E4%BA%BA%E7%B1%BB%E7%9A%84%E5%A5%B3%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AD%94%E8%AE%B0%E8%80%85%E9%97%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [李玟二姐回应李玟老公争遗产](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E4%BA%8C%E5%A7%90%E5%9B%9E%E5%BA%94%E6%9D%8E%E7%8E%9F%E8%80%81%E5%85%AC%E4%BA%89%E9%81%97%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [月薪3万女子提离职数月才批获赔56万](https://www.baidu.com/s?wd=%E6%9C%88%E8%96%AA3%E4%B8%87%E5%A5%B3%E5%AD%90%E6%8F%90%E7%A6%BB%E8%81%8C%E6%95%B0%E6%9C%88%E6%89%8D%E6%89%B9%E8%8E%B7%E8%B5%9456%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [明起正式入伏 5省份局地达40℃以上](https://www.baidu.com/s?wd=%E6%98%8E%E8%B5%B7%E6%AD%A3%E5%BC%8F%E5%85%A5%E4%BC%8F+5%E7%9C%81%E4%BB%BD%E5%B1%80%E5%9C%B0%E8%BE%BE40%E2%84%83%E4%BB%A5%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [小学生开始去胖东来抢座位了](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%BC%80%E5%A7%8B%E5%8E%BB%E8%83%96%E4%B8%9C%E6%9D%A5%E6%8A%A2%E5%BA%A7%E4%BD%8D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [郑州通报河道贴瓷砖:项目造价650万](https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E9%80%9A%E6%8A%A5%E6%B2%B3%E9%81%93%E8%B4%B4%E7%93%B7%E7%A0%96%3A%E9%A1%B9%E7%9B%AE%E9%80%A0%E4%BB%B7650%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [多项重点工程取得突破](https://www.baidu.com/s?wd=%E5%A4%9A%E9%A1%B9%E9%87%8D%E7%82%B9%E5%B7%A5%E7%A8%8B%E5%8F%96%E5%BE%97%E7%AA%81%E7%A0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [广东廉江发生故意伤人案致6死1伤](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E5%BB%89%E6%B1%9F%E5%8F%91%E7%94%9F%E6%95%85%E6%84%8F%E4%BC%A4%E4%BA%BA%E6%A1%88%E8%87%B46%E6%AD%BB1%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [月薪3万女子提离职数月才批获赔56万](https://www.baidu.com/s?wd=%E6%9C%88%E8%96%AA3%E4%B8%87%E5%A5%B3%E5%AD%90%E6%8F%90%E7%A6%BB%E8%81%8C%E6%95%B0%E6%9C%88%E6%89%8D%E6%89%B9%E8%8E%B7%E8%B5%9456%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [明起正式入伏 5省份局地达40℃以上](https://www.baidu.com/s?wd=%E6%98%8E%E8%B5%B7%E6%AD%A3%E5%BC%8F%E5%85%A5%E4%BC%8F+5%E7%9C%81%E4%BB%BD%E5%B1%80%E5%9C%B0%E8%BE%BE40%E2%84%83%E4%BB%A5%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [提前15个月还完67万多感觉天亮了](https://www.baidu.com/s?wd=%E6%8F%90%E5%89%8D15%E4%B8%AA%E6%9C%88%E8%BF%98%E5%AE%8C67%E4%B8%87%E5%A4%9A%E6%84%9F%E8%A7%89%E5%A4%A9%E4%BA%AE%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [扬言毁灭人类的女机器人答记者问](https://www.baidu.com/s?wd=%E6%89%AC%E8%A8%80%E6%AF%81%E7%81%AD%E4%BA%BA%E7%B1%BB%E7%9A%84%E5%A5%B3%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AD%94%E8%AE%B0%E8%80%85%E9%97%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [李玟二姐回应李玟老公争遗产](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E4%BA%8C%E5%A7%90%E5%9B%9E%E5%BA%94%E6%9D%8E%E7%8E%9F%E8%80%81%E5%85%AC%E4%BA%89%E9%81%97%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [月薪3万女子提离职数月才批获赔56万](https://www.baidu.com/s?wd=%E6%9C%88%E8%96%AA3%E4%B8%87%E5%A5%B3%E5%AD%90%E6%8F%90%E7%A6%BB%E8%81%8C%E6%95%B0%E6%9C%88%E6%89%8D%E6%89%B9%E8%8E%B7%E8%B5%9456%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [明起正式入伏 5省份局地达40℃以上](https://www.baidu.com/s?wd=%E6%98%8E%E8%B5%B7%E6%AD%A3%E5%BC%8F%E5%85%A5%E4%BC%8F+5%E7%9C%81%E4%BB%BD%E5%B1%80%E5%9C%B0%E8%BE%BE40%E2%84%83%E4%BB%A5%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [小学生开始去胖东来抢座位了](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%BC%80%E5%A7%8B%E5%8E%BB%E8%83%96%E4%B8%9C%E6%9D%A5%E6%8A%A2%E5%BA%A7%E4%BD%8D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
