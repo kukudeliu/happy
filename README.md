@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 11:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 11:46:01</h4></div>
 
 > 微博  
 
@@ -18,9 +18,9 @@
 2. [专家称本周可能是十万年来最热一周，为何这么热？是什么原因造成的？](https://www.zhihu.com/question/611194015)<br />
 3. [如何看待今年哈工大威海校区普通批招生人数竟然超过本部，招生占比 40%?](https://www.zhihu.com/question/608059596)<br />
 4. [OpenAI 将向所有 ChatGPT Plus 用户开放代码解析器功能，将带来哪些改变？](https://www.zhihu.com/question/611024514)<br />
-5. [为什么《艾尔登法环》让我感觉缺乏文学造诣，除了砍砍杀杀没给思辨留有余地？](https://www.zhihu.com/question/609146999)<br />
-6. [《王者荣耀》为什么不推出水浒人物作为英雄？](https://www.zhihu.com/question/610339236)<br />
-7. [现在教师资格证有效期三年，是怎么理解的呢？](https://www.zhihu.com/question/52975570)<br />
+5. [现在教师资格证有效期三年，是怎么理解的呢？](https://www.zhihu.com/question/52975570)<br />
+6. [为什么《艾尔登法环》让我感觉缺乏文学造诣，除了砍砍杀杀没给思辨留有余地？](https://www.zhihu.com/question/609146999)<br />
+7. [《王者荣耀》为什么不推出水浒人物作为英雄？](https://www.zhihu.com/question/610339236)<br />
 8. [如何才能在不增加收入的条件下促进消费？](https://www.zhihu.com/question/594506055)<br />
 9. [如何看待西安交通大学 2023 届研究生超半数留在西部工作?](https://www.zhihu.com/question/610800309)<br />
 
@@ -34,7 +34,7 @@
 6. [李玟二姐回应李玟老公争遗产](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E4%BA%8C%E5%A7%90%E5%9B%9E%E5%BA%94%E6%9D%8E%E7%8E%9F%E8%80%81%E5%85%AC%E4%BA%89%E9%81%97%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [泰国载有中国游客巴士翻车致27伤](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E8%BD%BD%E6%9C%89%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%B7%B4%E5%A3%AB%E7%BF%BB%E8%BD%A6%E8%87%B427%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [月薪3万女子提离职数月才批获赔56万](https://www.baidu.com/s?wd=%E6%9C%88%E8%96%AA3%E4%B8%87%E5%A5%B3%E5%AD%90%E6%8F%90%E7%A6%BB%E8%81%8C%E6%95%B0%E6%9C%88%E6%89%8D%E6%89%B9%E8%8E%B7%E8%B5%9456%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [父亲称蹲守杀害女儿者非前任是追求者](https://www.baidu.com/s?wd=%E7%88%B6%E4%BA%B2%E7%A7%B0%E8%B9%B2%E5%AE%88%E6%9D%80%E5%AE%B3%E5%A5%B3%E5%84%BF%E8%80%85%E9%9D%9E%E5%89%8D%E4%BB%BB%E6%98%AF%E8%BF%BD%E6%B1%82%E8%80%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [雷公取消认亲团圆宴](https://www.baidu.com/s?wd=%E9%9B%B7%E5%85%AC%E5%8F%96%E6%B6%88%E8%AE%A4%E4%BA%B2%E5%9B%A2%E5%9C%86%E5%AE%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [李玟二姐回应李玟老公争遗产](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E4%BA%8C%E5%A7%90%E5%9B%9E%E5%BA%94%E6%9D%8E%E7%8E%9F%E8%80%81%E5%85%AC%E4%BA%89%E9%81%97%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [泰国载有中国游客巴士翻车致27伤](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E8%BD%BD%E6%9C%89%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%B7%B4%E5%A3%AB%E7%BF%BB%E8%BD%A6%E8%87%B427%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [月薪3万女子提离职数月才批获赔56万](https://www.baidu.com/s?wd=%E6%9C%88%E8%96%AA3%E4%B8%87%E5%A5%B3%E5%AD%90%E6%8F%90%E7%A6%BB%E8%81%8C%E6%95%B0%E6%9C%88%E6%89%8D%E6%89%B9%E8%8E%B7%E8%B5%9456%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [父亲称蹲守杀害女儿者非前任是追求者](https://www.baidu.com/s?wd=%E7%88%B6%E4%BA%B2%E7%A7%B0%E8%B9%B2%E5%AE%88%E6%9D%80%E5%AE%B3%E5%A5%B3%E5%84%BF%E8%80%85%E9%9D%9E%E5%89%8D%E4%BB%BB%E6%98%AF%E8%BF%BD%E6%B1%82%E8%80%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [雷公取消认亲团圆宴](https://www.baidu.com/s?wd=%E9%9B%B7%E5%85%AC%E5%8F%96%E6%B6%88%E8%AE%A4%E4%BA%B2%E5%9B%A2%E5%9C%86%E5%AE%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
