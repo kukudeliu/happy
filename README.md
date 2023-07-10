@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 14:41:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 14:42:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [广东廉江发生一起故意伤害案致6死1伤](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E5%BB%89%E6%B1%9F%E5%8F%91%E7%94%9F%E4%B8%80%E8%B5%B7%E6%95%85%E6%84%8F%E4%BC%A4%E5%AE%B3%E6%A1%88%E8%87%B46%E6%AD%BB1%E4%BC%A4%23&t=31&band_rank=6&Refer=top)<br />
 7. [毕业后一直在当女大学生](https://s.weibo.com/weibo?q=%23%E6%AF%95%E4%B8%9A%E5%90%8E%E4%B8%80%E7%9B%B4%E5%9C%A8%E5%BD%93%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%23&t=31&band_rank=7&Refer=top)<br />
 8. [蔡依林郑州](https://s.weibo.com/weibo?q=%E8%94%A1%E4%BE%9D%E6%9E%97%E9%83%91%E5%B7%9E&t=31&band_rank=8&Refer=top)<br />
-9. [奔跑吧](https://s.weibo.com/weibo?q=%E5%A5%94%E8%B7%91%E5%90%A7&t=31&band_rank=9&Refer=top)<br />
+9. [父亲淡定晒相处25年的姐弟俩打架](https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E6%B7%A1%E5%AE%9A%E6%99%92%E7%9B%B8%E5%A4%8425%E5%B9%B4%E7%9A%84%E5%A7%90%E5%BC%9F%E4%BF%A9%E6%89%93%E6%9E%B6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
