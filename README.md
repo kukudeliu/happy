@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 17:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 17:40:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [黄河流域发现长达百万年连续古人类文化遗存](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%B2%B3%E6%B5%81%E5%9F%9F%E5%8F%91%E7%8E%B0%E9%95%BF%E8%BE%BE%E7%99%BE%E4%B8%87%E5%B9%B4%E8%BF%9E%E7%BB%AD%E5%8F%A4%E4%BA%BA%E7%B1%BB%E6%96%87%E5%8C%96%E9%81%97%E5%AD%98%23&t=31&band_rank=3&Refer=top)<br />
 4. [Prada这次找对人了](https://s.weibo.com/weibo?q=%23Prada%E8%BF%99%E6%AC%A1%E6%89%BE%E5%AF%B9%E4%BA%BA%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [B组签售](https://s.weibo.com/weibo?q=B%E7%BB%84%E7%AD%BE%E5%94%AE&t=31&band_rank=5&Refer=top)<br />
-6. [娜扎cos芈月](https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8Ecos%E8%8A%88%E6%9C%88%23&t=31&band_rank=6&Refer=top)<br />
-7. [EXO回归新歌CreamSoda](https://s.weibo.com/weibo?q=%23EXO%E5%9B%9E%E5%BD%92%E6%96%B0%E6%AD%8CCreamSoda%23&t=31&band_rank=7&Refer=top)<br />
+6. [EXO回归新歌CreamSoda](https://s.weibo.com/weibo?q=%23EXO%E5%9B%9E%E5%BD%92%E6%96%B0%E6%AD%8CCreamSoda%23&t=31&band_rank=6&Refer=top)<br />
+7. [娜扎cos芈月](https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8Ecos%E8%8A%88%E6%9C%88%23&t=31&band_rank=7&Refer=top)<br />
 8. [李现是怎么忍住甜品只吃一口的](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%B0%E6%98%AF%E6%80%8E%E4%B9%88%E5%BF%8D%E4%BD%8F%E7%94%9C%E5%93%81%E5%8F%AA%E5%90%83%E4%B8%80%E5%8F%A3%E7%9A%84%23&t=31&band_rank=8&Refer=top)<br />
 9. [TFBOYS十周年演唱会还不官宣吗](https://s.weibo.com/weibo?q=%23TFBOYS%E5%8D%81%E5%91%A8%E5%B9%B4%E6%BC%94%E5%94%B1%E4%BC%9A%E8%BF%98%E4%B8%8D%E5%AE%98%E5%AE%A3%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
 
@@ -19,10 +19,10 @@
 3. [滴滴发布 App 重新上架以来首份财报，Q1 净亏损收窄、国内出行业务盈利，哪些信息值得关注？](https://www.zhihu.com/question/611281492)<br />
 4. [为什么日本人很喜欢中国菜?](https://www.zhihu.com/question/611148418)<br />
 5. []()<br />
-6. [2023 年 6 月份居民消费价格同比持平，环比下降 0.2%，这一数据说明了什么？](https://www.zhihu.com/question/611291905)<br />
-7. [怎样模仿《原神》中的「兰那罗」说话？](https://www.zhihu.com/question/557375877)<br />
+6. [怎样模仿《原神》中的「兰那罗」说话？](https://www.zhihu.com/question/557375877)<br />
+7. [刻在人类基因中里的禁令有哪些？](https://www.zhihu.com/question/602124752)<br />
 8. [三十岁的男人该如何表白？](https://www.zhihu.com/question/611116938)<br />
-9. [刻在人类基因中里的禁令有哪些？](https://www.zhihu.com/question/602124752)<br />
+9. [2023 年 6 月份居民消费价格同比持平，环比下降 0.2%，这一数据说明了什么？](https://www.zhihu.com/question/611291905)<br />
 
 > 百度  
 
