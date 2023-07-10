@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 12:54:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 12:55:01</h4></div>
 
 > 微博  
 
@@ -20,8 +20,8 @@
 4. [《王者荣耀》为什么不推出水浒人物作为英雄？](https://www.zhihu.com/question/610339236)<br />
 5. [如何才能在不增加收入的条件下促进消费？](https://www.zhihu.com/question/594506055)<br />
 6. [如何看待西安交通大学 2023 届研究生超半数留在西部工作?](https://www.zhihu.com/question/610800309)<br />
-7. [OpenAI 将向所有 ChatGPT Plus 用户开放代码解析器功能，将带来哪些改变？](https://www.zhihu.com/question/611024514)<br />
-8. []()<br />
+7. []()<br />
+8. [OpenAI 将向所有 ChatGPT Plus 用户开放代码解析器功能，将带来哪些改变？](https://www.zhihu.com/question/611024514)<br />
 9. [「入职 3 天因公司氛围不好离职了」引发热议，你会因为工作氛围离职吗？你认为薪资和工作氛围哪一个更重要？](https://www.zhihu.com/question/611062462)<br />
 
 > 百度  
