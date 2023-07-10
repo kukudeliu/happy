@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 21:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 21:06:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 2. [春秋战国时期诸侯国动辄就能有十几万军队参战，怎么到明清时期只有几千人了？](https://www.zhihu.com/question/611197393)<br />
 3. [长期坚持运动对外貌有多大的改善？](https://www.zhihu.com/question/585683617)<br />
 4. [网民指「结婚登记必须提供户口簿违背婚姻自由」，民政部回应称将关注，如何看待这一现象？](https://www.zhihu.com/question/611310583)<br />
-5. [内地游客再掀赴港开户热潮，香港保险的优势何在？面对投资资产荒，普通投资者该怎么「花钱」？](https://www.zhihu.com/theater/98961)<br />
+5. [6 月 CPI 进入零增长时代，资产荒又来袭，人们为何不愿花钱？钱要怎么「花」更合理？](https://www.zhihu.com/theater/98961)<br />
 6. [如何看待「超 7 成人后悔选择自己的专业」一事？你后悔曾经在专业上的选择吗？](https://www.zhihu.com/question/611314897)<br />
 7. [如果每天都感觉工作压力很大，感觉生活中只有「city work」了，该逃离大城市及时止损吗？](https://www.zhihu.com/question/611350258)<br />
 8. [有没有速度超越光速的东西？](https://www.zhihu.com/question/603923150)<br />
