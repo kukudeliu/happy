@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 21:16:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 21:17:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [如果每天都感觉工作压力很大，感觉生活中只有「city work」了，该逃离大城市及时止损吗？](https://www.zhihu.com/question/611350258)<br />
 7. [有没有速度超越光速的东西？](https://www.zhihu.com/question/603923150)<br />
 8. [特斯拉最新引荐购车奖励规则公布，最高可奖 7000 元，哪些信息值得关注？](https://www.zhihu.com/question/611291930)<br />
-9. [减肥应该吃晚饭吗?](https://www.zhihu.com/question/609717183)<br />
+9. [学生第一次买台式还是笔记本?](https://www.zhihu.com/question/608408433)<br />
 
 > 百度  
 
