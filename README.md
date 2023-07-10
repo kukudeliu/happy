@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 11:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 11:20:01</h4></div>
 
 > 微博  
 
@@ -19,8 +19,8 @@
 3. [如何看待今年哈工大威海校区普通批招生人数竟然超过本部，招生占比 40%?](https://www.zhihu.com/question/608059596)<br />
 4. [中方就耶伦访华答记者问，财政部副部长表示「中美经贸团队举行了长时间坦诚会谈」，有哪些信息值得关注？](https://www.zhihu.com/question/611229158)<br />
 5. [OpenAI 将向所有 ChatGPT Plus 用户开放代码解析器功能，将带来哪些改变？](https://www.zhihu.com/question/611024514)<br />
-6. [现在教师资格证有效期三年，是怎么理解的呢？](https://www.zhihu.com/question/52975570)<br />
-7. []()<br />
+6. []()<br />
+7. [现在教师资格证有效期三年，是怎么理解的呢？](https://www.zhihu.com/question/52975570)<br />
 8. [如何才能在不增加收入的条件下促进消费？](https://www.zhihu.com/question/594506055)<br />
 9. [WTT 卢布尔雅那站男单决赛，樊振东 4:3 力克王楚钦夺冠，证明了他依旧是乒坛的霸主，如何评价这场对决？](https://www.zhihu.com/question/611262204)<br />
 
