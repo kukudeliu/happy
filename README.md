@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 08:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 08:46:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [为什么越来越多的笔记本开始不带网线接口？](https://www.zhihu.com/question/604395192)<br />
 5. [专家回应青年人失业率为何持续走高，表示「毕业生的能力不是企业所需要的」，如何看待该观点？](https://www.zhihu.com/question/611222540)<br />
 6. [女孩中考 742 分报考师范专科引争议，家长称「家里不缺钱，希望孩子以后生活轻松快乐」，如何看待此事？](https://www.zhihu.com/question/611196621)<br />
-7. []()<br />
-8. [复读失败是因为没有努力吗？](https://www.zhihu.com/question/609618564)<br />
-9. [为什么武林中的女侠不但武功奇高，还没有练出来麒麟臂大粗腿和老茧？](https://www.zhihu.com/question/278326506)<br />
+7. [华为云盘古气象大模型研究成果在《Nature》正刊发表，相比传统数值预报提速一万倍以上，还有哪些亮点？](https://www.zhihu.com/question/610665117)<br />
+8. []()<br />
+9. [复读失败是因为没有努力吗？](https://www.zhihu.com/question/609618564)<br />
 
 > 百度  
 
