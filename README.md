@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-11 01:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-11 01:49:01</h4></div>
 
 > 微博  
 
@@ -33,7 +33,7 @@
 5. [航班遇严重颠簸 空姐被甩到天花板](https://www.baidu.com/s?wd=%E8%88%AA%E7%8F%AD%E9%81%87%E4%B8%A5%E9%87%8D%E9%A2%A0%E7%B0%B8+%E7%A9%BA%E5%A7%90%E8%A2%AB%E7%94%A9%E5%88%B0%E5%A4%A9%E8%8A%B1%E6%9D%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [黄渤一把拉走袁泉](https://www.baidu.com/s?wd=%E9%BB%84%E6%B8%A4%E4%B8%80%E6%8A%8A%E6%8B%89%E8%B5%B0%E8%A2%81%E6%B3%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [英国首相会见美国总统](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E9%A6%96%E7%9B%B8%E4%BC%9A%E8%A7%81%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [全球多地遭遇极端高温天气](https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E5%A4%9A%E5%9C%B0%E9%81%AD%E9%81%87%E6%9E%81%E7%AB%AF%E9%AB%98%E6%B8%A9%E5%A4%A9%E6%B0%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男孩触碰红绿灯信号杆触电倒地](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E8%A7%A6%E7%A2%B0%E7%BA%A2%E7%BB%BF%E7%81%AF%E4%BF%A1%E5%8F%B7%E6%9D%86%E8%A7%A6%E7%94%B5%E5%80%92%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [印尼一工厂上百人失控狂哭抽搐](https://www.baidu.com/s?wd=%E5%8D%B0%E5%B0%BC%E4%B8%80%E5%B7%A5%E5%8E%82%E4%B8%8A%E7%99%BE%E4%BA%BA%E5%A4%B1%E6%8E%A7%E7%8B%82%E5%93%AD%E6%8A%BD%E6%90%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [航班遇严重颠簸 空姐被甩到天花板](https://www.baidu.com/s?wd=%E8%88%AA%E7%8F%AD%E9%81%87%E4%B8%A5%E9%87%8D%E9%A2%A0%E7%B0%B8+%E7%A9%BA%E5%A7%90%E8%A2%AB%E7%94%A9%E5%88%B0%E5%A4%A9%E8%8A%B1%E6%9D%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [黄渤一把拉走袁泉](https://www.baidu.com/s?wd=%E9%BB%84%E6%B8%A4%E4%B8%80%E6%8A%8A%E6%8B%89%E8%B5%B0%E8%A2%81%E6%B3%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [英国首相会见美国总统](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E9%A6%96%E7%9B%B8%E4%BC%9A%E8%A7%81%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [全球多地遭遇极端高温天气](https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E5%A4%9A%E5%9C%B0%E9%81%AD%E9%81%87%E6%9E%81%E7%AB%AF%E9%AB%98%E6%B8%A9%E5%A4%A9%E6%B0%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男孩触碰红绿灯信号杆触电倒地](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E8%A7%A6%E7%A2%B0%E7%BA%A2%E7%BB%BF%E7%81%AF%E4%BF%A1%E5%8F%B7%E6%9D%86%E8%A7%A6%E7%94%B5%E5%80%92%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [印尼一工厂上百人失控狂哭抽搐](https://www.baidu.com/s?wd=%E5%8D%B0%E5%B0%BC%E4%B8%80%E5%B7%A5%E5%8E%82%E4%B8%8A%E7%99%BE%E4%BA%BA%E5%A4%B1%E6%8E%A7%E7%8B%82%E5%93%AD%E6%8A%BD%E6%90%90&sa=fyb_news&rsv_dl=fyb_news)<br />
