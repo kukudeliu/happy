@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 16:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 16:01:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [在哪一瞬间你突然发现自己老了（或不年轻了）？](https://www.zhihu.com/question/606310227)<br />
 6. []()<br />
 7. [有没有做起来简单，却又非常好吃的家常菜？](https://www.zhihu.com/question/608585302)<br />
-8. []()<br />
-9. [如何看待西安交通大学 2023 届研究生超半数留在西部工作?](https://www.zhihu.com/question/610800309)<br />
+8. [如何看待西安交通大学 2023 届研究生超半数留在西部工作?](https://www.zhihu.com/question/610800309)<br />
+9. []()<br />
 
 > 百度  
 
