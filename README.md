@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 18:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 18:58:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [难听](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%90%AC&t=31&band_rank=6&Refer=top)<br />
 7. [立志要进杂技圈的大熊猫](https://s.weibo.com/weibo?q=%23%E7%AB%8B%E5%BF%97%E8%A6%81%E8%BF%9B%E6%9D%82%E6%8A%80%E5%9C%88%E7%9A%84%E5%A4%A7%E7%86%8A%E7%8C%AB%23&t=31&band_rank=7&Refer=top)<br />
 8. [在孙权墓前放中科大录取通知书](https://s.weibo.com/weibo?q=%E5%9C%A8%E5%AD%99%E6%9D%83%E5%A2%93%E5%89%8D%E6%94%BE%E4%B8%AD%E7%A7%91%E5%A4%A7%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6&t=31&band_rank=8&Refer=top)<br />
-9. [千户苗寨火灾致2死6伤](https://s.weibo.com/weibo?q=%23%E5%8D%83%E6%88%B7%E8%8B%97%E5%AF%A8%E7%81%AB%E7%81%BE%E8%87%B42%E6%AD%BB6%E4%BC%A4%23&t=31&band_rank=9&Refer=top)<br />
+9. [王鹤棣学猪叫被确诊慢性咽炎](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%AD%A6%E7%8C%AA%E5%8F%AB%E8%A2%AB%E7%A1%AE%E8%AF%8A%E6%85%A2%E6%80%A7%E5%92%BD%E7%82%8E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
