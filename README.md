@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 11:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 11:47:01</h4></div>
 
 > 微博  
 
@@ -19,8 +19,8 @@
 3. [如何看待今年哈工大威海校区普通批招生人数竟然超过本部，招生占比 40%?](https://www.zhihu.com/question/608059596)<br />
 4. [OpenAI 将向所有 ChatGPT Plus 用户开放代码解析器功能，将带来哪些改变？](https://www.zhihu.com/question/611024514)<br />
 5. [现在教师资格证有效期三年，是怎么理解的呢？](https://www.zhihu.com/question/52975570)<br />
-6. [为什么《艾尔登法环》让我感觉缺乏文学造诣，除了砍砍杀杀没给思辨留有余地？](https://www.zhihu.com/question/609146999)<br />
-7. [《王者荣耀》为什么不推出水浒人物作为英雄？](https://www.zhihu.com/question/610339236)<br />
+6. [《王者荣耀》为什么不推出水浒人物作为英雄？](https://www.zhihu.com/question/610339236)<br />
+7. [为什么《艾尔登法环》让我感觉缺乏文学造诣，除了砍砍杀杀没给思辨留有余地？](https://www.zhihu.com/question/609146999)<br />
 8. [如何才能在不增加收入的条件下促进消费？](https://www.zhihu.com/question/594506055)<br />
 9. [如何看待西安交通大学 2023 届研究生超半数留在西部工作?](https://www.zhihu.com/question/610800309)<br />
 
