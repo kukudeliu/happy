@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 18:15:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 18:16:01</h4></div>
 
 > 微博  
 
@@ -19,8 +19,8 @@
 3. [为什么日本人很喜欢中国菜?](https://www.zhihu.com/question/611148418)<br />
 4. [刻在人类基因中里的禁令有哪些？](https://www.zhihu.com/question/602124752)<br />
 5. [如果博士论文要求创新，那么是不是意味着以后的博士会越来越少，毕竟人总有江郎才尽的一天?](https://www.zhihu.com/question/583365135)<br />
-6. [长期失业的人后来都去干嘛了？](https://www.zhihu.com/question/587853518)<br />
-7. []()<br />
+6. []()<br />
+7. [长期失业的人后来都去干嘛了？](https://www.zhihu.com/question/587853518)<br />
 8. [有哪些是你去了安徽才知道的事情?](https://www.zhihu.com/question/342694384)<br />
 9. []()<br />
 
