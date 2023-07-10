@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 13:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 13:13:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [宋轶白敬亭 阳神](https://s.weibo.com/weibo?q=%E5%AE%8B%E8%BD%B6%E7%99%BD%E6%95%AC%E4%BA%AD%20%E9%98%B3%E7%A5%9E&t=31&band_rank=6&Refer=top)<br />
 7. [毕业后一直在当女大学生](https://s.weibo.com/weibo?q=%23%E6%AF%95%E4%B8%9A%E5%90%8E%E4%B8%80%E7%9B%B4%E5%9C%A8%E5%BD%93%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%23&t=31&band_rank=7&Refer=top)<br />
 8. [千户苗寨](https://s.weibo.com/weibo?q=%E5%8D%83%E6%88%B7%E8%8B%97%E5%AF%A8&t=31&band_rank=8&Refer=top)<br />
-9. [华莎被告发涉嫌演出淫乱罪](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E8%8E%8E%E8%A2%AB%E5%91%8A%E5%8F%91%E6%B6%89%E5%AB%8C%E6%BC%94%E5%87%BA%E6%B7%AB%E4%B9%B1%E7%BD%AA%23&t=31&band_rank=9&Refer=top)<br />
+9. [结婚登记须提供户口簿被指违背婚姻自由](https://s.weibo.com/weibo?q=%23%E7%BB%93%E5%A9%9A%E7%99%BB%E8%AE%B0%E9%A1%BB%E6%8F%90%E4%BE%9B%E6%88%B7%E5%8F%A3%E7%B0%BF%E8%A2%AB%E6%8C%87%E8%BF%9D%E8%83%8C%E5%A9%9A%E5%A7%BB%E8%87%AA%E7%94%B1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
