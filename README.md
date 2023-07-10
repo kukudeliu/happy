@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 19:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 19:05:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [男孩泳池中央溺水20秒被好心男子救起](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E6%B3%B3%E6%B1%A0%E4%B8%AD%E5%A4%AE%E6%BA%BA%E6%B0%B420%E7%A7%92%E8%A2%AB%E5%A5%BD%E5%BF%83%E7%94%B7%E5%AD%90%E6%95%91%E8%B5%B7%23&t=31&band_rank=5&Refer=top)<br />
 6. [难听](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%90%AC&t=31&band_rank=6&Refer=top)<br />
 7. [立志要进杂技圈的大熊猫](https://s.weibo.com/weibo?q=%23%E7%AB%8B%E5%BF%97%E8%A6%81%E8%BF%9B%E6%9D%82%E6%8A%80%E5%9C%88%E7%9A%84%E5%A4%A7%E7%86%8A%E7%8C%AB%23&t=31&band_rank=7&Refer=top)<br />
-8. [警方通报网传济南大学留学生月补3万元](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%BD%91%E4%BC%A0%E6%B5%8E%E5%8D%97%E5%A4%A7%E5%AD%A6%E7%95%99%E5%AD%A6%E7%94%9F%E6%9C%88%E8%A1%A53%E4%B8%87%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [王鹤棣学猪叫被确诊慢性咽炎](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%AD%A6%E7%8C%AA%E5%8F%AB%E8%A2%AB%E7%A1%AE%E8%AF%8A%E6%85%A2%E6%80%A7%E5%92%BD%E7%82%8E%23&t=31&band_rank=9&Refer=top)<br />
+8. [王鹤棣学猪叫被确诊慢性咽炎](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%AD%A6%E7%8C%AA%E5%8F%AB%E8%A2%AB%E7%A1%AE%E8%AF%8A%E6%85%A2%E6%80%A7%E5%92%BD%E7%82%8E%23&t=31&band_rank=8&Refer=top)<br />
+9. [警方通报网传济南大学留学生月补3万元](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%BD%91%E4%BC%A0%E6%B5%8E%E5%8D%97%E5%A4%A7%E5%AD%A6%E7%95%99%E5%AD%A6%E7%94%9F%E6%9C%88%E8%A1%A53%E4%B8%87%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
