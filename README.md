@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 12:15:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 12:16:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [宋轶白敬亭 阳神](https://s.weibo.com/weibo?q=%E5%AE%8B%E8%BD%B6%E7%99%BD%E6%95%AC%E4%BA%AD%20%E9%98%B3%E7%A5%9E&t=31&band_rank=4&Refer=top)<br />
 5. [曝Jennie将与YG解约](https://s.weibo.com/weibo?q=%23%E6%9B%9DJennie%E5%B0%86%E4%B8%8EYG%E8%A7%A3%E7%BA%A6%23&t=31&band_rank=5&Refer=top)<br />
 6. [廉江回应有人持刀在幼儿园行凶](https://s.weibo.com/weibo?q=%23%E5%BB%89%E6%B1%9F%E5%9B%9E%E5%BA%94%E6%9C%89%E4%BA%BA%E6%8C%81%E5%88%80%E5%9C%A8%E5%B9%BC%E5%84%BF%E5%9B%AD%E8%A1%8C%E5%87%B6%23&t=31&band_rank=6&Refer=top)<br />
-7. [曝李玟老公找律师推翻遗嘱](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E6%9D%8E%E7%8E%9F%E8%80%81%E5%85%AC%E6%89%BE%E5%BE%8B%E5%B8%88%E6%8E%A8%E7%BF%BB%E9%81%97%E5%98%B1%23&t=31&band_rank=7&Refer=top)<br />
-8. [魏大勋算爆了吗](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E7%AE%97%E7%88%86%E4%BA%86%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
+7. [魏大勋算爆了吗](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E7%AE%97%E7%88%86%E4%BA%86%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
+8. [曝李玟老公找律师推翻遗嘱](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E6%9D%8E%E7%8E%9F%E8%80%81%E5%85%AC%E6%89%BE%E5%BE%8B%E5%B8%88%E6%8E%A8%E7%BF%BB%E9%81%97%E5%98%B1%23&t=31&band_rank=8&Refer=top)<br />
 9. [为什么不建议要求伴侣情绪稳定](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E5%BB%BA%E8%AE%AE%E8%A6%81%E6%B1%82%E4%BC%B4%E4%BE%A3%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -20,9 +20,9 @@
 4. [OpenAI 将向所有 ChatGPT Plus 用户开放代码解析器功能，将带来哪些改变？](https://www.zhihu.com/question/611024514)<br />
 5. [《王者荣耀》为什么不推出水浒人物作为英雄？](https://www.zhihu.com/question/610339236)<br />
 6. [如何才能在不增加收入的条件下促进消费？](https://www.zhihu.com/question/594506055)<br />
-7. [怎么看待高适和李白的关系？](https://www.zhihu.com/question/25161001)<br />
-8. [为什么《艾尔登法环》让我感觉缺乏文学造诣，除了砍砍杀杀没给思辨留有余地？](https://www.zhihu.com/question/609146999)<br />
-9. [如何看待西安交通大学 2023 届研究生超半数留在西部工作?](https://www.zhihu.com/question/610800309)<br />
+7. [为什么《艾尔登法环》让我感觉缺乏文学造诣，除了砍砍杀杀没给思辨留有余地？](https://www.zhihu.com/question/609146999)<br />
+8. [如何看待西安交通大学 2023 届研究生超半数留在西部工作?](https://www.zhihu.com/question/610800309)<br />
+9. [怎么看待高适和李白的关系？](https://www.zhihu.com/question/25161001)<br />
 
 > 百度  
 
