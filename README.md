@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 19:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 19:20:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [长期失业的人后来都去干嘛了？](https://www.zhihu.com/question/587853518)<br />
 6. [王者主播为什么感觉不受 elo 机制影响?](https://www.zhihu.com/question/604482083)<br />
 7. [如果博士论文要求创新，那么是不是意味着以后的博士会越来越少，毕竟人总有江郎才尽的一天?](https://www.zhihu.com/question/583365135)<br />
-8. [科普和科学的差距有多大？](https://www.zhihu.com/question/608370850)<br />
-9. [媒体三评毕业季就业问题，称「拓宽渠道，树立积极就业观，就业形势总体稳定」，对今年应届生你有哪些建议？](https://www.zhihu.com/question/611313092)<br />
+8. [媒体三评毕业季就业问题，称「拓宽渠道，树立积极就业观，就业形势总体稳定」，对今年应届生你有哪些建议？](https://www.zhihu.com/question/611313092)<br />
+9. [科普和科学的差距有多大？](https://www.zhihu.com/question/608370850)<br />
 
 > 百度  
 
