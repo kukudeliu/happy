@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 21:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 21:21:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [Prada这次找对人了](https://s.weibo.com/weibo?q=%23Prada%E8%BF%99%E6%AC%A1%E6%89%BE%E5%AF%B9%E4%BA%BA%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [女孩高考超一本线35分却报专科](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E9%AB%98%E8%80%83%E8%B6%85%E4%B8%80%E6%9C%AC%E7%BA%BF35%E5%88%86%E5%8D%B4%E6%8A%A5%E4%B8%93%E7%A7%91%23&t=31&band_rank=5&Refer=top)<br />
 6. [芈月宝格丽新皮肤](https://s.weibo.com/weibo?q=%23%E8%8A%88%E6%9C%88%E5%AE%9D%E6%A0%BC%E4%B8%BD%E6%96%B0%E7%9A%AE%E8%82%A4%23&t=31&band_rank=6&Refer=top)<br />
-7. [女孩夸环卫爷爷的小狗可爱被赠奶茶](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%A4%B8%E7%8E%AF%E5%8D%AB%E7%88%B7%E7%88%B7%E7%9A%84%E5%B0%8F%E7%8B%97%E5%8F%AF%E7%88%B1%E8%A2%AB%E8%B5%A0%E5%A5%B6%E8%8C%B6%23&t=31&band_rank=7&Refer=top)<br />
-8. [在孙权墓前放中科大录取通知书](https://s.weibo.com/weibo?q=%E5%9C%A8%E5%AD%99%E6%9D%83%E5%A2%93%E5%89%8D%E6%94%BE%E4%B8%AD%E7%A7%91%E5%A4%A7%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6&t=31&band_rank=8&Refer=top)<br />
-9. [千户苗寨火灾致2死6伤](https://s.weibo.com/weibo?q=%23%E5%8D%83%E6%88%B7%E8%8B%97%E5%AF%A8%E7%81%AB%E7%81%BE%E8%87%B42%E6%AD%BB6%E4%BC%A4%23&t=31&band_rank=9&Refer=top)<br />
+7. [陕西省发现一例猴痘病例](https://s.weibo.com/weibo?q=%23%E9%99%95%E8%A5%BF%E7%9C%81%E5%8F%91%E7%8E%B0%E4%B8%80%E4%BE%8B%E7%8C%B4%E7%97%98%E7%97%85%E4%BE%8B%23&t=31&band_rank=7&Refer=top)<br />
+8. [女孩夸环卫爷爷的小狗可爱被赠奶茶](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%A4%B8%E7%8E%AF%E5%8D%AB%E7%88%B7%E7%88%B7%E7%9A%84%E5%B0%8F%E7%8B%97%E5%8F%AF%E7%88%B1%E8%A2%AB%E8%B5%A0%E5%A5%B6%E8%8C%B6%23&t=31&band_rank=8&Refer=top)<br />
+9. [在孙权墓前放中科大录取通知书](https://s.weibo.com/weibo?q=%E5%9C%A8%E5%AD%99%E6%9D%83%E5%A2%93%E5%89%8D%E6%94%BE%E4%B8%AD%E7%A7%91%E5%A4%A7%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -18,7 +18,7 @@
 2. [《王者荣耀》为什么不推出水浒人物作为英雄？](https://www.zhihu.com/question/610339236)<br />
 3. [春秋战国时期诸侯国动辄就能有十几万军队参战，怎么到明清时期只有几千人了？](https://www.zhihu.com/question/611197393)<br />
 4. [长期坚持运动对外貌有多大的改善？](https://www.zhihu.com/question/585683617)<br />
-5. [6 月 CPI 进入零增长时代，资产荒又来袭，人们为何不愿花钱？钱要怎么「花」更合理？](https://www.zhihu.com/theater/98961)<br />
+5. [很多人找不到好的投资产品，把提前还贷当作高收益投资的替代品，这一做法可取吗？房贷有必要提前还吗？](https://www.zhihu.com/theater/98961)<br />
 6. [如果每天都感觉工作压力很大，感觉生活中只有「city work」了，该逃离大城市及时止损吗？](https://www.zhihu.com/question/611350258)<br />
 7. [特斯拉最新引荐购车奖励规则公布，最高可奖 7000 元，哪些信息值得关注？](https://www.zhihu.com/question/611291930)<br />
 8. [有没有速度超越光速的东西？](https://www.zhihu.com/question/603923150)<br />
