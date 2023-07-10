@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 20:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 20:16:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [林俊杰晒与lesserafim合照](https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E6%99%92%E4%B8%8Elesserafim%E5%90%88%E7%85%A7%23&t=31&band_rank=5&Refer=top)<br />
 6. [在孙权墓前放中科大录取通知书](https://s.weibo.com/weibo?q=%E5%9C%A8%E5%AD%99%E6%9D%83%E5%A2%93%E5%89%8D%E6%94%BE%E4%B8%AD%E7%A7%91%E5%A4%A7%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6&t=31&band_rank=6&Refer=top)<br />
 7. [王楚然早期旧照](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E7%84%B6%E6%97%A9%E6%9C%9F%E6%97%A7%E7%85%A7%23&t=31&band_rank=7&Refer=top)<br />
-8. [网曝未满1岁婴儿坐船被要求买票](https://s.weibo.com/weibo?q=%23%E7%BD%91%E6%9B%9D%E6%9C%AA%E6%BB%A11%E5%B2%81%E5%A9%B4%E5%84%BF%E5%9D%90%E8%88%B9%E8%A2%AB%E8%A6%81%E6%B1%82%E4%B9%B0%E7%A5%A8%23&t=31&band_rank=8&Refer=top)<br />
-9. [李硕珉脸链](https://s.weibo.com/weibo?q=%E6%9D%8E%E7%A1%95%E7%8F%89%E8%84%B8%E9%93%BE&t=31&band_rank=9&Refer=top)<br />
+8. [李硕珉脸链](https://s.weibo.com/weibo?q=%E6%9D%8E%E7%A1%95%E7%8F%89%E8%84%B8%E9%93%BE&t=31&band_rank=8&Refer=top)<br />
+9. [千户苗寨火灾致2死6伤](https://s.weibo.com/weibo?q=%23%E5%8D%83%E6%88%B7%E8%8B%97%E5%AF%A8%E7%81%AB%E7%81%BE%E8%87%B42%E6%AD%BB6%E4%BC%A4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
