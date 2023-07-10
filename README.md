@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 14:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 14:50:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [明天才入伏](https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%A4%A9%E6%89%8D%E5%85%A5%E4%BC%8F%23&t=31&band_rank=3&Refer=top)<br />
 4. [官方回应垃圾桶里捡到人头](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%9E%83%E5%9C%BE%E6%A1%B6%E9%87%8C%E6%8D%A1%E5%88%B0%E4%BA%BA%E5%A4%B4%23&t=31&band_rank=4&Refer=top)<br />
 5. [曝Jennie将与YG解约](https://s.weibo.com/weibo?q=%23%E6%9B%9DJennie%E5%B0%86%E4%B8%8EYG%E8%A7%A3%E7%BA%A6%23&t=31&band_rank=5&Refer=top)<br />
-6. [蔡依林郑州](https://s.weibo.com/weibo?q=%E8%94%A1%E4%BE%9D%E6%9E%97%E9%83%91%E5%B7%9E&t=31&band_rank=6&Refer=top)<br />
-7. [父亲淡定晒相处25年的姐弟俩打架](https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E6%B7%A1%E5%AE%9A%E6%99%92%E7%9B%B8%E5%A4%8425%E5%B9%B4%E7%9A%84%E5%A7%90%E5%BC%9F%E4%BF%A9%E6%89%93%E6%9E%B6%23&t=31&band_rank=7&Refer=top)<br />
-8. [广东廉江发生一起故意伤害案致6死1伤](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E5%BB%89%E6%B1%9F%E5%8F%91%E7%94%9F%E4%B8%80%E8%B5%B7%E6%95%85%E6%84%8F%E4%BC%A4%E5%AE%B3%E6%A1%88%E8%87%B46%E6%AD%BB1%E4%BC%A4%23&t=31&band_rank=8&Refer=top)<br />
+6. [父亲淡定晒相处25年的姐弟俩打架](https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E6%B7%A1%E5%AE%9A%E6%99%92%E7%9B%B8%E5%A4%8425%E5%B9%B4%E7%9A%84%E5%A7%90%E5%BC%9F%E4%BF%A9%E6%89%93%E6%9E%B6%23&t=31&band_rank=6&Refer=top)<br />
+7. [广东廉江发生一起故意伤害案致6死1伤](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E5%BB%89%E6%B1%9F%E5%8F%91%E7%94%9F%E4%B8%80%E8%B5%B7%E6%95%85%E6%84%8F%E4%BC%A4%E5%AE%B3%E6%A1%88%E8%87%B46%E6%AD%BB1%E4%BC%A4%23&t=31&band_rank=7&Refer=top)<br />
+8. [蔡依林郑州](https://s.weibo.com/weibo?q=%E8%94%A1%E4%BE%9D%E6%9E%97%E9%83%91%E5%B7%9E&t=31&band_rank=8&Refer=top)<br />
 9. [毕业后一直在当女大学生](https://s.weibo.com/weibo?q=%23%E6%AF%95%E4%B8%9A%E5%90%8E%E4%B8%80%E7%9B%B4%E5%9C%A8%E5%BD%93%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -18,8 +18,8 @@
 2. [如何看待 2023 年哈工大威海校区普通批招生人数竟然超过本部，招生占比 40%?](https://www.zhihu.com/question/608059596)<br />
 3. [主人悬赏一千万寻狗，找到狗后仅支付五千元，知情人称「寻狗心切，以一千万为噱头」，如何看待此事？](https://www.zhihu.com/question/611291798)<br />
 4. [《王者荣耀》为什么不推出水浒人物作为英雄？](https://www.zhihu.com/question/610339236)<br />
-5. [7 月 6 日全球平均气温创历史新高，专家推算或是十万年来最热一周，为何这么热？是什么原因造成的？](https://www.zhihu.com/question/611194015)<br />
-6. [吃一半扔一半，研究显示每年我国七大类食物浪费约 4.6 亿吨，如何看待？应对食物损耗浪费有哪些办法？](https://www.zhihu.com/question/610850189)<br />
+5. [吃一半扔一半，研究显示每年我国七大类食物浪费约 4.6 亿吨，如何看待？应对食物损耗浪费有哪些办法？](https://www.zhihu.com/question/610850189)<br />
+6. [7 月 6 日全球平均气温创历史新高，专家推算或是十万年来最热一周，为何这么热？是什么原因造成的？](https://www.zhihu.com/question/611194015)<br />
 7. [如何评价潘粤明和陈数主演的悬疑剧《消失的十一层》？](https://www.zhihu.com/question/610669734)<br />
 8. [都在晒 city walk 的照片，有没有哪个「city work」的瞬间也让你觉得值得记录？](https://www.zhihu.com/question/610473672)<br />
 9. [现在教师资格证有效期三年，是怎么理解的呢？](https://www.zhihu.com/question/52975570)<br />
