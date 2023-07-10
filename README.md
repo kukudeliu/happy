@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 13:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 13:53:01</h4></div>
 
 > 微博  
 
@@ -21,8 +21,8 @@
 5. [主人悬赏一千万寻狗，找到狗后仅支付五千元，知情人称「寻狗心切，以一千万为噱头」，如何看待此事？](https://www.zhihu.com/question/611291798)<br />
 6. [吃一半扔一半，研究显示每年我国七大类食物浪费约 4.6 亿吨，如何看待？应对食物损耗浪费有哪些办法？](https://www.zhihu.com/question/610850189)<br />
 7. [如何评价潘粤明和陈数主演的悬疑剧《消失的十一层》？](https://www.zhihu.com/question/610669734)<br />
-8. [如何看待西安交通大学 2023 届研究生超半数留在西部工作?](https://www.zhihu.com/question/610800309)<br />
-9. [都在晒 city walk 的照片，有没有哪个「city work」的瞬间也让你觉得值得记录？](https://www.zhihu.com/question/610473672)<br />
+8. [都在晒 city walk 的照片，有没有哪个「city work」的瞬间也让你觉得值得记录？](https://www.zhihu.com/question/610473672)<br />
+9. [现在教师资格证有效期三年，是怎么理解的呢？](https://www.zhihu.com/question/52975570)<br />
 
 > 百度  
 
