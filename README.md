@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 16:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 16:10:01</h4></div>
 
 > 微博  
 
@@ -19,7 +19,7 @@
 3. [《王者荣耀》为什么不推出水浒人物作为英雄？](https://www.zhihu.com/question/610339236)<br />
 4. [吃一半扔一半，研究显示每年我国七大类食物浪费约 4.6 亿吨，如何看待？应对食物损耗浪费有哪些办法？](https://www.zhihu.com/question/610850189)<br />
 5. [在哪一瞬间你突然发现自己老了（或不年轻了）？](https://www.zhihu.com/question/606310227)<br />
-6. []()<br />
+6. [2023 年 6 月份居民消费价格同比持平，环比下降 0.2%，这一数据说明了什么？](https://www.zhihu.com/question/611291905)<br />
 7. [有没有做起来简单，却又非常好吃的家常菜？](https://www.zhihu.com/question/608585302)<br />
 8. [如何看待西安交通大学 2023 届研究生超半数留在西部工作?](https://www.zhihu.com/question/610800309)<br />
 9. []()<br />
