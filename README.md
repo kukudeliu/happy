@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 20:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 20:29:01</h4></div>
 
 > 微博  
 
@@ -20,9 +20,9 @@
 4. [长期坚持运动对外貌有多大的改善？](https://www.zhihu.com/question/585683617)<br />
 5. [如何看待「超 7 成人后悔选择自己的专业」一事？你后悔曾经在专业上的选择吗？](https://www.zhihu.com/question/611314897)<br />
 6. [网民指「结婚登记必须提供户口簿违背婚姻自由」，民政部回应称将关注，如何看待这一现象？](https://www.zhihu.com/question/611310583)<br />
-7. [科普和科学的差距有多大？](https://www.zhihu.com/question/608370850)<br />
-8. []()<br />
-9. [有没有速度超越光速的东西？](https://www.zhihu.com/question/603923150)<br />
+7. []()<br />
+8. [有没有速度超越光速的东西？](https://www.zhihu.com/question/603923150)<br />
+9. [科普和科学的差距有多大？](https://www.zhihu.com/question/608370850)<br />
 
 > 百度  
 
