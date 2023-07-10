@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 21:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 21:59:01</h4></div>
 
 > 微博  
 
@@ -34,7 +34,7 @@
 6. [女孩高考超一本线35分却报专科](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E9%AB%98%E8%80%83%E8%B6%85%E4%B8%80%E6%9C%AC%E7%BA%BF35%E5%88%86%E5%8D%B4%E6%8A%A5%E4%B8%93%E7%A7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [印尼一工厂上百人失控狂哭抽搐](https://www.baidu.com/s?wd=%E5%8D%B0%E5%B0%BC%E4%B8%80%E5%B7%A5%E5%8E%82%E4%B8%8A%E7%99%BE%E4%BA%BA%E5%A4%B1%E6%8E%A7%E7%8B%82%E5%93%AD%E6%8A%BD%E6%90%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [高铁路过桂林乘客齐刷刷惊叹拍照](https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E8%B7%AF%E8%BF%87%E6%A1%82%E6%9E%97%E4%B9%98%E5%AE%A2%E9%BD%90%E5%88%B7%E5%88%B7%E6%83%8A%E5%8F%B9%E6%8B%8D%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [淄博两烧烤店老板当街大打出手](https://www.baidu.com/s?wd=%E6%B7%84%E5%8D%9A%E4%B8%A4%E7%83%A7%E7%83%A4%E5%BA%97%E8%80%81%E6%9D%BF%E5%BD%93%E8%A1%97%E5%A4%A7%E6%89%93%E5%87%BA%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [全球多地遭遇极端高温天气](https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E5%A4%9A%E5%9C%B0%E9%81%AD%E9%81%87%E6%9E%81%E7%AB%AF%E9%AB%98%E6%B8%A9%E5%A4%A9%E6%B0%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [女孩高考超一本线35分却报专科](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E9%AB%98%E8%80%83%E8%B6%85%E4%B8%80%E6%9C%AC%E7%BA%BF35%E5%88%86%E5%8D%B4%E6%8A%A5%E4%B8%93%E7%A7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [印尼一工厂上百人失控狂哭抽搐](https://www.baidu.com/s?wd=%E5%8D%B0%E5%B0%BC%E4%B8%80%E5%B7%A5%E5%8E%82%E4%B8%8A%E7%99%BE%E4%BA%BA%E5%A4%B1%E6%8E%A7%E7%8B%82%E5%93%AD%E6%8A%BD%E6%90%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [高铁路过桂林乘客齐刷刷惊叹拍照](https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E8%B7%AF%E8%BF%87%E6%A1%82%E6%9E%97%E4%B9%98%E5%AE%A2%E9%BD%90%E5%88%B7%E5%88%B7%E6%83%8A%E5%8F%B9%E6%8B%8D%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [淄博两烧烤店老板当街大打出手](https://www.baidu.com/s?wd=%E6%B7%84%E5%8D%9A%E4%B8%A4%E7%83%A7%E7%83%A4%E5%BA%97%E8%80%81%E6%9D%BF%E5%BD%93%E8%A1%97%E5%A4%A7%E6%89%93%E5%87%BA%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [全球多地遭遇极端高温天气](https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E5%A4%9A%E5%9C%B0%E9%81%AD%E9%81%87%E6%9E%81%E7%AB%AF%E9%AB%98%E6%B8%A9%E5%A4%A9%E6%B0%94&sa=fyb_news&rsv_dl=fyb_news)<br />
