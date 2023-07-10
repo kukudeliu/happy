@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 20:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 20:07:01</h4></div>
 
 > 微博  
 
@@ -19,8 +19,8 @@
 3. [王者主播为什么感觉不受 elo 机制影响?](https://www.zhihu.com/question/604482083)<br />
 4. [媒体三评毕业季就业问题，称「拓宽渠道，树立积极就业观，就业形势总体稳定」，对今年应届生你有哪些建议？](https://www.zhihu.com/question/611313092)<br />
 5. [春秋战国时期诸侯国动辄就能有十几万军队参战，怎么到明清时期只有几千人了？](https://www.zhihu.com/question/611197393)<br />
-6. [科普和科学的差距有多大？](https://www.zhihu.com/question/608370850)<br />
-7. [长期坚持运动对外貌有多大的改善？](https://www.zhihu.com/question/585683617)<br />
+6. [长期坚持运动对外貌有多大的改善？](https://www.zhihu.com/question/585683617)<br />
+7. [科普和科学的差距有多大？](https://www.zhihu.com/question/608370850)<br />
 8. [如何看待「超 7 成人后悔选择自己的专业」一事？你后悔曾经在专业上的选择吗？](https://www.zhihu.com/question/611314897)<br />
 9. [在国外学车拿驾照是一种怎样的体验？](https://www.zhihu.com/question/340663003)<br />
 
