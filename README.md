@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 15:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 15:10:01</h4></div>
 
 > 微博  
 
@@ -19,9 +19,9 @@
 3. [如何看待 2023 年哈工大威海校区普通批招生人数竟然超过本部，招生占比 40%?](https://www.zhihu.com/question/608059596)<br />
 4. [《王者荣耀》为什么不推出水浒人物作为英雄？](https://www.zhihu.com/question/610339236)<br />
 5. [吃一半扔一半，研究显示每年我国七大类食物浪费约 4.6 亿吨，如何看待？应对食物损耗浪费有哪些办法？](https://www.zhihu.com/question/610850189)<br />
-6. [现在教师资格证有效期三年，是怎么理解的呢？](https://www.zhihu.com/question/52975570)<br />
-7. []()<br />
-8. [浩瀚 MT2 相机稳定器发布，该产品有哪些技术亮点？](https://www.zhihu.com/question/603877527)<br />
+6. []()<br />
+7. [浩瀚 MT2 相机稳定器发布，该产品有哪些技术亮点？](https://www.zhihu.com/question/603877527)<br />
+8. []()<br />
 9. []()<br />
 
 > 百度  
