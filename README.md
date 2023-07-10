@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 10:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 10:34:02</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [中方就耶伦访华答记者问，财政部副部长表示「中美经贸团队举行了长时间坦诚会谈」，有哪些信息值得关注？](https://www.zhihu.com/question/611229158)<br />
 7. []()<br />
 8. [怎么看待高适和李白的关系？](https://www.zhihu.com/question/25161001)<br />
-9. [复读失败是因为没有努力吗？](https://www.zhihu.com/question/609618564)<br />
+9. [如何看待今年哈工大威海校区普通批招生人数竟然超过本部，招生占比 40%?](https://www.zhihu.com/question/608059596)<br />
 
 > 百度  
 
@@ -34,7 +34,7 @@
 6. [月薪3万女子提离职数月才批获赔56万](https://www.baidu.com/s?wd=%E6%9C%88%E8%96%AA3%E4%B8%87%E5%A5%B3%E5%AD%90%E6%8F%90%E7%A6%BB%E8%81%8C%E6%95%B0%E6%9C%88%E6%89%8D%E6%89%B9%E8%8E%B7%E8%B5%9456%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [提前15个月还完67万多感觉天亮了](https://www.baidu.com/s?wd=%E6%8F%90%E5%89%8D15%E4%B8%AA%E6%9C%88%E8%BF%98%E5%AE%8C67%E4%B8%87%E5%A4%9A%E6%84%9F%E8%A7%89%E5%A4%A9%E4%BA%AE%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [扬言毁灭人类的女机器人答记者问](https://www.baidu.com/s?wd=%E6%89%AC%E8%A8%80%E6%AF%81%E7%81%AD%E4%BA%BA%E7%B1%BB%E7%9A%84%E5%A5%B3%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AD%94%E8%AE%B0%E8%80%85%E9%97%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [小学生开始去胖东来抢座位了](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%BC%80%E5%A7%8B%E5%8E%BB%E8%83%96%E4%B8%9C%E6%9D%A5%E6%8A%A2%E5%BA%A7%E4%BD%8D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [意大利做出蟋蟀面粉](https://www.baidu.com/s?wd=%E6%84%8F%E5%A4%A7%E5%88%A9%E5%81%9A%E5%87%BA%E8%9F%8B%E8%9F%80%E9%9D%A2%E7%B2%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -46,4 +46,4 @@
 6. [月薪3万女子提离职数月才批获赔56万](https://www.baidu.com/s?wd=%E6%9C%88%E8%96%AA3%E4%B8%87%E5%A5%B3%E5%AD%90%E6%8F%90%E7%A6%BB%E8%81%8C%E6%95%B0%E6%9C%88%E6%89%8D%E6%89%B9%E8%8E%B7%E8%B5%9456%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [提前15个月还完67万多感觉天亮了](https://www.baidu.com/s?wd=%E6%8F%90%E5%89%8D15%E4%B8%AA%E6%9C%88%E8%BF%98%E5%AE%8C67%E4%B8%87%E5%A4%9A%E6%84%9F%E8%A7%89%E5%A4%A9%E4%BA%AE%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [扬言毁灭人类的女机器人答记者问](https://www.baidu.com/s?wd=%E6%89%AC%E8%A8%80%E6%AF%81%E7%81%AD%E4%BA%BA%E7%B1%BB%E7%9A%84%E5%A5%B3%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AD%94%E8%AE%B0%E8%80%85%E9%97%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [小学生开始去胖东来抢座位了](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%BC%80%E5%A7%8B%E5%8E%BB%E8%83%96%E4%B8%9C%E6%9D%A5%E6%8A%A2%E5%BA%A7%E4%BD%8D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [意大利做出蟋蟀面粉](https://www.baidu.com/s?wd=%E6%84%8F%E5%A4%A7%E5%88%A9%E5%81%9A%E5%87%BA%E8%9F%8B%E8%9F%80%E9%9D%A2%E7%B2%89&sa=fyb_news&rsv_dl=fyb_news)<br />
