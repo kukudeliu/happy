@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 17:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 17:08:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [Prada这次找对人了](https://s.weibo.com/weibo?q=%23Prada%E8%BF%99%E6%AC%A1%E6%89%BE%E5%AF%B9%E4%BA%BA%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [娜扎cos芈月](https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8Ecos%E8%8A%88%E6%9C%88%23&t=31&band_rank=5&Refer=top)<br />
 6. [B组签售](https://s.weibo.com/weibo?q=B%E7%BB%84%E7%AD%BE%E5%94%AE&t=31&band_rank=6&Refer=top)<br />
-7. [杨紫工作室公布名誉维权案进展](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%85%AC%E5%B8%83%E5%90%8D%E8%AA%89%E7%BB%B4%E6%9D%83%E6%A1%88%E8%BF%9B%E5%B1%95%23&t=31&band_rank=7&Refer=top)<br />
-8. [TFBOYS十周年演唱会还不官宣吗](https://s.weibo.com/weibo?q=%23TFBOYS%E5%8D%81%E5%91%A8%E5%B9%B4%E6%BC%94%E5%94%B1%E4%BC%9A%E8%BF%98%E4%B8%8D%E5%AE%98%E5%AE%A3%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [李咏女儿将出道](https://s.weibo.com/weibo?q=%E6%9D%8E%E5%92%8F%E5%A5%B3%E5%84%BF%E5%B0%86%E5%87%BA%E9%81%93&t=31&band_rank=9&Refer=top)<br />
+7. [TFBOYS十周年演唱会还不官宣吗](https://s.weibo.com/weibo?q=%23TFBOYS%E5%8D%81%E5%91%A8%E5%B9%B4%E6%BC%94%E5%94%B1%E4%BC%9A%E8%BF%98%E4%B8%8D%E5%AE%98%E5%AE%A3%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
+8. [杨紫工作室公布名誉维权案进展](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%85%AC%E5%B8%83%E5%90%8D%E8%AA%89%E7%BB%B4%E6%9D%83%E6%A1%88%E8%BF%9B%E5%B1%95%23&t=31&band_rank=8&Refer=top)<br />
+9. [EXO回归直播](https://s.weibo.com/weibo?q=EXO%E5%9B%9E%E5%BD%92%E7%9B%B4%E6%92%AD&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
