@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 17:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 17:41:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [怎样模仿《原神》中的「兰那罗」说话？](https://www.zhihu.com/question/557375877)<br />
 7. [刻在人类基因中里的禁令有哪些？](https://www.zhihu.com/question/602124752)<br />
 8. [三十岁的男人该如何表白？](https://www.zhihu.com/question/611116938)<br />
-9. [2023 年 6 月份居民消费价格同比持平，环比下降 0.2%，这一数据说明了什么？](https://www.zhihu.com/question/611291905)<br />
+9. [杭州第 19 届亚运会乒乓球项目参赛名单出炉，王楚钦、樊振东领衔，有哪些选手值得期待？](https://www.zhihu.com/question/611305090)<br />
 
 > 百度  
 
