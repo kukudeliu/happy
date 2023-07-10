@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 11:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 11:34:02</h4></div>
 
 > 微博  
 
-1. [魏大勋算爆了吗](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E7%AE%97%E7%88%86%E4%BA%86%E5%90%97%23&t=31&band_rank=1&Refer=top)<br />
-2. [广东廉江发生一起故意伤害案致6死1伤](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E5%BB%89%E6%B1%9F%E5%8F%91%E7%94%9F%E4%B8%80%E8%B5%B7%E6%95%85%E6%84%8F%E4%BC%A4%E5%AE%B3%E6%A1%88%E8%87%B46%E6%AD%BB1%E4%BC%A4%23&t=31&band_rank=2&Refer=top)<br />
+1. [广东廉江发生一起故意伤害案致6死1伤](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E5%BB%89%E6%B1%9F%E5%8F%91%E7%94%9F%E4%B8%80%E8%B5%B7%E6%95%85%E6%84%8F%E4%BC%A4%E5%AE%B3%E6%A1%88%E8%87%B46%E6%AD%BB1%E4%BC%A4%23&t=31&band_rank=1&Refer=top)<br />
+2. [魏大勋算爆了吗](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E7%AE%97%E7%88%86%E4%BA%86%E5%90%97%23&t=31&band_rank=2&Refer=top)<br />
 3. [高考录取通知查询通道](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E6%9F%A5%E8%AF%A2%E9%80%9A%E9%81%93%23&t=31&band_rank=3&Refer=top)<br />
 4. [为什么不建议要求伴侣情绪稳定](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E5%BB%BA%E8%AE%AE%E8%A6%81%E6%B1%82%E4%BC%B4%E4%BE%A3%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A&t=31&band_rank=4&Refer=top)<br />
 5. [曝李玟老公找律师推翻遗嘱](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E6%9D%8E%E7%8E%9F%E8%80%81%E5%85%AC%E6%89%BE%E5%BE%8B%E5%B8%88%E6%8E%A8%E7%BF%BB%E9%81%97%E5%98%B1%23&t=31&band_rank=5&Refer=top)<br />
