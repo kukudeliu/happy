@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 13:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 13:58:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [吃一半扔一半，研究显示每年我国七大类食物浪费约 4.6 亿吨，如何看待？应对食物损耗浪费有哪些办法？](https://www.zhihu.com/question/610850189)<br />
 7. [如何评价潘粤明和陈数主演的悬疑剧《消失的十一层》？](https://www.zhihu.com/question/610669734)<br />
 8. [都在晒 city walk 的照片，有没有哪个「city work」的瞬间也让你觉得值得记录？](https://www.zhihu.com/question/610473672)<br />
-9. [现在教师资格证有效期三年，是怎么理解的呢？](https://www.zhihu.com/question/52975570)<br />
+9. []()<br />
 
 > 百度  
 
