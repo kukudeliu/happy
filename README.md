@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 13:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 13:43:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [如何看待西安交通大学 2023 届研究生超半数留在西部工作?](https://www.zhihu.com/question/610800309)<br />
 7. [吃一半扔一半，研究显示每年我国七大类食物浪费约 4.6 亿吨，如何看待？应对食物损耗浪费有哪些办法？](https://www.zhihu.com/question/610850189)<br />
 8. [如何评价潘粤明和陈数主演的悬疑剧《消失的十一层》？](https://www.zhihu.com/question/610669734)<br />
-9. [「入职 3 天因公司氛围不好离职了」引发热议，你会因为工作氛围离职吗？你认为薪资和工作氛围哪一个更重要？](https://www.zhihu.com/question/611062462)<br />
+9. [现在教师资格证有效期三年，是怎么理解的呢？](https://www.zhihu.com/question/52975570)<br />
 
 > 百度  
 
@@ -31,10 +31,10 @@
 3. [美媒批耶伦访华3次鞠躬“软弱”](https://www.baidu.com/s?wd=%E7%BE%8E%E5%AA%92%E6%89%B9%E8%80%B6%E4%BC%A6%E8%AE%BF%E5%8D%8E3%E6%AC%A1%E9%9E%A0%E8%BA%AC%E2%80%9C%E8%BD%AF%E5%BC%B1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [挖掘文物价值 讲好中国故事](https://www.baidu.com/s?wd=%E6%8C%96%E6%8E%98%E6%96%87%E7%89%A9%E4%BB%B7%E5%80%BC+%E8%AE%B2%E5%A5%BD%E4%B8%AD%E5%9B%BD%E6%95%85%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [美三架军机同一天在日本上空被雷劈](https://www.baidu.com/s?wd=%E7%BE%8E%E4%B8%89%E6%9E%B6%E5%86%9B%E6%9C%BA%E5%90%8C%E4%B8%80%E5%A4%A9%E5%9C%A8%E6%97%A5%E6%9C%AC%E4%B8%8A%E7%A9%BA%E8%A2%AB%E9%9B%B7%E5%8A%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [乔任梁父亲中毒住院](https://www.baidu.com/s?wd=%E4%B9%94%E4%BB%BB%E6%A2%81%E7%88%B6%E4%BA%B2%E4%B8%AD%E6%AF%92%E4%BD%8F%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [华莎被告发涉嫌演出淫乱罪](https://www.baidu.com/s?wd=%E5%8D%8E%E8%8E%8E%E8%A2%AB%E5%91%8A%E5%8F%91%E6%B6%89%E5%AB%8C%E6%BC%94%E5%87%BA%E6%B7%AB%E4%B9%B1%E7%BD%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [江苏一垃圾桶发现头盖骨？法医查证](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E4%B8%80%E5%9E%83%E5%9C%BE%E6%A1%B6%E5%8F%91%E7%8E%B0%E5%A4%B4%E7%9B%96%E9%AA%A8%EF%BC%9F%E6%B3%95%E5%8C%BB%E6%9F%A5%E8%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [悬赏千万狗主人或涉传播虚假信息罪](https://www.baidu.com/s?wd=%E6%82%AC%E8%B5%8F%E5%8D%83%E4%B8%87%E7%8B%97%E4%B8%BB%E4%BA%BA%E6%88%96%E6%B6%89%E4%BC%A0%E6%92%AD%E8%99%9A%E5%81%87%E4%BF%A1%E6%81%AF%E7%BD%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [华莎被告发涉嫌演出淫乱罪](https://www.baidu.com/s?wd=%E5%8D%8E%E8%8E%8E%E8%A2%AB%E5%91%8A%E5%8F%91%E6%B6%89%E5%AB%8C%E6%BC%94%E5%87%BA%E6%B7%AB%E4%B9%B1%E7%BD%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [江苏一垃圾桶发现头盖骨？法医查证](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E4%B8%80%E5%9E%83%E5%9C%BE%E6%A1%B6%E5%8F%91%E7%8E%B0%E5%A4%B4%E7%9B%96%E9%AA%A8%EF%BC%9F%E6%B3%95%E5%8C%BB%E6%9F%A5%E8%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [讲解员用激光笔照射古画](https://www.baidu.com/s?wd=%E8%AE%B2%E8%A7%A3%E5%91%98%E7%94%A8%E6%BF%80%E5%85%89%E7%AC%94%E7%85%A7%E5%B0%84%E5%8F%A4%E7%94%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [贵州西江千户苗寨突发火灾](https://www.baidu.com/s?wd=%E8%B4%B5%E5%B7%9E%E8%A5%BF%E6%B1%9F%E5%8D%83%E6%88%B7%E8%8B%97%E5%AF%A8%E7%AA%81%E5%8F%91%E7%81%AB%E7%81%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -43,7 +43,7 @@
 3. [美媒批耶伦访华3次鞠躬“软弱”](https://www.baidu.com/s?wd=%E7%BE%8E%E5%AA%92%E6%89%B9%E8%80%B6%E4%BC%A6%E8%AE%BF%E5%8D%8E3%E6%AC%A1%E9%9E%A0%E8%BA%AC%E2%80%9C%E8%BD%AF%E5%BC%B1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [挖掘文物价值 讲好中国故事](https://www.baidu.com/s?wd=%E6%8C%96%E6%8E%98%E6%96%87%E7%89%A9%E4%BB%B7%E5%80%BC+%E8%AE%B2%E5%A5%BD%E4%B8%AD%E5%9B%BD%E6%95%85%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [美三架军机同一天在日本上空被雷劈](https://www.baidu.com/s?wd=%E7%BE%8E%E4%B8%89%E6%9E%B6%E5%86%9B%E6%9C%BA%E5%90%8C%E4%B8%80%E5%A4%A9%E5%9C%A8%E6%97%A5%E6%9C%AC%E4%B8%8A%E7%A9%BA%E8%A2%AB%E9%9B%B7%E5%8A%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [乔任梁父亲中毒住院](https://www.baidu.com/s?wd=%E4%B9%94%E4%BB%BB%E6%A2%81%E7%88%B6%E4%BA%B2%E4%B8%AD%E6%AF%92%E4%BD%8F%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [华莎被告发涉嫌演出淫乱罪](https://www.baidu.com/s?wd=%E5%8D%8E%E8%8E%8E%E8%A2%AB%E5%91%8A%E5%8F%91%E6%B6%89%E5%AB%8C%E6%BC%94%E5%87%BA%E6%B7%AB%E4%B9%B1%E7%BD%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [江苏一垃圾桶发现头盖骨？法医查证](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E4%B8%80%E5%9E%83%E5%9C%BE%E6%A1%B6%E5%8F%91%E7%8E%B0%E5%A4%B4%E7%9B%96%E9%AA%A8%EF%BC%9F%E6%B3%95%E5%8C%BB%E6%9F%A5%E8%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [悬赏千万狗主人或涉传播虚假信息罪](https://www.baidu.com/s?wd=%E6%82%AC%E8%B5%8F%E5%8D%83%E4%B8%87%E7%8B%97%E4%B8%BB%E4%BA%BA%E6%88%96%E6%B6%89%E4%BC%A0%E6%92%AD%E8%99%9A%E5%81%87%E4%BF%A1%E6%81%AF%E7%BD%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [华莎被告发涉嫌演出淫乱罪](https://www.baidu.com/s?wd=%E5%8D%8E%E8%8E%8E%E8%A2%AB%E5%91%8A%E5%8F%91%E6%B6%89%E5%AB%8C%E6%BC%94%E5%87%BA%E6%B7%AB%E4%B9%B1%E7%BD%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [江苏一垃圾桶发现头盖骨？法医查证](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E4%B8%80%E5%9E%83%E5%9C%BE%E6%A1%B6%E5%8F%91%E7%8E%B0%E5%A4%B4%E7%9B%96%E9%AA%A8%EF%BC%9F%E6%B3%95%E5%8C%BB%E6%9F%A5%E8%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [讲解员用激光笔照射古画](https://www.baidu.com/s?wd=%E8%AE%B2%E8%A7%A3%E5%91%98%E7%94%A8%E6%BF%80%E5%85%89%E7%AC%94%E7%85%A7%E5%B0%84%E5%8F%A4%E7%94%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [贵州西江千户苗寨突发火灾](https://www.baidu.com/s?wd=%E8%B4%B5%E5%B7%9E%E8%A5%BF%E6%B1%9F%E5%8D%83%E6%88%B7%E8%8B%97%E5%AF%A8%E7%AA%81%E5%8F%91%E7%81%AB%E7%81%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
