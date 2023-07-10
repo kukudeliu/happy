@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 22:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 22:05:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [特斯拉最新引荐购车奖励规则公布，最高可奖 7000 元，哪些信息值得关注？](https://www.zhihu.com/question/611291930)<br />
 7. [两部门发文，将延长金融支持房地产市场平稳健康发展有关政策期限，释放了什么信号？将产生哪些影响？](https://www.zhihu.com/question/611373099)<br />
 8. [工农业剪刀差是如何促进工业发展的?](https://www.zhihu.com/question/557559100)<br />
-9. [《王者荣耀》为什么不推出水浒人物作为英雄？](https://www.zhihu.com/question/610339236)<br />
+9. [学生第一次买台式还是笔记本?](https://www.zhihu.com/question/608408433)<br />
 
 > 百度  
 
