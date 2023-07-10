@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 22:18:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 22:19:01</h4></div>
 
 > 微博  
 
@@ -6,9 +6,9 @@
 2. [黄渤一把拉走袁泉](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%B8%A4%E4%B8%80%E6%8A%8A%E6%8B%89%E8%B5%B0%E8%A2%81%E6%B3%89%23&t=31&band_rank=2&Refer=top)<br />
 3. [盛世中华何以中国](https://s.weibo.com/weibo?q=%23%E7%9B%9B%E4%B8%96%E4%B8%AD%E5%8D%8E%E4%BD%95%E4%BB%A5%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top)<br />
 4. [Prada这次找对人了](https://s.weibo.com/weibo?q=%23Prada%E8%BF%99%E6%AC%A1%E6%89%BE%E5%AF%B9%E4%BA%BA%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
-5. [曾少年女大学生吃菌子出幻觉](https://s.weibo.com/weibo?q=%23%E6%9B%BE%E5%B0%91%E5%B9%B4%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%90%83%E8%8F%8C%E5%AD%90%E5%87%BA%E5%B9%BB%E8%A7%89%23&t=31&band_rank=5&Refer=top)<br />
+5. [关晓彤范丞丞新剧吻戏](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E8%8C%83%E4%B8%9E%E4%B8%9E%E6%96%B0%E5%89%A7%E5%90%BB%E6%88%8F%23&t=31&band_rank=5&Refer=top)<br />
 6. [女孩高考超一本线35分却报专科](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E9%AB%98%E8%80%83%E8%B6%85%E4%B8%80%E6%9C%AC%E7%BA%BF35%E5%88%86%E5%8D%B4%E6%8A%A5%E4%B8%93%E7%A7%91%23&t=31&band_rank=6&Refer=top)<br />
-7. [关晓彤范丞丞新剧吻戏](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E8%8C%83%E4%B8%9E%E4%B8%9E%E6%96%B0%E5%89%A7%E5%90%BB%E6%88%8F%23&t=31&band_rank=7&Refer=top)<br />
+7. [曾少年女大学生吃菌子出幻觉](https://s.weibo.com/weibo?q=%23%E6%9B%BE%E5%B0%91%E5%B9%B4%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%90%83%E8%8F%8C%E5%AD%90%E5%87%BA%E5%B9%BB%E8%A7%89%23&t=31&band_rank=7&Refer=top)<br />
 8. [芈月宝格丽新皮肤](https://s.weibo.com/weibo?q=%23%E8%8A%88%E6%9C%88%E5%AE%9D%E6%A0%BC%E4%B8%BD%E6%96%B0%E7%9A%AE%E8%82%A4%23&t=31&band_rank=8&Refer=top)<br />
 9. [普京6月29日在克宫会见普里戈任](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC6%E6%9C%8829%E6%97%A5%E5%9C%A8%E5%85%8B%E5%AE%AB%E4%BC%9A%E8%A7%81%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%23&t=31&band_rank=9&Refer=top)<br />
 
