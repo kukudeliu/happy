@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-11 03:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-11 03:40:02</h4></div>
 
 > 微博  
 
@@ -33,7 +33,7 @@
 5. [航班遇严重颠簸 空姐被甩到天花板](https://www.baidu.com/s?wd=%E8%88%AA%E7%8F%AD%E9%81%87%E4%B8%A5%E9%87%8D%E9%A2%A0%E7%B0%B8+%E7%A9%BA%E5%A7%90%E8%A2%AB%E7%94%A9%E5%88%B0%E5%A4%A9%E8%8A%B1%E6%9D%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [黄渤一把拉走袁泉](https://www.baidu.com/s?wd=%E9%BB%84%E6%B8%A4%E4%B8%80%E6%8A%8A%E6%8B%89%E8%B5%B0%E8%A2%81%E6%B3%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [贝克汉姆亲自“刷墙”迎接梅西](https://www.baidu.com/s?wd=%E8%B4%9D%E5%85%8B%E6%B1%89%E5%A7%86%E4%BA%B2%E8%87%AA%E2%80%9C%E5%88%B7%E5%A2%99%E2%80%9D%E8%BF%8E%E6%8E%A5%E6%A2%85%E8%A5%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女孩高考超一本线35分却报专科](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E9%AB%98%E8%80%83%E8%B6%85%E4%B8%80%E6%9C%AC%E7%BA%BF35%E5%88%86%E5%8D%B4%E6%8A%A5%E4%B8%93%E7%A7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [高铁路过桂林乘客齐刷刷惊叹拍照](https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E8%B7%AF%E8%BF%87%E6%A1%82%E6%9E%97%E4%B9%98%E5%AE%A2%E9%BD%90%E5%88%B7%E5%88%B7%E6%83%8A%E5%8F%B9%E6%8B%8D%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [华莎被告发涉嫌演出淫乱罪](https://www.baidu.com/s?wd=%E5%8D%8E%E8%8E%8E%E8%A2%AB%E5%91%8A%E5%8F%91%E6%B6%89%E5%AB%8C%E6%BC%94%E5%87%BA%E6%B7%AB%E4%B9%B1%E7%BD%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -45,5 +45,5 @@
 5. [航班遇严重颠簸 空姐被甩到天花板](https://www.baidu.com/s?wd=%E8%88%AA%E7%8F%AD%E9%81%87%E4%B8%A5%E9%87%8D%E9%A2%A0%E7%B0%B8+%E7%A9%BA%E5%A7%90%E8%A2%AB%E7%94%A9%E5%88%B0%E5%A4%A9%E8%8A%B1%E6%9D%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [黄渤一把拉走袁泉](https://www.baidu.com/s?wd=%E9%BB%84%E6%B8%A4%E4%B8%80%E6%8A%8A%E6%8B%89%E8%B5%B0%E8%A2%81%E6%B3%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [贝克汉姆亲自“刷墙”迎接梅西](https://www.baidu.com/s?wd=%E8%B4%9D%E5%85%8B%E6%B1%89%E5%A7%86%E4%BA%B2%E8%87%AA%E2%80%9C%E5%88%B7%E5%A2%99%E2%80%9D%E8%BF%8E%E6%8E%A5%E6%A2%85%E8%A5%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女孩高考超一本线35分却报专科](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E9%AB%98%E8%80%83%E8%B6%85%E4%B8%80%E6%9C%AC%E7%BA%BF35%E5%88%86%E5%8D%B4%E6%8A%A5%E4%B8%93%E7%A7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [高铁路过桂林乘客齐刷刷惊叹拍照](https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E8%B7%AF%E8%BF%87%E6%A1%82%E6%9E%97%E4%B9%98%E5%AE%A2%E9%BD%90%E5%88%B7%E5%88%B7%E6%83%8A%E5%8F%B9%E6%8B%8D%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [华莎被告发涉嫌演出淫乱罪](https://www.baidu.com/s?wd=%E5%8D%8E%E8%8E%8E%E8%A2%AB%E5%91%8A%E5%8F%91%E6%B6%89%E5%AB%8C%E6%BC%94%E5%87%BA%E6%B7%AB%E4%B9%B1%E7%BD%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
