@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 21:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 21:09:01</h4></div>
 
 > 微博  
 
@@ -31,9 +31,9 @@
 3. [现在的热只是预热](https://www.baidu.com/s?wd=%E7%8E%B0%E5%9C%A8%E7%9A%84%E7%83%AD%E5%8F%AA%E6%98%AF%E9%A2%84%E7%83%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [坚守好魂和根](https://www.baidu.com/s?wd=%E5%9D%9A%E5%AE%88%E5%A5%BD%E9%AD%82%E5%92%8C%E6%A0%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [西安发现一例猴痘病例](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E5%8F%91%E7%8E%B0%E4%B8%80%E4%BE%8B%E7%8C%B4%E7%97%98%E7%97%85%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男子性侵少女被当众鞭打？警方回应](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%80%A7%E4%BE%B5%E5%B0%91%E5%A5%B3%E8%A2%AB%E5%BD%93%E4%BC%97%E9%9E%AD%E6%89%93%EF%BC%9F%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [淄博两烧烤店老板当街大打出手](https://www.baidu.com/s?wd=%E6%B7%84%E5%8D%9A%E4%B8%A4%E7%83%A7%E7%83%A4%E5%BA%97%E8%80%81%E6%9D%BF%E5%BD%93%E8%A1%97%E5%A4%A7%E6%89%93%E5%87%BA%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [四川一老人路中抛扔双胞胎女婴](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E8%80%81%E4%BA%BA%E8%B7%AF%E4%B8%AD%E6%8A%9B%E6%89%94%E5%8F%8C%E8%83%9E%E8%83%8E%E5%A5%B3%E5%A9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [高校教授入展作品虚焦过曝被质疑](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E6%95%99%E6%8E%88%E5%85%A5%E5%B1%95%E4%BD%9C%E5%93%81%E8%99%9A%E7%84%A6%E8%BF%87%E6%9B%9D%E8%A2%AB%E8%B4%A8%E7%96%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子性侵少女被当众鞭打？警方回应](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%80%A7%E4%BE%B5%E5%B0%91%E5%A5%B3%E8%A2%AB%E5%BD%93%E4%BC%97%E9%9E%AD%E6%89%93%EF%BC%9F%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [淄博两烧烤店老板当街大打出手](https://www.baidu.com/s?wd=%E6%B7%84%E5%8D%9A%E4%B8%A4%E7%83%A7%E7%83%A4%E5%BA%97%E8%80%81%E6%9D%BF%E5%BD%93%E8%A1%97%E5%A4%A7%E6%89%93%E5%87%BA%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [高铁路过桂林乘客齐刷刷惊叹拍照](https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E8%B7%AF%E8%BF%87%E6%A1%82%E6%9E%97%E4%B9%98%E5%AE%A2%E9%BD%90%E5%88%B7%E5%88%B7%E6%83%8A%E5%8F%B9%E6%8B%8D%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -43,7 +43,7 @@
 3. [现在的热只是预热](https://www.baidu.com/s?wd=%E7%8E%B0%E5%9C%A8%E7%9A%84%E7%83%AD%E5%8F%AA%E6%98%AF%E9%A2%84%E7%83%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [坚守好魂和根](https://www.baidu.com/s?wd=%E5%9D%9A%E5%AE%88%E5%A5%BD%E9%AD%82%E5%92%8C%E6%A0%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [西安发现一例猴痘病例](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E5%8F%91%E7%8E%B0%E4%B8%80%E4%BE%8B%E7%8C%B4%E7%97%98%E7%97%85%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男子性侵少女被当众鞭打？警方回应](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%80%A7%E4%BE%B5%E5%B0%91%E5%A5%B3%E8%A2%AB%E5%BD%93%E4%BC%97%E9%9E%AD%E6%89%93%EF%BC%9F%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [淄博两烧烤店老板当街大打出手](https://www.baidu.com/s?wd=%E6%B7%84%E5%8D%9A%E4%B8%A4%E7%83%A7%E7%83%A4%E5%BA%97%E8%80%81%E6%9D%BF%E5%BD%93%E8%A1%97%E5%A4%A7%E6%89%93%E5%87%BA%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [四川一老人路中抛扔双胞胎女婴](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E8%80%81%E4%BA%BA%E8%B7%AF%E4%B8%AD%E6%8A%9B%E6%89%94%E5%8F%8C%E8%83%9E%E8%83%8E%E5%A5%B3%E5%A9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [高校教授入展作品虚焦过曝被质疑](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E6%95%99%E6%8E%88%E5%85%A5%E5%B1%95%E4%BD%9C%E5%93%81%E8%99%9A%E7%84%A6%E8%BF%87%E6%9B%9D%E8%A2%AB%E8%B4%A8%E7%96%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子性侵少女被当众鞭打？警方回应](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%80%A7%E4%BE%B5%E5%B0%91%E5%A5%B3%E8%A2%AB%E5%BD%93%E4%BC%97%E9%9E%AD%E6%89%93%EF%BC%9F%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [淄博两烧烤店老板当街大打出手](https://www.baidu.com/s?wd=%E6%B7%84%E5%8D%9A%E4%B8%A4%E7%83%A7%E7%83%A4%E5%BA%97%E8%80%81%E6%9D%BF%E5%BD%93%E8%A1%97%E5%A4%A7%E6%89%93%E5%87%BA%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [高铁路过桂林乘客齐刷刷惊叹拍照](https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E8%B7%AF%E8%BF%87%E6%A1%82%E6%9E%97%E4%B9%98%E5%AE%A2%E9%BD%90%E5%88%B7%E5%88%B7%E6%83%8A%E5%8F%B9%E6%8B%8D%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
