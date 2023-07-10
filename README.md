@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 12:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 12:51:02</h4></div>
 
 > 微博  
 
@@ -15,7 +15,7 @@
 > 知乎  
 
 1. [美财长耶伦召开记者会总结访华，称「累计谈了约 10 个小时，富有成效」，透露了哪些信息？](https://www.zhihu.com/question/611205658)<br />
-2. [专家称近期可能是十万年来最热一周，为何这么热？是什么原因造成的？](https://www.zhihu.com/question/611194015)<br />
+2. [专家称本周可能是十万年来最热一周，为何这么热？是什么原因造成的？](https://www.zhihu.com/question/611194015)<br />
 3. [如何看待今年哈工大威海校区普通批招生人数竟然超过本部，招生占比 40%?](https://www.zhihu.com/question/608059596)<br />
 4. [《王者荣耀》为什么不推出水浒人物作为英雄？](https://www.zhihu.com/question/610339236)<br />
 5. [如何才能在不增加收入的条件下促进消费？](https://www.zhihu.com/question/594506055)<br />
