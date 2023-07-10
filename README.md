@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 11:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 11:40:02</h4></div>
 
 > 微博  
 
@@ -18,18 +18,18 @@
 2. [专家称本周可能是十万年来最热一周，为何这么热？是什么原因造成的？](https://www.zhihu.com/question/611194015)<br />
 3. [如何看待今年哈工大威海校区普通批招生人数竟然超过本部，招生占比 40%?](https://www.zhihu.com/question/608059596)<br />
 4. [OpenAI 将向所有 ChatGPT Plus 用户开放代码解析器功能，将带来哪些改变？](https://www.zhihu.com/question/611024514)<br />
-5. [现在教师资格证有效期三年，是怎么理解的呢？](https://www.zhihu.com/question/52975570)<br />
-6. []()<br />
-7. [《王者荣耀》为什么不推出水浒人物作为英雄？](https://www.zhihu.com/question/610339236)<br />
+5. [为什么《艾尔登法环》让我感觉缺乏文学造诣，除了砍砍杀杀没给思辨留有余地？](https://www.zhihu.com/question/609146999)<br />
+6. [《王者荣耀》为什么不推出水浒人物作为英雄？](https://www.zhihu.com/question/610339236)<br />
+7. [现在教师资格证有效期三年，是怎么理解的呢？](https://www.zhihu.com/question/52975570)<br />
 8. [如何才能在不增加收入的条件下促进消费？](https://www.zhihu.com/question/594506055)<br />
 9. [WTT 卢布尔雅那站男单决赛，樊振东 4:3 力克王楚钦夺冠，证明了他依旧是乒坛的霸主，如何评价这场对决？](https://www.zhihu.com/question/611262204)<br />
 
 > 百度  
 
-1. [谱写“强富美高”新篇章](https://www.baidu.com/s?wd=%E8%B0%B1%E5%86%99%E2%80%9C%E5%BC%BA%E5%AF%8C%E7%BE%8E%E9%AB%98%E2%80%9D%E6%96%B0%E7%AF%87%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [中华优秀传统文化代代相传](https://www.baidu.com/s?wd=%E4%B8%AD%E5%8D%8E%E4%BC%98%E7%A7%80%E4%BC%A0%E7%BB%9F%E6%96%87%E5%8C%96%E4%BB%A3%E4%BB%A3%E7%9B%B8%E4%BC%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [美媒批耶伦访华3次鞠躬“软弱”](https://www.baidu.com/s?wd=%E7%BE%8E%E5%AA%92%E6%89%B9%E8%80%B6%E4%BC%A6%E8%AE%BF%E5%8D%8E3%E6%AC%A1%E9%9E%A0%E8%BA%AC%E2%80%9C%E8%BD%AF%E5%BC%B1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [明起正式入伏 5省份局地达40℃以上](https://www.baidu.com/s?wd=%E6%98%8E%E8%B5%B7%E6%AD%A3%E5%BC%8F%E5%85%A5%E4%BC%8F+5%E7%9C%81%E4%BB%BD%E5%B1%80%E5%9C%B0%E8%BE%BE40%E2%84%83%E4%BB%A5%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [多项重点工程取得突破](https://www.baidu.com/s?wd=%E5%A4%9A%E9%A1%B9%E9%87%8D%E7%82%B9%E5%B7%A5%E7%A8%8B%E5%8F%96%E5%BE%97%E7%AA%81%E7%A0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [挖掘文物价值 讲好中国故事](https://www.baidu.com/s?wd=%E6%8C%96%E6%8E%98%E6%96%87%E7%89%A9%E4%BB%B7%E5%80%BC+%E8%AE%B2%E5%A5%BD%E4%B8%AD%E5%9B%BD%E6%95%85%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [广东廉江发生故意伤人案致6死1伤](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E5%BB%89%E6%B1%9F%E5%8F%91%E7%94%9F%E6%95%85%E6%84%8F%E4%BC%A4%E4%BA%BA%E6%A1%88%E8%87%B46%E6%AD%BB1%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [郑州通报河道贴瓷砖:项目造价650万](https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E9%80%9A%E6%8A%A5%E6%B2%B3%E9%81%93%E8%B4%B4%E7%93%B7%E7%A0%96%3A%E9%A1%B9%E7%9B%AE%E9%80%A0%E4%BB%B7650%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李玟二姐回应李玟老公争遗产](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E4%BA%8C%E5%A7%90%E5%9B%9E%E5%BA%94%E6%9D%8E%E7%8E%9F%E8%80%81%E5%85%AC%E4%BA%89%E9%81%97%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -38,10 +38,10 @@
 
 > 哔哩哔哩  
 
-1. [谱写“强富美高”新篇章](https://www.baidu.com/s?wd=%E8%B0%B1%E5%86%99%E2%80%9C%E5%BC%BA%E5%AF%8C%E7%BE%8E%E9%AB%98%E2%80%9D%E6%96%B0%E7%AF%87%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [中华优秀传统文化代代相传](https://www.baidu.com/s?wd=%E4%B8%AD%E5%8D%8E%E4%BC%98%E7%A7%80%E4%BC%A0%E7%BB%9F%E6%96%87%E5%8C%96%E4%BB%A3%E4%BB%A3%E7%9B%B8%E4%BC%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [美媒批耶伦访华3次鞠躬“软弱”](https://www.baidu.com/s?wd=%E7%BE%8E%E5%AA%92%E6%89%B9%E8%80%B6%E4%BC%A6%E8%AE%BF%E5%8D%8E3%E6%AC%A1%E9%9E%A0%E8%BA%AC%E2%80%9C%E8%BD%AF%E5%BC%B1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [明起正式入伏 5省份局地达40℃以上](https://www.baidu.com/s?wd=%E6%98%8E%E8%B5%B7%E6%AD%A3%E5%BC%8F%E5%85%A5%E4%BC%8F+5%E7%9C%81%E4%BB%BD%E5%B1%80%E5%9C%B0%E8%BE%BE40%E2%84%83%E4%BB%A5%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [多项重点工程取得突破](https://www.baidu.com/s?wd=%E5%A4%9A%E9%A1%B9%E9%87%8D%E7%82%B9%E5%B7%A5%E7%A8%8B%E5%8F%96%E5%BE%97%E7%AA%81%E7%A0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [挖掘文物价值 讲好中国故事](https://www.baidu.com/s?wd=%E6%8C%96%E6%8E%98%E6%96%87%E7%89%A9%E4%BB%B7%E5%80%BC+%E8%AE%B2%E5%A5%BD%E4%B8%AD%E5%9B%BD%E6%95%85%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [广东廉江发生故意伤人案致6死1伤](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E5%BB%89%E6%B1%9F%E5%8F%91%E7%94%9F%E6%95%85%E6%84%8F%E4%BC%A4%E4%BA%BA%E6%A1%88%E8%87%B46%E6%AD%BB1%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [郑州通报河道贴瓷砖:项目造价650万](https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E9%80%9A%E6%8A%A5%E6%B2%B3%E9%81%93%E8%B4%B4%E7%93%B7%E7%A0%96%3A%E9%A1%B9%E7%9B%AE%E9%80%A0%E4%BB%B7650%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李玟二姐回应李玟老公争遗产](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E4%BA%8C%E5%A7%90%E5%9B%9E%E5%BA%94%E6%9D%8E%E7%8E%9F%E8%80%81%E5%85%AC%E4%BA%89%E9%81%97%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
