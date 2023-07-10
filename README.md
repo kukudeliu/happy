@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 21:23:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 21:24:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 2. [《王者荣耀》为什么不推出水浒人物作为英雄？](https://www.zhihu.com/question/610339236)<br />
 3. [春秋战国时期诸侯国动辄就能有十几万军队参战，怎么到明清时期只有几千人了？](https://www.zhihu.com/question/611197393)<br />
 4. [长期坚持运动对外貌有多大的改善？](https://www.zhihu.com/question/585683617)<br />
-5. [很多人找不到好的投资产品，把提前还贷当作高收益投资的替代品，这一做法可取吗？房贷有必要提前还吗？](https://www.zhihu.com/theater/98961)<br />
+5. [6 月 CPI 进入零增长时代，资产荒又来袭，人们为何不愿花钱？钱要怎么「花」更合理？](https://www.zhihu.com/theater/98961)<br />
 6. [如果每天都感觉工作压力很大，感觉生活中只有「city work」了，该逃离大城市及时止损吗？](https://www.zhihu.com/question/611350258)<br />
 7. [特斯拉最新引荐购车奖励规则公布，最高可奖 7000 元，哪些信息值得关注？](https://www.zhihu.com/question/611291930)<br />
 8. [学生第一次买台式还是笔记本?](https://www.zhihu.com/question/608408433)<br />
@@ -33,8 +33,8 @@
 5. [西安发现一例猴痘病例](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E5%8F%91%E7%8E%B0%E4%B8%80%E4%BE%8B%E7%8C%B4%E7%97%98%E7%97%85%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [高铁路过桂林乘客齐刷刷惊叹拍照](https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E8%B7%AF%E8%BF%87%E6%A1%82%E6%9E%97%E4%B9%98%E5%AE%A2%E9%BD%90%E5%88%B7%E5%88%B7%E6%83%8A%E5%8F%B9%E6%8B%8D%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子性侵少女被当众鞭打？警方回应](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%80%A7%E4%BE%B5%E5%B0%91%E5%A5%B3%E8%A2%AB%E5%BD%93%E4%BC%97%E9%9E%AD%E6%89%93%EF%BC%9F%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [淄博两烧烤店老板当街大打出手](https://www.baidu.com/s?wd=%E6%B7%84%E5%8D%9A%E4%B8%A4%E7%83%A7%E7%83%A4%E5%BA%97%E8%80%81%E6%9D%BF%E5%BD%93%E8%A1%97%E5%A4%A7%E6%89%93%E5%87%BA%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [四川一老人路中抛扔双胞胎女婴](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E8%80%81%E4%BA%BA%E8%B7%AF%E4%B8%AD%E6%8A%9B%E6%89%94%E5%8F%8C%E8%83%9E%E8%83%8E%E5%A5%B3%E5%A9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [四川一老人路中抛扔双胞胎女婴](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E8%80%81%E4%BA%BA%E8%B7%AF%E4%B8%AD%E6%8A%9B%E6%89%94%E5%8F%8C%E8%83%9E%E8%83%8E%E5%A5%B3%E5%A9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [淄博两烧烤店老板当街大打出手](https://www.baidu.com/s?wd=%E6%B7%84%E5%8D%9A%E4%B8%A4%E7%83%A7%E7%83%A4%E5%BA%97%E8%80%81%E6%9D%BF%E5%BD%93%E8%A1%97%E5%A4%A7%E6%89%93%E5%87%BA%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [西安发现一例猴痘病例](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E5%8F%91%E7%8E%B0%E4%B8%80%E4%BE%8B%E7%8C%B4%E7%97%98%E7%97%85%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [高铁路过桂林乘客齐刷刷惊叹拍照](https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E8%B7%AF%E8%BF%87%E6%A1%82%E6%9E%97%E4%B9%98%E5%AE%A2%E9%BD%90%E5%88%B7%E5%88%B7%E6%83%8A%E5%8F%B9%E6%8B%8D%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子性侵少女被当众鞭打？警方回应](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%80%A7%E4%BE%B5%E5%B0%91%E5%A5%B3%E8%A2%AB%E5%BD%93%E4%BC%97%E9%9E%AD%E6%89%93%EF%BC%9F%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [淄博两烧烤店老板当街大打出手](https://www.baidu.com/s?wd=%E6%B7%84%E5%8D%9A%E4%B8%A4%E7%83%A7%E7%83%A4%E5%BA%97%E8%80%81%E6%9D%BF%E5%BD%93%E8%A1%97%E5%A4%A7%E6%89%93%E5%87%BA%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [四川一老人路中抛扔双胞胎女婴](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E8%80%81%E4%BA%BA%E8%B7%AF%E4%B8%AD%E6%8A%9B%E6%89%94%E5%8F%8C%E8%83%9E%E8%83%8E%E5%A5%B3%E5%A9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [四川一老人路中抛扔双胞胎女婴](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E8%80%81%E4%BA%BA%E8%B7%AF%E4%B8%AD%E6%8A%9B%E6%89%94%E5%8F%8C%E8%83%9E%E8%83%8E%E5%A5%B3%E5%A9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [淄博两烧烤店老板当街大打出手](https://www.baidu.com/s?wd=%E6%B7%84%E5%8D%9A%E4%B8%A4%E7%83%A7%E7%83%A4%E5%BA%97%E8%80%81%E6%9D%BF%E5%BD%93%E8%A1%97%E5%A4%A7%E6%89%93%E5%87%BA%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
