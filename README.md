@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 21:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 21:43:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 6. [春秋战国时期诸侯国动辄就能有十几万军队参战，怎么到明清时期只有几千人了？](https://www.zhihu.com/question/611197393)<br />
 7. [特斯拉最新引荐购车奖励规则公布，最高可奖 7000 元，哪些信息值得关注？](https://www.zhihu.com/question/611291930)<br />
 8. [工农业剪刀差是如何促进工业发展的?](https://www.zhihu.com/question/557559100)<br />
-9. [长期坚持运动对外貌有多大的改善？](https://www.zhihu.com/question/585683617)<br />
+9. [学生第一次买台式还是笔记本?](https://www.zhihu.com/question/608408433)<br />
 
 > 百度  
 
