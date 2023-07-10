@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 08:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 08:47:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [七月辞职 狼多肉少](https://s.weibo.com/weibo?q=%E4%B8%83%E6%9C%88%E8%BE%9E%E8%81%8C%20%E7%8B%BC%E5%A4%9A%E8%82%89%E5%B0%91&t=31&band_rank=6&Refer=top)<br />
 7. [肖战回应火烧云](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%9B%9E%E5%BA%94%E7%81%AB%E7%83%A7%E4%BA%91%23&t=31&band_rank=7&Refer=top)<br />
 8. [宋焰的不幸 和女主相爱](https://s.weibo.com/weibo?q=%E5%AE%8B%E7%84%B0%E7%9A%84%E4%B8%8D%E5%B9%B8%20%E5%92%8C%E5%A5%B3%E4%B8%BB%E7%9B%B8%E7%88%B1&t=31&band_rank=8&Refer=top)<br />
-9. [首尔街头采访韩国人加班](https://s.weibo.com/weibo?q=%E9%A6%96%E5%B0%94%E8%A1%97%E5%A4%B4%E9%87%87%E8%AE%BF%E9%9F%A9%E5%9B%BD%E4%BA%BA%E5%8A%A0%E7%8F%AD&t=31&band_rank=9&Refer=top)<br />
+9. [专家预计今年全球还将多次打破高温纪录](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E9%A2%84%E8%AE%A1%E4%BB%8A%E5%B9%B4%E5%85%A8%E7%90%83%E8%BF%98%E5%B0%86%E5%A4%9A%E6%AC%A1%E6%89%93%E7%A0%B4%E9%AB%98%E6%B8%A9%E7%BA%AA%E5%BD%95%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
