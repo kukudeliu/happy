@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 23:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-10 23:14:02</h4></div>
 
 > 微博  
 
@@ -33,8 +33,8 @@
 5. [西安发现一例猴痘病例](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E5%8F%91%E7%8E%B0%E4%B8%80%E4%BE%8B%E7%8C%B4%E7%97%98%E7%97%85%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女孩高考超一本线35分却报专科](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E9%AB%98%E8%80%83%E8%B6%85%E4%B8%80%E6%9C%AC%E7%BA%BF35%E5%88%86%E5%8D%B4%E6%8A%A5%E4%B8%93%E7%A7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [印尼一工厂上百人失控狂哭抽搐](https://www.baidu.com/s?wd=%E5%8D%B0%E5%B0%BC%E4%B8%80%E5%B7%A5%E5%8E%82%E4%B8%8A%E7%99%BE%E4%BA%BA%E5%A4%B1%E6%8E%A7%E7%8B%82%E5%93%AD%E6%8A%BD%E6%90%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [官方通报营口钢铁致5死4伤事故](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E8%90%A5%E5%8F%A3%E9%92%A2%E9%93%81%E8%87%B45%E6%AD%BB4%E4%BC%A4%E4%BA%8B%E6%95%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [小学给毕业生发智障证？校方回应](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E7%BB%99%E6%AF%95%E4%B8%9A%E7%94%9F%E5%8F%91%E6%99%BA%E9%9A%9C%E8%AF%81%EF%BC%9F%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [全球多地遭遇极端高温天气](https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E5%A4%9A%E5%9C%B0%E9%81%AD%E9%81%87%E6%9E%81%E7%AB%AF%E9%AB%98%E6%B8%A9%E5%A4%A9%E6%B0%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [官方通报营口钢铁致5死4伤事故](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E8%90%A5%E5%8F%A3%E9%92%A2%E9%93%81%E8%87%B45%E6%AD%BB4%E4%BC%A4%E4%BA%8B%E6%95%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -45,5 +45,5 @@
 5. [西安发现一例猴痘病例](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E5%8F%91%E7%8E%B0%E4%B8%80%E4%BE%8B%E7%8C%B4%E7%97%98%E7%97%85%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女孩高考超一本线35分却报专科](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E9%AB%98%E8%80%83%E8%B6%85%E4%B8%80%E6%9C%AC%E7%BA%BF35%E5%88%86%E5%8D%B4%E6%8A%A5%E4%B8%93%E7%A7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [印尼一工厂上百人失控狂哭抽搐](https://www.baidu.com/s?wd=%E5%8D%B0%E5%B0%BC%E4%B8%80%E5%B7%A5%E5%8E%82%E4%B8%8A%E7%99%BE%E4%BA%BA%E5%A4%B1%E6%8E%A7%E7%8B%82%E5%93%AD%E6%8A%BD%E6%90%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [官方通报营口钢铁致5死4伤事故](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E8%90%A5%E5%8F%A3%E9%92%A2%E9%93%81%E8%87%B45%E6%AD%BB4%E4%BC%A4%E4%BA%8B%E6%95%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [小学给毕业生发智障证？校方回应](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E7%BB%99%E6%AF%95%E4%B8%9A%E7%94%9F%E5%8F%91%E6%99%BA%E9%9A%9C%E8%AF%81%EF%BC%9F%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [全球多地遭遇极端高温天气](https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E5%A4%9A%E5%9C%B0%E9%81%AD%E9%81%87%E6%9E%81%E7%AB%AF%E9%AB%98%E6%B8%A9%E5%A4%A9%E6%B0%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [官方通报营口钢铁致5死4伤事故](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E8%90%A5%E5%8F%A3%E9%92%A2%E9%93%81%E8%87%B45%E6%AD%BB4%E4%BC%A4%E4%BA%8B%E6%95%85&sa=fyb_news&rsv_dl=fyb_news)<br />
