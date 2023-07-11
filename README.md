@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-11 17:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-11 17:37:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [高叶工作室解散后援会](https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%8F%B6%E5%B7%A5%E4%BD%9C%E5%AE%A4%E8%A7%A3%E6%95%A3%E5%90%8E%E6%8F%B4%E4%BC%9A%23&t=31&band_rank=6&Refer=top)<br />
 7. [魏大勋演出了乌木沉香](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E6%BC%94%E5%87%BA%E4%BA%86%E4%B9%8C%E6%9C%A8%E6%B2%89%E9%A6%99%23&t=31&band_rank=7&Refer=top)<br />
 8. [肖战新剧妆造](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%96%B0%E5%89%A7%E5%A6%86%E9%80%A0%23&t=31&band_rank=8&Refer=top)<br />
-9. [宝格丽谁会第一个解约](https://s.weibo.com/weibo?q=%23%E5%AE%9D%E6%A0%BC%E4%B8%BD%E8%B0%81%E4%BC%9A%E7%AC%AC%E4%B8%80%E4%B8%AA%E8%A7%A3%E7%BA%A6%23&t=31&band_rank=9&Refer=top)<br />
+9. [1米58男子苦练绣花一幅卖到6万8](https://s.weibo.com/weibo?q=%231%E7%B1%B358%E7%94%B7%E5%AD%90%E8%8B%A6%E7%BB%83%E7%BB%A3%E8%8A%B1%E4%B8%80%E5%B9%85%E5%8D%96%E5%88%B06%E4%B8%878%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
