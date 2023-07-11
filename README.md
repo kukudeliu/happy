@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 03:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 03:12:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [郑州暴雨](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E6%9A%B4%E9%9B%A8%23&t=31&band_rank=6&Refer=top)<br />
 7. [父亲开家长会睡觉和儿子同一姿势](https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%BC%80%E5%AE%B6%E9%95%BF%E4%BC%9A%E7%9D%A1%E8%A7%89%E5%92%8C%E5%84%BF%E5%AD%90%E5%90%8C%E4%B8%80%E5%A7%BF%E5%8A%BF%23&t=31&band_rank=7&Refer=top)<br />
 8. [凉山女孩考上浙大保研清华存下16万](https://s.weibo.com/weibo?q=%23%E5%87%89%E5%B1%B1%E5%A5%B3%E5%AD%A9%E8%80%83%E4%B8%8A%E6%B5%99%E5%A4%A7%E4%BF%9D%E7%A0%94%E6%B8%85%E5%8D%8E%E5%AD%98%E4%B8%8B16%E4%B8%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [易梦玲要开始演戏了](https://s.weibo.com/weibo?q=%23%E6%98%93%E6%A2%A6%E7%8E%B2%E8%A6%81%E5%BC%80%E5%A7%8B%E6%BC%94%E6%88%8F%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [李维嘉官宣加盟优酷新综艺](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%BB%B4%E5%98%89%E5%AE%98%E5%AE%A3%E5%8A%A0%E7%9B%9F%E4%BC%98%E9%85%B7%E6%96%B0%E7%BB%BC%E8%89%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
