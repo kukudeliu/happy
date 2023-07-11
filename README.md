@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-11 08:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-11 08:25:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [越南因九段线要求停播中国电视剧](https://s.weibo.com/weibo?q=%23%E8%B6%8A%E5%8D%97%E5%9B%A0%E4%B9%9D%E6%AE%B5%E7%BA%BF%E8%A6%81%E6%B1%82%E5%81%9C%E6%92%AD%E4%B8%AD%E5%9B%BD%E7%94%B5%E8%A7%86%E5%89%A7%23&t=31&band_rank=4&Refer=top)<br />
 5. [原来垃圾袋可以套好几个](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E5%9E%83%E5%9C%BE%E8%A2%8B%E5%8F%AF%E4%BB%A5%E5%A5%97%E5%A5%BD%E5%87%A0%E4%B8%AA&t=31&band_rank=5&Refer=top)<br />
 6. [死臀综合征](https://s.weibo.com/weibo?q=%E6%AD%BB%E8%87%80%E7%BB%BC%E5%90%88%E5%BE%81&t=31&band_rank=6&Refer=top)<br />
-7. [终于有狗子愿意理肖战了](https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E6%9C%89%E7%8B%97%E5%AD%90%E6%84%BF%E6%84%8F%E7%90%86%E8%82%96%E6%88%98%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [爱宝](https://s.weibo.com/weibo?q=%E7%88%B1%E5%AE%9D&t=31&band_rank=8&Refer=top)<br />
+7. [爱宝](https://s.weibo.com/weibo?q=%E7%88%B1%E5%AE%9D&t=31&band_rank=7&Refer=top)<br />
+8. [终于有狗子愿意理肖战了](https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E6%9C%89%E7%8B%97%E5%AD%90%E6%84%BF%E6%84%8F%E7%90%86%E8%82%96%E6%88%98%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [CA1524 颠簸](https://s.weibo.com/weibo?q=CA1524%20%E9%A2%A0%E7%B0%B8&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
