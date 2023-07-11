@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-11 19:22:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-11 19:23:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [杭州超过40℃全天免费停车](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E8%B6%85%E8%BF%8740%E2%84%83%E5%85%A8%E5%A4%A9%E5%85%8D%E8%B4%B9%E5%81%9C%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [外交部:谁觉得核污水可以喝就供给谁](https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%3A%E8%B0%81%E8%A7%89%E5%BE%97%E6%A0%B8%E6%B1%A1%E6%B0%B4%E5%8F%AF%E4%BB%A5%E5%96%9D%E5%B0%B1%E4%BE%9B%E7%BB%99%E8%B0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [袁泉和偶像费翔后台握手聊天](https://www.baidu.com/s?wd=%E8%A2%81%E6%B3%89%E5%92%8C%E5%81%B6%E5%83%8F%E8%B4%B9%E7%BF%94%E5%90%8E%E5%8F%B0%E6%8F%A1%E6%89%8B%E8%81%8A%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [国航回应飞行突遇晴空颠簸：2人受伤](https://www.baidu.com/s?wd=%E5%9B%BD%E8%88%AA%E5%9B%9E%E5%BA%94%E9%A3%9E%E8%A1%8C%E7%AA%81%E9%81%87%E6%99%B4%E7%A9%BA%E9%A2%A0%E7%B0%B8%EF%BC%9A2%E4%BA%BA%E5%8F%97%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [老板劝顾客别买了实在夸不下去了](https://www.baidu.com/s?wd=%E8%80%81%E6%9D%BF%E5%8A%9D%E9%A1%BE%E5%AE%A2%E5%88%AB%E4%B9%B0%E4%BA%86%E5%AE%9E%E5%9C%A8%E5%A4%B8%E4%B8%8D%E4%B8%8B%E5%8E%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [杭州超过40℃全天免费停车](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E8%B6%85%E8%BF%8740%E2%84%83%E5%85%A8%E5%A4%A9%E5%85%8D%E8%B4%B9%E5%81%9C%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [外交部:谁觉得核污水可以喝就供给谁](https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%3A%E8%B0%81%E8%A7%89%E5%BE%97%E6%A0%B8%E6%B1%A1%E6%B0%B4%E5%8F%AF%E4%BB%A5%E5%96%9D%E5%B0%B1%E4%BE%9B%E7%BB%99%E8%B0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [袁泉和偶像费翔后台握手聊天](https://www.baidu.com/s?wd=%E8%A2%81%E6%B3%89%E5%92%8C%E5%81%B6%E5%83%8F%E8%B4%B9%E7%BF%94%E5%90%8E%E5%8F%B0%E6%8F%A1%E6%89%8B%E8%81%8A%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [国航回应飞行突遇晴空颠簸：2人受伤](https://www.baidu.com/s?wd=%E5%9B%BD%E8%88%AA%E5%9B%9E%E5%BA%94%E9%A3%9E%E8%A1%8C%E7%AA%81%E9%81%87%E6%99%B4%E7%A9%BA%E9%A2%A0%E7%B0%B8%EF%BC%9A2%E4%BA%BA%E5%8F%97%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [老板劝顾客别买了实在夸不下去了](https://www.baidu.com/s?wd=%E8%80%81%E6%9D%BF%E5%8A%9D%E9%A1%BE%E5%AE%A2%E5%88%AB%E4%B9%B0%E4%BA%86%E5%AE%9E%E5%9C%A8%E5%A4%B8%E4%B8%8D%E4%B8%8B%E5%8E%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
