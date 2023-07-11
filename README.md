@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-11 22:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-11 22:41:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [孟宴臣说冷战一个星期我都快疯了](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AE%B4%E8%87%A3%E8%AF%B4%E5%86%B7%E6%88%98%E4%B8%80%E4%B8%AA%E6%98%9F%E6%9C%9F%E6%88%91%E9%83%BD%E5%BF%AB%E7%96%AF%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [李玟姐姐现身香港殡仪馆](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E5%A7%90%E5%A7%90%E7%8E%B0%E8%BA%AB%E9%A6%99%E6%B8%AF%E6%AE%A1%E4%BB%AA%E9%A6%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [易梦玲要开始演戏了](https://s.weibo.com/weibo?q=%23%E6%98%93%E6%A2%A6%E7%8E%B2%E8%A6%81%E5%BC%80%E5%A7%8B%E6%BC%94%E6%88%8F%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [一只虾暴露了广东的温度](https://s.weibo.com/weibo?q=%E4%B8%80%E5%8F%AA%E8%99%BE%E6%9A%B4%E9%9C%B2%E4%BA%86%E5%B9%BF%E4%B8%9C%E7%9A%84%E6%B8%A9%E5%BA%A6&t=31&band_rank=9&Refer=top)<br />
+9. [孟宴臣原著结局](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AE%B4%E8%87%A3%E5%8E%9F%E8%91%97%E7%BB%93%E5%B1%80%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
