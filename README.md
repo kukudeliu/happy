@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-11 15:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-11 15:45:01</h4></div>
 
 > 微博  
 
-1. [三伏天为啥是减肥的好时候](https://s.weibo.com/weibo?q=%23%E4%B8%89%E4%BC%8F%E5%A4%A9%E4%B8%BA%E5%95%A5%E6%98%AF%E5%87%8F%E8%82%A5%E7%9A%84%E5%A5%BD%E6%97%B6%E5%80%99%23&t=31&band_rank=1&Refer=top)<br />
-2. [宝格丽](https://s.weibo.com/weibo?q=%23%E5%AE%9D%E6%A0%BC%E4%B8%BD%23&t=31&band_rank=2&Refer=top)<br />
+1. [宝格丽](https://s.weibo.com/weibo?q=%23%E5%AE%9D%E6%A0%BC%E4%B8%BD%23&t=31&band_rank=1&Refer=top)<br />
+2. [三伏天为啥是减肥的好时候](https://s.weibo.com/weibo?q=%23%E4%B8%89%E4%BC%8F%E5%A4%A9%E4%B8%BA%E5%95%A5%E6%98%AF%E5%87%8F%E8%82%A5%E7%9A%84%E5%A5%BD%E6%97%B6%E5%80%99%23&t=31&band_rank=2&Refer=top)<br />
 3. [年过80的她这件事干了60年](https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BF%8780%E7%9A%84%E5%A5%B9%E8%BF%99%E4%BB%B6%E4%BA%8B%E5%B9%B2%E4%BA%8660%E5%B9%B4%23&t=31&band_rank=3&Refer=top)<br />
 4. [张若昀唐艺昕 性张力](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%8B%A5%E6%98%80%E5%94%90%E8%89%BA%E6%98%95%20%E6%80%A7%E5%BC%A0%E5%8A%9B%23&t=31&band_rank=4&Refer=top)<br />
 5. [高叶工作室解散后援会](https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%8F%B6%E5%B7%A5%E4%BD%9C%E5%AE%A4%E8%A7%A3%E6%95%A3%E5%90%8E%E6%8F%B4%E4%BC%9A%23&t=31&band_rank=5&Refer=top)<br />
