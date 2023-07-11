@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-11 22:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-11 22:31:02</h4></div>
 
 > 微博  
 
 1. [宝格丽道歉别弄成专供中国大陆](https://s.weibo.com/weibo?q=%23%E5%AE%9D%E6%A0%BC%E4%B8%BD%E9%81%93%E6%AD%89%E5%88%AB%E5%BC%84%E6%88%90%E4%B8%93%E4%BE%9B%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%23&t=31&band_rank=1&Refer=top)<br />
-2. [宝格丽致歉](https://s.weibo.com/weibo?q=%23%E5%AE%9D%E6%A0%BC%E4%B8%BD%E8%87%B4%E6%AD%89%23&t=31&band_rank=2&Refer=top)<br />
+2. [李维嘉官宣加盟优酷新综艺](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%BB%B4%E5%98%89%E5%AE%98%E5%AE%A3%E5%8A%A0%E7%9B%9F%E4%BC%98%E9%85%B7%E6%96%B0%E7%BB%BC%E8%89%BA%23&t=31&band_rank=2&Refer=top)<br />
 3. [长江文物宝藏画卷](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B1%9F%E6%96%87%E7%89%A9%E5%AE%9D%E8%97%8F%E7%94%BB%E5%8D%B7%23&t=31&band_rank=3&Refer=top)<br />
-4. [李维嘉官宣加盟优酷新综艺](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%BB%B4%E5%98%89%E5%AE%98%E5%AE%A3%E5%8A%A0%E7%9B%9F%E4%BC%98%E9%85%B7%E6%96%B0%E7%BB%BC%E8%89%BA%23&t=31&band_rank=4&Refer=top)<br />
+4. [宝格丽致歉](https://s.weibo.com/weibo?q=%23%E5%AE%9D%E6%A0%BC%E4%B8%BD%E8%87%B4%E6%AD%89%23&t=31&band_rank=4&Refer=top)<br />
 5. [姐姐30万赎弟弟没出缅甸又遭转卖](https://s.weibo.com/weibo?q=%23%E5%A7%90%E5%A7%9030%E4%B8%87%E8%B5%8E%E5%BC%9F%E5%BC%9F%E6%B2%A1%E5%87%BA%E7%BC%85%E7%94%B8%E5%8F%88%E9%81%AD%E8%BD%AC%E5%8D%96%23&t=31&band_rank=5&Refer=top)<br />
 6. [孟宴臣说冷战一个星期我都快疯了](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AE%B4%E8%87%A3%E8%AF%B4%E5%86%B7%E6%88%98%E4%B8%80%E4%B8%AA%E6%98%9F%E6%9C%9F%E6%88%91%E9%83%BD%E5%BF%AB%E7%96%AF%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [易梦玲要开始演戏了](https://s.weibo.com/weibo?q=%23%E6%98%93%E6%A2%A6%E7%8E%B2%E8%A6%81%E5%BC%80%E5%A7%8B%E6%BC%94%E6%88%8F%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [一只虾暴露了广东的温度](https://s.weibo.com/weibo?q=%E4%B8%80%E5%8F%AA%E8%99%BE%E6%9A%B4%E9%9C%B2%E4%BA%86%E5%B9%BF%E4%B8%9C%E7%9A%84%E6%B8%A9%E5%BA%A6&t=31&band_rank=8&Refer=top)<br />
-9. [肖战下次不许穿黑色短裤](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E4%B8%8B%E6%AC%A1%E4%B8%8D%E8%AE%B8%E7%A9%BF%E9%BB%91%E8%89%B2%E7%9F%AD%E8%A3%A4%23&t=31&band_rank=9&Refer=top)<br />
+9. [拾荒老人喝瓶内剩水男子抹泪买水相送](https://s.weibo.com/weibo?q=%23%E6%8B%BE%E8%8D%92%E8%80%81%E4%BA%BA%E5%96%9D%E7%93%B6%E5%86%85%E5%89%A9%E6%B0%B4%E7%94%B7%E5%AD%90%E6%8A%B9%E6%B3%AA%E4%B9%B0%E6%B0%B4%E7%9B%B8%E9%80%81%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
