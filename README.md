@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-11 17:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-11 17:04:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [老板劝顾客别买了实在夸不下去了](https://www.baidu.com/s?wd=%E8%80%81%E6%9D%BF%E5%8A%9D%E9%A1%BE%E5%AE%A2%E5%88%AB%E4%B9%B0%E4%BA%86%E5%AE%9E%E5%9C%A8%E5%A4%B8%E4%B8%8D%E4%B8%8B%E5%8E%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [妈妈生病孩子衣衫褴褛到处捡空瓶](https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E7%94%9F%E7%97%85%E5%AD%A9%E5%AD%90%E8%A1%A3%E8%A1%AB%E8%A4%B4%E8%A4%9B%E5%88%B0%E5%A4%84%E6%8D%A1%E7%A9%BA%E7%93%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [全民星选云上教育专场](https://www.baidu.com/s?wd=%E5%85%A8%E6%B0%91%E6%98%9F%E9%80%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [车被石头棍子猛砸后车主掉头撞去](https://www.baidu.com/s?wd=%E8%BD%A6%E8%A2%AB%E7%9F%B3%E5%A4%B4%E6%A3%8D%E5%AD%90%E7%8C%9B%E7%A0%B8%E5%90%8E%E8%BD%A6%E4%B8%BB%E6%8E%89%E5%A4%B4%E6%92%9E%E5%8E%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [EDG起诉Scout](https://www.baidu.com/s?wd=EDG%E8%B5%B7%E8%AF%89Scout&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [老板劝顾客别买了实在夸不下去了](https://www.baidu.com/s?wd=%E8%80%81%E6%9D%BF%E5%8A%9D%E9%A1%BE%E5%AE%A2%E5%88%AB%E4%B9%B0%E4%BA%86%E5%AE%9E%E5%9C%A8%E5%A4%B8%E4%B8%8D%E4%B8%8B%E5%8E%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [妈妈生病孩子衣衫褴褛到处捡空瓶](https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E7%94%9F%E7%97%85%E5%AD%A9%E5%AD%90%E8%A1%A3%E8%A1%AB%E8%A4%B4%E8%A4%9B%E5%88%B0%E5%A4%84%E6%8D%A1%E7%A9%BA%E7%93%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [全民星选云上教育专场](https://www.baidu.com/s?wd=%E5%85%A8%E6%B0%91%E6%98%9F%E9%80%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [车被石头棍子猛砸后车主掉头撞去](https://www.baidu.com/s?wd=%E8%BD%A6%E8%A2%AB%E7%9F%B3%E5%A4%B4%E6%A3%8D%E5%AD%90%E7%8C%9B%E7%A0%B8%E5%90%8E%E8%BD%A6%E4%B8%BB%E6%8E%89%E5%A4%B4%E6%92%9E%E5%8E%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [EDG起诉Scout](https://www.baidu.com/s?wd=EDG%E8%B5%B7%E8%AF%89Scout&sa=fyb_news&rsv_dl=fyb_news)<br />
