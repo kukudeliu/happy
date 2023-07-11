@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-11 14:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-11 14:54:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [姜爷爷脸都笑烂了](https://s.weibo.com/weibo?q=%23%E5%A7%9C%E7%88%B7%E7%88%B7%E8%84%B8%E9%83%BD%E7%AC%91%E7%83%82%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [优衣库门店回应大学生发文吐槽](https://s.weibo.com/weibo?q=%23%E4%BC%98%E8%A1%A3%E5%BA%93%E9%97%A8%E5%BA%97%E5%9B%9E%E5%BA%94%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%8F%91%E6%96%87%E5%90%90%E6%A7%BD%23&t=31&band_rank=7&Refer=top)<br />
 8. [山航三年亏损110亿元](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%88%AA%E4%B8%89%E5%B9%B4%E4%BA%8F%E6%8D%9F110%E4%BA%BF%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [张歆艺被叫成张艺兴](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%AD%86%E8%89%BA%E8%A2%AB%E5%8F%AB%E6%88%90%E5%BC%A0%E8%89%BA%E5%85%B4%23&t=31&band_rank=9&Refer=top)<br />
+9. [学区房是凶宅你会买吗](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E5%8C%BA%E6%88%BF%E6%98%AF%E5%87%B6%E5%AE%85%E4%BD%A0%E4%BC%9A%E4%B9%B0%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
