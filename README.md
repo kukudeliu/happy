@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 07:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 07:44:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [骑手捂住宝宝耳朵进KTV给顾客送餐](https://s.weibo.com/weibo?q=%23%E9%AA%91%E6%89%8B%E6%8D%82%E4%BD%8F%E5%AE%9D%E5%AE%9D%E8%80%B3%E6%9C%B5%E8%BF%9BKTV%E7%BB%99%E9%A1%BE%E5%AE%A2%E9%80%81%E9%A4%90%23&t=31&band_rank=5&Refer=top)<br />
 6. [父亲开家长会睡觉和儿子同一姿势](https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%BC%80%E5%AE%B6%E9%95%BF%E4%BC%9A%E7%9D%A1%E8%A7%89%E5%92%8C%E5%84%BF%E5%AD%90%E5%90%8C%E4%B8%80%E5%A7%BF%E5%8A%BF%23&t=31&band_rank=6&Refer=top)<br />
 7. [李维嘉官宣加盟优酷新综艺](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%BB%B4%E5%98%89%E5%AE%98%E5%AE%A3%E5%8A%A0%E7%9B%9F%E4%BC%98%E9%85%B7%E6%96%B0%E7%BB%BC%E8%89%BA%23&t=31&band_rank=7&Refer=top)<br />
-8. [郑州暴雨](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E6%9A%B4%E9%9B%A8%23&t=31&band_rank=8&Refer=top)<br />
-9. [韩幽灵儿童案677名孩子生死不明](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%B9%BD%E7%81%B5%E5%84%BF%E7%AB%A5%E6%A1%88677%E5%90%8D%E5%AD%A9%E5%AD%90%E7%94%9F%E6%AD%BB%E4%B8%8D%E6%98%8E%23&t=31&band_rank=9&Refer=top)<br />
+8. [查理和巧克力工厂前传预告](https://s.weibo.com/weibo?q=%23%E6%9F%A5%E7%90%86%E5%92%8C%E5%B7%A7%E5%85%8B%E5%8A%9B%E5%B7%A5%E5%8E%82%E5%89%8D%E4%BC%A0%E9%A2%84%E5%91%8A%23&t=31&band_rank=8&Refer=top)<br />
+9. [郑州暴雨](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E6%9A%B4%E9%9B%A8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
