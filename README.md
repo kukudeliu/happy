@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-11 12:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-11 12:54:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [EDG起诉Scout](https://s.weibo.com/weibo?q=%23EDG%E8%B5%B7%E8%AF%89Scout%23&t=31&band_rank=6&Refer=top)<br />
 7. [爱宝诞下双胞胎](https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%AE%9D%E8%AF%9E%E4%B8%8B%E5%8F%8C%E8%83%9E%E8%83%8E%23&t=31&band_rank=7&Refer=top)<br />
 8. [魏大勋只是特别出演](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E5%8F%AA%E6%98%AF%E7%89%B9%E5%88%AB%E5%87%BA%E6%BC%94%23&t=31&band_rank=8&Refer=top)<br />
-9. [28岁女子被高空抛下砖头砸中离世](https://s.weibo.com/weibo?q=%2328%E5%B2%81%E5%A5%B3%E5%AD%90%E8%A2%AB%E9%AB%98%E7%A9%BA%E6%8A%9B%E4%B8%8B%E7%A0%96%E5%A4%B4%E7%A0%B8%E4%B8%AD%E7%A6%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
+9. [老板劝顾客别买了实在夸不下去了](https://s.weibo.com/weibo?q=%23%E8%80%81%E6%9D%BF%E5%8A%9D%E9%A1%BE%E5%AE%A2%E5%88%AB%E4%B9%B0%E4%BA%86%E5%AE%9E%E5%9C%A8%E5%A4%B8%E4%B8%8D%E4%B8%8B%E5%8E%BB%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -25,7 +25,7 @@
 6. [高温天断电 鸡笼成蒸笼热死4000只鸡](https://www.baidu.com/s?wd=%E9%AB%98%E6%B8%A9%E5%A4%A9%E6%96%AD%E7%94%B5+%E9%B8%A1%E7%AC%BC%E6%88%90%E8%92%B8%E7%AC%BC%E7%83%AD%E6%AD%BB4000%E5%8F%AA%E9%B8%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子隐瞒已婚已育和同事同居生子](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%9A%90%E7%9E%92%E5%B7%B2%E5%A9%9A%E5%B7%B2%E8%82%B2%E5%92%8C%E5%90%8C%E4%BA%8B%E5%90%8C%E5%B1%85%E7%94%9F%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [教师称“一条鱼腥一锅汤” 学校致歉](https://www.baidu.com/s?wd=%E6%95%99%E5%B8%88%E7%A7%B0%E2%80%9C%E4%B8%80%E6%9D%A1%E9%B1%BC%E8%85%A5%E4%B8%80%E9%94%85%E6%B1%A4%E2%80%9D+%E5%AD%A6%E6%A0%A1%E8%87%B4%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [奥迪向中国车企低头](https://www.baidu.com/s?wd=%E5%A5%A5%E8%BF%AA%E5%90%91%E4%B8%AD%E5%9B%BD%E8%BD%A6%E4%BC%81%E4%BD%8E%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [50多万博士生分布地图：近8成在省会](https://www.baidu.com/s?wd=50%E5%A4%9A%E4%B8%87%E5%8D%9A%E5%A3%AB%E7%94%9F%E5%88%86%E5%B8%83%E5%9C%B0%E5%9B%BE%EF%BC%9A%E8%BF%918%E6%88%90%E5%9C%A8%E7%9C%81%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [高温天断电 鸡笼成蒸笼热死4000只鸡](https://www.baidu.com/s?wd=%E9%AB%98%E6%B8%A9%E5%A4%A9%E6%96%AD%E7%94%B5+%E9%B8%A1%E7%AC%BC%E6%88%90%E8%92%B8%E7%AC%BC%E7%83%AD%E6%AD%BB4000%E5%8F%AA%E9%B8%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子隐瞒已婚已育和同事同居生子](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%9A%90%E7%9E%92%E5%B7%B2%E5%A9%9A%E5%B7%B2%E8%82%B2%E5%92%8C%E5%90%8C%E4%BA%8B%E5%90%8C%E5%B1%85%E7%94%9F%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [教师称“一条鱼腥一锅汤” 学校致歉](https://www.baidu.com/s?wd=%E6%95%99%E5%B8%88%E7%A7%B0%E2%80%9C%E4%B8%80%E6%9D%A1%E9%B1%BC%E8%85%A5%E4%B8%80%E9%94%85%E6%B1%A4%E2%80%9D+%E5%AD%A6%E6%A0%A1%E8%87%B4%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [奥迪向中国车企低头](https://www.baidu.com/s?wd=%E5%A5%A5%E8%BF%AA%E5%90%91%E4%B8%AD%E5%9B%BD%E8%BD%A6%E4%BC%81%E4%BD%8E%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [50多万博士生分布地图：近8成在省会](https://www.baidu.com/s?wd=50%E5%A4%9A%E4%B8%87%E5%8D%9A%E5%A3%AB%E7%94%9F%E5%88%86%E5%B8%83%E5%9C%B0%E5%9B%BE%EF%BC%9A%E8%BF%918%E6%88%90%E5%9C%A8%E7%9C%81%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
