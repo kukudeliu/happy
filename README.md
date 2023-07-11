@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 02:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 02:01:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [宝格丽致歉](https://s.weibo.com/weibo?q=%23%E5%AE%9D%E6%A0%BC%E4%B8%BD%E8%87%B4%E6%AD%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [凉山女孩考上浙大保研清华存下16万](https://s.weibo.com/weibo?q=%23%E5%87%89%E5%B1%B1%E5%A5%B3%E5%AD%A9%E8%80%83%E4%B8%8A%E6%B5%99%E5%A4%A7%E4%BF%9D%E7%A0%94%E6%B8%85%E5%8D%8E%E5%AD%98%E4%B8%8B16%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [父亲开家长会睡觉和儿子同一姿势](https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%BC%80%E5%AE%B6%E9%95%BF%E4%BC%9A%E7%9D%A1%E8%A7%89%E5%92%8C%E5%84%BF%E5%AD%90%E5%90%8C%E4%B8%80%E5%A7%BF%E5%8A%BF%23&t=31&band_rank=8&Refer=top)<br />
-9. [孟宴臣原著结局](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AE%B4%E8%87%A3%E5%8E%9F%E8%91%97%E7%BB%93%E5%B1%80%23&t=31&band_rank=9&Refer=top)<br />
+9. [李维嘉官宣加盟优酷新综艺](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%BB%B4%E5%98%89%E5%AE%98%E5%AE%A3%E5%8A%A0%E7%9B%9F%E4%BC%98%E9%85%B7%E6%96%B0%E7%BB%BC%E8%89%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
