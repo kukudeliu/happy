@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-11 15:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-11 15:27:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [张若昀唐艺昕双人杂志](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%8B%A5%E6%98%80%E5%94%90%E8%89%BA%E6%98%95%E5%8F%8C%E4%BA%BA%E6%9D%82%E5%BF%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [学区房是凶宅你会买吗](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E5%8C%BA%E6%88%BF%E6%98%AF%E5%87%B6%E5%AE%85%E4%BD%A0%E4%BC%9A%E4%B9%B0%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
 8. [吉克隽逸建议大家多吃蓝莓](https://s.weibo.com/weibo?q=%23%E5%90%89%E5%85%8B%E9%9A%BD%E9%80%B8%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E5%A4%9A%E5%90%83%E8%93%9D%E8%8E%93%23&t=31&band_rank=8&Refer=top)<br />
-9. [优衣库门店回应大学生发文吐槽](https://s.weibo.com/weibo?q=%23%E4%BC%98%E8%A1%A3%E5%BA%93%E9%97%A8%E5%BA%97%E5%9B%9E%E5%BA%94%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%8F%91%E6%96%87%E5%90%90%E6%A7%BD%23&t=31&band_rank=9&Refer=top)<br />
+9. [EDG起诉Scout](https://s.weibo.com/weibo?q=%23EDG%E8%B5%B7%E8%AF%89Scout%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
