@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 01:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 01:52:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [宝格丽道歉别弄成专供中国大陆](https://s.weibo.com/weibo?q=%23%E5%AE%9D%E6%A0%BC%E4%B8%BD%E9%81%93%E6%AD%89%E5%88%AB%E5%BC%84%E6%88%90%E4%B8%93%E4%BE%9B%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [郑州暴雨](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E6%9A%B4%E9%9B%A8%23&t=31&band_rank=5&Refer=top)<br />
 6. [宝格丽致歉](https://s.weibo.com/weibo?q=%23%E5%AE%9D%E6%A0%BC%E4%B8%BD%E8%87%B4%E6%AD%89%23&t=31&band_rank=6&Refer=top)<br />
-7. [父亲开家长会睡觉和儿子同一姿势](https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%BC%80%E5%AE%B6%E9%95%BF%E4%BC%9A%E7%9D%A1%E8%A7%89%E5%92%8C%E5%84%BF%E5%AD%90%E5%90%8C%E4%B8%80%E5%A7%BF%E5%8A%BF%23&t=31&band_rank=7&Refer=top)<br />
-8. [凉山女孩考上浙大保研清华存下16万](https://s.weibo.com/weibo?q=%23%E5%87%89%E5%B1%B1%E5%A5%B3%E5%AD%A9%E8%80%83%E4%B8%8A%E6%B5%99%E5%A4%A7%E4%BF%9D%E7%A0%94%E6%B8%85%E5%8D%8E%E5%AD%98%E4%B8%8B16%E4%B8%87%23&t=31&band_rank=8&Refer=top)<br />
+7. [凉山女孩考上浙大保研清华存下16万](https://s.weibo.com/weibo?q=%23%E5%87%89%E5%B1%B1%E5%A5%B3%E5%AD%A9%E8%80%83%E4%B8%8A%E6%B5%99%E5%A4%A7%E4%BF%9D%E7%A0%94%E6%B8%85%E5%8D%8E%E5%AD%98%E4%B8%8B16%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
+8. [父亲开家长会睡觉和儿子同一姿势](https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%BC%80%E5%AE%B6%E9%95%BF%E4%BC%9A%E7%9D%A1%E8%A7%89%E5%92%8C%E5%84%BF%E5%AD%90%E5%90%8C%E4%B8%80%E5%A7%BF%E5%8A%BF%23&t=31&band_rank=8&Refer=top)<br />
 9. [李维嘉官宣加盟优酷新综艺](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%BB%B4%E5%98%89%E5%AE%98%E5%AE%A3%E5%8A%A0%E7%9B%9F%E4%BC%98%E9%85%B7%E6%96%B0%E7%BB%BC%E8%89%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -25,7 +25,7 @@
 6. [姐姐30万赎弟弟没出缅甸又遭转卖](https://www.baidu.com/s?wd=%E5%A7%90%E5%A7%9030%E4%B8%87%E8%B5%8E%E5%BC%9F%E5%BC%9F%E6%B2%A1%E5%87%BA%E7%BC%85%E7%94%B8%E5%8F%88%E9%81%AD%E8%BD%AC%E5%8D%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [Selina怀孕8个月状态](https://www.baidu.com/s?wd=Selina%E6%80%80%E5%AD%958%E4%B8%AA%E6%9C%88%E7%8A%B6%E6%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [音乐节现场GALA乐队摔提词器](https://www.baidu.com/s?wd=%E9%9F%B3%E4%B9%90%E8%8A%82%E7%8E%B0%E5%9C%BAGALA%E4%B9%90%E9%98%9F%E6%91%94%E6%8F%90%E8%AF%8D%E5%99%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [邮储回应招牌中国拼成CIHNA](https://www.baidu.com/s?wd=%E9%82%AE%E5%82%A8%E5%9B%9E%E5%BA%94%E6%8B%9B%E7%89%8C%E4%B8%AD%E5%9B%BD%E6%8B%BC%E6%88%90CIHNA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [湖南养猪场烟花爆竹爆炸 致5死2失联](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E5%85%BB%E7%8C%AA%E5%9C%BA%E7%83%9F%E8%8A%B1%E7%88%86%E7%AB%B9%E7%88%86%E7%82%B8+%E8%87%B45%E6%AD%BB2%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [姐姐30万赎弟弟没出缅甸又遭转卖](https://www.baidu.com/s?wd=%E5%A7%90%E5%A7%9030%E4%B8%87%E8%B5%8E%E5%BC%9F%E5%BC%9F%E6%B2%A1%E5%87%BA%E7%BC%85%E7%94%B8%E5%8F%88%E9%81%AD%E8%BD%AC%E5%8D%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [Selina怀孕8个月状态](https://www.baidu.com/s?wd=Selina%E6%80%80%E5%AD%958%E4%B8%AA%E6%9C%88%E7%8A%B6%E6%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [音乐节现场GALA乐队摔提词器](https://www.baidu.com/s?wd=%E9%9F%B3%E4%B9%90%E8%8A%82%E7%8E%B0%E5%9C%BAGALA%E4%B9%90%E9%98%9F%E6%91%94%E6%8F%90%E8%AF%8D%E5%99%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [邮储回应招牌中国拼成CIHNA](https://www.baidu.com/s?wd=%E9%82%AE%E5%82%A8%E5%9B%9E%E5%BA%94%E6%8B%9B%E7%89%8C%E4%B8%AD%E5%9B%BD%E6%8B%BC%E6%88%90CIHNA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [湖南养猪场烟花爆竹爆炸 致5死2失联](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E5%85%BB%E7%8C%AA%E5%9C%BA%E7%83%9F%E8%8A%B1%E7%88%86%E7%AB%B9%E7%88%86%E7%82%B8+%E8%87%B45%E6%AD%BB2%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
