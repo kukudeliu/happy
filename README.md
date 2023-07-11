@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-11 14:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-11 14:09:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [高温天断电 鸡笼成蒸笼热死4000只鸡](https://www.baidu.com/s?wd=%E9%AB%98%E6%B8%A9%E5%A4%A9%E6%96%AD%E7%94%B5+%E9%B8%A1%E7%AC%BC%E6%88%90%E8%92%B8%E7%AC%BC%E7%83%AD%E6%AD%BB4000%E5%8F%AA%E9%B8%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [北京一外卖骑手违法超车致人死亡](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E4%B8%80%E5%A4%96%E5%8D%96%E9%AA%91%E6%89%8B%E8%BF%9D%E6%B3%95%E8%B6%85%E8%BD%A6%E8%87%B4%E4%BA%BA%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [全民星选云上教育专场](https://www.baidu.com/s?wd=%E5%85%A8%E6%B0%91%E6%98%9F%E9%80%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [今日入伏 头伏中暑指数地图出炉](https://www.baidu.com/s?wd=%E4%BB%8A%E6%97%A5%E5%85%A5%E4%BC%8F+%E5%A4%B4%E4%BC%8F%E4%B8%AD%E6%9A%91%E6%8C%87%E6%95%B0%E5%9C%B0%E5%9B%BE%E5%87%BA%E7%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [樊振东重返男单世界第一](https://www.baidu.com/s?wd=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E9%87%8D%E8%BF%94%E7%94%B7%E5%8D%95%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [高温天断电 鸡笼成蒸笼热死4000只鸡](https://www.baidu.com/s?wd=%E9%AB%98%E6%B8%A9%E5%A4%A9%E6%96%AD%E7%94%B5+%E9%B8%A1%E7%AC%BC%E6%88%90%E8%92%B8%E7%AC%BC%E7%83%AD%E6%AD%BB4000%E5%8F%AA%E9%B8%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [北京一外卖骑手违法超车致人死亡](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E4%B8%80%E5%A4%96%E5%8D%96%E9%AA%91%E6%89%8B%E8%BF%9D%E6%B3%95%E8%B6%85%E8%BD%A6%E8%87%B4%E4%BA%BA%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [全民星选云上教育专场](https://www.baidu.com/s?wd=%E5%85%A8%E6%B0%91%E6%98%9F%E9%80%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [今日入伏 头伏中暑指数地图出炉](https://www.baidu.com/s?wd=%E4%BB%8A%E6%97%A5%E5%85%A5%E4%BC%8F+%E5%A4%B4%E4%BC%8F%E4%B8%AD%E6%9A%91%E6%8C%87%E6%95%B0%E5%9C%B0%E5%9B%BE%E5%87%BA%E7%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [樊振东重返男单世界第一](https://www.baidu.com/s?wd=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E9%87%8D%E8%BF%94%E7%94%B7%E5%8D%95%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
