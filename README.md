@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 01:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 01:34:01</h4></div>
 
 > 微博  
 
 1. [缅甸](https://s.weibo.com/weibo?q=%E7%BC%85%E7%94%B8&t=31&band_rank=1&Refer=top)<br />
 2. [宝格丽道歉别弄成专供中国大陆](https://s.weibo.com/weibo?q=%23%E5%AE%9D%E6%A0%BC%E4%B8%BD%E9%81%93%E6%AD%89%E5%88%AB%E5%BC%84%E6%88%90%E4%B8%93%E4%BE%9B%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [长江文物宝藏画卷](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B1%9F%E6%96%87%E7%89%A9%E5%AE%9D%E8%97%8F%E7%94%BB%E5%8D%B7%23&t=31&band_rank=3&Refer=top)<br />
-4. [郑州暴雨](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E6%9A%B4%E9%9B%A8%23&t=31&band_rank=4&Refer=top)<br />
-5. [如果微信显示已读的话](https://s.weibo.com/weibo?q=%23%E5%A6%82%E6%9E%9C%E5%BE%AE%E4%BF%A1%E6%98%BE%E7%A4%BA%E5%B7%B2%E8%AF%BB%E7%9A%84%E8%AF%9D%23&t=31&band_rank=5&Refer=top)<br />
+4. [如果微信显示已读的话](https://s.weibo.com/weibo?q=%23%E5%A6%82%E6%9E%9C%E5%BE%AE%E4%BF%A1%E6%98%BE%E7%A4%BA%E5%B7%B2%E8%AF%BB%E7%9A%84%E8%AF%9D%23&t=31&band_rank=4&Refer=top)<br />
+5. [郑州暴雨](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E6%9A%B4%E9%9B%A8%23&t=31&band_rank=5&Refer=top)<br />
 6. [宝格丽致歉](https://s.weibo.com/weibo?q=%23%E5%AE%9D%E6%A0%BC%E4%B8%BD%E8%87%B4%E6%AD%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [父亲开家长会睡觉和儿子同一姿势](https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%BC%80%E5%AE%B6%E9%95%BF%E4%BC%9A%E7%9D%A1%E8%A7%89%E5%92%8C%E5%84%BF%E5%AD%90%E5%90%8C%E4%B8%80%E5%A7%BF%E5%8A%BF%23&t=31&band_rank=7&Refer=top)<br />
 8. [凉山女孩考上浙大保研清华存下16万](https://s.weibo.com/weibo?q=%23%E5%87%89%E5%B1%B1%E5%A5%B3%E5%AD%A9%E8%80%83%E4%B8%8A%E6%B5%99%E5%A4%A7%E4%BF%9D%E7%A0%94%E6%B8%85%E5%8D%8E%E5%AD%98%E4%B8%8B16%E4%B8%87%23&t=31&band_rank=8&Refer=top)<br />
