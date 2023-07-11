@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 07:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 07:13:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [郑州暴雨：路面积水淹没车轮](https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E6%9A%B4%E9%9B%A8%EF%BC%9A%E8%B7%AF%E9%9D%A2%E7%A7%AF%E6%B0%B4%E6%B7%B9%E6%B2%A1%E8%BD%A6%E8%BD%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [姐姐30万赎弟弟没出缅甸又遭转卖](https://www.baidu.com/s?wd=%E5%A7%90%E5%A7%9030%E4%B8%87%E8%B5%8E%E5%BC%9F%E5%BC%9F%E6%B2%A1%E5%87%BA%E7%BC%85%E7%94%B8%E5%8F%88%E9%81%AD%E8%BD%AC%E5%8D%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [Selina怀孕8个月状态](https://www.baidu.com/s?wd=Selina%E6%80%80%E5%AD%958%E4%B8%AA%E6%9C%88%E7%8A%B6%E6%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [36名大陆师生将赴台交流 国台办回应](https://www.baidu.com/s?wd=36%E5%90%8D%E5%A4%A7%E9%99%86%E5%B8%88%E7%94%9F%E5%B0%86%E8%B5%B4%E5%8F%B0%E4%BA%A4%E6%B5%81+%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [邮储回应招牌中国拼成CIHNA](https://www.baidu.com/s?wd=%E9%82%AE%E5%82%A8%E5%9B%9E%E5%BA%94%E6%8B%9B%E7%89%8C%E4%B8%AD%E5%9B%BD%E6%8B%BC%E6%88%90CIHNA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [邮储回应招牌中国拼成CIHNA](https://www.baidu.com/s?wd=%E9%82%AE%E5%82%A8%E5%9B%9E%E5%BA%94%E6%8B%9B%E7%89%8C%E4%B8%AD%E5%9B%BD%E6%8B%BC%E6%88%90CIHNA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [美国性侵上百人队医在监狱被刺](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%80%A7%E4%BE%B5%E4%B8%8A%E7%99%BE%E4%BA%BA%E9%98%9F%E5%8C%BB%E5%9C%A8%E7%9B%91%E7%8B%B1%E8%A2%AB%E5%88%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [郑州暴雨：路面积水淹没车轮](https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E6%9A%B4%E9%9B%A8%EF%BC%9A%E8%B7%AF%E9%9D%A2%E7%A7%AF%E6%B0%B4%E6%B7%B9%E6%B2%A1%E8%BD%A6%E8%BD%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [姐姐30万赎弟弟没出缅甸又遭转卖](https://www.baidu.com/s?wd=%E5%A7%90%E5%A7%9030%E4%B8%87%E8%B5%8E%E5%BC%9F%E5%BC%9F%E6%B2%A1%E5%87%BA%E7%BC%85%E7%94%B8%E5%8F%88%E9%81%AD%E8%BD%AC%E5%8D%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [Selina怀孕8个月状态](https://www.baidu.com/s?wd=Selina%E6%80%80%E5%AD%958%E4%B8%AA%E6%9C%88%E7%8A%B6%E6%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [36名大陆师生将赴台交流 国台办回应](https://www.baidu.com/s?wd=36%E5%90%8D%E5%A4%A7%E9%99%86%E5%B8%88%E7%94%9F%E5%B0%86%E8%B5%B4%E5%8F%B0%E4%BA%A4%E6%B5%81+%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [邮储回应招牌中国拼成CIHNA](https://www.baidu.com/s?wd=%E9%82%AE%E5%82%A8%E5%9B%9E%E5%BA%94%E6%8B%9B%E7%89%8C%E4%B8%AD%E5%9B%BD%E6%8B%BC%E6%88%90CIHNA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [邮储回应招牌中国拼成CIHNA](https://www.baidu.com/s?wd=%E9%82%AE%E5%82%A8%E5%9B%9E%E5%BA%94%E6%8B%9B%E7%89%8C%E4%B8%AD%E5%9B%BD%E6%8B%BC%E6%88%90CIHNA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [美国性侵上百人队医在监狱被刺](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%80%A7%E4%BE%B5%E4%B8%8A%E7%99%BE%E4%BA%BA%E9%98%9F%E5%8C%BB%E5%9C%A8%E7%9B%91%E7%8B%B1%E8%A2%AB%E5%88%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
