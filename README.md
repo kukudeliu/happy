@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 04:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 04:59:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [航班颠簸亲历者：有人找到一摞手机](https://www.baidu.com/s?wd=%E8%88%AA%E7%8F%AD%E9%A2%A0%E7%B0%B8%E4%BA%B2%E5%8E%86%E8%80%85%EF%BC%9A%E6%9C%89%E4%BA%BA%E6%89%BE%E5%88%B0%E4%B8%80%E6%91%9E%E6%89%8B%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [老板劝顾客别买了实在夸不下去了](https://www.baidu.com/s?wd=%E8%80%81%E6%9D%BF%E5%8A%9D%E9%A1%BE%E5%AE%A2%E5%88%AB%E4%B9%B0%E4%BA%86%E5%AE%9E%E5%9C%A8%E5%A4%B8%E4%B8%8D%E4%B8%8B%E5%8E%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [车被石头棍子猛砸后车主掉头撞去](https://www.baidu.com/s?wd=%E8%BD%A6%E8%A2%AB%E7%9F%B3%E5%A4%B4%E6%A3%8D%E5%AD%90%E7%8C%9B%E7%A0%B8%E5%90%8E%E8%BD%A6%E4%B8%BB%E6%8E%89%E5%A4%B4%E6%92%9E%E5%8E%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [三伏天为啥是减肥的好时候](https://www.baidu.com/s?wd=%E4%B8%89%E4%BC%8F%E5%A4%A9%E4%B8%BA%E5%95%A5%E6%98%AF%E5%87%8F%E8%82%A5%E7%9A%84%E5%A5%BD%E6%97%B6%E5%80%99&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [媒体：抽刃向孩子就是恶魔](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E6%8A%BD%E5%88%83%E5%90%91%E5%AD%A9%E5%AD%90%E5%B0%B1%E6%98%AF%E6%81%B6%E9%AD%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [航班颠簸亲历者：有人找到一摞手机](https://www.baidu.com/s?wd=%E8%88%AA%E7%8F%AD%E9%A2%A0%E7%B0%B8%E4%BA%B2%E5%8E%86%E8%80%85%EF%BC%9A%E6%9C%89%E4%BA%BA%E6%89%BE%E5%88%B0%E4%B8%80%E6%91%9E%E6%89%8B%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [老板劝顾客别买了实在夸不下去了](https://www.baidu.com/s?wd=%E8%80%81%E6%9D%BF%E5%8A%9D%E9%A1%BE%E5%AE%A2%E5%88%AB%E4%B9%B0%E4%BA%86%E5%AE%9E%E5%9C%A8%E5%A4%B8%E4%B8%8D%E4%B8%8B%E5%8E%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [车被石头棍子猛砸后车主掉头撞去](https://www.baidu.com/s?wd=%E8%BD%A6%E8%A2%AB%E7%9F%B3%E5%A4%B4%E6%A3%8D%E5%AD%90%E7%8C%9B%E7%A0%B8%E5%90%8E%E8%BD%A6%E4%B8%BB%E6%8E%89%E5%A4%B4%E6%92%9E%E5%8E%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [三伏天为啥是减肥的好时候](https://www.baidu.com/s?wd=%E4%B8%89%E4%BC%8F%E5%A4%A9%E4%B8%BA%E5%95%A5%E6%98%AF%E5%87%8F%E8%82%A5%E7%9A%84%E5%A5%BD%E6%97%B6%E5%80%99&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [媒体：抽刃向孩子就是恶魔](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E6%8A%BD%E5%88%83%E5%90%91%E5%AD%A9%E5%AD%90%E5%B0%B1%E6%98%AF%E6%81%B6%E9%AD%94&sa=fyb_news&rsv_dl=fyb_news)<br />
