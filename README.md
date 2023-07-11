@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 06:33:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 06:34:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [长江文物宝藏画卷](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B1%9F%E6%96%87%E7%89%A9%E5%AE%9D%E8%97%8F%E7%94%BB%E5%8D%B7%23&t=31&band_rank=3&Refer=top)<br />
 4. [宝格丽道歉别弄成专供中国大陆](https://s.weibo.com/weibo?q=%23%E5%AE%9D%E6%A0%BC%E4%B8%BD%E9%81%93%E6%AD%89%E5%88%AB%E5%BC%84%E6%88%90%E4%B8%93%E4%BE%9B%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [父亲开家长会睡觉和儿子同一姿势](https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%BC%80%E5%AE%B6%E9%95%BF%E4%BC%9A%E7%9D%A1%E8%A7%89%E5%92%8C%E5%84%BF%E5%AD%90%E5%90%8C%E4%B8%80%E5%A7%BF%E5%8A%BF%23&t=31&band_rank=5&Refer=top)<br />
-6. [凉山女孩考上浙大保研清华存下16万](https://s.weibo.com/weibo?q=%23%E5%87%89%E5%B1%B1%E5%A5%B3%E5%AD%A9%E8%80%83%E4%B8%8A%E6%B5%99%E5%A4%A7%E4%BF%9D%E7%A0%94%E6%B8%85%E5%8D%8E%E5%AD%98%E4%B8%8B16%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
-7. [李维嘉官宣加盟优酷新综艺](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%BB%B4%E5%98%89%E5%AE%98%E5%AE%A3%E5%8A%A0%E7%9B%9F%E4%BC%98%E9%85%B7%E6%96%B0%E7%BB%BC%E8%89%BA%23&t=31&band_rank=7&Refer=top)<br />
+6. [李维嘉官宣加盟优酷新综艺](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%BB%B4%E5%98%89%E5%AE%98%E5%AE%A3%E5%8A%A0%E7%9B%9F%E4%BC%98%E9%85%B7%E6%96%B0%E7%BB%BC%E8%89%BA%23&t=31&band_rank=6&Refer=top)<br />
+7. [凉山女孩考上浙大保研清华存下16万](https://s.weibo.com/weibo?q=%23%E5%87%89%E5%B1%B1%E5%A5%B3%E5%AD%A9%E8%80%83%E4%B8%8A%E6%B5%99%E5%A4%A7%E4%BF%9D%E7%A0%94%E6%B8%85%E5%8D%8E%E5%AD%98%E4%B8%8B16%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [郑州暴雨](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E6%9A%B4%E9%9B%A8%23&t=31&band_rank=8&Refer=top)<br />
 9. [韩幽灵儿童案677名孩子生死不明](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%B9%BD%E7%81%B5%E5%84%BF%E7%AB%A5%E6%A1%88677%E5%90%8D%E5%AD%A9%E5%AD%90%E7%94%9F%E6%AD%BB%E4%B8%8D%E6%98%8E%23&t=31&band_rank=9&Refer=top)<br />
 
@@ -24,8 +24,8 @@
 5. [警方通报“3岁女童被猥亵不予立案”](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E2%80%9C3%E5%B2%81%E5%A5%B3%E7%AB%A5%E8%A2%AB%E7%8C%A5%E4%BA%B5%E4%B8%8D%E4%BA%88%E7%AB%8B%E6%A1%88%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [Selina怀孕8个月状态](https://www.baidu.com/s?wd=Selina%E6%80%80%E5%AD%958%E4%B8%AA%E6%9C%88%E7%8A%B6%E6%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [姐姐30万赎弟弟没出缅甸又遭转卖](https://www.baidu.com/s?wd=%E5%A7%90%E5%A7%9030%E4%B8%87%E8%B5%8E%E5%BC%9F%E5%BC%9F%E6%B2%A1%E5%87%BA%E7%BC%85%E7%94%B8%E5%8F%88%E9%81%AD%E8%BD%AC%E5%8D%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [美国性侵上百人队医在监狱被刺](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%80%A7%E4%BE%B5%E4%B8%8A%E7%99%BE%E4%BA%BA%E9%98%9F%E5%8C%BB%E5%9C%A8%E7%9B%91%E7%8B%B1%E8%A2%AB%E5%88%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [北大生转学至武大：个人身体原因](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E7%94%9F%E8%BD%AC%E5%AD%A6%E8%87%B3%E6%AD%A6%E5%A4%A7%EF%BC%9A%E4%B8%AA%E4%BA%BA%E8%BA%AB%E4%BD%93%E5%8E%9F%E5%9B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [北大生转学至武大：个人身体原因](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E7%94%9F%E8%BD%AC%E5%AD%A6%E8%87%B3%E6%AD%A6%E5%A4%A7%EF%BC%9A%E4%B8%AA%E4%BA%BA%E8%BA%AB%E4%BD%93%E5%8E%9F%E5%9B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [20日起儿童乘火车须带身份证件](https://www.baidu.com/s?wd=20%E6%97%A5%E8%B5%B7%E5%84%BF%E7%AB%A5%E4%B9%98%E7%81%AB%E8%BD%A6%E9%A1%BB%E5%B8%A6%E8%BA%AB%E4%BB%BD%E8%AF%81%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [警方通报“3岁女童被猥亵不予立案”](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E2%80%9C3%E5%B2%81%E5%A5%B3%E7%AB%A5%E8%A2%AB%E7%8C%A5%E4%BA%B5%E4%B8%8D%E4%BA%88%E7%AB%8B%E6%A1%88%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [Selina怀孕8个月状态](https://www.baidu.com/s?wd=Selina%E6%80%80%E5%AD%958%E4%B8%AA%E6%9C%88%E7%8A%B6%E6%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [姐姐30万赎弟弟没出缅甸又遭转卖](https://www.baidu.com/s?wd=%E5%A7%90%E5%A7%9030%E4%B8%87%E8%B5%8E%E5%BC%9F%E5%BC%9F%E6%B2%A1%E5%87%BA%E7%BC%85%E7%94%B8%E5%8F%88%E9%81%AD%E8%BD%AC%E5%8D%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [美国性侵上百人队医在监狱被刺](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%80%A7%E4%BE%B5%E4%B8%8A%E7%99%BE%E4%BA%BA%E9%98%9F%E5%8C%BB%E5%9C%A8%E7%9B%91%E7%8B%B1%E8%A2%AB%E5%88%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [北大生转学至武大：个人身体原因](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E7%94%9F%E8%BD%AC%E5%AD%A6%E8%87%B3%E6%AD%A6%E5%A4%A7%EF%BC%9A%E4%B8%AA%E4%BA%BA%E8%BA%AB%E4%BD%93%E5%8E%9F%E5%9B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [北大生转学至武大：个人身体原因](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E7%94%9F%E8%BD%AC%E5%AD%A6%E8%87%B3%E6%AD%A6%E5%A4%A7%EF%BC%9A%E4%B8%AA%E4%BA%BA%E8%BA%AB%E4%BD%93%E5%8E%9F%E5%9B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [20日起儿童乘火车须带身份证件](https://www.baidu.com/s?wd=20%E6%97%A5%E8%B5%B7%E5%84%BF%E7%AB%A5%E4%B9%98%E7%81%AB%E8%BD%A6%E9%A1%BB%E5%B8%A6%E8%BA%AB%E4%BB%BD%E8%AF%81%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
