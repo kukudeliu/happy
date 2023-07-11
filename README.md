@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-11 12:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-11 12:57:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [秋瓷炫于晓光同床异梦2预告](https://s.weibo.com/weibo?q=%23%E7%A7%8B%E7%93%B7%E7%82%AB%E4%BA%8E%E6%99%93%E5%85%89%E5%90%8C%E5%BA%8A%E5%BC%82%E6%A2%A62%E9%A2%84%E5%91%8A%23&t=31&band_rank=5&Refer=top)<br />
 6. [EDG起诉Scout](https://s.weibo.com/weibo?q=%23EDG%E8%B5%B7%E8%AF%89Scout%23&t=31&band_rank=6&Refer=top)<br />
 7. [爱宝诞下双胞胎](https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%AE%9D%E8%AF%9E%E4%B8%8B%E5%8F%8C%E8%83%9E%E8%83%8E%23&t=31&band_rank=7&Refer=top)<br />
-8. [魏大勋只是特别出演](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E5%8F%AA%E6%98%AF%E7%89%B9%E5%88%AB%E5%87%BA%E6%BC%94%23&t=31&band_rank=8&Refer=top)<br />
-9. [老板劝顾客别买了实在夸不下去了](https://s.weibo.com/weibo?q=%23%E8%80%81%E6%9D%BF%E5%8A%9D%E9%A1%BE%E5%AE%A2%E5%88%AB%E4%B9%B0%E4%BA%86%E5%AE%9E%E5%9C%A8%E5%A4%B8%E4%B8%8D%E4%B8%8B%E5%8E%BB%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+8. [姜爷爷脸都笑烂了](https://s.weibo.com/weibo?q=%E5%A7%9C%E7%88%B7%E7%88%B7%E8%84%B8%E9%83%BD%E7%AC%91%E7%83%82%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
+9. [魏大勋只是特别出演](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E5%8F%AA%E6%98%AF%E7%89%B9%E5%88%AB%E5%87%BA%E6%BC%94%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
