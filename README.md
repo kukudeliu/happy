@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-11 15:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-11 15:47:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [高叶工作室解散后援会](https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%8F%B6%E5%B7%A5%E4%BD%9C%E5%AE%A4%E8%A7%A3%E6%95%A3%E5%90%8E%E6%8F%B4%E4%BC%9A%23&t=31&band_rank=5&Refer=top)<br />
 6. [姜爷爷脸都笑烂了](https://s.weibo.com/weibo?q=%23%E5%A7%9C%E7%88%B7%E7%88%B7%E8%84%B8%E9%83%BD%E7%AC%91%E7%83%82%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [1米58男子苦练绣花一幅卖到6万8](https://s.weibo.com/weibo?q=%231%E7%B1%B358%E7%94%B7%E5%AD%90%E8%8B%A6%E7%BB%83%E7%BB%A3%E8%8A%B1%E4%B8%80%E5%B9%85%E5%8D%96%E5%88%B06%E4%B8%878%23&t=31&band_rank=7&Refer=top)<br />
-8. [学区房是凶宅你会买吗](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E5%8C%BA%E6%88%BF%E6%98%AF%E5%87%B6%E5%AE%85%E4%BD%A0%E4%BC%9A%E4%B9%B0%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [xmm](https://s.weibo.com/weibo?q=xmm&t=31&band_rank=9&Refer=top)<br />
+8. [xmm](https://s.weibo.com/weibo?q=xmm&t=31&band_rank=8&Refer=top)<br />
+9. [学区房是凶宅你会买吗](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E5%8C%BA%E6%88%BF%E6%98%AF%E5%87%B6%E5%AE%85%E4%BD%A0%E4%BC%9A%E4%B9%B0%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
