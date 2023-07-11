@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-11 17:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-11 17:53:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [宝格丽](https://s.weibo.com/weibo?q=%23%E5%AE%9D%E6%A0%BC%E4%B8%BD%23&t=31&band_rank=5&Refer=top)<br />
 6. [张若昀唐艺昕 性张力](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%8B%A5%E6%98%80%E5%94%90%E8%89%BA%E6%98%95%20%E6%80%A7%E5%BC%A0%E5%8A%9B%23&t=31&band_rank=6&Refer=top)<br />
 7. [吴昕录湖南卫视新综艺](https://s.weibo.com/weibo?q=%23%E5%90%B4%E6%98%95%E5%BD%95%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E6%96%B0%E7%BB%BC%E8%89%BA%23&t=31&band_rank=7&Refer=top)<br />
-8. [魏大勋演出了乌木沉香](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E6%BC%94%E5%87%BA%E4%BA%86%E4%B9%8C%E6%9C%A8%E6%B2%89%E9%A6%99%23&t=31&band_rank=8&Refer=top)<br />
+8. [本以为殉情只是古老的传言](https://s.weibo.com/weibo?q=%E6%9C%AC%E4%BB%A5%E4%B8%BA%E6%AE%89%E6%83%85%E5%8F%AA%E6%98%AF%E5%8F%A4%E8%80%81%E7%9A%84%E4%BC%A0%E8%A8%80&t=31&band_rank=8&Refer=top)<br />
 9. [高叶工作室解散后援会](https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%8F%B6%E5%B7%A5%E4%BD%9C%E5%AE%A4%E8%A7%A3%E6%95%A3%E5%90%8E%E6%8F%B4%E4%BC%9A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
