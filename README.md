@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 13:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 13:11:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [微信称不会显示已读](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E7%A7%B0%E4%B8%8D%E4%BC%9A%E6%98%BE%E7%A4%BA%E5%B7%B2%E8%AF%BB%23&t=31&band_rank=4&Refer=top)<br />
 5. [关晓彤范丞丞床咚吻戏](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E8%8C%83%E4%B8%9E%E4%B8%9E%E5%BA%8A%E5%92%9A%E5%90%BB%E6%88%8F%23&t=31&band_rank=5&Refer=top)<br />
 6. [葛沛豪评论](https://s.weibo.com/weibo?q=%E8%91%9B%E6%B2%9B%E8%B1%AA%E8%AF%84%E8%AE%BA&t=31&band_rank=6&Refer=top)<br />
-7. [BLACKPINK除Lisa外续约进展顺利](https://s.weibo.com/weibo?q=%23BLACKPINK%E9%99%A4Lisa%E5%A4%96%E7%BB%AD%E7%BA%A6%E8%BF%9B%E5%B1%95%E9%A1%BA%E5%88%A9%23&t=31&band_rank=7&Refer=top)<br />
-8. [仅1%年轻人月收入超过5万](https://s.weibo.com/weibo?q=%23%E4%BB%851%25%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%9C%88%E6%94%B6%E5%85%A5%E8%B6%85%E8%BF%875%E4%B8%87%23&t=31&band_rank=8&Refer=top)<br />
+7. [仅1%年轻人月收入超过5万](https://s.weibo.com/weibo?q=%23%E4%BB%851%25%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%9C%88%E6%94%B6%E5%85%A5%E8%B6%85%E8%BF%875%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
+8. [BLACKPINK除Lisa外续约进展顺利](https://s.weibo.com/weibo?q=%23BLACKPINK%E9%99%A4Lisa%E5%A4%96%E7%BB%AD%E7%BA%A6%E8%BF%9B%E5%B1%95%E9%A1%BA%E5%88%A9%23&t=31&band_rank=8&Refer=top)<br />
 9. [美国新婚夫妻上演真人版消失的她](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%96%B0%E5%A9%9A%E5%A4%AB%E5%A6%BB%E4%B8%8A%E6%BC%94%E7%9C%9F%E4%BA%BA%E7%89%88%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
