@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-13 03:56:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-13 03:57:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [魏大勋是JYP第一个中国演员](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E6%98%AFJYP%E7%AC%AC%E4%B8%80%E4%B8%AA%E4%B8%AD%E5%9B%BD%E6%BC%94%E5%91%98%23&t=31&band_rank=6&Refer=top)<br />
 7. [38度高温下特警一句话让人破防](https://s.weibo.com/weibo?q=%2338%E5%BA%A6%E9%AB%98%E6%B8%A9%E4%B8%8B%E7%89%B9%E8%AD%A6%E4%B8%80%E5%8F%A5%E8%AF%9D%E8%AE%A9%E4%BA%BA%E7%A0%B4%E9%98%B2%23&t=31&band_rank=7&Refer=top)<br />
 8. [奚安娜葛沛豪回应](https://s.weibo.com/weibo?q=%23%E5%A5%9A%E5%AE%89%E5%A8%9C%E8%91%9B%E6%B2%9B%E8%B1%AA%E5%9B%9E%E5%BA%94%23&t=31&band_rank=8&Refer=top)<br />
-9. [小区惊现40厘米陆龟散步](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%8C%BA%E6%83%8A%E7%8E%B040%E5%8E%98%E7%B1%B3%E9%99%86%E9%BE%9F%E6%95%A3%E6%AD%A5%23&t=31&band_rank=9&Refer=top)<br />
+9. [为什么现在厨房越来越小了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E5%8E%A8%E6%88%BF%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%B0%8F%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
