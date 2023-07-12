@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 19:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 19:43:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [女子来月经店员帮买卫生巾拿新裤子](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%9D%A5%E6%9C%88%E7%BB%8F%E5%BA%97%E5%91%98%E5%B8%AE%E4%B9%B0%E5%8D%AB%E7%94%9F%E5%B7%BE%E6%8B%BF%E6%96%B0%E8%A3%A4%E5%AD%90%23&t=31&band_rank=5&Refer=top)<br />
 6. [奚安娜葛沛豪回应](https://s.weibo.com/weibo?q=%23%E5%A5%9A%E5%AE%89%E5%A8%9C%E8%91%9B%E6%B2%9B%E8%B1%AA%E5%9B%9E%E5%BA%94%23&t=31&band_rank=6&Refer=top)<br />
 7. [哥哥扮服务员现身妹妹升学宴](https://s.weibo.com/weibo?q=%23%E5%93%A5%E5%93%A5%E6%89%AE%E6%9C%8D%E5%8A%A1%E5%91%98%E7%8E%B0%E8%BA%AB%E5%A6%B9%E5%A6%B9%E5%8D%87%E5%AD%A6%E5%AE%B4%23&t=31&band_rank=7&Refer=top)<br />
-8. [优酷](https://s.weibo.com/weibo?q=%E4%BC%98%E9%85%B7&t=31&band_rank=8&Refer=top)<br />
+8. [榜一大哥诈骗女主播12万](https://s.weibo.com/weibo?q=%23%E6%A6%9C%E4%B8%80%E5%A4%A7%E5%93%A5%E8%AF%88%E9%AA%97%E5%A5%B3%E4%B8%BB%E6%92%AD12%E4%B8%87%23&t=31&band_rank=8&Refer=top)<br />
 9. [12306回应女子卧铺出行被上铺男子凝视](https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E5%8D%A7%E9%93%BA%E5%87%BA%E8%A1%8C%E8%A2%AB%E4%B8%8A%E9%93%BA%E7%94%B7%E5%AD%90%E5%87%9D%E8%A7%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
