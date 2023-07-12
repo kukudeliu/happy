@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 12:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 12:31:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [微信称不会显示已读](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E7%A7%B0%E4%B8%8D%E4%BC%9A%E6%98%BE%E7%A4%BA%E5%B7%B2%E8%AF%BB%23&t=31&band_rank=2&Refer=top)<br />
 3. [要实实在在为户外劳动者撑好遮阳伞](https://s.weibo.com/weibo?q=%23%E8%A6%81%E5%AE%9E%E5%AE%9E%E5%9C%A8%E5%9C%A8%E4%B8%BA%E6%88%B7%E5%A4%96%E5%8A%B3%E5%8A%A8%E8%80%85%E6%92%91%E5%A5%BD%E9%81%AE%E9%98%B3%E4%BC%9E%23&t=31&band_rank=3&Refer=top)<br />
 4. [BLACKPINK除Lisa外续约进展顺利](https://s.weibo.com/weibo?q=%23BLACKPINK%E9%99%A4Lisa%E5%A4%96%E7%BB%AD%E7%BA%A6%E8%BF%9B%E5%B1%95%E9%A1%BA%E5%88%A9%23&t=31&band_rank=4&Refer=top)<br />
-5. [葛沛豪评论](https://s.weibo.com/weibo?q=%E8%91%9B%E6%B2%9B%E8%B1%AA%E8%AF%84%E8%AE%BA&t=31&band_rank=5&Refer=top)<br />
-6. [魏大勋文咏珊居然演过情侣](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E6%96%87%E5%92%8F%E7%8F%8A%E5%B1%85%E7%84%B6%E6%BC%94%E8%BF%87%E6%83%85%E4%BE%A3%23&t=31&band_rank=6&Refer=top)<br />
+5. [魏大勋文咏珊居然演过情侣](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E6%96%87%E5%92%8F%E7%8F%8A%E5%B1%85%E7%84%B6%E6%BC%94%E8%BF%87%E6%83%85%E4%BE%A3%23&t=31&band_rank=5&Refer=top)<br />
+6. [葛沛豪评论](https://s.weibo.com/weibo?q=%E8%91%9B%E6%B2%9B%E8%B1%AA%E8%AF%84%E8%AE%BA&t=31&band_rank=6&Refer=top)<br />
 7. [男子被朋友约酒吧醉酒醒来已到缅甸](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%A2%AB%E6%9C%8B%E5%8F%8B%E7%BA%A6%E9%85%92%E5%90%A7%E9%86%89%E9%85%92%E9%86%92%E6%9D%A5%E5%B7%B2%E5%88%B0%E7%BC%85%E7%94%B8%23&t=31&band_rank=7&Refer=top)<br />
 8. [刘涛生日连发30张照片](https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B6%9B%E7%94%9F%E6%97%A5%E8%BF%9E%E5%8F%9130%E5%BC%A0%E7%85%A7%E7%89%87%23&t=31&band_rank=8&Refer=top)<br />
 9. [宝格丽CEO曾称中国市场比本土还重要](https://s.weibo.com/weibo?q=%23%E5%AE%9D%E6%A0%BC%E4%B8%BDCEO%E6%9B%BE%E7%A7%B0%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E6%AF%94%E6%9C%AC%E5%9C%9F%E8%BF%98%E9%87%8D%E8%A6%81%23&t=31&band_rank=9&Refer=top)<br />
