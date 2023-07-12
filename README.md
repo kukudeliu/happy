@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 18:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 18:58:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [优酷](https://s.weibo.com/weibo?q=%E4%BC%98%E9%85%B7&t=31&band_rank=6&Refer=top)<br />
 7. [哥哥扮服务员现身妹妹升学宴](https://s.weibo.com/weibo?q=%23%E5%93%A5%E5%93%A5%E6%89%AE%E6%9C%8D%E5%8A%A1%E5%91%98%E7%8E%B0%E8%BA%AB%E5%A6%B9%E5%A6%B9%E5%8D%87%E5%AD%A6%E5%AE%B4%23&t=31&band_rank=7&Refer=top)<br />
 8. [安乐传](https://s.weibo.com/weibo?q=%E5%AE%89%E4%B9%90%E4%BC%A0&t=31&band_rank=8&Refer=top)<br />
-9. [韩国综艺人李智秀去世](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E7%BB%BC%E8%89%BA%E4%BA%BA%E6%9D%8E%E6%99%BA%E7%A7%80%E5%8E%BB%E4%B8%96&t=31&band_rank=9&Refer=top)<br />
+9. [比嘉龙二去世](https://s.weibo.com/weibo?q=%23%E6%AF%94%E5%98%89%E9%BE%99%E4%BA%8C%E5%8E%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
