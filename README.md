@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-13 03:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-13 03:34:01</h4></div>
 
 > 微博  
 
@@ -22,10 +22,10 @@
 3. [游客爬华山云梯踩空 跌落后被人接住](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E7%88%AC%E5%8D%8E%E5%B1%B1%E4%BA%91%E6%A2%AF%E8%B8%A9%E7%A9%BA+%E8%B7%8C%E8%90%BD%E5%90%8E%E8%A2%AB%E4%BA%BA%E6%8E%A5%E4%BD%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [多地细化举措护航暑期安全见闻](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E7%BB%86%E5%8C%96%E4%B8%BE%E6%8E%AA%E6%8A%A4%E8%88%AA%E6%9A%91%E6%9C%9F%E5%AE%89%E5%85%A8%E8%A7%81%E9%97%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [三胎爸爸用妻儿生日组号中7710万](https://www.baidu.com/s?wd=%E4%B8%89%E8%83%8E%E7%88%B8%E7%88%B8%E7%94%A8%E5%A6%BB%E5%84%BF%E7%94%9F%E6%97%A5%E7%BB%84%E5%8F%B7%E4%B8%AD7710%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [武汉牌照宝马停哈尔滨某商场三年](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E7%89%8C%E7%85%A7%E5%AE%9D%E9%A9%AC%E5%81%9C%E5%93%88%E5%B0%94%E6%BB%A8%E6%9F%90%E5%95%86%E5%9C%BA%E4%B8%89%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [网友举报被甘肃一局长顶替上大学](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E4%B8%BE%E6%8A%A5%E8%A2%AB%E7%94%98%E8%82%83%E4%B8%80%E5%B1%80%E9%95%BF%E9%A1%B6%E6%9B%BF%E4%B8%8A%E5%A4%A7%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [台身家5亿高中生坠亡案重启调查](https://www.baidu.com/s?wd=%E5%8F%B0%E8%BA%AB%E5%AE%B65%E4%BA%BF%E9%AB%98%E4%B8%AD%E7%94%9F%E5%9D%A0%E4%BA%A1%E6%A1%88%E9%87%8D%E5%90%AF%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [张远说真爱都没什么好下场](https://www.baidu.com/s?wd=%E5%BC%A0%E8%BF%9C%E8%AF%B4%E7%9C%9F%E7%88%B1%E9%83%BD%E6%B2%A1%E4%BB%80%E4%B9%88%E5%A5%BD%E4%B8%8B%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [台身家5亿高中生坠亡案重启调查](https://www.baidu.com/s?wd=%E5%8F%B0%E8%BA%AB%E5%AE%B65%E4%BA%BF%E9%AB%98%E4%B8%AD%E7%94%9F%E5%9D%A0%E4%BA%A1%E6%A1%88%E9%87%8D%E5%90%AF%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [武汉牌照宝马停哈尔滨某商场三年](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E7%89%8C%E7%85%A7%E5%AE%9D%E9%A9%AC%E5%81%9C%E5%93%88%E5%B0%94%E6%BB%A8%E6%9F%90%E5%95%86%E5%9C%BA%E4%B8%89%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [张远说真爱都没什么好下场](https://www.baidu.com/s?wd=%E5%BC%A0%E8%BF%9C%E8%AF%B4%E7%9C%9F%E7%88%B1%E9%83%BD%E6%B2%A1%E4%BB%80%E4%B9%88%E5%A5%BD%E4%B8%8B%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [涉案70亿 网络赌博帝国被摧毁](https://www.baidu.com/s?wd=%E6%B6%89%E6%A1%8870%E4%BA%BF+%E7%BD%91%E7%BB%9C%E8%B5%8C%E5%8D%9A%E5%B8%9D%E5%9B%BD%E8%A2%AB%E6%91%A7%E6%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -34,7 +34,7 @@
 3. [游客爬华山云梯踩空 跌落后被人接住](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E7%88%AC%E5%8D%8E%E5%B1%B1%E4%BA%91%E6%A2%AF%E8%B8%A9%E7%A9%BA+%E8%B7%8C%E8%90%BD%E5%90%8E%E8%A2%AB%E4%BA%BA%E6%8E%A5%E4%BD%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [多地细化举措护航暑期安全见闻](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E7%BB%86%E5%8C%96%E4%B8%BE%E6%8E%AA%E6%8A%A4%E8%88%AA%E6%9A%91%E6%9C%9F%E5%AE%89%E5%85%A8%E8%A7%81%E9%97%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [三胎爸爸用妻儿生日组号中7710万](https://www.baidu.com/s?wd=%E4%B8%89%E8%83%8E%E7%88%B8%E7%88%B8%E7%94%A8%E5%A6%BB%E5%84%BF%E7%94%9F%E6%97%A5%E7%BB%84%E5%8F%B7%E4%B8%AD7710%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [武汉牌照宝马停哈尔滨某商场三年](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E7%89%8C%E7%85%A7%E5%AE%9D%E9%A9%AC%E5%81%9C%E5%93%88%E5%B0%94%E6%BB%A8%E6%9F%90%E5%95%86%E5%9C%BA%E4%B8%89%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [网友举报被甘肃一局长顶替上大学](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E4%B8%BE%E6%8A%A5%E8%A2%AB%E7%94%98%E8%82%83%E4%B8%80%E5%B1%80%E9%95%BF%E9%A1%B6%E6%9B%BF%E4%B8%8A%E5%A4%A7%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [台身家5亿高中生坠亡案重启调查](https://www.baidu.com/s?wd=%E5%8F%B0%E8%BA%AB%E5%AE%B65%E4%BA%BF%E9%AB%98%E4%B8%AD%E7%94%9F%E5%9D%A0%E4%BA%A1%E6%A1%88%E9%87%8D%E5%90%AF%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [张远说真爱都没什么好下场](https://www.baidu.com/s?wd=%E5%BC%A0%E8%BF%9C%E8%AF%B4%E7%9C%9F%E7%88%B1%E9%83%BD%E6%B2%A1%E4%BB%80%E4%B9%88%E5%A5%BD%E4%B8%8B%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [台身家5亿高中生坠亡案重启调查](https://www.baidu.com/s?wd=%E5%8F%B0%E8%BA%AB%E5%AE%B65%E4%BA%BF%E9%AB%98%E4%B8%AD%E7%94%9F%E5%9D%A0%E4%BA%A1%E6%A1%88%E9%87%8D%E5%90%AF%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [武汉牌照宝马停哈尔滨某商场三年](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E7%89%8C%E7%85%A7%E5%AE%9D%E9%A9%AC%E5%81%9C%E5%93%88%E5%B0%94%E6%BB%A8%E6%9F%90%E5%95%86%E5%9C%BA%E4%B8%89%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [张远说真爱都没什么好下场](https://www.baidu.com/s?wd=%E5%BC%A0%E8%BF%9C%E8%AF%B4%E7%9C%9F%E7%88%B1%E9%83%BD%E6%B2%A1%E4%BB%80%E4%B9%88%E5%A5%BD%E4%B8%8B%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [涉案70亿 网络赌博帝国被摧毁](https://www.baidu.com/s?wd=%E6%B6%89%E6%A1%8870%E4%BA%BF+%E7%BD%91%E7%BB%9C%E8%B5%8C%E5%8D%9A%E5%B8%9D%E5%9B%BD%E8%A2%AB%E6%91%A7%E6%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
