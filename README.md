@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 12:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 12:42:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [葛沛豪评论](https://s.weibo.com/weibo?q=%E8%91%9B%E6%B2%9B%E8%B1%AA%E8%AF%84%E8%AE%BA&t=31&band_rank=6&Refer=top)<br />
 7. [男子被朋友约酒吧醉酒醒来已到缅甸](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%A2%AB%E6%9C%8B%E5%8F%8B%E7%BA%A6%E9%85%92%E5%90%A7%E9%86%89%E9%85%92%E9%86%92%E6%9D%A5%E5%B7%B2%E5%88%B0%E7%BC%85%E7%94%B8%23&t=31&band_rank=7&Refer=top)<br />
 8. [刘涛生日连发30张照片](https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B6%9B%E7%94%9F%E6%97%A5%E8%BF%9E%E5%8F%9130%E5%BC%A0%E7%85%A7%E7%89%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [宝格丽CEO曾称中国市场比本土还重要](https://s.weibo.com/weibo?q=%23%E5%AE%9D%E6%A0%BC%E4%B8%BDCEO%E6%9B%BE%E7%A7%B0%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E6%AF%94%E6%9C%AC%E5%9C%9F%E8%BF%98%E9%87%8D%E8%A6%81%23&t=31&band_rank=9&Refer=top)<br />
+9. [关晓彤范丞丞床咚吻戏](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E8%8C%83%E4%B8%9E%E4%B8%9E%E5%BA%8A%E5%92%9A%E5%90%BB%E6%88%8F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
