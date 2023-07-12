@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 15:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 15:42:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [李梦：张隆每个月都有按时付钱](https://www.baidu.com/s?wd=%E6%9D%8E%E6%A2%A6%EF%BC%9A%E5%BC%A0%E9%9A%86%E6%AF%8F%E4%B8%AA%E6%9C%88%E9%83%BD%E6%9C%89%E6%8C%89%E6%97%B6%E4%BB%98%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子高铁上哭闹20分钟要求靠边坐](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%AB%98%E9%93%81%E4%B8%8A%E5%93%AD%E9%97%B920%E5%88%86%E9%92%9F%E8%A6%81%E6%B1%82%E9%9D%A0%E8%BE%B9%E5%9D%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [充值700元仍看不完一部网文](https://www.baidu.com/s?wd=%E5%85%85%E5%80%BC700%E5%85%83%E4%BB%8D%E7%9C%8B%E4%B8%8D%E5%AE%8C%E4%B8%80%E9%83%A8%E7%BD%91%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [环卫工疑因被罚5元杀害队长](https://www.baidu.com/s?wd=%E7%8E%AF%E5%8D%AB%E5%B7%A5%E7%96%91%E5%9B%A0%E8%A2%AB%E7%BD%9A5%E5%85%83%E6%9D%80%E5%AE%B3%E9%98%9F%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子称火车上被上铺男子凝视1小时](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E7%81%AB%E8%BD%A6%E4%B8%8A%E8%A2%AB%E4%B8%8A%E9%93%BA%E7%94%B7%E5%AD%90%E5%87%9D%E8%A7%861%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [李梦：张隆每个月都有按时付钱](https://www.baidu.com/s?wd=%E6%9D%8E%E6%A2%A6%EF%BC%9A%E5%BC%A0%E9%9A%86%E6%AF%8F%E4%B8%AA%E6%9C%88%E9%83%BD%E6%9C%89%E6%8C%89%E6%97%B6%E4%BB%98%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子高铁上哭闹20分钟要求靠边坐](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%AB%98%E9%93%81%E4%B8%8A%E5%93%AD%E9%97%B920%E5%88%86%E9%92%9F%E8%A6%81%E6%B1%82%E9%9D%A0%E8%BE%B9%E5%9D%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [充值700元仍看不完一部网文](https://www.baidu.com/s?wd=%E5%85%85%E5%80%BC700%E5%85%83%E4%BB%8D%E7%9C%8B%E4%B8%8D%E5%AE%8C%E4%B8%80%E9%83%A8%E7%BD%91%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [环卫工疑因被罚5元杀害队长](https://www.baidu.com/s?wd=%E7%8E%AF%E5%8D%AB%E5%B7%A5%E7%96%91%E5%9B%A0%E8%A2%AB%E7%BD%9A5%E5%85%83%E6%9D%80%E5%AE%B3%E9%98%9F%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子称火车上被上铺男子凝视1小时](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E7%81%AB%E8%BD%A6%E4%B8%8A%E8%A2%AB%E4%B8%8A%E9%93%BA%E7%94%B7%E5%AD%90%E5%87%9D%E8%A7%861%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
