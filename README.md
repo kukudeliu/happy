@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 12:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 12:59:02</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [微信称不会显示已读](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E7%A7%B0%E4%B8%8D%E4%BC%9A%E6%98%BE%E7%A4%BA%E5%B7%B2%E8%AF%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [德国地产大亨被肢解冻在冰柜](https://www.baidu.com/s?wd=%E5%BE%B7%E5%9B%BD%E5%9C%B0%E4%BA%A7%E5%A4%A7%E4%BA%A8%E8%A2%AB%E8%82%A2%E8%A7%A3%E5%86%BB%E5%9C%A8%E5%86%B0%E6%9F%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [河北保定公交车从1300辆减至333辆](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E4%BF%9D%E5%AE%9A%E5%85%AC%E4%BA%A4%E8%BD%A6%E4%BB%8E1300%E8%BE%86%E5%87%8F%E8%87%B3333%E8%BE%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [张远说真爱都没什么好下场](https://www.baidu.com/s?wd=%E5%BC%A0%E8%BF%9C%E8%AF%B4%E7%9C%9F%E7%88%B1%E9%83%BD%E6%B2%A1%E4%BB%80%E4%B9%88%E5%A5%BD%E4%B8%8B%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [BLACKPINK除Lisa外续约进展顺利](https://www.baidu.com/s?wd=BLACKPINK%E9%99%A4Lisa%E5%A4%96%E7%BB%AD%E7%BA%A6%E8%BF%9B%E5%B1%95%E9%A1%BA%E5%88%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [微信称不会显示已读](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E7%A7%B0%E4%B8%8D%E4%BC%9A%E6%98%BE%E7%A4%BA%E5%B7%B2%E8%AF%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [德国地产大亨被肢解冻在冰柜](https://www.baidu.com/s?wd=%E5%BE%B7%E5%9B%BD%E5%9C%B0%E4%BA%A7%E5%A4%A7%E4%BA%A8%E8%A2%AB%E8%82%A2%E8%A7%A3%E5%86%BB%E5%9C%A8%E5%86%B0%E6%9F%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [河北保定公交车从1300辆减至333辆](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E4%BF%9D%E5%AE%9A%E5%85%AC%E4%BA%A4%E8%BD%A6%E4%BB%8E1300%E8%BE%86%E5%87%8F%E8%87%B3333%E8%BE%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [张远说真爱都没什么好下场](https://www.baidu.com/s?wd=%E5%BC%A0%E8%BF%9C%E8%AF%B4%E7%9C%9F%E7%88%B1%E9%83%BD%E6%B2%A1%E4%BB%80%E4%B9%88%E5%A5%BD%E4%B8%8B%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [BLACKPINK除Lisa外续约进展顺利](https://www.baidu.com/s?wd=BLACKPINK%E9%99%A4Lisa%E5%A4%96%E7%BB%AD%E7%BA%A6%E8%BF%9B%E5%B1%95%E9%A1%BA%E5%88%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
