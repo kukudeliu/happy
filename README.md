@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 16:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 16:42:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [葛沛豪评论](https://s.weibo.com/weibo?q=%E8%91%9B%E6%B2%9B%E8%B1%AA%E8%AF%84%E8%AE%BA&t=31&band_rank=6&Refer=top)<br />
 7. [充值700元仍看不完一部网文](https://s.weibo.com/weibo?q=%23%E5%85%85%E5%80%BC700%E5%85%83%E4%BB%8D%E7%9C%8B%E4%B8%8D%E5%AE%8C%E4%B8%80%E9%83%A8%E7%BD%91%E6%96%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [十个勤天](https://s.weibo.com/weibo?q=%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9&t=31&band_rank=8&Refer=top)<br />
-9. [小雪回应](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%9B%AA%E5%9B%9E%E5%BA%94%23&t=31&band_rank=9&Refer=top)<br />
+9. [哈妮克孜被蚊子咬成香肠嘴](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%A6%AE%E5%85%8B%E5%AD%9C%E8%A2%AB%E8%9A%8A%E5%AD%90%E5%92%AC%E6%88%90%E9%A6%99%E8%82%A0%E5%98%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
