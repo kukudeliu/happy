@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 20:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 20:42:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [关晓彤上下班亲的都是我爱的男人](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E4%B8%8A%E4%B8%8B%E7%8F%AD%E4%BA%B2%E7%9A%84%E9%83%BD%E6%98%AF%E6%88%91%E7%88%B1%E7%9A%84%E7%94%B7%E4%BA%BA%23&t=31&band_rank=5&Refer=top)<br />
 6. [奚安娜葛沛豪回应](https://s.weibo.com/weibo?q=%23%E5%A5%9A%E5%AE%89%E5%A8%9C%E8%91%9B%E6%B2%9B%E8%B1%AA%E5%9B%9E%E5%BA%94%23&t=31&band_rank=6&Refer=top)<br />
 7. [米兰昆德拉去世](https://s.weibo.com/weibo?q=%23%E7%B1%B3%E5%85%B0%E6%98%86%E5%BE%B7%E6%8B%89%E5%8E%BB%E4%B8%96%23&t=31&band_rank=7&Refer=top)<br />
-8. [Angelababy宋轶早期同框](https://s.weibo.com/weibo?q=%23Angelababy%E5%AE%8B%E8%BD%B6%E6%97%A9%E6%9C%9F%E5%90%8C%E6%A1%86%23&t=31&band_rank=8&Refer=top)<br />
+8. [安乐传](https://s.weibo.com/weibo?q=%E5%AE%89%E4%B9%90%E4%BC%A0&t=31&band_rank=8&Refer=top)<br />
 9. [榜一大哥诈骗女主播12万](https://s.weibo.com/weibo?q=%23%E6%A6%9C%E4%B8%80%E5%A4%A7%E5%93%A5%E8%AF%88%E9%AA%97%E5%A5%B3%E4%B8%BB%E6%92%AD12%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
