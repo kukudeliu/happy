@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 21:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 21:32:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [迪丽热巴花裙子](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%8A%B1%E8%A3%99%E5%AD%90%23&t=31&band_rank=6&Refer=top)<br />
 7. [关晓彤上下班亲的都是我爱的男人](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E4%B8%8A%E4%B8%8B%E7%8F%AD%E4%BA%B2%E7%9A%84%E9%83%BD%E6%98%AF%E6%88%91%E7%88%B1%E7%9A%84%E7%94%B7%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [小区惊现40厘米陆龟散步](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%8C%BA%E6%83%8A%E7%8E%B040%E5%8E%98%E7%B1%B3%E9%99%86%E9%BE%9F%E6%95%A3%E6%AD%A5%23&t=31&band_rank=8&Refer=top)<br />
-9. [这是扎到烤肠的大动脉上了](https://s.weibo.com/weibo?q=%E8%BF%99%E6%98%AF%E6%89%8E%E5%88%B0%E7%83%A4%E8%82%A0%E7%9A%84%E5%A4%A7%E5%8A%A8%E8%84%89%E4%B8%8A%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [董云虎被查](https://s.weibo.com/weibo?q=%23%E8%91%A3%E4%BA%91%E8%99%8E%E8%A2%AB%E6%9F%A5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
