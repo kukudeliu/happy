@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 20:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 20:29:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [男子民政局大厅内疯狂殴打妻子](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%B0%91%E6%94%BF%E5%B1%80%E5%A4%A7%E5%8E%85%E5%86%85%E7%96%AF%E7%8B%82%E6%AE%B4%E6%89%93%E5%A6%BB%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [大额存单被疯抢 有银行称几乎秒光](https://www.baidu.com/s?wd=%E5%A4%A7%E9%A2%9D%E5%AD%98%E5%8D%95%E8%A2%AB%E7%96%AF%E6%8A%A2+%E6%9C%89%E9%93%B6%E8%A1%8C%E7%A7%B0%E5%87%A0%E4%B9%8E%E7%A7%92%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [游客爬华山云梯踩空 跌落后被人接住](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E7%88%AC%E5%8D%8E%E5%B1%B1%E4%BA%91%E6%A2%AF%E8%B8%A9%E7%A9%BA+%E8%B7%8C%E8%90%BD%E5%90%8E%E8%A2%AB%E4%BA%BA%E6%8E%A5%E4%BD%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [一头牛放的屁可供汽车开一天](https://www.baidu.com/s?wd=%E4%B8%80%E5%A4%B4%E7%89%9B%E6%94%BE%E7%9A%84%E5%B1%81%E5%8F%AF%E4%BE%9B%E6%B1%BD%E8%BD%A6%E5%BC%80%E4%B8%80%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [学生逆袭被录取老师狂奔报喜](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E9%80%86%E8%A2%AD%E8%A2%AB%E5%BD%95%E5%8F%96%E8%80%81%E5%B8%88%E7%8B%82%E5%A5%94%E6%8A%A5%E5%96%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [男子民政局大厅内疯狂殴打妻子](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%B0%91%E6%94%BF%E5%B1%80%E5%A4%A7%E5%8E%85%E5%86%85%E7%96%AF%E7%8B%82%E6%AE%B4%E6%89%93%E5%A6%BB%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [大额存单被疯抢 有银行称几乎秒光](https://www.baidu.com/s?wd=%E5%A4%A7%E9%A2%9D%E5%AD%98%E5%8D%95%E8%A2%AB%E7%96%AF%E6%8A%A2+%E6%9C%89%E9%93%B6%E8%A1%8C%E7%A7%B0%E5%87%A0%E4%B9%8E%E7%A7%92%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [游客爬华山云梯踩空 跌落后被人接住](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E7%88%AC%E5%8D%8E%E5%B1%B1%E4%BA%91%E6%A2%AF%E8%B8%A9%E7%A9%BA+%E8%B7%8C%E8%90%BD%E5%90%8E%E8%A2%AB%E4%BA%BA%E6%8E%A5%E4%BD%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [一头牛放的屁可供汽车开一天](https://www.baidu.com/s?wd=%E4%B8%80%E5%A4%B4%E7%89%9B%E6%94%BE%E7%9A%84%E5%B1%81%E5%8F%AF%E4%BE%9B%E6%B1%BD%E8%BD%A6%E5%BC%80%E4%B8%80%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [学生逆袭被录取老师狂奔报喜](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E9%80%86%E8%A2%AD%E8%A2%AB%E5%BD%95%E5%8F%96%E8%80%81%E5%B8%88%E7%8B%82%E5%A5%94%E6%8A%A5%E5%96%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
