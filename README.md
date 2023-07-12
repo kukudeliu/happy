@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 13:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 13:22:02</h4></div>
 
 > 微博  
 
-1. [原来大家讨厌的不是月薪三千](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%A4%A7%E5%AE%B6%E8%AE%A8%E5%8E%8C%E7%9A%84%E4%B8%8D%E6%98%AF%E6%9C%88%E8%96%AA%E4%B8%89%E5%8D%83%23&t=31&band_rank=1&Refer=top)<br />
-2. [仅1%年轻人月收入超过5万](https://s.weibo.com/weibo?q=%23%E4%BB%851%25%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%9C%88%E6%94%B6%E5%85%A5%E8%B6%85%E8%BF%875%E4%B8%87%23&t=31&band_rank=2&Refer=top)<br />
+1. [仅1%年轻人月收入超过5万](https://s.weibo.com/weibo?q=%23%E4%BB%851%25%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%9C%88%E6%94%B6%E5%85%A5%E8%B6%85%E8%BF%875%E4%B8%87%23&t=31&band_rank=1&Refer=top)<br />
+2. [原来大家讨厌的不是月薪三千](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%A4%A7%E5%AE%B6%E8%AE%A8%E5%8E%8C%E7%9A%84%E4%B8%8D%E6%98%AF%E6%9C%88%E8%96%AA%E4%B8%89%E5%8D%83%23&t=31&band_rank=2&Refer=top)<br />
 3. [要实实在在为户外劳动者撑好遮阳伞](https://s.weibo.com/weibo?q=%23%E8%A6%81%E5%AE%9E%E5%AE%9E%E5%9C%A8%E5%9C%A8%E4%B8%BA%E6%88%B7%E5%A4%96%E5%8A%B3%E5%8A%A8%E8%80%85%E6%92%91%E5%A5%BD%E9%81%AE%E9%98%B3%E4%BC%9E%23&t=31&band_rank=3&Refer=top)<br />
 4. [魏大勋文咏珊居然演过情侣](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E6%96%87%E5%92%8F%E7%8F%8A%E5%B1%85%E7%84%B6%E6%BC%94%E8%BF%87%E6%83%85%E4%BE%A3%23&t=31&band_rank=4&Refer=top)<br />
 5. [葛沛豪评论](https://s.weibo.com/weibo?q=%E8%91%9B%E6%B2%9B%E8%B1%AA%E8%AF%84%E8%AE%BA&t=31&band_rank=5&Refer=top)<br />
