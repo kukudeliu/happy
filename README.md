@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 13:18:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 13:19:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [葛沛豪评论](https://s.weibo.com/weibo?q=%E8%91%9B%E6%B2%9B%E8%B1%AA%E8%AF%84%E8%AE%BA&t=31&band_rank=5&Refer=top)<br />
 6. [微信称不会显示已读](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E7%A7%B0%E4%B8%8D%E4%BC%9A%E6%98%BE%E7%A4%BA%E5%B7%B2%E8%AF%BB%23&t=31&band_rank=6&Refer=top)<br />
 7. [关晓彤范丞丞床咚吻戏](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E8%8C%83%E4%B8%9E%E4%B8%9E%E5%BA%8A%E5%92%9A%E5%90%BB%E6%88%8F%23&t=31&band_rank=7&Refer=top)<br />
-8. [BLACKPINK除Lisa外续约进展顺利](https://s.weibo.com/weibo?q=%23BLACKPINK%E9%99%A4Lisa%E5%A4%96%E7%BB%AD%E7%BA%A6%E8%BF%9B%E5%B1%95%E9%A1%BA%E5%88%A9%23&t=31&band_rank=8&Refer=top)<br />
-9. [孙俪时隔20年再演女刑警](https://s.weibo.com/weibo?q=%23%E5%AD%99%E4%BF%AA%E6%97%B6%E9%9A%9420%E5%B9%B4%E5%86%8D%E6%BC%94%E5%A5%B3%E5%88%91%E8%AD%A6%23&t=31&band_rank=9&Refer=top)<br />
+8. [孙俪时隔20年再演女刑警](https://s.weibo.com/weibo?q=%23%E5%AD%99%E4%BF%AA%E6%97%B6%E9%9A%9420%E5%B9%B4%E5%86%8D%E6%BC%94%E5%A5%B3%E5%88%91%E8%AD%A6%23&t=31&band_rank=8&Refer=top)<br />
+9. [BLACKPINK除Lisa外续约进展顺利](https://s.weibo.com/weibo?q=%23BLACKPINK%E9%99%A4Lisa%E5%A4%96%E7%BB%AD%E7%BA%A6%E8%BF%9B%E5%B1%95%E9%A1%BA%E5%88%A9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -25,7 +25,7 @@
 6. [德国地产大亨被肢解冻在冰柜](https://www.baidu.com/s?wd=%E5%BE%B7%E5%9B%BD%E5%9C%B0%E4%BA%A7%E5%A4%A7%E4%BA%A8%E8%A2%AB%E8%82%A2%E8%A7%A3%E5%86%BB%E5%9C%A8%E5%86%B0%E6%9F%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [微信称不会显示已读](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E7%A7%B0%E4%B8%8D%E4%BC%9A%E6%98%BE%E7%A4%BA%E5%B7%B2%E8%AF%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [河北保定公交车从1300辆减至333辆](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E4%BF%9D%E5%AE%9A%E5%85%AC%E4%BA%A4%E8%BD%A6%E4%BB%8E1300%E8%BE%86%E5%87%8F%E8%87%B3333%E8%BE%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [山东四川等6省有雷暴大风冰雹](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%9B%9B%E5%B7%9D%E7%AD%896%E7%9C%81%E6%9C%89%E9%9B%B7%E6%9A%B4%E5%A4%A7%E9%A3%8E%E5%86%B0%E9%9B%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [乌方称一名俄中将遭导弹袭击身亡](https://www.baidu.com/s?wd=%E4%B9%8C%E6%96%B9%E7%A7%B0%E4%B8%80%E5%90%8D%E4%BF%84%E4%B8%AD%E5%B0%86%E9%81%AD%E5%AF%BC%E5%BC%B9%E8%A2%AD%E5%87%BB%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [德国地产大亨被肢解冻在冰柜](https://www.baidu.com/s?wd=%E5%BE%B7%E5%9B%BD%E5%9C%B0%E4%BA%A7%E5%A4%A7%E4%BA%A8%E8%A2%AB%E8%82%A2%E8%A7%A3%E5%86%BB%E5%9C%A8%E5%86%B0%E6%9F%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [微信称不会显示已读](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E7%A7%B0%E4%B8%8D%E4%BC%9A%E6%98%BE%E7%A4%BA%E5%B7%B2%E8%AF%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [河北保定公交车从1300辆减至333辆](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E4%BF%9D%E5%AE%9A%E5%85%AC%E4%BA%A4%E8%BD%A6%E4%BB%8E1300%E8%BE%86%E5%87%8F%E8%87%B3333%E8%BE%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [山东四川等6省有雷暴大风冰雹](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%9B%9B%E5%B7%9D%E7%AD%896%E7%9C%81%E6%9C%89%E9%9B%B7%E6%9A%B4%E5%A4%A7%E9%A3%8E%E5%86%B0%E9%9B%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [乌方称一名俄中将遭导弹袭击身亡](https://www.baidu.com/s?wd=%E4%B9%8C%E6%96%B9%E7%A7%B0%E4%B8%80%E5%90%8D%E4%BF%84%E4%B8%AD%E5%B0%86%E9%81%AD%E5%AF%BC%E5%BC%B9%E8%A2%AD%E5%87%BB%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
