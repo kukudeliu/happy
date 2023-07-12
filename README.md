@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 20:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 20:52:02</h4></div>
 
 > 微博  
 
-1. [魏大勋是JYP第一个中国演员](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E6%98%AFJYP%E7%AC%AC%E4%B8%80%E4%B8%AA%E4%B8%AD%E5%9B%BD%E6%BC%94%E5%91%98%23&t=31&band_rank=1&Refer=top)<br />
-2. [安乐传空降了](https://s.weibo.com/weibo?q=%E5%AE%89%E4%B9%90%E4%BC%A0%E7%A9%BA%E9%99%8D%E4%BA%86&t=31&band_rank=2&Refer=top)<br />
+1. [安乐传空降了](https://s.weibo.com/weibo?q=%E5%AE%89%E4%B9%90%E4%BC%A0%E7%A9%BA%E9%99%8D%E4%BA%86&t=31&band_rank=1&Refer=top)<br />
+2. [魏大勋是JYP第一个中国演员](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E6%98%AFJYP%E7%AC%AC%E4%B8%80%E4%B8%AA%E4%B8%AD%E5%9B%BD%E6%BC%94%E5%91%98%23&t=31&band_rank=2&Refer=top)<br />
 3. [成都大运会中国大学生体育代表团成立](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%A4%A7%E8%BF%90%E4%BC%9A%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%BD%93%E8%82%B2%E4%BB%A3%E8%A1%A8%E5%9B%A2%E6%88%90%E7%AB%8B%23&t=31&band_rank=3&Refer=top)<br />
 4. [中方不接受不承认立场得到100多国支持](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E4%B8%8D%E6%8E%A5%E5%8F%97%E4%B8%8D%E6%89%BF%E8%AE%A4%E7%AB%8B%E5%9C%BA%E5%BE%97%E5%88%B0100%E5%A4%9A%E5%9B%BD%E6%94%AF%E6%8C%81%23&t=31&band_rank=4&Refer=top)<br />
 5. [迪丽热巴花裙子](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%8A%B1%E8%A3%99%E5%AD%90%23&t=31&band_rank=5&Refer=top)<br />
