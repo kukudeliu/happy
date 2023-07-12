@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 11:52:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 11:53:02</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [要实实在在为户外劳动者撑好遮阳伞](https://s.weibo.com/weibo?q=%23%E8%A6%81%E5%AE%9E%E5%AE%9E%E5%9C%A8%E5%9C%A8%E4%B8%BA%E6%88%B7%E5%A4%96%E5%8A%B3%E5%8A%A8%E8%80%85%E6%92%91%E5%A5%BD%E9%81%AE%E9%98%B3%E4%BC%9E%23&t=31&band_rank=3&Refer=top)<br />
 4. [被指猥亵女童的蛋糕店主妻子发声](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%8C%87%E7%8C%A5%E4%BA%B5%E5%A5%B3%E7%AB%A5%E7%9A%84%E8%9B%8B%E7%B3%95%E5%BA%97%E4%B8%BB%E5%A6%BB%E5%AD%90%E5%8F%91%E5%A3%B0%23&t=31&band_rank=4&Refer=top)<br />
 5. [微信称不会显示已读](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E7%A7%B0%E4%B8%8D%E4%BC%9A%E6%98%BE%E7%A4%BA%E5%B7%B2%E8%AF%BB%23&t=31&band_rank=5&Refer=top)<br />
-6. [YG回应Lisa续约情况](https://s.weibo.com/weibo?q=%23YG%E5%9B%9E%E5%BA%94Lisa%E7%BB%AD%E7%BA%A6%E6%83%85%E5%86%B5%23&t=31&band_rank=6&Refer=top)<br />
-7. [宝格丽CEO曾称中国市场比本土还重要](https://s.weibo.com/weibo?q=%23%E5%AE%9D%E6%A0%BC%E4%B8%BDCEO%E6%9B%BE%E7%A7%B0%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E6%AF%94%E6%9C%AC%E5%9C%9F%E8%BF%98%E9%87%8D%E8%A6%81%23&t=31&band_rank=7&Refer=top)<br />
+6. [宝格丽CEO曾称中国市场比本土还重要](https://s.weibo.com/weibo?q=%23%E5%AE%9D%E6%A0%BC%E4%B8%BDCEO%E6%9B%BE%E7%A7%B0%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E6%AF%94%E6%9C%AC%E5%9C%9F%E8%BF%98%E9%87%8D%E8%A6%81%23&t=31&band_rank=6&Refer=top)<br />
+7. [YG回应Lisa续约情况](https://s.weibo.com/weibo?q=%23YG%E5%9B%9E%E5%BA%94Lisa%E7%BB%AD%E7%BA%A6%E6%83%85%E5%86%B5%23&t=31&band_rank=7&Refer=top)<br />
 8. [男子被朋友约酒吧醉酒醒来已到缅甸](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%A2%AB%E6%9C%8B%E5%8F%8B%E7%BA%A6%E9%85%92%E5%90%A7%E9%86%89%E9%85%92%E9%86%92%E6%9D%A5%E5%B7%B2%E5%88%B0%E7%BC%85%E7%94%B8%23&t=31&band_rank=8&Refer=top)<br />
 9. [长期喝咖啡会导致皮质醇过高](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E5%96%9D%E5%92%96%E5%95%A1%E4%BC%9A%E5%AF%BC%E8%87%B4%E7%9A%AE%E8%B4%A8%E9%86%87%E8%BF%87%E9%AB%98%23&t=31&band_rank=9&Refer=top)<br />
 
