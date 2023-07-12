@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-13 07:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-13 07:38:01</h4></div>
 
 > 微博  
 
-1. [直系亲属有案底影响考公吗](https://s.weibo.com/weibo?q=%23%E7%9B%B4%E7%B3%BB%E4%BA%B2%E5%B1%9E%E6%9C%89%E6%A1%88%E5%BA%95%E5%BD%B1%E5%93%8D%E8%80%83%E5%85%AC%E5%90%97%23&t=31&band_rank=1&Refer=top)<br />
-2. [猪场因断电死亡462头猪损失近百万](https://s.weibo.com/weibo?q=%23%E7%8C%AA%E5%9C%BA%E5%9B%A0%E6%96%AD%E7%94%B5%E6%AD%BB%E4%BA%A1462%E5%A4%B4%E7%8C%AA%E6%8D%9F%E5%A4%B1%E8%BF%91%E7%99%BE%E4%B8%87%23&t=31&band_rank=2&Refer=top)<br />
+1. [猪场因断电死亡462头猪损失近百万](https://s.weibo.com/weibo?q=%23%E7%8C%AA%E5%9C%BA%E5%9B%A0%E6%96%AD%E7%94%B5%E6%AD%BB%E4%BA%A1462%E5%A4%B4%E7%8C%AA%E6%8D%9F%E5%A4%B1%E8%BF%91%E7%99%BE%E4%B8%87%23&t=31&band_rank=1&Refer=top)<br />
+2. [直系亲属有案底影响考公吗](https://s.weibo.com/weibo?q=%23%E7%9B%B4%E7%B3%BB%E4%BA%B2%E5%B1%9E%E6%9C%89%E6%A1%88%E5%BA%95%E5%BD%B1%E5%93%8D%E8%80%83%E5%85%AC%E5%90%97%23&t=31&band_rank=2&Refer=top)<br />
 3. [十四冬举办时间定了](https://s.weibo.com/weibo?q=%23%E5%8D%81%E5%9B%9B%E5%86%AC%E4%B8%BE%E5%8A%9E%E6%97%B6%E9%97%B4%E5%AE%9A%E4%BA%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [男子在缅甸被砍掉脚趾向哥哥求救](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9C%A8%E7%BC%85%E7%94%B8%E8%A2%AB%E7%A0%8D%E6%8E%89%E8%84%9A%E8%B6%BE%E5%90%91%E5%93%A5%E5%93%A5%E6%B1%82%E6%95%91%23&t=31&band_rank=4&Refer=top)<br />
 5. [李咏女儿法图麦露背身材](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%92%8F%E5%A5%B3%E5%84%BF%E6%B3%95%E5%9B%BE%E9%BA%A6%E9%9C%B2%E8%83%8C%E8%BA%AB%E6%9D%90%23&t=31&band_rank=5&Refer=top)<br />
