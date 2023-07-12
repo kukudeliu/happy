@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 16:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 16:38:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [成都大运会中国大学生体育代表团成立](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%A4%A7%E8%BF%90%E4%BC%9A%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%BD%93%E8%82%B2%E4%BB%A3%E8%A1%A8%E5%9B%A2%E6%88%90%E7%AB%8B%23&t=31&band_rank=3&Refer=top)<br />
 4. [黄子佼首发声](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E4%BD%BC%E9%A6%96%E5%8F%91%E5%A3%B0%23&t=31&band_rank=4&Refer=top)<br />
 5. [给魏大勋吹头发的是李沁](https://s.weibo.com/weibo?q=%23%E7%BB%99%E9%AD%8F%E5%A4%A7%E5%8B%8B%E5%90%B9%E5%A4%B4%E5%8F%91%E7%9A%84%E6%98%AF%E6%9D%8E%E6%B2%81%23&t=31&band_rank=5&Refer=top)<br />
-6. [葛沛豪评论](https://s.weibo.com/weibo?q=%E8%91%9B%E6%B2%9B%E8%B1%AA%E8%AF%84%E8%AE%BA&t=31&band_rank=6&Refer=top)<br />
-7. [小雪回应](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%9B%AA%E5%9B%9E%E5%BA%94%23&t=31&band_rank=7&Refer=top)<br />
+6. [小雪回应](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%9B%AA%E5%9B%9E%E5%BA%94%23&t=31&band_rank=6&Refer=top)<br />
+7. [葛沛豪评论](https://s.weibo.com/weibo?q=%E8%91%9B%E6%B2%9B%E8%B1%AA%E8%AF%84%E8%AE%BA&t=31&band_rank=7&Refer=top)<br />
 8. [充值700元仍看不完一部网文](https://s.weibo.com/weibo?q=%23%E5%85%85%E5%80%BC700%E5%85%83%E4%BB%8D%E7%9C%8B%E4%B8%8D%E5%AE%8C%E4%B8%80%E9%83%A8%E7%BD%91%E6%96%87%23&t=31&band_rank=8&Refer=top)<br />
 9. [蔡少芬想和贾静雯演母女](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%B0%91%E8%8A%AC%E6%83%B3%E5%92%8C%E8%B4%BE%E9%9D%99%E9%9B%AF%E6%BC%94%E6%AF%8D%E5%A5%B3%23&t=31&band_rank=9&Refer=top)<br />
 
