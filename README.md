@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 13:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 13:27:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [关晓彤范丞丞床咚吻戏](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E8%8C%83%E4%B8%9E%E4%B8%9E%E5%BA%8A%E5%92%9A%E5%90%BB%E6%88%8F%23&t=31&band_rank=6&Refer=top)<br />
 7. [孙俪时隔20年再演女刑警](https://s.weibo.com/weibo?q=%23%E5%AD%99%E4%BF%AA%E6%97%B6%E9%9A%9420%E5%B9%B4%E5%86%8D%E6%BC%94%E5%A5%B3%E5%88%91%E8%AD%A6%23&t=31&band_rank=7&Refer=top)<br />
 8. [Uzi发文感谢队友](https://s.weibo.com/weibo?q=%23Uzi%E5%8F%91%E6%96%87%E6%84%9F%E8%B0%A2%E9%98%9F%E5%8F%8B%23&t=31&band_rank=8&Refer=top)<br />
-9. [原来大家讨厌的不是月薪三千](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%A4%A7%E5%AE%B6%E8%AE%A8%E5%8E%8C%E7%9A%84%E4%B8%8D%E6%98%AF%E6%9C%88%E8%96%AA%E4%B8%89%E5%8D%83%23&t=31&band_rank=9&Refer=top)<br />
+9. [BLACKPINK除Lisa外续约进展顺利](https://s.weibo.com/weibo?q=%23BLACKPINK%E9%99%A4Lisa%E5%A4%96%E7%BB%AD%E7%BA%A6%E8%BF%9B%E5%B1%95%E9%A1%BA%E5%88%A9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
