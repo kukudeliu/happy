@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 16:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 16:29:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [葛沛豪评论](https://s.weibo.com/weibo?q=%E8%91%9B%E6%B2%9B%E8%B1%AA%E8%AF%84%E8%AE%BA&t=31&band_rank=6&Refer=top)<br />
 7. [小雪回应](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%9B%AA%E5%9B%9E%E5%BA%94%23&t=31&band_rank=7&Refer=top)<br />
 8. [李梦 张隆每个月都有按时付钱](https://s.weibo.com/weibo?q=%E6%9D%8E%E6%A2%A6%20%E5%BC%A0%E9%9A%86%E6%AF%8F%E4%B8%AA%E6%9C%88%E9%83%BD%E6%9C%89%E6%8C%89%E6%97%B6%E4%BB%98%E9%92%B1&t=31&band_rank=8&Refer=top)<br />
-9. [哈妮克孜被蚊子咬成香肠嘴](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%A6%AE%E5%85%8B%E5%AD%9C%E8%A2%AB%E8%9A%8A%E5%AD%90%E5%92%AC%E6%88%90%E9%A6%99%E8%82%A0%E5%98%B4%23&t=31&band_rank=9&Refer=top)<br />
+9. [武大回应北大学生转学至武大](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A4%A7%E5%9B%9E%E5%BA%94%E5%8C%97%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%BD%AC%E5%AD%A6%E8%87%B3%E6%AD%A6%E5%A4%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -25,7 +25,7 @@
 6. [女子称火车上被上铺男子凝视1小时](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E7%81%AB%E8%BD%A6%E4%B8%8A%E8%A2%AB%E4%B8%8A%E9%93%BA%E7%94%B7%E5%AD%90%E5%87%9D%E8%A7%861%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [太爷1张奖状奖1千重孙女拿出29张](https://www.baidu.com/s?wd=%E5%A4%AA%E7%88%B71%E5%BC%A0%E5%A5%96%E7%8A%B6%E5%A5%961%E5%8D%83%E9%87%8D%E5%AD%99%E5%A5%B3%E6%8B%BF%E5%87%BA29%E5%BC%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [仅1%年轻人月收入超过5万](https://www.baidu.com/s?wd=%E4%BB%851%25%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%9C%88%E6%94%B6%E5%85%A5%E8%B6%85%E8%BF%875%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [美新婚夫妇上演真人版“消失的她”](https://www.baidu.com/s?wd=%E7%BE%8E%E6%96%B0%E5%A9%9A%E5%A4%AB%E5%A6%87%E4%B8%8A%E6%BC%94%E7%9C%9F%E4%BA%BA%E7%89%88%E2%80%9C%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [德国地产大亨在泰国被肢解成13块](https://www.baidu.com/s?wd=%E5%BE%B7%E5%9B%BD%E5%9C%B0%E4%BA%A7%E5%A4%A7%E4%BA%A8%E5%9C%A8%E6%B3%B0%E5%9B%BD%E8%A2%AB%E8%82%A2%E8%A7%A3%E6%88%9013%E5%9D%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [女子称火车上被上铺男子凝视1小时](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E7%81%AB%E8%BD%A6%E4%B8%8A%E8%A2%AB%E4%B8%8A%E9%93%BA%E7%94%B7%E5%AD%90%E5%87%9D%E8%A7%861%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [太爷1张奖状奖1千重孙女拿出29张](https://www.baidu.com/s?wd=%E5%A4%AA%E7%88%B71%E5%BC%A0%E5%A5%96%E7%8A%B6%E5%A5%961%E5%8D%83%E9%87%8D%E5%AD%99%E5%A5%B3%E6%8B%BF%E5%87%BA29%E5%BC%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [仅1%年轻人月收入超过5万](https://www.baidu.com/s?wd=%E4%BB%851%25%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%9C%88%E6%94%B6%E5%85%A5%E8%B6%85%E8%BF%875%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [美新婚夫妇上演真人版“消失的她”](https://www.baidu.com/s?wd=%E7%BE%8E%E6%96%B0%E5%A9%9A%E5%A4%AB%E5%A6%87%E4%B8%8A%E6%BC%94%E7%9C%9F%E4%BA%BA%E7%89%88%E2%80%9C%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [德国地产大亨在泰国被肢解成13块](https://www.baidu.com/s?wd=%E5%BE%B7%E5%9B%BD%E5%9C%B0%E4%BA%A7%E5%A4%A7%E4%BA%A8%E5%9C%A8%E6%B3%B0%E5%9B%BD%E8%A2%AB%E8%82%A2%E8%A7%A3%E6%88%9013%E5%9D%97&sa=fyb_news&rsv_dl=fyb_news)<br />
