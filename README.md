@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 17:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 17:47:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [台身家5亿高中生坠亡案重启调查](https://www.baidu.com/s?wd=%E5%8F%B0%E8%BA%AB%E5%AE%B65%E4%BA%BF%E9%AB%98%E4%B8%AD%E7%94%9F%E5%9D%A0%E4%BA%A1%E6%A1%88%E9%87%8D%E5%90%AF%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [德国地产大亨在泰国被肢解成13块](https://www.baidu.com/s?wd=%E5%BE%B7%E5%9B%BD%E5%9C%B0%E4%BA%A7%E5%A4%A7%E4%BA%A8%E5%9C%A8%E6%B3%B0%E5%9B%BD%E8%A2%AB%E8%82%A2%E8%A7%A3%E6%88%9013%E5%9D%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女子称火车上被上铺男子凝视1小时](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E7%81%AB%E8%BD%A6%E4%B8%8A%E8%A2%AB%E4%B8%8A%E9%93%BA%E7%94%B7%E5%AD%90%E5%87%9D%E8%A7%861%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [仅1%年轻人月收入超过5万](https://www.baidu.com/s?wd=%E4%BB%851%25%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%9C%88%E6%94%B6%E5%85%A5%E8%B6%85%E8%BF%875%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [哈妮克孜被蚊子咬成香肠嘴](https://www.baidu.com/s?wd=%E5%93%88%E5%A6%AE%E5%85%8B%E5%AD%9C%E8%A2%AB%E8%9A%8A%E5%AD%90%E5%92%AC%E6%88%90%E9%A6%99%E8%82%A0%E5%98%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [台身家5亿高中生坠亡案重启调查](https://www.baidu.com/s?wd=%E5%8F%B0%E8%BA%AB%E5%AE%B65%E4%BA%BF%E9%AB%98%E4%B8%AD%E7%94%9F%E5%9D%A0%E4%BA%A1%E6%A1%88%E9%87%8D%E5%90%AF%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [德国地产大亨在泰国被肢解成13块](https://www.baidu.com/s?wd=%E5%BE%B7%E5%9B%BD%E5%9C%B0%E4%BA%A7%E5%A4%A7%E4%BA%A8%E5%9C%A8%E6%B3%B0%E5%9B%BD%E8%A2%AB%E8%82%A2%E8%A7%A3%E6%88%9013%E5%9D%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女子称火车上被上铺男子凝视1小时](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E7%81%AB%E8%BD%A6%E4%B8%8A%E8%A2%AB%E4%B8%8A%E9%93%BA%E7%94%B7%E5%AD%90%E5%87%9D%E8%A7%861%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [仅1%年轻人月收入超过5万](https://www.baidu.com/s?wd=%E4%BB%851%25%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%9C%88%E6%94%B6%E5%85%A5%E8%B6%85%E8%BF%875%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [哈妮克孜被蚊子咬成香肠嘴](https://www.baidu.com/s?wd=%E5%93%88%E5%A6%AE%E5%85%8B%E5%AD%9C%E8%A2%AB%E8%9A%8A%E5%AD%90%E5%92%AC%E6%88%90%E9%A6%99%E8%82%A0%E5%98%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
