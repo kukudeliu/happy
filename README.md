@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-13 03:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-13 03:47:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [魏大勋是JYP第一个中国演员](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E6%98%AFJYP%E7%AC%AC%E4%B8%80%E4%B8%AA%E4%B8%AD%E5%9B%BD%E6%BC%94%E5%91%98%23&t=31&band_rank=6&Refer=top)<br />
 7. [38度高温下特警一句话让人破防](https://s.weibo.com/weibo?q=%2338%E5%BA%A6%E9%AB%98%E6%B8%A9%E4%B8%8B%E7%89%B9%E8%AD%A6%E4%B8%80%E5%8F%A5%E8%AF%9D%E8%AE%A9%E4%BA%BA%E7%A0%B4%E9%98%B2%23&t=31&band_rank=7&Refer=top)<br />
 8. [奚安娜葛沛豪回应](https://s.weibo.com/weibo?q=%23%E5%A5%9A%E5%AE%89%E5%A8%9C%E8%91%9B%E6%B2%9B%E8%B1%AA%E5%9B%9E%E5%BA%94%23&t=31&band_rank=8&Refer=top)<br />
-9. [杨紫是张一山永远的人脉](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E6%98%AF%E5%BC%A0%E4%B8%80%E5%B1%B1%E6%B0%B8%E8%BF%9C%E7%9A%84%E4%BA%BA%E8%84%89%23&t=31&band_rank=9&Refer=top)<br />
+9. [小区惊现40厘米陆龟散步](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%8C%BA%E6%83%8A%E7%8E%B040%E5%8E%98%E7%B1%B3%E9%99%86%E9%BE%9F%E6%95%A3%E6%AD%A5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
