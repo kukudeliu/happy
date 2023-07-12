@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 08:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 08:27:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [宝格丽道歉别弄成专供中国大陆](https://s.weibo.com/weibo?q=%23%E5%AE%9D%E6%A0%BC%E4%B8%BD%E9%81%93%E6%AD%89%E5%88%AB%E5%BC%84%E6%88%90%E4%B8%93%E4%BE%9B%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [小雪](https://s.weibo.com/weibo?q=%E5%B0%8F%E9%9B%AA&t=31&band_rank=7&Refer=top)<br />
 8. [父亲开家长会睡觉和儿子同一姿势](https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%BC%80%E5%AE%B6%E9%95%BF%E4%BC%9A%E7%9D%A1%E8%A7%89%E5%92%8C%E5%84%BF%E5%AD%90%E5%90%8C%E4%B8%80%E5%A7%BF%E5%8A%BF%23&t=31&band_rank=8&Refer=top)<br />
-9. [郑州暴雨](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E6%9A%B4%E9%9B%A8%23&t=31&band_rank=9&Refer=top)<br />
+9. [李维嘉官宣加盟优酷新综艺](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%BB%B4%E5%98%89%E5%AE%98%E5%AE%A3%E5%8A%A0%E7%9B%9F%E4%BC%98%E9%85%B7%E6%96%B0%E7%BB%BC%E8%89%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
