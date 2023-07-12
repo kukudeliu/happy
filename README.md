@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 12:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 12:29:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [微信称不会显示已读](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E7%A7%B0%E4%B8%8D%E4%BC%9A%E6%98%BE%E7%A4%BA%E5%B7%B2%E8%AF%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [张远说真爱都没什么好下场](https://www.baidu.com/s?wd=%E5%BC%A0%E8%BF%9C%E8%AF%B4%E7%9C%9F%E7%88%B1%E9%83%BD%E6%B2%A1%E4%BB%80%E4%B9%88%E5%A5%BD%E4%B8%8B%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [凉山女孩本科4年存下16万](https://www.baidu.com/s?wd=%E5%87%89%E5%B1%B1%E5%A5%B3%E5%AD%A9%E6%9C%AC%E7%A7%914%E5%B9%B4%E5%AD%98%E4%B8%8B16%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [骑手捂住宝宝耳朵进KTV送餐](https://www.baidu.com/s?wd=%E9%AA%91%E6%89%8B%E6%8D%82%E4%BD%8F%E5%AE%9D%E5%AE%9D%E8%80%B3%E6%9C%B5%E8%BF%9BKTV%E9%80%81%E9%A4%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [黄子佼涉多罪被立案调查](https://www.baidu.com/s?wd=%E9%BB%84%E5%AD%90%E4%BD%BC%E6%B6%89%E5%A4%9A%E7%BD%AA%E8%A2%AB%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [微信称不会显示已读](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E7%A7%B0%E4%B8%8D%E4%BC%9A%E6%98%BE%E7%A4%BA%E5%B7%B2%E8%AF%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [张远说真爱都没什么好下场](https://www.baidu.com/s?wd=%E5%BC%A0%E8%BF%9C%E8%AF%B4%E7%9C%9F%E7%88%B1%E9%83%BD%E6%B2%A1%E4%BB%80%E4%B9%88%E5%A5%BD%E4%B8%8B%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [凉山女孩本科4年存下16万](https://www.baidu.com/s?wd=%E5%87%89%E5%B1%B1%E5%A5%B3%E5%AD%A9%E6%9C%AC%E7%A7%914%E5%B9%B4%E5%AD%98%E4%B8%8B16%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [骑手捂住宝宝耳朵进KTV送餐](https://www.baidu.com/s?wd=%E9%AA%91%E6%89%8B%E6%8D%82%E4%BD%8F%E5%AE%9D%E5%AE%9D%E8%80%B3%E6%9C%B5%E8%BF%9BKTV%E9%80%81%E9%A4%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [黄子佼涉多罪被立案调查](https://www.baidu.com/s?wd=%E9%BB%84%E5%AD%90%E4%BD%BC%E6%B6%89%E5%A4%9A%E7%BD%AA%E8%A2%AB%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
