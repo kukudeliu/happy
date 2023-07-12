@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 09:44:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 09:45:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [男子在被卖到缅甸途中跳车报警](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9C%A8%E8%A2%AB%E5%8D%96%E5%88%B0%E7%BC%85%E7%94%B8%E9%80%94%E4%B8%AD%E8%B7%B3%E8%BD%A6%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=6&Refer=top)<br />
 7. [如果微信显示已读的话](https://s.weibo.com/weibo?q=%23%E5%A6%82%E6%9E%9C%E5%BE%AE%E4%BF%A1%E6%98%BE%E7%A4%BA%E5%B7%B2%E8%AF%BB%E7%9A%84%E8%AF%9D%23&t=31&band_rank=7&Refer=top)<br />
 8. [宝格丽道歉别弄成专供中国大陆](https://s.weibo.com/weibo?q=%23%E5%AE%9D%E6%A0%BC%E4%B8%BD%E9%81%93%E6%AD%89%E5%88%AB%E5%BC%84%E6%88%90%E4%B8%93%E4%BE%9B%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [大勋拜托你以孟宴臣的人设参加](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%8B%8B%E6%8B%9C%E6%89%98%E4%BD%A0%E4%BB%A5%E5%AD%9F%E5%AE%B4%E8%87%A3%E7%9A%84%E4%BA%BA%E8%AE%BE%E5%8F%82%E5%8A%A0&t=31&band_rank=9&Refer=top)<br />
+9. [欧文签约安踏](https://s.weibo.com/weibo?q=%E6%AC%A7%E6%96%87%E7%AD%BE%E7%BA%A6%E5%AE%89%E8%B8%8F&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
