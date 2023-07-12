@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 19:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 19:40:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [米兰昆德拉经典语录](https://www.baidu.com/s?wd=%E7%B1%B3%E5%85%B0%E6%98%86%E5%BE%B7%E6%8B%89%E7%BB%8F%E5%85%B8%E8%AF%AD%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子民政局大厅内疯狂殴打妻子](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%B0%91%E6%94%BF%E5%B1%80%E5%A4%A7%E5%8E%85%E5%86%85%E7%96%AF%E7%8B%82%E6%AE%B4%E6%89%93%E5%A6%BB%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [韩国综艺人李智秀去世](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E7%BB%BC%E8%89%BA%E4%BA%BA%E6%9D%8E%E6%99%BA%E7%A7%80%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [一头牛放的屁可供汽车开一天](https://www.baidu.com/s?wd=%E4%B8%80%E5%A4%B4%E7%89%9B%E6%94%BE%E7%9A%84%E5%B1%81%E5%8F%AF%E4%BE%9B%E6%B1%BD%E8%BD%A6%E5%BC%80%E4%B8%80%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [黄德义曾破坏河床挖断能过河的路](https://www.baidu.com/s?wd=%E9%BB%84%E5%BE%B7%E4%B9%89%E6%9B%BE%E7%A0%B4%E5%9D%8F%E6%B2%B3%E5%BA%8A%E6%8C%96%E6%96%AD%E8%83%BD%E8%BF%87%E6%B2%B3%E7%9A%84%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [游客爬华山云梯踩空 跌落后被人接住](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E7%88%AC%E5%8D%8E%E5%B1%B1%E4%BA%91%E6%A2%AF%E8%B8%A9%E7%A9%BA+%E8%B7%8C%E8%90%BD%E5%90%8E%E8%A2%AB%E4%BA%BA%E6%8E%A5%E4%BD%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [一头牛放的屁可供汽车开一天](https://www.baidu.com/s?wd=%E4%B8%80%E5%A4%B4%E7%89%9B%E6%94%BE%E7%9A%84%E5%B1%81%E5%8F%AF%E4%BE%9B%E6%B1%BD%E8%BD%A6%E5%BC%80%E4%B8%80%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [米兰昆德拉经典语录](https://www.baidu.com/s?wd=%E7%B1%B3%E5%85%B0%E6%98%86%E5%BE%B7%E6%8B%89%E7%BB%8F%E5%85%B8%E8%AF%AD%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子民政局大厅内疯狂殴打妻子](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%B0%91%E6%94%BF%E5%B1%80%E5%A4%A7%E5%8E%85%E5%86%85%E7%96%AF%E7%8B%82%E6%AE%B4%E6%89%93%E5%A6%BB%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [韩国综艺人李智秀去世](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E7%BB%BC%E8%89%BA%E4%BA%BA%E6%9D%8E%E6%99%BA%E7%A7%80%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [一头牛放的屁可供汽车开一天](https://www.baidu.com/s?wd=%E4%B8%80%E5%A4%B4%E7%89%9B%E6%94%BE%E7%9A%84%E5%B1%81%E5%8F%AF%E4%BE%9B%E6%B1%BD%E8%BD%A6%E5%BC%80%E4%B8%80%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [黄德义曾破坏河床挖断能过河的路](https://www.baidu.com/s?wd=%E9%BB%84%E5%BE%B7%E4%B9%89%E6%9B%BE%E7%A0%B4%E5%9D%8F%E6%B2%B3%E5%BA%8A%E6%8C%96%E6%96%AD%E8%83%BD%E8%BF%87%E6%B2%B3%E7%9A%84%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [游客爬华山云梯踩空 跌落后被人接住](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E7%88%AC%E5%8D%8E%E5%B1%B1%E4%BA%91%E6%A2%AF%E8%B8%A9%E7%A9%BA+%E8%B7%8C%E8%90%BD%E5%90%8E%E8%A2%AB%E4%BA%BA%E6%8E%A5%E4%BD%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [一头牛放的屁可供汽车开一天](https://www.baidu.com/s?wd=%E4%B8%80%E5%A4%B4%E7%89%9B%E6%94%BE%E7%9A%84%E5%B1%81%E5%8F%AF%E4%BE%9B%E6%B1%BD%E8%BD%A6%E5%BC%80%E4%B8%80%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
