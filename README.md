@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 11:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 11:28:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [成都两男子救溺水女子后失联](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E4%B8%A4%E7%94%B7%E5%AD%90%E6%95%91%E6%BA%BA%E6%B0%B4%E5%A5%B3%E5%AD%90%E5%90%8E%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [新婚夫妇潜水妻子溺亡丈夫独自上浮](https://www.baidu.com/s?wd=%E6%96%B0%E5%A9%9A%E5%A4%AB%E5%A6%87%E6%BD%9C%E6%B0%B4%E5%A6%BB%E5%AD%90%E6%BA%BA%E4%BA%A1%E4%B8%88%E5%A4%AB%E7%8B%AC%E8%87%AA%E4%B8%8A%E6%B5%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子在被卖到缅甸途中跳车报警](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E8%A2%AB%E5%8D%96%E5%88%B0%E7%BC%85%E7%94%B8%E9%80%94%E4%B8%AD%E8%B7%B3%E8%BD%A6%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [阻止游客车上睡觉导游被罚10万元](https://www.baidu.com/s?wd=%E9%98%BB%E6%AD%A2%E6%B8%B8%E5%AE%A2%E8%BD%A6%E4%B8%8A%E7%9D%A1%E8%A7%89%E5%AF%BC%E6%B8%B8%E8%A2%AB%E7%BD%9A10%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [张远说真爱都没什么好下场](https://www.baidu.com/s?wd=%E5%BC%A0%E8%BF%9C%E8%AF%B4%E7%9C%9F%E7%88%B1%E9%83%BD%E6%B2%A1%E4%BB%80%E4%B9%88%E5%A5%BD%E4%B8%8B%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [张远说真爱都没什么好下场](https://www.baidu.com/s?wd=%E5%BC%A0%E8%BF%9C%E8%AF%B4%E7%9C%9F%E7%88%B1%E9%83%BD%E6%B2%A1%E4%BB%80%E4%B9%88%E5%A5%BD%E4%B8%8B%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [阻止游客车上睡觉导游被罚10万元](https://www.baidu.com/s?wd=%E9%98%BB%E6%AD%A2%E6%B8%B8%E5%AE%A2%E8%BD%A6%E4%B8%8A%E7%9D%A1%E8%A7%89%E5%AF%BC%E6%B8%B8%E8%A2%AB%E7%BD%9A10%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [成都两男子救溺水女子后失联](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E4%B8%A4%E7%94%B7%E5%AD%90%E6%95%91%E6%BA%BA%E6%B0%B4%E5%A5%B3%E5%AD%90%E5%90%8E%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [新婚夫妇潜水妻子溺亡丈夫独自上浮](https://www.baidu.com/s?wd=%E6%96%B0%E5%A9%9A%E5%A4%AB%E5%A6%87%E6%BD%9C%E6%B0%B4%E5%A6%BB%E5%AD%90%E6%BA%BA%E4%BA%A1%E4%B8%88%E5%A4%AB%E7%8B%AC%E8%87%AA%E4%B8%8A%E6%B5%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子在被卖到缅甸途中跳车报警](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E8%A2%AB%E5%8D%96%E5%88%B0%E7%BC%85%E7%94%B8%E9%80%94%E4%B8%AD%E8%B7%B3%E8%BD%A6%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [阻止游客车上睡觉导游被罚10万元](https://www.baidu.com/s?wd=%E9%98%BB%E6%AD%A2%E6%B8%B8%E5%AE%A2%E8%BD%A6%E4%B8%8A%E7%9D%A1%E8%A7%89%E5%AF%BC%E6%B8%B8%E8%A2%AB%E7%BD%9A10%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [张远说真爱都没什么好下场](https://www.baidu.com/s?wd=%E5%BC%A0%E8%BF%9C%E8%AF%B4%E7%9C%9F%E7%88%B1%E9%83%BD%E6%B2%A1%E4%BB%80%E4%B9%88%E5%A5%BD%E4%B8%8B%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [张远说真爱都没什么好下场](https://www.baidu.com/s?wd=%E5%BC%A0%E8%BF%9C%E8%AF%B4%E7%9C%9F%E7%88%B1%E9%83%BD%E6%B2%A1%E4%BB%80%E4%B9%88%E5%A5%BD%E4%B8%8B%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [阻止游客车上睡觉导游被罚10万元](https://www.baidu.com/s?wd=%E9%98%BB%E6%AD%A2%E6%B8%B8%E5%AE%A2%E8%BD%A6%E4%B8%8A%E7%9D%A1%E8%A7%89%E5%AF%BC%E6%B8%B8%E8%A2%AB%E7%BD%9A10%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
