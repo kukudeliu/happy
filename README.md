@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 20:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 20:30:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [榜一大哥诈骗女主播12万](https://s.weibo.com/weibo?q=%23%E6%A6%9C%E4%B8%80%E5%A4%A7%E5%93%A5%E8%AF%88%E9%AA%97%E5%A5%B3%E4%B8%BB%E6%92%AD12%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [杨澄好渣](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%BE%84%E5%A5%BD%E6%B8%A3%23&t=31&band_rank=7&Refer=top)<br />
 8. [Angelababy宋轶早期同框](https://s.weibo.com/weibo?q=%23Angelababy%E5%AE%8B%E8%BD%B6%E6%97%A9%E6%9C%9F%E5%90%8C%E6%A1%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [黄牛招985学生抢林俊杰演唱会门票](https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%89%9B%E6%8B%9B985%E5%AD%A6%E7%94%9F%E6%8A%A2%E6%9E%97%E4%BF%8A%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%23&t=31&band_rank=9&Refer=top)<br />
+9. [女子来月经店员帮买卫生巾拿新裤子](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%9D%A5%E6%9C%88%E7%BB%8F%E5%BA%97%E5%91%98%E5%B8%AE%E4%B9%B0%E5%8D%AB%E7%94%9F%E5%B7%BE%E6%8B%BF%E6%96%B0%E8%A3%A4%E5%AD%90%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
