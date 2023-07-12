@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 09:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 09:20:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [美性侵上百人队医狱中被刺10刀](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%80%A7%E4%BE%B5%E4%B8%8A%E7%99%BE%E4%BA%BA%E9%98%9F%E5%8C%BB%E7%8B%B1%E4%B8%AD%E8%A2%AB%E5%88%BA10%E5%88%80%23&t=31&band_rank=6&Refer=top)<br />
 7. [男子在被卖到缅甸途中跳车报警](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9C%A8%E8%A2%AB%E5%8D%96%E5%88%B0%E7%BC%85%E7%94%B8%E9%80%94%E4%B8%AD%E8%B7%B3%E8%BD%A6%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=7&Refer=top)<br />
 8. [骑手捂住宝宝耳朵进KTV给顾客送餐](https://s.weibo.com/weibo?q=%23%E9%AA%91%E6%89%8B%E6%8D%82%E4%BD%8F%E5%AE%9D%E5%AE%9D%E8%80%B3%E6%9C%B5%E8%BF%9BKTV%E7%BB%99%E9%A1%BE%E5%AE%A2%E9%80%81%E9%A4%90%23&t=31&band_rank=8&Refer=top)<br />
-9. [宝格丽道歉别弄成专供中国大陆](https://s.weibo.com/weibo?q=%23%E5%AE%9D%E6%A0%BC%E4%B8%BD%E9%81%93%E6%AD%89%E5%88%AB%E5%BC%84%E6%88%90%E4%B8%93%E4%BE%9B%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [缅甸](https://s.weibo.com/weibo?q=%E7%BC%85%E7%94%B8&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
