@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 22:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 22:47:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [迪丽热巴工作室换头像背景](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%B7%A5%E4%BD%9C%E5%AE%A4%E6%8D%A2%E5%A4%B4%E5%83%8F%E8%83%8C%E6%99%AF%23&t=31&band_rank=6&Refer=top)<br />
 7. [游客爬华山不慎踩空跌落](https://s.weibo.com/weibo?q=%23%E6%B8%B8%E5%AE%A2%E7%88%AC%E5%8D%8E%E5%B1%B1%E4%B8%8D%E6%85%8E%E8%B8%A9%E7%A9%BA%E8%B7%8C%E8%90%BD%23&t=31&band_rank=7&Refer=top)<br />
 8. [龚俊演技](https://s.weibo.com/weibo?q=%E9%BE%9A%E4%BF%8A%E6%BC%94%E6%8A%80&t=31&band_rank=8&Refer=top)<br />
-9. [三胎爸爸用老婆孩子生日组号中7710万](https://s.weibo.com/weibo?q=%23%E4%B8%89%E8%83%8E%E7%88%B8%E7%88%B8%E7%94%A8%E8%80%81%E5%A9%86%E5%AD%A9%E5%AD%90%E7%94%9F%E6%97%A5%E7%BB%84%E5%8F%B7%E4%B8%AD7710%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
+9. [为什么现在厨房越来越小了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E5%8E%A8%E6%88%BF%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%B0%8F%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
