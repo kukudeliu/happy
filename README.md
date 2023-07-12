@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 14:38:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 14:39:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [微信称不会显示已读](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E7%A7%B0%E4%B8%8D%E4%BC%9A%E6%98%BE%E7%A4%BA%E5%B7%B2%E8%AF%BB%23&t=31&band_rank=5&Refer=top)<br />
 6. [关晓彤范丞丞床咚吻戏](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E8%8C%83%E4%B8%9E%E4%B8%9E%E5%BA%8A%E5%92%9A%E5%90%BB%E6%88%8F%23&t=31&band_rank=6&Refer=top)<br />
 7. [魏大勋文咏珊居然演过情侣](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E6%96%87%E5%92%8F%E7%8F%8A%E5%B1%85%E7%84%B6%E6%BC%94%E8%BF%87%E6%83%85%E4%BE%A3%23&t=31&band_rank=7&Refer=top)<br />
-8. [Uzi发文感谢队友](https://s.weibo.com/weibo?q=%23Uzi%E5%8F%91%E6%96%87%E6%84%9F%E8%B0%A2%E9%98%9F%E5%8F%8B%23&t=31&band_rank=8&Refer=top)<br />
-9. [每天上班很累的原因找到了](https://s.weibo.com/weibo?q=%E6%AF%8F%E5%A4%A9%E4%B8%8A%E7%8F%AD%E5%BE%88%E7%B4%AF%E7%9A%84%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+8. [充值700元仍看不完一部网文](https://s.weibo.com/weibo?q=%23%E5%85%85%E5%80%BC700%E5%85%83%E4%BB%8D%E7%9C%8B%E4%B8%8D%E5%AE%8C%E4%B8%80%E9%83%A8%E7%BD%91%E6%96%87%23&t=31&band_rank=8&Refer=top)<br />
+9. [Uzi发文感谢队友](https://s.weibo.com/weibo?q=%23Uzi%E5%8F%91%E6%96%87%E6%84%9F%E8%B0%A2%E9%98%9F%E5%8F%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
