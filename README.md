@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-13 04:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-13 04:10:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [三胎爸爸用妻儿生日组号中7710万](https://www.baidu.com/s?wd=%E4%B8%89%E8%83%8E%E7%88%B8%E7%88%B8%E7%94%A8%E5%A6%BB%E5%84%BF%E7%94%9F%E6%97%A5%E7%BB%84%E5%8F%B7%E4%B8%AD7710%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [学生逆袭被录取老师狂奔报喜](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E9%80%86%E8%A2%AD%E8%A2%AB%E5%BD%95%E5%8F%96%E8%80%81%E5%B8%88%E7%8B%82%E5%A5%94%E6%8A%A5%E5%96%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [武汉牌照宝马停哈尔滨某商场三年](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E7%89%8C%E7%85%A7%E5%AE%9D%E9%A9%AC%E5%81%9C%E5%93%88%E5%B0%94%E6%BB%A8%E6%9F%90%E5%95%86%E5%9C%BA%E4%B8%89%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [游客穿比基尼帮巴厘岛农民种庄稼](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E7%A9%BF%E6%AF%94%E5%9F%BA%E5%B0%BC%E5%B8%AE%E5%B7%B4%E5%8E%98%E5%B2%9B%E5%86%9C%E6%B0%91%E7%A7%8D%E5%BA%84%E7%A8%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [大额存单被疯抢 有银行称几乎秒光](https://www.baidu.com/s?wd=%E5%A4%A7%E9%A2%9D%E5%AD%98%E5%8D%95%E8%A2%AB%E7%96%AF%E6%8A%A2+%E6%9C%89%E9%93%B6%E8%A1%8C%E7%A7%B0%E5%87%A0%E4%B9%8E%E7%A7%92%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [学生成绩排名退1名罚2元？校方回应](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E6%88%90%E7%BB%A9%E6%8E%92%E5%90%8D%E9%80%801%E5%90%8D%E7%BD%9A2%E5%85%83%EF%BC%9F%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子在自家挖出700枚200年前硬币](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E8%87%AA%E5%AE%B6%E6%8C%96%E5%87%BA700%E6%9E%9A200%E5%B9%B4%E5%89%8D%E7%A1%AC%E5%B8%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [三胎爸爸用妻儿生日组号中7710万](https://www.baidu.com/s?wd=%E4%B8%89%E8%83%8E%E7%88%B8%E7%88%B8%E7%94%A8%E5%A6%BB%E5%84%BF%E7%94%9F%E6%97%A5%E7%BB%84%E5%8F%B7%E4%B8%AD7710%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [学生逆袭被录取老师狂奔报喜](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E9%80%86%E8%A2%AD%E8%A2%AB%E5%BD%95%E5%8F%96%E8%80%81%E5%B8%88%E7%8B%82%E5%A5%94%E6%8A%A5%E5%96%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [武汉牌照宝马停哈尔滨某商场三年](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E7%89%8C%E7%85%A7%E5%AE%9D%E9%A9%AC%E5%81%9C%E5%93%88%E5%B0%94%E6%BB%A8%E6%9F%90%E5%95%86%E5%9C%BA%E4%B8%89%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [游客穿比基尼帮巴厘岛农民种庄稼](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E7%A9%BF%E6%AF%94%E5%9F%BA%E5%B0%BC%E5%B8%AE%E5%B7%B4%E5%8E%98%E5%B2%9B%E5%86%9C%E6%B0%91%E7%A7%8D%E5%BA%84%E7%A8%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [大额存单被疯抢 有银行称几乎秒光](https://www.baidu.com/s?wd=%E5%A4%A7%E9%A2%9D%E5%AD%98%E5%8D%95%E8%A2%AB%E7%96%AF%E6%8A%A2+%E6%9C%89%E9%93%B6%E8%A1%8C%E7%A7%B0%E5%87%A0%E4%B9%8E%E7%A7%92%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [学生成绩排名退1名罚2元？校方回应](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E6%88%90%E7%BB%A9%E6%8E%92%E5%90%8D%E9%80%801%E5%90%8D%E7%BD%9A2%E5%85%83%EF%BC%9F%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子在自家挖出700枚200年前硬币](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E8%87%AA%E5%AE%B6%E6%8C%96%E5%87%BA700%E6%9E%9A200%E5%B9%B4%E5%89%8D%E7%A1%AC%E5%B8%81&sa=fyb_news&rsv_dl=fyb_news)<br />
