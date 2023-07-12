@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-13 02:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-13 02:49:01</h4></div>
 
 > 微博  
 
@@ -22,10 +22,10 @@
 3. [游客爬华山云梯踩空 跌落后被人接住](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E7%88%AC%E5%8D%8E%E5%B1%B1%E4%BA%91%E6%A2%AF%E8%B8%A9%E7%A9%BA+%E8%B7%8C%E8%90%BD%E5%90%8E%E8%A2%AB%E4%BA%BA%E6%8E%A5%E4%BD%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [多地细化举措护航暑期安全见闻](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E7%BB%86%E5%8C%96%E4%B8%BE%E6%8E%AA%E6%8A%A4%E8%88%AA%E6%9A%91%E6%9C%9F%E5%AE%89%E5%85%A8%E8%A7%81%E9%97%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [三胎爸爸用妻儿生日组号中7710万](https://www.baidu.com/s?wd=%E4%B8%89%E8%83%8E%E7%88%B8%E7%88%B8%E7%94%A8%E5%A6%BB%E5%84%BF%E7%94%9F%E6%97%A5%E7%BB%84%E5%8F%B7%E4%B8%AD7710%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [钱塘江现滚筒潮](https://www.baidu.com/s?wd=%E9%92%B1%E5%A1%98%E6%B1%9F%E7%8E%B0%E6%BB%9A%E7%AD%92%E6%BD%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [医院回应大厅里举行歌舞表演](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E5%A4%A7%E5%8E%85%E9%87%8C%E4%B8%BE%E8%A1%8C%E6%AD%8C%E8%88%9E%E8%A1%A8%E6%BC%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子在自家挖出700枚200年前硬币](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E8%87%AA%E5%AE%B6%E6%8C%96%E5%87%BA700%E6%9E%9A200%E5%B9%B4%E5%89%8D%E7%A1%AC%E5%B8%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [武汉牌照宝马停哈尔滨某商场三年](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E7%89%8C%E7%85%A7%E5%AE%9D%E9%A9%AC%E5%81%9C%E5%93%88%E5%B0%94%E6%BB%A8%E6%9F%90%E5%95%86%E5%9C%BA%E4%B8%89%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [韦世豪红牌](https://www.baidu.com/s?wd=%E9%9F%A6%E4%B8%96%E8%B1%AA%E7%BA%A2%E7%89%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [全球高温或推高粮食价格](https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%AB%98%E6%B8%A9%E6%88%96%E6%8E%A8%E9%AB%98%E7%B2%AE%E9%A3%9F%E4%BB%B7%E6%A0%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [武汉牌照宝马停哈尔滨某商场三年](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E7%89%8C%E7%85%A7%E5%AE%9D%E9%A9%AC%E5%81%9C%E5%93%88%E5%B0%94%E6%BB%A8%E6%9F%90%E5%95%86%E5%9C%BA%E4%B8%89%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [13省区市有大到暴雨来袭](https://www.baidu.com/s?wd=13%E7%9C%81%E5%8C%BA%E5%B8%82%E6%9C%89%E5%A4%A7%E5%88%B0%E6%9A%B4%E9%9B%A8%E6%9D%A5%E8%A2%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -34,7 +34,7 @@
 3. [游客爬华山云梯踩空 跌落后被人接住](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E7%88%AC%E5%8D%8E%E5%B1%B1%E4%BA%91%E6%A2%AF%E8%B8%A9%E7%A9%BA+%E8%B7%8C%E8%90%BD%E5%90%8E%E8%A2%AB%E4%BA%BA%E6%8E%A5%E4%BD%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [多地细化举措护航暑期安全见闻](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E7%BB%86%E5%8C%96%E4%B8%BE%E6%8E%AA%E6%8A%A4%E8%88%AA%E6%9A%91%E6%9C%9F%E5%AE%89%E5%85%A8%E8%A7%81%E9%97%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [三胎爸爸用妻儿生日组号中7710万](https://www.baidu.com/s?wd=%E4%B8%89%E8%83%8E%E7%88%B8%E7%88%B8%E7%94%A8%E5%A6%BB%E5%84%BF%E7%94%9F%E6%97%A5%E7%BB%84%E5%8F%B7%E4%B8%AD7710%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [钱塘江现滚筒潮](https://www.baidu.com/s?wd=%E9%92%B1%E5%A1%98%E6%B1%9F%E7%8E%B0%E6%BB%9A%E7%AD%92%E6%BD%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [医院回应大厅里举行歌舞表演](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E5%A4%A7%E5%8E%85%E9%87%8C%E4%B8%BE%E8%A1%8C%E6%AD%8C%E8%88%9E%E8%A1%A8%E6%BC%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子在自家挖出700枚200年前硬币](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E8%87%AA%E5%AE%B6%E6%8C%96%E5%87%BA700%E6%9E%9A200%E5%B9%B4%E5%89%8D%E7%A1%AC%E5%B8%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [武汉牌照宝马停哈尔滨某商场三年](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E7%89%8C%E7%85%A7%E5%AE%9D%E9%A9%AC%E5%81%9C%E5%93%88%E5%B0%94%E6%BB%A8%E6%9F%90%E5%95%86%E5%9C%BA%E4%B8%89%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [韦世豪红牌](https://www.baidu.com/s?wd=%E9%9F%A6%E4%B8%96%E8%B1%AA%E7%BA%A2%E7%89%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [全球高温或推高粮食价格](https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%AB%98%E6%B8%A9%E6%88%96%E6%8E%A8%E9%AB%98%E7%B2%AE%E9%A3%9F%E4%BB%B7%E6%A0%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [武汉牌照宝马停哈尔滨某商场三年](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E7%89%8C%E7%85%A7%E5%AE%9D%E9%A9%AC%E5%81%9C%E5%93%88%E5%B0%94%E6%BB%A8%E6%9F%90%E5%95%86%E5%9C%BA%E4%B8%89%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [13省区市有大到暴雨来袭](https://www.baidu.com/s?wd=13%E7%9C%81%E5%8C%BA%E5%B8%82%E6%9C%89%E5%A4%A7%E5%88%B0%E6%9A%B4%E9%9B%A8%E6%9D%A5%E8%A2%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
