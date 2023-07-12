@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 08:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 08:57:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [长江文物宝藏画卷](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B1%9F%E6%96%87%E7%89%A9%E5%AE%9D%E8%97%8F%E7%94%BB%E5%8D%B7%23&t=31&band_rank=3&Refer=top)<br />
 4. [如果微信显示已读的话](https://s.weibo.com/weibo?q=%23%E5%A6%82%E6%9E%9C%E5%BE%AE%E4%BF%A1%E6%98%BE%E7%A4%BA%E5%B7%B2%E8%AF%BB%E7%9A%84%E8%AF%9D%23&t=31&band_rank=4&Refer=top)<br />
 5. [骑手捂住宝宝耳朵进KTV给顾客送餐](https://s.weibo.com/weibo?q=%23%E9%AA%91%E6%89%8B%E6%8D%82%E4%BD%8F%E5%AE%9D%E5%AE%9D%E8%80%B3%E6%9C%B5%E8%BF%9BKTV%E7%BB%99%E9%A1%BE%E5%AE%A2%E9%80%81%E9%A4%90%23&t=31&band_rank=5&Refer=top)<br />
-6. [美性侵上百人队医狱中被刺10刀](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%80%A7%E4%BE%B5%E4%B8%8A%E7%99%BE%E4%BA%BA%E9%98%9F%E5%8C%BB%E7%8B%B1%E4%B8%AD%E8%A2%AB%E5%88%BA10%E5%88%80%23&t=31&band_rank=6&Refer=top)<br />
-7. [缅甸](https://s.weibo.com/weibo?q=%E7%BC%85%E7%94%B8&t=31&band_rank=7&Refer=top)<br />
+6. [缅甸](https://s.weibo.com/weibo?q=%E7%BC%85%E7%94%B8&t=31&band_rank=6&Refer=top)<br />
+7. [美性侵上百人队医狱中被刺10刀](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%80%A7%E4%BE%B5%E4%B8%8A%E7%99%BE%E4%BA%BA%E9%98%9F%E5%8C%BB%E7%8B%B1%E4%B8%AD%E8%A2%AB%E5%88%BA10%E5%88%80%23&t=31&band_rank=7&Refer=top)<br />
 8. [宝格丽道歉别弄成专供中国大陆](https://s.weibo.com/weibo?q=%23%E5%AE%9D%E6%A0%BC%E4%B8%BD%E9%81%93%E6%AD%89%E5%88%AB%E5%BC%84%E6%88%90%E4%B8%93%E4%BE%9B%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [小雪](https://s.weibo.com/weibo?q=%E5%B0%8F%E9%9B%AA&t=31&band_rank=9&Refer=top)<br />
 
