@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 17:11:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-12 17:12:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [给魏大勋吹头发的是李沁](https://s.weibo.com/weibo?q=%23%E7%BB%99%E9%AD%8F%E5%A4%A7%E5%8B%8B%E5%90%B9%E5%A4%B4%E5%8F%91%E7%9A%84%E6%98%AF%E6%9D%8E%E6%B2%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [高帮洞洞鞋](https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%AE%E6%B4%9E%E6%B4%9E%E9%9E%8B%23&t=31&band_rank=7&Refer=top)<br />
 8. [葛沛豪评论](https://s.weibo.com/weibo?q=%E8%91%9B%E6%B2%9B%E8%B1%AA%E8%AF%84%E8%AE%BA&t=31&band_rank=8&Refer=top)<br />
-9. [已读不回属于社交默契还是冷暴力](https://s.weibo.com/weibo?q=%23%E5%B7%B2%E8%AF%BB%E4%B8%8D%E5%9B%9E%E5%B1%9E%E4%BA%8E%E7%A4%BE%E4%BA%A4%E9%BB%98%E5%A5%91%E8%BF%98%E6%98%AF%E5%86%B7%E6%9A%B4%E5%8A%9B%23&t=31&band_rank=9&Refer=top)<br />
+9. [逛无印良品说的最多的一句话](https://s.weibo.com/weibo?q=%23%E9%80%9B%E6%97%A0%E5%8D%B0%E8%89%AF%E5%93%81%E8%AF%B4%E7%9A%84%E6%9C%80%E5%A4%9A%E7%9A%84%E4%B8%80%E5%8F%A5%E8%AF%9D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
