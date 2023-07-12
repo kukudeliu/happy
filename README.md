@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-13 00:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-13 00:36:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [杨紫是张一山永远的人脉](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E6%98%AF%E5%BC%A0%E4%B8%80%E5%B1%B1%E6%B0%B8%E8%BF%9C%E7%9A%84%E4%BA%BA%E8%84%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [奚安娜葛沛豪回应](https://s.weibo.com/weibo?q=%23%E5%A5%9A%E5%AE%89%E5%A8%9C%E8%91%9B%E6%B2%9B%E8%B1%AA%E5%9B%9E%E5%BA%94%23&t=31&band_rank=7&Refer=top)<br />
 8. [余华真的很懂年轻人](https://s.weibo.com/weibo?q=%E4%BD%99%E5%8D%8E%E7%9C%9F%E7%9A%84%E5%BE%88%E6%87%82%E5%B9%B4%E8%BD%BB%E4%BA%BA&t=31&band_rank=8&Refer=top)<br />
-9. [安乐传空降了](https://s.weibo.com/weibo?q=%E5%AE%89%E4%B9%90%E4%BC%A0%E7%A9%BA%E9%99%8D%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [中方不接受不承认立场得到100多国支持](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E4%B8%8D%E6%8E%A5%E5%8F%97%E4%B8%8D%E6%89%BF%E8%AE%A4%E7%AB%8B%E5%9C%BA%E5%BE%97%E5%88%B0100%E5%A4%9A%E5%9B%BD%E6%94%AF%E6%8C%81%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
