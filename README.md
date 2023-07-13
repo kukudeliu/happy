@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-13 09:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-13 09:20:01</h4></div>
 
 > 微博  
 
@@ -6,9 +6,9 @@
 2. [迪丽热巴好土我好喜欢](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%A5%BD%E5%9C%9F%E6%88%91%E5%A5%BD%E5%96%9C%E6%AC%A2%23&t=31&band_rank=2&Refer=top)<br />
 3. [十四冬举办时间定了](https://s.weibo.com/weibo?q=%23%E5%8D%81%E5%9B%9B%E5%86%AC%E4%B8%BE%E5%8A%9E%E6%97%B6%E9%97%B4%E5%AE%9A%E4%BA%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [猪场因断电死亡462头猪损失近百万](https://s.weibo.com/weibo?q=%23%E7%8C%AA%E5%9C%BA%E5%9B%A0%E6%96%AD%E7%94%B5%E6%AD%BB%E4%BA%A1462%E5%A4%B4%E7%8C%AA%E6%8D%9F%E5%A4%B1%E8%BF%91%E7%99%BE%E4%B8%87%23&t=31&band_rank=4&Refer=top)<br />
-5. [张一山靠在关晓彤后背哭](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%B8%80%E5%B1%B1%E9%9D%A0%E5%9C%A8%E5%85%B3%E6%99%93%E5%BD%A4%E5%90%8E%E8%83%8C%E5%93%AD%23&t=31&band_rank=5&Refer=top)<br />
+5. [鹿晗现身医院做康复治疗](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E7%8E%B0%E8%BA%AB%E5%8C%BB%E9%99%A2%E5%81%9A%E5%BA%B7%E5%A4%8D%E6%B2%BB%E7%96%97%23&t=31&band_rank=5&Refer=top)<br />
 6. [一个要离职的电脑屏幕长啥样](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E8%A6%81%E7%A6%BB%E8%81%8C%E7%9A%84%E7%94%B5%E8%84%91%E5%B1%8F%E5%B9%95%E9%95%BF%E5%95%A5%E6%A0%B7%23&t=31&band_rank=6&Refer=top)<br />
-7. [鹿晗现身医院做康复治疗](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E7%8E%B0%E8%BA%AB%E5%8C%BB%E9%99%A2%E5%81%9A%E5%BA%B7%E5%A4%8D%E6%B2%BB%E7%96%97%23&t=31&band_rank=7&Refer=top)<br />
+7. [张一山靠在关晓彤后背哭](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%B8%80%E5%B1%B1%E9%9D%A0%E5%9C%A8%E5%85%B3%E6%99%93%E5%BD%A4%E5%90%8E%E8%83%8C%E5%93%AD%23&t=31&band_rank=7&Refer=top)<br />
 8. [美国45岁富豪用17岁儿子血浆换血失败](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD45%E5%B2%81%E5%AF%8C%E8%B1%AA%E7%94%A817%E5%B2%81%E5%84%BF%E5%AD%90%E8%A1%80%E6%B5%86%E6%8D%A2%E8%A1%80%E5%A4%B1%E8%B4%A5%23&t=31&band_rank=8&Refer=top)<br />
 9. [定价高昂的茉酸奶为何还会突然爆火](https://s.weibo.com/weibo?q=%23%E5%AE%9A%E4%BB%B7%E9%AB%98%E6%98%82%E7%9A%84%E8%8C%89%E9%85%B8%E5%A5%B6%E4%B8%BA%E4%BD%95%E8%BF%98%E4%BC%9A%E7%AA%81%E7%84%B6%E7%88%86%E7%81%AB%23&t=31&band_rank=9&Refer=top)<br />
 
@@ -24,8 +24,8 @@
 5. [三胎爸爸用妻儿生日组号中7710万](https://www.baidu.com/s?wd=%E4%B8%89%E8%83%8E%E7%88%B8%E7%88%B8%E7%94%A8%E5%A6%BB%E5%84%BF%E7%94%9F%E6%97%A5%E7%BB%84%E5%8F%B7%E4%B8%AD7710%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [安徽刑警3天抓了1062人](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E5%88%91%E8%AD%A63%E5%A4%A9%E6%8A%93%E4%BA%861062%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [无锡女童妈妈去派出所说明转款问题](https://www.baidu.com/s?wd=%E6%97%A0%E9%94%A1%E5%A5%B3%E7%AB%A5%E5%A6%88%E5%A6%88%E5%8E%BB%E6%B4%BE%E5%87%BA%E6%89%80%E8%AF%B4%E6%98%8E%E8%BD%AC%E6%AC%BE%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [试管失败医院拒绝返还夫妻胚胎](https://www.baidu.com/s?wd=%E8%AF%95%E7%AE%A1%E5%A4%B1%E8%B4%A5%E5%8C%BB%E9%99%A2%E6%8B%92%E7%BB%9D%E8%BF%94%E8%BF%98%E5%A4%AB%E5%A6%BB%E8%83%9A%E8%83%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [重庆一消防员考上清华大学研究生](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E6%B6%88%E9%98%B2%E5%91%98%E8%80%83%E4%B8%8A%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%A0%94%E7%A9%B6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [重庆一消防员考上清华大学研究生](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E6%B6%88%E9%98%B2%E5%91%98%E8%80%83%E4%B8%8A%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%A0%94%E7%A9%B6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [消防喷水20分钟解救3000只中暑鸭](https://www.baidu.com/s?wd=%E6%B6%88%E9%98%B2%E5%96%B7%E6%B0%B420%E5%88%86%E9%92%9F%E8%A7%A3%E6%95%913000%E5%8F%AA%E4%B8%AD%E6%9A%91%E9%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [三胎爸爸用妻儿生日组号中7710万](https://www.baidu.com/s?wd=%E4%B8%89%E8%83%8E%E7%88%B8%E7%88%B8%E7%94%A8%E5%A6%BB%E5%84%BF%E7%94%9F%E6%97%A5%E7%BB%84%E5%8F%B7%E4%B8%AD7710%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [安徽刑警3天抓了1062人](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E5%88%91%E8%AD%A63%E5%A4%A9%E6%8A%93%E4%BA%861062%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [无锡女童妈妈去派出所说明转款问题](https://www.baidu.com/s?wd=%E6%97%A0%E9%94%A1%E5%A5%B3%E7%AB%A5%E5%A6%88%E5%A6%88%E5%8E%BB%E6%B4%BE%E5%87%BA%E6%89%80%E8%AF%B4%E6%98%8E%E8%BD%AC%E6%AC%BE%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [试管失败医院拒绝返还夫妻胚胎](https://www.baidu.com/s?wd=%E8%AF%95%E7%AE%A1%E5%A4%B1%E8%B4%A5%E5%8C%BB%E9%99%A2%E6%8B%92%E7%BB%9D%E8%BF%94%E8%BF%98%E5%A4%AB%E5%A6%BB%E8%83%9A%E8%83%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [重庆一消防员考上清华大学研究生](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E6%B6%88%E9%98%B2%E5%91%98%E8%80%83%E4%B8%8A%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%A0%94%E7%A9%B6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [重庆一消防员考上清华大学研究生](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E6%B6%88%E9%98%B2%E5%91%98%E8%80%83%E4%B8%8A%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%A0%94%E7%A9%B6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [消防喷水20分钟解救3000只中暑鸭](https://www.baidu.com/s?wd=%E6%B6%88%E9%98%B2%E5%96%B7%E6%B0%B420%E5%88%86%E9%92%9F%E8%A7%A3%E6%95%913000%E5%8F%AA%E4%B8%AD%E6%9A%91%E9%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
