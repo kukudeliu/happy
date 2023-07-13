@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-13 11:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-13 11:30:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [揭秘茉酸奶背后公司](https://s.weibo.com/weibo?q=%23%E6%8F%AD%E7%A7%98%E8%8C%89%E9%85%B8%E5%A5%B6%E8%83%8C%E5%90%8E%E5%85%AC%E5%8F%B8%23&t=31&band_rank=6&Refer=top)<br />
 7. [原来基围虾只是一种养殖方式](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%9F%BA%E5%9B%B4%E8%99%BE%E5%8F%AA%E6%98%AF%E4%B8%80%E7%A7%8D%E5%85%BB%E6%AE%96%E6%96%B9%E5%BC%8F%23&t=31&band_rank=7&Refer=top)<br />
 8. [宋焰给了孟宴臣10年机会](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E7%84%B0%E7%BB%99%E4%BA%86%E5%AD%9F%E5%AE%B4%E8%87%A310%E5%B9%B4%E6%9C%BA%E4%BC%9A%23&t=31&band_rank=8&Refer=top)<br />
-9. [淘宝变蓝了](https://s.weibo.com/weibo?q=%23%E6%B7%98%E5%AE%9D%E5%8F%98%E8%93%9D%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [90后落户常州三天收到15万](https://s.weibo.com/weibo?q=%2390%E5%90%8E%E8%90%BD%E6%88%B7%E5%B8%B8%E5%B7%9E%E4%B8%89%E5%A4%A9%E6%94%B6%E5%88%B015%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
