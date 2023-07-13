@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-13 17:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-13 17:39:01</h4></div>
 
 > 微博  
 
@@ -22,10 +22,10 @@
 3. [男子报警称家里全是虫 民警到场秒懂](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8A%A5%E8%AD%A6%E7%A7%B0%E5%AE%B6%E9%87%8C%E5%85%A8%E6%98%AF%E8%99%AB+%E6%B0%91%E8%AD%A6%E5%88%B0%E5%9C%BA%E7%A7%92%E6%87%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [精准有温度 护航就业路](https://www.baidu.com/s?wd=%E7%B2%BE%E5%87%86%E6%9C%89%E6%B8%A9%E5%BA%A6+%E6%8A%A4%E8%88%AA%E5%B0%B1%E4%B8%9A%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [江苏一飞机坠落 坠落地有飞机残骸](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E4%B8%80%E9%A3%9E%E6%9C%BA%E5%9D%A0%E8%90%BD+%E5%9D%A0%E8%90%BD%E5%9C%B0%E6%9C%89%E9%A3%9E%E6%9C%BA%E6%AE%8B%E9%AA%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [被砸死亡女子姐姐希望嫌疑人死刑](https://www.baidu.com/s?wd=%E8%A2%AB%E7%A0%B8%E6%AD%BB%E4%BA%A1%E5%A5%B3%E5%AD%90%E5%A7%90%E5%A7%90%E5%B8%8C%E6%9C%9B%E5%AB%8C%E7%96%91%E4%BA%BA%E6%AD%BB%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [742分女生报师专 教育局：竞争激烈](https://www.baidu.com/s?wd=742%E5%88%86%E5%A5%B3%E7%94%9F%E6%8A%A5%E5%B8%88%E4%B8%93+%E6%95%99%E8%82%B2%E5%B1%80%EF%BC%9A%E7%AB%9E%E4%BA%89%E6%BF%80%E7%83%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [网友称魏大勋老来得粉](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B0%E9%AD%8F%E5%A4%A7%E5%8B%8B%E8%80%81%E6%9D%A5%E5%BE%97%E7%B2%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [北京下半年将新增14座购物中心](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E4%B8%8B%E5%8D%8A%E5%B9%B4%E5%B0%86%E6%96%B0%E5%A2%9E14%E5%BA%A7%E8%B4%AD%E7%89%A9%E4%B8%AD%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [742分女生报师专 教育局：竞争激烈](https://www.baidu.com/s?wd=742%E5%88%86%E5%A5%B3%E7%94%9F%E6%8A%A5%E5%B8%88%E4%B8%93+%E6%95%99%E8%82%B2%E5%B1%80%EF%BC%9A%E7%AB%9E%E4%BA%89%E6%BF%80%E7%83%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [网友称魏大勋老来得粉](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B0%E9%AD%8F%E5%A4%A7%E5%8B%8B%E8%80%81%E6%9D%A5%E5%BE%97%E7%B2%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子景区内飞滑翔伞踩到游客头](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%99%AF%E5%8C%BA%E5%86%85%E9%A3%9E%E6%BB%91%E7%BF%94%E4%BC%9E%E8%B8%A9%E5%88%B0%E6%B8%B8%E5%AE%A2%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [被砸死亡女子姐姐希望嫌疑人死刑](https://www.baidu.com/s?wd=%E8%A2%AB%E7%A0%B8%E6%AD%BB%E4%BA%A1%E5%A5%B3%E5%AD%90%E5%A7%90%E5%A7%90%E5%B8%8C%E6%9C%9B%E5%AB%8C%E7%96%91%E4%BA%BA%E6%AD%BB%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -34,7 +34,7 @@
 3. [男子报警称家里全是虫 民警到场秒懂](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8A%A5%E8%AD%A6%E7%A7%B0%E5%AE%B6%E9%87%8C%E5%85%A8%E6%98%AF%E8%99%AB+%E6%B0%91%E8%AD%A6%E5%88%B0%E5%9C%BA%E7%A7%92%E6%87%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [精准有温度 护航就业路](https://www.baidu.com/s?wd=%E7%B2%BE%E5%87%86%E6%9C%89%E6%B8%A9%E5%BA%A6+%E6%8A%A4%E8%88%AA%E5%B0%B1%E4%B8%9A%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [江苏一飞机坠落 坠落地有飞机残骸](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E4%B8%80%E9%A3%9E%E6%9C%BA%E5%9D%A0%E8%90%BD+%E5%9D%A0%E8%90%BD%E5%9C%B0%E6%9C%89%E9%A3%9E%E6%9C%BA%E6%AE%8B%E9%AA%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [被砸死亡女子姐姐希望嫌疑人死刑](https://www.baidu.com/s?wd=%E8%A2%AB%E7%A0%B8%E6%AD%BB%E4%BA%A1%E5%A5%B3%E5%AD%90%E5%A7%90%E5%A7%90%E5%B8%8C%E6%9C%9B%E5%AB%8C%E7%96%91%E4%BA%BA%E6%AD%BB%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [742分女生报师专 教育局：竞争激烈](https://www.baidu.com/s?wd=742%E5%88%86%E5%A5%B3%E7%94%9F%E6%8A%A5%E5%B8%88%E4%B8%93+%E6%95%99%E8%82%B2%E5%B1%80%EF%BC%9A%E7%AB%9E%E4%BA%89%E6%BF%80%E7%83%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [网友称魏大勋老来得粉](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B0%E9%AD%8F%E5%A4%A7%E5%8B%8B%E8%80%81%E6%9D%A5%E5%BE%97%E7%B2%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [北京下半年将新增14座购物中心](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E4%B8%8B%E5%8D%8A%E5%B9%B4%E5%B0%86%E6%96%B0%E5%A2%9E14%E5%BA%A7%E8%B4%AD%E7%89%A9%E4%B8%AD%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [742分女生报师专 教育局：竞争激烈](https://www.baidu.com/s?wd=742%E5%88%86%E5%A5%B3%E7%94%9F%E6%8A%A5%E5%B8%88%E4%B8%93+%E6%95%99%E8%82%B2%E5%B1%80%EF%BC%9A%E7%AB%9E%E4%BA%89%E6%BF%80%E7%83%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [网友称魏大勋老来得粉](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B0%E9%AD%8F%E5%A4%A7%E5%8B%8B%E8%80%81%E6%9D%A5%E5%BE%97%E7%B2%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子景区内飞滑翔伞踩到游客头](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%99%AF%E5%8C%BA%E5%86%85%E9%A3%9E%E6%BB%91%E7%BF%94%E4%BC%9E%E8%B8%A9%E5%88%B0%E6%B8%B8%E5%AE%A2%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [被砸死亡女子姐姐希望嫌疑人死刑](https://www.baidu.com/s?wd=%E8%A2%AB%E7%A0%B8%E6%AD%BB%E4%BA%A1%E5%A5%B3%E5%AD%90%E5%A7%90%E5%A7%90%E5%B8%8C%E6%9C%9B%E5%AB%8C%E7%96%91%E4%BA%BA%E6%AD%BB%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
