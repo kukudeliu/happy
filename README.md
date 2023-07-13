@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-13 17:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-13 17:37:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [宋焰许沁结婚了](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E7%84%B0%E8%AE%B8%E6%B2%81%E7%BB%93%E5%A9%9A%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [蒋依依敖子逸真的好嗑](https://s.weibo.com/weibo?q=%E8%92%8B%E4%BE%9D%E4%BE%9D%E6%95%96%E5%AD%90%E9%80%B8%E7%9C%9F%E7%9A%84%E5%A5%BD%E5%97%91&t=31&band_rank=6&Refer=top)<br />
 7. [山西殴打队长致死环卫工已被捕](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E6%AE%B4%E6%89%93%E9%98%9F%E9%95%BF%E8%87%B4%E6%AD%BB%E7%8E%AF%E5%8D%AB%E5%B7%A5%E5%B7%B2%E8%A2%AB%E6%8D%95%23&t=31&band_rank=7&Refer=top)<br />
-8. [江苏镇江一飞机坠落泥地中](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E9%95%87%E6%B1%9F%E4%B8%80%E9%A3%9E%E6%9C%BA%E5%9D%A0%E8%90%BD%E6%B3%A5%E5%9C%B0%E4%B8%AD%23&t=31&band_rank=8&Refer=top)<br />
-9. [好想被打入冷宫](https://s.weibo.com/weibo?q=%23%E5%A5%BD%E6%83%B3%E8%A2%AB%E6%89%93%E5%85%A5%E5%86%B7%E5%AE%AB%23&t=31&band_rank=9&Refer=top)<br />
+8. [好想被打入冷宫](https://s.weibo.com/weibo?q=%23%E5%A5%BD%E6%83%B3%E8%A2%AB%E6%89%93%E5%85%A5%E5%86%B7%E5%AE%AB%23&t=31&band_rank=8&Refer=top)<br />
+9. [江苏镇江一飞机坠落泥地中](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E9%95%87%E6%B1%9F%E4%B8%80%E9%A3%9E%E6%9C%BA%E5%9D%A0%E8%90%BD%E6%B3%A5%E5%9C%B0%E4%B8%AD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
