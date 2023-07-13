@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-13 17:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-13 17:49:01</h4></div>
 
 > 微博  
 
-1. [女子买69平公寓37平是公摊](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B9%B069%E5%B9%B3%E5%85%AC%E5%AF%9337%E5%B9%B3%E6%98%AF%E5%85%AC%E6%91%8A%23&t=31&band_rank=1&Refer=top)<br />
-2. [宋焰许沁结婚了](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E7%84%B0%E8%AE%B8%E6%B2%81%E7%BB%93%E5%A9%9A%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
+1. [宋焰许沁结婚了](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E7%84%B0%E8%AE%B8%E6%B2%81%E7%BB%93%E5%A9%9A%E4%BA%86%23&t=31&band_rank=1&Refer=top)<br />
+2. [女子买69平公寓37平是公摊](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B9%B069%E5%B9%B3%E5%85%AC%E5%AF%9337%E5%B9%B3%E6%98%AF%E5%85%AC%E6%91%8A%23&t=31&band_rank=2&Refer=top)<br />
 3. [这些录取通知书里满是骄傲和期许](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%9B%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E9%87%8C%E6%BB%A1%E6%98%AF%E9%AA%84%E5%82%B2%E5%92%8C%E6%9C%9F%E8%AE%B8%23&t=31&band_rank=3&Refer=top)<br />
 4. [复旦现场领录取通知书名额20秒抢空](https://s.weibo.com/weibo?q=%23%E5%A4%8D%E6%97%A6%E7%8E%B0%E5%9C%BA%E9%A2%86%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E5%90%8D%E9%A2%9D20%E7%A7%92%E6%8A%A2%E7%A9%BA%23&t=31&band_rank=4&Refer=top)<br />
 5. [爱宝](https://s.weibo.com/weibo?q=%E7%88%B1%E5%AE%9D&t=31&band_rank=5&Refer=top)<br />
