@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-14 04:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-14 05:00:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [还记得2008年发生了什么吗](https://s.weibo.com/weibo?q=%E8%BF%98%E8%AE%B0%E5%BE%972008%E5%B9%B4%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88%E5%90%97&t=31&band_rank=4&Refer=top)<br />
 5. [奔跑吧官博近半个月没更新了](https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%E5%AE%98%E5%8D%9A%E8%BF%91%E5%8D%8A%E4%B8%AA%E6%9C%88%E6%B2%A1%E6%9B%B4%E6%96%B0%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [魏大勋直播](https://s.weibo.com/weibo?q=%E9%AD%8F%E5%A4%A7%E5%8B%8B%E7%9B%B4%E6%92%AD&t=31&band_rank=6&Refer=top)<br />
-7. [班长别扇了一会儿感冒了](https://s.weibo.com/weibo?q=%23%E7%8F%AD%E9%95%BF%E5%88%AB%E6%89%87%E4%BA%86%E4%B8%80%E4%BC%9A%E5%84%BF%E6%84%9F%E5%86%92%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [双职工独立带娃的解决方案](https://s.weibo.com/weibo?q=%23%E5%8F%8C%E8%81%8C%E5%B7%A5%E7%8B%AC%E7%AB%8B%E5%B8%A6%E5%A8%83%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%23&t=31&band_rank=8&Refer=top)<br />
+7. [双职工独立带娃的解决方案](https://s.weibo.com/weibo?q=%23%E5%8F%8C%E8%81%8C%E5%B7%A5%E7%8B%AC%E7%AB%8B%E5%B8%A6%E5%A8%83%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%23&t=31&band_rank=7&Refer=top)<br />
+8. [班长别扇了一会儿感冒了](https://s.weibo.com/weibo?q=%23%E7%8F%AD%E9%95%BF%E5%88%AB%E6%89%87%E4%BA%86%E4%B8%80%E4%BC%9A%E5%84%BF%E6%84%9F%E5%86%92%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [为什么大家不愿意去泰国旅游了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%A7%E5%AE%B6%E4%B8%8D%E6%84%BF%E6%84%8F%E5%8E%BB%E6%B3%B0%E5%9B%BD%E6%97%85%E6%B8%B8%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
