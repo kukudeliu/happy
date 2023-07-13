@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-14 04:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-14 04:53:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [男子报警称家里全是虫 民警到场秒懂](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8A%A5%E8%AD%A6%E7%A7%B0%E5%AE%B6%E9%87%8C%E5%85%A8%E6%98%AF%E8%99%AB+%E6%B0%91%E8%AD%A6%E5%88%B0%E5%9C%BA%E7%A7%92%E6%87%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [“银行高管”娶四个老婆获刑](https://www.baidu.com/s?wd=%E2%80%9C%E9%93%B6%E8%A1%8C%E9%AB%98%E7%AE%A1%E2%80%9D%E5%A8%B6%E5%9B%9B%E4%B8%AA%E8%80%81%E5%A9%86%E8%8E%B7%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [富力地产被申请破产重整](https://www.baidu.com/s?wd=%E5%AF%8C%E5%8A%9B%E5%9C%B0%E4%BA%A7%E8%A2%AB%E7%94%B3%E8%AF%B7%E7%A0%B4%E4%BA%A7%E9%87%8D%E6%95%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [742分女生报师专 教育局：竞争激烈](https://www.baidu.com/s?wd=742%E5%88%86%E5%A5%B3%E7%94%9F%E6%8A%A5%E5%B8%88%E4%B8%93+%E6%95%99%E8%82%B2%E5%B1%80%EF%BC%9A%E7%AB%9E%E4%BA%89%E6%BF%80%E7%83%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [狗狗被电动车踏板打了一路屁股](https://www.baidu.com/s?wd=%E7%8B%97%E7%8B%97%E8%A2%AB%E7%94%B5%E5%8A%A8%E8%BD%A6%E8%B8%8F%E6%9D%BF%E6%89%93%E4%BA%86%E4%B8%80%E8%B7%AF%E5%B1%81%E8%82%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [男子报警称家里全是虫 民警到场秒懂](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8A%A5%E8%AD%A6%E7%A7%B0%E5%AE%B6%E9%87%8C%E5%85%A8%E6%98%AF%E8%99%AB+%E6%B0%91%E8%AD%A6%E5%88%B0%E5%9C%BA%E7%A7%92%E6%87%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [“银行高管”娶四个老婆获刑](https://www.baidu.com/s?wd=%E2%80%9C%E9%93%B6%E8%A1%8C%E9%AB%98%E7%AE%A1%E2%80%9D%E5%A8%B6%E5%9B%9B%E4%B8%AA%E8%80%81%E5%A9%86%E8%8E%B7%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [富力地产被申请破产重整](https://www.baidu.com/s?wd=%E5%AF%8C%E5%8A%9B%E5%9C%B0%E4%BA%A7%E8%A2%AB%E7%94%B3%E8%AF%B7%E7%A0%B4%E4%BA%A7%E9%87%8D%E6%95%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [742分女生报师专 教育局：竞争激烈](https://www.baidu.com/s?wd=742%E5%88%86%E5%A5%B3%E7%94%9F%E6%8A%A5%E5%B8%88%E4%B8%93+%E6%95%99%E8%82%B2%E5%B1%80%EF%BC%9A%E7%AB%9E%E4%BA%89%E6%BF%80%E7%83%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [狗狗被电动车踏板打了一路屁股](https://www.baidu.com/s?wd=%E7%8B%97%E7%8B%97%E8%A2%AB%E7%94%B5%E5%8A%A8%E8%BD%A6%E8%B8%8F%E6%9D%BF%E6%89%93%E4%BA%86%E4%B8%80%E8%B7%AF%E5%B1%81%E8%82%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
