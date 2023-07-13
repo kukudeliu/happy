@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-14 05:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-14 05:57:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [马斯克称自己“有点亲华”](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B0%E8%87%AA%E5%B7%B1%E2%80%9C%E6%9C%89%E7%82%B9%E4%BA%B2%E5%8D%8E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [侵权易烊千玺小吃店被强执](https://www.baidu.com/s?wd=%E4%BE%B5%E6%9D%83%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%B0%8F%E5%90%83%E5%BA%97%E8%A2%AB%E5%BC%BA%E6%89%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [742分女生报师专 教育局：竞争激烈](https://www.baidu.com/s?wd=742%E5%88%86%E5%A5%B3%E7%94%9F%E6%8A%A5%E5%B8%88%E4%B8%93+%E6%95%99%E8%82%B2%E5%B1%80%EF%BC%9A%E7%AB%9E%E4%BA%89%E6%BF%80%E7%83%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [7成网友认为微信需减少占用空间](https://www.baidu.com/s?wd=7%E6%88%90%E7%BD%91%E5%8F%8B%E8%AE%A4%E4%B8%BA%E5%BE%AE%E4%BF%A1%E9%9C%80%E5%87%8F%E5%B0%91%E5%8D%A0%E7%94%A8%E7%A9%BA%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [华山或将关闭云梯](https://www.baidu.com/s?wd=%E5%8D%8E%E5%B1%B1%E6%88%96%E5%B0%86%E5%85%B3%E9%97%AD%E4%BA%91%E6%A2%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [裤装裙装？宁夏男女厕标识难区分](https://www.baidu.com/s?wd=%E8%A3%A4%E8%A3%85%E8%A3%99%E8%A3%85%EF%BC%9F%E5%AE%81%E5%A4%8F%E7%94%B7%E5%A5%B3%E5%8E%95%E6%A0%87%E8%AF%86%E9%9A%BE%E5%8C%BA%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [马斯克称自己“有点亲华”](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B0%E8%87%AA%E5%B7%B1%E2%80%9C%E6%9C%89%E7%82%B9%E4%BA%B2%E5%8D%8E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [侵权易烊千玺小吃店被强执](https://www.baidu.com/s?wd=%E4%BE%B5%E6%9D%83%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%B0%8F%E5%90%83%E5%BA%97%E8%A2%AB%E5%BC%BA%E6%89%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [742分女生报师专 教育局：竞争激烈](https://www.baidu.com/s?wd=742%E5%88%86%E5%A5%B3%E7%94%9F%E6%8A%A5%E5%B8%88%E4%B8%93+%E6%95%99%E8%82%B2%E5%B1%80%EF%BC%9A%E7%AB%9E%E4%BA%89%E6%BF%80%E7%83%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [7成网友认为微信需减少占用空间](https://www.baidu.com/s?wd=7%E6%88%90%E7%BD%91%E5%8F%8B%E8%AE%A4%E4%B8%BA%E5%BE%AE%E4%BF%A1%E9%9C%80%E5%87%8F%E5%B0%91%E5%8D%A0%E7%94%A8%E7%A9%BA%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [华山或将关闭云梯](https://www.baidu.com/s?wd=%E5%8D%8E%E5%B1%B1%E6%88%96%E5%B0%86%E5%85%B3%E9%97%AD%E4%BA%91%E6%A2%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [裤装裙装？宁夏男女厕标识难区分](https://www.baidu.com/s?wd=%E8%A3%A4%E8%A3%85%E8%A3%99%E8%A3%85%EF%BC%9F%E5%AE%81%E5%A4%8F%E7%94%B7%E5%A5%B3%E5%8E%95%E6%A0%87%E8%AF%86%E9%9A%BE%E5%8C%BA%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
