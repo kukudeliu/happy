@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-13 17:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-13 17:57:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [女子买69平公寓37平是公摊](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B9%B069%E5%B9%B3%E5%85%AC%E5%AF%9337%E5%B9%B3%E6%98%AF%E5%85%AC%E6%91%8A%23&t=31&band_rank=4&Refer=top)<br />
 5. [朋友邀约玩上车却直奔缅甸](https://s.weibo.com/weibo?q=%23%E6%9C%8B%E5%8F%8B%E9%82%80%E7%BA%A6%E7%8E%A9%E4%B8%8A%E8%BD%A6%E5%8D%B4%E7%9B%B4%E5%A5%94%E7%BC%85%E7%94%B8%23&t=31&band_rank=5&Refer=top)<br />
 6. [长期吹空调不能吹到的部位](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E5%90%B9%E7%A9%BA%E8%B0%83%E4%B8%8D%E8%83%BD%E5%90%B9%E5%88%B0%E7%9A%84%E9%83%A8%E4%BD%8D%23&t=31&band_rank=6&Refer=top)<br />
-7. [爱宝](https://s.weibo.com/weibo?q=%E7%88%B1%E5%AE%9D&t=31&band_rank=7&Refer=top)<br />
-8. [山西殴打队长致死环卫工已被捕](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E6%AE%B4%E6%89%93%E9%98%9F%E9%95%BF%E8%87%B4%E6%AD%BB%E7%8E%AF%E5%8D%AB%E5%B7%A5%E5%B7%B2%E8%A2%AB%E6%8D%95%23&t=31&band_rank=8&Refer=top)<br />
-9. [蒋依依敖子逸真的好嗑](https://s.weibo.com/weibo?q=%E8%92%8B%E4%BE%9D%E4%BE%9D%E6%95%96%E5%AD%90%E9%80%B8%E7%9C%9F%E7%9A%84%E5%A5%BD%E5%97%91&t=31&band_rank=9&Refer=top)<br />
+7. [爱宝双胞胎女儿喝奶画面](https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%AE%9D%E5%8F%8C%E8%83%9E%E8%83%8E%E5%A5%B3%E5%84%BF%E5%96%9D%E5%A5%B6%E7%94%BB%E9%9D%A2%23&t=31&band_rank=7&Refer=top)<br />
+8. [爱宝](https://s.weibo.com/weibo?q=%E7%88%B1%E5%AE%9D&t=31&band_rank=8&Refer=top)<br />
+9. [山西殴打队长致死环卫工已被捕](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E6%AE%B4%E6%89%93%E9%98%9F%E9%95%BF%E8%87%B4%E6%AD%BB%E7%8E%AF%E5%8D%AB%E5%B7%A5%E5%B7%B2%E8%A2%AB%E6%8D%95%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
