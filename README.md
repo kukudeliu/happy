@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-13 09:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-13 09:52:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [无锡女童妈妈去派出所说明转款问题](https://www.baidu.com/s?wd=%E6%97%A0%E9%94%A1%E5%A5%B3%E7%AB%A5%E5%A6%88%E5%A6%88%E5%8E%BB%E6%B4%BE%E5%87%BA%E6%89%80%E8%AF%B4%E6%98%8E%E8%BD%AC%E6%AC%BE%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [安徽刑警3天抓了1062人](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E5%88%91%E8%AD%A63%E5%A4%A9%E6%8A%93%E4%BA%861062%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [试管失败医院拒绝返还夫妻胚胎](https://www.baidu.com/s?wd=%E8%AF%95%E7%AE%A1%E5%A4%B1%E8%B4%A5%E5%8C%BB%E9%99%A2%E6%8B%92%E7%BB%9D%E8%BF%94%E8%BF%98%E5%A4%AB%E5%A6%BB%E8%83%9A%E8%83%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [工人带瓦刀进站被拒？火车站通报](https://www.baidu.com/s?wd=%E5%B7%A5%E4%BA%BA%E5%B8%A6%E7%93%A6%E5%88%80%E8%BF%9B%E7%AB%99%E8%A2%AB%E6%8B%92%EF%BC%9F%E7%81%AB%E8%BD%A6%E7%AB%99%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [重庆一消防员考上清华大学研究生](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E6%B6%88%E9%98%B2%E5%91%98%E8%80%83%E4%B8%8A%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%A0%94%E7%A9%B6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [无锡女童妈妈去派出所说明转款问题](https://www.baidu.com/s?wd=%E6%97%A0%E9%94%A1%E5%A5%B3%E7%AB%A5%E5%A6%88%E5%A6%88%E5%8E%BB%E6%B4%BE%E5%87%BA%E6%89%80%E8%AF%B4%E6%98%8E%E8%BD%AC%E6%AC%BE%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [安徽刑警3天抓了1062人](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E5%88%91%E8%AD%A63%E5%A4%A9%E6%8A%93%E4%BA%861062%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [试管失败医院拒绝返还夫妻胚胎](https://www.baidu.com/s?wd=%E8%AF%95%E7%AE%A1%E5%A4%B1%E8%B4%A5%E5%8C%BB%E9%99%A2%E6%8B%92%E7%BB%9D%E8%BF%94%E8%BF%98%E5%A4%AB%E5%A6%BB%E8%83%9A%E8%83%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [工人带瓦刀进站被拒？火车站通报](https://www.baidu.com/s?wd=%E5%B7%A5%E4%BA%BA%E5%B8%A6%E7%93%A6%E5%88%80%E8%BF%9B%E7%AB%99%E8%A2%AB%E6%8B%92%EF%BC%9F%E7%81%AB%E8%BD%A6%E7%AB%99%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [重庆一消防员考上清华大学研究生](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E6%B6%88%E9%98%B2%E5%91%98%E8%80%83%E4%B8%8A%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%A0%94%E7%A9%B6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
