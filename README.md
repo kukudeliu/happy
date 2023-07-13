@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-14 02:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-14 02:19:01</h4></div>
 
 > 微博  
 
@@ -22,10 +22,10 @@
 3. [高考钉子户唐尚珺公布高考志愿](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E9%92%89%E5%AD%90%E6%88%B7%E5%94%90%E5%B0%9A%E7%8F%BA%E5%85%AC%E5%B8%83%E9%AB%98%E8%80%83%E5%BF%97%E6%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [坚持生态优先 推进高质量发展](https://www.baidu.com/s?wd=%E5%9D%9A%E6%8C%81%E7%94%9F%E6%80%81%E4%BC%98%E5%85%88+%E6%8E%A8%E8%BF%9B%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [马斯克称自己“有点亲华”](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B0%E8%87%AA%E5%B7%B1%E2%80%9C%E6%9C%89%E7%82%B9%E4%BA%B2%E5%8D%8E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男子报警称家里全是虫 民警到场秒懂](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8A%A5%E8%AD%A6%E7%A7%B0%E5%AE%B6%E9%87%8C%E5%85%A8%E6%98%AF%E8%99%AB+%E6%B0%91%E8%AD%A6%E5%88%B0%E5%9C%BA%E7%A7%92%E6%87%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [西安城区暴雨街道变河道](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E5%9F%8E%E5%8C%BA%E6%9A%B4%E9%9B%A8%E8%A1%97%E9%81%93%E5%8F%98%E6%B2%B3%E9%81%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [淘宝天猫集团回应取消p序列](https://www.baidu.com/s?wd=%E6%B7%98%E5%AE%9D%E5%A4%A9%E7%8C%AB%E9%9B%86%E5%9B%A2%E5%9B%9E%E5%BA%94%E5%8F%96%E6%B6%88p%E5%BA%8F%E5%88%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [华山或将关闭云梯](https://www.baidu.com/s?wd=%E5%8D%8E%E5%B1%B1%E6%88%96%E5%B0%86%E5%85%B3%E9%97%AD%E4%BA%91%E6%A2%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [老人挥铁锹砸人后往对方身上铲土](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E6%8C%A5%E9%93%81%E9%94%B9%E7%A0%B8%E4%BA%BA%E5%90%8E%E5%BE%80%E5%AF%B9%E6%96%B9%E8%BA%AB%E4%B8%8A%E9%93%B2%E5%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [广汽三菱：进入临时停产状态](https://www.baidu.com/s?wd=%E5%B9%BF%E6%B1%BD%E4%B8%89%E8%8F%B1%EF%BC%9A%E8%BF%9B%E5%85%A5%E4%B8%B4%E6%97%B6%E5%81%9C%E4%BA%A7%E7%8A%B6%E6%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [原银监会副主席蔡鄂生被控受贿超5亿](https://www.baidu.com/s?wd=%E5%8E%9F%E9%93%B6%E7%9B%91%E4%BC%9A%E5%89%AF%E4%B8%BB%E5%B8%AD%E8%94%A1%E9%84%82%E7%94%9F%E8%A2%AB%E6%8E%A7%E5%8F%97%E8%B4%BF%E8%B6%855%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子报警称家里全是虫 民警到场秒懂](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8A%A5%E8%AD%A6%E7%A7%B0%E5%AE%B6%E9%87%8C%E5%85%A8%E6%98%AF%E8%99%AB+%E6%B0%91%E8%AD%A6%E5%88%B0%E5%9C%BA%E7%A7%92%E6%87%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -34,7 +34,7 @@
 3. [高考钉子户唐尚珺公布高考志愿](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E9%92%89%E5%AD%90%E6%88%B7%E5%94%90%E5%B0%9A%E7%8F%BA%E5%85%AC%E5%B8%83%E9%AB%98%E8%80%83%E5%BF%97%E6%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [坚持生态优先 推进高质量发展](https://www.baidu.com/s?wd=%E5%9D%9A%E6%8C%81%E7%94%9F%E6%80%81%E4%BC%98%E5%85%88+%E6%8E%A8%E8%BF%9B%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [马斯克称自己“有点亲华”](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B0%E8%87%AA%E5%B7%B1%E2%80%9C%E6%9C%89%E7%82%B9%E4%BA%B2%E5%8D%8E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男子报警称家里全是虫 民警到场秒懂](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8A%A5%E8%AD%A6%E7%A7%B0%E5%AE%B6%E9%87%8C%E5%85%A8%E6%98%AF%E8%99%AB+%E6%B0%91%E8%AD%A6%E5%88%B0%E5%9C%BA%E7%A7%92%E6%87%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [西安城区暴雨街道变河道](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E5%9F%8E%E5%8C%BA%E6%9A%B4%E9%9B%A8%E8%A1%97%E9%81%93%E5%8F%98%E6%B2%B3%E9%81%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [淘宝天猫集团回应取消p序列](https://www.baidu.com/s?wd=%E6%B7%98%E5%AE%9D%E5%A4%A9%E7%8C%AB%E9%9B%86%E5%9B%A2%E5%9B%9E%E5%BA%94%E5%8F%96%E6%B6%88p%E5%BA%8F%E5%88%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [华山或将关闭云梯](https://www.baidu.com/s?wd=%E5%8D%8E%E5%B1%B1%E6%88%96%E5%B0%86%E5%85%B3%E9%97%AD%E4%BA%91%E6%A2%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [老人挥铁锹砸人后往对方身上铲土](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E6%8C%A5%E9%93%81%E9%94%B9%E7%A0%B8%E4%BA%BA%E5%90%8E%E5%BE%80%E5%AF%B9%E6%96%B9%E8%BA%AB%E4%B8%8A%E9%93%B2%E5%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [广汽三菱：进入临时停产状态](https://www.baidu.com/s?wd=%E5%B9%BF%E6%B1%BD%E4%B8%89%E8%8F%B1%EF%BC%9A%E8%BF%9B%E5%85%A5%E4%B8%B4%E6%97%B6%E5%81%9C%E4%BA%A7%E7%8A%B6%E6%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [原银监会副主席蔡鄂生被控受贿超5亿](https://www.baidu.com/s?wd=%E5%8E%9F%E9%93%B6%E7%9B%91%E4%BC%9A%E5%89%AF%E4%B8%BB%E5%B8%AD%E8%94%A1%E9%84%82%E7%94%9F%E8%A2%AB%E6%8E%A7%E5%8F%97%E8%B4%BF%E8%B6%855%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子报警称家里全是虫 民警到场秒懂](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8A%A5%E8%AD%A6%E7%A7%B0%E5%AE%B6%E9%87%8C%E5%85%A8%E6%98%AF%E8%99%AB+%E6%B0%91%E8%AD%A6%E5%88%B0%E5%9C%BA%E7%A7%92%E6%87%82&sa=fyb_news&rsv_dl=fyb_news)<br />
