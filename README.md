@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-13 09:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-13 09:36:02</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [迪丽热巴好土我好喜欢](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%A5%BD%E5%9C%9F%E6%88%91%E5%A5%BD%E5%96%9C%E6%AC%A2%23&t=31&band_rank=2&Refer=top)<br />
 3. [十四冬举办时间定了](https://s.weibo.com/weibo?q=%23%E5%8D%81%E5%9B%9B%E5%86%AC%E4%B8%BE%E5%8A%9E%E6%97%B6%E9%97%B4%E5%AE%9A%E4%BA%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [鹿晗现身医院做康复治疗](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E7%8E%B0%E8%BA%AB%E5%8C%BB%E9%99%A2%E5%81%9A%E5%BA%B7%E5%A4%8D%E6%B2%BB%E7%96%97%23&t=31&band_rank=4&Refer=top)<br />
-5. [猪场因断电死亡462头猪损失近百万](https://s.weibo.com/weibo?q=%23%E7%8C%AA%E5%9C%BA%E5%9B%A0%E6%96%AD%E7%94%B5%E6%AD%BB%E4%BA%A1462%E5%A4%B4%E7%8C%AA%E6%8D%9F%E5%A4%B1%E8%BF%91%E7%99%BE%E4%B8%87%23&t=31&band_rank=5&Refer=top)<br />
-6. [恭喜他们结婚了](https://s.weibo.com/weibo?q=%23%E6%81%AD%E5%96%9C%E4%BB%96%E4%BB%AC%E7%BB%93%E5%A9%9A%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
+5. [恭喜他们结婚了](https://s.weibo.com/weibo?q=%23%E6%81%AD%E5%96%9C%E4%BB%96%E4%BB%AC%E7%BB%93%E5%A9%9A%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
+6. [猪场因断电死亡462头猪损失近百万](https://s.weibo.com/weibo?q=%23%E7%8C%AA%E5%9C%BA%E5%9B%A0%E6%96%AD%E7%94%B5%E6%AD%BB%E4%BA%A1462%E5%A4%B4%E7%8C%AA%E6%8D%9F%E5%A4%B1%E8%BF%91%E7%99%BE%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [江西 悬崖套房](https://s.weibo.com/weibo?q=%E6%B1%9F%E8%A5%BF%20%E6%82%AC%E5%B4%96%E5%A5%97%E6%88%BF&t=31&band_rank=7&Refer=top)<br />
 8. [张一山靠在关晓彤后背哭](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%B8%80%E5%B1%B1%E9%9D%A0%E5%9C%A8%E5%85%B3%E6%99%93%E5%BD%A4%E5%90%8E%E8%83%8C%E5%93%AD%23&t=31&band_rank=8&Refer=top)<br />
 9. [宋焰给了孟宴臣10年机会](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E7%84%B0%E7%BB%99%E4%BA%86%E5%AD%9F%E5%AE%B4%E8%87%A310%E5%B9%B4%E6%9C%BA%E4%BC%9A%23&t=31&band_rank=9&Refer=top)<br />
@@ -19,9 +19,9 @@
 
 1. [在新的历史起点上继续推动文化繁荣](https://www.baidu.com/s?wd=%E5%9C%A8%E6%96%B0%E7%9A%84%E5%8E%86%E5%8F%B2%E8%B5%B7%E7%82%B9%E4%B8%8A%E7%BB%A7%E7%BB%AD%E6%8E%A8%E5%8A%A8%E6%96%87%E5%8C%96%E7%B9%81%E8%8D%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [二十大以来首个正部级落马](https://www.baidu.com/s?wd=%E4%BA%8C%E5%8D%81%E5%A4%A7%E4%BB%A5%E6%9D%A5%E9%A6%96%E4%B8%AA%E6%AD%A3%E9%83%A8%E7%BA%A7%E8%90%BD%E9%A9%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [游客爬华山云梯踩空 跌落后被人接住](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E7%88%AC%E5%8D%8E%E5%B1%B1%E4%BA%91%E6%A2%AF%E8%B8%A9%E7%A9%BA+%E8%B7%8C%E8%90%BD%E5%90%8E%E8%A2%AB%E4%BA%BA%E6%8E%A5%E4%BD%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [9岁男孩被跳楼者砸中昏迷不醒](https://www.baidu.com/s?wd=9%E5%B2%81%E7%94%B7%E5%AD%A9%E8%A2%AB%E8%B7%B3%E6%A5%BC%E8%80%85%E7%A0%B8%E4%B8%AD%E6%98%8F%E8%BF%B7%E4%B8%8D%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [多地细化举措护航暑期安全见闻](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E7%BB%86%E5%8C%96%E4%B8%BE%E6%8E%AA%E6%8A%A4%E8%88%AA%E6%9A%91%E6%9C%9F%E5%AE%89%E5%85%A8%E8%A7%81%E9%97%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [三胎爸爸用妻儿生日组号中7710万](https://www.baidu.com/s?wd=%E4%B8%89%E8%83%8E%E7%88%B8%E7%88%B8%E7%94%A8%E5%A6%BB%E5%84%BF%E7%94%9F%E6%97%A5%E7%BB%84%E5%8F%B7%E4%B8%AD7710%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [猪场因断电死亡462头猪损失近百万](https://www.baidu.com/s?wd=%E7%8C%AA%E5%9C%BA%E5%9B%A0%E6%96%AD%E7%94%B5%E6%AD%BB%E4%BA%A1462%E5%A4%B4%E7%8C%AA%E6%8D%9F%E5%A4%B1%E8%BF%91%E7%99%BE%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [安徽刑警3天抓了1062人](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E5%88%91%E8%AD%A63%E5%A4%A9%E6%8A%93%E4%BA%861062%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [无锡女童妈妈去派出所说明转款问题](https://www.baidu.com/s?wd=%E6%97%A0%E9%94%A1%E5%A5%B3%E7%AB%A5%E5%A6%88%E5%A6%88%E5%8E%BB%E6%B4%BE%E5%87%BA%E6%89%80%E8%AF%B4%E6%98%8E%E8%BD%AC%E6%AC%BE%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [老人怕味大影响乘客高铁上干吃泡面](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E6%80%95%E5%91%B3%E5%A4%A7%E5%BD%B1%E5%93%8D%E4%B9%98%E5%AE%A2%E9%AB%98%E9%93%81%E4%B8%8A%E5%B9%B2%E5%90%83%E6%B3%A1%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -31,9 +31,9 @@
 
 1. [在新的历史起点上继续推动文化繁荣](https://www.baidu.com/s?wd=%E5%9C%A8%E6%96%B0%E7%9A%84%E5%8E%86%E5%8F%B2%E8%B5%B7%E7%82%B9%E4%B8%8A%E7%BB%A7%E7%BB%AD%E6%8E%A8%E5%8A%A8%E6%96%87%E5%8C%96%E7%B9%81%E8%8D%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [二十大以来首个正部级落马](https://www.baidu.com/s?wd=%E4%BA%8C%E5%8D%81%E5%A4%A7%E4%BB%A5%E6%9D%A5%E9%A6%96%E4%B8%AA%E6%AD%A3%E9%83%A8%E7%BA%A7%E8%90%BD%E9%A9%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [游客爬华山云梯踩空 跌落后被人接住](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E7%88%AC%E5%8D%8E%E5%B1%B1%E4%BA%91%E6%A2%AF%E8%B8%A9%E7%A9%BA+%E8%B7%8C%E8%90%BD%E5%90%8E%E8%A2%AB%E4%BA%BA%E6%8E%A5%E4%BD%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [9岁男孩被跳楼者砸中昏迷不醒](https://www.baidu.com/s?wd=9%E5%B2%81%E7%94%B7%E5%AD%A9%E8%A2%AB%E8%B7%B3%E6%A5%BC%E8%80%85%E7%A0%B8%E4%B8%AD%E6%98%8F%E8%BF%B7%E4%B8%8D%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [多地细化举措护航暑期安全见闻](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E7%BB%86%E5%8C%96%E4%B8%BE%E6%8E%AA%E6%8A%A4%E8%88%AA%E6%9A%91%E6%9C%9F%E5%AE%89%E5%85%A8%E8%A7%81%E9%97%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [三胎爸爸用妻儿生日组号中7710万](https://www.baidu.com/s?wd=%E4%B8%89%E8%83%8E%E7%88%B8%E7%88%B8%E7%94%A8%E5%A6%BB%E5%84%BF%E7%94%9F%E6%97%A5%E7%BB%84%E5%8F%B7%E4%B8%AD7710%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [猪场因断电死亡462头猪损失近百万](https://www.baidu.com/s?wd=%E7%8C%AA%E5%9C%BA%E5%9B%A0%E6%96%AD%E7%94%B5%E6%AD%BB%E4%BA%A1462%E5%A4%B4%E7%8C%AA%E6%8D%9F%E5%A4%B1%E8%BF%91%E7%99%BE%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [安徽刑警3天抓了1062人](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E5%88%91%E8%AD%A63%E5%A4%A9%E6%8A%93%E4%BA%861062%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [无锡女童妈妈去派出所说明转款问题](https://www.baidu.com/s?wd=%E6%97%A0%E9%94%A1%E5%A5%B3%E7%AB%A5%E5%A6%88%E5%A6%88%E5%8E%BB%E6%B4%BE%E5%87%BA%E6%89%80%E8%AF%B4%E6%98%8E%E8%BD%AC%E6%AC%BE%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [老人怕味大影响乘客高铁上干吃泡面](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E6%80%95%E5%91%B3%E5%A4%A7%E5%BD%B1%E5%93%8D%E4%B9%98%E5%AE%A2%E9%AB%98%E9%93%81%E4%B8%8A%E5%B9%B2%E5%90%83%E6%B3%A1%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
