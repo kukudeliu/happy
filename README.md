@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-13 09:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-13 09:12:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [一个要离职的电脑屏幕长啥样](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E8%A6%81%E7%A6%BB%E8%81%8C%E7%9A%84%E7%94%B5%E8%84%91%E5%B1%8F%E5%B9%95%E9%95%BF%E5%95%A5%E6%A0%B7%23&t=31&band_rank=6&Refer=top)<br />
 7. [定价高昂的茉酸奶为何还会突然爆火](https://s.weibo.com/weibo?q=%23%E5%AE%9A%E4%BB%B7%E9%AB%98%E6%98%82%E7%9A%84%E8%8C%89%E9%85%B8%E5%A5%B6%E4%B8%BA%E4%BD%95%E8%BF%98%E4%BC%9A%E7%AA%81%E7%84%B6%E7%88%86%E7%81%AB%23&t=31&band_rank=7&Refer=top)<br />
 8. [宋焰给了孟宴臣10年机会](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E7%84%B0%E7%BB%99%E4%BA%86%E5%AD%9F%E5%AE%B4%E8%87%A310%E5%B9%B4%E6%9C%BA%E4%BC%9A%23&t=31&band_rank=8&Refer=top)<br />
-9. [杨迪说魏大勋最近热度高](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%BF%AA%E8%AF%B4%E9%AD%8F%E5%A4%A7%E5%8B%8B%E6%9C%80%E8%BF%91%E7%83%AD%E5%BA%A6%E9%AB%98%23&t=31&band_rank=9&Refer=top)<br />
+9. [鹿晗现身医院做康复治疗](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E7%8E%B0%E8%BA%AB%E5%8C%BB%E9%99%A2%E5%81%9A%E5%BA%B7%E5%A4%8D%E6%B2%BB%E7%96%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
