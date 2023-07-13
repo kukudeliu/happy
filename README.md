@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-13 10:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-13 10:45:01</h4></div>
 
 > 微博  
 
@@ -23,9 +23,9 @@
 4. [多地细化举措护航暑期安全见闻](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E7%BB%86%E5%8C%96%E4%B8%BE%E6%8E%AA%E6%8A%A4%E8%88%AA%E6%9A%91%E6%9C%9F%E5%AE%89%E5%85%A8%E8%A7%81%E9%97%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [猪场因断电死亡462头猪损失近百万](https://www.baidu.com/s?wd=%E7%8C%AA%E5%9C%BA%E5%9B%A0%E6%96%AD%E7%94%B5%E6%AD%BB%E4%BA%A1462%E5%A4%B4%E7%8C%AA%E6%8D%9F%E5%A4%B1%E8%BF%91%E7%99%BE%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [马丽的孩子确实叫沈腾舅舅](https://www.baidu.com/s?wd=%E9%A9%AC%E4%B8%BD%E7%9A%84%E5%AD%A9%E5%AD%90%E7%A1%AE%E5%AE%9E%E5%8F%AB%E6%B2%88%E8%85%BE%E8%88%85%E8%88%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [老人怕味大影响乘客高铁上干吃泡面](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E6%80%95%E5%91%B3%E5%A4%A7%E5%BD%B1%E5%93%8D%E4%B9%98%E5%AE%A2%E9%AB%98%E9%93%81%E4%B8%8A%E5%B9%B2%E5%90%83%E6%B3%A1%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [重庆一消防员考上清华大学研究生](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E6%B6%88%E9%98%B2%E5%91%98%E8%80%83%E4%B8%8A%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%A0%94%E7%A9%B6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [工人带瓦刀进站被拒？火车站通报](https://www.baidu.com/s?wd=%E5%B7%A5%E4%BA%BA%E5%B8%A6%E7%93%A6%E5%88%80%E8%BF%9B%E7%AB%99%E8%A2%AB%E6%8B%92%EF%BC%9F%E7%81%AB%E8%BD%A6%E7%AB%99%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [6人沼气中毒身亡：1人被困5人施救](https://www.baidu.com/s?wd=6%E4%BA%BA%E6%B2%BC%E6%B0%94%E4%B8%AD%E6%AF%92%E8%BA%AB%E4%BA%A1%EF%BC%9A1%E4%BA%BA%E8%A2%AB%E5%9B%B05%E4%BA%BA%E6%96%BD%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [老人怕味大影响乘客高铁上干吃泡面](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E6%80%95%E5%91%B3%E5%A4%A7%E5%BD%B1%E5%93%8D%E4%B9%98%E5%AE%A2%E9%AB%98%E9%93%81%E4%B8%8A%E5%B9%B2%E5%90%83%E6%B3%A1%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [重庆一消防员考上清华大学研究生](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E6%B6%88%E9%98%B2%E5%91%98%E8%80%83%E4%B8%8A%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%A0%94%E7%A9%B6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -35,6 +35,6 @@
 4. [多地细化举措护航暑期安全见闻](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E7%BB%86%E5%8C%96%E4%B8%BE%E6%8E%AA%E6%8A%A4%E8%88%AA%E6%9A%91%E6%9C%9F%E5%AE%89%E5%85%A8%E8%A7%81%E9%97%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [猪场因断电死亡462头猪损失近百万](https://www.baidu.com/s?wd=%E7%8C%AA%E5%9C%BA%E5%9B%A0%E6%96%AD%E7%94%B5%E6%AD%BB%E4%BA%A1462%E5%A4%B4%E7%8C%AA%E6%8D%9F%E5%A4%B1%E8%BF%91%E7%99%BE%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [马丽的孩子确实叫沈腾舅舅](https://www.baidu.com/s?wd=%E9%A9%AC%E4%B8%BD%E7%9A%84%E5%AD%A9%E5%AD%90%E7%A1%AE%E5%AE%9E%E5%8F%AB%E6%B2%88%E8%85%BE%E8%88%85%E8%88%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [老人怕味大影响乘客高铁上干吃泡面](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E6%80%95%E5%91%B3%E5%A4%A7%E5%BD%B1%E5%93%8D%E4%B9%98%E5%AE%A2%E9%AB%98%E9%93%81%E4%B8%8A%E5%B9%B2%E5%90%83%E6%B3%A1%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [重庆一消防员考上清华大学研究生](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E6%B6%88%E9%98%B2%E5%91%98%E8%80%83%E4%B8%8A%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%A0%94%E7%A9%B6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [工人带瓦刀进站被拒？火车站通报](https://www.baidu.com/s?wd=%E5%B7%A5%E4%BA%BA%E5%B8%A6%E7%93%A6%E5%88%80%E8%BF%9B%E7%AB%99%E8%A2%AB%E6%8B%92%EF%BC%9F%E7%81%AB%E8%BD%A6%E7%AB%99%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [6人沼气中毒身亡：1人被困5人施救](https://www.baidu.com/s?wd=6%E4%BA%BA%E6%B2%BC%E6%B0%94%E4%B8%AD%E6%AF%92%E8%BA%AB%E4%BA%A1%EF%BC%9A1%E4%BA%BA%E8%A2%AB%E5%9B%B05%E4%BA%BA%E6%96%BD%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [老人怕味大影响乘客高铁上干吃泡面](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E6%80%95%E5%91%B3%E5%A4%A7%E5%BD%B1%E5%93%8D%E4%B9%98%E5%AE%A2%E9%AB%98%E9%93%81%E4%B8%8A%E5%B9%B2%E5%90%83%E6%B3%A1%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [重庆一消防员考上清华大学研究生](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E6%B6%88%E9%98%B2%E5%91%98%E8%80%83%E4%B8%8A%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%A0%94%E7%A9%B6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
