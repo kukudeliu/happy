@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-14 04:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-14 04:45:02</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [马斯克称自己“有点亲华”](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B0%E8%87%AA%E5%B7%B1%E2%80%9C%E6%9C%89%E7%82%B9%E4%BA%B2%E5%8D%8E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [暴雨后马路堆积上百米泡沫](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E5%90%8E%E9%A9%AC%E8%B7%AF%E5%A0%86%E7%A7%AF%E4%B8%8A%E7%99%BE%E7%B1%B3%E6%B3%A1%E6%B2%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [贾静雯和高圆圆每年都会见几次](https://www.baidu.com/s?wd=%E8%B4%BE%E9%9D%99%E9%9B%AF%E5%92%8C%E9%AB%98%E5%9C%86%E5%9C%86%E6%AF%8F%E5%B9%B4%E9%83%BD%E4%BC%9A%E8%A7%81%E5%87%A0%E6%AC%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [老人怕味大影响乘客高铁上干吃泡面](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E6%80%95%E5%91%B3%E5%A4%A7%E5%BD%B1%E5%93%8D%E4%B9%98%E5%AE%A2%E9%AB%98%E9%93%81%E4%B8%8A%E5%B9%B2%E5%90%83%E6%B3%A1%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [华山或将关闭云梯](https://www.baidu.com/s?wd=%E5%8D%8E%E5%B1%B1%E6%88%96%E5%B0%86%E5%85%B3%E9%97%AD%E4%BA%91%E6%A2%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [742分女生报师专 教育局：竞争激烈](https://www.baidu.com/s?wd=742%E5%88%86%E5%A5%B3%E7%94%9F%E6%8A%A5%E5%B8%88%E4%B8%93+%E6%95%99%E8%82%B2%E5%B1%80%EF%BC%9A%E7%AB%9E%E4%BA%89%E6%BF%80%E7%83%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [老人怕味大影响乘客高铁上干吃泡面](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E6%80%95%E5%91%B3%E5%A4%A7%E5%BD%B1%E5%93%8D%E4%B9%98%E5%AE%A2%E9%AB%98%E9%93%81%E4%B8%8A%E5%B9%B2%E5%90%83%E6%B3%A1%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [马斯克称自己“有点亲华”](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B0%E8%87%AA%E5%B7%B1%E2%80%9C%E6%9C%89%E7%82%B9%E4%BA%B2%E5%8D%8E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [暴雨后马路堆积上百米泡沫](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E5%90%8E%E9%A9%AC%E8%B7%AF%E5%A0%86%E7%A7%AF%E4%B8%8A%E7%99%BE%E7%B1%B3%E6%B3%A1%E6%B2%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [贾静雯和高圆圆每年都会见几次](https://www.baidu.com/s?wd=%E8%B4%BE%E9%9D%99%E9%9B%AF%E5%92%8C%E9%AB%98%E5%9C%86%E5%9C%86%E6%AF%8F%E5%B9%B4%E9%83%BD%E4%BC%9A%E8%A7%81%E5%87%A0%E6%AC%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [老人怕味大影响乘客高铁上干吃泡面](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E6%80%95%E5%91%B3%E5%A4%A7%E5%BD%B1%E5%93%8D%E4%B9%98%E5%AE%A2%E9%AB%98%E9%93%81%E4%B8%8A%E5%B9%B2%E5%90%83%E6%B3%A1%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [华山或将关闭云梯](https://www.baidu.com/s?wd=%E5%8D%8E%E5%B1%B1%E6%88%96%E5%B0%86%E5%85%B3%E9%97%AD%E4%BA%91%E6%A2%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [742分女生报师专 教育局：竞争激烈](https://www.baidu.com/s?wd=742%E5%88%86%E5%A5%B3%E7%94%9F%E6%8A%A5%E5%B8%88%E4%B8%93+%E6%95%99%E8%82%B2%E5%B1%80%EF%BC%9A%E7%AB%9E%E4%BA%89%E6%BF%80%E7%83%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [老人怕味大影响乘客高铁上干吃泡面](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E6%80%95%E5%91%B3%E5%A4%A7%E5%BD%B1%E5%93%8D%E4%B9%98%E5%AE%A2%E9%AB%98%E9%93%81%E4%B8%8A%E5%B9%B2%E5%90%83%E6%B3%A1%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
