@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-13 19:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-13 19:49:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [宋焰许沁结婚了](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E7%84%B0%E8%AE%B8%E6%B2%81%E7%BB%93%E5%A9%9A%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [复旦现场领录取通知书名额20秒抢空](https://s.weibo.com/weibo?q=%23%E5%A4%8D%E6%97%A6%E7%8E%B0%E5%9C%BA%E9%A2%86%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E5%90%8D%E9%A2%9D20%E7%A7%92%E6%8A%A2%E7%A9%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [我爹一条朋友圈点赞人数](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%88%B9%E4%B8%80%E6%9D%A1%E6%9C%8B%E5%8F%8B%E5%9C%88%E7%82%B9%E8%B5%9E%E4%BA%BA%E6%95%B0%23&t=31&band_rank=8&Refer=top)<br />
-9. [刘诗诗看了都得愣一下](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E7%9C%8B%E4%BA%86%E9%83%BD%E5%BE%97%E6%84%A3%E4%B8%80%E4%B8%8B%23&t=31&band_rank=9&Refer=top)<br />
+9. [EXO又打歌了](https://s.weibo.com/weibo?q=%23EXO%E5%8F%88%E6%89%93%E6%AD%8C%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -25,7 +25,7 @@
 6. [28岁小姨哄娃10天崩溃哀嚎](https://www.baidu.com/s?wd=28%E5%B2%81%E5%B0%8F%E5%A7%A8%E5%93%84%E5%A8%8310%E5%A4%A9%E5%B4%A9%E6%BA%83%E5%93%80%E5%9A%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [网传南通董事长在群内炮轰足协](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E5%8D%97%E9%80%9A%E8%91%A3%E4%BA%8B%E9%95%BF%E5%9C%A8%E7%BE%A4%E5%86%85%E7%82%AE%E8%BD%B0%E8%B6%B3%E5%8D%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [李维嘉吴昕比水浓一点但又没超过血](https://www.baidu.com/s?wd=%E6%9D%8E%E7%BB%B4%E5%98%89%E5%90%B4%E6%98%95%E6%AF%94%E6%B0%B4%E6%B5%93%E4%B8%80%E7%82%B9%E4%BD%86%E5%8F%88%E6%B2%A1%E8%B6%85%E8%BF%87%E8%A1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [李家超首次在立法会用普通话回答](https://www.baidu.com/s?wd=%E6%9D%8E%E5%AE%B6%E8%B6%85%E9%A6%96%E6%AC%A1%E5%9C%A8%E7%AB%8B%E6%B3%95%E4%BC%9A%E7%94%A8%E6%99%AE%E9%80%9A%E8%AF%9D%E5%9B%9E%E7%AD%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [狗狗被电动车踏板打了一路屁股](https://www.baidu.com/s?wd=%E7%8B%97%E7%8B%97%E8%A2%AB%E7%94%B5%E5%8A%A8%E8%BD%A6%E8%B8%8F%E6%9D%BF%E6%89%93%E4%BA%86%E4%B8%80%E8%B7%AF%E5%B1%81%E8%82%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [28岁小姨哄娃10天崩溃哀嚎](https://www.baidu.com/s?wd=28%E5%B2%81%E5%B0%8F%E5%A7%A8%E5%93%84%E5%A8%8310%E5%A4%A9%E5%B4%A9%E6%BA%83%E5%93%80%E5%9A%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [网传南通董事长在群内炮轰足协](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E5%8D%97%E9%80%9A%E8%91%A3%E4%BA%8B%E9%95%BF%E5%9C%A8%E7%BE%A4%E5%86%85%E7%82%AE%E8%BD%B0%E8%B6%B3%E5%8D%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [李维嘉吴昕比水浓一点但又没超过血](https://www.baidu.com/s?wd=%E6%9D%8E%E7%BB%B4%E5%98%89%E5%90%B4%E6%98%95%E6%AF%94%E6%B0%B4%E6%B5%93%E4%B8%80%E7%82%B9%E4%BD%86%E5%8F%88%E6%B2%A1%E8%B6%85%E8%BF%87%E8%A1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [李家超首次在立法会用普通话回答](https://www.baidu.com/s?wd=%E6%9D%8E%E5%AE%B6%E8%B6%85%E9%A6%96%E6%AC%A1%E5%9C%A8%E7%AB%8B%E6%B3%95%E4%BC%9A%E7%94%A8%E6%99%AE%E9%80%9A%E8%AF%9D%E5%9B%9E%E7%AD%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [狗狗被电动车踏板打了一路屁股](https://www.baidu.com/s?wd=%E7%8B%97%E7%8B%97%E8%A2%AB%E7%94%B5%E5%8A%A8%E8%BD%A6%E8%B8%8F%E6%9D%BF%E6%89%93%E4%BA%86%E4%B8%80%E8%B7%AF%E5%B1%81%E8%82%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
