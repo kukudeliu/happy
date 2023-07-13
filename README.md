@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-14 06:23:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-14 06:24:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [高考钉子户唐尚珺公布高考志愿](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E9%92%89%E5%AD%90%E6%88%B7%E5%94%90%E5%B0%9A%E7%8F%BA%E5%85%AC%E5%B8%83%E9%AB%98%E8%80%83%E5%BF%97%E6%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [坚持生态优先 推进高质量发展](https://www.baidu.com/s?wd=%E5%9D%9A%E6%8C%81%E7%94%9F%E6%80%81%E4%BC%98%E5%85%88+%E6%8E%A8%E8%BF%9B%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [马斯克称自己“有点亲华”](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B0%E8%87%AA%E5%B7%B1%E2%80%9C%E6%9C%89%E7%82%B9%E4%BA%B2%E5%8D%8E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男子报警称家里全是虫 民警到场秒懂](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8A%A5%E8%AD%A6%E7%A7%B0%E5%AE%B6%E9%87%8C%E5%85%A8%E6%98%AF%E8%99%AB+%E6%B0%91%E8%AD%A6%E5%88%B0%E5%9C%BA%E7%A7%92%E6%87%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [烂尾楼电梯坠落 一家四口险被淹](https://www.baidu.com/s?wd=%E7%83%82%E5%B0%BE%E6%A5%BC%E7%94%B5%E6%A2%AF%E5%9D%A0%E8%90%BD+%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E9%99%A9%E8%A2%AB%E6%B7%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [郑州一小学强制家长轮流站岗](https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E4%B8%80%E5%B0%8F%E5%AD%A6%E5%BC%BA%E5%88%B6%E5%AE%B6%E9%95%BF%E8%BD%AE%E6%B5%81%E7%AB%99%E5%B2%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [杨洋王楚然好像婚礼迎宾](https://www.baidu.com/s?wd=%E6%9D%A8%E6%B4%8B%E7%8E%8B%E6%A5%9A%E7%84%B6%E5%A5%BD%E5%83%8F%E5%A9%9A%E7%A4%BC%E8%BF%8E%E5%AE%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子报警称家里全是虫 民警到场秒懂](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8A%A5%E8%AD%A6%E7%A7%B0%E5%AE%B6%E9%87%8C%E5%85%A8%E6%98%AF%E8%99%AB+%E6%B0%91%E8%AD%A6%E5%88%B0%E5%9C%BA%E7%A7%92%E6%87%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子疑在售水机打水时触电身亡](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%96%91%E5%9C%A8%E5%94%AE%E6%B0%B4%E6%9C%BA%E6%89%93%E6%B0%B4%E6%97%B6%E8%A7%A6%E7%94%B5%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [曝Z姓女演员霸凌员工](https://www.baidu.com/s?wd=%E6%9B%9DZ%E5%A7%93%E5%A5%B3%E6%BC%94%E5%91%98%E9%9C%B8%E5%87%8C%E5%91%98%E5%B7%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [高考钉子户唐尚珺公布高考志愿](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E9%92%89%E5%AD%90%E6%88%B7%E5%94%90%E5%B0%9A%E7%8F%BA%E5%85%AC%E5%B8%83%E9%AB%98%E8%80%83%E5%BF%97%E6%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [坚持生态优先 推进高质量发展](https://www.baidu.com/s?wd=%E5%9D%9A%E6%8C%81%E7%94%9F%E6%80%81%E4%BC%98%E5%85%88+%E6%8E%A8%E8%BF%9B%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [马斯克称自己“有点亲华”](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B0%E8%87%AA%E5%B7%B1%E2%80%9C%E6%9C%89%E7%82%B9%E4%BA%B2%E5%8D%8E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男子报警称家里全是虫 民警到场秒懂](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8A%A5%E8%AD%A6%E7%A7%B0%E5%AE%B6%E9%87%8C%E5%85%A8%E6%98%AF%E8%99%AB+%E6%B0%91%E8%AD%A6%E5%88%B0%E5%9C%BA%E7%A7%92%E6%87%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [烂尾楼电梯坠落 一家四口险被淹](https://www.baidu.com/s?wd=%E7%83%82%E5%B0%BE%E6%A5%BC%E7%94%B5%E6%A2%AF%E5%9D%A0%E8%90%BD+%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E9%99%A9%E8%A2%AB%E6%B7%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [郑州一小学强制家长轮流站岗](https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E4%B8%80%E5%B0%8F%E5%AD%A6%E5%BC%BA%E5%88%B6%E5%AE%B6%E9%95%BF%E8%BD%AE%E6%B5%81%E7%AB%99%E5%B2%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [杨洋王楚然好像婚礼迎宾](https://www.baidu.com/s?wd=%E6%9D%A8%E6%B4%8B%E7%8E%8B%E6%A5%9A%E7%84%B6%E5%A5%BD%E5%83%8F%E5%A9%9A%E7%A4%BC%E8%BF%8E%E5%AE%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子报警称家里全是虫 民警到场秒懂](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8A%A5%E8%AD%A6%E7%A7%B0%E5%AE%B6%E9%87%8C%E5%85%A8%E6%98%AF%E8%99%AB+%E6%B0%91%E8%AD%A6%E5%88%B0%E5%9C%BA%E7%A7%92%E6%87%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子疑在售水机打水时触电身亡](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%96%91%E5%9C%A8%E5%94%AE%E6%B0%B4%E6%9C%BA%E6%89%93%E6%B0%B4%E6%97%B6%E8%A7%A6%E7%94%B5%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [曝Z姓女演员霸凌员工](https://www.baidu.com/s?wd=%E6%9B%9DZ%E5%A7%93%E5%A5%B3%E6%BC%94%E5%91%98%E9%9C%B8%E5%87%8C%E5%91%98%E5%B7%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
