@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-13 14:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-13 14:54:01</h4></div>
 
 > 微博  
 
@@ -18,23 +18,23 @@
 > 百度  
 
 1. [在新的历史起点上继续推动文化繁荣](https://www.baidu.com/s?wd=%E5%9C%A8%E6%96%B0%E7%9A%84%E5%8E%86%E5%8F%B2%E8%B5%B7%E7%82%B9%E4%B8%8A%E7%BB%A7%E7%BB%AD%E6%8E%A8%E5%8A%A8%E6%96%87%E5%8C%96%E7%B9%81%E8%8D%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [江苏一飞机坠落 坠落地有飞机残骸](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E4%B8%80%E9%A3%9E%E6%9C%BA%E5%9D%A0%E8%90%BD+%E5%9D%A0%E8%90%BD%E5%9C%B0%E6%9C%89%E9%A3%9E%E6%9C%BA%E6%AE%8B%E9%AA%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [西安城区暴雨街道变河道](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E5%9F%8E%E5%8C%BA%E6%9A%B4%E9%9B%A8%E8%A1%97%E9%81%93%E5%8F%98%E6%B2%B3%E9%81%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [男子自称上山捡菌遇老虎 警方：行拘](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%87%AA%E7%A7%B0%E4%B8%8A%E5%B1%B1%E6%8D%A1%E8%8F%8C%E9%81%87%E8%80%81%E8%99%8E+%E8%AD%A6%E6%96%B9%EF%BC%9A%E8%A1%8C%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [多地细化举措护航暑期安全见闻](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E7%BB%86%E5%8C%96%E4%B8%BE%E6%8E%AA%E6%8A%A4%E8%88%AA%E6%9A%91%E6%9C%9F%E5%AE%89%E5%85%A8%E8%A7%81%E9%97%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [男子炫耀钓到大鱼挂后备箱示众](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%82%AB%E8%80%80%E9%92%93%E5%88%B0%E5%A4%A7%E9%B1%BC%E6%8C%82%E5%90%8E%E5%A4%87%E7%AE%B1%E7%A4%BA%E4%BC%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [西安暴雨 多辆电动车被冲走](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E6%9A%B4%E9%9B%A8+%E5%A4%9A%E8%BE%86%E7%94%B5%E5%8A%A8%E8%BD%A6%E8%A2%AB%E5%86%B2%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [狗狗被电动车踏板打了一路屁股](https://www.baidu.com/s?wd=%E7%8B%97%E7%8B%97%E8%A2%AB%E7%94%B5%E5%8A%A8%E8%BD%A6%E8%B8%8F%E6%9D%BF%E6%89%93%E4%BA%86%E4%B8%80%E8%B7%AF%E5%B1%81%E8%82%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [重度自闭症男孩靠吹气球成网红](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%A6%E8%87%AA%E9%97%AD%E7%97%87%E7%94%B7%E5%AD%A9%E9%9D%A0%E5%90%B9%E6%B0%94%E7%90%83%E6%88%90%E7%BD%91%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [广州平均月薪10883元](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E5%B9%B3%E5%9D%87%E6%9C%88%E8%96%AA10883%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [曾发短信辱骂无锡店主网友道歉](https://www.baidu.com/s?wd=%E6%9B%BE%E5%8F%91%E7%9F%AD%E4%BF%A1%E8%BE%B1%E9%AA%82%E6%97%A0%E9%94%A1%E5%BA%97%E4%B8%BB%E7%BD%91%E5%8F%8B%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [广州平均月薪10883元](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E5%B9%B3%E5%9D%87%E6%9C%88%E8%96%AA10883%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [江苏盐城一轿车撞人致2死6伤](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E7%9B%90%E5%9F%8E%E4%B8%80%E8%BD%BF%E8%BD%A6%E6%92%9E%E4%BA%BA%E8%87%B42%E6%AD%BB6%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [在新的历史起点上继续推动文化繁荣](https://www.baidu.com/s?wd=%E5%9C%A8%E6%96%B0%E7%9A%84%E5%8E%86%E5%8F%B2%E8%B5%B7%E7%82%B9%E4%B8%8A%E7%BB%A7%E7%BB%AD%E6%8E%A8%E5%8A%A8%E6%96%87%E5%8C%96%E7%B9%81%E8%8D%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [江苏一飞机坠落 坠落地有飞机残骸](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E4%B8%80%E9%A3%9E%E6%9C%BA%E5%9D%A0%E8%90%BD+%E5%9D%A0%E8%90%BD%E5%9C%B0%E6%9C%89%E9%A3%9E%E6%9C%BA%E6%AE%8B%E9%AA%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [西安城区暴雨街道变河道](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E5%9F%8E%E5%8C%BA%E6%9A%B4%E9%9B%A8%E8%A1%97%E9%81%93%E5%8F%98%E6%B2%B3%E9%81%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [男子自称上山捡菌遇老虎 警方：行拘](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%87%AA%E7%A7%B0%E4%B8%8A%E5%B1%B1%E6%8D%A1%E8%8F%8C%E9%81%87%E8%80%81%E8%99%8E+%E8%AD%A6%E6%96%B9%EF%BC%9A%E8%A1%8C%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [多地细化举措护航暑期安全见闻](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E7%BB%86%E5%8C%96%E4%B8%BE%E6%8E%AA%E6%8A%A4%E8%88%AA%E6%9A%91%E6%9C%9F%E5%AE%89%E5%85%A8%E8%A7%81%E9%97%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [男子炫耀钓到大鱼挂后备箱示众](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%82%AB%E8%80%80%E9%92%93%E5%88%B0%E5%A4%A7%E9%B1%BC%E6%8C%82%E5%90%8E%E5%A4%87%E7%AE%B1%E7%A4%BA%E4%BC%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [西安暴雨 多辆电动车被冲走](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E6%9A%B4%E9%9B%A8+%E5%A4%9A%E8%BE%86%E7%94%B5%E5%8A%A8%E8%BD%A6%E8%A2%AB%E5%86%B2%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [狗狗被电动车踏板打了一路屁股](https://www.baidu.com/s?wd=%E7%8B%97%E7%8B%97%E8%A2%AB%E7%94%B5%E5%8A%A8%E8%BD%A6%E8%B8%8F%E6%9D%BF%E6%89%93%E4%BA%86%E4%B8%80%E8%B7%AF%E5%B1%81%E8%82%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [重度自闭症男孩靠吹气球成网红](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%A6%E8%87%AA%E9%97%AD%E7%97%87%E7%94%B7%E5%AD%A9%E9%9D%A0%E5%90%B9%E6%B0%94%E7%90%83%E6%88%90%E7%BD%91%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [广州平均月薪10883元](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E5%B9%B3%E5%9D%87%E6%9C%88%E8%96%AA10883%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [曾发短信辱骂无锡店主网友道歉](https://www.baidu.com/s?wd=%E6%9B%BE%E5%8F%91%E7%9F%AD%E4%BF%A1%E8%BE%B1%E9%AA%82%E6%97%A0%E9%94%A1%E5%BA%97%E4%B8%BB%E7%BD%91%E5%8F%8B%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [广州平均月薪10883元](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E5%B9%B3%E5%9D%87%E6%9C%88%E8%96%AA10883%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [江苏盐城一轿车撞人致2死6伤](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E7%9B%90%E5%9F%8E%E4%B8%80%E8%BD%BF%E8%BD%A6%E6%92%9E%E4%BA%BA%E8%87%B42%E6%AD%BB6%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
