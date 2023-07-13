@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-13 17:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-13 17:19:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [精准有温度 护航就业路](https://www.baidu.com/s?wd=%E7%B2%BE%E5%87%86%E6%9C%89%E6%B8%A9%E5%BA%A6+%E6%8A%A4%E8%88%AA%E5%B0%B1%E4%B8%9A%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [江苏一飞机坠落 坠落地有飞机残骸](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E4%B8%80%E9%A3%9E%E6%9C%BA%E5%9D%A0%E8%90%BD+%E5%9D%A0%E8%90%BD%E5%9C%B0%E6%9C%89%E9%A3%9E%E6%9C%BA%E6%AE%8B%E9%AA%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [被砸死亡女子姐姐希望嫌疑人死刑](https://www.baidu.com/s?wd=%E8%A2%AB%E7%A0%B8%E6%AD%BB%E4%BA%A1%E5%A5%B3%E5%AD%90%E5%A7%90%E5%A7%90%E5%B8%8C%E6%9C%9B%E5%AB%8C%E7%96%91%E4%BA%BA%E6%AD%BB%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [四川一货车与客车相撞 20多人受伤](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E8%B4%A7%E8%BD%A6%E4%B8%8E%E5%AE%A2%E8%BD%A6%E7%9B%B8%E6%92%9E+20%E5%A4%9A%E4%BA%BA%E5%8F%97%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [杨洋魏大勋你好星期六上班路透](https://www.baidu.com/s?wd=%E6%9D%A8%E6%B4%8B%E9%AD%8F%E5%A4%A7%E5%8B%8B%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%E4%B8%8A%E7%8F%AD%E8%B7%AF%E9%80%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [高温天气西安一行道树冒白烟](https://www.baidu.com/s?wd=%E9%AB%98%E6%B8%A9%E5%A4%A9%E6%B0%94%E8%A5%BF%E5%AE%89%E4%B8%80%E8%A1%8C%E9%81%93%E6%A0%91%E5%86%92%E7%99%BD%E7%83%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [高温天妈妈将电扇让给孩子被热死](https://www.baidu.com/s?wd=%E9%AB%98%E6%B8%A9%E5%A4%A9%E5%A6%88%E5%A6%88%E5%B0%86%E7%94%B5%E6%89%87%E8%AE%A9%E7%BB%99%E5%AD%A9%E5%AD%90%E8%A2%AB%E7%83%AD%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [狗狗被电动车踏板打了一路屁股](https://www.baidu.com/s?wd=%E7%8B%97%E7%8B%97%E8%A2%AB%E7%94%B5%E5%8A%A8%E8%BD%A6%E8%B8%8F%E6%9D%BF%E6%89%93%E4%BA%86%E4%B8%80%E8%B7%AF%E5%B1%81%E8%82%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [精准有温度 护航就业路](https://www.baidu.com/s?wd=%E7%B2%BE%E5%87%86%E6%9C%89%E6%B8%A9%E5%BA%A6+%E6%8A%A4%E8%88%AA%E5%B0%B1%E4%B8%9A%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [江苏一飞机坠落 坠落地有飞机残骸](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E4%B8%80%E9%A3%9E%E6%9C%BA%E5%9D%A0%E8%90%BD+%E5%9D%A0%E8%90%BD%E5%9C%B0%E6%9C%89%E9%A3%9E%E6%9C%BA%E6%AE%8B%E9%AA%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [被砸死亡女子姐姐希望嫌疑人死刑](https://www.baidu.com/s?wd=%E8%A2%AB%E7%A0%B8%E6%AD%BB%E4%BA%A1%E5%A5%B3%E5%AD%90%E5%A7%90%E5%A7%90%E5%B8%8C%E6%9C%9B%E5%AB%8C%E7%96%91%E4%BA%BA%E6%AD%BB%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [四川一货车与客车相撞 20多人受伤](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E8%B4%A7%E8%BD%A6%E4%B8%8E%E5%AE%A2%E8%BD%A6%E7%9B%B8%E6%92%9E+20%E5%A4%9A%E4%BA%BA%E5%8F%97%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [杨洋魏大勋你好星期六上班路透](https://www.baidu.com/s?wd=%E6%9D%A8%E6%B4%8B%E9%AD%8F%E5%A4%A7%E5%8B%8B%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%E4%B8%8A%E7%8F%AD%E8%B7%AF%E9%80%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [高温天气西安一行道树冒白烟](https://www.baidu.com/s?wd=%E9%AB%98%E6%B8%A9%E5%A4%A9%E6%B0%94%E8%A5%BF%E5%AE%89%E4%B8%80%E8%A1%8C%E9%81%93%E6%A0%91%E5%86%92%E7%99%BD%E7%83%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [高温天妈妈将电扇让给孩子被热死](https://www.baidu.com/s?wd=%E9%AB%98%E6%B8%A9%E5%A4%A9%E5%A6%88%E5%A6%88%E5%B0%86%E7%94%B5%E6%89%87%E8%AE%A9%E7%BB%99%E5%AD%A9%E5%AD%90%E8%A2%AB%E7%83%AD%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [狗狗被电动车踏板打了一路屁股](https://www.baidu.com/s?wd=%E7%8B%97%E7%8B%97%E8%A2%AB%E7%94%B5%E5%8A%A8%E8%BD%A6%E8%B8%8F%E6%9D%BF%E6%89%93%E4%BA%86%E4%B8%80%E8%B7%AF%E5%B1%81%E8%82%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
