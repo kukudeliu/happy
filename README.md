@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-14 06:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-14 06:18:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [被坠楼者砸中男童母亲:他家不愿赔偿](https://www.baidu.com/s?wd=%E8%A2%AB%E5%9D%A0%E6%A5%BC%E8%80%85%E7%A0%B8%E4%B8%AD%E7%94%B7%E7%AB%A5%E6%AF%8D%E4%BA%B2%3A%E4%BB%96%E5%AE%B6%E4%B8%8D%E6%84%BF%E8%B5%94%E5%81%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子报警称家里全是虫 民警到场秒懂](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8A%A5%E8%AD%A6%E7%A7%B0%E5%AE%B6%E9%87%8C%E5%85%A8%E6%98%AF%E8%99%AB+%E6%B0%91%E8%AD%A6%E5%88%B0%E5%9C%BA%E7%A7%92%E6%87%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子高空抛砖砸死人 称想跳楼但不敢](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%AB%98%E7%A9%BA%E6%8A%9B%E7%A0%96%E7%A0%B8%E6%AD%BB%E4%BA%BA+%E7%A7%B0%E6%83%B3%E8%B7%B3%E6%A5%BC%E4%BD%86%E4%B8%8D%E6%95%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [华山或将关闭云梯](https://www.baidu.com/s?wd=%E5%8D%8E%E5%B1%B1%E6%88%96%E5%B0%86%E5%85%B3%E9%97%AD%E4%BA%91%E6%A2%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [烂尾楼电梯坠落 一家四口险被淹](https://www.baidu.com/s?wd=%E7%83%82%E5%B0%BE%E6%A5%BC%E7%94%B5%E6%A2%AF%E5%9D%A0%E8%90%BD+%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E9%99%A9%E8%A2%AB%E6%B7%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [被坠楼者砸中男童母亲:他家不愿赔偿](https://www.baidu.com/s?wd=%E8%A2%AB%E5%9D%A0%E6%A5%BC%E8%80%85%E7%A0%B8%E4%B8%AD%E7%94%B7%E7%AB%A5%E6%AF%8D%E4%BA%B2%3A%E4%BB%96%E5%AE%B6%E4%B8%8D%E6%84%BF%E8%B5%94%E5%81%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子报警称家里全是虫 民警到场秒懂](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8A%A5%E8%AD%A6%E7%A7%B0%E5%AE%B6%E9%87%8C%E5%85%A8%E6%98%AF%E8%99%AB+%E6%B0%91%E8%AD%A6%E5%88%B0%E5%9C%BA%E7%A7%92%E6%87%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子高空抛砖砸死人 称想跳楼但不敢](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%AB%98%E7%A9%BA%E6%8A%9B%E7%A0%96%E7%A0%B8%E6%AD%BB%E4%BA%BA+%E7%A7%B0%E6%83%B3%E8%B7%B3%E6%A5%BC%E4%BD%86%E4%B8%8D%E6%95%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [华山或将关闭云梯](https://www.baidu.com/s?wd=%E5%8D%8E%E5%B1%B1%E6%88%96%E5%B0%86%E5%85%B3%E9%97%AD%E4%BA%91%E6%A2%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [烂尾楼电梯坠落 一家四口险被淹](https://www.baidu.com/s?wd=%E7%83%82%E5%B0%BE%E6%A5%BC%E7%94%B5%E6%A2%AF%E5%9D%A0%E8%90%BD+%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E9%99%A9%E8%A2%AB%E6%B7%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
