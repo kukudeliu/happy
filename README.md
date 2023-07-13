@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-13 22:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-13 22:02:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [杨洋王楚然好像婚礼迎宾](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B4%8B%E7%8E%8B%E6%A5%9A%E7%84%B6%E5%A5%BD%E5%83%8F%E5%A9%9A%E7%A4%BC%E8%BF%8E%E5%AE%BE%23&t=31&band_rank=6&Refer=top)<br />
 7. [杨澄出车祸昏迷](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%BE%84%E5%87%BA%E8%BD%A6%E7%A5%B8%E6%98%8F%E8%BF%B7%23&t=31&band_rank=7&Refer=top)<br />
 8. [DYG是怎么猝死的](https://s.weibo.com/weibo?q=%23DYG%E6%98%AF%E6%80%8E%E4%B9%88%E7%8C%9D%E6%AD%BB%E7%9A%84%23&t=31&band_rank=8&Refer=top)<br />
-9. [郑州一小学强制家长轮流站岗](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E4%B8%80%E5%B0%8F%E5%AD%A6%E5%BC%BA%E5%88%B6%E5%AE%B6%E9%95%BF%E8%BD%AE%E6%B5%81%E7%AB%99%E5%B2%97%23&t=31&band_rank=9&Refer=top)<br />
+9. [女子称在购买3年服装店被杀熟70元](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%B0%E5%9C%A8%E8%B4%AD%E4%B9%B03%E5%B9%B4%E6%9C%8D%E8%A3%85%E5%BA%97%E8%A2%AB%E6%9D%80%E7%86%9F70%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
