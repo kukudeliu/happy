@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-13 16:30:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-13 16:31:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [母亲患癌19岁儿子急赚钱被骗缅甸](https://s.weibo.com/weibo?q=%23%E6%AF%8D%E4%BA%B2%E6%82%A3%E7%99%8C19%E5%B2%81%E5%84%BF%E5%AD%90%E6%80%A5%E8%B5%9A%E9%92%B1%E8%A2%AB%E9%AA%97%E7%BC%85%E7%94%B8%23&t=31&band_rank=5&Refer=top)<br />
 6. [蒋依依敖子逸真的好嗑](https://s.weibo.com/weibo?q=%E8%92%8B%E4%BE%9D%E4%BE%9D%E6%95%96%E5%AD%90%E9%80%B8%E7%9C%9F%E7%9A%84%E5%A5%BD%E5%97%91&t=31&band_rank=6&Refer=top)<br />
 7. [贾静雯和高圆圆每年都会见几次](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E9%9D%99%E9%9B%AF%E5%92%8C%E9%AB%98%E5%9C%86%E5%9C%86%E6%AF%8F%E5%B9%B4%E9%83%BD%E4%BC%9A%E8%A7%81%E5%87%A0%E6%AC%A1%23&t=31&band_rank=7&Refer=top)<br />
-8. [迪丽热巴三万水师原来是三万水狮](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E4%B8%89%E4%B8%87%E6%B0%B4%E5%B8%88%E5%8E%9F%E6%9D%A5%E6%98%AF%E4%B8%89%E4%B8%87%E6%B0%B4%E7%8B%AE%23&t=31&band_rank=8&Refer=top)<br />
-9. [爱宝](https://s.weibo.com/weibo?q=%E7%88%B1%E5%AE%9D&t=31&band_rank=9&Refer=top)<br />
+8. [爱宝](https://s.weibo.com/weibo?q=%E7%88%B1%E5%AE%9D&t=31&band_rank=8&Refer=top)<br />
+9. [迪丽热巴三万水师原来是三万水狮](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E4%B8%89%E4%B8%87%E6%B0%B4%E5%B8%88%E5%8E%9F%E6%9D%A5%E6%98%AF%E4%B8%89%E4%B8%87%E6%B0%B4%E7%8B%AE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
