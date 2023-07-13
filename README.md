@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-14 00:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-14 00:46:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [王毅与美国务卿布林肯会面](https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E4%B8%8E%E7%BE%8E%E5%9B%BD%E5%8A%A1%E5%8D%BF%E5%B8%83%E6%9E%97%E8%82%AF%E4%BC%9A%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [四川真有个哈哈村](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E7%9C%9F%E6%9C%89%E4%B8%AA%E5%93%88%E5%93%88%E6%9D%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [华山或将关闭云梯](https://www.baidu.com/s?wd=%E5%8D%8E%E5%B1%B1%E6%88%96%E5%B0%86%E5%85%B3%E9%97%AD%E4%BA%91%E6%A2%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [台湾歌手陈升被曝性骚扰](https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E6%AD%8C%E6%89%8B%E9%99%88%E5%8D%87%E8%A2%AB%E6%9B%9D%E6%80%A7%E9%AA%9A%E6%89%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子报警称家里全是虫 民警到场秒懂](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8A%A5%E8%AD%A6%E7%A7%B0%E5%AE%B6%E9%87%8C%E5%85%A8%E6%98%AF%E8%99%AB+%E6%B0%91%E8%AD%A6%E5%88%B0%E5%9C%BA%E7%A7%92%E6%87%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [王毅与美国务卿布林肯会面](https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E4%B8%8E%E7%BE%8E%E5%9B%BD%E5%8A%A1%E5%8D%BF%E5%B8%83%E6%9E%97%E8%82%AF%E4%BC%9A%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [四川真有个哈哈村](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E7%9C%9F%E6%9C%89%E4%B8%AA%E5%93%88%E5%93%88%E6%9D%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [华山或将关闭云梯](https://www.baidu.com/s?wd=%E5%8D%8E%E5%B1%B1%E6%88%96%E5%B0%86%E5%85%B3%E9%97%AD%E4%BA%91%E6%A2%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [台湾歌手陈升被曝性骚扰](https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E6%AD%8C%E6%89%8B%E9%99%88%E5%8D%87%E8%A2%AB%E6%9B%9D%E6%80%A7%E9%AA%9A%E6%89%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子报警称家里全是虫 民警到场秒懂](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8A%A5%E8%AD%A6%E7%A7%B0%E5%AE%B6%E9%87%8C%E5%85%A8%E6%98%AF%E8%99%AB+%E6%B0%91%E8%AD%A6%E5%88%B0%E5%9C%BA%E7%A7%92%E6%87%82&sa=fyb_news&rsv_dl=fyb_news)<br />
