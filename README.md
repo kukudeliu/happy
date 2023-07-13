@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-13 09:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-13 09:45:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [江西 悬崖套房](https://s.weibo.com/weibo?q=%E6%B1%9F%E8%A5%BF%20%E6%82%AC%E5%B4%96%E5%A5%97%E6%88%BF&t=31&band_rank=6&Refer=top)<br />
 7. [猪场因断电死亡462头猪损失近百万](https://s.weibo.com/weibo?q=%23%E7%8C%AA%E5%9C%BA%E5%9B%A0%E6%96%AD%E7%94%B5%E6%AD%BB%E4%BA%A1462%E5%A4%B4%E7%8C%AA%E6%8D%9F%E5%A4%B1%E8%BF%91%E7%99%BE%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [9岁男孩被17楼坠下男子砸入ICU](https://s.weibo.com/weibo?q=%239%E5%B2%81%E7%94%B7%E5%AD%A9%E8%A2%AB17%E6%A5%BC%E5%9D%A0%E4%B8%8B%E7%94%B7%E5%AD%90%E7%A0%B8%E5%85%A5ICU%23&t=31&band_rank=8&Refer=top)<br />
-9. [一个要离职的电脑屏幕长啥样](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E8%A6%81%E7%A6%BB%E8%81%8C%E7%9A%84%E7%94%B5%E8%84%91%E5%B1%8F%E5%B9%95%E9%95%BF%E5%95%A5%E6%A0%B7%23&t=31&band_rank=9&Refer=top)<br />
+9. [宋焰给了孟宴臣10年机会](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E7%84%B0%E7%BB%99%E4%BA%86%E5%AD%9F%E5%AE%B4%E8%87%A310%E5%B9%B4%E6%9C%BA%E4%BC%9A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
