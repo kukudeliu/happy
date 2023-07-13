@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-14 04:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-14 04:14:01</h4></div>
 
 > 微博  
 
@@ -22,10 +22,10 @@
 3. [高考钉子户唐尚珺公布高考志愿](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E9%92%89%E5%AD%90%E6%88%B7%E5%94%90%E5%B0%9A%E7%8F%BA%E5%85%AC%E5%B8%83%E9%AB%98%E8%80%83%E5%BF%97%E6%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [坚持生态优先 推进高质量发展](https://www.baidu.com/s?wd=%E5%9D%9A%E6%8C%81%E7%94%9F%E6%80%81%E4%BC%98%E5%85%88+%E6%8E%A8%E8%BF%9B%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [马斯克称自己“有点亲华”](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B0%E8%87%AA%E5%B7%B1%E2%80%9C%E6%9C%89%E7%82%B9%E4%BA%B2%E5%8D%8E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [王毅与美国务卿布林肯会面](https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E4%B8%8E%E7%BE%8E%E5%9B%BD%E5%8A%A1%E5%8D%BF%E5%B8%83%E6%9E%97%E8%82%AF%E4%BC%9A%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [28岁小姨哄娃10天崩溃哀嚎](https://www.baidu.com/s?wd=28%E5%B2%81%E5%B0%8F%E5%A7%A8%E5%93%84%E5%A8%8310%E5%A4%A9%E5%B4%A9%E6%BA%83%E5%93%80%E5%9A%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [被首尔的出租车震惊到了](https://www.baidu.com/s?wd=%E8%A2%AB%E9%A6%96%E5%B0%94%E7%9A%84%E5%87%BA%E7%A7%9F%E8%BD%A6%E9%9C%87%E6%83%8A%E5%88%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子要求关空调 遭同车乘客怒怼](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A6%81%E6%B1%82%E5%85%B3%E7%A9%BA%E8%B0%83+%E9%81%AD%E5%90%8C%E8%BD%A6%E4%B9%98%E5%AE%A2%E6%80%92%E6%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [四川真有个哈哈村](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E7%9C%9F%E6%9C%89%E4%B8%AA%E5%93%88%E5%93%88%E6%9D%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [于正评价陈哲远](https://www.baidu.com/s?wd=%E4%BA%8E%E6%AD%A3%E8%AF%84%E4%BB%B7%E9%99%88%E5%93%B2%E8%BF%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [28岁小姨哄娃10天崩溃哀嚎](https://www.baidu.com/s?wd=28%E5%B2%81%E5%B0%8F%E5%A7%A8%E5%93%84%E5%A8%8310%E5%A4%A9%E5%B4%A9%E6%BA%83%E5%93%80%E5%9A%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [6人沼气中毒身亡：1人被困5人施救](https://www.baidu.com/s?wd=6%E4%BA%BA%E6%B2%BC%E6%B0%94%E4%B8%AD%E6%AF%92%E8%BA%AB%E4%BA%A1%EF%BC%9A1%E4%BA%BA%E8%A2%AB%E5%9B%B05%E4%BA%BA%E6%96%BD%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -34,7 +34,7 @@
 3. [高考钉子户唐尚珺公布高考志愿](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E9%92%89%E5%AD%90%E6%88%B7%E5%94%90%E5%B0%9A%E7%8F%BA%E5%85%AC%E5%B8%83%E9%AB%98%E8%80%83%E5%BF%97%E6%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [坚持生态优先 推进高质量发展](https://www.baidu.com/s?wd=%E5%9D%9A%E6%8C%81%E7%94%9F%E6%80%81%E4%BC%98%E5%85%88+%E6%8E%A8%E8%BF%9B%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [马斯克称自己“有点亲华”](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B0%E8%87%AA%E5%B7%B1%E2%80%9C%E6%9C%89%E7%82%B9%E4%BA%B2%E5%8D%8E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [王毅与美国务卿布林肯会面](https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E4%B8%8E%E7%BE%8E%E5%9B%BD%E5%8A%A1%E5%8D%BF%E5%B8%83%E6%9E%97%E8%82%AF%E4%BC%9A%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [28岁小姨哄娃10天崩溃哀嚎](https://www.baidu.com/s?wd=28%E5%B2%81%E5%B0%8F%E5%A7%A8%E5%93%84%E5%A8%8310%E5%A4%A9%E5%B4%A9%E6%BA%83%E5%93%80%E5%9A%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [被首尔的出租车震惊到了](https://www.baidu.com/s?wd=%E8%A2%AB%E9%A6%96%E5%B0%94%E7%9A%84%E5%87%BA%E7%A7%9F%E8%BD%A6%E9%9C%87%E6%83%8A%E5%88%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子要求关空调 遭同车乘客怒怼](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A6%81%E6%B1%82%E5%85%B3%E7%A9%BA%E8%B0%83+%E9%81%AD%E5%90%8C%E8%BD%A6%E4%B9%98%E5%AE%A2%E6%80%92%E6%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [四川真有个哈哈村](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E7%9C%9F%E6%9C%89%E4%B8%AA%E5%93%88%E5%93%88%E6%9D%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [于正评价陈哲远](https://www.baidu.com/s?wd=%E4%BA%8E%E6%AD%A3%E8%AF%84%E4%BB%B7%E9%99%88%E5%93%B2%E8%BF%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [28岁小姨哄娃10天崩溃哀嚎](https://www.baidu.com/s?wd=28%E5%B2%81%E5%B0%8F%E5%A7%A8%E5%93%84%E5%A8%8310%E5%A4%A9%E5%B4%A9%E6%BA%83%E5%93%80%E5%9A%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [6人沼气中毒身亡：1人被困5人施救](https://www.baidu.com/s?wd=6%E4%BA%BA%E6%B2%BC%E6%B0%94%E4%B8%AD%E6%AF%92%E8%BA%AB%E4%BA%A1%EF%BC%9A1%E4%BA%BA%E8%A2%AB%E5%9B%B05%E4%BA%BA%E6%96%BD%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
