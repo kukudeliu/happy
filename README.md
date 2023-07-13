@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-13 09:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-13 09:54:01</h4></div>
 
 > 微博  
 
@@ -19,22 +19,22 @@
 
 1. [在新的历史起点上继续推动文化繁荣](https://www.baidu.com/s?wd=%E5%9C%A8%E6%96%B0%E7%9A%84%E5%8E%86%E5%8F%B2%E8%B5%B7%E7%82%B9%E4%B8%8A%E7%BB%A7%E7%BB%AD%E6%8E%A8%E5%8A%A8%E6%96%87%E5%8C%96%E7%B9%81%E8%8D%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [二十大以来首个正部级落马](https://www.baidu.com/s?wd=%E4%BA%8C%E5%8D%81%E5%A4%A7%E4%BB%A5%E6%9D%A5%E9%A6%96%E4%B8%AA%E6%AD%A3%E9%83%A8%E7%BA%A7%E8%90%BD%E9%A9%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [9岁男孩被跳楼者砸中昏迷不醒](https://www.baidu.com/s?wd=9%E5%B2%81%E7%94%B7%E5%AD%A9%E8%A2%AB%E8%B7%B3%E6%A5%BC%E8%80%85%E7%A0%B8%E4%B8%AD%E6%98%8F%E8%BF%B7%E4%B8%8D%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [河南暴雨 宾客坐积水中吃席](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E6%9A%B4%E9%9B%A8+%E5%AE%BE%E5%AE%A2%E5%9D%90%E7%A7%AF%E6%B0%B4%E4%B8%AD%E5%90%83%E5%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [多地细化举措护航暑期安全见闻](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E7%BB%86%E5%8C%96%E4%B8%BE%E6%8E%AA%E6%8A%A4%E8%88%AA%E6%9A%91%E6%9C%9F%E5%AE%89%E5%85%A8%E8%A7%81%E9%97%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [猪场因断电死亡462头猪损失近百万](https://www.baidu.com/s?wd=%E7%8C%AA%E5%9C%BA%E5%9B%A0%E6%96%AD%E7%94%B5%E6%AD%BB%E4%BA%A1462%E5%A4%B4%E7%8C%AA%E6%8D%9F%E5%A4%B1%E8%BF%91%E7%99%BE%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [无锡女童妈妈去派出所说明转款问题](https://www.baidu.com/s?wd=%E6%97%A0%E9%94%A1%E5%A5%B3%E7%AB%A5%E5%A6%88%E5%A6%88%E5%8E%BB%E6%B4%BE%E5%87%BA%E6%89%80%E8%AF%B4%E6%98%8E%E8%BD%AC%E6%AC%BE%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [安徽刑警3天抓了1062人](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E5%88%91%E8%AD%A63%E5%A4%A9%E6%8A%93%E4%BA%861062%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [试管失败医院拒绝返还夫妻胚胎](https://www.baidu.com/s?wd=%E8%AF%95%E7%AE%A1%E5%A4%B1%E8%B4%A5%E5%8C%BB%E9%99%A2%E6%8B%92%E7%BB%9D%E8%BF%94%E8%BF%98%E5%A4%AB%E5%A6%BB%E8%83%9A%E8%83%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [重庆一消防员考上清华大学研究生](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E6%B6%88%E9%98%B2%E5%91%98%E8%80%83%E4%B8%8A%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%A0%94%E7%A9%B6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [曾发短信辱骂无锡店主网友道歉](https://www.baidu.com/s?wd=%E6%9B%BE%E5%8F%91%E7%9F%AD%E4%BF%A1%E8%BE%B1%E9%AA%82%E6%97%A0%E9%94%A1%E5%BA%97%E4%B8%BB%E7%BD%91%E5%8F%8B%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [重庆一消防员考上清华大学研究生](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E6%B6%88%E9%98%B2%E5%91%98%E8%80%83%E4%B8%8A%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%A0%94%E7%A9%B6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [工人带瓦刀进站被拒？火车站通报](https://www.baidu.com/s?wd=%E5%B7%A5%E4%BA%BA%E5%B8%A6%E7%93%A6%E5%88%80%E8%BF%9B%E7%AB%99%E8%A2%AB%E6%8B%92%EF%BC%9F%E7%81%AB%E8%BD%A6%E7%AB%99%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [在新的历史起点上继续推动文化繁荣](https://www.baidu.com/s?wd=%E5%9C%A8%E6%96%B0%E7%9A%84%E5%8E%86%E5%8F%B2%E8%B5%B7%E7%82%B9%E4%B8%8A%E7%BB%A7%E7%BB%AD%E6%8E%A8%E5%8A%A8%E6%96%87%E5%8C%96%E7%B9%81%E8%8D%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [二十大以来首个正部级落马](https://www.baidu.com/s?wd=%E4%BA%8C%E5%8D%81%E5%A4%A7%E4%BB%A5%E6%9D%A5%E9%A6%96%E4%B8%AA%E6%AD%A3%E9%83%A8%E7%BA%A7%E8%90%BD%E9%A9%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [9岁男孩被跳楼者砸中昏迷不醒](https://www.baidu.com/s?wd=9%E5%B2%81%E7%94%B7%E5%AD%A9%E8%A2%AB%E8%B7%B3%E6%A5%BC%E8%80%85%E7%A0%B8%E4%B8%AD%E6%98%8F%E8%BF%B7%E4%B8%8D%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [河南暴雨 宾客坐积水中吃席](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E6%9A%B4%E9%9B%A8+%E5%AE%BE%E5%AE%A2%E5%9D%90%E7%A7%AF%E6%B0%B4%E4%B8%AD%E5%90%83%E5%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [多地细化举措护航暑期安全见闻](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E7%BB%86%E5%8C%96%E4%B8%BE%E6%8E%AA%E6%8A%A4%E8%88%AA%E6%9A%91%E6%9C%9F%E5%AE%89%E5%85%A8%E8%A7%81%E9%97%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [猪场因断电死亡462头猪损失近百万](https://www.baidu.com/s?wd=%E7%8C%AA%E5%9C%BA%E5%9B%A0%E6%96%AD%E7%94%B5%E6%AD%BB%E4%BA%A1462%E5%A4%B4%E7%8C%AA%E6%8D%9F%E5%A4%B1%E8%BF%91%E7%99%BE%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [无锡女童妈妈去派出所说明转款问题](https://www.baidu.com/s?wd=%E6%97%A0%E9%94%A1%E5%A5%B3%E7%AB%A5%E5%A6%88%E5%A6%88%E5%8E%BB%E6%B4%BE%E5%87%BA%E6%89%80%E8%AF%B4%E6%98%8E%E8%BD%AC%E6%AC%BE%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [安徽刑警3天抓了1062人](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E5%88%91%E8%AD%A63%E5%A4%A9%E6%8A%93%E4%BA%861062%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [试管失败医院拒绝返还夫妻胚胎](https://www.baidu.com/s?wd=%E8%AF%95%E7%AE%A1%E5%A4%B1%E8%B4%A5%E5%8C%BB%E9%99%A2%E6%8B%92%E7%BB%9D%E8%BF%94%E8%BF%98%E5%A4%AB%E5%A6%BB%E8%83%9A%E8%83%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [重庆一消防员考上清华大学研究生](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E6%B6%88%E9%98%B2%E5%91%98%E8%80%83%E4%B8%8A%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%A0%94%E7%A9%B6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [曾发短信辱骂无锡店主网友道歉](https://www.baidu.com/s?wd=%E6%9B%BE%E5%8F%91%E7%9F%AD%E4%BF%A1%E8%BE%B1%E9%AA%82%E6%97%A0%E9%94%A1%E5%BA%97%E4%B8%BB%E7%BD%91%E5%8F%8B%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [重庆一消防员考上清华大学研究生](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E6%B6%88%E9%98%B2%E5%91%98%E8%80%83%E4%B8%8A%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%A0%94%E7%A9%B6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [工人带瓦刀进站被拒？火车站通报](https://www.baidu.com/s?wd=%E5%B7%A5%E4%BA%BA%E5%B8%A6%E7%93%A6%E5%88%80%E8%BF%9B%E7%AB%99%E8%A2%AB%E6%8B%92%EF%BC%9F%E7%81%AB%E8%BD%A6%E7%AB%99%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
