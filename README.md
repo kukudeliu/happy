@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-13 08:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-13 08:48:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [宋焰给了孟宴臣10年机会](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E7%84%B0%E7%BB%99%E4%BA%86%E5%AD%9F%E5%AE%B4%E8%87%A310%E5%B9%B4%E6%9C%BA%E4%BC%9A%23&t=31&band_rank=6&Refer=top)<br />
 7. [迪丽热巴好土我好喜欢](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%A5%BD%E5%9C%9F%E6%88%91%E5%A5%BD%E5%96%9C%E6%AC%A2%23&t=31&band_rank=7&Refer=top)<br />
 8. [一个要离职的电脑屏幕长啥样](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E8%A6%81%E7%A6%BB%E8%81%8C%E7%9A%84%E7%94%B5%E8%84%91%E5%B1%8F%E5%B9%95%E9%95%BF%E5%95%A5%E6%A0%B7%23&t=31&band_rank=8&Refer=top)<br />
-9. [美国45岁富豪用17岁儿子血浆换血失败](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD45%E5%B2%81%E5%AF%8C%E8%B1%AA%E7%94%A817%E5%B2%81%E5%84%BF%E5%AD%90%E8%A1%80%E6%B5%86%E6%8D%A2%E8%A1%80%E5%A4%B1%E8%B4%A5%23&t=31&band_rank=9&Refer=top)<br />
+9. [男子在缅甸被砍掉脚趾向哥哥求救](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9C%A8%E7%BC%85%E7%94%B8%E8%A2%AB%E7%A0%8D%E6%8E%89%E8%84%9A%E8%B6%BE%E5%90%91%E5%93%A5%E5%93%A5%E6%B1%82%E6%95%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
