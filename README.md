@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-13 13:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-13 13:49:02</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [男子自称上山捡菌遇老虎 警方：行拘](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%87%AA%E7%A7%B0%E4%B8%8A%E5%B1%B1%E6%8D%A1%E8%8F%8C%E9%81%87%E8%80%81%E8%99%8E+%E8%AD%A6%E6%96%B9%EF%BC%9A%E8%A1%8C%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [高温天妈妈将电扇让给孩子被热死](https://www.baidu.com/s?wd=%E9%AB%98%E6%B8%A9%E5%A4%A9%E5%A6%88%E5%A6%88%E5%B0%86%E7%94%B5%E6%89%87%E8%AE%A9%E7%BB%99%E5%AD%A9%E5%AD%90%E8%A2%AB%E7%83%AD%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [重度自闭症男孩靠吹气球成网红](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%A6%E8%87%AA%E9%97%AD%E7%97%87%E7%94%B7%E5%AD%A9%E9%9D%A0%E5%90%B9%E6%B0%94%E7%90%83%E6%88%90%E7%BD%91%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [被首尔的出租车震惊到了](https://www.baidu.com/s?wd=%E8%A2%AB%E9%A6%96%E5%B0%94%E7%9A%84%E5%87%BA%E7%A7%9F%E8%BD%A6%E9%9C%87%E6%83%8A%E5%88%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [西安城区暴雨街道变河道](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E5%9F%8E%E5%8C%BA%E6%9A%B4%E9%9B%A8%E8%A1%97%E9%81%93%E5%8F%98%E6%B2%B3%E9%81%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [男子自称上山捡菌遇老虎 警方：行拘](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%87%AA%E7%A7%B0%E4%B8%8A%E5%B1%B1%E6%8D%A1%E8%8F%8C%E9%81%87%E8%80%81%E8%99%8E+%E8%AD%A6%E6%96%B9%EF%BC%9A%E8%A1%8C%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [高温天妈妈将电扇让给孩子被热死](https://www.baidu.com/s?wd=%E9%AB%98%E6%B8%A9%E5%A4%A9%E5%A6%88%E5%A6%88%E5%B0%86%E7%94%B5%E6%89%87%E8%AE%A9%E7%BB%99%E5%AD%A9%E5%AD%90%E8%A2%AB%E7%83%AD%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [重度自闭症男孩靠吹气球成网红](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%A6%E8%87%AA%E9%97%AD%E7%97%87%E7%94%B7%E5%AD%A9%E9%9D%A0%E5%90%B9%E6%B0%94%E7%90%83%E6%88%90%E7%BD%91%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [被首尔的出租车震惊到了](https://www.baidu.com/s?wd=%E8%A2%AB%E9%A6%96%E5%B0%94%E7%9A%84%E5%87%BA%E7%A7%9F%E8%BD%A6%E9%9C%87%E6%83%8A%E5%88%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [西安城区暴雨街道变河道](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E5%9F%8E%E5%8C%BA%E6%9A%B4%E9%9B%A8%E8%A1%97%E9%81%93%E5%8F%98%E6%B2%B3%E9%81%93&sa=fyb_news&rsv_dl=fyb_news)<br />
