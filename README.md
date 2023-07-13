@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-13 13:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-13 13:48:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [北京平均月薪13438元](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%B9%B3%E5%9D%87%E6%9C%88%E8%96%AA13438%E5%85%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [赵露思陈芊芊时期体重](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E9%99%88%E8%8A%8A%E8%8A%8A%E6%97%B6%E6%9C%9F%E4%BD%93%E9%87%8D%23&t=31&band_rank=7&Refer=top)<br />
 8. [奔跑吧](https://s.weibo.com/weibo?q=%E5%A5%94%E8%B7%91%E5%90%A7&t=31&band_rank=8&Refer=top)<br />
-9. [马嘉祺电梯显示18楼](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%98%89%E7%A5%BA%E7%94%B5%E6%A2%AF%E6%98%BE%E7%A4%BA18%E6%A5%BC%23&t=31&band_rank=9&Refer=top)<br />
+9. [被首尔的出租车震惊到了](https://s.weibo.com/weibo?q=%E8%A2%AB%E9%A6%96%E5%B0%94%E7%9A%84%E5%87%BA%E7%A7%9F%E8%BD%A6%E9%9C%87%E6%83%8A%E5%88%B0%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
