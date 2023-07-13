@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-13 18:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-13 18:37:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [王鹤棣的微博像朋友圈](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%9A%84%E5%BE%AE%E5%8D%9A%E5%83%8F%E6%9C%8B%E5%8F%8B%E5%9C%88%23&t=31&band_rank=4&Refer=top)<br />
 5. [爱宝双胞胎女儿喝奶画面](https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%AE%9D%E5%8F%8C%E8%83%9E%E8%83%8E%E5%A5%B3%E5%84%BF%E5%96%9D%E5%A5%B6%E7%94%BB%E9%9D%A2%23&t=31&band_rank=5&Refer=top)<br />
 6. [我爹一条朋友圈点赞人数](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%88%B9%E4%B8%80%E6%9D%A1%E6%9C%8B%E5%8F%8B%E5%9C%88%E7%82%B9%E8%B5%9E%E4%BA%BA%E6%95%B0%23&t=31&band_rank=6&Refer=top)<br />
-7. [长期吹空调不能吹到的部位](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E5%90%B9%E7%A9%BA%E8%B0%83%E4%B8%8D%E8%83%BD%E5%90%B9%E5%88%B0%E7%9A%84%E9%83%A8%E4%BD%8D%23&t=31&band_rank=7&Refer=top)<br />
-8. [女子买69平公寓37平是公摊](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B9%B069%E5%B9%B3%E5%85%AC%E5%AF%9337%E5%B9%B3%E6%98%AF%E5%85%AC%E6%91%8A%23&t=31&band_rank=8&Refer=top)<br />
-9. [安乐传](https://s.weibo.com/weibo?q=%E5%AE%89%E4%B9%90%E4%BC%A0&t=31&band_rank=9&Refer=top)<br />
+7. [安徽这所中学录取榜最前面的不是清北](https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%BE%BD%E8%BF%99%E6%89%80%E4%B8%AD%E5%AD%A6%E5%BD%95%E5%8F%96%E6%A6%9C%E6%9C%80%E5%89%8D%E9%9D%A2%E7%9A%84%E4%B8%8D%E6%98%AF%E6%B8%85%E5%8C%97%23&t=31&band_rank=7&Refer=top)<br />
+8. [长期吹空调不能吹到的部位](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E5%90%B9%E7%A9%BA%E8%B0%83%E4%B8%8D%E8%83%BD%E5%90%B9%E5%88%B0%E7%9A%84%E9%83%A8%E4%BD%8D%23&t=31&band_rank=8&Refer=top)<br />
+9. [女子买69平公寓37平是公摊](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B9%B069%E5%B9%B3%E5%85%AC%E5%AF%9337%E5%B9%B3%E6%98%AF%E5%85%AC%E6%91%8A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
