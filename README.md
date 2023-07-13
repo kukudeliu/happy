@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-14 02:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-14 02:43:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [马斯克称自己“有点亲华”](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B0%E8%87%AA%E5%B7%B1%E2%80%9C%E6%9C%89%E7%82%B9%E4%BA%B2%E5%8D%8E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [三轮车拖行交警百米 警方：系听障者](https://www.baidu.com/s?wd=%E4%B8%89%E8%BD%AE%E8%BD%A6%E6%8B%96%E8%A1%8C%E4%BA%A4%E8%AD%A6%E7%99%BE%E7%B1%B3+%E8%AD%A6%E6%96%B9%EF%BC%9A%E7%B3%BB%E5%90%AC%E9%9A%9C%E8%80%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子高空抛砖砸死人 称想跳楼但不敢](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%AB%98%E7%A9%BA%E6%8A%9B%E7%A0%96%E7%A0%B8%E6%AD%BB%E4%BA%BA+%E7%A7%B0%E6%83%B3%E8%B7%B3%E6%A5%BC%E4%BD%86%E4%B8%8D%E6%95%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子要求关空调 遭同车乘客怒怼](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A6%81%E6%B1%82%E5%85%B3%E7%A9%BA%E8%B0%83+%E9%81%AD%E5%90%8C%E8%BD%A6%E4%B9%98%E5%AE%A2%E6%80%92%E6%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [郑州一小学强制家长轮流站岗](https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E4%B8%80%E5%B0%8F%E5%AD%A6%E5%BC%BA%E5%88%B6%E5%AE%B6%E9%95%BF%E8%BD%AE%E6%B5%81%E7%AB%99%E5%B2%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [周杰伦概念股首日大涨23%](https://www.baidu.com/s?wd=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%A6%82%E5%BF%B5%E8%82%A1%E9%A6%96%E6%97%A5%E5%A4%A7%E6%B6%A823%25&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子要求关空调 遭同车乘客怒怼](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A6%81%E6%B1%82%E5%85%B3%E7%A9%BA%E8%B0%83+%E9%81%AD%E5%90%8C%E8%BD%A6%E4%B9%98%E5%AE%A2%E6%80%92%E6%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [马斯克称自己“有点亲华”](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B0%E8%87%AA%E5%B7%B1%E2%80%9C%E6%9C%89%E7%82%B9%E4%BA%B2%E5%8D%8E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [三轮车拖行交警百米 警方：系听障者](https://www.baidu.com/s?wd=%E4%B8%89%E8%BD%AE%E8%BD%A6%E6%8B%96%E8%A1%8C%E4%BA%A4%E8%AD%A6%E7%99%BE%E7%B1%B3+%E8%AD%A6%E6%96%B9%EF%BC%9A%E7%B3%BB%E5%90%AC%E9%9A%9C%E8%80%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子高空抛砖砸死人 称想跳楼但不敢](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%AB%98%E7%A9%BA%E6%8A%9B%E7%A0%96%E7%A0%B8%E6%AD%BB%E4%BA%BA+%E7%A7%B0%E6%83%B3%E8%B7%B3%E6%A5%BC%E4%BD%86%E4%B8%8D%E6%95%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子要求关空调 遭同车乘客怒怼](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A6%81%E6%B1%82%E5%85%B3%E7%A9%BA%E8%B0%83+%E9%81%AD%E5%90%8C%E8%BD%A6%E4%B9%98%E5%AE%A2%E6%80%92%E6%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [郑州一小学强制家长轮流站岗](https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E4%B8%80%E5%B0%8F%E5%AD%A6%E5%BC%BA%E5%88%B6%E5%AE%B6%E9%95%BF%E8%BD%AE%E6%B5%81%E7%AB%99%E5%B2%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [周杰伦概念股首日大涨23%](https://www.baidu.com/s?wd=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%A6%82%E5%BF%B5%E8%82%A1%E9%A6%96%E6%97%A5%E5%A4%A7%E6%B6%A823%25&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子要求关空调 遭同车乘客怒怼](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A6%81%E6%B1%82%E5%85%B3%E7%A9%BA%E8%B0%83+%E9%81%AD%E5%90%8C%E8%BD%A6%E4%B9%98%E5%AE%A2%E6%80%92%E6%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
