@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-15 05:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-15 05:41:01</h4></div>
 
 > 微博  
 
 1. [奔跑吧 原地消失术](https://s.weibo.com/weibo?q=%E5%A5%94%E8%B7%91%E5%90%A7%20%E5%8E%9F%E5%9C%B0%E6%B6%88%E5%A4%B1%E6%9C%AF&t=31&band_rank=1&Refer=top)<br />
-2. [李若彤李白造型](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%8B%A5%E5%BD%A4%E6%9D%8E%E7%99%BD%E9%80%A0%E5%9E%8B%23&t=31&band_rank=2&Refer=top)<br />
+2. [看完后100%的人试了一下](https://s.weibo.com/weibo?q=%23%E7%9C%8B%E5%AE%8C%E5%90%8E100%25%E7%9A%84%E4%BA%BA%E8%AF%95%E4%BA%86%E4%B8%80%E4%B8%8B%23&t=31&band_rank=2&Refer=top)<br />
 3. [国家队跳绳速度快到重影](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E9%98%9F%E8%B7%B3%E7%BB%B3%E9%80%9F%E5%BA%A6%E5%BF%AB%E5%88%B0%E9%87%8D%E5%BD%B1%23&t=31&band_rank=3&Refer=top)<br />
 4. [奔跑吧收视率](https://s.weibo.com/weibo?q=%E5%A5%94%E8%B7%91%E5%90%A7%E6%94%B6%E8%A7%86%E7%8E%87&t=31&band_rank=4&Refer=top)<br />
 5. [费曼才是香港顶流吧](https://s.weibo.com/weibo?q=%23%E8%B4%B9%E6%9B%BC%E6%89%8D%E6%98%AF%E9%A6%99%E6%B8%AF%E9%A1%B6%E6%B5%81%E5%90%A7%23&t=31&band_rank=5&Refer=top)<br />
-6. [9000元补贴能缓解独子养老焦虑吗](https://s.weibo.com/weibo?q=%239000%E5%85%83%E8%A1%A5%E8%B4%B4%E8%83%BD%E7%BC%93%E8%A7%A3%E7%8B%AC%E5%AD%90%E5%85%BB%E8%80%81%E7%84%A6%E8%99%91%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
+6. [李若彤李白造型](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%8B%A5%E5%BD%A4%E6%9D%8E%E7%99%BD%E9%80%A0%E5%9E%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [奔跑吧下期预告呢](https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%E4%B8%8B%E6%9C%9F%E9%A2%84%E5%91%8A%E5%91%A2%23&t=31&band_rank=7&Refer=top)<br />
-8. [她是不是没忘干净](https://s.weibo.com/weibo?q=%E5%A5%B9%E6%98%AF%E4%B8%8D%E6%98%AF%E6%B2%A1%E5%BF%98%E5%B9%B2%E5%87%80&t=31&band_rank=8&Refer=top)<br />
-9. [中国官方回应阿斯巴甜评估结果](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E9%98%BF%E6%96%AF%E5%B7%B4%E7%94%9C%E8%AF%84%E4%BC%B0%E7%BB%93%E6%9E%9C%23&t=31&band_rank=9&Refer=top)<br />
+8. [9000元补贴能缓解独子养老焦虑吗](https://s.weibo.com/weibo?q=%239000%E5%85%83%E8%A1%A5%E8%B4%B4%E8%83%BD%E7%BC%93%E8%A7%A3%E7%8B%AC%E5%AD%90%E5%85%BB%E8%80%81%E7%84%A6%E8%99%91%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
+9. [她是不是没忘干净](https://s.weibo.com/weibo?q=%E5%A5%B9%E6%98%AF%E4%B8%8D%E6%98%AF%E6%B2%A1%E5%BF%98%E5%B9%B2%E5%87%80&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
