@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-14 08:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-14 08:55:01</h4></div>
 
 > 微博  
 
-1. [双职工独立带娃的解决方案](https://s.weibo.com/weibo?q=%23%E5%8F%8C%E8%81%8C%E5%B7%A5%E7%8B%AC%E7%AB%8B%E5%B8%A6%E5%A8%83%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%23&t=31&band_rank=1&Refer=top)<br />
-2. [不死鸟](https://s.weibo.com/weibo?q=%E4%B8%8D%E6%AD%BB%E9%B8%9F&t=31&band_rank=2&Refer=top)<br />
+1. [不死鸟](https://s.weibo.com/weibo?q=%E4%B8%8D%E6%AD%BB%E9%B8%9F&t=31&band_rank=1&Refer=top)<br />
+2. [双职工独立带娃的解决方案](https://s.weibo.com/weibo?q=%23%E5%8F%8C%E8%81%8C%E5%B7%A5%E7%8B%AC%E7%AB%8B%E5%B8%A6%E5%A8%83%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%23&t=31&band_rank=2&Refer=top)<br />
 3. [这些录取通知书里满是骄傲和期许](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%9B%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E9%87%8C%E6%BB%A1%E6%98%AF%E9%AA%84%E5%82%B2%E5%92%8C%E6%9C%9F%E8%AE%B8%23&t=31&band_rank=3&Refer=top)<br />
 4. [何洁刁磊带娃与黄雅莉聚会](https://s.weibo.com/weibo?q=%23%E4%BD%95%E6%B4%81%E5%88%81%E7%A3%8A%E5%B8%A6%E5%A8%83%E4%B8%8E%E9%BB%84%E9%9B%85%E8%8E%89%E8%81%9A%E4%BC%9A%23&t=31&band_rank=4&Refer=top)<br />
 5. [肖战工作室这是可以发的吗](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%B7%A5%E4%BD%9C%E5%AE%A4%E8%BF%99%E6%98%AF%E5%8F%AF%E4%BB%A5%E5%8F%91%E7%9A%84%E5%90%97%23&t=31&band_rank=5&Refer=top)<br />
