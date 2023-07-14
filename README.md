@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-14 22:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-14 22:58:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [易烊千玺发了好多心](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%8F%91%E4%BA%86%E5%A5%BD%E5%A4%9A%E5%BF%83%23&t=31&band_rank=5&Refer=top)<br />
 6. [米妮中文](https://s.weibo.com/weibo?q=%E7%B1%B3%E5%A6%AE%E4%B8%AD%E6%96%87&t=31&band_rank=6&Refer=top)<br />
 7. [她是不是没忘干净](https://s.weibo.com/weibo?q=%E5%A5%B9%E6%98%AF%E4%B8%8D%E6%98%AF%E6%B2%A1%E5%BF%98%E5%B9%B2%E5%87%80&t=31&band_rank=7&Refer=top)<br />
-8. [女子切野生菌时嗦手指致中毒](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%88%87%E9%87%8E%E7%94%9F%E8%8F%8C%E6%97%B6%E5%97%A6%E6%89%8B%E6%8C%87%E8%87%B4%E4%B8%AD%E6%AF%92%23&t=31&band_rank=8&Refer=top)<br />
-9. [医院回应误给孩子用麻醉剂死亡](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E8%AF%AF%E7%BB%99%E5%AD%A9%E5%AD%90%E7%94%A8%E9%BA%BB%E9%86%89%E5%89%82%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
+8. [医院回应误给孩子用麻醉剂死亡](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E8%AF%AF%E7%BB%99%E5%AD%A9%E5%AD%90%E7%94%A8%E9%BA%BB%E9%86%89%E5%89%82%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
+9. [那时候把书堆的高高 其实是挡住了自己的未来](https://s.weibo.com/weibo?q=%E9%82%A3%E6%97%B6%E5%80%99%E6%8A%8A%E4%B9%A6%E5%A0%86%E7%9A%84%E9%AB%98%E9%AB%98%20%E5%85%B6%E5%AE%9E%E6%98%AF%E6%8C%A1%E4%BD%8F%E4%BA%86%E8%87%AA%E5%B7%B1%E7%9A%84%E6%9C%AA%E6%9D%A5&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
