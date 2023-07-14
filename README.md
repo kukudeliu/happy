@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-15 06:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-15 06:36:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [费曼才是香港顶流吧](https://s.weibo.com/weibo?q=%23%E8%B4%B9%E6%9B%BC%E6%89%8D%E6%98%AF%E9%A6%99%E6%B8%AF%E9%A1%B6%E6%B5%81%E5%90%A7%23&t=31&band_rank=6&Refer=top)<br />
 7. [看完后100%的人试了一下](https://s.weibo.com/weibo?q=%23%E7%9C%8B%E5%AE%8C%E5%90%8E100%25%E7%9A%84%E4%BA%BA%E8%AF%95%E4%BA%86%E4%B8%80%E4%B8%8B%23&t=31&band_rank=7&Refer=top)<br />
 8. [奔跑吧下期预告呢](https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%E4%B8%8B%E6%9C%9F%E9%A2%84%E5%91%8A%E5%91%A2%23&t=31&band_rank=8&Refer=top)<br />
-9. [中国官方回应阿斯巴甜评估结果](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E9%98%BF%E6%96%AF%E5%B7%B4%E7%94%9C%E8%AF%84%E4%BC%B0%E7%BB%93%E6%9E%9C%23&t=31&band_rank=9&Refer=top)<br />
+9. [医院回应误给孩子用麻醉剂死亡](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E8%AF%AF%E7%BB%99%E5%AD%A9%E5%AD%90%E7%94%A8%E9%BA%BB%E9%86%89%E5%89%82%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
