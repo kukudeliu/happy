@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-15 01:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-15 01:29:02</h4></div>
 
 > 微博  
 
@@ -23,9 +23,9 @@
 4. [快乐过暑假 安全不放假](https://www.baidu.com/s?wd=%E5%BF%AB%E4%B9%90%E8%BF%87%E6%9A%91%E5%81%87+%E5%AE%89%E5%85%A8%E4%B8%8D%E6%94%BE%E5%81%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [跑男收视率破1](https://www.baidu.com/s?wd=%E8%B7%91%E7%94%B7%E6%94%B6%E8%A7%86%E7%8E%87%E7%A0%B41&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [曝比亚迪计划在印度生产电动汽车](https://www.baidu.com/s?wd=%E6%9B%9D%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%AE%A1%E5%88%92%E5%9C%A8%E5%8D%B0%E5%BA%A6%E7%94%9F%E4%BA%A7%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [86.1%受访者会漫无目的刷手机](https://www.baidu.com/s?wd=86.1%25%E5%8F%97%E8%AE%BF%E8%80%85%E4%BC%9A%E6%BC%AB%E6%97%A0%E7%9B%AE%E7%9A%84%E5%88%B7%E6%89%8B%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [何洁刁磊带娃与黄雅莉聚会](https://www.baidu.com/s?wd=%E4%BD%95%E6%B4%81%E5%88%81%E7%A3%8A%E5%B8%A6%E5%A8%83%E4%B8%8E%E9%BB%84%E9%9B%85%E8%8E%89%E8%81%9A%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [台媒曝大陆高校师生访台行程](https://www.baidu.com/s?wd=%E5%8F%B0%E5%AA%92%E6%9B%9D%E5%A4%A7%E9%99%86%E9%AB%98%E6%A0%A1%E5%B8%88%E7%94%9F%E8%AE%BF%E5%8F%B0%E8%A1%8C%E7%A8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [撒贝宁现身贵州村BA](https://www.baidu.com/s?wd=%E6%92%92%E8%B4%9D%E5%AE%81%E7%8E%B0%E8%BA%AB%E8%B4%B5%E5%B7%9E%E6%9D%91BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [蔡依林出道24年首次liveband](https://www.baidu.com/s?wd=%E8%94%A1%E4%BE%9D%E6%9E%97%E5%87%BA%E9%81%9324%E5%B9%B4%E9%A6%96%E6%AC%A1liveband&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [86.1%受访者会漫无目的刷手机](https://www.baidu.com/s?wd=86.1%25%E5%8F%97%E8%AE%BF%E8%80%85%E4%BC%9A%E6%BC%AB%E6%97%A0%E7%9B%AE%E7%9A%84%E5%88%B7%E6%89%8B%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -35,6 +35,6 @@
 4. [快乐过暑假 安全不放假](https://www.baidu.com/s?wd=%E5%BF%AB%E4%B9%90%E8%BF%87%E6%9A%91%E5%81%87+%E5%AE%89%E5%85%A8%E4%B8%8D%E6%94%BE%E5%81%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [跑男收视率破1](https://www.baidu.com/s?wd=%E8%B7%91%E7%94%B7%E6%94%B6%E8%A7%86%E7%8E%87%E7%A0%B41&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [曝比亚迪计划在印度生产电动汽车](https://www.baidu.com/s?wd=%E6%9B%9D%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%AE%A1%E5%88%92%E5%9C%A8%E5%8D%B0%E5%BA%A6%E7%94%9F%E4%BA%A7%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [86.1%受访者会漫无目的刷手机](https://www.baidu.com/s?wd=86.1%25%E5%8F%97%E8%AE%BF%E8%80%85%E4%BC%9A%E6%BC%AB%E6%97%A0%E7%9B%AE%E7%9A%84%E5%88%B7%E6%89%8B%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [何洁刁磊带娃与黄雅莉聚会](https://www.baidu.com/s?wd=%E4%BD%95%E6%B4%81%E5%88%81%E7%A3%8A%E5%B8%A6%E5%A8%83%E4%B8%8E%E9%BB%84%E9%9B%85%E8%8E%89%E8%81%9A%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [台媒曝大陆高校师生访台行程](https://www.baidu.com/s?wd=%E5%8F%B0%E5%AA%92%E6%9B%9D%E5%A4%A7%E9%99%86%E9%AB%98%E6%A0%A1%E5%B8%88%E7%94%9F%E8%AE%BF%E5%8F%B0%E8%A1%8C%E7%A8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [撒贝宁现身贵州村BA](https://www.baidu.com/s?wd=%E6%92%92%E8%B4%9D%E5%AE%81%E7%8E%B0%E8%BA%AB%E8%B4%B5%E5%B7%9E%E6%9D%91BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [蔡依林出道24年首次liveband](https://www.baidu.com/s?wd=%E8%94%A1%E4%BE%9D%E6%9E%97%E5%87%BA%E9%81%9324%E5%B9%B4%E9%A6%96%E6%AC%A1liveband&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [86.1%受访者会漫无目的刷手机](https://www.baidu.com/s?wd=86.1%25%E5%8F%97%E8%AE%BF%E8%80%85%E4%BC%9A%E6%BC%AB%E6%97%A0%E7%9B%AE%E7%9A%84%E5%88%B7%E6%89%8B%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
