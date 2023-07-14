@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-14 20:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-14 20:40:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [邓超 看谁今晚还敢拿我的丑照做灯牌](https://s.weibo.com/weibo?q=%E9%82%93%E8%B6%85%20%E7%9C%8B%E8%B0%81%E4%BB%8A%E6%99%9A%E8%BF%98%E6%95%A2%E6%8B%BF%E6%88%91%E7%9A%84%E4%B8%91%E7%85%A7%E5%81%9A%E7%81%AF%E7%89%8C&t=31&band_rank=6&Refer=top)<br />
 7. [陶喆首场线上演唱会](https://s.weibo.com/weibo?q=%23%E9%99%B6%E5%96%86%E9%A6%96%E5%9C%BA%E7%BA%BF%E4%B8%8A%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=7&Refer=top)<br />
 8. [他从火光中走来](https://s.weibo.com/weibo?q=%E4%BB%96%E4%BB%8E%E7%81%AB%E5%85%89%E4%B8%AD%E8%B5%B0%E6%9D%A5&t=31&band_rank=8&Refer=top)<br />
-9. [ChatGPT正式被美国调查](https://s.weibo.com/weibo?q=%23ChatGPT%E6%AD%A3%E5%BC%8F%E8%A2%AB%E7%BE%8E%E5%9B%BD%E8%B0%83%E6%9F%A5%23&t=31&band_rank=9&Refer=top)<br />
+9. [医院回应误给孩子用麻醉剂死亡](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E8%AF%AF%E7%BB%99%E5%AD%A9%E5%AD%90%E7%94%A8%E9%BA%BB%E9%86%89%E5%89%82%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
