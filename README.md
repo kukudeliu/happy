@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-14 19:27:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-14 19:28:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [黄晓明说程潇不能刷碗就别来了](https://www.baidu.com/s?wd=%E9%BB%84%E6%99%93%E6%98%8E%E8%AF%B4%E7%A8%8B%E6%BD%87%E4%B8%8D%E8%83%BD%E5%88%B7%E7%A2%97%E5%B0%B1%E5%88%AB%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [关晓彤也演过《家有儿女》](https://www.baidu.com/s?wd=%E5%85%B3%E6%99%93%E5%BD%A4%E4%B9%9F%E6%BC%94%E8%BF%87%E3%80%8A%E5%AE%B6%E6%9C%89%E5%84%BF%E5%A5%B3%E3%80%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [通勤必备数码好物](https://www.baidu.com/s?wd=%E9%80%9A%E5%8B%A4%E5%BF%85%E5%A4%87%E6%95%B0%E7%A0%81%E5%A5%BD%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [石家庄紧急调集公交车支援保定](https://www.baidu.com/s?wd=%E7%9F%B3%E5%AE%B6%E5%BA%84%E7%B4%A7%E6%80%A5%E8%B0%83%E9%9B%86%E5%85%AC%E4%BA%A4%E8%BD%A6%E6%94%AF%E6%8F%B4%E4%BF%9D%E5%AE%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [广西大学大树倾倒教师疑被砸身亡](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E5%A4%A7%E5%AD%A6%E5%A4%A7%E6%A0%91%E5%80%BE%E5%80%92%E6%95%99%E5%B8%88%E7%96%91%E8%A2%AB%E7%A0%B8%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [黄晓明说程潇不能刷碗就别来了](https://www.baidu.com/s?wd=%E9%BB%84%E6%99%93%E6%98%8E%E8%AF%B4%E7%A8%8B%E6%BD%87%E4%B8%8D%E8%83%BD%E5%88%B7%E7%A2%97%E5%B0%B1%E5%88%AB%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [关晓彤也演过《家有儿女》](https://www.baidu.com/s?wd=%E5%85%B3%E6%99%93%E5%BD%A4%E4%B9%9F%E6%BC%94%E8%BF%87%E3%80%8A%E5%AE%B6%E6%9C%89%E5%84%BF%E5%A5%B3%E3%80%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [通勤必备数码好物](https://www.baidu.com/s?wd=%E9%80%9A%E5%8B%A4%E5%BF%85%E5%A4%87%E6%95%B0%E7%A0%81%E5%A5%BD%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [石家庄紧急调集公交车支援保定](https://www.baidu.com/s?wd=%E7%9F%B3%E5%AE%B6%E5%BA%84%E7%B4%A7%E6%80%A5%E8%B0%83%E9%9B%86%E5%85%AC%E4%BA%A4%E8%BD%A6%E6%94%AF%E6%8F%B4%E4%BF%9D%E5%AE%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [广西大学大树倾倒教师疑被砸身亡](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E5%A4%A7%E5%AD%A6%E5%A4%A7%E6%A0%91%E5%80%BE%E5%80%92%E6%95%99%E5%B8%88%E7%96%91%E8%A2%AB%E7%A0%B8%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
