@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-14 21:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-14 21:18:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [奔跑吧后期好牛](https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%E5%90%8E%E6%9C%9F%E5%A5%BD%E7%89%9B%23&t=31&band_rank=6&Refer=top)<br />
 7. [杨洋说夸我时王楚然的反应](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B4%8B%E8%AF%B4%E5%A4%B8%E6%88%91%E6%97%B6%E7%8E%8B%E6%A5%9A%E7%84%B6%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=7&Refer=top)<br />
 8. [邓超 看谁今晚还敢拿我的丑照做灯牌](https://s.weibo.com/weibo?q=%E9%82%93%E8%B6%85%20%E7%9C%8B%E8%B0%81%E4%BB%8A%E6%99%9A%E8%BF%98%E6%95%A2%E6%8B%BF%E6%88%91%E7%9A%84%E4%B8%91%E7%85%A7%E5%81%9A%E7%81%AF%E7%89%8C&t=31&band_rank=8&Refer=top)<br />
-9. [中国内地新增报告106例猴痘确诊病例](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%86%85%E5%9C%B0%E6%96%B0%E5%A2%9E%E6%8A%A5%E5%91%8A106%E4%BE%8B%E7%8C%B4%E7%97%98%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B%23&t=31&band_rank=9&Refer=top)<br />
+9. [医院回应误给孩子用麻醉剂死亡](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E8%AF%AF%E7%BB%99%E5%AD%A9%E5%AD%90%E7%94%A8%E9%BA%BB%E9%86%89%E5%89%82%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
