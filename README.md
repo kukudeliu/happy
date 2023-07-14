@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-15 07:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-15 07:30:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [著名导演贝聿娍去世](https://s.weibo.com/weibo?q=%23%E8%91%97%E5%90%8D%E5%AF%BC%E6%BC%94%E8%B4%9D%E8%81%BF%E5%A8%8D%E5%8E%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [散步是最纯爱的生活方式](https://s.weibo.com/weibo?q=%E6%95%A3%E6%AD%A5%E6%98%AF%E6%9C%80%E7%BA%AF%E7%88%B1%E7%9A%84%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F&t=31&band_rank=7&Refer=top)<br />
 8. [奔跑吧下期预告呢](https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%E4%B8%8B%E6%9C%9F%E9%A2%84%E5%91%8A%E5%91%A2%23&t=31&band_rank=8&Refer=top)<br />
-9. [看完后100%的人试了一下](https://s.weibo.com/weibo?q=%23%E7%9C%8B%E5%AE%8C%E5%90%8E100%25%E7%9A%84%E4%BA%BA%E8%AF%95%E4%BA%86%E4%B8%80%E4%B8%8B%23&t=31&band_rank=9&Refer=top)<br />
+9. [00后也到了血脉觉醒的年纪](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E4%B9%9F%E5%88%B0%E4%BA%86%E8%A1%80%E8%84%89%E8%A7%89%E9%86%92%E7%9A%84%E5%B9%B4%E7%BA%AA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
