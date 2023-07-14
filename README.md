@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-14 21:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-14 21:45:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [奔跑吧后期好牛](https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%E5%90%8E%E6%9C%9F%E5%A5%BD%E7%89%9B%23&t=31&band_rank=4&Refer=top)<br />
 5. [范丞丞发奔跑吧花絮照了](https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E5%8F%91%E5%A5%94%E8%B7%91%E5%90%A7%E8%8A%B1%E7%B5%AE%E7%85%A7%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [她是不是没忘干净](https://s.weibo.com/weibo?q=%E5%A5%B9%E6%98%AF%E4%B8%8D%E6%98%AF%E6%B2%A1%E5%BF%98%E5%B9%B2%E5%87%80&t=31&band_rank=6&Refer=top)<br />
-7. [本轮猴痘疫情主要通过男男传播](https://s.weibo.com/weibo?q=%23%E6%9C%AC%E8%BD%AE%E7%8C%B4%E7%97%98%E7%96%AB%E6%83%85%E4%B8%BB%E8%A6%81%E9%80%9A%E8%BF%87%E7%94%B7%E7%94%B7%E4%BC%A0%E6%92%AD%23&t=31&band_rank=7&Refer=top)<br />
-8. [欢颜官宣定档](https://s.weibo.com/weibo?q=%23%E6%AC%A2%E9%A2%9C%E5%AE%98%E5%AE%A3%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=8&Refer=top)<br />
-9. [北大首封录取通知书送到14岁少年手中](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E9%A6%96%E5%B0%81%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E9%80%81%E5%88%B014%E5%B2%81%E5%B0%91%E5%B9%B4%E6%89%8B%E4%B8%AD%23&t=31&band_rank=9&Refer=top)<br />
+7. [欢颜官宣定档](https://s.weibo.com/weibo?q=%23%E6%AC%A2%E9%A2%9C%E5%AE%98%E5%AE%A3%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=7&Refer=top)<br />
+8. [北大首封录取通知书送到14岁少年手中](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E9%A6%96%E5%B0%81%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E9%80%81%E5%88%B014%E5%B2%81%E5%B0%91%E5%B9%B4%E6%89%8B%E4%B8%AD%23&t=31&band_rank=8&Refer=top)<br />
+9. [医院回应误给孩子用麻醉剂死亡](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E8%AF%AF%E7%BB%99%E5%AD%A9%E5%AD%90%E7%94%A8%E9%BA%BB%E9%86%89%E5%89%82%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
