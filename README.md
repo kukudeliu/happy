@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-14 21:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-14 21:27:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [你的养老金今年涨了多少？](https://www.baidu.com/s?wd=%E4%BD%A0%E7%9A%84%E5%85%BB%E8%80%81%E9%87%91%E4%BB%8A%E5%B9%B4%E6%B6%A8%E4%BA%86%E5%A4%9A%E5%B0%91%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [美称中国要成亚洲霸主 国防部回应](https://www.baidu.com/s?wd=%E7%BE%8E%E7%A7%B0%E4%B8%AD%E5%9B%BD%E8%A6%81%E6%88%90%E4%BA%9A%E6%B4%B2%E9%9C%B8%E4%B8%BB+%E5%9B%BD%E9%98%B2%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [通勤必备数码好物](https://www.baidu.com/s?wd=%E9%80%9A%E5%8B%A4%E5%BF%85%E5%A4%87%E6%95%B0%E7%A0%81%E5%A5%BD%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [6月内地新增106例猴痘确诊病例](https://www.baidu.com/s?wd=6%E6%9C%88%E5%86%85%E5%9C%B0%E6%96%B0%E5%A2%9E106%E4%BE%8B%E7%8C%B4%E7%97%98%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子为减肥每天一顿半年暴瘦30斤](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%BA%E5%87%8F%E8%82%A5%E6%AF%8F%E5%A4%A9%E4%B8%80%E9%A1%BF%E5%8D%8A%E5%B9%B4%E6%9A%B4%E7%98%A630%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [你的养老金今年涨了多少？](https://www.baidu.com/s?wd=%E4%BD%A0%E7%9A%84%E5%85%BB%E8%80%81%E9%87%91%E4%BB%8A%E5%B9%B4%E6%B6%A8%E4%BA%86%E5%A4%9A%E5%B0%91%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [美称中国要成亚洲霸主 国防部回应](https://www.baidu.com/s?wd=%E7%BE%8E%E7%A7%B0%E4%B8%AD%E5%9B%BD%E8%A6%81%E6%88%90%E4%BA%9A%E6%B4%B2%E9%9C%B8%E4%B8%BB+%E5%9B%BD%E9%98%B2%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [通勤必备数码好物](https://www.baidu.com/s?wd=%E9%80%9A%E5%8B%A4%E5%BF%85%E5%A4%87%E6%95%B0%E7%A0%81%E5%A5%BD%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [6月内地新增106例猴痘确诊病例](https://www.baidu.com/s?wd=6%E6%9C%88%E5%86%85%E5%9C%B0%E6%96%B0%E5%A2%9E106%E4%BE%8B%E7%8C%B4%E7%97%98%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子为减肥每天一顿半年暴瘦30斤](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%BA%E5%87%8F%E8%82%A5%E6%AF%8F%E5%A4%A9%E4%B8%80%E9%A1%BF%E5%8D%8A%E5%B9%B4%E6%9A%B4%E7%98%A630%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
