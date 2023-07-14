@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-15 03:48:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-15 03:49:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [快乐过暑假 安全不放假](https://www.baidu.com/s?wd=%E5%BF%AB%E4%B9%90%E8%BF%87%E6%9A%91%E5%81%87+%E5%AE%89%E5%85%A8%E4%B8%8D%E6%94%BE%E5%81%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [跑男收视率破1](https://www.baidu.com/s?wd=%E8%B7%91%E7%94%B7%E6%94%B6%E8%A7%86%E7%8E%87%E7%A0%B41&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [曝比亚迪计划在印度生产电动汽车](https://www.baidu.com/s?wd=%E6%9B%9D%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%AE%A1%E5%88%92%E5%9C%A8%E5%8D%B0%E5%BA%A6%E7%94%9F%E4%BA%A7%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [阿米尔汗和王宝强竟然是好朋友](https://www.baidu.com/s?wd=%E9%98%BF%E7%B1%B3%E5%B0%94%E6%B1%97%E5%92%8C%E7%8E%8B%E5%AE%9D%E5%BC%BA%E7%AB%9F%E7%84%B6%E6%98%AF%E5%A5%BD%E6%9C%8B%E5%8F%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [普京：从法律层面讲瓦格纳并不存在](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E4%BB%8E%E6%B3%95%E5%BE%8B%E5%B1%82%E9%9D%A2%E8%AE%B2%E7%93%A6%E6%A0%BC%E7%BA%B3%E5%B9%B6%E4%B8%8D%E5%AD%98%E5%9C%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [范丞丞说魏大勋最近挺火的](https://www.baidu.com/s?wd=%E8%8C%83%E4%B8%9E%E4%B8%9E%E8%AF%B4%E9%AD%8F%E5%A4%A7%E5%8B%8B%E6%9C%80%E8%BF%91%E6%8C%BA%E7%81%AB%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [阿米尔汗和王宝强竟然是好朋友](https://www.baidu.com/s?wd=%E9%98%BF%E7%B1%B3%E5%B0%94%E6%B1%97%E5%92%8C%E7%8E%8B%E5%AE%9D%E5%BC%BA%E7%AB%9F%E7%84%B6%E6%98%AF%E5%A5%BD%E6%9C%8B%E5%8F%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [安理会上，朝鲜罕见发声](https://www.baidu.com/s?wd=%E5%AE%89%E7%90%86%E4%BC%9A%E4%B8%8A%EF%BC%8C%E6%9C%9D%E9%B2%9C%E7%BD%95%E8%A7%81%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [快乐过暑假 安全不放假](https://www.baidu.com/s?wd=%E5%BF%AB%E4%B9%90%E8%BF%87%E6%9A%91%E5%81%87+%E5%AE%89%E5%85%A8%E4%B8%8D%E6%94%BE%E5%81%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [跑男收视率破1](https://www.baidu.com/s?wd=%E8%B7%91%E7%94%B7%E6%94%B6%E8%A7%86%E7%8E%87%E7%A0%B41&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [曝比亚迪计划在印度生产电动汽车](https://www.baidu.com/s?wd=%E6%9B%9D%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%AE%A1%E5%88%92%E5%9C%A8%E5%8D%B0%E5%BA%A6%E7%94%9F%E4%BA%A7%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [阿米尔汗和王宝强竟然是好朋友](https://www.baidu.com/s?wd=%E9%98%BF%E7%B1%B3%E5%B0%94%E6%B1%97%E5%92%8C%E7%8E%8B%E5%AE%9D%E5%BC%BA%E7%AB%9F%E7%84%B6%E6%98%AF%E5%A5%BD%E6%9C%8B%E5%8F%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [普京：从法律层面讲瓦格纳并不存在](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E4%BB%8E%E6%B3%95%E5%BE%8B%E5%B1%82%E9%9D%A2%E8%AE%B2%E7%93%A6%E6%A0%BC%E7%BA%B3%E5%B9%B6%E4%B8%8D%E5%AD%98%E5%9C%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [范丞丞说魏大勋最近挺火的](https://www.baidu.com/s?wd=%E8%8C%83%E4%B8%9E%E4%B8%9E%E8%AF%B4%E9%AD%8F%E5%A4%A7%E5%8B%8B%E6%9C%80%E8%BF%91%E6%8C%BA%E7%81%AB%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [阿米尔汗和王宝强竟然是好朋友](https://www.baidu.com/s?wd=%E9%98%BF%E7%B1%B3%E5%B0%94%E6%B1%97%E5%92%8C%E7%8E%8B%E5%AE%9D%E5%BC%BA%E7%AB%9F%E7%84%B6%E6%98%AF%E5%A5%BD%E6%9C%8B%E5%8F%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [安理会上，朝鲜罕见发声](https://www.baidu.com/s?wd=%E5%AE%89%E7%90%86%E4%BC%9A%E4%B8%8A%EF%BC%8C%E6%9C%9D%E9%B2%9C%E7%BD%95%E8%A7%81%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
