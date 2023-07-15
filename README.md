@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-15 14:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-15 14:24:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [网友买半个西瓜果切拼完没有心](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E4%B9%B0%E5%8D%8A%E4%B8%AA%E8%A5%BF%E7%93%9C%E6%9E%9C%E5%88%87%E6%8B%BC%E5%AE%8C%E6%B2%A1%E6%9C%89%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [张一山怀疑杨紫瞒着自己上节目](https://www.baidu.com/s?wd=%E5%BC%A0%E4%B8%80%E5%B1%B1%E6%80%80%E7%96%91%E6%9D%A8%E7%B4%AB%E7%9E%92%E7%9D%80%E8%87%AA%E5%B7%B1%E4%B8%8A%E8%8A%82%E7%9B%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [印度登月“路难行”](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E7%99%BB%E6%9C%88%E2%80%9C%E8%B7%AF%E9%9A%BE%E8%A1%8C%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [12岁男孩乘三角翼遇难 家属发声](https://www.baidu.com/s?wd=12%E5%B2%81%E7%94%B7%E5%AD%A9%E4%B9%98%E4%B8%89%E8%A7%92%E7%BF%BC%E9%81%87%E9%9A%BE+%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [光大集团原董事长唐双宁被查](https://www.baidu.com/s?wd=%E5%85%89%E5%A4%A7%E9%9B%86%E5%9B%A2%E5%8E%9F%E8%91%A3%E4%BA%8B%E9%95%BF%E5%94%90%E5%8F%8C%E5%AE%81%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [网友买半个西瓜果切拼完没有心](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E4%B9%B0%E5%8D%8A%E4%B8%AA%E8%A5%BF%E7%93%9C%E6%9E%9C%E5%88%87%E6%8B%BC%E5%AE%8C%E6%B2%A1%E6%9C%89%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [张一山怀疑杨紫瞒着自己上节目](https://www.baidu.com/s?wd=%E5%BC%A0%E4%B8%80%E5%B1%B1%E6%80%80%E7%96%91%E6%9D%A8%E7%B4%AB%E7%9E%92%E7%9D%80%E8%87%AA%E5%B7%B1%E4%B8%8A%E8%8A%82%E7%9B%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [印度登月“路难行”](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E7%99%BB%E6%9C%88%E2%80%9C%E8%B7%AF%E9%9A%BE%E8%A1%8C%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [12岁男孩乘三角翼遇难 家属发声](https://www.baidu.com/s?wd=12%E5%B2%81%E7%94%B7%E5%AD%A9%E4%B9%98%E4%B8%89%E8%A7%92%E7%BF%BC%E9%81%87%E9%9A%BE+%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [光大集团原董事长唐双宁被查](https://www.baidu.com/s?wd=%E5%85%89%E5%A4%A7%E9%9B%86%E5%9B%A2%E5%8E%9F%E8%91%A3%E4%BA%8B%E9%95%BF%E5%94%90%E5%8F%8C%E5%AE%81%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
