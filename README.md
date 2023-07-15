@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-15 22:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-15 23:00:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [魏大勋曾想帮尼坤澄清争议](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E6%9B%BE%E6%83%B3%E5%B8%AE%E5%B0%BC%E5%9D%A4%E6%BE%84%E6%B8%85%E4%BA%89%E8%AE%AE%23&t=31&band_rank=4&Refer=top)<br />
 5. [何炅谢娜哭着拥抱](https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%E8%B0%A2%E5%A8%9C%E5%93%AD%E7%9D%80%E6%8B%A5%E6%8A%B1%23&t=31&band_rank=5&Refer=top)<br />
 6. [杨洋追杨迪摔了一跤](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B4%8B%E8%BF%BD%E6%9D%A8%E8%BF%AA%E6%91%94%E4%BA%86%E4%B8%80%E8%B7%A4%23&t=31&band_rank=6&Refer=top)<br />
-7. [鹿晗说芦苇天下第一好](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E8%AF%B4%E8%8A%A6%E8%8B%87%E5%A4%A9%E4%B8%8B%E7%AC%AC%E4%B8%80%E5%A5%BD%23&t=31&band_rank=7&Refer=top)<br />
+7. [迪丽热巴龚俊认证安居乐烨](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%BE%9A%E4%BF%8A%E8%AE%A4%E8%AF%81%E5%AE%89%E5%B1%85%E4%B9%90%E7%83%A8%23&t=31&band_rank=7&Refer=top)<br />
 8. [学生被罚站中暑去世实为吃早餐晕倒](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E8%A2%AB%E7%BD%9A%E7%AB%99%E4%B8%AD%E6%9A%91%E5%8E%BB%E4%B8%96%E5%AE%9E%E4%B8%BA%E5%90%83%E6%97%A9%E9%A4%90%E6%99%95%E5%80%92%23&t=31&band_rank=8&Refer=top)<br />
-9. [张拿铁 汉语英语全废了](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%8B%BF%E9%93%81%20%E6%B1%89%E8%AF%AD%E8%8B%B1%E8%AF%AD%E5%85%A8%E5%BA%9F%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [茉酸奶](https://s.weibo.com/weibo?q=%E8%8C%89%E9%85%B8%E5%A5%B6&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
