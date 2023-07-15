@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-15 23:49:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-15 23:50:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [学生被罚站中暑去世实为吃早餐晕倒](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E8%A2%AB%E7%BD%9A%E7%AB%99%E4%B8%AD%E6%9A%91%E5%8E%BB%E4%B8%96%E5%AE%9E%E4%B8%BA%E5%90%83%E6%97%A9%E9%A4%90%E6%99%95%E5%80%92%23&t=31&band_rank=6&Refer=top)<br />
 7. [孟宴臣录完开场舞就走了](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AE%B4%E8%87%A3%E5%BD%95%E5%AE%8C%E5%BC%80%E5%9C%BA%E8%88%9E%E5%B0%B1%E8%B5%B0%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [茉酸奶回应被改名](https://s.weibo.com/weibo?q=%23%E8%8C%89%E9%85%B8%E5%A5%B6%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%94%B9%E5%90%8D%23&t=31&band_rank=8&Refer=top)<br />
-9. [致死率90%的猫冠状病毒或已扩散](https://s.weibo.com/weibo?q=%23%E8%87%B4%E6%AD%BB%E7%8E%8790%25%E7%9A%84%E7%8C%AB%E5%86%A0%E7%8A%B6%E7%97%85%E6%AF%92%E6%88%96%E5%B7%B2%E6%89%A9%E6%95%A3%23&t=31&band_rank=9&Refer=top)<br />
+9. [茉酸奶](https://s.weibo.com/weibo?q=%E8%8C%89%E9%85%B8%E5%A5%B6&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
