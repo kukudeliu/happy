@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-16 06:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-16 06:33:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [学生被罚站中暑去世实为吃早餐晕倒](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E8%A2%AB%E7%BD%9A%E7%AB%99%E4%B8%AD%E6%9A%91%E5%8E%BB%E4%B8%96%E5%AE%9E%E4%B8%BA%E5%90%83%E6%97%A9%E9%A4%90%E6%99%95%E5%80%92%23&t=31&band_rank=6&Refer=top)<br />
 7. [孟宴臣录完开场舞就走了](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AE%B4%E8%87%A3%E5%BD%95%E5%AE%8C%E5%BC%80%E5%9C%BA%E8%88%9E%E5%B0%B1%E8%B5%B0%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [演技好的待爆演员](https://s.weibo.com/weibo?q=%23%E6%BC%94%E6%8A%80%E5%A5%BD%E7%9A%84%E5%BE%85%E7%88%86%E6%BC%94%E5%91%98%23&t=31&band_rank=8&Refer=top)<br />
-9. [新娘回应0彩礼用52辆轮椅迎亲](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%A8%98%E5%9B%9E%E5%BA%940%E5%BD%A9%E7%A4%BC%E7%94%A852%E8%BE%86%E8%BD%AE%E6%A4%85%E8%BF%8E%E4%BA%B2%23&t=31&band_rank=9&Refer=top)<br />
+9. [谢娜上一次是回归这次是告别](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E4%B8%8A%E4%B8%80%E6%AC%A1%E6%98%AF%E5%9B%9E%E5%BD%92%E8%BF%99%E6%AC%A1%E6%98%AF%E5%91%8A%E5%88%AB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
