@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-15 12:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-15 12:06:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [李莎旻子居然写了20首歌](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%8E%8E%E6%97%BB%E5%AD%90%E5%B1%85%E7%84%B6%E5%86%99%E4%BA%8620%E9%A6%96%E6%AD%8C%23&t=31&band_rank=6&Refer=top)<br />
 7. [Loopy 名创优品](https://s.weibo.com/weibo?q=Loopy%20%E5%90%8D%E5%88%9B%E4%BC%98%E5%93%81&t=31&band_rank=7&Refer=top)<br />
 8. [还有人吃玉米吐皮](https://s.weibo.com/weibo?q=%23%E8%BF%98%E6%9C%89%E4%BA%BA%E5%90%83%E7%8E%89%E7%B1%B3%E5%90%90%E7%9A%AE%23&t=31&band_rank=8&Refer=top)<br />
-9. [女子应聘小学行政跟岗10多天被辞退](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%BA%94%E8%81%98%E5%B0%8F%E5%AD%A6%E8%A1%8C%E6%94%BF%E8%B7%9F%E5%B2%9710%E5%A4%9A%E5%A4%A9%E8%A2%AB%E8%BE%9E%E9%80%80%23&t=31&band_rank=9&Refer=top)<br />
+9. [陈国豪当选状元](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%9B%BD%E8%B1%AA%E5%BD%93%E9%80%89%E7%8A%B6%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
