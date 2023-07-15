@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-15 21:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-15 21:41:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [一半魏大勋一半范丞丞](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%8D%8A%E9%AD%8F%E5%A4%A7%E5%8B%8B%E4%B8%80%E5%8D%8A%E8%8C%83%E4%B8%9E%E4%B8%9E%23&t=31&band_rank=6&Refer=top)<br />
 7. [赵磊 爱的消亡史不涉及对任何人的侵犯](https://s.weibo.com/weibo?q=%E8%B5%B5%E7%A3%8A%20%E7%88%B1%E7%9A%84%E6%B6%88%E4%BA%A1%E5%8F%B2%E4%B8%8D%E6%B6%89%E5%8F%8A%E5%AF%B9%E4%BB%BB%E4%BD%95%E4%BA%BA%E7%9A%84%E4%BE%B5%E7%8A%AF&t=31&band_rank=7&Refer=top)<br />
 8. [孟美岐认为自己没有火过](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E7%BE%8E%E5%B2%90%E8%AE%A4%E4%B8%BA%E8%87%AA%E5%B7%B1%E6%B2%A1%E6%9C%89%E7%81%AB%E8%BF%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [茉酸奶](https://s.weibo.com/weibo?q=%E8%8C%89%E9%85%B8%E5%A5%B6&t=31&band_rank=9&Refer=top)<br />
+9. [新娘回应0彩礼用52辆轮椅迎亲](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%A8%98%E5%9B%9E%E5%BA%940%E5%BD%A9%E7%A4%BC%E7%94%A852%E8%BE%86%E8%BD%AE%E6%A4%85%E8%BF%8E%E4%BA%B2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
