@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-15 09:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-15 09:06:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [9000元补贴能缓解独子养老焦虑吗](https://www.baidu.com/s?wd=9000%E5%85%83%E8%A1%A5%E8%B4%B4%E8%83%BD%E7%BC%93%E8%A7%A3%E7%8B%AC%E5%AD%90%E5%85%BB%E8%80%81%E7%84%A6%E8%99%91%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [警方回应学生疑被罚站中暑去世](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E7%96%91%E8%A2%AB%E7%BD%9A%E7%AB%99%E4%B8%AD%E6%9A%91%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [网民建议村超禁带液体入场 官方回应](https://www.baidu.com/s?wd=%E7%BD%91%E6%B0%91%E5%BB%BA%E8%AE%AE%E6%9D%91%E8%B6%85%E7%A6%81%E5%B8%A6%E6%B6%B2%E4%BD%93%E5%85%A5%E5%9C%BA+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [美称中国要成亚洲霸主 国防部回应](https://www.baidu.com/s?wd=%E7%BE%8E%E7%A7%B0%E4%B8%AD%E5%9B%BD%E8%A6%81%E6%88%90%E4%BA%9A%E6%B4%B2%E9%9C%B8%E4%B8%BB+%E5%9B%BD%E9%98%B2%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [关晓彤也演过《家有儿女》](https://www.baidu.com/s?wd=%E5%85%B3%E6%99%93%E5%BD%A4%E4%B9%9F%E6%BC%94%E8%BF%87%E3%80%8A%E5%AE%B6%E6%9C%89%E5%84%BF%E5%A5%B3%E3%80%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [多地医院推行一次挂号管三天](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%8C%BB%E9%99%A2%E6%8E%A8%E8%A1%8C%E4%B8%80%E6%AC%A1%E6%8C%82%E5%8F%B7%E7%AE%A1%E4%B8%89%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [美称中国要成亚洲霸主 国防部回应](https://www.baidu.com/s?wd=%E7%BE%8E%E7%A7%B0%E4%B8%AD%E5%9B%BD%E8%A6%81%E6%88%90%E4%BA%9A%E6%B4%B2%E9%9C%B8%E4%B8%BB+%E5%9B%BD%E9%98%B2%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [9000元补贴能缓解独子养老焦虑吗](https://www.baidu.com/s?wd=9000%E5%85%83%E8%A1%A5%E8%B4%B4%E8%83%BD%E7%BC%93%E8%A7%A3%E7%8B%AC%E5%AD%90%E5%85%BB%E8%80%81%E7%84%A6%E8%99%91%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [警方回应学生疑被罚站中暑去世](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E7%96%91%E8%A2%AB%E7%BD%9A%E7%AB%99%E4%B8%AD%E6%9A%91%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [网民建议村超禁带液体入场 官方回应](https://www.baidu.com/s?wd=%E7%BD%91%E6%B0%91%E5%BB%BA%E8%AE%AE%E6%9D%91%E8%B6%85%E7%A6%81%E5%B8%A6%E6%B6%B2%E4%BD%93%E5%85%A5%E5%9C%BA+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [美称中国要成亚洲霸主 国防部回应](https://www.baidu.com/s?wd=%E7%BE%8E%E7%A7%B0%E4%B8%AD%E5%9B%BD%E8%A6%81%E6%88%90%E4%BA%9A%E6%B4%B2%E9%9C%B8%E4%B8%BB+%E5%9B%BD%E9%98%B2%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [关晓彤也演过《家有儿女》](https://www.baidu.com/s?wd=%E5%85%B3%E6%99%93%E5%BD%A4%E4%B9%9F%E6%BC%94%E8%BF%87%E3%80%8A%E5%AE%B6%E6%9C%89%E5%84%BF%E5%A5%B3%E3%80%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [多地医院推行一次挂号管三天](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%8C%BB%E9%99%A2%E6%8E%A8%E8%A1%8C%E4%B8%80%E6%AC%A1%E6%8C%82%E5%8F%B7%E7%AE%A1%E4%B8%89%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [美称中国要成亚洲霸主 国防部回应](https://www.baidu.com/s?wd=%E7%BE%8E%E7%A7%B0%E4%B8%AD%E5%9B%BD%E8%A6%81%E6%88%90%E4%BA%9A%E6%B4%B2%E9%9C%B8%E4%B8%BB+%E5%9B%BD%E9%98%B2%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
