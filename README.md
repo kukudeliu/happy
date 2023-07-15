@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-15 20:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-15 20:47:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [女子买鲍师傅糕点吃出黑毛](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B9%B0%E9%B2%8D%E5%B8%88%E5%82%85%E7%B3%95%E7%82%B9%E5%90%83%E5%87%BA%E9%BB%91%E6%AF%9B%23&t=31&band_rank=6&Refer=top)<br />
 7. [魏大勋孟宴臣独爆](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E5%AD%9F%E5%AE%B4%E8%87%A3%E7%8B%AC%E7%88%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [奔跑吧后期回应](https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%E5%90%8E%E6%9C%9F%E5%9B%9E%E5%BA%94%23&t=31&band_rank=8&Refer=top)<br />
-9. [不雅信息事件单位称系因病毒入侵](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E9%9B%85%E4%BF%A1%E6%81%AF%E4%BA%8B%E4%BB%B6%E5%8D%95%E4%BD%8D%E7%A7%B0%E7%B3%BB%E5%9B%A0%E7%97%85%E6%AF%92%E5%85%A5%E4%BE%B5%23&t=31&band_rank=9&Refer=top)<br />
+9. [Minnie只说了三个字](https://s.weibo.com/weibo?q=%23Minnie%E5%8F%AA%E8%AF%B4%E4%BA%86%E4%B8%89%E4%B8%AA%E5%AD%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
