@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-15 11:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-15 11:13:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [官方回应女子吃凉皮中毒身亡](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E5%90%83%E5%87%89%E7%9A%AE%E4%B8%AD%E6%AF%92%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=4&Refer=top)<br />
 5. [李莎旻子居然写了20首歌](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%8E%8E%E6%97%BB%E5%AD%90%E5%B1%85%E7%84%B6%E5%86%99%E4%BA%8620%E9%A6%96%E6%AD%8C%23&t=31&band_rank=5&Refer=top)<br />
 6. [小说写245章却被盗版网站更新1369章](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E8%AF%B4%E5%86%99245%E7%AB%A0%E5%8D%B4%E8%A2%AB%E7%9B%97%E7%89%88%E7%BD%91%E7%AB%99%E6%9B%B4%E6%96%B01369%E7%AB%A0%23&t=31&band_rank=6&Refer=top)<br />
-7. [降温后淄博烧烤行业现状](https://s.weibo.com/weibo?q=%23%E9%99%8D%E6%B8%A9%E5%90%8E%E6%B7%84%E5%8D%9A%E7%83%A7%E7%83%A4%E8%A1%8C%E4%B8%9A%E7%8E%B0%E7%8A%B6%23&t=31&band_rank=7&Refer=top)<br />
-8. [陈国豪当选状元](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%9B%BD%E8%B1%AA%E5%BD%93%E9%80%89%E7%8A%B6%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [音银取消EXO粉丝录制资格](https://s.weibo.com/weibo?q=%23%E9%9F%B3%E9%93%B6%E5%8F%96%E6%B6%88EXO%E7%B2%89%E4%B8%9D%E5%BD%95%E5%88%B6%E8%B5%84%E6%A0%BC%23&t=31&band_rank=9&Refer=top)<br />
+7. [陈国豪当选状元](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%9B%BD%E8%B1%AA%E5%BD%93%E9%80%89%E7%8A%B6%E5%85%83%23&t=31&band_rank=7&Refer=top)<br />
+8. [降温后淄博烧烤行业现状](https://s.weibo.com/weibo?q=%23%E9%99%8D%E6%B8%A9%E5%90%8E%E6%B7%84%E5%8D%9A%E7%83%A7%E7%83%A4%E8%A1%8C%E4%B8%9A%E7%8E%B0%E7%8A%B6%23&t=31&band_rank=8&Refer=top)<br />
+9. [你会付费买喜欢的小说吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%BC%9A%E4%BB%98%E8%B4%B9%E4%B9%B0%E5%96%9C%E6%AC%A2%E7%9A%84%E5%B0%8F%E8%AF%B4%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
