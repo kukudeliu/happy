@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-15 22:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-15 22:18:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [杨洋追杨迪摔了一跤](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B4%8B%E8%BF%BD%E6%9D%A8%E8%BF%AA%E6%91%94%E4%BA%86%E4%B8%80%E8%B7%A4%23&t=31&band_rank=5&Refer=top)<br />
 6. [新娘回应0彩礼用52辆轮椅迎亲](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%A8%98%E5%9B%9E%E5%BA%940%E5%BD%A9%E7%A4%BC%E7%94%A852%E8%BE%86%E8%BD%AE%E6%A4%85%E8%BF%8E%E4%BA%B2%23&t=31&band_rank=6&Refer=top)<br />
 7. [将门嫡女](https://s.weibo.com/weibo?q=%23%E5%B0%86%E9%97%A8%E5%AB%A1%E5%A5%B3%23&t=31&band_rank=7&Refer=top)<br />
-8. [赵磊 爱的消亡史不涉及对任何人的侵犯](https://s.weibo.com/weibo?q=%E8%B5%B5%E7%A3%8A%20%E7%88%B1%E7%9A%84%E6%B6%88%E4%BA%A1%E5%8F%B2%E4%B8%8D%E6%B6%89%E5%8F%8A%E5%AF%B9%E4%BB%BB%E4%BD%95%E4%BA%BA%E7%9A%84%E4%BE%B5%E7%8A%AF&t=31&band_rank=8&Refer=top)<br />
-9. [女子买鲍师傅糕点吃出黑毛](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B9%B0%E9%B2%8D%E5%B8%88%E5%82%85%E7%B3%95%E7%82%B9%E5%90%83%E5%87%BA%E9%BB%91%E6%AF%9B%23&t=31&band_rank=9&Refer=top)<br />
+8. [学生被罚站中暑去世实为吃早餐晕倒](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E8%A2%AB%E7%BD%9A%E7%AB%99%E4%B8%AD%E6%9A%91%E5%8E%BB%E4%B8%96%E5%AE%9E%E4%B8%BA%E5%90%83%E6%97%A9%E9%A4%90%E6%99%95%E5%80%92%23&t=31&band_rank=8&Refer=top)<br />
+9. [赵磊 爱的消亡史不涉及对任何人的侵犯](https://s.weibo.com/weibo?q=%E8%B5%B5%E7%A3%8A%20%E7%88%B1%E7%9A%84%E6%B6%88%E4%BA%A1%E5%8F%B2%E4%B8%8D%E6%B6%89%E5%8F%8A%E5%AF%B9%E4%BB%BB%E4%BD%95%E4%BA%BA%E7%9A%84%E4%BE%B5%E7%8A%AF&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,8 +22,8 @@
 3. [疯狂的三伏贴：有医院接诊超万人](https://www.baidu.com/s?wd=%E7%96%AF%E7%8B%82%E7%9A%84%E4%B8%89%E4%BC%8F%E8%B4%B4%EF%BC%9A%E6%9C%89%E5%8C%BB%E9%99%A2%E6%8E%A5%E8%AF%8A%E8%B6%85%E4%B8%87%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国载人登月都有哪些新装备？](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%BD%BD%E4%BA%BA%E7%99%BB%E6%9C%88%E9%83%BD%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E8%A3%85%E5%A4%87%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [副行长收入仅几百 拟外出打工被开除](https://www.baidu.com/s?wd=%E5%89%AF%E8%A1%8C%E9%95%BF%E6%94%B6%E5%85%A5%E4%BB%85%E5%87%A0%E7%99%BE+%E6%8B%9F%E5%A4%96%E5%87%BA%E6%89%93%E5%B7%A5%E8%A2%AB%E5%BC%80%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [猫冠状病毒蔓延“猫岛”致死率近90%](https://www.baidu.com/s?wd=%E7%8C%AB%E5%86%A0%E7%8A%B6%E7%97%85%E6%AF%92%E8%94%93%E5%BB%B6%E2%80%9C%E7%8C%AB%E5%B2%9B%E2%80%9D%E8%87%B4%E6%AD%BB%E7%8E%87%E8%BF%9190%25&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [#蔡徐坤风波后开演唱会引争议#](https://www.baidu.com/s?wd=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E9%A3%8E%E6%B3%A2%E5%90%8E%E5%BC%80%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BC%95%E4%BA%89%E8%AE%AE%23&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [#蔡徐坤风波后开演唱会引争议#](https://www.baidu.com/s?wd=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E9%A3%8E%E6%B3%A2%E5%90%8E%E5%BC%80%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BC%95%E4%BA%89%E8%AE%AE%23&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [猫冠状病毒蔓延“猫岛”致死率近90%](https://www.baidu.com/s?wd=%E7%8C%AB%E5%86%A0%E7%8A%B6%E7%97%85%E6%AF%92%E8%94%93%E5%BB%B6%E2%80%9C%E7%8C%AB%E5%B2%9B%E2%80%9D%E8%87%B4%E6%AD%BB%E7%8E%87%E8%BF%9190%25&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [“厌童症”厌的到底是什么？](https://www.baidu.com/s?wd=%E2%80%9C%E5%8E%8C%E7%AB%A5%E7%97%87%E2%80%9D%E5%8E%8C%E7%9A%84%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [降温后淄博烧烤行业现状](https://www.baidu.com/s?wd=%E9%99%8D%E6%B8%A9%E5%90%8E%E6%B7%84%E5%8D%9A%E7%83%A7%E7%83%A4%E8%A1%8C%E4%B8%9A%E7%8E%B0%E7%8A%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -34,7 +34,7 @@
 3. [疯狂的三伏贴：有医院接诊超万人](https://www.baidu.com/s?wd=%E7%96%AF%E7%8B%82%E7%9A%84%E4%B8%89%E4%BC%8F%E8%B4%B4%EF%BC%9A%E6%9C%89%E5%8C%BB%E9%99%A2%E6%8E%A5%E8%AF%8A%E8%B6%85%E4%B8%87%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国载人登月都有哪些新装备？](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%BD%BD%E4%BA%BA%E7%99%BB%E6%9C%88%E9%83%BD%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E8%A3%85%E5%A4%87%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [副行长收入仅几百 拟外出打工被开除](https://www.baidu.com/s?wd=%E5%89%AF%E8%A1%8C%E9%95%BF%E6%94%B6%E5%85%A5%E4%BB%85%E5%87%A0%E7%99%BE+%E6%8B%9F%E5%A4%96%E5%87%BA%E6%89%93%E5%B7%A5%E8%A2%AB%E5%BC%80%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [猫冠状病毒蔓延“猫岛”致死率近90%](https://www.baidu.com/s?wd=%E7%8C%AB%E5%86%A0%E7%8A%B6%E7%97%85%E6%AF%92%E8%94%93%E5%BB%B6%E2%80%9C%E7%8C%AB%E5%B2%9B%E2%80%9D%E8%87%B4%E6%AD%BB%E7%8E%87%E8%BF%9190%25&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [#蔡徐坤风波后开演唱会引争议#](https://www.baidu.com/s?wd=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E9%A3%8E%E6%B3%A2%E5%90%8E%E5%BC%80%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BC%95%E4%BA%89%E8%AE%AE%23&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [#蔡徐坤风波后开演唱会引争议#](https://www.baidu.com/s?wd=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E9%A3%8E%E6%B3%A2%E5%90%8E%E5%BC%80%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BC%95%E4%BA%89%E8%AE%AE%23&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [猫冠状病毒蔓延“猫岛”致死率近90%](https://www.baidu.com/s?wd=%E7%8C%AB%E5%86%A0%E7%8A%B6%E7%97%85%E6%AF%92%E8%94%93%E5%BB%B6%E2%80%9C%E7%8C%AB%E5%B2%9B%E2%80%9D%E8%87%B4%E6%AD%BB%E7%8E%87%E8%BF%9190%25&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [“厌童症”厌的到底是什么？](https://www.baidu.com/s?wd=%E2%80%9C%E5%8E%8C%E7%AB%A5%E7%97%87%E2%80%9D%E5%8E%8C%E7%9A%84%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [降温后淄博烧烤行业现状](https://www.baidu.com/s?wd=%E9%99%8D%E6%B8%A9%E5%90%8E%E6%B7%84%E5%8D%9A%E7%83%A7%E7%83%A4%E8%A1%8C%E4%B8%9A%E7%8E%B0%E7%8A%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
