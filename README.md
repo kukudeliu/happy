@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-15 22:58:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-15 22:59:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [猫冠状病毒蔓延“猫岛”致死率近90%](https://www.baidu.com/s?wd=%E7%8C%AB%E5%86%A0%E7%8A%B6%E7%97%85%E6%AF%92%E8%94%93%E5%BB%B6%E2%80%9C%E7%8C%AB%E5%B2%9B%E2%80%9D%E8%87%B4%E6%AD%BB%E7%8E%87%E8%BF%9190%25&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [何炅谢娜哭着拥抱](https://www.baidu.com/s?wd=%E4%BD%95%E7%82%85%E8%B0%A2%E5%A8%9C%E5%93%AD%E7%9D%80%E6%8B%A5%E6%8A%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [“厌童症”厌的到底是什么？](https://www.baidu.com/s?wd=%E2%80%9C%E5%8E%8C%E7%AB%A5%E7%97%87%E2%80%9D%E5%8E%8C%E7%9A%84%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [宜家回应上海城市店关停](https://www.baidu.com/s?wd=%E5%AE%9C%E5%AE%B6%E5%9B%9E%E5%BA%94%E4%B8%8A%E6%B5%B7%E5%9F%8E%E5%B8%82%E5%BA%97%E5%85%B3%E5%81%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [网友买半个西瓜果切拼完没有心](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E4%B9%B0%E5%8D%8A%E4%B8%AA%E8%A5%BF%E7%93%9C%E6%9E%9C%E5%88%87%E6%8B%BC%E5%AE%8C%E6%B2%A1%E6%9C%89%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [猫冠状病毒蔓延“猫岛”致死率近90%](https://www.baidu.com/s?wd=%E7%8C%AB%E5%86%A0%E7%8A%B6%E7%97%85%E6%AF%92%E8%94%93%E5%BB%B6%E2%80%9C%E7%8C%AB%E5%B2%9B%E2%80%9D%E8%87%B4%E6%AD%BB%E7%8E%87%E8%BF%9190%25&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [何炅谢娜哭着拥抱](https://www.baidu.com/s?wd=%E4%BD%95%E7%82%85%E8%B0%A2%E5%A8%9C%E5%93%AD%E7%9D%80%E6%8B%A5%E6%8A%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [“厌童症”厌的到底是什么？](https://www.baidu.com/s?wd=%E2%80%9C%E5%8E%8C%E7%AB%A5%E7%97%87%E2%80%9D%E5%8E%8C%E7%9A%84%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [宜家回应上海城市店关停](https://www.baidu.com/s?wd=%E5%AE%9C%E5%AE%B6%E5%9B%9E%E5%BA%94%E4%B8%8A%E6%B5%B7%E5%9F%8E%E5%B8%82%E5%BA%97%E5%85%B3%E5%81%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [网友买半个西瓜果切拼完没有心](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E4%B9%B0%E5%8D%8A%E4%B8%AA%E8%A5%BF%E7%93%9C%E6%9E%9C%E5%88%87%E6%8B%BC%E5%AE%8C%E6%B2%A1%E6%9C%89%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
