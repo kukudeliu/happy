@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-16 04:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-16 04:45:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [何炅谢娜哭着拥抱](https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%E8%B0%A2%E5%A8%9C%E5%93%AD%E7%9D%80%E6%8B%A5%E6%8A%B1%23&t=31&band_rank=6&Refer=top)<br />
 7. [茉酸奶回应被改名](https://s.weibo.com/weibo?q=%23%E8%8C%89%E9%85%B8%E5%A5%B6%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%94%B9%E5%90%8D%23&t=31&band_rank=7&Refer=top)<br />
 8. [抓知了卖260元一斤10天赚万元](https://s.weibo.com/weibo?q=%23%E6%8A%93%E7%9F%A5%E4%BA%86%E5%8D%96260%E5%85%83%E4%B8%80%E6%96%A410%E5%A4%A9%E8%B5%9A%E4%B8%87%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [孟美岐认为自己没有火过](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E7%BE%8E%E5%B2%90%E8%AE%A4%E4%B8%BA%E8%87%AA%E5%B7%B1%E6%B2%A1%E6%9C%89%E7%81%AB%E8%BF%87%23&t=31&band_rank=9&Refer=top)<br />
+9. [学生被罚站中暑去世实为吃早餐晕倒](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E8%A2%AB%E7%BD%9A%E7%AB%99%E4%B8%AD%E6%9A%91%E5%8E%BB%E4%B8%96%E5%AE%9E%E4%B8%BA%E5%90%83%E6%97%A9%E9%A4%90%E6%99%95%E5%80%92%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
