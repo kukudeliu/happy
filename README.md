@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-16 02:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-16 02:38:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [学生被罚站中暑去世？警方：不实](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E8%A2%AB%E7%BD%9A%E7%AB%99%E4%B8%AD%E6%9A%91%E5%8E%BB%E4%B8%96%EF%BC%9F%E8%AD%A6%E6%96%B9%EF%BC%9A%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [Jennie称舞台没有划水](https://www.baidu.com/s?wd=Jennie%E7%A7%B0%E8%88%9E%E5%8F%B0%E6%B2%A1%E6%9C%89%E5%88%92%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [暑假孙辈22人回老家 一天吃25斤米](https://www.baidu.com/s?wd=%E6%9A%91%E5%81%87%E5%AD%99%E8%BE%8822%E4%BA%BA%E5%9B%9E%E8%80%81%E5%AE%B6+%E4%B8%80%E5%A4%A9%E5%90%8325%E6%96%A4%E7%B1%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [何炅谢娜哭着拥抱](https://www.baidu.com/s?wd=%E4%BD%95%E7%82%85%E8%B0%A2%E5%A8%9C%E5%93%AD%E7%9D%80%E6%8B%A5%E6%8A%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [网友买半个西瓜果切拼完没有心](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E4%B9%B0%E5%8D%8A%E4%B8%AA%E8%A5%BF%E7%93%9C%E6%9E%9C%E5%88%87%E6%8B%BC%E5%AE%8C%E6%B2%A1%E6%9C%89%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [学生被罚站中暑去世？警方：不实](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E8%A2%AB%E7%BD%9A%E7%AB%99%E4%B8%AD%E6%9A%91%E5%8E%BB%E4%B8%96%EF%BC%9F%E8%AD%A6%E6%96%B9%EF%BC%9A%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [Jennie称舞台没有划水](https://www.baidu.com/s?wd=Jennie%E7%A7%B0%E8%88%9E%E5%8F%B0%E6%B2%A1%E6%9C%89%E5%88%92%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [暑假孙辈22人回老家 一天吃25斤米](https://www.baidu.com/s?wd=%E6%9A%91%E5%81%87%E5%AD%99%E8%BE%8822%E4%BA%BA%E5%9B%9E%E8%80%81%E5%AE%B6+%E4%B8%80%E5%A4%A9%E5%90%8325%E6%96%A4%E7%B1%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [何炅谢娜哭着拥抱](https://www.baidu.com/s?wd=%E4%BD%95%E7%82%85%E8%B0%A2%E5%A8%9C%E5%93%AD%E7%9D%80%E6%8B%A5%E6%8A%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [网友买半个西瓜果切拼完没有心](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E4%B9%B0%E5%8D%8A%E4%B8%AA%E8%A5%BF%E7%93%9C%E6%9E%9C%E5%88%87%E6%8B%BC%E5%AE%8C%E6%B2%A1%E6%9C%89%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
