@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-16 06:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-16 06:40:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [杨洋王楚然手贴手戳酒窝](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B4%8B%E7%8E%8B%E6%A5%9A%E7%84%B6%E6%89%8B%E8%B4%B4%E6%89%8B%E6%88%B3%E9%85%92%E7%AA%9D%23&t=31&band_rank=6&Refer=top)<br />
 7. [学生被罚站中暑去世实为吃早餐晕倒](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E8%A2%AB%E7%BD%9A%E7%AB%99%E4%B8%AD%E6%9A%91%E5%8E%BB%E4%B8%96%E5%AE%9E%E4%B8%BA%E5%90%83%E6%97%A9%E9%A4%90%E6%99%95%E5%80%92%23&t=31&band_rank=7&Refer=top)<br />
 8. [孟宴臣录完开场舞就走了](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AE%B4%E8%87%A3%E5%BD%95%E5%AE%8C%E5%BC%80%E5%9C%BA%E8%88%9E%E5%B0%B1%E8%B5%B0%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [新娘回应0彩礼用52辆轮椅迎亲](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%A8%98%E5%9B%9E%E5%BA%940%E5%BD%A9%E7%A4%BC%E7%94%A852%E8%BE%86%E8%BD%AE%E6%A4%85%E8%BF%8E%E4%BA%B2%23&t=31&band_rank=9&Refer=top)<br />
+9. [小鸟站荷花上屁帘还一动一动的](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%B8%9F%E7%AB%99%E8%8D%B7%E8%8A%B1%E4%B8%8A%E5%B1%81%E5%B8%98%E8%BF%98%E4%B8%80%E5%8A%A8%E4%B8%80%E5%8A%A8%E7%9A%84%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
