@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-15 17:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-15 17:56:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [中国式现代化县域实践大调研](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%E5%8E%BF%E5%9F%9F%E5%AE%9E%E8%B7%B5%E5%A4%A7%E8%B0%83%E7%A0%94%23&t=31&band_rank=3&Refer=top)<br />
 4. [奔跑吧后期回应](https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%E5%90%8E%E6%9C%9F%E5%9B%9E%E5%BA%94%23&t=31&band_rank=4&Refer=top)<br />
 5. [父亲想让被救女儿认邻居干爸](https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E6%83%B3%E8%AE%A9%E8%A2%AB%E6%95%91%E5%A5%B3%E5%84%BF%E8%AE%A4%E9%82%BB%E5%B1%85%E5%B9%B2%E7%88%B8%23&t=31&band_rank=5&Refer=top)<br />
-6. [暑假影视综已经有三爆了](https://s.weibo.com/weibo?q=%23%E6%9A%91%E5%81%87%E5%BD%B1%E8%A7%86%E7%BB%BC%E5%B7%B2%E7%BB%8F%E6%9C%89%E4%B8%89%E7%88%86%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [开始担心TFBOYS演唱会门票了](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%A7%8B%E6%8B%85%E5%BF%83TFBOYS%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+6. [开始担心TFBOYS演唱会门票了](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%A7%8B%E6%8B%85%E5%BF%83TFBOYS%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
+7. [暑假影视综已经有三爆了](https://s.weibo.com/weibo?q=%23%E6%9A%91%E5%81%87%E5%BD%B1%E8%A7%86%E7%BB%BC%E5%B7%B2%E7%BB%8F%E6%9C%89%E4%B8%89%E7%88%86%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [工作室能不能给肖战P真点](https://s.weibo.com/weibo?q=%23%E5%B7%A5%E4%BD%9C%E5%AE%A4%E8%83%BD%E4%B8%8D%E8%83%BD%E7%BB%99%E8%82%96%E6%88%98P%E7%9C%9F%E7%82%B9%23&t=31&band_rank=8&Refer=top)<br />
 9. [老人买门票回自己家忍不住落泪](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E4%B9%B0%E9%97%A8%E7%A5%A8%E5%9B%9E%E8%87%AA%E5%B7%B1%E5%AE%B6%E5%BF%8D%E4%B8%8D%E4%BD%8F%E8%90%BD%E6%B3%AA%23&t=31&band_rank=9&Refer=top)<br />
 
