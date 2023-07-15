@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-15 21:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-15 21:44:02</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [副行长收入仅几百 拟外出打工被开除](https://www.baidu.com/s?wd=%E5%89%AF%E8%A1%8C%E9%95%BF%E6%94%B6%E5%85%A5%E4%BB%85%E5%87%A0%E7%99%BE+%E6%8B%9F%E5%A4%96%E5%87%BA%E6%89%93%E5%B7%A5%E8%A2%AB%E5%BC%80%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [#蔡徐坤风波后开演唱会引争议#](https://www.baidu.com/s?wd=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E9%A3%8E%E6%B3%A2%E5%90%8E%E5%BC%80%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BC%95%E4%BA%89%E8%AE%AE%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [“厌童症”厌的到底是什么？](https://www.baidu.com/s?wd=%E2%80%9C%E5%8E%8C%E7%AB%A5%E7%97%87%E2%80%9D%E5%8E%8C%E7%9A%84%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [猫冠状病毒蔓延“猫岛”致死率近90%](https://www.baidu.com/s?wd=%E7%8C%AB%E5%86%A0%E7%8A%B6%E7%97%85%E6%AF%92%E8%94%93%E5%BB%B6%E2%80%9C%E7%8C%AB%E5%B2%9B%E2%80%9D%E8%87%B4%E6%AD%BB%E7%8E%87%E8%BF%9190%25&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [46岁“中国蛙王”跳河救起落水者](https://www.baidu.com/s?wd=46%E5%B2%81%E2%80%9C%E4%B8%AD%E5%9B%BD%E8%9B%99%E7%8E%8B%E2%80%9D%E8%B7%B3%E6%B2%B3%E6%95%91%E8%B5%B7%E8%90%BD%E6%B0%B4%E8%80%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [法国高规格接待莫迪挨批](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E9%AB%98%E8%A7%84%E6%A0%BC%E6%8E%A5%E5%BE%85%E8%8E%AB%E8%BF%AA%E6%8C%A8%E6%89%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [猫冠状病毒蔓延“猫岛”致死率近90%](https://www.baidu.com/s?wd=%E7%8C%AB%E5%86%A0%E7%8A%B6%E7%97%85%E6%AF%92%E8%94%93%E5%BB%B6%E2%80%9C%E7%8C%AB%E5%B2%9B%E2%80%9D%E8%87%B4%E6%AD%BB%E7%8E%87%E8%BF%9190%25&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [副行长收入仅几百 拟外出打工被开除](https://www.baidu.com/s?wd=%E5%89%AF%E8%A1%8C%E9%95%BF%E6%94%B6%E5%85%A5%E4%BB%85%E5%87%A0%E7%99%BE+%E6%8B%9F%E5%A4%96%E5%87%BA%E6%89%93%E5%B7%A5%E8%A2%AB%E5%BC%80%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [#蔡徐坤风波后开演唱会引争议#](https://www.baidu.com/s?wd=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E9%A3%8E%E6%B3%A2%E5%90%8E%E5%BC%80%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BC%95%E4%BA%89%E8%AE%AE%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [“厌童症”厌的到底是什么？](https://www.baidu.com/s?wd=%E2%80%9C%E5%8E%8C%E7%AB%A5%E7%97%87%E2%80%9D%E5%8E%8C%E7%9A%84%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [猫冠状病毒蔓延“猫岛”致死率近90%](https://www.baidu.com/s?wd=%E7%8C%AB%E5%86%A0%E7%8A%B6%E7%97%85%E6%AF%92%E8%94%93%E5%BB%B6%E2%80%9C%E7%8C%AB%E5%B2%9B%E2%80%9D%E8%87%B4%E6%AD%BB%E7%8E%87%E8%BF%9190%25&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [46岁“中国蛙王”跳河救起落水者](https://www.baidu.com/s?wd=46%E5%B2%81%E2%80%9C%E4%B8%AD%E5%9B%BD%E8%9B%99%E7%8E%8B%E2%80%9D%E8%B7%B3%E6%B2%B3%E6%95%91%E8%B5%B7%E8%90%BD%E6%B0%B4%E8%80%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [法国高规格接待莫迪挨批](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E9%AB%98%E8%A7%84%E6%A0%BC%E6%8E%A5%E5%BE%85%E8%8E%AB%E8%BF%AA%E6%8C%A8%E6%89%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [猫冠状病毒蔓延“猫岛”致死率近90%](https://www.baidu.com/s?wd=%E7%8C%AB%E5%86%A0%E7%8A%B6%E7%97%85%E6%AF%92%E8%94%93%E5%BB%B6%E2%80%9C%E7%8C%AB%E5%B2%9B%E2%80%9D%E8%87%B4%E6%AD%BB%E7%8E%87%E8%BF%9190%25&sa=fyb_news&rsv_dl=fyb_news)<br />
