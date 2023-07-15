@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-15 22:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-15 22:54:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [杨洋追杨迪摔了一跤](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B4%8B%E8%BF%BD%E6%9D%A8%E8%BF%AA%E6%91%94%E4%BA%86%E4%B8%80%E8%B7%A4%23&t=31&band_rank=6&Refer=top)<br />
 7. [鹿晗说芦苇天下第一好](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E8%AF%B4%E8%8A%A6%E8%8B%87%E5%A4%A9%E4%B8%8B%E7%AC%AC%E4%B8%80%E5%A5%BD%23&t=31&band_rank=7&Refer=top)<br />
 8. [学生被罚站中暑去世实为吃早餐晕倒](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E8%A2%AB%E7%BD%9A%E7%AB%99%E4%B8%AD%E6%9A%91%E5%8E%BB%E4%B8%96%E5%AE%9E%E4%B8%BA%E5%90%83%E6%97%A9%E9%A4%90%E6%99%95%E5%80%92%23&t=31&band_rank=8&Refer=top)<br />
-9. [重庆茉莉冰豆浆](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E8%8C%89%E8%8E%89%E5%86%B0%E8%B1%86%E6%B5%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [张拿铁 汉语英语全废了](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%8B%BF%E9%93%81%20%E6%B1%89%E8%AF%AD%E8%8B%B1%E8%AF%AD%E5%85%A8%E5%BA%9F%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,8 +24,8 @@
 5. [副行长收入仅几百 拟外出打工被开除](https://www.baidu.com/s?wd=%E5%89%AF%E8%A1%8C%E9%95%BF%E6%94%B6%E5%85%A5%E4%BB%85%E5%87%A0%E7%99%BE+%E6%8B%9F%E5%A4%96%E5%87%BA%E6%89%93%E5%B7%A5%E8%A2%AB%E5%BC%80%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [猫冠状病毒蔓延“猫岛”致死率近90%](https://www.baidu.com/s?wd=%E7%8C%AB%E5%86%A0%E7%8A%B6%E7%97%85%E6%AF%92%E8%94%93%E5%BB%B6%E2%80%9C%E7%8C%AB%E5%B2%9B%E2%80%9D%E8%87%B4%E6%AD%BB%E7%8E%87%E8%BF%9190%25&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [“厌童症”厌的到底是什么？](https://www.baidu.com/s?wd=%E2%80%9C%E5%8E%8C%E7%AB%A5%E7%97%87%E2%80%9D%E5%8E%8C%E7%9A%84%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [#蔡徐坤风波后开演唱会引争议#](https://www.baidu.com/s?wd=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E9%A3%8E%E6%B3%A2%E5%90%8E%E5%BC%80%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BC%95%E4%BA%89%E8%AE%AE%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [学生被罚站中暑去世？警方：不实](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E8%A2%AB%E7%BD%9A%E7%AB%99%E4%B8%AD%E6%9A%91%E5%8E%BB%E4%B8%96%EF%BC%9F%E8%AD%A6%E6%96%B9%EF%BC%9A%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [宜家回应上海城市店关停](https://www.baidu.com/s?wd=%E5%AE%9C%E5%AE%B6%E5%9B%9E%E5%BA%94%E4%B8%8A%E6%B5%B7%E5%9F%8E%E5%B8%82%E5%BA%97%E5%85%B3%E5%81%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [#蔡徐坤风波后开演唱会引争议#](https://www.baidu.com/s?wd=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E9%A3%8E%E6%B3%A2%E5%90%8E%E5%BC%80%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BC%95%E4%BA%89%E8%AE%AE%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [副行长收入仅几百 拟外出打工被开除](https://www.baidu.com/s?wd=%E5%89%AF%E8%A1%8C%E9%95%BF%E6%94%B6%E5%85%A5%E4%BB%85%E5%87%A0%E7%99%BE+%E6%8B%9F%E5%A4%96%E5%87%BA%E6%89%93%E5%B7%A5%E8%A2%AB%E5%BC%80%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [猫冠状病毒蔓延“猫岛”致死率近90%](https://www.baidu.com/s?wd=%E7%8C%AB%E5%86%A0%E7%8A%B6%E7%97%85%E6%AF%92%E8%94%93%E5%BB%B6%E2%80%9C%E7%8C%AB%E5%B2%9B%E2%80%9D%E8%87%B4%E6%AD%BB%E7%8E%87%E8%BF%9190%25&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [“厌童症”厌的到底是什么？](https://www.baidu.com/s?wd=%E2%80%9C%E5%8E%8C%E7%AB%A5%E7%97%87%E2%80%9D%E5%8E%8C%E7%9A%84%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [#蔡徐坤风波后开演唱会引争议#](https://www.baidu.com/s?wd=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E9%A3%8E%E6%B3%A2%E5%90%8E%E5%BC%80%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BC%95%E4%BA%89%E8%AE%AE%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [学生被罚站中暑去世？警方：不实](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E8%A2%AB%E7%BD%9A%E7%AB%99%E4%B8%AD%E6%9A%91%E5%8E%BB%E4%B8%96%EF%BC%9F%E8%AD%A6%E6%96%B9%EF%BC%9A%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [宜家回应上海城市店关停](https://www.baidu.com/s?wd=%E5%AE%9C%E5%AE%B6%E5%9B%9E%E5%BA%94%E4%B8%8A%E6%B5%B7%E5%9F%8E%E5%B8%82%E5%BA%97%E5%85%B3%E5%81%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [#蔡徐坤风波后开演唱会引争议#](https://www.baidu.com/s?wd=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E9%A3%8E%E6%B3%A2%E5%90%8E%E5%BC%80%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BC%95%E4%BA%89%E8%AE%AE%23&sa=fyb_news&rsv_dl=fyb_news)<br />
