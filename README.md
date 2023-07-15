@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-15 17:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-15 17:58:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [开始担心TFBOYS演唱会门票了](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%A7%8B%E6%8B%85%E5%BF%83TFBOYS%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [暑假影视综已经有三爆了](https://s.weibo.com/weibo?q=%23%E6%9A%91%E5%81%87%E5%BD%B1%E8%A7%86%E7%BB%BC%E5%B7%B2%E7%BB%8F%E6%9C%89%E4%B8%89%E7%88%86%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [工作室能不能给肖战P真点](https://s.weibo.com/weibo?q=%23%E5%B7%A5%E4%BD%9C%E5%AE%A4%E8%83%BD%E4%B8%8D%E8%83%BD%E7%BB%99%E8%82%96%E6%88%98P%E7%9C%9F%E7%82%B9%23&t=31&band_rank=8&Refer=top)<br />
-9. [老人买门票回自己家忍不住落泪](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E4%B9%B0%E9%97%A8%E7%A5%A8%E5%9B%9E%E8%87%AA%E5%B7%B1%E5%AE%B6%E5%BF%8D%E4%B8%8D%E4%BD%8F%E8%90%BD%E6%B3%AA%23&t=31&band_rank=9&Refer=top)<br />
+9. [村庄靠养知了猴年入超400万元](https://s.weibo.com/weibo?q=%23%E6%9D%91%E5%BA%84%E9%9D%A0%E5%85%BB%E7%9F%A5%E4%BA%86%E7%8C%B4%E5%B9%B4%E5%85%A5%E8%B6%85400%E4%B8%87%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
