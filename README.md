@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-15 23:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-15 23:09:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [猫冠状病毒蔓延“猫岛”致死率近90%](https://www.baidu.com/s?wd=%E7%8C%AB%E5%86%A0%E7%8A%B6%E7%97%85%E6%AF%92%E8%94%93%E5%BB%B6%E2%80%9C%E7%8C%AB%E5%B2%9B%E2%80%9D%E8%87%B4%E6%AD%BB%E7%8E%87%E8%BF%9190%25&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [何炅谢娜哭着拥抱](https://www.baidu.com/s?wd=%E4%BD%95%E7%82%85%E8%B0%A2%E5%A8%9C%E5%93%AD%E7%9D%80%E6%8B%A5%E6%8A%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [“厌童症”厌的到底是什么？](https://www.baidu.com/s?wd=%E2%80%9C%E5%8E%8C%E7%AB%A5%E7%97%87%E2%80%9D%E5%8E%8C%E7%9A%84%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [大陆师生访台团首站到访台积电](https://www.baidu.com/s?wd=%E5%A4%A7%E9%99%86%E5%B8%88%E7%94%9F%E8%AE%BF%E5%8F%B0%E5%9B%A2%E9%A6%96%E7%AB%99%E5%88%B0%E8%AE%BF%E5%8F%B0%E7%A7%AF%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [冰岛火山喷发 游客争睹熔岩奇景](https://www.baidu.com/s?wd=%E5%86%B0%E5%B2%9B%E7%81%AB%E5%B1%B1%E5%96%B7%E5%8F%91+%E6%B8%B8%E5%AE%A2%E4%BA%89%E7%9D%B9%E7%86%94%E5%B2%A9%E5%A5%87%E6%99%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [猫冠状病毒蔓延“猫岛”致死率近90%](https://www.baidu.com/s?wd=%E7%8C%AB%E5%86%A0%E7%8A%B6%E7%97%85%E6%AF%92%E8%94%93%E5%BB%B6%E2%80%9C%E7%8C%AB%E5%B2%9B%E2%80%9D%E8%87%B4%E6%AD%BB%E7%8E%87%E8%BF%9190%25&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [何炅谢娜哭着拥抱](https://www.baidu.com/s?wd=%E4%BD%95%E7%82%85%E8%B0%A2%E5%A8%9C%E5%93%AD%E7%9D%80%E6%8B%A5%E6%8A%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [“厌童症”厌的到底是什么？](https://www.baidu.com/s?wd=%E2%80%9C%E5%8E%8C%E7%AB%A5%E7%97%87%E2%80%9D%E5%8E%8C%E7%9A%84%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [大陆师生访台团首站到访台积电](https://www.baidu.com/s?wd=%E5%A4%A7%E9%99%86%E5%B8%88%E7%94%9F%E8%AE%BF%E5%8F%B0%E5%9B%A2%E9%A6%96%E7%AB%99%E5%88%B0%E8%AE%BF%E5%8F%B0%E7%A7%AF%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [冰岛火山喷发 游客争睹熔岩奇景](https://www.baidu.com/s?wd=%E5%86%B0%E5%B2%9B%E7%81%AB%E5%B1%B1%E5%96%B7%E5%8F%91+%E6%B8%B8%E5%AE%A2%E4%BA%89%E7%9D%B9%E7%86%94%E5%B2%A9%E5%A5%87%E6%99%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
