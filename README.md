@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-16 01:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-16 01:13:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [茉酸奶回应被改名](https://s.weibo.com/weibo?q=%23%E8%8C%89%E9%85%B8%E5%A5%B6%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%94%B9%E5%90%8D%23&t=31&band_rank=5&Refer=top)<br />
 6. [抓知了卖260元一斤10天赚万元](https://s.weibo.com/weibo?q=%23%E6%8A%93%E7%9F%A5%E4%BA%86%E5%8D%96260%E5%85%83%E4%B8%80%E6%96%A410%E5%A4%A9%E8%B5%9A%E4%B8%87%E5%85%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [孟宴臣录完开场舞就走了](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AE%B4%E8%87%A3%E5%BD%95%E5%AE%8C%E5%BC%80%E5%9C%BA%E8%88%9E%E5%B0%B1%E8%B5%B0%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [宋轶为什么这么有底气](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%BD%B6%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%99%E4%B9%88%E6%9C%89%E5%BA%95%E6%B0%94%23&t=31&band_rank=8&Refer=top)<br />
+8. [魏大勋曾想帮尼坤澄清争议](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E6%9B%BE%E6%83%B3%E5%B8%AE%E5%B0%BC%E5%9D%A4%E6%BE%84%E6%B8%85%E4%BA%89%E8%AE%AE%23&t=31&band_rank=8&Refer=top)<br />
 9. [学生被罚站中暑去世实为吃早餐晕倒](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E8%A2%AB%E7%BD%9A%E7%AB%99%E4%B8%AD%E6%9A%91%E5%8E%BB%E4%B8%96%E5%AE%9E%E4%B8%BA%E5%90%83%E6%97%A9%E9%A4%90%E6%99%95%E5%80%92%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
