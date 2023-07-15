@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-15 08:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-15 08:53:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [河南一地禁售凉皮 疑有人中毒身亡](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E5%9C%B0%E7%A6%81%E5%94%AE%E5%87%89%E7%9A%AE+%E7%96%91%E6%9C%89%E4%BA%BA%E4%B8%AD%E6%AF%92%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [警方回应学生疑被罚站中暑去世](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E7%96%91%E8%A2%AB%E7%BD%9A%E7%AB%99%E4%B8%AD%E6%9A%91%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [台媒曝大陆高校师生访台行程](https://www.baidu.com/s?wd=%E5%8F%B0%E5%AA%92%E6%9B%9D%E5%A4%A7%E9%99%86%E9%AB%98%E6%A0%A1%E5%B8%88%E7%94%9F%E8%AE%BF%E5%8F%B0%E8%A1%8C%E7%A8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [跑男收视率破1](https://www.baidu.com/s?wd=%E8%B7%91%E7%94%B7%E6%94%B6%E8%A7%86%E7%8E%87%E7%A0%B41&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [电竞国家集训队集体亮相](https://www.baidu.com/s?wd=%E7%94%B5%E7%AB%9E%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F%E9%9B%86%E4%BD%93%E4%BA%AE%E7%9B%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [河南一地禁售凉皮 疑有人中毒身亡](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E5%9C%B0%E7%A6%81%E5%94%AE%E5%87%89%E7%9A%AE+%E7%96%91%E6%9C%89%E4%BA%BA%E4%B8%AD%E6%AF%92%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [警方回应学生疑被罚站中暑去世](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E7%96%91%E8%A2%AB%E7%BD%9A%E7%AB%99%E4%B8%AD%E6%9A%91%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [台媒曝大陆高校师生访台行程](https://www.baidu.com/s?wd=%E5%8F%B0%E5%AA%92%E6%9B%9D%E5%A4%A7%E9%99%86%E9%AB%98%E6%A0%A1%E5%B8%88%E7%94%9F%E8%AE%BF%E5%8F%B0%E8%A1%8C%E7%A8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [跑男收视率破1](https://www.baidu.com/s?wd=%E8%B7%91%E7%94%B7%E6%94%B6%E8%A7%86%E7%8E%87%E7%A0%B41&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [电竞国家集训队集体亮相](https://www.baidu.com/s?wd=%E7%94%B5%E7%AB%9E%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F%E9%9B%86%E4%BD%93%E4%BA%AE%E7%9B%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
