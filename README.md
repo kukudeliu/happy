@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-15 22:51:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-15 22:52:01</h4></div>
 
 > 微博  
 
-1. [致死率90%的猫冠状病毒或已扩散](https://s.weibo.com/weibo?q=%23%E8%87%B4%E6%AD%BB%E7%8E%8790%25%E7%9A%84%E7%8C%AB%E5%86%A0%E7%8A%B6%E7%97%85%E6%AF%92%E6%88%96%E5%B7%B2%E6%89%A9%E6%95%A3%23&t=31&band_rank=1&Refer=top)<br />
-2. [杨澄出轨](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%BE%84%E5%87%BA%E8%BD%A8%23&t=31&band_rank=2&Refer=top)<br />
+1. [杨澄出轨](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%BE%84%E5%87%BA%E8%BD%A8%23&t=31&band_rank=1&Refer=top)<br />
+2. [致死率90%的猫冠状病毒或已扩散](https://s.weibo.com/weibo?q=%23%E8%87%B4%E6%AD%BB%E7%8E%8790%25%E7%9A%84%E7%8C%AB%E5%86%A0%E7%8A%B6%E7%97%85%E6%AF%92%E6%88%96%E5%B7%B2%E6%89%A9%E6%95%A3%23&t=31&band_rank=2&Refer=top)<br />
 3. [中国式现代化县域实践大调研](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%E5%8E%BF%E5%9F%9F%E5%AE%9E%E8%B7%B5%E5%A4%A7%E8%B0%83%E7%A0%94%23&t=31&band_rank=3&Refer=top)<br />
 4. [何炅谢娜哭着拥抱](https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%E8%B0%A2%E5%A8%9C%E5%93%AD%E7%9D%80%E6%8B%A5%E6%8A%B1%23&t=31&band_rank=4&Refer=top)<br />
 5. [魏大勋曾想帮尼坤澄清争议](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E6%9B%BE%E6%83%B3%E5%B8%AE%E5%B0%BC%E5%9D%A4%E6%BE%84%E6%B8%85%E4%BA%89%E8%AE%AE%23&t=31&band_rank=5&Refer=top)<br />
