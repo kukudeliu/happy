@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-16 00:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-16 00:06:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [茉酸奶回应被改名](https://s.weibo.com/weibo?q=%23%E8%8C%89%E9%85%B8%E5%A5%B6%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%94%B9%E5%90%8D%23&t=31&band_rank=6&Refer=top)<br />
 7. [何炅谢娜哭着拥抱](https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%E8%B0%A2%E5%A8%9C%E5%93%AD%E7%9D%80%E6%8B%A5%E6%8A%B1%23&t=31&band_rank=7&Refer=top)<br />
 8. [学生被罚站中暑去世实为吃早餐晕倒](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E8%A2%AB%E7%BD%9A%E7%AB%99%E4%B8%AD%E6%9A%91%E5%8E%BB%E4%B8%96%E5%AE%9E%E4%B8%BA%E5%90%83%E6%97%A9%E9%A4%90%E6%99%95%E5%80%92%23&t=31&band_rank=8&Refer=top)<br />
-9. [女子买鲍师傅糕点吃出黑毛](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B9%B0%E9%B2%8D%E5%B8%88%E5%82%85%E7%B3%95%E7%82%B9%E5%90%83%E5%87%BA%E9%BB%91%E6%AF%9B%23&t=31&band_rank=9&Refer=top)<br />
+9. [新能源老太太](https://s.weibo.com/weibo?q=%E6%96%B0%E8%83%BD%E6%BA%90%E8%80%81%E5%A4%AA%E5%A4%AA&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
