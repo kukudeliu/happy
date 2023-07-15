@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-15 15:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-15 15:52:01</h4></div>
 
 > 微博  
 
@@ -23,9 +23,9 @@
 4. [避暑游“走俏” 体验游重融入](https://www.baidu.com/s?wd=%E9%81%BF%E6%9A%91%E6%B8%B8%E2%80%9C%E8%B5%B0%E4%BF%8F%E2%80%9D+%E4%BD%93%E9%AA%8C%E6%B8%B8%E9%87%8D%E8%9E%8D%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [奔跑吧后期团队回应](https://www.baidu.com/s?wd=%E5%A5%94%E8%B7%91%E5%90%A7%E5%90%8E%E6%9C%9F%E5%9B%A2%E9%98%9F%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [Jennie称舞台没有划水](https://www.baidu.com/s?wd=Jennie%E7%A7%B0%E8%88%9E%E5%8F%B0%E6%B2%A1%E6%9C%89%E5%88%92%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [12岁男孩乘三角翼遇难 家属发声](https://www.baidu.com/s?wd=12%E5%B2%81%E7%94%B7%E5%AD%A9%E4%B9%98%E4%B8%89%E8%A7%92%E7%BF%BC%E9%81%87%E9%9A%BE+%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子把小孩放进超市红枣堆玩耍](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8A%8A%E5%B0%8F%E5%AD%A9%E6%94%BE%E8%BF%9B%E8%B6%85%E5%B8%82%E7%BA%A2%E6%9E%A3%E5%A0%86%E7%8E%A9%E8%80%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [9000元补贴能缓解独子养老焦虑吗](https://www.baidu.com/s?wd=9000%E5%85%83%E8%A1%A5%E8%B4%B4%E8%83%BD%E7%BC%93%E8%A7%A3%E7%8B%AC%E5%AD%90%E5%85%BB%E8%80%81%E7%84%A6%E8%99%91%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子把小孩放进超市红枣堆玩耍](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8A%8A%E5%B0%8F%E5%AD%A9%E6%94%BE%E8%BF%9B%E8%B6%85%E5%B8%82%E7%BA%A2%E6%9E%A3%E5%A0%86%E7%8E%A9%E8%80%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [好莱坞大罢工抵制“AI入侵”](https://www.baidu.com/s?wd=%E5%A5%BD%E8%8E%B1%E5%9D%9E%E5%A4%A7%E7%BD%A2%E5%B7%A5%E6%8A%B5%E5%88%B6%E2%80%9CAI%E5%85%A5%E4%BE%B5%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -35,6 +35,6 @@
 4. [避暑游“走俏” 体验游重融入](https://www.baidu.com/s?wd=%E9%81%BF%E6%9A%91%E6%B8%B8%E2%80%9C%E8%B5%B0%E4%BF%8F%E2%80%9D+%E4%BD%93%E9%AA%8C%E6%B8%B8%E9%87%8D%E8%9E%8D%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [奔跑吧后期团队回应](https://www.baidu.com/s?wd=%E5%A5%94%E8%B7%91%E5%90%A7%E5%90%8E%E6%9C%9F%E5%9B%A2%E9%98%9F%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [Jennie称舞台没有划水](https://www.baidu.com/s?wd=Jennie%E7%A7%B0%E8%88%9E%E5%8F%B0%E6%B2%A1%E6%9C%89%E5%88%92%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [12岁男孩乘三角翼遇难 家属发声](https://www.baidu.com/s?wd=12%E5%B2%81%E7%94%B7%E5%AD%A9%E4%B9%98%E4%B8%89%E8%A7%92%E7%BF%BC%E9%81%87%E9%9A%BE+%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子把小孩放进超市红枣堆玩耍](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8A%8A%E5%B0%8F%E5%AD%A9%E6%94%BE%E8%BF%9B%E8%B6%85%E5%B8%82%E7%BA%A2%E6%9E%A3%E5%A0%86%E7%8E%A9%E8%80%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [9000元补贴能缓解独子养老焦虑吗](https://www.baidu.com/s?wd=9000%E5%85%83%E8%A1%A5%E8%B4%B4%E8%83%BD%E7%BC%93%E8%A7%A3%E7%8B%AC%E5%AD%90%E5%85%BB%E8%80%81%E7%84%A6%E8%99%91%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子把小孩放进超市红枣堆玩耍](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8A%8A%E5%B0%8F%E5%AD%A9%E6%94%BE%E8%BF%9B%E8%B6%85%E5%B8%82%E7%BA%A2%E6%9E%A3%E5%A0%86%E7%8E%A9%E8%80%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [好莱坞大罢工抵制“AI入侵”](https://www.baidu.com/s?wd=%E5%A5%BD%E8%8E%B1%E5%9D%9E%E5%A4%A7%E7%BD%A2%E5%B7%A5%E6%8A%B5%E5%88%B6%E2%80%9CAI%E5%85%A5%E4%BE%B5%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
