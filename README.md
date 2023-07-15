@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-15 11:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-15 11:08:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [小说写245章却被盗版网站更新1369章](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E8%AF%B4%E5%86%99245%E7%AB%A0%E5%8D%B4%E8%A2%AB%E7%9B%97%E7%89%88%E7%BD%91%E7%AB%99%E6%9B%B4%E6%96%B01369%E7%AB%A0%23&t=31&band_rank=5&Refer=top)<br />
 6. [李莎旻子居然写了20首歌](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%8E%8E%E6%97%BB%E5%AD%90%E5%B1%85%E7%84%B6%E5%86%99%E4%BA%8620%E9%A6%96%E6%AD%8C%23&t=31&band_rank=6&Refer=top)<br />
 7. [降温后淄博烧烤行业现状](https://s.weibo.com/weibo?q=%23%E9%99%8D%E6%B8%A9%E5%90%8E%E6%B7%84%E5%8D%9A%E7%83%A7%E7%83%A4%E8%A1%8C%E4%B8%9A%E7%8E%B0%E7%8A%B6%23&t=31&band_rank=7&Refer=top)<br />
-8. [孟宴臣这条线居然埋这么深](https://s.weibo.com/weibo?q=%E5%AD%9F%E5%AE%B4%E8%87%A3%E8%BF%99%E6%9D%A1%E7%BA%BF%E5%B1%85%E7%84%B6%E5%9F%8B%E8%BF%99%E4%B9%88%E6%B7%B1&t=31&band_rank=8&Refer=top)<br />
-9. [你会付费买喜欢的小说吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%BC%9A%E4%BB%98%E8%B4%B9%E4%B9%B0%E5%96%9C%E6%AC%A2%E7%9A%84%E5%B0%8F%E8%AF%B4%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
+8. [陈国豪当选状元](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%9B%BD%E8%B1%AA%E5%BD%93%E9%80%89%E7%8A%B6%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
+9. [孟宴臣这条线居然埋这么深](https://s.weibo.com/weibo?q=%E5%AD%9F%E5%AE%B4%E8%87%A3%E8%BF%99%E6%9D%A1%E7%BA%BF%E5%B1%85%E7%84%B6%E5%9F%8B%E8%BF%99%E4%B9%88%E6%B7%B1&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
