@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-15 11:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-15 11:40:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [18岁男孩被同学骗缅甸剃光头眼角缝针](https://s.weibo.com/weibo?q=%2318%E5%B2%81%E7%94%B7%E5%AD%A9%E8%A2%AB%E5%90%8C%E5%AD%A6%E9%AA%97%E7%BC%85%E7%94%B8%E5%89%83%E5%85%89%E5%A4%B4%E7%9C%BC%E8%A7%92%E7%BC%9D%E9%92%88%23&t=31&band_rank=6&Refer=top)<br />
 7. [Loopy 名创优品](https://s.weibo.com/weibo?q=Loopy%20%E5%90%8D%E5%88%9B%E4%BC%98%E5%93%81&t=31&band_rank=7&Refer=top)<br />
 8. [小说写245章却被盗版网站更新1369章](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E8%AF%B4%E5%86%99245%E7%AB%A0%E5%8D%B4%E8%A2%AB%E7%9B%97%E7%89%88%E7%BD%91%E7%AB%99%E6%9B%B4%E6%96%B01369%E7%AB%A0%23&t=31&band_rank=8&Refer=top)<br />
-9. [音银取消EXO粉丝录制资格](https://s.weibo.com/weibo?q=%23%E9%9F%B3%E9%93%B6%E5%8F%96%E6%B6%88EXO%E7%B2%89%E4%B8%9D%E5%BD%95%E5%88%B6%E8%B5%84%E6%A0%BC%23&t=31&band_rank=9&Refer=top)<br />
+9. [奔跑吧 原地消失术](https://s.weibo.com/weibo?q=%E5%A5%94%E8%B7%91%E5%90%A7%20%E5%8E%9F%E5%9C%B0%E6%B6%88%E5%A4%B1%E6%9C%AF&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
