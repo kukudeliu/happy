@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-15 22:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-15 22:42:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [杨澄出轨](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%BE%84%E5%87%BA%E8%BD%A8%23&t=31&band_rank=4&Refer=top)<br />
 5. [杨洋追杨迪摔了一跤](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B4%8B%E8%BF%BD%E6%9D%A8%E8%BF%AA%E6%91%94%E4%BA%86%E4%B8%80%E8%B7%A4%23&t=31&band_rank=5&Refer=top)<br />
 6. [鹿晗说芦苇天下第一好](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E8%AF%B4%E8%8A%A6%E8%8B%87%E5%A4%A9%E4%B8%8B%E7%AC%AC%E4%B8%80%E5%A5%BD%23&t=31&band_rank=6&Refer=top)<br />
-7. [学生被罚站中暑去世实为吃早餐晕倒](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E8%A2%AB%E7%BD%9A%E7%AB%99%E4%B8%AD%E6%9A%91%E5%8E%BB%E4%B8%96%E5%AE%9E%E4%B8%BA%E5%90%83%E6%97%A9%E9%A4%90%E6%99%95%E5%80%92%23&t=31&band_rank=7&Refer=top)<br />
-8. [重庆茉莉冰豆浆](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E8%8C%89%E8%8E%89%E5%86%B0%E8%B1%86%E6%B5%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [新娘回应0彩礼用52辆轮椅迎亲](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%A8%98%E5%9B%9E%E5%BA%940%E5%BD%A9%E7%A4%BC%E7%94%A852%E8%BE%86%E8%BD%AE%E6%A4%85%E8%BF%8E%E4%BA%B2%23&t=31&band_rank=9&Refer=top)<br />
+7. [魏大勋曾想帮尼坤澄清争议](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E6%9B%BE%E6%83%B3%E5%B8%AE%E5%B0%BC%E5%9D%A4%E6%BE%84%E6%B8%85%E4%BA%89%E8%AE%AE%23&t=31&band_rank=7&Refer=top)<br />
+8. [学生被罚站中暑去世实为吃早餐晕倒](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E8%A2%AB%E7%BD%9A%E7%AB%99%E4%B8%AD%E6%9A%91%E5%8E%BB%E4%B8%96%E5%AE%9E%E4%B8%BA%E5%90%83%E6%97%A9%E9%A4%90%E6%99%95%E5%80%92%23&t=31&band_rank=8&Refer=top)<br />
+9. [重庆茉莉冰豆浆](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E8%8C%89%E8%8E%89%E5%86%B0%E8%B1%86%E6%B5%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -25,7 +25,7 @@
 6. [猫冠状病毒蔓延“猫岛”致死率近90%](https://www.baidu.com/s?wd=%E7%8C%AB%E5%86%A0%E7%8A%B6%E7%97%85%E6%AF%92%E8%94%93%E5%BB%B6%E2%80%9C%E7%8C%AB%E5%B2%9B%E2%80%9D%E8%87%B4%E6%AD%BB%E7%8E%87%E8%BF%9190%25&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [“厌童症”厌的到底是什么？](https://www.baidu.com/s?wd=%E2%80%9C%E5%8E%8C%E7%AB%A5%E7%97%87%E2%80%9D%E5%8E%8C%E7%9A%84%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#蔡徐坤风波后开演唱会引争议#](https://www.baidu.com/s?wd=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E9%A3%8E%E6%B3%A2%E5%90%8E%E5%BC%80%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BC%95%E4%BA%89%E8%AE%AE%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [张一山怀疑杨紫瞒着自己上节目](https://www.baidu.com/s?wd=%E5%BC%A0%E4%B8%80%E5%B1%B1%E6%80%80%E7%96%91%E6%9D%A8%E7%B4%AB%E7%9E%92%E7%9D%80%E8%87%AA%E5%B7%B1%E4%B8%8A%E8%8A%82%E7%9B%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [魏大勋孟宴臣独爆](https://www.baidu.com/s?wd=%E9%AD%8F%E5%A4%A7%E5%8B%8B%E5%AD%9F%E5%AE%B4%E8%87%A3%E7%8B%AC%E7%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [猫冠状病毒蔓延“猫岛”致死率近90%](https://www.baidu.com/s?wd=%E7%8C%AB%E5%86%A0%E7%8A%B6%E7%97%85%E6%AF%92%E8%94%93%E5%BB%B6%E2%80%9C%E7%8C%AB%E5%B2%9B%E2%80%9D%E8%87%B4%E6%AD%BB%E7%8E%87%E8%BF%9190%25&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [“厌童症”厌的到底是什么？](https://www.baidu.com/s?wd=%E2%80%9C%E5%8E%8C%E7%AB%A5%E7%97%87%E2%80%9D%E5%8E%8C%E7%9A%84%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#蔡徐坤风波后开演唱会引争议#](https://www.baidu.com/s?wd=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E9%A3%8E%E6%B3%A2%E5%90%8E%E5%BC%80%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BC%95%E4%BA%89%E8%AE%AE%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [张一山怀疑杨紫瞒着自己上节目](https://www.baidu.com/s?wd=%E5%BC%A0%E4%B8%80%E5%B1%B1%E6%80%80%E7%96%91%E6%9D%A8%E7%B4%AB%E7%9E%92%E7%9D%80%E8%87%AA%E5%B7%B1%E4%B8%8A%E8%8A%82%E7%9B%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [魏大勋孟宴臣独爆](https://www.baidu.com/s?wd=%E9%AD%8F%E5%A4%A7%E5%8B%8B%E5%AD%9F%E5%AE%B4%E8%87%A3%E7%8B%AC%E7%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
