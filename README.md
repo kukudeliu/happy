@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-15 11:15:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-15 11:16:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [小说写245章却被盗版网站更新1369章](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E8%AF%B4%E5%86%99245%E7%AB%A0%E5%8D%B4%E8%A2%AB%E7%9B%97%E7%89%88%E7%BD%91%E7%AB%99%E6%9B%B4%E6%96%B01369%E7%AB%A0%23&t=31&band_rank=6&Refer=top)<br />
 7. [陈国豪当选状元](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%9B%BD%E8%B1%AA%E5%BD%93%E9%80%89%E7%8A%B6%E5%85%83%23&t=31&band_rank=7&Refer=top)<br />
 8. [降温后淄博烧烤行业现状](https://s.weibo.com/weibo?q=%23%E9%99%8D%E6%B8%A9%E5%90%8E%E6%B7%84%E5%8D%9A%E7%83%A7%E7%83%A4%E8%A1%8C%E4%B8%9A%E7%8E%B0%E7%8A%B6%23&t=31&band_rank=8&Refer=top)<br />
-9. [你会付费买喜欢的小说吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%BC%9A%E4%BB%98%E8%B4%B9%E4%B9%B0%E5%96%9C%E6%AC%A2%E7%9A%84%E5%B0%8F%E8%AF%B4%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
+9. [18岁男孩被同学骗缅甸剃光头眼角缝针](https://s.weibo.com/weibo?q=%2318%E5%B2%81%E7%94%B7%E5%AD%A9%E8%A2%AB%E5%90%8C%E5%AD%A6%E9%AA%97%E7%BC%85%E7%94%B8%E5%89%83%E5%85%89%E5%A4%B4%E7%9C%BC%E8%A7%92%E7%BC%9D%E9%92%88%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
