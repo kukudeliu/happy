@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-15 16:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-15 16:18:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [刘诗诗堕仙妆](https://s.weibo.com/weibo?q=%E5%88%98%E8%AF%97%E8%AF%97%E5%A0%95%E4%BB%99%E5%A6%86&t=31&band_rank=5&Refer=top)<br />
 6. [Jennie称舞台没有划水](https://s.weibo.com/weibo?q=%23Jennie%E7%A7%B0%E8%88%9E%E5%8F%B0%E6%B2%A1%E6%9C%89%E5%88%92%E6%B0%B4%23&t=31&band_rank=6&Refer=top)<br />
 7. [论牙齿对颜值的影响](https://s.weibo.com/weibo?q=%E8%AE%BA%E7%89%99%E9%BD%BF%E5%AF%B9%E9%A2%9C%E5%80%BC%E7%9A%84%E5%BD%B1%E5%93%8D&t=31&band_rank=7&Refer=top)<br />
-8. [福宝吃醋了](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%AE%9D%E5%90%83%E9%86%8B%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [12岁男孩内蒙古乘三角翼遇难](https://s.weibo.com/weibo?q=%2312%E5%B2%81%E7%94%B7%E5%AD%A9%E5%86%85%E8%92%99%E5%8F%A4%E4%B9%98%E4%B8%89%E8%A7%92%E7%BF%BC%E9%81%87%E9%9A%BE%23&t=31&band_rank=9&Refer=top)<br />
+8. [12岁男孩内蒙古乘三角翼遇难](https://s.weibo.com/weibo?q=%2312%E5%B2%81%E7%94%B7%E5%AD%A9%E5%86%85%E8%92%99%E5%8F%A4%E4%B9%98%E4%B8%89%E8%A7%92%E7%BF%BC%E9%81%87%E9%9A%BE%23&t=31&band_rank=8&Refer=top)<br />
+9. [福宝吃醋了](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%AE%9D%E5%90%83%E9%86%8B%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
