@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-17 01:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-17 01:55:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [第2架国产C919入列](https://s.weibo.com/weibo?q=%23%E7%AC%AC2%E6%9E%B6%E5%9B%BD%E4%BA%A7C919%E5%85%A5%E5%88%97%23&t=31&band_rank=3&Refer=top)<br />
 4. [假唱](https://s.weibo.com/weibo?q=%E5%81%87%E5%94%B1&t=31&band_rank=4&Refer=top)<br />
 5. [印度网红AK哥被深圳震撼的语无伦次](https://s.weibo.com/weibo?q=%E5%8D%B0%E5%BA%A6%E7%BD%91%E7%BA%A2AK%E5%93%A5%E8%A2%AB%E6%B7%B1%E5%9C%B3%E9%9C%87%E6%92%BC%E7%9A%84%E8%AF%AD%E6%97%A0%E4%BC%A6%E6%AC%A1&t=31&band_rank=5&Refer=top)<br />
-6. [敷衍爸妈报的学校结果录取了](https://s.weibo.com/weibo?q=%23%E6%95%B7%E8%A1%8D%E7%88%B8%E5%A6%88%E6%8A%A5%E7%9A%84%E5%AD%A6%E6%A0%A1%E7%BB%93%E6%9E%9C%E5%BD%95%E5%8F%96%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [阿尔卡拉斯vs德约科维奇](https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%B0%94%E5%8D%A1%E6%8B%89%E6%96%AFvs%E5%BE%B7%E7%BA%A6%E7%A7%91%E7%BB%B4%E5%A5%87%23&t=31&band_rank=7&Refer=top)<br />
+6. [阿尔卡拉斯vs德约科维奇](https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%B0%94%E5%8D%A1%E6%8B%89%E6%96%AFvs%E5%BE%B7%E7%BA%A6%E7%A7%91%E7%BB%B4%E5%A5%87%23&t=31&band_rank=6&Refer=top)<br />
+7. [敷衍爸妈报的学校结果录取了](https://s.weibo.com/weibo?q=%23%E6%95%B7%E8%A1%8D%E7%88%B8%E5%A6%88%E6%8A%A5%E7%9A%84%E5%AD%A6%E6%A0%A1%E7%BB%93%E6%9E%9C%E5%BD%95%E5%8F%96%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [不齐男团终于齐了](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E9%BD%90%E7%94%B7%E5%9B%A2%E7%BB%88%E4%BA%8E%E9%BD%90%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [范丞丞替杨澄向谢乔道歉](https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E6%9B%BF%E6%9D%A8%E6%BE%84%E5%90%91%E8%B0%A2%E4%B9%94%E9%81%93%E6%AD%89%23&t=31&band_rank=9&Refer=top)<br />
 
