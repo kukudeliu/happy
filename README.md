@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-16 16:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-16 16:12:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [关晓彤的狗不让张一山摸](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E7%9A%84%E7%8B%97%E4%B8%8D%E8%AE%A9%E5%BC%A0%E4%B8%80%E5%B1%B1%E6%91%B8%23&t=31&band_rank=5&Refer=top)<br />
 6. [孟子义边哭边道歉](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E8%BE%B9%E5%93%AD%E8%BE%B9%E9%81%93%E6%AD%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [魏大勋进入JYP的原因](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E8%BF%9B%E5%85%A5JYP%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=7&Refer=top)<br />
-8. [藏在高校里的宝藏博物馆](https://s.weibo.com/weibo?q=%23%E8%97%8F%E5%9C%A8%E9%AB%98%E6%A0%A1%E9%87%8C%E7%9A%84%E5%AE%9D%E8%97%8F%E5%8D%9A%E7%89%A9%E9%A6%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [台风](https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E&t=31&band_rank=9&Refer=top)<br />
+8. [台风](https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E&t=31&band_rank=8&Refer=top)<br />
+9. [重庆地铁被打女孩将走司法程序](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E5%9C%B0%E9%93%81%E8%A2%AB%E6%89%93%E5%A5%B3%E5%AD%A9%E5%B0%86%E8%B5%B0%E5%8F%B8%E6%B3%95%E7%A8%8B%E5%BA%8F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
