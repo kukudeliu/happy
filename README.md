@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-17 01:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-17 01:43:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [不齐男团终于齐了](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E9%BD%90%E7%94%B7%E5%9B%A2%E7%BB%88%E4%BA%8E%E9%BD%90%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [范丞丞替杨澄向谢乔道歉](https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E6%9B%BF%E6%9D%A8%E6%BE%84%E5%90%91%E8%B0%A2%E4%B9%94%E9%81%93%E6%AD%89%23&t=31&band_rank=7&Refer=top)<br />
 8. [胖人和瘦人吃东西的区别](https://s.weibo.com/weibo?q=%23%E8%83%96%E4%BA%BA%E5%92%8C%E7%98%A6%E4%BA%BA%E5%90%83%E4%B8%9C%E8%A5%BF%E7%9A%84%E5%8C%BA%E5%88%AB%23&t=31&band_rank=8&Refer=top)<br />
-9. [赵丽颖魏大勋一起拍过MV](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E9%AD%8F%E5%A4%A7%E5%8B%8B%E4%B8%80%E8%B5%B7%E6%8B%8D%E8%BF%87MV%23&t=31&band_rank=9&Refer=top)<br />
+9. [敷衍爸妈报的学校结果录取了](https://s.weibo.com/weibo?q=%23%E6%95%B7%E8%A1%8D%E7%88%B8%E5%A6%88%E6%8A%A5%E7%9A%84%E5%AD%A6%E6%A0%A1%E7%BB%93%E6%9E%9C%E5%BD%95%E5%8F%96%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,10 +22,10 @@
 3. [浙江嘉善暴雨破纪录](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E5%98%89%E5%96%84%E6%9A%B4%E9%9B%A8%E7%A0%B4%E7%BA%AA%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [携手共建地球生命共同体](https://www.baidu.com/s?wd=%E6%90%BA%E6%89%8B%E5%85%B1%E5%BB%BA%E5%9C%B0%E7%90%83%E7%94%9F%E5%91%BD%E5%85%B1%E5%90%8C%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子排队等升旗倒地睡着](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8E%92%E9%98%9F%E7%AD%89%E5%8D%87%E6%97%97%E5%80%92%E5%9C%B0%E7%9D%A1%E7%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [日美韩三国举行联合军演](https://www.baidu.com/s?wd=%E6%97%A5%E7%BE%8E%E9%9F%A9%E4%B8%89%E5%9B%BD%E4%B8%BE%E8%A1%8C%E8%81%94%E5%90%88%E5%86%9B%E6%BC%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [尹锡悦突访乌克兰，夫人抢风头](https://www.baidu.com/s?wd=%E5%B0%B9%E9%94%A1%E6%82%A6%E7%AA%81%E8%AE%BF%E4%B9%8C%E5%85%8B%E5%85%B0%EF%BC%8C%E5%A4%AB%E4%BA%BA%E6%8A%A2%E9%A3%8E%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [尹锡悦突访乌克兰，夫人抢风头](https://www.baidu.com/s?wd=%E5%B0%B9%E9%94%A1%E6%82%A6%E7%AA%81%E8%AE%BF%E4%B9%8C%E5%85%8B%E5%85%B0%EF%BC%8C%E5%A4%AB%E4%BA%BA%E6%8A%A2%E9%A3%8E%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [这张火遍全网照片背后的人塌房了](https://www.baidu.com/s?wd=%E8%BF%99%E5%BC%A0%E7%81%AB%E9%81%8D%E5%85%A8%E7%BD%91%E7%85%A7%E7%89%87%E8%83%8C%E5%90%8E%E7%9A%84%E4%BA%BA%E5%A1%8C%E6%88%BF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [“地狱犬”致命热浪席卷欧洲](https://www.baidu.com/s?wd=%E2%80%9C%E5%9C%B0%E7%8B%B1%E7%8A%AC%E2%80%9D%E8%87%B4%E5%91%BD%E7%83%AD%E6%B5%AA%E5%B8%AD%E5%8D%B7%E6%AC%A7%E6%B4%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [这张火遍全网照片背后的人塌房了](https://www.baidu.com/s?wd=%E8%BF%99%E5%BC%A0%E7%81%AB%E9%81%8D%E5%85%A8%E7%BD%91%E7%85%A7%E7%89%87%E8%83%8C%E5%90%8E%E7%9A%84%E4%BA%BA%E5%A1%8C%E6%88%BF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [民营巨头迎36岁“二代”女掌门人](https://www.baidu.com/s?wd=%E6%B0%91%E8%90%A5%E5%B7%A8%E5%A4%B4%E8%BF%8E36%E5%B2%81%E2%80%9C%E4%BA%8C%E4%BB%A3%E2%80%9D%E5%A5%B3%E6%8E%8C%E9%97%A8%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -34,7 +34,7 @@
 3. [浙江嘉善暴雨破纪录](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E5%98%89%E5%96%84%E6%9A%B4%E9%9B%A8%E7%A0%B4%E7%BA%AA%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [携手共建地球生命共同体](https://www.baidu.com/s?wd=%E6%90%BA%E6%89%8B%E5%85%B1%E5%BB%BA%E5%9C%B0%E7%90%83%E7%94%9F%E5%91%BD%E5%85%B1%E5%90%8C%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子排队等升旗倒地睡着](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8E%92%E9%98%9F%E7%AD%89%E5%8D%87%E6%97%97%E5%80%92%E5%9C%B0%E7%9D%A1%E7%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [日美韩三国举行联合军演](https://www.baidu.com/s?wd=%E6%97%A5%E7%BE%8E%E9%9F%A9%E4%B8%89%E5%9B%BD%E4%B8%BE%E8%A1%8C%E8%81%94%E5%90%88%E5%86%9B%E6%BC%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [尹锡悦突访乌克兰，夫人抢风头](https://www.baidu.com/s?wd=%E5%B0%B9%E9%94%A1%E6%82%A6%E7%AA%81%E8%AE%BF%E4%B9%8C%E5%85%8B%E5%85%B0%EF%BC%8C%E5%A4%AB%E4%BA%BA%E6%8A%A2%E9%A3%8E%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [尹锡悦突访乌克兰，夫人抢风头](https://www.baidu.com/s?wd=%E5%B0%B9%E9%94%A1%E6%82%A6%E7%AA%81%E8%AE%BF%E4%B9%8C%E5%85%8B%E5%85%B0%EF%BC%8C%E5%A4%AB%E4%BA%BA%E6%8A%A2%E9%A3%8E%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [这张火遍全网照片背后的人塌房了](https://www.baidu.com/s?wd=%E8%BF%99%E5%BC%A0%E7%81%AB%E9%81%8D%E5%85%A8%E7%BD%91%E7%85%A7%E7%89%87%E8%83%8C%E5%90%8E%E7%9A%84%E4%BA%BA%E5%A1%8C%E6%88%BF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [“地狱犬”致命热浪席卷欧洲](https://www.baidu.com/s?wd=%E2%80%9C%E5%9C%B0%E7%8B%B1%E7%8A%AC%E2%80%9D%E8%87%B4%E5%91%BD%E7%83%AD%E6%B5%AA%E5%B8%AD%E5%8D%B7%E6%AC%A7%E6%B4%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [这张火遍全网照片背后的人塌房了](https://www.baidu.com/s?wd=%E8%BF%99%E5%BC%A0%E7%81%AB%E9%81%8D%E5%85%A8%E7%BD%91%E7%85%A7%E7%89%87%E8%83%8C%E5%90%8E%E7%9A%84%E4%BA%BA%E5%A1%8C%E6%88%BF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [民营巨头迎36岁“二代”女掌门人](https://www.baidu.com/s?wd=%E6%B0%91%E8%90%A5%E5%B7%A8%E5%A4%B4%E8%BF%8E36%E5%B2%81%E2%80%9C%E4%BA%8C%E4%BB%A3%E2%80%9D%E5%A5%B3%E6%8E%8C%E9%97%A8%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
