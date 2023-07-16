@@ -1,15 +1,15 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-16 16:37:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-16 16:38:01</h4></div>
 
 > 微博  
 
 1. [撒贝宁果然是央视显眼包](https://s.weibo.com/weibo?q=%23%E6%92%92%E8%B4%9D%E5%AE%81%E6%9E%9C%E7%84%B6%E6%98%AF%E5%A4%AE%E8%A7%86%E6%98%BE%E7%9C%BC%E5%8C%85%23&t=31&band_rank=1&Refer=top)<br />
-2. [宋茜想说对不起的人已经不在了](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%8C%9C%E6%83%B3%E8%AF%B4%E5%AF%B9%E4%B8%8D%E8%B5%B7%E7%9A%84%E4%BA%BA%E5%B7%B2%E7%BB%8F%E4%B8%8D%E5%9C%A8%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
+2. [最不想解散的内娱组合](https://s.weibo.com/weibo?q=%23%E6%9C%80%E4%B8%8D%E6%83%B3%E8%A7%A3%E6%95%A3%E7%9A%84%E5%86%85%E5%A8%B1%E7%BB%84%E5%90%88%23&t=31&band_rank=2&Refer=top)<br />
 3. [没有信息化就没有现代化](https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%9C%89%E4%BF%A1%E6%81%AF%E5%8C%96%E5%B0%B1%E6%B2%A1%E6%9C%89%E7%8E%B0%E4%BB%A3%E5%8C%96%23&t=31&band_rank=3&Refer=top)<br />
 4. [张艺兴 我有一个特大的爆炸消息马上发布](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%89%BA%E5%85%B4%20%E6%88%91%E6%9C%89%E4%B8%80%E4%B8%AA%E7%89%B9%E5%A4%A7%E7%9A%84%E7%88%86%E7%82%B8%E6%B6%88%E6%81%AF%E9%A9%AC%E4%B8%8A%E5%8F%91%E5%B8%83&t=31&band_rank=4&Refer=top)<br />
 5. [关晓彤的狗不让张一山摸](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E7%9A%84%E7%8B%97%E4%B8%8D%E8%AE%A9%E5%BC%A0%E4%B8%80%E5%B1%B1%E6%91%B8%23&t=31&band_rank=5&Refer=top)<br />
-6. [孟子义边哭边道歉](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E8%BE%B9%E5%93%AD%E8%BE%B9%E9%81%93%E6%AD%89%23&t=31&band_rank=6&Refer=top)<br />
-7. [原来中医还可以治疗近视](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E4%B8%AD%E5%8C%BB%E8%BF%98%E5%8F%AF%E4%BB%A5%E6%B2%BB%E7%96%97%E8%BF%91%E8%A7%86&t=31&band_rank=7&Refer=top)<br />
-8. [重庆地铁被打女孩将走司法程序](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E5%9C%B0%E9%93%81%E8%A2%AB%E6%89%93%E5%A5%B3%E5%AD%A9%E5%B0%86%E8%B5%B0%E5%8F%B8%E6%B3%95%E7%A8%8B%E5%BA%8F%23&t=31&band_rank=8&Refer=top)<br />
+6. [宋茜想说对不起的人已经不在了](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%8C%9C%E6%83%B3%E8%AF%B4%E5%AF%B9%E4%B8%8D%E8%B5%B7%E7%9A%84%E4%BA%BA%E5%B7%B2%E7%BB%8F%E4%B8%8D%E5%9C%A8%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
+7. [孟子义边哭边道歉](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E8%BE%B9%E5%93%AD%E8%BE%B9%E9%81%93%E6%AD%89%23&t=31&band_rank=7&Refer=top)<br />
+8. [原来中医还可以治疗近视](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E4%B8%AD%E5%8C%BB%E8%BF%98%E5%8F%AF%E4%BB%A5%E6%B2%BB%E7%96%97%E8%BF%91%E8%A7%86&t=31&band_rank=8&Refer=top)<br />
 9. [上海中考](https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E4%B8%AD%E8%80%83&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
