@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-16 13:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-16 13:22:01</h4></div>
 
 > 微博  
 
 1. [店员误将19件黄金耳饰当废品赠送](https://s.weibo.com/weibo?q=%23%E5%BA%97%E5%91%98%E8%AF%AF%E5%B0%8619%E4%BB%B6%E9%BB%84%E9%87%91%E8%80%B3%E9%A5%B0%E5%BD%93%E5%BA%9F%E5%93%81%E8%B5%A0%E9%80%81%23&t=31&band_rank=1&Refer=top)<br />
 2. [骄阳似我](https://s.weibo.com/weibo?q=%E9%AA%84%E9%98%B3%E4%BC%BC%E6%88%91&t=31&band_rank=2&Refer=top)<br />
 3. [藏在高校里的宝藏博物馆](https://s.weibo.com/weibo?q=%23%E8%97%8F%E5%9C%A8%E9%AB%98%E6%A0%A1%E9%87%8C%E7%9A%84%E5%AE%9D%E8%97%8F%E5%8D%9A%E7%89%A9%E9%A6%86%23&t=31&band_rank=3&Refer=top)<br />
-4. [因为一个发夹被同事说不吉利](https://s.weibo.com/weibo?q=%23%E5%9B%A0%E4%B8%BA%E4%B8%80%E4%B8%AA%E5%8F%91%E5%A4%B9%E8%A2%AB%E5%90%8C%E4%BA%8B%E8%AF%B4%E4%B8%8D%E5%90%89%E5%88%A9%23&t=31&band_rank=4&Refer=top)<br />
-5. [重庆地铁被打女孩将走司法程序](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E5%9C%B0%E9%93%81%E8%A2%AB%E6%89%93%E5%A5%B3%E5%AD%A9%E5%B0%86%E8%B5%B0%E5%8F%B8%E6%B3%95%E7%A8%8B%E5%BA%8F%23&t=31&band_rank=5&Refer=top)<br />
-6. [孟宴臣和他的猫](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AE%B4%E8%87%A3%E5%92%8C%E4%BB%96%E7%9A%84%E7%8C%AB%23&t=31&band_rank=6&Refer=top)<br />
-7. [Jennie称作为Kpop艺人出道被限制发展](https://s.weibo.com/weibo?q=%23Jennie%E7%A7%B0%E4%BD%9C%E4%B8%BAKpop%E8%89%BA%E4%BA%BA%E5%87%BA%E9%81%93%E8%A2%AB%E9%99%90%E5%88%B6%E5%8F%91%E5%B1%95%23&t=31&band_rank=7&Refer=top)<br />
-8. [肖战未来可能尝试幕后工作](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%9C%AA%E6%9D%A5%E5%8F%AF%E8%83%BD%E5%B0%9D%E8%AF%95%E5%B9%95%E5%90%8E%E5%B7%A5%E4%BD%9C%23&t=31&band_rank=8&Refer=top)<br />
-9. [漫展浴缸人鱼](https://s.weibo.com/weibo?q=%23%E6%BC%AB%E5%B1%95%E6%B5%B4%E7%BC%B8%E4%BA%BA%E9%B1%BC%23&t=31&band_rank=9&Refer=top)<br />
+4. [为什么要在小便池里放冰块](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%9C%A8%E5%B0%8F%E4%BE%BF%E6%B1%A0%E9%87%8C%E6%94%BE%E5%86%B0%E5%9D%97%23&t=31&band_rank=4&Refer=top)<br />
+5. [因为一个发夹被同事说不吉利](https://s.weibo.com/weibo?q=%23%E5%9B%A0%E4%B8%BA%E4%B8%80%E4%B8%AA%E5%8F%91%E5%A4%B9%E8%A2%AB%E5%90%8C%E4%BA%8B%E8%AF%B4%E4%B8%8D%E5%90%89%E5%88%A9%23&t=31&band_rank=5&Refer=top)<br />
+6. [重庆地铁被打女孩将走司法程序](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E5%9C%B0%E9%93%81%E8%A2%AB%E6%89%93%E5%A5%B3%E5%AD%A9%E5%B0%86%E8%B5%B0%E5%8F%B8%E6%B3%95%E7%A8%8B%E5%BA%8F%23&t=31&band_rank=6&Refer=top)<br />
+7. [孟宴臣和他的猫](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AE%B4%E8%87%A3%E5%92%8C%E4%BB%96%E7%9A%84%E7%8C%AB%23&t=31&band_rank=7&Refer=top)<br />
+8. [Jennie称作为Kpop艺人出道被限制发展](https://s.weibo.com/weibo?q=%23Jennie%E7%A7%B0%E4%BD%9C%E4%B8%BAKpop%E8%89%BA%E4%BA%BA%E5%87%BA%E9%81%93%E8%A2%AB%E9%99%90%E5%88%B6%E5%8F%91%E5%B1%95%23&t=31&band_rank=8&Refer=top)<br />
+9. [肖战未来可能尝试幕后工作](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%9C%AA%E6%9D%A5%E5%8F%AF%E8%83%BD%E5%B0%9D%E8%AF%95%E5%B9%95%E5%90%8E%E5%B7%A5%E4%BD%9C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
