@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-16 18:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-16 18:44:02</h4></div>
 
 > 微博  
 
@@ -23,9 +23,9 @@
 4. [今年夏粮实现丰收](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E5%A4%8F%E7%B2%AE%E5%AE%9E%E7%8E%B0%E4%B8%B0%E6%94%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [高铁站建而不用 官方：开通亏损严重](https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E7%AB%99%E5%BB%BA%E8%80%8C%E4%B8%8D%E7%94%A8+%E5%AE%98%E6%96%B9%EF%BC%9A%E5%BC%80%E9%80%9A%E4%BA%8F%E6%8D%9F%E4%B8%A5%E9%87%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [民营巨头迎36岁“二代”女掌门人](https://www.baidu.com/s?wd=%E6%B0%91%E8%90%A5%E5%B7%A8%E5%A4%B4%E8%BF%8E36%E5%B2%81%E2%80%9C%E4%BA%8C%E4%BB%A3%E2%80%9D%E5%A5%B3%E6%8E%8C%E9%97%A8%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [这张火遍全网照片背后的人塌房了](https://www.baidu.com/s?wd=%E8%BF%99%E5%BC%A0%E7%81%AB%E9%81%8D%E5%85%A8%E7%BD%91%E7%85%A7%E7%89%87%E8%83%8C%E5%90%8E%E7%9A%84%E4%BA%BA%E5%A1%8C%E6%88%BF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [王宝强说我和陈思诚都非常爱对方](https://www.baidu.com/s?wd=%E7%8E%8B%E5%AE%9D%E5%BC%BA%E8%AF%B4%E6%88%91%E5%92%8C%E9%99%88%E6%80%9D%E8%AF%9A%E9%83%BD%E9%9D%9E%E5%B8%B8%E7%88%B1%E5%AF%B9%E6%96%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [医院回应大楼外观像娱乐会所](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E5%A4%A7%E6%A5%BC%E5%A4%96%E8%A7%82%E5%83%8F%E5%A8%B1%E4%B9%90%E4%BC%9A%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [台风“泰利”逼近：广东电闪雷鸣](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E2%80%9C%E6%B3%B0%E5%88%A9%E2%80%9D%E9%80%BC%E8%BF%91%EF%BC%9A%E5%B9%BF%E4%B8%9C%E7%94%B5%E9%97%AA%E9%9B%B7%E9%B8%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [这张火遍全网照片背后的人塌房了](https://www.baidu.com/s?wd=%E8%BF%99%E5%BC%A0%E7%81%AB%E9%81%8D%E5%85%A8%E7%BD%91%E7%85%A7%E7%89%87%E8%83%8C%E5%90%8E%E7%9A%84%E4%BA%BA%E5%A1%8C%E6%88%BF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [店员误将19件黄金耳饰当废品赠送](https://www.baidu.com/s?wd=%E5%BA%97%E5%91%98%E8%AF%AF%E5%B0%8619%E4%BB%B6%E9%BB%84%E9%87%91%E8%80%B3%E9%A5%B0%E5%BD%93%E5%BA%9F%E5%93%81%E8%B5%A0%E9%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -35,6 +35,6 @@
 4. [今年夏粮实现丰收](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E5%A4%8F%E7%B2%AE%E5%AE%9E%E7%8E%B0%E4%B8%B0%E6%94%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [高铁站建而不用 官方：开通亏损严重](https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E7%AB%99%E5%BB%BA%E8%80%8C%E4%B8%8D%E7%94%A8+%E5%AE%98%E6%96%B9%EF%BC%9A%E5%BC%80%E9%80%9A%E4%BA%8F%E6%8D%9F%E4%B8%A5%E9%87%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [民营巨头迎36岁“二代”女掌门人](https://www.baidu.com/s?wd=%E6%B0%91%E8%90%A5%E5%B7%A8%E5%A4%B4%E8%BF%8E36%E5%B2%81%E2%80%9C%E4%BA%8C%E4%BB%A3%E2%80%9D%E5%A5%B3%E6%8E%8C%E9%97%A8%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [这张火遍全网照片背后的人塌房了](https://www.baidu.com/s?wd=%E8%BF%99%E5%BC%A0%E7%81%AB%E9%81%8D%E5%85%A8%E7%BD%91%E7%85%A7%E7%89%87%E8%83%8C%E5%90%8E%E7%9A%84%E4%BA%BA%E5%A1%8C%E6%88%BF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [王宝强说我和陈思诚都非常爱对方](https://www.baidu.com/s?wd=%E7%8E%8B%E5%AE%9D%E5%BC%BA%E8%AF%B4%E6%88%91%E5%92%8C%E9%99%88%E6%80%9D%E8%AF%9A%E9%83%BD%E9%9D%9E%E5%B8%B8%E7%88%B1%E5%AF%B9%E6%96%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [医院回应大楼外观像娱乐会所](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E5%A4%A7%E6%A5%BC%E5%A4%96%E8%A7%82%E5%83%8F%E5%A8%B1%E4%B9%90%E4%BC%9A%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [台风“泰利”逼近：广东电闪雷鸣](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E2%80%9C%E6%B3%B0%E5%88%A9%E2%80%9D%E9%80%BC%E8%BF%91%EF%BC%9A%E5%B9%BF%E4%B8%9C%E7%94%B5%E9%97%AA%E9%9B%B7%E9%B8%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [这张火遍全网照片背后的人塌房了](https://www.baidu.com/s?wd=%E8%BF%99%E5%BC%A0%E7%81%AB%E9%81%8D%E5%85%A8%E7%BD%91%E7%85%A7%E7%89%87%E8%83%8C%E5%90%8E%E7%9A%84%E4%BA%BA%E5%A1%8C%E6%88%BF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [店员误将19件黄金耳饰当废品赠送](https://www.baidu.com/s?wd=%E5%BA%97%E5%91%98%E8%AF%AF%E5%B0%8619%E4%BB%B6%E9%BB%84%E9%87%91%E8%80%B3%E9%A5%B0%E5%BD%93%E5%BA%9F%E5%93%81%E8%B5%A0%E9%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
