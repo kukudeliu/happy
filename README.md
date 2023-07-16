@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-16 12:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-16 12:36:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [Jennie称作为Kpop艺人出道被限制发展](https://s.weibo.com/weibo?q=%23Jennie%E7%A7%B0%E4%BD%9C%E4%B8%BAKpop%E8%89%BA%E4%BA%BA%E5%87%BA%E9%81%93%E8%A2%AB%E9%99%90%E5%88%B6%E5%8F%91%E5%B1%95%23&t=31&band_rank=6&Refer=top)<br />
 7. [迪丽热巴真的去看猴了](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9C%9F%E7%9A%84%E5%8E%BB%E7%9C%8B%E7%8C%B4%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [肖战未来可能尝试幕后工作](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%9C%AA%E6%9D%A5%E5%8F%AF%E8%83%BD%E5%B0%9D%E8%AF%95%E5%B9%95%E5%90%8E%E5%B7%A5%E4%BD%9C%23&t=31&band_rank=8&Refer=top)<br />
-9. [老板睡着3岁宝宝接单后续](https://s.weibo.com/weibo?q=%23%E8%80%81%E6%9D%BF%E7%9D%A1%E7%9D%803%E5%B2%81%E5%AE%9D%E5%AE%9D%E6%8E%A5%E5%8D%95%E5%90%8E%E7%BB%AD%23&t=31&band_rank=9&Refer=top)<br />
+9. [张子豪龙韬娱乐](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%AD%90%E8%B1%AA%E9%BE%99%E9%9F%AC%E5%A8%B1%E4%B9%90&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
