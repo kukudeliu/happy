@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-16 17:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-16 17:12:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [关晓彤的狗不让张一山摸](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E7%9A%84%E7%8B%97%E4%B8%8D%E8%AE%A9%E5%BC%A0%E4%B8%80%E5%B1%B1%E6%91%B8%23&t=31&band_rank=6&Refer=top)<br />
 7. [重庆地铁被打女孩将走司法程序](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E5%9C%B0%E9%93%81%E8%A2%AB%E6%89%93%E5%A5%B3%E5%AD%A9%E5%B0%86%E8%B5%B0%E5%8F%B8%E6%B3%95%E7%A8%8B%E5%BA%8F%23&t=31&band_rank=7&Refer=top)<br />
 8. [上海中考](https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E4%B8%AD%E8%80%83&t=31&band_rank=8&Refer=top)<br />
-9. [原来中医还可以治疗近视](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E4%B8%AD%E5%8C%BB%E8%BF%98%E5%8F%AF%E4%BB%A5%E6%B2%BB%E7%96%97%E8%BF%91%E8%A7%86&t=31&band_rank=9&Refer=top)<br />
+9. [一颗水蜜桃就能挤出一杯桃汁](https://s.weibo.com/weibo?q=%23%E4%B8%80%E9%A2%97%E6%B0%B4%E8%9C%9C%E6%A1%83%E5%B0%B1%E8%83%BD%E6%8C%A4%E5%87%BA%E4%B8%80%E6%9D%AF%E6%A1%83%E6%B1%81%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
