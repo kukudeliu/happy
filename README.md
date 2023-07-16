@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-16 15:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-16 15:44:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [高铁站建而不用 官方：开通亏损严重](https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E7%AB%99%E5%BB%BA%E8%80%8C%E4%B8%8D%E7%94%A8+%E5%AE%98%E6%96%B9%EF%BC%9A%E5%BC%80%E9%80%9A%E4%BA%8F%E6%8D%9F%E4%B8%A5%E9%87%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [这张火遍全网照片背后的人塌房了](https://www.baidu.com/s?wd=%E8%BF%99%E5%BC%A0%E7%81%AB%E9%81%8D%E5%85%A8%E7%BD%91%E7%85%A7%E7%89%87%E8%83%8C%E5%90%8E%E7%9A%84%E4%BA%BA%E5%A1%8C%E6%88%BF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [千万要小心收到的陌生快递](https://www.baidu.com/s?wd=%E5%8D%83%E4%B8%87%E8%A6%81%E5%B0%8F%E5%BF%83%E6%94%B6%E5%88%B0%E7%9A%84%E9%99%8C%E7%94%9F%E5%BF%AB%E9%80%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [存量房贷利率将下调？多家银行回应](https://www.baidu.com/s?wd=%E5%AD%98%E9%87%8F%E6%88%BF%E8%B4%B7%E5%88%A9%E7%8E%87%E5%B0%86%E4%B8%8B%E8%B0%83%EF%BC%9F%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [医院回应大楼外观像娱乐会所](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E5%A4%A7%E6%A5%BC%E5%A4%96%E8%A7%82%E5%83%8F%E5%A8%B1%E4%B9%90%E4%BC%9A%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [医院回应大楼外观像娱乐会所](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E5%A4%A7%E6%A5%BC%E5%A4%96%E8%A7%82%E5%83%8F%E5%A8%B1%E4%B9%90%E4%BC%9A%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [以色列总理因脱水被送院治疗](https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E6%80%BB%E7%90%86%E5%9B%A0%E8%84%B1%E6%B0%B4%E8%A2%AB%E9%80%81%E9%99%A2%E6%B2%BB%E7%96%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [高铁站建而不用 官方：开通亏损严重](https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E7%AB%99%E5%BB%BA%E8%80%8C%E4%B8%8D%E7%94%A8+%E5%AE%98%E6%96%B9%EF%BC%9A%E5%BC%80%E9%80%9A%E4%BA%8F%E6%8D%9F%E4%B8%A5%E9%87%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [这张火遍全网照片背后的人塌房了](https://www.baidu.com/s?wd=%E8%BF%99%E5%BC%A0%E7%81%AB%E9%81%8D%E5%85%A8%E7%BD%91%E7%85%A7%E7%89%87%E8%83%8C%E5%90%8E%E7%9A%84%E4%BA%BA%E5%A1%8C%E6%88%BF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [千万要小心收到的陌生快递](https://www.baidu.com/s?wd=%E5%8D%83%E4%B8%87%E8%A6%81%E5%B0%8F%E5%BF%83%E6%94%B6%E5%88%B0%E7%9A%84%E9%99%8C%E7%94%9F%E5%BF%AB%E9%80%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [存量房贷利率将下调？多家银行回应](https://www.baidu.com/s?wd=%E5%AD%98%E9%87%8F%E6%88%BF%E8%B4%B7%E5%88%A9%E7%8E%87%E5%B0%86%E4%B8%8B%E8%B0%83%EF%BC%9F%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [医院回应大楼外观像娱乐会所](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E5%A4%A7%E6%A5%BC%E5%A4%96%E8%A7%82%E5%83%8F%E5%A8%B1%E4%B9%90%E4%BC%9A%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [医院回应大楼外观像娱乐会所](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E5%A4%A7%E6%A5%BC%E5%A4%96%E8%A7%82%E5%83%8F%E5%A8%B1%E4%B9%90%E4%BC%9A%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [以色列总理因脱水被送院治疗](https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E6%80%BB%E7%90%86%E5%9B%A0%E8%84%B1%E6%B0%B4%E8%A2%AB%E9%80%81%E9%99%A2%E6%B2%BB%E7%96%97&sa=fyb_news&rsv_dl=fyb_news)<br />
