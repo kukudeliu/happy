@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-16 09:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-16 09:57:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [曾举报拍黄瓜父子买人民币花束后投诉](https://s.weibo.com/weibo?q=%23%E6%9B%BE%E4%B8%BE%E6%8A%A5%E6%8B%8D%E9%BB%84%E7%93%9C%E7%88%B6%E5%AD%90%E4%B9%B0%E4%BA%BA%E6%B0%91%E5%B8%81%E8%8A%B1%E6%9D%9F%E5%90%8E%E6%8A%95%E8%AF%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [禁毒烈士妹妹追着毒贩跃入深沟](https://s.weibo.com/weibo?q=%23%E7%A6%81%E6%AF%92%E7%83%88%E5%A3%AB%E5%A6%B9%E5%A6%B9%E8%BF%BD%E7%9D%80%E6%AF%92%E8%B4%A9%E8%B7%83%E5%85%A5%E6%B7%B1%E6%B2%9F%23&t=31&band_rank=7&Refer=top)<br />
 8. [到底都是什么人在外面旅游啊](https://s.weibo.com/weibo?q=%23%E5%88%B0%E5%BA%95%E9%83%BD%E6%98%AF%E4%BB%80%E4%B9%88%E4%BA%BA%E5%9C%A8%E5%A4%96%E9%9D%A2%E6%97%85%E6%B8%B8%E5%95%8A%23&t=31&band_rank=8&Refer=top)<br />
-9. [周杰伦日](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%97%A5%23&t=31&band_rank=9&Refer=top)<br />
+9. [许沁地震中为去世孕妇接生](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%B2%81%E5%9C%B0%E9%9C%87%E4%B8%AD%E4%B8%BA%E5%8E%BB%E4%B8%96%E5%AD%95%E5%A6%87%E6%8E%A5%E7%94%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
