@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-16 09:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-16 09:37:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [杨澄出轨](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%BE%84%E5%87%BA%E8%BD%A8%23&t=31&band_rank=6&Refer=top)<br />
 7. [张杰回复杨超越](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E5%9B%9E%E5%A4%8D%E6%9D%A8%E8%B6%85%E8%B6%8A%23&t=31&band_rank=7&Refer=top)<br />
 8. [花花身高揭秘](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%8A%B1%E8%BA%AB%E9%AB%98%E6%8F%AD%E7%A7%98%23&t=31&band_rank=8&Refer=top)<br />
-9. [肖战片场背着任敏做深蹲](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%89%87%E5%9C%BA%E8%83%8C%E7%9D%80%E4%BB%BB%E6%95%8F%E5%81%9A%E6%B7%B1%E8%B9%B2%23&t=31&band_rank=9&Refer=top)<br />
+9. [好莱坞大罢工抵制AI入侵](https://s.weibo.com/weibo?q=%23%E5%A5%BD%E8%8E%B1%E5%9D%9E%E5%A4%A7%E7%BD%A2%E5%B7%A5%E6%8A%B5%E5%88%B6AI%E5%85%A5%E4%BE%B5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
