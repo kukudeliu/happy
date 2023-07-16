@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-16 12:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-16 12:39:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [米酵菌酸中毒病死率超50%](https://www.baidu.com/s?wd=%E7%B1%B3%E9%85%B5%E8%8F%8C%E9%85%B8%E4%B8%AD%E6%AF%92%E7%97%85%E6%AD%BB%E7%8E%87%E8%B6%8550%25&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [今年夏粮实现丰收](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E5%A4%8F%E7%B2%AE%E5%AE%9E%E7%8E%B0%E4%B8%B0%E6%94%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [禁毒烈士妹妹追着毒贩跃入深沟](https://www.baidu.com/s?wd=%E7%A6%81%E6%AF%92%E7%83%88%E5%A3%AB%E5%A6%B9%E5%A6%B9%E8%BF%BD%E7%9D%80%E6%AF%92%E8%B4%A9%E8%B7%83%E5%85%A5%E6%B7%B1%E6%B2%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [新娘回应0彩礼用52辆轮椅迎亲](https://www.baidu.com/s?wd=%E6%96%B0%E5%A8%98%E5%9B%9E%E5%BA%940%E5%BD%A9%E7%A4%BC%E7%94%A852%E8%BE%86%E8%BD%AE%E6%A4%85%E8%BF%8E%E4%BA%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [印度炼油商开始用人民币买俄油](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E7%82%BC%E6%B2%B9%E5%95%86%E5%BC%80%E5%A7%8B%E7%94%A8%E4%BA%BA%E6%B0%91%E5%B8%81%E4%B9%B0%E4%BF%84%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [母亲疑儿子被偷拍打伤女孩 警方回应](https://www.baidu.com/s?wd=%E6%AF%8D%E4%BA%B2%E7%96%91%E5%84%BF%E5%AD%90%E8%A2%AB%E5%81%B7%E6%8B%8D%E6%89%93%E4%BC%A4%E5%A5%B3%E5%AD%A9+%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [拜登暗示普里戈任有被下毒危险](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E6%9A%97%E7%A4%BA%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E6%9C%89%E8%A2%AB%E4%B8%8B%E6%AF%92%E5%8D%B1%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [新娘回应0彩礼用52辆轮椅迎亲](https://www.baidu.com/s?wd=%E6%96%B0%E5%A8%98%E5%9B%9E%E5%BA%940%E5%BD%A9%E7%A4%BC%E7%94%A852%E8%BE%86%E8%BD%AE%E6%A4%85%E8%BF%8E%E4%BA%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [喜欢睡觉的时候把手举过头顶](https://www.baidu.com/s?wd=%E5%96%9C%E6%AC%A2%E7%9D%A1%E8%A7%89%E7%9A%84%E6%97%B6%E5%80%99%E6%8A%8A%E6%89%8B%E4%B8%BE%E8%BF%87%E5%A4%B4%E9%A1%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [米酵菌酸中毒病死率超50%](https://www.baidu.com/s?wd=%E7%B1%B3%E9%85%B5%E8%8F%8C%E9%85%B8%E4%B8%AD%E6%AF%92%E7%97%85%E6%AD%BB%E7%8E%87%E8%B6%8550%25&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [今年夏粮实现丰收](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E5%A4%8F%E7%B2%AE%E5%AE%9E%E7%8E%B0%E4%B8%B0%E6%94%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [禁毒烈士妹妹追着毒贩跃入深沟](https://www.baidu.com/s?wd=%E7%A6%81%E6%AF%92%E7%83%88%E5%A3%AB%E5%A6%B9%E5%A6%B9%E8%BF%BD%E7%9D%80%E6%AF%92%E8%B4%A9%E8%B7%83%E5%85%A5%E6%B7%B1%E6%B2%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [新娘回应0彩礼用52辆轮椅迎亲](https://www.baidu.com/s?wd=%E6%96%B0%E5%A8%98%E5%9B%9E%E5%BA%940%E5%BD%A9%E7%A4%BC%E7%94%A852%E8%BE%86%E8%BD%AE%E6%A4%85%E8%BF%8E%E4%BA%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [印度炼油商开始用人民币买俄油](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E7%82%BC%E6%B2%B9%E5%95%86%E5%BC%80%E5%A7%8B%E7%94%A8%E4%BA%BA%E6%B0%91%E5%B8%81%E4%B9%B0%E4%BF%84%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [母亲疑儿子被偷拍打伤女孩 警方回应](https://www.baidu.com/s?wd=%E6%AF%8D%E4%BA%B2%E7%96%91%E5%84%BF%E5%AD%90%E8%A2%AB%E5%81%B7%E6%8B%8D%E6%89%93%E4%BC%A4%E5%A5%B3%E5%AD%A9+%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [拜登暗示普里戈任有被下毒危险](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E6%9A%97%E7%A4%BA%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E6%9C%89%E8%A2%AB%E4%B8%8B%E6%AF%92%E5%8D%B1%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [新娘回应0彩礼用52辆轮椅迎亲](https://www.baidu.com/s?wd=%E6%96%B0%E5%A8%98%E5%9B%9E%E5%BA%940%E5%BD%A9%E7%A4%BC%E7%94%A852%E8%BE%86%E8%BD%AE%E6%A4%85%E8%BF%8E%E4%BA%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [喜欢睡觉的时候把手举过头顶](https://www.baidu.com/s?wd=%E5%96%9C%E6%AC%A2%E7%9D%A1%E8%A7%89%E7%9A%84%E6%97%B6%E5%80%99%E6%8A%8A%E6%89%8B%E4%B8%BE%E8%BF%87%E5%A4%B4%E9%A1%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
