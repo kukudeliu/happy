@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-16 18:06:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-16 18:07:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [高铁站建而不用 官方：开通亏损严重](https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E7%AB%99%E5%BB%BA%E8%80%8C%E4%B8%8D%E7%94%A8+%E5%AE%98%E6%96%B9%EF%BC%9A%E5%BC%80%E9%80%9A%E4%BA%8F%E6%8D%9F%E4%B8%A5%E9%87%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [“贪吃蛇”吞下2只鹦鹉被困鸟笼](https://www.baidu.com/s?wd=%E2%80%9C%E8%B4%AA%E5%90%83%E8%9B%87%E2%80%9D%E5%90%9E%E4%B8%8B2%E5%8F%AA%E9%B9%A6%E9%B9%89%E8%A2%AB%E5%9B%B0%E9%B8%9F%E7%AC%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [以色列总理因脱水被送院治疗](https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E6%80%BB%E7%90%86%E5%9B%A0%E8%84%B1%E6%B0%B4%E8%A2%AB%E9%80%81%E9%99%A2%E6%B2%BB%E7%96%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [千万要小心收到的陌生快递](https://www.baidu.com/s?wd=%E5%8D%83%E4%B8%87%E8%A6%81%E5%B0%8F%E5%BF%83%E6%94%B6%E5%88%B0%E7%9A%84%E9%99%8C%E7%94%9F%E5%BF%AB%E9%80%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [“金融虎”爱题字但被指水平不高](https://www.baidu.com/s?wd=%E2%80%9C%E9%87%91%E8%9E%8D%E8%99%8E%E2%80%9D%E7%88%B1%E9%A2%98%E5%AD%97%E4%BD%86%E8%A2%AB%E6%8C%87%E6%B0%B4%E5%B9%B3%E4%B8%8D%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [“金融虎”爱题字但被指水平不高](https://www.baidu.com/s?wd=%E2%80%9C%E9%87%91%E8%9E%8D%E8%99%8E%E2%80%9D%E7%88%B1%E9%A2%98%E5%AD%97%E4%BD%86%E8%A2%AB%E6%8C%87%E6%B0%B4%E5%B9%B3%E4%B8%8D%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [千万要小心收到的陌生快递](https://www.baidu.com/s?wd=%E5%8D%83%E4%B8%87%E8%A6%81%E5%B0%8F%E5%BF%83%E6%94%B6%E5%88%B0%E7%9A%84%E9%99%8C%E7%94%9F%E5%BF%AB%E9%80%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [高铁站建而不用 官方：开通亏损严重](https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E7%AB%99%E5%BB%BA%E8%80%8C%E4%B8%8D%E7%94%A8+%E5%AE%98%E6%96%B9%EF%BC%9A%E5%BC%80%E9%80%9A%E4%BA%8F%E6%8D%9F%E4%B8%A5%E9%87%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [“贪吃蛇”吞下2只鹦鹉被困鸟笼](https://www.baidu.com/s?wd=%E2%80%9C%E8%B4%AA%E5%90%83%E8%9B%87%E2%80%9D%E5%90%9E%E4%B8%8B2%E5%8F%AA%E9%B9%A6%E9%B9%89%E8%A2%AB%E5%9B%B0%E9%B8%9F%E7%AC%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [以色列总理因脱水被送院治疗](https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E6%80%BB%E7%90%86%E5%9B%A0%E8%84%B1%E6%B0%B4%E8%A2%AB%E9%80%81%E9%99%A2%E6%B2%BB%E7%96%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [千万要小心收到的陌生快递](https://www.baidu.com/s?wd=%E5%8D%83%E4%B8%87%E8%A6%81%E5%B0%8F%E5%BF%83%E6%94%B6%E5%88%B0%E7%9A%84%E9%99%8C%E7%94%9F%E5%BF%AB%E9%80%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [“金融虎”爱题字但被指水平不高](https://www.baidu.com/s?wd=%E2%80%9C%E9%87%91%E8%9E%8D%E8%99%8E%E2%80%9D%E7%88%B1%E9%A2%98%E5%AD%97%E4%BD%86%E8%A2%AB%E6%8C%87%E6%B0%B4%E5%B9%B3%E4%B8%8D%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [“金融虎”爱题字但被指水平不高](https://www.baidu.com/s?wd=%E2%80%9C%E9%87%91%E8%9E%8D%E8%99%8E%E2%80%9D%E7%88%B1%E9%A2%98%E5%AD%97%E4%BD%86%E8%A2%AB%E6%8C%87%E6%B0%B4%E5%B9%B3%E4%B8%8D%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [千万要小心收到的陌生快递](https://www.baidu.com/s?wd=%E5%8D%83%E4%B8%87%E8%A6%81%E5%B0%8F%E5%BF%83%E6%94%B6%E5%88%B0%E7%9A%84%E9%99%8C%E7%94%9F%E5%BF%AB%E9%80%92&sa=fyb_news&rsv_dl=fyb_news)<br />
