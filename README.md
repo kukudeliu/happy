@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-16 14:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-16 14:54:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [谁给迪丽热巴做的妆发](https://s.weibo.com/weibo?q=%23%E8%B0%81%E7%BB%99%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%81%9A%E7%9A%84%E5%A6%86%E5%8F%91%23&t=31&band_rank=6&Refer=top)<br />
 7. [因为一个发夹被同事说不吉利](https://s.weibo.com/weibo?q=%23%E5%9B%A0%E4%B8%BA%E4%B8%80%E4%B8%AA%E5%8F%91%E5%A4%B9%E8%A2%AB%E5%90%8C%E4%BA%8B%E8%AF%B4%E4%B8%8D%E5%90%89%E5%88%A9%23&t=31&band_rank=7&Refer=top)<br />
 8. [重庆地铁被打女孩将走司法程序](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E5%9C%B0%E9%93%81%E8%A2%AB%E6%89%93%E5%A5%B3%E5%AD%A9%E5%B0%86%E8%B5%B0%E5%8F%B8%E6%B3%95%E7%A8%8B%E5%BA%8F%23&t=31&band_rank=8&Refer=top)<br />
-9. [有一个不太健康的习惯叫穷思竭虑](https://s.weibo.com/weibo?q=%E6%9C%89%E4%B8%80%E4%B8%AA%E4%B8%8D%E5%A4%AA%E5%81%A5%E5%BA%B7%E7%9A%84%E4%B9%A0%E6%83%AF%E5%8F%AB%E7%A9%B7%E6%80%9D%E7%AB%AD%E8%99%91&t=31&band_rank=9&Refer=top)<br />
+9. [台风](https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -23,9 +23,9 @@
 4. [今年夏粮实现丰收](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E5%A4%8F%E7%B2%AE%E5%AE%9E%E7%8E%B0%E4%B8%B0%E6%94%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [目击者称愿为重庆地铁被打女孩作证](https://www.baidu.com/s?wd=%E7%9B%AE%E5%87%BB%E8%80%85%E7%A7%B0%E6%84%BF%E4%B8%BA%E9%87%8D%E5%BA%86%E5%9C%B0%E9%93%81%E8%A2%AB%E6%89%93%E5%A5%B3%E5%AD%A9%E4%BD%9C%E8%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子撞坏3节护栏遭索赔1.5万](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%92%9E%E5%9D%8F3%E8%8A%82%E6%8A%A4%E6%A0%8F%E9%81%AD%E7%B4%A2%E8%B5%941.5%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [司机吐槽停车1小时收费1679元](https://www.baidu.com/s?wd=%E5%8F%B8%E6%9C%BA%E5%90%90%E6%A7%BD%E5%81%9C%E8%BD%A61%E5%B0%8F%E6%97%B6%E6%94%B6%E8%B4%B91679%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [禁毒烈士妹妹追着毒贩跃入深沟](https://www.baidu.com/s?wd=%E7%A6%81%E6%AF%92%E7%83%88%E5%A3%AB%E5%A6%B9%E5%A6%B9%E8%BF%BD%E7%9D%80%E6%AF%92%E8%B4%A9%E8%B7%83%E5%85%A5%E6%B7%B1%E6%B2%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [媒体评印度上映“抗中神剧”](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E5%8D%B0%E5%BA%A6%E4%B8%8A%E6%98%A0%E2%80%9C%E6%8A%97%E4%B8%AD%E7%A5%9E%E5%89%A7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [医院回应大楼外观像娱乐会所](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E5%A4%A7%E6%A5%BC%E5%A4%96%E8%A7%82%E5%83%8F%E5%A8%B1%E4%B9%90%E4%BC%9A%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [司机吐槽停车1小时收费1679元](https://www.baidu.com/s?wd=%E5%8F%B8%E6%9C%BA%E5%90%90%E6%A7%BD%E5%81%9C%E8%BD%A61%E5%B0%8F%E6%97%B6%E6%94%B6%E8%B4%B91679%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [新娘回应0彩礼用52辆轮椅迎亲](https://www.baidu.com/s?wd=%E6%96%B0%E5%A8%98%E5%9B%9E%E5%BA%940%E5%BD%A9%E7%A4%BC%E7%94%A852%E8%BE%86%E8%BD%AE%E6%A4%85%E8%BF%8E%E4%BA%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -35,6 +35,6 @@
 4. [今年夏粮实现丰收](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E5%A4%8F%E7%B2%AE%E5%AE%9E%E7%8E%B0%E4%B8%B0%E6%94%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [目击者称愿为重庆地铁被打女孩作证](https://www.baidu.com/s?wd=%E7%9B%AE%E5%87%BB%E8%80%85%E7%A7%B0%E6%84%BF%E4%B8%BA%E9%87%8D%E5%BA%86%E5%9C%B0%E9%93%81%E8%A2%AB%E6%89%93%E5%A5%B3%E5%AD%A9%E4%BD%9C%E8%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子撞坏3节护栏遭索赔1.5万](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%92%9E%E5%9D%8F3%E8%8A%82%E6%8A%A4%E6%A0%8F%E9%81%AD%E7%B4%A2%E8%B5%941.5%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [司机吐槽停车1小时收费1679元](https://www.baidu.com/s?wd=%E5%8F%B8%E6%9C%BA%E5%90%90%E6%A7%BD%E5%81%9C%E8%BD%A61%E5%B0%8F%E6%97%B6%E6%94%B6%E8%B4%B91679%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [禁毒烈士妹妹追着毒贩跃入深沟](https://www.baidu.com/s?wd=%E7%A6%81%E6%AF%92%E7%83%88%E5%A3%AB%E5%A6%B9%E5%A6%B9%E8%BF%BD%E7%9D%80%E6%AF%92%E8%B4%A9%E8%B7%83%E5%85%A5%E6%B7%B1%E6%B2%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [媒体评印度上映“抗中神剧”](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E5%8D%B0%E5%BA%A6%E4%B8%8A%E6%98%A0%E2%80%9C%E6%8A%97%E4%B8%AD%E7%A5%9E%E5%89%A7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [医院回应大楼外观像娱乐会所](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E5%A4%A7%E6%A5%BC%E5%A4%96%E8%A7%82%E5%83%8F%E5%A8%B1%E4%B9%90%E4%BC%9A%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [司机吐槽停车1小时收费1679元](https://www.baidu.com/s?wd=%E5%8F%B8%E6%9C%BA%E5%90%90%E6%A7%BD%E5%81%9C%E8%BD%A61%E5%B0%8F%E6%97%B6%E6%94%B6%E8%B4%B91679%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [新娘回应0彩礼用52辆轮椅迎亲](https://www.baidu.com/s?wd=%E6%96%B0%E5%A8%98%E5%9B%9E%E5%BA%940%E5%BD%A9%E7%A4%BC%E7%94%A852%E8%BE%86%E8%BD%AE%E6%A4%85%E8%BF%8E%E4%BA%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
