@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-16 13:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-16 13:55:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [有一个不太健康的习惯叫穷思竭虑](https://s.weibo.com/weibo?q=%E6%9C%89%E4%B8%80%E4%B8%AA%E4%B8%8D%E5%A4%AA%E5%81%A5%E5%BA%B7%E7%9A%84%E4%B9%A0%E6%83%AF%E5%8F%AB%E7%A9%B7%E6%80%9D%E7%AB%AD%E8%99%91&t=31&band_rank=5&Refer=top)<br />
 6. [重庆地铁被打女孩将走司法程序](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E5%9C%B0%E9%93%81%E8%A2%AB%E6%89%93%E5%A5%B3%E5%AD%A9%E5%B0%86%E8%B5%B0%E5%8F%B8%E6%B3%95%E7%A8%8B%E5%BA%8F%23&t=31&band_rank=6&Refer=top)<br />
 7. [Jennie称作为Kpop艺人出道被限制发展](https://s.weibo.com/weibo?q=%23Jennie%E7%A7%B0%E4%BD%9C%E4%B8%BAKpop%E8%89%BA%E4%BA%BA%E5%87%BA%E9%81%93%E8%A2%AB%E9%99%90%E5%88%B6%E5%8F%91%E5%B1%95%23&t=31&band_rank=7&Refer=top)<br />
-8. [肖战未来可能尝试幕后工作](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%9C%AA%E6%9D%A5%E5%8F%AF%E8%83%BD%E5%B0%9D%E8%AF%95%E5%B9%95%E5%90%8E%E5%B7%A5%E4%BD%9C%23&t=31&band_rank=8&Refer=top)<br />
-9. [在理发店洗头时不玩手机的客人](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E7%90%86%E5%8F%91%E5%BA%97%E6%B4%97%E5%A4%B4%E6%97%B6%E4%B8%8D%E7%8E%A9%E6%89%8B%E6%9C%BA%E7%9A%84%E5%AE%A2%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
+8. [张艺兴 我有一个特大的爆炸消息马上发布](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%89%BA%E5%85%B4%20%E6%88%91%E6%9C%89%E4%B8%80%E4%B8%AA%E7%89%B9%E5%A4%A7%E7%9A%84%E7%88%86%E7%82%B8%E6%B6%88%E6%81%AF%E9%A9%AC%E4%B8%8A%E5%8F%91%E5%B8%83&t=31&band_rank=8&Refer=top)<br />
+9. [肖战未来可能尝试幕后工作](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%9C%AA%E6%9D%A5%E5%8F%AF%E8%83%BD%E5%B0%9D%E8%AF%95%E5%B9%95%E5%90%8E%E5%B7%A5%E4%BD%9C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
