@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-16 14:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-16 14:43:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [张艺兴 我有一个特大的爆炸消息马上发布](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%89%BA%E5%85%B4%20%E6%88%91%E6%9C%89%E4%B8%80%E4%B8%AA%E7%89%B9%E5%A4%A7%E7%9A%84%E7%88%86%E7%82%B8%E6%B6%88%E6%81%AF%E9%A9%AC%E4%B8%8A%E5%8F%91%E5%B8%83&t=31&band_rank=4&Refer=top)<br />
 5. [魏大勋进入JYP的原因](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E8%BF%9B%E5%85%A5JYP%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=5&Refer=top)<br />
 6. [谁给迪丽热巴做的妆发](https://s.weibo.com/weibo?q=%23%E8%B0%81%E7%BB%99%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%81%9A%E7%9A%84%E5%A6%86%E5%8F%91%23&t=31&band_rank=6&Refer=top)<br />
-7. [大学生约嫖后拒绝发生关系仍被拘](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%BA%A6%E5%AB%96%E5%90%8E%E6%8B%92%E7%BB%9D%E5%8F%91%E7%94%9F%E5%85%B3%E7%B3%BB%E4%BB%8D%E8%A2%AB%E6%8B%98%23&t=31&band_rank=7&Refer=top)<br />
+7. [因为一个发夹被同事说不吉利](https://s.weibo.com/weibo?q=%23%E5%9B%A0%E4%B8%BA%E4%B8%80%E4%B8%AA%E5%8F%91%E5%A4%B9%E8%A2%AB%E5%90%8C%E4%BA%8B%E8%AF%B4%E4%B8%8D%E5%90%89%E5%88%A9%23&t=31&band_rank=7&Refer=top)<br />
 8. [重庆地铁被打女孩将走司法程序](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E5%9C%B0%E9%93%81%E8%A2%AB%E6%89%93%E5%A5%B3%E5%AD%A9%E5%B0%86%E8%B5%B0%E5%8F%B8%E6%B3%95%E7%A8%8B%E5%BA%8F%23&t=31&band_rank=8&Refer=top)<br />
-9. [有一个不太健康的习惯叫穷思竭虑](https://s.weibo.com/weibo?q=%E6%9C%89%E4%B8%80%E4%B8%AA%E4%B8%8D%E5%A4%AA%E5%81%A5%E5%BA%B7%E7%9A%84%E4%B9%A0%E6%83%AF%E5%8F%AB%E7%A9%B7%E6%80%9D%E7%AB%AD%E8%99%91&t=31&band_rank=9&Refer=top)<br />
+9. [大学生约嫖后拒绝发生关系仍被拘](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%BA%A6%E5%AB%96%E5%90%8E%E6%8B%92%E7%BB%9D%E5%8F%91%E7%94%9F%E5%85%B3%E7%B3%BB%E4%BB%8D%E8%A2%AB%E6%8B%98%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
