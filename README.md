@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-16 15:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-16 15:58:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [孟子义边哭边道歉](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E8%BE%B9%E5%93%AD%E8%BE%B9%E9%81%93%E6%AD%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [魏大勋进入JYP的原因](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E8%BF%9B%E5%85%A5JYP%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=7&Refer=top)<br />
 8. [台风](https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E&t=31&band_rank=8&Refer=top)<br />
-9. [因为一个发夹被同事说不吉利](https://s.weibo.com/weibo?q=%23%E5%9B%A0%E4%B8%BA%E4%B8%80%E4%B8%AA%E5%8F%91%E5%A4%B9%E8%A2%AB%E5%90%8C%E4%BA%8B%E8%AF%B4%E4%B8%8D%E5%90%89%E5%88%A9%23&t=31&band_rank=9&Refer=top)<br />
+9. [重庆地铁被打女孩将走司法程序](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E5%9C%B0%E9%93%81%E8%A2%AB%E6%89%93%E5%A5%B3%E5%AD%A9%E5%B0%86%E8%B5%B0%E5%8F%B8%E6%B3%95%E7%A8%8B%E5%BA%8F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,8 +24,8 @@
 5. [高铁站建而不用 官方：开通亏损严重](https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E7%AB%99%E5%BB%BA%E8%80%8C%E4%B8%8D%E7%94%A8+%E5%AE%98%E6%96%B9%EF%BC%9A%E5%BC%80%E9%80%9A%E4%BA%8F%E6%8D%9F%E4%B8%A5%E9%87%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [这张火遍全网照片背后的人塌房了](https://www.baidu.com/s?wd=%E8%BF%99%E5%BC%A0%E7%81%AB%E9%81%8D%E5%85%A8%E7%BD%91%E7%85%A7%E7%89%87%E8%83%8C%E5%90%8E%E7%9A%84%E4%BA%BA%E5%A1%8C%E6%88%BF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [四川一车辆从山崖滚落金沙江5人遇难](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E8%BD%A6%E8%BE%86%E4%BB%8E%E5%B1%B1%E5%B4%96%E6%BB%9A%E8%90%BD%E9%87%91%E6%B2%99%E6%B1%9F5%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [民营巨头迎36岁“二代”女掌门人](https://www.baidu.com/s?wd=%E6%B0%91%E8%90%A5%E5%B7%A8%E5%A4%B4%E8%BF%8E36%E5%B2%81%E2%80%9C%E4%BA%8C%E4%BB%A3%E2%80%9D%E5%A5%B3%E6%8E%8C%E9%97%A8%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [禁毒烈士妹妹追着毒贩跃入深沟](https://www.baidu.com/s?wd=%E7%A6%81%E6%AF%92%E7%83%88%E5%A3%AB%E5%A6%B9%E5%A6%B9%E8%BF%BD%E7%9D%80%E6%AF%92%E8%B4%A9%E8%B7%83%E5%85%A5%E6%B7%B1%E6%B2%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [禁毒烈士妹妹追着毒贩跃入深沟](https://www.baidu.com/s?wd=%E7%A6%81%E6%AF%92%E7%83%88%E5%A3%AB%E5%A6%B9%E5%A6%B9%E8%BF%BD%E7%9D%80%E6%AF%92%E8%B4%A9%E8%B7%83%E5%85%A5%E6%B7%B1%E6%B2%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [民营巨头迎36岁“二代”女掌门人](https://www.baidu.com/s?wd=%E6%B0%91%E8%90%A5%E5%B7%A8%E5%A4%B4%E8%BF%8E36%E5%B2%81%E2%80%9C%E4%BA%8C%E4%BB%A3%E2%80%9D%E5%A5%B3%E6%8E%8C%E9%97%A8%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [高铁站建而不用 官方：开通亏损严重](https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E7%AB%99%E5%BB%BA%E8%80%8C%E4%B8%8D%E7%94%A8+%E5%AE%98%E6%96%B9%EF%BC%9A%E5%BC%80%E9%80%9A%E4%BA%8F%E6%8D%9F%E4%B8%A5%E9%87%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [这张火遍全网照片背后的人塌房了](https://www.baidu.com/s?wd=%E8%BF%99%E5%BC%A0%E7%81%AB%E9%81%8D%E5%85%A8%E7%BD%91%E7%85%A7%E7%89%87%E8%83%8C%E5%90%8E%E7%9A%84%E4%BA%BA%E5%A1%8C%E6%88%BF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [四川一车辆从山崖滚落金沙江5人遇难](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E8%BD%A6%E8%BE%86%E4%BB%8E%E5%B1%B1%E5%B4%96%E6%BB%9A%E8%90%BD%E9%87%91%E6%B2%99%E6%B1%9F5%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [民营巨头迎36岁“二代”女掌门人](https://www.baidu.com/s?wd=%E6%B0%91%E8%90%A5%E5%B7%A8%E5%A4%B4%E8%BF%8E36%E5%B2%81%E2%80%9C%E4%BA%8C%E4%BB%A3%E2%80%9D%E5%A5%B3%E6%8E%8C%E9%97%A8%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [禁毒烈士妹妹追着毒贩跃入深沟](https://www.baidu.com/s?wd=%E7%A6%81%E6%AF%92%E7%83%88%E5%A3%AB%E5%A6%B9%E5%A6%B9%E8%BF%BD%E7%9D%80%E6%AF%92%E8%B4%A9%E8%B7%83%E5%85%A5%E6%B7%B1%E6%B2%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [禁毒烈士妹妹追着毒贩跃入深沟](https://www.baidu.com/s?wd=%E7%A6%81%E6%AF%92%E7%83%88%E5%A3%AB%E5%A6%B9%E5%A6%B9%E8%BF%BD%E7%9D%80%E6%AF%92%E8%B4%A9%E8%B7%83%E5%85%A5%E6%B7%B1%E6%B2%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [民营巨头迎36岁“二代”女掌门人](https://www.baidu.com/s?wd=%E6%B0%91%E8%90%A5%E5%B7%A8%E5%A4%B4%E8%BF%8E36%E5%B2%81%E2%80%9C%E4%BA%8C%E4%BB%A3%E2%80%9D%E5%A5%B3%E6%8E%8C%E9%97%A8%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
