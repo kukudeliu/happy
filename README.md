@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-16 19:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-16 20:00:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [高铁站建而不用 官方：开通亏损严重](https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E7%AB%99%E5%BB%BA%E8%80%8C%E4%B8%8D%E7%94%A8+%E5%AE%98%E6%96%B9%EF%BC%9A%E5%BC%80%E9%80%9A%E4%BA%8F%E6%8D%9F%E4%B8%A5%E9%87%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子找前妻复合未果打死对方 被刑拘](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%89%BE%E5%89%8D%E5%A6%BB%E5%A4%8D%E5%90%88%E6%9C%AA%E6%9E%9C%E6%89%93%E6%AD%BB%E5%AF%B9%E6%96%B9+%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [台风“泰利”逼近：广东电闪雷鸣](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E2%80%9C%E6%B3%B0%E5%88%A9%E2%80%9D%E9%80%BC%E8%BF%91%EF%BC%9A%E5%B9%BF%E4%B8%9C%E7%94%B5%E9%97%AA%E9%9B%B7%E9%B8%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [医院回应大楼外观像娱乐会所](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E5%A4%A7%E6%A5%BC%E5%A4%96%E8%A7%82%E5%83%8F%E5%A8%B1%E4%B9%90%E4%BC%9A%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [四川一车辆从山崖滚落金沙江5人遇难](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E8%BD%A6%E8%BE%86%E4%BB%8E%E5%B1%B1%E5%B4%96%E6%BB%9A%E8%90%BD%E9%87%91%E6%B2%99%E6%B1%9F5%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [这张火遍全网照片背后的人塌房了](https://www.baidu.com/s?wd=%E8%BF%99%E5%BC%A0%E7%81%AB%E9%81%8D%E5%85%A8%E7%BD%91%E7%85%A7%E7%89%87%E8%83%8C%E5%90%8E%E7%9A%84%E4%BA%BA%E5%A1%8C%E6%88%BF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [医院回应大楼外观像娱乐会所](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E5%A4%A7%E6%A5%BC%E5%A4%96%E8%A7%82%E5%83%8F%E5%A8%B1%E4%B9%90%E4%BC%9A%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [高铁站建而不用 官方：开通亏损严重](https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E7%AB%99%E5%BB%BA%E8%80%8C%E4%B8%8D%E7%94%A8+%E5%AE%98%E6%96%B9%EF%BC%9A%E5%BC%80%E9%80%9A%E4%BA%8F%E6%8D%9F%E4%B8%A5%E9%87%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子找前妻复合未果打死对方 被刑拘](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%89%BE%E5%89%8D%E5%A6%BB%E5%A4%8D%E5%90%88%E6%9C%AA%E6%9E%9C%E6%89%93%E6%AD%BB%E5%AF%B9%E6%96%B9+%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [台风“泰利”逼近：广东电闪雷鸣](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E2%80%9C%E6%B3%B0%E5%88%A9%E2%80%9D%E9%80%BC%E8%BF%91%EF%BC%9A%E5%B9%BF%E4%B8%9C%E7%94%B5%E9%97%AA%E9%9B%B7%E9%B8%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [医院回应大楼外观像娱乐会所](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E5%A4%A7%E6%A5%BC%E5%A4%96%E8%A7%82%E5%83%8F%E5%A8%B1%E4%B9%90%E4%BC%9A%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [四川一车辆从山崖滚落金沙江5人遇难](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E8%BD%A6%E8%BE%86%E4%BB%8E%E5%B1%B1%E5%B4%96%E6%BB%9A%E8%90%BD%E9%87%91%E6%B2%99%E6%B1%9F5%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [这张火遍全网照片背后的人塌房了](https://www.baidu.com/s?wd=%E8%BF%99%E5%BC%A0%E7%81%AB%E9%81%8D%E5%85%A8%E7%BD%91%E7%85%A7%E7%89%87%E8%83%8C%E5%90%8E%E7%9A%84%E4%BA%BA%E5%A1%8C%E6%88%BF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [医院回应大楼外观像娱乐会所](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E5%A4%A7%E6%A5%BC%E5%A4%96%E8%A7%82%E5%83%8F%E5%A8%B1%E4%B9%90%E4%BC%9A%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
