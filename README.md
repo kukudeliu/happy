@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-17 05:13:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-17 05:14:02</h4></div>
 
 > 微博  
 
@@ -23,9 +23,9 @@
 4. [携手共建地球生命共同体](https://www.baidu.com/s?wd=%E6%90%BA%E6%89%8B%E5%85%B1%E5%BB%BA%E5%9C%B0%E7%90%83%E7%94%9F%E5%91%BD%E5%85%B1%E5%90%8C%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子排队等升旗倒地睡着](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8E%92%E9%98%9F%E7%AD%89%E5%8D%87%E6%97%97%E5%80%92%E5%9C%B0%E7%9D%A1%E7%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [高铁站建而不用 官方：开通亏损严重](https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E7%AB%99%E5%BB%BA%E8%80%8C%E4%B8%8D%E7%94%A8+%E5%AE%98%E6%96%B9%EF%BC%9A%E5%BC%80%E9%80%9A%E4%BA%8F%E6%8D%9F%E4%B8%A5%E9%87%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [医院回应大楼外观像娱乐会所](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E5%A4%A7%E6%A5%BC%E5%A4%96%E8%A7%82%E5%83%8F%E5%A8%B1%E4%B9%90%E4%BC%9A%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [看一次病多次挂号费钱费时引争议](https://www.baidu.com/s?wd=%E7%9C%8B%E4%B8%80%E6%AC%A1%E7%97%85%E5%A4%9A%E6%AC%A1%E6%8C%82%E5%8F%B7%E8%B4%B9%E9%92%B1%E8%B4%B9%E6%97%B6%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [撒贝宁果然是央视显眼包](https://www.baidu.com/s?wd=%E6%92%92%E8%B4%9D%E5%AE%81%E6%9E%9C%E7%84%B6%E6%98%AF%E5%A4%AE%E8%A7%86%E6%98%BE%E7%9C%BC%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [看一次病多次挂号费钱费时引争议](https://www.baidu.com/s?wd=%E7%9C%8B%E4%B8%80%E6%AC%A1%E7%97%85%E5%A4%9A%E6%AC%A1%E6%8C%82%E5%8F%B7%E8%B4%B9%E9%92%B1%E8%B4%B9%E6%97%B6%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [医院回应大楼外观像娱乐会所](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E5%A4%A7%E6%A5%BC%E5%A4%96%E8%A7%82%E5%83%8F%E5%A8%B1%E4%B9%90%E4%BC%9A%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [司机吐槽停车1小时收费1679元](https://www.baidu.com/s?wd=%E5%8F%B8%E6%9C%BA%E5%90%90%E6%A7%BD%E5%81%9C%E8%BD%A61%E5%B0%8F%E6%97%B6%E6%94%B6%E8%B4%B91679%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -35,6 +35,6 @@
 4. [携手共建地球生命共同体](https://www.baidu.com/s?wd=%E6%90%BA%E6%89%8B%E5%85%B1%E5%BB%BA%E5%9C%B0%E7%90%83%E7%94%9F%E5%91%BD%E5%85%B1%E5%90%8C%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子排队等升旗倒地睡着](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8E%92%E9%98%9F%E7%AD%89%E5%8D%87%E6%97%97%E5%80%92%E5%9C%B0%E7%9D%A1%E7%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [高铁站建而不用 官方：开通亏损严重](https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E7%AB%99%E5%BB%BA%E8%80%8C%E4%B8%8D%E7%94%A8+%E5%AE%98%E6%96%B9%EF%BC%9A%E5%BC%80%E9%80%9A%E4%BA%8F%E6%8D%9F%E4%B8%A5%E9%87%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [医院回应大楼外观像娱乐会所](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E5%A4%A7%E6%A5%BC%E5%A4%96%E8%A7%82%E5%83%8F%E5%A8%B1%E4%B9%90%E4%BC%9A%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [看一次病多次挂号费钱费时引争议](https://www.baidu.com/s?wd=%E7%9C%8B%E4%B8%80%E6%AC%A1%E7%97%85%E5%A4%9A%E6%AC%A1%E6%8C%82%E5%8F%B7%E8%B4%B9%E9%92%B1%E8%B4%B9%E6%97%B6%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [撒贝宁果然是央视显眼包](https://www.baidu.com/s?wd=%E6%92%92%E8%B4%9D%E5%AE%81%E6%9E%9C%E7%84%B6%E6%98%AF%E5%A4%AE%E8%A7%86%E6%98%BE%E7%9C%BC%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [看一次病多次挂号费钱费时引争议](https://www.baidu.com/s?wd=%E7%9C%8B%E4%B8%80%E6%AC%A1%E7%97%85%E5%A4%9A%E6%AC%A1%E6%8C%82%E5%8F%B7%E8%B4%B9%E9%92%B1%E8%B4%B9%E6%97%B6%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [医院回应大楼外观像娱乐会所](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E5%A4%A7%E6%A5%BC%E5%A4%96%E8%A7%82%E5%83%8F%E5%A8%B1%E4%B9%90%E4%BC%9A%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [司机吐槽停车1小时收费1679元](https://www.baidu.com/s?wd=%E5%8F%B8%E6%9C%BA%E5%90%90%E6%A7%BD%E5%81%9C%E8%BD%A61%E5%B0%8F%E6%97%B6%E6%94%B6%E8%B4%B91679%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
