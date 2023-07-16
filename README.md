@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-16 18:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-16 18:47:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [八角笼中开拍前投资全撤了](https://s.weibo.com/weibo?q=%23%E5%85%AB%E8%A7%92%E7%AC%BC%E4%B8%AD%E5%BC%80%E6%8B%8D%E5%89%8D%E6%8A%95%E8%B5%84%E5%85%A8%E6%92%A4%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [孩子们骑车追送支教大学生](https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E4%BB%AC%E9%AA%91%E8%BD%A6%E8%BF%BD%E9%80%81%E6%94%AF%E6%95%99%E5%A4%A7%E5%AD%A6%E7%94%9F%23&t=31&band_rank=7&Refer=top)<br />
 8. [日本唯一的破产城市](https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%94%AF%E4%B8%80%E7%9A%84%E7%A0%B4%E4%BA%A7%E5%9F%8E%E5%B8%82&t=31&band_rank=8&Refer=top)<br />
-9. [最不想解散的内娱组合](https://s.weibo.com/weibo?q=%23%E6%9C%80%E4%B8%8D%E6%83%B3%E8%A7%A3%E6%95%A3%E7%9A%84%E5%86%85%E5%A8%B1%E7%BB%84%E5%90%88%23&t=31&band_rank=9&Refer=top)<br />
+9. [易烊千玺帮我扛下了所有压力](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%B8%AE%E6%88%91%E6%89%9B%E4%B8%8B%E4%BA%86%E6%89%80%E6%9C%89%E5%8E%8B%E5%8A%9B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
