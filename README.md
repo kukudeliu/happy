@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 07:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 07:39:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [直击台风泰利登陆广东湛江](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E5%8F%B0%E9%A3%8E%E6%B3%B0%E5%88%A9%E7%99%BB%E9%99%86%E5%B9%BF%E4%B8%9C%E6%B9%9B%E6%B1%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [群众反映学托泛滥 教育局要求撤下](https://www.baidu.com/s?wd=%E7%BE%A4%E4%BC%97%E5%8F%8D%E6%98%A0%E5%AD%A6%E6%89%98%E6%B3%9B%E6%BB%A5+%E6%95%99%E8%82%B2%E5%B1%80%E8%A6%81%E6%B1%82%E6%92%A4%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [福州暴雨市民窗边漂过一冰柜冰淇淋](https://www.baidu.com/s?wd=%E7%A6%8F%E5%B7%9E%E6%9A%B4%E9%9B%A8%E5%B8%82%E6%B0%91%E7%AA%97%E8%BE%B9%E6%BC%82%E8%BF%87%E4%B8%80%E5%86%B0%E6%9F%9C%E5%86%B0%E6%B7%87%E6%B7%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [北京市本科普通批录取投档线公布](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%B8%82%E6%9C%AC%E7%A7%91%E6%99%AE%E9%80%9A%E6%89%B9%E5%BD%95%E5%8F%96%E6%8A%95%E6%A1%A3%E7%BA%BF%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [17岁男孩喝水被迷晕遭持枪胁迫到缅北](https://www.baidu.com/s?wd=17%E5%B2%81%E7%94%B7%E5%AD%A9%E5%96%9D%E6%B0%B4%E8%A2%AB%E8%BF%B7%E6%99%95%E9%81%AD%E6%8C%81%E6%9E%AA%E8%83%81%E8%BF%AB%E5%88%B0%E7%BC%85%E5%8C%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [17岁男孩喝水被迷晕遭持枪胁迫到缅北](https://www.baidu.com/s?wd=17%E5%B2%81%E7%94%B7%E5%AD%A9%E5%96%9D%E6%B0%B4%E8%A2%AB%E8%BF%B7%E6%99%95%E9%81%AD%E6%8C%81%E6%9E%AA%E8%83%81%E8%BF%AB%E5%88%B0%E7%BC%85%E5%8C%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [人民文娱评蔡依林线上首唱会](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%96%87%E5%A8%B1%E8%AF%84%E8%94%A1%E4%BE%9D%E6%9E%97%E7%BA%BF%E4%B8%8A%E9%A6%96%E5%94%B1%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [直击台风泰利登陆广东湛江](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E5%8F%B0%E9%A3%8E%E6%B3%B0%E5%88%A9%E7%99%BB%E9%99%86%E5%B9%BF%E4%B8%9C%E6%B9%9B%E6%B1%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [群众反映学托泛滥 教育局要求撤下](https://www.baidu.com/s?wd=%E7%BE%A4%E4%BC%97%E5%8F%8D%E6%98%A0%E5%AD%A6%E6%89%98%E6%B3%9B%E6%BB%A5+%E6%95%99%E8%82%B2%E5%B1%80%E8%A6%81%E6%B1%82%E6%92%A4%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [福州暴雨市民窗边漂过一冰柜冰淇淋](https://www.baidu.com/s?wd=%E7%A6%8F%E5%B7%9E%E6%9A%B4%E9%9B%A8%E5%B8%82%E6%B0%91%E7%AA%97%E8%BE%B9%E6%BC%82%E8%BF%87%E4%B8%80%E5%86%B0%E6%9F%9C%E5%86%B0%E6%B7%87%E6%B7%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [北京市本科普通批录取投档线公布](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%B8%82%E6%9C%AC%E7%A7%91%E6%99%AE%E9%80%9A%E6%89%B9%E5%BD%95%E5%8F%96%E6%8A%95%E6%A1%A3%E7%BA%BF%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [17岁男孩喝水被迷晕遭持枪胁迫到缅北](https://www.baidu.com/s?wd=17%E5%B2%81%E7%94%B7%E5%AD%A9%E5%96%9D%E6%B0%B4%E8%A2%AB%E8%BF%B7%E6%99%95%E9%81%AD%E6%8C%81%E6%9E%AA%E8%83%81%E8%BF%AB%E5%88%B0%E7%BC%85%E5%8C%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [17岁男孩喝水被迷晕遭持枪胁迫到缅北](https://www.baidu.com/s?wd=17%E5%B2%81%E7%94%B7%E5%AD%A9%E5%96%9D%E6%B0%B4%E8%A2%AB%E8%BF%B7%E6%99%95%E9%81%AD%E6%8C%81%E6%9E%AA%E8%83%81%E8%BF%AB%E5%88%B0%E7%BC%85%E5%8C%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [人民文娱评蔡依林线上首唱会](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%96%87%E5%A8%B1%E8%AF%84%E8%94%A1%E4%BE%9D%E6%9E%97%E7%BA%BF%E4%B8%8A%E9%A6%96%E5%94%B1%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
