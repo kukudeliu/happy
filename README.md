@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-17 12:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-17 12:39:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [中学新生缴4千元买30件校服](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%AD%A6%E6%96%B0%E7%94%9F%E7%BC%B44%E5%8D%83%E5%85%83%E4%B9%B030%E4%BB%B6%E6%A0%A1%E6%9C%8D%23&t=31&band_rank=5&Refer=top)<br />
 6. [共用一张脸的明星](https://s.weibo.com/weibo?q=%23%E5%85%B1%E7%94%A8%E4%B8%80%E5%BC%A0%E8%84%B8%E7%9A%84%E6%98%8E%E6%98%9F%23&t=31&band_rank=6&Refer=top)<br />
 7. [孟宴臣存在过的证据](https://s.weibo.com/weibo?q=%E5%AD%9F%E5%AE%B4%E8%87%A3%E5%AD%98%E5%9C%A8%E8%BF%87%E7%9A%84%E8%AF%81%E6%8D%AE&t=31&band_rank=7&Refer=top)<br />
-8. [国内多个城市在TikTok爆火](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%86%85%E5%A4%9A%E4%B8%AA%E5%9F%8E%E5%B8%82%E5%9C%A8TikTok%E7%88%86%E7%81%AB%23&t=31&band_rank=8&Refer=top)<br />
-9. [普通家庭的家长不用刻意让孩子吃苦](https://s.weibo.com/weibo?q=%E6%99%AE%E9%80%9A%E5%AE%B6%E5%BA%AD%E7%9A%84%E5%AE%B6%E9%95%BF%E4%B8%8D%E7%94%A8%E5%88%BB%E6%84%8F%E8%AE%A9%E5%AD%A9%E5%AD%90%E5%90%83%E8%8B%A6&t=31&band_rank=9&Refer=top)<br />
+8. [普通家庭的家长不用刻意让孩子吃苦](https://s.weibo.com/weibo?q=%E6%99%AE%E9%80%9A%E5%AE%B6%E5%BA%AD%E7%9A%84%E5%AE%B6%E9%95%BF%E4%B8%8D%E7%94%A8%E5%88%BB%E6%84%8F%E8%AE%A9%E5%AD%A9%E5%AD%90%E5%90%83%E8%8B%A6&t=31&band_rank=8&Refer=top)<br />
+9. [国内多个城市在TikTok爆火](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%86%85%E5%A4%9A%E4%B8%AA%E5%9F%8E%E5%B8%82%E5%9C%A8TikTok%E7%88%86%E7%81%AB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
