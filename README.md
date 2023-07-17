@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-17 20:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-17 20:12:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [王子奇看自己和王楚然镜头的反应](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AD%90%E5%A5%87%E7%9C%8B%E8%87%AA%E5%B7%B1%E5%92%8C%E7%8E%8B%E6%A5%9A%E7%84%B6%E9%95%9C%E5%A4%B4%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=5&Refer=top)<br />
 6. [Uzi不交闪现](https://s.weibo.com/weibo?q=Uzi%E4%B8%8D%E4%BA%A4%E9%97%AA%E7%8E%B0&t=31&band_rank=6&Refer=top)<br />
 7. [这才是中国最没存在感的省](https://s.weibo.com/weibo?q=%E8%BF%99%E6%89%8D%E6%98%AF%E4%B8%AD%E5%9B%BD%E6%9C%80%E6%B2%A1%E5%AD%98%E5%9C%A8%E6%84%9F%E7%9A%84%E7%9C%81&t=31&band_rank=7&Refer=top)<br />
-8. [WBG对战EDG](https://s.weibo.com/weibo?q=WBG%E5%AF%B9%E6%88%98EDG&t=31&band_rank=8&Refer=top)<br />
-9. [种地吧开门大吉](https://s.weibo.com/weibo?q=%23%E7%A7%8D%E5%9C%B0%E5%90%A7%E5%BC%80%E9%97%A8%E5%A4%A7%E5%90%89%23&t=31&band_rank=9&Refer=top)<br />
+8. [种地吧开门大吉](https://s.weibo.com/weibo?q=%23%E7%A7%8D%E5%9C%B0%E5%90%A7%E5%BC%80%E9%97%A8%E5%A4%A7%E5%90%89%23&t=31&band_rank=8&Refer=top)<br />
+9. [WBG对战EDG](https://s.weibo.com/weibo?q=WBG%E5%AF%B9%E6%88%98EDG&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
