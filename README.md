@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-17 14:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-17 14:52:02</h4></div>
 
 > 微博  
 
@@ -20,7 +20,7 @@
 1. [奋力夯实粮食安全根基](https://www.baidu.com/s?wd=%E5%A5%8B%E5%8A%9B%E5%A4%AF%E5%AE%9E%E7%B2%AE%E9%A3%9F%E5%AE%89%E5%85%A8%E6%A0%B9%E5%9F%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [校服费4000元引争议 学校回应](https://www.baidu.com/s?wd=%E6%A0%A1%E6%9C%8D%E8%B4%B94000%E5%85%83%E5%BC%95%E4%BA%89%E8%AE%AE+%E5%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [福州一晚上闪电1797次](https://www.baidu.com/s?wd=%E7%A6%8F%E5%B7%9E%E4%B8%80%E6%99%9A%E4%B8%8A%E9%97%AA%E7%94%B51797%E6%AC%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [携手共建地球生命共同体](https://www.baidu.com/s?wd=%E6%90%BA%E6%89%8B%E5%85%B1%E5%BB%BA%E5%9C%B0%E7%90%83%E7%94%9F%E5%91%BD%E5%85%B1%E5%90%8C%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [建设人与自然和谐共生的现代化](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%BE%E4%BA%BA%E4%B8%8E%E8%87%AA%E7%84%B6%E5%92%8C%E8%B0%90%E5%85%B1%E7%94%9F%E7%9A%84%E7%8E%B0%E4%BB%A3%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中纪委曾点名垄断性国企近亲繁殖](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BA%AA%E5%A7%94%E6%9B%BE%E7%82%B9%E5%90%8D%E5%9E%84%E6%96%AD%E6%80%A7%E5%9B%BD%E4%BC%81%E8%BF%91%E4%BA%B2%E7%B9%81%E6%AE%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [现在的小区名越来越敢起了](https://www.baidu.com/s?wd=%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%B0%8F%E5%8C%BA%E5%90%8D%E8%B6%8A%E6%9D%A5%E8%B6%8A%E6%95%A2%E8%B5%B7%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男孩捡鞋溺亡 救援队：同伴多次扔鞋](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E6%8D%A1%E9%9E%8B%E6%BA%BA%E4%BA%A1+%E6%95%91%E6%8F%B4%E9%98%9F%EF%BC%9A%E5%90%8C%E4%BC%B4%E5%A4%9A%E6%AC%A1%E6%89%94%E9%9E%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -32,7 +32,7 @@
 1. [奋力夯实粮食安全根基](https://www.baidu.com/s?wd=%E5%A5%8B%E5%8A%9B%E5%A4%AF%E5%AE%9E%E7%B2%AE%E9%A3%9F%E5%AE%89%E5%85%A8%E6%A0%B9%E5%9F%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [校服费4000元引争议 学校回应](https://www.baidu.com/s?wd=%E6%A0%A1%E6%9C%8D%E8%B4%B94000%E5%85%83%E5%BC%95%E4%BA%89%E8%AE%AE+%E5%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [福州一晚上闪电1797次](https://www.baidu.com/s?wd=%E7%A6%8F%E5%B7%9E%E4%B8%80%E6%99%9A%E4%B8%8A%E9%97%AA%E7%94%B51797%E6%AC%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [携手共建地球生命共同体](https://www.baidu.com/s?wd=%E6%90%BA%E6%89%8B%E5%85%B1%E5%BB%BA%E5%9C%B0%E7%90%83%E7%94%9F%E5%91%BD%E5%85%B1%E5%90%8C%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [建设人与自然和谐共生的现代化](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%BE%E4%BA%BA%E4%B8%8E%E8%87%AA%E7%84%B6%E5%92%8C%E8%B0%90%E5%85%B1%E7%94%9F%E7%9A%84%E7%8E%B0%E4%BB%A3%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中纪委曾点名垄断性国企近亲繁殖](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BA%AA%E5%A7%94%E6%9B%BE%E7%82%B9%E5%90%8D%E5%9E%84%E6%96%AD%E6%80%A7%E5%9B%BD%E4%BC%81%E8%BF%91%E4%BA%B2%E7%B9%81%E6%AE%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [现在的小区名越来越敢起了](https://www.baidu.com/s?wd=%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%B0%8F%E5%8C%BA%E5%90%8D%E8%B6%8A%E6%9D%A5%E8%B6%8A%E6%95%A2%E8%B5%B7%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男孩捡鞋溺亡 救援队：同伴多次扔鞋](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E6%8D%A1%E9%9E%8B%E6%BA%BA%E4%BA%A1+%E6%95%91%E6%8F%B4%E9%98%9F%EF%BC%9A%E5%90%8C%E4%BC%B4%E5%A4%9A%E6%AC%A1%E6%89%94%E9%9E%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
