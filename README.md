@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-17 20:04:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-17 20:05:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [这才是中国最没存在感的省](https://s.weibo.com/weibo?q=%E8%BF%99%E6%89%8D%E6%98%AF%E4%B8%AD%E5%9B%BD%E6%9C%80%E6%B2%A1%E5%AD%98%E5%9C%A8%E6%84%9F%E7%9A%84%E7%9C%81&t=31&band_rank=6&Refer=top)<br />
 7. [WBG对战EDG](https://s.weibo.com/weibo?q=WBG%E5%AF%B9%E6%88%98EDG&t=31&band_rank=7&Refer=top)<br />
 8. [王宝强说我尊重观众尊重电影](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%9D%E5%BC%BA%E8%AF%B4%E6%88%91%E5%B0%8A%E9%87%8D%E8%A7%82%E4%BC%97%E5%B0%8A%E9%87%8D%E7%94%B5%E5%BD%B1%23&t=31&band_rank=8&Refer=top)<br />
-9. [丫丫吃的笋笋套着竹篓](https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E5%90%83%E7%9A%84%E7%AC%8B%E7%AC%8B%E5%A5%97%E7%9D%80%E7%AB%B9%E7%AF%93%23&t=31&band_rank=9&Refer=top)<br />
+9. [种地吧开门大吉](https://s.weibo.com/weibo?q=%23%E7%A7%8D%E5%9C%B0%E5%90%A7%E5%BC%80%E9%97%A8%E5%A4%A7%E5%90%89%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
