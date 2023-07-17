@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 05:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 05:14:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [印度客机因乘客手机爆炸紧急降落](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E5%AE%A2%E6%9C%BA%E5%9B%A0%E4%B9%98%E5%AE%A2%E6%89%8B%E6%9C%BA%E7%88%86%E7%82%B8%E7%B4%A7%E6%80%A5%E9%99%8D%E8%90%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [QQ号3个月未登录可能被回收](https://www.baidu.com/s?wd=QQ%E5%8F%B73%E4%B8%AA%E6%9C%88%E6%9C%AA%E7%99%BB%E5%BD%95%E5%8F%AF%E8%83%BD%E8%A2%AB%E5%9B%9E%E6%94%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [教育局回应校服费4000多元:立即整改](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E6%A0%A1%E6%9C%8D%E8%B4%B94000%E5%A4%9A%E5%85%83%3A%E7%AB%8B%E5%8D%B3%E6%95%B4%E6%94%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子看监控发现男友虐狗果断分手](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%9C%8B%E7%9B%91%E6%8E%A7%E5%8F%91%E7%8E%B0%E7%94%B7%E5%8F%8B%E8%99%90%E7%8B%97%E6%9E%9C%E6%96%AD%E5%88%86%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男孩两闯女更衣室 健身房：找妈](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E4%B8%A4%E9%97%AF%E5%A5%B3%E6%9B%B4%E8%A1%A3%E5%AE%A4+%E5%81%A5%E8%BA%AB%E6%88%BF%EF%BC%9A%E6%89%BE%E5%A6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [海关查获10只活体巨人蜈蚣](https://www.baidu.com/s?wd=%E6%B5%B7%E5%85%B3%E6%9F%A5%E8%8E%B710%E5%8F%AA%E6%B4%BB%E4%BD%93%E5%B7%A8%E4%BA%BA%E8%9C%88%E8%9A%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子深夜回家发现门禁自己输密码](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%B7%B1%E5%A4%9C%E5%9B%9E%E5%AE%B6%E5%8F%91%E7%8E%B0%E9%97%A8%E7%A6%81%E8%87%AA%E5%B7%B1%E8%BE%93%E5%AF%86%E7%A0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [印度客机因乘客手机爆炸紧急降落](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E5%AE%A2%E6%9C%BA%E5%9B%A0%E4%B9%98%E5%AE%A2%E6%89%8B%E6%9C%BA%E7%88%86%E7%82%B8%E7%B4%A7%E6%80%A5%E9%99%8D%E8%90%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [QQ号3个月未登录可能被回收](https://www.baidu.com/s?wd=QQ%E5%8F%B73%E4%B8%AA%E6%9C%88%E6%9C%AA%E7%99%BB%E5%BD%95%E5%8F%AF%E8%83%BD%E8%A2%AB%E5%9B%9E%E6%94%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [教育局回应校服费4000多元:立即整改](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E6%A0%A1%E6%9C%8D%E8%B4%B94000%E5%A4%9A%E5%85%83%3A%E7%AB%8B%E5%8D%B3%E6%95%B4%E6%94%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子看监控发现男友虐狗果断分手](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%9C%8B%E7%9B%91%E6%8E%A7%E5%8F%91%E7%8E%B0%E7%94%B7%E5%8F%8B%E8%99%90%E7%8B%97%E6%9E%9C%E6%96%AD%E5%88%86%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男孩两闯女更衣室 健身房：找妈](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E4%B8%A4%E9%97%AF%E5%A5%B3%E6%9B%B4%E8%A1%A3%E5%AE%A4+%E5%81%A5%E8%BA%AB%E6%88%BF%EF%BC%9A%E6%89%BE%E5%A6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [海关查获10只活体巨人蜈蚣](https://www.baidu.com/s?wd=%E6%B5%B7%E5%85%B3%E6%9F%A5%E8%8E%B710%E5%8F%AA%E6%B4%BB%E4%BD%93%E5%B7%A8%E4%BA%BA%E8%9C%88%E8%9A%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子深夜回家发现门禁自己输密码](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%B7%B1%E5%A4%9C%E5%9B%9E%E5%AE%B6%E5%8F%91%E7%8E%B0%E9%97%A8%E7%A6%81%E8%87%AA%E5%B7%B1%E8%BE%93%E5%AF%86%E7%A0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
