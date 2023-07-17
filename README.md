@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-17 16:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-17 16:40:01</h4></div>
 
 > 微博  
 
@@ -19,7 +19,7 @@
 
 1. [奋力夯实粮食安全根基](https://www.baidu.com/s?wd=%E5%A5%8B%E5%8A%9B%E5%A4%AF%E5%AE%9E%E7%B2%AE%E9%A3%9F%E5%AE%89%E5%85%A8%E6%A0%B9%E5%9F%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [男孩捡鞋溺亡 救援队：同伴多次扔鞋](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E6%8D%A1%E9%9E%8B%E6%BA%BA%E4%BA%A1+%E6%95%91%E6%8F%B4%E9%98%9F%EF%BC%9A%E5%90%8C%E4%BC%B4%E5%A4%9A%E6%AC%A1%E6%89%94%E9%9E%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [福州一晚上闪电1797次](https://www.baidu.com/s?wd=%E7%A6%8F%E5%B7%9E%E4%B8%80%E6%99%9A%E4%B8%8A%E9%97%AA%E7%94%B51797%E6%AC%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [扬州暴雨积水倒灌公交没过乘客大腿](https://www.baidu.com/s?wd=%E6%89%AC%E5%B7%9E%E6%9A%B4%E9%9B%A8%E7%A7%AF%E6%B0%B4%E5%80%92%E7%81%8C%E5%85%AC%E4%BA%A4%E6%B2%A1%E8%BF%87%E4%B9%98%E5%AE%A2%E5%A4%A7%E8%85%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [建设人与自然和谐共生的现代化](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%BE%E4%BA%BA%E4%B8%8E%E8%87%AA%E7%84%B6%E5%92%8C%E8%B0%90%E5%85%B1%E7%94%9F%E7%9A%84%E7%8E%B0%E4%BB%A3%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [马斯克：如果阿斯巴甜致癌我早死了](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E5%A6%82%E6%9E%9C%E9%98%BF%E6%96%AF%E5%B7%B4%E7%94%9C%E8%87%B4%E7%99%8C%E6%88%91%E6%97%A9%E6%AD%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [美容院集体喊口号让原配变小三](https://www.baidu.com/s?wd=%E7%BE%8E%E5%AE%B9%E9%99%A2%E9%9B%86%E4%BD%93%E5%96%8A%E5%8F%A3%E5%8F%B7%E8%AE%A9%E5%8E%9F%E9%85%8D%E5%8F%98%E5%B0%8F%E4%B8%89&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -31,7 +31,7 @@
 
 1. [奋力夯实粮食安全根基](https://www.baidu.com/s?wd=%E5%A5%8B%E5%8A%9B%E5%A4%AF%E5%AE%9E%E7%B2%AE%E9%A3%9F%E5%AE%89%E5%85%A8%E6%A0%B9%E5%9F%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [男孩捡鞋溺亡 救援队：同伴多次扔鞋](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E6%8D%A1%E9%9E%8B%E6%BA%BA%E4%BA%A1+%E6%95%91%E6%8F%B4%E9%98%9F%EF%BC%9A%E5%90%8C%E4%BC%B4%E5%A4%9A%E6%AC%A1%E6%89%94%E9%9E%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [福州一晚上闪电1797次](https://www.baidu.com/s?wd=%E7%A6%8F%E5%B7%9E%E4%B8%80%E6%99%9A%E4%B8%8A%E9%97%AA%E7%94%B51797%E6%AC%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [扬州暴雨积水倒灌公交没过乘客大腿](https://www.baidu.com/s?wd=%E6%89%AC%E5%B7%9E%E6%9A%B4%E9%9B%A8%E7%A7%AF%E6%B0%B4%E5%80%92%E7%81%8C%E5%85%AC%E4%BA%A4%E6%B2%A1%E8%BF%87%E4%B9%98%E5%AE%A2%E5%A4%A7%E8%85%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [建设人与自然和谐共生的现代化](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%BE%E4%BA%BA%E4%B8%8E%E8%87%AA%E7%84%B6%E5%92%8C%E8%B0%90%E5%85%B1%E7%94%9F%E7%9A%84%E7%8E%B0%E4%BB%A3%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [马斯克：如果阿斯巴甜致癌我早死了](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E5%A6%82%E6%9E%9C%E9%98%BF%E6%96%AF%E5%B7%B4%E7%94%9C%E8%87%B4%E7%99%8C%E6%88%91%E6%97%A9%E6%AD%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [美容院集体喊口号让原配变小三](https://www.baidu.com/s?wd=%E7%BE%8E%E5%AE%B9%E9%99%A2%E9%9B%86%E4%BD%93%E5%96%8A%E5%8F%A3%E5%8F%B7%E8%AE%A9%E5%8E%9F%E9%85%8D%E5%8F%98%E5%B0%8F%E4%B8%89&sa=fyb_news&rsv_dl=fyb_news)<br />
