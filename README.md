@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-17 13:13:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-17 13:14:02</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [不叫“中科院” 中国科学院简称修订](https://www.baidu.com/s?wd=%E4%B8%8D%E5%8F%AB%E2%80%9C%E4%B8%AD%E7%A7%91%E9%99%A2%E2%80%9D+%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E9%99%A2%E7%AE%80%E7%A7%B0%E4%BF%AE%E8%AE%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [校服费4000元引争议 学校回应](https://www.baidu.com/s?wd=%E6%A0%A1%E6%9C%8D%E8%B4%B94000%E5%85%83%E5%BC%95%E4%BA%89%E8%AE%AE+%E5%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [AI画的夏日少女 真的美哭了](https://www.baidu.com/s?wd=AI%E7%94%BB%E7%9A%84%E5%A4%8F%E6%97%A5%E5%B0%91%E5%A5%B3+%E7%9C%9F%E7%9A%84%E7%BE%8E%E5%93%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [广西一17岁少年发现新物种](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E4%B8%8017%E5%B2%81%E5%B0%91%E5%B9%B4%E5%8F%91%E7%8E%B0%E6%96%B0%E7%89%A9%E7%A7%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子深夜回家发现门禁自己输密码](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%B7%B1%E5%A4%9C%E5%9B%9E%E5%AE%B6%E5%8F%91%E7%8E%B0%E9%97%A8%E7%A6%81%E8%87%AA%E5%B7%B1%E8%BE%93%E5%AF%86%E7%A0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [不叫“中科院” 中国科学院简称修订](https://www.baidu.com/s?wd=%E4%B8%8D%E5%8F%AB%E2%80%9C%E4%B8%AD%E7%A7%91%E9%99%A2%E2%80%9D+%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E9%99%A2%E7%AE%80%E7%A7%B0%E4%BF%AE%E8%AE%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [校服费4000元引争议 学校回应](https://www.baidu.com/s?wd=%E6%A0%A1%E6%9C%8D%E8%B4%B94000%E5%85%83%E5%BC%95%E4%BA%89%E8%AE%AE+%E5%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [AI画的夏日少女 真的美哭了](https://www.baidu.com/s?wd=AI%E7%94%BB%E7%9A%84%E5%A4%8F%E6%97%A5%E5%B0%91%E5%A5%B3+%E7%9C%9F%E7%9A%84%E7%BE%8E%E5%93%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [广西一17岁少年发现新物种](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E4%B8%8017%E5%B2%81%E5%B0%91%E5%B9%B4%E5%8F%91%E7%8E%B0%E6%96%B0%E7%89%A9%E7%A7%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子深夜回家发现门禁自己输密码](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%B7%B1%E5%A4%9C%E5%9B%9E%E5%AE%B6%E5%8F%91%E7%8E%B0%E9%97%A8%E7%A6%81%E8%87%AA%E5%B7%B1%E8%BE%93%E5%AF%86%E7%A0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
