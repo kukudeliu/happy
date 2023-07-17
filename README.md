@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-17 21:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-17 21:27:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [海关查获10只活体巨人蜈蚣](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%85%B3%E6%9F%A5%E8%8E%B710%E5%8F%AA%E6%B4%BB%E4%BD%93%E5%B7%A8%E4%BA%BA%E8%9C%88%E8%9A%A3%23&t=31&band_rank=4&Refer=top)<br />
 5. [乘风成团夜](https://s.weibo.com/weibo?q=%E4%B9%98%E9%A3%8E%E6%88%90%E5%9B%A2%E5%A4%9C&t=31&band_rank=5&Refer=top)<br />
 6. [这个录取通知书真大](https://s.weibo.com/weibo?q=%E8%BF%99%E4%B8%AA%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E7%9C%9F%E5%A4%A7&t=31&band_rank=6&Refer=top)<br />
-7. [这才是中国最没存在感的省](https://s.weibo.com/weibo?q=%E8%BF%99%E6%89%8D%E6%98%AF%E4%B8%AD%E5%9B%BD%E6%9C%80%E6%B2%A1%E5%AD%98%E5%9C%A8%E6%84%9F%E7%9A%84%E7%9C%81&t=31&band_rank=7&Refer=top)<br />
-8. [新疆草原万马奔腾大片既视感](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E8%8D%89%E5%8E%9F%E4%B8%87%E9%A9%AC%E5%A5%94%E8%85%BE%E5%A4%A7%E7%89%87%E6%97%A2%E8%A7%86%E6%84%9F%23&t=31&band_rank=8&Refer=top)<br />
-9. [玉骨遥大结局](https://s.weibo.com/weibo?q=%E7%8E%89%E9%AA%A8%E9%81%A5%E5%A4%A7%E7%BB%93%E5%B1%80&t=31&band_rank=9&Refer=top)<br />
+7. [WBG战胜EDG](https://s.weibo.com/weibo?q=%23WBG%E6%88%98%E8%83%9CEDG%23&t=31&band_rank=7&Refer=top)<br />
+8. [玉骨遥大结局](https://s.weibo.com/weibo?q=%E7%8E%89%E9%AA%A8%E9%81%A5%E5%A4%A7%E7%BB%93%E5%B1%80&t=31&band_rank=8&Refer=top)<br />
+9. [这才是中国最没存在感的省](https://s.weibo.com/weibo?q=%E8%BF%99%E6%89%8D%E6%98%AF%E4%B8%AD%E5%9B%BD%E6%9C%80%E6%B2%A1%E5%AD%98%E5%9C%A8%E6%84%9F%E7%9A%84%E7%9C%81&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
