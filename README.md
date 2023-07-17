@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 04:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 04:42:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [B太和市场局局长一起逛市场](https://s.weibo.com/weibo?q=B%E5%A4%AA%E5%92%8C%E5%B8%82%E5%9C%BA%E5%B1%80%E5%B1%80%E9%95%BF%E4%B8%80%E8%B5%B7%E9%80%9B%E5%B8%82%E5%9C%BA&t=31&band_rank=6&Refer=top)<br />
 7. [十年果粉首次换到安卓是种什么体验](https://s.weibo.com/weibo?q=%E5%8D%81%E5%B9%B4%E6%9E%9C%E7%B2%89%E9%A6%96%E6%AC%A1%E6%8D%A2%E5%88%B0%E5%AE%89%E5%8D%93%E6%98%AF%E7%A7%8D%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C&t=31&band_rank=7&Refer=top)<br />
 8. [外国人说这就是吴京](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%9B%BD%E4%BA%BA%E8%AF%B4%E8%BF%99%E5%B0%B1%E6%98%AF%E5%90%B4%E4%BA%AC%23&t=31&band_rank=8&Refer=top)<br />
-9. [海关查获10只活体巨人蜈蚣](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%85%B3%E6%9F%A5%E8%8E%B710%E5%8F%AA%E6%B4%BB%E4%BD%93%E5%B7%A8%E4%BA%BA%E8%9C%88%E8%9A%A3%23&t=31&band_rank=9&Refer=top)<br />
+9. [张嘉元只看车不看吉娜](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%98%89%E5%85%83%E5%8F%AA%E7%9C%8B%E8%BD%A6%E4%B8%8D%E7%9C%8B%E5%90%89%E5%A8%9C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
