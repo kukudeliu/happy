@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 00:47:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 00:48:02</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [觉得infp很可怕](https://s.weibo.com/weibo?q=%E8%A7%89%E5%BE%97infp%E5%BE%88%E5%8F%AF%E6%80%95&t=31&band_rank=4&Refer=top)<br />
 5. [微信群发不雅信息3个群内文字不同](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E7%BE%A4%E5%8F%91%E4%B8%8D%E9%9B%85%E4%BF%A1%E6%81%AF3%E4%B8%AA%E7%BE%A4%E5%86%85%E6%96%87%E5%AD%97%E4%B8%8D%E5%90%8C%23&t=31&band_rank=5&Refer=top)<br />
 6. [B太和市场局局长一起逛市场](https://s.weibo.com/weibo?q=B%E5%A4%AA%E5%92%8C%E5%B8%82%E5%9C%BA%E5%B1%80%E5%B1%80%E9%95%BF%E4%B8%80%E8%B5%B7%E9%80%9B%E5%B8%82%E5%9C%BA&t=31&band_rank=6&Refer=top)<br />
-7. [玉骨遥点映礼没有王楚然](https://s.weibo.com/weibo?q=%23%E7%8E%89%E9%AA%A8%E9%81%A5%E7%82%B9%E6%98%A0%E7%A4%BC%E6%B2%A1%E6%9C%89%E7%8E%8B%E6%A5%9A%E7%84%B6%23&t=31&band_rank=7&Refer=top)<br />
-8. [父辈仇恨射下的箭 十年后正中他的眉心](https://s.weibo.com/weibo?q=%E7%88%B6%E8%BE%88%E4%BB%87%E6%81%A8%E5%B0%84%E4%B8%8B%E7%9A%84%E7%AE%AD%20%E5%8D%81%E5%B9%B4%E5%90%8E%E6%AD%A3%E4%B8%AD%E4%BB%96%E7%9A%84%E7%9C%89%E5%BF%83&t=31&band_rank=8&Refer=top)<br />
-9. [十年果粉首次换到安卓是种什么体验](https://s.weibo.com/weibo?q=%E5%8D%81%E5%B9%B4%E6%9E%9C%E7%B2%89%E9%A6%96%E6%AC%A1%E6%8D%A2%E5%88%B0%E5%AE%89%E5%8D%93%E6%98%AF%E7%A7%8D%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C&t=31&band_rank=9&Refer=top)<br />
+7. [父辈仇恨射下的箭 十年后正中他的眉心](https://s.weibo.com/weibo?q=%E7%88%B6%E8%BE%88%E4%BB%87%E6%81%A8%E5%B0%84%E4%B8%8B%E7%9A%84%E7%AE%AD%20%E5%8D%81%E5%B9%B4%E5%90%8E%E6%AD%A3%E4%B8%AD%E4%BB%96%E7%9A%84%E7%9C%89%E5%BF%83&t=31&band_rank=7&Refer=top)<br />
+8. [玉骨遥点映礼没有王楚然](https://s.weibo.com/weibo?q=%23%E7%8E%89%E9%AA%A8%E9%81%A5%E7%82%B9%E6%98%A0%E7%A4%BC%E6%B2%A1%E6%9C%89%E7%8E%8B%E6%A5%9A%E7%84%B6%23&t=31&band_rank=8&Refer=top)<br />
+9. [乘风成团夜](https://s.weibo.com/weibo?q=%E4%B9%98%E9%A3%8E%E6%88%90%E5%9B%A2%E5%A4%9C&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
