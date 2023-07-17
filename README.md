@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 00:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 00:50:02</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [福州暴雨市民窗边漂过一冰柜冰淇淋](https://www.baidu.com/s?wd=%E7%A6%8F%E5%B7%9E%E6%9A%B4%E9%9B%A8%E5%B8%82%E6%B0%91%E7%AA%97%E8%BE%B9%E6%BC%82%E8%BF%87%E4%B8%80%E5%86%B0%E6%9F%9C%E5%86%B0%E6%B7%87%E6%B7%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子麻将馆内持刀行凶致1死1伤](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%BA%BB%E5%B0%86%E9%A6%86%E5%86%85%E6%8C%81%E5%88%80%E8%A1%8C%E5%87%B6%E8%87%B41%E6%AD%BB1%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [海关查获10只活体巨人蜈蚣](https://www.baidu.com/s?wd=%E6%B5%B7%E5%85%B3%E6%9F%A5%E8%8E%B710%E5%8F%AA%E6%B4%BB%E4%BD%93%E5%B7%A8%E4%BA%BA%E8%9C%88%E8%9A%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男孩两闯女更衣室 健身房：找妈](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E4%B8%A4%E9%97%AF%E5%A5%B3%E6%9B%B4%E8%A1%A3%E5%AE%A4+%E5%81%A5%E8%BA%AB%E6%88%BF%EF%BC%9A%E6%89%BE%E5%A6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子1次存1元占用银行窗口2小时](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%901%E6%AC%A1%E5%AD%981%E5%85%83%E5%8D%A0%E7%94%A8%E9%93%B6%E8%A1%8C%E7%AA%97%E5%8F%A32%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [福州暴雨市民窗边漂过一冰柜冰淇淋](https://www.baidu.com/s?wd=%E7%A6%8F%E5%B7%9E%E6%9A%B4%E9%9B%A8%E5%B8%82%E6%B0%91%E7%AA%97%E8%BE%B9%E6%BC%82%E8%BF%87%E4%B8%80%E5%86%B0%E6%9F%9C%E5%86%B0%E6%B7%87%E6%B7%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子麻将馆内持刀行凶致1死1伤](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%BA%BB%E5%B0%86%E9%A6%86%E5%86%85%E6%8C%81%E5%88%80%E8%A1%8C%E5%87%B6%E8%87%B41%E6%AD%BB1%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [海关查获10只活体巨人蜈蚣](https://www.baidu.com/s?wd=%E6%B5%B7%E5%85%B3%E6%9F%A5%E8%8E%B710%E5%8F%AA%E6%B4%BB%E4%BD%93%E5%B7%A8%E4%BA%BA%E8%9C%88%E8%9A%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男孩两闯女更衣室 健身房：找妈](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E4%B8%A4%E9%97%AF%E5%A5%B3%E6%9B%B4%E8%A1%A3%E5%AE%A4+%E5%81%A5%E8%BA%AB%E6%88%BF%EF%BC%9A%E6%89%BE%E5%A6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子1次存1元占用银行窗口2小时](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%901%E6%AC%A1%E5%AD%981%E5%85%83%E5%8D%A0%E7%94%A8%E9%93%B6%E8%A1%8C%E7%AA%97%E5%8F%A32%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
