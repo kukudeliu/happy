@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 07:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 07:49:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [运动员吐槽奥运奖牌2年成废铁](https://www.baidu.com/s?wd=%E8%BF%90%E5%8A%A8%E5%91%98%E5%90%90%E6%A7%BD%E5%A5%A5%E8%BF%90%E5%A5%96%E7%89%8C2%E5%B9%B4%E6%88%90%E5%BA%9F%E9%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [进化掉食欲的“白人饭”](https://www.baidu.com/s?wd=%E8%BF%9B%E5%8C%96%E6%8E%89%E9%A3%9F%E6%AC%B2%E7%9A%84%E2%80%9C%E7%99%BD%E4%BA%BA%E9%A5%AD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [《浪姐4》成团名单曝光](https://www.baidu.com/s?wd=%E3%80%8A%E6%B5%AA%E5%A7%904%E3%80%8B%E6%88%90%E5%9B%A2%E5%90%8D%E5%8D%95%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [福州暴雨市民窗边漂过一冰柜冰淇淋](https://www.baidu.com/s?wd=%E7%A6%8F%E5%B7%9E%E6%9A%B4%E9%9B%A8%E5%B8%82%E6%B0%91%E7%AA%97%E8%BE%B9%E6%BC%82%E8%BF%87%E4%B8%80%E5%86%B0%E6%9F%9C%E5%86%B0%E6%B7%87%E6%B7%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [今年首个红色山洪灾害预警发布](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E9%A6%96%E4%B8%AA%E7%BA%A2%E8%89%B2%E5%B1%B1%E6%B4%AA%E7%81%BE%E5%AE%B3%E9%A2%84%E8%AD%A6%E5%8F%91%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [运动员吐槽奥运奖牌2年成废铁](https://www.baidu.com/s?wd=%E8%BF%90%E5%8A%A8%E5%91%98%E5%90%90%E6%A7%BD%E5%A5%A5%E8%BF%90%E5%A5%96%E7%89%8C2%E5%B9%B4%E6%88%90%E5%BA%9F%E9%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [进化掉食欲的“白人饭”](https://www.baidu.com/s?wd=%E8%BF%9B%E5%8C%96%E6%8E%89%E9%A3%9F%E6%AC%B2%E7%9A%84%E2%80%9C%E7%99%BD%E4%BA%BA%E9%A5%AD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [《浪姐4》成团名单曝光](https://www.baidu.com/s?wd=%E3%80%8A%E6%B5%AA%E5%A7%904%E3%80%8B%E6%88%90%E5%9B%A2%E5%90%8D%E5%8D%95%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [福州暴雨市民窗边漂过一冰柜冰淇淋](https://www.baidu.com/s?wd=%E7%A6%8F%E5%B7%9E%E6%9A%B4%E9%9B%A8%E5%B8%82%E6%B0%91%E7%AA%97%E8%BE%B9%E6%BC%82%E8%BF%87%E4%B8%80%E5%86%B0%E6%9F%9C%E5%86%B0%E6%B7%87%E6%B7%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [今年首个红色山洪灾害预警发布](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E9%A6%96%E4%B8%AA%E7%BA%A2%E8%89%B2%E5%B1%B1%E6%B4%AA%E7%81%BE%E5%AE%B3%E9%A2%84%E8%AD%A6%E5%8F%91%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
