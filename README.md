@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-17 09:07:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-17 09:08:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [邓超Angelababy同框合影](https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85Angelababy%E5%90%8C%E6%A1%86%E5%90%88%E5%BD%B1%23&t=31&band_rank=5&Refer=top)<br />
 6. [拜登政府宣布取消390亿美元学生贷款债务](https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E5%8F%96%E6%B6%88390%E4%BA%BF%E7%BE%8E%E5%85%83%E5%AD%A6%E7%94%9F%E8%B4%B7%E6%AC%BE%E5%80%BA%E5%8A%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [原来天生白更不容易晒黑](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%A4%A9%E7%94%9F%E7%99%BD%E6%9B%B4%E4%B8%8D%E5%AE%B9%E6%98%93%E6%99%92%E9%BB%91%23&t=31&band_rank=7&Refer=top)<br />
-8. [长得像王鹤棣的猴子](https://s.weibo.com/weibo?q=%23%E9%95%BF%E5%BE%97%E5%83%8F%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%9A%84%E7%8C%B4%E5%AD%90%23&t=31&band_rank=8&Refer=top)<br />
-9. [台风](https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E&t=31&band_rank=9&Refer=top)<br />
+8. [台风](https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E&t=31&band_rank=8&Refer=top)<br />
+9. [长得像王鹤棣的猴子](https://s.weibo.com/weibo?q=%23%E9%95%BF%E5%BE%97%E5%83%8F%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%9A%84%E7%8C%B4%E5%AD%90%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
