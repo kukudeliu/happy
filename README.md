@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 20:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 20:11:01</h4></div>
 
 > 微博  
 
-1. [韩国网友让宋雨琦回国](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%BD%91%E5%8F%8B%E8%AE%A9%E5%AE%8B%E9%9B%A8%E7%90%A6%E5%9B%9E%E5%9B%BD%23&t=31&band_rank=1&Refer=top)<br />
-2. [微信注销了是这样子](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E6%B3%A8%E9%94%80%E4%BA%86%E6%98%AF%E8%BF%99%E6%A0%B7%E5%AD%90%23&t=31&band_rank=2&Refer=top)<br />
+1. [微信注销了是这样子](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E6%B3%A8%E9%94%80%E4%BA%86%E6%98%AF%E8%BF%99%E6%A0%B7%E5%AD%90%23&t=31&band_rank=1&Refer=top)<br />
+2. [韩国网友让宋雨琦回国](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%BD%91%E5%8F%8B%E8%AE%A9%E5%AE%8B%E9%9B%A8%E7%90%A6%E5%9B%9E%E5%9B%BD%23&t=31&band_rank=2&Refer=top)<br />
 3. [网络文明就在身边](https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E5%B0%B1%E5%9C%A8%E8%BA%AB%E8%BE%B9%23&t=31&band_rank=3&Refer=top)<br />
 4. [演唱会门票被弟弟撕掉了](https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E8%A2%AB%E5%BC%9F%E5%BC%9F%E6%92%95%E6%8E%89%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [刘诗诗什么时候演梦华录了](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E6%BC%94%E6%A2%A6%E5%8D%8E%E5%BD%95%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
