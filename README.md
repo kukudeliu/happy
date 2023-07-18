@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-19 03:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-19 03:53:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [印度爆发“西红柿之乱”](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E7%88%86%E5%8F%91%E2%80%9C%E8%A5%BF%E7%BA%A2%E6%9F%BF%E4%B9%8B%E4%B9%B1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [八角笼中的姐姐是王宝强的亲姐姐](https://www.baidu.com/s?wd=%E5%85%AB%E8%A7%92%E7%AC%BC%E4%B8%AD%E7%9A%84%E5%A7%90%E5%A7%90%E6%98%AF%E7%8E%8B%E5%AE%9D%E5%BC%BA%E7%9A%84%E4%BA%B2%E5%A7%90%E5%A7%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [一美国人自韩越界入朝 已被朝方逮捕](https://www.baidu.com/s?wd=%E4%B8%80%E7%BE%8E%E5%9B%BD%E4%BA%BA%E8%87%AA%E9%9F%A9%E8%B6%8A%E7%95%8C%E5%85%A5%E6%9C%9D+%E5%B7%B2%E8%A2%AB%E6%9C%9D%E6%96%B9%E9%80%AE%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中药材价格暴涨 有的涨十倍](https://www.baidu.com/s?wd=%E4%B8%AD%E8%8D%AF%E6%9D%90%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8+%E6%9C%89%E7%9A%84%E6%B6%A8%E5%8D%81%E5%80%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [谢娜罕见谈快本停播](https://www.baidu.com/s?wd=%E8%B0%A2%E5%A8%9C%E7%BD%95%E8%A7%81%E8%B0%88%E5%BF%AB%E6%9C%AC%E5%81%9C%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [印度爆发“西红柿之乱”](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E7%88%86%E5%8F%91%E2%80%9C%E8%A5%BF%E7%BA%A2%E6%9F%BF%E4%B9%8B%E4%B9%B1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [八角笼中的姐姐是王宝强的亲姐姐](https://www.baidu.com/s?wd=%E5%85%AB%E8%A7%92%E7%AC%BC%E4%B8%AD%E7%9A%84%E5%A7%90%E5%A7%90%E6%98%AF%E7%8E%8B%E5%AE%9D%E5%BC%BA%E7%9A%84%E4%BA%B2%E5%A7%90%E5%A7%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [一美国人自韩越界入朝 已被朝方逮捕](https://www.baidu.com/s?wd=%E4%B8%80%E7%BE%8E%E5%9B%BD%E4%BA%BA%E8%87%AA%E9%9F%A9%E8%B6%8A%E7%95%8C%E5%85%A5%E6%9C%9D+%E5%B7%B2%E8%A2%AB%E6%9C%9D%E6%96%B9%E9%80%AE%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中药材价格暴涨 有的涨十倍](https://www.baidu.com/s?wd=%E4%B8%AD%E8%8D%AF%E6%9D%90%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8+%E6%9C%89%E7%9A%84%E6%B6%A8%E5%8D%81%E5%80%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [谢娜罕见谈快本停播](https://www.baidu.com/s?wd=%E8%B0%A2%E5%A8%9C%E7%BD%95%E8%A7%81%E8%B0%88%E5%BF%AB%E6%9C%AC%E5%81%9C%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
