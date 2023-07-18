@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 13:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 13:44:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [周杰伦演唱会抢票](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E6%8A%A2%E7%A5%A8&t=31&band_rank=4&Refer=top)<br />
 5. [演员本人无法超越的角色](https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E6%9C%AC%E4%BA%BA%E6%97%A0%E6%B3%95%E8%B6%85%E8%B6%8A%E7%9A%84%E8%A7%92%E8%89%B2%23&t=31&band_rank=5&Refer=top)<br />
 6. [许沁被偷改的人生](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%B2%81%E8%A2%AB%E5%81%B7%E6%94%B9%E7%9A%84%E4%BA%BA%E7%94%9F%23&t=31&band_rank=6&Refer=top)<br />
-7. [女子不听劝暴雨后骑车过涵洞溺亡](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B8%8D%E5%90%AC%E5%8A%9D%E6%9A%B4%E9%9B%A8%E5%90%8E%E9%AA%91%E8%BD%A6%E8%BF%87%E6%B6%B5%E6%B4%9E%E6%BA%BA%E4%BA%A1%23&t=31&band_rank=7&Refer=top)<br />
-8. [苏醒曾因为榴莲跟女友分手](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%E6%9B%BE%E5%9B%A0%E4%B8%BA%E6%A6%B4%E8%8E%B2%E8%B7%9F%E5%A5%B3%E5%8F%8B%E5%88%86%E6%89%8B%23&t=31&band_rank=8&Refer=top)<br />
+7. [苏醒曾因为榴莲跟女友分手](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%E6%9B%BE%E5%9B%A0%E4%B8%BA%E6%A6%B4%E8%8E%B2%E8%B7%9F%E5%A5%B3%E5%8F%8B%E5%88%86%E6%89%8B%23&t=31&band_rank=7&Refer=top)<br />
+8. [女子不听劝暴雨后骑车过涵洞溺亡](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B8%8D%E5%90%AC%E5%8A%9D%E6%9A%B4%E9%9B%A8%E5%90%8E%E9%AA%91%E8%BD%A6%E8%BF%87%E6%B6%B5%E6%B4%9E%E6%BA%BA%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
 9. [成都现双太阳](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E7%8E%B0%E5%8F%8C%E5%A4%AA%E9%98%B3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -24,8 +24,8 @@
 5. [宋雨琦因说了中国台湾被韩网热议](https://www.baidu.com/s?wd=%E5%AE%8B%E9%9B%A8%E7%90%A6%E5%9B%A0%E8%AF%B4%E4%BA%86%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E8%A2%AB%E9%9F%A9%E7%BD%91%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [周杰伦演唱会抢票](https://www.baidu.com/s?wd=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E6%8A%A2%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子喝完冰镇绿豆汤诱发脑梗死](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%96%9D%E5%AE%8C%E5%86%B0%E9%95%87%E7%BB%BF%E8%B1%86%E6%B1%A4%E8%AF%B1%E5%8F%91%E8%84%91%E6%A2%97%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [3小时400元，谁在靠研学团捞金？](https://www.baidu.com/s?wd=3%E5%B0%8F%E6%97%B6400%E5%85%83%EF%BC%8C%E8%B0%81%E5%9C%A8%E9%9D%A0%E7%A0%94%E5%AD%A6%E5%9B%A2%E6%8D%9E%E9%87%91%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [一副眼镜动辄上千 谁在收割近视眼](https://www.baidu.com/s?wd=%E4%B8%80%E5%89%AF%E7%9C%BC%E9%95%9C%E5%8A%A8%E8%BE%84%E4%B8%8A%E5%8D%83+%E8%B0%81%E5%9C%A8%E6%94%B6%E5%89%B2%E8%BF%91%E8%A7%86%E7%9C%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [陈奕迅被歌迷喊话返场加唱](https://www.baidu.com/s?wd=%E9%99%88%E5%A5%95%E8%BF%85%E8%A2%AB%E6%AD%8C%E8%BF%B7%E5%96%8A%E8%AF%9D%E8%BF%94%E5%9C%BA%E5%8A%A0%E5%94%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [成都现双太阳](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E7%8E%B0%E5%8F%8C%E5%A4%AA%E9%98%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [宋雨琦因说了中国台湾被韩网热议](https://www.baidu.com/s?wd=%E5%AE%8B%E9%9B%A8%E7%90%A6%E5%9B%A0%E8%AF%B4%E4%BA%86%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E8%A2%AB%E9%9F%A9%E7%BD%91%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [周杰伦演唱会抢票](https://www.baidu.com/s?wd=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E6%8A%A2%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子喝完冰镇绿豆汤诱发脑梗死](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%96%9D%E5%AE%8C%E5%86%B0%E9%95%87%E7%BB%BF%E8%B1%86%E6%B1%A4%E8%AF%B1%E5%8F%91%E8%84%91%E6%A2%97%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [3小时400元，谁在靠研学团捞金？](https://www.baidu.com/s?wd=3%E5%B0%8F%E6%97%B6400%E5%85%83%EF%BC%8C%E8%B0%81%E5%9C%A8%E9%9D%A0%E7%A0%94%E5%AD%A6%E5%9B%A2%E6%8D%9E%E9%87%91%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [一副眼镜动辄上千 谁在收割近视眼](https://www.baidu.com/s?wd=%E4%B8%80%E5%89%AF%E7%9C%BC%E9%95%9C%E5%8A%A8%E8%BE%84%E4%B8%8A%E5%8D%83+%E8%B0%81%E5%9C%A8%E6%94%B6%E5%89%B2%E8%BF%91%E8%A7%86%E7%9C%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [陈奕迅被歌迷喊话返场加唱](https://www.baidu.com/s?wd=%E9%99%88%E5%A5%95%E8%BF%85%E8%A2%AB%E6%AD%8C%E8%BF%B7%E5%96%8A%E8%AF%9D%E8%BF%94%E5%9C%BA%E5%8A%A0%E5%94%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [成都现双太阳](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E7%8E%B0%E5%8F%8C%E5%A4%AA%E9%98%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
