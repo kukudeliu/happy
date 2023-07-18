@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 14:17:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 14:18:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [周杰伦演唱会抢票](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E6%8A%A2%E7%A5%A8&t=31&band_rank=4&Refer=top)<br />
 5. [孟宴臣一个眼神就让观众懂了](https://s.weibo.com/weibo?q=%E5%AD%9F%E5%AE%B4%E8%87%A3%E4%B8%80%E4%B8%AA%E7%9C%BC%E7%A5%9E%E5%B0%B1%E8%AE%A9%E8%A7%82%E4%BC%97%E6%87%82%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
 6. [英雄联盟](https://s.weibo.com/weibo?q=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F&t=31&band_rank=6&Refer=top)<br />
-7. [许沁被偷改的人生](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%B2%81%E8%A2%AB%E5%81%B7%E6%94%B9%E7%9A%84%E4%BA%BA%E7%94%9F%23&t=31&band_rank=7&Refer=top)<br />
-8. [大麦](https://s.weibo.com/weibo?q=%E5%A4%A7%E9%BA%A6&t=31&band_rank=8&Refer=top)<br />
-9. [女子不听劝暴雨后骑车过涵洞溺亡](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B8%8D%E5%90%AC%E5%8A%9D%E6%9A%B4%E9%9B%A8%E5%90%8E%E9%AA%91%E8%BD%A6%E8%BF%87%E6%B6%B5%E6%B4%9E%E6%BA%BA%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
+7. [大麦](https://s.weibo.com/weibo?q=%E5%A4%A7%E9%BA%A6&t=31&band_rank=7&Refer=top)<br />
+8. [A67773航班紧急备降昆明](https://s.weibo.com/weibo?q=%23A67773%E8%88%AA%E7%8F%AD%E7%B4%A7%E6%80%A5%E5%A4%87%E9%99%8D%E6%98%86%E6%98%8E%23&t=31&band_rank=8&Refer=top)<br />
+9. [许沁被偷改的人生](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%B2%81%E8%A2%AB%E5%81%B7%E6%94%B9%E7%9A%84%E4%BA%BA%E7%94%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
