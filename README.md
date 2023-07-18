@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 12:10:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 12:11:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [光与夜之恋](https://s.weibo.com/weibo?q=%E5%85%89%E4%B8%8E%E5%A4%9C%E4%B9%8B%E6%81%8B&t=31&band_rank=6&Refer=top)<br />
 7. [孟宴臣送个车子宋焰送个锤子](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AE%B4%E8%87%A3%E9%80%81%E4%B8%AA%E8%BD%A6%E5%AD%90%E5%AE%8B%E7%84%B0%E9%80%81%E4%B8%AA%E9%94%A4%E5%AD%90%23&t=31&band_rank=7&Refer=top)<br />
 8. [Ella 乘风总冠军](https://s.weibo.com/weibo?q=Ella%20%E4%B9%98%E9%A3%8E%E6%80%BB%E5%86%A0%E5%86%9B&t=31&band_rank=8&Refer=top)<br />
-9. [全红婵跳出全场首个10分](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E8%B7%B3%E5%87%BA%E5%85%A8%E5%9C%BA%E9%A6%96%E4%B8%AA10%E5%88%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [张杰晒蓉宝](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E6%99%92%E8%93%89%E5%AE%9D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
