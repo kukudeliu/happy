@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 13:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 13:13:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [苏醒说混内娱好不好的标志是见到杨迪](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%E8%AF%B4%E6%B7%B7%E5%86%85%E5%A8%B1%E5%A5%BD%E4%B8%8D%E5%A5%BD%E7%9A%84%E6%A0%87%E5%BF%97%E6%98%AF%E8%A7%81%E5%88%B0%E6%9D%A8%E8%BF%AA%23&t=31&band_rank=4&Refer=top)<br />
 5. [周杰伦演唱会抢票](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E6%8A%A2%E7%A5%A8&t=31&band_rank=5&Refer=top)<br />
 6. [大麦](https://s.weibo.com/weibo?q=%E5%A4%A7%E9%BA%A6&t=31&band_rank=6&Refer=top)<br />
-7. [女子不听劝暴雨后骑车过涵洞溺亡](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B8%8D%E5%90%AC%E5%8A%9D%E6%9A%B4%E9%9B%A8%E5%90%8E%E9%AA%91%E8%BD%A6%E8%BF%87%E6%B6%B5%E6%B4%9E%E6%BA%BA%E4%BA%A1%23&t=31&band_rank=7&Refer=top)<br />
-8. [孟宴臣送个车子宋焰送个锤子](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AE%B4%E8%87%A3%E9%80%81%E4%B8%AA%E8%BD%A6%E5%AD%90%E5%AE%8B%E7%84%B0%E9%80%81%E4%B8%AA%E9%94%A4%E5%AD%90%23&t=31&band_rank=8&Refer=top)<br />
+7. [孟宴臣送个车子宋焰送个锤子](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AE%B4%E8%87%A3%E9%80%81%E4%B8%AA%E8%BD%A6%E5%AD%90%E5%AE%8B%E7%84%B0%E9%80%81%E4%B8%AA%E9%94%A4%E5%AD%90%23&t=31&band_rank=7&Refer=top)<br />
+8. [女子不听劝暴雨后骑车过涵洞溺亡](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B8%8D%E5%90%AC%E5%8A%9D%E6%9A%B4%E9%9B%A8%E5%90%8E%E9%AA%91%E8%BD%A6%E8%BF%87%E6%B6%B5%E6%B4%9E%E6%BA%BA%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
 9. [张杰晒蓉宝](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E6%99%92%E8%93%89%E5%AE%9D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
