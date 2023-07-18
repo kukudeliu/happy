@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-19 07:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-19 07:04:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [印度爆发“西红柿之乱”](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E7%88%86%E5%8F%91%E2%80%9C%E8%A5%BF%E7%BA%A2%E6%9F%BF%E4%B9%8B%E4%B9%B1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [警方通报75岁男子按摩店死亡](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A575%E5%B2%81%E7%94%B7%E5%AD%90%E6%8C%89%E6%91%A9%E5%BA%97%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [网传西安中考回流生4万人 官方回应](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E8%A5%BF%E5%AE%89%E4%B8%AD%E8%80%83%E5%9B%9E%E6%B5%81%E7%94%9F4%E4%B8%87%E4%BA%BA+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [搜爆犬上下班反差](https://www.baidu.com/s?wd=%E6%90%9C%E7%88%86%E7%8A%AC%E4%B8%8A%E4%B8%8B%E7%8F%AD%E5%8F%8D%E5%B7%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [南航回应空姐为乘客撑伞避雨](https://www.baidu.com/s?wd=%E5%8D%97%E8%88%AA%E5%9B%9E%E5%BA%94%E7%A9%BA%E5%A7%90%E4%B8%BA%E4%B9%98%E5%AE%A2%E6%92%91%E4%BC%9E%E9%81%BF%E9%9B%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [印度爆发“西红柿之乱”](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E7%88%86%E5%8F%91%E2%80%9C%E8%A5%BF%E7%BA%A2%E6%9F%BF%E4%B9%8B%E4%B9%B1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [警方通报75岁男子按摩店死亡](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A575%E5%B2%81%E7%94%B7%E5%AD%90%E6%8C%89%E6%91%A9%E5%BA%97%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [网传西安中考回流生4万人 官方回应](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E8%A5%BF%E5%AE%89%E4%B8%AD%E8%80%83%E5%9B%9E%E6%B5%81%E7%94%9F4%E4%B8%87%E4%BA%BA+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [搜爆犬上下班反差](https://www.baidu.com/s?wd=%E6%90%9C%E7%88%86%E7%8A%AC%E4%B8%8A%E4%B8%8B%E7%8F%AD%E5%8F%8D%E5%B7%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [南航回应空姐为乘客撑伞避雨](https://www.baidu.com/s?wd=%E5%8D%97%E8%88%AA%E5%9B%9E%E5%BA%94%E7%A9%BA%E5%A7%90%E4%B8%BA%E4%B9%98%E5%AE%A2%E6%92%91%E4%BC%9E%E9%81%BF%E9%9B%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
