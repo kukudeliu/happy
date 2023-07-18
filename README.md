@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 08:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 08:42:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [Ella 乘风总冠军](https://s.weibo.com/weibo?q=Ella%20%E4%B9%98%E9%A3%8E%E6%80%BB%E5%86%A0%E5%86%9B&t=31&band_rank=5&Refer=top)<br />
 6. [觉得infp很可怕](https://s.weibo.com/weibo?q=%E8%A7%89%E5%BE%97infp%E5%BE%88%E5%8F%AF%E6%80%95&t=31&band_rank=6&Refer=top)<br />
 7. [B太和市场局局长一起逛市场](https://s.weibo.com/weibo?q=B%E5%A4%AA%E5%92%8C%E5%B8%82%E5%9C%BA%E5%B1%80%E5%B1%80%E9%95%BF%E4%B8%80%E8%B5%B7%E9%80%9B%E5%B8%82%E5%9C%BA&t=31&band_rank=7&Refer=top)<br />
-8. [十年果粉首次换到安卓是种什么体验](https://s.weibo.com/weibo?q=%E5%8D%81%E5%B9%B4%E6%9E%9C%E7%B2%89%E9%A6%96%E6%AC%A1%E6%8D%A2%E5%88%B0%E5%AE%89%E5%8D%93%E6%98%AF%E7%A7%8D%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C&t=31&band_rank=8&Refer=top)<br />
-9. [玉骨遥为什么没爆](https://s.weibo.com/weibo?q=%23%E7%8E%89%E9%AA%A8%E9%81%A5%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%A1%E7%88%86%23&t=31&band_rank=9&Refer=top)<br />
+8. [福州暴雨市民窗边漂过一冰柜冰淇淋](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%B7%9E%E6%9A%B4%E9%9B%A8%E5%B8%82%E6%B0%91%E7%AA%97%E8%BE%B9%E6%BC%82%E8%BF%87%E4%B8%80%E5%86%B0%E6%9F%9C%E5%86%B0%E6%B7%87%E6%B7%8B%23&t=31&band_rank=8&Refer=top)<br />
+9. [十年果粉首次换到安卓是种什么体验](https://s.weibo.com/weibo?q=%E5%8D%81%E5%B9%B4%E6%9E%9C%E7%B2%89%E9%A6%96%E6%AC%A1%E6%8D%A2%E5%88%B0%E5%AE%89%E5%8D%93%E6%98%AF%E7%A7%8D%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,8 +24,8 @@
 5. [食堂吃出避孕套？校方：鸭子眼球膜](https://www.baidu.com/s?wd=%E9%A3%9F%E5%A0%82%E5%90%83%E5%87%BA%E9%81%BF%E5%AD%95%E5%A5%97%EF%BC%9F%E6%A0%A1%E6%96%B9%EF%BC%9A%E9%B8%AD%E5%AD%90%E7%9C%BC%E7%90%83%E8%86%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [运动员吐槽奥运奖牌2年成废铁](https://www.baidu.com/s?wd=%E8%BF%90%E5%8A%A8%E5%91%98%E5%90%90%E6%A7%BD%E5%A5%A5%E8%BF%90%E5%A5%96%E7%89%8C2%E5%B9%B4%E6%88%90%E5%BA%9F%E9%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [一副眼镜动辄上千 谁在收割近视眼](https://www.baidu.com/s?wd=%E4%B8%80%E5%89%AF%E7%9C%BC%E9%95%9C%E5%8A%A8%E8%BE%84%E4%B8%8A%E5%8D%83+%E8%B0%81%E5%9C%A8%E6%94%B6%E5%89%B2%E8%BF%91%E8%A7%86%E7%9C%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子喝醉后打车5公里支付509元](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%96%9D%E9%86%89%E5%90%8E%E6%89%93%E8%BD%A65%E5%85%AC%E9%87%8C%E6%94%AF%E4%BB%98509%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [人民文娱评蔡依林线上首唱会](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%96%87%E5%A8%B1%E8%AF%84%E8%94%A1%E4%BE%9D%E6%9E%97%E7%BA%BF%E4%B8%8A%E9%A6%96%E5%94%B1%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [人民文娱评蔡依林线上首唱会](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%96%87%E5%A8%B1%E8%AF%84%E8%94%A1%E4%BE%9D%E6%9E%97%E7%BA%BF%E4%B8%8A%E9%A6%96%E5%94%B1%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [进化掉食欲的“白人饭”](https://www.baidu.com/s?wd=%E8%BF%9B%E5%8C%96%E6%8E%89%E9%A3%9F%E6%AC%B2%E7%9A%84%E2%80%9C%E7%99%BD%E4%BA%BA%E9%A5%AD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [食堂吃出避孕套？校方：鸭子眼球膜](https://www.baidu.com/s?wd=%E9%A3%9F%E5%A0%82%E5%90%83%E5%87%BA%E9%81%BF%E5%AD%95%E5%A5%97%EF%BC%9F%E6%A0%A1%E6%96%B9%EF%BC%9A%E9%B8%AD%E5%AD%90%E7%9C%BC%E7%90%83%E8%86%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [运动员吐槽奥运奖牌2年成废铁](https://www.baidu.com/s?wd=%E8%BF%90%E5%8A%A8%E5%91%98%E5%90%90%E6%A7%BD%E5%A5%A5%E8%BF%90%E5%A5%96%E7%89%8C2%E5%B9%B4%E6%88%90%E5%BA%9F%E9%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [一副眼镜动辄上千 谁在收割近视眼](https://www.baidu.com/s?wd=%E4%B8%80%E5%89%AF%E7%9C%BC%E9%95%9C%E5%8A%A8%E8%BE%84%E4%B8%8A%E5%8D%83+%E8%B0%81%E5%9C%A8%E6%94%B6%E5%89%B2%E8%BF%91%E8%A7%86%E7%9C%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子喝醉后打车5公里支付509元](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%96%9D%E9%86%89%E5%90%8E%E6%89%93%E8%BD%A65%E5%85%AC%E9%87%8C%E6%94%AF%E4%BB%98509%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [人民文娱评蔡依林线上首唱会](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%96%87%E5%A8%B1%E8%AF%84%E8%94%A1%E4%BE%9D%E6%9E%97%E7%BA%BF%E4%B8%8A%E9%A6%96%E5%94%B1%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [人民文娱评蔡依林线上首唱会](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%96%87%E5%A8%B1%E8%AF%84%E8%94%A1%E4%BE%9D%E6%9E%97%E7%BA%BF%E4%B8%8A%E9%A6%96%E5%94%B1%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [进化掉食欲的“白人饭”](https://www.baidu.com/s?wd=%E8%BF%9B%E5%8C%96%E6%8E%89%E9%A3%9F%E6%AC%B2%E7%9A%84%E2%80%9C%E7%99%BD%E4%BA%BA%E9%A5%AD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
