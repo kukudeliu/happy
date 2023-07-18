@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 09:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 09:15:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [乘风成团名单](https://s.weibo.com/weibo?q=%E4%B9%98%E9%A3%8E%E6%88%90%E5%9B%A2%E5%90%8D%E5%8D%95&t=31&band_rank=6&Refer=top)<br />
 7. [孟宴臣有了新皮肤](https://s.weibo.com/weibo?q=%E5%AD%9F%E5%AE%B4%E8%87%A3%E6%9C%89%E4%BA%86%E6%96%B0%E7%9A%AE%E8%82%A4&t=31&band_rank=7&Refer=top)<br />
 8. [曾可妮乘风卡位](https://s.weibo.com/weibo?q=%23%E6%9B%BE%E5%8F%AF%E5%A6%AE%E4%B9%98%E9%A3%8E%E5%8D%A1%E4%BD%8D%23&t=31&band_rank=8&Refer=top)<br />
-9. [觉得infp很可怕](https://s.weibo.com/weibo?q=%E8%A7%89%E5%BE%97infp%E5%BE%88%E5%8F%AF%E6%80%95&t=31&band_rank=9&Refer=top)<br />
+9. [男子婚后多次出轨妻子离婚获赔1万](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%A9%9A%E5%90%8E%E5%A4%9A%E6%AC%A1%E5%87%BA%E8%BD%A8%E5%A6%BB%E5%AD%90%E7%A6%BB%E5%A9%9A%E8%8E%B7%E8%B5%941%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
