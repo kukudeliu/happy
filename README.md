@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 15:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 15:37:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [周杰伦演唱会抢票](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E6%8A%A2%E7%A5%A8&t=31&band_rank=5&Refer=top)<br />
 6. [陈芋汐](https://s.weibo.com/weibo?q=%E9%99%88%E8%8A%8B%E6%B1%90&t=31&band_rank=6&Refer=top)<br />
 7. [美国芯片业集体呼吁美政府停止对华限制](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%8A%AF%E7%89%87%E4%B8%9A%E9%9B%86%E4%BD%93%E5%91%BC%E5%90%81%E7%BE%8E%E6%94%BF%E5%BA%9C%E5%81%9C%E6%AD%A2%E5%AF%B9%E5%8D%8E%E9%99%90%E5%88%B6%23&t=31&band_rank=7&Refer=top)<br />
-8. [孟宴臣一个眼神就让观众懂了](https://s.weibo.com/weibo?q=%E5%AD%9F%E5%AE%B4%E8%87%A3%E4%B8%80%E4%B8%AA%E7%9C%BC%E7%A5%9E%E5%B0%B1%E8%AE%A9%E8%A7%82%E4%BC%97%E6%87%82%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [肖战说最近在上课](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%AF%B4%E6%9C%80%E8%BF%91%E5%9C%A8%E4%B8%8A%E8%AF%BE%23&t=31&band_rank=9&Refer=top)<br />
+8. [麻辣烫里不能没有什么](https://s.weibo.com/weibo?q=%23%E9%BA%BB%E8%BE%A3%E7%83%AB%E9%87%8C%E4%B8%8D%E8%83%BD%E6%B2%A1%E6%9C%89%E4%BB%80%E4%B9%88%23&t=31&band_rank=8&Refer=top)<br />
+9. [孟宴臣一个眼神就让观众懂了](https://s.weibo.com/weibo?q=%E5%AD%9F%E5%AE%B4%E8%87%A3%E4%B8%80%E4%B8%AA%E7%9C%BC%E7%A5%9E%E5%B0%B1%E8%AE%A9%E8%A7%82%E4%BC%97%E6%87%82%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
