@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 19:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 19:34:01</h4></div>
 
 > 微博  
 
@@ -23,9 +23,9 @@
 4. [推动网络文明建设高质量发展](https://www.baidu.com/s?wd=%E6%8E%A8%E5%8A%A8%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E5%BB%BA%E8%AE%BE%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [人民网评“奶辣风”流行](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E2%80%9C%E5%A5%B6%E8%BE%A3%E9%A3%8E%E2%80%9D%E6%B5%81%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子跳轨被撞轧 警方：已无生命体征](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B7%B3%E8%BD%A8%E8%A2%AB%E6%92%9E%E8%BD%A7+%E8%AD%A6%E6%96%B9%EF%BC%9A%E5%B7%B2%E6%97%A0%E7%94%9F%E5%91%BD%E4%BD%93%E5%BE%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [美芯片巨头力阻对华芯片出口限制](https://www.baidu.com/s?wd=%E7%BE%8E%E8%8A%AF%E7%89%87%E5%B7%A8%E5%A4%B4%E5%8A%9B%E9%98%BB%E5%AF%B9%E5%8D%8E%E8%8A%AF%E7%89%87%E5%87%BA%E5%8F%A3%E9%99%90%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [罪犯转狱10多天后突然死亡](https://www.baidu.com/s?wd=%E7%BD%AA%E7%8A%AF%E8%BD%AC%E7%8B%B110%E5%A4%9A%E5%A4%A9%E5%90%8E%E7%AA%81%E7%84%B6%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中药材价格暴涨 有的涨十倍](https://www.baidu.com/s?wd=%E4%B8%AD%E8%8D%AF%E6%9D%90%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8+%E6%9C%89%E7%9A%84%E6%B6%A8%E5%8D%81%E5%80%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [罪犯转狱10多天后突然死亡](https://www.baidu.com/s?wd=%E7%BD%AA%E7%8A%AF%E8%BD%AC%E7%8B%B110%E5%A4%9A%E5%A4%A9%E5%90%8E%E7%AA%81%E7%84%B6%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中药材价格暴涨 有的涨十倍](https://www.baidu.com/s?wd=%E4%B8%AD%E8%8D%AF%E6%9D%90%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8+%E6%9C%89%E7%9A%84%E6%B6%A8%E5%8D%81%E5%80%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [旅客突发疾病 A67773航班紧急备降](https://www.baidu.com/s?wd=%E6%97%85%E5%AE%A2%E7%AA%81%E5%8F%91%E7%96%BE%E7%97%85+A67773%E8%88%AA%E7%8F%AD%E7%B4%A7%E6%80%A5%E5%A4%87%E9%99%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -35,6 +35,6 @@
 4. [推动网络文明建设高质量发展](https://www.baidu.com/s?wd=%E6%8E%A8%E5%8A%A8%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E5%BB%BA%E8%AE%BE%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [人民网评“奶辣风”流行](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E2%80%9C%E5%A5%B6%E8%BE%A3%E9%A3%8E%E2%80%9D%E6%B5%81%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子跳轨被撞轧 警方：已无生命体征](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B7%B3%E8%BD%A8%E8%A2%AB%E6%92%9E%E8%BD%A7+%E8%AD%A6%E6%96%B9%EF%BC%9A%E5%B7%B2%E6%97%A0%E7%94%9F%E5%91%BD%E4%BD%93%E5%BE%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [美芯片巨头力阻对华芯片出口限制](https://www.baidu.com/s?wd=%E7%BE%8E%E8%8A%AF%E7%89%87%E5%B7%A8%E5%A4%B4%E5%8A%9B%E9%98%BB%E5%AF%B9%E5%8D%8E%E8%8A%AF%E7%89%87%E5%87%BA%E5%8F%A3%E9%99%90%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [罪犯转狱10多天后突然死亡](https://www.baidu.com/s?wd=%E7%BD%AA%E7%8A%AF%E8%BD%AC%E7%8B%B110%E5%A4%9A%E5%A4%A9%E5%90%8E%E7%AA%81%E7%84%B6%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中药材价格暴涨 有的涨十倍](https://www.baidu.com/s?wd=%E4%B8%AD%E8%8D%AF%E6%9D%90%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8+%E6%9C%89%E7%9A%84%E6%B6%A8%E5%8D%81%E5%80%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [罪犯转狱10多天后突然死亡](https://www.baidu.com/s?wd=%E7%BD%AA%E7%8A%AF%E8%BD%AC%E7%8B%B110%E5%A4%9A%E5%A4%A9%E5%90%8E%E7%AA%81%E7%84%B6%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中药材价格暴涨 有的涨十倍](https://www.baidu.com/s?wd=%E4%B8%AD%E8%8D%AF%E6%9D%90%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8+%E6%9C%89%E7%9A%84%E6%B6%A8%E5%8D%81%E5%80%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [旅客突发疾病 A67773航班紧急备降](https://www.baidu.com/s?wd=%E6%97%85%E5%AE%A2%E7%AA%81%E5%8F%91%E7%96%BE%E7%97%85+A67773%E8%88%AA%E7%8F%AD%E7%B4%A7%E6%80%A5%E5%A4%87%E9%99%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
