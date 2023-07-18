@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-19 01:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-19 01:43:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [中国向缅甸出售武器？外交部回应](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%90%91%E7%BC%85%E7%94%B8%E5%87%BA%E5%94%AE%E6%AD%A6%E5%99%A8%EF%BC%9F%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [警方通报75岁男子按摩店死亡](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A575%E5%B2%81%E7%94%B7%E5%AD%90%E6%8C%89%E6%91%A9%E5%BA%97%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子推着瘫痪妻子徒步到西藏](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8E%A8%E7%9D%80%E7%98%AB%E7%97%AA%E5%A6%BB%E5%AD%90%E5%BE%92%E6%AD%A5%E5%88%B0%E8%A5%BF%E8%97%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [韩国网友让宋雨琦回国](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E7%BD%91%E5%8F%8B%E8%AE%A9%E5%AE%8B%E9%9B%A8%E7%90%A6%E5%9B%9E%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [中药材价格暴涨 有的涨十倍](https://www.baidu.com/s?wd=%E4%B8%AD%E8%8D%AF%E6%9D%90%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8+%E6%9C%89%E7%9A%84%E6%B6%A8%E5%8D%81%E5%80%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [中国向缅甸出售武器？外交部回应](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%90%91%E7%BC%85%E7%94%B8%E5%87%BA%E5%94%AE%E6%AD%A6%E5%99%A8%EF%BC%9F%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [警方通报75岁男子按摩店死亡](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A575%E5%B2%81%E7%94%B7%E5%AD%90%E6%8C%89%E6%91%A9%E5%BA%97%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子推着瘫痪妻子徒步到西藏](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8E%A8%E7%9D%80%E7%98%AB%E7%97%AA%E5%A6%BB%E5%AD%90%E5%BE%92%E6%AD%A5%E5%88%B0%E8%A5%BF%E8%97%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [韩国网友让宋雨琦回国](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E7%BD%91%E5%8F%8B%E8%AE%A9%E5%AE%8B%E9%9B%A8%E7%90%A6%E5%9B%9E%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [中药材价格暴涨 有的涨十倍](https://www.baidu.com/s?wd=%E4%B8%AD%E8%8D%AF%E6%9D%90%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8+%E6%9C%89%E7%9A%84%E6%B6%A8%E5%8D%81%E5%80%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
