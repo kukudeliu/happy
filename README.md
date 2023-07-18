@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 19:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 19:37:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [酒店双床房为什么只能住两人](https://s.weibo.com/weibo?q=%23%E9%85%92%E5%BA%97%E5%8F%8C%E5%BA%8A%E6%88%BF%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%AA%E8%83%BD%E4%BD%8F%E4%B8%A4%E4%BA%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [清华爸爸拍短视频做儿童知识科普](https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8D%8E%E7%88%B8%E7%88%B8%E6%8B%8D%E7%9F%AD%E8%A7%86%E9%A2%91%E5%81%9A%E5%84%BF%E7%AB%A5%E7%9F%A5%E8%AF%86%E7%A7%91%E6%99%AE%23&t=31&band_rank=7&Refer=top)<br />
 8. [刘诗诗什么时候演梦华录了](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E6%BC%94%E6%A2%A6%E5%8D%8E%E5%BD%95%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [腾讯视频](https://s.weibo.com/weibo?q=%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91&t=31&band_rank=9&Refer=top)<br />
+9. [微信注销了是这样子](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E6%B3%A8%E9%94%80%E4%BA%86%E6%98%AF%E8%BF%99%E6%A0%B7%E5%AD%90%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
