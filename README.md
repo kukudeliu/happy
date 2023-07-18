@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 20:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 20:09:02</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [人民网评“奶辣风”流行](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E2%80%9C%E5%A5%B6%E8%BE%A3%E9%A3%8E%E2%80%9D%E6%B5%81%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [肥胖者翠花 倒在毕不了业的减肥营](https://www.baidu.com/s?wd=%E8%82%A5%E8%83%96%E8%80%85%E7%BF%A0%E8%8A%B1+%E5%80%92%E5%9C%A8%E6%AF%95%E4%B8%8D%E4%BA%86%E4%B8%9A%E7%9A%84%E5%87%8F%E8%82%A5%E8%90%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [一美国人自韩越界入朝 已被朝方逮捕](https://www.baidu.com/s?wd=%E4%B8%80%E7%BE%8E%E5%9B%BD%E4%BA%BA%E8%87%AA%E9%9F%A9%E8%B6%8A%E7%95%8C%E5%85%A5%E6%9C%9D+%E5%B7%B2%E8%A2%AB%E6%9C%9D%E6%96%B9%E9%80%AE%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [“蓝白合”有谱了？柯文哲回应](https://www.baidu.com/s?wd=%E2%80%9C%E8%93%9D%E7%99%BD%E5%90%88%E2%80%9D%E6%9C%89%E8%B0%B1%E4%BA%86%EF%BC%9F%E6%9F%AF%E6%96%87%E5%93%B2%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [游客攀爬瀑布不慎从高处滑落](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E6%94%80%E7%88%AC%E7%80%91%E5%B8%83%E4%B8%8D%E6%85%8E%E4%BB%8E%E9%AB%98%E5%A4%84%E6%BB%91%E8%90%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [游客攀爬瀑布不慎从高处滑落](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E6%94%80%E7%88%AC%E7%80%91%E5%B8%83%E4%B8%8D%E6%85%8E%E4%BB%8E%E9%AB%98%E5%A4%84%E6%BB%91%E8%90%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [吐鲁番火焰山地表温度超80℃](https://www.baidu.com/s?wd=%E5%90%90%E9%B2%81%E7%95%AA%E7%81%AB%E7%84%B0%E5%B1%B1%E5%9C%B0%E8%A1%A8%E6%B8%A9%E5%BA%A6%E8%B6%8580%E2%84%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [人民网评“奶辣风”流行](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E2%80%9C%E5%A5%B6%E8%BE%A3%E9%A3%8E%E2%80%9D%E6%B5%81%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [肥胖者翠花 倒在毕不了业的减肥营](https://www.baidu.com/s?wd=%E8%82%A5%E8%83%96%E8%80%85%E7%BF%A0%E8%8A%B1+%E5%80%92%E5%9C%A8%E6%AF%95%E4%B8%8D%E4%BA%86%E4%B8%9A%E7%9A%84%E5%87%8F%E8%82%A5%E8%90%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [一美国人自韩越界入朝 已被朝方逮捕](https://www.baidu.com/s?wd=%E4%B8%80%E7%BE%8E%E5%9B%BD%E4%BA%BA%E8%87%AA%E9%9F%A9%E8%B6%8A%E7%95%8C%E5%85%A5%E6%9C%9D+%E5%B7%B2%E8%A2%AB%E6%9C%9D%E6%96%B9%E9%80%AE%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [“蓝白合”有谱了？柯文哲回应](https://www.baidu.com/s?wd=%E2%80%9C%E8%93%9D%E7%99%BD%E5%90%88%E2%80%9D%E6%9C%89%E8%B0%B1%E4%BA%86%EF%BC%9F%E6%9F%AF%E6%96%87%E5%93%B2%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [游客攀爬瀑布不慎从高处滑落](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E6%94%80%E7%88%AC%E7%80%91%E5%B8%83%E4%B8%8D%E6%85%8E%E4%BB%8E%E9%AB%98%E5%A4%84%E6%BB%91%E8%90%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [游客攀爬瀑布不慎从高处滑落](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E6%94%80%E7%88%AC%E7%80%91%E5%B8%83%E4%B8%8D%E6%85%8E%E4%BB%8E%E9%AB%98%E5%A4%84%E6%BB%91%E8%90%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [吐鲁番火焰山地表温度超80℃](https://www.baidu.com/s?wd=%E5%90%90%E9%B2%81%E7%95%AA%E7%81%AB%E7%84%B0%E5%B1%B1%E5%9C%B0%E8%A1%A8%E6%B8%A9%E5%BA%A6%E8%B6%8580%E2%84%83&sa=fyb_news&rsv_dl=fyb_news)<br />
