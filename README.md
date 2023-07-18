@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 22:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 22:19:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [印度爆发“西红柿之乱”](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E7%88%86%E5%8F%91%E2%80%9C%E8%A5%BF%E7%BA%A2%E6%9F%BF%E4%B9%8B%E4%B9%B1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [韩国网友让宋雨琦回国](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E7%BD%91%E5%8F%8B%E8%AE%A9%E5%AE%8B%E9%9B%A8%E7%90%A6%E5%9B%9E%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [网传西安中考回流生4万人 官方回应](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E8%A5%BF%E5%AE%89%E4%B8%AD%E8%80%83%E5%9B%9E%E6%B5%81%E7%94%9F4%E4%B8%87%E4%BA%BA+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子疑酒驾出车祸当街撒泼](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%96%91%E9%85%92%E9%A9%BE%E5%87%BA%E8%BD%A6%E7%A5%B8%E5%BD%93%E8%A1%97%E6%92%92%E6%B3%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [郑州教育局：对爆粗口官员严厉批评](https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E6%95%99%E8%82%B2%E5%B1%80%EF%BC%9A%E5%AF%B9%E7%88%86%E7%B2%97%E5%8F%A3%E5%AE%98%E5%91%98%E4%B8%A5%E5%8E%89%E6%89%B9%E8%AF%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [印度爆发“西红柿之乱”](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E7%88%86%E5%8F%91%E2%80%9C%E8%A5%BF%E7%BA%A2%E6%9F%BF%E4%B9%8B%E4%B9%B1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [韩国网友让宋雨琦回国](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E7%BD%91%E5%8F%8B%E8%AE%A9%E5%AE%8B%E9%9B%A8%E7%90%A6%E5%9B%9E%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [网传西安中考回流生4万人 官方回应](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E8%A5%BF%E5%AE%89%E4%B8%AD%E8%80%83%E5%9B%9E%E6%B5%81%E7%94%9F4%E4%B8%87%E4%BA%BA+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子疑酒驾出车祸当街撒泼](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%96%91%E9%85%92%E9%A9%BE%E5%87%BA%E8%BD%A6%E7%A5%B8%E5%BD%93%E8%A1%97%E6%92%92%E6%B3%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [郑州教育局：对爆粗口官员严厉批评](https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E6%95%99%E8%82%B2%E5%B1%80%EF%BC%9A%E5%AF%B9%E7%88%86%E7%B2%97%E5%8F%A3%E5%AE%98%E5%91%98%E4%B8%A5%E5%8E%89%E6%89%B9%E8%AF%84&sa=fyb_news&rsv_dl=fyb_news)<br />
