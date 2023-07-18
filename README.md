@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 22:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 22:14:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [宋焰许沁接吻为什么要开水](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E7%84%B0%E8%AE%B8%E6%B2%81%E6%8E%A5%E5%90%BB%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%BC%80%E6%B0%B4%23&t=31&band_rank=5&Refer=top)<br />
 6. [韩国网友让宋雨琦回国](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%BD%91%E5%8F%8B%E8%AE%A9%E5%AE%8B%E9%9B%A8%E7%90%A6%E5%9B%9E%E5%9B%BD%23&t=31&band_rank=6&Refer=top)<br />
 7. [许沁把房子车子还回去了](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%B2%81%E6%8A%8A%E6%88%BF%E5%AD%90%E8%BD%A6%E5%AD%90%E8%BF%98%E5%9B%9E%E5%8E%BB%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [警方通报75岁男子按摩店内死亡](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A575%E5%B2%81%E7%94%B7%E5%AD%90%E6%8C%89%E6%91%A9%E5%BA%97%E5%86%85%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [优酷爱奇艺都来了](https://s.weibo.com/weibo?q=%23%E4%BC%98%E9%85%B7%E7%88%B1%E5%A5%87%E8%89%BA%E9%83%BD%E6%9D%A5%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+8. [优酷爱奇艺都来了](https://s.weibo.com/weibo?q=%23%E4%BC%98%E9%85%B7%E7%88%B1%E5%A5%87%E8%89%BA%E9%83%BD%E6%9D%A5%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [警方通报75岁男子按摩店内死亡](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A575%E5%B2%81%E7%94%B7%E5%AD%90%E6%8C%89%E6%91%A9%E5%BA%97%E5%86%85%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -23,9 +23,9 @@
 4. [推动网络文明建设高质量发展](https://www.baidu.com/s?wd=%E6%8E%A8%E5%8A%A8%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E5%BB%BA%E8%AE%BE%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [人民网评“奶辣风”流行](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E2%80%9C%E5%A5%B6%E8%BE%A3%E9%A3%8E%E2%80%9D%E6%B5%81%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [印度爆发“西红柿之乱”](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E7%88%86%E5%8F%91%E2%80%9C%E8%A5%BF%E7%BA%A2%E6%9F%BF%E4%B9%8B%E4%B9%B1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [网传西安中考回流生4万人 官方回应](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E8%A5%BF%E5%AE%89%E4%B8%AD%E8%80%83%E5%9B%9E%E6%B5%81%E7%94%9F4%E4%B8%87%E4%BA%BA+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [韩国网友让宋雨琦回国](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E7%BD%91%E5%8F%8B%E8%AE%A9%E5%AE%8B%E9%9B%A8%E7%90%A6%E5%9B%9E%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [陈奕迅被歌迷喊话返场加唱](https://www.baidu.com/s?wd=%E9%99%88%E5%A5%95%E8%BF%85%E8%A2%AB%E6%AD%8C%E8%BF%B7%E5%96%8A%E8%AF%9D%E8%BF%94%E5%9C%BA%E5%8A%A0%E5%94%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [韩国网友让宋雨琦回国](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E7%BD%91%E5%8F%8B%E8%AE%A9%E5%AE%8B%E9%9B%A8%E7%90%A6%E5%9B%9E%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [网传西安中考回流生4万人 官方回应](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E8%A5%BF%E5%AE%89%E4%B8%AD%E8%80%83%E5%9B%9E%E6%B5%81%E7%94%9F4%E4%B8%87%E4%BA%BA+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子疑酒驾出车祸当街撒泼](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%96%91%E9%85%92%E9%A9%BE%E5%87%BA%E8%BD%A6%E7%A5%B8%E5%BD%93%E8%A1%97%E6%92%92%E6%B3%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -35,6 +35,6 @@
 4. [推动网络文明建设高质量发展](https://www.baidu.com/s?wd=%E6%8E%A8%E5%8A%A8%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E5%BB%BA%E8%AE%BE%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [人民网评“奶辣风”流行](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E2%80%9C%E5%A5%B6%E8%BE%A3%E9%A3%8E%E2%80%9D%E6%B5%81%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [印度爆发“西红柿之乱”](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E7%88%86%E5%8F%91%E2%80%9C%E8%A5%BF%E7%BA%A2%E6%9F%BF%E4%B9%8B%E4%B9%B1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [网传西安中考回流生4万人 官方回应](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E8%A5%BF%E5%AE%89%E4%B8%AD%E8%80%83%E5%9B%9E%E6%B5%81%E7%94%9F4%E4%B8%87%E4%BA%BA+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [韩国网友让宋雨琦回国](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E7%BD%91%E5%8F%8B%E8%AE%A9%E5%AE%8B%E9%9B%A8%E7%90%A6%E5%9B%9E%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [陈奕迅被歌迷喊话返场加唱](https://www.baidu.com/s?wd=%E9%99%88%E5%A5%95%E8%BF%85%E8%A2%AB%E6%AD%8C%E8%BF%B7%E5%96%8A%E8%AF%9D%E8%BF%94%E5%9C%BA%E5%8A%A0%E5%94%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [韩国网友让宋雨琦回国](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E7%BD%91%E5%8F%8B%E8%AE%A9%E5%AE%8B%E9%9B%A8%E7%90%A6%E5%9B%9E%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [网传西安中考回流生4万人 官方回应](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E8%A5%BF%E5%AE%89%E4%B8%AD%E8%80%83%E5%9B%9E%E6%B5%81%E7%94%9F4%E4%B8%87%E4%BA%BA+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子疑酒驾出车祸当街撒泼](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%96%91%E9%85%92%E9%A9%BE%E5%87%BA%E8%BD%A6%E7%A5%B8%E5%BD%93%E8%A1%97%E6%92%92%E6%B3%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
