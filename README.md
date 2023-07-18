@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 15:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 15:58:01</h4></div>
 
 > 微博  
 
@@ -6,10 +6,10 @@
 2. [麻辣烫里不能没有什么](https://s.weibo.com/weibo?q=%23%E9%BA%BB%E8%BE%A3%E7%83%AB%E9%87%8C%E4%B8%8D%E8%83%BD%E6%B2%A1%E6%9C%89%E4%BB%80%E4%B9%88%23&t=31&band_rank=2&Refer=top)<br />
 3. [宋雨琦因说了中国台湾被韩网热议](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E9%9B%A8%E7%90%A6%E5%9B%A0%E8%AF%B4%E4%BA%86%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E8%A2%AB%E9%9F%A9%E7%BD%91%E7%83%AD%E8%AE%AE%23&t=31&band_rank=3&Refer=top)<br />
 4. [苏醒说混内娱好不好的标志是见到杨迪](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%E8%AF%B4%E6%B7%B7%E5%86%85%E5%A8%B1%E5%A5%BD%E4%B8%8D%E5%A5%BD%E7%9A%84%E6%A0%87%E5%BF%97%E6%98%AF%E8%A7%81%E5%88%B0%E6%9D%A8%E8%BF%AA%23&t=31&band_rank=4&Refer=top)<br />
-5. [陈芋汐](https://s.weibo.com/weibo?q=%E9%99%88%E8%8A%8B%E6%B1%90&t=31&band_rank=5&Refer=top)<br />
-6. [周杰伦演唱会抢票](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E6%8A%A2%E7%A5%A8&t=31&band_rank=6&Refer=top)<br />
-7. [美国芯片业集体呼吁美政府停止对华限制](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%8A%AF%E7%89%87%E4%B8%9A%E9%9B%86%E4%BD%93%E5%91%BC%E5%90%81%E7%BE%8E%E6%94%BF%E5%BA%9C%E5%81%9C%E6%AD%A2%E5%AF%B9%E5%8D%8E%E9%99%90%E5%88%B6%23&t=31&band_rank=7&Refer=top)<br />
-8. [南航回应空姐撑伞蹚水送乘客上摆渡车](https://s.weibo.com/weibo?q=%23%E5%8D%97%E8%88%AA%E5%9B%9E%E5%BA%94%E7%A9%BA%E5%A7%90%E6%92%91%E4%BC%9E%E8%B9%9A%E6%B0%B4%E9%80%81%E4%B9%98%E5%AE%A2%E4%B8%8A%E6%91%86%E6%B8%A1%E8%BD%A6%23&t=31&band_rank=8&Refer=top)<br />
+5. [周杰伦演唱会抢票](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E6%8A%A2%E7%A5%A8&t=31&band_rank=5&Refer=top)<br />
+6. [陈芋汐](https://s.weibo.com/weibo?q=%E9%99%88%E8%8A%8B%E6%B1%90&t=31&band_rank=6&Refer=top)<br />
+7. [南航回应空姐撑伞蹚水送乘客上摆渡车](https://s.weibo.com/weibo?q=%23%E5%8D%97%E8%88%AA%E5%9B%9E%E5%BA%94%E7%A9%BA%E5%A7%90%E6%92%91%E4%BC%9E%E8%B9%9A%E6%B0%B4%E9%80%81%E4%B9%98%E5%AE%A2%E4%B8%8A%E6%91%86%E6%B8%A1%E8%BD%A6%23&t=31&band_rank=7&Refer=top)<br />
+8. [美国芯片业集体呼吁美政府停止对华限制](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%8A%AF%E7%89%87%E4%B8%9A%E9%9B%86%E4%BD%93%E5%91%BC%E5%90%81%E7%BE%8E%E6%94%BF%E5%BA%9C%E5%81%9C%E6%AD%A2%E5%AF%B9%E5%8D%8E%E9%99%90%E5%88%B6%23&t=31&band_rank=8&Refer=top)<br />
 9. [肖战说最近在上课](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%AF%B4%E6%9C%80%E8%BF%91%E5%9C%A8%E4%B8%8A%E8%AF%BE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
