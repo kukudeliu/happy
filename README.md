@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 10:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 10:37:02</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [演员本人无法超越的角色](https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E6%9C%AC%E4%BA%BA%E6%97%A0%E6%B3%95%E8%B6%85%E8%B6%8A%E7%9A%84%E8%A7%92%E8%89%B2%23&t=31&band_rank=4&Refer=top)<br />
 5. [八角笼中的姐姐是王宝强的亲姐姐](https://s.weibo.com/weibo?q=%23%E5%85%AB%E8%A7%92%E7%AC%BC%E4%B8%AD%E7%9A%84%E5%A7%90%E5%A7%90%E6%98%AF%E7%8E%8B%E5%AE%9D%E5%BC%BA%E7%9A%84%E4%BA%B2%E5%A7%90%E5%A7%90%23&t=31&band_rank=5&Refer=top)<br />
 6. [孟宴臣有了新皮肤](https://s.weibo.com/weibo?q=%E5%AD%9F%E5%AE%B4%E8%87%A3%E6%9C%89%E4%BA%86%E6%96%B0%E7%9A%AE%E8%82%A4&t=31&band_rank=6&Refer=top)<br />
-7. [台风](https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E&t=31&band_rank=7&Refer=top)<br />
-8. [觉得infp很可怕](https://s.weibo.com/weibo?q=%E8%A7%89%E5%BE%97infp%E5%BE%88%E5%8F%AF%E6%80%95&t=31&band_rank=8&Refer=top)<br />
+7. [觉得infp很可怕](https://s.weibo.com/weibo?q=%E8%A7%89%E5%BE%97infp%E5%BE%88%E5%8F%AF%E6%80%95&t=31&band_rank=7&Refer=top)<br />
+8. [台风](https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E&t=31&band_rank=8&Refer=top)<br />
 9. [台风将鲸鱼冲上岸引人围观](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E5%B0%86%E9%B2%B8%E9%B1%BC%E5%86%B2%E4%B8%8A%E5%B2%B8%E5%BC%95%E4%BA%BA%E5%9B%B4%E8%A7%82%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
