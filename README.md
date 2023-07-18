@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 19:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 19:15:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [演唱会门票被弟弟撕掉了](https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E8%A2%AB%E5%BC%9F%E5%BC%9F%E6%92%95%E6%8E%89%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [民警请一群阿姨进派出所午睡](https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E8%AF%B7%E4%B8%80%E7%BE%A4%E9%98%BF%E5%A7%A8%E8%BF%9B%E6%B4%BE%E5%87%BA%E6%89%80%E5%8D%88%E7%9D%A1%23&t=31&band_rank=5&Refer=top)<br />
 6. [酒店双床房为什么只能住两人](https://s.weibo.com/weibo?q=%23%E9%85%92%E5%BA%97%E5%8F%8C%E5%BA%8A%E6%88%BF%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%AA%E8%83%BD%E4%BD%8F%E4%B8%A4%E4%BA%BA%23&t=31&band_rank=6&Refer=top)<br />
-7. [腾讯视频](https://s.weibo.com/weibo?q=%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91&t=31&band_rank=7&Refer=top)<br />
-8. [六点和六点半下班真的很不一样](https://s.weibo.com/weibo?q=%23%E5%85%AD%E7%82%B9%E5%92%8C%E5%85%AD%E7%82%B9%E5%8D%8A%E4%B8%8B%E7%8F%AD%E7%9C%9F%E7%9A%84%E5%BE%88%E4%B8%8D%E4%B8%80%E6%A0%B7%23&t=31&band_rank=8&Refer=top)<br />
-9. [刘诗诗什么时候演梦华录了](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E6%BC%94%E6%A2%A6%E5%8D%8E%E5%BD%95%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+7. [清华爸爸拍短视频做儿童知识科普](https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8D%8E%E7%88%B8%E7%88%B8%E6%8B%8D%E7%9F%AD%E8%A7%86%E9%A2%91%E5%81%9A%E5%84%BF%E7%AB%A5%E7%9F%A5%E8%AF%86%E7%A7%91%E6%99%AE%23&t=31&band_rank=7&Refer=top)<br />
+8. [腾讯视频](https://s.weibo.com/weibo?q=%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91&t=31&band_rank=8&Refer=top)<br />
+9. [六点和六点半下班真的很不一样](https://s.weibo.com/weibo?q=%23%E5%85%AD%E7%82%B9%E5%92%8C%E5%85%AD%E7%82%B9%E5%8D%8A%E4%B8%8B%E7%8F%AD%E7%9C%9F%E7%9A%84%E5%BE%88%E4%B8%8D%E4%B8%80%E6%A0%B7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -23,7 +23,7 @@
 4. [推动网络文明建设高质量发展](https://www.baidu.com/s?wd=%E6%8E%A8%E5%8A%A8%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E5%BB%BA%E8%AE%BE%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [李尚福在京会见基辛格](https://www.baidu.com/s?wd=%E6%9D%8E%E5%B0%9A%E7%A6%8F%E5%9C%A8%E4%BA%AC%E4%BC%9A%E8%A7%81%E5%9F%BA%E8%BE%9B%E6%A0%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [人民网评“奶辣风”流行](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E2%80%9C%E5%A5%B6%E8%BE%A3%E9%A3%8E%E2%80%9D%E6%B5%81%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子百余亩香瓜遭村民昼夜组团偷走](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%99%BE%E4%BD%99%E4%BA%A9%E9%A6%99%E7%93%9C%E9%81%AD%E6%9D%91%E6%B0%91%E6%98%BC%E5%A4%9C%E7%BB%84%E5%9B%A2%E5%81%B7%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子跳轨被撞轧 警方：已无生命体征](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B7%B3%E8%BD%A8%E8%A2%AB%E6%92%9E%E8%BD%A7+%E8%AD%A6%E6%96%B9%EF%BC%9A%E5%B7%B2%E6%97%A0%E7%94%9F%E5%91%BD%E4%BD%93%E5%BE%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [宋雨琦因说了中国台湾被韩网热议](https://www.baidu.com/s?wd=%E5%AE%8B%E9%9B%A8%E7%90%A6%E5%9B%A0%E8%AF%B4%E4%BA%86%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E8%A2%AB%E9%9F%A9%E7%BD%91%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [台风送来大量生蚝海鲜 市民拎麻袋装](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E9%80%81%E6%9D%A5%E5%A4%A7%E9%87%8F%E7%94%9F%E8%9A%9D%E6%B5%B7%E9%B2%9C+%E5%B8%82%E6%B0%91%E6%8B%8E%E9%BA%BB%E8%A2%8B%E8%A3%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [推动网络文明建设高质量发展](https://www.baidu.com/s?wd=%E6%8E%A8%E5%8A%A8%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E5%BB%BA%E8%AE%BE%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [李尚福在京会见基辛格](https://www.baidu.com/s?wd=%E6%9D%8E%E5%B0%9A%E7%A6%8F%E5%9C%A8%E4%BA%AC%E4%BC%9A%E8%A7%81%E5%9F%BA%E8%BE%9B%E6%A0%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [人民网评“奶辣风”流行](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E2%80%9C%E5%A5%B6%E8%BE%A3%E9%A3%8E%E2%80%9D%E6%B5%81%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子百余亩香瓜遭村民昼夜组团偷走](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%99%BE%E4%BD%99%E4%BA%A9%E9%A6%99%E7%93%9C%E9%81%AD%E6%9D%91%E6%B0%91%E6%98%BC%E5%A4%9C%E7%BB%84%E5%9B%A2%E5%81%B7%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子跳轨被撞轧 警方：已无生命体征](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B7%B3%E8%BD%A8%E8%A2%AB%E6%92%9E%E8%BD%A7+%E8%AD%A6%E6%96%B9%EF%BC%9A%E5%B7%B2%E6%97%A0%E7%94%9F%E5%91%BD%E4%BD%93%E5%BE%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [宋雨琦因说了中国台湾被韩网热议](https://www.baidu.com/s?wd=%E5%AE%8B%E9%9B%A8%E7%90%A6%E5%9B%A0%E8%AF%B4%E4%BA%86%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E8%A2%AB%E9%9F%A9%E7%BD%91%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [台风送来大量生蚝海鲜 市民拎麻袋装](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E9%80%81%E6%9D%A5%E5%A4%A7%E9%87%8F%E7%94%9F%E8%9A%9D%E6%B5%B7%E9%B2%9C+%E5%B8%82%E6%B0%91%E6%8B%8E%E9%BA%BB%E8%A2%8B%E8%A3%85&sa=fyb_news&rsv_dl=fyb_news)<br />
