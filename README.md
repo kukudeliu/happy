@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 20:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 20:54:02</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [肥胖者翠花 倒在毕不了业的减肥营](https://www.baidu.com/s?wd=%E8%82%A5%E8%83%96%E8%80%85%E7%BF%A0%E8%8A%B1+%E5%80%92%E5%9C%A8%E6%AF%95%E4%B8%8D%E4%BA%86%E4%B8%9A%E7%9A%84%E5%87%8F%E8%82%A5%E8%90%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [韩国网友让宋雨琦回国](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E7%BD%91%E5%8F%8B%E8%AE%A9%E5%AE%8B%E9%9B%A8%E7%90%A6%E5%9B%9E%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [中药材价格暴涨 有的涨十倍](https://www.baidu.com/s?wd=%E4%B8%AD%E8%8D%AF%E6%9D%90%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8+%E6%9C%89%E7%9A%84%E6%B6%A8%E5%8D%81%E5%80%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [一美国人自韩越界入朝 已被朝方逮捕](https://www.baidu.com/s?wd=%E4%B8%80%E7%BE%8E%E5%9B%BD%E4%BA%BA%E8%87%AA%E9%9F%A9%E8%B6%8A%E7%95%8C%E5%85%A5%E6%9C%9D+%E5%B7%B2%E8%A2%AB%E6%9C%9D%E6%96%B9%E9%80%AE%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [成都现双太阳](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E7%8E%B0%E5%8F%8C%E5%A4%AA%E9%98%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [肥胖者翠花 倒在毕不了业的减肥营](https://www.baidu.com/s?wd=%E8%82%A5%E8%83%96%E8%80%85%E7%BF%A0%E8%8A%B1+%E5%80%92%E5%9C%A8%E6%AF%95%E4%B8%8D%E4%BA%86%E4%B8%9A%E7%9A%84%E5%87%8F%E8%82%A5%E8%90%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [韩国网友让宋雨琦回国](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E7%BD%91%E5%8F%8B%E8%AE%A9%E5%AE%8B%E9%9B%A8%E7%90%A6%E5%9B%9E%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [中药材价格暴涨 有的涨十倍](https://www.baidu.com/s?wd=%E4%B8%AD%E8%8D%AF%E6%9D%90%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8+%E6%9C%89%E7%9A%84%E6%B6%A8%E5%8D%81%E5%80%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [一美国人自韩越界入朝 已被朝方逮捕](https://www.baidu.com/s?wd=%E4%B8%80%E7%BE%8E%E5%9B%BD%E4%BA%BA%E8%87%AA%E9%9F%A9%E8%B6%8A%E7%95%8C%E5%85%A5%E6%9C%9D+%E5%B7%B2%E8%A2%AB%E6%9C%9D%E6%96%B9%E9%80%AE%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [成都现双太阳](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E7%8E%B0%E5%8F%8C%E5%A4%AA%E9%98%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
