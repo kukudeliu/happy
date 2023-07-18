@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 08:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 08:18:02</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 3. [群众反映学托泛滥 教育局要求撤下](https://www.baidu.com/s?wd=%E7%BE%A4%E4%BC%97%E5%8F%8D%E6%98%A0%E5%AD%A6%E6%89%98%E6%B3%9B%E6%BB%A5+%E6%95%99%E8%82%B2%E5%B1%80%E8%A6%81%E6%B1%82%E6%92%A4%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [形显恢复之态 势有向好支撑](https://www.baidu.com/s?wd=%E5%BD%A2%E6%98%BE%E6%81%A2%E5%A4%8D%E4%B9%8B%E6%80%81+%E5%8A%BF%E6%9C%89%E5%90%91%E5%A5%BD%E6%94%AF%E6%92%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [运动员吐槽奥运奖牌2年成废铁](https://www.baidu.com/s?wd=%E8%BF%90%E5%8A%A8%E5%91%98%E5%90%90%E6%A7%BD%E5%A5%A5%E8%BF%90%E5%A5%96%E7%89%8C2%E5%B9%B4%E6%88%90%E5%BA%9F%E9%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [直击台风泰利登陆广东湛江](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E5%8F%B0%E9%A3%8E%E6%B3%B0%E5%88%A9%E7%99%BB%E9%99%86%E5%B9%BF%E4%B8%9C%E6%B9%9B%E6%B1%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [食堂吃出避孕套？校方：鸭子眼球膜](https://www.baidu.com/s?wd=%E9%A3%9F%E5%A0%82%E5%90%83%E5%87%BA%E9%81%BF%E5%AD%95%E5%A5%97%EF%BC%9F%E6%A0%A1%E6%96%B9%EF%BC%9A%E9%B8%AD%E5%AD%90%E7%9C%BC%E7%90%83%E8%86%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [一副眼镜动辄上千 谁在收割近视眼](https://www.baidu.com/s?wd=%E4%B8%80%E5%89%AF%E7%9C%BC%E9%95%9C%E5%8A%A8%E8%BE%84%E4%B8%8A%E5%8D%83+%E8%B0%81%E5%9C%A8%E6%94%B6%E5%89%B2%E8%BF%91%E8%A7%86%E7%9C%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [人民文娱评蔡依林线上首唱会](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%96%87%E5%A8%B1%E8%AF%84%E8%94%A1%E4%BE%9D%E6%9E%97%E7%BA%BF%E4%B8%8A%E9%A6%96%E5%94%B1%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [进化掉食欲的“白人饭”](https://www.baidu.com/s?wd=%E8%BF%9B%E5%8C%96%E6%8E%89%E9%A3%9F%E6%AC%B2%E7%9A%84%E2%80%9C%E7%99%BD%E4%BA%BA%E9%A5%AD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -34,7 +34,7 @@
 3. [群众反映学托泛滥 教育局要求撤下](https://www.baidu.com/s?wd=%E7%BE%A4%E4%BC%97%E5%8F%8D%E6%98%A0%E5%AD%A6%E6%89%98%E6%B3%9B%E6%BB%A5+%E6%95%99%E8%82%B2%E5%B1%80%E8%A6%81%E6%B1%82%E6%92%A4%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [形显恢复之态 势有向好支撑](https://www.baidu.com/s?wd=%E5%BD%A2%E6%98%BE%E6%81%A2%E5%A4%8D%E4%B9%8B%E6%80%81+%E5%8A%BF%E6%9C%89%E5%90%91%E5%A5%BD%E6%94%AF%E6%92%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [运动员吐槽奥运奖牌2年成废铁](https://www.baidu.com/s?wd=%E8%BF%90%E5%8A%A8%E5%91%98%E5%90%90%E6%A7%BD%E5%A5%A5%E8%BF%90%E5%A5%96%E7%89%8C2%E5%B9%B4%E6%88%90%E5%BA%9F%E9%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [直击台风泰利登陆广东湛江](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E5%8F%B0%E9%A3%8E%E6%B3%B0%E5%88%A9%E7%99%BB%E9%99%86%E5%B9%BF%E4%B8%9C%E6%B9%9B%E6%B1%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [食堂吃出避孕套？校方：鸭子眼球膜](https://www.baidu.com/s?wd=%E9%A3%9F%E5%A0%82%E5%90%83%E5%87%BA%E9%81%BF%E5%AD%95%E5%A5%97%EF%BC%9F%E6%A0%A1%E6%96%B9%EF%BC%9A%E9%B8%AD%E5%AD%90%E7%9C%BC%E7%90%83%E8%86%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [一副眼镜动辄上千 谁在收割近视眼](https://www.baidu.com/s?wd=%E4%B8%80%E5%89%AF%E7%9C%BC%E9%95%9C%E5%8A%A8%E8%BE%84%E4%B8%8A%E5%8D%83+%E8%B0%81%E5%9C%A8%E6%94%B6%E5%89%B2%E8%BF%91%E8%A7%86%E7%9C%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [人民文娱评蔡依林线上首唱会](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%96%87%E5%A8%B1%E8%AF%84%E8%94%A1%E4%BE%9D%E6%9E%97%E7%BA%BF%E4%B8%8A%E9%A6%96%E5%94%B1%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [进化掉食欲的“白人饭”](https://www.baidu.com/s?wd=%E8%BF%9B%E5%8C%96%E6%8E%89%E9%A3%9F%E6%AC%B2%E7%9A%84%E2%80%9C%E7%99%BD%E4%BA%BA%E9%A5%AD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
