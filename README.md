@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 16:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 16:38:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [郑州教育局：对爆粗口官员严厉批评](https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E6%95%99%E8%82%B2%E5%B1%80%EF%BC%9A%E5%AF%B9%E7%88%86%E7%B2%97%E5%8F%A3%E5%AE%98%E5%91%98%E4%B8%A5%E5%8E%89%E6%89%B9%E8%AF%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [“蓝白合”有谱了？柯文哲回应](https://www.baidu.com/s?wd=%E2%80%9C%E8%93%9D%E7%99%BD%E5%90%88%E2%80%9D%E6%9C%89%E8%B0%B1%E4%BA%86%EF%BC%9F%E6%9F%AF%E6%96%87%E5%93%B2%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [地铁穿脏字T恤打闹女子回应质疑](https://www.baidu.com/s?wd=%E5%9C%B0%E9%93%81%E7%A9%BF%E8%84%8F%E5%AD%97T%E6%81%A4%E6%89%93%E9%97%B9%E5%A5%B3%E5%AD%90%E5%9B%9E%E5%BA%94%E8%B4%A8%E7%96%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [全红婵第一晋级](https://www.baidu.com/s?wd=%E5%85%A8%E7%BA%A2%E5%A9%B5%E7%AC%AC%E4%B8%80%E6%99%8B%E7%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [吐鲁番火焰山地表温度超80℃](https://www.baidu.com/s?wd=%E5%90%90%E9%B2%81%E7%95%AA%E7%81%AB%E7%84%B0%E5%B1%B1%E5%9C%B0%E8%A1%A8%E6%B8%A9%E5%BA%A6%E8%B6%8580%E2%84%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [吐鲁番火焰山地表温度超80℃](https://www.baidu.com/s?wd=%E5%90%90%E9%B2%81%E7%95%AA%E7%81%AB%E7%84%B0%E5%B1%B1%E5%9C%B0%E8%A1%A8%E6%B8%A9%E5%BA%A6%E8%B6%8580%E2%84%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [宋雨琦因说了中国台湾被韩网热议](https://www.baidu.com/s?wd=%E5%AE%8B%E9%9B%A8%E7%90%A6%E5%9B%A0%E8%AF%B4%E4%BA%86%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E8%A2%AB%E9%9F%A9%E7%BD%91%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [郑州教育局：对爆粗口官员严厉批评](https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E6%95%99%E8%82%B2%E5%B1%80%EF%BC%9A%E5%AF%B9%E7%88%86%E7%B2%97%E5%8F%A3%E5%AE%98%E5%91%98%E4%B8%A5%E5%8E%89%E6%89%B9%E8%AF%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [“蓝白合”有谱了？柯文哲回应](https://www.baidu.com/s?wd=%E2%80%9C%E8%93%9D%E7%99%BD%E5%90%88%E2%80%9D%E6%9C%89%E8%B0%B1%E4%BA%86%EF%BC%9F%E6%9F%AF%E6%96%87%E5%93%B2%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [地铁穿脏字T恤打闹女子回应质疑](https://www.baidu.com/s?wd=%E5%9C%B0%E9%93%81%E7%A9%BF%E8%84%8F%E5%AD%97T%E6%81%A4%E6%89%93%E9%97%B9%E5%A5%B3%E5%AD%90%E5%9B%9E%E5%BA%94%E8%B4%A8%E7%96%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [全红婵第一晋级](https://www.baidu.com/s?wd=%E5%85%A8%E7%BA%A2%E5%A9%B5%E7%AC%AC%E4%B8%80%E6%99%8B%E7%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [吐鲁番火焰山地表温度超80℃](https://www.baidu.com/s?wd=%E5%90%90%E9%B2%81%E7%95%AA%E7%81%AB%E7%84%B0%E5%B1%B1%E5%9C%B0%E8%A1%A8%E6%B8%A9%E5%BA%A6%E8%B6%8580%E2%84%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [吐鲁番火焰山地表温度超80℃](https://www.baidu.com/s?wd=%E5%90%90%E9%B2%81%E7%95%AA%E7%81%AB%E7%84%B0%E5%B1%B1%E5%9C%B0%E8%A1%A8%E6%B8%A9%E5%BA%A6%E8%B6%8580%E2%84%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [宋雨琦因说了中国台湾被韩网热议](https://www.baidu.com/s?wd=%E5%AE%8B%E9%9B%A8%E7%90%A6%E5%9B%A0%E8%AF%B4%E4%BA%86%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E8%A2%AB%E9%9F%A9%E7%BD%91%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
