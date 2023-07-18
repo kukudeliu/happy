@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 17:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 17:04:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [韩国网友让宋雨琦回国](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%BD%91%E5%8F%8B%E8%AE%A9%E5%AE%8B%E9%9B%A8%E7%90%A6%E5%9B%9E%E5%9B%BD%23&t=31&band_rank=2&Refer=top)<br />
 3. [2023中国网络文明大会](https://s.weibo.com/weibo?q=%232023%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E5%A4%A7%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [藏不住爆火的男二女二](https://s.weibo.com/weibo?q=%23%E8%97%8F%E4%B8%8D%E4%BD%8F%E7%88%86%E7%81%AB%E7%9A%84%E7%94%B7%E4%BA%8C%E5%A5%B3%E4%BA%8C%23&t=31&band_rank=4&Refer=top)<br />
-5. [为了不吵架买了25.5度的空调](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BA%86%E4%B8%8D%E5%90%B5%E6%9E%B6%E4%B9%B0%E4%BA%8625.5%E5%BA%A6%E7%9A%84%E7%A9%BA%E8%B0%83%23&t=31&band_rank=5&Refer=top)<br />
-6. [宋雨琦因说了中国台湾被韩网热议](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E9%9B%A8%E7%90%A6%E5%9B%A0%E8%AF%B4%E4%BA%86%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E8%A2%AB%E9%9F%A9%E7%BD%91%E7%83%AD%E8%AE%AE%23&t=31&band_rank=6&Refer=top)<br />
-7. [麻辣烫里不能没有什么](https://s.weibo.com/weibo?q=%23%E9%BA%BB%E8%BE%A3%E7%83%AB%E9%87%8C%E4%B8%8D%E8%83%BD%E6%B2%A1%E6%9C%89%E4%BB%80%E4%B9%88%23&t=31&band_rank=7&Refer=top)<br />
+5. [A67773航班紧急备降昆明](https://s.weibo.com/weibo?q=%23A67773%E8%88%AA%E7%8F%AD%E7%B4%A7%E6%80%A5%E5%A4%87%E9%99%8D%E6%98%86%E6%98%8E%23&t=31&band_rank=5&Refer=top)<br />
+6. [为了不吵架买了25.5度的空调](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BA%86%E4%B8%8D%E5%90%B5%E6%9E%B6%E4%B9%B0%E4%BA%8625.5%E5%BA%A6%E7%9A%84%E7%A9%BA%E8%B0%83%23&t=31&band_rank=6&Refer=top)<br />
+7. [宋雨琦因说了中国台湾被韩网热议](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E9%9B%A8%E7%90%A6%E5%9B%A0%E8%AF%B4%E4%BA%86%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E8%A2%AB%E9%9F%A9%E7%BD%91%E7%83%AD%E8%AE%AE%23&t=31&band_rank=7&Refer=top)<br />
 8. [郑州市教育局道歉](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E5%B8%82%E6%95%99%E8%82%B2%E5%B1%80%E9%81%93%E6%AD%89%23&t=31&band_rank=8&Refer=top)<br />
-9. [A67773航班紧急备降昆明](https://s.weibo.com/weibo?q=%23A67773%E8%88%AA%E7%8F%AD%E7%B4%A7%E6%80%A5%E5%A4%87%E9%99%8D%E6%98%86%E6%98%8E%23&t=31&band_rank=9&Refer=top)<br />
+9. [麻辣烫里不能没有什么](https://s.weibo.com/weibo?q=%23%E9%BA%BB%E8%BE%A3%E7%83%AB%E9%87%8C%E4%B8%8D%E8%83%BD%E6%B2%A1%E6%9C%89%E4%BB%80%E4%B9%88%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,10 +22,10 @@
 3. [大陆配偶亲属可经小三通赴台探亲](https://www.baidu.com/s?wd=%E5%A4%A7%E9%99%86%E9%85%8D%E5%81%B6%E4%BA%B2%E5%B1%9E%E5%8F%AF%E7%BB%8F%E5%B0%8F%E4%B8%89%E9%80%9A%E8%B5%B4%E5%8F%B0%E6%8E%A2%E4%BA%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [推动网络文明建设高质量发展](https://www.baidu.com/s?wd=%E6%8E%A8%E5%8A%A8%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E5%BB%BA%E8%AE%BE%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [郑州教育局：对爆粗口官员严厉批评](https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E6%95%99%E8%82%B2%E5%B1%80%EF%BC%9A%E5%AF%B9%E7%88%86%E7%B2%97%E5%8F%A3%E5%AE%98%E5%91%98%E4%B8%A5%E5%8E%89%E6%89%B9%E8%AF%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [宋雨琦因说了中国台湾被韩网热议](https://www.baidu.com/s?wd=%E5%AE%8B%E9%9B%A8%E7%90%A6%E5%9B%A0%E8%AF%B4%E4%BA%86%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E8%A2%AB%E9%9F%A9%E7%BD%91%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [中药材价格暴涨 有的涨十倍](https://www.baidu.com/s?wd=%E4%B8%AD%E8%8D%AF%E6%9D%90%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8+%E6%9C%89%E7%9A%84%E6%B6%A8%E5%8D%81%E5%80%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [吐鲁番火焰山地表温度超80℃](https://www.baidu.com/s?wd=%E5%90%90%E9%B2%81%E7%95%AA%E7%81%AB%E7%84%B0%E5%B1%B1%E5%9C%B0%E8%A1%A8%E6%B8%A9%E5%BA%A6%E8%B6%8580%E2%84%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子喝完冰镇绿豆汤诱发脑梗死](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%96%9D%E5%AE%8C%E5%86%B0%E9%95%87%E7%BB%BF%E8%B1%86%E6%B1%A4%E8%AF%B1%E5%8F%91%E8%84%91%E6%A2%97%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [美芯片巨头力阻对华芯片出口限制](https://www.baidu.com/s?wd=%E7%BE%8E%E8%8A%AF%E7%89%87%E5%B7%A8%E5%A4%B4%E5%8A%9B%E9%98%BB%E5%AF%B9%E5%8D%8E%E8%8A%AF%E7%89%87%E5%87%BA%E5%8F%A3%E9%99%90%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [宋雨琦因说了中国台湾被韩网热议](https://www.baidu.com/s?wd=%E5%AE%8B%E9%9B%A8%E7%90%A6%E5%9B%A0%E8%AF%B4%E4%BA%86%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E8%A2%AB%E9%9F%A9%E7%BD%91%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中药材价格暴涨 有的涨十倍](https://www.baidu.com/s?wd=%E4%B8%AD%E8%8D%AF%E6%9D%90%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8+%E6%9C%89%E7%9A%84%E6%B6%A8%E5%8D%81%E5%80%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [吐鲁番火焰山地表温度超80℃](https://www.baidu.com/s?wd=%E5%90%90%E9%B2%81%E7%95%AA%E7%81%AB%E7%84%B0%E5%B1%B1%E5%9C%B0%E8%A1%A8%E6%B8%A9%E5%BA%A6%E8%B6%8580%E2%84%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -34,7 +34,7 @@
 3. [大陆配偶亲属可经小三通赴台探亲](https://www.baidu.com/s?wd=%E5%A4%A7%E9%99%86%E9%85%8D%E5%81%B6%E4%BA%B2%E5%B1%9E%E5%8F%AF%E7%BB%8F%E5%B0%8F%E4%B8%89%E9%80%9A%E8%B5%B4%E5%8F%B0%E6%8E%A2%E4%BA%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [推动网络文明建设高质量发展](https://www.baidu.com/s?wd=%E6%8E%A8%E5%8A%A8%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E5%BB%BA%E8%AE%BE%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [郑州教育局：对爆粗口官员严厉批评](https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E6%95%99%E8%82%B2%E5%B1%80%EF%BC%9A%E5%AF%B9%E7%88%86%E7%B2%97%E5%8F%A3%E5%AE%98%E5%91%98%E4%B8%A5%E5%8E%89%E6%89%B9%E8%AF%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [宋雨琦因说了中国台湾被韩网热议](https://www.baidu.com/s?wd=%E5%AE%8B%E9%9B%A8%E7%90%A6%E5%9B%A0%E8%AF%B4%E4%BA%86%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E8%A2%AB%E9%9F%A9%E7%BD%91%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [中药材价格暴涨 有的涨十倍](https://www.baidu.com/s?wd=%E4%B8%AD%E8%8D%AF%E6%9D%90%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8+%E6%9C%89%E7%9A%84%E6%B6%A8%E5%8D%81%E5%80%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [吐鲁番火焰山地表温度超80℃](https://www.baidu.com/s?wd=%E5%90%90%E9%B2%81%E7%95%AA%E7%81%AB%E7%84%B0%E5%B1%B1%E5%9C%B0%E8%A1%A8%E6%B8%A9%E5%BA%A6%E8%B6%8580%E2%84%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子喝完冰镇绿豆汤诱发脑梗死](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%96%9D%E5%AE%8C%E5%86%B0%E9%95%87%E7%BB%BF%E8%B1%86%E6%B1%A4%E8%AF%B1%E5%8F%91%E8%84%91%E6%A2%97%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [美芯片巨头力阻对华芯片出口限制](https://www.baidu.com/s?wd=%E7%BE%8E%E8%8A%AF%E7%89%87%E5%B7%A8%E5%A4%B4%E5%8A%9B%E9%98%BB%E5%AF%B9%E5%8D%8E%E8%8A%AF%E7%89%87%E5%87%BA%E5%8F%A3%E9%99%90%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [宋雨琦因说了中国台湾被韩网热议](https://www.baidu.com/s?wd=%E5%AE%8B%E9%9B%A8%E7%90%A6%E5%9B%A0%E8%AF%B4%E4%BA%86%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E8%A2%AB%E9%9F%A9%E7%BD%91%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中药材价格暴涨 有的涨十倍](https://www.baidu.com/s?wd=%E4%B8%AD%E8%8D%AF%E6%9D%90%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8+%E6%9C%89%E7%9A%84%E6%B6%A8%E5%8D%81%E5%80%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [吐鲁番火焰山地表温度超80℃](https://www.baidu.com/s?wd=%E5%90%90%E9%B2%81%E7%95%AA%E7%81%AB%E7%84%B0%E5%B1%B1%E5%9C%B0%E8%A1%A8%E6%B8%A9%E5%BA%A6%E8%B6%8580%E2%84%83&sa=fyb_news&rsv_dl=fyb_news)<br />
