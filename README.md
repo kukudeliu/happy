@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 10:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 10:39:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [八角笼中的姐姐是王宝强的亲姐姐](https://s.weibo.com/weibo?q=%23%E5%85%AB%E8%A7%92%E7%AC%BC%E4%B8%AD%E7%9A%84%E5%A7%90%E5%A7%90%E6%98%AF%E7%8E%8B%E5%AE%9D%E5%BC%BA%E7%9A%84%E4%BA%B2%E5%A7%90%E5%A7%90%23&t=31&band_rank=5&Refer=top)<br />
 6. [孟宴臣有了新皮肤](https://s.weibo.com/weibo?q=%E5%AD%9F%E5%AE%B4%E8%87%A3%E6%9C%89%E4%BA%86%E6%96%B0%E7%9A%AE%E8%82%A4&t=31&band_rank=6&Refer=top)<br />
 7. [觉得infp很可怕](https://s.weibo.com/weibo?q=%E8%A7%89%E5%BE%97infp%E5%BE%88%E5%8F%AF%E6%80%95&t=31&band_rank=7&Refer=top)<br />
-8. [台风](https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E&t=31&band_rank=8&Refer=top)<br />
-9. [台风将鲸鱼冲上岸引人围观](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E5%B0%86%E9%B2%B8%E9%B1%BC%E5%86%B2%E4%B8%8A%E5%B2%B8%E5%BC%95%E4%BA%BA%E5%9B%B4%E8%A7%82%23&t=31&band_rank=9&Refer=top)<br />
+8. [台风将鲸鱼冲上岸引人围观](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E5%B0%86%E9%B2%B8%E9%B1%BC%E5%86%B2%E4%B8%8A%E5%B2%B8%E5%BC%95%E4%BA%BA%E5%9B%B4%E8%A7%82%23&t=31&band_rank=8&Refer=top)<br />
+9. [台风](https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,8 +24,8 @@
 5. [台风泰利登陆：鲸鱼被冲上岸引围观](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E6%B3%B0%E5%88%A9%E7%99%BB%E9%99%86%EF%BC%9A%E9%B2%B8%E9%B1%BC%E8%A2%AB%E5%86%B2%E4%B8%8A%E5%B2%B8%E5%BC%95%E5%9B%B4%E8%A7%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [神秘圆柱体出现在澳大利亚海滩](https://www.baidu.com/s?wd=%E7%A5%9E%E7%A7%98%E5%9C%86%E6%9F%B1%E4%BD%93%E5%87%BA%E7%8E%B0%E5%9C%A8%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E6%B5%B7%E6%BB%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [暴雨黄色预警：6省区有大到暴雨](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E9%BB%84%E8%89%B2%E9%A2%84%E8%AD%A6%EF%BC%9A6%E7%9C%81%E5%8C%BA%E6%9C%89%E5%A4%A7%E5%88%B0%E6%9A%B4%E9%9B%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [进化掉食欲的“白人饭”](https://www.baidu.com/s?wd=%E8%BF%9B%E5%8C%96%E6%8E%89%E9%A3%9F%E6%AC%B2%E7%9A%84%E2%80%9C%E7%99%BD%E4%BA%BA%E9%A5%AD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子推着瘫痪妻子徒步到西藏](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8E%A8%E7%9D%80%E7%98%AB%E7%97%AA%E5%A6%BB%E5%AD%90%E5%BE%92%E6%AD%A5%E5%88%B0%E8%A5%BF%E8%97%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [人民文娱评蔡依林线上首唱会](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%96%87%E5%A8%B1%E8%AF%84%E8%94%A1%E4%BE%9D%E6%9E%97%E7%BA%BF%E4%B8%8A%E9%A6%96%E5%94%B1%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [进化掉食欲的“白人饭”](https://www.baidu.com/s?wd=%E8%BF%9B%E5%8C%96%E6%8E%89%E9%A3%9F%E6%AC%B2%E7%9A%84%E2%80%9C%E7%99%BD%E4%BA%BA%E9%A5%AD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [台风泰利登陆：鲸鱼被冲上岸引围观](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E6%B3%B0%E5%88%A9%E7%99%BB%E9%99%86%EF%BC%9A%E9%B2%B8%E9%B1%BC%E8%A2%AB%E5%86%B2%E4%B8%8A%E5%B2%B8%E5%BC%95%E5%9B%B4%E8%A7%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [神秘圆柱体出现在澳大利亚海滩](https://www.baidu.com/s?wd=%E7%A5%9E%E7%A7%98%E5%9C%86%E6%9F%B1%E4%BD%93%E5%87%BA%E7%8E%B0%E5%9C%A8%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E6%B5%B7%E6%BB%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [暴雨黄色预警：6省区有大到暴雨](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E9%BB%84%E8%89%B2%E9%A2%84%E8%AD%A6%EF%BC%9A6%E7%9C%81%E5%8C%BA%E6%9C%89%E5%A4%A7%E5%88%B0%E6%9A%B4%E9%9B%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [进化掉食欲的“白人饭”](https://www.baidu.com/s?wd=%E8%BF%9B%E5%8C%96%E6%8E%89%E9%A3%9F%E6%AC%B2%E7%9A%84%E2%80%9C%E7%99%BD%E4%BA%BA%E9%A5%AD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子推着瘫痪妻子徒步到西藏](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8E%A8%E7%9D%80%E7%98%AB%E7%97%AA%E5%A6%BB%E5%AD%90%E5%BE%92%E6%AD%A5%E5%88%B0%E8%A5%BF%E8%97%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [人民文娱评蔡依林线上首唱会](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%96%87%E5%A8%B1%E8%AF%84%E8%94%A1%E4%BE%9D%E6%9E%97%E7%BA%BF%E4%B8%8A%E9%A6%96%E5%94%B1%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [进化掉食欲的“白人饭”](https://www.baidu.com/s?wd=%E8%BF%9B%E5%8C%96%E6%8E%89%E9%A3%9F%E6%AC%B2%E7%9A%84%E2%80%9C%E7%99%BD%E4%BA%BA%E9%A5%AD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
