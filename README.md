@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-19 01:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-19 01:40:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [空调使用3到5小时后要开窗通风](https://s.weibo.com/weibo?q=%23%E7%A9%BA%E8%B0%83%E4%BD%BF%E7%94%A83%E5%88%B05%E5%B0%8F%E6%97%B6%E5%90%8E%E8%A6%81%E5%BC%80%E7%AA%97%E9%80%9A%E9%A3%8E%23&t=31&band_rank=6&Refer=top)<br />
 7. [张学友15分钟封神现场](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%AD%A6%E5%8F%8B15%E5%88%86%E9%92%9F%E5%B0%81%E7%A5%9E%E7%8E%B0%E5%9C%BA&t=31&band_rank=7&Refer=top)<br />
 8. [韩国网友让宋雨琦回国](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%BD%91%E5%8F%8B%E8%AE%A9%E5%AE%8B%E9%9B%A8%E7%90%A6%E5%9B%9E%E5%9B%BD%23&t=31&band_rank=8&Refer=top)<br />
-9. [周杰伦演唱会 不实名](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%20%E4%B8%8D%E5%AE%9E%E5%90%8D&t=31&band_rank=9&Refer=top)<br />
+9. [24岁清华女博士将任西工大准聘副教授](https://s.weibo.com/weibo?q=%2324%E5%B2%81%E6%B8%85%E5%8D%8E%E5%A5%B3%E5%8D%9A%E5%A3%AB%E5%B0%86%E4%BB%BB%E8%A5%BF%E5%B7%A5%E5%A4%A7%E5%87%86%E8%81%98%E5%89%AF%E6%95%99%E6%8E%88%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
