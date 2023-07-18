@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 20:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 20:23:01</h4></div>
 
 > 微博  
 
@@ -6,9 +6,9 @@
 2. [韩国网友让宋雨琦回国](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%BD%91%E5%8F%8B%E8%AE%A9%E5%AE%8B%E9%9B%A8%E7%90%A6%E5%9B%9E%E5%9B%BD%23&t=31&band_rank=2&Refer=top)<br />
 3. [网络文明就在身边](https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E5%B0%B1%E5%9C%A8%E8%BA%AB%E8%BE%B9%23&t=31&band_rank=3&Refer=top)<br />
 4. [演唱会门票被弟弟撕掉了](https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E8%A2%AB%E5%BC%9F%E5%BC%9F%E6%92%95%E6%8E%89%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
-5. [刘诗诗什么时候演梦华录了](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E6%BC%94%E6%A2%A6%E5%8D%8E%E5%BD%95%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
+5. [优酷爱奇艺都来了](https://s.weibo.com/weibo?q=%23%E4%BC%98%E9%85%B7%E7%88%B1%E5%A5%87%E8%89%BA%E9%83%BD%E6%9D%A5%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [起猛了看见肖战赵丽颖演师徒了](https://s.weibo.com/weibo?q=%23%E8%B5%B7%E7%8C%9B%E4%BA%86%E7%9C%8B%E8%A7%81%E8%82%96%E6%88%98%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%BC%94%E5%B8%88%E5%BE%92%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [优酷爱奇艺都来了](https://s.weibo.com/weibo?q=%23%E4%BC%98%E9%85%B7%E7%88%B1%E5%A5%87%E8%89%BA%E9%83%BD%E6%9D%A5%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+7. [刘诗诗什么时候演梦华录了](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E6%BC%94%E6%A2%A6%E5%8D%8E%E5%BD%95%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [腾讯视频](https://s.weibo.com/weibo?q=%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91&t=31&band_rank=8&Refer=top)<br />
 9. [郑州市教育局道歉](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E5%B8%82%E6%95%99%E8%82%B2%E5%B1%80%E9%81%93%E6%AD%89%23&t=31&band_rank=9&Refer=top)<br />
 
