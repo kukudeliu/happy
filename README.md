@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 10:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 10:06:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [郎君不如意官宣定档](https://s.weibo.com/weibo?q=%23%E9%83%8E%E5%90%9B%E4%B8%8D%E5%A6%82%E6%84%8F%E5%AE%98%E5%AE%A3%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=6&Refer=top)<br />
 7. [台风](https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E&t=31&band_rank=7&Refer=top)<br />
 8. [觉得infp很可怕](https://s.weibo.com/weibo?q=%E8%A7%89%E5%BE%97infp%E5%BE%88%E5%8F%AF%E6%80%95&t=31&band_rank=8&Refer=top)<br />
-9. [福州暴雨市民窗边漂过一冰柜冰淇淋](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%B7%9E%E6%9A%B4%E9%9B%A8%E5%B8%82%E6%B0%91%E7%AA%97%E8%BE%B9%E6%BC%82%E8%BF%87%E4%B8%80%E5%86%B0%E6%9F%9C%E5%86%B0%E6%B7%87%E6%B7%8B%23&t=31&band_rank=9&Refer=top)<br />
+9. [台风将鲸鱼冲上岸引人围观](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E5%B0%86%E9%B2%B8%E9%B1%BC%E5%86%B2%E4%B8%8A%E5%B2%B8%E5%BC%95%E4%BA%BA%E5%9B%B4%E8%A7%82%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
