@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-19 02:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-19 02:04:02</h4></div>
 
 > 微博  
 
@@ -22,10 +22,10 @@
 3. [13部门：支持居民开展旧房装修改造](https://www.baidu.com/s?wd=13%E9%83%A8%E9%97%A8%EF%BC%9A%E6%94%AF%E6%8C%81%E5%B1%85%E6%B0%91%E5%BC%80%E5%B1%95%E6%97%A7%E6%88%BF%E8%A3%85%E4%BF%AE%E6%94%B9%E9%80%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [网聚文明力量 奋进伟大征程](https://www.baidu.com/s?wd=%E7%BD%91%E8%81%9A%E6%96%87%E6%98%8E%E5%8A%9B%E9%87%8F+%E5%A5%8B%E8%BF%9B%E4%BC%9F%E5%A4%A7%E5%BE%81%E7%A8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [人民网评“奶辣风”流行](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E2%80%9C%E5%A5%B6%E8%BE%A3%E9%A3%8E%E2%80%9D%E6%B5%81%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [中国向缅甸出售武器？外交部回应](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%90%91%E7%BC%85%E7%94%B8%E5%87%BA%E5%94%AE%E6%AD%A6%E5%99%A8%EF%BC%9F%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [印度爆发“西红柿之乱”](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E7%88%86%E5%8F%91%E2%80%9C%E8%A5%BF%E7%BA%A2%E6%9F%BF%E4%B9%8B%E4%B9%B1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [韩国网友让宋雨琦回国](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E7%BD%91%E5%8F%8B%E8%AE%A9%E5%AE%8B%E9%9B%A8%E7%90%A6%E5%9B%9E%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [美猴王猴子造型被网友吐槽](https://www.baidu.com/s?wd=%E7%BE%8E%E7%8C%B4%E7%8E%8B%E7%8C%B4%E5%AD%90%E9%80%A0%E5%9E%8B%E8%A2%AB%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [福州一工程师跳污水井救2人后遇难](https://www.baidu.com/s?wd=%E7%A6%8F%E5%B7%9E%E4%B8%80%E5%B7%A5%E7%A8%8B%E5%B8%88%E8%B7%B3%E6%B1%A1%E6%B0%B4%E4%BA%95%E6%95%912%E4%BA%BA%E5%90%8E%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [任意抓知了破坏生态？专家：不会](https://www.baidu.com/s?wd=%E4%BB%BB%E6%84%8F%E6%8A%93%E7%9F%A5%E4%BA%86%E7%A0%B4%E5%9D%8F%E7%94%9F%E6%80%81%EF%BC%9F%E4%B8%93%E5%AE%B6%EF%BC%9A%E4%B8%8D%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [郑州脏话斥记者的教育局领导已道歉](https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E8%84%8F%E8%AF%9D%E6%96%A5%E8%AE%B0%E8%80%85%E7%9A%84%E6%95%99%E8%82%B2%E5%B1%80%E9%A2%86%E5%AF%BC%E5%B7%B2%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [印度爆发“西红柿之乱”](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E7%88%86%E5%8F%91%E2%80%9C%E8%A5%BF%E7%BA%A2%E6%9F%BF%E4%B9%8B%E4%B9%B1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -34,7 +34,7 @@
 3. [13部门：支持居民开展旧房装修改造](https://www.baidu.com/s?wd=13%E9%83%A8%E9%97%A8%EF%BC%9A%E6%94%AF%E6%8C%81%E5%B1%85%E6%B0%91%E5%BC%80%E5%B1%95%E6%97%A7%E6%88%BF%E8%A3%85%E4%BF%AE%E6%94%B9%E9%80%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [网聚文明力量 奋进伟大征程](https://www.baidu.com/s?wd=%E7%BD%91%E8%81%9A%E6%96%87%E6%98%8E%E5%8A%9B%E9%87%8F+%E5%A5%8B%E8%BF%9B%E4%BC%9F%E5%A4%A7%E5%BE%81%E7%A8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [人民网评“奶辣风”流行](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E2%80%9C%E5%A5%B6%E8%BE%A3%E9%A3%8E%E2%80%9D%E6%B5%81%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [中国向缅甸出售武器？外交部回应](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%90%91%E7%BC%85%E7%94%B8%E5%87%BA%E5%94%AE%E6%AD%A6%E5%99%A8%EF%BC%9F%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [印度爆发“西红柿之乱”](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E7%88%86%E5%8F%91%E2%80%9C%E8%A5%BF%E7%BA%A2%E6%9F%BF%E4%B9%8B%E4%B9%B1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [韩国网友让宋雨琦回国](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E7%BD%91%E5%8F%8B%E8%AE%A9%E5%AE%8B%E9%9B%A8%E7%90%A6%E5%9B%9E%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [美猴王猴子造型被网友吐槽](https://www.baidu.com/s?wd=%E7%BE%8E%E7%8C%B4%E7%8E%8B%E7%8C%B4%E5%AD%90%E9%80%A0%E5%9E%8B%E8%A2%AB%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [福州一工程师跳污水井救2人后遇难](https://www.baidu.com/s?wd=%E7%A6%8F%E5%B7%9E%E4%B8%80%E5%B7%A5%E7%A8%8B%E5%B8%88%E8%B7%B3%E6%B1%A1%E6%B0%B4%E4%BA%95%E6%95%912%E4%BA%BA%E5%90%8E%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [任意抓知了破坏生态？专家：不会](https://www.baidu.com/s?wd=%E4%BB%BB%E6%84%8F%E6%8A%93%E7%9F%A5%E4%BA%86%E7%A0%B4%E5%9D%8F%E7%94%9F%E6%80%81%EF%BC%9F%E4%B8%93%E5%AE%B6%EF%BC%9A%E4%B8%8D%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [郑州脏话斥记者的教育局领导已道歉](https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E8%84%8F%E8%AF%9D%E6%96%A5%E8%AE%B0%E8%80%85%E7%9A%84%E6%95%99%E8%82%B2%E5%B1%80%E9%A2%86%E5%AF%BC%E5%B7%B2%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [印度爆发“西红柿之乱”](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E7%88%86%E5%8F%91%E2%80%9C%E8%A5%BF%E7%BA%A2%E6%9F%BF%E4%B9%8B%E4%B9%B1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
