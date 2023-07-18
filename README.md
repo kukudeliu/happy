@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 11:17:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 11:18:01</h4></div>
 
 > 微博  
 
 1. [演员本人无法超越的角色](https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E6%9C%AC%E4%BA%BA%E6%97%A0%E6%B3%95%E8%B6%85%E8%B6%8A%E7%9A%84%E8%A7%92%E8%89%B2%23&t=31&band_rank=1&Refer=top)<br />
-2. [Ella 乘风总冠军](https://s.weibo.com/weibo?q=Ella%20%E4%B9%98%E9%A3%8E%E6%80%BB%E5%86%A0%E5%86%9B&t=31&band_rank=2&Refer=top)<br />
+2. [女子不听劝暴雨后骑车过涵洞溺亡](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B8%8D%E5%90%AC%E5%8A%9D%E6%9A%B4%E9%9B%A8%E5%90%8E%E9%AA%91%E8%BD%A6%E8%BF%87%E6%B6%B5%E6%B4%9E%E6%BA%BA%E4%BA%A1%23&t=31&band_rank=2&Refer=top)<br />
 3. [致敬高温里的平凡英雄](https://s.weibo.com/weibo?q=%23%E8%87%B4%E6%95%AC%E9%AB%98%E6%B8%A9%E9%87%8C%E7%9A%84%E5%B9%B3%E5%87%A1%E8%8B%B1%E9%9B%84%23&t=31&band_rank=3&Refer=top)<br />
-4. [女子不听劝暴雨后骑车过涵洞溺亡](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B8%8D%E5%90%AC%E5%8A%9D%E6%9A%B4%E9%9B%A8%E5%90%8E%E9%AA%91%E8%BD%A6%E8%BF%87%E6%B6%B5%E6%B4%9E%E6%BA%BA%E4%BA%A1%23&t=31&band_rank=4&Refer=top)<br />
+4. [Ella 乘风总冠军](https://s.weibo.com/weibo?q=Ella%20%E4%B9%98%E9%A3%8E%E6%80%BB%E5%86%A0%E5%86%9B&t=31&band_rank=4&Refer=top)<br />
 5. [韩国版消失的她](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%89%88%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%23&t=31&band_rank=5&Refer=top)<br />
 6. [全红婵跳出全场首个10分](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E8%B7%B3%E5%87%BA%E5%85%A8%E5%9C%BA%E9%A6%96%E4%B8%AA10%E5%88%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [刘奕君演的渣男](https://s.weibo.com/weibo?q=%E5%88%98%E5%A5%95%E5%90%9B%E6%BC%94%E7%9A%84%E6%B8%A3%E7%94%B7&t=31&band_rank=7&Refer=top)<br />
