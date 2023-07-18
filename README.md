@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 23:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 23:20:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [李木戈你是不是当成两部剧拍的](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%9C%A8%E6%88%88%E4%BD%A0%E6%98%AF%E4%B8%8D%E6%98%AF%E5%BD%93%E6%88%90%E4%B8%A4%E9%83%A8%E5%89%A7%E6%8B%8D%E7%9A%84%23&t=31&band_rank=6&Refer=top)<br />
 7. [韩国网友让宋雨琦回国](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%BD%91%E5%8F%8B%E8%AE%A9%E5%AE%8B%E9%9B%A8%E7%90%A6%E5%9B%9E%E5%9B%BD%23&t=31&band_rank=7&Refer=top)<br />
 8. [杨洋 送得很好下次可以再挑挑](https://s.weibo.com/weibo?q=%E6%9D%A8%E6%B4%8B%20%E9%80%81%E5%BE%97%E5%BE%88%E5%A5%BD%E4%B8%8B%E6%AC%A1%E5%8F%AF%E4%BB%A5%E5%86%8D%E6%8C%91%E6%8C%91&t=31&band_rank=8&Refer=top)<br />
-9. [六点和六点半下班真的很不一样](https://s.weibo.com/weibo?q=%23%E5%85%AD%E7%82%B9%E5%92%8C%E5%85%AD%E7%82%B9%E5%8D%8A%E4%B8%8B%E7%8F%AD%E7%9C%9F%E7%9A%84%E5%BE%88%E4%B8%8D%E4%B8%80%E6%A0%B7%23&t=31&band_rank=9&Refer=top)<br />
+9. [越南一载中国游客大巴侧翻致4死8伤](https://s.weibo.com/weibo?q=%23%E8%B6%8A%E5%8D%97%E4%B8%80%E8%BD%BD%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%A4%A7%E5%B7%B4%E4%BE%A7%E7%BF%BB%E8%87%B44%E6%AD%BB8%E4%BC%A4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
