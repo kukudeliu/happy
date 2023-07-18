@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 11:13:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 11:14:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [全红婵跳出全场首个10分](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E8%B7%B3%E5%87%BA%E5%85%A8%E5%9C%BA%E9%A6%96%E4%B8%AA10%E5%88%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [刘奕君演的渣男](https://s.weibo.com/weibo?q=%E5%88%98%E5%A5%95%E5%90%9B%E6%BC%94%E7%9A%84%E6%B8%A3%E7%94%B7&t=31&band_rank=7&Refer=top)<br />
 8. [乘风](https://s.weibo.com/weibo?q=%E4%B9%98%E9%A3%8E&t=31&band_rank=8&Refer=top)<br />
-9. [觉得infp很可怕](https://s.weibo.com/weibo?q=%E8%A7%89%E5%BE%97infp%E5%BE%88%E5%8F%AF%E6%80%95&t=31&band_rank=9&Refer=top)<br />
+9. [男子车胎被服务区人员塞异物险出意外](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%BD%A6%E8%83%8E%E8%A2%AB%E6%9C%8D%E5%8A%A1%E5%8C%BA%E4%BA%BA%E5%91%98%E5%A1%9E%E5%BC%82%E7%89%A9%E9%99%A9%E5%87%BA%E6%84%8F%E5%A4%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
