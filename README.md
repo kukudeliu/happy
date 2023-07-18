@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 19:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 19:06:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [酒店双床房为什么只能住两人](https://s.weibo.com/weibo?q=%23%E9%85%92%E5%BA%97%E5%8F%8C%E5%BA%8A%E6%88%BF%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%AA%E8%83%BD%E4%BD%8F%E4%B8%A4%E4%BA%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [腾讯视频](https://s.weibo.com/weibo?q=%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91&t=31&band_rank=7&Refer=top)<br />
 8. [六点和六点半下班真的很不一样](https://s.weibo.com/weibo?q=%23%E5%85%AD%E7%82%B9%E5%92%8C%E5%85%AD%E7%82%B9%E5%8D%8A%E4%B8%8B%E7%8F%AD%E7%9C%9F%E7%9A%84%E5%BE%88%E4%B8%8D%E4%B8%80%E6%A0%B7%23&t=31&band_rank=8&Refer=top)<br />
-9. [郑州市教育局道歉](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E5%B8%82%E6%95%99%E8%82%B2%E5%B1%80%E9%81%93%E6%AD%89%23&t=31&band_rank=9&Refer=top)<br />
+9. [为什么蜘蛛不能踩死](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E8%9C%98%E8%9B%9B%E4%B8%8D%E8%83%BD%E8%B8%A9%E6%AD%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
