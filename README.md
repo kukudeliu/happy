@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 13:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 13:46:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [苏醒曾因为榴莲跟女友分手](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%E6%9B%BE%E5%9B%A0%E4%B8%BA%E6%A6%B4%E8%8E%B2%E8%B7%9F%E5%A5%B3%E5%8F%8B%E5%88%86%E6%89%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [许沁被偷改的人生](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%B2%81%E8%A2%AB%E5%81%B7%E6%94%B9%E7%9A%84%E4%BA%BA%E7%94%9F%23&t=31&band_rank=7&Refer=top)<br />
 8. [女子不听劝暴雨后骑车过涵洞溺亡](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B8%8D%E5%90%AC%E5%8A%9D%E6%9A%B4%E9%9B%A8%E5%90%8E%E9%AA%91%E8%BD%A6%E8%BF%87%E6%B6%B5%E6%B4%9E%E6%BA%BA%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [成都现双太阳](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E7%8E%B0%E5%8F%8C%E5%A4%AA%E9%98%B3%23&t=31&band_rank=9&Refer=top)<br />
+9. [特斯拉上海工人季度奖金突增至1.5倍月薪](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%8A%E6%B5%B7%E5%B7%A5%E4%BA%BA%E5%AD%A3%E5%BA%A6%E5%A5%96%E9%87%91%E7%AA%81%E5%A2%9E%E8%87%B31.5%E5%80%8D%E6%9C%88%E8%96%AA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
