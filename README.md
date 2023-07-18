@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-19 04:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-19 04:13:02</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [全红婵陈芋汐断层式碾压晋级](https://www.baidu.com/s?wd=%E5%85%A8%E7%BA%A2%E5%A9%B5%E9%99%88%E8%8A%8B%E6%B1%90%E6%96%AD%E5%B1%82%E5%BC%8F%E7%A2%BE%E5%8E%8B%E6%99%8B%E7%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [印度爆发“西红柿之乱”](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E7%88%86%E5%8F%91%E2%80%9C%E8%A5%BF%E7%BA%A2%E6%9F%BF%E4%B9%8B%E4%B9%B1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [警方通报75岁男子按摩店死亡](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A575%E5%B2%81%E7%94%B7%E5%AD%90%E6%8C%89%E6%91%A9%E5%BA%97%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [六旬老人被海豚撞成骨折并被啃伤](https://www.baidu.com/s?wd=%E5%85%AD%E6%97%AC%E8%80%81%E4%BA%BA%E8%A2%AB%E6%B5%B7%E8%B1%9A%E6%92%9E%E6%88%90%E9%AA%A8%E6%8A%98%E5%B9%B6%E8%A2%AB%E5%95%83%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [全红婵夺金后采访秒变社恐](https://www.baidu.com/s?wd=%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%A4%BA%E9%87%91%E5%90%8E%E9%87%87%E8%AE%BF%E7%A7%92%E5%8F%98%E7%A4%BE%E6%81%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [全红婵陈芋汐断层式碾压晋级](https://www.baidu.com/s?wd=%E5%85%A8%E7%BA%A2%E5%A9%B5%E9%99%88%E8%8A%8B%E6%B1%90%E6%96%AD%E5%B1%82%E5%BC%8F%E7%A2%BE%E5%8E%8B%E6%99%8B%E7%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [印度爆发“西红柿之乱”](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E7%88%86%E5%8F%91%E2%80%9C%E8%A5%BF%E7%BA%A2%E6%9F%BF%E4%B9%8B%E4%B9%B1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [警方通报75岁男子按摩店死亡](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A575%E5%B2%81%E7%94%B7%E5%AD%90%E6%8C%89%E6%91%A9%E5%BA%97%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [六旬老人被海豚撞成骨折并被啃伤](https://www.baidu.com/s?wd=%E5%85%AD%E6%97%AC%E8%80%81%E4%BA%BA%E8%A2%AB%E6%B5%B7%E8%B1%9A%E6%92%9E%E6%88%90%E9%AA%A8%E6%8A%98%E5%B9%B6%E8%A2%AB%E5%95%83%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [全红婵夺金后采访秒变社恐](https://www.baidu.com/s?wd=%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%A4%BA%E9%87%91%E5%90%8E%E9%87%87%E8%AE%BF%E7%A7%92%E5%8F%98%E7%A4%BE%E6%81%90&sa=fyb_news&rsv_dl=fyb_news)<br />
