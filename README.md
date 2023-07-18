@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-19 01:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-19 01:09:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [翟潇闻 桑延](https://s.weibo.com/weibo?q=%E7%BF%9F%E6%BD%87%E9%97%BB%20%E6%A1%91%E5%BB%B6&t=31&band_rank=5&Refer=top)<br />
 6. [24岁清华女博士将任西工大准聘副教授](https://s.weibo.com/weibo?q=%2324%E5%B2%81%E6%B8%85%E5%8D%8E%E5%A5%B3%E5%8D%9A%E5%A3%AB%E5%B0%86%E4%BB%BB%E8%A5%BF%E5%B7%A5%E5%A4%A7%E5%87%86%E8%81%98%E5%89%AF%E6%95%99%E6%8E%88%23&t=31&band_rank=6&Refer=top)<br />
 7. [空调使用3到5小时后要开窗通风](https://s.weibo.com/weibo?q=%23%E7%A9%BA%E8%B0%83%E4%BD%BF%E7%94%A83%E5%88%B05%E5%B0%8F%E6%97%B6%E5%90%8E%E8%A6%81%E5%BC%80%E7%AA%97%E9%80%9A%E9%A3%8E%23&t=31&band_rank=7&Refer=top)<br />
-8. [周杰伦演唱会 不实名](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%20%E4%B8%8D%E5%AE%9E%E5%90%8D&t=31&band_rank=8&Refer=top)<br />
-9. [韩国网友让宋雨琦回国](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%BD%91%E5%8F%8B%E8%AE%A9%E5%AE%8B%E9%9B%A8%E7%90%A6%E5%9B%9E%E5%9B%BD%23&t=31&band_rank=9&Refer=top)<br />
+8. [韩国网友让宋雨琦回国](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%BD%91%E5%8F%8B%E8%AE%A9%E5%AE%8B%E9%9B%A8%E7%90%A6%E5%9B%9E%E5%9B%BD%23&t=31&band_rank=8&Refer=top)<br />
+9. [周杰伦演唱会 不实名](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%20%E4%B8%8D%E5%AE%9E%E5%90%8D&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -23,9 +23,9 @@
 4. [网聚文明力量 奋进伟大征程](https://www.baidu.com/s?wd=%E7%BD%91%E8%81%9A%E6%96%87%E6%98%8E%E5%8A%9B%E9%87%8F+%E5%A5%8B%E8%BF%9B%E4%BC%9F%E5%A4%A7%E5%BE%81%E7%A8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [人民网评“奶辣风”流行](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E2%80%9C%E5%A5%B6%E8%BE%A3%E9%A3%8E%E2%80%9D%E6%B5%81%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [警方通报75岁男子按摩店死亡](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A575%E5%B2%81%E7%94%B7%E5%AD%90%E6%8C%89%E6%91%A9%E5%BA%97%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [中国向缅甸出售武器？外交部回应](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%90%91%E7%BC%85%E7%94%B8%E5%87%BA%E5%94%AE%E6%AD%A6%E5%99%A8%EF%BC%9F%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [台风致广西北海超400棵树倒伏](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E8%87%B4%E5%B9%BF%E8%A5%BF%E5%8C%97%E6%B5%B7%E8%B6%85400%E6%A3%B5%E6%A0%91%E5%80%92%E4%BC%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [印度爆发“西红柿之乱”](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E7%88%86%E5%8F%91%E2%80%9C%E8%A5%BF%E7%BA%A2%E6%9F%BF%E4%B9%8B%E4%B9%B1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [“蓝白合”有谱了？柯文哲回应](https://www.baidu.com/s?wd=%E2%80%9C%E8%93%9D%E7%99%BD%E5%90%88%E2%80%9D%E6%9C%89%E8%B0%B1%E4%BA%86%EF%BC%9F%E6%9F%AF%E6%96%87%E5%93%B2%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中国向缅甸出售武器？外交部回应](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%90%91%E7%BC%85%E7%94%B8%E5%87%BA%E5%94%AE%E6%AD%A6%E5%99%A8%EF%BC%9F%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [台风致广西北海超400棵树倒伏](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E8%87%B4%E5%B9%BF%E8%A5%BF%E5%8C%97%E6%B5%B7%E8%B6%85400%E6%A3%B5%E6%A0%91%E5%80%92%E4%BC%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -35,6 +35,6 @@
 4. [网聚文明力量 奋进伟大征程](https://www.baidu.com/s?wd=%E7%BD%91%E8%81%9A%E6%96%87%E6%98%8E%E5%8A%9B%E9%87%8F+%E5%A5%8B%E8%BF%9B%E4%BC%9F%E5%A4%A7%E5%BE%81%E7%A8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [人民网评“奶辣风”流行](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E2%80%9C%E5%A5%B6%E8%BE%A3%E9%A3%8E%E2%80%9D%E6%B5%81%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [警方通报75岁男子按摩店死亡](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A575%E5%B2%81%E7%94%B7%E5%AD%90%E6%8C%89%E6%91%A9%E5%BA%97%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [中国向缅甸出售武器？外交部回应](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%90%91%E7%BC%85%E7%94%B8%E5%87%BA%E5%94%AE%E6%AD%A6%E5%99%A8%EF%BC%9F%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [台风致广西北海超400棵树倒伏](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E8%87%B4%E5%B9%BF%E8%A5%BF%E5%8C%97%E6%B5%B7%E8%B6%85400%E6%A3%B5%E6%A0%91%E5%80%92%E4%BC%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [印度爆发“西红柿之乱”](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E7%88%86%E5%8F%91%E2%80%9C%E8%A5%BF%E7%BA%A2%E6%9F%BF%E4%B9%8B%E4%B9%B1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [“蓝白合”有谱了？柯文哲回应](https://www.baidu.com/s?wd=%E2%80%9C%E8%93%9D%E7%99%BD%E5%90%88%E2%80%9D%E6%9C%89%E8%B0%B1%E4%BA%86%EF%BC%9F%E6%9F%AF%E6%96%87%E5%93%B2%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中国向缅甸出售武器？外交部回应](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%90%91%E7%BC%85%E7%94%B8%E5%87%BA%E5%94%AE%E6%AD%A6%E5%99%A8%EF%BC%9F%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [台风致广西北海超400棵树倒伏](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E8%87%B4%E5%B9%BF%E8%A5%BF%E5%8C%97%E6%B5%B7%E8%B6%85400%E6%A3%B5%E6%A0%91%E5%80%92%E4%BC%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
