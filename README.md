@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 16:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 16:18:01</h4></div>
 
 > 微博  
 
@@ -23,9 +23,9 @@
 4. [推动网络文明建设高质量发展](https://www.baidu.com/s?wd=%E6%8E%A8%E5%8A%A8%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E5%BB%BA%E8%AE%BE%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [郑州教育局：对爆粗口官员严厉批评](https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E6%95%99%E8%82%B2%E5%B1%80%EF%BC%9A%E5%AF%B9%E7%88%86%E7%B2%97%E5%8F%A3%E5%AE%98%E5%91%98%E4%B8%A5%E5%8E%89%E6%89%B9%E8%AF%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [地铁穿脏字T恤打闹女子回应质疑](https://www.baidu.com/s?wd=%E5%9C%B0%E9%93%81%E7%A9%BF%E8%84%8F%E5%AD%97T%E6%81%A4%E6%89%93%E9%97%B9%E5%A5%B3%E5%AD%90%E5%9B%9E%E5%BA%94%E8%B4%A8%E7%96%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子疑酒驾出车祸当街撒泼](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%96%91%E9%85%92%E9%A9%BE%E5%87%BA%E8%BD%A6%E7%A5%B8%E5%BD%93%E8%A1%97%E6%92%92%E6%B3%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [六旬老人被海豚撞成骨折并被啃伤](https://www.baidu.com/s?wd=%E5%85%AD%E6%97%AC%E8%80%81%E4%BA%BA%E8%A2%AB%E6%B5%B7%E8%B1%9A%E6%92%9E%E6%88%90%E9%AA%A8%E6%8A%98%E5%B9%B6%E8%A2%AB%E5%95%83%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中药材价格暴涨 有的涨十倍](https://www.baidu.com/s?wd=%E4%B8%AD%E8%8D%AF%E6%9D%90%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8+%E6%9C%89%E7%9A%84%E6%B6%A8%E5%8D%81%E5%80%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [吐鲁番火焰山地表温度超80℃](https://www.baidu.com/s?wd=%E5%90%90%E9%B2%81%E7%95%AA%E7%81%AB%E7%84%B0%E5%B1%B1%E5%9C%B0%E8%A1%A8%E6%B8%A9%E5%BA%A6%E8%B6%8580%E2%84%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [郑州脏话斥记者的教育局领导已道歉](https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E8%84%8F%E8%AF%9D%E6%96%A5%E8%AE%B0%E8%80%85%E7%9A%84%E6%95%99%E8%82%B2%E5%B1%80%E9%A2%86%E5%AF%BC%E5%B7%B2%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [六旬老人被海豚撞成骨折并被啃伤](https://www.baidu.com/s?wd=%E5%85%AD%E6%97%AC%E8%80%81%E4%BA%BA%E8%A2%AB%E6%B5%B7%E8%B1%9A%E6%92%9E%E6%88%90%E9%AA%A8%E6%8A%98%E5%B9%B6%E8%A2%AB%E5%95%83%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -35,6 +35,6 @@
 4. [推动网络文明建设高质量发展](https://www.baidu.com/s?wd=%E6%8E%A8%E5%8A%A8%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E5%BB%BA%E8%AE%BE%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [郑州教育局：对爆粗口官员严厉批评](https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E6%95%99%E8%82%B2%E5%B1%80%EF%BC%9A%E5%AF%B9%E7%88%86%E7%B2%97%E5%8F%A3%E5%AE%98%E5%91%98%E4%B8%A5%E5%8E%89%E6%89%B9%E8%AF%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [地铁穿脏字T恤打闹女子回应质疑](https://www.baidu.com/s?wd=%E5%9C%B0%E9%93%81%E7%A9%BF%E8%84%8F%E5%AD%97T%E6%81%A4%E6%89%93%E9%97%B9%E5%A5%B3%E5%AD%90%E5%9B%9E%E5%BA%94%E8%B4%A8%E7%96%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子疑酒驾出车祸当街撒泼](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%96%91%E9%85%92%E9%A9%BE%E5%87%BA%E8%BD%A6%E7%A5%B8%E5%BD%93%E8%A1%97%E6%92%92%E6%B3%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [六旬老人被海豚撞成骨折并被啃伤](https://www.baidu.com/s?wd=%E5%85%AD%E6%97%AC%E8%80%81%E4%BA%BA%E8%A2%AB%E6%B5%B7%E8%B1%9A%E6%92%9E%E6%88%90%E9%AA%A8%E6%8A%98%E5%B9%B6%E8%A2%AB%E5%95%83%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中药材价格暴涨 有的涨十倍](https://www.baidu.com/s?wd=%E4%B8%AD%E8%8D%AF%E6%9D%90%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8+%E6%9C%89%E7%9A%84%E6%B6%A8%E5%8D%81%E5%80%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [吐鲁番火焰山地表温度超80℃](https://www.baidu.com/s?wd=%E5%90%90%E9%B2%81%E7%95%AA%E7%81%AB%E7%84%B0%E5%B1%B1%E5%9C%B0%E8%A1%A8%E6%B8%A9%E5%BA%A6%E8%B6%8580%E2%84%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [郑州脏话斥记者的教育局领导已道歉](https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E8%84%8F%E8%AF%9D%E6%96%A5%E8%AE%B0%E8%80%85%E7%9A%84%E6%95%99%E8%82%B2%E5%B1%80%E9%A2%86%E5%AF%BC%E5%B7%B2%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [六旬老人被海豚撞成骨折并被啃伤](https://www.baidu.com/s?wd=%E5%85%AD%E6%97%AC%E8%80%81%E4%BA%BA%E8%A2%AB%E6%B5%B7%E8%B1%9A%E6%92%9E%E6%88%90%E9%AA%A8%E6%8A%98%E5%B9%B6%E8%A2%AB%E5%95%83%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
