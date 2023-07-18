@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 19:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 19:27:01</h4></div>
 
 > 微博  
 
 1. [韩国网友让宋雨琦回国](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%BD%91%E5%8F%8B%E8%AE%A9%E5%AE%8B%E9%9B%A8%E7%90%A6%E5%9B%9E%E5%9B%BD%23&t=31&band_rank=1&Refer=top)<br />
-2. [男子车流中多次往返清障](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%BD%A6%E6%B5%81%E4%B8%AD%E5%A4%9A%E6%AC%A1%E5%BE%80%E8%BF%94%E6%B8%85%E9%9A%9C%23&t=31&band_rank=2&Refer=top)<br />
+2. [民警请一群阿姨进派出所午睡](https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E8%AF%B7%E4%B8%80%E7%BE%A4%E9%98%BF%E5%A7%A8%E8%BF%9B%E6%B4%BE%E5%87%BA%E6%89%80%E5%8D%88%E7%9D%A1%23&t=31&band_rank=2&Refer=top)<br />
 3. [2023中国网络文明大会](https://s.weibo.com/weibo?q=%232023%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E5%A4%A7%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [演唱会门票被弟弟撕掉了](https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E8%A2%AB%E5%BC%9F%E5%BC%9F%E6%92%95%E6%8E%89%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
-5. [民警请一群阿姨进派出所午睡](https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E8%AF%B7%E4%B8%80%E7%BE%A4%E9%98%BF%E5%A7%A8%E8%BF%9B%E6%B4%BE%E5%87%BA%E6%89%80%E5%8D%88%E7%9D%A1%23&t=31&band_rank=5&Refer=top)<br />
+5. [男子车流中多次往返清障](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%BD%A6%E6%B5%81%E4%B8%AD%E5%A4%9A%E6%AC%A1%E5%BE%80%E8%BF%94%E6%B8%85%E9%9A%9C%23&t=31&band_rank=5&Refer=top)<br />
 6. [酒店双床房为什么只能住两人](https://s.weibo.com/weibo?q=%23%E9%85%92%E5%BA%97%E5%8F%8C%E5%BA%8A%E6%88%BF%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%AA%E8%83%BD%E4%BD%8F%E4%B8%A4%E4%BA%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [清华爸爸拍短视频做儿童知识科普](https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8D%8E%E7%88%B8%E7%88%B8%E6%8B%8D%E7%9F%AD%E8%A7%86%E9%A2%91%E5%81%9A%E5%84%BF%E7%AB%A5%E7%9F%A5%E8%AF%86%E7%A7%91%E6%99%AE%23&t=31&band_rank=7&Refer=top)<br />
 8. [腾讯视频](https://s.weibo.com/weibo?q=%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91&t=31&band_rank=8&Refer=top)<br />
