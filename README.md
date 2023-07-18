@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 18:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-18 18:55:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [男子车流中多次往返清障](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%BD%A6%E6%B5%81%E4%B8%AD%E5%A4%9A%E6%AC%A1%E5%BE%80%E8%BF%94%E6%B8%85%E9%9A%9C%23&t=31&band_rank=5&Refer=top)<br />
 6. [演唱会门票被弟弟撕掉了](https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E8%A2%AB%E5%BC%9F%E5%BC%9F%E6%92%95%E6%8E%89%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [青岛的哥发明面朝大海向左走攻略](https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B%E7%9A%84%E5%93%A5%E5%8F%91%E6%98%8E%E9%9D%A2%E6%9C%9D%E5%A4%A7%E6%B5%B7%E5%90%91%E5%B7%A6%E8%B5%B0%E6%94%BB%E7%95%A5%23&t=31&band_rank=7&Refer=top)<br />
-8. [郑州市教育局道歉](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E5%B8%82%E6%95%99%E8%82%B2%E5%B1%80%E9%81%93%E6%AD%89%23&t=31&band_rank=8&Refer=top)<br />
-9. [腾讯视频](https://s.weibo.com/weibo?q=%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91&t=31&band_rank=9&Refer=top)<br />
+8. [腾讯视频](https://s.weibo.com/weibo?q=%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91&t=31&band_rank=8&Refer=top)<br />
+9. [郑州市教育局道歉](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E5%B8%82%E6%95%99%E8%82%B2%E5%B1%80%E9%81%93%E6%AD%89%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
