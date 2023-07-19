@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-19 17:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-19 17:24:01</h4></div>
 
 > 微博  
 
@@ -23,9 +23,9 @@
 4. [大国造船，乘风破浪](https://www.baidu.com/s?wd=%E5%A4%A7%E5%9B%BD%E9%80%A0%E8%88%B9%EF%BC%8C%E4%B9%98%E9%A3%8E%E7%A0%B4%E6%B5%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [敦煌一景区千余骆驼罢工？景区回应](https://www.baidu.com/s?wd=%E6%95%A6%E7%85%8C%E4%B8%80%E6%99%AF%E5%8C%BA%E5%8D%83%E4%BD%99%E9%AA%86%E9%A9%BC%E7%BD%A2%E5%B7%A5%EF%BC%9F%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [韩国确认249名幽灵儿童死亡](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E7%A1%AE%E8%AE%A4249%E5%90%8D%E5%B9%BD%E7%81%B5%E5%84%BF%E7%AB%A5%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [警方辟谣女孩被拐卖生四孩还被毒哑](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%A5%B3%E5%AD%A9%E8%A2%AB%E6%8B%90%E5%8D%96%E7%94%9F%E5%9B%9B%E5%AD%A9%E8%BF%98%E8%A2%AB%E6%AF%92%E5%93%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [12306回应高铁上能否吃自热火锅](https://www.baidu.com/s?wd=12306%E5%9B%9E%E5%BA%94%E9%AB%98%E9%93%81%E4%B8%8A%E8%83%BD%E5%90%A6%E5%90%83%E8%87%AA%E7%83%AD%E7%81%AB%E9%94%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [超模Gigi因携带大麻被捕](https://www.baidu.com/s?wd=%E8%B6%85%E6%A8%A1Gigi%E5%9B%A0%E6%90%BA%E5%B8%A6%E5%A4%A7%E9%BA%BB%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [越境朝鲜的美士兵在韩期间辱骂韩军](https://www.baidu.com/s?wd=%E8%B6%8A%E5%A2%83%E6%9C%9D%E9%B2%9C%E7%9A%84%E7%BE%8E%E5%A3%AB%E5%85%B5%E5%9C%A8%E9%9F%A9%E6%9C%9F%E9%97%B4%E8%BE%B1%E9%AA%82%E9%9F%A9%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [宝马司机醉驾撞人拖行案最新进展](https://www.baidu.com/s?wd=%E5%AE%9D%E9%A9%AC%E5%8F%B8%E6%9C%BA%E9%86%89%E9%A9%BE%E6%92%9E%E4%BA%BA%E6%8B%96%E8%A1%8C%E6%A1%88%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -35,6 +35,6 @@
 4. [大国造船，乘风破浪](https://www.baidu.com/s?wd=%E5%A4%A7%E5%9B%BD%E9%80%A0%E8%88%B9%EF%BC%8C%E4%B9%98%E9%A3%8E%E7%A0%B4%E6%B5%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [敦煌一景区千余骆驼罢工？景区回应](https://www.baidu.com/s?wd=%E6%95%A6%E7%85%8C%E4%B8%80%E6%99%AF%E5%8C%BA%E5%8D%83%E4%BD%99%E9%AA%86%E9%A9%BC%E7%BD%A2%E5%B7%A5%EF%BC%9F%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [韩国确认249名幽灵儿童死亡](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E7%A1%AE%E8%AE%A4249%E5%90%8D%E5%B9%BD%E7%81%B5%E5%84%BF%E7%AB%A5%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [警方辟谣女孩被拐卖生四孩还被毒哑](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%A5%B3%E5%AD%A9%E8%A2%AB%E6%8B%90%E5%8D%96%E7%94%9F%E5%9B%9B%E5%AD%A9%E8%BF%98%E8%A2%AB%E6%AF%92%E5%93%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [12306回应高铁上能否吃自热火锅](https://www.baidu.com/s?wd=12306%E5%9B%9E%E5%BA%94%E9%AB%98%E9%93%81%E4%B8%8A%E8%83%BD%E5%90%A6%E5%90%83%E8%87%AA%E7%83%AD%E7%81%AB%E9%94%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [超模Gigi因携带大麻被捕](https://www.baidu.com/s?wd=%E8%B6%85%E6%A8%A1Gigi%E5%9B%A0%E6%90%BA%E5%B8%A6%E5%A4%A7%E9%BA%BB%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [越境朝鲜的美士兵在韩期间辱骂韩军](https://www.baidu.com/s?wd=%E8%B6%8A%E5%A2%83%E6%9C%9D%E9%B2%9C%E7%9A%84%E7%BE%8E%E5%A3%AB%E5%85%B5%E5%9C%A8%E9%9F%A9%E6%9C%9F%E9%97%B4%E8%BE%B1%E9%AA%82%E9%9F%A9%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [宝马司机醉驾撞人拖行案最新进展](https://www.baidu.com/s?wd=%E5%AE%9D%E9%A9%AC%E5%8F%B8%E6%9C%BA%E9%86%89%E9%A9%BE%E6%92%9E%E4%BA%BA%E6%8B%96%E8%A1%8C%E6%A1%88%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)<br />
