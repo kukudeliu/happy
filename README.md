@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-19 17:27:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-19 17:28:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [韩国幽灵婴儿已确认249人死亡](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%B9%BD%E7%81%B5%E5%A9%B4%E5%84%BF%E5%B7%B2%E7%A1%AE%E8%AE%A4249%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [树上掉知了一晚上能捡2000元](https://s.weibo.com/weibo?q=%23%E6%A0%91%E4%B8%8A%E6%8E%89%E7%9F%A5%E4%BA%86%E4%B8%80%E6%99%9A%E4%B8%8A%E8%83%BD%E6%8D%A12000%E5%85%83%23&t=31&band_rank=7&Refer=top)<br />
 8. [韩国真的没人生小孩了吗](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%9C%9F%E7%9A%84%E6%B2%A1%E4%BA%BA%E7%94%9F%E5%B0%8F%E5%AD%A9%E4%BA%86%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [医院非法采血致患者感染艾滋病](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E9%9D%9E%E6%B3%95%E9%87%87%E8%A1%80%E8%87%B4%E6%82%A3%E8%80%85%E6%84%9F%E6%9F%93%E8%89%BE%E6%BB%8B%E7%97%85%23&t=31&band_rank=9&Refer=top)<br />
+9. [王一博学跳惊鸿舞](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%AD%A6%E8%B7%B3%E6%83%8A%E9%B8%BF%E8%88%9E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
