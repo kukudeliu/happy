@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-19 18:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-19 18:55:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [男子突然倒地大小便失禁消防员紧急救助](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%AA%81%E7%84%B6%E5%80%92%E5%9C%B0%E5%A4%A7%E5%B0%8F%E4%BE%BF%E5%A4%B1%E7%A6%81%E6%B6%88%E9%98%B2%E5%91%98%E7%B4%A7%E6%80%A5%E6%95%91%E5%8A%A9%23&t=31&band_rank=5&Refer=top)<br />
 6. [陈芋汐女子10米跳台夺金](https://s.weibo.com/weibo?q=%23%E9%99%88%E8%8A%8B%E6%B1%90%E5%A5%B3%E5%AD%9010%E7%B1%B3%E8%B7%B3%E5%8F%B0%E5%A4%BA%E9%87%91%23&t=31&band_rank=6&Refer=top)<br />
 7. [环卫工被疑偷手机民警翻垃圾证清白](https://s.weibo.com/weibo?q=%23%E7%8E%AF%E5%8D%AB%E5%B7%A5%E8%A2%AB%E7%96%91%E5%81%B7%E6%89%8B%E6%9C%BA%E6%B0%91%E8%AD%A6%E7%BF%BB%E5%9E%83%E5%9C%BE%E8%AF%81%E6%B8%85%E7%99%BD%23&t=31&band_rank=7&Refer=top)<br />
-8. [小钰道歉](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%92%B0%E9%81%93%E6%AD%89%23&t=31&band_rank=8&Refer=top)<br />
-9. [魏大勋101舞台](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B101%E8%88%9E%E5%8F%B0%23&t=31&band_rank=9&Refer=top)<br />
+8. [魏大勋101舞台](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B101%E8%88%9E%E5%8F%B0%23&t=31&band_rank=8&Refer=top)<br />
+9. [小钰道歉](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%92%B0%E9%81%93%E6%AD%89%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
