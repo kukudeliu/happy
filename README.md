@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-20 04:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-20 04:14:01</h4></div>
 
 > 微博  
 
@@ -22,10 +22,10 @@
 3. [大麦网到底有没有票？](https://www.baidu.com/s?wd=%E5%A4%A7%E9%BA%A6%E7%BD%91%E5%88%B0%E5%BA%95%E6%9C%89%E6%B2%A1%E6%9C%89%E7%A5%A8%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [营造文明网络生态](https://www.baidu.com/s?wd=%E8%90%A5%E9%80%A0%E6%96%87%E6%98%8E%E7%BD%91%E7%BB%9C%E7%94%9F%E6%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [川大招生视频现“旭日旗”?校方报警](https://www.baidu.com/s?wd=%E5%B7%9D%E5%A4%A7%E6%8B%9B%E7%94%9F%E8%A7%86%E9%A2%91%E7%8E%B0%E2%80%9C%E6%97%AD%E6%97%A5%E6%97%97%E2%80%9D%3F%E6%A0%A1%E6%96%B9%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [祖孙被困暴雨中夫妇邀上车避雨](https://www.baidu.com/s?wd=%E7%A5%96%E5%AD%99%E8%A2%AB%E5%9B%B0%E6%9A%B4%E9%9B%A8%E4%B8%AD%E5%A4%AB%E5%A6%87%E9%82%80%E4%B8%8A%E8%BD%A6%E9%81%BF%E9%9B%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [30秒延时看南京暴雨降临瞬间](https://www.baidu.com/s?wd=30%E7%A7%92%E5%BB%B6%E6%97%B6%E7%9C%8B%E5%8D%97%E4%BA%AC%E6%9A%B4%E9%9B%A8%E9%99%8D%E4%B8%B4%E7%9E%AC%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [南京2男子涵洞躲雨被冲走](https://www.baidu.com/s?wd=%E5%8D%97%E4%BA%AC2%E7%94%B7%E5%AD%90%E6%B6%B5%E6%B4%9E%E8%BA%B2%E9%9B%A8%E8%A2%AB%E5%86%B2%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [普京将不会出席金砖国家领导人峰会](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E5%B0%86%E4%B8%8D%E4%BC%9A%E5%87%BA%E5%B8%AD%E9%87%91%E7%A0%96%E5%9B%BD%E5%AE%B6%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B3%B0%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [空乘发布侮辱乘客言论 春秋航空回应](https://www.baidu.com/s?wd=%E7%A9%BA%E4%B9%98%E5%8F%91%E5%B8%83%E4%BE%AE%E8%BE%B1%E4%B9%98%E5%AE%A2%E8%A8%80%E8%AE%BA+%E6%98%A5%E7%A7%8B%E8%88%AA%E7%A9%BA%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子复婚考察期再次出轨被诉赔偿](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%A4%8D%E5%A9%9A%E8%80%83%E5%AF%9F%E6%9C%9F%E5%86%8D%E6%AC%A1%E5%87%BA%E8%BD%A8%E8%A2%AB%E8%AF%89%E8%B5%94%E5%81%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [30秒延时看南京暴雨降临瞬间](https://www.baidu.com/s?wd=30%E7%A7%92%E5%BB%B6%E6%97%B6%E7%9C%8B%E5%8D%97%E4%BA%AC%E6%9A%B4%E9%9B%A8%E9%99%8D%E4%B8%B4%E7%9E%AC%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [12306回应高铁上能否吃自热火锅](https://www.baidu.com/s?wd=12306%E5%9B%9E%E5%BA%94%E9%AB%98%E9%93%81%E4%B8%8A%E8%83%BD%E5%90%A6%E5%90%83%E8%87%AA%E7%83%AD%E7%81%AB%E9%94%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -34,7 +34,7 @@
 3. [大麦网到底有没有票？](https://www.baidu.com/s?wd=%E5%A4%A7%E9%BA%A6%E7%BD%91%E5%88%B0%E5%BA%95%E6%9C%89%E6%B2%A1%E6%9C%89%E7%A5%A8%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [营造文明网络生态](https://www.baidu.com/s?wd=%E8%90%A5%E9%80%A0%E6%96%87%E6%98%8E%E7%BD%91%E7%BB%9C%E7%94%9F%E6%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [川大招生视频现“旭日旗”?校方报警](https://www.baidu.com/s?wd=%E5%B7%9D%E5%A4%A7%E6%8B%9B%E7%94%9F%E8%A7%86%E9%A2%91%E7%8E%B0%E2%80%9C%E6%97%AD%E6%97%A5%E6%97%97%E2%80%9D%3F%E6%A0%A1%E6%96%B9%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [祖孙被困暴雨中夫妇邀上车避雨](https://www.baidu.com/s?wd=%E7%A5%96%E5%AD%99%E8%A2%AB%E5%9B%B0%E6%9A%B4%E9%9B%A8%E4%B8%AD%E5%A4%AB%E5%A6%87%E9%82%80%E4%B8%8A%E8%BD%A6%E9%81%BF%E9%9B%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [30秒延时看南京暴雨降临瞬间](https://www.baidu.com/s?wd=30%E7%A7%92%E5%BB%B6%E6%97%B6%E7%9C%8B%E5%8D%97%E4%BA%AC%E6%9A%B4%E9%9B%A8%E9%99%8D%E4%B8%B4%E7%9E%AC%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [南京2男子涵洞躲雨被冲走](https://www.baidu.com/s?wd=%E5%8D%97%E4%BA%AC2%E7%94%B7%E5%AD%90%E6%B6%B5%E6%B4%9E%E8%BA%B2%E9%9B%A8%E8%A2%AB%E5%86%B2%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [普京将不会出席金砖国家领导人峰会](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E5%B0%86%E4%B8%8D%E4%BC%9A%E5%87%BA%E5%B8%AD%E9%87%91%E7%A0%96%E5%9B%BD%E5%AE%B6%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B3%B0%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [空乘发布侮辱乘客言论 春秋航空回应](https://www.baidu.com/s?wd=%E7%A9%BA%E4%B9%98%E5%8F%91%E5%B8%83%E4%BE%AE%E8%BE%B1%E4%B9%98%E5%AE%A2%E8%A8%80%E8%AE%BA+%E6%98%A5%E7%A7%8B%E8%88%AA%E7%A9%BA%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子复婚考察期再次出轨被诉赔偿](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%A4%8D%E5%A9%9A%E8%80%83%E5%AF%9F%E6%9C%9F%E5%86%8D%E6%AC%A1%E5%87%BA%E8%BD%A8%E8%A2%AB%E8%AF%89%E8%B5%94%E5%81%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [30秒延时看南京暴雨降临瞬间](https://www.baidu.com/s?wd=30%E7%A7%92%E5%BB%B6%E6%97%B6%E7%9C%8B%E5%8D%97%E4%BA%AC%E6%9A%B4%E9%9B%A8%E9%99%8D%E4%B8%B4%E7%9E%AC%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [12306回应高铁上能否吃自热火锅](https://www.baidu.com/s?wd=12306%E5%9B%9E%E5%BA%94%E9%AB%98%E9%93%81%E4%B8%8A%E8%83%BD%E5%90%A6%E5%90%83%E8%87%AA%E7%83%AD%E7%81%AB%E9%94%85&sa=fyb_news&rsv_dl=fyb_news)<br />
