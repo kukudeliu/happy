@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-19 10:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-19 10:16:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [教育局通报考生质疑成绩被偷](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E9%80%9A%E6%8A%A5%E8%80%83%E7%94%9F%E8%B4%A8%E7%96%91%E6%88%90%E7%BB%A9%E8%A2%AB%E5%81%B7%23&t=31&band_rank=6&Refer=top)<br />
 7. [大奉打更人开机](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%A5%89%E6%89%93%E6%9B%B4%E4%BA%BA%E5%BC%80%E6%9C%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [我怀疑大麦根本就没有票](https://s.weibo.com/weibo?q=%23%E6%88%91%E6%80%80%E7%96%91%E5%A4%A7%E9%BA%A6%E6%A0%B9%E6%9C%AC%E5%B0%B1%E6%B2%A1%E6%9C%89%E7%A5%A8%23&t=31&band_rank=8&Refer=top)<br />
-9. [考生中考分数大跌怀疑成绩被偷](https://s.weibo.com/weibo?q=%23%E8%80%83%E7%94%9F%E4%B8%AD%E8%80%83%E5%88%86%E6%95%B0%E5%A4%A7%E8%B7%8C%E6%80%80%E7%96%91%E6%88%90%E7%BB%A9%E8%A2%AB%E5%81%B7%23&t=31&band_rank=9&Refer=top)<br />
+9. [音乐节一元瓶装水分杯卖十元违法吗](https://s.weibo.com/weibo?q=%23%E9%9F%B3%E4%B9%90%E8%8A%82%E4%B8%80%E5%85%83%E7%93%B6%E8%A3%85%E6%B0%B4%E5%88%86%E6%9D%AF%E5%8D%96%E5%8D%81%E5%85%83%E8%BF%9D%E6%B3%95%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
