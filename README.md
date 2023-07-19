@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-19 10:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-19 10:06:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [教育局通报考生质疑成绩被偷](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E9%80%9A%E6%8A%A5%E8%80%83%E7%94%9F%E8%B4%A8%E7%96%91%E6%88%90%E7%BB%A9%E8%A2%AB%E5%81%B7%23&t=31&band_rank=5&Refer=top)<br />
 6. [周杰伦演唱会2张连座票黄牛叫价15万](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A2%E5%BC%A0%E8%BF%9E%E5%BA%A7%E7%A5%A8%E9%BB%84%E7%89%9B%E5%8F%AB%E4%BB%B715%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [我怀疑大麦根本就没有票](https://s.weibo.com/weibo?q=%23%E6%88%91%E6%80%80%E7%96%91%E5%A4%A7%E9%BA%A6%E6%A0%B9%E6%9C%AC%E5%B0%B1%E6%B2%A1%E6%9C%89%E7%A5%A8%23&t=31&band_rank=7&Refer=top)<br />
-8. [西安发的TFBOYS演唱会观演指南](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E5%8F%91%E7%9A%84TFBOYS%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A7%82%E6%BC%94%E6%8C%87%E5%8D%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [考生中考分数大跌怀疑成绩被偷](https://s.weibo.com/weibo?q=%23%E8%80%83%E7%94%9F%E4%B8%AD%E8%80%83%E5%88%86%E6%95%B0%E5%A4%A7%E8%B7%8C%E6%80%80%E7%96%91%E6%88%90%E7%BB%A9%E8%A2%AB%E5%81%B7%23&t=31&band_rank=9&Refer=top)<br />
+8. [考生中考分数大跌怀疑成绩被偷](https://s.weibo.com/weibo?q=%23%E8%80%83%E7%94%9F%E4%B8%AD%E8%80%83%E5%88%86%E6%95%B0%E5%A4%A7%E8%B7%8C%E6%80%80%E7%96%91%E6%88%90%E7%BB%A9%E8%A2%AB%E5%81%B7%23&t=31&band_rank=8&Refer=top)<br />
+9. [大奉打更人开机](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%A5%89%E6%89%93%E6%9B%B4%E4%BA%BA%E5%BC%80%E6%9C%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
