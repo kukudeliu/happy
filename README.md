@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-19 13:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-19 13:22:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [郭启刚回国投案](https://s.weibo.com/weibo?q=%23%E9%83%AD%E5%90%AF%E5%88%9A%E5%9B%9E%E5%9B%BD%E6%8A%95%E6%A1%88%23&t=31&band_rank=6&Refer=top)<br />
 7. [白敬亭魏大勋刘昊然同框路透](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E9%AD%8F%E5%A4%A7%E5%8B%8B%E5%88%98%E6%98%8A%E7%84%B6%E5%90%8C%E6%A1%86%E8%B7%AF%E9%80%8F%23&t=31&band_rank=7&Refer=top)<br />
 8. [李飞你不官宣是有什么顾虑吗](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%A3%9E%E4%BD%A0%E4%B8%8D%E5%AE%98%E5%AE%A3%E6%98%AF%E6%9C%89%E4%BB%80%E4%B9%88%E9%A1%BE%E8%99%91%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [我的人间烟火 灭火器](https://s.weibo.com/weibo?q=%E6%88%91%E7%9A%84%E4%BA%BA%E9%97%B4%E7%83%9F%E7%81%AB%20%E7%81%AD%E7%81%AB%E5%99%A8&t=31&band_rank=9&Refer=top)<br />
+9. [白敬亭向涵之 仙台有树](https://s.weibo.com/weibo?q=%E7%99%BD%E6%95%AC%E4%BA%AD%E5%90%91%E6%B6%B5%E4%B9%8B%20%E4%BB%99%E5%8F%B0%E6%9C%89%E6%A0%91&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
