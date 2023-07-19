@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-19 19:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-19 19:26:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [刘雯井柏然相拥大片](https://s.weibo.com/weibo?q=%23%E5%88%98%E9%9B%AF%E4%BA%95%E6%9F%8F%E7%84%B6%E7%9B%B8%E6%8B%A5%E5%A4%A7%E7%89%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [在飞机上偶遇了一场音乐会](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E9%A3%9E%E6%9C%BA%E4%B8%8A%E5%81%B6%E9%81%87%E4%BA%86%E4%B8%80%E5%9C%BA%E9%9F%B3%E4%B9%90%E4%BC%9A%23&t=31&band_rank=7&Refer=top)<br />
 8. [魏大勋101舞台](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B101%E8%88%9E%E5%8F%B0%23&t=31&band_rank=8&Refer=top)<br />
-9. [奥本海默确认引进](https://s.weibo.com/weibo?q=%23%E5%A5%A5%E6%9C%AC%E6%B5%B7%E9%BB%98%E7%A1%AE%E8%AE%A4%E5%BC%95%E8%BF%9B%23&t=31&band_rank=9&Refer=top)<br />
+9. [陈芋汐全红婵又包揽冠亚军了](https://s.weibo.com/weibo?q=%23%E9%99%88%E8%8A%8B%E6%B1%90%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%8F%88%E5%8C%85%E6%8F%BD%E5%86%A0%E4%BA%9A%E5%86%9B%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
