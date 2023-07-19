@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-19 21:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-19 21:44:01</h4></div>
 
 > 微博  
 
@@ -23,9 +23,9 @@
 4. [营造文明网络生态](https://www.baidu.com/s?wd=%E8%90%A5%E9%80%A0%E6%96%87%E6%98%8E%E7%BD%91%E7%BB%9C%E7%94%9F%E6%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [川大招生视频现“旭日旗”?校方报警](https://www.baidu.com/s?wd=%E5%B7%9D%E5%A4%A7%E6%8B%9B%E7%94%9F%E8%A7%86%E9%A2%91%E7%8E%B0%E2%80%9C%E6%97%AD%E6%97%A5%E6%97%97%E2%80%9D%3F%E6%A0%A1%E6%96%B9%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [王传君诈骗头子不像演的](https://www.baidu.com/s?wd=%E7%8E%8B%E4%BC%A0%E5%90%9B%E8%AF%88%E9%AA%97%E5%A4%B4%E5%AD%90%E4%B8%8D%E5%83%8F%E6%BC%94%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [考生警校录取信息被删除？官方通报](https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%E8%AD%A6%E6%A0%A1%E5%BD%95%E5%8F%96%E4%BF%A1%E6%81%AF%E8%A2%AB%E5%88%A0%E9%99%A4%EF%BC%9F%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [校方回应唐尚珺高考被退档](https://www.baidu.com/s?wd=%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94%E5%94%90%E5%B0%9A%E7%8F%BA%E9%AB%98%E8%80%83%E8%A2%AB%E9%80%80%E6%A1%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [南京2男子涵洞躲雨被冲走](https://www.baidu.com/s?wd=%E5%8D%97%E4%BA%AC2%E7%94%B7%E5%AD%90%E6%B6%B5%E6%B4%9E%E8%BA%B2%E9%9B%A8%E8%A2%AB%E5%86%B2%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [警察跳水救人后满身绿藻摆手离开](https://www.baidu.com/s?wd=%E8%AD%A6%E5%AF%9F%E8%B7%B3%E6%B0%B4%E6%95%91%E4%BA%BA%E5%90%8E%E6%BB%A1%E8%BA%AB%E7%BB%BF%E8%97%BB%E6%91%86%E6%89%8B%E7%A6%BB%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [考生警校录取信息被删除？官方通报](https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%E8%AD%A6%E6%A0%A1%E5%BD%95%E5%8F%96%E4%BF%A1%E6%81%AF%E8%A2%AB%E5%88%A0%E9%99%A4%EF%BC%9F%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [回流生参加西安中考为何引众怒](https://www.baidu.com/s?wd=%E5%9B%9E%E6%B5%81%E7%94%9F%E5%8F%82%E5%8A%A0%E8%A5%BF%E5%AE%89%E4%B8%AD%E8%80%83%E4%B8%BA%E4%BD%95%E5%BC%95%E4%BC%97%E6%80%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -35,6 +35,6 @@
 4. [营造文明网络生态](https://www.baidu.com/s?wd=%E8%90%A5%E9%80%A0%E6%96%87%E6%98%8E%E7%BD%91%E7%BB%9C%E7%94%9F%E6%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [川大招生视频现“旭日旗”?校方报警](https://www.baidu.com/s?wd=%E5%B7%9D%E5%A4%A7%E6%8B%9B%E7%94%9F%E8%A7%86%E9%A2%91%E7%8E%B0%E2%80%9C%E6%97%AD%E6%97%A5%E6%97%97%E2%80%9D%3F%E6%A0%A1%E6%96%B9%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [王传君诈骗头子不像演的](https://www.baidu.com/s?wd=%E7%8E%8B%E4%BC%A0%E5%90%9B%E8%AF%88%E9%AA%97%E5%A4%B4%E5%AD%90%E4%B8%8D%E5%83%8F%E6%BC%94%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [考生警校录取信息被删除？官方通报](https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%E8%AD%A6%E6%A0%A1%E5%BD%95%E5%8F%96%E4%BF%A1%E6%81%AF%E8%A2%AB%E5%88%A0%E9%99%A4%EF%BC%9F%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [校方回应唐尚珺高考被退档](https://www.baidu.com/s?wd=%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94%E5%94%90%E5%B0%9A%E7%8F%BA%E9%AB%98%E8%80%83%E8%A2%AB%E9%80%80%E6%A1%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [南京2男子涵洞躲雨被冲走](https://www.baidu.com/s?wd=%E5%8D%97%E4%BA%AC2%E7%94%B7%E5%AD%90%E6%B6%B5%E6%B4%9E%E8%BA%B2%E9%9B%A8%E8%A2%AB%E5%86%B2%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [警察跳水救人后满身绿藻摆手离开](https://www.baidu.com/s?wd=%E8%AD%A6%E5%AF%9F%E8%B7%B3%E6%B0%B4%E6%95%91%E4%BA%BA%E5%90%8E%E6%BB%A1%E8%BA%AB%E7%BB%BF%E8%97%BB%E6%91%86%E6%89%8B%E7%A6%BB%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [考生警校录取信息被删除？官方通报](https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%E8%AD%A6%E6%A0%A1%E5%BD%95%E5%8F%96%E4%BF%A1%E6%81%AF%E8%A2%AB%E5%88%A0%E9%99%A4%EF%BC%9F%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [回流生参加西安中考为何引众怒](https://www.baidu.com/s?wd=%E5%9B%9E%E6%B5%81%E7%94%9F%E5%8F%82%E5%8A%A0%E8%A5%BF%E5%AE%89%E4%B8%AD%E8%80%83%E4%B8%BA%E4%BD%95%E5%BC%95%E4%BC%97%E6%80%92&sa=fyb_news&rsv_dl=fyb_news)<br />
