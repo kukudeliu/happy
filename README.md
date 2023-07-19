@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-19 19:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-19 19:09:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [敦煌一景区千余骆驼罢工？景区回应](https://www.baidu.com/s?wd=%E6%95%A6%E7%85%8C%E4%B8%80%E6%99%AF%E5%8C%BA%E5%8D%83%E4%BD%99%E9%AA%86%E9%A9%BC%E7%BD%A2%E5%B7%A5%EF%BC%9F%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [小钰道歉](https://www.baidu.com/s?wd=%E5%B0%8F%E9%92%B0%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [川大招生视频现“旭日旗”?校方报警](https://www.baidu.com/s?wd=%E5%B7%9D%E5%A4%A7%E6%8B%9B%E7%94%9F%E8%A7%86%E9%A2%91%E7%8E%B0%E2%80%9C%E6%97%AD%E6%97%A5%E6%97%97%E2%80%9D%3F%E6%A0%A1%E6%96%B9%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [景区摆渡车，载客还是“宰客”？](https://www.baidu.com/s?wd=%E6%99%AF%E5%8C%BA%E6%91%86%E6%B8%A1%E8%BD%A6%EF%BC%8C%E8%BD%BD%E5%AE%A2%E8%BF%98%E6%98%AF%E2%80%9C%E5%AE%B0%E5%AE%A2%E2%80%9D%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [杨洋“翰化”](https://www.baidu.com/s?wd=%E6%9D%A8%E6%B4%8B%E2%80%9C%E7%BF%B0%E5%8C%96%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [辣条在韩国火了](https://www.baidu.com/s?wd=%E8%BE%A3%E6%9D%A1%E5%9C%A8%E9%9F%A9%E5%9B%BD%E7%81%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [乒乓球奥运冠军吕林升正厅](https://www.baidu.com/s?wd=%E4%B9%92%E4%B9%93%E7%90%83%E5%A5%A5%E8%BF%90%E5%86%A0%E5%86%9B%E5%90%95%E6%9E%97%E5%8D%87%E6%AD%A3%E5%8E%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [敦煌一景区千余骆驼罢工？景区回应](https://www.baidu.com/s?wd=%E6%95%A6%E7%85%8C%E4%B8%80%E6%99%AF%E5%8C%BA%E5%8D%83%E4%BD%99%E9%AA%86%E9%A9%BC%E7%BD%A2%E5%B7%A5%EF%BC%9F%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [小钰道歉](https://www.baidu.com/s?wd=%E5%B0%8F%E9%92%B0%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [川大招生视频现“旭日旗”?校方报警](https://www.baidu.com/s?wd=%E5%B7%9D%E5%A4%A7%E6%8B%9B%E7%94%9F%E8%A7%86%E9%A2%91%E7%8E%B0%E2%80%9C%E6%97%AD%E6%97%A5%E6%97%97%E2%80%9D%3F%E6%A0%A1%E6%96%B9%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [景区摆渡车，载客还是“宰客”？](https://www.baidu.com/s?wd=%E6%99%AF%E5%8C%BA%E6%91%86%E6%B8%A1%E8%BD%A6%EF%BC%8C%E8%BD%BD%E5%AE%A2%E8%BF%98%E6%98%AF%E2%80%9C%E5%AE%B0%E5%AE%A2%E2%80%9D%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [杨洋“翰化”](https://www.baidu.com/s?wd=%E6%9D%A8%E6%B4%8B%E2%80%9C%E7%BF%B0%E5%8C%96%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [辣条在韩国火了](https://www.baidu.com/s?wd=%E8%BE%A3%E6%9D%A1%E5%9C%A8%E9%9F%A9%E5%9B%BD%E7%81%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [乒乓球奥运冠军吕林升正厅](https://www.baidu.com/s?wd=%E4%B9%92%E4%B9%93%E7%90%83%E5%A5%A5%E8%BF%90%E5%86%A0%E5%86%9B%E5%90%95%E6%9E%97%E5%8D%87%E6%AD%A3%E5%8E%85&sa=fyb_news&rsv_dl=fyb_news)<br />
