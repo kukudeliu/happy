@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-19 08:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-19 08:39:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [何欢出车祸](https://s.weibo.com/weibo?q=%23%E4%BD%95%E6%AC%A2%E5%87%BA%E8%BD%A6%E7%A5%B8%23&t=31&band_rank=6&Refer=top)<br />
 7. [男子工地2次中暑后自制防晒神器](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%B7%A5%E5%9C%B02%E6%AC%A1%E4%B8%AD%E6%9A%91%E5%90%8E%E8%87%AA%E5%88%B6%E9%98%B2%E6%99%92%E7%A5%9E%E5%99%A8%23&t=31&band_rank=7&Refer=top)<br />
 8. [24岁清华女博士将任西工大准聘副教授](https://s.weibo.com/weibo?q=%2324%E5%B2%81%E6%B8%85%E5%8D%8E%E5%A5%B3%E5%8D%9A%E5%A3%AB%E5%B0%86%E4%BB%BB%E8%A5%BF%E5%B7%A5%E5%A4%A7%E5%87%86%E8%81%98%E5%89%AF%E6%95%99%E6%8E%88%23&t=31&band_rank=8&Refer=top)<br />
-9. [孟宴臣父亲桌上摆着全家福](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AE%B4%E8%87%A3%E7%88%B6%E4%BA%B2%E6%A1%8C%E4%B8%8A%E6%91%86%E7%9D%80%E5%85%A8%E5%AE%B6%E7%A6%8F%23&t=31&band_rank=9&Refer=top)<br />
+9. [宋焰给了孟宴臣10年机会](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E7%84%B0%E7%BB%99%E4%BA%86%E5%AD%9F%E5%AE%B4%E8%87%A310%E5%B9%B4%E6%9C%BA%E4%BC%9A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,8 +24,8 @@
 5. [印度爆发“西红柿之乱”](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E7%88%86%E5%8F%91%E2%80%9C%E8%A5%BF%E7%BA%A2%E6%9F%BF%E4%B9%8B%E4%B9%B1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [省委书记省长与25位企业家共进早餐](https://www.baidu.com/s?wd=%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E7%9C%81%E9%95%BF%E4%B8%8E25%E4%BD%8D%E4%BC%81%E4%B8%9A%E5%AE%B6%E5%85%B1%E8%BF%9B%E6%97%A9%E9%A4%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [回流生参加西安中考为何引众怒](https://www.baidu.com/s?wd=%E5%9B%9E%E6%B5%81%E7%94%9F%E5%8F%82%E5%8A%A0%E8%A5%BF%E5%AE%89%E4%B8%AD%E8%80%83%E4%B8%BA%E4%BD%95%E5%BC%95%E4%BC%97%E6%80%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [美猴王猴子造型被网友吐槽](https://www.baidu.com/s?wd=%E7%BE%8E%E7%8C%B4%E7%8E%8B%E7%8C%B4%E5%AD%90%E9%80%A0%E5%9E%8B%E8%A2%AB%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [人民网评“奶辣风”流行](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E2%80%9C%E5%A5%B6%E8%BE%A3%E9%A3%8E%E2%80%9D%E6%B5%81%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [新能源汽车充电桩费用开始上涨](https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E5%85%85%E7%94%B5%E6%A1%A9%E8%B4%B9%E7%94%A8%E5%BC%80%E5%A7%8B%E4%B8%8A%E6%B6%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [美猴王猴子造型被网友吐槽](https://www.baidu.com/s?wd=%E7%BE%8E%E7%8C%B4%E7%8E%8B%E7%8C%B4%E5%AD%90%E9%80%A0%E5%9E%8B%E8%A2%AB%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [印度爆发“西红柿之乱”](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E7%88%86%E5%8F%91%E2%80%9C%E8%A5%BF%E7%BA%A2%E6%9F%BF%E4%B9%8B%E4%B9%B1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [省委书记省长与25位企业家共进早餐](https://www.baidu.com/s?wd=%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E7%9C%81%E9%95%BF%E4%B8%8E25%E4%BD%8D%E4%BC%81%E4%B8%9A%E5%AE%B6%E5%85%B1%E8%BF%9B%E6%97%A9%E9%A4%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [回流生参加西安中考为何引众怒](https://www.baidu.com/s?wd=%E5%9B%9E%E6%B5%81%E7%94%9F%E5%8F%82%E5%8A%A0%E8%A5%BF%E5%AE%89%E4%B8%AD%E8%80%83%E4%B8%BA%E4%BD%95%E5%BC%95%E4%BC%97%E6%80%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [美猴王猴子造型被网友吐槽](https://www.baidu.com/s?wd=%E7%BE%8E%E7%8C%B4%E7%8E%8B%E7%8C%B4%E5%AD%90%E9%80%A0%E5%9E%8B%E8%A2%AB%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [人民网评“奶辣风”流行](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E2%80%9C%E5%A5%B6%E8%BE%A3%E9%A3%8E%E2%80%9D%E6%B5%81%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [新能源汽车充电桩费用开始上涨](https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E5%85%85%E7%94%B5%E6%A1%A9%E8%B4%B9%E7%94%A8%E5%BC%80%E5%A7%8B%E4%B8%8A%E6%B6%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [美猴王猴子造型被网友吐槽](https://www.baidu.com/s?wd=%E7%BE%8E%E7%8C%B4%E7%8E%8B%E7%8C%B4%E5%AD%90%E9%80%A0%E5%9E%8B%E8%A2%AB%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
