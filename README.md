@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-19 19:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-19 19:14:01</h4></div>
 
 > 微博  
 
@@ -22,10 +22,10 @@
 3. [美特斯邦威带所有员工离沪迁杭](https://www.baidu.com/s?wd=%E7%BE%8E%E7%89%B9%E6%96%AF%E9%82%A6%E5%A8%81%E5%B8%A6%E6%89%80%E6%9C%89%E5%91%98%E5%B7%A5%E7%A6%BB%E6%B2%AA%E8%BF%81%E6%9D%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [2023年中国网络文明大会举行](https://www.baidu.com/s?wd=2023%E5%B9%B4%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E5%A4%A7%E4%BC%9A%E4%B8%BE%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [敦煌一景区千余骆驼罢工？景区回应](https://www.baidu.com/s?wd=%E6%95%A6%E7%85%8C%E4%B8%80%E6%99%AF%E5%8C%BA%E5%8D%83%E4%BD%99%E9%AA%86%E9%A9%BC%E7%BD%A2%E5%B7%A5%EF%BC%9F%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [小钰道歉](https://www.baidu.com/s?wd=%E5%B0%8F%E9%92%B0%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [川大招生视频现“旭日旗”?校方报警](https://www.baidu.com/s?wd=%E5%B7%9D%E5%A4%A7%E6%8B%9B%E7%94%9F%E8%A7%86%E9%A2%91%E7%8E%B0%E2%80%9C%E6%97%AD%E6%97%A5%E6%97%97%E2%80%9D%3F%E6%A0%A1%E6%96%B9%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [乒乓球奥运冠军吕林升正厅](https://www.baidu.com/s?wd=%E4%B9%92%E4%B9%93%E7%90%83%E5%A5%A5%E8%BF%90%E5%86%A0%E5%86%9B%E5%90%95%E6%9E%97%E5%8D%87%E6%AD%A3%E5%8E%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [韩国真的没人生小孩了吗？](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E7%9C%9F%E7%9A%84%E6%B2%A1%E4%BA%BA%E7%94%9F%E5%B0%8F%E5%AD%A9%E4%BA%86%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [川大招生视频现“旭日旗”?校方报警](https://www.baidu.com/s?wd=%E5%B7%9D%E5%A4%A7%E6%8B%9B%E7%94%9F%E8%A7%86%E9%A2%91%E7%8E%B0%E2%80%9C%E6%97%AD%E6%97%A5%E6%97%97%E2%80%9D%3F%E6%A0%A1%E6%96%B9%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [小钰道歉](https://www.baidu.com/s?wd=%E5%B0%8F%E9%92%B0%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [韩国真的没人生小孩了吗？](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E7%9C%9F%E7%9A%84%E6%B2%A1%E4%BA%BA%E7%94%9F%E5%B0%8F%E5%AD%A9%E4%BA%86%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子疑持棍棒打死父亲并袭警](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%96%91%E6%8C%81%E6%A3%8D%E6%A3%92%E6%89%93%E6%AD%BB%E7%88%B6%E4%BA%B2%E5%B9%B6%E8%A2%AD%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -34,7 +34,7 @@
 3. [美特斯邦威带所有员工离沪迁杭](https://www.baidu.com/s?wd=%E7%BE%8E%E7%89%B9%E6%96%AF%E9%82%A6%E5%A8%81%E5%B8%A6%E6%89%80%E6%9C%89%E5%91%98%E5%B7%A5%E7%A6%BB%E6%B2%AA%E8%BF%81%E6%9D%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [2023年中国网络文明大会举行](https://www.baidu.com/s?wd=2023%E5%B9%B4%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E5%A4%A7%E4%BC%9A%E4%B8%BE%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [敦煌一景区千余骆驼罢工？景区回应](https://www.baidu.com/s?wd=%E6%95%A6%E7%85%8C%E4%B8%80%E6%99%AF%E5%8C%BA%E5%8D%83%E4%BD%99%E9%AA%86%E9%A9%BC%E7%BD%A2%E5%B7%A5%EF%BC%9F%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [小钰道歉](https://www.baidu.com/s?wd=%E5%B0%8F%E9%92%B0%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [川大招生视频现“旭日旗”?校方报警](https://www.baidu.com/s?wd=%E5%B7%9D%E5%A4%A7%E6%8B%9B%E7%94%9F%E8%A7%86%E9%A2%91%E7%8E%B0%E2%80%9C%E6%97%AD%E6%97%A5%E6%97%97%E2%80%9D%3F%E6%A0%A1%E6%96%B9%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [乒乓球奥运冠军吕林升正厅](https://www.baidu.com/s?wd=%E4%B9%92%E4%B9%93%E7%90%83%E5%A5%A5%E8%BF%90%E5%86%A0%E5%86%9B%E5%90%95%E6%9E%97%E5%8D%87%E6%AD%A3%E5%8E%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [韩国真的没人生小孩了吗？](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E7%9C%9F%E7%9A%84%E6%B2%A1%E4%BA%BA%E7%94%9F%E5%B0%8F%E5%AD%A9%E4%BA%86%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [川大招生视频现“旭日旗”?校方报警](https://www.baidu.com/s?wd=%E5%B7%9D%E5%A4%A7%E6%8B%9B%E7%94%9F%E8%A7%86%E9%A2%91%E7%8E%B0%E2%80%9C%E6%97%AD%E6%97%A5%E6%97%97%E2%80%9D%3F%E6%A0%A1%E6%96%B9%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [小钰道歉](https://www.baidu.com/s?wd=%E5%B0%8F%E9%92%B0%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [韩国真的没人生小孩了吗？](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E7%9C%9F%E7%9A%84%E6%B2%A1%E4%BA%BA%E7%94%9F%E5%B0%8F%E5%AD%A9%E4%BA%86%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子疑持棍棒打死父亲并袭警](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%96%91%E6%8C%81%E6%A3%8D%E6%A3%92%E6%89%93%E6%AD%BB%E7%88%B6%E4%BA%B2%E5%B9%B6%E8%A2%AD%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
