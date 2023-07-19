@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-19 16:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-19 16:14:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [美特斯邦威带所有员工离沪迁杭](https://www.baidu.com/s?wd=%E7%BE%8E%E7%89%B9%E6%96%AF%E9%82%A6%E5%A8%81%E5%B8%A6%E6%89%80%E6%9C%89%E5%91%98%E5%B7%A5%E7%A6%BB%E6%B2%AA%E8%BF%81%E6%9D%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [超模Gigi因携带大麻被捕](https://www.baidu.com/s?wd=%E8%B6%85%E6%A8%A1Gigi%E5%9B%A0%E6%90%BA%E5%B8%A6%E5%A4%A7%E9%BA%BB%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [辣条在韩国火了](https://www.baidu.com/s?wd=%E8%BE%A3%E6%9D%A1%E5%9C%A8%E9%9F%A9%E5%9B%BD%E7%81%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [母女打网约车 被出租车司机围堵](https://www.baidu.com/s?wd=%E6%AF%8D%E5%A5%B3%E6%89%93%E7%BD%91%E7%BA%A6%E8%BD%A6+%E8%A2%AB%E5%87%BA%E7%A7%9F%E8%BD%A6%E5%8F%B8%E6%9C%BA%E5%9B%B4%E5%A0%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [公司1.2亿租楼300每月租给员工住](https://www.baidu.com/s?wd=%E5%85%AC%E5%8F%B81.2%E4%BA%BF%E7%A7%9F%E6%A5%BC300%E6%AF%8F%E6%9C%88%E7%A7%9F%E7%BB%99%E5%91%98%E5%B7%A5%E4%BD%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [美特斯邦威带所有员工离沪迁杭](https://www.baidu.com/s?wd=%E7%BE%8E%E7%89%B9%E6%96%AF%E9%82%A6%E5%A8%81%E5%B8%A6%E6%89%80%E6%9C%89%E5%91%98%E5%B7%A5%E7%A6%BB%E6%B2%AA%E8%BF%81%E6%9D%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [超模Gigi因携带大麻被捕](https://www.baidu.com/s?wd=%E8%B6%85%E6%A8%A1Gigi%E5%9B%A0%E6%90%BA%E5%B8%A6%E5%A4%A7%E9%BA%BB%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [辣条在韩国火了](https://www.baidu.com/s?wd=%E8%BE%A3%E6%9D%A1%E5%9C%A8%E9%9F%A9%E5%9B%BD%E7%81%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [母女打网约车 被出租车司机围堵](https://www.baidu.com/s?wd=%E6%AF%8D%E5%A5%B3%E6%89%93%E7%BD%91%E7%BA%A6%E8%BD%A6+%E8%A2%AB%E5%87%BA%E7%A7%9F%E8%BD%A6%E5%8F%B8%E6%9C%BA%E5%9B%B4%E5%A0%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [公司1.2亿租楼300每月租给员工住](https://www.baidu.com/s?wd=%E5%85%AC%E5%8F%B81.2%E4%BA%BF%E7%A7%9F%E6%A5%BC300%E6%AF%8F%E6%9C%88%E7%A7%9F%E7%BB%99%E5%91%98%E5%B7%A5%E4%BD%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
