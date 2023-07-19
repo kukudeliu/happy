@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-19 09:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-19 09:29:02</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [印度爆发“西红柿之乱”](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E7%88%86%E5%8F%91%E2%80%9C%E8%A5%BF%E7%BA%A2%E6%9F%BF%E4%B9%8B%E4%B9%B1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子复婚考察期再次出轨被诉赔偿](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%A4%8D%E5%A9%9A%E8%80%83%E5%AF%9F%E6%9C%9F%E5%86%8D%E6%AC%A1%E5%87%BA%E8%BD%A8%E8%A2%AB%E8%AF%89%E8%B5%94%E5%81%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [因拒绝逮捕普京 南非总统被起诉](https://www.baidu.com/s?wd=%E5%9B%A0%E6%8B%92%E7%BB%9D%E9%80%AE%E6%8D%95%E6%99%AE%E4%BA%AC+%E5%8D%97%E9%9D%9E%E6%80%BB%E7%BB%9F%E8%A2%AB%E8%B5%B7%E8%AF%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [回流生参加西安中考为何引众怒](https://www.baidu.com/s?wd=%E5%9B%9E%E6%B5%81%E7%94%9F%E5%8F%82%E5%8A%A0%E8%A5%BF%E5%AE%89%E4%B8%AD%E8%80%83%E4%B8%BA%E4%BD%95%E5%BC%95%E4%BC%97%E6%80%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [新能源汽车充电桩费用开始上涨](https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E5%85%85%E7%94%B5%E6%A1%A9%E8%B4%B9%E7%94%A8%E5%BC%80%E5%A7%8B%E4%B8%8A%E6%B6%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [新能源汽车充电桩费用开始上涨](https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E5%85%85%E7%94%B5%E6%A1%A9%E8%B4%B9%E7%94%A8%E5%BC%80%E5%A7%8B%E4%B8%8A%E6%B6%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [福州一工程师跳污水井救2人后遇难](https://www.baidu.com/s?wd=%E7%A6%8F%E5%B7%9E%E4%B8%80%E5%B7%A5%E7%A8%8B%E5%B8%88%E8%B7%B3%E6%B1%A1%E6%B0%B4%E4%BA%95%E6%95%912%E4%BA%BA%E5%90%8E%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [印度爆发“西红柿之乱”](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E7%88%86%E5%8F%91%E2%80%9C%E8%A5%BF%E7%BA%A2%E6%9F%BF%E4%B9%8B%E4%B9%B1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子复婚考察期再次出轨被诉赔偿](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%A4%8D%E5%A9%9A%E8%80%83%E5%AF%9F%E6%9C%9F%E5%86%8D%E6%AC%A1%E5%87%BA%E8%BD%A8%E8%A2%AB%E8%AF%89%E8%B5%94%E5%81%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [因拒绝逮捕普京 南非总统被起诉](https://www.baidu.com/s?wd=%E5%9B%A0%E6%8B%92%E7%BB%9D%E9%80%AE%E6%8D%95%E6%99%AE%E4%BA%AC+%E5%8D%97%E9%9D%9E%E6%80%BB%E7%BB%9F%E8%A2%AB%E8%B5%B7%E8%AF%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [回流生参加西安中考为何引众怒](https://www.baidu.com/s?wd=%E5%9B%9E%E6%B5%81%E7%94%9F%E5%8F%82%E5%8A%A0%E8%A5%BF%E5%AE%89%E4%B8%AD%E8%80%83%E4%B8%BA%E4%BD%95%E5%BC%95%E4%BC%97%E6%80%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [新能源汽车充电桩费用开始上涨](https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E5%85%85%E7%94%B5%E6%A1%A9%E8%B4%B9%E7%94%A8%E5%BC%80%E5%A7%8B%E4%B8%8A%E6%B6%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [新能源汽车充电桩费用开始上涨](https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E5%85%85%E7%94%B5%E6%A1%A9%E8%B4%B9%E7%94%A8%E5%BC%80%E5%A7%8B%E4%B8%8A%E6%B6%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [福州一工程师跳污水井救2人后遇难](https://www.baidu.com/s?wd=%E7%A6%8F%E5%B7%9E%E4%B8%80%E5%B7%A5%E7%A8%8B%E5%B8%88%E8%B7%B3%E6%B1%A1%E6%B0%B4%E4%BA%95%E6%95%912%E4%BA%BA%E5%90%8E%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
