@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-19 20:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-19 20:21:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [四川大学回应网传视频](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E8%A7%86%E9%A2%91%23&t=31&band_rank=2&Refer=top)<br />
 3. [我国累计建成5G基站超293万个](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E7%B4%AF%E8%AE%A1%E5%BB%BA%E6%88%905G%E5%9F%BA%E7%AB%99%E8%B6%85293%E4%B8%87%E4%B8%AA%23&t=31&band_rank=3&Refer=top)<br />
 4. [张雨绮初中因为颜值被全校围观](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%A8%E7%BB%AE%E5%88%9D%E4%B8%AD%E5%9B%A0%E4%B8%BA%E9%A2%9C%E5%80%BC%E8%A2%AB%E5%85%A8%E6%A0%A1%E5%9B%B4%E8%A7%82%23&t=31&band_rank=4&Refer=top)<br />
-5. [奥本海默确认引进](https://s.weibo.com/weibo?q=%23%E5%A5%A5%E6%9C%AC%E6%B5%B7%E9%BB%98%E7%A1%AE%E8%AE%A4%E5%BC%95%E8%BF%9B%23&t=31&band_rank=5&Refer=top)<br />
-6. [杨洋新剧蓝衣路透](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B4%8B%E6%96%B0%E5%89%A7%E8%93%9D%E8%A1%A3%E8%B7%AF%E9%80%8F%23&t=31&band_rank=6&Refer=top)<br />
+5. [杨洋新剧蓝衣路透](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B4%8B%E6%96%B0%E5%89%A7%E8%93%9D%E8%A1%A3%E8%B7%AF%E9%80%8F%23&t=31&band_rank=5&Refer=top)<br />
+6. [奥本海默确认引进](https://s.weibo.com/weibo?q=%23%E5%A5%A5%E6%9C%AC%E6%B5%B7%E9%BB%98%E7%A1%AE%E8%AE%A4%E5%BC%95%E8%BF%9B%23&t=31&band_rank=6&Refer=top)<br />
 7. [魏大勋101舞台](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B101%E8%88%9E%E5%8F%B0%23&t=31&band_rank=7&Refer=top)<br />
 8. [何非你怎么敢来吴京剧组](https://s.weibo.com/weibo?q=%23%E4%BD%95%E9%9D%9E%E4%BD%A0%E6%80%8E%E4%B9%88%E6%95%A2%E6%9D%A5%E5%90%B4%E4%BA%AC%E5%89%A7%E7%BB%84%23&t=31&band_rank=8&Refer=top)<br />
 9. [官方通报男子虐待婴儿事件](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%90%E8%99%90%E5%BE%85%E5%A9%B4%E5%84%BF%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=9&Refer=top)<br />
