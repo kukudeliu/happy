@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-19 21:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-19 21:32:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [北京广告协会删除对蔡某某的风险把控提示](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%B9%BF%E5%91%8A%E5%8D%8F%E4%BC%9A%E5%88%A0%E9%99%A4%E5%AF%B9%E8%94%A1%E6%9F%90%E6%9F%90%E7%9A%84%E9%A3%8E%E9%99%A9%E6%8A%8A%E6%8E%A7%E6%8F%90%E7%A4%BA%23&t=31&band_rank=5&Refer=top)<br />
 6. [四个显眼包都营业了](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E4%B8%AA%E6%98%BE%E7%9C%BC%E5%8C%85%E9%83%BD%E8%90%A5%E4%B8%9A%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [左航被救护车接走](https://s.weibo.com/weibo?q=%23%E5%B7%A6%E8%88%AA%E8%A2%AB%E6%95%91%E6%8A%A4%E8%BD%A6%E6%8E%A5%E8%B5%B0%23&t=31&band_rank=7&Refer=top)<br />
-8. [韩国整容中心门口的鼻子墙](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%95%B4%E5%AE%B9%E4%B8%AD%E5%BF%83%E9%97%A8%E5%8F%A3%E7%9A%84%E9%BC%BB%E5%AD%90%E5%A2%99%23&t=31&band_rank=8&Refer=top)<br />
-9. [方川导演 孟宴臣](https://s.weibo.com/weibo?q=%E6%96%B9%E5%B7%9D%E5%AF%BC%E6%BC%94%20%E5%AD%9F%E5%AE%B4%E8%87%A3&t=31&band_rank=9&Refer=top)<br />
+8. [方川导演 孟宴臣](https://s.weibo.com/weibo?q=%E6%96%B9%E5%B7%9D%E5%AF%BC%E6%BC%94%20%E5%AD%9F%E5%AE%B4%E8%87%A3&t=31&band_rank=8&Refer=top)<br />
+9. [韩国整容中心门口的鼻子墙](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%95%B4%E5%AE%B9%E4%B8%AD%E5%BF%83%E9%97%A8%E5%8F%A3%E7%9A%84%E9%BC%BB%E5%AD%90%E5%A2%99%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
