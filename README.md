@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-19 19:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-19 19:40:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [我国累计建成5G基站超293万个](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E7%B4%AF%E8%AE%A1%E5%BB%BA%E6%88%905G%E5%9F%BA%E7%AB%99%E8%B6%85293%E4%B8%87%E4%B8%AA%23&t=31&band_rank=3&Refer=top)<br />
 4. [魏大勋101舞台](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B101%E8%88%9E%E5%8F%B0%23&t=31&band_rank=4&Refer=top)<br />
 5. [环卫工被疑偷手机民警翻垃圾证清白](https://s.weibo.com/weibo?q=%23%E7%8E%AF%E5%8D%AB%E5%B7%A5%E8%A2%AB%E7%96%91%E5%81%B7%E6%89%8B%E6%9C%BA%E6%B0%91%E8%AD%A6%E7%BF%BB%E5%9E%83%E5%9C%BE%E8%AF%81%E6%B8%85%E7%99%BD%23&t=31&band_rank=5&Refer=top)<br />
-6. [女子举报丈夫与公职人员生女](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B8%BE%E6%8A%A5%E4%B8%88%E5%A4%AB%E4%B8%8E%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E7%94%9F%E5%A5%B3%23&t=31&band_rank=6&Refer=top)<br />
+6. [奥本海默确认引进](https://s.weibo.com/weibo?q=%23%E5%A5%A5%E6%9C%AC%E6%B5%B7%E9%BB%98%E7%A1%AE%E8%AE%A4%E5%BC%95%E8%BF%9B%23&t=31&band_rank=6&Refer=top)<br />
 7. [在飞机上偶遇了一场音乐会](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E9%A3%9E%E6%9C%BA%E4%B8%8A%E5%81%B6%E9%81%87%E4%BA%86%E4%B8%80%E5%9C%BA%E9%9F%B3%E4%B9%90%E4%BC%9A%23&t=31&band_rank=7&Refer=top)<br />
-8. [奥本海默确认引进](https://s.weibo.com/weibo?q=%23%E5%A5%A5%E6%9C%AC%E6%B5%B7%E9%BB%98%E7%A1%AE%E8%AE%A4%E5%BC%95%E8%BF%9B%23&t=31&band_rank=8&Refer=top)<br />
+8. [女子举报丈夫与公职人员生女](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B8%BE%E6%8A%A5%E4%B8%88%E5%A4%AB%E4%B8%8E%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E7%94%9F%E5%A5%B3%23&t=31&band_rank=8&Refer=top)<br />
 9. [何非你怎么敢来吴京剧组](https://s.weibo.com/weibo?q=%23%E4%BD%95%E9%9D%9E%E4%BD%A0%E6%80%8E%E4%B9%88%E6%95%A2%E6%9D%A5%E5%90%B4%E4%BA%AC%E5%89%A7%E7%BB%84%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
