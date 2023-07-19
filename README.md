@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-20 01:26:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-20 01:27:02</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [川大招生视频现“旭日旗”?校方报警](https://www.baidu.com/s?wd=%E5%B7%9D%E5%A4%A7%E6%8B%9B%E7%94%9F%E8%A7%86%E9%A2%91%E7%8E%B0%E2%80%9C%E6%97%AD%E6%97%A5%E6%97%97%E2%80%9D%3F%E6%A0%A1%E6%96%B9%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [公司在厕所安监控拍照发群?警方回应](https://www.baidu.com/s?wd=%E5%85%AC%E5%8F%B8%E5%9C%A8%E5%8E%95%E6%89%80%E5%AE%89%E7%9B%91%E6%8E%A7%E6%8B%8D%E7%85%A7%E5%8F%91%E7%BE%A4%3F%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [王传君诈骗头子不像演的](https://www.baidu.com/s?wd=%E7%8E%8B%E4%BC%A0%E5%90%9B%E8%AF%88%E9%AA%97%E5%A4%B4%E5%AD%90%E4%B8%8D%E5%83%8F%E6%BC%94%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子疑持棍棒打死父亲并袭警](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%96%91%E6%8C%81%E6%A3%8D%E6%A3%92%E6%89%93%E6%AD%BB%E7%88%B6%E4%BA%B2%E5%B9%B6%E8%A2%AD%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子华山失联9天 已确认遇难](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%8D%8E%E5%B1%B1%E5%A4%B1%E8%81%949%E5%A4%A9+%E5%B7%B2%E7%A1%AE%E8%AE%A4%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子华山失联9天 已确认遇难](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%8D%8E%E5%B1%B1%E5%A4%B1%E8%81%949%E5%A4%A9+%E5%B7%B2%E7%A1%AE%E8%AE%A4%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [诺兰新作《奥本海默》确认引进内地](https://www.baidu.com/s?wd=%E8%AF%BA%E5%85%B0%E6%96%B0%E4%BD%9C%E3%80%8A%E5%A5%A5%E6%9C%AC%E6%B5%B7%E9%BB%98%E3%80%8B%E7%A1%AE%E8%AE%A4%E5%BC%95%E8%BF%9B%E5%86%85%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [川大招生视频现“旭日旗”?校方报警](https://www.baidu.com/s?wd=%E5%B7%9D%E5%A4%A7%E6%8B%9B%E7%94%9F%E8%A7%86%E9%A2%91%E7%8E%B0%E2%80%9C%E6%97%AD%E6%97%A5%E6%97%97%E2%80%9D%3F%E6%A0%A1%E6%96%B9%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [公司在厕所安监控拍照发群?警方回应](https://www.baidu.com/s?wd=%E5%85%AC%E5%8F%B8%E5%9C%A8%E5%8E%95%E6%89%80%E5%AE%89%E7%9B%91%E6%8E%A7%E6%8B%8D%E7%85%A7%E5%8F%91%E7%BE%A4%3F%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [王传君诈骗头子不像演的](https://www.baidu.com/s?wd=%E7%8E%8B%E4%BC%A0%E5%90%9B%E8%AF%88%E9%AA%97%E5%A4%B4%E5%AD%90%E4%B8%8D%E5%83%8F%E6%BC%94%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子疑持棍棒打死父亲并袭警](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%96%91%E6%8C%81%E6%A3%8D%E6%A3%92%E6%89%93%E6%AD%BB%E7%88%B6%E4%BA%B2%E5%B9%B6%E8%A2%AD%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子华山失联9天 已确认遇难](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%8D%8E%E5%B1%B1%E5%A4%B1%E8%81%949%E5%A4%A9+%E5%B7%B2%E7%A1%AE%E8%AE%A4%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子华山失联9天 已确认遇难](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%8D%8E%E5%B1%B1%E5%A4%B1%E8%81%949%E5%A4%A9+%E5%B7%B2%E7%A1%AE%E8%AE%A4%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [诺兰新作《奥本海默》确认引进内地](https://www.baidu.com/s?wd=%E8%AF%BA%E5%85%B0%E6%96%B0%E4%BD%9C%E3%80%8A%E5%A5%A5%E6%9C%AC%E6%B5%B7%E9%BB%98%E3%80%8B%E7%A1%AE%E8%AE%A4%E5%BC%95%E8%BF%9B%E5%86%85%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
