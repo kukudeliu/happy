@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-19 20:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-19 20:03:02</h4></div>
 
 > 微博  
 
 1. [四川大学回应网传视频](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E8%A7%86%E9%A2%91%23&t=31&band_rank=1&Refer=top)<br />
 2. [奥本海默确认引进](https://s.weibo.com/weibo?q=%23%E5%A5%A5%E6%9C%AC%E6%B5%B7%E9%BB%98%E7%A1%AE%E8%AE%A4%E5%BC%95%E8%BF%9B%23&t=31&band_rank=2&Refer=top)<br />
 3. [我国累计建成5G基站超293万个](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E7%B4%AF%E8%AE%A1%E5%BB%BA%E6%88%905G%E5%9F%BA%E7%AB%99%E8%B6%85293%E4%B8%87%E4%B8%AA%23&t=31&band_rank=3&Refer=top)<br />
-4. [男子突然倒地大小便失禁消防员紧急救助](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%AA%81%E7%84%B6%E5%80%92%E5%9C%B0%E5%A4%A7%E5%B0%8F%E4%BE%BF%E5%A4%B1%E7%A6%81%E6%B6%88%E9%98%B2%E5%91%98%E7%B4%A7%E6%80%A5%E6%95%91%E5%8A%A9%23&t=31&band_rank=4&Refer=top)<br />
-5. [魏大勋101舞台](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B101%E8%88%9E%E5%8F%B0%23&t=31&band_rank=5&Refer=top)<br />
+4. [魏大勋101舞台](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B101%E8%88%9E%E5%8F%B0%23&t=31&band_rank=4&Refer=top)<br />
+5. [男子突然倒地大小便失禁消防员紧急救助](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%AA%81%E7%84%B6%E5%80%92%E5%9C%B0%E5%A4%A7%E5%B0%8F%E4%BE%BF%E5%A4%B1%E7%A6%81%E6%B6%88%E9%98%B2%E5%91%98%E7%B4%A7%E6%80%A5%E6%95%91%E5%8A%A9%23&t=31&band_rank=5&Refer=top)<br />
 6. [何非你怎么敢来吴京剧组](https://s.weibo.com/weibo?q=%23%E4%BD%95%E9%9D%9E%E4%BD%A0%E6%80%8E%E4%B9%88%E6%95%A2%E6%9D%A5%E5%90%B4%E4%BA%AC%E5%89%A7%E7%BB%84%23&t=31&band_rank=6&Refer=top)<br />
 7. [杨洋新剧蓝衣路透](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B4%8B%E6%96%B0%E5%89%A7%E8%93%9D%E8%A1%A3%E8%B7%AF%E9%80%8F%23&t=31&band_rank=7&Refer=top)<br />
 8. [孟怀瑾孟宴臣付闻樱在演另一部剧](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E6%80%80%E7%91%BE%E5%AD%9F%E5%AE%B4%E8%87%A3%E4%BB%98%E9%97%BB%E6%A8%B1%E5%9C%A8%E6%BC%94%E5%8F%A6%E4%B8%80%E9%83%A8%E5%89%A7%23&t=31&band_rank=8&Refer=top)<br />
@@ -23,9 +23,9 @@
 4. [2023年中国网络文明大会举行](https://www.baidu.com/s?wd=2023%E5%B9%B4%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E5%A4%A7%E4%BC%9A%E4%B8%BE%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中央发布意见:促进民营经济发展壮大](https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E5%8F%91%E5%B8%83%E6%84%8F%E8%A7%81%3A%E4%BF%83%E8%BF%9B%E6%B0%91%E8%90%A5%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E5%A3%AE%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [“牵手门”同款连衣裙变成童装售卖](https://www.baidu.com/s?wd=%E2%80%9C%E7%89%B5%E6%89%8B%E9%97%A8%E2%80%9D%E5%90%8C%E6%AC%BE%E8%BF%9E%E8%A1%A3%E8%A3%99%E5%8F%98%E6%88%90%E7%AB%A5%E8%A3%85%E5%94%AE%E5%8D%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [空乘发布侮辱乘客言论 春秋航空回应](https://www.baidu.com/s?wd=%E7%A9%BA%E4%B9%98%E5%8F%91%E5%B8%83%E4%BE%AE%E8%BE%B1%E4%B9%98%E5%AE%A2%E8%A8%80%E8%AE%BA+%E6%98%A5%E7%A7%8B%E8%88%AA%E7%A9%BA%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [小钰道歉](https://www.baidu.com/s?wd=%E5%B0%8F%E9%92%B0%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [普京将不会出席金砖国家领导人峰会](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E5%B0%86%E4%B8%8D%E4%BC%9A%E5%87%BA%E5%B8%AD%E9%87%91%E7%A0%96%E5%9B%BD%E5%AE%B6%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B3%B0%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [小钰道歉](https://www.baidu.com/s?wd=%E5%B0%8F%E9%92%B0%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [怀疑杨洋捡到了张颂文的错题本](https://www.baidu.com/s?wd=%E6%80%80%E7%96%91%E6%9D%A8%E6%B4%8B%E6%8D%A1%E5%88%B0%E4%BA%86%E5%BC%A0%E9%A2%82%E6%96%87%E7%9A%84%E9%94%99%E9%A2%98%E6%9C%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -35,6 +35,6 @@
 4. [2023年中国网络文明大会举行](https://www.baidu.com/s?wd=2023%E5%B9%B4%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E5%A4%A7%E4%BC%9A%E4%B8%BE%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中央发布意见:促进民营经济发展壮大](https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E5%8F%91%E5%B8%83%E6%84%8F%E8%A7%81%3A%E4%BF%83%E8%BF%9B%E6%B0%91%E8%90%A5%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E5%A3%AE%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [“牵手门”同款连衣裙变成童装售卖](https://www.baidu.com/s?wd=%E2%80%9C%E7%89%B5%E6%89%8B%E9%97%A8%E2%80%9D%E5%90%8C%E6%AC%BE%E8%BF%9E%E8%A1%A3%E8%A3%99%E5%8F%98%E6%88%90%E7%AB%A5%E8%A3%85%E5%94%AE%E5%8D%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [空乘发布侮辱乘客言论 春秋航空回应](https://www.baidu.com/s?wd=%E7%A9%BA%E4%B9%98%E5%8F%91%E5%B8%83%E4%BE%AE%E8%BE%B1%E4%B9%98%E5%AE%A2%E8%A8%80%E8%AE%BA+%E6%98%A5%E7%A7%8B%E8%88%AA%E7%A9%BA%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [小钰道歉](https://www.baidu.com/s?wd=%E5%B0%8F%E9%92%B0%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [普京将不会出席金砖国家领导人峰会](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E5%B0%86%E4%B8%8D%E4%BC%9A%E5%87%BA%E5%B8%AD%E9%87%91%E7%A0%96%E5%9B%BD%E5%AE%B6%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B3%B0%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [小钰道歉](https://www.baidu.com/s?wd=%E5%B0%8F%E9%92%B0%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [怀疑杨洋捡到了张颂文的错题本](https://www.baidu.com/s?wd=%E6%80%80%E7%96%91%E6%9D%A8%E6%B4%8B%E6%8D%A1%E5%88%B0%E4%BA%86%E5%BC%A0%E9%A2%82%E6%96%87%E7%9A%84%E9%94%99%E9%A2%98%E6%9C%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
