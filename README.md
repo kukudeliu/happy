@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-19 18:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-19 18:10:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [魏大勋七天涨粉67万多](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E4%B8%83%E5%A4%A9%E6%B6%A8%E7%B2%8967%E4%B8%87%E5%A4%9A%23&t=31&band_rank=6&Refer=top)<br />
 7. [山东一女子放弃编制随父从军](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E4%B8%80%E5%A5%B3%E5%AD%90%E6%94%BE%E5%BC%83%E7%BC%96%E5%88%B6%E9%9A%8F%E7%88%B6%E4%BB%8E%E5%86%9B%23&t=31&band_rank=7&Refer=top)<br />
 8. [全红婵的16岁](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E7%9A%8416%E5%B2%81%23&t=31&band_rank=8&Refer=top)<br />
-9. [TFBOYS演唱会开票时间](https://s.weibo.com/weibo?q=%23TFBOYS%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BC%80%E7%A5%A8%E6%97%B6%E9%97%B4%23&t=31&band_rank=9&Refer=top)<br />
+9. [刘雯井柏然相拥大片](https://s.weibo.com/weibo?q=%23%E5%88%98%E9%9B%AF%E4%BA%95%E6%9F%8F%E7%84%B6%E7%9B%B8%E6%8B%A5%E5%A4%A7%E7%89%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
