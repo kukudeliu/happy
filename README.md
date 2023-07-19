@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-20 07:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-20 07:44:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [记者解剖鸭头剥出巩膜：反光质感](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E8%A7%A3%E5%89%96%E9%B8%AD%E5%A4%B4%E5%89%A5%E5%87%BA%E5%B7%A9%E8%86%9C%EF%BC%9A%E5%8F%8D%E5%85%89%E8%B4%A8%E6%84%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [30秒延时看南京暴雨降临瞬间](https://www.baidu.com/s?wd=30%E7%A7%92%E5%BB%B6%E6%97%B6%E7%9C%8B%E5%8D%97%E4%BA%AC%E6%9A%B4%E9%9B%A8%E9%99%8D%E4%B8%B4%E7%9E%AC%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [王传君诈骗头子不像演的](https://www.baidu.com/s?wd=%E7%8E%8B%E4%BC%A0%E5%90%9B%E8%AF%88%E9%AA%97%E5%A4%B4%E5%AD%90%E4%B8%8D%E5%83%8F%E6%BC%94%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [分数线划错致高分考生落榜?当地回应](https://www.baidu.com/s?wd=%E5%88%86%E6%95%B0%E7%BA%BF%E5%88%92%E9%94%99%E8%87%B4%E9%AB%98%E5%88%86%E8%80%83%E7%94%9F%E8%90%BD%E6%A6%9C%3F%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [空乘发布侮辱乘客言论 春秋航空回应](https://www.baidu.com/s?wd=%E7%A9%BA%E4%B9%98%E5%8F%91%E5%B8%83%E4%BE%AE%E8%BE%B1%E4%B9%98%E5%AE%A2%E8%A8%80%E8%AE%BA+%E6%98%A5%E7%A7%8B%E8%88%AA%E7%A9%BA%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [记者解剖鸭头剥出巩膜：反光质感](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E8%A7%A3%E5%89%96%E9%B8%AD%E5%A4%B4%E5%89%A5%E5%87%BA%E5%B7%A9%E8%86%9C%EF%BC%9A%E5%8F%8D%E5%85%89%E8%B4%A8%E6%84%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [30秒延时看南京暴雨降临瞬间](https://www.baidu.com/s?wd=30%E7%A7%92%E5%BB%B6%E6%97%B6%E7%9C%8B%E5%8D%97%E4%BA%AC%E6%9A%B4%E9%9B%A8%E9%99%8D%E4%B8%B4%E7%9E%AC%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [王传君诈骗头子不像演的](https://www.baidu.com/s?wd=%E7%8E%8B%E4%BC%A0%E5%90%9B%E8%AF%88%E9%AA%97%E5%A4%B4%E5%AD%90%E4%B8%8D%E5%83%8F%E6%BC%94%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [分数线划错致高分考生落榜?当地回应](https://www.baidu.com/s?wd=%E5%88%86%E6%95%B0%E7%BA%BF%E5%88%92%E9%94%99%E8%87%B4%E9%AB%98%E5%88%86%E8%80%83%E7%94%9F%E8%90%BD%E6%A6%9C%3F%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [空乘发布侮辱乘客言论 春秋航空回应](https://www.baidu.com/s?wd=%E7%A9%BA%E4%B9%98%E5%8F%91%E5%B8%83%E4%BE%AE%E8%BE%B1%E4%B9%98%E5%AE%A2%E8%A8%80%E8%AE%BA+%E6%98%A5%E7%A7%8B%E8%88%AA%E7%A9%BA%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
