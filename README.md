@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-19 20:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-19 20:57:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [左航被救护车接走](https://s.weibo.com/weibo?q=%23%E5%B7%A6%E8%88%AA%E8%A2%AB%E6%95%91%E6%8A%A4%E8%BD%A6%E6%8E%A5%E8%B5%B0%23&t=31&band_rank=6&Refer=top)<br />
 7. [肖战回复韩栋](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%9B%9E%E5%A4%8D%E9%9F%A9%E6%A0%8B%23&t=31&band_rank=7&Refer=top)<br />
 8. [指套为鸭事件被开除的厨师怎么办](https://s.weibo.com/weibo?q=%23%E6%8C%87%E5%A5%97%E4%B8%BA%E9%B8%AD%E4%BA%8B%E4%BB%B6%E8%A2%AB%E5%BC%80%E9%99%A4%E7%9A%84%E5%8E%A8%E5%B8%88%E6%80%8E%E4%B9%88%E5%8A%9E%23&t=31&band_rank=8&Refer=top)<br />
-9. [宋焰许沁同居了](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E7%84%B0%E8%AE%B8%E6%B2%81%E5%90%8C%E5%B1%85%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [孟宴臣喝醉](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AE%B4%E8%87%A3%E5%96%9D%E9%86%89%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
