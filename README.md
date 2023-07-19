@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-19 18:36:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-19 18:37:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [全红婵的16岁](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E7%9A%8416%E5%B2%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [在飞机上偶遇了一场音乐会](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E9%A3%9E%E6%9C%BA%E4%B8%8A%E5%81%B6%E9%81%87%E4%BA%86%E4%B8%80%E5%9C%BA%E9%9F%B3%E4%B9%90%E4%BC%9A%23&t=31&band_rank=7&Refer=top)<br />
 8. [陈芋汐女子10米跳台夺金](https://s.weibo.com/weibo?q=%23%E9%99%88%E8%8A%8B%E6%B1%90%E5%A5%B3%E5%AD%9010%E7%B1%B3%E8%B7%B3%E5%8F%B0%E5%A4%BA%E9%87%91%23&t=31&band_rank=8&Refer=top)<br />
-9. [小钰道歉](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%92%B0%E9%81%93%E6%AD%89%23&t=31&band_rank=9&Refer=top)<br />
+9. [陈芋汐全红婵又包揽冠亚军了](https://s.weibo.com/weibo?q=%23%E9%99%88%E8%8A%8B%E6%B1%90%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%8F%88%E5%8C%85%E6%8F%BD%E5%86%A0%E4%BA%9A%E5%86%9B%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
