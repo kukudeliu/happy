@@ -1,10 +1,10 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-19 17:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-19 17:26:01</h4></div>
 
 > 微博  
 
 1. [小钰道歉](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%92%B0%E9%81%93%E6%AD%89%23&t=31&band_rank=1&Refer=top)<br />
 2. [研究称最后一个孩出生越晚妈妈寿命越长](https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E7%A7%B0%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E5%AD%A9%E5%87%BA%E7%94%9F%E8%B6%8A%E6%99%9A%E5%A6%88%E5%A6%88%E5%AF%BF%E5%91%BD%E8%B6%8A%E9%95%BF%23&t=31&band_rank=2&Refer=top)<br />
-3. [绿色低碳从我做起](https://s.weibo.com/weibo?q=%23%E7%BB%BF%E8%89%B2%E4%BD%8E%E7%A2%B3%E4%BB%8E%E6%88%91%E5%81%9A%E8%B5%B7%23&t=31&band_rank=3&Refer=top)<br />
+3. [我国累计建成5G基站超293万个](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E7%B4%AF%E8%AE%A1%E5%BB%BA%E6%88%905G%E5%9F%BA%E7%AB%99%E8%B6%85293%E4%B8%87%E4%B8%AA%23&t=31&band_rank=3&Refer=top)<br />
 4. [怀疑杨洋捡到了张颂文的错题本](https://s.weibo.com/weibo?q=%23%E6%80%80%E7%96%91%E6%9D%A8%E6%B4%8B%E6%8D%A1%E5%88%B0%E4%BA%86%E5%BC%A0%E9%A2%82%E6%96%87%E7%9A%84%E9%94%99%E9%A2%98%E6%9C%AC%23&t=31&band_rank=4&Refer=top)<br />
 5. [TFBOYS演唱会开票时间](https://s.weibo.com/weibo?q=%23TFBOYS%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BC%80%E7%A5%A8%E6%97%B6%E9%97%B4%23&t=31&band_rank=5&Refer=top)<br />
 6. [韩国幽灵婴儿已确认249人死亡](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%B9%BD%E7%81%B5%E5%A9%B4%E5%84%BF%E5%B7%B2%E7%A1%AE%E8%AE%A4249%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=6&Refer=top)<br />
