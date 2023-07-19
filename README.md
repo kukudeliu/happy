@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-20 04:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-20 04:10:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [川大招生视频现“旭日旗”?校方报警](https://www.baidu.com/s?wd=%E5%B7%9D%E5%A4%A7%E6%8B%9B%E7%94%9F%E8%A7%86%E9%A2%91%E7%8E%B0%E2%80%9C%E6%97%AD%E6%97%A5%E6%97%97%E2%80%9D%3F%E6%A0%A1%E6%96%B9%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [祖孙被困暴雨中夫妇邀上车避雨](https://www.baidu.com/s?wd=%E7%A5%96%E5%AD%99%E8%A2%AB%E5%9B%B0%E6%9A%B4%E9%9B%A8%E4%B8%AD%E5%A4%AB%E5%A6%87%E9%82%80%E4%B8%8A%E8%BD%A6%E9%81%BF%E9%9B%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [30秒延时看南京暴雨降临瞬间](https://www.baidu.com/s?wd=30%E7%A7%92%E5%BB%B6%E6%97%B6%E7%9C%8B%E5%8D%97%E4%BA%AC%E6%9A%B4%E9%9B%A8%E9%99%8D%E4%B8%B4%E7%9E%AC%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [情侣吵架女方跳崖？景区回应](https://www.baidu.com/s?wd=%E6%83%85%E4%BE%A3%E5%90%B5%E6%9E%B6%E5%A5%B3%E6%96%B9%E8%B7%B3%E5%B4%96%EF%BC%9F%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [南京2男子涵洞躲雨被冲走](https://www.baidu.com/s?wd=%E5%8D%97%E4%BA%AC2%E7%94%B7%E5%AD%90%E6%B6%B5%E6%B4%9E%E8%BA%B2%E9%9B%A8%E8%A2%AB%E5%86%B2%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [南京2男子涵洞躲雨被冲走](https://www.baidu.com/s?wd=%E5%8D%97%E4%BA%AC2%E7%94%B7%E5%AD%90%E6%B6%B5%E6%B4%9E%E8%BA%B2%E9%9B%A8%E8%A2%AB%E5%86%B2%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [普京将不会出席金砖国家领导人峰会](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E5%B0%86%E4%B8%8D%E4%BC%9A%E5%87%BA%E5%B8%AD%E9%87%91%E7%A0%96%E5%9B%BD%E5%AE%B6%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B3%B0%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [川大招生视频现“旭日旗”?校方报警](https://www.baidu.com/s?wd=%E5%B7%9D%E5%A4%A7%E6%8B%9B%E7%94%9F%E8%A7%86%E9%A2%91%E7%8E%B0%E2%80%9C%E6%97%AD%E6%97%A5%E6%97%97%E2%80%9D%3F%E6%A0%A1%E6%96%B9%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [祖孙被困暴雨中夫妇邀上车避雨](https://www.baidu.com/s?wd=%E7%A5%96%E5%AD%99%E8%A2%AB%E5%9B%B0%E6%9A%B4%E9%9B%A8%E4%B8%AD%E5%A4%AB%E5%A6%87%E9%82%80%E4%B8%8A%E8%BD%A6%E9%81%BF%E9%9B%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [30秒延时看南京暴雨降临瞬间](https://www.baidu.com/s?wd=30%E7%A7%92%E5%BB%B6%E6%97%B6%E7%9C%8B%E5%8D%97%E4%BA%AC%E6%9A%B4%E9%9B%A8%E9%99%8D%E4%B8%B4%E7%9E%AC%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [情侣吵架女方跳崖？景区回应](https://www.baidu.com/s?wd=%E6%83%85%E4%BE%A3%E5%90%B5%E6%9E%B6%E5%A5%B3%E6%96%B9%E8%B7%B3%E5%B4%96%EF%BC%9F%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [南京2男子涵洞躲雨被冲走](https://www.baidu.com/s?wd=%E5%8D%97%E4%BA%AC2%E7%94%B7%E5%AD%90%E6%B6%B5%E6%B4%9E%E8%BA%B2%E9%9B%A8%E8%A2%AB%E5%86%B2%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [南京2男子涵洞躲雨被冲走](https://www.baidu.com/s?wd=%E5%8D%97%E4%BA%AC2%E7%94%B7%E5%AD%90%E6%B6%B5%E6%B4%9E%E8%BA%B2%E9%9B%A8%E8%A2%AB%E5%86%B2%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [普京将不会出席金砖国家领导人峰会](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E5%B0%86%E4%B8%8D%E4%BC%9A%E5%87%BA%E5%B8%AD%E9%87%91%E7%A0%96%E5%9B%BD%E5%AE%B6%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B3%B0%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
