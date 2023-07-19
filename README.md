@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-19 23:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-19 23:42:01</h4></div>
 
 > 微博  
 
-1. [方川导演 孟宴臣](https://s.weibo.com/weibo?q=%E6%96%B9%E5%B7%9D%E5%AF%BC%E6%BC%94%20%E5%AD%9F%E5%AE%B4%E8%87%A3&t=31&band_rank=1&Refer=top)<br />
-2. [梁朝伟](https://s.weibo.com/weibo?q=%E6%A2%81%E6%9C%9D%E4%BC%9F&t=31&band_rank=2&Refer=top)<br />
+1. [梁朝伟](https://s.weibo.com/weibo?q=%E6%A2%81%E6%9C%9D%E4%BC%9F&t=31&band_rank=1&Refer=top)<br />
+2. [方川导演 孟宴臣](https://s.weibo.com/weibo?q=%E6%96%B9%E5%B7%9D%E5%AF%BC%E6%BC%94%20%E5%AD%9F%E5%AE%B4%E8%87%A3&t=31&band_rank=2&Refer=top)<br />
 3. [新时代中国调研行长江篇](https://s.weibo.com/weibo?q=%23%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E8%B0%83%E7%A0%94%E8%A1%8C%E9%95%BF%E6%B1%9F%E7%AF%87%23&t=31&band_rank=3&Refer=top)<br />
 4. [张雨绮初中因为颜值被全校围观](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%A8%E7%BB%AE%E5%88%9D%E4%B8%AD%E5%9B%A0%E4%B8%BA%E9%A2%9C%E5%80%BC%E8%A2%AB%E5%85%A8%E6%A0%A1%E5%9B%B4%E8%A7%82%23&t=31&band_rank=4&Refer=top)<br />
 5. [孟宴臣扔钥匙极致十秒](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AE%B4%E8%87%A3%E6%89%94%E9%92%A5%E5%8C%99%E6%9E%81%E8%87%B4%E5%8D%81%E7%A7%92%23&t=31&band_rank=5&Refer=top)<br />
