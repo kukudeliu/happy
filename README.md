@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-19 13:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-19 13:32:01</h4></div>
 
 > 微博  
 
 1. [辣条在韩国火了](https://s.weibo.com/weibo?q=%23%E8%BE%A3%E6%9D%A1%E5%9C%A8%E9%9F%A9%E5%9B%BD%E7%81%AB%E4%BA%86%23&t=31&band_rank=1&Refer=top)<br />
-2. [周杰伦演唱会2张连座票黄牛叫价15万](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A2%E5%BC%A0%E8%BF%9E%E5%BA%A7%E7%A5%A8%E9%BB%84%E7%89%9B%E5%8F%AB%E4%BB%B715%E4%B8%87%23&t=31&band_rank=2&Refer=top)<br />
+2. [人民文娱评我的人间烟火](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%96%87%E5%A8%B1%E8%AF%84%E6%88%91%E7%9A%84%E4%BA%BA%E9%97%B4%E7%83%9F%E7%81%AB%23&t=31&band_rank=2&Refer=top)<br />
 3. [生态保护硬核成绩单](https://s.weibo.com/weibo?q=%23%E7%94%9F%E6%80%81%E4%BF%9D%E6%8A%A4%E7%A1%AC%E6%A0%B8%E6%88%90%E7%BB%A9%E5%8D%95%23&t=31&band_rank=3&Refer=top)<br />
 4. [白敬亭向涵之 仙台有树](https://s.weibo.com/weibo?q=%E7%99%BD%E6%95%AC%E4%BA%AD%E5%90%91%E6%B6%B5%E4%B9%8B%20%E4%BB%99%E5%8F%B0%E6%9C%89%E6%A0%91&t=31&band_rank=4&Refer=top)<br />
-5. [人民文娱评我的人间烟火](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%96%87%E5%A8%B1%E8%AF%84%E6%88%91%E7%9A%84%E4%BA%BA%E9%97%B4%E7%83%9F%E7%81%AB%23&t=31&band_rank=5&Refer=top)<br />
+5. [周杰伦演唱会2张连座票黄牛叫价15万](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A2%E5%BC%A0%E8%BF%9E%E5%BA%A7%E7%A5%A8%E9%BB%84%E7%89%9B%E5%8F%AB%E4%BB%B715%E4%B8%87%23&t=31&band_rank=5&Refer=top)<br />
 6. [丁程鑫说719这个日子都敢选](https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A8%8B%E9%91%AB%E8%AF%B4719%E8%BF%99%E4%B8%AA%E6%97%A5%E5%AD%90%E9%83%BD%E6%95%A2%E9%80%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [真正通便的食物是这14种](https://s.weibo.com/weibo?q=%E7%9C%9F%E6%AD%A3%E9%80%9A%E4%BE%BF%E7%9A%84%E9%A3%9F%E7%89%A9%E6%98%AF%E8%BF%9914%E7%A7%8D&t=31&band_rank=7&Refer=top)<br />
 8. [郭启刚回国投案](https://s.weibo.com/weibo?q=%23%E9%83%AD%E5%90%AF%E5%88%9A%E5%9B%9E%E5%9B%BD%E6%8A%95%E6%A1%88%23&t=31&band_rank=8&Refer=top)<br />
