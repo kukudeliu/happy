@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-20 02:08:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-20 02:09:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [方川导演 孟宴臣](https://s.weibo.com/weibo?q=%E6%96%B9%E5%B7%9D%E5%AF%BC%E6%BC%94%20%E5%AD%9F%E5%AE%B4%E8%87%A3&t=31&band_rank=6&Refer=top)<br />
 7. [张雨绮初中因为颜值被全校围观](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%A8%E7%BB%AE%E5%88%9D%E4%B8%AD%E5%9B%A0%E4%B8%BA%E9%A2%9C%E5%80%BC%E8%A2%AB%E5%85%A8%E6%A0%A1%E5%9B%B4%E8%A7%82%23&t=31&band_rank=7&Refer=top)<br />
 8. [原来许沁的作用是警示大家](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%AE%B8%E6%B2%81%E7%9A%84%E4%BD%9C%E7%94%A8%E6%98%AF%E8%AD%A6%E7%A4%BA%E5%A4%A7%E5%AE%B6%23&t=31&band_rank=8&Refer=top)<br />
-9. [记者解剖鸭头剥出巩膜](https://s.weibo.com/weibo?q=%23%E8%AE%B0%E8%80%85%E8%A7%A3%E5%89%96%E9%B8%AD%E5%A4%B4%E5%89%A5%E5%87%BA%E5%B7%A9%E8%86%9C%23&t=31&band_rank=9&Refer=top)<br />
+9. [美总统候选人称美正收集中国人DNA](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%80%BB%E7%BB%9F%E5%80%99%E9%80%89%E4%BA%BA%E7%A7%B0%E7%BE%8E%E6%AD%A3%E6%94%B6%E9%9B%86%E4%B8%AD%E5%9B%BD%E4%BA%BADNA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,10 +22,10 @@
 3. [大麦网到底有没有票？](https://www.baidu.com/s?wd=%E5%A4%A7%E9%BA%A6%E7%BD%91%E5%88%B0%E5%BA%95%E6%9C%89%E6%B2%A1%E6%9C%89%E7%A5%A8%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [营造文明网络生态](https://www.baidu.com/s?wd=%E8%90%A5%E9%80%A0%E6%96%87%E6%98%8E%E7%BD%91%E7%BB%9C%E7%94%9F%E6%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [川大招生视频现“旭日旗”?校方报警](https://www.baidu.com/s?wd=%E5%B7%9D%E5%A4%A7%E6%8B%9B%E7%94%9F%E8%A7%86%E9%A2%91%E7%8E%B0%E2%80%9C%E6%97%AD%E6%97%A5%E6%97%97%E2%80%9D%3F%E6%A0%A1%E6%96%B9%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [陈芋汐全红婵又包揽冠亚军了](https://www.baidu.com/s?wd=%E9%99%88%E8%8A%8B%E6%B1%90%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%8F%88%E5%8C%85%E6%8F%BD%E5%86%A0%E4%BA%9A%E5%86%9B%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子诈骗村支书40余万获刑 家属发声](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%AF%88%E9%AA%97%E6%9D%91%E6%94%AF%E4%B9%A640%E4%BD%99%E4%B8%87%E8%8E%B7%E5%88%91+%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [杨洋这么睡不累吗](https://www.baidu.com/s?wd=%E6%9D%A8%E6%B4%8B%E8%BF%99%E4%B9%88%E7%9D%A1%E4%B8%8D%E7%B4%AF%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [安徽通报“渔政执法船载女性游玩”](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E9%80%9A%E6%8A%A5%E2%80%9C%E6%B8%94%E6%94%BF%E6%89%A7%E6%B3%95%E8%88%B9%E8%BD%BD%E5%A5%B3%E6%80%A7%E6%B8%B8%E7%8E%A9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [杨洋这么睡不累吗](https://www.baidu.com/s?wd=%E6%9D%A8%E6%B4%8B%E8%BF%99%E4%B9%88%E7%9D%A1%E4%B8%8D%E7%B4%AF%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [音乐节一元瓶装水分杯卖十元](https://www.baidu.com/s?wd=%E9%9F%B3%E4%B9%90%E8%8A%82%E4%B8%80%E5%85%83%E7%93%B6%E8%A3%85%E6%B0%B4%E5%88%86%E6%9D%AF%E5%8D%96%E5%8D%81%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [白垩纪恐龙“霸主地位”受到挑战](https://www.baidu.com/s?wd=%E7%99%BD%E5%9E%A9%E7%BA%AA%E6%81%90%E9%BE%99%E2%80%9C%E9%9C%B8%E4%B8%BB%E5%9C%B0%E4%BD%8D%E2%80%9D%E5%8F%97%E5%88%B0%E6%8C%91%E6%88%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [陈芋汐全红婵又包揽冠亚军了](https://www.baidu.com/s?wd=%E9%99%88%E8%8A%8B%E6%B1%90%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%8F%88%E5%8C%85%E6%8F%BD%E5%86%A0%E4%BA%9A%E5%86%9B%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -34,7 +34,7 @@
 3. [大麦网到底有没有票？](https://www.baidu.com/s?wd=%E5%A4%A7%E9%BA%A6%E7%BD%91%E5%88%B0%E5%BA%95%E6%9C%89%E6%B2%A1%E6%9C%89%E7%A5%A8%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [营造文明网络生态](https://www.baidu.com/s?wd=%E8%90%A5%E9%80%A0%E6%96%87%E6%98%8E%E7%BD%91%E7%BB%9C%E7%94%9F%E6%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [川大招生视频现“旭日旗”?校方报警](https://www.baidu.com/s?wd=%E5%B7%9D%E5%A4%A7%E6%8B%9B%E7%94%9F%E8%A7%86%E9%A2%91%E7%8E%B0%E2%80%9C%E6%97%AD%E6%97%A5%E6%97%97%E2%80%9D%3F%E6%A0%A1%E6%96%B9%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [陈芋汐全红婵又包揽冠亚军了](https://www.baidu.com/s?wd=%E9%99%88%E8%8A%8B%E6%B1%90%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%8F%88%E5%8C%85%E6%8F%BD%E5%86%A0%E4%BA%9A%E5%86%9B%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子诈骗村支书40余万获刑 家属发声](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%AF%88%E9%AA%97%E6%9D%91%E6%94%AF%E4%B9%A640%E4%BD%99%E4%B8%87%E8%8E%B7%E5%88%91+%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [杨洋这么睡不累吗](https://www.baidu.com/s?wd=%E6%9D%A8%E6%B4%8B%E8%BF%99%E4%B9%88%E7%9D%A1%E4%B8%8D%E7%B4%AF%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [安徽通报“渔政执法船载女性游玩”](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E9%80%9A%E6%8A%A5%E2%80%9C%E6%B8%94%E6%94%BF%E6%89%A7%E6%B3%95%E8%88%B9%E8%BD%BD%E5%A5%B3%E6%80%A7%E6%B8%B8%E7%8E%A9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [杨洋这么睡不累吗](https://www.baidu.com/s?wd=%E6%9D%A8%E6%B4%8B%E8%BF%99%E4%B9%88%E7%9D%A1%E4%B8%8D%E7%B4%AF%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [音乐节一元瓶装水分杯卖十元](https://www.baidu.com/s?wd=%E9%9F%B3%E4%B9%90%E8%8A%82%E4%B8%80%E5%85%83%E7%93%B6%E8%A3%85%E6%B0%B4%E5%88%86%E6%9D%AF%E5%8D%96%E5%8D%81%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [白垩纪恐龙“霸主地位”受到挑战](https://www.baidu.com/s?wd=%E7%99%BD%E5%9E%A9%E7%BA%AA%E6%81%90%E9%BE%99%E2%80%9C%E9%9C%B8%E4%B8%BB%E5%9C%B0%E4%BD%8D%E2%80%9D%E5%8F%97%E5%88%B0%E6%8C%91%E6%88%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [陈芋汐全红婵又包揽冠亚军了](https://www.baidu.com/s?wd=%E9%99%88%E8%8A%8B%E6%B1%90%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%8F%88%E5%8C%85%E6%8F%BD%E5%86%A0%E4%BA%9A%E5%86%9B%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
