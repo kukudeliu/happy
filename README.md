@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-20 02:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-20 02:14:01</h4></div>
 
 > 微博  
 
@@ -22,10 +22,10 @@
 3. [大麦网到底有没有票？](https://www.baidu.com/s?wd=%E5%A4%A7%E9%BA%A6%E7%BD%91%E5%88%B0%E5%BA%95%E6%9C%89%E6%B2%A1%E6%9C%89%E7%A5%A8%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [营造文明网络生态](https://www.baidu.com/s?wd=%E8%90%A5%E9%80%A0%E6%96%87%E6%98%8E%E7%BD%91%E7%BB%9C%E7%94%9F%E6%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [川大招生视频现“旭日旗”?校方报警](https://www.baidu.com/s?wd=%E5%B7%9D%E5%A4%A7%E6%8B%9B%E7%94%9F%E8%A7%86%E9%A2%91%E7%8E%B0%E2%80%9C%E6%97%AD%E6%97%A5%E6%97%97%E2%80%9D%3F%E6%A0%A1%E6%96%B9%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [音乐节一元瓶装水分杯卖十元](https://www.baidu.com/s?wd=%E9%9F%B3%E4%B9%90%E8%8A%82%E4%B8%80%E5%85%83%E7%93%B6%E8%A3%85%E6%B0%B4%E5%88%86%E6%9D%AF%E5%8D%96%E5%8D%81%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [NewJeans新歌MV出现梁朝伟](https://www.baidu.com/s?wd=NewJeans%E6%96%B0%E6%AD%8CMV%E5%87%BA%E7%8E%B0%E6%A2%81%E6%9C%9D%E4%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [杨洋这么睡不累吗](https://www.baidu.com/s?wd=%E6%9D%A8%E6%B4%8B%E8%BF%99%E4%B9%88%E7%9D%A1%E4%B8%8D%E7%B4%AF%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [白垩纪恐龙“霸主地位”受到挑战](https://www.baidu.com/s?wd=%E7%99%BD%E5%9E%A9%E7%BA%AA%E6%81%90%E9%BE%99%E2%80%9C%E9%9C%B8%E4%B8%BB%E5%9C%B0%E4%BD%8D%E2%80%9D%E5%8F%97%E5%88%B0%E6%8C%91%E6%88%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [广西景区3竹筏工殴打游客被拘15日](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E6%99%AF%E5%8C%BA3%E7%AB%B9%E7%AD%8F%E5%B7%A5%E6%AE%B4%E6%89%93%E6%B8%B8%E5%AE%A2%E8%A2%AB%E6%8B%9815%E6%97%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [国外一男子与狗在海上漂流3个月](https://www.baidu.com/s?wd=%E5%9B%BD%E5%A4%96%E4%B8%80%E7%94%B7%E5%AD%90%E4%B8%8E%E7%8B%97%E5%9C%A8%E6%B5%B7%E4%B8%8A%E6%BC%82%E6%B5%813%E4%B8%AA%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [音乐节一元瓶装水分杯卖十元](https://www.baidu.com/s?wd=%E9%9F%B3%E4%B9%90%E8%8A%82%E4%B8%80%E5%85%83%E7%93%B6%E8%A3%85%E6%B0%B4%E5%88%86%E6%9D%AF%E5%8D%96%E5%8D%81%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -34,7 +34,7 @@
 3. [大麦网到底有没有票？](https://www.baidu.com/s?wd=%E5%A4%A7%E9%BA%A6%E7%BD%91%E5%88%B0%E5%BA%95%E6%9C%89%E6%B2%A1%E6%9C%89%E7%A5%A8%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [营造文明网络生态](https://www.baidu.com/s?wd=%E8%90%A5%E9%80%A0%E6%96%87%E6%98%8E%E7%BD%91%E7%BB%9C%E7%94%9F%E6%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [川大招生视频现“旭日旗”?校方报警](https://www.baidu.com/s?wd=%E5%B7%9D%E5%A4%A7%E6%8B%9B%E7%94%9F%E8%A7%86%E9%A2%91%E7%8E%B0%E2%80%9C%E6%97%AD%E6%97%A5%E6%97%97%E2%80%9D%3F%E6%A0%A1%E6%96%B9%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [音乐节一元瓶装水分杯卖十元](https://www.baidu.com/s?wd=%E9%9F%B3%E4%B9%90%E8%8A%82%E4%B8%80%E5%85%83%E7%93%B6%E8%A3%85%E6%B0%B4%E5%88%86%E6%9D%AF%E5%8D%96%E5%8D%81%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [NewJeans新歌MV出现梁朝伟](https://www.baidu.com/s?wd=NewJeans%E6%96%B0%E6%AD%8CMV%E5%87%BA%E7%8E%B0%E6%A2%81%E6%9C%9D%E4%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [杨洋这么睡不累吗](https://www.baidu.com/s?wd=%E6%9D%A8%E6%B4%8B%E8%BF%99%E4%B9%88%E7%9D%A1%E4%B8%8D%E7%B4%AF%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [白垩纪恐龙“霸主地位”受到挑战](https://www.baidu.com/s?wd=%E7%99%BD%E5%9E%A9%E7%BA%AA%E6%81%90%E9%BE%99%E2%80%9C%E9%9C%B8%E4%B8%BB%E5%9C%B0%E4%BD%8D%E2%80%9D%E5%8F%97%E5%88%B0%E6%8C%91%E6%88%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [广西景区3竹筏工殴打游客被拘15日](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E6%99%AF%E5%8C%BA3%E7%AB%B9%E7%AD%8F%E5%B7%A5%E6%AE%B4%E6%89%93%E6%B8%B8%E5%AE%A2%E8%A2%AB%E6%8B%9815%E6%97%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [国外一男子与狗在海上漂流3个月](https://www.baidu.com/s?wd=%E5%9B%BD%E5%A4%96%E4%B8%80%E7%94%B7%E5%AD%90%E4%B8%8E%E7%8B%97%E5%9C%A8%E6%B5%B7%E4%B8%8A%E6%BC%82%E6%B5%813%E4%B8%AA%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [音乐节一元瓶装水分杯卖十元](https://www.baidu.com/s?wd=%E9%9F%B3%E4%B9%90%E8%8A%82%E4%B8%80%E5%85%83%E7%93%B6%E8%A3%85%E6%B0%B4%E5%88%86%E6%9D%AF%E5%8D%96%E5%8D%81%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
