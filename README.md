@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-19 11:02:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-19 11:03:01</h4></div>
 
 > 微博  
 
@@ -17,7 +17,7 @@
 
 > 百度  
 
-1. [全面推进美丽中国建设](https://www.baidu.com/s?wd=%E5%85%A8%E9%9D%A2%E6%8E%A8%E8%BF%9B%E7%BE%8E%E4%B8%BD%E4%B8%AD%E5%9B%BD%E5%BB%BA%E8%AE%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [高质量发展是首要任务](https://www.baidu.com/s?wd=%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E6%98%AF%E9%A6%96%E8%A6%81%E4%BB%BB%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [一美军士兵越界闯入朝鲜 细节曝光](https://www.baidu.com/s?wd=%E4%B8%80%E7%BE%8E%E5%86%9B%E5%A3%AB%E5%85%B5%E8%B6%8A%E7%95%8C%E9%97%AF%E5%85%A5%E6%9C%9D%E9%B2%9C+%E7%BB%86%E8%8A%82%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [考生怀疑成绩被偷 教育局通报](https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%E6%80%80%E7%96%91%E6%88%90%E7%BB%A9%E8%A2%AB%E5%81%B7+%E6%95%99%E8%82%B2%E5%B1%80%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [大国造船，乘风破浪](https://www.baidu.com/s?wd=%E5%A4%A7%E5%9B%BD%E9%80%A0%E8%88%B9%EF%BC%8C%E4%B9%98%E9%A3%8E%E7%A0%B4%E6%B5%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,7 +29,7 @@
 
 > 哔哩哔哩  
 
-1. [全面推进美丽中国建设](https://www.baidu.com/s?wd=%E5%85%A8%E9%9D%A2%E6%8E%A8%E8%BF%9B%E7%BE%8E%E4%B8%BD%E4%B8%AD%E5%9B%BD%E5%BB%BA%E8%AE%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [高质量发展是首要任务](https://www.baidu.com/s?wd=%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E6%98%AF%E9%A6%96%E8%A6%81%E4%BB%BB%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [一美军士兵越界闯入朝鲜 细节曝光](https://www.baidu.com/s?wd=%E4%B8%80%E7%BE%8E%E5%86%9B%E5%A3%AB%E5%85%B5%E8%B6%8A%E7%95%8C%E9%97%AF%E5%85%A5%E6%9C%9D%E9%B2%9C+%E7%BB%86%E8%8A%82%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [考生怀疑成绩被偷 教育局通报](https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%E6%80%80%E7%96%91%E6%88%90%E7%BB%A9%E8%A2%AB%E5%81%B7+%E6%95%99%E8%82%B2%E5%B1%80%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [大国造船，乘风破浪](https://www.baidu.com/s?wd=%E5%A4%A7%E5%9B%BD%E9%80%A0%E8%88%B9%EF%BC%8C%E4%B9%98%E9%A3%8E%E7%A0%B4%E6%B5%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
