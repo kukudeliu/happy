@@ -1,13 +1,13 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-19 19:11:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-19 19:12:01</h4></div>
 
 > 微博  
 
 1. [四川大学回应网传视频](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E8%A7%86%E9%A2%91%23&t=31&band_rank=1&Refer=top)<br />
 2. [男子突然倒地大小便失禁消防员紧急救助](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%AA%81%E7%84%B6%E5%80%92%E5%9C%B0%E5%A4%A7%E5%B0%8F%E4%BE%BF%E5%A4%B1%E7%A6%81%E6%B6%88%E9%98%B2%E5%91%98%E7%B4%A7%E6%80%A5%E6%95%91%E5%8A%A9%23&t=31&band_rank=2&Refer=top)<br />
 3. [我国累计建成5G基站超293万个](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E7%B4%AF%E8%AE%A1%E5%BB%BA%E6%88%905G%E5%9F%BA%E7%AB%99%E8%B6%85293%E4%B8%87%E4%B8%AA%23&t=31&band_rank=3&Refer=top)<br />
-4. [刘雯井柏然相拥大片](https://s.weibo.com/weibo?q=%23%E5%88%98%E9%9B%AF%E4%BA%95%E6%9F%8F%E7%84%B6%E7%9B%B8%E6%8B%A5%E5%A4%A7%E7%89%87%23&t=31&band_rank=4&Refer=top)<br />
+4. [女子举报丈夫与公职人员生女](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B8%BE%E6%8A%A5%E4%B8%88%E5%A4%AB%E4%B8%8E%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E7%94%9F%E5%A5%B3%23&t=31&band_rank=4&Refer=top)<br />
 5. [在飞机上偶遇了一场音乐会](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E9%A3%9E%E6%9C%BA%E4%B8%8A%E5%81%B6%E9%81%87%E4%BA%86%E4%B8%80%E5%9C%BA%E9%9F%B3%E4%B9%90%E4%BC%9A%23&t=31&band_rank=5&Refer=top)<br />
-6. [女子举报丈夫与公职人员生女](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B8%BE%E6%8A%A5%E4%B8%88%E5%A4%AB%E4%B8%8E%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E7%94%9F%E5%A5%B3%23&t=31&band_rank=6&Refer=top)<br />
+6. [刘雯井柏然相拥大片](https://s.weibo.com/weibo?q=%23%E5%88%98%E9%9B%AF%E4%BA%95%E6%9F%8F%E7%84%B6%E7%9B%B8%E6%8B%A5%E5%A4%A7%E7%89%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [环卫工被疑偷手机民警翻垃圾证清白](https://s.weibo.com/weibo?q=%23%E7%8E%AF%E5%8D%AB%E5%B7%A5%E8%A2%AB%E7%96%91%E5%81%B7%E6%89%8B%E6%9C%BA%E6%B0%91%E8%AD%A6%E7%BF%BB%E5%9E%83%E5%9C%BE%E8%AF%81%E6%B8%85%E7%99%BD%23&t=31&band_rank=7&Refer=top)<br />
 8. [魏大勋101舞台](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B101%E8%88%9E%E5%8F%B0%23&t=31&band_rank=8&Refer=top)<br />
 9. [陈芋汐全红婵又包揽冠亚军了](https://s.weibo.com/weibo?q=%23%E9%99%88%E8%8A%8B%E6%B1%90%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%8F%88%E5%8C%85%E6%8F%BD%E5%86%A0%E4%BA%9A%E5%86%9B%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
