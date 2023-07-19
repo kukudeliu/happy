@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-19 13:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-19 13:33:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [丁程鑫说719这个日子都敢选](https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A8%8B%E9%91%AB%E8%AF%B4719%E8%BF%99%E4%B8%AA%E6%97%A5%E5%AD%90%E9%83%BD%E6%95%A2%E9%80%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [真正通便的食物是这14种](https://s.weibo.com/weibo?q=%E7%9C%9F%E6%AD%A3%E9%80%9A%E4%BE%BF%E7%9A%84%E9%A3%9F%E7%89%A9%E6%98%AF%E8%BF%9914%E7%A7%8D&t=31&band_rank=7&Refer=top)<br />
 8. [郭启刚回国投案](https://s.weibo.com/weibo?q=%23%E9%83%AD%E5%90%AF%E5%88%9A%E5%9B%9E%E5%9B%BD%E6%8A%95%E6%A1%88%23&t=31&band_rank=8&Refer=top)<br />
-9. [白敬亭魏大勋刘昊然同框路透](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E9%AD%8F%E5%A4%A7%E5%8B%8B%E5%88%98%E6%98%8A%E7%84%B6%E5%90%8C%E6%A1%86%E8%B7%AF%E9%80%8F%23&t=31&band_rank=9&Refer=top)<br />
+9. [宋焰许沁去吃饭只点一个菜](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E7%84%B0%E8%AE%B8%E6%B2%81%E5%8E%BB%E5%90%83%E9%A5%AD%E5%8F%AA%E7%82%B9%E4%B8%80%E4%B8%AA%E8%8F%9C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
