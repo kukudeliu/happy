@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-20 03:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-20 03:39:02</h4></div>
 
 > 微博  
 
@@ -22,10 +22,10 @@
 3. [大麦网到底有没有票？](https://www.baidu.com/s?wd=%E5%A4%A7%E9%BA%A6%E7%BD%91%E5%88%B0%E5%BA%95%E6%9C%89%E6%B2%A1%E6%9C%89%E7%A5%A8%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [营造文明网络生态](https://www.baidu.com/s?wd=%E8%90%A5%E9%80%A0%E6%96%87%E6%98%8E%E7%BD%91%E7%BB%9C%E7%94%9F%E6%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [川大招生视频现“旭日旗”?校方报警](https://www.baidu.com/s?wd=%E5%B7%9D%E5%A4%A7%E6%8B%9B%E7%94%9F%E8%A7%86%E9%A2%91%E7%8E%B0%E2%80%9C%E6%97%AD%E6%97%A5%E6%97%97%E2%80%9D%3F%E6%A0%A1%E6%96%B9%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [再破纪录 北京今年第28个高温日诞生](https://www.baidu.com/s?wd=%E5%86%8D%E7%A0%B4%E7%BA%AA%E5%BD%95+%E5%8C%97%E4%BA%AC%E4%BB%8A%E5%B9%B4%E7%AC%AC28%E4%B8%AA%E9%AB%98%E6%B8%A9%E6%97%A5%E8%AF%9E%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [应届生在非洲“上岸”](https://www.baidu.com/s?wd=%E5%BA%94%E5%B1%8A%E7%94%9F%E5%9C%A8%E9%9D%9E%E6%B4%B2%E2%80%9C%E4%B8%8A%E5%B2%B8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [杨洋这么睡不累吗](https://www.baidu.com/s?wd=%E6%9D%A8%E6%B4%8B%E8%BF%99%E4%B9%88%E7%9D%A1%E4%B8%8D%E7%B4%AF%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中方兵力将首次从俄机场起飞](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%85%B5%E5%8A%9B%E5%B0%86%E9%A6%96%E6%AC%A1%E4%BB%8E%E4%BF%84%E6%9C%BA%E5%9C%BA%E8%B5%B7%E9%A3%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [男子为破世界纪录强迫自己哭一周](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%BA%E7%A0%B4%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95%E5%BC%BA%E8%BF%AB%E8%87%AA%E5%B7%B1%E5%93%AD%E4%B8%80%E5%91%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [杨洋这么睡不累吗](https://www.baidu.com/s?wd=%E6%9D%A8%E6%B4%8B%E8%BF%99%E4%B9%88%E7%9D%A1%E4%B8%8D%E7%B4%AF%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [胡锡进:千方百计创造就业不是喊口号](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%3A%E5%8D%83%E6%96%B9%E7%99%BE%E8%AE%A1%E5%88%9B%E9%80%A0%E5%B0%B1%E4%B8%9A%E4%B8%8D%E6%98%AF%E5%96%8A%E5%8F%A3%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [应届生在非洲“上岸”](https://www.baidu.com/s?wd=%E5%BA%94%E5%B1%8A%E7%94%9F%E5%9C%A8%E9%9D%9E%E6%B4%B2%E2%80%9C%E4%B8%8A%E5%B2%B8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -34,7 +34,7 @@
 3. [大麦网到底有没有票？](https://www.baidu.com/s?wd=%E5%A4%A7%E9%BA%A6%E7%BD%91%E5%88%B0%E5%BA%95%E6%9C%89%E6%B2%A1%E6%9C%89%E7%A5%A8%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [营造文明网络生态](https://www.baidu.com/s?wd=%E8%90%A5%E9%80%A0%E6%96%87%E6%98%8E%E7%BD%91%E7%BB%9C%E7%94%9F%E6%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [川大招生视频现“旭日旗”?校方报警](https://www.baidu.com/s?wd=%E5%B7%9D%E5%A4%A7%E6%8B%9B%E7%94%9F%E8%A7%86%E9%A2%91%E7%8E%B0%E2%80%9C%E6%97%AD%E6%97%A5%E6%97%97%E2%80%9D%3F%E6%A0%A1%E6%96%B9%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [再破纪录 北京今年第28个高温日诞生](https://www.baidu.com/s?wd=%E5%86%8D%E7%A0%B4%E7%BA%AA%E5%BD%95+%E5%8C%97%E4%BA%AC%E4%BB%8A%E5%B9%B4%E7%AC%AC28%E4%B8%AA%E9%AB%98%E6%B8%A9%E6%97%A5%E8%AF%9E%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [应届生在非洲“上岸”](https://www.baidu.com/s?wd=%E5%BA%94%E5%B1%8A%E7%94%9F%E5%9C%A8%E9%9D%9E%E6%B4%B2%E2%80%9C%E4%B8%8A%E5%B2%B8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [杨洋这么睡不累吗](https://www.baidu.com/s?wd=%E6%9D%A8%E6%B4%8B%E8%BF%99%E4%B9%88%E7%9D%A1%E4%B8%8D%E7%B4%AF%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中方兵力将首次从俄机场起飞](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%85%B5%E5%8A%9B%E5%B0%86%E9%A6%96%E6%AC%A1%E4%BB%8E%E4%BF%84%E6%9C%BA%E5%9C%BA%E8%B5%B7%E9%A3%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [男子为破世界纪录强迫自己哭一周](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%BA%E7%A0%B4%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95%E5%BC%BA%E8%BF%AB%E8%87%AA%E5%B7%B1%E5%93%AD%E4%B8%80%E5%91%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [杨洋这么睡不累吗](https://www.baidu.com/s?wd=%E6%9D%A8%E6%B4%8B%E8%BF%99%E4%B9%88%E7%9D%A1%E4%B8%8D%E7%B4%AF%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [胡锡进:千方百计创造就业不是喊口号](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%3A%E5%8D%83%E6%96%B9%E7%99%BE%E8%AE%A1%E5%88%9B%E9%80%A0%E5%B0%B1%E4%B8%9A%E4%B8%8D%E6%98%AF%E5%96%8A%E5%8F%A3%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [应届生在非洲“上岸”](https://www.baidu.com/s?wd=%E5%BA%94%E5%B1%8A%E7%94%9F%E5%9C%A8%E9%9D%9E%E6%B4%B2%E2%80%9C%E4%B8%8A%E5%B2%B8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
