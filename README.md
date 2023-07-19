@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-19 19:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-19 19:27:02</h4></div>
 
 > 微博  
 
@@ -19,22 +19,22 @@
 
 1. [为了天更蓝水更清山更绿](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BA%86%E5%A4%A9%E6%9B%B4%E8%93%9D%E6%B0%B4%E6%9B%B4%E6%B8%85%E5%B1%B1%E6%9B%B4%E7%BB%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [12306回应高铁上能否吃自热火锅](https://www.baidu.com/s?wd=12306%E5%9B%9E%E5%BA%94%E9%AB%98%E9%93%81%E4%B8%8A%E8%83%BD%E5%90%A6%E5%90%83%E8%87%AA%E7%83%AD%E7%81%AB%E9%94%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [美特斯邦威带所有员工离沪迁杭](https://www.baidu.com/s?wd=%E7%BE%8E%E7%89%B9%E6%96%AF%E9%82%A6%E5%A8%81%E5%B8%A6%E6%89%80%E6%9C%89%E5%91%98%E5%B7%A5%E7%A6%BB%E6%B2%AA%E8%BF%81%E6%9D%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [川大招生视频现“旭日旗”?校方报警](https://www.baidu.com/s?wd=%E5%B7%9D%E5%A4%A7%E6%8B%9B%E7%94%9F%E8%A7%86%E9%A2%91%E7%8E%B0%E2%80%9C%E6%97%AD%E6%97%A5%E6%97%97%E2%80%9D%3F%E6%A0%A1%E6%96%B9%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [2023年中国网络文明大会举行](https://www.baidu.com/s?wd=2023%E5%B9%B4%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E5%A4%A7%E4%BC%9A%E4%B8%BE%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [大麦网到底有没有票？](https://www.baidu.com/s?wd=%E5%A4%A7%E9%BA%A6%E7%BD%91%E5%88%B0%E5%BA%95%E6%9C%89%E6%B2%A1%E6%9C%89%E7%A5%A8%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [川大招生视频现“旭日旗”?校方报警](https://www.baidu.com/s?wd=%E5%B7%9D%E5%A4%A7%E6%8B%9B%E7%94%9F%E8%A7%86%E9%A2%91%E7%8E%B0%E2%80%9C%E6%97%AD%E6%97%A5%E6%97%97%E2%80%9D%3F%E6%A0%A1%E6%96%B9%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [小钰道歉](https://www.baidu.com/s?wd=%E5%B0%8F%E9%92%B0%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [“牵手门”同款连衣裙变成童装售卖](https://www.baidu.com/s?wd=%E2%80%9C%E7%89%B5%E6%89%8B%E9%97%A8%E2%80%9D%E5%90%8C%E6%AC%BE%E8%BF%9E%E8%A1%A3%E8%A3%99%E5%8F%98%E6%88%90%E7%AB%A5%E8%A3%85%E5%94%AE%E5%8D%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [警察跳水救人后满身绿藻摆手离开](https://www.baidu.com/s?wd=%E8%AD%A6%E5%AF%9F%E8%B7%B3%E6%B0%B4%E6%95%91%E4%BA%BA%E5%90%8E%E6%BB%A1%E8%BA%AB%E7%BB%BF%E8%97%BB%E6%91%86%E6%89%8B%E7%A6%BB%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [小钰道歉](https://www.baidu.com/s?wd=%E5%B0%8F%E9%92%B0%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [“牵手门”同款连衣裙变成童装售卖](https://www.baidu.com/s?wd=%E2%80%9C%E7%89%B5%E6%89%8B%E9%97%A8%E2%80%9D%E5%90%8C%E6%AC%BE%E8%BF%9E%E8%A1%A3%E8%A3%99%E5%8F%98%E6%88%90%E7%AB%A5%E8%A3%85%E5%94%AE%E5%8D%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [警察跳水救人后满身绿藻摆手离开](https://www.baidu.com/s?wd=%E8%AD%A6%E5%AF%9F%E8%B7%B3%E6%B0%B4%E6%95%91%E4%BA%BA%E5%90%8E%E6%BB%A1%E8%BA%AB%E7%BB%BF%E8%97%BB%E6%91%86%E6%89%8B%E7%A6%BB%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [美特斯邦威带所有员工离沪迁杭](https://www.baidu.com/s?wd=%E7%BE%8E%E7%89%B9%E6%96%AF%E9%82%A6%E5%A8%81%E5%B8%A6%E6%89%80%E6%9C%89%E5%91%98%E5%B7%A5%E7%A6%BB%E6%B2%AA%E8%BF%81%E6%9D%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [为了天更蓝水更清山更绿](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BA%86%E5%A4%A9%E6%9B%B4%E8%93%9D%E6%B0%B4%E6%9B%B4%E6%B8%85%E5%B1%B1%E6%9B%B4%E7%BB%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [12306回应高铁上能否吃自热火锅](https://www.baidu.com/s?wd=12306%E5%9B%9E%E5%BA%94%E9%AB%98%E9%93%81%E4%B8%8A%E8%83%BD%E5%90%A6%E5%90%83%E8%87%AA%E7%83%AD%E7%81%AB%E9%94%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [美特斯邦威带所有员工离沪迁杭](https://www.baidu.com/s?wd=%E7%BE%8E%E7%89%B9%E6%96%AF%E9%82%A6%E5%A8%81%E5%B8%A6%E6%89%80%E6%9C%89%E5%91%98%E5%B7%A5%E7%A6%BB%E6%B2%AA%E8%BF%81%E6%9D%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [川大招生视频现“旭日旗”?校方报警](https://www.baidu.com/s?wd=%E5%B7%9D%E5%A4%A7%E6%8B%9B%E7%94%9F%E8%A7%86%E9%A2%91%E7%8E%B0%E2%80%9C%E6%97%AD%E6%97%A5%E6%97%97%E2%80%9D%3F%E6%A0%A1%E6%96%B9%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [2023年中国网络文明大会举行](https://www.baidu.com/s?wd=2023%E5%B9%B4%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E5%A4%A7%E4%BC%9A%E4%B8%BE%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [大麦网到底有没有票？](https://www.baidu.com/s?wd=%E5%A4%A7%E9%BA%A6%E7%BD%91%E5%88%B0%E5%BA%95%E6%9C%89%E6%B2%A1%E6%9C%89%E7%A5%A8%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [川大招生视频现“旭日旗”?校方报警](https://www.baidu.com/s?wd=%E5%B7%9D%E5%A4%A7%E6%8B%9B%E7%94%9F%E8%A7%86%E9%A2%91%E7%8E%B0%E2%80%9C%E6%97%AD%E6%97%A5%E6%97%97%E2%80%9D%3F%E6%A0%A1%E6%96%B9%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [小钰道歉](https://www.baidu.com/s?wd=%E5%B0%8F%E9%92%B0%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [“牵手门”同款连衣裙变成童装售卖](https://www.baidu.com/s?wd=%E2%80%9C%E7%89%B5%E6%89%8B%E9%97%A8%E2%80%9D%E5%90%8C%E6%AC%BE%E8%BF%9E%E8%A1%A3%E8%A3%99%E5%8F%98%E6%88%90%E7%AB%A5%E8%A3%85%E5%94%AE%E5%8D%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [警察跳水救人后满身绿藻摆手离开](https://www.baidu.com/s?wd=%E8%AD%A6%E5%AF%9F%E8%B7%B3%E6%B0%B4%E6%95%91%E4%BA%BA%E5%90%8E%E6%BB%A1%E8%BA%AB%E7%BB%BF%E8%97%BB%E6%91%86%E6%89%8B%E7%A6%BB%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [小钰道歉](https://www.baidu.com/s?wd=%E5%B0%8F%E9%92%B0%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [“牵手门”同款连衣裙变成童装售卖](https://www.baidu.com/s?wd=%E2%80%9C%E7%89%B5%E6%89%8B%E9%97%A8%E2%80%9D%E5%90%8C%E6%AC%BE%E8%BF%9E%E8%A1%A3%E8%A3%99%E5%8F%98%E6%88%90%E7%AB%A5%E8%A3%85%E5%94%AE%E5%8D%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [警察跳水救人后满身绿藻摆手离开](https://www.baidu.com/s?wd=%E8%AD%A6%E5%AF%9F%E8%B7%B3%E6%B0%B4%E6%95%91%E4%BA%BA%E5%90%8E%E6%BB%A1%E8%BA%AB%E7%BB%BF%E8%97%BB%E6%91%86%E6%89%8B%E7%A6%BB%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [美特斯邦威带所有员工离沪迁杭](https://www.baidu.com/s?wd=%E7%BE%8E%E7%89%B9%E6%96%AF%E9%82%A6%E5%A8%81%E5%B8%A6%E6%89%80%E6%9C%89%E5%91%98%E5%B7%A5%E7%A6%BB%E6%B2%AA%E8%BF%81%E6%9D%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
