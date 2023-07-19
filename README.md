@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-19 17:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-19 17:03:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [韩国确认249名幽灵儿童死亡](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E7%A1%AE%E8%AE%A4249%E5%90%8D%E5%B9%BD%E7%81%B5%E5%84%BF%E7%AB%A5%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子当街殴打2名交警 警方通报](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BD%93%E8%A1%97%E6%AE%B4%E6%89%932%E5%90%8D%E4%BA%A4%E8%AD%A6+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [警察跳水救人后满身绿藻摆手离开](https://www.baidu.com/s?wd=%E8%AD%A6%E5%AF%9F%E8%B7%B3%E6%B0%B4%E6%95%91%E4%BA%BA%E5%90%8E%E6%BB%A1%E8%BA%AB%E7%BB%BF%E8%97%BB%E6%91%86%E6%89%8B%E7%A6%BB%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [烟草局内皆是局长亲属？媒体：旧闻](https://www.baidu.com/s?wd=%E7%83%9F%E8%8D%89%E5%B1%80%E5%86%85%E7%9A%86%E6%98%AF%E5%B1%80%E9%95%BF%E4%BA%B2%E5%B1%9E%EF%BC%9F%E5%AA%92%E4%BD%93%EF%BC%9A%E6%97%A7%E9%97%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [12306回应高铁上能否吃自热火锅](https://www.baidu.com/s?wd=12306%E5%9B%9E%E5%BA%94%E9%AB%98%E9%93%81%E4%B8%8A%E8%83%BD%E5%90%A6%E5%90%83%E8%87%AA%E7%83%AD%E7%81%AB%E9%94%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [韩国确认249名幽灵儿童死亡](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E7%A1%AE%E8%AE%A4249%E5%90%8D%E5%B9%BD%E7%81%B5%E5%84%BF%E7%AB%A5%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子当街殴打2名交警 警方通报](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BD%93%E8%A1%97%E6%AE%B4%E6%89%932%E5%90%8D%E4%BA%A4%E8%AD%A6+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [警察跳水救人后满身绿藻摆手离开](https://www.baidu.com/s?wd=%E8%AD%A6%E5%AF%9F%E8%B7%B3%E6%B0%B4%E6%95%91%E4%BA%BA%E5%90%8E%E6%BB%A1%E8%BA%AB%E7%BB%BF%E8%97%BB%E6%91%86%E6%89%8B%E7%A6%BB%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [烟草局内皆是局长亲属？媒体：旧闻](https://www.baidu.com/s?wd=%E7%83%9F%E8%8D%89%E5%B1%80%E5%86%85%E7%9A%86%E6%98%AF%E5%B1%80%E9%95%BF%E4%BA%B2%E5%B1%9E%EF%BC%9F%E5%AA%92%E4%BD%93%EF%BC%9A%E6%97%A7%E9%97%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [12306回应高铁上能否吃自热火锅](https://www.baidu.com/s?wd=12306%E5%9B%9E%E5%BA%94%E9%AB%98%E9%93%81%E4%B8%8A%E8%83%BD%E5%90%A6%E5%90%83%E8%87%AA%E7%83%AD%E7%81%AB%E9%94%85&sa=fyb_news&rsv_dl=fyb_news)<br />
