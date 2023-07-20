@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-21 05:28:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-21 05:29:01</h4></div>
 
 > 微博  
 
@@ -23,9 +23,9 @@
 4. [进一步激发民营经济发展活力](https://www.baidu.com/s?wd=%E8%BF%9B%E4%B8%80%E6%AD%A5%E6%BF%80%E5%8F%91%E6%B0%91%E8%90%A5%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [媒体评婴幼儿哭闹请去车厢连接处](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E5%A9%B4%E5%B9%BC%E5%84%BF%E5%93%AD%E9%97%B9%E8%AF%B7%E5%8E%BB%E8%BD%A6%E5%8E%A2%E8%BF%9E%E6%8E%A5%E5%A4%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [刘晓庆演少女 父亲扮演者比其小18岁](https://www.baidu.com/s?wd=%E5%88%98%E6%99%93%E5%BA%86%E6%BC%94%E5%B0%91%E5%A5%B3+%E7%88%B6%E4%BA%B2%E6%89%AE%E6%BC%94%E8%80%85%E6%AF%94%E5%85%B6%E5%B0%8F18%E5%B2%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [河北石家庄今年高温日数破纪录](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E7%9F%B3%E5%AE%B6%E5%BA%84%E4%BB%8A%E5%B9%B4%E9%AB%98%E6%B8%A9%E6%97%A5%E6%95%B0%E7%A0%B4%E7%BA%AA%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [江苏无锡突降暴雨 居民上街摸鱼](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E6%97%A0%E9%94%A1%E7%AA%81%E9%99%8D%E6%9A%B4%E9%9B%A8+%E5%B1%85%E6%B0%91%E4%B8%8A%E8%A1%97%E6%91%B8%E9%B1%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [网友偶遇张颂文考科目二](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%81%B6%E9%81%87%E5%BC%A0%E9%A2%82%E6%96%87%E8%80%83%E7%A7%91%E7%9B%AE%E4%BA%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [江苏无锡突降暴雨 居民上街摸鱼](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E6%97%A0%E9%94%A1%E7%AA%81%E9%99%8D%E6%9A%B4%E9%9B%A8+%E5%B1%85%E6%B0%91%E4%B8%8A%E8%A1%97%E6%91%B8%E9%B1%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [俞敏洪称儿子实习每天工作18小时](https://www.baidu.com/s?wd=%E4%BF%9E%E6%95%8F%E6%B4%AA%E7%A7%B0%E5%84%BF%E5%AD%90%E5%AE%9E%E4%B9%A0%E6%AF%8F%E5%A4%A9%E5%B7%A5%E4%BD%9C18%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [科学家首次目睹金属自我修复过程](https://www.baidu.com/s?wd=%E7%A7%91%E5%AD%A6%E5%AE%B6%E9%A6%96%E6%AC%A1%E7%9B%AE%E7%9D%B9%E9%87%91%E5%B1%9E%E8%87%AA%E6%88%91%E4%BF%AE%E5%A4%8D%E8%BF%87%E7%A8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -35,6 +35,6 @@
 4. [进一步激发民营经济发展活力](https://www.baidu.com/s?wd=%E8%BF%9B%E4%B8%80%E6%AD%A5%E6%BF%80%E5%8F%91%E6%B0%91%E8%90%A5%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [媒体评婴幼儿哭闹请去车厢连接处](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E5%A9%B4%E5%B9%BC%E5%84%BF%E5%93%AD%E9%97%B9%E8%AF%B7%E5%8E%BB%E8%BD%A6%E5%8E%A2%E8%BF%9E%E6%8E%A5%E5%A4%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [刘晓庆演少女 父亲扮演者比其小18岁](https://www.baidu.com/s?wd=%E5%88%98%E6%99%93%E5%BA%86%E6%BC%94%E5%B0%91%E5%A5%B3+%E7%88%B6%E4%BA%B2%E6%89%AE%E6%BC%94%E8%80%85%E6%AF%94%E5%85%B6%E5%B0%8F18%E5%B2%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [河北石家庄今年高温日数破纪录](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E7%9F%B3%E5%AE%B6%E5%BA%84%E4%BB%8A%E5%B9%B4%E9%AB%98%E6%B8%A9%E6%97%A5%E6%95%B0%E7%A0%B4%E7%BA%AA%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [江苏无锡突降暴雨 居民上街摸鱼](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E6%97%A0%E9%94%A1%E7%AA%81%E9%99%8D%E6%9A%B4%E9%9B%A8+%E5%B1%85%E6%B0%91%E4%B8%8A%E8%A1%97%E6%91%B8%E9%B1%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [网友偶遇张颂文考科目二](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%81%B6%E9%81%87%E5%BC%A0%E9%A2%82%E6%96%87%E8%80%83%E7%A7%91%E7%9B%AE%E4%BA%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [江苏无锡突降暴雨 居民上街摸鱼](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E6%97%A0%E9%94%A1%E7%AA%81%E9%99%8D%E6%9A%B4%E9%9B%A8+%E5%B1%85%E6%B0%91%E4%B8%8A%E8%A1%97%E6%91%B8%E9%B1%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [俞敏洪称儿子实习每天工作18小时](https://www.baidu.com/s?wd=%E4%BF%9E%E6%95%8F%E6%B4%AA%E7%A7%B0%E5%84%BF%E5%AD%90%E5%AE%9E%E4%B9%A0%E6%AF%8F%E5%A4%A9%E5%B7%A5%E4%BD%9C18%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [科学家首次目睹金属自我修复过程](https://www.baidu.com/s?wd=%E7%A7%91%E5%AD%A6%E5%AE%B6%E9%A6%96%E6%AC%A1%E7%9B%AE%E7%9D%B9%E9%87%91%E5%B1%9E%E8%87%AA%E6%88%91%E4%BF%AE%E5%A4%8D%E8%BF%87%E7%A8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
