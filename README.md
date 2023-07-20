@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-20 19:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-20 20:00:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [烧伤女孩拍婚纱照店老板主动充当新郎](https://s.weibo.com/weibo?q=%23%E7%83%A7%E4%BC%A4%E5%A5%B3%E5%AD%A9%E6%8B%8D%E5%A9%9A%E7%BA%B1%E7%85%A7%E5%BA%97%E8%80%81%E6%9D%BF%E4%B8%BB%E5%8A%A8%E5%85%85%E5%BD%93%E6%96%B0%E9%83%8E%23&t=31&band_rank=5&Refer=top)<br />
 6. [中建八局被实名举报](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%BB%BA%E5%85%AB%E5%B1%80%E8%A2%AB%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%23&t=31&band_rank=6&Refer=top)<br />
 7. [清华录取通知书寄到全家乐开花男生一脸淡定](https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8D%8E%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E5%AF%84%E5%88%B0%E5%85%A8%E5%AE%B6%E4%B9%90%E5%BC%80%E8%8A%B1%E7%94%B7%E7%94%9F%E4%B8%80%E8%84%B8%E6%B7%A1%E5%AE%9A%23&t=31&band_rank=7&Refer=top)<br />
-8. [迪丽热巴刘宇宁穿黑衣服不告诉龚俊](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%88%98%E5%AE%87%E5%AE%81%E7%A9%BF%E9%BB%91%E8%A1%A3%E6%9C%8D%E4%B8%8D%E5%91%8A%E8%AF%89%E9%BE%9A%E4%BF%8A%23&t=31&band_rank=8&Refer=top)<br />
-9. [宋焰 服从性测试](https://s.weibo.com/weibo?q=%E5%AE%8B%E7%84%B0%20%E6%9C%8D%E4%BB%8E%E6%80%A7%E6%B5%8B%E8%AF%95&t=31&band_rank=9&Refer=top)<br />
+8. [邓超鹿晗陈赫范志毅王勉祝老舅生辰快乐](https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E9%B9%BF%E6%99%97%E9%99%88%E8%B5%AB%E8%8C%83%E5%BF%97%E6%AF%85%E7%8E%8B%E5%8B%89%E7%A5%9D%E8%80%81%E8%88%85%E7%94%9F%E8%BE%B0%E5%BF%AB%E4%B9%90%23&t=31&band_rank=8&Refer=top)<br />
+9. [迪丽热巴刘宇宁穿黑衣服不告诉龚俊](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%88%98%E5%AE%87%E5%AE%81%E7%A9%BF%E9%BB%91%E8%A1%A3%E6%9C%8D%E4%B8%8D%E5%91%8A%E8%AF%89%E9%BE%9A%E4%BF%8A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,8 +24,8 @@
 5. [黄晓明的回应vs杨洋的回应](https://www.baidu.com/s?wd=%E9%BB%84%E6%99%93%E6%98%8E%E7%9A%84%E5%9B%9E%E5%BA%94vs%E6%9D%A8%E6%B4%8B%E7%9A%84%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [刘晓庆演少女 父亲扮演者比其小18岁](https://www.baidu.com/s?wd=%E5%88%98%E6%99%93%E5%BA%86%E6%BC%94%E5%B0%91%E5%A5%B3+%E7%88%B6%E4%BA%B2%E6%89%AE%E6%BC%94%E8%80%85%E6%AF%94%E5%85%B6%E5%B0%8F18%E5%B2%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中建八局回应高铁事件：高度重视](https://www.baidu.com/s?wd=%E4%B8%AD%E5%BB%BA%E5%85%AB%E5%B1%80%E5%9B%9E%E5%BA%94%E9%AB%98%E9%93%81%E4%BA%8B%E4%BB%B6%EF%BC%9A%E9%AB%98%E5%BA%A6%E9%87%8D%E8%A7%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [印度桥梁发生触电致16人死亡](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E6%A1%A5%E6%A2%81%E5%8F%91%E7%94%9F%E8%A7%A6%E7%94%B5%E8%87%B416%E4%BA%BA%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [官方通报女子桥洞内避雨被冲走](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E6%A1%A5%E6%B4%9E%E5%86%85%E9%81%BF%E9%9B%A8%E8%A2%AB%E5%86%B2%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [官方通报女子桥洞内避雨被冲走](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E6%A1%A5%E6%B4%9E%E5%86%85%E9%81%BF%E9%9B%A8%E8%A2%AB%E5%86%B2%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [印度桥梁发生触电致16人死亡](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E6%A1%A5%E6%A2%81%E5%8F%91%E7%94%9F%E8%A7%A6%E7%94%B5%E8%87%B416%E4%BA%BA%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [黄晓明的回应vs杨洋的回应](https://www.baidu.com/s?wd=%E9%BB%84%E6%99%93%E6%98%8E%E7%9A%84%E5%9B%9E%E5%BA%94vs%E6%9D%A8%E6%B4%8B%E7%9A%84%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [刘晓庆演少女 父亲扮演者比其小18岁](https://www.baidu.com/s?wd=%E5%88%98%E6%99%93%E5%BA%86%E6%BC%94%E5%B0%91%E5%A5%B3+%E7%88%B6%E4%BA%B2%E6%89%AE%E6%BC%94%E8%80%85%E6%AF%94%E5%85%B6%E5%B0%8F18%E5%B2%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中建八局回应高铁事件：高度重视](https://www.baidu.com/s?wd=%E4%B8%AD%E5%BB%BA%E5%85%AB%E5%B1%80%E5%9B%9E%E5%BA%94%E9%AB%98%E9%93%81%E4%BA%8B%E4%BB%B6%EF%BC%9A%E9%AB%98%E5%BA%A6%E9%87%8D%E8%A7%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [印度桥梁发生触电致16人死亡](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E6%A1%A5%E6%A2%81%E5%8F%91%E7%94%9F%E8%A7%A6%E7%94%B5%E8%87%B416%E4%BA%BA%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [官方通报女子桥洞内避雨被冲走](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E6%A1%A5%E6%B4%9E%E5%86%85%E9%81%BF%E9%9B%A8%E8%A2%AB%E5%86%B2%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [官方通报女子桥洞内避雨被冲走](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E6%A1%A5%E6%B4%9E%E5%86%85%E9%81%BF%E9%9B%A8%E8%A2%AB%E5%86%B2%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [印度桥梁发生触电致16人死亡](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E6%A1%A5%E6%A2%81%E5%8F%91%E7%94%9F%E8%A7%A6%E7%94%B5%E8%87%B416%E4%BA%BA%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
