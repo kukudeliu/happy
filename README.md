@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-20 20:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-20 20:07:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [迪丽热巴刘宇宁穿黑衣服不告诉龚俊](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%88%98%E5%AE%87%E5%AE%81%E7%A9%BF%E9%BB%91%E8%A1%A3%E6%9C%8D%E4%B8%8D%E5%91%8A%E8%AF%89%E9%BE%9A%E4%BF%8A%23&t=31&band_rank=5&Refer=top)<br />
 6. [中建八局被实名举报](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%BB%BA%E5%85%AB%E5%B1%80%E8%A2%AB%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%23&t=31&band_rank=6&Refer=top)<br />
 7. [宋焰 服从性测试](https://s.weibo.com/weibo?q=%E5%AE%8B%E7%84%B0%20%E6%9C%8D%E4%BB%8E%E6%80%A7%E6%B5%8B%E8%AF%95&t=31&band_rank=7&Refer=top)<br />
-8. [烧伤女孩拍婚纱照店老板主动充当新郎](https://s.weibo.com/weibo?q=%23%E7%83%A7%E4%BC%A4%E5%A5%B3%E5%AD%A9%E6%8B%8D%E5%A9%9A%E7%BA%B1%E7%85%A7%E5%BA%97%E8%80%81%E6%9D%BF%E4%B8%BB%E5%8A%A8%E5%85%85%E5%BD%93%E6%96%B0%E9%83%8E%23&t=31&band_rank=8&Refer=top)<br />
-9. [缉毒警退休警嫂朋友圈破防了](https://s.weibo.com/weibo?q=%23%E7%BC%89%E6%AF%92%E8%AD%A6%E9%80%80%E4%BC%91%E8%AD%A6%E5%AB%82%E6%9C%8B%E5%8F%8B%E5%9C%88%E7%A0%B4%E9%98%B2%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+8. [缉毒警退休警嫂朋友圈破防了](https://s.weibo.com/weibo?q=%23%E7%BC%89%E6%AF%92%E8%AD%A6%E9%80%80%E4%BC%91%E8%AD%A6%E5%AB%82%E6%9C%8B%E5%8F%8B%E5%9C%88%E7%A0%B4%E9%98%B2%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [烧伤女孩拍婚纱照店老板主动充当新郎](https://s.weibo.com/weibo?q=%23%E7%83%A7%E4%BC%A4%E5%A5%B3%E5%AD%A9%E6%8B%8D%E5%A9%9A%E7%BA%B1%E7%85%A7%E5%BA%97%E8%80%81%E6%9D%BF%E4%B8%BB%E5%8A%A8%E5%85%85%E5%BD%93%E6%96%B0%E9%83%8E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
