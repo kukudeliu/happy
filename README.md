@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-21 04:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-21 04:14:01</h4></div>
 
 > 微博  
 
@@ -22,10 +22,10 @@
 3. [中建八局回应高铁事件：高度重视](https://www.baidu.com/s?wd=%E4%B8%AD%E5%BB%BA%E5%85%AB%E5%B1%80%E5%9B%9E%E5%BA%94%E9%AB%98%E9%93%81%E4%BA%8B%E4%BB%B6%EF%BC%9A%E9%AB%98%E5%BA%A6%E9%87%8D%E8%A7%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [进一步激发民营经济发展活力](https://www.baidu.com/s?wd=%E8%BF%9B%E4%B8%80%E6%AD%A5%E6%BF%80%E5%8F%91%E6%B0%91%E8%90%A5%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [媒体评婴幼儿哭闹请去车厢连接处](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E5%A9%B4%E5%B9%BC%E5%84%BF%E5%93%AD%E9%97%B9%E8%AF%B7%E5%8E%BB%E8%BD%A6%E5%8E%A2%E8%BF%9E%E6%8E%A5%E5%A4%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [警方通报游客为争抢拍照点打架](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E6%B8%B8%E5%AE%A2%E4%B8%BA%E4%BA%89%E6%8A%A2%E6%8B%8D%E7%85%A7%E7%82%B9%E6%89%93%E6%9E%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [外交部谈强化限制日本食品进口](https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E8%B0%88%E5%BC%BA%E5%8C%96%E9%99%90%E5%88%B6%E6%97%A5%E6%9C%AC%E9%A3%9F%E5%93%81%E8%BF%9B%E5%8F%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [俞敏洪称儿子实习每天工作18小时](https://www.baidu.com/s?wd=%E4%BF%9E%E6%95%8F%E6%B4%AA%E7%A7%B0%E5%84%BF%E5%AD%90%E5%AE%9E%E4%B9%A0%E6%AF%8F%E5%A4%A9%E5%B7%A5%E4%BD%9C18%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女孩蹲地玩耍遭suv撞倒碾压](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E8%B9%B2%E5%9C%B0%E7%8E%A9%E8%80%8D%E9%81%ADsuv%E6%92%9E%E5%80%92%E7%A2%BE%E5%8E%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [河北石家庄今年高温日数破纪录](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E7%9F%B3%E5%AE%B6%E5%BA%84%E4%BB%8A%E5%B9%B4%E9%AB%98%E6%B8%A9%E6%97%A5%E6%95%B0%E7%A0%B4%E7%BA%AA%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [俞敏洪称儿子实习每天工作18小时](https://www.baidu.com/s?wd=%E4%BF%9E%E6%95%8F%E6%B4%AA%E7%A7%B0%E5%84%BF%E5%AD%90%E5%AE%9E%E4%B9%A0%E6%AF%8F%E5%A4%A9%E5%B7%A5%E4%BD%9C18%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [游客用登山杖戳乐山大佛景区石壁](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E7%94%A8%E7%99%BB%E5%B1%B1%E6%9D%96%E6%88%B3%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B%E6%99%AF%E5%8C%BA%E7%9F%B3%E5%A3%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子火车抢座自称移民日本多年](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%81%AB%E8%BD%A6%E6%8A%A2%E5%BA%A7%E8%87%AA%E7%A7%B0%E7%A7%BB%E6%B0%91%E6%97%A5%E6%9C%AC%E5%A4%9A%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -34,7 +34,7 @@
 3. [中建八局回应高铁事件：高度重视](https://www.baidu.com/s?wd=%E4%B8%AD%E5%BB%BA%E5%85%AB%E5%B1%80%E5%9B%9E%E5%BA%94%E9%AB%98%E9%93%81%E4%BA%8B%E4%BB%B6%EF%BC%9A%E9%AB%98%E5%BA%A6%E9%87%8D%E8%A7%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [进一步激发民营经济发展活力](https://www.baidu.com/s?wd=%E8%BF%9B%E4%B8%80%E6%AD%A5%E6%BF%80%E5%8F%91%E6%B0%91%E8%90%A5%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [媒体评婴幼儿哭闹请去车厢连接处](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E5%A9%B4%E5%B9%BC%E5%84%BF%E5%93%AD%E9%97%B9%E8%AF%B7%E5%8E%BB%E8%BD%A6%E5%8E%A2%E8%BF%9E%E6%8E%A5%E5%A4%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [警方通报游客为争抢拍照点打架](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E6%B8%B8%E5%AE%A2%E4%B8%BA%E4%BA%89%E6%8A%A2%E6%8B%8D%E7%85%A7%E7%82%B9%E6%89%93%E6%9E%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [外交部谈强化限制日本食品进口](https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E8%B0%88%E5%BC%BA%E5%8C%96%E9%99%90%E5%88%B6%E6%97%A5%E6%9C%AC%E9%A3%9F%E5%93%81%E8%BF%9B%E5%8F%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [俞敏洪称儿子实习每天工作18小时](https://www.baidu.com/s?wd=%E4%BF%9E%E6%95%8F%E6%B4%AA%E7%A7%B0%E5%84%BF%E5%AD%90%E5%AE%9E%E4%B9%A0%E6%AF%8F%E5%A4%A9%E5%B7%A5%E4%BD%9C18%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女孩蹲地玩耍遭suv撞倒碾压](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E8%B9%B2%E5%9C%B0%E7%8E%A9%E8%80%8D%E9%81%ADsuv%E6%92%9E%E5%80%92%E7%A2%BE%E5%8E%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [河北石家庄今年高温日数破纪录](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E7%9F%B3%E5%AE%B6%E5%BA%84%E4%BB%8A%E5%B9%B4%E9%AB%98%E6%B8%A9%E6%97%A5%E6%95%B0%E7%A0%B4%E7%BA%AA%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [俞敏洪称儿子实习每天工作18小时](https://www.baidu.com/s?wd=%E4%BF%9E%E6%95%8F%E6%B4%AA%E7%A7%B0%E5%84%BF%E5%AD%90%E5%AE%9E%E4%B9%A0%E6%AF%8F%E5%A4%A9%E5%B7%A5%E4%BD%9C18%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [游客用登山杖戳乐山大佛景区石壁](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E7%94%A8%E7%99%BB%E5%B1%B1%E6%9D%96%E6%88%B3%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B%E6%99%AF%E5%8C%BA%E7%9F%B3%E5%A3%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子火车抢座自称移民日本多年](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%81%AB%E8%BD%A6%E6%8A%A2%E5%BA%A7%E8%87%AA%E7%A7%B0%E7%A7%BB%E6%B0%91%E6%97%A5%E6%9C%AC%E5%A4%9A%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
