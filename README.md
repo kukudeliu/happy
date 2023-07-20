@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-20 09:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-20 09:19:01</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [营造文明网络生态](https://www.baidu.com/s?wd=%E8%90%A5%E9%80%A0%E6%96%87%E6%98%8E%E7%BD%91%E7%BB%9C%E7%94%9F%E6%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女主播大面积裸露推荐隆胸产品被罚](https://www.baidu.com/s?wd=%E5%A5%B3%E4%B8%BB%E6%92%AD%E5%A4%A7%E9%9D%A2%E7%A7%AF%E8%A3%B8%E9%9C%B2%E6%8E%A8%E8%8D%90%E9%9A%86%E8%83%B8%E4%BA%A7%E5%93%81%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [美总统候选人称美正收集中国人DNA](https://www.baidu.com/s?wd=%E7%BE%8E%E6%80%BB%E7%BB%9F%E5%80%99%E9%80%89%E4%BA%BA%E7%A7%B0%E7%BE%8E%E6%AD%A3%E6%94%B6%E9%9B%86%E4%B8%AD%E5%9B%BD%E4%BA%BADNA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [广西景区3竹筏工殴打游客被拘15日](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E6%99%AF%E5%8C%BA3%E7%AB%B9%E7%AD%8F%E5%B7%A5%E6%AE%B4%E6%89%93%E6%B8%B8%E5%AE%A2%E8%A2%AB%E6%8B%9815%E6%97%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [老人送医生钻石被拒后又送翡翠戒指](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E9%80%81%E5%8C%BB%E7%94%9F%E9%92%BB%E7%9F%B3%E8%A2%AB%E6%8B%92%E5%90%8E%E5%8F%88%E9%80%81%E7%BF%A1%E7%BF%A0%E6%88%92%E6%8C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女子火车抢座自称移民日本多年](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%81%AB%E8%BD%A6%E6%8A%A2%E5%BA%A7%E8%87%AA%E7%A7%B0%E7%A7%BB%E6%B0%91%E6%97%A5%E6%9C%AC%E5%A4%9A%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [30秒延时看南京暴雨降临瞬间](https://www.baidu.com/s?wd=30%E7%A7%92%E5%BB%B6%E6%97%B6%E7%9C%8B%E5%8D%97%E4%BA%AC%E6%9A%B4%E9%9B%A8%E9%99%8D%E4%B8%B4%E7%9E%AC%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [营造文明网络生态](https://www.baidu.com/s?wd=%E8%90%A5%E9%80%A0%E6%96%87%E6%98%8E%E7%BD%91%E7%BB%9C%E7%94%9F%E6%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女主播大面积裸露推荐隆胸产品被罚](https://www.baidu.com/s?wd=%E5%A5%B3%E4%B8%BB%E6%92%AD%E5%A4%A7%E9%9D%A2%E7%A7%AF%E8%A3%B8%E9%9C%B2%E6%8E%A8%E8%8D%90%E9%9A%86%E8%83%B8%E4%BA%A7%E5%93%81%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [美总统候选人称美正收集中国人DNA](https://www.baidu.com/s?wd=%E7%BE%8E%E6%80%BB%E7%BB%9F%E5%80%99%E9%80%89%E4%BA%BA%E7%A7%B0%E7%BE%8E%E6%AD%A3%E6%94%B6%E9%9B%86%E4%B8%AD%E5%9B%BD%E4%BA%BADNA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [广西景区3竹筏工殴打游客被拘15日](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E6%99%AF%E5%8C%BA3%E7%AB%B9%E7%AD%8F%E5%B7%A5%E6%AE%B4%E6%89%93%E6%B8%B8%E5%AE%A2%E8%A2%AB%E6%8B%9815%E6%97%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [老人送医生钻石被拒后又送翡翠戒指](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E9%80%81%E5%8C%BB%E7%94%9F%E9%92%BB%E7%9F%B3%E8%A2%AB%E6%8B%92%E5%90%8E%E5%8F%88%E9%80%81%E7%BF%A1%E7%BF%A0%E6%88%92%E6%8C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女子火车抢座自称移民日本多年](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%81%AB%E8%BD%A6%E6%8A%A2%E5%BA%A7%E8%87%AA%E7%A7%B0%E7%A7%BB%E6%B0%91%E6%97%A5%E6%9C%AC%E5%A4%9A%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [30秒延时看南京暴雨降临瞬间](https://www.baidu.com/s?wd=30%E7%A7%92%E5%BB%B6%E6%97%B6%E7%9C%8B%E5%8D%97%E4%BA%AC%E6%9A%B4%E9%9B%A8%E9%99%8D%E4%B8%B4%E7%9E%AC%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
