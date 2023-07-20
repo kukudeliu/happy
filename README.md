@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-20 10:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-20 10:45:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [泰国评选十大最美中国女演员](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E8%AF%84%E9%80%89%E5%8D%81%E5%A4%A7%E6%9C%80%E7%BE%8E%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%BC%94%E5%91%98%23&t=31&band_rank=5&Refer=top)<br />
 6. [杨洋](https://s.weibo.com/weibo?q=%E6%9D%A8%E6%B4%8B&t=31&band_rank=6&Refer=top)<br />
 7. [潮州消防 灭火器不是玩具](https://s.weibo.com/weibo?q=%E6%BD%AE%E5%B7%9E%E6%B6%88%E9%98%B2%20%E7%81%AD%E7%81%AB%E5%99%A8%E4%B8%8D%E6%98%AF%E7%8E%A9%E5%85%B7&t=31&band_rank=7&Refer=top)<br />
-8. [原来整牙不一定能变美](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%95%B4%E7%89%99%E4%B8%8D%E4%B8%80%E5%AE%9A%E8%83%BD%E5%8F%98%E7%BE%8E%23&t=31&band_rank=8&Refer=top)<br />
-9. [男生收到北大录取通知书前还在割猪草](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E6%94%B6%E5%88%B0%E5%8C%97%E5%A4%A7%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E5%89%8D%E8%BF%98%E5%9C%A8%E5%89%B2%E7%8C%AA%E8%8D%89%23&t=31&band_rank=9&Refer=top)<br />
+8. [男生收到北大录取通知书前还在割猪草](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E6%94%B6%E5%88%B0%E5%8C%97%E5%A4%A7%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E5%89%8D%E8%BF%98%E5%9C%A8%E5%89%B2%E7%8C%AA%E8%8D%89%23&t=31&band_rank=8&Refer=top)<br />
+9. [原来整牙不一定能变美](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%95%B4%E7%89%99%E4%B8%8D%E4%B8%80%E5%AE%9A%E8%83%BD%E5%8F%98%E7%BE%8E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
