@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-20 13:53:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-20 13:54:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [女主播大面积裸露推荐隆胸产品被罚](https://www.baidu.com/s?wd=%E5%A5%B3%E4%B8%BB%E6%92%AD%E5%A4%A7%E9%9D%A2%E7%A7%AF%E8%A3%B8%E9%9C%B2%E6%8E%A8%E8%8D%90%E9%9A%86%E8%83%B8%E4%BA%A7%E5%93%81%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [直击大熊猫福宝3岁生日派对](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E5%A4%A7%E7%86%8A%E7%8C%AB%E7%A6%8F%E5%AE%9D3%E5%B2%81%E7%94%9F%E6%97%A5%E6%B4%BE%E5%AF%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子刚走下泰山被通知回山顶领身份证](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%88%9A%E8%B5%B0%E4%B8%8B%E6%B3%B0%E5%B1%B1%E8%A2%AB%E9%80%9A%E7%9F%A5%E5%9B%9E%E5%B1%B1%E9%A1%B6%E9%A2%86%E8%BA%AB%E4%BB%BD%E8%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [山东大学辟谣取消学伴制](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%A4%A7%E5%AD%A6%E8%BE%9F%E8%B0%A3%E5%8F%96%E6%B6%88%E5%AD%A6%E4%BC%B4%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中学老师抽打踢踹学生被辞退](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E8%80%81%E5%B8%88%E6%8A%BD%E6%89%93%E8%B8%A2%E8%B8%B9%E5%AD%A6%E7%94%9F%E8%A2%AB%E8%BE%9E%E9%80%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中学老师抽打踢踹学生被辞退](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E8%80%81%E5%B8%88%E6%8A%BD%E6%89%93%E8%B8%A2%E8%B8%B9%E5%AD%A6%E7%94%9F%E8%A2%AB%E8%BE%9E%E9%80%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [回流生争议：背后是期待教育公平](https://www.baidu.com/s?wd=%E5%9B%9E%E6%B5%81%E7%94%9F%E4%BA%89%E8%AE%AE%EF%BC%9A%E8%83%8C%E5%90%8E%E6%98%AF%E6%9C%9F%E5%BE%85%E6%95%99%E8%82%B2%E5%85%AC%E5%B9%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [女主播大面积裸露推荐隆胸产品被罚](https://www.baidu.com/s?wd=%E5%A5%B3%E4%B8%BB%E6%92%AD%E5%A4%A7%E9%9D%A2%E7%A7%AF%E8%A3%B8%E9%9C%B2%E6%8E%A8%E8%8D%90%E9%9A%86%E8%83%B8%E4%BA%A7%E5%93%81%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [直击大熊猫福宝3岁生日派对](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E5%A4%A7%E7%86%8A%E7%8C%AB%E7%A6%8F%E5%AE%9D3%E5%B2%81%E7%94%9F%E6%97%A5%E6%B4%BE%E5%AF%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子刚走下泰山被通知回山顶领身份证](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%88%9A%E8%B5%B0%E4%B8%8B%E6%B3%B0%E5%B1%B1%E8%A2%AB%E9%80%9A%E7%9F%A5%E5%9B%9E%E5%B1%B1%E9%A1%B6%E9%A2%86%E8%BA%AB%E4%BB%BD%E8%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [山东大学辟谣取消学伴制](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%A4%A7%E5%AD%A6%E8%BE%9F%E8%B0%A3%E5%8F%96%E6%B6%88%E5%AD%A6%E4%BC%B4%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中学老师抽打踢踹学生被辞退](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E8%80%81%E5%B8%88%E6%8A%BD%E6%89%93%E8%B8%A2%E8%B8%B9%E5%AD%A6%E7%94%9F%E8%A2%AB%E8%BE%9E%E9%80%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中学老师抽打踢踹学生被辞退](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E8%80%81%E5%B8%88%E6%8A%BD%E6%89%93%E8%B8%A2%E8%B8%B9%E5%AD%A6%E7%94%9F%E8%A2%AB%E8%BE%9E%E9%80%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [回流生争议：背后是期待教育公平](https://www.baidu.com/s?wd=%E5%9B%9E%E6%B5%81%E7%94%9F%E4%BA%89%E8%AE%AE%EF%BC%9A%E8%83%8C%E5%90%8E%E6%98%AF%E6%9C%9F%E5%BE%85%E6%95%99%E8%82%B2%E5%85%AC%E5%B9%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
