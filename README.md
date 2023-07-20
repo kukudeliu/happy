@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-21 07:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-21 07:04:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [王一博说自己是不会说话的人](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%AF%B4%E8%87%AA%E5%B7%B1%E6%98%AF%E4%B8%8D%E4%BC%9A%E8%AF%B4%E8%AF%9D%E7%9A%84%E4%BA%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [西安暴雨](https://s.weibo.com/weibo?q=%E8%A5%BF%E5%AE%89%E6%9A%B4%E9%9B%A8&t=31&band_rank=7&Refer=top)<br />
 8. [淄博海鲜交易市场统一使用智慧秤](https://s.weibo.com/weibo?q=%23%E6%B7%84%E5%8D%9A%E6%B5%B7%E9%B2%9C%E4%BA%A4%E6%98%93%E5%B8%82%E5%9C%BA%E7%BB%9F%E4%B8%80%E4%BD%BF%E7%94%A8%E6%99%BA%E6%85%A7%E7%A7%A4%23&t=31&band_rank=8&Refer=top)<br />
-9. [肖战玉骨遥绝美换装秀](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%8E%89%E9%AA%A8%E9%81%A5%E7%BB%9D%E7%BE%8E%E6%8D%A2%E8%A3%85%E7%A7%80%23&t=31&band_rank=9&Refer=top)<br />
+9. [中建八局回应山东莱荣高铁事件](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%BB%BA%E5%85%AB%E5%B1%80%E5%9B%9E%E5%BA%94%E5%B1%B1%E4%B8%9C%E8%8E%B1%E8%8D%A3%E9%AB%98%E9%93%81%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
