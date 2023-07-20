@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-20 12:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-20 12:07:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [杨洋](https://s.weibo.com/weibo?q=%E6%9D%A8%E6%B4%8B&t=31&band_rank=6&Refer=top)<br />
 7. [宋焰帮许沁搬家把蚝油也拿走了](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E7%84%B0%E5%B8%AE%E8%AE%B8%E6%B2%81%E6%90%AC%E5%AE%B6%E6%8A%8A%E8%9A%9D%E6%B2%B9%E4%B9%9F%E6%8B%BF%E8%B5%B0%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [男子上8天班辞职要公司赔偿100万](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%8A8%E5%A4%A9%E7%8F%AD%E8%BE%9E%E8%81%8C%E8%A6%81%E5%85%AC%E5%8F%B8%E8%B5%94%E5%81%BF100%E4%B8%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [追星人的手机壳越来越离谱了](https://s.weibo.com/weibo?q=%23%E8%BF%BD%E6%98%9F%E4%BA%BA%E7%9A%84%E6%89%8B%E6%9C%BA%E5%A3%B3%E8%B6%8A%E6%9D%A5%E8%B6%8A%E7%A6%BB%E8%B0%B1%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [在华山失联男子确认遇难](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E5%8D%8E%E5%B1%B1%E5%A4%B1%E8%81%94%E7%94%B7%E5%AD%90%E7%A1%AE%E8%AE%A4%E9%81%87%E9%9A%BE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
