@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-20 15:23:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-20 15:24:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [孙杨张豆豆官宣结婚](https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%9D%A8%E5%BC%A0%E8%B1%86%E8%B1%86%E5%AE%98%E5%AE%A3%E7%BB%93%E5%A9%9A%23&t=31&band_rank=6&Refer=top)<br />
 7. [钟欣潼cos黎苏苏](https://s.weibo.com/weibo?q=%23%E9%92%9F%E6%AC%A3%E6%BD%BCcos%E9%BB%8E%E8%8B%8F%E8%8B%8F%23&t=31&band_rank=7&Refer=top)<br />
 8. [刘晓庆71岁演少女](https://s.weibo.com/weibo?q=%23%E5%88%98%E6%99%93%E5%BA%8671%E5%B2%81%E6%BC%94%E5%B0%91%E5%A5%B3%23&t=31&band_rank=8&Refer=top)<br />
-9. [清华录取通知书寄到全家乐开花男生一脸淡定](https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8D%8E%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E5%AF%84%E5%88%B0%E5%85%A8%E5%AE%B6%E4%B9%90%E5%BC%80%E8%8A%B1%E7%94%B7%E7%94%9F%E4%B8%80%E8%84%B8%E6%B7%A1%E5%AE%9A%23&t=31&band_rank=9&Refer=top)<br />
+9. [A股](https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,8 +24,8 @@
 5. [杨洋回应演技质疑：问心无愧](https://www.baidu.com/s?wd=%E6%9D%A8%E6%B4%8B%E5%9B%9E%E5%BA%94%E6%BC%94%E6%8A%80%E8%B4%A8%E7%96%91%EF%BC%9A%E9%97%AE%E5%BF%83%E6%97%A0%E6%84%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [顾客面包店充值200元发现被备注穷](https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E9%9D%A2%E5%8C%85%E5%BA%97%E5%85%85%E5%80%BC200%E5%85%83%E5%8F%91%E7%8E%B0%E8%A2%AB%E5%A4%87%E6%B3%A8%E7%A9%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [电视剧男女主玩灭火器 消防提醒](https://www.baidu.com/s?wd=%E7%94%B5%E8%A7%86%E5%89%A7%E7%94%B7%E5%A5%B3%E4%B8%BB%E7%8E%A9%E7%81%AD%E7%81%AB%E5%99%A8+%E6%B6%88%E9%98%B2%E6%8F%90%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [科学家首次目睹金属自我修复过程](https://www.baidu.com/s?wd=%E7%A7%91%E5%AD%A6%E5%AE%B6%E9%A6%96%E6%AC%A1%E7%9B%AE%E7%9D%B9%E9%87%91%E5%B1%9E%E8%87%AA%E6%88%91%E4%BF%AE%E5%A4%8D%E8%BF%87%E7%A8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [孙杨张豆豆婚纱大片](https://www.baidu.com/s?wd=%E5%AD%99%E6%9D%A8%E5%BC%A0%E8%B1%86%E8%B1%86%E5%A9%9A%E7%BA%B1%E5%A4%A7%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子上8天班辞职要公司赔偿100万](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%8A8%E5%A4%A9%E7%8F%AD%E8%BE%9E%E8%81%8C%E8%A6%81%E5%85%AC%E5%8F%B8%E8%B5%94%E5%81%BF100%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [科学家首次目睹金属自我修复过程](https://www.baidu.com/s?wd=%E7%A7%91%E5%AD%A6%E5%AE%B6%E9%A6%96%E6%AC%A1%E7%9B%AE%E7%9D%B9%E9%87%91%E5%B1%9E%E8%87%AA%E6%88%91%E4%BF%AE%E5%A4%8D%E8%BF%87%E7%A8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [杨洋回应演技质疑：问心无愧](https://www.baidu.com/s?wd=%E6%9D%A8%E6%B4%8B%E5%9B%9E%E5%BA%94%E6%BC%94%E6%8A%80%E8%B4%A8%E7%96%91%EF%BC%9A%E9%97%AE%E5%BF%83%E6%97%A0%E6%84%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [顾客面包店充值200元发现被备注穷](https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E9%9D%A2%E5%8C%85%E5%BA%97%E5%85%85%E5%80%BC200%E5%85%83%E5%8F%91%E7%8E%B0%E8%A2%AB%E5%A4%87%E6%B3%A8%E7%A9%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [电视剧男女主玩灭火器 消防提醒](https://www.baidu.com/s?wd=%E7%94%B5%E8%A7%86%E5%89%A7%E7%94%B7%E5%A5%B3%E4%B8%BB%E7%8E%A9%E7%81%AD%E7%81%AB%E5%99%A8+%E6%B6%88%E9%98%B2%E6%8F%90%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [科学家首次目睹金属自我修复过程](https://www.baidu.com/s?wd=%E7%A7%91%E5%AD%A6%E5%AE%B6%E9%A6%96%E6%AC%A1%E7%9B%AE%E7%9D%B9%E9%87%91%E5%B1%9E%E8%87%AA%E6%88%91%E4%BF%AE%E5%A4%8D%E8%BF%87%E7%A8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [孙杨张豆豆婚纱大片](https://www.baidu.com/s?wd=%E5%AD%99%E6%9D%A8%E5%BC%A0%E8%B1%86%E8%B1%86%E5%A9%9A%E7%BA%B1%E5%A4%A7%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子上8天班辞职要公司赔偿100万](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%8A8%E5%A4%A9%E7%8F%AD%E8%BE%9E%E8%81%8C%E8%A6%81%E5%85%AC%E5%8F%B8%E8%B5%94%E5%81%BF100%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [科学家首次目睹金属自我修复过程](https://www.baidu.com/s?wd=%E7%A7%91%E5%AD%A6%E5%AE%B6%E9%A6%96%E6%AC%A1%E7%9B%AE%E7%9D%B9%E9%87%91%E5%B1%9E%E8%87%AA%E6%88%91%E4%BF%AE%E5%A4%8D%E8%BF%87%E7%A8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
