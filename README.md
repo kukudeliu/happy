@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-20 20:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-20 20:22:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [中建八局被实名举报](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%BB%BA%E5%85%AB%E5%B1%80%E8%A2%AB%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%23&t=31&band_rank=6&Refer=top)<br />
 7. [宋焰 服从性测试](https://s.weibo.com/weibo?q=%E5%AE%8B%E7%84%B0%20%E6%9C%8D%E4%BB%8E%E6%80%A7%E6%B5%8B%E8%AF%95&t=31&band_rank=7&Refer=top)<br />
 8. [活死人网络村晚](https://s.weibo.com/weibo?q=%E6%B4%BB%E6%AD%BB%E4%BA%BA%E7%BD%91%E7%BB%9C%E6%9D%91%E6%99%9A&t=31&band_rank=8&Refer=top)<br />
-9. [缉毒警退休警嫂朋友圈破防了](https://s.weibo.com/weibo?q=%23%E7%BC%89%E6%AF%92%E8%AD%A6%E9%80%80%E4%BC%91%E8%AD%A6%E5%AB%82%E6%9C%8B%E5%8F%8B%E5%9C%88%E7%A0%B4%E9%98%B2%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [烧伤女孩拍婚纱照店老板主动充当新郎](https://s.weibo.com/weibo?q=%23%E7%83%A7%E4%BC%A4%E5%A5%B3%E5%AD%A9%E6%8B%8D%E5%A9%9A%E7%BA%B1%E7%85%A7%E5%BA%97%E8%80%81%E6%9D%BF%E4%B8%BB%E5%8A%A8%E5%85%85%E5%BD%93%E6%96%B0%E9%83%8E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
