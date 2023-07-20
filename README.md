@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-21 00:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-21 00:39:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [媒体评婴幼儿哭闹请去车厢连接处](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E5%A9%B4%E5%B9%BC%E5%84%BF%E5%93%AD%E9%97%B9%E8%AF%B7%E5%8E%BB%E8%BD%A6%E5%8E%A2%E8%BF%9E%E6%8E%A5%E5%A4%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [地球连续35年收到神秘规律性信号](https://www.baidu.com/s?wd=%E5%9C%B0%E7%90%83%E8%BF%9E%E7%BB%AD35%E5%B9%B4%E6%94%B6%E5%88%B0%E7%A5%9E%E7%A7%98%E8%A7%84%E5%BE%8B%E6%80%A7%E4%BF%A1%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [外交部回应俄退出黑海粮食运输协议](https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%BF%84%E9%80%80%E5%87%BA%E9%BB%91%E6%B5%B7%E7%B2%AE%E9%A3%9F%E8%BF%90%E8%BE%93%E5%8D%8F%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [河北石家庄今年高温日数破纪录](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E7%9F%B3%E5%AE%B6%E5%BA%84%E4%BB%8A%E5%B9%B4%E9%AB%98%E6%B8%A9%E6%97%A5%E6%95%B0%E7%A0%B4%E7%BA%AA%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [媒体评补习机构包装中考“回流生”](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E8%A1%A5%E4%B9%A0%E6%9C%BA%E6%9E%84%E5%8C%85%E8%A3%85%E4%B8%AD%E8%80%83%E2%80%9C%E5%9B%9E%E6%B5%81%E7%94%9F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [游客用登山杖戳乐山大佛景区石壁](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E7%94%A8%E7%99%BB%E5%B1%B1%E6%9D%96%E6%88%B3%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B%E6%99%AF%E5%8C%BA%E7%9F%B3%E5%A3%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [网友偶遇张颂文考科目二](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%81%B6%E9%81%87%E5%BC%A0%E9%A2%82%E6%96%87%E8%80%83%E7%A7%91%E7%9B%AE%E4%BA%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [媒体评婴幼儿哭闹请去车厢连接处](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E5%A9%B4%E5%B9%BC%E5%84%BF%E5%93%AD%E9%97%B9%E8%AF%B7%E5%8E%BB%E8%BD%A6%E5%8E%A2%E8%BF%9E%E6%8E%A5%E5%A4%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [地球连续35年收到神秘规律性信号](https://www.baidu.com/s?wd=%E5%9C%B0%E7%90%83%E8%BF%9E%E7%BB%AD35%E5%B9%B4%E6%94%B6%E5%88%B0%E7%A5%9E%E7%A7%98%E8%A7%84%E5%BE%8B%E6%80%A7%E4%BF%A1%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [外交部回应俄退出黑海粮食运输协议](https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%BF%84%E9%80%80%E5%87%BA%E9%BB%91%E6%B5%B7%E7%B2%AE%E9%A3%9F%E8%BF%90%E8%BE%93%E5%8D%8F%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [河北石家庄今年高温日数破纪录](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E7%9F%B3%E5%AE%B6%E5%BA%84%E4%BB%8A%E5%B9%B4%E9%AB%98%E6%B8%A9%E6%97%A5%E6%95%B0%E7%A0%B4%E7%BA%AA%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [媒体评补习机构包装中考“回流生”](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E8%A1%A5%E4%B9%A0%E6%9C%BA%E6%9E%84%E5%8C%85%E8%A3%85%E4%B8%AD%E8%80%83%E2%80%9C%E5%9B%9E%E6%B5%81%E7%94%9F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [游客用登山杖戳乐山大佛景区石壁](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E7%94%A8%E7%99%BB%E5%B1%B1%E6%9D%96%E6%88%B3%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B%E6%99%AF%E5%8C%BA%E7%9F%B3%E5%A3%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [网友偶遇张颂文考科目二](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%81%B6%E9%81%87%E5%BC%A0%E9%A2%82%E6%96%87%E8%80%83%E7%A7%91%E7%9B%AE%E4%BA%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
