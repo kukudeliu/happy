@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-20 08:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-20 08:29:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [福宝三岁啦](https://s.weibo.com/weibo?q=%E7%A6%8F%E5%AE%9D%E4%B8%89%E5%B2%81%E5%95%A6&t=31&band_rank=5&Refer=top)<br />
 6. [梁朝伟](https://s.weibo.com/weibo?q=%E6%A2%81%E6%9C%9D%E4%BC%9F&t=31&band_rank=6&Refer=top)<br />
 7. [女子欲轻生邻居穿睡裙跑来劝解](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%AC%B2%E8%BD%BB%E7%94%9F%E9%82%BB%E5%B1%85%E7%A9%BF%E7%9D%A1%E8%A3%99%E8%B7%91%E6%9D%A5%E5%8A%9D%E8%A7%A3%23&t=31&band_rank=7&Refer=top)<br />
-8. [美总统候选人称美正收集中国人DNA](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%80%BB%E7%BB%9F%E5%80%99%E9%80%89%E4%BA%BA%E7%A7%B0%E7%BE%8E%E6%AD%A3%E6%94%B6%E9%9B%86%E4%B8%AD%E5%9B%BD%E4%BA%BADNA%23&t=31&band_rank=8&Refer=top)<br />
-9. [罗森](https://s.weibo.com/weibo?q=%E7%BD%97%E6%A3%AE&t=31&band_rank=9&Refer=top)<br />
+8. [罗森](https://s.weibo.com/weibo?q=%E7%BD%97%E6%A3%AE&t=31&band_rank=8&Refer=top)<br />
+9. [美总统候选人称美正收集中国人DNA](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%80%BB%E7%BB%9F%E5%80%99%E9%80%89%E4%BA%BA%E7%A7%B0%E7%BE%8E%E6%AD%A3%E6%94%B6%E9%9B%86%E4%B8%AD%E5%9B%BD%E4%BA%BADNA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -25,7 +25,7 @@
 6. [凉山小伙考上北大 录取前还在干农活](https://www.baidu.com/s?wd=%E5%87%89%E5%B1%B1%E5%B0%8F%E4%BC%99%E8%80%83%E4%B8%8A%E5%8C%97%E5%A4%A7+%E5%BD%95%E5%8F%96%E5%89%8D%E8%BF%98%E5%9C%A8%E5%B9%B2%E5%86%9C%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [车辆坠江致5死 家属质疑路段无护栏](https://www.baidu.com/s?wd=%E8%BD%A6%E8%BE%86%E5%9D%A0%E6%B1%9F%E8%87%B45%E6%AD%BB+%E5%AE%B6%E5%B1%9E%E8%B4%A8%E7%96%91%E8%B7%AF%E6%AE%B5%E6%97%A0%E6%8A%A4%E6%A0%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [教育局通报教师戴某某体罚学生](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E5%B1%80%E9%80%9A%E6%8A%A5%E6%95%99%E5%B8%88%E6%88%B4%E6%9F%90%E6%9F%90%E4%BD%93%E7%BD%9A%E5%AD%A6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [杨洋这么睡不累吗](https://www.baidu.com/s?wd=%E6%9D%A8%E6%B4%8B%E8%BF%99%E4%B9%88%E7%9D%A1%E4%B8%8D%E7%B4%AF%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [是否打算在台湾海峡军演?外交部回应](https://www.baidu.com/s?wd=%E6%98%AF%E5%90%A6%E6%89%93%E7%AE%97%E5%9C%A8%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1%E5%86%9B%E6%BC%94%3F%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [凉山小伙考上北大 录取前还在干农活](https://www.baidu.com/s?wd=%E5%87%89%E5%B1%B1%E5%B0%8F%E4%BC%99%E8%80%83%E4%B8%8A%E5%8C%97%E5%A4%A7+%E5%BD%95%E5%8F%96%E5%89%8D%E8%BF%98%E5%9C%A8%E5%B9%B2%E5%86%9C%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [车辆坠江致5死 家属质疑路段无护栏](https://www.baidu.com/s?wd=%E8%BD%A6%E8%BE%86%E5%9D%A0%E6%B1%9F%E8%87%B45%E6%AD%BB+%E5%AE%B6%E5%B1%9E%E8%B4%A8%E7%96%91%E8%B7%AF%E6%AE%B5%E6%97%A0%E6%8A%A4%E6%A0%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [教育局通报教师戴某某体罚学生](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E5%B1%80%E9%80%9A%E6%8A%A5%E6%95%99%E5%B8%88%E6%88%B4%E6%9F%90%E6%9F%90%E4%BD%93%E7%BD%9A%E5%AD%A6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [杨洋这么睡不累吗](https://www.baidu.com/s?wd=%E6%9D%A8%E6%B4%8B%E8%BF%99%E4%B9%88%E7%9D%A1%E4%B8%8D%E7%B4%AF%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [是否打算在台湾海峡军演?外交部回应](https://www.baidu.com/s?wd=%E6%98%AF%E5%90%A6%E6%89%93%E7%AE%97%E5%9C%A8%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1%E5%86%9B%E6%BC%94%3F%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
