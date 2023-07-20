@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-21 05:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-21 05:07:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [孟宴臣 你谈恋爱谈得脑子里全是泡泡吗](https://s.weibo.com/weibo?q=%E5%AD%9F%E5%AE%B4%E8%87%A3%20%E4%BD%A0%E8%B0%88%E6%81%8B%E7%88%B1%E8%B0%88%E5%BE%97%E8%84%91%E5%AD%90%E9%87%8C%E5%85%A8%E6%98%AF%E6%B3%A1%E6%B3%A1%E5%90%97&t=31&band_rank=6&Refer=top)<br />
 7. [王一博说自己是不会说话的人](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%AF%B4%E8%87%AA%E5%B7%B1%E6%98%AF%E4%B8%8D%E4%BC%9A%E8%AF%B4%E8%AF%9D%E7%9A%84%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [西安暴雨](https://s.weibo.com/weibo?q=%E8%A5%BF%E5%AE%89%E6%9A%B4%E9%9B%A8&t=31&band_rank=8&Refer=top)<br />
-9. [陆沉](https://s.weibo.com/weibo?q=%E9%99%86%E6%B2%89&t=31&band_rank=9&Refer=top)<br />
+9. [淄博海鲜交易市场统一使用智慧秤](https://s.weibo.com/weibo?q=%23%E6%B7%84%E5%8D%9A%E6%B5%B7%E9%B2%9C%E4%BA%A4%E6%98%93%E5%B8%82%E5%9C%BA%E7%BB%9F%E4%B8%80%E4%BD%BF%E7%94%A8%E6%99%BA%E6%85%A7%E7%A7%A4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
