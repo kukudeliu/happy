@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-21 04:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-21 04:15:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [媒体评婴幼儿哭闹请去车厢连接处](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E5%A9%B4%E5%B9%BC%E5%84%BF%E5%93%AD%E9%97%B9%E8%AF%B7%E5%8E%BB%E8%BD%A6%E5%8E%A2%E8%BF%9E%E6%8E%A5%E5%A4%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [河北石家庄今年高温日数破纪录](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E7%9F%B3%E5%AE%B6%E5%BA%84%E4%BB%8A%E5%B9%B4%E9%AB%98%E6%B8%A9%E6%97%A5%E6%95%B0%E7%A0%B4%E7%BA%AA%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [俞敏洪称儿子实习每天工作18小时](https://www.baidu.com/s?wd=%E4%BF%9E%E6%95%8F%E6%B4%AA%E7%A7%B0%E5%84%BF%E5%AD%90%E5%AE%9E%E4%B9%A0%E6%AF%8F%E5%A4%A9%E5%B7%A5%E4%BD%9C18%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [游客用登山杖戳乐山大佛景区石壁](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E7%94%A8%E7%99%BB%E5%B1%B1%E6%9D%96%E6%88%B3%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B%E6%99%AF%E5%8C%BA%E7%9F%B3%E5%A3%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子火车抢座自称移民日本多年](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%81%AB%E8%BD%A6%E6%8A%A2%E5%BA%A7%E8%87%AA%E7%A7%B0%E7%A7%BB%E6%B0%91%E6%97%A5%E6%9C%AC%E5%A4%9A%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子刚走下泰山被通知回山顶领身份证](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%88%9A%E8%B5%B0%E4%B8%8B%E6%B3%B0%E5%B1%B1%E8%A2%AB%E9%80%9A%E7%9F%A5%E5%9B%9E%E5%B1%B1%E9%A1%B6%E9%A2%86%E8%BA%AB%E4%BB%BD%E8%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [游客用登山杖戳乐山大佛景区石壁](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E7%94%A8%E7%99%BB%E5%B1%B1%E6%9D%96%E6%88%B3%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B%E6%99%AF%E5%8C%BA%E7%9F%B3%E5%A3%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [媒体评婴幼儿哭闹请去车厢连接处](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E5%A9%B4%E5%B9%BC%E5%84%BF%E5%93%AD%E9%97%B9%E8%AF%B7%E5%8E%BB%E8%BD%A6%E5%8E%A2%E8%BF%9E%E6%8E%A5%E5%A4%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [河北石家庄今年高温日数破纪录](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E7%9F%B3%E5%AE%B6%E5%BA%84%E4%BB%8A%E5%B9%B4%E9%AB%98%E6%B8%A9%E6%97%A5%E6%95%B0%E7%A0%B4%E7%BA%AA%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [俞敏洪称儿子实习每天工作18小时](https://www.baidu.com/s?wd=%E4%BF%9E%E6%95%8F%E6%B4%AA%E7%A7%B0%E5%84%BF%E5%AD%90%E5%AE%9E%E4%B9%A0%E6%AF%8F%E5%A4%A9%E5%B7%A5%E4%BD%9C18%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [游客用登山杖戳乐山大佛景区石壁](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E7%94%A8%E7%99%BB%E5%B1%B1%E6%9D%96%E6%88%B3%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B%E6%99%AF%E5%8C%BA%E7%9F%B3%E5%A3%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子火车抢座自称移民日本多年](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%81%AB%E8%BD%A6%E6%8A%A2%E5%BA%A7%E8%87%AA%E7%A7%B0%E7%A7%BB%E6%B0%91%E6%97%A5%E6%9C%AC%E5%A4%9A%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子刚走下泰山被通知回山顶领身份证](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%88%9A%E8%B5%B0%E4%B8%8B%E6%B3%B0%E5%B1%B1%E8%A2%AB%E9%80%9A%E7%9F%A5%E5%9B%9E%E5%B1%B1%E9%A1%B6%E9%A2%86%E8%BA%AB%E4%BB%BD%E8%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [游客用登山杖戳乐山大佛景区石壁](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E7%94%A8%E7%99%BB%E5%B1%B1%E6%9D%96%E6%88%B3%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B%E6%99%AF%E5%8C%BA%E7%9F%B3%E5%A3%81&sa=fyb_news&rsv_dl=fyb_news)<br />
