@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-20 14:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-20 14:53:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [顾客面包店充值200元发现被备注穷](https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E9%9D%A2%E5%8C%85%E5%BA%97%E5%85%85%E5%80%BC200%E5%85%83%E5%8F%91%E7%8E%B0%E8%A2%AB%E5%A4%87%E6%B3%A8%E7%A9%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [电视剧男女主玩灭火器 消防提醒](https://www.baidu.com/s?wd=%E7%94%B5%E8%A7%86%E5%89%A7%E7%94%B7%E5%A5%B3%E4%B8%BB%E7%8E%A9%E7%81%AD%E7%81%AB%E5%99%A8+%E6%B6%88%E9%98%B2%E6%8F%90%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [孙杨张豆豆婚纱大片](https://www.baidu.com/s?wd=%E5%AD%99%E6%9D%A8%E5%BC%A0%E8%B1%86%E8%B1%86%E5%A9%9A%E7%BA%B1%E5%A4%A7%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [马斯克：特斯拉或将继续降价](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E7%89%B9%E6%96%AF%E6%8B%89%E6%88%96%E5%B0%86%E7%BB%A7%E7%BB%AD%E9%99%8D%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [山东大学辟谣取消学伴制](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%A4%A7%E5%AD%A6%E8%BE%9F%E8%B0%A3%E5%8F%96%E6%B6%88%E5%AD%A6%E4%BC%B4%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [顾客面包店充值200元发现被备注穷](https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E9%9D%A2%E5%8C%85%E5%BA%97%E5%85%85%E5%80%BC200%E5%85%83%E5%8F%91%E7%8E%B0%E8%A2%AB%E5%A4%87%E6%B3%A8%E7%A9%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [电视剧男女主玩灭火器 消防提醒](https://www.baidu.com/s?wd=%E7%94%B5%E8%A7%86%E5%89%A7%E7%94%B7%E5%A5%B3%E4%B8%BB%E7%8E%A9%E7%81%AD%E7%81%AB%E5%99%A8+%E6%B6%88%E9%98%B2%E6%8F%90%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [孙杨张豆豆婚纱大片](https://www.baidu.com/s?wd=%E5%AD%99%E6%9D%A8%E5%BC%A0%E8%B1%86%E8%B1%86%E5%A9%9A%E7%BA%B1%E5%A4%A7%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [马斯克：特斯拉或将继续降价](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E7%89%B9%E6%96%AF%E6%8B%89%E6%88%96%E5%B0%86%E7%BB%A7%E7%BB%AD%E9%99%8D%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [山东大学辟谣取消学伴制](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%A4%A7%E5%AD%A6%E8%BE%9F%E8%B0%A3%E5%8F%96%E6%B6%88%E5%AD%A6%E4%BC%B4%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
