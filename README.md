@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-21 01:23:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-21 01:24:02</h4></div>
 
 > 微博  
 
@@ -23,9 +23,9 @@
 4. [进一步激发民营经济发展活力](https://www.baidu.com/s?wd=%E8%BF%9B%E4%B8%80%E6%AD%A5%E6%BF%80%E5%8F%91%E6%B0%91%E8%90%A5%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [媒体评婴幼儿哭闹请去车厢连接处](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E5%A9%B4%E5%B9%BC%E5%84%BF%E5%93%AD%E9%97%B9%E8%AF%B7%E5%8E%BB%E8%BD%A6%E5%8E%A2%E8%BF%9E%E6%8E%A5%E5%A4%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [地球连续35年收到神秘规律性信号](https://www.baidu.com/s?wd=%E5%9C%B0%E7%90%83%E8%BF%9E%E7%BB%AD35%E5%B9%B4%E6%94%B6%E5%88%B0%E7%A5%9E%E7%A7%98%E8%A7%84%E5%BE%8B%E6%80%A7%E4%BF%A1%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [刘晓庆演少女 父亲扮演者比其小18岁](https://www.baidu.com/s?wd=%E5%88%98%E6%99%93%E5%BA%86%E6%BC%94%E5%B0%91%E5%A5%B3+%E7%88%B6%E4%BA%B2%E6%89%AE%E6%BC%94%E8%80%85%E6%AF%94%E5%85%B6%E5%B0%8F18%E5%B2%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [哪些省份结婚只能休3天？](https://www.baidu.com/s?wd=%E5%93%AA%E4%BA%9B%E7%9C%81%E4%BB%BD%E7%BB%93%E5%A9%9A%E5%8F%AA%E8%83%BD%E4%BC%913%E5%A4%A9%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [电视剧制片人为灭火器争议道歉](https://www.baidu.com/s?wd=%E7%94%B5%E8%A7%86%E5%89%A7%E5%88%B6%E7%89%87%E4%BA%BA%E4%B8%BA%E7%81%AD%E7%81%AB%E5%99%A8%E4%BA%89%E8%AE%AE%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [哪些省份结婚只能休3天？](https://www.baidu.com/s?wd=%E5%93%AA%E4%BA%9B%E7%9C%81%E4%BB%BD%E7%BB%93%E5%A9%9A%E5%8F%AA%E8%83%BD%E4%BC%913%E5%A4%A9%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [王用生落马 8年前曾被中央纪委通报](https://www.baidu.com/s?wd=%E7%8E%8B%E7%94%A8%E7%94%9F%E8%90%BD%E9%A9%AC+8%E5%B9%B4%E5%89%8D%E6%9B%BE%E8%A2%AB%E4%B8%AD%E5%A4%AE%E7%BA%AA%E5%A7%94%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [青年入伍后拒服兵役受5项处罚](https://www.baidu.com/s?wd=%E9%9D%92%E5%B9%B4%E5%85%A5%E4%BC%8D%E5%90%8E%E6%8B%92%E6%9C%8D%E5%85%B5%E5%BD%B9%E5%8F%975%E9%A1%B9%E5%A4%84%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -35,6 +35,6 @@
 4. [进一步激发民营经济发展活力](https://www.baidu.com/s?wd=%E8%BF%9B%E4%B8%80%E6%AD%A5%E6%BF%80%E5%8F%91%E6%B0%91%E8%90%A5%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [媒体评婴幼儿哭闹请去车厢连接处](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E5%A9%B4%E5%B9%BC%E5%84%BF%E5%93%AD%E9%97%B9%E8%AF%B7%E5%8E%BB%E8%BD%A6%E5%8E%A2%E8%BF%9E%E6%8E%A5%E5%A4%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [地球连续35年收到神秘规律性信号](https://www.baidu.com/s?wd=%E5%9C%B0%E7%90%83%E8%BF%9E%E7%BB%AD35%E5%B9%B4%E6%94%B6%E5%88%B0%E7%A5%9E%E7%A7%98%E8%A7%84%E5%BE%8B%E6%80%A7%E4%BF%A1%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [刘晓庆演少女 父亲扮演者比其小18岁](https://www.baidu.com/s?wd=%E5%88%98%E6%99%93%E5%BA%86%E6%BC%94%E5%B0%91%E5%A5%B3+%E7%88%B6%E4%BA%B2%E6%89%AE%E6%BC%94%E8%80%85%E6%AF%94%E5%85%B6%E5%B0%8F18%E5%B2%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [哪些省份结婚只能休3天？](https://www.baidu.com/s?wd=%E5%93%AA%E4%BA%9B%E7%9C%81%E4%BB%BD%E7%BB%93%E5%A9%9A%E5%8F%AA%E8%83%BD%E4%BC%913%E5%A4%A9%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [电视剧制片人为灭火器争议道歉](https://www.baidu.com/s?wd=%E7%94%B5%E8%A7%86%E5%89%A7%E5%88%B6%E7%89%87%E4%BA%BA%E4%B8%BA%E7%81%AD%E7%81%AB%E5%99%A8%E4%BA%89%E8%AE%AE%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [哪些省份结婚只能休3天？](https://www.baidu.com/s?wd=%E5%93%AA%E4%BA%9B%E7%9C%81%E4%BB%BD%E7%BB%93%E5%A9%9A%E5%8F%AA%E8%83%BD%E4%BC%913%E5%A4%A9%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [王用生落马 8年前曾被中央纪委通报](https://www.baidu.com/s?wd=%E7%8E%8B%E7%94%A8%E7%94%9F%E8%90%BD%E9%A9%AC+8%E5%B9%B4%E5%89%8D%E6%9B%BE%E8%A2%AB%E4%B8%AD%E5%A4%AE%E7%BA%AA%E5%A7%94%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [青年入伍后拒服兵役受5项处罚](https://www.baidu.com/s?wd=%E9%9D%92%E5%B9%B4%E5%85%A5%E4%BC%8D%E5%90%8E%E6%8B%92%E6%9C%8D%E5%85%B5%E5%BD%B9%E5%8F%975%E9%A1%B9%E5%A4%84%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
