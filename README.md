@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-20 10:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-20 10:08:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [杨洋](https://s.weibo.com/weibo?q=%E6%9D%A8%E6%B4%8B&t=31&band_rank=6&Refer=top)<br />
 7. [梁朝伟](https://s.weibo.com/weibo?q=%E6%A2%81%E6%9C%9D%E4%BC%9F&t=31&band_rank=7&Refer=top)<br />
 8. [男生收到北大录取通知书前还在割猪草](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E6%94%B6%E5%88%B0%E5%8C%97%E5%A4%A7%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E5%89%8D%E8%BF%98%E5%9C%A8%E5%89%B2%E7%8C%AA%E8%8D%89%23&t=31&band_rank=8&Refer=top)<br />
-9. [我的人间烟火收视创新高](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E4%BA%BA%E9%97%B4%E7%83%9F%E7%81%AB%E6%94%B6%E8%A7%86%E5%88%9B%E6%96%B0%E9%AB%98%23&t=31&band_rank=9&Refer=top)<br />
+9. [刘耀文尚未前往医院治疗](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%80%80%E6%96%87%E5%B0%9A%E6%9C%AA%E5%89%8D%E5%BE%80%E5%8C%BB%E9%99%A2%E6%B2%BB%E7%96%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
