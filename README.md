@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-20 12:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-20 12:18:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [直击旅韩大熊猫福宝3岁生日派对](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E6%97%85%E9%9F%A9%E5%A4%A7%E7%86%8A%E7%8C%AB%E7%A6%8F%E5%AE%9D3%E5%B2%81%E7%94%9F%E6%97%A5%E6%B4%BE%E5%AF%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [渐冻症患者因施工断电去世 国网回应](https://www.baidu.com/s?wd=%E6%B8%90%E5%86%BB%E7%97%87%E6%82%A3%E8%80%85%E5%9B%A0%E6%96%BD%E5%B7%A5%E6%96%AD%E7%94%B5%E5%8E%BB%E4%B8%96+%E5%9B%BD%E7%BD%91%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子上8天班辞职要公司赔偿100万](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%8A8%E5%A4%A9%E7%8F%AD%E8%BE%9E%E8%81%8C%E8%A6%81%E5%85%AC%E5%8F%B8%E8%B5%94%E5%81%BF100%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [绿化工人进涵洞躲暴雨被冲走](https://www.baidu.com/s?wd=%E7%BB%BF%E5%8C%96%E5%B7%A5%E4%BA%BA%E8%BF%9B%E6%B6%B5%E6%B4%9E%E8%BA%B2%E6%9A%B4%E9%9B%A8%E8%A2%AB%E5%86%B2%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [科学家首次目睹金属自我修复过程](https://www.baidu.com/s?wd=%E7%A7%91%E5%AD%A6%E5%AE%B6%E9%A6%96%E6%AC%A1%E7%9B%AE%E7%9D%B9%E9%87%91%E5%B1%9E%E8%87%AA%E6%88%91%E4%BF%AE%E5%A4%8D%E8%BF%87%E7%A8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [直击旅韩大熊猫福宝3岁生日派对](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E6%97%85%E9%9F%A9%E5%A4%A7%E7%86%8A%E7%8C%AB%E7%A6%8F%E5%AE%9D3%E5%B2%81%E7%94%9F%E6%97%A5%E6%B4%BE%E5%AF%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [渐冻症患者因施工断电去世 国网回应](https://www.baidu.com/s?wd=%E6%B8%90%E5%86%BB%E7%97%87%E6%82%A3%E8%80%85%E5%9B%A0%E6%96%BD%E5%B7%A5%E6%96%AD%E7%94%B5%E5%8E%BB%E4%B8%96+%E5%9B%BD%E7%BD%91%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子上8天班辞职要公司赔偿100万](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%8A8%E5%A4%A9%E7%8F%AD%E8%BE%9E%E8%81%8C%E8%A6%81%E5%85%AC%E5%8F%B8%E8%B5%94%E5%81%BF100%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [绿化工人进涵洞躲暴雨被冲走](https://www.baidu.com/s?wd=%E7%BB%BF%E5%8C%96%E5%B7%A5%E4%BA%BA%E8%BF%9B%E6%B6%B5%E6%B4%9E%E8%BA%B2%E6%9A%B4%E9%9B%A8%E8%A2%AB%E5%86%B2%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [科学家首次目睹金属自我修复过程](https://www.baidu.com/s?wd=%E7%A7%91%E5%AD%A6%E5%AE%B6%E9%A6%96%E6%AC%A1%E7%9B%AE%E7%9D%B9%E9%87%91%E5%B1%9E%E8%87%AA%E6%88%91%E4%BF%AE%E5%A4%8D%E8%BF%87%E7%A8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
