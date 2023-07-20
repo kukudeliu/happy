@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-20 08:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-20 08:24:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [女主播大面积裸露推荐隆胸产品被罚](https://www.baidu.com/s?wd=%E5%A5%B3%E4%B8%BB%E6%92%AD%E5%A4%A7%E9%9D%A2%E7%A7%AF%E8%A3%B8%E9%9C%B2%E6%8E%A8%E8%8D%90%E9%9A%86%E8%83%B8%E4%BA%A7%E5%93%81%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [凉山小伙考上北大 录取前还在干农活](https://www.baidu.com/s?wd=%E5%87%89%E5%B1%B1%E5%B0%8F%E4%BC%99%E8%80%83%E4%B8%8A%E5%8C%97%E5%A4%A7+%E5%BD%95%E5%8F%96%E5%89%8D%E8%BF%98%E5%9C%A8%E5%B9%B2%E5%86%9C%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [车辆坠江致5死 家属质疑路段无护栏](https://www.baidu.com/s?wd=%E8%BD%A6%E8%BE%86%E5%9D%A0%E6%B1%9F%E8%87%B45%E6%AD%BB+%E5%AE%B6%E5%B1%9E%E8%B4%A8%E7%96%91%E8%B7%AF%E6%AE%B5%E6%97%A0%E6%8A%A4%E6%A0%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [专家谈淄博：烧烤火这么久已是奇迹](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E8%B0%88%E6%B7%84%E5%8D%9A%EF%BC%9A%E7%83%A7%E7%83%A4%E7%81%AB%E8%BF%99%E4%B9%88%E4%B9%85%E5%B7%B2%E6%98%AF%E5%A5%87%E8%BF%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [教育局通报教师戴某某体罚学生](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E5%B1%80%E9%80%9A%E6%8A%A5%E6%95%99%E5%B8%88%E6%88%B4%E6%9F%90%E6%9F%90%E4%BD%93%E7%BD%9A%E5%AD%A6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [杨洋这么睡不累吗](https://www.baidu.com/s?wd=%E6%9D%A8%E6%B4%8B%E8%BF%99%E4%B9%88%E7%9D%A1%E4%B8%8D%E7%B4%AF%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [女主播大面积裸露推荐隆胸产品被罚](https://www.baidu.com/s?wd=%E5%A5%B3%E4%B8%BB%E6%92%AD%E5%A4%A7%E9%9D%A2%E7%A7%AF%E8%A3%B8%E9%9C%B2%E6%8E%A8%E8%8D%90%E9%9A%86%E8%83%B8%E4%BA%A7%E5%93%81%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [凉山小伙考上北大 录取前还在干农活](https://www.baidu.com/s?wd=%E5%87%89%E5%B1%B1%E5%B0%8F%E4%BC%99%E8%80%83%E4%B8%8A%E5%8C%97%E5%A4%A7+%E5%BD%95%E5%8F%96%E5%89%8D%E8%BF%98%E5%9C%A8%E5%B9%B2%E5%86%9C%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [车辆坠江致5死 家属质疑路段无护栏](https://www.baidu.com/s?wd=%E8%BD%A6%E8%BE%86%E5%9D%A0%E6%B1%9F%E8%87%B45%E6%AD%BB+%E5%AE%B6%E5%B1%9E%E8%B4%A8%E7%96%91%E8%B7%AF%E6%AE%B5%E6%97%A0%E6%8A%A4%E6%A0%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [专家谈淄博：烧烤火这么久已是奇迹](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E8%B0%88%E6%B7%84%E5%8D%9A%EF%BC%9A%E7%83%A7%E7%83%A4%E7%81%AB%E8%BF%99%E4%B9%88%E4%B9%85%E5%B7%B2%E6%98%AF%E5%A5%87%E8%BF%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [教育局通报教师戴某某体罚学生](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E5%B1%80%E9%80%9A%E6%8A%A5%E6%95%99%E5%B8%88%E6%88%B4%E6%9F%90%E6%9F%90%E4%BD%93%E7%BD%9A%E5%AD%A6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [杨洋这么睡不累吗](https://www.baidu.com/s?wd=%E6%9D%A8%E6%B4%8B%E8%BF%99%E4%B9%88%E7%9D%A1%E4%B8%8D%E7%B4%AF%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
