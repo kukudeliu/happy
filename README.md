@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-20 18:29:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-20 18:30:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [女孩地铁晕倒大便失禁女子帮清理](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%9C%B0%E9%93%81%E6%99%95%E5%80%92%E5%A4%A7%E4%BE%BF%E5%A4%B1%E7%A6%81%E5%A5%B3%E5%AD%90%E5%B8%AE%E6%B8%85%E7%90%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [出租车堵网约车乘客 当地:网约车非法](https://www.baidu.com/s?wd=%E5%87%BA%E7%A7%9F%E8%BD%A6%E5%A0%B5%E7%BD%91%E7%BA%A6%E8%BD%A6%E4%B9%98%E5%AE%A2+%E5%BD%93%E5%9C%B0%3A%E7%BD%91%E7%BA%A6%E8%BD%A6%E9%9D%9E%E6%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [孙杨张豆豆婚纱大片](https://www.baidu.com/s?wd=%E5%AD%99%E6%9D%A8%E5%BC%A0%E8%B1%86%E8%B1%86%E5%A9%9A%E7%BA%B1%E5%A4%A7%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [宋慧乔 我想第一次称赞我自己](https://www.baidu.com/s?wd=%E5%AE%8B%E6%85%A7%E4%B9%94+%E6%88%91%E6%83%B3%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%A7%B0%E8%B5%9E%E6%88%91%E8%87%AA%E5%B7%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [科学家首次目睹金属自我修复过程](https://www.baidu.com/s?wd=%E7%A7%91%E5%AD%A6%E5%AE%B6%E9%A6%96%E6%AC%A1%E7%9B%AE%E7%9D%B9%E9%87%91%E5%B1%9E%E8%87%AA%E6%88%91%E4%BF%AE%E5%A4%8D%E8%BF%87%E7%A8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [女孩地铁晕倒大便失禁女子帮清理](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%9C%B0%E9%93%81%E6%99%95%E5%80%92%E5%A4%A7%E4%BE%BF%E5%A4%B1%E7%A6%81%E5%A5%B3%E5%AD%90%E5%B8%AE%E6%B8%85%E7%90%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [出租车堵网约车乘客 当地:网约车非法](https://www.baidu.com/s?wd=%E5%87%BA%E7%A7%9F%E8%BD%A6%E5%A0%B5%E7%BD%91%E7%BA%A6%E8%BD%A6%E4%B9%98%E5%AE%A2+%E5%BD%93%E5%9C%B0%3A%E7%BD%91%E7%BA%A6%E8%BD%A6%E9%9D%9E%E6%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [孙杨张豆豆婚纱大片](https://www.baidu.com/s?wd=%E5%AD%99%E6%9D%A8%E5%BC%A0%E8%B1%86%E8%B1%86%E5%A9%9A%E7%BA%B1%E5%A4%A7%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [宋慧乔 我想第一次称赞我自己](https://www.baidu.com/s?wd=%E5%AE%8B%E6%85%A7%E4%B9%94+%E6%88%91%E6%83%B3%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%A7%B0%E8%B5%9E%E6%88%91%E8%87%AA%E5%B7%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [科学家首次目睹金属自我修复过程](https://www.baidu.com/s?wd=%E7%A7%91%E5%AD%A6%E5%AE%B6%E9%A6%96%E6%AC%A1%E7%9B%AE%E7%9D%B9%E9%87%91%E5%B1%9E%E8%87%AA%E6%88%91%E4%BF%AE%E5%A4%8D%E8%BF%87%E7%A8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
