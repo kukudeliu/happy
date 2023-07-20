@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-20 08:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-20 08:28:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [原来许沁的作用是警示大家](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%AE%B8%E6%B2%81%E7%9A%84%E4%BD%9C%E7%94%A8%E6%98%AF%E8%AD%A6%E7%A4%BA%E5%A4%A7%E5%AE%B6%23&t=31&band_rank=4&Refer=top)<br />
 5. [福宝三岁啦](https://s.weibo.com/weibo?q=%E7%A6%8F%E5%AE%9D%E4%B8%89%E5%B2%81%E5%95%A6&t=31&band_rank=5&Refer=top)<br />
 6. [梁朝伟](https://s.weibo.com/weibo?q=%E6%A2%81%E6%9C%9D%E4%BC%9F&t=31&band_rank=6&Refer=top)<br />
-7. [美总统候选人称美正收集中国人DNA](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%80%BB%E7%BB%9F%E5%80%99%E9%80%89%E4%BA%BA%E7%A7%B0%E7%BE%8E%E6%AD%A3%E6%94%B6%E9%9B%86%E4%B8%AD%E5%9B%BD%E4%BA%BADNA%23&t=31&band_rank=7&Refer=top)<br />
-8. [女子欲轻生邻居穿睡裙跑来劝解](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%AC%B2%E8%BD%BB%E7%94%9F%E9%82%BB%E5%B1%85%E7%A9%BF%E7%9D%A1%E8%A3%99%E8%B7%91%E6%9D%A5%E5%8A%9D%E8%A7%A3%23&t=31&band_rank=8&Refer=top)<br />
+7. [女子欲轻生邻居穿睡裙跑来劝解](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%AC%B2%E8%BD%BB%E7%94%9F%E9%82%BB%E5%B1%85%E7%A9%BF%E7%9D%A1%E8%A3%99%E8%B7%91%E6%9D%A5%E5%8A%9D%E8%A7%A3%23&t=31&band_rank=7&Refer=top)<br />
+8. [美总统候选人称美正收集中国人DNA](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%80%BB%E7%BB%9F%E5%80%99%E9%80%89%E4%BA%BA%E7%A7%B0%E7%BE%8E%E6%AD%A3%E6%94%B6%E9%9B%86%E4%B8%AD%E5%9B%BD%E4%BA%BADNA%23&t=31&band_rank=8&Refer=top)<br />
 9. [罗森](https://s.weibo.com/weibo?q=%E7%BD%97%E6%A3%AE&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
