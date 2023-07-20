@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-21 01:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-21 01:52:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [王楚然对许沁的评价](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E7%84%B6%E5%AF%B9%E8%AE%B8%E6%B2%81%E7%9A%84%E8%AF%84%E4%BB%B7%23&t=31&band_rank=6&Refer=top)<br />
 7. [玖月晞 土](https://s.weibo.com/weibo?q=%E7%8E%96%E6%9C%88%E6%99%9E%20%E5%9C%9F&t=31&band_rank=7&Refer=top)<br />
 8. [西安暴雨](https://s.weibo.com/weibo?q=%E8%A5%BF%E5%AE%89%E6%9A%B4%E9%9B%A8&t=31&band_rank=8&Refer=top)<br />
-9. [中建八局被实名举报](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%BB%BA%E5%85%AB%E5%B1%80%E8%A2%AB%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%23&t=31&band_rank=9&Refer=top)<br />
+9. [陆沉](https://s.weibo.com/weibo?q=%E9%99%86%E6%B2%89&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
