@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-21 04:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-21 04:54:01</h4></div>
 
 > 微博  
 
@@ -22,10 +22,10 @@
 3. [中建八局回应高铁事件：高度重视](https://www.baidu.com/s?wd=%E4%B8%AD%E5%BB%BA%E5%85%AB%E5%B1%80%E5%9B%9E%E5%BA%94%E9%AB%98%E9%93%81%E4%BA%8B%E4%BB%B6%EF%BC%9A%E9%AB%98%E5%BA%A6%E9%87%8D%E8%A7%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [进一步激发民营经济发展活力](https://www.baidu.com/s?wd=%E8%BF%9B%E4%B8%80%E6%AD%A5%E6%BF%80%E5%8F%91%E6%B0%91%E8%90%A5%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [媒体评婴幼儿哭闹请去车厢连接处](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E5%A9%B4%E5%B9%BC%E5%84%BF%E5%93%AD%E9%97%B9%E8%AF%B7%E5%8E%BB%E8%BD%A6%E5%8E%A2%E8%BF%9E%E6%8E%A5%E5%A4%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [顾客面包店充值200元发现被备注穷](https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E9%9D%A2%E5%8C%85%E5%BA%97%E5%85%85%E5%80%BC200%E5%85%83%E5%8F%91%E7%8E%B0%E8%A2%AB%E5%A4%87%E6%B3%A8%E7%A9%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [8名大学生办暑期班被举报](https://www.baidu.com/s?wd=8%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%8A%9E%E6%9A%91%E6%9C%9F%E7%8F%AD%E8%A2%AB%E4%B8%BE%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [黄晓明的回应vs杨洋的回应](https://www.baidu.com/s?wd=%E9%BB%84%E6%99%93%E6%98%8E%E7%9A%84%E5%9B%9E%E5%BA%94vs%E6%9D%A8%E6%B4%8B%E7%9A%84%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [南航回应机票近4万元只有1瓶水](https://www.baidu.com/s?wd=%E5%8D%97%E8%88%AA%E5%9B%9E%E5%BA%94%E6%9C%BA%E7%A5%A8%E8%BF%914%E4%B8%87%E5%85%83%E5%8F%AA%E6%9C%891%E7%93%B6%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [青年入伍后拒服兵役受5项处罚](https://www.baidu.com/s?wd=%E9%9D%92%E5%B9%B4%E5%85%A5%E4%BC%8D%E5%90%8E%E6%8B%92%E6%9C%8D%E5%85%B5%E5%BD%B9%E5%8F%975%E9%A1%B9%E5%A4%84%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [顾客面包店充值200元发现被备注穷](https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E9%9D%A2%E5%8C%85%E5%BA%97%E5%85%85%E5%80%BC200%E5%85%83%E5%8F%91%E7%8E%B0%E8%A2%AB%E5%A4%87%E6%B3%A8%E7%A9%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [电视剧制片人为灭火器争议道歉](https://www.baidu.com/s?wd=%E7%94%B5%E8%A7%86%E5%89%A7%E5%88%B6%E7%89%87%E4%BA%BA%E4%B8%BA%E7%81%AD%E7%81%AB%E5%99%A8%E4%BA%89%E8%AE%AE%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [8名大学生办暑期班被举报](https://www.baidu.com/s?wd=8%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%8A%9E%E6%9A%91%E6%9C%9F%E7%8F%AD%E8%A2%AB%E4%B8%BE%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -34,7 +34,7 @@
 3. [中建八局回应高铁事件：高度重视](https://www.baidu.com/s?wd=%E4%B8%AD%E5%BB%BA%E5%85%AB%E5%B1%80%E5%9B%9E%E5%BA%94%E9%AB%98%E9%93%81%E4%BA%8B%E4%BB%B6%EF%BC%9A%E9%AB%98%E5%BA%A6%E9%87%8D%E8%A7%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [进一步激发民营经济发展活力](https://www.baidu.com/s?wd=%E8%BF%9B%E4%B8%80%E6%AD%A5%E6%BF%80%E5%8F%91%E6%B0%91%E8%90%A5%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [媒体评婴幼儿哭闹请去车厢连接处](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E5%A9%B4%E5%B9%BC%E5%84%BF%E5%93%AD%E9%97%B9%E8%AF%B7%E5%8E%BB%E8%BD%A6%E5%8E%A2%E8%BF%9E%E6%8E%A5%E5%A4%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [顾客面包店充值200元发现被备注穷](https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E9%9D%A2%E5%8C%85%E5%BA%97%E5%85%85%E5%80%BC200%E5%85%83%E5%8F%91%E7%8E%B0%E8%A2%AB%E5%A4%87%E6%B3%A8%E7%A9%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [8名大学生办暑期班被举报](https://www.baidu.com/s?wd=8%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%8A%9E%E6%9A%91%E6%9C%9F%E7%8F%AD%E8%A2%AB%E4%B8%BE%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [黄晓明的回应vs杨洋的回应](https://www.baidu.com/s?wd=%E9%BB%84%E6%99%93%E6%98%8E%E7%9A%84%E5%9B%9E%E5%BA%94vs%E6%9D%A8%E6%B4%8B%E7%9A%84%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [南航回应机票近4万元只有1瓶水](https://www.baidu.com/s?wd=%E5%8D%97%E8%88%AA%E5%9B%9E%E5%BA%94%E6%9C%BA%E7%A5%A8%E8%BF%914%E4%B8%87%E5%85%83%E5%8F%AA%E6%9C%891%E7%93%B6%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [青年入伍后拒服兵役受5项处罚](https://www.baidu.com/s?wd=%E9%9D%92%E5%B9%B4%E5%85%A5%E4%BC%8D%E5%90%8E%E6%8B%92%E6%9C%8D%E5%85%B5%E5%BD%B9%E5%8F%975%E9%A1%B9%E5%A4%84%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [顾客面包店充值200元发现被备注穷](https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E9%9D%A2%E5%8C%85%E5%BA%97%E5%85%85%E5%80%BC200%E5%85%83%E5%8F%91%E7%8E%B0%E8%A2%AB%E5%A4%87%E6%B3%A8%E7%A9%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [电视剧制片人为灭火器争议道歉](https://www.baidu.com/s?wd=%E7%94%B5%E8%A7%86%E5%89%A7%E5%88%B6%E7%89%87%E4%BA%BA%E4%B8%BA%E7%81%AD%E7%81%AB%E5%99%A8%E4%BA%89%E8%AE%AE%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [8名大学生办暑期班被举报](https://www.baidu.com/s?wd=8%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%8A%9E%E6%9A%91%E6%9C%9F%E7%8F%AD%E8%A2%AB%E4%B8%BE%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
