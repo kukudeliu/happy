@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-20 10:28:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-20 10:29:01</h4></div>
 
 > 微博  
 
@@ -19,22 +19,22 @@
 
 1. [为了天更蓝水更清山更绿](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BA%86%E5%A4%A9%E6%9B%B4%E8%93%9D%E6%B0%B4%E6%9B%B4%E6%B8%85%E5%B1%B1%E6%9B%B4%E7%BB%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [凉山小伙考上北大 录取前还在干农活](https://www.baidu.com/s?wd=%E5%87%89%E5%B1%B1%E5%B0%8F%E4%BC%99%E8%80%83%E4%B8%8A%E5%8C%97%E5%A4%A7+%E5%BD%95%E5%8F%96%E5%89%8D%E8%BF%98%E5%9C%A8%E5%B9%B2%E5%86%9C%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [中国海关拦截部分日本水产品](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B5%B7%E5%85%B3%E6%8B%A6%E6%88%AA%E9%83%A8%E5%88%86%E6%97%A5%E6%9C%AC%E6%B0%B4%E4%BA%A7%E5%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [孙杨晒结婚证 配文“抬头见喜”](https://www.baidu.com/s?wd=%E5%AD%99%E6%9D%A8%E6%99%92%E7%BB%93%E5%A9%9A%E8%AF%81+%E9%85%8D%E6%96%87%E2%80%9C%E6%8A%AC%E5%A4%B4%E8%A7%81%E5%96%9C%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [营造文明网络生态](https://www.baidu.com/s?wd=%E8%90%A5%E9%80%A0%E6%96%87%E6%98%8E%E7%BD%91%E7%BB%9C%E7%94%9F%E6%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女主播大面积裸露推荐隆胸产品被罚](https://www.baidu.com/s?wd=%E5%A5%B3%E4%B8%BB%E6%92%AD%E5%A4%A7%E9%9D%A2%E7%A7%AF%E8%A3%B8%E9%9C%B2%E6%8E%A8%E8%8D%90%E9%9A%86%E8%83%B8%E4%BA%A7%E5%93%81%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [直击旅韩大熊猫福宝3岁生日派对](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E6%97%85%E9%9F%A9%E5%A4%A7%E7%86%8A%E7%8C%AB%E7%A6%8F%E5%AE%9D3%E5%B2%81%E7%94%9F%E6%97%A5%E6%B4%BE%E5%AF%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [美总统候选人称美正收集中国人DNA](https://www.baidu.com/s?wd=%E7%BE%8E%E6%80%BB%E7%BB%9F%E5%80%99%E9%80%89%E4%BA%BA%E7%A7%B0%E7%BE%8E%E6%AD%A3%E6%94%B6%E9%9B%86%E4%B8%AD%E5%9B%BD%E4%BA%BADNA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [普里戈任现身 将留在白俄训练军队](https://www.baidu.com/s?wd=%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E7%8E%B0%E8%BA%AB+%E5%B0%86%E7%95%99%E5%9C%A8%E7%99%BD%E4%BF%84%E8%AE%AD%E7%BB%83%E5%86%9B%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [花花被游客喊胖子愣了1秒钟](https://www.baidu.com/s?wd=%E8%8A%B1%E8%8A%B1%E8%A2%AB%E6%B8%B8%E5%AE%A2%E5%96%8A%E8%83%96%E5%AD%90%E6%84%A3%E4%BA%861%E7%A7%92%E9%92%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子用冰糖冒充冰毒贩卖](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%94%A8%E5%86%B0%E7%B3%96%E5%86%92%E5%85%85%E5%86%B0%E6%AF%92%E8%B4%A9%E5%8D%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [美总统候选人称美正收集中国人DNA](https://www.baidu.com/s?wd=%E7%BE%8E%E6%80%BB%E7%BB%9F%E5%80%99%E9%80%89%E4%BA%BA%E7%A7%B0%E7%BE%8E%E6%AD%A3%E6%94%B6%E9%9B%86%E4%B8%AD%E5%9B%BD%E4%BA%BADNA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [为了天更蓝水更清山更绿](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BA%86%E5%A4%A9%E6%9B%B4%E8%93%9D%E6%B0%B4%E6%9B%B4%E6%B8%85%E5%B1%B1%E6%9B%B4%E7%BB%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [凉山小伙考上北大 录取前还在干农活](https://www.baidu.com/s?wd=%E5%87%89%E5%B1%B1%E5%B0%8F%E4%BC%99%E8%80%83%E4%B8%8A%E5%8C%97%E5%A4%A7+%E5%BD%95%E5%8F%96%E5%89%8D%E8%BF%98%E5%9C%A8%E5%B9%B2%E5%86%9C%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [中国海关拦截部分日本水产品](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B5%B7%E5%85%B3%E6%8B%A6%E6%88%AA%E9%83%A8%E5%88%86%E6%97%A5%E6%9C%AC%E6%B0%B4%E4%BA%A7%E5%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [孙杨晒结婚证 配文“抬头见喜”](https://www.baidu.com/s?wd=%E5%AD%99%E6%9D%A8%E6%99%92%E7%BB%93%E5%A9%9A%E8%AF%81+%E9%85%8D%E6%96%87%E2%80%9C%E6%8A%AC%E5%A4%B4%E8%A7%81%E5%96%9C%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [营造文明网络生态](https://www.baidu.com/s?wd=%E8%90%A5%E9%80%A0%E6%96%87%E6%98%8E%E7%BD%91%E7%BB%9C%E7%94%9F%E6%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女主播大面积裸露推荐隆胸产品被罚](https://www.baidu.com/s?wd=%E5%A5%B3%E4%B8%BB%E6%92%AD%E5%A4%A7%E9%9D%A2%E7%A7%AF%E8%A3%B8%E9%9C%B2%E6%8E%A8%E8%8D%90%E9%9A%86%E8%83%B8%E4%BA%A7%E5%93%81%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [直击旅韩大熊猫福宝3岁生日派对](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E6%97%85%E9%9F%A9%E5%A4%A7%E7%86%8A%E7%8C%AB%E7%A6%8F%E5%AE%9D3%E5%B2%81%E7%94%9F%E6%97%A5%E6%B4%BE%E5%AF%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [美总统候选人称美正收集中国人DNA](https://www.baidu.com/s?wd=%E7%BE%8E%E6%80%BB%E7%BB%9F%E5%80%99%E9%80%89%E4%BA%BA%E7%A7%B0%E7%BE%8E%E6%AD%A3%E6%94%B6%E9%9B%86%E4%B8%AD%E5%9B%BD%E4%BA%BADNA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [普里戈任现身 将留在白俄训练军队](https://www.baidu.com/s?wd=%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E7%8E%B0%E8%BA%AB+%E5%B0%86%E7%95%99%E5%9C%A8%E7%99%BD%E4%BF%84%E8%AE%AD%E7%BB%83%E5%86%9B%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [花花被游客喊胖子愣了1秒钟](https://www.baidu.com/s?wd=%E8%8A%B1%E8%8A%B1%E8%A2%AB%E6%B8%B8%E5%AE%A2%E5%96%8A%E8%83%96%E5%AD%90%E6%84%A3%E4%BA%861%E7%A7%92%E9%92%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子用冰糖冒充冰毒贩卖](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%94%A8%E5%86%B0%E7%B3%96%E5%86%92%E5%85%85%E5%86%B0%E6%AF%92%E8%B4%A9%E5%8D%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [美总统候选人称美正收集中国人DNA](https://www.baidu.com/s?wd=%E7%BE%8E%E6%80%BB%E7%BB%9F%E5%80%99%E9%80%89%E4%BA%BA%E7%A7%B0%E7%BE%8E%E6%AD%A3%E6%94%B6%E9%9B%86%E4%B8%AD%E5%9B%BD%E4%BA%BADNA&sa=fyb_news&rsv_dl=fyb_news)<br />
