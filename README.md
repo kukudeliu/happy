@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-21 07:06:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-21 07:07:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [地球连续35年收到神秘规律性信号](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E7%90%83%E8%BF%9E%E7%BB%AD35%E5%B9%B4%E6%94%B6%E5%88%B0%E7%A5%9E%E7%A7%98%E8%A7%84%E5%BE%8B%E6%80%A7%E4%BF%A1%E5%8F%B7%23&t=31&band_rank=5&Refer=top)<br />
 6. [剧是一集没看气是一点没少生](https://s.weibo.com/weibo?q=%23%E5%89%A7%E6%98%AF%E4%B8%80%E9%9B%86%E6%B2%A1%E7%9C%8B%E6%B0%94%E6%98%AF%E4%B8%80%E7%82%B9%E6%B2%A1%E5%B0%91%E7%94%9F%23&t=31&band_rank=6&Refer=top)<br />
 7. [王一博说自己是不会说话的人](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%AF%B4%E8%87%AA%E5%B7%B1%E6%98%AF%E4%B8%8D%E4%BC%9A%E8%AF%B4%E8%AF%9D%E7%9A%84%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
-8. [西安暴雨](https://s.weibo.com/weibo?q=%E8%A5%BF%E5%AE%89%E6%9A%B4%E9%9B%A8&t=31&band_rank=8&Refer=top)<br />
-9. [淄博海鲜交易市场统一使用智慧秤](https://s.weibo.com/weibo?q=%23%E6%B7%84%E5%8D%9A%E6%B5%B7%E9%B2%9C%E4%BA%A4%E6%98%93%E5%B8%82%E5%9C%BA%E7%BB%9F%E4%B8%80%E4%BD%BF%E7%94%A8%E6%99%BA%E6%85%A7%E7%A7%A4%23&t=31&band_rank=9&Refer=top)<br />
+8. [淄博海鲜交易市场统一使用智慧秤](https://s.weibo.com/weibo?q=%23%E6%B7%84%E5%8D%9A%E6%B5%B7%E9%B2%9C%E4%BA%A4%E6%98%93%E5%B8%82%E5%9C%BA%E7%BB%9F%E4%B8%80%E4%BD%BF%E7%94%A8%E6%99%BA%E6%85%A7%E7%A7%A4%23&t=31&band_rank=8&Refer=top)<br />
+9. [西安暴雨](https://s.weibo.com/weibo?q=%E8%A5%BF%E5%AE%89%E6%9A%B4%E9%9B%A8&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
