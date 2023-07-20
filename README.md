@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-20 12:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-20 12:41:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [杨洋](https://s.weibo.com/weibo?q=%E6%9D%A8%E6%B4%8B&t=31&band_rank=6&Refer=top)<br />
 7. [范丞丞说孟宴臣就位了该你了顾九思](https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E8%AF%B4%E5%AD%9F%E5%AE%B4%E8%87%A3%E5%B0%B1%E4%BD%8D%E4%BA%86%E8%AF%A5%E4%BD%A0%E4%BA%86%E9%A1%BE%E4%B9%9D%E6%80%9D%23&t=31&band_rank=7&Refer=top)<br />
 8. [创造营2023导师阵容](https://s.weibo.com/weibo?q=%E5%88%9B%E9%80%A0%E8%90%A52023%E5%AF%BC%E5%B8%88%E9%98%B5%E5%AE%B9&t=31&band_rank=8&Refer=top)<br />
-9. [在华山失联男子确认遇难](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E5%8D%8E%E5%B1%B1%E5%A4%B1%E8%81%94%E7%94%B7%E5%AD%90%E7%A1%AE%E8%AE%A4%E9%81%87%E9%9A%BE%23&t=31&band_rank=9&Refer=top)<br />
+9. [官方回应高考453分上广州大学](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E9%AB%98%E8%80%83453%E5%88%86%E4%B8%8A%E5%B9%BF%E5%B7%9E%E5%A4%A7%E5%AD%A6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
