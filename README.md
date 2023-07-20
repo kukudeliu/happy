@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-20 22:18:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-20 22:19:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [进一步激发民营经济发展活力](https://www.baidu.com/s?wd=%E8%BF%9B%E4%B8%80%E6%AD%A5%E6%BF%80%E5%8F%91%E6%B0%91%E8%90%A5%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [媒体评婴幼儿哭闹请去车厢连接处](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E5%A9%B4%E5%B9%BC%E5%84%BF%E5%93%AD%E9%97%B9%E8%AF%B7%E5%8E%BB%E8%BD%A6%E5%8E%A2%E8%BF%9E%E6%8E%A5%E5%A4%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [俞敏洪称儿子实习每天工作18小时](https://www.baidu.com/s?wd=%E4%BF%9E%E6%95%8F%E6%B4%AA%E7%A7%B0%E5%84%BF%E5%AD%90%E5%AE%9E%E4%B9%A0%E6%AF%8F%E5%A4%A9%E5%B7%A5%E4%BD%9C18%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [游客用登山杖戳乐山大佛景区石壁](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E7%94%A8%E7%99%BB%E5%B1%B1%E6%9D%96%E6%88%B3%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B%E6%99%AF%E5%8C%BA%E7%9F%B3%E5%A3%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [印度桥梁发生触电致16人死亡](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E6%A1%A5%E6%A2%81%E5%8F%91%E7%94%9F%E8%A7%A6%E7%94%B5%E8%87%B416%E4%BA%BA%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [官方通报女子桥洞内避雨被冲走](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E6%A1%A5%E6%B4%9E%E5%86%85%E9%81%BF%E9%9B%A8%E8%A2%AB%E5%86%B2%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [出租车堵网约车乘客 当地:网约车非法](https://www.baidu.com/s?wd=%E5%87%BA%E7%A7%9F%E8%BD%A6%E5%A0%B5%E7%BD%91%E7%BA%A6%E8%BD%A6%E4%B9%98%E5%AE%A2+%E5%BD%93%E5%9C%B0%3A%E7%BD%91%E7%BA%A6%E8%BD%A6%E9%9D%9E%E6%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [又一名旅行博主遇难之后](https://www.baidu.com/s?wd=%E5%8F%88%E4%B8%80%E5%90%8D%E6%97%85%E8%A1%8C%E5%8D%9A%E4%B8%BB%E9%81%87%E9%9A%BE%E4%B9%8B%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [进一步激发民营经济发展活力](https://www.baidu.com/s?wd=%E8%BF%9B%E4%B8%80%E6%AD%A5%E6%BF%80%E5%8F%91%E6%B0%91%E8%90%A5%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [媒体评婴幼儿哭闹请去车厢连接处](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E5%A9%B4%E5%B9%BC%E5%84%BF%E5%93%AD%E9%97%B9%E8%AF%B7%E5%8E%BB%E8%BD%A6%E5%8E%A2%E8%BF%9E%E6%8E%A5%E5%A4%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [俞敏洪称儿子实习每天工作18小时](https://www.baidu.com/s?wd=%E4%BF%9E%E6%95%8F%E6%B4%AA%E7%A7%B0%E5%84%BF%E5%AD%90%E5%AE%9E%E4%B9%A0%E6%AF%8F%E5%A4%A9%E5%B7%A5%E4%BD%9C18%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [游客用登山杖戳乐山大佛景区石壁](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E7%94%A8%E7%99%BB%E5%B1%B1%E6%9D%96%E6%88%B3%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B%E6%99%AF%E5%8C%BA%E7%9F%B3%E5%A3%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [印度桥梁发生触电致16人死亡](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E6%A1%A5%E6%A2%81%E5%8F%91%E7%94%9F%E8%A7%A6%E7%94%B5%E8%87%B416%E4%BA%BA%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [官方通报女子桥洞内避雨被冲走](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E6%A1%A5%E6%B4%9E%E5%86%85%E9%81%BF%E9%9B%A8%E8%A2%AB%E5%86%B2%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [出租车堵网约车乘客 当地:网约车非法](https://www.baidu.com/s?wd=%E5%87%BA%E7%A7%9F%E8%BD%A6%E5%A0%B5%E7%BD%91%E7%BA%A6%E8%BD%A6%E4%B9%98%E5%AE%A2+%E5%BD%93%E5%9C%B0%3A%E7%BD%91%E7%BA%A6%E8%BD%A6%E9%9D%9E%E6%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [又一名旅行博主遇难之后](https://www.baidu.com/s?wd=%E5%8F%88%E4%B8%80%E5%90%8D%E6%97%85%E8%A1%8C%E5%8D%9A%E4%B8%BB%E9%81%87%E9%9A%BE%E4%B9%8B%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
