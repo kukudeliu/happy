@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-21 01:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-21 01:13:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [地球连续35年收到神秘规律性信号](https://www.baidu.com/s?wd=%E5%9C%B0%E7%90%83%E8%BF%9E%E7%BB%AD35%E5%B9%B4%E6%94%B6%E5%88%B0%E7%A5%9E%E7%A7%98%E8%A7%84%E5%BE%8B%E6%80%A7%E4%BF%A1%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [安倍昭惠此时窜台安的什么心](https://www.baidu.com/s?wd=%E5%AE%89%E5%80%8D%E6%98%AD%E6%83%A0%E6%AD%A4%E6%97%B6%E7%AA%9C%E5%8F%B0%E5%AE%89%E7%9A%84%E4%BB%80%E4%B9%88%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [刘晓庆演少女 父亲扮演者比其小18岁](https://www.baidu.com/s?wd=%E5%88%98%E6%99%93%E5%BA%86%E6%BC%94%E5%B0%91%E5%A5%B3+%E7%88%B6%E4%BA%B2%E6%89%AE%E6%BC%94%E8%80%85%E6%AF%94%E5%85%B6%E5%B0%8F18%E5%B2%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [网友偶遇张颂文考科目二](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%81%B6%E9%81%87%E5%BC%A0%E9%A2%82%E6%96%87%E8%80%83%E7%A7%91%E7%9B%AE%E4%BA%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [又一名旅行博主遇难之后](https://www.baidu.com/s?wd=%E5%8F%88%E4%B8%80%E5%90%8D%E6%97%85%E8%A1%8C%E5%8D%9A%E4%B8%BB%E9%81%87%E9%9A%BE%E4%B9%8B%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [地球连续35年收到神秘规律性信号](https://www.baidu.com/s?wd=%E5%9C%B0%E7%90%83%E8%BF%9E%E7%BB%AD35%E5%B9%B4%E6%94%B6%E5%88%B0%E7%A5%9E%E7%A7%98%E8%A7%84%E5%BE%8B%E6%80%A7%E4%BF%A1%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [安倍昭惠此时窜台安的什么心](https://www.baidu.com/s?wd=%E5%AE%89%E5%80%8D%E6%98%AD%E6%83%A0%E6%AD%A4%E6%97%B6%E7%AA%9C%E5%8F%B0%E5%AE%89%E7%9A%84%E4%BB%80%E4%B9%88%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [刘晓庆演少女 父亲扮演者比其小18岁](https://www.baidu.com/s?wd=%E5%88%98%E6%99%93%E5%BA%86%E6%BC%94%E5%B0%91%E5%A5%B3+%E7%88%B6%E4%BA%B2%E6%89%AE%E6%BC%94%E8%80%85%E6%AF%94%E5%85%B6%E5%B0%8F18%E5%B2%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [网友偶遇张颂文考科目二](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%81%B6%E9%81%87%E5%BC%A0%E9%A2%82%E6%96%87%E8%80%83%E7%A7%91%E7%9B%AE%E4%BA%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [又一名旅行博主遇难之后](https://www.baidu.com/s?wd=%E5%8F%88%E4%B8%80%E5%90%8D%E6%97%85%E8%A1%8C%E5%8D%9A%E4%B8%BB%E9%81%87%E9%9A%BE%E4%B9%8B%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
