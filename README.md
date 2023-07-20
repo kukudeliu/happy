@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-20 14:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-20 14:24:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [官方回应高考453分上广州大学](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E9%AB%98%E8%80%83453%E5%88%86%E4%B8%8A%E5%B9%BF%E5%B7%9E%E5%A4%A7%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [电视剧男女主玩灭火器 消防提醒](https://www.baidu.com/s?wd=%E7%94%B5%E8%A7%86%E5%89%A7%E7%94%B7%E5%A5%B3%E4%B8%BB%E7%8E%A9%E7%81%AD%E7%81%AB%E5%99%A8+%E6%B6%88%E9%98%B2%E6%8F%90%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女孩蹲地玩耍遭suv撞倒碾压](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E8%B9%B2%E5%9C%B0%E7%8E%A9%E8%80%8D%E9%81%ADsuv%E6%92%9E%E5%80%92%E7%A2%BE%E5%8E%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [山东大学辟谣取消学伴制](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%A4%A7%E5%AD%A6%E8%BE%9F%E8%B0%A3%E5%8F%96%E6%B6%88%E5%AD%A6%E4%BC%B4%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子买菜花52.8元让老板核算3遍](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B9%B0%E8%8F%9C%E8%8A%B152.8%E5%85%83%E8%AE%A9%E8%80%81%E6%9D%BF%E6%A0%B8%E7%AE%973%E9%81%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [官方回应高考453分上广州大学](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E9%AB%98%E8%80%83453%E5%88%86%E4%B8%8A%E5%B9%BF%E5%B7%9E%E5%A4%A7%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [电视剧男女主玩灭火器 消防提醒](https://www.baidu.com/s?wd=%E7%94%B5%E8%A7%86%E5%89%A7%E7%94%B7%E5%A5%B3%E4%B8%BB%E7%8E%A9%E7%81%AD%E7%81%AB%E5%99%A8+%E6%B6%88%E9%98%B2%E6%8F%90%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女孩蹲地玩耍遭suv撞倒碾压](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E8%B9%B2%E5%9C%B0%E7%8E%A9%E8%80%8D%E9%81%ADsuv%E6%92%9E%E5%80%92%E7%A2%BE%E5%8E%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [山东大学辟谣取消学伴制](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%A4%A7%E5%AD%A6%E8%BE%9F%E8%B0%A3%E5%8F%96%E6%B6%88%E5%AD%A6%E4%BC%B4%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子买菜花52.8元让老板核算3遍](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B9%B0%E8%8F%9C%E8%8A%B152.8%E5%85%83%E8%AE%A9%E8%80%81%E6%9D%BF%E6%A0%B8%E7%AE%973%E9%81%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
