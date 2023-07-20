@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-20 19:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-20 19:02:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [中建八局被实名举报](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%BB%BA%E5%85%AB%E5%B1%80%E8%A2%AB%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%23&t=31&band_rank=6&Refer=top)<br />
 7. [为了33只羊民警浑身是伤](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BA%8633%E5%8F%AA%E7%BE%8A%E6%B0%91%E8%AD%A6%E6%B5%91%E8%BA%AB%E6%98%AF%E4%BC%A4%23&t=31&band_rank=7&Refer=top)<br />
 8. [张予曦 温以凡](https://s.weibo.com/weibo?q=%E5%BC%A0%E4%BA%88%E6%9B%A6%20%E6%B8%A9%E4%BB%A5%E5%87%A1&t=31&band_rank=8&Refer=top)<br />
-9. [他从火光中走来](https://s.weibo.com/weibo?q=%E4%BB%96%E4%BB%8E%E7%81%AB%E5%85%89%E4%B8%AD%E8%B5%B0%E6%9D%A5&t=31&band_rank=9&Refer=top)<br />
+9. [宋慧乔 我想第一次称赞我自己](https://s.weibo.com/weibo?q=%E5%AE%8B%E6%85%A7%E4%B9%94%20%E6%88%91%E6%83%B3%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%A7%B0%E8%B5%9E%E6%88%91%E8%87%AA%E5%B7%B1&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
