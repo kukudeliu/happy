@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-20 15:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-20 15:09:02</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [顾客面包店充值200元发现被备注穷](https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E9%9D%A2%E5%8C%85%E5%BA%97%E5%85%85%E5%80%BC200%E5%85%83%E5%8F%91%E7%8E%B0%E8%A2%AB%E5%A4%87%E6%B3%A8%E7%A9%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [电视剧男女主玩灭火器 消防提醒](https://www.baidu.com/s?wd=%E7%94%B5%E8%A7%86%E5%89%A7%E7%94%B7%E5%A5%B3%E4%B8%BB%E7%8E%A9%E7%81%AD%E7%81%AB%E5%99%A8+%E6%B6%88%E9%98%B2%E6%8F%90%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [中学老师抽打踢踹学生被辞退](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E8%80%81%E5%B8%88%E6%8A%BD%E6%89%93%E8%B8%A2%E8%B8%B9%E5%AD%A6%E7%94%9F%E8%A2%AB%E8%BE%9E%E9%80%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [回流生争议：背后是期待教育公平](https://www.baidu.com/s?wd=%E5%9B%9E%E6%B5%81%E7%94%9F%E4%BA%89%E8%AE%AE%EF%BC%9A%E8%83%8C%E5%90%8E%E6%98%AF%E6%9C%9F%E5%BE%85%E6%95%99%E8%82%B2%E5%85%AC%E5%B9%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [渐冻症患者因施工断电去世 国网回应](https://www.baidu.com/s?wd=%E6%B8%90%E5%86%BB%E7%97%87%E6%82%A3%E8%80%85%E5%9B%A0%E6%96%BD%E5%B7%A5%E6%96%AD%E7%94%B5%E5%8E%BB%E4%B8%96+%E5%9B%BD%E7%BD%91%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [顾客面包店充值200元发现被备注穷](https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E9%9D%A2%E5%8C%85%E5%BA%97%E5%85%85%E5%80%BC200%E5%85%83%E5%8F%91%E7%8E%B0%E8%A2%AB%E5%A4%87%E6%B3%A8%E7%A9%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [电视剧男女主玩灭火器 消防提醒](https://www.baidu.com/s?wd=%E7%94%B5%E8%A7%86%E5%89%A7%E7%94%B7%E5%A5%B3%E4%B8%BB%E7%8E%A9%E7%81%AD%E7%81%AB%E5%99%A8+%E6%B6%88%E9%98%B2%E6%8F%90%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [中学老师抽打踢踹学生被辞退](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E8%80%81%E5%B8%88%E6%8A%BD%E6%89%93%E8%B8%A2%E8%B8%B9%E5%AD%A6%E7%94%9F%E8%A2%AB%E8%BE%9E%E9%80%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [回流生争议：背后是期待教育公平](https://www.baidu.com/s?wd=%E5%9B%9E%E6%B5%81%E7%94%9F%E4%BA%89%E8%AE%AE%EF%BC%9A%E8%83%8C%E5%90%8E%E6%98%AF%E6%9C%9F%E5%BE%85%E6%95%99%E8%82%B2%E5%85%AC%E5%B9%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [渐冻症患者因施工断电去世 国网回应](https://www.baidu.com/s?wd=%E6%B8%90%E5%86%BB%E7%97%87%E6%82%A3%E8%80%85%E5%9B%A0%E6%96%BD%E5%B7%A5%E6%96%AD%E7%94%B5%E5%8E%BB%E4%B8%96+%E5%9B%BD%E7%BD%91%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
