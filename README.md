@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-20 19:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-20 19:54:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [黄晓明的回应vs杨洋的回应](https://www.baidu.com/s?wd=%E9%BB%84%E6%99%93%E6%98%8E%E7%9A%84%E5%9B%9E%E5%BA%94vs%E6%9D%A8%E6%B4%8B%E7%9A%84%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [刘晓庆演少女 父亲扮演者比其小18岁](https://www.baidu.com/s?wd=%E5%88%98%E6%99%93%E5%BA%86%E6%BC%94%E5%B0%91%E5%A5%B3+%E7%88%B6%E4%BA%B2%E6%89%AE%E6%BC%94%E8%80%85%E6%AF%94%E5%85%B6%E5%B0%8F18%E5%B2%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中建八局回应高铁事件：高度重视](https://www.baidu.com/s?wd=%E4%B8%AD%E5%BB%BA%E5%85%AB%E5%B1%80%E5%9B%9E%E5%BA%94%E9%AB%98%E9%93%81%E4%BA%8B%E4%BB%B6%EF%BC%9A%E9%AB%98%E5%BA%A6%E9%87%8D%E8%A7%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [中学老师抽打踢踹学生被辞退](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E8%80%81%E5%B8%88%E6%8A%BD%E6%89%93%E8%B8%A2%E8%B8%B9%E5%AD%A6%E7%94%9F%E8%A2%AB%E8%BE%9E%E9%80%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [出租车堵网约车乘客 当地:网约车非法](https://www.baidu.com/s?wd=%E5%87%BA%E7%A7%9F%E8%BD%A6%E5%A0%B5%E7%BD%91%E7%BA%A6%E8%BD%A6%E4%B9%98%E5%AE%A2+%E5%BD%93%E5%9C%B0%3A%E7%BD%91%E7%BA%A6%E8%BD%A6%E9%9D%9E%E6%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [唐尚珺没填补录](https://www.baidu.com/s?wd=%E5%94%90%E5%B0%9A%E7%8F%BA%E6%B2%A1%E5%A1%AB%E8%A1%A5%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [印度桥梁发生触电致16人死亡](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E6%A1%A5%E6%A2%81%E5%8F%91%E7%94%9F%E8%A7%A6%E7%94%B5%E8%87%B416%E4%BA%BA%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [黄晓明的回应vs杨洋的回应](https://www.baidu.com/s?wd=%E9%BB%84%E6%99%93%E6%98%8E%E7%9A%84%E5%9B%9E%E5%BA%94vs%E6%9D%A8%E6%B4%8B%E7%9A%84%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [刘晓庆演少女 父亲扮演者比其小18岁](https://www.baidu.com/s?wd=%E5%88%98%E6%99%93%E5%BA%86%E6%BC%94%E5%B0%91%E5%A5%B3+%E7%88%B6%E4%BA%B2%E6%89%AE%E6%BC%94%E8%80%85%E6%AF%94%E5%85%B6%E5%B0%8F18%E5%B2%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中建八局回应高铁事件：高度重视](https://www.baidu.com/s?wd=%E4%B8%AD%E5%BB%BA%E5%85%AB%E5%B1%80%E5%9B%9E%E5%BA%94%E9%AB%98%E9%93%81%E4%BA%8B%E4%BB%B6%EF%BC%9A%E9%AB%98%E5%BA%A6%E9%87%8D%E8%A7%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [中学老师抽打踢踹学生被辞退](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E8%80%81%E5%B8%88%E6%8A%BD%E6%89%93%E8%B8%A2%E8%B8%B9%E5%AD%A6%E7%94%9F%E8%A2%AB%E8%BE%9E%E9%80%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [出租车堵网约车乘客 当地:网约车非法](https://www.baidu.com/s?wd=%E5%87%BA%E7%A7%9F%E8%BD%A6%E5%A0%B5%E7%BD%91%E7%BA%A6%E8%BD%A6%E4%B9%98%E5%AE%A2+%E5%BD%93%E5%9C%B0%3A%E7%BD%91%E7%BA%A6%E8%BD%A6%E9%9D%9E%E6%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [唐尚珺没填补录](https://www.baidu.com/s?wd=%E5%94%90%E5%B0%9A%E7%8F%BA%E6%B2%A1%E5%A1%AB%E8%A1%A5%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [印度桥梁发生触电致16人死亡](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E6%A1%A5%E6%A2%81%E5%8F%91%E7%94%9F%E8%A7%A6%E7%94%B5%E8%87%B416%E4%BA%BA%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
