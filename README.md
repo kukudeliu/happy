@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-20 20:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-20 20:49:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [俞敏洪称儿子实习每天工作18小时](https://s.weibo.com/weibo?q=%23%E4%BF%9E%E6%95%8F%E6%B4%AA%E7%A7%B0%E5%84%BF%E5%AD%90%E5%AE%9E%E4%B9%A0%E6%AF%8F%E5%A4%A9%E5%B7%A5%E4%BD%9C18%E5%B0%8F%E6%97%B6%23&t=31&band_rank=4&Refer=top)<br />
 5. [苏明玉 天选孟家女](https://s.weibo.com/weibo?q=%E8%8B%8F%E6%98%8E%E7%8E%89%20%E5%A4%A9%E9%80%89%E5%AD%9F%E5%AE%B6%E5%A5%B3&t=31&band_rank=5&Refer=top)<br />
 6. [迪丽热巴刘宇宁穿黑衣服不告诉龚俊](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%88%98%E5%AE%87%E5%AE%81%E7%A9%BF%E9%BB%91%E8%A1%A3%E6%9C%8D%E4%B8%8D%E5%91%8A%E8%AF%89%E9%BE%9A%E4%BF%8A%23&t=31&band_rank=6&Refer=top)<br />
-7. [中建八局被实名举报](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%BB%BA%E5%85%AB%E5%B1%80%E8%A2%AB%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%23&t=31&band_rank=7&Refer=top)<br />
-8. [活死人网络村晚](https://s.weibo.com/weibo?q=%E6%B4%BB%E6%AD%BB%E4%BA%BA%E7%BD%91%E7%BB%9C%E6%9D%91%E6%99%9A&t=31&band_rank=8&Refer=top)<br />
+7. [封神新妲己出场镜头](https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E%E6%96%B0%E5%A6%B2%E5%B7%B1%E5%87%BA%E5%9C%BA%E9%95%9C%E5%A4%B4%23&t=31&band_rank=7&Refer=top)<br />
+8. [中建八局被实名举报](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%BB%BA%E5%85%AB%E5%B1%80%E8%A2%AB%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%23&t=31&band_rank=8&Refer=top)<br />
 9. [烧伤女孩拍婚纱照店老板主动充当新郎](https://s.weibo.com/weibo?q=%23%E7%83%A7%E4%BC%A4%E5%A5%B3%E5%AD%A9%E6%8B%8D%E5%A9%9A%E7%BA%B1%E7%85%A7%E5%BA%97%E8%80%81%E6%9D%BF%E4%B8%BB%E5%8A%A8%E5%85%85%E5%BD%93%E6%96%B0%E9%83%8E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -23,9 +23,9 @@
 4. [为民营经济保驾护航](https://www.baidu.com/s?wd=%E4%B8%BA%E6%B0%91%E8%90%A5%E7%BB%8F%E6%B5%8E%E4%BF%9D%E9%A9%BE%E6%8A%A4%E8%88%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中建八局回应高铁事件：高度重视](https://www.baidu.com/s?wd=%E4%B8%AD%E5%BB%BA%E5%85%AB%E5%B1%80%E5%9B%9E%E5%BA%94%E9%AB%98%E9%93%81%E4%BA%8B%E4%BB%B6%EF%BC%9A%E9%AB%98%E5%BA%A6%E9%87%8D%E8%A7%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [网友偶遇张颂文考科目二](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%81%B6%E9%81%87%E5%BC%A0%E9%A2%82%E6%96%87%E8%80%83%E7%A7%91%E7%9B%AE%E4%BA%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [坐运-20上学是什么样的体验](https://www.baidu.com/s?wd=%E5%9D%90%E8%BF%90-20%E4%B8%8A%E5%AD%A6%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E4%BD%93%E9%AA%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [航班起飞忘加油折返？湖南航空辟谣](https://www.baidu.com/s?wd=%E8%88%AA%E7%8F%AD%E8%B5%B7%E9%A3%9E%E5%BF%98%E5%8A%A0%E6%B2%B9%E6%8A%98%E8%BF%94%EF%BC%9F%E6%B9%96%E5%8D%97%E8%88%AA%E7%A9%BA%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女孩地铁晕倒大便失禁女子帮清理](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%9C%B0%E9%93%81%E6%99%95%E5%80%92%E5%A4%A7%E4%BE%BF%E5%A4%B1%E7%A6%81%E5%A5%B3%E5%AD%90%E5%B8%AE%E6%B8%85%E7%90%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [航班起飞忘加油折返？湖南航空辟谣](https://www.baidu.com/s?wd=%E8%88%AA%E7%8F%AD%E8%B5%B7%E9%A3%9E%E5%BF%98%E5%8A%A0%E6%B2%B9%E6%8A%98%E8%BF%94%EF%BC%9F%E6%B9%96%E5%8D%97%E8%88%AA%E7%A9%BA%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子透支15万买私教课退款被拒](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%80%8F%E6%94%AF15%E4%B8%87%E4%B9%B0%E7%A7%81%E6%95%99%E8%AF%BE%E9%80%80%E6%AC%BE%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子刚走下泰山被通知回山顶领身份证](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%88%9A%E8%B5%B0%E4%B8%8B%E6%B3%B0%E5%B1%B1%E8%A2%AB%E9%80%9A%E7%9F%A5%E5%9B%9E%E5%B1%B1%E9%A1%B6%E9%A2%86%E8%BA%AB%E4%BB%BD%E8%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -35,6 +35,6 @@
 4. [为民营经济保驾护航](https://www.baidu.com/s?wd=%E4%B8%BA%E6%B0%91%E8%90%A5%E7%BB%8F%E6%B5%8E%E4%BF%9D%E9%A9%BE%E6%8A%A4%E8%88%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中建八局回应高铁事件：高度重视](https://www.baidu.com/s?wd=%E4%B8%AD%E5%BB%BA%E5%85%AB%E5%B1%80%E5%9B%9E%E5%BA%94%E9%AB%98%E9%93%81%E4%BA%8B%E4%BB%B6%EF%BC%9A%E9%AB%98%E5%BA%A6%E9%87%8D%E8%A7%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [网友偶遇张颂文考科目二](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%81%B6%E9%81%87%E5%BC%A0%E9%A2%82%E6%96%87%E8%80%83%E7%A7%91%E7%9B%AE%E4%BA%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [坐运-20上学是什么样的体验](https://www.baidu.com/s?wd=%E5%9D%90%E8%BF%90-20%E4%B8%8A%E5%AD%A6%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E4%BD%93%E9%AA%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [航班起飞忘加油折返？湖南航空辟谣](https://www.baidu.com/s?wd=%E8%88%AA%E7%8F%AD%E8%B5%B7%E9%A3%9E%E5%BF%98%E5%8A%A0%E6%B2%B9%E6%8A%98%E8%BF%94%EF%BC%9F%E6%B9%96%E5%8D%97%E8%88%AA%E7%A9%BA%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女孩地铁晕倒大便失禁女子帮清理](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%9C%B0%E9%93%81%E6%99%95%E5%80%92%E5%A4%A7%E4%BE%BF%E5%A4%B1%E7%A6%81%E5%A5%B3%E5%AD%90%E5%B8%AE%E6%B8%85%E7%90%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [航班起飞忘加油折返？湖南航空辟谣](https://www.baidu.com/s?wd=%E8%88%AA%E7%8F%AD%E8%B5%B7%E9%A3%9E%E5%BF%98%E5%8A%A0%E6%B2%B9%E6%8A%98%E8%BF%94%EF%BC%9F%E6%B9%96%E5%8D%97%E8%88%AA%E7%A9%BA%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子透支15万买私教课退款被拒](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%80%8F%E6%94%AF15%E4%B8%87%E4%B9%B0%E7%A7%81%E6%95%99%E8%AF%BE%E9%80%80%E6%AC%BE%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子刚走下泰山被通知回山顶领身份证](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%88%9A%E8%B5%B0%E4%B8%8B%E6%B3%B0%E5%B1%B1%E8%A2%AB%E9%80%9A%E7%9F%A5%E5%9B%9E%E5%B1%B1%E9%A1%B6%E9%A2%86%E8%BA%AB%E4%BB%BD%E8%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
