@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-20 19:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-20 19:47:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [中建八局被实名举报](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%BB%BA%E5%85%AB%E5%B1%80%E8%A2%AB%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%23&t=31&band_rank=6&Refer=top)<br />
 7. [清华录取通知书寄到全家乐开花男生一脸淡定](https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8D%8E%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E5%AF%84%E5%88%B0%E5%85%A8%E5%AE%B6%E4%B9%90%E5%BC%80%E8%8A%B1%E7%94%B7%E7%94%9F%E4%B8%80%E8%84%B8%E6%B7%A1%E5%AE%9A%23&t=31&band_rank=7&Refer=top)<br />
 8. [迪丽热巴刘宇宁穿黑衣服不告诉龚俊](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%88%98%E5%AE%87%E5%AE%81%E7%A9%BF%E9%BB%91%E8%A1%A3%E6%9C%8D%E4%B8%8D%E5%91%8A%E8%AF%89%E9%BE%9A%E4%BF%8A%23&t=31&band_rank=8&Refer=top)<br />
-9. [南航回应机票近4万元只有1瓶水](https://s.weibo.com/weibo?q=%23%E5%8D%97%E8%88%AA%E5%9B%9E%E5%BA%94%E6%9C%BA%E7%A5%A8%E8%BF%914%E4%B8%87%E5%85%83%E5%8F%AA%E6%9C%891%E7%93%B6%E6%B0%B4%23&t=31&band_rank=9&Refer=top)<br />
+9. [三观巨正的国产剧男女主](https://s.weibo.com/weibo?q=%23%E4%B8%89%E8%A7%82%E5%B7%A8%E6%AD%A3%E7%9A%84%E5%9B%BD%E4%BA%A7%E5%89%A7%E7%94%B7%E5%A5%B3%E4%B8%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
