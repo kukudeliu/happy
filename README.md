@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-21 13:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-21 13:56:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [李玟讣闻](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E8%AE%A3%E9%97%BB%23&t=31&band_rank=6&Refer=top)<br />
 7. [孟宴臣叫孟沁了](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AE%B4%E8%87%A3%E5%8F%AB%E5%AD%9F%E6%B2%81%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [asap](https://s.weibo.com/weibo?q=asap&t=31&band_rank=8&Refer=top)<br />
-9. [重庆暴雨开车如开船](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E6%9A%B4%E9%9B%A8%E5%BC%80%E8%BD%A6%E5%A6%82%E5%BC%80%E8%88%B9%23&t=31&band_rank=9&Refer=top)<br />
+9. [bw](https://s.weibo.com/weibo?q=bw&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
