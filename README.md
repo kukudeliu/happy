@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-21 14:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-21 14:08:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [杨洋王楚然杨超越版恶作剧之吻](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B4%8B%E7%8E%8B%E6%A5%9A%E7%84%B6%E6%9D%A8%E8%B6%85%E8%B6%8A%E7%89%88%E6%81%B6%E4%BD%9C%E5%89%A7%E4%B9%8B%E5%90%BB%23&t=31&band_rank=5&Refer=top)<br />
 6. [李玟讣闻](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E8%AE%A3%E9%97%BB%23&t=31&band_rank=6&Refer=top)<br />
 7. [孟宴臣叫孟沁了](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AE%B4%E8%87%A3%E5%8F%AB%E5%AD%9F%E6%B2%81%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [asap](https://s.weibo.com/weibo?q=asap&t=31&band_rank=8&Refer=top)<br />
-9. [bw](https://s.weibo.com/weibo?q=bw&t=31&band_rank=9&Refer=top)<br />
+8. [bw](https://s.weibo.com/weibo?q=bw&t=31&band_rank=8&Refer=top)<br />
+9. [只有白敬亭觉得虐吧](https://s.weibo.com/weibo?q=%E5%8F%AA%E6%9C%89%E7%99%BD%E6%95%AC%E4%BA%AD%E8%A7%89%E5%BE%97%E8%99%90%E5%90%A7&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
