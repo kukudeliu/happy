@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-21 09:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-21 09:35:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [肉铺摊主用切肉刀刮脚？市监局：属实](https://www.baidu.com/s?wd=%E8%82%89%E9%93%BA%E6%91%8A%E4%B8%BB%E7%94%A8%E5%88%87%E8%82%89%E5%88%80%E5%88%AE%E8%84%9A%EF%BC%9F%E5%B8%82%E7%9B%91%E5%B1%80%EF%BC%9A%E5%B1%9E%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [今日二伏 你吃面了吗](https://www.baidu.com/s?wd=%E4%BB%8A%E6%97%A5%E4%BA%8C%E4%BC%8F+%E4%BD%A0%E5%90%83%E9%9D%A2%E4%BA%86%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男孩在家烧书引起失火从18楼跳下](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E5%9C%A8%E5%AE%B6%E7%83%A7%E4%B9%A6%E5%BC%95%E8%B5%B7%E5%A4%B1%E7%81%AB%E4%BB%8E18%E6%A5%BC%E8%B7%B3%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [被北大录取女生分享经验强调没手机](https://www.baidu.com/s?wd=%E8%A2%AB%E5%8C%97%E5%A4%A7%E5%BD%95%E5%8F%96%E5%A5%B3%E7%94%9F%E5%88%86%E4%BA%AB%E7%BB%8F%E9%AA%8C%E5%BC%BA%E8%B0%83%E6%B2%A1%E6%89%8B%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [年轻人给芒果核梳毛被指不务正业](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%BB%99%E8%8A%92%E6%9E%9C%E6%A0%B8%E6%A2%B3%E6%AF%9B%E8%A2%AB%E6%8C%87%E4%B8%8D%E5%8A%A1%E6%AD%A3%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [年轻人给芒果核梳毛被指不务正业](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%BB%99%E8%8A%92%E6%9E%9C%E6%A0%B8%E6%A2%B3%E6%AF%9B%E8%A2%AB%E6%8C%87%E4%B8%8D%E5%8A%A1%E6%AD%A3%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [被北大录取女生分享经验强调没手机](https://www.baidu.com/s?wd=%E8%A2%AB%E5%8C%97%E5%A4%A7%E5%BD%95%E5%8F%96%E5%A5%B3%E7%94%9F%E5%88%86%E4%BA%AB%E7%BB%8F%E9%AA%8C%E5%BC%BA%E8%B0%83%E6%B2%A1%E6%89%8B%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [肉铺摊主用切肉刀刮脚？市监局：属实](https://www.baidu.com/s?wd=%E8%82%89%E9%93%BA%E6%91%8A%E4%B8%BB%E7%94%A8%E5%88%87%E8%82%89%E5%88%80%E5%88%AE%E8%84%9A%EF%BC%9F%E5%B8%82%E7%9B%91%E5%B1%80%EF%BC%9A%E5%B1%9E%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [今日二伏 你吃面了吗](https://www.baidu.com/s?wd=%E4%BB%8A%E6%97%A5%E4%BA%8C%E4%BC%8F+%E4%BD%A0%E5%90%83%E9%9D%A2%E4%BA%86%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男孩在家烧书引起失火从18楼跳下](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E5%9C%A8%E5%AE%B6%E7%83%A7%E4%B9%A6%E5%BC%95%E8%B5%B7%E5%A4%B1%E7%81%AB%E4%BB%8E18%E6%A5%BC%E8%B7%B3%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [被北大录取女生分享经验强调没手机](https://www.baidu.com/s?wd=%E8%A2%AB%E5%8C%97%E5%A4%A7%E5%BD%95%E5%8F%96%E5%A5%B3%E7%94%9F%E5%88%86%E4%BA%AB%E7%BB%8F%E9%AA%8C%E5%BC%BA%E8%B0%83%E6%B2%A1%E6%89%8B%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [年轻人给芒果核梳毛被指不务正业](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%BB%99%E8%8A%92%E6%9E%9C%E6%A0%B8%E6%A2%B3%E6%AF%9B%E8%A2%AB%E6%8C%87%E4%B8%8D%E5%8A%A1%E6%AD%A3%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [年轻人给芒果核梳毛被指不务正业](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%BB%99%E8%8A%92%E6%9E%9C%E6%A0%B8%E6%A2%B3%E6%AF%9B%E8%A2%AB%E6%8C%87%E4%B8%8D%E5%8A%A1%E6%AD%A3%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [被北大录取女生分享经验强调没手机](https://www.baidu.com/s?wd=%E8%A2%AB%E5%8C%97%E5%A4%A7%E5%BD%95%E5%8F%96%E5%A5%B3%E7%94%9F%E5%88%86%E4%BA%AB%E7%BB%8F%E9%AA%8C%E5%BC%BA%E8%B0%83%E6%B2%A1%E6%89%8B%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
