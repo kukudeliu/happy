@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-22 05:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-22 05:04:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [西安警方已控制13名回流生涉案人员](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E8%AD%A6%E6%96%B9%E5%B7%B2%E6%8E%A7%E5%88%B613%E5%90%8D%E5%9B%9E%E6%B5%81%E7%94%9F%E6%B6%89%E6%A1%88%E4%BA%BA%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [44岁工程师在前东家坠亡 生前曾讨薪](https://www.baidu.com/s?wd=44%E5%B2%81%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%9C%A8%E5%89%8D%E4%B8%9C%E5%AE%B6%E5%9D%A0%E4%BA%A1+%E7%94%9F%E5%89%8D%E6%9B%BE%E8%AE%A8%E8%96%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [00后以抑郁想自杀为由拒服兵役](https://www.baidu.com/s?wd=00%E5%90%8E%E4%BB%A5%E6%8A%91%E9%83%81%E6%83%B3%E8%87%AA%E6%9D%80%E4%B8%BA%E7%94%B1%E6%8B%92%E6%9C%8D%E5%85%B5%E5%BD%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [暴雨后怎可坚持在洪水中“吃席”？](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E5%90%8E%E6%80%8E%E5%8F%AF%E5%9D%9A%E6%8C%81%E5%9C%A8%E6%B4%AA%E6%B0%B4%E4%B8%AD%E2%80%9C%E5%90%83%E5%B8%AD%E2%80%9D%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [“中考疑被偷分”事件将鉴定笔迹](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E8%80%83%E7%96%91%E8%A2%AB%E5%81%B7%E5%88%86%E2%80%9D%E4%BA%8B%E4%BB%B6%E5%B0%86%E9%89%B4%E5%AE%9A%E7%AC%94%E8%BF%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [游戏主播回应在直播中吐血](https://www.baidu.com/s?wd=%E6%B8%B8%E6%88%8F%E4%B8%BB%E6%92%AD%E5%9B%9E%E5%BA%94%E5%9C%A8%E7%9B%B4%E6%92%AD%E4%B8%AD%E5%90%90%E8%A1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [西安警方已控制13名回流生涉案人员](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E8%AD%A6%E6%96%B9%E5%B7%B2%E6%8E%A7%E5%88%B613%E5%90%8D%E5%9B%9E%E6%B5%81%E7%94%9F%E6%B6%89%E6%A1%88%E4%BA%BA%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [44岁工程师在前东家坠亡 生前曾讨薪](https://www.baidu.com/s?wd=44%E5%B2%81%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%9C%A8%E5%89%8D%E4%B8%9C%E5%AE%B6%E5%9D%A0%E4%BA%A1+%E7%94%9F%E5%89%8D%E6%9B%BE%E8%AE%A8%E8%96%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [00后以抑郁想自杀为由拒服兵役](https://www.baidu.com/s?wd=00%E5%90%8E%E4%BB%A5%E6%8A%91%E9%83%81%E6%83%B3%E8%87%AA%E6%9D%80%E4%B8%BA%E7%94%B1%E6%8B%92%E6%9C%8D%E5%85%B5%E5%BD%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [暴雨后怎可坚持在洪水中“吃席”？](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E5%90%8E%E6%80%8E%E5%8F%AF%E5%9D%9A%E6%8C%81%E5%9C%A8%E6%B4%AA%E6%B0%B4%E4%B8%AD%E2%80%9C%E5%90%83%E5%B8%AD%E2%80%9D%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [“中考疑被偷分”事件将鉴定笔迹](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E8%80%83%E7%96%91%E8%A2%AB%E5%81%B7%E5%88%86%E2%80%9D%E4%BA%8B%E4%BB%B6%E5%B0%86%E9%89%B4%E5%AE%9A%E7%AC%94%E8%BF%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [游戏主播回应在直播中吐血](https://www.baidu.com/s?wd=%E6%B8%B8%E6%88%8F%E4%B8%BB%E6%92%AD%E5%9B%9E%E5%BA%94%E5%9C%A8%E7%9B%B4%E6%92%AD%E4%B8%AD%E5%90%90%E8%A1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
