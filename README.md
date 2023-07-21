@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-22 00:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-22 00:49:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [亲生的阿瑟都不能上桌许沁凭什么窒息](https://s.weibo.com/weibo?q=%23%E4%BA%B2%E7%94%9F%E7%9A%84%E9%98%BF%E7%91%9F%E9%83%BD%E4%B8%8D%E8%83%BD%E4%B8%8A%E6%A1%8C%E8%AE%B8%E6%B2%81%E5%87%AD%E4%BB%80%E4%B9%88%E7%AA%92%E6%81%AF%23&t=31&band_rank=4&Refer=top)<br />
 5. [杨颖问儿子在学校有没有人追你](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E9%A2%96%E9%97%AE%E5%84%BF%E5%AD%90%E5%9C%A8%E5%AD%A6%E6%A0%A1%E6%9C%89%E6%B2%A1%E6%9C%89%E4%BA%BA%E8%BF%BD%E4%BD%A0%23&t=31&band_rank=5&Refer=top)<br />
 6. [跑男回应打错Angelababy范丞丞名字](https://s.weibo.com/weibo?q=%23%E8%B7%91%E7%94%B7%E5%9B%9E%E5%BA%94%E6%89%93%E9%94%99Angelababy%E8%8C%83%E4%B8%9E%E4%B8%9E%E5%90%8D%E5%AD%97%23&t=31&band_rank=6&Refer=top)<br />
-7. [跑男后期 游泳圈](https://s.weibo.com/weibo?q=%E8%B7%91%E7%94%B7%E5%90%8E%E6%9C%9F%20%E6%B8%B8%E6%B3%B3%E5%9C%88&t=31&band_rank=7&Refer=top)<br />
+7. [我爱床 我要跟床结婚](https://s.weibo.com/weibo?q=%E6%88%91%E7%88%B1%E5%BA%8A%20%E6%88%91%E8%A6%81%E8%B7%9F%E5%BA%8A%E7%BB%93%E5%A9%9A&t=31&band_rank=7&Refer=top)<br />
 8. [她自己叫林徽因就够了](https://s.weibo.com/weibo?q=%E5%A5%B9%E8%87%AA%E5%B7%B1%E5%8F%AB%E6%9E%97%E5%BE%BD%E5%9B%A0%E5%B0%B1%E5%A4%9F%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [我爱床 我要跟床结婚](https://s.weibo.com/weibo?q=%E6%88%91%E7%88%B1%E5%BA%8A%20%E6%88%91%E8%A6%81%E8%B7%9F%E5%BA%8A%E7%BB%93%E5%A9%9A&t=31&band_rank=9&Refer=top)<br />
+9. [男子被骗缅北回国后狂扇耳光](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%A2%AB%E9%AA%97%E7%BC%85%E5%8C%97%E5%9B%9E%E5%9B%BD%E5%90%8E%E7%8B%82%E6%89%87%E8%80%B3%E5%85%89%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -25,7 +25,7 @@
 6. [韩总统尹锡悦岳母当庭被捕](https://www.baidu.com/s?wd=%E9%9F%A9%E6%80%BB%E7%BB%9F%E5%B0%B9%E9%94%A1%E6%82%A6%E5%B2%B3%E6%AF%8D%E5%BD%93%E5%BA%AD%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [莱荣高铁举报方：中建八局称是误会](https://www.baidu.com/s?wd=%E8%8E%B1%E8%8D%A3%E9%AB%98%E9%93%81%E4%B8%BE%E6%8A%A5%E6%96%B9%EF%BC%9A%E4%B8%AD%E5%BB%BA%E5%85%AB%E5%B1%80%E7%A7%B0%E6%98%AF%E8%AF%AF%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [2名辅警救人均遇难 其中1人刚订婚](https://www.baidu.com/s?wd=2%E5%90%8D%E8%BE%85%E8%AD%A6%E6%95%91%E4%BA%BA%E5%9D%87%E9%81%87%E9%9A%BE+%E5%85%B6%E4%B8%AD1%E4%BA%BA%E5%88%9A%E8%AE%A2%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [广州南站扶梯拥堵：2旅客轻微扭伤](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E5%8D%97%E7%AB%99%E6%89%B6%E6%A2%AF%E6%8B%A5%E5%A0%B5%EF%BC%9A2%E6%97%85%E5%AE%A2%E8%BD%BB%E5%BE%AE%E6%89%AD%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [官方：将养老机构内设医疗纳入医保](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%EF%BC%9A%E5%B0%86%E5%85%BB%E8%80%81%E6%9C%BA%E6%9E%84%E5%86%85%E8%AE%BE%E5%8C%BB%E7%96%97%E7%BA%B3%E5%85%A5%E5%8C%BB%E4%BF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [韩总统尹锡悦岳母当庭被捕](https://www.baidu.com/s?wd=%E9%9F%A9%E6%80%BB%E7%BB%9F%E5%B0%B9%E9%94%A1%E6%82%A6%E5%B2%B3%E6%AF%8D%E5%BD%93%E5%BA%AD%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [莱荣高铁举报方：中建八局称是误会](https://www.baidu.com/s?wd=%E8%8E%B1%E8%8D%A3%E9%AB%98%E9%93%81%E4%B8%BE%E6%8A%A5%E6%96%B9%EF%BC%9A%E4%B8%AD%E5%BB%BA%E5%85%AB%E5%B1%80%E7%A7%B0%E6%98%AF%E8%AF%AF%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [2名辅警救人均遇难 其中1人刚订婚](https://www.baidu.com/s?wd=2%E5%90%8D%E8%BE%85%E8%AD%A6%E6%95%91%E4%BA%BA%E5%9D%87%E9%81%87%E9%9A%BE+%E5%85%B6%E4%B8%AD1%E4%BA%BA%E5%88%9A%E8%AE%A2%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [广州南站扶梯拥堵：2旅客轻微扭伤](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E5%8D%97%E7%AB%99%E6%89%B6%E6%A2%AF%E6%8B%A5%E5%A0%B5%EF%BC%9A2%E6%97%85%E5%AE%A2%E8%BD%BB%E5%BE%AE%E6%89%AD%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [官方：将养老机构内设医疗纳入医保](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%EF%BC%9A%E5%B0%86%E5%85%BB%E8%80%81%E6%9C%BA%E6%9E%84%E5%86%85%E8%AE%BE%E5%8C%BB%E7%96%97%E7%BA%B3%E5%85%A5%E5%8C%BB%E4%BF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
