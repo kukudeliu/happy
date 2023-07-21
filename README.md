@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-21 16:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-21 16:22:02</h4></div>
 
 > 微博  
 
-1. [范丞丞也在劝魏大勋](https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E4%B9%9F%E5%9C%A8%E5%8A%9D%E9%AD%8F%E5%A4%A7%E5%8B%8B%23&t=31&band_rank=1&Refer=top)<br />
-2. [黄子韬徐艺洋难哄](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%BE%90%E8%89%BA%E6%B4%8B%E9%9A%BE%E5%93%84%23&t=31&band_rank=2&Refer=top)<br />
+1. [黄子韬徐艺洋难哄](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%BE%90%E8%89%BA%E6%B4%8B%E9%9A%BE%E5%93%84%23&t=31&band_rank=1&Refer=top)<br />
+2. [范丞丞也在劝魏大勋](https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E4%B9%9F%E5%9C%A8%E5%8A%9D%E9%AD%8F%E5%A4%A7%E5%8B%8B%23&t=31&band_rank=2&Refer=top)<br />
 3. [成都大运会倒计时1周](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%A4%A7%E8%BF%90%E4%BC%9A%E5%80%92%E8%AE%A1%E6%97%B61%E5%91%A8%23&t=31&band_rank=3&Refer=top)<br />
 4. [外媒评魏大勋](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%AA%92%E8%AF%84%E9%AD%8F%E5%A4%A7%E5%8B%8B%23&t=31&band_rank=4&Refer=top)<br />
 5. [李佳琦与母亲合开新公司](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E4%B8%8E%E6%AF%8D%E4%BA%B2%E5%90%88%E5%BC%80%E6%96%B0%E5%85%AC%E5%8F%B8%23&t=31&band_rank=5&Refer=top)<br />
