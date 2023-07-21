@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-21 22:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-21 22:41:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [TFBOYS演唱会今天官宣的原因](https://s.weibo.com/weibo?q=%23TFBOYS%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BB%8A%E5%A4%A9%E5%AE%98%E5%AE%A3%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=6&Refer=top)<br />
 7. [男子被骗缅北回国后狂扇耳光](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%A2%AB%E9%AA%97%E7%BC%85%E5%8C%97%E5%9B%9E%E5%9B%BD%E5%90%8E%E7%8B%82%E6%89%87%E8%80%B3%E5%85%89%23&t=31&band_rank=7&Refer=top)<br />
 8. [男孩痛哭跪谢回收空调师傅多给1000元](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E7%97%9B%E5%93%AD%E8%B7%AA%E8%B0%A2%E5%9B%9E%E6%94%B6%E7%A9%BA%E8%B0%83%E5%B8%88%E5%82%85%E5%A4%9A%E7%BB%991000%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [浙FDL3988闯红灯违章已撤销](https://s.weibo.com/weibo?q=%23%E6%B5%99FDL3988%E9%97%AF%E7%BA%A2%E7%81%AF%E8%BF%9D%E7%AB%A0%E5%B7%B2%E6%92%A4%E9%94%80%23&t=31&band_rank=9&Refer=top)<br />
+9. [中建五局一项目经理工作群辱骂员工](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%BB%BA%E4%BA%94%E5%B1%80%E4%B8%80%E9%A1%B9%E7%9B%AE%E7%BB%8F%E7%90%86%E5%B7%A5%E4%BD%9C%E7%BE%A4%E8%BE%B1%E9%AA%82%E5%91%98%E5%B7%A5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
