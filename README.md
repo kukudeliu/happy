@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-21 13:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-21 13:40:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [李玟讣闻](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E8%AE%A3%E9%97%BB%23&t=31&band_rank=6&Refer=top)<br />
 7. [许沁的虎扑评分](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%B2%81%E7%9A%84%E8%99%8E%E6%89%91%E8%AF%84%E5%88%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [asap](https://s.weibo.com/weibo?q=asap&t=31&band_rank=8&Refer=top)<br />
-9. [王者峡谷出现手机](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E5%B3%A1%E8%B0%B7%E5%87%BA%E7%8E%B0%E6%89%8B%E6%9C%BA%23&t=31&band_rank=9&Refer=top)<br />
+9. [重庆暴雨开车如开船](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E6%9A%B4%E9%9B%A8%E5%BC%80%E8%BD%A6%E5%A6%82%E5%BC%80%E8%88%B9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
