@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-22 01:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-22 01:26:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [莱荣高铁举报方：中建八局称是误会](https://www.baidu.com/s?wd=%E8%8E%B1%E8%8D%A3%E9%AB%98%E9%93%81%E4%B8%BE%E6%8A%A5%E6%96%B9%EF%BC%9A%E4%B8%AD%E5%BB%BA%E5%85%AB%E5%B1%80%E7%A7%B0%E6%98%AF%E8%AF%AF%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子偷铜被抓遭员工跪压鞭打](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%B7%E9%93%9C%E8%A2%AB%E6%8A%93%E9%81%AD%E5%91%98%E5%B7%A5%E8%B7%AA%E5%8E%8B%E9%9E%AD%E6%89%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [6个月宝宝为逃避抽血顽强装睡](https://www.baidu.com/s?wd=6%E4%B8%AA%E6%9C%88%E5%AE%9D%E5%AE%9D%E4%B8%BA%E9%80%83%E9%81%BF%E6%8A%BD%E8%A1%80%E9%A1%BD%E5%BC%BA%E8%A3%85%E7%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [官方通报“清廉餐”：全面整改](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E2%80%9C%E6%B8%85%E5%BB%89%E9%A4%90%E2%80%9D%EF%BC%9A%E5%85%A8%E9%9D%A2%E6%95%B4%E6%94%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [浙FDL3988闯红灯违章已撤销](https://www.baidu.com/s?wd=%E6%B5%99FDL3988%E9%97%AF%E7%BA%A2%E7%81%AF%E8%BF%9D%E7%AB%A0%E5%B7%B2%E6%92%A4%E9%94%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [莱荣高铁举报方：中建八局称是误会](https://www.baidu.com/s?wd=%E8%8E%B1%E8%8D%A3%E9%AB%98%E9%93%81%E4%B8%BE%E6%8A%A5%E6%96%B9%EF%BC%9A%E4%B8%AD%E5%BB%BA%E5%85%AB%E5%B1%80%E7%A7%B0%E6%98%AF%E8%AF%AF%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子偷铜被抓遭员工跪压鞭打](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%B7%E9%93%9C%E8%A2%AB%E6%8A%93%E9%81%AD%E5%91%98%E5%B7%A5%E8%B7%AA%E5%8E%8B%E9%9E%AD%E6%89%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [6个月宝宝为逃避抽血顽强装睡](https://www.baidu.com/s?wd=6%E4%B8%AA%E6%9C%88%E5%AE%9D%E5%AE%9D%E4%B8%BA%E9%80%83%E9%81%BF%E6%8A%BD%E8%A1%80%E9%A1%BD%E5%BC%BA%E8%A3%85%E7%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [官方通报“清廉餐”：全面整改](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E2%80%9C%E6%B8%85%E5%BB%89%E9%A4%90%E2%80%9D%EF%BC%9A%E5%85%A8%E9%9D%A2%E6%95%B4%E6%94%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [浙FDL3988闯红灯违章已撤销](https://www.baidu.com/s?wd=%E6%B5%99FDL3988%E9%97%AF%E7%BA%A2%E7%81%AF%E8%BF%9D%E7%AB%A0%E5%B7%B2%E6%92%A4%E9%94%80&sa=fyb_news&rsv_dl=fyb_news)<br />
