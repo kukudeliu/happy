@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-21 13:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-21 13:09:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [00后以抑郁想自杀为由拒服兵役被罚](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E4%BB%A5%E6%8A%91%E9%83%81%E6%83%B3%E8%87%AA%E6%9D%80%E4%B8%BA%E7%94%B1%E6%8B%92%E6%9C%8D%E5%85%B5%E5%BD%B9%E8%A2%AB%E7%BD%9A%23&t=31&band_rank=4&Refer=top)<br />
 5. [孟宴臣叫孟沁了](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AE%B4%E8%87%A3%E5%8F%AB%E5%AD%9F%E6%B2%81%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [杨洋王楚然杨超越版恶作剧之吻](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B4%8B%E7%8E%8B%E6%A5%9A%E7%84%B6%E6%9D%A8%E8%B6%85%E8%B6%8A%E7%89%88%E6%81%B6%E4%BD%9C%E5%89%A7%E4%B9%8B%E5%90%BB%23&t=31&band_rank=6&Refer=top)<br />
-7. [asap](https://s.weibo.com/weibo?q=asap&t=31&band_rank=7&Refer=top)<br />
-8. [中餐厅7变了](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E9%A4%90%E5%8E%857%E5%8F%98%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+7. [中餐厅7变了](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E9%A4%90%E5%8E%857%E5%8F%98%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+8. [asap](https://s.weibo.com/weibo?q=asap&t=31&band_rank=8&Refer=top)<br />
 9. [丈夫为鼓励妻子产后恢复走一步发100](https://s.weibo.com/weibo?q=%23%E4%B8%88%E5%A4%AB%E4%B8%BA%E9%BC%93%E5%8A%B1%E5%A6%BB%E5%AD%90%E4%BA%A7%E5%90%8E%E6%81%A2%E5%A4%8D%E8%B5%B0%E4%B8%80%E6%AD%A5%E5%8F%91100%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
