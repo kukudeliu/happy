@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-22 06:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-22 06:42:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [男子被骗缅北回国后狂扇耳光](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%A2%AB%E9%AA%97%E7%BC%85%E5%8C%97%E5%9B%9E%E5%9B%BD%E5%90%8E%E7%8B%82%E6%89%87%E8%80%B3%E5%85%89%23&t=31&band_rank=5&Refer=top)<br />
 6. [6万个座位得有我一个吧](https://s.weibo.com/weibo?q=%236%E4%B8%87%E4%B8%AA%E5%BA%A7%E4%BD%8D%E5%BE%97%E6%9C%89%E6%88%91%E4%B8%80%E4%B8%AA%E5%90%A7%23&t=31&band_rank=6&Refer=top)<br />
 7. [Angelababy告别奔跑吧](https://s.weibo.com/weibo?q=%23Angelababy%E5%91%8A%E5%88%AB%E5%A5%94%E8%B7%91%E5%90%A7%23&t=31&band_rank=7&Refer=top)<br />
-8. [Ella把C位让给了谢娜](https://s.weibo.com/weibo?q=%23Ella%E6%8A%8AC%E4%BD%8D%E8%AE%A9%E7%BB%99%E4%BA%86%E8%B0%A2%E5%A8%9C%23&t=31&band_rank=8&Refer=top)<br />
+8. [肖战任敏玉骨遥收官战报](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E4%BB%BB%E6%95%8F%E7%8E%89%E9%AA%A8%E9%81%A5%E6%94%B6%E5%AE%98%E6%88%98%E6%8A%A5%23&t=31&band_rank=8&Refer=top)<br />
 9. [影帝届四大社恐](https://s.weibo.com/weibo?q=%E5%BD%B1%E5%B8%9D%E5%B1%8A%E5%9B%9B%E5%A4%A7%E7%A4%BE%E6%81%90&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
