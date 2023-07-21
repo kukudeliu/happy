@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-21 13:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-21 13:19:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [官方通报“清廉餐”：全面整改](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E2%80%9C%E6%B8%85%E5%BB%89%E9%A4%90%E2%80%9D%EF%BC%9A%E5%85%A8%E9%9D%A2%E6%95%B4%E6%94%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [年轻人给芒果核梳毛被指不务正业](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%BB%99%E8%8A%92%E6%9E%9C%E6%A0%B8%E6%A2%B3%E6%AF%9B%E8%A2%AB%E6%8C%87%E4%B8%8D%E5%8A%A1%E6%AD%A3%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子怀疑妻子出轨当街捅死2人](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%80%80%E7%96%91%E5%A6%BB%E5%AD%90%E5%87%BA%E8%BD%A8%E5%BD%93%E8%A1%97%E6%8D%85%E6%AD%BB2%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [私家车因轮胎有泥被城管锁胎禁止上路](https://www.baidu.com/s?wd=%E7%A7%81%E5%AE%B6%E8%BD%A6%E5%9B%A0%E8%BD%AE%E8%83%8E%E6%9C%89%E6%B3%A5%E8%A2%AB%E5%9F%8E%E7%AE%A1%E9%94%81%E8%83%8E%E7%A6%81%E6%AD%A2%E4%B8%8A%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [高铁乘客询问素菜套餐被列车员嘲笑](https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E4%B9%98%E5%AE%A2%E8%AF%A2%E9%97%AE%E7%B4%A0%E8%8F%9C%E5%A5%97%E9%A4%90%E8%A2%AB%E5%88%97%E8%BD%A6%E5%91%98%E5%98%B2%E7%AC%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [女孩跳河获救后被父亲踹倒](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E8%B7%B3%E6%B2%B3%E8%8E%B7%E6%95%91%E5%90%8E%E8%A2%AB%E7%88%B6%E4%BA%B2%E8%B8%B9%E5%80%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [官方通报“清廉餐”：全面整改](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E2%80%9C%E6%B8%85%E5%BB%89%E9%A4%90%E2%80%9D%EF%BC%9A%E5%85%A8%E9%9D%A2%E6%95%B4%E6%94%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [年轻人给芒果核梳毛被指不务正业](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%BB%99%E8%8A%92%E6%9E%9C%E6%A0%B8%E6%A2%B3%E6%AF%9B%E8%A2%AB%E6%8C%87%E4%B8%8D%E5%8A%A1%E6%AD%A3%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子怀疑妻子出轨当街捅死2人](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%80%80%E7%96%91%E5%A6%BB%E5%AD%90%E5%87%BA%E8%BD%A8%E5%BD%93%E8%A1%97%E6%8D%85%E6%AD%BB2%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [私家车因轮胎有泥被城管锁胎禁止上路](https://www.baidu.com/s?wd=%E7%A7%81%E5%AE%B6%E8%BD%A6%E5%9B%A0%E8%BD%AE%E8%83%8E%E6%9C%89%E6%B3%A5%E8%A2%AB%E5%9F%8E%E7%AE%A1%E9%94%81%E8%83%8E%E7%A6%81%E6%AD%A2%E4%B8%8A%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [高铁乘客询问素菜套餐被列车员嘲笑](https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E4%B9%98%E5%AE%A2%E8%AF%A2%E9%97%AE%E7%B4%A0%E8%8F%9C%E5%A5%97%E9%A4%90%E8%A2%AB%E5%88%97%E8%BD%A6%E5%91%98%E5%98%B2%E7%AC%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [女孩跳河获救后被父亲踹倒](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E8%B7%B3%E6%B2%B3%E8%8E%B7%E6%95%91%E5%90%8E%E8%A2%AB%E7%88%B6%E4%BA%B2%E8%B8%B9%E5%80%92&sa=fyb_news&rsv_dl=fyb_news)<br />
