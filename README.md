@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-21 15:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-21 15:22:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [00后以抑郁想自杀为由拒服兵役被罚](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E4%BB%A5%E6%8A%91%E9%83%81%E6%83%B3%E8%87%AA%E6%9D%80%E4%B8%BA%E7%94%B1%E6%8B%92%E6%9C%8D%E5%85%B5%E5%BD%B9%E8%A2%AB%E7%BD%9A%23&t=31&band_rank=6&Refer=top)<br />
 7. [这期奔跑吧收官有好多大实话](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%9C%9F%E5%A5%94%E8%B7%91%E5%90%A7%E6%94%B6%E5%AE%98%E6%9C%89%E5%A5%BD%E5%A4%9A%E5%A4%A7%E5%AE%9E%E8%AF%9D%23&t=31&band_rank=7&Refer=top)<br />
 8. [bw](https://s.weibo.com/weibo?q=bw&t=31&band_rank=8&Refer=top)<br />
-9. [原来许沁原著更疯批](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%AE%B8%E6%B2%81%E5%8E%9F%E8%91%97%E6%9B%B4%E7%96%AF%E6%89%B9%23&t=31&band_rank=9&Refer=top)<br />
+9. [封神第一部票房破亿](https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E%E7%AC%AC%E4%B8%80%E9%83%A8%E7%A5%A8%E6%88%BF%E7%A0%B4%E4%BA%BF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
