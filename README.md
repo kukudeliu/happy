@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-21 17:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-21 17:47:01</h4></div>
 
 > 微博  
 
 1. [长相思定档](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=1&Refer=top)<br />
 2. [女主扁平化](https://s.weibo.com/weibo?q=%E5%A5%B3%E4%B8%BB%E6%89%81%E5%B9%B3%E5%8C%96&t=31&band_rank=2&Refer=top)<br />
 3. [成都大运会倒计时1周](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%A4%A7%E8%BF%90%E4%BC%9A%E5%80%92%E8%AE%A1%E6%97%B61%E5%91%A8%23&t=31&band_rank=3&Refer=top)<br />
-4. [起猛了看见高铁进地铁站了](https://s.weibo.com/weibo?q=%23%E8%B5%B7%E7%8C%9B%E4%BA%86%E7%9C%8B%E8%A7%81%E9%AB%98%E9%93%81%E8%BF%9B%E5%9C%B0%E9%93%81%E7%AB%99%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
-5. [警方通报一老人持斧追砍两小孩](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B8%80%E8%80%81%E4%BA%BA%E6%8C%81%E6%96%A7%E8%BF%BD%E7%A0%8D%E4%B8%A4%E5%B0%8F%E5%AD%A9%23&t=31&band_rank=5&Refer=top)<br />
+4. [警方通报一老人持斧追砍两小孩](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B8%80%E8%80%81%E4%BA%BA%E6%8C%81%E6%96%A7%E8%BF%BD%E7%A0%8D%E4%B8%A4%E5%B0%8F%E5%AD%A9%23&t=31&band_rank=4&Refer=top)<br />
+5. [起猛了看见高铁进地铁站了](https://s.weibo.com/weibo?q=%23%E8%B5%B7%E7%8C%9B%E4%BA%86%E7%9C%8B%E8%A7%81%E9%AB%98%E9%93%81%E8%BF%9B%E5%9C%B0%E9%93%81%E7%AB%99%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [1664迪丽热巴直播](https://s.weibo.com/weibo?q=1664%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9B%B4%E6%92%AD&t=31&band_rank=6&Refer=top)<br />
 7. [黄子韬徐艺洋难哄](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%BE%90%E8%89%BA%E6%B4%8B%E9%9A%BE%E5%93%84%23&t=31&band_rank=7&Refer=top)<br />
 8. [上海暴雨](https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E6%9A%B4%E9%9B%A8&t=31&band_rank=8&Refer=top)<br />
-9. [台湾一女大学生被高坠空调外机砸死](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E4%B8%80%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A2%AB%E9%AB%98%E5%9D%A0%E7%A9%BA%E8%B0%83%E5%A4%96%E6%9C%BA%E7%A0%B8%E6%AD%BB%23&t=31&band_rank=9&Refer=top)<br />
+9. [浙FDL3988闯红灯违章已撤销](https://s.weibo.com/weibo?q=%23%E6%B5%99FDL3988%E9%97%AF%E7%BA%A2%E7%81%AF%E8%BF%9D%E7%AB%A0%E5%B7%B2%E6%92%A4%E9%94%80%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
