@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-21 17:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-21 17:58:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [警方通报一老人持斧追砍两小孩](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B8%80%E8%80%81%E4%BA%BA%E6%8C%81%E6%96%A7%E8%BF%BD%E7%A0%8D%E4%B8%A4%E5%B0%8F%E5%AD%A9%23&t=31&band_rank=6&Refer=top)<br />
 7. [云南人真的好像小精灵啊](https://s.weibo.com/weibo?q=%23%E4%BA%91%E5%8D%97%E4%BA%BA%E7%9C%9F%E7%9A%84%E5%A5%BD%E5%83%8F%E5%B0%8F%E7%B2%BE%E7%81%B5%E5%95%8A%23&t=31&band_rank=7&Refer=top)<br />
 8. [黄子韬徐艺洋难哄](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%BE%90%E8%89%BA%E6%B4%8B%E9%9A%BE%E5%93%84%23&t=31&band_rank=8&Refer=top)<br />
-9. [台湾一女大学生被高坠空调外机砸死](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E4%B8%80%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A2%AB%E9%AB%98%E5%9D%A0%E7%A9%BA%E8%B0%83%E5%A4%96%E6%9C%BA%E7%A0%B8%E6%AD%BB%23&t=31&band_rank=9&Refer=top)<br />
+9. [上海暴雨](https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E6%9A%B4%E9%9B%A8&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
