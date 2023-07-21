@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-21 19:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-21 19:40:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [这么实诚的服装店老板可不多见了](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B9%88%E5%AE%9E%E8%AF%9A%E7%9A%84%E6%9C%8D%E8%A3%85%E5%BA%97%E8%80%81%E6%9D%BF%E5%8F%AF%E4%B8%8D%E5%A4%9A%E8%A7%81%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [女主扁平化](https://s.weibo.com/weibo?q=%E5%A5%B3%E4%B8%BB%E6%89%81%E5%B9%B3%E5%8C%96&t=31&band_rank=6&Refer=top)<br />
 7. [长相思定档](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=7&Refer=top)<br />
-8. [迪丽热巴海洋公主](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%B5%B7%E6%B4%8B%E5%85%AC%E4%B8%BB%23&t=31&band_rank=8&Refer=top)<br />
-9. [中建五局一项目经理工作群辱骂员工](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%BB%BA%E4%BA%94%E5%B1%80%E4%B8%80%E9%A1%B9%E7%9B%AE%E7%BB%8F%E7%90%86%E5%B7%A5%E4%BD%9C%E7%BE%A4%E8%BE%B1%E9%AA%82%E5%91%98%E5%B7%A5%23&t=31&band_rank=9&Refer=top)<br />
+8. [男孩痛哭跪谢回收空调师傅多给1000元](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E7%97%9B%E5%93%AD%E8%B7%AA%E8%B0%A2%E5%9B%9E%E6%94%B6%E7%A9%BA%E8%B0%83%E5%B8%88%E5%82%85%E5%A4%9A%E7%BB%991000%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
+9. [迪丽热巴海洋公主](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%B5%B7%E6%B4%8B%E5%85%AC%E4%B8%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
