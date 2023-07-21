@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-21 14:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-21 14:48:01</h4></div>
 
 > 微博  
 
 1. [李佳琦与母亲合开新公司](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E4%B8%8E%E6%AF%8D%E4%BA%B2%E5%90%88%E5%BC%80%E6%96%B0%E5%85%AC%E5%8F%B8%23&t=31&band_rank=1&Refer=top)<br />
 2. [许沁不敢向同事坦诚没车了](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%B2%81%E4%B8%8D%E6%95%A2%E5%90%91%E5%90%8C%E4%BA%8B%E5%9D%A6%E8%AF%9A%E6%B2%A1%E8%BD%A6%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [要促进民营经济做大做优做强](https://s.weibo.com/weibo?q=%23%E8%A6%81%E4%BF%83%E8%BF%9B%E6%B0%91%E8%90%A5%E7%BB%8F%E6%B5%8E%E5%81%9A%E5%A4%A7%E5%81%9A%E4%BC%98%E5%81%9A%E5%BC%BA%23&t=31&band_rank=3&Refer=top)<br />
-4. [刘奕君儿子看父亲的剧ptsd了](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%A5%95%E5%90%9B%E5%84%BF%E5%AD%90%E7%9C%8B%E7%88%B6%E4%BA%B2%E7%9A%84%E5%89%A7ptsd%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
-5. [原来许沁原著更疯批](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%AE%B8%E6%B2%81%E5%8E%9F%E8%91%97%E6%9B%B4%E7%96%AF%E6%89%B9%23&t=31&band_rank=5&Refer=top)<br />
+4. [原来许沁原著更疯批](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%AE%B8%E6%B2%81%E5%8E%9F%E8%91%97%E6%9B%B4%E7%96%AF%E6%89%B9%23&t=31&band_rank=4&Refer=top)<br />
+5. [刘奕君儿子看父亲的剧ptsd了](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%A5%95%E5%90%9B%E5%84%BF%E5%AD%90%E7%9C%8B%E7%88%B6%E4%BA%B2%E7%9A%84%E5%89%A7ptsd%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [00后以抑郁想自杀为由拒服兵役被罚](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E4%BB%A5%E6%8A%91%E9%83%81%E6%83%B3%E8%87%AA%E6%9D%80%E4%B8%BA%E7%94%B1%E6%8B%92%E6%9C%8D%E5%85%B5%E5%BD%B9%E8%A2%AB%E7%BD%9A%23&t=31&band_rank=6&Refer=top)<br />
 7. [男孩收到研究生录取通知书时正在工地和水泥](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E6%94%B6%E5%88%B0%E7%A0%94%E7%A9%B6%E7%94%9F%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E6%97%B6%E6%AD%A3%E5%9C%A8%E5%B7%A5%E5%9C%B0%E5%92%8C%E6%B0%B4%E6%B3%A5%23&t=31&band_rank=7&Refer=top)<br />
-8. [许沁的虎扑评分](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%B2%81%E7%9A%84%E8%99%8E%E6%89%91%E8%AF%84%E5%88%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [bw](https://s.weibo.com/weibo?q=bw&t=31&band_rank=9&Refer=top)<br />
+8. [封神第一部票房破亿](https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E%E7%AC%AC%E4%B8%80%E9%83%A8%E7%A5%A8%E6%88%BF%E7%A0%B4%E4%BA%BF%23&t=31&band_rank=8&Refer=top)<br />
+9. [许沁的虎扑评分](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%B2%81%E7%9A%84%E8%99%8E%E6%89%91%E8%AF%84%E5%88%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
