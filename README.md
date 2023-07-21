@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-22 04:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-22 04:49:01</h4></div>
 
 > 微博  
 
@@ -23,9 +23,9 @@
 4. [共建共享网络文明新画卷](https://www.baidu.com/s?wd=%E5%85%B1%E5%BB%BA%E5%85%B1%E4%BA%AB%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E6%96%B0%E7%94%BB%E5%8D%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [西安警方已控制13名回流生涉案人员](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E8%AD%A6%E6%96%B9%E5%B7%B2%E6%8E%A7%E5%88%B613%E5%90%8D%E5%9B%9E%E6%B5%81%E7%94%9F%E6%B6%89%E6%A1%88%E4%BA%BA%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [00后以抑郁想自杀为由拒服兵役](https://www.baidu.com/s?wd=00%E5%90%8E%E4%BB%A5%E6%8A%91%E9%83%81%E6%83%B3%E8%87%AA%E6%9D%80%E4%B8%BA%E7%94%B1%E6%8B%92%E6%9C%8D%E5%85%B5%E5%BD%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [暴雨后怎可坚持在洪水中“吃席”？](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E5%90%8E%E6%80%8E%E5%8F%AF%E5%9D%9A%E6%8C%81%E5%9C%A8%E6%B4%AA%E6%B0%B4%E4%B8%AD%E2%80%9C%E5%90%83%E5%B8%AD%E2%80%9D%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [范丞丞也在劝魏大勋](https://www.baidu.com/s?wd=%E8%8C%83%E4%B8%9E%E4%B8%9E%E4%B9%9F%E5%9C%A8%E5%8A%9D%E9%AD%8F%E5%A4%A7%E5%8B%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [四川路人串串式集体跳水救人](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E8%B7%AF%E4%BA%BA%E4%B8%B2%E4%B8%B2%E5%BC%8F%E9%9B%86%E4%BD%93%E8%B7%B3%E6%B0%B4%E6%95%91%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [范丞丞也在劝魏大勋](https://www.baidu.com/s?wd=%E8%8C%83%E4%B8%9E%E4%B8%9E%E4%B9%9F%E5%9C%A8%E5%8A%9D%E9%AD%8F%E5%A4%A7%E5%8B%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [暴雨后怎可坚持在洪水中“吃席”？](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E5%90%8E%E6%80%8E%E5%8F%AF%E5%9D%9A%E6%8C%81%E5%9C%A8%E6%B4%AA%E6%B0%B4%E4%B8%AD%E2%80%9C%E5%90%83%E5%B8%AD%E2%80%9D%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [44岁工程师在前东家坠亡 生前曾讨薪](https://www.baidu.com/s?wd=44%E5%B2%81%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%9C%A8%E5%89%8D%E4%B8%9C%E5%AE%B6%E5%9D%A0%E4%BA%A1+%E7%94%9F%E5%89%8D%E6%9B%BE%E8%AE%A8%E8%96%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -35,6 +35,6 @@
 4. [共建共享网络文明新画卷](https://www.baidu.com/s?wd=%E5%85%B1%E5%BB%BA%E5%85%B1%E4%BA%AB%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E6%96%B0%E7%94%BB%E5%8D%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [西安警方已控制13名回流生涉案人员](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E8%AD%A6%E6%96%B9%E5%B7%B2%E6%8E%A7%E5%88%B613%E5%90%8D%E5%9B%9E%E6%B5%81%E7%94%9F%E6%B6%89%E6%A1%88%E4%BA%BA%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [00后以抑郁想自杀为由拒服兵役](https://www.baidu.com/s?wd=00%E5%90%8E%E4%BB%A5%E6%8A%91%E9%83%81%E6%83%B3%E8%87%AA%E6%9D%80%E4%B8%BA%E7%94%B1%E6%8B%92%E6%9C%8D%E5%85%B5%E5%BD%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [暴雨后怎可坚持在洪水中“吃席”？](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E5%90%8E%E6%80%8E%E5%8F%AF%E5%9D%9A%E6%8C%81%E5%9C%A8%E6%B4%AA%E6%B0%B4%E4%B8%AD%E2%80%9C%E5%90%83%E5%B8%AD%E2%80%9D%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [范丞丞也在劝魏大勋](https://www.baidu.com/s?wd=%E8%8C%83%E4%B8%9E%E4%B8%9E%E4%B9%9F%E5%9C%A8%E5%8A%9D%E9%AD%8F%E5%A4%A7%E5%8B%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [四川路人串串式集体跳水救人](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E8%B7%AF%E4%BA%BA%E4%B8%B2%E4%B8%B2%E5%BC%8F%E9%9B%86%E4%BD%93%E8%B7%B3%E6%B0%B4%E6%95%91%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [范丞丞也在劝魏大勋](https://www.baidu.com/s?wd=%E8%8C%83%E4%B8%9E%E4%B8%9E%E4%B9%9F%E5%9C%A8%E5%8A%9D%E9%AD%8F%E5%A4%A7%E5%8B%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [暴雨后怎可坚持在洪水中“吃席”？](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E5%90%8E%E6%80%8E%E5%8F%AF%E5%9D%9A%E6%8C%81%E5%9C%A8%E6%B4%AA%E6%B0%B4%E4%B8%AD%E2%80%9C%E5%90%83%E5%B8%AD%E2%80%9D%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [44岁工程师在前东家坠亡 生前曾讨薪](https://www.baidu.com/s?wd=44%E5%B2%81%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%9C%A8%E5%89%8D%E4%B8%9C%E5%AE%B6%E5%9D%A0%E4%BA%A1+%E7%94%9F%E5%89%8D%E6%9B%BE%E8%AE%A8%E8%96%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
