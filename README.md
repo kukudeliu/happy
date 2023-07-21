@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-21 21:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-21 21:14:01</h4></div>
 
 > 微博  
 
@@ -23,9 +23,9 @@
 4. [共建共享网络文明新画卷](https://www.baidu.com/s?wd=%E5%85%B1%E5%BB%BA%E5%85%B1%E4%BA%AB%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E6%96%B0%E7%94%BB%E5%8D%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [山东一面包店推出知了猴面包](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E4%B8%80%E9%9D%A2%E5%8C%85%E5%BA%97%E6%8E%A8%E5%87%BA%E7%9F%A5%E4%BA%86%E7%8C%B4%E9%9D%A2%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [浙FDL3988闯红灯违章已撤销](https://www.baidu.com/s?wd=%E6%B5%99FDL3988%E9%97%AF%E7%BA%A2%E7%81%AF%E8%BF%9D%E7%AB%A0%E5%B7%B2%E6%92%A4%E9%94%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [广州南站扶梯拥堵：2旅客轻微扭伤](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E5%8D%97%E7%AB%99%E6%89%B6%E6%A2%AF%E6%8B%A5%E5%A0%B5%EF%BC%9A2%E6%97%85%E5%AE%A2%E8%BD%BB%E5%BE%AE%E6%89%AD%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [官方：将养老机构内设医疗纳入医保](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%EF%BC%9A%E5%B0%86%E5%85%BB%E8%80%81%E6%9C%BA%E6%9E%84%E5%86%85%E8%AE%BE%E5%8C%BB%E7%96%97%E7%BA%B3%E5%85%A5%E5%8C%BB%E4%BF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [盛夏居家避暑指南](https://www.baidu.com/s?wd=%E7%9B%9B%E5%A4%8F%E5%B1%85%E5%AE%B6%E9%81%BF%E6%9A%91%E6%8C%87%E5%8D%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [飞机延误6小时发现金 乘客：消气了](https://www.baidu.com/s?wd=%E9%A3%9E%E6%9C%BA%E5%BB%B6%E8%AF%AF6%E5%B0%8F%E6%97%B6%E5%8F%91%E7%8E%B0%E9%87%91+%E4%B9%98%E5%AE%A2%EF%BC%9A%E6%B6%88%E6%B0%94%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [广州南站扶梯拥堵：2旅客轻微扭伤](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E5%8D%97%E7%AB%99%E6%89%B6%E6%A2%AF%E6%8B%A5%E5%A0%B5%EF%BC%9A2%E6%97%85%E5%AE%A2%E8%BD%BB%E5%BE%AE%E6%89%AD%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -35,6 +35,6 @@
 4. [共建共享网络文明新画卷](https://www.baidu.com/s?wd=%E5%85%B1%E5%BB%BA%E5%85%B1%E4%BA%AB%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E6%96%B0%E7%94%BB%E5%8D%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [山东一面包店推出知了猴面包](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E4%B8%80%E9%9D%A2%E5%8C%85%E5%BA%97%E6%8E%A8%E5%87%BA%E7%9F%A5%E4%BA%86%E7%8C%B4%E9%9D%A2%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [浙FDL3988闯红灯违章已撤销](https://www.baidu.com/s?wd=%E6%B5%99FDL3988%E9%97%AF%E7%BA%A2%E7%81%AF%E8%BF%9D%E7%AB%A0%E5%B7%B2%E6%92%A4%E9%94%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [广州南站扶梯拥堵：2旅客轻微扭伤](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E5%8D%97%E7%AB%99%E6%89%B6%E6%A2%AF%E6%8B%A5%E5%A0%B5%EF%BC%9A2%E6%97%85%E5%AE%A2%E8%BD%BB%E5%BE%AE%E6%89%AD%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [官方：将养老机构内设医疗纳入医保](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%EF%BC%9A%E5%B0%86%E5%85%BB%E8%80%81%E6%9C%BA%E6%9E%84%E5%86%85%E8%AE%BE%E5%8C%BB%E7%96%97%E7%BA%B3%E5%85%A5%E5%8C%BB%E4%BF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [盛夏居家避暑指南](https://www.baidu.com/s?wd=%E7%9B%9B%E5%A4%8F%E5%B1%85%E5%AE%B6%E9%81%BF%E6%9A%91%E6%8C%87%E5%8D%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [飞机延误6小时发现金 乘客：消气了](https://www.baidu.com/s?wd=%E9%A3%9E%E6%9C%BA%E5%BB%B6%E8%AF%AF6%E5%B0%8F%E6%97%B6%E5%8F%91%E7%8E%B0%E9%87%91+%E4%B9%98%E5%AE%A2%EF%BC%9A%E6%B6%88%E6%B0%94%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [广州南站扶梯拥堵：2旅客轻微扭伤](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E5%8D%97%E7%AB%99%E6%89%B6%E6%A2%AF%E6%8B%A5%E5%A0%B5%EF%BC%9A2%E6%97%85%E5%AE%A2%E8%BD%BB%E5%BE%AE%E6%89%AD%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
