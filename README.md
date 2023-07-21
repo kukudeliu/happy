@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-21 12:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-21 12:06:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [00后以抑郁想自杀为由拒服兵役被罚](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E4%BB%A5%E6%8A%91%E9%83%81%E6%83%B3%E8%87%AA%E6%9D%80%E4%B8%BA%E7%94%B1%E6%8B%92%E6%9C%8D%E5%85%B5%E5%BD%B9%E8%A2%AB%E7%BD%9A%23&t=31&band_rank=4&Refer=top)<br />
 5. [陈妍希忘了删文案](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A6%8D%E5%B8%8C%E5%BF%98%E4%BA%86%E5%88%A0%E6%96%87%E6%A1%88%23&t=31&band_rank=5&Refer=top)<br />
 6. [中餐厅7变了](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E9%A4%90%E5%8E%857%E5%8F%98%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [TFBOYS十周年演唱会座位图](https://s.weibo.com/weibo?q=TFBOYS%E5%8D%81%E5%91%A8%E5%B9%B4%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BA%A7%E4%BD%8D%E5%9B%BE&t=31&band_rank=7&Refer=top)<br />
-8. [周杰伦演唱会 猫眼](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%20%E7%8C%AB%E7%9C%BC&t=31&band_rank=8&Refer=top)<br />
+7. [周杰伦演唱会 猫眼](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%20%E7%8C%AB%E7%9C%BC&t=31&band_rank=7&Refer=top)<br />
+8. [TFBOYS十周年演唱会座位图](https://s.weibo.com/weibo?q=TFBOYS%E5%8D%81%E5%91%A8%E5%B9%B4%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BA%A7%E4%BD%8D%E5%9B%BE&t=31&band_rank=8&Refer=top)<br />
 9. [飞机延误6小时工作人员发现金补贴](https://s.weibo.com/weibo?q=%23%E9%A3%9E%E6%9C%BA%E5%BB%B6%E8%AF%AF6%E5%B0%8F%E6%97%B6%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%8F%91%E7%8E%B0%E9%87%91%E8%A1%A5%E8%B4%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
