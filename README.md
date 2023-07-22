@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-22 21:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-22 21:40:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [中国跳水队12金收官](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%B7%B3%E6%B0%B4%E9%98%9F12%E9%87%91%E6%94%B6%E5%AE%98%23&t=31&band_rank=3&Refer=top)<br />
 4. [你好星期六你是来看谁的](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%E4%BD%A0%E6%98%AF%E6%9D%A5%E7%9C%8B%E8%B0%81%E7%9A%84%23&t=31&band_rank=4&Refer=top)<br />
 5. [中山一骑车女子遇开门杀不幸身亡](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B1%B1%E4%B8%80%E9%AA%91%E8%BD%A6%E5%A5%B3%E5%AD%90%E9%81%87%E5%BC%80%E9%97%A8%E6%9D%80%E4%B8%8D%E5%B9%B8%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=5&Refer=top)<br />
-6. [OMG对战EDG](https://s.weibo.com/weibo?q=%23OMG%E5%AF%B9%E6%88%98EDG%23&t=31&band_rank=6&Refer=top)<br />
-7. [乐华娱乐退票](https://s.weibo.com/weibo?q=%23%E4%B9%90%E5%8D%8E%E5%A8%B1%E4%B9%90%E9%80%80%E7%A5%A8%23&t=31&band_rank=7&Refer=top)<br />
+6. [乐华娱乐退票](https://s.weibo.com/weibo?q=%23%E4%B9%90%E5%8D%8E%E5%A8%B1%E4%B9%90%E9%80%80%E7%A5%A8%23&t=31&band_rank=6&Refer=top)<br />
+7. [OMG对战EDG](https://s.weibo.com/weibo?q=%23OMG%E5%AF%B9%E6%88%98EDG%23&t=31&band_rank=7&Refer=top)<br />
 8. [姐姐5千的学费他学了4千5](https://s.weibo.com/weibo?q=%23%E5%A7%90%E5%A7%905%E5%8D%83%E7%9A%84%E5%AD%A6%E8%B4%B9%E4%BB%96%E5%AD%A6%E4%BA%864%E5%8D%835%23&t=31&band_rank=8&Refer=top)<br />
 9. [封神终于不再甩锅女性](https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E%E7%BB%88%E4%BA%8E%E4%B8%8D%E5%86%8D%E7%94%A9%E9%94%85%E5%A5%B3%E6%80%A7%23&t=31&band_rank=9&Refer=top)<br />
 
