@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-22 19:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-22 19:31:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [UNIQ合照](https://s.weibo.com/weibo?q=UNIQ%E5%90%88%E7%85%A7&t=31&band_rank=6&Refer=top)<br />
 7. [白猪中暑变粉猪119及时解救](https://s.weibo.com/weibo?q=%23%E7%99%BD%E7%8C%AA%E4%B8%AD%E6%9A%91%E5%8F%98%E7%B2%89%E7%8C%AA119%E5%8F%8A%E6%97%B6%E8%A7%A3%E6%95%91%23&t=31&band_rank=7&Refer=top)<br />
 8. [别再用大蒜保存西瓜了](https://s.weibo.com/weibo?q=%23%E5%88%AB%E5%86%8D%E7%94%A8%E5%A4%A7%E8%92%9C%E4%BF%9D%E5%AD%98%E8%A5%BF%E7%93%9C%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [公关什么呀公开得了](https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%85%B3%E4%BB%80%E4%B9%88%E5%91%80%E5%85%AC%E5%BC%80%E5%BE%97%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [中国队跳水男子10米台摘银](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E8%B7%B3%E6%B0%B4%E7%94%B7%E5%AD%9010%E7%B1%B3%E5%8F%B0%E6%91%98%E9%93%B6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
