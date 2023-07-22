@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-22 21:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-22 22:00:01</h4></div>
 
 > 微博  
 
-1. [乐华娱乐退票](https://s.weibo.com/weibo?q=%23%E4%B9%90%E5%8D%8E%E5%A8%B1%E4%B9%90%E9%80%80%E7%A5%A8%23&t=31&band_rank=1&Refer=top)<br />
-2. [EDG战胜OMG](https://s.weibo.com/weibo?q=EDG%E6%88%98%E8%83%9COMG&t=31&band_rank=2&Refer=top)<br />
+1. [EDG战胜OMG](https://s.weibo.com/weibo?q=EDG%E6%88%98%E8%83%9COMG&t=31&band_rank=1&Refer=top)<br />
+2. [乐华娱乐退票](https://s.weibo.com/weibo?q=%23%E4%B9%90%E5%8D%8E%E5%A8%B1%E4%B9%90%E9%80%80%E7%A5%A8%23&t=31&band_rank=2&Refer=top)<br />
 3. [中国跳水队12金收官](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%B7%B3%E6%B0%B4%E9%98%9F12%E9%87%91%E6%94%B6%E5%AE%98%23&t=31&band_rank=3&Refer=top)<br />
 4. [魏大勋给杨洋王楚然示范爱的抱抱](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E7%BB%99%E6%9D%A8%E6%B4%8B%E7%8E%8B%E6%A5%9A%E7%84%B6%E7%A4%BA%E8%8C%83%E7%88%B1%E7%9A%84%E6%8A%B1%E6%8A%B1%23&t=31&band_rank=4&Refer=top)<br />
 5. [中国女足vs丹麦队](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B3vs%E4%B8%B9%E9%BA%A6%E9%98%9F%23&t=31&band_rank=5&Refer=top)<br />
