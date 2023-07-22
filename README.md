@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-22 15:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-22 15:46:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [迪丽热巴在高铁上看书](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%9C%A8%E9%AB%98%E9%93%81%E4%B8%8A%E7%9C%8B%E4%B9%A6%23&t=31&band_rank=6&Refer=top)<br />
 7. [盛一伦都演爹了](https://s.weibo.com/weibo?q=%23%E7%9B%9B%E4%B8%80%E4%BC%A6%E9%83%BD%E6%BC%94%E7%88%B9%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [TheShy 茶百道](https://s.weibo.com/weibo?q=TheShy%20%E8%8C%B6%E7%99%BE%E9%81%93&t=31&band_rank=8&Refer=top)<br />
-9. [为啥女生裤子口袋越来越小](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E5%95%A5%E5%A5%B3%E7%94%9F%E8%A3%A4%E5%AD%90%E5%8F%A3%E8%A2%8B%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%B0%8F%23&t=31&band_rank=9&Refer=top)<br />
+9. [西安警方抓获造假回流生嫌疑人10名](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E8%AD%A6%E6%96%B9%E6%8A%93%E8%8E%B7%E9%80%A0%E5%81%87%E5%9B%9E%E6%B5%81%E7%94%9F%E5%AB%8C%E7%96%91%E4%BA%BA10%E5%90%8D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
