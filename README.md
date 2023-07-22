@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 05:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 05:11:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [孟宴臣扯领带](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AE%B4%E8%87%A3%E6%89%AF%E9%A2%86%E5%B8%A6%23&t=31&band_rank=6&Refer=top)<br />
 7. [杨迪演我看杨洋王楚然](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%BF%AA%E6%BC%94%E6%88%91%E7%9C%8B%E6%9D%A8%E6%B4%8B%E7%8E%8B%E6%A5%9A%E7%84%B6%23&t=31&band_rank=7&Refer=top)<br />
 8. [中山一骑车女子遇开门杀不幸身亡](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B1%B1%E4%B8%80%E9%AA%91%E8%BD%A6%E5%A5%B3%E5%AD%90%E9%81%87%E5%BC%80%E9%97%A8%E6%9D%80%E4%B8%8D%E5%B9%B8%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [父母去世女生被上海音乐学院录取](https://s.weibo.com/weibo?q=%23%E7%88%B6%E6%AF%8D%E5%8E%BB%E4%B8%96%E5%A5%B3%E7%94%9F%E8%A2%AB%E4%B8%8A%E6%B5%B7%E9%9F%B3%E4%B9%90%E5%AD%A6%E9%99%A2%E5%BD%95%E5%8F%96%23&t=31&band_rank=9&Refer=top)<br />
+9. [原来静音车厢是靠人工静音](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E9%9D%99%E9%9F%B3%E8%BD%A6%E5%8E%A2%E6%98%AF%E9%9D%A0%E4%BA%BA%E5%B7%A5%E9%9D%99%E9%9F%B3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
