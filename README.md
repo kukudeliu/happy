@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-22 10:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-22 11:00:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [圆明园幸存的古莲开花了](https://www.baidu.com/s?wd=%E5%9C%86%E6%98%8E%E5%9B%AD%E5%B9%B8%E5%AD%98%E7%9A%84%E5%8F%A4%E8%8E%B2%E5%BC%80%E8%8A%B1%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [泳池救生员一天捞同一男孩5次](https://www.baidu.com/s?wd=%E6%B3%B3%E6%B1%A0%E6%95%91%E7%94%9F%E5%91%98%E4%B8%80%E5%A4%A9%E6%8D%9E%E5%90%8C%E4%B8%80%E7%94%B7%E5%AD%A95%E6%AC%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [泄题？老师凌晨让背范文与中考题一样](https://www.baidu.com/s?wd=%E6%B3%84%E9%A2%98%EF%BC%9F%E8%80%81%E5%B8%88%E5%87%8C%E6%99%A8%E8%AE%A9%E8%83%8C%E8%8C%83%E6%96%87%E4%B8%8E%E4%B8%AD%E8%80%83%E9%A2%98%E4%B8%80%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [俄乌或无差别攻击黑海船只](https://www.baidu.com/s?wd=%E4%BF%84%E4%B9%8C%E6%88%96%E6%97%A0%E5%B7%AE%E5%88%AB%E6%94%BB%E5%87%BB%E9%BB%91%E6%B5%B7%E8%88%B9%E5%8F%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [00后小伙狂炫火锅炸鸡确诊直肠癌](https://www.baidu.com/s?wd=00%E5%90%8E%E5%B0%8F%E4%BC%99%E7%8B%82%E7%82%AB%E7%81%AB%E9%94%85%E7%82%B8%E9%B8%A1%E7%A1%AE%E8%AF%8A%E7%9B%B4%E8%82%A0%E7%99%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [杭州高职小伙一毕业被开18万年薪](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E9%AB%98%E8%81%8C%E5%B0%8F%E4%BC%99%E4%B8%80%E6%AF%95%E4%B8%9A%E8%A2%AB%E5%BC%8018%E4%B8%87%E5%B9%B4%E8%96%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [圆明园幸存的古莲开花了](https://www.baidu.com/s?wd=%E5%9C%86%E6%98%8E%E5%9B%AD%E5%B9%B8%E5%AD%98%E7%9A%84%E5%8F%A4%E8%8E%B2%E5%BC%80%E8%8A%B1%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [泳池救生员一天捞同一男孩5次](https://www.baidu.com/s?wd=%E6%B3%B3%E6%B1%A0%E6%95%91%E7%94%9F%E5%91%98%E4%B8%80%E5%A4%A9%E6%8D%9E%E5%90%8C%E4%B8%80%E7%94%B7%E5%AD%A95%E6%AC%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [泄题？老师凌晨让背范文与中考题一样](https://www.baidu.com/s?wd=%E6%B3%84%E9%A2%98%EF%BC%9F%E8%80%81%E5%B8%88%E5%87%8C%E6%99%A8%E8%AE%A9%E8%83%8C%E8%8C%83%E6%96%87%E4%B8%8E%E4%B8%AD%E8%80%83%E9%A2%98%E4%B8%80%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [俄乌或无差别攻击黑海船只](https://www.baidu.com/s?wd=%E4%BF%84%E4%B9%8C%E6%88%96%E6%97%A0%E5%B7%AE%E5%88%AB%E6%94%BB%E5%87%BB%E9%BB%91%E6%B5%B7%E8%88%B9%E5%8F%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [00后小伙狂炫火锅炸鸡确诊直肠癌](https://www.baidu.com/s?wd=00%E5%90%8E%E5%B0%8F%E4%BC%99%E7%8B%82%E7%82%AB%E7%81%AB%E9%94%85%E7%82%B8%E9%B8%A1%E7%A1%AE%E8%AF%8A%E7%9B%B4%E8%82%A0%E7%99%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [杭州高职小伙一毕业被开18万年薪](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E9%AB%98%E8%81%8C%E5%B0%8F%E4%BC%99%E4%B8%80%E6%AF%95%E4%B8%9A%E8%A2%AB%E5%BC%8018%E4%B8%87%E5%B9%B4%E8%96%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
