@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-22 11:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-22 11:12:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [泳池救生员一天捞同一男孩5次](https://www.baidu.com/s?wd=%E6%B3%B3%E6%B1%A0%E6%95%91%E7%94%9F%E5%91%98%E4%B8%80%E5%A4%A9%E6%8D%9E%E5%90%8C%E4%B8%80%E7%94%B7%E5%AD%A95%E6%AC%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [00后小伙狂炫火锅炸鸡确诊直肠癌](https://www.baidu.com/s?wd=00%E5%90%8E%E5%B0%8F%E4%BC%99%E7%8B%82%E7%82%AB%E7%81%AB%E9%94%85%E7%82%B8%E9%B8%A1%E7%A1%AE%E8%AF%8A%E7%9B%B4%E8%82%A0%E7%99%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [杭州高职小伙一毕业被开18万年薪](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E9%AB%98%E8%81%8C%E5%B0%8F%E4%BC%99%E4%B8%80%E6%AF%95%E4%B8%9A%E8%A2%AB%E5%BC%8018%E4%B8%87%E5%B9%B4%E8%96%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [西安：将对3608名回流生逐一甄别](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%EF%BC%9A%E5%B0%86%E5%AF%B93608%E5%90%8D%E5%9B%9E%E6%B5%81%E7%94%9F%E9%80%90%E4%B8%80%E7%94%84%E5%88%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [酒吧违规接待致未成年人被性侵](https://www.baidu.com/s?wd=%E9%85%92%E5%90%A7%E8%BF%9D%E8%A7%84%E6%8E%A5%E5%BE%85%E8%87%B4%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E8%A2%AB%E6%80%A7%E4%BE%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [泳池救生员一天捞同一男孩5次](https://www.baidu.com/s?wd=%E6%B3%B3%E6%B1%A0%E6%95%91%E7%94%9F%E5%91%98%E4%B8%80%E5%A4%A9%E6%8D%9E%E5%90%8C%E4%B8%80%E7%94%B7%E5%AD%A95%E6%AC%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [00后小伙狂炫火锅炸鸡确诊直肠癌](https://www.baidu.com/s?wd=00%E5%90%8E%E5%B0%8F%E4%BC%99%E7%8B%82%E7%82%AB%E7%81%AB%E9%94%85%E7%82%B8%E9%B8%A1%E7%A1%AE%E8%AF%8A%E7%9B%B4%E8%82%A0%E7%99%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [杭州高职小伙一毕业被开18万年薪](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E9%AB%98%E8%81%8C%E5%B0%8F%E4%BC%99%E4%B8%80%E6%AF%95%E4%B8%9A%E8%A2%AB%E5%BC%8018%E4%B8%87%E5%B9%B4%E8%96%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [西安：将对3608名回流生逐一甄别](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%EF%BC%9A%E5%B0%86%E5%AF%B93608%E5%90%8D%E5%9B%9E%E6%B5%81%E7%94%9F%E9%80%90%E4%B8%80%E7%94%84%E5%88%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [酒吧违规接待致未成年人被性侵](https://www.baidu.com/s?wd=%E9%85%92%E5%90%A7%E8%BF%9D%E8%A7%84%E6%8E%A5%E5%BE%85%E8%87%B4%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E8%A2%AB%E6%80%A7%E4%BE%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
