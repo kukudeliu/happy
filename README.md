@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-22 15:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-22 15:02:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [圆明园幸存的古莲开花了](https://www.baidu.com/s?wd=%E5%9C%86%E6%98%8E%E5%9B%AD%E5%B9%B8%E5%AD%98%E7%9A%84%E5%8F%A4%E8%8E%B2%E5%BC%80%E8%8A%B1%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [刘晓庆回应新剧饰演少女惹争议](https://www.baidu.com/s?wd=%E5%88%98%E6%99%93%E5%BA%86%E5%9B%9E%E5%BA%94%E6%96%B0%E5%89%A7%E9%A5%B0%E6%BC%94%E5%B0%91%E5%A5%B3%E6%83%B9%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [《封神》投资30亿回本难](https://www.baidu.com/s?wd=%E3%80%8A%E5%B0%81%E7%A5%9E%E3%80%8B%E6%8A%95%E8%B5%8430%E4%BA%BF%E5%9B%9E%E6%9C%AC%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女生遭同校男生奸杀被判赔5.5万](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%81%AD%E5%90%8C%E6%A0%A1%E7%94%B7%E7%94%9F%E5%A5%B8%E6%9D%80%E8%A2%AB%E5%88%A4%E8%B5%945.5%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [国家博物馆：穿拖鞋者谢绝入馆](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E5%8D%9A%E7%89%A9%E9%A6%86%EF%BC%9A%E7%A9%BF%E6%8B%96%E9%9E%8B%E8%80%85%E8%B0%A2%E7%BB%9D%E5%85%A5%E9%A6%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [孩子考了702分爸爸喝高兴了醉驾](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E8%80%83%E4%BA%86702%E5%88%86%E7%88%B8%E7%88%B8%E5%96%9D%E9%AB%98%E5%85%B4%E4%BA%86%E9%86%89%E9%A9%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女生遭同校男生奸杀被判赔5.5万](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%81%AD%E5%90%8C%E6%A0%A1%E7%94%B7%E7%94%9F%E5%A5%B8%E6%9D%80%E8%A2%AB%E5%88%A4%E8%B5%945.5%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [圆明园幸存的古莲开花了](https://www.baidu.com/s?wd=%E5%9C%86%E6%98%8E%E5%9B%AD%E5%B9%B8%E5%AD%98%E7%9A%84%E5%8F%A4%E8%8E%B2%E5%BC%80%E8%8A%B1%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [刘晓庆回应新剧饰演少女惹争议](https://www.baidu.com/s?wd=%E5%88%98%E6%99%93%E5%BA%86%E5%9B%9E%E5%BA%94%E6%96%B0%E5%89%A7%E9%A5%B0%E6%BC%94%E5%B0%91%E5%A5%B3%E6%83%B9%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [《封神》投资30亿回本难](https://www.baidu.com/s?wd=%E3%80%8A%E5%B0%81%E7%A5%9E%E3%80%8B%E6%8A%95%E8%B5%8430%E4%BA%BF%E5%9B%9E%E6%9C%AC%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女生遭同校男生奸杀被判赔5.5万](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%81%AD%E5%90%8C%E6%A0%A1%E7%94%B7%E7%94%9F%E5%A5%B8%E6%9D%80%E8%A2%AB%E5%88%A4%E8%B5%945.5%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [国家博物馆：穿拖鞋者谢绝入馆](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E5%8D%9A%E7%89%A9%E9%A6%86%EF%BC%9A%E7%A9%BF%E6%8B%96%E9%9E%8B%E8%80%85%E8%B0%A2%E7%BB%9D%E5%85%A5%E9%A6%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [孩子考了702分爸爸喝高兴了醉驾](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E8%80%83%E4%BA%86702%E5%88%86%E7%88%B8%E7%88%B8%E5%96%9D%E9%AB%98%E5%85%B4%E4%BA%86%E9%86%89%E9%A9%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女生遭同校男生奸杀被判赔5.5万](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%81%AD%E5%90%8C%E6%A0%A1%E7%94%B7%E7%94%9F%E5%A5%B8%E6%9D%80%E8%A2%AB%E5%88%A4%E8%B5%945.5%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
