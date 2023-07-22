@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-22 14:53:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-22 14:54:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [TheShy 茶百道](https://s.weibo.com/weibo?q=TheShy%20%E8%8C%B6%E7%99%BE%E9%81%93&t=31&band_rank=6&Refer=top)<br />
 7. [迪丽热巴在高铁上看书](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%9C%A8%E9%AB%98%E9%93%81%E4%B8%8A%E7%9C%8B%E4%B9%A6%23&t=31&band_rank=7&Refer=top)<br />
 8. [为啥女生裤子口袋越来越小](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E5%95%A5%E5%A5%B3%E7%94%9F%E8%A3%A4%E5%AD%90%E5%8F%A3%E8%A2%8B%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%B0%8F%23&t=31&band_rank=8&Refer=top)<br />
-9. [妈妈拆开快递竟是女儿通知书心疼得哭了](https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E6%8B%86%E5%BC%80%E5%BF%AB%E9%80%92%E7%AB%9F%E6%98%AF%E5%A5%B3%E5%84%BF%E9%80%9A%E7%9F%A5%E4%B9%A6%E5%BF%83%E7%96%BC%E5%BE%97%E5%93%AD%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [老人索降瞬间失手掉到二楼平台](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E7%B4%A2%E9%99%8D%E7%9E%AC%E9%97%B4%E5%A4%B1%E6%89%8B%E6%8E%89%E5%88%B0%E4%BA%8C%E6%A5%BC%E5%B9%B3%E5%8F%B0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -25,7 +25,7 @@
 6. [女生遭同校男生奸杀被判赔5.5万](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%81%AD%E5%90%8C%E6%A0%A1%E7%94%B7%E7%94%9F%E5%A5%B8%E6%9D%80%E8%A2%AB%E5%88%A4%E8%B5%945.5%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [刘晓庆回应新剧饰演少女惹争议](https://www.baidu.com/s?wd=%E5%88%98%E6%99%93%E5%BA%86%E5%9B%9E%E5%BA%94%E6%96%B0%E5%89%A7%E9%A5%B0%E6%BC%94%E5%B0%91%E5%A5%B3%E6%83%B9%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [《封神》投资30亿回本难](https://www.baidu.com/s?wd=%E3%80%8A%E5%B0%81%E7%A5%9E%E3%80%8B%E6%8A%95%E8%B5%8430%E4%BA%BF%E5%9B%9E%E6%9C%AC%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [西安将调整完善中考户籍招生规定](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E5%B0%86%E8%B0%83%E6%95%B4%E5%AE%8C%E5%96%84%E4%B8%AD%E8%80%83%E6%88%B7%E7%B1%8D%E6%8B%9B%E7%94%9F%E8%A7%84%E5%AE%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [主创揭秘《长安三万里》爆火背后](https://www.baidu.com/s?wd=%E4%B8%BB%E5%88%9B%E6%8F%AD%E7%A7%98%E3%80%8A%E9%95%BF%E5%AE%89%E4%B8%89%E4%B8%87%E9%87%8C%E3%80%8B%E7%88%86%E7%81%AB%E8%83%8C%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [女生遭同校男生奸杀被判赔5.5万](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%81%AD%E5%90%8C%E6%A0%A1%E7%94%B7%E7%94%9F%E5%A5%B8%E6%9D%80%E8%A2%AB%E5%88%A4%E8%B5%945.5%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [刘晓庆回应新剧饰演少女惹争议](https://www.baidu.com/s?wd=%E5%88%98%E6%99%93%E5%BA%86%E5%9B%9E%E5%BA%94%E6%96%B0%E5%89%A7%E9%A5%B0%E6%BC%94%E5%B0%91%E5%A5%B3%E6%83%B9%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [《封神》投资30亿回本难](https://www.baidu.com/s?wd=%E3%80%8A%E5%B0%81%E7%A5%9E%E3%80%8B%E6%8A%95%E8%B5%8430%E4%BA%BF%E5%9B%9E%E6%9C%AC%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [西安将调整完善中考户籍招生规定](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E5%B0%86%E8%B0%83%E6%95%B4%E5%AE%8C%E5%96%84%E4%B8%AD%E8%80%83%E6%88%B7%E7%B1%8D%E6%8B%9B%E7%94%9F%E8%A7%84%E5%AE%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [主创揭秘《长安三万里》爆火背后](https://www.baidu.com/s?wd=%E4%B8%BB%E5%88%9B%E6%8F%AD%E7%A7%98%E3%80%8A%E9%95%BF%E5%AE%89%E4%B8%89%E4%B8%87%E9%87%8C%E3%80%8B%E7%88%86%E7%81%AB%E8%83%8C%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
