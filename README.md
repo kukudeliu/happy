@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-22 14:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-22 14:11:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [芭比](https://s.weibo.com/weibo?q=%E8%8A%AD%E6%AF%94&t=31&band_rank=6&Refer=top)<br />
 7. [为啥女生裤子口袋越来越小](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E5%95%A5%E5%A5%B3%E7%94%9F%E8%A3%A4%E5%AD%90%E5%8F%A3%E8%A2%8B%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%B0%8F%23&t=31&band_rank=7&Refer=top)<br />
 8. [我的人间烟火结局走向](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E4%BA%BA%E9%97%B4%E7%83%9F%E7%81%AB%E7%BB%93%E5%B1%80%E8%B5%B0%E5%90%91%23&t=31&band_rank=8&Refer=top)<br />
-9. [妈妈拆开快递竟是女儿通知书心疼得哭了](https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E6%8B%86%E5%BC%80%E5%BF%AB%E9%80%92%E7%AB%9F%E6%98%AF%E5%A5%B3%E5%84%BF%E9%80%9A%E7%9F%A5%E4%B9%A6%E5%BF%83%E7%96%BC%E5%BE%97%E5%93%AD%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [迪丽热巴在高铁上看书](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%9C%A8%E9%AB%98%E9%93%81%E4%B8%8A%E7%9C%8B%E4%B9%A6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
