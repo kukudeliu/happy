@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-22 16:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-22 16:42:01</h4></div>
 
 > 微博  
 
 1. [芭比](https://s.weibo.com/weibo?q=%E8%8A%AD%E6%AF%94&t=31&band_rank=1&Refer=top)<br />
 2. [公关什么呀公开得了](https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%85%B3%E4%BB%80%E4%B9%88%E5%91%80%E5%85%AC%E5%BC%80%E5%BE%97%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [中国女足超燃瞬间](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B3%E8%B6%85%E7%87%83%E7%9E%AC%E9%97%B4%23&t=31&band_rank=3&Refer=top)<br />
-4. [韩国总统尹锡悦岳母被捕](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%80%BB%E7%BB%9F%E5%B0%B9%E9%94%A1%E6%82%A6%E5%B2%B3%E6%AF%8D%E8%A2%AB%E6%8D%95%23&t=31&band_rank=4&Refer=top)<br />
-5. [全面暴涨魏大勋](https://s.weibo.com/weibo?q=%23%E5%85%A8%E9%9D%A2%E6%9A%B4%E6%B6%A8%E9%AD%8F%E5%A4%A7%E5%8B%8B%23&t=31&band_rank=5&Refer=top)<br />
+4. [全面暴涨魏大勋](https://s.weibo.com/weibo?q=%23%E5%85%A8%E9%9D%A2%E6%9A%B4%E6%B6%A8%E9%AD%8F%E5%A4%A7%E5%8B%8B%23&t=31&band_rank=4&Refer=top)<br />
+5. [韩国总统尹锡悦岳母被捕](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%80%BB%E7%BB%9F%E5%B0%B9%E9%94%A1%E6%82%A6%E5%B2%B3%E6%AF%8D%E8%A2%AB%E6%8D%95%23&t=31&band_rank=5&Refer=top)<br />
 6. [33岁健身网红举重时遭杠铃压断脖子](https://s.weibo.com/weibo?q=%2333%E5%B2%81%E5%81%A5%E8%BA%AB%E7%BD%91%E7%BA%A2%E4%B8%BE%E9%87%8D%E6%97%B6%E9%81%AD%E6%9D%A0%E9%93%83%E5%8E%8B%E6%96%AD%E8%84%96%E5%AD%90%23&t=31&band_rank=6&Refer=top)<br />
 7. [许沁这是我妈给我煮的粥](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%B2%81%E8%BF%99%E6%98%AF%E6%88%91%E5%A6%88%E7%BB%99%E6%88%91%E7%85%AE%E7%9A%84%E7%B2%A5%23&t=31&band_rank=7&Refer=top)<br />
 8. [热烈](https://s.weibo.com/weibo?q=%E7%83%AD%E7%83%88&t=31&band_rank=8&Refer=top)<br />
