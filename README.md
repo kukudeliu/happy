@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 06:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 06:19:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [女足无缘开门红 水庆霞：她们尽力了](https://www.baidu.com/s?wd=%E5%A5%B3%E8%B6%B3%E6%97%A0%E7%BC%98%E5%BC%80%E9%97%A8%E7%BA%A2+%E6%B0%B4%E5%BA%86%E9%9C%9E%EF%BC%9A%E5%A5%B9%E4%BB%AC%E5%B0%BD%E5%8A%9B%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [21岁小伙因撑伞羞耻被中度晒伤](https://www.baidu.com/s?wd=21%E5%B2%81%E5%B0%8F%E4%BC%99%E5%9B%A0%E6%92%91%E4%BC%9E%E7%BE%9E%E8%80%BB%E8%A2%AB%E4%B8%AD%E5%BA%A6%E6%99%92%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [冰淇淋事件后宝马多卖了3034辆](https://www.baidu.com/s?wd=%E5%86%B0%E6%B7%87%E6%B7%8B%E4%BA%8B%E4%BB%B6%E5%90%8E%E5%AE%9D%E9%A9%AC%E5%A4%9A%E5%8D%96%E4%BA%863034%E8%BE%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [国货涌向俄罗斯](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B4%A7%E6%B6%8C%E5%90%91%E4%BF%84%E7%BD%97%E6%96%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [业内：农户拉两年骆驼能赚1套房](https://www.baidu.com/s?wd=%E4%B8%9A%E5%86%85%EF%BC%9A%E5%86%9C%E6%88%B7%E6%8B%89%E4%B8%A4%E5%B9%B4%E9%AA%86%E9%A9%BC%E8%83%BD%E8%B5%9A1%E5%A5%97%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [女足无缘开门红 水庆霞：她们尽力了](https://www.baidu.com/s?wd=%E5%A5%B3%E8%B6%B3%E6%97%A0%E7%BC%98%E5%BC%80%E9%97%A8%E7%BA%A2+%E6%B0%B4%E5%BA%86%E9%9C%9E%EF%BC%9A%E5%A5%B9%E4%BB%AC%E5%B0%BD%E5%8A%9B%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [21岁小伙因撑伞羞耻被中度晒伤](https://www.baidu.com/s?wd=21%E5%B2%81%E5%B0%8F%E4%BC%99%E5%9B%A0%E6%92%91%E4%BC%9E%E7%BE%9E%E8%80%BB%E8%A2%AB%E4%B8%AD%E5%BA%A6%E6%99%92%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [冰淇淋事件后宝马多卖了3034辆](https://www.baidu.com/s?wd=%E5%86%B0%E6%B7%87%E6%B7%8B%E4%BA%8B%E4%BB%B6%E5%90%8E%E5%AE%9D%E9%A9%AC%E5%A4%9A%E5%8D%96%E4%BA%863034%E8%BE%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [国货涌向俄罗斯](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B4%A7%E6%B6%8C%E5%90%91%E4%BF%84%E7%BD%97%E6%96%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [业内：农户拉两年骆驼能赚1套房](https://www.baidu.com/s?wd=%E4%B8%9A%E5%86%85%EF%BC%9A%E5%86%9C%E6%88%B7%E6%8B%89%E4%B8%A4%E5%B9%B4%E9%AA%86%E9%A9%BC%E8%83%BD%E8%B5%9A1%E5%A5%97%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
