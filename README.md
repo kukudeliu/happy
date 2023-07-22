@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-22 09:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-22 09:55:01</h4></div>
 
 > 微博  
 
 1. [妈妈拆开快递竟是女儿通知书心疼得哭了](https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E6%8B%86%E5%BC%80%E5%BF%AB%E9%80%92%E7%AB%9F%E6%98%AF%E5%A5%B3%E5%84%BF%E9%80%9A%E7%9F%A5%E4%B9%A6%E5%BF%83%E7%96%BC%E5%BE%97%E5%93%AD%E4%BA%86%23&t=31&band_rank=1&Refer=top)<br />
 2. [宋焰说挤地铁会受伤的](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E7%84%B0%E8%AF%B4%E6%8C%A4%E5%9C%B0%E9%93%81%E4%BC%9A%E5%8F%97%E4%BC%A4%E7%9A%84%23&t=31&band_rank=2&Refer=top)<br />
 3. [航天员出舱所有任务都是一次完成](https://s.weibo.com/weibo?q=%23%E8%88%AA%E5%A4%A9%E5%91%98%E5%87%BA%E8%88%B1%E6%89%80%E6%9C%89%E4%BB%BB%E5%8A%A1%E9%83%BD%E6%98%AF%E4%B8%80%E6%AC%A1%E5%AE%8C%E6%88%90%23&t=31&band_rank=3&Refer=top)<br />
-4. [黄磊对谭松韵说我们也没法说欢迎你再来](https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%A3%8A%E5%AF%B9%E8%B0%AD%E6%9D%BE%E9%9F%B5%E8%AF%B4%E6%88%91%E4%BB%AC%E4%B9%9F%E6%B2%A1%E6%B3%95%E8%AF%B4%E6%AC%A2%E8%BF%8E%E4%BD%A0%E5%86%8D%E6%9D%A5%23&t=31&band_rank=4&Refer=top)<br />
-5. [魏大勋张瀚张彬彬爆笑两分半](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E5%BC%A0%E7%80%9A%E5%BC%A0%E5%BD%AC%E5%BD%AC%E7%88%86%E7%AC%91%E4%B8%A4%E5%88%86%E5%8D%8A%23&t=31&band_rank=5&Refer=top)<br />
+4. [魏大勋张瀚张彬彬爆笑两分半](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E5%BC%A0%E7%80%9A%E5%BC%A0%E5%BD%AC%E5%BD%AC%E7%88%86%E7%AC%91%E4%B8%A4%E5%88%86%E5%8D%8A%23&t=31&band_rank=4&Refer=top)<br />
+5. [黄磊对谭松韵说我们也没法说欢迎你再来](https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%A3%8A%E5%AF%B9%E8%B0%AD%E6%9D%BE%E9%9F%B5%E8%AF%B4%E6%88%91%E4%BB%AC%E4%B9%9F%E6%B2%A1%E6%B3%95%E8%AF%B4%E6%AC%A2%E8%BF%8E%E4%BD%A0%E5%86%8D%E6%9D%A5%23&t=31&band_rank=5&Refer=top)<br />
 6. [高铁坐过站可以免费坐回去](https://s.weibo.com/weibo?q=%E9%AB%98%E9%93%81%E5%9D%90%E8%BF%87%E7%AB%99%E5%8F%AF%E4%BB%A5%E5%85%8D%E8%B4%B9%E5%9D%90%E5%9B%9E%E5%8E%BB&t=31&band_rank=6&Refer=top)<br />
 7. [时代少年团不参与TFBOYS十周年演唱会](https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E4%B8%8D%E5%8F%82%E4%B8%8ETFBOYS%E5%8D%81%E5%91%A8%E5%B9%B4%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=7&Refer=top)<br />
 8. [西安警方控制13名为回流生提供服务人员](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E8%AD%A6%E6%96%B9%E6%8E%A7%E5%88%B613%E5%90%8D%E4%B8%BA%E5%9B%9E%E6%B5%81%E7%94%9F%E6%8F%90%E4%BE%9B%E6%9C%8D%E5%8A%A1%E4%BA%BA%E5%91%98%23&t=31&band_rank=8&Refer=top)<br />
