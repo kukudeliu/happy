@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-22 21:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-22 21:36:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [中山一骑车女子遇开门杀不幸身亡](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B1%B1%E4%B8%80%E9%AA%91%E8%BD%A6%E5%A5%B3%E5%AD%90%E9%81%87%E5%BC%80%E9%97%A8%E6%9D%80%E4%B8%8D%E5%B9%B8%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=5&Refer=top)<br />
 6. [OMG对战EDG](https://s.weibo.com/weibo?q=%23OMG%E5%AF%B9%E6%88%98EDG%23&t=31&band_rank=6&Refer=top)<br />
 7. [姐姐5千的学费他学了4千5](https://s.weibo.com/weibo?q=%23%E5%A7%90%E5%A7%905%E5%8D%83%E7%9A%84%E5%AD%A6%E8%B4%B9%E4%BB%96%E5%AD%A6%E4%BA%864%E5%8D%835%23&t=31&band_rank=7&Refer=top)<br />
-8. [封神终于不再甩锅女性](https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E%E7%BB%88%E4%BA%8E%E4%B8%8D%E5%86%8D%E7%94%A9%E9%94%85%E5%A5%B3%E6%80%A7%23&t=31&band_rank=8&Refer=top)<br />
-9. [央视网文娱评价我的人间烟火](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E7%BD%91%E6%96%87%E5%A8%B1%E8%AF%84%E4%BB%B7%E6%88%91%E7%9A%84%E4%BA%BA%E9%97%B4%E7%83%9F%E7%81%AB%23&t=31&band_rank=9&Refer=top)<br />
+8. [乐华娱乐退票](https://s.weibo.com/weibo?q=%23%E4%B9%90%E5%8D%8E%E5%A8%B1%E4%B9%90%E9%80%80%E7%A5%A8%23&t=31&band_rank=8&Refer=top)<br />
+9. [封神终于不再甩锅女性](https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E%E7%BB%88%E4%BA%8E%E4%B8%8D%E5%86%8D%E7%94%A9%E9%94%85%E5%A5%B3%E6%80%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
