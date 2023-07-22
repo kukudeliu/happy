@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-22 16:53:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-22 16:54:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [33岁健身网红举重时遭杠铃压断脖子](https://s.weibo.com/weibo?q=%2333%E5%B2%81%E5%81%A5%E8%BA%AB%E7%BD%91%E7%BA%A2%E4%B8%BE%E9%87%8D%E6%97%B6%E9%81%AD%E6%9D%A0%E9%93%83%E5%8E%8B%E6%96%AD%E8%84%96%E5%AD%90%23&t=31&band_rank=6&Refer=top)<br />
 7. [热烈](https://s.weibo.com/weibo?q=%E7%83%AD%E7%83%88&t=31&band_rank=7&Refer=top)<br />
 8. [许沁这是我妈给我煮的粥](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%B2%81%E8%BF%99%E6%98%AF%E6%88%91%E5%A6%88%E7%BB%99%E6%88%91%E7%85%AE%E7%9A%84%E7%B2%A5%23&t=31&band_rank=8&Refer=top)<br />
-9. [大一下学期的奶茶费用](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E4%B8%80%E4%B8%8B%E5%AD%A6%E6%9C%9F%E7%9A%84%E5%A5%B6%E8%8C%B6%E8%B4%B9%E7%94%A8%23&t=31&band_rank=9&Refer=top)<br />
+9. [付辛博降至B级](https://s.weibo.com/weibo?q=%23%E4%BB%98%E8%BE%9B%E5%8D%9A%E9%99%8D%E8%87%B3B%E7%BA%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
