@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-22 20:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-22 20:06:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [林靖恩](https://s.weibo.com/weibo?q=%E6%9E%97%E9%9D%96%E6%81%A9&t=31&band_rank=4&Refer=top)<br />
 5. [乐华家族演唱会](https://s.weibo.com/weibo?q=%E4%B9%90%E5%8D%8E%E5%AE%B6%E6%97%8F%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=5&Refer=top)<br />
 6. [央视网文娱评价我的人间烟火](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E7%BD%91%E6%96%87%E5%A8%B1%E8%AF%84%E4%BB%B7%E6%88%91%E7%9A%84%E4%BA%BA%E9%97%B4%E7%83%9F%E7%81%AB%23&t=31&band_rank=6&Refer=top)<br />
-7. [Uzi状态](https://s.weibo.com/weibo?q=Uzi%E7%8A%B6%E6%80%81&t=31&band_rank=7&Refer=top)<br />
+7. [封神终于不再甩锅女性](https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E%E7%BB%88%E4%BA%8E%E4%B8%8D%E5%86%8D%E7%94%A9%E9%94%85%E5%A5%B3%E6%80%A7%23&t=31&band_rank=7&Refer=top)<br />
 8. [全面暴涨魏大勋](https://s.weibo.com/weibo?q=%23%E5%85%A8%E9%9D%A2%E6%9A%B4%E6%B6%A8%E9%AD%8F%E5%A4%A7%E5%8B%8B%23&t=31&band_rank=8&Refer=top)<br />
-9. [实习才是大学生的托管所](https://s.weibo.com/weibo?q=%23%E5%AE%9E%E4%B9%A0%E6%89%8D%E6%98%AF%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%9A%84%E6%89%98%E7%AE%A1%E6%89%80%23&t=31&band_rank=9&Refer=top)<br />
+9. [Uzi状态](https://s.weibo.com/weibo?q=Uzi%E7%8A%B6%E6%80%81&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
