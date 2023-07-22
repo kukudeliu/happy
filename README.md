@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-22 21:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-22 21:03:02</h4></div>
 
 > 微博  
 
-1. [姐姐5千的学费他学了4千5](https://s.weibo.com/weibo?q=%23%E5%A7%90%E5%A7%905%E5%8D%83%E7%9A%84%E5%AD%A6%E8%B4%B9%E4%BB%96%E5%AD%A6%E4%BA%864%E5%8D%835%23&t=31&band_rank=1&Refer=top)<br />
-2. [杨迪说魏大勋老来得粉](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%BF%AA%E8%AF%B4%E9%AD%8F%E5%A4%A7%E5%8B%8B%E8%80%81%E6%9D%A5%E5%BE%97%E7%B2%89%23&t=31&band_rank=2&Refer=top)<br />
+1. [杨迪说魏大勋老来得粉](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%BF%AA%E8%AF%B4%E9%AD%8F%E5%A4%A7%E5%8B%8B%E8%80%81%E6%9D%A5%E5%BE%97%E7%B2%89%23&t=31&band_rank=1&Refer=top)<br />
+2. [姐姐5千的学费他学了4千5](https://s.weibo.com/weibo?q=%23%E5%A7%90%E5%A7%905%E5%8D%83%E7%9A%84%E5%AD%A6%E8%B4%B9%E4%BB%96%E5%AD%A6%E4%BA%864%E5%8D%835%23&t=31&band_rank=2&Refer=top)<br />
 3. [成都大运村今天开村](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%A4%A7%E8%BF%90%E6%9D%91%E4%BB%8A%E5%A4%A9%E5%BC%80%E6%9D%91%23&t=31&band_rank=3&Refer=top)<br />
 4. [你好星期六你是来看谁的](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%E4%BD%A0%E6%98%AF%E6%9D%A5%E7%9C%8B%E8%B0%81%E7%9A%84%23&t=31&band_rank=4&Refer=top)<br />
 5. [封神终于不再甩锅女性](https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E%E7%BB%88%E4%BA%8E%E4%B8%8D%E5%86%8D%E7%94%A9%E9%94%85%E5%A5%B3%E6%80%A7%23&t=31&band_rank=5&Refer=top)<br />
