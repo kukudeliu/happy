@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-22 12:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-22 12:55:02</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [粉丝还是让TFBOYS贴贴了](https://s.weibo.com/weibo?q=%23%E7%B2%89%E4%B8%9D%E8%BF%98%E6%98%AF%E8%AE%A9TFBOYS%E8%B4%B4%E8%B4%B4%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [芭比](https://s.weibo.com/weibo?q=%E8%8A%AD%E6%AF%94&t=31&band_rank=5&Refer=top)<br />
 6. [迪丽热巴跑着赶高铁](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%B7%91%E7%9D%80%E8%B5%B6%E9%AB%98%E9%93%81%23&t=31&band_rank=6&Refer=top)<br />
-7. [妈妈拆开快递竟是女儿通知书心疼得哭了](https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E6%8B%86%E5%BC%80%E5%BF%AB%E9%80%92%E7%AB%9F%E6%98%AF%E5%A5%B3%E5%84%BF%E9%80%9A%E7%9F%A5%E4%B9%A6%E5%BF%83%E7%96%BC%E5%BE%97%E5%93%AD%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [高铁坐过站可以免费坐回去](https://s.weibo.com/weibo?q=%E9%AB%98%E9%93%81%E5%9D%90%E8%BF%87%E7%AB%99%E5%8F%AF%E4%BB%A5%E5%85%8D%E8%B4%B9%E5%9D%90%E5%9B%9E%E5%8E%BB&t=31&band_rank=8&Refer=top)<br />
+7. [高铁坐过站可以免费坐回去](https://s.weibo.com/weibo?q=%E9%AB%98%E9%93%81%E5%9D%90%E8%BF%87%E7%AB%99%E5%8F%AF%E4%BB%A5%E5%85%8D%E8%B4%B9%E5%9D%90%E5%9B%9E%E5%8E%BB&t=31&band_rank=7&Refer=top)<br />
+8. [妈妈拆开快递竟是女儿通知书心疼得哭了](https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E6%8B%86%E5%BC%80%E5%BF%AB%E9%80%92%E7%AB%9F%E6%98%AF%E5%A5%B3%E5%84%BF%E9%80%9A%E7%9F%A5%E4%B9%A6%E5%BF%83%E7%96%BC%E5%BE%97%E5%93%AD%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [梅西任意球绝杀](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E4%BB%BB%E6%84%8F%E7%90%83%E7%BB%9D%E6%9D%80%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
