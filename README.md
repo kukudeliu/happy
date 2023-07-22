@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-22 22:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-22 22:42:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [EDG战胜OMG](https://www.baidu.com/s?wd=EDG%E6%88%98%E8%83%9COMG&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [冰淇淋事件后宝马多卖了3034辆](https://www.baidu.com/s?wd=%E5%86%B0%E6%B7%87%E6%B7%8B%E4%BA%8B%E4%BB%B6%E5%90%8E%E5%AE%9D%E9%A9%AC%E5%A4%9A%E5%8D%96%E4%BA%863034%E8%BE%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [戚军被调查前夜还与同事踢球](https://www.baidu.com/s?wd=%E6%88%9A%E5%86%9B%E8%A2%AB%E8%B0%83%E6%9F%A5%E5%89%8D%E5%A4%9C%E8%BF%98%E4%B8%8E%E5%90%8C%E4%BA%8B%E8%B8%A2%E7%90%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [幼儿园老师发作业直接扔被开除](https://www.baidu.com/s?wd=%E5%B9%BC%E5%84%BF%E5%9B%AD%E8%80%81%E5%B8%88%E5%8F%91%E4%BD%9C%E4%B8%9A%E7%9B%B4%E6%8E%A5%E6%89%94%E8%A2%AB%E5%BC%80%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [21岁小伙因撑伞羞耻被中度晒伤](https://www.baidu.com/s?wd=21%E5%B2%81%E5%B0%8F%E4%BC%99%E5%9B%A0%E6%92%91%E4%BC%9E%E7%BE%9E%E8%80%BB%E8%A2%AB%E4%B8%AD%E5%BA%A6%E6%99%92%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [EDG战胜OMG](https://www.baidu.com/s?wd=EDG%E6%88%98%E8%83%9COMG&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [冰淇淋事件后宝马多卖了3034辆](https://www.baidu.com/s?wd=%E5%86%B0%E6%B7%87%E6%B7%8B%E4%BA%8B%E4%BB%B6%E5%90%8E%E5%AE%9D%E9%A9%AC%E5%A4%9A%E5%8D%96%E4%BA%863034%E8%BE%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [戚军被调查前夜还与同事踢球](https://www.baidu.com/s?wd=%E6%88%9A%E5%86%9B%E8%A2%AB%E8%B0%83%E6%9F%A5%E5%89%8D%E5%A4%9C%E8%BF%98%E4%B8%8E%E5%90%8C%E4%BA%8B%E8%B8%A2%E7%90%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [幼儿园老师发作业直接扔被开除](https://www.baidu.com/s?wd=%E5%B9%BC%E5%84%BF%E5%9B%AD%E8%80%81%E5%B8%88%E5%8F%91%E4%BD%9C%E4%B8%9A%E7%9B%B4%E6%8E%A5%E6%89%94%E8%A2%AB%E5%BC%80%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [21岁小伙因撑伞羞耻被中度晒伤](https://www.baidu.com/s?wd=21%E5%B2%81%E5%B0%8F%E4%BC%99%E5%9B%A0%E6%92%91%E4%BC%9E%E7%BE%9E%E8%80%BB%E8%A2%AB%E4%B8%AD%E5%BA%A6%E6%99%92%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
