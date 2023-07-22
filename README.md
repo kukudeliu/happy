@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-22 19:44:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-22 19:45:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [北京故宫的排水系统为何能抗住暴雨](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%95%85%E5%AE%AB%E7%9A%84%E6%8E%92%E6%B0%B4%E7%B3%BB%E7%BB%9F%E4%B8%BA%E4%BD%95%E8%83%BD%E6%8A%97%E4%BD%8F%E6%9A%B4%E9%9B%A8%23&t=31&band_rank=5&Refer=top)<br />
 6. [央视网文娱评价我的人间烟火](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E7%BD%91%E6%96%87%E5%A8%B1%E8%AF%84%E4%BB%B7%E6%88%91%E7%9A%84%E4%BA%BA%E9%97%B4%E7%83%9F%E7%81%AB%23&t=31&band_rank=6&Refer=top)<br />
 7. [中国队跳水男子10米台摘银](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E8%B7%B3%E6%B0%B4%E7%94%B7%E5%AD%9010%E7%B1%B3%E5%8F%B0%E6%91%98%E9%93%B6%23&t=31&band_rank=7&Refer=top)<br />
-8. [别再用大蒜保存西瓜了](https://s.weibo.com/weibo?q=%23%E5%88%AB%E5%86%8D%E7%94%A8%E5%A4%A7%E8%92%9C%E4%BF%9D%E5%AD%98%E8%A5%BF%E7%93%9C%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [UNIQ合照](https://s.weibo.com/weibo?q=UNIQ%E5%90%88%E7%85%A7&t=31&band_rank=9&Refer=top)<br />
+8. [UNIQ合照](https://s.weibo.com/weibo?q=UNIQ%E5%90%88%E7%85%A7&t=31&band_rank=8&Refer=top)<br />
+9. [别再用大蒜保存西瓜了](https://s.weibo.com/weibo?q=%23%E5%88%AB%E5%86%8D%E7%94%A8%E5%A4%A7%E8%92%9C%E4%BF%9D%E5%AD%98%E8%A5%BF%E7%93%9C%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
