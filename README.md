@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-22 19:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-22 19:14:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [央视文娱点评《我的人间烟火》](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%96%87%E5%A8%B1%E7%82%B9%E8%AF%84%E3%80%8A%E6%88%91%E7%9A%84%E4%BA%BA%E9%97%B4%E7%83%9F%E7%81%AB%E3%80%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [超大特大城市最新名单来了](https://www.baidu.com/s?wd=%E8%B6%85%E5%A4%A7%E7%89%B9%E5%A4%A7%E5%9F%8E%E5%B8%82%E6%9C%80%E6%96%B0%E5%90%8D%E5%8D%95%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [唐尚珺被海南师大录取？校方回应](https://www.baidu.com/s?wd=%E5%94%90%E5%B0%9A%E7%8F%BA%E8%A2%AB%E6%B5%B7%E5%8D%97%E5%B8%88%E5%A4%A7%E5%BD%95%E5%8F%96%EF%BC%9F%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [母女因高颜值私教辞职要退费](https://www.baidu.com/s?wd=%E6%AF%8D%E5%A5%B3%E5%9B%A0%E9%AB%98%E9%A2%9C%E5%80%BC%E7%A7%81%E6%95%99%E8%BE%9E%E8%81%8C%E8%A6%81%E9%80%80%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [孩子考了702分爸爸喝高兴了醉驾](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E8%80%83%E4%BA%86702%E5%88%86%E7%88%B8%E7%88%B8%E5%96%9D%E9%AB%98%E5%85%B4%E4%BA%86%E9%86%89%E9%A9%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [直击贵州“村超”足球之夜](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E8%B4%B5%E5%B7%9E%E2%80%9C%E6%9D%91%E8%B6%85%E2%80%9D%E8%B6%B3%E7%90%83%E4%B9%8B%E5%A4%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [央视文娱点评《我的人间烟火》](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%96%87%E5%A8%B1%E7%82%B9%E8%AF%84%E3%80%8A%E6%88%91%E7%9A%84%E4%BA%BA%E9%97%B4%E7%83%9F%E7%81%AB%E3%80%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [超大特大城市最新名单来了](https://www.baidu.com/s?wd=%E8%B6%85%E5%A4%A7%E7%89%B9%E5%A4%A7%E5%9F%8E%E5%B8%82%E6%9C%80%E6%96%B0%E5%90%8D%E5%8D%95%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [唐尚珺被海南师大录取？校方回应](https://www.baidu.com/s?wd=%E5%94%90%E5%B0%9A%E7%8F%BA%E8%A2%AB%E6%B5%B7%E5%8D%97%E5%B8%88%E5%A4%A7%E5%BD%95%E5%8F%96%EF%BC%9F%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [母女因高颜值私教辞职要退费](https://www.baidu.com/s?wd=%E6%AF%8D%E5%A5%B3%E5%9B%A0%E9%AB%98%E9%A2%9C%E5%80%BC%E7%A7%81%E6%95%99%E8%BE%9E%E8%81%8C%E8%A6%81%E9%80%80%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [孩子考了702分爸爸喝高兴了醉驾](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E8%80%83%E4%BA%86702%E5%88%86%E7%88%B8%E7%88%B8%E5%96%9D%E9%AB%98%E5%85%B4%E4%BA%86%E9%86%89%E9%A9%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [直击贵州“村超”足球之夜](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E8%B4%B5%E5%B7%9E%E2%80%9C%E6%9D%91%E8%B6%85%E2%80%9D%E8%B6%B3%E7%90%83%E4%B9%8B%E5%A4%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
