@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 04:09:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 04:10:01</h4></div>
 
 > 微博  
 
@@ -23,9 +23,9 @@
 4. [女足姑娘加油](https://www.baidu.com/s?wd=%E5%A5%B3%E8%B6%B3%E5%A7%91%E5%A8%98%E5%8A%A0%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [《封神》投资30亿回本难](https://www.baidu.com/s?wd=%E3%80%8A%E5%B0%81%E7%A5%9E%E3%80%8B%E6%8A%95%E8%B5%8430%E4%BA%BF%E5%9B%9E%E6%9C%AC%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女足无缘开门红 水庆霞：她们尽力了](https://www.baidu.com/s?wd=%E5%A5%B3%E8%B6%B3%E6%97%A0%E7%BC%98%E5%BC%80%E9%97%A8%E7%BA%A2+%E6%B0%B4%E5%BA%86%E9%9C%9E%EF%BC%9A%E5%A5%B9%E4%BB%AC%E5%B0%BD%E5%8A%9B%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [泳池救生员一天捞同一男孩5次](https://www.baidu.com/s?wd=%E6%B3%B3%E6%B1%A0%E6%95%91%E7%94%9F%E5%91%98%E4%B8%80%E5%A4%A9%E6%8D%9E%E5%90%8C%E4%B8%80%E7%94%B7%E5%AD%A95%E6%AC%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [刘晓庆回应新剧饰演少女惹争议](https://www.baidu.com/s?wd=%E5%88%98%E6%99%93%E5%BA%86%E5%9B%9E%E5%BA%94%E6%96%B0%E5%89%A7%E9%A5%B0%E6%BC%94%E5%B0%91%E5%A5%B3%E6%83%B9%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [孩子考了702分爸爸喝高兴了醉驾](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E8%80%83%E4%BA%86702%E5%88%86%E7%88%B8%E7%88%B8%E5%96%9D%E9%AB%98%E5%85%B4%E4%BA%86%E9%86%89%E9%A9%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [孩子考了702分爸爸喝高兴了醉驾](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E8%80%83%E4%BA%86702%E5%88%86%E7%88%B8%E7%88%B8%E5%96%9D%E9%AB%98%E5%85%B4%E4%BA%86%E9%86%89%E9%A9%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [印尼团伙将122人贩运至柬埔寨卖肾](https://www.baidu.com/s?wd=%E5%8D%B0%E5%B0%BC%E5%9B%A2%E4%BC%99%E5%B0%86122%E4%BA%BA%E8%B4%A9%E8%BF%90%E8%87%B3%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%8D%96%E8%82%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [央视文娱点评《我的人间烟火》](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%96%87%E5%A8%B1%E7%82%B9%E8%AF%84%E3%80%8A%E6%88%91%E7%9A%84%E4%BA%BA%E9%97%B4%E7%83%9F%E7%81%AB%E3%80%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -35,6 +35,6 @@
 4. [女足姑娘加油](https://www.baidu.com/s?wd=%E5%A5%B3%E8%B6%B3%E5%A7%91%E5%A8%98%E5%8A%A0%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [《封神》投资30亿回本难](https://www.baidu.com/s?wd=%E3%80%8A%E5%B0%81%E7%A5%9E%E3%80%8B%E6%8A%95%E8%B5%8430%E4%BA%BF%E5%9B%9E%E6%9C%AC%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女足无缘开门红 水庆霞：她们尽力了](https://www.baidu.com/s?wd=%E5%A5%B3%E8%B6%B3%E6%97%A0%E7%BC%98%E5%BC%80%E9%97%A8%E7%BA%A2+%E6%B0%B4%E5%BA%86%E9%9C%9E%EF%BC%9A%E5%A5%B9%E4%BB%AC%E5%B0%BD%E5%8A%9B%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [泳池救生员一天捞同一男孩5次](https://www.baidu.com/s?wd=%E6%B3%B3%E6%B1%A0%E6%95%91%E7%94%9F%E5%91%98%E4%B8%80%E5%A4%A9%E6%8D%9E%E5%90%8C%E4%B8%80%E7%94%B7%E5%AD%A95%E6%AC%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [刘晓庆回应新剧饰演少女惹争议](https://www.baidu.com/s?wd=%E5%88%98%E6%99%93%E5%BA%86%E5%9B%9E%E5%BA%94%E6%96%B0%E5%89%A7%E9%A5%B0%E6%BC%94%E5%B0%91%E5%A5%B3%E6%83%B9%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [孩子考了702分爸爸喝高兴了醉驾](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E8%80%83%E4%BA%86702%E5%88%86%E7%88%B8%E7%88%B8%E5%96%9D%E9%AB%98%E5%85%B4%E4%BA%86%E9%86%89%E9%A9%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [孩子考了702分爸爸喝高兴了醉驾](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E8%80%83%E4%BA%86702%E5%88%86%E7%88%B8%E7%88%B8%E5%96%9D%E9%AB%98%E5%85%B4%E4%BA%86%E9%86%89%E9%A9%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [印尼团伙将122人贩运至柬埔寨卖肾](https://www.baidu.com/s?wd=%E5%8D%B0%E5%B0%BC%E5%9B%A2%E4%BC%99%E5%B0%86122%E4%BA%BA%E8%B4%A9%E8%BF%90%E8%87%B3%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%8D%96%E8%82%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [央视文娱点评《我的人间烟火》](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%96%87%E5%A8%B1%E7%82%B9%E8%AF%84%E3%80%8A%E6%88%91%E7%9A%84%E4%BA%BA%E9%97%B4%E7%83%9F%E7%81%AB%E3%80%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
