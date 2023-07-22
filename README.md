@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 04:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 04:09:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [孟宴臣扯领带](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AE%B4%E8%87%A3%E6%89%AF%E9%A2%86%E5%B8%A6%23&t=31&band_rank=6&Refer=top)<br />
 7. [杨迪演我看杨洋王楚然](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%BF%AA%E6%BC%94%E6%88%91%E7%9C%8B%E6%9D%A8%E6%B4%8B%E7%8E%8B%E6%A5%9A%E7%84%B6%23&t=31&band_rank=7&Refer=top)<br />
 8. [中山一骑车女子遇开门杀不幸身亡](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B1%B1%E4%B8%80%E9%AA%91%E8%BD%A6%E5%A5%B3%E5%AD%90%E9%81%87%E5%BC%80%E9%97%A8%E6%9D%80%E4%B8%8D%E5%B9%B8%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [父母去世女生被上海音乐学院录取](https://s.weibo.com/weibo?q=%23%E7%88%B6%E6%AF%8D%E5%8E%BB%E4%B8%96%E5%A5%B3%E7%94%9F%E8%A2%AB%E4%B8%8A%E6%B5%B7%E9%9F%B3%E4%B9%90%E5%AD%A6%E9%99%A2%E5%BD%95%E5%8F%96%23&t=31&band_rank=9&Refer=top)<br />
+9. [原来静音车厢是靠人工静音](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E9%9D%99%E9%9F%B3%E8%BD%A6%E5%8E%A2%E6%98%AF%E9%9D%A0%E4%BA%BA%E5%B7%A5%E9%9D%99%E9%9F%B3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -25,7 +25,7 @@
 6. [女足无缘开门红 水庆霞：她们尽力了](https://www.baidu.com/s?wd=%E5%A5%B3%E8%B6%B3%E6%97%A0%E7%BC%98%E5%BC%80%E9%97%A8%E7%BA%A2+%E6%B0%B4%E5%BA%86%E9%9C%9E%EF%BC%9A%E5%A5%B9%E4%BB%AC%E5%B0%BD%E5%8A%9B%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [泳池救生员一天捞同一男孩5次](https://www.baidu.com/s?wd=%E6%B3%B3%E6%B1%A0%E6%95%91%E7%94%9F%E5%91%98%E4%B8%80%E5%A4%A9%E6%8D%9E%E5%90%8C%E4%B8%80%E7%94%B7%E5%AD%A95%E6%AC%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [刘晓庆回应新剧饰演少女惹争议](https://www.baidu.com/s?wd=%E5%88%98%E6%99%93%E5%BA%86%E5%9B%9E%E5%BA%94%E6%96%B0%E5%89%A7%E9%A5%B0%E6%BC%94%E5%B0%91%E5%A5%B3%E6%83%B9%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [受精卵从子宫出逃 在女子直肠安家](https://www.baidu.com/s?wd=%E5%8F%97%E7%B2%BE%E5%8D%B5%E4%BB%8E%E5%AD%90%E5%AE%AB%E5%87%BA%E9%80%83+%E5%9C%A8%E5%A5%B3%E5%AD%90%E7%9B%B4%E8%82%A0%E5%AE%89%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [孩子考了702分爸爸喝高兴了醉驾](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E8%80%83%E4%BA%86702%E5%88%86%E7%88%B8%E7%88%B8%E5%96%9D%E9%AB%98%E5%85%B4%E4%BA%86%E9%86%89%E9%A9%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [女足无缘开门红 水庆霞：她们尽力了](https://www.baidu.com/s?wd=%E5%A5%B3%E8%B6%B3%E6%97%A0%E7%BC%98%E5%BC%80%E9%97%A8%E7%BA%A2+%E6%B0%B4%E5%BA%86%E9%9C%9E%EF%BC%9A%E5%A5%B9%E4%BB%AC%E5%B0%BD%E5%8A%9B%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [泳池救生员一天捞同一男孩5次](https://www.baidu.com/s?wd=%E6%B3%B3%E6%B1%A0%E6%95%91%E7%94%9F%E5%91%98%E4%B8%80%E5%A4%A9%E6%8D%9E%E5%90%8C%E4%B8%80%E7%94%B7%E5%AD%A95%E6%AC%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [刘晓庆回应新剧饰演少女惹争议](https://www.baidu.com/s?wd=%E5%88%98%E6%99%93%E5%BA%86%E5%9B%9E%E5%BA%94%E6%96%B0%E5%89%A7%E9%A5%B0%E6%BC%94%E5%B0%91%E5%A5%B3%E6%83%B9%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [受精卵从子宫出逃 在女子直肠安家](https://www.baidu.com/s?wd=%E5%8F%97%E7%B2%BE%E5%8D%B5%E4%BB%8E%E5%AD%90%E5%AE%AB%E5%87%BA%E9%80%83+%E5%9C%A8%E5%A5%B3%E5%AD%90%E7%9B%B4%E8%82%A0%E5%AE%89%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [孩子考了702分爸爸喝高兴了醉驾](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E8%80%83%E4%BA%86702%E5%88%86%E7%88%B8%E7%88%B8%E5%96%9D%E9%AB%98%E5%85%B4%E4%BA%86%E9%86%89%E9%A9%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
