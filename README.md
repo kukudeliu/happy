@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 00:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 00:27:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [这是王一博个人演唱会吧](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E7%8E%8B%E4%B8%80%E5%8D%9A%E4%B8%AA%E4%BA%BA%E6%BC%94%E5%94%B1%E4%BC%9A%E5%90%A7%23&t=31&band_rank=6&Refer=top)<br />
 7. [网传一外籍男子踢倒藏区玛尼堆](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E4%B8%80%E5%A4%96%E7%B1%8D%E7%94%B7%E5%AD%90%E8%B8%A2%E5%80%92%E8%97%8F%E5%8C%BA%E7%8E%9B%E5%B0%BC%E5%A0%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [中山一骑车女子遇开门杀不幸身亡](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B1%B1%E4%B8%80%E9%AA%91%E8%BD%A6%E5%A5%B3%E5%AD%90%E9%81%87%E5%BC%80%E9%97%A8%E6%9D%80%E4%B8%8D%E5%B9%B8%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [男子含着蟑螂下馆子敲诈商家被拘](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%90%AB%E7%9D%80%E8%9F%91%E8%9E%82%E4%B8%8B%E9%A6%86%E5%AD%90%E6%95%B2%E8%AF%88%E5%95%86%E5%AE%B6%E8%A2%AB%E6%8B%98%23&t=31&band_rank=9&Refer=top)<br />
+9. [布加迪](https://s.weibo.com/weibo?q=%E5%B8%83%E5%8A%A0%E8%BF%AA&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
