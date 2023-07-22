@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-22 08:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-22 08:19:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [西安警方已控制13名回流生涉案人员](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E8%AD%A6%E6%96%B9%E5%B7%B2%E6%8E%A7%E5%88%B613%E5%90%8D%E5%9B%9E%E6%B5%81%E7%94%9F%E6%B6%89%E6%A1%88%E4%BA%BA%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [疑城管拔掉瓜田横幅：种地不能打广告](https://www.baidu.com/s?wd=%E7%96%91%E5%9F%8E%E7%AE%A1%E6%8B%94%E6%8E%89%E7%93%9C%E7%94%B0%E6%A8%AA%E5%B9%85%EF%BC%9A%E7%A7%8D%E5%9C%B0%E4%B8%8D%E8%83%BD%E6%89%93%E5%B9%BF%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子新车被交警扣押后变水泡车](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%96%B0%E8%BD%A6%E8%A2%AB%E4%BA%A4%E8%AD%A6%E6%89%A3%E6%8A%BC%E5%90%8E%E5%8F%98%E6%B0%B4%E6%B3%A1%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [西安：将对3608名回流生逐一甄别](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%EF%BC%9A%E5%B0%86%E5%AF%B93608%E5%90%8D%E5%9B%9E%E6%B5%81%E7%94%9F%E9%80%90%E4%B8%80%E7%94%84%E5%88%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [韩总统尹锡悦岳母当庭被捕](https://www.baidu.com/s?wd=%E9%9F%A9%E6%80%BB%E7%BB%9F%E5%B0%B9%E9%94%A1%E6%82%A6%E5%B2%B3%E6%AF%8D%E5%BD%93%E5%BA%AD%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [两男子挖堤坝灌溉玉米地瞬间被淹](https://www.baidu.com/s?wd=%E4%B8%A4%E7%94%B7%E5%AD%90%E6%8C%96%E5%A0%A4%E5%9D%9D%E7%81%8C%E6%BA%89%E7%8E%89%E7%B1%B3%E5%9C%B0%E7%9E%AC%E9%97%B4%E8%A2%AB%E6%B7%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [西安：将对3608名回流生逐一甄别](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%EF%BC%9A%E5%B0%86%E5%AF%B93608%E5%90%8D%E5%9B%9E%E6%B5%81%E7%94%9F%E9%80%90%E4%B8%80%E7%94%84%E5%88%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [西安警方已控制13名回流生涉案人员](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E8%AD%A6%E6%96%B9%E5%B7%B2%E6%8E%A7%E5%88%B613%E5%90%8D%E5%9B%9E%E6%B5%81%E7%94%9F%E6%B6%89%E6%A1%88%E4%BA%BA%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [疑城管拔掉瓜田横幅：种地不能打广告](https://www.baidu.com/s?wd=%E7%96%91%E5%9F%8E%E7%AE%A1%E6%8B%94%E6%8E%89%E7%93%9C%E7%94%B0%E6%A8%AA%E5%B9%85%EF%BC%9A%E7%A7%8D%E5%9C%B0%E4%B8%8D%E8%83%BD%E6%89%93%E5%B9%BF%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子新车被交警扣押后变水泡车](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%96%B0%E8%BD%A6%E8%A2%AB%E4%BA%A4%E8%AD%A6%E6%89%A3%E6%8A%BC%E5%90%8E%E5%8F%98%E6%B0%B4%E6%B3%A1%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [西安：将对3608名回流生逐一甄别](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%EF%BC%9A%E5%B0%86%E5%AF%B93608%E5%90%8D%E5%9B%9E%E6%B5%81%E7%94%9F%E9%80%90%E4%B8%80%E7%94%84%E5%88%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [韩总统尹锡悦岳母当庭被捕](https://www.baidu.com/s?wd=%E9%9F%A9%E6%80%BB%E7%BB%9F%E5%B0%B9%E9%94%A1%E6%82%A6%E5%B2%B3%E6%AF%8D%E5%BD%93%E5%BA%AD%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [两男子挖堤坝灌溉玉米地瞬间被淹](https://www.baidu.com/s?wd=%E4%B8%A4%E7%94%B7%E5%AD%90%E6%8C%96%E5%A0%A4%E5%9D%9D%E7%81%8C%E6%BA%89%E7%8E%89%E7%B1%B3%E5%9C%B0%E7%9E%AC%E9%97%B4%E8%A2%AB%E6%B7%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [西安：将对3608名回流生逐一甄别](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%EF%BC%9A%E5%B0%86%E5%AF%B93608%E5%90%8D%E5%9B%9E%E6%B5%81%E7%94%9F%E9%80%90%E4%B8%80%E7%94%84%E5%88%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
