@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-22 12:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-22 12:30:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [范丞丞姜珮瑶吻戏](https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E5%A7%9C%E7%8F%AE%E7%91%B6%E5%90%BB%E6%88%8F%23&t=31&band_rank=6&Refer=top)<br />
 7. [高铁坐过站可以免费坐回去](https://s.weibo.com/weibo?q=%E9%AB%98%E9%93%81%E5%9D%90%E8%BF%87%E7%AB%99%E5%8F%AF%E4%BB%A5%E5%85%8D%E8%B4%B9%E5%9D%90%E5%9B%9E%E5%8E%BB&t=31&band_rank=7&Refer=top)<br />
 8. [梅西任意球绝杀](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E4%BB%BB%E6%84%8F%E7%90%83%E7%BB%9D%E6%9D%80%23&t=31&band_rank=8&Refer=top)<br />
-9. [教科书里的女生原来是她](https://s.weibo.com/weibo?q=%23%E6%95%99%E7%A7%91%E4%B9%A6%E9%87%8C%E7%9A%84%E5%A5%B3%E7%94%9F%E5%8E%9F%E6%9D%A5%E6%98%AF%E5%A5%B9%23&t=31&band_rank=9&Refer=top)<br />
+9. [美国女足3比0越南女足](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A5%B3%E8%B6%B33%E6%AF%940%E8%B6%8A%E5%8D%97%E5%A5%B3%E8%B6%B3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
