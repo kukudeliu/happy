@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 11:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 11:09:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [林志玲回应退圈](https://www.baidu.com/s?wd=%E6%9E%97%E5%BF%97%E7%8E%B2%E5%9B%9E%E5%BA%94%E9%80%80%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [川航8985紧急备降江苏](https://www.baidu.com/s?wd=%E5%B7%9D%E8%88%AA8985%E7%B4%A7%E6%80%A5%E5%A4%87%E9%99%8D%E6%B1%9F%E8%8B%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [武大靖记忆只有7秒](https://www.baidu.com/s?wd=%E6%AD%A6%E5%A4%A7%E9%9D%96%E8%AE%B0%E5%BF%86%E5%8F%AA%E6%9C%897%E7%A7%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [农业农村部回应“烂场雨”](https://www.baidu.com/s?wd=%E5%86%9C%E4%B8%9A%E5%86%9C%E6%9D%91%E9%83%A8%E5%9B%9E%E5%BA%94%E2%80%9C%E7%83%82%E5%9C%BA%E9%9B%A8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [卫生局副局长向院长索贿456万元](https://www.baidu.com/s?wd=%E5%8D%AB%E7%94%9F%E5%B1%80%E5%89%AF%E5%B1%80%E9%95%BF%E5%90%91%E9%99%A2%E9%95%BF%E7%B4%A2%E8%B4%BF456%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [林志玲回应退圈](https://www.baidu.com/s?wd=%E6%9E%97%E5%BF%97%E7%8E%B2%E5%9B%9E%E5%BA%94%E9%80%80%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [川航8985紧急备降江苏](https://www.baidu.com/s?wd=%E5%B7%9D%E8%88%AA8985%E7%B4%A7%E6%80%A5%E5%A4%87%E9%99%8D%E6%B1%9F%E8%8B%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [武大靖记忆只有7秒](https://www.baidu.com/s?wd=%E6%AD%A6%E5%A4%A7%E9%9D%96%E8%AE%B0%E5%BF%86%E5%8F%AA%E6%9C%897%E7%A7%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [农业农村部回应“烂场雨”](https://www.baidu.com/s?wd=%E5%86%9C%E4%B8%9A%E5%86%9C%E6%9D%91%E9%83%A8%E5%9B%9E%E5%BA%94%E2%80%9C%E7%83%82%E5%9C%BA%E9%9B%A8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [卫生局副局长向院长索贿456万元](https://www.baidu.com/s?wd=%E5%8D%AB%E7%94%9F%E5%B1%80%E5%89%AF%E5%B1%80%E9%95%BF%E5%90%91%E9%99%A2%E9%95%BF%E7%B4%A2%E8%B4%BF456%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
