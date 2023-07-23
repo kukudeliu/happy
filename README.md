@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 02:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 02:29:01</h4></div>
 
 > 微博  
 
@@ -22,10 +22,10 @@
 3. [刀郎《罗刹海市》歌词引热议](https://www.baidu.com/s?wd=%E5%88%80%E9%83%8E%E3%80%8A%E7%BD%97%E5%88%B9%E6%B5%B7%E5%B8%82%E3%80%8B%E6%AD%8C%E8%AF%8D%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [一组彩色密码打开成都大运会](https://www.baidu.com/s?wd=%E4%B8%80%E7%BB%84%E5%BD%A9%E8%89%B2%E5%AF%86%E7%A0%81%E6%89%93%E5%BC%80%E6%88%90%E9%83%BD%E5%A4%A7%E8%BF%90%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [长江上游新一轮强降雨来袭](https://www.baidu.com/s?wd=%E9%95%BF%E6%B1%9F%E4%B8%8A%E6%B8%B8%E6%96%B0%E4%B8%80%E8%BD%AE%E5%BC%BA%E9%99%8D%E9%9B%A8%E6%9D%A5%E8%A2%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [普京：乌军反攻损失超2.6万人](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E4%B9%8C%E5%86%9B%E5%8F%8D%E6%94%BB%E6%8D%9F%E5%A4%B1%E8%B6%852.6%E4%B8%87%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [一针管半年，超长效降压药来了？](https://www.baidu.com/s?wd=%E4%B8%80%E9%92%88%E7%AE%A1%E5%8D%8A%E5%B9%B4%EF%BC%8C%E8%B6%85%E9%95%BF%E6%95%88%E9%99%8D%E5%8E%8B%E8%8D%AF%E6%9D%A5%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [爸爸半夜馋酒 找女儿当“酒搭子”](https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8%E5%8D%8A%E5%A4%9C%E9%A6%8B%E9%85%92+%E6%89%BE%E5%A5%B3%E5%84%BF%E5%BD%93%E2%80%9C%E9%85%92%E6%90%AD%E5%AD%90%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [瓦格纳“真正领导人”现身](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E2%80%9C%E7%9C%9F%E6%AD%A3%E9%A2%86%E5%AF%BC%E4%BA%BA%E2%80%9D%E7%8E%B0%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [普京称基辅反攻已失败](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E7%A7%B0%E5%9F%BA%E8%BE%85%E5%8F%8D%E6%94%BB%E5%B7%B2%E5%A4%B1%E8%B4%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [泼水节女网红被泼后与游客起冲突](https://www.baidu.com/s?wd=%E6%B3%BC%E6%B0%B4%E8%8A%82%E5%A5%B3%E7%BD%91%E7%BA%A2%E8%A2%AB%E6%B3%BC%E5%90%8E%E4%B8%8E%E6%B8%B8%E5%AE%A2%E8%B5%B7%E5%86%B2%E7%AA%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [俄方回应记者遭集束炸弹炮击身亡](https://www.baidu.com/s?wd=%E4%BF%84%E6%96%B9%E5%9B%9E%E5%BA%94%E8%AE%B0%E8%80%85%E9%81%AD%E9%9B%86%E6%9D%9F%E7%82%B8%E5%BC%B9%E7%82%AE%E5%87%BB%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [媒体评乐队主唱扔掉提词器](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E4%B9%90%E9%98%9F%E4%B8%BB%E5%94%B1%E6%89%94%E6%8E%89%E6%8F%90%E8%AF%8D%E5%99%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -34,7 +34,7 @@
 3. [刀郎《罗刹海市》歌词引热议](https://www.baidu.com/s?wd=%E5%88%80%E9%83%8E%E3%80%8A%E7%BD%97%E5%88%B9%E6%B5%B7%E5%B8%82%E3%80%8B%E6%AD%8C%E8%AF%8D%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [一组彩色密码打开成都大运会](https://www.baidu.com/s?wd=%E4%B8%80%E7%BB%84%E5%BD%A9%E8%89%B2%E5%AF%86%E7%A0%81%E6%89%93%E5%BC%80%E6%88%90%E9%83%BD%E5%A4%A7%E8%BF%90%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [长江上游新一轮强降雨来袭](https://www.baidu.com/s?wd=%E9%95%BF%E6%B1%9F%E4%B8%8A%E6%B8%B8%E6%96%B0%E4%B8%80%E8%BD%AE%E5%BC%BA%E9%99%8D%E9%9B%A8%E6%9D%A5%E8%A2%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [普京：乌军反攻损失超2.6万人](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E4%B9%8C%E5%86%9B%E5%8F%8D%E6%94%BB%E6%8D%9F%E5%A4%B1%E8%B6%852.6%E4%B8%87%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [一针管半年，超长效降压药来了？](https://www.baidu.com/s?wd=%E4%B8%80%E9%92%88%E7%AE%A1%E5%8D%8A%E5%B9%B4%EF%BC%8C%E8%B6%85%E9%95%BF%E6%95%88%E9%99%8D%E5%8E%8B%E8%8D%AF%E6%9D%A5%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [爸爸半夜馋酒 找女儿当“酒搭子”](https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8%E5%8D%8A%E5%A4%9C%E9%A6%8B%E9%85%92+%E6%89%BE%E5%A5%B3%E5%84%BF%E5%BD%93%E2%80%9C%E9%85%92%E6%90%AD%E5%AD%90%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [瓦格纳“真正领导人”现身](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E2%80%9C%E7%9C%9F%E6%AD%A3%E9%A2%86%E5%AF%BC%E4%BA%BA%E2%80%9D%E7%8E%B0%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [普京称基辅反攻已失败](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E7%A7%B0%E5%9F%BA%E8%BE%85%E5%8F%8D%E6%94%BB%E5%B7%B2%E5%A4%B1%E8%B4%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [泼水节女网红被泼后与游客起冲突](https://www.baidu.com/s?wd=%E6%B3%BC%E6%B0%B4%E8%8A%82%E5%A5%B3%E7%BD%91%E7%BA%A2%E8%A2%AB%E6%B3%BC%E5%90%8E%E4%B8%8E%E6%B8%B8%E5%AE%A2%E8%B5%B7%E5%86%B2%E7%AA%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [俄方回应记者遭集束炸弹炮击身亡](https://www.baidu.com/s?wd=%E4%BF%84%E6%96%B9%E5%9B%9E%E5%BA%94%E8%AE%B0%E8%80%85%E9%81%AD%E9%9B%86%E6%9D%9F%E7%82%B8%E5%BC%B9%E7%82%AE%E5%87%BB%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [媒体评乐队主唱扔掉提词器](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E4%B9%90%E9%98%9F%E4%B8%BB%E5%94%B1%E6%89%94%E6%8E%89%E6%8F%90%E8%AF%8D%E5%99%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
