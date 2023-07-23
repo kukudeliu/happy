@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 13:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 13:47:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [交警录入错误致男孩有案底转学被拒](https://s.weibo.com/weibo?q=%23%E4%BA%A4%E8%AD%A6%E5%BD%95%E5%85%A5%E9%94%99%E8%AF%AF%E8%87%B4%E7%94%B7%E5%AD%A9%E6%9C%89%E6%A1%88%E5%BA%95%E8%BD%AC%E5%AD%A6%E8%A2%AB%E6%8B%92%23&t=31&band_rank=6&Refer=top)<br />
 7. [迪丽热巴受伤了](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%8F%97%E4%BC%A4%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [敬礼娃娃郎铮被北大录取](https://s.weibo.com/weibo?q=%23%E6%95%AC%E7%A4%BC%E5%A8%83%E5%A8%83%E9%83%8E%E9%93%AE%E8%A2%AB%E5%8C%97%E5%A4%A7%E5%BD%95%E5%8F%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [魏大勋让杨洋别耍帅了](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E8%AE%A9%E6%9D%A8%E6%B4%8B%E5%88%AB%E8%80%8D%E5%B8%85%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [傲寒](https://s.weibo.com/weibo?q=%E5%82%B2%E5%AF%92&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
