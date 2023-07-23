@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 16:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 16:34:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [布加迪超跑强行加塞撞到宝马](https://www.baidu.com/s?wd=%E5%B8%83%E5%8A%A0%E8%BF%AA%E8%B6%85%E8%B7%91%E5%BC%BA%E8%A1%8C%E5%8A%A0%E5%A1%9E%E6%92%9E%E5%88%B0%E5%AE%9D%E9%A9%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [36岁男子吹空调住进ICU](https://www.baidu.com/s?wd=36%E5%B2%81%E7%94%B7%E5%AD%90%E5%90%B9%E7%A9%BA%E8%B0%83%E4%BD%8F%E8%BF%9BICU&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [店家卖穿马面裙戴发簪冰淇淋引争议](https://www.baidu.com/s?wd=%E5%BA%97%E5%AE%B6%E5%8D%96%E7%A9%BF%E9%A9%AC%E9%9D%A2%E8%A3%99%E6%88%B4%E5%8F%91%E7%B0%AA%E5%86%B0%E6%B7%87%E6%B7%8B%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [攀枝花泳协秘书长跳江救人遇难](https://www.baidu.com/s?wd=%E6%94%80%E6%9E%9D%E8%8A%B1%E6%B3%B3%E5%8D%8F%E7%A7%98%E4%B9%A6%E9%95%BF%E8%B7%B3%E6%B1%9F%E6%95%91%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [华人神探李昌钰被指伪造证据](https://www.baidu.com/s?wd=%E5%8D%8E%E4%BA%BA%E7%A5%9E%E6%8E%A2%E6%9D%8E%E6%98%8C%E9%92%B0%E8%A2%AB%E6%8C%87%E4%BC%AA%E9%80%A0%E8%AF%81%E6%8D%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中建八局再陷“工程质量”疑云](https://www.baidu.com/s?wd=%E4%B8%AD%E5%BB%BA%E5%85%AB%E5%B1%80%E5%86%8D%E9%99%B7%E2%80%9C%E5%B7%A5%E7%A8%8B%E8%B4%A8%E9%87%8F%E2%80%9D%E7%96%91%E4%BA%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [攀枝花泳协秘书长跳江救人遇难](https://www.baidu.com/s?wd=%E6%94%80%E6%9E%9D%E8%8A%B1%E6%B3%B3%E5%8D%8F%E7%A7%98%E4%B9%A6%E9%95%BF%E8%B7%B3%E6%B1%9F%E6%95%91%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [布加迪超跑强行加塞撞到宝马](https://www.baidu.com/s?wd=%E5%B8%83%E5%8A%A0%E8%BF%AA%E8%B6%85%E8%B7%91%E5%BC%BA%E8%A1%8C%E5%8A%A0%E5%A1%9E%E6%92%9E%E5%88%B0%E5%AE%9D%E9%A9%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [36岁男子吹空调住进ICU](https://www.baidu.com/s?wd=36%E5%B2%81%E7%94%B7%E5%AD%90%E5%90%B9%E7%A9%BA%E8%B0%83%E4%BD%8F%E8%BF%9BICU&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [店家卖穿马面裙戴发簪冰淇淋引争议](https://www.baidu.com/s?wd=%E5%BA%97%E5%AE%B6%E5%8D%96%E7%A9%BF%E9%A9%AC%E9%9D%A2%E8%A3%99%E6%88%B4%E5%8F%91%E7%B0%AA%E5%86%B0%E6%B7%87%E6%B7%8B%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [攀枝花泳协秘书长跳江救人遇难](https://www.baidu.com/s?wd=%E6%94%80%E6%9E%9D%E8%8A%B1%E6%B3%B3%E5%8D%8F%E7%A7%98%E4%B9%A6%E9%95%BF%E8%B7%B3%E6%B1%9F%E6%95%91%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [华人神探李昌钰被指伪造证据](https://www.baidu.com/s?wd=%E5%8D%8E%E4%BA%BA%E7%A5%9E%E6%8E%A2%E6%9D%8E%E6%98%8C%E9%92%B0%E8%A2%AB%E6%8C%87%E4%BC%AA%E9%80%A0%E8%AF%81%E6%8D%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中建八局再陷“工程质量”疑云](https://www.baidu.com/s?wd=%E4%B8%AD%E5%BB%BA%E5%85%AB%E5%B1%80%E5%86%8D%E9%99%B7%E2%80%9C%E5%B7%A5%E7%A8%8B%E8%B4%A8%E9%87%8F%E2%80%9D%E7%96%91%E4%BA%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [攀枝花泳协秘书长跳江救人遇难](https://www.baidu.com/s?wd=%E6%94%80%E6%9E%9D%E8%8A%B1%E6%B3%B3%E5%8D%8F%E7%A7%98%E4%B9%A6%E9%95%BF%E8%B7%B3%E6%B1%9F%E6%95%91%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
