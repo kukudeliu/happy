@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 10:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 10:28:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [付闻樱问孟宴臣你怎么不去死](https://s.weibo.com/weibo?q=%23%E4%BB%98%E9%97%BB%E6%A8%B1%E9%97%AE%E5%AD%9F%E5%AE%B4%E8%87%A3%E4%BD%A0%E6%80%8E%E4%B9%88%E4%B8%8D%E5%8E%BB%E6%AD%BB%23&t=31&band_rank=5&Refer=top)<br />
 6. [迪丽热巴受伤了](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%8F%97%E4%BC%A4%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [徐海乔评论区](https://s.weibo.com/weibo?q=%E5%BE%90%E6%B5%B7%E4%B9%94%E8%AF%84%E8%AE%BA%E5%8C%BA&t=31&band_rank=7&Refer=top)<br />
-8. [四川内江地震](https://s.weibo.com/weibo?q=%E5%9B%9B%E5%B7%9D%E5%86%85%E6%B1%9F%E5%9C%B0%E9%9C%87&t=31&band_rank=8&Refer=top)<br />
-9. [宇智波佐助](https://s.weibo.com/weibo?q=%23%E5%AE%87%E6%99%BA%E6%B3%A2%E4%BD%90%E5%8A%A9%23&t=31&band_rank=9&Refer=top)<br />
+8. [穿cos服医学生雨中跪地救人](https://s.weibo.com/weibo?q=%23%E7%A9%BFcos%E6%9C%8D%E5%8C%BB%E5%AD%A6%E7%94%9F%E9%9B%A8%E4%B8%AD%E8%B7%AA%E5%9C%B0%E6%95%91%E4%BA%BA%23&t=31&band_rank=8&Refer=top)<br />
+9. [四川内江地震](https://s.weibo.com/weibo?q=%E5%9B%9B%E5%B7%9D%E5%86%85%E6%B1%9F%E5%9C%B0%E9%9C%87&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
