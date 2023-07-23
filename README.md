@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 20:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 20:17:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [宋焰许沁婚房在高铁旁边](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E7%84%B0%E8%AE%B8%E6%B2%81%E5%A9%9A%E6%88%BF%E5%9C%A8%E9%AB%98%E9%93%81%E6%97%81%E8%BE%B9%23&t=31&band_rank=6&Refer=top)<br />
 7. [黑龙江体育馆坍塌已营救8人](https://s.weibo.com/weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C%E5%B7%B2%E8%90%A5%E6%95%918%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [为什么打针前要推掉一点药水](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%89%93%E9%92%88%E5%89%8D%E8%A6%81%E6%8E%A8%E6%8E%89%E4%B8%80%E7%82%B9%E8%8D%AF%E6%B0%B4&t=31&band_rank=8&Refer=top)<br />
-9. [女子被医院紧急电话轰炸挽回一命](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%8C%BB%E9%99%A2%E7%B4%A7%E6%80%A5%E7%94%B5%E8%AF%9D%E8%BD%B0%E7%82%B8%E6%8C%BD%E5%9B%9E%E4%B8%80%E5%91%BD%23&t=31&band_rank=9&Refer=top)<br />
+9. [高铁座位上的二维码真的有用](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E5%BA%A7%E4%BD%8D%E4%B8%8A%E7%9A%84%E4%BA%8C%E7%BB%B4%E7%A0%81%E7%9C%9F%E7%9A%84%E6%9C%89%E7%94%A8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
