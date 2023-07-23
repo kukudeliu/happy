@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 03:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 03:34:01</h4></div>
 
 > 微博  
 
@@ -22,10 +22,10 @@
 3. [刀郎《罗刹海市》歌词引热议](https://www.baidu.com/s?wd=%E5%88%80%E9%83%8E%E3%80%8A%E7%BD%97%E5%88%B9%E6%B5%B7%E5%B8%82%E3%80%8B%E6%AD%8C%E8%AF%8D%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [一组彩色密码打开成都大运会](https://www.baidu.com/s?wd=%E4%B8%80%E7%BB%84%E5%BD%A9%E8%89%B2%E5%AF%86%E7%A0%81%E6%89%93%E5%BC%80%E6%88%90%E9%83%BD%E5%A4%A7%E8%BF%90%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [长江上游新一轮强降雨来袭](https://www.baidu.com/s?wd=%E9%95%BF%E6%B1%9F%E4%B8%8A%E6%B8%B8%E6%96%B0%E4%B8%80%E8%BD%AE%E5%BC%BA%E9%99%8D%E9%9B%A8%E6%9D%A5%E8%A2%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [武汉晋级为全国超大城市](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E6%99%8B%E7%BA%A7%E4%B8%BA%E5%85%A8%E5%9B%BD%E8%B6%85%E5%A4%A7%E5%9F%8E%E5%B8%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [36岁男子吹空调住进ICU](https://www.baidu.com/s?wd=36%E5%B2%81%E7%94%B7%E5%AD%90%E5%90%B9%E7%A9%BA%E8%B0%83%E4%BD%8F%E8%BF%9BICU&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [中建八局再陷“工程质量”疑云](https://www.baidu.com/s?wd=%E4%B8%AD%E5%BB%BA%E5%85%AB%E5%B1%80%E5%86%8D%E9%99%B7%E2%80%9C%E5%B7%A5%E7%A8%8B%E8%B4%A8%E9%87%8F%E2%80%9D%E7%96%91%E4%BA%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [“大水冲了龙王庙” 龙门古镇闭园](https://www.baidu.com/s?wd=%E2%80%9C%E5%A4%A7%E6%B0%B4%E5%86%B2%E4%BA%86%E9%BE%99%E7%8E%8B%E5%BA%99%E2%80%9D+%E9%BE%99%E9%97%A8%E5%8F%A4%E9%95%87%E9%97%AD%E5%9B%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [普京称基辅反攻已失败](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E7%A7%B0%E5%9F%BA%E8%BE%85%E5%8F%8D%E6%94%BB%E5%B7%B2%E5%A4%B1%E8%B4%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [武汉晋级为全国超大城市](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E6%99%8B%E7%BA%A7%E4%B8%BA%E5%85%A8%E5%9B%BD%E8%B6%85%E5%A4%A7%E5%9F%8E%E5%B8%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [一针管半年，超长效降压药来了？](https://www.baidu.com/s?wd=%E4%B8%80%E9%92%88%E7%AE%A1%E5%8D%8A%E5%B9%B4%EF%BC%8C%E8%B6%85%E9%95%BF%E6%95%88%E9%99%8D%E5%8E%8B%E8%8D%AF%E6%9D%A5%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [36岁男子吹空调住进ICU](https://www.baidu.com/s?wd=36%E5%B2%81%E7%94%B7%E5%AD%90%E5%90%B9%E7%A9%BA%E8%B0%83%E4%BD%8F%E8%BF%9BICU&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -34,7 +34,7 @@
 3. [刀郎《罗刹海市》歌词引热议](https://www.baidu.com/s?wd=%E5%88%80%E9%83%8E%E3%80%8A%E7%BD%97%E5%88%B9%E6%B5%B7%E5%B8%82%E3%80%8B%E6%AD%8C%E8%AF%8D%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [一组彩色密码打开成都大运会](https://www.baidu.com/s?wd=%E4%B8%80%E7%BB%84%E5%BD%A9%E8%89%B2%E5%AF%86%E7%A0%81%E6%89%93%E5%BC%80%E6%88%90%E9%83%BD%E5%A4%A7%E8%BF%90%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [长江上游新一轮强降雨来袭](https://www.baidu.com/s?wd=%E9%95%BF%E6%B1%9F%E4%B8%8A%E6%B8%B8%E6%96%B0%E4%B8%80%E8%BD%AE%E5%BC%BA%E9%99%8D%E9%9B%A8%E6%9D%A5%E8%A2%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [武汉晋级为全国超大城市](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E6%99%8B%E7%BA%A7%E4%B8%BA%E5%85%A8%E5%9B%BD%E8%B6%85%E5%A4%A7%E5%9F%8E%E5%B8%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [36岁男子吹空调住进ICU](https://www.baidu.com/s?wd=36%E5%B2%81%E7%94%B7%E5%AD%90%E5%90%B9%E7%A9%BA%E8%B0%83%E4%BD%8F%E8%BF%9BICU&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [中建八局再陷“工程质量”疑云](https://www.baidu.com/s?wd=%E4%B8%AD%E5%BB%BA%E5%85%AB%E5%B1%80%E5%86%8D%E9%99%B7%E2%80%9C%E5%B7%A5%E7%A8%8B%E8%B4%A8%E9%87%8F%E2%80%9D%E7%96%91%E4%BA%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [“大水冲了龙王庙” 龙门古镇闭园](https://www.baidu.com/s?wd=%E2%80%9C%E5%A4%A7%E6%B0%B4%E5%86%B2%E4%BA%86%E9%BE%99%E7%8E%8B%E5%BA%99%E2%80%9D+%E9%BE%99%E9%97%A8%E5%8F%A4%E9%95%87%E9%97%AD%E5%9B%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [普京称基辅反攻已失败](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E7%A7%B0%E5%9F%BA%E8%BE%85%E5%8F%8D%E6%94%BB%E5%B7%B2%E5%A4%B1%E8%B4%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [武汉晋级为全国超大城市](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E6%99%8B%E7%BA%A7%E4%B8%BA%E5%85%A8%E5%9B%BD%E8%B6%85%E5%A4%A7%E5%9F%8E%E5%B8%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [一针管半年，超长效降压药来了？](https://www.baidu.com/s?wd=%E4%B8%80%E9%92%88%E7%AE%A1%E5%8D%8A%E5%B9%B4%EF%BC%8C%E8%B6%85%E9%95%BF%E6%95%88%E9%99%8D%E5%8E%8B%E8%8D%AF%E6%9D%A5%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [36岁男子吹空调住进ICU](https://www.baidu.com/s?wd=36%E5%B2%81%E7%94%B7%E5%AD%90%E5%90%B9%E7%A9%BA%E8%B0%83%E4%BD%8F%E8%BF%9BICU&sa=fyb_news&rsv_dl=fyb_news)<br />
