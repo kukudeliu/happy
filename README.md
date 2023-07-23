@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 03:27:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 03:28:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [“大水冲了龙王庙” 龙门古镇闭园](https://www.baidu.com/s?wd=%E2%80%9C%E5%A4%A7%E6%B0%B4%E5%86%B2%E4%BA%86%E9%BE%99%E7%8E%8B%E5%BA%99%E2%80%9D+%E9%BE%99%E9%97%A8%E5%8F%A4%E9%95%87%E9%97%AD%E5%9B%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [吴京说让外国观众看到中国文化](https://www.baidu.com/s?wd=%E5%90%B4%E4%BA%AC%E8%AF%B4%E8%AE%A9%E5%A4%96%E5%9B%BD%E8%A7%82%E4%BC%97%E7%9C%8B%E5%88%B0%E4%B8%AD%E5%9B%BD%E6%96%87%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [武汉晋级为全国超大城市](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E6%99%8B%E7%BA%A7%E4%B8%BA%E5%85%A8%E5%9B%BD%E8%B6%85%E5%A4%A7%E5%9F%8E%E5%B8%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [36岁男子吹空调住进ICU](https://www.baidu.com/s?wd=36%E5%B2%81%E7%94%B7%E5%AD%90%E5%90%B9%E7%A9%BA%E8%B0%83%E4%BD%8F%E8%BF%9BICU&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [黑龙江多地“大暑”不暑](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%A4%9A%E5%9C%B0%E2%80%9C%E5%A4%A7%E6%9A%91%E2%80%9D%E4%B8%8D%E6%9A%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [“大水冲了龙王庙” 龙门古镇闭园](https://www.baidu.com/s?wd=%E2%80%9C%E5%A4%A7%E6%B0%B4%E5%86%B2%E4%BA%86%E9%BE%99%E7%8E%8B%E5%BA%99%E2%80%9D+%E9%BE%99%E9%97%A8%E5%8F%A4%E9%95%87%E9%97%AD%E5%9B%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [吴京说让外国观众看到中国文化](https://www.baidu.com/s?wd=%E5%90%B4%E4%BA%AC%E8%AF%B4%E8%AE%A9%E5%A4%96%E5%9B%BD%E8%A7%82%E4%BC%97%E7%9C%8B%E5%88%B0%E4%B8%AD%E5%9B%BD%E6%96%87%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [武汉晋级为全国超大城市](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E6%99%8B%E7%BA%A7%E4%B8%BA%E5%85%A8%E5%9B%BD%E8%B6%85%E5%A4%A7%E5%9F%8E%E5%B8%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [36岁男子吹空调住进ICU](https://www.baidu.com/s?wd=36%E5%B2%81%E7%94%B7%E5%AD%90%E5%90%B9%E7%A9%BA%E8%B0%83%E4%BD%8F%E8%BF%9BICU&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [黑龙江多地“大暑”不暑](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%A4%9A%E5%9C%B0%E2%80%9C%E5%A4%A7%E6%9A%91%E2%80%9D%E4%B8%8D%E6%9A%91&sa=fyb_news&rsv_dl=fyb_news)<br />
