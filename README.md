@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 21:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 21:07:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [电视剧里的濒死剖宫产真的存在吗](https://s.weibo.com/weibo?q=%E7%94%B5%E8%A7%86%E5%89%A7%E9%87%8C%E7%9A%84%E6%BF%92%E6%AD%BB%E5%89%96%E5%AE%AB%E4%BA%A7%E7%9C%9F%E7%9A%84%E5%AD%98%E5%9C%A8%E5%90%97&t=31&band_rank=6&Refer=top)<br />
 7. [WBG战胜NIP](https://s.weibo.com/weibo?q=%23WBG%E6%88%98%E8%83%9CNIP%23&t=31&band_rank=7&Refer=top)<br />
 8. [宋焰许沁婚房在高铁旁边](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E7%84%B0%E8%AE%B8%E6%B2%81%E5%A9%9A%E6%88%BF%E5%9C%A8%E9%AB%98%E9%93%81%E6%97%81%E8%BE%B9%23&t=31&band_rank=8&Refer=top)<br />
-9. [母亲晒孩子在沙滩制竹签陷阱引争议](https://s.weibo.com/weibo?q=%23%E6%AF%8D%E4%BA%B2%E6%99%92%E5%AD%A9%E5%AD%90%E5%9C%A8%E6%B2%99%E6%BB%A9%E5%88%B6%E7%AB%B9%E7%AD%BE%E9%99%B7%E9%98%B1%E5%BC%95%E4%BA%89%E8%AE%AE%23&t=31&band_rank=9&Refer=top)<br />
+9. [为什么打针前要推掉一点药水](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%89%93%E9%92%88%E5%89%8D%E8%A6%81%E6%8E%A8%E6%8E%89%E4%B8%80%E7%82%B9%E8%8D%AF%E6%B0%B4&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
