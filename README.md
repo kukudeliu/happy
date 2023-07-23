@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 14:44:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 14:45:01</h4></div>
 
 > 微博  
 
@@ -23,9 +23,9 @@
 4. [女足姑娘加油](https://www.baidu.com/s?wd=%E5%A5%B3%E8%B6%B3%E5%A7%91%E5%A8%98%E5%8A%A0%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [第6位艾滋病“治愈”患者或已出现](https://www.baidu.com/s?wd=%E7%AC%AC6%E4%BD%8D%E8%89%BE%E6%BB%8B%E7%97%85%E2%80%9C%E6%B2%BB%E6%84%88%E2%80%9D%E6%82%A3%E8%80%85%E6%88%96%E5%B7%B2%E5%87%BA%E7%8E%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [广末凉子宣布离婚](https://www.baidu.com/s?wd=%E5%B9%BF%E6%9C%AB%E5%87%89%E5%AD%90%E5%AE%A3%E5%B8%83%E7%A6%BB%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [杭州暴雨引发洪水 致5死2失联](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E6%9A%B4%E9%9B%A8%E5%BC%95%E5%8F%91%E6%B4%AA%E6%B0%B4+%E8%87%B45%E6%AD%BB2%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [薛之谦说只有梅西可以治愈他](https://www.baidu.com/s?wd=%E8%96%9B%E4%B9%8B%E8%B0%A6%E8%AF%B4%E5%8F%AA%E6%9C%89%E6%A2%85%E8%A5%BF%E5%8F%AF%E4%BB%A5%E6%B2%BB%E6%84%88%E4%BB%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [那些被骗去缅甸的人都在经历什么？](https://www.baidu.com/s?wd=%E9%82%A3%E4%BA%9B%E8%A2%AB%E9%AA%97%E5%8E%BB%E7%BC%85%E7%94%B8%E7%9A%84%E4%BA%BA%E9%83%BD%E5%9C%A8%E7%BB%8F%E5%8E%86%E4%BB%80%E4%B9%88%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [那些被骗去缅甸的人都在经历什么？](https://www.baidu.com/s?wd=%E9%82%A3%E4%BA%9B%E8%A2%AB%E9%AA%97%E5%8E%BB%E7%BC%85%E7%94%B8%E7%9A%84%E4%BA%BA%E9%83%BD%E5%9C%A8%E7%BB%8F%E5%8E%86%E4%BB%80%E4%B9%88%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [北京酒店为何突然涨价“凶猛”](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E9%85%92%E5%BA%97%E4%B8%BA%E4%BD%95%E7%AA%81%E7%84%B6%E6%B6%A8%E4%BB%B7%E2%80%9C%E5%87%B6%E7%8C%9B%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [刀郎新歌引争议](https://www.baidu.com/s?wd=%E5%88%80%E9%83%8E%E6%96%B0%E6%AD%8C%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -35,6 +35,6 @@
 4. [女足姑娘加油](https://www.baidu.com/s?wd=%E5%A5%B3%E8%B6%B3%E5%A7%91%E5%A8%98%E5%8A%A0%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [第6位艾滋病“治愈”患者或已出现](https://www.baidu.com/s?wd=%E7%AC%AC6%E4%BD%8D%E8%89%BE%E6%BB%8B%E7%97%85%E2%80%9C%E6%B2%BB%E6%84%88%E2%80%9D%E6%82%A3%E8%80%85%E6%88%96%E5%B7%B2%E5%87%BA%E7%8E%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [广末凉子宣布离婚](https://www.baidu.com/s?wd=%E5%B9%BF%E6%9C%AB%E5%87%89%E5%AD%90%E5%AE%A3%E5%B8%83%E7%A6%BB%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [杭州暴雨引发洪水 致5死2失联](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E6%9A%B4%E9%9B%A8%E5%BC%95%E5%8F%91%E6%B4%AA%E6%B0%B4+%E8%87%B45%E6%AD%BB2%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [薛之谦说只有梅西可以治愈他](https://www.baidu.com/s?wd=%E8%96%9B%E4%B9%8B%E8%B0%A6%E8%AF%B4%E5%8F%AA%E6%9C%89%E6%A2%85%E8%A5%BF%E5%8F%AF%E4%BB%A5%E6%B2%BB%E6%84%88%E4%BB%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [那些被骗去缅甸的人都在经历什么？](https://www.baidu.com/s?wd=%E9%82%A3%E4%BA%9B%E8%A2%AB%E9%AA%97%E5%8E%BB%E7%BC%85%E7%94%B8%E7%9A%84%E4%BA%BA%E9%83%BD%E5%9C%A8%E7%BB%8F%E5%8E%86%E4%BB%80%E4%B9%88%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [那些被骗去缅甸的人都在经历什么？](https://www.baidu.com/s?wd=%E9%82%A3%E4%BA%9B%E8%A2%AB%E9%AA%97%E5%8E%BB%E7%BC%85%E7%94%B8%E7%9A%84%E4%BA%BA%E9%83%BD%E5%9C%A8%E7%BB%8F%E5%8E%86%E4%BB%80%E4%B9%88%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [北京酒店为何突然涨价“凶猛”](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E9%85%92%E5%BA%97%E4%B8%BA%E4%BD%95%E7%AA%81%E7%84%B6%E6%B6%A8%E4%BB%B7%E2%80%9C%E5%87%B6%E7%8C%9B%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [刀郎新歌引争议](https://www.baidu.com/s?wd=%E5%88%80%E9%83%8E%E6%96%B0%E6%AD%8C%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
