@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 01:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 01:05:01</h4></div>
 
 > 微博  
 
@@ -22,10 +22,10 @@
 3. [刀郎《罗刹海市》歌词引热议](https://www.baidu.com/s?wd=%E5%88%80%E9%83%8E%E3%80%8A%E7%BD%97%E5%88%B9%E6%B5%B7%E5%B8%82%E3%80%8B%E6%AD%8C%E8%AF%8D%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [一组彩色密码打开成都大运会](https://www.baidu.com/s?wd=%E4%B8%80%E7%BB%84%E5%BD%A9%E8%89%B2%E5%AF%86%E7%A0%81%E6%89%93%E5%BC%80%E6%88%90%E9%83%BD%E5%A4%A7%E8%BF%90%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [长江上游新一轮强降雨来袭](https://www.baidu.com/s?wd=%E9%95%BF%E6%B1%9F%E4%B8%8A%E6%B8%B8%E6%96%B0%E4%B8%80%E8%BD%AE%E5%BC%BA%E9%99%8D%E9%9B%A8%E6%9D%A5%E8%A2%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [一针管半年，超长效降压药来了？](https://www.baidu.com/s?wd=%E4%B8%80%E9%92%88%E7%AE%A1%E5%8D%8A%E5%B9%B4%EF%BC%8C%E8%B6%85%E9%95%BF%E6%95%88%E9%99%8D%E5%8E%8B%E8%8D%AF%E6%9D%A5%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子抠下派出所石狮子嘴里石球](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8A%A0%E4%B8%8B%E6%B4%BE%E5%87%BA%E6%89%80%E7%9F%B3%E7%8B%AE%E5%AD%90%E5%98%B4%E9%87%8C%E7%9F%B3%E7%90%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [爸爸半夜馋酒 找女儿当“酒搭子”](https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8%E5%8D%8A%E5%A4%9C%E9%A6%8B%E9%85%92+%E6%89%BE%E5%A5%B3%E5%84%BF%E5%BD%93%E2%80%9C%E9%85%92%E6%90%AD%E5%AD%90%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中甲主帅不满红牌掌掴裁判还被气晕](https://www.baidu.com/s?wd=%E4%B8%AD%E7%94%B2%E4%B8%BB%E5%B8%85%E4%B8%8D%E6%BB%A1%E7%BA%A2%E7%89%8C%E6%8E%8C%E6%8E%B4%E8%A3%81%E5%88%A4%E8%BF%98%E8%A2%AB%E6%B0%94%E6%99%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [“大水冲了龙王庙” 龙门古镇闭园](https://www.baidu.com/s?wd=%E2%80%9C%E5%A4%A7%E6%B0%B4%E5%86%B2%E4%BA%86%E9%BE%99%E7%8E%8B%E5%BA%99%E2%80%9D+%E9%BE%99%E9%97%A8%E5%8F%A4%E9%95%87%E9%97%AD%E5%9B%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [爸爸半夜馋酒 找女儿当“酒搭子”](https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8%E5%8D%8A%E5%A4%9C%E9%A6%8B%E9%85%92+%E6%89%BE%E5%A5%B3%E5%84%BF%E5%BD%93%E2%80%9C%E9%85%92%E6%90%AD%E5%AD%90%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [刘诗雯晒与蔡依林合影](https://www.baidu.com/s?wd=%E5%88%98%E8%AF%97%E9%9B%AF%E6%99%92%E4%B8%8E%E8%94%A1%E4%BE%9D%E6%9E%97%E5%90%88%E5%BD%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [一针管半年，超长效降压药来了？](https://www.baidu.com/s?wd=%E4%B8%80%E9%92%88%E7%AE%A1%E5%8D%8A%E5%B9%B4%EF%BC%8C%E8%B6%85%E9%95%BF%E6%95%88%E9%99%8D%E5%8E%8B%E8%8D%AF%E6%9D%A5%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -34,7 +34,7 @@
 3. [刀郎《罗刹海市》歌词引热议](https://www.baidu.com/s?wd=%E5%88%80%E9%83%8E%E3%80%8A%E7%BD%97%E5%88%B9%E6%B5%B7%E5%B8%82%E3%80%8B%E6%AD%8C%E8%AF%8D%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [一组彩色密码打开成都大运会](https://www.baidu.com/s?wd=%E4%B8%80%E7%BB%84%E5%BD%A9%E8%89%B2%E5%AF%86%E7%A0%81%E6%89%93%E5%BC%80%E6%88%90%E9%83%BD%E5%A4%A7%E8%BF%90%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [长江上游新一轮强降雨来袭](https://www.baidu.com/s?wd=%E9%95%BF%E6%B1%9F%E4%B8%8A%E6%B8%B8%E6%96%B0%E4%B8%80%E8%BD%AE%E5%BC%BA%E9%99%8D%E9%9B%A8%E6%9D%A5%E8%A2%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [一针管半年，超长效降压药来了？](https://www.baidu.com/s?wd=%E4%B8%80%E9%92%88%E7%AE%A1%E5%8D%8A%E5%B9%B4%EF%BC%8C%E8%B6%85%E9%95%BF%E6%95%88%E9%99%8D%E5%8E%8B%E8%8D%AF%E6%9D%A5%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子抠下派出所石狮子嘴里石球](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8A%A0%E4%B8%8B%E6%B4%BE%E5%87%BA%E6%89%80%E7%9F%B3%E7%8B%AE%E5%AD%90%E5%98%B4%E9%87%8C%E7%9F%B3%E7%90%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [爸爸半夜馋酒 找女儿当“酒搭子”](https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8%E5%8D%8A%E5%A4%9C%E9%A6%8B%E9%85%92+%E6%89%BE%E5%A5%B3%E5%84%BF%E5%BD%93%E2%80%9C%E9%85%92%E6%90%AD%E5%AD%90%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中甲主帅不满红牌掌掴裁判还被气晕](https://www.baidu.com/s?wd=%E4%B8%AD%E7%94%B2%E4%B8%BB%E5%B8%85%E4%B8%8D%E6%BB%A1%E7%BA%A2%E7%89%8C%E6%8E%8C%E6%8E%B4%E8%A3%81%E5%88%A4%E8%BF%98%E8%A2%AB%E6%B0%94%E6%99%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [“大水冲了龙王庙” 龙门古镇闭园](https://www.baidu.com/s?wd=%E2%80%9C%E5%A4%A7%E6%B0%B4%E5%86%B2%E4%BA%86%E9%BE%99%E7%8E%8B%E5%BA%99%E2%80%9D+%E9%BE%99%E9%97%A8%E5%8F%A4%E9%95%87%E9%97%AD%E5%9B%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [爸爸半夜馋酒 找女儿当“酒搭子”](https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8%E5%8D%8A%E5%A4%9C%E9%A6%8B%E9%85%92+%E6%89%BE%E5%A5%B3%E5%84%BF%E5%BD%93%E2%80%9C%E9%85%92%E6%90%AD%E5%AD%90%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [刘诗雯晒与蔡依林合影](https://www.baidu.com/s?wd=%E5%88%98%E8%AF%97%E9%9B%AF%E6%99%92%E4%B8%8E%E8%94%A1%E4%BE%9D%E6%9E%97%E5%90%88%E5%BD%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [一针管半年，超长效降压药来了？](https://www.baidu.com/s?wd=%E4%B8%80%E9%92%88%E7%AE%A1%E5%8D%8A%E5%B9%B4%EF%BC%8C%E8%B6%85%E9%95%BF%E6%95%88%E9%99%8D%E5%8E%8B%E8%8D%AF%E6%9D%A5%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
