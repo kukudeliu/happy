@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 17:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 17:55:02</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [一键解锁消暑秘诀](https://s.weibo.com/weibo?q=%23%E4%B8%80%E9%94%AE%E8%A7%A3%E9%94%81%E6%B6%88%E6%9A%91%E7%A7%98%E8%AF%80%23&t=31&band_rank=3&Refer=top)<br />
 4. [杨颖身份证上名字](https://s.weibo.com/weibo?q=%E6%9D%A8%E9%A2%96%E8%BA%AB%E4%BB%BD%E8%AF%81%E4%B8%8A%E5%90%8D%E5%AD%97&t=31&band_rank=4&Refer=top)<br />
 5. [美依礼芽来中国前后对比](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%BE%9D%E7%A4%BC%E8%8A%BD%E6%9D%A5%E4%B8%AD%E5%9B%BD%E5%89%8D%E5%90%8E%E5%AF%B9%E6%AF%94%23&t=31&band_rank=5&Refer=top)<br />
-6. [豆瓣](https://s.weibo.com/weibo?q=%E8%B1%86%E7%93%A3&t=31&band_rank=6&Refer=top)<br />
-7. [因角色爆火的明星](https://s.weibo.com/weibo?q=%23%E5%9B%A0%E8%A7%92%E8%89%B2%E7%88%86%E7%81%AB%E7%9A%84%E6%98%8E%E6%98%9F%23&t=31&band_rank=7&Refer=top)<br />
-8. [阳光玫瑰葡萄最全讲解](https://s.weibo.com/weibo?q=%E9%98%B3%E5%85%89%E7%8E%AB%E7%91%B0%E8%91%A1%E8%90%84%E6%9C%80%E5%85%A8%E8%AE%B2%E8%A7%A3&t=31&band_rank=8&Refer=top)<br />
-9. [四川内江地震](https://s.weibo.com/weibo?q=%E5%9B%9B%E5%B7%9D%E5%86%85%E6%B1%9F%E5%9C%B0%E9%9C%87&t=31&band_rank=9&Refer=top)<br />
+6. [因角色爆火的明星](https://s.weibo.com/weibo?q=%23%E5%9B%A0%E8%A7%92%E8%89%B2%E7%88%86%E7%81%AB%E7%9A%84%E6%98%8E%E6%98%9F%23&t=31&band_rank=6&Refer=top)<br />
+7. [女子被医院紧急电话轰炸挽回一命](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%8C%BB%E9%99%A2%E7%B4%A7%E6%80%A5%E7%94%B5%E8%AF%9D%E8%BD%B0%E7%82%B8%E6%8C%BD%E5%9B%9E%E4%B8%80%E5%91%BD%23&t=31&band_rank=7&Refer=top)<br />
+8. [女子用2万根纸卷出千里江山图](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%94%A82%E4%B8%87%E6%A0%B9%E7%BA%B8%E5%8D%B7%E5%87%BA%E5%8D%83%E9%87%8C%E6%B1%9F%E5%B1%B1%E5%9B%BE%23&t=31&band_rank=8&Refer=top)<br />
+9. [豆瓣](https://s.weibo.com/weibo?q=%E8%B1%86%E7%93%A3&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
