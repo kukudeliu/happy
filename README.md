@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 17:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 17:31:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [豆瓣](https://s.weibo.com/weibo?q=%E8%B1%86%E7%93%A3&t=31&band_rank=6&Refer=top)<br />
 7. [王鹤棣让王传君给詹姆斯道歉](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E8%AE%A9%E7%8E%8B%E4%BC%A0%E5%90%9B%E7%BB%99%E8%A9%B9%E5%A7%86%E6%96%AF%E9%81%93%E6%AD%89%23&t=31&band_rank=7&Refer=top)<br />
 8. [泳协秘书长跳江救人不幸遇难](https://s.weibo.com/weibo?q=%23%E6%B3%B3%E5%8D%8F%E7%A7%98%E4%B9%A6%E9%95%BF%E8%B7%B3%E6%B1%9F%E6%95%91%E4%BA%BA%E4%B8%8D%E5%B9%B8%E9%81%87%E9%9A%BE%23&t=31&band_rank=8&Refer=top)<br />
-9. [美国一彩民中77亿元头奖](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%80%E5%BD%A9%E6%B0%91%E4%B8%AD77%E4%BA%BF%E5%85%83%E5%A4%B4%E5%A5%96%23&t=31&band_rank=9&Refer=top)<br />
+9. [四川内江地震](https://s.weibo.com/weibo?q=%E5%9B%9B%E5%B7%9D%E5%86%85%E6%B1%9F%E5%9C%B0%E9%9C%87&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
