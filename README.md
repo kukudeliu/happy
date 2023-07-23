@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 14:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 14:17:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [许沁婚后日常](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%B2%81%E5%A9%9A%E5%90%8E%E6%97%A5%E5%B8%B8%23&t=31&band_rank=5&Refer=top)<br />
 6. [纣王 伯邑考](https://s.weibo.com/weibo?q=%E7%BA%A3%E7%8E%8B%20%E4%BC%AF%E9%82%91%E8%80%83&t=31&band_rank=6&Refer=top)<br />
 7. [我的人间烟火豆瓣开分4.1分](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E4%BA%BA%E9%97%B4%E7%83%9F%E7%81%AB%E8%B1%86%E7%93%A3%E5%BC%80%E5%88%864.1%E5%88%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [交警录入错误致男孩有案底转学被拒](https://s.weibo.com/weibo?q=%23%E4%BA%A4%E8%AD%A6%E5%BD%95%E5%85%A5%E9%94%99%E8%AF%AF%E8%87%B4%E7%94%B7%E5%AD%A9%E6%9C%89%E6%A1%88%E5%BA%95%E8%BD%AC%E5%AD%A6%E8%A2%AB%E6%8B%92%23&t=31&band_rank=8&Refer=top)<br />
-9. [傲寒](https://s.weibo.com/weibo?q=%E5%82%B2%E5%AF%92&t=31&band_rank=9&Refer=top)<br />
+8. [傲寒](https://s.weibo.com/weibo?q=%E5%82%B2%E5%AF%92&t=31&band_rank=8&Refer=top)<br />
+9. [交警录入错误致男孩有案底转学被拒](https://s.weibo.com/weibo?q=%23%E4%BA%A4%E8%AD%A6%E5%BD%95%E5%85%A5%E9%94%99%E8%AF%AF%E8%87%B4%E7%94%B7%E5%AD%A9%E6%9C%89%E6%A1%88%E5%BA%95%E8%BD%AC%E5%AD%A6%E8%A2%AB%E6%8B%92%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
