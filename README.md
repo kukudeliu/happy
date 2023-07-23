@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 18:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 18:14:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [豆瓣](https://s.weibo.com/weibo?q=%E8%B1%86%E7%93%A3&t=31&band_rank=6&Refer=top)<br />
 7. [美依礼芽来中国前后对比](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%BE%9D%E7%A4%BC%E8%8A%BD%E6%9D%A5%E4%B8%AD%E5%9B%BD%E5%89%8D%E5%90%8E%E5%AF%B9%E6%AF%94%23&t=31&band_rank=7&Refer=top)<br />
 8. [原来孟宴臣早就从我的全世界路过](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%AD%9F%E5%AE%B4%E8%87%A3%E6%97%A9%E5%B0%B1%E4%BB%8E%E6%88%91%E7%9A%84%E5%85%A8%E4%B8%96%E7%95%8C%E8%B7%AF%E8%BF%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [因角色爆火的明星](https://s.weibo.com/weibo?q=%23%E5%9B%A0%E8%A7%92%E8%89%B2%E7%88%86%E7%81%AB%E7%9A%84%E6%98%8E%E6%98%9F%23&t=31&band_rank=9&Refer=top)<br />
+9. [芭比](https://s.weibo.com/weibo?q=%E8%8A%AD%E6%AF%94&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
