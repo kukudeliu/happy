@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 16:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 16:45:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [魏大勋朋友圈里的显眼包](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E6%9C%8B%E5%8F%8B%E5%9C%88%E9%87%8C%E7%9A%84%E6%98%BE%E7%9C%BC%E5%8C%85%23&t=31&band_rank=6&Refer=top)<br />
 7. [泳协秘书长跳江救人不幸遇难](https://s.weibo.com/weibo?q=%23%E6%B3%B3%E5%8D%8F%E7%A7%98%E4%B9%A6%E9%95%BF%E8%B7%B3%E6%B1%9F%E6%95%91%E4%BA%BA%E4%B8%8D%E5%B9%B8%E9%81%87%E9%9A%BE%23&t=31&band_rank=7&Refer=top)<br />
 8. [美国一彩民中77亿元头奖](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%80%E5%BD%A9%E6%B0%91%E4%B8%AD77%E4%BA%BF%E5%85%83%E5%A4%B4%E5%A5%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [常德公交车酒吧](https://s.weibo.com/weibo?q=%E5%B8%B8%E5%BE%B7%E5%85%AC%E4%BA%A4%E8%BD%A6%E9%85%92%E5%90%A7&t=31&band_rank=9&Refer=top)<br />
+9. [李昌钰被指伪造证据](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%98%8C%E9%92%B0%E8%A2%AB%E6%8C%87%E4%BC%AA%E9%80%A0%E8%AF%81%E6%8D%AE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
