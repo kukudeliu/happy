@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 10:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 10:59:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [国产核磁共振技术突破国外长期封锁](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BA%A7%E6%A0%B8%E7%A3%81%E5%85%B1%E6%8C%AF%E6%8A%80%E6%9C%AF%E7%AA%81%E7%A0%B4%E5%9B%BD%E5%A4%96%E9%95%BF%E6%9C%9F%E5%B0%81%E9%94%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [迪丽热巴受伤了](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%8F%97%E4%BC%A4%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [穿cos服医学生雨中跪地救人](https://s.weibo.com/weibo?q=%23%E7%A9%BFcos%E6%9C%8D%E5%8C%BB%E5%AD%A6%E7%94%9F%E9%9B%A8%E4%B8%AD%E8%B7%AA%E5%9C%B0%E6%95%91%E4%BA%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [付闻樱问孟宴臣你怎么不去死](https://s.weibo.com/weibo?q=%23%E4%BB%98%E9%97%BB%E6%A8%B1%E9%97%AE%E5%AD%9F%E5%AE%B4%E8%87%A3%E4%BD%A0%E6%80%8E%E4%B9%88%E4%B8%8D%E5%8E%BB%E6%AD%BB%23&t=31&band_rank=9&Refer=top)<br />
+9. [宇智波佐助](https://s.weibo.com/weibo?q=%23%E5%AE%87%E6%99%BA%E6%B3%A2%E4%BD%90%E5%8A%A9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,10 +22,10 @@
 3. [华人神探李昌钰被指伪造证据](https://www.baidu.com/s?wd=%E5%8D%8E%E4%BA%BA%E7%A5%9E%E6%8E%A2%E6%9D%8E%E6%98%8C%E9%92%B0%E8%A2%AB%E6%8C%87%E4%BC%AA%E9%80%A0%E8%AF%81%E6%8D%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [女足姑娘加油](https://www.baidu.com/s?wd=%E5%A5%B3%E8%B6%B3%E5%A7%91%E5%A8%98%E5%8A%A0%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [租户发现前房主遗落40万元财物](https://www.baidu.com/s?wd=%E7%A7%9F%E6%88%B7%E5%8F%91%E7%8E%B0%E5%89%8D%E6%88%BF%E4%B8%BB%E9%81%97%E8%90%BD40%E4%B8%87%E5%85%83%E8%B4%A2%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [媒体评乐队主唱扔掉提词器](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E4%B9%90%E9%98%9F%E4%B8%BB%E5%94%B1%E6%89%94%E6%8E%89%E6%8F%90%E8%AF%8D%E5%99%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [川航8985紧急备降江苏](https://www.baidu.com/s?wd=%E5%B7%9D%E8%88%AA8985%E7%B4%A7%E6%80%A5%E5%A4%87%E9%99%8D%E6%B1%9F%E8%8B%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [林志玲回应退圈](https://www.baidu.com/s?wd=%E6%9E%97%E5%BF%97%E7%8E%B2%E5%9B%9E%E5%BA%94%E9%80%80%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [武大靖记忆只有7秒](https://www.baidu.com/s?wd=%E6%AD%A6%E5%A4%A7%E9%9D%96%E8%AE%B0%E5%BF%86%E5%8F%AA%E6%9C%897%E7%A7%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [川航8985紧急备降江苏](https://www.baidu.com/s?wd=%E5%B7%9D%E8%88%AA8985%E7%B4%A7%E6%80%A5%E5%A4%87%E9%99%8D%E6%B1%9F%E8%8B%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [林志玲回应退圈](https://www.baidu.com/s?wd=%E6%9E%97%E5%BF%97%E7%8E%B2%E5%9B%9E%E5%BA%94%E9%80%80%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [媒体评乐队主唱扔掉提词器](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E4%B9%90%E9%98%9F%E4%B8%BB%E5%94%B1%E6%89%94%E6%8E%89%E6%8F%90%E8%AF%8D%E5%99%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [徐海乔评论区](https://www.baidu.com/s?wd=%E5%BE%90%E6%B5%B7%E4%B9%94%E8%AF%84%E8%AE%BA%E5%8C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -34,7 +34,7 @@
 3. [华人神探李昌钰被指伪造证据](https://www.baidu.com/s?wd=%E5%8D%8E%E4%BA%BA%E7%A5%9E%E6%8E%A2%E6%9D%8E%E6%98%8C%E9%92%B0%E8%A2%AB%E6%8C%87%E4%BC%AA%E9%80%A0%E8%AF%81%E6%8D%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [女足姑娘加油](https://www.baidu.com/s?wd=%E5%A5%B3%E8%B6%B3%E5%A7%91%E5%A8%98%E5%8A%A0%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [租户发现前房主遗落40万元财物](https://www.baidu.com/s?wd=%E7%A7%9F%E6%88%B7%E5%8F%91%E7%8E%B0%E5%89%8D%E6%88%BF%E4%B8%BB%E9%81%97%E8%90%BD40%E4%B8%87%E5%85%83%E8%B4%A2%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [媒体评乐队主唱扔掉提词器](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E4%B9%90%E9%98%9F%E4%B8%BB%E5%94%B1%E6%89%94%E6%8E%89%E6%8F%90%E8%AF%8D%E5%99%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [川航8985紧急备降江苏](https://www.baidu.com/s?wd=%E5%B7%9D%E8%88%AA8985%E7%B4%A7%E6%80%A5%E5%A4%87%E9%99%8D%E6%B1%9F%E8%8B%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [林志玲回应退圈](https://www.baidu.com/s?wd=%E6%9E%97%E5%BF%97%E7%8E%B2%E5%9B%9E%E5%BA%94%E9%80%80%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [武大靖记忆只有7秒](https://www.baidu.com/s?wd=%E6%AD%A6%E5%A4%A7%E9%9D%96%E8%AE%B0%E5%BF%86%E5%8F%AA%E6%9C%897%E7%A7%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [川航8985紧急备降江苏](https://www.baidu.com/s?wd=%E5%B7%9D%E8%88%AA8985%E7%B4%A7%E6%80%A5%E5%A4%87%E9%99%8D%E6%B1%9F%E8%8B%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [林志玲回应退圈](https://www.baidu.com/s?wd=%E6%9E%97%E5%BF%97%E7%8E%B2%E5%9B%9E%E5%BA%94%E9%80%80%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [媒体评乐队主唱扔掉提词器](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E4%B9%90%E9%98%9F%E4%B8%BB%E5%94%B1%E6%89%94%E6%8E%89%E6%8F%90%E8%AF%8D%E5%99%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [徐海乔评论区](https://www.baidu.com/s?wd=%E5%BE%90%E6%B5%B7%E4%B9%94%E8%AF%84%E8%AE%BA%E5%8C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
