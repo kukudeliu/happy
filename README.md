@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 19:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 19:29:02</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [回顾那英汪峰杨坤刀郎事件](https://www.baidu.com/s?wd=%E5%9B%9E%E9%A1%BE%E9%82%A3%E8%8B%B1%E6%B1%AA%E5%B3%B0%E6%9D%A8%E5%9D%A4%E5%88%80%E9%83%8E%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [瓦格纳“真正领导人”现身](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E2%80%9C%E7%9C%9F%E6%AD%A3%E9%A2%86%E5%AF%BC%E4%BA%BA%E2%80%9D%E7%8E%B0%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [龙虾店老板深夜崩溃把店砸了](https://www.baidu.com/s?wd=%E9%BE%99%E8%99%BE%E5%BA%97%E8%80%81%E6%9D%BF%E6%B7%B1%E5%A4%9C%E5%B4%A9%E6%BA%83%E6%8A%8A%E5%BA%97%E7%A0%B8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [那些被骗去缅甸的人都在经历什么？](https://www.baidu.com/s?wd=%E9%82%A3%E4%BA%9B%E8%A2%AB%E9%AA%97%E5%8E%BB%E7%BC%85%E7%94%B8%E7%9A%84%E4%BA%BA%E9%83%BD%E5%9C%A8%E7%BB%8F%E5%8E%86%E4%BB%80%E4%B9%88%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [36岁男子吹空调住进ICU](https://www.baidu.com/s?wd=36%E5%B2%81%E7%94%B7%E5%AD%90%E5%90%B9%E7%A9%BA%E8%B0%83%E4%BD%8F%E8%BF%9BICU&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [36岁男子吹空调住进ICU](https://www.baidu.com/s?wd=36%E5%B2%81%E7%94%B7%E5%AD%90%E5%90%B9%E7%A9%BA%E8%B0%83%E4%BD%8F%E8%BF%9BICU&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [刀郎《罗刹海市》歌词引热议](https://www.baidu.com/s?wd=%E5%88%80%E9%83%8E%E3%80%8A%E7%BD%97%E5%88%B9%E6%B5%B7%E5%B8%82%E3%80%8B%E6%AD%8C%E8%AF%8D%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [回顾那英汪峰杨坤刀郎事件](https://www.baidu.com/s?wd=%E5%9B%9E%E9%A1%BE%E9%82%A3%E8%8B%B1%E6%B1%AA%E5%B3%B0%E6%9D%A8%E5%9D%A4%E5%88%80%E9%83%8E%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [瓦格纳“真正领导人”现身](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E2%80%9C%E7%9C%9F%E6%AD%A3%E9%A2%86%E5%AF%BC%E4%BA%BA%E2%80%9D%E7%8E%B0%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [龙虾店老板深夜崩溃把店砸了](https://www.baidu.com/s?wd=%E9%BE%99%E8%99%BE%E5%BA%97%E8%80%81%E6%9D%BF%E6%B7%B1%E5%A4%9C%E5%B4%A9%E6%BA%83%E6%8A%8A%E5%BA%97%E7%A0%B8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [那些被骗去缅甸的人都在经历什么？](https://www.baidu.com/s?wd=%E9%82%A3%E4%BA%9B%E8%A2%AB%E9%AA%97%E5%8E%BB%E7%BC%85%E7%94%B8%E7%9A%84%E4%BA%BA%E9%83%BD%E5%9C%A8%E7%BB%8F%E5%8E%86%E4%BB%80%E4%B9%88%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [36岁男子吹空调住进ICU](https://www.baidu.com/s?wd=36%E5%B2%81%E7%94%B7%E5%AD%90%E5%90%B9%E7%A9%BA%E8%B0%83%E4%BD%8F%E8%BF%9BICU&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [36岁男子吹空调住进ICU](https://www.baidu.com/s?wd=36%E5%B2%81%E7%94%B7%E5%AD%90%E5%90%B9%E7%A9%BA%E8%B0%83%E4%BD%8F%E8%BF%9BICU&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [刀郎《罗刹海市》歌词引热议](https://www.baidu.com/s?wd=%E5%88%80%E9%83%8E%E3%80%8A%E7%BD%97%E5%88%B9%E6%B5%B7%E5%B8%82%E3%80%8B%E6%AD%8C%E8%AF%8D%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
