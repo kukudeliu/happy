@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 18:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 18:22:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [原来孟宴臣早就从我的全世界路过](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%AD%9F%E5%AE%B4%E8%87%A3%E6%97%A9%E5%B0%B1%E4%BB%8E%E6%88%91%E7%9A%84%E5%85%A8%E4%B8%96%E7%95%8C%E8%B7%AF%E8%BF%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [美依礼芽来中国前后对比](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%BE%9D%E7%A4%BC%E8%8A%BD%E6%9D%A5%E4%B8%AD%E5%9B%BD%E5%89%8D%E5%90%8E%E5%AF%B9%E6%AF%94%23&t=31&band_rank=7&Refer=top)<br />
 8. [豆瓣](https://s.weibo.com/weibo?q=%E8%B1%86%E7%93%A3&t=31&band_rank=8&Refer=top)<br />
-9. [四川内江地震](https://s.weibo.com/weibo?q=%E5%9B%9B%E5%B7%9D%E5%86%85%E6%B1%9F%E5%9C%B0%E9%9C%87&t=31&band_rank=9&Refer=top)<br />
+9. [迫于舆论压力缅甸首次0赎金放人](https://s.weibo.com/weibo?q=%23%E8%BF%AB%E4%BA%8E%E8%88%86%E8%AE%BA%E5%8E%8B%E5%8A%9B%E7%BC%85%E7%94%B8%E9%A6%96%E6%AC%A10%E8%B5%8E%E9%87%91%E6%94%BE%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
