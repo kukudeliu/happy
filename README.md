@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 11:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 11:32:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [中建八局再被曝工程质量问题](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%BB%BA%E5%85%AB%E5%B1%80%E5%86%8D%E8%A2%AB%E6%9B%9D%E5%B7%A5%E7%A8%8B%E8%B4%A8%E9%87%8F%E9%97%AE%E9%A2%98%23&t=31&band_rank=6&Refer=top)<br />
 7. [迪丽热巴受伤了](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%8F%97%E4%BC%A4%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [颖儿纯素颜出演新剧](https://s.weibo.com/weibo?q=%23%E9%A2%96%E5%84%BF%E7%BA%AF%E7%B4%A0%E9%A2%9C%E5%87%BA%E6%BC%94%E6%96%B0%E5%89%A7%23&t=31&band_rank=8&Refer=top)<br />
-9. [租户墙内发现40万巨额财物主动上交](https://s.weibo.com/weibo?q=%23%E7%A7%9F%E6%88%B7%E5%A2%99%E5%86%85%E5%8F%91%E7%8E%B040%E4%B8%87%E5%B7%A8%E9%A2%9D%E8%B4%A2%E7%89%A9%E4%B8%BB%E5%8A%A8%E4%B8%8A%E4%BA%A4%23&t=31&band_rank=9&Refer=top)<br />
+9. [营业悖论](https://s.weibo.com/weibo?q=%E8%90%A5%E4%B8%9A%E6%82%96%E8%AE%BA&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
