@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 13:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 13:19:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [广末凉子宣布离婚](https://www.baidu.com/s?wd=%E5%B9%BF%E6%9C%AB%E5%87%89%E5%AD%90%E5%AE%A3%E5%B8%83%E7%A6%BB%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [恭喜！“敬礼娃娃”郎铮被北大录取](https://www.baidu.com/s?wd=%E6%81%AD%E5%96%9C%EF%BC%81%E2%80%9C%E6%95%AC%E7%A4%BC%E5%A8%83%E5%A8%83%E2%80%9D%E9%83%8E%E9%93%AE%E8%A2%AB%E5%8C%97%E5%A4%A7%E5%BD%95%E5%8F%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [北京酒店为何突然涨价“凶猛”](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E9%85%92%E5%BA%97%E4%B8%BA%E4%BD%95%E7%AA%81%E7%84%B6%E6%B6%A8%E4%BB%B7%E2%80%9C%E5%87%B6%E7%8C%9B%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [刀郎新歌引争议](https://www.baidu.com/s?wd=%E5%88%80%E9%83%8E%E6%96%B0%E6%AD%8C%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [TFBOYS演唱会笑话](https://www.baidu.com/s?wd=TFBOYS%E6%BC%94%E5%94%B1%E4%BC%9A%E7%AC%91%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [广末凉子宣布离婚](https://www.baidu.com/s?wd=%E5%B9%BF%E6%9C%AB%E5%87%89%E5%AD%90%E5%AE%A3%E5%B8%83%E7%A6%BB%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [恭喜！“敬礼娃娃”郎铮被北大录取](https://www.baidu.com/s?wd=%E6%81%AD%E5%96%9C%EF%BC%81%E2%80%9C%E6%95%AC%E7%A4%BC%E5%A8%83%E5%A8%83%E2%80%9D%E9%83%8E%E9%93%AE%E8%A2%AB%E5%8C%97%E5%A4%A7%E5%BD%95%E5%8F%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [北京酒店为何突然涨价“凶猛”](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E9%85%92%E5%BA%97%E4%B8%BA%E4%BD%95%E7%AA%81%E7%84%B6%E6%B6%A8%E4%BB%B7%E2%80%9C%E5%87%B6%E7%8C%9B%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [刀郎新歌引争议](https://www.baidu.com/s?wd=%E5%88%80%E9%83%8E%E6%96%B0%E6%AD%8C%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [TFBOYS演唱会笑话](https://www.baidu.com/s?wd=TFBOYS%E6%BC%94%E5%94%B1%E4%BC%9A%E7%AC%91%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
