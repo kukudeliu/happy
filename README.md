@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 16:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 16:20:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [刀郎 罗刹海市](https://s.weibo.com/weibo?q=%E5%88%80%E9%83%8E%20%E7%BD%97%E5%88%B9%E6%B5%B7%E5%B8%82&t=31&band_rank=6&Refer=top)<br />
 7. [男孩游泳不会勾脚被教练缠胶带](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E6%B8%B8%E6%B3%B3%E4%B8%8D%E4%BC%9A%E5%8B%BE%E8%84%9A%E8%A2%AB%E6%95%99%E7%BB%83%E7%BC%A0%E8%83%B6%E5%B8%A6%23&t=31&band_rank=7&Refer=top)<br />
 8. [常德公交车酒吧](https://s.weibo.com/weibo?q=%E5%B8%B8%E5%BE%B7%E5%85%AC%E4%BA%A4%E8%BD%A6%E9%85%92%E5%90%A7&t=31&band_rank=8&Refer=top)<br />
-9. [2023年空军航空开放活动来了](https://s.weibo.com/weibo?q=%232023%E5%B9%B4%E7%A9%BA%E5%86%9B%E8%88%AA%E7%A9%BA%E5%BC%80%E6%94%BE%E6%B4%BB%E5%8A%A8%E6%9D%A5%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [高位截瘫女孩高考557手肘磨得见骨](https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%BD%8D%E6%88%AA%E7%98%AB%E5%A5%B3%E5%AD%A9%E9%AB%98%E8%80%83557%E6%89%8B%E8%82%98%E7%A3%A8%E5%BE%97%E8%A7%81%E9%AA%A8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
