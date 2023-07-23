@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 13:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 13:59:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [女足姑娘加油](https://www.baidu.com/s?wd=%E5%A5%B3%E8%B6%B3%E5%A7%91%E5%A8%98%E5%8A%A0%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [第6位艾滋病“治愈”患者或已出现](https://www.baidu.com/s?wd=%E7%AC%AC6%E4%BD%8D%E8%89%BE%E6%BB%8B%E7%97%85%E2%80%9C%E6%B2%BB%E6%84%88%E2%80%9D%E6%82%A3%E8%80%85%E6%88%96%E5%B7%B2%E5%87%BA%E7%8E%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [广末凉子宣布离婚](https://www.baidu.com/s?wd=%E5%B9%BF%E6%9C%AB%E5%87%89%E5%AD%90%E5%AE%A3%E5%B8%83%E7%A6%BB%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [兰州新区公交：单人次亏损5.38元](https://www.baidu.com/s?wd=%E5%85%B0%E5%B7%9E%E6%96%B0%E5%8C%BA%E5%85%AC%E4%BA%A4%EF%BC%9A%E5%8D%95%E4%BA%BA%E6%AC%A1%E4%BA%8F%E6%8D%9F5.38%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [林志玲回应退圈](https://www.baidu.com/s?wd=%E6%9E%97%E5%BF%97%E7%8E%B2%E5%9B%9E%E5%BA%94%E9%80%80%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [内蒙古交警骑马指挥交通](https://www.baidu.com/s?wd=%E5%86%85%E8%92%99%E5%8F%A4%E4%BA%A4%E8%AD%A6%E9%AA%91%E9%A9%AC%E6%8C%87%E6%8C%A5%E4%BA%A4%E9%80%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [内塔尼亚胡安装心脏起搏器](https://www.baidu.com/s?wd=%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%E5%AE%89%E8%A3%85%E5%BF%83%E8%84%8F%E8%B5%B7%E6%90%8F%E5%99%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [恭喜！“敬礼娃娃”郎铮被北大录取](https://www.baidu.com/s?wd=%E6%81%AD%E5%96%9C%EF%BC%81%E2%80%9C%E6%95%AC%E7%A4%BC%E5%A8%83%E5%A8%83%E2%80%9D%E9%83%8E%E9%93%AE%E8%A2%AB%E5%8C%97%E5%A4%A7%E5%BD%95%E5%8F%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [女足姑娘加油](https://www.baidu.com/s?wd=%E5%A5%B3%E8%B6%B3%E5%A7%91%E5%A8%98%E5%8A%A0%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [第6位艾滋病“治愈”患者或已出现](https://www.baidu.com/s?wd=%E7%AC%AC6%E4%BD%8D%E8%89%BE%E6%BB%8B%E7%97%85%E2%80%9C%E6%B2%BB%E6%84%88%E2%80%9D%E6%82%A3%E8%80%85%E6%88%96%E5%B7%B2%E5%87%BA%E7%8E%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [广末凉子宣布离婚](https://www.baidu.com/s?wd=%E5%B9%BF%E6%9C%AB%E5%87%89%E5%AD%90%E5%AE%A3%E5%B8%83%E7%A6%BB%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [兰州新区公交：单人次亏损5.38元](https://www.baidu.com/s?wd=%E5%85%B0%E5%B7%9E%E6%96%B0%E5%8C%BA%E5%85%AC%E4%BA%A4%EF%BC%9A%E5%8D%95%E4%BA%BA%E6%AC%A1%E4%BA%8F%E6%8D%9F5.38%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [林志玲回应退圈](https://www.baidu.com/s?wd=%E6%9E%97%E5%BF%97%E7%8E%B2%E5%9B%9E%E5%BA%94%E9%80%80%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [内蒙古交警骑马指挥交通](https://www.baidu.com/s?wd=%E5%86%85%E8%92%99%E5%8F%A4%E4%BA%A4%E8%AD%A6%E9%AA%91%E9%A9%AC%E6%8C%87%E6%8C%A5%E4%BA%A4%E9%80%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [内塔尼亚胡安装心脏起搏器](https://www.baidu.com/s?wd=%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%E5%AE%89%E8%A3%85%E5%BF%83%E8%84%8F%E8%B5%B7%E6%90%8F%E5%99%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [恭喜！“敬礼娃娃”郎铮被北大录取](https://www.baidu.com/s?wd=%E6%81%AD%E5%96%9C%EF%BC%81%E2%80%9C%E6%95%AC%E7%A4%BC%E5%A8%83%E5%A8%83%E2%80%9D%E9%83%8E%E9%93%AE%E8%A2%AB%E5%8C%97%E5%A4%A7%E5%BD%95%E5%8F%96&sa=fyb_news&rsv_dl=fyb_news)<br />
