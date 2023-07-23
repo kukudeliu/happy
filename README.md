@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 12:29:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 12:30:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [美国一彩民中77亿元头奖](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%80%E5%BD%A9%E6%B0%91%E4%B8%AD77%E4%BA%BF%E5%85%83%E5%A4%B4%E5%A5%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [迪丽热巴受伤了](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%8F%97%E4%BC%A4%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [我的人间烟火大结局你能接受吗](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E4%BA%BA%E9%97%B4%E7%83%9F%E7%81%AB%E5%A4%A7%E7%BB%93%E5%B1%80%E4%BD%A0%E8%83%BD%E6%8E%A5%E5%8F%97%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [中建八局再被曝工程质量问题](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%BB%BA%E5%85%AB%E5%B1%80%E5%86%8D%E8%A2%AB%E6%9B%9D%E5%B7%A5%E7%A8%8B%E8%B4%A8%E9%87%8F%E9%97%AE%E9%A2%98%23&t=31&band_rank=9&Refer=top)<br />
+9. [景区泼水节女网红被泼后跟游客冲突](https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%8C%BA%E6%B3%BC%E6%B0%B4%E8%8A%82%E5%A5%B3%E7%BD%91%E7%BA%A2%E8%A2%AB%E6%B3%BC%E5%90%8E%E8%B7%9F%E6%B8%B8%E5%AE%A2%E5%86%B2%E7%AA%81%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
