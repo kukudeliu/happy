@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 10:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 10:48:02</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [华人神探李昌钰被指伪造证据](https://www.baidu.com/s?wd=%E5%8D%8E%E4%BA%BA%E7%A5%9E%E6%8E%A2%E6%9D%8E%E6%98%8C%E9%92%B0%E8%A2%AB%E6%8C%87%E4%BC%AA%E9%80%A0%E8%AF%81%E6%8D%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [林志玲回应退圈](https://www.baidu.com/s?wd=%E6%9E%97%E5%BF%97%E7%8E%B2%E5%9B%9E%E5%BA%94%E9%80%80%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [武大靖记忆只有7秒](https://www.baidu.com/s?wd=%E6%AD%A6%E5%A4%A7%E9%9D%96%E8%AE%B0%E5%BF%86%E5%8F%AA%E6%9C%897%E7%A7%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [热巴录节目受伤](https://www.baidu.com/s?wd=%E7%83%AD%E5%B7%B4%E5%BD%95%E8%8A%82%E7%9B%AE%E5%8F%97%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [川航8985紧急备降江苏](https://www.baidu.com/s?wd=%E5%B7%9D%E8%88%AA8985%E7%B4%A7%E6%80%A5%E5%A4%87%E9%99%8D%E6%B1%9F%E8%8B%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [华人神探李昌钰被指伪造证据](https://www.baidu.com/s?wd=%E5%8D%8E%E4%BA%BA%E7%A5%9E%E6%8E%A2%E6%9D%8E%E6%98%8C%E9%92%B0%E8%A2%AB%E6%8C%87%E4%BC%AA%E9%80%A0%E8%AF%81%E6%8D%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [林志玲回应退圈](https://www.baidu.com/s?wd=%E6%9E%97%E5%BF%97%E7%8E%B2%E5%9B%9E%E5%BA%94%E9%80%80%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [武大靖记忆只有7秒](https://www.baidu.com/s?wd=%E6%AD%A6%E5%A4%A7%E9%9D%96%E8%AE%B0%E5%BF%86%E5%8F%AA%E6%9C%897%E7%A7%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [热巴录节目受伤](https://www.baidu.com/s?wd=%E7%83%AD%E5%B7%B4%E5%BD%95%E8%8A%82%E7%9B%AE%E5%8F%97%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [川航8985紧急备降江苏](https://www.baidu.com/s?wd=%E5%B7%9D%E8%88%AA8985%E7%B4%A7%E6%80%A5%E5%A4%87%E9%99%8D%E6%B1%9F%E8%8B%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
