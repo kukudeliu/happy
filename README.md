@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 14:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 14:33:02</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [许沁婚后日常](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%B2%81%E5%A9%9A%E5%90%8E%E6%97%A5%E5%B8%B8%23&t=31&band_rank=5&Refer=top)<br />
 6. [傲寒](https://s.weibo.com/weibo?q=%E5%82%B2%E5%AF%92&t=31&band_rank=6&Refer=top)<br />
 7. [我的人间烟火豆瓣开分4.1分](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E4%BA%BA%E9%97%B4%E7%83%9F%E7%81%AB%E8%B1%86%E7%93%A3%E5%BC%80%E5%88%864.1%E5%88%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [莲花楼连更7天18集](https://s.weibo.com/weibo?q=%23%E8%8E%B2%E8%8A%B1%E6%A5%BC%E8%BF%9E%E6%9B%B47%E5%A4%A918%E9%9B%86%23&t=31&band_rank=8&Refer=top)<br />
+8. [纣王 伯邑考](https://s.weibo.com/weibo?q=%E7%BA%A3%E7%8E%8B%20%E4%BC%AF%E9%82%91%E8%80%83&t=31&band_rank=8&Refer=top)<br />
 9. [敬礼娃娃郎铮被北大录取](https://s.weibo.com/weibo?q=%23%E6%95%AC%E7%A4%BC%E5%A8%83%E5%A8%83%E9%83%8E%E9%93%AE%E8%A2%AB%E5%8C%97%E5%A4%A7%E5%BD%95%E5%8F%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
