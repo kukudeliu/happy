@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 15:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 15:49:02</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [第6位艾滋病“治愈”患者或已出现](https://www.baidu.com/s?wd=%E7%AC%AC6%E4%BD%8D%E8%89%BE%E6%BB%8B%E7%97%85%E2%80%9C%E6%B2%BB%E6%84%88%E2%80%9D%E6%82%A3%E8%80%85%E6%88%96%E5%B7%B2%E5%87%BA%E7%8E%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [薛之谦说只有梅西可以治愈他](https://www.baidu.com/s?wd=%E8%96%9B%E4%B9%8B%E8%B0%A6%E8%AF%B4%E5%8F%AA%E6%9C%89%E6%A2%85%E8%A5%BF%E5%8F%AF%E4%BB%A5%E6%B2%BB%E6%84%88%E4%BB%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [西安回流生事件：警方再抓获6人](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E5%9B%9E%E6%B5%81%E7%94%9F%E4%BA%8B%E4%BB%B6%EF%BC%9A%E8%AD%A6%E6%96%B9%E5%86%8D%E6%8A%93%E8%8E%B76%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [泼水节女网红被泼后与游客起冲突](https://www.baidu.com/s?wd=%E6%B3%BC%E6%B0%B4%E8%8A%82%E5%A5%B3%E7%BD%91%E7%BA%A2%E8%A2%AB%E6%B3%BC%E5%90%8E%E4%B8%8E%E6%B8%B8%E5%AE%A2%E8%B5%B7%E5%86%B2%E7%AA%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [刀郎新歌引争议](https://www.baidu.com/s?wd=%E5%88%80%E9%83%8E%E6%96%B0%E6%AD%8C%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [刀郎新歌引争议](https://www.baidu.com/s?wd=%E5%88%80%E9%83%8E%E6%96%B0%E6%AD%8C%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [北京酒店为何突然涨价“凶猛”](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E9%85%92%E5%BA%97%E4%B8%BA%E4%BD%95%E7%AA%81%E7%84%B6%E6%B6%A8%E4%BB%B7%E2%80%9C%E5%87%B6%E7%8C%9B%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [第6位艾滋病“治愈”患者或已出现](https://www.baidu.com/s?wd=%E7%AC%AC6%E4%BD%8D%E8%89%BE%E6%BB%8B%E7%97%85%E2%80%9C%E6%B2%BB%E6%84%88%E2%80%9D%E6%82%A3%E8%80%85%E6%88%96%E5%B7%B2%E5%87%BA%E7%8E%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [薛之谦说只有梅西可以治愈他](https://www.baidu.com/s?wd=%E8%96%9B%E4%B9%8B%E8%B0%A6%E8%AF%B4%E5%8F%AA%E6%9C%89%E6%A2%85%E8%A5%BF%E5%8F%AF%E4%BB%A5%E6%B2%BB%E6%84%88%E4%BB%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [西安回流生事件：警方再抓获6人](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E5%9B%9E%E6%B5%81%E7%94%9F%E4%BA%8B%E4%BB%B6%EF%BC%9A%E8%AD%A6%E6%96%B9%E5%86%8D%E6%8A%93%E8%8E%B76%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [泼水节女网红被泼后与游客起冲突](https://www.baidu.com/s?wd=%E6%B3%BC%E6%B0%B4%E8%8A%82%E5%A5%B3%E7%BD%91%E7%BA%A2%E8%A2%AB%E6%B3%BC%E5%90%8E%E4%B8%8E%E6%B8%B8%E5%AE%A2%E8%B5%B7%E5%86%B2%E7%AA%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [刀郎新歌引争议](https://www.baidu.com/s?wd=%E5%88%80%E9%83%8E%E6%96%B0%E6%AD%8C%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [刀郎新歌引争议](https://www.baidu.com/s?wd=%E5%88%80%E9%83%8E%E6%96%B0%E6%AD%8C%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [北京酒店为何突然涨价“凶猛”](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E9%85%92%E5%BA%97%E4%B8%BA%E4%BD%95%E7%AA%81%E7%84%B6%E6%B6%A8%E4%BB%B7%E2%80%9C%E5%87%B6%E7%8C%9B%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
