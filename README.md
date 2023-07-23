@@ -1,15 +1,15 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 18:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 18:03:01</h4></div>
 
 > 微博  
 
-1. [豆瓣](https://s.weibo.com/weibo?q=%E8%B1%86%E7%93%A3&t=31&band_rank=1&Refer=top)<br />
+1. [为什么打针前要推掉一点药水](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%89%93%E9%92%88%E5%89%8D%E8%A6%81%E6%8E%A8%E6%8E%89%E4%B8%80%E7%82%B9%E8%8D%AF%E6%B0%B4&t=31&band_rank=1&Refer=top)<br />
 2. [大熊猫也是妈妈的跟屁虫](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E4%B9%9F%E6%98%AF%E5%A6%88%E5%A6%88%E7%9A%84%E8%B7%9F%E5%B1%81%E8%99%AB%23&t=31&band_rank=2&Refer=top)<br />
 3. [一键解锁消暑秘诀](https://s.weibo.com/weibo?q=%23%E4%B8%80%E9%94%AE%E8%A7%A3%E9%94%81%E6%B6%88%E6%9A%91%E7%A7%98%E8%AF%80%23&t=31&band_rank=3&Refer=top)<br />
 4. [杨颖身份证上名字](https://s.weibo.com/weibo?q=%E6%9D%A8%E9%A2%96%E8%BA%AB%E4%BB%BD%E8%AF%81%E4%B8%8A%E5%90%8D%E5%AD%97&t=31&band_rank=4&Refer=top)<br />
 5. [女子被医院紧急电话轰炸挽回一命](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%8C%BB%E9%99%A2%E7%B4%A7%E6%80%A5%E7%94%B5%E8%AF%9D%E8%BD%B0%E7%82%B8%E6%8C%BD%E5%9B%9E%E4%B8%80%E5%91%BD%23&t=31&band_rank=5&Refer=top)<br />
-6. [美依礼芽来中国前后对比](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%BE%9D%E7%A4%BC%E8%8A%BD%E6%9D%A5%E4%B8%AD%E5%9B%BD%E5%89%8D%E5%90%8E%E5%AF%B9%E6%AF%94%23&t=31&band_rank=6&Refer=top)<br />
+6. [豆瓣](https://s.weibo.com/weibo?q=%E8%B1%86%E7%93%A3&t=31&band_rank=6&Refer=top)<br />
 7. [女子用2万根纸卷出千里江山图](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%94%A82%E4%B8%87%E6%A0%B9%E7%BA%B8%E5%8D%B7%E5%87%BA%E5%8D%83%E9%87%8C%E6%B1%9F%E5%B1%B1%E5%9B%BE%23&t=31&band_rank=7&Refer=top)<br />
-8. [王鹤棣让王传君给詹姆斯道歉](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E8%AE%A9%E7%8E%8B%E4%BC%A0%E5%90%9B%E7%BB%99%E8%A9%B9%E5%A7%86%E6%96%AF%E9%81%93%E6%AD%89%23&t=31&band_rank=8&Refer=top)<br />
+8. [美依礼芽来中国前后对比](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%BE%9D%E7%A4%BC%E8%8A%BD%E6%9D%A5%E4%B8%AD%E5%9B%BD%E5%89%8D%E5%90%8E%E5%AF%B9%E6%AF%94%23&t=31&band_rank=8&Refer=top)<br />
 9. [因角色爆火的明星](https://s.weibo.com/weibo?q=%23%E5%9B%A0%E8%A7%92%E8%89%B2%E7%88%86%E7%81%AB%E7%9A%84%E6%98%8E%E6%98%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
