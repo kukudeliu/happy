@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 18:57:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 18:58:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [高质量发展迈出新步伐](https://www.baidu.com/s?wd=%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E8%BF%88%E5%87%BA%E6%96%B0%E6%AD%A5%E4%BC%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [黑龙江一中学体育馆坍塌 10余人被困](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%80%E4%B8%AD%E5%AD%A6%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C+10%E4%BD%99%E4%BA%BA%E8%A2%AB%E5%9B%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [齐齐哈尔中学体育馆坍塌 已营救8人](https://www.baidu.com/s?wd=%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E4%B8%AD%E5%AD%A6%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C+%E5%B7%B2%E8%90%A5%E6%95%918%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [宝马车主回应与布加迪相撞：已和解](https://www.baidu.com/s?wd=%E5%AE%9D%E9%A9%AC%E8%BD%A6%E4%B8%BB%E5%9B%9E%E5%BA%94%E4%B8%8E%E5%B8%83%E5%8A%A0%E8%BF%AA%E7%9B%B8%E6%92%9E%EF%BC%9A%E5%B7%B2%E5%92%8C%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [细数大运会吉祥物及原型](https://www.baidu.com/s?wd=%E7%BB%86%E6%95%B0%E5%A4%A7%E8%BF%90%E4%BC%9A%E5%90%89%E7%A5%A5%E7%89%A9%E5%8F%8A%E5%8E%9F%E5%9E%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [港媒曝谢贤病危入ICU](https://www.baidu.com/s?wd=%E6%B8%AF%E5%AA%92%E6%9B%9D%E8%B0%A2%E8%B4%A4%E7%97%85%E5%8D%B1%E5%85%A5ICU&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [高质量发展迈出新步伐](https://www.baidu.com/s?wd=%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E8%BF%88%E5%87%BA%E6%96%B0%E6%AD%A5%E4%BC%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [黑龙江一中学体育馆坍塌 10余人被困](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%80%E4%B8%AD%E5%AD%A6%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C+10%E4%BD%99%E4%BA%BA%E8%A2%AB%E5%9B%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [齐齐哈尔中学体育馆坍塌 已营救8人](https://www.baidu.com/s?wd=%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E4%B8%AD%E5%AD%A6%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C+%E5%B7%B2%E8%90%A5%E6%95%918%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [宝马车主回应与布加迪相撞：已和解](https://www.baidu.com/s?wd=%E5%AE%9D%E9%A9%AC%E8%BD%A6%E4%B8%BB%E5%9B%9E%E5%BA%94%E4%B8%8E%E5%B8%83%E5%8A%A0%E8%BF%AA%E7%9B%B8%E6%92%9E%EF%BC%9A%E5%B7%B2%E5%92%8C%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [细数大运会吉祥物及原型](https://www.baidu.com/s?wd=%E7%BB%86%E6%95%B0%E5%A4%A7%E8%BF%90%E4%BC%9A%E5%90%89%E7%A5%A5%E7%89%A9%E5%8F%8A%E5%8E%9F%E5%9E%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [港媒曝谢贤病危入ICU](https://www.baidu.com/s?wd=%E6%B8%AF%E5%AA%92%E6%9B%9D%E8%B0%A2%E8%B4%A4%E7%97%85%E5%8D%B1%E5%85%A5ICU&sa=fyb_news&rsv_dl=fyb_news)<br />
