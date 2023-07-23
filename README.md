@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 20:30:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 20:31:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [杨颖身份证上名字](https://s.weibo.com/weibo?q=%E6%9D%A8%E9%A2%96%E8%BA%AB%E4%BB%BD%E8%AF%81%E4%B8%8A%E5%90%8D%E5%AD%97&t=31&band_rank=5&Refer=top)<br />
 6. [黑龙江体育馆坍塌已营救8人](https://s.weibo.com/weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C%E5%B7%B2%E8%90%A5%E6%95%918%E4%BA%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [WBG战胜NIP](https://s.weibo.com/weibo?q=%23WBG%E6%88%98%E8%83%9CNIP%23&t=31&band_rank=7&Refer=top)<br />
-8. [芭比 艾伦](https://s.weibo.com/weibo?q=%E8%8A%AD%E6%AF%94%20%E8%89%BE%E4%BC%A6&t=31&band_rank=8&Refer=top)<br />
-9. [母亲晒孩子在沙滩制竹签陷阱引争议](https://s.weibo.com/weibo?q=%23%E6%AF%8D%E4%BA%B2%E6%99%92%E5%AD%A9%E5%AD%90%E5%9C%A8%E6%B2%99%E6%BB%A9%E5%88%B6%E7%AB%B9%E7%AD%BE%E9%99%B7%E9%98%B1%E5%BC%95%E4%BA%89%E8%AE%AE%23&t=31&band_rank=9&Refer=top)<br />
+8. [母亲晒孩子在沙滩制竹签陷阱引争议](https://s.weibo.com/weibo?q=%23%E6%AF%8D%E4%BA%B2%E6%99%92%E5%AD%A9%E5%AD%90%E5%9C%A8%E6%B2%99%E6%BB%A9%E5%88%B6%E7%AB%B9%E7%AD%BE%E9%99%B7%E9%98%B1%E5%BC%95%E4%BA%89%E8%AE%AE%23&t=31&band_rank=8&Refer=top)<br />
+9. [芭比 艾伦](https://s.weibo.com/weibo?q=%E8%8A%AD%E6%AF%94%20%E8%89%BE%E4%BC%A6&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
