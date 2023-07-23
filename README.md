@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 19:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 19:56:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [女子用2万根纸卷出千里江山图](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%94%A82%E4%B8%87%E6%A0%B9%E7%BA%B8%E5%8D%B7%E5%87%BA%E5%8D%83%E9%87%8C%E6%B1%9F%E5%B1%B1%E5%9B%BE%23&t=31&band_rank=5&Refer=top)<br />
 6. [魏大勋的爆火意味着什么](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E7%9A%84%E7%88%86%E7%81%AB%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88%23&t=31&band_rank=6&Refer=top)<br />
 7. [女子遇车祸跪地求助法官干警伸援手](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%81%87%E8%BD%A6%E7%A5%B8%E8%B7%AA%E5%9C%B0%E6%B1%82%E5%8A%A9%E6%B3%95%E5%AE%98%E5%B9%B2%E8%AD%A6%E4%BC%B8%E6%8F%B4%E6%89%8B%23&t=31&band_rank=7&Refer=top)<br />
-8. [宋焰许沁婚房在高铁旁边](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E7%84%B0%E8%AE%B8%E6%B2%81%E5%A9%9A%E6%88%BF%E5%9C%A8%E9%AB%98%E9%93%81%E6%97%81%E8%BE%B9%23&t=31&band_rank=8&Refer=top)<br />
-9. [芭比](https://s.weibo.com/weibo?q=%E8%8A%AD%E6%AF%94&t=31&band_rank=9&Refer=top)<br />
+8. [芭比](https://s.weibo.com/weibo?q=%E8%8A%AD%E6%AF%94&t=31&band_rank=8&Refer=top)<br />
+9. [宋焰许沁婚房在高铁旁边](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E7%84%B0%E8%AE%B8%E6%B2%81%E5%A9%9A%E6%88%BF%E5%9C%A8%E9%AB%98%E9%93%81%E6%97%81%E8%BE%B9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
