@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 00:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 00:44:02</h4></div>
 
 > 微博  
 
 1. [姬发 殷郊](https://s.weibo.com/weibo?q=%E5%A7%AC%E5%8F%91%20%E6%AE%B7%E9%83%8A&t=31&band_rank=1&Refer=top)<br />
-2. [网友在LV花近万元买错码不换被驱逐](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E5%9C%A8LV%E8%8A%B1%E8%BF%91%E4%B8%87%E5%85%83%E4%B9%B0%E9%94%99%E7%A0%81%E4%B8%8D%E6%8D%A2%E8%A2%AB%E9%A9%B1%E9%80%90%23&t=31&band_rank=2&Refer=top)<br />
+2. [齐齐哈尔三十四中坍塌现场救出11人](https://s.weibo.com/weibo?q=%23%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E4%B8%89%E5%8D%81%E5%9B%9B%E4%B8%AD%E5%9D%8D%E5%A1%8C%E7%8E%B0%E5%9C%BA%E6%95%91%E5%87%BA11%E4%BA%BA%23&t=31&band_rank=2&Refer=top)<br />
 3. [这个夏天共赴青春盛会](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%AA%E5%A4%8F%E5%A4%A9%E5%85%B1%E8%B5%B4%E9%9D%92%E6%98%A5%E7%9B%9B%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
-4. [齐齐哈尔三十四中坍塌现场救出11人](https://s.weibo.com/weibo?q=%23%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E4%B8%89%E5%8D%81%E5%9B%9B%E4%B8%AD%E5%9D%8D%E5%A1%8C%E7%8E%B0%E5%9C%BA%E6%95%91%E5%87%BA11%E4%BA%BA%23&t=31&band_rank=4&Refer=top)<br />
+4. [网友在LV花近万元买错码不换被驱逐](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E5%9C%A8LV%E8%8A%B1%E8%BF%91%E4%B8%87%E5%85%83%E4%B9%B0%E9%94%99%E7%A0%81%E4%B8%8D%E6%8D%A2%E8%A2%AB%E9%A9%B1%E9%80%90%23&t=31&band_rank=4&Refer=top)<br />
 5. [孟宴臣脖子上的吻痕](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AE%B4%E8%87%A3%E8%84%96%E5%AD%90%E4%B8%8A%E7%9A%84%E5%90%BB%E7%97%95%23&t=31&band_rank=5&Refer=top)<br />
 6. [消防员赶到现场只看到一双小脚丫](https://s.weibo.com/weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E8%B5%B6%E5%88%B0%E7%8E%B0%E5%9C%BA%E5%8F%AA%E7%9C%8B%E5%88%B0%E4%B8%80%E5%8F%8C%E5%B0%8F%E8%84%9A%E4%B8%AB%23&t=31&band_rank=6&Refer=top)<br />
 7. [仅3周接诊5名下腰瘫痪孩子](https://s.weibo.com/weibo?q=%23%E4%BB%853%E5%91%A8%E6%8E%A5%E8%AF%8A5%E5%90%8D%E4%B8%8B%E8%85%B0%E7%98%AB%E7%97%AA%E5%AD%A9%E5%AD%90%23&t=31&band_rank=7&Refer=top)<br />
@@ -25,7 +25,7 @@
 6. [爸爸半夜馋酒 找女儿当“酒搭子”](https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8%E5%8D%8A%E5%A4%9C%E9%A6%8B%E9%85%92+%E6%89%BE%E5%A5%B3%E5%84%BF%E5%BD%93%E2%80%9C%E9%85%92%E6%90%AD%E5%AD%90%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子抠下派出所石狮子嘴里石球](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8A%A0%E4%B8%8B%E6%B4%BE%E5%87%BA%E6%89%80%E7%9F%B3%E7%8B%AE%E5%AD%90%E5%98%B4%E9%87%8C%E7%9F%B3%E7%90%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [36岁男子吹空调住进ICU](https://www.baidu.com/s?wd=36%E5%B2%81%E7%94%B7%E5%AD%90%E5%90%B9%E7%A9%BA%E8%B0%83%E4%BD%8F%E8%BF%9BICU&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [山东当街施暴男子取得两女子谅解](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%BD%93%E8%A1%97%E6%96%BD%E6%9A%B4%E7%94%B7%E5%AD%90%E5%8F%96%E5%BE%97%E4%B8%A4%E5%A5%B3%E5%AD%90%E8%B0%85%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [武汉晋级为全国超大城市](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E6%99%8B%E7%BA%A7%E4%B8%BA%E5%85%A8%E5%9B%BD%E8%B6%85%E5%A4%A7%E5%9F%8E%E5%B8%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [爸爸半夜馋酒 找女儿当“酒搭子”](https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8%E5%8D%8A%E5%A4%9C%E9%A6%8B%E9%85%92+%E6%89%BE%E5%A5%B3%E5%84%BF%E5%BD%93%E2%80%9C%E9%85%92%E6%90%AD%E5%AD%90%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子抠下派出所石狮子嘴里石球](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8A%A0%E4%B8%8B%E6%B4%BE%E5%87%BA%E6%89%80%E7%9F%B3%E7%8B%AE%E5%AD%90%E5%98%B4%E9%87%8C%E7%9F%B3%E7%90%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [36岁男子吹空调住进ICU](https://www.baidu.com/s?wd=36%E5%B2%81%E7%94%B7%E5%AD%90%E5%90%B9%E7%A9%BA%E8%B0%83%E4%BD%8F%E8%BF%9BICU&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [山东当街施暴男子取得两女子谅解](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%BD%93%E8%A1%97%E6%96%BD%E6%9A%B4%E7%94%B7%E5%AD%90%E5%8F%96%E5%BE%97%E4%B8%A4%E5%A5%B3%E5%AD%90%E8%B0%85%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [武汉晋级为全国超大城市](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E6%99%8B%E7%BA%A7%E4%B8%BA%E5%85%A8%E5%9B%BD%E8%B6%85%E5%A4%A7%E5%9F%8E%E5%B8%82&sa=fyb_news&rsv_dl=fyb_news)<br />
