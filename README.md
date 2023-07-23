@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 03:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 03:44:01</h4></div>
 
 > 微博  
 
@@ -23,9 +23,9 @@
 4. [一组彩色密码打开成都大运会](https://www.baidu.com/s?wd=%E4%B8%80%E7%BB%84%E5%BD%A9%E8%89%B2%E5%AF%86%E7%A0%81%E6%89%93%E5%BC%80%E6%88%90%E9%83%BD%E5%A4%A7%E8%BF%90%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [长江上游新一轮强降雨来袭](https://www.baidu.com/s?wd=%E9%95%BF%E6%B1%9F%E4%B8%8A%E6%B8%B8%E6%96%B0%E4%B8%80%E8%BD%AE%E5%BC%BA%E9%99%8D%E9%9B%A8%E6%9D%A5%E8%A2%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [普京：乌军反攻损失超2.6万人](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E4%B9%8C%E5%86%9B%E5%8F%8D%E6%94%BB%E6%8D%9F%E5%A4%B1%E8%B6%852.6%E4%B8%87%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [武汉晋级为全国超大城市](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E6%99%8B%E7%BA%A7%E4%B8%BA%E5%85%A8%E5%9B%BD%E8%B6%85%E5%A4%A7%E5%9F%8E%E5%B8%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [北京酒店为何突然涨价“凶猛”](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E9%85%92%E5%BA%97%E4%B8%BA%E4%BD%95%E7%AA%81%E7%84%B6%E6%B6%A8%E4%BB%B7%E2%80%9C%E5%87%B6%E7%8C%9B%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [华人神探李昌钰被指伪造证据](https://www.baidu.com/s?wd=%E5%8D%8E%E4%BA%BA%E7%A5%9E%E6%8E%A2%E6%9D%8E%E6%98%8C%E9%92%B0%E8%A2%AB%E6%8C%87%E4%BC%AA%E9%80%A0%E8%AF%81%E6%8D%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [一针管半年，超长效降压药来了？](https://www.baidu.com/s?wd=%E4%B8%80%E9%92%88%E7%AE%A1%E5%8D%8A%E5%B9%B4%EF%BC%8C%E8%B6%85%E9%95%BF%E6%95%88%E9%99%8D%E5%8E%8B%E8%8D%AF%E6%9D%A5%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [武汉晋级为全国超大城市](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E6%99%8B%E7%BA%A7%E4%B8%BA%E5%85%A8%E5%9B%BD%E8%B6%85%E5%A4%A7%E5%9F%8E%E5%B8%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -35,6 +35,6 @@
 4. [一组彩色密码打开成都大运会](https://www.baidu.com/s?wd=%E4%B8%80%E7%BB%84%E5%BD%A9%E8%89%B2%E5%AF%86%E7%A0%81%E6%89%93%E5%BC%80%E6%88%90%E9%83%BD%E5%A4%A7%E8%BF%90%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [长江上游新一轮强降雨来袭](https://www.baidu.com/s?wd=%E9%95%BF%E6%B1%9F%E4%B8%8A%E6%B8%B8%E6%96%B0%E4%B8%80%E8%BD%AE%E5%BC%BA%E9%99%8D%E9%9B%A8%E6%9D%A5%E8%A2%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [普京：乌军反攻损失超2.6万人](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E4%B9%8C%E5%86%9B%E5%8F%8D%E6%94%BB%E6%8D%9F%E5%A4%B1%E8%B6%852.6%E4%B8%87%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [武汉晋级为全国超大城市](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E6%99%8B%E7%BA%A7%E4%B8%BA%E5%85%A8%E5%9B%BD%E8%B6%85%E5%A4%A7%E5%9F%8E%E5%B8%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [北京酒店为何突然涨价“凶猛”](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E9%85%92%E5%BA%97%E4%B8%BA%E4%BD%95%E7%AA%81%E7%84%B6%E6%B6%A8%E4%BB%B7%E2%80%9C%E5%87%B6%E7%8C%9B%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [华人神探李昌钰被指伪造证据](https://www.baidu.com/s?wd=%E5%8D%8E%E4%BA%BA%E7%A5%9E%E6%8E%A2%E6%9D%8E%E6%98%8C%E9%92%B0%E8%A2%AB%E6%8C%87%E4%BC%AA%E9%80%A0%E8%AF%81%E6%8D%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [一针管半年，超长效降压药来了？](https://www.baidu.com/s?wd=%E4%B8%80%E9%92%88%E7%AE%A1%E5%8D%8A%E5%B9%B4%EF%BC%8C%E8%B6%85%E9%95%BF%E6%95%88%E9%99%8D%E5%8E%8B%E8%8D%AF%E6%9D%A5%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [武汉晋级为全国超大城市](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E6%99%8B%E7%BA%A7%E4%B8%BA%E5%85%A8%E5%9B%BD%E8%B6%85%E5%A4%A7%E5%9F%8E%E5%B8%82&sa=fyb_news&rsv_dl=fyb_news)<br />
