@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 19:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 19:35:01</h4></div>
 
 > 微博  
 
@@ -18,23 +18,23 @@
 > 百度  
 
 1. [高质量发展迈出新步伐](https://www.baidu.com/s?wd=%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E8%BF%88%E5%87%BA%E6%96%B0%E6%AD%A5%E4%BC%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [齐齐哈尔中学体育馆坍塌 已营救8人](https://www.baidu.com/s?wd=%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E4%B8%AD%E5%AD%A6%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C+%E5%B7%B2%E8%90%A5%E6%95%918%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [中学体育馆楼顶坍塌 多名学生送医](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E4%BD%93%E8%82%B2%E9%A6%86%E6%A5%BC%E9%A1%B6%E5%9D%8D%E5%A1%8C+%E5%A4%9A%E5%90%8D%E5%AD%A6%E7%94%9F%E9%80%81%E5%8C%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [宝马车主回应与布加迪相撞：已和解](https://www.baidu.com/s?wd=%E5%AE%9D%E9%A9%AC%E8%BD%A6%E4%B8%BB%E5%9B%9E%E5%BA%94%E4%B8%8E%E5%B8%83%E5%8A%A0%E8%BF%AA%E7%9B%B8%E6%92%9E%EF%BC%9A%E5%B7%B2%E5%92%8C%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [细数大运会吉祥物及原型](https://www.baidu.com/s?wd=%E7%BB%86%E6%95%B0%E5%A4%A7%E8%BF%90%E4%BC%9A%E5%90%89%E7%A5%A5%E7%89%A9%E5%8F%8A%E5%8E%9F%E5%9E%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [回顾那英汪峰杨坤刀郎事件](https://www.baidu.com/s?wd=%E5%9B%9E%E9%A1%BE%E9%82%A3%E8%8B%B1%E6%B1%AA%E5%B3%B0%E6%9D%A8%E5%9D%A4%E5%88%80%E9%83%8E%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [瓦格纳“真正领导人”现身](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E2%80%9C%E7%9C%9F%E6%AD%A3%E9%A2%86%E5%AF%BC%E4%BA%BA%E2%80%9D%E7%8E%B0%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [龙虾店老板深夜崩溃把店砸了](https://www.baidu.com/s?wd=%E9%BE%99%E8%99%BE%E5%BA%97%E8%80%81%E6%9D%BF%E6%B7%B1%E5%A4%9C%E5%B4%A9%E6%BA%83%E6%8A%8A%E5%BA%97%E7%A0%B8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [刀郎《罗刹海市》歌词引热议](https://www.baidu.com/s?wd=%E5%88%80%E9%83%8E%E3%80%8A%E7%BD%97%E5%88%B9%E6%B5%B7%E5%B8%82%E3%80%8B%E6%AD%8C%E8%AF%8D%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [36岁男子吹空调住进ICU](https://www.baidu.com/s?wd=36%E5%B2%81%E7%94%B7%E5%AD%90%E5%90%B9%E7%A9%BA%E8%B0%83%E4%BD%8F%E8%BF%9BICU&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [齐齐哈尔中学体育馆坍塌 已营救8人](https://www.baidu.com/s?wd=%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E4%B8%AD%E5%AD%A6%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C+%E5%B7%B2%E8%90%A5%E6%95%918%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [回顾那英汪峰杨坤刀郎事件](https://www.baidu.com/s?wd=%E5%9B%9E%E9%A1%BE%E9%82%A3%E8%8B%B1%E6%B1%AA%E5%B3%B0%E6%9D%A8%E5%9D%A4%E5%88%80%E9%83%8E%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [瓦格纳“真正领导人”现身](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E2%80%9C%E7%9C%9F%E6%AD%A3%E9%A2%86%E5%AF%BC%E4%BA%BA%E2%80%9D%E7%8E%B0%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [龙虾店老板深夜崩溃把店砸了](https://www.baidu.com/s?wd=%E9%BE%99%E8%99%BE%E5%BA%97%E8%80%81%E6%9D%BF%E6%B7%B1%E5%A4%9C%E5%B4%A9%E6%BA%83%E6%8A%8A%E5%BA%97%E7%A0%B8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [刀郎《罗刹海市》歌词引热议](https://www.baidu.com/s?wd=%E5%88%80%E9%83%8E%E3%80%8A%E7%BD%97%E5%88%B9%E6%B5%B7%E5%B8%82%E3%80%8B%E6%AD%8C%E8%AF%8D%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [高质量发展迈出新步伐](https://www.baidu.com/s?wd=%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E8%BF%88%E5%87%BA%E6%96%B0%E6%AD%A5%E4%BC%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [齐齐哈尔中学体育馆坍塌 已营救8人](https://www.baidu.com/s?wd=%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E4%B8%AD%E5%AD%A6%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C+%E5%B7%B2%E8%90%A5%E6%95%918%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [中学体育馆楼顶坍塌 多名学生送医](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E4%BD%93%E8%82%B2%E9%A6%86%E6%A5%BC%E9%A1%B6%E5%9D%8D%E5%A1%8C+%E5%A4%9A%E5%90%8D%E5%AD%A6%E7%94%9F%E9%80%81%E5%8C%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [宝马车主回应与布加迪相撞：已和解](https://www.baidu.com/s?wd=%E5%AE%9D%E9%A9%AC%E8%BD%A6%E4%B8%BB%E5%9B%9E%E5%BA%94%E4%B8%8E%E5%B8%83%E5%8A%A0%E8%BF%AA%E7%9B%B8%E6%92%9E%EF%BC%9A%E5%B7%B2%E5%92%8C%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [细数大运会吉祥物及原型](https://www.baidu.com/s?wd=%E7%BB%86%E6%95%B0%E5%A4%A7%E8%BF%90%E4%BC%9A%E5%90%89%E7%A5%A5%E7%89%A9%E5%8F%8A%E5%8E%9F%E5%9E%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [回顾那英汪峰杨坤刀郎事件](https://www.baidu.com/s?wd=%E5%9B%9E%E9%A1%BE%E9%82%A3%E8%8B%B1%E6%B1%AA%E5%B3%B0%E6%9D%A8%E5%9D%A4%E5%88%80%E9%83%8E%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [瓦格纳“真正领导人”现身](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E2%80%9C%E7%9C%9F%E6%AD%A3%E9%A2%86%E5%AF%BC%E4%BA%BA%E2%80%9D%E7%8E%B0%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [龙虾店老板深夜崩溃把店砸了](https://www.baidu.com/s?wd=%E9%BE%99%E8%99%BE%E5%BA%97%E8%80%81%E6%9D%BF%E6%B7%B1%E5%A4%9C%E5%B4%A9%E6%BA%83%E6%8A%8A%E5%BA%97%E7%A0%B8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [刀郎《罗刹海市》歌词引热议](https://www.baidu.com/s?wd=%E5%88%80%E9%83%8E%E3%80%8A%E7%BD%97%E5%88%B9%E6%B5%B7%E5%B8%82%E3%80%8B%E6%AD%8C%E8%AF%8D%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [36岁男子吹空调住进ICU](https://www.baidu.com/s?wd=36%E5%B2%81%E7%94%B7%E5%AD%90%E5%90%B9%E7%A9%BA%E8%B0%83%E4%BD%8F%E8%BF%9BICU&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [齐齐哈尔中学体育馆坍塌 已营救8人](https://www.baidu.com/s?wd=%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E4%B8%AD%E5%AD%A6%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C+%E5%B7%B2%E8%90%A5%E6%95%918%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [回顾那英汪峰杨坤刀郎事件](https://www.baidu.com/s?wd=%E5%9B%9E%E9%A1%BE%E9%82%A3%E8%8B%B1%E6%B1%AA%E5%B3%B0%E6%9D%A8%E5%9D%A4%E5%88%80%E9%83%8E%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [瓦格纳“真正领导人”现身](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E2%80%9C%E7%9C%9F%E6%AD%A3%E9%A2%86%E5%AF%BC%E4%BA%BA%E2%80%9D%E7%8E%B0%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [龙虾店老板深夜崩溃把店砸了](https://www.baidu.com/s?wd=%E9%BE%99%E8%99%BE%E5%BA%97%E8%80%81%E6%9D%BF%E6%B7%B1%E5%A4%9C%E5%B4%A9%E6%BA%83%E6%8A%8A%E5%BA%97%E7%A0%B8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [刀郎《罗刹海市》歌词引热议](https://www.baidu.com/s?wd=%E5%88%80%E9%83%8E%E3%80%8A%E7%BD%97%E5%88%B9%E6%B5%B7%E5%B8%82%E3%80%8B%E6%AD%8C%E8%AF%8D%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
