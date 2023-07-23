@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 08:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 08:03:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [你好星期六收视创新高](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%E6%94%B6%E8%A7%86%E5%88%9B%E6%96%B0%E9%AB%98%23&t=31&band_rank=6&Refer=top)<br />
 7. [中山一骑车女子遇开门杀不幸身亡](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B1%B1%E4%B8%80%E9%AA%91%E8%BD%A6%E5%A5%B3%E5%AD%90%E9%81%87%E5%BC%80%E9%97%A8%E6%9D%80%E4%B8%8D%E5%B9%B8%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=7&Refer=top)<br />
 8. [姐姐新婚妹妹养2000条蚕做手工扇](https://s.weibo.com/weibo?q=%23%E5%A7%90%E5%A7%90%E6%96%B0%E5%A9%9A%E5%A6%B9%E5%A6%B9%E5%85%BB2000%E6%9D%A1%E8%9A%95%E5%81%9A%E6%89%8B%E5%B7%A5%E6%89%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [大唐不夜城](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%94%90%E4%B8%8D%E5%A4%9C%E5%9F%8E%23&t=31&band_rank=9&Refer=top)<br />
+9. [Uzi后台哭了](https://s.weibo.com/weibo?q=%23Uzi%E5%90%8E%E5%8F%B0%E5%93%AD%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
