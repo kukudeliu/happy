@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 00:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 00:49:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [爸爸半夜馋酒 找女儿当“酒搭子”](https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8%E5%8D%8A%E5%A4%9C%E9%A6%8B%E9%85%92+%E6%89%BE%E5%A5%B3%E5%84%BF%E5%BD%93%E2%80%9C%E9%85%92%E6%90%AD%E5%AD%90%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [36岁男子吹空调住进ICU](https://www.baidu.com/s?wd=36%E5%B2%81%E7%94%B7%E5%AD%90%E5%90%B9%E7%A9%BA%E8%B0%83%E4%BD%8F%E8%BF%9BICU&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子抠下派出所石狮子嘴里石球](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8A%A0%E4%B8%8B%E6%B4%BE%E5%87%BA%E6%89%80%E7%9F%B3%E7%8B%AE%E5%AD%90%E5%98%B4%E9%87%8C%E7%9F%B3%E7%90%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [武汉晋级为全国超大城市](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E6%99%8B%E7%BA%A7%E4%B8%BA%E5%85%A8%E5%9B%BD%E8%B6%85%E5%A4%A7%E5%9F%8E%E5%B8%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [一针管半年，超长效降压药来了？](https://www.baidu.com/s?wd=%E4%B8%80%E9%92%88%E7%AE%A1%E5%8D%8A%E5%B9%B4%EF%BC%8C%E8%B6%85%E9%95%BF%E6%95%88%E9%99%8D%E5%8E%8B%E8%8D%AF%E6%9D%A5%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [爸爸半夜馋酒 找女儿当“酒搭子”](https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8%E5%8D%8A%E5%A4%9C%E9%A6%8B%E9%85%92+%E6%89%BE%E5%A5%B3%E5%84%BF%E5%BD%93%E2%80%9C%E9%85%92%E6%90%AD%E5%AD%90%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [36岁男子吹空调住进ICU](https://www.baidu.com/s?wd=36%E5%B2%81%E7%94%B7%E5%AD%90%E5%90%B9%E7%A9%BA%E8%B0%83%E4%BD%8F%E8%BF%9BICU&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子抠下派出所石狮子嘴里石球](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8A%A0%E4%B8%8B%E6%B4%BE%E5%87%BA%E6%89%80%E7%9F%B3%E7%8B%AE%E5%AD%90%E5%98%B4%E9%87%8C%E7%9F%B3%E7%90%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [武汉晋级为全国超大城市](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E6%99%8B%E7%BA%A7%E4%B8%BA%E5%85%A8%E5%9B%BD%E8%B6%85%E5%A4%A7%E5%9F%8E%E5%B8%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [一针管半年，超长效降压药来了？](https://www.baidu.com/s?wd=%E4%B8%80%E9%92%88%E7%AE%A1%E5%8D%8A%E5%B9%B4%EF%BC%8C%E8%B6%85%E9%95%BF%E6%95%88%E9%99%8D%E5%8E%8B%E8%8D%AF%E6%9D%A5%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
