@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 05:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 05:05:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [长江上游新一轮强降雨来袭](https://www.baidu.com/s?wd=%E9%95%BF%E6%B1%9F%E4%B8%8A%E6%B8%B8%E6%96%B0%E4%B8%80%E8%BD%AE%E5%BC%BA%E9%99%8D%E9%9B%A8%E6%9D%A5%E8%A2%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [36岁男子吹空调住进ICU](https://www.baidu.com/s?wd=36%E5%B2%81%E7%94%B7%E5%AD%90%E5%90%B9%E7%A9%BA%E8%B0%83%E4%BD%8F%E8%BF%9BICU&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [北京酒店为何突然涨价“凶猛”](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E9%85%92%E5%BA%97%E4%B8%BA%E4%BD%95%E7%AA%81%E7%84%B6%E6%B6%A8%E4%BB%B7%E2%80%9C%E5%87%B6%E7%8C%9B%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [一针管半年，超长效降压药来了？](https://www.baidu.com/s?wd=%E4%B8%80%E9%92%88%E7%AE%A1%E5%8D%8A%E5%B9%B4%EF%BC%8C%E8%B6%85%E9%95%BF%E6%95%88%E9%99%8D%E5%8E%8B%E8%8D%AF%E6%9D%A5%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [攀枝花泳协秘书长跳江救人遇难](https://www.baidu.com/s?wd=%E6%94%80%E6%9E%9D%E8%8A%B1%E6%B3%B3%E5%8D%8F%E7%A7%98%E4%B9%A6%E9%95%BF%E8%B7%B3%E6%B1%9F%E6%95%91%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [攀枝花泳协秘书长跳江救人遇难](https://www.baidu.com/s?wd=%E6%94%80%E6%9E%9D%E8%8A%B1%E6%B3%B3%E5%8D%8F%E7%A7%98%E4%B9%A6%E9%95%BF%E8%B7%B3%E6%B1%9F%E6%95%91%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [一针管半年，超长效降压药来了？](https://www.baidu.com/s?wd=%E4%B8%80%E9%92%88%E7%AE%A1%E5%8D%8A%E5%B9%B4%EF%BC%8C%E8%B6%85%E9%95%BF%E6%95%88%E9%99%8D%E5%8E%8B%E8%8D%AF%E6%9D%A5%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [长江上游新一轮强降雨来袭](https://www.baidu.com/s?wd=%E9%95%BF%E6%B1%9F%E4%B8%8A%E6%B8%B8%E6%96%B0%E4%B8%80%E8%BD%AE%E5%BC%BA%E9%99%8D%E9%9B%A8%E6%9D%A5%E8%A2%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [36岁男子吹空调住进ICU](https://www.baidu.com/s?wd=36%E5%B2%81%E7%94%B7%E5%AD%90%E5%90%B9%E7%A9%BA%E8%B0%83%E4%BD%8F%E8%BF%9BICU&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [北京酒店为何突然涨价“凶猛”](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E9%85%92%E5%BA%97%E4%B8%BA%E4%BD%95%E7%AA%81%E7%84%B6%E6%B6%A8%E4%BB%B7%E2%80%9C%E5%87%B6%E7%8C%9B%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [一针管半年，超长效降压药来了？](https://www.baidu.com/s?wd=%E4%B8%80%E9%92%88%E7%AE%A1%E5%8D%8A%E5%B9%B4%EF%BC%8C%E8%B6%85%E9%95%BF%E6%95%88%E9%99%8D%E5%8E%8B%E8%8D%AF%E6%9D%A5%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [攀枝花泳协秘书长跳江救人遇难](https://www.baidu.com/s?wd=%E6%94%80%E6%9E%9D%E8%8A%B1%E6%B3%B3%E5%8D%8F%E7%A7%98%E4%B9%A6%E9%95%BF%E8%B7%B3%E6%B1%9F%E6%95%91%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [攀枝花泳协秘书长跳江救人遇难](https://www.baidu.com/s?wd=%E6%94%80%E6%9E%9D%E8%8A%B1%E6%B3%B3%E5%8D%8F%E7%A7%98%E4%B9%A6%E9%95%BF%E8%B7%B3%E6%B1%9F%E6%95%91%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [一针管半年，超长效降压药来了？](https://www.baidu.com/s?wd=%E4%B8%80%E9%92%88%E7%AE%A1%E5%8D%8A%E5%B9%B4%EF%BC%8C%E8%B6%85%E9%95%BF%E6%95%88%E9%99%8D%E5%8E%8B%E8%8D%AF%E6%9D%A5%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
