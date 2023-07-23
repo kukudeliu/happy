@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 15:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 15:20:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [李昌钰被指伪造证据](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%98%8C%E9%92%B0%E8%A2%AB%E6%8C%87%E4%BC%AA%E9%80%A0%E8%AF%81%E6%8D%AE%23&t=31&band_rank=6&Refer=top)<br />
 7. [许沁婚后日常](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%B2%81%E5%A9%9A%E5%90%8E%E6%97%A5%E5%B8%B8%23&t=31&band_rank=7&Refer=top)<br />
 8. [杭州富阳暴雨引发洪水致5死2失联](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%AF%8C%E9%98%B3%E6%9A%B4%E9%9B%A8%E5%BC%95%E5%8F%91%E6%B4%AA%E6%B0%B4%E8%87%B45%E6%AD%BB2%E5%A4%B1%E8%81%94%23&t=31&band_rank=8&Refer=top)<br />
-9. [傲寒](https://s.weibo.com/weibo?q=%E5%82%B2%E5%AF%92&t=31&band_rank=9&Refer=top)<br />
+9. [敬礼娃娃郎铮被北大录取](https://s.weibo.com/weibo?q=%23%E6%95%AC%E7%A4%BC%E5%A8%83%E5%A8%83%E9%83%8E%E9%93%AE%E8%A2%AB%E5%8C%97%E5%A4%A7%E5%BD%95%E5%8F%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
