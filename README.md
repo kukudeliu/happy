@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 15:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 15:44:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 3. [恭喜！“敬礼娃娃”郎铮被北大录取](https://www.baidu.com/s?wd=%E6%81%AD%E5%96%9C%EF%BC%81%E2%80%9C%E6%95%AC%E7%A4%BC%E5%A8%83%E5%A8%83%E2%80%9D%E9%83%8E%E9%93%AE%E8%A2%AB%E5%8C%97%E5%A4%A7%E5%BD%95%E5%8F%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [女足姑娘加油](https://www.baidu.com/s?wd=%E5%A5%B3%E8%B6%B3%E5%A7%91%E5%A8%98%E5%8A%A0%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [第6位艾滋病“治愈”患者或已出现](https://www.baidu.com/s?wd=%E7%AC%AC6%E4%BD%8D%E8%89%BE%E6%BB%8B%E7%97%85%E2%80%9C%E6%B2%BB%E6%84%88%E2%80%9D%E6%82%A3%E8%80%85%E6%88%96%E5%B7%B2%E5%87%BA%E7%8E%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [梅西晒照回应詹姆斯：谢谢你兄弟](https://www.baidu.com/s?wd=%E6%A2%85%E8%A5%BF%E6%99%92%E7%85%A7%E5%9B%9E%E5%BA%94%E8%A9%B9%E5%A7%86%E6%96%AF%EF%BC%9A%E8%B0%A2%E8%B0%A2%E4%BD%A0%E5%85%84%E5%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [薛之谦说只有梅西可以治愈他](https://www.baidu.com/s?wd=%E8%96%9B%E4%B9%8B%E8%B0%A6%E8%AF%B4%E5%8F%AA%E6%9C%89%E6%A2%85%E8%A5%BF%E5%8F%AF%E4%BB%A5%E6%B2%BB%E6%84%88%E4%BB%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [西安回流生事件：警方再抓获6人](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E5%9B%9E%E6%B5%81%E7%94%9F%E4%BA%8B%E4%BB%B6%EF%BC%9A%E8%AD%A6%E6%96%B9%E5%86%8D%E6%8A%93%E8%8E%B76%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [泼水节女网红被泼后与游客起冲突](https://www.baidu.com/s?wd=%E6%B3%BC%E6%B0%B4%E8%8A%82%E5%A5%B3%E7%BD%91%E7%BA%A2%E8%A2%AB%E6%B3%BC%E5%90%8E%E4%B8%8E%E6%B8%B8%E5%AE%A2%E8%B5%B7%E5%86%B2%E7%AA%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [刀郎新歌引争议](https://www.baidu.com/s?wd=%E5%88%80%E9%83%8E%E6%96%B0%E6%AD%8C%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -34,7 +34,7 @@
 3. [恭喜！“敬礼娃娃”郎铮被北大录取](https://www.baidu.com/s?wd=%E6%81%AD%E5%96%9C%EF%BC%81%E2%80%9C%E6%95%AC%E7%A4%BC%E5%A8%83%E5%A8%83%E2%80%9D%E9%83%8E%E9%93%AE%E8%A2%AB%E5%8C%97%E5%A4%A7%E5%BD%95%E5%8F%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [女足姑娘加油](https://www.baidu.com/s?wd=%E5%A5%B3%E8%B6%B3%E5%A7%91%E5%A8%98%E5%8A%A0%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [第6位艾滋病“治愈”患者或已出现](https://www.baidu.com/s?wd=%E7%AC%AC6%E4%BD%8D%E8%89%BE%E6%BB%8B%E7%97%85%E2%80%9C%E6%B2%BB%E6%84%88%E2%80%9D%E6%82%A3%E8%80%85%E6%88%96%E5%B7%B2%E5%87%BA%E7%8E%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [梅西晒照回应詹姆斯：谢谢你兄弟](https://www.baidu.com/s?wd=%E6%A2%85%E8%A5%BF%E6%99%92%E7%85%A7%E5%9B%9E%E5%BA%94%E8%A9%B9%E5%A7%86%E6%96%AF%EF%BC%9A%E8%B0%A2%E8%B0%A2%E4%BD%A0%E5%85%84%E5%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [薛之谦说只有梅西可以治愈他](https://www.baidu.com/s?wd=%E8%96%9B%E4%B9%8B%E8%B0%A6%E8%AF%B4%E5%8F%AA%E6%9C%89%E6%A2%85%E8%A5%BF%E5%8F%AF%E4%BB%A5%E6%B2%BB%E6%84%88%E4%BB%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [西安回流生事件：警方再抓获6人](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E5%9B%9E%E6%B5%81%E7%94%9F%E4%BA%8B%E4%BB%B6%EF%BC%9A%E8%AD%A6%E6%96%B9%E5%86%8D%E6%8A%93%E8%8E%B76%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [泼水节女网红被泼后与游客起冲突](https://www.baidu.com/s?wd=%E6%B3%BC%E6%B0%B4%E8%8A%82%E5%A5%B3%E7%BD%91%E7%BA%A2%E8%A2%AB%E6%B3%BC%E5%90%8E%E4%B8%8E%E6%B8%B8%E5%AE%A2%E8%B5%B7%E5%86%B2%E7%AA%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [刀郎新歌引争议](https://www.baidu.com/s?wd=%E5%88%80%E9%83%8E%E6%96%B0%E6%AD%8C%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
