@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 17:47:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 17:48:01</h4></div>
 
 > 微博  
 
@@ -18,23 +18,23 @@
 > 百度  
 
 1. [这组数据展示中国市场巨大吸引力](https://www.baidu.com/s?wd=%E8%BF%99%E7%BB%84%E6%95%B0%E6%8D%AE%E5%B1%95%E7%A4%BA%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E5%B7%A8%E5%A4%A7%E5%90%B8%E5%BC%95%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [西安男子编造中考回流生谣言被刑拘](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E7%94%B7%E5%AD%90%E7%BC%96%E9%80%A0%E4%B8%AD%E8%80%83%E5%9B%9E%E6%B5%81%E7%94%9F%E8%B0%A3%E8%A8%80%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [宝马车主回应与布加迪相撞：已和解](https://www.baidu.com/s?wd=%E5%AE%9D%E9%A9%AC%E8%BD%A6%E4%B8%BB%E5%9B%9E%E5%BA%94%E4%B8%8E%E5%B8%83%E5%8A%A0%E8%BF%AA%E7%9B%B8%E6%92%9E%EF%BC%9A%E5%B7%B2%E5%92%8C%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [恭喜！“敬礼娃娃”郎铮被北大录取](https://www.baidu.com/s?wd=%E6%81%AD%E5%96%9C%EF%BC%81%E2%80%9C%E6%95%AC%E7%A4%BC%E5%A8%83%E5%A8%83%E2%80%9D%E9%83%8E%E9%93%AE%E8%A2%AB%E5%8C%97%E5%A4%A7%E5%BD%95%E5%8F%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [青春主场｜数说大运](https://www.baidu.com/s?wd=%E9%9D%92%E6%98%A5%E4%B8%BB%E5%9C%BA%EF%BD%9C%E6%95%B0%E8%AF%B4%E5%A4%A7%E8%BF%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [布加迪超跑强行加塞撞到宝马](https://www.baidu.com/s?wd=%E5%B8%83%E5%8A%A0%E8%BF%AA%E8%B6%85%E8%B7%91%E5%BC%BA%E8%A1%8C%E5%8A%A0%E5%A1%9E%E6%92%9E%E5%88%B0%E5%AE%9D%E9%A9%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [龙虾店老板深夜崩溃把店砸了](https://www.baidu.com/s?wd=%E9%BE%99%E8%99%BE%E5%BA%97%E8%80%81%E6%9D%BF%E6%B7%B1%E5%A4%9C%E5%B4%A9%E6%BA%83%E6%8A%8A%E5%BA%97%E7%A0%B8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [36岁男子吹空调住进ICU](https://www.baidu.com/s?wd=36%E5%B2%81%E7%94%B7%E5%AD%90%E5%90%B9%E7%A9%BA%E8%B0%83%E4%BD%8F%E8%BF%9BICU&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [中建八局再陷“工程质量”疑云](https://www.baidu.com/s?wd=%E4%B8%AD%E5%BB%BA%E5%85%AB%E5%B1%80%E5%86%8D%E9%99%B7%E2%80%9C%E5%B7%A5%E7%A8%8B%E8%B4%A8%E9%87%8F%E2%80%9D%E7%96%91%E4%BA%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [龙虾店老板深夜崩溃把店砸了](https://www.baidu.com/s?wd=%E9%BE%99%E8%99%BE%E5%BA%97%E8%80%81%E6%9D%BF%E6%B7%B1%E5%A4%9C%E5%B4%A9%E6%BA%83%E6%8A%8A%E5%BA%97%E7%A0%B8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [36岁男子吹空调住进ICU](https://www.baidu.com/s?wd=36%E5%B2%81%E7%94%B7%E5%AD%90%E5%90%B9%E7%A9%BA%E8%B0%83%E4%BD%8F%E8%BF%9BICU&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [中建八局再陷“工程质量”疑云](https://www.baidu.com/s?wd=%E4%B8%AD%E5%BB%BA%E5%85%AB%E5%B1%80%E5%86%8D%E9%99%B7%E2%80%9C%E5%B7%A5%E7%A8%8B%E8%B4%A8%E9%87%8F%E2%80%9D%E7%96%91%E4%BA%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [一针管半年，超长效降压药来了？](https://www.baidu.com/s?wd=%E4%B8%80%E9%92%88%E7%AE%A1%E5%8D%8A%E5%B9%B4%EF%BC%8C%E8%B6%85%E9%95%BF%E6%95%88%E9%99%8D%E5%8E%8B%E8%8D%AF%E6%9D%A5%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [内蒙古交警骑马指挥交通](https://www.baidu.com/s?wd=%E5%86%85%E8%92%99%E5%8F%A4%E4%BA%A4%E8%AD%A6%E9%AA%91%E9%A9%AC%E6%8C%87%E6%8C%A5%E4%BA%A4%E9%80%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [这组数据展示中国市场巨大吸引力](https://www.baidu.com/s?wd=%E8%BF%99%E7%BB%84%E6%95%B0%E6%8D%AE%E5%B1%95%E7%A4%BA%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E5%B7%A8%E5%A4%A7%E5%90%B8%E5%BC%95%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [西安男子编造中考回流生谣言被刑拘](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E7%94%B7%E5%AD%90%E7%BC%96%E9%80%A0%E4%B8%AD%E8%80%83%E5%9B%9E%E6%B5%81%E7%94%9F%E8%B0%A3%E8%A8%80%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [宝马车主回应与布加迪相撞：已和解](https://www.baidu.com/s?wd=%E5%AE%9D%E9%A9%AC%E8%BD%A6%E4%B8%BB%E5%9B%9E%E5%BA%94%E4%B8%8E%E5%B8%83%E5%8A%A0%E8%BF%AA%E7%9B%B8%E6%92%9E%EF%BC%9A%E5%B7%B2%E5%92%8C%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [恭喜！“敬礼娃娃”郎铮被北大录取](https://www.baidu.com/s?wd=%E6%81%AD%E5%96%9C%EF%BC%81%E2%80%9C%E6%95%AC%E7%A4%BC%E5%A8%83%E5%A8%83%E2%80%9D%E9%83%8E%E9%93%AE%E8%A2%AB%E5%8C%97%E5%A4%A7%E5%BD%95%E5%8F%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [青春主场｜数说大运](https://www.baidu.com/s?wd=%E9%9D%92%E6%98%A5%E4%B8%BB%E5%9C%BA%EF%BD%9C%E6%95%B0%E8%AF%B4%E5%A4%A7%E8%BF%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [布加迪超跑强行加塞撞到宝马](https://www.baidu.com/s?wd=%E5%B8%83%E5%8A%A0%E8%BF%AA%E8%B6%85%E8%B7%91%E5%BC%BA%E8%A1%8C%E5%8A%A0%E5%A1%9E%E6%92%9E%E5%88%B0%E5%AE%9D%E9%A9%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [龙虾店老板深夜崩溃把店砸了](https://www.baidu.com/s?wd=%E9%BE%99%E8%99%BE%E5%BA%97%E8%80%81%E6%9D%BF%E6%B7%B1%E5%A4%9C%E5%B4%A9%E6%BA%83%E6%8A%8A%E5%BA%97%E7%A0%B8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [36岁男子吹空调住进ICU](https://www.baidu.com/s?wd=36%E5%B2%81%E7%94%B7%E5%AD%90%E5%90%B9%E7%A9%BA%E8%B0%83%E4%BD%8F%E8%BF%9BICU&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [中建八局再陷“工程质量”疑云](https://www.baidu.com/s?wd=%E4%B8%AD%E5%BB%BA%E5%85%AB%E5%B1%80%E5%86%8D%E9%99%B7%E2%80%9C%E5%B7%A5%E7%A8%8B%E8%B4%A8%E9%87%8F%E2%80%9D%E7%96%91%E4%BA%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [龙虾店老板深夜崩溃把店砸了](https://www.baidu.com/s?wd=%E9%BE%99%E8%99%BE%E5%BA%97%E8%80%81%E6%9D%BF%E6%B7%B1%E5%A4%9C%E5%B4%A9%E6%BA%83%E6%8A%8A%E5%BA%97%E7%A0%B8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [36岁男子吹空调住进ICU](https://www.baidu.com/s?wd=36%E5%B2%81%E7%94%B7%E5%AD%90%E5%90%B9%E7%A9%BA%E8%B0%83%E4%BD%8F%E8%BF%9BICU&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [中建八局再陷“工程质量”疑云](https://www.baidu.com/s?wd=%E4%B8%AD%E5%BB%BA%E5%85%AB%E5%B1%80%E5%86%8D%E9%99%B7%E2%80%9C%E5%B7%A5%E7%A8%8B%E8%B4%A8%E9%87%8F%E2%80%9D%E7%96%91%E4%BA%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [一针管半年，超长效降压药来了？](https://www.baidu.com/s?wd=%E4%B8%80%E9%92%88%E7%AE%A1%E5%8D%8A%E5%B9%B4%EF%BC%8C%E8%B6%85%E9%95%BF%E6%95%88%E9%99%8D%E5%8E%8B%E8%8D%AF%E6%9D%A5%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [内蒙古交警骑马指挥交通](https://www.baidu.com/s?wd=%E5%86%85%E8%92%99%E5%8F%A4%E4%BA%A4%E8%AD%A6%E9%AA%91%E9%A9%AC%E6%8C%87%E6%8C%A5%E4%BA%A4%E9%80%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
