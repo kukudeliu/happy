@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 15:42:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 15:43:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [梅西晒照回应詹姆斯：谢谢你兄弟](https://www.baidu.com/s?wd=%E6%A2%85%E8%A5%BF%E6%99%92%E7%85%A7%E5%9B%9E%E5%BA%94%E8%A9%B9%E5%A7%86%E6%96%AF%EF%BC%9A%E8%B0%A2%E8%B0%A2%E4%BD%A0%E5%85%84%E5%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [西安回流生事件：警方再抓获6人](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E5%9B%9E%E6%B5%81%E7%94%9F%E4%BA%8B%E4%BB%B6%EF%BC%9A%E8%AD%A6%E6%96%B9%E5%86%8D%E6%8A%93%E8%8E%B76%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [泼水节女网红被泼后与游客起冲突](https://www.baidu.com/s?wd=%E6%B3%BC%E6%B0%B4%E8%8A%82%E5%A5%B3%E7%BD%91%E7%BA%A2%E8%A2%AB%E6%B3%BC%E5%90%8E%E4%B8%8E%E6%B8%B8%E5%AE%A2%E8%B5%B7%E5%86%B2%E7%AA%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [川航8985紧急备降江苏](https://www.baidu.com/s?wd=%E5%B7%9D%E8%88%AA8985%E7%B4%A7%E6%80%A5%E5%A4%87%E9%99%8D%E6%B1%9F%E8%8B%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [刀郎新歌引争议](https://www.baidu.com/s?wd=%E5%88%80%E9%83%8E%E6%96%B0%E6%AD%8C%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [梅西晒照回应詹姆斯：谢谢你兄弟](https://www.baidu.com/s?wd=%E6%A2%85%E8%A5%BF%E6%99%92%E7%85%A7%E5%9B%9E%E5%BA%94%E8%A9%B9%E5%A7%86%E6%96%AF%EF%BC%9A%E8%B0%A2%E8%B0%A2%E4%BD%A0%E5%85%84%E5%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [西安回流生事件：警方再抓获6人](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E5%9B%9E%E6%B5%81%E7%94%9F%E4%BA%8B%E4%BB%B6%EF%BC%9A%E8%AD%A6%E6%96%B9%E5%86%8D%E6%8A%93%E8%8E%B76%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [泼水节女网红被泼后与游客起冲突](https://www.baidu.com/s?wd=%E6%B3%BC%E6%B0%B4%E8%8A%82%E5%A5%B3%E7%BD%91%E7%BA%A2%E8%A2%AB%E6%B3%BC%E5%90%8E%E4%B8%8E%E6%B8%B8%E5%AE%A2%E8%B5%B7%E5%86%B2%E7%AA%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [川航8985紧急备降江苏](https://www.baidu.com/s?wd=%E5%B7%9D%E8%88%AA8985%E7%B4%A7%E6%80%A5%E5%A4%87%E9%99%8D%E6%B1%9F%E8%8B%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [刀郎新歌引争议](https://www.baidu.com/s?wd=%E5%88%80%E9%83%8E%E6%96%B0%E6%AD%8C%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
