@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 16:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 16:14:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [危险派对](https://s.weibo.com/weibo?q=%E5%8D%B1%E9%99%A9%E6%B4%BE%E5%AF%B9&t=31&band_rank=6&Refer=top)<br />
 7. [常德公交车酒吧](https://s.weibo.com/weibo?q=%E5%B8%B8%E5%BE%B7%E5%85%AC%E4%BA%A4%E8%BD%A6%E9%85%92%E5%90%A7&t=31&band_rank=7&Refer=top)<br />
 8. [高位截瘫女孩高考557手肘磨得见骨](https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%BD%8D%E6%88%AA%E7%98%AB%E5%A5%B3%E5%AD%A9%E9%AB%98%E8%80%83557%E6%89%8B%E8%82%98%E7%A3%A8%E5%BE%97%E8%A7%81%E9%AA%A8%23&t=31&band_rank=8&Refer=top)<br />
-9. [李昌钰被指伪造证据](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%98%8C%E9%92%B0%E8%A2%AB%E6%8C%87%E4%BC%AA%E9%80%A0%E8%AF%81%E6%8D%AE%23&t=31&band_rank=9&Refer=top)<br />
+9. [敬礼娃娃郎铮被北大录取](https://s.weibo.com/weibo?q=%23%E6%95%AC%E7%A4%BC%E5%A8%83%E5%A8%83%E9%83%8E%E9%93%AE%E8%A2%AB%E5%8C%97%E5%A4%A7%E5%BD%95%E5%8F%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -25,7 +25,7 @@
 6. [36岁男子吹空调住进ICU](https://www.baidu.com/s?wd=36%E5%B2%81%E7%94%B7%E5%AD%90%E5%90%B9%E7%A9%BA%E8%B0%83%E4%BD%8F%E8%BF%9BICU&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [seventeen宣布十月回归](https://www.baidu.com/s?wd=seventeen%E5%AE%A3%E5%B8%83%E5%8D%81%E6%9C%88%E5%9B%9E%E5%BD%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [攀枝花泳协秘书长跳江救人遇难](https://www.baidu.com/s?wd=%E6%94%80%E6%9E%9D%E8%8A%B1%E6%B3%B3%E5%8D%8F%E7%A7%98%E4%B9%A6%E9%95%BF%E8%B7%B3%E6%B1%9F%E6%95%91%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [西安回流生事件：警方再抓获6人](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E5%9B%9E%E6%B5%81%E7%94%9F%E4%BA%8B%E4%BB%B6%EF%BC%9A%E8%AD%A6%E6%96%B9%E5%86%8D%E6%8A%93%E8%8E%B76%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [北京酒店为何突然涨价“凶猛”](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E9%85%92%E5%BA%97%E4%B8%BA%E4%BD%95%E7%AA%81%E7%84%B6%E6%B6%A8%E4%BB%B7%E2%80%9C%E5%87%B6%E7%8C%9B%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [36岁男子吹空调住进ICU](https://www.baidu.com/s?wd=36%E5%B2%81%E7%94%B7%E5%AD%90%E5%90%B9%E7%A9%BA%E8%B0%83%E4%BD%8F%E8%BF%9BICU&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [seventeen宣布十月回归](https://www.baidu.com/s?wd=seventeen%E5%AE%A3%E5%B8%83%E5%8D%81%E6%9C%88%E5%9B%9E%E5%BD%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [攀枝花泳协秘书长跳江救人遇难](https://www.baidu.com/s?wd=%E6%94%80%E6%9E%9D%E8%8A%B1%E6%B3%B3%E5%8D%8F%E7%A7%98%E4%B9%A6%E9%95%BF%E8%B7%B3%E6%B1%9F%E6%95%91%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [西安回流生事件：警方再抓获6人](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E5%9B%9E%E6%B5%81%E7%94%9F%E4%BA%8B%E4%BB%B6%EF%BC%9A%E8%AD%A6%E6%96%B9%E5%86%8D%E6%8A%93%E8%8E%B76%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [北京酒店为何突然涨价“凶猛”](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E9%85%92%E5%BA%97%E4%B8%BA%E4%BD%95%E7%AA%81%E7%84%B6%E6%B6%A8%E4%BB%B7%E2%80%9C%E5%87%B6%E7%8C%9B%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
