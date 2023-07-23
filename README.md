@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 16:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-23 16:56:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [布加迪超跑强行加塞撞到宝马](https://www.baidu.com/s?wd=%E5%B8%83%E5%8A%A0%E8%BF%AA%E8%B6%85%E8%B7%91%E5%BC%BA%E8%A1%8C%E5%8A%A0%E5%A1%9E%E6%92%9E%E5%88%B0%E5%AE%9D%E9%A9%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [36岁男子吹空调住进ICU](https://www.baidu.com/s?wd=36%E5%B2%81%E7%94%B7%E5%AD%90%E5%90%B9%E7%A9%BA%E8%B0%83%E4%BD%8F%E8%BF%9BICU&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [店家卖穿马面裙戴发簪冰淇淋引争议](https://www.baidu.com/s?wd=%E5%BA%97%E5%AE%B6%E5%8D%96%E7%A9%BF%E9%A9%AC%E9%9D%A2%E8%A3%99%E6%88%B4%E5%8F%91%E7%B0%AA%E5%86%B0%E6%B7%87%E6%B7%8B%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [刀郎《罗刹海市》歌词引热议](https://www.baidu.com/s?wd=%E5%88%80%E9%83%8E%E3%80%8A%E7%BD%97%E5%88%B9%E6%B5%B7%E5%B8%82%E3%80%8B%E6%AD%8C%E8%AF%8D%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [龙虾店老板深夜崩溃把店砸了](https://www.baidu.com/s?wd=%E9%BE%99%E8%99%BE%E5%BA%97%E8%80%81%E6%9D%BF%E6%B7%B1%E5%A4%9C%E5%B4%A9%E6%BA%83%E6%8A%8A%E5%BA%97%E7%A0%B8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [一针管半年，超长效降压药来了？](https://www.baidu.com/s?wd=%E4%B8%80%E9%92%88%E7%AE%A1%E5%8D%8A%E5%B9%B4%EF%BC%8C%E8%B6%85%E9%95%BF%E6%95%88%E9%99%8D%E5%8E%8B%E8%8D%AF%E6%9D%A5%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [布加迪超跑强行加塞撞到宝马](https://www.baidu.com/s?wd=%E5%B8%83%E5%8A%A0%E8%BF%AA%E8%B6%85%E8%B7%91%E5%BC%BA%E8%A1%8C%E5%8A%A0%E5%A1%9E%E6%92%9E%E5%88%B0%E5%AE%9D%E9%A9%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [36岁男子吹空调住进ICU](https://www.baidu.com/s?wd=36%E5%B2%81%E7%94%B7%E5%AD%90%E5%90%B9%E7%A9%BA%E8%B0%83%E4%BD%8F%E8%BF%9BICU&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [店家卖穿马面裙戴发簪冰淇淋引争议](https://www.baidu.com/s?wd=%E5%BA%97%E5%AE%B6%E5%8D%96%E7%A9%BF%E9%A9%AC%E9%9D%A2%E8%A3%99%E6%88%B4%E5%8F%91%E7%B0%AA%E5%86%B0%E6%B7%87%E6%B7%8B%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [刀郎《罗刹海市》歌词引热议](https://www.baidu.com/s?wd=%E5%88%80%E9%83%8E%E3%80%8A%E7%BD%97%E5%88%B9%E6%B5%B7%E5%B8%82%E3%80%8B%E6%AD%8C%E8%AF%8D%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [龙虾店老板深夜崩溃把店砸了](https://www.baidu.com/s?wd=%E9%BE%99%E8%99%BE%E5%BA%97%E8%80%81%E6%9D%BF%E6%B7%B1%E5%A4%9C%E5%B4%A9%E6%BA%83%E6%8A%8A%E5%BA%97%E7%A0%B8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [一针管半年，超长效降压药来了？](https://www.baidu.com/s?wd=%E4%B8%80%E9%92%88%E7%AE%A1%E5%8D%8A%E5%B9%B4%EF%BC%8C%E8%B6%85%E9%95%BF%E6%95%88%E9%99%8D%E5%8E%8B%E8%8D%AF%E6%9D%A5%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
