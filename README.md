@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 18:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 18:51:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [颖儿家暴戏至少化妆2小时](https://s.weibo.com/weibo?q=%23%E9%A2%96%E5%84%BF%E5%AE%B6%E6%9A%B4%E6%88%8F%E8%87%B3%E5%B0%91%E5%8C%96%E5%A6%862%E5%B0%8F%E6%97%B6%23&t=31&band_rank=6&Refer=top)<br />
 7. [保姆一路考证升学工资从5000涨到2万](https://s.weibo.com/weibo?q=%23%E4%BF%9D%E5%A7%86%E4%B8%80%E8%B7%AF%E8%80%83%E8%AF%81%E5%8D%87%E5%AD%A6%E5%B7%A5%E8%B5%84%E4%BB%8E5000%E6%B6%A8%E5%88%B02%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [李玟姐姐将直播李玟追思会](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E5%A7%90%E5%A7%90%E5%B0%86%E7%9B%B4%E6%92%AD%E6%9D%8E%E7%8E%9F%E8%BF%BD%E6%80%9D%E4%BC%9A%23&t=31&band_rank=8&Refer=top)<br />
-9. [唐尚珺放弃本科第一批第二次征集志愿](https://s.weibo.com/weibo?q=%23%E5%94%90%E5%B0%9A%E7%8F%BA%E6%94%BE%E5%BC%83%E6%9C%AC%E7%A7%91%E7%AC%AC%E4%B8%80%E6%89%B9%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%BE%81%E9%9B%86%E5%BF%97%E6%84%BF%23&t=31&band_rank=9&Refer=top)<br />
+9. [朱志鑫 体能方面没那么稳固](https://s.weibo.com/weibo?q=%E6%9C%B1%E5%BF%97%E9%91%AB%20%E4%BD%93%E8%83%BD%E6%96%B9%E9%9D%A2%E6%B2%A1%E9%82%A3%E4%B9%88%E7%A8%B3%E5%9B%BA&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
