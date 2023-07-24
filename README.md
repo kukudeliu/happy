@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 23:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 23:11:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [保姆一路考证工资从5千涨到2万](https://www.baidu.com/s?wd=%E4%BF%9D%E5%A7%86%E4%B8%80%E8%B7%AF%E8%80%83%E8%AF%81%E5%B7%A5%E8%B5%84%E4%BB%8E5%E5%8D%83%E6%B6%A8%E5%88%B02%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [冯提莫患甲状腺癌晚期 目前已手术](https://www.baidu.com/s?wd=%E5%86%AF%E6%8F%90%E8%8E%AB%E6%82%A3%E7%94%B2%E7%8A%B6%E8%85%BA%E7%99%8C%E6%99%9A%E6%9C%9F+%E7%9B%AE%E5%89%8D%E5%B7%B2%E6%89%8B%E6%9C%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [体育馆坍塌事故11名遇难者身份公布](https://www.baidu.com/s?wd=%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C%E4%BA%8B%E6%95%8511%E5%90%8D%E9%81%87%E9%9A%BE%E8%80%85%E8%BA%AB%E4%BB%BD%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [悼念鲜花堆满中学门口 有人送去排球](https://www.baidu.com/s?wd=%E6%82%BC%E5%BF%B5%E9%B2%9C%E8%8A%B1%E5%A0%86%E6%BB%A1%E4%B8%AD%E5%AD%A6%E9%97%A8%E5%8F%A3+%E6%9C%89%E4%BA%BA%E9%80%81%E5%8E%BB%E6%8E%92%E7%90%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [千年古寺深夜失火佛像独矗废墟](https://www.baidu.com/s?wd=%E5%8D%83%E5%B9%B4%E5%8F%A4%E5%AF%BA%E6%B7%B1%E5%A4%9C%E5%A4%B1%E7%81%AB%E4%BD%9B%E5%83%8F%E7%8B%AC%E7%9F%97%E5%BA%9F%E5%A2%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [千年古寺深夜失火佛像独矗废墟](https://www.baidu.com/s?wd=%E5%8D%83%E5%B9%B4%E5%8F%A4%E5%AF%BA%E6%B7%B1%E5%A4%9C%E5%A4%B1%E7%81%AB%E4%BD%9B%E5%83%8F%E7%8B%AC%E7%9F%97%E5%BA%9F%E5%A2%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子被抛砖砸死 嫌疑人无精神病](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%AB%E6%8A%9B%E7%A0%96%E7%A0%B8%E6%AD%BB+%E5%AB%8C%E7%96%91%E4%BA%BA%E6%97%A0%E7%B2%BE%E7%A5%9E%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [保姆一路考证工资从5千涨到2万](https://www.baidu.com/s?wd=%E4%BF%9D%E5%A7%86%E4%B8%80%E8%B7%AF%E8%80%83%E8%AF%81%E5%B7%A5%E8%B5%84%E4%BB%8E5%E5%8D%83%E6%B6%A8%E5%88%B02%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [冯提莫患甲状腺癌晚期 目前已手术](https://www.baidu.com/s?wd=%E5%86%AF%E6%8F%90%E8%8E%AB%E6%82%A3%E7%94%B2%E7%8A%B6%E8%85%BA%E7%99%8C%E6%99%9A%E6%9C%9F+%E7%9B%AE%E5%89%8D%E5%B7%B2%E6%89%8B%E6%9C%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [体育馆坍塌事故11名遇难者身份公布](https://www.baidu.com/s?wd=%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C%E4%BA%8B%E6%95%8511%E5%90%8D%E9%81%87%E9%9A%BE%E8%80%85%E8%BA%AB%E4%BB%BD%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [悼念鲜花堆满中学门口 有人送去排球](https://www.baidu.com/s?wd=%E6%82%BC%E5%BF%B5%E9%B2%9C%E8%8A%B1%E5%A0%86%E6%BB%A1%E4%B8%AD%E5%AD%A6%E9%97%A8%E5%8F%A3+%E6%9C%89%E4%BA%BA%E9%80%81%E5%8E%BB%E6%8E%92%E7%90%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [千年古寺深夜失火佛像独矗废墟](https://www.baidu.com/s?wd=%E5%8D%83%E5%B9%B4%E5%8F%A4%E5%AF%BA%E6%B7%B1%E5%A4%9C%E5%A4%B1%E7%81%AB%E4%BD%9B%E5%83%8F%E7%8B%AC%E7%9F%97%E5%BA%9F%E5%A2%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [千年古寺深夜失火佛像独矗废墟](https://www.baidu.com/s?wd=%E5%8D%83%E5%B9%B4%E5%8F%A4%E5%AF%BA%E6%B7%B1%E5%A4%9C%E5%A4%B1%E7%81%AB%E4%BD%9B%E5%83%8F%E7%8B%AC%E7%9F%97%E5%BA%9F%E5%A2%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子被抛砖砸死 嫌疑人无精神病](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%AB%E6%8A%9B%E7%A0%96%E7%A0%B8%E6%AD%BB+%E5%AB%8C%E7%96%91%E4%BA%BA%E6%97%A0%E7%B2%BE%E7%A5%9E%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
