@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 19:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 19:23:01</h4></div>
 
 > 微博  
 
@@ -17,7 +17,7 @@
 
 > 百度  
 
-1. [推进美丽中国建设](https://www.baidu.com/s?wd=%E6%8E%A8%E8%BF%9B%E7%BE%8E%E4%B8%BD%E4%B8%AD%E5%9B%BD%E5%BB%BA%E8%AE%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [中共中央政治局召开会议](https://www.baidu.com/s?wd=%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E5%8F%AC%E5%BC%80%E4%BC%9A%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [齐齐哈尔体育馆坍塌共11人遇难](https://www.baidu.com/s?wd=%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C%E5%85%B111%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [35岁镇党委书记，递补为省委委员](https://www.baidu.com/s?wd=35%E5%B2%81%E9%95%87%E5%85%9A%E5%A7%94%E4%B9%A6%E8%AE%B0%EF%BC%8C%E9%80%92%E8%A1%A5%E4%B8%BA%E7%9C%81%E5%A7%94%E5%A7%94%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [就业形势保持总体稳定](https://www.baidu.com/s?wd=%E5%B0%B1%E4%B8%9A%E5%BD%A2%E5%8A%BF%E4%BF%9D%E6%8C%81%E6%80%BB%E4%BD%93%E7%A8%B3%E5%AE%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,7 +29,7 @@
 
 > 哔哩哔哩  
 
-1. [推进美丽中国建设](https://www.baidu.com/s?wd=%E6%8E%A8%E8%BF%9B%E7%BE%8E%E4%B8%BD%E4%B8%AD%E5%9B%BD%E5%BB%BA%E8%AE%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [中共中央政治局召开会议](https://www.baidu.com/s?wd=%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E5%8F%AC%E5%BC%80%E4%BC%9A%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [齐齐哈尔体育馆坍塌共11人遇难](https://www.baidu.com/s?wd=%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C%E5%85%B111%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [35岁镇党委书记，递补为省委委员](https://www.baidu.com/s?wd=35%E5%B2%81%E9%95%87%E5%85%9A%E5%A7%94%E4%B9%A6%E8%AE%B0%EF%BC%8C%E9%80%92%E8%A1%A5%E4%B8%BA%E7%9C%81%E5%A7%94%E5%A7%94%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [就业形势保持总体稳定](https://www.baidu.com/s?wd=%E5%B0%B1%E4%B8%9A%E5%BD%A2%E5%8A%BF%E4%BF%9D%E6%8C%81%E6%80%BB%E4%BD%93%E7%A8%B3%E5%AE%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
