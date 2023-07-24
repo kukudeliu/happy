@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 09:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 09:48:02</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [坍塌体育馆施工单位责任人被控制](https://www.baidu.com/s?wd=%E5%9D%8D%E5%A1%8C%E4%BD%93%E8%82%B2%E9%A6%86%E6%96%BD%E5%B7%A5%E5%8D%95%E4%BD%8D%E8%B4%A3%E4%BB%BB%E4%BA%BA%E8%A2%AB%E6%8E%A7%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [杨玏封神白月光](https://www.baidu.com/s?wd=%E6%9D%A8%E7%8E%8F%E5%B0%81%E7%A5%9E%E7%99%BD%E6%9C%88%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [人类游泳历史最长寿世界纪录破了](https://www.baidu.com/s?wd=%E4%BA%BA%E7%B1%BB%E6%B8%B8%E6%B3%B3%E5%8E%86%E5%8F%B2%E6%9C%80%E9%95%BF%E5%AF%BF%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95%E7%A0%B4%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [体育馆坍塌事故家属：还没孩子消息](https://www.baidu.com/s?wd=%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C%E4%BA%8B%E6%95%85%E5%AE%B6%E5%B1%9E%EF%BC%9A%E8%BF%98%E6%B2%A1%E5%AD%A9%E5%AD%90%E6%B6%88%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [游客爬黄山起冲突持登山杖互殴](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E7%88%AC%E9%BB%84%E5%B1%B1%E8%B5%B7%E5%86%B2%E7%AA%81%E6%8C%81%E7%99%BB%E5%B1%B1%E6%9D%96%E4%BA%92%E6%AE%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [坍塌体育馆施工单位责任人被控制](https://www.baidu.com/s?wd=%E5%9D%8D%E5%A1%8C%E4%BD%93%E8%82%B2%E9%A6%86%E6%96%BD%E5%B7%A5%E5%8D%95%E4%BD%8D%E8%B4%A3%E4%BB%BB%E4%BA%BA%E8%A2%AB%E6%8E%A7%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [杨玏封神白月光](https://www.baidu.com/s?wd=%E6%9D%A8%E7%8E%8F%E5%B0%81%E7%A5%9E%E7%99%BD%E6%9C%88%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [人类游泳历史最长寿世界纪录破了](https://www.baidu.com/s?wd=%E4%BA%BA%E7%B1%BB%E6%B8%B8%E6%B3%B3%E5%8E%86%E5%8F%B2%E6%9C%80%E9%95%BF%E5%AF%BF%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95%E7%A0%B4%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [体育馆坍塌事故家属：还没孩子消息](https://www.baidu.com/s?wd=%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C%E4%BA%8B%E6%95%85%E5%AE%B6%E5%B1%9E%EF%BC%9A%E8%BF%98%E6%B2%A1%E5%AD%A9%E5%AD%90%E6%B6%88%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [游客爬黄山起冲突持登山杖互殴](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E7%88%AC%E9%BB%84%E5%B1%B1%E8%B5%B7%E5%86%B2%E7%AA%81%E6%8C%81%E7%99%BB%E5%B1%B1%E6%9D%96%E4%BA%92%E6%AE%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
