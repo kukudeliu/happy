@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-25 04:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-25 04:20:02</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [“最佳睡眠时间”出炉](https://www.baidu.com/s?wd=%E2%80%9C%E6%9C%80%E4%BD%B3%E7%9D%A1%E7%9C%A0%E6%97%B6%E9%97%B4%E2%80%9D%E5%87%BA%E7%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [齐齐哈尔市长:向遇难者表示沉痛哀悼](https://www.baidu.com/s?wd=%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E5%B8%82%E9%95%BF%3A%E5%90%91%E9%81%87%E9%9A%BE%E8%80%85%E8%A1%A8%E7%A4%BA%E6%B2%89%E7%97%9B%E5%93%80%E6%82%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [白岩松喊话唐尚珺该去上学了](https://www.baidu.com/s?wd=%E7%99%BD%E5%B2%A9%E6%9D%BE%E5%96%8A%E8%AF%9D%E5%94%90%E5%B0%9A%E7%8F%BA%E8%AF%A5%E5%8E%BB%E4%B8%8A%E5%AD%A6%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [院长赴川为敬礼娃娃送北大通知书](https://www.baidu.com/s?wd=%E9%99%A2%E9%95%BF%E8%B5%B4%E5%B7%9D%E4%B8%BA%E6%95%AC%E7%A4%BC%E5%A8%83%E5%A8%83%E9%80%81%E5%8C%97%E5%A4%A7%E9%80%9A%E7%9F%A5%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [iPhone15将采用叠层电池](https://www.baidu.com/s?wd=iPhone15%E5%B0%86%E9%87%87%E7%94%A8%E5%8F%A0%E5%B1%82%E7%94%B5%E6%B1%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [“最佳睡眠时间”出炉](https://www.baidu.com/s?wd=%E2%80%9C%E6%9C%80%E4%BD%B3%E7%9D%A1%E7%9C%A0%E6%97%B6%E9%97%B4%E2%80%9D%E5%87%BA%E7%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [齐齐哈尔市长:向遇难者表示沉痛哀悼](https://www.baidu.com/s?wd=%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E5%B8%82%E9%95%BF%3A%E5%90%91%E9%81%87%E9%9A%BE%E8%80%85%E8%A1%A8%E7%A4%BA%E6%B2%89%E7%97%9B%E5%93%80%E6%82%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [白岩松喊话唐尚珺该去上学了](https://www.baidu.com/s?wd=%E7%99%BD%E5%B2%A9%E6%9D%BE%E5%96%8A%E8%AF%9D%E5%94%90%E5%B0%9A%E7%8F%BA%E8%AF%A5%E5%8E%BB%E4%B8%8A%E5%AD%A6%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [院长赴川为敬礼娃娃送北大通知书](https://www.baidu.com/s?wd=%E9%99%A2%E9%95%BF%E8%B5%B4%E5%B7%9D%E4%B8%BA%E6%95%AC%E7%A4%BC%E5%A8%83%E5%A8%83%E9%80%81%E5%8C%97%E5%A4%A7%E9%80%9A%E7%9F%A5%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [iPhone15将采用叠层电池](https://www.baidu.com/s?wd=iPhone15%E5%B0%86%E9%87%87%E7%94%A8%E5%8F%A0%E5%B1%82%E7%94%B5%E6%B1%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
