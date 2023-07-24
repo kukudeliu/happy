@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 12:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 12:44:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [大爷大妈围聚水库“放生”矿泉水](https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E5%A4%A7%E5%A6%88%E5%9B%B4%E8%81%9A%E6%B0%B4%E5%BA%93%E2%80%9C%E6%94%BE%E7%94%9F%E2%80%9D%E7%9F%BF%E6%B3%89%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [莫斯科遭无人机袭击](https://www.baidu.com/s?wd=%E8%8E%AB%E6%96%AF%E7%A7%91%E9%81%AD%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%A2%AD%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [马斯克宣布：跟“小蓝鸟”说再见](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%AE%A3%E5%B8%83%EF%BC%9A%E8%B7%9F%E2%80%9C%E5%B0%8F%E8%93%9D%E9%B8%9F%E2%80%9D%E8%AF%B4%E5%86%8D%E8%A7%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [上海儒意22亿“救急”王健林](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%84%92%E6%84%8F22%E4%BA%BF%E2%80%9C%E6%95%91%E6%80%A5%E2%80%9D%E7%8E%8B%E5%81%A5%E6%9E%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [人类游泳历史最长寿世界纪录破了](https://www.baidu.com/s?wd=%E4%BA%BA%E7%B1%BB%E6%B8%B8%E6%B3%B3%E5%8E%86%E5%8F%B2%E6%9C%80%E9%95%BF%E5%AF%BF%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95%E7%A0%B4%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [大爷大妈围聚水库“放生”矿泉水](https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E5%A4%A7%E5%A6%88%E5%9B%B4%E8%81%9A%E6%B0%B4%E5%BA%93%E2%80%9C%E6%94%BE%E7%94%9F%E2%80%9D%E7%9F%BF%E6%B3%89%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [莫斯科遭无人机袭击](https://www.baidu.com/s?wd=%E8%8E%AB%E6%96%AF%E7%A7%91%E9%81%AD%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%A2%AD%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [马斯克宣布：跟“小蓝鸟”说再见](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%AE%A3%E5%B8%83%EF%BC%9A%E8%B7%9F%E2%80%9C%E5%B0%8F%E8%93%9D%E9%B8%9F%E2%80%9D%E8%AF%B4%E5%86%8D%E8%A7%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [上海儒意22亿“救急”王健林](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%84%92%E6%84%8F22%E4%BA%BF%E2%80%9C%E6%95%91%E6%80%A5%E2%80%9D%E7%8E%8B%E5%81%A5%E6%9E%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [人类游泳历史最长寿世界纪录破了](https://www.baidu.com/s?wd=%E4%BA%BA%E7%B1%BB%E6%B8%B8%E6%B3%B3%E5%8E%86%E5%8F%B2%E6%9C%80%E9%95%BF%E5%AF%BF%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95%E7%A0%B4%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
