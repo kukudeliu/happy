@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 19:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 19:38:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [坍塌事故施工单位承揽多项政府工程](https://www.baidu.com/s?wd=%E5%9D%8D%E5%A1%8C%E4%BA%8B%E6%95%85%E6%96%BD%E5%B7%A5%E5%8D%95%E4%BD%8D%E6%89%BF%E6%8F%BD%E5%A4%9A%E9%A1%B9%E6%94%BF%E5%BA%9C%E5%B7%A5%E7%A8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [刀郎曾回应过网传那英言论](https://www.baidu.com/s?wd=%E5%88%80%E9%83%8E%E6%9B%BE%E5%9B%9E%E5%BA%94%E8%BF%87%E7%BD%91%E4%BC%A0%E9%82%A3%E8%8B%B1%E8%A8%80%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#暑期影视综追更计划#](https://www.baidu.com/s?wd=%23%E6%9A%91%E6%9C%9F%E5%BD%B1%E8%A7%86%E7%BB%BC%E8%BF%BD%E6%9B%B4%E8%AE%A1%E5%88%92%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子没忍住边游边大便赔8000元](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%B2%A1%E5%BF%8D%E4%BD%8F%E8%BE%B9%E6%B8%B8%E8%BE%B9%E5%A4%A7%E4%BE%BF%E8%B5%948000%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [记者卧底救了6个被骗缅甸人员](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E5%8D%A7%E5%BA%95%E6%95%91%E4%BA%866%E4%B8%AA%E8%A2%AB%E9%AA%97%E7%BC%85%E7%94%B8%E4%BA%BA%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [坍塌事故施工单位承揽多项政府工程](https://www.baidu.com/s?wd=%E5%9D%8D%E5%A1%8C%E4%BA%8B%E6%95%85%E6%96%BD%E5%B7%A5%E5%8D%95%E4%BD%8D%E6%89%BF%E6%8F%BD%E5%A4%9A%E9%A1%B9%E6%94%BF%E5%BA%9C%E5%B7%A5%E7%A8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [刀郎曾回应过网传那英言论](https://www.baidu.com/s?wd=%E5%88%80%E9%83%8E%E6%9B%BE%E5%9B%9E%E5%BA%94%E8%BF%87%E7%BD%91%E4%BC%A0%E9%82%A3%E8%8B%B1%E8%A8%80%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#暑期影视综追更计划#](https://www.baidu.com/s?wd=%23%E6%9A%91%E6%9C%9F%E5%BD%B1%E8%A7%86%E7%BB%BC%E8%BF%BD%E6%9B%B4%E8%AE%A1%E5%88%92%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子没忍住边游边大便赔8000元](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%B2%A1%E5%BF%8D%E4%BD%8F%E8%BE%B9%E6%B8%B8%E8%BE%B9%E5%A4%A7%E4%BE%BF%E8%B5%948000%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [记者卧底救了6个被骗缅甸人员](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E5%8D%A7%E5%BA%95%E6%95%91%E4%BA%866%E4%B8%AA%E8%A2%AB%E9%AA%97%E7%BC%85%E7%94%B8%E4%BA%BA%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
