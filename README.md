@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 19:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 19:18:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [坍塌事故施工单位承揽多项政府工程](https://www.baidu.com/s?wd=%E5%9D%8D%E5%A1%8C%E4%BA%8B%E6%95%85%E6%96%BD%E5%B7%A5%E5%8D%95%E4%BD%8D%E6%89%BF%E6%8F%BD%E5%A4%9A%E9%A1%B9%E6%94%BF%E5%BA%9C%E5%B7%A5%E7%A8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [王宝强女儿《八角笼中》观后感](https://www.baidu.com/s?wd=%E7%8E%8B%E5%AE%9D%E5%BC%BA%E5%A5%B3%E5%84%BF%E3%80%8A%E5%85%AB%E8%A7%92%E7%AC%BC%E4%B8%AD%E3%80%8B%E8%A7%82%E5%90%8E%E6%84%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#暑期影视综追更计划#](https://www.baidu.com/s?wd=%23%E6%9A%91%E6%9C%9F%E5%BD%B1%E8%A7%86%E7%BB%BC%E8%BF%BD%E6%9B%B4%E8%AE%A1%E5%88%92%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [千年古寺深夜失火佛像独矗废墟](https://www.baidu.com/s?wd=%E5%8D%83%E5%B9%B4%E5%8F%A4%E5%AF%BA%E6%B7%B1%E5%A4%9C%E5%A4%B1%E7%81%AB%E4%BD%9B%E5%83%8F%E7%8B%AC%E7%9F%97%E5%BA%9F%E5%A2%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [刀郎曾回应过网传那英言论](https://www.baidu.com/s?wd=%E5%88%80%E9%83%8E%E6%9B%BE%E5%9B%9E%E5%BA%94%E8%BF%87%E7%BD%91%E4%BC%A0%E9%82%A3%E8%8B%B1%E8%A8%80%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [坍塌事故施工单位承揽多项政府工程](https://www.baidu.com/s?wd=%E5%9D%8D%E5%A1%8C%E4%BA%8B%E6%95%85%E6%96%BD%E5%B7%A5%E5%8D%95%E4%BD%8D%E6%89%BF%E6%8F%BD%E5%A4%9A%E9%A1%B9%E6%94%BF%E5%BA%9C%E5%B7%A5%E7%A8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [王宝强女儿《八角笼中》观后感](https://www.baidu.com/s?wd=%E7%8E%8B%E5%AE%9D%E5%BC%BA%E5%A5%B3%E5%84%BF%E3%80%8A%E5%85%AB%E8%A7%92%E7%AC%BC%E4%B8%AD%E3%80%8B%E8%A7%82%E5%90%8E%E6%84%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#暑期影视综追更计划#](https://www.baidu.com/s?wd=%23%E6%9A%91%E6%9C%9F%E5%BD%B1%E8%A7%86%E7%BB%BC%E8%BF%BD%E6%9B%B4%E8%AE%A1%E5%88%92%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [千年古寺深夜失火佛像独矗废墟](https://www.baidu.com/s?wd=%E5%8D%83%E5%B9%B4%E5%8F%A4%E5%AF%BA%E6%B7%B1%E5%A4%9C%E5%A4%B1%E7%81%AB%E4%BD%9B%E5%83%8F%E7%8B%AC%E7%9F%97%E5%BA%9F%E5%A2%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [刀郎曾回应过网传那英言论](https://www.baidu.com/s?wd=%E5%88%80%E9%83%8E%E6%9B%BE%E5%9B%9E%E5%BA%94%E8%BF%87%E7%BD%91%E4%BC%A0%E9%82%A3%E8%8B%B1%E8%A8%80%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
