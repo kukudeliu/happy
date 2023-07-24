@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 19:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 19:41:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [这锅鱼汤他能记一辈子](https://s.weibo.com/weibo?q=%23%E8%BF%99%E9%94%85%E9%B1%BC%E6%B1%A4%E4%BB%96%E8%83%BD%E8%AE%B0%E4%B8%80%E8%BE%88%E5%AD%90%23&t=31&band_rank=5&Refer=top)<br />
 6. [张雨霏夺金](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%A8%E9%9C%8F%E5%A4%BA%E9%87%91%23&t=31&band_rank=6&Refer=top)<br />
 7. [双胞胎出生时间和高考成绩都相差一分](https://s.weibo.com/weibo?q=%23%E5%8F%8C%E8%83%9E%E8%83%8E%E5%87%BA%E7%94%9F%E6%97%B6%E9%97%B4%E5%92%8C%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E9%83%BD%E7%9B%B8%E5%B7%AE%E4%B8%80%E5%88%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [陈建州范玮琪撤销对大牙起诉](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BB%BA%E5%B7%9E%E8%8C%83%E7%8E%AE%E7%90%AA%E6%92%A4%E9%94%80%E5%AF%B9%E5%A4%A7%E7%89%99%E8%B5%B7%E8%AF%89%23&t=31&band_rank=8&Refer=top)<br />
-9. [长相思](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D&t=31&band_rank=9&Refer=top)<br />
+8. [长相思](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D&t=31&band_rank=8&Refer=top)<br />
+9. [陈建州范玮琪撤销对大牙起诉](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BB%BA%E5%B7%9E%E8%8C%83%E7%8E%AE%E7%90%AA%E6%92%A4%E9%94%80%E5%AF%B9%E5%A4%A7%E7%89%99%E8%B5%B7%E8%AF%89%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
