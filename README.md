@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 16:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 16:15:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [跟“理想”同名车膜店被索赔120万](https://www.baidu.com/s?wd=%E8%B7%9F%E2%80%9C%E7%90%86%E6%83%B3%E2%80%9D%E5%90%8C%E5%90%8D%E8%BD%A6%E8%86%9C%E5%BA%97%E8%A2%AB%E7%B4%A2%E8%B5%94120%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [海霞拟表彰为全国慈善楷模](https://www.baidu.com/s?wd=%E6%B5%B7%E9%9C%9E%E6%8B%9F%E8%A1%A8%E5%BD%B0%E4%B8%BA%E5%85%A8%E5%9B%BD%E6%85%88%E5%96%84%E6%A5%B7%E6%A8%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [上海儒意22亿“救急”王健林](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%84%92%E6%84%8F22%E4%BA%BF%E2%80%9C%E6%95%91%E6%80%A5%E2%80%9D%E7%8E%8B%E5%81%A5%E6%9E%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [万达集团被强制执行3亿](https://www.baidu.com/s?wd=%E4%B8%87%E8%BE%BE%E9%9B%86%E5%9B%A2%E8%A2%AB%E5%BC%BA%E5%88%B6%E6%89%A7%E8%A1%8C3%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [森村诚一去世 曾揭露731部队罪行](https://www.baidu.com/s?wd=%E6%A3%AE%E6%9D%91%E8%AF%9A%E4%B8%80%E5%8E%BB%E4%B8%96+%E6%9B%BE%E6%8F%AD%E9%9C%B2731%E9%83%A8%E9%98%9F%E7%BD%AA%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [跟“理想”同名车膜店被索赔120万](https://www.baidu.com/s?wd=%E8%B7%9F%E2%80%9C%E7%90%86%E6%83%B3%E2%80%9D%E5%90%8C%E5%90%8D%E8%BD%A6%E8%86%9C%E5%BA%97%E8%A2%AB%E7%B4%A2%E8%B5%94120%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [海霞拟表彰为全国慈善楷模](https://www.baidu.com/s?wd=%E6%B5%B7%E9%9C%9E%E6%8B%9F%E8%A1%A8%E5%BD%B0%E4%B8%BA%E5%85%A8%E5%9B%BD%E6%85%88%E5%96%84%E6%A5%B7%E6%A8%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [上海儒意22亿“救急”王健林](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%84%92%E6%84%8F22%E4%BA%BF%E2%80%9C%E6%95%91%E6%80%A5%E2%80%9D%E7%8E%8B%E5%81%A5%E6%9E%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [万达集团被强制执行3亿](https://www.baidu.com/s?wd=%E4%B8%87%E8%BE%BE%E9%9B%86%E5%9B%A2%E8%A2%AB%E5%BC%BA%E5%88%B6%E6%89%A7%E8%A1%8C3%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [森村诚一去世 曾揭露731部队罪行](https://www.baidu.com/s?wd=%E6%A3%AE%E6%9D%91%E8%AF%9A%E4%B8%80%E5%8E%BB%E4%B8%96+%E6%9B%BE%E6%8F%AD%E9%9C%B2731%E9%83%A8%E9%98%9F%E7%BD%AA%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
