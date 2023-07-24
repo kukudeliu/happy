@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 15:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 15:53:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [强实名](https://s.weibo.com/weibo?q=%E5%BC%BA%E5%AE%9E%E5%90%8D&t=31&band_rank=6&Refer=top)<br />
 7. [陈哲远正式确诊为邪剑仙](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%93%B2%E8%BF%9C%E6%AD%A3%E5%BC%8F%E7%A1%AE%E8%AF%8A%E4%B8%BA%E9%82%AA%E5%89%91%E4%BB%99%23&t=31&band_rank=7&Refer=top)<br />
 8. [iPhone15将采用叠层电池](https://s.weibo.com/weibo?q=%23iPhone15%E5%B0%86%E9%87%87%E7%94%A8%E5%8F%A0%E5%B1%82%E7%94%B5%E6%B1%A0%23&t=31&band_rank=8&Refer=top)<br />
-9. [罗云熙宋轶新剧大婚路透](https://s.weibo.com/weibo?q=%23%E7%BD%97%E4%BA%91%E7%86%99%E5%AE%8B%E8%BD%B6%E6%96%B0%E5%89%A7%E5%A4%A7%E5%A9%9A%E8%B7%AF%E9%80%8F%23&t=31&band_rank=9&Refer=top)<br />
+9. [前任结婚面馆老板闭店前去劫婚](https://s.weibo.com/weibo?q=%23%E5%89%8D%E4%BB%BB%E7%BB%93%E5%A9%9A%E9%9D%A2%E9%A6%86%E8%80%81%E6%9D%BF%E9%97%AD%E5%BA%97%E5%89%8D%E5%8E%BB%E5%8A%AB%E5%A9%9A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
