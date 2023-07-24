@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-25 02:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-25 02:52:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [齐齐哈尔坍塌事故原因初步查明](https://s.weibo.com/weibo?q=%23%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E5%9D%8D%E5%A1%8C%E4%BA%8B%E6%95%85%E5%8E%9F%E5%9B%A0%E5%88%9D%E6%AD%A5%E6%9F%A5%E6%98%8E%23&t=31&band_rank=6&Refer=top)<br />
 7. [齐齐哈尔体育馆坍塌事故遇难者身份公布](https://s.weibo.com/weibo?q=%23%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C%E4%BA%8B%E6%95%85%E9%81%87%E9%9A%BE%E8%80%85%E8%BA%AB%E4%BB%BD%E5%85%AC%E5%B8%83%23&t=31&band_rank=7&Refer=top)<br />
 8. [冯提莫 女孩子们一定不要精神内耗](https://s.weibo.com/weibo?q=%E5%86%AF%E6%8F%90%E8%8E%AB%20%E5%A5%B3%E5%AD%A9%E5%AD%90%E4%BB%AC%E4%B8%80%E5%AE%9A%E4%B8%8D%E8%A6%81%E7%B2%BE%E7%A5%9E%E5%86%85%E8%80%97&t=31&band_rank=8&Refer=top)<br />
-9. [父亲回应3岁女儿坐高铁10小时不哭闹](https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%9B%9E%E5%BA%943%E5%B2%81%E5%A5%B3%E5%84%BF%E5%9D%90%E9%AB%98%E9%93%8110%E5%B0%8F%E6%97%B6%E4%B8%8D%E5%93%AD%E9%97%B9%23&t=31&band_rank=9&Refer=top)<br />
+9. [齐齐哈尔市市长沉痛哀悼](https://s.weibo.com/weibo?q=%23%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E5%B8%82%E5%B8%82%E9%95%BF%E6%B2%89%E7%97%9B%E5%93%80%E6%82%BC%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
