@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 11:01:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 11:02:02</h4></div>
 
 > 微博  
 
 1. [齐齐哈尔坍塌体育馆已致10人死亡](https://s.weibo.com/weibo?q=%23%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E5%9D%8D%E5%A1%8C%E4%BD%93%E8%82%B2%E9%A6%86%E5%B7%B2%E8%87%B410%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=1&Refer=top)<br />
-2. [TFBOYS西安演唱会今天开票](https://s.weibo.com/weibo?q=%23TFBOYS%E8%A5%BF%E5%AE%89%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BB%8A%E5%A4%A9%E5%BC%80%E7%A5%A8%23&t=31&band_rank=2&Refer=top)<br />
+2. [优酷抢票](https://s.weibo.com/weibo?q=%E4%BC%98%E9%85%B7%E6%8A%A2%E7%A5%A8&t=31&band_rank=2&Refer=top)<br />
 3. [成都大运会青春含量拉满](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%A4%A7%E8%BF%90%E4%BC%9A%E9%9D%92%E6%98%A5%E5%90%AB%E9%87%8F%E6%8B%89%E6%BB%A1%23&t=31&band_rank=3&Refer=top)<br />
 4. [妻子付不起120万赎金装客户帮丈夫电诈](https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E4%BB%98%E4%B8%8D%E8%B5%B7120%E4%B8%87%E8%B5%8E%E9%87%91%E8%A3%85%E5%AE%A2%E6%88%B7%E5%B8%AE%E4%B8%88%E5%A4%AB%E7%94%B5%E8%AF%88%23&t=31&band_rank=4&Refer=top)<br />
-5. [他大概没想过以后会过的那么苦](https://s.weibo.com/weibo?q=%E4%BB%96%E5%A4%A7%E6%A6%82%E6%B2%A1%E6%83%B3%E8%BF%87%E4%BB%A5%E5%90%8E%E4%BC%9A%E8%BF%87%E7%9A%84%E9%82%A3%E4%B9%88%E8%8B%A6&t=31&band_rank=5&Refer=top)<br />
-6. [优酷抢票](https://s.weibo.com/weibo?q=%E4%BC%98%E9%85%B7%E6%8A%A2%E7%A5%A8&t=31&band_rank=6&Refer=top)<br />
+5. [TFBOYS西安演唱会今天开票](https://s.weibo.com/weibo?q=%23TFBOYS%E8%A5%BF%E5%AE%89%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BB%8A%E5%A4%A9%E5%BC%80%E7%A5%A8%23&t=31&band_rank=5&Refer=top)<br />
+6. [他大概没想过以后会过的那么苦](https://s.weibo.com/weibo?q=%E4%BB%96%E5%A4%A7%E6%A6%82%E6%B2%A1%E6%83%B3%E8%BF%87%E4%BB%A5%E5%90%8E%E4%BC%9A%E8%BF%87%E7%9A%84%E9%82%A3%E4%B9%88%E8%8B%A6&t=31&band_rank=6&Refer=top)<br />
 7. [家长质疑孩子被送医院5小时无人出面沟通](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%95%BF%E8%B4%A8%E7%96%91%E5%AD%A9%E5%AD%90%E8%A2%AB%E9%80%81%E5%8C%BB%E9%99%A25%E5%B0%8F%E6%97%B6%E6%97%A0%E4%BA%BA%E5%87%BA%E9%9D%A2%E6%B2%9F%E9%80%9A%23&t=31&band_rank=7&Refer=top)<br />
 8. [鹿晗魏大勋采访名场面](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E9%AD%8F%E5%A4%A7%E5%8B%8B%E9%87%87%E8%AE%BF%E5%90%8D%E5%9C%BA%E9%9D%A2%23&t=31&band_rank=8&Refer=top)<br />
-9. [孟宴臣的皇冠vs宋焰的钻戒](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AE%B4%E8%87%A3%E7%9A%84%E7%9A%87%E5%86%A0vs%E5%AE%8B%E7%84%B0%E7%9A%84%E9%92%BB%E6%88%92%23&t=31&band_rank=9&Refer=top)<br />
+9. [五月天泉州](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%E6%B3%89%E5%B7%9E&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
