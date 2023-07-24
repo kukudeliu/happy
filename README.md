@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 19:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 19:26:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [记者卧底救了6个被骗缅甸人员](https://s.weibo.com/weibo?q=%E8%AE%B0%E8%80%85%E5%8D%A7%E5%BA%95%E6%95%91%E4%BA%866%E4%B8%AA%E8%A2%AB%E9%AA%97%E7%BC%85%E7%94%B8%E4%BA%BA%E5%91%98&t=31&band_rank=6&Refer=top)<br />
 7. [双胞胎出生时间和高考成绩都相差一分](https://s.weibo.com/weibo?q=%23%E5%8F%8C%E8%83%9E%E8%83%8E%E5%87%BA%E7%94%9F%E6%97%B6%E9%97%B4%E5%92%8C%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E9%83%BD%E7%9B%B8%E5%B7%AE%E4%B8%80%E5%88%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [长相思](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D&t=31&band_rank=8&Refer=top)<br />
-9. [颖儿家暴戏至少化妆2小时](https://s.weibo.com/weibo?q=%23%E9%A2%96%E5%84%BF%E5%AE%B6%E6%9A%B4%E6%88%8F%E8%87%B3%E5%B0%91%E5%8C%96%E5%A6%862%E5%B0%8F%E6%97%B6%23&t=31&band_rank=9&Refer=top)<br />
+9. [迪丽热巴龚俊的手](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%BE%9A%E4%BF%8A%E7%9A%84%E6%89%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -25,7 +25,7 @@
 6. [坍塌事故施工单位承揽多项政府工程](https://www.baidu.com/s?wd=%E5%9D%8D%E5%A1%8C%E4%BA%8B%E6%95%85%E6%96%BD%E5%B7%A5%E5%8D%95%E4%BD%8D%E6%89%BF%E6%8F%BD%E5%A4%9A%E9%A1%B9%E6%94%BF%E5%BA%9C%E5%B7%A5%E7%A8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [刀郎曾回应过网传那英言论](https://www.baidu.com/s?wd=%E5%88%80%E9%83%8E%E6%9B%BE%E5%9B%9E%E5%BA%94%E8%BF%87%E7%BD%91%E4%BC%A0%E9%82%A3%E8%8B%B1%E8%A8%80%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#暑期影视综追更计划#](https://www.baidu.com/s?wd=%23%E6%9A%91%E6%9C%9F%E5%BD%B1%E8%A7%86%E7%BB%BC%E8%BF%BD%E6%9B%B4%E8%AE%A1%E5%88%92%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [千年古寺深夜失火佛像独矗废墟](https://www.baidu.com/s?wd=%E5%8D%83%E5%B9%B4%E5%8F%A4%E5%AF%BA%E6%B7%B1%E5%A4%9C%E5%A4%B1%E7%81%AB%E4%BD%9B%E5%83%8F%E7%8B%AC%E7%9F%97%E5%BA%9F%E5%A2%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [记者卧底救了6个被骗缅甸人员](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E5%8D%A7%E5%BA%95%E6%95%91%E4%BA%866%E4%B8%AA%E8%A2%AB%E9%AA%97%E7%BC%85%E7%94%B8%E4%BA%BA%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [坍塌事故施工单位承揽多项政府工程](https://www.baidu.com/s?wd=%E5%9D%8D%E5%A1%8C%E4%BA%8B%E6%95%85%E6%96%BD%E5%B7%A5%E5%8D%95%E4%BD%8D%E6%89%BF%E6%8F%BD%E5%A4%9A%E9%A1%B9%E6%94%BF%E5%BA%9C%E5%B7%A5%E7%A8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [刀郎曾回应过网传那英言论](https://www.baidu.com/s?wd=%E5%88%80%E9%83%8E%E6%9B%BE%E5%9B%9E%E5%BA%94%E8%BF%87%E7%BD%91%E4%BC%A0%E9%82%A3%E8%8B%B1%E8%A8%80%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#暑期影视综追更计划#](https://www.baidu.com/s?wd=%23%E6%9A%91%E6%9C%9F%E5%BD%B1%E8%A7%86%E7%BB%BC%E8%BF%BD%E6%9B%B4%E8%AE%A1%E5%88%92%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [千年古寺深夜失火佛像独矗废墟](https://www.baidu.com/s?wd=%E5%8D%83%E5%B9%B4%E5%8F%A4%E5%AF%BA%E6%B7%B1%E5%A4%9C%E5%A4%B1%E7%81%AB%E4%BD%9B%E5%83%8F%E7%8B%AC%E7%9F%97%E5%BA%9F%E5%A2%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [记者卧底救了6个被骗缅甸人员](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E5%8D%A7%E5%BA%95%E6%95%91%E4%BA%866%E4%B8%AA%E8%A2%AB%E9%AA%97%E7%BC%85%E7%94%B8%E4%BA%BA%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
