@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 22:21:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 22:22:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [齐齐哈尔34中体育馆坍塌11人死亡](https://s.weibo.com/weibo?q=%23%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%9434%E4%B8%AD%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C11%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [EDG输了 Ale没输](https://s.weibo.com/weibo?q=EDG%E8%BE%93%E4%BA%86%20Ale%E6%B2%A1%E8%BE%93&t=31&band_rank=7&Refer=top)<br />
 8. [长相思热度](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D%E7%83%AD%E5%BA%A6&t=31&band_rank=8&Refer=top)<br />
-9. [TES对战EDG](https://s.weibo.com/weibo?q=%23TES%E5%AF%B9%E6%88%98EDG%23&t=31&band_rank=9&Refer=top)<br />
+9. [杨澄王莹](https://s.weibo.com/weibo?q=%E6%9D%A8%E6%BE%84%E7%8E%8B%E8%8E%B9&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
