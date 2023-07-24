@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 20:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 20:57:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [杨洋剧中睡姿易诱发颈椎病](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B4%8B%E5%89%A7%E4%B8%AD%E7%9D%A1%E5%A7%BF%E6%98%93%E8%AF%B1%E5%8F%91%E9%A2%88%E6%A4%8E%E7%97%85%23&t=31&band_rank=5&Refer=top)<br />
 6. [齐齐哈尔34中体育馆坍塌11人死亡](https://s.weibo.com/weibo?q=%23%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%9434%E4%B8%AD%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C11%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [费翔没想到自己60岁开始要脱衣服](https://s.weibo.com/weibo?q=%23%E8%B4%B9%E7%BF%94%E6%B2%A1%E6%83%B3%E5%88%B0%E8%87%AA%E5%B7%B160%E5%B2%81%E5%BC%80%E5%A7%8B%E8%A6%81%E8%84%B1%E8%A1%A3%E6%9C%8D%23&t=31&band_rank=7&Refer=top)<br />
-8. [TES对战EDG](https://s.weibo.com/weibo?q=%23TES%E5%AF%B9%E6%88%98EDG%23&t=31&band_rank=8&Refer=top)<br />
-9. [长相思小演员演技](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D%E5%B0%8F%E6%BC%94%E5%91%98%E6%BC%94%E6%8A%80%23&t=31&band_rank=9&Refer=top)<br />
+8. [长相思小演员演技](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D%E5%B0%8F%E6%BC%94%E5%91%98%E6%BC%94%E6%8A%80%23&t=31&band_rank=8&Refer=top)<br />
+9. [张雨霏夺金](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%A8%E9%9C%8F%E5%A4%BA%E9%87%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
