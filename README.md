@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 19:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 19:03:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [成都大运会青春含量拉满](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%A4%A7%E8%BF%90%E4%BC%9A%E9%9D%92%E6%98%A5%E5%90%AB%E9%87%8F%E6%8B%89%E6%BB%A1%23&t=31&band_rank=3&Refer=top)<br />
 4. [记者卧底救了6个被骗缅甸人员](https://s.weibo.com/weibo?q=%E8%AE%B0%E8%80%85%E5%8D%A7%E5%BA%95%E6%95%91%E4%BA%866%E4%B8%AA%E8%A2%AB%E9%AA%97%E7%BC%85%E7%94%B8%E4%BA%BA%E5%91%98&t=31&band_rank=4&Refer=top)<br />
 5. [这锅鱼汤他能记一辈子](https://s.weibo.com/weibo?q=%23%E8%BF%99%E9%94%85%E9%B1%BC%E6%B1%A4%E4%BB%96%E8%83%BD%E8%AE%B0%E4%B8%80%E8%BE%88%E5%AD%90%23&t=31&band_rank=5&Refer=top)<br />
-6. [长相思](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D&t=31&band_rank=6&Refer=top)<br />
+6. [陈建州范玮琪撤销对大牙起诉](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BB%BA%E5%B7%9E%E8%8C%83%E7%8E%AE%E7%90%AA%E6%92%A4%E9%94%80%E5%AF%B9%E5%A4%A7%E7%89%99%E8%B5%B7%E8%AF%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [农村男孩考取博士拿通知书和土墙合影](https://s.weibo.com/weibo?q=%23%E5%86%9C%E6%9D%91%E7%94%B7%E5%AD%A9%E8%80%83%E5%8F%96%E5%8D%9A%E5%A3%AB%E6%8B%BF%E9%80%9A%E7%9F%A5%E4%B9%A6%E5%92%8C%E5%9C%9F%E5%A2%99%E5%90%88%E5%BD%B1%23&t=31&band_rank=7&Refer=top)<br />
-8. [陈建州范玮琪撤销对大牙起诉](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BB%BA%E5%B7%9E%E8%8C%83%E7%8E%AE%E7%90%AA%E6%92%A4%E9%94%80%E5%AF%B9%E5%A4%A7%E7%89%99%E8%B5%B7%E8%AF%89%23&t=31&band_rank=8&Refer=top)<br />
+8. [长相思](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D&t=31&band_rank=8&Refer=top)<br />
 9. [颖儿家暴戏至少化妆2小时](https://s.weibo.com/weibo?q=%23%E9%A2%96%E5%84%BF%E5%AE%B6%E6%9A%B4%E6%88%8F%E8%87%B3%E5%B0%91%E5%8C%96%E5%A6%862%E5%B0%8F%E6%97%B6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
