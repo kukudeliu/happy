@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 18:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 18:34:01</h4></div>
 
 > 微博  
 
@@ -23,9 +23,9 @@
 4. [就业形势保持总体稳定](https://www.baidu.com/s?wd=%E5%B0%B1%E4%B8%9A%E5%BD%A2%E5%8A%BF%E4%BF%9D%E6%8C%81%E6%80%BB%E4%BD%93%E7%A8%B3%E5%AE%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [TFBOYS演唱会门票开售秒空](https://www.baidu.com/s?wd=TFBOYS%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E5%BC%80%E5%94%AE%E7%A7%92%E7%A9%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [坍塌事故施工单位承揽多项政府工程](https://www.baidu.com/s?wd=%E5%9D%8D%E5%A1%8C%E4%BA%8B%E6%95%85%E6%96%BD%E5%B7%A5%E5%8D%95%E4%BD%8D%E6%89%BF%E6%8F%BD%E5%A4%9A%E9%A1%B9%E6%94%BF%E5%BA%9C%E5%B7%A5%E7%A8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子没忍住边游边大便赔8000元](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%B2%A1%E5%BF%8D%E4%BD%8F%E8%BE%B9%E6%B8%B8%E8%BE%B9%E5%A4%A7%E4%BE%BF%E8%B5%948000%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [白岩松喊话唐尚珺该去上学了](https://www.baidu.com/s?wd=%E7%99%BD%E5%B2%A9%E6%9D%BE%E5%96%8A%E8%AF%9D%E5%94%90%E5%B0%9A%E7%8F%BA%E8%AF%A5%E5%8E%BB%E4%B8%8A%E5%AD%A6%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#暑期影视综追更计划#](https://www.baidu.com/s?wd=%23%E6%9A%91%E6%9C%9F%E5%BD%B1%E8%A7%86%E7%BB%BC%E8%BF%BD%E6%9B%B4%E8%AE%A1%E5%88%92%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [白岩松喊话唐尚珺该去上学了](https://www.baidu.com/s?wd=%E7%99%BD%E5%B2%A9%E6%9D%BE%E5%96%8A%E8%AF%9D%E5%94%90%E5%B0%9A%E7%8F%BA%E8%AF%A5%E5%8E%BB%E4%B8%8A%E5%AD%A6%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [35人退钱群里34人是托](https://www.baidu.com/s?wd=35%E4%BA%BA%E9%80%80%E9%92%B1%E7%BE%A4%E9%87%8C34%E4%BA%BA%E6%98%AF%E6%89%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -35,6 +35,6 @@
 4. [就业形势保持总体稳定](https://www.baidu.com/s?wd=%E5%B0%B1%E4%B8%9A%E5%BD%A2%E5%8A%BF%E4%BF%9D%E6%8C%81%E6%80%BB%E4%BD%93%E7%A8%B3%E5%AE%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [TFBOYS演唱会门票开售秒空](https://www.baidu.com/s?wd=TFBOYS%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E5%BC%80%E5%94%AE%E7%A7%92%E7%A9%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [坍塌事故施工单位承揽多项政府工程](https://www.baidu.com/s?wd=%E5%9D%8D%E5%A1%8C%E4%BA%8B%E6%95%85%E6%96%BD%E5%B7%A5%E5%8D%95%E4%BD%8D%E6%89%BF%E6%8F%BD%E5%A4%9A%E9%A1%B9%E6%94%BF%E5%BA%9C%E5%B7%A5%E7%A8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子没忍住边游边大便赔8000元](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%B2%A1%E5%BF%8D%E4%BD%8F%E8%BE%B9%E6%B8%B8%E8%BE%B9%E5%A4%A7%E4%BE%BF%E8%B5%948000%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [白岩松喊话唐尚珺该去上学了](https://www.baidu.com/s?wd=%E7%99%BD%E5%B2%A9%E6%9D%BE%E5%96%8A%E8%AF%9D%E5%94%90%E5%B0%9A%E7%8F%BA%E8%AF%A5%E5%8E%BB%E4%B8%8A%E5%AD%A6%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#暑期影视综追更计划#](https://www.baidu.com/s?wd=%23%E6%9A%91%E6%9C%9F%E5%BD%B1%E8%A7%86%E7%BB%BC%E8%BF%BD%E6%9B%B4%E8%AE%A1%E5%88%92%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [白岩松喊话唐尚珺该去上学了](https://www.baidu.com/s?wd=%E7%99%BD%E5%B2%A9%E6%9D%BE%E5%96%8A%E8%AF%9D%E5%94%90%E5%B0%9A%E7%8F%BA%E8%AF%A5%E5%8E%BB%E4%B8%8A%E5%AD%A6%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [35人退钱群里34人是托](https://www.baidu.com/s?wd=35%E4%BA%BA%E9%80%80%E9%92%B1%E7%BE%A4%E9%87%8C34%E4%BA%BA%E6%98%AF%E6%89%98&sa=fyb_news&rsv_dl=fyb_news)<br />
