@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 19:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 19:48:01</h4></div>
 
 > 微博  
 
-1. [齐齐哈尔34中体育馆坍塌11人死亡](https://s.weibo.com/weibo?q=%23%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%9434%E4%B8%AD%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C11%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=1&Refer=top)<br />
+1. [记者卧底救了6个被骗缅甸人员](https://s.weibo.com/weibo?q=%E8%AE%B0%E8%80%85%E5%8D%A7%E5%BA%95%E6%95%91%E4%BA%866%E4%B8%AA%E8%A2%AB%E9%AA%97%E7%BC%85%E7%94%B8%E4%BA%BA%E5%91%98&t=31&band_rank=1&Refer=top)<br />
 2. [保姆一路考证升学工资从5000涨到2万](https://s.weibo.com/weibo?q=%23%E4%BF%9D%E5%A7%86%E4%B8%80%E8%B7%AF%E8%80%83%E8%AF%81%E5%8D%87%E5%AD%A6%E5%B7%A5%E8%B5%84%E4%BB%8E5000%E6%B6%A8%E5%88%B02%E4%B8%87%23&t=31&band_rank=2&Refer=top)<br />
 3. [一起看成都大运会](https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%B5%B7%E7%9C%8B%E6%88%90%E9%83%BD%E5%A4%A7%E8%BF%90%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
-4. [记者卧底救了6个被骗缅甸人员](https://s.weibo.com/weibo?q=%E8%AE%B0%E8%80%85%E5%8D%A7%E5%BA%95%E6%95%91%E4%BA%866%E4%B8%AA%E8%A2%AB%E9%AA%97%E7%BC%85%E7%94%B8%E4%BA%BA%E5%91%98&t=31&band_rank=4&Refer=top)<br />
+4. [齐齐哈尔34中体育馆坍塌11人死亡](https://s.weibo.com/weibo?q=%23%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%9434%E4%B8%AD%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C11%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=4&Refer=top)<br />
 5. [这锅鱼汤他能记一辈子](https://s.weibo.com/weibo?q=%23%E8%BF%99%E9%94%85%E9%B1%BC%E6%B1%A4%E4%BB%96%E8%83%BD%E8%AE%B0%E4%B8%80%E8%BE%88%E5%AD%90%23&t=31&band_rank=5&Refer=top)<br />
 6. [张雨霏夺金](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%A8%E9%9C%8F%E5%A4%BA%E9%87%91%23&t=31&band_rank=6&Refer=top)<br />
 7. [双胞胎出生时间和高考成绩都相差一分](https://s.weibo.com/weibo?q=%23%E5%8F%8C%E8%83%9E%E8%83%8E%E5%87%BA%E7%94%9F%E6%97%B6%E9%97%B4%E5%92%8C%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E9%83%BD%E7%9B%B8%E5%B7%AE%E4%B8%80%E5%88%86%23&t=31&band_rank=7&Refer=top)<br />
