@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 16:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 16:59:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [强实名](https://s.weibo.com/weibo?q=%E5%BC%BA%E5%AE%9E%E5%90%8D&t=31&band_rank=4&Refer=top)<br />
 5. [齐市坍塌事故施工方中标多个学校项目](https://s.weibo.com/weibo?q=%23%E9%BD%90%E5%B8%82%E5%9D%8D%E5%A1%8C%E4%BA%8B%E6%95%85%E6%96%BD%E5%B7%A5%E6%96%B9%E4%B8%AD%E6%A0%87%E5%A4%9A%E4%B8%AA%E5%AD%A6%E6%A0%A1%E9%A1%B9%E7%9B%AE%23&t=31&band_rank=5&Refer=top)<br />
 6. [3D还原齐齐哈尔体育馆坍塌过程](https://s.weibo.com/weibo?q=%233D%E8%BF%98%E5%8E%9F%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C%E8%BF%87%E7%A8%8B%23&t=31&band_rank=6&Refer=top)<br />
-7. [前任结婚面馆老板闭店前去劫婚](https://s.weibo.com/weibo?q=%23%E5%89%8D%E4%BB%BB%E7%BB%93%E5%A9%9A%E9%9D%A2%E9%A6%86%E8%80%81%E6%9D%BF%E9%97%AD%E5%BA%97%E5%89%8D%E5%8E%BB%E5%8A%AB%E5%A9%9A%23&t=31&band_rank=7&Refer=top)<br />
+7. [农村男孩考取博士拿通知书和土墙合影](https://s.weibo.com/weibo?q=%23%E5%86%9C%E6%9D%91%E7%94%B7%E5%AD%A9%E8%80%83%E5%8F%96%E5%8D%9A%E5%A3%AB%E6%8B%BF%E9%80%9A%E7%9F%A5%E4%B9%A6%E5%92%8C%E5%9C%9F%E5%A2%99%E5%90%88%E5%BD%B1%23&t=31&band_rank=7&Refer=top)<br />
 8. [陈哲远正式确诊为邪剑仙](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%93%B2%E8%BF%9C%E6%AD%A3%E5%BC%8F%E7%A1%AE%E8%AF%8A%E4%B8%BA%E9%82%AA%E5%89%91%E4%BB%99%23&t=31&band_rank=8&Refer=top)<br />
-9. [农村男孩考取博士拿通知书和土墙合影](https://s.weibo.com/weibo?q=%23%E5%86%9C%E6%9D%91%E7%94%B7%E5%AD%A9%E8%80%83%E5%8F%96%E5%8D%9A%E5%A3%AB%E6%8B%BF%E9%80%9A%E7%9F%A5%E4%B9%A6%E5%92%8C%E5%9C%9F%E5%A2%99%E5%90%88%E5%BD%B1%23&t=31&band_rank=9&Refer=top)<br />
+9. [前任结婚面馆老板闭店前去劫婚](https://s.weibo.com/weibo?q=%23%E5%89%8D%E4%BB%BB%E7%BB%93%E5%A9%9A%E9%9D%A2%E9%A6%86%E8%80%81%E6%9D%BF%E9%97%AD%E5%BA%97%E5%89%8D%E5%8E%BB%E5%8A%AB%E5%A9%9A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -25,7 +25,7 @@
 6. [坍塌事故施工单位承揽多项政府工程](https://www.baidu.com/s?wd=%E5%9D%8D%E5%A1%8C%E4%BA%8B%E6%95%85%E6%96%BD%E5%B7%A5%E5%8D%95%E4%BD%8D%E6%89%BF%E6%8F%BD%E5%A4%9A%E9%A1%B9%E6%94%BF%E5%BA%9C%E5%B7%A5%E7%A8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子没忍住边游边大便赔8000元](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%B2%A1%E5%BF%8D%E4%BD%8F%E8%BE%B9%E6%B8%B8%E8%BE%B9%E5%A4%A7%E4%BE%BF%E8%B5%948000%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [“妲己”娜然连发《封神》幕后照](https://www.baidu.com/s?wd=%E2%80%9C%E5%A6%B2%E5%B7%B1%E2%80%9D%E5%A8%9C%E7%84%B6%E8%BF%9E%E5%8F%91%E3%80%8A%E5%B0%81%E7%A5%9E%E3%80%8B%E5%B9%95%E5%90%8E%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [副市长实控8家房地产公司](https://www.baidu.com/s?wd=%E5%89%AF%E5%B8%82%E9%95%BF%E5%AE%9E%E6%8E%A78%E5%AE%B6%E6%88%BF%E5%9C%B0%E4%BA%A7%E5%85%AC%E5%8F%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [莲花楼首播反响](https://www.baidu.com/s?wd=%E8%8E%B2%E8%8A%B1%E6%A5%BC%E9%A6%96%E6%92%AD%E5%8F%8D%E5%93%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [坍塌事故施工单位承揽多项政府工程](https://www.baidu.com/s?wd=%E5%9D%8D%E5%A1%8C%E4%BA%8B%E6%95%85%E6%96%BD%E5%B7%A5%E5%8D%95%E4%BD%8D%E6%89%BF%E6%8F%BD%E5%A4%9A%E9%A1%B9%E6%94%BF%E5%BA%9C%E5%B7%A5%E7%A8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子没忍住边游边大便赔8000元](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%B2%A1%E5%BF%8D%E4%BD%8F%E8%BE%B9%E6%B8%B8%E8%BE%B9%E5%A4%A7%E4%BE%BF%E8%B5%948000%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [“妲己”娜然连发《封神》幕后照](https://www.baidu.com/s?wd=%E2%80%9C%E5%A6%B2%E5%B7%B1%E2%80%9D%E5%A8%9C%E7%84%B6%E8%BF%9E%E5%8F%91%E3%80%8A%E5%B0%81%E7%A5%9E%E3%80%8B%E5%B9%95%E5%90%8E%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [副市长实控8家房地产公司](https://www.baidu.com/s?wd=%E5%89%AF%E5%B8%82%E9%95%BF%E5%AE%9E%E6%8E%A78%E5%AE%B6%E6%88%BF%E5%9C%B0%E4%BA%A7%E5%85%AC%E5%8F%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [莲花楼首播反响](https://www.baidu.com/s?wd=%E8%8E%B2%E8%8A%B1%E6%A5%BC%E9%A6%96%E6%92%AD%E5%8F%8D%E5%93%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
