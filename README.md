@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-25 01:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-25 01:09:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [体育馆坍塌事故11名遇难者身份公布](https://www.baidu.com/s?wd=%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C%E4%BA%8B%E6%95%8511%E5%90%8D%E9%81%87%E9%9A%BE%E8%80%85%E8%BA%AB%E4%BB%BD%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [齐齐哈尔市长:向遇难者表示沉痛哀悼](https://www.baidu.com/s?wd=%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E5%B8%82%E9%95%BF%3A%E5%90%91%E9%81%87%E9%9A%BE%E8%80%85%E8%A1%A8%E7%A4%BA%E6%B2%89%E7%97%9B%E5%93%80%E6%82%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [刀郎曾回应过网传那英言论](https://www.baidu.com/s?wd=%E5%88%80%E9%83%8E%E6%9B%BE%E5%9B%9E%E5%BA%94%E8%BF%87%E7%BD%91%E4%BC%A0%E9%82%A3%E8%8B%B1%E8%A8%80%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [保姆一路考证工资从5千涨到2万](https://www.baidu.com/s?wd=%E4%BF%9D%E5%A7%86%E4%B8%80%E8%B7%AF%E8%80%83%E8%AF%81%E5%B7%A5%E8%B5%84%E4%BB%8E5%E5%8D%83%E6%B6%A8%E5%88%B02%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [游客爬黄山起冲突持登山杖互殴](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E7%88%AC%E9%BB%84%E5%B1%B1%E8%B5%B7%E5%86%B2%E7%AA%81%E6%8C%81%E7%99%BB%E5%B1%B1%E6%9D%96%E4%BA%92%E6%AE%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [体育馆坍塌事故11名遇难者身份公布](https://www.baidu.com/s?wd=%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C%E4%BA%8B%E6%95%8511%E5%90%8D%E9%81%87%E9%9A%BE%E8%80%85%E8%BA%AB%E4%BB%BD%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [齐齐哈尔市长:向遇难者表示沉痛哀悼](https://www.baidu.com/s?wd=%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E5%B8%82%E9%95%BF%3A%E5%90%91%E9%81%87%E9%9A%BE%E8%80%85%E8%A1%A8%E7%A4%BA%E6%B2%89%E7%97%9B%E5%93%80%E6%82%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [刀郎曾回应过网传那英言论](https://www.baidu.com/s?wd=%E5%88%80%E9%83%8E%E6%9B%BE%E5%9B%9E%E5%BA%94%E8%BF%87%E7%BD%91%E4%BC%A0%E9%82%A3%E8%8B%B1%E8%A8%80%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [保姆一路考证工资从5千涨到2万](https://www.baidu.com/s?wd=%E4%BF%9D%E5%A7%86%E4%B8%80%E8%B7%AF%E8%80%83%E8%AF%81%E5%B7%A5%E8%B5%84%E4%BB%8E5%E5%8D%83%E6%B6%A8%E5%88%B02%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [游客爬黄山起冲突持登山杖互殴](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E7%88%AC%E9%BB%84%E5%B1%B1%E8%B5%B7%E5%86%B2%E7%AA%81%E6%8C%81%E7%99%BB%E5%B1%B1%E6%9D%96%E4%BA%92%E6%AE%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
