@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 19:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 19:17:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [陈建州范玮琪撤销对大牙起诉](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BB%BA%E5%B7%9E%E8%8C%83%E7%8E%AE%E7%90%AA%E6%92%A4%E9%94%80%E5%AF%B9%E5%A4%A7%E7%89%99%E8%B5%B7%E8%AF%89%23&t=31&band_rank=4&Refer=top)<br />
 5. [保姆一路考证升学工资从5000涨到2万](https://s.weibo.com/weibo?q=%23%E4%BF%9D%E5%A7%86%E4%B8%80%E8%B7%AF%E8%80%83%E8%AF%81%E5%8D%87%E5%AD%A6%E5%B7%A5%E8%B5%84%E4%BB%8E5000%E6%B6%A8%E5%88%B02%E4%B8%87%23&t=31&band_rank=5&Refer=top)<br />
 6. [记者卧底救了6个被骗缅甸人员](https://s.weibo.com/weibo?q=%E8%AE%B0%E8%80%85%E5%8D%A7%E5%BA%95%E6%95%91%E4%BA%866%E4%B8%AA%E8%A2%AB%E9%AA%97%E7%BC%85%E7%94%B8%E4%BA%BA%E5%91%98&t=31&band_rank=6&Refer=top)<br />
-7. [长相思](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D&t=31&band_rank=7&Refer=top)<br />
-8. [颖儿家暴戏至少化妆2小时](https://s.weibo.com/weibo?q=%23%E9%A2%96%E5%84%BF%E5%AE%B6%E6%9A%B4%E6%88%8F%E8%87%B3%E5%B0%91%E5%8C%96%E5%A6%862%E5%B0%8F%E6%97%B6%23&t=31&band_rank=8&Refer=top)<br />
-9. [双胞胎出生时间和高考成绩都相差一分](https://s.weibo.com/weibo?q=%23%E5%8F%8C%E8%83%9E%E8%83%8E%E5%87%BA%E7%94%9F%E6%97%B6%E9%97%B4%E5%92%8C%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E9%83%BD%E7%9B%B8%E5%B7%AE%E4%B8%80%E5%88%86%23&t=31&band_rank=9&Refer=top)<br />
+7. [双胞胎出生时间和高考成绩都相差一分](https://s.weibo.com/weibo?q=%23%E5%8F%8C%E8%83%9E%E8%83%8E%E5%87%BA%E7%94%9F%E6%97%B6%E9%97%B4%E5%92%8C%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E9%83%BD%E7%9B%B8%E5%B7%AE%E4%B8%80%E5%88%86%23&t=31&band_rank=7&Refer=top)<br />
+8. [长相思](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D&t=31&band_rank=8&Refer=top)<br />
+9. [颖儿家暴戏至少化妆2小时](https://s.weibo.com/weibo?q=%23%E9%A2%96%E5%84%BF%E5%AE%B6%E6%9A%B4%E6%88%8F%E8%87%B3%E5%B0%91%E5%8C%96%E5%A6%862%E5%B0%8F%E6%97%B6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
