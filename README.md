@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 21:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 21:16:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [齐齐哈尔34中体育馆坍塌11人死亡](https://s.weibo.com/weibo?q=%23%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%9434%E4%B8%AD%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C11%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=5&Refer=top)<br />
 6. [涂山璟 官配](https://s.weibo.com/weibo?q=%E6%B6%82%E5%B1%B1%E7%92%9F%20%E5%AE%98%E9%85%8D&t=31&band_rank=6&Refer=top)<br />
 7. [叶诗文](https://s.weibo.com/weibo?q=%E5%8F%B6%E8%AF%97%E6%96%87&t=31&band_rank=7&Refer=top)<br />
-8. [记者卧底救了6个被骗缅甸人员](https://s.weibo.com/weibo?q=%E8%AE%B0%E8%80%85%E5%8D%A7%E5%BA%95%E6%95%91%E4%BA%866%E4%B8%AA%E8%A2%AB%E9%AA%97%E7%BC%85%E7%94%B8%E4%BA%BA%E5%91%98&t=31&band_rank=8&Refer=top)<br />
+8. [地库出口3岁男童不幸被撞身亡](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E5%BA%93%E5%87%BA%E5%8F%A33%E5%B2%81%E7%94%B7%E7%AB%A5%E4%B8%8D%E5%B9%B8%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
 9. [长相思男主是谁](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D%E7%94%B7%E4%B8%BB%E6%98%AF%E8%B0%81&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
