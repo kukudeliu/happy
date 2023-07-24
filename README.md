@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 15:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 15:08:01</h4></div>
 
 > 微博  
 
@@ -18,8 +18,8 @@
 > 百度  
 
 1. [推进美丽中国建设](https://www.baidu.com/s?wd=%E6%8E%A8%E8%BF%9B%E7%BE%8E%E4%B8%BD%E4%B8%AD%E5%9B%BD%E5%BB%BA%E8%AE%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [超特大城市更新 会影响房价吗？](https://www.baidu.com/s?wd=%E8%B6%85%E7%89%B9%E5%A4%A7%E5%9F%8E%E5%B8%82%E6%9B%B4%E6%96%B0+%E4%BC%9A%E5%BD%B1%E5%93%8D%E6%88%BF%E4%BB%B7%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [齐齐哈尔体育馆坍塌共11人遇难](https://www.baidu.com/s?wd=%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C%E5%85%B111%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [齐齐哈尔体育馆坍塌共11人遇难](https://www.baidu.com/s?wd=%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C%E5%85%B111%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [超特大城市更新 会影响房价吗？](https://www.baidu.com/s?wd=%E8%B6%85%E7%89%B9%E5%A4%A7%E5%9F%8E%E5%B8%82%E6%9B%B4%E6%96%B0+%E4%BC%9A%E5%BD%B1%E5%93%8D%E6%88%BF%E4%BB%B7%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [就业形势保持总体稳定](https://www.baidu.com/s?wd=%E5%B0%B1%E4%B8%9A%E5%BD%A2%E5%8A%BF%E4%BF%9D%E6%8C%81%E6%80%BB%E4%BD%93%E7%A8%B3%E5%AE%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [TFBOYS演唱会门票开售秒空](https://www.baidu.com/s?wd=TFBOYS%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E5%BC%80%E5%94%AE%E7%A7%92%E7%A9%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [奶奶疑骂孙子被误会遭围殴骨折](https://www.baidu.com/s?wd=%E5%A5%B6%E5%A5%B6%E7%96%91%E9%AA%82%E5%AD%99%E5%AD%90%E8%A2%AB%E8%AF%AF%E4%BC%9A%E9%81%AD%E5%9B%B4%E6%AE%B4%E9%AA%A8%E6%8A%98&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,8 +30,8 @@
 > 哔哩哔哩  
 
 1. [推进美丽中国建设](https://www.baidu.com/s?wd=%E6%8E%A8%E8%BF%9B%E7%BE%8E%E4%B8%BD%E4%B8%AD%E5%9B%BD%E5%BB%BA%E8%AE%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [超特大城市更新 会影响房价吗？](https://www.baidu.com/s?wd=%E8%B6%85%E7%89%B9%E5%A4%A7%E5%9F%8E%E5%B8%82%E6%9B%B4%E6%96%B0+%E4%BC%9A%E5%BD%B1%E5%93%8D%E6%88%BF%E4%BB%B7%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [齐齐哈尔体育馆坍塌共11人遇难](https://www.baidu.com/s?wd=%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C%E5%85%B111%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [齐齐哈尔体育馆坍塌共11人遇难](https://www.baidu.com/s?wd=%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C%E5%85%B111%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [超特大城市更新 会影响房价吗？](https://www.baidu.com/s?wd=%E8%B6%85%E7%89%B9%E5%A4%A7%E5%9F%8E%E5%B8%82%E6%9B%B4%E6%96%B0+%E4%BC%9A%E5%BD%B1%E5%93%8D%E6%88%BF%E4%BB%B7%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [就业形势保持总体稳定](https://www.baidu.com/s?wd=%E5%B0%B1%E4%B8%9A%E5%BD%A2%E5%8A%BF%E4%BF%9D%E6%8C%81%E6%80%BB%E4%BD%93%E7%A8%B3%E5%AE%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [TFBOYS演唱会门票开售秒空](https://www.baidu.com/s?wd=TFBOYS%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E5%BC%80%E5%94%AE%E7%A7%92%E7%A9%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [奶奶疑骂孙子被误会遭围殴骨折](https://www.baidu.com/s?wd=%E5%A5%B6%E5%A5%B6%E7%96%91%E9%AA%82%E5%AD%99%E5%AD%90%E8%A2%AB%E8%AF%AF%E4%BC%9A%E9%81%AD%E5%9B%B4%E6%AE%B4%E9%AA%A8%E6%8A%98&sa=fyb_news&rsv_dl=fyb_news)<br />
