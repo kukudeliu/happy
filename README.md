@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 14:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 14:24:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [电影院挂男人视力表被指不尊重女性](https://www.baidu.com/s?wd=%E7%94%B5%E5%BD%B1%E9%99%A2%E6%8C%82%E7%94%B7%E4%BA%BA%E8%A7%86%E5%8A%9B%E8%A1%A8%E8%A2%AB%E6%8C%87%E4%B8%8D%E5%B0%8A%E9%87%8D%E5%A5%B3%E6%80%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [奶奶疑骂孙子被误会遭围殴骨折](https://www.baidu.com/s?wd=%E5%A5%B6%E5%A5%B6%E7%96%91%E9%AA%82%E5%AD%99%E5%AD%90%E8%A2%AB%E8%AF%AF%E4%BC%9A%E9%81%AD%E5%9B%B4%E6%AE%B4%E9%AA%A8%E6%8A%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#刀郎新歌疑似暗讽那英杨坤#](https://www.baidu.com/s?wd=%23%E5%88%80%E9%83%8E%E6%96%B0%E6%AD%8C%E7%96%91%E4%BC%BC%E6%9A%97%E8%AE%BD%E9%82%A3%E8%8B%B1%E6%9D%A8%E5%9D%A4%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [iPhone15将采用叠层电池](https://www.baidu.com/s?wd=iPhone15%E5%B0%86%E9%87%87%E7%94%A8%E5%8F%A0%E5%B1%82%E7%94%B5%E6%B1%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [游客翻越护栏踩踏丹霞地貌](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E7%BF%BB%E8%B6%8A%E6%8A%A4%E6%A0%8F%E8%B8%A9%E8%B8%8F%E4%B8%B9%E9%9C%9E%E5%9C%B0%E8%B2%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [电影院挂男人视力表被指不尊重女性](https://www.baidu.com/s?wd=%E7%94%B5%E5%BD%B1%E9%99%A2%E6%8C%82%E7%94%B7%E4%BA%BA%E8%A7%86%E5%8A%9B%E8%A1%A8%E8%A2%AB%E6%8C%87%E4%B8%8D%E5%B0%8A%E9%87%8D%E5%A5%B3%E6%80%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [奶奶疑骂孙子被误会遭围殴骨折](https://www.baidu.com/s?wd=%E5%A5%B6%E5%A5%B6%E7%96%91%E9%AA%82%E5%AD%99%E5%AD%90%E8%A2%AB%E8%AF%AF%E4%BC%9A%E9%81%AD%E5%9B%B4%E6%AE%B4%E9%AA%A8%E6%8A%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#刀郎新歌疑似暗讽那英杨坤#](https://www.baidu.com/s?wd=%23%E5%88%80%E9%83%8E%E6%96%B0%E6%AD%8C%E7%96%91%E4%BC%BC%E6%9A%97%E8%AE%BD%E9%82%A3%E8%8B%B1%E6%9D%A8%E5%9D%A4%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [iPhone15将采用叠层电池](https://www.baidu.com/s?wd=iPhone15%E5%B0%86%E9%87%87%E7%94%A8%E5%8F%A0%E5%B1%82%E7%94%B5%E6%B1%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [游客翻越护栏踩踏丹霞地貌](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E7%BF%BB%E8%B6%8A%E6%8A%A4%E6%A0%8F%E8%B8%A9%E8%B8%8F%E4%B8%B9%E9%9C%9E%E5%9C%B0%E8%B2%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
