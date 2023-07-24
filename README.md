@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 19:58:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 19:59:01</h4></div>
 
 > 微博  
 
@@ -23,9 +23,9 @@
 4. [探索大运之城的科技创新](https://www.baidu.com/s?wd=%E6%8E%A2%E7%B4%A2%E5%A4%A7%E8%BF%90%E4%B9%8B%E5%9F%8E%E7%9A%84%E7%A7%91%E6%8A%80%E5%88%9B%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [唐尚珺放弃第二次志愿补录](https://www.baidu.com/s?wd=%E5%94%90%E5%B0%9A%E7%8F%BA%E6%94%BE%E5%BC%83%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%BF%97%E6%84%BF%E8%A1%A5%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [记者卧底救了6个被骗缅甸人员](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E5%8D%A7%E5%BA%95%E6%95%91%E4%BA%866%E4%B8%AA%E8%A2%AB%E9%AA%97%E7%BC%85%E7%94%B8%E4%BA%BA%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [刀郎曾回应过网传那英言论](https://www.baidu.com/s?wd=%E5%88%80%E9%83%8E%E6%9B%BE%E5%9B%9E%E5%BA%94%E8%BF%87%E7%BD%91%E4%BC%A0%E9%82%A3%E8%8B%B1%E8%A8%80%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [森村诚一去世 曾揭露731部队罪行](https://www.baidu.com/s?wd=%E6%A3%AE%E6%9D%91%E8%AF%9A%E4%B8%80%E5%8E%BB%E4%B8%96+%E6%9B%BE%E6%8F%AD%E9%9C%B2731%E9%83%A8%E9%98%9F%E7%BD%AA%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#暑期影视综追更计划#](https://www.baidu.com/s?wd=%23%E6%9A%91%E6%9C%9F%E5%BD%B1%E8%A7%86%E7%BB%BC%E8%BF%BD%E6%9B%B4%E8%AE%A1%E5%88%92%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [副市长实控8家房地产公司](https://www.baidu.com/s?wd=%E5%89%AF%E5%B8%82%E9%95%BF%E5%AE%9E%E6%8E%A78%E5%AE%B6%E6%88%BF%E5%9C%B0%E4%BA%A7%E5%85%AC%E5%8F%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [刀郎曾回应过网传那英言论](https://www.baidu.com/s?wd=%E5%88%80%E9%83%8E%E6%9B%BE%E5%9B%9E%E5%BA%94%E8%BF%87%E7%BD%91%E4%BC%A0%E9%82%A3%E8%8B%B1%E8%A8%80%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -35,6 +35,6 @@
 4. [探索大运之城的科技创新](https://www.baidu.com/s?wd=%E6%8E%A2%E7%B4%A2%E5%A4%A7%E8%BF%90%E4%B9%8B%E5%9F%8E%E7%9A%84%E7%A7%91%E6%8A%80%E5%88%9B%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [唐尚珺放弃第二次志愿补录](https://www.baidu.com/s?wd=%E5%94%90%E5%B0%9A%E7%8F%BA%E6%94%BE%E5%BC%83%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%BF%97%E6%84%BF%E8%A1%A5%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [记者卧底救了6个被骗缅甸人员](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E5%8D%A7%E5%BA%95%E6%95%91%E4%BA%866%E4%B8%AA%E8%A2%AB%E9%AA%97%E7%BC%85%E7%94%B8%E4%BA%BA%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [刀郎曾回应过网传那英言论](https://www.baidu.com/s?wd=%E5%88%80%E9%83%8E%E6%9B%BE%E5%9B%9E%E5%BA%94%E8%BF%87%E7%BD%91%E4%BC%A0%E9%82%A3%E8%8B%B1%E8%A8%80%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [森村诚一去世 曾揭露731部队罪行](https://www.baidu.com/s?wd=%E6%A3%AE%E6%9D%91%E8%AF%9A%E4%B8%80%E5%8E%BB%E4%B8%96+%E6%9B%BE%E6%8F%AD%E9%9C%B2731%E9%83%A8%E9%98%9F%E7%BD%AA%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#暑期影视综追更计划#](https://www.baidu.com/s?wd=%23%E6%9A%91%E6%9C%9F%E5%BD%B1%E8%A7%86%E7%BB%BC%E8%BF%BD%E6%9B%B4%E8%AE%A1%E5%88%92%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [副市长实控8家房地产公司](https://www.baidu.com/s?wd=%E5%89%AF%E5%B8%82%E9%95%BF%E5%AE%9E%E6%8E%A78%E5%AE%B6%E6%88%BF%E5%9C%B0%E4%BA%A7%E5%85%AC%E5%8F%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [刀郎曾回应过网传那英言论](https://www.baidu.com/s?wd=%E5%88%80%E9%83%8E%E6%9B%BE%E5%9B%9E%E5%BA%94%E8%BF%87%E7%BD%91%E4%BC%A0%E9%82%A3%E8%8B%B1%E8%A8%80%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
