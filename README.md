@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 23:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 23:21:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [齐齐哈尔体育馆坍塌事故遇难者身份公布](https://s.weibo.com/weibo?q=%23%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C%E4%BA%8B%E6%95%85%E9%81%87%E9%9A%BE%E8%80%85%E8%BA%AB%E4%BB%BD%E5%85%AC%E5%B8%83%23&t=31&band_rank=4&Refer=top)<br />
 5. [齐齐哈尔市市长沉痛哀悼](https://s.weibo.com/weibo?q=%23%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E5%B8%82%E5%B8%82%E9%95%BF%E6%B2%89%E7%97%9B%E5%93%80%E6%82%BC%23&t=31&band_rank=5&Refer=top)<br />
 6. [十年之约为什么不在重庆办](https://s.weibo.com/weibo?q=%23%E5%8D%81%E5%B9%B4%E4%B9%8B%E7%BA%A6%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E5%9C%A8%E9%87%8D%E5%BA%86%E5%8A%9E%23&t=31&band_rank=6&Refer=top)<br />
-7. [冯提莫发文报平安](https://s.weibo.com/weibo?q=%23%E5%86%AF%E6%8F%90%E8%8E%AB%E5%8F%91%E6%96%87%E6%8A%A5%E5%B9%B3%E5%AE%89%23&t=31&band_rank=7&Refer=top)<br />
-8. [父亲回应3岁女儿坐高铁10小时不哭闹](https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%9B%9E%E5%BA%943%E5%B2%81%E5%A5%B3%E5%84%BF%E5%9D%90%E9%AB%98%E9%93%8110%E5%B0%8F%E6%97%B6%E4%B8%8D%E5%93%AD%E9%97%B9%23&t=31&band_rank=8&Refer=top)<br />
+7. [父亲回应3岁女儿坐高铁10小时不哭闹](https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%9B%9E%E5%BA%943%E5%B2%81%E5%A5%B3%E5%84%BF%E5%9D%90%E9%AB%98%E9%93%8110%E5%B0%8F%E6%97%B6%E4%B8%8D%E5%93%AD%E9%97%B9%23&t=31&band_rank=7&Refer=top)<br />
+8. [冯提莫发文报平安](https://s.weibo.com/weibo?q=%23%E5%86%AF%E6%8F%90%E8%8E%AB%E5%8F%91%E6%96%87%E6%8A%A5%E5%B9%B3%E5%AE%89%23&t=31&band_rank=8&Refer=top)<br />
 9. [打工人最讨厌的那类小领导](https://s.weibo.com/weibo?q=%E6%89%93%E5%B7%A5%E4%BA%BA%E6%9C%80%E8%AE%A8%E5%8E%8C%E7%9A%84%E9%82%A3%E7%B1%BB%E5%B0%8F%E9%A2%86%E5%AF%BC&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
