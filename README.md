@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 20:48:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 20:49:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [记者卧底救了6个被骗缅甸人员](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E5%8D%A7%E5%BA%95%E6%95%91%E4%BA%866%E4%B8%AA%E8%A2%AB%E9%AA%97%E7%BC%85%E7%94%B8%E4%BA%BA%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中学坍塌致11死 市民冒雨献花哀悼](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E5%9D%8D%E5%A1%8C%E8%87%B411%E6%AD%BB+%E5%B8%82%E6%B0%91%E5%86%92%E9%9B%A8%E7%8C%AE%E8%8A%B1%E5%93%80%E6%82%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#暑期影视综追更计划#](https://www.baidu.com/s?wd=%23%E6%9A%91%E6%9C%9F%E5%BD%B1%E8%A7%86%E7%BB%BC%E8%BF%BD%E6%9B%B4%E8%AE%A1%E5%88%92%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [农村男孩考取博士 土墙前和父母合影](https://www.baidu.com/s?wd=%E5%86%9C%E6%9D%91%E7%94%B7%E5%AD%A9%E8%80%83%E5%8F%96%E5%8D%9A%E5%A3%AB+%E5%9C%9F%E5%A2%99%E5%89%8D%E5%92%8C%E7%88%B6%E6%AF%8D%E5%90%88%E5%BD%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [前任结婚面馆老板闭店前去劫婚](https://www.baidu.com/s?wd=%E5%89%8D%E4%BB%BB%E7%BB%93%E5%A9%9A%E9%9D%A2%E9%A6%86%E8%80%81%E6%9D%BF%E9%97%AD%E5%BA%97%E5%89%8D%E5%8E%BB%E5%8A%AB%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [记者卧底救了6个被骗缅甸人员](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E5%8D%A7%E5%BA%95%E6%95%91%E4%BA%866%E4%B8%AA%E8%A2%AB%E9%AA%97%E7%BC%85%E7%94%B8%E4%BA%BA%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中学坍塌致11死 市民冒雨献花哀悼](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E5%9D%8D%E5%A1%8C%E8%87%B411%E6%AD%BB+%E5%B8%82%E6%B0%91%E5%86%92%E9%9B%A8%E7%8C%AE%E8%8A%B1%E5%93%80%E6%82%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#暑期影视综追更计划#](https://www.baidu.com/s?wd=%23%E6%9A%91%E6%9C%9F%E5%BD%B1%E8%A7%86%E7%BB%BC%E8%BF%BD%E6%9B%B4%E8%AE%A1%E5%88%92%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [农村男孩考取博士 土墙前和父母合影](https://www.baidu.com/s?wd=%E5%86%9C%E6%9D%91%E7%94%B7%E5%AD%A9%E8%80%83%E5%8F%96%E5%8D%9A%E5%A3%AB+%E5%9C%9F%E5%A2%99%E5%89%8D%E5%92%8C%E7%88%B6%E6%AF%8D%E5%90%88%E5%BD%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [前任结婚面馆老板闭店前去劫婚](https://www.baidu.com/s?wd=%E5%89%8D%E4%BB%BB%E7%BB%93%E5%A9%9A%E9%9D%A2%E9%A6%86%E8%80%81%E6%9D%BF%E9%97%AD%E5%BA%97%E5%89%8D%E5%8E%BB%E5%8A%AB%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
