@@ -1,10 +1,10 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 19:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 19:20:01</h4></div>
 
 > 微博  
 
 1. [陈建州范玮琪撤销对大牙起诉](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BB%BA%E5%B7%9E%E8%8C%83%E7%8E%AE%E7%90%AA%E6%92%A4%E9%94%80%E5%AF%B9%E5%A4%A7%E7%89%99%E8%B5%B7%E8%AF%89%23&t=31&band_rank=1&Refer=top)<br />
 2. [这锅鱼汤他能记一辈子](https://s.weibo.com/weibo?q=%23%E8%BF%99%E9%94%85%E9%B1%BC%E6%B1%A4%E4%BB%96%E8%83%BD%E8%AE%B0%E4%B8%80%E8%BE%88%E5%AD%90%23&t=31&band_rank=2&Refer=top)<br />
-3. [空军航空开放活动预演现场](https://s.weibo.com/weibo?q=%23%E7%A9%BA%E5%86%9B%E8%88%AA%E7%A9%BA%E5%BC%80%E6%94%BE%E6%B4%BB%E5%8A%A8%E9%A2%84%E6%BC%94%E7%8E%B0%E5%9C%BA%23&t=31&band_rank=3&Refer=top)<br />
+3. [一起看成都大运会](https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%B5%B7%E7%9C%8B%E6%88%90%E9%83%BD%E5%A4%A7%E8%BF%90%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [齐齐哈尔34中体育馆坍塌11人死亡](https://s.weibo.com/weibo?q=%23%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%9434%E4%B8%AD%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C11%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=4&Refer=top)<br />
 5. [保姆一路考证升学工资从5000涨到2万](https://s.weibo.com/weibo?q=%23%E4%BF%9D%E5%A7%86%E4%B8%80%E8%B7%AF%E8%80%83%E8%AF%81%E5%8D%87%E5%AD%A6%E5%B7%A5%E8%B5%84%E4%BB%8E5000%E6%B6%A8%E5%88%B02%E4%B8%87%23&t=31&band_rank=5&Refer=top)<br />
 6. [记者卧底救了6个被骗缅甸人员](https://s.weibo.com/weibo?q=%E8%AE%B0%E8%80%85%E5%8D%A7%E5%BA%95%E6%95%91%E4%BA%866%E4%B8%AA%E8%A2%AB%E9%AA%97%E7%BC%85%E7%94%B8%E4%BA%BA%E5%91%98&t=31&band_rank=6&Refer=top)<br />
