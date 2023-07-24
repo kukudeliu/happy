@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 22:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 22:06:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [一起看成都大运会](https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%B5%B7%E7%9C%8B%E6%88%90%E9%83%BD%E5%A4%A7%E8%BF%90%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [齐齐哈尔34中体育馆坍塌11人死亡](https://s.weibo.com/weibo?q=%23%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%9434%E4%B8%AD%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C11%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=4&Refer=top)<br />
 5. [叶诗文](https://s.weibo.com/weibo?q=%E5%8F%B6%E8%AF%97%E6%96%87&t=31&band_rank=5&Refer=top)<br />
-6. [TES对战EDG](https://s.weibo.com/weibo?q=%23TES%E5%AF%B9%E6%88%98EDG%23&t=31&band_rank=6&Refer=top)<br />
-7. [长相思热度](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D%E7%83%AD%E5%BA%A6&t=31&band_rank=7&Refer=top)<br />
-8. [EDG输了 Ale没输](https://s.weibo.com/weibo?q=EDG%E8%BE%93%E4%BA%86%20Ale%E6%B2%A1%E8%BE%93&t=31&band_rank=8&Refer=top)<br />
+6. [长相思热度](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D%E7%83%AD%E5%BA%A6&t=31&band_rank=6&Refer=top)<br />
+7. [EDG输了 Ale没输](https://s.weibo.com/weibo?q=EDG%E8%BE%93%E4%BA%86%20Ale%E6%B2%A1%E8%BE%93&t=31&band_rank=7&Refer=top)<br />
+8. [TES对战EDG](https://s.weibo.com/weibo?q=%23TES%E5%AF%B9%E6%88%98EDG%23&t=31&band_rank=8&Refer=top)<br />
 9. [长相思小演员演技](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D%E5%B0%8F%E6%BC%94%E5%91%98%E6%BC%94%E6%8A%80%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
