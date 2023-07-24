@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 16:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 16:22:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [1只大熊猫被10只一级重点保护动物围观](https://s.weibo.com/weibo?q=%231%E5%8F%AA%E5%A4%A7%E7%86%8A%E7%8C%AB%E8%A2%AB10%E5%8F%AA%E4%B8%80%E7%BA%A7%E9%87%8D%E7%82%B9%E4%BF%9D%E6%8A%A4%E5%8A%A8%E7%89%A9%E5%9B%B4%E8%A7%82%23&t=31&band_rank=6&Refer=top)<br />
 7. [陈哲远正式确诊为邪剑仙](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%93%B2%E8%BF%9C%E6%AD%A3%E5%BC%8F%E7%A1%AE%E8%AF%8A%E4%B8%BA%E9%82%AA%E5%89%91%E4%BB%99%23&t=31&band_rank=7&Refer=top)<br />
 8. [前任结婚面馆老板闭店前去劫婚](https://s.weibo.com/weibo?q=%23%E5%89%8D%E4%BB%BB%E7%BB%93%E5%A9%9A%E9%9D%A2%E9%A6%86%E8%80%81%E6%9D%BF%E9%97%AD%E5%BA%97%E5%89%8D%E5%8E%BB%E5%8A%AB%E5%A9%9A%23&t=31&band_rank=8&Refer=top)<br />
-9. [35人退钱群里34人是托](https://s.weibo.com/weibo?q=%2335%E4%BA%BA%E9%80%80%E9%92%B1%E7%BE%A4%E9%87%8C34%E4%BA%BA%E6%98%AF%E6%89%98%23&t=31&band_rank=9&Refer=top)<br />
+9. [相柳承认喜欢小夭](https://s.weibo.com/weibo?q=%23%E7%9B%B8%E6%9F%B3%E6%89%BF%E8%AE%A4%E5%96%9C%E6%AC%A2%E5%B0%8F%E5%A4%AD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
