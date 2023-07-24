@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 12:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 12:12:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [妻子付不起120万赎金装客户帮丈夫电诈](https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E4%BB%98%E4%B8%8D%E8%B5%B7120%E4%B8%87%E8%B5%8E%E9%87%91%E8%A3%85%E5%AE%A2%E6%88%B7%E5%B8%AE%E4%B8%88%E5%A4%AB%E7%94%B5%E8%AF%88%23&t=31&band_rank=5&Refer=top)<br />
 6. [杨洋演的于途vs宋焰](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B4%8B%E6%BC%94%E7%9A%84%E4%BA%8E%E9%80%94vs%E5%AE%8B%E7%84%B0%23&t=31&band_rank=6&Refer=top)<br />
 7. [8小时睡眠论](https://s.weibo.com/weibo?q=8%E5%B0%8F%E6%97%B6%E7%9D%A1%E7%9C%A0%E8%AE%BA&t=31&band_rank=7&Refer=top)<br />
-8. [坍塌中学体育馆最后一名失联人员找到](https://s.weibo.com/weibo?q=%23%E5%9D%8D%E5%A1%8C%E4%B8%AD%E5%AD%A6%E4%BD%93%E8%82%B2%E9%A6%86%E6%9C%80%E5%90%8E%E4%B8%80%E5%90%8D%E5%A4%B1%E8%81%94%E4%BA%BA%E5%91%98%E6%89%BE%E5%88%B0%23&t=31&band_rank=8&Refer=top)<br />
-9. [他大概没想过以后会过的那么苦](https://s.weibo.com/weibo?q=%E4%BB%96%E5%A4%A7%E6%A6%82%E6%B2%A1%E6%83%B3%E8%BF%87%E4%BB%A5%E5%90%8E%E4%BC%9A%E8%BF%87%E7%9A%84%E9%82%A3%E4%B9%88%E8%8B%A6&t=31&band_rank=9&Refer=top)<br />
+8. [他大概没想过以后会过的那么苦](https://s.weibo.com/weibo?q=%E4%BB%96%E5%A4%A7%E6%A6%82%E6%B2%A1%E6%83%B3%E8%BF%87%E4%BB%A5%E5%90%8E%E4%BC%9A%E8%BF%87%E7%9A%84%E9%82%A3%E4%B9%88%E8%8B%A6&t=31&band_rank=8&Refer=top)<br />
+9. [网曝大爷大妈跑到水库放生矿泉水](https://s.weibo.com/weibo?q=%23%E7%BD%91%E6%9B%9D%E5%A4%A7%E7%88%B7%E5%A4%A7%E5%A6%88%E8%B7%91%E5%88%B0%E6%B0%B4%E5%BA%93%E6%94%BE%E7%94%9F%E7%9F%BF%E6%B3%89%E6%B0%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
