@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 22:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 22:03:02</h4></div>
 
 > 微博  
 
 1. [TES战胜EDG](https://s.weibo.com/weibo?q=TES%E6%88%98%E8%83%9CEDG&t=31&band_rank=1&Refer=top)<br />
-2. [齐齐哈尔34中体育馆坍塌11人死亡](https://s.weibo.com/weibo?q=%23%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%9434%E4%B8%AD%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C11%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=2&Refer=top)<br />
+2. [EDG冒泡赛](https://s.weibo.com/weibo?q=EDG%E5%86%92%E6%B3%A1%E8%B5%9B&t=31&band_rank=2&Refer=top)<br />
 3. [一起看成都大运会](https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%B5%B7%E7%9C%8B%E6%88%90%E9%83%BD%E5%A4%A7%E8%BF%90%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
-4. [EDG冒泡赛](https://s.weibo.com/weibo?q=EDG%E5%86%92%E6%B3%A1%E8%B5%9B&t=31&band_rank=4&Refer=top)<br />
+4. [齐齐哈尔34中体育馆坍塌11人死亡](https://s.weibo.com/weibo?q=%23%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%9434%E4%B8%AD%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C11%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=4&Refer=top)<br />
 5. [叶诗文](https://s.weibo.com/weibo?q=%E5%8F%B6%E8%AF%97%E6%96%87&t=31&band_rank=5&Refer=top)<br />
 6. [TES对战EDG](https://s.weibo.com/weibo?q=%23TES%E5%AF%B9%E6%88%98EDG%23&t=31&band_rank=6&Refer=top)<br />
 7. [长相思热度](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D%E7%83%AD%E5%BA%A6&t=31&band_rank=7&Refer=top)<br />
@@ -25,7 +25,7 @@
 6. [“最佳睡眠时间”出炉](https://www.baidu.com/s?wd=%E2%80%9C%E6%9C%80%E4%BD%B3%E7%9D%A1%E7%9C%A0%E6%97%B6%E9%97%B4%E2%80%9D%E5%87%BA%E7%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [齐齐哈尔体育馆坍塌共11人遇难](https://www.baidu.com/s?wd=%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C%E5%85%B111%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [千年古寺深夜失火佛像独矗废墟](https://www.baidu.com/s?wd=%E5%8D%83%E5%B9%B4%E5%8F%A4%E5%AF%BA%E6%B7%B1%E5%A4%9C%E5%A4%B1%E7%81%AB%E4%BD%9B%E5%83%8F%E7%8B%AC%E7%9F%97%E5%BA%9F%E5%A2%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [前任结婚面馆老板闭店前去劫婚](https://www.baidu.com/s?wd=%E5%89%8D%E4%BB%BB%E7%BB%93%E5%A9%9A%E9%9D%A2%E9%A6%86%E8%80%81%E6%9D%BF%E9%97%AD%E5%BA%97%E5%89%8D%E5%8E%BB%E5%8A%AB%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [农村男孩考取博士 土墙前和父母合影](https://www.baidu.com/s?wd=%E5%86%9C%E6%9D%91%E7%94%B7%E5%AD%A9%E8%80%83%E5%8F%96%E5%8D%9A%E5%A3%AB+%E5%9C%9F%E5%A2%99%E5%89%8D%E5%92%8C%E7%88%B6%E6%AF%8D%E5%90%88%E5%BD%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [“最佳睡眠时间”出炉](https://www.baidu.com/s?wd=%E2%80%9C%E6%9C%80%E4%BD%B3%E7%9D%A1%E7%9C%A0%E6%97%B6%E9%97%B4%E2%80%9D%E5%87%BA%E7%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [齐齐哈尔体育馆坍塌共11人遇难](https://www.baidu.com/s?wd=%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C%E5%85%B111%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [千年古寺深夜失火佛像独矗废墟](https://www.baidu.com/s?wd=%E5%8D%83%E5%B9%B4%E5%8F%A4%E5%AF%BA%E6%B7%B1%E5%A4%9C%E5%A4%B1%E7%81%AB%E4%BD%9B%E5%83%8F%E7%8B%AC%E7%9F%97%E5%BA%9F%E5%A2%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [前任结婚面馆老板闭店前去劫婚](https://www.baidu.com/s?wd=%E5%89%8D%E4%BB%BB%E7%BB%93%E5%A9%9A%E9%9D%A2%E9%A6%86%E8%80%81%E6%9D%BF%E9%97%AD%E5%BA%97%E5%89%8D%E5%8E%BB%E5%8A%AB%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [农村男孩考取博士 土墙前和父母合影](https://www.baidu.com/s?wd=%E5%86%9C%E6%9D%91%E7%94%B7%E5%AD%A9%E8%80%83%E5%8F%96%E5%8D%9A%E5%A3%AB+%E5%9C%9F%E5%A2%99%E5%89%8D%E5%92%8C%E7%88%B6%E6%AF%8D%E5%90%88%E5%BD%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
