@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 22:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 22:46:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [齐齐哈尔34中体育馆坍塌11人死亡](https://s.weibo.com/weibo?q=%23%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%9434%E4%B8%AD%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C11%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [叶诗文](https://s.weibo.com/weibo?q=%E5%8F%B6%E8%AF%97%E6%96%87&t=31&band_rank=7&Refer=top)<br />
 8. [TES战胜EDG](https://s.weibo.com/weibo?q=TES%E6%88%98%E8%83%9CEDG&t=31&band_rank=8&Refer=top)<br />
-9. [EDG冒泡赛](https://s.weibo.com/weibo?q=EDG%E5%86%92%E6%B3%A1%E8%B5%9B&t=31&band_rank=9&Refer=top)<br />
+9. [父亲回应3岁女儿坐高铁10小时不哭闹](https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%9B%9E%E5%BA%943%E5%B2%81%E5%A5%B3%E5%84%BF%E5%9D%90%E9%AB%98%E9%93%8110%E5%B0%8F%E6%97%B6%E4%B8%8D%E5%93%AD%E9%97%B9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
