@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 09:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 09:55:01</h4></div>
 
 > 微博  
 
@@ -21,11 +21,11 @@
 2. [齐齐哈尔体育馆坍塌事故已致10死](https://www.baidu.com/s?wd=%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C%E4%BA%8B%E6%95%85%E5%B7%B2%E8%87%B410%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [母亲晒孩子在沙滩制竹签陷阱引争议](https://www.baidu.com/s?wd=%E6%AF%8D%E4%BA%B2%E6%99%92%E5%AD%A9%E5%AD%90%E5%9C%A8%E6%B2%99%E6%BB%A9%E5%88%B6%E7%AB%B9%E7%AD%BE%E9%99%B7%E9%98%B1%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [一组彩色密码打开成都大运会](https://www.baidu.com/s?wd=%E4%B8%80%E7%BB%84%E5%BD%A9%E8%89%B2%E5%AF%86%E7%A0%81%E6%89%93%E5%BC%80%E6%88%90%E9%83%BD%E5%A4%A7%E8%BF%90%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [马斯克宣布：跟“小蓝鸟”说再见](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%AE%A3%E5%B8%83%EF%BC%9A%E8%B7%9F%E2%80%9C%E5%B0%8F%E8%93%9D%E9%B8%9F%E2%80%9D%E8%AF%B4%E5%86%8D%E8%A7%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [“最佳睡眠时间”出炉](https://www.baidu.com/s?wd=%E2%80%9C%E6%9C%80%E4%BD%B3%E7%9D%A1%E7%9C%A0%E6%97%B6%E9%97%B4%E2%80%9D%E5%87%BA%E7%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [坍塌体育馆施工单位责任人被控制](https://www.baidu.com/s?wd=%E5%9D%8D%E5%A1%8C%E4%BD%93%E8%82%B2%E9%A6%86%E6%96%BD%E5%B7%A5%E5%8D%95%E4%BD%8D%E8%B4%A3%E4%BB%BB%E4%BA%BA%E8%A2%AB%E6%8E%A7%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [杨玏封神白月光](https://www.baidu.com/s?wd=%E6%9D%A8%E7%8E%8F%E5%B0%81%E7%A5%9E%E7%99%BD%E6%9C%88%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [游客爬黄山起冲突持登山杖互殴](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E7%88%AC%E9%BB%84%E5%B1%B1%E8%B5%B7%E5%86%B2%E7%AA%81%E6%8C%81%E7%99%BB%E5%B1%B1%E6%9D%96%E4%BA%92%E6%AE%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [“最佳睡眠时间”出炉](https://www.baidu.com/s?wd=%E2%80%9C%E6%9C%80%E4%BD%B3%E7%9D%A1%E7%9C%A0%E6%97%B6%E9%97%B4%E2%80%9D%E5%87%BA%E7%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [坍塌体育馆施工单位责任人被控制](https://www.baidu.com/s?wd=%E5%9D%8D%E5%A1%8C%E4%BD%93%E8%82%B2%E9%A6%86%E6%96%BD%E5%B7%A5%E5%8D%95%E4%BD%8D%E8%B4%A3%E4%BB%BB%E4%BA%BA%E8%A2%AB%E6%8E%A7%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [杨玏封神白月光](https://www.baidu.com/s?wd=%E6%9D%A8%E7%8E%8F%E5%B0%81%E7%A5%9E%E7%99%BD%E6%9C%88%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [游客爬黄山起冲突持登山杖互殴](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E7%88%AC%E9%BB%84%E5%B1%B1%E8%B5%B7%E5%86%B2%E7%AA%81%E6%8C%81%E7%99%BB%E5%B1%B1%E6%9D%96%E4%BA%92%E6%AE%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [人类游泳历史最长寿世界纪录破了](https://www.baidu.com/s?wd=%E4%BA%BA%E7%B1%BB%E6%B8%B8%E6%B3%B3%E5%8E%86%E5%8F%B2%E6%9C%80%E9%95%BF%E5%AF%BF%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95%E7%A0%B4%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -33,8 +33,8 @@
 2. [齐齐哈尔体育馆坍塌事故已致10死](https://www.baidu.com/s?wd=%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C%E4%BA%8B%E6%95%85%E5%B7%B2%E8%87%B410%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [母亲晒孩子在沙滩制竹签陷阱引争议](https://www.baidu.com/s?wd=%E6%AF%8D%E4%BA%B2%E6%99%92%E5%AD%A9%E5%AD%90%E5%9C%A8%E6%B2%99%E6%BB%A9%E5%88%B6%E7%AB%B9%E7%AD%BE%E9%99%B7%E9%98%B1%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [一组彩色密码打开成都大运会](https://www.baidu.com/s?wd=%E4%B8%80%E7%BB%84%E5%BD%A9%E8%89%B2%E5%AF%86%E7%A0%81%E6%89%93%E5%BC%80%E6%88%90%E9%83%BD%E5%A4%A7%E8%BF%90%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [马斯克宣布：跟“小蓝鸟”说再见](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%AE%A3%E5%B8%83%EF%BC%9A%E8%B7%9F%E2%80%9C%E5%B0%8F%E8%93%9D%E9%B8%9F%E2%80%9D%E8%AF%B4%E5%86%8D%E8%A7%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [“最佳睡眠时间”出炉](https://www.baidu.com/s?wd=%E2%80%9C%E6%9C%80%E4%BD%B3%E7%9D%A1%E7%9C%A0%E6%97%B6%E9%97%B4%E2%80%9D%E5%87%BA%E7%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [坍塌体育馆施工单位责任人被控制](https://www.baidu.com/s?wd=%E5%9D%8D%E5%A1%8C%E4%BD%93%E8%82%B2%E9%A6%86%E6%96%BD%E5%B7%A5%E5%8D%95%E4%BD%8D%E8%B4%A3%E4%BB%BB%E4%BA%BA%E8%A2%AB%E6%8E%A7%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [杨玏封神白月光](https://www.baidu.com/s?wd=%E6%9D%A8%E7%8E%8F%E5%B0%81%E7%A5%9E%E7%99%BD%E6%9C%88%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [游客爬黄山起冲突持登山杖互殴](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E7%88%AC%E9%BB%84%E5%B1%B1%E8%B5%B7%E5%86%B2%E7%AA%81%E6%8C%81%E7%99%BB%E5%B1%B1%E6%9D%96%E4%BA%92%E6%AE%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [“最佳睡眠时间”出炉](https://www.baidu.com/s?wd=%E2%80%9C%E6%9C%80%E4%BD%B3%E7%9D%A1%E7%9C%A0%E6%97%B6%E9%97%B4%E2%80%9D%E5%87%BA%E7%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [坍塌体育馆施工单位责任人被控制](https://www.baidu.com/s?wd=%E5%9D%8D%E5%A1%8C%E4%BD%93%E8%82%B2%E9%A6%86%E6%96%BD%E5%B7%A5%E5%8D%95%E4%BD%8D%E8%B4%A3%E4%BB%BB%E4%BA%BA%E8%A2%AB%E6%8E%A7%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [杨玏封神白月光](https://www.baidu.com/s?wd=%E6%9D%A8%E7%8E%8F%E5%B0%81%E7%A5%9E%E7%99%BD%E6%9C%88%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [游客爬黄山起冲突持登山杖互殴](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E7%88%AC%E9%BB%84%E5%B1%B1%E8%B5%B7%E5%86%B2%E7%AA%81%E6%8C%81%E7%99%BB%E5%B1%B1%E6%9D%96%E4%BA%92%E6%AE%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [人类游泳历史最长寿世界纪录破了](https://www.baidu.com/s?wd=%E4%BA%BA%E7%B1%BB%E6%B8%B8%E6%B3%B3%E5%8E%86%E5%8F%B2%E6%9C%80%E9%95%BF%E5%AF%BF%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95%E7%A0%B4%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
