@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-25 05:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-25 05:54:01</h4></div>
 
 > 微博  
 
@@ -22,10 +22,10 @@
 3. [体育馆坍塌致11死 事故原因初步查明](https://www.baidu.com/s?wd=%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C%E8%87%B411%E6%AD%BB+%E4%BA%8B%E6%95%85%E5%8E%9F%E5%9B%A0%E5%88%9D%E6%AD%A5%E6%9F%A5%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [探索大运之城的科技创新](https://www.baidu.com/s?wd=%E6%8E%A2%E7%B4%A2%E5%A4%A7%E8%BF%90%E4%B9%8B%E5%9F%8E%E7%9A%84%E7%A7%91%E6%8A%80%E5%88%9B%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [冯提莫患甲状腺癌晚期 目前已手术](https://www.baidu.com/s?wd=%E5%86%AF%E6%8F%90%E8%8E%AB%E6%82%A3%E7%94%B2%E7%8A%B6%E8%85%BA%E7%99%8C%E6%99%9A%E6%9C%9F+%E7%9B%AE%E5%89%8D%E5%B7%B2%E6%89%8B%E6%9C%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [白岩松喊话唐尚珺该去上学了](https://www.baidu.com/s?wd=%E7%99%BD%E5%B2%A9%E6%9D%BE%E5%96%8A%E8%AF%9D%E5%94%90%E5%B0%9A%E7%8F%BA%E8%AF%A5%E5%8E%BB%E4%B8%8A%E5%AD%A6%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [保姆一路考证工资从5千涨到2万](https://www.baidu.com/s?wd=%E4%BF%9D%E5%A7%86%E4%B8%80%E8%B7%AF%E8%80%83%E8%AF%81%E5%B7%A5%E8%B5%84%E4%BB%8E5%E5%8D%83%E6%B6%A8%E5%88%B02%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [齐齐哈尔市长:向遇难者表示沉痛哀悼](https://www.baidu.com/s?wd=%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E5%B8%82%E9%95%BF%3A%E5%90%91%E9%81%87%E9%9A%BE%E8%80%85%E8%A1%A8%E7%A4%BA%E6%B2%89%E7%97%9B%E5%93%80%E6%82%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [保姆一路考证工资从5千涨到2万](https://www.baidu.com/s?wd=%E4%BF%9D%E5%A7%86%E4%B8%80%E8%B7%AF%E8%80%83%E8%AF%81%E5%B7%A5%E8%B5%84%E4%BB%8E5%E5%8D%83%E6%B6%A8%E5%88%B02%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [副市长实控8家房地产公司](https://www.baidu.com/s?wd=%E5%89%AF%E5%B8%82%E9%95%BF%E5%AE%9E%E6%8E%A78%E5%AE%B6%E6%88%BF%E5%9C%B0%E4%BA%A7%E5%85%AC%E5%8F%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [副市长实控8家房地产公司](https://www.baidu.com/s?wd=%E5%89%AF%E5%B8%82%E9%95%BF%E5%AE%9E%E6%8E%A78%E5%AE%B6%E6%88%BF%E5%9C%B0%E4%BA%A7%E5%85%AC%E5%8F%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [白岩松喊话唐尚珺该去上学了](https://www.baidu.com/s?wd=%E7%99%BD%E5%B2%A9%E6%9D%BE%E5%96%8A%E8%AF%9D%E5%94%90%E5%B0%9A%E7%8F%BA%E8%AF%A5%E5%8E%BB%E4%B8%8A%E5%AD%A6%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -34,7 +34,7 @@
 3. [体育馆坍塌致11死 事故原因初步查明](https://www.baidu.com/s?wd=%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C%E8%87%B411%E6%AD%BB+%E4%BA%8B%E6%95%85%E5%8E%9F%E5%9B%A0%E5%88%9D%E6%AD%A5%E6%9F%A5%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [探索大运之城的科技创新](https://www.baidu.com/s?wd=%E6%8E%A2%E7%B4%A2%E5%A4%A7%E8%BF%90%E4%B9%8B%E5%9F%8E%E7%9A%84%E7%A7%91%E6%8A%80%E5%88%9B%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [冯提莫患甲状腺癌晚期 目前已手术](https://www.baidu.com/s?wd=%E5%86%AF%E6%8F%90%E8%8E%AB%E6%82%A3%E7%94%B2%E7%8A%B6%E8%85%BA%E7%99%8C%E6%99%9A%E6%9C%9F+%E7%9B%AE%E5%89%8D%E5%B7%B2%E6%89%8B%E6%9C%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [白岩松喊话唐尚珺该去上学了](https://www.baidu.com/s?wd=%E7%99%BD%E5%B2%A9%E6%9D%BE%E5%96%8A%E8%AF%9D%E5%94%90%E5%B0%9A%E7%8F%BA%E8%AF%A5%E5%8E%BB%E4%B8%8A%E5%AD%A6%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [保姆一路考证工资从5千涨到2万](https://www.baidu.com/s?wd=%E4%BF%9D%E5%A7%86%E4%B8%80%E8%B7%AF%E8%80%83%E8%AF%81%E5%B7%A5%E8%B5%84%E4%BB%8E5%E5%8D%83%E6%B6%A8%E5%88%B02%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [齐齐哈尔市长:向遇难者表示沉痛哀悼](https://www.baidu.com/s?wd=%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E5%B8%82%E9%95%BF%3A%E5%90%91%E9%81%87%E9%9A%BE%E8%80%85%E8%A1%A8%E7%A4%BA%E6%B2%89%E7%97%9B%E5%93%80%E6%82%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [保姆一路考证工资从5千涨到2万](https://www.baidu.com/s?wd=%E4%BF%9D%E5%A7%86%E4%B8%80%E8%B7%AF%E8%80%83%E8%AF%81%E5%B7%A5%E8%B5%84%E4%BB%8E5%E5%8D%83%E6%B6%A8%E5%88%B02%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [副市长实控8家房地产公司](https://www.baidu.com/s?wd=%E5%89%AF%E5%B8%82%E9%95%BF%E5%AE%9E%E6%8E%A78%E5%AE%B6%E6%88%BF%E5%9C%B0%E4%BA%A7%E5%85%AC%E5%8F%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [副市长实控8家房地产公司](https://www.baidu.com/s?wd=%E5%89%AF%E5%B8%82%E9%95%BF%E5%AE%9E%E6%8E%A78%E5%AE%B6%E6%88%BF%E5%9C%B0%E4%BA%A7%E5%85%AC%E5%8F%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [白岩松喊话唐尚珺该去上学了](https://www.baidu.com/s?wd=%E7%99%BD%E5%B2%A9%E6%9D%BE%E5%96%8A%E8%AF%9D%E5%94%90%E5%B0%9A%E7%8F%BA%E8%AF%A5%E5%8E%BB%E4%B8%8A%E5%AD%A6%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
