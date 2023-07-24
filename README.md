@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 22:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 22:42:01</h4></div>
 
 > 微博  
 
@@ -18,23 +18,23 @@
 > 百度  
 
 1. [中共中央政治局召开会议](https://www.baidu.com/s?wd=%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E5%8F%AC%E5%BC%80%E4%BC%9A%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [官方：适时调整优化房地产政策](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%EF%BC%9A%E9%80%82%E6%97%B6%E8%B0%83%E6%95%B4%E4%BC%98%E5%8C%96%E6%88%BF%E5%9C%B0%E4%BA%A7%E6%94%BF%E7%AD%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [齐齐哈尔市长:向遇难者表示沉痛哀悼](https://www.baidu.com/s?wd=%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E5%B8%82%E9%95%BF%3A%E5%90%91%E9%81%87%E9%9A%BE%E8%80%85%E8%A1%A8%E7%A4%BA%E6%B2%89%E7%97%9B%E5%93%80%E6%82%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [保姆一路考证工资从5千涨到2万](https://www.baidu.com/s?wd=%E4%BF%9D%E5%A7%86%E4%B8%80%E8%B7%AF%E8%80%83%E8%AF%81%E5%B7%A5%E8%B5%84%E4%BB%8E5%E5%8D%83%E6%B6%A8%E5%88%B02%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [探索大运之城的科技创新](https://www.baidu.com/s?wd=%E6%8E%A2%E7%B4%A2%E5%A4%A7%E8%BF%90%E4%B9%8B%E5%9F%8E%E7%9A%84%E7%A7%91%E6%8A%80%E5%88%9B%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [悼念鲜花堆满中学门口 有人送去排球](https://www.baidu.com/s?wd=%E6%82%BC%E5%BF%B5%E9%B2%9C%E8%8A%B1%E5%A0%86%E6%BB%A1%E4%B8%AD%E5%AD%A6%E9%97%A8%E5%8F%A3+%E6%9C%89%E4%BA%BA%E9%80%81%E5%8E%BB%E6%8E%92%E7%90%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [王宝强女儿《八角笼中》观后感](https://www.baidu.com/s?wd=%E7%8E%8B%E5%AE%9D%E5%BC%BA%E5%A5%B3%E5%84%BF%E3%80%8A%E5%85%AB%E8%A7%92%E7%AC%BC%E4%B8%AD%E3%80%8B%E8%A7%82%E5%90%8E%E6%84%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [齐齐哈尔体育馆坍塌共11人遇难](https://www.baidu.com/s?wd=%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C%E5%85%B111%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [游客爬黄山起冲突持登山杖互殴](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E7%88%AC%E9%BB%84%E5%B1%B1%E8%B5%B7%E5%86%B2%E7%AA%81%E6%8C%81%E7%99%BB%E5%B1%B1%E6%9D%96%E4%BA%92%E6%AE%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [刀郎《罗刹海市》被过度解读？](https://www.baidu.com/s?wd=%E5%88%80%E9%83%8E%E3%80%8A%E7%BD%97%E5%88%B9%E6%B5%B7%E5%B8%82%E3%80%8B%E8%A2%AB%E8%BF%87%E5%BA%A6%E8%A7%A3%E8%AF%BB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [官方：适时调整优化房地产政策](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%EF%BC%9A%E9%80%82%E6%97%B6%E8%B0%83%E6%95%B4%E4%BC%98%E5%8C%96%E6%88%BF%E5%9C%B0%E4%BA%A7%E6%94%BF%E7%AD%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [中共中央政治局召开会议](https://www.baidu.com/s?wd=%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E5%8F%AC%E5%BC%80%E4%BC%9A%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [官方：适时调整优化房地产政策](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%EF%BC%9A%E9%80%82%E6%97%B6%E8%B0%83%E6%95%B4%E4%BC%98%E5%8C%96%E6%88%BF%E5%9C%B0%E4%BA%A7%E6%94%BF%E7%AD%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [齐齐哈尔市长:向遇难者表示沉痛哀悼](https://www.baidu.com/s?wd=%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E5%B8%82%E9%95%BF%3A%E5%90%91%E9%81%87%E9%9A%BE%E8%80%85%E8%A1%A8%E7%A4%BA%E6%B2%89%E7%97%9B%E5%93%80%E6%82%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [保姆一路考证工资从5千涨到2万](https://www.baidu.com/s?wd=%E4%BF%9D%E5%A7%86%E4%B8%80%E8%B7%AF%E8%80%83%E8%AF%81%E5%B7%A5%E8%B5%84%E4%BB%8E5%E5%8D%83%E6%B6%A8%E5%88%B02%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [探索大运之城的科技创新](https://www.baidu.com/s?wd=%E6%8E%A2%E7%B4%A2%E5%A4%A7%E8%BF%90%E4%B9%8B%E5%9F%8E%E7%9A%84%E7%A7%91%E6%8A%80%E5%88%9B%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [悼念鲜花堆满中学门口 有人送去排球](https://www.baidu.com/s?wd=%E6%82%BC%E5%BF%B5%E9%B2%9C%E8%8A%B1%E5%A0%86%E6%BB%A1%E4%B8%AD%E5%AD%A6%E9%97%A8%E5%8F%A3+%E6%9C%89%E4%BA%BA%E9%80%81%E5%8E%BB%E6%8E%92%E7%90%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [王宝强女儿《八角笼中》观后感](https://www.baidu.com/s?wd=%E7%8E%8B%E5%AE%9D%E5%BC%BA%E5%A5%B3%E5%84%BF%E3%80%8A%E5%85%AB%E8%A7%92%E7%AC%BC%E4%B8%AD%E3%80%8B%E8%A7%82%E5%90%8E%E6%84%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [齐齐哈尔体育馆坍塌共11人遇难](https://www.baidu.com/s?wd=%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C%E5%85%B111%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [游客爬黄山起冲突持登山杖互殴](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E7%88%AC%E9%BB%84%E5%B1%B1%E8%B5%B7%E5%86%B2%E7%AA%81%E6%8C%81%E7%99%BB%E5%B1%B1%E6%9D%96%E4%BA%92%E6%AE%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [刀郎《罗刹海市》被过度解读？](https://www.baidu.com/s?wd=%E5%88%80%E9%83%8E%E3%80%8A%E7%BD%97%E5%88%B9%E6%B5%B7%E5%B8%82%E3%80%8B%E8%A2%AB%E8%BF%87%E5%BA%A6%E8%A7%A3%E8%AF%BB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [官方：适时调整优化房地产政策](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%EF%BC%9A%E9%80%82%E6%97%B6%E8%B0%83%E6%95%B4%E4%BC%98%E5%8C%96%E6%88%BF%E5%9C%B0%E4%BA%A7%E6%94%BF%E7%AD%96&sa=fyb_news&rsv_dl=fyb_news)<br />
