@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-25 02:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-25 02:38:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [冯提莫患甲状腺癌晚期 目前已手术](https://www.baidu.com/s?wd=%E5%86%AF%E6%8F%90%E8%8E%AB%E6%82%A3%E7%94%B2%E7%8A%B6%E8%85%BA%E7%99%8C%E6%99%9A%E6%9C%9F+%E7%9B%AE%E5%89%8D%E5%B7%B2%E6%89%8B%E6%9C%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子在服务区遇老人人肉占充电桩](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E6%9C%8D%E5%8A%A1%E5%8C%BA%E9%81%87%E8%80%81%E4%BA%BA%E4%BA%BA%E8%82%89%E5%8D%A0%E5%85%85%E7%94%B5%E6%A1%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [齐齐哈尔市长:向遇难者表示沉痛哀悼](https://www.baidu.com/s?wd=%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E5%B8%82%E9%95%BF%3A%E5%90%91%E9%81%87%E9%9A%BE%E8%80%85%E8%A1%A8%E7%A4%BA%E6%B2%89%E7%97%9B%E5%93%80%E6%82%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [刀郎曾回应过网传那英言论](https://www.baidu.com/s?wd=%E5%88%80%E9%83%8E%E6%9B%BE%E5%9B%9E%E5%BA%94%E8%BF%87%E7%BD%91%E4%BC%A0%E9%82%A3%E8%8B%B1%E8%A8%80%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [演唱会强实名后黄牛代抢生意火了](https://www.baidu.com/s?wd=%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BC%BA%E5%AE%9E%E5%90%8D%E5%90%8E%E9%BB%84%E7%89%9B%E4%BB%A3%E6%8A%A2%E7%94%9F%E6%84%8F%E7%81%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [前任结婚面馆老板闭店前去劫婚](https://www.baidu.com/s?wd=%E5%89%8D%E4%BB%BB%E7%BB%93%E5%A9%9A%E9%9D%A2%E9%A6%86%E8%80%81%E6%9D%BF%E9%97%AD%E5%BA%97%E5%89%8D%E5%8E%BB%E5%8A%AB%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [刀郎曾回应过网传那英言论](https://www.baidu.com/s?wd=%E5%88%80%E9%83%8E%E6%9B%BE%E5%9B%9E%E5%BA%94%E8%BF%87%E7%BD%91%E4%BC%A0%E9%82%A3%E8%8B%B1%E8%A8%80%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [冯提莫患甲状腺癌晚期 目前已手术](https://www.baidu.com/s?wd=%E5%86%AF%E6%8F%90%E8%8E%AB%E6%82%A3%E7%94%B2%E7%8A%B6%E8%85%BA%E7%99%8C%E6%99%9A%E6%9C%9F+%E7%9B%AE%E5%89%8D%E5%B7%B2%E6%89%8B%E6%9C%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子在服务区遇老人人肉占充电桩](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E6%9C%8D%E5%8A%A1%E5%8C%BA%E9%81%87%E8%80%81%E4%BA%BA%E4%BA%BA%E8%82%89%E5%8D%A0%E5%85%85%E7%94%B5%E6%A1%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [齐齐哈尔市长:向遇难者表示沉痛哀悼](https://www.baidu.com/s?wd=%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E5%B8%82%E9%95%BF%3A%E5%90%91%E9%81%87%E9%9A%BE%E8%80%85%E8%A1%A8%E7%A4%BA%E6%B2%89%E7%97%9B%E5%93%80%E6%82%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [刀郎曾回应过网传那英言论](https://www.baidu.com/s?wd=%E5%88%80%E9%83%8E%E6%9B%BE%E5%9B%9E%E5%BA%94%E8%BF%87%E7%BD%91%E4%BC%A0%E9%82%A3%E8%8B%B1%E8%A8%80%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [演唱会强实名后黄牛代抢生意火了](https://www.baidu.com/s?wd=%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BC%BA%E5%AE%9E%E5%90%8D%E5%90%8E%E9%BB%84%E7%89%9B%E4%BB%A3%E6%8A%A2%E7%94%9F%E6%84%8F%E7%81%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [前任结婚面馆老板闭店前去劫婚](https://www.baidu.com/s?wd=%E5%89%8D%E4%BB%BB%E7%BB%93%E5%A9%9A%E9%9D%A2%E9%A6%86%E8%80%81%E6%9D%BF%E9%97%AD%E5%BA%97%E5%89%8D%E5%8E%BB%E5%8A%AB%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [刀郎曾回应过网传那英言论](https://www.baidu.com/s?wd=%E5%88%80%E9%83%8E%E6%9B%BE%E5%9B%9E%E5%BA%94%E8%BF%87%E7%BD%91%E4%BC%A0%E9%82%A3%E8%8B%B1%E8%A8%80%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
