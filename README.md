@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 09:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 09:35:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [为什么有些水果不甜却容易长胖](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%9B%E6%B0%B4%E6%9E%9C%E4%B8%8D%E7%94%9C%E5%8D%B4%E5%AE%B9%E6%98%93%E9%95%BF%E8%83%96%23&t=31&band_rank=2&Refer=top)<br />
 3. [这个夏天共赴青春盛会](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%AA%E5%A4%8F%E5%A4%A9%E5%85%B1%E8%B5%B4%E9%9D%92%E6%98%A5%E7%9B%9B%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [被网友吃菌子中毒后的描述笑死](https://s.weibo.com/weibo?q=%E8%A2%AB%E7%BD%91%E5%8F%8B%E5%90%83%E8%8F%8C%E5%AD%90%E4%B8%AD%E6%AF%92%E5%90%8E%E7%9A%84%E6%8F%8F%E8%BF%B0%E7%AC%91%E6%AD%BB&t=31&band_rank=4&Refer=top)<br />
-5. [孟宴臣的皇冠vs宋焰的钻戒](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AE%B4%E8%87%A3%E7%9A%84%E7%9A%87%E5%86%A0vs%E5%AE%8B%E7%84%B0%E7%9A%84%E9%92%BB%E6%88%92%23&t=31&band_rank=5&Refer=top)<br />
-6. [莲花楼首播反响](https://s.weibo.com/weibo?q=%23%E8%8E%B2%E8%8A%B1%E6%A5%BC%E9%A6%96%E6%92%AD%E5%8F%8D%E5%93%8D%23&t=31&band_rank=6&Refer=top)<br />
+5. [莲花楼首播反响](https://s.weibo.com/weibo?q=%23%E8%8E%B2%E8%8A%B1%E6%A5%BC%E9%A6%96%E6%92%AD%E5%8F%8D%E5%93%8D%23&t=31&band_rank=5&Refer=top)<br />
+6. [孟宴臣的皇冠vs宋焰的钻戒](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AE%B4%E8%87%A3%E7%9A%84%E7%9A%87%E5%86%A0vs%E5%AE%8B%E7%84%B0%E7%9A%84%E9%92%BB%E6%88%92%23&t=31&band_rank=6&Refer=top)<br />
 7. [一辈子很短但周一很长](https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%BE%88%E5%AD%90%E5%BE%88%E7%9F%AD%E4%BD%86%E5%91%A8%E4%B8%80%E5%BE%88%E9%95%BF%23&t=31&band_rank=7&Refer=top)<br />
 8. [上海厕所一个奇怪的标志](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%8E%95%E6%89%80%E4%B8%80%E4%B8%AA%E5%A5%87%E6%80%AA%E7%9A%84%E6%A0%87%E5%BF%97%23&t=31&band_rank=8&Refer=top)<br />
 9. [杨玏封神白月光](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%8E%8F%E5%B0%81%E7%A5%9E%E7%99%BD%E6%9C%88%E5%85%89%23&t=31&band_rank=9&Refer=top)<br />
