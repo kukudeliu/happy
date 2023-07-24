@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 09:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 09:36:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [莲花楼首播反响](https://s.weibo.com/weibo?q=%23%E8%8E%B2%E8%8A%B1%E6%A5%BC%E9%A6%96%E6%92%AD%E5%8F%8D%E5%93%8D%23&t=31&band_rank=5&Refer=top)<br />
 6. [孟宴臣的皇冠vs宋焰的钻戒](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AE%B4%E8%87%A3%E7%9A%84%E7%9A%87%E5%86%A0vs%E5%AE%8B%E7%84%B0%E7%9A%84%E9%92%BB%E6%88%92%23&t=31&band_rank=6&Refer=top)<br />
 7. [一辈子很短但周一很长](https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%BE%88%E5%AD%90%E5%BE%88%E7%9F%AD%E4%BD%86%E5%91%A8%E4%B8%80%E5%BE%88%E9%95%BF%23&t=31&band_rank=7&Refer=top)<br />
-8. [上海厕所一个奇怪的标志](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%8E%95%E6%89%80%E4%B8%80%E4%B8%AA%E5%A5%87%E6%80%AA%E7%9A%84%E6%A0%87%E5%BF%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [杨玏封神白月光](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%8E%8F%E5%B0%81%E7%A5%9E%E7%99%BD%E6%9C%88%E5%85%89%23&t=31&band_rank=9&Refer=top)<br />
+8. [杨玏封神白月光](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%8E%8F%E5%B0%81%E7%A5%9E%E7%99%BD%E6%9C%88%E5%85%89%23&t=31&band_rank=8&Refer=top)<br />
+9. [推特标志将被改为X](https://s.weibo.com/weibo?q=%23%E6%8E%A8%E7%89%B9%E6%A0%87%E5%BF%97%E5%B0%86%E8%A2%AB%E6%94%B9%E4%B8%BAX%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -25,7 +25,7 @@
 6. [人类游泳历史最长寿世界纪录破了](https://www.baidu.com/s?wd=%E4%BA%BA%E7%B1%BB%E6%B8%B8%E6%B3%B3%E5%8E%86%E5%8F%B2%E6%9C%80%E9%95%BF%E5%AF%BF%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95%E7%A0%B4%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [齐齐哈尔体育馆坍塌事故已致10死](https://www.baidu.com/s?wd=%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C%E4%BA%8B%E6%95%85%E5%B7%B2%E8%87%B410%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [杨玏封神白月光](https://www.baidu.com/s?wd=%E6%9D%A8%E7%8E%8F%E5%B0%81%E7%A5%9E%E7%99%BD%E6%9C%88%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [游客爬黄山起冲突持登山杖互殴](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E7%88%AC%E9%BB%84%E5%B1%B1%E8%B5%B7%E5%86%B2%E7%AA%81%E6%8C%81%E7%99%BB%E5%B1%B1%E6%9D%96%E4%BA%92%E6%AE%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子讨要17万债款不成反被卖到缅北](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%AE%A8%E8%A6%8117%E4%B8%87%E5%80%BA%E6%AC%BE%E4%B8%8D%E6%88%90%E5%8F%8D%E8%A2%AB%E5%8D%96%E5%88%B0%E7%BC%85%E5%8C%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [人类游泳历史最长寿世界纪录破了](https://www.baidu.com/s?wd=%E4%BA%BA%E7%B1%BB%E6%B8%B8%E6%B3%B3%E5%8E%86%E5%8F%B2%E6%9C%80%E9%95%BF%E5%AF%BF%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95%E7%A0%B4%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [齐齐哈尔体育馆坍塌事故已致10死](https://www.baidu.com/s?wd=%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C%E4%BA%8B%E6%95%85%E5%B7%B2%E8%87%B410%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [杨玏封神白月光](https://www.baidu.com/s?wd=%E6%9D%A8%E7%8E%8F%E5%B0%81%E7%A5%9E%E7%99%BD%E6%9C%88%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [游客爬黄山起冲突持登山杖互殴](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E7%88%AC%E9%BB%84%E5%B1%B1%E8%B5%B7%E5%86%B2%E7%AA%81%E6%8C%81%E7%99%BB%E5%B1%B1%E6%9D%96%E4%BA%92%E6%AE%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子讨要17万债款不成反被卖到缅北](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%AE%A8%E8%A6%8117%E4%B8%87%E5%80%BA%E6%AC%BE%E4%B8%8D%E6%88%90%E5%8F%8D%E8%A2%AB%E5%8D%96%E5%88%B0%E7%BC%85%E5%8C%97&sa=fyb_news&rsv_dl=fyb_news)<br />
