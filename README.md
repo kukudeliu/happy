@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 22:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 22:35:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [长相思热度](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D%E7%83%AD%E5%BA%A6&t=31&band_rank=5&Refer=top)<br />
 6. [齐齐哈尔34中体育馆坍塌11人死亡](https://s.weibo.com/weibo?q=%23%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%9434%E4%B8%AD%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C11%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [EDG冒泡赛](https://s.weibo.com/weibo?q=EDG%E5%86%92%E6%B3%A1%E8%B5%9B&t=31&band_rank=7&Refer=top)<br />
-8. [EDG输了 Ale没输](https://s.weibo.com/weibo?q=EDG%E8%BE%93%E4%BA%86%20Ale%E6%B2%A1%E8%BE%93&t=31&band_rank=8&Refer=top)<br />
-9. [十年之约为什么不在重庆办](https://s.weibo.com/weibo?q=%23%E5%8D%81%E5%B9%B4%E4%B9%8B%E7%BA%A6%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E5%9C%A8%E9%87%8D%E5%BA%86%E5%8A%9E%23&t=31&band_rank=9&Refer=top)<br />
+8. [十年之约为什么不在重庆办](https://s.weibo.com/weibo?q=%23%E5%8D%81%E5%B9%B4%E4%B9%8B%E7%BA%A6%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E5%9C%A8%E9%87%8D%E5%BA%86%E5%8A%9E%23&t=31&band_rank=8&Refer=top)<br />
+9. [EDG输了 Ale没输](https://s.weibo.com/weibo?q=EDG%E8%BE%93%E4%BA%86%20Ale%E6%B2%A1%E8%BE%93&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
