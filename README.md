@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 19:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 19:46:01</h4></div>
 
 > 微博  
 
@@ -21,11 +21,11 @@
 2. [齐齐哈尔体育馆坍塌共11人遇难](https://www.baidu.com/s?wd=%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C%E5%85%B111%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [35岁镇党委书记，递补为省委委员](https://www.baidu.com/s?wd=35%E5%B2%81%E9%95%87%E5%85%9A%E5%A7%94%E4%B9%A6%E8%AE%B0%EF%BC%8C%E9%80%92%E8%A1%A5%E4%B8%BA%E7%9C%81%E5%A7%94%E5%A7%94%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [探索大运之城的科技创新](https://www.baidu.com/s?wd=%E6%8E%A2%E7%B4%A2%E5%A4%A7%E8%BF%90%E4%B9%8B%E5%9F%8E%E7%9A%84%E7%A7%91%E6%8A%80%E5%88%9B%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [刀郎曾回应过网传那英言论](https://www.baidu.com/s?wd=%E5%88%80%E9%83%8E%E6%9B%BE%E5%9B%9E%E5%BA%94%E8%BF%87%E7%BD%91%E4%BC%A0%E9%82%A3%E8%8B%B1%E8%A8%80%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [记者卧底救了6个被骗缅甸人员](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E5%8D%A7%E5%BA%95%E6%95%91%E4%BA%866%E4%B8%AA%E8%A2%AB%E9%AA%97%E7%BC%85%E7%94%B8%E4%BA%BA%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [副市长实控8家房地产公司](https://www.baidu.com/s?wd=%E5%89%AF%E5%B8%82%E9%95%BF%E5%AE%9E%E6%8E%A78%E5%AE%B6%E6%88%BF%E5%9C%B0%E4%BA%A7%E5%85%AC%E5%8F%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [唐尚珺放弃第二次志愿补录](https://www.baidu.com/s?wd=%E5%94%90%E5%B0%9A%E7%8F%BA%E6%94%BE%E5%BC%83%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%BF%97%E6%84%BF%E8%A1%A5%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [刀郎曾回应过网传那英言论](https://www.baidu.com/s?wd=%E5%88%80%E9%83%8E%E6%9B%BE%E5%9B%9E%E5%BA%94%E8%BF%87%E7%BD%91%E4%BC%A0%E9%82%A3%E8%8B%B1%E8%A8%80%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [记者卧底救了6个被骗缅甸人员](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E5%8D%A7%E5%BA%95%E6%95%91%E4%BA%866%E4%B8%AA%E8%A2%AB%E9%AA%97%E7%BC%85%E7%94%B8%E4%BA%BA%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#暑期影视综追更计划#](https://www.baidu.com/s?wd=%23%E6%9A%91%E6%9C%9F%E5%BD%B1%E8%A7%86%E7%BB%BC%E8%BF%BD%E6%9B%B4%E8%AE%A1%E5%88%92%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [前任结婚面馆老板闭店前去劫婚](https://www.baidu.com/s?wd=%E5%89%8D%E4%BB%BB%E7%BB%93%E5%A9%9A%E9%9D%A2%E9%A6%86%E8%80%81%E6%9D%BF%E9%97%AD%E5%BA%97%E5%89%8D%E5%8E%BB%E5%8A%AB%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [副市长实控8家房地产公司](https://www.baidu.com/s?wd=%E5%89%AF%E5%B8%82%E9%95%BF%E5%AE%9E%E6%8E%A78%E5%AE%B6%E6%88%BF%E5%9C%B0%E4%BA%A7%E5%85%AC%E5%8F%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -33,8 +33,8 @@
 2. [齐齐哈尔体育馆坍塌共11人遇难](https://www.baidu.com/s?wd=%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C%E5%85%B111%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [35岁镇党委书记，递补为省委委员](https://www.baidu.com/s?wd=35%E5%B2%81%E9%95%87%E5%85%9A%E5%A7%94%E4%B9%A6%E8%AE%B0%EF%BC%8C%E9%80%92%E8%A1%A5%E4%B8%BA%E7%9C%81%E5%A7%94%E5%A7%94%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [探索大运之城的科技创新](https://www.baidu.com/s?wd=%E6%8E%A2%E7%B4%A2%E5%A4%A7%E8%BF%90%E4%B9%8B%E5%9F%8E%E7%9A%84%E7%A7%91%E6%8A%80%E5%88%9B%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [刀郎曾回应过网传那英言论](https://www.baidu.com/s?wd=%E5%88%80%E9%83%8E%E6%9B%BE%E5%9B%9E%E5%BA%94%E8%BF%87%E7%BD%91%E4%BC%A0%E9%82%A3%E8%8B%B1%E8%A8%80%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [记者卧底救了6个被骗缅甸人员](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E5%8D%A7%E5%BA%95%E6%95%91%E4%BA%866%E4%B8%AA%E8%A2%AB%E9%AA%97%E7%BC%85%E7%94%B8%E4%BA%BA%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [副市长实控8家房地产公司](https://www.baidu.com/s?wd=%E5%89%AF%E5%B8%82%E9%95%BF%E5%AE%9E%E6%8E%A78%E5%AE%B6%E6%88%BF%E5%9C%B0%E4%BA%A7%E5%85%AC%E5%8F%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [唐尚珺放弃第二次志愿补录](https://www.baidu.com/s?wd=%E5%94%90%E5%B0%9A%E7%8F%BA%E6%94%BE%E5%BC%83%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%BF%97%E6%84%BF%E8%A1%A5%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [刀郎曾回应过网传那英言论](https://www.baidu.com/s?wd=%E5%88%80%E9%83%8E%E6%9B%BE%E5%9B%9E%E5%BA%94%E8%BF%87%E7%BD%91%E4%BC%A0%E9%82%A3%E8%8B%B1%E8%A8%80%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [记者卧底救了6个被骗缅甸人员](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E5%8D%A7%E5%BA%95%E6%95%91%E4%BA%866%E4%B8%AA%E8%A2%AB%E9%AA%97%E7%BC%85%E7%94%B8%E4%BA%BA%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#暑期影视综追更计划#](https://www.baidu.com/s?wd=%23%E6%9A%91%E6%9C%9F%E5%BD%B1%E8%A7%86%E7%BB%BC%E8%BF%BD%E6%9B%B4%E8%AE%A1%E5%88%92%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [前任结婚面馆老板闭店前去劫婚](https://www.baidu.com/s?wd=%E5%89%8D%E4%BB%BB%E7%BB%93%E5%A9%9A%E9%9D%A2%E9%A6%86%E8%80%81%E6%9D%BF%E9%97%AD%E5%BA%97%E5%89%8D%E5%8E%BB%E5%8A%AB%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [副市长实控8家房地产公司](https://www.baidu.com/s?wd=%E5%89%AF%E5%B8%82%E9%95%BF%E5%AE%9E%E6%8E%A78%E5%AE%B6%E6%88%BF%E5%9C%B0%E4%BA%A7%E5%85%AC%E5%8F%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
