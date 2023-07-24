@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 09:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 09:57:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [推特标志将被改为X](https://s.weibo.com/weibo?q=%23%E6%8E%A8%E7%89%B9%E6%A0%87%E5%BF%97%E5%B0%86%E8%A2%AB%E6%94%B9%E4%B8%BAX%23&t=31&band_rank=6&Refer=top)<br />
 7. [孟宴臣的皇冠vs宋焰的钻戒](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AE%B4%E8%87%A3%E7%9A%84%E7%9A%87%E5%86%A0vs%E5%AE%8B%E7%84%B0%E7%9A%84%E9%92%BB%E6%88%92%23&t=31&band_rank=7&Refer=top)<br />
 8. [莲花楼首播反响](https://s.weibo.com/weibo?q=%23%E8%8E%B2%E8%8A%B1%E6%A5%BC%E9%A6%96%E6%92%AD%E5%8F%8D%E5%93%8D%23&t=31&band_rank=8&Refer=top)<br />
-9. [杨玏封神白月光](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%8E%8F%E5%B0%81%E7%A5%9E%E7%99%BD%E6%9C%88%E5%85%89%23&t=31&band_rank=9&Refer=top)<br />
+9. [长相思今日开播](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D%E4%BB%8A%E6%97%A5%E5%BC%80%E6%92%AD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
