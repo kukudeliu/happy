@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 17:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 17:27:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [农村男孩考取博士拿通知书和土墙合影](https://s.weibo.com/weibo?q=%23%E5%86%9C%E6%9D%91%E7%94%B7%E5%AD%A9%E8%80%83%E5%8F%96%E5%8D%9A%E5%A3%AB%E6%8B%BF%E9%80%9A%E7%9F%A5%E4%B9%A6%E5%92%8C%E5%9C%9F%E5%A2%99%E5%90%88%E5%BD%B1%23&t=31&band_rank=6&Refer=top)<br />
 7. [齐齐哈尔坍塌事故学生家长发声](https://s.weibo.com/weibo?q=%23%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E5%9D%8D%E5%A1%8C%E4%BA%8B%E6%95%85%E5%AD%A6%E7%94%9F%E5%AE%B6%E9%95%BF%E5%8F%91%E5%A3%B0%23&t=31&band_rank=7&Refer=top)<br />
 8. [1只大熊猫被10只一级重点保护动物围观](https://s.weibo.com/weibo?q=%231%E5%8F%AA%E5%A4%A7%E7%86%8A%E7%8C%AB%E8%A2%AB10%E5%8F%AA%E4%B8%80%E7%BA%A7%E9%87%8D%E7%82%B9%E4%BF%9D%E6%8A%A4%E5%8A%A8%E7%89%A9%E5%9B%B4%E8%A7%82%23&t=31&band_rank=8&Refer=top)<br />
-9. [齐市坍塌事故施工方中标多个学校项目](https://s.weibo.com/weibo?q=%23%E9%BD%90%E5%B8%82%E5%9D%8D%E5%A1%8C%E4%BA%8B%E6%95%85%E6%96%BD%E5%B7%A5%E6%96%B9%E4%B8%AD%E6%A0%87%E5%A4%9A%E4%B8%AA%E5%AD%A6%E6%A0%A1%E9%A1%B9%E7%9B%AE%23&t=31&band_rank=9&Refer=top)<br />
+9. [封神中弑父情节](https://s.weibo.com/weibo?q=%E5%B0%81%E7%A5%9E%E4%B8%AD%E5%BC%91%E7%88%B6%E6%83%85%E8%8A%82&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
