@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 12:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-24 12:38:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [杨紫工作室改名清水镇回春堂](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%B7%A5%E4%BD%9C%E5%AE%A4%E6%94%B9%E5%90%8D%E6%B8%85%E6%B0%B4%E9%95%87%E5%9B%9E%E6%98%A5%E5%A0%82%23&t=31&band_rank=4&Refer=top)<br />
 5. [8小时睡眠论](https://s.weibo.com/weibo?q=8%E5%B0%8F%E6%97%B6%E7%9D%A1%E7%9C%A0%E8%AE%BA&t=31&band_rank=5&Refer=top)<br />
 6. [优酷称TFBOYS线上票不限量](https://s.weibo.com/weibo?q=%23%E4%BC%98%E9%85%B7%E7%A7%B0TFBOYS%E7%BA%BF%E4%B8%8A%E7%A5%A8%E4%B8%8D%E9%99%90%E9%87%8F%23&t=31&band_rank=6&Refer=top)<br />
-7. [妻子付不起120万赎金装客户帮丈夫电诈](https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E4%BB%98%E4%B8%8D%E8%B5%B7120%E4%B8%87%E8%B5%8E%E9%87%91%E8%A3%85%E5%AE%A2%E6%88%B7%E5%B8%AE%E4%B8%88%E5%A4%AB%E7%94%B5%E8%AF%88%23&t=31&band_rank=7&Refer=top)<br />
-8. [网曝大爷大妈跑到水库放生矿泉水](https://s.weibo.com/weibo?q=%23%E7%BD%91%E6%9B%9D%E5%A4%A7%E7%88%B7%E5%A4%A7%E5%A6%88%E8%B7%91%E5%88%B0%E6%B0%B4%E5%BA%93%E6%94%BE%E7%94%9F%E7%9F%BF%E6%B3%89%E6%B0%B4%23&t=31&band_rank=8&Refer=top)<br />
+7. [网曝大爷大妈跑到水库放生矿泉水](https://s.weibo.com/weibo?q=%23%E7%BD%91%E6%9B%9D%E5%A4%A7%E7%88%B7%E5%A4%A7%E5%A6%88%E8%B7%91%E5%88%B0%E6%B0%B4%E5%BA%93%E6%94%BE%E7%94%9F%E7%9F%BF%E6%B3%89%E6%B0%B4%23&t=31&band_rank=7&Refer=top)<br />
+8. [妻子付不起120万赎金装客户帮丈夫电诈](https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E4%BB%98%E4%B8%8D%E8%B5%B7120%E4%B8%87%E8%B5%8E%E9%87%91%E8%A3%85%E5%AE%A2%E6%88%B7%E5%B8%AE%E4%B8%88%E5%A4%AB%E7%94%B5%E8%AF%88%23&t=31&band_rank=8&Refer=top)<br />
 9. [杨洋演的于途vs宋焰](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B4%8B%E6%BC%94%E7%9A%84%E4%BA%8E%E9%80%94vs%E5%AE%8B%E7%84%B0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
