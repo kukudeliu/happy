@@ -1,13 +1,13 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-25 19:58:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-25 19:59:02</h4></div>
 
 > 微博  
 
-1. [任命潘功胜为中国人民银行行长](https://s.weibo.com/weibo?q=%23%E4%BB%BB%E5%91%BD%E6%BD%98%E5%8A%9F%E8%83%9C%E4%B8%BA%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E9%93%B6%E8%A1%8C%E8%A1%8C%E9%95%BF%23&t=31&band_rank=1&Refer=top)<br />
+1. [going seventeen](https://s.weibo.com/weibo?q=going%20seventeen&t=31&band_rank=1&Refer=top)<br />
 2. [幼童三楼坠落一群人张开双臂](https://s.weibo.com/weibo?q=%23%E5%B9%BC%E7%AB%A5%E4%B8%89%E6%A5%BC%E5%9D%A0%E8%90%BD%E4%B8%80%E7%BE%A4%E4%BA%BA%E5%BC%A0%E5%BC%80%E5%8F%8C%E8%87%82%23&t=31&band_rank=2&Refer=top)<br />
 3. [大运会开幕式烟花](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E7%83%9F%E8%8A%B1%23&t=31&band_rank=3&Refer=top)<br />
 4. [王毅任外交部部长](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%AF%85%E4%BB%BB%E5%A4%96%E4%BA%A4%E9%83%A8%E9%83%A8%E9%95%BF%23&t=31&band_rank=4&Refer=top)<br />
 5. [男子隧道摔车公交司机变道为其挡车](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%9A%A7%E9%81%93%E6%91%94%E8%BD%A6%E5%85%AC%E4%BA%A4%E5%8F%B8%E6%9C%BA%E5%8F%98%E9%81%93%E4%B8%BA%E5%85%B6%E6%8C%A1%E8%BD%A6%23&t=31&band_rank=5&Refer=top)<br />
-6. [going seventeen](https://s.weibo.com/weibo?q=going%20seventeen&t=31&band_rank=6&Refer=top)<br />
+6. [任命潘功胜为中国人民银行行长](https://s.weibo.com/weibo?q=%23%E4%BB%BB%E5%91%BD%E6%BD%98%E5%8A%9F%E8%83%9C%E4%B8%BA%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E9%93%B6%E8%A1%8C%E8%A1%8C%E9%95%BF%23&t=31&band_rank=6&Refer=top)<br />
 7. [由外婆带大的励志女孩被清华录取](https://s.weibo.com/weibo?q=%23%E7%94%B1%E5%A4%96%E5%A9%86%E5%B8%A6%E5%A4%A7%E7%9A%84%E5%8A%B1%E5%BF%97%E5%A5%B3%E5%AD%A9%E8%A2%AB%E6%B8%85%E5%8D%8E%E5%BD%95%E5%8F%96%23&t=31&band_rank=7&Refer=top)<br />
 8. [电视剧长相思](https://s.weibo.com/weibo?q=%E7%94%B5%E8%A7%86%E5%89%A7%E9%95%BF%E7%9B%B8%E6%80%9D&t=31&band_rank=8&Refer=top)<br />
 9. [李莲花穿嫁衣](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%8E%B2%E8%8A%B1%E7%A9%BF%E5%AB%81%E8%A1%A3%23&t=31&band_rank=9&Refer=top)<br />
