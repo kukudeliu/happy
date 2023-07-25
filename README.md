@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-25 19:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-25 19:12:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [六公主评追星乱象](https://s.weibo.com/weibo?q=%23%E5%85%AD%E5%85%AC%E4%B8%BB%E8%AF%84%E8%BF%BD%E6%98%9F%E4%B9%B1%E8%B1%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [由外婆带大的励志女孩被清华录取](https://s.weibo.com/weibo?q=%23%E7%94%B1%E5%A4%96%E5%A9%86%E5%B8%A6%E5%A4%A7%E7%9A%84%E5%8A%B1%E5%BF%97%E5%A5%B3%E5%AD%A9%E8%A2%AB%E6%B8%85%E5%8D%8E%E5%BD%95%E5%8F%96%23&t=31&band_rank=7&Refer=top)<br />
 8. [电视剧长相思](https://s.weibo.com/weibo?q=%E7%94%B5%E8%A7%86%E5%89%A7%E9%95%BF%E7%9B%B8%E6%80%9D&t=31&band_rank=8&Refer=top)<br />
-9. [LNG对战WBG](https://s.weibo.com/weibo?q=%23LNG%E5%AF%B9%E6%88%98WBG%23&t=31&band_rank=9&Refer=top)<br />
+9. [瘦了30斤以后侧脸的变化](https://s.weibo.com/weibo?q=%23%E7%98%A6%E4%BA%8630%E6%96%A4%E4%BB%A5%E5%90%8E%E4%BE%A7%E8%84%B8%E7%9A%84%E5%8F%98%E5%8C%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
