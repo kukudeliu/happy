@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-25 23:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-25 23:18:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [罗刹海市](https://s.weibo.com/weibo?q=%E7%BD%97%E5%88%B9%E6%B5%B7%E5%B8%82&t=31&band_rank=6&Refer=top)<br />
 7. [杨紫开始不知道玟小六是小夭](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%BC%80%E5%A7%8B%E4%B8%8D%E7%9F%A5%E9%81%93%E7%8E%9F%E5%B0%8F%E5%85%AD%E6%98%AF%E5%B0%8F%E5%A4%AD%23&t=31&band_rank=7&Refer=top)<br />
 8. [黄锐说释怀了](https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%94%90%E8%AF%B4%E9%87%8A%E6%80%80%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [液断减肥](https://s.weibo.com/weibo?q=%E6%B6%B2%E6%96%AD%E5%87%8F%E8%82%A5&t=31&band_rank=9&Refer=top)<br />
+9. [三亚国产榴莲要来了](https://s.weibo.com/weibo?q=%23%E4%B8%89%E4%BA%9A%E5%9B%BD%E4%BA%A7%E6%A6%B4%E8%8E%B2%E8%A6%81%E6%9D%A5%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
