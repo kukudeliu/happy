@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-25 09:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-25 09:35:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [齐齐哈尔教育局距坍塌体育馆仅49米](https://s.weibo.com/weibo?q=%23%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E6%95%99%E8%82%B2%E5%B1%80%E8%B7%9D%E5%9D%8D%E5%A1%8C%E4%BD%93%E8%82%B2%E9%A6%86%E4%BB%8549%E7%B1%B3%23&t=31&band_rank=5&Refer=top)<br />
 6. [电竞选手叮当猫去世](https://s.weibo.com/weibo?q=%E7%94%B5%E7%AB%9E%E9%80%89%E6%89%8B%E5%8F%AE%E5%BD%93%E7%8C%AB%E5%8E%BB%E4%B8%96&t=31&band_rank=6&Refer=top)<br />
 7. [杨紫在长相思是演男人吗](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%9C%A8%E9%95%BF%E7%9B%B8%E6%80%9D%E6%98%AF%E6%BC%94%E7%94%B7%E4%BA%BA%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
-8. [齐齐哈尔体育馆坍塌事故遇难者身份公布](https://s.weibo.com/weibo?q=%23%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C%E4%BA%8B%E6%95%85%E9%81%87%E9%9A%BE%E8%80%85%E8%BA%AB%E4%BB%BD%E5%85%AC%E5%B8%83%23&t=31&band_rank=8&Refer=top)<br />
+8. [惠若琪要教齐齐哈尔幸存球员打排球](https://s.weibo.com/weibo?q=%23%E6%83%A0%E8%8B%A5%E7%90%AA%E8%A6%81%E6%95%99%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E5%B9%B8%E5%AD%98%E7%90%83%E5%91%98%E6%89%93%E6%8E%92%E7%90%83%23&t=31&band_rank=8&Refer=top)<br />
 9. [电子付款让人对钱没了概念](https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%AD%90%E4%BB%98%E6%AC%BE%E8%AE%A9%E4%BA%BA%E5%AF%B9%E9%92%B1%E6%B2%A1%E4%BA%86%E6%A6%82%E5%BF%B5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
