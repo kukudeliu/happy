@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-25 17:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-25 17:28:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [39岁硕士称找工作因年龄被卡](https://s.weibo.com/weibo?q=%2339%E5%B2%81%E7%A1%95%E5%A3%AB%E7%A7%B0%E6%89%BE%E5%B7%A5%E4%BD%9C%E5%9B%A0%E5%B9%B4%E9%BE%84%E8%A2%AB%E5%8D%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [吴亦凡不服一审提起上诉](https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E4%B8%8D%E6%9C%8D%E4%B8%80%E5%AE%A1%E6%8F%90%E8%B5%B7%E4%B8%8A%E8%AF%89%23&t=31&band_rank=7&Refer=top)<br />
 8. [张小斐说想像林双一样勇敢](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%E8%AF%B4%E6%83%B3%E5%83%8F%E6%9E%97%E5%8F%8C%E4%B8%80%E6%A0%B7%E5%8B%87%E6%95%A2%23&t=31&band_rank=8&Refer=top)<br />
-9. [杨紫工作室再也不皮了](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%86%8D%E4%B9%9F%E4%B8%8D%E7%9A%AE%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [六公主评追星乱象](https://s.weibo.com/weibo?q=%23%E5%85%AD%E5%85%AC%E4%B8%BB%E8%AF%84%E8%BF%BD%E6%98%9F%E4%B9%B1%E8%B1%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
