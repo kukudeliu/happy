@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-25 23:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-25 23:46:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [杨紫开始不知道玟小六是小夭](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%BC%80%E5%A7%8B%E4%B8%8D%E7%9F%A5%E9%81%93%E7%8E%9F%E5%B0%8F%E5%85%AD%E6%98%AF%E5%B0%8F%E5%A4%AD%23&t=31&band_rank=6&Refer=top)<br />
 7. [罗刹海市](https://s.weibo.com/weibo?q=%E7%BD%97%E5%88%B9%E6%B5%B7%E5%B8%82&t=31&band_rank=7&Refer=top)<br />
 8. [长相思](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D&t=31&band_rank=8&Refer=top)<br />
-9. [殡仪馆证实岳阳17岁男子中枪身亡](https://s.weibo.com/weibo?q=%23%E6%AE%A1%E4%BB%AA%E9%A6%86%E8%AF%81%E5%AE%9E%E5%B2%B3%E9%98%B317%E5%B2%81%E7%94%B7%E5%AD%90%E4%B8%AD%E6%9E%AA%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
+9. [孙笑川 感谢大家最近对我的关心](https://s.weibo.com/weibo?q=%E5%AD%99%E7%AC%91%E5%B7%9D%20%E6%84%9F%E8%B0%A2%E5%A4%A7%E5%AE%B6%E6%9C%80%E8%BF%91%E5%AF%B9%E6%88%91%E7%9A%84%E5%85%B3%E5%BF%83&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
