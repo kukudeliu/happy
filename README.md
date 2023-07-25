@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-26 07:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-26 07:43:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [王一博因身体不适将缺席热烈路演](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%9B%A0%E8%BA%AB%E4%BD%93%E4%B8%8D%E9%80%82%E5%B0%86%E7%BC%BA%E5%B8%AD%E7%83%AD%E7%83%88%E8%B7%AF%E6%BC%94%23&t=31&band_rank=5&Refer=top)<br />
 6. [布朗尼遭遇心脏骤停](https://s.weibo.com/weibo?q=%23%E5%B8%83%E6%9C%97%E5%B0%BC%E9%81%AD%E9%81%87%E5%BF%83%E8%84%8F%E9%AA%A4%E5%81%9C%23&t=31&band_rank=6&Refer=top)<br />
 7. [长相思](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D&t=31&band_rank=7&Refer=top)<br />
-8. [男孩玩手机被奶奶说一气之下欲轻生](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E7%8E%A9%E6%89%8B%E6%9C%BA%E8%A2%AB%E5%A5%B6%E5%A5%B6%E8%AF%B4%E4%B8%80%E6%B0%94%E4%B9%8B%E4%B8%8B%E6%AC%B2%E8%BD%BB%E7%94%9F%23&t=31&band_rank=8&Refer=top)<br />
-9. [周深说9年后又多了一个周深深](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E8%AF%B49%E5%B9%B4%E5%90%8E%E5%8F%88%E5%A4%9A%E4%BA%86%E4%B8%80%E4%B8%AA%E5%91%A8%E6%B7%B1%E6%B7%B1%23&t=31&band_rank=9&Refer=top)<br />
+8. [周深说9年后又多了一个周深深](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E8%AF%B49%E5%B9%B4%E5%90%8E%E5%8F%88%E5%A4%9A%E4%BA%86%E4%B8%80%E4%B8%AA%E5%91%A8%E6%B7%B1%E6%B7%B1%23&t=31&band_rank=8&Refer=top)<br />
+9. [男孩玩手机被奶奶说一气之下欲轻生](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E7%8E%A9%E6%89%8B%E6%9C%BA%E8%A2%AB%E5%A5%B6%E5%A5%B6%E8%AF%B4%E4%B8%80%E6%B0%94%E4%B9%8B%E4%B8%8B%E6%AC%B2%E8%BD%BB%E7%94%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
