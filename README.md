@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-25 14:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-25 15:00:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [罗云熙吴倩演张晚意爸妈](https://s.weibo.com/weibo?q=%23%E7%BD%97%E4%BA%91%E7%86%99%E5%90%B4%E5%80%A9%E6%BC%94%E5%BC%A0%E6%99%9A%E6%84%8F%E7%88%B8%E5%A6%88%23&t=31&band_rank=6&Refer=top)<br />
 7. [刀郎新歌被指内涵四位明星](https://s.weibo.com/weibo?q=%23%E5%88%80%E9%83%8E%E6%96%B0%E6%AD%8C%E8%A2%AB%E6%8C%87%E5%86%85%E6%B6%B5%E5%9B%9B%E4%BD%8D%E6%98%8E%E6%98%9F%23&t=31&band_rank=7&Refer=top)<br />
 8. [断崖式变丑](https://s.weibo.com/weibo?q=%23%E6%96%AD%E5%B4%96%E5%BC%8F%E5%8F%98%E4%B8%91%23&t=31&band_rank=8&Refer=top)<br />
-9. [吴亦凡经纪公司涉多起代言纠纷](https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E7%BB%8F%E7%BA%AA%E5%85%AC%E5%8F%B8%E6%B6%89%E5%A4%9A%E8%B5%B7%E4%BB%A3%E8%A8%80%E7%BA%A0%E7%BA%B7%23&t=31&band_rank=9&Refer=top)<br />
+9. [杨紫工作室再也不皮了](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%86%8D%E4%B9%9F%E4%B8%8D%E7%9A%AE%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
