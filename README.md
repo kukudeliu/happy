@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-26 04:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-26 04:53:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [孩子只考8分 家长怒怼校方](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E5%8F%AA%E8%80%838%E5%88%86+%E5%AE%B6%E9%95%BF%E6%80%92%E6%80%BC%E6%A0%A1%E6%96%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [殡仪馆证实岳阳17岁男子中枪身亡](https://www.baidu.com/s?wd=%E6%AE%A1%E4%BB%AA%E9%A6%86%E8%AF%81%E5%AE%9E%E5%B2%B3%E9%98%B317%E5%B2%81%E7%94%B7%E5%AD%90%E4%B8%AD%E6%9E%AA%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子悬崖旁求婚后女友不慎坠亡](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%82%AC%E5%B4%96%E6%97%81%E6%B1%82%E5%A9%9A%E5%90%8E%E5%A5%B3%E5%8F%8B%E4%B8%8D%E6%85%8E%E5%9D%A0%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [父亲回应3岁女儿坐高铁10小时不哭闹](https://www.baidu.com/s?wd=%E7%88%B6%E4%BA%B2%E5%9B%9E%E5%BA%943%E5%B2%81%E5%A5%B3%E5%84%BF%E5%9D%90%E9%AB%98%E9%93%8110%E5%B0%8F%E6%97%B6%E4%B8%8D%E5%93%AD%E9%97%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [冯提莫患甲状腺癌 它到底是什么病](https://www.baidu.com/s?wd=%E5%86%AF%E6%8F%90%E8%8E%AB%E6%82%A3%E7%94%B2%E7%8A%B6%E8%85%BA%E7%99%8C+%E5%AE%83%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E4%B9%88%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [孩子只考8分 家长怒怼校方](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E5%8F%AA%E8%80%838%E5%88%86+%E5%AE%B6%E9%95%BF%E6%80%92%E6%80%BC%E6%A0%A1%E6%96%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [殡仪馆证实岳阳17岁男子中枪身亡](https://www.baidu.com/s?wd=%E6%AE%A1%E4%BB%AA%E9%A6%86%E8%AF%81%E5%AE%9E%E5%B2%B3%E9%98%B317%E5%B2%81%E7%94%B7%E5%AD%90%E4%B8%AD%E6%9E%AA%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子悬崖旁求婚后女友不慎坠亡](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%82%AC%E5%B4%96%E6%97%81%E6%B1%82%E5%A9%9A%E5%90%8E%E5%A5%B3%E5%8F%8B%E4%B8%8D%E6%85%8E%E5%9D%A0%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [父亲回应3岁女儿坐高铁10小时不哭闹](https://www.baidu.com/s?wd=%E7%88%B6%E4%BA%B2%E5%9B%9E%E5%BA%943%E5%B2%81%E5%A5%B3%E5%84%BF%E5%9D%90%E9%AB%98%E9%93%8110%E5%B0%8F%E6%97%B6%E4%B8%8D%E5%93%AD%E9%97%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [冯提莫患甲状腺癌 它到底是什么病](https://www.baidu.com/s?wd=%E5%86%AF%E6%8F%90%E8%8E%AB%E6%82%A3%E7%94%B2%E7%8A%B6%E8%85%BA%E7%99%8C+%E5%AE%83%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E4%B9%88%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
