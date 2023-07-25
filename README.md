@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-25 08:48:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-25 08:49:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [电竞选手叮当猫去世](https://www.baidu.com/s?wd=%E7%94%B5%E7%AB%9E%E9%80%89%E6%89%8B%E5%8F%AE%E5%BD%93%E7%8C%AB%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [父亲回应3岁女儿坐高铁10小时不哭闹](https://www.baidu.com/s?wd=%E7%88%B6%E4%BA%B2%E5%9B%9E%E5%BA%943%E5%B2%81%E5%A5%B3%E5%84%BF%E5%9D%90%E9%AB%98%E9%93%8110%E5%B0%8F%E6%97%B6%E4%B8%8D%E5%93%AD%E9%97%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [乌克兰或需757年才能完成全境排雷](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%96%E9%9C%80757%E5%B9%B4%E6%89%8D%E8%83%BD%E5%AE%8C%E6%88%90%E5%85%A8%E5%A2%83%E6%8E%92%E9%9B%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [刀郎曾回应过网传那英言论](https://www.baidu.com/s?wd=%E5%88%80%E9%83%8E%E6%9B%BE%E5%9B%9E%E5%BA%94%E8%BF%87%E7%BD%91%E4%BC%A0%E9%82%A3%E8%8B%B1%E8%A8%80%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [体育馆坍塌事故11名遇难者身份公布](https://www.baidu.com/s?wd=%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C%E4%BA%8B%E6%95%8511%E5%90%8D%E9%81%87%E9%9A%BE%E8%80%85%E8%BA%AB%E4%BB%BD%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [电竞选手叮当猫去世](https://www.baidu.com/s?wd=%E7%94%B5%E7%AB%9E%E9%80%89%E6%89%8B%E5%8F%AE%E5%BD%93%E7%8C%AB%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [父亲回应3岁女儿坐高铁10小时不哭闹](https://www.baidu.com/s?wd=%E7%88%B6%E4%BA%B2%E5%9B%9E%E5%BA%943%E5%B2%81%E5%A5%B3%E5%84%BF%E5%9D%90%E9%AB%98%E9%93%8110%E5%B0%8F%E6%97%B6%E4%B8%8D%E5%93%AD%E9%97%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [乌克兰或需757年才能完成全境排雷](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%96%E9%9C%80757%E5%B9%B4%E6%89%8D%E8%83%BD%E5%AE%8C%E6%88%90%E5%85%A8%E5%A2%83%E6%8E%92%E9%9B%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [刀郎曾回应过网传那英言论](https://www.baidu.com/s?wd=%E5%88%80%E9%83%8E%E6%9B%BE%E5%9B%9E%E5%BA%94%E8%BF%87%E7%BD%91%E4%BC%A0%E9%82%A3%E8%8B%B1%E8%A8%80%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [体育馆坍塌事故11名遇难者身份公布](https://www.baidu.com/s?wd=%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C%E4%BA%8B%E6%95%8511%E5%90%8D%E9%81%87%E9%9A%BE%E8%80%85%E8%BA%AB%E4%BB%BD%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
