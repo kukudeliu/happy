@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-25 20:52:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-25 20:53:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [吴亦凡二审通知了加拿大驻华使馆](https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E4%BA%8C%E5%AE%A1%E9%80%9A%E7%9F%A5%E4%BA%86%E5%8A%A0%E6%8B%BF%E5%A4%A7%E9%A9%BB%E5%8D%8E%E4%BD%BF%E9%A6%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [TFBOYS官博倡议演唱会不应援](https://s.weibo.com/weibo?q=%23TFBOYS%E5%AE%98%E5%8D%9A%E5%80%A1%E8%AE%AE%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8D%E5%BA%94%E6%8F%B4%23&t=31&band_rank=7&Refer=top)<br />
 8. [齐齐哈尔遇难女孩母亲街头痛哭](https://s.weibo.com/weibo?q=%23%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E9%81%87%E9%9A%BE%E5%A5%B3%E5%AD%A9%E6%AF%8D%E4%BA%B2%E8%A1%97%E5%A4%B4%E7%97%9B%E5%93%AD%23&t=31&band_rank=8&Refer=top)<br />
-9. [内娱现偶出圈角色](https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E7%8E%B0%E5%81%B6%E5%87%BA%E5%9C%88%E8%A7%92%E8%89%B2%23&t=31&band_rank=9&Refer=top)<br />
+9. [十七看到小六脖子上的咬痕的反应](https://s.weibo.com/weibo?q=%23%E5%8D%81%E4%B8%83%E7%9C%8B%E5%88%B0%E5%B0%8F%E5%85%AD%E8%84%96%E5%AD%90%E4%B8%8A%E7%9A%84%E5%92%AC%E7%97%95%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
