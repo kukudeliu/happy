@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-25 08:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-25 08:27:01</h4></div>
 
 > 微博  
 
-1. [瑞幸咖啡三分之二是冰块两口喝完](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%E5%92%96%E5%95%A1%E4%B8%89%E5%88%86%E4%B9%8B%E4%BA%8C%E6%98%AF%E5%86%B0%E5%9D%97%E4%B8%A4%E5%8F%A3%E5%96%9D%E5%AE%8C%23&t=31&band_rank=1&Refer=top)<br />
-2. [电竞选手叮当猫去世](https://s.weibo.com/weibo?q=%E7%94%B5%E7%AB%9E%E9%80%89%E6%89%8B%E5%8F%AE%E5%BD%93%E7%8C%AB%E5%8E%BB%E4%B8%96&t=31&band_rank=2&Refer=top)<br />
+1. [电竞选手叮当猫去世](https://s.weibo.com/weibo?q=%E7%94%B5%E7%AB%9E%E9%80%89%E6%89%8B%E5%8F%AE%E5%BD%93%E7%8C%AB%E5%8E%BB%E4%B8%96&t=31&band_rank=1&Refer=top)<br />
+2. [瑞幸咖啡三分之二是冰块两口喝完](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%E5%92%96%E5%95%A1%E4%B8%89%E5%88%86%E4%B9%8B%E4%BA%8C%E6%98%AF%E5%86%B0%E5%9D%97%E4%B8%A4%E5%8F%A3%E5%96%9D%E5%AE%8C%23&t=31&band_rank=2&Refer=top)<br />
 3. [空军航空开放活动预演现场](https://s.weibo.com/weibo?q=%23%E7%A9%BA%E5%86%9B%E8%88%AA%E7%A9%BA%E5%BC%80%E6%94%BE%E6%B4%BB%E5%8A%A8%E9%A2%84%E6%BC%94%E7%8E%B0%E5%9C%BA%23&t=31&band_rank=3&Refer=top)<br />
 4. [伊能静科普三伏天适合瘦身](https://s.weibo.com/weibo?q=%23%E4%BC%8A%E8%83%BD%E9%9D%99%E7%A7%91%E6%99%AE%E4%B8%89%E4%BC%8F%E5%A4%A9%E9%80%82%E5%90%88%E7%98%A6%E8%BA%AB%23&t=31&band_rank=4&Refer=top)<br />
 5. [我最好的朋友全走了](https://s.weibo.com/weibo?q=%E6%88%91%E6%9C%80%E5%A5%BD%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%85%A8%E8%B5%B0%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
