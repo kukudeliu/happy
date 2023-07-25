@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-25 23:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-25 23:37:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [感受成都大运会科技与文化交融之美](https://s.weibo.com/weibo?q=%23%E6%84%9F%E5%8F%97%E6%88%90%E9%83%BD%E5%A4%A7%E8%BF%90%E4%BC%9A%E7%A7%91%E6%8A%80%E4%B8%8E%E6%96%87%E5%8C%96%E4%BA%A4%E8%9E%8D%E4%B9%8B%E7%BE%8E%23&t=31&band_rank=3&Refer=top)<br />
 4. [叶十七 男绿茶](https://s.weibo.com/weibo?q=%E5%8F%B6%E5%8D%81%E4%B8%83%20%E7%94%B7%E7%BB%BF%E8%8C%B6&t=31&band_rank=4&Refer=top)<br />
 5. [肯德基回应男子吃出生牛蛙](https://s.weibo.com/weibo?q=%23%E8%82%AF%E5%BE%B7%E5%9F%BA%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%90%E5%90%83%E5%87%BA%E7%94%9F%E7%89%9B%E8%9B%99%23&t=31&band_rank=5&Refer=top)<br />
-6. [殡仪馆证实岳阳17岁男子中枪身亡](https://s.weibo.com/weibo?q=%23%E6%AE%A1%E4%BB%AA%E9%A6%86%E8%AF%81%E5%AE%9E%E5%B2%B3%E9%98%B317%E5%B2%81%E7%94%B7%E5%AD%90%E4%B8%AD%E6%9E%AA%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=6&Refer=top)<br />
-7. [杨紫开始不知道玟小六是小夭](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%BC%80%E5%A7%8B%E4%B8%8D%E7%9F%A5%E9%81%93%E7%8E%9F%E5%B0%8F%E5%85%AD%E6%98%AF%E5%B0%8F%E5%A4%AD%23&t=31&band_rank=7&Refer=top)<br />
+6. [杨紫开始不知道玟小六是小夭](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%BC%80%E5%A7%8B%E4%B8%8D%E7%9F%A5%E9%81%93%E7%8E%9F%E5%B0%8F%E5%85%AD%E6%98%AF%E5%B0%8F%E5%A4%AD%23&t=31&band_rank=6&Refer=top)<br />
+7. [殡仪馆证实岳阳17岁男子中枪身亡](https://s.weibo.com/weibo?q=%23%E6%AE%A1%E4%BB%AA%E9%A6%86%E8%AF%81%E5%AE%9E%E5%B2%B3%E9%98%B317%E5%B2%81%E7%94%B7%E5%AD%90%E4%B8%AD%E6%9E%AA%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=7&Refer=top)<br />
 8. [罗刹海市](https://s.weibo.com/weibo?q=%E7%BD%97%E5%88%B9%E6%B5%B7%E5%B8%82&t=31&band_rank=8&Refer=top)<br />
 9. [有没有人心疼宋焰舅妈啊](https://s.weibo.com/weibo?q=%23%E6%9C%89%E6%B2%A1%E6%9C%89%E4%BA%BA%E5%BF%83%E7%96%BC%E5%AE%8B%E7%84%B0%E8%88%85%E5%A6%88%E5%95%8A%23&t=31&band_rank=9&Refer=top)<br />
 
