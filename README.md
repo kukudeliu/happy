@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-26 05:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-26 05:26:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [妈妈回家故意敲门3岁男童装没听到](https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E5%9B%9E%E5%AE%B6%E6%95%85%E6%84%8F%E6%95%B2%E9%97%A83%E5%B2%81%E7%94%B7%E7%AB%A5%E8%A3%85%E6%B2%A1%E5%90%AC%E5%88%B0%23&t=31&band_rank=5&Refer=top)<br />
 6. [尊重观众的女扮男装](https://s.weibo.com/weibo?q=%E5%B0%8A%E9%87%8D%E8%A7%82%E4%BC%97%E7%9A%84%E5%A5%B3%E6%89%AE%E7%94%B7%E8%A3%85&t=31&band_rank=6&Refer=top)<br />
 7. [布朗尼遭遇心脏骤停](https://s.weibo.com/weibo?q=%23%E5%B8%83%E6%9C%97%E5%B0%BC%E9%81%AD%E9%81%87%E5%BF%83%E8%84%8F%E9%AA%A4%E5%81%9C%23&t=31&band_rank=7&Refer=top)<br />
-8. [TFBOYS官博倡议演唱会不应援](https://s.weibo.com/weibo?q=%23TFBOYS%E5%AE%98%E5%8D%9A%E5%80%A1%E8%AE%AE%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8D%E5%BA%94%E6%8F%B4%23&t=31&band_rank=8&Refer=top)<br />
-9. [叶十七 男绿茶](https://s.weibo.com/weibo?q=%E5%8F%B6%E5%8D%81%E4%B8%83%20%E7%94%B7%E7%BB%BF%E8%8C%B6&t=31&band_rank=9&Refer=top)<br />
+8. [男孩玩手机被奶奶说一气之下欲轻生](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E7%8E%A9%E6%89%8B%E6%9C%BA%E8%A2%AB%E5%A5%B6%E5%A5%B6%E8%AF%B4%E4%B8%80%E6%B0%94%E4%B9%8B%E4%B8%8B%E6%AC%B2%E8%BD%BB%E7%94%9F%23&t=31&band_rank=8&Refer=top)<br />
+9. [TFBOYS官博倡议演唱会不应援](https://s.weibo.com/weibo?q=%23TFBOYS%E5%AE%98%E5%8D%9A%E5%80%A1%E8%AE%AE%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8D%E5%BA%94%E6%8F%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -25,7 +25,7 @@
 6. [黄牛透露手中演唱会票源于主办方](https://www.baidu.com/s?wd=%E9%BB%84%E7%89%9B%E9%80%8F%E9%9C%B2%E6%89%8B%E4%B8%AD%E6%BC%94%E5%94%B1%E4%BC%9A%E7%A5%A8%E6%BA%90%E4%BA%8E%E4%B8%BB%E5%8A%9E%E6%96%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [报告：北京平均月薪18976元全国最高](https://www.baidu.com/s?wd=%E6%8A%A5%E5%91%8A%EF%BC%9A%E5%8C%97%E4%BA%AC%E5%B9%B3%E5%9D%87%E6%9C%88%E8%96%AA18976%E5%85%83%E5%85%A8%E5%9B%BD%E6%9C%80%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女子买蜜雪冰城接连3杯都有虫](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B9%B0%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E6%8E%A5%E8%BF%9E3%E6%9D%AF%E9%83%BD%E6%9C%89%E8%99%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [杭州市委原书记周江勇一审被判死缓](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%B8%82%E5%A7%94%E5%8E%9F%E4%B9%A6%E8%AE%B0%E5%91%A8%E6%B1%9F%E5%8B%87%E4%B8%80%E5%AE%A1%E8%A2%AB%E5%88%A4%E6%AD%BB%E7%BC%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [殡仪馆证实岳阳17岁男子中枪身亡](https://www.baidu.com/s?wd=%E6%AE%A1%E4%BB%AA%E9%A6%86%E8%AF%81%E5%AE%9E%E5%B2%B3%E9%98%B317%E5%B2%81%E7%94%B7%E5%AD%90%E4%B8%AD%E6%9E%AA%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [黄牛透露手中演唱会票源于主办方](https://www.baidu.com/s?wd=%E9%BB%84%E7%89%9B%E9%80%8F%E9%9C%B2%E6%89%8B%E4%B8%AD%E6%BC%94%E5%94%B1%E4%BC%9A%E7%A5%A8%E6%BA%90%E4%BA%8E%E4%B8%BB%E5%8A%9E%E6%96%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [报告：北京平均月薪18976元全国最高](https://www.baidu.com/s?wd=%E6%8A%A5%E5%91%8A%EF%BC%9A%E5%8C%97%E4%BA%AC%E5%B9%B3%E5%9D%87%E6%9C%88%E8%96%AA18976%E5%85%83%E5%85%A8%E5%9B%BD%E6%9C%80%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女子买蜜雪冰城接连3杯都有虫](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B9%B0%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E6%8E%A5%E8%BF%9E3%E6%9D%AF%E9%83%BD%E6%9C%89%E8%99%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [杭州市委原书记周江勇一审被判死缓](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%B8%82%E5%A7%94%E5%8E%9F%E4%B9%A6%E8%AE%B0%E5%91%A8%E6%B1%9F%E5%8B%87%E4%B8%80%E5%AE%A1%E8%A2%AB%E5%88%A4%E6%AD%BB%E7%BC%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [殡仪馆证实岳阳17岁男子中枪身亡](https://www.baidu.com/s?wd=%E6%AE%A1%E4%BB%AA%E9%A6%86%E8%AF%81%E5%AE%9E%E5%B2%B3%E9%98%B317%E5%B2%81%E7%94%B7%E5%AD%90%E4%B8%AD%E6%9E%AA%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
