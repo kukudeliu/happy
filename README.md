@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-25 22:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-25 22:06:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [王毅任外交部部长](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%AF%85%E4%BB%BB%E5%A4%96%E4%BA%A4%E9%83%A8%E9%83%A8%E9%95%BF%23&t=31&band_rank=4&Refer=top)<br />
 5. [WBG心态](https://s.weibo.com/weibo?q=%23WBG%E5%BF%83%E6%80%81%23&t=31&band_rank=5&Refer=top)<br />
 6. [LNG对战WBG](https://s.weibo.com/weibo?q=%23LNG%E5%AF%B9%E6%88%98WBG%23&t=31&band_rank=6&Refer=top)<br />
-7. [吴亦凡二审通知了加拿大驻华使馆](https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E4%BA%8C%E5%AE%A1%E9%80%9A%E7%9F%A5%E4%BA%86%E5%8A%A0%E6%8B%BF%E5%A4%A7%E9%A9%BB%E5%8D%8E%E4%BD%BF%E9%A6%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [电视剧长相思](https://s.weibo.com/weibo?q=%E7%94%B5%E8%A7%86%E5%89%A7%E9%95%BF%E7%9B%B8%E6%80%9D&t=31&band_rank=8&Refer=top)<br />
-9. [内娱现偶出圈角色](https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E7%8E%B0%E5%81%B6%E5%87%BA%E5%9C%88%E8%A7%92%E8%89%B2%23&t=31&band_rank=9&Refer=top)<br />
+7. [黄锐说释怀了](https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%94%90%E8%AF%B4%E9%87%8A%E6%80%80%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+8. [吴亦凡二审通知了加拿大驻华使馆](https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E4%BA%8C%E5%AE%A1%E9%80%9A%E7%9F%A5%E4%BA%86%E5%8A%A0%E6%8B%BF%E5%A4%A7%E9%A9%BB%E5%8D%8E%E4%BD%BF%E9%A6%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [电视剧长相思](https://s.weibo.com/weibo?q=%E7%94%B5%E8%A7%86%E5%89%A7%E9%95%BF%E7%9B%B8%E6%80%9D&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
