@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-25 10:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-25 10:18:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [电竞选手叮当猫去世](https://s.weibo.com/weibo?q=%E7%94%B5%E7%AB%9E%E9%80%89%E6%89%8B%E5%8F%AE%E5%BD%93%E7%8C%AB%E5%8E%BB%E4%B8%96&t=31&band_rank=6&Refer=top)<br />
 7. [齐齐哈尔教育局距坍塌体育馆仅49米](https://s.weibo.com/weibo?q=%23%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E6%95%99%E8%82%B2%E5%B1%80%E8%B7%9D%E5%9D%8D%E5%A1%8C%E4%BD%93%E8%82%B2%E9%A6%86%E4%BB%8549%E7%B1%B3%23&t=31&band_rank=7&Refer=top)<br />
 8. [电子付款让人对钱没了概念](https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%AD%90%E4%BB%98%E6%AC%BE%E8%AE%A9%E4%BA%BA%E5%AF%B9%E9%92%B1%E6%B2%A1%E4%BA%86%E6%A6%82%E5%BF%B5%23&t=31&band_rank=8&Refer=top)<br />
-9. [包丽案二审宣判](https://s.weibo.com/weibo?q=%23%E5%8C%85%E4%B8%BD%E6%A1%88%E4%BA%8C%E5%AE%A1%E5%AE%A3%E5%88%A4%23&t=31&band_rank=9&Refer=top)<br />
+9. [魏大勋到底背着我们接了多少私活](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E5%88%B0%E5%BA%95%E8%83%8C%E7%9D%80%E6%88%91%E4%BB%AC%E6%8E%A5%E4%BA%86%E5%A4%9A%E5%B0%91%E7%A7%81%E6%B4%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
