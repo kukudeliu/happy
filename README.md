@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-25 11:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-25 11:48:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [迪丽热巴火焰裙](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%81%AB%E7%84%B0%E8%A3%99%23&t=31&band_rank=5&Refer=top)<br />
 6. [女子在南京地铁车厢喝水被开罚单](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9C%A8%E5%8D%97%E4%BA%AC%E5%9C%B0%E9%93%81%E8%BD%A6%E5%8E%A2%E5%96%9D%E6%B0%B4%E8%A2%AB%E5%BC%80%E7%BD%9A%E5%8D%95%23&t=31&band_rank=6&Refer=top)<br />
 7. [狗狗的牙齿竟然是小手套形状](https://s.weibo.com/weibo?q=%23%E7%8B%97%E7%8B%97%E7%9A%84%E7%89%99%E9%BD%BF%E7%AB%9F%E7%84%B6%E6%98%AF%E5%B0%8F%E6%89%8B%E5%A5%97%E5%BD%A2%E7%8A%B6%23&t=31&band_rank=7&Refer=top)<br />
-8. [我的人间烟火评分降到3.8分](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E4%BA%BA%E9%97%B4%E7%83%9F%E7%81%AB%E8%AF%84%E5%88%86%E9%99%8D%E5%88%B03.8%E5%88%86%23&t=31&band_rank=8&Refer=top)<br />
+8. [魏大勋也很想留住这批观众吧](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E4%B9%9F%E5%BE%88%E6%83%B3%E7%95%99%E4%BD%8F%E8%BF%99%E6%89%B9%E8%A7%82%E4%BC%97%E5%90%A7%23&t=31&band_rank=8&Refer=top)<br />
 9. [电竞选手叮当猫去世](https://s.weibo.com/weibo?q=%E7%94%B5%E7%AB%9E%E9%80%89%E6%89%8B%E5%8F%AE%E5%BD%93%E7%8C%AB%E5%8E%BB%E4%B8%96&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
