@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-25 19:27:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-25 19:28:02</h4></div>
 
 > 微博  
 
@@ -21,7 +21,7 @@
 2. [秦刚被免去外交部部长职务](https://www.baidu.com/s?wd=%E7%A7%A6%E5%88%9A%E8%A2%AB%E5%85%8D%E5%8E%BB%E5%A4%96%E4%BA%A4%E9%83%A8%E9%83%A8%E9%95%BF%E8%81%8C%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [王毅任外交部部长](https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E4%BB%BB%E5%A4%96%E4%BA%A4%E9%83%A8%E9%83%A8%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [成都大运会来了](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E5%A4%A7%E8%BF%90%E4%BC%9A%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [加油站汽油泄露 员工用身体堵住](https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%B9%E7%AB%99%E6%B1%BD%E6%B2%B9%E6%B3%84%E9%9C%B2+%E5%91%98%E5%B7%A5%E7%94%A8%E8%BA%AB%E4%BD%93%E5%A0%B5%E4%BD%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [潘功胜任中国人民银行行长](https://www.baidu.com/s?wd=%E6%BD%98%E5%8A%9F%E8%83%9C%E4%BB%BB%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E9%93%B6%E8%A1%8C%E8%A1%8C%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子悬崖旁求婚后女友不慎坠亡](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%82%AC%E5%B4%96%E6%97%81%E6%B1%82%E5%A9%9A%E5%90%8E%E5%A5%B3%E5%8F%8B%E4%B8%8D%E6%85%8E%E5%9D%A0%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子买蜜雪冰城接连3杯都有虫](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B9%B0%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E6%8E%A5%E8%BF%9E3%E6%9D%AF%E9%83%BD%E6%9C%89%E8%99%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#好莱坞大片失灵了吗#](https://www.baidu.com/s?wd=%23%E5%A5%BD%E8%8E%B1%E5%9D%9E%E5%A4%A7%E7%89%87%E5%A4%B1%E7%81%B5%E4%BA%86%E5%90%97%23&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -33,7 +33,7 @@
 2. [秦刚被免去外交部部长职务](https://www.baidu.com/s?wd=%E7%A7%A6%E5%88%9A%E8%A2%AB%E5%85%8D%E5%8E%BB%E5%A4%96%E4%BA%A4%E9%83%A8%E9%83%A8%E9%95%BF%E8%81%8C%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [王毅任外交部部长](https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E4%BB%BB%E5%A4%96%E4%BA%A4%E9%83%A8%E9%83%A8%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [成都大运会来了](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E5%A4%A7%E8%BF%90%E4%BC%9A%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [加油站汽油泄露 员工用身体堵住](https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%B9%E7%AB%99%E6%B1%BD%E6%B2%B9%E6%B3%84%E9%9C%B2+%E5%91%98%E5%B7%A5%E7%94%A8%E8%BA%AB%E4%BD%93%E5%A0%B5%E4%BD%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [潘功胜任中国人民银行行长](https://www.baidu.com/s?wd=%E6%BD%98%E5%8A%9F%E8%83%9C%E4%BB%BB%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E9%93%B6%E8%A1%8C%E8%A1%8C%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子悬崖旁求婚后女友不慎坠亡](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%82%AC%E5%B4%96%E6%97%81%E6%B1%82%E5%A9%9A%E5%90%8E%E5%A5%B3%E5%8F%8B%E4%B8%8D%E6%85%8E%E5%9D%A0%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子买蜜雪冰城接连3杯都有虫](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B9%B0%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E6%8E%A5%E8%BF%9E3%E6%9D%AF%E9%83%BD%E6%9C%89%E8%99%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#好莱坞大片失灵了吗#](https://www.baidu.com/s?wd=%23%E5%A5%BD%E8%8E%B1%E5%9D%9E%E5%A4%A7%E7%89%87%E5%A4%B1%E7%81%B5%E4%BA%86%E5%90%97%23&sa=fyb_news&rsv_dl=fyb_news)<br />
