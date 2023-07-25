@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-25 20:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-25 20:46:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [吴亦凡二审通知了加拿大驻华使馆](https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E4%BA%8C%E5%AE%A1%E9%80%9A%E7%9F%A5%E4%BA%86%E5%8A%A0%E6%8B%BF%E5%A4%A7%E9%A9%BB%E5%8D%8E%E4%BD%BF%E9%A6%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [肠癌患者手术失败死亡尸检未见肠癌](https://s.weibo.com/weibo?q=%23%E8%82%A0%E7%99%8C%E6%82%A3%E8%80%85%E6%89%8B%E6%9C%AF%E5%A4%B1%E8%B4%A5%E6%AD%BB%E4%BA%A1%E5%B0%B8%E6%A3%80%E6%9C%AA%E8%A7%81%E8%82%A0%E7%99%8C%23&t=31&band_rank=7&Refer=top)<br />
 8. [徐嘉余100仰第四](https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%98%89%E4%BD%99100%E4%BB%B0%E7%AC%AC%E5%9B%9B%23&t=31&band_rank=8&Refer=top)<br />
-9. [going seventeen](https://s.weibo.com/weibo?q=going%20seventeen&t=31&band_rank=9&Refer=top)<br />
+9. [TFBOYS官博倡议演唱会不应援](https://s.weibo.com/weibo?q=%23TFBOYS%E5%AE%98%E5%8D%9A%E5%80%A1%E8%AE%AE%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8D%E5%BA%94%E6%8F%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
