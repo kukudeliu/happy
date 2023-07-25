@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-26 06:44:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-26 06:45:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [长相思](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D&t=31&band_rank=6&Refer=top)<br />
 7. [男孩玩手机被奶奶说一气之下欲轻生](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E7%8E%A9%E6%89%8B%E6%9C%BA%E8%A2%AB%E5%A5%B6%E5%A5%B6%E8%AF%B4%E4%B8%80%E6%B0%94%E4%B9%8B%E4%B8%8B%E6%AC%B2%E8%BD%BB%E7%94%9F%23&t=31&band_rank=7&Refer=top)<br />
 8. [布朗尼遭遇心脏骤停](https://s.weibo.com/weibo?q=%23%E5%B8%83%E6%9C%97%E5%B0%BC%E9%81%AD%E9%81%87%E5%BF%83%E8%84%8F%E9%AA%A4%E5%81%9C%23&t=31&band_rank=8&Refer=top)<br />
-9. [叶十七 男绿茶](https://s.weibo.com/weibo?q=%E5%8F%B6%E5%8D%81%E4%B8%83%20%E7%94%B7%E7%BB%BF%E8%8C%B6&t=31&band_rank=9&Refer=top)<br />
+9. [肯德基回应男子吃出生牛蛙](https://s.weibo.com/weibo?q=%23%E8%82%AF%E5%BE%B7%E5%9F%BA%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%90%E5%90%83%E5%87%BA%E7%94%9F%E7%89%9B%E8%9B%99%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
