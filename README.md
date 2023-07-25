@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-25 11:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-25 11:02:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [感受一下西藏的物价](https://s.weibo.com/weibo?q=%23%E6%84%9F%E5%8F%97%E4%B8%80%E4%B8%8B%E8%A5%BF%E8%97%8F%E7%9A%84%E7%89%A9%E4%BB%B7%23&t=31&band_rank=5&Refer=top)<br />
 6. [电竞选手叮当猫去世](https://s.weibo.com/weibo?q=%E7%94%B5%E7%AB%9E%E9%80%89%E6%89%8B%E5%8F%AE%E5%BD%93%E7%8C%AB%E5%8E%BB%E4%B8%96&t=31&band_rank=6&Refer=top)<br />
 7. [我的人间烟火评分降到3.8分](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E4%BA%BA%E9%97%B4%E7%83%9F%E7%81%AB%E8%AF%84%E5%88%86%E9%99%8D%E5%88%B03.8%E5%88%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [杨紫在长相思是演男人吗](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%9C%A8%E9%95%BF%E7%9B%B8%E6%80%9D%E6%98%AF%E6%BC%94%E7%94%B7%E4%BA%BA%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
+8. [迪丽热巴火焰裙](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%81%AB%E7%84%B0%E8%A3%99%23&t=31&band_rank=8&Refer=top)<br />
 9. [瑞幸咖啡三分之二是冰块两口喝完](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%E5%92%96%E5%95%A1%E4%B8%89%E5%88%86%E4%B9%8B%E4%BA%8C%E6%98%AF%E5%86%B0%E5%9D%97%E4%B8%A4%E5%8F%A3%E5%96%9D%E5%AE%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
