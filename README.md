@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-25 22:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-25 22:33:02</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [感受成都大运会科技与文化交融之美](https://s.weibo.com/weibo?q=%23%E6%84%9F%E5%8F%97%E6%88%90%E9%83%BD%E5%A4%A7%E8%BF%90%E4%BC%9A%E7%A7%91%E6%8A%80%E4%B8%8E%E6%96%87%E5%8C%96%E4%BA%A4%E8%9E%8D%E4%B9%8B%E7%BE%8E%23&t=31&band_rank=3&Refer=top)<br />
 4. [黄锐说释怀了](https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%94%90%E8%AF%B4%E9%87%8A%E6%80%80%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [十七看到小六脖子上的咬痕的反应](https://s.weibo.com/weibo?q=%23%E5%8D%81%E4%B8%83%E7%9C%8B%E5%88%B0%E5%B0%8F%E5%85%AD%E8%84%96%E5%AD%90%E4%B8%8A%E7%9A%84%E5%92%AC%E7%97%95%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=5&Refer=top)<br />
-6. [王毅任外交部部长](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%AF%85%E4%BB%BB%E5%A4%96%E4%BA%A4%E9%83%A8%E9%83%A8%E9%95%BF%23&t=31&band_rank=6&Refer=top)<br />
-7. [液断减肥](https://s.weibo.com/weibo?q=%E6%B6%B2%E6%96%AD%E5%87%8F%E8%82%A5&t=31&band_rank=7&Refer=top)<br />
-8. [WBG心态](https://s.weibo.com/weibo?q=%23WBG%E5%BF%83%E6%80%81%23&t=31&band_rank=8&Refer=top)<br />
-9. [电视剧长相思](https://s.weibo.com/weibo?q=%E7%94%B5%E8%A7%86%E5%89%A7%E9%95%BF%E7%9B%B8%E6%80%9D&t=31&band_rank=9&Refer=top)<br />
+6. [液断减肥](https://s.weibo.com/weibo?q=%E6%B6%B2%E6%96%AD%E5%87%8F%E8%82%A5&t=31&band_rank=6&Refer=top)<br />
+7. [王毅任外交部部长](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%AF%85%E4%BB%BB%E5%A4%96%E4%BA%A4%E9%83%A8%E9%83%A8%E9%95%BF%23&t=31&band_rank=7&Refer=top)<br />
+8. [杨紫开始不知道玟小六是小夭](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%BC%80%E5%A7%8B%E4%B8%8D%E7%9F%A5%E9%81%93%E7%8E%9F%E5%B0%8F%E5%85%AD%E6%98%AF%E5%B0%8F%E5%A4%AD%23&t=31&band_rank=8&Refer=top)<br />
+9. [WBG心态](https://s.weibo.com/weibo?q=%23WBG%E5%BF%83%E6%80%81%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
