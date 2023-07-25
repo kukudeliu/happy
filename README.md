@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-25 18:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-25 18:25:02</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [杭州市委原书记周江勇一审被判死缓](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%B8%82%E5%A7%94%E5%8E%9F%E4%B9%A6%E8%AE%B0%E5%91%A8%E6%B1%9F%E5%8B%87%E4%B8%80%E5%AE%A1%E8%A2%AB%E5%88%A4%E6%AD%BB%E7%BC%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子悬崖旁求婚后女友不慎坠亡](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%82%AC%E5%B4%96%E6%97%81%E6%B1%82%E5%A9%9A%E5%90%8E%E5%A5%B3%E5%8F%8B%E4%B8%8D%E6%85%8E%E5%9D%A0%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [多城有望自主调节楼市“四限”政策](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9F%8E%E6%9C%89%E6%9C%9B%E8%87%AA%E4%B8%BB%E8%B0%83%E8%8A%82%E6%A5%BC%E5%B8%82%E2%80%9C%E5%9B%9B%E9%99%90%E2%80%9D%E6%94%BF%E7%AD%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子在南京地铁车厢喝水被开罚单](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%9C%A8%E5%8D%97%E4%BA%AC%E5%9C%B0%E9%93%81%E8%BD%A6%E5%8E%A2%E5%96%9D%E6%B0%B4%E8%A2%AB%E5%BC%80%E7%BD%9A%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [加油站汽油泄露 员工用身体堵住](https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%B9%E7%AB%99%E6%B1%BD%E6%B2%B9%E6%B3%84%E9%9C%B2+%E5%91%98%E5%B7%A5%E7%94%A8%E8%BA%AB%E4%BD%93%E5%A0%B5%E4%BD%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [加油站汽油泄露 员工用身体堵住](https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%B9%E7%AB%99%E6%B1%BD%E6%B2%B9%E6%B3%84%E9%9C%B2+%E5%91%98%E5%B7%A5%E7%94%A8%E8%BA%AB%E4%BD%93%E5%A0%B5%E4%BD%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [报告：北京平均月薪18976元全国最高](https://www.baidu.com/s?wd=%E6%8A%A5%E5%91%8A%EF%BC%9A%E5%8C%97%E4%BA%AC%E5%B9%B3%E5%9D%87%E6%9C%88%E8%96%AA18976%E5%85%83%E5%85%A8%E5%9B%BD%E6%9C%80%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [杭州市委原书记周江勇一审被判死缓](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%B8%82%E5%A7%94%E5%8E%9F%E4%B9%A6%E8%AE%B0%E5%91%A8%E6%B1%9F%E5%8B%87%E4%B8%80%E5%AE%A1%E8%A2%AB%E5%88%A4%E6%AD%BB%E7%BC%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子悬崖旁求婚后女友不慎坠亡](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%82%AC%E5%B4%96%E6%97%81%E6%B1%82%E5%A9%9A%E5%90%8E%E5%A5%B3%E5%8F%8B%E4%B8%8D%E6%85%8E%E5%9D%A0%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [多城有望自主调节楼市“四限”政策](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9F%8E%E6%9C%89%E6%9C%9B%E8%87%AA%E4%B8%BB%E8%B0%83%E8%8A%82%E6%A5%BC%E5%B8%82%E2%80%9C%E5%9B%9B%E9%99%90%E2%80%9D%E6%94%BF%E7%AD%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子在南京地铁车厢喝水被开罚单](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%9C%A8%E5%8D%97%E4%BA%AC%E5%9C%B0%E9%93%81%E8%BD%A6%E5%8E%A2%E5%96%9D%E6%B0%B4%E8%A2%AB%E5%BC%80%E7%BD%9A%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [加油站汽油泄露 员工用身体堵住](https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%B9%E7%AB%99%E6%B1%BD%E6%B2%B9%E6%B3%84%E9%9C%B2+%E5%91%98%E5%B7%A5%E7%94%A8%E8%BA%AB%E4%BD%93%E5%A0%B5%E4%BD%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [加油站汽油泄露 员工用身体堵住](https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%B9%E7%AB%99%E6%B1%BD%E6%B2%B9%E6%B3%84%E9%9C%B2+%E5%91%98%E5%B7%A5%E7%94%A8%E8%BA%AB%E4%BD%93%E5%A0%B5%E4%BD%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [报告：北京平均月薪18976元全国最高](https://www.baidu.com/s?wd=%E6%8A%A5%E5%91%8A%EF%BC%9A%E5%8C%97%E4%BA%AC%E5%B9%B3%E5%9D%87%E6%9C%88%E8%96%AA18976%E5%85%83%E5%85%A8%E5%9B%BD%E6%9C%80%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
