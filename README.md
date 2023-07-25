@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-25 19:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-25 19:15:02</h4></div>
 
 > 微博  
 
@@ -21,11 +21,11 @@
 2. [秦刚被免去外交部部长职务](https://www.baidu.com/s?wd=%E7%A7%A6%E5%88%9A%E8%A2%AB%E5%85%8D%E5%8E%BB%E5%A4%96%E4%BA%A4%E9%83%A8%E9%83%A8%E9%95%BF%E8%81%8C%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [王毅任外交部部长](https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E4%BB%BB%E5%A4%96%E4%BA%A4%E9%83%A8%E9%83%A8%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [成都大运会来了](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E5%A4%A7%E8%BF%90%E4%BC%9A%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [男子悬崖旁求婚后女友不慎坠亡](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%82%AC%E5%B4%96%E6%97%81%E6%B1%82%E5%A9%9A%E5%90%8E%E5%A5%B3%E5%8F%8B%E4%B8%8D%E6%85%8E%E5%9D%A0%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [遭辱骂cos女孩希望大爷给父母道歉](https://www.baidu.com/s?wd=%E9%81%AD%E8%BE%B1%E9%AA%82cos%E5%A5%B3%E5%AD%A9%E5%B8%8C%E6%9C%9B%E5%A4%A7%E7%88%B7%E7%BB%99%E7%88%B6%E6%AF%8D%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [报告：北京平均月薪18976元全国最高](https://www.baidu.com/s?wd=%E6%8A%A5%E5%91%8A%EF%BC%9A%E5%8C%97%E4%BA%AC%E5%B9%B3%E5%9D%87%E6%9C%88%E8%96%AA18976%E5%85%83%E5%85%A8%E5%9B%BD%E6%9C%80%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [加油站汽油泄露 员工用身体堵住](https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%B9%E7%AB%99%E6%B1%BD%E6%B2%B9%E6%B3%84%E9%9C%B2+%E5%91%98%E5%B7%A5%E7%94%A8%E8%BA%AB%E4%BD%93%E5%A0%B5%E4%BD%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [男子悬崖旁求婚后女友不慎坠亡](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%82%AC%E5%B4%96%E6%97%81%E6%B1%82%E5%A9%9A%E5%90%8E%E5%A5%B3%E5%8F%8B%E4%B8%8D%E6%85%8E%E5%9D%A0%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [遭辱骂cos女孩希望大爷给父母道歉](https://www.baidu.com/s?wd=%E9%81%AD%E8%BE%B1%E9%AA%82cos%E5%A5%B3%E5%AD%A9%E5%B8%8C%E6%9C%9B%E5%A4%A7%E7%88%B7%E7%BB%99%E7%88%B6%E6%AF%8D%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#好莱坞大片失灵了吗#](https://www.baidu.com/s?wd=%23%E5%A5%BD%E8%8E%B1%E5%9D%9E%E5%A4%A7%E7%89%87%E5%A4%B1%E7%81%B5%E4%BA%86%E5%90%97%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [孩子只考8分 家长怒怼校方](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E5%8F%AA%E8%80%838%E5%88%86+%E5%AE%B6%E9%95%BF%E6%80%92%E6%80%BC%E6%A0%A1%E6%96%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [报告：北京平均月薪18976元全国最高](https://www.baidu.com/s?wd=%E6%8A%A5%E5%91%8A%EF%BC%9A%E5%8C%97%E4%BA%AC%E5%B9%B3%E5%9D%87%E6%9C%88%E8%96%AA18976%E5%85%83%E5%85%A8%E5%9B%BD%E6%9C%80%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -33,8 +33,8 @@
 2. [秦刚被免去外交部部长职务](https://www.baidu.com/s?wd=%E7%A7%A6%E5%88%9A%E8%A2%AB%E5%85%8D%E5%8E%BB%E5%A4%96%E4%BA%A4%E9%83%A8%E9%83%A8%E9%95%BF%E8%81%8C%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [王毅任外交部部长](https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E4%BB%BB%E5%A4%96%E4%BA%A4%E9%83%A8%E9%83%A8%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [成都大运会来了](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E5%A4%A7%E8%BF%90%E4%BC%9A%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [男子悬崖旁求婚后女友不慎坠亡](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%82%AC%E5%B4%96%E6%97%81%E6%B1%82%E5%A9%9A%E5%90%8E%E5%A5%B3%E5%8F%8B%E4%B8%8D%E6%85%8E%E5%9D%A0%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [遭辱骂cos女孩希望大爷给父母道歉](https://www.baidu.com/s?wd=%E9%81%AD%E8%BE%B1%E9%AA%82cos%E5%A5%B3%E5%AD%A9%E5%B8%8C%E6%9C%9B%E5%A4%A7%E7%88%B7%E7%BB%99%E7%88%B6%E6%AF%8D%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [报告：北京平均月薪18976元全国最高](https://www.baidu.com/s?wd=%E6%8A%A5%E5%91%8A%EF%BC%9A%E5%8C%97%E4%BA%AC%E5%B9%B3%E5%9D%87%E6%9C%88%E8%96%AA18976%E5%85%83%E5%85%A8%E5%9B%BD%E6%9C%80%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [加油站汽油泄露 员工用身体堵住](https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%B9%E7%AB%99%E6%B1%BD%E6%B2%B9%E6%B3%84%E9%9C%B2+%E5%91%98%E5%B7%A5%E7%94%A8%E8%BA%AB%E4%BD%93%E5%A0%B5%E4%BD%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [男子悬崖旁求婚后女友不慎坠亡](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%82%AC%E5%B4%96%E6%97%81%E6%B1%82%E5%A9%9A%E5%90%8E%E5%A5%B3%E5%8F%8B%E4%B8%8D%E6%85%8E%E5%9D%A0%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [遭辱骂cos女孩希望大爷给父母道歉](https://www.baidu.com/s?wd=%E9%81%AD%E8%BE%B1%E9%AA%82cos%E5%A5%B3%E5%AD%A9%E5%B8%8C%E6%9C%9B%E5%A4%A7%E7%88%B7%E7%BB%99%E7%88%B6%E6%AF%8D%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#好莱坞大片失灵了吗#](https://www.baidu.com/s?wd=%23%E5%A5%BD%E8%8E%B1%E5%9D%9E%E5%A4%A7%E7%89%87%E5%A4%B1%E7%81%B5%E4%BA%86%E5%90%97%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [孩子只考8分 家长怒怼校方](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E5%8F%AA%E8%80%838%E5%88%86+%E5%AE%B6%E9%95%BF%E6%80%92%E6%80%BC%E6%A0%A1%E6%96%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [报告：北京平均月薪18976元全国最高](https://www.baidu.com/s?wd=%E6%8A%A5%E5%91%8A%EF%BC%9A%E5%8C%97%E4%BA%AC%E5%B9%B3%E5%9D%87%E6%9C%88%E8%96%AA18976%E5%85%83%E5%85%A8%E5%9B%BD%E6%9C%80%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
