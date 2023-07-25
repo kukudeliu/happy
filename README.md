@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-25 22:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-25 22:04:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [感受成都大运会科技与文化交融之美](https://s.weibo.com/weibo?q=%23%E6%84%9F%E5%8F%97%E6%88%90%E9%83%BD%E5%A4%A7%E8%BF%90%E4%BC%9A%E7%A7%91%E6%8A%80%E4%B8%8E%E6%96%87%E5%8C%96%E4%BA%A4%E8%9E%8D%E4%B9%8B%E7%BE%8E%23&t=31&band_rank=3&Refer=top)<br />
 4. [王毅任外交部部长](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%AF%85%E4%BB%BB%E5%A4%96%E4%BA%A4%E9%83%A8%E9%83%A8%E9%95%BF%23&t=31&band_rank=4&Refer=top)<br />
 5. [WBG心态](https://s.weibo.com/weibo?q=%23WBG%E5%BF%83%E6%80%81%23&t=31&band_rank=5&Refer=top)<br />
-6. [吴亦凡二审通知了加拿大驻华使馆](https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E4%BA%8C%E5%AE%A1%E9%80%9A%E7%9F%A5%E4%BA%86%E5%8A%A0%E6%8B%BF%E5%A4%A7%E9%A9%BB%E5%8D%8E%E4%BD%BF%E9%A6%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [内娱现偶出圈角色](https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E7%8E%B0%E5%81%B6%E5%87%BA%E5%9C%88%E8%A7%92%E8%89%B2%23&t=31&band_rank=7&Refer=top)<br />
+6. [内娱现偶出圈角色](https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E7%8E%B0%E5%81%B6%E5%87%BA%E5%9C%88%E8%A7%92%E8%89%B2%23&t=31&band_rank=6&Refer=top)<br />
+7. [吴亦凡二审通知了加拿大驻华使馆](https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E4%BA%8C%E5%AE%A1%E9%80%9A%E7%9F%A5%E4%BA%86%E5%8A%A0%E6%8B%BF%E5%A4%A7%E9%A9%BB%E5%8D%8E%E4%BD%BF%E9%A6%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [电视剧长相思](https://s.weibo.com/weibo?q=%E7%94%B5%E8%A7%86%E5%89%A7%E9%95%BF%E7%9B%B8%E6%80%9D&t=31&band_rank=8&Refer=top)<br />
-9. [黄锐说释怀了](https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%94%90%E8%AF%B4%E9%87%8A%E6%80%80%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [LNG对战WBG](https://s.weibo.com/weibo?q=%23LNG%E5%AF%B9%E6%88%98WBG%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,10 +22,10 @@
 3. [2023百强县出炉 千亿县达54个](https://www.baidu.com/s?wd=2023%E7%99%BE%E5%BC%BA%E5%8E%BF%E5%87%BA%E7%82%89+%E5%8D%83%E4%BA%BF%E5%8E%BF%E8%BE%BE54%E4%B8%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [大运村里的“熊猫热”](https://www.baidu.com/s?wd=%E5%A4%A7%E8%BF%90%E6%9D%91%E9%87%8C%E7%9A%84%E2%80%9C%E7%86%8A%E7%8C%AB%E7%83%AD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [王毅任外交部部长](https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E4%BB%BB%E5%A4%96%E4%BA%A4%E9%83%A8%E9%83%A8%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [刀郎新歌《罗刹海市》后劲好大](https://www.baidu.com/s?wd=%E5%88%80%E9%83%8E%E6%96%B0%E6%AD%8C%E3%80%8A%E7%BD%97%E5%88%B9%E6%B5%B7%E5%B8%82%E3%80%8B%E5%90%8E%E5%8A%B2%E5%A5%BD%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子悬崖旁求婚后女友不慎坠亡](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%82%AC%E5%B4%96%E6%97%81%E6%B1%82%E5%A9%9A%E5%90%8E%E5%A5%B3%E5%8F%8B%E4%B8%8D%E6%85%8E%E5%9D%A0%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [河北落马副部王雪峰被决定逮捕](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E8%90%BD%E9%A9%AC%E5%89%AF%E9%83%A8%E7%8E%8B%E9%9B%AA%E5%B3%B0%E8%A2%AB%E5%86%B3%E5%AE%9A%E9%80%AE%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [刀郎新歌《罗刹海市》后劲好大](https://www.baidu.com/s?wd=%E5%88%80%E9%83%8E%E6%96%B0%E6%AD%8C%E3%80%8A%E7%BD%97%E5%88%B9%E6%B5%B7%E5%B8%82%E3%80%8B%E5%90%8E%E5%8A%B2%E5%A5%BD%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [普京签署法案禁止变性手术](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E7%AD%BE%E7%BD%B2%E6%B3%95%E6%A1%88%E7%A6%81%E6%AD%A2%E5%8F%98%E6%80%A7%E6%89%8B%E6%9C%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [幼童三楼坠落一群人张开双臂](https://www.baidu.com/s?wd=%E5%B9%BC%E7%AB%A5%E4%B8%89%E6%A5%BC%E5%9D%A0%E8%90%BD%E4%B8%80%E7%BE%A4%E4%BA%BA%E5%BC%A0%E5%BC%80%E5%8F%8C%E8%87%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子悬崖旁求婚后女友不慎坠亡](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%82%AC%E5%B4%96%E6%97%81%E6%B1%82%E5%A9%9A%E5%90%8E%E5%A5%B3%E5%8F%8B%E4%B8%8D%E6%85%8E%E5%9D%A0%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -34,7 +34,7 @@
 3. [2023百强县出炉 千亿县达54个](https://www.baidu.com/s?wd=2023%E7%99%BE%E5%BC%BA%E5%8E%BF%E5%87%BA%E7%82%89+%E5%8D%83%E4%BA%BF%E5%8E%BF%E8%BE%BE54%E4%B8%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [大运村里的“熊猫热”](https://www.baidu.com/s?wd=%E5%A4%A7%E8%BF%90%E6%9D%91%E9%87%8C%E7%9A%84%E2%80%9C%E7%86%8A%E7%8C%AB%E7%83%AD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [王毅任外交部部长](https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E4%BB%BB%E5%A4%96%E4%BA%A4%E9%83%A8%E9%83%A8%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [刀郎新歌《罗刹海市》后劲好大](https://www.baidu.com/s?wd=%E5%88%80%E9%83%8E%E6%96%B0%E6%AD%8C%E3%80%8A%E7%BD%97%E5%88%B9%E6%B5%B7%E5%B8%82%E3%80%8B%E5%90%8E%E5%8A%B2%E5%A5%BD%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子悬崖旁求婚后女友不慎坠亡](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%82%AC%E5%B4%96%E6%97%81%E6%B1%82%E5%A9%9A%E5%90%8E%E5%A5%B3%E5%8F%8B%E4%B8%8D%E6%85%8E%E5%9D%A0%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [河北落马副部王雪峰被决定逮捕](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E8%90%BD%E9%A9%AC%E5%89%AF%E9%83%A8%E7%8E%8B%E9%9B%AA%E5%B3%B0%E8%A2%AB%E5%86%B3%E5%AE%9A%E9%80%AE%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [刀郎新歌《罗刹海市》后劲好大](https://www.baidu.com/s?wd=%E5%88%80%E9%83%8E%E6%96%B0%E6%AD%8C%E3%80%8A%E7%BD%97%E5%88%B9%E6%B5%B7%E5%B8%82%E3%80%8B%E5%90%8E%E5%8A%B2%E5%A5%BD%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [普京签署法案禁止变性手术](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E7%AD%BE%E7%BD%B2%E6%B3%95%E6%A1%88%E7%A6%81%E6%AD%A2%E5%8F%98%E6%80%A7%E6%89%8B%E6%9C%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [幼童三楼坠落一群人张开双臂](https://www.baidu.com/s?wd=%E5%B9%BC%E7%AB%A5%E4%B8%89%E6%A5%BC%E5%9D%A0%E8%90%BD%E4%B8%80%E7%BE%A4%E4%BA%BA%E5%BC%A0%E5%BC%80%E5%8F%8C%E8%87%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子悬崖旁求婚后女友不慎坠亡](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%82%AC%E5%B4%96%E6%97%81%E6%B1%82%E5%A9%9A%E5%90%8E%E5%A5%B3%E5%8F%8B%E4%B8%8D%E6%85%8E%E5%9D%A0%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
