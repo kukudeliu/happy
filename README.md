@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-27 07:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-27 07:24:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [姐弟捡31部总价超21万手机上交](https://www.baidu.com/s?wd=%E5%A7%90%E5%BC%9F%E6%8D%A131%E9%83%A8%E6%80%BB%E4%BB%B7%E8%B6%8521%E4%B8%87%E6%89%8B%E6%9C%BA%E4%B8%8A%E4%BA%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [被抓8个月后 媒体人曝光李铁现状](https://www.baidu.com/s?wd=%E8%A2%AB%E6%8A%938%E4%B8%AA%E6%9C%88%E5%90%8E+%E5%AA%92%E4%BD%93%E4%BA%BA%E6%9B%9D%E5%85%89%E6%9D%8E%E9%93%81%E7%8E%B0%E7%8A%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [研究生称坐5小时高铁跨省面试被鸽](https://www.baidu.com/s?wd=%E7%A0%94%E7%A9%B6%E7%94%9F%E7%A7%B0%E5%9D%905%E5%B0%8F%E6%97%B6%E9%AB%98%E9%93%81%E8%B7%A8%E7%9C%81%E9%9D%A2%E8%AF%95%E8%A2%AB%E9%B8%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [于适为了封神两年没剪头发](https://www.baidu.com/s?wd=%E4%BA%8E%E9%80%82%E4%B8%BA%E4%BA%86%E5%B0%81%E7%A5%9E%E4%B8%A4%E5%B9%B4%E6%B2%A1%E5%89%AA%E5%A4%B4%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [家长怒怼学费4万孩子考8分 教师回应](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E6%80%92%E6%80%BC%E5%AD%A6%E8%B4%B94%E4%B8%87%E5%AD%A9%E5%AD%90%E8%80%838%E5%88%86+%E6%95%99%E5%B8%88%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [#曝某明星嫖娼被抓#](https://www.baidu.com/s?wd=%23%E6%9B%9D%E6%9F%90%E6%98%8E%E6%98%9F%E5%AB%96%E5%A8%BC%E8%A2%AB%E6%8A%93%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [姐弟捡31部总价超21万手机上交](https://www.baidu.com/s?wd=%E5%A7%90%E5%BC%9F%E6%8D%A131%E9%83%A8%E6%80%BB%E4%BB%B7%E8%B6%8521%E4%B8%87%E6%89%8B%E6%9C%BA%E4%B8%8A%E4%BA%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [被抓8个月后 媒体人曝光李铁现状](https://www.baidu.com/s?wd=%E8%A2%AB%E6%8A%938%E4%B8%AA%E6%9C%88%E5%90%8E+%E5%AA%92%E4%BD%93%E4%BA%BA%E6%9B%9D%E5%85%89%E6%9D%8E%E9%93%81%E7%8E%B0%E7%8A%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [研究生称坐5小时高铁跨省面试被鸽](https://www.baidu.com/s?wd=%E7%A0%94%E7%A9%B6%E7%94%9F%E7%A7%B0%E5%9D%905%E5%B0%8F%E6%97%B6%E9%AB%98%E9%93%81%E8%B7%A8%E7%9C%81%E9%9D%A2%E8%AF%95%E8%A2%AB%E9%B8%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [于适为了封神两年没剪头发](https://www.baidu.com/s?wd=%E4%BA%8E%E9%80%82%E4%B8%BA%E4%BA%86%E5%B0%81%E7%A5%9E%E4%B8%A4%E5%B9%B4%E6%B2%A1%E5%89%AA%E5%A4%B4%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [家长怒怼学费4万孩子考8分 教师回应](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E6%80%92%E6%80%BC%E5%AD%A6%E8%B4%B94%E4%B8%87%E5%AD%A9%E5%AD%90%E8%80%838%E5%88%86+%E6%95%99%E5%B8%88%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [#曝某明星嫖娼被抓#](https://www.baidu.com/s?wd=%23%E6%9B%9D%E6%9F%90%E6%98%8E%E6%98%9F%E5%AB%96%E5%A8%BC%E8%A2%AB%E6%8A%93%23&sa=fyb_news&rsv_dl=fyb_news)<br />
