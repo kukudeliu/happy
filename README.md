@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-26 11:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-26 11:57:01</h4></div>
 
 > 微博  
 
-1. [成功在前妻腿上痛哭](https://s.weibo.com/weibo?q=%23%E6%88%90%E5%8A%9F%E5%9C%A8%E5%89%8D%E5%A6%BB%E8%85%BF%E4%B8%8A%E7%97%9B%E5%93%AD%23&t=31&band_rank=1&Refer=top)<br />
-2. [EXO青岛](https://s.weibo.com/weibo?q=EXO%E9%9D%92%E5%B2%9B&t=31&band_rank=2&Refer=top)<br />
+1. [EXO青岛](https://s.weibo.com/weibo?q=EXO%E9%9D%92%E5%B2%9B&t=31&band_rank=1&Refer=top)<br />
+2. [成功在前妻腿上痛哭](https://s.weibo.com/weibo?q=%23%E6%88%90%E5%8A%9F%E5%9C%A8%E5%89%8D%E5%A6%BB%E8%85%BF%E4%B8%8A%E7%97%9B%E5%93%AD%23&t=31&band_rank=2&Refer=top)<br />
 3. [青春主场欢聚在成都](https://s.weibo.com/weibo?q=%23%E9%9D%92%E6%98%A5%E4%B8%BB%E5%9C%BA%E6%AC%A2%E8%81%9A%E5%9C%A8%E6%88%90%E9%83%BD%23&t=31&band_rank=3&Refer=top)<br />
 4. [8岁摄影师拍迪丽热巴龚俊](https://s.weibo.com/weibo?q=%238%E5%B2%81%E6%91%84%E5%BD%B1%E5%B8%88%E6%8B%8D%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%BE%9A%E4%BF%8A%23&t=31&band_rank=4&Refer=top)<br />
 5. [中式麻辣烫和韩式麻辣烫的区别](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%BC%8F%E9%BA%BB%E8%BE%A3%E7%83%AB%E5%92%8C%E9%9F%A9%E5%BC%8F%E9%BA%BB%E8%BE%A3%E7%83%AB%E7%9A%84%E5%8C%BA%E5%88%AB%23&t=31&band_rank=5&Refer=top)<br />
