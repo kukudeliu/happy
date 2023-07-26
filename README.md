@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-26 16:48:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-26 16:49:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [刘亦菲王楚然同框旧照](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E7%8E%8B%E6%A5%9A%E7%84%B6%E5%90%8C%E6%A1%86%E6%97%A7%E7%85%A7%23&t=31&band_rank=6&Refer=top)<br />
 7. [杨洋切菜切到手背](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B4%8B%E5%88%87%E8%8F%9C%E5%88%87%E5%88%B0%E6%89%8B%E8%83%8C%23&t=31&band_rank=7&Refer=top)<br />
 8. [韩国人考公有多卷](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%BA%BA%E8%80%83%E5%85%AC%E6%9C%89%E5%A4%9A%E5%8D%B7%23&t=31&band_rank=8&Refer=top)<br />
-9. [封神票房](https://s.weibo.com/weibo?q=%E5%B0%81%E7%A5%9E%E7%A5%A8%E6%88%BF&t=31&band_rank=9&Refer=top)<br />
+9. [魏大勋不止一场戏份被删](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E4%B8%8D%E6%AD%A2%E4%B8%80%E5%9C%BA%E6%88%8F%E4%BB%BD%E8%A2%AB%E5%88%A0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
