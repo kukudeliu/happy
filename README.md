@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-26 16:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-26 16:35:02</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [张家界天门山一游客坠亡](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%AE%B6%E7%95%8C%E5%A4%A9%E9%97%A8%E5%B1%B1%E4%B8%80%E6%B8%B8%E5%AE%A2%E5%9D%A0%E4%BA%A1%23&t=31&band_rank=5&Refer=top)<br />
 6. [韩国人考公有多卷](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%BA%BA%E8%80%83%E5%85%AC%E6%9C%89%E5%A4%9A%E5%8D%B7%23&t=31&band_rank=6&Refer=top)<br />
 7. [赵有亮去世](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E6%9C%89%E4%BA%AE%E5%8E%BB%E4%B8%96%23&t=31&band_rank=7&Refer=top)<br />
-8. [新西游记大逃脱下架](https://s.weibo.com/weibo?q=%23%E6%96%B0%E8%A5%BF%E6%B8%B8%E8%AE%B0%E5%A4%A7%E9%80%83%E8%84%B1%E4%B8%8B%E6%9E%B6%23&t=31&band_rank=8&Refer=top)<br />
+8. [封神票房](https://s.weibo.com/weibo?q=%E5%B0%81%E7%A5%9E%E7%A5%A8%E6%88%BF&t=31&band_rank=8&Refer=top)<br />
 9. [17岁男孩中枪身亡亲属称已和解](https://s.weibo.com/weibo?q=%2317%E5%B2%81%E7%94%B7%E5%AD%A9%E4%B8%AD%E6%9E%AA%E8%BA%AB%E4%BA%A1%E4%BA%B2%E5%B1%9E%E7%A7%B0%E5%B7%B2%E5%92%8C%E8%A7%A3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
