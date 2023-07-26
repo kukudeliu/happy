@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-27 03:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-27 03:40:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [狂飙后第二爆的剧是哪部](https://s.weibo.com/weibo?q=%23%E7%8B%82%E9%A3%99%E5%90%8E%E7%AC%AC%E4%BA%8C%E7%88%86%E7%9A%84%E5%89%A7%E6%98%AF%E5%93%AA%E9%83%A8%23&t=31&band_rank=6&Refer=top)<br />
 7. [徐嘉余](https://s.weibo.com/weibo?q=%E5%BE%90%E5%98%89%E4%BD%99&t=31&band_rank=7&Refer=top)<br />
 8. [台风](https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E&t=31&band_rank=8&Refer=top)<br />
-9. [过度喝饮料 肾衰竭](https://s.weibo.com/weibo?q=%E8%BF%87%E5%BA%A6%E5%96%9D%E9%A5%AE%E6%96%99%20%E8%82%BE%E8%A1%B0%E7%AB%AD&t=31&band_rank=9&Refer=top)<br />
+9. [杜苏芮或成新世纪影响最严重台风之一](https://s.weibo.com/weibo?q=%23%E6%9D%9C%E8%8B%8F%E8%8A%AE%E6%88%96%E6%88%90%E6%96%B0%E4%B8%96%E7%BA%AA%E5%BD%B1%E5%93%8D%E6%9C%80%E4%B8%A5%E9%87%8D%E5%8F%B0%E9%A3%8E%E4%B9%8B%E4%B8%80%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
