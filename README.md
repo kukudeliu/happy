@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-27 06:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-27 06:03:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [中缅将再次联手打击缅北诈骗分子](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BC%85%E5%B0%86%E5%86%8D%E6%AC%A1%E8%81%94%E6%89%8B%E6%89%93%E5%87%BB%E7%BC%85%E5%8C%97%E8%AF%88%E9%AA%97%E5%88%86%E5%AD%90%23&t=31&band_rank=6&Refer=top)<br />
 7. [消防员抓了只头像鼠身像猫的动物](https://s.weibo.com/weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E6%8A%93%E4%BA%86%E5%8F%AA%E5%A4%B4%E5%83%8F%E9%BC%A0%E8%BA%AB%E5%83%8F%E7%8C%AB%E7%9A%84%E5%8A%A8%E7%89%A9%23&t=31&band_rank=7&Refer=top)<br />
 8. [警方通报10岁男孩被继母打死](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A510%E5%B2%81%E7%94%B7%E5%AD%A9%E8%A2%AB%E7%BB%A7%E6%AF%8D%E6%89%93%E6%AD%BB%23&t=31&band_rank=8&Refer=top)<br />
-9. [长相思](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D&t=31&band_rank=9&Refer=top)<br />
+9. [研究生称坐5小时高铁跨省面试被鸽](https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E7%94%9F%E7%A7%B0%E5%9D%905%E5%B0%8F%E6%97%B6%E9%AB%98%E9%93%81%E8%B7%A8%E7%9C%81%E9%9D%A2%E8%AF%95%E8%A2%AB%E9%B8%BD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
