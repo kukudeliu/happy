@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-27 02:14:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-27 02:15:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [杜苏芮逼近 厦门市民狂囤泡面和水](https://www.baidu.com/s?wd=%E6%9D%9C%E8%8B%8F%E8%8A%AE%E9%80%BC%E8%BF%91+%E5%8E%A6%E9%97%A8%E5%B8%82%E6%B0%91%E7%8B%82%E5%9B%A4%E6%B3%A1%E9%9D%A2%E5%92%8C%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [被抓8个月后 媒体人曝光李铁现状](https://www.baidu.com/s?wd=%E8%A2%AB%E6%8A%938%E4%B8%AA%E6%9C%88%E5%90%8E+%E5%AA%92%E4%BD%93%E4%BA%BA%E6%9B%9D%E5%85%89%E6%9D%8E%E9%93%81%E7%8E%B0%E7%8A%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [湖南多人当街持刀互砍?当地回应](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E5%A4%9A%E4%BA%BA%E5%BD%93%E8%A1%97%E6%8C%81%E5%88%80%E4%BA%92%E7%A0%8D%3F%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [学硕要“退场”了吗？](https://www.baidu.com/s?wd=%E5%AD%A6%E7%A1%95%E8%A6%81%E2%80%9C%E9%80%80%E5%9C%BA%E2%80%9D%E4%BA%86%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [研究生称坐5小时高铁跨省面试被鸽](https://www.baidu.com/s?wd=%E7%A0%94%E7%A9%B6%E7%94%9F%E7%A7%B0%E5%9D%905%E5%B0%8F%E6%97%B6%E9%AB%98%E9%93%81%E8%B7%A8%E7%9C%81%E9%9D%A2%E8%AF%95%E8%A2%AB%E9%B8%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [杜苏芮逼近 厦门市民狂囤泡面和水](https://www.baidu.com/s?wd=%E6%9D%9C%E8%8B%8F%E8%8A%AE%E9%80%BC%E8%BF%91+%E5%8E%A6%E9%97%A8%E5%B8%82%E6%B0%91%E7%8B%82%E5%9B%A4%E6%B3%A1%E9%9D%A2%E5%92%8C%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [被抓8个月后 媒体人曝光李铁现状](https://www.baidu.com/s?wd=%E8%A2%AB%E6%8A%938%E4%B8%AA%E6%9C%88%E5%90%8E+%E5%AA%92%E4%BD%93%E4%BA%BA%E6%9B%9D%E5%85%89%E6%9D%8E%E9%93%81%E7%8E%B0%E7%8A%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [湖南多人当街持刀互砍?当地回应](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E5%A4%9A%E4%BA%BA%E5%BD%93%E8%A1%97%E6%8C%81%E5%88%80%E4%BA%92%E7%A0%8D%3F%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [学硕要“退场”了吗？](https://www.baidu.com/s?wd=%E5%AD%A6%E7%A1%95%E8%A6%81%E2%80%9C%E9%80%80%E5%9C%BA%E2%80%9D%E4%BA%86%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [研究生称坐5小时高铁跨省面试被鸽](https://www.baidu.com/s?wd=%E7%A0%94%E7%A9%B6%E7%94%9F%E7%A7%B0%E5%9D%905%E5%B0%8F%E6%97%B6%E9%AB%98%E9%93%81%E8%B7%A8%E7%9C%81%E9%9D%A2%E8%AF%95%E8%A2%AB%E9%B8%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
