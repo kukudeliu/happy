@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-26 15:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-26 15:32:01</h4></div>
 
 > 微博  
 
@@ -10,14 +10,14 @@
 6. [17岁男孩中枪身亡亲属称已和解](https://s.weibo.com/weibo?q=%2317%E5%B2%81%E7%94%B7%E5%AD%A9%E4%B8%AD%E6%9E%AA%E8%BA%AB%E4%BA%A1%E4%BA%B2%E5%B1%9E%E7%A7%B0%E5%B7%B2%E5%92%8C%E8%A7%A3%23&t=31&band_rank=6&Refer=top)<br />
 7. [形式主义的安全检查真是够了](https://s.weibo.com/weibo?q=%23%E5%BD%A2%E5%BC%8F%E4%B8%BB%E4%B9%89%E7%9A%84%E5%AE%89%E5%85%A8%E6%A3%80%E6%9F%A5%E7%9C%9F%E6%98%AF%E5%A4%9F%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [檀健次演技](https://s.weibo.com/weibo?q=%E6%AA%80%E5%81%A5%E6%AC%A1%E6%BC%94%E6%8A%80&t=31&band_rank=8&Refer=top)<br />
-9. [乌尔善说封神还没走出ICU](https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%B0%94%E5%96%84%E8%AF%B4%E5%B0%81%E7%A5%9E%E8%BF%98%E6%B2%A1%E8%B5%B0%E5%87%BAICU%23&t=31&band_rank=9&Refer=top)<br />
+9. [咒术回战](https://s.weibo.com/weibo?q=%E5%92%92%E6%9C%AF%E5%9B%9E%E6%88%98&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 
 > 百度  
 
-1. [这场会议释放4大民生信号](https://www.baidu.com/s?wd=%E8%BF%99%E5%9C%BA%E4%BC%9A%E8%AE%AE%E9%87%8A%E6%94%BE4%E5%A4%A7%E6%B0%91%E7%94%9F%E4%BF%A1%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [武汉地震监测中心疑遭美国网络攻击](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E5%9C%B0%E9%9C%87%E7%9B%91%E6%B5%8B%E4%B8%AD%E5%BF%83%E7%96%91%E9%81%AD%E7%BE%8E%E5%9B%BD%E7%BD%91%E7%BB%9C%E6%94%BB%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [大疆回应“因风险大拒绝印军订单”](https://www.baidu.com/s?wd=%E5%A4%A7%E7%96%86%E5%9B%9E%E5%BA%94%E2%80%9C%E5%9B%A0%E9%A3%8E%E9%99%A9%E5%A4%A7%E6%8B%92%E7%BB%9D%E5%8D%B0%E5%86%9B%E8%AE%A2%E5%8D%95%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [央媒：形式主义的安全检查 真的够了](https://www.baidu.com/s?wd=%E5%A4%AE%E5%AA%92%EF%BC%9A%E5%BD%A2%E5%BC%8F%E4%B8%BB%E4%B9%89%E7%9A%84%E5%AE%89%E5%85%A8%E6%A3%80%E6%9F%A5+%E7%9C%9F%E7%9A%84%E5%A4%9F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“飞阅”大运会赛事场馆](https://www.baidu.com/s?wd=%E2%80%9C%E9%A3%9E%E9%98%85%E2%80%9D%E5%A4%A7%E8%BF%90%E4%BC%9A%E8%B5%9B%E4%BA%8B%E5%9C%BA%E9%A6%86&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,7 +29,7 @@
 
 > 哔哩哔哩  
 
-1. [这场会议释放4大民生信号](https://www.baidu.com/s?wd=%E8%BF%99%E5%9C%BA%E4%BC%9A%E8%AE%AE%E9%87%8A%E6%94%BE4%E5%A4%A7%E6%B0%91%E7%94%9F%E4%BF%A1%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [武汉地震监测中心疑遭美国网络攻击](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E5%9C%B0%E9%9C%87%E7%9B%91%E6%B5%8B%E4%B8%AD%E5%BF%83%E7%96%91%E9%81%AD%E7%BE%8E%E5%9B%BD%E7%BD%91%E7%BB%9C%E6%94%BB%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [大疆回应“因风险大拒绝印军订单”](https://www.baidu.com/s?wd=%E5%A4%A7%E7%96%86%E5%9B%9E%E5%BA%94%E2%80%9C%E5%9B%A0%E9%A3%8E%E9%99%A9%E5%A4%A7%E6%8B%92%E7%BB%9D%E5%8D%B0%E5%86%9B%E8%AE%A2%E5%8D%95%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [央媒：形式主义的安全检查 真的够了](https://www.baidu.com/s?wd=%E5%A4%AE%E5%AA%92%EF%BC%9A%E5%BD%A2%E5%BC%8F%E4%B8%BB%E4%B9%89%E7%9A%84%E5%AE%89%E5%85%A8%E6%A3%80%E6%9F%A5+%E7%9C%9F%E7%9A%84%E5%A4%9F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“飞阅”大运会赛事场馆](https://www.baidu.com/s?wd=%E2%80%9C%E9%A3%9E%E9%98%85%E2%80%9D%E5%A4%A7%E8%BF%90%E4%BC%9A%E8%B5%9B%E4%BA%8B%E5%9C%BA%E9%A6%86&sa=fyb_news&rsv_dl=fyb_news)<br />
