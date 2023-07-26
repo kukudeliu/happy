@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-26 13:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-26 13:13:01</h4></div>
 
 > 微博  
 
-1. [赵有亮去世](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E6%9C%89%E4%BA%AE%E5%8E%BB%E4%B8%96%23&t=31&band_rank=1&Refer=top)<br />
-2. [王一博 不是因为工作太累导致身体不适](https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%20%E4%B8%8D%E6%98%AF%E5%9B%A0%E4%B8%BA%E5%B7%A5%E4%BD%9C%E5%A4%AA%E7%B4%AF%E5%AF%BC%E8%87%B4%E8%BA%AB%E4%BD%93%E4%B8%8D%E9%80%82&t=31&band_rank=2&Refer=top)<br />
+1. [王一博 不是因为工作太累导致身体不适](https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%20%E4%B8%8D%E6%98%AF%E5%9B%A0%E4%B8%BA%E5%B7%A5%E4%BD%9C%E5%A4%AA%E7%B4%AF%E5%AF%BC%E8%87%B4%E8%BA%AB%E4%BD%93%E4%B8%8D%E9%80%82&t=31&band_rank=1&Refer=top)<br />
+2. [赵有亮去世](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E6%9C%89%E4%BA%AE%E5%8E%BB%E4%B8%96%23&t=31&band_rank=2&Refer=top)<br />
 3. [青春主场欢聚在成都](https://s.weibo.com/weibo?q=%23%E9%9D%92%E6%98%A5%E4%B8%BB%E5%9C%BA%E6%AC%A2%E8%81%9A%E5%9C%A8%E6%88%90%E9%83%BD%23&t=31&band_rank=3&Refer=top)<br />
 4. [EXO青岛](https://s.weibo.com/weibo?q=EXO%E9%9D%92%E5%B2%9B&t=31&band_rank=4&Refer=top)<br />
 5. [成功在前妻腿上痛哭](https://s.weibo.com/weibo?q=%23%E6%88%90%E5%8A%9F%E5%9C%A8%E5%89%8D%E5%A6%BB%E8%85%BF%E4%B8%8A%E7%97%9B%E5%93%AD%23&t=31&band_rank=5&Refer=top)<br />
