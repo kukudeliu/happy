@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-27 01:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-27 01:27:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [长相思](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D&t=31&band_rank=6&Refer=top)<br />
 7. [哥哥第一次带女朋友回家](https://s.weibo.com/weibo?q=%E5%93%A5%E5%93%A5%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%B8%A6%E5%A5%B3%E6%9C%8B%E5%8F%8B%E5%9B%9E%E5%AE%B6&t=31&band_rank=7&Refer=top)<br />
 8. [台风](https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E&t=31&band_rank=8&Refer=top)<br />
-9. [封神成本30亿](https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E%E6%88%90%E6%9C%AC30%E4%BA%BF%23&t=31&band_rank=9&Refer=top)<br />
+9. [过度喝饮料 肾衰竭](https://s.weibo.com/weibo?q=%E8%BF%87%E5%BA%A6%E5%96%9D%E9%A5%AE%E6%96%99%20%E8%82%BE%E8%A1%B0%E7%AB%AD&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
