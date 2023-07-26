@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-26 19:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-26 19:13:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [如果微信显示对方已删除的话](https://s.weibo.com/weibo?q=%23%E5%A6%82%E6%9E%9C%E5%BE%AE%E4%BF%A1%E6%98%BE%E7%A4%BA%E5%AF%B9%E6%96%B9%E5%B7%B2%E5%88%A0%E9%99%A4%E7%9A%84%E8%AF%9D%23&t=31&band_rank=6&Refer=top)<br />
 7. [10岁男孩进派出所送西瓜后百米冲刺离开](https://s.weibo.com/weibo?q=%2310%E5%B2%81%E7%94%B7%E5%AD%A9%E8%BF%9B%E6%B4%BE%E5%87%BA%E6%89%80%E9%80%81%E8%A5%BF%E7%93%9C%E5%90%8E%E7%99%BE%E7%B1%B3%E5%86%B2%E5%88%BA%E7%A6%BB%E5%BC%80%23&t=31&band_rank=7&Refer=top)<br />
 8. [秦昊的婚姻观真的好正](https://s.weibo.com/weibo?q=%E7%A7%A6%E6%98%8A%E7%9A%84%E5%A9%9A%E5%A7%BB%E8%A7%82%E7%9C%9F%E7%9A%84%E5%A5%BD%E6%AD%A3&t=31&band_rank=8&Refer=top)<br />
-9. [杨洋切菜切到手背](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B4%8B%E5%88%87%E8%8F%9C%E5%88%87%E5%88%B0%E6%89%8B%E8%83%8C%23&t=31&band_rank=9&Refer=top)<br />
+9. [美国为何会攻击中国的地震监测中心](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%BD%95%E4%BC%9A%E6%94%BB%E5%87%BB%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%9C%B0%E9%9C%87%E7%9B%91%E6%B5%8B%E4%B8%AD%E5%BF%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
