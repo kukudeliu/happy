@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-26 11:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-26 11:54:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [男子在四姑娘山旅游遇难 孕妻痛哭](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E5%9B%9B%E5%A7%91%E5%A8%98%E5%B1%B1%E6%97%85%E6%B8%B8%E9%81%87%E9%9A%BE+%E5%AD%95%E5%A6%BB%E7%97%9B%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [小伙花77.7元从武汉坐公交到长沙](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E8%8A%B177.7%E5%85%83%E4%BB%8E%E6%AD%A6%E6%B1%89%E5%9D%90%E5%85%AC%E4%BA%A4%E5%88%B0%E9%95%BF%E6%B2%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [音乐环游记](https://www.baidu.com/s?wd=%E9%9F%B3%E4%B9%90%E7%8E%AF%E6%B8%B8%E8%AE%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [李鸿忠将率团访问朝鲜 外交部回应](https://www.baidu.com/s?wd=%E6%9D%8E%E9%B8%BF%E5%BF%A0%E5%B0%86%E7%8E%87%E5%9B%A2%E8%AE%BF%E9%97%AE%E6%9C%9D%E9%B2%9C+%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [今年首个台风红色预警拉响](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E9%A6%96%E4%B8%AA%E5%8F%B0%E9%A3%8E%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6%E6%8B%89%E5%93%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [男子在四姑娘山旅游遇难 孕妻痛哭](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E5%9B%9B%E5%A7%91%E5%A8%98%E5%B1%B1%E6%97%85%E6%B8%B8%E9%81%87%E9%9A%BE+%E5%AD%95%E5%A6%BB%E7%97%9B%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [小伙花77.7元从武汉坐公交到长沙](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E8%8A%B177.7%E5%85%83%E4%BB%8E%E6%AD%A6%E6%B1%89%E5%9D%90%E5%85%AC%E4%BA%A4%E5%88%B0%E9%95%BF%E6%B2%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [音乐环游记](https://www.baidu.com/s?wd=%E9%9F%B3%E4%B9%90%E7%8E%AF%E6%B8%B8%E8%AE%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [李鸿忠将率团访问朝鲜 外交部回应](https://www.baidu.com/s?wd=%E6%9D%8E%E9%B8%BF%E5%BF%A0%E5%B0%86%E7%8E%87%E5%9B%A2%E8%AE%BF%E9%97%AE%E6%9C%9D%E9%B2%9C+%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [今年首个台风红色预警拉响](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E9%A6%96%E4%B8%AA%E5%8F%B0%E9%A3%8E%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6%E6%8B%89%E5%93%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
