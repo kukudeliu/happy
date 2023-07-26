@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-26 23:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-26 23:28:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [官方通报男子在张家界跳崖轻生](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%90%E5%9C%A8%E5%BC%A0%E5%AE%B6%E7%95%8C%E8%B7%B3%E5%B4%96%E8%BD%BB%E7%94%9F%23&t=31&band_rank=6&Refer=top)<br />
 7. [长相思断更的原因](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D%E6%96%AD%E6%9B%B4%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=7&Refer=top)<br />
 8. [台风](https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E&t=31&band_rank=8&Refer=top)<br />
-9. [孟宴臣爽文结局 命运的齿轮就该这样转](https://s.weibo.com/weibo?q=%E5%AD%9F%E5%AE%B4%E8%87%A3%E7%88%BD%E6%96%87%E7%BB%93%E5%B1%80%20%E5%91%BD%E8%BF%90%E7%9A%84%E9%BD%BF%E8%BD%AE%E5%B0%B1%E8%AF%A5%E8%BF%99%E6%A0%B7%E8%BD%AC&t=31&band_rank=9&Refer=top)<br />
+9. [暑假工已经渗透到商家内部啦](https://s.weibo.com/weibo?q=%23%E6%9A%91%E5%81%87%E5%B7%A5%E5%B7%B2%E7%BB%8F%E6%B8%97%E9%80%8F%E5%88%B0%E5%95%86%E5%AE%B6%E5%86%85%E9%83%A8%E5%95%A6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
