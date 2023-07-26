@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-26 23:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-26 23:11:01</h4></div>
 
 > 微博  
 
-1. [徐嘉余](https://s.weibo.com/weibo?q=%E5%BE%90%E5%98%89%E4%BD%99&t=31&band_rank=1&Refer=top)<br />
-2. [过度喝饮料 肾衰竭](https://s.weibo.com/weibo?q=%E8%BF%87%E5%BA%A6%E5%96%9D%E9%A5%AE%E6%96%99%20%E8%82%BE%E8%A1%B0%E7%AB%AD&t=31&band_rank=2&Refer=top)<br />
+1. [过度喝饮料 肾衰竭](https://s.weibo.com/weibo?q=%E8%BF%87%E5%BA%A6%E5%96%9D%E9%A5%AE%E6%96%99%20%E8%82%BE%E8%A1%B0%E7%AB%AD&t=31&band_rank=1&Refer=top)<br />
+2. [徐嘉余](https://s.weibo.com/weibo?q=%E5%BE%90%E5%98%89%E4%BD%99&t=31&band_rank=2&Refer=top)<br />
 3. [各大高校接力为大运会加油](https://s.weibo.com/weibo?q=%23%E5%90%84%E5%A4%A7%E9%AB%98%E6%A0%A1%E6%8E%A5%E5%8A%9B%E4%B8%BA%E5%A4%A7%E8%BF%90%E4%BC%9A%E5%8A%A0%E6%B2%B9%23&t=31&band_rank=3&Refer=top)<br />
 4. [狂飙后第二爆的剧是哪部](https://s.weibo.com/weibo?q=%23%E7%8B%82%E9%A3%99%E5%90%8E%E7%AC%AC%E4%BA%8C%E7%88%86%E7%9A%84%E5%89%A7%E6%98%AF%E5%93%AA%E9%83%A8%23&t=31&band_rank=4&Refer=top)<br />
 5. [官方通报男子在张家界跳崖轻生](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%90%E5%9C%A8%E5%BC%A0%E5%AE%B6%E7%95%8C%E8%B7%B3%E5%B4%96%E8%BD%BB%E7%94%9F%23&t=31&band_rank=5&Refer=top)<br />
