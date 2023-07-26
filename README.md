@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-27 07:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-27 07:47:01</h4></div>
 
 > 微博  
 
-1. [微信白用那么久了](https://s.weibo.com/weibo?q=%E5%BE%AE%E4%BF%A1%E7%99%BD%E7%94%A8%E9%82%A3%E4%B9%88%E4%B9%85%E4%BA%86&t=31&band_rank=1&Refer=top)<br />
-2. [女作家因两次被提醒管好小孩向12306投诉](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E4%BD%9C%E5%AE%B6%E5%9B%A0%E4%B8%A4%E6%AC%A1%E8%A2%AB%E6%8F%90%E9%86%92%E7%AE%A1%E5%A5%BD%E5%B0%8F%E5%AD%A9%E5%90%9112306%E6%8A%95%E8%AF%89%23&t=31&band_rank=2&Refer=top)<br />
+1. [女作家因两次被提醒管好小孩向12306投诉](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E4%BD%9C%E5%AE%B6%E5%9B%A0%E4%B8%A4%E6%AC%A1%E8%A2%AB%E6%8F%90%E9%86%92%E7%AE%A1%E5%A5%BD%E5%B0%8F%E5%AD%A9%E5%90%9112306%E6%8A%95%E8%AF%89%23&t=31&band_rank=1&Refer=top)<br />
+2. [微信白用那么久了](https://s.weibo.com/weibo?q=%E5%BE%AE%E4%BF%A1%E7%99%BD%E7%94%A8%E9%82%A3%E4%B9%88%E4%B9%85%E4%BA%86&t=31&band_rank=2&Refer=top)<br />
 3. [大运会里的中国风巴蜀韵](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%BF%90%E4%BC%9A%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%E9%A3%8E%E5%B7%B4%E8%9C%80%E9%9F%B5%23&t=31&band_rank=3&Refer=top)<br />
 4. [小红书](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%BA%A2%E4%B9%A6&t=31&band_rank=4&Refer=top)<br />
 5. [台风](https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E&t=31&band_rank=5&Refer=top)<br />
