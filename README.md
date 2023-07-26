@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-26 13:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-26 13:46:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [王一博 不是因为工作太累导致身体不适](https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%20%E4%B8%8D%E6%98%AF%E5%9B%A0%E4%B8%BA%E5%B7%A5%E4%BD%9C%E5%A4%AA%E7%B4%AF%E5%AF%BC%E8%87%B4%E8%BA%AB%E4%BD%93%E4%B8%8D%E9%80%82&t=31&band_rank=2&Refer=top)<br />
 3. [青春主场欢聚在成都](https://s.weibo.com/weibo?q=%23%E9%9D%92%E6%98%A5%E4%B8%BB%E5%9C%BA%E6%AC%A2%E8%81%9A%E5%9C%A8%E6%88%90%E9%83%BD%23&t=31&band_rank=3&Refer=top)<br />
 4. [EXO青岛](https://s.weibo.com/weibo?q=EXO%E9%9D%92%E5%B2%9B&t=31&band_rank=4&Refer=top)<br />
-5. [杨幂簪发半遮面](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E7%B0%AA%E5%8F%91%E5%8D%8A%E9%81%AE%E9%9D%A2%23&t=31&band_rank=5&Refer=top)<br />
-6. [男子在四姑娘山旅游时遇难](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9C%A8%E5%9B%9B%E5%A7%91%E5%A8%98%E5%B1%B1%E6%97%85%E6%B8%B8%E6%97%B6%E9%81%87%E9%9A%BE%23&t=31&band_rank=6&Refer=top)<br />
+5. [男子在四姑娘山旅游时遇难](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9C%A8%E5%9B%9B%E5%A7%91%E5%A8%98%E5%B1%B1%E6%97%85%E6%B8%B8%E6%97%B6%E9%81%87%E9%9A%BE%23&t=31&band_rank=5&Refer=top)<br />
+6. [杨幂簪发半遮面](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E7%B0%AA%E5%8F%91%E5%8D%8A%E9%81%AE%E9%9D%A2%23&t=31&band_rank=6&Refer=top)<br />
 7. [成功在前妻腿上痛哭](https://s.weibo.com/weibo?q=%23%E6%88%90%E5%8A%9F%E5%9C%A8%E5%89%8D%E5%A6%BB%E8%85%BF%E4%B8%8A%E7%97%9B%E5%93%AD%23&t=31&band_rank=7&Refer=top)<br />
 8. [形式主义的安全检查真是够了](https://s.weibo.com/weibo?q=%23%E5%BD%A2%E5%BC%8F%E4%B8%BB%E4%B9%89%E7%9A%84%E5%AE%89%E5%85%A8%E6%A3%80%E6%9F%A5%E7%9C%9F%E6%98%AF%E5%A4%9F%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [猫狗绝育坏人表演一次几十元](https://s.weibo.com/weibo?q=%23%E7%8C%AB%E7%8B%97%E7%BB%9D%E8%82%B2%E5%9D%8F%E4%BA%BA%E8%A1%A8%E6%BC%94%E4%B8%80%E6%AC%A1%E5%87%A0%E5%8D%81%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
