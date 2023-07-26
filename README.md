@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-26 20:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-26 20:59:01</h4></div>
 
 > 微博  
 
@@ -23,9 +23,9 @@
 4. [大运村里的“科技范儿”](https://www.baidu.com/s?wd=%E5%A4%A7%E8%BF%90%E6%9D%91%E9%87%8C%E7%9A%84%E2%80%9C%E7%A7%91%E6%8A%80%E8%8C%83%E5%84%BF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [5岁哥哥把4岁妹妹推上公交后跑开](https://www.baidu.com/s?wd=5%E5%B2%81%E5%93%A5%E5%93%A5%E6%8A%8A4%E5%B2%81%E5%A6%B9%E5%A6%B9%E6%8E%A8%E4%B8%8A%E5%85%AC%E4%BA%A4%E5%90%8E%E8%B7%91%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [姐弟捡31部总价超21万手机上交](https://www.baidu.com/s?wd=%E5%A7%90%E5%BC%9F%E6%8D%A131%E9%83%A8%E6%80%BB%E4%BB%B7%E8%B6%8521%E4%B8%87%E6%89%8B%E6%9C%BA%E4%B8%8A%E4%BA%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [网民发视频称“继母将孩子打死”](https://www.baidu.com/s?wd=%E7%BD%91%E6%B0%91%E5%8F%91%E8%A7%86%E9%A2%91%E7%A7%B0%E2%80%9C%E7%BB%A7%E6%AF%8D%E5%B0%86%E5%AD%A9%E5%AD%90%E6%89%93%E6%AD%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子不顾劝阻涉水导致车辆熄火](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%8D%E9%A1%BE%E5%8A%9D%E9%98%BB%E6%B6%89%E6%B0%B4%E5%AF%BC%E8%87%B4%E8%BD%A6%E8%BE%86%E7%86%84%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女子把婴儿放在马路中间后离开](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8A%8A%E5%A9%B4%E5%84%BF%E6%94%BE%E5%9C%A8%E9%A9%AC%E8%B7%AF%E4%B8%AD%E9%97%B4%E5%90%8E%E7%A6%BB%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [美甲店老板2个月内当上“国企老总”](https://www.baidu.com/s?wd=%E7%BE%8E%E7%94%B2%E5%BA%97%E8%80%81%E6%9D%BF2%E4%B8%AA%E6%9C%88%E5%86%85%E5%BD%93%E4%B8%8A%E2%80%9C%E5%9B%BD%E4%BC%81%E8%80%81%E6%80%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [于适为了封神两年没剪头发](https://www.baidu.com/s?wd=%E4%BA%8E%E9%80%82%E4%B8%BA%E4%BA%86%E5%B0%81%E7%A5%9E%E4%B8%A4%E5%B9%B4%E6%B2%A1%E5%89%AA%E5%A4%B4%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -35,6 +35,6 @@
 4. [大运村里的“科技范儿”](https://www.baidu.com/s?wd=%E5%A4%A7%E8%BF%90%E6%9D%91%E9%87%8C%E7%9A%84%E2%80%9C%E7%A7%91%E6%8A%80%E8%8C%83%E5%84%BF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [5岁哥哥把4岁妹妹推上公交后跑开](https://www.baidu.com/s?wd=5%E5%B2%81%E5%93%A5%E5%93%A5%E6%8A%8A4%E5%B2%81%E5%A6%B9%E5%A6%B9%E6%8E%A8%E4%B8%8A%E5%85%AC%E4%BA%A4%E5%90%8E%E8%B7%91%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [姐弟捡31部总价超21万手机上交](https://www.baidu.com/s?wd=%E5%A7%90%E5%BC%9F%E6%8D%A131%E9%83%A8%E6%80%BB%E4%BB%B7%E8%B6%8521%E4%B8%87%E6%89%8B%E6%9C%BA%E4%B8%8A%E4%BA%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [网民发视频称“继母将孩子打死”](https://www.baidu.com/s?wd=%E7%BD%91%E6%B0%91%E5%8F%91%E8%A7%86%E9%A2%91%E7%A7%B0%E2%80%9C%E7%BB%A7%E6%AF%8D%E5%B0%86%E5%AD%A9%E5%AD%90%E6%89%93%E6%AD%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子不顾劝阻涉水导致车辆熄火](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%8D%E9%A1%BE%E5%8A%9D%E9%98%BB%E6%B6%89%E6%B0%B4%E5%AF%BC%E8%87%B4%E8%BD%A6%E8%BE%86%E7%86%84%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女子把婴儿放在马路中间后离开](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8A%8A%E5%A9%B4%E5%84%BF%E6%94%BE%E5%9C%A8%E9%A9%AC%E8%B7%AF%E4%B8%AD%E9%97%B4%E5%90%8E%E7%A6%BB%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [美甲店老板2个月内当上“国企老总”](https://www.baidu.com/s?wd=%E7%BE%8E%E7%94%B2%E5%BA%97%E8%80%81%E6%9D%BF2%E4%B8%AA%E6%9C%88%E5%86%85%E5%BD%93%E4%B8%8A%E2%80%9C%E5%9B%BD%E4%BC%81%E8%80%81%E6%80%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [于适为了封神两年没剪头发](https://www.baidu.com/s?wd=%E4%BA%8E%E9%80%82%E4%B8%BA%E4%BA%86%E5%B0%81%E7%A5%9E%E4%B8%A4%E5%B9%B4%E6%B2%A1%E5%89%AA%E5%A4%B4%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
