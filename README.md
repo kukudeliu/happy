@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-26 13:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-26 13:15:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [杨幂簪发半遮面](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E7%B0%AA%E5%8F%91%E5%8D%8A%E9%81%AE%E9%9D%A2%23&t=31&band_rank=6&Refer=top)<br />
 7. [中式麻辣烫和韩式麻辣烫的区别](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%BC%8F%E9%BA%BB%E8%BE%A3%E7%83%AB%E5%92%8C%E9%9F%A9%E5%BC%8F%E9%BA%BB%E8%BE%A3%E7%83%AB%E7%9A%84%E5%8C%BA%E5%88%AB%23&t=31&band_rank=7&Refer=top)<br />
 8. [大熊猫翘起jiojio点头示意奶爸按脚](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E7%BF%98%E8%B5%B7jiojio%E7%82%B9%E5%A4%B4%E7%A4%BA%E6%84%8F%E5%A5%B6%E7%88%B8%E6%8C%89%E8%84%9A%23&t=31&band_rank=8&Refer=top)<br />
-9. [台风杜苏芮](https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E%E6%9D%9C%E8%8B%8F%E8%8A%AE&t=31&band_rank=9&Refer=top)<br />
+9. [猫狗绝育坏人表演一次几十元](https://s.weibo.com/weibo?q=%23%E7%8C%AB%E7%8B%97%E7%BB%9D%E8%82%B2%E5%9D%8F%E4%BA%BA%E8%A1%A8%E6%BC%94%E4%B8%80%E6%AC%A1%E5%87%A0%E5%8D%81%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
