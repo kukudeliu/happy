@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-26 23:19:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-26 23:20:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [官方通报男子在张家界跳崖轻生](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%90%E5%9C%A8%E5%BC%A0%E5%AE%B6%E7%95%8C%E8%B7%B3%E5%B4%96%E8%BD%BB%E7%94%9F%23&t=31&band_rank=5&Refer=top)<br />
 6. [研究生称坐5小时高铁跨省面试被鸽](https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E7%94%9F%E7%A7%B0%E5%9D%905%E5%B0%8F%E6%97%B6%E9%AB%98%E9%93%81%E8%B7%A8%E7%9C%81%E9%9D%A2%E8%AF%95%E8%A2%AB%E9%B8%BD%23&t=31&band_rank=6&Refer=top)<br />
 7. [长相思断更的原因](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D%E6%96%AD%E6%9B%B4%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=7&Refer=top)<br />
-8. [匪我思存 这十年发生了好多好多事情](https://s.weibo.com/weibo?q=%E5%8C%AA%E6%88%91%E6%80%9D%E5%AD%98%20%E8%BF%99%E5%8D%81%E5%B9%B4%E5%8F%91%E7%94%9F%E4%BA%86%E5%A5%BD%E5%A4%9A%E5%A5%BD%E5%A4%9A%E4%BA%8B%E6%83%85&t=31&band_rank=8&Refer=top)<br />
-9. [台风](https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E&t=31&band_rank=9&Refer=top)<br />
+8. [台风](https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E&t=31&band_rank=8&Refer=top)<br />
+9. [匪我思存 这十年发生了好多好多事情](https://s.weibo.com/weibo?q=%E5%8C%AA%E6%88%91%E6%80%9D%E5%AD%98%20%E8%BF%99%E5%8D%81%E5%B9%B4%E5%8F%91%E7%94%9F%E4%BA%86%E5%A5%BD%E5%A4%9A%E5%A5%BD%E5%A4%9A%E4%BA%8B%E6%83%85&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
