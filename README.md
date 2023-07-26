@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-26 20:08:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-26 20:09:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [家长怒怼学费4万孩子考8分 教师回应](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E6%80%92%E6%80%BC%E5%AD%A6%E8%B4%B94%E4%B8%87%E5%AD%A9%E5%AD%90%E8%80%838%E5%88%86+%E6%95%99%E5%B8%88%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [大运村里的“科技范儿”](https://www.baidu.com/s?wd=%E5%A4%A7%E8%BF%90%E6%9D%91%E9%87%8C%E7%9A%84%E2%80%9C%E7%A7%91%E6%8A%80%E8%8C%83%E5%84%BF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [5岁哥哥把4岁妹妹推上公交后跑开](https://www.baidu.com/s?wd=5%E5%B2%81%E5%93%A5%E5%93%A5%E6%8A%8A4%E5%B2%81%E5%A6%B9%E5%A6%B9%E6%8E%A8%E4%B8%8A%E5%85%AC%E4%BA%A4%E5%90%8E%E8%B7%91%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [爸爸勇救溺水人员 女儿极度担心](https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8%E5%8B%87%E6%95%91%E6%BA%BA%E6%B0%B4%E4%BA%BA%E5%91%98+%E5%A5%B3%E5%84%BF%E6%9E%81%E5%BA%A6%E6%8B%85%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [湖南多人当街持刀互砍?当地回应](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E5%A4%9A%E4%BA%BA%E5%BD%93%E8%A1%97%E6%8C%81%E5%88%80%E4%BA%92%E7%A0%8D%3F%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [学硕要“退场”了吗？](https://www.baidu.com/s?wd=%E5%AD%A6%E7%A1%95%E8%A6%81%E2%80%9C%E9%80%80%E5%9C%BA%E2%80%9D%E4%BA%86%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [湖南多人当街持刀互砍?当地回应](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E5%A4%9A%E4%BA%BA%E5%BD%93%E8%A1%97%E6%8C%81%E5%88%80%E4%BA%92%E7%A0%8D%3F%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [学硕要“退场”了吗？](https://www.baidu.com/s?wd=%E5%AD%A6%E7%A1%95%E8%A6%81%E2%80%9C%E9%80%80%E5%9C%BA%E2%80%9D%E4%BA%86%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [爸爸勇救溺水人员 女儿极度担心](https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8%E5%8B%87%E6%95%91%E6%BA%BA%E6%B0%B4%E4%BA%BA%E5%91%98+%E5%A5%B3%E5%84%BF%E6%9E%81%E5%BA%A6%E6%8B%85%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [#曝某明星嫖娼被抓#](https://www.baidu.com/s?wd=%23%E6%9B%9D%E6%9F%90%E6%98%8E%E6%98%9F%E5%AB%96%E5%A8%BC%E8%A2%AB%E6%8A%93%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [家长怒怼学费4万孩子考8分 教师回应](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E6%80%92%E6%80%BC%E5%AD%A6%E8%B4%B94%E4%B8%87%E5%AD%A9%E5%AD%90%E8%80%838%E5%88%86+%E6%95%99%E5%B8%88%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [大运村里的“科技范儿”](https://www.baidu.com/s?wd=%E5%A4%A7%E8%BF%90%E6%9D%91%E9%87%8C%E7%9A%84%E2%80%9C%E7%A7%91%E6%8A%80%E8%8C%83%E5%84%BF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [5岁哥哥把4岁妹妹推上公交后跑开](https://www.baidu.com/s?wd=5%E5%B2%81%E5%93%A5%E5%93%A5%E6%8A%8A4%E5%B2%81%E5%A6%B9%E5%A6%B9%E6%8E%A8%E4%B8%8A%E5%85%AC%E4%BA%A4%E5%90%8E%E8%B7%91%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [爸爸勇救溺水人员 女儿极度担心](https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8%E5%8B%87%E6%95%91%E6%BA%BA%E6%B0%B4%E4%BA%BA%E5%91%98+%E5%A5%B3%E5%84%BF%E6%9E%81%E5%BA%A6%E6%8B%85%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [湖南多人当街持刀互砍?当地回应](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E5%A4%9A%E4%BA%BA%E5%BD%93%E8%A1%97%E6%8C%81%E5%88%80%E4%BA%92%E7%A0%8D%3F%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [学硕要“退场”了吗？](https://www.baidu.com/s?wd=%E5%AD%A6%E7%A1%95%E8%A6%81%E2%80%9C%E9%80%80%E5%9C%BA%E2%80%9D%E4%BA%86%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [湖南多人当街持刀互砍?当地回应](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E5%A4%9A%E4%BA%BA%E5%BD%93%E8%A1%97%E6%8C%81%E5%88%80%E4%BA%92%E7%A0%8D%3F%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [学硕要“退场”了吗？](https://www.baidu.com/s?wd=%E5%AD%A6%E7%A1%95%E8%A6%81%E2%80%9C%E9%80%80%E5%9C%BA%E2%80%9D%E4%BA%86%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [爸爸勇救溺水人员 女儿极度担心](https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8%E5%8B%87%E6%95%91%E6%BA%BA%E6%B0%B4%E4%BA%BA%E5%91%98+%E5%A5%B3%E5%84%BF%E6%9E%81%E5%BA%A6%E6%8B%85%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [#曝某明星嫖娼被抓#](https://www.baidu.com/s?wd=%23%E6%9B%9D%E6%9F%90%E6%98%8E%E6%98%9F%E5%AB%96%E5%A8%BC%E8%A2%AB%E6%8A%93%23&sa=fyb_news&rsv_dl=fyb_news)<br />
