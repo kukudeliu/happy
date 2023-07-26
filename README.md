@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-26 17:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-26 17:38:02</h4></div>
 
 > 微博  
 
@@ -17,10 +17,10 @@
 
 > 百度  
 
-1. [这场会议释放4大民生信号](https://www.baidu.com/s?wd=%E8%BF%99%E5%9C%BA%E4%BC%9A%E8%AE%AE%E9%87%8A%E6%94%BE4%E5%A4%A7%E6%B0%91%E7%94%9F%E4%BF%A1%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [铭记伟大胜利，推进伟大事业](https://www.baidu.com/s?wd=%E9%93%AD%E8%AE%B0%E4%BC%9F%E5%A4%A7%E8%83%9C%E5%88%A9%EF%BC%8C%E6%8E%A8%E8%BF%9B%E4%BC%9F%E5%A4%A7%E4%BA%8B%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [家长怒怼学费4万孩子考8分 教师回应](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E6%80%92%E6%80%BC%E5%AD%A6%E8%B4%B94%E4%B8%87%E5%AD%A9%E5%AD%90%E8%80%838%E5%88%86+%E6%95%99%E5%B8%88%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [油价三连涨 加一箱油多花11元左右](https://www.baidu.com/s?wd=%E6%B2%B9%E4%BB%B7%E4%B8%89%E8%BF%9E%E6%B6%A8+%E5%8A%A0%E4%B8%80%E7%AE%B1%E6%B2%B9%E5%A4%9A%E8%8A%B111%E5%85%83%E5%B7%A6%E5%8F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [“飞阅”大运会赛事场馆](https://www.baidu.com/s?wd=%E2%80%9C%E9%A3%9E%E9%98%85%E2%80%9D%E5%A4%A7%E8%BF%90%E4%BC%9A%E8%B5%9B%E4%BA%8B%E5%9C%BA%E9%A6%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [大运村里的“科技范儿”](https://www.baidu.com/s?wd=%E5%A4%A7%E8%BF%90%E6%9D%91%E9%87%8C%E7%9A%84%E2%80%9C%E7%A7%91%E6%8A%80%E8%8C%83%E5%84%BF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [表演艺术家赵有亮去世](https://www.baidu.com/s?wd=%E8%A1%A8%E6%BC%94%E8%89%BA%E6%9C%AF%E5%AE%B6%E8%B5%B5%E6%9C%89%E4%BA%AE%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [“罗刹海市”已被注册为商标](https://www.baidu.com/s?wd=%E2%80%9C%E7%BD%97%E5%88%B9%E6%B5%B7%E5%B8%82%E2%80%9D%E5%B7%B2%E8%A2%AB%E6%B3%A8%E5%86%8C%E4%B8%BA%E5%95%86%E6%A0%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子称因穿着暴露被同班情侣指责](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E5%9B%A0%E7%A9%BF%E7%9D%80%E6%9A%B4%E9%9C%B2%E8%A2%AB%E5%90%8C%E7%8F%AD%E6%83%85%E4%BE%A3%E6%8C%87%E8%B4%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,10 +29,10 @@
 
 > 哔哩哔哩  
 
-1. [这场会议释放4大民生信号](https://www.baidu.com/s?wd=%E8%BF%99%E5%9C%BA%E4%BC%9A%E8%AE%AE%E9%87%8A%E6%94%BE4%E5%A4%A7%E6%B0%91%E7%94%9F%E4%BF%A1%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [铭记伟大胜利，推进伟大事业](https://www.baidu.com/s?wd=%E9%93%AD%E8%AE%B0%E4%BC%9F%E5%A4%A7%E8%83%9C%E5%88%A9%EF%BC%8C%E6%8E%A8%E8%BF%9B%E4%BC%9F%E5%A4%A7%E4%BA%8B%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [家长怒怼学费4万孩子考8分 教师回应](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E6%80%92%E6%80%BC%E5%AD%A6%E8%B4%B94%E4%B8%87%E5%AD%A9%E5%AD%90%E8%80%838%E5%88%86+%E6%95%99%E5%B8%88%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [油价三连涨 加一箱油多花11元左右](https://www.baidu.com/s?wd=%E6%B2%B9%E4%BB%B7%E4%B8%89%E8%BF%9E%E6%B6%A8+%E5%8A%A0%E4%B8%80%E7%AE%B1%E6%B2%B9%E5%A4%9A%E8%8A%B111%E5%85%83%E5%B7%A6%E5%8F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [“飞阅”大运会赛事场馆](https://www.baidu.com/s?wd=%E2%80%9C%E9%A3%9E%E9%98%85%E2%80%9D%E5%A4%A7%E8%BF%90%E4%BC%9A%E8%B5%9B%E4%BA%8B%E5%9C%BA%E9%A6%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [大运村里的“科技范儿”](https://www.baidu.com/s?wd=%E5%A4%A7%E8%BF%90%E6%9D%91%E9%87%8C%E7%9A%84%E2%80%9C%E7%A7%91%E6%8A%80%E8%8C%83%E5%84%BF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [表演艺术家赵有亮去世](https://www.baidu.com/s?wd=%E8%A1%A8%E6%BC%94%E8%89%BA%E6%9C%AF%E5%AE%B6%E8%B5%B5%E6%9C%89%E4%BA%AE%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [“罗刹海市”已被注册为商标](https://www.baidu.com/s?wd=%E2%80%9C%E7%BD%97%E5%88%B9%E6%B5%B7%E5%B8%82%E2%80%9D%E5%B7%B2%E8%A2%AB%E6%B3%A8%E5%86%8C%E4%B8%BA%E5%95%86%E6%A0%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子称因穿着暴露被同班情侣指责](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E5%9B%A0%E7%A9%BF%E7%9D%80%E6%9A%B4%E9%9C%B2%E8%A2%AB%E5%90%8C%E7%8F%AD%E6%83%85%E4%BE%A3%E6%8C%87%E8%B4%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
