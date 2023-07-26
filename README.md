@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-27 06:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-27 06:09:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [共赴青春之约](https://www.baidu.com/s?wd=%E5%85%B1%E8%B5%B4%E9%9D%92%E6%98%A5%E4%B9%8B%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [姐弟捡31部总价超21万手机上交](https://www.baidu.com/s?wd=%E5%A7%90%E5%BC%9F%E6%8D%A131%E9%83%A8%E6%80%BB%E4%BB%B7%E8%B6%8521%E4%B8%87%E6%89%8B%E6%9C%BA%E4%B8%8A%E4%BA%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [被抓8个月后 媒体人曝光李铁现状](https://www.baidu.com/s?wd=%E8%A2%AB%E6%8A%938%E4%B8%AA%E6%9C%88%E5%90%8E+%E5%AA%92%E4%BD%93%E4%BA%BA%E6%9B%9D%E5%85%89%E6%9D%8E%E9%93%81%E7%8E%B0%E7%8A%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子称因穿着暴露被同班情侣指责](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E5%9B%A0%E7%A9%BF%E7%9D%80%E6%9A%B4%E9%9C%B2%E8%A2%AB%E5%90%8C%E7%8F%AD%E6%83%85%E4%BE%A3%E6%8C%87%E8%B4%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [美甲店老板2个月内当上“国企老总”](https://www.baidu.com/s?wd=%E7%BE%8E%E7%94%B2%E5%BA%97%E8%80%81%E6%9D%BF2%E4%B8%AA%E6%9C%88%E5%86%85%E5%BD%93%E4%B8%8A%E2%80%9C%E5%9B%BD%E4%BC%81%E8%80%81%E6%80%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [美甲店老板2个月内当上“国企老总”](https://www.baidu.com/s?wd=%E7%BE%8E%E7%94%B2%E5%BA%97%E8%80%81%E6%9D%BF2%E4%B8%AA%E6%9C%88%E5%86%85%E5%BD%93%E4%B8%8A%E2%80%9C%E5%9B%BD%E4%BC%81%E8%80%81%E6%80%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [家长怒怼学费4万孩子考8分 教师回应](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E6%80%92%E6%80%BC%E5%AD%A6%E8%B4%B94%E4%B8%87%E5%AD%A9%E5%AD%90%E8%80%838%E5%88%86+%E6%95%99%E5%B8%88%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [#曝某明星嫖娼被抓#](https://www.baidu.com/s?wd=%23%E6%9B%9D%E6%9F%90%E6%98%8E%E6%98%9F%E5%AB%96%E5%A8%BC%E8%A2%AB%E6%8A%93%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [共赴青春之约](https://www.baidu.com/s?wd=%E5%85%B1%E8%B5%B4%E9%9D%92%E6%98%A5%E4%B9%8B%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [姐弟捡31部总价超21万手机上交](https://www.baidu.com/s?wd=%E5%A7%90%E5%BC%9F%E6%8D%A131%E9%83%A8%E6%80%BB%E4%BB%B7%E8%B6%8521%E4%B8%87%E6%89%8B%E6%9C%BA%E4%B8%8A%E4%BA%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [被抓8个月后 媒体人曝光李铁现状](https://www.baidu.com/s?wd=%E8%A2%AB%E6%8A%938%E4%B8%AA%E6%9C%88%E5%90%8E+%E5%AA%92%E4%BD%93%E4%BA%BA%E6%9B%9D%E5%85%89%E6%9D%8E%E9%93%81%E7%8E%B0%E7%8A%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子称因穿着暴露被同班情侣指责](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E5%9B%A0%E7%A9%BF%E7%9D%80%E6%9A%B4%E9%9C%B2%E8%A2%AB%E5%90%8C%E7%8F%AD%E6%83%85%E4%BE%A3%E6%8C%87%E8%B4%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [美甲店老板2个月内当上“国企老总”](https://www.baidu.com/s?wd=%E7%BE%8E%E7%94%B2%E5%BA%97%E8%80%81%E6%9D%BF2%E4%B8%AA%E6%9C%88%E5%86%85%E5%BD%93%E4%B8%8A%E2%80%9C%E5%9B%BD%E4%BC%81%E8%80%81%E6%80%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [美甲店老板2个月内当上“国企老总”](https://www.baidu.com/s?wd=%E7%BE%8E%E7%94%B2%E5%BA%97%E8%80%81%E6%9D%BF2%E4%B8%AA%E6%9C%88%E5%86%85%E5%BD%93%E4%B8%8A%E2%80%9C%E5%9B%BD%E4%BC%81%E8%80%81%E6%80%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [家长怒怼学费4万孩子考8分 教师回应](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E6%80%92%E6%80%BC%E5%AD%A6%E8%B4%B94%E4%B8%87%E5%AD%A9%E5%AD%90%E8%80%838%E5%88%86+%E6%95%99%E5%B8%88%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [#曝某明星嫖娼被抓#](https://www.baidu.com/s?wd=%23%E6%9B%9D%E6%9F%90%E6%98%8E%E6%98%9F%E5%AB%96%E5%A8%BC%E8%A2%AB%E6%8A%93%23&sa=fyb_news&rsv_dl=fyb_news)<br />
