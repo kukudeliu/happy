@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-26 16:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-26 16:40:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [韩国人考公有多卷](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%BA%BA%E8%80%83%E5%85%AC%E6%9C%89%E5%A4%9A%E5%8D%B7%23&t=31&band_rank=6&Refer=top)<br />
 7. [110元点了11道菜](https://s.weibo.com/weibo?q=110%E5%85%83%E7%82%B9%E4%BA%8611%E9%81%93%E8%8F%9C&t=31&band_rank=7&Refer=top)<br />
 8. [封神票房](https://s.weibo.com/weibo?q=%E5%B0%81%E7%A5%9E%E7%A5%A8%E6%88%BF&t=31&band_rank=8&Refer=top)<br />
-9. [赵有亮去世](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E6%9C%89%E4%BA%AE%E5%8E%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
+9. [新西游记大逃脱下架](https://s.weibo.com/weibo?q=%23%E6%96%B0%E8%A5%BF%E6%B8%B8%E8%AE%B0%E5%A4%A7%E9%80%83%E8%84%B1%E4%B8%8B%E6%9E%B6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
