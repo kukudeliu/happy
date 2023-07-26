@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-26 23:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-26 23:50:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [研究生称坐5小时高铁跨省面试被鸽](https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E7%94%9F%E7%A7%B0%E5%9D%905%E5%B0%8F%E6%97%B6%E9%AB%98%E9%93%81%E8%B7%A8%E7%9C%81%E9%9D%A2%E8%AF%95%E8%A2%AB%E9%B8%BD%23&t=31&band_rank=5&Refer=top)<br />
 6. [台风](https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E&t=31&band_rank=6&Refer=top)<br />
 7. [封神成本30亿](https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E%E6%88%90%E6%9C%AC30%E4%BA%BF%23&t=31&band_rank=7&Refer=top)<br />
-8. [官方通报男子在张家界跳崖轻生](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%90%E5%9C%A8%E5%BC%A0%E5%AE%B6%E7%95%8C%E8%B7%B3%E5%B4%96%E8%BD%BB%E7%94%9F%23&t=31&band_rank=8&Refer=top)<br />
-9. [没想到小鸟的肚子长这样](https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E5%B0%8F%E9%B8%9F%E7%9A%84%E8%82%9A%E5%AD%90%E9%95%BF%E8%BF%99%E6%A0%B7%23&t=31&band_rank=9&Refer=top)<br />
+8. [没想到小鸟的肚子长这样](https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E5%B0%8F%E9%B8%9F%E7%9A%84%E8%82%9A%E5%AD%90%E9%95%BF%E8%BF%99%E6%A0%B7%23&t=31&band_rank=8&Refer=top)<br />
+9. [官方通报男子在张家界跳崖轻生](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%90%E5%9C%A8%E5%BC%A0%E5%AE%B6%E7%95%8C%E8%B7%B3%E5%B4%96%E8%BD%BB%E7%94%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
