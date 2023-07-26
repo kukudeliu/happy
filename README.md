@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-26 23:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-26 23:25:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [被抓8个月后 媒体人曝光李铁现状](https://www.baidu.com/s?wd=%E8%A2%AB%E6%8A%938%E4%B8%AA%E6%9C%88%E5%90%8E+%E5%AA%92%E4%BD%93%E4%BA%BA%E6%9B%9D%E5%85%89%E6%9D%8E%E9%93%81%E7%8E%B0%E7%8A%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子称酒后遭性侵 嫌疑人未被批捕](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E9%85%92%E5%90%8E%E9%81%AD%E6%80%A7%E4%BE%B5+%E5%AB%8C%E7%96%91%E4%BA%BA%E6%9C%AA%E8%A2%AB%E6%89%B9%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子不顾劝阻涉水导致车辆熄火](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%8D%E9%A1%BE%E5%8A%9D%E9%98%BB%E6%B6%89%E6%B0%B4%E5%AF%BC%E8%87%B4%E8%BD%A6%E8%BE%86%E7%86%84%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子称因穿着暴露被同班情侣指责](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E5%9B%A0%E7%A9%BF%E7%9D%80%E6%9A%B4%E9%9C%B2%E8%A2%AB%E5%90%8C%E7%8F%AD%E6%83%85%E4%BE%A3%E6%8C%87%E8%B4%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [乌尔善说封神还没走出ICU](https://www.baidu.com/s?wd=%E4%B9%8C%E5%B0%94%E5%96%84%E8%AF%B4%E5%B0%81%E7%A5%9E%E8%BF%98%E6%B2%A1%E8%B5%B0%E5%87%BAICU&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [被抓8个月后 媒体人曝光李铁现状](https://www.baidu.com/s?wd=%E8%A2%AB%E6%8A%938%E4%B8%AA%E6%9C%88%E5%90%8E+%E5%AA%92%E4%BD%93%E4%BA%BA%E6%9B%9D%E5%85%89%E6%9D%8E%E9%93%81%E7%8E%B0%E7%8A%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子称酒后遭性侵 嫌疑人未被批捕](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E9%85%92%E5%90%8E%E9%81%AD%E6%80%A7%E4%BE%B5+%E5%AB%8C%E7%96%91%E4%BA%BA%E6%9C%AA%E8%A2%AB%E6%89%B9%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子不顾劝阻涉水导致车辆熄火](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%8D%E9%A1%BE%E5%8A%9D%E9%98%BB%E6%B6%89%E6%B0%B4%E5%AF%BC%E8%87%B4%E8%BD%A6%E8%BE%86%E7%86%84%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子称因穿着暴露被同班情侣指责](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E5%9B%A0%E7%A9%BF%E7%9D%80%E6%9A%B4%E9%9C%B2%E8%A2%AB%E5%90%8C%E7%8F%AD%E6%83%85%E4%BE%A3%E6%8C%87%E8%B4%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [乌尔善说封神还没走出ICU](https://www.baidu.com/s?wd=%E4%B9%8C%E5%B0%94%E5%96%84%E8%AF%B4%E5%B0%81%E7%A5%9E%E8%BF%98%E6%B2%A1%E8%B5%B0%E5%87%BAICU&sa=fyb_news&rsv_dl=fyb_news)<br />
