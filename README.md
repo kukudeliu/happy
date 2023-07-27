@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 03:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 03:48:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [当事人回应演唱会买到水泥墩位](https://www.baidu.com/s?wd=%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%9B%9E%E5%BA%94%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B9%B0%E5%88%B0%E6%B0%B4%E6%B3%A5%E5%A2%A9%E4%BD%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [普京是否要访华？外交部回应](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E6%98%AF%E5%90%A6%E8%A6%81%E8%AE%BF%E5%8D%8E%EF%BC%9F%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [封神导演自曝电影失败需用10年还债](https://www.baidu.com/s?wd=%E5%B0%81%E7%A5%9E%E5%AF%BC%E6%BC%94%E8%87%AA%E6%9B%9D%E7%94%B5%E5%BD%B1%E5%A4%B1%E8%B4%A5%E9%9C%80%E7%94%A810%E5%B9%B4%E8%BF%98%E5%80%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [厦门人被莫兰蒂支配的恐惧回来了](https://www.baidu.com/s?wd=%E5%8E%A6%E9%97%A8%E4%BA%BA%E8%A2%AB%E8%8E%AB%E5%85%B0%E8%92%82%E6%94%AF%E9%85%8D%E7%9A%84%E6%81%90%E6%83%A7%E5%9B%9E%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子喝酒过量生命垂危 父亲紧紧抱住](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%96%9D%E9%85%92%E8%BF%87%E9%87%8F%E7%94%9F%E5%91%BD%E5%9E%82%E5%8D%B1+%E7%88%B6%E4%BA%B2%E7%B4%A7%E7%B4%A7%E6%8A%B1%E4%BD%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [当事人回应演唱会买到水泥墩位](https://www.baidu.com/s?wd=%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%9B%9E%E5%BA%94%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B9%B0%E5%88%B0%E6%B0%B4%E6%B3%A5%E5%A2%A9%E4%BD%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [普京是否要访华？外交部回应](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E6%98%AF%E5%90%A6%E8%A6%81%E8%AE%BF%E5%8D%8E%EF%BC%9F%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [封神导演自曝电影失败需用10年还债](https://www.baidu.com/s?wd=%E5%B0%81%E7%A5%9E%E5%AF%BC%E6%BC%94%E8%87%AA%E6%9B%9D%E7%94%B5%E5%BD%B1%E5%A4%B1%E8%B4%A5%E9%9C%80%E7%94%A810%E5%B9%B4%E8%BF%98%E5%80%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [厦门人被莫兰蒂支配的恐惧回来了](https://www.baidu.com/s?wd=%E5%8E%A6%E9%97%A8%E4%BA%BA%E8%A2%AB%E8%8E%AB%E5%85%B0%E8%92%82%E6%94%AF%E9%85%8D%E7%9A%84%E6%81%90%E6%83%A7%E5%9B%9E%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子喝酒过量生命垂危 父亲紧紧抱住](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%96%9D%E9%85%92%E8%BF%87%E9%87%8F%E7%94%9F%E5%91%BD%E5%9E%82%E5%8D%B1+%E7%88%B6%E4%BA%B2%E7%B4%A7%E7%B4%A7%E6%8A%B1%E4%BD%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
