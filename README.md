@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-27 12:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-27 12:27:01</h4></div>
 
 > 微博  
 
-1. [成都17岁虐猫男生](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD17%E5%B2%81%E8%99%90%E7%8C%AB%E7%94%B7%E7%94%9F%23&t=31&band_rank=1&Refer=top)<br />
-2. [六公主报道黄牛倒卖演唱会门票](https://s.weibo.com/weibo?q=%23%E5%85%AD%E5%85%AC%E4%B8%BB%E6%8A%A5%E9%81%93%E9%BB%84%E7%89%9B%E5%80%92%E5%8D%96%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%23&t=31&band_rank=2&Refer=top)<br />
+1. [六公主报道黄牛倒卖演唱会门票](https://s.weibo.com/weibo?q=%23%E5%85%AD%E5%85%AC%E4%B8%BB%E6%8A%A5%E9%81%93%E9%BB%84%E7%89%9B%E5%80%92%E5%8D%96%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%23&t=31&band_rank=1&Refer=top)<br />
+2. [成都17岁虐猫男生](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD17%E5%B2%81%E8%99%90%E7%8C%AB%E7%94%B7%E7%94%9F%23&t=31&band_rank=2&Refer=top)<br />
 3. [英雄荣光](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E8%8D%A3%E5%85%89%23&t=31&band_rank=3&Refer=top)<br />
 4. [涂磊报警](https://s.weibo.com/weibo?q=%23%E6%B6%82%E7%A3%8A%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=4&Refer=top)<br />
 5. [杨紫评论张晚意](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E8%AF%84%E8%AE%BA%E5%BC%A0%E6%99%9A%E6%84%8F%23&t=31&band_rank=5&Refer=top)<br />
