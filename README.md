@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 01:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 01:18:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [日本男子花10万元把自己变成狗](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%94%B7%E5%AD%90%E8%8A%B110%E4%B8%87%E5%85%83%E6%8A%8A%E8%87%AA%E5%B7%B1%E5%8F%98%E6%88%90%E7%8B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [南非外长：安理会辜负世界各国](https://www.baidu.com/s?wd=%E5%8D%97%E9%9D%9E%E5%A4%96%E9%95%BF%EF%BC%9A%E5%AE%89%E7%90%86%E4%BC%9A%E8%BE%9C%E8%B4%9F%E4%B8%96%E7%95%8C%E5%90%84%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [新疆兵团原副司令员焦小平被双开](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E5%85%B5%E5%9B%A2%E5%8E%9F%E5%89%AF%E5%8F%B8%E4%BB%A4%E5%91%98%E7%84%A6%E5%B0%8F%E5%B9%B3%E8%A2%AB%E5%8F%8C%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [初中生同乘摩托车撞墙致2死1伤](https://www.baidu.com/s?wd=%E5%88%9D%E4%B8%AD%E7%94%9F%E5%90%8C%E4%B9%98%E6%91%A9%E6%89%98%E8%BD%A6%E6%92%9E%E5%A2%99%E8%87%B42%E6%AD%BB1%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [古特雷斯：全球沸腾时代到来](https://www.baidu.com/s?wd=%E5%8F%A4%E7%89%B9%E9%9B%B7%E6%96%AF%EF%BC%9A%E5%85%A8%E7%90%83%E6%B2%B8%E8%85%BE%E6%97%B6%E4%BB%A3%E5%88%B0%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [日本男子花10万元把自己变成狗](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%94%B7%E5%AD%90%E8%8A%B110%E4%B8%87%E5%85%83%E6%8A%8A%E8%87%AA%E5%B7%B1%E5%8F%98%E6%88%90%E7%8B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [南非外长：安理会辜负世界各国](https://www.baidu.com/s?wd=%E5%8D%97%E9%9D%9E%E5%A4%96%E9%95%BF%EF%BC%9A%E5%AE%89%E7%90%86%E4%BC%9A%E8%BE%9C%E8%B4%9F%E4%B8%96%E7%95%8C%E5%90%84%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [新疆兵团原副司令员焦小平被双开](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E5%85%B5%E5%9B%A2%E5%8E%9F%E5%89%AF%E5%8F%B8%E4%BB%A4%E5%91%98%E7%84%A6%E5%B0%8F%E5%B9%B3%E8%A2%AB%E5%8F%8C%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [初中生同乘摩托车撞墙致2死1伤](https://www.baidu.com/s?wd=%E5%88%9D%E4%B8%AD%E7%94%9F%E5%90%8C%E4%B9%98%E6%91%A9%E6%89%98%E8%BD%A6%E6%92%9E%E5%A2%99%E8%87%B42%E6%AD%BB1%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [古特雷斯：全球沸腾时代到来](https://www.baidu.com/s?wd=%E5%8F%A4%E7%89%B9%E9%9B%B7%E6%96%AF%EF%BC%9A%E5%85%A8%E7%90%83%E6%B2%B8%E8%85%BE%E6%97%B6%E4%BB%A3%E5%88%B0%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
