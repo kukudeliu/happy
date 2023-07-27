@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-27 08:45:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-27 08:46:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [如果封神失败导演需用10年还债](https://s.weibo.com/weibo?q=%23%E5%A6%82%E6%9E%9C%E5%B0%81%E7%A5%9E%E5%A4%B1%E8%B4%A5%E5%AF%BC%E6%BC%94%E9%9C%80%E7%94%A810%E5%B9%B4%E8%BF%98%E5%80%BA%23&t=31&band_rank=5&Refer=top)<br />
 6. [李昌钰就伪造证据事件发声](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%98%8C%E9%92%B0%E5%B0%B1%E4%BC%AA%E9%80%A0%E8%AF%81%E6%8D%AE%E4%BA%8B%E4%BB%B6%E5%8F%91%E5%A3%B0%23&t=31&band_rank=6&Refer=top)<br />
 7. [台风](https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E&t=31&band_rank=7&Refer=top)<br />
-8. [哥哥第一次带女朋友回家](https://s.weibo.com/weibo?q=%E5%93%A5%E5%93%A5%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%B8%A6%E5%A5%B3%E6%9C%8B%E5%8F%8B%E5%9B%9E%E5%AE%B6&t=31&band_rank=8&Refer=top)<br />
-9. [租客3天没关门邻居以为出事报警](https://s.weibo.com/weibo?q=%23%E7%A7%9F%E5%AE%A23%E5%A4%A9%E6%B2%A1%E5%85%B3%E9%97%A8%E9%82%BB%E5%B1%85%E4%BB%A5%E4%B8%BA%E5%87%BA%E4%BA%8B%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=9&Refer=top)<br />
+8. [租客3天没关门邻居以为出事报警](https://s.weibo.com/weibo?q=%23%E7%A7%9F%E5%AE%A23%E5%A4%A9%E6%B2%A1%E5%85%B3%E9%97%A8%E9%82%BB%E5%B1%85%E4%BB%A5%E4%B8%BA%E5%87%BA%E4%BA%8B%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=8&Refer=top)<br />
+9. [哥哥第一次带女朋友回家](https://s.weibo.com/weibo?q=%E5%93%A5%E5%93%A5%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%B8%A6%E5%A5%B3%E6%9C%8B%E5%8F%8B%E5%9B%9E%E5%AE%B6&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
