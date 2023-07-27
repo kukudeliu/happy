@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-27 11:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-27 11:42:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [长相思罚站榜](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D%E7%BD%9A%E7%AB%99%E6%A6%9C&t=31&band_rank=5&Refer=top)<br />
 6. [台风杜苏芮路径拐了个直角](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E6%9D%9C%E8%8B%8F%E8%8A%AE%E8%B7%AF%E5%BE%84%E6%8B%90%E4%BA%86%E4%B8%AA%E7%9B%B4%E8%A7%92%23&t=31&band_rank=6&Refer=top)<br />
 7. [如果封神失败导演需用10年还债](https://s.weibo.com/weibo?q=%23%E5%A6%82%E6%9E%9C%E5%B0%81%E7%A5%9E%E5%A4%B1%E8%B4%A5%E5%AF%BC%E6%BC%94%E9%9C%80%E7%94%A810%E5%B9%B4%E8%BF%98%E5%80%BA%23&t=31&band_rank=7&Refer=top)<br />
-8. [微信白用那么久了](https://s.weibo.com/weibo?q=%E5%BE%AE%E4%BF%A1%E7%99%BD%E7%94%A8%E9%82%A3%E4%B9%88%E4%B9%85%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [台风](https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E&t=31&band_rank=9&Refer=top)<br />
+8. [台风](https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E&t=31&band_rank=8&Refer=top)<br />
+9. [微信白用那么久了](https://s.weibo.com/weibo?q=%E5%BE%AE%E4%BF%A1%E7%99%BD%E7%94%A8%E9%82%A3%E4%B9%88%E4%B9%85%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
