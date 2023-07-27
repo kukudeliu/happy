@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-27 14:51:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-27 14:52:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [那英 声替](https://s.weibo.com/weibo?q=%E9%82%A3%E8%8B%B1%20%E5%A3%B0%E6%9B%BF&t=31&band_rank=2&Refer=top)<br />
 3. [英雄荣光](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E8%8D%A3%E5%85%89%23&t=31&band_rank=3&Refer=top)<br />
 4. [敖子逸给蒋依依道歉](https://s.weibo.com/weibo?q=%23%E6%95%96%E5%AD%90%E9%80%B8%E7%BB%99%E8%92%8B%E4%BE%9D%E4%BE%9D%E9%81%93%E6%AD%89%23&t=31&band_rank=4&Refer=top)<br />
-5. [厦门7月27日15时起三停一休](https://s.weibo.com/weibo?q=%23%E5%8E%A6%E9%97%A87%E6%9C%8827%E6%97%A515%E6%97%B6%E8%B5%B7%E4%B8%89%E5%81%9C%E4%B8%80%E4%BC%91%23&t=31&band_rank=5&Refer=top)<br />
-6. [杜海涛眼里的沈梦辰](https://s.weibo.com/weibo?q=%23%E6%9D%9C%E6%B5%B7%E6%B6%9B%E7%9C%BC%E9%87%8C%E7%9A%84%E6%B2%88%E6%A2%A6%E8%BE%B0%23&t=31&band_rank=6&Refer=top)<br />
-7. [长相思见面会](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D%E8%A7%81%E9%9D%A2%E4%BC%9A%23&t=31&band_rank=7&Refer=top)<br />
-8. [台风杜苏芮路径拐了个直角](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E6%9D%9C%E8%8B%8F%E8%8A%AE%E8%B7%AF%E5%BE%84%E6%8B%90%E4%BA%86%E4%B8%AA%E7%9B%B4%E8%A7%92%23&t=31&band_rank=8&Refer=top)<br />
-9. [江宏杰召开记者会控诉福原爱](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E5%AE%8F%E6%9D%B0%E5%8F%AC%E5%BC%80%E8%AE%B0%E8%80%85%E4%BC%9A%E6%8E%A7%E8%AF%89%E7%A6%8F%E5%8E%9F%E7%88%B1%23&t=31&band_rank=9&Refer=top)<br />
+5. [花花和谭爷爷惊喜出镜](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%8A%B1%E5%92%8C%E8%B0%AD%E7%88%B7%E7%88%B7%E6%83%8A%E5%96%9C%E5%87%BA%E9%95%9C%23&t=31&band_rank=5&Refer=top)<br />
+6. [厦门7月27日15时起三停一休](https://s.weibo.com/weibo?q=%23%E5%8E%A6%E9%97%A87%E6%9C%8827%E6%97%A515%E6%97%B6%E8%B5%B7%E4%B8%89%E5%81%9C%E4%B8%80%E4%BC%91%23&t=31&band_rank=6&Refer=top)<br />
+7. [杜海涛眼里的沈梦辰](https://s.weibo.com/weibo?q=%23%E6%9D%9C%E6%B5%B7%E6%B6%9B%E7%9C%BC%E9%87%8C%E7%9A%84%E6%B2%88%E6%A2%A6%E8%BE%B0%23&t=31&band_rank=7&Refer=top)<br />
+8. [长相思见面会](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D%E8%A7%81%E9%9D%A2%E4%BC%9A%23&t=31&band_rank=8&Refer=top)<br />
+9. [台风杜苏芮路径拐了个直角](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E6%9D%9C%E8%8B%8F%E8%8A%AE%E8%B7%AF%E5%BE%84%E6%8B%90%E4%BA%86%E4%B8%AA%E7%9B%B4%E8%A7%92%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
