@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-27 19:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-27 19:37:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [中国游客在日本爆买LV](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%9C%A8%E6%97%A5%E6%9C%AC%E7%88%86%E4%B9%B0LV&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子喝酒过量生命垂危 父亲紧紧抱住](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%96%9D%E9%85%92%E8%BF%87%E9%87%8F%E7%94%9F%E5%91%BD%E5%9E%82%E5%8D%B1+%E7%88%B6%E4%BA%B2%E7%B4%A7%E7%B4%A7%E6%8A%B1%E4%BD%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [这对父子四个月身家暴涨130亿](https://www.baidu.com/s?wd=%E8%BF%99%E5%AF%B9%E7%88%B6%E5%AD%90%E5%9B%9B%E4%B8%AA%E6%9C%88%E8%BA%AB%E5%AE%B6%E6%9A%B4%E6%B6%A8130%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [胡锡进：感觉自己可能加仓过急了](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%EF%BC%9A%E6%84%9F%E8%A7%89%E8%87%AA%E5%B7%B1%E5%8F%AF%E8%83%BD%E5%8A%A0%E4%BB%93%E8%BF%87%E6%80%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [空调师傅疑操作不当致买家触电身亡](https://www.baidu.com/s?wd=%E7%A9%BA%E8%B0%83%E5%B8%88%E5%82%85%E7%96%91%E6%93%8D%E4%BD%9C%E4%B8%8D%E5%BD%93%E8%87%B4%E4%B9%B0%E5%AE%B6%E8%A7%A6%E7%94%B5%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [中国游客在日本爆买LV](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%9C%A8%E6%97%A5%E6%9C%AC%E7%88%86%E4%B9%B0LV&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子喝酒过量生命垂危 父亲紧紧抱住](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%96%9D%E9%85%92%E8%BF%87%E9%87%8F%E7%94%9F%E5%91%BD%E5%9E%82%E5%8D%B1+%E7%88%B6%E4%BA%B2%E7%B4%A7%E7%B4%A7%E6%8A%B1%E4%BD%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [这对父子四个月身家暴涨130亿](https://www.baidu.com/s?wd=%E8%BF%99%E5%AF%B9%E7%88%B6%E5%AD%90%E5%9B%9B%E4%B8%AA%E6%9C%88%E8%BA%AB%E5%AE%B6%E6%9A%B4%E6%B6%A8130%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [胡锡进：感觉自己可能加仓过急了](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%EF%BC%9A%E6%84%9F%E8%A7%89%E8%87%AA%E5%B7%B1%E5%8F%AF%E8%83%BD%E5%8A%A0%E4%BB%93%E8%BF%87%E6%80%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [空调师傅疑操作不当致买家触电身亡](https://www.baidu.com/s?wd=%E7%A9%BA%E8%B0%83%E5%B8%88%E5%82%85%E7%96%91%E6%93%8D%E4%BD%9C%E4%B8%8D%E5%BD%93%E8%87%B4%E4%B9%B0%E5%AE%B6%E8%A7%A6%E7%94%B5%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
