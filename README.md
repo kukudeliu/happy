@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-27 19:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-27 19:39:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [火箭军原副司令员吴国华中将逝世](https://s.weibo.com/weibo?q=%23%E7%81%AB%E7%AE%AD%E5%86%9B%E5%8E%9F%E5%89%AF%E5%8F%B8%E4%BB%A4%E5%91%98%E5%90%B4%E5%9B%BD%E5%8D%8E%E4%B8%AD%E5%B0%86%E9%80%9D%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [91岁抗美援朝老兵曾血战7天7夜](https://s.weibo.com/weibo?q=%2391%E5%B2%81%E6%8A%97%E7%BE%8E%E6%8F%B4%E6%9C%9D%E8%80%81%E5%85%B5%E6%9B%BE%E8%A1%80%E6%88%987%E5%A4%A97%E5%A4%9C%23&t=31&band_rank=7&Refer=top)<br />
 8. [韩国一父亲猛抽校园霸凌者100多个耳光](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%B8%80%E7%88%B6%E4%BA%B2%E7%8C%9B%E6%8A%BD%E6%A0%A1%E5%9B%AD%E9%9C%B8%E5%87%8C%E8%80%85100%E5%A4%9A%E4%B8%AA%E8%80%B3%E5%85%89%23&t=31&band_rank=8&Refer=top)<br />
-9. [长相思新浪扫楼](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D%E6%96%B0%E6%B5%AA%E6%89%AB%E6%A5%BC%23&t=31&band_rank=9&Refer=top)<br />
+9. [孟宴臣送许沁的皇冠约合538人民币](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AE%B4%E8%87%A3%E9%80%81%E8%AE%B8%E6%B2%81%E7%9A%84%E7%9A%87%E5%86%A0%E7%BA%A6%E5%90%88538%E4%BA%BA%E6%B0%91%E5%B8%81%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,8 +24,8 @@
 5. [单科8分涉事学校违规收取两千余万](https://www.baidu.com/s?wd=%E5%8D%95%E7%A7%918%E5%88%86%E6%B6%89%E4%BA%8B%E5%AD%A6%E6%A0%A1%E8%BF%9D%E8%A7%84%E6%94%B6%E5%8F%96%E4%B8%A4%E5%8D%83%E4%BD%99%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [中国游客在日本爆买LV](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%9C%A8%E6%97%A5%E6%9C%AC%E7%88%86%E4%B9%B0LV&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子喝酒过量生命垂危 父亲紧紧抱住](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%96%9D%E9%85%92%E8%BF%87%E9%87%8F%E7%94%9F%E5%91%BD%E5%9E%82%E5%8D%B1+%E7%88%B6%E4%BA%B2%E7%B4%A7%E7%B4%A7%E6%8A%B1%E4%BD%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [这对父子四个月身家暴涨130亿](https://www.baidu.com/s?wd=%E8%BF%99%E5%AF%B9%E7%88%B6%E5%AD%90%E5%9B%9B%E4%B8%AA%E6%9C%88%E8%BA%AB%E5%AE%B6%E6%9A%B4%E6%B6%A8130%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [空调师傅疑操作不当致买家触电身亡](https://www.baidu.com/s?wd=%E7%A9%BA%E8%B0%83%E5%B8%88%E5%82%85%E7%96%91%E6%93%8D%E4%BD%9C%E4%B8%8D%E5%BD%93%E8%87%B4%E4%B9%B0%E5%AE%B6%E8%A7%A6%E7%94%B5%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [空调师傅疑操作不当致买家触电身亡](https://www.baidu.com/s?wd=%E7%A9%BA%E8%B0%83%E5%B8%88%E5%82%85%E7%96%91%E6%93%8D%E4%BD%9C%E4%B8%8D%E5%BD%93%E8%87%B4%E4%B9%B0%E5%AE%B6%E8%A7%A6%E7%94%B5%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [这对父子四个月身家暴涨130亿](https://www.baidu.com/s?wd=%E8%BF%99%E5%AF%B9%E7%88%B6%E5%AD%90%E5%9B%9B%E4%B8%AA%E6%9C%88%E8%BA%AB%E5%AE%B6%E6%9A%B4%E6%B6%A8130%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [单科8分涉事学校违规收取两千余万](https://www.baidu.com/s?wd=%E5%8D%95%E7%A7%918%E5%88%86%E6%B6%89%E4%BA%8B%E5%AD%A6%E6%A0%A1%E8%BF%9D%E8%A7%84%E6%94%B6%E5%8F%96%E4%B8%A4%E5%8D%83%E4%BD%99%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [中国游客在日本爆买LV](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%9C%A8%E6%97%A5%E6%9C%AC%E7%88%86%E4%B9%B0LV&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子喝酒过量生命垂危 父亲紧紧抱住](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%96%9D%E9%85%92%E8%BF%87%E9%87%8F%E7%94%9F%E5%91%BD%E5%9E%82%E5%8D%B1+%E7%88%B6%E4%BA%B2%E7%B4%A7%E7%B4%A7%E6%8A%B1%E4%BD%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [这对父子四个月身家暴涨130亿](https://www.baidu.com/s?wd=%E8%BF%99%E5%AF%B9%E7%88%B6%E5%AD%90%E5%9B%9B%E4%B8%AA%E6%9C%88%E8%BA%AB%E5%AE%B6%E6%9A%B4%E6%B6%A8130%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [空调师傅疑操作不当致买家触电身亡](https://www.baidu.com/s?wd=%E7%A9%BA%E8%B0%83%E5%B8%88%E5%82%85%E7%96%91%E6%93%8D%E4%BD%9C%E4%B8%8D%E5%BD%93%E8%87%B4%E4%B9%B0%E5%AE%B6%E8%A7%A6%E7%94%B5%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [空调师傅疑操作不当致买家触电身亡](https://www.baidu.com/s?wd=%E7%A9%BA%E8%B0%83%E5%B8%88%E5%82%85%E7%96%91%E6%93%8D%E4%BD%9C%E4%B8%8D%E5%BD%93%E8%87%B4%E4%B9%B0%E5%AE%B6%E8%A7%A6%E7%94%B5%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [这对父子四个月身家暴涨130亿](https://www.baidu.com/s?wd=%E8%BF%99%E5%AF%B9%E7%88%B6%E5%AD%90%E5%9B%9B%E4%B8%AA%E6%9C%88%E8%BA%AB%E5%AE%B6%E6%9A%B4%E6%B6%A8130%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
