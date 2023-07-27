@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-27 18:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-27 18:52:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [王栎鑫是娱乐圈大漏勺吧](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A0%8E%E9%91%AB%E6%98%AF%E5%A8%B1%E4%B9%90%E5%9C%88%E5%A4%A7%E6%BC%8F%E5%8B%BA%E5%90%A7%23&t=31&band_rank=6&Refer=top)<br />
 7. [91岁抗美援朝老兵曾血战7天7夜](https://s.weibo.com/weibo?q=%2391%E5%B2%81%E6%8A%97%E7%BE%8E%E6%8F%B4%E6%9C%9D%E8%80%81%E5%85%B5%E6%9B%BE%E8%A1%80%E6%88%987%E5%A4%A97%E5%A4%9C%23&t=31&band_rank=7&Refer=top)<br />
 8. [长相思新浪扫楼](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D%E6%96%B0%E6%B5%AA%E6%89%AB%E6%A5%BC%23&t=31&band_rank=8&Refer=top)<br />
-9. [黄晓明这回真听劝了](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E8%BF%99%E5%9B%9E%E7%9C%9F%E5%90%AC%E5%8A%9D%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [民政部回应结婚必须提供户口簿](https://s.weibo.com/weibo?q=%23%E6%B0%91%E6%94%BF%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BB%93%E5%A9%9A%E5%BF%85%E9%A1%BB%E6%8F%90%E4%BE%9B%E6%88%B7%E5%8F%A3%E7%B0%BF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
