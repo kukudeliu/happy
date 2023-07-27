@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-27 19:39:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-27 19:40:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [4只水豚宝宝走哪都跟着妈妈](https://s.weibo.com/weibo?q=%234%E5%8F%AA%E6%B0%B4%E8%B1%9A%E5%AE%9D%E5%AE%9D%E8%B5%B0%E5%93%AA%E9%83%BD%E8%B7%9F%E7%9D%80%E5%A6%88%E5%A6%88%23&t=31&band_rank=5&Refer=top)<br />
 6. [火箭军原副司令员吴国华中将逝世](https://s.weibo.com/weibo?q=%23%E7%81%AB%E7%AE%AD%E5%86%9B%E5%8E%9F%E5%89%AF%E5%8F%B8%E4%BB%A4%E5%91%98%E5%90%B4%E5%9B%BD%E5%8D%8E%E4%B8%AD%E5%B0%86%E9%80%9D%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [91岁抗美援朝老兵曾血战7天7夜](https://s.weibo.com/weibo?q=%2391%E5%B2%81%E6%8A%97%E7%BE%8E%E6%8F%B4%E6%9C%9D%E8%80%81%E5%85%B5%E6%9B%BE%E8%A1%80%E6%88%987%E5%A4%A97%E5%A4%9C%23&t=31&band_rank=7&Refer=top)<br />
-8. [韩国一父亲猛抽校园霸凌者100多个耳光](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%B8%80%E7%88%B6%E4%BA%B2%E7%8C%9B%E6%8A%BD%E6%A0%A1%E5%9B%AD%E9%9C%B8%E5%87%8C%E8%80%85100%E5%A4%9A%E4%B8%AA%E8%80%B3%E5%85%89%23&t=31&band_rank=8&Refer=top)<br />
-9. [孟宴臣送许沁的皇冠约合538人民币](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AE%B4%E8%87%A3%E9%80%81%E8%AE%B8%E6%B2%81%E7%9A%84%E7%9A%87%E5%86%A0%E7%BA%A6%E5%90%88538%E4%BA%BA%E6%B0%91%E5%B8%81%23&t=31&band_rank=9&Refer=top)<br />
+8. [孟宴臣送许沁的皇冠约合538人民币](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AE%B4%E8%87%A3%E9%80%81%E8%AE%B8%E6%B2%81%E7%9A%84%E7%9A%87%E5%86%A0%E7%BA%A6%E5%90%88538%E4%BA%BA%E6%B0%91%E5%B8%81%23&t=31&band_rank=8&Refer=top)<br />
+9. [韩国一父亲猛抽校园霸凌者100多个耳光](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%B8%80%E7%88%B6%E4%BA%B2%E7%8C%9B%E6%8A%BD%E6%A0%A1%E5%9B%AD%E9%9C%B8%E5%87%8C%E8%80%85100%E5%A4%9A%E4%B8%AA%E8%80%B3%E5%85%89%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
