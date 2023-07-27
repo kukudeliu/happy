@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-27 08:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-27 08:56:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [李昌钰就伪造证据事件发声](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%98%8C%E9%92%B0%E5%B0%B1%E4%BC%AA%E9%80%A0%E8%AF%81%E6%8D%AE%E4%BA%8B%E4%BB%B6%E5%8F%91%E5%A3%B0%23&t=31&band_rank=6&Refer=top)<br />
 7. [租客3天没关门邻居以为出事报警](https://s.weibo.com/weibo?q=%23%E7%A7%9F%E5%AE%A23%E5%A4%A9%E6%B2%A1%E5%85%B3%E9%97%A8%E9%82%BB%E5%B1%85%E4%BB%A5%E4%B8%BA%E5%87%BA%E4%BA%8B%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=7&Refer=top)<br />
 8. [台风](https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E&t=31&band_rank=8&Refer=top)<br />
-9. [姐弟垃圾堆捡31部苹果手机价值21万](https://s.weibo.com/weibo?q=%23%E5%A7%90%E5%BC%9F%E5%9E%83%E5%9C%BE%E5%A0%86%E6%8D%A131%E9%83%A8%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E4%BB%B7%E5%80%BC21%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
+9. [台风路径](https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E%E8%B7%AF%E5%BE%84&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
