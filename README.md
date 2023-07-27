@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 07:52:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 07:53:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [成都大运会开幕式官方主题曲来了](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%A4%A7%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E5%AE%98%E6%96%B9%E4%B8%BB%E9%A2%98%E6%9B%B2%E6%9D%A5%E4%BA%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [杜苏芮核心区 创纪录的狂风暴雨](https://s.weibo.com/weibo?q=%E6%9D%9C%E8%8B%8F%E8%8A%AE%E6%A0%B8%E5%BF%83%E5%8C%BA%20%E5%88%9B%E7%BA%AA%E5%BD%95%E7%9A%84%E7%8B%82%E9%A3%8E%E6%9A%B4%E9%9B%A8&t=31&band_rank=4&Refer=top)<br />
 5. [女生记录男友一周接她下班表情变化](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E8%AE%B0%E5%BD%95%E7%94%B7%E5%8F%8B%E4%B8%80%E5%91%A8%E6%8E%A5%E5%A5%B9%E4%B8%8B%E7%8F%AD%E8%A1%A8%E6%83%85%E5%8F%98%E5%8C%96%23&t=31&band_rank=5&Refer=top)<br />
-6. [卡努](https://s.weibo.com/weibo?q=%E5%8D%A1%E5%8A%AA&t=31&band_rank=6&Refer=top)<br />
-7. [泉州](https://s.weibo.com/weibo?q=%E6%B3%89%E5%B7%9E&t=31&band_rank=7&Refer=top)<br />
+6. [泉州](https://s.weibo.com/weibo?q=%E6%B3%89%E5%B7%9E&t=31&band_rank=6&Refer=top)<br />
+7. [卡努](https://s.weibo.com/weibo?q=%E5%8D%A1%E5%8A%AA&t=31&band_rank=7&Refer=top)<br />
 8. [除了杨紫都跟电脑都不太熟](https://s.weibo.com/weibo?q=%E9%99%A4%E4%BA%86%E6%9D%A8%E7%B4%AB%E9%83%BD%E8%B7%9F%E7%94%B5%E8%84%91%E9%83%BD%E4%B8%8D%E5%A4%AA%E7%86%9F&t=31&band_rank=8&Refer=top)<br />
 9. [13岁女孩体内抽出2000毫升乳白色血](https://s.weibo.com/weibo?q=%2313%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%BD%93%E5%86%85%E6%8A%BD%E5%87%BA2000%E6%AF%AB%E5%8D%87%E4%B9%B3%E7%99%BD%E8%89%B2%E8%A1%80%23&t=31&band_rank=9&Refer=top)<br />
 
