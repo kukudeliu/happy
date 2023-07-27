@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-27 12:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-27 12:47:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [台风杜苏芮路径拐了个直角](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E6%9D%9C%E8%8B%8F%E8%8A%AE%E8%B7%AF%E5%BE%84%E6%8B%90%E4%BA%86%E4%B8%AA%E7%9B%B4%E8%A7%92%23&t=31&band_rank=5&Refer=top)<br />
 6. [李玟丧礼遗照曝光](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E4%B8%A7%E7%A4%BC%E9%81%97%E7%85%A7%E6%9B%9D%E5%85%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [长相思罚站榜](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D%E7%BD%9A%E7%AB%99%E6%A6%9C&t=31&band_rank=7&Refer=top)<br />
-8. [如果封神失败导演需用10年还债](https://s.weibo.com/weibo?q=%23%E5%A6%82%E6%9E%9C%E5%B0%81%E7%A5%9E%E5%A4%B1%E8%B4%A5%E5%AF%BC%E6%BC%94%E9%9C%80%E7%94%A810%E5%B9%B4%E8%BF%98%E5%80%BA%23&t=31&band_rank=8&Refer=top)<br />
+8. [藏海戏麟](https://s.weibo.com/weibo?q=%E8%97%8F%E6%B5%B7%E6%88%8F%E9%BA%9F&t=31&band_rank=8&Refer=top)<br />
 9. [台风路径](https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E%E8%B7%AF%E5%BE%84&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
