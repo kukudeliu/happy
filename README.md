@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 07:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 07:15:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [13岁女孩体内抽出2000毫升乳白色血](https://s.weibo.com/weibo?q=%2313%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%BD%93%E5%86%85%E6%8A%BD%E5%87%BA2000%E6%AF%AB%E5%8D%87%E4%B9%B3%E7%99%BD%E8%89%B2%E8%A1%80%23&t=31&band_rank=5&Refer=top)<br />
 6. [杜苏芮再次升级为超强台风](https://s.weibo.com/weibo?q=%23%E6%9D%9C%E8%8B%8F%E8%8A%AE%E5%86%8D%E6%AC%A1%E5%8D%87%E7%BA%A7%E4%B8%BA%E8%B6%85%E5%BC%BA%E5%8F%B0%E9%A3%8E%23&t=31&band_rank=6&Refer=top)<br />
 7. [除了杨紫都跟电脑都不太熟](https://s.weibo.com/weibo?q=%E9%99%A4%E4%BA%86%E6%9D%A8%E7%B4%AB%E9%83%BD%E8%B7%9F%E7%94%B5%E8%84%91%E9%83%BD%E4%B8%8D%E5%A4%AA%E7%86%9F&t=31&band_rank=7&Refer=top)<br />
-8. [王楚然 为给大家带来的困扰说一声抱歉](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E7%84%B6%20%E4%B8%BA%E7%BB%99%E5%A4%A7%E5%AE%B6%E5%B8%A6%E6%9D%A5%E7%9A%84%E5%9B%B0%E6%89%B0%E8%AF%B4%E4%B8%80%E5%A3%B0%E6%8A%B1%E6%AD%89&t=31&band_rank=8&Refer=top)<br />
-9. [卡努](https://s.weibo.com/weibo?q=%E5%8D%A1%E5%8A%AA&t=31&band_rank=9&Refer=top)<br />
+8. [卡努](https://s.weibo.com/weibo?q=%E5%8D%A1%E5%8A%AA&t=31&band_rank=8&Refer=top)<br />
+9. [王楚然 为给大家带来的困扰说一声抱歉](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E7%84%B6%20%E4%B8%BA%E7%BB%99%E5%A4%A7%E5%AE%B6%E5%B8%A6%E6%9D%A5%E7%9A%84%E5%9B%B0%E6%89%B0%E8%AF%B4%E4%B8%80%E5%A3%B0%E6%8A%B1%E6%AD%89&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
