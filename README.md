@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-27 21:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-27 21:23:01</h4></div>
 
 > 微博  
 
 1. [国外很贵但国内却便宜的东西](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%A4%96%E5%BE%88%E8%B4%B5%E4%BD%86%E5%9B%BD%E5%86%85%E5%8D%B4%E4%BE%BF%E5%AE%9C%E7%9A%84%E4%B8%9C%E8%A5%BF%23&t=31&band_rank=1&Refer=top)<br />
 2. [广州地铁偶遇孟宴臣](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%9C%B0%E9%93%81%E5%81%B6%E9%81%87%E5%AD%9F%E5%AE%B4%E8%87%A3%23&t=31&band_rank=2&Refer=top)<br />
-3. [杜苏芮路径](https://s.weibo.com/weibo?q=%E6%9D%9C%E8%8B%8F%E8%8A%AE%E8%B7%AF%E5%BE%84&t=31&band_rank=3&Refer=top)<br />
+3. [成都大运会开幕式官方主题曲来了](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%A4%A7%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E5%AE%98%E6%96%B9%E4%B8%BB%E9%A2%98%E6%9B%B2%E6%9D%A5%E4%BA%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [黄晓明去油成功](https://s.weibo.com/weibo?q=%E9%BB%84%E6%99%93%E6%98%8E%E5%8E%BB%E6%B2%B9%E6%88%90%E5%8A%9F&t=31&band_rank=4&Refer=top)<br />
-5. [长相思好虐](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D%E5%A5%BD%E8%99%90&t=31&band_rank=5&Refer=top)<br />
-6. [王楚然亲陈瑾](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E7%84%B6%E4%BA%B2%E9%99%88%E7%91%BE%23&t=31&band_rank=6&Refer=top)<br />
-7. [福原爱声明稿](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%8E%9F%E7%88%B1%E5%A3%B0%E6%98%8E%E7%A8%BF%23&t=31&band_rank=7&Refer=top)<br />
-8. [王楚然 为给大家带来的困扰说一声抱歉](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E7%84%B6%20%E4%B8%BA%E7%BB%99%E5%A4%A7%E5%AE%B6%E5%B8%A6%E6%9D%A5%E7%9A%84%E5%9B%B0%E6%89%B0%E8%AF%B4%E4%B8%80%E5%A3%B0%E6%8A%B1%E6%AD%89&t=31&band_rank=8&Refer=top)<br />
-9. [中国气象局启动台风一级应急响应](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B0%94%E8%B1%A1%E5%B1%80%E5%90%AF%E5%8A%A8%E5%8F%B0%E9%A3%8E%E4%B8%80%E7%BA%A7%E5%BA%94%E6%80%A5%E5%93%8D%E5%BA%94%23&t=31&band_rank=9&Refer=top)<br />
+5. [杜苏芮路径](https://s.weibo.com/weibo?q=%E6%9D%9C%E8%8B%8F%E8%8A%AE%E8%B7%AF%E5%BE%84&t=31&band_rank=5&Refer=top)<br />
+6. [长相思好虐](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D%E5%A5%BD%E8%99%90&t=31&band_rank=6&Refer=top)<br />
+7. [王楚然 为给大家带来的困扰说一声抱歉](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E7%84%B6%20%E4%B8%BA%E7%BB%99%E5%A4%A7%E5%AE%B6%E5%B8%A6%E6%9D%A5%E7%9A%84%E5%9B%B0%E6%89%B0%E8%AF%B4%E4%B8%80%E5%A3%B0%E6%8A%B1%E6%AD%89&t=31&band_rank=7&Refer=top)<br />
+8. [福原爱声明稿](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%8E%9F%E7%88%B1%E5%A3%B0%E6%98%8E%E7%A8%BF%23&t=31&band_rank=8&Refer=top)<br />
+9. [王楚然亲陈瑾](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E7%84%B6%E4%BA%B2%E9%99%88%E7%91%BE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
