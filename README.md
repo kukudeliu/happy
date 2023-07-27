@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 01:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 01:04:01</h4></div>
 
 > 微博  
 
@@ -23,9 +23,9 @@
 4. [一起致敬“最可爱的人”](https://www.baidu.com/s?wd=%E4%B8%80%E8%B5%B7%E8%87%B4%E6%95%AC%E2%80%9C%E6%9C%80%E5%8F%AF%E7%88%B1%E7%9A%84%E4%BA%BA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [杨洋：谢谢大家的包容陪伴批评建议](https://www.baidu.com/s?wd=%E6%9D%A8%E6%B4%8B%EF%BC%9A%E8%B0%A2%E8%B0%A2%E5%A4%A7%E5%AE%B6%E7%9A%84%E5%8C%85%E5%AE%B9%E9%99%AA%E4%BC%B4%E6%89%B9%E8%AF%84%E5%BB%BA%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [日本男子花10万元把自己变成狗](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%94%B7%E5%AD%90%E8%8A%B110%E4%B8%87%E5%85%83%E6%8A%8A%E8%87%AA%E5%B7%B1%E5%8F%98%E6%88%90%E7%8B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子不配合执法还袭警被制服](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%8D%E9%85%8D%E5%90%88%E6%89%A7%E6%B3%95%E8%BF%98%E8%A2%AD%E8%AD%A6%E8%A2%AB%E5%88%B6%E6%9C%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [杀妻埋尸15年案死缓判决争议背后](https://www.baidu.com/s?wd=%E6%9D%80%E5%A6%BB%E5%9F%8B%E5%B0%B815%E5%B9%B4%E6%A1%88%E6%AD%BB%E7%BC%93%E5%88%A4%E5%86%B3%E4%BA%89%E8%AE%AE%E8%83%8C%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [华科大回应盖楼缺七千万向学生募捐](https://www.baidu.com/s?wd=%E5%8D%8E%E7%A7%91%E5%A4%A7%E5%9B%9E%E5%BA%94%E7%9B%96%E6%A5%BC%E7%BC%BA%E4%B8%83%E5%8D%83%E4%B8%87%E5%90%91%E5%AD%A6%E7%94%9F%E5%8B%9F%E6%8D%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [老师拜把子式引导小朋友喝汤](https://www.baidu.com/s?wd=%E8%80%81%E5%B8%88%E6%8B%9C%E6%8A%8A%E5%AD%90%E5%BC%8F%E5%BC%95%E5%AF%BC%E5%B0%8F%E6%9C%8B%E5%8F%8B%E5%96%9D%E6%B1%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [敦煌景区骆驼“罢工”？驼户回应](https://www.baidu.com/s?wd=%E6%95%A6%E7%85%8C%E6%99%AF%E5%8C%BA%E9%AA%86%E9%A9%BC%E2%80%9C%E7%BD%A2%E5%B7%A5%E2%80%9D%EF%BC%9F%E9%A9%BC%E6%88%B7%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [杀妻埋尸15年案死缓判决争议背后](https://www.baidu.com/s?wd=%E6%9D%80%E5%A6%BB%E5%9F%8B%E5%B0%B815%E5%B9%B4%E6%A1%88%E6%AD%BB%E7%BC%93%E5%88%A4%E5%86%B3%E4%BA%89%E8%AE%AE%E8%83%8C%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -35,6 +35,6 @@
 4. [一起致敬“最可爱的人”](https://www.baidu.com/s?wd=%E4%B8%80%E8%B5%B7%E8%87%B4%E6%95%AC%E2%80%9C%E6%9C%80%E5%8F%AF%E7%88%B1%E7%9A%84%E4%BA%BA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [杨洋：谢谢大家的包容陪伴批评建议](https://www.baidu.com/s?wd=%E6%9D%A8%E6%B4%8B%EF%BC%9A%E8%B0%A2%E8%B0%A2%E5%A4%A7%E5%AE%B6%E7%9A%84%E5%8C%85%E5%AE%B9%E9%99%AA%E4%BC%B4%E6%89%B9%E8%AF%84%E5%BB%BA%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [日本男子花10万元把自己变成狗](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%94%B7%E5%AD%90%E8%8A%B110%E4%B8%87%E5%85%83%E6%8A%8A%E8%87%AA%E5%B7%B1%E5%8F%98%E6%88%90%E7%8B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子不配合执法还袭警被制服](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%8D%E9%85%8D%E5%90%88%E6%89%A7%E6%B3%95%E8%BF%98%E8%A2%AD%E8%AD%A6%E8%A2%AB%E5%88%B6%E6%9C%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [杀妻埋尸15年案死缓判决争议背后](https://www.baidu.com/s?wd=%E6%9D%80%E5%A6%BB%E5%9F%8B%E5%B0%B815%E5%B9%B4%E6%A1%88%E6%AD%BB%E7%BC%93%E5%88%A4%E5%86%B3%E4%BA%89%E8%AE%AE%E8%83%8C%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [华科大回应盖楼缺七千万向学生募捐](https://www.baidu.com/s?wd=%E5%8D%8E%E7%A7%91%E5%A4%A7%E5%9B%9E%E5%BA%94%E7%9B%96%E6%A5%BC%E7%BC%BA%E4%B8%83%E5%8D%83%E4%B8%87%E5%90%91%E5%AD%A6%E7%94%9F%E5%8B%9F%E6%8D%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [老师拜把子式引导小朋友喝汤](https://www.baidu.com/s?wd=%E8%80%81%E5%B8%88%E6%8B%9C%E6%8A%8A%E5%AD%90%E5%BC%8F%E5%BC%95%E5%AF%BC%E5%B0%8F%E6%9C%8B%E5%8F%8B%E5%96%9D%E6%B1%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [敦煌景区骆驼“罢工”？驼户回应](https://www.baidu.com/s?wd=%E6%95%A6%E7%85%8C%E6%99%AF%E5%8C%BA%E9%AA%86%E9%A9%BC%E2%80%9C%E7%BD%A2%E5%B7%A5%E2%80%9D%EF%BC%9F%E9%A9%BC%E6%88%B7%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [杀妻埋尸15年案死缓判决争议背后](https://www.baidu.com/s?wd=%E6%9D%80%E5%A6%BB%E5%9F%8B%E5%B0%B815%E5%B9%B4%E6%A1%88%E6%AD%BB%E7%BC%93%E5%88%A4%E5%86%B3%E4%BA%89%E8%AE%AE%E8%83%8C%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
