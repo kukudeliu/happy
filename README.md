@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-27 16:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-27 16:58:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [花花和谭爷爷惊喜出镜](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%8A%B1%E5%92%8C%E8%B0%AD%E7%88%B7%E7%88%B7%E6%83%8A%E5%96%9C%E5%87%BA%E9%95%9C%23&t=31&band_rank=5&Refer=top)<br />
 6. [东方甄选直播间被关](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E7%9B%B4%E6%92%AD%E9%97%B4%E8%A2%AB%E5%85%B3%23&t=31&band_rank=6&Refer=top)<br />
 7. [长相思见面会](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D%E8%A7%81%E9%9D%A2%E4%BC%9A%23&t=31&band_rank=7&Refer=top)<br />
-8. [李玟丧礼遗照曝光](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E4%B8%A7%E7%A4%BC%E9%81%97%E7%85%A7%E6%9B%9D%E5%85%89%23&t=31&band_rank=8&Refer=top)<br />
-9. [厦门7月27日15时起三停一休](https://s.weibo.com/weibo?q=%23%E5%8E%A6%E9%97%A87%E6%9C%8827%E6%97%A515%E6%97%B6%E8%B5%B7%E4%B8%89%E5%81%9C%E4%B8%80%E4%BC%91%23&t=31&band_rank=9&Refer=top)<br />
+8. [迪丽热巴说自己有双下巴](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%AF%B4%E8%87%AA%E5%B7%B1%E6%9C%89%E5%8F%8C%E4%B8%8B%E5%B7%B4%23&t=31&band_rank=8&Refer=top)<br />
+9. [李玟丧礼遗照曝光](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E4%B8%A7%E7%A4%BC%E9%81%97%E7%85%A7%E6%9B%9D%E5%85%89%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
