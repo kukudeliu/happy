@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-27 21:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-27 21:34:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [单科8分涉事学校违规收取两千余万](https://www.baidu.com/s?wd=%E5%8D%95%E7%A7%918%E5%88%86%E6%B6%89%E4%BA%8B%E5%AD%A6%E6%A0%A1%E8%BF%9D%E8%A7%84%E6%94%B6%E5%8F%96%E4%B8%A4%E5%8D%83%E4%BD%99%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [上半年国内游戏收入超1442亿](https://www.baidu.com/s?wd=%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%9B%BD%E5%86%85%E6%B8%B8%E6%88%8F%E6%94%B6%E5%85%A5%E8%B6%851442%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [韩国一父亲抽校园霸凌者百余耳光](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E4%B8%80%E7%88%B6%E4%BA%B2%E6%8A%BD%E6%A0%A1%E5%9B%AD%E9%9C%B8%E5%87%8C%E8%80%85%E7%99%BE%E4%BD%99%E8%80%B3%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [华科大回应盖楼缺七千万向学生募捐](https://www.baidu.com/s?wd=%E5%8D%8E%E7%A7%91%E5%A4%A7%E5%9B%9E%E5%BA%94%E7%9B%96%E6%A5%BC%E7%BC%BA%E4%B8%83%E5%8D%83%E4%B8%87%E5%90%91%E5%AD%A6%E7%94%9F%E5%8B%9F%E6%8D%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [学信网显示结业 女子错失高薪工作](https://www.baidu.com/s?wd=%E5%AD%A6%E4%BF%A1%E7%BD%91%E6%98%BE%E7%A4%BA%E7%BB%93%E4%B8%9A+%E5%A5%B3%E5%AD%90%E9%94%99%E5%A4%B1%E9%AB%98%E8%96%AA%E5%B7%A5%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子喝酒过量生命垂危 父亲紧紧抱住](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%96%9D%E9%85%92%E8%BF%87%E9%87%8F%E7%94%9F%E5%91%BD%E5%9E%82%E5%8D%B1+%E7%88%B6%E4%BA%B2%E7%B4%A7%E7%B4%A7%E6%8A%B1%E4%BD%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [延边一餐厅给顾客小票备注事逼](https://www.baidu.com/s?wd=%E5%BB%B6%E8%BE%B9%E4%B8%80%E9%A4%90%E5%8E%85%E7%BB%99%E9%A1%BE%E5%AE%A2%E5%B0%8F%E7%A5%A8%E5%A4%87%E6%B3%A8%E4%BA%8B%E9%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [单科8分涉事学校违规收取两千余万](https://www.baidu.com/s?wd=%E5%8D%95%E7%A7%918%E5%88%86%E6%B6%89%E4%BA%8B%E5%AD%A6%E6%A0%A1%E8%BF%9D%E8%A7%84%E6%94%B6%E5%8F%96%E4%B8%A4%E5%8D%83%E4%BD%99%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [上半年国内游戏收入超1442亿](https://www.baidu.com/s?wd=%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%9B%BD%E5%86%85%E6%B8%B8%E6%88%8F%E6%94%B6%E5%85%A5%E8%B6%851442%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [韩国一父亲抽校园霸凌者百余耳光](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E4%B8%80%E7%88%B6%E4%BA%B2%E6%8A%BD%E6%A0%A1%E5%9B%AD%E9%9C%B8%E5%87%8C%E8%80%85%E7%99%BE%E4%BD%99%E8%80%B3%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [华科大回应盖楼缺七千万向学生募捐](https://www.baidu.com/s?wd=%E5%8D%8E%E7%A7%91%E5%A4%A7%E5%9B%9E%E5%BA%94%E7%9B%96%E6%A5%BC%E7%BC%BA%E4%B8%83%E5%8D%83%E4%B8%87%E5%90%91%E5%AD%A6%E7%94%9F%E5%8B%9F%E6%8D%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [学信网显示结业 女子错失高薪工作](https://www.baidu.com/s?wd=%E5%AD%A6%E4%BF%A1%E7%BD%91%E6%98%BE%E7%A4%BA%E7%BB%93%E4%B8%9A+%E5%A5%B3%E5%AD%90%E9%94%99%E5%A4%B1%E9%AB%98%E8%96%AA%E5%B7%A5%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子喝酒过量生命垂危 父亲紧紧抱住](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%96%9D%E9%85%92%E8%BF%87%E9%87%8F%E7%94%9F%E5%91%BD%E5%9E%82%E5%8D%B1+%E7%88%B6%E4%BA%B2%E7%B4%A7%E7%B4%A7%E6%8A%B1%E4%BD%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [延边一餐厅给顾客小票备注事逼](https://www.baidu.com/s?wd=%E5%BB%B6%E8%BE%B9%E4%B8%80%E9%A4%90%E5%8E%85%E7%BB%99%E9%A1%BE%E5%AE%A2%E5%B0%8F%E7%A5%A8%E5%A4%87%E6%B3%A8%E4%BA%8B%E9%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
