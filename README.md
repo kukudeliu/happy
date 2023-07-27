@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-27 15:42:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-27 15:43:01</h4></div>
 
 > 微博  
 
@@ -19,22 +19,22 @@
 
 1. [总书记和四川的故事](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%92%8C%E5%9B%9B%E5%B7%9D%E7%9A%84%E6%95%85%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [台风杜苏芮路径拐了个直角](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E6%9D%9C%E8%8B%8F%E8%8A%AE%E8%B7%AF%E5%BE%84%E6%8B%90%E4%BA%86%E4%B8%AA%E7%9B%B4%E8%A7%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [厦门7月27日15时起三停一休](https://www.baidu.com/s?wd=%E5%8E%A6%E9%97%A87%E6%9C%8827%E6%97%A515%E6%97%B6%E8%B5%B7%E4%B8%89%E5%81%9C%E4%B8%80%E4%BC%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [民政部回应结婚登记必须提供户口簿](https://www.baidu.com/s?wd=%E6%B0%91%E6%94%BF%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BB%93%E5%A9%9A%E7%99%BB%E8%AE%B0%E5%BF%85%E9%A1%BB%E6%8F%90%E4%BE%9B%E6%88%B7%E5%8F%A3%E7%B0%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [大运会亮点抢“鲜”看](https://www.baidu.com/s?wd=%E5%A4%A7%E8%BF%90%E4%BC%9A%E4%BA%AE%E7%82%B9%E6%8A%A2%E2%80%9C%E9%B2%9C%E2%80%9D%E7%9C%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [举报涂磊女子所属村干部发声](https://www.baidu.com/s?wd=%E4%B8%BE%E6%8A%A5%E6%B6%82%E7%A3%8A%E5%A5%B3%E5%AD%90%E6%89%80%E5%B1%9E%E6%9D%91%E5%B9%B2%E9%83%A8%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [一对男女被按着头拜堂 知情人回应](https://www.baidu.com/s?wd=%E4%B8%80%E5%AF%B9%E7%94%B7%E5%A5%B3%E8%A2%AB%E6%8C%89%E7%9D%80%E5%A4%B4%E6%8B%9C%E5%A0%82+%E7%9F%A5%E6%83%85%E4%BA%BA%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [老太国道搭帐篷致堵车 路人理论被打](https://www.baidu.com/s?wd=%E8%80%81%E5%A4%AA%E5%9B%BD%E9%81%93%E6%90%AD%E5%B8%90%E7%AF%B7%E8%87%B4%E5%A0%B5%E8%BD%A6+%E8%B7%AF%E4%BA%BA%E7%90%86%E8%AE%BA%E8%A2%AB%E6%89%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [两老人高铁霸座反骂买票人不要脸](https://www.baidu.com/s?wd=%E4%B8%A4%E8%80%81%E4%BA%BA%E9%AB%98%E9%93%81%E9%9C%B8%E5%BA%A7%E5%8F%8D%E9%AA%82%E4%B9%B0%E7%A5%A8%E4%BA%BA%E4%B8%8D%E8%A6%81%E8%84%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [李玟丧礼遗照曝光](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E4%B8%A7%E7%A4%BC%E9%81%97%E7%85%A7%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [厦门7月27日15时起三停一休](https://www.baidu.com/s?wd=%E5%8E%A6%E9%97%A87%E6%9C%8827%E6%97%A515%E6%97%B6%E8%B5%B7%E4%B8%89%E5%81%9C%E4%B8%80%E4%BC%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [一对男女被按着头拜堂 知情人回应](https://www.baidu.com/s?wd=%E4%B8%80%E5%AF%B9%E7%94%B7%E5%A5%B3%E8%A2%AB%E6%8C%89%E7%9D%80%E5%A4%B4%E6%8B%9C%E5%A0%82+%E7%9F%A5%E6%83%85%E4%BA%BA%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [老太国道搭帐篷致堵车 路人理论被打](https://www.baidu.com/s?wd=%E8%80%81%E5%A4%AA%E5%9B%BD%E9%81%93%E6%90%AD%E5%B8%90%E7%AF%B7%E8%87%B4%E5%A0%B5%E8%BD%A6+%E8%B7%AF%E4%BA%BA%E7%90%86%E8%AE%BA%E8%A2%AB%E6%89%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [两老人高铁霸座反骂买票人不要脸](https://www.baidu.com/s?wd=%E4%B8%A4%E8%80%81%E4%BA%BA%E9%AB%98%E9%93%81%E9%9C%B8%E5%BA%A7%E5%8F%8D%E9%AA%82%E4%B9%B0%E7%A5%A8%E4%BA%BA%E4%B8%8D%E8%A6%81%E8%84%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [总书记和四川的故事](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%92%8C%E5%9B%9B%E5%B7%9D%E7%9A%84%E6%95%85%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [台风杜苏芮路径拐了个直角](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E6%9D%9C%E8%8B%8F%E8%8A%AE%E8%B7%AF%E5%BE%84%E6%8B%90%E4%BA%86%E4%B8%AA%E7%9B%B4%E8%A7%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [厦门7月27日15时起三停一休](https://www.baidu.com/s?wd=%E5%8E%A6%E9%97%A87%E6%9C%8827%E6%97%A515%E6%97%B6%E8%B5%B7%E4%B8%89%E5%81%9C%E4%B8%80%E4%BC%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [民政部回应结婚登记必须提供户口簿](https://www.baidu.com/s?wd=%E6%B0%91%E6%94%BF%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BB%93%E5%A9%9A%E7%99%BB%E8%AE%B0%E5%BF%85%E9%A1%BB%E6%8F%90%E4%BE%9B%E6%88%B7%E5%8F%A3%E7%B0%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [大运会亮点抢“鲜”看](https://www.baidu.com/s?wd=%E5%A4%A7%E8%BF%90%E4%BC%9A%E4%BA%AE%E7%82%B9%E6%8A%A2%E2%80%9C%E9%B2%9C%E2%80%9D%E7%9C%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [举报涂磊女子所属村干部发声](https://www.baidu.com/s?wd=%E4%B8%BE%E6%8A%A5%E6%B6%82%E7%A3%8A%E5%A5%B3%E5%AD%90%E6%89%80%E5%B1%9E%E6%9D%91%E5%B9%B2%E9%83%A8%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [一对男女被按着头拜堂 知情人回应](https://www.baidu.com/s?wd=%E4%B8%80%E5%AF%B9%E7%94%B7%E5%A5%B3%E8%A2%AB%E6%8C%89%E7%9D%80%E5%A4%B4%E6%8B%9C%E5%A0%82+%E7%9F%A5%E6%83%85%E4%BA%BA%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [老太国道搭帐篷致堵车 路人理论被打](https://www.baidu.com/s?wd=%E8%80%81%E5%A4%AA%E5%9B%BD%E9%81%93%E6%90%AD%E5%B8%90%E7%AF%B7%E8%87%B4%E5%A0%B5%E8%BD%A6+%E8%B7%AF%E4%BA%BA%E7%90%86%E8%AE%BA%E8%A2%AB%E6%89%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [两老人高铁霸座反骂买票人不要脸](https://www.baidu.com/s?wd=%E4%B8%A4%E8%80%81%E4%BA%BA%E9%AB%98%E9%93%81%E9%9C%B8%E5%BA%A7%E5%8F%8D%E9%AA%82%E4%B9%B0%E7%A5%A8%E4%BA%BA%E4%B8%8D%E8%A6%81%E8%84%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [李玟丧礼遗照曝光](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E4%B8%A7%E7%A4%BC%E9%81%97%E7%85%A7%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [厦门7月27日15时起三停一休](https://www.baidu.com/s?wd=%E5%8E%A6%E9%97%A87%E6%9C%8827%E6%97%A515%E6%97%B6%E8%B5%B7%E4%B8%89%E5%81%9C%E4%B8%80%E4%BC%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [一对男女被按着头拜堂 知情人回应](https://www.baidu.com/s?wd=%E4%B8%80%E5%AF%B9%E7%94%B7%E5%A5%B3%E8%A2%AB%E6%8C%89%E7%9D%80%E5%A4%B4%E6%8B%9C%E5%A0%82+%E7%9F%A5%E6%83%85%E4%BA%BA%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [老太国道搭帐篷致堵车 路人理论被打](https://www.baidu.com/s?wd=%E8%80%81%E5%A4%AA%E5%9B%BD%E9%81%93%E6%90%AD%E5%B8%90%E7%AF%B7%E8%87%B4%E5%A0%B5%E8%BD%A6+%E8%B7%AF%E4%BA%BA%E7%90%86%E8%AE%BA%E8%A2%AB%E6%89%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [两老人高铁霸座反骂买票人不要脸](https://www.baidu.com/s?wd=%E4%B8%A4%E8%80%81%E4%BA%BA%E9%AB%98%E9%93%81%E9%9C%B8%E5%BA%A7%E5%8F%8D%E9%AA%82%E4%B9%B0%E7%A5%A8%E4%BA%BA%E4%B8%8D%E8%A6%81%E8%84%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
