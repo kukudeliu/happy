@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-27 13:26:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-27 13:27:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [李玟丧礼遗照曝光](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E4%B8%A7%E7%A4%BC%E9%81%97%E7%85%A7%E6%9B%9D%E5%85%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [杨紫评论张晚意](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E8%AF%84%E8%AE%BA%E5%BC%A0%E6%99%9A%E6%84%8F%23&t=31&band_rank=7&Refer=top)<br />
 8. [台风杜苏芮路径拐了个直角](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E6%9D%9C%E8%8B%8F%E8%8A%AE%E8%B7%AF%E5%BE%84%E6%8B%90%E4%BA%86%E4%B8%AA%E7%9B%B4%E8%A7%92%23&t=31&band_rank=8&Refer=top)<br />
-9. [房子烂尾女子停交房贷上黑名单](https://s.weibo.com/weibo?q=%23%E6%88%BF%E5%AD%90%E7%83%82%E5%B0%BE%E5%A5%B3%E5%AD%90%E5%81%9C%E4%BA%A4%E6%88%BF%E8%B4%B7%E4%B8%8A%E9%BB%91%E5%90%8D%E5%8D%95%23&t=31&band_rank=9&Refer=top)<br />
+9. [EXO将举办青岛签售会](https://s.weibo.com/weibo?q=%23EXO%E5%B0%86%E4%B8%BE%E5%8A%9E%E9%9D%92%E5%B2%9B%E7%AD%BE%E5%94%AE%E4%BC%9A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
