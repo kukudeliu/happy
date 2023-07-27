@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 05:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 05:20:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [杨洋 谢谢大家的包容与陪伴批评和建议](https://s.weibo.com/weibo?q=%E6%9D%A8%E6%B4%8B%20%E8%B0%A2%E8%B0%A2%E5%A4%A7%E5%AE%B6%E7%9A%84%E5%8C%85%E5%AE%B9%E4%B8%8E%E9%99%AA%E4%BC%B4%E6%89%B9%E8%AF%84%E5%92%8C%E5%BB%BA%E8%AE%AE&t=31&band_rank=4&Refer=top)<br />
 5. [厦门发布台风红色预警](https://s.weibo.com/weibo?q=%23%E5%8E%A6%E9%97%A8%E5%8F%91%E5%B8%83%E5%8F%B0%E9%A3%8E%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6%23&t=31&band_rank=5&Refer=top)<br />
 6. [13岁女孩体内抽出2000毫升乳白色血](https://s.weibo.com/weibo?q=%2313%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%BD%93%E5%86%85%E6%8A%BD%E5%87%BA2000%E6%AF%AB%E5%8D%87%E4%B9%B3%E7%99%BD%E8%89%B2%E8%A1%80%23&t=31&band_rank=6&Refer=top)<br />
-7. [王楚然 为给大家带来的困扰说一声抱歉](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E7%84%B6%20%E4%B8%BA%E7%BB%99%E5%A4%A7%E5%AE%B6%E5%B8%A6%E6%9D%A5%E7%9A%84%E5%9B%B0%E6%89%B0%E8%AF%B4%E4%B8%80%E5%A3%B0%E6%8A%B1%E6%AD%89&t=31&band_rank=7&Refer=top)<br />
-8. [直播台风杜苏芮](https://s.weibo.com/weibo?q=%23%E7%9B%B4%E6%92%AD%E5%8F%B0%E9%A3%8E%E6%9D%9C%E8%8B%8F%E8%8A%AE%23&t=31&band_rank=8&Refer=top)<br />
+7. [直播台风杜苏芮](https://s.weibo.com/weibo?q=%23%E7%9B%B4%E6%92%AD%E5%8F%B0%E9%A3%8E%E6%9D%9C%E8%8B%8F%E8%8A%AE%23&t=31&band_rank=7&Refer=top)<br />
+8. [王楚然 为给大家带来的困扰说一声抱歉](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E7%84%B6%20%E4%B8%BA%E7%BB%99%E5%A4%A7%E5%AE%B6%E5%B8%A6%E6%9D%A5%E7%9A%84%E5%9B%B0%E6%89%B0%E8%AF%B4%E4%B8%80%E5%A3%B0%E6%8A%B1%E6%AD%89&t=31&band_rank=8&Refer=top)<br />
 9. [台风杜苏芮已致台湾一人死亡](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E6%9D%9C%E8%8B%8F%E8%8A%AE%E5%B7%B2%E8%87%B4%E5%8F%B0%E6%B9%BE%E4%B8%80%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
