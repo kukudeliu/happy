@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-27 19:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-27 19:41:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [单科8分涉事学校违规收取两千余万](https://www.baidu.com/s?wd=%E5%8D%95%E7%A7%918%E5%88%86%E6%B6%89%E4%BA%8B%E5%AD%A6%E6%A0%A1%E8%BF%9D%E8%A7%84%E6%94%B6%E5%8F%96%E4%B8%A4%E5%8D%83%E4%BD%99%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [中国游客在日本爆买LV](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%9C%A8%E6%97%A5%E6%9C%AC%E7%88%86%E4%B9%B0LV&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子喝酒过量生命垂危 父亲紧紧抱住](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%96%9D%E9%85%92%E8%BF%87%E9%87%8F%E7%94%9F%E5%91%BD%E5%9E%82%E5%8D%B1+%E7%88%B6%E4%BA%B2%E7%B4%A7%E7%B4%A7%E6%8A%B1%E4%BD%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [空调师傅疑操作不当致买家触电身亡](https://www.baidu.com/s?wd=%E7%A9%BA%E8%B0%83%E5%B8%88%E5%82%85%E7%96%91%E6%93%8D%E4%BD%9C%E4%B8%8D%E5%BD%93%E8%87%B4%E4%B9%B0%E5%AE%B6%E8%A7%A6%E7%94%B5%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [殡仪馆年薪15万招遗体SPA美容师](https://www.baidu.com/s?wd=%E6%AE%A1%E4%BB%AA%E9%A6%86%E5%B9%B4%E8%96%AA15%E4%B8%87%E6%8B%9B%E9%81%97%E4%BD%93SPA%E7%BE%8E%E5%AE%B9%E5%B8%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [这对父子四个月身家暴涨130亿](https://www.baidu.com/s?wd=%E8%BF%99%E5%AF%B9%E7%88%B6%E5%AD%90%E5%9B%9B%E4%B8%AA%E6%9C%88%E8%BA%AB%E5%AE%B6%E6%9A%B4%E6%B6%A8130%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [单科8分涉事学校违规收取两千余万](https://www.baidu.com/s?wd=%E5%8D%95%E7%A7%918%E5%88%86%E6%B6%89%E4%BA%8B%E5%AD%A6%E6%A0%A1%E8%BF%9D%E8%A7%84%E6%94%B6%E5%8F%96%E4%B8%A4%E5%8D%83%E4%BD%99%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [中国游客在日本爆买LV](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%9C%A8%E6%97%A5%E6%9C%AC%E7%88%86%E4%B9%B0LV&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子喝酒过量生命垂危 父亲紧紧抱住](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%96%9D%E9%85%92%E8%BF%87%E9%87%8F%E7%94%9F%E5%91%BD%E5%9E%82%E5%8D%B1+%E7%88%B6%E4%BA%B2%E7%B4%A7%E7%B4%A7%E6%8A%B1%E4%BD%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [空调师傅疑操作不当致买家触电身亡](https://www.baidu.com/s?wd=%E7%A9%BA%E8%B0%83%E5%B8%88%E5%82%85%E7%96%91%E6%93%8D%E4%BD%9C%E4%B8%8D%E5%BD%93%E8%87%B4%E4%B9%B0%E5%AE%B6%E8%A7%A6%E7%94%B5%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [殡仪馆年薪15万招遗体SPA美容师](https://www.baidu.com/s?wd=%E6%AE%A1%E4%BB%AA%E9%A6%86%E5%B9%B4%E8%96%AA15%E4%B8%87%E6%8B%9B%E9%81%97%E4%BD%93SPA%E7%BE%8E%E5%AE%B9%E5%B8%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [这对父子四个月身家暴涨130亿](https://www.baidu.com/s?wd=%E8%BF%99%E5%AF%B9%E7%88%B6%E5%AD%90%E5%9B%9B%E4%B8%AA%E6%9C%88%E8%BA%AB%E5%AE%B6%E6%9A%B4%E6%B6%A8130%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
