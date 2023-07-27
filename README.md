@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-27 13:30:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-27 13:31:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [李玟丧礼遗照曝光](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E4%B8%A7%E7%A4%BC%E9%81%97%E7%85%A7%E6%9B%9D%E5%85%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [杨紫评论张晚意](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E8%AF%84%E8%AE%BA%E5%BC%A0%E6%99%9A%E6%84%8F%23&t=31&band_rank=7&Refer=top)<br />
 8. [台风杜苏芮路径拐了个直角](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E6%9D%9C%E8%8B%8F%E8%8A%AE%E8%B7%AF%E5%BE%84%E6%8B%90%E4%BA%86%E4%B8%AA%E7%9B%B4%E8%A7%92%23&t=31&band_rank=8&Refer=top)<br />
-9. [茶百道 剑网](https://s.weibo.com/weibo?q=%E8%8C%B6%E7%99%BE%E9%81%93%20%E5%89%91%E7%BD%91&t=31&band_rank=9&Refer=top)<br />
+9. [谢娜李维嘉吴昕合体](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E6%9D%8E%E7%BB%B4%E5%98%89%E5%90%B4%E6%98%95%E5%90%88%E4%BD%93%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
