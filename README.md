@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-27 14:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-27 15:00:01</h4></div>
 
 > 微博  
 
 1. [学信网显示结业女子错失高薪工作起诉学校](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E4%BF%A1%E7%BD%91%E6%98%BE%E7%A4%BA%E7%BB%93%E4%B8%9A%E5%A5%B3%E5%AD%90%E9%94%99%E5%A4%B1%E9%AB%98%E8%96%AA%E5%B7%A5%E4%BD%9C%E8%B5%B7%E8%AF%89%E5%AD%A6%E6%A0%A1%23&t=31&band_rank=1&Refer=top)<br />
-2. [那英 声替](https://s.weibo.com/weibo?q=%E9%82%A3%E8%8B%B1%20%E5%A3%B0%E6%9B%BF&t=31&band_rank=2&Refer=top)<br />
+2. [花花和谭爷爷惊喜出镜](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%8A%B1%E5%92%8C%E8%B0%AD%E7%88%B7%E7%88%B7%E6%83%8A%E5%96%9C%E5%87%BA%E9%95%9C%23&t=31&band_rank=2&Refer=top)<br />
 3. [与时代共奋飞](https://s.weibo.com/weibo?q=%23%E4%B8%8E%E6%97%B6%E4%BB%A3%E5%85%B1%E5%A5%8B%E9%A3%9E%23&t=31&band_rank=3&Refer=top)<br />
-4. [花花和谭爷爷惊喜出镜](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%8A%B1%E5%92%8C%E8%B0%AD%E7%88%B7%E7%88%B7%E6%83%8A%E5%96%9C%E5%87%BA%E9%95%9C%23&t=31&band_rank=4&Refer=top)<br />
+4. [那英 声替](https://s.weibo.com/weibo?q=%E9%82%A3%E8%8B%B1%20%E5%A3%B0%E6%9B%BF&t=31&band_rank=4&Refer=top)<br />
 5. [敖子逸给蒋依依道歉](https://s.weibo.com/weibo?q=%23%E6%95%96%E5%AD%90%E9%80%B8%E7%BB%99%E8%92%8B%E4%BE%9D%E4%BE%9D%E9%81%93%E6%AD%89%23&t=31&band_rank=5&Refer=top)<br />
 6. [厦门7月27日15时起三停一休](https://s.weibo.com/weibo?q=%23%E5%8E%A6%E9%97%A87%E6%9C%8827%E6%97%A515%E6%97%B6%E8%B5%B7%E4%B8%89%E5%81%9C%E4%B8%80%E4%BC%91%23&t=31&band_rank=6&Refer=top)<br />
 7. [杜海涛眼里的沈梦辰](https://s.weibo.com/weibo?q=%23%E6%9D%9C%E6%B5%B7%E6%B6%9B%E7%9C%BC%E9%87%8C%E7%9A%84%E6%B2%88%E6%A2%A6%E8%BE%B0%23&t=31&band_rank=7&Refer=top)<br />
