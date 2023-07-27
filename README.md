@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-27 18:35:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-27 18:36:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [单科8分涉事学校违规收取两千余万](https://www.baidu.com/s?wd=%E5%8D%95%E7%A7%918%E5%88%86%E6%B6%89%E4%BA%8B%E5%AD%A6%E6%A0%A1%E8%BF%9D%E8%A7%84%E6%94%B6%E5%8F%96%E4%B8%A4%E5%8D%83%E4%BD%99%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子喝酒过量生命垂危 父亲紧紧抱住](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%96%9D%E9%85%92%E8%BF%87%E9%87%8F%E7%94%9F%E5%91%BD%E5%9E%82%E5%8D%B1+%E7%88%B6%E4%BA%B2%E7%B4%A7%E7%B4%A7%E6%8A%B1%E4%BD%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女儿捅死父亲情人被判13年](https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF%E6%8D%85%E6%AD%BB%E7%88%B6%E4%BA%B2%E6%83%85%E4%BA%BA%E8%A2%AB%E5%88%A413%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [游客投诉强制购物被怼刀架脖子上了?](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E6%8A%95%E8%AF%89%E5%BC%BA%E5%88%B6%E8%B4%AD%E7%89%A9%E8%A2%AB%E6%80%BC%E5%88%80%E6%9E%B6%E8%84%96%E5%AD%90%E4%B8%8A%E4%BA%86%3F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [夫妻深夜摆摊妻子突然跳河身亡](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E6%B7%B1%E5%A4%9C%E6%91%86%E6%91%8A%E5%A6%BB%E5%AD%90%E7%AA%81%E7%84%B6%E8%B7%B3%E6%B2%B3%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [台风杜苏芮向闽粤沿海靠近](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E6%9D%9C%E8%8B%8F%E8%8A%AE%E5%90%91%E9%97%BD%E7%B2%A4%E6%B2%BF%E6%B5%B7%E9%9D%A0%E8%BF%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [单科8分涉事学校违规收取两千余万](https://www.baidu.com/s?wd=%E5%8D%95%E7%A7%918%E5%88%86%E6%B6%89%E4%BA%8B%E5%AD%A6%E6%A0%A1%E8%BF%9D%E8%A7%84%E6%94%B6%E5%8F%96%E4%B8%A4%E5%8D%83%E4%BD%99%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子喝酒过量生命垂危 父亲紧紧抱住](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%96%9D%E9%85%92%E8%BF%87%E9%87%8F%E7%94%9F%E5%91%BD%E5%9E%82%E5%8D%B1+%E7%88%B6%E4%BA%B2%E7%B4%A7%E7%B4%A7%E6%8A%B1%E4%BD%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女儿捅死父亲情人被判13年](https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF%E6%8D%85%E6%AD%BB%E7%88%B6%E4%BA%B2%E6%83%85%E4%BA%BA%E8%A2%AB%E5%88%A413%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [游客投诉强制购物被怼刀架脖子上了?](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E6%8A%95%E8%AF%89%E5%BC%BA%E5%88%B6%E8%B4%AD%E7%89%A9%E8%A2%AB%E6%80%BC%E5%88%80%E6%9E%B6%E8%84%96%E5%AD%90%E4%B8%8A%E4%BA%86%3F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [夫妻深夜摆摊妻子突然跳河身亡](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E6%B7%B1%E5%A4%9C%E6%91%86%E6%91%8A%E5%A6%BB%E5%AD%90%E7%AA%81%E7%84%B6%E8%B7%B3%E6%B2%B3%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [台风杜苏芮向闽粤沿海靠近](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E6%9D%9C%E8%8B%8F%E8%8A%AE%E5%90%91%E9%97%BD%E7%B2%A4%E6%B2%BF%E6%B5%B7%E9%9D%A0%E8%BF%91&sa=fyb_news&rsv_dl=fyb_news)<br />
