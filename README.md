@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-27 11:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-27 11:10:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [如果封神失败导演需用10年还债](https://s.weibo.com/weibo?q=%23%E5%A6%82%E6%9E%9C%E5%B0%81%E7%A5%9E%E5%A4%B1%E8%B4%A5%E5%AF%BC%E6%BC%94%E9%9C%80%E7%94%A810%E5%B9%B4%E8%BF%98%E5%80%BA%23&t=31&band_rank=5&Refer=top)<br />
 6. [微信白用那么久了](https://s.weibo.com/weibo?q=%E5%BE%AE%E4%BF%A1%E7%99%BD%E7%94%A8%E9%82%A3%E4%B9%88%E4%B9%85%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [台风](https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E&t=31&band_rank=7&Refer=top)<br />
-8. [李玟](https://s.weibo.com/weibo?q=%E6%9D%8E%E7%8E%9F&t=31&band_rank=8&Refer=top)<br />
-9. [空调安装人员疑操作不当致买家触电身亡](https://s.weibo.com/weibo?q=%23%E7%A9%BA%E8%B0%83%E5%AE%89%E8%A3%85%E4%BA%BA%E5%91%98%E7%96%91%E6%93%8D%E4%BD%9C%E4%B8%8D%E5%BD%93%E8%87%B4%E4%B9%B0%E5%AE%B6%E8%A7%A6%E7%94%B5%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
+8. [空调安装人员疑操作不当致买家触电身亡](https://s.weibo.com/weibo?q=%23%E7%A9%BA%E8%B0%83%E5%AE%89%E8%A3%85%E4%BA%BA%E5%91%98%E7%96%91%E6%93%8D%E4%BD%9C%E4%B8%8D%E5%BD%93%E8%87%B4%E4%B9%B0%E5%AE%B6%E8%A7%A6%E7%94%B5%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
+9. [李玟](https://s.weibo.com/weibo?q=%E6%9D%8E%E7%8E%9F&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
