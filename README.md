@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-27 20:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-27 20:41:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [单科8分涉事学校违规收取两千余万](https://www.baidu.com/s?wd=%E5%8D%95%E7%A7%918%E5%88%86%E6%B6%89%E4%BA%8B%E5%AD%A6%E6%A0%A1%E8%BF%9D%E8%A7%84%E6%94%B6%E5%8F%96%E4%B8%A4%E5%8D%83%E4%BD%99%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [中国游客在日本爆买LV](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%9C%A8%E6%97%A5%E6%9C%AC%E7%88%86%E4%B9%B0LV&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [老太国道搭帐篷致堵车 路人理论被打](https://www.baidu.com/s?wd=%E8%80%81%E5%A4%AA%E5%9B%BD%E9%81%93%E6%90%AD%E5%B8%90%E7%AF%B7%E8%87%B4%E5%A0%B5%E8%BD%A6+%E8%B7%AF%E4%BA%BA%E7%90%86%E8%AE%BA%E8%A2%AB%E6%89%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [韩国一父亲抽校园霸凌者百余耳光](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E4%B8%80%E7%88%B6%E4%BA%B2%E6%8A%BD%E6%A0%A1%E5%9B%AD%E9%9C%B8%E5%87%8C%E8%80%85%E7%99%BE%E4%BD%99%E8%80%B3%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [这对父子四个月身家暴涨130亿](https://www.baidu.com/s?wd=%E8%BF%99%E5%AF%B9%E7%88%B6%E5%AD%90%E5%9B%9B%E4%B8%AA%E6%9C%88%E8%BA%AB%E5%AE%B6%E6%9A%B4%E6%B6%A8130%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中建八局再被强制执行两千万](https://www.baidu.com/s?wd=%E4%B8%AD%E5%BB%BA%E5%85%AB%E5%B1%80%E5%86%8D%E8%A2%AB%E5%BC%BA%E5%88%B6%E6%89%A7%E8%A1%8C%E4%B8%A4%E5%8D%83%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [韩国一父亲抽校园霸凌者百余耳光](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E4%B8%80%E7%88%B6%E4%BA%B2%E6%8A%BD%E6%A0%A1%E5%9B%AD%E9%9C%B8%E5%87%8C%E8%80%85%E7%99%BE%E4%BD%99%E8%80%B3%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [单科8分涉事学校违规收取两千余万](https://www.baidu.com/s?wd=%E5%8D%95%E7%A7%918%E5%88%86%E6%B6%89%E4%BA%8B%E5%AD%A6%E6%A0%A1%E8%BF%9D%E8%A7%84%E6%94%B6%E5%8F%96%E4%B8%A4%E5%8D%83%E4%BD%99%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [中国游客在日本爆买LV](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%9C%A8%E6%97%A5%E6%9C%AC%E7%88%86%E4%B9%B0LV&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [老太国道搭帐篷致堵车 路人理论被打](https://www.baidu.com/s?wd=%E8%80%81%E5%A4%AA%E5%9B%BD%E9%81%93%E6%90%AD%E5%B8%90%E7%AF%B7%E8%87%B4%E5%A0%B5%E8%BD%A6+%E8%B7%AF%E4%BA%BA%E7%90%86%E8%AE%BA%E8%A2%AB%E6%89%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [韩国一父亲抽校园霸凌者百余耳光](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E4%B8%80%E7%88%B6%E4%BA%B2%E6%8A%BD%E6%A0%A1%E5%9B%AD%E9%9C%B8%E5%87%8C%E8%80%85%E7%99%BE%E4%BD%99%E8%80%B3%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [这对父子四个月身家暴涨130亿](https://www.baidu.com/s?wd=%E8%BF%99%E5%AF%B9%E7%88%B6%E5%AD%90%E5%9B%9B%E4%B8%AA%E6%9C%88%E8%BA%AB%E5%AE%B6%E6%9A%B4%E6%B6%A8130%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中建八局再被强制执行两千万](https://www.baidu.com/s?wd=%E4%B8%AD%E5%BB%BA%E5%85%AB%E5%B1%80%E5%86%8D%E8%A2%AB%E5%BC%BA%E5%88%B6%E6%89%A7%E8%A1%8C%E4%B8%A4%E5%8D%83%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [韩国一父亲抽校园霸凌者百余耳光](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E4%B8%80%E7%88%B6%E4%BA%B2%E6%8A%BD%E6%A0%A1%E5%9B%AD%E9%9C%B8%E5%87%8C%E8%80%85%E7%99%BE%E4%BD%99%E8%80%B3%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
