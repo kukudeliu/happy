@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-27 09:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-27 09:26:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [空调师傅疑操作不当致买家触电身亡](https://www.baidu.com/s?wd=%E7%A9%BA%E8%B0%83%E5%B8%88%E5%82%85%E7%96%91%E6%93%8D%E4%BD%9C%E4%B8%8D%E5%BD%93%E8%87%B4%E4%B9%B0%E5%AE%B6%E8%A7%A6%E7%94%B5%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [多地打击违规补课：奖1万鼓励举报](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E6%89%93%E5%87%BB%E8%BF%9D%E8%A7%84%E8%A1%A5%E8%AF%BE%EF%BC%9A%E5%A5%961%E4%B8%87%E9%BC%93%E5%8A%B1%E4%B8%BE%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女子高铁站打短途车被司机骂短命鬼](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%AB%98%E9%93%81%E7%AB%99%E6%89%93%E7%9F%AD%E9%80%94%E8%BD%A6%E8%A2%AB%E5%8F%B8%E6%9C%BA%E9%AA%82%E7%9F%AD%E5%91%BD%E9%AC%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [山西一饭店顾客吃米线倒醋洗碗](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E4%B8%80%E9%A5%AD%E5%BA%97%E9%A1%BE%E5%AE%A2%E5%90%83%E7%B1%B3%E7%BA%BF%E5%80%92%E9%86%8B%E6%B4%97%E7%A2%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [租客3天没关门邻居以为出事报警](https://www.baidu.com/s?wd=%E7%A7%9F%E5%AE%A23%E5%A4%A9%E6%B2%A1%E5%85%B3%E9%97%A8%E9%82%BB%E5%B1%85%E4%BB%A5%E4%B8%BA%E5%87%BA%E4%BA%8B%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [空调师傅疑操作不当致买家触电身亡](https://www.baidu.com/s?wd=%E7%A9%BA%E8%B0%83%E5%B8%88%E5%82%85%E7%96%91%E6%93%8D%E4%BD%9C%E4%B8%8D%E5%BD%93%E8%87%B4%E4%B9%B0%E5%AE%B6%E8%A7%A6%E7%94%B5%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [多地打击违规补课：奖1万鼓励举报](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E6%89%93%E5%87%BB%E8%BF%9D%E8%A7%84%E8%A1%A5%E8%AF%BE%EF%BC%9A%E5%A5%961%E4%B8%87%E9%BC%93%E5%8A%B1%E4%B8%BE%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女子高铁站打短途车被司机骂短命鬼](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%AB%98%E9%93%81%E7%AB%99%E6%89%93%E7%9F%AD%E9%80%94%E8%BD%A6%E8%A2%AB%E5%8F%B8%E6%9C%BA%E9%AA%82%E7%9F%AD%E5%91%BD%E9%AC%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [山西一饭店顾客吃米线倒醋洗碗](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E4%B8%80%E9%A5%AD%E5%BA%97%E9%A1%BE%E5%AE%A2%E5%90%83%E7%B1%B3%E7%BA%BF%E5%80%92%E9%86%8B%E6%B4%97%E7%A2%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [租客3天没关门邻居以为出事报警](https://www.baidu.com/s?wd=%E7%A7%9F%E5%AE%A23%E5%A4%A9%E6%B2%A1%E5%85%B3%E9%97%A8%E9%82%BB%E5%B1%85%E4%BB%A5%E4%B8%BA%E5%87%BA%E4%BA%8B%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
