@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-29 05:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-29 05:54:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [王霜点球破门](https://www.baidu.com/s?wd=%E7%8E%8B%E9%9C%9C%E7%82%B9%E7%90%83%E7%A0%B4%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子当街扒光妻子衣物用鞋抽打](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BD%93%E8%A1%97%E6%89%92%E5%85%89%E5%A6%BB%E5%AD%90%E8%A1%A3%E7%89%A9%E7%94%A8%E9%9E%8B%E6%8A%BD%E6%89%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [伊拉克女旗手绝美侧颜](https://www.baidu.com/s?wd=%E4%BC%8A%E6%8B%89%E5%85%8B%E5%A5%B3%E6%97%97%E6%89%8B%E7%BB%9D%E7%BE%8E%E4%BE%A7%E9%A2%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [汉庭如家，房价直逼香格里拉](https://www.baidu.com/s?wd=%E6%B1%89%E5%BA%AD%E5%A6%82%E5%AE%B6%EF%BC%8C%E6%88%BF%E4%BB%B7%E7%9B%B4%E9%80%BC%E9%A6%99%E6%A0%BC%E9%87%8C%E6%8B%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [封神第二部妲己被册封](https://www.baidu.com/s?wd=%E5%B0%81%E7%A5%9E%E7%AC%AC%E4%BA%8C%E9%83%A8%E5%A6%B2%E5%B7%B1%E8%A2%AB%E5%86%8C%E5%B0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [王霜点球破门](https://www.baidu.com/s?wd=%E7%8E%8B%E9%9C%9C%E7%82%B9%E7%90%83%E7%A0%B4%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子当街扒光妻子衣物用鞋抽打](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BD%93%E8%A1%97%E6%89%92%E5%85%89%E5%A6%BB%E5%AD%90%E8%A1%A3%E7%89%A9%E7%94%A8%E9%9E%8B%E6%8A%BD%E6%89%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [伊拉克女旗手绝美侧颜](https://www.baidu.com/s?wd=%E4%BC%8A%E6%8B%89%E5%85%8B%E5%A5%B3%E6%97%97%E6%89%8B%E7%BB%9D%E7%BE%8E%E4%BE%A7%E9%A2%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [汉庭如家，房价直逼香格里拉](https://www.baidu.com/s?wd=%E6%B1%89%E5%BA%AD%E5%A6%82%E5%AE%B6%EF%BC%8C%E6%88%BF%E4%BB%B7%E7%9B%B4%E9%80%BC%E9%A6%99%E6%A0%BC%E9%87%8C%E6%8B%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [封神第二部妲己被册封](https://www.baidu.com/s?wd=%E5%B0%81%E7%A5%9E%E7%AC%AC%E4%BA%8C%E9%83%A8%E5%A6%B2%E5%B7%B1%E8%A2%AB%E5%86%8C%E5%B0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
