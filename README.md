@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 15:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 15:03:01</h4></div>
 
 > 微博  
 
-1. [微信已把帐号改为账号](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E5%B7%B2%E6%8A%8A%E5%B8%90%E5%8F%B7%E6%94%B9%E4%B8%BA%E8%B4%A6%E5%8F%B7%23&t=31&band_rank=1&Refer=top)<br />
-2. [封神第二部妲己被册封](https://s.weibo.com/weibo?q=%E5%B0%81%E7%A5%9E%E7%AC%AC%E4%BA%8C%E9%83%A8%E5%A6%B2%E5%B7%B1%E8%A2%AB%E5%86%8C%E5%B0%81&t=31&band_rank=2&Refer=top)<br />
+1. [封神第二部妲己被册封](https://s.weibo.com/weibo?q=%E5%B0%81%E7%A5%9E%E7%AC%AC%E4%BA%8C%E9%83%A8%E5%A6%B2%E5%B7%B1%E8%A2%AB%E5%86%8C%E5%B0%81&t=31&band_rank=1&Refer=top)<br />
+2. [微信已把帐号改为账号](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E5%B7%B2%E6%8A%8A%E5%B8%90%E5%8F%B7%E6%94%B9%E4%B8%BA%E8%B4%A6%E5%8F%B7%23&t=31&band_rank=2&Refer=top)<br />
 3. [青春主场](https://s.weibo.com/weibo?q=%23%E9%9D%92%E6%98%A5%E4%B8%BB%E5%9C%BA%23&t=31&band_rank=3&Refer=top)<br />
 4. [外交部网站发布王毅部长致辞](https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E7%BD%91%E7%AB%99%E5%8F%91%E5%B8%83%E7%8E%8B%E6%AF%85%E9%83%A8%E9%95%BF%E8%87%B4%E8%BE%9E%23&t=31&band_rank=4&Refer=top)<br />
 5. [杜苏芮路径](https://s.weibo.com/weibo?q=%E6%9D%9C%E8%8B%8F%E8%8A%AE%E8%B7%AF%E5%BE%84&t=31&band_rank=5&Refer=top)<br />
