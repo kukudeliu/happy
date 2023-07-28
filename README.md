@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 17:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 17:17:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [成都大运会](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%A4%A7%E8%BF%90%E4%BC%9A%23&t=31&band_rank=6&Refer=top)<br />
 7. [封神第二部妲己被册封](https://s.weibo.com/weibo?q=%E5%B0%81%E7%A5%9E%E7%AC%AC%E4%BA%8C%E9%83%A8%E5%A6%B2%E5%B7%B1%E8%A2%AB%E5%86%8C%E5%B0%81&t=31&band_rank=7&Refer=top)<br />
 8. [李荣浩没抢到杨丞琳演唱会门票](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%8D%A3%E6%B5%A9%E6%B2%A1%E6%8A%A2%E5%88%B0%E6%9D%A8%E4%B8%9E%E7%90%B3%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%23&t=31&band_rank=8&Refer=top)<br />
-9. [独居女生被撬门狗狗狂吠吓跑对方](https://s.weibo.com/weibo?q=%23%E7%8B%AC%E5%B1%85%E5%A5%B3%E7%94%9F%E8%A2%AB%E6%92%AC%E9%97%A8%E7%8B%97%E7%8B%97%E7%8B%82%E5%90%A0%E5%90%93%E8%B7%91%E5%AF%B9%E6%96%B9%23&t=31&band_rank=9&Refer=top)<br />
+9. [微信已把帐号改为账号](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E5%B7%B2%E6%8A%8A%E5%B8%90%E5%8F%B7%E6%94%B9%E4%B8%BA%E8%B4%A6%E5%8F%B7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
