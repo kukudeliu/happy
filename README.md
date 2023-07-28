@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 15:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 15:41:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [微信已把帐号改为账号](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E5%B7%B2%E6%8A%8A%E5%B8%90%E5%8F%B7%E6%94%B9%E4%B8%BA%E8%B4%A6%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [汉庭如家，房价直逼香格里拉](https://www.baidu.com/s?wd=%E6%B1%89%E5%BA%AD%E5%A6%82%E5%AE%B6%EF%BC%8C%E6%88%BF%E4%BB%B7%E7%9B%B4%E9%80%BC%E9%A6%99%E6%A0%BC%E9%87%8C%E6%8B%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [厦门暴雨似飞瀑倾泄而下](https://www.baidu.com/s?wd=%E5%8E%A6%E9%97%A8%E6%9A%B4%E9%9B%A8%E4%BC%BC%E9%A3%9E%E7%80%91%E5%80%BE%E6%B3%84%E8%80%8C%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [林嘉欣发文宣布离婚](https://www.baidu.com/s?wd=%E6%9E%97%E5%98%89%E6%AC%A3%E5%8F%91%E6%96%87%E5%AE%A3%E5%B8%83%E7%A6%BB%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [航展飞行表演歼10紧急中止起飞](https://www.baidu.com/s?wd=%E8%88%AA%E5%B1%95%E9%A3%9E%E8%A1%8C%E8%A1%A8%E6%BC%94%E6%AD%BC10%E7%B4%A7%E6%80%A5%E4%B8%AD%E6%AD%A2%E8%B5%B7%E9%A3%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [住建部发声 提到认房不用认贷](https://www.baidu.com/s?wd=%E4%BD%8F%E5%BB%BA%E9%83%A8%E5%8F%91%E5%A3%B0+%E6%8F%90%E5%88%B0%E8%AE%A4%E6%88%BF%E4%B8%8D%E7%94%A8%E8%AE%A4%E8%B4%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [微信已把帐号改为账号](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E5%B7%B2%E6%8A%8A%E5%B8%90%E5%8F%B7%E6%94%B9%E4%B8%BA%E8%B4%A6%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [汉庭如家，房价直逼香格里拉](https://www.baidu.com/s?wd=%E6%B1%89%E5%BA%AD%E5%A6%82%E5%AE%B6%EF%BC%8C%E6%88%BF%E4%BB%B7%E7%9B%B4%E9%80%BC%E9%A6%99%E6%A0%BC%E9%87%8C%E6%8B%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [厦门暴雨似飞瀑倾泄而下](https://www.baidu.com/s?wd=%E5%8E%A6%E9%97%A8%E6%9A%B4%E9%9B%A8%E4%BC%BC%E9%A3%9E%E7%80%91%E5%80%BE%E6%B3%84%E8%80%8C%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [林嘉欣发文宣布离婚](https://www.baidu.com/s?wd=%E6%9E%97%E5%98%89%E6%AC%A3%E5%8F%91%E6%96%87%E5%AE%A3%E5%B8%83%E7%A6%BB%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [航展飞行表演歼10紧急中止起飞](https://www.baidu.com/s?wd=%E8%88%AA%E5%B1%95%E9%A3%9E%E8%A1%8C%E8%A1%A8%E6%BC%94%E6%AD%BC10%E7%B4%A7%E6%80%A5%E4%B8%AD%E6%AD%A2%E8%B5%B7%E9%A3%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [住建部发声 提到认房不用认贷](https://www.baidu.com/s?wd=%E4%BD%8F%E5%BB%BA%E9%83%A8%E5%8F%91%E5%A3%B0+%E6%8F%90%E5%88%B0%E8%AE%A4%E6%88%BF%E4%B8%8D%E7%94%A8%E8%AE%A4%E8%B4%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
