@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 14:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 14:30:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [青春主场](https://s.weibo.com/weibo?q=%23%E9%9D%92%E6%98%A5%E4%B8%BB%E5%9C%BA%23&t=31&band_rank=3&Refer=top)<br />
 4. [费翔 她是我的哈基米](https://s.weibo.com/weibo?q=%E8%B4%B9%E7%BF%94%20%E5%A5%B9%E6%98%AF%E6%88%91%E7%9A%84%E5%93%88%E5%9F%BA%E7%B1%B3&t=31&band_rank=4&Refer=top)<br />
 5. [台风杜苏芮登陆晋江](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E6%9D%9C%E8%8B%8F%E8%8A%AE%E7%99%BB%E9%99%86%E6%99%8B%E6%B1%9F%23&t=31&band_rank=5&Refer=top)<br />
-6. [迪丽热巴或将演英雄联盟](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%88%96%E5%B0%86%E6%BC%94%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%23&t=31&band_rank=6&Refer=top)<br />
-7. [外交部网站发布王毅部长致辞](https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E7%BD%91%E7%AB%99%E5%8F%91%E5%B8%83%E7%8E%8B%E6%AF%85%E9%83%A8%E9%95%BF%E8%87%B4%E8%BE%9E%23&t=31&band_rank=7&Refer=top)<br />
+6. [外交部网站发布王毅部长致辞](https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E7%BD%91%E7%AB%99%E5%8F%91%E5%B8%83%E7%8E%8B%E6%AF%85%E9%83%A8%E9%95%BF%E8%87%B4%E8%BE%9E%23&t=31&band_rank=6&Refer=top)<br />
+7. [迪丽热巴或将演英雄联盟](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%88%96%E5%B0%86%E6%BC%94%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%23&t=31&band_rank=7&Refer=top)<br />
 8. [杨紫回应剧不虐不接](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%9B%9E%E5%BA%94%E5%89%A7%E4%B8%8D%E8%99%90%E4%B8%8D%E6%8E%A5%23&t=31&band_rank=8&Refer=top)<br />
 9. [泉州海峡体育中心顶篷被狂风吹走](https://s.weibo.com/weibo?q=%23%E6%B3%89%E5%B7%9E%E6%B5%B7%E5%B3%A1%E4%BD%93%E8%82%B2%E4%B8%AD%E5%BF%83%E9%A1%B6%E7%AF%B7%E8%A2%AB%E7%8B%82%E9%A3%8E%E5%90%B9%E8%B5%B0%23&t=31&band_rank=9&Refer=top)<br />
 
