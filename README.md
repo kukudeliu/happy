@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 15:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 15:34:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [汉庭如家，房价直逼香格里拉](https://www.baidu.com/s?wd=%E6%B1%89%E5%BA%AD%E5%A6%82%E5%AE%B6%EF%BC%8C%E6%88%BF%E4%BB%B7%E7%9B%B4%E9%80%BC%E9%A6%99%E6%A0%BC%E9%87%8C%E6%8B%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [厦门暴雨似飞瀑倾泄而下](https://www.baidu.com/s?wd=%E5%8E%A6%E9%97%A8%E6%9A%B4%E9%9B%A8%E4%BC%BC%E9%A3%9E%E7%80%91%E5%80%BE%E6%B3%84%E8%80%8C%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [林嘉欣发文宣布离婚](https://www.baidu.com/s?wd=%E6%9E%97%E5%98%89%E6%AC%A3%E5%8F%91%E6%96%87%E5%AE%A3%E5%B8%83%E7%A6%BB%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [#杨紫琼与相恋19年男友结婚#](https://www.baidu.com/s?wd=%23%E6%9D%A8%E7%B4%AB%E7%90%BC%E4%B8%8E%E7%9B%B8%E6%81%8B19%E5%B9%B4%E7%94%B7%E5%8F%8B%E7%BB%93%E5%A9%9A%23&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [住建部发声 提到认房不用认贷](https://www.baidu.com/s?wd=%E4%BD%8F%E5%BB%BA%E9%83%A8%E5%8F%91%E5%A3%B0+%E6%8F%90%E5%88%B0%E8%AE%A4%E6%88%BF%E4%B8%8D%E7%94%A8%E8%AE%A4%E8%B4%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [汉庭如家，房价直逼香格里拉](https://www.baidu.com/s?wd=%E6%B1%89%E5%BA%AD%E5%A6%82%E5%AE%B6%EF%BC%8C%E6%88%BF%E4%BB%B7%E7%9B%B4%E9%80%BC%E9%A6%99%E6%A0%BC%E9%87%8C%E6%8B%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [厦门暴雨似飞瀑倾泄而下](https://www.baidu.com/s?wd=%E5%8E%A6%E9%97%A8%E6%9A%B4%E9%9B%A8%E4%BC%BC%E9%A3%9E%E7%80%91%E5%80%BE%E6%B3%84%E8%80%8C%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [林嘉欣发文宣布离婚](https://www.baidu.com/s?wd=%E6%9E%97%E5%98%89%E6%AC%A3%E5%8F%91%E6%96%87%E5%AE%A3%E5%B8%83%E7%A6%BB%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [#杨紫琼与相恋19年男友结婚#](https://www.baidu.com/s?wd=%23%E6%9D%A8%E7%B4%AB%E7%90%BC%E4%B8%8E%E7%9B%B8%E6%81%8B19%E5%B9%B4%E7%94%B7%E5%8F%8B%E7%BB%93%E5%A9%9A%23&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [住建部发声 提到认房不用认贷](https://www.baidu.com/s?wd=%E4%BD%8F%E5%BB%BA%E9%83%A8%E5%8F%91%E5%A3%B0+%E6%8F%90%E5%88%B0%E8%AE%A4%E6%88%BF%E4%B8%8D%E7%94%A8%E8%AE%A4%E8%B4%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
