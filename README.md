@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 09:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 09:06:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [上海一咖啡厅命名Doi被指低俗营销](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%B8%80%E5%92%96%E5%95%A1%E5%8E%85%E5%91%BD%E5%90%8DDoi%E8%A2%AB%E6%8C%87%E4%BD%8E%E4%BF%97%E8%90%A5%E9%94%80%23&t=31&band_rank=6&Refer=top)<br />
 7. [杜苏芮核心区 创纪录的狂风暴雨](https://s.weibo.com/weibo?q=%E6%9D%9C%E8%8B%8F%E8%8A%AE%E6%A0%B8%E5%BF%83%E5%8C%BA%20%E5%88%9B%E7%BA%AA%E5%BD%95%E7%9A%84%E7%8B%82%E9%A3%8E%E6%9A%B4%E9%9B%A8&t=31&band_rank=7&Refer=top)<br />
 8. [杨芸晴说老舅照片像王鹤棣](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%8A%B8%E6%99%B4%E8%AF%B4%E8%80%81%E8%88%85%E7%85%A7%E7%89%87%E5%83%8F%E7%8E%8B%E9%B9%A4%E6%A3%A3%23&t=31&band_rank=8&Refer=top)<br />
-9. [妈妈在 在中路了](https://s.weibo.com/weibo?q=%E5%A6%88%E5%A6%88%E5%9C%A8%20%E5%9C%A8%E4%B8%AD%E8%B7%AF%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [除了杨紫都跟电脑都不太熟](https://s.weibo.com/weibo?q=%E9%99%A4%E4%BA%86%E6%9D%A8%E7%B4%AB%E9%83%BD%E8%B7%9F%E7%94%B5%E8%84%91%E9%83%BD%E4%B8%8D%E5%A4%AA%E7%86%9F&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
