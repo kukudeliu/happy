@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 23:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 23:51:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [长相思](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D&t=31&band_rank=6&Refer=top)<br />
 7. [伊拉克女旗手美炸了](https://s.weibo.com/weibo?q=%E4%BC%8A%E6%8B%89%E5%85%8B%E5%A5%B3%E6%97%97%E6%89%8B%E7%BE%8E%E7%82%B8%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [杨紫一镜到底哭戏](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E4%B8%80%E9%95%9C%E5%88%B0%E5%BA%95%E5%93%AD%E6%88%8F%23&t=31&band_rank=8&Refer=top)<br />
-9. [刘宪华高音](https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%AA%E5%8D%8E%E9%AB%98%E9%9F%B3&t=31&band_rank=9&Refer=top)<br />
+9. [中国队出场 全场雄起](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%87%BA%E5%9C%BA%20%E5%85%A8%E5%9C%BA%E9%9B%84%E8%B5%B7&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -25,7 +25,7 @@
 6. [王霜点球破门](https://www.baidu.com/s?wd=%E7%8E%8B%E9%9C%9C%E7%82%B9%E7%90%83%E7%A0%B4%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [伊拉克女旗手绝美侧颜](https://www.baidu.com/s?wd=%E4%BC%8A%E6%8B%89%E5%85%8B%E5%A5%B3%E6%97%97%E6%89%8B%E7%BB%9D%E7%BE%8E%E4%BE%A7%E9%A2%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [台风送来“生蚝滩” 市民成桶往家扛](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E9%80%81%E6%9D%A5%E2%80%9C%E7%94%9F%E8%9A%9D%E6%BB%A9%E2%80%9D+%E5%B8%82%E6%B0%91%E6%88%90%E6%A1%B6%E5%BE%80%E5%AE%B6%E6%89%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [开幕式前全场观众齐唱《成都》](https://www.baidu.com/s?wd=%E5%BC%80%E5%B9%95%E5%BC%8F%E5%89%8D%E5%85%A8%E5%9C%BA%E8%A7%82%E4%BC%97%E9%BD%90%E5%94%B1%E3%80%8A%E6%88%90%E9%83%BD%E3%80%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [杜苏芮过境厦门海边到处是海鲜](https://www.baidu.com/s?wd=%E6%9D%9C%E8%8B%8F%E8%8A%AE%E8%BF%87%E5%A2%83%E5%8E%A6%E9%97%A8%E6%B5%B7%E8%BE%B9%E5%88%B0%E5%A4%84%E6%98%AF%E6%B5%B7%E9%B2%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [王霜点球破门](https://www.baidu.com/s?wd=%E7%8E%8B%E9%9C%9C%E7%82%B9%E7%90%83%E7%A0%B4%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [伊拉克女旗手绝美侧颜](https://www.baidu.com/s?wd=%E4%BC%8A%E6%8B%89%E5%85%8B%E5%A5%B3%E6%97%97%E6%89%8B%E7%BB%9D%E7%BE%8E%E4%BE%A7%E9%A2%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [台风送来“生蚝滩” 市民成桶往家扛](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E9%80%81%E6%9D%A5%E2%80%9C%E7%94%9F%E8%9A%9D%E6%BB%A9%E2%80%9D+%E5%B8%82%E6%B0%91%E6%88%90%E6%A1%B6%E5%BE%80%E5%AE%B6%E6%89%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [开幕式前全场观众齐唱《成都》](https://www.baidu.com/s?wd=%E5%BC%80%E5%B9%95%E5%BC%8F%E5%89%8D%E5%85%A8%E5%9C%BA%E8%A7%82%E4%BC%97%E9%BD%90%E5%94%B1%E3%80%8A%E6%88%90%E9%83%BD%E3%80%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [杜苏芮过境厦门海边到处是海鲜](https://www.baidu.com/s?wd=%E6%9D%9C%E8%8B%8F%E8%8A%AE%E8%BF%87%E5%A2%83%E5%8E%A6%E9%97%A8%E6%B5%B7%E8%BE%B9%E5%88%B0%E5%A4%84%E6%98%AF%E6%B5%B7%E9%B2%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
