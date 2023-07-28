@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 08:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 08:12:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [杜苏芮卡努双台风](https://s.weibo.com/weibo?q=%23%E6%9D%9C%E8%8B%8F%E8%8A%AE%E5%8D%A1%E5%8A%AA%E5%8F%8C%E5%8F%B0%E9%A3%8E%23&t=31&band_rank=6&Refer=top)<br />
 7. [除了杨紫都跟电脑都不太熟](https://s.weibo.com/weibo?q=%E9%99%A4%E4%BA%86%E6%9D%A8%E7%B4%AB%E9%83%BD%E8%B7%9F%E7%94%B5%E8%84%91%E9%83%BD%E4%B8%8D%E5%A4%AA%E7%86%9F&t=31&band_rank=7&Refer=top)<br />
 8. [卡努](https://s.weibo.com/weibo?q=%E5%8D%A1%E5%8A%AA&t=31&band_rank=8&Refer=top)<br />
-9. [银行回应职工纵容17岁儿子虐猫](https://s.weibo.com/weibo?q=%E9%93%B6%E8%A1%8C%E5%9B%9E%E5%BA%94%E8%81%8C%E5%B7%A5%E7%BA%B5%E5%AE%B917%E5%B2%81%E5%84%BF%E5%AD%90%E8%99%90%E7%8C%AB&t=31&band_rank=9&Refer=top)<br />
+9. [王楚然 为给大家带来的困扰说一声抱歉](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E7%84%B6%20%E4%B8%BA%E7%BB%99%E5%A4%A7%E5%AE%B6%E5%B8%A6%E6%9D%A5%E7%9A%84%E5%9B%B0%E6%89%B0%E8%AF%B4%E4%B8%80%E5%A3%B0%E6%8A%B1%E6%AD%89&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
