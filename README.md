@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 09:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 09:38:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [上海一咖啡厅命名Doi被指低俗营销](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%B8%80%E5%92%96%E5%95%A1%E5%8E%85%E5%91%BD%E5%90%8DDoi%E8%A2%AB%E6%8C%87%E4%BD%8E%E4%BF%97%E8%90%A5%E9%94%80%23&t=31&band_rank=6&Refer=top)<br />
 7. [杜苏芮卡努双台风](https://s.weibo.com/weibo?q=%23%E6%9D%9C%E8%8B%8F%E8%8A%AE%E5%8D%A1%E5%8A%AA%E5%8F%8C%E5%8F%B0%E9%A3%8E%23&t=31&band_rank=7&Refer=top)<br />
 8. [每一次熬夜肝都在陪你](https://s.weibo.com/weibo?q=%23%E6%AF%8F%E4%B8%80%E6%AC%A1%E7%86%AC%E5%A4%9C%E8%82%9D%E9%83%BD%E5%9C%A8%E9%99%AA%E4%BD%A0%23&t=31&band_rank=8&Refer=top)<br />
-9. [除了杨紫都跟电脑都不太熟](https://s.weibo.com/weibo?q=%E9%99%A4%E4%BA%86%E6%9D%A8%E7%B4%AB%E9%83%BD%E8%B7%9F%E7%94%B5%E8%84%91%E9%83%BD%E4%B8%8D%E5%A4%AA%E7%86%9F&t=31&band_rank=9&Refer=top)<br />
+9. [保持负面情绪的人也许是更强大的](https://s.weibo.com/weibo?q=%E4%BF%9D%E6%8C%81%E8%B4%9F%E9%9D%A2%E6%83%85%E7%BB%AA%E7%9A%84%E4%BA%BA%E4%B9%9F%E8%AE%B8%E6%98%AF%E6%9B%B4%E5%BC%BA%E5%A4%A7%E7%9A%84&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
