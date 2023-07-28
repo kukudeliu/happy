@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 08:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 08:34:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [世界跆拳道大赛 中国队跳“僵尸舞”](https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E8%B7%86%E6%8B%B3%E9%81%93%E5%A4%A7%E8%B5%9B+%E4%B8%AD%E5%9B%BD%E9%98%9F%E8%B7%B3%E2%80%9C%E5%83%B5%E5%B0%B8%E8%88%9E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [日本男子花10万元把自己变成狗](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%94%B7%E5%AD%90%E8%8A%B110%E4%B8%87%E5%85%83%E6%8A%8A%E8%87%AA%E5%B7%B1%E5%8F%98%E6%88%90%E7%8B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [古特雷斯：全球沸腾时代到来](https://www.baidu.com/s?wd=%E5%8F%A4%E7%89%B9%E9%9B%B7%E6%96%AF%EF%BC%9A%E5%85%A8%E7%90%83%E6%B2%B8%E8%85%BE%E6%97%B6%E4%BB%A3%E5%88%B0%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [黄晓明这回真听劝了](https://www.baidu.com/s?wd=%E9%BB%84%E6%99%93%E6%98%8E%E8%BF%99%E5%9B%9E%E7%9C%9F%E5%90%AC%E5%8A%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [厦门人被莫兰蒂支配的恐惧回来了](https://www.baidu.com/s?wd=%E5%8E%A6%E9%97%A8%E4%BA%BA%E8%A2%AB%E8%8E%AB%E5%85%B0%E8%92%82%E6%94%AF%E9%85%8D%E7%9A%84%E6%81%90%E6%83%A7%E5%9B%9E%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [世界跆拳道大赛 中国队跳“僵尸舞”](https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E8%B7%86%E6%8B%B3%E9%81%93%E5%A4%A7%E8%B5%9B+%E4%B8%AD%E5%9B%BD%E9%98%9F%E8%B7%B3%E2%80%9C%E5%83%B5%E5%B0%B8%E8%88%9E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [日本男子花10万元把自己变成狗](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%94%B7%E5%AD%90%E8%8A%B110%E4%B8%87%E5%85%83%E6%8A%8A%E8%87%AA%E5%B7%B1%E5%8F%98%E6%88%90%E7%8B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [古特雷斯：全球沸腾时代到来](https://www.baidu.com/s?wd=%E5%8F%A4%E7%89%B9%E9%9B%B7%E6%96%AF%EF%BC%9A%E5%85%A8%E7%90%83%E6%B2%B8%E8%85%BE%E6%97%B6%E4%BB%A3%E5%88%B0%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [黄晓明这回真听劝了](https://www.baidu.com/s?wd=%E9%BB%84%E6%99%93%E6%98%8E%E8%BF%99%E5%9B%9E%E7%9C%9F%E5%90%AC%E5%8A%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [厦门人被莫兰蒂支配的恐惧回来了](https://www.baidu.com/s?wd=%E5%8E%A6%E9%97%A8%E4%BA%BA%E8%A2%AB%E8%8E%AB%E5%85%B0%E8%92%82%E6%94%AF%E9%85%8D%E7%9A%84%E6%81%90%E6%83%A7%E5%9B%9E%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
