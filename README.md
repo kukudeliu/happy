@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 17:39:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 17:40:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [台风杜苏芮登陆晋江](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E6%9D%9C%E8%8B%8F%E8%8A%AE%E7%99%BB%E9%99%86%E6%99%8B%E6%B1%9F%23&t=31&band_rank=4&Refer=top)<br />
 5. [徐艺洋说黄子韬穿假货](https://s.weibo.com/weibo?q=%23%E5%BE%90%E8%89%BA%E6%B4%8B%E8%AF%B4%E9%BB%84%E5%AD%90%E9%9F%AC%E7%A9%BF%E5%81%87%E8%B4%A7%23&t=31&band_rank=5&Refer=top)<br />
 6. [小夭相柳海底吻](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%A4%AD%E7%9B%B8%E6%9F%B3%E6%B5%B7%E5%BA%95%E5%90%BB%23&t=31&band_rank=6&Refer=top)<br />
-7. [封神票房](https://s.weibo.com/weibo?q=%E5%B0%81%E7%A5%9E%E7%A5%A8%E6%88%BF&t=31&band_rank=7&Refer=top)<br />
-8. [微信已把帐号改为账号](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E5%B7%B2%E6%8A%8A%E5%B8%90%E5%8F%B7%E6%94%B9%E4%B8%BA%E8%B4%A6%E5%8F%B7%23&t=31&band_rank=8&Refer=top)<br />
+7. [微信已把帐号改为账号](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E5%B7%B2%E6%8A%8A%E5%B8%90%E5%8F%B7%E6%94%B9%E4%B8%BA%E8%B4%A6%E5%8F%B7%23&t=31&band_rank=7&Refer=top)<br />
+8. [封神票房](https://s.weibo.com/weibo?q=%E5%B0%81%E7%A5%9E%E7%A5%A8%E6%88%BF&t=31&band_rank=8&Refer=top)<br />
 9. [成都大运会](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%A4%A7%E8%BF%90%E4%BC%9A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
