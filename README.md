@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 15:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 15:53:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [直击杜苏芮实时路径](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E6%9D%9C%E8%8B%8F%E8%8A%AE%E5%AE%9E%E6%97%B6%E8%B7%AF%E5%BE%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [汉庭如家，房价直逼香格里拉](https://www.baidu.com/s?wd=%E6%B1%89%E5%BA%AD%E5%A6%82%E5%AE%B6%EF%BC%8C%E6%88%BF%E4%BB%B7%E7%9B%B4%E9%80%BC%E9%A6%99%E6%A0%BC%E9%87%8C%E6%8B%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [突发政变的尼日尔：多国力量交织](https://www.baidu.com/s?wd=%E7%AA%81%E5%8F%91%E6%94%BF%E5%8F%98%E7%9A%84%E5%B0%BC%E6%97%A5%E5%B0%94%EF%BC%9A%E5%A4%9A%E5%9B%BD%E5%8A%9B%E9%87%8F%E4%BA%A4%E7%BB%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [住建部发声 提到认房不用认贷](https://www.baidu.com/s?wd=%E4%BD%8F%E5%BB%BA%E9%83%A8%E5%8F%91%E5%A3%B0+%E6%8F%90%E5%88%B0%E8%AE%A4%E6%88%BF%E4%B8%8D%E7%94%A8%E8%AE%A4%E8%B4%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [厦门暴雨似飞瀑倾泄而下](https://www.baidu.com/s?wd=%E5%8E%A6%E9%97%A8%E6%9A%B4%E9%9B%A8%E4%BC%BC%E9%A3%9E%E7%80%91%E5%80%BE%E6%B3%84%E8%80%8C%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [直击杜苏芮实时路径](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E6%9D%9C%E8%8B%8F%E8%8A%AE%E5%AE%9E%E6%97%B6%E8%B7%AF%E5%BE%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [汉庭如家，房价直逼香格里拉](https://www.baidu.com/s?wd=%E6%B1%89%E5%BA%AD%E5%A6%82%E5%AE%B6%EF%BC%8C%E6%88%BF%E4%BB%B7%E7%9B%B4%E9%80%BC%E9%A6%99%E6%A0%BC%E9%87%8C%E6%8B%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [突发政变的尼日尔：多国力量交织](https://www.baidu.com/s?wd=%E7%AA%81%E5%8F%91%E6%94%BF%E5%8F%98%E7%9A%84%E5%B0%BC%E6%97%A5%E5%B0%94%EF%BC%9A%E5%A4%9A%E5%9B%BD%E5%8A%9B%E9%87%8F%E4%BA%A4%E7%BB%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [住建部发声 提到认房不用认贷](https://www.baidu.com/s?wd=%E4%BD%8F%E5%BB%BA%E9%83%A8%E5%8F%91%E5%A3%B0+%E6%8F%90%E5%88%B0%E8%AE%A4%E6%88%BF%E4%B8%8D%E7%94%A8%E8%AE%A4%E8%B4%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [厦门暴雨似飞瀑倾泄而下](https://www.baidu.com/s?wd=%E5%8E%A6%E9%97%A8%E6%9A%B4%E9%9B%A8%E4%BC%BC%E9%A3%9E%E7%80%91%E5%80%BE%E6%B3%84%E8%80%8C%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
