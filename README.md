@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 10:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 10:09:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [杨芸晴说老舅照片像王鹤棣](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%8A%B8%E6%99%B4%E8%AF%B4%E8%80%81%E8%88%85%E7%85%A7%E7%89%87%E5%83%8F%E7%8E%8B%E9%B9%A4%E6%A3%A3%23&t=31&band_rank=6&Refer=top)<br />
 7. [上海一咖啡厅命名Doi被指低俗营销](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%B8%80%E5%92%96%E5%95%A1%E5%8E%85%E5%91%BD%E5%90%8DDoi%E8%A2%AB%E6%8C%87%E4%BD%8E%E4%BF%97%E8%90%A5%E9%94%80%23&t=31&band_rank=7&Refer=top)<br />
 8. [杜苏芮卡努双台风](https://s.weibo.com/weibo?q=%23%E6%9D%9C%E8%8B%8F%E8%8A%AE%E5%8D%A1%E5%8A%AA%E5%8F%8C%E5%8F%B0%E9%A3%8E%23&t=31&band_rank=8&Refer=top)<br />
-9. [王楚然 为给大家带来的困扰说一声抱歉](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E7%84%B6%20%E4%B8%BA%E7%BB%99%E5%A4%A7%E5%AE%B6%E5%B8%A6%E6%9D%A5%E7%9A%84%E5%9B%B0%E6%89%B0%E8%AF%B4%E4%B8%80%E5%A3%B0%E6%8A%B1%E6%AD%89&t=31&band_rank=9&Refer=top)<br />
+9. [丫丫小脸圆到一眼没认出来](https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E5%B0%8F%E8%84%B8%E5%9C%86%E5%88%B0%E4%B8%80%E7%9C%BC%E6%B2%A1%E8%AE%A4%E5%87%BA%E6%9D%A5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
