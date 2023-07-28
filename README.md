@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 12:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 12:48:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [人间烟火受害人](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E9%97%B4%E7%83%9F%E7%81%AB%E5%8F%97%E5%AE%B3%E4%BA%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [五月天泉州 只剩倾盆的思念](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%E6%B3%89%E5%B7%9E%20%E5%8F%AA%E5%89%A9%E5%80%BE%E7%9B%86%E7%9A%84%E6%80%9D%E5%BF%B5&t=31&band_rank=7&Refer=top)<br />
 8. [丫丫小脸圆到一眼没认出来](https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E5%B0%8F%E8%84%B8%E5%9C%86%E5%88%B0%E4%B8%80%E7%9C%BC%E6%B2%A1%E8%AE%A4%E5%87%BA%E6%9D%A5%23&t=31&band_rank=8&Refer=top)<br />
-9. [韩国超导](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E8%B6%85%E5%AF%BC&t=31&band_rank=9&Refer=top)<br />
+9. [甄子丹女儿出道](https://s.weibo.com/weibo?q=%23%E7%94%84%E5%AD%90%E4%B8%B9%E5%A5%B3%E5%84%BF%E5%87%BA%E9%81%93%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
