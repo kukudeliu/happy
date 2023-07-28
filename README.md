@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 17:55:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 17:56:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [台风杜苏芮登陆晋江](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E6%9D%9C%E8%8B%8F%E8%8A%AE%E7%99%BB%E9%99%86%E6%99%8B%E6%B1%9F%23&t=31&band_rank=5&Refer=top)<br />
 6. [小夭相柳海底吻](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%A4%AD%E7%9B%B8%E6%9F%B3%E6%B5%B7%E5%BA%95%E5%90%BB%23&t=31&band_rank=6&Refer=top)<br />
 7. [徐艺洋说黄子韬穿假货](https://s.weibo.com/weibo?q=%23%E5%BE%90%E8%89%BA%E6%B4%8B%E8%AF%B4%E9%BB%84%E5%AD%90%E9%9F%AC%E7%A9%BF%E5%81%87%E8%B4%A7%23&t=31&band_rank=7&Refer=top)<br />
-8. [e人的骨头长这样](https://s.weibo.com/weibo?q=e%E4%BA%BA%E7%9A%84%E9%AA%A8%E5%A4%B4%E9%95%BF%E8%BF%99%E6%A0%B7&t=31&band_rank=8&Refer=top)<br />
-9. [treasure](https://s.weibo.com/weibo?q=treasure&t=31&band_rank=9&Refer=top)<br />
+8. [哥哥离世留下21万债残疾弟弟帮还](https://s.weibo.com/weibo?q=%23%E5%93%A5%E5%93%A5%E7%A6%BB%E4%B8%96%E7%95%99%E4%B8%8B21%E4%B8%87%E5%80%BA%E6%AE%8B%E7%96%BE%E5%BC%9F%E5%BC%9F%E5%B8%AE%E8%BF%98%23&t=31&band_rank=8&Refer=top)<br />
+9. [一人一句为大运健儿加油](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%BA%BA%E4%B8%80%E5%8F%A5%E4%B8%BA%E5%A4%A7%E8%BF%90%E5%81%A5%E5%84%BF%E5%8A%A0%E6%B2%B9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
