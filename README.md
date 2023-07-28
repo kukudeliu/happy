@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-29 07:14:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-29 07:15:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [夭璟吻戏vs夭柳吻戏](https://s.weibo.com/weibo?q=%23%E5%A4%AD%E7%92%9F%E5%90%BB%E6%88%8Fvs%E5%A4%AD%E6%9F%B3%E5%90%BB%E6%88%8F%23&t=31&band_rank=6&Refer=top)<br />
 7. [杜苏芮已远离广东](https://s.weibo.com/weibo?q=%23%E6%9D%9C%E8%8B%8F%E8%8A%AE%E5%B7%B2%E8%BF%9C%E7%A6%BB%E5%B9%BF%E4%B8%9C%23&t=31&band_rank=7&Refer=top)<br />
 8. [金牛座有点劳累命在身上](https://s.weibo.com/weibo?q=%E9%87%91%E7%89%9B%E5%BA%A7%E6%9C%89%E7%82%B9%E5%8A%B3%E7%B4%AF%E5%91%BD%E5%9C%A8%E8%BA%AB%E4%B8%8A&t=31&band_rank=8&Refer=top)<br />
-9. [中国台北旗手好可爱](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%8F%B0%E5%8C%97%E6%97%97%E6%89%8B%E5%A5%BD%E5%8F%AF%E7%88%B1&t=31&band_rank=9&Refer=top)<br />
+9. [长相思格局远远不止于情爱](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D%E6%A0%BC%E5%B1%80%E8%BF%9C%E8%BF%9C%E4%B8%8D%E6%AD%A2%E4%BA%8E%E6%83%85%E7%88%B1&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
