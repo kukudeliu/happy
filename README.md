@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 15:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 15:07:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [费翔 她是我的哈基米](https://s.weibo.com/weibo?q=%E8%B4%B9%E7%BF%94%20%E5%A5%B9%E6%98%AF%E6%88%91%E7%9A%84%E5%93%88%E5%9F%BA%E7%B1%B3&t=31&band_rank=6&Refer=top)<br />
 7. [涂山璟梅林殉情伏笔](https://s.weibo.com/weibo?q=%23%E6%B6%82%E5%B1%B1%E7%92%9F%E6%A2%85%E6%9E%97%E6%AE%89%E6%83%85%E4%BC%8F%E7%AC%94%23&t=31&band_rank=7&Refer=top)<br />
 8. [台风杜苏芮登陆晋江](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E6%9D%9C%E8%8B%8F%E8%8A%AE%E7%99%BB%E9%99%86%E6%99%8B%E6%B1%9F%23&t=31&band_rank=8&Refer=top)<br />
-9. [迪丽热巴或将演英雄联盟](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%88%96%E5%B0%86%E6%BC%94%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%23&t=31&band_rank=9&Refer=top)<br />
+9. [泉州体育局回应五月天演唱会能否按时](https://s.weibo.com/weibo?q=%23%E6%B3%89%E5%B7%9E%E4%BD%93%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E8%83%BD%E5%90%A6%E6%8C%89%E6%97%B6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
