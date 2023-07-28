@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 08:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 08:54:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [双台风来了！第6号台风卡努生成](https://www.baidu.com/s?wd=%E5%8F%8C%E5%8F%B0%E9%A3%8E%E6%9D%A5%E4%BA%86%EF%BC%81%E7%AC%AC6%E5%8F%B7%E5%8F%B0%E9%A3%8E%E5%8D%A1%E5%8A%AA%E7%94%9F%E6%88%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [世界跆拳道大赛 中国队跳“僵尸舞”](https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E8%B7%86%E6%8B%B3%E9%81%93%E5%A4%A7%E8%B5%9B+%E4%B8%AD%E5%9B%BD%E9%98%9F%E8%B7%B3%E2%80%9C%E5%83%B5%E5%B0%B8%E8%88%9E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [上海一咖啡厅命名Doi被指低俗营销](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E4%B8%80%E5%92%96%E5%95%A1%E5%8E%85%E5%91%BD%E5%90%8DDoi%E8%A2%AB%E6%8C%87%E4%BD%8E%E4%BF%97%E8%90%A5%E9%94%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [住建部:巩固房地产市场企稳回升态势](https://www.baidu.com/s?wd=%E4%BD%8F%E5%BB%BA%E9%83%A8%3A%E5%B7%A9%E5%9B%BA%E6%88%BF%E5%9C%B0%E4%BA%A7%E5%B8%82%E5%9C%BA%E4%BC%81%E7%A8%B3%E5%9B%9E%E5%8D%87%E6%80%81%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [杀妻埋尸15年案死缓判决争议背后](https://www.baidu.com/s?wd=%E6%9D%80%E5%A6%BB%E5%9F%8B%E5%B0%B815%E5%B9%B4%E6%A1%88%E6%AD%BB%E7%BC%93%E5%88%A4%E5%86%B3%E4%BA%89%E8%AE%AE%E8%83%8C%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [古特雷斯：全球沸腾时代到来](https://www.baidu.com/s?wd=%E5%8F%A4%E7%89%B9%E9%9B%B7%E6%96%AF%EF%BC%9A%E5%85%A8%E7%90%83%E6%B2%B8%E8%85%BE%E6%97%B6%E4%BB%A3%E5%88%B0%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [双台风来了！第6号台风卡努生成](https://www.baidu.com/s?wd=%E5%8F%8C%E5%8F%B0%E9%A3%8E%E6%9D%A5%E4%BA%86%EF%BC%81%E7%AC%AC6%E5%8F%B7%E5%8F%B0%E9%A3%8E%E5%8D%A1%E5%8A%AA%E7%94%9F%E6%88%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [世界跆拳道大赛 中国队跳“僵尸舞”](https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E8%B7%86%E6%8B%B3%E9%81%93%E5%A4%A7%E8%B5%9B+%E4%B8%AD%E5%9B%BD%E9%98%9F%E8%B7%B3%E2%80%9C%E5%83%B5%E5%B0%B8%E8%88%9E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [上海一咖啡厅命名Doi被指低俗营销](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E4%B8%80%E5%92%96%E5%95%A1%E5%8E%85%E5%91%BD%E5%90%8DDoi%E8%A2%AB%E6%8C%87%E4%BD%8E%E4%BF%97%E8%90%A5%E9%94%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [住建部:巩固房地产市场企稳回升态势](https://www.baidu.com/s?wd=%E4%BD%8F%E5%BB%BA%E9%83%A8%3A%E5%B7%A9%E5%9B%BA%E6%88%BF%E5%9C%B0%E4%BA%A7%E5%B8%82%E5%9C%BA%E4%BC%81%E7%A8%B3%E5%9B%9E%E5%8D%87%E6%80%81%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [杀妻埋尸15年案死缓判决争议背后](https://www.baidu.com/s?wd=%E6%9D%80%E5%A6%BB%E5%9F%8B%E5%B0%B815%E5%B9%B4%E6%A1%88%E6%AD%BB%E7%BC%93%E5%88%A4%E5%86%B3%E4%BA%89%E8%AE%AE%E8%83%8C%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [古特雷斯：全球沸腾时代到来](https://www.baidu.com/s?wd=%E5%8F%A4%E7%89%B9%E9%9B%B7%E6%96%AF%EF%BC%9A%E5%85%A8%E7%90%83%E6%B2%B8%E8%85%BE%E6%97%B6%E4%BB%A3%E5%88%B0%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
