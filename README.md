@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 22:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 22:47:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [科学家复活了46000年前的虫子](https://s.weibo.com/weibo?q=%23%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%A4%8D%E6%B4%BB%E4%BA%8646000%E5%B9%B4%E5%89%8D%E7%9A%84%E8%99%AB%E5%AD%90%23&t=31&band_rank=5&Refer=top)<br />
 6. [覃海洋](https://s.weibo.com/weibo?q=%E8%A6%83%E6%B5%B7%E6%B4%8B&t=31&band_rank=6&Refer=top)<br />
 7. [中国队出场 全场雄起](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%87%BA%E5%9C%BA%20%E5%85%A8%E5%9C%BA%E9%9B%84%E8%B5%B7&t=31&band_rank=7&Refer=top)<br />
-8. [鬼火熊猫](https://s.weibo.com/weibo?q=%E9%AC%BC%E7%81%AB%E7%86%8A%E7%8C%AB&t=31&band_rank=8&Refer=top)<br />
-9. [杨紫一镜到底哭戏](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E4%B8%80%E9%95%9C%E5%88%B0%E5%BA%95%E5%93%AD%E6%88%8F%23&t=31&band_rank=9&Refer=top)<br />
+8. [杨紫一镜到底哭戏](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E4%B8%80%E9%95%9C%E5%88%B0%E5%BA%95%E5%93%AD%E6%88%8F%23&t=31&band_rank=8&Refer=top)<br />
+9. [鬼火熊猫](https://s.weibo.com/weibo?q=%E9%AC%BC%E7%81%AB%E7%86%8A%E7%8C%AB&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
