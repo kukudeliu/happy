@@ -1,10 +1,10 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 11:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 11:12:01</h4></div>
 
 > 微博  
 
 1. [杜苏芮路径](https://s.weibo.com/weibo?q=%E6%9D%9C%E8%8B%8F%E8%8A%AE%E8%B7%AF%E5%BE%84&t=31&band_rank=1&Refer=top)<br />
 2. [微信已把帐号改为账号](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E5%B7%B2%E6%8A%8A%E5%B8%90%E5%8F%B7%E6%94%B9%E4%B8%BA%E8%B4%A6%E5%8F%B7%23&t=31&band_rank=2&Refer=top)<br />
-3. [成都大运会来了](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%A4%A7%E8%BF%90%E4%BC%9A%E6%9D%A5%E4%BA%86%23&t=31&band_rank=3&Refer=top)<br />
+3. [青春主场](https://s.weibo.com/weibo?q=%23%E9%9D%92%E6%98%A5%E4%B8%BB%E5%9C%BA%23&t=31&band_rank=3&Refer=top)<br />
 4. [台风杜苏芮登陆晋江](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E6%9D%9C%E8%8B%8F%E8%8A%AE%E7%99%BB%E9%99%86%E6%99%8B%E6%B1%9F%23&t=31&band_rank=4&Refer=top)<br />
 5. [李玟丈夫发声明](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E4%B8%88%E5%A4%AB%E5%8F%91%E5%A3%B0%E6%98%8E%23&t=31&band_rank=5&Refer=top)<br />
 6. [丫丫小脸圆到一眼没认出来](https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E5%B0%8F%E8%84%B8%E5%9C%86%E5%88%B0%E4%B8%80%E7%9C%BC%E6%B2%A1%E8%AE%A4%E5%87%BA%E6%9D%A5%23&t=31&band_rank=6&Refer=top)<br />
