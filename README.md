@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-29 07:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-29 07:57:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [00后来整顿婚礼了](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E6%9D%A5%E6%95%B4%E9%A1%BF%E5%A9%9A%E7%A4%BC%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [杜苏芮已远离广东](https://s.weibo.com/weibo?q=%23%E6%9D%9C%E8%8B%8F%E8%8A%AE%E5%B7%B2%E8%BF%9C%E7%A6%BB%E5%B9%BF%E4%B8%9C%23&t=31&band_rank=7&Refer=top)<br />
 8. [王一博说绝不放弃任何一个可以跳舞的机会](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%AF%B4%E7%BB%9D%E4%B8%8D%E6%94%BE%E5%BC%83%E4%BB%BB%E4%BD%95%E4%B8%80%E4%B8%AA%E5%8F%AF%E4%BB%A5%E8%B7%B3%E8%88%9E%E7%9A%84%E6%9C%BA%E4%BC%9A%23&t=31&band_rank=8&Refer=top)<br />
-9. [长相思格局远远不止于情爱](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D%E6%A0%BC%E5%B1%80%E8%BF%9C%E8%BF%9C%E4%B8%8D%E6%AD%A2%E4%BA%8E%E6%83%85%E7%88%B1&t=31&band_rank=9&Refer=top)<br />
+9. [室温超导](https://s.weibo.com/weibo?q=%E5%AE%A4%E6%B8%A9%E8%B6%85%E5%AF%BC&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
