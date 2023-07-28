@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 11:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 12:00:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [微信已把帐号改为账号](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E5%B7%B2%E6%8A%8A%E5%B8%90%E5%8F%B7%E6%94%B9%E4%B8%BA%E8%B4%A6%E5%8F%B7%23&t=31&band_rank=2&Refer=top)<br />
 3. [青春主场](https://s.weibo.com/weibo?q=%23%E9%9D%92%E6%98%A5%E4%B8%BB%E5%9C%BA%23&t=31&band_rank=3&Refer=top)<br />
 4. [厦门暴雨似飞瀑倾泄而下](https://s.weibo.com/weibo?q=%23%E5%8E%A6%E9%97%A8%E6%9A%B4%E9%9B%A8%E4%BC%BC%E9%A3%9E%E7%80%91%E5%80%BE%E6%B3%84%E8%80%8C%E4%B8%8B%23&t=31&band_rank=4&Refer=top)<br />
-5. [李玟丈夫发声明](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E4%B8%88%E5%A4%AB%E5%8F%91%E5%A3%B0%E6%98%8E%23&t=31&band_rank=5&Refer=top)<br />
-6. [王鹤棣段小薇合作新歌MV](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%AE%B5%E5%B0%8F%E8%96%87%E5%90%88%E4%BD%9C%E6%96%B0%E6%AD%8CMV%23&t=31&band_rank=6&Refer=top)<br />
+5. [王鹤棣段小薇合作新歌MV](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%AE%B5%E5%B0%8F%E8%96%87%E5%90%88%E4%BD%9C%E6%96%B0%E6%AD%8CMV%23&t=31&band_rank=5&Refer=top)<br />
+6. [李玟丈夫发声明](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E4%B8%88%E5%A4%AB%E5%8F%91%E5%A3%B0%E6%98%8E%23&t=31&band_rank=6&Refer=top)<br />
 7. [台风杜苏芮登陆晋江](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E6%9D%9C%E8%8B%8F%E8%8A%AE%E7%99%BB%E9%99%86%E6%99%8B%E6%B1%9F%23&t=31&band_rank=7&Refer=top)<br />
 8. [丫丫小脸圆到一眼没认出来](https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E5%B0%8F%E8%84%B8%E5%9C%86%E5%88%B0%E4%B8%80%E7%9C%BC%E6%B2%A1%E8%AE%A4%E5%87%BA%E6%9D%A5%23&t=31&band_rank=8&Refer=top)<br />
 9. [大宋少年志2定档](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%AE%8B%E5%B0%91%E5%B9%B4%E5%BF%972%E5%AE%9A%E6%A1%A3&t=31&band_rank=9&Refer=top)<br />
