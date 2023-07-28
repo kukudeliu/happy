@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 20:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 20:03:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [成都大运会双语先导片](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%A4%A7%E8%BF%90%E4%BC%9A%E5%8F%8C%E8%AF%AD%E5%85%88%E5%AF%BC%E7%89%87%23&t=31&band_rank=3&Refer=top)<br />
 4. [魏大勋帅得以为是孟宴臣来了](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E5%B8%85%E5%BE%97%E4%BB%A5%E4%B8%BA%E6%98%AF%E5%AD%9F%E5%AE%B4%E8%87%A3%E6%9D%A5%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [台风杜苏芮登陆晋江](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E6%9D%9C%E8%8B%8F%E8%8A%AE%E7%99%BB%E9%99%86%E6%99%8B%E6%B1%9F%23&t=31&band_rank=5&Refer=top)<br />
-6. [孙女被水烫到爷爷心疼紧抱不放](https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%A5%B3%E8%A2%AB%E6%B0%B4%E7%83%AB%E5%88%B0%E7%88%B7%E7%88%B7%E5%BF%83%E7%96%BC%E7%B4%A7%E6%8A%B1%E4%B8%8D%E6%94%BE%23&t=31&band_rank=6&Refer=top)<br />
-7. [魏大勋刚进组vs减肥20斤后](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E5%88%9A%E8%BF%9B%E7%BB%84vs%E5%87%8F%E8%82%A520%E6%96%A4%E5%90%8E%23&t=31&band_rank=7&Refer=top)<br />
-8. [大哥水性好被老婆喊去救人](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%93%A5%E6%B0%B4%E6%80%A7%E5%A5%BD%E8%A2%AB%E8%80%81%E5%A9%86%E5%96%8A%E5%8E%BB%E6%95%91%E4%BA%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [成都大运会](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%A4%A7%E8%BF%90%E4%BC%9A%23&t=31&band_rank=9&Refer=top)<br />
+6. [成都大运会](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%A4%A7%E8%BF%90%E4%BC%9A%23&t=31&band_rank=6&Refer=top)<br />
+7. [孙女被水烫到爷爷心疼紧抱不放](https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%A5%B3%E8%A2%AB%E6%B0%B4%E7%83%AB%E5%88%B0%E7%88%B7%E7%88%B7%E5%BF%83%E7%96%BC%E7%B4%A7%E6%8A%B1%E4%B8%8D%E6%94%BE%23&t=31&band_rank=7&Refer=top)<br />
+8. [大运会开幕式](https://s.weibo.com/weibo?q=%E5%A4%A7%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F&t=31&band_rank=8&Refer=top)<br />
+9. [魏大勋刚进组vs减肥20斤后](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E5%88%9A%E8%BF%9B%E7%BB%84vs%E5%87%8F%E8%82%A520%E6%96%A4%E5%90%8E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
