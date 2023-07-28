@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 16:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 16:16:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [台风杜苏芮登陆晋江](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E6%9D%9C%E8%8B%8F%E8%8A%AE%E7%99%BB%E9%99%86%E6%99%8B%E6%B1%9F%23&t=31&band_rank=5&Refer=top)<br />
 6. [长相思海外评分2.9分](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D%E6%B5%B7%E5%A4%96%E8%AF%84%E5%88%862.9%E5%88%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [独居女生被撬门狗狗狂吠吓跑对方](https://s.weibo.com/weibo?q=%23%E7%8B%AC%E5%B1%85%E5%A5%B3%E7%94%9F%E8%A2%AB%E6%92%AC%E9%97%A8%E7%8B%97%E7%8B%97%E7%8B%82%E5%90%A0%E5%90%93%E8%B7%91%E5%AF%B9%E6%96%B9%23&t=31&band_rank=7&Refer=top)<br />
-8. [杜苏芮强得离谱 路径妖得要命](https://s.weibo.com/weibo?q=%E6%9D%9C%E8%8B%8F%E8%8A%AE%E5%BC%BA%E5%BE%97%E7%A6%BB%E8%B0%B1%20%E8%B7%AF%E5%BE%84%E5%A6%96%E5%BE%97%E8%A6%81%E5%91%BD&t=31&band_rank=8&Refer=top)<br />
-9. [微信已把帐号改为账号](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E5%B7%B2%E6%8A%8A%E5%B8%90%E5%8F%B7%E6%94%B9%E4%B8%BA%E8%B4%A6%E5%8F%B7%23&t=31&band_rank=9&Refer=top)<br />
+8. [微信已把帐号改为账号](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E5%B7%B2%E6%8A%8A%E5%B8%90%E5%8F%B7%E6%94%B9%E4%B8%BA%E8%B4%A6%E5%8F%B7%23&t=31&band_rank=8&Refer=top)<br />
+9. [杜苏芮强得离谱 路径妖得要命](https://s.weibo.com/weibo?q=%E6%9D%9C%E8%8B%8F%E8%8A%AE%E5%BC%BA%E5%BE%97%E7%A6%BB%E8%B0%B1%20%E8%B7%AF%E5%BE%84%E5%A6%96%E5%BE%97%E8%A6%81%E5%91%BD&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
