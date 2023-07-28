@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 20:53:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 20:54:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [覃海洋200米蛙泳金牌](https://s.weibo.com/weibo?q=%23%E8%A6%83%E6%B5%B7%E6%B4%8B200%E7%B1%B3%E8%9B%99%E6%B3%B3%E9%87%91%E7%89%8C%23&t=31&band_rank=5&Refer=top)<br />
 6. [开幕式熊猫好能蹦](https://s.weibo.com/weibo?q=%E5%BC%80%E5%B9%95%E5%BC%8F%E7%86%8A%E7%8C%AB%E5%A5%BD%E8%83%BD%E8%B9%A6&t=31&band_rank=6&Refer=top)<br />
 7. [科学家复活了46000年前的虫子](https://s.weibo.com/weibo?q=%23%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%A4%8D%E6%B4%BB%E4%BA%8646000%E5%B9%B4%E5%89%8D%E7%9A%84%E8%99%AB%E5%AD%90%23&t=31&band_rank=7&Refer=top)<br />
-8. [成都大运会双语先导片](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%A4%A7%E8%BF%90%E4%BC%9A%E5%8F%8C%E8%AF%AD%E5%85%88%E5%AF%BC%E7%89%87%23&t=31&band_rank=8&Refer=top)<br />
+8. [大运会开幕从12开始倒数](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E4%BB%8E12%E5%BC%80%E5%A7%8B%E5%80%92%E6%95%B0%23&t=31&band_rank=8&Refer=top)<br />
 9. [张睿红牌](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%9D%BF%E7%BA%A2%E7%89%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
