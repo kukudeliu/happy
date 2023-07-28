@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 13:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 13:57:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [杨紫回应剧不虐不接](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%9B%9E%E5%BA%94%E5%89%A7%E4%B8%8D%E8%99%90%E4%B8%8D%E6%8E%A5%23&t=31&band_rank=6&Refer=top)<br />
 7. [迪丽热巴或将演英雄联盟](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%88%96%E5%B0%86%E6%BC%94%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%23&t=31&band_rank=7&Refer=top)<br />
 8. [五月天泉州 只剩倾盆的思念](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%E6%B3%89%E5%B7%9E%20%E5%8F%AA%E5%89%A9%E5%80%BE%E7%9B%86%E7%9A%84%E6%80%9D%E5%BF%B5&t=31&band_rank=8&Refer=top)<br />
-9. [甄子丹女儿出道](https://s.weibo.com/weibo?q=%23%E7%94%84%E5%AD%90%E4%B8%B9%E5%A5%B3%E5%84%BF%E5%87%BA%E9%81%93%23&t=31&band_rank=9&Refer=top)<br />
+9. [龚俊问40集吻戏拍什么戏这是](https://s.weibo.com/weibo?q=%23%E9%BE%9A%E4%BF%8A%E9%97%AE40%E9%9B%86%E5%90%BB%E6%88%8F%E6%8B%8D%E4%BB%80%E4%B9%88%E6%88%8F%E8%BF%99%E6%98%AF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
