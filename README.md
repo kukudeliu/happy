@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 22:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 22:35:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [中国队出场 全场雄起](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%87%BA%E5%9C%BA%20%E5%85%A8%E5%9C%BA%E9%9B%84%E8%B5%B7&t=31&band_rank=6&Refer=top)<br />
 7. [覃海洋](https://s.weibo.com/weibo?q=%E8%A6%83%E6%B5%B7%E6%B4%8B&t=31&band_rank=7&Refer=top)<br />
 8. [鬼火熊猫](https://s.weibo.com/weibo?q=%E9%AC%BC%E7%81%AB%E7%86%8A%E7%8C%AB&t=31&band_rank=8&Refer=top)<br />
-9. [大运会开幕式](https://s.weibo.com/weibo?q=%E5%A4%A7%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F&t=31&band_rank=9&Refer=top)<br />
+9. [开幕式熊猫好能蹦](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%B9%95%E5%BC%8F%E7%86%8A%E7%8C%AB%E5%A5%BD%E8%83%BD%E8%B9%A6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
