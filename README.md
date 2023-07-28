@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 14:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 14:13:01</h4></div>
 
 > 微博  
 
@@ -6,7 +6,7 @@
 2. [杜苏芮路径](https://s.weibo.com/weibo?q=%E6%9D%9C%E8%8B%8F%E8%8A%AE%E8%B7%AF%E5%BE%84&t=31&band_rank=2&Refer=top)<br />
 3. [青春主场](https://s.weibo.com/weibo?q=%23%E9%9D%92%E6%98%A5%E4%B8%BB%E5%9C%BA%23&t=31&band_rank=3&Refer=top)<br />
 4. [费翔 她是我的哈基米](https://s.weibo.com/weibo?q=%E8%B4%B9%E7%BF%94%20%E5%A5%B9%E6%98%AF%E6%88%91%E7%9A%84%E5%93%88%E5%9F%BA%E7%B1%B3&t=31&band_rank=4&Refer=top)<br />
-5. [五月天泉州 只剩倾盆的思念](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%E6%B3%89%E5%B7%9E%20%E5%8F%AA%E5%89%A9%E5%80%BE%E7%9B%86%E7%9A%84%E6%80%9D%E5%BF%B5&t=31&band_rank=5&Refer=top)<br />
+5. [泉州海峡体育中心顶篷被狂风吹走](https://s.weibo.com/weibo?q=%23%E6%B3%89%E5%B7%9E%E6%B5%B7%E5%B3%A1%E4%BD%93%E8%82%B2%E4%B8%AD%E5%BF%83%E9%A1%B6%E7%AF%B7%E8%A2%AB%E7%8B%82%E9%A3%8E%E5%90%B9%E8%B5%B0%23&t=31&band_rank=5&Refer=top)<br />
 6. [迪丽热巴或将演英雄联盟](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%88%96%E5%B0%86%E6%BC%94%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%23&t=31&band_rank=6&Refer=top)<br />
 7. [杨紫回应剧不虐不接](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%9B%9E%E5%BA%94%E5%89%A7%E4%B8%8D%E8%99%90%E4%B8%8D%E6%8E%A5%23&t=31&band_rank=7&Refer=top)<br />
 8. [晋江台风](https://s.weibo.com/weibo?q=%E6%99%8B%E6%B1%9F%E5%8F%B0%E9%A3%8E&t=31&band_rank=8&Refer=top)<br />
