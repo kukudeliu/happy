@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-29 00:49:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-29 00:50:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [伊拉克女旗手美炸了](https://s.weibo.com/weibo?q=%E4%BC%8A%E6%8B%89%E5%85%8B%E5%A5%B3%E6%97%97%E6%89%8B%E7%BE%8E%E7%82%B8%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [黄磊张艺兴聊婚姻](https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%A3%8A%E5%BC%A0%E8%89%BA%E5%85%B4%E8%81%8A%E5%A9%9A%E5%A7%BB%23&t=31&band_rank=7&Refer=top)<br />
 8. [覃海洋](https://s.weibo.com/weibo?q=%E8%A6%83%E6%B5%B7%E6%B4%8B&t=31&band_rank=8&Refer=top)<br />
-9. [薛之谦刘宪华好像在演双簧](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%88%98%E5%AE%AA%E5%8D%8E%E5%A5%BD%E5%83%8F%E5%9C%A8%E6%BC%94%E5%8F%8C%E7%B0%A7%23&t=31&band_rank=9&Refer=top)<br />
+9. [中国队出场 全场雄起](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%87%BA%E5%9C%BA%20%E5%85%A8%E5%9C%BA%E9%9B%84%E8%B5%B7&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
