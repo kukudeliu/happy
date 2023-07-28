@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 12:33:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 12:34:01</h4></div>
 
 > 微博  
 
@@ -8,7 +8,7 @@
 4. [台风杜苏芮登陆晋江](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E6%9D%9C%E8%8B%8F%E8%8A%AE%E7%99%BB%E9%99%86%E6%99%8B%E6%B1%9F%23&t=31&band_rank=4&Refer=top)<br />
 5. [王鹤棣段小薇合作新歌MV](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%AE%B5%E5%B0%8F%E8%96%87%E5%90%88%E4%BD%9C%E6%96%B0%E6%AD%8CMV%23&t=31&band_rank=5&Refer=top)<br />
 6. [韩国超导](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E8%B6%85%E5%AF%BC&t=31&band_rank=6&Refer=top)<br />
-7. [厦门暴雨似飞瀑倾泄而下](https://s.weibo.com/weibo?q=%23%E5%8E%A6%E9%97%A8%E6%9A%B4%E9%9B%A8%E4%BC%BC%E9%A3%9E%E7%80%91%E5%80%BE%E6%B3%84%E8%80%8C%E4%B8%8B%23&t=31&band_rank=7&Refer=top)<br />
+7. [泉州海峡体育中心顶篷被狂风吹走](https://s.weibo.com/weibo?q=%23%E6%B3%89%E5%B7%9E%E6%B5%B7%E5%B3%A1%E4%BD%93%E8%82%B2%E4%B8%AD%E5%BF%83%E9%A1%B6%E7%AF%B7%E8%A2%AB%E7%8B%82%E9%A3%8E%E5%90%B9%E8%B5%B0%23&t=31&band_rank=7&Refer=top)<br />
 8. [丫丫小脸圆到一眼没认出来](https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E5%B0%8F%E8%84%B8%E5%9C%86%E5%88%B0%E4%B8%80%E7%9C%BC%E6%B2%A1%E8%AE%A4%E5%87%BA%E6%9D%A5%23&t=31&band_rank=8&Refer=top)<br />
 9. [杨洋 谢谢大家的包容与陪伴批评和建议](https://s.weibo.com/weibo?q=%E6%9D%A8%E6%B4%8B%20%E8%B0%A2%E8%B0%A2%E5%A4%A7%E5%AE%B6%E7%9A%84%E5%8C%85%E5%AE%B9%E4%B8%8E%E9%99%AA%E4%BC%B4%E6%89%B9%E8%AF%84%E5%92%8C%E5%BB%BA%E8%AE%AE&t=31&band_rank=9&Refer=top)<br />
 
