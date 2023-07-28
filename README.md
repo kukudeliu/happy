@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-29 05:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-29 05:22:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [最酷炫大运会MV来了](https://www.baidu.com/s?wd=%E6%9C%80%E9%85%B7%E7%82%AB%E5%A4%A7%E8%BF%90%E4%BC%9AMV%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [杜苏芮或“卡位”北方 暴雨连下6天](https://www.baidu.com/s?wd=%E6%9D%9C%E8%8B%8F%E8%8A%AE%E6%88%96%E2%80%9C%E5%8D%A1%E4%BD%8D%E2%80%9D%E5%8C%97%E6%96%B9+%E6%9A%B4%E9%9B%A8%E8%BF%9E%E4%B8%8B6%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [王霜点球破门](https://www.baidu.com/s?wd=%E7%8E%8B%E9%9C%9C%E7%82%B9%E7%90%83%E7%A0%B4%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [涂磊再次回应性侵谣言：清者自清](https://www.baidu.com/s?wd=%E6%B6%82%E7%A3%8A%E5%86%8D%E6%AC%A1%E5%9B%9E%E5%BA%94%E6%80%A7%E4%BE%B5%E8%B0%A3%E8%A8%80%EF%BC%9A%E6%B8%85%E8%80%85%E8%87%AA%E6%B8%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [厦门暴雨似飞瀑倾泄而下](https://www.baidu.com/s?wd=%E5%8E%A6%E9%97%A8%E6%9A%B4%E9%9B%A8%E4%BC%BC%E9%A3%9E%E7%80%91%E5%80%BE%E6%B3%84%E8%80%8C%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [媒体：要求孩子10小时不哭闹不妥](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E8%A6%81%E6%B1%82%E5%AD%A9%E5%AD%9010%E5%B0%8F%E6%97%B6%E4%B8%8D%E5%93%AD%E9%97%B9%E4%B8%8D%E5%A6%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [涂磊再次回应性侵谣言：清者自清](https://www.baidu.com/s?wd=%E6%B6%82%E7%A3%8A%E5%86%8D%E6%AC%A1%E5%9B%9E%E5%BA%94%E6%80%A7%E4%BE%B5%E8%B0%A3%E8%A8%80%EF%BC%9A%E6%B8%85%E8%80%85%E8%87%AA%E6%B8%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [台风送来“生蚝滩” 市民成桶往家扛](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E9%80%81%E6%9D%A5%E2%80%9C%E7%94%9F%E8%9A%9D%E6%BB%A9%E2%80%9D+%E5%B8%82%E6%B0%91%E6%88%90%E6%A1%B6%E5%BE%80%E5%AE%B6%E6%89%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [最酷炫大运会MV来了](https://www.baidu.com/s?wd=%E6%9C%80%E9%85%B7%E7%82%AB%E5%A4%A7%E8%BF%90%E4%BC%9AMV%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [杜苏芮或“卡位”北方 暴雨连下6天](https://www.baidu.com/s?wd=%E6%9D%9C%E8%8B%8F%E8%8A%AE%E6%88%96%E2%80%9C%E5%8D%A1%E4%BD%8D%E2%80%9D%E5%8C%97%E6%96%B9+%E6%9A%B4%E9%9B%A8%E8%BF%9E%E4%B8%8B6%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [王霜点球破门](https://www.baidu.com/s?wd=%E7%8E%8B%E9%9C%9C%E7%82%B9%E7%90%83%E7%A0%B4%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [涂磊再次回应性侵谣言：清者自清](https://www.baidu.com/s?wd=%E6%B6%82%E7%A3%8A%E5%86%8D%E6%AC%A1%E5%9B%9E%E5%BA%94%E6%80%A7%E4%BE%B5%E8%B0%A3%E8%A8%80%EF%BC%9A%E6%B8%85%E8%80%85%E8%87%AA%E6%B8%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [厦门暴雨似飞瀑倾泄而下](https://www.baidu.com/s?wd=%E5%8E%A6%E9%97%A8%E6%9A%B4%E9%9B%A8%E4%BC%BC%E9%A3%9E%E7%80%91%E5%80%BE%E6%B3%84%E8%80%8C%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [媒体：要求孩子10小时不哭闹不妥](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E8%A6%81%E6%B1%82%E5%AD%A9%E5%AD%9010%E5%B0%8F%E6%97%B6%E4%B8%8D%E5%93%AD%E9%97%B9%E4%B8%8D%E5%A6%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [涂磊再次回应性侵谣言：清者自清](https://www.baidu.com/s?wd=%E6%B6%82%E7%A3%8A%E5%86%8D%E6%AC%A1%E5%9B%9E%E5%BA%94%E6%80%A7%E4%BE%B5%E8%B0%A3%E8%A8%80%EF%BC%9A%E6%B8%85%E8%80%85%E8%87%AA%E6%B8%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [台风送来“生蚝滩” 市民成桶往家扛](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E9%80%81%E6%9D%A5%E2%80%9C%E7%94%9F%E8%9A%9D%E6%BB%A9%E2%80%9D+%E5%B8%82%E6%B0%91%E6%88%90%E6%A1%B6%E5%BE%80%E5%AE%B6%E6%89%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
