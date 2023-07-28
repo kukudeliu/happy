@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 21:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 21:20:01</h4></div>
 
 > 微博  
 
@@ -17,7 +17,7 @@
 
 > 百度  
 
-1. [习近平在大运会开幕式欢迎宴会致辞](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8%E5%A4%A7%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E6%AC%A2%E8%BF%8E%E5%AE%B4%E4%BC%9A%E8%87%B4%E8%BE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [重要主场外交拉开帷幕](https://www.baidu.com/s?wd=%E9%87%8D%E8%A6%81%E4%B8%BB%E5%9C%BA%E5%A4%96%E4%BA%A4%E6%8B%89%E5%BC%80%E5%B8%B7%E5%B9%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [成都大运会开幕式](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E5%A4%A7%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [覃海洋包揽蛙泳3金](https://www.baidu.com/s?wd=%E8%A6%83%E6%B5%B7%E6%B4%8B%E5%8C%85%E6%8F%BD%E8%9B%99%E6%B3%B33%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [最酷炫大运会MV来了](https://www.baidu.com/s?wd=%E6%9C%80%E9%85%B7%E7%82%AB%E5%A4%A7%E8%BF%90%E4%BC%9AMV%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,7 +29,7 @@
 
 > 哔哩哔哩  
 
-1. [习近平在大运会开幕式欢迎宴会致辞](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8%E5%A4%A7%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E6%AC%A2%E8%BF%8E%E5%AE%B4%E4%BC%9A%E8%87%B4%E8%BE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [重要主场外交拉开帷幕](https://www.baidu.com/s?wd=%E9%87%8D%E8%A6%81%E4%B8%BB%E5%9C%BA%E5%A4%96%E4%BA%A4%E6%8B%89%E5%BC%80%E5%B8%B7%E5%B9%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [成都大运会开幕式](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E5%A4%A7%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [覃海洋包揽蛙泳3金](https://www.baidu.com/s?wd=%E8%A6%83%E6%B5%B7%E6%B4%8B%E5%8C%85%E6%8F%BD%E8%9B%99%E6%B3%B33%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [最酷炫大运会MV来了](https://www.baidu.com/s?wd=%E6%9C%80%E9%85%B7%E7%82%AB%E5%A4%A7%E8%BF%90%E4%BC%9AMV%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
