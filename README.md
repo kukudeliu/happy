@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 18:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 19:00:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [独居女生被撬门狗狗狂吠吓跑对方](https://s.weibo.com/weibo?q=%23%E7%8B%AC%E5%B1%85%E5%A5%B3%E7%94%9F%E8%A2%AB%E6%92%AC%E9%97%A8%E7%8B%97%E7%8B%97%E7%8B%82%E5%90%A0%E5%90%93%E8%B7%91%E5%AF%B9%E6%96%B9%23&t=31&band_rank=5&Refer=top)<br />
 6. [台风杜苏芮登陆晋江](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E6%9D%9C%E8%8B%8F%E8%8A%AE%E7%99%BB%E9%99%86%E6%99%8B%E6%B1%9F%23&t=31&band_rank=6&Refer=top)<br />
 7. [一人一句为大运健儿加油](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%BA%BA%E4%B8%80%E5%8F%A5%E4%B8%BA%E5%A4%A7%E8%BF%90%E5%81%A5%E5%84%BF%E5%8A%A0%E6%B2%B9%23&t=31&band_rank=7&Refer=top)<br />
-8. [韩团队称合成世界首个室温常压超导体](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%A2%E9%98%9F%E7%A7%B0%E5%90%88%E6%88%90%E4%B8%96%E7%95%8C%E9%A6%96%E4%B8%AA%E5%AE%A4%E6%B8%A9%E5%B8%B8%E5%8E%8B%E8%B6%85%E5%AF%BC%E4%BD%93%23&t=31&band_rank=8&Refer=top)<br />
+8. [小夭相柳海底吻](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%A4%AD%E7%9B%B8%E6%9F%B3%E6%B5%B7%E5%BA%95%E5%90%BB%23&t=31&band_rank=8&Refer=top)<br />
 9. [济南暴雨](https://s.weibo.com/weibo?q=%E6%B5%8E%E5%8D%97%E6%9A%B4%E9%9B%A8&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
