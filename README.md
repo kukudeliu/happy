@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 08:13:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 08:14:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [杜苏芮核心区 创纪录的狂风暴雨](https://s.weibo.com/weibo?q=%E6%9D%9C%E8%8B%8F%E8%8A%AE%E6%A0%B8%E5%BF%83%E5%8C%BA%20%E5%88%9B%E7%BA%AA%E5%BD%95%E7%9A%84%E7%8B%82%E9%A3%8E%E6%9A%B4%E9%9B%A8&t=31&band_rank=4&Refer=top)<br />
 5. [泉州](https://s.weibo.com/weibo?q=%E6%B3%89%E5%B7%9E&t=31&band_rank=5&Refer=top)<br />
 6. [杜苏芮卡努双台风](https://s.weibo.com/weibo?q=%23%E6%9D%9C%E8%8B%8F%E8%8A%AE%E5%8D%A1%E5%8A%AA%E5%8F%8C%E5%8F%B0%E9%A3%8E%23&t=31&band_rank=6&Refer=top)<br />
-7. [除了杨紫都跟电脑都不太熟](https://s.weibo.com/weibo?q=%E9%99%A4%E4%BA%86%E6%9D%A8%E7%B4%AB%E9%83%BD%E8%B7%9F%E7%94%B5%E8%84%91%E9%83%BD%E4%B8%8D%E5%A4%AA%E7%86%9F&t=31&band_rank=7&Refer=top)<br />
-8. [卡努](https://s.weibo.com/weibo?q=%E5%8D%A1%E5%8A%AA&t=31&band_rank=8&Refer=top)<br />
+7. [卡努](https://s.weibo.com/weibo?q=%E5%8D%A1%E5%8A%AA&t=31&band_rank=7&Refer=top)<br />
+8. [除了杨紫都跟电脑都不太熟](https://s.weibo.com/weibo?q=%E9%99%A4%E4%BA%86%E6%9D%A8%E7%B4%AB%E9%83%BD%E8%B7%9F%E7%94%B5%E8%84%91%E9%83%BD%E4%B8%8D%E5%A4%AA%E7%86%9F&t=31&band_rank=8&Refer=top)<br />
 9. [王楚然 为给大家带来的困扰说一声抱歉](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E7%84%B6%20%E4%B8%BA%E7%BB%99%E5%A4%A7%E5%AE%B6%E5%B8%A6%E6%9D%A5%E7%9A%84%E5%9B%B0%E6%89%B0%E8%AF%B4%E4%B8%80%E5%A3%B0%E6%8A%B1%E6%AD%89&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -25,7 +25,7 @@
 6. [日本男子花10万元把自己变成狗](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%94%B7%E5%AD%90%E8%8A%B110%E4%B8%87%E5%85%83%E6%8A%8A%E8%87%AA%E5%B7%B1%E5%8F%98%E6%88%90%E7%8B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [出纳挪用2500多万理财7年获利6400](https://www.baidu.com/s?wd=%E5%87%BA%E7%BA%B3%E6%8C%AA%E7%94%A82500%E5%A4%9A%E4%B8%87%E7%90%86%E8%B4%A27%E5%B9%B4%E8%8E%B7%E5%88%A96400&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [福建海浪打出西游记开场既视感](https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E6%B5%B7%E6%B5%AA%E6%89%93%E5%87%BA%E8%A5%BF%E6%B8%B8%E8%AE%B0%E5%BC%80%E5%9C%BA%E6%97%A2%E8%A7%86%E6%84%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [人间烟火收官 王楚然道歉魏大勋感谢](https://www.baidu.com/s?wd=%E4%BA%BA%E9%97%B4%E7%83%9F%E7%81%AB%E6%94%B6%E5%AE%98+%E7%8E%8B%E6%A5%9A%E7%84%B6%E9%81%93%E6%AD%89%E9%AD%8F%E5%A4%A7%E5%8B%8B%E6%84%9F%E8%B0%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [韩国一父亲抽校园霸凌者百余耳光](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E4%B8%80%E7%88%B6%E4%BA%B2%E6%8A%BD%E6%A0%A1%E5%9B%AD%E9%9C%B8%E5%87%8C%E8%80%85%E7%99%BE%E4%BD%99%E8%80%B3%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [日本男子花10万元把自己变成狗](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%94%B7%E5%AD%90%E8%8A%B110%E4%B8%87%E5%85%83%E6%8A%8A%E8%87%AA%E5%B7%B1%E5%8F%98%E6%88%90%E7%8B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [出纳挪用2500多万理财7年获利6400](https://www.baidu.com/s?wd=%E5%87%BA%E7%BA%B3%E6%8C%AA%E7%94%A82500%E5%A4%9A%E4%B8%87%E7%90%86%E8%B4%A27%E5%B9%B4%E8%8E%B7%E5%88%A96400&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [福建海浪打出西游记开场既视感](https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E6%B5%B7%E6%B5%AA%E6%89%93%E5%87%BA%E8%A5%BF%E6%B8%B8%E8%AE%B0%E5%BC%80%E5%9C%BA%E6%97%A2%E8%A7%86%E6%84%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [人间烟火收官 王楚然道歉魏大勋感谢](https://www.baidu.com/s?wd=%E4%BA%BA%E9%97%B4%E7%83%9F%E7%81%AB%E6%94%B6%E5%AE%98+%E7%8E%8B%E6%A5%9A%E7%84%B6%E9%81%93%E6%AD%89%E9%AD%8F%E5%A4%A7%E5%8B%8B%E6%84%9F%E8%B0%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [韩国一父亲抽校园霸凌者百余耳光](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E4%B8%80%E7%88%B6%E4%BA%B2%E6%8A%BD%E6%A0%A1%E5%9B%AD%E9%9C%B8%E5%87%8C%E8%80%85%E7%99%BE%E4%BD%99%E8%80%B3%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
