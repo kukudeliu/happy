@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 18:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-28 18:09:01</h4></div>
 
 > 微博  
 
 1. [李现跑着拥抱吴彦姝](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%B0%E8%B7%91%E7%9D%80%E6%8B%A5%E6%8A%B1%E5%90%B4%E5%BD%A6%E5%A7%9D%23&t=31&band_rank=1&Refer=top)<br />
-2. [独居女生被撬门狗狗狂吠吓跑对方](https://s.weibo.com/weibo?q=%23%E7%8B%AC%E5%B1%85%E5%A5%B3%E7%94%9F%E8%A2%AB%E6%92%AC%E9%97%A8%E7%8B%97%E7%8B%97%E7%8B%82%E5%90%A0%E5%90%93%E8%B7%91%E5%AF%B9%E6%96%B9%23&t=31&band_rank=2&Refer=top)<br />
+2. [哥哥离世留下21万债残疾弟弟帮还](https://s.weibo.com/weibo?q=%23%E5%93%A5%E5%93%A5%E7%A6%BB%E4%B8%96%E7%95%99%E4%B8%8B21%E4%B8%87%E5%80%BA%E6%AE%8B%E7%96%BE%E5%BC%9F%E5%BC%9F%E5%B8%AE%E8%BF%98%23&t=31&band_rank=2&Refer=top)<br />
 3. [成都大运会双语先导片](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%A4%A7%E8%BF%90%E4%BC%9A%E5%8F%8C%E8%AF%AD%E5%85%88%E5%AF%BC%E7%89%87%23&t=31&band_rank=3&Refer=top)<br />
 4. [台风杜苏芮登陆晋江](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E6%9D%9C%E8%8B%8F%E8%8A%AE%E7%99%BB%E9%99%86%E6%99%8B%E6%B1%9F%23&t=31&band_rank=4&Refer=top)<br />
-5. [哥哥离世留下21万债残疾弟弟帮还](https://s.weibo.com/weibo?q=%23%E5%93%A5%E5%93%A5%E7%A6%BB%E4%B8%96%E7%95%99%E4%B8%8B21%E4%B8%87%E5%80%BA%E6%AE%8B%E7%96%BE%E5%BC%9F%E5%BC%9F%E5%B8%AE%E8%BF%98%23&t=31&band_rank=5&Refer=top)<br />
+5. [独居女生被撬门狗狗狂吠吓跑对方](https://s.weibo.com/weibo?q=%23%E7%8B%AC%E5%B1%85%E5%A5%B3%E7%94%9F%E8%A2%AB%E6%92%AC%E9%97%A8%E7%8B%97%E7%8B%97%E7%8B%82%E5%90%A0%E5%90%93%E8%B7%91%E5%AF%B9%E6%96%B9%23&t=31&band_rank=5&Refer=top)<br />
 6. [treasure](https://s.weibo.com/weibo?q=treasure&t=31&band_rank=6&Refer=top)<br />
 7. [一人一句为大运健儿加油](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%BA%BA%E4%B8%80%E5%8F%A5%E4%B8%BA%E5%A4%A7%E8%BF%90%E5%81%A5%E5%84%BF%E5%8A%A0%E6%B2%B9%23&t=31&band_rank=7&Refer=top)<br />
 8. [小夭相柳海底吻](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%A4%AD%E7%9B%B8%E6%9F%B3%E6%B5%B7%E5%BA%95%E5%90%BB%23&t=31&band_rank=8&Refer=top)<br />
@@ -25,7 +25,7 @@
 6. [媒体：要求孩子10小时不哭闹不妥](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E8%A6%81%E6%B1%82%E5%AD%A9%E5%AD%9010%E5%B0%8F%E6%97%B6%E4%B8%8D%E5%93%AD%E9%97%B9%E4%B8%8D%E5%A6%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李现跑着拥抱吴彦姝](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%B0%E8%B7%91%E7%9D%80%E6%8B%A5%E6%8A%B1%E5%90%B4%E5%BD%A6%E5%A7%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [夏日出行精致好物](https://www.baidu.com/s?wd=%E5%A4%8F%E6%97%A5%E5%87%BA%E8%A1%8C%E7%B2%BE%E8%87%B4%E5%A5%BD%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [3000多名官兵紧急出动支援厦门](https://www.baidu.com/s?wd=3000%E5%A4%9A%E5%90%8D%E5%AE%98%E5%85%B5%E7%B4%A7%E6%80%A5%E5%87%BA%E5%8A%A8%E6%94%AF%E6%8F%B4%E5%8E%A6%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子称买水煮花生快吃完发现老鼠头](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E4%B9%B0%E6%B0%B4%E7%85%AE%E8%8A%B1%E7%94%9F%E5%BF%AB%E5%90%83%E5%AE%8C%E5%8F%91%E7%8E%B0%E8%80%81%E9%BC%A0%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [媒体：要求孩子10小时不哭闹不妥](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E8%A6%81%E6%B1%82%E5%AD%A9%E5%AD%9010%E5%B0%8F%E6%97%B6%E4%B8%8D%E5%93%AD%E9%97%B9%E4%B8%8D%E5%A6%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李现跑着拥抱吴彦姝](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%B0%E8%B7%91%E7%9D%80%E6%8B%A5%E6%8A%B1%E5%90%B4%E5%BD%A6%E5%A7%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [夏日出行精致好物](https://www.baidu.com/s?wd=%E5%A4%8F%E6%97%A5%E5%87%BA%E8%A1%8C%E7%B2%BE%E8%87%B4%E5%A5%BD%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [3000多名官兵紧急出动支援厦门](https://www.baidu.com/s?wd=3000%E5%A4%9A%E5%90%8D%E5%AE%98%E5%85%B5%E7%B4%A7%E6%80%A5%E5%87%BA%E5%8A%A8%E6%94%AF%E6%8F%B4%E5%8E%A6%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子称买水煮花生快吃完发现老鼠头](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E4%B9%B0%E6%B0%B4%E7%85%AE%E8%8A%B1%E7%94%9F%E5%BF%AB%E5%90%83%E5%AE%8C%E5%8F%91%E7%8E%B0%E8%80%81%E9%BC%A0%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
