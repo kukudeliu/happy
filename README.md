@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-30 00:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-30 00:02:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [鹿晗把陈赫的票给邓超了](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%8A%8A%E9%99%88%E8%B5%AB%E7%9A%84%E7%A5%A8%E7%BB%99%E9%82%93%E8%B6%85%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [今日之后再无玟小六了](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E6%97%A5%E4%B9%8B%E5%90%8E%E5%86%8D%E6%97%A0%E7%8E%9F%E5%B0%8F%E5%85%AD%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [BLACKPINK听到求婚后不同的反应](https://s.weibo.com/weibo?q=%23BLACKPINK%E5%90%AC%E5%88%B0%E6%B1%82%E5%A9%9A%E5%90%8E%E4%B8%8D%E5%90%8C%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=7&Refer=top)<br />
-8. [超导](https://s.weibo.com/weibo?q=%E8%B6%85%E5%AF%BC&t=31&band_rank=8&Refer=top)<br />
-9. [青春主场](https://s.weibo.com/weibo?q=%23%E9%9D%92%E6%98%A5%E4%B8%BB%E5%9C%BA%23&t=31&band_rank=9&Refer=top)<br />
+8. [故宫临时闭馆](https://s.weibo.com/weibo?q=%23%E6%95%85%E5%AE%AB%E4%B8%B4%E6%97%B6%E9%97%AD%E9%A6%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [超导](https://s.weibo.com/weibo?q=%E8%B6%85%E5%AF%BC&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
