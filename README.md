@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-29 19:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-29 19:50:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [父母不懂英语从县城出国看女儿](https://www.baidu.com/s?wd=%E7%88%B6%E6%AF%8D%E4%B8%8D%E6%87%82%E8%8B%B1%E8%AF%AD%E4%BB%8E%E5%8E%BF%E5%9F%8E%E5%87%BA%E5%9B%BD%E7%9C%8B%E5%A5%B3%E5%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [连锁凉皮品牌魏家凉皮高管内斗](https://www.baidu.com/s?wd=%E8%BF%9E%E9%94%81%E5%87%89%E7%9A%AE%E5%93%81%E7%89%8C%E9%AD%8F%E5%AE%B6%E5%87%89%E7%9A%AE%E9%AB%98%E7%AE%A1%E5%86%85%E6%96%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [甄子丹女儿官宣出道](https://www.baidu.com/s?wd=%E7%94%84%E5%AD%90%E4%B8%B9%E5%A5%B3%E5%84%BF%E5%AE%98%E5%AE%A3%E5%87%BA%E9%81%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [防台风不力 一地通报一批躺平式干部](https://www.baidu.com/s?wd=%E9%98%B2%E5%8F%B0%E9%A3%8E%E4%B8%8D%E5%8A%9B+%E4%B8%80%E5%9C%B0%E9%80%9A%E6%8A%A5%E4%B8%80%E6%89%B9%E8%BA%BA%E5%B9%B3%E5%BC%8F%E5%B9%B2%E9%83%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [苹果被评为美国最糟糕雇主](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E8%A2%AB%E8%AF%84%E4%B8%BA%E7%BE%8E%E5%9B%BD%E6%9C%80%E7%B3%9F%E7%B3%95%E9%9B%87%E4%B8%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [父母不懂英语从县城出国看女儿](https://www.baidu.com/s?wd=%E7%88%B6%E6%AF%8D%E4%B8%8D%E6%87%82%E8%8B%B1%E8%AF%AD%E4%BB%8E%E5%8E%BF%E5%9F%8E%E5%87%BA%E5%9B%BD%E7%9C%8B%E5%A5%B3%E5%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [连锁凉皮品牌魏家凉皮高管内斗](https://www.baidu.com/s?wd=%E8%BF%9E%E9%94%81%E5%87%89%E7%9A%AE%E5%93%81%E7%89%8C%E9%AD%8F%E5%AE%B6%E5%87%89%E7%9A%AE%E9%AB%98%E7%AE%A1%E5%86%85%E6%96%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [甄子丹女儿官宣出道](https://www.baidu.com/s?wd=%E7%94%84%E5%AD%90%E4%B8%B9%E5%A5%B3%E5%84%BF%E5%AE%98%E5%AE%A3%E5%87%BA%E9%81%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [防台风不力 一地通报一批躺平式干部](https://www.baidu.com/s?wd=%E9%98%B2%E5%8F%B0%E9%A3%8E%E4%B8%8D%E5%8A%9B+%E4%B8%80%E5%9C%B0%E9%80%9A%E6%8A%A5%E4%B8%80%E6%89%B9%E8%BA%BA%E5%B9%B3%E5%BC%8F%E5%B9%B2%E9%83%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [苹果被评为美国最糟糕雇主](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E8%A2%AB%E8%AF%84%E4%B8%BA%E7%BE%8E%E5%9B%BD%E6%9C%80%E7%B3%9F%E7%B3%95%E9%9B%87%E4%B8%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
