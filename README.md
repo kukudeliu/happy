@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-29 11:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-29 11:08:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [台风最凶猛的暴雨倒在了福建莆田](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E6%9C%80%E5%87%B6%E7%8C%9B%E7%9A%84%E6%9A%B4%E9%9B%A8%E5%80%92%E5%9C%A8%E4%BA%86%E7%A6%8F%E5%BB%BA%E8%8E%86%E7%94%B0%23&t=31&band_rank=5&Refer=top)<br />
 6. [最热的大学 最冷门的语言](https://s.weibo.com/weibo?q=%E6%9C%80%E7%83%AD%E7%9A%84%E5%A4%A7%E5%AD%A6%20%E6%9C%80%E5%86%B7%E9%97%A8%E7%9A%84%E8%AF%AD%E8%A8%80&t=31&band_rank=6&Refer=top)<br />
 7. [封神质子101](https://s.weibo.com/weibo?q=%E5%B0%81%E7%A5%9E%E8%B4%A8%E5%AD%90101&t=31&band_rank=7&Refer=top)<br />
-8. [长相思全员上桌](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D%E5%85%A8%E5%91%98%E4%B8%8A%E6%A1%8C&t=31&band_rank=8&Refer=top)<br />
+8. [忽然明白蛊虫怎么那么快就种成了](https://s.weibo.com/weibo?q=%23%E5%BF%BD%E7%84%B6%E6%98%8E%E7%99%BD%E8%9B%8A%E8%99%AB%E6%80%8E%E4%B9%88%E9%82%A3%E4%B9%88%E5%BF%AB%E5%B0%B1%E7%A7%8D%E6%88%90%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [成都大运会首枚金牌](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%A4%A7%E8%BF%90%E4%BC%9A%E9%A6%96%E6%9E%9A%E9%87%91%E7%89%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -17,24 +17,24 @@
 
 > 百度  
 
-1. [习近平在大运会开幕式欢迎宴会致辞](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8%E5%A4%A7%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E6%AC%A2%E8%BF%8E%E5%AE%B4%E4%BC%9A%E8%87%B4%E8%BE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [习近平和彭丽媛举行欢迎宴会](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%92%8C%E5%BD%AD%E4%B8%BD%E5%AA%9B%E4%B8%BE%E8%A1%8C%E6%AC%A2%E8%BF%8E%E5%AE%B4%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [暴雨橙色预警:12省市将现大到暴雨](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E6%A9%99%E8%89%B2%E9%A2%84%E8%AD%A6%3A12%E7%9C%81%E5%B8%82%E5%B0%86%E7%8E%B0%E5%A4%A7%E5%88%B0%E6%9A%B4%E9%9B%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [防台风不力 一地通报一批躺平式干部](https://www.baidu.com/s?wd=%E9%98%B2%E5%8F%B0%E9%A3%8E%E4%B8%8D%E5%8A%9B+%E4%B8%80%E5%9C%B0%E9%80%9A%E6%8A%A5%E4%B8%80%E6%89%B9%E8%BA%BA%E5%B9%B3%E5%BC%8F%E5%B9%B2%E9%83%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [最酷炫大运会MV来了](https://www.baidu.com/s?wd=%E6%9C%80%E9%85%B7%E7%82%AB%E5%A4%A7%E8%BF%90%E4%BC%9AMV%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [拜登承认其儿子私生女是其孙女](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E6%89%BF%E8%AE%A4%E5%85%B6%E5%84%BF%E5%AD%90%E7%A7%81%E7%94%9F%E5%A5%B3%E6%98%AF%E5%85%B6%E5%AD%99%E5%A5%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [神鸟腾飞 青春圆梦](https://www.baidu.com/s?wd=%E7%A5%9E%E9%B8%9F%E8%85%BE%E9%A3%9E+%E9%9D%92%E6%98%A5%E5%9C%86%E6%A2%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [台风杜苏芮路径](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E6%9D%9C%E8%8B%8F%E8%8A%AE%E8%B7%AF%E5%BE%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [拜登承认其儿子私生女是其孙女](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E6%89%BF%E8%AE%A4%E5%85%B6%E5%84%BF%E5%AD%90%E7%A7%81%E7%94%9F%E5%A5%B3%E6%98%AF%E5%85%B6%E5%AD%99%E5%A5%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [台风致浙江一动物园积水被困](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E8%87%B4%E6%B5%99%E6%B1%9F%E4%B8%80%E5%8A%A8%E7%89%A9%E5%9B%AD%E7%A7%AF%E6%B0%B4%E8%A2%AB%E5%9B%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [2块钱一根的“淀粉肠”里面有多少肉](https://www.baidu.com/s?wd=2%E5%9D%97%E9%92%B1%E4%B8%80%E6%A0%B9%E7%9A%84%E2%80%9C%E6%B7%80%E7%B2%89%E8%82%A0%E2%80%9D%E9%87%8C%E9%9D%A2%E6%9C%89%E5%A4%9A%E5%B0%91%E8%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [台风最凶猛的暴雨倒在了福建莆田](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E6%9C%80%E5%87%B6%E7%8C%9B%E7%9A%84%E6%9A%B4%E9%9B%A8%E5%80%92%E5%9C%A8%E4%BA%86%E7%A6%8F%E5%BB%BA%E8%8E%86%E7%94%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [台风致浙江一动物园积水被困](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E8%87%B4%E6%B5%99%E6%B1%9F%E4%B8%80%E5%8A%A8%E7%89%A9%E5%9B%AD%E7%A7%AF%E6%B0%B4%E8%A2%AB%E5%9B%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [2块钱一根的“淀粉肠”里面有多少肉](https://www.baidu.com/s?wd=2%E5%9D%97%E9%92%B1%E4%B8%80%E6%A0%B9%E7%9A%84%E2%80%9C%E6%B7%80%E7%B2%89%E8%82%A0%E2%80%9D%E9%87%8C%E9%9D%A2%E6%9C%89%E5%A4%9A%E5%B0%91%E8%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [台风最凶猛的暴雨倒在了福建莆田](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E6%9C%80%E5%87%B6%E7%8C%9B%E7%9A%84%E6%9A%B4%E9%9B%A8%E5%80%92%E5%9C%A8%E4%BA%86%E7%A6%8F%E5%BB%BA%E8%8E%86%E7%94%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [日本建议孕妇应包办家务取悦丈夫](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%BB%BA%E8%AE%AE%E5%AD%95%E5%A6%87%E5%BA%94%E5%8C%85%E5%8A%9E%E5%AE%B6%E5%8A%A1%E5%8F%96%E6%82%A6%E4%B8%88%E5%A4%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
-1. [习近平在大运会开幕式欢迎宴会致辞](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8%E5%A4%A7%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E6%AC%A2%E8%BF%8E%E5%AE%B4%E4%BC%9A%E8%87%B4%E8%BE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [习近平和彭丽媛举行欢迎宴会](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%92%8C%E5%BD%AD%E4%B8%BD%E5%AA%9B%E4%B8%BE%E8%A1%8C%E6%AC%A2%E8%BF%8E%E5%AE%B4%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [暴雨橙色预警:12省市将现大到暴雨](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E6%A9%99%E8%89%B2%E9%A2%84%E8%AD%A6%3A12%E7%9C%81%E5%B8%82%E5%B0%86%E7%8E%B0%E5%A4%A7%E5%88%B0%E6%9A%B4%E9%9B%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [防台风不力 一地通报一批躺平式干部](https://www.baidu.com/s?wd=%E9%98%B2%E5%8F%B0%E9%A3%8E%E4%B8%8D%E5%8A%9B+%E4%B8%80%E5%9C%B0%E9%80%9A%E6%8A%A5%E4%B8%80%E6%89%B9%E8%BA%BA%E5%B9%B3%E5%BC%8F%E5%B9%B2%E9%83%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [最酷炫大运会MV来了](https://www.baidu.com/s?wd=%E6%9C%80%E9%85%B7%E7%82%AB%E5%A4%A7%E8%BF%90%E4%BC%9AMV%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [拜登承认其儿子私生女是其孙女](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E6%89%BF%E8%AE%A4%E5%85%B6%E5%84%BF%E5%AD%90%E7%A7%81%E7%94%9F%E5%A5%B3%E6%98%AF%E5%85%B6%E5%AD%99%E5%A5%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [神鸟腾飞 青春圆梦](https://www.baidu.com/s?wd=%E7%A5%9E%E9%B8%9F%E8%85%BE%E9%A3%9E+%E9%9D%92%E6%98%A5%E5%9C%86%E6%A2%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [台风杜苏芮路径](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E6%9D%9C%E8%8B%8F%E8%8A%AE%E8%B7%AF%E5%BE%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [拜登承认其儿子私生女是其孙女](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E6%89%BF%E8%AE%A4%E5%85%B6%E5%84%BF%E5%AD%90%E7%A7%81%E7%94%9F%E5%A5%B3%E6%98%AF%E5%85%B6%E5%AD%99%E5%A5%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [台风致浙江一动物园积水被困](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E8%87%B4%E6%B5%99%E6%B1%9F%E4%B8%80%E5%8A%A8%E7%89%A9%E5%9B%AD%E7%A7%AF%E6%B0%B4%E8%A2%AB%E5%9B%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [2块钱一根的“淀粉肠”里面有多少肉](https://www.baidu.com/s?wd=2%E5%9D%97%E9%92%B1%E4%B8%80%E6%A0%B9%E7%9A%84%E2%80%9C%E6%B7%80%E7%B2%89%E8%82%A0%E2%80%9D%E9%87%8C%E9%9D%A2%E6%9C%89%E5%A4%9A%E5%B0%91%E8%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [台风最凶猛的暴雨倒在了福建莆田](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E6%9C%80%E5%87%B6%E7%8C%9B%E7%9A%84%E6%9A%B4%E9%9B%A8%E5%80%92%E5%9C%A8%E4%BA%86%E7%A6%8F%E5%BB%BA%E8%8E%86%E7%94%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [台风致浙江一动物园积水被困](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E8%87%B4%E6%B5%99%E6%B1%9F%E4%B8%80%E5%8A%A8%E7%89%A9%E5%9B%AD%E7%A7%AF%E6%B0%B4%E8%A2%AB%E5%9B%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [2块钱一根的“淀粉肠”里面有多少肉](https://www.baidu.com/s?wd=2%E5%9D%97%E9%92%B1%E4%B8%80%E6%A0%B9%E7%9A%84%E2%80%9C%E6%B7%80%E7%B2%89%E8%82%A0%E2%80%9D%E9%87%8C%E9%9D%A2%E6%9C%89%E5%A4%9A%E5%B0%91%E8%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [台风最凶猛的暴雨倒在了福建莆田](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E6%9C%80%E5%87%B6%E7%8C%9B%E7%9A%84%E6%9A%B4%E9%9B%A8%E5%80%92%E5%9C%A8%E4%BA%86%E7%A6%8F%E5%BB%BA%E8%8E%86%E7%94%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [日本建议孕妇应包办家务取悦丈夫](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%BB%BA%E8%AE%AE%E5%AD%95%E5%A6%87%E5%BA%94%E5%8C%85%E5%8A%9E%E5%AE%B6%E5%8A%A1%E5%8F%96%E6%82%A6%E4%B8%88%E5%A4%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
