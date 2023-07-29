@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-29 21:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-29 21:51:01</h4></div>
 
 > 微博  
 
@@ -17,10 +17,10 @@
 
 > 百度  
 
-1. [青春的盛会 团结的盛会](https://www.baidu.com/s?wd=%E9%9D%92%E6%98%A5%E7%9A%84%E7%9B%9B%E4%BC%9A+%E5%9B%A2%E7%BB%93%E7%9A%84%E7%9B%9B%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [大运会开幕日习近平出席这些活动](https://www.baidu.com/s?wd=%E5%A4%A7%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E6%97%A5%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD%E8%BF%99%E4%BA%9B%E6%B4%BB%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [黄健翔韩乔生解说村超总决赛](https://www.baidu.com/s?wd=%E9%BB%84%E5%81%A5%E7%BF%94%E9%9F%A9%E4%B9%94%E7%94%9F%E8%A7%A3%E8%AF%B4%E6%9D%91%E8%B6%85%E6%80%BB%E5%86%B3%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [中央气象台史上第二个暴雨红色预警](https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E6%B0%94%E8%B1%A1%E5%8F%B0%E5%8F%B2%E4%B8%8A%E7%AC%AC%E4%BA%8C%E4%B8%AA%E6%9A%B4%E9%9B%A8%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [青春梦想 光耀蓉城](https://www.baidu.com/s?wd=%E9%9D%92%E6%98%A5%E6%A2%A6%E6%83%B3+%E5%85%89%E8%80%80%E8%93%89%E5%9F%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [青春之火 照亮梦想之路](https://www.baidu.com/s?wd=%E9%9D%92%E6%98%A5%E4%B9%8B%E7%81%AB+%E7%85%A7%E4%BA%AE%E6%A2%A6%E6%83%B3%E4%B9%8B%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [福州积水退去 居民拎麻袋上街抓鱼](https://www.baidu.com/s?wd=%E7%A6%8F%E5%B7%9E%E7%A7%AF%E6%B0%B4%E9%80%80%E5%8E%BB+%E5%B1%85%E6%B0%91%E6%8B%8E%E9%BA%BB%E8%A2%8B%E4%B8%8A%E8%A1%97%E6%8A%93%E9%B1%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [北京这场雨有多猛烈？要下多久？](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E8%BF%99%E5%9C%BA%E9%9B%A8%E6%9C%89%E5%A4%9A%E7%8C%9B%E7%83%88%EF%BC%9F%E8%A6%81%E4%B8%8B%E5%A4%9A%E4%B9%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [为何台风停编还能“遥控”北京降雨](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BD%95%E5%8F%B0%E9%A3%8E%E5%81%9C%E7%BC%96%E8%BF%98%E8%83%BD%E2%80%9C%E9%81%A5%E6%8E%A7%E2%80%9D%E5%8C%97%E4%BA%AC%E9%99%8D%E9%9B%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,10 +29,10 @@
 
 > 哔哩哔哩  
 
-1. [青春的盛会 团结的盛会](https://www.baidu.com/s?wd=%E9%9D%92%E6%98%A5%E7%9A%84%E7%9B%9B%E4%BC%9A+%E5%9B%A2%E7%BB%93%E7%9A%84%E7%9B%9B%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [大运会开幕日习近平出席这些活动](https://www.baidu.com/s?wd=%E5%A4%A7%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E6%97%A5%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD%E8%BF%99%E4%BA%9B%E6%B4%BB%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [黄健翔韩乔生解说村超总决赛](https://www.baidu.com/s?wd=%E9%BB%84%E5%81%A5%E7%BF%94%E9%9F%A9%E4%B9%94%E7%94%9F%E8%A7%A3%E8%AF%B4%E6%9D%91%E8%B6%85%E6%80%BB%E5%86%B3%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [中央气象台史上第二个暴雨红色预警](https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E6%B0%94%E8%B1%A1%E5%8F%B0%E5%8F%B2%E4%B8%8A%E7%AC%AC%E4%BA%8C%E4%B8%AA%E6%9A%B4%E9%9B%A8%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [青春梦想 光耀蓉城](https://www.baidu.com/s?wd=%E9%9D%92%E6%98%A5%E6%A2%A6%E6%83%B3+%E5%85%89%E8%80%80%E8%93%89%E5%9F%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [青春之火 照亮梦想之路](https://www.baidu.com/s?wd=%E9%9D%92%E6%98%A5%E4%B9%8B%E7%81%AB+%E7%85%A7%E4%BA%AE%E6%A2%A6%E6%83%B3%E4%B9%8B%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [福州积水退去 居民拎麻袋上街抓鱼](https://www.baidu.com/s?wd=%E7%A6%8F%E5%B7%9E%E7%A7%AF%E6%B0%B4%E9%80%80%E5%8E%BB+%E5%B1%85%E6%B0%91%E6%8B%8E%E9%BA%BB%E8%A2%8B%E4%B8%8A%E8%A1%97%E6%8A%93%E9%B1%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [北京这场雨有多猛烈？要下多久？](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E8%BF%99%E5%9C%BA%E9%9B%A8%E6%9C%89%E5%A4%9A%E7%8C%9B%E7%83%88%EF%BC%9F%E8%A6%81%E4%B8%8B%E5%A4%9A%E4%B9%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [为何台风停编还能“遥控”北京降雨](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BD%95%E5%8F%B0%E9%A3%8E%E5%81%9C%E7%BC%96%E8%BF%98%E8%83%BD%E2%80%9C%E9%81%A5%E6%8E%A7%E2%80%9D%E5%8C%97%E4%BA%AC%E9%99%8D%E9%9B%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
