@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-29 19:44:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-29 19:45:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [谁来帮帮陈赫](https://s.weibo.com/weibo?q=%23%E8%B0%81%E6%9D%A5%E5%B8%AE%E5%B8%AE%E9%99%88%E8%B5%AB%23&t=31&band_rank=6&Refer=top)<br />
 7. [兵哥哥暴雨中狂奔拉住失控电动车](https://s.weibo.com/weibo?q=%23%E5%85%B5%E5%93%A5%E5%93%A5%E6%9A%B4%E9%9B%A8%E4%B8%AD%E7%8B%82%E5%A5%94%E6%8B%89%E4%BD%8F%E5%A4%B1%E6%8E%A7%E7%94%B5%E5%8A%A8%E8%BD%A6%23&t=31&band_rank=7&Refer=top)<br />
 8. [杨洋 芭比的肯](https://s.weibo.com/weibo?q=%E6%9D%A8%E6%B4%8B%20%E8%8A%AD%E6%AF%94%E7%9A%84%E8%82%AF&t=31&band_rank=8&Refer=top)<br />
-9. [原来香肠是从侧面开的](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E9%A6%99%E8%82%A0%E6%98%AF%E4%BB%8E%E4%BE%A7%E9%9D%A2%E5%BC%80%E7%9A%84%23&t=31&band_rank=9&Refer=top)<br />
+9. [鹿晗把陈赫的票给邓超了](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%8A%8A%E9%99%88%E8%B5%AB%E7%9A%84%E7%A5%A8%E7%BB%99%E9%82%93%E8%B6%85%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
