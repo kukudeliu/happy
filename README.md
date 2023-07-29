@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-29 20:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-29 20:21:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [长相思今天更一集](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D%E4%BB%8A%E5%A4%A9%E6%9B%B4%E4%B8%80%E9%9B%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [殷郊](https://s.weibo.com/weibo?q=%E6%AE%B7%E9%83%8A&t=31&band_rank=7&Refer=top)<br />
 8. [长相思](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D&t=31&band_rank=8&Refer=top)<br />
-9. [中央气象台发暴雨红色预警](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%A4%AE%E6%B0%94%E8%B1%A1%E5%8F%B0%E5%8F%91%E6%9A%B4%E9%9B%A8%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6%23&t=31&band_rank=9&Refer=top)<br />
+9. [父母不懂英语从县城出国看女儿](https://s.weibo.com/weibo?q=%23%E7%88%B6%E6%AF%8D%E4%B8%8D%E6%87%82%E8%8B%B1%E8%AF%AD%E4%BB%8E%E5%8E%BF%E5%9F%8E%E5%87%BA%E5%9B%BD%E7%9C%8B%E5%A5%B3%E5%84%BF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
