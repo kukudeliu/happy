@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-30 03:32:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-30 03:33:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [为什么去泰国旅游的人越来越少了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8E%BB%E6%B3%B0%E5%9B%BD%E6%97%85%E6%B8%B8%E7%9A%84%E4%BA%BA%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%B0%91%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [鹿晗把陈赫的票给邓超了](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%8A%8A%E9%99%88%E8%B5%AB%E7%9A%84%E7%A5%A8%E7%BB%99%E9%82%93%E8%B6%85%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [小狗好像以为结婚就是离开](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8B%97%E5%A5%BD%E5%83%8F%E4%BB%A5%E4%B8%BA%E7%BB%93%E5%A9%9A%E5%B0%B1%E6%98%AF%E7%A6%BB%E5%BC%80%23&t=31&band_rank=8&Refer=top)<br />
-9. [老人被激流冲倒6路人接力救援](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E8%A2%AB%E6%BF%80%E6%B5%81%E5%86%B2%E5%80%926%E8%B7%AF%E4%BA%BA%E6%8E%A5%E5%8A%9B%E6%95%91%E6%8F%B4%23&t=31&band_rank=9&Refer=top)<br />
+9. [张杰演唱会上表白何炅](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E8%A1%A8%E7%99%BD%E4%BD%95%E7%82%85%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
