@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-29 19:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-29 19:36:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [微观大运会](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E8%A7%82%E5%A4%A7%E8%BF%90%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [节目组回应张艺凡施柏宇吻戏](https://s.weibo.com/weibo?q=%23%E8%8A%82%E7%9B%AE%E7%BB%84%E5%9B%9E%E5%BA%94%E5%BC%A0%E8%89%BA%E5%87%A1%E6%96%BD%E6%9F%8F%E5%AE%87%E5%90%BB%E6%88%8F%23&t=31&band_rank=4&Refer=top)<br />
 5. [景区演员冒雨演70分钟观众无人离席](https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%8C%BA%E6%BC%94%E5%91%98%E5%86%92%E9%9B%A8%E6%BC%9470%E5%88%86%E9%92%9F%E8%A7%82%E4%BC%97%E6%97%A0%E4%BA%BA%E7%A6%BB%E5%B8%AD%23&t=31&band_rank=5&Refer=top)<br />
-6. [谁来帮帮陈赫](https://s.weibo.com/weibo?q=%23%E8%B0%81%E6%9D%A5%E5%B8%AE%E5%B8%AE%E9%99%88%E8%B5%AB%23&t=31&band_rank=6&Refer=top)<br />
+6. [刺痛退役](https://s.weibo.com/weibo?q=%E5%88%BA%E7%97%9B%E9%80%80%E5%BD%B9&t=31&band_rank=6&Refer=top)<br />
 7. [兵哥哥暴雨中狂奔拉住失控电动车](https://s.weibo.com/weibo?q=%23%E5%85%B5%E5%93%A5%E5%93%A5%E6%9A%B4%E9%9B%A8%E4%B8%AD%E7%8B%82%E5%A5%94%E6%8B%89%E4%BD%8F%E5%A4%B1%E6%8E%A7%E7%94%B5%E5%8A%A8%E8%BD%A6%23&t=31&band_rank=7&Refer=top)<br />
-8. [刺痛退役](https://s.weibo.com/weibo?q=%E5%88%BA%E7%97%9B%E9%80%80%E5%BD%B9&t=31&band_rank=8&Refer=top)<br />
+8. [谁来帮帮陈赫](https://s.weibo.com/weibo?q=%23%E8%B0%81%E6%9D%A5%E5%B8%AE%E5%B8%AE%E9%99%88%E8%B5%AB%23&t=31&band_rank=8&Refer=top)<br />
 9. [王一博空降杭州](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E7%A9%BA%E9%99%8D%E6%9D%AD%E5%B7%9E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
