@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-30 01:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-30 01:17:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [天津暴雨](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E6%9A%B4%E9%9B%A8%23&t=31&band_rank=6&Refer=top)<br />
 7. [今日之后再无玟小六了](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E6%97%A5%E4%B9%8B%E5%90%8E%E5%86%8D%E6%97%A0%E7%8E%9F%E5%B0%8F%E5%85%AD%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [为什么去泰国旅游的人越来越少了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8E%BB%E6%B3%B0%E5%9B%BD%E6%97%85%E6%B8%B8%E7%9A%84%E4%BA%BA%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%B0%91%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [故宫临时闭馆](https://s.weibo.com/weibo?q=%23%E6%95%85%E5%AE%AB%E4%B8%B4%E6%97%B6%E9%97%AD%E9%A6%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [邓紫棋演唱会](https://s.weibo.com/weibo?q=%E9%82%93%E7%B4%AB%E6%A3%8B%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
