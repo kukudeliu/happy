@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-29 19:22:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-29 19:23:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [景区演员冒雨演70分钟观众无人离席](https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%8C%BA%E6%BC%94%E5%91%98%E5%86%92%E9%9B%A8%E6%BC%9470%E5%88%86%E9%92%9F%E8%A7%82%E4%BC%97%E6%97%A0%E4%BA%BA%E7%A6%BB%E5%B8%AD%23&t=31&band_rank=5&Refer=top)<br />
 6. [TES这都能翻](https://s.weibo.com/weibo?q=TES%E8%BF%99%E9%83%BD%E8%83%BD%E7%BF%BB&t=31&band_rank=6&Refer=top)<br />
 7. [兵哥哥暴雨中狂奔拉住失控电动车](https://s.weibo.com/weibo?q=%23%E5%85%B5%E5%93%A5%E5%93%A5%E6%9A%B4%E9%9B%A8%E4%B8%AD%E7%8B%82%E5%A5%94%E6%8B%89%E4%BD%8F%E5%A4%B1%E6%8E%A7%E7%94%B5%E5%8A%A8%E8%BD%A6%23&t=31&band_rank=7&Refer=top)<br />
-8. [中央气象台发暴雨红色预警](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%A4%AE%E6%B0%94%E8%B1%A1%E5%8F%B0%E5%8F%91%E6%9A%B4%E9%9B%A8%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6%23&t=31&band_rank=8&Refer=top)<br />
-9. [谁来帮帮陈赫](https://s.weibo.com/weibo?q=%23%E8%B0%81%E6%9D%A5%E5%B8%AE%E5%B8%AE%E9%99%88%E8%B5%AB%23&t=31&band_rank=9&Refer=top)<br />
+8. [谁来帮帮陈赫](https://s.weibo.com/weibo?q=%23%E8%B0%81%E6%9D%A5%E5%B8%AE%E5%B8%AE%E9%99%88%E8%B5%AB%23&t=31&band_rank=8&Refer=top)<br />
+9. [中央气象台发暴雨红色预警](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%A4%AE%E6%B0%94%E8%B1%A1%E5%8F%B0%E5%8F%91%E6%9A%B4%E9%9B%A8%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
