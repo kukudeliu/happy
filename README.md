@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-30 02:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-30 02:33:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [鹿晗上海演唱会](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E4%B8%8A%E6%B5%B7%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=6&Refer=top)<br />
 7. [天津暴雨](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E6%9A%B4%E9%9B%A8%23&t=31&band_rank=7&Refer=top)<br />
 8. [仙贝是拿了段奥娟的剧本吗](https://s.weibo.com/weibo?q=%23%E4%BB%99%E8%B4%9D%E6%98%AF%E6%8B%BF%E4%BA%86%E6%AE%B5%E5%A5%A5%E5%A8%9F%E7%9A%84%E5%89%A7%E6%9C%AC%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [故宫临时闭馆](https://s.weibo.com/weibo?q=%23%E6%95%85%E5%AE%AB%E4%B8%B4%E6%97%B6%E9%97%AD%E9%A6%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [老人被激流冲倒6路人接力救援](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E8%A2%AB%E6%BF%80%E6%B5%81%E5%86%B2%E5%80%926%E8%B7%AF%E4%BA%BA%E6%8E%A5%E5%8A%9B%E6%95%91%E6%8F%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
