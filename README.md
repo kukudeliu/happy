@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-29 10:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-29 10:10:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [揭秘成都大运会开幕式亮点](https://s.weibo.com/weibo?q=%23%E6%8F%AD%E7%A7%98%E6%88%90%E9%83%BD%E5%A4%A7%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E4%BA%AE%E7%82%B9%23&t=31&band_rank=3&Refer=top)<br />
 4. [原著里夭柳亲了400多次](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E8%91%97%E9%87%8C%E5%A4%AD%E6%9F%B3%E4%BA%B2%E4%BA%86400%E5%A4%9A%E6%AC%A1%23&t=31&band_rank=4&Refer=top)<br />
 5. [广西一在编人员档案丢失无法办退休](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E4%B8%80%E5%9C%A8%E7%BC%96%E4%BA%BA%E5%91%98%E6%A1%A3%E6%A1%88%E4%B8%A2%E5%A4%B1%E6%97%A0%E6%B3%95%E5%8A%9E%E9%80%80%E4%BC%91%23&t=31&band_rank=5&Refer=top)<br />
-6. [芬兰出生率创历史新低](https://s.weibo.com/weibo?q=%23%E8%8A%AC%E5%85%B0%E5%87%BA%E7%94%9F%E7%8E%87%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E4%BD%8E%23&t=31&band_rank=6&Refer=top)<br />
-7. [妈妈问我洗澡为啥这么慢](https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E9%97%AE%E6%88%91%E6%B4%97%E6%BE%A1%E4%B8%BA%E5%95%A5%E8%BF%99%E4%B9%88%E6%85%A2%23&t=31&band_rank=7&Refer=top)<br />
-8. [台风杜苏芮给漳州市民吹来遍地生蚝](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E6%9D%9C%E8%8B%8F%E8%8A%AE%E7%BB%99%E6%BC%B3%E5%B7%9E%E5%B8%82%E6%B0%91%E5%90%B9%E6%9D%A5%E9%81%8D%E5%9C%B0%E7%94%9F%E8%9A%9D%23&t=31&band_rank=8&Refer=top)<br />
-9. [王一博崴脚痛到满头大汗](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%B4%B4%E8%84%9A%E7%97%9B%E5%88%B0%E6%BB%A1%E5%A4%B4%E5%A4%A7%E6%B1%97%23&t=31&band_rank=9&Refer=top)<br />
+6. [妈妈问我洗澡为啥这么慢](https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E9%97%AE%E6%88%91%E6%B4%97%E6%BE%A1%E4%B8%BA%E5%95%A5%E8%BF%99%E4%B9%88%E6%85%A2%23&t=31&band_rank=6&Refer=top)<br />
+7. [芬兰出生率创历史新低](https://s.weibo.com/weibo?q=%23%E8%8A%AC%E5%85%B0%E5%87%BA%E7%94%9F%E7%8E%87%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E4%BD%8E%23&t=31&band_rank=7&Refer=top)<br />
+8. [王一博崴脚痛到满头大汗](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%B4%B4%E8%84%9A%E7%97%9B%E5%88%B0%E6%BB%A1%E5%A4%B4%E5%A4%A7%E6%B1%97%23&t=31&band_rank=8&Refer=top)<br />
+9. [台风杜苏芮给漳州市民吹来遍地生蚝](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E6%9D%9C%E8%8B%8F%E8%8A%AE%E7%BB%99%E6%BC%B3%E5%B7%9E%E5%B8%82%E6%B0%91%E5%90%B9%E6%9D%A5%E9%81%8D%E5%9C%B0%E7%94%9F%E8%9A%9D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
