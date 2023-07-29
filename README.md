@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-29 18:31:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-29 18:32:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [节目组回应张艺凡施柏宇吻戏](https://s.weibo.com/weibo?q=%23%E8%8A%82%E7%9B%AE%E7%BB%84%E5%9B%9E%E5%BA%94%E5%BC%A0%E8%89%BA%E5%87%A1%E6%96%BD%E6%9F%8F%E5%AE%87%E5%90%BB%E6%88%8F%23&t=31&band_rank=6&Refer=top)<br />
 7. [兵哥哥暴雨中狂奔拉住失控电动车](https://s.weibo.com/weibo?q=%23%E5%85%B5%E5%93%A5%E5%93%A5%E6%9A%B4%E9%9B%A8%E4%B8%AD%E7%8B%82%E5%A5%94%E6%8B%89%E4%BD%8F%E5%A4%B1%E6%8E%A7%E7%94%B5%E5%8A%A8%E8%BD%A6%23&t=31&band_rank=7&Refer=top)<br />
 8. [邓超四度缺席鹿晗演唱会](https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E5%9B%9B%E5%BA%A6%E7%BC%BA%E5%B8%AD%E9%B9%BF%E6%99%97%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=8&Refer=top)<br />
-9. [蜜雪冰城阴阳怪气瑞幸](https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E9%98%B4%E9%98%B3%E6%80%AA%E6%B0%94%E7%91%9E%E5%B9%B8%23&t=31&band_rank=9&Refer=top)<br />
+9. [封神第二部](https://s.weibo.com/weibo?q=%E5%B0%81%E7%A5%9E%E7%AC%AC%E4%BA%8C%E9%83%A8&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
