@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-31 02:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-31 02:56:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [杜苏芮](https://s.weibo.com/weibo?q=%E6%9D%9C%E8%8B%8F%E8%8A%AE&t=31&band_rank=6&Refer=top)<br />
 7. [邓为哭戏](https://s.weibo.com/weibo?q=%E9%82%93%E4%B8%BA%E5%93%AD%E6%88%8F&t=31&band_rank=7&Refer=top)<br />
 8. [湖南卫视在放旋风少女](https://s.weibo.com/weibo?q=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E5%9C%A8%E6%94%BE%E6%97%8B%E9%A3%8E%E5%B0%91%E5%A5%B3&t=31&band_rank=8&Refer=top)<br />
-9. [你明天居家办公吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%98%8E%E5%A4%A9%E5%B1%85%E5%AE%B6%E5%8A%9E%E5%85%AC%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
+9. [黄子韬去鹿晗演唱会了](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%8E%BB%E9%B9%BF%E6%99%97%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
