@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-30 19:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-30 19:34:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [玱玹你怎么不笑了](https://s.weibo.com/weibo?q=%E7%8E%B1%E7%8E%B9%E4%BD%A0%E6%80%8E%E4%B9%88%E4%B8%8D%E7%AC%91%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [村支书带队雨中救人救羊](https://s.weibo.com/weibo?q=%23%E6%9D%91%E6%94%AF%E4%B9%A6%E5%B8%A6%E9%98%9F%E9%9B%A8%E4%B8%AD%E6%95%91%E4%BA%BA%E6%95%91%E7%BE%8A%23&t=31&band_rank=7&Refer=top)<br />
 8. [一定要扬州慢才能解毒吗](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%AE%9A%E8%A6%81%E6%89%AC%E5%B7%9E%E6%85%A2%E6%89%8D%E8%83%BD%E8%A7%A3%E6%AF%92%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [此沙 金城武](https://s.weibo.com/weibo?q=%E6%AD%A4%E6%B2%99%20%E9%87%91%E5%9F%8E%E6%AD%A6&t=31&band_rank=9&Refer=top)<br />
+9. [山西通报矿工死亡瞒报事件调查处置情况](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E9%80%9A%E6%8A%A5%E7%9F%BF%E5%B7%A5%E6%AD%BB%E4%BA%A1%E7%9E%92%E6%8A%A5%E4%BA%8B%E4%BB%B6%E8%B0%83%E6%9F%A5%E5%A4%84%E7%BD%AE%E6%83%85%E5%86%B5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,8 +24,8 @@
 5. [台风卡努直扑浙江 近海将有10米狂浪](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E5%8D%A1%E5%8A%AA%E7%9B%B4%E6%89%91%E6%B5%99%E6%B1%9F+%E8%BF%91%E6%B5%B7%E5%B0%86%E6%9C%8910%E7%B1%B3%E7%8B%82%E6%B5%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [梅德韦杰夫：若失去领土将动用核武](https://www.baidu.com/s?wd=%E6%A2%85%E5%BE%B7%E9%9F%A6%E6%9D%B0%E5%A4%AB%EF%BC%9A%E8%8B%A5%E5%A4%B1%E5%8E%BB%E9%A2%86%E5%9C%9F%E5%B0%86%E5%8A%A8%E7%94%A8%E6%A0%B8%E6%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [印度夫妇为买部iPhone卖掉孩子](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E5%A4%AB%E5%A6%87%E4%B8%BA%E4%B9%B0%E9%83%A8iPhone%E5%8D%96%E6%8E%89%E5%AD%A9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [台风欢送遇水则发？明星配文翻车](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E6%AC%A2%E9%80%81%E9%81%87%E6%B0%B4%E5%88%99%E5%8F%91%EF%BC%9F%E6%98%8E%E6%98%9F%E9%85%8D%E6%96%87%E7%BF%BB%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [普京：乌军试图徒步进攻俄军阵地](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E4%B9%8C%E5%86%9B%E8%AF%95%E5%9B%BE%E5%BE%92%E6%AD%A5%E8%BF%9B%E6%94%BB%E4%BF%84%E5%86%9B%E9%98%B5%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [丁太升说孟美岐唱跳是国内一等](https://www.baidu.com/s?wd=%E4%B8%81%E5%A4%AA%E5%8D%87%E8%AF%B4%E5%AD%9F%E7%BE%8E%E5%B2%90%E5%94%B1%E8%B7%B3%E6%98%AF%E5%9B%BD%E5%86%85%E4%B8%80%E7%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [原来微信可以防拉黑](https://www.baidu.com/s?wd=%E5%8E%9F%E6%9D%A5%E5%BE%AE%E4%BF%A1%E5%8F%AF%E4%BB%A5%E9%98%B2%E6%8B%89%E9%BB%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [台风卡努直扑浙江 近海将有10米狂浪](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E5%8D%A1%E5%8A%AA%E7%9B%B4%E6%89%91%E6%B5%99%E6%B1%9F+%E8%BF%91%E6%B5%B7%E5%B0%86%E6%9C%8910%E7%B1%B3%E7%8B%82%E6%B5%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [梅德韦杰夫：若失去领土将动用核武](https://www.baidu.com/s?wd=%E6%A2%85%E5%BE%B7%E9%9F%A6%E6%9D%B0%E5%A4%AB%EF%BC%9A%E8%8B%A5%E5%A4%B1%E5%8E%BB%E9%A2%86%E5%9C%9F%E5%B0%86%E5%8A%A8%E7%94%A8%E6%A0%B8%E6%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [印度夫妇为买部iPhone卖掉孩子](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E5%A4%AB%E5%A6%87%E4%B8%BA%E4%B9%B0%E9%83%A8iPhone%E5%8D%96%E6%8E%89%E5%AD%A9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [台风欢送遇水则发？明星配文翻车](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E6%AC%A2%E9%80%81%E9%81%87%E6%B0%B4%E5%88%99%E5%8F%91%EF%BC%9F%E6%98%8E%E6%98%9F%E9%85%8D%E6%96%87%E7%BF%BB%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [普京：乌军试图徒步进攻俄军阵地](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E4%B9%8C%E5%86%9B%E8%AF%95%E5%9B%BE%E5%BE%92%E6%AD%A5%E8%BF%9B%E6%94%BB%E4%BF%84%E5%86%9B%E9%98%B5%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [丁太升说孟美岐唱跳是国内一等](https://www.baidu.com/s?wd=%E4%B8%81%E5%A4%AA%E5%8D%87%E8%AF%B4%E5%AD%9F%E7%BE%8E%E5%B2%90%E5%94%B1%E8%B7%B3%E6%98%AF%E5%9B%BD%E5%86%85%E4%B8%80%E7%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [原来微信可以防拉黑](https://www.baidu.com/s?wd=%E5%8E%9F%E6%9D%A5%E5%BE%AE%E4%BF%A1%E5%8F%AF%E4%BB%A5%E9%98%B2%E6%8B%89%E9%BB%91&sa=fyb_news&rsv_dl=fyb_news)<br />
