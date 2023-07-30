@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-31 04:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-31 04:42:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [梅德韦杰夫：若失去领土将动用核武](https://www.baidu.com/s?wd=%E6%A2%85%E5%BE%B7%E9%9F%A6%E6%9D%B0%E5%A4%AB%EF%BC%9A%E8%8B%A5%E5%A4%B1%E5%8E%BB%E9%A2%86%E5%9C%9F%E5%B0%86%E5%8A%A8%E7%94%A8%E6%A0%B8%E6%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [暴雨中河北邯郸上演生死救援](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E4%B8%AD%E6%B2%B3%E5%8C%97%E9%82%AF%E9%83%B8%E4%B8%8A%E6%BC%94%E7%94%9F%E6%AD%BB%E6%95%91%E6%8F%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [王诗龄黄多多画作被拿来比较](https://www.baidu.com/s?wd=%E7%8E%8B%E8%AF%97%E9%BE%84%E9%BB%84%E5%A4%9A%E5%A4%9A%E7%94%BB%E4%BD%9C%E8%A2%AB%E6%8B%BF%E6%9D%A5%E6%AF%94%E8%BE%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [东方甄选发布各账号停播通知](https://www.baidu.com/s?wd=%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E5%8F%91%E5%B8%83%E5%90%84%E8%B4%A6%E5%8F%B7%E5%81%9C%E6%92%AD%E9%80%9A%E7%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男孩落入松花江 父母营救1死1失踪](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E8%90%BD%E5%85%A5%E6%9D%BE%E8%8A%B1%E6%B1%9F+%E7%88%B6%E6%AF%8D%E8%90%A5%E6%95%911%E6%AD%BB1%E5%A4%B1%E8%B8%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [胡锡进：房价泡沫显然得到根本抑制](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%EF%BC%9A%E6%88%BF%E4%BB%B7%E6%B3%A1%E6%B2%AB%E6%98%BE%E7%84%B6%E5%BE%97%E5%88%B0%E6%A0%B9%E6%9C%AC%E6%8A%91%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [普京：西方“吸尘器”般扫荡粮食](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E8%A5%BF%E6%96%B9%E2%80%9C%E5%90%B8%E5%B0%98%E5%99%A8%E2%80%9D%E8%88%AC%E6%89%AB%E8%8D%A1%E7%B2%AE%E9%A3%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [梅德韦杰夫：若失去领土将动用核武](https://www.baidu.com/s?wd=%E6%A2%85%E5%BE%B7%E9%9F%A6%E6%9D%B0%E5%A4%AB%EF%BC%9A%E8%8B%A5%E5%A4%B1%E5%8E%BB%E9%A2%86%E5%9C%9F%E5%B0%86%E5%8A%A8%E7%94%A8%E6%A0%B8%E6%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [暴雨中河北邯郸上演生死救援](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E4%B8%AD%E6%B2%B3%E5%8C%97%E9%82%AF%E9%83%B8%E4%B8%8A%E6%BC%94%E7%94%9F%E6%AD%BB%E6%95%91%E6%8F%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [王诗龄黄多多画作被拿来比较](https://www.baidu.com/s?wd=%E7%8E%8B%E8%AF%97%E9%BE%84%E9%BB%84%E5%A4%9A%E5%A4%9A%E7%94%BB%E4%BD%9C%E8%A2%AB%E6%8B%BF%E6%9D%A5%E6%AF%94%E8%BE%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [东方甄选发布各账号停播通知](https://www.baidu.com/s?wd=%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E5%8F%91%E5%B8%83%E5%90%84%E8%B4%A6%E5%8F%B7%E5%81%9C%E6%92%AD%E9%80%9A%E7%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男孩落入松花江 父母营救1死1失踪](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E8%90%BD%E5%85%A5%E6%9D%BE%E8%8A%B1%E6%B1%9F+%E7%88%B6%E6%AF%8D%E8%90%A5%E6%95%911%E6%AD%BB1%E5%A4%B1%E8%B8%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [胡锡进：房价泡沫显然得到根本抑制](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%EF%BC%9A%E6%88%BF%E4%BB%B7%E6%B3%A1%E6%B2%AB%E6%98%BE%E7%84%B6%E5%BE%97%E5%88%B0%E6%A0%B9%E6%9C%AC%E6%8A%91%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [普京：西方“吸尘器”般扫荡粮食](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E8%A5%BF%E6%96%B9%E2%80%9C%E5%90%B8%E5%B0%98%E5%99%A8%E2%80%9D%E8%88%AC%E6%89%AB%E8%8D%A1%E7%B2%AE%E9%A3%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
