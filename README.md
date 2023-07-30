@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-30 23:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-30 23:29:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [女子抽中金条 因错过叫号被取消](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8A%BD%E4%B8%AD%E9%87%91%E6%9D%A1+%E5%9B%A0%E9%94%99%E8%BF%87%E5%8F%AB%E5%8F%B7%E8%A2%AB%E5%8F%96%E6%B6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [胡锡进：房价泡沫显然得到根本抑制](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%EF%BC%9A%E6%88%BF%E4%BB%B7%E6%B3%A1%E6%B2%AB%E6%98%BE%E7%84%B6%E5%BE%97%E5%88%B0%E6%A0%B9%E6%9C%AC%E6%8A%91%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [日本一地隐瞒生活用水超标](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%B8%80%E5%9C%B0%E9%9A%90%E7%9E%92%E7%94%9F%E6%B4%BB%E7%94%A8%E6%B0%B4%E8%B6%85%E6%A0%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [普京：不希望与北约发生直接冲突](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E4%B8%8D%E5%B8%8C%E6%9C%9B%E4%B8%8E%E5%8C%97%E7%BA%A6%E5%8F%91%E7%94%9F%E7%9B%B4%E6%8E%A5%E5%86%B2%E7%AA%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [采煤致5万亩耕地严重沉降？官方回应](https://www.baidu.com/s?wd=%E9%87%87%E7%85%A4%E8%87%B45%E4%B8%87%E4%BA%A9%E8%80%95%E5%9C%B0%E4%B8%A5%E9%87%8D%E6%B2%89%E9%99%8D%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [女子抽中金条 因错过叫号被取消](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8A%BD%E4%B8%AD%E9%87%91%E6%9D%A1+%E5%9B%A0%E9%94%99%E8%BF%87%E5%8F%AB%E5%8F%B7%E8%A2%AB%E5%8F%96%E6%B6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [胡锡进：房价泡沫显然得到根本抑制](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%EF%BC%9A%E6%88%BF%E4%BB%B7%E6%B3%A1%E6%B2%AB%E6%98%BE%E7%84%B6%E5%BE%97%E5%88%B0%E6%A0%B9%E6%9C%AC%E6%8A%91%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [日本一地隐瞒生活用水超标](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%B8%80%E5%9C%B0%E9%9A%90%E7%9E%92%E7%94%9F%E6%B4%BB%E7%94%A8%E6%B0%B4%E8%B6%85%E6%A0%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [普京：不希望与北约发生直接冲突](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E4%B8%8D%E5%B8%8C%E6%9C%9B%E4%B8%8E%E5%8C%97%E7%BA%A6%E5%8F%91%E7%94%9F%E7%9B%B4%E6%8E%A5%E5%86%B2%E7%AA%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [采煤致5万亩耕地严重沉降？官方回应](https://www.baidu.com/s?wd=%E9%87%87%E7%85%A4%E8%87%B45%E4%B8%87%E4%BA%A9%E8%80%95%E5%9C%B0%E4%B8%A5%E9%87%8D%E6%B2%89%E9%99%8D%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
