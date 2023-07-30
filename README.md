@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-30 18:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-30 18:41:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [洪水中托举小女孩辅警获记个人一等奖](https://s.weibo.com/weibo?q=%23%E6%B4%AA%E6%B0%B4%E4%B8%AD%E6%89%98%E4%B8%BE%E5%B0%8F%E5%A5%B3%E5%AD%A9%E8%BE%85%E8%AD%A6%E8%8E%B7%E8%AE%B0%E4%B8%AA%E4%BA%BA%E4%B8%80%E7%AD%89%E5%A5%96%23&t=31&band_rank=5&Refer=top)<br />
 6. [白敬亭Angelababy或将演龙骨焚箱](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%ADAngelababy%E6%88%96%E5%B0%86%E6%BC%94%E9%BE%99%E9%AA%A8%E7%84%9A%E7%AE%B1%23&t=31&band_rank=6&Refer=top)<br />
 7. [村支书带队雨中救人救羊](https://s.weibo.com/weibo?q=%23%E6%9D%91%E6%94%AF%E4%B9%A6%E5%B8%A6%E9%98%9F%E9%9B%A8%E4%B8%AD%E6%95%91%E4%BA%BA%E6%95%91%E7%BE%8A%23&t=31&band_rank=7&Refer=top)<br />
-8. [北京市教委紧急通知停止入校活动](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%B8%82%E6%95%99%E5%A7%94%E7%B4%A7%E6%80%A5%E9%80%9A%E7%9F%A5%E5%81%9C%E6%AD%A2%E5%85%A5%E6%A0%A1%E6%B4%BB%E5%8A%A8%23&t=31&band_rank=8&Refer=top)<br />
-9. [毛不易演唱会当天通知取消引争议](https://s.weibo.com/weibo?q=%23%E6%AF%9B%E4%B8%8D%E6%98%93%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BD%93%E5%A4%A9%E9%80%9A%E7%9F%A5%E5%8F%96%E6%B6%88%E5%BC%95%E4%BA%89%E8%AE%AE%23&t=31&band_rank=9&Refer=top)<br />
+8. [毛不易演唱会当天通知取消引争议](https://s.weibo.com/weibo?q=%23%E6%AF%9B%E4%B8%8D%E6%98%93%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BD%93%E5%A4%A9%E9%80%9A%E7%9F%A5%E5%8F%96%E6%B6%88%E5%BC%95%E4%BA%89%E8%AE%AE%23&t=31&band_rank=8&Refer=top)<br />
+9. [北京市教委紧急通知停止入校活动](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%B8%82%E6%95%99%E5%A7%94%E7%B4%A7%E6%80%A5%E9%80%9A%E7%9F%A5%E5%81%9C%E6%AD%A2%E5%85%A5%E6%A0%A1%E6%B4%BB%E5%8A%A8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
