@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-30 17:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-30 17:55:01</h4></div>
 
 > 微博  
 
@@ -17,7 +17,7 @@
 
 > 百度  
 
-1. [以奋斗姿态激扬青春](https://www.baidu.com/s?wd=%E4%BB%A5%E5%A5%8B%E6%96%97%E5%A7%BF%E6%80%81%E6%BF%80%E6%89%AC%E9%9D%92%E6%98%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [推动新时代治蜀兴川再上新台阶](https://www.baidu.com/s?wd=%E6%8E%A8%E5%8A%A8%E6%96%B0%E6%97%B6%E4%BB%A3%E6%B2%BB%E8%9C%80%E5%85%B4%E5%B7%9D%E5%86%8D%E4%B8%8A%E6%96%B0%E5%8F%B0%E9%98%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [京津冀迎今年来最强降雨 专家解读](https://www.baidu.com/s?wd=%E4%BA%AC%E6%B4%A5%E5%86%80%E8%BF%8E%E4%BB%8A%E5%B9%B4%E6%9D%A5%E6%9C%80%E5%BC%BA%E9%99%8D%E9%9B%A8+%E4%B8%93%E5%AE%B6%E8%A7%A3%E8%AF%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [景区人员坚持清场下班拒绝游客避雨](https://www.baidu.com/s?wd=%E6%99%AF%E5%8C%BA%E4%BA%BA%E5%91%98%E5%9D%9A%E6%8C%81%E6%B8%85%E5%9C%BA%E4%B8%8B%E7%8F%AD%E6%8B%92%E7%BB%9D%E6%B8%B8%E5%AE%A2%E9%81%BF%E9%9B%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [暴雨避险指南](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E9%81%BF%E9%99%A9%E6%8C%87%E5%8D%97&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,7 +29,7 @@
 
 > 哔哩哔哩  
 
-1. [以奋斗姿态激扬青春](https://www.baidu.com/s?wd=%E4%BB%A5%E5%A5%8B%E6%96%97%E5%A7%BF%E6%80%81%E6%BF%80%E6%89%AC%E9%9D%92%E6%98%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [推动新时代治蜀兴川再上新台阶](https://www.baidu.com/s?wd=%E6%8E%A8%E5%8A%A8%E6%96%B0%E6%97%B6%E4%BB%A3%E6%B2%BB%E8%9C%80%E5%85%B4%E5%B7%9D%E5%86%8D%E4%B8%8A%E6%96%B0%E5%8F%B0%E9%98%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [京津冀迎今年来最强降雨 专家解读](https://www.baidu.com/s?wd=%E4%BA%AC%E6%B4%A5%E5%86%80%E8%BF%8E%E4%BB%8A%E5%B9%B4%E6%9D%A5%E6%9C%80%E5%BC%BA%E9%99%8D%E9%9B%A8+%E4%B8%93%E5%AE%B6%E8%A7%A3%E8%AF%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [景区人员坚持清场下班拒绝游客避雨](https://www.baidu.com/s?wd=%E6%99%AF%E5%8C%BA%E4%BA%BA%E5%91%98%E5%9D%9A%E6%8C%81%E6%B8%85%E5%9C%BA%E4%B8%8B%E7%8F%AD%E6%8B%92%E7%BB%9D%E6%B8%B8%E5%AE%A2%E9%81%BF%E9%9B%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [暴雨避险指南](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E9%81%BF%E9%99%A9%E6%8C%87%E5%8D%97&sa=fyb_news&rsv_dl=fyb_news)<br />
