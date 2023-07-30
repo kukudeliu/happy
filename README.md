@@ -1,15 +1,15 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-30 20:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-30 20:02:02</h4></div>
 
 > 微博  
 
 1. [杜苏芮](https://s.weibo.com/weibo?q=%E6%9D%9C%E8%8B%8F%E8%8A%AE&t=31&band_rank=1&Refer=top)<br />
-2. [阿宝的扳手耳朵变爱心了](https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%AE%9D%E7%9A%84%E6%89%B3%E6%89%8B%E8%80%B3%E6%9C%B5%E5%8F%98%E7%88%B1%E5%BF%83%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
+2. [山西通报矿工死亡瞒报事件调查处置情况](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E9%80%9A%E6%8A%A5%E7%9F%BF%E5%B7%A5%E6%AD%BB%E4%BA%A1%E7%9E%92%E6%8A%A5%E4%BA%8B%E4%BB%B6%E8%B0%83%E6%9F%A5%E5%A4%84%E7%BD%AE%E6%83%85%E5%86%B5%23&t=31&band_rank=2&Refer=top)<br />
 3. [暴雨避险说明书](https://s.weibo.com/weibo?q=%23%E6%9A%B4%E9%9B%A8%E9%81%BF%E9%99%A9%E8%AF%B4%E6%98%8E%E4%B9%A6%23&t=31&band_rank=3&Refer=top)<br />
-4. [山西通报矿工死亡瞒报事件调查处置情况](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E9%80%9A%E6%8A%A5%E7%9F%BF%E5%B7%A5%E6%AD%BB%E4%BA%A1%E7%9E%92%E6%8A%A5%E4%BA%8B%E4%BB%B6%E8%B0%83%E6%9F%A5%E5%A4%84%E7%BD%AE%E6%83%85%E5%86%B5%23&t=31&band_rank=4&Refer=top)<br />
-5. [洪水中托举小女孩辅警获记个人一等奖](https://s.weibo.com/weibo?q=%23%E6%B4%AA%E6%B0%B4%E4%B8%AD%E6%89%98%E4%B8%BE%E5%B0%8F%E5%A5%B3%E5%AD%A9%E8%BE%85%E8%AD%A6%E8%8E%B7%E8%AE%B0%E4%B8%AA%E4%BA%BA%E4%B8%80%E7%AD%89%E5%A5%96%23&t=31&band_rank=5&Refer=top)<br />
-6. [小夭主动亲了涂山璟](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%A4%AD%E4%B8%BB%E5%8A%A8%E4%BA%B2%E4%BA%86%E6%B6%82%E5%B1%B1%E7%92%9F%23&t=31&band_rank=6&Refer=top)<br />
-7. [村支书带队雨中救人救羊](https://s.weibo.com/weibo?q=%23%E6%9D%91%E6%94%AF%E4%B9%A6%E5%B8%A6%E9%98%9F%E9%9B%A8%E4%B8%AD%E6%95%91%E4%BA%BA%E6%95%91%E7%BE%8A%23&t=31&band_rank=7&Refer=top)<br />
-8. [长相思](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D&t=31&band_rank=8&Refer=top)<br />
+4. [小夭主动亲了涂山璟](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%A4%AD%E4%B8%BB%E5%8A%A8%E4%BA%B2%E4%BA%86%E6%B6%82%E5%B1%B1%E7%92%9F%23&t=31&band_rank=4&Refer=top)<br />
+5. [精诚矿业瞒报死亡矿工43人](https://s.weibo.com/weibo?q=%23%E7%B2%BE%E8%AF%9A%E7%9F%BF%E4%B8%9A%E7%9E%92%E6%8A%A5%E6%AD%BB%E4%BA%A1%E7%9F%BF%E5%B7%A543%E4%BA%BA%23&t=31&band_rank=5&Refer=top)<br />
+6. [长相思](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D&t=31&band_rank=6&Refer=top)<br />
+7. [阿宝的扳手耳朵变爱心了](https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%AE%9D%E7%9A%84%E6%89%B3%E6%89%8B%E8%80%B3%E6%9C%B5%E5%8F%98%E7%88%B1%E5%BF%83%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+8. [玱玹你怎么不笑了](https://s.weibo.com/weibo?q=%E7%8E%B1%E7%8E%B9%E4%BD%A0%E6%80%8E%E4%B9%88%E4%B8%8D%E7%AC%91%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
 9. [JDG战胜BLG](https://s.weibo.com/weibo?q=%23JDG%E6%88%98%E8%83%9CBLG%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
