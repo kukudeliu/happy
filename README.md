@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-31 05:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-31 05:18:02</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [梅德韦杰夫：若失去领土将动用核武](https://www.baidu.com/s?wd=%E6%A2%85%E5%BE%B7%E9%9F%A6%E6%9D%B0%E5%A4%AB%EF%BC%9A%E8%8B%A5%E5%A4%B1%E5%8E%BB%E9%A2%86%E5%9C%9F%E5%B0%86%E5%8A%A8%E7%94%A8%E6%A0%B8%E6%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [北京市教委紧急通知停止入校活动](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%B8%82%E6%95%99%E5%A7%94%E7%B4%A7%E6%80%A5%E9%80%9A%E7%9F%A5%E5%81%9C%E6%AD%A2%E5%85%A5%E6%A0%A1%E6%B4%BB%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [原来微信可以防拉黑](https://www.baidu.com/s?wd=%E5%8E%9F%E6%9D%A5%E5%BE%AE%E4%BF%A1%E5%8F%AF%E4%BB%A5%E9%98%B2%E6%8B%89%E9%BB%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [连休4天！湖北一地放假“反向调休”](https://www.baidu.com/s?wd=%E8%BF%9E%E4%BC%914%E5%A4%A9%EF%BC%81%E6%B9%96%E5%8C%97%E4%B8%80%E5%9C%B0%E6%94%BE%E5%81%87%E2%80%9C%E5%8F%8D%E5%90%91%E8%B0%83%E4%BC%91%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [少女连续数日高烧不退确诊接吻病](https://www.baidu.com/s?wd=%E5%B0%91%E5%A5%B3%E8%BF%9E%E7%BB%AD%E6%95%B0%E6%97%A5%E9%AB%98%E7%83%A7%E4%B8%8D%E9%80%80%E7%A1%AE%E8%AF%8A%E6%8E%A5%E5%90%BB%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [少女连续数日高烧不退确诊接吻病](https://www.baidu.com/s?wd=%E5%B0%91%E5%A5%B3%E8%BF%9E%E7%BB%AD%E6%95%B0%E6%97%A5%E9%AB%98%E7%83%A7%E4%B8%8D%E9%80%80%E7%A1%AE%E8%AF%8A%E6%8E%A5%E5%90%BB%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [普京：不希望与北约发生直接冲突](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E4%B8%8D%E5%B8%8C%E6%9C%9B%E4%B8%8E%E5%8C%97%E7%BA%A6%E5%8F%91%E7%94%9F%E7%9B%B4%E6%8E%A5%E5%86%B2%E7%AA%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [梅德韦杰夫：若失去领土将动用核武](https://www.baidu.com/s?wd=%E6%A2%85%E5%BE%B7%E9%9F%A6%E6%9D%B0%E5%A4%AB%EF%BC%9A%E8%8B%A5%E5%A4%B1%E5%8E%BB%E9%A2%86%E5%9C%9F%E5%B0%86%E5%8A%A8%E7%94%A8%E6%A0%B8%E6%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [北京市教委紧急通知停止入校活动](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%B8%82%E6%95%99%E5%A7%94%E7%B4%A7%E6%80%A5%E9%80%9A%E7%9F%A5%E5%81%9C%E6%AD%A2%E5%85%A5%E6%A0%A1%E6%B4%BB%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [原来微信可以防拉黑](https://www.baidu.com/s?wd=%E5%8E%9F%E6%9D%A5%E5%BE%AE%E4%BF%A1%E5%8F%AF%E4%BB%A5%E9%98%B2%E6%8B%89%E9%BB%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [连休4天！湖北一地放假“反向调休”](https://www.baidu.com/s?wd=%E8%BF%9E%E4%BC%914%E5%A4%A9%EF%BC%81%E6%B9%96%E5%8C%97%E4%B8%80%E5%9C%B0%E6%94%BE%E5%81%87%E2%80%9C%E5%8F%8D%E5%90%91%E8%B0%83%E4%BC%91%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [少女连续数日高烧不退确诊接吻病](https://www.baidu.com/s?wd=%E5%B0%91%E5%A5%B3%E8%BF%9E%E7%BB%AD%E6%95%B0%E6%97%A5%E9%AB%98%E7%83%A7%E4%B8%8D%E9%80%80%E7%A1%AE%E8%AF%8A%E6%8E%A5%E5%90%BB%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [少女连续数日高烧不退确诊接吻病](https://www.baidu.com/s?wd=%E5%B0%91%E5%A5%B3%E8%BF%9E%E7%BB%AD%E6%95%B0%E6%97%A5%E9%AB%98%E7%83%A7%E4%B8%8D%E9%80%80%E7%A1%AE%E8%AF%8A%E6%8E%A5%E5%90%BB%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [普京：不希望与北约发生直接冲突](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E4%B8%8D%E5%B8%8C%E6%9C%9B%E4%B8%8E%E5%8C%97%E7%BA%A6%E5%8F%91%E7%94%9F%E7%9B%B4%E6%8E%A5%E5%86%B2%E7%AA%81&sa=fyb_news&rsv_dl=fyb_news)<br />
