@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-30 22:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-30 22:30:01</h4></div>
 
 > 微博  
 
 1. [黄子韬去鹿晗演唱会了](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%8E%BB%E9%B9%BF%E6%99%97%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BA%86%23&t=31&band_rank=1&Refer=top)<br />
-2. [消失的她票房破35亿](https://s.weibo.com/weibo?q=%23%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%88%BF%E7%A0%B435%E4%BA%BF%23&t=31&band_rank=2&Refer=top)<br />
+2. [邓为哭戏](https://s.weibo.com/weibo?q=%E9%82%93%E4%B8%BA%E5%93%AD%E6%88%8F&t=31&band_rank=2&Refer=top)<br />
 3. [成都大运会的中国式浪漫](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%A4%A7%E8%BF%90%E4%BC%9A%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%BC%8F%E6%B5%AA%E6%BC%AB%23&t=31&band_rank=3&Refer=top)<br />
-4. [邓为哭戏](https://s.weibo.com/weibo?q=%E9%82%93%E4%B8%BA%E5%93%AD%E6%88%8F&t=31&band_rank=4&Refer=top)<br />
+4. [消失的她票房破35亿](https://s.weibo.com/weibo?q=%23%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%88%BF%E7%A0%B435%E4%BA%BF%23&t=31&band_rank=4&Refer=top)<br />
 5. [封神票房](https://s.weibo.com/weibo?q=%E5%B0%81%E7%A5%9E%E7%A5%A8%E6%88%BF&t=31&band_rank=5&Refer=top)<br />
 6. [杜苏芮](https://s.weibo.com/weibo?q=%E6%9D%9C%E8%8B%8F%E8%8A%AE&t=31&band_rank=6&Refer=top)<br />
 7. [玱玹你怎么不笑了](https://s.weibo.com/weibo?q=%23%E7%8E%B1%E7%8E%B9%E4%BD%A0%E6%80%8E%E4%B9%88%E4%B8%8D%E7%AC%91%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
