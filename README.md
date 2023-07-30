@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-30 08:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-30 08:12:01</h4></div>
 
 > 微博  
 
-1. [陈赫带张子萱去鹿晗演唱会](https://s.weibo.com/weibo?q=%23%E9%99%88%E8%B5%AB%E5%B8%A6%E5%BC%A0%E5%AD%90%E8%90%B1%E5%8E%BB%E9%B9%BF%E6%99%97%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=1&Refer=top)<br />
-2. [王楚然 女将星](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E7%84%B6%20%E5%A5%B3%E5%B0%86%E6%98%9F&t=31&band_rank=2&Refer=top)<br />
+1. [王楚然 女将星](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E7%84%B6%20%E5%A5%B3%E5%B0%86%E6%98%9F&t=31&band_rank=1&Refer=top)<br />
+2. [陈赫带张子萱去鹿晗演唱会](https://s.weibo.com/weibo?q=%23%E9%99%88%E8%B5%AB%E5%B8%A6%E5%BC%A0%E5%AD%90%E8%90%B1%E5%8E%BB%E9%B9%BF%E6%99%97%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=2&Refer=top)<br />
 3. [成都大运会的中国式浪漫](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%A4%A7%E8%BF%90%E4%BC%9A%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%BC%8F%E6%B5%AA%E6%BC%AB%23&t=31&band_rank=3&Refer=top)<br />
 4. [姬发](https://s.weibo.com/weibo?q=%E5%A7%AC%E5%8F%91&t=31&band_rank=4&Refer=top)<br />
 5. [非洲媳妇带丽水丈夫回娘家](https://s.weibo.com/weibo?q=%23%E9%9D%9E%E6%B4%B2%E5%AA%B3%E5%A6%87%E5%B8%A6%E4%B8%BD%E6%B0%B4%E4%B8%88%E5%A4%AB%E5%9B%9E%E5%A8%98%E5%AE%B6%23&t=31&band_rank=5&Refer=top)<br />
