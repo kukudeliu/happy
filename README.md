@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-31 00:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-31 00:57:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [长相思14集封神了](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D14%E9%9B%86%E5%B0%81%E7%A5%9E%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [成都大运会的中国式浪漫](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%A4%A7%E8%BF%90%E4%BC%9A%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%BC%8F%E6%B5%AA%E6%BC%AB%23&t=31&band_rank=3&Refer=top)<br />
 4. [湖南卫视在放旋风少女](https://s.weibo.com/weibo?q=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E5%9C%A8%E6%94%BE%E6%97%8B%E9%A3%8E%E5%B0%91%E5%A5%B3&t=31&band_rank=4&Refer=top)<br />
-5. [TFBOYS要合体集训了吧](https://s.weibo.com/weibo?q=%23TFBOYS%E8%A6%81%E5%90%88%E4%BD%93%E9%9B%86%E8%AE%AD%E4%BA%86%E5%90%A7%23&t=31&band_rank=5&Refer=top)<br />
-6. [邓为哭戏](https://s.weibo.com/weibo?q=%E9%82%93%E4%B8%BA%E5%93%AD%E6%88%8F&t=31&band_rank=6&Refer=top)<br />
+5. [邓为哭戏](https://s.weibo.com/weibo?q=%E9%82%93%E4%B8%BA%E5%93%AD%E6%88%8F&t=31&band_rank=5&Refer=top)<br />
+6. [TFBOYS要合体集训了吧](https://s.weibo.com/weibo?q=%23TFBOYS%E8%A6%81%E5%90%88%E4%BD%93%E9%9B%86%E8%AE%AD%E4%BA%86%E5%90%A7%23&t=31&band_rank=6&Refer=top)<br />
 7. [熊猫有时候真的人里人气](https://s.weibo.com/weibo?q=%E7%86%8A%E7%8C%AB%E6%9C%89%E6%97%B6%E5%80%99%E7%9C%9F%E7%9A%84%E4%BA%BA%E9%87%8C%E4%BA%BA%E6%B0%94&t=31&band_rank=7&Refer=top)<br />
 8. [王刚 我对我和全队表现感到耻辱](https://s.weibo.com/weibo?q=%E7%8E%8B%E5%88%9A%20%E6%88%91%E5%AF%B9%E6%88%91%E5%92%8C%E5%85%A8%E9%98%9F%E8%A1%A8%E7%8E%B0%E6%84%9F%E5%88%B0%E8%80%BB%E8%BE%B1&t=31&band_rank=8&Refer=top)<br />
 9. [杜苏芮](https://s.weibo.com/weibo?q=%E6%9D%9C%E8%8B%8F%E8%8A%AE&t=31&band_rank=9&Refer=top)<br />
