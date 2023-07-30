@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-30 08:39:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-30 08:40:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [Ella问孟美岐四年前和现在有什么不同](https://s.weibo.com/weibo?q=%23Ella%E9%97%AE%E5%AD%9F%E7%BE%8E%E5%B2%90%E5%9B%9B%E5%B9%B4%E5%89%8D%E5%92%8C%E7%8E%B0%E5%9C%A8%E6%9C%89%E4%BB%80%E4%B9%88%E4%B8%8D%E5%90%8C%23&t=31&band_rank=6&Refer=top)<br />
 7. [全县24个乡镇在一家打印店花174万](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%8E%BF24%E4%B8%AA%E4%B9%A1%E9%95%87%E5%9C%A8%E4%B8%80%E5%AE%B6%E6%89%93%E5%8D%B0%E5%BA%97%E8%8A%B1174%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [女孩一觉睡醒身上盖着军被](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E4%B8%80%E8%A7%89%E7%9D%A1%E9%86%92%E8%BA%AB%E4%B8%8A%E7%9B%96%E7%9D%80%E5%86%9B%E8%A2%AB%23&t=31&band_rank=8&Refer=top)<br />
-9. [泉州暴雨店主称珠宝被积水冲光](https://s.weibo.com/weibo?q=%23%E6%B3%89%E5%B7%9E%E6%9A%B4%E9%9B%A8%E5%BA%97%E4%B8%BB%E7%A7%B0%E7%8F%A0%E5%AE%9D%E8%A2%AB%E7%A7%AF%E6%B0%B4%E5%86%B2%E5%85%89%23&t=31&band_rank=9&Refer=top)<br />
+9. [台风卡努正在增强](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E5%8D%A1%E5%8A%AA%E6%AD%A3%E5%9C%A8%E5%A2%9E%E5%BC%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
