@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-30 08:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-30 08:35:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [成都大运会的中国式浪漫](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%A4%A7%E8%BF%90%E4%BC%9A%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%BC%8F%E6%B5%AA%E6%BC%AB%23&t=31&band_rank=3&Refer=top)<br />
 4. [非洲媳妇带丽水丈夫回娘家](https://s.weibo.com/weibo?q=%23%E9%9D%9E%E6%B4%B2%E5%AA%B3%E5%A6%87%E5%B8%A6%E4%B8%BD%E6%B0%B4%E4%B8%88%E5%A4%AB%E5%9B%9E%E5%A8%98%E5%AE%B6%23&t=31&band_rank=4&Refer=top)<br />
 5. [姬发](https://s.weibo.com/weibo?q=%E5%A7%AC%E5%8F%91&t=31&band_rank=5&Refer=top)<br />
-6. [全县24个乡镇在一家打印店花174万](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%8E%BF24%E4%B8%AA%E4%B9%A1%E9%95%87%E5%9C%A8%E4%B8%80%E5%AE%B6%E6%89%93%E5%8D%B0%E5%BA%97%E8%8A%B1174%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
-7. [Ella问孟美岐四年前和现在有什么不同](https://s.weibo.com/weibo?q=%23Ella%E9%97%AE%E5%AD%9F%E7%BE%8E%E5%B2%90%E5%9B%9B%E5%B9%B4%E5%89%8D%E5%92%8C%E7%8E%B0%E5%9C%A8%E6%9C%89%E4%BB%80%E4%B9%88%E4%B8%8D%E5%90%8C%23&t=31&band_rank=7&Refer=top)<br />
+6. [Ella问孟美岐四年前和现在有什么不同](https://s.weibo.com/weibo?q=%23Ella%E9%97%AE%E5%AD%9F%E7%BE%8E%E5%B2%90%E5%9B%9B%E5%B9%B4%E5%89%8D%E5%92%8C%E7%8E%B0%E5%9C%A8%E6%9C%89%E4%BB%80%E4%B9%88%E4%B8%8D%E5%90%8C%23&t=31&band_rank=6&Refer=top)<br />
+7. [全县24个乡镇在一家打印店花174万](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%8E%BF24%E4%B8%AA%E4%B9%A1%E9%95%87%E5%9C%A8%E4%B8%80%E5%AE%B6%E6%89%93%E5%8D%B0%E5%BA%97%E8%8A%B1174%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [泉州暴雨店主称珠宝被积水冲光](https://s.weibo.com/weibo?q=%23%E6%B3%89%E5%B7%9E%E6%9A%B4%E9%9B%A8%E5%BA%97%E4%B8%BB%E7%A7%B0%E7%8F%A0%E5%AE%9D%E8%A2%AB%E7%A7%AF%E6%B0%B4%E5%86%B2%E5%85%89%23&t=31&band_rank=8&Refer=top)<br />
 9. [女孩一觉睡醒身上盖着军被](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E4%B8%80%E8%A7%89%E7%9D%A1%E9%86%92%E8%BA%AB%E4%B8%8A%E7%9B%96%E7%9D%80%E5%86%9B%E8%A2%AB%23&t=31&band_rank=9&Refer=top)<br />
 
