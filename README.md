@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-30 08:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-30 08:14:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [泉州暴雨店主称珠宝被积水冲光](https://s.weibo.com/weibo?q=%23%E6%B3%89%E5%B7%9E%E6%9A%B4%E9%9B%A8%E5%BA%97%E4%B8%BB%E7%A7%B0%E7%8F%A0%E5%AE%9D%E8%A2%AB%E7%A7%AF%E6%B0%B4%E5%86%B2%E5%85%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [女孩一觉睡醒身上盖着军被](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E4%B8%80%E8%A7%89%E7%9D%A1%E9%86%92%E8%BA%AB%E4%B8%8A%E7%9B%96%E7%9D%80%E5%86%9B%E8%A2%AB%23&t=31&band_rank=7&Refer=top)<br />
 8. [好多明星去了鹿晗演唱会](https://s.weibo.com/weibo?q=%23%E5%A5%BD%E5%A4%9A%E6%98%8E%E6%98%9F%E5%8E%BB%E4%BA%86%E9%B9%BF%E6%99%97%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=8&Refer=top)<br />
-9. [瞿颖素颜突袭胡兵直播间](https://s.weibo.com/weibo?q=%23%E7%9E%BF%E9%A2%96%E7%B4%A0%E9%A2%9C%E7%AA%81%E8%A2%AD%E8%83%A1%E5%85%B5%E7%9B%B4%E6%92%AD%E9%97%B4%23&t=31&band_rank=9&Refer=top)<br />
+9. [Ella问孟美岐四年前和现在有什么不同](https://s.weibo.com/weibo?q=%23Ella%E9%97%AE%E5%AD%9F%E7%BE%8E%E5%B2%90%E5%9B%9B%E5%B9%B4%E5%89%8D%E5%92%8C%E7%8E%B0%E5%9C%A8%E6%9C%89%E4%BB%80%E4%B9%88%E4%B8%8D%E5%90%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
