@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-31 04:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-31 04:47:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [长相思才是我想看的女主视角剧](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D%E6%89%8D%E6%98%AF%E6%88%91%E6%83%B3%E7%9C%8B%E7%9A%84%E5%A5%B3%E4%B8%BB%E8%A7%86%E8%A7%92%E5%89%A7&t=31&band_rank=5&Refer=top)<br />
 6. [杜苏芮](https://s.weibo.com/weibo?q=%E6%9D%9C%E8%8B%8F%E8%8A%AE&t=31&band_rank=6&Refer=top)<br />
 7. [长相思14集封神了](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D14%E9%9B%86%E5%B0%81%E7%A5%9E%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [湖南卫视在放旋风少女](https://s.weibo.com/weibo?q=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E5%9C%A8%E6%94%BE%E6%97%8B%E9%A3%8E%E5%B0%91%E5%A5%B3&t=31&band_rank=8&Refer=top)<br />
+8. [真实的缅北边境现状](https://s.weibo.com/weibo?q=%23%E7%9C%9F%E5%AE%9E%E7%9A%84%E7%BC%85%E5%8C%97%E8%BE%B9%E5%A2%83%E7%8E%B0%E7%8A%B6%23&t=31&band_rank=8&Refer=top)<br />
 9. [邓为哭戏](https://s.weibo.com/weibo?q=%E9%82%93%E4%B8%BA%E5%93%AD%E6%88%8F&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
