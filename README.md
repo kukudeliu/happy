@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-31 07:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-31 07:32:01</h4></div>
 
 > 微博  
 
-1. [把西瓜的水分全部蒸发后](https://s.weibo.com/weibo?q=%E6%8A%8A%E8%A5%BF%E7%93%9C%E7%9A%84%E6%B0%B4%E5%88%86%E5%85%A8%E9%83%A8%E8%92%B8%E5%8F%91%E5%90%8E&t=31&band_rank=1&Refer=top)<br />
-2. [真实的缅北边境现状](https://s.weibo.com/weibo?q=%23%E7%9C%9F%E5%AE%9E%E7%9A%84%E7%BC%85%E5%8C%97%E8%BE%B9%E5%A2%83%E7%8E%B0%E7%8A%B6%23&t=31&band_rank=2&Refer=top)<br />
+1. [真实的缅北边境现状](https://s.weibo.com/weibo?q=%23%E7%9C%9F%E5%AE%9E%E7%9A%84%E7%BC%85%E5%8C%97%E8%BE%B9%E5%A2%83%E7%8E%B0%E7%8A%B6%23&t=31&band_rank=1&Refer=top)<br />
+2. [把西瓜的水分全部蒸发后](https://s.weibo.com/weibo?q=%E6%8A%8A%E8%A5%BF%E7%93%9C%E7%9A%84%E6%B0%B4%E5%88%86%E5%85%A8%E9%83%A8%E8%92%B8%E5%8F%91%E5%90%8E&t=31&band_rank=2&Refer=top)<br />
 3. [在大运村和外国运动员一起耍非遗](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E5%A4%A7%E8%BF%90%E6%9D%91%E5%92%8C%E5%A4%96%E5%9B%BD%E8%BF%90%E5%8A%A8%E5%91%98%E4%B8%80%E8%B5%B7%E8%80%8D%E9%9D%9E%E9%81%97%23&t=31&band_rank=3&Refer=top)<br />
 4. [日本学生害怕被AI取代而自杀](https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%AD%A6%E7%94%9F%E5%AE%B3%E6%80%95%E8%A2%ABAI%E5%8F%96%E4%BB%A3%E8%80%8C%E8%87%AA%E6%9D%80&t=31&band_rank=4&Refer=top)<br />
 5. [5个症状提示体内有湿气](https://s.weibo.com/weibo?q=%235%E4%B8%AA%E7%97%87%E7%8A%B6%E6%8F%90%E7%A4%BA%E4%BD%93%E5%86%85%E6%9C%89%E6%B9%BF%E6%B0%94%23&t=31&band_rank=5&Refer=top)<br />
