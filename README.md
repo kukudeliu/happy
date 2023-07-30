@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-30 19:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-30 19:57:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [长相思](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D&t=31&band_rank=6&Refer=top)<br />
 7. [村支书带队雨中救人救羊](https://s.weibo.com/weibo?q=%23%E6%9D%91%E6%94%AF%E4%B9%A6%E5%B8%A6%E9%98%9F%E9%9B%A8%E4%B8%AD%E6%95%91%E4%BA%BA%E6%95%91%E7%BE%8A%23&t=31&band_rank=7&Refer=top)<br />
 8. [小夭主动亲了涂山璟](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%A4%AD%E4%B8%BB%E5%8A%A8%E4%BA%B2%E4%BA%86%E6%B6%82%E5%B1%B1%E7%92%9F%23&t=31&band_rank=8&Refer=top)<br />
-9. [一定要扬州慢才能解毒吗](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%AE%9A%E8%A6%81%E6%89%AC%E5%B7%9E%E6%85%A2%E6%89%8D%E8%83%BD%E8%A7%A3%E6%AF%92%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
+9. [BLG对战JDG](https://s.weibo.com/weibo?q=%23BLG%E5%AF%B9%E6%88%98JDG%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
