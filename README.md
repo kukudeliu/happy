@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-31 03:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-31 03:13:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [日本学生害怕被AI取代而自杀](https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%AD%A6%E7%94%9F%E5%AE%B3%E6%80%95%E8%A2%ABAI%E5%8F%96%E4%BB%A3%E8%80%8C%E8%87%AA%E6%9D%80&t=31&band_rank=4&Refer=top)<br />
 5. [长相思14集封神了](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D14%E9%9B%86%E5%B0%81%E7%A5%9E%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [杜苏芮](https://s.weibo.com/weibo?q=%E6%9D%9C%E8%8B%8F%E8%8A%AE&t=31&band_rank=6&Refer=top)<br />
-7. [邓为哭戏](https://s.weibo.com/weibo?q=%E9%82%93%E4%B8%BA%E5%93%AD%E6%88%8F&t=31&band_rank=7&Refer=top)<br />
-8. [湖南卫视在放旋风少女](https://s.weibo.com/weibo?q=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E5%9C%A8%E6%94%BE%E6%97%8B%E9%A3%8E%E5%B0%91%E5%A5%B3&t=31&band_rank=8&Refer=top)<br />
+7. [湖南卫视在放旋风少女](https://s.weibo.com/weibo?q=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E5%9C%A8%E6%94%BE%E6%97%8B%E9%A3%8E%E5%B0%91%E5%A5%B3&t=31&band_rank=7&Refer=top)<br />
+8. [邓为哭戏](https://s.weibo.com/weibo?q=%E9%82%93%E4%B8%BA%E5%93%AD%E6%88%8F&t=31&band_rank=8&Refer=top)<br />
 9. [黄子韬去鹿晗演唱会了](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%8E%BB%E9%B9%BF%E6%99%97%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
