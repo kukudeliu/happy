@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-31 01:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-31 01:04:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [曝梅根与贝克汉姆夫妇断交](https://www.baidu.com/s?wd=%E6%9B%9D%E6%A2%85%E6%A0%B9%E4%B8%8E%E8%B4%9D%E5%85%8B%E6%B1%89%E5%A7%86%E5%A4%AB%E5%A6%87%E6%96%AD%E4%BA%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [胡锡进：房价泡沫显然得到根本抑制](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%EF%BC%9A%E6%88%BF%E4%BB%B7%E6%B3%A1%E6%B2%AB%E6%98%BE%E7%84%B6%E5%BE%97%E5%88%B0%E6%A0%B9%E6%9C%AC%E6%8A%91%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [杨紫《长相思》恢复女装](https://www.baidu.com/s?wd=%E6%9D%A8%E7%B4%AB%E3%80%8A%E9%95%BF%E7%9B%B8%E6%80%9D%E3%80%8B%E6%81%A2%E5%A4%8D%E5%A5%B3%E8%A3%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [浙江武义11死火灾事故调查报告发布](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E6%AD%A6%E4%B9%8911%E6%AD%BB%E7%81%AB%E7%81%BE%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A%E5%8F%91%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [非洲成暑期游市场“黑马”](https://www.baidu.com/s?wd=%E9%9D%9E%E6%B4%B2%E6%88%90%E6%9A%91%E6%9C%9F%E6%B8%B8%E5%B8%82%E5%9C%BA%E2%80%9C%E9%BB%91%E9%A9%AC%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [曝梅根与贝克汉姆夫妇断交](https://www.baidu.com/s?wd=%E6%9B%9D%E6%A2%85%E6%A0%B9%E4%B8%8E%E8%B4%9D%E5%85%8B%E6%B1%89%E5%A7%86%E5%A4%AB%E5%A6%87%E6%96%AD%E4%BA%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [胡锡进：房价泡沫显然得到根本抑制](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%EF%BC%9A%E6%88%BF%E4%BB%B7%E6%B3%A1%E6%B2%AB%E6%98%BE%E7%84%B6%E5%BE%97%E5%88%B0%E6%A0%B9%E6%9C%AC%E6%8A%91%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [杨紫《长相思》恢复女装](https://www.baidu.com/s?wd=%E6%9D%A8%E7%B4%AB%E3%80%8A%E9%95%BF%E7%9B%B8%E6%80%9D%E3%80%8B%E6%81%A2%E5%A4%8D%E5%A5%B3%E8%A3%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [浙江武义11死火灾事故调查报告发布](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E6%AD%A6%E4%B9%8911%E6%AD%BB%E7%81%AB%E7%81%BE%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A%E5%8F%91%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [非洲成暑期游市场“黑马”](https://www.baidu.com/s?wd=%E9%9D%9E%E6%B4%B2%E6%88%90%E6%9A%91%E6%9C%9F%E6%B8%B8%E5%B8%82%E5%9C%BA%E2%80%9C%E9%BB%91%E9%A9%AC%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
