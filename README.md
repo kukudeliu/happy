@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-31 20:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-31 20:06:01</h4></div>
 
 > 微博  
 
-1. [北京升级发布洪水红色预警](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%8D%87%E7%BA%A7%E5%8F%91%E5%B8%83%E6%B4%AA%E6%B0%B4%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6%23&t=31&band_rank=1&Refer=top)<br />
-2. [小夭和家人相认哭疯了](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%A4%AD%E5%92%8C%E5%AE%B6%E4%BA%BA%E7%9B%B8%E8%AE%A4%E5%93%AD%E7%96%AF%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
+1. [小夭和家人相认哭疯了](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%A4%AD%E5%92%8C%E5%AE%B6%E4%BA%BA%E7%9B%B8%E8%AE%A4%E5%93%AD%E7%96%AF%E4%BA%86%23&t=31&band_rank=1&Refer=top)<br />
+2. [北京升级发布洪水红色预警](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%8D%87%E7%BA%A7%E5%8F%91%E5%B8%83%E6%B4%AA%E6%B0%B4%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6%23&t=31&band_rank=2&Refer=top)<br />
 3. [大学生接力为大运会加油](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8E%A5%E5%8A%9B%E4%B8%BA%E5%A4%A7%E8%BF%90%E4%BC%9A%E5%8A%A0%E6%B2%B9%23&t=31&band_rank=3&Refer=top)<br />
 4. [悉尼上空现CoCoLee云朵字](https://s.weibo.com/weibo?q=%23%E6%82%89%E5%B0%BC%E4%B8%8A%E7%A9%BA%E7%8E%B0CoCoLee%E4%BA%91%E6%9C%B5%E5%AD%97%23&t=31&band_rank=4&Refer=top)<br />
 5. [韩女团成员被公司开除](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%A5%B3%E5%9B%A2%E6%88%90%E5%91%98%E8%A2%AB%E5%85%AC%E5%8F%B8%E5%BC%80%E9%99%A4%23&t=31&band_rank=5&Refer=top)<br />
