@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-31 12:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-31 12:51:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [直击李玟追悼会现场](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E6%9D%8E%E7%8E%9F%E8%BF%BD%E6%82%BC%E4%BC%9A%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [湖南一县委书记自杀？官方回应](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E4%B8%80%E5%8E%BF%E5%A7%94%E4%B9%A6%E8%AE%B0%E8%87%AA%E6%9D%80%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [打卡完美夏日](https://www.baidu.com/s?wd=%E5%AE%8C%E7%BE%8E%E5%A4%8F%E6%97%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [台风卡努到哪了？直击实时路径](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E5%8D%A1%E5%8A%AA%E5%88%B0%E5%93%AA%E4%BA%86%EF%BC%9F%E7%9B%B4%E5%87%BB%E5%AE%9E%E6%97%B6%E8%B7%AF%E5%BE%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [花花洗澡全国人民都知道了](https://www.baidu.com/s?wd=%E8%8A%B1%E8%8A%B1%E6%B4%97%E6%BE%A1%E5%85%A8%E5%9B%BD%E4%BA%BA%E6%B0%91%E9%83%BD%E7%9F%A5%E9%81%93%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [直击李玟追悼会现场](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E6%9D%8E%E7%8E%9F%E8%BF%BD%E6%82%BC%E4%BC%9A%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [湖南一县委书记自杀？官方回应](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E4%B8%80%E5%8E%BF%E5%A7%94%E4%B9%A6%E8%AE%B0%E8%87%AA%E6%9D%80%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [打卡完美夏日](https://www.baidu.com/s?wd=%E5%AE%8C%E7%BE%8E%E5%A4%8F%E6%97%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [台风卡努到哪了？直击实时路径](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E5%8D%A1%E5%8A%AA%E5%88%B0%E5%93%AA%E4%BA%86%EF%BC%9F%E7%9B%B4%E5%87%BB%E5%AE%9E%E6%97%B6%E8%B7%AF%E5%BE%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [花花洗澡全国人民都知道了](https://www.baidu.com/s?wd=%E8%8A%B1%E8%8A%B1%E6%B4%97%E6%BE%A1%E5%85%A8%E5%9B%BD%E4%BA%BA%E6%B0%91%E9%83%BD%E7%9F%A5%E9%81%93%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
