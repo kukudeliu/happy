@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-31 12:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-31 12:25:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [卡努](https://s.weibo.com/weibo?q=%E5%8D%A1%E5%8A%AA&t=31&band_rank=6&Refer=top)<br />
 7. [长相思 亲妈坐镇](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D%20%E4%BA%B2%E5%A6%88%E5%9D%90%E9%95%87&t=31&band_rank=7&Refer=top)<br />
 8. [中学会计挪用2500万买理财获利6000](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%AD%A6%E4%BC%9A%E8%AE%A1%E6%8C%AA%E7%94%A82500%E4%B8%87%E4%B9%B0%E7%90%86%E8%B4%A2%E8%8E%B7%E5%88%A96000%23&t=31&band_rank=8&Refer=top)<br />
-9. [杨紫被低估的女演员](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E8%A2%AB%E4%BD%8E%E4%BC%B0%E7%9A%84%E5%A5%B3%E6%BC%94%E5%91%98%23&t=31&band_rank=9&Refer=top)<br />
+9. [周迅两张A4纸台词不看提词器](https://s.weibo.com/weibo?q=%23%E5%91%A8%E8%BF%85%E4%B8%A4%E5%BC%A0A4%E7%BA%B8%E5%8F%B0%E8%AF%8D%E4%B8%8D%E7%9C%8B%E6%8F%90%E8%AF%8D%E5%99%A8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
