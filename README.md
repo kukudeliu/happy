@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-31 19:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-31 19:53:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [小夭和家人相认哭疯了](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%A4%AD%E5%92%8C%E5%AE%B6%E4%BA%BA%E7%9B%B8%E8%AE%A4%E5%93%AD%E7%96%AF%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [杭州到宁波城际列车来了可刷公交卡](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%88%B0%E5%AE%81%E6%B3%A2%E5%9F%8E%E9%99%85%E5%88%97%E8%BD%A6%E6%9D%A5%E4%BA%86%E5%8F%AF%E5%88%B7%E5%85%AC%E4%BA%A4%E5%8D%A1%23&t=31&band_rank=7&Refer=top)<br />
 8. [K396次列车最新消息](https://s.weibo.com/weibo?q=%23K396%E6%AC%A1%E5%88%97%E8%BD%A6%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF%23&t=31&band_rank=8&Refer=top)<br />
-9. [李玟老公及继女现身追悼会](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E8%80%81%E5%85%AC%E5%8F%8A%E7%BB%A7%E5%A5%B3%E7%8E%B0%E8%BA%AB%E8%BF%BD%E6%82%BC%E4%BC%9A%23&t=31&band_rank=9&Refer=top)<br />
+9. [卡努升级为超强台风](https://s.weibo.com/weibo?q=%23%E5%8D%A1%E5%8A%AA%E5%8D%87%E7%BA%A7%E4%B8%BA%E8%B6%85%E5%BC%BA%E5%8F%B0%E9%A3%8E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
