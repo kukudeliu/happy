@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-31 14:53:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-31 14:54:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [台风卡努到哪了？直击实时路径](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E5%8D%A1%E5%8A%AA%E5%88%B0%E5%93%AA%E4%BA%86%EF%BC%9F%E7%9B%B4%E5%87%BB%E5%AE%9E%E6%97%B6%E8%B7%AF%E5%BE%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [洪水过后女子家中密密麻麻全是鱼](https://www.baidu.com/s?wd=%E6%B4%AA%E6%B0%B4%E8%BF%87%E5%90%8E%E5%A5%B3%E5%AD%90%E5%AE%B6%E4%B8%AD%E5%AF%86%E5%AF%86%E9%BA%BB%E9%BA%BB%E5%85%A8%E6%98%AF%E9%B1%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [打卡完美夏日](https://www.baidu.com/s?wd=%E5%AE%8C%E7%BE%8E%E5%A4%8F%E6%97%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [31省份上半年GDP出炉](https://www.baidu.com/s?wd=31%E7%9C%81%E4%BB%BD%E4%B8%8A%E5%8D%8A%E5%B9%B4GDP%E5%87%BA%E7%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [列车遇塌方延误 乘务员哽咽安抚乘客](https://www.baidu.com/s?wd=%E5%88%97%E8%BD%A6%E9%81%87%E5%A1%8C%E6%96%B9%E5%BB%B6%E8%AF%AF+%E4%B9%98%E5%8A%A1%E5%91%98%E5%93%BD%E5%92%BD%E5%AE%89%E6%8A%9A%E4%B9%98%E5%AE%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [台风卡努到哪了？直击实时路径](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E5%8D%A1%E5%8A%AA%E5%88%B0%E5%93%AA%E4%BA%86%EF%BC%9F%E7%9B%B4%E5%87%BB%E5%AE%9E%E6%97%B6%E8%B7%AF%E5%BE%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [洪水过后女子家中密密麻麻全是鱼](https://www.baidu.com/s?wd=%E6%B4%AA%E6%B0%B4%E8%BF%87%E5%90%8E%E5%A5%B3%E5%AD%90%E5%AE%B6%E4%B8%AD%E5%AF%86%E5%AF%86%E9%BA%BB%E9%BA%BB%E5%85%A8%E6%98%AF%E9%B1%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [打卡完美夏日](https://www.baidu.com/s?wd=%E5%AE%8C%E7%BE%8E%E5%A4%8F%E6%97%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [31省份上半年GDP出炉](https://www.baidu.com/s?wd=31%E7%9C%81%E4%BB%BD%E4%B8%8A%E5%8D%8A%E5%B9%B4GDP%E5%87%BA%E7%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [列车遇塌方延误 乘务员哽咽安抚乘客](https://www.baidu.com/s?wd=%E5%88%97%E8%BD%A6%E9%81%87%E5%A1%8C%E6%96%B9%E5%BB%B6%E8%AF%AF+%E4%B9%98%E5%8A%A1%E5%91%98%E5%93%BD%E5%92%BD%E5%AE%89%E6%8A%9A%E4%B9%98%E5%AE%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
