@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-01 05:28:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-01 05:29:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [遇暴雨如何自救？这份指南请仔细看](https://www.baidu.com/s?wd=%E9%81%87%E6%9A%B4%E9%9B%A8%E5%A6%82%E4%BD%95%E8%87%AA%E6%95%91%EF%BC%9F%E8%BF%99%E4%BB%BD%E6%8C%87%E5%8D%97%E8%AF%B7%E4%BB%94%E7%BB%86%E7%9C%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [汉文帝霸陵殉葬坑发现大熊猫骨骼](https://www.baidu.com/s?wd=%E6%B1%89%E6%96%87%E5%B8%9D%E9%9C%B8%E9%99%B5%E6%AE%89%E8%91%AC%E5%9D%91%E5%8F%91%E7%8E%B0%E5%A4%A7%E7%86%8A%E7%8C%AB%E9%AA%A8%E9%AA%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [北京门头沟洪水退去 抛锚车满地](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E9%97%A8%E5%A4%B4%E6%B2%9F%E6%B4%AA%E6%B0%B4%E9%80%80%E5%8E%BB+%E6%8A%9B%E9%94%9A%E8%BD%A6%E6%BB%A1%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子地铁内持刀胁迫路人 警方通报](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%B0%E9%93%81%E5%86%85%E6%8C%81%E5%88%80%E8%83%81%E8%BF%AB%E8%B7%AF%E4%BA%BA+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [北京暴雨已致2死 居民目睹有人昏迷](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E6%9A%B4%E9%9B%A8%E5%B7%B2%E8%87%B42%E6%AD%BB+%E5%B1%85%E6%B0%91%E7%9B%AE%E7%9D%B9%E6%9C%89%E4%BA%BA%E6%98%8F%E8%BF%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [北京暴雨已致2死 居民目睹有人昏迷](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E6%9A%B4%E9%9B%A8%E5%B7%B2%E8%87%B42%E6%AD%BB+%E5%B1%85%E6%B0%91%E7%9B%AE%E7%9D%B9%E6%9C%89%E4%BA%BA%E6%98%8F%E8%BF%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [游客国道上看风景被制止 因未买票](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E5%9B%BD%E9%81%93%E4%B8%8A%E7%9C%8B%E9%A3%8E%E6%99%AF%E8%A2%AB%E5%88%B6%E6%AD%A2+%E5%9B%A0%E6%9C%AA%E4%B9%B0%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [游客围殴导游撕衣脚踹猛扇耳光](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E5%9B%B4%E6%AE%B4%E5%AF%BC%E6%B8%B8%E6%92%95%E8%A1%A3%E8%84%9A%E8%B8%B9%E7%8C%9B%E6%89%87%E8%80%B3%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [遇暴雨如何自救？这份指南请仔细看](https://www.baidu.com/s?wd=%E9%81%87%E6%9A%B4%E9%9B%A8%E5%A6%82%E4%BD%95%E8%87%AA%E6%95%91%EF%BC%9F%E8%BF%99%E4%BB%BD%E6%8C%87%E5%8D%97%E8%AF%B7%E4%BB%94%E7%BB%86%E7%9C%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [汉文帝霸陵殉葬坑发现大熊猫骨骼](https://www.baidu.com/s?wd=%E6%B1%89%E6%96%87%E5%B8%9D%E9%9C%B8%E9%99%B5%E6%AE%89%E8%91%AC%E5%9D%91%E5%8F%91%E7%8E%B0%E5%A4%A7%E7%86%8A%E7%8C%AB%E9%AA%A8%E9%AA%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [北京门头沟洪水退去 抛锚车满地](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E9%97%A8%E5%A4%B4%E6%B2%9F%E6%B4%AA%E6%B0%B4%E9%80%80%E5%8E%BB+%E6%8A%9B%E9%94%9A%E8%BD%A6%E6%BB%A1%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子地铁内持刀胁迫路人 警方通报](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%B0%E9%93%81%E5%86%85%E6%8C%81%E5%88%80%E8%83%81%E8%BF%AB%E8%B7%AF%E4%BA%BA+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [北京暴雨已致2死 居民目睹有人昏迷](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E6%9A%B4%E9%9B%A8%E5%B7%B2%E8%87%B42%E6%AD%BB+%E5%B1%85%E6%B0%91%E7%9B%AE%E7%9D%B9%E6%9C%89%E4%BA%BA%E6%98%8F%E8%BF%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [北京暴雨已致2死 居民目睹有人昏迷](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E6%9A%B4%E9%9B%A8%E5%B7%B2%E8%87%B42%E6%AD%BB+%E5%B1%85%E6%B0%91%E7%9B%AE%E7%9D%B9%E6%9C%89%E4%BA%BA%E6%98%8F%E8%BF%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [游客国道上看风景被制止 因未买票](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E5%9B%BD%E9%81%93%E4%B8%8A%E7%9C%8B%E9%A3%8E%E6%99%AF%E8%A2%AB%E5%88%B6%E6%AD%A2+%E5%9B%A0%E6%9C%AA%E4%B9%B0%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [游客围殴导游撕衣脚踹猛扇耳光](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E5%9B%B4%E6%AE%B4%E5%AF%BC%E6%B8%B8%E6%92%95%E8%A1%A3%E8%84%9A%E8%B8%B9%E7%8C%9B%E6%89%87%E8%80%B3%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
