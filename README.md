@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-31 17:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-31 17:32:02</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [papi酱melody加盟再见爱人3](https://s.weibo.com/weibo?q=%23papi%E9%85%B1melody%E5%8A%A0%E7%9B%9F%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA3%23&t=31&band_rank=5&Refer=top)<br />
 6. [暴雨未致卢沟桥坍塌](https://s.weibo.com/weibo?q=%23%E6%9A%B4%E9%9B%A8%E6%9C%AA%E8%87%B4%E5%8D%A2%E6%B2%9F%E6%A1%A5%E5%9D%8D%E5%A1%8C%23&t=31&band_rank=6&Refer=top)<br />
 7. [六小龄童也去看了热烈](https://s.weibo.com/weibo?q=%23%E5%85%AD%E5%B0%8F%E9%BE%84%E7%AB%A5%E4%B9%9F%E5%8E%BB%E7%9C%8B%E4%BA%86%E7%83%AD%E7%83%88%23&t=31&band_rank=7&Refer=top)<br />
-8. [豆瓣](https://s.weibo.com/weibo?q=%E8%B1%86%E7%93%A3&t=31&band_rank=8&Refer=top)<br />
+8. [ITZY回归](https://s.weibo.com/weibo?q=ITZY%E5%9B%9E%E5%BD%92&t=31&band_rank=8&Refer=top)<br />
 9. [北京门头沟强降雨已致2人死亡](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E9%97%A8%E5%A4%B4%E6%B2%9F%E5%BC%BA%E9%99%8D%E9%9B%A8%E5%B7%B2%E8%87%B42%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
