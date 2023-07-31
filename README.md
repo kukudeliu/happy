@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-31 10:41:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-31 10:42:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [花花洗澡全国人民都知道了](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%8A%B1%E6%B4%97%E6%BE%A1%E5%85%A8%E5%9B%BD%E4%BA%BA%E6%B0%91%E9%83%BD%E7%9F%A5%E9%81%93%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [原来你好星期六那天魏大勋戴眼镜了](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%E9%82%A3%E5%A4%A9%E9%AD%8F%E5%A4%A7%E5%8B%8B%E6%88%B4%E7%9C%BC%E9%95%9C%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [卡努路径调整](https://s.weibo.com/weibo?q=%23%E5%8D%A1%E5%8A%AA%E8%B7%AF%E5%BE%84%E8%B0%83%E6%95%B4%23&t=31&band_rank=8&Refer=top)<br />
-9. [女子抽中10克金条因错过叫号被取消](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%8A%BD%E4%B8%AD10%E5%85%8B%E9%87%91%E6%9D%A1%E5%9B%A0%E9%94%99%E8%BF%87%E5%8F%AB%E5%8F%B7%E8%A2%AB%E5%8F%96%E6%B6%88%23&t=31&band_rank=9&Refer=top)<br />
+9. [难听](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%90%AC&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
