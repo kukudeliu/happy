@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-01 00:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-01 00:21:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [SMTOWN新男团公开](https://s.weibo.com/weibo?q=%23SMTOWN%E6%96%B0%E7%94%B7%E5%9B%A2%E5%85%AC%E5%BC%80%23&t=31&band_rank=6&Refer=top)<br />
 7. [防风邶是相柳写给小夭的情书](https://s.weibo.com/weibo?q=%23%E9%98%B2%E9%A3%8E%E9%82%B6%E6%98%AF%E7%9B%B8%E6%9F%B3%E5%86%99%E7%BB%99%E5%B0%8F%E5%A4%AD%E7%9A%84%E6%83%85%E4%B9%A6%23&t=31&band_rank=7&Refer=top)<br />
 8. [老干妈表层红油藏有游动微生物吗](https://s.weibo.com/weibo?q=%E8%80%81%E5%B9%B2%E5%A6%88%E8%A1%A8%E5%B1%82%E7%BA%A2%E6%B2%B9%E8%97%8F%E6%9C%89%E6%B8%B8%E5%8A%A8%E5%BE%AE%E7%94%9F%E7%89%A9%E5%90%97&t=31&band_rank=8&Refer=top)<br />
-9. [北京升级发布洪水红色预警](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%8D%87%E7%BA%A7%E5%8F%91%E5%B8%83%E6%B4%AA%E6%B0%B4%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6%23&t=31&band_rank=9&Refer=top)<br />
+9. [世界上竟有如此听劝的家长](https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E4%B8%8A%E7%AB%9F%E6%9C%89%E5%A6%82%E6%AD%A4%E5%90%AC%E5%8A%9D%E7%9A%84%E5%AE%B6%E9%95%BF&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
