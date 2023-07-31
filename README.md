@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-31 20:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-31 20:37:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [李玟老公及继女现身追悼会](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E8%80%81%E5%85%AC%E5%8F%8A%E7%BB%A7%E5%A5%B3%E7%8E%B0%E8%BA%AB%E8%BF%BD%E6%82%BC%E4%BC%9A%23&t=31&band_rank=4&Refer=top)<br />
 5. [北京升级发布洪水红色预警](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%8D%87%E7%BA%A7%E5%8F%91%E5%B8%83%E6%B4%AA%E6%B0%B4%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6%23&t=31&band_rank=5&Refer=top)<br />
 6. [K396次列车最新消息](https://s.weibo.com/weibo?q=%23K396%E6%AC%A1%E5%88%97%E8%BD%A6%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF%23&t=31&band_rank=6&Refer=top)<br />
-7. [2位军官晋升上将军衔](https://s.weibo.com/weibo?q=%232%E4%BD%8D%E5%86%9B%E5%AE%98%E6%99%8B%E5%8D%87%E4%B8%8A%E5%B0%86%E5%86%9B%E8%A1%94%23&t=31&band_rank=7&Refer=top)<br />
-8. [叶十七的七是娇妻的妻](https://s.weibo.com/weibo?q=%23%E5%8F%B6%E5%8D%81%E4%B8%83%E7%9A%84%E4%B8%83%E6%98%AF%E5%A8%87%E5%A6%BB%E7%9A%84%E5%A6%BB%23&t=31&band_rank=8&Refer=top)<br />
+7. [叶十七的七是娇妻的妻](https://s.weibo.com/weibo?q=%23%E5%8F%B6%E5%8D%81%E4%B8%83%E7%9A%84%E4%B8%83%E6%98%AF%E5%A8%87%E5%A6%BB%E7%9A%84%E5%A6%BB%23&t=31&band_rank=7&Refer=top)<br />
+8. [2位军官晋升上将军衔](https://s.weibo.com/weibo?q=%232%E4%BD%8D%E5%86%9B%E5%AE%98%E6%99%8B%E5%8D%87%E4%B8%8A%E5%B0%86%E5%86%9B%E8%A1%94%23&t=31&band_rank=8&Refer=top)<br />
 9. [李雪琴吻戏大型围观现场](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%9B%AA%E7%90%B4%E5%90%BB%E6%88%8F%E5%A4%A7%E5%9E%8B%E5%9B%B4%E8%A7%82%E7%8E%B0%E5%9C%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
