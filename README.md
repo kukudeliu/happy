@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-31 08:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-31 08:59:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [长相思14集封神了](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D14%E9%9B%86%E5%B0%81%E7%A5%9E%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [一位66岁绿化工人在暴雨中离世](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%BD%8D66%E5%B2%81%E7%BB%BF%E5%8C%96%E5%B7%A5%E4%BA%BA%E5%9C%A8%E6%9A%B4%E9%9B%A8%E4%B8%AD%E7%A6%BB%E4%B8%96%23&t=31&band_rank=7&Refer=top)<br />
 8. [李玟二姐首次露面回应礼服和遗产争议](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E4%BA%8C%E5%A7%90%E9%A6%96%E6%AC%A1%E9%9C%B2%E9%9D%A2%E5%9B%9E%E5%BA%94%E7%A4%BC%E6%9C%8D%E5%92%8C%E9%81%97%E4%BA%A7%E4%BA%89%E8%AE%AE%23&t=31&band_rank=8&Refer=top)<br />
-9. [脏 就不能心诚吗](https://s.weibo.com/weibo?q=%E8%84%8F%20%E5%B0%B1%E4%B8%8D%E8%83%BD%E5%BF%83%E8%AF%9A%E5%90%97&t=31&band_rank=9&Refer=top)<br />
+9. [不上班但又饿不死的活法](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E4%B8%8A%E7%8F%AD%E4%BD%86%E5%8F%88%E9%A5%BF%E4%B8%8D%E6%AD%BB%E7%9A%84%E6%B4%BB%E6%B3%95%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
