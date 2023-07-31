@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-01 01:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-01 01:38:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [8月份十二星座的注意事项](https://s.weibo.com/weibo?q=8%E6%9C%88%E4%BB%BD%E5%8D%81%E4%BA%8C%E6%98%9F%E5%BA%A7%E7%9A%84%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9&t=31&band_rank=6&Refer=top)<br />
 7. [SMTOWN新男团公开](https://s.weibo.com/weibo?q=%23SMTOWN%E6%96%B0%E7%94%B7%E5%9B%A2%E5%85%AC%E5%BC%80%23&t=31&band_rank=7&Refer=top)<br />
 8. [老干妈表层红油藏有游动微生物吗](https://s.weibo.com/weibo?q=%E8%80%81%E5%B9%B2%E5%A6%88%E8%A1%A8%E5%B1%82%E7%BA%A2%E6%B2%B9%E8%97%8F%E6%9C%89%E6%B8%B8%E5%8A%A8%E5%BE%AE%E7%94%9F%E7%89%A9%E5%90%97&t=31&band_rank=8&Refer=top)<br />
-9. [K396次Z180次列车受阻旅客安全转移](https://s.weibo.com/weibo?q=%23K396%E6%AC%A1Z180%E6%AC%A1%E5%88%97%E8%BD%A6%E5%8F%97%E9%98%BB%E6%97%85%E5%AE%A2%E5%AE%89%E5%85%A8%E8%BD%AC%E7%A7%BB%23&t=31&band_rank=9&Refer=top)<br />
+9. [妲己封神第二部造型](https://s.weibo.com/weibo?q=%23%E5%A6%B2%E5%B7%B1%E5%B0%81%E7%A5%9E%E7%AC%AC%E4%BA%8C%E9%83%A8%E9%80%A0%E5%9E%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
