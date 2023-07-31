@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-31 15:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-31 15:38:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [张晚意陈都灵情头](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%99%9A%E6%84%8F%E9%99%88%E9%83%BD%E7%81%B5%E6%83%85%E5%A4%B4%23&t=31&band_rank=5&Refer=top)<br />
 6. [六小龄童也去看了热烈](https://s.weibo.com/weibo?q=%23%E5%85%AD%E5%B0%8F%E9%BE%84%E7%AB%A5%E4%B9%9F%E5%8E%BB%E7%9C%8B%E4%BA%86%E7%83%AD%E7%83%88%23&t=31&band_rank=6&Refer=top)<br />
 7. [青簪行](https://s.weibo.com/weibo?q=%E9%9D%92%E7%B0%AA%E8%A1%8C&t=31&band_rank=7&Refer=top)<br />
-8. [k396](https://s.weibo.com/weibo?q=k396&t=31&band_rank=8&Refer=top)<br />
-9. [刘维怼网友](https://s.weibo.com/weibo?q=%23%E5%88%98%E7%BB%B4%E6%80%BC%E7%BD%91%E5%8F%8B%23&t=31&band_rank=9&Refer=top)<br />
+8. [刘维怼网友](https://s.weibo.com/weibo?q=%23%E5%88%98%E7%BB%B4%E6%80%BC%E7%BD%91%E5%8F%8B%23&t=31&band_rank=8&Refer=top)<br />
+9. [k396](https://s.weibo.com/weibo?q=k396&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
