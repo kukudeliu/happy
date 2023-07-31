@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-31 08:29:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-31 08:30:02</h4></div>
 
 > 微博  
 
@@ -22,10 +22,10 @@
 3. [国内四大无人区到底有多恐怖](https://www.baidu.com/s?wd=%E5%9B%BD%E5%86%85%E5%9B%9B%E5%A4%A7%E6%97%A0%E4%BA%BA%E5%8C%BA%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E6%81%90%E6%80%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [雷雨天这些“陷阱”要避开](https://www.baidu.com/s?wd=%E9%9B%B7%E9%9B%A8%E5%A4%A9%E8%BF%99%E4%BA%9B%E2%80%9C%E9%99%B7%E9%98%B1%E2%80%9D%E8%A6%81%E9%81%BF%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [泽连斯基：战争会逐渐回到俄领土](https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%EF%BC%9A%E6%88%98%E4%BA%89%E4%BC%9A%E9%80%90%E6%B8%90%E5%9B%9E%E5%88%B0%E4%BF%84%E9%A2%86%E5%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [皇马“侮辱性”价格报价姆巴佩](https://www.baidu.com/s?wd=%E7%9A%87%E9%A9%AC%E2%80%9C%E4%BE%AE%E8%BE%B1%E6%80%A7%E2%80%9D%E4%BB%B7%E6%A0%BC%E6%8A%A5%E4%BB%B7%E5%A7%86%E5%B7%B4%E4%BD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [王健林动荡30天](https://www.baidu.com/s?wd=%E7%8E%8B%E5%81%A5%E6%9E%97%E5%8A%A8%E8%8D%A130%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [印度问鼎人口第一大国背后](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E9%97%AE%E9%BC%8E%E4%BA%BA%E5%8F%A3%E7%AC%AC%E4%B8%80%E5%A4%A7%E5%9B%BD%E8%83%8C%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [8月起这些新规将影响你我生活](https://www.baidu.com/s?wd=8%E6%9C%88%E8%B5%B7%E8%BF%99%E4%BA%9B%E6%96%B0%E8%A7%84%E5%B0%86%E5%BD%B1%E5%93%8D%E4%BD%A0%E6%88%91%E7%94%9F%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [王健林动荡30天](https://www.baidu.com/s?wd=%E7%8E%8B%E5%81%A5%E6%9E%97%E5%8A%A8%E8%8D%A130%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [日本学生害怕被AI取代而自杀](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%AD%A6%E7%94%9F%E5%AE%B3%E6%80%95%E8%A2%ABAI%E5%8F%96%E4%BB%A3%E8%80%8C%E8%87%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [8月起这些新规将影响你我生活](https://www.baidu.com/s?wd=8%E6%9C%88%E8%B5%B7%E8%BF%99%E4%BA%9B%E6%96%B0%E8%A7%84%E5%B0%86%E5%BD%B1%E5%93%8D%E4%BD%A0%E6%88%91%E7%94%9F%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [印度问鼎人口第一大国背后](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E9%97%AE%E9%BC%8E%E4%BA%BA%E5%8F%A3%E7%AC%AC%E4%B8%80%E5%A4%A7%E5%9B%BD%E8%83%8C%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -34,7 +34,7 @@
 3. [国内四大无人区到底有多恐怖](https://www.baidu.com/s?wd=%E5%9B%BD%E5%86%85%E5%9B%9B%E5%A4%A7%E6%97%A0%E4%BA%BA%E5%8C%BA%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E6%81%90%E6%80%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [雷雨天这些“陷阱”要避开](https://www.baidu.com/s?wd=%E9%9B%B7%E9%9B%A8%E5%A4%A9%E8%BF%99%E4%BA%9B%E2%80%9C%E9%99%B7%E9%98%B1%E2%80%9D%E8%A6%81%E9%81%BF%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [泽连斯基：战争会逐渐回到俄领土](https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%EF%BC%9A%E6%88%98%E4%BA%89%E4%BC%9A%E9%80%90%E6%B8%90%E5%9B%9E%E5%88%B0%E4%BF%84%E9%A2%86%E5%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [皇马“侮辱性”价格报价姆巴佩](https://www.baidu.com/s?wd=%E7%9A%87%E9%A9%AC%E2%80%9C%E4%BE%AE%E8%BE%B1%E6%80%A7%E2%80%9D%E4%BB%B7%E6%A0%BC%E6%8A%A5%E4%BB%B7%E5%A7%86%E5%B7%B4%E4%BD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [王健林动荡30天](https://www.baidu.com/s?wd=%E7%8E%8B%E5%81%A5%E6%9E%97%E5%8A%A8%E8%8D%A130%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [印度问鼎人口第一大国背后](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E9%97%AE%E9%BC%8E%E4%BA%BA%E5%8F%A3%E7%AC%AC%E4%B8%80%E5%A4%A7%E5%9B%BD%E8%83%8C%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [8月起这些新规将影响你我生活](https://www.baidu.com/s?wd=8%E6%9C%88%E8%B5%B7%E8%BF%99%E4%BA%9B%E6%96%B0%E8%A7%84%E5%B0%86%E5%BD%B1%E5%93%8D%E4%BD%A0%E6%88%91%E7%94%9F%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [王健林动荡30天](https://www.baidu.com/s?wd=%E7%8E%8B%E5%81%A5%E6%9E%97%E5%8A%A8%E8%8D%A130%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [日本学生害怕被AI取代而自杀](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%AD%A6%E7%94%9F%E5%AE%B3%E6%80%95%E8%A2%ABAI%E5%8F%96%E4%BB%A3%E8%80%8C%E8%87%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [8月起这些新规将影响你我生活](https://www.baidu.com/s?wd=8%E6%9C%88%E8%B5%B7%E8%BF%99%E4%BA%9B%E6%96%B0%E8%A7%84%E5%B0%86%E5%BD%B1%E5%93%8D%E4%BD%A0%E6%88%91%E7%94%9F%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [印度问鼎人口第一大国背后](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E9%97%AE%E9%BC%8E%E4%BA%BA%E5%8F%A3%E7%AC%AC%E4%B8%80%E5%A4%A7%E5%9B%BD%E8%83%8C%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
