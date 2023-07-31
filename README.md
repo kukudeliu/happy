@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-31 14:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-31 14:09:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [刘维分享微信恢复教程](https://s.weibo.com/weibo?q=%23%E5%88%98%E7%BB%B4%E5%88%86%E4%BA%AB%E5%BE%AE%E4%BF%A1%E6%81%A2%E5%A4%8D%E6%95%99%E7%A8%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [北京升级发布洪水红色预警](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%8D%87%E7%BA%A7%E5%8F%91%E5%B8%83%E6%B4%AA%E6%B0%B4%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6%23&t=31&band_rank=7&Refer=top)<br />
 8. [周迅两张A4纸台词不看提词器](https://s.weibo.com/weibo?q=%23%E5%91%A8%E8%BF%85%E4%B8%A4%E5%BC%A0A4%E7%BA%B8%E5%8F%B0%E8%AF%8D%E4%B8%8D%E7%9C%8B%E6%8F%90%E8%AF%8D%E5%99%A8%23&t=31&band_rank=8&Refer=top)<br />
-9. [列车延误女乘务员哽咽安抚乘客](https://s.weibo.com/weibo?q=%23%E5%88%97%E8%BD%A6%E5%BB%B6%E8%AF%AF%E5%A5%B3%E4%B9%98%E5%8A%A1%E5%91%98%E5%93%BD%E5%92%BD%E5%AE%89%E6%8A%9A%E4%B9%98%E5%AE%A2%23&t=31&band_rank=9&Refer=top)<br />
+9. [k396](https://s.weibo.com/weibo?q=k396&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
