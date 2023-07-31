@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-31 12:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-31 12:13:01</h4></div>
 
 > 微博  
 
@@ -8,7 +8,7 @@
 4. [毛晓彤方否认被抢角](https://s.weibo.com/weibo?q=%23%E6%AF%9B%E6%99%93%E5%BD%A4%E6%96%B9%E5%90%A6%E8%AE%A4%E8%A2%AB%E6%8A%A2%E8%A7%92%23&t=31&band_rank=4&Refer=top)<br />
 5. [卡努](https://s.weibo.com/weibo?q=%E5%8D%A1%E5%8A%AA&t=31&band_rank=5&Refer=top)<br />
 6. [长相思 亲妈坐镇](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D%20%E4%BA%B2%E5%A6%88%E5%9D%90%E9%95%87&t=31&band_rank=6&Refer=top)<br />
-7. [文旅局长怎么不拍视频了](https://s.weibo.com/weibo?q=%23%E6%96%87%E6%97%85%E5%B1%80%E9%95%BF%E6%80%8E%E4%B9%88%E4%B8%8D%E6%8B%8D%E8%A7%86%E9%A2%91%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+7. [TFBOYS抢票](https://s.weibo.com/weibo?q=TFBOYS%E6%8A%A2%E7%A5%A8&t=31&band_rank=7&Refer=top)<br />
 8. [杨紫被低估的女演员](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E8%A2%AB%E4%BD%8E%E4%BC%B0%E7%9A%84%E5%A5%B3%E6%BC%94%E5%91%98%23&t=31&band_rank=8&Refer=top)<br />
 9. [唐嫣后援会停止更新](https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E5%90%8E%E6%8F%B4%E4%BC%9A%E5%81%9C%E6%AD%A2%E6%9B%B4%E6%96%B0%23&t=31&band_rank=9&Refer=top)<br />
 
