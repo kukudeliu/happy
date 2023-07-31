@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-31 20:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-31 20:16:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [K396次列车最新消息](https://s.weibo.com/weibo?q=%23K396%E6%AC%A1%E5%88%97%E8%BD%A6%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF%23&t=31&band_rank=6&Refer=top)<br />
 7. [2位军官晋升上将军衔](https://s.weibo.com/weibo?q=%232%E4%BD%8D%E5%86%9B%E5%AE%98%E6%99%8B%E5%8D%87%E4%B8%8A%E5%B0%86%E5%86%9B%E8%A1%94%23&t=31&band_rank=7&Refer=top)<br />
 8. [卡努升级为超强台风](https://s.weibo.com/weibo?q=%23%E5%8D%A1%E5%8A%AA%E5%8D%87%E7%BA%A7%E4%B8%BA%E8%B6%85%E5%BC%BA%E5%8F%B0%E9%A3%8E%23&t=31&band_rank=8&Refer=top)<br />
-9. [大学生接力为大运会加油](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8E%A5%E5%8A%9B%E4%B8%BA%E5%A4%A7%E8%BF%90%E4%BC%9A%E5%8A%A0%E6%B2%B9%23&t=31&band_rank=9&Refer=top)<br />
+9. [就是因为穿上了这身衣服我得对得起大家](https://s.weibo.com/weibo?q=%23%E5%B0%B1%E6%98%AF%E5%9B%A0%E4%B8%BA%E7%A9%BF%E4%B8%8A%E4%BA%86%E8%BF%99%E8%BA%AB%E8%A1%A3%E6%9C%8D%E6%88%91%E5%BE%97%E5%AF%B9%E5%BE%97%E8%B5%B7%E5%A4%A7%E5%AE%B6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
