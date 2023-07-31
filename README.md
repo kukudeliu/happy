@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-31 09:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-31 09:18:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [雷雨天这些“陷阱”要避开](https://www.baidu.com/s?wd=%E9%9B%B7%E9%9B%A8%E5%A4%A9%E8%BF%99%E4%BA%9B%E2%80%9C%E9%99%B7%E9%98%B1%E2%80%9D%E8%A6%81%E9%81%BF%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [花花洗澡全国人民都知道了](https://www.baidu.com/s?wd=%E8%8A%B1%E8%8A%B1%E6%B4%97%E6%BE%A1%E5%85%A8%E5%9B%BD%E4%BA%BA%E6%B0%91%E9%83%BD%E7%9F%A5%E9%81%93%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [王健林动荡30天](https://www.baidu.com/s?wd=%E7%8E%8B%E5%81%A5%E6%9E%97%E5%8A%A8%E8%8D%A130%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [日本学生害怕被AI取代而自杀](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%AD%A6%E7%94%9F%E5%AE%B3%E6%80%95%E8%A2%ABAI%E5%8F%96%E4%BB%A3%E8%80%8C%E8%87%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [朝鲜亮出核鱼雷等装备 韩媒惊了](https://www.baidu.com/s?wd=%E6%9C%9D%E9%B2%9C%E4%BA%AE%E5%87%BA%E6%A0%B8%E9%B1%BC%E9%9B%B7%E7%AD%89%E8%A3%85%E5%A4%87+%E9%9F%A9%E5%AA%92%E6%83%8A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [朝鲜亮出核鱼雷等装备 韩媒惊了](https://www.baidu.com/s?wd=%E6%9C%9D%E9%B2%9C%E4%BA%AE%E5%87%BA%E6%A0%B8%E9%B1%BC%E9%9B%B7%E7%AD%89%E8%A3%85%E5%A4%87+%E9%9F%A9%E5%AA%92%E6%83%8A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [日本学生害怕被AI取代而自杀](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%AD%A6%E7%94%9F%E5%AE%B3%E6%80%95%E8%A2%ABAI%E5%8F%96%E4%BB%A3%E8%80%8C%E8%87%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [皇马“侮辱性”价格报价姆巴佩](https://www.baidu.com/s?wd=%E7%9A%87%E9%A9%AC%E2%80%9C%E4%BE%AE%E8%BE%B1%E6%80%A7%E2%80%9D%E4%BB%B7%E6%A0%BC%E6%8A%A5%E4%BB%B7%E5%A7%86%E5%B7%B4%E4%BD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [雷雨天这些“陷阱”要避开](https://www.baidu.com/s?wd=%E9%9B%B7%E9%9B%A8%E5%A4%A9%E8%BF%99%E4%BA%9B%E2%80%9C%E9%99%B7%E9%98%B1%E2%80%9D%E8%A6%81%E9%81%BF%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [花花洗澡全国人民都知道了](https://www.baidu.com/s?wd=%E8%8A%B1%E8%8A%B1%E6%B4%97%E6%BE%A1%E5%85%A8%E5%9B%BD%E4%BA%BA%E6%B0%91%E9%83%BD%E7%9F%A5%E9%81%93%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [王健林动荡30天](https://www.baidu.com/s?wd=%E7%8E%8B%E5%81%A5%E6%9E%97%E5%8A%A8%E8%8D%A130%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [日本学生害怕被AI取代而自杀](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%AD%A6%E7%94%9F%E5%AE%B3%E6%80%95%E8%A2%ABAI%E5%8F%96%E4%BB%A3%E8%80%8C%E8%87%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [朝鲜亮出核鱼雷等装备 韩媒惊了](https://www.baidu.com/s?wd=%E6%9C%9D%E9%B2%9C%E4%BA%AE%E5%87%BA%E6%A0%B8%E9%B1%BC%E9%9B%B7%E7%AD%89%E8%A3%85%E5%A4%87+%E9%9F%A9%E5%AA%92%E6%83%8A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [朝鲜亮出核鱼雷等装备 韩媒惊了](https://www.baidu.com/s?wd=%E6%9C%9D%E9%B2%9C%E4%BA%AE%E5%87%BA%E6%A0%B8%E9%B1%BC%E9%9B%B7%E7%AD%89%E8%A3%85%E5%A4%87+%E9%9F%A9%E5%AA%92%E6%83%8A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [日本学生害怕被AI取代而自杀](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%AD%A6%E7%94%9F%E5%AE%B3%E6%80%95%E8%A2%ABAI%E5%8F%96%E4%BB%A3%E8%80%8C%E8%87%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [皇马“侮辱性”价格报价姆巴佩](https://www.baidu.com/s?wd=%E7%9A%87%E9%A9%AC%E2%80%9C%E4%BE%AE%E8%BE%B1%E6%80%A7%E2%80%9D%E4%BB%B7%E6%A0%BC%E6%8A%A5%E4%BB%B7%E5%A7%86%E5%B7%B4%E4%BD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
