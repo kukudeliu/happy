@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-01 07:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-01 07:46:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [云南地震](https://s.weibo.com/weibo?q=%E4%BA%91%E5%8D%97%E5%9C%B0%E9%9C%87&t=31&band_rank=6&Refer=top)<br />
 7. [去年砸1600万开影院的男子怎样了](https://s.weibo.com/weibo?q=%23%E5%8E%BB%E5%B9%B4%E7%A0%B81600%E4%B8%87%E5%BC%80%E5%BD%B1%E9%99%A2%E7%9A%84%E7%94%B7%E5%AD%90%E6%80%8E%E6%A0%B7%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [故宫辟谣600年不积水](https://s.weibo.com/weibo?q=%23%E6%95%85%E5%AE%AB%E8%BE%9F%E8%B0%A3600%E5%B9%B4%E4%B8%8D%E7%A7%AF%E6%B0%B4%23&t=31&band_rank=8&Refer=top)<br />
-9. [妲己封神第二部造型](https://s.weibo.com/weibo?q=%23%E5%A6%B2%E5%B7%B1%E5%B0%81%E7%A5%9E%E7%AC%AC%E4%BA%8C%E9%83%A8%E9%80%A0%E5%9E%8B%23&t=31&band_rank=9&Refer=top)<br />
+9. [北师大教授评黄渤王一博电影热烈](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%B8%88%E5%A4%A7%E6%95%99%E6%8E%88%E8%AF%84%E9%BB%84%E6%B8%A4%E7%8E%8B%E4%B8%80%E5%8D%9A%E7%94%B5%E5%BD%B1%E7%83%AD%E7%83%88%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
