@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-07-31 14:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-07-31 14:15:01</h4></div>
 
 > 微博  
 
-1. [全面落实带薪休假制度](https://s.weibo.com/weibo?q=%23%E5%85%A8%E9%9D%A2%E8%90%BD%E5%AE%9E%E5%B8%A6%E8%96%AA%E4%BC%91%E5%81%87%E5%88%B6%E5%BA%A6%23&t=31&band_rank=1&Refer=top)<br />
-2. [青簪行](https://s.weibo.com/weibo?q=%E9%9D%92%E7%B0%AA%E8%A1%8C&t=31&band_rank=2&Refer=top)<br />
+1. [青簪行](https://s.weibo.com/weibo?q=%E9%9D%92%E7%B0%AA%E8%A1%8C&t=31&band_rank=1&Refer=top)<br />
+2. [全面落实带薪休假制度](https://s.weibo.com/weibo?q=%23%E5%85%A8%E9%9D%A2%E8%90%BD%E5%AE%9E%E5%B8%A6%E8%96%AA%E4%BC%91%E5%81%87%E5%88%B6%E5%BA%A6%23&t=31&band_rank=2&Refer=top)<br />
 3. [成都大运会精彩瞬间](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%A4%A7%E8%BF%90%E4%BC%9A%E7%B2%BE%E5%BD%A9%E7%9E%AC%E9%97%B4%23&t=31&band_rank=3&Refer=top)<br />
 4. [门头沟暴雨](https://s.weibo.com/weibo?q=%E9%97%A8%E5%A4%B4%E6%B2%9F%E6%9A%B4%E9%9B%A8&t=31&band_rank=4&Refer=top)<br />
 5. [张一山说杨紫从小就很漂亮](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%B8%80%E5%B1%B1%E8%AF%B4%E6%9D%A8%E7%B4%AB%E4%BB%8E%E5%B0%8F%E5%B0%B1%E5%BE%88%E6%BC%82%E4%BA%AE%23&t=31&band_rank=5&Refer=top)<br />
 6. [刘维分享微信恢复教程](https://s.weibo.com/weibo?q=%23%E5%88%98%E7%BB%B4%E5%88%86%E4%BA%AB%E5%BE%AE%E4%BF%A1%E6%81%A2%E5%A4%8D%E6%95%99%E7%A8%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [北京升级发布洪水红色预警](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%8D%87%E7%BA%A7%E5%8F%91%E5%B8%83%E6%B4%AA%E6%B0%B4%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6%23&t=31&band_rank=7&Refer=top)<br />
-8. [周迅两张A4纸台词不看提词器](https://s.weibo.com/weibo?q=%23%E5%91%A8%E8%BF%85%E4%B8%A4%E5%BC%A0A4%E7%BA%B8%E5%8F%B0%E8%AF%8D%E4%B8%8D%E7%9C%8B%E6%8F%90%E8%AF%8D%E5%99%A8%23&t=31&band_rank=8&Refer=top)<br />
-9. [k396](https://s.weibo.com/weibo?q=k396&t=31&band_rank=9&Refer=top)<br />
+8. [k396](https://s.weibo.com/weibo?q=k396&t=31&band_rank=8&Refer=top)<br />
+9. [房子租了大半年才发现有空调](https://s.weibo.com/weibo?q=%23%E6%88%BF%E5%AD%90%E7%A7%9F%E4%BA%86%E5%A4%A7%E5%8D%8A%E5%B9%B4%E6%89%8D%E5%8F%91%E7%8E%B0%E6%9C%89%E7%A9%BA%E8%B0%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
