@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-02 07:33:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-02 07:34:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [苏翊鸣晒清华大学录取通知书](https://www.baidu.com/s?wd=%E8%8B%8F%E7%BF%8A%E9%B8%A3%E6%99%92%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [俄罗斯素食主义网红去世](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E7%B4%A0%E9%A3%9F%E4%B8%BB%E4%B9%89%E7%BD%91%E7%BA%A2%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [洪水穿过物流重镇 图书库房损失过亿](https://www.baidu.com/s?wd=%E6%B4%AA%E6%B0%B4%E7%A9%BF%E8%BF%87%E7%89%A9%E6%B5%81%E9%87%8D%E9%95%87+%E5%9B%BE%E4%B9%A6%E5%BA%93%E6%88%BF%E6%8D%9F%E5%A4%B1%E8%BF%87%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [王霜赛后哽咽：我们不是好榜样](https://www.baidu.com/s?wd=%E7%8E%8B%E9%9C%9C%E8%B5%9B%E5%90%8E%E5%93%BD%E5%92%BD%EF%BC%9A%E6%88%91%E4%BB%AC%E4%B8%8D%E6%98%AF%E5%A5%BD%E6%A6%9C%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [北京消防员冯振在抢险救灾中牺牲](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E6%B6%88%E9%98%B2%E5%91%98%E5%86%AF%E6%8C%AF%E5%9C%A8%E6%8A%A2%E9%99%A9%E6%95%91%E7%81%BE%E4%B8%AD%E7%89%BA%E7%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [苏翊鸣晒清华大学录取通知书](https://www.baidu.com/s?wd=%E8%8B%8F%E7%BF%8A%E9%B8%A3%E6%99%92%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [俄罗斯素食主义网红去世](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E7%B4%A0%E9%A3%9F%E4%B8%BB%E4%B9%89%E7%BD%91%E7%BA%A2%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [洪水穿过物流重镇 图书库房损失过亿](https://www.baidu.com/s?wd=%E6%B4%AA%E6%B0%B4%E7%A9%BF%E8%BF%87%E7%89%A9%E6%B5%81%E9%87%8D%E9%95%87+%E5%9B%BE%E4%B9%A6%E5%BA%93%E6%88%BF%E6%8D%9F%E5%A4%B1%E8%BF%87%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [王霜赛后哽咽：我们不是好榜样](https://www.baidu.com/s?wd=%E7%8E%8B%E9%9C%9C%E8%B5%9B%E5%90%8E%E5%93%BD%E5%92%BD%EF%BC%9A%E6%88%91%E4%BB%AC%E4%B8%8D%E6%98%AF%E5%A5%BD%E6%A6%9C%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [北京消防员冯振在抢险救灾中牺牲](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E6%B6%88%E9%98%B2%E5%91%98%E5%86%AF%E6%8C%AF%E5%9C%A8%E6%8A%A2%E9%99%A9%E6%95%91%E7%81%BE%E4%B8%AD%E7%89%BA%E7%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
