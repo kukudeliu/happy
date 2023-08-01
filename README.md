@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-01 10:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-01 10:16:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [路温吐槽孟宴臣](https://s.weibo.com/weibo?q=%23%E8%B7%AF%E6%B8%A9%E5%90%90%E6%A7%BD%E5%AD%9F%E5%AE%B4%E8%87%A3%23&t=31&band_rank=5&Refer=top)<br />
 6. [李玟大殓出殡](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E5%A4%A7%E6%AE%93%E5%87%BA%E6%AE%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [杨立新杨玏封神真父子](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%AB%8B%E6%96%B0%E6%9D%A8%E7%8E%8F%E5%B0%81%E7%A5%9E%E7%9C%9F%E7%88%B6%E5%AD%90%23&t=31&band_rank=7&Refer=top)<br />
-8. [中彩票哪有不疯的](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%BD%A9%E7%A5%A8%E5%93%AA%E6%9C%89%E4%B8%8D%E7%96%AF%E7%9A%84%23&t=31&band_rank=8&Refer=top)<br />
+8. [时代少年团不官宣演唱会吗](https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E4%B8%8D%E5%AE%98%E5%AE%A3%E6%BC%94%E5%94%B1%E4%BC%9A%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
 9. [北京暴雨](https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E6%9A%B4%E9%9B%A8&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
