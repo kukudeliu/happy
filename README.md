@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-02 00:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-02 00:24:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [河北涿州急需大量船只转移群众](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8C%97%E6%B6%BF%E5%B7%9E%E6%80%A5%E9%9C%80%E5%A4%A7%E9%87%8F%E8%88%B9%E5%8F%AA%E8%BD%AC%E7%A7%BB%E7%BE%A4%E4%BC%97%23&t=31&band_rank=5&Refer=top)<br />
 6. [心动6三个男生都投给了女一](https://s.weibo.com/weibo?q=%23%E5%BF%83%E5%8A%A86%E4%B8%89%E4%B8%AA%E7%94%B7%E7%94%9F%E9%83%BD%E6%8A%95%E7%BB%99%E4%BA%86%E5%A5%B3%E4%B8%80%23&t=31&band_rank=6&Refer=top)<br />
 7. [黄灿灿演的防风意映](https://s.weibo.com/weibo?q=%E9%BB%84%E7%81%BF%E7%81%BF%E6%BC%94%E7%9A%84%E9%98%B2%E9%A3%8E%E6%84%8F%E6%98%A0&t=31&band_rank=7&Refer=top)<br />
-8. [刘畊宏给看完封神的老婆发的照片](https://s.weibo.com/weibo?q=%23%E5%88%98%E7%95%8A%E5%AE%8F%E7%BB%99%E7%9C%8B%E5%AE%8C%E5%B0%81%E7%A5%9E%E7%9A%84%E8%80%81%E5%A9%86%E5%8F%91%E7%9A%84%E7%85%A7%E7%89%87%23&t=31&band_rank=8&Refer=top)<br />
+8. [中图网库房被淹近百人被困](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BE%E7%BD%91%E5%BA%93%E6%88%BF%E8%A2%AB%E6%B7%B9%E8%BF%91%E7%99%BE%E4%BA%BA%E8%A2%AB%E5%9B%B0&t=31&band_rank=8&Refer=top)<br />
 9. [涂山璟说抱歉实在没忍住](https://s.weibo.com/weibo?q=%23%E6%B6%82%E5%B1%B1%E7%92%9F%E8%AF%B4%E6%8A%B1%E6%AD%89%E5%AE%9E%E5%9C%A8%E6%B2%A1%E5%BF%8D%E4%BD%8F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -25,7 +25,7 @@
 6. [网传宝能姚振华被多人围堵讨薪](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E5%AE%9D%E8%83%BD%E5%A7%9A%E6%8C%AF%E5%8D%8E%E8%A2%AB%E5%A4%9A%E4%BA%BA%E5%9B%B4%E5%A0%B5%E8%AE%A8%E8%96%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [英国鉴宝节目现中国龙袍](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E9%89%B4%E5%AE%9D%E8%8A%82%E7%9B%AE%E7%8E%B0%E4%B8%AD%E5%9B%BD%E9%BE%99%E8%A2%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [洪水穿过物流重镇 图书库房损失过亿](https://www.baidu.com/s?wd=%E6%B4%AA%E6%B0%B4%E7%A9%BF%E8%BF%87%E7%89%A9%E6%B5%81%E9%87%8D%E9%95%87+%E5%9B%BE%E4%B9%A6%E5%BA%93%E6%88%BF%E6%8D%9F%E5%A4%B1%E8%BF%87%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [北京消防员冯振在抢险救灾中牺牲](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E6%B6%88%E9%98%B2%E5%91%98%E5%86%AF%E6%8C%AF%E5%9C%A8%E6%8A%A2%E9%99%A9%E6%95%91%E7%81%BE%E4%B8%AD%E7%89%BA%E7%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [拜登政府第4位高官计划访华](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E6%94%BF%E5%BA%9C%E7%AC%AC4%E4%BD%8D%E9%AB%98%E5%AE%98%E8%AE%A1%E5%88%92%E8%AE%BF%E5%8D%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [网传宝能姚振华被多人围堵讨薪](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E5%AE%9D%E8%83%BD%E5%A7%9A%E6%8C%AF%E5%8D%8E%E8%A2%AB%E5%A4%9A%E4%BA%BA%E5%9B%B4%E5%A0%B5%E8%AE%A8%E8%96%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [英国鉴宝节目现中国龙袍](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E9%89%B4%E5%AE%9D%E8%8A%82%E7%9B%AE%E7%8E%B0%E4%B8%AD%E5%9B%BD%E9%BE%99%E8%A2%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [洪水穿过物流重镇 图书库房损失过亿](https://www.baidu.com/s?wd=%E6%B4%AA%E6%B0%B4%E7%A9%BF%E8%BF%87%E7%89%A9%E6%B5%81%E9%87%8D%E9%95%87+%E5%9B%BE%E4%B9%A6%E5%BA%93%E6%88%BF%E6%8D%9F%E5%A4%B1%E8%BF%87%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [北京消防员冯振在抢险救灾中牺牲](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E6%B6%88%E9%98%B2%E5%91%98%E5%86%AF%E6%8C%AF%E5%9C%A8%E6%8A%A2%E9%99%A9%E6%95%91%E7%81%BE%E4%B8%AD%E7%89%BA%E7%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [拜登政府第4位高官计划访华](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E6%94%BF%E5%BA%9C%E7%AC%AC4%E4%BD%8D%E9%AB%98%E5%AE%98%E8%AE%A1%E5%88%92%E8%AE%BF%E5%8D%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
