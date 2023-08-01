@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-01 10:53:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-01 10:54:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [姑娘想抄底买房结果一年亏百万](https://www.baidu.com/s?wd=%E5%A7%91%E5%A8%98%E6%83%B3%E6%8A%84%E5%BA%95%E4%B9%B0%E6%88%BF%E7%BB%93%E6%9E%9C%E4%B8%80%E5%B9%B4%E4%BA%8F%E7%99%BE%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李玟出殡仪式举行](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E5%87%BA%E6%AE%A1%E4%BB%AA%E5%BC%8F%E4%B8%BE%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [法国网红爬香港68楼天台后坠亡](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E7%BD%91%E7%BA%A2%E7%88%AC%E9%A6%99%E6%B8%AF68%E6%A5%BC%E5%A4%A9%E5%8F%B0%E5%90%8E%E5%9D%A0%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [官方通报公职人员被曝涉不雅聊天](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E8%A2%AB%E6%9B%9D%E6%B6%89%E4%B8%8D%E9%9B%85%E8%81%8A%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [K396等列车滞留旅客已转移安置](https://www.baidu.com/s?wd=K396%E7%AD%89%E5%88%97%E8%BD%A6%E6%BB%9E%E7%95%99%E6%97%85%E5%AE%A2%E5%B7%B2%E8%BD%AC%E7%A7%BB%E5%AE%89%E7%BD%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [姑娘想抄底买房结果一年亏百万](https://www.baidu.com/s?wd=%E5%A7%91%E5%A8%98%E6%83%B3%E6%8A%84%E5%BA%95%E4%B9%B0%E6%88%BF%E7%BB%93%E6%9E%9C%E4%B8%80%E5%B9%B4%E4%BA%8F%E7%99%BE%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李玟出殡仪式举行](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E5%87%BA%E6%AE%A1%E4%BB%AA%E5%BC%8F%E4%B8%BE%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [法国网红爬香港68楼天台后坠亡](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E7%BD%91%E7%BA%A2%E7%88%AC%E9%A6%99%E6%B8%AF68%E6%A5%BC%E5%A4%A9%E5%8F%B0%E5%90%8E%E5%9D%A0%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [官方通报公职人员被曝涉不雅聊天](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E8%A2%AB%E6%9B%9D%E6%B6%89%E4%B8%8D%E9%9B%85%E8%81%8A%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [K396等列车滞留旅客已转移安置](https://www.baidu.com/s?wd=K396%E7%AD%89%E5%88%97%E8%BD%A6%E6%BB%9E%E7%95%99%E6%97%85%E5%AE%A2%E5%B7%B2%E8%BD%AC%E7%A7%BB%E5%AE%89%E7%BD%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
