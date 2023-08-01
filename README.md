@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-01 10:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-01 10:17:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [李玟大殓出殡](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E5%A4%A7%E6%AE%93%E5%87%BA%E6%AE%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [杨立新杨玏封神真父子](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%AB%8B%E6%96%B0%E6%9D%A8%E7%8E%8F%E5%B0%81%E7%A5%9E%E7%9C%9F%E7%88%B6%E5%AD%90%23&t=31&band_rank=7&Refer=top)<br />
 8. [时代少年团不官宣演唱会吗](https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E4%B8%8D%E5%AE%98%E5%AE%A3%E6%BC%94%E5%94%B1%E4%BC%9A%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [北京暴雨](https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E6%9A%B4%E9%9B%A8&t=31&band_rank=9&Refer=top)<br />
+9. [北师大教授评黄渤王一博电影热烈](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%B8%88%E5%A4%A7%E6%95%99%E6%8E%88%E8%AF%84%E9%BB%84%E6%B8%A4%E7%8E%8B%E4%B8%80%E5%8D%9A%E7%94%B5%E5%BD%B1%E7%83%AD%E7%83%88%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
