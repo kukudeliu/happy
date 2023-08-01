@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-02 05:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-02 05:25:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [感谢老天送我一个情绪稳定的女儿](https://s.weibo.com/weibo?q=%E6%84%9F%E8%B0%A2%E8%80%81%E5%A4%A9%E9%80%81%E6%88%91%E4%B8%80%E4%B8%AA%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A%E7%9A%84%E5%A5%B3%E5%84%BF&t=31&band_rank=6&Refer=top)<br />
 7. [起猛了没想到相差46岁的友谊这么治愈](https://s.weibo.com/weibo?q=%23%E8%B5%B7%E7%8C%9B%E4%BA%86%E6%B2%A1%E6%83%B3%E5%88%B0%E7%9B%B8%E5%B7%AE46%E5%B2%81%E7%9A%84%E5%8F%8B%E8%B0%8A%E8%BF%99%E4%B9%88%E6%B2%BB%E6%84%88%23&t=31&band_rank=7&Refer=top)<br />
 8. [王霜 我们不是特别好的榜样](https://s.weibo.com/weibo?q=%E7%8E%8B%E9%9C%9C%20%E6%88%91%E4%BB%AC%E4%B8%8D%E6%98%AF%E7%89%B9%E5%88%AB%E5%A5%BD%E7%9A%84%E6%A6%9C%E6%A0%B7&t=31&band_rank=8&Refer=top)<br />
-9. [常温超导](https://s.weibo.com/weibo?q=%E5%B8%B8%E6%B8%A9%E8%B6%85%E5%AF%BC&t=31&band_rank=9&Refer=top)<br />
+9. [10岁女童来京探亲被水冲走](https://s.weibo.com/weibo?q=%2310%E5%B2%81%E5%A5%B3%E7%AB%A5%E6%9D%A5%E4%BA%AC%E6%8E%A2%E4%BA%B2%E8%A2%AB%E6%B0%B4%E5%86%B2%E8%B5%B0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
