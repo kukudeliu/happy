@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-02 02:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-02 02:09:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [女生抄底买二手房 一年多亏了100万](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E6%8A%84%E5%BA%95%E4%B9%B0%E4%BA%8C%E6%89%8B%E6%88%BF+%E4%B8%80%E5%B9%B4%E5%A4%9A%E4%BA%8F%E4%BA%86100%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [超强台风“卡努”会影响京津冀吗](https://www.baidu.com/s?wd=%E8%B6%85%E5%BC%BA%E5%8F%B0%E9%A3%8E%E2%80%9C%E5%8D%A1%E5%8A%AA%E2%80%9D%E4%BC%9A%E5%BD%B1%E5%93%8D%E4%BA%AC%E6%B4%A5%E5%86%80%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [洪水穿过物流重镇 图书库房损失过亿](https://www.baidu.com/s?wd=%E6%B4%AA%E6%B0%B4%E7%A9%BF%E8%BF%87%E7%89%A9%E6%B5%81%E9%87%8D%E9%95%87+%E5%9B%BE%E4%B9%A6%E5%BA%93%E6%88%BF%E6%8D%9F%E5%A4%B1%E8%BF%87%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [多地多部门约谈网约车平台 发生了啥](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%A4%9A%E9%83%A8%E9%97%A8%E7%BA%A6%E8%B0%88%E7%BD%91%E7%BA%A6%E8%BD%A6%E5%B9%B3%E5%8F%B0+%E5%8F%91%E7%94%9F%E4%BA%86%E5%95%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [莫斯科一商业大厦被无人机撞击](https://www.baidu.com/s?wd=%E8%8E%AB%E6%96%AF%E7%A7%91%E4%B8%80%E5%95%86%E4%B8%9A%E5%A4%A7%E5%8E%A6%E8%A2%AB%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%92%9E%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [女生抄底买二手房 一年多亏了100万](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E6%8A%84%E5%BA%95%E4%B9%B0%E4%BA%8C%E6%89%8B%E6%88%BF+%E4%B8%80%E5%B9%B4%E5%A4%9A%E4%BA%8F%E4%BA%86100%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [超强台风“卡努”会影响京津冀吗](https://www.baidu.com/s?wd=%E8%B6%85%E5%BC%BA%E5%8F%B0%E9%A3%8E%E2%80%9C%E5%8D%A1%E5%8A%AA%E2%80%9D%E4%BC%9A%E5%BD%B1%E5%93%8D%E4%BA%AC%E6%B4%A5%E5%86%80%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [洪水穿过物流重镇 图书库房损失过亿](https://www.baidu.com/s?wd=%E6%B4%AA%E6%B0%B4%E7%A9%BF%E8%BF%87%E7%89%A9%E6%B5%81%E9%87%8D%E9%95%87+%E5%9B%BE%E4%B9%A6%E5%BA%93%E6%88%BF%E6%8D%9F%E5%A4%B1%E8%BF%87%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [多地多部门约谈网约车平台 发生了啥](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%A4%9A%E9%83%A8%E9%97%A8%E7%BA%A6%E8%B0%88%E7%BD%91%E7%BA%A6%E8%BD%A6%E5%B9%B3%E5%8F%B0+%E5%8F%91%E7%94%9F%E4%BA%86%E5%95%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [莫斯科一商业大厦被无人机撞击](https://www.baidu.com/s?wd=%E8%8E%AB%E6%96%AF%E7%A7%91%E4%B8%80%E5%95%86%E4%B8%9A%E5%A4%A7%E5%8E%A6%E8%A2%AB%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%92%9E%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
