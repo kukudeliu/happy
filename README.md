@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-01 13:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-01 13:29:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [李玟大殓出殡](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E5%A4%A7%E6%AE%93%E5%87%BA%E6%AE%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [工作人员称涿州救援难度大](https://s.weibo.com/weibo?q=%23%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E7%A7%B0%E6%B6%BF%E5%B7%9E%E6%95%91%E6%8F%B4%E9%9A%BE%E5%BA%A6%E5%A4%A7%23&t=31&band_rank=7&Refer=top)<br />
 8. [北京2人在抢险救灾中因公殉职](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC2%E4%BA%BA%E5%9C%A8%E6%8A%A2%E9%99%A9%E6%95%91%E7%81%BE%E4%B8%AD%E5%9B%A0%E5%85%AC%E6%AE%89%E8%81%8C%23&t=31&band_rank=8&Refer=top)<br />
-9. [路温吐槽孟宴臣](https://s.weibo.com/weibo?q=%23%E8%B7%AF%E6%B8%A9%E5%90%90%E6%A7%BD%E5%AD%9F%E5%AE%B4%E8%87%A3%23&t=31&band_rank=9&Refer=top)<br />
+9. [吴京烤串一看就没少练](https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%AC%E7%83%A4%E4%B8%B2%E4%B8%80%E7%9C%8B%E5%B0%B1%E6%B2%A1%E5%B0%91%E7%BB%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -25,7 +25,7 @@
 6. [超强台风“卡努”会影响京津冀吗](https://www.baidu.com/s?wd=%E8%B6%85%E5%BC%BA%E5%8F%B0%E9%A3%8E%E2%80%9C%E5%8D%A1%E5%8A%AA%E2%80%9D%E4%BC%9A%E5%BD%B1%E5%93%8D%E4%BA%AC%E6%B4%A5%E5%86%80%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [网友用AI还原吃菌子中毒后的世界](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%94%A8AI%E8%BF%98%E5%8E%9F%E5%90%83%E8%8F%8C%E5%AD%90%E4%B8%AD%E6%AF%92%E5%90%8E%E7%9A%84%E4%B8%96%E7%95%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [美对台提供超3亿美元军援 中方回应](https://www.baidu.com/s?wd=%E7%BE%8E%E5%AF%B9%E5%8F%B0%E6%8F%90%E4%BE%9B%E8%B6%853%E4%BA%BF%E7%BE%8E%E5%85%83%E5%86%9B%E6%8F%B4+%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [小伙离奇失踪半月 自称被仙人选中](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E7%A6%BB%E5%A5%87%E5%A4%B1%E8%B8%AA%E5%8D%8A%E6%9C%88+%E8%87%AA%E7%A7%B0%E8%A2%AB%E4%BB%99%E4%BA%BA%E9%80%89%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [法国网红爬香港68楼天台后坠亡](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E7%BD%91%E7%BA%A2%E7%88%AC%E9%A6%99%E6%B8%AF68%E6%A5%BC%E5%A4%A9%E5%8F%B0%E5%90%8E%E5%9D%A0%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [超强台风“卡努”会影响京津冀吗](https://www.baidu.com/s?wd=%E8%B6%85%E5%BC%BA%E5%8F%B0%E9%A3%8E%E2%80%9C%E5%8D%A1%E5%8A%AA%E2%80%9D%E4%BC%9A%E5%BD%B1%E5%93%8D%E4%BA%AC%E6%B4%A5%E5%86%80%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [网友用AI还原吃菌子中毒后的世界](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%94%A8AI%E8%BF%98%E5%8E%9F%E5%90%83%E8%8F%8C%E5%AD%90%E4%B8%AD%E6%AF%92%E5%90%8E%E7%9A%84%E4%B8%96%E7%95%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [美对台提供超3亿美元军援 中方回应](https://www.baidu.com/s?wd=%E7%BE%8E%E5%AF%B9%E5%8F%B0%E6%8F%90%E4%BE%9B%E8%B6%853%E4%BA%BF%E7%BE%8E%E5%85%83%E5%86%9B%E6%8F%B4+%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [小伙离奇失踪半月 自称被仙人选中](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E7%A6%BB%E5%A5%87%E5%A4%B1%E8%B8%AA%E5%8D%8A%E6%9C%88+%E8%87%AA%E7%A7%B0%E8%A2%AB%E4%BB%99%E4%BA%BA%E9%80%89%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [法国网红爬香港68楼天台后坠亡](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E7%BD%91%E7%BA%A2%E7%88%AC%E9%A6%99%E6%B8%AF68%E6%A5%BC%E5%A4%A9%E5%8F%B0%E5%90%8E%E5%9D%A0%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
