@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-01 09:41:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-01 09:42:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [长相思群演的工资](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D%E7%BE%A4%E6%BC%94%E7%9A%84%E5%B7%A5%E8%B5%84%23&t=31&band_rank=4&Refer=top)<br />
 5. [李玟大殓出殡](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E5%A4%A7%E6%AE%93%E5%87%BA%E6%AE%A1%23&t=31&band_rank=5&Refer=top)<br />
 6. [北京暴雨](https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E6%9A%B4%E9%9B%A8&t=31&band_rank=6&Refer=top)<br />
-7. [北师大教授评黄渤王一博电影热烈](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%B8%88%E5%A4%A7%E6%95%99%E6%8E%88%E8%AF%84%E9%BB%84%E6%B8%A4%E7%8E%8B%E4%B8%80%E5%8D%9A%E7%94%B5%E5%BD%B1%E7%83%AD%E7%83%88%23&t=31&band_rank=7&Refer=top)<br />
-8. [台风卡努或将转向](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E5%8D%A1%E5%8A%AA%E6%88%96%E5%B0%86%E8%BD%AC%E5%90%91%23&t=31&band_rank=8&Refer=top)<br />
+7. [台风卡努或将转向](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E5%8D%A1%E5%8A%AA%E6%88%96%E5%B0%86%E8%BD%AC%E5%90%91%23&t=31&band_rank=7&Refer=top)<br />
+8. [北师大教授评黄渤王一博电影热烈](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%B8%88%E5%A4%A7%E6%95%99%E6%8E%88%E8%AF%84%E9%BB%84%E6%B8%A4%E7%8E%8B%E4%B8%80%E5%8D%9A%E7%94%B5%E5%BD%B1%E7%83%AD%E7%83%88%23&t=31&band_rank=8&Refer=top)<br />
 9. [故宫辟谣600年不积水](https://s.weibo.com/weibo?q=%23%E6%95%85%E5%AE%AB%E8%BE%9F%E8%B0%A3600%E5%B9%B4%E4%B8%8D%E7%A7%AF%E6%B0%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
