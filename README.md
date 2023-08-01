@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-02 04:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-02 04:39:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [英国鉴宝节目现中国龙袍](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E9%89%B4%E5%AE%9D%E8%8A%82%E7%9B%AE%E7%8E%B0%E4%B8%AD%E5%9B%BD%E9%BE%99%E8%A2%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [北京首次用98年建成的滞洪水库蓄洪](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E9%A6%96%E6%AC%A1%E7%94%A898%E5%B9%B4%E5%BB%BA%E6%88%90%E7%9A%84%E6%BB%9E%E6%B4%AA%E6%B0%B4%E5%BA%93%E8%93%84%E6%B4%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [洪水穿过物流重镇 图书库房损失过亿](https://www.baidu.com/s?wd=%E6%B4%AA%E6%B0%B4%E7%A9%BF%E8%BF%87%E7%89%A9%E6%B5%81%E9%87%8D%E9%95%87+%E5%9B%BE%E4%B9%A6%E5%BA%93%E6%88%BF%E6%8D%9F%E5%A4%B1%E8%BF%87%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [官方通报公职人员被曝涉不雅聊天](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E8%A2%AB%E6%9B%9D%E6%B6%89%E4%B8%8D%E9%9B%85%E8%81%8A%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [小伙离奇失踪半月 自称被仙人选中](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E7%A6%BB%E5%A5%87%E5%A4%B1%E8%B8%AA%E5%8D%8A%E6%9C%88+%E8%87%AA%E7%A7%B0%E8%A2%AB%E4%BB%99%E4%BA%BA%E9%80%89%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [英国鉴宝节目现中国龙袍](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E9%89%B4%E5%AE%9D%E8%8A%82%E7%9B%AE%E7%8E%B0%E4%B8%AD%E5%9B%BD%E9%BE%99%E8%A2%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [北京首次用98年建成的滞洪水库蓄洪](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E9%A6%96%E6%AC%A1%E7%94%A898%E5%B9%B4%E5%BB%BA%E6%88%90%E7%9A%84%E6%BB%9E%E6%B4%AA%E6%B0%B4%E5%BA%93%E8%93%84%E6%B4%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [洪水穿过物流重镇 图书库房损失过亿](https://www.baidu.com/s?wd=%E6%B4%AA%E6%B0%B4%E7%A9%BF%E8%BF%87%E7%89%A9%E6%B5%81%E9%87%8D%E9%95%87+%E5%9B%BE%E4%B9%A6%E5%BA%93%E6%88%BF%E6%8D%9F%E5%A4%B1%E8%BF%87%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [官方通报公职人员被曝涉不雅聊天](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E8%A2%AB%E6%9B%9D%E6%B6%89%E4%B8%8D%E9%9B%85%E8%81%8A%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [小伙离奇失踪半月 自称被仙人选中](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E7%A6%BB%E5%A5%87%E5%A4%B1%E8%B8%AA%E5%8D%8A%E6%9C%88+%E8%87%AA%E7%A7%B0%E8%A2%AB%E4%BB%99%E4%BA%BA%E9%80%89%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
