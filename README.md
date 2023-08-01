@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-02 00:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-02 00:07:01</h4></div>
 
 > 微博  
 
@@ -23,9 +23,9 @@
 4. [暴雨天如何科学避险？](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E5%A4%A9%E5%A6%82%E4%BD%95%E7%A7%91%E5%AD%A6%E9%81%BF%E9%99%A9%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [卫星图像显示河北涿州灾情严重](https://www.baidu.com/s?wd=%E5%8D%AB%E6%98%9F%E5%9B%BE%E5%83%8F%E6%98%BE%E7%A4%BA%E6%B2%B3%E5%8C%97%E6%B6%BF%E5%B7%9E%E7%81%BE%E6%83%85%E4%B8%A5%E9%87%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [网传河北30名民警辅警被困 官方回应](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E6%B2%B3%E5%8C%9730%E5%90%8D%E6%B0%91%E8%AD%A6%E8%BE%85%E8%AD%A6%E8%A2%AB%E5%9B%B0+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [被问为何不去南非参会 普京回应](https://www.baidu.com/s?wd=%E8%A2%AB%E9%97%AE%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%8E%BB%E5%8D%97%E9%9D%9E%E5%8F%82%E4%BC%9A+%E6%99%AE%E4%BA%AC%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [王霜赛后哽咽：我们不是好榜样](https://www.baidu.com/s?wd=%E7%8E%8B%E9%9C%9C%E8%B5%9B%E5%90%8E%E5%93%BD%E5%92%BD%EF%BC%9A%E6%88%91%E4%BB%AC%E4%B8%8D%E6%98%AF%E5%A5%BD%E6%A6%9C%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [洪水穿过物流重镇 图书库房损失过亿](https://www.baidu.com/s?wd=%E6%B4%AA%E6%B0%B4%E7%A9%BF%E8%BF%87%E7%89%A9%E6%B5%81%E9%87%8D%E9%95%87+%E5%9B%BE%E4%B9%A6%E5%BA%93%E6%88%BF%E6%8D%9F%E5%A4%B1%E8%BF%87%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [王霜赛后哽咽：我们不是好榜样](https://www.baidu.com/s?wd=%E7%8E%8B%E9%9C%9C%E8%B5%9B%E5%90%8E%E5%93%BD%E5%92%BD%EF%BC%9A%E6%88%91%E4%BB%AC%E4%B8%8D%E6%98%AF%E5%A5%BD%E6%A6%9C%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [K396脱困乘客：走铁路钻树林9小时](https://www.baidu.com/s?wd=K396%E8%84%B1%E5%9B%B0%E4%B9%98%E5%AE%A2%EF%BC%9A%E8%B5%B0%E9%93%81%E8%B7%AF%E9%92%BB%E6%A0%91%E6%9E%979%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -35,6 +35,6 @@
 4. [暴雨天如何科学避险？](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E5%A4%A9%E5%A6%82%E4%BD%95%E7%A7%91%E5%AD%A6%E9%81%BF%E9%99%A9%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [卫星图像显示河北涿州灾情严重](https://www.baidu.com/s?wd=%E5%8D%AB%E6%98%9F%E5%9B%BE%E5%83%8F%E6%98%BE%E7%A4%BA%E6%B2%B3%E5%8C%97%E6%B6%BF%E5%B7%9E%E7%81%BE%E6%83%85%E4%B8%A5%E9%87%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [网传河北30名民警辅警被困 官方回应](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E6%B2%B3%E5%8C%9730%E5%90%8D%E6%B0%91%E8%AD%A6%E8%BE%85%E8%AD%A6%E8%A2%AB%E5%9B%B0+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [被问为何不去南非参会 普京回应](https://www.baidu.com/s?wd=%E8%A2%AB%E9%97%AE%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%8E%BB%E5%8D%97%E9%9D%9E%E5%8F%82%E4%BC%9A+%E6%99%AE%E4%BA%AC%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [王霜赛后哽咽：我们不是好榜样](https://www.baidu.com/s?wd=%E7%8E%8B%E9%9C%9C%E8%B5%9B%E5%90%8E%E5%93%BD%E5%92%BD%EF%BC%9A%E6%88%91%E4%BB%AC%E4%B8%8D%E6%98%AF%E5%A5%BD%E6%A6%9C%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [洪水穿过物流重镇 图书库房损失过亿](https://www.baidu.com/s?wd=%E6%B4%AA%E6%B0%B4%E7%A9%BF%E8%BF%87%E7%89%A9%E6%B5%81%E9%87%8D%E9%95%87+%E5%9B%BE%E4%B9%A6%E5%BA%93%E6%88%BF%E6%8D%9F%E5%A4%B1%E8%BF%87%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [王霜赛后哽咽：我们不是好榜样](https://www.baidu.com/s?wd=%E7%8E%8B%E9%9C%9C%E8%B5%9B%E5%90%8E%E5%93%BD%E5%92%BD%EF%BC%9A%E6%88%91%E4%BB%AC%E4%B8%8D%E6%98%AF%E5%A5%BD%E6%A6%9C%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [K396脱困乘客：走铁路钻树林9小时](https://www.baidu.com/s?wd=K396%E8%84%B1%E5%9B%B0%E4%B9%98%E5%AE%A2%EF%BC%9A%E8%B5%B0%E9%93%81%E8%B7%AF%E9%92%BB%E6%A0%91%E6%9E%979%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
