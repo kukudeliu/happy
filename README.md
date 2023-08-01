@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-02 01:33:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-02 01:34:01</h4></div>
 
 > 微博  
 
@@ -23,9 +23,9 @@
 4. [暴雨天如何科学避险？](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E5%A4%A9%E5%A6%82%E4%BD%95%E7%A7%91%E5%AD%A6%E9%81%BF%E9%99%A9%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [卫星图像显示河北涿州灾情严重](https://www.baidu.com/s?wd=%E5%8D%AB%E6%98%9F%E5%9B%BE%E5%83%8F%E6%98%BE%E7%A4%BA%E6%B2%B3%E5%8C%97%E6%B6%BF%E5%B7%9E%E7%81%BE%E6%83%85%E4%B8%A5%E9%87%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [韩国：芯片7月出口额同比下滑34%](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%EF%BC%9A%E8%8A%AF%E7%89%877%E6%9C%88%E5%87%BA%E5%8F%A3%E9%A2%9D%E5%90%8C%E6%AF%94%E4%B8%8B%E6%BB%9134%25&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [北京消防员冯振在抢险救灾中牺牲](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E6%B6%88%E9%98%B2%E5%91%98%E5%86%AF%E6%8C%AF%E5%9C%A8%E6%8A%A2%E9%99%A9%E6%95%91%E7%81%BE%E4%B8%AD%E7%89%BA%E7%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [第二架C919明起投入商业运营](https://www.baidu.com/s?wd=%E7%AC%AC%E4%BA%8C%E6%9E%B6C919%E6%98%8E%E8%B5%B7%E6%8A%95%E5%85%A5%E5%95%86%E4%B8%9A%E8%BF%90%E8%90%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [洪水穿过物流重镇 图书库房损失过亿](https://www.baidu.com/s?wd=%E6%B4%AA%E6%B0%B4%E7%A9%BF%E8%BF%87%E7%89%A9%E6%B5%81%E9%87%8D%E9%95%87+%E5%9B%BE%E4%B9%A6%E5%BA%93%E6%88%BF%E6%8D%9F%E5%A4%B1%E8%BF%87%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [网传宝能姚振华被多人围堵讨薪](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E5%AE%9D%E8%83%BD%E5%A7%9A%E6%8C%AF%E5%8D%8E%E8%A2%AB%E5%A4%9A%E4%BA%BA%E5%9B%B4%E5%A0%B5%E8%AE%A8%E8%96%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [北京消防员冯振在抢险救灾中牺牲](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E6%B6%88%E9%98%B2%E5%91%98%E5%86%AF%E6%8C%AF%E5%9C%A8%E6%8A%A2%E9%99%A9%E6%95%91%E7%81%BE%E4%B8%AD%E7%89%BA%E7%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -35,6 +35,6 @@
 4. [暴雨天如何科学避险？](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E5%A4%A9%E5%A6%82%E4%BD%95%E7%A7%91%E5%AD%A6%E9%81%BF%E9%99%A9%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [卫星图像显示河北涿州灾情严重](https://www.baidu.com/s?wd=%E5%8D%AB%E6%98%9F%E5%9B%BE%E5%83%8F%E6%98%BE%E7%A4%BA%E6%B2%B3%E5%8C%97%E6%B6%BF%E5%B7%9E%E7%81%BE%E6%83%85%E4%B8%A5%E9%87%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [韩国：芯片7月出口额同比下滑34%](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%EF%BC%9A%E8%8A%AF%E7%89%877%E6%9C%88%E5%87%BA%E5%8F%A3%E9%A2%9D%E5%90%8C%E6%AF%94%E4%B8%8B%E6%BB%9134%25&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [北京消防员冯振在抢险救灾中牺牲](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E6%B6%88%E9%98%B2%E5%91%98%E5%86%AF%E6%8C%AF%E5%9C%A8%E6%8A%A2%E9%99%A9%E6%95%91%E7%81%BE%E4%B8%AD%E7%89%BA%E7%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [第二架C919明起投入商业运营](https://www.baidu.com/s?wd=%E7%AC%AC%E4%BA%8C%E6%9E%B6C919%E6%98%8E%E8%B5%B7%E6%8A%95%E5%85%A5%E5%95%86%E4%B8%9A%E8%BF%90%E8%90%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [洪水穿过物流重镇 图书库房损失过亿](https://www.baidu.com/s?wd=%E6%B4%AA%E6%B0%B4%E7%A9%BF%E8%BF%87%E7%89%A9%E6%B5%81%E9%87%8D%E9%95%87+%E5%9B%BE%E4%B9%A6%E5%BA%93%E6%88%BF%E6%8D%9F%E5%A4%B1%E8%BF%87%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [网传宝能姚振华被多人围堵讨薪](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E5%AE%9D%E8%83%BD%E5%A7%9A%E6%8C%AF%E5%8D%8E%E8%A2%AB%E5%A4%9A%E4%BA%BA%E5%9B%B4%E5%A0%B5%E8%AE%A8%E8%96%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [北京消防员冯振在抢险救灾中牺牲](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E6%B6%88%E9%98%B2%E5%91%98%E5%86%AF%E6%8C%AF%E5%9C%A8%E6%8A%A2%E9%99%A9%E6%95%91%E7%81%BE%E4%B8%AD%E7%89%BA%E7%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
