@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-01 13:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-01 13:19:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [超强台风“卡努”会影响京津冀吗](https://www.baidu.com/s?wd=%E8%B6%85%E5%BC%BA%E5%8F%B0%E9%A3%8E%E2%80%9C%E5%8D%A1%E5%8A%AA%E2%80%9D%E4%BC%9A%E5%BD%B1%E5%93%8D%E4%BA%AC%E6%B4%A5%E5%86%80%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [网友用AI还原吃菌子中毒后的世界](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%94%A8AI%E8%BF%98%E5%8E%9F%E5%90%83%E8%8F%8C%E5%AD%90%E4%B8%AD%E6%AF%92%E5%90%8E%E7%9A%84%E4%B8%96%E7%95%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [小伙离奇失踪半月 自称被仙人选中](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E7%A6%BB%E5%A5%87%E5%A4%B1%E8%B8%AA%E5%8D%8A%E6%9C%88+%E8%87%AA%E7%A7%B0%E8%A2%AB%E4%BB%99%E4%BA%BA%E9%80%89%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [媒体：京东欲全资收购永辉](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E4%BA%AC%E4%B8%9C%E6%AC%B2%E5%85%A8%E8%B5%84%E6%94%B6%E8%B4%AD%E6%B0%B8%E8%BE%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [法国网红爬香港68楼天台后坠亡](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E7%BD%91%E7%BA%A2%E7%88%AC%E9%A6%99%E6%B8%AF68%E6%A5%BC%E5%A4%A9%E5%8F%B0%E5%90%8E%E5%9D%A0%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [超强台风“卡努”会影响京津冀吗](https://www.baidu.com/s?wd=%E8%B6%85%E5%BC%BA%E5%8F%B0%E9%A3%8E%E2%80%9C%E5%8D%A1%E5%8A%AA%E2%80%9D%E4%BC%9A%E5%BD%B1%E5%93%8D%E4%BA%AC%E6%B4%A5%E5%86%80%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [网友用AI还原吃菌子中毒后的世界](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%94%A8AI%E8%BF%98%E5%8E%9F%E5%90%83%E8%8F%8C%E5%AD%90%E4%B8%AD%E6%AF%92%E5%90%8E%E7%9A%84%E4%B8%96%E7%95%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [小伙离奇失踪半月 自称被仙人选中](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E7%A6%BB%E5%A5%87%E5%A4%B1%E8%B8%AA%E5%8D%8A%E6%9C%88+%E8%87%AA%E7%A7%B0%E8%A2%AB%E4%BB%99%E4%BA%BA%E9%80%89%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [媒体：京东欲全资收购永辉](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E4%BA%AC%E4%B8%9C%E6%AC%B2%E5%85%A8%E8%B5%84%E6%94%B6%E8%B4%AD%E6%B0%B8%E8%BE%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [法国网红爬香港68楼天台后坠亡](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E7%BD%91%E7%BA%A2%E7%88%AC%E9%A6%99%E6%B8%AF68%E6%A5%BC%E5%A4%A9%E5%8F%B0%E5%90%8E%E5%9D%A0%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
