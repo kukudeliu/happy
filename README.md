@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-01 16:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-01 16:20:01</h4></div>
 
 > 微博  
 
-1. [北京强降雨14名失联人员确认安全](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%BC%BA%E9%99%8D%E9%9B%A814%E5%90%8D%E5%A4%B1%E8%81%94%E4%BA%BA%E5%91%98%E7%A1%AE%E8%AE%A4%E5%AE%89%E5%85%A8%23&t=31&band_rank=1&Refer=top)<br />
-2. [成都给花花出了个冰淇淋](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E7%BB%99%E8%8A%B1%E8%8A%B1%E5%87%BA%E4%BA%86%E4%B8%AA%E5%86%B0%E6%B7%87%E6%B7%8B%23&t=31&band_rank=2&Refer=top)<br />
+1. [成都给花花出了个冰淇淋](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E7%BB%99%E8%8A%B1%E8%8A%B1%E5%87%BA%E4%BA%86%E4%B8%AA%E5%86%B0%E6%B7%87%E6%B7%8B%23&t=31&band_rank=1&Refer=top)<br />
+2. [北京强降雨14名失联人员确认安全](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%BC%BA%E9%99%8D%E9%9B%A814%E5%90%8D%E5%A4%B1%E8%81%94%E4%BA%BA%E5%91%98%E7%A1%AE%E8%AE%A4%E5%AE%89%E5%85%A8%23&t=31&band_rank=2&Refer=top)<br />
 3. [致敬人民子弟兵](https://s.weibo.com/weibo?q=%23%E8%87%B4%E6%95%AC%E4%BA%BA%E6%B0%91%E5%AD%90%E5%BC%9F%E5%85%B5%23&t=31&band_rank=3&Refer=top)<br />
 4. [被CardiB扔话筒当事人已报案](https://s.weibo.com/weibo?q=%23%E8%A2%ABCardiB%E6%89%94%E8%AF%9D%E7%AD%92%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%B7%B2%E6%8A%A5%E6%A1%88%23&t=31&band_rank=4&Refer=top)<br />
 5. [恭迎大王姬回归](https://s.weibo.com/weibo?q=%23%E6%81%AD%E8%BF%8E%E5%A4%A7%E7%8E%8B%E5%A7%AC%E5%9B%9E%E5%BD%92%23&t=31&band_rank=5&Refer=top)<br />
