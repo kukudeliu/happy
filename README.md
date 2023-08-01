@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-02 00:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-02 00:15:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [英国鉴宝节目现中国龙袍](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E9%89%B4%E5%AE%9D%E8%8A%82%E7%9B%AE%E7%8E%B0%E4%B8%AD%E5%9B%BD%E9%BE%99%E8%A2%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [王霜赛后哽咽：我们不是好榜样](https://www.baidu.com/s?wd=%E7%8E%8B%E9%9C%9C%E8%B5%9B%E5%90%8E%E5%93%BD%E5%92%BD%EF%BC%9A%E6%88%91%E4%BB%AC%E4%B8%8D%E6%98%AF%E5%A5%BD%E6%A6%9C%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [洪水穿过物流重镇 图书库房损失过亿](https://www.baidu.com/s?wd=%E6%B4%AA%E6%B0%B4%E7%A9%BF%E8%BF%87%E7%89%A9%E6%B5%81%E9%87%8D%E9%95%87+%E5%9B%BE%E4%B9%A6%E5%BA%93%E6%88%BF%E6%8D%9F%E5%A4%B1%E8%BF%87%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [K396脱困乘客：走铁路钻树林9小时](https://www.baidu.com/s?wd=K396%E8%84%B1%E5%9B%B0%E4%B9%98%E5%AE%A2%EF%BC%9A%E8%B5%B0%E9%93%81%E8%B7%AF%E9%92%BB%E6%A0%91%E6%9E%979%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [焦点访谈曝光甘肃榆中搞面子工程](https://www.baidu.com/s?wd=%E7%84%A6%E7%82%B9%E8%AE%BF%E8%B0%88%E6%9B%9D%E5%85%89%E7%94%98%E8%82%83%E6%A6%86%E4%B8%AD%E6%90%9E%E9%9D%A2%E5%AD%90%E5%B7%A5%E7%A8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [英国鉴宝节目现中国龙袍](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E9%89%B4%E5%AE%9D%E8%8A%82%E7%9B%AE%E7%8E%B0%E4%B8%AD%E5%9B%BD%E9%BE%99%E8%A2%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [王霜赛后哽咽：我们不是好榜样](https://www.baidu.com/s?wd=%E7%8E%8B%E9%9C%9C%E8%B5%9B%E5%90%8E%E5%93%BD%E5%92%BD%EF%BC%9A%E6%88%91%E4%BB%AC%E4%B8%8D%E6%98%AF%E5%A5%BD%E6%A6%9C%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [洪水穿过物流重镇 图书库房损失过亿](https://www.baidu.com/s?wd=%E6%B4%AA%E6%B0%B4%E7%A9%BF%E8%BF%87%E7%89%A9%E6%B5%81%E9%87%8D%E9%95%87+%E5%9B%BE%E4%B9%A6%E5%BA%93%E6%88%BF%E6%8D%9F%E5%A4%B1%E8%BF%87%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [K396脱困乘客：走铁路钻树林9小时](https://www.baidu.com/s?wd=K396%E8%84%B1%E5%9B%B0%E4%B9%98%E5%AE%A2%EF%BC%9A%E8%B5%B0%E9%93%81%E8%B7%AF%E9%92%BB%E6%A0%91%E6%9E%979%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [焦点访谈曝光甘肃榆中搞面子工程](https://www.baidu.com/s?wd=%E7%84%A6%E7%82%B9%E8%AE%BF%E8%B0%88%E6%9B%9D%E5%85%89%E7%94%98%E8%82%83%E6%A6%86%E4%B8%AD%E6%90%9E%E9%9D%A2%E5%AD%90%E5%B7%A5%E7%A8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
