@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-01 11:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-01 11:34:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [李玟大殓出殡](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E5%A4%A7%E6%AE%93%E5%87%BA%E6%AE%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [法国网红爬中国香港68楼天台后坠亡](https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD%E7%BD%91%E7%BA%A2%E7%88%AC%E4%B8%AD%E5%9B%BD%E9%A6%99%E6%B8%AF68%E6%A5%BC%E5%A4%A9%E5%8F%B0%E5%90%8E%E5%9D%A0%E4%BA%A1&t=31&band_rank=7&Refer=top)<br />
 8. [当狐狸得知小六是王姬时的反应](https://s.weibo.com/weibo?q=%23%E5%BD%93%E7%8B%90%E7%8B%B8%E5%BE%97%E7%9F%A5%E5%B0%8F%E5%85%AD%E6%98%AF%E7%8E%8B%E5%A7%AC%E6%97%B6%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=8&Refer=top)<br />
-9. [颖儿拍20天戏写20天日记](https://s.weibo.com/weibo?q=%23%E9%A2%96%E5%84%BF%E6%8B%8D20%E5%A4%A9%E6%88%8F%E5%86%9920%E5%A4%A9%E6%97%A5%E8%AE%B0%23&t=31&band_rank=9&Refer=top)<br />
+9. [于适 天选姬发](https://s.weibo.com/weibo?q=%E4%BA%8E%E9%80%82%20%E5%A4%A9%E9%80%89%E5%A7%AC%E5%8F%91&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
