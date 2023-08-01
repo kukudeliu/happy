@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-01 14:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-01 14:39:02</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [兰州榆中耗资9亿元建公园？官方通报](https://www.baidu.com/s?wd=%E5%85%B0%E5%B7%9E%E6%A6%86%E4%B8%AD%E8%80%97%E8%B5%849%E4%BA%BF%E5%85%83%E5%BB%BA%E5%85%AC%E5%9B%AD%EF%BC%9F%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [北京暴雨60小时](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E6%9A%B4%E9%9B%A860%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [法国网红爬香港68楼天台后坠亡](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E7%BD%91%E7%BA%A2%E7%88%AC%E9%A6%99%E6%B8%AF68%E6%A5%BC%E5%A4%A9%E5%8F%B0%E5%90%8E%E5%9D%A0%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [姑娘想抄底买房结果一年亏百万](https://www.baidu.com/s?wd=%E5%A7%91%E5%A8%98%E6%83%B3%E6%8A%84%E5%BA%95%E4%B9%B0%E6%88%BF%E7%BB%93%E6%9E%9C%E4%B8%80%E5%B9%B4%E4%BA%8F%E7%99%BE%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [小伙离奇失踪半月 自称被仙人选中](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E7%A6%BB%E5%A5%87%E5%A4%B1%E8%B8%AA%E5%8D%8A%E6%9C%88+%E8%87%AA%E7%A7%B0%E8%A2%AB%E4%BB%99%E4%BA%BA%E9%80%89%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [兰州榆中耗资9亿元建公园？官方通报](https://www.baidu.com/s?wd=%E5%85%B0%E5%B7%9E%E6%A6%86%E4%B8%AD%E8%80%97%E8%B5%849%E4%BA%BF%E5%85%83%E5%BB%BA%E5%85%AC%E5%9B%AD%EF%BC%9F%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [北京暴雨60小时](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E6%9A%B4%E9%9B%A860%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [法国网红爬香港68楼天台后坠亡](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E7%BD%91%E7%BA%A2%E7%88%AC%E9%A6%99%E6%B8%AF68%E6%A5%BC%E5%A4%A9%E5%8F%B0%E5%90%8E%E5%9D%A0%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [姑娘想抄底买房结果一年亏百万](https://www.baidu.com/s?wd=%E5%A7%91%E5%A8%98%E6%83%B3%E6%8A%84%E5%BA%95%E4%B9%B0%E6%88%BF%E7%BB%93%E6%9E%9C%E4%B8%80%E5%B9%B4%E4%BA%8F%E7%99%BE%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [小伙离奇失踪半月 自称被仙人选中](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E7%A6%BB%E5%A5%87%E5%A4%B1%E8%B8%AA%E5%8D%8A%E6%9C%88+%E8%87%AA%E7%A7%B0%E8%A2%AB%E4%BB%99%E4%BA%BA%E9%80%89%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
