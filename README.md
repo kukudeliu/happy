@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-02 08:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-02 08:57:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [千万不要犯罪因为浏览记录会让人社死](https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E7%8A%AF%E7%BD%AA%E5%9B%A0%E4%B8%BA%E6%B5%8F%E8%A7%88%E8%AE%B0%E5%BD%95%E4%BC%9A%E8%AE%A9%E4%BA%BA%E7%A4%BE%E6%AD%BB%23&t=31&band_rank=5&Refer=top)<br />
 6. [涿州目前全域停水部分停电](https://s.weibo.com/weibo?q=%23%E6%B6%BF%E5%B7%9E%E7%9B%AE%E5%89%8D%E5%85%A8%E5%9F%9F%E5%81%9C%E6%B0%B4%E9%83%A8%E5%88%86%E5%81%9C%E7%94%B5%23&t=31&band_rank=6&Refer=top)<br />
 7. [韩国室温超导团队称论文存在缺陷](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%AE%A4%E6%B8%A9%E8%B6%85%E5%AF%BC%E5%9B%A2%E9%98%9F%E7%A7%B0%E8%AE%BA%E6%96%87%E5%AD%98%E5%9C%A8%E7%BC%BA%E9%99%B7%23&t=31&band_rank=7&Refer=top)<br />
-8. [台风卡努抵近日本冲绳](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E5%8D%A1%E5%8A%AA%E6%8A%B5%E8%BF%91%E6%97%A5%E6%9C%AC%E5%86%B2%E7%BB%B3%23&t=31&band_rank=8&Refer=top)<br />
-9. [封神票房](https://s.weibo.com/weibo?q=%E5%B0%81%E7%A5%9E%E7%A5%A8%E6%88%BF&t=31&band_rank=9&Refer=top)<br />
+8. [封神票房](https://s.weibo.com/weibo?q=%E5%B0%81%E7%A5%9E%E7%A5%A8%E6%88%BF&t=31&band_rank=8&Refer=top)<br />
+9. [台风卡努抵近日本冲绳](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E5%8D%A1%E5%8A%AA%E6%8A%B5%E8%BF%91%E6%97%A5%E6%9C%AC%E5%86%B2%E7%BB%B3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
