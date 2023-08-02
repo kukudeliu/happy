@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-03 00:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-03 00:47:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [猎罪图鉴编剧回应加女主](https://s.weibo.com/weibo?q=%23%E7%8C%8E%E7%BD%AA%E5%9B%BE%E9%89%B4%E7%BC%96%E5%89%A7%E5%9B%9E%E5%BA%94%E5%8A%A0%E5%A5%B3%E4%B8%BB%23&t=31&band_rank=6&Refer=top)<br />
 7. [涿州书厂老板称未收到泄洪通知](https://s.weibo.com/weibo?q=%23%E6%B6%BF%E5%B7%9E%E4%B9%A6%E5%8E%82%E8%80%81%E6%9D%BF%E7%A7%B0%E6%9C%AA%E6%94%B6%E5%88%B0%E6%B3%84%E6%B4%AA%E9%80%9A%E7%9F%A5%23&t=31&band_rank=7&Refer=top)<br />
 8. [官方辟谣李立群杭州看病花费20万](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%9D%8E%E7%AB%8B%E7%BE%A4%E6%9D%AD%E5%B7%9E%E7%9C%8B%E7%97%85%E8%8A%B1%E8%B4%B920%E4%B8%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [夭璟原著结局](https://s.weibo.com/weibo?q=%E5%A4%AD%E7%92%9F%E5%8E%9F%E8%91%97%E7%BB%93%E5%B1%80&t=31&band_rank=9&Refer=top)<br />
+9. [卡努](https://s.weibo.com/weibo?q=%E5%8D%A1%E5%8A%AA&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
