@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-03 07:45:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-03 07:46:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [第一次去非洲的中国女婿上门礼是头羊](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%8E%BB%E9%9D%9E%E6%B4%B2%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%A9%BF%E4%B8%8A%E9%97%A8%E7%A4%BC%E6%98%AF%E5%A4%B4%E7%BE%8A%23&t=31&band_rank=6&Refer=top)<br />
 7. [防风邶赢麻了](https://s.weibo.com/weibo?q=%23%E9%98%B2%E9%A3%8E%E9%82%B6%E8%B5%A2%E9%BA%BB%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [西游记里的妖怪都在长春](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E6%B8%B8%E8%AE%B0%E9%87%8C%E7%9A%84%E5%A6%96%E6%80%AA%E9%83%BD%E5%9C%A8%E9%95%BF%E6%98%A5%23&t=31&band_rank=8&Refer=top)<br />
-9. [你的iPhone一天要充几次电](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%9A%84iPhone%E4%B8%80%E5%A4%A9%E8%A6%81%E5%85%85%E5%87%A0%E6%AC%A1%E7%94%B5%23&t=31&band_rank=9&Refer=top)<br />
+9. [汉文帝霸陵殉葬坑发现神奇动物貘](https://s.weibo.com/weibo?q=%23%E6%B1%89%E6%96%87%E5%B8%9D%E9%9C%B8%E9%99%B5%E6%AE%89%E8%91%AC%E5%9D%91%E5%8F%91%E7%8E%B0%E7%A5%9E%E5%A5%87%E5%8A%A8%E7%89%A9%E8%B2%98%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
