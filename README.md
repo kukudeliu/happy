@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-02 15:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-02 15:54:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [住酒店发现水壶中有内裤？酒店回应](https://www.baidu.com/s?wd=%E4%BD%8F%E9%85%92%E5%BA%97%E5%8F%91%E7%8E%B0%E6%B0%B4%E5%A3%B6%E4%B8%AD%E6%9C%89%E5%86%85%E8%A3%A4%EF%BC%9F%E9%85%92%E5%BA%97%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中消协点名“柱子票”“墙根票”](https://www.baidu.com/s?wd=%E4%B8%AD%E6%B6%88%E5%8D%8F%E7%82%B9%E5%90%8D%E2%80%9C%E6%9F%B1%E5%AD%90%E7%A5%A8%E2%80%9D%E2%80%9C%E5%A2%99%E6%A0%B9%E7%A5%A8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [涿州洪灾救援者：水深超2米 暗流多](https://www.baidu.com/s?wd=%E6%B6%BF%E5%B7%9E%E6%B4%AA%E7%81%BE%E6%95%91%E6%8F%B4%E8%80%85%EF%BC%9A%E6%B0%B4%E6%B7%B1%E8%B6%852%E7%B1%B3+%E6%9A%97%E6%B5%81%E5%A4%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [北京房山蓝天救援女队员牺牲](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E6%88%BF%E5%B1%B1%E8%93%9D%E5%A4%A9%E6%95%91%E6%8F%B4%E5%A5%B3%E9%98%9F%E5%91%98%E7%89%BA%E7%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [封神发声明抵制偷漏瞒报票房行为](https://www.baidu.com/s?wd=%E5%B0%81%E7%A5%9E%E5%8F%91%E5%A3%B0%E6%98%8E%E6%8A%B5%E5%88%B6%E5%81%B7%E6%BC%8F%E7%9E%92%E6%8A%A5%E7%A5%A8%E6%88%BF%E8%A1%8C%E4%B8%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [住酒店发现水壶中有内裤？酒店回应](https://www.baidu.com/s?wd=%E4%BD%8F%E9%85%92%E5%BA%97%E5%8F%91%E7%8E%B0%E6%B0%B4%E5%A3%B6%E4%B8%AD%E6%9C%89%E5%86%85%E8%A3%A4%EF%BC%9F%E9%85%92%E5%BA%97%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中消协点名“柱子票”“墙根票”](https://www.baidu.com/s?wd=%E4%B8%AD%E6%B6%88%E5%8D%8F%E7%82%B9%E5%90%8D%E2%80%9C%E6%9F%B1%E5%AD%90%E7%A5%A8%E2%80%9D%E2%80%9C%E5%A2%99%E6%A0%B9%E7%A5%A8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [涿州洪灾救援者：水深超2米 暗流多](https://www.baidu.com/s?wd=%E6%B6%BF%E5%B7%9E%E6%B4%AA%E7%81%BE%E6%95%91%E6%8F%B4%E8%80%85%EF%BC%9A%E6%B0%B4%E6%B7%B1%E8%B6%852%E7%B1%B3+%E6%9A%97%E6%B5%81%E5%A4%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [北京房山蓝天救援女队员牺牲](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E6%88%BF%E5%B1%B1%E8%93%9D%E5%A4%A9%E6%95%91%E6%8F%B4%E5%A5%B3%E9%98%9F%E5%91%98%E7%89%BA%E7%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [封神发声明抵制偷漏瞒报票房行为](https://www.baidu.com/s?wd=%E5%B0%81%E7%A5%9E%E5%8F%91%E5%A3%B0%E6%98%8E%E6%8A%B5%E5%88%B6%E5%81%B7%E6%BC%8F%E7%9E%92%E6%8A%A5%E7%A5%A8%E6%88%BF%E8%A1%8C%E4%B8%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
