@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-02 20:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-02 20:39:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [居民撤离收费站仍挨个发卡 高速回应](https://www.baidu.com/s?wd=%E5%B1%85%E6%B0%91%E6%92%A4%E7%A6%BB%E6%94%B6%E8%B4%B9%E7%AB%99%E4%BB%8D%E6%8C%A8%E4%B8%AA%E5%8F%91%E5%8D%A1+%E9%AB%98%E9%80%9F%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [吃早餐被女生强吻男子已报警](https://www.baidu.com/s?wd=%E5%90%83%E6%97%A9%E9%A4%90%E8%A2%AB%E5%A5%B3%E7%94%9F%E5%BC%BA%E5%90%BB%E7%94%B7%E5%AD%90%E5%B7%B2%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子过海关双腿绑满少女针](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%BF%87%E6%B5%B7%E5%85%B3%E5%8F%8C%E8%85%BF%E7%BB%91%E6%BB%A1%E5%B0%91%E5%A5%B3%E9%92%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [暴雨过后，这些疾病可能多发](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E8%BF%87%E5%90%8E%EF%BC%8C%E8%BF%99%E4%BA%9B%E7%96%BE%E7%97%85%E5%8F%AF%E8%83%BD%E5%A4%9A%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [刘亦菲霍建华在人大拍戏](https://www.baidu.com/s?wd=%E5%88%98%E4%BA%A6%E8%8F%B2%E9%9C%8D%E5%BB%BA%E5%8D%8E%E5%9C%A8%E4%BA%BA%E5%A4%A7%E6%8B%8D%E6%88%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [#京津冀暴雨互助#](https://www.baidu.com/s?wd=%23%E4%BA%AC%E6%B4%A5%E5%86%80%E6%9A%B4%E9%9B%A8%E4%BA%92%E5%8A%A9%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [居民撤离收费站仍挨个发卡 高速回应](https://www.baidu.com/s?wd=%E5%B1%85%E6%B0%91%E6%92%A4%E7%A6%BB%E6%94%B6%E8%B4%B9%E7%AB%99%E4%BB%8D%E6%8C%A8%E4%B8%AA%E5%8F%91%E5%8D%A1+%E9%AB%98%E9%80%9F%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [吃早餐被女生强吻男子已报警](https://www.baidu.com/s?wd=%E5%90%83%E6%97%A9%E9%A4%90%E8%A2%AB%E5%A5%B3%E7%94%9F%E5%BC%BA%E5%90%BB%E7%94%B7%E5%AD%90%E5%B7%B2%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子过海关双腿绑满少女针](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%BF%87%E6%B5%B7%E5%85%B3%E5%8F%8C%E8%85%BF%E7%BB%91%E6%BB%A1%E5%B0%91%E5%A5%B3%E9%92%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [暴雨过后，这些疾病可能多发](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E8%BF%87%E5%90%8E%EF%BC%8C%E8%BF%99%E4%BA%9B%E7%96%BE%E7%97%85%E5%8F%AF%E8%83%BD%E5%A4%9A%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [刘亦菲霍建华在人大拍戏](https://www.baidu.com/s?wd=%E5%88%98%E4%BA%A6%E8%8F%B2%E9%9C%8D%E5%BB%BA%E5%8D%8E%E5%9C%A8%E4%BA%BA%E5%A4%A7%E6%8B%8D%E6%88%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [#京津冀暴雨互助#](https://www.baidu.com/s?wd=%23%E4%BA%AC%E6%B4%A5%E5%86%80%E6%9A%B4%E9%9B%A8%E4%BA%92%E5%8A%A9%23&sa=fyb_news&rsv_dl=fyb_news)<br />
