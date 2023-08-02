@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-02 09:08:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-02 09:09:01</h4></div>
 
 > 微博  
 
@@ -22,8 +22,8 @@
 3. [河北一地深夜通知撤离 车辆排长队](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E4%B8%80%E5%9C%B0%E6%B7%B1%E5%A4%9C%E9%80%9A%E7%9F%A5%E6%92%A4%E7%A6%BB+%E8%BD%A6%E8%BE%86%E6%8E%92%E9%95%BF%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [暴雨天如何科学避险？](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E5%A4%A9%E5%A6%82%E4%BD%95%E7%A7%91%E5%AD%A6%E9%81%BF%E9%99%A9%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [央视曝光甘肃掏空家底级工程](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E7%94%98%E8%82%83%E6%8E%8F%E7%A9%BA%E5%AE%B6%E5%BA%95%E7%BA%A7%E5%B7%A5%E7%A8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [网友晒王思聪抱娃照配文“好爸爸”](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E6%99%92%E7%8E%8B%E6%80%9D%E8%81%AA%E6%8A%B1%E5%A8%83%E7%85%A7%E9%85%8D%E6%96%87%E2%80%9C%E5%A5%BD%E7%88%B8%E7%88%B8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [“大黄鱼抱枕”被炒到666元](https://www.baidu.com/s?wd=%E2%80%9C%E5%A4%A7%E9%BB%84%E9%B1%BC%E6%8A%B1%E6%9E%95%E2%80%9D%E8%A2%AB%E7%82%92%E5%88%B0666%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [“大黄鱼抱枕”被炒到666元](https://www.baidu.com/s?wd=%E2%80%9C%E5%A4%A7%E9%BB%84%E9%B1%BC%E6%8A%B1%E6%9E%95%E2%80%9D%E8%A2%AB%E7%82%92%E5%88%B0666%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [网友晒王思聪抱娃照配文“好爸爸”](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E6%99%92%E7%8E%8B%E6%80%9D%E8%81%AA%E6%8A%B1%E5%A8%83%E7%85%A7%E9%85%8D%E6%96%87%E2%80%9C%E5%A5%BD%E7%88%B8%E7%88%B8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [洪水穿过物流重镇 图书库房损失过亿](https://www.baidu.com/s?wd=%E6%B4%AA%E6%B0%B4%E7%A9%BF%E8%BF%87%E7%89%A9%E6%B5%81%E9%87%8D%E9%95%87+%E5%9B%BE%E4%B9%A6%E5%BA%93%E6%88%BF%E6%8D%9F%E5%A4%B1%E8%BF%87%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [4名学生下河游泳溺亡 知情人：为庆生](https://www.baidu.com/s?wd=4%E5%90%8D%E5%AD%A6%E7%94%9F%E4%B8%8B%E6%B2%B3%E6%B8%B8%E6%B3%B3%E6%BA%BA%E4%BA%A1+%E7%9F%A5%E6%83%85%E4%BA%BA%EF%BC%9A%E4%B8%BA%E5%BA%86%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -34,7 +34,7 @@
 3. [河北一地深夜通知撤离 车辆排长队](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E4%B8%80%E5%9C%B0%E6%B7%B1%E5%A4%9C%E9%80%9A%E7%9F%A5%E6%92%A4%E7%A6%BB+%E8%BD%A6%E8%BE%86%E6%8E%92%E9%95%BF%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [暴雨天如何科学避险？](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E5%A4%A9%E5%A6%82%E4%BD%95%E7%A7%91%E5%AD%A6%E9%81%BF%E9%99%A9%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [央视曝光甘肃掏空家底级工程](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E7%94%98%E8%82%83%E6%8E%8F%E7%A9%BA%E5%AE%B6%E5%BA%95%E7%BA%A7%E5%B7%A5%E7%A8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [网友晒王思聪抱娃照配文“好爸爸”](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E6%99%92%E7%8E%8B%E6%80%9D%E8%81%AA%E6%8A%B1%E5%A8%83%E7%85%A7%E9%85%8D%E6%96%87%E2%80%9C%E5%A5%BD%E7%88%B8%E7%88%B8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [“大黄鱼抱枕”被炒到666元](https://www.baidu.com/s?wd=%E2%80%9C%E5%A4%A7%E9%BB%84%E9%B1%BC%E6%8A%B1%E6%9E%95%E2%80%9D%E8%A2%AB%E7%82%92%E5%88%B0666%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [“大黄鱼抱枕”被炒到666元](https://www.baidu.com/s?wd=%E2%80%9C%E5%A4%A7%E9%BB%84%E9%B1%BC%E6%8A%B1%E6%9E%95%E2%80%9D%E8%A2%AB%E7%82%92%E5%88%B0666%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [网友晒王思聪抱娃照配文“好爸爸”](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E6%99%92%E7%8E%8B%E6%80%9D%E8%81%AA%E6%8A%B1%E5%A8%83%E7%85%A7%E9%85%8D%E6%96%87%E2%80%9C%E5%A5%BD%E7%88%B8%E7%88%B8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [洪水穿过物流重镇 图书库房损失过亿](https://www.baidu.com/s?wd=%E6%B4%AA%E6%B0%B4%E7%A9%BF%E8%BF%87%E7%89%A9%E6%B5%81%E9%87%8D%E9%95%87+%E5%9B%BE%E4%B9%A6%E5%BA%93%E6%88%BF%E6%8D%9F%E5%A4%B1%E8%BF%87%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [4名学生下河游泳溺亡 知情人：为庆生](https://www.baidu.com/s?wd=4%E5%90%8D%E5%AD%A6%E7%94%9F%E4%B8%8B%E6%B2%B3%E6%B8%B8%E6%B3%B3%E6%BA%BA%E4%BA%A1+%E7%9F%A5%E6%83%85%E4%BA%BA%EF%BC%9A%E4%B8%BA%E5%BA%86%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
