@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-02 16:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-02 16:17:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [许凯吓得把杨幂扔了](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%87%AF%E5%90%93%E5%BE%97%E6%8A%8A%E6%9D%A8%E5%B9%82%E6%89%94%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [魏大勋要拍芭莎男士了](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E8%A6%81%E6%8B%8D%E8%8A%AD%E8%8E%8E%E7%94%B7%E5%A3%AB%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [官方回应佳木斯建方舱医院](https://s.weibo.com/weibo?q=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E4%BD%B3%E6%9C%A8%E6%96%AF%E5%BB%BA%E6%96%B9%E8%88%B1%E5%8C%BB%E9%99%A2&t=31&band_rank=8&Refer=top)<br />
-9. [杨紫的选择照顾了张晚意檀健次两个人](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E7%9A%84%E9%80%89%E6%8B%A9%E7%85%A7%E9%A1%BE%E4%BA%86%E5%BC%A0%E6%99%9A%E6%84%8F%E6%AA%80%E5%81%A5%E6%AC%A1%E4%B8%A4%E4%B8%AA%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
+9. [到手的驾照还没捂热就废了](https://s.weibo.com/weibo?q=%23%E5%88%B0%E6%89%8B%E7%9A%84%E9%A9%BE%E7%85%A7%E8%BF%98%E6%B2%A1%E6%8D%82%E7%83%AD%E5%B0%B1%E5%BA%9F%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
