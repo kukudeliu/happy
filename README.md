@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-02 20:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-02 20:17:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [张新成邓为是同学](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%96%B0%E6%88%90%E9%82%93%E4%B8%BA%E6%98%AF%E5%90%8C%E5%AD%A6%23&t=31&band_rank=6&Refer=top)<br />
 7. [马保国](https://s.weibo.com/weibo?q=%E9%A9%AC%E4%BF%9D%E5%9B%BD&t=31&band_rank=7&Refer=top)<br />
 8. [NONO被曝性侵后首露面](https://s.weibo.com/weibo?q=%23NONO%E8%A2%AB%E6%9B%9D%E6%80%A7%E4%BE%B5%E5%90%8E%E9%A6%96%E9%9C%B2%E9%9D%A2%23&t=31&band_rank=8&Refer=top)<br />
-9. [难哄实在不行就沈腾马丽演吧](https://s.weibo.com/weibo?q=%23%E9%9A%BE%E5%93%84%E5%AE%9E%E5%9C%A8%E4%B8%8D%E8%A1%8C%E5%B0%B1%E6%B2%88%E8%85%BE%E9%A9%AC%E4%B8%BD%E6%BC%94%E5%90%A7%23&t=31&band_rank=9&Refer=top)<br />
+9. [北京此次暴雨已有两名牺牲的救援人员身份确认](https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E6%AD%A4%E6%AC%A1%E6%9A%B4%E9%9B%A8%E5%B7%B2%E6%9C%89%E4%B8%A4%E5%90%8D%E7%89%BA%E7%89%B2%E7%9A%84%E6%95%91%E6%8F%B4%E4%BA%BA%E5%91%98%E8%BA%AB%E4%BB%BD%E7%A1%AE%E8%AE%A4&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
