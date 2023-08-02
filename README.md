@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-02 12:55:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-02 12:56:02</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [男子杀岳母妻子 警方被质疑保护不力](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%9D%80%E5%B2%B3%E6%AF%8D%E5%A6%BB%E5%AD%90+%E8%AD%A6%E6%96%B9%E8%A2%AB%E8%B4%A8%E7%96%91%E4%BF%9D%E6%8A%A4%E4%B8%8D%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [北京：本次降雨为140年以来最大降雨](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%EF%BC%9A%E6%9C%AC%E6%AC%A1%E9%99%8D%E9%9B%A8%E4%B8%BA140%E5%B9%B4%E4%BB%A5%E6%9D%A5%E6%9C%80%E5%A4%A7%E9%99%8D%E9%9B%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [洪水穿过物流重镇 图书库房损失过亿](https://www.baidu.com/s?wd=%E6%B4%AA%E6%B0%B4%E7%A9%BF%E8%BF%87%E7%89%A9%E6%B5%81%E9%87%8D%E9%95%87+%E5%9B%BE%E4%B9%A6%E5%BA%93%E6%88%BF%E6%8D%9F%E5%A4%B1%E8%BF%87%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [央视曝光甘肃掏空家底级工程](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E7%94%98%E8%82%83%E6%8E%8F%E7%A9%BA%E5%AE%B6%E5%BA%95%E7%BA%A7%E5%B7%A5%E7%A8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [芭比被日本大规模抵制](https://www.baidu.com/s?wd=%E8%8A%AD%E6%AF%94%E8%A2%AB%E6%97%A5%E6%9C%AC%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8A%B5%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [男子杀岳母妻子 警方被质疑保护不力](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%9D%80%E5%B2%B3%E6%AF%8D%E5%A6%BB%E5%AD%90+%E8%AD%A6%E6%96%B9%E8%A2%AB%E8%B4%A8%E7%96%91%E4%BF%9D%E6%8A%A4%E4%B8%8D%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [北京：本次降雨为140年以来最大降雨](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%EF%BC%9A%E6%9C%AC%E6%AC%A1%E9%99%8D%E9%9B%A8%E4%B8%BA140%E5%B9%B4%E4%BB%A5%E6%9D%A5%E6%9C%80%E5%A4%A7%E9%99%8D%E9%9B%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [洪水穿过物流重镇 图书库房损失过亿](https://www.baidu.com/s?wd=%E6%B4%AA%E6%B0%B4%E7%A9%BF%E8%BF%87%E7%89%A9%E6%B5%81%E9%87%8D%E9%95%87+%E5%9B%BE%E4%B9%A6%E5%BA%93%E6%88%BF%E6%8D%9F%E5%A4%B1%E8%BF%87%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [央视曝光甘肃掏空家底级工程](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E7%94%98%E8%82%83%E6%8E%8F%E7%A9%BA%E5%AE%B6%E5%BA%95%E7%BA%A7%E5%B7%A5%E7%A8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [芭比被日本大规模抵制](https://www.baidu.com/s?wd=%E8%8A%AD%E6%AF%94%E8%A2%AB%E6%97%A5%E6%9C%AC%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8A%B5%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
