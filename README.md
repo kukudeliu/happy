@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-02 21:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-02 21:25:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [K396列车上44名学生徒步12公里脱困](https://www.baidu.com/s?wd=K396%E5%88%97%E8%BD%A6%E4%B8%8A44%E5%90%8D%E5%AD%A6%E7%94%9F%E5%BE%92%E6%AD%A512%E5%85%AC%E9%87%8C%E8%84%B1%E5%9B%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全力以赴 应对极端降雨](https://www.baidu.com/s?wd=%E5%85%A8%E5%8A%9B%E4%BB%A5%E8%B5%B4+%E5%BA%94%E5%AF%B9%E6%9E%81%E7%AB%AF%E9%99%8D%E9%9B%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [美决定向台地区提供军援 外交部回应](https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%B3%E5%AE%9A%E5%90%91%E5%8F%B0%E5%9C%B0%E5%8C%BA%E6%8F%90%E4%BE%9B%E5%86%9B%E6%8F%B4+%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [河北小伙结婚当天开铲车接新娘](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E5%B0%8F%E4%BC%99%E7%BB%93%E5%A9%9A%E5%BD%93%E5%A4%A9%E5%BC%80%E9%93%B2%E8%BD%A6%E6%8E%A5%E6%96%B0%E5%A8%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [住酒店发现水壶中有内裤？酒店回应](https://www.baidu.com/s?wd=%E4%BD%8F%E9%85%92%E5%BA%97%E5%8F%91%E7%8E%B0%E6%B0%B4%E5%A3%B6%E4%B8%AD%E6%9C%89%E5%86%85%E8%A3%A4%EF%BC%9F%E9%85%92%E5%BA%97%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [居民撤离收费站仍挨个发卡 高速回应](https://www.baidu.com/s?wd=%E5%B1%85%E6%B0%91%E6%92%A4%E7%A6%BB%E6%94%B6%E8%B4%B9%E7%AB%99%E4%BB%8D%E6%8C%A8%E4%B8%AA%E5%8F%91%E5%8D%A1+%E9%AB%98%E9%80%9F%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [邀请函拦住外地救援队？涿州回应](https://www.baidu.com/s?wd=%E9%82%80%E8%AF%B7%E5%87%BD%E6%8B%A6%E4%BD%8F%E5%A4%96%E5%9C%B0%E6%95%91%E6%8F%B4%E9%98%9F%EF%BC%9F%E6%B6%BF%E5%B7%9E%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [北京顶奢酒店幕后老板身家33亿](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E9%A1%B6%E5%A5%A2%E9%85%92%E5%BA%97%E5%B9%95%E5%90%8E%E8%80%81%E6%9D%BF%E8%BA%AB%E5%AE%B633%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [#京津冀暴雨互助#](https://www.baidu.com/s?wd=%23%E4%BA%AC%E6%B4%A5%E5%86%80%E6%9A%B4%E9%9B%A8%E4%BA%92%E5%8A%A9%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [K396列车上44名学生徒步12公里脱困](https://www.baidu.com/s?wd=K396%E5%88%97%E8%BD%A6%E4%B8%8A44%E5%90%8D%E5%AD%A6%E7%94%9F%E5%BE%92%E6%AD%A512%E5%85%AC%E9%87%8C%E8%84%B1%E5%9B%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全力以赴 应对极端降雨](https://www.baidu.com/s?wd=%E5%85%A8%E5%8A%9B%E4%BB%A5%E8%B5%B4+%E5%BA%94%E5%AF%B9%E6%9E%81%E7%AB%AF%E9%99%8D%E9%9B%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [美决定向台地区提供军援 外交部回应](https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%B3%E5%AE%9A%E5%90%91%E5%8F%B0%E5%9C%B0%E5%8C%BA%E6%8F%90%E4%BE%9B%E5%86%9B%E6%8F%B4+%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [河北小伙结婚当天开铲车接新娘](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E5%B0%8F%E4%BC%99%E7%BB%93%E5%A9%9A%E5%BD%93%E5%A4%A9%E5%BC%80%E9%93%B2%E8%BD%A6%E6%8E%A5%E6%96%B0%E5%A8%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [住酒店发现水壶中有内裤？酒店回应](https://www.baidu.com/s?wd=%E4%BD%8F%E9%85%92%E5%BA%97%E5%8F%91%E7%8E%B0%E6%B0%B4%E5%A3%B6%E4%B8%AD%E6%9C%89%E5%86%85%E8%A3%A4%EF%BC%9F%E9%85%92%E5%BA%97%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [居民撤离收费站仍挨个发卡 高速回应](https://www.baidu.com/s?wd=%E5%B1%85%E6%B0%91%E6%92%A4%E7%A6%BB%E6%94%B6%E8%B4%B9%E7%AB%99%E4%BB%8D%E6%8C%A8%E4%B8%AA%E5%8F%91%E5%8D%A1+%E9%AB%98%E9%80%9F%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [邀请函拦住外地救援队？涿州回应](https://www.baidu.com/s?wd=%E9%82%80%E8%AF%B7%E5%87%BD%E6%8B%A6%E4%BD%8F%E5%A4%96%E5%9C%B0%E6%95%91%E6%8F%B4%E9%98%9F%EF%BC%9F%E6%B6%BF%E5%B7%9E%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [北京顶奢酒店幕后老板身家33亿](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E9%A1%B6%E5%A5%A2%E9%85%92%E5%BA%97%E5%B9%95%E5%90%8E%E8%80%81%E6%9D%BF%E8%BA%AB%E5%AE%B633%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [#京津冀暴雨互助#](https://www.baidu.com/s?wd=%23%E4%BA%AC%E6%B4%A5%E5%86%80%E6%9A%B4%E9%9B%A8%E4%BA%92%E5%8A%A9%23&sa=fyb_news&rsv_dl=fyb_news)<br />
