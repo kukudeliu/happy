@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-03 02:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-03 02:54:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [快递被暴雨泡毁赔不赔？公司回应](https://www.baidu.com/s?wd=%E5%BF%AB%E9%80%92%E8%A2%AB%E6%9A%B4%E9%9B%A8%E6%B3%A1%E6%AF%81%E8%B5%94%E4%B8%8D%E8%B5%94%EF%BC%9F%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全力以赴 应对极端降雨](https://www.baidu.com/s?wd=%E5%85%A8%E5%8A%9B%E4%BB%A5%E8%B5%B4+%E5%BA%94%E5%AF%B9%E6%9E%81%E7%AB%AF%E9%99%8D%E9%9B%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [涿州救援不易：正经历断水断粮断电](https://www.baidu.com/s?wd=%E6%B6%BF%E5%B7%9E%E6%95%91%E6%8F%B4%E4%B8%8D%E6%98%93%EF%BC%9A%E6%AD%A3%E7%BB%8F%E5%8E%86%E6%96%AD%E6%B0%B4%E6%96%AD%E7%B2%AE%E6%96%AD%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [TFBOYS演唱会外围疑围钢板安刺尖](https://www.baidu.com/s?wd=TFBOYS%E6%BC%94%E5%94%B1%E4%BC%9A%E5%A4%96%E5%9B%B4%E7%96%91%E5%9B%B4%E9%92%A2%E6%9D%BF%E5%AE%89%E5%88%BA%E5%B0%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [居民撤离收费站仍挨个发卡 高速回应](https://www.baidu.com/s?wd=%E5%B1%85%E6%B0%91%E6%92%A4%E7%A6%BB%E6%94%B6%E8%B4%B9%E7%AB%99%E4%BB%8D%E6%8C%A8%E4%B8%AA%E5%8F%91%E5%8D%A1+%E9%AB%98%E9%80%9F%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [凤凰传奇工作室：律师函不会弄](https://www.baidu.com/s?wd=%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E5%B7%A5%E4%BD%9C%E5%AE%A4%EF%BC%9A%E5%BE%8B%E5%B8%88%E5%87%BD%E4%B8%8D%E4%BC%9A%E5%BC%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [暴雨后的涿州图书库房重镇](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E5%90%8E%E7%9A%84%E6%B6%BF%E5%B7%9E%E5%9B%BE%E4%B9%A6%E5%BA%93%E6%88%BF%E9%87%8D%E9%95%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [凤凰传奇工作室：律师函不会弄](https://www.baidu.com/s?wd=%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E5%B7%A5%E4%BD%9C%E5%AE%A4%EF%BC%9A%E5%BE%8B%E5%B8%88%E5%87%BD%E4%B8%8D%E4%BC%9A%E5%BC%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [居民撤离收费站仍挨个发卡 高速回应](https://www.baidu.com/s?wd=%E5%B1%85%E6%B0%91%E6%92%A4%E7%A6%BB%E6%94%B6%E8%B4%B9%E7%AB%99%E4%BB%8D%E6%8C%A8%E4%B8%AA%E5%8F%91%E5%8D%A1+%E9%AB%98%E9%80%9F%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [#京津冀暴雨互助#](https://www.baidu.com/s?wd=%23%E4%BA%AC%E6%B4%A5%E5%86%80%E6%9A%B4%E9%9B%A8%E4%BA%92%E5%8A%A9%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [快递被暴雨泡毁赔不赔？公司回应](https://www.baidu.com/s?wd=%E5%BF%AB%E9%80%92%E8%A2%AB%E6%9A%B4%E9%9B%A8%E6%B3%A1%E6%AF%81%E8%B5%94%E4%B8%8D%E8%B5%94%EF%BC%9F%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全力以赴 应对极端降雨](https://www.baidu.com/s?wd=%E5%85%A8%E5%8A%9B%E4%BB%A5%E8%B5%B4+%E5%BA%94%E5%AF%B9%E6%9E%81%E7%AB%AF%E9%99%8D%E9%9B%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [涿州救援不易：正经历断水断粮断电](https://www.baidu.com/s?wd=%E6%B6%BF%E5%B7%9E%E6%95%91%E6%8F%B4%E4%B8%8D%E6%98%93%EF%BC%9A%E6%AD%A3%E7%BB%8F%E5%8E%86%E6%96%AD%E6%B0%B4%E6%96%AD%E7%B2%AE%E6%96%AD%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [TFBOYS演唱会外围疑围钢板安刺尖](https://www.baidu.com/s?wd=TFBOYS%E6%BC%94%E5%94%B1%E4%BC%9A%E5%A4%96%E5%9B%B4%E7%96%91%E5%9B%B4%E9%92%A2%E6%9D%BF%E5%AE%89%E5%88%BA%E5%B0%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [居民撤离收费站仍挨个发卡 高速回应](https://www.baidu.com/s?wd=%E5%B1%85%E6%B0%91%E6%92%A4%E7%A6%BB%E6%94%B6%E8%B4%B9%E7%AB%99%E4%BB%8D%E6%8C%A8%E4%B8%AA%E5%8F%91%E5%8D%A1+%E9%AB%98%E9%80%9F%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [凤凰传奇工作室：律师函不会弄](https://www.baidu.com/s?wd=%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E5%B7%A5%E4%BD%9C%E5%AE%A4%EF%BC%9A%E5%BE%8B%E5%B8%88%E5%87%BD%E4%B8%8D%E4%BC%9A%E5%BC%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [暴雨后的涿州图书库房重镇](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E5%90%8E%E7%9A%84%E6%B6%BF%E5%B7%9E%E5%9B%BE%E4%B9%A6%E5%BA%93%E6%88%BF%E9%87%8D%E9%95%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [凤凰传奇工作室：律师函不会弄](https://www.baidu.com/s?wd=%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E5%B7%A5%E4%BD%9C%E5%AE%A4%EF%BC%9A%E5%BE%8B%E5%B8%88%E5%87%BD%E4%B8%8D%E4%BC%9A%E5%BC%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [居民撤离收费站仍挨个发卡 高速回应](https://www.baidu.com/s?wd=%E5%B1%85%E6%B0%91%E6%92%A4%E7%A6%BB%E6%94%B6%E8%B4%B9%E7%AB%99%E4%BB%8D%E6%8C%A8%E4%B8%AA%E5%8F%91%E5%8D%A1+%E9%AB%98%E9%80%9F%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [#京津冀暴雨互助#](https://www.baidu.com/s?wd=%23%E4%BA%AC%E6%B4%A5%E5%86%80%E6%9A%B4%E9%9B%A8%E4%BA%92%E5%8A%A9%23&sa=fyb_news&rsv_dl=fyb_news)<br />
