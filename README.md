@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-03 02:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-03 02:34:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [快递被暴雨泡毁赔不赔？公司回应](https://www.baidu.com/s?wd=%E5%BF%AB%E9%80%92%E8%A2%AB%E6%9A%B4%E9%9B%A8%E6%B3%A1%E6%AF%81%E8%B5%94%E4%B8%8D%E8%B5%94%EF%BC%9F%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全力以赴 应对极端降雨](https://www.baidu.com/s?wd=%E5%85%A8%E5%8A%9B%E4%BB%A5%E8%B5%B4+%E5%BA%94%E5%AF%B9%E6%9E%81%E7%AB%AF%E9%99%8D%E9%9B%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [涿州救援不易：正经历断水断粮断电](https://www.baidu.com/s?wd=%E6%B6%BF%E5%B7%9E%E6%95%91%E6%8F%B4%E4%B8%8D%E6%98%93%EF%BC%9A%E6%AD%A3%E7%BB%8F%E5%8E%86%E6%96%AD%E6%B0%B4%E6%96%AD%E7%B2%AE%E6%96%AD%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [云南一夏令营被举报百名孩子住工棚](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E4%B8%80%E5%A4%8F%E4%BB%A4%E8%90%A5%E8%A2%AB%E4%B8%BE%E6%8A%A5%E7%99%BE%E5%90%8D%E5%AD%A9%E5%AD%90%E4%BD%8F%E5%B7%A5%E6%A3%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [被不卫生的水泡过的饮料不要喝](https://www.baidu.com/s?wd=%E8%A2%AB%E4%B8%8D%E5%8D%AB%E7%94%9F%E7%9A%84%E6%B0%B4%E6%B3%A1%E8%BF%87%E7%9A%84%E9%A5%AE%E6%96%99%E4%B8%8D%E8%A6%81%E5%96%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [暴雨过后，这些疾病可能多发](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E8%BF%87%E5%90%8E%EF%BC%8C%E8%BF%99%E4%BA%9B%E7%96%BE%E7%97%85%E5%8F%AF%E8%83%BD%E5%A4%9A%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [暴雨过后，这些疾病可能多发](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E8%BF%87%E5%90%8E%EF%BC%8C%E8%BF%99%E4%BA%9B%E7%96%BE%E7%97%85%E5%8F%AF%E8%83%BD%E5%A4%9A%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [云南一夏令营被举报百名孩子住工棚](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E4%B8%80%E5%A4%8F%E4%BB%A4%E8%90%A5%E8%A2%AB%E4%B8%BE%E6%8A%A5%E7%99%BE%E5%90%8D%E5%AD%A9%E5%AD%90%E4%BD%8F%E5%B7%A5%E6%A3%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [为什么台风“卡努”的预报路径成谜](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%B0%E9%A3%8E%E2%80%9C%E5%8D%A1%E5%8A%AA%E2%80%9D%E7%9A%84%E9%A2%84%E6%8A%A5%E8%B7%AF%E5%BE%84%E6%88%90%E8%B0%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [#京津冀暴雨互助#](https://www.baidu.com/s?wd=%23%E4%BA%AC%E6%B4%A5%E5%86%80%E6%9A%B4%E9%9B%A8%E4%BA%92%E5%8A%A9%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [快递被暴雨泡毁赔不赔？公司回应](https://www.baidu.com/s?wd=%E5%BF%AB%E9%80%92%E8%A2%AB%E6%9A%B4%E9%9B%A8%E6%B3%A1%E6%AF%81%E8%B5%94%E4%B8%8D%E8%B5%94%EF%BC%9F%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全力以赴 应对极端降雨](https://www.baidu.com/s?wd=%E5%85%A8%E5%8A%9B%E4%BB%A5%E8%B5%B4+%E5%BA%94%E5%AF%B9%E6%9E%81%E7%AB%AF%E9%99%8D%E9%9B%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [涿州救援不易：正经历断水断粮断电](https://www.baidu.com/s?wd=%E6%B6%BF%E5%B7%9E%E6%95%91%E6%8F%B4%E4%B8%8D%E6%98%93%EF%BC%9A%E6%AD%A3%E7%BB%8F%E5%8E%86%E6%96%AD%E6%B0%B4%E6%96%AD%E7%B2%AE%E6%96%AD%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [云南一夏令营被举报百名孩子住工棚](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E4%B8%80%E5%A4%8F%E4%BB%A4%E8%90%A5%E8%A2%AB%E4%B8%BE%E6%8A%A5%E7%99%BE%E5%90%8D%E5%AD%A9%E5%AD%90%E4%BD%8F%E5%B7%A5%E6%A3%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [被不卫生的水泡过的饮料不要喝](https://www.baidu.com/s?wd=%E8%A2%AB%E4%B8%8D%E5%8D%AB%E7%94%9F%E7%9A%84%E6%B0%B4%E6%B3%A1%E8%BF%87%E7%9A%84%E9%A5%AE%E6%96%99%E4%B8%8D%E8%A6%81%E5%96%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [暴雨过后，这些疾病可能多发](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E8%BF%87%E5%90%8E%EF%BC%8C%E8%BF%99%E4%BA%9B%E7%96%BE%E7%97%85%E5%8F%AF%E8%83%BD%E5%A4%9A%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [暴雨过后，这些疾病可能多发](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E8%BF%87%E5%90%8E%EF%BC%8C%E8%BF%99%E4%BA%9B%E7%96%BE%E7%97%85%E5%8F%AF%E8%83%BD%E5%A4%9A%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [云南一夏令营被举报百名孩子住工棚](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E4%B8%80%E5%A4%8F%E4%BB%A4%E8%90%A5%E8%A2%AB%E4%B8%BE%E6%8A%A5%E7%99%BE%E5%90%8D%E5%AD%A9%E5%AD%90%E4%BD%8F%E5%B7%A5%E6%A3%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [为什么台风“卡努”的预报路径成谜](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%B0%E9%A3%8E%E2%80%9C%E5%8D%A1%E5%8A%AA%E2%80%9D%E7%9A%84%E9%A2%84%E6%8A%A5%E8%B7%AF%E5%BE%84%E6%88%90%E8%B0%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [#京津冀暴雨互助#](https://www.baidu.com/s?wd=%23%E4%BA%AC%E6%B4%A5%E5%86%80%E6%9A%B4%E9%9B%A8%E4%BA%92%E5%8A%A9%23&sa=fyb_news&rsv_dl=fyb_news)<br />
