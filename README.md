@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-02 11:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-02 11:42:01</h4></div>
 
 > 微博  
 
@@ -20,7 +20,7 @@
 1. [全力保障人民生命财产安全](https://www.baidu.com/s?wd=%E5%85%A8%E5%8A%9B%E4%BF%9D%E9%9A%9C%E4%BA%BA%E6%B0%91%E7%94%9F%E5%91%BD%E8%B4%A2%E4%BA%A7%E5%AE%89%E5%85%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [涿州村民：很多人没把泄洪通知当回事](https://www.baidu.com/s?wd=%E6%B6%BF%E5%B7%9E%E6%9D%91%E6%B0%91%EF%BC%9A%E5%BE%88%E5%A4%9A%E4%BA%BA%E6%B2%A1%E6%8A%8A%E6%B3%84%E6%B4%AA%E9%80%9A%E7%9F%A5%E5%BD%93%E5%9B%9E%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [河北一地深夜通知撤离 车辆排长队](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E4%B8%80%E5%9C%B0%E6%B7%B1%E5%A4%9C%E9%80%9A%E7%9F%A5%E6%92%A4%E7%A6%BB+%E8%BD%A6%E8%BE%86%E6%8E%92%E9%95%BF%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [暴雨天如何科学避险？](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E5%A4%A9%E5%A6%82%E4%BD%95%E7%A7%91%E5%AD%A6%E9%81%BF%E9%99%A9%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [转存！暴雨天气10个安全指南](https://www.baidu.com/s?wd=%E8%BD%AC%E5%AD%98%EF%BC%81%E6%9A%B4%E9%9B%A8%E5%A4%A9%E6%B0%9410%E4%B8%AA%E5%AE%89%E5%85%A8%E6%8C%87%E5%8D%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [央视曝光甘肃掏空家底级工程](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E7%94%98%E8%82%83%E6%8E%8F%E7%A9%BA%E5%AE%B6%E5%BA%95%E7%BA%A7%E5%B7%A5%E7%A8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [千万不要犯罪因为浏览记录会让人社死](https://www.baidu.com/s?wd=%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E7%8A%AF%E7%BD%AA%E5%9B%A0%E4%B8%BA%E6%B5%8F%E8%A7%88%E8%AE%B0%E5%BD%95%E4%BC%9A%E8%AE%A9%E4%BA%BA%E7%A4%BE%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [北京：本次降雨为140年以来最大降雨](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%EF%BC%9A%E6%9C%AC%E6%AC%A1%E9%99%8D%E9%9B%A8%E4%B8%BA140%E5%B9%B4%E4%BB%A5%E6%9D%A5%E6%9C%80%E5%A4%A7%E9%99%8D%E9%9B%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -32,7 +32,7 @@
 1. [全力保障人民生命财产安全](https://www.baidu.com/s?wd=%E5%85%A8%E5%8A%9B%E4%BF%9D%E9%9A%9C%E4%BA%BA%E6%B0%91%E7%94%9F%E5%91%BD%E8%B4%A2%E4%BA%A7%E5%AE%89%E5%85%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [涿州村民：很多人没把泄洪通知当回事](https://www.baidu.com/s?wd=%E6%B6%BF%E5%B7%9E%E6%9D%91%E6%B0%91%EF%BC%9A%E5%BE%88%E5%A4%9A%E4%BA%BA%E6%B2%A1%E6%8A%8A%E6%B3%84%E6%B4%AA%E9%80%9A%E7%9F%A5%E5%BD%93%E5%9B%9E%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [河北一地深夜通知撤离 车辆排长队](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E4%B8%80%E5%9C%B0%E6%B7%B1%E5%A4%9C%E9%80%9A%E7%9F%A5%E6%92%A4%E7%A6%BB+%E8%BD%A6%E8%BE%86%E6%8E%92%E9%95%BF%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [暴雨天如何科学避险？](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E5%A4%A9%E5%A6%82%E4%BD%95%E7%A7%91%E5%AD%A6%E9%81%BF%E9%99%A9%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [转存！暴雨天气10个安全指南](https://www.baidu.com/s?wd=%E8%BD%AC%E5%AD%98%EF%BC%81%E6%9A%B4%E9%9B%A8%E5%A4%A9%E6%B0%9410%E4%B8%AA%E5%AE%89%E5%85%A8%E6%8C%87%E5%8D%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [央视曝光甘肃掏空家底级工程](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E7%94%98%E8%82%83%E6%8E%8F%E7%A9%BA%E5%AE%B6%E5%BA%95%E7%BA%A7%E5%B7%A5%E7%A8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [千万不要犯罪因为浏览记录会让人社死](https://www.baidu.com/s?wd=%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E7%8A%AF%E7%BD%AA%E5%9B%A0%E4%B8%BA%E6%B5%8F%E8%A7%88%E8%AE%B0%E5%BD%95%E4%BC%9A%E8%AE%A9%E4%BA%BA%E7%A4%BE%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [北京：本次降雨为140年以来最大降雨](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%EF%BC%9A%E6%9C%AC%E6%AC%A1%E9%99%8D%E9%9B%A8%E4%B8%BA140%E5%B9%B4%E4%BB%A5%E6%9D%A5%E6%9C%80%E5%A4%A7%E9%99%8D%E9%9B%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
