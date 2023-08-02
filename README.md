@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-02 19:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-02 19:55:01</h4></div>
 
 > 微博  
 
@@ -21,7 +21,7 @@
 2. [北京救灾牺牲消防员冯振获批为烈士](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E6%95%91%E7%81%BE%E7%89%BA%E7%89%B2%E6%B6%88%E9%98%B2%E5%91%98%E5%86%AF%E6%8C%AF%E8%8E%B7%E6%89%B9%E4%B8%BA%E7%83%88%E5%A3%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [涿州救援不易：正经历断水断粮断电](https://www.baidu.com/s?wd=%E6%B6%BF%E5%B7%9E%E6%95%91%E6%8F%B4%E4%B8%8D%E6%98%93%EF%BC%9A%E6%AD%A3%E7%BB%8F%E5%8E%86%E6%96%AD%E6%B0%B4%E6%96%AD%E7%B2%AE%E6%96%AD%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全力以赴 应对极端降雨](https://www.baidu.com/s?wd=%E5%85%A8%E5%8A%9B%E4%BB%A5%E8%B5%B4+%E5%BA%94%E5%AF%B9%E6%9E%81%E7%AB%AF%E9%99%8D%E9%9B%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [美决定向台地区提供军援 外交部回应](https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%B3%E5%AE%9A%E5%90%91%E5%8F%B0%E5%9C%B0%E5%8C%BA%E6%8F%90%E4%BE%9B%E5%86%9B%E6%8F%B4+%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [居民撤离收费站仍挨个发卡 高速回应](https://www.baidu.com/s?wd=%E5%B1%85%E6%B0%91%E6%92%A4%E7%A6%BB%E6%94%B6%E8%B4%B9%E7%AB%99%E4%BB%8D%E6%8C%A8%E4%B8%AA%E5%8F%91%E5%8D%A1+%E9%AB%98%E9%80%9F%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [吃早餐被女生强吻男子已报警](https://www.baidu.com/s?wd=%E5%90%83%E6%97%A9%E9%A4%90%E8%A2%AB%E5%A5%B3%E7%94%9F%E5%BC%BA%E5%90%BB%E7%94%B7%E5%AD%90%E5%B7%B2%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子过海关双腿绑满少女针](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%BF%87%E6%B5%B7%E5%85%B3%E5%8F%8C%E8%85%BF%E7%BB%91%E6%BB%A1%E5%B0%91%E5%A5%B3%E9%92%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [涿州获救农民：两千斤小麦被泡毁](https://www.baidu.com/s?wd=%E6%B6%BF%E5%B7%9E%E8%8E%B7%E6%95%91%E5%86%9C%E6%B0%91%EF%BC%9A%E4%B8%A4%E5%8D%83%E6%96%A4%E5%B0%8F%E9%BA%A6%E8%A2%AB%E6%B3%A1%E6%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -33,7 +33,7 @@
 2. [北京救灾牺牲消防员冯振获批为烈士](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E6%95%91%E7%81%BE%E7%89%BA%E7%89%B2%E6%B6%88%E9%98%B2%E5%91%98%E5%86%AF%E6%8C%AF%E8%8E%B7%E6%89%B9%E4%B8%BA%E7%83%88%E5%A3%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [涿州救援不易：正经历断水断粮断电](https://www.baidu.com/s?wd=%E6%B6%BF%E5%B7%9E%E6%95%91%E6%8F%B4%E4%B8%8D%E6%98%93%EF%BC%9A%E6%AD%A3%E7%BB%8F%E5%8E%86%E6%96%AD%E6%B0%B4%E6%96%AD%E7%B2%AE%E6%96%AD%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全力以赴 应对极端降雨](https://www.baidu.com/s?wd=%E5%85%A8%E5%8A%9B%E4%BB%A5%E8%B5%B4+%E5%BA%94%E5%AF%B9%E6%9E%81%E7%AB%AF%E9%99%8D%E9%9B%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [美决定向台地区提供军援 外交部回应](https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%B3%E5%AE%9A%E5%90%91%E5%8F%B0%E5%9C%B0%E5%8C%BA%E6%8F%90%E4%BE%9B%E5%86%9B%E6%8F%B4+%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [居民撤离收费站仍挨个发卡 高速回应](https://www.baidu.com/s?wd=%E5%B1%85%E6%B0%91%E6%92%A4%E7%A6%BB%E6%94%B6%E8%B4%B9%E7%AB%99%E4%BB%8D%E6%8C%A8%E4%B8%AA%E5%8F%91%E5%8D%A1+%E9%AB%98%E9%80%9F%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [吃早餐被女生强吻男子已报警](https://www.baidu.com/s?wd=%E5%90%83%E6%97%A9%E9%A4%90%E8%A2%AB%E5%A5%B3%E7%94%9F%E5%BC%BA%E5%90%BB%E7%94%B7%E5%AD%90%E5%B7%B2%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子过海关双腿绑满少女针](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%BF%87%E6%B5%B7%E5%85%B3%E5%8F%8C%E8%85%BF%E7%BB%91%E6%BB%A1%E5%B0%91%E5%A5%B3%E9%92%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [涿州获救农民：两千斤小麦被泡毁](https://www.baidu.com/s?wd=%E6%B6%BF%E5%B7%9E%E8%8E%B7%E6%95%91%E5%86%9C%E6%B0%91%EF%BC%9A%E4%B8%A4%E5%8D%83%E6%96%A4%E5%B0%8F%E9%BA%A6%E8%A2%AB%E6%B3%A1%E6%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
