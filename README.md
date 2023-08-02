@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-02 18:32:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-02 18:33:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [美决定向台地区提供军援 外交部回应](https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%B3%E5%AE%9A%E5%90%91%E5%8F%B0%E5%9C%B0%E5%8C%BA%E6%8F%90%E4%BE%9B%E5%86%9B%E6%8F%B4+%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [胡锡进评佳木斯将建方舱医院：滑稽](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%E8%AF%84%E4%BD%B3%E6%9C%A8%E6%96%AF%E5%B0%86%E5%BB%BA%E6%96%B9%E8%88%B1%E5%8C%BB%E9%99%A2%EF%BC%9A%E6%BB%91%E7%A8%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [涿州饭店借烛光为200名救援人员做饭](https://www.baidu.com/s?wd=%E6%B6%BF%E5%B7%9E%E9%A5%AD%E5%BA%97%E5%80%9F%E7%83%9B%E5%85%89%E4%B8%BA200%E5%90%8D%E6%95%91%E6%8F%B4%E4%BA%BA%E5%91%98%E5%81%9A%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [住酒店发现水壶中有内裤？酒店回应](https://www.baidu.com/s?wd=%E4%BD%8F%E9%85%92%E5%BA%97%E5%8F%91%E7%8E%B0%E6%B0%B4%E5%A3%B6%E4%B8%AD%E6%9C%89%E5%86%85%E8%A3%A4%EF%BC%9F%E9%85%92%E5%BA%97%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [刘亦菲霍建华在人大拍戏](https://www.baidu.com/s?wd=%E5%88%98%E4%BA%A6%E8%8F%B2%E9%9C%8D%E5%BB%BA%E5%8D%8E%E5%9C%A8%E4%BA%BA%E5%A4%A7%E6%8B%8D%E6%88%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [#京津冀暴雨互助#](https://www.baidu.com/s?wd=%23%E4%BA%AC%E6%B4%A5%E5%86%80%E6%9A%B4%E9%9B%A8%E4%BA%92%E5%8A%A9%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [美决定向台地区提供军援 外交部回应](https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%B3%E5%AE%9A%E5%90%91%E5%8F%B0%E5%9C%B0%E5%8C%BA%E6%8F%90%E4%BE%9B%E5%86%9B%E6%8F%B4+%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [胡锡进评佳木斯将建方舱医院：滑稽](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%E8%AF%84%E4%BD%B3%E6%9C%A8%E6%96%AF%E5%B0%86%E5%BB%BA%E6%96%B9%E8%88%B1%E5%8C%BB%E9%99%A2%EF%BC%9A%E6%BB%91%E7%A8%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [涿州饭店借烛光为200名救援人员做饭](https://www.baidu.com/s?wd=%E6%B6%BF%E5%B7%9E%E9%A5%AD%E5%BA%97%E5%80%9F%E7%83%9B%E5%85%89%E4%B8%BA200%E5%90%8D%E6%95%91%E6%8F%B4%E4%BA%BA%E5%91%98%E5%81%9A%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [住酒店发现水壶中有内裤？酒店回应](https://www.baidu.com/s?wd=%E4%BD%8F%E9%85%92%E5%BA%97%E5%8F%91%E7%8E%B0%E6%B0%B4%E5%A3%B6%E4%B8%AD%E6%9C%89%E5%86%85%E8%A3%A4%EF%BC%9F%E9%85%92%E5%BA%97%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [刘亦菲霍建华在人大拍戏](https://www.baidu.com/s?wd=%E5%88%98%E4%BA%A6%E8%8F%B2%E9%9C%8D%E5%BB%BA%E5%8D%8E%E5%9C%A8%E4%BA%BA%E5%A4%A7%E6%8B%8D%E6%88%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [#京津冀暴雨互助#](https://www.baidu.com/s?wd=%23%E4%BA%AC%E6%B4%A5%E5%86%80%E6%9A%B4%E9%9B%A8%E4%BA%92%E5%8A%A9%23&sa=fyb_news&rsv_dl=fyb_news)<br />
