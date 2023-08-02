@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-02 18:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-02 18:19:02</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [全力以赴 应对极端降雨](https://www.baidu.com/s?wd=%E5%85%A8%E5%8A%9B%E4%BB%A5%E8%B5%B4+%E5%BA%94%E5%AF%B9%E6%9E%81%E7%AB%AF%E9%99%8D%E9%9B%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [美决定向台地区提供军援 外交部回应](https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%B3%E5%AE%9A%E5%90%91%E5%8F%B0%E5%9C%B0%E5%8C%BA%E6%8F%90%E4%BE%9B%E5%86%9B%E6%8F%B4+%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [胡锡进评佳木斯将建方舱医院：滑稽](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%E8%AF%84%E4%BD%B3%E6%9C%A8%E6%96%AF%E5%B0%86%E5%BB%BA%E6%96%B9%E8%88%B1%E5%8C%BB%E9%99%A2%EF%BC%9A%E6%BB%91%E7%A8%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [住酒店发现水壶中有内裤？酒店回应](https://www.baidu.com/s?wd=%E4%BD%8F%E9%85%92%E5%BA%97%E5%8F%91%E7%8E%B0%E6%B0%B4%E5%A3%B6%E4%B8%AD%E6%9C%89%E5%86%85%E8%A3%A4%EF%BC%9F%E9%85%92%E5%BA%97%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [航拍涿州洪水：道路被淹仅剩树冠](https://www.baidu.com/s?wd=%E8%88%AA%E6%8B%8D%E6%B6%BF%E5%B7%9E%E6%B4%AA%E6%B0%B4%EF%BC%9A%E9%81%93%E8%B7%AF%E8%A2%AB%E6%B7%B9%E4%BB%85%E5%89%A9%E6%A0%91%E5%86%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [涿州洪灾救援者：水深超2米 暗流多](https://www.baidu.com/s?wd=%E6%B6%BF%E5%B7%9E%E6%B4%AA%E7%81%BE%E6%95%91%E6%8F%B4%E8%80%85%EF%BC%9A%E6%B0%B4%E6%B7%B1%E8%B6%852%E7%B1%B3+%E6%9A%97%E6%B5%81%E5%A4%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [住酒店发现水壶中有内裤？酒店回应](https://www.baidu.com/s?wd=%E4%BD%8F%E9%85%92%E5%BA%97%E5%8F%91%E7%8E%B0%E6%B0%B4%E5%A3%B6%E4%B8%AD%E6%9C%89%E5%86%85%E8%A3%A4%EF%BC%9F%E9%85%92%E5%BA%97%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [#京津冀暴雨互助#](https://www.baidu.com/s?wd=%23%E4%BA%AC%E6%B4%A5%E5%86%80%E6%9A%B4%E9%9B%A8%E4%BA%92%E5%8A%A9%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [全力以赴 应对极端降雨](https://www.baidu.com/s?wd=%E5%85%A8%E5%8A%9B%E4%BB%A5%E8%B5%B4+%E5%BA%94%E5%AF%B9%E6%9E%81%E7%AB%AF%E9%99%8D%E9%9B%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [美决定向台地区提供军援 外交部回应](https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%B3%E5%AE%9A%E5%90%91%E5%8F%B0%E5%9C%B0%E5%8C%BA%E6%8F%90%E4%BE%9B%E5%86%9B%E6%8F%B4+%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [胡锡进评佳木斯将建方舱医院：滑稽](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%E8%AF%84%E4%BD%B3%E6%9C%A8%E6%96%AF%E5%B0%86%E5%BB%BA%E6%96%B9%E8%88%B1%E5%8C%BB%E9%99%A2%EF%BC%9A%E6%BB%91%E7%A8%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [住酒店发现水壶中有内裤？酒店回应](https://www.baidu.com/s?wd=%E4%BD%8F%E9%85%92%E5%BA%97%E5%8F%91%E7%8E%B0%E6%B0%B4%E5%A3%B6%E4%B8%AD%E6%9C%89%E5%86%85%E8%A3%A4%EF%BC%9F%E9%85%92%E5%BA%97%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [航拍涿州洪水：道路被淹仅剩树冠](https://www.baidu.com/s?wd=%E8%88%AA%E6%8B%8D%E6%B6%BF%E5%B7%9E%E6%B4%AA%E6%B0%B4%EF%BC%9A%E9%81%93%E8%B7%AF%E8%A2%AB%E6%B7%B9%E4%BB%85%E5%89%A9%E6%A0%91%E5%86%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [涿州洪灾救援者：水深超2米 暗流多](https://www.baidu.com/s?wd=%E6%B6%BF%E5%B7%9E%E6%B4%AA%E7%81%BE%E6%95%91%E6%8F%B4%E8%80%85%EF%BC%9A%E6%B0%B4%E6%B7%B1%E8%B6%852%E7%B1%B3+%E6%9A%97%E6%B5%81%E5%A4%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [住酒店发现水壶中有内裤？酒店回应](https://www.baidu.com/s?wd=%E4%BD%8F%E9%85%92%E5%BA%97%E5%8F%91%E7%8E%B0%E6%B0%B4%E5%A3%B6%E4%B8%AD%E6%9C%89%E5%86%85%E8%A3%A4%EF%BC%9F%E9%85%92%E5%BA%97%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [#京津冀暴雨互助#](https://www.baidu.com/s?wd=%23%E4%BA%AC%E6%B4%A5%E5%86%80%E6%9A%B4%E9%9B%A8%E4%BA%92%E5%8A%A9%23&sa=fyb_news&rsv_dl=fyb_news)<br />
