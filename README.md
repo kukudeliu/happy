@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-02 08:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-02 08:41:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [涿州目前全域停水部分停电](https://s.weibo.com/weibo?q=%23%E6%B6%BF%E5%B7%9E%E7%9B%AE%E5%89%8D%E5%85%A8%E5%9F%9F%E5%81%9C%E6%B0%B4%E9%83%A8%E5%88%86%E5%81%9C%E7%94%B5%23&t=31&band_rank=6&Refer=top)<br />
 7. [台风卡努抵近日本冲绳](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E5%8D%A1%E5%8A%AA%E6%8A%B5%E8%BF%91%E6%97%A5%E6%9C%AC%E5%86%B2%E7%BB%B3%23&t=31&band_rank=7&Refer=top)<br />
 8. [封神票房](https://s.weibo.com/weibo?q=%E5%B0%81%E7%A5%9E%E7%A5%A8%E6%88%BF&t=31&band_rank=8&Refer=top)<br />
-9. [感谢老天送我一个情绪稳定的女儿](https://s.weibo.com/weibo?q=%E6%84%9F%E8%B0%A2%E8%80%81%E5%A4%A9%E9%80%81%E6%88%91%E4%B8%80%E4%B8%AA%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A%E7%9A%84%E5%A5%B3%E5%84%BF&t=31&band_rank=9&Refer=top)<br />
+9. [韩国室温超导团队称论文存在缺陷](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%AE%A4%E6%B8%A9%E8%B6%85%E5%AF%BC%E5%9B%A2%E9%98%9F%E7%A7%B0%E8%AE%BA%E6%96%87%E5%AD%98%E5%9C%A8%E7%BC%BA%E9%99%B7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
