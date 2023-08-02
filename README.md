@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-02 10:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-02 10:13:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [微信小绿书](https://s.weibo.com/weibo?q=%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%BB%BF%E4%B9%A6&t=31&band_rank=5&Refer=top)<br />
 6. [被不卫生的水泡过的饮料不要喝](https://s.weibo.com/weibo?q=%E8%A2%AB%E4%B8%8D%E5%8D%AB%E7%94%9F%E7%9A%84%E6%B0%B4%E6%B3%A1%E8%BF%87%E7%9A%84%E9%A5%AE%E6%96%99%E4%B8%8D%E8%A6%81%E5%96%9D&t=31&band_rank=6&Refer=top)<br />
 7. [26度高温导致加拿大一家人中暑](https://s.weibo.com/weibo?q=26%E5%BA%A6%E9%AB%98%E6%B8%A9%E5%AF%BC%E8%87%B4%E5%8A%A0%E6%8B%BF%E5%A4%A7%E4%B8%80%E5%AE%B6%E4%BA%BA%E4%B8%AD%E6%9A%91&t=31&band_rank=7&Refer=top)<br />
-8. [千万不要犯罪因为浏览记录会让人社死](https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E7%8A%AF%E7%BD%AA%E5%9B%A0%E4%B8%BA%E6%B5%8F%E8%A7%88%E8%AE%B0%E5%BD%95%E4%BC%9A%E8%AE%A9%E4%BA%BA%E7%A4%BE%E6%AD%BB%23&t=31&band_rank=8&Refer=top)<br />
-9. [TFBOYS演唱会外围疑围钢板安刺尖](https://s.weibo.com/weibo?q=%23TFBOYS%E6%BC%94%E5%94%B1%E4%BC%9A%E5%A4%96%E5%9B%B4%E7%96%91%E5%9B%B4%E9%92%A2%E6%9D%BF%E5%AE%89%E5%88%BA%E5%B0%96%23&t=31&band_rank=9&Refer=top)<br />
+8. [TFBOYS演唱会外围疑围钢板安刺尖](https://s.weibo.com/weibo?q=%23TFBOYS%E6%BC%94%E5%94%B1%E4%BC%9A%E5%A4%96%E5%9B%B4%E7%96%91%E5%9B%B4%E9%92%A2%E6%9D%BF%E5%AE%89%E5%88%BA%E5%B0%96%23&t=31&band_rank=8&Refer=top)<br />
+9. [千万不要犯罪因为浏览记录会让人社死](https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E7%8A%AF%E7%BD%AA%E5%9B%A0%E4%B8%BA%E6%B5%8F%E8%A7%88%E8%AE%B0%E5%BD%95%E4%BC%9A%E8%AE%A9%E4%BA%BA%E7%A4%BE%E6%AD%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
