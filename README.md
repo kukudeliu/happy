@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-02 23:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-02 23:05:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [全力以赴 应对极端降雨](https://www.baidu.com/s?wd=%E5%85%A8%E5%8A%9B%E4%BB%A5%E8%B5%B4+%E5%BA%94%E5%AF%B9%E6%9E%81%E7%AB%AF%E9%99%8D%E9%9B%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [涿州救援不易：正经历断水断粮断电](https://www.baidu.com/s?wd=%E6%B6%BF%E5%B7%9E%E6%95%91%E6%8F%B4%E4%B8%8D%E6%98%93%EF%BC%9A%E6%AD%A3%E7%BB%8F%E5%8E%86%E6%96%AD%E6%B0%B4%E6%96%AD%E7%B2%AE%E6%96%AD%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [凤凰传奇工作室：律师函不会弄](https://www.baidu.com/s?wd=%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E5%B7%A5%E4%BD%9C%E5%AE%A4%EF%BC%9A%E5%BE%8B%E5%B8%88%E5%87%BD%E4%B8%8D%E4%BC%9A%E5%BC%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [暴雨过后，这些疾病可能多发](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E8%BF%87%E5%90%8E%EF%BC%8C%E8%BF%99%E4%BA%9B%E7%96%BE%E7%97%85%E5%8F%AF%E8%83%BD%E5%A4%9A%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [韩乔生评王霜言论：希望引起重视](https://www.baidu.com/s?wd=%E9%9F%A9%E4%B9%94%E7%94%9F%E8%AF%84%E7%8E%8B%E9%9C%9C%E8%A8%80%E8%AE%BA%EF%BC%9A%E5%B8%8C%E6%9C%9B%E5%BC%95%E8%B5%B7%E9%87%8D%E8%A7%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [韩乔生评王霜言论：希望引起重视](https://www.baidu.com/s?wd=%E9%9F%A9%E4%B9%94%E7%94%9F%E8%AF%84%E7%8E%8B%E9%9C%9C%E8%A8%80%E8%AE%BA%EF%BC%9A%E5%B8%8C%E6%9C%9B%E5%BC%95%E8%B5%B7%E9%87%8D%E8%A7%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [居民撤离收费站仍挨个发卡 高速回应](https://www.baidu.com/s?wd=%E5%B1%85%E6%B0%91%E6%92%A4%E7%A6%BB%E6%94%B6%E8%B4%B9%E7%AB%99%E4%BB%8D%E6%8C%A8%E4%B8%AA%E5%8F%91%E5%8D%A1+%E9%AB%98%E9%80%9F%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [#京津冀暴雨互助#](https://www.baidu.com/s?wd=%23%E4%BA%AC%E6%B4%A5%E5%86%80%E6%9A%B4%E9%9B%A8%E4%BA%92%E5%8A%A9%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [全力以赴 应对极端降雨](https://www.baidu.com/s?wd=%E5%85%A8%E5%8A%9B%E4%BB%A5%E8%B5%B4+%E5%BA%94%E5%AF%B9%E6%9E%81%E7%AB%AF%E9%99%8D%E9%9B%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [涿州救援不易：正经历断水断粮断电](https://www.baidu.com/s?wd=%E6%B6%BF%E5%B7%9E%E6%95%91%E6%8F%B4%E4%B8%8D%E6%98%93%EF%BC%9A%E6%AD%A3%E7%BB%8F%E5%8E%86%E6%96%AD%E6%B0%B4%E6%96%AD%E7%B2%AE%E6%96%AD%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [凤凰传奇工作室：律师函不会弄](https://www.baidu.com/s?wd=%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E5%B7%A5%E4%BD%9C%E5%AE%A4%EF%BC%9A%E5%BE%8B%E5%B8%88%E5%87%BD%E4%B8%8D%E4%BC%9A%E5%BC%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [暴雨过后，这些疾病可能多发](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E8%BF%87%E5%90%8E%EF%BC%8C%E8%BF%99%E4%BA%9B%E7%96%BE%E7%97%85%E5%8F%AF%E8%83%BD%E5%A4%9A%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [韩乔生评王霜言论：希望引起重视](https://www.baidu.com/s?wd=%E9%9F%A9%E4%B9%94%E7%94%9F%E8%AF%84%E7%8E%8B%E9%9C%9C%E8%A8%80%E8%AE%BA%EF%BC%9A%E5%B8%8C%E6%9C%9B%E5%BC%95%E8%B5%B7%E9%87%8D%E8%A7%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [韩乔生评王霜言论：希望引起重视](https://www.baidu.com/s?wd=%E9%9F%A9%E4%B9%94%E7%94%9F%E8%AF%84%E7%8E%8B%E9%9C%9C%E8%A8%80%E8%AE%BA%EF%BC%9A%E5%B8%8C%E6%9C%9B%E5%BC%95%E8%B5%B7%E9%87%8D%E8%A7%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [居民撤离收费站仍挨个发卡 高速回应](https://www.baidu.com/s?wd=%E5%B1%85%E6%B0%91%E6%92%A4%E7%A6%BB%E6%94%B6%E8%B4%B9%E7%AB%99%E4%BB%8D%E6%8C%A8%E4%B8%AA%E5%8F%91%E5%8D%A1+%E9%AB%98%E9%80%9F%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [#京津冀暴雨互助#](https://www.baidu.com/s?wd=%23%E4%BA%AC%E6%B4%A5%E5%86%80%E6%9A%B4%E9%9B%A8%E4%BA%92%E5%8A%A9%23&sa=fyb_news&rsv_dl=fyb_news)<br />
