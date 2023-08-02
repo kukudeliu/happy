@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-02 08:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-02 08:22:01</h4></div>
 
 > 微博  
 
-1. [猎罪图鉴2 加女主](https://s.weibo.com/weibo?q=%E7%8C%8E%E7%BD%AA%E5%9B%BE%E9%89%B42%20%E5%8A%A0%E5%A5%B3%E4%B8%BB&t=31&band_rank=1&Refer=top)<br />
-2. [芭比被日本大规模抵制](https://s.weibo.com/weibo?q=%23%E8%8A%AD%E6%AF%94%E8%A2%AB%E6%97%A5%E6%9C%AC%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8A%B5%E5%88%B6%23&t=31&band_rank=2&Refer=top)<br />
+1. [芭比被日本大规模抵制](https://s.weibo.com/weibo?q=%23%E8%8A%AD%E6%AF%94%E8%A2%AB%E6%97%A5%E6%9C%AC%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8A%B5%E5%88%B6%23&t=31&band_rank=1&Refer=top)<br />
+2. [猎罪图鉴2 加女主](https://s.weibo.com/weibo?q=%E7%8C%8E%E7%BD%AA%E5%9B%BE%E9%89%B42%20%E5%8A%A0%E5%A5%B3%E4%B8%BB&t=31&band_rank=2&Refer=top)<br />
 3. [暴雨天气10个安全指南](https://s.weibo.com/weibo?q=%23%E6%9A%B4%E9%9B%A8%E5%A4%A9%E6%B0%9410%E4%B8%AA%E5%AE%89%E5%85%A8%E6%8C%87%E5%8D%97%23&t=31&band_rank=3&Refer=top)<br />
 4. [微信小绿书](https://s.weibo.com/weibo?q=%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%BB%BF%E4%B9%A6&t=31&band_rank=4&Refer=top)<br />
 5. [台风卡努抵近日本冲绳](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E5%8D%A1%E5%8A%AA%E6%8A%B5%E8%BF%91%E6%97%A5%E6%9C%AC%E5%86%B2%E7%BB%B3%23&t=31&band_rank=5&Refer=top)<br />
