@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-02 10:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-02 10:18:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [被不卫生的水泡过的饮料不要喝](https://s.weibo.com/weibo?q=%E8%A2%AB%E4%B8%8D%E5%8D%AB%E7%94%9F%E7%9A%84%E6%B0%B4%E6%B3%A1%E8%BF%87%E7%9A%84%E9%A5%AE%E6%96%99%E4%B8%8D%E8%A6%81%E5%96%9D&t=31&band_rank=6&Refer=top)<br />
 7. [26度高温导致加拿大一家人中暑](https://s.weibo.com/weibo?q=26%E5%BA%A6%E9%AB%98%E6%B8%A9%E5%AF%BC%E8%87%B4%E5%8A%A0%E6%8B%BF%E5%A4%A7%E4%B8%80%E5%AE%B6%E4%BA%BA%E4%B8%AD%E6%9A%91&t=31&band_rank=7&Refer=top)<br />
 8. [TFBOYS演唱会外围疑围钢板安刺尖](https://s.weibo.com/weibo?q=%23TFBOYS%E6%BC%94%E5%94%B1%E4%BC%9A%E5%A4%96%E5%9B%B4%E7%96%91%E5%9B%B4%E9%92%A2%E6%9D%BF%E5%AE%89%E5%88%BA%E5%B0%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [微信回应看朋友圈会自动点赞](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E5%9B%9E%E5%BA%94%E7%9C%8B%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%BC%9A%E8%87%AA%E5%8A%A8%E7%82%B9%E8%B5%9E%23&t=31&band_rank=9&Refer=top)<br />
+9. [千万不要犯罪因为浏览记录会让人社死](https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E7%8A%AF%E7%BD%AA%E5%9B%A0%E4%B8%BA%E6%B5%8F%E8%A7%88%E8%AE%B0%E5%BD%95%E4%BC%9A%E8%AE%A9%E4%BA%BA%E7%A4%BE%E6%AD%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -25,7 +25,7 @@
 6. [“大黄鱼抱枕”被炒到666元](https://www.baidu.com/s?wd=%E2%80%9C%E5%A4%A7%E9%BB%84%E9%B1%BC%E6%8A%B1%E6%9E%95%E2%80%9D%E8%A2%AB%E7%82%92%E5%88%B0666%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [千万不要犯罪因为浏览记录会让人社死](https://www.baidu.com/s?wd=%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E7%8A%AF%E7%BD%AA%E5%9B%A0%E4%B8%BA%E6%B5%8F%E8%A7%88%E8%AE%B0%E5%BD%95%E4%BC%9A%E8%AE%A9%E4%BA%BA%E7%A4%BE%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [洪水穿过物流重镇 图书库房损失过亿](https://www.baidu.com/s?wd=%E6%B4%AA%E6%B0%B4%E7%A9%BF%E8%BF%87%E7%89%A9%E6%B5%81%E9%87%8D%E9%95%87+%E5%9B%BE%E4%B9%A6%E5%BA%93%E6%88%BF%E6%8D%9F%E5%A4%B1%E8%BF%87%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [芭比被日本大规模抵制](https://www.baidu.com/s?wd=%E8%8A%AD%E6%AF%94%E8%A2%AB%E6%97%A5%E6%9C%AC%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8A%B5%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [被不卫生的水泡过的饮料不要喝](https://www.baidu.com/s?wd=%E8%A2%AB%E4%B8%8D%E5%8D%AB%E7%94%9F%E7%9A%84%E6%B0%B4%E6%B3%A1%E8%BF%87%E7%9A%84%E9%A5%AE%E6%96%99%E4%B8%8D%E8%A6%81%E5%96%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [“大黄鱼抱枕”被炒到666元](https://www.baidu.com/s?wd=%E2%80%9C%E5%A4%A7%E9%BB%84%E9%B1%BC%E6%8A%B1%E6%9E%95%E2%80%9D%E8%A2%AB%E7%82%92%E5%88%B0666%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [千万不要犯罪因为浏览记录会让人社死](https://www.baidu.com/s?wd=%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E7%8A%AF%E7%BD%AA%E5%9B%A0%E4%B8%BA%E6%B5%8F%E8%A7%88%E8%AE%B0%E5%BD%95%E4%BC%9A%E8%AE%A9%E4%BA%BA%E7%A4%BE%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [洪水穿过物流重镇 图书库房损失过亿](https://www.baidu.com/s?wd=%E6%B4%AA%E6%B0%B4%E7%A9%BF%E8%BF%87%E7%89%A9%E6%B5%81%E9%87%8D%E9%95%87+%E5%9B%BE%E4%B9%A6%E5%BA%93%E6%88%BF%E6%8D%9F%E5%A4%B1%E8%BF%87%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [芭比被日本大规模抵制](https://www.baidu.com/s?wd=%E8%8A%AD%E6%AF%94%E8%A2%AB%E6%97%A5%E6%9C%AC%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8A%B5%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [被不卫生的水泡过的饮料不要喝](https://www.baidu.com/s?wd=%E8%A2%AB%E4%B8%8D%E5%8D%AB%E7%94%9F%E7%9A%84%E6%B0%B4%E6%B3%A1%E8%BF%87%E7%9A%84%E9%A5%AE%E6%96%99%E4%B8%8D%E8%A6%81%E5%96%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
