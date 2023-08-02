@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-02 13:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-02 13:39:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [北京顶奢酒店幕后老板身家33亿](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E9%A1%B6%E5%A5%A2%E9%85%92%E5%BA%97%E5%B9%95%E5%90%8E%E8%80%81%E6%9D%BF%E8%BA%AB%E5%AE%B633%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [63岁房东多次擅闯男租客房间](https://www.baidu.com/s?wd=63%E5%B2%81%E6%88%BF%E4%B8%9C%E5%A4%9A%E6%AC%A1%E6%93%85%E9%97%AF%E7%94%B7%E7%A7%9F%E5%AE%A2%E6%88%BF%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [洪水穿过物流重镇 图书库房损失过亿](https://www.baidu.com/s?wd=%E6%B4%AA%E6%B0%B4%E7%A9%BF%E8%BF%87%E7%89%A9%E6%B5%81%E9%87%8D%E9%95%87+%E5%9B%BE%E4%B9%A6%E5%BA%93%E6%88%BF%E6%8D%9F%E5%A4%B1%E8%BF%87%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子杀岳母妻子 警方被质疑保护不力](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%9D%80%E5%B2%B3%E6%AF%8D%E5%A6%BB%E5%AD%90+%E8%AD%A6%E6%96%B9%E8%A2%AB%E8%B4%A8%E7%96%91%E4%BF%9D%E6%8A%A4%E4%B8%8D%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [千万不要犯罪因为浏览记录会让人社死](https://www.baidu.com/s?wd=%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E7%8A%AF%E7%BD%AA%E5%9B%A0%E4%B8%BA%E6%B5%8F%E8%A7%88%E8%AE%B0%E5%BD%95%E4%BC%9A%E8%AE%A9%E4%BA%BA%E7%A4%BE%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [北京顶奢酒店幕后老板身家33亿](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E9%A1%B6%E5%A5%A2%E9%85%92%E5%BA%97%E5%B9%95%E5%90%8E%E8%80%81%E6%9D%BF%E8%BA%AB%E5%AE%B633%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [63岁房东多次擅闯男租客房间](https://www.baidu.com/s?wd=63%E5%B2%81%E6%88%BF%E4%B8%9C%E5%A4%9A%E6%AC%A1%E6%93%85%E9%97%AF%E7%94%B7%E7%A7%9F%E5%AE%A2%E6%88%BF%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [洪水穿过物流重镇 图书库房损失过亿](https://www.baidu.com/s?wd=%E6%B4%AA%E6%B0%B4%E7%A9%BF%E8%BF%87%E7%89%A9%E6%B5%81%E9%87%8D%E9%95%87+%E5%9B%BE%E4%B9%A6%E5%BA%93%E6%88%BF%E6%8D%9F%E5%A4%B1%E8%BF%87%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子杀岳母妻子 警方被质疑保护不力](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%9D%80%E5%B2%B3%E6%AF%8D%E5%A6%BB%E5%AD%90+%E8%AD%A6%E6%96%B9%E8%A2%AB%E8%B4%A8%E7%96%91%E4%BF%9D%E6%8A%A4%E4%B8%8D%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [千万不要犯罪因为浏览记录会让人社死](https://www.baidu.com/s?wd=%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E7%8A%AF%E7%BD%AA%E5%9B%A0%E4%B8%BA%E6%B5%8F%E8%A7%88%E8%AE%B0%E5%BD%95%E4%BC%9A%E8%AE%A9%E4%BA%BA%E7%A4%BE%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
