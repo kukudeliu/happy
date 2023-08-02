@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-02 22:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-02 22:34:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [全力以赴 应对极端降雨](https://www.baidu.com/s?wd=%E5%85%A8%E5%8A%9B%E4%BB%A5%E8%B5%B4+%E5%BA%94%E5%AF%B9%E6%9E%81%E7%AB%AF%E9%99%8D%E9%9B%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [快递被暴雨泡毁赔不赔？公司回应](https://www.baidu.com/s?wd=%E5%BF%AB%E9%80%92%E8%A2%AB%E6%9A%B4%E9%9B%A8%E6%B3%A1%E6%AF%81%E8%B5%94%E4%B8%8D%E8%B5%94%EF%BC%9F%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [凤凰传奇工作室：律师函不会弄](https://www.baidu.com/s?wd=%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E5%B7%A5%E4%BD%9C%E5%AE%A4%EF%BC%9A%E5%BE%8B%E5%B8%88%E5%87%BD%E4%B8%8D%E4%BC%9A%E5%BC%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [邀请函拦住外地救援队？涿州回应](https://www.baidu.com/s?wd=%E9%82%80%E8%AF%B7%E5%87%BD%E6%8B%A6%E4%BD%8F%E5%A4%96%E5%9C%B0%E6%95%91%E6%8F%B4%E9%98%9F%EF%BC%9F%E6%B6%BF%E5%B7%9E%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [涿州获救农民：两千斤小麦被泡毁](https://www.baidu.com/s?wd=%E6%B6%BF%E5%B7%9E%E8%8E%B7%E6%95%91%E5%86%9C%E6%B0%91%EF%BC%9A%E4%B8%A4%E5%8D%83%E6%96%A4%E5%B0%8F%E9%BA%A6%E8%A2%AB%E6%B3%A1%E6%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [河北小伙结婚当天开铲车接新娘](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E5%B0%8F%E4%BC%99%E7%BB%93%E5%A9%9A%E5%BD%93%E5%A4%A9%E5%BC%80%E9%93%B2%E8%BD%A6%E6%8E%A5%E6%96%B0%E5%A8%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [邀请函拦住外地救援队？涿州回应](https://www.baidu.com/s?wd=%E9%82%80%E8%AF%B7%E5%87%BD%E6%8B%A6%E4%BD%8F%E5%A4%96%E5%9C%B0%E6%95%91%E6%8F%B4%E9%98%9F%EF%BC%9F%E6%B6%BF%E5%B7%9E%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [#京津冀暴雨互助#](https://www.baidu.com/s?wd=%23%E4%BA%AC%E6%B4%A5%E5%86%80%E6%9A%B4%E9%9B%A8%E4%BA%92%E5%8A%A9%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [全力以赴 应对极端降雨](https://www.baidu.com/s?wd=%E5%85%A8%E5%8A%9B%E4%BB%A5%E8%B5%B4+%E5%BA%94%E5%AF%B9%E6%9E%81%E7%AB%AF%E9%99%8D%E9%9B%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [快递被暴雨泡毁赔不赔？公司回应](https://www.baidu.com/s?wd=%E5%BF%AB%E9%80%92%E8%A2%AB%E6%9A%B4%E9%9B%A8%E6%B3%A1%E6%AF%81%E8%B5%94%E4%B8%8D%E8%B5%94%EF%BC%9F%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [凤凰传奇工作室：律师函不会弄](https://www.baidu.com/s?wd=%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E5%B7%A5%E4%BD%9C%E5%AE%A4%EF%BC%9A%E5%BE%8B%E5%B8%88%E5%87%BD%E4%B8%8D%E4%BC%9A%E5%BC%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [邀请函拦住外地救援队？涿州回应](https://www.baidu.com/s?wd=%E9%82%80%E8%AF%B7%E5%87%BD%E6%8B%A6%E4%BD%8F%E5%A4%96%E5%9C%B0%E6%95%91%E6%8F%B4%E9%98%9F%EF%BC%9F%E6%B6%BF%E5%B7%9E%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [涿州获救农民：两千斤小麦被泡毁](https://www.baidu.com/s?wd=%E6%B6%BF%E5%B7%9E%E8%8E%B7%E6%95%91%E5%86%9C%E6%B0%91%EF%BC%9A%E4%B8%A4%E5%8D%83%E6%96%A4%E5%B0%8F%E9%BA%A6%E8%A2%AB%E6%B3%A1%E6%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [河北小伙结婚当天开铲车接新娘](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E5%B0%8F%E4%BC%99%E7%BB%93%E5%A9%9A%E5%BD%93%E5%A4%A9%E5%BC%80%E9%93%B2%E8%BD%A6%E6%8E%A5%E6%96%B0%E5%A8%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [邀请函拦住外地救援队？涿州回应](https://www.baidu.com/s?wd=%E9%82%80%E8%AF%B7%E5%87%BD%E6%8B%A6%E4%BD%8F%E5%A4%96%E5%9C%B0%E6%95%91%E6%8F%B4%E9%98%9F%EF%BC%9F%E6%B6%BF%E5%B7%9E%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [#京津冀暴雨互助#](https://www.baidu.com/s?wd=%23%E4%BA%AC%E6%B4%A5%E5%86%80%E6%9A%B4%E9%9B%A8%E4%BA%92%E5%8A%A9%23&sa=fyb_news&rsv_dl=fyb_news)<br />
