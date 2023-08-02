@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-02 22:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-02 22:44:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [全力以赴 应对极端降雨](https://www.baidu.com/s?wd=%E5%85%A8%E5%8A%9B%E4%BB%A5%E8%B5%B4+%E5%BA%94%E5%AF%B9%E6%9E%81%E7%AB%AF%E9%99%8D%E9%9B%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [快递被暴雨泡毁赔不赔？公司回应](https://www.baidu.com/s?wd=%E5%BF%AB%E9%80%92%E8%A2%AB%E6%9A%B4%E9%9B%A8%E6%B3%A1%E6%AF%81%E8%B5%94%E4%B8%8D%E8%B5%94%EF%BC%9F%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [凤凰传奇工作室：律师函不会弄](https://www.baidu.com/s?wd=%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E5%B7%A5%E4%BD%9C%E5%AE%A4%EF%BC%9A%E5%BE%8B%E5%B8%88%E5%87%BD%E4%B8%8D%E4%BC%9A%E5%BC%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [央媒评涿州为何损失惨重](https://www.baidu.com/s?wd=%E5%A4%AE%E5%AA%92%E8%AF%84%E6%B6%BF%E5%B7%9E%E4%B8%BA%E4%BD%95%E6%8D%9F%E5%A4%B1%E6%83%A8%E9%87%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [邀请函拦住外地救援队？涿州回应](https://www.baidu.com/s?wd=%E9%82%80%E8%AF%B7%E5%87%BD%E6%8B%A6%E4%BD%8F%E5%A4%96%E5%9C%B0%E6%95%91%E6%8F%B4%E9%98%9F%EF%BC%9F%E6%B6%BF%E5%B7%9E%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [北京救灾牺牲消防员冯振获批为烈士](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E6%95%91%E7%81%BE%E7%89%BA%E7%89%B2%E6%B6%88%E9%98%B2%E5%91%98%E5%86%AF%E6%8C%AF%E8%8E%B7%E6%89%B9%E4%B8%BA%E7%83%88%E5%A3%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [央媒评涿州为何损失惨重](https://www.baidu.com/s?wd=%E5%A4%AE%E5%AA%92%E8%AF%84%E6%B6%BF%E5%B7%9E%E4%B8%BA%E4%BD%95%E6%8D%9F%E5%A4%B1%E6%83%A8%E9%87%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [#京津冀暴雨互助#](https://www.baidu.com/s?wd=%23%E4%BA%AC%E6%B4%A5%E5%86%80%E6%9A%B4%E9%9B%A8%E4%BA%92%E5%8A%A9%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [全力以赴 应对极端降雨](https://www.baidu.com/s?wd=%E5%85%A8%E5%8A%9B%E4%BB%A5%E8%B5%B4+%E5%BA%94%E5%AF%B9%E6%9E%81%E7%AB%AF%E9%99%8D%E9%9B%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [快递被暴雨泡毁赔不赔？公司回应](https://www.baidu.com/s?wd=%E5%BF%AB%E9%80%92%E8%A2%AB%E6%9A%B4%E9%9B%A8%E6%B3%A1%E6%AF%81%E8%B5%94%E4%B8%8D%E8%B5%94%EF%BC%9F%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [凤凰传奇工作室：律师函不会弄](https://www.baidu.com/s?wd=%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E5%B7%A5%E4%BD%9C%E5%AE%A4%EF%BC%9A%E5%BE%8B%E5%B8%88%E5%87%BD%E4%B8%8D%E4%BC%9A%E5%BC%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [央媒评涿州为何损失惨重](https://www.baidu.com/s?wd=%E5%A4%AE%E5%AA%92%E8%AF%84%E6%B6%BF%E5%B7%9E%E4%B8%BA%E4%BD%95%E6%8D%9F%E5%A4%B1%E6%83%A8%E9%87%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [邀请函拦住外地救援队？涿州回应](https://www.baidu.com/s?wd=%E9%82%80%E8%AF%B7%E5%87%BD%E6%8B%A6%E4%BD%8F%E5%A4%96%E5%9C%B0%E6%95%91%E6%8F%B4%E9%98%9F%EF%BC%9F%E6%B6%BF%E5%B7%9E%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [北京救灾牺牲消防员冯振获批为烈士](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E6%95%91%E7%81%BE%E7%89%BA%E7%89%B2%E6%B6%88%E9%98%B2%E5%91%98%E5%86%AF%E6%8C%AF%E8%8E%B7%E6%89%B9%E4%B8%BA%E7%83%88%E5%A3%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [央媒评涿州为何损失惨重](https://www.baidu.com/s?wd=%E5%A4%AE%E5%AA%92%E8%AF%84%E6%B6%BF%E5%B7%9E%E4%B8%BA%E4%BD%95%E6%8D%9F%E5%A4%B1%E6%83%A8%E9%87%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [#京津冀暴雨互助#](https://www.baidu.com/s?wd=%23%E4%BA%AC%E6%B4%A5%E5%86%80%E6%9A%B4%E9%9B%A8%E4%BA%92%E5%8A%A9%23&sa=fyb_news&rsv_dl=fyb_news)<br />
