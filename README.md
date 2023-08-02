@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-03 03:22:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-03 03:23:02</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [全力以赴 应对极端降雨](https://www.baidu.com/s?wd=%E5%85%A8%E5%8A%9B%E4%BB%A5%E8%B5%B4+%E5%BA%94%E5%AF%B9%E6%9E%81%E7%AB%AF%E9%99%8D%E9%9B%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [涿州救援不易：正经历断水断粮断电](https://www.baidu.com/s?wd=%E6%B6%BF%E5%B7%9E%E6%95%91%E6%8F%B4%E4%B8%8D%E6%98%93%EF%BC%9A%E6%AD%A3%E7%BB%8F%E5%8E%86%E6%96%AD%E6%B0%B4%E6%96%AD%E7%B2%AE%E6%96%AD%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [涿州救援博主哭着呼吁大家出力](https://www.baidu.com/s?wd=%E6%B6%BF%E5%B7%9E%E6%95%91%E6%8F%B4%E5%8D%9A%E4%B8%BB%E5%93%AD%E7%9D%80%E5%91%BC%E5%90%81%E5%A4%A7%E5%AE%B6%E5%87%BA%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [市监局突击检查外卖店铺 怒斥老板](https://www.baidu.com/s?wd=%E5%B8%82%E7%9B%91%E5%B1%80%E7%AA%81%E5%87%BB%E6%A3%80%E6%9F%A5%E5%A4%96%E5%8D%96%E5%BA%97%E9%93%BA+%E6%80%92%E6%96%A5%E8%80%81%E6%9D%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [浙江防台风应急响应提升至Ⅲ级](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E9%98%B2%E5%8F%B0%E9%A3%8E%E5%BA%94%E6%80%A5%E5%93%8D%E5%BA%94%E6%8F%90%E5%8D%87%E8%87%B3%E2%85%A2%E7%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [居民撤离收费站仍挨个发卡 高速回应](https://www.baidu.com/s?wd=%E5%B1%85%E6%B0%91%E6%92%A4%E7%A6%BB%E6%94%B6%E8%B4%B9%E7%AB%99%E4%BB%8D%E6%8C%A8%E4%B8%AA%E5%8F%91%E5%8D%A1+%E9%AB%98%E9%80%9F%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [市监局突击检查外卖店铺 怒斥老板](https://www.baidu.com/s?wd=%E5%B8%82%E7%9B%91%E5%B1%80%E7%AA%81%E5%87%BB%E6%A3%80%E6%9F%A5%E5%A4%96%E5%8D%96%E5%BA%97%E9%93%BA+%E6%80%92%E6%96%A5%E8%80%81%E6%9D%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [#京津冀暴雨互助#](https://www.baidu.com/s?wd=%23%E4%BA%AC%E6%B4%A5%E5%86%80%E6%9A%B4%E9%9B%A8%E4%BA%92%E5%8A%A9%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [全力以赴 应对极端降雨](https://www.baidu.com/s?wd=%E5%85%A8%E5%8A%9B%E4%BB%A5%E8%B5%B4+%E5%BA%94%E5%AF%B9%E6%9E%81%E7%AB%AF%E9%99%8D%E9%9B%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [涿州救援不易：正经历断水断粮断电](https://www.baidu.com/s?wd=%E6%B6%BF%E5%B7%9E%E6%95%91%E6%8F%B4%E4%B8%8D%E6%98%93%EF%BC%9A%E6%AD%A3%E7%BB%8F%E5%8E%86%E6%96%AD%E6%B0%B4%E6%96%AD%E7%B2%AE%E6%96%AD%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [涿州救援博主哭着呼吁大家出力](https://www.baidu.com/s?wd=%E6%B6%BF%E5%B7%9E%E6%95%91%E6%8F%B4%E5%8D%9A%E4%B8%BB%E5%93%AD%E7%9D%80%E5%91%BC%E5%90%81%E5%A4%A7%E5%AE%B6%E5%87%BA%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [市监局突击检查外卖店铺 怒斥老板](https://www.baidu.com/s?wd=%E5%B8%82%E7%9B%91%E5%B1%80%E7%AA%81%E5%87%BB%E6%A3%80%E6%9F%A5%E5%A4%96%E5%8D%96%E5%BA%97%E9%93%BA+%E6%80%92%E6%96%A5%E8%80%81%E6%9D%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [浙江防台风应急响应提升至Ⅲ级](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E9%98%B2%E5%8F%B0%E9%A3%8E%E5%BA%94%E6%80%A5%E5%93%8D%E5%BA%94%E6%8F%90%E5%8D%87%E8%87%B3%E2%85%A2%E7%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [居民撤离收费站仍挨个发卡 高速回应](https://www.baidu.com/s?wd=%E5%B1%85%E6%B0%91%E6%92%A4%E7%A6%BB%E6%94%B6%E8%B4%B9%E7%AB%99%E4%BB%8D%E6%8C%A8%E4%B8%AA%E5%8F%91%E5%8D%A1+%E9%AB%98%E9%80%9F%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [市监局突击检查外卖店铺 怒斥老板](https://www.baidu.com/s?wd=%E5%B8%82%E7%9B%91%E5%B1%80%E7%AA%81%E5%87%BB%E6%A3%80%E6%9F%A5%E5%A4%96%E5%8D%96%E5%BA%97%E9%93%BA+%E6%80%92%E6%96%A5%E8%80%81%E6%9D%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [#京津冀暴雨互助#](https://www.baidu.com/s?wd=%23%E4%BA%AC%E6%B4%A5%E5%86%80%E6%9A%B4%E9%9B%A8%E4%BA%92%E5%8A%A9%23&sa=fyb_news&rsv_dl=fyb_news)<br />
