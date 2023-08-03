@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 02:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 02:49:01</h4></div>
 
 > 微博  
 
@@ -23,9 +23,9 @@
 4. [暴雨过后 饮食卫生要注意](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E8%BF%87%E5%90%8E+%E9%A5%AE%E9%A3%9F%E5%8D%AB%E7%94%9F%E8%A6%81%E6%B3%A8%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [重庆事业单位考试多人作弊?官方回应](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E8%80%83%E8%AF%95%E5%A4%9A%E4%BA%BA%E4%BD%9C%E5%BC%8A%3F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [74岁正部级配合调查后首现身](https://www.baidu.com/s?wd=74%E5%B2%81%E6%AD%A3%E9%83%A8%E7%BA%A7%E9%85%8D%E5%90%88%E8%B0%83%E6%9F%A5%E5%90%8E%E9%A6%96%E7%8E%B0%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [河北一男子违反防汛规定被拘](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E4%B8%80%E7%94%B7%E5%AD%90%E8%BF%9D%E5%8F%8D%E9%98%B2%E6%B1%9B%E8%A7%84%E5%AE%9A%E8%A2%AB%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [麦当劳回应不在大陆卖奶昔](https://www.baidu.com/s?wd=%E9%BA%A6%E5%BD%93%E5%8A%B3%E5%9B%9E%E5%BA%94%E4%B8%8D%E5%9C%A8%E5%A4%A7%E9%99%86%E5%8D%96%E5%A5%B6%E6%98%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [台风致浙江一地巨浪拍岸海水倒灌](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E8%87%B4%E6%B5%99%E6%B1%9F%E4%B8%80%E5%9C%B0%E5%B7%A8%E6%B5%AA%E6%8B%8D%E5%B2%B8%E6%B5%B7%E6%B0%B4%E5%80%92%E7%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [高铁客服回应雨天乘客打伞被制止](https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E9%9B%A8%E5%A4%A9%E4%B9%98%E5%AE%A2%E6%89%93%E4%BC%9E%E8%A2%AB%E5%88%B6%E6%AD%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子疑接泄洪撤离通知称“就不撤”](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%96%91%E6%8E%A5%E6%B3%84%E6%B4%AA%E6%92%A4%E7%A6%BB%E9%80%9A%E7%9F%A5%E7%A7%B0%E2%80%9C%E5%B0%B1%E4%B8%8D%E6%92%A4%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女歌手表演时被男观众拖下舞台](https://www.baidu.com/s?wd=%E5%A5%B3%E6%AD%8C%E6%89%8B%E8%A1%A8%E6%BC%94%E6%97%B6%E8%A2%AB%E7%94%B7%E8%A7%82%E4%BC%97%E6%8B%96%E4%B8%8B%E8%88%9E%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -35,6 +35,6 @@
 4. [暴雨过后 饮食卫生要注意](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E8%BF%87%E5%90%8E+%E9%A5%AE%E9%A3%9F%E5%8D%AB%E7%94%9F%E8%A6%81%E6%B3%A8%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [重庆事业单位考试多人作弊?官方回应](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E8%80%83%E8%AF%95%E5%A4%9A%E4%BA%BA%E4%BD%9C%E5%BC%8A%3F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [74岁正部级配合调查后首现身](https://www.baidu.com/s?wd=74%E5%B2%81%E6%AD%A3%E9%83%A8%E7%BA%A7%E9%85%8D%E5%90%88%E8%B0%83%E6%9F%A5%E5%90%8E%E9%A6%96%E7%8E%B0%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [河北一男子违反防汛规定被拘](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E4%B8%80%E7%94%B7%E5%AD%90%E8%BF%9D%E5%8F%8D%E9%98%B2%E6%B1%9B%E8%A7%84%E5%AE%9A%E8%A2%AB%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [麦当劳回应不在大陆卖奶昔](https://www.baidu.com/s?wd=%E9%BA%A6%E5%BD%93%E5%8A%B3%E5%9B%9E%E5%BA%94%E4%B8%8D%E5%9C%A8%E5%A4%A7%E9%99%86%E5%8D%96%E5%A5%B6%E6%98%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [台风致浙江一地巨浪拍岸海水倒灌](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E8%87%B4%E6%B5%99%E6%B1%9F%E4%B8%80%E5%9C%B0%E5%B7%A8%E6%B5%AA%E6%8B%8D%E5%B2%B8%E6%B5%B7%E6%B0%B4%E5%80%92%E7%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [高铁客服回应雨天乘客打伞被制止](https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E9%9B%A8%E5%A4%A9%E4%B9%98%E5%AE%A2%E6%89%93%E4%BC%9E%E8%A2%AB%E5%88%B6%E6%AD%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子疑接泄洪撤离通知称“就不撤”](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%96%91%E6%8E%A5%E6%B3%84%E6%B4%AA%E6%92%A4%E7%A6%BB%E9%80%9A%E7%9F%A5%E7%A7%B0%E2%80%9C%E5%B0%B1%E4%B8%8D%E6%92%A4%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女歌手表演时被男观众拖下舞台](https://www.baidu.com/s?wd=%E5%A5%B3%E6%AD%8C%E6%89%8B%E8%A1%A8%E6%BC%94%E6%97%B6%E8%A2%AB%E7%94%B7%E8%A7%82%E4%BC%97%E6%8B%96%E4%B8%8B%E8%88%9E%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
