@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-03 15:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-03 15:34:01</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [三趟受阻旅客列车上的暖心故事](https://www.baidu.com/s?wd=%E4%B8%89%E8%B6%9F%E5%8F%97%E9%98%BB%E6%97%85%E5%AE%A2%E5%88%97%E8%BD%A6%E4%B8%8A%E7%9A%84%E6%9A%96%E5%BF%83%E6%95%85%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [公安部：全面放宽大城市落户条件](https://www.baidu.com/s?wd=%E5%85%AC%E5%AE%89%E9%83%A8%EF%BC%9A%E5%85%A8%E9%9D%A2%E6%94%BE%E5%AE%BD%E5%A4%A7%E5%9F%8E%E5%B8%82%E8%90%BD%E6%88%B7%E6%9D%A1%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [涿州有书库被淹：一小时2500万没了](https://www.baidu.com/s?wd=%E6%B6%BF%E5%B7%9E%E6%9C%89%E4%B9%A6%E5%BA%93%E8%A2%AB%E6%B7%B9%EF%BC%9A%E4%B8%80%E5%B0%8F%E6%97%B62500%E4%B8%87%E6%B2%A1%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [小伙使用酒店毛巾后被确诊淋病](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E4%BD%BF%E7%94%A8%E9%85%92%E5%BA%97%E6%AF%9B%E5%B7%BE%E5%90%8E%E8%A2%AB%E7%A1%AE%E8%AF%8A%E6%B7%8B%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [K396列车研学团孩子的4天3夜](https://www.baidu.com/s?wd=K396%E5%88%97%E8%BD%A6%E7%A0%94%E5%AD%A6%E5%9B%A2%E5%AD%A9%E5%AD%90%E7%9A%844%E5%A4%A93%E5%A4%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [台风卡努吹飞冲绳自由女神像](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E5%8D%A1%E5%8A%AA%E5%90%B9%E9%A3%9E%E5%86%B2%E7%BB%B3%E8%87%AA%E7%94%B1%E5%A5%B3%E7%A5%9E%E5%83%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [女子趁邻桌不在将剩饭倒其锅内](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%B6%81%E9%82%BB%E6%A1%8C%E4%B8%8D%E5%9C%A8%E5%B0%86%E5%89%A9%E9%A5%AD%E5%80%92%E5%85%B6%E9%94%85%E5%86%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [三趟受阻旅客列车上的暖心故事](https://www.baidu.com/s?wd=%E4%B8%89%E8%B6%9F%E5%8F%97%E9%98%BB%E6%97%85%E5%AE%A2%E5%88%97%E8%BD%A6%E4%B8%8A%E7%9A%84%E6%9A%96%E5%BF%83%E6%95%85%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [公安部：全面放宽大城市落户条件](https://www.baidu.com/s?wd=%E5%85%AC%E5%AE%89%E9%83%A8%EF%BC%9A%E5%85%A8%E9%9D%A2%E6%94%BE%E5%AE%BD%E5%A4%A7%E5%9F%8E%E5%B8%82%E8%90%BD%E6%88%B7%E6%9D%A1%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [涿州有书库被淹：一小时2500万没了](https://www.baidu.com/s?wd=%E6%B6%BF%E5%B7%9E%E6%9C%89%E4%B9%A6%E5%BA%93%E8%A2%AB%E6%B7%B9%EF%BC%9A%E4%B8%80%E5%B0%8F%E6%97%B62500%E4%B8%87%E6%B2%A1%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [小伙使用酒店毛巾后被确诊淋病](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E4%BD%BF%E7%94%A8%E9%85%92%E5%BA%97%E6%AF%9B%E5%B7%BE%E5%90%8E%E8%A2%AB%E7%A1%AE%E8%AF%8A%E6%B7%8B%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [K396列车研学团孩子的4天3夜](https://www.baidu.com/s?wd=K396%E5%88%97%E8%BD%A6%E7%A0%94%E5%AD%A6%E5%9B%A2%E5%AD%A9%E5%AD%90%E7%9A%844%E5%A4%A93%E5%A4%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [台风卡努吹飞冲绳自由女神像](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E5%8D%A1%E5%8A%AA%E5%90%B9%E9%A3%9E%E5%86%B2%E7%BB%B3%E8%87%AA%E7%94%B1%E5%A5%B3%E7%A5%9E%E5%83%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [女子趁邻桌不在将剩饭倒其锅内](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%B6%81%E9%82%BB%E6%A1%8C%E4%B8%8D%E5%9C%A8%E5%B0%86%E5%89%A9%E9%A5%AD%E5%80%92%E5%85%B6%E9%94%85%E5%86%85&sa=fyb_news&rsv_dl=fyb_news)<br />
