@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-03 23:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 00:00:01</h4></div>
 
 > 微博  
 
-1. [蜜雪冰城捐1千万支持抗汛救灾](https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E6%8D%901%E5%8D%83%E4%B8%87%E6%94%AF%E6%8C%81%E6%8A%97%E6%B1%9B%E6%95%91%E7%81%BE%23&t=31&band_rank=1&Refer=top)<br />
-2. [这真的不是帝后吗](https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%9C%9F%E7%9A%84%E4%B8%8D%E6%98%AF%E5%B8%9D%E5%90%8E%E5%90%97%23&t=31&band_rank=2&Refer=top)<br />
+1. [这真的不是帝后吗](https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%9C%9F%E7%9A%84%E4%B8%8D%E6%98%AF%E5%B8%9D%E5%90%8E%E5%90%97%23&t=31&band_rank=1&Refer=top)<br />
+2. [蜜雪冰城捐1千万支持抗汛救灾](https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E6%8D%901%E5%8D%83%E4%B8%87%E6%94%AF%E6%8C%81%E6%8A%97%E6%B1%9B%E6%95%91%E7%81%BE%23&t=31&band_rank=2&Refer=top)<br />
 3. [暴雨洪涝后饮食安全指南](https://s.weibo.com/weibo?q=%23%E6%9A%B4%E9%9B%A8%E6%B4%AA%E6%B6%9D%E5%90%8E%E9%A5%AE%E9%A3%9F%E5%AE%89%E5%85%A8%E6%8C%87%E5%8D%97%23&t=31&band_rank=3&Refer=top)<br />
 4. [中图网 25元一斤随便带走](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BE%E7%BD%91%2025%E5%85%83%E4%B8%80%E6%96%A4%E9%9A%8F%E4%BE%BF%E5%B8%A6%E8%B5%B0&t=31&band_rank=4&Refer=top)<br />
 5. [腾讯认证长相思是爆剧](https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E8%AE%A4%E8%AF%81%E9%95%BF%E7%9B%B8%E6%80%9D%E6%98%AF%E7%88%86%E5%89%A7%23&t=31&band_rank=5&Refer=top)<br />
