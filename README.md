@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-03 18:25:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-03 18:26:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [父亲去世欠20万继承人要还吗](https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%8E%BB%E4%B8%96%E6%AC%A020%E4%B8%87%E7%BB%A7%E6%89%BF%E4%BA%BA%E8%A6%81%E8%BF%98%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [终于理解内蒙为什么不包邮了](https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E7%90%86%E8%A7%A3%E5%86%85%E8%92%99%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E5%8C%85%E9%82%AE%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [台风卡努被卡住了](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E5%8D%A1%E5%8A%AA%E8%A2%AB%E5%8D%A1%E4%BD%8F%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [魏大勋衬衫上绣了蝴蝶](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E8%A1%AC%E8%A1%AB%E4%B8%8A%E7%BB%A3%E4%BA%86%E8%9D%B4%E8%9D%B6%23&t=31&band_rank=9&Refer=top)<br />
+9. [男子救人时遇难差几天他就满31岁](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%95%91%E4%BA%BA%E6%97%B6%E9%81%87%E9%9A%BE%E5%B7%AE%E5%87%A0%E5%A4%A9%E4%BB%96%E5%B0%B1%E6%BB%A131%E5%B2%81%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
