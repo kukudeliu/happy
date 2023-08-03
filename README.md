@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 03:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 03:04:02</h4></div>
 
 > 微博  
 
@@ -22,10 +22,10 @@
 3. [演员谢宁被困洪水 隔窗感谢救援队](https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E8%B0%A2%E5%AE%81%E8%A2%AB%E5%9B%B0%E6%B4%AA%E6%B0%B4+%E9%9A%94%E7%AA%97%E6%84%9F%E8%B0%A2%E6%95%91%E6%8F%B4%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [暴雨过后 饮食卫生要注意](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E8%BF%87%E5%90%8E+%E9%A5%AE%E9%A3%9F%E5%8D%AB%E7%94%9F%E8%A6%81%E6%B3%A8%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [重庆事业单位考试多人作弊?官方回应](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E8%80%83%E8%AF%95%E5%A4%9A%E4%BA%BA%E4%BD%9C%E5%BC%8A%3F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [北京已有公司试行4.5天工作制](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%B7%B2%E6%9C%89%E5%85%AC%E5%8F%B8%E8%AF%95%E8%A1%8C4.5%E5%A4%A9%E5%B7%A5%E4%BD%9C%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [74岁正部级配合调查后首现身](https://www.baidu.com/s?wd=74%E5%B2%81%E6%AD%A3%E9%83%A8%E7%BA%A7%E9%85%8D%E5%90%88%E8%B0%83%E6%9F%A5%E5%90%8E%E9%A6%96%E7%8E%B0%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [官方回应干部被举报非婚生育](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%B9%B2%E9%83%A8%E8%A2%AB%E4%B8%BE%E6%8A%A5%E9%9D%9E%E5%A9%9A%E7%94%9F%E8%82%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [媒体：涿州应当被“看见”](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E6%B6%BF%E5%B7%9E%E5%BA%94%E5%BD%93%E8%A2%AB%E2%80%9C%E7%9C%8B%E8%A7%81%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [74岁正部级配合调查后首现身](https://www.baidu.com/s?wd=74%E5%B2%81%E6%AD%A3%E9%83%A8%E7%BA%A7%E9%85%8D%E5%90%88%E8%B0%83%E6%9F%A5%E5%90%8E%E9%A6%96%E7%8E%B0%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [小伙使用酒店毛巾后被确诊淋病](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E4%BD%BF%E7%94%A8%E9%85%92%E5%BA%97%E6%AF%9B%E5%B7%BE%E5%90%8E%E8%A2%AB%E7%A1%AE%E8%AF%8A%E6%B7%8B%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [涿州救援：没想过会在这条路上坐船](https://www.baidu.com/s?wd=%E6%B6%BF%E5%B7%9E%E6%95%91%E6%8F%B4%EF%BC%9A%E6%B2%A1%E6%83%B3%E8%BF%87%E4%BC%9A%E5%9C%A8%E8%BF%99%E6%9D%A1%E8%B7%AF%E4%B8%8A%E5%9D%90%E8%88%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [媒体人批王霜：配一个彻底封杀](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E4%BA%BA%E6%89%B9%E7%8E%8B%E9%9C%9C%EF%BC%9A%E9%85%8D%E4%B8%80%E4%B8%AA%E5%BD%BB%E5%BA%95%E5%B0%81%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -34,7 +34,7 @@
 3. [演员谢宁被困洪水 隔窗感谢救援队](https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E8%B0%A2%E5%AE%81%E8%A2%AB%E5%9B%B0%E6%B4%AA%E6%B0%B4+%E9%9A%94%E7%AA%97%E6%84%9F%E8%B0%A2%E6%95%91%E6%8F%B4%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [暴雨过后 饮食卫生要注意](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E8%BF%87%E5%90%8E+%E9%A5%AE%E9%A3%9F%E5%8D%AB%E7%94%9F%E8%A6%81%E6%B3%A8%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [重庆事业单位考试多人作弊?官方回应](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E8%80%83%E8%AF%95%E5%A4%9A%E4%BA%BA%E4%BD%9C%E5%BC%8A%3F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [北京已有公司试行4.5天工作制](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%B7%B2%E6%9C%89%E5%85%AC%E5%8F%B8%E8%AF%95%E8%A1%8C4.5%E5%A4%A9%E5%B7%A5%E4%BD%9C%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [74岁正部级配合调查后首现身](https://www.baidu.com/s?wd=74%E5%B2%81%E6%AD%A3%E9%83%A8%E7%BA%A7%E9%85%8D%E5%90%88%E8%B0%83%E6%9F%A5%E5%90%8E%E9%A6%96%E7%8E%B0%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [官方回应干部被举报非婚生育](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%B9%B2%E9%83%A8%E8%A2%AB%E4%B8%BE%E6%8A%A5%E9%9D%9E%E5%A9%9A%E7%94%9F%E8%82%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [媒体：涿州应当被“看见”](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E6%B6%BF%E5%B7%9E%E5%BA%94%E5%BD%93%E8%A2%AB%E2%80%9C%E7%9C%8B%E8%A7%81%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [74岁正部级配合调查后首现身](https://www.baidu.com/s?wd=74%E5%B2%81%E6%AD%A3%E9%83%A8%E7%BA%A7%E9%85%8D%E5%90%88%E8%B0%83%E6%9F%A5%E5%90%8E%E9%A6%96%E7%8E%B0%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [小伙使用酒店毛巾后被确诊淋病](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E4%BD%BF%E7%94%A8%E9%85%92%E5%BA%97%E6%AF%9B%E5%B7%BE%E5%90%8E%E8%A2%AB%E7%A1%AE%E8%AF%8A%E6%B7%8B%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [涿州救援：没想过会在这条路上坐船](https://www.baidu.com/s?wd=%E6%B6%BF%E5%B7%9E%E6%95%91%E6%8F%B4%EF%BC%9A%E6%B2%A1%E6%83%B3%E8%BF%87%E4%BC%9A%E5%9C%A8%E8%BF%99%E6%9D%A1%E8%B7%AF%E4%B8%8A%E5%9D%90%E8%88%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [媒体人批王霜：配一个彻底封杀](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E4%BA%BA%E6%89%B9%E7%8E%8B%E9%9C%9C%EF%BC%9A%E9%85%8D%E4%B8%80%E4%B8%AA%E5%BD%BB%E5%BA%95%E5%B0%81%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
