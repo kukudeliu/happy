@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-03 11:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-03 11:32:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [一旦开始穿洞洞鞋背帆布包](https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%97%A6%E5%BC%80%E5%A7%8B%E7%A9%BF%E6%B4%9E%E6%B4%9E%E9%9E%8B%E8%83%8C%E5%B8%86%E5%B8%83%E5%8C%85%23&t=31&band_rank=6&Refer=top)<br />
 7. [中图网 遭遇25年来毁灭性打击](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BE%E7%BD%91%20%E9%81%AD%E9%81%8725%E5%B9%B4%E6%9D%A5%E6%AF%81%E7%81%AD%E6%80%A7%E6%89%93%E5%87%BB&t=31&band_rank=7&Refer=top)<br />
 8. [王俊凯王源易烊千玺今天又近了一步](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%8E%8B%E6%BA%90%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E4%BB%8A%E5%A4%A9%E5%8F%88%E8%BF%91%E4%BA%86%E4%B8%80%E6%AD%A5%23&t=31&band_rank=8&Refer=top)<br />
-9. [雪滴花](https://s.weibo.com/weibo?q=%E9%9B%AA%E6%BB%B4%E8%8A%B1&t=31&band_rank=9&Refer=top)<br />
+9. [著名制片人邓细斌去世](https://s.weibo.com/weibo?q=%23%E8%91%97%E5%90%8D%E5%88%B6%E7%89%87%E4%BA%BA%E9%82%93%E7%BB%86%E6%96%8C%E5%8E%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
