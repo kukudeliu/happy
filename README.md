@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-03 09:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-03 09:08:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [起猛了看见小夭相柳的儿子了](https://s.weibo.com/weibo?q=%23%E8%B5%B7%E7%8C%9B%E4%BA%86%E7%9C%8B%E8%A7%81%E5%B0%8F%E5%A4%AD%E7%9B%B8%E6%9F%B3%E7%9A%84%E5%84%BF%E5%AD%90%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [你的iPhone一天要充几次电](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%9A%84iPhone%E4%B8%80%E5%A4%A9%E8%A6%81%E5%85%85%E5%87%A0%E6%AC%A1%E7%94%B5%23&t=31&band_rank=6&Refer=top)<br />
 7. [原著里小夭是自己游回去的](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E8%91%97%E9%87%8C%E5%B0%8F%E5%A4%AD%E6%98%AF%E8%87%AA%E5%B7%B1%E6%B8%B8%E5%9B%9E%E5%8E%BB%E7%9A%84%23&t=31&band_rank=7&Refer=top)<br />
-8. [保安让王源出示自己演唱会的工作证](https://s.weibo.com/weibo?q=%23%E4%BF%9D%E5%AE%89%E8%AE%A9%E7%8E%8B%E6%BA%90%E5%87%BA%E7%A4%BA%E8%87%AA%E5%B7%B1%E6%BC%94%E5%94%B1%E4%BC%9A%E7%9A%84%E5%B7%A5%E4%BD%9C%E8%AF%81%23&t=31&band_rank=8&Refer=top)<br />
+8. [辣椒不能封闭在矿泉水瓶里](https://s.weibo.com/weibo?q=%23%E8%BE%A3%E6%A4%92%E4%B8%8D%E8%83%BD%E5%B0%81%E9%97%AD%E5%9C%A8%E7%9F%BF%E6%B3%89%E6%B0%B4%E7%93%B6%E9%87%8C%23&t=31&band_rank=8&Refer=top)<br />
 9. [防风邶赢麻了](https://s.weibo.com/weibo?q=%23%E9%98%B2%E9%A3%8E%E9%82%B6%E8%B5%A2%E9%BA%BB%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
