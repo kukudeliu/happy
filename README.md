@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-03 12:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-03 12:05:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [王俊凯王源易烊千玺今天又近了一步](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%8E%8B%E6%BA%90%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E4%BB%8A%E5%A4%A9%E5%8F%88%E8%BF%91%E4%BA%86%E4%B8%80%E6%AD%A5%23&t=31&band_rank=6&Refer=top)<br />
 7. [中图网 遭遇25年来毁灭性打击](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BE%E7%BD%91%20%E9%81%AD%E9%81%8725%E5%B9%B4%E6%9D%A5%E6%AF%81%E7%81%AD%E6%80%A7%E6%89%93%E5%87%BB&t=31&band_rank=7&Refer=top)<br />
 8. [著名制片人邓细斌去世](https://s.weibo.com/weibo?q=%23%E8%91%97%E5%90%8D%E5%88%B6%E7%89%87%E4%BA%BA%E9%82%93%E7%BB%86%E6%96%8C%E5%8E%BB%E4%B8%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [TFBOYS十年之约仅剩3天](https://s.weibo.com/weibo?q=%23TFBOYS%E5%8D%81%E5%B9%B4%E4%B9%8B%E7%BA%A6%E4%BB%85%E5%89%A93%E5%A4%A9%23&t=31&band_rank=9&Refer=top)<br />
+9. [迪丽热巴回应综艺计划](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%9B%9E%E5%BA%94%E7%BB%BC%E8%89%BA%E8%AE%A1%E5%88%92%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
