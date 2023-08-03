@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-03 21:23:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-03 21:24:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [郭台铭：若台海开战美股市10秒崩盘](https://www.baidu.com/s?wd=%E9%83%AD%E5%8F%B0%E9%93%AD%EF%BC%9A%E8%8B%A5%E5%8F%B0%E6%B5%B7%E5%BC%80%E6%88%98%E7%BE%8E%E8%82%A1%E5%B8%8210%E7%A7%92%E5%B4%A9%E7%9B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [网友称票务公司是最大黄牛 专家赞同](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B0%E7%A5%A8%E5%8A%A1%E5%85%AC%E5%8F%B8%E6%98%AF%E6%9C%80%E5%A4%A7%E9%BB%84%E7%89%9B+%E4%B8%93%E5%AE%B6%E8%B5%9E%E5%90%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [龚俊血泪跳崖名场面](https://www.baidu.com/s?wd=%E9%BE%9A%E4%BF%8A%E8%A1%80%E6%B3%AA%E8%B7%B3%E5%B4%96%E5%90%8D%E5%9C%BA%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [退钱哥调侃李铁：铁门铁窗铁锁链](https://www.baidu.com/s?wd=%E9%80%80%E9%92%B1%E5%93%A5%E8%B0%83%E4%BE%83%E6%9D%8E%E9%93%81%EF%BC%9A%E9%93%81%E9%97%A8%E9%93%81%E7%AA%97%E9%93%81%E9%94%81%E9%93%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [涿州积水逼近红绿灯 救援艇穿梭](https://www.baidu.com/s?wd=%E6%B6%BF%E5%B7%9E%E7%A7%AF%E6%B0%B4%E9%80%BC%E8%BF%91%E7%BA%A2%E7%BB%BF%E7%81%AF+%E6%95%91%E6%8F%B4%E8%89%87%E7%A9%BF%E6%A2%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [小伙使用酒店毛巾后被确诊淋病](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E4%BD%BF%E7%94%A8%E9%85%92%E5%BA%97%E6%AF%9B%E5%B7%BE%E5%90%8E%E8%A2%AB%E7%A1%AE%E8%AF%8A%E6%B7%8B%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [郭台铭：若台海开战美股市10秒崩盘](https://www.baidu.com/s?wd=%E9%83%AD%E5%8F%B0%E9%93%AD%EF%BC%9A%E8%8B%A5%E5%8F%B0%E6%B5%B7%E5%BC%80%E6%88%98%E7%BE%8E%E8%82%A1%E5%B8%8210%E7%A7%92%E5%B4%A9%E7%9B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [网友称票务公司是最大黄牛 专家赞同](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B0%E7%A5%A8%E5%8A%A1%E5%85%AC%E5%8F%B8%E6%98%AF%E6%9C%80%E5%A4%A7%E9%BB%84%E7%89%9B+%E4%B8%93%E5%AE%B6%E8%B5%9E%E5%90%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [龚俊血泪跳崖名场面](https://www.baidu.com/s?wd=%E9%BE%9A%E4%BF%8A%E8%A1%80%E6%B3%AA%E8%B7%B3%E5%B4%96%E5%90%8D%E5%9C%BA%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [退钱哥调侃李铁：铁门铁窗铁锁链](https://www.baidu.com/s?wd=%E9%80%80%E9%92%B1%E5%93%A5%E8%B0%83%E4%BE%83%E6%9D%8E%E9%93%81%EF%BC%9A%E9%93%81%E9%97%A8%E9%93%81%E7%AA%97%E9%93%81%E9%94%81%E9%93%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [涿州积水逼近红绿灯 救援艇穿梭](https://www.baidu.com/s?wd=%E6%B6%BF%E5%B7%9E%E7%A7%AF%E6%B0%B4%E9%80%BC%E8%BF%91%E7%BA%A2%E7%BB%BF%E7%81%AF+%E6%95%91%E6%8F%B4%E8%89%87%E7%A9%BF%E6%A2%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [小伙使用酒店毛巾后被确诊淋病](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E4%BD%BF%E7%94%A8%E9%85%92%E5%BA%97%E6%AF%9B%E5%B7%BE%E5%90%8E%E8%A2%AB%E7%A1%AE%E8%AF%8A%E6%B7%8B%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
