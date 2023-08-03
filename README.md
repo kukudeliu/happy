@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-03 19:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-03 19:23:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [锚定中心任务 引领壮阔新征程](https://www.baidu.com/s?wd=%E9%94%9A%E5%AE%9A%E4%B8%AD%E5%BF%83%E4%BB%BB%E5%8A%A1+%E5%BC%95%E9%A2%86%E5%A3%AE%E9%98%94%E6%96%B0%E5%BE%81%E7%A8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [飞行员讲述与外机近距离缠斗细节](https://www.baidu.com/s?wd=%E9%A3%9E%E8%A1%8C%E5%91%98%E8%AE%B2%E8%BF%B0%E4%B8%8E%E5%A4%96%E6%9C%BA%E8%BF%91%E8%B7%9D%E7%A6%BB%E7%BC%A0%E6%96%97%E7%BB%86%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [暴雨洪灾后4类病高发](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E6%B4%AA%E7%81%BE%E5%90%8E4%E7%B1%BB%E7%97%85%E9%AB%98%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [演员谢宁被困洪水 隔窗感谢救援队](https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E8%B0%A2%E5%AE%81%E8%A2%AB%E5%9B%B0%E6%B4%AA%E6%B0%B4+%E9%9A%94%E7%AA%97%E6%84%9F%E8%B0%A2%E6%95%91%E6%8F%B4%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [读懂促消费政策如何发力](https://www.baidu.com/s?wd=%E8%AF%BB%E6%87%82%E4%BF%83%E6%B6%88%E8%B4%B9%E6%94%BF%E7%AD%96%E5%A6%82%E4%BD%95%E5%8F%91%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [U17山东女篮胜对手33分却获亚军](https://www.baidu.com/s?wd=U17%E5%B1%B1%E4%B8%9C%E5%A5%B3%E7%AF%AE%E8%83%9C%E5%AF%B9%E6%89%8B33%E5%88%86%E5%8D%B4%E8%8E%B7%E4%BA%9A%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [锚定中心任务 引领壮阔新征程](https://www.baidu.com/s?wd=%E9%94%9A%E5%AE%9A%E4%B8%AD%E5%BF%83%E4%BB%BB%E5%8A%A1+%E5%BC%95%E9%A2%86%E5%A3%AE%E9%98%94%E6%96%B0%E5%BE%81%E7%A8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [飞行员讲述与外机近距离缠斗细节](https://www.baidu.com/s?wd=%E9%A3%9E%E8%A1%8C%E5%91%98%E8%AE%B2%E8%BF%B0%E4%B8%8E%E5%A4%96%E6%9C%BA%E8%BF%91%E8%B7%9D%E7%A6%BB%E7%BC%A0%E6%96%97%E7%BB%86%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [暴雨洪灾后4类病高发](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E6%B4%AA%E7%81%BE%E5%90%8E4%E7%B1%BB%E7%97%85%E9%AB%98%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [演员谢宁被困洪水 隔窗感谢救援队](https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E8%B0%A2%E5%AE%81%E8%A2%AB%E5%9B%B0%E6%B4%AA%E6%B0%B4+%E9%9A%94%E7%AA%97%E6%84%9F%E8%B0%A2%E6%95%91%E6%8F%B4%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [读懂促消费政策如何发力](https://www.baidu.com/s?wd=%E8%AF%BB%E6%87%82%E4%BF%83%E6%B6%88%E8%B4%B9%E6%94%BF%E7%AD%96%E5%A6%82%E4%BD%95%E5%8F%91%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [U17山东女篮胜对手33分却获亚军](https://www.baidu.com/s?wd=U17%E5%B1%B1%E4%B8%9C%E5%A5%B3%E7%AF%AE%E8%83%9C%E5%AF%B9%E6%89%8B33%E5%88%86%E5%8D%B4%E8%8E%B7%E4%BA%9A%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
