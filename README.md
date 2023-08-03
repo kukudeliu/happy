@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 03:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 03:54:01</h4></div>
 
 > 微博  
 
@@ -22,10 +22,10 @@
 3. [演员谢宁被困洪水 隔窗感谢救援队](https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E8%B0%A2%E5%AE%81%E8%A2%AB%E5%9B%B0%E6%B4%AA%E6%B0%B4+%E9%9A%94%E7%AA%97%E6%84%9F%E8%B0%A2%E6%95%91%E6%8F%B4%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [暴雨过后 饮食卫生要注意](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E8%BF%87%E5%90%8E+%E9%A5%AE%E9%A3%9F%E5%8D%AB%E7%94%9F%E8%A6%81%E6%B3%A8%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [重庆事业单位考试多人作弊?官方回应](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E8%80%83%E8%AF%95%E5%A4%9A%E4%BA%BA%E4%BD%9C%E5%BC%8A%3F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [广州部分二手房业主“追风”涨价](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E9%83%A8%E5%88%86%E4%BA%8C%E6%89%8B%E6%88%BF%E4%B8%9A%E4%B8%BB%E2%80%9C%E8%BF%BD%E9%A3%8E%E2%80%9D%E6%B6%A8%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子趁邻桌不在将剩饭倒其锅内](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%B6%81%E9%82%BB%E6%A1%8C%E4%B8%8D%E5%9C%A8%E5%B0%86%E5%89%A9%E9%A5%AD%E5%80%92%E5%85%B6%E9%94%85%E5%86%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [74岁正部级配合调查后首现身](https://www.baidu.com/s?wd=74%E5%B2%81%E6%AD%A3%E9%83%A8%E7%BA%A7%E9%85%8D%E5%90%88%E8%B0%83%E6%9F%A5%E5%90%8E%E9%A6%96%E7%8E%B0%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [驾校教练摸女学员手腿数分钟被开除](https://www.baidu.com/s?wd=%E9%A9%BE%E6%A0%A1%E6%95%99%E7%BB%83%E6%91%B8%E5%A5%B3%E5%AD%A6%E5%91%98%E6%89%8B%E8%85%BF%E6%95%B0%E5%88%86%E9%92%9F%E8%A2%AB%E5%BC%80%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [台风卡努吹飞冲绳自由女神像](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E5%8D%A1%E5%8A%AA%E5%90%B9%E9%A3%9E%E5%86%B2%E7%BB%B3%E8%87%AA%E7%94%B1%E5%A5%B3%E7%A5%9E%E5%83%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [74岁正部级配合调查后首现身](https://www.baidu.com/s?wd=74%E5%B2%81%E6%AD%A3%E9%83%A8%E7%BA%A7%E9%85%8D%E5%90%88%E8%B0%83%E6%9F%A5%E5%90%8E%E9%A6%96%E7%8E%B0%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [驾校教练摸女学员手腿数分钟被开除](https://www.baidu.com/s?wd=%E9%A9%BE%E6%A0%A1%E6%95%99%E7%BB%83%E6%91%B8%E5%A5%B3%E5%AD%A6%E5%91%98%E6%89%8B%E8%85%BF%E6%95%B0%E5%88%86%E9%92%9F%E8%A2%AB%E5%BC%80%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子趁邻桌不在将剩饭倒其锅内](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%B6%81%E9%82%BB%E6%A1%8C%E4%B8%8D%E5%9C%A8%E5%B0%86%E5%89%A9%E9%A5%AD%E5%80%92%E5%85%B6%E9%94%85%E5%86%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -34,7 +34,7 @@
 3. [演员谢宁被困洪水 隔窗感谢救援队](https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E8%B0%A2%E5%AE%81%E8%A2%AB%E5%9B%B0%E6%B4%AA%E6%B0%B4+%E9%9A%94%E7%AA%97%E6%84%9F%E8%B0%A2%E6%95%91%E6%8F%B4%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [暴雨过后 饮食卫生要注意](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E8%BF%87%E5%90%8E+%E9%A5%AE%E9%A3%9F%E5%8D%AB%E7%94%9F%E8%A6%81%E6%B3%A8%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [重庆事业单位考试多人作弊?官方回应](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E8%80%83%E8%AF%95%E5%A4%9A%E4%BA%BA%E4%BD%9C%E5%BC%8A%3F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [广州部分二手房业主“追风”涨价](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E9%83%A8%E5%88%86%E4%BA%8C%E6%89%8B%E6%88%BF%E4%B8%9A%E4%B8%BB%E2%80%9C%E8%BF%BD%E9%A3%8E%E2%80%9D%E6%B6%A8%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子趁邻桌不在将剩饭倒其锅内](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%B6%81%E9%82%BB%E6%A1%8C%E4%B8%8D%E5%9C%A8%E5%B0%86%E5%89%A9%E9%A5%AD%E5%80%92%E5%85%B6%E9%94%85%E5%86%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [74岁正部级配合调查后首现身](https://www.baidu.com/s?wd=74%E5%B2%81%E6%AD%A3%E9%83%A8%E7%BA%A7%E9%85%8D%E5%90%88%E8%B0%83%E6%9F%A5%E5%90%8E%E9%A6%96%E7%8E%B0%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [驾校教练摸女学员手腿数分钟被开除](https://www.baidu.com/s?wd=%E9%A9%BE%E6%A0%A1%E6%95%99%E7%BB%83%E6%91%B8%E5%A5%B3%E5%AD%A6%E5%91%98%E6%89%8B%E8%85%BF%E6%95%B0%E5%88%86%E9%92%9F%E8%A2%AB%E5%BC%80%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [台风卡努吹飞冲绳自由女神像](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E5%8D%A1%E5%8A%AA%E5%90%B9%E9%A3%9E%E5%86%B2%E7%BB%B3%E8%87%AA%E7%94%B1%E5%A5%B3%E7%A5%9E%E5%83%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [74岁正部级配合调查后首现身](https://www.baidu.com/s?wd=74%E5%B2%81%E6%AD%A3%E9%83%A8%E7%BA%A7%E9%85%8D%E5%90%88%E8%B0%83%E6%9F%A5%E5%90%8E%E9%A6%96%E7%8E%B0%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [驾校教练摸女学员手腿数分钟被开除](https://www.baidu.com/s?wd=%E9%A9%BE%E6%A0%A1%E6%95%99%E7%BB%83%E6%91%B8%E5%A5%B3%E5%AD%A6%E5%91%98%E6%89%8B%E8%85%BF%E6%95%B0%E5%88%86%E9%92%9F%E8%A2%AB%E5%BC%80%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子趁邻桌不在将剩饭倒其锅内](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%B6%81%E9%82%BB%E6%A1%8C%E4%B8%8D%E5%9C%A8%E5%B0%86%E5%89%A9%E9%A5%AD%E5%80%92%E5%85%B6%E9%94%85%E5%86%85&sa=fyb_news&rsv_dl=fyb_news)<br />
