@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-03 22:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-03 22:56:01</h4></div>
 
 > 微博  
 
@@ -22,10 +22,10 @@
 3. [演员谢宁被困洪水 隔窗感谢救援队](https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E8%B0%A2%E5%AE%81%E8%A2%AB%E5%9B%B0%E6%B4%AA%E6%B0%B4+%E9%9A%94%E7%AA%97%E6%84%9F%E8%B0%A2%E6%95%91%E6%8F%B4%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [暴雨过后 饮食卫生要注意](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E8%BF%87%E5%90%8E+%E9%A5%AE%E9%A3%9F%E5%8D%AB%E7%94%9F%E8%A6%81%E6%B3%A8%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [郭台铭：若台海开战美股市10秒崩盘](https://www.baidu.com/s?wd=%E9%83%AD%E5%8F%B0%E9%93%AD%EF%BC%9A%E8%8B%A5%E5%8F%B0%E6%B5%B7%E5%BC%80%E6%88%98%E7%BE%8E%E8%82%A1%E5%B8%8210%E7%A7%92%E5%B4%A9%E7%9B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [吴京分享月瘦10斤减肥法](https://www.baidu.com/s?wd=%E5%90%B4%E4%BA%AC%E5%88%86%E4%BA%AB%E6%9C%88%E7%98%A610%E6%96%A4%E5%87%8F%E8%82%A5%E6%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [龚俊血泪跳崖名场面](https://www.baidu.com/s?wd=%E9%BE%9A%E4%BF%8A%E8%A1%80%E6%B3%AA%E8%B7%B3%E5%B4%96%E5%90%8D%E5%9C%BA%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [台风致浙江一地巨浪拍岸海水倒灌](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E8%87%B4%E6%B5%99%E6%B1%9F%E4%B8%80%E5%9C%B0%E5%B7%A8%E6%B5%AA%E6%8B%8D%E5%B2%B8%E6%B5%B7%E6%B0%B4%E5%80%92%E7%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [广州部分二手房业主“追风”涨价](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E9%83%A8%E5%88%86%E4%BA%8C%E6%89%8B%E6%88%BF%E4%B8%9A%E4%B8%BB%E2%80%9C%E8%BF%BD%E9%A3%8E%E2%80%9D%E6%B6%A8%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [大理大学713人搬隔壁学校？官方回应](https://www.baidu.com/s?wd=%E5%A4%A7%E7%90%86%E5%A4%A7%E5%AD%A6713%E4%BA%BA%E6%90%AC%E9%9A%94%E5%A3%81%E5%AD%A6%E6%A0%A1%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [暴雨之下：居民艰险求生](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E4%B9%8B%E4%B8%8B%EF%BC%9A%E5%B1%85%E6%B0%91%E8%89%B0%E9%99%A9%E6%B1%82%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [吴京分享月瘦10斤减肥法](https://www.baidu.com/s?wd=%E5%90%B4%E4%BA%AC%E5%88%86%E4%BA%AB%E6%9C%88%E7%98%A610%E6%96%A4%E5%87%8F%E8%82%A5%E6%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [拜登呼吁释放被扣押的尼日尔总统](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E5%91%BC%E5%90%81%E9%87%8A%E6%94%BE%E8%A2%AB%E6%89%A3%E6%8A%BC%E7%9A%84%E5%B0%BC%E6%97%A5%E5%B0%94%E6%80%BB%E7%BB%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -34,7 +34,7 @@
 3. [演员谢宁被困洪水 隔窗感谢救援队](https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E8%B0%A2%E5%AE%81%E8%A2%AB%E5%9B%B0%E6%B4%AA%E6%B0%B4+%E9%9A%94%E7%AA%97%E6%84%9F%E8%B0%A2%E6%95%91%E6%8F%B4%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [暴雨过后 饮食卫生要注意](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E8%BF%87%E5%90%8E+%E9%A5%AE%E9%A3%9F%E5%8D%AB%E7%94%9F%E8%A6%81%E6%B3%A8%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [郭台铭：若台海开战美股市10秒崩盘](https://www.baidu.com/s?wd=%E9%83%AD%E5%8F%B0%E9%93%AD%EF%BC%9A%E8%8B%A5%E5%8F%B0%E6%B5%B7%E5%BC%80%E6%88%98%E7%BE%8E%E8%82%A1%E5%B8%8210%E7%A7%92%E5%B4%A9%E7%9B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [吴京分享月瘦10斤减肥法](https://www.baidu.com/s?wd=%E5%90%B4%E4%BA%AC%E5%88%86%E4%BA%AB%E6%9C%88%E7%98%A610%E6%96%A4%E5%87%8F%E8%82%A5%E6%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [龚俊血泪跳崖名场面](https://www.baidu.com/s?wd=%E9%BE%9A%E4%BF%8A%E8%A1%80%E6%B3%AA%E8%B7%B3%E5%B4%96%E5%90%8D%E5%9C%BA%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [台风致浙江一地巨浪拍岸海水倒灌](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E8%87%B4%E6%B5%99%E6%B1%9F%E4%B8%80%E5%9C%B0%E5%B7%A8%E6%B5%AA%E6%8B%8D%E5%B2%B8%E6%B5%B7%E6%B0%B4%E5%80%92%E7%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [广州部分二手房业主“追风”涨价](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E9%83%A8%E5%88%86%E4%BA%8C%E6%89%8B%E6%88%BF%E4%B8%9A%E4%B8%BB%E2%80%9C%E8%BF%BD%E9%A3%8E%E2%80%9D%E6%B6%A8%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [大理大学713人搬隔壁学校？官方回应](https://www.baidu.com/s?wd=%E5%A4%A7%E7%90%86%E5%A4%A7%E5%AD%A6713%E4%BA%BA%E6%90%AC%E9%9A%94%E5%A3%81%E5%AD%A6%E6%A0%A1%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [暴雨之下：居民艰险求生](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E4%B9%8B%E4%B8%8B%EF%BC%9A%E5%B1%85%E6%B0%91%E8%89%B0%E9%99%A9%E6%B1%82%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [吴京分享月瘦10斤减肥法](https://www.baidu.com/s?wd=%E5%90%B4%E4%BA%AC%E5%88%86%E4%BA%AB%E6%9C%88%E7%98%A610%E6%96%A4%E5%87%8F%E8%82%A5%E6%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [拜登呼吁释放被扣押的尼日尔总统](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E5%91%BC%E5%90%81%E9%87%8A%E6%94%BE%E8%A2%AB%E6%89%A3%E6%8A%BC%E7%9A%84%E5%B0%BC%E6%97%A5%E5%B0%94%E6%80%BB%E7%BB%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
