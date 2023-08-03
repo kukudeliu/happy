@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-03 16:19:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-03 16:20:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [起猛了看见陈哲远上韩国综艺了](https://s.weibo.com/weibo?q=%23%E8%B5%B7%E7%8C%9B%E4%BA%86%E7%9C%8B%E8%A7%81%E9%99%88%E5%93%B2%E8%BF%9C%E4%B8%8A%E9%9F%A9%E5%9B%BD%E7%BB%BC%E8%89%BA%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [程雷](https://s.weibo.com/weibo?q=%E7%A8%8B%E9%9B%B7&t=31&band_rank=7&Refer=top)<br />
 8. [爷爷舍不得买鞋柜用冰箱装鞋](https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E8%88%8D%E4%B8%8D%E5%BE%97%E4%B9%B0%E9%9E%8B%E6%9F%9C%E7%94%A8%E5%86%B0%E7%AE%B1%E8%A3%85%E9%9E%8B%23&t=31&band_rank=8&Refer=top)<br />
-9. [有人民的地方就有子弟兵](https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%BA%BA%E6%B0%91%E7%9A%84%E5%9C%B0%E6%96%B9%E5%B0%B1%E6%9C%89%E5%AD%90%E5%BC%9F%E5%85%B5%23&t=31&band_rank=9&Refer=top)<br />
+9. [快乐大本营](https://s.weibo.com/weibo?q=%E5%BF%AB%E4%B9%90%E5%A4%A7%E6%9C%AC%E8%90%A5&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
