@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-03 16:45:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-03 16:46:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [太原一醋厂用冰乙酸勾兑食醋销往全国](https://s.weibo.com/weibo?q=%23%E5%A4%AA%E5%8E%9F%E4%B8%80%E9%86%8B%E5%8E%82%E7%94%A8%E5%86%B0%E4%B9%99%E9%85%B8%E5%8B%BE%E5%85%91%E9%A3%9F%E9%86%8B%E9%94%80%E5%BE%80%E5%85%A8%E5%9B%BD%23&t=31&band_rank=6&Refer=top)<br />
 7. [程雷](https://s.weibo.com/weibo?q=%E7%A8%8B%E9%9B%B7&t=31&band_rank=7&Refer=top)<br />
 8. [吴镇宇急需费曼澄清](https://s.weibo.com/weibo?q=%23%E5%90%B4%E9%95%87%E5%AE%87%E6%80%A5%E9%9C%80%E8%B4%B9%E6%9B%BC%E6%BE%84%E6%B8%85%23&t=31&band_rank=8&Refer=top)<br />
-9. [失联蓝天救援队队员刘建民已牺牲](https://s.weibo.com/weibo?q=%23%E5%A4%B1%E8%81%94%E8%93%9D%E5%A4%A9%E6%95%91%E6%8F%B4%E9%98%9F%E9%98%9F%E5%91%98%E5%88%98%E5%BB%BA%E6%B0%91%E5%B7%B2%E7%89%BA%E7%89%B2%23&t=31&band_rank=9&Refer=top)<br />
+9. [起猛了看见陈哲远上韩国综艺了](https://s.weibo.com/weibo?q=%23%E8%B5%B7%E7%8C%9B%E4%BA%86%E7%9C%8B%E8%A7%81%E9%99%88%E5%93%B2%E8%BF%9C%E4%B8%8A%E9%9F%A9%E5%9B%BD%E7%BB%BC%E8%89%BA%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
