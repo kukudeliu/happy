@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 07:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 07:58:01</h4></div>
 
 > 微博  
 
 1. [李立群团队否认在杭州看病花了20万](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%AB%8B%E7%BE%A4%E5%9B%A2%E9%98%9F%E5%90%A6%E8%AE%A4%E5%9C%A8%E6%9D%AD%E5%B7%9E%E7%9C%8B%E7%97%85%E8%8A%B1%E4%BA%8620%E4%B8%87%23&t=31&band_rank=1&Refer=top)<br />
 2. [相柳还是进入了小夭的梦里](https://s.weibo.com/weibo?q=%23%E7%9B%B8%E6%9F%B3%E8%BF%98%E6%98%AF%E8%BF%9B%E5%85%A5%E4%BA%86%E5%B0%8F%E5%A4%AD%E7%9A%84%E6%A2%A6%E9%87%8C%23&t=31&band_rank=2&Refer=top)<br />
 3. [暴雨洪涝后饮食安全指南](https://s.weibo.com/weibo?q=%23%E6%9A%B4%E9%9B%A8%E6%B4%AA%E6%B6%9D%E5%90%8E%E9%A5%AE%E9%A3%9F%E5%AE%89%E5%85%A8%E6%8C%87%E5%8D%97%23&t=31&band_rank=3&Refer=top)<br />
-4. [这真的不是帝后吗](https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%9C%9F%E7%9A%84%E4%B8%8D%E6%98%AF%E5%B8%9D%E5%90%8E%E5%90%97%23&t=31&band_rank=4&Refer=top)<br />
-5. [演技进步最快的演员](https://s.weibo.com/weibo?q=%23%E6%BC%94%E6%8A%80%E8%BF%9B%E6%AD%A5%E6%9C%80%E5%BF%AB%E7%9A%84%E6%BC%94%E5%91%98%23&t=31&band_rank=5&Refer=top)<br />
+4. [演技进步最快的演员](https://s.weibo.com/weibo?q=%23%E6%BC%94%E6%8A%80%E8%BF%9B%E6%AD%A5%E6%9C%80%E5%BF%AB%E7%9A%84%E6%BC%94%E5%91%98%23&t=31&band_rank=4&Refer=top)<br />
+5. [这真的不是帝后吗](https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%9C%9F%E7%9A%84%E4%B8%8D%E6%98%AF%E5%B8%9D%E5%90%8E%E5%90%97%23&t=31&band_rank=5&Refer=top)<br />
 6. [中图网 25元一斤随便带走](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BE%E7%BD%91%2025%E5%85%83%E4%B8%80%E6%96%A4%E9%9A%8F%E4%BE%BF%E5%B8%A6%E8%B5%B0&t=31&band_rank=6&Refer=top)<br />
 7. [吴京分享月瘦10斤减肥法](https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%AC%E5%88%86%E4%BA%AB%E6%9C%88%E7%98%A610%E6%96%A4%E5%87%8F%E8%82%A5%E6%B3%95%23&t=31&band_rank=7&Refer=top)<br />
 8. [自习室的大学生靠热点交流](https://s.weibo.com/weibo?q=%23%E8%87%AA%E4%B9%A0%E5%AE%A4%E7%9A%84%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%9D%A0%E7%83%AD%E7%82%B9%E4%BA%A4%E6%B5%81%23&t=31&band_rank=8&Refer=top)<br />
