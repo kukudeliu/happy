@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-03 09:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-03 09:13:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [辣椒不能封闭在矿泉水瓶里](https://s.weibo.com/weibo?q=%23%E8%BE%A3%E6%A4%92%E4%B8%8D%E8%83%BD%E5%B0%81%E9%97%AD%E5%9C%A8%E7%9F%BF%E6%B3%89%E6%B0%B4%E7%93%B6%E9%87%8C%23&t=31&band_rank=6&Refer=top)<br />
 7. [原著里小夭是自己游回去的](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E8%91%97%E9%87%8C%E5%B0%8F%E5%A4%AD%E6%98%AF%E8%87%AA%E5%B7%B1%E6%B8%B8%E5%9B%9E%E5%8E%BB%E7%9A%84%23&t=31&band_rank=7&Refer=top)<br />
 8. [你的iPhone一天要充几次电](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%9A%84iPhone%E4%B8%80%E5%A4%A9%E8%A6%81%E5%85%85%E5%87%A0%E6%AC%A1%E7%94%B5%23&t=31&band_rank=8&Refer=top)<br />
-9. [防风邶赢麻了](https://s.weibo.com/weibo?q=%23%E9%98%B2%E9%A3%8E%E9%82%B6%E8%B5%A2%E9%BA%BB%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [堂堂大王姬为什么不能拥有4个男人](https://s.weibo.com/weibo?q=%23%E5%A0%82%E5%A0%82%E5%A4%A7%E7%8E%8B%E5%A7%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E8%83%BD%E6%8B%A5%E6%9C%894%E4%B8%AA%E7%94%B7%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
