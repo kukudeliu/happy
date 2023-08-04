@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 10:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 10:24:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [顾客吃面发现碗里有完整死老鼠](https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E5%90%83%E9%9D%A2%E5%8F%91%E7%8E%B0%E7%A2%97%E9%87%8C%E6%9C%89%E5%AE%8C%E6%95%B4%E6%AD%BB%E8%80%81%E9%BC%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [大狗洪水中仍看家 救援人员无法靠近](https://www.baidu.com/s?wd=%E5%A4%A7%E7%8B%97%E6%B4%AA%E6%B0%B4%E4%B8%AD%E4%BB%8D%E7%9C%8B%E5%AE%B6+%E6%95%91%E6%8F%B4%E4%BA%BA%E5%91%98%E6%97%A0%E6%B3%95%E9%9D%A0%E8%BF%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [台媒称罗刹海市映射台湾乱象](https://www.baidu.com/s?wd=%E5%8F%B0%E5%AA%92%E7%A7%B0%E7%BD%97%E5%88%B9%E6%B5%B7%E5%B8%82%E6%98%A0%E5%B0%84%E5%8F%B0%E6%B9%BE%E4%B9%B1%E8%B1%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [出庭应诉结束 特朗普发声](https://www.baidu.com/s?wd=%E5%87%BA%E5%BA%AD%E5%BA%94%E8%AF%89%E7%BB%93%E6%9D%9F+%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [救援人员被喊话先救老人无奈拒绝](https://www.baidu.com/s?wd=%E6%95%91%E6%8F%B4%E4%BA%BA%E5%91%98%E8%A2%AB%E5%96%8A%E8%AF%9D%E5%85%88%E6%95%91%E8%80%81%E4%BA%BA%E6%97%A0%E5%A5%88%E6%8B%92%E7%BB%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [顾客吃面发现碗里有完整死老鼠](https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E5%90%83%E9%9D%A2%E5%8F%91%E7%8E%B0%E7%A2%97%E9%87%8C%E6%9C%89%E5%AE%8C%E6%95%B4%E6%AD%BB%E8%80%81%E9%BC%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [大狗洪水中仍看家 救援人员无法靠近](https://www.baidu.com/s?wd=%E5%A4%A7%E7%8B%97%E6%B4%AA%E6%B0%B4%E4%B8%AD%E4%BB%8D%E7%9C%8B%E5%AE%B6+%E6%95%91%E6%8F%B4%E4%BA%BA%E5%91%98%E6%97%A0%E6%B3%95%E9%9D%A0%E8%BF%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [台媒称罗刹海市映射台湾乱象](https://www.baidu.com/s?wd=%E5%8F%B0%E5%AA%92%E7%A7%B0%E7%BD%97%E5%88%B9%E6%B5%B7%E5%B8%82%E6%98%A0%E5%B0%84%E5%8F%B0%E6%B9%BE%E4%B9%B1%E8%B1%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [出庭应诉结束 特朗普发声](https://www.baidu.com/s?wd=%E5%87%BA%E5%BA%AD%E5%BA%94%E8%AF%89%E7%BB%93%E6%9D%9F+%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [救援人员被喊话先救老人无奈拒绝](https://www.baidu.com/s?wd=%E6%95%91%E6%8F%B4%E4%BA%BA%E5%91%98%E8%A2%AB%E5%96%8A%E8%AF%9D%E5%85%88%E6%95%91%E8%80%81%E4%BA%BA%E6%97%A0%E5%A5%88%E6%8B%92%E7%BB%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
