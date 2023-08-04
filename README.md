@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 21:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 21:14:01</h4></div>
 
 > 微博  
 
@@ -17,7 +17,7 @@
 
 > 百度  
 
-1. [风雨同路渡难关](https://www.baidu.com/s?wd=%E9%A3%8E%E9%9B%A8%E5%90%8C%E8%B7%AF%E6%B8%A1%E9%9A%BE%E5%85%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [共赴青春之约](https://www.baidu.com/s?wd=%E5%85%B1%E8%B5%B4%E9%9D%92%E6%98%A5%E4%B9%8B%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [重庆通报事业单位招考作弊案](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E9%80%9A%E6%8A%A5%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E6%8B%9B%E8%80%83%E4%BD%9C%E5%BC%8A%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [山东1万个大馒头驰援河北](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C1%E4%B8%87%E4%B8%AA%E5%A4%A7%E9%A6%92%E5%A4%B4%E9%A9%B0%E6%8F%B4%E6%B2%B3%E5%8C%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [年轻人的梦想都太敢了](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E6%A2%A6%E6%83%B3%E9%83%BD%E5%A4%AA%E6%95%A2%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,7 +29,7 @@
 
 > 哔哩哔哩  
 
-1. [风雨同路渡难关](https://www.baidu.com/s?wd=%E9%A3%8E%E9%9B%A8%E5%90%8C%E8%B7%AF%E6%B8%A1%E9%9A%BE%E5%85%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [共赴青春之约](https://www.baidu.com/s?wd=%E5%85%B1%E8%B5%B4%E9%9D%92%E6%98%A5%E4%B9%8B%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [重庆通报事业单位招考作弊案](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E9%80%9A%E6%8A%A5%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E6%8B%9B%E8%80%83%E4%BD%9C%E5%BC%8A%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [山东1万个大馒头驰援河北](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C1%E4%B8%87%E4%B8%AA%E5%A4%A7%E9%A6%92%E5%A4%B4%E9%A9%B0%E6%8F%B4%E6%B2%B3%E5%8C%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [年轻人的梦想都太敢了](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E6%A2%A6%E6%83%B3%E9%83%BD%E5%A4%AA%E6%95%A2%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
