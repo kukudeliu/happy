@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 16:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 16:58:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [Angelababy黄子韬互呛](https://s.weibo.com/weibo?q=%23Angelababy%E9%BB%84%E5%AD%90%E9%9F%AC%E4%BA%92%E5%91%9B%23&t=31&band_rank=6&Refer=top)<br />
 7. [TFBOYS三人三字](https://s.weibo.com/weibo?q=%23TFBOYS%E4%B8%89%E4%BA%BA%E4%B8%89%E5%AD%97%23&t=31&band_rank=7&Refer=top)<br />
 8. [地铁2男子吵架大哥教科书式劝架](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%93%812%E7%94%B7%E5%AD%90%E5%90%B5%E6%9E%B6%E5%A4%A7%E5%93%A5%E6%95%99%E7%A7%91%E4%B9%A6%E5%BC%8F%E5%8A%9D%E6%9E%B6%23&t=31&band_rank=8&Refer=top)<br />
-9. [整理父亲遗物发现两张一等功证书](https://s.weibo.com/weibo?q=%23%E6%95%B4%E7%90%86%E7%88%B6%E4%BA%B2%E9%81%97%E7%89%A9%E5%8F%91%E7%8E%B0%E4%B8%A4%E5%BC%A0%E4%B8%80%E7%AD%89%E5%8A%9F%E8%AF%81%E4%B9%A6%23&t=31&band_rank=9&Refer=top)<br />
+9. [牡丹江遭洪水袭击有房屋被整栋冲走](https://s.weibo.com/weibo?q=%23%E7%89%A1%E4%B8%B9%E6%B1%9F%E9%81%AD%E6%B4%AA%E6%B0%B4%E8%A2%AD%E5%87%BB%E6%9C%89%E6%88%BF%E5%B1%8B%E8%A2%AB%E6%95%B4%E6%A0%8B%E5%86%B2%E8%B5%B0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [风雨同路渡难关](https://www.baidu.com/s?wd=%E9%A3%8E%E9%9B%A8%E5%90%8C%E8%B7%AF%E6%B8%A1%E9%9A%BE%E5%85%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [TFBOYS大麦网抢票](https://www.baidu.com/s?wd=TFBOYS%E5%A4%A7%E9%BA%A6%E7%BD%91%E6%8A%A2%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [TFBOYS大麦网放票](https://www.baidu.com/s?wd=TFBOYS%E5%A4%A7%E9%BA%A6%E7%BD%91%E6%94%BE%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [牡丹江洪水已形成 房屋被大水冲走](https://www.baidu.com/s?wd=%E7%89%A1%E4%B8%B9%E6%B1%9F%E6%B4%AA%E6%B0%B4%E5%B7%B2%E5%BD%A2%E6%88%90+%E6%88%BF%E5%B1%8B%E8%A2%AB%E5%A4%A7%E6%B0%B4%E5%86%B2%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [年轻人的梦想都太敢了](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E6%A2%A6%E6%83%B3%E9%83%BD%E5%A4%AA%E6%95%A2%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [河北涿州失联村落全部复联](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E6%B6%BF%E5%B7%9E%E5%A4%B1%E8%81%94%E6%9D%91%E8%90%BD%E5%85%A8%E9%83%A8%E5%A4%8D%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [风雨同路渡难关](https://www.baidu.com/s?wd=%E9%A3%8E%E9%9B%A8%E5%90%8C%E8%B7%AF%E6%B8%A1%E9%9A%BE%E5%85%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [TFBOYS大麦网抢票](https://www.baidu.com/s?wd=TFBOYS%E5%A4%A7%E9%BA%A6%E7%BD%91%E6%8A%A2%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [TFBOYS大麦网放票](https://www.baidu.com/s?wd=TFBOYS%E5%A4%A7%E9%BA%A6%E7%BD%91%E6%94%BE%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [牡丹江洪水已形成 房屋被大水冲走](https://www.baidu.com/s?wd=%E7%89%A1%E4%B8%B9%E6%B1%9F%E6%B4%AA%E6%B0%B4%E5%B7%B2%E5%BD%A2%E6%88%90+%E6%88%BF%E5%B1%8B%E8%A2%AB%E5%A4%A7%E6%B0%B4%E5%86%B2%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [年轻人的梦想都太敢了](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E6%A2%A6%E6%83%B3%E9%83%BD%E5%A4%AA%E6%95%A2%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [河北涿州失联村落全部复联](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E6%B6%BF%E5%B7%9E%E5%A4%B1%E8%81%94%E6%9D%91%E8%90%BD%E5%85%A8%E9%83%A8%E5%A4%8D%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
