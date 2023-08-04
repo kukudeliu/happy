@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-05 01:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-05 01:25:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [张晚意好会演](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%99%9A%E6%84%8F%E5%A5%BD%E4%BC%9A%E6%BC%94&t=31&band_rank=6&Refer=top)<br />
 7. [门头沟女干部熊丽在勘察险情途中牺牲](https://s.weibo.com/weibo?q=%23%E9%97%A8%E5%A4%B4%E6%B2%9F%E5%A5%B3%E5%B9%B2%E9%83%A8%E7%86%8A%E4%B8%BD%E5%9C%A8%E5%8B%98%E5%AF%9F%E9%99%A9%E6%83%85%E9%80%94%E4%B8%AD%E7%89%BA%E7%89%B2%23&t=31&band_rank=7&Refer=top)<br />
 8. [韩国人就差身份证上写mbti了](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E4%BA%BA%E5%B0%B1%E5%B7%AE%E8%BA%AB%E4%BB%BD%E8%AF%81%E4%B8%8A%E5%86%99mbti%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [柚子什么时候谈的恋爱](https://s.weibo.com/weibo?q=%E6%9F%9A%E5%AD%90%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E8%B0%88%E7%9A%84%E6%81%8B%E7%88%B1&t=31&band_rank=9&Refer=top)<br />
+9. [黑龙江尚志九江村整村失联](https://s.weibo.com/weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E5%B0%9A%E5%BF%97%E4%B9%9D%E6%B1%9F%E6%9D%91%E6%95%B4%E6%9D%91%E5%A4%B1%E8%81%94%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
