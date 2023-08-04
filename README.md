@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 21:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 21:42:02</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [中国好声音赶着下班啊](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E8%B5%B6%E7%9D%80%E4%B8%8B%E7%8F%AD%E5%95%8A&t=31&band_rank=4&Refer=top)<br />
 5. [大奉打更人](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%A5%89%E6%89%93%E6%9B%B4%E4%BA%BA&t=31&band_rank=5&Refer=top)<br />
 6. [吴艳妮](https://s.weibo.com/weibo?q=%E5%90%B4%E8%89%B3%E5%A6%AE&t=31&band_rank=6&Refer=top)<br />
-7. [赵丽颖向河北灾区捐赠物资](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%90%91%E6%B2%B3%E5%8C%97%E7%81%BE%E5%8C%BA%E6%8D%90%E8%B5%A0%E7%89%A9%E8%B5%84%23&t=31&band_rank=7&Refer=top)<br />
-8. [黑龙江暴雨](https://s.weibo.com/weibo?q=%E9%BB%91%E9%BE%99%E6%B1%9F%E6%9A%B4%E9%9B%A8&t=31&band_rank=8&Refer=top)<br />
+7. [黑龙江暴雨](https://s.weibo.com/weibo?q=%E9%BB%91%E9%BE%99%E6%B1%9F%E6%9A%B4%E9%9B%A8&t=31&band_rank=7&Refer=top)<br />
+8. [赵丽颖向河北灾区捐赠物资](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%90%91%E6%B2%B3%E5%8C%97%E7%81%BE%E5%8C%BA%E6%8D%90%E8%B5%A0%E7%89%A9%E8%B5%84%23&t=31&band_rank=8&Refer=top)<br />
 9. [华为](https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
