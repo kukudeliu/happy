@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 10:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 10:17:01</h4></div>
 
 > 微博  
 
@@ -18,23 +18,23 @@
 > 百度  
 
 1. [扎实推动经济高质量发展](https://www.baidu.com/s?wd=%E6%89%8E%E5%AE%9E%E6%8E%A8%E5%8A%A8%E7%BB%8F%E6%B5%8E%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [河北涿州发布接受救灾捐赠方式](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E6%B6%BF%E5%B7%9E%E5%8F%91%E5%B8%83%E6%8E%A5%E5%8F%97%E6%95%91%E7%81%BE%E6%8D%90%E8%B5%A0%E6%96%B9%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [胡锡进：北京市民没想让河北做护城河](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%EF%BC%9A%E5%8C%97%E4%BA%AC%E5%B8%82%E6%B0%91%E6%B2%A1%E6%83%B3%E8%AE%A9%E6%B2%B3%E5%8C%97%E5%81%9A%E6%8A%A4%E5%9F%8E%E6%B2%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [涿州洪灾 拉猪大货车变“诺亚方舟”](https://www.baidu.com/s?wd=%E6%B6%BF%E5%B7%9E%E6%B4%AA%E7%81%BE+%E6%8B%89%E7%8C%AA%E5%A4%A7%E8%B4%A7%E8%BD%A6%E5%8F%98%E2%80%9C%E8%AF%BA%E4%BA%9A%E6%96%B9%E8%88%9F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [暴雨过后 饮食卫生要注意](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E8%BF%87%E5%90%8E+%E9%A5%AE%E9%A3%9F%E5%8D%AB%E7%94%9F%E8%A6%81%E6%B3%A8%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [江苏一男子吃烧烤后感染戊肝](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E4%B8%80%E7%94%B7%E5%AD%90%E5%90%83%E7%83%A7%E7%83%A4%E5%90%8E%E6%84%9F%E6%9F%93%E6%88%8A%E8%82%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [顾客吃面发现碗里有完整死老鼠](https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E5%90%83%E9%9D%A2%E5%8F%91%E7%8E%B0%E7%A2%97%E9%87%8C%E6%9C%89%E5%AE%8C%E6%95%B4%E6%AD%BB%E8%80%81%E9%BC%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [大狗洪水中仍看家 救援人员无法靠近](https://www.baidu.com/s?wd=%E5%A4%A7%E7%8B%97%E6%B4%AA%E6%B0%B4%E4%B8%AD%E4%BB%8D%E7%9C%8B%E5%AE%B6+%E6%95%91%E6%8F%B4%E4%BA%BA%E5%91%98%E6%97%A0%E6%B3%95%E9%9D%A0%E8%BF%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [台媒称罗刹海市映射台湾乱象](https://www.baidu.com/s?wd=%E5%8F%B0%E5%AA%92%E7%A7%B0%E7%BD%97%E5%88%B9%E6%B5%B7%E5%B8%82%E6%98%A0%E5%B0%84%E5%8F%B0%E6%B9%BE%E4%B9%B1%E8%B1%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [胡锡进：北京市民没想让河北做护城河](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%EF%BC%9A%E5%8C%97%E4%BA%AC%E5%B8%82%E6%B0%91%E6%B2%A1%E6%83%B3%E8%AE%A9%E6%B2%B3%E5%8C%97%E5%81%9A%E6%8A%A4%E5%9F%8E%E6%B2%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [救援人员被喊话先救老人无奈拒绝](https://www.baidu.com/s?wd=%E6%95%91%E6%8F%B4%E4%BA%BA%E5%91%98%E8%A2%AB%E5%96%8A%E8%AF%9D%E5%85%88%E6%95%91%E8%80%81%E4%BA%BA%E6%97%A0%E5%A5%88%E6%8B%92%E7%BB%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [扎实推动经济高质量发展](https://www.baidu.com/s?wd=%E6%89%8E%E5%AE%9E%E6%8E%A8%E5%8A%A8%E7%BB%8F%E6%B5%8E%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [河北涿州发布接受救灾捐赠方式](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E6%B6%BF%E5%B7%9E%E5%8F%91%E5%B8%83%E6%8E%A5%E5%8F%97%E6%95%91%E7%81%BE%E6%8D%90%E8%B5%A0%E6%96%B9%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [胡锡进：北京市民没想让河北做护城河](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%EF%BC%9A%E5%8C%97%E4%BA%AC%E5%B8%82%E6%B0%91%E6%B2%A1%E6%83%B3%E8%AE%A9%E6%B2%B3%E5%8C%97%E5%81%9A%E6%8A%A4%E5%9F%8E%E6%B2%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [涿州洪灾 拉猪大货车变“诺亚方舟”](https://www.baidu.com/s?wd=%E6%B6%BF%E5%B7%9E%E6%B4%AA%E7%81%BE+%E6%8B%89%E7%8C%AA%E5%A4%A7%E8%B4%A7%E8%BD%A6%E5%8F%98%E2%80%9C%E8%AF%BA%E4%BA%9A%E6%96%B9%E8%88%9F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [暴雨过后 饮食卫生要注意](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E8%BF%87%E5%90%8E+%E9%A5%AE%E9%A3%9F%E5%8D%AB%E7%94%9F%E8%A6%81%E6%B3%A8%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [江苏一男子吃烧烤后感染戊肝](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E4%B8%80%E7%94%B7%E5%AD%90%E5%90%83%E7%83%A7%E7%83%A4%E5%90%8E%E6%84%9F%E6%9F%93%E6%88%8A%E8%82%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [顾客吃面发现碗里有完整死老鼠](https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E5%90%83%E9%9D%A2%E5%8F%91%E7%8E%B0%E7%A2%97%E9%87%8C%E6%9C%89%E5%AE%8C%E6%95%B4%E6%AD%BB%E8%80%81%E9%BC%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [大狗洪水中仍看家 救援人员无法靠近](https://www.baidu.com/s?wd=%E5%A4%A7%E7%8B%97%E6%B4%AA%E6%B0%B4%E4%B8%AD%E4%BB%8D%E7%9C%8B%E5%AE%B6+%E6%95%91%E6%8F%B4%E4%BA%BA%E5%91%98%E6%97%A0%E6%B3%95%E9%9D%A0%E8%BF%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [台媒称罗刹海市映射台湾乱象](https://www.baidu.com/s?wd=%E5%8F%B0%E5%AA%92%E7%A7%B0%E7%BD%97%E5%88%B9%E6%B5%B7%E5%B8%82%E6%98%A0%E5%B0%84%E5%8F%B0%E6%B9%BE%E4%B9%B1%E8%B1%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [胡锡进：北京市民没想让河北做护城河](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%EF%BC%9A%E5%8C%97%E4%BA%AC%E5%B8%82%E6%B0%91%E6%B2%A1%E6%83%B3%E8%AE%A9%E6%B2%B3%E5%8C%97%E5%81%9A%E6%8A%A4%E5%9F%8E%E6%B2%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [救援人员被喊话先救老人无奈拒绝](https://www.baidu.com/s?wd=%E6%95%91%E6%8F%B4%E4%BA%BA%E5%91%98%E8%A2%AB%E5%96%8A%E8%AF%9D%E5%85%88%E6%95%91%E8%80%81%E4%BA%BA%E6%97%A0%E5%A5%88%E6%8B%92%E7%BB%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
