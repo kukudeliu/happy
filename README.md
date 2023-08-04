@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 21:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 21:37:01</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [K396次脱险纪实](https://www.baidu.com/s?wd=K396%E6%AC%A1%E8%84%B1%E9%99%A9%E7%BA%AA%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [五常农民：水稻全完了 淹了三个乡镇](https://www.baidu.com/s?wd=%E4%BA%94%E5%B8%B8%E5%86%9C%E6%B0%91%EF%BC%9A%E6%B0%B4%E7%A8%BB%E5%85%A8%E5%AE%8C%E4%BA%86+%E6%B7%B9%E4%BA%86%E4%B8%89%E4%B8%AA%E4%B9%A1%E9%95%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [普京签令：征兵年龄上限提高至30岁](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E7%AD%BE%E4%BB%A4%EF%BC%9A%E5%BE%81%E5%85%B5%E5%B9%B4%E9%BE%84%E4%B8%8A%E9%99%90%E6%8F%90%E9%AB%98%E8%87%B330%E5%B2%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [小伙给涿州灾民送物资遭哄抢指责](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E7%BB%99%E6%B6%BF%E5%B7%9E%E7%81%BE%E6%B0%91%E9%80%81%E7%89%A9%E8%B5%84%E9%81%AD%E5%93%84%E6%8A%A2%E6%8C%87%E8%B4%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [教育部:严查高校毕业生就业数据造假](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%3A%E4%B8%A5%E6%9F%A5%E9%AB%98%E6%A0%A1%E6%AF%95%E4%B8%9A%E7%94%9F%E5%B0%B1%E4%B8%9A%E6%95%B0%E6%8D%AE%E9%80%A0%E5%81%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [宵夜之光](https://www.baidu.com/s?wd=%E5%AE%B5%E5%A4%9C%E4%B9%8B%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [京津冀暴雨互助](https://www.baidu.com/s?wd=%E4%BA%AC%E6%B4%A5%E5%86%80%E6%9A%B4%E9%9B%A8%E4%BA%92%E5%8A%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [K396次脱险纪实](https://www.baidu.com/s?wd=K396%E6%AC%A1%E8%84%B1%E9%99%A9%E7%BA%AA%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [五常农民：水稻全完了 淹了三个乡镇](https://www.baidu.com/s?wd=%E4%BA%94%E5%B8%B8%E5%86%9C%E6%B0%91%EF%BC%9A%E6%B0%B4%E7%A8%BB%E5%85%A8%E5%AE%8C%E4%BA%86+%E6%B7%B9%E4%BA%86%E4%B8%89%E4%B8%AA%E4%B9%A1%E9%95%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [普京签令：征兵年龄上限提高至30岁](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E7%AD%BE%E4%BB%A4%EF%BC%9A%E5%BE%81%E5%85%B5%E5%B9%B4%E9%BE%84%E4%B8%8A%E9%99%90%E6%8F%90%E9%AB%98%E8%87%B330%E5%B2%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [小伙给涿州灾民送物资遭哄抢指责](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E7%BB%99%E6%B6%BF%E5%B7%9E%E7%81%BE%E6%B0%91%E9%80%81%E7%89%A9%E8%B5%84%E9%81%AD%E5%93%84%E6%8A%A2%E6%8C%87%E8%B4%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [教育部:严查高校毕业生就业数据造假](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%3A%E4%B8%A5%E6%9F%A5%E9%AB%98%E6%A0%A1%E6%AF%95%E4%B8%9A%E7%94%9F%E5%B0%B1%E4%B8%9A%E6%95%B0%E6%8D%AE%E9%80%A0%E5%81%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [宵夜之光](https://www.baidu.com/s?wd=%E5%AE%B5%E5%A4%9C%E4%B9%8B%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [京津冀暴雨互助](https://www.baidu.com/s?wd=%E4%BA%AC%E6%B4%A5%E5%86%80%E6%9A%B4%E9%9B%A8%E4%BA%92%E5%8A%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
