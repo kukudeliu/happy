@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 09:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 09:18:01</h4></div>
 
 > 微博  
 
@@ -18,23 +18,23 @@
 > 百度  
 
 1. [扎实推动经济高质量发展](https://www.baidu.com/s?wd=%E6%89%8E%E5%AE%9E%E6%8E%A8%E5%8A%A8%E7%BB%8F%E6%B5%8E%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [直击涿州救援：有人惦记财物不愿离开](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E6%B6%BF%E5%B7%9E%E6%95%91%E6%8F%B4%EF%BC%9A%E6%9C%89%E4%BA%BA%E6%83%A6%E8%AE%B0%E8%B4%A2%E7%89%A9%E4%B8%8D%E6%84%BF%E7%A6%BB%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [涿州男子获救后折返找狗被吐槽](https://www.baidu.com/s?wd=%E6%B6%BF%E5%B7%9E%E7%94%B7%E5%AD%90%E8%8E%B7%E6%95%91%E5%90%8E%E6%8A%98%E8%BF%94%E6%89%BE%E7%8B%97%E8%A2%AB%E5%90%90%E6%A7%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [五常大米产地被淹 农户哽咽：全完了](https://www.baidu.com/s?wd=%E4%BA%94%E5%B8%B8%E5%A4%A7%E7%B1%B3%E4%BA%A7%E5%9C%B0%E8%A2%AB%E6%B7%B9+%E5%86%9C%E6%88%B7%E5%93%BD%E5%92%BD%EF%BC%9A%E5%85%A8%E5%AE%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [台媒称罗刹海市映射台湾乱象](https://www.baidu.com/s?wd=%E5%8F%B0%E5%AA%92%E7%A7%B0%E7%BD%97%E5%88%B9%E6%B5%B7%E5%B8%82%E6%98%A0%E5%B0%84%E5%8F%B0%E6%B9%BE%E4%B9%B1%E8%B1%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [暴雨过后 饮食卫生要注意](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E8%BF%87%E5%90%8E+%E9%A5%AE%E9%A3%9F%E5%8D%AB%E7%94%9F%E8%A6%81%E6%B3%A8%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [江苏一男子吃烧烤后感染戊肝](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E4%B8%80%E7%94%B7%E5%AD%90%E5%90%83%E7%83%A7%E7%83%A4%E5%90%8E%E6%84%9F%E6%9F%93%E6%88%8A%E8%82%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [五常大米产地被淹 农户哽咽：全完了](https://www.baidu.com/s?wd=%E4%BA%94%E5%B8%B8%E5%A4%A7%E7%B1%B3%E4%BA%A7%E5%9C%B0%E8%A2%AB%E6%B7%B9+%E5%86%9C%E6%88%B7%E5%93%BD%E5%92%BD%EF%BC%9A%E5%85%A8%E5%AE%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [云南回应投资2000万建永久性方舱医院](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E5%9B%9E%E5%BA%94%E6%8A%95%E8%B5%842000%E4%B8%87%E5%BB%BA%E6%B0%B8%E4%B9%85%E6%80%A7%E6%96%B9%E8%88%B1%E5%8C%BB%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [蒙古国将与美国深化稀土开采等合作](https://www.baidu.com/s?wd=%E8%92%99%E5%8F%A4%E5%9B%BD%E5%B0%86%E4%B8%8E%E7%BE%8E%E5%9B%BD%E6%B7%B1%E5%8C%96%E7%A8%80%E5%9C%9F%E5%BC%80%E9%87%87%E7%AD%89%E5%90%88%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [台媒称罗刹海市映射台湾乱象](https://www.baidu.com/s?wd=%E5%8F%B0%E5%AA%92%E7%A7%B0%E7%BD%97%E5%88%B9%E6%B5%B7%E5%B8%82%E6%98%A0%E5%B0%84%E5%8F%B0%E6%B9%BE%E4%B9%B1%E8%B1%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [云南回应投资2000万建永久性方舱医院](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E5%9B%9E%E5%BA%94%E6%8A%95%E8%B5%842000%E4%B8%87%E5%BB%BA%E6%B0%B8%E4%B9%85%E6%80%A7%E6%96%B9%E8%88%B1%E5%8C%BB%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [蒙古国将与美国深化稀土开采等合作](https://www.baidu.com/s?wd=%E8%92%99%E5%8F%A4%E5%9B%BD%E5%B0%86%E4%B8%8E%E7%BE%8E%E5%9B%BD%E6%B7%B1%E5%8C%96%E7%A8%80%E5%9C%9F%E5%BC%80%E9%87%87%E7%AD%89%E5%90%88%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [直击涿州救援：有人惦记财物不愿离开](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E6%B6%BF%E5%B7%9E%E6%95%91%E6%8F%B4%EF%BC%9A%E6%9C%89%E4%BA%BA%E6%83%A6%E8%AE%B0%E8%B4%A2%E7%89%A9%E4%B8%8D%E6%84%BF%E7%A6%BB%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [涿州男子获救后折返找狗被吐槽](https://www.baidu.com/s?wd=%E6%B6%BF%E5%B7%9E%E7%94%B7%E5%AD%90%E8%8E%B7%E6%95%91%E5%90%8E%E6%8A%98%E8%BF%94%E6%89%BE%E7%8B%97%E8%A2%AB%E5%90%90%E6%A7%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [扎实推动经济高质量发展](https://www.baidu.com/s?wd=%E6%89%8E%E5%AE%9E%E6%8E%A8%E5%8A%A8%E7%BB%8F%E6%B5%8E%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [直击涿州救援：有人惦记财物不愿离开](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E6%B6%BF%E5%B7%9E%E6%95%91%E6%8F%B4%EF%BC%9A%E6%9C%89%E4%BA%BA%E6%83%A6%E8%AE%B0%E8%B4%A2%E7%89%A9%E4%B8%8D%E6%84%BF%E7%A6%BB%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [涿州男子获救后折返找狗被吐槽](https://www.baidu.com/s?wd=%E6%B6%BF%E5%B7%9E%E7%94%B7%E5%AD%90%E8%8E%B7%E6%95%91%E5%90%8E%E6%8A%98%E8%BF%94%E6%89%BE%E7%8B%97%E8%A2%AB%E5%90%90%E6%A7%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [五常大米产地被淹 农户哽咽：全完了](https://www.baidu.com/s?wd=%E4%BA%94%E5%B8%B8%E5%A4%A7%E7%B1%B3%E4%BA%A7%E5%9C%B0%E8%A2%AB%E6%B7%B9+%E5%86%9C%E6%88%B7%E5%93%BD%E5%92%BD%EF%BC%9A%E5%85%A8%E5%AE%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [台媒称罗刹海市映射台湾乱象](https://www.baidu.com/s?wd=%E5%8F%B0%E5%AA%92%E7%A7%B0%E7%BD%97%E5%88%B9%E6%B5%B7%E5%B8%82%E6%98%A0%E5%B0%84%E5%8F%B0%E6%B9%BE%E4%B9%B1%E8%B1%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [暴雨过后 饮食卫生要注意](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E8%BF%87%E5%90%8E+%E9%A5%AE%E9%A3%9F%E5%8D%AB%E7%94%9F%E8%A6%81%E6%B3%A8%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [江苏一男子吃烧烤后感染戊肝](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E4%B8%80%E7%94%B7%E5%AD%90%E5%90%83%E7%83%A7%E7%83%A4%E5%90%8E%E6%84%9F%E6%9F%93%E6%88%8A%E8%82%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [五常大米产地被淹 农户哽咽：全完了](https://www.baidu.com/s?wd=%E4%BA%94%E5%B8%B8%E5%A4%A7%E7%B1%B3%E4%BA%A7%E5%9C%B0%E8%A2%AB%E6%B7%B9+%E5%86%9C%E6%88%B7%E5%93%BD%E5%92%BD%EF%BC%9A%E5%85%A8%E5%AE%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [云南回应投资2000万建永久性方舱医院](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E5%9B%9E%E5%BA%94%E6%8A%95%E8%B5%842000%E4%B8%87%E5%BB%BA%E6%B0%B8%E4%B9%85%E6%80%A7%E6%96%B9%E8%88%B1%E5%8C%BB%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [蒙古国将与美国深化稀土开采等合作](https://www.baidu.com/s?wd=%E8%92%99%E5%8F%A4%E5%9B%BD%E5%B0%86%E4%B8%8E%E7%BE%8E%E5%9B%BD%E6%B7%B1%E5%8C%96%E7%A8%80%E5%9C%9F%E5%BC%80%E9%87%87%E7%AD%89%E5%90%88%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [台媒称罗刹海市映射台湾乱象](https://www.baidu.com/s?wd=%E5%8F%B0%E5%AA%92%E7%A7%B0%E7%BD%97%E5%88%B9%E6%B5%B7%E5%B8%82%E6%98%A0%E5%B0%84%E5%8F%B0%E6%B9%BE%E4%B9%B1%E8%B1%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [云南回应投资2000万建永久性方舱医院](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E5%9B%9E%E5%BA%94%E6%8A%95%E8%B5%842000%E4%B8%87%E5%BB%BA%E6%B0%B8%E4%B9%85%E6%80%A7%E6%96%B9%E8%88%B1%E5%8C%BB%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [蒙古国将与美国深化稀土开采等合作](https://www.baidu.com/s?wd=%E8%92%99%E5%8F%A4%E5%9B%BD%E5%B0%86%E4%B8%8E%E7%BE%8E%E5%9B%BD%E6%B7%B1%E5%8C%96%E7%A8%80%E5%9C%9F%E5%BC%80%E9%87%87%E7%AD%89%E5%90%88%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [直击涿州救援：有人惦记财物不愿离开](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E6%B6%BF%E5%B7%9E%E6%95%91%E6%8F%B4%EF%BC%9A%E6%9C%89%E4%BA%BA%E6%83%A6%E8%AE%B0%E8%B4%A2%E7%89%A9%E4%B8%8D%E6%84%BF%E7%A6%BB%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [涿州男子获救后折返找狗被吐槽](https://www.baidu.com/s?wd=%E6%B6%BF%E5%B7%9E%E7%94%B7%E5%AD%90%E8%8E%B7%E6%95%91%E5%90%8E%E6%8A%98%E8%BF%94%E6%89%BE%E7%8B%97%E8%A2%AB%E5%90%90%E6%A7%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
