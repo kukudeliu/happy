@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 19:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 19:55:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [山东1万个大馒头驰援河北](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C1%E4%B8%87%E4%B8%AA%E5%A4%A7%E9%A6%92%E5%A4%B4%E9%A9%B0%E6%8F%B4%E6%B2%B3%E5%8C%97%23&t=31&band_rank=5&Refer=top)<br />
 6. [我使馆回应中国公民入境俄罗斯受阻](https://s.weibo.com/weibo?q=%23%E6%88%91%E4%BD%BF%E9%A6%86%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%85%A5%E5%A2%83%E4%BF%84%E7%BD%97%E6%96%AF%E5%8F%97%E9%98%BB%23&t=31&band_rank=6&Refer=top)<br />
 7. [大哥得知家乡被淹捐赠2大包卫生巾](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%93%A5%E5%BE%97%E7%9F%A5%E5%AE%B6%E4%B9%A1%E8%A2%AB%E6%B7%B9%E6%8D%90%E8%B5%A02%E5%A4%A7%E5%8C%85%E5%8D%AB%E7%94%9F%E5%B7%BE%23&t=31&band_rank=7&Refer=top)<br />
-8. [封神票房](https://s.weibo.com/weibo?q=%E5%B0%81%E7%A5%9E%E7%A5%A8%E6%88%BF&t=31&band_rank=8&Refer=top)<br />
-9. [Xiaohu阿水杀疯了](https://s.weibo.com/weibo?q=%23Xiaohu%E9%98%BF%E6%B0%B4%E6%9D%80%E7%96%AF%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+8. [Xiaohu阿水杀疯了](https://s.weibo.com/weibo?q=%23Xiaohu%E9%98%BF%E6%B0%B4%E6%9D%80%E7%96%AF%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [封神票房](https://s.weibo.com/weibo?q=%E5%B0%81%E7%A5%9E%E7%A5%A8%E6%88%BF&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
