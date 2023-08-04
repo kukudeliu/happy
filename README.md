@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 10:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 10:49:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [江苏一男子吃烧烤后感染戊肝](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E4%B8%80%E7%94%B7%E5%AD%90%E5%90%83%E7%83%A7%E7%83%A4%E5%90%8E%E6%84%9F%E6%9F%93%E6%88%8A%E8%82%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [顾客吃面发现碗里有完整死老鼠](https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E5%90%83%E9%9D%A2%E5%8F%91%E7%8E%B0%E7%A2%97%E9%87%8C%E6%9C%89%E5%AE%8C%E6%95%B4%E6%AD%BB%E8%80%81%E9%BC%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [大狗洪水中仍看家 救援人员无法靠近](https://www.baidu.com/s?wd=%E5%A4%A7%E7%8B%97%E6%B4%AA%E6%B0%B4%E4%B8%AD%E4%BB%8D%E7%9C%8B%E5%AE%B6+%E6%95%91%E6%8F%B4%E4%BA%BA%E5%91%98%E6%97%A0%E6%B3%95%E9%9D%A0%E8%BF%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [台媒称罗刹海市映射台湾乱象](https://www.baidu.com/s?wd=%E5%8F%B0%E5%AA%92%E7%A7%B0%E7%BD%97%E5%88%B9%E6%B5%B7%E5%B8%82%E6%98%A0%E5%B0%84%E5%8F%B0%E6%B9%BE%E4%B9%B1%E8%B1%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [托熟人养狗当天被卖掉宰杀](https://www.baidu.com/s?wd=%E6%89%98%E7%86%9F%E4%BA%BA%E5%85%BB%E7%8B%97%E5%BD%93%E5%A4%A9%E8%A2%AB%E5%8D%96%E6%8E%89%E5%AE%B0%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [8月国内气候如何？](https://www.baidu.com/s?wd=8%E6%9C%88%E5%9B%BD%E5%86%85%E6%B0%94%E5%80%99%E5%A6%82%E4%BD%95%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [台媒称罗刹海市映射台湾乱象](https://www.baidu.com/s?wd=%E5%8F%B0%E5%AA%92%E7%A7%B0%E7%BD%97%E5%88%B9%E6%B5%B7%E5%B8%82%E6%98%A0%E5%B0%84%E5%8F%B0%E6%B9%BE%E4%B9%B1%E8%B1%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [江苏一男子吃烧烤后感染戊肝](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E4%B8%80%E7%94%B7%E5%AD%90%E5%90%83%E7%83%A7%E7%83%A4%E5%90%8E%E6%84%9F%E6%9F%93%E6%88%8A%E8%82%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [顾客吃面发现碗里有完整死老鼠](https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E5%90%83%E9%9D%A2%E5%8F%91%E7%8E%B0%E7%A2%97%E9%87%8C%E6%9C%89%E5%AE%8C%E6%95%B4%E6%AD%BB%E8%80%81%E9%BC%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [大狗洪水中仍看家 救援人员无法靠近](https://www.baidu.com/s?wd=%E5%A4%A7%E7%8B%97%E6%B4%AA%E6%B0%B4%E4%B8%AD%E4%BB%8D%E7%9C%8B%E5%AE%B6+%E6%95%91%E6%8F%B4%E4%BA%BA%E5%91%98%E6%97%A0%E6%B3%95%E9%9D%A0%E8%BF%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [台媒称罗刹海市映射台湾乱象](https://www.baidu.com/s?wd=%E5%8F%B0%E5%AA%92%E7%A7%B0%E7%BD%97%E5%88%B9%E6%B5%B7%E5%B8%82%E6%98%A0%E5%B0%84%E5%8F%B0%E6%B9%BE%E4%B9%B1%E8%B1%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [托熟人养狗当天被卖掉宰杀](https://www.baidu.com/s?wd=%E6%89%98%E7%86%9F%E4%BA%BA%E5%85%BB%E7%8B%97%E5%BD%93%E5%A4%A9%E8%A2%AB%E5%8D%96%E6%8E%89%E5%AE%B0%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [8月国内气候如何？](https://www.baidu.com/s?wd=8%E6%9C%88%E5%9B%BD%E5%86%85%E6%B0%94%E5%80%99%E5%A6%82%E4%BD%95%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [台媒称罗刹海市映射台湾乱象](https://www.baidu.com/s?wd=%E5%8F%B0%E5%AA%92%E7%A7%B0%E7%BD%97%E5%88%B9%E6%B5%B7%E5%B8%82%E6%98%A0%E5%B0%84%E5%8F%B0%E6%B9%BE%E4%B9%B1%E8%B1%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
