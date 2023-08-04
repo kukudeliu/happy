@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 10:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 10:25:02</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [TFBOYS新歌](https://s.weibo.com/weibo?q=%23TFBOYS%E6%96%B0%E6%AD%8C%23&t=31&band_rank=2&Refer=top)<br />
 3. [暴雨洪涝后饮食安全指南](https://s.weibo.com/weibo?q=%23%E6%9A%B4%E9%9B%A8%E6%B4%AA%E6%B6%9D%E5%90%8E%E9%A5%AE%E9%A3%9F%E5%AE%89%E5%85%A8%E6%8C%87%E5%8D%97%23&t=31&band_rank=3&Refer=top)<br />
 4. [BLACKPINK与YG续约合约金约15亿韩元](https://s.weibo.com/weibo?q=%23BLACKPINK%E4%B8%8EYG%E7%BB%AD%E7%BA%A6%E5%90%88%E7%BA%A6%E9%87%91%E7%BA%A615%E4%BA%BF%E9%9F%A9%E5%85%83%23&t=31&band_rank=4&Refer=top)<br />
-5. [狗狗被遗弃跋涉100公里咬主人](https://s.weibo.com/weibo?q=%23%E7%8B%97%E7%8B%97%E8%A2%AB%E9%81%97%E5%BC%83%E8%B7%8B%E6%B6%89100%E5%85%AC%E9%87%8C%E5%92%AC%E4%B8%BB%E4%BA%BA%23&t=31&band_rank=5&Refer=top)<br />
-6. [发改委发布会](https://s.weibo.com/weibo?q=%23%E5%8F%91%E6%94%B9%E5%A7%94%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=6&Refer=top)<br />
-7. [福建人对刘涛的妈祖滤镜](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E4%BA%BA%E5%AF%B9%E5%88%98%E6%B6%9B%E7%9A%84%E5%A6%88%E7%A5%96%E6%BB%A4%E9%95%9C%23&t=31&band_rank=7&Refer=top)<br />
-8. [六岁相柳怒扔奶瓶](https://s.weibo.com/weibo?q=%23%E5%85%AD%E5%B2%81%E7%9B%B8%E6%9F%B3%E6%80%92%E6%89%94%E5%A5%B6%E7%93%B6%23&t=31&band_rank=8&Refer=top)<br />
-9. [内娱生图免检的明星](https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E7%94%9F%E5%9B%BE%E5%85%8D%E6%A3%80%E7%9A%84%E6%98%8E%E6%98%9F%23&t=31&band_rank=9&Refer=top)<br />
+5. [发改委发布会](https://s.weibo.com/weibo?q=%23%E5%8F%91%E6%94%B9%E5%A7%94%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=5&Refer=top)<br />
+6. [福建人对刘涛的妈祖滤镜](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E4%BA%BA%E5%AF%B9%E5%88%98%E6%B6%9B%E7%9A%84%E5%A6%88%E7%A5%96%E6%BB%A4%E9%95%9C%23&t=31&band_rank=6&Refer=top)<br />
+7. [六岁相柳怒扔奶瓶](https://s.weibo.com/weibo?q=%23%E5%85%AD%E5%B2%81%E7%9B%B8%E6%9F%B3%E6%80%92%E6%89%94%E5%A5%B6%E7%93%B6%23&t=31&band_rank=7&Refer=top)<br />
+8. [内娱生图免检的明星](https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E7%94%9F%E5%9B%BE%E5%85%8D%E6%A3%80%E7%9A%84%E6%98%8E%E6%98%9F%23&t=31&band_rank=8&Refer=top)<br />
+9. [狗狗被遗弃跋涉100公里咬主人](https://s.weibo.com/weibo?q=%23%E7%8B%97%E7%8B%97%E8%A2%AB%E9%81%97%E5%BC%83%E8%B7%8B%E6%B6%89100%E5%85%AC%E9%87%8C%E5%92%AC%E4%B8%BB%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
