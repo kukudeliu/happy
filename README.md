@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 22:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 22:14:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [K396次脱险纪实](https://www.baidu.com/s?wd=K396%E6%AC%A1%E8%84%B1%E9%99%A9%E7%BA%AA%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [教育部:严查高校毕业生就业数据造假](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%3A%E4%B8%A5%E6%9F%A5%E9%AB%98%E6%A0%A1%E6%AF%95%E4%B8%9A%E7%94%9F%E5%B0%B1%E4%B8%9A%E6%95%B0%E6%8D%AE%E9%80%A0%E5%81%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [重庆通报事业单位招考作弊案](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E9%80%9A%E6%8A%A5%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E6%8B%9B%E8%80%83%E4%BD%9C%E5%BC%8A%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [新能源汽车长时间泡水后勿启动](https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E9%95%BF%E6%97%B6%E9%97%B4%E6%B3%A1%E6%B0%B4%E5%90%8E%E5%8B%BF%E5%90%AF%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [河北涞水呼救：罕见洪水过境山区](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E6%B6%9E%E6%B0%B4%E5%91%BC%E6%95%91%EF%BC%9A%E7%BD%95%E8%A7%81%E6%B4%AA%E6%B0%B4%E8%BF%87%E5%A2%83%E5%B1%B1%E5%8C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [网友考古陈牧驰：腹肌是“windows”](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E8%80%83%E5%8F%A4%E9%99%88%E7%89%A7%E9%A9%B0%EF%BC%9A%E8%85%B9%E8%82%8C%E6%98%AF%E2%80%9Cwindows%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [山西挂牌督办晋城致4死中毒事故](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E6%8C%82%E7%89%8C%E7%9D%A3%E5%8A%9E%E6%99%8B%E5%9F%8E%E8%87%B44%E6%AD%BB%E4%B8%AD%E6%AF%92%E4%BA%8B%E6%95%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [京津冀暴雨互助](https://www.baidu.com/s?wd=%E4%BA%AC%E6%B4%A5%E5%86%80%E6%9A%B4%E9%9B%A8%E4%BA%92%E5%8A%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [K396次脱险纪实](https://www.baidu.com/s?wd=K396%E6%AC%A1%E8%84%B1%E9%99%A9%E7%BA%AA%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [教育部:严查高校毕业生就业数据造假](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%3A%E4%B8%A5%E6%9F%A5%E9%AB%98%E6%A0%A1%E6%AF%95%E4%B8%9A%E7%94%9F%E5%B0%B1%E4%B8%9A%E6%95%B0%E6%8D%AE%E9%80%A0%E5%81%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [重庆通报事业单位招考作弊案](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E9%80%9A%E6%8A%A5%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E6%8B%9B%E8%80%83%E4%BD%9C%E5%BC%8A%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [新能源汽车长时间泡水后勿启动](https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E9%95%BF%E6%97%B6%E9%97%B4%E6%B3%A1%E6%B0%B4%E5%90%8E%E5%8B%BF%E5%90%AF%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [河北涞水呼救：罕见洪水过境山区](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E6%B6%9E%E6%B0%B4%E5%91%BC%E6%95%91%EF%BC%9A%E7%BD%95%E8%A7%81%E6%B4%AA%E6%B0%B4%E8%BF%87%E5%A2%83%E5%B1%B1%E5%8C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [网友考古陈牧驰：腹肌是“windows”](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E8%80%83%E5%8F%A4%E9%99%88%E7%89%A7%E9%A9%B0%EF%BC%9A%E8%85%B9%E8%82%8C%E6%98%AF%E2%80%9Cwindows%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [山西挂牌督办晋城致4死中毒事故](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E6%8C%82%E7%89%8C%E7%9D%A3%E5%8A%9E%E6%99%8B%E5%9F%8E%E8%87%B44%E6%AD%BB%E4%B8%AD%E6%AF%92%E4%BA%8B%E6%95%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [京津冀暴雨互助](https://www.baidu.com/s?wd=%E4%BA%AC%E6%B4%A5%E5%86%80%E6%9A%B4%E9%9B%A8%E4%BA%92%E5%8A%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
