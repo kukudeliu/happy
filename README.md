@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 09:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 09:22:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [福建人对刘涛的妈祖滤镜](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E4%BA%BA%E5%AF%B9%E5%88%98%E6%B6%9B%E7%9A%84%E5%A6%88%E7%A5%96%E6%BB%A4%E9%95%9C%23&t=31&band_rank=5&Refer=top)<br />
 6. [官方确认重庆事业单位考试有人作弊](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E7%A1%AE%E8%AE%A4%E9%87%8D%E5%BA%86%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E8%80%83%E8%AF%95%E6%9C%89%E4%BA%BA%E4%BD%9C%E5%BC%8A%23&t=31&band_rank=6&Refer=top)<br />
 7. [不要轻易介入他人的因果](https://s.weibo.com/weibo?q=%E4%B8%8D%E8%A6%81%E8%BD%BB%E6%98%93%E4%BB%8B%E5%85%A5%E4%BB%96%E4%BA%BA%E7%9A%84%E5%9B%A0%E6%9E%9C&t=31&band_rank=7&Refer=top)<br />
-8. [相柳还是进入了小夭的梦里](https://s.weibo.com/weibo?q=%23%E7%9B%B8%E6%9F%B3%E8%BF%98%E6%98%AF%E8%BF%9B%E5%85%A5%E4%BA%86%E5%B0%8F%E5%A4%AD%E7%9A%84%E6%A2%A6%E9%87%8C%23&t=31&band_rank=8&Refer=top)<br />
-9. [花200块买的投影仪](https://s.weibo.com/weibo?q=%23%E8%8A%B1200%E5%9D%97%E4%B9%B0%E7%9A%84%E6%8A%95%E5%BD%B1%E4%BB%AA%23&t=31&band_rank=9&Refer=top)<br />
+8. [这真的不是帝后吗](https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%9C%9F%E7%9A%84%E4%B8%8D%E6%98%AF%E5%B8%9D%E5%90%8E%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
+9. [火树](https://s.weibo.com/weibo?q=%E7%81%AB%E6%A0%91&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
