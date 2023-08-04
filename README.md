@@ -1,13 +1,13 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 18:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 18:33:01</h4></div>
 
 > 微博  
 
 1. [男大学生购买100包卫生巾支援涿州](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0100%E5%8C%85%E5%8D%AB%E7%94%9F%E5%B7%BE%E6%94%AF%E6%8F%B4%E6%B6%BF%E5%B7%9E%23&t=31&band_rank=1&Refer=top)<br />
-2. [檀健次和工作室都极爱相柳](https://s.weibo.com/weibo?q=%E6%AA%80%E5%81%A5%E6%AC%A1%E5%92%8C%E5%B7%A5%E4%BD%9C%E5%AE%A4%E9%83%BD%E6%9E%81%E7%88%B1%E7%9B%B8%E6%9F%B3&t=31&band_rank=2&Refer=top)<br />
+2. [大麦](https://s.weibo.com/weibo?q=%E5%A4%A7%E9%BA%A6&t=31&band_rank=2&Refer=top)<br />
 3. [亚运版复兴号首次对外试乘](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E7%89%88%E5%A4%8D%E5%85%B4%E5%8F%B7%E9%A6%96%E6%AC%A1%E5%AF%B9%E5%A4%96%E8%AF%95%E4%B9%98%23&t=31&band_rank=3&Refer=top)<br />
 4. [中国女婿见非洲丈母娘很害羞](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%A9%BF%E8%A7%81%E9%9D%9E%E6%B4%B2%E4%B8%88%E6%AF%8D%E5%A8%98%E5%BE%88%E5%AE%B3%E7%BE%9E%23&t=31&band_rank=4&Refer=top)<br />
 5. [大哥得知家乡被淹捐赠2大包卫生巾](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%93%A5%E5%BE%97%E7%9F%A5%E5%AE%B6%E4%B9%A1%E8%A2%AB%E6%B7%B9%E6%8D%90%E8%B5%A02%E5%A4%A7%E5%8C%85%E5%8D%AB%E7%94%9F%E5%B7%BE%23&t=31&band_rank=5&Refer=top)<br />
-6. [大麦](https://s.weibo.com/weibo?q=%E5%A4%A7%E9%BA%A6&t=31&band_rank=6&Refer=top)<br />
+6. [檀健次和工作室都极爱相柳](https://s.weibo.com/weibo?q=%E6%AA%80%E5%81%A5%E6%AC%A1%E5%92%8C%E5%B7%A5%E4%BD%9C%E5%AE%A4%E9%83%BD%E6%9E%81%E7%88%B1%E7%9B%B8%E6%9F%B3&t=31&band_rank=6&Refer=top)<br />
 7. [整理父亲遗物发现两张一等功证书](https://s.weibo.com/weibo?q=%23%E6%95%B4%E7%90%86%E7%88%B6%E4%BA%B2%E9%81%97%E7%89%A9%E5%8F%91%E7%8E%B0%E4%B8%A4%E5%BC%A0%E4%B8%80%E7%AD%89%E5%8A%9F%E8%AF%81%E4%B9%A6%23&t=31&band_rank=7&Refer=top)<br />
 8. [彭昱畅自己争取全裸出镜](https://s.weibo.com/weibo?q=%23%E5%BD%AD%E6%98%B1%E7%95%85%E8%87%AA%E5%B7%B1%E4%BA%89%E5%8F%96%E5%85%A8%E8%A3%B8%E5%87%BA%E9%95%9C%23&t=31&band_rank=8&Refer=top)<br />
 9. [巨齿鲨](https://s.weibo.com/weibo?q=%E5%B7%A8%E9%BD%BF%E9%B2%A8&t=31&band_rank=9&Refer=top)<br />
