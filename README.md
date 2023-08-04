@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 18:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 18:58:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [大哥得知家乡被淹捐赠2大包卫生巾](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%93%A5%E5%BE%97%E7%9F%A5%E5%AE%B6%E4%B9%A1%E8%A2%AB%E6%B7%B9%E6%8D%90%E8%B5%A02%E5%A4%A7%E5%8C%85%E5%8D%AB%E7%94%9F%E5%B7%BE%23&t=31&band_rank=5&Refer=top)<br />
 6. [到底是谁发明的餐具费](https://s.weibo.com/weibo?q=%23%E5%88%B0%E5%BA%95%E6%98%AF%E8%B0%81%E5%8F%91%E6%98%8E%E7%9A%84%E9%A4%90%E5%85%B7%E8%B4%B9%23&t=31&band_rank=6&Refer=top)<br />
 7. [山东1万个大馒头驰援河北](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C1%E4%B8%87%E4%B8%AA%E5%A4%A7%E9%A6%92%E5%A4%B4%E9%A9%B0%E6%8F%B4%E6%B2%B3%E5%8C%97%23&t=31&band_rank=7&Refer=top)<br />
-8. [檀健次和工作室都极爱相柳](https://s.weibo.com/weibo?q=%E6%AA%80%E5%81%A5%E6%AC%A1%E5%92%8C%E5%B7%A5%E4%BD%9C%E5%AE%A4%E9%83%BD%E6%9E%81%E7%88%B1%E7%9B%B8%E6%9F%B3&t=31&band_rank=8&Refer=top)<br />
+8. [长相思第二季共21集](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D%E7%AC%AC%E4%BA%8C%E5%AD%A3%E5%85%B121%E9%9B%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [石家庄暴雨](https://s.weibo.com/weibo?q=%E7%9F%B3%E5%AE%B6%E5%BA%84%E6%9A%B4%E9%9B%A8&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
