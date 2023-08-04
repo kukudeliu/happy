@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 22:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 23:00:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [断崖旁消防员用身躯做人墙保护孩子](https://s.weibo.com/weibo?q=%23%E6%96%AD%E5%B4%96%E6%97%81%E6%B6%88%E9%98%B2%E5%91%98%E7%94%A8%E8%BA%AB%E8%BA%AF%E5%81%9A%E4%BA%BA%E5%A2%99%E4%BF%9D%E6%8A%A4%E5%AD%A9%E5%AD%90%23&t=31&band_rank=3&Refer=top)<br />
 4. [终于等到长相思电动车名场面](https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E7%AD%89%E5%88%B0%E9%95%BF%E7%9B%B8%E6%80%9D%E7%94%B5%E5%8A%A8%E8%BD%A6%E5%90%8D%E5%9C%BA%E9%9D%A2%23&t=31&band_rank=4&Refer=top)<br />
 5. [B站崩了](https://s.weibo.com/weibo?q=B%E7%AB%99%E5%B4%A9%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
-6. [这真的不是向佐吗](https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%9C%9F%E7%9A%84%E4%B8%8D%E6%98%AF%E5%90%91%E4%BD%90%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
-7. [曾毅说TFBOYS是凤凰传奇的晚辈](https://s.weibo.com/weibo?q=%23%E6%9B%BE%E6%AF%85%E8%AF%B4TFBOYS%E6%98%AF%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E7%9A%84%E6%99%9A%E8%BE%88%23&t=31&band_rank=7&Refer=top)<br />
+6. [曾毅说TFBOYS是凤凰传奇的晚辈](https://s.weibo.com/weibo?q=%23%E6%9B%BE%E6%AF%85%E8%AF%B4TFBOYS%E6%98%AF%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E7%9A%84%E6%99%9A%E8%BE%88%23&t=31&band_rank=6&Refer=top)<br />
+7. [这真的不是向佐吗](https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%9C%9F%E7%9A%84%E4%B8%8D%E6%98%AF%E5%90%91%E4%BD%90%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
 8. [黑龙江已有4条江河发生洪水](https://s.weibo.com/weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E5%B7%B2%E6%9C%894%E6%9D%A1%E6%B1%9F%E6%B2%B3%E5%8F%91%E7%94%9F%E6%B4%AA%E6%B0%B4%23&t=31&band_rank=8&Refer=top)<br />
 9. [那英 专治恋爱脑](https://s.weibo.com/weibo?q=%E9%82%A3%E8%8B%B1%20%E4%B8%93%E6%B2%BB%E6%81%8B%E7%88%B1%E8%84%91&t=31&band_rank=9&Refer=top)<br />
 
