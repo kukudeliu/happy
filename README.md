@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 14:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 14:12:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [追星界王宝钏](https://s.weibo.com/weibo?q=%23%E8%BF%BD%E6%98%9F%E7%95%8C%E7%8E%8B%E5%AE%9D%E9%92%8F%23&t=31&band_rank=6&Refer=top)<br />
 7. [蒋依依敖子逸](https://s.weibo.com/weibo?q=%E8%92%8B%E4%BE%9D%E4%BE%9D%E6%95%96%E5%AD%90%E9%80%B8&t=31&band_rank=7&Refer=top)<br />
 8. [杨紫张晚意水榭楼台芭莎大片](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%BC%A0%E6%99%9A%E6%84%8F%E6%B0%B4%E6%A6%AD%E6%A5%BC%E5%8F%B0%E8%8A%AD%E8%8E%8E%E5%A4%A7%E7%89%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [存了一年的东方青苍剪辑](https://s.weibo.com/weibo?q=%E5%AD%98%E4%BA%86%E4%B8%80%E5%B9%B4%E7%9A%84%E4%B8%9C%E6%96%B9%E9%9D%92%E8%8B%8D%E5%89%AA%E8%BE%91&t=31&band_rank=9&Refer=top)<br />
+9. [刘昊然被导演彭昱畅忽悠](https://s.weibo.com/weibo?q=%23%E5%88%98%E6%98%8A%E7%84%B6%E8%A2%AB%E5%AF%BC%E6%BC%94%E5%BD%AD%E6%98%B1%E7%95%85%E5%BF%BD%E6%82%A0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
