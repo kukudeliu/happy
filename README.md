@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 16:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 16:18:02</h4></div>
 
 > 微博  
 
@@ -17,7 +17,7 @@
 
 > 百度  
 
-1. [青春 团结 友谊](https://www.baidu.com/s?wd=%E9%9D%92%E6%98%A5+%E5%9B%A2%E7%BB%93+%E5%8F%8B%E8%B0%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [风雨同路渡难关](https://www.baidu.com/s?wd=%E9%A3%8E%E9%9B%A8%E5%90%8C%E8%B7%AF%E6%B8%A1%E9%9A%BE%E5%85%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [牡丹江洪水已形成 房屋被大水冲走](https://www.baidu.com/s?wd=%E7%89%A1%E4%B8%B9%E6%B1%9F%E6%B4%AA%E6%B0%B4%E5%B7%B2%E5%BD%A2%E6%88%90+%E6%88%BF%E5%B1%8B%E8%A2%AB%E5%A4%A7%E6%B0%B4%E5%86%B2%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [媒体：救灾一线岂容网红群魔乱舞](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E6%95%91%E7%81%BE%E4%B8%80%E7%BA%BF%E5%B2%82%E5%AE%B9%E7%BD%91%E7%BA%A2%E7%BE%A4%E9%AD%94%E4%B9%B1%E8%88%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [年轻人的梦想都太敢了](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E6%A2%A6%E6%83%B3%E9%83%BD%E5%A4%AA%E6%95%A2%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,7 +29,7 @@
 
 > 哔哩哔哩  
 
-1. [青春 团结 友谊](https://www.baidu.com/s?wd=%E9%9D%92%E6%98%A5+%E5%9B%A2%E7%BB%93+%E5%8F%8B%E8%B0%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [风雨同路渡难关](https://www.baidu.com/s?wd=%E9%A3%8E%E9%9B%A8%E5%90%8C%E8%B7%AF%E6%B8%A1%E9%9A%BE%E5%85%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [牡丹江洪水已形成 房屋被大水冲走](https://www.baidu.com/s?wd=%E7%89%A1%E4%B8%B9%E6%B1%9F%E6%B4%AA%E6%B0%B4%E5%B7%B2%E5%BD%A2%E6%88%90+%E6%88%BF%E5%B1%8B%E8%A2%AB%E5%A4%A7%E6%B0%B4%E5%86%B2%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [媒体：救灾一线岂容网红群魔乱舞](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E6%95%91%E7%81%BE%E4%B8%80%E7%BA%BF%E5%B2%82%E5%AE%B9%E7%BD%91%E7%BA%A2%E7%BE%A4%E9%AD%94%E4%B9%B1%E8%88%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [年轻人的梦想都太敢了](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E6%A2%A6%E6%83%B3%E9%83%BD%E5%A4%AA%E6%95%A2%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
