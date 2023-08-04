@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 14:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 14:03:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [杨紫张晚意水榭楼台芭莎大片](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%BC%A0%E6%99%9A%E6%84%8F%E6%B0%B4%E6%A6%AD%E6%A5%BC%E5%8F%B0%E8%8A%AD%E8%8E%8E%E5%A4%A7%E7%89%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [蒋依依敖子逸](https://s.weibo.com/weibo?q=%E8%92%8B%E4%BE%9D%E4%BE%9D%E6%95%96%E5%AD%90%E9%80%B8&t=31&band_rank=7&Refer=top)<br />
 8. [追星界王宝钏](https://s.weibo.com/weibo?q=%23%E8%BF%BD%E6%98%9F%E7%95%8C%E7%8E%8B%E5%AE%9D%E9%92%8F%23&t=31&band_rank=8&Refer=top)<br />
-9. [时代峰峻今天好热闹](https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E4%BB%8A%E5%A4%A9%E5%A5%BD%E7%83%AD%E9%97%B9%23&t=31&band_rank=9&Refer=top)<br />
+9. [原来师傅和师父是不一样的概念](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%B8%88%E5%82%85%E5%92%8C%E5%B8%88%E7%88%B6%E6%98%AF%E4%B8%8D%E4%B8%80%E6%A0%B7%E7%9A%84%E6%A6%82%E5%BF%B5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
