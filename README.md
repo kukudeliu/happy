@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-05 02:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-05 02:41:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [黑龙江尚志九江村整村失联](https://s.weibo.com/weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E5%B0%9A%E5%BF%97%E4%B9%9D%E6%B1%9F%E6%9D%91%E6%95%B4%E6%9D%91%E5%A4%B1%E8%81%94%23&t=31&band_rank=6&Refer=top)<br />
 7. [张踩铃婆婆](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%B8%A9%E9%93%83%E5%A9%86%E5%A9%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [中国男篮](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE&t=31&band_rank=8&Refer=top)<br />
-9. [B站崩了](https://s.weibo.com/weibo?q=B%E7%AB%99%E5%B4%A9%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [张晚意好会演](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%99%9A%E6%84%8F%E5%A5%BD%E4%BC%9A%E6%BC%94&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
