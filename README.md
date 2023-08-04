@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 17:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 17:20:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [牡丹江遭洪水袭击有房屋被整栋冲走](https://s.weibo.com/weibo?q=%23%E7%89%A1%E4%B8%B9%E6%B1%9F%E9%81%AD%E6%B4%AA%E6%B0%B4%E8%A2%AD%E5%87%BB%E6%9C%89%E6%88%BF%E5%B1%8B%E8%A2%AB%E6%95%B4%E6%A0%8B%E5%86%B2%E8%B5%B0%23&t=31&band_rank=5&Refer=top)<br />
 6. [大麦](https://s.weibo.com/weibo?q=%E5%A4%A7%E9%BA%A6&t=31&band_rank=6&Refer=top)<br />
 7. [Angelababy黄子韬互呛](https://s.weibo.com/weibo?q=%23Angelababy%E9%BB%84%E5%AD%90%E9%9F%AC%E4%BA%92%E5%91%9B%23&t=31&band_rank=7&Refer=top)<br />
-8. [TFBOYS三人三字](https://s.weibo.com/weibo?q=%23TFBOYS%E4%B8%89%E4%BA%BA%E4%B8%89%E5%AD%97%23&t=31&band_rank=8&Refer=top)<br />
+8. [长相思如果没有战争](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D%E5%A6%82%E6%9E%9C%E6%B2%A1%E6%9C%89%E6%88%98%E4%BA%89&t=31&band_rank=8&Refer=top)<br />
 9. [整理父亲遗物发现两张一等功证书](https://s.weibo.com/weibo?q=%23%E6%95%B4%E7%90%86%E7%88%B6%E4%BA%B2%E9%81%97%E7%89%A9%E5%8F%91%E7%8E%B0%E4%B8%A4%E5%BC%A0%E4%B8%80%E7%AD%89%E5%8A%9F%E8%AF%81%E4%B9%A6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
