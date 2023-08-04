@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 14:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 14:10:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [有人江边放生鱼豆腐？水务局回应](https://www.baidu.com/s?wd=%E6%9C%89%E4%BA%BA%E6%B1%9F%E8%BE%B9%E6%94%BE%E7%94%9F%E9%B1%BC%E8%B1%86%E8%85%90%EF%BC%9F%E6%B0%B4%E5%8A%A1%E5%B1%80%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [厂家回应雪糕包装似避孕套](https://www.baidu.com/s?wd=%E5%8E%82%E5%AE%B6%E5%9B%9E%E5%BA%94%E9%9B%AA%E7%B3%95%E5%8C%85%E8%A3%85%E4%BC%BC%E9%81%BF%E5%AD%95%E5%A5%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [俄罗斯喀山出现“蘑菇云”吓到居民](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E5%96%80%E5%B1%B1%E5%87%BA%E7%8E%B0%E2%80%9C%E8%98%91%E8%8F%87%E4%BA%91%E2%80%9D%E5%90%93%E5%88%B0%E5%B1%85%E6%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子带9旬母亲求救被拒 辱骂救援队](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%B8%A69%E6%97%AC%E6%AF%8D%E4%BA%B2%E6%B1%82%E6%95%91%E8%A2%AB%E6%8B%92+%E8%BE%B1%E9%AA%82%E6%95%91%E6%8F%B4%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子开车未礼让行人 还扬言砍交警手](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BC%80%E8%BD%A6%E6%9C%AA%E7%A4%BC%E8%AE%A9%E8%A1%8C%E4%BA%BA+%E8%BF%98%E6%89%AC%E8%A8%80%E7%A0%8D%E4%BA%A4%E8%AD%A6%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [京津冀暴雨互助](https://www.baidu.com/s?wd=%E4%BA%AC%E6%B4%A5%E5%86%80%E6%9A%B4%E9%9B%A8%E4%BA%92%E5%8A%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [有人江边放生鱼豆腐？水务局回应](https://www.baidu.com/s?wd=%E6%9C%89%E4%BA%BA%E6%B1%9F%E8%BE%B9%E6%94%BE%E7%94%9F%E9%B1%BC%E8%B1%86%E8%85%90%EF%BC%9F%E6%B0%B4%E5%8A%A1%E5%B1%80%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [厂家回应雪糕包装似避孕套](https://www.baidu.com/s?wd=%E5%8E%82%E5%AE%B6%E5%9B%9E%E5%BA%94%E9%9B%AA%E7%B3%95%E5%8C%85%E8%A3%85%E4%BC%BC%E9%81%BF%E5%AD%95%E5%A5%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [俄罗斯喀山出现“蘑菇云”吓到居民](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E5%96%80%E5%B1%B1%E5%87%BA%E7%8E%B0%E2%80%9C%E8%98%91%E8%8F%87%E4%BA%91%E2%80%9D%E5%90%93%E5%88%B0%E5%B1%85%E6%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子带9旬母亲求救被拒 辱骂救援队](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%B8%A69%E6%97%AC%E6%AF%8D%E4%BA%B2%E6%B1%82%E6%95%91%E8%A2%AB%E6%8B%92+%E8%BE%B1%E9%AA%82%E6%95%91%E6%8F%B4%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子开车未礼让行人 还扬言砍交警手](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BC%80%E8%BD%A6%E6%9C%AA%E7%A4%BC%E8%AE%A9%E8%A1%8C%E4%BA%BA+%E8%BF%98%E6%89%AC%E8%A8%80%E7%A0%8D%E4%BA%A4%E8%AD%A6%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [京津冀暴雨互助](https://www.baidu.com/s?wd=%E4%BA%AC%E6%B4%A5%E5%86%80%E6%9A%B4%E9%9B%A8%E4%BA%92%E5%8A%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
