@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 12:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 12:38:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [杨紫张晚意水榭楼台芭莎大片](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%BC%A0%E6%99%9A%E6%84%8F%E6%B0%B4%E6%A6%AD%E6%A5%BC%E5%8F%B0%E8%8A%AD%E8%8E%8E%E5%A4%A7%E7%89%87%23&t=31&band_rank=4&Refer=top)<br />
 5. [TFBOYS抢票](https://s.weibo.com/weibo?q=TFBOYS%E6%8A%A2%E7%A5%A8&t=31&band_rank=5&Refer=top)<br />
 6. [官方确认重庆事业单位考试有人作弊](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E7%A1%AE%E8%AE%A4%E9%87%8D%E5%BA%86%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E8%80%83%E8%AF%95%E6%9C%89%E4%BA%BA%E4%BD%9C%E5%BC%8A%23&t=31&band_rank=6&Refer=top)<br />
-7. [小夭才是真疯批](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%A4%AD%E6%89%8D%E6%98%AF%E7%9C%9F%E7%96%AF%E6%89%B9%23&t=31&band_rank=7&Refer=top)<br />
-8. [原来师傅和师父是不一样的概念](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%B8%88%E5%82%85%E5%92%8C%E5%B8%88%E7%88%B6%E6%98%AF%E4%B8%8D%E4%B8%80%E6%A0%B7%E7%9A%84%E6%A6%82%E5%BF%B5%23&t=31&band_rank=8&Refer=top)<br />
-9. [水务局回应两女子江边放生鱼豆腐](https://s.weibo.com/weibo?q=%23%E6%B0%B4%E5%8A%A1%E5%B1%80%E5%9B%9E%E5%BA%94%E4%B8%A4%E5%A5%B3%E5%AD%90%E6%B1%9F%E8%BE%B9%E6%94%BE%E7%94%9F%E9%B1%BC%E8%B1%86%E8%85%90%23&t=31&band_rank=9&Refer=top)<br />
+7. [原来师傅和师父是不一样的概念](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%B8%88%E5%82%85%E5%92%8C%E5%B8%88%E7%88%B6%E6%98%AF%E4%B8%8D%E4%B8%80%E6%A0%B7%E7%9A%84%E6%A6%82%E5%BF%B5%23&t=31&band_rank=7&Refer=top)<br />
+8. [水务局回应两女子江边放生鱼豆腐](https://s.weibo.com/weibo?q=%23%E6%B0%B4%E5%8A%A1%E5%B1%80%E5%9B%9E%E5%BA%94%E4%B8%A4%E5%A5%B3%E5%AD%90%E6%B1%9F%E8%BE%B9%E6%94%BE%E7%94%9F%E9%B1%BC%E8%B1%86%E8%85%90%23&t=31&band_rank=8&Refer=top)<br />
+9. [小夭才是真疯批](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%A4%AD%E6%89%8D%E6%98%AF%E7%9C%9F%E7%96%AF%E6%89%B9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
