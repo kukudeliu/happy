@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 14:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 14:59:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [有人江边放生鱼豆腐？水务局回应](https://www.baidu.com/s?wd=%E6%9C%89%E4%BA%BA%E6%B1%9F%E8%BE%B9%E6%94%BE%E7%94%9F%E9%B1%BC%E8%B1%86%E8%85%90%EF%BC%9F%E6%B0%B4%E5%8A%A1%E5%B1%80%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [俄罗斯喀山出现“蘑菇云”吓到居民](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E5%96%80%E5%B1%B1%E5%87%BA%E7%8E%B0%E2%80%9C%E8%98%91%E8%8F%87%E4%BA%91%E2%80%9D%E5%90%93%E5%88%B0%E5%B1%85%E6%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [河北涞水呼救：罕见洪水过境山区](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E6%B6%9E%E6%B0%B4%E5%91%BC%E6%95%91%EF%BC%9A%E7%BD%95%E8%A7%81%E6%B4%AA%E6%B0%B4%E8%BF%87%E5%A2%83%E5%B1%B1%E5%8C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [天津路面积水 有市民骑马出行](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E8%B7%AF%E9%9D%A2%E7%A7%AF%E6%B0%B4+%E6%9C%89%E5%B8%82%E6%B0%91%E9%AA%91%E9%A9%AC%E5%87%BA%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [德国女孩青岛喝假德国啤酒获3倍赔偿](https://www.baidu.com/s?wd=%E5%BE%B7%E5%9B%BD%E5%A5%B3%E5%AD%A9%E9%9D%92%E5%B2%9B%E5%96%9D%E5%81%87%E5%BE%B7%E5%9B%BD%E5%95%A4%E9%85%92%E8%8E%B73%E5%80%8D%E8%B5%94%E5%81%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [京津冀暴雨互助](https://www.baidu.com/s?wd=%E4%BA%AC%E6%B4%A5%E5%86%80%E6%9A%B4%E9%9B%A8%E4%BA%92%E5%8A%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [有人江边放生鱼豆腐？水务局回应](https://www.baidu.com/s?wd=%E6%9C%89%E4%BA%BA%E6%B1%9F%E8%BE%B9%E6%94%BE%E7%94%9F%E9%B1%BC%E8%B1%86%E8%85%90%EF%BC%9F%E6%B0%B4%E5%8A%A1%E5%B1%80%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [俄罗斯喀山出现“蘑菇云”吓到居民](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E5%96%80%E5%B1%B1%E5%87%BA%E7%8E%B0%E2%80%9C%E8%98%91%E8%8F%87%E4%BA%91%E2%80%9D%E5%90%93%E5%88%B0%E5%B1%85%E6%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [河北涞水呼救：罕见洪水过境山区](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E6%B6%9E%E6%B0%B4%E5%91%BC%E6%95%91%EF%BC%9A%E7%BD%95%E8%A7%81%E6%B4%AA%E6%B0%B4%E8%BF%87%E5%A2%83%E5%B1%B1%E5%8C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [天津路面积水 有市民骑马出行](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E8%B7%AF%E9%9D%A2%E7%A7%AF%E6%B0%B4+%E6%9C%89%E5%B8%82%E6%B0%91%E9%AA%91%E9%A9%AC%E5%87%BA%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [德国女孩青岛喝假德国啤酒获3倍赔偿](https://www.baidu.com/s?wd=%E5%BE%B7%E5%9B%BD%E5%A5%B3%E5%AD%A9%E9%9D%92%E5%B2%9B%E5%96%9D%E5%81%87%E5%BE%B7%E5%9B%BD%E5%95%A4%E9%85%92%E8%8E%B73%E5%80%8D%E8%B5%94%E5%81%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [京津冀暴雨互助](https://www.baidu.com/s?wd=%E4%BA%AC%E6%B4%A5%E5%86%80%E6%9A%B4%E9%9B%A8%E4%BA%92%E5%8A%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
