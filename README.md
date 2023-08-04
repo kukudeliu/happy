@@ -1,14 +1,14 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 17:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 17:16:01</h4></div>
 
 > 微博  
 
 1. [中国女婿见非洲丈母娘很害羞](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%A9%BF%E8%A7%81%E9%9D%9E%E6%B4%B2%E4%B8%88%E6%AF%8D%E5%A8%98%E5%BE%88%E5%AE%B3%E7%BE%9E%23&t=31&band_rank=1&Refer=top)<br />
-2. [大麦](https://s.weibo.com/weibo?q=%E5%A4%A7%E9%BA%A6&t=31&band_rank=2&Refer=top)<br />
+2. [封神直播](https://s.weibo.com/weibo?q=%E5%B0%81%E7%A5%9E%E7%9B%B4%E6%92%AD&t=31&band_rank=2&Refer=top)<br />
 3. [亚运版复兴号首次对外试乘](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E7%89%88%E5%A4%8D%E5%85%B4%E5%8F%B7%E9%A6%96%E6%AC%A1%E5%AF%B9%E5%A4%96%E8%AF%95%E4%B9%98%23&t=31&band_rank=3&Refer=top)<br />
 4. [彭昱畅自己争取全裸出镜](https://s.weibo.com/weibo?q=%23%E5%BD%AD%E6%98%B1%E7%95%85%E8%87%AA%E5%B7%B1%E4%BA%89%E5%8F%96%E5%85%A8%E8%A3%B8%E5%87%BA%E9%95%9C%23&t=31&band_rank=4&Refer=top)<br />
-5. [封神直播](https://s.weibo.com/weibo?q=%E5%B0%81%E7%A5%9E%E7%9B%B4%E6%92%AD&t=31&band_rank=5&Refer=top)<br />
-6. [Angelababy黄子韬互呛](https://s.weibo.com/weibo?q=%23Angelababy%E9%BB%84%E5%AD%90%E9%9F%AC%E4%BA%92%E5%91%9B%23&t=31&band_rank=6&Refer=top)<br />
-7. [牡丹江遭洪水袭击有房屋被整栋冲走](https://s.weibo.com/weibo?q=%23%E7%89%A1%E4%B8%B9%E6%B1%9F%E9%81%AD%E6%B4%AA%E6%B0%B4%E8%A2%AD%E5%87%BB%E6%9C%89%E6%88%BF%E5%B1%8B%E8%A2%AB%E6%95%B4%E6%A0%8B%E5%86%B2%E8%B5%B0%23&t=31&band_rank=7&Refer=top)<br />
+5. [大麦](https://s.weibo.com/weibo?q=%E5%A4%A7%E9%BA%A6&t=31&band_rank=5&Refer=top)<br />
+6. [牡丹江遭洪水袭击有房屋被整栋冲走](https://s.weibo.com/weibo?q=%23%E7%89%A1%E4%B8%B9%E6%B1%9F%E9%81%AD%E6%B4%AA%E6%B0%B4%E8%A2%AD%E5%87%BB%E6%9C%89%E6%88%BF%E5%B1%8B%E8%A2%AB%E6%95%B4%E6%A0%8B%E5%86%B2%E8%B5%B0%23&t=31&band_rank=6&Refer=top)<br />
+7. [Angelababy黄子韬互呛](https://s.weibo.com/weibo?q=%23Angelababy%E9%BB%84%E5%AD%90%E9%9F%AC%E4%BA%92%E5%91%9B%23&t=31&band_rank=7&Refer=top)<br />
 8. [TFBOYS三人三字](https://s.weibo.com/weibo?q=%23TFBOYS%E4%B8%89%E4%BA%BA%E4%B8%89%E5%AD%97%23&t=31&band_rank=8&Refer=top)<br />
 9. [整理父亲遗物发现两张一等功证书](https://s.weibo.com/weibo?q=%23%E6%95%B4%E7%90%86%E7%88%B6%E4%BA%B2%E9%81%97%E7%89%A9%E5%8F%91%E7%8E%B0%E4%B8%A4%E5%BC%A0%E4%B8%80%E7%AD%89%E5%8A%9F%E8%AF%81%E4%B9%A6%23&t=31&band_rank=9&Refer=top)<br />
 
