@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 21:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 21:16:02</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [赵丽颖向河北灾区捐赠物资](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%90%91%E6%B2%B3%E5%8C%97%E7%81%BE%E5%8C%BA%E6%8D%90%E8%B5%A0%E7%89%A9%E8%B5%84%23&t=31&band_rank=4&Refer=top)<br />
 5. [吴艳妮](https://s.weibo.com/weibo?q=%E5%90%B4%E8%89%B3%E5%A6%AE&t=31&band_rank=5&Refer=top)<br />
 6. [黑龙江暴雨](https://s.weibo.com/weibo?q=%E9%BB%91%E9%BE%99%E6%B1%9F%E6%9A%B4%E9%9B%A8&t=31&band_rank=6&Refer=top)<br />
-7. [长相思第二季共21集](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D%E7%AC%AC%E4%BA%8C%E5%AD%A3%E5%85%B121%E9%9B%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [华为](https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA&t=31&band_rank=8&Refer=top)<br />
+7. [华为](https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA&t=31&band_rank=7&Refer=top)<br />
+8. [长相思第二季共21集](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D%E7%AC%AC%E4%BA%8C%E5%AD%A3%E5%85%B121%E9%9B%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [魏大勋开小差被发现了](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E5%BC%80%E5%B0%8F%E5%B7%AE%E8%A2%AB%E5%8F%91%E7%8E%B0%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
