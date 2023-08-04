@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 18:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 18:53:01</h4></div>
 
 > 微博  
 
@@ -22,8 +22,8 @@
 3. [追问涿州泄洪：是否存在超额泄洪？](https://www.baidu.com/s?wd=%E8%BF%BD%E9%97%AE%E6%B6%BF%E5%B7%9E%E6%B3%84%E6%B4%AA%EF%BC%9A%E6%98%AF%E5%90%A6%E5%AD%98%E5%9C%A8%E8%B6%85%E9%A2%9D%E6%B3%84%E6%B4%AA%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [年轻人的梦想都太敢了](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E6%A2%A6%E6%83%B3%E9%83%BD%E5%A4%AA%E6%95%A2%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [河北被困学生唱歌壮胆穿过漆黑隧道](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E8%A2%AB%E5%9B%B0%E5%AD%A6%E7%94%9F%E5%94%B1%E6%AD%8C%E5%A3%AE%E8%83%86%E7%A9%BF%E8%BF%87%E6%BC%86%E9%BB%91%E9%9A%A7%E9%81%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男子因施救未成年溺水者不幸离世](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9B%A0%E6%96%BD%E6%95%91%E6%9C%AA%E6%88%90%E5%B9%B4%E6%BA%BA%E6%B0%B4%E8%80%85%E4%B8%8D%E5%B9%B8%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男大学生购买100包卫生巾支援涿州](https://www.baidu.com/s?wd=%E7%94%B7%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0100%E5%8C%85%E5%8D%AB%E7%94%9F%E5%B7%BE%E6%94%AF%E6%8F%B4%E6%B6%BF%E5%B7%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [男大学生购买100包卫生巾支援涿州](https://www.baidu.com/s?wd=%E7%94%B7%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0100%E5%8C%85%E5%8D%AB%E7%94%9F%E5%B7%BE%E6%94%AF%E6%8F%B4%E6%B6%BF%E5%B7%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [泥石流来临如何躲避？专家：别上树](https://www.baidu.com/s?wd=%E6%B3%A5%E7%9F%B3%E6%B5%81%E6%9D%A5%E4%B8%B4%E5%A6%82%E4%BD%95%E8%BA%B2%E9%81%BF%EF%BC%9F%E4%B8%93%E5%AE%B6%EF%BC%9A%E5%88%AB%E4%B8%8A%E6%A0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [宵夜之光](https://www.baidu.com/s?wd=%E5%AE%B5%E5%A4%9C%E4%B9%8B%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [京津冀暴雨互助](https://www.baidu.com/s?wd=%E4%BA%AC%E6%B4%A5%E5%86%80%E6%9A%B4%E9%9B%A8%E4%BA%92%E5%8A%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -34,7 +34,7 @@
 3. [追问涿州泄洪：是否存在超额泄洪？](https://www.baidu.com/s?wd=%E8%BF%BD%E9%97%AE%E6%B6%BF%E5%B7%9E%E6%B3%84%E6%B4%AA%EF%BC%9A%E6%98%AF%E5%90%A6%E5%AD%98%E5%9C%A8%E8%B6%85%E9%A2%9D%E6%B3%84%E6%B4%AA%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [年轻人的梦想都太敢了](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E6%A2%A6%E6%83%B3%E9%83%BD%E5%A4%AA%E6%95%A2%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [河北被困学生唱歌壮胆穿过漆黑隧道](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E8%A2%AB%E5%9B%B0%E5%AD%A6%E7%94%9F%E5%94%B1%E6%AD%8C%E5%A3%AE%E8%83%86%E7%A9%BF%E8%BF%87%E6%BC%86%E9%BB%91%E9%9A%A7%E9%81%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男子因施救未成年溺水者不幸离世](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9B%A0%E6%96%BD%E6%95%91%E6%9C%AA%E6%88%90%E5%B9%B4%E6%BA%BA%E6%B0%B4%E8%80%85%E4%B8%8D%E5%B9%B8%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男大学生购买100包卫生巾支援涿州](https://www.baidu.com/s?wd=%E7%94%B7%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0100%E5%8C%85%E5%8D%AB%E7%94%9F%E5%B7%BE%E6%94%AF%E6%8F%B4%E6%B6%BF%E5%B7%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [男大学生购买100包卫生巾支援涿州](https://www.baidu.com/s?wd=%E7%94%B7%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0100%E5%8C%85%E5%8D%AB%E7%94%9F%E5%B7%BE%E6%94%AF%E6%8F%B4%E6%B6%BF%E5%B7%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [泥石流来临如何躲避？专家：别上树](https://www.baidu.com/s?wd=%E6%B3%A5%E7%9F%B3%E6%B5%81%E6%9D%A5%E4%B8%B4%E5%A6%82%E4%BD%95%E8%BA%B2%E9%81%BF%EF%BC%9F%E4%B8%93%E5%AE%B6%EF%BC%9A%E5%88%AB%E4%B8%8A%E6%A0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [宵夜之光](https://www.baidu.com/s?wd=%E5%AE%B5%E5%A4%9C%E4%B9%8B%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [京津冀暴雨互助](https://www.baidu.com/s?wd=%E4%BA%AC%E6%B4%A5%E5%86%80%E6%9A%B4%E9%9B%A8%E4%BA%92%E5%8A%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
