@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-05 07:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-05 07:43:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [K396次脱险纪实](https://www.baidu.com/s?wd=K396%E6%AC%A1%E8%84%B1%E9%99%A9%E7%BA%AA%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女孩租房开2小时空调用完100元电费](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E7%A7%9F%E6%88%BF%E5%BC%802%E5%B0%8F%E6%97%B6%E7%A9%BA%E8%B0%83%E7%94%A8%E5%AE%8C100%E5%85%83%E7%94%B5%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [印尼41岁富婆与闺蜜16岁儿子结婚](https://www.baidu.com/s?wd=%E5%8D%B0%E5%B0%BC41%E5%B2%81%E5%AF%8C%E5%A9%86%E4%B8%8E%E9%97%BA%E8%9C%9C16%E5%B2%81%E5%84%BF%E5%AD%90%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [涿州被救母亲鞠躬：给大家添麻烦了](https://www.baidu.com/s?wd=%E6%B6%BF%E5%B7%9E%E8%A2%AB%E6%95%91%E6%AF%8D%E4%BA%B2%E9%9E%A0%E8%BA%AC%EF%BC%9A%E7%BB%99%E5%A4%A7%E5%AE%B6%E6%B7%BB%E9%BA%BB%E7%83%A6%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [教育部:严查高校毕业生就业数据造假](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%3A%E4%B8%A5%E6%9F%A5%E9%AB%98%E6%A0%A1%E6%AF%95%E4%B8%9A%E7%94%9F%E5%B0%B1%E4%B8%9A%E6%95%B0%E6%8D%AE%E9%80%A0%E5%81%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [教育部:严查高校毕业生就业数据造假](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%3A%E4%B8%A5%E6%9F%A5%E9%AB%98%E6%A0%A1%E6%AF%95%E4%B8%9A%E7%94%9F%E5%B0%B1%E4%B8%9A%E6%95%B0%E6%8D%AE%E9%80%A0%E5%81%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [3岁女童在火腿肠中吃出铁片](https://www.baidu.com/s?wd=3%E5%B2%81%E5%A5%B3%E7%AB%A5%E5%9C%A8%E7%81%AB%E8%85%BF%E8%82%A0%E4%B8%AD%E5%90%83%E5%87%BA%E9%93%81%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [京津冀暴雨互助](https://www.baidu.com/s?wd=%E4%BA%AC%E6%B4%A5%E5%86%80%E6%9A%B4%E9%9B%A8%E4%BA%92%E5%8A%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [K396次脱险纪实](https://www.baidu.com/s?wd=K396%E6%AC%A1%E8%84%B1%E9%99%A9%E7%BA%AA%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女孩租房开2小时空调用完100元电费](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E7%A7%9F%E6%88%BF%E5%BC%802%E5%B0%8F%E6%97%B6%E7%A9%BA%E8%B0%83%E7%94%A8%E5%AE%8C100%E5%85%83%E7%94%B5%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [印尼41岁富婆与闺蜜16岁儿子结婚](https://www.baidu.com/s?wd=%E5%8D%B0%E5%B0%BC41%E5%B2%81%E5%AF%8C%E5%A9%86%E4%B8%8E%E9%97%BA%E8%9C%9C16%E5%B2%81%E5%84%BF%E5%AD%90%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [涿州被救母亲鞠躬：给大家添麻烦了](https://www.baidu.com/s?wd=%E6%B6%BF%E5%B7%9E%E8%A2%AB%E6%95%91%E6%AF%8D%E4%BA%B2%E9%9E%A0%E8%BA%AC%EF%BC%9A%E7%BB%99%E5%A4%A7%E5%AE%B6%E6%B7%BB%E9%BA%BB%E7%83%A6%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [教育部:严查高校毕业生就业数据造假](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%3A%E4%B8%A5%E6%9F%A5%E9%AB%98%E6%A0%A1%E6%AF%95%E4%B8%9A%E7%94%9F%E5%B0%B1%E4%B8%9A%E6%95%B0%E6%8D%AE%E9%80%A0%E5%81%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [教育部:严查高校毕业生就业数据造假](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%3A%E4%B8%A5%E6%9F%A5%E9%AB%98%E6%A0%A1%E6%AF%95%E4%B8%9A%E7%94%9F%E5%B0%B1%E4%B8%9A%E6%95%B0%E6%8D%AE%E9%80%A0%E5%81%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [3岁女童在火腿肠中吃出铁片](https://www.baidu.com/s?wd=3%E5%B2%81%E5%A5%B3%E7%AB%A5%E5%9C%A8%E7%81%AB%E8%85%BF%E8%82%A0%E4%B8%AD%E5%90%83%E5%87%BA%E9%93%81%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [京津冀暴雨互助](https://www.baidu.com/s?wd=%E4%BA%AC%E6%B4%A5%E5%86%80%E6%9A%B4%E9%9B%A8%E4%BA%92%E5%8A%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
