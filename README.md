@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 11:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 11:01:01</h4></div>
 
 > 微博  
 
-1. [TFBOYS新歌](https://s.weibo.com/weibo?q=%23TFBOYS%E6%96%B0%E6%AD%8C%23&t=31&band_rank=1&Refer=top)<br />
+1. [TFBOYS三人三字](https://s.weibo.com/weibo?q=%23TFBOYS%E4%B8%89%E4%BA%BA%E4%B8%89%E5%AD%97%23&t=31&band_rank=1&Refer=top)<br />
 2. [BLACKPINK与YG续约合约金约15亿韩元](https://s.weibo.com/weibo?q=%23BLACKPINK%E4%B8%8EYG%E7%BB%AD%E7%BA%A6%E5%90%88%E7%BA%A6%E9%87%91%E7%BA%A615%E4%BA%BF%E9%9F%A9%E5%85%83%23&t=31&band_rank=2&Refer=top)<br />
 3. [暴雨洪涝后饮食安全指南](https://s.weibo.com/weibo?q=%23%E6%9A%B4%E9%9B%A8%E6%B4%AA%E6%B6%9D%E5%90%8E%E9%A5%AE%E9%A3%9F%E5%AE%89%E5%85%A8%E6%8C%87%E5%8D%97%23&t=31&band_rank=3&Refer=top)<br />
-4. [TFBOYS三人三字](https://s.weibo.com/weibo?q=%23TFBOYS%E4%B8%89%E4%BA%BA%E4%B8%89%E5%AD%97%23&t=31&band_rank=4&Refer=top)<br />
+4. [TFBOYS新歌](https://s.weibo.com/weibo?q=%23TFBOYS%E6%96%B0%E6%AD%8C%23&t=31&band_rank=4&Refer=top)<br />
 5. [现在的黄晓明真的活得比谁都清醒](https://s.weibo.com/weibo?q=%E7%8E%B0%E5%9C%A8%E7%9A%84%E9%BB%84%E6%99%93%E6%98%8E%E7%9C%9F%E7%9A%84%E6%B4%BB%E5%BE%97%E6%AF%94%E8%B0%81%E9%83%BD%E6%B8%85%E9%86%92&t=31&band_rank=5&Refer=top)<br />
 6. [官方确认重庆事业单位考试有人作弊](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E7%A1%AE%E8%AE%A4%E9%87%8D%E5%BA%86%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E8%80%83%E8%AF%95%E6%9C%89%E4%BA%BA%E4%BD%9C%E5%BC%8A%23&t=31&band_rank=6&Refer=top)<br />
 7. [发改委发布会](https://s.weibo.com/weibo?q=%23%E5%8F%91%E6%94%B9%E5%A7%94%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=7&Refer=top)<br />
