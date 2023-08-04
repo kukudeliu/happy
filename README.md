@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 21:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 21:30:01</h4></div>
 
 > 微博  
 
-1. [这真的不是向佐吗](https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%9C%9F%E7%9A%84%E4%B8%8D%E6%98%AF%E5%90%91%E4%BD%90%E5%90%97%23&t=31&band_rank=1&Refer=top)<br />
-2. [B站崩了](https://s.weibo.com/weibo?q=B%E7%AB%99%E5%B4%A9%E4%BA%86&t=31&band_rank=2&Refer=top)<br />
+1. [B站崩了](https://s.weibo.com/weibo?q=B%E7%AB%99%E5%B4%A9%E4%BA%86&t=31&band_rank=1&Refer=top)<br />
+2. [这真的不是向佐吗](https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%9C%9F%E7%9A%84%E4%B8%8D%E6%98%AF%E5%90%91%E4%BD%90%E5%90%97%23&t=31&band_rank=2&Refer=top)<br />
 3. [个人如何做好灾后防疫](https://s.weibo.com/weibo?q=%23%E4%B8%AA%E4%BA%BA%E5%A6%82%E4%BD%95%E5%81%9A%E5%A5%BD%E7%81%BE%E5%90%8E%E9%98%B2%E7%96%AB%23&t=31&band_rank=3&Refer=top)<br />
 4. [大奉打更人](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%A5%89%E6%89%93%E6%9B%B4%E4%BA%BA&t=31&band_rank=4&Refer=top)<br />
 5. [中国好声音赶着下班啊](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E8%B5%B6%E7%9D%80%E4%B8%8B%E7%8F%AD%E5%95%8A&t=31&band_rank=5&Refer=top)<br />
