@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-05 01:51:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-05 01:52:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [羽生结弦宣布结婚](https://s.weibo.com/weibo?q=%23%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E5%AE%A3%E5%B8%83%E7%BB%93%E5%A9%9A%23&t=31&band_rank=2&Refer=top)<br />
 3. [断崖旁消防员用身躯做人墙保护孩子](https://s.weibo.com/weibo?q=%23%E6%96%AD%E5%B4%96%E6%97%81%E6%B6%88%E9%98%B2%E5%91%98%E7%94%A8%E8%BA%AB%E8%BA%AF%E5%81%9A%E4%BA%BA%E5%A2%99%E4%BF%9D%E6%8A%A4%E5%AD%A9%E5%AD%90%23&t=31&band_rank=3&Refer=top)<br />
 4. [日语入籍是结婚的意思](https://s.weibo.com/weibo?q=%E6%97%A5%E8%AF%AD%E5%85%A5%E7%B1%8D%E6%98%AF%E7%BB%93%E5%A9%9A%E7%9A%84%E6%84%8F%E6%80%9D&t=31&band_rank=4&Refer=top)<br />
-5. [中国男篮](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE&t=31&band_rank=5&Refer=top)<br />
-6. [韩国人就差身份证上写mbti了](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E4%BA%BA%E5%B0%B1%E5%B7%AE%E8%BA%AB%E4%BB%BD%E8%AF%81%E4%B8%8A%E5%86%99mbti%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
+5. [韩国人就差身份证上写mbti了](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E4%BA%BA%E5%B0%B1%E5%B7%AE%E8%BA%AB%E4%BB%BD%E8%AF%81%E4%B8%8A%E5%86%99mbti%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
+6. [中国男篮](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE&t=31&band_rank=6&Refer=top)<br />
 7. [张踩铃婆婆](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%B8%A9%E9%93%83%E5%A9%86%E5%A9%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [张晚意好会演](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%99%9A%E6%84%8F%E5%A5%BD%E4%BC%9A%E6%BC%94&t=31&band_rank=8&Refer=top)<br />
 9. [门头沟女干部熊丽在勘察险情途中牺牲](https://s.weibo.com/weibo?q=%23%E9%97%A8%E5%A4%B4%E6%B2%9F%E5%A5%B3%E5%B9%B2%E9%83%A8%E7%86%8A%E4%B8%BD%E5%9C%A8%E5%8B%98%E5%AF%9F%E9%99%A9%E6%83%85%E9%80%94%E4%B8%AD%E7%89%BA%E7%89%B2%23&t=31&band_rank=9&Refer=top)<br />
