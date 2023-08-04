@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 12:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 12:40:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [官方确认重庆事业单位考试有人作弊](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E7%A1%AE%E8%AE%A4%E9%87%8D%E5%BA%86%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E8%80%83%E8%AF%95%E6%9C%89%E4%BA%BA%E4%BD%9C%E5%BC%8A%23&t=31&band_rank=6&Refer=top)<br />
 7. [TFBOYS抢票](https://s.weibo.com/weibo?q=TFBOYS%E6%8A%A2%E7%A5%A8&t=31&band_rank=7&Refer=top)<br />
 8. [小夭才是真疯批](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%A4%AD%E6%89%8D%E6%98%AF%E7%9C%9F%E7%96%AF%E6%89%B9%23&t=31&band_rank=8&Refer=top)<br />
-9. [暴雨洪涝后饮食安全指南](https://s.weibo.com/weibo?q=%23%E6%9A%B4%E9%9B%A8%E6%B4%AA%E6%B6%9D%E5%90%8E%E9%A5%AE%E9%A3%9F%E5%AE%89%E5%85%A8%E6%8C%87%E5%8D%97%23&t=31&band_rank=9&Refer=top)<br />
+9. [A股](https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
