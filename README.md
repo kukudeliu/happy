@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 22:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 22:59:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [K396次脱险纪实](https://www.baidu.com/s?wd=K396%E6%AC%A1%E8%84%B1%E9%99%A9%E7%BA%AA%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [教育部:严查高校毕业生就业数据造假](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%3A%E4%B8%A5%E6%9F%A5%E9%AB%98%E6%A0%A1%E6%AF%95%E4%B8%9A%E7%94%9F%E5%B0%B1%E4%B8%9A%E6%95%B0%E6%8D%AE%E9%80%A0%E5%81%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [重庆通报事业单位招考作弊案](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E9%80%9A%E6%8A%A5%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E6%8B%9B%E8%80%83%E4%BD%9C%E5%BC%8A%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [航拍黑龙江五常受灾区现状](https://www.baidu.com/s?wd=%E8%88%AA%E6%8B%8D%E9%BB%91%E9%BE%99%E6%B1%9F%E4%BA%94%E5%B8%B8%E5%8F%97%E7%81%BE%E5%8C%BA%E7%8E%B0%E7%8A%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [游客近距离观潮岸上人提醒快跑](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E8%BF%91%E8%B7%9D%E7%A6%BB%E8%A7%82%E6%BD%AE%E5%B2%B8%E4%B8%8A%E4%BA%BA%E6%8F%90%E9%86%92%E5%BF%AB%E8%B7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [地图看懂涿州洪水为何严重](https://www.baidu.com/s?wd=%E5%9C%B0%E5%9B%BE%E7%9C%8B%E6%87%82%E6%B6%BF%E5%B7%9E%E6%B4%AA%E6%B0%B4%E4%B8%BA%E4%BD%95%E4%B8%A5%E9%87%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [救援队陆续撤离涿州 居民夹道送别](https://www.baidu.com/s?wd=%E6%95%91%E6%8F%B4%E9%98%9F%E9%99%86%E7%BB%AD%E6%92%A4%E7%A6%BB%E6%B6%BF%E5%B7%9E+%E5%B1%85%E6%B0%91%E5%A4%B9%E9%81%93%E9%80%81%E5%88%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [京津冀暴雨互助](https://www.baidu.com/s?wd=%E4%BA%AC%E6%B4%A5%E5%86%80%E6%9A%B4%E9%9B%A8%E4%BA%92%E5%8A%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [K396次脱险纪实](https://www.baidu.com/s?wd=K396%E6%AC%A1%E8%84%B1%E9%99%A9%E7%BA%AA%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [教育部:严查高校毕业生就业数据造假](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%3A%E4%B8%A5%E6%9F%A5%E9%AB%98%E6%A0%A1%E6%AF%95%E4%B8%9A%E7%94%9F%E5%B0%B1%E4%B8%9A%E6%95%B0%E6%8D%AE%E9%80%A0%E5%81%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [重庆通报事业单位招考作弊案](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E9%80%9A%E6%8A%A5%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E6%8B%9B%E8%80%83%E4%BD%9C%E5%BC%8A%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [航拍黑龙江五常受灾区现状](https://www.baidu.com/s?wd=%E8%88%AA%E6%8B%8D%E9%BB%91%E9%BE%99%E6%B1%9F%E4%BA%94%E5%B8%B8%E5%8F%97%E7%81%BE%E5%8C%BA%E7%8E%B0%E7%8A%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [游客近距离观潮岸上人提醒快跑](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E8%BF%91%E8%B7%9D%E7%A6%BB%E8%A7%82%E6%BD%AE%E5%B2%B8%E4%B8%8A%E4%BA%BA%E6%8F%90%E9%86%92%E5%BF%AB%E8%B7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [地图看懂涿州洪水为何严重](https://www.baidu.com/s?wd=%E5%9C%B0%E5%9B%BE%E7%9C%8B%E6%87%82%E6%B6%BF%E5%B7%9E%E6%B4%AA%E6%B0%B4%E4%B8%BA%E4%BD%95%E4%B8%A5%E9%87%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [救援队陆续撤离涿州 居民夹道送别](https://www.baidu.com/s?wd=%E6%95%91%E6%8F%B4%E9%98%9F%E9%99%86%E7%BB%AD%E6%92%A4%E7%A6%BB%E6%B6%BF%E5%B7%9E+%E5%B1%85%E6%B0%91%E5%A4%B9%E9%81%93%E9%80%81%E5%88%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [京津冀暴雨互助](https://www.baidu.com/s?wd=%E4%BA%AC%E6%B4%A5%E5%86%80%E6%9A%B4%E9%9B%A8%E4%BA%92%E5%8A%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
