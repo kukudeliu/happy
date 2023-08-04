@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 16:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 16:20:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [TFBOYS三人三字](https://s.weibo.com/weibo?q=%23TFBOYS%E4%B8%89%E4%BA%BA%E4%B8%89%E5%AD%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [地铁2男子吵架大哥教科书式劝架](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%93%812%E7%94%B7%E5%AD%90%E5%90%B5%E6%9E%B6%E5%A4%A7%E5%93%A5%E6%95%99%E7%A7%91%E4%B9%A6%E5%BC%8F%E5%8A%9D%E6%9E%B6%23&t=31&band_rank=7&Refer=top)<br />
 8. [Uzi捐款50万元驰援涿州](https://s.weibo.com/weibo?q=%23Uzi%E6%8D%90%E6%AC%BE50%E4%B8%87%E5%85%83%E9%A9%B0%E6%8F%B4%E6%B6%BF%E5%B7%9E%23&t=31&band_rank=8&Refer=top)<br />
-9. [茶百道捐1000万元驰援京冀洪水救援](https://s.weibo.com/weibo?q=%23%E8%8C%B6%E7%99%BE%E9%81%93%E6%8D%901000%E4%B8%87%E5%85%83%E9%A9%B0%E6%8F%B4%E4%BA%AC%E5%86%80%E6%B4%AA%E6%B0%B4%E6%95%91%E6%8F%B4%23&t=31&band_rank=9&Refer=top)<br />
+9. [中国女婿见非洲丈母娘很害羞](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%A9%BF%E8%A7%81%E9%9D%9E%E6%B4%B2%E4%B8%88%E6%AF%8D%E5%A8%98%E5%BE%88%E5%AE%B3%E7%BE%9E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
