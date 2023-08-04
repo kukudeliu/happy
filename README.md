@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 08:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 08:25:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [这真的不是帝后吗](https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%9C%9F%E7%9A%84%E4%B8%8D%E6%98%AF%E5%B8%9D%E5%90%8E%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [中图网 25元一斤随便带走](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BE%E7%BD%91%2025%E5%85%83%E4%B8%80%E6%96%A4%E9%9A%8F%E4%BE%BF%E5%B8%A6%E8%B5%B0&t=31&band_rank=7&Refer=top)<br />
 8. [吴京分享月瘦10斤减肥法](https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%AC%E5%88%86%E4%BA%AB%E6%9C%88%E7%98%A610%E6%96%A4%E5%87%8F%E8%82%A5%E6%B3%95%23&t=31&band_rank=8&Refer=top)<br />
-9. [巨齿鲨](https://s.weibo.com/weibo?q=%E5%B7%A8%E9%BD%BF%E9%B2%A8&t=31&band_rank=9&Refer=top)<br />
+9. [TFBOYS新歌](https://s.weibo.com/weibo?q=TFBOYS%E6%96%B0%E6%AD%8C&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,9 +22,9 @@
 3. [涿州男子获救后折返找狗被吐槽](https://www.baidu.com/s?wd=%E6%B6%BF%E5%B7%9E%E7%94%B7%E5%AD%90%E8%8E%B7%E6%95%91%E5%90%8E%E6%8A%98%E8%BF%94%E6%89%BE%E7%8B%97%E8%A2%AB%E5%90%90%E6%A7%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [暴雨过后 饮食卫生要注意](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E8%BF%87%E5%90%8E+%E9%A5%AE%E9%A3%9F%E5%8D%AB%E7%94%9F%E8%A6%81%E6%B3%A8%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [江苏一男子吃烧烤后感染戊肝](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E4%B8%80%E7%94%B7%E5%AD%90%E5%90%83%E7%83%A7%E7%83%A4%E5%90%8E%E6%84%9F%E6%9F%93%E6%88%8A%E8%82%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [特朗普自称或被判561年监禁](https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%87%AA%E7%A7%B0%E6%88%96%E8%A2%AB%E5%88%A4561%E5%B9%B4%E7%9B%91%E7%A6%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [泰国人居然拍中国古装剧了](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E4%BA%BA%E5%B1%85%E7%84%B6%E6%8B%8D%E4%B8%AD%E5%9B%BD%E5%8F%A4%E8%A3%85%E5%89%A7%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [落马厅官喜欢名表 有人一次送5块](https://www.baidu.com/s?wd=%E8%90%BD%E9%A9%AC%E5%8E%85%E5%AE%98%E5%96%9C%E6%AC%A2%E5%90%8D%E8%A1%A8+%E6%9C%89%E4%BA%BA%E4%B8%80%E6%AC%A1%E9%80%815%E5%9D%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [泰国人居然拍中国古装剧了](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E4%BA%BA%E5%B1%85%E7%84%B6%E6%8B%8D%E4%B8%AD%E5%9B%BD%E5%8F%A4%E8%A3%85%E5%89%A7%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [落马厅官喜欢名表 有人一次送5块](https://www.baidu.com/s?wd=%E8%90%BD%E9%A9%AC%E5%8E%85%E5%AE%98%E5%96%9C%E6%AC%A2%E5%90%8D%E8%A1%A8+%E6%9C%89%E4%BA%BA%E4%B8%80%E6%AC%A1%E9%80%815%E5%9D%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [74岁正部级配合调查后首现身](https://www.baidu.com/s?wd=74%E5%B2%81%E6%AD%A3%E9%83%A8%E7%BA%A7%E9%85%8D%E5%90%88%E8%B0%83%E6%9F%A5%E5%90%8E%E9%A6%96%E7%8E%B0%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [杀死所有实体瘤的神药要来了吗](https://www.baidu.com/s?wd=%E6%9D%80%E6%AD%BB%E6%89%80%E6%9C%89%E5%AE%9E%E4%BD%93%E7%98%A4%E7%9A%84%E7%A5%9E%E8%8D%AF%E8%A6%81%E6%9D%A5%E4%BA%86%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [涿州男子获救后折返找狗被吐槽](https://www.baidu.com/s?wd=%E6%B6%BF%E5%B7%9E%E7%94%B7%E5%AD%90%E8%8E%B7%E6%95%91%E5%90%8E%E6%8A%98%E8%BF%94%E6%89%BE%E7%8B%97%E8%A2%AB%E5%90%90%E6%A7%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [暴雨过后 饮食卫生要注意](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E8%BF%87%E5%90%8E+%E9%A5%AE%E9%A3%9F%E5%8D%AB%E7%94%9F%E8%A6%81%E6%B3%A8%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [江苏一男子吃烧烤后感染戊肝](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E4%B8%80%E7%94%B7%E5%AD%90%E5%90%83%E7%83%A7%E7%83%A4%E5%90%8E%E6%84%9F%E6%9F%93%E6%88%8A%E8%82%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [特朗普自称或被判561年监禁](https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%87%AA%E7%A7%B0%E6%88%96%E8%A2%AB%E5%88%A4561%E5%B9%B4%E7%9B%91%E7%A6%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [泰国人居然拍中国古装剧了](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E4%BA%BA%E5%B1%85%E7%84%B6%E6%8B%8D%E4%B8%AD%E5%9B%BD%E5%8F%A4%E8%A3%85%E5%89%A7%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [落马厅官喜欢名表 有人一次送5块](https://www.baidu.com/s?wd=%E8%90%BD%E9%A9%AC%E5%8E%85%E5%AE%98%E5%96%9C%E6%AC%A2%E5%90%8D%E8%A1%A8+%E6%9C%89%E4%BA%BA%E4%B8%80%E6%AC%A1%E9%80%815%E5%9D%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [泰国人居然拍中国古装剧了](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E4%BA%BA%E5%B1%85%E7%84%B6%E6%8B%8D%E4%B8%AD%E5%9B%BD%E5%8F%A4%E8%A3%85%E5%89%A7%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [落马厅官喜欢名表 有人一次送5块](https://www.baidu.com/s?wd=%E8%90%BD%E9%A9%AC%E5%8E%85%E5%AE%98%E5%96%9C%E6%AC%A2%E5%90%8D%E8%A1%A8+%E6%9C%89%E4%BA%BA%E4%B8%80%E6%AC%A1%E9%80%815%E5%9D%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [74岁正部级配合调查后首现身](https://www.baidu.com/s?wd=74%E5%B2%81%E6%AD%A3%E9%83%A8%E7%BA%A7%E9%85%8D%E5%90%88%E8%B0%83%E6%9F%A5%E5%90%8E%E9%A6%96%E7%8E%B0%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [杀死所有实体瘤的神药要来了吗](https://www.baidu.com/s?wd=%E6%9D%80%E6%AD%BB%E6%89%80%E6%9C%89%E5%AE%9E%E4%BD%93%E7%98%A4%E7%9A%84%E7%A5%9E%E8%8D%AF%E8%A6%81%E6%9D%A5%E4%BA%86%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
