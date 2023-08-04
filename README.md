@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 18:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 18:46:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [大哥得知家乡被淹捐赠2大包卫生巾](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%93%A5%E5%BE%97%E7%9F%A5%E5%AE%B6%E4%B9%A1%E8%A2%AB%E6%B7%B9%E6%8D%90%E8%B5%A02%E5%A4%A7%E5%8C%85%E5%8D%AB%E7%94%9F%E5%B7%BE%23&t=31&band_rank=5&Refer=top)<br />
 6. [紧急下达4.5亿元支持京津冀防汛救灾](https://s.weibo.com/weibo?q=%23%E7%B4%A7%E6%80%A5%E4%B8%8B%E8%BE%BE4.5%E4%BA%BF%E5%85%83%E6%94%AF%E6%8C%81%E4%BA%AC%E6%B4%A5%E5%86%80%E9%98%B2%E6%B1%9B%E6%95%91%E7%81%BE%23&t=31&band_rank=6&Refer=top)<br />
 7. [山东1万个大馒头驰援河北](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C1%E4%B8%87%E4%B8%AA%E5%A4%A7%E9%A6%92%E5%A4%B4%E9%A9%B0%E6%8F%B4%E6%B2%B3%E5%8C%97%23&t=31&band_rank=7&Refer=top)<br />
-8. [到底是谁发明的餐具费](https://s.weibo.com/weibo?q=%23%E5%88%B0%E5%BA%95%E6%98%AF%E8%B0%81%E5%8F%91%E6%98%8E%E7%9A%84%E9%A4%90%E5%85%B7%E8%B4%B9%23&t=31&band_rank=8&Refer=top)<br />
-9. [大麦](https://s.weibo.com/weibo?q=%E5%A4%A7%E9%BA%A6&t=31&band_rank=9&Refer=top)<br />
+8. [TFBOYS和时代少年团向涿州灾区捐款](https://s.weibo.com/weibo?q=%23TFBOYS%E5%92%8C%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E5%90%91%E6%B6%BF%E5%B7%9E%E7%81%BE%E5%8C%BA%E6%8D%90%E6%AC%BE%23&t=31&band_rank=8&Refer=top)<br />
+9. [到底是谁发明的餐具费](https://s.weibo.com/weibo?q=%23%E5%88%B0%E5%BA%95%E6%98%AF%E8%B0%81%E5%8F%91%E6%98%8E%E7%9A%84%E9%A4%90%E5%85%B7%E8%B4%B9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
