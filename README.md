@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 08:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 08:26:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [演技进步最快的演员](https://s.weibo.com/weibo?q=%23%E6%BC%94%E6%8A%80%E8%BF%9B%E6%AD%A5%E6%9C%80%E5%BF%AB%E7%9A%84%E6%BC%94%E5%91%98%23&t=31&band_rank=5&Refer=top)<br />
 6. [这真的不是帝后吗](https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%9C%9F%E7%9A%84%E4%B8%8D%E6%98%AF%E5%B8%9D%E5%90%8E%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [中图网 25元一斤随便带走](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BE%E7%BD%91%2025%E5%85%83%E4%B8%80%E6%96%A4%E9%9A%8F%E4%BE%BF%E5%B8%A6%E8%B5%B0&t=31&band_rank=7&Refer=top)<br />
-8. [吴京分享月瘦10斤减肥法](https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%AC%E5%88%86%E4%BA%AB%E6%9C%88%E7%98%A610%E6%96%A4%E5%87%8F%E8%82%A5%E6%B3%95%23&t=31&band_rank=8&Refer=top)<br />
-9. [TFBOYS新歌](https://s.weibo.com/weibo?q=TFBOYS%E6%96%B0%E6%AD%8C&t=31&band_rank=9&Refer=top)<br />
+8. [TFBOYS新歌](https://s.weibo.com/weibo?q=TFBOYS%E6%96%B0%E6%AD%8C&t=31&band_rank=8&Refer=top)<br />
+9. [吴京分享月瘦10斤减肥法](https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%AC%E5%88%86%E4%BA%AB%E6%9C%88%E7%98%A610%E6%96%A4%E5%87%8F%E8%82%A5%E6%B3%95%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
