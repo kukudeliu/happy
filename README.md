@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 21:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 21:51:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [吴艳妮](https://s.weibo.com/weibo?q=%E5%90%B4%E8%89%B3%E5%A6%AE&t=31&band_rank=6&Refer=top)<br />
 7. [黑龙江暴雨](https://s.weibo.com/weibo?q=%E9%BB%91%E9%BE%99%E6%B1%9F%E6%9A%B4%E9%9B%A8&t=31&band_rank=7&Refer=top)<br />
 8. [长相思第二季共21集](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D%E7%AC%AC%E4%BA%8C%E5%AD%A3%E5%85%B121%E9%9B%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [华为](https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA&t=31&band_rank=9&Refer=top)<br />
+9. [那英 专治恋爱脑](https://s.weibo.com/weibo?q=%E9%82%A3%E8%8B%B1%20%E4%B8%93%E6%B2%BB%E6%81%8B%E7%88%B1%E8%84%91&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
