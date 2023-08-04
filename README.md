@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 16:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 16:14:02</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [亚运版复兴号首次对外试乘](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E7%89%88%E5%A4%8D%E5%85%B4%E5%8F%B7%E9%A6%96%E6%AC%A1%E5%AF%B9%E5%A4%96%E8%AF%95%E4%B9%98%23&t=31&band_rank=3&Refer=top)<br />
 4. [彭昱畅自己争取全裸出镜](https://s.weibo.com/weibo?q=%23%E5%BD%AD%E6%98%B1%E7%95%85%E8%87%AA%E5%B7%B1%E4%BA%89%E5%8F%96%E5%85%A8%E8%A3%B8%E5%87%BA%E9%95%9C%23&t=31&band_rank=4&Refer=top)<br />
 5. [蒋依依敖子逸](https://s.weibo.com/weibo?q=%E8%92%8B%E4%BE%9D%E4%BE%9D%E6%95%96%E5%AD%90%E9%80%B8&t=31&band_rank=5&Refer=top)<br />
-6. [杨紫回应朋友圈杨紫](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%9B%9E%E5%BA%94%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%9D%A8%E7%B4%AB%23&t=31&band_rank=6&Refer=top)<br />
-7. [地铁2男子吵架大哥教科书式劝架](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%93%812%E7%94%B7%E5%AD%90%E5%90%B5%E6%9E%B6%E5%A4%A7%E5%93%A5%E6%95%99%E7%A7%91%E4%B9%A6%E5%BC%8F%E5%8A%9D%E6%9E%B6%23&t=31&band_rank=7&Refer=top)<br />
-8. [Uzi捐款50万元驰援涿州](https://s.weibo.com/weibo?q=%23Uzi%E6%8D%90%E6%AC%BE50%E4%B8%87%E5%85%83%E9%A9%B0%E6%8F%B4%E6%B6%BF%E5%B7%9E%23&t=31&band_rank=8&Refer=top)<br />
-9. [茶百道捐1000万元驰援京冀洪水救援](https://s.weibo.com/weibo?q=%23%E8%8C%B6%E7%99%BE%E9%81%93%E6%8D%901000%E4%B8%87%E5%85%83%E9%A9%B0%E6%8F%B4%E4%BA%AC%E5%86%80%E6%B4%AA%E6%B0%B4%E6%95%91%E6%8F%B4%23&t=31&band_rank=9&Refer=top)<br />
+6. [封神直播](https://s.weibo.com/weibo?q=%E5%B0%81%E7%A5%9E%E7%9B%B4%E6%92%AD&t=31&band_rank=6&Refer=top)<br />
+7. [杨紫回应朋友圈杨紫](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%9B%9E%E5%BA%94%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%9D%A8%E7%B4%AB%23&t=31&band_rank=7&Refer=top)<br />
+8. [地铁2男子吵架大哥教科书式劝架](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%93%812%E7%94%B7%E5%AD%90%E5%90%B5%E6%9E%B6%E5%A4%A7%E5%93%A5%E6%95%99%E7%A7%91%E4%B9%A6%E5%BC%8F%E5%8A%9D%E6%9E%B6%23&t=31&band_rank=8&Refer=top)<br />
+9. [Uzi捐款50万元驰援涿州](https://s.weibo.com/weibo?q=%23Uzi%E6%8D%90%E6%AC%BE50%E4%B8%87%E5%85%83%E9%A9%B0%E6%8F%B4%E6%B6%BF%E5%B7%9E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
