@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 08:52:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 08:53:01</h4></div>
 
 > 微博  
 
@@ -22,10 +22,10 @@
 3. [涿州男子获救后折返找狗被吐槽](https://www.baidu.com/s?wd=%E6%B6%BF%E5%B7%9E%E7%94%B7%E5%AD%90%E8%8E%B7%E6%95%91%E5%90%8E%E6%8A%98%E8%BF%94%E6%89%BE%E7%8B%97%E8%A2%AB%E5%90%90%E6%A7%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [暴雨过后 饮食卫生要注意](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E8%BF%87%E5%90%8E+%E9%A5%AE%E9%A3%9F%E5%8D%AB%E7%94%9F%E8%A6%81%E6%B3%A8%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [江苏一男子吃烧烤后感染戊肝](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E4%B8%80%E7%94%B7%E5%AD%90%E5%90%83%E7%83%A7%E7%83%A4%E5%90%8E%E6%84%9F%E6%9F%93%E6%88%8A%E8%82%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [云南回应投资2000万建永久性方舱医院](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E5%9B%9E%E5%BA%94%E6%8A%95%E8%B5%842000%E4%B8%87%E5%BB%BA%E6%B0%B8%E4%B9%85%E6%80%A7%E6%96%B9%E8%88%B1%E5%8C%BB%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [大运会运动员跑太慢被疑“走后门”](https://www.baidu.com/s?wd=%E5%A4%A7%E8%BF%90%E4%BC%9A%E8%BF%90%E5%8A%A8%E5%91%98%E8%B7%91%E5%A4%AA%E6%85%A2%E8%A2%AB%E7%96%91%E2%80%9C%E8%B5%B0%E5%90%8E%E9%97%A8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [河南大哥涿州街头4小时做13锅烩面](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%A4%A7%E5%93%A5%E6%B6%BF%E5%B7%9E%E8%A1%97%E5%A4%B44%E5%B0%8F%E6%97%B6%E5%81%9A13%E9%94%85%E7%83%A9%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [泰国人居然拍中国古装剧了](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E4%BA%BA%E5%B1%85%E7%84%B6%E6%8B%8D%E4%B8%AD%E5%9B%BD%E5%8F%A4%E8%A3%85%E5%89%A7%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [大运会运动员跑太慢被疑“走后门”](https://www.baidu.com/s?wd=%E5%A4%A7%E8%BF%90%E4%BC%9A%E8%BF%90%E5%8A%A8%E5%91%98%E8%B7%91%E5%A4%AA%E6%85%A2%E8%A2%AB%E7%96%91%E2%80%9C%E8%B5%B0%E5%90%8E%E9%97%A8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [云南回应投资2000万建永久性方舱医院](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E5%9B%9E%E5%BA%94%E6%8A%95%E8%B5%842000%E4%B8%87%E5%BB%BA%E6%B0%B8%E4%B9%85%E6%80%A7%E6%96%B9%E8%88%B1%E5%8C%BB%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [蒙古国将与美国深化稀土开采等合作](https://www.baidu.com/s?wd=%E8%92%99%E5%8F%A4%E5%9B%BD%E5%B0%86%E4%B8%8E%E7%BE%8E%E5%9B%BD%E6%B7%B1%E5%8C%96%E7%A8%80%E5%9C%9F%E5%BC%80%E9%87%87%E7%AD%89%E5%90%88%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [救援人员被喊话先救老人无奈拒绝](https://www.baidu.com/s?wd=%E6%95%91%E6%8F%B4%E4%BA%BA%E5%91%98%E8%A2%AB%E5%96%8A%E8%AF%9D%E5%85%88%E6%95%91%E8%80%81%E4%BA%BA%E6%97%A0%E5%A5%88%E6%8B%92%E7%BB%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -34,7 +34,7 @@
 3. [涿州男子获救后折返找狗被吐槽](https://www.baidu.com/s?wd=%E6%B6%BF%E5%B7%9E%E7%94%B7%E5%AD%90%E8%8E%B7%E6%95%91%E5%90%8E%E6%8A%98%E8%BF%94%E6%89%BE%E7%8B%97%E8%A2%AB%E5%90%90%E6%A7%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [暴雨过后 饮食卫生要注意](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E8%BF%87%E5%90%8E+%E9%A5%AE%E9%A3%9F%E5%8D%AB%E7%94%9F%E8%A6%81%E6%B3%A8%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [江苏一男子吃烧烤后感染戊肝](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E4%B8%80%E7%94%B7%E5%AD%90%E5%90%83%E7%83%A7%E7%83%A4%E5%90%8E%E6%84%9F%E6%9F%93%E6%88%8A%E8%82%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [云南回应投资2000万建永久性方舱医院](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E5%9B%9E%E5%BA%94%E6%8A%95%E8%B5%842000%E4%B8%87%E5%BB%BA%E6%B0%B8%E4%B9%85%E6%80%A7%E6%96%B9%E8%88%B1%E5%8C%BB%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [大运会运动员跑太慢被疑“走后门”](https://www.baidu.com/s?wd=%E5%A4%A7%E8%BF%90%E4%BC%9A%E8%BF%90%E5%8A%A8%E5%91%98%E8%B7%91%E5%A4%AA%E6%85%A2%E8%A2%AB%E7%96%91%E2%80%9C%E8%B5%B0%E5%90%8E%E9%97%A8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [河南大哥涿州街头4小时做13锅烩面](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%A4%A7%E5%93%A5%E6%B6%BF%E5%B7%9E%E8%A1%97%E5%A4%B44%E5%B0%8F%E6%97%B6%E5%81%9A13%E9%94%85%E7%83%A9%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [泰国人居然拍中国古装剧了](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E4%BA%BA%E5%B1%85%E7%84%B6%E6%8B%8D%E4%B8%AD%E5%9B%BD%E5%8F%A4%E8%A3%85%E5%89%A7%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [大运会运动员跑太慢被疑“走后门”](https://www.baidu.com/s?wd=%E5%A4%A7%E8%BF%90%E4%BC%9A%E8%BF%90%E5%8A%A8%E5%91%98%E8%B7%91%E5%A4%AA%E6%85%A2%E8%A2%AB%E7%96%91%E2%80%9C%E8%B5%B0%E5%90%8E%E9%97%A8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [云南回应投资2000万建永久性方舱医院](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E5%9B%9E%E5%BA%94%E6%8A%95%E8%B5%842000%E4%B8%87%E5%BB%BA%E6%B0%B8%E4%B9%85%E6%80%A7%E6%96%B9%E8%88%B1%E5%8C%BB%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [蒙古国将与美国深化稀土开采等合作](https://www.baidu.com/s?wd=%E8%92%99%E5%8F%A4%E5%9B%BD%E5%B0%86%E4%B8%8E%E7%BE%8E%E5%9B%BD%E6%B7%B1%E5%8C%96%E7%A8%80%E5%9C%9F%E5%BC%80%E9%87%87%E7%AD%89%E5%90%88%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [救援人员被喊话先救老人无奈拒绝](https://www.baidu.com/s?wd=%E6%95%91%E6%8F%B4%E4%BA%BA%E5%91%98%E8%A2%AB%E5%96%8A%E8%AF%9D%E5%85%88%E6%95%91%E8%80%81%E4%BA%BA%E6%97%A0%E5%A5%88%E6%8B%92%E7%BB%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
