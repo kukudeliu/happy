@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 11:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 11:44:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [奶茶店吉祥物被借走当道路积水警示物](https://www.baidu.com/s?wd=%E5%A5%B6%E8%8C%B6%E5%BA%97%E5%90%89%E7%A5%A5%E7%89%A9%E8%A2%AB%E5%80%9F%E8%B5%B0%E5%BD%93%E9%81%93%E8%B7%AF%E7%A7%AF%E6%B0%B4%E8%AD%A6%E7%A4%BA%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [警方通报待拆房屋现女性腐尸](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%BE%85%E6%8B%86%E6%88%BF%E5%B1%8B%E7%8E%B0%E5%A5%B3%E6%80%A7%E8%85%90%E5%B0%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [福建人对刘涛的妈祖滤镜](https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E4%BA%BA%E5%AF%B9%E5%88%98%E6%B6%9B%E7%9A%84%E5%A6%88%E7%A5%96%E6%BB%A4%E9%95%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [顾客吃面发现碗里有完整死老鼠](https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E5%90%83%E9%9D%A2%E5%8F%91%E7%8E%B0%E7%A2%97%E9%87%8C%E6%9C%89%E5%AE%8C%E6%95%B4%E6%AD%BB%E8%80%81%E9%BC%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [外卖员踩外卖 将吸管放在趾缝里摩擦](https://www.baidu.com/s?wd=%E5%A4%96%E5%8D%96%E5%91%98%E8%B8%A9%E5%A4%96%E5%8D%96+%E5%B0%86%E5%90%B8%E7%AE%A1%E6%94%BE%E5%9C%A8%E8%B6%BE%E7%BC%9D%E9%87%8C%E6%91%A9%E6%93%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子开车未礼让行人 还扬言砍交警手](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BC%80%E8%BD%A6%E6%9C%AA%E7%A4%BC%E8%AE%A9%E8%A1%8C%E4%BA%BA+%E8%BF%98%E6%89%AC%E8%A8%80%E7%A0%8D%E4%BA%A4%E8%AD%A6%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [黑龙江遇洪水 多辆卡车投河封堵缺口](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E9%81%87%E6%B4%AA%E6%B0%B4+%E5%A4%9A%E8%BE%86%E5%8D%A1%E8%BD%A6%E6%8A%95%E6%B2%B3%E5%B0%81%E5%A0%B5%E7%BC%BA%E5%8F%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [奶茶店吉祥物被借走当道路积水警示物](https://www.baidu.com/s?wd=%E5%A5%B6%E8%8C%B6%E5%BA%97%E5%90%89%E7%A5%A5%E7%89%A9%E8%A2%AB%E5%80%9F%E8%B5%B0%E5%BD%93%E9%81%93%E8%B7%AF%E7%A7%AF%E6%B0%B4%E8%AD%A6%E7%A4%BA%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [警方通报待拆房屋现女性腐尸](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%BE%85%E6%8B%86%E6%88%BF%E5%B1%8B%E7%8E%B0%E5%A5%B3%E6%80%A7%E8%85%90%E5%B0%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [福建人对刘涛的妈祖滤镜](https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E4%BA%BA%E5%AF%B9%E5%88%98%E6%B6%9B%E7%9A%84%E5%A6%88%E7%A5%96%E6%BB%A4%E9%95%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [顾客吃面发现碗里有完整死老鼠](https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E5%90%83%E9%9D%A2%E5%8F%91%E7%8E%B0%E7%A2%97%E9%87%8C%E6%9C%89%E5%AE%8C%E6%95%B4%E6%AD%BB%E8%80%81%E9%BC%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [外卖员踩外卖 将吸管放在趾缝里摩擦](https://www.baidu.com/s?wd=%E5%A4%96%E5%8D%96%E5%91%98%E8%B8%A9%E5%A4%96%E5%8D%96+%E5%B0%86%E5%90%B8%E7%AE%A1%E6%94%BE%E5%9C%A8%E8%B6%BE%E7%BC%9D%E9%87%8C%E6%91%A9%E6%93%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子开车未礼让行人 还扬言砍交警手](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BC%80%E8%BD%A6%E6%9C%AA%E7%A4%BC%E8%AE%A9%E8%A1%8C%E4%BA%BA+%E8%BF%98%E6%89%AC%E8%A8%80%E7%A0%8D%E4%BA%A4%E8%AD%A6%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [黑龙江遇洪水 多辆卡车投河封堵缺口](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E9%81%87%E6%B4%AA%E6%B0%B4+%E5%A4%9A%E8%BE%86%E5%8D%A1%E8%BD%A6%E6%8A%95%E6%B2%B3%E5%B0%81%E5%A0%B5%E7%BC%BA%E5%8F%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
