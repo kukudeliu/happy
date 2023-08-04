@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-05 03:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-05 03:21:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [公司故意不捧人气成员的现象很常见吗](https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8F%B8%E6%95%85%E6%84%8F%E4%B8%8D%E6%8D%A7%E4%BA%BA%E6%B0%94%E6%88%90%E5%91%98%E7%9A%84%E7%8E%B0%E8%B1%A1%E5%BE%88%E5%B8%B8%E8%A7%81%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [羽生结弦宣布结婚](https://s.weibo.com/weibo?q=%23%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E5%AE%A3%E5%B8%83%E7%BB%93%E5%A9%9A%23&t=31&band_rank=7&Refer=top)<br />
 8. [B站崩了](https://s.weibo.com/weibo?q=B%E7%AB%99%E5%B4%A9%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [张踩铃婆婆](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%B8%A9%E9%93%83%E5%A9%86%E5%A9%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [檀健次说相柳不需要续集](https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E8%AF%B4%E7%9B%B8%E6%9F%B3%E4%B8%8D%E9%9C%80%E8%A6%81%E7%BB%AD%E9%9B%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
