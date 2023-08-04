@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 10:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-04 10:43:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [江苏一男子吃烧烤后感染戊肝](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E4%B8%80%E7%94%B7%E5%AD%90%E5%90%83%E7%83%A7%E7%83%A4%E5%90%8E%E6%84%9F%E6%9F%93%E6%88%8A%E8%82%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [家长质疑雪糕外形似避孕套 厂家回应](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E8%B4%A8%E7%96%91%E9%9B%AA%E7%B3%95%E5%A4%96%E5%BD%A2%E4%BC%BC%E9%81%BF%E5%AD%95%E5%A5%97+%E5%8E%82%E5%AE%B6%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [顾客吃面发现碗里有完整死老鼠](https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E5%90%83%E9%9D%A2%E5%8F%91%E7%8E%B0%E7%A2%97%E9%87%8C%E6%9C%89%E5%AE%8C%E6%95%B4%E6%AD%BB%E8%80%81%E9%BC%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [黑龙江遇洪水 多辆卡车投河封堵缺口](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E9%81%87%E6%B4%AA%E6%B0%B4+%E5%A4%9A%E8%BE%86%E5%8D%A1%E8%BD%A6%E6%8A%95%E6%B2%B3%E5%B0%81%E5%A0%B5%E7%BC%BA%E5%8F%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子开车未礼让行人 还扬言砍交警手](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BC%80%E8%BD%A6%E6%9C%AA%E7%A4%BC%E8%AE%A9%E8%A1%8C%E4%BA%BA+%E8%BF%98%E6%89%AC%E8%A8%80%E7%A0%8D%E4%BA%A4%E8%AD%A6%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [大狗洪水中仍看家 救援人员无法靠近](https://www.baidu.com/s?wd=%E5%A4%A7%E7%8B%97%E6%B4%AA%E6%B0%B4%E4%B8%AD%E4%BB%8D%E7%9C%8B%E5%AE%B6+%E6%95%91%E6%8F%B4%E4%BA%BA%E5%91%98%E6%97%A0%E6%B3%95%E9%9D%A0%E8%BF%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [盛光祖多项违法细节首度披露](https://www.baidu.com/s?wd=%E7%9B%9B%E5%85%89%E7%A5%96%E5%A4%9A%E9%A1%B9%E8%BF%9D%E6%B3%95%E7%BB%86%E8%8A%82%E9%A6%96%E5%BA%A6%E6%8A%AB%E9%9C%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [江苏一男子吃烧烤后感染戊肝](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E4%B8%80%E7%94%B7%E5%AD%90%E5%90%83%E7%83%A7%E7%83%A4%E5%90%8E%E6%84%9F%E6%9F%93%E6%88%8A%E8%82%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [家长质疑雪糕外形似避孕套 厂家回应](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E8%B4%A8%E7%96%91%E9%9B%AA%E7%B3%95%E5%A4%96%E5%BD%A2%E4%BC%BC%E9%81%BF%E5%AD%95%E5%A5%97+%E5%8E%82%E5%AE%B6%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [顾客吃面发现碗里有完整死老鼠](https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E5%90%83%E9%9D%A2%E5%8F%91%E7%8E%B0%E7%A2%97%E9%87%8C%E6%9C%89%E5%AE%8C%E6%95%B4%E6%AD%BB%E8%80%81%E9%BC%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [黑龙江遇洪水 多辆卡车投河封堵缺口](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E9%81%87%E6%B4%AA%E6%B0%B4+%E5%A4%9A%E8%BE%86%E5%8D%A1%E8%BD%A6%E6%8A%95%E6%B2%B3%E5%B0%81%E5%A0%B5%E7%BC%BA%E5%8F%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子开车未礼让行人 还扬言砍交警手](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BC%80%E8%BD%A6%E6%9C%AA%E7%A4%BC%E8%AE%A9%E8%A1%8C%E4%BA%BA+%E8%BF%98%E6%89%AC%E8%A8%80%E7%A0%8D%E4%BA%A4%E8%AD%A6%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [大狗洪水中仍看家 救援人员无法靠近](https://www.baidu.com/s?wd=%E5%A4%A7%E7%8B%97%E6%B4%AA%E6%B0%B4%E4%B8%AD%E4%BB%8D%E7%9C%8B%E5%AE%B6+%E6%95%91%E6%8F%B4%E4%BA%BA%E5%91%98%E6%97%A0%E6%B3%95%E9%9D%A0%E8%BF%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [盛光祖多项违法细节首度披露](https://www.baidu.com/s?wd=%E7%9B%9B%E5%85%89%E7%A5%96%E5%A4%9A%E9%A1%B9%E8%BF%9D%E6%B3%95%E7%BB%86%E8%8A%82%E9%A6%96%E5%BA%A6%E6%8A%AB%E9%9C%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
