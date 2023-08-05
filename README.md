@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-05 12:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-05 12:52:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [潘玮柏被芯竹问为什么淘汰我](https://s.weibo.com/weibo?q=%23%E6%BD%98%E7%8E%AE%E6%9F%8F%E8%A2%AB%E8%8A%AF%E7%AB%B9%E9%97%AE%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B7%98%E6%B1%B0%E6%88%91%23&t=31&band_rank=6&Refer=top)<br />
 7. [TFBOYS专辑](https://s.weibo.com/weibo?q=TFBOYS%E4%B8%93%E8%BE%91&t=31&band_rank=7&Refer=top)<br />
 8. [女孩租房开2小时空调用完100元电费](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E7%A7%9F%E6%88%BF%E5%BC%802%E5%B0%8F%E6%97%B6%E7%A9%BA%E8%B0%83%E7%94%A8%E5%AE%8C100%E5%85%83%E7%94%B5%E8%B4%B9%23&t=31&band_rank=8&Refer=top)<br />
-9. [退伍军人从2楼跳入洪水为救援队开门](https://s.weibo.com/weibo?q=%23%E9%80%80%E4%BC%8D%E5%86%9B%E4%BA%BA%E4%BB%8E2%E6%A5%BC%E8%B7%B3%E5%85%A5%E6%B4%AA%E6%B0%B4%E4%B8%BA%E6%95%91%E6%8F%B4%E9%98%9F%E5%BC%80%E9%97%A8%23&t=31&band_rank=9&Refer=top)<br />
+9. [逆水寒](https://s.weibo.com/weibo?q=%E9%80%86%E6%B0%B4%E5%AF%92&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
