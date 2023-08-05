@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-05 20:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-05 20:03:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [优酷](https://s.weibo.com/weibo?q=%E4%BC%98%E9%85%B7&t=31&band_rank=5&Refer=top)<br />
 6. [羽生结弦结婚前的舞蹈](https://s.weibo.com/weibo?q=%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E7%BB%93%E5%A9%9A%E5%89%8D%E7%9A%84%E8%88%9E%E8%B9%88&t=31&band_rank=6&Refer=top)<br />
 7. [王俊凯王源易烊千玺不热吗](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%8E%8B%E6%BA%90%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E4%B8%8D%E7%83%AD%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
-8. [大妈误会卖肉老板中暑为其刮痧10分钟](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%A6%88%E8%AF%AF%E4%BC%9A%E5%8D%96%E8%82%89%E8%80%81%E6%9D%BF%E4%B8%AD%E6%9A%91%E4%B8%BA%E5%85%B6%E5%88%AE%E7%97%A710%E5%88%86%E9%92%9F%23&t=31&band_rank=8&Refer=top)<br />
-9. [涂山璟急得脚都好了](https://s.weibo.com/weibo?q=%23%E6%B6%82%E5%B1%B1%E7%92%9F%E6%80%A5%E5%BE%97%E8%84%9A%E9%83%BD%E5%A5%BD%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+8. [涂山璟急得脚都好了](https://s.weibo.com/weibo?q=%23%E6%B6%82%E5%B1%B1%E7%92%9F%E6%80%A5%E5%BE%97%E8%84%9A%E9%83%BD%E5%A5%BD%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [饭后喝酸奶真的能促进消化吗](https://s.weibo.com/weibo?q=%23%E9%A5%AD%E5%90%8E%E5%96%9D%E9%85%B8%E5%A5%B6%E7%9C%9F%E7%9A%84%E8%83%BD%E4%BF%83%E8%BF%9B%E6%B6%88%E5%8C%96%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
