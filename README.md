@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-06 02:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-06 02:49:01</h4></div>
 
 > 微博  
 
@@ -23,9 +23,9 @@
 4. [坚决打赢防汛救灾这场硬仗](https://www.baidu.com/s?wd=%E5%9D%9A%E5%86%B3%E6%89%93%E8%B5%A2%E9%98%B2%E6%B1%9B%E6%95%91%E7%81%BE%E8%BF%99%E5%9C%BA%E7%A1%AC%E4%BB%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中国驻韩大使馆提醒公民注意安全](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A9%BB%E9%9F%A9%E5%A4%A7%E4%BD%BF%E9%A6%86%E6%8F%90%E9%86%92%E5%85%AC%E6%B0%91%E6%B3%A8%E6%84%8F%E5%AE%89%E5%85%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [王俊凯王源易烊千玺怎么不笑了](https://www.baidu.com/s?wd=%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%8E%8B%E6%BA%90%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%80%8E%E4%B9%88%E4%B8%8D%E7%AC%91%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [时代峰峻负责人称对TFBOYS有遗憾](https://www.baidu.com/s?wd=%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E8%B4%9F%E8%B4%A3%E4%BA%BA%E7%A7%B0%E5%AF%B9TFBOYS%E6%9C%89%E9%81%97%E6%86%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [尼日尔总统以人质身份在美媒发文](https://www.baidu.com/s?wd=%E5%B0%BC%E6%97%A5%E5%B0%94%E6%80%BB%E7%BB%9F%E4%BB%A5%E4%BA%BA%E8%B4%A8%E8%BA%AB%E4%BB%BD%E5%9C%A8%E7%BE%8E%E5%AA%92%E5%8F%91%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [王鹤棣再次错过迪丽热巴](https://www.baidu.com/s?wd=%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%86%8D%E6%AC%A1%E9%94%99%E8%BF%87%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [王鹤棣再次错过迪丽热巴](https://www.baidu.com/s?wd=%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%86%8D%E6%AC%A1%E9%94%99%E8%BF%87%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [长沙被正式认定为烤湘](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E8%A2%AB%E6%AD%A3%E5%BC%8F%E8%AE%A4%E5%AE%9A%E4%B8%BA%E7%83%A4%E6%B9%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [俄军4000吨级军舰剧烈爆炸](https://www.baidu.com/s?wd=%E4%BF%84%E5%86%9B4000%E5%90%A8%E7%BA%A7%E5%86%9B%E8%88%B0%E5%89%A7%E7%83%88%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -35,6 +35,6 @@
 4. [坚决打赢防汛救灾这场硬仗](https://www.baidu.com/s?wd=%E5%9D%9A%E5%86%B3%E6%89%93%E8%B5%A2%E9%98%B2%E6%B1%9B%E6%95%91%E7%81%BE%E8%BF%99%E5%9C%BA%E7%A1%AC%E4%BB%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中国驻韩大使馆提醒公民注意安全](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A9%BB%E9%9F%A9%E5%A4%A7%E4%BD%BF%E9%A6%86%E6%8F%90%E9%86%92%E5%85%AC%E6%B0%91%E6%B3%A8%E6%84%8F%E5%AE%89%E5%85%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [王俊凯王源易烊千玺怎么不笑了](https://www.baidu.com/s?wd=%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%8E%8B%E6%BA%90%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%80%8E%E4%B9%88%E4%B8%8D%E7%AC%91%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [时代峰峻负责人称对TFBOYS有遗憾](https://www.baidu.com/s?wd=%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E8%B4%9F%E8%B4%A3%E4%BA%BA%E7%A7%B0%E5%AF%B9TFBOYS%E6%9C%89%E9%81%97%E6%86%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [尼日尔总统以人质身份在美媒发文](https://www.baidu.com/s?wd=%E5%B0%BC%E6%97%A5%E5%B0%94%E6%80%BB%E7%BB%9F%E4%BB%A5%E4%BA%BA%E8%B4%A8%E8%BA%AB%E4%BB%BD%E5%9C%A8%E7%BE%8E%E5%AA%92%E5%8F%91%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [王鹤棣再次错过迪丽热巴](https://www.baidu.com/s?wd=%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%86%8D%E6%AC%A1%E9%94%99%E8%BF%87%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [王鹤棣再次错过迪丽热巴](https://www.baidu.com/s?wd=%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%86%8D%E6%AC%A1%E9%94%99%E8%BF%87%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [长沙被正式认定为烤湘](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E8%A2%AB%E6%AD%A3%E5%BC%8F%E8%AE%A4%E5%AE%9A%E4%B8%BA%E7%83%A4%E6%B9%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [俄军4000吨级军舰剧烈爆炸](https://www.baidu.com/s?wd=%E4%BF%84%E5%86%9B4000%E5%90%A8%E7%BA%A7%E5%86%9B%E8%88%B0%E5%89%A7%E7%83%88%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
