@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-05 11:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-05 11:13:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [女孩租房开2小时空调用完100元电费](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E7%A7%9F%E6%88%BF%E5%BC%802%E5%B0%8F%E6%97%B6%E7%A9%BA%E8%B0%83%E7%94%A8%E5%AE%8C100%E5%85%83%E7%94%B5%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [#羽生结弦宣布结婚#](https://www.baidu.com/s?wd=%23%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E5%AE%A3%E5%B8%83%E7%BB%93%E5%A9%9A%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [收费员拒收5角纸币一把撕毁](https://www.baidu.com/s?wd=%E6%94%B6%E8%B4%B9%E5%91%98%E6%8B%92%E6%94%B65%E8%A7%92%E7%BA%B8%E5%B8%81%E4%B8%80%E6%8A%8A%E6%92%95%E6%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子称被网约车司机猥亵 警方介入](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E8%A2%AB%E7%BD%91%E7%BA%A6%E8%BD%A6%E5%8F%B8%E6%9C%BA%E7%8C%A5%E4%BA%B5+%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [俄军4000吨级军舰剧烈爆炸](https://www.baidu.com/s?wd=%E4%BF%84%E5%86%9B4000%E5%90%A8%E7%BA%A7%E5%86%9B%E8%88%B0%E5%89%A7%E7%83%88%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [京津冀暴雨互助](https://www.baidu.com/s?wd=%E4%BA%AC%E6%B4%A5%E5%86%80%E6%9A%B4%E9%9B%A8%E4%BA%92%E5%8A%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [女孩租房开2小时空调用完100元电费](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E7%A7%9F%E6%88%BF%E5%BC%802%E5%B0%8F%E6%97%B6%E7%A9%BA%E8%B0%83%E7%94%A8%E5%AE%8C100%E5%85%83%E7%94%B5%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [#羽生结弦宣布结婚#](https://www.baidu.com/s?wd=%23%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E5%AE%A3%E5%B8%83%E7%BB%93%E5%A9%9A%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [收费员拒收5角纸币一把撕毁](https://www.baidu.com/s?wd=%E6%94%B6%E8%B4%B9%E5%91%98%E6%8B%92%E6%94%B65%E8%A7%92%E7%BA%B8%E5%B8%81%E4%B8%80%E6%8A%8A%E6%92%95%E6%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子称被网约车司机猥亵 警方介入](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E8%A2%AB%E7%BD%91%E7%BA%A6%E8%BD%A6%E5%8F%B8%E6%9C%BA%E7%8C%A5%E4%BA%B5+%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [俄军4000吨级军舰剧烈爆炸](https://www.baidu.com/s?wd=%E4%BF%84%E5%86%9B4000%E5%90%A8%E7%BA%A7%E5%86%9B%E8%88%B0%E5%89%A7%E7%83%88%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [京津冀暴雨互助](https://www.baidu.com/s?wd=%E4%BA%AC%E6%B4%A5%E5%86%80%E6%9A%B4%E9%9B%A8%E4%BA%92%E5%8A%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
