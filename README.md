@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-05 13:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-05 13:29:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [沈梦辰听到林允吐了的反应](https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%A2%A6%E8%BE%B0%E5%90%AC%E5%88%B0%E6%9E%97%E5%85%81%E5%90%90%E4%BA%86%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=6&Refer=top)<br />
 7. [王俊凯不完美小孩彩排路透](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E4%B8%8D%E5%AE%8C%E7%BE%8E%E5%B0%8F%E5%AD%A9%E5%BD%A9%E6%8E%92%E8%B7%AF%E9%80%8F%23&t=31&band_rank=7&Refer=top)<br />
 8. [钱天一四冠王](https://s.weibo.com/weibo?q=%E9%92%B1%E5%A4%A9%E4%B8%80%E5%9B%9B%E5%86%A0%E7%8E%8B&t=31&band_rank=8&Refer=top)<br />
-9. [逆水寒](https://s.weibo.com/weibo?q=%E9%80%86%E6%B0%B4%E5%AF%92&t=31&band_rank=9&Refer=top)<br />
+9. [家人扔掉收养的狗致女子被公司解雇](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E4%BA%BA%E6%89%94%E6%8E%89%E6%94%B6%E5%85%BB%E7%9A%84%E7%8B%97%E8%87%B4%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%85%AC%E5%8F%B8%E8%A7%A3%E9%9B%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -25,7 +25,7 @@
 6. [#羽生结弦宣布结婚#](https://www.baidu.com/s?wd=%23%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E5%AE%A3%E5%B8%83%E7%BB%93%E5%A9%9A%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [河北一地居民索要30万撤离费](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E4%B8%80%E5%9C%B0%E5%B1%85%E6%B0%91%E7%B4%A2%E8%A6%8130%E4%B8%87%E6%92%A4%E7%A6%BB%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [纽约爆发骚乱：人群向警方投掷石块](https://www.baidu.com/s?wd=%E7%BA%BD%E7%BA%A6%E7%88%86%E5%8F%91%E9%AA%9A%E4%B9%B1%EF%BC%9A%E4%BA%BA%E7%BE%A4%E5%90%91%E8%AD%A6%E6%96%B9%E6%8A%95%E6%8E%B7%E7%9F%B3%E5%9D%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [浙江一黄氏宗祠面临强拆](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E9%BB%84%E6%B0%8F%E5%AE%97%E7%A5%A0%E9%9D%A2%E4%B8%B4%E5%BC%BA%E6%8B%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [知名华人企业家在美国酒店身亡](https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E5%8D%8E%E4%BA%BA%E4%BC%81%E4%B8%9A%E5%AE%B6%E5%9C%A8%E7%BE%8E%E5%9B%BD%E9%85%92%E5%BA%97%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [#羽生结弦宣布结婚#](https://www.baidu.com/s?wd=%23%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E5%AE%A3%E5%B8%83%E7%BB%93%E5%A9%9A%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [河北一地居民索要30万撤离费](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E4%B8%80%E5%9C%B0%E5%B1%85%E6%B0%91%E7%B4%A2%E8%A6%8130%E4%B8%87%E6%92%A4%E7%A6%BB%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [纽约爆发骚乱：人群向警方投掷石块](https://www.baidu.com/s?wd=%E7%BA%BD%E7%BA%A6%E7%88%86%E5%8F%91%E9%AA%9A%E4%B9%B1%EF%BC%9A%E4%BA%BA%E7%BE%A4%E5%90%91%E8%AD%A6%E6%96%B9%E6%8A%95%E6%8E%B7%E7%9F%B3%E5%9D%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [浙江一黄氏宗祠面临强拆](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E9%BB%84%E6%B0%8F%E5%AE%97%E7%A5%A0%E9%9D%A2%E4%B8%B4%E5%BC%BA%E6%8B%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [知名华人企业家在美国酒店身亡](https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E5%8D%8E%E4%BA%BA%E4%BC%81%E4%B8%9A%E5%AE%B6%E5%9C%A8%E7%BE%8E%E5%9B%BD%E9%85%92%E5%BA%97%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
