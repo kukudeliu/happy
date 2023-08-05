@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-05 10:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-05 10:53:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [姬发 伯邑考](https://s.weibo.com/weibo?q=%E5%A7%AC%E5%8F%91%20%E4%BC%AF%E9%82%91%E8%80%83&t=31&band_rank=6&Refer=top)<br />
 7. [乔欣爸爸曾被电话诈骗](https://s.weibo.com/weibo?q=%23%E4%B9%94%E6%AC%A3%E7%88%B8%E7%88%B8%E6%9B%BE%E8%A2%AB%E7%94%B5%E8%AF%9D%E8%AF%88%E9%AA%97%23&t=31&band_rank=7&Refer=top)<br />
 8. [暑假工25天挣三千多什么水平](https://s.weibo.com/weibo?q=%23%E6%9A%91%E5%81%87%E5%B7%A525%E5%A4%A9%E6%8C%A3%E4%B8%89%E5%8D%83%E5%A4%9A%E4%BB%80%E4%B9%88%E6%B0%B4%E5%B9%B3%23&t=31&band_rank=8&Refer=top)<br />
-9. [专家称投降式睡姿弊大于利](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%8A%95%E9%99%8D%E5%BC%8F%E7%9D%A1%E5%A7%BF%E5%BC%8A%E5%A4%A7%E4%BA%8E%E5%88%A9%23&t=31&band_rank=9&Refer=top)<br />
+9. [明天见歌词](https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%A4%A9%E8%A7%81%E6%AD%8C%E8%AF%8D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
