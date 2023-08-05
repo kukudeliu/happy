@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-06 00:14:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-06 00:15:01</h4></div>
 
 > 微博  
 
-1. [安崎自曝出道后失业到现在](https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%B4%8E%E8%87%AA%E6%9B%9D%E5%87%BA%E9%81%93%E5%90%8E%E5%A4%B1%E4%B8%9A%E5%88%B0%E7%8E%B0%E5%9C%A8%23&t=31&band_rank=1&Refer=top)<br />
-2. [王俊凯王源易烊千玺怎么不笑了](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%8E%8B%E6%BA%90%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%80%8E%E4%B9%88%E4%B8%8D%E7%AC%91%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
+1. [王俊凯王源易烊千玺怎么不笑了](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%8E%8B%E6%BA%90%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%80%8E%E4%B9%88%E4%B8%8D%E7%AC%91%E4%BA%86%23&t=31&band_rank=1&Refer=top)<br />
+2. [安崎自曝出道后失业到现在](https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%B4%8E%E8%87%AA%E6%9B%9D%E5%87%BA%E9%81%93%E5%90%8E%E5%A4%B1%E4%B8%9A%E5%88%B0%E7%8E%B0%E5%9C%A8%23&t=31&band_rank=2&Refer=top)<br />
 3. [CCTV国家公园](https://s.weibo.com/weibo?q=%23CCTV%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD%23&t=31&band_rank=3&Refer=top)<br />
 4. [莲花楼丧尸案](https://s.weibo.com/weibo?q=%23%E8%8E%B2%E8%8A%B1%E6%A5%BC%E4%B8%A7%E5%B0%B8%E6%A1%88%23&t=31&band_rank=4&Refer=top)<br />
 5. [王俊凯想笑就笑吧](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%83%B3%E7%AC%91%E5%B0%B1%E7%AC%91%E5%90%A7%23&t=31&band_rank=5&Refer=top)<br />
