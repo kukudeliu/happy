@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-05 09:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-05 09:28:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [羽生结弦老婆](https://s.weibo.com/weibo?q=%23%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E8%80%81%E5%A9%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [河南近百亿灾后重建资金出问题](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E8%BF%91%E7%99%BE%E4%BA%BF%E7%81%BE%E5%90%8E%E9%87%8D%E5%BB%BA%E8%B5%84%E9%87%91%E5%87%BA%E9%97%AE%E9%A2%98%23&t=31&band_rank=5&Refer=top)<br />
 6. [女法医留遗言我死了你们接着解剖我](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%B3%95%E5%8C%BB%E7%95%99%E9%81%97%E8%A8%80%E6%88%91%E6%AD%BB%E4%BA%86%E4%BD%A0%E4%BB%AC%E6%8E%A5%E7%9D%80%E8%A7%A3%E5%89%96%E6%88%91%23&t=31&band_rank=6&Refer=top)<br />
-7. [马立奥四岁父母仍在暧昧期](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E7%AB%8B%E5%A5%A5%E5%9B%9B%E5%B2%81%E7%88%B6%E6%AF%8D%E4%BB%8D%E5%9C%A8%E6%9A%A7%E6%98%A7%E6%9C%9F%23&t=31&band_rank=7&Refer=top)<br />
-8. [莲花楼 所有女孩的自救](https://s.weibo.com/weibo?q=%E8%8E%B2%E8%8A%B1%E6%A5%BC%20%E6%89%80%E6%9C%89%E5%A5%B3%E5%AD%A9%E7%9A%84%E8%87%AA%E6%95%91&t=31&band_rank=8&Refer=top)<br />
+7. [莲花楼 所有女孩的自救](https://s.weibo.com/weibo?q=%E8%8E%B2%E8%8A%B1%E6%A5%BC%20%E6%89%80%E6%9C%89%E5%A5%B3%E5%AD%A9%E7%9A%84%E8%87%AA%E6%95%91&t=31&band_rank=7&Refer=top)<br />
+8. [马立奥四岁父母仍在暧昧期](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E7%AB%8B%E5%A5%A5%E5%9B%9B%E5%B2%81%E7%88%B6%E6%AF%8D%E4%BB%8D%E5%9C%A8%E6%9A%A7%E6%98%A7%E6%9C%9F%23&t=31&band_rank=8&Refer=top)<br />
 9. [苏妲己 白月光](https://s.weibo.com/weibo?q=%E8%8B%8F%E5%A6%B2%E5%B7%B1%20%E7%99%BD%E6%9C%88%E5%85%89&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -24,7 +24,7 @@
 5. [女孩租房开2小时空调用完100元电费](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E7%A7%9F%E6%88%BF%E5%BC%802%E5%B0%8F%E6%97%B6%E7%A9%BA%E8%B0%83%E7%94%A8%E5%AE%8C100%E5%85%83%E7%94%B5%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [知名华人企业家在美国酒店身亡](https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E5%8D%8E%E4%BA%BA%E4%BC%81%E4%B8%9A%E5%AE%B6%E5%9C%A8%E7%BE%8E%E5%9B%BD%E9%85%92%E5%BA%97%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [俄军4000吨级军舰剧烈爆炸](https://www.baidu.com/s?wd=%E4%BF%84%E5%86%9B4000%E5%90%A8%E7%BA%A7%E5%86%9B%E8%88%B0%E5%89%A7%E7%83%88%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [意大利欲退出“一带一路”？中方回应](https://www.baidu.com/s?wd=%E6%84%8F%E5%A4%A7%E5%88%A9%E6%AC%B2%E9%80%80%E5%87%BA%E2%80%9C%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E2%80%9D%EF%BC%9F%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女前台被患精神病住客砍杀身亡](https://www.baidu.com/s?wd=%E5%A5%B3%E5%89%8D%E5%8F%B0%E8%A2%AB%E6%82%A3%E7%B2%BE%E7%A5%9E%E7%97%85%E4%BD%8F%E5%AE%A2%E7%A0%8D%E6%9D%80%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [京津冀暴雨互助](https://www.baidu.com/s?wd=%E4%BA%AC%E6%B4%A5%E5%86%80%E6%9A%B4%E9%9B%A8%E4%BA%92%E5%8A%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [女孩租房开2小时空调用完100元电费](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E7%A7%9F%E6%88%BF%E5%BC%802%E5%B0%8F%E6%97%B6%E7%A9%BA%E8%B0%83%E7%94%A8%E5%AE%8C100%E5%85%83%E7%94%B5%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [知名华人企业家在美国酒店身亡](https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E5%8D%8E%E4%BA%BA%E4%BC%81%E4%B8%9A%E5%AE%B6%E5%9C%A8%E7%BE%8E%E5%9B%BD%E9%85%92%E5%BA%97%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [俄军4000吨级军舰剧烈爆炸](https://www.baidu.com/s?wd=%E4%BF%84%E5%86%9B4000%E5%90%A8%E7%BA%A7%E5%86%9B%E8%88%B0%E5%89%A7%E7%83%88%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [意大利欲退出“一带一路”？中方回应](https://www.baidu.com/s?wd=%E6%84%8F%E5%A4%A7%E5%88%A9%E6%AC%B2%E9%80%80%E5%87%BA%E2%80%9C%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E2%80%9D%EF%BC%9F%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女前台被患精神病住客砍杀身亡](https://www.baidu.com/s?wd=%E5%A5%B3%E5%89%8D%E5%8F%B0%E8%A2%AB%E6%82%A3%E7%B2%BE%E7%A5%9E%E7%97%85%E4%BD%8F%E5%AE%A2%E7%A0%8D%E6%9D%80%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [京津冀暴雨互助](https://www.baidu.com/s?wd=%E4%BA%AC%E6%B4%A5%E5%86%80%E6%9A%B4%E9%9B%A8%E4%BA%92%E5%8A%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
