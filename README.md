@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-05 13:18:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-05 13:19:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [暴雨洪水过后的安全及防疫提醒](https://s.weibo.com/weibo?q=%23%E6%9A%B4%E9%9B%A8%E6%B4%AA%E6%B0%B4%E8%BF%87%E5%90%8E%E7%9A%84%E5%AE%89%E5%85%A8%E5%8F%8A%E9%98%B2%E7%96%AB%E6%8F%90%E9%86%92%23&t=31&band_rank=3&Refer=top)<br />
 4. [中新网评TFBOYS粉丝抢位置打架](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B0%E7%BD%91%E8%AF%84TFBOYS%E7%B2%89%E4%B8%9D%E6%8A%A2%E4%BD%8D%E7%BD%AE%E6%89%93%E6%9E%B6%23&t=31&band_rank=4&Refer=top)<br />
 5. [羽生结弦老婆](https://s.weibo.com/weibo?q=%23%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E8%80%81%E5%A9%86%23&t=31&band_rank=5&Refer=top)<br />
-6. [逆水寒](https://s.weibo.com/weibo?q=%E9%80%86%E6%B0%B4%E5%AF%92&t=31&band_rank=6&Refer=top)<br />
+6. [钱天一四冠王](https://s.weibo.com/weibo?q=%E9%92%B1%E5%A4%A9%E4%B8%80%E5%9B%9B%E5%86%A0%E7%8E%8B&t=31&band_rank=6&Refer=top)<br />
 7. [王俊凯不完美小孩彩排路透](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E4%B8%8D%E5%AE%8C%E7%BE%8E%E5%B0%8F%E5%AD%A9%E5%BD%A9%E6%8E%92%E8%B7%AF%E9%80%8F%23&t=31&band_rank=7&Refer=top)<br />
-8. [钱天一四冠王](https://s.weibo.com/weibo?q=%E9%92%B1%E5%A4%A9%E4%B8%80%E5%9B%9B%E5%86%A0%E7%8E%8B&t=31&band_rank=8&Refer=top)<br />
+8. [逆水寒](https://s.weibo.com/weibo?q=%E9%80%86%E6%B0%B4%E5%AF%92&t=31&band_rank=8&Refer=top)<br />
 9. [暑假工25天挣三千多什么水平](https://s.weibo.com/weibo?q=%23%E6%9A%91%E5%81%87%E5%B7%A525%E5%A4%A9%E6%8C%A3%E4%B8%89%E5%8D%83%E5%A4%9A%E4%BB%80%E4%B9%88%E6%B0%B4%E5%B9%B3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
