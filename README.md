@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-05 08:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-05 08:17:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [中国公民入境俄罗斯受阻](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%85%A5%E5%A2%83%E4%BF%84%E7%BD%97%E6%96%AF%E5%8F%97%E9%98%BB%23&t=31&band_rank=5&Refer=top)<br />
 6. [叮叮叔演员去世](https://s.weibo.com/weibo?q=%23%E5%8F%AE%E5%8F%AE%E5%8F%94%E6%BC%94%E5%91%98%E5%8E%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [张踩铃婆婆](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%B8%A9%E9%93%83%E5%A9%86%E5%A9%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [羽生结弦宣布结婚](https://s.weibo.com/weibo?q=%23%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E5%AE%A3%E5%B8%83%E7%BB%93%E5%A9%9A%23&t=31&band_rank=8&Refer=top)<br />
-9. [韩国人就差身份证上写mbti了](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E4%BA%BA%E5%B0%B1%E5%B7%AE%E8%BA%AB%E4%BB%BD%E8%AF%81%E4%B8%8A%E5%86%99mbti%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+8. [专家称投降式睡姿弊大于利](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%8A%95%E9%99%8D%E5%BC%8F%E7%9D%A1%E5%A7%BF%E5%BC%8A%E5%A4%A7%E4%BA%8E%E5%88%A9%23&t=31&band_rank=8&Refer=top)<br />
+9. [羽生结弦宣布结婚](https://s.weibo.com/weibo?q=%23%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E5%AE%A3%E5%B8%83%E7%BB%93%E5%A9%9A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
