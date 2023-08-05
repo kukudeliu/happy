@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-06 07:27:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-06 07:28:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [TFBOYS十年之约演唱会](https://s.weibo.com/weibo?q=%23TFBOYS%E5%8D%81%E5%B9%B4%E4%B9%8B%E7%BA%A6%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=6&Refer=top)<br />
 7. [江苏震感](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E9%9C%87%E6%84%9F%23&t=31&band_rank=7&Refer=top)<br />
 8. [河南震感](https://s.weibo.com/weibo?q=%E6%B2%B3%E5%8D%97%E9%9C%87%E6%84%9F&t=31&band_rank=8&Refer=top)<br />
-9. [山东平原5.5级地震](https://s.weibo.com/weibo?q=%E5%B1%B1%E4%B8%9C%E5%B9%B3%E5%8E%9F5.5%E7%BA%A7%E5%9C%B0%E9%9C%87&t=31&band_rank=9&Refer=top)<br />
+9. [安崎自曝出道后失业到现在](https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%B4%8E%E8%87%AA%E6%9B%9D%E5%87%BA%E9%81%93%E5%90%8E%E5%A4%B1%E4%B8%9A%E5%88%B0%E7%8E%B0%E5%9C%A8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
