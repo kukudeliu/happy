@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-05 20:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-05 20:41:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [莲花楼丧尸案](https://s.weibo.com/weibo?q=%23%E8%8E%B2%E8%8A%B1%E6%A5%BC%E4%B8%A7%E5%B0%B8%E6%A1%88%23&t=31&band_rank=5&Refer=top)<br />
 6. [严浩翔被正式确诊为尔康](https://s.weibo.com/weibo?q=%23%E4%B8%A5%E6%B5%A9%E7%BF%94%E8%A2%AB%E6%AD%A3%E5%BC%8F%E7%A1%AE%E8%AF%8A%E4%B8%BA%E5%B0%94%E5%BA%B7%23&t=31&band_rank=6&Refer=top)<br />
 7. [易烊千玺话筒涂鸦](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%AF%9D%E7%AD%92%E6%B6%82%E9%B8%A6%23&t=31&band_rank=7&Refer=top)<br />
-8. [羽生结弦结婚前的舞蹈](https://s.weibo.com/weibo?q=%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E7%BB%93%E5%A9%9A%E5%89%8D%E7%9A%84%E8%88%9E%E8%B9%88&t=31&band_rank=8&Refer=top)<br />
-9. [福宝自己戴发箍](https://s.weibo.com/weibo?q=%E7%A6%8F%E5%AE%9D%E8%87%AA%E5%B7%B1%E6%88%B4%E5%8F%91%E7%AE%8D&t=31&band_rank=9&Refer=top)<br />
+8. [福宝自己戴发箍](https://s.weibo.com/weibo?q=%E7%A6%8F%E5%AE%9D%E8%87%AA%E5%B7%B1%E6%88%B4%E5%8F%91%E7%AE%8D&t=31&band_rank=8&Refer=top)<br />
+9. [羽生结弦结婚前的舞蹈](https://s.weibo.com/weibo?q=%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E7%BB%93%E5%A9%9A%E5%89%8D%E7%9A%84%E8%88%9E%E8%B9%88&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
