@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-05 09:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-05 09:08:02</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [K396次脱险纪实](https://www.baidu.com/s?wd=K396%E6%AC%A1%E8%84%B1%E9%99%A9%E7%BA%AA%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女孩租房开2小时空调用完100元电费](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E7%A7%9F%E6%88%BF%E5%BC%802%E5%B0%8F%E6%97%B6%E7%A9%BA%E8%B0%83%E7%94%A8%E5%AE%8C100%E5%85%83%E7%94%B5%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [俄军4000吨级军舰剧烈爆炸](https://www.baidu.com/s?wd=%E4%BF%84%E5%86%9B4000%E5%90%A8%E7%BA%A7%E5%86%9B%E8%88%B0%E5%89%A7%E7%83%88%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [专家称投降式睡姿弊大于利](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%8A%95%E9%99%8D%E5%BC%8F%E7%9D%A1%E5%A7%BF%E5%BC%8A%E5%A4%A7%E4%BA%8E%E5%88%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女前台被患精神病住客砍杀身亡](https://www.baidu.com/s?wd=%E5%A5%B3%E5%89%8D%E5%8F%B0%E8%A2%AB%E6%82%A3%E7%B2%BE%E7%A5%9E%E7%97%85%E4%BD%8F%E5%AE%A2%E7%A0%8D%E6%9D%80%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女前台被患精神病住客砍杀身亡](https://www.baidu.com/s?wd=%E5%A5%B3%E5%89%8D%E5%8F%B0%E8%A2%AB%E6%82%A3%E7%B2%BE%E7%A5%9E%E7%97%85%E4%BD%8F%E5%AE%A2%E7%A0%8D%E6%9D%80%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [专家称投降式睡姿弊大于利](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%8A%95%E9%99%8D%E5%BC%8F%E7%9D%A1%E5%A7%BF%E5%BC%8A%E5%A4%A7%E4%BA%8E%E5%88%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [京津冀暴雨互助](https://www.baidu.com/s?wd=%E4%BA%AC%E6%B4%A5%E5%86%80%E6%9A%B4%E9%9B%A8%E4%BA%92%E5%8A%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [K396次脱险纪实](https://www.baidu.com/s?wd=K396%E6%AC%A1%E8%84%B1%E9%99%A9%E7%BA%AA%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女孩租房开2小时空调用完100元电费](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E7%A7%9F%E6%88%BF%E5%BC%802%E5%B0%8F%E6%97%B6%E7%A9%BA%E8%B0%83%E7%94%A8%E5%AE%8C100%E5%85%83%E7%94%B5%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [俄军4000吨级军舰剧烈爆炸](https://www.baidu.com/s?wd=%E4%BF%84%E5%86%9B4000%E5%90%A8%E7%BA%A7%E5%86%9B%E8%88%B0%E5%89%A7%E7%83%88%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [专家称投降式睡姿弊大于利](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%8A%95%E9%99%8D%E5%BC%8F%E7%9D%A1%E5%A7%BF%E5%BC%8A%E5%A4%A7%E4%BA%8E%E5%88%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女前台被患精神病住客砍杀身亡](https://www.baidu.com/s?wd=%E5%A5%B3%E5%89%8D%E5%8F%B0%E8%A2%AB%E6%82%A3%E7%B2%BE%E7%A5%9E%E7%97%85%E4%BD%8F%E5%AE%A2%E7%A0%8D%E6%9D%80%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女前台被患精神病住客砍杀身亡](https://www.baidu.com/s?wd=%E5%A5%B3%E5%89%8D%E5%8F%B0%E8%A2%AB%E6%82%A3%E7%B2%BE%E7%A5%9E%E7%97%85%E4%BD%8F%E5%AE%A2%E7%A0%8D%E6%9D%80%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [专家称投降式睡姿弊大于利](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%8A%95%E9%99%8D%E5%BC%8F%E7%9D%A1%E5%A7%BF%E5%BC%8A%E5%A4%A7%E4%BA%8E%E5%88%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [京津冀暴雨互助](https://www.baidu.com/s?wd=%E4%BA%AC%E6%B4%A5%E5%86%80%E6%9A%B4%E9%9B%A8%E4%BA%92%E5%8A%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
