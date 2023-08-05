@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-05 20:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-05 20:10:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [易烊千玺话筒涂鸦](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%AF%9D%E7%AD%92%E6%B6%82%E9%B8%A6%23&t=31&band_rank=4&Refer=top)<br />
 5. [优酷](https://s.weibo.com/weibo?q=%E4%BC%98%E9%85%B7&t=31&band_rank=5&Refer=top)<br />
 6. [王俊凯王源易烊千玺不热吗](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%8E%8B%E6%BA%90%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E4%B8%8D%E7%83%AD%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
-7. [羽生结弦结婚前的舞蹈](https://s.weibo.com/weibo?q=%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E7%BB%93%E5%A9%9A%E5%89%8D%E7%9A%84%E8%88%9E%E8%B9%88&t=31&band_rank=7&Refer=top)<br />
-8. [TFBOYS彩排喜欢你](https://s.weibo.com/weibo?q=%23TFBOYS%E5%BD%A9%E6%8E%92%E5%96%9C%E6%AC%A2%E4%BD%A0%23&t=31&band_rank=8&Refer=top)<br />
+7. [莲花楼丧尸案](https://s.weibo.com/weibo?q=%23%E8%8E%B2%E8%8A%B1%E6%A5%BC%E4%B8%A7%E5%B0%B8%E6%A1%88%23&t=31&band_rank=7&Refer=top)<br />
+8. [羽生结弦结婚前的舞蹈](https://s.weibo.com/weibo?q=%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E7%BB%93%E5%A9%9A%E5%89%8D%E7%9A%84%E8%88%9E%E8%B9%88&t=31&band_rank=8&Refer=top)<br />
 9. [饭后喝酸奶真的能促进消化吗](https://s.weibo.com/weibo?q=%23%E9%A5%AD%E5%90%8E%E5%96%9D%E9%85%B8%E5%A5%B6%E7%9C%9F%E7%9A%84%E8%83%BD%E4%BF%83%E8%BF%9B%E6%B6%88%E5%8C%96%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
