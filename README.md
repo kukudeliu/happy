@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-05 14:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-05 14:45:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [王俊凯唱连名带姓](https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%94%B1%E8%BF%9E%E5%90%8D%E5%B8%A6%E5%A7%93&t=31&band_rank=4&Refer=top)<br />
 5. [想当兵的体育生18岁成人礼却纹了大花臂](https://s.weibo.com/weibo?q=%23%E6%83%B3%E5%BD%93%E5%85%B5%E7%9A%84%E4%BD%93%E8%82%B2%E7%94%9F18%E5%B2%81%E6%88%90%E4%BA%BA%E7%A4%BC%E5%8D%B4%E7%BA%B9%E4%BA%86%E5%A4%A7%E8%8A%B1%E8%87%82%23&t=31&band_rank=5&Refer=top)<br />
 6. [中新网评TFBOYS粉丝抢位置打架](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B0%E7%BD%91%E8%AF%84TFBOYS%E7%B2%89%E4%B8%9D%E6%8A%A2%E4%BD%8D%E7%BD%AE%E6%89%93%E6%9E%B6%23&t=31&band_rank=6&Refer=top)<br />
-7. [知名华人企业家在美国酒店身亡](https://s.weibo.com/weibo?q=%23%E7%9F%A5%E5%90%8D%E5%8D%8E%E4%BA%BA%E4%BC%81%E4%B8%9A%E5%AE%B6%E5%9C%A8%E7%BE%8E%E5%9B%BD%E9%85%92%E5%BA%97%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=7&Refer=top)<br />
-8. [TFBOYS十年纪念专辑配置](https://s.weibo.com/weibo?q=%23TFBOYS%E5%8D%81%E5%B9%B4%E7%BA%AA%E5%BF%B5%E4%B8%93%E8%BE%91%E9%85%8D%E7%BD%AE%23&t=31&band_rank=8&Refer=top)<br />
-9. [羽生结弦老婆](https://s.weibo.com/weibo?q=%23%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E8%80%81%E5%A9%86%23&t=31&band_rank=9&Refer=top)<br />
+7. [何超莲的沉默震耳欲聋](https://s.weibo.com/weibo?q=%23%E4%BD%95%E8%B6%85%E8%8E%B2%E7%9A%84%E6%B2%89%E9%BB%98%E9%9C%87%E8%80%B3%E6%AC%B2%E8%81%8B%23&t=31&band_rank=7&Refer=top)<br />
+8. [知名华人企业家在美国酒店身亡](https://s.weibo.com/weibo?q=%23%E7%9F%A5%E5%90%8D%E5%8D%8E%E4%BA%BA%E4%BC%81%E4%B8%9A%E5%AE%B6%E5%9C%A8%E7%BE%8E%E5%9B%BD%E9%85%92%E5%BA%97%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
+9. [TFBOYS专辑](https://s.weibo.com/weibo?q=TFBOYS%E4%B8%93%E8%BE%91&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
