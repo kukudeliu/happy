@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-06 07:55:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-06 07:56:01</h4></div>
 
 > 微博  
 
@@ -19,7 +19,7 @@
 
 1. [稳预期 增信心 保持经济回升向好](https://www.baidu.com/s?wd=%E7%A8%B3%E9%A2%84%E6%9C%9F+%E5%A2%9E%E4%BF%A1%E5%BF%83+%E4%BF%9D%E6%8C%81%E7%BB%8F%E6%B5%8E%E5%9B%9E%E5%8D%87%E5%90%91%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [山东平原县5.5级地震 多地震感明显](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%B9%B3%E5%8E%9F%E5%8E%BF5.5%E7%BA%A7%E5%9C%B0%E9%9C%87+%E5%A4%9A%E5%9C%B0%E9%9C%87%E6%84%9F%E6%98%8E%E6%98%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [平原县已发生50多次余震 有10人受伤](https://www.baidu.com/s?wd=%E5%B9%B3%E5%8E%9F%E5%8E%BF%E5%B7%B2%E5%8F%91%E7%94%9F50%E5%A4%9A%E6%AC%A1%E4%BD%99%E9%9C%87+%E6%9C%8910%E4%BA%BA%E5%8F%97%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [山东地震已致20人轻微伤](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B420%E4%BA%BA%E8%BD%BB%E5%BE%AE%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [坚决打赢防汛救灾这场硬仗](https://www.baidu.com/s?wd=%E5%9D%9A%E5%86%B3%E6%89%93%E8%B5%A2%E9%98%B2%E6%B1%9B%E6%95%91%E7%81%BE%E8%BF%99%E5%9C%BA%E7%A1%AC%E4%BB%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [平原县地震3小时后：生活秩序正常](https://www.baidu.com/s?wd=%E5%B9%B3%E5%8E%9F%E5%8E%BF%E5%9C%B0%E9%9C%873%E5%B0%8F%E6%97%B6%E5%90%8E%EF%BC%9A%E7%94%9F%E6%B4%BB%E7%A7%A9%E5%BA%8F%E6%AD%A3%E5%B8%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [山东平原县震中现场直击](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%B9%B3%E5%8E%9F%E5%8E%BF%E9%9C%87%E4%B8%AD%E7%8E%B0%E5%9C%BA%E7%9B%B4%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -31,7 +31,7 @@
 
 1. [稳预期 增信心 保持经济回升向好](https://www.baidu.com/s?wd=%E7%A8%B3%E9%A2%84%E6%9C%9F+%E5%A2%9E%E4%BF%A1%E5%BF%83+%E4%BF%9D%E6%8C%81%E7%BB%8F%E6%B5%8E%E5%9B%9E%E5%8D%87%E5%90%91%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [山东平原县5.5级地震 多地震感明显](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%B9%B3%E5%8E%9F%E5%8E%BF5.5%E7%BA%A7%E5%9C%B0%E9%9C%87+%E5%A4%9A%E5%9C%B0%E9%9C%87%E6%84%9F%E6%98%8E%E6%98%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [平原县已发生50多次余震 有10人受伤](https://www.baidu.com/s?wd=%E5%B9%B3%E5%8E%9F%E5%8E%BF%E5%B7%B2%E5%8F%91%E7%94%9F50%E5%A4%9A%E6%AC%A1%E4%BD%99%E9%9C%87+%E6%9C%8910%E4%BA%BA%E5%8F%97%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [山东地震已致20人轻微伤](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B420%E4%BA%BA%E8%BD%BB%E5%BE%AE%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [坚决打赢防汛救灾这场硬仗](https://www.baidu.com/s?wd=%E5%9D%9A%E5%86%B3%E6%89%93%E8%B5%A2%E9%98%B2%E6%B1%9B%E6%95%91%E7%81%BE%E8%BF%99%E5%9C%BA%E7%A1%AC%E4%BB%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [平原县地震3小时后：生活秩序正常](https://www.baidu.com/s?wd=%E5%B9%B3%E5%8E%9F%E5%8E%BF%E5%9C%B0%E9%9C%873%E5%B0%8F%E6%97%B6%E5%90%8E%EF%BC%9A%E7%94%9F%E6%B4%BB%E7%A7%A9%E5%BA%8F%E6%AD%A3%E5%B8%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [山东平原县震中现场直击](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%B9%B3%E5%8E%9F%E5%8E%BF%E9%9C%87%E4%B8%AD%E7%8E%B0%E5%9C%BA%E7%9B%B4%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
