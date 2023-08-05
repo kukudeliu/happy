@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-05 19:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-05 19:45:02</h4></div>
 
 > 微博  
 
 1. [茶颜悦色不支持点单取单两人同时排队](https://s.weibo.com/weibo?q=%23%E8%8C%B6%E9%A2%9C%E6%82%A6%E8%89%B2%E4%B8%8D%E6%94%AF%E6%8C%81%E7%82%B9%E5%8D%95%E5%8F%96%E5%8D%95%E4%B8%A4%E4%BA%BA%E5%90%8C%E6%97%B6%E6%8E%92%E9%98%9F%23&t=31&band_rank=1&Refer=top)<br />
-2. [大妈误会卖肉老板中暑为其刮痧10分钟](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%A6%88%E8%AF%AF%E4%BC%9A%E5%8D%96%E8%82%89%E8%80%81%E6%9D%BF%E4%B8%AD%E6%9A%91%E4%B8%BA%E5%85%B6%E5%88%AE%E7%97%A710%E5%88%86%E9%92%9F%23&t=31&band_rank=2&Refer=top)<br />
+2. [涂山璟急得脚都好了](https://s.weibo.com/weibo?q=%23%E6%B6%82%E5%B1%B1%E7%92%9F%E6%80%A5%E5%BE%97%E8%84%9A%E9%83%BD%E5%A5%BD%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [断崖旁消防员用身躯做人墙保护孩子](https://s.weibo.com/weibo?q=%23%E6%96%AD%E5%B4%96%E6%97%81%E6%B6%88%E9%98%B2%E5%91%98%E7%94%A8%E8%BA%AB%E8%BA%AF%E5%81%9A%E4%BA%BA%E5%A2%99%E4%BF%9D%E6%8A%A4%E5%AD%A9%E5%AD%90%23&t=31&band_rank=3&Refer=top)<br />
-4. [涂山璟急得脚都好了](https://s.weibo.com/weibo?q=%23%E6%B6%82%E5%B1%B1%E7%92%9F%E6%80%A5%E5%BE%97%E8%84%9A%E9%83%BD%E5%A5%BD%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
-5. [400斤男子离世前这个举动令人泪目](https://s.weibo.com/weibo?q=%23400%E6%96%A4%E7%94%B7%E5%AD%90%E7%A6%BB%E4%B8%96%E5%89%8D%E8%BF%99%E4%B8%AA%E4%B8%BE%E5%8A%A8%E4%BB%A4%E4%BA%BA%E6%B3%AA%E7%9B%AE%23&t=31&band_rank=5&Refer=top)<br />
-6. [羽生结弦结婚前的舞蹈](https://s.weibo.com/weibo?q=%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E7%BB%93%E5%A9%9A%E5%89%8D%E7%9A%84%E8%88%9E%E8%B9%88&t=31&band_rank=6&Refer=top)<br />
-7. [K396乘客哭着感谢落坡岭居民](https://s.weibo.com/weibo?q=%23K396%E4%B9%98%E5%AE%A2%E5%93%AD%E7%9D%80%E6%84%9F%E8%B0%A2%E8%90%BD%E5%9D%A1%E5%B2%AD%E5%B1%85%E6%B0%91%23&t=31&band_rank=7&Refer=top)<br />
-8. [电影孤注一掷](https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E5%AD%A4%E6%B3%A8%E4%B8%80%E6%8E%B7%23&t=31&band_rank=8&Refer=top)<br />
-9. [王俊凯王源易烊千玺不热吗](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%8E%8B%E6%BA%90%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E4%B8%8D%E7%83%AD%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
+4. [羽生结弦结婚前的舞蹈](https://s.weibo.com/weibo?q=%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E7%BB%93%E5%A9%9A%E5%89%8D%E7%9A%84%E8%88%9E%E8%B9%88&t=31&band_rank=4&Refer=top)<br />
+5. [电影孤注一掷](https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E5%AD%A4%E6%B3%A8%E4%B8%80%E6%8E%B7%23&t=31&band_rank=5&Refer=top)<br />
+6. [王俊凯王源易烊千玺不热吗](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%8E%8B%E6%BA%90%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E4%B8%8D%E7%83%AD%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
+7. [大妈误会卖肉老板中暑为其刮痧10分钟](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%A6%88%E8%AF%AF%E4%BC%9A%E5%8D%96%E8%82%89%E8%80%81%E6%9D%BF%E4%B8%AD%E6%9A%91%E4%B8%BA%E5%85%B6%E5%88%AE%E7%97%A710%E5%88%86%E9%92%9F%23&t=31&band_rank=7&Refer=top)<br />
+8. [易烊千玺话筒涂鸦](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%AF%9D%E7%AD%92%E6%B6%82%E9%B8%A6%23&t=31&band_rank=8&Refer=top)<br />
+9. [饭后喝酸奶真的能促进消化吗](https://s.weibo.com/weibo?q=%23%E9%A5%AD%E5%90%8E%E5%96%9D%E9%85%B8%E5%A5%B6%E7%9C%9F%E7%9A%84%E8%83%BD%E4%BF%83%E8%BF%9B%E6%B6%88%E5%8C%96%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
