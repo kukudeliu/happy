@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-05 09:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-05 09:23:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [女法医留遗言我死了你们接着解剖我](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%B3%95%E5%8C%BB%E7%95%99%E9%81%97%E8%A8%80%E6%88%91%E6%AD%BB%E4%BA%86%E4%BD%A0%E4%BB%AC%E6%8E%A5%E7%9D%80%E8%A7%A3%E5%89%96%E6%88%91%23&t=31&band_rank=6&Refer=top)<br />
 7. [马立奥四岁父母仍在暧昧期](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E7%AB%8B%E5%A5%A5%E5%9B%9B%E5%B2%81%E7%88%B6%E6%AF%8D%E4%BB%8D%E5%9C%A8%E6%9A%A7%E6%98%A7%E6%9C%9F%23&t=31&band_rank=7&Refer=top)<br />
 8. [苏妲己 白月光](https://s.weibo.com/weibo?q=%E8%8B%8F%E5%A6%B2%E5%B7%B1%20%E7%99%BD%E6%9C%88%E5%85%89&t=31&band_rank=8&Refer=top)<br />
-9. [杨紫工作室招募令](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%B7%A5%E4%BD%9C%E5%AE%A4%E6%8B%9B%E5%8B%9F%E4%BB%A4%23&t=31&band_rank=9&Refer=top)<br />
+9. [莲花楼 所有女孩的自救](https://s.weibo.com/weibo?q=%E8%8E%B2%E8%8A%B1%E6%A5%BC%20%E6%89%80%E6%9C%89%E5%A5%B3%E5%AD%A9%E7%9A%84%E8%87%AA%E6%95%91&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
