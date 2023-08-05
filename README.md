@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-05 13:13:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-05 13:14:01</h4></div>
 
 > 微博  
 
@@ -23,9 +23,9 @@
 4. [我们如何应对极端天气](https://www.baidu.com/s?wd=%E6%88%91%E4%BB%AC%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%E6%9E%81%E7%AB%AF%E5%A4%A9%E6%B0%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女孩租房开2小时空调用完100元电费](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E7%A7%9F%E6%88%BF%E5%BC%802%E5%B0%8F%E6%97%B6%E7%A9%BA%E8%B0%83%E7%94%A8%E5%AE%8C100%E5%85%83%E7%94%B5%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [#羽生结弦宣布结婚#](https://www.baidu.com/s?wd=%23%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E5%AE%A3%E5%B8%83%E7%BB%93%E5%A9%9A%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [纽约爆发骚乱：人群向警方投掷石块](https://www.baidu.com/s?wd=%E7%BA%BD%E7%BA%A6%E7%88%86%E5%8F%91%E9%AA%9A%E4%B9%B1%EF%BC%9A%E4%BA%BA%E7%BE%A4%E5%90%91%E8%AD%A6%E6%96%B9%E6%8A%95%E6%8E%B7%E7%9F%B3%E5%9D%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [河北一地居民索要30万撤离费](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E4%B8%80%E5%9C%B0%E5%B1%85%E6%B0%91%E7%B4%A2%E8%A6%8130%E4%B8%87%E6%92%A4%E7%A6%BB%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [专家称投降式睡姿弊大于利](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%8A%95%E9%99%8D%E5%BC%8F%E7%9D%A1%E5%A7%BF%E5%BC%8A%E5%A4%A7%E4%BA%8E%E5%88%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [河北一地居民索要30万撤离费](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E4%B8%80%E5%9C%B0%E5%B1%85%E6%B0%91%E7%B4%A2%E8%A6%8130%E4%B8%87%E6%92%A4%E7%A6%BB%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [专家称投降式睡姿弊大于利](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%8A%95%E9%99%8D%E5%BC%8F%E7%9D%A1%E5%A7%BF%E5%BC%8A%E5%A4%A7%E4%BA%8E%E5%88%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [俄军4000吨级军舰剧烈爆炸](https://www.baidu.com/s?wd=%E4%BF%84%E5%86%9B4000%E5%90%A8%E7%BA%A7%E5%86%9B%E8%88%B0%E5%89%A7%E7%83%88%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -35,6 +35,6 @@
 4. [我们如何应对极端天气](https://www.baidu.com/s?wd=%E6%88%91%E4%BB%AC%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%E6%9E%81%E7%AB%AF%E5%A4%A9%E6%B0%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女孩租房开2小时空调用完100元电费](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E7%A7%9F%E6%88%BF%E5%BC%802%E5%B0%8F%E6%97%B6%E7%A9%BA%E8%B0%83%E7%94%A8%E5%AE%8C100%E5%85%83%E7%94%B5%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [#羽生结弦宣布结婚#](https://www.baidu.com/s?wd=%23%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E5%AE%A3%E5%B8%83%E7%BB%93%E5%A9%9A%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [纽约爆发骚乱：人群向警方投掷石块](https://www.baidu.com/s?wd=%E7%BA%BD%E7%BA%A6%E7%88%86%E5%8F%91%E9%AA%9A%E4%B9%B1%EF%BC%9A%E4%BA%BA%E7%BE%A4%E5%90%91%E8%AD%A6%E6%96%B9%E6%8A%95%E6%8E%B7%E7%9F%B3%E5%9D%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [河北一地居民索要30万撤离费](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E4%B8%80%E5%9C%B0%E5%B1%85%E6%B0%91%E7%B4%A2%E8%A6%8130%E4%B8%87%E6%92%A4%E7%A6%BB%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [专家称投降式睡姿弊大于利](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%8A%95%E9%99%8D%E5%BC%8F%E7%9D%A1%E5%A7%BF%E5%BC%8A%E5%A4%A7%E4%BA%8E%E5%88%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [河北一地居民索要30万撤离费](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E4%B8%80%E5%9C%B0%E5%B1%85%E6%B0%91%E7%B4%A2%E8%A6%8130%E4%B8%87%E6%92%A4%E7%A6%BB%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [专家称投降式睡姿弊大于利](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%8A%95%E9%99%8D%E5%BC%8F%E7%9D%A1%E5%A7%BF%E5%BC%8A%E5%A4%A7%E4%BA%8E%E5%88%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [俄军4000吨级军舰剧烈爆炸](https://www.baidu.com/s?wd=%E4%BF%84%E5%86%9B4000%E5%90%A8%E7%BA%A7%E5%86%9B%E8%88%B0%E5%89%A7%E7%83%88%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
