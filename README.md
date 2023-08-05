@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-05 17:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-05 17:24:01</h4></div>
 
 > 微博  
 
@@ -23,9 +23,9 @@
 4. [K396次脱险纪实](https://www.baidu.com/s?wd=K396%E6%AC%A1%E8%84%B1%E9%99%A9%E7%BA%AA%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [河北保定因灾死亡10人失联18人](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E4%BF%9D%E5%AE%9A%E5%9B%A0%E7%81%BE%E6%AD%BB%E4%BA%A110%E4%BA%BA%E5%A4%B1%E8%81%9418%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [TFBOYS演唱会前夕 公安提醒理智追星](https://www.baidu.com/s?wd=TFBOYS%E6%BC%94%E5%94%B1%E4%BC%9A%E5%89%8D%E5%A4%95+%E5%85%AC%E5%AE%89%E6%8F%90%E9%86%92%E7%90%86%E6%99%BA%E8%BF%BD%E6%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [李嘉诚7折抛售房产](https://www.baidu.com/s?wd=%E6%9D%8E%E5%98%89%E8%AF%9A7%E6%8A%98%E6%8A%9B%E5%94%AE%E6%88%BF%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [妻子误拿302胶水当眼药水给丈夫](https://www.baidu.com/s?wd=%E5%A6%BB%E5%AD%90%E8%AF%AF%E6%8B%BF302%E8%83%B6%E6%B0%B4%E5%BD%93%E7%9C%BC%E8%8D%AF%E6%B0%B4%E7%BB%99%E4%B8%88%E5%A4%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [俄军4000吨级军舰剧烈爆炸](https://www.baidu.com/s?wd=%E4%BF%84%E5%86%9B4000%E5%90%A8%E7%BA%A7%E5%86%9B%E8%88%B0%E5%89%A7%E7%83%88%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [妻子误拿302胶水当眼药水给丈夫](https://www.baidu.com/s?wd=%E5%A6%BB%E5%AD%90%E8%AF%AF%E6%8B%BF302%E8%83%B6%E6%B0%B4%E5%BD%93%E7%9C%BC%E8%8D%AF%E6%B0%B4%E7%BB%99%E4%B8%88%E5%A4%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [李嘉诚7折抛售房产](https://www.baidu.com/s?wd=%E6%9D%8E%E5%98%89%E8%AF%9A7%E6%8A%98%E6%8A%9B%E5%94%AE%E6%88%BF%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女孩租房开2小时空调用完100元电费](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E7%A7%9F%E6%88%BF%E5%BC%802%E5%B0%8F%E6%97%B6%E7%A9%BA%E8%B0%83%E7%94%A8%E5%AE%8C100%E5%85%83%E7%94%B5%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -35,6 +35,6 @@
 4. [K396次脱险纪实](https://www.baidu.com/s?wd=K396%E6%AC%A1%E8%84%B1%E9%99%A9%E7%BA%AA%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [河北保定因灾死亡10人失联18人](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E4%BF%9D%E5%AE%9A%E5%9B%A0%E7%81%BE%E6%AD%BB%E4%BA%A110%E4%BA%BA%E5%A4%B1%E8%81%9418%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [TFBOYS演唱会前夕 公安提醒理智追星](https://www.baidu.com/s?wd=TFBOYS%E6%BC%94%E5%94%B1%E4%BC%9A%E5%89%8D%E5%A4%95+%E5%85%AC%E5%AE%89%E6%8F%90%E9%86%92%E7%90%86%E6%99%BA%E8%BF%BD%E6%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [李嘉诚7折抛售房产](https://www.baidu.com/s?wd=%E6%9D%8E%E5%98%89%E8%AF%9A7%E6%8A%98%E6%8A%9B%E5%94%AE%E6%88%BF%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [妻子误拿302胶水当眼药水给丈夫](https://www.baidu.com/s?wd=%E5%A6%BB%E5%AD%90%E8%AF%AF%E6%8B%BF302%E8%83%B6%E6%B0%B4%E5%BD%93%E7%9C%BC%E8%8D%AF%E6%B0%B4%E7%BB%99%E4%B8%88%E5%A4%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [俄军4000吨级军舰剧烈爆炸](https://www.baidu.com/s?wd=%E4%BF%84%E5%86%9B4000%E5%90%A8%E7%BA%A7%E5%86%9B%E8%88%B0%E5%89%A7%E7%83%88%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [妻子误拿302胶水当眼药水给丈夫](https://www.baidu.com/s?wd=%E5%A6%BB%E5%AD%90%E8%AF%AF%E6%8B%BF302%E8%83%B6%E6%B0%B4%E5%BD%93%E7%9C%BC%E8%8D%AF%E6%B0%B4%E7%BB%99%E4%B8%88%E5%A4%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [李嘉诚7折抛售房产](https://www.baidu.com/s?wd=%E6%9D%8E%E5%98%89%E8%AF%9A7%E6%8A%98%E6%8A%9B%E5%94%AE%E6%88%BF%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女孩租房开2小时空调用完100元电费](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E7%A7%9F%E6%88%BF%E5%BC%802%E5%B0%8F%E6%97%B6%E7%A9%BA%E8%B0%83%E7%94%A8%E5%AE%8C100%E5%85%83%E7%94%B5%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
