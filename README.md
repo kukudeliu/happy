@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-06 03:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-06 03:23:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [山东平原5.5级地震](https://s.weibo.com/weibo?q=%E5%B1%B1%E4%B8%9C%E5%B9%B3%E5%8E%9F5.5%E7%BA%A7%E5%9C%B0%E9%9C%87&t=31&band_rank=6&Refer=top)<br />
 7. [地震预警](https://s.weibo.com/weibo?q=%E5%9C%B0%E9%9C%87%E9%A2%84%E8%AD%A6&t=31&band_rank=7&Refer=top)<br />
 8. [河北震感](https://s.weibo.com/weibo?q=%E6%B2%B3%E5%8C%97%E9%9C%87%E6%84%9F&t=31&band_rank=8&Refer=top)<br />
-9. [德州地震](https://s.weibo.com/weibo?q=%E5%BE%B7%E5%B7%9E%E5%9C%B0%E9%9C%87&t=31&band_rank=9&Refer=top)<br />
+9. [余震](https://s.weibo.com/weibo?q=%E4%BD%99%E9%9C%87&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
