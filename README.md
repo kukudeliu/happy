@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-05 16:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-05 16:14:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [TFBOYS十周年彩排现场惊现花轿](https://www.baidu.com/s?wd=TFBOYS%E5%8D%81%E5%91%A8%E5%B9%B4%E5%BD%A9%E6%8E%92%E7%8E%B0%E5%9C%BA%E6%83%8A%E7%8E%B0%E8%8A%B1%E8%BD%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女孩租房开2小时空调用完100元电费](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E7%A7%9F%E6%88%BF%E5%BC%802%E5%B0%8F%E6%97%B6%E7%A9%BA%E8%B0%83%E7%94%A8%E5%AE%8C100%E5%85%83%E7%94%B5%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [新华网评价巨齿鲨2](https://www.baidu.com/s?wd=%E6%96%B0%E5%8D%8E%E7%BD%91%E8%AF%84%E4%BB%B7%E5%B7%A8%E9%BD%BF%E9%B2%A82&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [知名华人企业家在美国酒店身亡](https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E5%8D%8E%E4%BA%BA%E4%BC%81%E4%B8%9A%E5%AE%B6%E5%9C%A8%E7%BE%8E%E5%9B%BD%E9%85%92%E5%BA%97%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [台风将树连根拔起 鸭群却纹丝不动](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E5%B0%86%E6%A0%91%E8%BF%9E%E6%A0%B9%E6%8B%94%E8%B5%B7+%E9%B8%AD%E7%BE%A4%E5%8D%B4%E7%BA%B9%E4%B8%9D%E4%B8%8D%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [TFBOYS十周年彩排现场惊现花轿](https://www.baidu.com/s?wd=TFBOYS%E5%8D%81%E5%91%A8%E5%B9%B4%E5%BD%A9%E6%8E%92%E7%8E%B0%E5%9C%BA%E6%83%8A%E7%8E%B0%E8%8A%B1%E8%BD%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女孩租房开2小时空调用完100元电费](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E7%A7%9F%E6%88%BF%E5%BC%802%E5%B0%8F%E6%97%B6%E7%A9%BA%E8%B0%83%E7%94%A8%E5%AE%8C100%E5%85%83%E7%94%B5%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [新华网评价巨齿鲨2](https://www.baidu.com/s?wd=%E6%96%B0%E5%8D%8E%E7%BD%91%E8%AF%84%E4%BB%B7%E5%B7%A8%E9%BD%BF%E9%B2%A82&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [知名华人企业家在美国酒店身亡](https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E5%8D%8E%E4%BA%BA%E4%BC%81%E4%B8%9A%E5%AE%B6%E5%9C%A8%E7%BE%8E%E5%9B%BD%E9%85%92%E5%BA%97%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [台风将树连根拔起 鸭群却纹丝不动](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E5%B0%86%E6%A0%91%E8%BF%9E%E6%A0%B9%E6%8B%94%E8%B5%B7+%E9%B8%AD%E7%BE%A4%E5%8D%B4%E7%BA%B9%E4%B8%9D%E4%B8%8D%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
