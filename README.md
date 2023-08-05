@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-05 11:11:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-05 11:12:01</h4></div>
 
 > 微博  
 
-1. [TFBOYS新歌明天见](https://s.weibo.com/weibo?q=%23TFBOYS%E6%96%B0%E6%AD%8C%E6%98%8E%E5%A4%A9%E8%A7%81%23&t=31&band_rank=1&Refer=top)<br />
-2. [为什么十年之约只能在西安办](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8D%81%E5%B9%B4%E4%B9%8B%E7%BA%A6%E5%8F%AA%E8%83%BD%E5%9C%A8%E8%A5%BF%E5%AE%89%E5%8A%9E%23&t=31&band_rank=2&Refer=top)<br />
+1. [为什么十年之约只能在西安办](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8D%81%E5%B9%B4%E4%B9%8B%E7%BA%A6%E5%8F%AA%E8%83%BD%E5%9C%A8%E8%A5%BF%E5%AE%89%E5%8A%9E%23&t=31&band_rank=1&Refer=top)<br />
+2. [TFBOYS新歌明天见](https://s.weibo.com/weibo?q=%23TFBOYS%E6%96%B0%E6%AD%8C%E6%98%8E%E5%A4%A9%E8%A7%81%23&t=31&band_rank=2&Refer=top)<br />
 3. [英雄就是我们身边的平凡人](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E5%B0%B1%E6%98%AF%E6%88%91%E4%BB%AC%E8%BA%AB%E8%BE%B9%E7%9A%84%E5%B9%B3%E5%87%A1%E4%BA%BA%23&t=31&band_rank=3&Refer=top)<br />
 4. [女孩租房开2小时空调用完100元电费](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E7%A7%9F%E6%88%BF%E5%BC%802%E5%B0%8F%E6%97%B6%E7%A9%BA%E8%B0%83%E7%94%A8%E5%AE%8C100%E5%85%83%E7%94%B5%E8%B4%B9%23&t=31&band_rank=4&Refer=top)<br />
 5. [沈梦辰听到林允吐了的反应](https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%A2%A6%E8%BE%B0%E5%90%AC%E5%88%B0%E6%9E%97%E5%85%81%E5%90%90%E4%BA%86%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=5&Refer=top)<br />
