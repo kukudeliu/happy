@@ -1,8 +1,8 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-06 03:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-06 03:02:01</h4></div>
 
 > 微博  
 
-1. [山东地震](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E5%9C%B0%E9%9C%87%23&t=31&band_rank=1&Refer=top)<br />
+1. [山东地震](https://s.weibo.com/weibo?q=%E5%B1%B1%E4%B8%9C%E5%9C%B0%E9%9C%87&t=31&band_rank=1&Refer=top)<br />
 2. [北京震感](https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E9%9C%87%E6%84%9F&t=31&band_rank=2&Refer=top)<br />
 3. [大运会又一个显眼包出现了](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%BF%90%E4%BC%9A%E5%8F%88%E4%B8%80%E4%B8%AA%E6%98%BE%E7%9C%BC%E5%8C%85%E5%87%BA%E7%8E%B0%E4%BA%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [济南震感](https://s.weibo.com/weibo?q=%E6%B5%8E%E5%8D%97%E9%9C%87%E6%84%9F&t=31&band_rank=4&Refer=top)<br />
