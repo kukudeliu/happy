@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-05 09:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-05 09:57:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [暑假工25天挣三千多什么水平](https://s.weibo.com/weibo?q=%23%E6%9A%91%E5%81%87%E5%B7%A525%E5%A4%A9%E6%8C%A3%E4%B8%89%E5%8D%83%E5%A4%9A%E4%BB%80%E4%B9%88%E6%B0%B4%E5%B9%B3%23&t=31&band_rank=6&Refer=top)<br />
 7. [女法医留遗言我死了你们接着解剖我](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%B3%95%E5%8C%BB%E7%95%99%E9%81%97%E8%A8%80%E6%88%91%E6%AD%BB%E4%BA%86%E4%BD%A0%E4%BB%AC%E6%8E%A5%E7%9D%80%E8%A7%A3%E5%89%96%E6%88%91%23&t=31&band_rank=7&Refer=top)<br />
 8. [马立奥四岁父母仍在暧昧期](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E7%AB%8B%E5%A5%A5%E5%9B%9B%E5%B2%81%E7%88%B6%E6%AF%8D%E4%BB%8D%E5%9C%A8%E6%9A%A7%E6%98%A7%E6%9C%9F%23&t=31&band_rank=8&Refer=top)<br />
-9. [河南近百亿灾后重建资金出问题](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E8%BF%91%E7%99%BE%E4%BA%BF%E7%81%BE%E5%90%8E%E9%87%8D%E5%BB%BA%E8%B5%84%E9%87%91%E5%87%BA%E9%97%AE%E9%A2%98%23&t=31&band_rank=9&Refer=top)<br />
+9. [姬发 伯邑考](https://s.weibo.com/weibo?q=%E5%A7%AC%E5%8F%91%20%E4%BC%AF%E9%82%91%E8%80%83&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
