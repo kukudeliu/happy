@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-05 16:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-05 16:17:01</h4></div>
 
 > 微博  
 
@@ -17,10 +17,10 @@
 
 > 百度  
 
-1. [政策效果显现 有力推动经济向好](https://www.baidu.com/s?wd=%E6%94%BF%E7%AD%96%E6%95%88%E6%9E%9C%E6%98%BE%E7%8E%B0+%E6%9C%89%E5%8A%9B%E6%8E%A8%E5%8A%A8%E7%BB%8F%E6%B5%8E%E5%90%91%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [共赴青春之约](https://www.baidu.com/s?wd=%E5%85%B1%E8%B5%B4%E9%9D%92%E6%98%A5%E4%B9%8B%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [2名救援人员牺牲 最后说把游泳圈套上](https://www.baidu.com/s?wd=2%E5%90%8D%E6%95%91%E6%8F%B4%E4%BA%BA%E5%91%98%E7%89%BA%E7%89%B2+%E6%9C%80%E5%90%8E%E8%AF%B4%E6%8A%8A%E6%B8%B8%E6%B3%B3%E5%9C%88%E5%A5%97%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [网友在驰援河北队伍偶遇王宝强](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%9C%A8%E9%A9%B0%E6%8F%B4%E6%B2%B3%E5%8C%97%E9%98%9F%E4%BC%8D%E5%81%B6%E9%81%87%E7%8E%8B%E5%AE%9D%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [我们如何应对极端天气](https://www.baidu.com/s?wd=%E6%88%91%E4%BB%AC%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%E6%9E%81%E7%AB%AF%E5%A4%A9%E6%B0%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [K396次脱险纪实](https://www.baidu.com/s?wd=K396%E6%AC%A1%E8%84%B1%E9%99%A9%E7%BA%AA%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [小杨哥回应捐款2000万为抵税](https://www.baidu.com/s?wd=%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%9B%9E%E5%BA%94%E6%8D%90%E6%AC%BE2000%E4%B8%87%E4%B8%BA%E6%8A%B5%E7%A8%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [TFBOYS十周年彩排现场惊现花轿](https://www.baidu.com/s?wd=TFBOYS%E5%8D%81%E5%91%A8%E5%B9%B4%E5%BD%A9%E6%8E%92%E7%8E%B0%E5%9C%BA%E6%83%8A%E7%8E%B0%E8%8A%B1%E8%BD%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女孩租房开2小时空调用完100元电费](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E7%A7%9F%E6%88%BF%E5%BC%802%E5%B0%8F%E6%97%B6%E7%A9%BA%E8%B0%83%E7%94%A8%E5%AE%8C100%E5%85%83%E7%94%B5%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,10 +29,10 @@
 
 > 哔哩哔哩  
 
-1. [政策效果显现 有力推动经济向好](https://www.baidu.com/s?wd=%E6%94%BF%E7%AD%96%E6%95%88%E6%9E%9C%E6%98%BE%E7%8E%B0+%E6%9C%89%E5%8A%9B%E6%8E%A8%E5%8A%A8%E7%BB%8F%E6%B5%8E%E5%90%91%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [共赴青春之约](https://www.baidu.com/s?wd=%E5%85%B1%E8%B5%B4%E9%9D%92%E6%98%A5%E4%B9%8B%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [2名救援人员牺牲 最后说把游泳圈套上](https://www.baidu.com/s?wd=2%E5%90%8D%E6%95%91%E6%8F%B4%E4%BA%BA%E5%91%98%E7%89%BA%E7%89%B2+%E6%9C%80%E5%90%8E%E8%AF%B4%E6%8A%8A%E6%B8%B8%E6%B3%B3%E5%9C%88%E5%A5%97%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [网友在驰援河北队伍偶遇王宝强](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%9C%A8%E9%A9%B0%E6%8F%B4%E6%B2%B3%E5%8C%97%E9%98%9F%E4%BC%8D%E5%81%B6%E9%81%87%E7%8E%8B%E5%AE%9D%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [我们如何应对极端天气](https://www.baidu.com/s?wd=%E6%88%91%E4%BB%AC%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%E6%9E%81%E7%AB%AF%E5%A4%A9%E6%B0%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [K396次脱险纪实](https://www.baidu.com/s?wd=K396%E6%AC%A1%E8%84%B1%E9%99%A9%E7%BA%AA%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [小杨哥回应捐款2000万为抵税](https://www.baidu.com/s?wd=%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%9B%9E%E5%BA%94%E6%8D%90%E6%AC%BE2000%E4%B8%87%E4%B8%BA%E6%8A%B5%E7%A8%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [TFBOYS十周年彩排现场惊现花轿](https://www.baidu.com/s?wd=TFBOYS%E5%8D%81%E5%91%A8%E5%B9%B4%E5%BD%A9%E6%8E%92%E7%8E%B0%E5%9C%BA%E6%83%8A%E7%8E%B0%E8%8A%B1%E8%BD%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女孩租房开2小时空调用完100元电费](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E7%A7%9F%E6%88%BF%E5%BC%802%E5%B0%8F%E6%97%B6%E7%A9%BA%E8%B0%83%E7%94%A8%E5%AE%8C100%E5%85%83%E7%94%B5%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
