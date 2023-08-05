@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-05 22:14:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-05 22:15:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [中国驻韩大使馆提醒公民注意安全](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A9%BB%E9%9F%A9%E5%A4%A7%E4%BD%BF%E9%A6%86%E6%8F%90%E9%86%92%E5%85%AC%E6%B0%91%E6%B3%A8%E6%84%8F%E5%AE%89%E5%85%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [俄军4000吨级军舰剧烈爆炸](https://www.baidu.com/s?wd=%E4%BF%84%E5%86%9B4000%E5%90%A8%E7%BA%A7%E5%86%9B%E8%88%B0%E5%89%A7%E7%83%88%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [小杨哥回应捐款2000万为抵税](https://www.baidu.com/s?wd=%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%9B%9E%E5%BA%94%E6%8D%90%E6%AC%BE2000%E4%B8%87%E4%B8%BA%E6%8A%B5%E7%A8%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [大妈误以老板中暑为其刮痧10分钟](https://www.baidu.com/s?wd=%E5%A4%A7%E5%A6%88%E8%AF%AF%E4%BB%A5%E8%80%81%E6%9D%BF%E4%B8%AD%E6%9A%91%E4%B8%BA%E5%85%B6%E5%88%AE%E7%97%A710%E5%88%86%E9%92%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [知名华人企业家在美国酒店身亡](https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E5%8D%8E%E4%BA%BA%E4%BC%81%E4%B8%9A%E5%AE%B6%E5%9C%A8%E7%BE%8E%E5%9B%BD%E9%85%92%E5%BA%97%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [中国驻韩大使馆提醒公民注意安全](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A9%BB%E9%9F%A9%E5%A4%A7%E4%BD%BF%E9%A6%86%E6%8F%90%E9%86%92%E5%85%AC%E6%B0%91%E6%B3%A8%E6%84%8F%E5%AE%89%E5%85%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [俄军4000吨级军舰剧烈爆炸](https://www.baidu.com/s?wd=%E4%BF%84%E5%86%9B4000%E5%90%A8%E7%BA%A7%E5%86%9B%E8%88%B0%E5%89%A7%E7%83%88%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [小杨哥回应捐款2000万为抵税](https://www.baidu.com/s?wd=%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%9B%9E%E5%BA%94%E6%8D%90%E6%AC%BE2000%E4%B8%87%E4%B8%BA%E6%8A%B5%E7%A8%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [大妈误以老板中暑为其刮痧10分钟](https://www.baidu.com/s?wd=%E5%A4%A7%E5%A6%88%E8%AF%AF%E4%BB%A5%E8%80%81%E6%9D%BF%E4%B8%AD%E6%9A%91%E4%B8%BA%E5%85%B6%E5%88%AE%E7%97%A710%E5%88%86%E9%92%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [知名华人企业家在美国酒店身亡](https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E5%8D%8E%E4%BA%BA%E4%BC%81%E4%B8%9A%E5%AE%B6%E5%9C%A8%E7%BE%8E%E5%9B%BD%E9%85%92%E5%BA%97%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
