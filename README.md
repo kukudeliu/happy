@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-06 00:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-06 00:53:02</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [王俊凯王源易烊千玺怎么不笑了](https://www.baidu.com/s?wd=%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%8E%8B%E6%BA%90%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%80%8E%E4%B9%88%E4%B8%8D%E7%AC%91%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [王鹤棣再次错过迪丽热巴](https://www.baidu.com/s?wd=%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%86%8D%E6%AC%A1%E9%94%99%E8%BF%87%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [海南省纪委干部被举报放高利贷](https://www.baidu.com/s?wd=%E6%B5%B7%E5%8D%97%E7%9C%81%E7%BA%AA%E5%A7%94%E5%B9%B2%E9%83%A8%E8%A2%AB%E4%B8%BE%E6%8A%A5%E6%94%BE%E9%AB%98%E5%88%A9%E8%B4%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [大妈误以老板中暑为其刮痧10分钟](https://www.baidu.com/s?wd=%E5%A4%A7%E5%A6%88%E8%AF%AF%E4%BB%A5%E8%80%81%E6%9D%BF%E4%B8%AD%E6%9A%91%E4%B8%BA%E5%85%B6%E5%88%AE%E7%97%A710%E5%88%86%E9%92%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [高能耗空调是不是都装出租屋里了](https://www.baidu.com/s?wd=%E9%AB%98%E8%83%BD%E8%80%97%E7%A9%BA%E8%B0%83%E6%98%AF%E4%B8%8D%E6%98%AF%E9%83%BD%E8%A3%85%E5%87%BA%E7%A7%9F%E5%B1%8B%E9%87%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [王俊凯王源易烊千玺怎么不笑了](https://www.baidu.com/s?wd=%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%8E%8B%E6%BA%90%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%80%8E%E4%B9%88%E4%B8%8D%E7%AC%91%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [王鹤棣再次错过迪丽热巴](https://www.baidu.com/s?wd=%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%86%8D%E6%AC%A1%E9%94%99%E8%BF%87%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [海南省纪委干部被举报放高利贷](https://www.baidu.com/s?wd=%E6%B5%B7%E5%8D%97%E7%9C%81%E7%BA%AA%E5%A7%94%E5%B9%B2%E9%83%A8%E8%A2%AB%E4%B8%BE%E6%8A%A5%E6%94%BE%E9%AB%98%E5%88%A9%E8%B4%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [大妈误以老板中暑为其刮痧10分钟](https://www.baidu.com/s?wd=%E5%A4%A7%E5%A6%88%E8%AF%AF%E4%BB%A5%E8%80%81%E6%9D%BF%E4%B8%AD%E6%9A%91%E4%B8%BA%E5%85%B6%E5%88%AE%E7%97%A710%E5%88%86%E9%92%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [高能耗空调是不是都装出租屋里了](https://www.baidu.com/s?wd=%E9%AB%98%E8%83%BD%E8%80%97%E7%A9%BA%E8%B0%83%E6%98%AF%E4%B8%8D%E6%98%AF%E9%83%BD%E8%A3%85%E5%87%BA%E7%A7%9F%E5%B1%8B%E9%87%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
