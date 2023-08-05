@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-06 01:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-06 01:56:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [封神海报妲己穿纣王衣服](https://s.weibo.com/weibo?q=%E5%B0%81%E7%A5%9E%E6%B5%B7%E6%8A%A5%E5%A6%B2%E5%B7%B1%E7%A9%BF%E7%BA%A3%E7%8E%8B%E8%A1%A3%E6%9C%8D&t=31&band_rank=6&Refer=top)<br />
 7. [她们干了我小时候想干不敢干的事](https://s.weibo.com/weibo?q=%E5%A5%B9%E4%BB%AC%E5%B9%B2%E4%BA%86%E6%88%91%E5%B0%8F%E6%97%B6%E5%80%99%E6%83%B3%E5%B9%B2%E4%B8%8D%E6%95%A2%E5%B9%B2%E7%9A%84%E4%BA%8B&t=31&band_rank=7&Refer=top)<br />
 8. [茶颜悦色不支持点单取单两人同时排队](https://s.weibo.com/weibo?q=%23%E8%8C%B6%E9%A2%9C%E6%82%A6%E8%89%B2%E4%B8%8D%E6%94%AF%E6%8C%81%E7%82%B9%E5%8D%95%E5%8F%96%E5%8D%95%E4%B8%A4%E4%BA%BA%E5%90%8C%E6%97%B6%E6%8E%92%E9%98%9F%23&t=31&band_rank=8&Refer=top)<br />
-9. [舒兰失联副市长上一线指挥防汛是工作常态](https://s.weibo.com/weibo?q=%23%E8%88%92%E5%85%B0%E5%A4%B1%E8%81%94%E5%89%AF%E5%B8%82%E9%95%BF%E4%B8%8A%E4%B8%80%E7%BA%BF%E6%8C%87%E6%8C%A5%E9%98%B2%E6%B1%9B%E6%98%AF%E5%B7%A5%E4%BD%9C%E5%B8%B8%E6%80%81%23&t=31&band_rank=9&Refer=top)<br />
+9. [这是尊嘟假嘟 这是我微信余额](https://s.weibo.com/weibo?q=%E8%BF%99%E6%98%AF%E5%B0%8A%E5%98%9F%E5%81%87%E5%98%9F%20%E8%BF%99%E6%98%AF%E6%88%91%E5%BE%AE%E4%BF%A1%E4%BD%99%E9%A2%9D&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
