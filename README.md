@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-06 21:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-06 21:01:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [直到25岁我才真正读完了中学](https://s.weibo.com/weibo?q=%23%E7%9B%B4%E5%88%B025%E5%B2%81%E6%88%91%E6%89%8D%E7%9C%9F%E6%AD%A3%E8%AF%BB%E5%AE%8C%E4%BA%86%E4%B8%AD%E5%AD%A6%23&t=31&band_rank=6&Refer=top)<br />
 7. [EDG](https://s.weibo.com/weibo?q=EDG&t=31&band_rank=7&Refer=top)<br />
 8. [大运会中国女排vs日本女排](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%BF%90%E4%BC%9A%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92vs%E6%97%A5%E6%9C%AC%E5%A5%B3%E6%8E%92%23&t=31&band_rank=8&Refer=top)<br />
-9. [大妈踩在丹霞地貌上疯狂拍照](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%A6%88%E8%B8%A9%E5%9C%A8%E4%B8%B9%E9%9C%9E%E5%9C%B0%E8%B2%8C%E4%B8%8A%E7%96%AF%E7%8B%82%E6%8B%8D%E7%85%A7%23&t=31&band_rank=9&Refer=top)<br />
+9. [张远破音](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%BF%9C%E7%A0%B4%E9%9F%B3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
