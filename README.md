@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-06 21:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-06 21:25:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [青春修炼手册开场](https://s.weibo.com/weibo?q=%23%E9%9D%92%E6%98%A5%E4%BF%AE%E7%82%BC%E6%89%8B%E5%86%8C%E5%BC%80%E5%9C%BA%23&t=31&band_rank=4&Refer=top)<br />
 5. [直到25岁我才真正读完了中学](https://s.weibo.com/weibo?q=%23%E7%9B%B4%E5%88%B025%E5%B2%81%E6%88%91%E6%89%8D%E7%9C%9F%E6%AD%A3%E8%AF%BB%E5%AE%8C%E4%BA%86%E4%B8%AD%E5%AD%A6%23&t=31&band_rank=5&Refer=top)<br />
 6. [Uzi](https://s.weibo.com/weibo?q=Uzi&t=31&band_rank=6&Refer=top)<br />
-7. [易烊千玺不收王传君版权费](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E4%B8%8D%E6%94%B6%E7%8E%8B%E4%BC%A0%E5%90%9B%E7%89%88%E6%9D%83%E8%B4%B9%23&t=31&band_rank=7&Refer=top)<br />
-8. [杨紫是懂断更的](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E6%98%AF%E6%87%82%E6%96%AD%E6%9B%B4%E7%9A%84%23&t=31&band_rank=8&Refer=top)<br />
+7. [杨紫是懂断更的](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E6%98%AF%E6%87%82%E6%96%AD%E6%9B%B4%E7%9A%84%23&t=31&band_rank=7&Refer=top)<br />
+8. [易烊千玺不收王传君版权费](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E4%B8%8D%E6%94%B6%E7%8E%8B%E4%BC%A0%E5%90%9B%E7%89%88%E6%9D%83%E8%B4%B9%23&t=31&band_rank=8&Refer=top)<br />
 9. [大运会中国女排vs日本女排](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%BF%90%E4%BC%9A%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92vs%E6%97%A5%E6%9C%AC%E5%A5%B3%E6%8E%92%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
