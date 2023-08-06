@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-06 14:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-06 14:33:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [内娱不可复制的成功](https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E4%B8%8D%E5%8F%AF%E5%A4%8D%E5%88%B6%E7%9A%84%E6%88%90%E5%8A%9F%23&t=31&band_rank=5&Refer=top)<br />
 6. [是今天晚安不是明年见](https://s.weibo.com/weibo?q=%23%E6%98%AF%E4%BB%8A%E5%A4%A9%E6%99%9A%E5%AE%89%E4%B8%8D%E6%98%AF%E6%98%8E%E5%B9%B4%E8%A7%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [韩国女高中生去小区理发店烫刘海](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E5%A5%B3%E9%AB%98%E4%B8%AD%E7%94%9F%E5%8E%BB%E5%B0%8F%E5%8C%BA%E7%90%86%E5%8F%91%E5%BA%97%E7%83%AB%E5%88%98%E6%B5%B7&t=31&band_rank=7&Refer=top)<br />
-8. [山东地震](https://s.weibo.com/weibo?q=%E5%B1%B1%E4%B8%9C%E5%9C%B0%E9%9C%87&t=31&band_rank=8&Refer=top)<br />
-9. [孤注一掷票房](https://s.weibo.com/weibo?q=%23%E5%AD%A4%E6%B3%A8%E4%B8%80%E6%8E%B7%E7%A5%A8%E6%88%BF%23&t=31&band_rank=9&Refer=top)<br />
+8. [孤注一掷票房](https://s.weibo.com/weibo?q=%23%E5%AD%A4%E6%B3%A8%E4%B8%80%E6%8E%B7%E7%A5%A8%E6%88%BF%23&t=31&band_rank=8&Refer=top)<br />
+9. [山东地震](https://s.weibo.com/weibo?q=%E5%B1%B1%E4%B8%9C%E5%9C%B0%E9%9C%87&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
