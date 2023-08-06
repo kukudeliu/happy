@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-06 08:44:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-06 08:45:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [震中现场](https://s.weibo.com/weibo?q=%23%E9%9C%87%E4%B8%AD%E7%8E%B0%E5%9C%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [全红婵世界杯总决赛银牌](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E4%B8%96%E7%95%8C%E6%9D%AF%E6%80%BB%E5%86%B3%E8%B5%9B%E9%93%B6%E7%89%8C%23&t=31&band_rank=7&Refer=top)<br />
 8. [薛之谦祝TFBOYS演唱会圆满成功](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E7%A5%9DTFBOYS%E6%BC%94%E5%94%B1%E4%BC%9A%E5%9C%86%E6%BB%A1%E6%88%90%E5%8A%9F%23&t=31&band_rank=8&Refer=top)<br />
-9. [山东地震21人受伤](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E5%9C%B0%E9%9C%8721%E4%BA%BA%E5%8F%97%E4%BC%A4%23&t=31&band_rank=9&Refer=top)<br />
+9. [日本男子吃白饭咸菜20年存467万](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%94%B7%E5%AD%90%E5%90%83%E7%99%BD%E9%A5%AD%E5%92%B8%E8%8F%9C20%E5%B9%B4%E5%AD%98467%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -25,7 +25,7 @@
 6. [山东地震 北京全市大部有震感](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%9C%B0%E9%9C%87+%E5%8C%97%E4%BA%AC%E5%85%A8%E5%B8%82%E5%A4%A7%E9%83%A8%E6%9C%89%E9%9C%87%E6%84%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [山东平原县震中现场直击](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%B9%B3%E5%8E%9F%E5%8E%BF%E9%9C%87%E4%B8%AD%E7%8E%B0%E5%9C%BA%E7%9B%B4%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [平原县地震3小时后：生活秩序正常](https://www.baidu.com/s?wd=%E5%B9%B3%E5%8E%9F%E5%8E%BF%E5%9C%B0%E9%9C%873%E5%B0%8F%E6%97%B6%E5%90%8E%EF%BC%9A%E7%94%9F%E6%B4%BB%E7%A7%A9%E5%BA%8F%E6%AD%A3%E5%B8%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [异人之下 介质原因延期播出](https://www.baidu.com/s?wd=%E5%BC%82%E4%BA%BA%E4%B9%8B%E4%B8%8B+%E4%BB%8B%E8%B4%A8%E5%8E%9F%E5%9B%A0%E5%BB%B6%E6%9C%9F%E6%92%AD%E5%87%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [震感人群分布图](https://www.baidu.com/s?wd=%E9%9C%87%E6%84%9F%E4%BA%BA%E7%BE%A4%E5%88%86%E5%B8%83%E5%9B%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [山东地震 北京全市大部有震感](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%9C%B0%E9%9C%87+%E5%8C%97%E4%BA%AC%E5%85%A8%E5%B8%82%E5%A4%A7%E9%83%A8%E6%9C%89%E9%9C%87%E6%84%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [山东平原县震中现场直击](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%B9%B3%E5%8E%9F%E5%8E%BF%E9%9C%87%E4%B8%AD%E7%8E%B0%E5%9C%BA%E7%9B%B4%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [平原县地震3小时后：生活秩序正常](https://www.baidu.com/s?wd=%E5%B9%B3%E5%8E%9F%E5%8E%BF%E5%9C%B0%E9%9C%873%E5%B0%8F%E6%97%B6%E5%90%8E%EF%BC%9A%E7%94%9F%E6%B4%BB%E7%A7%A9%E5%BA%8F%E6%AD%A3%E5%B8%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [异人之下 介质原因延期播出](https://www.baidu.com/s?wd=%E5%BC%82%E4%BA%BA%E4%B9%8B%E4%B8%8B+%E4%BB%8B%E8%B4%A8%E5%8E%9F%E5%9B%A0%E5%BB%B6%E6%9C%9F%E6%92%AD%E5%87%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [震感人群分布图](https://www.baidu.com/s?wd=%E9%9C%87%E6%84%9F%E4%BA%BA%E7%BE%A4%E5%88%86%E5%B8%83%E5%9B%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
