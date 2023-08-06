@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-06 23:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-06 23:11:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [我突然意识到自己真的很好](https://s.weibo.com/weibo?q=%E6%88%91%E7%AA%81%E7%84%B6%E6%84%8F%E8%AF%86%E5%88%B0%E8%87%AA%E5%B7%B1%E7%9C%9F%E7%9A%84%E5%BE%88%E5%A5%BD&t=31&band_rank=6&Refer=top)<br />
 7. [七时吉祥定档](https://s.weibo.com/weibo?q=%23%E4%B8%83%E6%97%B6%E5%90%89%E7%A5%A5%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=7&Refer=top)<br />
 8. [迪丽热巴戒指](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%88%92%E6%8C%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [直到25岁我才真正读完了中学](https://s.weibo.com/weibo?q=%23%E7%9B%B4%E5%88%B025%E5%B2%81%E6%88%91%E6%89%8D%E7%9C%9F%E6%AD%A3%E8%AF%BB%E5%AE%8C%E4%BA%86%E4%B8%AD%E5%AD%A6%23&t=31&band_rank=9&Refer=top)<br />
+9. [高校1.31亿科研经费成果转化率为0](https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A11.31%E4%BA%BF%E7%A7%91%E7%A0%94%E7%BB%8F%E8%B4%B9%E6%88%90%E6%9E%9C%E8%BD%AC%E5%8C%96%E7%8E%87%E4%B8%BA0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
