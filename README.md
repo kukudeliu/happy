@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-06 19:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-06 19:29:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [大妈踩在丹霞地貌上疯狂拍照](https://www.baidu.com/s?wd=%E5%A4%A7%E5%A6%88%E8%B8%A9%E5%9C%A8%E4%B8%B9%E9%9C%9E%E5%9C%B0%E8%B2%8C%E4%B8%8A%E7%96%AF%E7%8B%82%E6%8B%8D%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [TFBOYS粉丝强冲安检门](https://www.baidu.com/s?wd=TFBOYS%E7%B2%89%E4%B8%9D%E5%BC%BA%E5%86%B2%E5%AE%89%E6%A3%80%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [武艺考试全科目零分](https://www.baidu.com/s?wd=%E6%AD%A6%E8%89%BA%E8%80%83%E8%AF%95%E5%85%A8%E7%A7%91%E7%9B%AE%E9%9B%B6%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [日本男子吃白饭咸菜20年存467万](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%94%B7%E5%AD%90%E5%90%83%E7%99%BD%E9%A5%AD%E5%92%B8%E8%8F%9C20%E5%B9%B4%E5%AD%98467%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [地震预警来临的几秒 我们可以做什么](https://www.baidu.com/s?wd=%E5%9C%B0%E9%9C%87%E9%A2%84%E8%AD%A6%E6%9D%A5%E4%B8%B4%E7%9A%84%E5%87%A0%E7%A7%92+%E6%88%91%E4%BB%AC%E5%8F%AF%E4%BB%A5%E5%81%9A%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [大妈踩在丹霞地貌上疯狂拍照](https://www.baidu.com/s?wd=%E5%A4%A7%E5%A6%88%E8%B8%A9%E5%9C%A8%E4%B8%B9%E9%9C%9E%E5%9C%B0%E8%B2%8C%E4%B8%8A%E7%96%AF%E7%8B%82%E6%8B%8D%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [TFBOYS粉丝强冲安检门](https://www.baidu.com/s?wd=TFBOYS%E7%B2%89%E4%B8%9D%E5%BC%BA%E5%86%B2%E5%AE%89%E6%A3%80%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [武艺考试全科目零分](https://www.baidu.com/s?wd=%E6%AD%A6%E8%89%BA%E8%80%83%E8%AF%95%E5%85%A8%E7%A7%91%E7%9B%AE%E9%9B%B6%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [日本男子吃白饭咸菜20年存467万](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%94%B7%E5%AD%90%E5%90%83%E7%99%BD%E9%A5%AD%E5%92%B8%E8%8F%9C20%E5%B9%B4%E5%AD%98467%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [地震预警来临的几秒 我们可以做什么](https://www.baidu.com/s?wd=%E5%9C%B0%E9%9C%87%E9%A2%84%E8%AD%A6%E6%9D%A5%E4%B8%B4%E7%9A%84%E5%87%A0%E7%A7%92+%E6%88%91%E4%BB%AC%E5%8F%AF%E4%BB%A5%E5%81%9A%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news)<br />
