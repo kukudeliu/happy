@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-07 00:28:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-07 00:29:02</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [#TFBOYS十年之约演唱会#](https://www.baidu.com/s?wd=%23TFBOYS%E5%8D%81%E5%B9%B4%E4%B9%8B%E7%BA%A6%E6%BC%94%E5%94%B1%E4%BC%9A%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [三小只全程没互动](https://www.baidu.com/s?wd=%E4%B8%89%E5%B0%8F%E5%8F%AA%E5%85%A8%E7%A8%8B%E6%B2%A1%E4%BA%92%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [高校花1.31亿科研经费 零成果](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E8%8A%B11.31%E4%BA%BF%E7%A7%91%E7%A0%94%E7%BB%8F%E8%B4%B9+%E9%9B%B6%E6%88%90%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [网友吐槽：月薪2万住不起汉庭如家](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD%EF%BC%9A%E6%9C%88%E8%96%AA2%E4%B8%87%E4%BD%8F%E4%B8%8D%E8%B5%B7%E6%B1%89%E5%BA%AD%E5%A6%82%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [王俊凯回望](https://www.baidu.com/s?wd=%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%9B%9E%E6%9C%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [王俊凯回望](https://www.baidu.com/s?wd=%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%9B%9E%E6%9C%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [武艺考试全科目零分](https://www.baidu.com/s?wd=%E6%AD%A6%E8%89%BA%E8%80%83%E8%AF%95%E5%85%A8%E7%A7%91%E7%9B%AE%E9%9B%B6%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [#TFBOYS十年之约演唱会#](https://www.baidu.com/s?wd=%23TFBOYS%E5%8D%81%E5%B9%B4%E4%B9%8B%E7%BA%A6%E6%BC%94%E5%94%B1%E4%BC%9A%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [三小只全程没互动](https://www.baidu.com/s?wd=%E4%B8%89%E5%B0%8F%E5%8F%AA%E5%85%A8%E7%A8%8B%E6%B2%A1%E4%BA%92%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [高校花1.31亿科研经费 零成果](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E8%8A%B11.31%E4%BA%BF%E7%A7%91%E7%A0%94%E7%BB%8F%E8%B4%B9+%E9%9B%B6%E6%88%90%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [网友吐槽：月薪2万住不起汉庭如家](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD%EF%BC%9A%E6%9C%88%E8%96%AA2%E4%B8%87%E4%BD%8F%E4%B8%8D%E8%B5%B7%E6%B1%89%E5%BA%AD%E5%A6%82%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [王俊凯回望](https://www.baidu.com/s?wd=%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%9B%9E%E6%9C%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [王俊凯回望](https://www.baidu.com/s?wd=%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%9B%9E%E6%9C%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [武艺考试全科目零分](https://www.baidu.com/s?wd=%E6%AD%A6%E8%89%BA%E8%80%83%E8%AF%95%E5%85%A8%E7%A7%91%E7%9B%AE%E9%9B%B6%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
