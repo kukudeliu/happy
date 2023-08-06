@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-06 13:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-06 13:06:01</h4></div>
 
 > 微博  
 
-1. [苹果地震预警](https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E5%9C%B0%E9%9C%87%E9%A2%84%E8%AD%A6&t=31&band_rank=1&Refer=top)<br />
-2. [黄锐拿到票了](https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%94%90%E6%8B%BF%E5%88%B0%E7%A5%A8%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
+1. [黄锐拿到票了](https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%94%90%E6%8B%BF%E5%88%B0%E7%A5%A8%E4%BA%86%23&t=31&band_rank=1&Refer=top)<br />
+2. [苹果地震预警](https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E5%9C%B0%E9%9C%87%E9%A2%84%E8%AD%A6&t=31&band_rank=2&Refer=top)<br />
 3. [大运会又一个显眼包出现了](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%BF%90%E4%BC%9A%E5%8F%88%E4%B8%80%E4%B8%AA%E6%98%BE%E7%9C%BC%E5%8C%85%E5%87%BA%E7%8E%B0%E4%BA%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [内娱不可复制的成功](https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E4%B8%8D%E5%8F%AF%E5%A4%8D%E5%88%B6%E7%9A%84%E6%88%90%E5%8A%9F%23&t=31&band_rank=4&Refer=top)<br />
 5. [TFBOYS电话](https://s.weibo.com/weibo?q=TFBOYS%E7%94%B5%E8%AF%9D&t=31&band_rank=5&Refer=top)<br />
