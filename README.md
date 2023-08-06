@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-06 20:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-06 20:10:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [TFBOYS线上直播](https://s.weibo.com/weibo?q=TFBOYS%E7%BA%BF%E4%B8%8A%E7%9B%B4%E6%92%AD&t=31&band_rank=4&Refer=top)<br />
 5. [王楚然张晚意 娇藏](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E7%84%B6%E5%BC%A0%E6%99%9A%E6%84%8F%20%E5%A8%87%E8%97%8F&t=31&band_rank=5&Refer=top)<br />
 6. [LNG对战EDG](https://s.weibo.com/weibo?q=%23LNG%E5%AF%B9%E6%88%98EDG%23&t=31&band_rank=6&Refer=top)<br />
-7. [meiko](https://s.weibo.com/weibo?q=meiko&t=31&band_rank=7&Refer=top)<br />
-8. [迪丽热巴戒指](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%88%92%E6%8C%87%23&t=31&band_rank=8&Refer=top)<br />
+7. [LNG战胜EDG](https://s.weibo.com/weibo?q=%23LNG%E6%88%98%E8%83%9CEDG%23&t=31&band_rank=7&Refer=top)<br />
+8. [meiko](https://s.weibo.com/weibo?q=meiko&t=31&band_rank=8&Refer=top)<br />
 9. [大妈踩在丹霞地貌上疯狂拍照](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%A6%88%E8%B8%A9%E5%9C%A8%E4%B8%B9%E9%9C%9E%E5%9C%B0%E8%B2%8C%E4%B8%8A%E7%96%AF%E7%8B%82%E6%8B%8D%E7%85%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
