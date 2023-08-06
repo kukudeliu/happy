@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-06 16:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-06 16:41:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [TFBOYS彩排哭了](https://www.baidu.com/s?wd=TFBOYS%E5%BD%A9%E6%8E%92%E5%93%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李敏镐肿了](https://www.baidu.com/s?wd=%E6%9D%8E%E6%95%8F%E9%95%90%E8%82%BF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [日本男子吃白饭咸菜20年存467万](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%94%B7%E5%AD%90%E5%90%83%E7%99%BD%E9%A5%AD%E5%92%B8%E8%8F%9C20%E5%B9%B4%E5%AD%98467%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [“我的手机睡得比我还死”](https://www.baidu.com/s?wd=%E2%80%9C%E6%88%91%E7%9A%84%E6%89%8B%E6%9C%BA%E7%9D%A1%E5%BE%97%E6%AF%94%E6%88%91%E8%BF%98%E6%AD%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子被困玉米地几天获救哭成泪人](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A2%AB%E5%9B%B0%E7%8E%89%E7%B1%B3%E5%9C%B0%E5%87%A0%E5%A4%A9%E8%8E%B7%E6%95%91%E5%93%AD%E6%88%90%E6%B3%AA%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子被困玉米地几天获救哭成泪人](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A2%AB%E5%9B%B0%E7%8E%89%E7%B1%B3%E5%9C%B0%E5%87%A0%E5%A4%A9%E8%8E%B7%E6%95%91%E5%93%AD%E6%88%90%E6%B3%AA%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [“我的手机睡得比我还死”](https://www.baidu.com/s?wd=%E2%80%9C%E6%88%91%E7%9A%84%E6%89%8B%E6%9C%BA%E7%9D%A1%E5%BE%97%E6%AF%94%E6%88%91%E8%BF%98%E6%AD%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [TFBOYS彩排哭了](https://www.baidu.com/s?wd=TFBOYS%E5%BD%A9%E6%8E%92%E5%93%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李敏镐肿了](https://www.baidu.com/s?wd=%E6%9D%8E%E6%95%8F%E9%95%90%E8%82%BF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [日本男子吃白饭咸菜20年存467万](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%94%B7%E5%AD%90%E5%90%83%E7%99%BD%E9%A5%AD%E5%92%B8%E8%8F%9C20%E5%B9%B4%E5%AD%98467%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [“我的手机睡得比我还死”](https://www.baidu.com/s?wd=%E2%80%9C%E6%88%91%E7%9A%84%E6%89%8B%E6%9C%BA%E7%9D%A1%E5%BE%97%E6%AF%94%E6%88%91%E8%BF%98%E6%AD%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子被困玉米地几天获救哭成泪人](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A2%AB%E5%9B%B0%E7%8E%89%E7%B1%B3%E5%9C%B0%E5%87%A0%E5%A4%A9%E8%8E%B7%E6%95%91%E5%93%AD%E6%88%90%E6%B3%AA%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子被困玉米地几天获救哭成泪人](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A2%AB%E5%9B%B0%E7%8E%89%E7%B1%B3%E5%9C%B0%E5%87%A0%E5%A4%A9%E8%8E%B7%E6%95%91%E5%93%AD%E6%88%90%E6%B3%AA%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [“我的手机睡得比我还死”](https://www.baidu.com/s?wd=%E2%80%9C%E6%88%91%E7%9A%84%E6%89%8B%E6%9C%BA%E7%9D%A1%E5%BE%97%E6%AF%94%E6%88%91%E8%BF%98%E6%AD%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
