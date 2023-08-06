@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-06 10:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-06 10:07:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [王俊凯王源易烊千玺同台比心](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%8E%8B%E6%BA%90%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%90%8C%E5%8F%B0%E6%AF%94%E5%BF%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [海贼王](https://s.weibo.com/weibo?q=%E6%B5%B7%E8%B4%BC%E7%8E%8B&t=31&band_rank=7&Refer=top)<br />
 8. [日本男子吃白饭咸菜20年存467万](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%94%B7%E5%AD%90%E5%90%83%E7%99%BD%E9%A5%AD%E5%92%B8%E8%8F%9C20%E5%B9%B4%E5%AD%98467%E4%B8%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [全红婵世界杯总决赛银牌](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E4%B8%96%E7%95%8C%E6%9D%AF%E6%80%BB%E5%86%B3%E8%B5%9B%E9%93%B6%E7%89%8C%23&t=31&band_rank=9&Refer=top)<br />
+9. [杨玏伯邑考后劲好大](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%8E%8F%E4%BC%AF%E9%82%91%E8%80%83%E5%90%8E%E5%8A%B2%E5%A5%BD%E5%A4%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
