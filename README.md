@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-06 21:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-06 21:13:02</h4></div>
 
 > 微博  
 
 1. [TFBOYS十年之约演唱会](https://s.weibo.com/weibo?q=%23TFBOYS%E5%8D%81%E5%B9%B4%E4%B9%8B%E7%BA%A6%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=1&Refer=top)<br />
-2. [青春修炼手册开场](https://s.weibo.com/weibo?q=%23%E9%9D%92%E6%98%A5%E4%BF%AE%E7%82%BC%E6%89%8B%E5%86%8C%E5%BC%80%E5%9C%BA%23&t=31&band_rank=2&Refer=top)<br />
+2. [迪丽热巴戒指](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%88%92%E6%8C%87%23&t=31&band_rank=2&Refer=top)<br />
 3. [地震来临时牢记生命三角法](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%9C%87%E6%9D%A5%E4%B8%B4%E6%97%B6%E7%89%A2%E8%AE%B0%E7%94%9F%E5%91%BD%E4%B8%89%E8%A7%92%E6%B3%95%23&t=31&band_rank=3&Refer=top)<br />
-4. [迪丽热巴戒指](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%88%92%E6%8C%87%23&t=31&band_rank=4&Refer=top)<br />
+4. [青春修炼手册开场](https://s.weibo.com/weibo?q=%23%E9%9D%92%E6%98%A5%E4%BF%AE%E7%82%BC%E6%89%8B%E5%86%8C%E5%BC%80%E5%9C%BA%23&t=31&band_rank=4&Refer=top)<br />
 5. [直到25岁我才真正读完了中学](https://s.weibo.com/weibo?q=%23%E7%9B%B4%E5%88%B025%E5%B2%81%E6%88%91%E6%89%8D%E7%9C%9F%E6%AD%A3%E8%AF%BB%E5%AE%8C%E4%BA%86%E4%B8%AD%E5%AD%A6%23&t=31&band_rank=5&Refer=top)<br />
 6. [Uzi](https://s.weibo.com/weibo?q=Uzi&t=31&band_rank=6&Refer=top)<br />
 7. [EDG](https://s.weibo.com/weibo?q=EDG&t=31&band_rank=7&Refer=top)<br />
 8. [大运会中国女排vs日本女排](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%BF%90%E4%BC%9A%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92vs%E6%97%A5%E6%9C%AC%E5%A5%B3%E6%8E%92%23&t=31&band_rank=8&Refer=top)<br />
-9. [王楚然张晚意 娇藏](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E7%84%B6%E5%BC%A0%E6%99%9A%E6%84%8F%20%E5%A8%87%E8%97%8F&t=31&band_rank=9&Refer=top)<br />
+9. [大妈踩在丹霞地貌上疯狂拍照](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%A6%88%E8%B8%A9%E5%9C%A8%E4%B8%B9%E9%9C%9E%E5%9C%B0%E8%B2%8C%E4%B8%8A%E7%96%AF%E7%8B%82%E6%8B%8D%E7%85%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
