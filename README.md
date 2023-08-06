@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-06 13:58:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-06 13:59:02</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [江苏官方辟谣“地震云”](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E2%80%9C%E5%9C%B0%E9%9C%87%E4%BA%91%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [德州地震山东多地天空现满天红光](https://www.baidu.com/s?wd=%E5%BE%B7%E5%B7%9E%E5%9C%B0%E9%9C%87%E5%B1%B1%E4%B8%9C%E5%A4%9A%E5%9C%B0%E5%A4%A9%E7%A9%BA%E7%8E%B0%E6%BB%A1%E5%A4%A9%E7%BA%A2%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [韩红等众星驰援黑龙江](https://www.baidu.com/s?wd=%E9%9F%A9%E7%BA%A2%E7%AD%89%E4%BC%97%E6%98%9F%E9%A9%B0%E6%8F%B4%E9%BB%91%E9%BE%99%E6%B1%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [地震瞬间男子跑开两秒后奔向妻子](https://www.baidu.com/s?wd=%E5%9C%B0%E9%9C%87%E7%9E%AC%E9%97%B4%E7%94%B7%E5%AD%90%E8%B7%91%E5%BC%80%E4%B8%A4%E7%A7%92%E5%90%8E%E5%A5%94%E5%90%91%E5%A6%BB%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [日本男子吃白饭咸菜20年存467万](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%94%B7%E5%AD%90%E5%90%83%E7%99%BD%E9%A5%AD%E5%92%B8%E8%8F%9C20%E5%B9%B4%E5%AD%98467%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [江苏官方辟谣“地震云”](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E2%80%9C%E5%9C%B0%E9%9C%87%E4%BA%91%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [德州地震山东多地天空现满天红光](https://www.baidu.com/s?wd=%E5%BE%B7%E5%B7%9E%E5%9C%B0%E9%9C%87%E5%B1%B1%E4%B8%9C%E5%A4%9A%E5%9C%B0%E5%A4%A9%E7%A9%BA%E7%8E%B0%E6%BB%A1%E5%A4%A9%E7%BA%A2%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [韩红等众星驰援黑龙江](https://www.baidu.com/s?wd=%E9%9F%A9%E7%BA%A2%E7%AD%89%E4%BC%97%E6%98%9F%E9%A9%B0%E6%8F%B4%E9%BB%91%E9%BE%99%E6%B1%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [地震瞬间男子跑开两秒后奔向妻子](https://www.baidu.com/s?wd=%E5%9C%B0%E9%9C%87%E7%9E%AC%E9%97%B4%E7%94%B7%E5%AD%90%E8%B7%91%E5%BC%80%E4%B8%A4%E7%A7%92%E5%90%8E%E5%A5%94%E5%90%91%E5%A6%BB%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [日本男子吃白饭咸菜20年存467万](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%94%B7%E5%AD%90%E5%90%83%E7%99%BD%E9%A5%AD%E5%92%B8%E8%8F%9C20%E5%B9%B4%E5%AD%98467%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
