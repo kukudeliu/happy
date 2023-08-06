@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-06 15:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-06 15:19:01</h4></div>
 
 > 微博  
 
@@ -18,23 +18,23 @@
 > 百度  
 
 1. [大运村是一个怎样的“村”](https://www.baidu.com/s?wd=%E5%A4%A7%E8%BF%90%E6%9D%91%E6%98%AF%E4%B8%80%E4%B8%AA%E6%80%8E%E6%A0%B7%E7%9A%84%E2%80%9C%E6%9D%91%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [手机地震预警功能怎么开](https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E5%9C%B0%E9%9C%87%E9%A2%84%E8%AD%A6%E5%8A%9F%E8%83%BD%E6%80%8E%E4%B9%88%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [山东地震为何震感传得这么远](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%9C%B0%E9%9C%87%E4%B8%BA%E4%BD%95%E9%9C%87%E6%84%9F%E4%BC%A0%E5%BE%97%E8%BF%99%E4%B9%88%E8%BF%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [山东地震为何震感传得这么远](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%9C%B0%E9%9C%87%E4%B8%BA%E4%BD%95%E9%9C%87%E6%84%9F%E4%BC%A0%E5%BE%97%E8%BF%99%E4%B9%88%E8%BF%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [地震预警来临的几秒 我们可以做什么](https://www.baidu.com/s?wd=%E5%9C%B0%E9%9C%87%E9%A2%84%E8%AD%A6%E6%9D%A5%E4%B8%B4%E7%9A%84%E5%87%A0%E7%A7%92+%E6%88%91%E4%BB%AC%E5%8F%AF%E4%BB%A5%E5%81%9A%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [风雨中无言的感动](https://www.baidu.com/s?wd=%E9%A3%8E%E9%9B%A8%E4%B8%AD%E6%97%A0%E8%A8%80%E7%9A%84%E6%84%9F%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [“我的手机睡得比我还死”](https://www.baidu.com/s?wd=%E2%80%9C%E6%88%91%E7%9A%84%E6%89%8B%E6%9C%BA%E7%9D%A1%E5%BE%97%E6%AF%94%E6%88%91%E8%BF%98%E6%AD%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [江苏官方辟谣“地震云”](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E2%80%9C%E5%9C%B0%E9%9C%87%E4%BA%91%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子被困玉米地几天获救哭成泪人](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A2%AB%E5%9B%B0%E7%8E%89%E7%B1%B3%E5%9C%B0%E5%87%A0%E5%A4%A9%E8%8E%B7%E6%95%91%E5%93%AD%E6%88%90%E6%B3%AA%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [王宝强坐铲车进河北灾区发救援物资](https://www.baidu.com/s?wd=%E7%8E%8B%E5%AE%9D%E5%BC%BA%E5%9D%90%E9%93%B2%E8%BD%A6%E8%BF%9B%E6%B2%B3%E5%8C%97%E7%81%BE%E5%8C%BA%E5%8F%91%E6%95%91%E6%8F%B4%E7%89%A9%E8%B5%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [俄油轮遭袭 联合国呼吁各方克制](https://www.baidu.com/s?wd=%E4%BF%84%E6%B2%B9%E8%BD%AE%E9%81%AD%E8%A2%AD+%E8%81%94%E5%90%88%E5%9B%BD%E5%91%BC%E5%90%81%E5%90%84%E6%96%B9%E5%85%8B%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [日本男子吃白饭咸菜20年存467万](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%94%B7%E5%AD%90%E5%90%83%E7%99%BD%E9%A5%AD%E5%92%B8%E8%8F%9C20%E5%B9%B4%E5%AD%98467%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [大运村是一个怎样的“村”](https://www.baidu.com/s?wd=%E5%A4%A7%E8%BF%90%E6%9D%91%E6%98%AF%E4%B8%80%E4%B8%AA%E6%80%8E%E6%A0%B7%E7%9A%84%E2%80%9C%E6%9D%91%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [手机地震预警功能怎么开](https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E5%9C%B0%E9%9C%87%E9%A2%84%E8%AD%A6%E5%8A%9F%E8%83%BD%E6%80%8E%E4%B9%88%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [山东地震为何震感传得这么远](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%9C%B0%E9%9C%87%E4%B8%BA%E4%BD%95%E9%9C%87%E6%84%9F%E4%BC%A0%E5%BE%97%E8%BF%99%E4%B9%88%E8%BF%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [山东地震为何震感传得这么远](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%9C%B0%E9%9C%87%E4%B8%BA%E4%BD%95%E9%9C%87%E6%84%9F%E4%BC%A0%E5%BE%97%E8%BF%99%E4%B9%88%E8%BF%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [地震预警来临的几秒 我们可以做什么](https://www.baidu.com/s?wd=%E5%9C%B0%E9%9C%87%E9%A2%84%E8%AD%A6%E6%9D%A5%E4%B8%B4%E7%9A%84%E5%87%A0%E7%A7%92+%E6%88%91%E4%BB%AC%E5%8F%AF%E4%BB%A5%E5%81%9A%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [风雨中无言的感动](https://www.baidu.com/s?wd=%E9%A3%8E%E9%9B%A8%E4%B8%AD%E6%97%A0%E8%A8%80%E7%9A%84%E6%84%9F%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [“我的手机睡得比我还死”](https://www.baidu.com/s?wd=%E2%80%9C%E6%88%91%E7%9A%84%E6%89%8B%E6%9C%BA%E7%9D%A1%E5%BE%97%E6%AF%94%E6%88%91%E8%BF%98%E6%AD%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [江苏官方辟谣“地震云”](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E2%80%9C%E5%9C%B0%E9%9C%87%E4%BA%91%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子被困玉米地几天获救哭成泪人](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A2%AB%E5%9B%B0%E7%8E%89%E7%B1%B3%E5%9C%B0%E5%87%A0%E5%A4%A9%E8%8E%B7%E6%95%91%E5%93%AD%E6%88%90%E6%B3%AA%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [王宝强坐铲车进河北灾区发救援物资](https://www.baidu.com/s?wd=%E7%8E%8B%E5%AE%9D%E5%BC%BA%E5%9D%90%E9%93%B2%E8%BD%A6%E8%BF%9B%E6%B2%B3%E5%8C%97%E7%81%BE%E5%8C%BA%E5%8F%91%E6%95%91%E6%8F%B4%E7%89%A9%E8%B5%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [俄油轮遭袭 联合国呼吁各方克制](https://www.baidu.com/s?wd=%E4%BF%84%E6%B2%B9%E8%BD%AE%E9%81%AD%E8%A2%AD+%E8%81%94%E5%90%88%E5%9B%BD%E5%91%BC%E5%90%81%E5%90%84%E6%96%B9%E5%85%8B%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [日本男子吃白饭咸菜20年存467万](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%94%B7%E5%AD%90%E5%90%83%E7%99%BD%E9%A5%AD%E5%92%B8%E8%8F%9C20%E5%B9%B4%E5%AD%98467%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
