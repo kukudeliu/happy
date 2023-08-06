@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-06 17:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-06 17:12:02</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [TFBOYS曾说组合解散就重新一起出道](https://s.weibo.com/weibo?q=%23TFBOYS%E6%9B%BE%E8%AF%B4%E7%BB%84%E5%90%88%E8%A7%A3%E6%95%A3%E5%B0%B1%E9%87%8D%E6%96%B0%E4%B8%80%E8%B5%B7%E5%87%BA%E9%81%93%23&t=31&band_rank=4&Refer=top)<br />
 5. [娇藏](https://s.weibo.com/weibo?q=%E5%A8%87%E8%97%8F&t=31&band_rank=5&Refer=top)<br />
 6. [苹果回应地震预警](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%9B%9E%E5%BA%94%E5%9C%B0%E9%9C%87%E9%A2%84%E8%AD%A6%23&t=31&band_rank=6&Refer=top)<br />
-7. [苹果地震预警](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%9C%B0%E9%9C%87%E9%A2%84%E8%AD%A6%23&t=31&band_rank=7&Refer=top)<br />
-8. [当中年领导用上了Air Pods](https://s.weibo.com/weibo?q=%E5%BD%93%E4%B8%AD%E5%B9%B4%E9%A2%86%E5%AF%BC%E7%94%A8%E4%B8%8A%E4%BA%86Air%20Pods&t=31&band_rank=8&Refer=top)<br />
-9. [痛苦的时候人甚至通过写来呼吸](https://s.weibo.com/weibo?q=%E7%97%9B%E8%8B%A6%E7%9A%84%E6%97%B6%E5%80%99%E4%BA%BA%E7%94%9A%E8%87%B3%E9%80%9A%E8%BF%87%E5%86%99%E6%9D%A5%E5%91%BC%E5%90%B8&t=31&band_rank=9&Refer=top)<br />
+7. [武艺考试全科目零分](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E8%89%BA%E8%80%83%E8%AF%95%E5%85%A8%E7%A7%91%E7%9B%AE%E9%9B%B6%E5%88%86%23&t=31&band_rank=7&Refer=top)<br />
+8. [苹果地震预警](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%9C%B0%E9%9C%87%E9%A2%84%E8%AD%A6%23&t=31&band_rank=8&Refer=top)<br />
+9. [当中年领导用上了Air Pods](https://s.weibo.com/weibo?q=%E5%BD%93%E4%B8%AD%E5%B9%B4%E9%A2%86%E5%AF%BC%E7%94%A8%E4%B8%8A%E4%BA%86Air%20Pods&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
