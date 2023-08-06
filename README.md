@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-06 10:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-06 10:16:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [爱奇艺](https://s.weibo.com/weibo?q=%E7%88%B1%E5%A5%87%E8%89%BA&t=31&band_rank=6&Refer=top)<br />
 7. [TFBOYS从场馆里出来看粉丝](https://s.weibo.com/weibo?q=%23TFBOYS%E4%BB%8E%E5%9C%BA%E9%A6%86%E9%87%8C%E5%87%BA%E6%9D%A5%E7%9C%8B%E7%B2%89%E4%B8%9D%23&t=31&band_rank=7&Refer=top)<br />
 8. [海贼王](https://s.weibo.com/weibo?q=%E6%B5%B7%E8%B4%BC%E7%8E%8B&t=31&band_rank=8&Refer=top)<br />
-9. [杨玏伯邑考后劲好大](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%8E%8F%E4%BC%AF%E9%82%91%E8%80%83%E5%90%8E%E5%8A%B2%E5%A5%BD%E5%A4%A7%23&t=31&band_rank=9&Refer=top)<br />
+9. [8岁女孩视力仅0.05手术后一句话令人泪目](https://s.weibo.com/weibo?q=%238%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%A7%86%E5%8A%9B%E4%BB%850.05%E6%89%8B%E6%9C%AF%E5%90%8E%E4%B8%80%E5%8F%A5%E8%AF%9D%E4%BB%A4%E4%BA%BA%E6%B3%AA%E7%9B%AE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
