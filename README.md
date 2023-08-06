@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-06 13:23:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-06 13:24:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [江苏官方辟谣“地震云”](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E2%80%9C%E5%9C%B0%E9%9C%87%E4%BA%91%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [德州地震山东多地天空现满天红光](https://www.baidu.com/s?wd=%E5%BE%B7%E5%B7%9E%E5%9C%B0%E9%9C%87%E5%B1%B1%E4%B8%9C%E5%A4%9A%E5%9C%B0%E5%A4%A9%E7%A9%BA%E7%8E%B0%E6%BB%A1%E5%A4%A9%E7%BA%A2%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [地震瞬间男子跑开两秒后奔向妻子](https://www.baidu.com/s?wd=%E5%9C%B0%E9%9C%87%E7%9E%AC%E9%97%B4%E7%94%B7%E5%AD%90%E8%B7%91%E5%BC%80%E4%B8%A4%E7%A7%92%E5%90%8E%E5%A5%94%E5%90%91%E5%A6%BB%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [地震后居民避险 有人只裹了床单被子](https://www.baidu.com/s?wd=%E5%9C%B0%E9%9C%87%E5%90%8E%E5%B1%85%E6%B0%91%E9%81%BF%E9%99%A9+%E6%9C%89%E4%BA%BA%E5%8F%AA%E8%A3%B9%E4%BA%86%E5%BA%8A%E5%8D%95%E8%A2%AB%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [网友三天前预言山东地震？巧合而已](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E4%B8%89%E5%A4%A9%E5%89%8D%E9%A2%84%E8%A8%80%E5%B1%B1%E4%B8%9C%E5%9C%B0%E9%9C%87%EF%BC%9F%E5%B7%A7%E5%90%88%E8%80%8C%E5%B7%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [江苏官方辟谣“地震云”](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E2%80%9C%E5%9C%B0%E9%9C%87%E4%BA%91%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [德州地震山东多地天空现满天红光](https://www.baidu.com/s?wd=%E5%BE%B7%E5%B7%9E%E5%9C%B0%E9%9C%87%E5%B1%B1%E4%B8%9C%E5%A4%9A%E5%9C%B0%E5%A4%A9%E7%A9%BA%E7%8E%B0%E6%BB%A1%E5%A4%A9%E7%BA%A2%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [地震瞬间男子跑开两秒后奔向妻子](https://www.baidu.com/s?wd=%E5%9C%B0%E9%9C%87%E7%9E%AC%E9%97%B4%E7%94%B7%E5%AD%90%E8%B7%91%E5%BC%80%E4%B8%A4%E7%A7%92%E5%90%8E%E5%A5%94%E5%90%91%E5%A6%BB%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [地震后居民避险 有人只裹了床单被子](https://www.baidu.com/s?wd=%E5%9C%B0%E9%9C%87%E5%90%8E%E5%B1%85%E6%B0%91%E9%81%BF%E9%99%A9+%E6%9C%89%E4%BA%BA%E5%8F%AA%E8%A3%B9%E4%BA%86%E5%BA%8A%E5%8D%95%E8%A2%AB%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [网友三天前预言山东地震？巧合而已](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E4%B8%89%E5%A4%A9%E5%89%8D%E9%A2%84%E8%A8%80%E5%B1%B1%E4%B8%9C%E5%9C%B0%E9%9C%87%EF%BC%9F%E5%B7%A7%E5%90%88%E8%80%8C%E5%B7%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
