@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-06 23:42:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-06 23:43:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [鹿晗演唱会](https://s.weibo.com/weibo?q=%E9%B9%BF%E6%99%97%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=5&Refer=top)<br />
 6. [我突然意识到自己真的很好](https://s.weibo.com/weibo?q=%E6%88%91%E7%AA%81%E7%84%B6%E6%84%8F%E8%AF%86%E5%88%B0%E8%87%AA%E5%B7%B1%E7%9C%9F%E7%9A%84%E5%BE%88%E5%A5%BD&t=31&band_rank=6&Refer=top)<br />
 7. [TFBOYS快本的信](https://s.weibo.com/weibo?q=%23TFBOYS%E5%BF%AB%E6%9C%AC%E7%9A%84%E4%BF%A1%23&t=31&band_rank=7&Refer=top)<br />
-8. [刘宪华贵阳](https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%AA%E5%8D%8E%E8%B4%B5%E9%98%B3&t=31&band_rank=8&Refer=top)<br />
+8. [直到25岁我才真正读完了中学](https://s.weibo.com/weibo?q=%23%E7%9B%B4%E5%88%B025%E5%B2%81%E6%88%91%E6%89%8D%E7%9C%9F%E6%AD%A3%E8%AF%BB%E5%AE%8C%E4%BA%86%E4%B8%AD%E5%AD%A6%23&t=31&band_rank=8&Refer=top)<br />
 9. [迪丽热巴戒指](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%88%92%E6%8C%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
