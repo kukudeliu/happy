@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-06 22:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-06 22:05:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [TFBOYS快本的信](https://s.weibo.com/weibo?q=%23TFBOYS%E5%BF%AB%E6%9C%AC%E7%9A%84%E4%BF%A1%23&t=31&band_rank=4&Refer=top)<br />
 5. [七时吉祥定档](https://s.weibo.com/weibo?q=%E4%B8%83%E6%97%B6%E5%90%89%E7%A5%A5%E5%AE%9A%E6%A1%A3&t=31&band_rank=5&Refer=top)<br />
 6. [直到25岁我才真正读完了中学](https://s.weibo.com/weibo?q=%23%E7%9B%B4%E5%88%B025%E5%B2%81%E6%88%91%E6%89%8D%E7%9C%9F%E6%AD%A3%E8%AF%BB%E5%AE%8C%E4%BA%86%E4%B8%AD%E5%AD%A6%23&t=31&band_rank=6&Refer=top)<br />
-7. [杨紫是懂断更的](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E6%98%AF%E6%87%82%E6%96%AD%E6%9B%B4%E7%9A%84%23&t=31&band_rank=7&Refer=top)<br />
-8. [我突然意识到自己真的很好](https://s.weibo.com/weibo?q=%E6%88%91%E7%AA%81%E7%84%B6%E6%84%8F%E8%AF%86%E5%88%B0%E8%87%AA%E5%B7%B1%E7%9C%9F%E7%9A%84%E5%BE%88%E5%A5%BD&t=31&band_rank=8&Refer=top)<br />
+7. [我突然意识到自己真的很好](https://s.weibo.com/weibo?q=%E6%88%91%E7%AA%81%E7%84%B6%E6%84%8F%E8%AF%86%E5%88%B0%E8%87%AA%E5%B7%B1%E7%9C%9F%E7%9A%84%E5%BE%88%E5%A5%BD&t=31&band_rank=7&Refer=top)<br />
+8. [杨紫是懂断更的](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E6%98%AF%E6%87%82%E6%96%AD%E6%9B%B4%E7%9A%84%23&t=31&band_rank=8&Refer=top)<br />
 9. [Uzi](https://s.weibo.com/weibo?q=Uzi&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
