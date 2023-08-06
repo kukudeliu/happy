@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-06 08:09:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-06 08:10:02</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [大运会又一个显眼包出现了](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%BF%90%E4%BC%9A%E5%8F%88%E4%B8%80%E4%B8%AA%E6%98%BE%E7%9C%BC%E5%8C%85%E5%87%BA%E7%8E%B0%E4%BA%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [山东平原县地震10人受伤](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E5%B9%B3%E5%8E%9F%E5%8E%BF%E5%9C%B0%E9%9C%8710%E4%BA%BA%E5%8F%97%E4%BC%A4%23&t=31&band_rank=4&Refer=top)<br />
 5. [北京震感](https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E9%9C%87%E6%84%9F&t=31&band_rank=5&Refer=top)<br />
-6. [薛之谦祝TFBOYS演唱会圆满成功](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E7%A5%9DTFBOYS%E6%BC%94%E5%94%B1%E4%BC%9A%E5%9C%86%E6%BB%A1%E6%88%90%E5%8A%9F%23&t=31&band_rank=6&Refer=top)<br />
+6. [吴彤也来看TFBOYS演唱会了](https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%BD%A4%E4%B9%9F%E6%9D%A5%E7%9C%8BTFBOYS%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [安崎自曝出道后失业到现在](https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%B4%8E%E8%87%AA%E6%9B%9D%E5%87%BA%E9%81%93%E5%90%8E%E5%A4%B1%E4%B8%9A%E5%88%B0%E7%8E%B0%E5%9C%A8%23&t=31&band_rank=7&Refer=top)<br />
-8. [TFBOYS十年之约演唱会](https://s.weibo.com/weibo?q=%23TFBOYS%E5%8D%81%E5%B9%B4%E4%B9%8B%E7%BA%A6%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=8&Refer=top)<br />
+8. [薛之谦祝TFBOYS演唱会圆满成功](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E7%A5%9DTFBOYS%E6%BC%94%E5%94%B1%E4%BC%9A%E5%9C%86%E6%BB%A1%E6%88%90%E5%8A%9F%23&t=31&band_rank=8&Refer=top)<br />
 9. [江苏震感](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E9%9C%87%E6%84%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
