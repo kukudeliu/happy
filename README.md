@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-06 12:31:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-06 12:32:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [海贼王](https://s.weibo.com/weibo?q=%E6%B5%B7%E8%B4%BC%E7%8E%8B&t=31&band_rank=6&Refer=top)<br />
 7. [陈晓谭松韵李斯丹妮出发驰援黑龙江](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%99%93%E8%B0%AD%E6%9D%BE%E9%9F%B5%E6%9D%8E%E6%96%AF%E4%B8%B9%E5%A6%AE%E5%87%BA%E5%8F%91%E9%A9%B0%E6%8F%B4%E9%BB%91%E9%BE%99%E6%B1%9F%23&t=31&band_rank=7&Refer=top)<br />
 8. [8岁女孩视力仅0.05手术后一句话令人泪目](https://s.weibo.com/weibo?q=%238%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%A7%86%E5%8A%9B%E4%BB%850.05%E6%89%8B%E6%9C%AF%E5%90%8E%E4%B8%80%E5%8F%A5%E8%AF%9D%E4%BB%A4%E4%BA%BA%E6%B3%AA%E7%9B%AE%23&t=31&band_rank=8&Refer=top)<br />
-9. [山东地震21人受伤](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E5%9C%B0%E9%9C%8721%E4%BA%BA%E5%8F%97%E4%BC%A4%23&t=31&band_rank=9&Refer=top)<br />
+9. [黄锐拿到票了](https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%94%90%E6%8B%BF%E5%88%B0%E7%A5%A8%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
