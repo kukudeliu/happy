@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-06 19:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-06 19:24:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [安徽一高校录取通知书出现错字](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E4%B8%80%E9%AB%98%E6%A0%A1%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E5%87%BA%E7%8E%B0%E9%94%99%E5%AD%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大妈踩在丹霞地貌上疯狂拍照](https://www.baidu.com/s?wd=%E5%A4%A7%E5%A6%88%E8%B8%A9%E5%9C%A8%E4%B8%B9%E9%9C%9E%E5%9C%B0%E8%B2%8C%E4%B8%8A%E7%96%AF%E7%8B%82%E6%8B%8D%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [武艺考试全科目零分](https://www.baidu.com/s?wd=%E6%AD%A6%E8%89%BA%E8%80%83%E8%AF%95%E5%85%A8%E7%A7%91%E7%9B%AE%E9%9B%B6%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [曝郑州大学领导以降薪要挟员工加班](https://www.baidu.com/s?wd=%E6%9B%9D%E9%83%91%E5%B7%9E%E5%A4%A7%E5%AD%A6%E9%A2%86%E5%AF%BC%E4%BB%A5%E9%99%8D%E8%96%AA%E8%A6%81%E6%8C%9F%E5%91%98%E5%B7%A5%E5%8A%A0%E7%8F%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [“我的手机睡得比我还死”](https://www.baidu.com/s?wd=%E2%80%9C%E6%88%91%E7%9A%84%E6%89%8B%E6%9C%BA%E7%9D%A1%E5%BE%97%E6%AF%94%E6%88%91%E8%BF%98%E6%AD%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [日本男子吃白饭咸菜20年存467万](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%94%B7%E5%AD%90%E5%90%83%E7%99%BD%E9%A5%AD%E5%92%B8%E8%8F%9C20%E5%B9%B4%E5%AD%98467%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [曝郑州大学领导以降薪要挟员工加班](https://www.baidu.com/s?wd=%E6%9B%9D%E9%83%91%E5%B7%9E%E5%A4%A7%E5%AD%A6%E9%A2%86%E5%AF%BC%E4%BB%A5%E9%99%8D%E8%96%AA%E8%A6%81%E6%8C%9F%E5%91%98%E5%B7%A5%E5%8A%A0%E7%8F%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [安徽一高校录取通知书出现错字](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E4%B8%80%E9%AB%98%E6%A0%A1%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E5%87%BA%E7%8E%B0%E9%94%99%E5%AD%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大妈踩在丹霞地貌上疯狂拍照](https://www.baidu.com/s?wd=%E5%A4%A7%E5%A6%88%E8%B8%A9%E5%9C%A8%E4%B8%B9%E9%9C%9E%E5%9C%B0%E8%B2%8C%E4%B8%8A%E7%96%AF%E7%8B%82%E6%8B%8D%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [武艺考试全科目零分](https://www.baidu.com/s?wd=%E6%AD%A6%E8%89%BA%E8%80%83%E8%AF%95%E5%85%A8%E7%A7%91%E7%9B%AE%E9%9B%B6%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [曝郑州大学领导以降薪要挟员工加班](https://www.baidu.com/s?wd=%E6%9B%9D%E9%83%91%E5%B7%9E%E5%A4%A7%E5%AD%A6%E9%A2%86%E5%AF%BC%E4%BB%A5%E9%99%8D%E8%96%AA%E8%A6%81%E6%8C%9F%E5%91%98%E5%B7%A5%E5%8A%A0%E7%8F%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [“我的手机睡得比我还死”](https://www.baidu.com/s?wd=%E2%80%9C%E6%88%91%E7%9A%84%E6%89%8B%E6%9C%BA%E7%9D%A1%E5%BE%97%E6%AF%94%E6%88%91%E8%BF%98%E6%AD%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [日本男子吃白饭咸菜20年存467万](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%94%B7%E5%AD%90%E5%90%83%E7%99%BD%E9%A5%AD%E5%92%B8%E8%8F%9C20%E5%B9%B4%E5%AD%98467%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [曝郑州大学领导以降薪要挟员工加班](https://www.baidu.com/s?wd=%E6%9B%9D%E9%83%91%E5%B7%9E%E5%A4%A7%E5%AD%A6%E9%A2%86%E5%AF%BC%E4%BB%A5%E9%99%8D%E8%96%AA%E8%A6%81%E6%8C%9F%E5%91%98%E5%B7%A5%E5%8A%A0%E7%8F%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
