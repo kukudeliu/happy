@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-06 20:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-06 20:39:02</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [主持人是蓝羽姐姐](https://s.weibo.com/weibo?q=%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%98%AF%E8%93%9D%E7%BE%BD%E5%A7%90%E5%A7%90&t=31&band_rank=4&Refer=top)<br />
 5. [王源好像小王子](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%BA%90%E5%A5%BD%E5%83%8F%E5%B0%8F%E7%8E%8B%E5%AD%90&t=31&band_rank=5&Refer=top)<br />
 6. [他们仨都笑了](https://s.weibo.com/weibo?q=%23%E4%BB%96%E4%BB%AC%E4%BB%A8%E9%83%BD%E7%AC%91%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [迪丽热巴戒指](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%88%92%E6%8C%87%23&t=31&band_rank=7&Refer=top)<br />
-8. [EDG](https://s.weibo.com/weibo?q=EDG&t=31&band_rank=8&Refer=top)<br />
+7. [EDG](https://s.weibo.com/weibo?q=EDG&t=31&band_rank=7&Refer=top)<br />
+8. [LNG战胜EDG](https://s.weibo.com/weibo?q=%23LNG%E6%88%98%E8%83%9CEDG%23&t=31&band_rank=8&Refer=top)<br />
 9. [大妈踩在丹霞地貌上疯狂拍照](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%A6%88%E8%B8%A9%E5%9C%A8%E4%B8%B9%E9%9C%9E%E5%9C%B0%E8%B2%8C%E4%B8%8A%E7%96%AF%E7%8B%82%E6%8B%8D%E7%85%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -24,8 +24,8 @@
 5. [TFBOYS三人共同发声](https://www.baidu.com/s?wd=TFBOYS%E4%B8%89%E4%BA%BA%E5%85%B1%E5%90%8C%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [高校花1.31亿科研经费 零成果](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E8%8A%B11.31%E4%BA%BF%E7%A7%91%E7%A0%94%E7%BB%8F%E8%B4%B9+%E9%9B%B6%E6%88%90%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [武艺考试全科目零分](https://www.baidu.com/s?wd=%E6%AD%A6%E8%89%BA%E8%80%83%E8%AF%95%E5%85%A8%E7%A7%91%E7%9B%AE%E9%9B%B6%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [巧克力将涨价](https://www.baidu.com/s?wd=%E5%B7%A7%E5%85%8B%E5%8A%9B%E5%B0%86%E6%B6%A8%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [徐峥夫妇带女儿追星TFBOYS](https://www.baidu.com/s?wd=%E5%BE%90%E5%B3%A5%E5%A4%AB%E5%A6%87%E5%B8%A6%E5%A5%B3%E5%84%BF%E8%BF%BD%E6%98%9FTFBOYS&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [地震预警来临的几秒 我们可以做什么](https://www.baidu.com/s?wd=%E5%9C%B0%E9%9C%87%E9%A2%84%E8%AD%A6%E6%9D%A5%E4%B8%B4%E7%9A%84%E5%87%A0%E7%A7%92+%E6%88%91%E4%BB%AC%E5%8F%AF%E4%BB%A5%E5%81%9A%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [巧克力将涨价](https://www.baidu.com/s?wd=%E5%B7%A7%E5%85%8B%E5%8A%9B%E5%B0%86%E6%B6%A8%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [TFBOYS三人共同发声](https://www.baidu.com/s?wd=TFBOYS%E4%B8%89%E4%BA%BA%E5%85%B1%E5%90%8C%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [高校花1.31亿科研经费 零成果](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E8%8A%B11.31%E4%BA%BF%E7%A7%91%E7%A0%94%E7%BB%8F%E8%B4%B9+%E9%9B%B6%E6%88%90%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [武艺考试全科目零分](https://www.baidu.com/s?wd=%E6%AD%A6%E8%89%BA%E8%80%83%E8%AF%95%E5%85%A8%E7%A7%91%E7%9B%AE%E9%9B%B6%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [巧克力将涨价](https://www.baidu.com/s?wd=%E5%B7%A7%E5%85%8B%E5%8A%9B%E5%B0%86%E6%B6%A8%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [徐峥夫妇带女儿追星TFBOYS](https://www.baidu.com/s?wd=%E5%BE%90%E5%B3%A5%E5%A4%AB%E5%A6%87%E5%B8%A6%E5%A5%B3%E5%84%BF%E8%BF%BD%E6%98%9FTFBOYS&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [地震预警来临的几秒 我们可以做什么](https://www.baidu.com/s?wd=%E5%9C%B0%E9%9C%87%E9%A2%84%E8%AD%A6%E6%9D%A5%E4%B8%B4%E7%9A%84%E5%87%A0%E7%A7%92+%E6%88%91%E4%BB%AC%E5%8F%AF%E4%BB%A5%E5%81%9A%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [巧克力将涨价](https://www.baidu.com/s?wd=%E5%B7%A7%E5%85%8B%E5%8A%9B%E5%B0%86%E6%B6%A8%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
