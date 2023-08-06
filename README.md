@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-07 07:41:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-07 07:42:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [太平公主薛绍婚礼火炬烤焦沿途树木](https://s.weibo.com/weibo?q=%23%E5%A4%AA%E5%B9%B3%E5%85%AC%E4%B8%BB%E8%96%9B%E7%BB%8D%E5%A9%9A%E7%A4%BC%E7%81%AB%E7%82%AC%E7%83%A4%E7%84%A6%E6%B2%BF%E9%80%94%E6%A0%91%E6%9C%A8%23&t=31&band_rank=6&Refer=top)<br />
 7. [十周年蛋糕塌了](https://s.weibo.com/weibo?q=%23%E5%8D%81%E5%91%A8%E5%B9%B4%E8%9B%8B%E7%B3%95%E5%A1%8C%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [钱塘江众多游客近距离观潮被卷入](https://s.weibo.com/weibo?q=%23%E9%92%B1%E5%A1%98%E6%B1%9F%E4%BC%97%E5%A4%9A%E6%B8%B8%E5%AE%A2%E8%BF%91%E8%B7%9D%E7%A6%BB%E8%A7%82%E6%BD%AE%E8%A2%AB%E5%8D%B7%E5%85%A5%23&t=31&band_rank=8&Refer=top)<br />
-9. [直到25岁我才真正读完了中学](https://s.weibo.com/weibo?q=%23%E7%9B%B4%E5%88%B025%E5%B2%81%E6%88%91%E6%89%8D%E7%9C%9F%E6%AD%A3%E8%AF%BB%E5%AE%8C%E4%BA%86%E4%B8%AD%E5%AD%A6%23&t=31&band_rank=9&Refer=top)<br />
+9. [命运的齿轮开始生锈](https://s.weibo.com/weibo?q=%23%E5%91%BD%E8%BF%90%E7%9A%84%E9%BD%BF%E8%BD%AE%E5%BC%80%E5%A7%8B%E7%94%9F%E9%94%88%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
