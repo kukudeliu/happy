@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-06 14:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-06 14:46:01</h4></div>
 
 > 微博  
 
 1. [苹果地震预警](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%9C%B0%E9%9C%87%E9%A2%84%E8%AD%A6%23&t=31&band_rank=1&Refer=top)<br />
-2. [江苏人的身份证](https://s.weibo.com/weibo?q=%E6%B1%9F%E8%8B%8F%E4%BA%BA%E7%9A%84%E8%BA%AB%E4%BB%BD%E8%AF%81&t=31&band_rank=2&Refer=top)<br />
+2. [易烊千玺同乘舞台首唱是王传君](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%90%8C%E4%B9%98%E8%88%9E%E5%8F%B0%E9%A6%96%E5%94%B1%E6%98%AF%E7%8E%8B%E4%BC%A0%E5%90%9B%23&t=31&band_rank=2&Refer=top)<br />
 3. [收到地震预警之后该怎么做](https://s.weibo.com/weibo?q=%23%E6%94%B6%E5%88%B0%E5%9C%B0%E9%9C%87%E9%A2%84%E8%AD%A6%E4%B9%8B%E5%90%8E%E8%AF%A5%E6%80%8E%E4%B9%88%E5%81%9A%23&t=31&band_rank=3&Refer=top)<br />
-4. [易烊千玺同乘舞台首唱是王传君](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%90%8C%E4%B9%98%E8%88%9E%E5%8F%B0%E9%A6%96%E5%94%B1%E6%98%AF%E7%8E%8B%E4%BC%A0%E5%90%9B%23&t=31&band_rank=4&Refer=top)<br />
+4. [江苏人的身份证](https://s.weibo.com/weibo?q=%E6%B1%9F%E8%8B%8F%E4%BA%BA%E7%9A%84%E8%BA%AB%E4%BB%BD%E8%AF%81&t=31&band_rank=4&Refer=top)<br />
 5. [内娱不可复制的成功](https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E4%B8%8D%E5%8F%AF%E5%A4%8D%E5%88%B6%E7%9A%84%E6%88%90%E5%8A%9F%23&t=31&band_rank=5&Refer=top)<br />
 6. [TFBOYS从场馆里出来看粉丝](https://s.weibo.com/weibo?q=%23TFBOYS%E4%BB%8E%E5%9C%BA%E9%A6%86%E9%87%8C%E5%87%BA%E6%9D%A5%E7%9C%8B%E7%B2%89%E4%B8%9D%23&t=31&band_rank=6&Refer=top)<br />
 7. [韩国女高中生去小区理发店烫刘海](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E5%A5%B3%E9%AB%98%E4%B8%AD%E7%94%9F%E5%8E%BB%E5%B0%8F%E5%8C%BA%E7%90%86%E5%8F%91%E5%BA%97%E7%83%AB%E5%88%98%E6%B5%B7&t=31&band_rank=7&Refer=top)<br />
