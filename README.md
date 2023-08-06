@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-06 11:07:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-06 11:08:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [海贼王](https://s.weibo.com/weibo?q=%E6%B5%B7%E8%B4%BC%E7%8E%8B&t=31&band_rank=5&Refer=top)<br />
 6. [8岁女孩视力仅0.05手术后一句话令人泪目](https://s.weibo.com/weibo?q=%238%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%A7%86%E5%8A%9B%E4%BB%850.05%E6%89%8B%E6%9C%AF%E5%90%8E%E4%B8%80%E5%8F%A5%E8%AF%9D%E4%BB%A4%E4%BA%BA%E6%B3%AA%E7%9B%AE%23&t=31&band_rank=6&Refer=top)<br />
 7. [王俊凯王源易烊千玺同台比心](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%8E%8B%E6%BA%90%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%90%8C%E5%8F%B0%E6%AF%94%E5%BF%83%23&t=31&band_rank=7&Refer=top)<br />
-8. [山东地震21人受伤](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E5%9C%B0%E9%9C%8721%E4%BA%BA%E5%8F%97%E4%BC%A4%23&t=31&band_rank=8&Refer=top)<br />
-9. [地震瞬间男生转身牵女生手逃离](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%9C%87%E7%9E%AC%E9%97%B4%E7%94%B7%E7%94%9F%E8%BD%AC%E8%BA%AB%E7%89%B5%E5%A5%B3%E7%94%9F%E6%89%8B%E9%80%83%E7%A6%BB%23&t=31&band_rank=9&Refer=top)<br />
+8. [地震瞬间男生转身牵女生手逃离](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%9C%87%E7%9E%AC%E9%97%B4%E7%94%B7%E7%94%9F%E8%BD%AC%E8%BA%AB%E7%89%B5%E5%A5%B3%E7%94%9F%E6%89%8B%E9%80%83%E7%A6%BB%23&t=31&band_rank=8&Refer=top)<br />
+9. [山东地震21人受伤](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E5%9C%B0%E9%9C%8721%E4%BA%BA%E5%8F%97%E4%BC%A4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
