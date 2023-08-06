@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-06 11:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-06 11:59:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [江苏官方辟谣“地震云”](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E2%80%9C%E5%9C%B0%E9%9C%87%E4%BA%91%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [日本男子吃白饭咸菜20年存467万](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%94%B7%E5%AD%90%E5%90%83%E7%99%BD%E9%A5%AD%E5%92%B8%E8%8F%9C20%E5%B9%B4%E5%AD%98467%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [孩子仅睡2小时赶飞机口吐白沫](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E4%BB%85%E7%9D%A12%E5%B0%8F%E6%97%B6%E8%B5%B6%E9%A3%9E%E6%9C%BA%E5%8F%A3%E5%90%90%E7%99%BD%E6%B2%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [震中有房屋出现裂痕](https://www.baidu.com/s?wd=%E9%9C%87%E4%B8%AD%E6%9C%89%E6%88%BF%E5%B1%8B%E5%87%BA%E7%8E%B0%E8%A3%82%E7%97%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [吉林舒兰暴雨致6死 4名公职人员失联](https://www.baidu.com/s?wd=%E5%90%89%E6%9E%97%E8%88%92%E5%85%B0%E6%9A%B4%E9%9B%A8%E8%87%B46%E6%AD%BB+4%E5%90%8D%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [江苏官方辟谣“地震云”](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E2%80%9C%E5%9C%B0%E9%9C%87%E4%BA%91%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [日本男子吃白饭咸菜20年存467万](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%94%B7%E5%AD%90%E5%90%83%E7%99%BD%E9%A5%AD%E5%92%B8%E8%8F%9C20%E5%B9%B4%E5%AD%98467%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [孩子仅睡2小时赶飞机口吐白沫](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E4%BB%85%E7%9D%A12%E5%B0%8F%E6%97%B6%E8%B5%B6%E9%A3%9E%E6%9C%BA%E5%8F%A3%E5%90%90%E7%99%BD%E6%B2%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [震中有房屋出现裂痕](https://www.baidu.com/s?wd=%E9%9C%87%E4%B8%AD%E6%9C%89%E6%88%BF%E5%B1%8B%E5%87%BA%E7%8E%B0%E8%A3%82%E7%97%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [吉林舒兰暴雨致6死 4名公职人员失联](https://www.baidu.com/s?wd=%E5%90%89%E6%9E%97%E8%88%92%E5%85%B0%E6%9A%B4%E9%9B%A8%E8%87%B46%E6%AD%BB+4%E5%90%8D%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
