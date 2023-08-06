@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-06 15:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-06 15:37:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [苹果地震预警](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%9C%B0%E9%9C%87%E9%A2%84%E8%AD%A6%23&t=31&band_rank=2&Refer=top)<br />
 3. [收到地震预警之后该怎么做](https://s.weibo.com/weibo?q=%23%E6%94%B6%E5%88%B0%E5%9C%B0%E9%9C%87%E9%A2%84%E8%AD%A6%E4%B9%8B%E5%90%8E%E8%AF%A5%E6%80%8E%E4%B9%88%E5%81%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [TFBOYS演唱会歌单](https://s.weibo.com/weibo?q=TFBOYS%E6%BC%94%E5%94%B1%E4%BC%9A%E6%AD%8C%E5%8D%95&t=31&band_rank=4&Refer=top)<br />
-5. [当中年领导用上了Air Pods](https://s.weibo.com/weibo?q=%E5%BD%93%E4%B8%AD%E5%B9%B4%E9%A2%86%E5%AF%BC%E7%94%A8%E4%B8%8A%E4%BA%86Air%20Pods&t=31&band_rank=5&Refer=top)<br />
-6. [武艺考试全科目零分](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E8%89%BA%E8%80%83%E8%AF%95%E5%85%A8%E7%A7%91%E7%9B%AE%E9%9B%B6%E5%88%86%23&t=31&band_rank=6&Refer=top)<br />
+5. [武艺考试全科目零分](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E8%89%BA%E8%80%83%E8%AF%95%E5%85%A8%E7%A7%91%E7%9B%AE%E9%9B%B6%E5%88%86%23&t=31&band_rank=5&Refer=top)<br />
+6. [当中年领导用上了Air Pods](https://s.weibo.com/weibo?q=%E5%BD%93%E4%B8%AD%E5%B9%B4%E9%A2%86%E5%AF%BC%E7%94%A8%E4%B8%8A%E4%BA%86Air%20Pods&t=31&band_rank=6&Refer=top)<br />
 7. [中药奶茶](https://s.weibo.com/weibo?q=%E4%B8%AD%E8%8D%AF%E5%A5%B6%E8%8C%B6&t=31&band_rank=7&Refer=top)<br />
-8. [年轻人为什么不爱吃零食了](https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E7%88%B1%E5%90%83%E9%9B%B6%E9%A3%9F%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [TFBOYS演唱会场馆外围已人山人海](https://s.weibo.com/weibo?q=%23TFBOYS%E6%BC%94%E5%94%B1%E4%BC%9A%E5%9C%BA%E9%A6%86%E5%A4%96%E5%9B%B4%E5%B7%B2%E4%BA%BA%E5%B1%B1%E4%BA%BA%E6%B5%B7%23&t=31&band_rank=9&Refer=top)<br />
+8. [TFBOYS演唱会场馆外围已人山人海](https://s.weibo.com/weibo?q=%23TFBOYS%E6%BC%94%E5%94%B1%E4%BC%9A%E5%9C%BA%E9%A6%86%E5%A4%96%E5%9B%B4%E5%B7%B2%E4%BA%BA%E5%B1%B1%E4%BA%BA%E6%B5%B7%23&t=31&band_rank=8&Refer=top)<br />
+9. [年轻人为什么不爱吃零食了](https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E7%88%B1%E5%90%83%E9%9B%B6%E9%A3%9F%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
