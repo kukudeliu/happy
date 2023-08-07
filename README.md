@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-07 23:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-07 23:24:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [TFBOYS演唱会优酷最少进账6550万](https://s.weibo.com/weibo?q=%23TFBOYS%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BC%98%E9%85%B7%E6%9C%80%E5%B0%91%E8%BF%9B%E8%B4%A66550%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [玱玹只听到了三个字](https://s.weibo.com/weibo?q=%23%E7%8E%B1%E7%8E%B9%E5%8F%AA%E5%90%AC%E5%88%B0%E4%BA%86%E4%B8%89%E4%B8%AA%E5%AD%97%23&t=31&band_rank=7&Refer=top)<br />
 8. [Doinb](https://s.weibo.com/weibo?q=Doinb&t=31&band_rank=8&Refer=top)<br />
-9. [为什么现在T恤领口越来越小了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8T%E6%81%A4%E9%A2%86%E5%8F%A3%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%B0%8F%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [Prada把檀健次拍成维修工了](https://s.weibo.com/weibo?q=%23Prada%E6%8A%8A%E6%AA%80%E5%81%A5%E6%AC%A1%E6%8B%8D%E6%88%90%E7%BB%B4%E4%BF%AE%E5%B7%A5%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
