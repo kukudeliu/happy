@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-07 21:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-07 21:38:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [长相思梅林殉情](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D%E6%A2%85%E6%9E%97%E6%AE%89%E6%83%85%23&t=31&band_rank=6&Refer=top)<br />
 7. [TFBOYS是在擦玻璃吗](https://s.weibo.com/weibo?q=%23TFBOYS%E6%98%AF%E5%9C%A8%E6%93%A6%E7%8E%BB%E7%92%83%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
 8. [孤注一掷成中国影史点映票房冠军](https://s.weibo.com/weibo?q=%23%E5%AD%A4%E6%B3%A8%E4%B8%80%E6%8E%B7%E6%88%90%E4%B8%AD%E5%9B%BD%E5%BD%B1%E5%8F%B2%E7%82%B9%E6%98%A0%E7%A5%A8%E6%88%BF%E5%86%A0%E5%86%9B%23&t=31&band_rank=8&Refer=top)<br />
-9. [WBG战胜TES](https://s.weibo.com/weibo?q=%23WBG%E6%88%98%E8%83%9CTES%23&t=31&band_rank=9&Refer=top)<br />
+9. [邓为从脖子红到耳朵](https://s.weibo.com/weibo?q=%23%E9%82%93%E4%B8%BA%E4%BB%8E%E8%84%96%E5%AD%90%E7%BA%A2%E5%88%B0%E8%80%B3%E6%9C%B5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
