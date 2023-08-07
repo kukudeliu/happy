@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-07 16:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-07 16:32:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [TFBOYS团站关站](https://s.weibo.com/weibo?q=%23TFBOYS%E5%9B%A2%E7%AB%99%E5%85%B3%E7%AB%99%23&t=31&band_rank=6&Refer=top)<br />
 7. [台风卡努大转弯或将登陆我国](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E5%8D%A1%E5%8A%AA%E5%A4%A7%E8%BD%AC%E5%BC%AF%E6%88%96%E5%B0%86%E7%99%BB%E9%99%86%E6%88%91%E5%9B%BD%23&t=31&band_rank=7&Refer=top)<br />
 8. [接近碧桂园人士称被进驻传言不实](https://s.weibo.com/weibo?q=%23%E6%8E%A5%E8%BF%91%E7%A2%A7%E6%A1%82%E5%9B%AD%E4%BA%BA%E5%A3%AB%E7%A7%B0%E8%A2%AB%E8%BF%9B%E9%A9%BB%E4%BC%A0%E8%A8%80%E4%B8%8D%E5%AE%9E%23&t=31&band_rank=8&Refer=top)<br />
-9. [倒下的蛋糕 虚假中的真实](https://s.weibo.com/weibo?q=%E5%80%92%E4%B8%8B%E7%9A%84%E8%9B%8B%E7%B3%95%20%E8%99%9A%E5%81%87%E4%B8%AD%E7%9A%84%E7%9C%9F%E5%AE%9E&t=31&band_rank=9&Refer=top)<br />
+9. [月薪2万住不起如家汉庭](https://s.weibo.com/weibo?q=%23%E6%9C%88%E8%96%AA2%E4%B8%87%E4%BD%8F%E4%B8%8D%E8%B5%B7%E5%A6%82%E5%AE%B6%E6%B1%89%E5%BA%AD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
