@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-07 17:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-07 17:33:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [时代峰峻回应TFBOYS很少合体](https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E5%9B%9E%E5%BA%94TFBOYS%E5%BE%88%E5%B0%91%E5%90%88%E4%BD%93%23&t=31&band_rank=6&Refer=top)<br />
 7. [莲花楼央八收视](https://s.weibo.com/weibo?q=%23%E8%8E%B2%E8%8A%B1%E6%A5%BC%E5%A4%AE%E5%85%AB%E6%94%B6%E8%A7%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [Somi回归](https://s.weibo.com/weibo?q=Somi%E5%9B%9E%E5%BD%92&t=31&band_rank=8&Refer=top)<br />
-9. [中纪委曝光一台直线加速器回扣1600万](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BA%AA%E5%A7%94%E6%9B%9D%E5%85%89%E4%B8%80%E5%8F%B0%E7%9B%B4%E7%BA%BF%E5%8A%A0%E9%80%9F%E5%99%A8%E5%9B%9E%E6%89%A31600%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
+9. [TES对战WBG](https://s.weibo.com/weibo?q=%23TES%E5%AF%B9%E6%88%98WBG%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
