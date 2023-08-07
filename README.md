@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-07 20:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-07 20:13:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [时代峰峻回应TFBOYS很少合体](https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E5%9B%9E%E5%BA%94TFBOYS%E5%BE%88%E5%B0%91%E5%90%88%E4%BD%93%23&t=31&band_rank=6&Refer=top)<br />
 7. [小夭知道防风邶是相柳了](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%A4%AD%E7%9F%A5%E9%81%93%E9%98%B2%E9%A3%8E%E9%82%B6%E6%98%AF%E7%9B%B8%E6%9F%B3%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [TheShy](https://s.weibo.com/weibo?q=TheShy&t=31&band_rank=8&Refer=top)<br />
-9. [游客扔遍地垃圾女子自发去海边捡拾](https://s.weibo.com/weibo?q=%23%E6%B8%B8%E5%AE%A2%E6%89%94%E9%81%8D%E5%9C%B0%E5%9E%83%E5%9C%BE%E5%A5%B3%E5%AD%90%E8%87%AA%E5%8F%91%E5%8E%BB%E6%B5%B7%E8%BE%B9%E6%8D%A1%E6%8B%BE%23&t=31&band_rank=9&Refer=top)<br />
+9. [TES对战WBG](https://s.weibo.com/weibo?q=%23TES%E5%AF%B9%E6%88%98WBG%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
