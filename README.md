@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-07 21:38:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-07 21:39:01</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [京津冀多部门投入救援力量](https://www.baidu.com/s?wd=%E4%BA%AC%E6%B4%A5%E5%86%80%E5%A4%9A%E9%83%A8%E9%97%A8%E6%8A%95%E5%85%A5%E6%95%91%E6%8F%B4%E5%8A%9B%E9%87%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [生还司机回忆舒兰副市长遇难前场景](https://www.baidu.com/s?wd=%E7%94%9F%E8%BF%98%E5%8F%B8%E6%9C%BA%E5%9B%9E%E5%BF%86%E8%88%92%E5%85%B0%E5%89%AF%E5%B8%82%E9%95%BF%E9%81%87%E9%9A%BE%E5%89%8D%E5%9C%BA%E6%99%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [昆明滇池大面积鱼群跳跃](https://www.baidu.com/s?wd=%E6%98%86%E6%98%8E%E6%BB%87%E6%B1%A0%E5%A4%A7%E9%9D%A2%E7%A7%AF%E9%B1%BC%E7%BE%A4%E8%B7%B3%E8%B7%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [日本大企业平均加薪达1.3万日元](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A4%A7%E4%BC%81%E4%B8%9A%E5%B9%B3%E5%9D%87%E5%8A%A0%E8%96%AA%E8%BE%BE1.3%E4%B8%87%E6%97%A5%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [全国电影单日票房连续2天破5亿](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E7%94%B5%E5%BD%B1%E5%8D%95%E6%97%A5%E7%A5%A8%E6%88%BF%E8%BF%9E%E7%BB%AD2%E5%A4%A9%E7%A0%B45%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [医院回应太平间强制收抬尸费](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E5%A4%AA%E5%B9%B3%E9%97%B4%E5%BC%BA%E5%88%B6%E6%94%B6%E6%8A%AC%E5%B0%B8%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [张亮麻辣烫就羊肉掺假事件道歉](https://www.baidu.com/s?wd=%E5%BC%A0%E4%BA%AE%E9%BA%BB%E8%BE%A3%E7%83%AB%E5%B0%B1%E7%BE%8A%E8%82%89%E6%8E%BA%E5%81%87%E4%BA%8B%E4%BB%B6%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [京津冀多部门投入救援力量](https://www.baidu.com/s?wd=%E4%BA%AC%E6%B4%A5%E5%86%80%E5%A4%9A%E9%83%A8%E9%97%A8%E6%8A%95%E5%85%A5%E6%95%91%E6%8F%B4%E5%8A%9B%E9%87%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [生还司机回忆舒兰副市长遇难前场景](https://www.baidu.com/s?wd=%E7%94%9F%E8%BF%98%E5%8F%B8%E6%9C%BA%E5%9B%9E%E5%BF%86%E8%88%92%E5%85%B0%E5%89%AF%E5%B8%82%E9%95%BF%E9%81%87%E9%9A%BE%E5%89%8D%E5%9C%BA%E6%99%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [昆明滇池大面积鱼群跳跃](https://www.baidu.com/s?wd=%E6%98%86%E6%98%8E%E6%BB%87%E6%B1%A0%E5%A4%A7%E9%9D%A2%E7%A7%AF%E9%B1%BC%E7%BE%A4%E8%B7%B3%E8%B7%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [日本大企业平均加薪达1.3万日元](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A4%A7%E4%BC%81%E4%B8%9A%E5%B9%B3%E5%9D%87%E5%8A%A0%E8%96%AA%E8%BE%BE1.3%E4%B8%87%E6%97%A5%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [全国电影单日票房连续2天破5亿](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E7%94%B5%E5%BD%B1%E5%8D%95%E6%97%A5%E7%A5%A8%E6%88%BF%E8%BF%9E%E7%BB%AD2%E5%A4%A9%E7%A0%B45%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [医院回应太平间强制收抬尸费](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E5%A4%AA%E5%B9%B3%E9%97%B4%E5%BC%BA%E5%88%B6%E6%94%B6%E6%8A%AC%E5%B0%B8%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [张亮麻辣烫就羊肉掺假事件道歉](https://www.baidu.com/s?wd=%E5%BC%A0%E4%BA%AE%E9%BA%BB%E8%BE%A3%E7%83%AB%E5%B0%B1%E7%BE%8A%E8%82%89%E6%8E%BA%E5%81%87%E4%BA%8B%E4%BB%B6%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
