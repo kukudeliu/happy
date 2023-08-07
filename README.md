@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 02:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 02:20:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [松花江发生2023年第1号洪水](https://www.baidu.com/s?wd=%E6%9D%BE%E8%8A%B1%E6%B1%9F%E5%8F%91%E7%94%9F2023%E5%B9%B4%E7%AC%AC1%E5%8F%B7%E6%B4%AA%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [洪水中有游船收费观光？当地回应](https://www.baidu.com/s?wd=%E6%B4%AA%E6%B0%B4%E4%B8%AD%E6%9C%89%E6%B8%B8%E8%88%B9%E6%94%B6%E8%B4%B9%E8%A7%82%E5%85%89%EF%BC%9F%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [因为没见过大海他报了大连理工](https://www.baidu.com/s?wd=%E5%9B%A0%E4%B8%BA%E6%B2%A1%E8%A7%81%E8%BF%87%E5%A4%A7%E6%B5%B7%E4%BB%96%E6%8A%A5%E4%BA%86%E5%A4%A7%E8%BF%9E%E7%90%86%E5%B7%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [王楚然新剧原著女主一直翻白眼](https://www.baidu.com/s?wd=%E7%8E%8B%E6%A5%9A%E7%84%B6%E6%96%B0%E5%89%A7%E5%8E%9F%E8%91%97%E5%A5%B3%E4%B8%BB%E4%B8%80%E7%9B%B4%E7%BF%BB%E7%99%BD%E7%9C%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [揭秘公安厅副厅长“借钱生钱”](https://www.baidu.com/s?wd=%E6%8F%AD%E7%A7%98%E5%85%AC%E5%AE%89%E5%8E%85%E5%89%AF%E5%8E%85%E9%95%BF%E2%80%9C%E5%80%9F%E9%92%B1%E7%94%9F%E9%92%B1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [松花江发生2023年第1号洪水](https://www.baidu.com/s?wd=%E6%9D%BE%E8%8A%B1%E6%B1%9F%E5%8F%91%E7%94%9F2023%E5%B9%B4%E7%AC%AC1%E5%8F%B7%E6%B4%AA%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [洪水中有游船收费观光？当地回应](https://www.baidu.com/s?wd=%E6%B4%AA%E6%B0%B4%E4%B8%AD%E6%9C%89%E6%B8%B8%E8%88%B9%E6%94%B6%E8%B4%B9%E8%A7%82%E5%85%89%EF%BC%9F%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [因为没见过大海他报了大连理工](https://www.baidu.com/s?wd=%E5%9B%A0%E4%B8%BA%E6%B2%A1%E8%A7%81%E8%BF%87%E5%A4%A7%E6%B5%B7%E4%BB%96%E6%8A%A5%E4%BA%86%E5%A4%A7%E8%BF%9E%E7%90%86%E5%B7%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [王楚然新剧原著女主一直翻白眼](https://www.baidu.com/s?wd=%E7%8E%8B%E6%A5%9A%E7%84%B6%E6%96%B0%E5%89%A7%E5%8E%9F%E8%91%97%E5%A5%B3%E4%B8%BB%E4%B8%80%E7%9B%B4%E7%BF%BB%E7%99%BD%E7%9C%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [揭秘公安厅副厅长“借钱生钱”](https://www.baidu.com/s?wd=%E6%8F%AD%E7%A7%98%E5%85%AC%E5%AE%89%E5%8E%85%E5%89%AF%E5%8E%85%E9%95%BF%E2%80%9C%E5%80%9F%E9%92%B1%E7%94%9F%E9%92%B1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
