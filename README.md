@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-07 10:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-07 10:29:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [家长晒娃暑假账单：已花费近3万](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E6%99%92%E5%A8%83%E6%9A%91%E5%81%87%E8%B4%A6%E5%8D%95%EF%BC%9A%E5%B7%B2%E8%8A%B1%E8%B4%B9%E8%BF%913%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子送站误上列车 妻子要求高铁停车](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%80%81%E7%AB%99%E8%AF%AF%E4%B8%8A%E5%88%97%E8%BD%A6+%E5%A6%BB%E5%AD%90%E8%A6%81%E6%B1%82%E9%AB%98%E9%93%81%E5%81%9C%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [张远破音](https://www.baidu.com/s?wd=%E5%BC%A0%E8%BF%9C%E7%A0%B4%E9%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [五常市农田被淹水面连在一起](https://www.baidu.com/s?wd=%E4%BA%94%E5%B8%B8%E5%B8%82%E5%86%9C%E7%94%B0%E8%A2%AB%E6%B7%B9%E6%B0%B4%E9%9D%A2%E8%BF%9E%E5%9C%A8%E4%B8%80%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中国驻尼日尔大使馆发布紧急提醒](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A9%BB%E5%B0%BC%E6%97%A5%E5%B0%94%E5%A4%A7%E4%BD%BF%E9%A6%86%E5%8F%91%E5%B8%83%E7%B4%A7%E6%80%A5%E6%8F%90%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中国驻尼日尔大使馆发布紧急提醒](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A9%BB%E5%B0%BC%E6%97%A5%E5%B0%94%E5%A4%A7%E4%BD%BF%E9%A6%86%E5%8F%91%E5%B8%83%E7%B4%A7%E6%80%A5%E6%8F%90%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [洪水回落后 村民光脚蹚淤泥回家看看](https://www.baidu.com/s?wd=%E6%B4%AA%E6%B0%B4%E5%9B%9E%E8%90%BD%E5%90%8E+%E6%9D%91%E6%B0%91%E5%85%89%E8%84%9A%E8%B9%9A%E6%B7%A4%E6%B3%A5%E5%9B%9E%E5%AE%B6%E7%9C%8B%E7%9C%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [家长晒娃暑假账单：已花费近3万](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E6%99%92%E5%A8%83%E6%9A%91%E5%81%87%E8%B4%A6%E5%8D%95%EF%BC%9A%E5%B7%B2%E8%8A%B1%E8%B4%B9%E8%BF%913%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子送站误上列车 妻子要求高铁停车](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%80%81%E7%AB%99%E8%AF%AF%E4%B8%8A%E5%88%97%E8%BD%A6+%E5%A6%BB%E5%AD%90%E8%A6%81%E6%B1%82%E9%AB%98%E9%93%81%E5%81%9C%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [张远破音](https://www.baidu.com/s?wd=%E5%BC%A0%E8%BF%9C%E7%A0%B4%E9%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [五常市农田被淹水面连在一起](https://www.baidu.com/s?wd=%E4%BA%94%E5%B8%B8%E5%B8%82%E5%86%9C%E7%94%B0%E8%A2%AB%E6%B7%B9%E6%B0%B4%E9%9D%A2%E8%BF%9E%E5%9C%A8%E4%B8%80%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中国驻尼日尔大使馆发布紧急提醒](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A9%BB%E5%B0%BC%E6%97%A5%E5%B0%94%E5%A4%A7%E4%BD%BF%E9%A6%86%E5%8F%91%E5%B8%83%E7%B4%A7%E6%80%A5%E6%8F%90%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中国驻尼日尔大使馆发布紧急提醒](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A9%BB%E5%B0%BC%E6%97%A5%E5%B0%94%E5%A4%A7%E4%BD%BF%E9%A6%86%E5%8F%91%E5%B8%83%E7%B4%A7%E6%80%A5%E6%8F%90%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [洪水回落后 村民光脚蹚淤泥回家看看](https://www.baidu.com/s?wd=%E6%B4%AA%E6%B0%B4%E5%9B%9E%E8%90%BD%E5%90%8E+%E6%9D%91%E6%B0%91%E5%85%89%E8%84%9A%E8%B9%9A%E6%B7%A4%E6%B3%A5%E5%9B%9E%E5%AE%B6%E7%9C%8B%E7%9C%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
