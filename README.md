@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-07 11:57:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-07 11:58:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [王源放下话筒之后还在唱](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E6%94%BE%E4%B8%8B%E8%AF%9D%E7%AD%92%E4%B9%8B%E5%90%8E%E8%BF%98%E5%9C%A8%E5%94%B1%23&t=31&band_rank=6&Refer=top)<br />
 7. [领导们好像不爱吃火锅](https://s.weibo.com/weibo?q=%E9%A2%86%E5%AF%BC%E4%BB%AC%E5%A5%BD%E5%83%8F%E4%B8%8D%E7%88%B1%E5%90%83%E7%81%AB%E9%94%85&t=31&band_rank=7&Refer=top)<br />
 8. [魏大勋忘记还麦的时候](https://s.weibo.com/weibo?q=%E9%AD%8F%E5%A4%A7%E5%8B%8B%E5%BF%98%E8%AE%B0%E8%BF%98%E9%BA%A6%E7%9A%84%E6%97%B6%E5%80%99&t=31&band_rank=8&Refer=top)<br />
-9. [黑龙江省委书记称宁听骂声不听哭声](https://s.weibo.com/weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E7%A7%B0%E5%AE%81%E5%90%AC%E9%AA%82%E5%A3%B0%E4%B8%8D%E5%90%AC%E5%93%AD%E5%A3%B0%23&t=31&band_rank=9&Refer=top)<br />
+9. [孤注一掷点映中途暂停被观众怒斥](https://s.weibo.com/weibo?q=%23%E5%AD%A4%E6%B3%A8%E4%B8%80%E6%8E%B7%E7%82%B9%E6%98%A0%E4%B8%AD%E9%80%94%E6%9A%82%E5%81%9C%E8%A2%AB%E8%A7%82%E4%BC%97%E6%80%92%E6%96%A5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
