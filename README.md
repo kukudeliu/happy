@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 02:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 02:28:01</h4></div>
 
 > 微博  
 
@@ -22,10 +22,10 @@
 3. [集中供冷真的来了？](https://www.baidu.com/s?wd=%E9%9B%86%E4%B8%AD%E4%BE%9B%E5%86%B7%E7%9C%9F%E7%9A%84%E6%9D%A5%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [京津冀多部门投入救援力量](https://www.baidu.com/s?wd=%E4%BA%AC%E6%B4%A5%E5%86%80%E5%A4%9A%E9%83%A8%E9%97%A8%E6%8A%95%E5%85%A5%E6%95%91%E6%8F%B4%E5%8A%9B%E9%87%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [生还司机回忆舒兰副市长遇难前场景](https://www.baidu.com/s?wd=%E7%94%9F%E8%BF%98%E5%8F%B8%E6%9C%BA%E5%9B%9E%E5%BF%86%E8%88%92%E5%85%B0%E5%89%AF%E5%B8%82%E9%95%BF%E9%81%87%E9%9A%BE%E5%89%8D%E5%9C%BA%E6%99%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [揭秘公安厅副厅长“借钱生钱”](https://www.baidu.com/s?wd=%E6%8F%AD%E7%A7%98%E5%85%AC%E5%AE%89%E5%8E%85%E5%89%AF%E5%8E%85%E9%95%BF%E2%80%9C%E5%80%9F%E9%92%B1%E7%94%9F%E9%92%B1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [北京一干部被洪水冲走后当日返岗](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E4%B8%80%E5%B9%B2%E9%83%A8%E8%A2%AB%E6%B4%AA%E6%B0%B4%E5%86%B2%E8%B5%B0%E5%90%8E%E5%BD%93%E6%97%A5%E8%BF%94%E5%B2%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [全国电影单日票房连续2天破5亿](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E7%94%B5%E5%BD%B1%E5%8D%95%E6%97%A5%E7%A5%A8%E6%88%BF%E8%BF%9E%E7%BB%AD2%E5%A4%A9%E7%A0%B45%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [TFBOYS给西安带来4.16亿旅游收入](https://www.baidu.com/s?wd=TFBOYS%E7%BB%99%E8%A5%BF%E5%AE%89%E5%B8%A6%E6%9D%A54.16%E4%BA%BF%E6%97%85%E6%B8%B8%E6%94%B6%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [北京一干部被洪水冲走后当日返岗](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E4%B8%80%E5%B9%B2%E9%83%A8%E8%A2%AB%E6%B4%AA%E6%B0%B4%E5%86%B2%E8%B5%B0%E5%90%8E%E5%BD%93%E6%97%A5%E8%BF%94%E5%B2%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [全国电影单日票房连续2天破5亿](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E7%94%B5%E5%BD%B1%E5%8D%95%E6%97%A5%E7%A5%A8%E6%88%BF%E8%BF%9E%E7%BB%AD2%E5%A4%A9%E7%A0%B45%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [误按电动车开关 5岁双胞胎坠河失联](https://www.baidu.com/s?wd=%E8%AF%AF%E6%8C%89%E7%94%B5%E5%8A%A8%E8%BD%A6%E5%BC%80%E5%85%B3+5%E5%B2%81%E5%8F%8C%E8%83%9E%E8%83%8E%E5%9D%A0%E6%B2%B3%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [医院回应太平间强制收抬尸费](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E5%A4%AA%E5%B9%B3%E9%97%B4%E5%BC%BA%E5%88%B6%E6%94%B6%E6%8A%AC%E5%B0%B8%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -34,7 +34,7 @@
 3. [集中供冷真的来了？](https://www.baidu.com/s?wd=%E9%9B%86%E4%B8%AD%E4%BE%9B%E5%86%B7%E7%9C%9F%E7%9A%84%E6%9D%A5%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [京津冀多部门投入救援力量](https://www.baidu.com/s?wd=%E4%BA%AC%E6%B4%A5%E5%86%80%E5%A4%9A%E9%83%A8%E9%97%A8%E6%8A%95%E5%85%A5%E6%95%91%E6%8F%B4%E5%8A%9B%E9%87%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [生还司机回忆舒兰副市长遇难前场景](https://www.baidu.com/s?wd=%E7%94%9F%E8%BF%98%E5%8F%B8%E6%9C%BA%E5%9B%9E%E5%BF%86%E8%88%92%E5%85%B0%E5%89%AF%E5%B8%82%E9%95%BF%E9%81%87%E9%9A%BE%E5%89%8D%E5%9C%BA%E6%99%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [揭秘公安厅副厅长“借钱生钱”](https://www.baidu.com/s?wd=%E6%8F%AD%E7%A7%98%E5%85%AC%E5%AE%89%E5%8E%85%E5%89%AF%E5%8E%85%E9%95%BF%E2%80%9C%E5%80%9F%E9%92%B1%E7%94%9F%E9%92%B1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [北京一干部被洪水冲走后当日返岗](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E4%B8%80%E5%B9%B2%E9%83%A8%E8%A2%AB%E6%B4%AA%E6%B0%B4%E5%86%B2%E8%B5%B0%E5%90%8E%E5%BD%93%E6%97%A5%E8%BF%94%E5%B2%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [全国电影单日票房连续2天破5亿](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E7%94%B5%E5%BD%B1%E5%8D%95%E6%97%A5%E7%A5%A8%E6%88%BF%E8%BF%9E%E7%BB%AD2%E5%A4%A9%E7%A0%B45%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [TFBOYS给西安带来4.16亿旅游收入](https://www.baidu.com/s?wd=TFBOYS%E7%BB%99%E8%A5%BF%E5%AE%89%E5%B8%A6%E6%9D%A54.16%E4%BA%BF%E6%97%85%E6%B8%B8%E6%94%B6%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [北京一干部被洪水冲走后当日返岗](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E4%B8%80%E5%B9%B2%E9%83%A8%E8%A2%AB%E6%B4%AA%E6%B0%B4%E5%86%B2%E8%B5%B0%E5%90%8E%E5%BD%93%E6%97%A5%E8%BF%94%E5%B2%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [全国电影单日票房连续2天破5亿](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E7%94%B5%E5%BD%B1%E5%8D%95%E6%97%A5%E7%A5%A8%E6%88%BF%E8%BF%9E%E7%BB%AD2%E5%A4%A9%E7%A0%B45%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [误按电动车开关 5岁双胞胎坠河失联](https://www.baidu.com/s?wd=%E8%AF%AF%E6%8C%89%E7%94%B5%E5%8A%A8%E8%BD%A6%E5%BC%80%E5%85%B3+5%E5%B2%81%E5%8F%8C%E8%83%9E%E8%83%8E%E5%9D%A0%E6%B2%B3%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [医院回应太平间强制收抬尸费](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E5%A4%AA%E5%B9%B3%E9%97%B4%E5%BC%BA%E5%88%B6%E6%94%B6%E6%8A%AC%E5%B0%B8%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
