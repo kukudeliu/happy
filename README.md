@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-07 18:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-07 18:33:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [时代峰峻回应TFBOYS很少合体](https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E5%9B%9E%E5%BA%94TFBOYS%E5%BE%88%E5%B0%91%E5%90%88%E4%BD%93%23&t=31&band_rank=6&Refer=top)<br />
 7. [福建传统民俗文化游神变装来了](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E4%BC%A0%E7%BB%9F%E6%B0%91%E4%BF%97%E6%96%87%E5%8C%96%E6%B8%B8%E7%A5%9E%E5%8F%98%E8%A3%85%E6%9D%A5%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [莲花楼央八收视](https://s.weibo.com/weibo?q=%23%E8%8E%B2%E8%8A%B1%E6%A5%BC%E5%A4%AE%E5%85%AB%E6%94%B6%E8%A7%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [内蒙古一货车冲进集市已致3死](https://s.weibo.com/weibo?q=%23%E5%86%85%E8%92%99%E5%8F%A4%E4%B8%80%E8%B4%A7%E8%BD%A6%E5%86%B2%E8%BF%9B%E9%9B%86%E5%B8%82%E5%B7%B2%E8%87%B43%E6%AD%BB%23&t=31&band_rank=9&Refer=top)<br />
+9. [夭柳摘面具名场面](https://s.weibo.com/weibo?q=%23%E5%A4%AD%E6%9F%B3%E6%91%98%E9%9D%A2%E5%85%B7%E5%90%8D%E5%9C%BA%E9%9D%A2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
