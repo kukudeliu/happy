@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-07 08:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-07 08:38:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [命运的齿轮开始生锈](https://s.weibo.com/weibo?q=%23%E5%91%BD%E8%BF%90%E7%9A%84%E9%BD%BF%E8%BD%AE%E5%BC%80%E5%A7%8B%E7%94%9F%E9%94%88%23&t=31&band_rank=6&Refer=top)<br />
 7. [十周年蛋糕塌了](https://s.weibo.com/weibo?q=%23%E5%8D%81%E5%91%A8%E5%B9%B4%E8%9B%8B%E7%B3%95%E5%A1%8C%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [电影孤注一掷提档](https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E5%AD%A4%E6%B3%A8%E4%B8%80%E6%8E%B7%E6%8F%90%E6%A1%A3%23&t=31&band_rank=8&Refer=top)<br />
-9. [流鼻血时别再仰头了](https://s.weibo.com/weibo?q=%E6%B5%81%E9%BC%BB%E8%A1%80%E6%97%B6%E5%88%AB%E5%86%8D%E4%BB%B0%E5%A4%B4%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [XYG 比赛全程在联盟裁判监督下进行](https://s.weibo.com/weibo?q=XYG%20%E6%AF%94%E8%B5%9B%E5%85%A8%E7%A8%8B%E5%9C%A8%E8%81%94%E7%9B%9F%E8%A3%81%E5%88%A4%E7%9B%91%E7%9D%A3%E4%B8%8B%E8%BF%9B%E8%A1%8C&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
