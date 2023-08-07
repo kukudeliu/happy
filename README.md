@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-07 20:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-07 21:00:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [时代峰峻回应TFBOYS很少合体](https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E5%9B%9E%E5%BA%94TFBOYS%E5%BE%88%E5%B0%91%E5%90%88%E4%BD%93%23&t=31&band_rank=6&Refer=top)<br />
 7. [WBG战胜TES](https://s.weibo.com/weibo?q=%23WBG%E6%88%98%E8%83%9CTES%23&t=31&band_rank=7&Refer=top)<br />
 8. [孤注一掷成中国影史点映票房冠军](https://s.weibo.com/weibo?q=%23%E5%AD%A4%E6%B3%A8%E4%B8%80%E6%8E%B7%E6%88%90%E4%B8%AD%E5%9B%BD%E5%BD%B1%E5%8F%B2%E7%82%B9%E6%98%A0%E7%A5%A8%E6%88%BF%E5%86%A0%E5%86%9B%23&t=31&band_rank=8&Refer=top)<br />
-9. [邓为从脖子红到耳朵](https://s.weibo.com/weibo?q=%23%E9%82%93%E4%B8%BA%E4%BB%8E%E8%84%96%E5%AD%90%E7%BA%A2%E5%88%B0%E8%80%B3%E6%9C%B5%23&t=31&band_rank=9&Refer=top)<br />
+9. [TheShy](https://s.weibo.com/weibo?q=TheShy&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
