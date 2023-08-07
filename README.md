@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-07 23:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-07 23:12:02</h4></div>
 
 > 微博  
 
@@ -7,7 +7,7 @@
 3. [汛情过后健康防护要点](https://s.weibo.com/weibo?q=%23%E6%B1%9B%E6%83%85%E8%BF%87%E5%90%8E%E5%81%A5%E5%BA%B7%E9%98%B2%E6%8A%A4%E8%A6%81%E7%82%B9%23&t=31&band_rank=3&Refer=top)<br />
 4. [韩国不让小孩进的咖啡店](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%B8%8D%E8%AE%A9%E5%B0%8F%E5%AD%A9%E8%BF%9B%E7%9A%84%E5%92%96%E5%95%A1%E5%BA%97%23&t=31&band_rank=4&Refer=top)<br />
 5. [陆军某旅千人百车驰援舒兰](https://s.weibo.com/weibo?q=%23%E9%99%86%E5%86%9B%E6%9F%90%E6%97%85%E5%8D%83%E4%BA%BA%E7%99%BE%E8%BD%A6%E9%A9%B0%E6%8F%B4%E8%88%92%E5%85%B0%23&t=31&band_rank=5&Refer=top)<br />
-6. [TFBOYS是在擦玻璃吗](https://s.weibo.com/weibo?q=%23TFBOYS%E6%98%AF%E5%9C%A8%E6%93%A6%E7%8E%BB%E7%92%83%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
+6. [TFBOYS演唱会优酷最少进账6550万](https://s.weibo.com/weibo?q=%23TFBOYS%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BC%98%E9%85%B7%E6%9C%80%E5%B0%91%E8%BF%9B%E8%B4%A66550%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [为什么现在T恤领口越来越小了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8T%E6%81%A4%E9%A2%86%E5%8F%A3%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%B0%8F%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [玱玹只听到了三个字](https://s.weibo.com/weibo?q=%23%E7%8E%B1%E7%8E%B9%E5%8F%AA%E5%90%AC%E5%88%B0%E4%BA%86%E4%B8%89%E4%B8%AA%E5%AD%97%23&t=31&band_rank=8&Refer=top)<br />
 9. [Doinb](https://s.weibo.com/weibo?q=Doinb&t=31&band_rank=9&Refer=top)<br />
