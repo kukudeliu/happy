@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-07 20:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-07 20:19:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [涿州一养羊场上千头羊所剩无几](https://www.baidu.com/s?wd=%E6%B6%BF%E5%B7%9E%E4%B8%80%E5%85%BB%E7%BE%8A%E5%9C%BA%E4%B8%8A%E5%8D%83%E5%A4%B4%E7%BE%8A%E6%89%80%E5%89%A9%E6%97%A0%E5%87%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李玟老公申请公布李玟死亡原因](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E8%80%81%E5%85%AC%E7%94%B3%E8%AF%B7%E5%85%AC%E5%B8%83%E6%9D%8E%E7%8E%9F%E6%AD%BB%E4%BA%A1%E5%8E%9F%E5%9B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [张亮麻辣烫就羊肉掺假事件道歉](https://www.baidu.com/s?wd=%E5%BC%A0%E4%BA%AE%E9%BA%BB%E8%BE%A3%E7%83%AB%E5%B0%B1%E7%BE%8A%E8%82%89%E6%8E%BA%E5%81%87%E4%BA%8B%E4%BB%B6%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子被父亲工友诱拐 42年后找到家人](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%AB%E7%88%B6%E4%BA%B2%E5%B7%A5%E5%8F%8B%E8%AF%B1%E6%8B%90+42%E5%B9%B4%E5%90%8E%E6%89%BE%E5%88%B0%E5%AE%B6%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [日本大企业平均加薪达1.3万日元](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A4%A7%E4%BC%81%E4%B8%9A%E5%B9%B3%E5%9D%87%E5%8A%A0%E8%96%AA%E8%BE%BE1.3%E4%B8%87%E6%97%A5%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [业内：现在医药代表随时担心失业](https://www.baidu.com/s?wd=%E4%B8%9A%E5%86%85%EF%BC%9A%E7%8E%B0%E5%9C%A8%E5%8C%BB%E8%8D%AF%E4%BB%A3%E8%A1%A8%E9%9A%8F%E6%97%B6%E6%8B%85%E5%BF%83%E5%A4%B1%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [涿州一养羊场上千头羊所剩无几](https://www.baidu.com/s?wd=%E6%B6%BF%E5%B7%9E%E4%B8%80%E5%85%BB%E7%BE%8A%E5%9C%BA%E4%B8%8A%E5%8D%83%E5%A4%B4%E7%BE%8A%E6%89%80%E5%89%A9%E6%97%A0%E5%87%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李玟老公申请公布李玟死亡原因](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E8%80%81%E5%85%AC%E7%94%B3%E8%AF%B7%E5%85%AC%E5%B8%83%E6%9D%8E%E7%8E%9F%E6%AD%BB%E4%BA%A1%E5%8E%9F%E5%9B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [张亮麻辣烫就羊肉掺假事件道歉](https://www.baidu.com/s?wd=%E5%BC%A0%E4%BA%AE%E9%BA%BB%E8%BE%A3%E7%83%AB%E5%B0%B1%E7%BE%8A%E8%82%89%E6%8E%BA%E5%81%87%E4%BA%8B%E4%BB%B6%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子被父亲工友诱拐 42年后找到家人](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%AB%E7%88%B6%E4%BA%B2%E5%B7%A5%E5%8F%8B%E8%AF%B1%E6%8B%90+42%E5%B9%B4%E5%90%8E%E6%89%BE%E5%88%B0%E5%AE%B6%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [日本大企业平均加薪达1.3万日元](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A4%A7%E4%BC%81%E4%B8%9A%E5%B9%B3%E5%9D%87%E5%8A%A0%E8%96%AA%E8%BE%BE1.3%E4%B8%87%E6%97%A5%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [业内：现在医药代表随时担心失业](https://www.baidu.com/s?wd=%E4%B8%9A%E5%86%85%EF%BC%9A%E7%8E%B0%E5%9C%A8%E5%8C%BB%E8%8D%AF%E4%BB%A3%E8%A1%A8%E9%9A%8F%E6%97%B6%E6%8B%85%E5%BF%83%E5%A4%B1%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
