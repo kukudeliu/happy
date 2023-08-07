@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-07 22:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-07 22:36:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [TFBOYS是在擦玻璃吗](https://s.weibo.com/weibo?q=%23TFBOYS%E6%98%AF%E5%9C%A8%E6%93%A6%E7%8E%BB%E7%92%83%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [玱玹只听到了三个字](https://s.weibo.com/weibo?q=%23%E7%8E%B1%E7%8E%B9%E5%8F%AA%E5%90%AC%E5%88%B0%E4%BA%86%E4%B8%89%E4%B8%AA%E5%AD%97%23&t=31&band_rank=7&Refer=top)<br />
 8. [为什么现在T恤领口越来越小了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8T%E6%81%A4%E9%A2%86%E5%8F%A3%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%B0%8F%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [周杰伦也没想到这是菊花台](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E4%B9%9F%E6%B2%A1%E6%83%B3%E5%88%B0%E8%BF%99%E6%98%AF%E8%8F%8A%E8%8A%B1%E5%8F%B0&t=31&band_rank=9&Refer=top)<br />
+9. [韩国不让小孩进的咖啡店](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%B8%8D%E8%AE%A9%E5%B0%8F%E5%AD%A9%E8%BF%9B%E7%9A%84%E5%92%96%E5%95%A1%E5%BA%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
