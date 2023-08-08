@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 16:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 16:02:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [TF一代二代三代四代演唱会官宣时间](https://s.weibo.com/weibo?q=%23TF%E4%B8%80%E4%BB%A3%E4%BA%8C%E4%BB%A3%E4%B8%89%E4%BB%A3%E5%9B%9B%E4%BB%A3%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AE%98%E5%AE%A3%E6%97%B6%E9%97%B4%23&t=31&band_rank=6&Refer=top)<br />
 7. [请杨紫来精装修我的房子](https://s.weibo.com/weibo?q=%23%E8%AF%B7%E6%9D%A8%E7%B4%AB%E6%9D%A5%E7%B2%BE%E8%A3%85%E4%BF%AE%E6%88%91%E7%9A%84%E6%88%BF%E5%AD%90%23&t=31&band_rank=7&Refer=top)<br />
 8. [很喜欢今年的8月8](https://s.weibo.com/weibo?q=%23%E5%BE%88%E5%96%9C%E6%AC%A2%E4%BB%8A%E5%B9%B4%E7%9A%848%E6%9C%888%23&t=31&band_rank=8&Refer=top)<br />
-9. [刘涛演妈祖之前请示过妈祖](https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B6%9B%E6%BC%94%E5%A6%88%E7%A5%96%E4%B9%8B%E5%89%8D%E8%AF%B7%E7%A4%BA%E8%BF%87%E5%A6%88%E7%A5%96%23&t=31&band_rank=9&Refer=top)<br />
+9. [那可是晋江的三块钱](https://s.weibo.com/weibo?q=%E9%82%A3%E5%8F%AF%E6%98%AF%E6%99%8B%E6%B1%9F%E7%9A%84%E4%B8%89%E5%9D%97%E9%92%B1&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
