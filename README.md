@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 08:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 08:49:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [月薪2万住不起如家汉庭？酒店回应了](https://www.baidu.com/s?wd=%E6%9C%88%E8%96%AA2%E4%B8%87%E4%BD%8F%E4%B8%8D%E8%B5%B7%E5%A6%82%E5%AE%B6%E6%B1%89%E5%BA%AD%EF%BC%9F%E9%85%92%E5%BA%97%E5%9B%9E%E5%BA%94%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [8月8日立秋算早还是晚](https://www.baidu.com/s?wd=8%E6%9C%888%E6%97%A5%E7%AB%8B%E7%A7%8B%E7%AE%97%E6%97%A9%E8%BF%98%E6%98%AF%E6%99%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [小伙误吸防晒喷雾后检查出白肺](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E8%AF%AF%E5%90%B8%E9%98%B2%E6%99%92%E5%96%B7%E9%9B%BE%E5%90%8E%E6%A3%80%E6%9F%A5%E5%87%BA%E7%99%BD%E8%82%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [金晨回应被王传君吓到](https://www.baidu.com/s?wd=%E9%87%91%E6%99%A8%E5%9B%9E%E5%BA%94%E8%A2%AB%E7%8E%8B%E4%BC%A0%E5%90%9B%E5%90%93%E5%88%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [日本大企业平均加薪达1.3万日元](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A4%A7%E4%BC%81%E4%B8%9A%E5%B9%B3%E5%9D%87%E5%8A%A0%E8%96%AA%E8%BE%BE1.3%E4%B8%87%E6%97%A5%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [月薪2万住不起如家汉庭？酒店回应了](https://www.baidu.com/s?wd=%E6%9C%88%E8%96%AA2%E4%B8%87%E4%BD%8F%E4%B8%8D%E8%B5%B7%E5%A6%82%E5%AE%B6%E6%B1%89%E5%BA%AD%EF%BC%9F%E9%85%92%E5%BA%97%E5%9B%9E%E5%BA%94%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [8月8日立秋算早还是晚](https://www.baidu.com/s?wd=8%E6%9C%888%E6%97%A5%E7%AB%8B%E7%A7%8B%E7%AE%97%E6%97%A9%E8%BF%98%E6%98%AF%E6%99%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [小伙误吸防晒喷雾后检查出白肺](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E8%AF%AF%E5%90%B8%E9%98%B2%E6%99%92%E5%96%B7%E9%9B%BE%E5%90%8E%E6%A3%80%E6%9F%A5%E5%87%BA%E7%99%BD%E8%82%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [金晨回应被王传君吓到](https://www.baidu.com/s?wd=%E9%87%91%E6%99%A8%E5%9B%9E%E5%BA%94%E8%A2%AB%E7%8E%8B%E4%BC%A0%E5%90%9B%E5%90%93%E5%88%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [日本大企业平均加薪达1.3万日元](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A4%A7%E4%BC%81%E4%B8%9A%E5%B9%B3%E5%9D%87%E5%8A%A0%E8%96%AA%E8%BE%BE1.3%E4%B8%87%E6%97%A5%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
