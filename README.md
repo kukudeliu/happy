@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 01:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 01:34:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [怎样做好洪涝卫生灾害预防](https://www.baidu.com/s?wd=%E6%80%8E%E6%A0%B7%E5%81%9A%E5%A5%BD%E6%B4%AA%E6%B6%9D%E5%8D%AB%E7%94%9F%E7%81%BE%E5%AE%B3%E9%A2%84%E9%98%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [台风卡努转向北上将影响吉林](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E5%8D%A1%E5%8A%AA%E8%BD%AC%E5%90%91%E5%8C%97%E4%B8%8A%E5%B0%86%E5%BD%B1%E5%93%8D%E5%90%89%E6%9E%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子2百多网购却被花呗扣款3千多](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%902%E7%99%BE%E5%A4%9A%E7%BD%91%E8%B4%AD%E5%8D%B4%E8%A2%AB%E8%8A%B1%E5%91%97%E6%89%A3%E6%AC%BE3%E5%8D%83%E5%A4%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [北大研究称LK-99不是超导体](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E7%A0%94%E7%A9%B6%E7%A7%B0LK-99%E4%B8%8D%E6%98%AF%E8%B6%85%E5%AF%BC%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [星纪魅族回应终止自研芯片](https://www.baidu.com/s?wd=%E6%98%9F%E7%BA%AA%E9%AD%85%E6%97%8F%E5%9B%9E%E5%BA%94%E7%BB%88%E6%AD%A2%E8%87%AA%E7%A0%94%E8%8A%AF%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [救火牺牲的消防员邓超被评为烈士](https://www.baidu.com/s?wd=%E6%95%91%E7%81%AB%E7%89%BA%E7%89%B2%E7%9A%84%E6%B6%88%E9%98%B2%E5%91%98%E9%82%93%E8%B6%85%E8%A2%AB%E8%AF%84%E4%B8%BA%E7%83%88%E5%A3%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [哈佛教授称可能发现外星人存在证据](https://www.baidu.com/s?wd=%E5%93%88%E4%BD%9B%E6%95%99%E6%8E%88%E7%A7%B0%E5%8F%AF%E8%83%BD%E5%8F%91%E7%8E%B0%E5%A4%96%E6%98%9F%E4%BA%BA%E5%AD%98%E5%9C%A8%E8%AF%81%E6%8D%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [观众看孤注一掷中途退票 影院回应](https://www.baidu.com/s?wd=%E8%A7%82%E4%BC%97%E7%9C%8B%E5%AD%A4%E6%B3%A8%E4%B8%80%E6%8E%B7%E4%B8%AD%E9%80%94%E9%80%80%E7%A5%A8+%E5%BD%B1%E9%99%A2%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [怎样做好洪涝卫生灾害预防](https://www.baidu.com/s?wd=%E6%80%8E%E6%A0%B7%E5%81%9A%E5%A5%BD%E6%B4%AA%E6%B6%9D%E5%8D%AB%E7%94%9F%E7%81%BE%E5%AE%B3%E9%A2%84%E9%98%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [台风卡努转向北上将影响吉林](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E5%8D%A1%E5%8A%AA%E8%BD%AC%E5%90%91%E5%8C%97%E4%B8%8A%E5%B0%86%E5%BD%B1%E5%93%8D%E5%90%89%E6%9E%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子2百多网购却被花呗扣款3千多](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%902%E7%99%BE%E5%A4%9A%E7%BD%91%E8%B4%AD%E5%8D%B4%E8%A2%AB%E8%8A%B1%E5%91%97%E6%89%A3%E6%AC%BE3%E5%8D%83%E5%A4%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [北大研究称LK-99不是超导体](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E7%A0%94%E7%A9%B6%E7%A7%B0LK-99%E4%B8%8D%E6%98%AF%E8%B6%85%E5%AF%BC%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [星纪魅族回应终止自研芯片](https://www.baidu.com/s?wd=%E6%98%9F%E7%BA%AA%E9%AD%85%E6%97%8F%E5%9B%9E%E5%BA%94%E7%BB%88%E6%AD%A2%E8%87%AA%E7%A0%94%E8%8A%AF%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [救火牺牲的消防员邓超被评为烈士](https://www.baidu.com/s?wd=%E6%95%91%E7%81%AB%E7%89%BA%E7%89%B2%E7%9A%84%E6%B6%88%E9%98%B2%E5%91%98%E9%82%93%E8%B6%85%E8%A2%AB%E8%AF%84%E4%B8%BA%E7%83%88%E5%A3%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [哈佛教授称可能发现外星人存在证据](https://www.baidu.com/s?wd=%E5%93%88%E4%BD%9B%E6%95%99%E6%8E%88%E7%A7%B0%E5%8F%AF%E8%83%BD%E5%8F%91%E7%8E%B0%E5%A4%96%E6%98%9F%E4%BA%BA%E5%AD%98%E5%9C%A8%E8%AF%81%E6%8D%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [观众看孤注一掷中途退票 影院回应](https://www.baidu.com/s?wd=%E8%A7%82%E4%BC%97%E7%9C%8B%E5%AD%A4%E6%B3%A8%E4%B8%80%E6%8E%B7%E4%B8%AD%E9%80%94%E9%80%80%E7%A5%A8+%E5%BD%B1%E9%99%A2%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
