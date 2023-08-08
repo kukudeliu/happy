@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 19:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 19:44:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [梅德韦杰夫:美企图把俄从地球上抹去](https://www.baidu.com/s?wd=%E6%A2%85%E5%BE%B7%E9%9F%A6%E6%9D%B0%E5%A4%AB%3A%E7%BE%8E%E4%BC%81%E5%9B%BE%E6%8A%8A%E4%BF%84%E4%BB%8E%E5%9C%B0%E7%90%83%E4%B8%8A%E6%8A%B9%E5%8E%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子将娃闷车内睡觉2小时后崩溃报警](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B0%86%E5%A8%83%E9%97%B7%E8%BD%A6%E5%86%85%E7%9D%A1%E8%A7%892%E5%B0%8F%E6%97%B6%E5%90%8E%E5%B4%A9%E6%BA%83%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子后脑勺头发被理发师剃掉一半](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%90%8E%E8%84%91%E5%8B%BA%E5%A4%B4%E5%8F%91%E8%A2%AB%E7%90%86%E5%8F%91%E5%B8%88%E5%89%83%E6%8E%89%E4%B8%80%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子下池塘抓鱼摸出炮弹](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%8B%E6%B1%A0%E5%A1%98%E6%8A%93%E9%B1%BC%E6%91%B8%E5%87%BA%E7%82%AE%E5%BC%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中国邮政是懂奶茶取名的](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%82%AE%E6%94%BF%E6%98%AF%E6%87%82%E5%A5%B6%E8%8C%B6%E5%8F%96%E5%90%8D%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [小男孩医院角落一口气跳舞2小时](https://www.baidu.com/s?wd=%E5%B0%8F%E7%94%B7%E5%AD%A9%E5%8C%BB%E9%99%A2%E8%A7%92%E8%90%BD%E4%B8%80%E5%8F%A3%E6%B0%94%E8%B7%B3%E8%88%9E2%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [刘涛演妈祖之前请示过妈祖](https://www.baidu.com/s?wd=%E5%88%98%E6%B6%9B%E6%BC%94%E5%A6%88%E7%A5%96%E4%B9%8B%E5%89%8D%E8%AF%B7%E7%A4%BA%E8%BF%87%E5%A6%88%E7%A5%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [梅德韦杰夫:美企图把俄从地球上抹去](https://www.baidu.com/s?wd=%E6%A2%85%E5%BE%B7%E9%9F%A6%E6%9D%B0%E5%A4%AB%3A%E7%BE%8E%E4%BC%81%E5%9B%BE%E6%8A%8A%E4%BF%84%E4%BB%8E%E5%9C%B0%E7%90%83%E4%B8%8A%E6%8A%B9%E5%8E%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子将娃闷车内睡觉2小时后崩溃报警](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B0%86%E5%A8%83%E9%97%B7%E8%BD%A6%E5%86%85%E7%9D%A1%E8%A7%892%E5%B0%8F%E6%97%B6%E5%90%8E%E5%B4%A9%E6%BA%83%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子后脑勺头发被理发师剃掉一半](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%90%8E%E8%84%91%E5%8B%BA%E5%A4%B4%E5%8F%91%E8%A2%AB%E7%90%86%E5%8F%91%E5%B8%88%E5%89%83%E6%8E%89%E4%B8%80%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子下池塘抓鱼摸出炮弹](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%8B%E6%B1%A0%E5%A1%98%E6%8A%93%E9%B1%BC%E6%91%B8%E5%87%BA%E7%82%AE%E5%BC%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中国邮政是懂奶茶取名的](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%82%AE%E6%94%BF%E6%98%AF%E6%87%82%E5%A5%B6%E8%8C%B6%E5%8F%96%E5%90%8D%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [小男孩医院角落一口气跳舞2小时](https://www.baidu.com/s?wd=%E5%B0%8F%E7%94%B7%E5%AD%A9%E5%8C%BB%E9%99%A2%E8%A7%92%E8%90%BD%E4%B8%80%E5%8F%A3%E6%B0%94%E8%B7%B3%E8%88%9E2%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [刘涛演妈祖之前请示过妈祖](https://www.baidu.com/s?wd=%E5%88%98%E6%B6%9B%E6%BC%94%E5%A6%88%E7%A5%96%E4%B9%8B%E5%89%8D%E8%AF%B7%E7%A4%BA%E8%BF%87%E5%A6%88%E7%A5%96&sa=fyb_news&rsv_dl=fyb_news)<br />
