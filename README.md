@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 08:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 08:24:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [TFBOYS给西安带来4.16亿旅游收入](https://www.baidu.com/s?wd=TFBOYS%E7%BB%99%E8%A5%BF%E5%AE%89%E5%B8%A6%E6%9D%A54.16%E4%BA%BF%E6%97%85%E6%B8%B8%E6%94%B6%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [月薪2万住不起如家汉庭？酒店回应了](https://www.baidu.com/s?wd=%E6%9C%88%E8%96%AA2%E4%B8%87%E4%BD%8F%E4%B8%8D%E8%B5%B7%E5%A6%82%E5%AE%B6%E6%B1%89%E5%BA%AD%EF%BC%9F%E9%85%92%E5%BA%97%E5%9B%9E%E5%BA%94%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [小伙误吸防晒喷雾后检查出白肺](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E8%AF%AF%E5%90%B8%E9%98%B2%E6%99%92%E5%96%B7%E9%9B%BE%E5%90%8E%E6%A3%80%E6%9F%A5%E5%87%BA%E7%99%BD%E8%82%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [中兴通讯回应股票闪崩](https://www.baidu.com/s?wd=%E4%B8%AD%E5%85%B4%E9%80%9A%E8%AE%AF%E5%9B%9E%E5%BA%94%E8%82%A1%E7%A5%A8%E9%97%AA%E5%B4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [警方通报网传女子在酒吧门口被猥亵](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%BD%91%E4%BC%A0%E5%A5%B3%E5%AD%90%E5%9C%A8%E9%85%92%E5%90%A7%E9%97%A8%E5%8F%A3%E8%A2%AB%E7%8C%A5%E4%BA%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [医院回应太平间强制收抬尸费](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E5%A4%AA%E5%B9%B3%E9%97%B4%E5%BC%BA%E5%88%B6%E6%94%B6%E6%8A%AC%E5%B0%B8%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [金晨回应被王传君吓到](https://www.baidu.com/s?wd=%E9%87%91%E6%99%A8%E5%9B%9E%E5%BA%94%E8%A2%AB%E7%8E%8B%E4%BC%A0%E5%90%9B%E5%90%93%E5%88%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [TFBOYS给西安带来4.16亿旅游收入](https://www.baidu.com/s?wd=TFBOYS%E7%BB%99%E8%A5%BF%E5%AE%89%E5%B8%A6%E6%9D%A54.16%E4%BA%BF%E6%97%85%E6%B8%B8%E6%94%B6%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [月薪2万住不起如家汉庭？酒店回应了](https://www.baidu.com/s?wd=%E6%9C%88%E8%96%AA2%E4%B8%87%E4%BD%8F%E4%B8%8D%E8%B5%B7%E5%A6%82%E5%AE%B6%E6%B1%89%E5%BA%AD%EF%BC%9F%E9%85%92%E5%BA%97%E5%9B%9E%E5%BA%94%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [小伙误吸防晒喷雾后检查出白肺](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E8%AF%AF%E5%90%B8%E9%98%B2%E6%99%92%E5%96%B7%E9%9B%BE%E5%90%8E%E6%A3%80%E6%9F%A5%E5%87%BA%E7%99%BD%E8%82%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [中兴通讯回应股票闪崩](https://www.baidu.com/s?wd=%E4%B8%AD%E5%85%B4%E9%80%9A%E8%AE%AF%E5%9B%9E%E5%BA%94%E8%82%A1%E7%A5%A8%E9%97%AA%E5%B4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [警方通报网传女子在酒吧门口被猥亵](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%BD%91%E4%BC%A0%E5%A5%B3%E5%AD%90%E5%9C%A8%E9%85%92%E5%90%A7%E9%97%A8%E5%8F%A3%E8%A2%AB%E7%8C%A5%E4%BA%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [医院回应太平间强制收抬尸费](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E5%A4%AA%E5%B9%B3%E9%97%B4%E5%BC%BA%E5%88%B6%E6%94%B6%E6%8A%AC%E5%B0%B8%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [金晨回应被王传君吓到](https://www.baidu.com/s?wd=%E9%87%91%E6%99%A8%E5%9B%9E%E5%BA%94%E8%A2%AB%E7%8E%8B%E4%BC%A0%E5%90%9B%E5%90%93%E5%88%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
