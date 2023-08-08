@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 21:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 21:40:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [WBG战胜EDG](https://s.weibo.com/weibo?q=%23WBG%E6%88%98%E8%83%9CEDG%23&t=31&band_rank=5&Refer=top)<br />
 6. [女孩疑在TFBOYS演唱会门口遭逃单](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E7%96%91%E5%9C%A8TFBOYS%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E5%8F%A3%E9%81%AD%E9%80%83%E5%8D%95%23&t=31&band_rank=6&Refer=top)<br />
 7. [刘青松哭了](https://s.weibo.com/weibo?q=%23%E5%88%98%E9%9D%92%E6%9D%BE%E5%93%AD%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [消防员邓超同志被评定为烈士](https://s.weibo.com/weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E9%82%93%E8%B6%85%E5%90%8C%E5%BF%97%E8%A2%AB%E8%AF%84%E5%AE%9A%E4%B8%BA%E7%83%88%E5%A3%AB%23&t=31&band_rank=8&Refer=top)<br />
-9. [杨紫直播](https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E7%9B%B4%E6%92%AD&t=31&band_rank=9&Refer=top)<br />
+8. [杨紫直播](https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E7%9B%B4%E6%92%AD&t=31&band_rank=8&Refer=top)<br />
+9. [消防员邓超同志被评定为烈士](https://s.weibo.com/weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E9%82%93%E8%B6%85%E5%90%8C%E5%BF%97%E8%A2%AB%E8%AF%84%E5%AE%9A%E4%B8%BA%E7%83%88%E5%A3%AB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
