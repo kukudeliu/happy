@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 10:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 10:09:01</h4></div>
 
 > 微博  
 
@@ -23,9 +23,9 @@
 4. [京津冀多部门投入救援力量](https://www.baidu.com/s?wd=%E4%BA%AC%E6%B4%A5%E5%86%80%E5%A4%9A%E9%83%A8%E9%97%A8%E6%8A%95%E5%85%A5%E6%95%91%E6%8F%B4%E5%8A%9B%E9%87%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [TFBOYS给西安带来4.16亿旅游收入](https://www.baidu.com/s?wd=TFBOYS%E7%BB%99%E8%A5%BF%E5%AE%89%E5%B8%A6%E6%9D%A54.16%E4%BA%BF%E6%97%85%E6%B8%B8%E6%94%B6%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男孩包皮手术十天后去世 卫健委介入](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E5%8C%85%E7%9A%AE%E6%89%8B%E6%9C%AF%E5%8D%81%E5%A4%A9%E5%90%8E%E5%8E%BB%E4%B8%96+%E5%8D%AB%E5%81%A5%E5%A7%94%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [K396次向乘客喊话的值班员被提拔](https://www.baidu.com/s?wd=K396%E6%AC%A1%E5%90%91%E4%B9%98%E5%AE%A2%E5%96%8A%E8%AF%9D%E7%9A%84%E5%80%BC%E7%8F%AD%E5%91%98%E8%A2%AB%E6%8F%90%E6%8B%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [舒兰副市长生前最后一段语音](https://www.baidu.com/s?wd=%E8%88%92%E5%85%B0%E5%89%AF%E5%B8%82%E9%95%BF%E7%94%9F%E5%89%8D%E6%9C%80%E5%90%8E%E4%B8%80%E6%AE%B5%E8%AF%AD%E9%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [日本大企业平均加薪达1.3万日元](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A4%A7%E4%BC%81%E4%B8%9A%E5%B9%B3%E5%9D%87%E5%8A%A0%E8%96%AA%E8%BE%BE1.3%E4%B8%87%E6%97%A5%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [共享充电宝再次涨价](https://www.baidu.com/s?wd=%E5%85%B1%E4%BA%AB%E5%85%85%E7%94%B5%E5%AE%9D%E5%86%8D%E6%AC%A1%E6%B6%A8%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [K396次向乘客喊话的值班员被提拔](https://www.baidu.com/s?wd=K396%E6%AC%A1%E5%90%91%E4%B9%98%E5%AE%A2%E5%96%8A%E8%AF%9D%E7%9A%84%E5%80%BC%E7%8F%AD%E5%91%98%E8%A2%AB%E6%8F%90%E6%8B%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [文保所长游泳进古寺查看泡水情况](https://www.baidu.com/s?wd=%E6%96%87%E4%BF%9D%E6%89%80%E9%95%BF%E6%B8%B8%E6%B3%B3%E8%BF%9B%E5%8F%A4%E5%AF%BA%E6%9F%A5%E7%9C%8B%E6%B3%A1%E6%B0%B4%E6%83%85%E5%86%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -35,6 +35,6 @@
 4. [京津冀多部门投入救援力量](https://www.baidu.com/s?wd=%E4%BA%AC%E6%B4%A5%E5%86%80%E5%A4%9A%E9%83%A8%E9%97%A8%E6%8A%95%E5%85%A5%E6%95%91%E6%8F%B4%E5%8A%9B%E9%87%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [TFBOYS给西安带来4.16亿旅游收入](https://www.baidu.com/s?wd=TFBOYS%E7%BB%99%E8%A5%BF%E5%AE%89%E5%B8%A6%E6%9D%A54.16%E4%BA%BF%E6%97%85%E6%B8%B8%E6%94%B6%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男孩包皮手术十天后去世 卫健委介入](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E5%8C%85%E7%9A%AE%E6%89%8B%E6%9C%AF%E5%8D%81%E5%A4%A9%E5%90%8E%E5%8E%BB%E4%B8%96+%E5%8D%AB%E5%81%A5%E5%A7%94%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [K396次向乘客喊话的值班员被提拔](https://www.baidu.com/s?wd=K396%E6%AC%A1%E5%90%91%E4%B9%98%E5%AE%A2%E5%96%8A%E8%AF%9D%E7%9A%84%E5%80%BC%E7%8F%AD%E5%91%98%E8%A2%AB%E6%8F%90%E6%8B%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [舒兰副市长生前最后一段语音](https://www.baidu.com/s?wd=%E8%88%92%E5%85%B0%E5%89%AF%E5%B8%82%E9%95%BF%E7%94%9F%E5%89%8D%E6%9C%80%E5%90%8E%E4%B8%80%E6%AE%B5%E8%AF%AD%E9%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [日本大企业平均加薪达1.3万日元](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A4%A7%E4%BC%81%E4%B8%9A%E5%B9%B3%E5%9D%87%E5%8A%A0%E8%96%AA%E8%BE%BE1.3%E4%B8%87%E6%97%A5%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [共享充电宝再次涨价](https://www.baidu.com/s?wd=%E5%85%B1%E4%BA%AB%E5%85%85%E7%94%B5%E5%AE%9D%E5%86%8D%E6%AC%A1%E6%B6%A8%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [K396次向乘客喊话的值班员被提拔](https://www.baidu.com/s?wd=K396%E6%AC%A1%E5%90%91%E4%B9%98%E5%AE%A2%E5%96%8A%E8%AF%9D%E7%9A%84%E5%80%BC%E7%8F%AD%E5%91%98%E8%A2%AB%E6%8F%90%E6%8B%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [文保所长游泳进古寺查看泡水情况](https://www.baidu.com/s?wd=%E6%96%87%E4%BF%9D%E6%89%80%E9%95%BF%E6%B8%B8%E6%B3%B3%E8%BF%9B%E5%8F%A4%E5%AF%BA%E6%9F%A5%E7%9C%8B%E6%B3%A1%E6%B0%B4%E6%83%85%E5%86%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
