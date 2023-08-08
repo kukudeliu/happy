@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 05:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 05:44:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [浙江一地查获日本核辐射产地食品](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E5%9C%B0%E6%9F%A5%E8%8E%B7%E6%97%A5%E6%9C%AC%E6%A0%B8%E8%BE%90%E5%B0%84%E4%BA%A7%E5%9C%B0%E9%A3%9F%E5%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [运动员吴艳妮因右臂纹身惹争议](https://www.baidu.com/s?wd=%E8%BF%90%E5%8A%A8%E5%91%98%E5%90%B4%E8%89%B3%E5%A6%AE%E5%9B%A0%E5%8F%B3%E8%87%82%E7%BA%B9%E8%BA%AB%E6%83%B9%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [哈佛教授称可能发现外星人存在证据](https://www.baidu.com/s?wd=%E5%93%88%E4%BD%9B%E6%95%99%E6%8E%88%E7%A7%B0%E5%8F%AF%E8%83%BD%E5%8F%91%E7%8E%B0%E5%A4%96%E6%98%9F%E4%BA%BA%E5%AD%98%E5%9C%A8%E8%AF%81%E6%8D%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [小男孩医院角落一口气跳舞2小时](https://www.baidu.com/s?wd=%E5%B0%8F%E7%94%B7%E5%AD%A9%E5%8C%BB%E9%99%A2%E8%A7%92%E8%90%BD%E4%B8%80%E5%8F%A3%E6%B0%94%E8%B7%B3%E8%88%9E2%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [5名学生相约看海被卷入海中3人失联](https://www.baidu.com/s?wd=5%E5%90%8D%E5%AD%A6%E7%94%9F%E7%9B%B8%E7%BA%A6%E7%9C%8B%E6%B5%B7%E8%A2%AB%E5%8D%B7%E5%85%A5%E6%B5%B7%E4%B8%AD3%E4%BA%BA%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [浙江一地查获日本核辐射产地食品](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E5%9C%B0%E6%9F%A5%E8%8E%B7%E6%97%A5%E6%9C%AC%E6%A0%B8%E8%BE%90%E5%B0%84%E4%BA%A7%E5%9C%B0%E9%A3%9F%E5%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [运动员吴艳妮因右臂纹身惹争议](https://www.baidu.com/s?wd=%E8%BF%90%E5%8A%A8%E5%91%98%E5%90%B4%E8%89%B3%E5%A6%AE%E5%9B%A0%E5%8F%B3%E8%87%82%E7%BA%B9%E8%BA%AB%E6%83%B9%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [哈佛教授称可能发现外星人存在证据](https://www.baidu.com/s?wd=%E5%93%88%E4%BD%9B%E6%95%99%E6%8E%88%E7%A7%B0%E5%8F%AF%E8%83%BD%E5%8F%91%E7%8E%B0%E5%A4%96%E6%98%9F%E4%BA%BA%E5%AD%98%E5%9C%A8%E8%AF%81%E6%8D%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [小男孩医院角落一口气跳舞2小时](https://www.baidu.com/s?wd=%E5%B0%8F%E7%94%B7%E5%AD%A9%E5%8C%BB%E9%99%A2%E8%A7%92%E8%90%BD%E4%B8%80%E5%8F%A3%E6%B0%94%E8%B7%B3%E8%88%9E2%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [5名学生相约看海被卷入海中3人失联](https://www.baidu.com/s?wd=5%E5%90%8D%E5%AD%A6%E7%94%9F%E7%9B%B8%E7%BA%A6%E7%9C%8B%E6%B5%B7%E8%A2%AB%E5%8D%B7%E5%85%A5%E6%B5%B7%E4%B8%AD3%E4%BA%BA%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
