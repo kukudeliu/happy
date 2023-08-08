@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 23:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 23:49:02</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [长相思第二季有檀健次吗](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D%E7%AC%AC%E4%BA%8C%E5%AD%A3%E6%9C%89%E6%AA%80%E5%81%A5%E6%AC%A1%E5%90%97%23&t=31&band_rank=2&Refer=top)<br />
 3. [洪水过后居家消毒要注意什么](https://s.weibo.com/weibo?q=%23%E6%B4%AA%E6%B0%B4%E8%BF%87%E5%90%8E%E5%B1%85%E5%AE%B6%E6%B6%88%E6%AF%92%E8%A6%81%E6%B3%A8%E6%84%8F%E4%BB%80%E4%B9%88%23&t=31&band_rank=3&Refer=top)<br />
 4. [Uzi赛后哭了](https://s.weibo.com/weibo?q=%23Uzi%E8%B5%9B%E5%90%8E%E5%93%AD%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
-5. [杨紫回应小夭相柳是不是相爱](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%9B%9E%E5%BA%94%E5%B0%8F%E5%A4%AD%E7%9B%B8%E6%9F%B3%E6%98%AF%E4%B8%8D%E6%98%AF%E7%9B%B8%E7%88%B1%23&t=31&band_rank=5&Refer=top)<br />
-6. [试管婴儿与妈妈孕期的所有针管合影](https://s.weibo.com/weibo?q=%E8%AF%95%E7%AE%A1%E5%A9%B4%E5%84%BF%E4%B8%8E%E5%A6%88%E5%A6%88%E5%AD%95%E6%9C%9F%E7%9A%84%E6%89%80%E6%9C%89%E9%92%88%E7%AE%A1%E5%90%88%E5%BD%B1&t=31&band_rank=6&Refer=top)<br />
+5. [试管婴儿与妈妈孕期的所有针管合影](https://s.weibo.com/weibo?q=%E8%AF%95%E7%AE%A1%E5%A9%B4%E5%84%BF%E4%B8%8E%E5%A6%88%E5%A6%88%E5%AD%95%E6%9C%9F%E7%9A%84%E6%89%80%E6%9C%89%E9%92%88%E7%AE%A1%E5%90%88%E5%BD%B1&t=31&band_rank=5&Refer=top)<br />
+6. [杨紫回应小夭相柳是不是相爱](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%9B%9E%E5%BA%94%E5%B0%8F%E5%A4%AD%E7%9B%B8%E6%9F%B3%E6%98%AF%E4%B8%8D%E6%98%AF%E7%9B%B8%E7%88%B1%23&t=31&band_rank=6&Refer=top)<br />
 7. [泰娱的风吹到青岛了](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%A8%B1%E7%9A%84%E9%A3%8E%E5%90%B9%E5%88%B0%E9%9D%92%E5%B2%9B%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [FoFo 对不起让大家失望了](https://s.weibo.com/weibo?q=FoFo%20%E5%AF%B9%E4%B8%8D%E8%B5%B7%E8%AE%A9%E5%A4%A7%E5%AE%B6%E5%A4%B1%E6%9C%9B%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
 9. [封神票房](https://s.weibo.com/weibo?q=%E5%B0%81%E7%A5%9E%E7%A5%A8%E6%88%BF&t=31&band_rank=9&Refer=top)<br />
@@ -24,7 +24,7 @@
 5. [台风卡努转向北上将影响吉林](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E5%8D%A1%E5%8A%AA%E8%BD%AC%E5%90%91%E5%8C%97%E4%B8%8A%E5%B0%86%E5%BD%B1%E5%93%8D%E5%90%89%E6%9E%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [运动员吴艳妮因右臂纹身惹争议](https://www.baidu.com/s?wd=%E8%BF%90%E5%8A%A8%E5%91%98%E5%90%B4%E8%89%B3%E5%A6%AE%E5%9B%A0%E5%8F%B3%E8%87%82%E7%BA%B9%E8%BA%AB%E6%83%B9%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [欧企退俄损失高达1000亿欧元](https://www.baidu.com/s?wd=%E6%AC%A7%E4%BC%81%E9%80%80%E4%BF%84%E6%8D%9F%E5%A4%B1%E9%AB%98%E8%BE%BE1000%E4%BA%BF%E6%AC%A7%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [曾舜晞称《莲花楼》拍了两个结局](https://www.baidu.com/s?wd=%E6%9B%BE%E8%88%9C%E6%99%9E%E7%A7%B0%E3%80%8A%E8%8E%B2%E8%8A%B1%E6%A5%BC%E3%80%8B%E6%8B%8D%E4%BA%86%E4%B8%A4%E4%B8%AA%E7%BB%93%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子后脑勺头发被理发师剃掉一半](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%90%8E%E8%84%91%E5%8B%BA%E5%A4%B4%E5%8F%91%E8%A2%AB%E7%90%86%E5%8F%91%E5%B8%88%E5%89%83%E6%8E%89%E4%B8%80%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [美军事网站发布全球海军实力排行榜](https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E4%BA%8B%E7%BD%91%E7%AB%99%E5%8F%91%E5%B8%83%E5%85%A8%E7%90%83%E6%B5%B7%E5%86%9B%E5%AE%9E%E5%8A%9B%E6%8E%92%E8%A1%8C%E6%A6%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [台风卡努转向北上将影响吉林](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E5%8D%A1%E5%8A%AA%E8%BD%AC%E5%90%91%E5%8C%97%E4%B8%8A%E5%B0%86%E5%BD%B1%E5%93%8D%E5%90%89%E6%9E%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [运动员吴艳妮因右臂纹身惹争议](https://www.baidu.com/s?wd=%E8%BF%90%E5%8A%A8%E5%91%98%E5%90%B4%E8%89%B3%E5%A6%AE%E5%9B%A0%E5%8F%B3%E8%87%82%E7%BA%B9%E8%BA%AB%E6%83%B9%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [欧企退俄损失高达1000亿欧元](https://www.baidu.com/s?wd=%E6%AC%A7%E4%BC%81%E9%80%80%E4%BF%84%E6%8D%9F%E5%A4%B1%E9%AB%98%E8%BE%BE1000%E4%BA%BF%E6%AC%A7%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [曾舜晞称《莲花楼》拍了两个结局](https://www.baidu.com/s?wd=%E6%9B%BE%E8%88%9C%E6%99%9E%E7%A7%B0%E3%80%8A%E8%8E%B2%E8%8A%B1%E6%A5%BC%E3%80%8B%E6%8B%8D%E4%BA%86%E4%B8%A4%E4%B8%AA%E7%BB%93%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子后脑勺头发被理发师剃掉一半](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%90%8E%E8%84%91%E5%8B%BA%E5%A4%B4%E5%8F%91%E8%A2%AB%E7%90%86%E5%8F%91%E5%B8%88%E5%89%83%E6%8E%89%E4%B8%80%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [美军事网站发布全球海军实力排行榜](https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E4%BA%8B%E7%BD%91%E7%AB%99%E5%8F%91%E5%B8%83%E5%85%A8%E7%90%83%E6%B5%B7%E5%86%9B%E5%AE%9E%E5%8A%9B%E6%8E%92%E8%A1%8C%E6%A6%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
