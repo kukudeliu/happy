@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 21:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 21:13:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [EDG对战WBG](https://s.weibo.com/weibo?q=%23EDG%E5%AF%B9%E6%88%98WBG%23&t=31&band_rank=6&Refer=top)<br />
 7. [WBG晋级2023全球总决赛](https://s.weibo.com/weibo?q=WBG%E6%99%8B%E7%BA%A72023%E5%85%A8%E7%90%83%E6%80%BB%E5%86%B3%E8%B5%9B&t=31&band_rank=7&Refer=top)<br />
 8. [Uzi别惦记泽丽了](https://s.weibo.com/weibo?q=Uzi%E5%88%AB%E6%83%A6%E8%AE%B0%E6%B3%BD%E4%B8%BD%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [TFBOYS演唱会绝世大刀](https://s.weibo.com/weibo?q=%23TFBOYS%E6%BC%94%E5%94%B1%E4%BC%9A%E7%BB%9D%E4%B8%96%E5%A4%A7%E5%88%80%23&t=31&band_rank=9&Refer=top)<br />
+9. [杨紫直播](https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E7%9B%B4%E6%92%AD&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
