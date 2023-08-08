@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 16:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 16:51:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [TFBOYS演唱会 99块钱的直播爸爸唱了98块](https://s.weibo.com/weibo?q=TFBOYS%E6%BC%94%E5%94%B1%E4%BC%9A%2099%E5%9D%97%E9%92%B1%E7%9A%84%E7%9B%B4%E6%92%AD%E7%88%B8%E7%88%B8%E5%94%B1%E4%BA%8698%E5%9D%97&t=31&band_rank=6&Refer=top)<br />
 7. [外国人看巨齿鲨2后遗症](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%9B%BD%E4%BA%BA%E7%9C%8B%E5%B7%A8%E9%BD%BF%E9%B2%A82%E5%90%8E%E9%81%97%E7%97%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [很喜欢今年的8月8](https://s.weibo.com/weibo?q=%23%E5%BE%88%E5%96%9C%E6%AC%A2%E4%BB%8A%E5%B9%B4%E7%9A%848%E6%9C%888%23&t=31&band_rank=8&Refer=top)<br />
-9. [嫡谋 杨紫龚俊](https://s.weibo.com/weibo?q=%E5%AB%A1%E8%B0%8B%20%E6%9D%A8%E7%B4%AB%E9%BE%9A%E4%BF%8A&t=31&band_rank=9&Refer=top)<br />
+9. [执着于双休的原因](https://s.weibo.com/weibo?q=%E6%89%A7%E7%9D%80%E4%BA%8E%E5%8F%8C%E4%BC%91%E7%9A%84%E5%8E%9F%E5%9B%A0&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -25,7 +25,7 @@
 6. [刘涛演妈祖之前请示过妈祖](https://www.baidu.com/s?wd=%E5%88%98%E6%B6%9B%E6%BC%94%E5%A6%88%E7%A5%96%E4%B9%8B%E5%89%8D%E8%AF%B7%E7%A4%BA%E8%BF%87%E5%A6%88%E7%A5%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [早产儿出生罕见长2颗牙先后被拔掉](https://www.baidu.com/s?wd=%E6%97%A9%E4%BA%A7%E5%84%BF%E5%87%BA%E7%94%9F%E7%BD%95%E8%A7%81%E9%95%BF2%E9%A2%97%E7%89%99%E5%85%88%E5%90%8E%E8%A2%AB%E6%8B%94%E6%8E%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [涿州统计受灾情况 村民希望多给补助](https://www.baidu.com/s?wd=%E6%B6%BF%E5%B7%9E%E7%BB%9F%E8%AE%A1%E5%8F%97%E7%81%BE%E6%83%85%E5%86%B5+%E6%9D%91%E6%B0%91%E5%B8%8C%E6%9C%9B%E5%A4%9A%E7%BB%99%E8%A1%A5%E5%8A%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [北京的自来水变凉了？官方回应](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E7%9A%84%E8%87%AA%E6%9D%A5%E6%B0%B4%E5%8F%98%E5%87%89%E4%BA%86%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [一家7口遭入室伤害1死4伤 凶手自杀](https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B67%E5%8F%A3%E9%81%AD%E5%85%A5%E5%AE%A4%E4%BC%A4%E5%AE%B31%E6%AD%BB4%E4%BC%A4+%E5%87%B6%E6%89%8B%E8%87%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [刘涛演妈祖之前请示过妈祖](https://www.baidu.com/s?wd=%E5%88%98%E6%B6%9B%E6%BC%94%E5%A6%88%E7%A5%96%E4%B9%8B%E5%89%8D%E8%AF%B7%E7%A4%BA%E8%BF%87%E5%A6%88%E7%A5%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [早产儿出生罕见长2颗牙先后被拔掉](https://www.baidu.com/s?wd=%E6%97%A9%E4%BA%A7%E5%84%BF%E5%87%BA%E7%94%9F%E7%BD%95%E8%A7%81%E9%95%BF2%E9%A2%97%E7%89%99%E5%85%88%E5%90%8E%E8%A2%AB%E6%8B%94%E6%8E%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [涿州统计受灾情况 村民希望多给补助](https://www.baidu.com/s?wd=%E6%B6%BF%E5%B7%9E%E7%BB%9F%E8%AE%A1%E5%8F%97%E7%81%BE%E6%83%85%E5%86%B5+%E6%9D%91%E6%B0%91%E5%B8%8C%E6%9C%9B%E5%A4%9A%E7%BB%99%E8%A1%A5%E5%8A%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [北京的自来水变凉了？官方回应](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E7%9A%84%E8%87%AA%E6%9D%A5%E6%B0%B4%E5%8F%98%E5%87%89%E4%BA%86%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [一家7口遭入室伤害1死4伤 凶手自杀](https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B67%E5%8F%A3%E9%81%AD%E5%85%A5%E5%AE%A4%E4%BC%A4%E5%AE%B31%E6%AD%BB4%E4%BC%A4+%E5%87%B6%E6%89%8B%E8%87%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
