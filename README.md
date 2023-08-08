@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 12:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 12:09:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [TFBOYS演唱会带动4.16亿旅游收入](https://s.weibo.com/weibo?q=%23TFBOYS%E6%BC%94%E5%94%B1%E4%BC%9A%E5%B8%A6%E5%8A%A84.16%E4%BA%BF%E6%97%85%E6%B8%B8%E6%94%B6%E5%85%A5%23&t=31&band_rank=6&Refer=top)<br />
 7. [不小心把芒果弄璋了](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%8A%8A%E8%8A%92%E6%9E%9C%E5%BC%84%E7%92%8B%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [现在仙侠都流行到七生七世了](https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E4%BB%99%E4%BE%A0%E9%83%BD%E6%B5%81%E8%A1%8C%E5%88%B0%E4%B8%83%E7%94%9F%E4%B8%83%E4%B8%96%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [王传君 不像演的](https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BC%A0%E5%90%9B%20%E4%B8%8D%E5%83%8F%E6%BC%94%E7%9A%84&t=31&band_rank=9&Refer=top)<br />
+9. [为什么现在电影票这么贵](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E7%94%B5%E5%BD%B1%E7%A5%A8%E8%BF%99%E4%B9%88%E8%B4%B5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
