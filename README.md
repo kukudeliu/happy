@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 18:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 18:20:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [中国邮政是懂奶茶取名的](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E9%82%AE%E6%94%BF%E6%98%AF%E6%87%82%E5%A5%B6%E8%8C%B6%E5%8F%96%E5%90%8D%E7%9A%84&t=31&band_rank=6&Refer=top)<br />
 7. [很高兴认识你成都](https://s.weibo.com/weibo?q=%23%E5%BE%88%E9%AB%98%E5%85%B4%E8%AE%A4%E8%AF%86%E4%BD%A0%E6%88%90%E9%83%BD%23&t=31&band_rank=7&Refer=top)<br />
 8. [Meiko打字15](https://s.weibo.com/weibo?q=Meiko%E6%89%93%E5%AD%9715&t=31&band_rank=8&Refer=top)<br />
-9. [阔腿裤最干净的上厕所方式](https://s.weibo.com/weibo?q=%23%E9%98%94%E8%85%BF%E8%A3%A4%E6%9C%80%E5%B9%B2%E5%87%80%E7%9A%84%E4%B8%8A%E5%8E%95%E6%89%80%E6%96%B9%E5%BC%8F%23&t=31&band_rank=9&Refer=top)<br />
+9. [小夭也没有见过真正的涂山璟](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%A4%AD%E4%B9%9F%E6%B2%A1%E6%9C%89%E8%A7%81%E8%BF%87%E7%9C%9F%E6%AD%A3%E7%9A%84%E6%B6%82%E5%B1%B1%E7%92%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
