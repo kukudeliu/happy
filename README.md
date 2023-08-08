@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 10:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 10:31:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [日本中文教材把精髓掌握了](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%AD%E6%96%87%E6%95%99%E6%9D%90%E6%8A%8A%E7%B2%BE%E9%AB%93%E6%8E%8C%E6%8F%A1%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [BLACKPINK 续约](https://s.weibo.com/weibo?q=BLACKPINK%20%E7%BB%AD%E7%BA%A6&t=31&band_rank=7&Refer=top)<br />
 8. [杨紫包场孤注一掷](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%8C%85%E5%9C%BA%E5%AD%A4%E6%B3%A8%E4%B8%80%E6%8E%B7%23&t=31&band_rank=8&Refer=top)<br />
-9. [高三老师付费请学生看TFBOYS演唱会直播](https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%B8%89%E8%80%81%E5%B8%88%E4%BB%98%E8%B4%B9%E8%AF%B7%E5%AD%A6%E7%94%9F%E7%9C%8BTFBOYS%E6%BC%94%E5%94%B1%E4%BC%9A%E7%9B%B4%E6%92%AD%23&t=31&band_rank=9&Refer=top)<br />
+9. [久坐之后才懂练腹有多重要](https://s.weibo.com/weibo?q=%E4%B9%85%E5%9D%90%E4%B9%8B%E5%90%8E%E6%89%8D%E6%87%82%E7%BB%83%E8%85%B9%E6%9C%89%E5%A4%9A%E9%87%8D%E8%A6%81&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
