@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 00:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 00:13:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [洪水过后居家消毒要注意什么](https://s.weibo.com/weibo?q=%23%E6%B4%AA%E6%B0%B4%E8%BF%87%E5%90%8E%E5%B1%85%E5%AE%B6%E6%B6%88%E6%AF%92%E8%A6%81%E6%B3%A8%E6%84%8F%E4%BB%80%E4%B9%88%23&t=31&band_rank=3&Refer=top)<br />
 4. [试管婴儿与妈妈孕期的所有针管合影](https://s.weibo.com/weibo?q=%E8%AF%95%E7%AE%A1%E5%A9%B4%E5%84%BF%E4%B8%8E%E5%A6%88%E5%A6%88%E5%AD%95%E6%9C%9F%E7%9A%84%E6%89%80%E6%9C%89%E9%92%88%E7%AE%A1%E5%90%88%E5%BD%B1&t=31&band_rank=4&Refer=top)<br />
 5. [Uzi赛后哭了](https://s.weibo.com/weibo?q=%23Uzi%E8%B5%9B%E5%90%8E%E5%93%AD%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
-6. [杨紫回应小夭相柳是不是相爱](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%9B%9E%E5%BA%94%E5%B0%8F%E5%A4%AD%E7%9B%B8%E6%9F%B3%E6%98%AF%E4%B8%8D%E6%98%AF%E7%9B%B8%E7%88%B1%23&t=31&band_rank=6&Refer=top)<br />
-7. [Uzi](https://s.weibo.com/weibo?q=Uzi&t=31&band_rank=7&Refer=top)<br />
+6. [Uzi](https://s.weibo.com/weibo?q=Uzi&t=31&band_rank=6&Refer=top)<br />
+7. [杨紫回应小夭相柳是不是相爱](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%9B%9E%E5%BA%94%E5%B0%8F%E5%A4%AD%E7%9B%B8%E6%9F%B3%E6%98%AF%E4%B8%8D%E6%98%AF%E7%9B%B8%E7%88%B1%23&t=31&band_rank=7&Refer=top)<br />
 8. [FoFo 对不起让大家失望了](https://s.weibo.com/weibo?q=FoFo%20%E5%AF%B9%E4%B8%8D%E8%B5%B7%E8%AE%A9%E5%A4%A7%E5%AE%B6%E5%A4%B1%E6%9C%9B%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [封神票房](https://s.weibo.com/weibo?q=%E5%B0%81%E7%A5%9E%E7%A5%A8%E6%88%BF&t=31&band_rank=9&Refer=top)<br />
+9. [起猛了看见帕梅拉在练八段锦](https://s.weibo.com/weibo?q=%23%E8%B5%B7%E7%8C%9B%E4%BA%86%E7%9C%8B%E8%A7%81%E5%B8%95%E6%A2%85%E6%8B%89%E5%9C%A8%E7%BB%83%E5%85%AB%E6%AE%B5%E9%94%A6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
