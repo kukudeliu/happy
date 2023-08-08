@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 20:49:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 20:50:01</h4></div>
 
 > 微博  
 
 1. [邓超同志被评定为烈士](https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E5%90%8C%E5%BF%97%E8%A2%AB%E8%AF%84%E5%AE%9A%E4%B8%BA%E7%83%88%E5%A3%AB%23&t=31&band_rank=1&Refer=top)<br />
 2. [EDG下路菜啊](https://s.weibo.com/weibo?q=EDG%E4%B8%8B%E8%B7%AF%E8%8F%9C%E5%95%8A&t=31&band_rank=2&Refer=top)<br />
 3. [我在国门一线](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9C%A8%E5%9B%BD%E9%97%A8%E4%B8%80%E7%BA%BF%23&t=31&band_rank=3&Refer=top)<br />
-4. [EDG对战WBG](https://s.weibo.com/weibo?q=%23EDG%E5%AF%B9%E6%88%98WBG%23&t=31&band_rank=4&Refer=top)<br />
-5. [WBG晋级2023全球总决赛](https://s.weibo.com/weibo?q=WBG%E6%99%8B%E7%BA%A72023%E5%85%A8%E7%90%83%E6%80%BB%E5%86%B3%E8%B5%9B&t=31&band_rank=5&Refer=top)<br />
+4. [WBG晋级2023全球总决赛](https://s.weibo.com/weibo?q=WBG%E6%99%8B%E7%BA%A72023%E5%85%A8%E7%90%83%E6%80%BB%E5%86%B3%E8%B5%9B&t=31&band_rank=4&Refer=top)<br />
+5. [EDG对战WBG](https://s.weibo.com/weibo?q=%23EDG%E5%AF%B9%E6%88%98WBG%23&t=31&band_rank=5&Refer=top)<br />
 6. [WBG战胜EDG](https://s.weibo.com/weibo?q=%23WBG%E6%88%98%E8%83%9CEDG%23&t=31&band_rank=6&Refer=top)<br />
 7. [Uzi别惦记泽丽了](https://s.weibo.com/weibo?q=Uzi%E5%88%AB%E6%83%A6%E8%AE%B0%E6%B3%BD%E4%B8%BD%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [WBG我看不懂](https://s.weibo.com/weibo?q=WBG%E6%88%91%E7%9C%8B%E4%B8%8D%E6%87%82&t=31&band_rank=8&Refer=top)<br />
