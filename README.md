@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 18:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 18:47:02</h4></div>
 
 > 微博  
 
@@ -22,10 +22,10 @@
 3. [万达回应刘海波被警方带走调查](https://www.baidu.com/s?wd=%E4%B8%87%E8%BE%BE%E5%9B%9E%E5%BA%94%E5%88%98%E6%B5%B7%E6%B3%A2%E8%A2%AB%E8%AD%A6%E6%96%B9%E5%B8%A6%E8%B5%B0%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [构筑数字经济发展新优势](https://www.baidu.com/s?wd=%E6%9E%84%E7%AD%91%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E6%96%B0%E4%BC%98%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [梅德韦杰夫:美企图把俄从地球上抹去](https://www.baidu.com/s?wd=%E6%A2%85%E5%BE%B7%E9%9F%A6%E6%9D%B0%E5%A4%AB%3A%E7%BE%8E%E4%BC%81%E5%9B%BE%E6%8A%8A%E4%BF%84%E4%BB%8E%E5%9C%B0%E7%90%83%E4%B8%8A%E6%8A%B9%E5%8E%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [中国邮政是懂奶茶取名的](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%82%AE%E6%94%BF%E6%98%AF%E6%87%82%E5%A5%B6%E8%8C%B6%E5%8F%96%E5%90%8D%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子后脑勺头发被理发师剃掉一半](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%90%8E%E8%84%91%E5%8B%BA%E5%A4%B4%E5%8F%91%E8%A2%AB%E7%90%86%E5%8F%91%E5%B8%88%E5%89%83%E6%8E%89%E4%B8%80%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [女子后脑勺头发被理发师剃掉一半](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%90%8E%E8%84%91%E5%8B%BA%E5%A4%B4%E5%8F%91%E8%A2%AB%E7%90%86%E5%8F%91%E5%B8%88%E5%89%83%E6%8E%89%E4%B8%80%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [中国邮政是懂奶茶取名的](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%82%AE%E6%94%BF%E6%98%AF%E6%87%82%E5%A5%B6%E8%8C%B6%E5%8F%96%E5%90%8D%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [哈佛教授称可能发现外星人存在证据](https://www.baidu.com/s?wd=%E5%93%88%E4%BD%9B%E6%95%99%E6%8E%88%E7%A7%B0%E5%8F%AF%E8%83%BD%E5%8F%91%E7%8E%B0%E5%A4%96%E6%98%9F%E4%BA%BA%E5%AD%98%E5%9C%A8%E8%AF%81%E6%8D%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [涿州养殖户：500多斤的猪被冲走](https://www.baidu.com/s?wd=%E6%B6%BF%E5%B7%9E%E5%85%BB%E6%AE%96%E6%88%B7%EF%BC%9A500%E5%A4%9A%E6%96%A4%E7%9A%84%E7%8C%AA%E8%A2%AB%E5%86%B2%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女孩18岁成人礼被男友带去吸毒](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A918%E5%B2%81%E6%88%90%E4%BA%BA%E7%A4%BC%E8%A2%AB%E7%94%B7%E5%8F%8B%E5%B8%A6%E5%8E%BB%E5%90%B8%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -34,7 +34,7 @@
 3. [万达回应刘海波被警方带走调查](https://www.baidu.com/s?wd=%E4%B8%87%E8%BE%BE%E5%9B%9E%E5%BA%94%E5%88%98%E6%B5%B7%E6%B3%A2%E8%A2%AB%E8%AD%A6%E6%96%B9%E5%B8%A6%E8%B5%B0%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [构筑数字经济发展新优势](https://www.baidu.com/s?wd=%E6%9E%84%E7%AD%91%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E6%96%B0%E4%BC%98%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [梅德韦杰夫:美企图把俄从地球上抹去](https://www.baidu.com/s?wd=%E6%A2%85%E5%BE%B7%E9%9F%A6%E6%9D%B0%E5%A4%AB%3A%E7%BE%8E%E4%BC%81%E5%9B%BE%E6%8A%8A%E4%BF%84%E4%BB%8E%E5%9C%B0%E7%90%83%E4%B8%8A%E6%8A%B9%E5%8E%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [中国邮政是懂奶茶取名的](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%82%AE%E6%94%BF%E6%98%AF%E6%87%82%E5%A5%B6%E8%8C%B6%E5%8F%96%E5%90%8D%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子后脑勺头发被理发师剃掉一半](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%90%8E%E8%84%91%E5%8B%BA%E5%A4%B4%E5%8F%91%E8%A2%AB%E7%90%86%E5%8F%91%E5%B8%88%E5%89%83%E6%8E%89%E4%B8%80%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [女子后脑勺头发被理发师剃掉一半](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%90%8E%E8%84%91%E5%8B%BA%E5%A4%B4%E5%8F%91%E8%A2%AB%E7%90%86%E5%8F%91%E5%B8%88%E5%89%83%E6%8E%89%E4%B8%80%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [中国邮政是懂奶茶取名的](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%82%AE%E6%94%BF%E6%98%AF%E6%87%82%E5%A5%B6%E8%8C%B6%E5%8F%96%E5%90%8D%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [哈佛教授称可能发现外星人存在证据](https://www.baidu.com/s?wd=%E5%93%88%E4%BD%9B%E6%95%99%E6%8E%88%E7%A7%B0%E5%8F%AF%E8%83%BD%E5%8F%91%E7%8E%B0%E5%A4%96%E6%98%9F%E4%BA%BA%E5%AD%98%E5%9C%A8%E8%AF%81%E6%8D%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [涿州养殖户：500多斤的猪被冲走](https://www.baidu.com/s?wd=%E6%B6%BF%E5%B7%9E%E5%85%BB%E6%AE%96%E6%88%B7%EF%BC%9A500%E5%A4%9A%E6%96%A4%E7%9A%84%E7%8C%AA%E8%A2%AB%E5%86%B2%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女孩18岁成人礼被男友带去吸毒](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A918%E5%B2%81%E6%88%90%E4%BA%BA%E7%A4%BC%E8%A2%AB%E7%94%B7%E5%8F%8B%E5%B8%A6%E5%8E%BB%E5%90%B8%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
