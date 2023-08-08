@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 19:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 19:54:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [观众看孤注一掷中途退票 影院回应](https://www.baidu.com/s?wd=%E8%A7%82%E4%BC%97%E7%9C%8B%E5%AD%A4%E6%B3%A8%E4%B8%80%E6%8E%B7%E4%B8%AD%E9%80%94%E9%80%80%E7%A5%A8+%E5%BD%B1%E9%99%A2%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子将娃闷车内睡觉2小时后崩溃报警](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B0%86%E5%A8%83%E9%97%B7%E8%BD%A6%E5%86%85%E7%9D%A1%E8%A7%892%E5%B0%8F%E6%97%B6%E5%90%8E%E5%B4%A9%E6%BA%83%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子后脑勺头发被理发师剃掉一半](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%90%8E%E8%84%91%E5%8B%BA%E5%A4%B4%E5%8F%91%E8%A2%AB%E7%90%86%E5%8F%91%E5%B8%88%E5%89%83%E6%8E%89%E4%B8%80%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [今年证券经纪人减少近4000人](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E8%AF%81%E5%88%B8%E7%BB%8F%E7%BA%AA%E4%BA%BA%E5%87%8F%E5%B0%91%E8%BF%914000%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [涿州养殖户：500多斤的猪被冲走](https://www.baidu.com/s?wd=%E6%B6%BF%E5%B7%9E%E5%85%BB%E6%AE%96%E6%88%B7%EF%BC%9A500%E5%A4%9A%E6%96%A4%E7%9A%84%E7%8C%AA%E8%A2%AB%E5%86%B2%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [特斯拉撞上高架石墩起火 目击者发声](https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E6%92%9E%E4%B8%8A%E9%AB%98%E6%9E%B6%E7%9F%B3%E5%A2%A9%E8%B5%B7%E7%81%AB+%E7%9B%AE%E5%87%BB%E8%80%85%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [刘涛演妈祖之前请示过妈祖](https://www.baidu.com/s?wd=%E5%88%98%E6%B6%9B%E6%BC%94%E5%A6%88%E7%A5%96%E4%B9%8B%E5%89%8D%E8%AF%B7%E7%A4%BA%E8%BF%87%E5%A6%88%E7%A5%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [观众看孤注一掷中途退票 影院回应](https://www.baidu.com/s?wd=%E8%A7%82%E4%BC%97%E7%9C%8B%E5%AD%A4%E6%B3%A8%E4%B8%80%E6%8E%B7%E4%B8%AD%E9%80%94%E9%80%80%E7%A5%A8+%E5%BD%B1%E9%99%A2%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子将娃闷车内睡觉2小时后崩溃报警](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B0%86%E5%A8%83%E9%97%B7%E8%BD%A6%E5%86%85%E7%9D%A1%E8%A7%892%E5%B0%8F%E6%97%B6%E5%90%8E%E5%B4%A9%E6%BA%83%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子后脑勺头发被理发师剃掉一半](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%90%8E%E8%84%91%E5%8B%BA%E5%A4%B4%E5%8F%91%E8%A2%AB%E7%90%86%E5%8F%91%E5%B8%88%E5%89%83%E6%8E%89%E4%B8%80%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [今年证券经纪人减少近4000人](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E8%AF%81%E5%88%B8%E7%BB%8F%E7%BA%AA%E4%BA%BA%E5%87%8F%E5%B0%91%E8%BF%914000%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [涿州养殖户：500多斤的猪被冲走](https://www.baidu.com/s?wd=%E6%B6%BF%E5%B7%9E%E5%85%BB%E6%AE%96%E6%88%B7%EF%BC%9A500%E5%A4%9A%E6%96%A4%E7%9A%84%E7%8C%AA%E8%A2%AB%E5%86%B2%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [特斯拉撞上高架石墩起火 目击者发声](https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E6%92%9E%E4%B8%8A%E9%AB%98%E6%9E%B6%E7%9F%B3%E5%A2%A9%E8%B5%B7%E7%81%AB+%E7%9B%AE%E5%87%BB%E8%80%85%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [刘涛演妈祖之前请示过妈祖](https://www.baidu.com/s?wd=%E5%88%98%E6%B6%9B%E6%BC%94%E5%A6%88%E7%A5%96%E4%B9%8B%E5%89%8D%E8%AF%B7%E7%A4%BA%E8%BF%87%E5%A6%88%E7%A5%96&sa=fyb_news&rsv_dl=fyb_news)<br />
