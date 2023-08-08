@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 21:49:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 21:50:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [WBG战胜EDG晋级世界赛](https://www.baidu.com/s?wd=WBG%E6%88%98%E8%83%9CEDG%E6%99%8B%E7%BA%A7%E4%B8%96%E7%95%8C%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [诺华回应上海长征医院驱逐医药代表](https://www.baidu.com/s?wd=%E8%AF%BA%E5%8D%8E%E5%9B%9E%E5%BA%94%E4%B8%8A%E6%B5%B7%E9%95%BF%E5%BE%81%E5%8C%BB%E9%99%A2%E9%A9%B1%E9%80%90%E5%8C%BB%E8%8D%AF%E4%BB%A3%E8%A1%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [哈佛教授称可能发现外星人存在证据](https://www.baidu.com/s?wd=%E5%93%88%E4%BD%9B%E6%95%99%E6%8E%88%E7%A7%B0%E5%8F%AF%E8%83%BD%E5%8F%91%E7%8E%B0%E5%A4%96%E6%98%9F%E4%BA%BA%E5%AD%98%E5%9C%A8%E8%AF%81%E6%8D%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [全家吃菌仅女子一人中毒](https://www.baidu.com/s?wd=%E5%85%A8%E5%AE%B6%E5%90%83%E8%8F%8C%E4%BB%85%E5%A5%B3%E5%AD%90%E4%B8%80%E4%BA%BA%E4%B8%AD%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [中国邮政是懂奶茶取名的](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%82%AE%E6%94%BF%E6%98%AF%E6%87%82%E5%A5%B6%E8%8C%B6%E5%8F%96%E5%90%8D%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [WBG战胜EDG晋级世界赛](https://www.baidu.com/s?wd=WBG%E6%88%98%E8%83%9CEDG%E6%99%8B%E7%BA%A7%E4%B8%96%E7%95%8C%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [诺华回应上海长征医院驱逐医药代表](https://www.baidu.com/s?wd=%E8%AF%BA%E5%8D%8E%E5%9B%9E%E5%BA%94%E4%B8%8A%E6%B5%B7%E9%95%BF%E5%BE%81%E5%8C%BB%E9%99%A2%E9%A9%B1%E9%80%90%E5%8C%BB%E8%8D%AF%E4%BB%A3%E8%A1%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [哈佛教授称可能发现外星人存在证据](https://www.baidu.com/s?wd=%E5%93%88%E4%BD%9B%E6%95%99%E6%8E%88%E7%A7%B0%E5%8F%AF%E8%83%BD%E5%8F%91%E7%8E%B0%E5%A4%96%E6%98%9F%E4%BA%BA%E5%AD%98%E5%9C%A8%E8%AF%81%E6%8D%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [全家吃菌仅女子一人中毒](https://www.baidu.com/s?wd=%E5%85%A8%E5%AE%B6%E5%90%83%E8%8F%8C%E4%BB%85%E5%A5%B3%E5%AD%90%E4%B8%80%E4%BA%BA%E4%B8%AD%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [中国邮政是懂奶茶取名的](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%82%AE%E6%94%BF%E6%98%AF%E6%87%82%E5%A5%B6%E8%8C%B6%E5%8F%96%E5%90%8D%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
