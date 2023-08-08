@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 08:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 08:43:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [日本中文教材把精髓掌握了](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%AD%E6%96%87%E6%95%99%E6%9D%90%E6%8A%8A%E7%B2%BE%E9%AB%93%E6%8E%8C%E6%8F%A1%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [易烊千玺一朝回到解放前](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E4%B8%80%E6%9C%9D%E5%9B%9E%E5%88%B0%E8%A7%A3%E6%94%BE%E5%89%8D%23&t=31&band_rank=6&Refer=top)<br />
 7. [BLACKPINK 续约](https://s.weibo.com/weibo?q=BLACKPINK%20%E7%BB%AD%E7%BA%A6&t=31&band_rank=7&Refer=top)<br />
-8. [嘎子哥该如何自证没有诈捐物资](https://s.weibo.com/weibo?q=%23%E5%98%8E%E5%AD%90%E5%93%A5%E8%AF%A5%E5%A6%82%E4%BD%95%E8%87%AA%E8%AF%81%E6%B2%A1%E6%9C%89%E8%AF%88%E6%8D%90%E7%89%A9%E8%B5%84%23&t=31&band_rank=8&Refer=top)<br />
-9. [玱玹终于有点像疯子了](https://s.weibo.com/weibo?q=%E7%8E%B1%E7%8E%B9%E7%BB%88%E4%BA%8E%E6%9C%89%E7%82%B9%E5%83%8F%E7%96%AF%E5%AD%90%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+8. [玱玹终于有点像疯子了](https://s.weibo.com/weibo?q=%E7%8E%B1%E7%8E%B9%E7%BB%88%E4%BA%8E%E6%9C%89%E7%82%B9%E5%83%8F%E7%96%AF%E5%AD%90%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
+9. [嘎子哥该如何自证没有诈捐物资](https://s.weibo.com/weibo?q=%23%E5%98%8E%E5%AD%90%E5%93%A5%E8%AF%A5%E5%A6%82%E4%BD%95%E8%87%AA%E8%AF%81%E6%B2%A1%E6%9C%89%E8%AF%88%E6%8D%90%E7%89%A9%E8%B5%84%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
