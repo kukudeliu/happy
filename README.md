@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 17:08:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 17:09:02</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [刘涛演妈祖之前请示过妈祖](https://www.baidu.com/s?wd=%E5%88%98%E6%B6%9B%E6%BC%94%E5%A6%88%E7%A5%96%E4%B9%8B%E5%89%8D%E8%AF%B7%E7%A4%BA%E8%BF%87%E5%A6%88%E7%A5%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [早产儿出生罕见长2颗牙先后被拔掉](https://www.baidu.com/s?wd=%E6%97%A9%E4%BA%A7%E5%84%BF%E5%87%BA%E7%94%9F%E7%BD%95%E8%A7%81%E9%95%BF2%E9%A2%97%E7%89%99%E5%85%88%E5%90%8E%E8%A2%AB%E6%8B%94%E6%8E%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [北京的自来水变凉了？官方回应](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E7%9A%84%E8%87%AA%E6%9D%A5%E6%B0%B4%E5%8F%98%E5%87%89%E4%BA%86%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [医药反腐持续 多家上市药企发声](https://www.baidu.com/s?wd=%E5%8C%BB%E8%8D%AF%E5%8F%8D%E8%85%90%E6%8C%81%E7%BB%AD+%E5%A4%9A%E5%AE%B6%E4%B8%8A%E5%B8%82%E8%8D%AF%E4%BC%81%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女孩18岁成人礼被男友带去吸毒](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A918%E5%B2%81%E6%88%90%E4%BA%BA%E7%A4%BC%E8%A2%AB%E7%94%B7%E5%8F%8B%E5%B8%A6%E5%8E%BB%E5%90%B8%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [刘涛演妈祖之前请示过妈祖](https://www.baidu.com/s?wd=%E5%88%98%E6%B6%9B%E6%BC%94%E5%A6%88%E7%A5%96%E4%B9%8B%E5%89%8D%E8%AF%B7%E7%A4%BA%E8%BF%87%E5%A6%88%E7%A5%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [早产儿出生罕见长2颗牙先后被拔掉](https://www.baidu.com/s?wd=%E6%97%A9%E4%BA%A7%E5%84%BF%E5%87%BA%E7%94%9F%E7%BD%95%E8%A7%81%E9%95%BF2%E9%A2%97%E7%89%99%E5%85%88%E5%90%8E%E8%A2%AB%E6%8B%94%E6%8E%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [北京的自来水变凉了？官方回应](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E7%9A%84%E8%87%AA%E6%9D%A5%E6%B0%B4%E5%8F%98%E5%87%89%E4%BA%86%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [医药反腐持续 多家上市药企发声](https://www.baidu.com/s?wd=%E5%8C%BB%E8%8D%AF%E5%8F%8D%E8%85%90%E6%8C%81%E7%BB%AD+%E5%A4%9A%E5%AE%B6%E4%B8%8A%E5%B8%82%E8%8D%AF%E4%BC%81%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女孩18岁成人礼被男友带去吸毒](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A918%E5%B2%81%E6%88%90%E4%BA%BA%E7%A4%BC%E8%A2%AB%E7%94%B7%E5%8F%8B%E5%B8%A6%E5%8E%BB%E5%90%B8%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
