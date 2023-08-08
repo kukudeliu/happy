@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 11:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 11:18:01</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [全民健身绘就幸福生活](https://www.baidu.com/s?wd=%E5%85%A8%E6%B0%91%E5%81%A5%E8%BA%AB%E7%BB%98%E5%B0%B1%E5%B9%B8%E7%A6%8F%E7%94%9F%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [K396次向乘客喊话的值班员被提拔](https://www.baidu.com/s?wd=K396%E6%AC%A1%E5%90%91%E4%B9%98%E5%AE%A2%E5%96%8A%E8%AF%9D%E7%9A%84%E5%80%BC%E7%8F%AD%E5%91%98%E8%A2%AB%E6%8F%90%E6%8B%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [昆明滇池大面积鱼群跳跃 多方回应](https://www.baidu.com/s?wd=%E6%98%86%E6%98%8E%E6%BB%87%E6%B1%A0%E5%A4%A7%E9%9D%A2%E7%A7%AF%E9%B1%BC%E7%BE%A4%E8%B7%B3%E8%B7%83+%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [揭秘公安厅副厅长“借钱生钱”](https://www.baidu.com/s?wd=%E6%8F%AD%E7%A7%98%E5%85%AC%E5%AE%89%E5%8E%85%E5%89%AF%E5%8E%85%E9%95%BF%E2%80%9C%E5%80%9F%E9%92%B1%E7%94%9F%E9%92%B1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [月薪2万住不起如家汉庭？酒店回应了](https://www.baidu.com/s?wd=%E6%9C%88%E8%96%AA2%E4%B8%87%E4%BD%8F%E4%B8%8D%E8%B5%B7%E5%A6%82%E5%AE%B6%E6%B1%89%E5%BA%AD%EF%BC%9F%E9%85%92%E5%BA%97%E5%9B%9E%E5%BA%94%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男孩包皮手术十天后去世 卫健委介入](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E5%8C%85%E7%9A%AE%E6%89%8B%E6%9C%AF%E5%8D%81%E5%A4%A9%E5%90%8E%E5%8E%BB%E4%B8%96+%E5%8D%AB%E5%81%A5%E5%A7%94%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [立秋不意味着入秋](https://www.baidu.com/s?wd=%E7%AB%8B%E7%A7%8B%E4%B8%8D%E6%84%8F%E5%91%B3%E7%9D%80%E5%85%A5%E7%A7%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [全民健身绘就幸福生活](https://www.baidu.com/s?wd=%E5%85%A8%E6%B0%91%E5%81%A5%E8%BA%AB%E7%BB%98%E5%B0%B1%E5%B9%B8%E7%A6%8F%E7%94%9F%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [K396次向乘客喊话的值班员被提拔](https://www.baidu.com/s?wd=K396%E6%AC%A1%E5%90%91%E4%B9%98%E5%AE%A2%E5%96%8A%E8%AF%9D%E7%9A%84%E5%80%BC%E7%8F%AD%E5%91%98%E8%A2%AB%E6%8F%90%E6%8B%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [昆明滇池大面积鱼群跳跃 多方回应](https://www.baidu.com/s?wd=%E6%98%86%E6%98%8E%E6%BB%87%E6%B1%A0%E5%A4%A7%E9%9D%A2%E7%A7%AF%E9%B1%BC%E7%BE%A4%E8%B7%B3%E8%B7%83+%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [揭秘公安厅副厅长“借钱生钱”](https://www.baidu.com/s?wd=%E6%8F%AD%E7%A7%98%E5%85%AC%E5%AE%89%E5%8E%85%E5%89%AF%E5%8E%85%E9%95%BF%E2%80%9C%E5%80%9F%E9%92%B1%E7%94%9F%E9%92%B1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [月薪2万住不起如家汉庭？酒店回应了](https://www.baidu.com/s?wd=%E6%9C%88%E8%96%AA2%E4%B8%87%E4%BD%8F%E4%B8%8D%E8%B5%B7%E5%A6%82%E5%AE%B6%E6%B1%89%E5%BA%AD%EF%BC%9F%E9%85%92%E5%BA%97%E5%9B%9E%E5%BA%94%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男孩包皮手术十天后去世 卫健委介入](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E5%8C%85%E7%9A%AE%E6%89%8B%E6%9C%AF%E5%8D%81%E5%A4%A9%E5%90%8E%E5%8E%BB%E4%B8%96+%E5%8D%AB%E5%81%A5%E5%A7%94%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [立秋不意味着入秋](https://www.baidu.com/s?wd=%E7%AB%8B%E7%A7%8B%E4%B8%8D%E6%84%8F%E5%91%B3%E7%9D%80%E5%85%A5%E7%A7%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
