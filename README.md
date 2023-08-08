@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 22:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 22:33:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [封神票房](https://s.weibo.com/weibo?q=%E5%B0%81%E7%A5%9E%E7%A5%A8%E6%88%BF&t=31&band_rank=5&Refer=top)<br />
 6. [泰娱的风吹到青岛了](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%A8%B1%E7%9A%84%E9%A3%8E%E5%90%B9%E5%88%B0%E9%9D%92%E5%B2%9B%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [老板在自家工厂被1.5万个奶酪压死](https://s.weibo.com/weibo?q=%23%E8%80%81%E6%9D%BF%E5%9C%A8%E8%87%AA%E5%AE%B6%E5%B7%A5%E5%8E%82%E8%A2%AB1.5%E4%B8%87%E4%B8%AA%E5%A5%B6%E9%85%AA%E5%8E%8B%E6%AD%BB%23&t=31&band_rank=7&Refer=top)<br />
-8. [EDG下路菜啊](https://s.weibo.com/weibo?q=EDG%E4%B8%8B%E8%B7%AF%E8%8F%9C%E5%95%8A&t=31&band_rank=8&Refer=top)<br />
-9. [刘青松哭了](https://s.weibo.com/weibo?q=%23%E5%88%98%E9%9D%92%E6%9D%BE%E5%93%AD%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+8. [长相思第二季有檀健次吗](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D%E7%AC%AC%E4%BA%8C%E5%AD%A3%E6%9C%89%E6%AA%80%E5%81%A5%E6%AC%A1%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
+9. [EDG下路菜啊](https://s.weibo.com/weibo?q=EDG%E4%B8%8B%E8%B7%AF%E8%8F%9C%E5%95%8A&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
