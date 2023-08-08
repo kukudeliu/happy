@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 22:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 22:34:01</h4></div>
 
 > 微博  
 
@@ -22,10 +22,10 @@
 3. [“嘎子”捐赠物资作假？镇政府回应](https://www.baidu.com/s?wd=%E2%80%9C%E5%98%8E%E5%AD%90%E2%80%9D%E6%8D%90%E8%B5%A0%E7%89%A9%E8%B5%84%E4%BD%9C%E5%81%87%EF%BC%9F%E9%95%87%E6%94%BF%E5%BA%9C%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [怎样做好洪涝卫生灾害预防](https://www.baidu.com/s?wd=%E6%80%8E%E6%A0%B7%E5%81%9A%E5%A5%BD%E6%B4%AA%E6%B6%9D%E5%8D%AB%E7%94%9F%E7%81%BE%E5%AE%B3%E9%A2%84%E9%98%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [台风卡努转向北上将影响吉林](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E5%8D%A1%E5%8A%AA%E8%BD%AC%E5%90%91%E5%8C%97%E4%B8%8A%E5%B0%86%E5%BD%B1%E5%93%8D%E5%90%89%E6%9E%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [欧企退俄损失高达1000亿欧元](https://www.baidu.com/s?wd=%E6%AC%A7%E4%BC%81%E9%80%80%E4%BF%84%E6%8D%9F%E5%A4%B1%E9%AB%98%E8%BE%BE1000%E4%BA%BF%E6%AC%A7%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [涿州执法车凌晨带队往村边倒垃圾](https://www.baidu.com/s?wd=%E6%B6%BF%E5%B7%9E%E6%89%A7%E6%B3%95%E8%BD%A6%E5%87%8C%E6%99%A8%E5%B8%A6%E9%98%9F%E5%BE%80%E6%9D%91%E8%BE%B9%E5%80%92%E5%9E%83%E5%9C%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子后脑勺头发被理发师剃掉一半](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%90%8E%E8%84%91%E5%8B%BA%E5%A4%B4%E5%8F%91%E8%A2%AB%E7%90%86%E5%8F%91%E5%B8%88%E5%89%83%E6%8E%89%E4%B8%80%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [曾舜晞称《莲花楼》拍了两个结局](https://www.baidu.com/s?wd=%E6%9B%BE%E8%88%9C%E6%99%9E%E7%A7%B0%E3%80%8A%E8%8E%B2%E8%8A%B1%E6%A5%BC%E3%80%8B%E6%8B%8D%E4%BA%86%E4%B8%A4%E4%B8%AA%E7%BB%93%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [山东多家医院推出免费自助厨房](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%A4%9A%E5%AE%B6%E5%8C%BB%E9%99%A2%E6%8E%A8%E5%87%BA%E5%85%8D%E8%B4%B9%E8%87%AA%E5%8A%A9%E5%8E%A8%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子后脑勺头发被理发师剃掉一半](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%90%8E%E8%84%91%E5%8B%BA%E5%A4%B4%E5%8F%91%E8%A2%AB%E7%90%86%E5%8F%91%E5%B8%88%E5%89%83%E6%8E%89%E4%B8%80%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [民企董事长顶楼违建数千平四合院](https://www.baidu.com/s?wd=%E6%B0%91%E4%BC%81%E8%91%A3%E4%BA%8B%E9%95%BF%E9%A1%B6%E6%A5%BC%E8%BF%9D%E5%BB%BA%E6%95%B0%E5%8D%83%E5%B9%B3%E5%9B%9B%E5%90%88%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [观众看孤注一掷中途退票 影院回应](https://www.baidu.com/s?wd=%E8%A7%82%E4%BC%97%E7%9C%8B%E5%AD%A4%E6%B3%A8%E4%B8%80%E6%8E%B7%E4%B8%AD%E9%80%94%E9%80%80%E7%A5%A8+%E5%BD%B1%E9%99%A2%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -34,7 +34,7 @@
 3. [“嘎子”捐赠物资作假？镇政府回应](https://www.baidu.com/s?wd=%E2%80%9C%E5%98%8E%E5%AD%90%E2%80%9D%E6%8D%90%E8%B5%A0%E7%89%A9%E8%B5%84%E4%BD%9C%E5%81%87%EF%BC%9F%E9%95%87%E6%94%BF%E5%BA%9C%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [怎样做好洪涝卫生灾害预防](https://www.baidu.com/s?wd=%E6%80%8E%E6%A0%B7%E5%81%9A%E5%A5%BD%E6%B4%AA%E6%B6%9D%E5%8D%AB%E7%94%9F%E7%81%BE%E5%AE%B3%E9%A2%84%E9%98%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [台风卡努转向北上将影响吉林](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E5%8D%A1%E5%8A%AA%E8%BD%AC%E5%90%91%E5%8C%97%E4%B8%8A%E5%B0%86%E5%BD%B1%E5%93%8D%E5%90%89%E6%9E%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [欧企退俄损失高达1000亿欧元](https://www.baidu.com/s?wd=%E6%AC%A7%E4%BC%81%E9%80%80%E4%BF%84%E6%8D%9F%E5%A4%B1%E9%AB%98%E8%BE%BE1000%E4%BA%BF%E6%AC%A7%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [涿州执法车凌晨带队往村边倒垃圾](https://www.baidu.com/s?wd=%E6%B6%BF%E5%B7%9E%E6%89%A7%E6%B3%95%E8%BD%A6%E5%87%8C%E6%99%A8%E5%B8%A6%E9%98%9F%E5%BE%80%E6%9D%91%E8%BE%B9%E5%80%92%E5%9E%83%E5%9C%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子后脑勺头发被理发师剃掉一半](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%90%8E%E8%84%91%E5%8B%BA%E5%A4%B4%E5%8F%91%E8%A2%AB%E7%90%86%E5%8F%91%E5%B8%88%E5%89%83%E6%8E%89%E4%B8%80%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [曾舜晞称《莲花楼》拍了两个结局](https://www.baidu.com/s?wd=%E6%9B%BE%E8%88%9C%E6%99%9E%E7%A7%B0%E3%80%8A%E8%8E%B2%E8%8A%B1%E6%A5%BC%E3%80%8B%E6%8B%8D%E4%BA%86%E4%B8%A4%E4%B8%AA%E7%BB%93%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [山东多家医院推出免费自助厨房](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%A4%9A%E5%AE%B6%E5%8C%BB%E9%99%A2%E6%8E%A8%E5%87%BA%E5%85%8D%E8%B4%B9%E8%87%AA%E5%8A%A9%E5%8E%A8%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子后脑勺头发被理发师剃掉一半](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%90%8E%E8%84%91%E5%8B%BA%E5%A4%B4%E5%8F%91%E8%A2%AB%E7%90%86%E5%8F%91%E5%B8%88%E5%89%83%E6%8E%89%E4%B8%80%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [民企董事长顶楼违建数千平四合院](https://www.baidu.com/s?wd=%E6%B0%91%E4%BC%81%E8%91%A3%E4%BA%8B%E9%95%BF%E9%A1%B6%E6%A5%BC%E8%BF%9D%E5%BB%BA%E6%95%B0%E5%8D%83%E5%B9%B3%E5%9B%9B%E5%90%88%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [观众看孤注一掷中途退票 影院回应](https://www.baidu.com/s?wd=%E8%A7%82%E4%BC%97%E7%9C%8B%E5%AD%A4%E6%B3%A8%E4%B8%80%E6%8E%B7%E4%B8%AD%E9%80%94%E9%80%80%E7%A5%A8+%E5%BD%B1%E9%99%A2%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
