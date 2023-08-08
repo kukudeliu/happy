@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 10:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 10:47:01</h4></div>
 
 > 微博  
 
-1. [大连理工回应挖姜男孩被录取](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%BF%9E%E7%90%86%E5%B7%A5%E5%9B%9E%E5%BA%94%E6%8C%96%E5%A7%9C%E7%94%B7%E5%AD%A9%E8%A2%AB%E5%BD%95%E5%8F%96%23&t=31&band_rank=1&Refer=top)<br />
-2. [杨紫包场孤注一掷](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%8C%85%E5%9C%BA%E5%AD%A4%E6%B3%A8%E4%B8%80%E6%8E%B7%23&t=31&band_rank=2&Refer=top)<br />
+1. [杨紫包场孤注一掷](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%8C%85%E5%9C%BA%E5%AD%A4%E6%B3%A8%E4%B8%80%E6%8E%B7%23&t=31&band_rank=1&Refer=top)<br />
+2. [大连理工回应挖姜男孩被录取](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%BF%9E%E7%90%86%E5%B7%A5%E5%9B%9E%E5%BA%94%E6%8C%96%E5%A7%9C%E7%94%B7%E5%AD%A9%E8%A2%AB%E5%BD%95%E5%8F%96%23&t=31&band_rank=2&Refer=top)<br />
 3. [汛情过后健康防护要点](https://s.weibo.com/weibo?q=%23%E6%B1%9B%E6%83%85%E8%BF%87%E5%90%8E%E5%81%A5%E5%BA%B7%E9%98%B2%E6%8A%A4%E8%A6%81%E7%82%B9%23&t=31&band_rank=3&Refer=top)<br />
 4. [李玟老公申请死因调查](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E8%80%81%E5%85%AC%E7%94%B3%E8%AF%B7%E6%AD%BB%E5%9B%A0%E8%B0%83%E6%9F%A5%23&t=31&band_rank=4&Refer=top)<br />
 5. [王鹤棣 本座回来了](https://s.weibo.com/weibo?q=%E7%8E%8B%E9%B9%A4%E6%A3%A3%20%E6%9C%AC%E5%BA%A7%E5%9B%9E%E6%9D%A5%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
