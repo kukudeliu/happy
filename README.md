@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 01:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 01:08:02</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [台风卡努转向北上将影响吉林](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E5%8D%A1%E5%8A%AA%E8%BD%AC%E5%90%91%E5%8C%97%E4%B8%8A%E5%B0%86%E5%BD%B1%E5%93%8D%E5%90%89%E6%9E%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子2百多网购却被花呗扣款3千多](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%902%E7%99%BE%E5%A4%9A%E7%BD%91%E8%B4%AD%E5%8D%B4%E8%A2%AB%E8%8A%B1%E5%91%97%E6%89%A3%E6%AC%BE3%E5%8D%83%E5%A4%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [运动员吴艳妮因右臂纹身惹争议](https://www.baidu.com/s?wd=%E8%BF%90%E5%8A%A8%E5%91%98%E5%90%B4%E8%89%B3%E5%A6%AE%E5%9B%A0%E5%8F%B3%E8%87%82%E7%BA%B9%E8%BA%AB%E6%83%B9%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [欧企退俄损失高达1000亿欧元](https://www.baidu.com/s?wd=%E6%AC%A7%E4%BC%81%E9%80%80%E4%BF%84%E6%8D%9F%E5%A4%B1%E9%AB%98%E8%BE%BE1000%E4%BA%BF%E6%AC%A7%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [李雪琴为孤注一掷主题曲作词](https://www.baidu.com/s?wd=%E6%9D%8E%E9%9B%AA%E7%90%B4%E4%B8%BA%E5%AD%A4%E6%B3%A8%E4%B8%80%E6%8E%B7%E4%B8%BB%E9%A2%98%E6%9B%B2%E4%BD%9C%E8%AF%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子后脑勺头发被理发师剃掉一半](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%90%8E%E8%84%91%E5%8B%BA%E5%A4%B4%E5%8F%91%E8%A2%AB%E7%90%86%E5%8F%91%E5%B8%88%E5%89%83%E6%8E%89%E4%B8%80%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [官方通报游泳教练将幼童按水里](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%B8%B8%E6%B3%B3%E6%95%99%E7%BB%83%E5%B0%86%E5%B9%BC%E7%AB%A5%E6%8C%89%E6%B0%B4%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [台风卡努转向北上将影响吉林](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E5%8D%A1%E5%8A%AA%E8%BD%AC%E5%90%91%E5%8C%97%E4%B8%8A%E5%B0%86%E5%BD%B1%E5%93%8D%E5%90%89%E6%9E%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子2百多网购却被花呗扣款3千多](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%902%E7%99%BE%E5%A4%9A%E7%BD%91%E8%B4%AD%E5%8D%B4%E8%A2%AB%E8%8A%B1%E5%91%97%E6%89%A3%E6%AC%BE3%E5%8D%83%E5%A4%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [运动员吴艳妮因右臂纹身惹争议](https://www.baidu.com/s?wd=%E8%BF%90%E5%8A%A8%E5%91%98%E5%90%B4%E8%89%B3%E5%A6%AE%E5%9B%A0%E5%8F%B3%E8%87%82%E7%BA%B9%E8%BA%AB%E6%83%B9%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [欧企退俄损失高达1000亿欧元](https://www.baidu.com/s?wd=%E6%AC%A7%E4%BC%81%E9%80%80%E4%BF%84%E6%8D%9F%E5%A4%B1%E9%AB%98%E8%BE%BE1000%E4%BA%BF%E6%AC%A7%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [李雪琴为孤注一掷主题曲作词](https://www.baidu.com/s?wd=%E6%9D%8E%E9%9B%AA%E7%90%B4%E4%B8%BA%E5%AD%A4%E6%B3%A8%E4%B8%80%E6%8E%B7%E4%B8%BB%E9%A2%98%E6%9B%B2%E4%BD%9C%E8%AF%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子后脑勺头发被理发师剃掉一半](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%90%8E%E8%84%91%E5%8B%BA%E5%A4%B4%E5%8F%91%E8%A2%AB%E7%90%86%E5%8F%91%E5%B8%88%E5%89%83%E6%8E%89%E4%B8%80%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [官方通报游泳教练将幼童按水里](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%B8%B8%E6%B3%B3%E6%95%99%E7%BB%83%E5%B0%86%E5%B9%BC%E7%AB%A5%E6%8C%89%E6%B0%B4%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
