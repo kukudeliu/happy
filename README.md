@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 21:30:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 21:31:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [EDG下路菜啊](https://s.weibo.com/weibo?q=EDG%E4%B8%8B%E8%B7%AF%E8%8F%9C%E5%95%8A&t=31&band_rank=5&Refer=top)<br />
 6. [试管婴儿与妈妈孕期的所有针管合影](https://s.weibo.com/weibo?q=%E8%AF%95%E7%AE%A1%E5%A9%B4%E5%84%BF%E4%B8%8E%E5%A6%88%E5%A6%88%E5%AD%95%E6%9C%9F%E7%9A%84%E6%89%80%E6%9C%89%E9%92%88%E7%AE%A1%E5%90%88%E5%BD%B1&t=31&band_rank=6&Refer=top)<br />
 7. [刘青松哭了](https://s.weibo.com/weibo?q=%23%E5%88%98%E9%9D%92%E6%9D%BE%E5%93%AD%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [EDG对战WBG](https://s.weibo.com/weibo?q=%23EDG%E5%AF%B9%E6%88%98WBG%23&t=31&band_rank=8&Refer=top)<br />
-9. [杨紫直播](https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E7%9B%B4%E6%92%AD&t=31&band_rank=9&Refer=top)<br />
+8. [杨紫直播](https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E7%9B%B4%E6%92%AD&t=31&band_rank=8&Refer=top)<br />
+9. [EDG对战WBG](https://s.weibo.com/weibo?q=%23EDG%E5%AF%B9%E6%88%98WBG%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
