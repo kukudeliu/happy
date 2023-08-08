@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 10:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 10:27:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [王鹤棣 本座回来了](https://s.weibo.com/weibo?q=%E7%8E%8B%E9%B9%A4%E6%A3%A3%20%E6%9C%AC%E5%BA%A7%E5%9B%9E%E6%9D%A5%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
 5. [日本中文教材把精髓掌握了](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%AD%E6%96%87%E6%95%99%E6%9D%90%E6%8A%8A%E7%B2%BE%E9%AB%93%E6%8E%8C%E6%8F%A1%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [BLACKPINK 续约](https://s.weibo.com/weibo?q=BLACKPINK%20%E7%BB%AD%E7%BA%A6&t=31&band_rank=6&Refer=top)<br />
-7. [高三老师付费请学生看TFBOYS演唱会直播](https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%B8%89%E8%80%81%E5%B8%88%E4%BB%98%E8%B4%B9%E8%AF%B7%E5%AD%A6%E7%94%9F%E7%9C%8BTFBOYS%E6%BC%94%E5%94%B1%E4%BC%9A%E7%9B%B4%E6%92%AD%23&t=31&band_rank=7&Refer=top)<br />
-8. [王传君 不像演的](https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BC%A0%E5%90%9B%20%E4%B8%8D%E5%83%8F%E6%BC%94%E7%9A%84&t=31&band_rank=8&Refer=top)<br />
-9. [玱玹终于有点像疯子了](https://s.weibo.com/weibo?q=%E7%8E%B1%E7%8E%B9%E7%BB%88%E4%BA%8E%E6%9C%89%E7%82%B9%E5%83%8F%E7%96%AF%E5%AD%90%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+7. [王传君 不像演的](https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BC%A0%E5%90%9B%20%E4%B8%8D%E5%83%8F%E6%BC%94%E7%9A%84&t=31&band_rank=7&Refer=top)<br />
+8. [高三老师付费请学生看TFBOYS演唱会直播](https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%B8%89%E8%80%81%E5%B8%88%E4%BB%98%E8%B4%B9%E8%AF%B7%E5%AD%A6%E7%94%9F%E7%9C%8BTFBOYS%E6%BC%94%E5%94%B1%E4%BC%9A%E7%9B%B4%E6%92%AD%23&t=31&band_rank=8&Refer=top)<br />
+9. [杨紫包场孤注一掷](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%8C%85%E5%9C%BA%E5%AD%A4%E6%B3%A8%E4%B8%80%E6%8E%B7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
