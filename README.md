@@ -1,14 +1,14 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 17:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 17:48:01</h4></div>
 
 > 微博  
 
 1. [中国邮政是懂奶茶取名的](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E9%82%AE%E6%94%BF%E6%98%AF%E6%87%82%E5%A5%B6%E8%8C%B6%E5%8F%96%E5%90%8D%E7%9A%84&t=31&band_rank=1&Refer=top)<br />
-2. [莲花楼加更礼](https://s.weibo.com/weibo?q=%23%E8%8E%B2%E8%8A%B1%E6%A5%BC%E5%8A%A0%E6%9B%B4%E7%A4%BC%23&t=31&band_rank=2&Refer=top)<br />
+2. [EDG下路菜啊](https://s.weibo.com/weibo?q=EDG%E4%B8%8B%E8%B7%AF%E8%8F%9C%E5%95%8A&t=31&band_rank=2&Refer=top)<br />
 3. [暴雨洪涝防疫指南](https://s.weibo.com/weibo?q=%23%E6%9A%B4%E9%9B%A8%E6%B4%AA%E6%B6%9D%E9%98%B2%E7%96%AB%E6%8C%87%E5%8D%97%23&t=31&band_rank=3&Refer=top)<br />
 4. [阔腿裤最干净的上厕所方式](https://s.weibo.com/weibo?q=%23%E9%98%94%E8%85%BF%E8%A3%A4%E6%9C%80%E5%B9%B2%E5%87%80%E7%9A%84%E4%B8%8A%E5%8E%95%E6%89%80%E6%96%B9%E5%BC%8F%23&t=31&band_rank=4&Refer=top)<br />
-5. [朱正廷或将当李权哲导师](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E6%AD%A3%E5%BB%B7%E6%88%96%E5%B0%86%E5%BD%93%E6%9D%8E%E6%9D%83%E5%93%B2%E5%AF%BC%E5%B8%88%23&t=31&band_rank=5&Refer=top)<br />
+5. [莲花楼加更礼](https://s.weibo.com/weibo?q=%23%E8%8E%B2%E8%8A%B1%E6%A5%BC%E5%8A%A0%E6%9B%B4%E7%A4%BC%23&t=31&band_rank=5&Refer=top)<br />
 6. [小夭也没有见过真正的涂山璟](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%A4%AD%E4%B9%9F%E6%B2%A1%E6%9C%89%E8%A7%81%E8%BF%87%E7%9C%9F%E6%AD%A3%E7%9A%84%E6%B6%82%E5%B1%B1%E7%92%9F%23&t=31&band_rank=6&Refer=top)<br />
-7. [EDG下路菜啊](https://s.weibo.com/weibo?q=EDG%E4%B8%8B%E8%B7%AF%E8%8F%9C%E5%95%8A&t=31&band_rank=7&Refer=top)<br />
+7. [朱正廷或将当李权哲导师](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E6%AD%A3%E5%BB%B7%E6%88%96%E5%B0%86%E5%BD%93%E6%9D%8E%E6%9D%83%E5%93%B2%E5%AF%BC%E5%B8%88%23&t=31&band_rank=7&Refer=top)<br />
 8. [执着于双休的原因](https://s.weibo.com/weibo?q=%E6%89%A7%E7%9D%80%E4%BA%8E%E5%8F%8C%E4%BC%91%E7%9A%84%E5%8E%9F%E5%9B%A0&t=31&band_rank=8&Refer=top)<br />
 9. [外国人看巨齿鲨2后遗症](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%9B%BD%E4%BA%BA%E7%9C%8B%E5%B7%A8%E9%BD%BF%E9%B2%A82%E5%90%8E%E9%81%97%E7%97%87%23&t=31&band_rank=9&Refer=top)<br />
 
