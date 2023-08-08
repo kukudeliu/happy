@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 19:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 19:19:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [我在国门一线](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9C%A8%E5%9B%BD%E9%97%A8%E4%B8%80%E7%BA%BF%23&t=31&band_rank=3&Refer=top)<br />
 4. [酷酷的滕骗不了张艺兴一点](https://s.weibo.com/weibo?q=%23%E9%85%B7%E9%85%B7%E7%9A%84%E6%BB%95%E9%AA%97%E4%B8%8D%E4%BA%86%E5%BC%A0%E8%89%BA%E5%85%B4%E4%B8%80%E7%82%B9%23&t=31&band_rank=4&Refer=top)<br />
 5. [山东多家医院推出免费自助厨房](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E5%A4%9A%E5%AE%B6%E5%8C%BB%E9%99%A2%E6%8E%A8%E5%87%BA%E5%85%8D%E8%B4%B9%E8%87%AA%E5%8A%A9%E5%8E%A8%E6%88%BF%23&t=31&band_rank=5&Refer=top)<br />
-6. [EDG下路菜啊](https://s.weibo.com/weibo?q=EDG%E4%B8%8B%E8%B7%AF%E8%8F%9C%E5%95%8A&t=31&band_rank=6&Refer=top)<br />
+6. [张小凡黑化入魔](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E5%87%A1%E9%BB%91%E5%8C%96%E5%85%A5%E9%AD%94%23&t=31&band_rank=6&Refer=top)<br />
 7. [永远会被中国人的团结互助感动](https://s.weibo.com/weibo?q=%23%E6%B0%B8%E8%BF%9C%E4%BC%9A%E8%A2%AB%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E5%9B%A2%E7%BB%93%E4%BA%92%E5%8A%A9%E6%84%9F%E5%8A%A8%23&t=31&band_rank=7&Refer=top)<br />
-8. [张小凡黑化入魔](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E5%87%A1%E9%BB%91%E5%8C%96%E5%85%A5%E9%AD%94%23&t=31&band_rank=8&Refer=top)<br />
-9. [爱奇艺](https://s.weibo.com/weibo?q=%E7%88%B1%E5%A5%87%E8%89%BA&t=31&band_rank=9&Refer=top)<br />
+8. [爱奇艺](https://s.weibo.com/weibo?q=%E7%88%B1%E5%A5%87%E8%89%BA&t=31&band_rank=8&Refer=top)<br />
+9. [EDG下路菜啊](https://s.weibo.com/weibo?q=EDG%E4%B8%8B%E8%B7%AF%E8%8F%9C%E5%95%8A&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
