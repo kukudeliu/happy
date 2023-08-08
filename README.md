@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 10:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 10:40:02</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [杨紫包场孤注一掷](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%8C%85%E5%9C%BA%E5%AD%A4%E6%B3%A8%E4%B8%80%E6%8E%B7%23&t=31&band_rank=2&Refer=top)<br />
 3. [汛情过后健康防护要点](https://s.weibo.com/weibo?q=%23%E6%B1%9B%E6%83%85%E8%BF%87%E5%90%8E%E5%81%A5%E5%BA%B7%E9%98%B2%E6%8A%A4%E8%A6%81%E7%82%B9%23&t=31&band_rank=3&Refer=top)<br />
 4. [王鹤棣 本座回来了](https://s.weibo.com/weibo?q=%E7%8E%8B%E9%B9%A4%E6%A3%A3%20%E6%9C%AC%E5%BA%A7%E5%9B%9E%E6%9D%A5%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
-5. [立秋](https://s.weibo.com/weibo?q=%E7%AB%8B%E7%A7%8B&t=31&band_rank=5&Refer=top)<br />
+5. [李玟老公申请死因调查](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E8%80%81%E5%85%AC%E7%94%B3%E8%AF%B7%E6%AD%BB%E5%9B%A0%E8%B0%83%E6%9F%A5%23&t=31&band_rank=5&Refer=top)<br />
 6. [TFBOYS演唱会带动4.16亿旅游收入](https://s.weibo.com/weibo?q=%23TFBOYS%E6%BC%94%E5%94%B1%E4%BC%9A%E5%B8%A6%E5%8A%A84.16%E4%BA%BF%E6%97%85%E6%B8%B8%E6%94%B6%E5%85%A5%23&t=31&band_rank=6&Refer=top)<br />
-7. [王传君 不像演的](https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BC%A0%E5%90%9B%20%E4%B8%8D%E5%83%8F%E6%BC%94%E7%9A%84&t=31&band_rank=7&Refer=top)<br />
-8. [BLACKPINK 续约](https://s.weibo.com/weibo?q=BLACKPINK%20%E7%BB%AD%E7%BA%A6&t=31&band_rank=8&Refer=top)<br />
-9. [日本中文教材把精髓掌握了](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%AD%E6%96%87%E6%95%99%E6%9D%90%E6%8A%8A%E7%B2%BE%E9%AB%93%E6%8E%8C%E6%8F%A1%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+7. [立秋](https://s.weibo.com/weibo?q=%E7%AB%8B%E7%A7%8B&t=31&band_rank=7&Refer=top)<br />
+8. [王传君 不像演的](https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BC%A0%E5%90%9B%20%E4%B8%8D%E5%83%8F%E6%BC%94%E7%9A%84&t=31&band_rank=8&Refer=top)<br />
+9. [BLACKPINK 续约](https://s.weibo.com/weibo?q=BLACKPINK%20%E7%BB%AD%E7%BA%A6&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
