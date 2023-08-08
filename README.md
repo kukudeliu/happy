@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 01:28:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 01:29:02</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [台风卡努转向北上将影响吉林](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E5%8D%A1%E5%8A%AA%E8%BD%AC%E5%90%91%E5%8C%97%E4%B8%8A%E5%B0%86%E5%BD%B1%E5%93%8D%E5%90%89%E6%9E%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [上海深入治理医疗领域乱象](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E6%B7%B1%E5%85%A5%E6%B2%BB%E7%90%86%E5%8C%BB%E7%96%97%E9%A2%86%E5%9F%9F%E4%B9%B1%E8%B1%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子2百多网购却被花呗扣款3千多](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%902%E7%99%BE%E5%A4%9A%E7%BD%91%E8%B4%AD%E5%8D%B4%E8%A2%AB%E8%8A%B1%E5%91%97%E6%89%A3%E6%AC%BE3%E5%8D%83%E5%A4%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子“隔空助力”学生自杀获刑5年](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E2%80%9C%E9%9A%94%E7%A9%BA%E5%8A%A9%E5%8A%9B%E2%80%9D%E5%AD%A6%E7%94%9F%E8%87%AA%E6%9D%80%E8%8E%B7%E5%88%915%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [诺华回应上海长征医院驱逐医药代表](https://www.baidu.com/s?wd=%E8%AF%BA%E5%8D%8E%E5%9B%9E%E5%BA%94%E4%B8%8A%E6%B5%B7%E9%95%BF%E5%BE%81%E5%8C%BB%E9%99%A2%E9%A9%B1%E9%80%90%E5%8C%BB%E8%8D%AF%E4%BB%A3%E8%A1%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [北大研究称LK-99不是超导体](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E7%A0%94%E7%A9%B6%E7%A7%B0LK-99%E4%B8%8D%E6%98%AF%E8%B6%85%E5%AF%BC%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子“隔空助力”学生自杀获刑5年](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E2%80%9C%E9%9A%94%E7%A9%BA%E5%8A%A9%E5%8A%9B%E2%80%9D%E5%AD%A6%E7%94%9F%E8%87%AA%E6%9D%80%E8%8E%B7%E5%88%915%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [台风卡努转向北上将影响吉林](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E5%8D%A1%E5%8A%AA%E8%BD%AC%E5%90%91%E5%8C%97%E4%B8%8A%E5%B0%86%E5%BD%B1%E5%93%8D%E5%90%89%E6%9E%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [上海深入治理医疗领域乱象](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E6%B7%B1%E5%85%A5%E6%B2%BB%E7%90%86%E5%8C%BB%E7%96%97%E9%A2%86%E5%9F%9F%E4%B9%B1%E8%B1%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子2百多网购却被花呗扣款3千多](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%902%E7%99%BE%E5%A4%9A%E7%BD%91%E8%B4%AD%E5%8D%B4%E8%A2%AB%E8%8A%B1%E5%91%97%E6%89%A3%E6%AC%BE3%E5%8D%83%E5%A4%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子“隔空助力”学生自杀获刑5年](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E2%80%9C%E9%9A%94%E7%A9%BA%E5%8A%A9%E5%8A%9B%E2%80%9D%E5%AD%A6%E7%94%9F%E8%87%AA%E6%9D%80%E8%8E%B7%E5%88%915%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [诺华回应上海长征医院驱逐医药代表](https://www.baidu.com/s?wd=%E8%AF%BA%E5%8D%8E%E5%9B%9E%E5%BA%94%E4%B8%8A%E6%B5%B7%E9%95%BF%E5%BE%81%E5%8C%BB%E9%99%A2%E9%A9%B1%E9%80%90%E5%8C%BB%E8%8D%AF%E4%BB%A3%E8%A1%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [北大研究称LK-99不是超导体](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E7%A0%94%E7%A9%B6%E7%A7%B0LK-99%E4%B8%8D%E6%98%AF%E8%B6%85%E5%AF%BC%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子“隔空助力”学生自杀获刑5年](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E2%80%9C%E9%9A%94%E7%A9%BA%E5%8A%A9%E5%8A%9B%E2%80%9D%E5%AD%A6%E7%94%9F%E8%87%AA%E6%9D%80%E8%8E%B7%E5%88%915%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
