@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 21:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 21:10:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [EDG对战WBG](https://s.weibo.com/weibo?q=%23EDG%E5%AF%B9%E6%88%98WBG%23&t=31&band_rank=6&Refer=top)<br />
 7. [WBG晋级2023全球总决赛](https://s.weibo.com/weibo?q=WBG%E6%99%8B%E7%BA%A72023%E5%85%A8%E7%90%83%E6%80%BB%E5%86%B3%E8%B5%9B&t=31&band_rank=7&Refer=top)<br />
 8. [Uzi别惦记泽丽了](https://s.weibo.com/weibo?q=Uzi%E5%88%AB%E6%83%A6%E8%AE%B0%E6%B3%BD%E4%B8%BD%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [杨紫直播](https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E7%9B%B4%E6%92%AD&t=31&band_rank=9&Refer=top)<br />
+9. [TFBOYS演唱会绝世大刀](https://s.weibo.com/weibo?q=%23TFBOYS%E6%BC%94%E5%94%B1%E4%BC%9A%E7%BB%9D%E4%B8%96%E5%A4%A7%E5%88%80%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [民企董事长顶楼违建数千平四合院](https://www.baidu.com/s?wd=%E6%B0%91%E4%BC%81%E8%91%A3%E4%BA%8B%E9%95%BF%E9%A1%B6%E6%A5%BC%E8%BF%9D%E5%BB%BA%E6%95%B0%E5%8D%83%E5%B9%B3%E5%9B%9B%E5%90%88%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [WBG战胜EDG晋级世界赛](https://www.baidu.com/s?wd=WBG%E6%88%98%E8%83%9CEDG%E6%99%8B%E7%BA%A7%E4%B8%96%E7%95%8C%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [审计署赴广东调查:药企套取资金40亿](https://www.baidu.com/s?wd=%E5%AE%A1%E8%AE%A1%E7%BD%B2%E8%B5%B4%E5%B9%BF%E4%B8%9C%E8%B0%83%E6%9F%A5%3A%E8%8D%AF%E4%BC%81%E5%A5%97%E5%8F%96%E8%B5%84%E9%87%9140%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [刘涛演妈祖之前请示过妈祖](https://www.baidu.com/s?wd=%E5%88%98%E6%B6%9B%E6%BC%94%E5%A6%88%E7%A5%96%E4%B9%8B%E5%89%8D%E8%AF%B7%E7%A4%BA%E8%BF%87%E5%A6%88%E7%A5%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [印男子1分钟用头砸碎273颗核桃](https://www.baidu.com/s?wd=%E5%8D%B0%E7%94%B7%E5%AD%901%E5%88%86%E9%92%9F%E7%94%A8%E5%A4%B4%E7%A0%B8%E7%A2%8E273%E9%A2%97%E6%A0%B8%E6%A1%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [成都大运会闭幕式](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E5%A4%A7%E8%BF%90%E4%BC%9A%E9%97%AD%E5%B9%95%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [民企董事长顶楼违建数千平四合院](https://www.baidu.com/s?wd=%E6%B0%91%E4%BC%81%E8%91%A3%E4%BA%8B%E9%95%BF%E9%A1%B6%E6%A5%BC%E8%BF%9D%E5%BB%BA%E6%95%B0%E5%8D%83%E5%B9%B3%E5%9B%9B%E5%90%88%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [WBG战胜EDG晋级世界赛](https://www.baidu.com/s?wd=WBG%E6%88%98%E8%83%9CEDG%E6%99%8B%E7%BA%A7%E4%B8%96%E7%95%8C%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [审计署赴广东调查:药企套取资金40亿](https://www.baidu.com/s?wd=%E5%AE%A1%E8%AE%A1%E7%BD%B2%E8%B5%B4%E5%B9%BF%E4%B8%9C%E8%B0%83%E6%9F%A5%3A%E8%8D%AF%E4%BC%81%E5%A5%97%E5%8F%96%E8%B5%84%E9%87%9140%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [刘涛演妈祖之前请示过妈祖](https://www.baidu.com/s?wd=%E5%88%98%E6%B6%9B%E6%BC%94%E5%A6%88%E7%A5%96%E4%B9%8B%E5%89%8D%E8%AF%B7%E7%A4%BA%E8%BF%87%E5%A6%88%E7%A5%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [印男子1分钟用头砸碎273颗核桃](https://www.baidu.com/s?wd=%E5%8D%B0%E7%94%B7%E5%AD%901%E5%88%86%E9%92%9F%E7%94%A8%E5%A4%B4%E7%A0%B8%E7%A2%8E273%E9%A2%97%E6%A0%B8%E6%A1%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [成都大运会闭幕式](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E5%A4%A7%E8%BF%90%E4%BC%9A%E9%97%AD%E5%B9%95%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
