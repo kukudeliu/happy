@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 20:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 20:36:01</h4></div>
 
 > 微博  
 
 1. [邓超同志被评定为烈士](https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E5%90%8C%E5%BF%97%E8%A2%AB%E8%AF%84%E5%AE%9A%E4%B8%BA%E7%83%88%E5%A3%AB%23&t=31&band_rank=1&Refer=top)<br />
 2. [EDG下路菜啊](https://s.weibo.com/weibo?q=EDG%E4%B8%8B%E8%B7%AF%E8%8F%9C%E5%95%8A&t=31&band_rank=2&Refer=top)<br />
 3. [我在国门一线](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9C%A8%E5%9B%BD%E9%97%A8%E4%B8%80%E7%BA%BF%23&t=31&band_rank=3&Refer=top)<br />
-4. [相柳哭了](https://s.weibo.com/weibo?q=%23%E7%9B%B8%E6%9F%B3%E5%93%AD%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
-5. [EDG对战WBG](https://s.weibo.com/weibo?q=%23EDG%E5%AF%B9%E6%88%98WBG%23&t=31&band_rank=5&Refer=top)<br />
+4. [EDG对战WBG](https://s.weibo.com/weibo?q=%23EDG%E5%AF%B9%E6%88%98WBG%23&t=31&band_rank=4&Refer=top)<br />
+5. [相柳哭了](https://s.weibo.com/weibo?q=%23%E7%9B%B8%E6%9F%B3%E5%93%AD%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [年薪百万哭穷](https://s.weibo.com/weibo?q=%E5%B9%B4%E8%96%AA%E7%99%BE%E4%B8%87%E5%93%AD%E7%A9%B7&t=31&band_rank=6&Refer=top)<br />
 7. [TFBOYS演唱会绝世大刀](https://s.weibo.com/weibo?q=%23TFBOYS%E6%BC%94%E5%94%B1%E4%BC%9A%E7%BB%9D%E4%B8%96%E5%A4%A7%E5%88%80%23&t=31&band_rank=7&Refer=top)<br />
-8. [涂山璟喊小夭姐姐](https://s.weibo.com/weibo?q=%23%E6%B6%82%E5%B1%B1%E7%92%9F%E5%96%8A%E5%B0%8F%E5%A4%AD%E5%A7%90%E5%A7%90%23&t=31&band_rank=8&Refer=top)<br />
-9. [封神主创团做客刘畊宏直播间](https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E%E4%B8%BB%E5%88%9B%E5%9B%A2%E5%81%9A%E5%AE%A2%E5%88%98%E7%95%8A%E5%AE%8F%E7%9B%B4%E6%92%AD%E9%97%B4%23&t=31&band_rank=9&Refer=top)<br />
+8. [WBG我看不懂](https://s.weibo.com/weibo?q=WBG%E6%88%91%E7%9C%8B%E4%B8%8D%E6%87%82&t=31&band_rank=8&Refer=top)<br />
+9. [涂山璟喊小夭姐姐](https://s.weibo.com/weibo?q=%23%E6%B6%82%E5%B1%B1%E7%92%9F%E5%96%8A%E5%B0%8F%E5%A4%AD%E5%A7%90%E5%A7%90%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
