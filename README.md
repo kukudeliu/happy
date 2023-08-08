@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 20:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 20:31:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [TFBOYS演唱会绝世大刀](https://s.weibo.com/weibo?q=%23TFBOYS%E6%BC%94%E5%94%B1%E4%BC%9A%E7%BB%9D%E4%B8%96%E5%A4%A7%E5%88%80%23&t=31&band_rank=6&Refer=top)<br />
 7. [成都大运会闭幕式](https://s.weibo.com/weibo?q=%E6%88%90%E9%83%BD%E5%A4%A7%E8%BF%90%E4%BC%9A%E9%97%AD%E5%B9%95%E5%BC%8F&t=31&band_rank=7&Refer=top)<br />
 8. [封神主创团做客刘畊宏直播间](https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E%E4%B8%BB%E5%88%9B%E5%9B%A2%E5%81%9A%E5%AE%A2%E5%88%98%E7%95%8A%E5%AE%8F%E7%9B%B4%E6%92%AD%E9%97%B4%23&t=31&band_rank=8&Refer=top)<br />
-9. [酷酷的滕骗不了张艺兴一点](https://s.weibo.com/weibo?q=%23%E9%85%B7%E9%85%B7%E7%9A%84%E6%BB%95%E9%AA%97%E4%B8%8D%E4%BA%86%E5%BC%A0%E8%89%BA%E5%85%B4%E4%B8%80%E7%82%B9%23&t=31&band_rank=9&Refer=top)<br />
+9. [内娱权谋男主脸](https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E6%9D%83%E8%B0%8B%E7%94%B7%E4%B8%BB%E8%84%B8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
