@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 21:47:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 21:48:01</h4></div>
 
 > 微博  
 
@@ -6,9 +6,9 @@
 2. [试管婴儿与妈妈孕期的所有针管合影](https://s.weibo.com/weibo?q=%E8%AF%95%E7%AE%A1%E5%A9%B4%E5%84%BF%E4%B8%8E%E5%A6%88%E5%A6%88%E5%AD%95%E6%9C%9F%E7%9A%84%E6%89%80%E6%9C%89%E9%92%88%E7%AE%A1%E5%90%88%E5%BD%B1&t=31&band_rank=2&Refer=top)<br />
 3. [致敬洪水中每位伸出援手的人](https://s.weibo.com/weibo?q=%23%E8%87%B4%E6%95%AC%E6%B4%AA%E6%B0%B4%E4%B8%AD%E6%AF%8F%E4%BD%8D%E4%BC%B8%E5%87%BA%E6%8F%B4%E6%89%8B%E7%9A%84%E4%BA%BA%23&t=31&band_rank=3&Refer=top)<br />
 4. [EDG下路菜啊](https://s.weibo.com/weibo?q=EDG%E4%B8%8B%E8%B7%AF%E8%8F%9C%E5%95%8A&t=31&band_rank=4&Refer=top)<br />
-5. [WBG战胜EDG](https://s.weibo.com/weibo?q=%23WBG%E6%88%98%E8%83%9CEDG%23&t=31&band_rank=5&Refer=top)<br />
+5. [杨紫回应小夭相柳是不是相爱](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%9B%9E%E5%BA%94%E5%B0%8F%E5%A4%AD%E7%9B%B8%E6%9F%B3%E6%98%AF%E4%B8%8D%E6%98%AF%E7%9B%B8%E7%88%B1%23&t=31&band_rank=5&Refer=top)<br />
 6. [女孩疑在TFBOYS演唱会门口遭逃单](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E7%96%91%E5%9C%A8TFBOYS%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E5%8F%A3%E9%81%AD%E9%80%83%E5%8D%95%23&t=31&band_rank=6&Refer=top)<br />
-7. [杨紫回应小夭相柳是不是相爱](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%9B%9E%E5%BA%94%E5%B0%8F%E5%A4%AD%E7%9B%B8%E6%9F%B3%E6%98%AF%E4%B8%8D%E6%98%AF%E7%9B%B8%E7%88%B1%23&t=31&band_rank=7&Refer=top)<br />
+7. [WBG战胜EDG](https://s.weibo.com/weibo?q=%23WBG%E6%88%98%E8%83%9CEDG%23&t=31&band_rank=7&Refer=top)<br />
 8. [刘青松哭了](https://s.weibo.com/weibo?q=%23%E5%88%98%E9%9D%92%E6%9D%BE%E5%93%AD%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [杨紫直播](https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E7%9B%B4%E6%92%AD&t=31&band_rank=9&Refer=top)<br />
 
