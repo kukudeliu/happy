@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 08:14:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 08:15:01</h4></div>
 
 > 微博  
 
-1. [立秋](https://s.weibo.com/weibo?q=%E7%AB%8B%E7%A7%8B&t=31&band_rank=1&Refer=top)<br />
-2. [日本中文教材把精髓掌握了](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%AD%E6%96%87%E6%95%99%E6%9D%90%E6%8A%8A%E7%B2%BE%E9%AB%93%E6%8E%8C%E6%8F%A1%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
+1. [日本中文教材把精髓掌握了](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%AD%E6%96%87%E6%95%99%E6%9D%90%E6%8A%8A%E7%B2%BE%E9%AB%93%E6%8E%8C%E6%8F%A1%E4%BA%86%23&t=31&band_rank=1&Refer=top)<br />
+2. [立秋](https://s.weibo.com/weibo?q=%E7%AB%8B%E7%A7%8B&t=31&band_rank=2&Refer=top)<br />
 3. [汛情过后健康防护要点](https://s.weibo.com/weibo?q=%23%E6%B1%9B%E6%83%85%E8%BF%87%E5%90%8E%E5%81%A5%E5%BA%B7%E9%98%B2%E6%8A%A4%E8%A6%81%E7%82%B9%23&t=31&band_rank=3&Refer=top)<br />
 4. [王鹤棣 本座回来了](https://s.weibo.com/weibo?q=%E7%8E%8B%E9%B9%A4%E6%A3%A3%20%E6%9C%AC%E5%BA%A7%E5%9B%9E%E6%9D%A5%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
 5. [福原爱被法院强制执行](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%8E%9F%E7%88%B1%E8%A2%AB%E6%B3%95%E9%99%A2%E5%BC%BA%E5%88%B6%E6%89%A7%E8%A1%8C%23&t=31&band_rank=5&Refer=top)<br />
