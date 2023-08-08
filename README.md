@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 14:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 14:39:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [时代峰峻](https://s.weibo.com/weibo?q=%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB&t=31&band_rank=6&Refer=top)<br />
 7. [外地人被内蒙人吃肉吓到了](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%9C%B0%E4%BA%BA%E8%A2%AB%E5%86%85%E8%92%99%E4%BA%BA%E5%90%83%E8%82%89%E5%90%93%E5%88%B0%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [李玟老公申请死因调查](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E8%80%81%E5%85%AC%E7%94%B3%E8%AF%B7%E6%AD%BB%E5%9B%A0%E8%B0%83%E6%9F%A5%23&t=31&band_rank=8&Refer=top)<br />
-9. [魏大勋你好星期六](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%23&t=31&band_rank=9&Refer=top)<br />
+9. [请杨紫来精装修我的房子](https://s.weibo.com/weibo?q=%23%E8%AF%B7%E6%9D%A8%E7%B4%AB%E6%9D%A5%E7%B2%BE%E8%A3%85%E4%BF%AE%E6%88%91%E7%9A%84%E6%88%BF%E5%AD%90%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [涿州执法车凌晨带队往村边倒垃圾](https://www.baidu.com/s?wd=%E6%B6%BF%E5%B7%9E%E6%89%A7%E6%B3%95%E8%BD%A6%E5%87%8C%E6%99%A8%E5%B8%A6%E9%98%9F%E5%BE%80%E6%9D%91%E8%BE%B9%E5%80%92%E5%9E%83%E5%9C%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大S起诉张兰汪小菲 法院已立案](https://www.baidu.com/s?wd=%E5%A4%A7S%E8%B5%B7%E8%AF%89%E5%BC%A0%E5%85%B0%E6%B1%AA%E5%B0%8F%E8%8F%B2+%E6%B3%95%E9%99%A2%E5%B7%B2%E7%AB%8B%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [张雪峰称多挣钱都得学理工科](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E7%A7%B0%E5%A4%9A%E6%8C%A3%E9%92%B1%E9%83%BD%E5%BE%97%E5%AD%A6%E7%90%86%E5%B7%A5%E7%A7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [《孤注一掷》故事原型有多恐怖](https://www.baidu.com/s?wd=%E3%80%8A%E5%AD%A4%E6%B3%A8%E4%B8%80%E6%8E%B7%E3%80%8B%E6%95%85%E4%BA%8B%E5%8E%9F%E5%9E%8B%E6%9C%89%E5%A4%9A%E6%81%90%E6%80%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [国庆假期多个经济酒店价格已破千](https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E5%A4%9A%E4%B8%AA%E7%BB%8F%E6%B5%8E%E9%85%92%E5%BA%97%E4%BB%B7%E6%A0%BC%E5%B7%B2%E7%A0%B4%E5%8D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [女孩18岁成人礼被男友带去吸毒](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A918%E5%B2%81%E6%88%90%E4%BA%BA%E7%A4%BC%E8%A2%AB%E7%94%B7%E5%8F%8B%E5%B8%A6%E5%8E%BB%E5%90%B8%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [涿州执法车凌晨带队往村边倒垃圾](https://www.baidu.com/s?wd=%E6%B6%BF%E5%B7%9E%E6%89%A7%E6%B3%95%E8%BD%A6%E5%87%8C%E6%99%A8%E5%B8%A6%E9%98%9F%E5%BE%80%E6%9D%91%E8%BE%B9%E5%80%92%E5%9E%83%E5%9C%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大S起诉张兰汪小菲 法院已立案](https://www.baidu.com/s?wd=%E5%A4%A7S%E8%B5%B7%E8%AF%89%E5%BC%A0%E5%85%B0%E6%B1%AA%E5%B0%8F%E8%8F%B2+%E6%B3%95%E9%99%A2%E5%B7%B2%E7%AB%8B%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [张雪峰称多挣钱都得学理工科](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E7%A7%B0%E5%A4%9A%E6%8C%A3%E9%92%B1%E9%83%BD%E5%BE%97%E5%AD%A6%E7%90%86%E5%B7%A5%E7%A7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [《孤注一掷》故事原型有多恐怖](https://www.baidu.com/s?wd=%E3%80%8A%E5%AD%A4%E6%B3%A8%E4%B8%80%E6%8E%B7%E3%80%8B%E6%95%85%E4%BA%8B%E5%8E%9F%E5%9E%8B%E6%9C%89%E5%A4%9A%E6%81%90%E6%80%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [国庆假期多个经济酒店价格已破千](https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E5%A4%9A%E4%B8%AA%E7%BB%8F%E6%B5%8E%E9%85%92%E5%BA%97%E4%BB%B7%E6%A0%BC%E5%B7%B2%E7%A0%B4%E5%8D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [女孩18岁成人礼被男友带去吸毒](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A918%E5%B2%81%E6%88%90%E4%BA%BA%E7%A4%BC%E8%A2%AB%E7%94%B7%E5%8F%8B%E5%B8%A6%E5%8E%BB%E5%90%B8%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
