@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 16:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 16:43:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [TFBOYS演唱会 99块钱的直播爸爸唱了98块](https://s.weibo.com/weibo?q=TFBOYS%E6%BC%94%E5%94%B1%E4%BC%9A%2099%E5%9D%97%E9%92%B1%E7%9A%84%E7%9B%B4%E6%92%AD%E7%88%B8%E7%88%B8%E5%94%B1%E4%BA%8698%E5%9D%97&t=31&band_rank=6&Refer=top)<br />
 7. [很喜欢今年的8月8](https://s.weibo.com/weibo?q=%23%E5%BE%88%E5%96%9C%E6%AC%A2%E4%BB%8A%E5%B9%B4%E7%9A%848%E6%9C%888%23&t=31&band_rank=7&Refer=top)<br />
 8. [嫡谋 杨紫龚俊](https://s.weibo.com/weibo?q=%E5%AB%A1%E8%B0%8B%20%E6%9D%A8%E7%B4%AB%E9%BE%9A%E4%BF%8A&t=31&band_rank=8&Refer=top)<br />
-9. [碧桂园两笔美元债票息未付](https://s.weibo.com/weibo?q=%23%E7%A2%A7%E6%A1%82%E5%9B%AD%E4%B8%A4%E7%AC%94%E7%BE%8E%E5%85%83%E5%80%BA%E7%A5%A8%E6%81%AF%E6%9C%AA%E4%BB%98%23&t=31&band_rank=9&Refer=top)<br />
+9. [执着于双休的原因](https://s.weibo.com/weibo?q=%E6%89%A7%E7%9D%80%E4%BA%8E%E5%8F%8C%E4%BC%91%E7%9A%84%E5%8E%9F%E5%9B%A0&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
