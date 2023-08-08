@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 10:57:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 10:58:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [昆明滇池大面积鱼群跳跃 多方回应](https://www.baidu.com/s?wd=%E6%98%86%E6%98%8E%E6%BB%87%E6%B1%A0%E5%A4%A7%E9%9D%A2%E7%A7%AF%E9%B1%BC%E7%BE%A4%E8%B7%B3%E8%B7%83+%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [医院回应太平间强制收抬尸费](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E5%A4%AA%E5%B9%B3%E9%97%B4%E5%BC%BA%E5%88%B6%E6%94%B6%E6%8A%AC%E5%B0%B8%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [月薪2万住不起如家汉庭？酒店回应了](https://www.baidu.com/s?wd=%E6%9C%88%E8%96%AA2%E4%B8%87%E4%BD%8F%E4%B8%8D%E8%B5%B7%E5%A6%82%E5%AE%B6%E6%B1%89%E5%BA%AD%EF%BC%9F%E9%85%92%E5%BA%97%E5%9B%9E%E5%BA%94%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [孤注一掷点映中途暂停被观众怒斥](https://www.baidu.com/s?wd=%E5%AD%A4%E6%B3%A8%E4%B8%80%E6%8E%B7%E7%82%B9%E6%98%A0%E4%B8%AD%E9%80%94%E6%9A%82%E5%81%9C%E8%A2%AB%E8%A7%82%E4%BC%97%E6%80%92%E6%96%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子下池塘抓鱼摸出炮弹](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%8B%E6%B1%A0%E5%A1%98%E6%8A%93%E9%B1%BC%E6%91%B8%E5%87%BA%E7%82%AE%E5%BC%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子下池塘抓鱼摸出炮弹](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%8B%E6%B1%A0%E5%A1%98%E6%8A%93%E9%B1%BC%E6%91%B8%E5%87%BA%E7%82%AE%E5%BC%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [小伙误吸防晒喷雾后检查出白肺](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E8%AF%AF%E5%90%B8%E9%98%B2%E6%99%92%E5%96%B7%E9%9B%BE%E5%90%8E%E6%A3%80%E6%9F%A5%E5%87%BA%E7%99%BD%E8%82%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [昆明滇池大面积鱼群跳跃 多方回应](https://www.baidu.com/s?wd=%E6%98%86%E6%98%8E%E6%BB%87%E6%B1%A0%E5%A4%A7%E9%9D%A2%E7%A7%AF%E9%B1%BC%E7%BE%A4%E8%B7%B3%E8%B7%83+%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [医院回应太平间强制收抬尸费](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E5%A4%AA%E5%B9%B3%E9%97%B4%E5%BC%BA%E5%88%B6%E6%94%B6%E6%8A%AC%E5%B0%B8%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [月薪2万住不起如家汉庭？酒店回应了](https://www.baidu.com/s?wd=%E6%9C%88%E8%96%AA2%E4%B8%87%E4%BD%8F%E4%B8%8D%E8%B5%B7%E5%A6%82%E5%AE%B6%E6%B1%89%E5%BA%AD%EF%BC%9F%E9%85%92%E5%BA%97%E5%9B%9E%E5%BA%94%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [孤注一掷点映中途暂停被观众怒斥](https://www.baidu.com/s?wd=%E5%AD%A4%E6%B3%A8%E4%B8%80%E6%8E%B7%E7%82%B9%E6%98%A0%E4%B8%AD%E9%80%94%E6%9A%82%E5%81%9C%E8%A2%AB%E8%A7%82%E4%BC%97%E6%80%92%E6%96%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子下池塘抓鱼摸出炮弹](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%8B%E6%B1%A0%E5%A1%98%E6%8A%93%E9%B1%BC%E6%91%B8%E5%87%BA%E7%82%AE%E5%BC%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子下池塘抓鱼摸出炮弹](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%8B%E6%B1%A0%E5%A1%98%E6%8A%93%E9%B1%BC%E6%91%B8%E5%87%BA%E7%82%AE%E5%BC%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [小伙误吸防晒喷雾后检查出白肺](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E8%AF%AF%E5%90%B8%E9%98%B2%E6%99%92%E5%96%B7%E9%9B%BE%E5%90%8E%E6%A3%80%E6%9F%A5%E5%87%BA%E7%99%BD%E8%82%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
