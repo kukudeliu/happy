@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 05:53:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 05:54:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [台风卡努转向北上将影响吉林](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E5%8D%A1%E5%8A%AA%E8%BD%AC%E5%90%91%E5%8C%97%E4%B8%8A%E5%B0%86%E5%BD%B1%E5%93%8D%E5%90%89%E6%9E%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [运动员吴艳妮因右臂纹身惹争议](https://www.baidu.com/s?wd=%E8%BF%90%E5%8A%A8%E5%91%98%E5%90%B4%E8%89%B3%E5%A6%AE%E5%9B%A0%E5%8F%B3%E8%87%82%E7%BA%B9%E8%BA%AB%E6%83%B9%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [法图麦穿李咏衣服拍“全家福”](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BE%E9%BA%A6%E7%A9%BF%E6%9D%8E%E5%92%8F%E8%A1%A3%E6%9C%8D%E6%8B%8D%E2%80%9C%E5%85%A8%E5%AE%B6%E7%A6%8F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [浙江一地查获日本核辐射产地食品](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E5%9C%B0%E6%9F%A5%E8%8E%B7%E6%97%A5%E6%9C%AC%E6%A0%B8%E8%BE%90%E5%B0%84%E4%BA%A7%E5%9C%B0%E9%A3%9F%E5%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [5名学生相约看海被卷入海中3人失联](https://www.baidu.com/s?wd=5%E5%90%8D%E5%AD%A6%E7%94%9F%E7%9B%B8%E7%BA%A6%E7%9C%8B%E6%B5%B7%E8%A2%AB%E5%8D%B7%E5%85%A5%E6%B5%B7%E4%B8%AD3%E4%BA%BA%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子后脑勺头发被理发师剃掉一半](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%90%8E%E8%84%91%E5%8B%BA%E5%A4%B4%E5%8F%91%E8%A2%AB%E7%90%86%E5%8F%91%E5%B8%88%E5%89%83%E6%8E%89%E4%B8%80%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [早产儿出生罕见长2颗牙先后被拔掉](https://www.baidu.com/s?wd=%E6%97%A9%E4%BA%A7%E5%84%BF%E5%87%BA%E7%94%9F%E7%BD%95%E8%A7%81%E9%95%BF2%E9%A2%97%E7%89%99%E5%85%88%E5%90%8E%E8%A2%AB%E6%8B%94%E6%8E%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [台风卡努转向北上将影响吉林](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E5%8D%A1%E5%8A%AA%E8%BD%AC%E5%90%91%E5%8C%97%E4%B8%8A%E5%B0%86%E5%BD%B1%E5%93%8D%E5%90%89%E6%9E%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [运动员吴艳妮因右臂纹身惹争议](https://www.baidu.com/s?wd=%E8%BF%90%E5%8A%A8%E5%91%98%E5%90%B4%E8%89%B3%E5%A6%AE%E5%9B%A0%E5%8F%B3%E8%87%82%E7%BA%B9%E8%BA%AB%E6%83%B9%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [法图麦穿李咏衣服拍“全家福”](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BE%E9%BA%A6%E7%A9%BF%E6%9D%8E%E5%92%8F%E8%A1%A3%E6%9C%8D%E6%8B%8D%E2%80%9C%E5%85%A8%E5%AE%B6%E7%A6%8F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [浙江一地查获日本核辐射产地食品](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E5%9C%B0%E6%9F%A5%E8%8E%B7%E6%97%A5%E6%9C%AC%E6%A0%B8%E8%BE%90%E5%B0%84%E4%BA%A7%E5%9C%B0%E9%A3%9F%E5%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [5名学生相约看海被卷入海中3人失联](https://www.baidu.com/s?wd=5%E5%90%8D%E5%AD%A6%E7%94%9F%E7%9B%B8%E7%BA%A6%E7%9C%8B%E6%B5%B7%E8%A2%AB%E5%8D%B7%E5%85%A5%E6%B5%B7%E4%B8%AD3%E4%BA%BA%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子后脑勺头发被理发师剃掉一半](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%90%8E%E8%84%91%E5%8B%BA%E5%A4%B4%E5%8F%91%E8%A2%AB%E7%90%86%E5%8F%91%E5%B8%88%E5%89%83%E6%8E%89%E4%B8%80%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [早产儿出生罕见长2颗牙先后被拔掉](https://www.baidu.com/s?wd=%E6%97%A9%E4%BA%A7%E5%84%BF%E5%87%BA%E7%94%9F%E7%BD%95%E8%A7%81%E9%95%BF2%E9%A2%97%E7%89%99%E5%85%88%E5%90%8E%E8%A2%AB%E6%8B%94%E6%8E%89&sa=fyb_news&rsv_dl=fyb_news)<br />
