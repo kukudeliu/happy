@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 09:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 09:20:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [日本中文教材把精髓掌握了](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%AD%E6%96%87%E6%95%99%E6%9D%90%E6%8A%8A%E7%B2%BE%E9%AB%93%E6%8E%8C%E6%8F%A1%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [玱玹终于有点像疯子了](https://s.weibo.com/weibo?q=%E7%8E%B1%E7%8E%B9%E7%BB%88%E4%BA%8E%E6%9C%89%E7%82%B9%E5%83%8F%E7%96%AF%E5%AD%90%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [TFBOYS演唱会效应](https://s.weibo.com/weibo?q=%23TFBOYS%E6%BC%94%E5%94%B1%E4%BC%9A%E6%95%88%E5%BA%94%23&t=31&band_rank=8&Refer=top)<br />
-9. [巨齿鲨那么大能把暑假作业吃了吗](https://s.weibo.com/weibo?q=%23%E5%B7%A8%E9%BD%BF%E9%B2%A8%E9%82%A3%E4%B9%88%E5%A4%A7%E8%83%BD%E6%8A%8A%E6%9A%91%E5%81%87%E4%BD%9C%E4%B8%9A%E5%90%83%E4%BA%86%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
+9. [大连理工回应挖姜男孩被录取](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%BF%9E%E7%90%86%E5%B7%A5%E5%9B%9E%E5%BA%94%E6%8C%96%E5%A7%9C%E7%94%B7%E5%AD%A9%E8%A2%AB%E5%BD%95%E5%8F%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
