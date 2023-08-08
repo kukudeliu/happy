@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 10:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 10:32:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [汛情过后健康防护要点](https://s.weibo.com/weibo?q=%23%E6%B1%9B%E6%83%85%E8%BF%87%E5%90%8E%E5%81%A5%E5%BA%B7%E9%98%B2%E6%8A%A4%E8%A6%81%E7%82%B9%23&t=31&band_rank=3&Refer=top)<br />
 4. [王鹤棣 本座回来了](https://s.weibo.com/weibo?q=%E7%8E%8B%E9%B9%A4%E6%A3%A3%20%E6%9C%AC%E5%BA%A7%E5%9B%9E%E6%9D%A5%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
 5. [王传君 不像演的](https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BC%A0%E5%90%9B%20%E4%B8%8D%E5%83%8F%E6%BC%94%E7%9A%84&t=31&band_rank=5&Refer=top)<br />
-6. [日本中文教材把精髓掌握了](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%AD%E6%96%87%E6%95%99%E6%9D%90%E6%8A%8A%E7%B2%BE%E9%AB%93%E6%8E%8C%E6%8F%A1%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [BLACKPINK 续约](https://s.weibo.com/weibo?q=BLACKPINK%20%E7%BB%AD%E7%BA%A6&t=31&band_rank=7&Refer=top)<br />
-8. [杨紫包场孤注一掷](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%8C%85%E5%9C%BA%E5%AD%A4%E6%B3%A8%E4%B8%80%E6%8E%B7%23&t=31&band_rank=8&Refer=top)<br />
-9. [久坐之后才懂练腹有多重要](https://s.weibo.com/weibo?q=%E4%B9%85%E5%9D%90%E4%B9%8B%E5%90%8E%E6%89%8D%E6%87%82%E7%BB%83%E8%85%B9%E6%9C%89%E5%A4%9A%E9%87%8D%E8%A6%81&t=31&band_rank=9&Refer=top)<br />
+6. [TFBOYS演唱会带动4.16亿旅游收入](https://s.weibo.com/weibo?q=%23TFBOYS%E6%BC%94%E5%94%B1%E4%BC%9A%E5%B8%A6%E5%8A%A84.16%E4%BA%BF%E6%97%85%E6%B8%B8%E6%94%B6%E5%85%A5%23&t=31&band_rank=6&Refer=top)<br />
+7. [杨紫包场孤注一掷](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%8C%85%E5%9C%BA%E5%AD%A4%E6%B3%A8%E4%B8%80%E6%8E%B7%23&t=31&band_rank=7&Refer=top)<br />
+8. [日本中文教材把精髓掌握了](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%AD%E6%96%87%E6%95%99%E6%9D%90%E6%8A%8A%E7%B2%BE%E9%AB%93%E6%8E%8C%E6%8F%A1%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [BLACKPINK 续约](https://s.weibo.com/weibo?q=BLACKPINK%20%E7%BB%AD%E7%BA%A6&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
