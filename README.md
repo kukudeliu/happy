@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 17:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 17:49:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [莲花楼加更礼](https://s.weibo.com/weibo?q=%23%E8%8E%B2%E8%8A%B1%E6%A5%BC%E5%8A%A0%E6%9B%B4%E7%A4%BC%23&t=31&band_rank=5&Refer=top)<br />
 6. [小夭也没有见过真正的涂山璟](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%A4%AD%E4%B9%9F%E6%B2%A1%E6%9C%89%E8%A7%81%E8%BF%87%E7%9C%9F%E6%AD%A3%E7%9A%84%E6%B6%82%E5%B1%B1%E7%92%9F%23&t=31&band_rank=6&Refer=top)<br />
 7. [朱正廷或将当李权哲导师](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E6%AD%A3%E5%BB%B7%E6%88%96%E5%B0%86%E5%BD%93%E6%9D%8E%E6%9D%83%E5%93%B2%E5%AF%BC%E5%B8%88%23&t=31&band_rank=7&Refer=top)<br />
-8. [执着于双休的原因](https://s.weibo.com/weibo?q=%E6%89%A7%E7%9D%80%E4%BA%8E%E5%8F%8C%E4%BC%91%E7%9A%84%E5%8E%9F%E5%9B%A0&t=31&band_rank=8&Refer=top)<br />
+8. [EDG对战WBG](https://s.weibo.com/weibo?q=%23EDG%E5%AF%B9%E6%88%98WBG%23&t=31&band_rank=8&Refer=top)<br />
 9. [外国人看巨齿鲨2后遗症](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%9B%BD%E4%BA%BA%E7%9C%8B%E5%B7%A8%E9%BD%BF%E9%B2%A82%E5%90%8E%E9%81%97%E7%97%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -25,7 +25,7 @@
 6. [刘涛演妈祖之前请示过妈祖](https://www.baidu.com/s?wd=%E5%88%98%E6%B6%9B%E6%BC%94%E5%A6%88%E7%A5%96%E4%B9%8B%E5%89%8D%E8%AF%B7%E7%A4%BA%E8%BF%87%E5%A6%88%E7%A5%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [法图麦穿李咏衣服拍“全家福”](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BE%E9%BA%A6%E7%A9%BF%E6%9D%8E%E5%92%8F%E8%A1%A3%E6%9C%8D%E6%8B%8D%E2%80%9C%E5%85%A8%E5%AE%B6%E7%A6%8F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [早产儿出生罕见长2颗牙先后被拔掉](https://www.baidu.com/s?wd=%E6%97%A9%E4%BA%A7%E5%84%BF%E5%87%BA%E7%94%9F%E7%BD%95%E8%A7%81%E9%95%BF2%E9%A2%97%E7%89%99%E5%85%88%E5%90%8E%E8%A2%AB%E6%8B%94%E6%8E%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [官方通报游泳教练将幼童按水里](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%B8%B8%E6%B3%B3%E6%95%99%E7%BB%83%E5%B0%86%E5%B9%BC%E7%AB%A5%E6%8C%89%E6%B0%B4%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [北京的自来水变凉了？官方回应](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E7%9A%84%E8%87%AA%E6%9D%A5%E6%B0%B4%E5%8F%98%E5%87%89%E4%BA%86%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [刘涛演妈祖之前请示过妈祖](https://www.baidu.com/s?wd=%E5%88%98%E6%B6%9B%E6%BC%94%E5%A6%88%E7%A5%96%E4%B9%8B%E5%89%8D%E8%AF%B7%E7%A4%BA%E8%BF%87%E5%A6%88%E7%A5%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [法图麦穿李咏衣服拍“全家福”](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BE%E9%BA%A6%E7%A9%BF%E6%9D%8E%E5%92%8F%E8%A1%A3%E6%9C%8D%E6%8B%8D%E2%80%9C%E5%85%A8%E5%AE%B6%E7%A6%8F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [早产儿出生罕见长2颗牙先后被拔掉](https://www.baidu.com/s?wd=%E6%97%A9%E4%BA%A7%E5%84%BF%E5%87%BA%E7%94%9F%E7%BD%95%E8%A7%81%E9%95%BF2%E9%A2%97%E7%89%99%E5%85%88%E5%90%8E%E8%A2%AB%E6%8B%94%E6%8E%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [官方通报游泳教练将幼童按水里](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%B8%B8%E6%B3%B3%E6%95%99%E7%BB%83%E5%B0%86%E5%B9%BC%E7%AB%A5%E6%8C%89%E6%B0%B4%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [北京的自来水变凉了？官方回应](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E7%9A%84%E8%87%AA%E6%9D%A5%E6%B0%B4%E5%8F%98%E5%87%89%E4%BA%86%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
