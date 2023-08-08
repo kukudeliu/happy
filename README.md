@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 14:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 14:56:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [很喜欢今年的8月8](https://s.weibo.com/weibo?q=%23%E5%BE%88%E5%96%9C%E6%AC%A2%E4%BB%8A%E5%B9%B4%E7%9A%848%E6%9C%888%23&t=31&band_rank=5&Refer=top)<br />
 6. [时代峰峻](https://s.weibo.com/weibo?q=%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB&t=31&band_rank=6&Refer=top)<br />
 7. [刘涛演妈祖之前请示过妈祖](https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B6%9B%E6%BC%94%E5%A6%88%E7%A5%96%E4%B9%8B%E5%89%8D%E8%AF%B7%E7%A4%BA%E8%BF%87%E5%A6%88%E7%A5%96%23&t=31&band_rank=7&Refer=top)<br />
-8. [外地人被内蒙人吃肉吓到了](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%9C%B0%E4%BA%BA%E8%A2%AB%E5%86%85%E8%92%99%E4%BA%BA%E5%90%83%E8%82%89%E5%90%93%E5%88%B0%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [李玟老公申请死因调查](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E8%80%81%E5%85%AC%E7%94%B3%E8%AF%B7%E6%AD%BB%E5%9B%A0%E8%B0%83%E6%9F%A5%23&t=31&band_rank=9&Refer=top)<br />
+8. [第一次omakase吃了纸巾](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1omakase%E5%90%83%E4%BA%86%E7%BA%B8%E5%B7%BE%23&t=31&band_rank=8&Refer=top)<br />
+9. [外地人被内蒙人吃肉吓到了](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%9C%B0%E4%BA%BA%E8%A2%AB%E5%86%85%E8%92%99%E4%BA%BA%E5%90%83%E8%82%89%E5%90%93%E5%88%B0%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
