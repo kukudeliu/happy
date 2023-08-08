@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 19:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 19:30:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [构筑数字经济发展新优势](https://www.baidu.com/s?wd=%E6%9E%84%E7%AD%91%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E6%96%B0%E4%BC%98%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [梅德韦杰夫:美企图把俄从地球上抹去](https://www.baidu.com/s?wd=%E6%A2%85%E5%BE%B7%E9%9F%A6%E6%9D%B0%E5%A4%AB%3A%E7%BE%8E%E4%BC%81%E5%9B%BE%E6%8A%8A%E4%BF%84%E4%BB%8E%E5%9C%B0%E7%90%83%E4%B8%8A%E6%8A%B9%E5%8E%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子将娃闷车内睡觉2小时后崩溃报警](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B0%86%E5%A8%83%E9%97%B7%E8%BD%A6%E5%86%85%E7%9D%A1%E8%A7%892%E5%B0%8F%E6%97%B6%E5%90%8E%E5%B4%A9%E6%BA%83%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [诺华回应上海长征医院驱逐医药代表](https://www.baidu.com/s?wd=%E8%AF%BA%E5%8D%8E%E5%9B%9E%E5%BA%94%E4%B8%8A%E6%B5%B7%E9%95%BF%E5%BE%81%E5%8C%BB%E9%99%A2%E9%A9%B1%E9%80%90%E5%8C%BB%E8%8D%AF%E4%BB%A3%E8%A1%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子后脑勺头发被理发师剃掉一半](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%90%8E%E8%84%91%E5%8B%BA%E5%A4%B4%E5%8F%91%E8%A2%AB%E7%90%86%E5%8F%91%E5%B8%88%E5%89%83%E6%8E%89%E4%B8%80%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子后脑勺头发被理发师剃掉一半](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%90%8E%E8%84%91%E5%8B%BA%E5%A4%B4%E5%8F%91%E8%A2%AB%E7%90%86%E5%8F%91%E5%B8%88%E5%89%83%E6%8E%89%E4%B8%80%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [诺华回应上海长征医院驱逐医药代表](https://www.baidu.com/s?wd=%E8%AF%BA%E5%8D%8E%E5%9B%9E%E5%BA%94%E4%B8%8A%E6%B5%B7%E9%95%BF%E5%BE%81%E5%8C%BB%E9%99%A2%E9%A9%B1%E9%80%90%E5%8C%BB%E8%8D%AF%E4%BB%A3%E8%A1%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [中国邮政是懂奶茶取名的](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%82%AE%E6%94%BF%E6%98%AF%E6%87%82%E5%A5%B6%E8%8C%B6%E5%8F%96%E5%90%8D%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [构筑数字经济发展新优势](https://www.baidu.com/s?wd=%E6%9E%84%E7%AD%91%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E6%96%B0%E4%BC%98%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [梅德韦杰夫:美企图把俄从地球上抹去](https://www.baidu.com/s?wd=%E6%A2%85%E5%BE%B7%E9%9F%A6%E6%9D%B0%E5%A4%AB%3A%E7%BE%8E%E4%BC%81%E5%9B%BE%E6%8A%8A%E4%BF%84%E4%BB%8E%E5%9C%B0%E7%90%83%E4%B8%8A%E6%8A%B9%E5%8E%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子将娃闷车内睡觉2小时后崩溃报警](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B0%86%E5%A8%83%E9%97%B7%E8%BD%A6%E5%86%85%E7%9D%A1%E8%A7%892%E5%B0%8F%E6%97%B6%E5%90%8E%E5%B4%A9%E6%BA%83%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [诺华回应上海长征医院驱逐医药代表](https://www.baidu.com/s?wd=%E8%AF%BA%E5%8D%8E%E5%9B%9E%E5%BA%94%E4%B8%8A%E6%B5%B7%E9%95%BF%E5%BE%81%E5%8C%BB%E9%99%A2%E9%A9%B1%E9%80%90%E5%8C%BB%E8%8D%AF%E4%BB%A3%E8%A1%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子后脑勺头发被理发师剃掉一半](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%90%8E%E8%84%91%E5%8B%BA%E5%A4%B4%E5%8F%91%E8%A2%AB%E7%90%86%E5%8F%91%E5%B8%88%E5%89%83%E6%8E%89%E4%B8%80%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子后脑勺头发被理发师剃掉一半](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%90%8E%E8%84%91%E5%8B%BA%E5%A4%B4%E5%8F%91%E8%A2%AB%E7%90%86%E5%8F%91%E5%B8%88%E5%89%83%E6%8E%89%E4%B8%80%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [诺华回应上海长征医院驱逐医药代表](https://www.baidu.com/s?wd=%E8%AF%BA%E5%8D%8E%E5%9B%9E%E5%BA%94%E4%B8%8A%E6%B5%B7%E9%95%BF%E5%BE%81%E5%8C%BB%E9%99%A2%E9%A9%B1%E9%80%90%E5%8C%BB%E8%8D%AF%E4%BB%A3%E8%A1%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [中国邮政是懂奶茶取名的](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%82%AE%E6%94%BF%E6%98%AF%E6%87%82%E5%A5%B6%E8%8C%B6%E5%8F%96%E5%90%8D%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
