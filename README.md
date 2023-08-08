@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 22:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 22:11:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [EDG下路菜啊](https://s.weibo.com/weibo?q=EDG%E4%B8%8B%E8%B7%AF%E8%8F%9C%E5%95%8A&t=31&band_rank=5&Refer=top)<br />
 6. [WBG战胜EDG](https://s.weibo.com/weibo?q=%23WBG%E6%88%98%E8%83%9CEDG%23&t=31&band_rank=6&Refer=top)<br />
 7. [刘青松哭了](https://s.weibo.com/weibo?q=%23%E5%88%98%E9%9D%92%E6%9D%BE%E5%93%AD%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [LPL出征S13全员披风上阵](https://s.weibo.com/weibo?q=%23LPL%E5%87%BA%E5%BE%81S13%E5%85%A8%E5%91%98%E6%8A%AB%E9%A3%8E%E4%B8%8A%E9%98%B5%23&t=31&band_rank=8&Refer=top)<br />
-9. [老板在自家工厂被1.5万个奶酪压死](https://s.weibo.com/weibo?q=%23%E8%80%81%E6%9D%BF%E5%9C%A8%E8%87%AA%E5%AE%B6%E5%B7%A5%E5%8E%82%E8%A2%AB1.5%E4%B8%87%E4%B8%AA%E5%A5%B6%E9%85%AA%E5%8E%8B%E6%AD%BB%23&t=31&band_rank=9&Refer=top)<br />
+8. [老板在自家工厂被1.5万个奶酪压死](https://s.weibo.com/weibo?q=%23%E8%80%81%E6%9D%BF%E5%9C%A8%E8%87%AA%E5%AE%B6%E5%B7%A5%E5%8E%82%E8%A2%AB1.5%E4%B8%87%E4%B8%AA%E5%A5%B6%E9%85%AA%E5%8E%8B%E6%AD%BB%23&t=31&band_rank=8&Refer=top)<br />
+9. [LPL出征S13全员披风上阵](https://s.weibo.com/weibo?q=%23LPL%E5%87%BA%E5%BE%81S13%E5%85%A8%E5%91%98%E6%8A%AB%E9%A3%8E%E4%B8%8A%E9%98%B5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
