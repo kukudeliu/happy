@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 18:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-08 18:40:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [10岁白血病小女孩离世前嫁给男友](https://s.weibo.com/weibo?q=%2310%E5%B2%81%E7%99%BD%E8%A1%80%E7%97%85%E5%B0%8F%E5%A5%B3%E5%AD%A9%E7%A6%BB%E4%B8%96%E5%89%8D%E5%AB%81%E7%BB%99%E7%94%B7%E5%8F%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [永远会被中国人的团结互助感动](https://s.weibo.com/weibo?q=%23%E6%B0%B8%E8%BF%9C%E4%BC%9A%E8%A2%AB%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E5%9B%A2%E7%BB%93%E4%BA%92%E5%8A%A9%E6%84%9F%E5%8A%A8%23&t=31&band_rank=7&Refer=top)<br />
 8. [张小凡黑化入魔](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E5%87%A1%E9%BB%91%E5%8C%96%E5%85%A5%E9%AD%94%23&t=31&band_rank=8&Refer=top)<br />
-9. [爱奇艺](https://s.weibo.com/weibo?q=%E7%88%B1%E5%A5%87%E8%89%BA&t=31&band_rank=9&Refer=top)<br />
+9. [EDG对战WBG](https://s.weibo.com/weibo?q=%23EDG%E5%AF%B9%E6%88%98WBG%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
