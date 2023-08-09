@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 23:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 23:20:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [李相夷剑断人亡](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%9B%B8%E5%A4%B7%E5%89%91%E6%96%AD%E4%BA%BA%E4%BA%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [DK](https://s.weibo.com/weibo?q=DK&t=31&band_rank=7&Refer=top)<br />
 8. [曾舜晞跳queencard](https://s.weibo.com/weibo?q=%23%E6%9B%BE%E8%88%9C%E6%99%9E%E8%B7%B3queencard%23&t=31&band_rank=8&Refer=top)<br />
-9. [王濛被冻结股权445万](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BF%9B%E8%A2%AB%E5%86%BB%E7%BB%93%E8%82%A1%E6%9D%83445%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
+9. [怪不得耳鼻咽喉分在同一个科室](https://s.weibo.com/weibo?q=%E6%80%AA%E4%B8%8D%E5%BE%97%E8%80%B3%E9%BC%BB%E5%92%BD%E5%96%89%E5%88%86%E5%9C%A8%E5%90%8C%E4%B8%80%E4%B8%AA%E7%A7%91%E5%AE%A4&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -21,9 +21,9 @@
 2. [业内人士揭隐蔽医药腐败](https://www.baidu.com/s?wd=%E4%B8%9A%E5%86%85%E4%BA%BA%E5%A3%AB%E6%8F%AD%E9%9A%90%E8%94%BD%E5%8C%BB%E8%8D%AF%E8%85%90%E8%B4%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [云南一地燕子漫天飞舞 地震局回应](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E4%B8%80%E5%9C%B0%E7%87%95%E5%AD%90%E6%BC%AB%E5%A4%A9%E9%A3%9E%E8%88%9E+%E5%9C%B0%E9%9C%87%E5%B1%80%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [汛中温情](https://www.baidu.com/s?wd=%E6%B1%9B%E4%B8%AD%E6%B8%A9%E6%83%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [多方回应女生拒买水果捞被骂小三](https://www.baidu.com/s?wd=%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%94%9F%E6%8B%92%E4%B9%B0%E6%B0%B4%E6%9E%9C%E6%8D%9E%E8%A2%AB%E9%AA%82%E5%B0%8F%E4%B8%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [北大教授：目前收入水平还是太低](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88%EF%BC%9A%E7%9B%AE%E5%89%8D%E6%94%B6%E5%85%A5%E6%B0%B4%E5%B9%B3%E8%BF%98%E6%98%AF%E5%A4%AA%E4%BD%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [《莲花楼》热度破万](https://www.baidu.com/s?wd=%E3%80%8A%E8%8E%B2%E8%8A%B1%E6%A5%BC%E3%80%8B%E7%83%AD%E5%BA%A6%E7%A0%B4%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [北大教授：目前收入水平还是太低](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88%EF%BC%9A%E7%9B%AE%E5%89%8D%E6%94%B6%E5%85%A5%E6%B0%B4%E5%B9%B3%E8%BF%98%E6%98%AF%E5%A4%AA%E4%BD%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [《莲花楼》热度破万](https://www.baidu.com/s?wd=%E3%80%8A%E8%8E%B2%E8%8A%B1%E6%A5%BC%E3%80%8B%E7%83%AD%E5%BA%A6%E7%A0%B4%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [多方回应女生拒买水果捞被骂小三](https://www.baidu.com/s?wd=%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%94%9F%E6%8B%92%E4%B9%B0%E6%B0%B4%E6%9E%9C%E6%8D%9E%E8%A2%AB%E9%AA%82%E5%B0%8F%E4%B8%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [拔掉57颗牙是什么体验](https://www.baidu.com/s?wd=%E6%8B%94%E6%8E%8957%E9%A2%97%E7%89%99%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [保安大叔指导林志颖拍照](https://www.baidu.com/s?wd=%E4%BF%9D%E5%AE%89%E5%A4%A7%E5%8F%94%E6%8C%87%E5%AF%BC%E6%9E%97%E5%BF%97%E9%A2%96%E6%8B%8D%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -33,8 +33,8 @@
 2. [业内人士揭隐蔽医药腐败](https://www.baidu.com/s?wd=%E4%B8%9A%E5%86%85%E4%BA%BA%E5%A3%AB%E6%8F%AD%E9%9A%90%E8%94%BD%E5%8C%BB%E8%8D%AF%E8%85%90%E8%B4%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [云南一地燕子漫天飞舞 地震局回应](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E4%B8%80%E5%9C%B0%E7%87%95%E5%AD%90%E6%BC%AB%E5%A4%A9%E9%A3%9E%E8%88%9E+%E5%9C%B0%E9%9C%87%E5%B1%80%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [汛中温情](https://www.baidu.com/s?wd=%E6%B1%9B%E4%B8%AD%E6%B8%A9%E6%83%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [多方回应女生拒买水果捞被骂小三](https://www.baidu.com/s?wd=%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%94%9F%E6%8B%92%E4%B9%B0%E6%B0%B4%E6%9E%9C%E6%8D%9E%E8%A2%AB%E9%AA%82%E5%B0%8F%E4%B8%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [北大教授：目前收入水平还是太低](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88%EF%BC%9A%E7%9B%AE%E5%89%8D%E6%94%B6%E5%85%A5%E6%B0%B4%E5%B9%B3%E8%BF%98%E6%98%AF%E5%A4%AA%E4%BD%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [《莲花楼》热度破万](https://www.baidu.com/s?wd=%E3%80%8A%E8%8E%B2%E8%8A%B1%E6%A5%BC%E3%80%8B%E7%83%AD%E5%BA%A6%E7%A0%B4%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [北大教授：目前收入水平还是太低](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88%EF%BC%9A%E7%9B%AE%E5%89%8D%E6%94%B6%E5%85%A5%E6%B0%B4%E5%B9%B3%E8%BF%98%E6%98%AF%E5%A4%AA%E4%BD%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [《莲花楼》热度破万](https://www.baidu.com/s?wd=%E3%80%8A%E8%8E%B2%E8%8A%B1%E6%A5%BC%E3%80%8B%E7%83%AD%E5%BA%A6%E7%A0%B4%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [多方回应女生拒买水果捞被骂小三](https://www.baidu.com/s?wd=%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%94%9F%E6%8B%92%E4%B9%B0%E6%B0%B4%E6%9E%9C%E6%8D%9E%E8%A2%AB%E9%AA%82%E5%B0%8F%E4%B8%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [拔掉57颗牙是什么体验](https://www.baidu.com/s?wd=%E6%8B%94%E6%8E%8957%E9%A2%97%E7%89%99%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [保安大叔指导林志颖拍照](https://www.baidu.com/s?wd=%E4%BF%9D%E5%AE%89%E5%A4%A7%E5%8F%94%E6%8C%87%E5%AF%BC%E6%9E%97%E5%BF%97%E9%A2%96%E6%8B%8D%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
