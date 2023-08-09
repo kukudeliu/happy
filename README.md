@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 08:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 08:34:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [洪水过后居家消毒要注意什么](https://s.weibo.com/weibo?q=%23%E6%B4%AA%E6%B0%B4%E8%BF%87%E5%90%8E%E5%B1%85%E5%AE%B6%E6%B6%88%E6%AF%92%E8%A6%81%E6%B3%A8%E6%84%8F%E4%BB%80%E4%B9%88%23&t=31&band_rank=3&Refer=top)<br />
 4. [脏脏包为什么现在没人吃了](https://s.weibo.com/weibo?q=%23%E8%84%8F%E8%84%8F%E5%8C%85%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E6%B2%A1%E4%BA%BA%E5%90%83%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [花儿与少年5网传阵容](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%84%BF%E4%B8%8E%E5%B0%91%E5%B9%B45%E7%BD%91%E4%BC%A0%E9%98%B5%E5%AE%B9%23&t=31&band_rank=5&Refer=top)<br />
-6. [长相思第二季有檀健次吗](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D%E7%AC%AC%E4%BA%8C%E5%AD%A3%E6%9C%89%E6%AA%80%E5%81%A5%E6%AC%A1%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
-7. [试管婴儿与妈妈孕期的所有针管合影](https://s.weibo.com/weibo?q=%E8%AF%95%E7%AE%A1%E5%A9%B4%E5%84%BF%E4%B8%8E%E5%A6%88%E5%A6%88%E5%AD%95%E6%9C%9F%E7%9A%84%E6%89%80%E6%9C%89%E9%92%88%E7%AE%A1%E5%90%88%E5%BD%B1&t=31&band_rank=7&Refer=top)<br />
-8. [杨紫谈长相思梅林殉情](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E8%B0%88%E9%95%BF%E7%9B%B8%E6%80%9D%E6%A2%85%E6%9E%97%E6%AE%89%E6%83%85%23&t=31&band_rank=8&Refer=top)<br />
-9. [Uzi](https://s.weibo.com/weibo?q=Uzi&t=31&band_rank=9&Refer=top)<br />
+6. [男子喜得双胞胎民警加班办入户](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%96%9C%E5%BE%97%E5%8F%8C%E8%83%9E%E8%83%8E%E6%B0%91%E8%AD%A6%E5%8A%A0%E7%8F%AD%E5%8A%9E%E5%85%A5%E6%88%B7%23&t=31&band_rank=6&Refer=top)<br />
+7. [杨紫谈长相思梅林殉情](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E8%B0%88%E9%95%BF%E7%9B%B8%E6%80%9D%E6%A2%85%E6%9E%97%E6%AE%89%E6%83%85%23&t=31&band_rank=7&Refer=top)<br />
+8. [Uzi](https://s.weibo.com/weibo?q=Uzi&t=31&band_rank=8&Refer=top)<br />
+9. [长相思第二季有檀健次吗](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D%E7%AC%AC%E4%BA%8C%E5%AD%A3%E6%9C%89%E6%AA%80%E5%81%A5%E6%AC%A1%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,8 +24,8 @@
 5. [多地倒查“回扣” 有医院安高清监控](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%80%92%E6%9F%A5%E2%80%9C%E5%9B%9E%E6%89%A3%E2%80%9D+%E6%9C%89%E5%8C%BB%E9%99%A2%E5%AE%89%E9%AB%98%E6%B8%85%E7%9B%91%E6%8E%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [昆明车站外多条绿蛇在垃圾箱上爬行](https://www.baidu.com/s?wd=%E6%98%86%E6%98%8E%E8%BD%A6%E7%AB%99%E5%A4%96%E5%A4%9A%E6%9D%A1%E7%BB%BF%E8%9B%87%E5%9C%A8%E5%9E%83%E5%9C%BE%E7%AE%B1%E4%B8%8A%E7%88%AC%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [被洪水淹死的几百只羊有了归宿](https://www.baidu.com/s?wd=%E8%A2%AB%E6%B4%AA%E6%B0%B4%E6%B7%B9%E6%AD%BB%E7%9A%84%E5%87%A0%E7%99%BE%E5%8F%AA%E7%BE%8A%E6%9C%89%E4%BA%86%E5%BD%92%E5%AE%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [张雪峰：建议新闻学同学修双学位](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B3%B0%EF%BC%9A%E5%BB%BA%E8%AE%AE%E6%96%B0%E9%97%BB%E5%AD%A6%E5%90%8C%E5%AD%A6%E4%BF%AE%E5%8F%8C%E5%AD%A6%E4%BD%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [运动员吴艳妮因右臂纹身惹争议](https://www.baidu.com/s?wd=%E8%BF%90%E5%8A%A8%E5%91%98%E5%90%B4%E8%89%B3%E5%A6%AE%E5%9B%A0%E5%8F%B3%E8%87%82%E7%BA%B9%E8%BA%AB%E6%83%B9%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [北大研究称LK-99不是超导体](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E7%A0%94%E7%A9%B6%E7%A7%B0LK-99%E4%B8%8D%E6%98%AF%E8%B6%85%E5%AF%BC%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子“隔空助力”学生自杀获刑5年](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E2%80%9C%E9%9A%94%E7%A9%BA%E5%8A%A9%E5%8A%9B%E2%80%9D%E5%AD%A6%E7%94%9F%E8%87%AA%E6%9D%80%E8%8E%B7%E5%88%915%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [多地倒查“回扣” 有医院安高清监控](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%80%92%E6%9F%A5%E2%80%9C%E5%9B%9E%E6%89%A3%E2%80%9D+%E6%9C%89%E5%8C%BB%E9%99%A2%E5%AE%89%E9%AB%98%E6%B8%85%E7%9B%91%E6%8E%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [昆明车站外多条绿蛇在垃圾箱上爬行](https://www.baidu.com/s?wd=%E6%98%86%E6%98%8E%E8%BD%A6%E7%AB%99%E5%A4%96%E5%A4%9A%E6%9D%A1%E7%BB%BF%E8%9B%87%E5%9C%A8%E5%9E%83%E5%9C%BE%E7%AE%B1%E4%B8%8A%E7%88%AC%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [被洪水淹死的几百只羊有了归宿](https://www.baidu.com/s?wd=%E8%A2%AB%E6%B4%AA%E6%B0%B4%E6%B7%B9%E6%AD%BB%E7%9A%84%E5%87%A0%E7%99%BE%E5%8F%AA%E7%BE%8A%E6%9C%89%E4%BA%86%E5%BD%92%E5%AE%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [张雪峰：建议新闻学同学修双学位](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B3%B0%EF%BC%9A%E5%BB%BA%E8%AE%AE%E6%96%B0%E9%97%BB%E5%AD%A6%E5%90%8C%E5%AD%A6%E4%BF%AE%E5%8F%8C%E5%AD%A6%E4%BD%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [运动员吴艳妮因右臂纹身惹争议](https://www.baidu.com/s?wd=%E8%BF%90%E5%8A%A8%E5%91%98%E5%90%B4%E8%89%B3%E5%A6%AE%E5%9B%A0%E5%8F%B3%E8%87%82%E7%BA%B9%E8%BA%AB%E6%83%B9%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [北大研究称LK-99不是超导体](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E7%A0%94%E7%A9%B6%E7%A7%B0LK-99%E4%B8%8D%E6%98%AF%E8%B6%85%E5%AF%BC%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子“隔空助力”学生自杀获刑5年](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E2%80%9C%E9%9A%94%E7%A9%BA%E5%8A%A9%E5%8A%9B%E2%80%9D%E5%AD%A6%E7%94%9F%E8%87%AA%E6%9D%80%E8%8E%B7%E5%88%915%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
