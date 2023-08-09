@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 08:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 08:42:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [花儿与少年5网传阵容](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%84%BF%E4%B8%8E%E5%B0%91%E5%B9%B45%E7%BD%91%E4%BC%A0%E9%98%B5%E5%AE%B9%23&t=31&band_rank=6&Refer=top)<br />
 7. [杨紫谈长相思梅林殉情](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E8%B0%88%E9%95%BF%E7%9B%B8%E6%80%9D%E6%A2%85%E6%9E%97%E6%AE%89%E6%83%85%23&t=31&band_rank=7&Refer=top)<br />
 8. [Uzi](https://s.weibo.com/weibo?q=Uzi&t=31&band_rank=8&Refer=top)<br />
-9. [长相思第二季有檀健次吗](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D%E7%AC%AC%E4%BA%8C%E5%AD%A3%E6%9C%89%E6%AA%80%E5%81%A5%E6%AC%A1%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
+9. [日本网友对排放核污水的看法](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%BD%91%E5%8F%8B%E5%AF%B9%E6%8E%92%E6%94%BE%E6%A0%B8%E6%B1%A1%E6%B0%B4%E7%9A%84%E7%9C%8B%E6%B3%95%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
