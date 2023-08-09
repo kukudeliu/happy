@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 10:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 10:14:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [菏泽地震](https://www.baidu.com/s?wd=%E8%8F%8F%E6%B3%BD%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [道教学院火了 报录比接近21:1](https://www.baidu.com/s?wd=%E9%81%93%E6%95%99%E5%AD%A6%E9%99%A2%E7%81%AB%E4%BA%86+%E6%8A%A5%E5%BD%95%E6%AF%94%E6%8E%A5%E8%BF%9121%3A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [网购2百多却扣款3千多？花呗回应](https://www.baidu.com/s?wd=%E7%BD%91%E8%B4%AD2%E7%99%BE%E5%A4%9A%E5%8D%B4%E6%89%A3%E6%AC%BE3%E5%8D%83%E5%A4%9A%EF%BC%9F%E8%8A%B1%E5%91%97%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [嫌犯开庭前一天突然提交立功材料](https://www.baidu.com/s?wd=%E5%AB%8C%E7%8A%AF%E5%BC%80%E5%BA%AD%E5%89%8D%E4%B8%80%E5%A4%A9%E7%AA%81%E7%84%B6%E6%8F%90%E4%BA%A4%E7%AB%8B%E5%8A%9F%E6%9D%90%E6%96%99&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [7月CPI增速或转负](https://www.baidu.com/s?wd=7%E6%9C%88CPI%E5%A2%9E%E9%80%9F%E6%88%96%E8%BD%AC%E8%B4%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [菏泽地震](https://www.baidu.com/s?wd=%E8%8F%8F%E6%B3%BD%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [道教学院火了 报录比接近21:1](https://www.baidu.com/s?wd=%E9%81%93%E6%95%99%E5%AD%A6%E9%99%A2%E7%81%AB%E4%BA%86+%E6%8A%A5%E5%BD%95%E6%AF%94%E6%8E%A5%E8%BF%9121%3A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [网购2百多却扣款3千多？花呗回应](https://www.baidu.com/s?wd=%E7%BD%91%E8%B4%AD2%E7%99%BE%E5%A4%9A%E5%8D%B4%E6%89%A3%E6%AC%BE3%E5%8D%83%E5%A4%9A%EF%BC%9F%E8%8A%B1%E5%91%97%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [嫌犯开庭前一天突然提交立功材料](https://www.baidu.com/s?wd=%E5%AB%8C%E7%8A%AF%E5%BC%80%E5%BA%AD%E5%89%8D%E4%B8%80%E5%A4%A9%E7%AA%81%E7%84%B6%E6%8F%90%E4%BA%A4%E7%AB%8B%E5%8A%9F%E6%9D%90%E6%96%99&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [7月CPI增速或转负](https://www.baidu.com/s?wd=7%E6%9C%88CPI%E5%A2%9E%E9%80%9F%E6%88%96%E8%BD%AC%E8%B4%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
