@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 22:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 22:11:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [小夭扮回玟小六](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%A4%AD%E6%89%AE%E5%9B%9E%E7%8E%9F%E5%B0%8F%E5%85%AD%23&t=31&band_rank=6&Refer=top)<br />
 7. [黑莲花男主](https://s.weibo.com/weibo?q=%E9%BB%91%E8%8E%B2%E8%8A%B1%E7%94%B7%E4%B8%BB&t=31&band_rank=7&Refer=top)<br />
 8. [去泰国尽量别用信用卡](https://s.weibo.com/weibo?q=%23%E5%8E%BB%E6%B3%B0%E5%9B%BD%E5%B0%BD%E9%87%8F%E5%88%AB%E7%94%A8%E4%BF%A1%E7%94%A8%E5%8D%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [怪不得耳鼻咽喉分在同一个科室](https://s.weibo.com/weibo?q=%E6%80%AA%E4%B8%8D%E5%BE%97%E8%80%B3%E9%BC%BB%E5%92%BD%E5%96%89%E5%88%86%E5%9C%A8%E5%90%8C%E4%B8%80%E4%B8%AA%E7%A7%91%E5%AE%A4&t=31&band_rank=9&Refer=top)<br />
+9. [中央财政紧急预拨10亿元](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%A4%AE%E8%B4%A2%E6%94%BF%E7%B4%A7%E6%80%A5%E9%A2%84%E6%8B%A810%E4%BA%BF%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
