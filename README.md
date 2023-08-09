@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 22:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 22:08:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [莲花楼破万](https://s.weibo.com/weibo?q=%E8%8E%B2%E8%8A%B1%E6%A5%BC%E7%A0%B4%E4%B8%87&t=31&band_rank=4&Refer=top)<br />
 5. [中戏教授说王一博进步非常大](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%88%8F%E6%95%99%E6%8E%88%E8%AF%B4%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%BF%9B%E6%AD%A5%E9%9D%9E%E5%B8%B8%E5%A4%A7%23&t=31&band_rank=5&Refer=top)<br />
 6. [小夭扮回玟小六](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%A4%AD%E6%89%AE%E5%9B%9E%E7%8E%9F%E5%B0%8F%E5%85%AD%23&t=31&band_rank=6&Refer=top)<br />
-7. [北大教授称我国目前收入水平还是太低](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88%E7%A7%B0%E6%88%91%E5%9B%BD%E7%9B%AE%E5%89%8D%E6%94%B6%E5%85%A5%E6%B0%B4%E5%B9%B3%E8%BF%98%E6%98%AF%E5%A4%AA%E4%BD%8E%23&t=31&band_rank=7&Refer=top)<br />
-8. [去泰国尽量别用信用卡](https://s.weibo.com/weibo?q=%23%E5%8E%BB%E6%B3%B0%E5%9B%BD%E5%B0%BD%E9%87%8F%E5%88%AB%E7%94%A8%E4%BF%A1%E7%94%A8%E5%8D%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [黑莲花男主](https://s.weibo.com/weibo?q=%E9%BB%91%E8%8E%B2%E8%8A%B1%E7%94%B7%E4%B8%BB&t=31&band_rank=9&Refer=top)<br />
+7. [黑莲花男主](https://s.weibo.com/weibo?q=%E9%BB%91%E8%8E%B2%E8%8A%B1%E7%94%B7%E4%B8%BB&t=31&band_rank=7&Refer=top)<br />
+8. [北大教授称我国目前收入水平还是太低](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88%E7%A7%B0%E6%88%91%E5%9B%BD%E7%9B%AE%E5%89%8D%E6%94%B6%E5%85%A5%E6%B0%B4%E5%B9%B3%E8%BF%98%E6%98%AF%E5%A4%AA%E4%BD%8E%23&t=31&band_rank=8&Refer=top)<br />
+9. [去泰国尽量别用信用卡](https://s.weibo.com/weibo?q=%23%E5%8E%BB%E6%B3%B0%E5%9B%BD%E5%B0%BD%E9%87%8F%E5%88%AB%E7%94%A8%E4%BF%A1%E7%94%A8%E5%8D%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
