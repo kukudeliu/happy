@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 12:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 12:40:02</h4></div>
 
 > 微博  
 
 1. [医药代表称不敢进医院](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E8%8D%AF%E4%BB%A3%E8%A1%A8%E7%A7%B0%E4%B8%8D%E6%95%A2%E8%BF%9B%E5%8C%BB%E9%99%A2%23&t=31&band_rank=1&Refer=top)<br />
 2. [女儿不需要报销妈妈感慨自己没用了](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E4%B8%8D%E9%9C%80%E8%A6%81%E6%8A%A5%E9%94%80%E5%A6%88%E5%A6%88%E6%84%9F%E6%85%A8%E8%87%AA%E5%B7%B1%E6%B2%A1%E7%94%A8%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [立秋大运会闭幕秋分亚运会开幕](https://s.weibo.com/weibo?q=%23%E7%AB%8B%E7%A7%8B%E5%A4%A7%E8%BF%90%E4%BC%9A%E9%97%AD%E5%B9%95%E7%A7%8B%E5%88%86%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%23&t=31&band_rank=3&Refer=top)<br />
-4. [北京特大暴雨已致33人遇难](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%A8%E5%B7%B2%E8%87%B433%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=4&Refer=top)<br />
-5. [重案六组这编剧也太超前了](https://s.weibo.com/weibo?q=%E9%87%8D%E6%A1%88%E5%85%AD%E7%BB%84%E8%BF%99%E7%BC%96%E5%89%A7%E4%B9%9F%E5%A4%AA%E8%B6%85%E5%89%8D%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
+4. [重案六组这编剧也太超前了](https://s.weibo.com/weibo?q=%E9%87%8D%E6%A1%88%E5%85%AD%E7%BB%84%E8%BF%99%E7%BC%96%E5%89%A7%E4%B9%9F%E5%A4%AA%E8%B6%85%E5%89%8D%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
+5. [北京特大暴雨已致33人遇难](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%A8%E5%B7%B2%E8%87%B433%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=5&Refer=top)<br />
 6. [张晚意撞到柱子都变形](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%99%9A%E6%84%8F%E6%92%9E%E5%88%B0%E6%9F%B1%E5%AD%90%E9%83%BD%E5%8F%98%E5%BD%A2%23&t=31&band_rank=6&Refer=top)<br />
 7. [雷军写的代码](https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%86%99%E7%9A%84%E4%BB%A3%E7%A0%81%23&t=31&band_rank=7&Refer=top)<br />
 8. [花呗回应女子网购2百多却被扣款3千多](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%91%97%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E7%BD%91%E8%B4%AD2%E7%99%BE%E5%A4%9A%E5%8D%B4%E8%A2%AB%E6%89%A3%E6%AC%BE3%E5%8D%83%E5%A4%9A%23&t=31&band_rank=8&Refer=top)<br />
