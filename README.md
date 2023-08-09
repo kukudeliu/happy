@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 17:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 17:59:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [王濛被冻结股权445万](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BF%9B%E8%A2%AB%E5%86%BB%E7%BB%93%E8%82%A1%E6%9D%83445%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [黄晓明被蒋欣扇巴掌戏](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E8%A2%AB%E8%92%8B%E6%AC%A3%E6%89%87%E5%B7%B4%E6%8E%8C%E6%88%8F%23&t=31&band_rank=7&Refer=top)<br />
 8. [孟宴臣午睡](https://s.weibo.com/weibo?q=%E5%AD%9F%E5%AE%B4%E8%87%A3%E5%8D%88%E7%9D%A1&t=31&band_rank=8&Refer=top)<br />
-9. [终于知道蓝色口红都卖给谁了](https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E8%93%9D%E8%89%B2%E5%8F%A3%E7%BA%A2%E9%83%BD%E5%8D%96%E7%BB%99%E8%B0%81%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [舒兰因公牺牲副市长没记完的笔记](https://s.weibo.com/weibo?q=%23%E8%88%92%E5%85%B0%E5%9B%A0%E5%85%AC%E7%89%BA%E7%89%B2%E5%89%AF%E5%B8%82%E9%95%BF%E6%B2%A1%E8%AE%B0%E5%AE%8C%E7%9A%84%E7%AC%94%E8%AE%B0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
