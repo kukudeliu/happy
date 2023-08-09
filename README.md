@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 22:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 22:02:02</h4></div>
 
 > 微博  
 
 1. [李相夷剑断人亡](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%9B%B8%E5%A4%B7%E5%89%91%E6%96%AD%E4%BA%BA%E4%BA%A1%23&t=31&band_rank=1&Refer=top)<br />
-2. [北大教授称我国目前收入水平还是太低](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88%E7%A7%B0%E6%88%91%E5%9B%BD%E7%9B%AE%E5%89%8D%E6%94%B6%E5%85%A5%E6%B0%B4%E5%B9%B3%E8%BF%98%E6%98%AF%E5%A4%AA%E4%BD%8E%23&t=31&band_rank=2&Refer=top)<br />
+2. [一名殡葬专业学生的课表](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%90%8D%E6%AE%A1%E8%91%AC%E4%B8%93%E4%B8%9A%E5%AD%A6%E7%94%9F%E7%9A%84%E8%AF%BE%E8%A1%A8%23&t=31&band_rank=2&Refer=top)<br />
 3. [预拨10亿元对蓄滞洪区水毁损失予以补偿](https://s.weibo.com/weibo?q=%23%E9%A2%84%E6%8B%A810%E4%BA%BF%E5%85%83%E5%AF%B9%E8%93%84%E6%BB%9E%E6%B4%AA%E5%8C%BA%E6%B0%B4%E6%AF%81%E6%8D%9F%E5%A4%B1%E4%BA%88%E4%BB%A5%E8%A1%A5%E5%81%BF%23&t=31&band_rank=3&Refer=top)<br />
-4. [一名殡葬专业学生的课表](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%90%8D%E6%AE%A1%E8%91%AC%E4%B8%93%E4%B8%9A%E5%AD%A6%E7%94%9F%E7%9A%84%E8%AF%BE%E8%A1%A8%23&t=31&band_rank=4&Refer=top)<br />
+4. [北大教授称我国目前收入水平还是太低](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88%E7%A7%B0%E6%88%91%E5%9B%BD%E7%9B%AE%E5%89%8D%E6%94%B6%E5%85%A5%E6%B0%B4%E5%B9%B3%E8%BF%98%E6%98%AF%E5%A4%AA%E4%BD%8E%23&t=31&band_rank=4&Refer=top)<br />
 5. [莲花楼破万](https://s.weibo.com/weibo?q=%E8%8E%B2%E8%8A%B1%E6%A5%BC%E7%A0%B4%E4%B8%87&t=31&band_rank=5&Refer=top)<br />
 6. [中戏教授说王一博进步非常大](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%88%8F%E6%95%99%E6%8E%88%E8%AF%B4%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%BF%9B%E6%AD%A5%E9%9D%9E%E5%B8%B8%E5%A4%A7%23&t=31&band_rank=6&Refer=top)<br />
 7. [小夭扮回玟小六](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%A4%AD%E6%89%AE%E5%9B%9E%E7%8E%9F%E5%B0%8F%E5%85%AD%23&t=31&band_rank=7&Refer=top)<br />
