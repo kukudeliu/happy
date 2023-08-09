@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 23:51:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 23:52:02</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [房地产政策持续优化 释放哪些信号](https://www.baidu.com/s?wd=%E6%88%BF%E5%9C%B0%E4%BA%A7%E6%94%BF%E7%AD%96%E6%8C%81%E7%BB%AD%E4%BC%98%E5%8C%96+%E9%87%8A%E6%94%BE%E5%93%AA%E4%BA%9B%E4%BF%A1%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李相夷剑断人亡](https://www.baidu.com/s?wd=%E6%9D%8E%E7%9B%B8%E5%A4%B7%E5%89%91%E6%96%AD%E4%BA%BA%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [一名殡葬专业学生的课表](https://www.baidu.com/s?wd=%E4%B8%80%E5%90%8D%E6%AE%A1%E8%91%AC%E4%B8%93%E4%B8%9A%E5%AD%A6%E7%94%9F%E7%9A%84%E8%AF%BE%E8%A1%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [北大教授：目前收入水平还是太低](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88%EF%BC%9A%E7%9B%AE%E5%89%8D%E6%94%B6%E5%85%A5%E6%B0%B4%E5%B9%B3%E8%BF%98%E6%98%AF%E5%A4%AA%E4%BD%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [百余院长书记落马 反腐为何剑指医药](https://www.baidu.com/s?wd=%E7%99%BE%E4%BD%99%E9%99%A2%E9%95%BF%E4%B9%A6%E8%AE%B0%E8%90%BD%E9%A9%AC+%E5%8F%8D%E8%85%90%E4%B8%BA%E4%BD%95%E5%89%91%E6%8C%87%E5%8C%BB%E8%8D%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [百余院长书记落马 反腐为何剑指医药](https://www.baidu.com/s?wd=%E7%99%BE%E4%BD%99%E9%99%A2%E9%95%BF%E4%B9%A6%E8%AE%B0%E8%90%BD%E9%A9%AC+%E5%8F%8D%E8%85%90%E4%B8%BA%E4%BD%95%E5%89%91%E6%8C%87%E5%8C%BB%E8%8D%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [《莲花楼》热度破万](https://www.baidu.com/s?wd=%E3%80%8A%E8%8E%B2%E8%8A%B1%E6%A5%BC%E3%80%8B%E7%83%AD%E5%BA%A6%E7%A0%B4%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [房地产政策持续优化 释放哪些信号](https://www.baidu.com/s?wd=%E6%88%BF%E5%9C%B0%E4%BA%A7%E6%94%BF%E7%AD%96%E6%8C%81%E7%BB%AD%E4%BC%98%E5%8C%96+%E9%87%8A%E6%94%BE%E5%93%AA%E4%BA%9B%E4%BF%A1%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李相夷剑断人亡](https://www.baidu.com/s?wd=%E6%9D%8E%E7%9B%B8%E5%A4%B7%E5%89%91%E6%96%AD%E4%BA%BA%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [一名殡葬专业学生的课表](https://www.baidu.com/s?wd=%E4%B8%80%E5%90%8D%E6%AE%A1%E8%91%AC%E4%B8%93%E4%B8%9A%E5%AD%A6%E7%94%9F%E7%9A%84%E8%AF%BE%E8%A1%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [北大教授：目前收入水平还是太低](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88%EF%BC%9A%E7%9B%AE%E5%89%8D%E6%94%B6%E5%85%A5%E6%B0%B4%E5%B9%B3%E8%BF%98%E6%98%AF%E5%A4%AA%E4%BD%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [百余院长书记落马 反腐为何剑指医药](https://www.baidu.com/s?wd=%E7%99%BE%E4%BD%99%E9%99%A2%E9%95%BF%E4%B9%A6%E8%AE%B0%E8%90%BD%E9%A9%AC+%E5%8F%8D%E8%85%90%E4%B8%BA%E4%BD%95%E5%89%91%E6%8C%87%E5%8C%BB%E8%8D%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [百余院长书记落马 反腐为何剑指医药](https://www.baidu.com/s?wd=%E7%99%BE%E4%BD%99%E9%99%A2%E9%95%BF%E4%B9%A6%E8%AE%B0%E8%90%BD%E9%A9%AC+%E5%8F%8D%E8%85%90%E4%B8%BA%E4%BD%95%E5%89%91%E6%8C%87%E5%8C%BB%E8%8D%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [《莲花楼》热度破万](https://www.baidu.com/s?wd=%E3%80%8A%E8%8E%B2%E8%8A%B1%E6%A5%BC%E3%80%8B%E7%83%AD%E5%BA%A6%E7%A0%B4%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
