@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 11:37:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 11:38:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [马立奥综艺挨揍第一人](https://s.weibo.com/weibo?q=%E9%A9%AC%E7%AB%8B%E5%A5%A5%E7%BB%BC%E8%89%BA%E6%8C%A8%E6%8F%8D%E7%AC%AC%E4%B8%80%E4%BA%BA&t=31&band_rank=5&Refer=top)<br />
 6. [花呗回应女子网购2百多却被扣款3千多](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%91%97%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E7%BD%91%E8%B4%AD2%E7%99%BE%E5%A4%9A%E5%8D%B4%E8%A2%AB%E6%89%A3%E6%AC%BE3%E5%8D%83%E5%A4%9A%23&t=31&band_rank=6&Refer=top)<br />
 7. [起猛了看到杨紫魏大勋演夫妻](https://s.weibo.com/weibo?q=%23%E8%B5%B7%E7%8C%9B%E4%BA%86%E7%9C%8B%E5%88%B0%E6%9D%A8%E7%B4%AB%E9%AD%8F%E5%A4%A7%E5%8B%8B%E6%BC%94%E5%A4%AB%E5%A6%BB%23&t=31&band_rank=7&Refer=top)<br />
-8. [游客发现重庆一寺庙供奉日本邪神](https://s.weibo.com/weibo?q=%23%E6%B8%B8%E5%AE%A2%E5%8F%91%E7%8E%B0%E9%87%8D%E5%BA%86%E4%B8%80%E5%AF%BA%E5%BA%99%E4%BE%9B%E5%A5%89%E6%97%A5%E6%9C%AC%E9%82%AA%E7%A5%9E%23&t=31&band_rank=8&Refer=top)<br />
-9. [取消公摊是大势所趋吗](https://s.weibo.com/weibo?q=%23%E5%8F%96%E6%B6%88%E5%85%AC%E6%91%8A%E6%98%AF%E5%A4%A7%E5%8A%BF%E6%89%80%E8%B6%8B%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
+8. [取消公摊是大势所趋吗](https://s.weibo.com/weibo?q=%23%E5%8F%96%E6%B6%88%E5%85%AC%E6%91%8A%E6%98%AF%E5%A4%A7%E5%8A%BF%E6%89%80%E8%B6%8B%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
+9. [费翔专治恋爱脑](https://s.weibo.com/weibo?q=%23%E8%B4%B9%E7%BF%94%E4%B8%93%E6%B2%BB%E6%81%8B%E7%88%B1%E8%84%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
