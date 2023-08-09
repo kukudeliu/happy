@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 16:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 16:47:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [第一次见角色吃演员红利](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E8%A7%92%E8%89%B2%E5%90%83%E6%BC%94%E5%91%98%E7%BA%A2%E5%88%A9%23&t=31&band_rank=4&Refer=top)<br />
 5. [孟宴臣午睡](https://s.weibo.com/weibo?q=%E5%AD%9F%E5%AE%B4%E8%87%A3%E5%8D%88%E7%9D%A1&t=31&band_rank=5&Refer=top)<br />
 6. [7月广东新增报告115例猴痘病例](https://s.weibo.com/weibo?q=%237%E6%9C%88%E5%B9%BF%E4%B8%9C%E6%96%B0%E5%A2%9E%E6%8A%A5%E5%91%8A115%E4%BE%8B%E7%8C%B4%E7%97%98%E7%97%85%E4%BE%8B%23&t=31&band_rank=6&Refer=top)<br />
-7. [医药反腐](https://s.weibo.com/weibo?q=%E5%8C%BB%E8%8D%AF%E5%8F%8D%E8%85%90&t=31&band_rank=7&Refer=top)<br />
-8. [王楚然张晚意娇藏改名](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E7%84%B6%E5%BC%A0%E6%99%9A%E6%84%8F%E5%A8%87%E8%97%8F%E6%94%B9%E5%90%8D%23&t=31&band_rank=8&Refer=top)<br />
-9. [长相思三位男主的第一次](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D%E4%B8%89%E4%BD%8D%E7%94%B7%E4%B8%BB%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AC%A1%23&t=31&band_rank=9&Refer=top)<br />
+7. [王楚然张晚意娇藏改名](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E7%84%B6%E5%BC%A0%E6%99%9A%E6%84%8F%E5%A8%87%E8%97%8F%E6%94%B9%E5%90%8D%23&t=31&band_rank=7&Refer=top)<br />
+8. [医药反腐](https://s.weibo.com/weibo?q=%E5%8C%BB%E8%8D%AF%E5%8F%8D%E8%85%90&t=31&band_rank=8&Refer=top)<br />
+9. [拔掉57颗牙是什么样的体验](https://s.weibo.com/weibo?q=%23%E6%8B%94%E6%8E%8957%E9%A2%97%E7%89%99%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E4%BD%93%E9%AA%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
