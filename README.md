@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 12:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 12:49:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [北京特大暴雨已致33人遇难](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%A8%E5%B7%B2%E8%87%B433%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=6&Refer=top)<br />
 7. [雷军写的代码](https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%86%99%E7%9A%84%E4%BB%A3%E7%A0%81%23&t=31&band_rank=7&Refer=top)<br />
 8. [花呗回应女子网购2百多却被扣款3千多](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%91%97%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E7%BD%91%E8%B4%AD2%E7%99%BE%E5%A4%9A%E5%8D%B4%E8%A2%AB%E6%89%A3%E6%AC%BE3%E5%8D%83%E5%A4%9A%23&t=31&band_rank=8&Refer=top)<br />
-9. [马立奥综艺挨揍第一人](https://s.weibo.com/weibo?q=%E9%A9%AC%E7%AB%8B%E5%A5%A5%E7%BB%BC%E8%89%BA%E6%8C%A8%E6%8F%8D%E7%AC%AC%E4%B8%80%E4%BA%BA&t=31&band_rank=9&Refer=top)<br />
+9. [唐三为i做e](https://s.weibo.com/weibo?q=%23%E5%94%90%E4%B8%89%E4%B8%BAi%E5%81%9Ae%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,9 +22,9 @@
 3. [男孩留遗书跳楼案 班主任被认定无罪](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E7%95%99%E9%81%97%E4%B9%A6%E8%B7%B3%E6%A5%BC%E6%A1%88+%E7%8F%AD%E4%B8%BB%E4%BB%BB%E8%A2%AB%E8%AE%A4%E5%AE%9A%E6%97%A0%E7%BD%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [大运会难忘瞬间集锦](https://www.baidu.com/s?wd=%E5%A4%A7%E8%BF%90%E4%BC%9A%E9%9A%BE%E5%BF%98%E7%9E%AC%E9%97%B4%E9%9B%86%E9%94%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [医药代表：今年查特别严不敢进医院](https://www.baidu.com/s?wd=%E5%8C%BB%E8%8D%AF%E4%BB%A3%E8%A1%A8%EF%BC%9A%E4%BB%8A%E5%B9%B4%E6%9F%A5%E7%89%B9%E5%88%AB%E4%B8%A5%E4%B8%8D%E6%95%A2%E8%BF%9B%E5%8C%BB%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [游泳教练疑拍女生照片发表不当言论](https://www.baidu.com/s?wd=%E6%B8%B8%E6%B3%B3%E6%95%99%E7%BB%83%E7%96%91%E6%8B%8D%E5%A5%B3%E7%94%9F%E7%85%A7%E7%89%87%E5%8F%91%E8%A1%A8%E4%B8%8D%E5%BD%93%E8%A8%80%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [外国游客吐槽西湖矿泉水6元一瓶](https://www.baidu.com/s?wd=%E5%A4%96%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%90%90%E6%A7%BD%E8%A5%BF%E6%B9%96%E7%9F%BF%E6%B3%89%E6%B0%B46%E5%85%83%E4%B8%80%E7%93%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [北京特大暴雨33人死亡18人失踪](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%A833%E4%BA%BA%E6%AD%BB%E4%BA%A118%E4%BA%BA%E5%A4%B1%E8%B8%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [外国游客吐槽西湖矿泉水6元一瓶](https://www.baidu.com/s?wd=%E5%A4%96%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%90%90%E6%A7%BD%E8%A5%BF%E6%B9%96%E7%9F%BF%E6%B3%89%E6%B0%B46%E5%85%83%E4%B8%80%E7%93%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [游泳教练疑拍女生照片发表不当言论](https://www.baidu.com/s?wd=%E6%B8%B8%E6%B3%B3%E6%95%99%E7%BB%83%E7%96%91%E6%8B%8D%E5%A5%B3%E7%94%9F%E7%85%A7%E7%89%87%E5%8F%91%E8%A1%A8%E4%B8%8D%E5%BD%93%E8%A8%80%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [昆明车站外多条绿蛇在垃圾箱上爬行](https://www.baidu.com/s?wd=%E6%98%86%E6%98%8E%E8%BD%A6%E7%AB%99%E5%A4%96%E5%A4%9A%E6%9D%A1%E7%BB%BF%E8%9B%87%E5%9C%A8%E5%9E%83%E5%9C%BE%E7%AE%B1%E4%B8%8A%E7%88%AC%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [男孩留遗书跳楼案 班主任被认定无罪](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E7%95%99%E9%81%97%E4%B9%A6%E8%B7%B3%E6%A5%BC%E6%A1%88+%E7%8F%AD%E4%B8%BB%E4%BB%BB%E8%A2%AB%E8%AE%A4%E5%AE%9A%E6%97%A0%E7%BD%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [大运会难忘瞬间集锦](https://www.baidu.com/s?wd=%E5%A4%A7%E8%BF%90%E4%BC%9A%E9%9A%BE%E5%BF%98%E7%9E%AC%E9%97%B4%E9%9B%86%E9%94%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [医药代表：今年查特别严不敢进医院](https://www.baidu.com/s?wd=%E5%8C%BB%E8%8D%AF%E4%BB%A3%E8%A1%A8%EF%BC%9A%E4%BB%8A%E5%B9%B4%E6%9F%A5%E7%89%B9%E5%88%AB%E4%B8%A5%E4%B8%8D%E6%95%A2%E8%BF%9B%E5%8C%BB%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [游泳教练疑拍女生照片发表不当言论](https://www.baidu.com/s?wd=%E6%B8%B8%E6%B3%B3%E6%95%99%E7%BB%83%E7%96%91%E6%8B%8D%E5%A5%B3%E7%94%9F%E7%85%A7%E7%89%87%E5%8F%91%E8%A1%A8%E4%B8%8D%E5%BD%93%E8%A8%80%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [外国游客吐槽西湖矿泉水6元一瓶](https://www.baidu.com/s?wd=%E5%A4%96%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%90%90%E6%A7%BD%E8%A5%BF%E6%B9%96%E7%9F%BF%E6%B3%89%E6%B0%B46%E5%85%83%E4%B8%80%E7%93%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [北京特大暴雨33人死亡18人失踪](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%A833%E4%BA%BA%E6%AD%BB%E4%BA%A118%E4%BA%BA%E5%A4%B1%E8%B8%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [外国游客吐槽西湖矿泉水6元一瓶](https://www.baidu.com/s?wd=%E5%A4%96%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%90%90%E6%A7%BD%E8%A5%BF%E6%B9%96%E7%9F%BF%E6%B3%89%E6%B0%B46%E5%85%83%E4%B8%80%E7%93%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [游泳教练疑拍女生照片发表不当言论](https://www.baidu.com/s?wd=%E6%B8%B8%E6%B3%B3%E6%95%99%E7%BB%83%E7%96%91%E6%8B%8D%E5%A5%B3%E7%94%9F%E7%85%A7%E7%89%87%E5%8F%91%E8%A1%A8%E4%B8%8D%E5%BD%93%E8%A8%80%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [昆明车站外多条绿蛇在垃圾箱上爬行](https://www.baidu.com/s?wd=%E6%98%86%E6%98%8E%E8%BD%A6%E7%AB%99%E5%A4%96%E5%A4%9A%E6%9D%A1%E7%BB%BF%E8%9B%87%E5%9C%A8%E5%9E%83%E5%9C%BE%E7%AE%B1%E4%B8%8A%E7%88%AC%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
