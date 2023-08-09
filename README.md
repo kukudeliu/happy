@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 16:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 16:32:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [孟宴臣午睡](https://s.weibo.com/weibo?q=%E5%AD%9F%E5%AE%B4%E8%87%A3%E5%8D%88%E7%9D%A1&t=31&band_rank=4&Refer=top)<br />
 5. [王楚然张晚意娇藏改名](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E7%84%B6%E5%BC%A0%E6%99%9A%E6%84%8F%E5%A8%87%E8%97%8F%E6%94%B9%E5%90%8D%23&t=31&band_rank=5&Refer=top)<br />
 6. [医药反腐](https://s.weibo.com/weibo?q=%E5%8C%BB%E8%8D%AF%E5%8F%8D%E8%85%90&t=31&band_rank=6&Refer=top)<br />
-7. [7月广东新增报告115例猴痘病例](https://s.weibo.com/weibo?q=%237%E6%9C%88%E5%B9%BF%E4%B8%9C%E6%96%B0%E5%A2%9E%E6%8A%A5%E5%91%8A115%E4%BE%8B%E7%8C%B4%E7%97%98%E7%97%85%E4%BE%8B%23&t=31&band_rank=7&Refer=top)<br />
-8. [立秋大运会闭幕秋分亚运会开幕](https://s.weibo.com/weibo?q=%23%E7%AB%8B%E7%A7%8B%E5%A4%A7%E8%BF%90%E4%BC%9A%E9%97%AD%E5%B9%95%E7%A7%8B%E5%88%86%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%23&t=31&band_rank=8&Refer=top)<br />
+7. [第一次见角色吃演员红利](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E8%A7%92%E8%89%B2%E5%90%83%E6%BC%94%E5%91%98%E7%BA%A2%E5%88%A9%23&t=31&band_rank=7&Refer=top)<br />
+8. [7月广东新增报告115例猴痘病例](https://s.weibo.com/weibo?q=%237%E6%9C%88%E5%B9%BF%E4%B8%9C%E6%96%B0%E5%A2%9E%E6%8A%A5%E5%91%8A115%E4%BE%8B%E7%8C%B4%E7%97%98%E7%97%85%E4%BE%8B%23&t=31&band_rank=8&Refer=top)<br />
 9. [医院采购47万药医生回扣拿15万](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E9%87%87%E8%B4%AD47%E4%B8%87%E8%8D%AF%E5%8C%BB%E7%94%9F%E5%9B%9E%E6%89%A3%E6%8B%BF15%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
