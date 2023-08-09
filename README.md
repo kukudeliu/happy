@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-10 04:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-10 05:00:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [男子捡到超大野生菌一锅炖不下](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8D%A1%E5%88%B0%E8%B6%85%E5%A4%A7%E9%87%8E%E7%94%9F%E8%8F%8C%E4%B8%80%E9%94%85%E7%82%96%E4%B8%8D%E4%B8%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [李相夷剑断人亡](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%9B%B8%E5%A4%B7%E5%89%91%E6%96%AD%E4%BA%BA%E4%BA%A1%23&t=31&band_rank=7&Refer=top)<br />
 8. [爱奇艺10部热度值破万的剧集](https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA10%E9%83%A8%E7%83%AD%E5%BA%A6%E5%80%BC%E7%A0%B4%E4%B8%87%E7%9A%84%E5%89%A7%E9%9B%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [中央财政紧急预拨10亿元](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%A4%AE%E8%B4%A2%E6%94%BF%E7%B4%A7%E6%80%A5%E9%A2%84%E6%8B%A810%E4%BA%BF%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
+9. [怪不得耳鼻咽喉分在同一个科室](https://s.weibo.com/weibo?q=%E6%80%AA%E4%B8%8D%E5%BE%97%E8%80%B3%E9%BC%BB%E5%92%BD%E5%96%89%E5%88%86%E5%9C%A8%E5%90%8C%E4%B8%80%E4%B8%AA%E7%A7%91%E5%AE%A4&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
