@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 12:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 12:23:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [北京特大暴雨已致33人遇难](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%A8%E5%B7%B2%E8%87%B433%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=4&Refer=top)<br />
 5. [女儿不需要报销妈妈感慨自己没用了](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E4%B8%8D%E9%9C%80%E8%A6%81%E6%8A%A5%E9%94%80%E5%A6%88%E5%A6%88%E6%84%9F%E6%85%A8%E8%87%AA%E5%B7%B1%E6%B2%A1%E7%94%A8%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [花呗回应女子网购2百多却被扣款3千多](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%91%97%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E7%BD%91%E8%B4%AD2%E7%99%BE%E5%A4%9A%E5%8D%B4%E8%A2%AB%E6%89%A3%E6%AC%BE3%E5%8D%83%E5%A4%9A%23&t=31&band_rank=6&Refer=top)<br />
-7. [王俊凯新歌没标注唱片公司](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%96%B0%E6%AD%8C%E6%B2%A1%E6%A0%87%E6%B3%A8%E5%94%B1%E7%89%87%E5%85%AC%E5%8F%B8%23&t=31&band_rank=7&Refer=top)<br />
+7. [张晚意撞到柱子都变形](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%99%9A%E6%84%8F%E6%92%9E%E5%88%B0%E6%9F%B1%E5%AD%90%E9%83%BD%E5%8F%98%E5%BD%A2%23&t=31&band_rank=7&Refer=top)<br />
 8. [马立奥综艺挨揍第一人](https://s.weibo.com/weibo?q=%E9%A9%AC%E7%AB%8B%E5%A5%A5%E7%BB%BC%E8%89%BA%E6%8C%A8%E6%8F%8D%E7%AC%AC%E4%B8%80%E4%BA%BA&t=31&band_rank=8&Refer=top)<br />
-9. [张晚意撞到柱子都变形](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%99%9A%E6%84%8F%E6%92%9E%E5%88%B0%E6%9F%B1%E5%AD%90%E9%83%BD%E5%8F%98%E5%BD%A2%23&t=31&band_rank=9&Refer=top)<br />
+9. [雷军写的代码](https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%86%99%E7%9A%84%E4%BB%A3%E7%A0%81%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
