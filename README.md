@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 15:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 15:17:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [曺圭贤去打了九价疫苗](https://s.weibo.com/weibo?q=%E6%9B%BA%E5%9C%AD%E8%B4%A4%E5%8E%BB%E6%89%93%E4%BA%86%E4%B9%9D%E4%BB%B7%E7%96%AB%E8%8B%97&t=31&band_rank=6&Refer=top)<br />
 7. [倪妮白宇勾手吻](https://s.weibo.com/weibo?q=%23%E5%80%AA%E5%A6%AE%E7%99%BD%E5%AE%87%E5%8B%BE%E6%89%8B%E5%90%BB%23&t=31&band_rank=7&Refer=top)<br />
 8. [A股](https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=8&Refer=top)<br />
-9. [双胞胎暴雨中降生被起名定海神针](https://s.weibo.com/weibo?q=%23%E5%8F%8C%E8%83%9E%E8%83%8E%E6%9A%B4%E9%9B%A8%E4%B8%AD%E9%99%8D%E7%94%9F%E8%A2%AB%E8%B5%B7%E5%90%8D%E5%AE%9A%E6%B5%B7%E7%A5%9E%E9%92%88%23&t=31&band_rank=9&Refer=top)<br />
+9. [宋雨琦真的在舞台上发光](https://s.weibo.com/weibo?q=%E5%AE%8B%E9%9B%A8%E7%90%A6%E7%9C%9F%E7%9A%84%E5%9C%A8%E8%88%9E%E5%8F%B0%E4%B8%8A%E5%8F%91%E5%85%89&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
