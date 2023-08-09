@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 14:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 14:09:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [医药代表称不敢进医院](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E8%8D%AF%E4%BB%A3%E8%A1%A8%E7%A7%B0%E4%B8%8D%E6%95%A2%E8%BF%9B%E5%8C%BB%E9%99%A2%23&t=31&band_rank=5&Refer=top)<br />
 6. [王鹤棣 娇兰](https://s.weibo.com/weibo?q=%E7%8E%8B%E9%B9%A4%E6%A3%A3%20%E5%A8%87%E5%85%B0&t=31&band_rank=6&Refer=top)<br />
 7. [重案六组这编剧也太超前了](https://s.weibo.com/weibo?q=%E9%87%8D%E6%A1%88%E5%85%AD%E7%BB%84%E8%BF%99%E7%BC%96%E5%89%A7%E4%B9%9F%E5%A4%AA%E8%B6%85%E5%89%8D%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
-8. [邓为认证涂山璟是纯爱战狐](https://s.weibo.com/weibo?q=%23%E9%82%93%E4%B8%BA%E8%AE%A4%E8%AF%81%E6%B6%82%E5%B1%B1%E7%92%9F%E6%98%AF%E7%BA%AF%E7%88%B1%E6%88%98%E7%8B%90%23&t=31&band_rank=8&Refer=top)<br />
+8. [玱玹被作为禁毒警示案例](https://s.weibo.com/weibo?q=%23%E7%8E%B1%E7%8E%B9%E8%A2%AB%E4%BD%9C%E4%B8%BA%E7%A6%81%E6%AF%92%E8%AD%A6%E7%A4%BA%E6%A1%88%E4%BE%8B%23&t=31&band_rank=8&Refer=top)<br />
 9. [唐三为i做e](https://s.weibo.com/weibo?q=%23%E5%94%90%E4%B8%89%E4%B8%BAi%E5%81%9Ae%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
