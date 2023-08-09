@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-10 01:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-10 01:39:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [Jennie疑似与YG解约](https://s.weibo.com/weibo?q=%23Jennie%E7%96%91%E4%BC%BC%E4%B8%8EYG%E8%A7%A3%E7%BA%A6%23&t=31&band_rank=5&Refer=top)<br />
 6. [莲花楼破万](https://s.weibo.com/weibo?q=%E8%8E%B2%E8%8A%B1%E6%A5%BC%E7%A0%B4%E4%B8%87&t=31&band_rank=6&Refer=top)<br />
 7. [一名殡葬专业学生的课表](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%90%8D%E6%AE%A1%E8%91%AC%E4%B8%93%E4%B8%9A%E5%AD%A6%E7%94%9F%E7%9A%84%E8%AF%BE%E8%A1%A8%23&t=31&band_rank=7&Refer=top)<br />
-8. [韩男团中国线下签售cut](https://s.weibo.com/weibo?q=%E9%9F%A9%E7%94%B7%E5%9B%A2%E4%B8%AD%E5%9B%BD%E7%BA%BF%E4%B8%8B%E7%AD%BE%E5%94%AEcut&t=31&band_rank=8&Refer=top)<br />
+8. [爱奇艺10部热度值破万的剧集](https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA10%E9%83%A8%E7%83%AD%E5%BA%A6%E5%80%BC%E7%A0%B4%E4%B8%87%E7%9A%84%E5%89%A7%E9%9B%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [中央财政紧急预拨10亿元](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%A4%AE%E8%B4%A2%E6%94%BF%E7%B4%A7%E6%80%A5%E9%A2%84%E6%8B%A810%E4%BA%BF%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -24,8 +24,8 @@
 5. [保安大叔指导林志颖拍照](https://www.baidu.com/s?wd=%E4%BF%9D%E5%AE%89%E5%A4%A7%E5%8F%94%E6%8C%87%E5%AF%BC%E6%9E%97%E5%BF%97%E9%A2%96%E6%8B%8D%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [中国跌出泰国最大客源地](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%B7%8C%E5%87%BA%E6%B3%B0%E5%9B%BD%E6%9C%80%E5%A4%A7%E5%AE%A2%E6%BA%90%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李相夷剑断人亡](https://www.baidu.com/s?wd=%E6%9D%8E%E7%9B%B8%E5%A4%B7%E5%89%91%E6%96%AD%E4%BA%BA%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [医药板块因反腐市值蒸发超4500亿](https://www.baidu.com/s?wd=%E5%8C%BB%E8%8D%AF%E6%9D%BF%E5%9D%97%E5%9B%A0%E5%8F%8D%E8%85%90%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91%E8%B6%854500%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [吴艳妮霸气回应文身](https://www.baidu.com/s?wd=%E5%90%B4%E8%89%B3%E5%A6%AE%E9%9C%B8%E6%B0%94%E5%9B%9E%E5%BA%94%E6%96%87%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [吴艳妮霸气回应文身](https://www.baidu.com/s?wd=%E5%90%B4%E8%89%B3%E5%A6%AE%E9%9C%B8%E6%B0%94%E5%9B%9E%E5%BA%94%E6%96%87%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [孤注一掷导演：现实远比电影惨烈](https://www.baidu.com/s?wd=%E5%AD%A4%E6%B3%A8%E4%B8%80%E6%8E%B7%E5%AF%BC%E6%BC%94%EF%BC%9A%E7%8E%B0%E5%AE%9E%E8%BF%9C%E6%AF%94%E7%94%B5%E5%BD%B1%E6%83%A8%E7%83%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [保安大叔指导林志颖拍照](https://www.baidu.com/s?wd=%E4%BF%9D%E5%AE%89%E5%A4%A7%E5%8F%94%E6%8C%87%E5%AF%BC%E6%9E%97%E5%BF%97%E9%A2%96%E6%8B%8D%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [中国跌出泰国最大客源地](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%B7%8C%E5%87%BA%E6%B3%B0%E5%9B%BD%E6%9C%80%E5%A4%A7%E5%AE%A2%E6%BA%90%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李相夷剑断人亡](https://www.baidu.com/s?wd=%E6%9D%8E%E7%9B%B8%E5%A4%B7%E5%89%91%E6%96%AD%E4%BA%BA%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [医药板块因反腐市值蒸发超4500亿](https://www.baidu.com/s?wd=%E5%8C%BB%E8%8D%AF%E6%9D%BF%E5%9D%97%E5%9B%A0%E5%8F%8D%E8%85%90%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91%E8%B6%854500%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [吴艳妮霸气回应文身](https://www.baidu.com/s?wd=%E5%90%B4%E8%89%B3%E5%A6%AE%E9%9C%B8%E6%B0%94%E5%9B%9E%E5%BA%94%E6%96%87%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [吴艳妮霸气回应文身](https://www.baidu.com/s?wd=%E5%90%B4%E8%89%B3%E5%A6%AE%E9%9C%B8%E6%B0%94%E5%9B%9E%E5%BA%94%E6%96%87%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [孤注一掷导演：现实远比电影惨烈](https://www.baidu.com/s?wd=%E5%AD%A4%E6%B3%A8%E4%B8%80%E6%8E%B7%E5%AF%BC%E6%BC%94%EF%BC%9A%E7%8E%B0%E5%AE%9E%E8%BF%9C%E6%AF%94%E7%94%B5%E5%BD%B1%E6%83%A8%E7%83%88&sa=fyb_news&rsv_dl=fyb_news)<br />
