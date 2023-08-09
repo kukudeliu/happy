@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 12:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 12:37:01</h4></div>
 
 > 微博  
 
@@ -17,7 +17,7 @@
 
 > 百度  
 
-1. [成就梦想 感谢成都](https://www.baidu.com/s?wd=%E6%88%90%E5%B0%B1%E6%A2%A6%E6%83%B3+%E6%84%9F%E8%B0%A2%E6%88%90%E9%83%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [实干笃行](https://www.baidu.com/s?wd=%E5%AE%9E%E5%B9%B2%E7%AC%83%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [男孩留遗书跳楼案 班主任被认定无罪](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E7%95%99%E9%81%97%E4%B9%A6%E8%B7%B3%E6%A5%BC%E6%A1%88+%E7%8F%AD%E4%B8%BB%E4%BB%BB%E8%A2%AB%E8%AE%A4%E5%AE%9A%E6%97%A0%E7%BD%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [医药代表：今年查特别严不敢进医院](https://www.baidu.com/s?wd=%E5%8C%BB%E8%8D%AF%E4%BB%A3%E8%A1%A8%EF%BC%9A%E4%BB%8A%E5%B9%B4%E6%9F%A5%E7%89%B9%E5%88%AB%E4%B8%A5%E4%B8%8D%E6%95%A2%E8%BF%9B%E5%8C%BB%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [大运会难忘瞬间集锦](https://www.baidu.com/s?wd=%E5%A4%A7%E8%BF%90%E4%BC%9A%E9%9A%BE%E5%BF%98%E7%9E%AC%E9%97%B4%E9%9B%86%E9%94%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,7 +29,7 @@
 
 > 哔哩哔哩  
 
-1. [成就梦想 感谢成都](https://www.baidu.com/s?wd=%E6%88%90%E5%B0%B1%E6%A2%A6%E6%83%B3+%E6%84%9F%E8%B0%A2%E6%88%90%E9%83%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [实干笃行](https://www.baidu.com/s?wd=%E5%AE%9E%E5%B9%B2%E7%AC%83%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [男孩留遗书跳楼案 班主任被认定无罪](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E7%95%99%E9%81%97%E4%B9%A6%E8%B7%B3%E6%A5%BC%E6%A1%88+%E7%8F%AD%E4%B8%BB%E4%BB%BB%E8%A2%AB%E8%AE%A4%E5%AE%9A%E6%97%A0%E7%BD%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [医药代表：今年查特别严不敢进医院](https://www.baidu.com/s?wd=%E5%8C%BB%E8%8D%AF%E4%BB%A3%E8%A1%A8%EF%BC%9A%E4%BB%8A%E5%B9%B4%E6%9F%A5%E7%89%B9%E5%88%AB%E4%B8%A5%E4%B8%8D%E6%95%A2%E8%BF%9B%E5%8C%BB%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [大运会难忘瞬间集锦](https://www.baidu.com/s?wd=%E5%A4%A7%E8%BF%90%E4%BC%9A%E9%9A%BE%E5%BF%98%E7%9E%AC%E9%97%B4%E9%9B%86%E9%94%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
