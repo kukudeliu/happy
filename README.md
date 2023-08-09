@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 21:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 21:42:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [去泰国尽量别用信用卡](https://s.weibo.com/weibo?q=%23%E5%8E%BB%E6%B3%B0%E5%9B%BD%E5%B0%BD%E9%87%8F%E5%88%AB%E7%94%A8%E4%BF%A1%E7%94%A8%E5%8D%A1%23&t=31&band_rank=5&Refer=top)<br />
 6. [一名殡葬专业学生的课表](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%90%8D%E6%AE%A1%E8%91%AC%E4%B8%93%E4%B8%9A%E5%AD%A6%E7%94%9F%E7%9A%84%E8%AF%BE%E8%A1%A8%23&t=31&band_rank=6&Refer=top)<br />
 7. [小夭扮回玟小六](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%A4%AD%E6%89%AE%E5%9B%9E%E7%8E%9F%E5%B0%8F%E5%85%AD%23&t=31&band_rank=7&Refer=top)<br />
-8. [莲花楼结局](https://s.weibo.com/weibo?q=%E8%8E%B2%E8%8A%B1%E6%A5%BC%E7%BB%93%E5%B1%80&t=31&band_rank=8&Refer=top)<br />
-9. [中戏教授说王一博进步非常大](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%88%8F%E6%95%99%E6%8E%88%E8%AF%B4%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%BF%9B%E6%AD%A5%E9%9D%9E%E5%B8%B8%E5%A4%A7%23&t=31&band_rank=9&Refer=top)<br />
+8. [中戏教授说王一博进步非常大](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%88%8F%E6%95%99%E6%8E%88%E8%AF%B4%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%BF%9B%E6%AD%A5%E9%9D%9E%E5%B8%B8%E5%A4%A7%23&t=31&band_rank=8&Refer=top)<br />
+9. [莲花楼结局](https://s.weibo.com/weibo?q=%E8%8E%B2%E8%8A%B1%E6%A5%BC%E7%BB%93%E5%B1%80&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
