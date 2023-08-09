@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 12:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 12:58:02</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [曝奥运冠军涉嫌贪腐被带走调查](https://www.baidu.com/s?wd=%E6%9B%9D%E5%A5%A5%E8%BF%90%E5%86%A0%E5%86%9B%E6%B6%89%E5%AB%8C%E8%B4%AA%E8%85%90%E8%A2%AB%E5%B8%A6%E8%B5%B0%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [北京特大暴雨33人死亡18人失踪](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%A833%E4%BA%BA%E6%AD%BB%E4%BA%A118%E4%BA%BA%E5%A4%B1%E8%B8%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [游泳教练疑拍女生照片发表不当言论](https://www.baidu.com/s?wd=%E6%B8%B8%E6%B3%B3%E6%95%99%E7%BB%83%E7%96%91%E6%8B%8D%E5%A5%B3%E7%94%9F%E7%85%A7%E7%89%87%E5%8F%91%E8%A1%A8%E4%B8%8D%E5%BD%93%E8%A8%80%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [外国游客吐槽西湖矿泉水6元一瓶](https://www.baidu.com/s?wd=%E5%A4%96%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%90%90%E6%A7%BD%E8%A5%BF%E6%B9%96%E7%9F%BF%E6%B3%89%E6%B0%B46%E5%85%83%E4%B8%80%E7%93%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [小伙cosplay日本武士被轰出商场](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99cosplay%E6%97%A5%E6%9C%AC%E6%AD%A6%E5%A3%AB%E8%A2%AB%E8%BD%B0%E5%87%BA%E5%95%86%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [曝奥运冠军涉嫌贪腐被带走调查](https://www.baidu.com/s?wd=%E6%9B%9D%E5%A5%A5%E8%BF%90%E5%86%A0%E5%86%9B%E6%B6%89%E5%AB%8C%E8%B4%AA%E8%85%90%E8%A2%AB%E5%B8%A6%E8%B5%B0%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [北京特大暴雨33人死亡18人失踪](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%A833%E4%BA%BA%E6%AD%BB%E4%BA%A118%E4%BA%BA%E5%A4%B1%E8%B8%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [游泳教练疑拍女生照片发表不当言论](https://www.baidu.com/s?wd=%E6%B8%B8%E6%B3%B3%E6%95%99%E7%BB%83%E7%96%91%E6%8B%8D%E5%A5%B3%E7%94%9F%E7%85%A7%E7%89%87%E5%8F%91%E8%A1%A8%E4%B8%8D%E5%BD%93%E8%A8%80%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [外国游客吐槽西湖矿泉水6元一瓶](https://www.baidu.com/s?wd=%E5%A4%96%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%90%90%E6%A7%BD%E8%A5%BF%E6%B9%96%E7%9F%BF%E6%B3%89%E6%B0%B46%E5%85%83%E4%B8%80%E7%93%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [小伙cosplay日本武士被轰出商场](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99cosplay%E6%97%A5%E6%9C%AC%E6%AD%A6%E5%A3%AB%E8%A2%AB%E8%BD%B0%E5%87%BA%E5%95%86%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
