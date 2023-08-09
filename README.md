@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 22:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 23:00:01</h4></div>
 
 > 微博  
 
@@ -8,7 +8,7 @@
 4. [爱奇艺10部热度值破万的剧集](https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA10%E9%83%A8%E7%83%AD%E5%BA%A6%E5%80%BC%E7%A0%B4%E4%B8%87%E7%9A%84%E5%89%A7%E9%9B%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [李相夷剑断人亡](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%9B%B8%E5%A4%B7%E5%89%91%E6%96%AD%E4%BA%BA%E4%BA%A1%23&t=31&band_rank=5&Refer=top)<br />
 6. [Jennie疑似与YG解约](https://s.weibo.com/weibo?q=%23Jennie%E7%96%91%E4%BC%BC%E4%B8%8EYG%E8%A7%A3%E7%BA%A6%23&t=31&band_rank=6&Refer=top)<br />
-7. [中戏教授说王一博进步非常大](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%88%8F%E6%95%99%E6%8E%88%E8%AF%B4%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%BF%9B%E6%AD%A5%E9%9D%9E%E5%B8%B8%E5%A4%A7%23&t=31&band_rank=7&Refer=top)<br />
+7. [莲花楼破万](https://s.weibo.com/weibo?q=%E8%8E%B2%E8%8A%B1%E6%A5%BC%E7%A0%B4%E4%B8%87&t=31&band_rank=7&Refer=top)<br />
 8. [怪不得耳鼻咽喉分在同一个科室](https://s.weibo.com/weibo?q=%E6%80%AA%E4%B8%8D%E5%BE%97%E8%80%B3%E9%BC%BB%E5%92%BD%E5%96%89%E5%88%86%E5%9C%A8%E5%90%8C%E4%B8%80%E4%B8%AA%E7%A7%91%E5%AE%A4&t=31&band_rank=8&Refer=top)<br />
 9. [王濛被冻结股权445万](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BF%9B%E8%A2%AB%E5%86%BB%E7%BB%93%E8%82%A1%E6%9D%83445%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
 
