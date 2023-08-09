@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-10 07:56:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-10 07:57:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [男子捡到超大野生菌一锅炖不下](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8D%A1%E5%88%B0%E8%B6%85%E5%A4%A7%E9%87%8E%E7%94%9F%E8%8F%8C%E4%B8%80%E9%94%85%E7%82%96%E4%B8%8D%E4%B8%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [43岁女子当榜一大哥骗女主播66万](https://s.weibo.com/weibo?q=%2343%E5%B2%81%E5%A5%B3%E5%AD%90%E5%BD%93%E6%A6%9C%E4%B8%80%E5%A4%A7%E5%93%A5%E9%AA%97%E5%A5%B3%E4%B8%BB%E6%92%AD66%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [莲花楼结局是HE还是BE](https://s.weibo.com/weibo?q=%23%E8%8E%B2%E8%8A%B1%E6%A5%BC%E7%BB%93%E5%B1%80%E6%98%AFHE%E8%BF%98%E6%98%AFBE%23&t=31&band_rank=8&Refer=top)<br />
-9. [怪不得耳鼻咽喉分在同一个科室](https://s.weibo.com/weibo?q=%E6%80%AA%E4%B8%8D%E5%BE%97%E8%80%B3%E9%BC%BB%E5%92%BD%E5%96%89%E5%88%86%E5%9C%A8%E5%90%8C%E4%B8%80%E4%B8%AA%E7%A7%91%E5%AE%A4&t=31&band_rank=9&Refer=top)<br />
+9. [医疗反腐](https://s.weibo.com/weibo?q=%E5%8C%BB%E7%96%97%E5%8F%8D%E8%85%90&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
