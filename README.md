@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 14:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 14:39:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [倪妮白宇勾手吻](https://s.weibo.com/weibo?q=%23%E5%80%AA%E5%A6%AE%E7%99%BD%E5%AE%87%E5%8B%BE%E6%89%8B%E5%90%BB%23&t=31&band_rank=6&Refer=top)<br />
 7. [医药反腐](https://s.weibo.com/weibo?q=%E5%8C%BB%E8%8D%AF%E5%8F%8D%E8%85%90&t=31&band_rank=7&Refer=top)<br />
 8. [重案六组这编剧也太超前了](https://s.weibo.com/weibo?q=%E9%87%8D%E6%A1%88%E5%85%AD%E7%BB%84%E8%BF%99%E7%BC%96%E5%89%A7%E4%B9%9F%E5%A4%AA%E8%B6%85%E5%89%8D%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [医药代表称不敢进医院](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E8%8D%AF%E4%BB%A3%E8%A1%A8%E7%A7%B0%E4%B8%8D%E6%95%A2%E8%BF%9B%E5%8C%BB%E9%99%A2%23&t=31&band_rank=9&Refer=top)<br />
+9. [中国风终于吹到了国漫](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A3%8E%E7%BB%88%E4%BA%8E%E5%90%B9%E5%88%B0%E4%BA%86%E5%9B%BD%E6%BC%AB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -25,7 +25,7 @@
 6. [有药企一口气送4辆奔驰SUV给医院](https://www.baidu.com/s?wd=%E6%9C%89%E8%8D%AF%E4%BC%81%E4%B8%80%E5%8F%A3%E6%B0%94%E9%80%814%E8%BE%86%E5%A5%94%E9%A9%B0SUV%E7%BB%99%E5%8C%BB%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [四川雅安一河道涨水已致7人遇难](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E9%9B%85%E5%AE%89%E4%B8%80%E6%B2%B3%E9%81%93%E6%B6%A8%E6%B0%B4%E5%B7%B2%E8%87%B47%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [小伙cosplay日本武士被轰出商场](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99cosplay%E6%97%A5%E6%9C%AC%E6%AD%A6%E5%A3%AB%E8%A2%AB%E8%BD%B0%E5%87%BA%E5%95%86%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [武汉地铁12号线施工路段疑似下沉](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E5%9C%B0%E9%93%8112%E5%8F%B7%E7%BA%BF%E6%96%BD%E5%B7%A5%E8%B7%AF%E6%AE%B5%E7%96%91%E4%BC%BC%E4%B8%8B%E6%B2%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [被费翔的商务殷语洗脑了](https://www.baidu.com/s?wd=%E8%A2%AB%E8%B4%B9%E7%BF%94%E7%9A%84%E5%95%86%E5%8A%A1%E6%AE%B7%E8%AF%AD%E6%B4%97%E8%84%91%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [有药企一口气送4辆奔驰SUV给医院](https://www.baidu.com/s?wd=%E6%9C%89%E8%8D%AF%E4%BC%81%E4%B8%80%E5%8F%A3%E6%B0%94%E9%80%814%E8%BE%86%E5%A5%94%E9%A9%B0SUV%E7%BB%99%E5%8C%BB%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [四川雅安一河道涨水已致7人遇难](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E9%9B%85%E5%AE%89%E4%B8%80%E6%B2%B3%E9%81%93%E6%B6%A8%E6%B0%B4%E5%B7%B2%E8%87%B47%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [小伙cosplay日本武士被轰出商场](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99cosplay%E6%97%A5%E6%9C%AC%E6%AD%A6%E5%A3%AB%E8%A2%AB%E8%BD%B0%E5%87%BA%E5%95%86%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [武汉地铁12号线施工路段疑似下沉](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E5%9C%B0%E9%93%8112%E5%8F%B7%E7%BA%BF%E6%96%BD%E5%B7%A5%E8%B7%AF%E6%AE%B5%E7%96%91%E4%BC%BC%E4%B8%8B%E6%B2%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [被费翔的商务殷语洗脑了](https://www.baidu.com/s?wd=%E8%A2%AB%E8%B4%B9%E7%BF%94%E7%9A%84%E5%95%86%E5%8A%A1%E6%AE%B7%E8%AF%AD%E6%B4%97%E8%84%91%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
