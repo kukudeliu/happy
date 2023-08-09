@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 22:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 22:06:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [医药板块因反腐市值蒸发超4500亿](https://www.baidu.com/s?wd=%E5%8C%BB%E8%8D%AF%E6%9D%BF%E5%9D%97%E5%9B%A0%E5%8F%8D%E8%85%90%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91%E8%B6%854500%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [保安大叔指导林志颖拍照](https://www.baidu.com/s?wd=%E4%BF%9D%E5%AE%89%E5%A4%A7%E5%8F%94%E6%8C%87%E5%AF%BC%E6%9E%97%E5%BF%97%E9%A2%96%E6%8B%8D%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [多方回应女生拒买水果捞被骂小三](https://www.baidu.com/s?wd=%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%94%9F%E6%8B%92%E4%B9%B0%E6%B0%B4%E6%9E%9C%E6%8D%9E%E8%A2%AB%E9%AA%82%E5%B0%8F%E4%B8%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [胡锡进三问雅安网红打卡地7人遇难](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%E4%B8%89%E9%97%AE%E9%9B%85%E5%AE%89%E7%BD%91%E7%BA%A2%E6%89%93%E5%8D%A1%E5%9C%B07%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [拔掉57颗牙是什么体验](https://www.baidu.com/s?wd=%E6%8B%94%E6%8E%8957%E9%A2%97%E7%89%99%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [医药板块因反腐市值蒸发超4500亿](https://www.baidu.com/s?wd=%E5%8C%BB%E8%8D%AF%E6%9D%BF%E5%9D%97%E5%9B%A0%E5%8F%8D%E8%85%90%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91%E8%B6%854500%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [保安大叔指导林志颖拍照](https://www.baidu.com/s?wd=%E4%BF%9D%E5%AE%89%E5%A4%A7%E5%8F%94%E6%8C%87%E5%AF%BC%E6%9E%97%E5%BF%97%E9%A2%96%E6%8B%8D%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [多方回应女生拒买水果捞被骂小三](https://www.baidu.com/s?wd=%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%94%9F%E6%8B%92%E4%B9%B0%E6%B0%B4%E6%9E%9C%E6%8D%9E%E8%A2%AB%E9%AA%82%E5%B0%8F%E4%B8%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [胡锡进三问雅安网红打卡地7人遇难](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%E4%B8%89%E9%97%AE%E9%9B%85%E5%AE%89%E7%BD%91%E7%BA%A2%E6%89%93%E5%8D%A1%E5%9C%B07%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [拔掉57颗牙是什么体验](https://www.baidu.com/s?wd=%E6%8B%94%E6%8E%8957%E9%A2%97%E7%89%99%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
