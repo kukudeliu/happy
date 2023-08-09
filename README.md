@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 17:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 17:02:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [7月广东新增报告115例猴痘病例](https://s.weibo.com/weibo?q=%237%E6%9C%88%E5%B9%BF%E4%B8%9C%E6%96%B0%E5%A2%9E%E6%8A%A5%E5%91%8A115%E4%BE%8B%E7%8C%B4%E7%97%98%E7%97%85%E4%BE%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [王楚然张晚意娇藏改名](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E7%84%B6%E5%BC%A0%E6%99%9A%E6%84%8F%E5%A8%87%E8%97%8F%E6%94%B9%E5%90%8D%23&t=31&band_rank=7&Refer=top)<br />
 8. [拔掉57颗牙是什么样的体验](https://s.weibo.com/weibo?q=%23%E6%8B%94%E6%8E%8957%E9%A2%97%E7%89%99%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E4%BD%93%E9%AA%8C%23&t=31&band_rank=8&Refer=top)<br />
-9. [莲花楼](https://s.weibo.com/weibo?q=%E8%8E%B2%E8%8A%B1%E6%A5%BC&t=31&band_rank=9&Refer=top)<br />
+9. [毒贩一月连搬三次家被堵在电梯](https://s.weibo.com/weibo?q=%23%E6%AF%92%E8%B4%A9%E4%B8%80%E6%9C%88%E8%BF%9E%E6%90%AC%E4%B8%89%E6%AC%A1%E5%AE%B6%E8%A2%AB%E5%A0%B5%E5%9C%A8%E7%94%B5%E6%A2%AF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
