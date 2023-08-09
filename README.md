@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 11:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 11:13:02</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [洪水过后居家消毒要注意什么](https://s.weibo.com/weibo?q=%23%E6%B4%AA%E6%B0%B4%E8%BF%87%E5%90%8E%E5%B1%85%E5%AE%B6%E6%B6%88%E6%AF%92%E8%A6%81%E6%B3%A8%E6%84%8F%E4%BB%80%E4%B9%88%23&t=31&band_rank=3&Refer=top)<br />
 4. [游客发现重庆一寺庙供奉日本邪神](https://s.weibo.com/weibo?q=%23%E6%B8%B8%E5%AE%A2%E5%8F%91%E7%8E%B0%E9%87%8D%E5%BA%86%E4%B8%80%E5%AF%BA%E5%BA%99%E4%BE%9B%E5%A5%89%E6%97%A5%E6%9C%AC%E9%82%AA%E7%A5%9E%23&t=31&band_rank=4&Refer=top)<br />
 5. [花呗回应女子网购2百多却被扣款3千多](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%91%97%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E7%BD%91%E8%B4%AD2%E7%99%BE%E5%A4%9A%E5%8D%B4%E8%A2%AB%E6%89%A3%E6%AC%BE3%E5%8D%83%E5%A4%9A%23&t=31&band_rank=5&Refer=top)<br />
-6. [起猛了看到杨紫魏大勋演夫妻](https://s.weibo.com/weibo?q=%23%E8%B5%B7%E7%8C%9B%E4%BA%86%E7%9C%8B%E5%88%B0%E6%9D%A8%E7%B4%AB%E9%AD%8F%E5%A4%A7%E5%8B%8B%E6%BC%94%E5%A4%AB%E5%A6%BB%23&t=31&band_rank=6&Refer=top)<br />
-7. [医药代表称不敢进医院](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E8%8D%AF%E4%BB%A3%E8%A1%A8%E7%A7%B0%E4%B8%8D%E6%95%A2%E8%BF%9B%E5%8C%BB%E9%99%A2%23&t=31&band_rank=7&Refer=top)<br />
-8. [郑州也忍不住了](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E4%B9%9F%E5%BF%8D%E4%B8%8D%E4%BD%8F%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+6. [郑州也忍不住了](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E4%B9%9F%E5%BF%8D%E4%B8%8D%E4%BD%8F%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
+7. [起猛了看到杨紫魏大勋演夫妻](https://s.weibo.com/weibo?q=%23%E8%B5%B7%E7%8C%9B%E4%BA%86%E7%9C%8B%E5%88%B0%E6%9D%A8%E7%B4%AB%E9%AD%8F%E5%A4%A7%E5%8B%8B%E6%BC%94%E5%A4%AB%E5%A6%BB%23&t=31&band_rank=7&Refer=top)<br />
+8. [医药代表称不敢进医院](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E8%8D%AF%E4%BB%A3%E8%A1%A8%E7%A7%B0%E4%B8%8D%E6%95%A2%E8%BF%9B%E5%8C%BB%E9%99%A2%23&t=31&band_rank=8&Refer=top)<br />
 9. [取消公摊是大势所趋吗](https://s.weibo.com/weibo?q=%23%E5%8F%96%E6%B6%88%E5%85%AC%E6%91%8A%E6%98%AF%E5%A4%A7%E5%8A%BF%E6%89%80%E8%B6%8B%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
