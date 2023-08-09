@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 21:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 21:22:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [虞书欣凌妙妙造型](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%87%8C%E5%A6%99%E5%A6%99%E9%80%A0%E5%9E%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [骆旭东被追记个人一等功](https://s.weibo.com/weibo?q=%23%E9%AA%86%E6%97%AD%E4%B8%9C%E8%A2%AB%E8%BF%BD%E8%AE%B0%E4%B8%AA%E4%BA%BA%E4%B8%80%E7%AD%89%E5%8A%9F%23&t=31&band_rank=7&Refer=top)<br />
 8. [小夭扮回玟小六](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%A4%AD%E6%89%AE%E5%9B%9E%E7%8E%9F%E5%B0%8F%E5%85%AD%23&t=31&band_rank=8&Refer=top)<br />
-9. [刚出生一个月的小水獭有多萌](https://s.weibo.com/weibo?q=%E5%88%9A%E5%87%BA%E7%94%9F%E4%B8%80%E4%B8%AA%E6%9C%88%E7%9A%84%E5%B0%8F%E6%B0%B4%E7%8D%AD%E6%9C%89%E5%A4%9A%E8%90%8C&t=31&band_rank=9&Refer=top)<br />
+9. [一名殡葬专业学生的课表](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%90%8D%E6%AE%A1%E8%91%AC%E4%B8%93%E4%B8%9A%E5%AD%A6%E7%94%9F%E7%9A%84%E8%AF%BE%E8%A1%A8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
