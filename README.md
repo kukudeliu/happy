@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 18:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 18:53:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [虞书欣凌妙妙造型](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%87%8C%E5%A6%99%E5%A6%99%E9%80%A0%E5%9E%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [男子开新买的铲车帮村民清淤](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%BC%80%E6%96%B0%E4%B9%B0%E7%9A%84%E9%93%B2%E8%BD%A6%E5%B8%AE%E6%9D%91%E6%B0%91%E6%B8%85%E6%B7%A4%23&t=31&band_rank=7&Refer=top)<br />
 8. [王濛被冻结股权445万](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BF%9B%E8%A2%AB%E5%86%BB%E7%BB%93%E8%82%A1%E6%9D%83445%E4%B8%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [人被热死有多痛苦](https://s.weibo.com/weibo?q=%E4%BA%BA%E8%A2%AB%E7%83%AD%E6%AD%BB%E6%9C%89%E5%A4%9A%E7%97%9B%E8%8B%A6&t=31&band_rank=9&Refer=top)<br />
+9. [院长被抓后该院人均就医成本降1400元](https://s.weibo.com/weibo?q=%23%E9%99%A2%E9%95%BF%E8%A2%AB%E6%8A%93%E5%90%8E%E8%AF%A5%E9%99%A2%E4%BA%BA%E5%9D%87%E5%B0%B1%E5%8C%BB%E6%88%90%E6%9C%AC%E9%99%8D1400%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
