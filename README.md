@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 14:15:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 14:16:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [王鹤棣 娇兰](https://s.weibo.com/weibo?q=%E7%8E%8B%E9%B9%A4%E6%A3%A3%20%E5%A8%87%E5%85%B0&t=31&band_rank=5&Refer=top)<br />
 6. [医药代表称不敢进医院](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E8%8D%AF%E4%BB%A3%E8%A1%A8%E7%A7%B0%E4%B8%8D%E6%95%A2%E8%BF%9B%E5%8C%BB%E9%99%A2%23&t=31&band_rank=6&Refer=top)<br />
 7. [重案六组这编剧也太超前了](https://s.weibo.com/weibo?q=%E9%87%8D%E6%A1%88%E5%85%AD%E7%BB%84%E8%BF%99%E7%BC%96%E5%89%A7%E4%B9%9F%E5%A4%AA%E8%B6%85%E5%89%8D%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
-8. [黄晓明还是那个打字速度](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E8%BF%98%E6%98%AF%E9%82%A3%E4%B8%AA%E6%89%93%E5%AD%97%E9%80%9F%E5%BA%A6%23&t=31&band_rank=8&Refer=top)<br />
-9. [医药反腐](https://s.weibo.com/weibo?q=%E5%8C%BB%E8%8D%AF%E5%8F%8D%E8%85%90&t=31&band_rank=9&Refer=top)<br />
+8. [医药反腐](https://s.weibo.com/weibo?q=%E5%8C%BB%E8%8D%AF%E5%8F%8D%E8%85%90&t=31&band_rank=8&Refer=top)<br />
+9. [黄晓明还是那个打字速度](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E8%BF%98%E6%98%AF%E9%82%A3%E4%B8%AA%E6%89%93%E5%AD%97%E9%80%9F%E5%BA%A6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
