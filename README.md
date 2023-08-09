@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 14:52:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 14:53:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [倪妮白宇勾手吻](https://s.weibo.com/weibo?q=%23%E5%80%AA%E5%A6%AE%E7%99%BD%E5%AE%87%E5%8B%BE%E6%89%8B%E5%90%BB%23&t=31&band_rank=6&Refer=top)<br />
 7. [中国风终于吹到了国漫](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A3%8E%E7%BB%88%E4%BA%8E%E5%90%B9%E5%88%B0%E4%BA%86%E5%9B%BD%E6%BC%AB%23&t=31&band_rank=7&Refer=top)<br />
 8. [医药反腐](https://s.weibo.com/weibo?q=%E5%8C%BB%E8%8D%AF%E5%8F%8D%E8%85%90&t=31&band_rank=8&Refer=top)<br />
-9. [重案六组这编剧也太超前了](https://s.weibo.com/weibo?q=%E9%87%8D%E6%A1%88%E5%85%AD%E7%BB%84%E8%BF%99%E7%BC%96%E5%89%A7%E4%B9%9F%E5%A4%AA%E8%B6%85%E5%89%8D%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [宋雨琦真的在舞台上发光](https://s.weibo.com/weibo?q=%E5%AE%8B%E9%9B%A8%E7%90%A6%E7%9C%9F%E7%9A%84%E5%9C%A8%E8%88%9E%E5%8F%B0%E4%B8%8A%E5%8F%91%E5%85%89&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
