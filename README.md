@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 17:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 17:51:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [终于知道蓝色口红都卖给谁了](https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E8%93%9D%E8%89%B2%E5%8F%A3%E7%BA%A2%E9%83%BD%E5%8D%96%E7%BB%99%E8%B0%81%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [孟宴臣午睡](https://s.weibo.com/weibo?q=%E5%AD%9F%E5%AE%B4%E8%87%A3%E5%8D%88%E7%9D%A1&t=31&band_rank=7&Refer=top)<br />
 8. [舒兰因公牺牲副市长没记完的笔记](https://s.weibo.com/weibo?q=%23%E8%88%92%E5%85%B0%E5%9B%A0%E5%85%AC%E7%89%BA%E7%89%B2%E5%89%AF%E5%B8%82%E9%95%BF%E6%B2%A1%E8%AE%B0%E5%AE%8C%E7%9A%84%E7%AC%94%E8%AE%B0%23&t=31&band_rank=8&Refer=top)<br />
-9. [毒贩一月连搬三次家被堵在电梯](https://s.weibo.com/weibo?q=%23%E6%AF%92%E8%B4%A9%E4%B8%80%E6%9C%88%E8%BF%9E%E6%90%AC%E4%B8%89%E6%AC%A1%E5%AE%B6%E8%A2%AB%E5%A0%B5%E5%9C%A8%E7%94%B5%E6%A2%AF%23&t=31&band_rank=9&Refer=top)<br />
+9. [7月广东新增报告115例猴痘病例](https://s.weibo.com/weibo?q=%237%E6%9C%88%E5%B9%BF%E4%B8%9C%E6%96%B0%E5%A2%9E%E6%8A%A5%E5%91%8A115%E4%BE%8B%E7%8C%B4%E7%97%98%E7%97%85%E4%BE%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
