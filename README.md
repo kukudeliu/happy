@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 08:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 08:20:02</h4></div>
 
 > 微博  
 
@@ -23,9 +23,9 @@
 4. [怎样做好洪涝卫生灾害预防](https://www.baidu.com/s?wd=%E6%80%8E%E6%A0%B7%E5%81%9A%E5%A5%BD%E6%B4%AA%E6%B6%9D%E5%8D%AB%E7%94%9F%E7%81%BE%E5%AE%B3%E9%A2%84%E9%98%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [多地倒查“回扣” 有医院安高清监控](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%80%92%E6%9F%A5%E2%80%9C%E5%9B%9E%E6%89%A3%E2%80%9D+%E6%9C%89%E5%8C%BB%E9%99%A2%E5%AE%89%E9%AB%98%E6%B8%85%E7%9B%91%E6%8E%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [被洪水淹死的几百只羊有了归宿](https://www.baidu.com/s?wd=%E8%A2%AB%E6%B4%AA%E6%B0%B4%E6%B7%B9%E6%AD%BB%E7%9A%84%E5%87%A0%E7%99%BE%E5%8F%AA%E7%BE%8A%E6%9C%89%E4%BA%86%E5%BD%92%E5%AE%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [运动员吴艳妮因右臂纹身惹争议](https://www.baidu.com/s?wd=%E8%BF%90%E5%8A%A8%E5%91%98%E5%90%B4%E8%89%B3%E5%A6%AE%E5%9B%A0%E5%8F%B3%E8%87%82%E7%BA%B9%E8%BA%AB%E6%83%B9%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子2百多网购却被花呗扣款3千多](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%902%E7%99%BE%E5%A4%9A%E7%BD%91%E8%B4%AD%E5%8D%B4%E8%A2%AB%E8%8A%B1%E5%91%97%E6%89%A3%E6%AC%BE3%E5%8D%83%E5%A4%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [万茜说经常吃黄晓明家饭](https://www.baidu.com/s?wd=%E4%B8%87%E8%8C%9C%E8%AF%B4%E7%BB%8F%E5%B8%B8%E5%90%83%E9%BB%84%E6%99%93%E6%98%8E%E5%AE%B6%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子2百多网购却被花呗扣款3千多](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%902%E7%99%BE%E5%A4%9A%E7%BD%91%E8%B4%AD%E5%8D%B4%E8%A2%AB%E8%8A%B1%E5%91%97%E6%89%A3%E6%AC%BE3%E5%8D%83%E5%A4%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [运动员吴艳妮因右臂纹身惹争议](https://www.baidu.com/s?wd=%E8%BF%90%E5%8A%A8%E5%91%98%E5%90%B4%E8%89%B3%E5%A6%AE%E5%9B%A0%E5%8F%B3%E8%87%82%E7%BA%B9%E8%BA%AB%E6%83%B9%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [洪水退去男子蹚半米深淤泥回家](https://www.baidu.com/s?wd=%E6%B4%AA%E6%B0%B4%E9%80%80%E5%8E%BB%E7%94%B7%E5%AD%90%E8%B9%9A%E5%8D%8A%E7%B1%B3%E6%B7%B1%E6%B7%A4%E6%B3%A5%E5%9B%9E%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -35,6 +35,6 @@
 4. [怎样做好洪涝卫生灾害预防](https://www.baidu.com/s?wd=%E6%80%8E%E6%A0%B7%E5%81%9A%E5%A5%BD%E6%B4%AA%E6%B6%9D%E5%8D%AB%E7%94%9F%E7%81%BE%E5%AE%B3%E9%A2%84%E9%98%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [多地倒查“回扣” 有医院安高清监控](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%80%92%E6%9F%A5%E2%80%9C%E5%9B%9E%E6%89%A3%E2%80%9D+%E6%9C%89%E5%8C%BB%E9%99%A2%E5%AE%89%E9%AB%98%E6%B8%85%E7%9B%91%E6%8E%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [被洪水淹死的几百只羊有了归宿](https://www.baidu.com/s?wd=%E8%A2%AB%E6%B4%AA%E6%B0%B4%E6%B7%B9%E6%AD%BB%E7%9A%84%E5%87%A0%E7%99%BE%E5%8F%AA%E7%BE%8A%E6%9C%89%E4%BA%86%E5%BD%92%E5%AE%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [运动员吴艳妮因右臂纹身惹争议](https://www.baidu.com/s?wd=%E8%BF%90%E5%8A%A8%E5%91%98%E5%90%B4%E8%89%B3%E5%A6%AE%E5%9B%A0%E5%8F%B3%E8%87%82%E7%BA%B9%E8%BA%AB%E6%83%B9%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子2百多网购却被花呗扣款3千多](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%902%E7%99%BE%E5%A4%9A%E7%BD%91%E8%B4%AD%E5%8D%B4%E8%A2%AB%E8%8A%B1%E5%91%97%E6%89%A3%E6%AC%BE3%E5%8D%83%E5%A4%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [万茜说经常吃黄晓明家饭](https://www.baidu.com/s?wd=%E4%B8%87%E8%8C%9C%E8%AF%B4%E7%BB%8F%E5%B8%B8%E5%90%83%E9%BB%84%E6%99%93%E6%98%8E%E5%AE%B6%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子2百多网购却被花呗扣款3千多](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%902%E7%99%BE%E5%A4%9A%E7%BD%91%E8%B4%AD%E5%8D%B4%E8%A2%AB%E8%8A%B1%E5%91%97%E6%89%A3%E6%AC%BE3%E5%8D%83%E5%A4%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [运动员吴艳妮因右臂纹身惹争议](https://www.baidu.com/s?wd=%E8%BF%90%E5%8A%A8%E5%91%98%E5%90%B4%E8%89%B3%E5%A6%AE%E5%9B%A0%E5%8F%B3%E8%87%82%E7%BA%B9%E8%BA%AB%E6%83%B9%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [洪水退去男子蹚半米深淤泥回家](https://www.baidu.com/s?wd=%E6%B4%AA%E6%B0%B4%E9%80%80%E5%8E%BB%E7%94%B7%E5%AD%90%E8%B9%9A%E5%8D%8A%E7%B1%B3%E6%B7%B1%E6%B7%A4%E6%B3%A5%E5%9B%9E%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
