@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-10 01:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-10 01:43:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [莲花楼破万](https://s.weibo.com/weibo?q=%E8%8E%B2%E8%8A%B1%E6%A5%BC%E7%A0%B4%E4%B8%87&t=31&band_rank=6&Refer=top)<br />
 7. [Jennie疑似与YG解约](https://s.weibo.com/weibo?q=%23Jennie%E7%96%91%E4%BC%BC%E4%B8%8EYG%E8%A7%A3%E7%BA%A6%23&t=31&band_rank=7&Refer=top)<br />
 8. [爱奇艺10部热度值破万的剧集](https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA10%E9%83%A8%E7%83%AD%E5%BA%A6%E5%80%BC%E7%A0%B4%E4%B8%87%E7%9A%84%E5%89%A7%E9%9B%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [一名殡葬专业学生的课表](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%90%8D%E6%AE%A1%E8%91%AC%E4%B8%93%E4%B8%9A%E5%AD%A6%E7%94%9F%E7%9A%84%E8%AF%BE%E8%A1%A8%23&t=31&band_rank=9&Refer=top)<br />
+9. [四川山东两地凌晨地震](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%B1%B1%E4%B8%9C%E4%B8%A4%E5%9C%B0%E5%87%8C%E6%99%A8%E5%9C%B0%E9%9C%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
