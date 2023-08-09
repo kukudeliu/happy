@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 10:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 10:34:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [菏泽地震](https://www.baidu.com/s?wd=%E8%8F%8F%E6%B3%BD%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [重庆一寺庙疑供奉日本邪神](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E5%AF%BA%E5%BA%99%E7%96%91%E4%BE%9B%E5%A5%89%E6%97%A5%E6%9C%AC%E9%82%AA%E7%A5%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [外国游客吐槽西湖矿泉水6元一瓶](https://www.baidu.com/s?wd=%E5%A4%96%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%90%90%E6%A7%BD%E8%A5%BF%E6%B9%96%E7%9F%BF%E6%B3%89%E6%B0%B46%E5%85%83%E4%B8%80%E7%93%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [网购2百多却扣款3千多？花呗回应](https://www.baidu.com/s?wd=%E7%BD%91%E8%B4%AD2%E7%99%BE%E5%A4%9A%E5%8D%B4%E6%89%A3%E6%AC%BE3%E5%8D%83%E5%A4%9A%EF%BC%9F%E8%8A%B1%E5%91%97%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子醉驾逆行致5死1伤 警方通报](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%86%89%E9%A9%BE%E9%80%86%E8%A1%8C%E8%87%B45%E6%AD%BB1%E4%BC%A4+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [菏泽地震](https://www.baidu.com/s?wd=%E8%8F%8F%E6%B3%BD%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [重庆一寺庙疑供奉日本邪神](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E5%AF%BA%E5%BA%99%E7%96%91%E4%BE%9B%E5%A5%89%E6%97%A5%E6%9C%AC%E9%82%AA%E7%A5%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [外国游客吐槽西湖矿泉水6元一瓶](https://www.baidu.com/s?wd=%E5%A4%96%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%90%90%E6%A7%BD%E8%A5%BF%E6%B9%96%E7%9F%BF%E6%B3%89%E6%B0%B46%E5%85%83%E4%B8%80%E7%93%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [网购2百多却扣款3千多？花呗回应](https://www.baidu.com/s?wd=%E7%BD%91%E8%B4%AD2%E7%99%BE%E5%A4%9A%E5%8D%B4%E6%89%A3%E6%AC%BE3%E5%8D%83%E5%A4%9A%EF%BC%9F%E8%8A%B1%E5%91%97%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子醉驾逆行致5死1伤 警方通报](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%86%89%E9%A9%BE%E9%80%86%E8%A1%8C%E8%87%B45%E6%AD%BB1%E4%BC%A4+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
