@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 23:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 23:36:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [Jennie疑似与YG解约](https://s.weibo.com/weibo?q=%23Jennie%E7%96%91%E4%BC%BC%E4%B8%8EYG%E8%A7%A3%E7%BA%A6%23&t=31&band_rank=5&Refer=top)<br />
 6. [李相夷剑断人亡](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%9B%B8%E5%A4%B7%E5%89%91%E6%96%AD%E4%BA%BA%E4%BA%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [DK](https://s.weibo.com/weibo?q=DK&t=31&band_rank=7&Refer=top)<br />
-8. [曾舜晞跳queencard](https://s.weibo.com/weibo?q=%23%E6%9B%BE%E8%88%9C%E6%99%9E%E8%B7%B3queencard%23&t=31&band_rank=8&Refer=top)<br />
+8. [徐明浩 SEVENTEEN团综](https://s.weibo.com/weibo?q=%E5%BE%90%E6%98%8E%E6%B5%A9%20SEVENTEEN%E5%9B%A2%E7%BB%BC&t=31&band_rank=8&Refer=top)<br />
 9. [胡锡进 北京这场大暴雨超出认知](https://s.weibo.com/weibo?q=%E8%83%A1%E9%94%A1%E8%BF%9B%20%E5%8C%97%E4%BA%AC%E8%BF%99%E5%9C%BA%E5%A4%A7%E6%9A%B4%E9%9B%A8%E8%B6%85%E5%87%BA%E8%AE%A4%E7%9F%A5&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
