@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 22:15:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-09 22:16:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [爱奇艺10部热度值破万的剧集](https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA10%E9%83%A8%E7%83%AD%E5%BA%A6%E5%80%BC%E7%A0%B4%E4%B8%87%E7%9A%84%E5%89%A7%E9%9B%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [莲花楼破万](https://s.weibo.com/weibo?q=%E8%8E%B2%E8%8A%B1%E6%A5%BC%E7%A0%B4%E4%B8%87&t=31&band_rank=5&Refer=top)<br />
 6. [中戏教授说王一博进步非常大](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%88%8F%E6%95%99%E6%8E%88%E8%AF%B4%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%BF%9B%E6%AD%A5%E9%9D%9E%E5%B8%B8%E5%A4%A7%23&t=31&band_rank=6&Refer=top)<br />
-7. [小夭扮回玟小六](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%A4%AD%E6%89%AE%E5%9B%9E%E7%8E%9F%E5%B0%8F%E5%85%AD%23&t=31&band_rank=7&Refer=top)<br />
-8. [去泰国尽量别用信用卡](https://s.weibo.com/weibo?q=%23%E5%8E%BB%E6%B3%B0%E5%9B%BD%E5%B0%BD%E9%87%8F%E5%88%AB%E7%94%A8%E4%BF%A1%E7%94%A8%E5%8D%A1%23&t=31&band_rank=8&Refer=top)<br />
+7. [优酷 泼天的富贵](https://s.weibo.com/weibo?q=%E4%BC%98%E9%85%B7%20%E6%B3%BC%E5%A4%A9%E7%9A%84%E5%AF%8C%E8%B4%B5&t=31&band_rank=7&Refer=top)<br />
+8. [怪不得耳鼻咽喉分在同一个科室](https://s.weibo.com/weibo?q=%E6%80%AA%E4%B8%8D%E5%BE%97%E8%80%B3%E9%BC%BB%E5%92%BD%E5%96%89%E5%88%86%E5%9C%A8%E5%90%8C%E4%B8%80%E4%B8%AA%E7%A7%91%E5%AE%A4&t=31&band_rank=8&Refer=top)<br />
 9. [中央财政紧急预拨10亿元](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%A4%AE%E8%B4%A2%E6%94%BF%E7%B4%A7%E6%80%A5%E9%A2%84%E6%8B%A810%E4%BA%BF%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
