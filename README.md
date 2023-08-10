@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-10 21:25:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-10 21:26:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [长相思导演](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D%E5%AF%BC%E6%BC%94&t=31&band_rank=6&Refer=top)<br />
 7. [湖南一女子与镇干部水库游泳溺亡](https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E4%B8%80%E5%A5%B3%E5%AD%90%E4%B8%8E%E9%95%87%E5%B9%B2%E9%83%A8%E6%B0%B4%E5%BA%93%E6%B8%B8%E6%B3%B3%E6%BA%BA%E4%BA%A1%23&t=31&band_rank=7&Refer=top)<br />
 8. [刘星那是我姐](https://s.weibo.com/weibo?q=%23%E5%88%98%E6%98%9F%E9%82%A3%E6%98%AF%E6%88%91%E5%A7%90%23&t=31&band_rank=8&Refer=top)<br />
-9. [T1战胜KT](https://s.weibo.com/weibo?q=%23T1%E6%88%98%E8%83%9CKT%23&t=31&band_rank=9&Refer=top)<br />
+9. [我不是药神白血病少年饰演者成了捐髓者](https://s.weibo.com/weibo?q=%23%E6%88%91%E4%B8%8D%E6%98%AF%E8%8D%AF%E7%A5%9E%E7%99%BD%E8%A1%80%E7%97%85%E5%B0%91%E5%B9%B4%E9%A5%B0%E6%BC%94%E8%80%85%E6%88%90%E4%BA%86%E6%8D%90%E9%AB%93%E8%80%85%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
