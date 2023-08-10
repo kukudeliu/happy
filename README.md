@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-10 09:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-10 09:49:02</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [遭网红举报 杭州新东方全面停课](https://www.baidu.com/s?wd=%E9%81%AD%E7%BD%91%E7%BA%A2%E4%B8%BE%E6%8A%A5+%E6%9D%AD%E5%B7%9E%E6%96%B0%E4%B8%9C%E6%96%B9%E5%85%A8%E9%9D%A2%E5%81%9C%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [王传福哽咽落泪](https://www.baidu.com/s?wd=%E7%8E%8B%E4%BC%A0%E7%A6%8F%E5%93%BD%E5%92%BD%E8%90%BD%E6%B3%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [医生亲眼见到同学登上反腐通报](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E4%BA%B2%E7%9C%BC%E8%A7%81%E5%88%B0%E5%90%8C%E5%AD%A6%E7%99%BB%E4%B8%8A%E5%8F%8D%E8%85%90%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [美媒称月球上可能已存在生命](https://www.baidu.com/s?wd=%E7%BE%8E%E5%AA%92%E7%A7%B0%E6%9C%88%E7%90%83%E4%B8%8A%E5%8F%AF%E8%83%BD%E5%B7%B2%E5%AD%98%E5%9C%A8%E7%94%9F%E5%91%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [泰国王次子离开27年后突然高调回国](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E7%8E%8B%E6%AC%A1%E5%AD%90%E7%A6%BB%E5%BC%8027%E5%B9%B4%E5%90%8E%E7%AA%81%E7%84%B6%E9%AB%98%E8%B0%83%E5%9B%9E%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [遭网红举报 杭州新东方全面停课](https://www.baidu.com/s?wd=%E9%81%AD%E7%BD%91%E7%BA%A2%E4%B8%BE%E6%8A%A5+%E6%9D%AD%E5%B7%9E%E6%96%B0%E4%B8%9C%E6%96%B9%E5%85%A8%E9%9D%A2%E5%81%9C%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [王传福哽咽落泪](https://www.baidu.com/s?wd=%E7%8E%8B%E4%BC%A0%E7%A6%8F%E5%93%BD%E5%92%BD%E8%90%BD%E6%B3%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [医生亲眼见到同学登上反腐通报](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E4%BA%B2%E7%9C%BC%E8%A7%81%E5%88%B0%E5%90%8C%E5%AD%A6%E7%99%BB%E4%B8%8A%E5%8F%8D%E8%85%90%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [美媒称月球上可能已存在生命](https://www.baidu.com/s?wd=%E7%BE%8E%E5%AA%92%E7%A7%B0%E6%9C%88%E7%90%83%E4%B8%8A%E5%8F%AF%E8%83%BD%E5%B7%B2%E5%AD%98%E5%9C%A8%E7%94%9F%E5%91%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [泰国王次子离开27年后突然高调回国](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E7%8E%8B%E6%AC%A1%E5%AD%90%E7%A6%BB%E5%BC%8027%E5%B9%B4%E5%90%8E%E7%AA%81%E7%84%B6%E9%AB%98%E8%B0%83%E5%9B%9E%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
