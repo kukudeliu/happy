@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-10 11:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-10 11:05:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [李雪琴汪苏泷去了王鹤棣家炸串店](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%9B%AA%E7%90%B4%E6%B1%AA%E8%8B%8F%E6%B3%B7%E5%8E%BB%E4%BA%86%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%AE%B6%E7%82%B8%E4%B8%B2%E5%BA%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [唐嫣念无双妆造没有换](https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E5%BF%B5%E6%97%A0%E5%8F%8C%E5%A6%86%E9%80%A0%E6%B2%A1%E6%9C%89%E6%8D%A2%23&t=31&band_rank=7&Refer=top)<br />
 8. [EDG向TheShy道歉](https://s.weibo.com/weibo?q=%23EDG%E5%90%91TheShy%E9%81%93%E6%AD%89%23&t=31&band_rank=8&Refer=top)<br />
-9. [王者荣耀瑶](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E7%91%B6&t=31&band_rank=9&Refer=top)<br />
+9. [台风卡努](https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E%E5%8D%A1%E5%8A%AA&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
