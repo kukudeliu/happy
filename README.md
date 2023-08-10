@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-10 10:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-10 10:12:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [原来高铁有这么多冷知识](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E9%AB%98%E9%93%81%E6%9C%89%E8%BF%99%E4%B9%88%E5%A4%9A%E5%86%B7%E7%9F%A5%E8%AF%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [邓为直播自己抓造型调光](https://s.weibo.com/weibo?q=%23%E9%82%93%E4%B8%BA%E7%9B%B4%E6%92%AD%E8%87%AA%E5%B7%B1%E6%8A%93%E9%80%A0%E5%9E%8B%E8%B0%83%E5%85%89%23&t=31&band_rank=7&Refer=top)<br />
 8. [刚出月子的爱宝胖出双下巴](https://s.weibo.com/weibo?q=%23%E5%88%9A%E5%87%BA%E6%9C%88%E5%AD%90%E7%9A%84%E7%88%B1%E5%AE%9D%E8%83%96%E5%87%BA%E5%8F%8C%E4%B8%8B%E5%B7%B4%23&t=31&band_rank=8&Refer=top)<br />
-9. [中国跌出泰国最大客源地](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%B7%8C%E5%87%BA%E6%B3%B0%E5%9B%BD%E6%9C%80%E5%A4%A7%E5%AE%A2%E6%BA%90%E5%9C%B0%23&t=31&band_rank=9&Refer=top)<br />
+9. [台风卡努](https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E%E5%8D%A1%E5%8A%AA&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
