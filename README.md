@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-11 03:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-11 03:41:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [知情人：被抄家医生确被查 金额有误](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%EF%BC%9A%E8%A2%AB%E6%8A%84%E5%AE%B6%E5%8C%BB%E7%94%9F%E7%A1%AE%E8%A2%AB%E6%9F%A5+%E9%87%91%E9%A2%9D%E6%9C%89%E8%AF%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子用包占高铁公共座位 称对人过敏](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%94%A8%E5%8C%85%E5%8D%A0%E9%AB%98%E9%93%81%E5%85%AC%E5%85%B1%E5%BA%A7%E4%BD%8D+%E7%A7%B0%E5%AF%B9%E4%BA%BA%E8%BF%87%E6%95%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [北大教授：要让医务人员有体面收入](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88%EF%BC%9A%E8%A6%81%E8%AE%A9%E5%8C%BB%E5%8A%A1%E4%BA%BA%E5%91%98%E6%9C%89%E4%BD%93%E9%9D%A2%E6%94%B6%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [19岁男生送外卖撞车被家人骂去死](https://www.baidu.com/s?wd=19%E5%B2%81%E7%94%B7%E7%94%9F%E9%80%81%E5%A4%96%E5%8D%96%E6%92%9E%E8%BD%A6%E8%A2%AB%E5%AE%B6%E4%BA%BA%E9%AA%82%E5%8E%BB%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [《长相思》大虐名场面](https://www.baidu.com/s?wd=%E3%80%8A%E9%95%BF%E7%9B%B8%E6%80%9D%E3%80%8B%E5%A4%A7%E8%99%90%E5%90%8D%E5%9C%BA%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [《长相思》大虐名场面](https://www.baidu.com/s?wd=%E3%80%8A%E9%95%BF%E7%9B%B8%E6%80%9D%E3%80%8B%E5%A4%A7%E8%99%90%E5%90%8D%E5%9C%BA%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [19岁男生送外卖撞车被家人骂去死](https://www.baidu.com/s?wd=19%E5%B2%81%E7%94%B7%E7%94%9F%E9%80%81%E5%A4%96%E5%8D%96%E6%92%9E%E8%BD%A6%E8%A2%AB%E5%AE%B6%E4%BA%BA%E9%AA%82%E5%8E%BB%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [知情人：被抄家医生确被查 金额有误](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%EF%BC%9A%E8%A2%AB%E6%8A%84%E5%AE%B6%E5%8C%BB%E7%94%9F%E7%A1%AE%E8%A2%AB%E6%9F%A5+%E9%87%91%E9%A2%9D%E6%9C%89%E8%AF%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子用包占高铁公共座位 称对人过敏](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%94%A8%E5%8C%85%E5%8D%A0%E9%AB%98%E9%93%81%E5%85%AC%E5%85%B1%E5%BA%A7%E4%BD%8D+%E7%A7%B0%E5%AF%B9%E4%BA%BA%E8%BF%87%E6%95%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [北大教授：要让医务人员有体面收入](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88%EF%BC%9A%E8%A6%81%E8%AE%A9%E5%8C%BB%E5%8A%A1%E4%BA%BA%E5%91%98%E6%9C%89%E4%BD%93%E9%9D%A2%E6%94%B6%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [19岁男生送外卖撞车被家人骂去死](https://www.baidu.com/s?wd=19%E5%B2%81%E7%94%B7%E7%94%9F%E9%80%81%E5%A4%96%E5%8D%96%E6%92%9E%E8%BD%A6%E8%A2%AB%E5%AE%B6%E4%BA%BA%E9%AA%82%E5%8E%BB%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [《长相思》大虐名场面](https://www.baidu.com/s?wd=%E3%80%8A%E9%95%BF%E7%9B%B8%E6%80%9D%E3%80%8B%E5%A4%A7%E8%99%90%E5%90%8D%E5%9C%BA%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [《长相思》大虐名场面](https://www.baidu.com/s?wd=%E3%80%8A%E9%95%BF%E7%9B%B8%E6%80%9D%E3%80%8B%E5%A4%A7%E8%99%90%E5%90%8D%E5%9C%BA%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [19岁男生送外卖撞车被家人骂去死](https://www.baidu.com/s?wd=19%E5%B2%81%E7%94%B7%E7%94%9F%E9%80%81%E5%A4%96%E5%8D%96%E6%92%9E%E8%BD%A6%E8%A2%AB%E5%AE%B6%E4%BA%BA%E9%AA%82%E5%8E%BB%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
