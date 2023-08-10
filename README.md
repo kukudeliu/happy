@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-10 13:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-10 13:03:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [女孩因上学爱转笔设计出可以转的杯子](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%9B%A0%E4%B8%8A%E5%AD%A6%E7%88%B1%E8%BD%AC%E7%AC%94%E8%AE%BE%E8%AE%A1%E5%87%BA%E5%8F%AF%E4%BB%A5%E8%BD%AC%E7%9A%84%E6%9D%AF%E5%AD%90%23&t=31&band_rank=6&Refer=top)<br />
 7. [女子翻看去世爸爸手机后破防了](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%BF%BB%E7%9C%8B%E5%8E%BB%E4%B8%96%E7%88%B8%E7%88%B8%E6%89%8B%E6%9C%BA%E5%90%8E%E7%A0%B4%E9%98%B2%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [文旅部公布恢复出境团队游第3批名单](https://s.weibo.com/weibo?q=%23%E6%96%87%E6%97%85%E9%83%A8%E5%85%AC%E5%B8%83%E6%81%A2%E5%A4%8D%E5%87%BA%E5%A2%83%E5%9B%A2%E9%98%9F%E6%B8%B8%E7%AC%AC3%E6%89%B9%E5%90%8D%E5%8D%95%23&t=31&band_rank=8&Refer=top)<br />
-9. [长相思双生大片](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D%E5%8F%8C%E7%94%9F%E5%A4%A7%E7%89%87%23&t=31&band_rank=9&Refer=top)<br />
+9. [张艺兴电影吃马桶纸是真吃](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E7%94%B5%E5%BD%B1%E5%90%83%E9%A9%AC%E6%A1%B6%E7%BA%B8%E6%98%AF%E7%9C%9F%E5%90%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
