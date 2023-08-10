@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-10 10:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-10 10:42:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [EDG向TheShy道歉](https://s.weibo.com/weibo?q=%23EDG%E5%90%91TheShy%E9%81%93%E6%AD%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [王者荣耀瑶](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E7%91%B6&t=31&band_rank=7&Refer=top)<br />
 8. [唐嫣念无双妆造没有换](https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E5%BF%B5%E6%97%A0%E5%8F%8C%E5%A6%86%E9%80%A0%E6%B2%A1%E6%9C%89%E6%8D%A2%23&t=31&band_rank=8&Refer=top)<br />
-9. [吴京曾提到有演员因角色小而放弃封神](https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%AC%E6%9B%BE%E6%8F%90%E5%88%B0%E6%9C%89%E6%BC%94%E5%91%98%E5%9B%A0%E8%A7%92%E8%89%B2%E5%B0%8F%E8%80%8C%E6%94%BE%E5%BC%83%E5%B0%81%E7%A5%9E%23&t=31&band_rank=9&Refer=top)<br />
+9. [杭州新东方全面停课](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E6%96%B0%E4%B8%9C%E6%96%B9%E5%85%A8%E9%9D%A2%E5%81%9C%E8%AF%BE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
