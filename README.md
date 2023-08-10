@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-11 01:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-11 01:40:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [檀健次是懂缓解焦虑的](https://s.weibo.com/weibo?q=%E6%AA%80%E5%81%A5%E6%AC%A1%E6%98%AF%E6%87%82%E7%BC%93%E8%A7%A3%E7%84%A6%E8%99%91%E7%9A%84&t=31&band_rank=6&Refer=top)<br />
 7. [孙阳痞帅](https://s.weibo.com/weibo?q=%E5%AD%99%E9%98%B3%E7%97%9E%E5%B8%85&t=31&band_rank=7&Refer=top)<br />
 8. [玱玹激动得不会说话了](https://s.weibo.com/weibo?q=%E7%8E%B1%E7%8E%B9%E6%BF%80%E5%8A%A8%E5%BE%97%E4%B8%8D%E4%BC%9A%E8%AF%B4%E8%AF%9D%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [湖南一女子与镇干部水库游泳溺亡](https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E4%B8%80%E5%A5%B3%E5%AD%90%E4%B8%8E%E9%95%87%E5%B9%B2%E9%83%A8%E6%B0%B4%E5%BA%93%E6%B8%B8%E6%B3%B3%E6%BA%BA%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
+9. [尊嘟假嘟](https://s.weibo.com/weibo?q=%E5%B0%8A%E5%98%9F%E5%81%87%E5%98%9F&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
