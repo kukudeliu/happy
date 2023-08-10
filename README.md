@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-11 07:00:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-11 07:01:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [医院回应护士被质疑穿包臀裙](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E6%8A%A4%E5%A3%AB%E8%A2%AB%E8%B4%A8%E7%96%91%E7%A9%BF%E5%8C%85%E8%87%80%E8%A3%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [北大教授：要让医务人员有体面收入](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88%EF%BC%9A%E8%A6%81%E8%AE%A9%E5%8C%BB%E5%8A%A1%E4%BA%BA%E5%91%98%E6%9C%89%E4%BD%93%E9%9D%A2%E6%94%B6%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女子租房一年没扔过垃圾](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%9F%E6%88%BF%E4%B8%80%E5%B9%B4%E6%B2%A1%E6%89%94%E8%BF%87%E5%9E%83%E5%9C%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [莲花楼为什么火了](https://www.baidu.com/s?wd=%E8%8E%B2%E8%8A%B1%E6%A5%BC%E4%B8%BA%E4%BB%80%E4%B9%88%E7%81%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子翻看去世爸爸手机后破防了](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%BF%BB%E7%9C%8B%E5%8E%BB%E4%B8%96%E7%88%B8%E7%88%B8%E6%89%8B%E6%9C%BA%E5%90%8E%E7%A0%B4%E9%98%B2%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [医院回应护士被质疑穿包臀裙](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E6%8A%A4%E5%A3%AB%E8%A2%AB%E8%B4%A8%E7%96%91%E7%A9%BF%E5%8C%85%E8%87%80%E8%A3%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [北大教授：要让医务人员有体面收入](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88%EF%BC%9A%E8%A6%81%E8%AE%A9%E5%8C%BB%E5%8A%A1%E4%BA%BA%E5%91%98%E6%9C%89%E4%BD%93%E9%9D%A2%E6%94%B6%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女子租房一年没扔过垃圾](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%9F%E6%88%BF%E4%B8%80%E5%B9%B4%E6%B2%A1%E6%89%94%E8%BF%87%E5%9E%83%E5%9C%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [莲花楼为什么火了](https://www.baidu.com/s?wd=%E8%8E%B2%E8%8A%B1%E6%A5%BC%E4%B8%BA%E4%BB%80%E4%B9%88%E7%81%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子翻看去世爸爸手机后破防了](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%BF%BB%E7%9C%8B%E5%8E%BB%E4%B8%96%E7%88%B8%E7%88%B8%E6%89%8B%E6%9C%BA%E5%90%8E%E7%A0%B4%E9%98%B2%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
