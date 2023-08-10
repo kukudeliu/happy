@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-11 04:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-11 04:42:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [暴雨洪灾后个人防疫关注7个重点](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E6%B4%AA%E7%81%BE%E5%90%8E%E4%B8%AA%E4%BA%BA%E9%98%B2%E7%96%AB%E5%85%B3%E6%B3%A87%E4%B8%AA%E9%87%8D%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [知情人：被抄家医生确被查 金额有误](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%EF%BC%9A%E8%A2%AB%E6%8A%84%E5%AE%B6%E5%8C%BB%E7%94%9F%E7%A1%AE%E8%A2%AB%E6%9F%A5+%E9%87%91%E9%A2%9D%E6%9C%89%E8%AF%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子被诊断真两性畸形无法正常工作](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%AB%E8%AF%8A%E6%96%AD%E7%9C%9F%E4%B8%A4%E6%80%A7%E7%95%B8%E5%BD%A2%E6%97%A0%E6%B3%95%E6%AD%A3%E5%B8%B8%E5%B7%A5%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [医院反腐后有科室手术量明显下降](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%8F%8D%E8%85%90%E5%90%8E%E6%9C%89%E7%A7%91%E5%AE%A4%E6%89%8B%E6%9C%AF%E9%87%8F%E6%98%8E%E6%98%BE%E4%B8%8B%E9%99%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [电脑故障致百名学生未被录取](https://www.baidu.com/s?wd=%E7%94%B5%E8%84%91%E6%95%85%E9%9A%9C%E8%87%B4%E7%99%BE%E5%90%8D%E5%AD%A6%E7%94%9F%E6%9C%AA%E8%A2%AB%E5%BD%95%E5%8F%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [电脑故障致百名学生未被录取](https://www.baidu.com/s?wd=%E7%94%B5%E8%84%91%E6%95%85%E9%9A%9C%E8%87%B4%E7%99%BE%E5%90%8D%E5%AD%A6%E7%94%9F%E6%9C%AA%E8%A2%AB%E5%BD%95%E5%8F%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [北大教授：要让医务人员有体面收入](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88%EF%BC%9A%E8%A6%81%E8%AE%A9%E5%8C%BB%E5%8A%A1%E4%BA%BA%E5%91%98%E6%9C%89%E4%BD%93%E9%9D%A2%E6%94%B6%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [媒体：医疗如此腐败医疗费能不贵吗](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E5%8C%BB%E7%96%97%E5%A6%82%E6%AD%A4%E8%85%90%E8%B4%A5%E5%8C%BB%E7%96%97%E8%B4%B9%E8%83%BD%E4%B8%8D%E8%B4%B5%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [暴雨洪灾后个人防疫关注7个重点](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E6%B4%AA%E7%81%BE%E5%90%8E%E4%B8%AA%E4%BA%BA%E9%98%B2%E7%96%AB%E5%85%B3%E6%B3%A87%E4%B8%AA%E9%87%8D%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [知情人：被抄家医生确被查 金额有误](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%EF%BC%9A%E8%A2%AB%E6%8A%84%E5%AE%B6%E5%8C%BB%E7%94%9F%E7%A1%AE%E8%A2%AB%E6%9F%A5+%E9%87%91%E9%A2%9D%E6%9C%89%E8%AF%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子被诊断真两性畸形无法正常工作](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%AB%E8%AF%8A%E6%96%AD%E7%9C%9F%E4%B8%A4%E6%80%A7%E7%95%B8%E5%BD%A2%E6%97%A0%E6%B3%95%E6%AD%A3%E5%B8%B8%E5%B7%A5%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [医院反腐后有科室手术量明显下降](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%8F%8D%E8%85%90%E5%90%8E%E6%9C%89%E7%A7%91%E5%AE%A4%E6%89%8B%E6%9C%AF%E9%87%8F%E6%98%8E%E6%98%BE%E4%B8%8B%E9%99%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [电脑故障致百名学生未被录取](https://www.baidu.com/s?wd=%E7%94%B5%E8%84%91%E6%95%85%E9%9A%9C%E8%87%B4%E7%99%BE%E5%90%8D%E5%AD%A6%E7%94%9F%E6%9C%AA%E8%A2%AB%E5%BD%95%E5%8F%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [电脑故障致百名学生未被录取](https://www.baidu.com/s?wd=%E7%94%B5%E8%84%91%E6%95%85%E9%9A%9C%E8%87%B4%E7%99%BE%E5%90%8D%E5%AD%A6%E7%94%9F%E6%9C%AA%E8%A2%AB%E5%BD%95%E5%8F%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [北大教授：要让医务人员有体面收入](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88%EF%BC%9A%E8%A6%81%E8%AE%A9%E5%8C%BB%E5%8A%A1%E4%BA%BA%E5%91%98%E6%9C%89%E4%BD%93%E9%9D%A2%E6%94%B6%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [媒体：医疗如此腐败医疗费能不贵吗](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E5%8C%BB%E7%96%97%E5%A6%82%E6%AD%A4%E8%85%90%E8%B4%A5%E5%8C%BB%E7%96%97%E8%B4%B9%E8%83%BD%E4%B8%8D%E8%B4%B5%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
