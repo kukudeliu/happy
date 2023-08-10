@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-10 23:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-10 23:44:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [知情人：被抄家医生确被查 金额有误](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%EF%BC%9A%E8%A2%AB%E6%8A%84%E5%AE%B6%E5%8C%BB%E7%94%9F%E7%A1%AE%E8%A2%AB%E6%9F%A5+%E9%87%91%E9%A2%9D%E6%9C%89%E8%AF%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [医院回应护士被质疑穿包臀裙](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E6%8A%A4%E5%A3%AB%E8%A2%AB%E8%B4%A8%E7%96%91%E7%A9%BF%E5%8C%85%E8%87%80%E8%A3%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子租房一年没扔过垃圾](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%9F%E6%88%BF%E4%B8%80%E5%B9%B4%E6%B2%A1%E6%89%94%E8%BF%87%E5%9E%83%E5%9C%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子花12888元抢自助餐年卡](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B112888%E5%85%83%E6%8A%A2%E8%87%AA%E5%8A%A9%E9%A4%90%E5%B9%B4%E5%8D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [媒体：惊人的医疗回扣是怎样输送的](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E6%83%8A%E4%BA%BA%E7%9A%84%E5%8C%BB%E7%96%97%E5%9B%9E%E6%89%A3%E6%98%AF%E6%80%8E%E6%A0%B7%E8%BE%93%E9%80%81%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北大教授：要让医务人员有体面收入](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88%EF%BC%9A%E8%A6%81%E8%AE%A9%E5%8C%BB%E5%8A%A1%E4%BA%BA%E5%91%98%E6%9C%89%E4%BD%93%E9%9D%A2%E6%94%B6%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [知情人：被抄家医生确被查 金额有误](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%EF%BC%9A%E8%A2%AB%E6%8A%84%E5%AE%B6%E5%8C%BB%E7%94%9F%E7%A1%AE%E8%A2%AB%E6%9F%A5+%E9%87%91%E9%A2%9D%E6%9C%89%E8%AF%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [医院回应护士被质疑穿包臀裙](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E6%8A%A4%E5%A3%AB%E8%A2%AB%E8%B4%A8%E7%96%91%E7%A9%BF%E5%8C%85%E8%87%80%E8%A3%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子租房一年没扔过垃圾](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%9F%E6%88%BF%E4%B8%80%E5%B9%B4%E6%B2%A1%E6%89%94%E8%BF%87%E5%9E%83%E5%9C%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子花12888元抢自助餐年卡](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B112888%E5%85%83%E6%8A%A2%E8%87%AA%E5%8A%A9%E9%A4%90%E5%B9%B4%E5%8D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [媒体：惊人的医疗回扣是怎样输送的](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E6%83%8A%E4%BA%BA%E7%9A%84%E5%8C%BB%E7%96%97%E5%9B%9E%E6%89%A3%E6%98%AF%E6%80%8E%E6%A0%B7%E8%BE%93%E9%80%81%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北大教授：要让医务人员有体面收入](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88%EF%BC%9A%E8%A6%81%E8%AE%A9%E5%8C%BB%E5%8A%A1%E4%BA%BA%E5%91%98%E6%9C%89%E4%BD%93%E9%9D%A2%E6%94%B6%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
