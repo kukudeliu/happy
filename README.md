@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-10 21:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-10 21:47:01</h4></div>
 
 > 微博  
 
@@ -8,7 +8,7 @@
 4. [梅林殉情](https://s.weibo.com/weibo?q=%E6%A2%85%E6%9E%97%E6%AE%89%E6%83%85&t=31&band_rank=4&Refer=top)<br />
 5. [黄晓明喊话蒋欣真的不能再哭了](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E5%96%8A%E8%AF%9D%E8%92%8B%E6%AC%A3%E7%9C%9F%E7%9A%84%E4%B8%8D%E8%83%BD%E5%86%8D%E5%93%AD%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [长相思导演](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D%E5%AF%BC%E6%BC%94&t=31&band_rank=6&Refer=top)<br />
-7. [莲花楼为什么火了](https://s.weibo.com/weibo?q=%23%E8%8E%B2%E8%8A%B1%E6%A5%BC%E4%B8%BA%E4%BB%80%E4%B9%88%E7%81%AB%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+7. [尊嘟假嘟](https://s.weibo.com/weibo?q=%E5%B0%8A%E5%98%9F%E5%81%87%E5%98%9F&t=31&band_rank=7&Refer=top)<br />
 8. [建议梅林这一段换个BGM](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%A2%85%E6%9E%97%E8%BF%99%E4%B8%80%E6%AE%B5%E6%8D%A2%E4%B8%AABGM%23&t=31&band_rank=8&Refer=top)<br />
 9. [湖南一女子与镇干部水库游泳溺亡](https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E4%B8%80%E5%A5%B3%E5%AD%90%E4%B8%8E%E9%95%87%E5%B9%B2%E9%83%A8%E6%B0%B4%E5%BA%93%E6%B8%B8%E6%B3%B3%E6%BA%BA%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
 
