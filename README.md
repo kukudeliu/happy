@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-10 20:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-10 20:03:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [小夭身世初现](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%A4%AD%E8%BA%AB%E4%B8%96%E5%88%9D%E7%8E%B0%23&t=31&band_rank=6&Refer=top)<br />
 7. [湖南一女子与镇干部水库游泳溺亡](https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E4%B8%80%E5%A5%B3%E5%AD%90%E4%B8%8E%E9%95%87%E5%B9%B2%E9%83%A8%E6%B0%B4%E5%BA%93%E6%B8%B8%E6%B3%B3%E6%BA%BA%E4%BA%A1%23&t=31&band_rank=7&Refer=top)<br />
 8. [相柳你不要命了吗](https://s.weibo.com/weibo?q=%23%E7%9B%B8%E6%9F%B3%E4%BD%A0%E4%B8%8D%E8%A6%81%E5%91%BD%E4%BA%86%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [终于可以乘高铁去荔波了](https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E5%8F%AF%E4%BB%A5%E4%B9%98%E9%AB%98%E9%93%81%E5%8E%BB%E8%8D%94%E6%B3%A2%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [摩羯这个星座太苦了](https://s.weibo.com/weibo?q=%E6%91%A9%E7%BE%AF%E8%BF%99%E4%B8%AA%E6%98%9F%E5%BA%A7%E5%A4%AA%E8%8B%A6%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
