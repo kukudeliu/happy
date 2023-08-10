@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-10 20:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-10 20:11:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [小夭身世初现](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%A4%AD%E8%BA%AB%E4%B8%96%E5%88%9D%E7%8E%B0%23&t=31&band_rank=6&Refer=top)<br />
 7. [湖南一女子与镇干部水库游泳溺亡](https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E4%B8%80%E5%A5%B3%E5%AD%90%E4%B8%8E%E9%95%87%E5%B9%B2%E9%83%A8%E6%B0%B4%E5%BA%93%E6%B8%B8%E6%B3%B3%E6%BA%BA%E4%BA%A1%23&t=31&band_rank=7&Refer=top)<br />
 8. [相柳你不要命了吗](https://s.weibo.com/weibo?q=%23%E7%9B%B8%E6%9F%B3%E4%BD%A0%E4%B8%8D%E8%A6%81%E5%91%BD%E4%BA%86%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [莲花楼是古装探案悬疑剧](https://s.weibo.com/weibo?q=%E8%8E%B2%E8%8A%B1%E6%A5%BC%E6%98%AF%E5%8F%A4%E8%A3%85%E6%8E%A2%E6%A1%88%E6%82%AC%E7%96%91%E5%89%A7&t=31&band_rank=9&Refer=top)<br />
+9. [莲花楼为什么火了](https://s.weibo.com/weibo?q=%23%E8%8E%B2%E8%8A%B1%E6%A5%BC%E4%B8%BA%E4%BB%80%E4%B9%88%E7%81%AB%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
