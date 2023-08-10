@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-10 23:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-10 23:52:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [封神路演主持人道歉](https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E%E8%B7%AF%E6%BC%94%E4%B8%BB%E6%8C%81%E4%BA%BA%E9%81%93%E6%AD%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [长相思观众好卷](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D%E8%A7%82%E4%BC%97%E5%A5%BD%E5%8D%B7&t=31&band_rank=7&Refer=top)<br />
 8. [尊嘟假嘟](https://s.weibo.com/weibo?q=%E5%B0%8A%E5%98%9F%E5%81%87%E5%98%9F&t=31&band_rank=8&Refer=top)<br />
-9. [湖南一女子与镇干部水库游泳溺亡](https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E4%B8%80%E5%A5%B3%E5%AD%90%E4%B8%8E%E9%95%87%E5%B9%B2%E9%83%A8%E6%B0%B4%E5%BA%93%E6%B8%B8%E6%B3%B3%E6%BA%BA%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
+9. [jiejie](https://s.weibo.com/weibo?q=jiejie&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
