@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-11 05:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-11 05:44:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [医疗反腐进行时：药代集体隐身](https://www.baidu.com/s?wd=%E5%8C%BB%E7%96%97%E5%8F%8D%E8%85%90%E8%BF%9B%E8%A1%8C%E6%97%B6%EF%BC%9A%E8%8D%AF%E4%BB%A3%E9%9B%86%E4%BD%93%E9%9A%90%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [英伟达市值一夜蒸发3700亿元](https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%913700%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [体重280斤店员被殴打拒不还手](https://www.baidu.com/s?wd=%E4%BD%93%E9%87%8D280%E6%96%A4%E5%BA%97%E5%91%98%E8%A2%AB%E6%AE%B4%E6%89%93%E6%8B%92%E4%B8%8D%E8%BF%98%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [一棵树被雷连劈13次](https://www.baidu.com/s?wd=%E4%B8%80%E6%A3%B5%E6%A0%91%E8%A2%AB%E9%9B%B7%E8%BF%9E%E5%8A%8813%E6%AC%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [媒体：医疗如此腐败医疗费能不贵吗](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E5%8C%BB%E7%96%97%E5%A6%82%E6%AD%A4%E8%85%90%E8%B4%A5%E5%8C%BB%E7%96%97%E8%B4%B9%E8%83%BD%E4%B8%8D%E8%B4%B5%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [医疗反腐进行时：药代集体隐身](https://www.baidu.com/s?wd=%E5%8C%BB%E7%96%97%E5%8F%8D%E8%85%90%E8%BF%9B%E8%A1%8C%E6%97%B6%EF%BC%9A%E8%8D%AF%E4%BB%A3%E9%9B%86%E4%BD%93%E9%9A%90%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [英伟达市值一夜蒸发3700亿元](https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%913700%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [体重280斤店员被殴打拒不还手](https://www.baidu.com/s?wd=%E4%BD%93%E9%87%8D280%E6%96%A4%E5%BA%97%E5%91%98%E8%A2%AB%E6%AE%B4%E6%89%93%E6%8B%92%E4%B8%8D%E8%BF%98%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [一棵树被雷连劈13次](https://www.baidu.com/s?wd=%E4%B8%80%E6%A3%B5%E6%A0%91%E8%A2%AB%E9%9B%B7%E8%BF%9E%E5%8A%8813%E6%AC%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [媒体：医疗如此腐败医疗费能不贵吗](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E5%8C%BB%E7%96%97%E5%A6%82%E6%AD%A4%E8%85%90%E8%B4%A5%E5%8C%BB%E7%96%97%E8%B4%B9%E8%83%BD%E4%B8%8D%E8%B4%B5%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
