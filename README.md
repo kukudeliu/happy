@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-11 06:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-11 06:28:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [知情人：被抄家医生确被查 金额有误](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%EF%BC%9A%E8%A2%AB%E6%8A%84%E5%AE%B6%E5%8C%BB%E7%94%9F%E7%A1%AE%E8%A2%AB%E6%9F%A5+%E9%87%91%E9%A2%9D%E6%9C%89%E8%AF%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [医院回应护士被质疑穿包臀裙](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E6%8A%A4%E5%A3%AB%E8%A2%AB%E8%B4%A8%E7%96%91%E7%A9%BF%E5%8C%85%E8%87%80%E8%A3%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子翻看去世爸爸手机后破防了](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%BF%BB%E7%9C%8B%E5%8E%BB%E4%B8%96%E7%88%B8%E7%88%B8%E6%89%8B%E6%9C%BA%E5%90%8E%E7%A0%B4%E9%98%B2%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [镇干部与女子夜泳 女方溺亡后逃离](https://www.baidu.com/s?wd=%E9%95%87%E5%B9%B2%E9%83%A8%E4%B8%8E%E5%A5%B3%E5%AD%90%E5%A4%9C%E6%B3%B3+%E5%A5%B3%E6%96%B9%E6%BA%BA%E4%BA%A1%E5%90%8E%E9%80%83%E7%A6%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [19岁男生送外卖撞车被家人骂去死](https://www.baidu.com/s?wd=19%E5%B2%81%E7%94%B7%E7%94%9F%E9%80%81%E5%A4%96%E5%8D%96%E6%92%9E%E8%BD%A6%E8%A2%AB%E5%AE%B6%E4%BA%BA%E9%AA%82%E5%8E%BB%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [北大教授：要让医务人员有体面收入](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88%EF%BC%9A%E8%A6%81%E8%AE%A9%E5%8C%BB%E5%8A%A1%E4%BA%BA%E5%91%98%E6%9C%89%E4%BD%93%E9%9D%A2%E6%94%B6%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子花12888元抢自助餐年卡](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B112888%E5%85%83%E6%8A%A2%E8%87%AA%E5%8A%A9%E9%A4%90%E5%B9%B4%E5%8D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [知情人：被抄家医生确被查 金额有误](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%EF%BC%9A%E8%A2%AB%E6%8A%84%E5%AE%B6%E5%8C%BB%E7%94%9F%E7%A1%AE%E8%A2%AB%E6%9F%A5+%E9%87%91%E9%A2%9D%E6%9C%89%E8%AF%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [医院回应护士被质疑穿包臀裙](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E6%8A%A4%E5%A3%AB%E8%A2%AB%E8%B4%A8%E7%96%91%E7%A9%BF%E5%8C%85%E8%87%80%E8%A3%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子翻看去世爸爸手机后破防了](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%BF%BB%E7%9C%8B%E5%8E%BB%E4%B8%96%E7%88%B8%E7%88%B8%E6%89%8B%E6%9C%BA%E5%90%8E%E7%A0%B4%E9%98%B2%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [镇干部与女子夜泳 女方溺亡后逃离](https://www.baidu.com/s?wd=%E9%95%87%E5%B9%B2%E9%83%A8%E4%B8%8E%E5%A5%B3%E5%AD%90%E5%A4%9C%E6%B3%B3+%E5%A5%B3%E6%96%B9%E6%BA%BA%E4%BA%A1%E5%90%8E%E9%80%83%E7%A6%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [19岁男生送外卖撞车被家人骂去死](https://www.baidu.com/s?wd=19%E5%B2%81%E7%94%B7%E7%94%9F%E9%80%81%E5%A4%96%E5%8D%96%E6%92%9E%E8%BD%A6%E8%A2%AB%E5%AE%B6%E4%BA%BA%E9%AA%82%E5%8E%BB%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [北大教授：要让医务人员有体面收入](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88%EF%BC%9A%E8%A6%81%E8%AE%A9%E5%8C%BB%E5%8A%A1%E4%BA%BA%E5%91%98%E6%9C%89%E4%BD%93%E9%9D%A2%E6%94%B6%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子花12888元抢自助餐年卡](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B112888%E5%85%83%E6%8A%A2%E8%87%AA%E5%8A%A9%E9%A4%90%E5%B9%B4%E5%8D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
