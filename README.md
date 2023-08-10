@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-10 17:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-10 17:19:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [桐华说长相思不是悲剧](https://s.weibo.com/weibo?q=%23%E6%A1%90%E5%8D%8E%E8%AF%B4%E9%95%BF%E7%9B%B8%E6%80%9D%E4%B8%8D%E6%98%AF%E6%82%B2%E5%89%A7%23&t=31&band_rank=6&Refer=top)<br />
 7. [帕梅拉 练出完美天鹅臂](https://s.weibo.com/weibo?q=%E5%B8%95%E6%A2%85%E6%8B%89%20%E7%BB%83%E5%87%BA%E5%AE%8C%E7%BE%8E%E5%A4%A9%E9%B9%85%E8%87%82&t=31&band_rank=7&Refer=top)<br />
 8. [虞书欣丁禹兮永夜星河出妆路透](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E4%B8%81%E7%A6%B9%E5%85%AE%E6%B0%B8%E5%A4%9C%E6%98%9F%E6%B2%B3%E5%87%BA%E5%A6%86%E8%B7%AF%E9%80%8F%23&t=31&band_rank=8&Refer=top)<br />
-9. [邓为见面会](https://s.weibo.com/weibo?q=%E9%82%93%E4%B8%BA%E8%A7%81%E9%9D%A2%E4%BC%9A&t=31&band_rank=9&Refer=top)<br />
+9. [爸爸当家](https://s.weibo.com/weibo?q=%E7%88%B8%E7%88%B8%E5%BD%93%E5%AE%B6&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,10 +22,10 @@
 3. [媒体：医疗如此腐败医疗费能不贵吗](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E5%8C%BB%E7%96%97%E5%A6%82%E6%AD%A4%E8%85%90%E8%B4%A5%E5%8C%BB%E7%96%97%E8%B4%B9%E8%83%BD%E4%B8%8D%E8%B4%B5%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [青春永不散场](https://www.baidu.com/s?wd=%E9%9D%92%E6%98%A5%E6%B0%B8%E4%B8%8D%E6%95%A3%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子被诊断真两性畸形无法正常工作](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%AB%E8%AF%8A%E6%96%AD%E7%9C%9F%E4%B8%A4%E6%80%A7%E7%95%B8%E5%BD%A2%E6%97%A0%E6%B3%95%E6%AD%A3%E5%B8%B8%E5%B7%A5%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [多地监狱开通罪犯视频会见 收费不一](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E7%9B%91%E7%8B%B1%E5%BC%80%E9%80%9A%E7%BD%AA%E7%8A%AF%E8%A7%86%E9%A2%91%E4%BC%9A%E8%A7%81+%E6%94%B6%E8%B4%B9%E4%B8%8D%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [多地披露疫情防控资金审计结果](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E6%8A%AB%E9%9C%B2%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%E8%B5%84%E9%87%91%E5%AE%A1%E8%AE%A1%E7%BB%93%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [图书被掏空内藏鳉鱼鱼卵](https://www.baidu.com/s?wd=%E5%9B%BE%E4%B9%A6%E8%A2%AB%E6%8E%8F%E7%A9%BA%E5%86%85%E8%97%8F%E9%B3%89%E9%B1%BC%E9%B1%BC%E5%8D%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [新冠三阳的人开始陆续出现](https://www.baidu.com/s?wd=%E6%96%B0%E5%86%A0%E4%B8%89%E9%98%B3%E7%9A%84%E4%BA%BA%E5%BC%80%E5%A7%8B%E9%99%86%E7%BB%AD%E5%87%BA%E7%8E%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [男子cos日本武士被保安轰出商场](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90cos%E6%97%A5%E6%9C%AC%E6%AD%A6%E5%A3%AB%E8%A2%AB%E4%BF%9D%E5%AE%89%E8%BD%B0%E5%87%BA%E5%95%86%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [图书被掏空内藏鳉鱼鱼卵](https://www.baidu.com/s?wd=%E5%9B%BE%E4%B9%A6%E8%A2%AB%E6%8E%8F%E7%A9%BA%E5%86%85%E8%97%8F%E9%B3%89%E9%B1%BC%E9%B1%BC%E5%8D%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [多地监狱开通罪犯视频会见 收费不一](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E7%9B%91%E7%8B%B1%E5%BC%80%E9%80%9A%E7%BD%AA%E7%8A%AF%E8%A7%86%E9%A2%91%E4%BC%9A%E8%A7%81+%E6%94%B6%E8%B4%B9%E4%B8%8D%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [多地披露疫情防控资金审计结果](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E6%8A%AB%E9%9C%B2%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%E8%B5%84%E9%87%91%E5%AE%A1%E8%AE%A1%E7%BB%93%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -34,7 +34,7 @@
 3. [媒体：医疗如此腐败医疗费能不贵吗](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E5%8C%BB%E7%96%97%E5%A6%82%E6%AD%A4%E8%85%90%E8%B4%A5%E5%8C%BB%E7%96%97%E8%B4%B9%E8%83%BD%E4%B8%8D%E8%B4%B5%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [青春永不散场](https://www.baidu.com/s?wd=%E9%9D%92%E6%98%A5%E6%B0%B8%E4%B8%8D%E6%95%A3%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子被诊断真两性畸形无法正常工作](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%AB%E8%AF%8A%E6%96%AD%E7%9C%9F%E4%B8%A4%E6%80%A7%E7%95%B8%E5%BD%A2%E6%97%A0%E6%B3%95%E6%AD%A3%E5%B8%B8%E5%B7%A5%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [多地监狱开通罪犯视频会见 收费不一](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E7%9B%91%E7%8B%B1%E5%BC%80%E9%80%9A%E7%BD%AA%E7%8A%AF%E8%A7%86%E9%A2%91%E4%BC%9A%E8%A7%81+%E6%94%B6%E8%B4%B9%E4%B8%8D%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [多地披露疫情防控资金审计结果](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E6%8A%AB%E9%9C%B2%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%E8%B5%84%E9%87%91%E5%AE%A1%E8%AE%A1%E7%BB%93%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [图书被掏空内藏鳉鱼鱼卵](https://www.baidu.com/s?wd=%E5%9B%BE%E4%B9%A6%E8%A2%AB%E6%8E%8F%E7%A9%BA%E5%86%85%E8%97%8F%E9%B3%89%E9%B1%BC%E9%B1%BC%E5%8D%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [新冠三阳的人开始陆续出现](https://www.baidu.com/s?wd=%E6%96%B0%E5%86%A0%E4%B8%89%E9%98%B3%E7%9A%84%E4%BA%BA%E5%BC%80%E5%A7%8B%E9%99%86%E7%BB%AD%E5%87%BA%E7%8E%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [男子cos日本武士被保安轰出商场](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90cos%E6%97%A5%E6%9C%AC%E6%AD%A6%E5%A3%AB%E8%A2%AB%E4%BF%9D%E5%AE%89%E8%BD%B0%E5%87%BA%E5%95%86%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [图书被掏空内藏鳉鱼鱼卵](https://www.baidu.com/s?wd=%E5%9B%BE%E4%B9%A6%E8%A2%AB%E6%8E%8F%E7%A9%BA%E5%86%85%E8%97%8F%E9%B3%89%E9%B1%BC%E9%B1%BC%E5%8D%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [多地监狱开通罪犯视频会见 收费不一](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E7%9B%91%E7%8B%B1%E5%BC%80%E9%80%9A%E7%BD%AA%E7%8A%AF%E8%A7%86%E9%A2%91%E4%BC%9A%E8%A7%81+%E6%94%B6%E8%B4%B9%E4%B8%8D%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [多地披露疫情防控资金审计结果](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E6%8A%AB%E9%9C%B2%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%E8%B5%84%E9%87%91%E5%AE%A1%E8%AE%A1%E7%BB%93%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
