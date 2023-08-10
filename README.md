@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-10 10:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-10 10:34:01</h4></div>
 
 > 微博  
 
@@ -22,8 +22,8 @@
 3. [黑龙江尚志宣布全市停工停产三天](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%B0%9A%E5%BF%97%E5%AE%A3%E5%B8%83%E5%85%A8%E5%B8%82%E5%81%9C%E5%B7%A5%E5%81%9C%E4%BA%A7%E4%B8%89%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [汛中温情](https://www.baidu.com/s?wd=%E6%B1%9B%E4%B8%AD%E6%B8%A9%E6%83%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [9名医务人员联名举报科主任](https://www.baidu.com/s?wd=9%E5%90%8D%E5%8C%BB%E5%8A%A1%E4%BA%BA%E5%91%98%E8%81%94%E5%90%8D%E4%B8%BE%E6%8A%A5%E7%A7%91%E4%B8%BB%E4%BB%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男篮国手徐杰被痛斥渣男](https://www.baidu.com/s?wd=%E7%94%B7%E7%AF%AE%E5%9B%BD%E6%89%8B%E5%BE%90%E6%9D%B0%E8%A2%AB%E7%97%9B%E6%96%A5%E6%B8%A3%E7%94%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [吴京曾说有演员因角色小而放弃封神](https://www.baidu.com/s?wd=%E5%90%B4%E4%BA%AC%E6%9B%BE%E8%AF%B4%E6%9C%89%E6%BC%94%E5%91%98%E5%9B%A0%E8%A7%92%E8%89%B2%E5%B0%8F%E8%80%8C%E6%94%BE%E5%BC%83%E5%B0%81%E7%A5%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [吴京曾说有演员因角色小而放弃封神](https://www.baidu.com/s?wd=%E5%90%B4%E4%BA%AC%E6%9B%BE%E8%AF%B4%E6%9C%89%E6%BC%94%E5%91%98%E5%9B%A0%E8%A7%92%E8%89%B2%E5%B0%8F%E8%80%8C%E6%94%BE%E5%BC%83%E5%B0%81%E7%A5%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [CPI负增长 通缩要来了吗](https://www.baidu.com/s?wd=CPI%E8%B4%9F%E5%A2%9E%E9%95%BF+%E9%80%9A%E7%BC%A9%E8%A6%81%E6%9D%A5%E4%BA%86%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [遭网红举报 杭州新东方全面停课](https://www.baidu.com/s?wd=%E9%81%AD%E7%BD%91%E7%BA%A2%E4%B8%BE%E6%8A%A5+%E6%9D%AD%E5%B7%9E%E6%96%B0%E4%B8%9C%E6%96%B9%E5%85%A8%E9%9D%A2%E5%81%9C%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [黄晓明回应自己去油成功](https://www.baidu.com/s?wd=%E9%BB%84%E6%99%93%E6%98%8E%E5%9B%9E%E5%BA%94%E8%87%AA%E5%B7%B1%E5%8E%BB%E6%B2%B9%E6%88%90%E5%8A%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -34,7 +34,7 @@
 3. [黑龙江尚志宣布全市停工停产三天](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%B0%9A%E5%BF%97%E5%AE%A3%E5%B8%83%E5%85%A8%E5%B8%82%E5%81%9C%E5%B7%A5%E5%81%9C%E4%BA%A7%E4%B8%89%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [汛中温情](https://www.baidu.com/s?wd=%E6%B1%9B%E4%B8%AD%E6%B8%A9%E6%83%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [9名医务人员联名举报科主任](https://www.baidu.com/s?wd=9%E5%90%8D%E5%8C%BB%E5%8A%A1%E4%BA%BA%E5%91%98%E8%81%94%E5%90%8D%E4%B8%BE%E6%8A%A5%E7%A7%91%E4%B8%BB%E4%BB%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男篮国手徐杰被痛斥渣男](https://www.baidu.com/s?wd=%E7%94%B7%E7%AF%AE%E5%9B%BD%E6%89%8B%E5%BE%90%E6%9D%B0%E8%A2%AB%E7%97%9B%E6%96%A5%E6%B8%A3%E7%94%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [吴京曾说有演员因角色小而放弃封神](https://www.baidu.com/s?wd=%E5%90%B4%E4%BA%AC%E6%9B%BE%E8%AF%B4%E6%9C%89%E6%BC%94%E5%91%98%E5%9B%A0%E8%A7%92%E8%89%B2%E5%B0%8F%E8%80%8C%E6%94%BE%E5%BC%83%E5%B0%81%E7%A5%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [吴京曾说有演员因角色小而放弃封神](https://www.baidu.com/s?wd=%E5%90%B4%E4%BA%AC%E6%9B%BE%E8%AF%B4%E6%9C%89%E6%BC%94%E5%91%98%E5%9B%A0%E8%A7%92%E8%89%B2%E5%B0%8F%E8%80%8C%E6%94%BE%E5%BC%83%E5%B0%81%E7%A5%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [CPI负增长 通缩要来了吗](https://www.baidu.com/s?wd=CPI%E8%B4%9F%E5%A2%9E%E9%95%BF+%E9%80%9A%E7%BC%A9%E8%A6%81%E6%9D%A5%E4%BA%86%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [遭网红举报 杭州新东方全面停课](https://www.baidu.com/s?wd=%E9%81%AD%E7%BD%91%E7%BA%A2%E4%B8%BE%E6%8A%A5+%E6%9D%AD%E5%B7%9E%E6%96%B0%E4%B8%9C%E6%96%B9%E5%85%A8%E9%9D%A2%E5%81%9C%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [黄晓明回应自己去油成功](https://www.baidu.com/s?wd=%E9%BB%84%E6%99%93%E6%98%8E%E5%9B%9E%E5%BA%94%E8%87%AA%E5%B7%B1%E5%8E%BB%E6%B2%B9%E6%88%90%E5%8A%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
