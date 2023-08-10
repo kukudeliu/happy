@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-10 13:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-10 13:43:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [张艺兴电影吃马桶纸是真吃](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E7%94%B5%E5%BD%B1%E5%90%83%E9%A9%AC%E6%A1%B6%E7%BA%B8%E6%98%AF%E7%9C%9F%E5%90%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [杭州新东方全面停课](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E6%96%B0%E4%B8%9C%E6%96%B9%E5%85%A8%E9%9D%A2%E5%81%9C%E8%AF%BE%23&t=31&band_rank=7&Refer=top)<br />
 8. [女子翻看去世爸爸手机后破防了](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%BF%BB%E7%9C%8B%E5%8E%BB%E4%B8%96%E7%88%B8%E7%88%B8%E6%89%8B%E6%9C%BA%E5%90%8E%E7%A0%B4%E9%98%B2%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [文旅部公布恢复出境团队游第3批名单](https://s.weibo.com/weibo?q=%23%E6%96%87%E6%97%85%E9%83%A8%E5%85%AC%E5%B8%83%E6%81%A2%E5%A4%8D%E5%87%BA%E5%A2%83%E5%9B%A2%E9%98%9F%E6%B8%B8%E7%AC%AC3%E6%89%B9%E5%90%8D%E5%8D%95%23&t=31&band_rank=9&Refer=top)<br />
+9. [檀健次说选角期少不了流言蜚语](https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E8%AF%B4%E9%80%89%E8%A7%92%E6%9C%9F%E5%B0%91%E4%B8%8D%E4%BA%86%E6%B5%81%E8%A8%80%E8%9C%9A%E8%AF%AD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
