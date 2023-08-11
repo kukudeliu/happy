@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-12 01:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-12 01:09:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [调查显示医生月工资1600元起步](https://s.weibo.com/weibo?q=%23%E8%B0%83%E6%9F%A5%E6%98%BE%E7%A4%BA%E5%8C%BB%E7%94%9F%E6%9C%88%E5%B7%A5%E8%B5%841600%E5%85%83%E8%B5%B7%E6%AD%A5%23&t=31&band_rank=6&Refer=top)<br />
 7. [2023下半年待播剧](https://s.weibo.com/weibo?q=%232023%E4%B8%8B%E5%8D%8A%E5%B9%B4%E5%BE%85%E6%92%AD%E5%89%A7%23&t=31&band_rank=7&Refer=top)<br />
 8. [大爷高铁上戴耳机喝白酒全程安静](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%88%B7%E9%AB%98%E9%93%81%E4%B8%8A%E6%88%B4%E8%80%B3%E6%9C%BA%E5%96%9D%E7%99%BD%E9%85%92%E5%85%A8%E7%A8%8B%E5%AE%89%E9%9D%99%23&t=31&band_rank=8&Refer=top)<br />
-9. [跟射手座恋爱全凭运气](https://s.weibo.com/weibo?q=%E8%B7%9F%E5%B0%84%E6%89%8B%E5%BA%A7%E6%81%8B%E7%88%B1%E5%85%A8%E5%87%AD%E8%BF%90%E6%B0%94&t=31&band_rank=9&Refer=top)<br />
+9. [北理工宿舍分配统计mbti](https://s.weibo.com/weibo?q=%E5%8C%97%E7%90%86%E5%B7%A5%E5%AE%BF%E8%88%8D%E5%88%86%E9%85%8D%E7%BB%9F%E8%AE%A1mbti&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,10 +22,10 @@
 3. [乌所有征兵办公室负责人职务被解除](https://www.baidu.com/s?wd=%E4%B9%8C%E6%89%80%E6%9C%89%E5%BE%81%E5%85%B5%E5%8A%9E%E5%85%AC%E5%AE%A4%E8%B4%9F%E8%B4%A3%E4%BA%BA%E8%81%8C%E5%8A%A1%E8%A2%AB%E8%A7%A3%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [卫星瞰长三角一体化](https://www.baidu.com/s?wd=%E5%8D%AB%E6%98%9F%E7%9E%B0%E9%95%BF%E4%B8%89%E8%A7%92%E4%B8%80%E4%BD%93%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [率先出台新政的郑州 楼市怎么样了](https://www.baidu.com/s?wd=%E7%8E%87%E5%85%88%E5%87%BA%E5%8F%B0%E6%96%B0%E6%94%BF%E7%9A%84%E9%83%91%E5%B7%9E+%E6%A5%BC%E5%B8%82%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [多人因生产间谍器材被立案](https://www.baidu.com/s?wd=%E5%A4%9A%E4%BA%BA%E5%9B%A0%E7%94%9F%E4%BA%A7%E9%97%B4%E8%B0%8D%E5%99%A8%E6%9D%90%E8%A2%AB%E7%AB%8B%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [专家称促消费每月发5000元才有用](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E4%BF%83%E6%B6%88%E8%B4%B9%E6%AF%8F%E6%9C%88%E5%8F%915000%E5%85%83%E6%89%8D%E6%9C%89%E7%94%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [长沙一小区给业主发60万元现金](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E4%B8%80%E5%B0%8F%E5%8C%BA%E7%BB%99%E4%B8%9A%E4%B8%BB%E5%8F%9160%E4%B8%87%E5%85%83%E7%8E%B0%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [大爷高铁上戴耳机喝白酒全程安静](https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E9%AB%98%E9%93%81%E4%B8%8A%E6%88%B4%E8%80%B3%E6%9C%BA%E5%96%9D%E7%99%BD%E9%85%92%E5%85%A8%E7%A8%8B%E5%AE%89%E9%9D%99&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [小狗进地铁蹭空调被安保耐心劝离](https://www.baidu.com/s?wd=%E5%B0%8F%E7%8B%97%E8%BF%9B%E5%9C%B0%E9%93%81%E8%B9%AD%E7%A9%BA%E8%B0%83%E8%A2%AB%E5%AE%89%E4%BF%9D%E8%80%90%E5%BF%83%E5%8A%9D%E7%A6%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [大爷高铁上戴耳机喝白酒全程安静](https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E9%AB%98%E9%93%81%E4%B8%8A%E6%88%B4%E8%80%B3%E6%9C%BA%E5%96%9D%E7%99%BD%E9%85%92%E5%85%A8%E7%A8%8B%E5%AE%89%E9%9D%99&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [多人因生产间谍器材被立案](https://www.baidu.com/s?wd=%E5%A4%9A%E4%BA%BA%E5%9B%A0%E7%94%9F%E4%BA%A7%E9%97%B4%E8%B0%8D%E5%99%A8%E6%9D%90%E8%A2%AB%E7%AB%8B%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [专家称促消费每月发5000元才有用](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E4%BF%83%E6%B6%88%E8%B4%B9%E6%AF%8F%E6%9C%88%E5%8F%915000%E5%85%83%E6%89%8D%E6%9C%89%E7%94%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -34,7 +34,7 @@
 3. [乌所有征兵办公室负责人职务被解除](https://www.baidu.com/s?wd=%E4%B9%8C%E6%89%80%E6%9C%89%E5%BE%81%E5%85%B5%E5%8A%9E%E5%85%AC%E5%AE%A4%E8%B4%9F%E8%B4%A3%E4%BA%BA%E8%81%8C%E5%8A%A1%E8%A2%AB%E8%A7%A3%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [卫星瞰长三角一体化](https://www.baidu.com/s?wd=%E5%8D%AB%E6%98%9F%E7%9E%B0%E9%95%BF%E4%B8%89%E8%A7%92%E4%B8%80%E4%BD%93%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [率先出台新政的郑州 楼市怎么样了](https://www.baidu.com/s?wd=%E7%8E%87%E5%85%88%E5%87%BA%E5%8F%B0%E6%96%B0%E6%94%BF%E7%9A%84%E9%83%91%E5%B7%9E+%E6%A5%BC%E5%B8%82%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [多人因生产间谍器材被立案](https://www.baidu.com/s?wd=%E5%A4%9A%E4%BA%BA%E5%9B%A0%E7%94%9F%E4%BA%A7%E9%97%B4%E8%B0%8D%E5%99%A8%E6%9D%90%E8%A2%AB%E7%AB%8B%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [专家称促消费每月发5000元才有用](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E4%BF%83%E6%B6%88%E8%B4%B9%E6%AF%8F%E6%9C%88%E5%8F%915000%E5%85%83%E6%89%8D%E6%9C%89%E7%94%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [长沙一小区给业主发60万元现金](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E4%B8%80%E5%B0%8F%E5%8C%BA%E7%BB%99%E4%B8%9A%E4%B8%BB%E5%8F%9160%E4%B8%87%E5%85%83%E7%8E%B0%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [大爷高铁上戴耳机喝白酒全程安静](https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E9%AB%98%E9%93%81%E4%B8%8A%E6%88%B4%E8%80%B3%E6%9C%BA%E5%96%9D%E7%99%BD%E9%85%92%E5%85%A8%E7%A8%8B%E5%AE%89%E9%9D%99&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [小狗进地铁蹭空调被安保耐心劝离](https://www.baidu.com/s?wd=%E5%B0%8F%E7%8B%97%E8%BF%9B%E5%9C%B0%E9%93%81%E8%B9%AD%E7%A9%BA%E8%B0%83%E8%A2%AB%E5%AE%89%E4%BF%9D%E8%80%90%E5%BF%83%E5%8A%9D%E7%A6%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [大爷高铁上戴耳机喝白酒全程安静](https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E9%AB%98%E9%93%81%E4%B8%8A%E6%88%B4%E8%80%B3%E6%9C%BA%E5%96%9D%E7%99%BD%E9%85%92%E5%85%A8%E7%A8%8B%E5%AE%89%E9%9D%99&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [多人因生产间谍器材被立案](https://www.baidu.com/s?wd=%E5%A4%9A%E4%BA%BA%E5%9B%A0%E7%94%9F%E4%BA%A7%E9%97%B4%E8%B0%8D%E5%99%A8%E6%9D%90%E8%A2%AB%E7%AB%8B%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [专家称促消费每月发5000元才有用](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E4%BF%83%E6%B6%88%E8%B4%B9%E6%AF%8F%E6%9C%88%E5%8F%915000%E5%85%83%E6%89%8D%E6%9C%89%E7%94%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
