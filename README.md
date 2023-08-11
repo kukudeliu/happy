@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-12 03:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-12 03:05:02</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [黄健翔评日本女足：说实话我酸了](https://www.baidu.com/s?wd=%E9%BB%84%E5%81%A5%E7%BF%94%E8%AF%84%E6%97%A5%E6%9C%AC%E5%A5%B3%E8%B6%B3%EF%BC%9A%E8%AF%B4%E5%AE%9E%E8%AF%9D%E6%88%91%E9%85%B8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [华为上半年营收3109亿](https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E4%B8%8A%E5%8D%8A%E5%B9%B4%E8%90%A5%E6%94%B63109%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [公安部抓获2300余名行业内鬼](https://www.baidu.com/s?wd=%E5%85%AC%E5%AE%89%E9%83%A8%E6%8A%93%E8%8E%B72300%E4%BD%99%E5%90%8D%E8%A1%8C%E4%B8%9A%E5%86%85%E9%AC%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女网红开车送货遇害 凶手被判死刑](https://www.baidu.com/s?wd=%E5%A5%B3%E7%BD%91%E7%BA%A2%E5%BC%80%E8%BD%A6%E9%80%81%E8%B4%A7%E9%81%87%E5%AE%B3+%E5%87%B6%E6%89%8B%E8%A2%AB%E5%88%A4%E6%AD%BB%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [黑龙江一湖水变绿似菠菜汁](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%80%E6%B9%96%E6%B0%B4%E5%8F%98%E7%BB%BF%E4%BC%BC%E8%8F%A0%E8%8F%9C%E6%B1%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [黄健翔评日本女足：说实话我酸了](https://www.baidu.com/s?wd=%E9%BB%84%E5%81%A5%E7%BF%94%E8%AF%84%E6%97%A5%E6%9C%AC%E5%A5%B3%E8%B6%B3%EF%BC%9A%E8%AF%B4%E5%AE%9E%E8%AF%9D%E6%88%91%E9%85%B8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [华为上半年营收3109亿](https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E4%B8%8A%E5%8D%8A%E5%B9%B4%E8%90%A5%E6%94%B63109%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [公安部抓获2300余名行业内鬼](https://www.baidu.com/s?wd=%E5%85%AC%E5%AE%89%E9%83%A8%E6%8A%93%E8%8E%B72300%E4%BD%99%E5%90%8D%E8%A1%8C%E4%B8%9A%E5%86%85%E9%AC%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女网红开车送货遇害 凶手被判死刑](https://www.baidu.com/s?wd=%E5%A5%B3%E7%BD%91%E7%BA%A2%E5%BC%80%E8%BD%A6%E9%80%81%E8%B4%A7%E9%81%87%E5%AE%B3+%E5%87%B6%E6%89%8B%E8%A2%AB%E5%88%A4%E6%AD%BB%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [黑龙江一湖水变绿似菠菜汁](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%80%E6%B9%96%E6%B0%B4%E5%8F%98%E7%BB%BF%E4%BC%BC%E8%8F%A0%E8%8F%9C%E6%B1%81&sa=fyb_news&rsv_dl=fyb_news)<br />
