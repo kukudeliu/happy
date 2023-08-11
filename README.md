@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-11 16:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-11 16:05:01</h4></div>
 
 > 微博  
 
@@ -17,10 +17,10 @@
 
 > 百度  
 
-1. [共同倡导加强国际人文交流合作](https://www.baidu.com/s?wd=%E5%85%B1%E5%90%8C%E5%80%A1%E5%AF%BC%E5%8A%A0%E5%BC%BA%E5%9B%BD%E9%99%85%E4%BA%BA%E6%96%87%E4%BA%A4%E6%B5%81%E5%90%88%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [风起东方日日新](https://www.baidu.com/s?wd=%E9%A3%8E%E8%B5%B7%E4%B8%9C%E6%96%B9%E6%97%A5%E6%97%A5%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [三甲医院院长忏悔：我收了大量黄金](https://www.baidu.com/s?wd=%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2%E9%99%A2%E9%95%BF%E5%BF%8F%E6%82%94%EF%BC%9A%E6%88%91%E6%94%B6%E4%BA%86%E5%A4%A7%E9%87%8F%E9%BB%84%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [新冠三阳开始陆续出现？专家回应](https://www.baidu.com/s?wd=%E6%96%B0%E5%86%A0%E4%B8%89%E9%98%B3%E5%BC%80%E5%A7%8B%E9%99%86%E7%BB%AD%E5%87%BA%E7%8E%B0%EF%BC%9F%E4%B8%93%E5%AE%B6%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [暴雨洪灾后个人防疫关注7个重点](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E6%B4%AA%E7%81%BE%E5%90%8E%E4%B8%AA%E4%BA%BA%E9%98%B2%E7%96%AB%E5%85%B3%E6%B3%A87%E4%B8%AA%E9%87%8D%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [齐心协力重建自己的家园](https://www.baidu.com/s?wd=%E9%BD%90%E5%BF%83%E5%8D%8F%E5%8A%9B%E9%87%8D%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AE%B6%E5%9B%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [药代贿赂医生：甚至提供情色交易](https://www.baidu.com/s?wd=%E8%8D%AF%E4%BB%A3%E8%B4%BF%E8%B5%82%E5%8C%BB%E7%94%9F%EF%BC%9A%E7%94%9A%E8%87%B3%E6%8F%90%E4%BE%9B%E6%83%85%E8%89%B2%E4%BA%A4%E6%98%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [游乐设施故障 两女子逃离时险掉落](https://www.baidu.com/s?wd=%E6%B8%B8%E4%B9%90%E8%AE%BE%E6%96%BD%E6%95%85%E9%9A%9C+%E4%B8%A4%E5%A5%B3%E5%AD%90%E9%80%83%E7%A6%BB%E6%97%B6%E9%99%A9%E6%8E%89%E8%90%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [西安多场大型活动被叫停 TFBOYS被骂](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E5%A4%9A%E5%9C%BA%E5%A4%A7%E5%9E%8B%E6%B4%BB%E5%8A%A8%E8%A2%AB%E5%8F%AB%E5%81%9C+TFBOYS%E8%A2%AB%E9%AA%82&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,10 +29,10 @@
 
 > 哔哩哔哩  
 
-1. [共同倡导加强国际人文交流合作](https://www.baidu.com/s?wd=%E5%85%B1%E5%90%8C%E5%80%A1%E5%AF%BC%E5%8A%A0%E5%BC%BA%E5%9B%BD%E9%99%85%E4%BA%BA%E6%96%87%E4%BA%A4%E6%B5%81%E5%90%88%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [风起东方日日新](https://www.baidu.com/s?wd=%E9%A3%8E%E8%B5%B7%E4%B8%9C%E6%96%B9%E6%97%A5%E6%97%A5%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [三甲医院院长忏悔：我收了大量黄金](https://www.baidu.com/s?wd=%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2%E9%99%A2%E9%95%BF%E5%BF%8F%E6%82%94%EF%BC%9A%E6%88%91%E6%94%B6%E4%BA%86%E5%A4%A7%E9%87%8F%E9%BB%84%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [新冠三阳开始陆续出现？专家回应](https://www.baidu.com/s?wd=%E6%96%B0%E5%86%A0%E4%B8%89%E9%98%B3%E5%BC%80%E5%A7%8B%E9%99%86%E7%BB%AD%E5%87%BA%E7%8E%B0%EF%BC%9F%E4%B8%93%E5%AE%B6%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [暴雨洪灾后个人防疫关注7个重点](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E6%B4%AA%E7%81%BE%E5%90%8E%E4%B8%AA%E4%BA%BA%E9%98%B2%E7%96%AB%E5%85%B3%E6%B3%A87%E4%B8%AA%E9%87%8D%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [齐心协力重建自己的家园](https://www.baidu.com/s?wd=%E9%BD%90%E5%BF%83%E5%8D%8F%E5%8A%9B%E9%87%8D%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AE%B6%E5%9B%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [药代贿赂医生：甚至提供情色交易](https://www.baidu.com/s?wd=%E8%8D%AF%E4%BB%A3%E8%B4%BF%E8%B5%82%E5%8C%BB%E7%94%9F%EF%BC%9A%E7%94%9A%E8%87%B3%E6%8F%90%E4%BE%9B%E6%83%85%E8%89%B2%E4%BA%A4%E6%98%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [游乐设施故障 两女子逃离时险掉落](https://www.baidu.com/s?wd=%E6%B8%B8%E4%B9%90%E8%AE%BE%E6%96%BD%E6%95%85%E9%9A%9C+%E4%B8%A4%E5%A5%B3%E5%AD%90%E9%80%83%E7%A6%BB%E6%97%B6%E9%99%A9%E6%8E%89%E8%90%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [西安多场大型活动被叫停 TFBOYS被骂](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E5%A4%9A%E5%9C%BA%E5%A4%A7%E5%9E%8B%E6%B4%BB%E5%8A%A8%E8%A2%AB%E5%8F%AB%E5%81%9C+TFBOYS%E8%A2%AB%E9%AA%82&sa=fyb_news&rsv_dl=fyb_news)<br />
