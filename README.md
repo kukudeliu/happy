@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-11 12:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-11 12:34:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [电影花千骨陈都灵赖美云演母女](https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E8%8A%B1%E5%8D%83%E9%AA%A8%E9%99%88%E9%83%BD%E7%81%B5%E8%B5%96%E7%BE%8E%E4%BA%91%E6%BC%94%E6%AF%8D%E5%A5%B3%23&t=31&band_rank=4&Refer=top)<br />
 5. [男子胖到238斤5分钟大脑关机一次](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%83%96%E5%88%B0238%E6%96%A45%E5%88%86%E9%92%9F%E5%A4%A7%E8%84%91%E5%85%B3%E6%9C%BA%E4%B8%80%E6%AC%A1%23&t=31&band_rank=5&Refer=top)<br />
 6. [女孩考611分暑假为全村孩子讲功课](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E8%80%83611%E5%88%86%E6%9A%91%E5%81%87%E4%B8%BA%E5%85%A8%E6%9D%91%E5%AD%A9%E5%AD%90%E8%AE%B2%E5%8A%9F%E8%AF%BE%23&t=31&band_rank=6&Refer=top)<br />
-7. [张晚意梅林戏份被删改](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%99%9A%E6%84%8F%E6%A2%85%E6%9E%97%E6%88%8F%E4%BB%BD%E8%A2%AB%E5%88%A0%E6%94%B9%23&t=31&band_rank=7&Refer=top)<br />
-8. [中式教育给中国孩子带来了什么](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%BC%8F%E6%95%99%E8%82%B2%E7%BB%99%E4%B8%AD%E5%9B%BD%E5%AD%A9%E5%AD%90%E5%B8%A6%E6%9D%A5%E4%BA%86%E4%BB%80%E4%B9%88&t=31&band_rank=8&Refer=top)<br />
+7. [中式教育给中国孩子带来了什么](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%BC%8F%E6%95%99%E8%82%B2%E7%BB%99%E4%B8%AD%E5%9B%BD%E5%AD%A9%E5%AD%90%E5%B8%A6%E6%9D%A5%E4%BA%86%E4%BB%80%E4%B9%88&t=31&band_rank=7&Refer=top)<br />
+8. [张晚意梅林戏份被删改](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%99%9A%E6%84%8F%E6%A2%85%E6%9E%97%E6%88%8F%E4%BB%BD%E8%A2%AB%E5%88%A0%E6%94%B9%23&t=31&band_rank=8&Refer=top)<br />
 9. [李玟二姐声明](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E4%BA%8C%E5%A7%90%E5%A3%B0%E6%98%8E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -22,10 +22,10 @@
 3. [新加坡外长因未打领带向王毅道歉](https://www.baidu.com/s?wd=%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%A4%96%E9%95%BF%E5%9B%A0%E6%9C%AA%E6%89%93%E9%A2%86%E5%B8%A6%E5%90%91%E7%8E%8B%E6%AF%85%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [暴雨洪灾后个人防疫关注7个重点](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E6%B4%AA%E7%81%BE%E5%90%8E%E4%B8%AA%E4%BA%BA%E9%98%B2%E7%96%AB%E5%85%B3%E6%B3%A87%E4%B8%AA%E9%87%8D%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [缅甸柬埔寨来抢中国游客了](https://www.baidu.com/s?wd=%E7%BC%85%E7%94%B8%E6%9F%AC%E5%9F%94%E5%AF%A8%E6%9D%A5%E6%8A%A2%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [石家庄一中学暑假提前开学遭举报](https://www.baidu.com/s?wd=%E7%9F%B3%E5%AE%B6%E5%BA%84%E4%B8%80%E4%B8%AD%E5%AD%A6%E6%9A%91%E5%81%87%E6%8F%90%E5%89%8D%E5%BC%80%E5%AD%A6%E9%81%AD%E4%B8%BE%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [为解绑支付宝民警帮办45张证明](https://www.baidu.com/s?wd=%E4%B8%BA%E8%A7%A3%E7%BB%91%E6%94%AF%E4%BB%98%E5%AE%9D%E6%B0%91%E8%AD%A6%E5%B8%AE%E5%8A%9E45%E5%BC%A0%E8%AF%81%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [总投资90多亿的医院突然申请注销](https://www.baidu.com/s?wd=%E6%80%BB%E6%8A%95%E8%B5%8490%E5%A4%9A%E4%BA%BF%E7%9A%84%E5%8C%BB%E9%99%A2%E7%AA%81%E7%84%B6%E7%94%B3%E8%AF%B7%E6%B3%A8%E9%94%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [媒体：惊人的医疗回扣是怎样输送的](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E6%83%8A%E4%BA%BA%E7%9A%84%E5%8C%BB%E7%96%97%E5%9B%9E%E6%89%A3%E6%98%AF%E6%80%8E%E6%A0%B7%E8%BE%93%E9%80%81%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [影院回应贴告示禁止男童入女厕](https://www.baidu.com/s?wd=%E5%BD%B1%E9%99%A2%E5%9B%9E%E5%BA%94%E8%B4%B4%E5%91%8A%E7%A4%BA%E7%A6%81%E6%AD%A2%E7%94%B7%E7%AB%A5%E5%85%A5%E5%A5%B3%E5%8E%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [石家庄一中学暑假提前开学遭举报](https://www.baidu.com/s?wd=%E7%9F%B3%E5%AE%B6%E5%BA%84%E4%B8%80%E4%B8%AD%E5%AD%A6%E6%9A%91%E5%81%87%E6%8F%90%E5%89%8D%E5%BC%80%E5%AD%A6%E9%81%AD%E4%B8%BE%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [疑似李玟生前与二姐争吵音频曝光](https://www.baidu.com/s?wd=%E7%96%91%E4%BC%BC%E6%9D%8E%E7%8E%9F%E7%94%9F%E5%89%8D%E4%B8%8E%E4%BA%8C%E5%A7%90%E4%BA%89%E5%90%B5%E9%9F%B3%E9%A2%91%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [为解绑支付宝民警帮办45张证明](https://www.baidu.com/s?wd=%E4%B8%BA%E8%A7%A3%E7%BB%91%E6%94%AF%E4%BB%98%E5%AE%9D%E6%B0%91%E8%AD%A6%E5%B8%AE%E5%8A%9E45%E5%BC%A0%E8%AF%81%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -34,7 +34,7 @@
 3. [新加坡外长因未打领带向王毅道歉](https://www.baidu.com/s?wd=%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%A4%96%E9%95%BF%E5%9B%A0%E6%9C%AA%E6%89%93%E9%A2%86%E5%B8%A6%E5%90%91%E7%8E%8B%E6%AF%85%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [暴雨洪灾后个人防疫关注7个重点](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E6%B4%AA%E7%81%BE%E5%90%8E%E4%B8%AA%E4%BA%BA%E9%98%B2%E7%96%AB%E5%85%B3%E6%B3%A87%E4%B8%AA%E9%87%8D%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [缅甸柬埔寨来抢中国游客了](https://www.baidu.com/s?wd=%E7%BC%85%E7%94%B8%E6%9F%AC%E5%9F%94%E5%AF%A8%E6%9D%A5%E6%8A%A2%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [石家庄一中学暑假提前开学遭举报](https://www.baidu.com/s?wd=%E7%9F%B3%E5%AE%B6%E5%BA%84%E4%B8%80%E4%B8%AD%E5%AD%A6%E6%9A%91%E5%81%87%E6%8F%90%E5%89%8D%E5%BC%80%E5%AD%A6%E9%81%AD%E4%B8%BE%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [为解绑支付宝民警帮办45张证明](https://www.baidu.com/s?wd=%E4%B8%BA%E8%A7%A3%E7%BB%91%E6%94%AF%E4%BB%98%E5%AE%9D%E6%B0%91%E8%AD%A6%E5%B8%AE%E5%8A%9E45%E5%BC%A0%E8%AF%81%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [总投资90多亿的医院突然申请注销](https://www.baidu.com/s?wd=%E6%80%BB%E6%8A%95%E8%B5%8490%E5%A4%9A%E4%BA%BF%E7%9A%84%E5%8C%BB%E9%99%A2%E7%AA%81%E7%84%B6%E7%94%B3%E8%AF%B7%E6%B3%A8%E9%94%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [媒体：惊人的医疗回扣是怎样输送的](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E6%83%8A%E4%BA%BA%E7%9A%84%E5%8C%BB%E7%96%97%E5%9B%9E%E6%89%A3%E6%98%AF%E6%80%8E%E6%A0%B7%E8%BE%93%E9%80%81%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [影院回应贴告示禁止男童入女厕](https://www.baidu.com/s?wd=%E5%BD%B1%E9%99%A2%E5%9B%9E%E5%BA%94%E8%B4%B4%E5%91%8A%E7%A4%BA%E7%A6%81%E6%AD%A2%E7%94%B7%E7%AB%A5%E5%85%A5%E5%A5%B3%E5%8E%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [石家庄一中学暑假提前开学遭举报](https://www.baidu.com/s?wd=%E7%9F%B3%E5%AE%B6%E5%BA%84%E4%B8%80%E4%B8%AD%E5%AD%A6%E6%9A%91%E5%81%87%E6%8F%90%E5%89%8D%E5%BC%80%E5%AD%A6%E9%81%AD%E4%B8%BE%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [疑似李玟生前与二姐争吵音频曝光](https://www.baidu.com/s?wd=%E7%96%91%E4%BC%BC%E6%9D%8E%E7%8E%9F%E7%94%9F%E5%89%8D%E4%B8%8E%E4%BA%8C%E5%A7%90%E4%BA%89%E5%90%B5%E9%9F%B3%E9%A2%91%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [为解绑支付宝民警帮办45张证明](https://www.baidu.com/s?wd=%E4%B8%BA%E8%A7%A3%E7%BB%91%E6%94%AF%E4%BB%98%E5%AE%9D%E6%B0%91%E8%AD%A6%E5%B8%AE%E5%8A%9E45%E5%BC%A0%E8%AF%81%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
