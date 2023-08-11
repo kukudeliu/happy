@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-12 02:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-12 03:00:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [成毅跳queencard 认真中带着幽默](https://s.weibo.com/weibo?q=%E6%88%90%E6%AF%85%E8%B7%B3queencard%20%E8%AE%A4%E7%9C%9F%E4%B8%AD%E5%B8%A6%E7%9D%80%E5%B9%BD%E9%BB%98&t=31&band_rank=5&Refer=top)<br />
 6. [女子弄丢150元向丈夫哭诉被暖心安慰](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%BC%84%E4%B8%A2150%E5%85%83%E5%90%91%E4%B8%88%E5%A4%AB%E5%93%AD%E8%AF%89%E8%A2%AB%E6%9A%96%E5%BF%83%E5%AE%89%E6%85%B0%23&t=31&band_rank=6&Refer=top)<br />
 7. [私服好看的明星](https://s.weibo.com/weibo?q=%23%E7%A7%81%E6%9C%8D%E5%A5%BD%E7%9C%8B%E7%9A%84%E6%98%8E%E6%98%9F%23&t=31&band_rank=7&Refer=top)<br />
-8. [出道8年依旧适合可爱风的NCTDREAM](https://s.weibo.com/weibo?q=%E5%87%BA%E9%81%938%E5%B9%B4%E4%BE%9D%E6%97%A7%E9%80%82%E5%90%88%E5%8F%AF%E7%88%B1%E9%A3%8E%E7%9A%84NCTDREAM&t=31&band_rank=8&Refer=top)<br />
+8. [张杰开不起玩笑说到做到](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E5%BC%80%E4%B8%8D%E8%B5%B7%E7%8E%A9%E7%AC%91%E8%AF%B4%E5%88%B0%E5%81%9A%E5%88%B0%23&t=31&band_rank=8&Refer=top)<br />
 9. [卡琳娜cos绝世唐门](https://s.weibo.com/weibo?q=%23%E5%8D%A1%E7%90%B3%E5%A8%9Ccos%E7%BB%9D%E4%B8%96%E5%94%90%E9%97%A8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
