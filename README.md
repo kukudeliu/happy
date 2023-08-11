@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-11 17:58:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-11 17:59:02</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [药代贿赂医生：甚至提供情色交易](https://www.baidu.com/s?wd=%E8%8D%AF%E4%BB%A3%E8%B4%BF%E8%B5%82%E5%8C%BB%E7%94%9F%EF%BC%9A%E7%94%9A%E8%87%B3%E6%8F%90%E4%BE%9B%E6%83%85%E8%89%B2%E4%BA%A4%E6%98%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [雷军建议大家少刷手机](https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E5%B0%91%E5%88%B7%E6%89%8B%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [第十一届茅盾文学奖公布](https://www.baidu.com/s?wd=%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%8A%E8%8C%85%E7%9B%BE%E6%96%87%E5%AD%A6%E5%A5%96%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [7月份人民币存款减少1.12万亿元](https://www.baidu.com/s?wd=7%E6%9C%88%E4%BB%BD%E4%BA%BA%E6%B0%91%E5%B8%81%E5%AD%98%E6%AC%BE%E5%87%8F%E5%B0%911.12%E4%B8%87%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [周深演唱会票价](https://www.baidu.com/s?wd=%E5%91%A8%E6%B7%B1%E6%BC%94%E5%94%B1%E4%BC%9A%E7%A5%A8%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [多人因生产间谍器材被立案](https://www.baidu.com/s?wd=%E5%A4%9A%E4%BA%BA%E5%9B%A0%E7%94%9F%E4%BA%A7%E9%97%B4%E8%B0%8D%E5%99%A8%E6%9D%90%E8%A2%AB%E7%AB%8B%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [香港司机向内地游客索要3倍打车费](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%8F%B8%E6%9C%BA%E5%90%91%E5%86%85%E5%9C%B0%E6%B8%B8%E5%AE%A2%E7%B4%A2%E8%A6%813%E5%80%8D%E6%89%93%E8%BD%A6%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [药代贿赂医生：甚至提供情色交易](https://www.baidu.com/s?wd=%E8%8D%AF%E4%BB%A3%E8%B4%BF%E8%B5%82%E5%8C%BB%E7%94%9F%EF%BC%9A%E7%94%9A%E8%87%B3%E6%8F%90%E4%BE%9B%E6%83%85%E8%89%B2%E4%BA%A4%E6%98%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [雷军建议大家少刷手机](https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E5%B0%91%E5%88%B7%E6%89%8B%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [第十一届茅盾文学奖公布](https://www.baidu.com/s?wd=%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%8A%E8%8C%85%E7%9B%BE%E6%96%87%E5%AD%A6%E5%A5%96%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [7月份人民币存款减少1.12万亿元](https://www.baidu.com/s?wd=7%E6%9C%88%E4%BB%BD%E4%BA%BA%E6%B0%91%E5%B8%81%E5%AD%98%E6%AC%BE%E5%87%8F%E5%B0%911.12%E4%B8%87%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [周深演唱会票价](https://www.baidu.com/s?wd=%E5%91%A8%E6%B7%B1%E6%BC%94%E5%94%B1%E4%BC%9A%E7%A5%A8%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [多人因生产间谍器材被立案](https://www.baidu.com/s?wd=%E5%A4%9A%E4%BA%BA%E5%9B%A0%E7%94%9F%E4%BA%A7%E9%97%B4%E8%B0%8D%E5%99%A8%E6%9D%90%E8%A2%AB%E7%AB%8B%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [香港司机向内地游客索要3倍打车费](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%8F%B8%E6%9C%BA%E5%90%91%E5%86%85%E5%9C%B0%E6%B8%B8%E5%AE%A2%E7%B4%A2%E8%A6%813%E5%80%8D%E6%89%93%E8%BD%A6%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
