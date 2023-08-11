@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-11 14:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-11 14:01:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [新加坡外长因未打领带向王毅道歉](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%A4%96%E9%95%BF%E5%9B%A0%E6%9C%AA%E6%89%93%E9%A2%86%E5%B8%A6%E5%90%91%E7%8E%8B%E6%AF%85%E9%81%93%E6%AD%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [发现了一个很爽的旅行方式](https://s.weibo.com/weibo?q=%E5%8F%91%E7%8E%B0%E4%BA%86%E4%B8%80%E4%B8%AA%E5%BE%88%E7%88%BD%E7%9A%84%E6%97%85%E8%A1%8C%E6%96%B9%E5%BC%8F&t=31&band_rank=7&Refer=top)<br />
 8. [电影花千骨陈都灵赖美云演母女](https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E8%8A%B1%E5%8D%83%E9%AA%A8%E9%99%88%E9%83%BD%E7%81%B5%E8%B5%96%E7%BE%8E%E4%BA%91%E6%BC%94%E6%AF%8D%E5%A5%B3%23&t=31&band_rank=8&Refer=top)<br />
-9. [怦然心动20岁 恋综天花板](https://s.weibo.com/weibo?q=%E6%80%A6%E7%84%B6%E5%BF%83%E5%8A%A820%E5%B2%81%20%E6%81%8B%E7%BB%BC%E5%A4%A9%E8%8A%B1%E6%9D%BF&t=31&band_rank=9&Refer=top)<br />
+9. [韩国2万亿刺激生育为何失败了](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD2%E4%B8%87%E4%BA%BF%E5%88%BA%E6%BF%80%E7%94%9F%E8%82%B2%E4%B8%BA%E4%BD%95%E5%A4%B1%E8%B4%A5%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
