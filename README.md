@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-11 16:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-11 16:08:01</h4></div>
 
 > 微博  
 
@@ -17,7 +17,7 @@
 
 > 百度  
 
-1. [共同倡导加强国际人文交流合作](https://www.baidu.com/s?wd=%E5%85%B1%E5%90%8C%E5%80%A1%E5%AF%BC%E5%8A%A0%E5%BC%BA%E5%9B%BD%E9%99%85%E4%BA%BA%E6%96%87%E4%BA%A4%E6%B5%81%E5%90%88%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [风起东方日日新](https://www.baidu.com/s?wd=%E9%A3%8E%E8%B5%B7%E4%B8%9C%E6%96%B9%E6%97%A5%E6%97%A5%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [三甲医院院长忏悔：我收了大量黄金](https://www.baidu.com/s?wd=%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2%E9%99%A2%E9%95%BF%E5%BF%8F%E6%82%94%EF%BC%9A%E6%88%91%E6%94%B6%E4%BA%86%E5%A4%A7%E9%87%8F%E9%BB%84%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [新冠三阳开始陆续出现？专家回应](https://www.baidu.com/s?wd=%E6%96%B0%E5%86%A0%E4%B8%89%E9%98%B3%E5%BC%80%E5%A7%8B%E9%99%86%E7%BB%AD%E5%87%BA%E7%8E%B0%EF%BC%9F%E4%B8%93%E5%AE%B6%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [齐心协力重建自己的家园](https://www.baidu.com/s?wd=%E9%BD%90%E5%BF%83%E5%8D%8F%E5%8A%9B%E9%87%8D%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AE%B6%E5%9B%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,7 +29,7 @@
 
 > 哔哩哔哩  
 
-1. [共同倡导加强国际人文交流合作](https://www.baidu.com/s?wd=%E5%85%B1%E5%90%8C%E5%80%A1%E5%AF%BC%E5%8A%A0%E5%BC%BA%E5%9B%BD%E9%99%85%E4%BA%BA%E6%96%87%E4%BA%A4%E6%B5%81%E5%90%88%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [风起东方日日新](https://www.baidu.com/s?wd=%E9%A3%8E%E8%B5%B7%E4%B8%9C%E6%96%B9%E6%97%A5%E6%97%A5%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [三甲医院院长忏悔：我收了大量黄金](https://www.baidu.com/s?wd=%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2%E9%99%A2%E9%95%BF%E5%BF%8F%E6%82%94%EF%BC%9A%E6%88%91%E6%94%B6%E4%BA%86%E5%A4%A7%E9%87%8F%E9%BB%84%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [新冠三阳开始陆续出现？专家回应](https://www.baidu.com/s?wd=%E6%96%B0%E5%86%A0%E4%B8%89%E9%98%B3%E5%BC%80%E5%A7%8B%E9%99%86%E7%BB%AD%E5%87%BA%E7%8E%B0%EF%BC%9F%E4%B8%93%E5%AE%B6%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [齐心协力重建自己的家园](https://www.baidu.com/s?wd=%E9%BD%90%E5%BF%83%E5%8D%8F%E5%8A%9B%E9%87%8D%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AE%B6%E5%9B%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
