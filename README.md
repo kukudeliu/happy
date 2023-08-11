@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-12 02:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-12 02:24:01</h4></div>
 
 > 微博  
 
@@ -22,10 +22,10 @@
 3. [乌所有征兵办公室负责人职务被解除](https://www.baidu.com/s?wd=%E4%B9%8C%E6%89%80%E6%9C%89%E5%BE%81%E5%85%B5%E5%8A%9E%E5%85%AC%E5%AE%A4%E8%B4%9F%E8%B4%A3%E4%BA%BA%E8%81%8C%E5%8A%A1%E8%A2%AB%E8%A7%A3%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [卫星瞰长三角一体化](https://www.baidu.com/s?wd=%E5%8D%AB%E6%98%9F%E7%9E%B0%E9%95%BF%E4%B8%89%E8%A7%92%E4%B8%80%E4%BD%93%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [率先出台新政的郑州 楼市怎么样了](https://www.baidu.com/s?wd=%E7%8E%87%E5%85%88%E5%87%BA%E5%8F%B0%E6%96%B0%E6%94%BF%E7%9A%84%E9%83%91%E5%B7%9E+%E6%A5%BC%E5%B8%82%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [小狗进地铁蹭空调被安保耐心劝离](https://www.baidu.com/s?wd=%E5%B0%8F%E7%8B%97%E8%BF%9B%E5%9C%B0%E9%93%81%E8%B9%AD%E7%A9%BA%E8%B0%83%E8%A2%AB%E5%AE%89%E4%BF%9D%E8%80%90%E5%BF%83%E5%8A%9D%E7%A6%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [航拍涿州被洪水浸泡车辆](https://www.baidu.com/s?wd=%E8%88%AA%E6%8B%8D%E6%B6%BF%E5%B7%9E%E8%A2%AB%E6%B4%AA%E6%B0%B4%E6%B5%B8%E6%B3%A1%E8%BD%A6%E8%BE%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [大爷高铁上戴耳机喝白酒全程安静](https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E9%AB%98%E9%93%81%E4%B8%8A%E6%88%B4%E8%80%B3%E6%9C%BA%E5%96%9D%E7%99%BD%E9%85%92%E5%85%A8%E7%A8%8B%E5%AE%89%E9%9D%99&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [赵丽颖到底在过哪个季节](https://www.baidu.com/s?wd=%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%88%B0%E5%BA%95%E5%9C%A8%E8%BF%87%E5%93%AA%E4%B8%AA%E5%AD%A3%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [《孤注一掷》金晨被删减戏份曝光](https://www.baidu.com/s?wd=%E3%80%8A%E5%AD%A4%E6%B3%A8%E4%B8%80%E6%8E%B7%E3%80%8B%E9%87%91%E6%99%A8%E8%A2%AB%E5%88%A0%E5%87%8F%E6%88%8F%E4%BB%BD%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [广西南宁突降暴雨 有车辆被淹](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E5%8D%97%E5%AE%81%E7%AA%81%E9%99%8D%E6%9A%B4%E9%9B%A8+%E6%9C%89%E8%BD%A6%E8%BE%86%E8%A2%AB%E6%B7%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [香港司机向内地游客索要3倍打车费](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%8F%B8%E6%9C%BA%E5%90%91%E5%86%85%E5%9C%B0%E6%B8%B8%E5%AE%A2%E7%B4%A2%E8%A6%813%E5%80%8D%E6%89%93%E8%BD%A6%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -34,7 +34,7 @@
 3. [乌所有征兵办公室负责人职务被解除](https://www.baidu.com/s?wd=%E4%B9%8C%E6%89%80%E6%9C%89%E5%BE%81%E5%85%B5%E5%8A%9E%E5%85%AC%E5%AE%A4%E8%B4%9F%E8%B4%A3%E4%BA%BA%E8%81%8C%E5%8A%A1%E8%A2%AB%E8%A7%A3%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [卫星瞰长三角一体化](https://www.baidu.com/s?wd=%E5%8D%AB%E6%98%9F%E7%9E%B0%E9%95%BF%E4%B8%89%E8%A7%92%E4%B8%80%E4%BD%93%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [率先出台新政的郑州 楼市怎么样了](https://www.baidu.com/s?wd=%E7%8E%87%E5%85%88%E5%87%BA%E5%8F%B0%E6%96%B0%E6%94%BF%E7%9A%84%E9%83%91%E5%B7%9E+%E6%A5%BC%E5%B8%82%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [小狗进地铁蹭空调被安保耐心劝离](https://www.baidu.com/s?wd=%E5%B0%8F%E7%8B%97%E8%BF%9B%E5%9C%B0%E9%93%81%E8%B9%AD%E7%A9%BA%E8%B0%83%E8%A2%AB%E5%AE%89%E4%BF%9D%E8%80%90%E5%BF%83%E5%8A%9D%E7%A6%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [航拍涿州被洪水浸泡车辆](https://www.baidu.com/s?wd=%E8%88%AA%E6%8B%8D%E6%B6%BF%E5%B7%9E%E8%A2%AB%E6%B4%AA%E6%B0%B4%E6%B5%B8%E6%B3%A1%E8%BD%A6%E8%BE%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [大爷高铁上戴耳机喝白酒全程安静](https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E9%AB%98%E9%93%81%E4%B8%8A%E6%88%B4%E8%80%B3%E6%9C%BA%E5%96%9D%E7%99%BD%E9%85%92%E5%85%A8%E7%A8%8B%E5%AE%89%E9%9D%99&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [赵丽颖到底在过哪个季节](https://www.baidu.com/s?wd=%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%88%B0%E5%BA%95%E5%9C%A8%E8%BF%87%E5%93%AA%E4%B8%AA%E5%AD%A3%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [《孤注一掷》金晨被删减戏份曝光](https://www.baidu.com/s?wd=%E3%80%8A%E5%AD%A4%E6%B3%A8%E4%B8%80%E6%8E%B7%E3%80%8B%E9%87%91%E6%99%A8%E8%A2%AB%E5%88%A0%E5%87%8F%E6%88%8F%E4%BB%BD%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [广西南宁突降暴雨 有车辆被淹](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E5%8D%97%E5%AE%81%E7%AA%81%E9%99%8D%E6%9A%B4%E9%9B%A8+%E6%9C%89%E8%BD%A6%E8%BE%86%E8%A2%AB%E6%B7%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [香港司机向内地游客索要3倍打车费](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%8F%B8%E6%9C%BA%E5%90%91%E5%86%85%E5%9C%B0%E6%B8%B8%E5%AE%A2%E7%B4%A2%E8%A6%813%E5%80%8D%E6%89%93%E8%BD%A6%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
