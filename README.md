@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-11 09:03:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-11 09:04:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [为解绑支付宝民警帮办45张证明](https://www.baidu.com/s?wd=%E4%B8%BA%E8%A7%A3%E7%BB%91%E6%94%AF%E4%BB%98%E5%AE%9D%E6%B0%91%E8%AD%A6%E5%B8%AE%E5%8A%9E45%E5%BC%A0%E8%AF%81%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [网友给王诗龄p眉毛](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%BB%99%E7%8E%8B%E8%AF%97%E9%BE%84p%E7%9C%89%E6%AF%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [阿姨看戏剧表演直接上台打赏](https://www.baidu.com/s?wd=%E9%98%BF%E5%A7%A8%E7%9C%8B%E6%88%8F%E5%89%A7%E8%A1%A8%E6%BC%94%E7%9B%B4%E6%8E%A5%E4%B8%8A%E5%8F%B0%E6%89%93%E8%B5%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [下班后微信办公算加班吗？法院判了](https://www.baidu.com/s?wd=%E4%B8%8B%E7%8F%AD%E5%90%8E%E5%BE%AE%E4%BF%A1%E5%8A%9E%E5%85%AC%E7%AE%97%E5%8A%A0%E7%8F%AD%E5%90%97%EF%BC%9F%E6%B3%95%E9%99%A2%E5%88%A4%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [北大教授：要让医务人员有体面收入](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88%EF%BC%9A%E8%A6%81%E8%AE%A9%E5%8C%BB%E5%8A%A1%E4%BA%BA%E5%91%98%E6%9C%89%E4%BD%93%E9%9D%A2%E6%94%B6%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [为解绑支付宝民警帮办45张证明](https://www.baidu.com/s?wd=%E4%B8%BA%E8%A7%A3%E7%BB%91%E6%94%AF%E4%BB%98%E5%AE%9D%E6%B0%91%E8%AD%A6%E5%B8%AE%E5%8A%9E45%E5%BC%A0%E8%AF%81%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [网友给王诗龄p眉毛](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%BB%99%E7%8E%8B%E8%AF%97%E9%BE%84p%E7%9C%89%E6%AF%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [阿姨看戏剧表演直接上台打赏](https://www.baidu.com/s?wd=%E9%98%BF%E5%A7%A8%E7%9C%8B%E6%88%8F%E5%89%A7%E8%A1%A8%E6%BC%94%E7%9B%B4%E6%8E%A5%E4%B8%8A%E5%8F%B0%E6%89%93%E8%B5%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [下班后微信办公算加班吗？法院判了](https://www.baidu.com/s?wd=%E4%B8%8B%E7%8F%AD%E5%90%8E%E5%BE%AE%E4%BF%A1%E5%8A%9E%E5%85%AC%E7%AE%97%E5%8A%A0%E7%8F%AD%E5%90%97%EF%BC%9F%E6%B3%95%E9%99%A2%E5%88%A4%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [北大教授：要让医务人员有体面收入](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88%EF%BC%9A%E8%A6%81%E8%AE%A9%E5%8C%BB%E5%8A%A1%E4%BA%BA%E5%91%98%E6%9C%89%E4%BD%93%E9%9D%A2%E6%94%B6%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
