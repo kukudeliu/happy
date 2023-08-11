@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-12 02:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-12 02:15:01</h4></div>
 
 > 微博  
 
@@ -8,7 +8,7 @@
 4. [程潇妈妈得了乳腺癌](https://s.weibo.com/weibo?q=%23%E7%A8%8B%E6%BD%87%E5%A6%88%E5%A6%88%E5%BE%97%E4%BA%86%E4%B9%B3%E8%85%BA%E7%99%8C%23&t=31&band_rank=4&Refer=top)<br />
 5. [私服好看的明星](https://s.weibo.com/weibo?q=%23%E7%A7%81%E6%9C%8D%E5%A5%BD%E7%9C%8B%E7%9A%84%E6%98%8E%E6%98%9F%23&t=31&band_rank=5&Refer=top)<br />
 6. [成毅跳queencard 认真中带着幽默](https://s.weibo.com/weibo?q=%E6%88%90%E6%AF%85%E8%B7%B3queencard%20%E8%AE%A4%E7%9C%9F%E4%B8%AD%E5%B8%A6%E7%9D%80%E5%B9%BD%E9%BB%98&t=31&band_rank=6&Refer=top)<br />
-7. [很好又被邓为拿捏了](https://s.weibo.com/weibo?q=%E5%BE%88%E5%A5%BD%E5%8F%88%E8%A2%AB%E9%82%93%E4%B8%BA%E6%8B%BF%E6%8D%8F%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
+7. [出道8年依旧适合可爱风的NCTDREAM](https://s.weibo.com/weibo?q=%E5%87%BA%E9%81%938%E5%B9%B4%E4%BE%9D%E6%97%A7%E9%80%82%E5%90%88%E5%8F%AF%E7%88%B1%E9%A3%8E%E7%9A%84NCTDREAM&t=31&band_rank=7&Refer=top)<br />
 8. [北理工宿舍分配统计mbti](https://s.weibo.com/weibo?q=%E5%8C%97%E7%90%86%E5%B7%A5%E5%AE%BF%E8%88%8D%E5%88%86%E9%85%8D%E7%BB%9F%E8%AE%A1mbti&t=31&band_rank=8&Refer=top)<br />
 9. [卡琳娜cos绝世唐门](https://s.weibo.com/weibo?q=%23%E5%8D%A1%E7%90%B3%E5%A8%9Ccos%E7%BB%9D%E4%B8%96%E5%94%90%E9%97%A8%23&t=31&band_rank=9&Refer=top)<br />
 
@@ -24,8 +24,8 @@
 5. [率先出台新政的郑州 楼市怎么样了](https://www.baidu.com/s?wd=%E7%8E%87%E5%85%88%E5%87%BA%E5%8F%B0%E6%96%B0%E6%94%BF%E7%9A%84%E9%83%91%E5%B7%9E+%E6%A5%BC%E5%B8%82%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [专家称促消费每月发5000元才有用](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E4%BF%83%E6%B6%88%E8%B4%B9%E6%AF%8F%E6%9C%88%E5%8F%915000%E5%85%83%E6%89%8D%E6%9C%89%E7%94%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [赵丽颖到底在过哪个季节](https://www.baidu.com/s?wd=%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%88%B0%E5%BA%95%E5%9C%A8%E8%BF%87%E5%93%AA%E4%B8%AA%E5%AD%A3%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [王鹤棣终于演了西装暴徒](https://www.baidu.com/s?wd=%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%BB%88%E4%BA%8E%E6%BC%94%E4%BA%86%E8%A5%BF%E8%A3%85%E6%9A%B4%E5%BE%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [长城CTO称中国汽车在一起是道德绑架](https://www.baidu.com/s?wd=%E9%95%BF%E5%9F%8ECTO%E7%A7%B0%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%9C%A8%E4%B8%80%E8%B5%B7%E6%98%AF%E9%81%93%E5%BE%B7%E7%BB%91%E6%9E%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [长城CTO称中国汽车在一起是道德绑架](https://www.baidu.com/s?wd=%E9%95%BF%E5%9F%8ECTO%E7%A7%B0%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%9C%A8%E4%B8%80%E8%B5%B7%E6%98%AF%E9%81%93%E5%BE%B7%E7%BB%91%E6%9E%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [大爷高铁上戴耳机喝白酒全程安静](https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E9%AB%98%E9%93%81%E4%B8%8A%E6%88%B4%E8%80%B3%E6%9C%BA%E5%96%9D%E7%99%BD%E9%85%92%E5%85%A8%E7%A8%8B%E5%AE%89%E9%9D%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [率先出台新政的郑州 楼市怎么样了](https://www.baidu.com/s?wd=%E7%8E%87%E5%85%88%E5%87%BA%E5%8F%B0%E6%96%B0%E6%94%BF%E7%9A%84%E9%83%91%E5%B7%9E+%E6%A5%BC%E5%B8%82%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [专家称促消费每月发5000元才有用](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E4%BF%83%E6%B6%88%E8%B4%B9%E6%AF%8F%E6%9C%88%E5%8F%915000%E5%85%83%E6%89%8D%E6%9C%89%E7%94%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [赵丽颖到底在过哪个季节](https://www.baidu.com/s?wd=%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%88%B0%E5%BA%95%E5%9C%A8%E8%BF%87%E5%93%AA%E4%B8%AA%E5%AD%A3%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [王鹤棣终于演了西装暴徒](https://www.baidu.com/s?wd=%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%BB%88%E4%BA%8E%E6%BC%94%E4%BA%86%E8%A5%BF%E8%A3%85%E6%9A%B4%E5%BE%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [长城CTO称中国汽车在一起是道德绑架](https://www.baidu.com/s?wd=%E9%95%BF%E5%9F%8ECTO%E7%A7%B0%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%9C%A8%E4%B8%80%E8%B5%B7%E6%98%AF%E9%81%93%E5%BE%B7%E7%BB%91%E6%9E%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [长城CTO称中国汽车在一起是道德绑架](https://www.baidu.com/s?wd=%E9%95%BF%E5%9F%8ECTO%E7%A7%B0%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%9C%A8%E4%B8%80%E8%B5%B7%E6%98%AF%E9%81%93%E5%BE%B7%E7%BB%91%E6%9E%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [大爷高铁上戴耳机喝白酒全程安静](https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E9%AB%98%E9%93%81%E4%B8%8A%E6%88%B4%E8%80%B3%E6%9C%BA%E5%96%9D%E7%99%BD%E9%85%92%E5%85%A8%E7%A8%8B%E5%AE%89%E9%9D%99&sa=fyb_news&rsv_dl=fyb_news)<br />
