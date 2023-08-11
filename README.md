@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-12 01:19:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-12 01:20:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [率先出台新政的郑州 楼市怎么样了](https://www.baidu.com/s?wd=%E7%8E%87%E5%85%88%E5%87%BA%E5%8F%B0%E6%96%B0%E6%94%BF%E7%9A%84%E9%83%91%E5%B7%9E+%E6%A5%BC%E5%B8%82%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [广西南宁突降暴雨 有车辆被淹](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E5%8D%97%E5%AE%81%E7%AA%81%E9%99%8D%E6%9A%B4%E9%9B%A8+%E6%9C%89%E8%BD%A6%E8%BE%86%E8%A2%AB%E6%B7%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [航拍涿州被洪水浸泡车辆](https://www.baidu.com/s?wd=%E8%88%AA%E6%8B%8D%E6%B6%BF%E5%B7%9E%E8%A2%AB%E6%B4%AA%E6%B0%B4%E6%B5%B8%E6%B3%A1%E8%BD%A6%E8%BE%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [大爷高铁上戴耳机喝白酒全程安静](https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E9%AB%98%E9%93%81%E4%B8%8A%E6%88%B4%E8%80%B3%E6%9C%BA%E5%96%9D%E7%99%BD%E9%85%92%E5%85%A8%E7%A8%8B%E5%AE%89%E9%9D%99&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女网红开车送货遇害 凶手被判死刑](https://www.baidu.com/s?wd=%E5%A5%B3%E7%BD%91%E7%BA%A2%E5%BC%80%E8%BD%A6%E9%80%81%E8%B4%A7%E9%81%87%E5%AE%B3+%E5%87%B6%E6%89%8B%E8%A2%AB%E5%88%A4%E6%AD%BB%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女网红开车送货遇害 凶手被判死刑](https://www.baidu.com/s?wd=%E5%A5%B3%E7%BD%91%E7%BA%A2%E5%BC%80%E8%BD%A6%E9%80%81%E8%B4%A7%E9%81%87%E5%AE%B3+%E5%87%B6%E6%89%8B%E8%A2%AB%E5%88%A4%E6%AD%BB%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [雷军建议大家少刷手机](https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E5%B0%91%E5%88%B7%E6%89%8B%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [率先出台新政的郑州 楼市怎么样了](https://www.baidu.com/s?wd=%E7%8E%87%E5%85%88%E5%87%BA%E5%8F%B0%E6%96%B0%E6%94%BF%E7%9A%84%E9%83%91%E5%B7%9E+%E6%A5%BC%E5%B8%82%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [广西南宁突降暴雨 有车辆被淹](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E5%8D%97%E5%AE%81%E7%AA%81%E9%99%8D%E6%9A%B4%E9%9B%A8+%E6%9C%89%E8%BD%A6%E8%BE%86%E8%A2%AB%E6%B7%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [航拍涿州被洪水浸泡车辆](https://www.baidu.com/s?wd=%E8%88%AA%E6%8B%8D%E6%B6%BF%E5%B7%9E%E8%A2%AB%E6%B4%AA%E6%B0%B4%E6%B5%B8%E6%B3%A1%E8%BD%A6%E8%BE%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [大爷高铁上戴耳机喝白酒全程安静](https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E9%AB%98%E9%93%81%E4%B8%8A%E6%88%B4%E8%80%B3%E6%9C%BA%E5%96%9D%E7%99%BD%E9%85%92%E5%85%A8%E7%A8%8B%E5%AE%89%E9%9D%99&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女网红开车送货遇害 凶手被判死刑](https://www.baidu.com/s?wd=%E5%A5%B3%E7%BD%91%E7%BA%A2%E5%BC%80%E8%BD%A6%E9%80%81%E8%B4%A7%E9%81%87%E5%AE%B3+%E5%87%B6%E6%89%8B%E8%A2%AB%E5%88%A4%E6%AD%BB%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女网红开车送货遇害 凶手被判死刑](https://www.baidu.com/s?wd=%E5%A5%B3%E7%BD%91%E7%BA%A2%E5%BC%80%E8%BD%A6%E9%80%81%E8%B4%A7%E9%81%87%E5%AE%B3+%E5%87%B6%E6%89%8B%E8%A2%AB%E5%88%A4%E6%AD%BB%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [雷军建议大家少刷手机](https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E5%B0%91%E5%88%B7%E6%89%8B%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
