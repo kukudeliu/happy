@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-11 15:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-11 15:25:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [周冬雨刘昊然浴室戏](https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%86%AC%E9%9B%A8%E5%88%98%E6%98%8A%E7%84%B6%E6%B5%B4%E5%AE%A4%E6%88%8F%23&t=31&band_rank=6&Refer=top)<br />
 7. [缅甸柬埔寨来抢中国游客了](https://s.weibo.com/weibo?q=%23%E7%BC%85%E7%94%B8%E6%9F%AC%E5%9F%94%E5%AF%A8%E6%9D%A5%E6%8A%A2%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [云合 长相思](https://s.weibo.com/weibo?q=%E4%BA%91%E5%90%88%20%E9%95%BF%E7%9B%B8%E6%80%9D&t=31&band_rank=8&Refer=top)<br />
-9. [韩国2万亿刺激生育为何失败了](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD2%E4%B8%87%E4%BA%BF%E5%88%BA%E6%BF%80%E7%94%9F%E8%82%B2%E4%B8%BA%E4%BD%95%E5%A4%B1%E8%B4%A5%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [莲花楼结局 慢刀子刮肉](https://s.weibo.com/weibo?q=%E8%8E%B2%E8%8A%B1%E6%A5%BC%E7%BB%93%E5%B1%80%20%E6%85%A2%E5%88%80%E5%AD%90%E5%88%AE%E8%82%89&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
