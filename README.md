@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-12 02:39:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-12 02:40:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [大爷高铁上戴耳机喝白酒全程安静](https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E9%AB%98%E9%93%81%E4%B8%8A%E6%88%B4%E8%80%B3%E6%9C%BA%E5%96%9D%E7%99%BD%E9%85%92%E5%85%A8%E7%A8%8B%E5%AE%89%E9%9D%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [菲律宾暂停中企承包填海项目](https://www.baidu.com/s?wd=%E8%8F%B2%E5%BE%8B%E5%AE%BE%E6%9A%82%E5%81%9C%E4%B8%AD%E4%BC%81%E6%89%BF%E5%8C%85%E5%A1%AB%E6%B5%B7%E9%A1%B9%E7%9B%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女网红开车送货遇害 凶手被判死刑](https://www.baidu.com/s?wd=%E5%A5%B3%E7%BD%91%E7%BA%A2%E5%BC%80%E8%BD%A6%E9%80%81%E8%B4%A7%E9%81%87%E5%AE%B3+%E5%87%B6%E6%89%8B%E8%A2%AB%E5%88%A4%E6%AD%BB%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [高叶狂飙后首部电视剧](https://www.baidu.com/s?wd=%E9%AB%98%E5%8F%B6%E7%8B%82%E9%A3%99%E5%90%8E%E9%A6%96%E9%83%A8%E7%94%B5%E8%A7%86%E5%89%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [雷军建议大家少刷手机](https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E5%B0%91%E5%88%B7%E6%89%8B%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [大爷高铁上戴耳机喝白酒全程安静](https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E9%AB%98%E9%93%81%E4%B8%8A%E6%88%B4%E8%80%B3%E6%9C%BA%E5%96%9D%E7%99%BD%E9%85%92%E5%85%A8%E7%A8%8B%E5%AE%89%E9%9D%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [菲律宾暂停中企承包填海项目](https://www.baidu.com/s?wd=%E8%8F%B2%E5%BE%8B%E5%AE%BE%E6%9A%82%E5%81%9C%E4%B8%AD%E4%BC%81%E6%89%BF%E5%8C%85%E5%A1%AB%E6%B5%B7%E9%A1%B9%E7%9B%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女网红开车送货遇害 凶手被判死刑](https://www.baidu.com/s?wd=%E5%A5%B3%E7%BD%91%E7%BA%A2%E5%BC%80%E8%BD%A6%E9%80%81%E8%B4%A7%E9%81%87%E5%AE%B3+%E5%87%B6%E6%89%8B%E8%A2%AB%E5%88%A4%E6%AD%BB%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [高叶狂飙后首部电视剧](https://www.baidu.com/s?wd=%E9%AB%98%E5%8F%B6%E7%8B%82%E9%A3%99%E5%90%8E%E9%A6%96%E9%83%A8%E7%94%B5%E8%A7%86%E5%89%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [雷军建议大家少刷手机](https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E5%B0%91%E5%88%B7%E6%89%8B%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
