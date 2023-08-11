@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-11 21:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-11 21:04:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [中国已成全球生育率最低的国家之一](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%B7%B2%E6%88%90%E5%85%A8%E7%90%83%E7%94%9F%E8%82%B2%E7%8E%87%E6%9C%80%E4%BD%8E%E7%9A%84%E5%9B%BD%E5%AE%B6%E4%B9%8B%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [大爷高铁上戴耳机喝白酒全程安静](https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E9%AB%98%E9%93%81%E4%B8%8A%E6%88%B4%E8%80%B3%E6%9C%BA%E5%96%9D%E7%99%BD%E9%85%92%E5%85%A8%E7%A8%8B%E5%AE%89%E9%9D%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [一键解锁入秋好物](https://www.baidu.com/s?wd=%E4%B8%80%E9%94%AE%E8%A7%A3%E9%94%81%E5%85%A5%E7%A7%8B%E5%A5%BD%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [黑龙江一湖水变绿似菠菜汁](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%80%E6%B9%96%E6%B0%B4%E5%8F%98%E7%BB%BF%E4%BC%BC%E8%8F%A0%E8%8F%9C%E6%B1%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [杨紫回应哭戏被夸](https://www.baidu.com/s?wd=%E6%9D%A8%E7%B4%AB%E5%9B%9E%E5%BA%94%E5%93%AD%E6%88%8F%E8%A2%AB%E5%A4%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [中国已成全球生育率最低的国家之一](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%B7%B2%E6%88%90%E5%85%A8%E7%90%83%E7%94%9F%E8%82%B2%E7%8E%87%E6%9C%80%E4%BD%8E%E7%9A%84%E5%9B%BD%E5%AE%B6%E4%B9%8B%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [大爷高铁上戴耳机喝白酒全程安静](https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E9%AB%98%E9%93%81%E4%B8%8A%E6%88%B4%E8%80%B3%E6%9C%BA%E5%96%9D%E7%99%BD%E9%85%92%E5%85%A8%E7%A8%8B%E5%AE%89%E9%9D%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [一键解锁入秋好物](https://www.baidu.com/s?wd=%E4%B8%80%E9%94%AE%E8%A7%A3%E9%94%81%E5%85%A5%E7%A7%8B%E5%A5%BD%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [黑龙江一湖水变绿似菠菜汁](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%80%E6%B9%96%E6%B0%B4%E5%8F%98%E7%BB%BF%E4%BC%BC%E8%8F%A0%E8%8F%9C%E6%B1%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [杨紫回应哭戏被夸](https://www.baidu.com/s?wd=%E6%9D%A8%E7%B4%AB%E5%9B%9E%E5%BA%94%E5%93%AD%E6%88%8F%E8%A2%AB%E5%A4%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
