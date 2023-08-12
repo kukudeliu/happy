@@ -1,13 +1,13 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-12 13:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-12 13:56:01</h4></div>
 
 > 微博  
 
 1. [哥 成钢他会改的](https://s.weibo.com/weibo?q=%E5%93%A5%20%E6%88%90%E9%92%A2%E4%BB%96%E4%BC%9A%E6%94%B9%E7%9A%84&t=31&band_rank=1&Refer=top)<br />
-2. [宿舍用了9000度电是什么体验](https://s.weibo.com/weibo?q=%23%E5%AE%BF%E8%88%8D%E7%94%A8%E4%BA%869000%E5%BA%A6%E7%94%B5%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23&t=31&band_rank=2&Refer=top)<br />
+2. [妻子实名举报医生老公每年药品回扣十几万](https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%E5%8C%BB%E7%94%9F%E8%80%81%E5%85%AC%E6%AF%8F%E5%B9%B4%E8%8D%AF%E5%93%81%E5%9B%9E%E6%89%A3%E5%8D%81%E5%87%A0%E4%B8%87%23&t=31&band_rank=2&Refer=top)<br />
 3. [人气旺起来消费火起来经济活起来](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%94%E6%97%BA%E8%B5%B7%E6%9D%A5%E6%B6%88%E8%B4%B9%E7%81%AB%E8%B5%B7%E6%9D%A5%E7%BB%8F%E6%B5%8E%E6%B4%BB%E8%B5%B7%E6%9D%A5%23&t=31&band_rank=3&Refer=top)<br />
 4. [娜扎为什么接这种广告](https://s.weibo.com/weibo?q=%E5%A8%9C%E6%89%8E%E4%B8%BA%E4%BB%80%E4%B9%88%E6%8E%A5%E8%BF%99%E7%A7%8D%E5%B9%BF%E5%91%8A&t=31&band_rank=4&Refer=top)<br />
 5. [于适 巩俐](https://s.weibo.com/weibo?q=%E4%BA%8E%E9%80%82%20%E5%B7%A9%E4%BF%90&t=31&band_rank=5&Refer=top)<br />
-6. [妻子实名举报医生老公每年药品回扣十几万](https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%E5%8C%BB%E7%94%9F%E8%80%81%E5%85%AC%E6%AF%8F%E5%B9%B4%E8%8D%AF%E5%93%81%E5%9B%9E%E6%89%A3%E5%8D%81%E5%87%A0%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
+6. [宿舍用了9000度电是什么体验](https://s.weibo.com/weibo?q=%23%E5%AE%BF%E8%88%8D%E7%94%A8%E4%BA%869000%E5%BA%A6%E7%94%B5%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23&t=31&band_rank=6&Refer=top)<br />
 7. [医生说曾黎顶多30岁](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E8%AF%B4%E6%9B%BE%E9%BB%8E%E9%A1%B6%E5%A4%9A30%E5%B2%81%23&t=31&band_rank=7&Refer=top)<br />
 8. [原著小夭成为王母](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E8%91%97%E5%B0%8F%E5%A4%AD%E6%88%90%E4%B8%BA%E7%8E%8B%E6%AF%8D%23&t=31&band_rank=8&Refer=top)<br />
 9. [消防员抓了只龙头鹿身的动物](https://s.weibo.com/weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E6%8A%93%E4%BA%86%E5%8F%AA%E9%BE%99%E5%A4%B4%E9%B9%BF%E8%BA%AB%E7%9A%84%E5%8A%A8%E7%89%A9%23&t=31&band_rank=9&Refer=top)<br />
