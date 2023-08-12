@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-12 20:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-12 20:39:01</h4></div>
 
 > 微博  
 
@@ -23,9 +23,9 @@
 4. [致敬！闻“汛”而动的你](https://www.baidu.com/s?wd=%E8%87%B4%E6%95%AC%EF%BC%81%E9%97%BB%E2%80%9C%E6%B1%9B%E2%80%9D%E8%80%8C%E5%8A%A8%E7%9A%84%E4%BD%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [西安市胸科医院院长李向前被查](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E5%B8%82%E8%83%B8%E7%A7%91%E5%8C%BB%E9%99%A2%E9%99%A2%E9%95%BF%E6%9D%8E%E5%90%91%E5%89%8D%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [59岁法医因抑郁症女孩一句话哭了](https://www.baidu.com/s?wd=59%E5%B2%81%E6%B3%95%E5%8C%BB%E5%9B%A0%E6%8A%91%E9%83%81%E7%97%87%E5%A5%B3%E5%AD%A9%E4%B8%80%E5%8F%A5%E8%AF%9D%E5%93%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女孩险被诱骗到缅甸在加油站获救](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E9%99%A9%E8%A2%AB%E8%AF%B1%E9%AA%97%E5%88%B0%E7%BC%85%E7%94%B8%E5%9C%A8%E5%8A%A0%E6%B2%B9%E7%AB%99%E8%8E%B7%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子提供代骂服务被拘：一单100元](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8F%90%E4%BE%9B%E4%BB%A3%E9%AA%82%E6%9C%8D%E5%8A%A1%E8%A2%AB%E6%8B%98%EF%BC%9A%E4%B8%80%E5%8D%95100%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [今天也辛苦了](https://www.baidu.com/s?wd=%E4%BB%8A%E5%A4%A9%E4%B9%9F%E8%BE%9B%E8%8B%A6%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [重庆观音桥高楼爆破瞬间倒地](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%A7%82%E9%9F%B3%E6%A1%A5%E9%AB%98%E6%A5%BC%E7%88%86%E7%A0%B4%E7%9E%AC%E9%97%B4%E5%80%92%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女孩险被诱骗到缅甸在加油站获救](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E9%99%A9%E8%A2%AB%E8%AF%B1%E9%AA%97%E5%88%B0%E7%BC%85%E7%94%B8%E5%9C%A8%E5%8A%A0%E6%B2%B9%E7%AB%99%E8%8E%B7%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -35,6 +35,6 @@
 4. [致敬！闻“汛”而动的你](https://www.baidu.com/s?wd=%E8%87%B4%E6%95%AC%EF%BC%81%E9%97%BB%E2%80%9C%E6%B1%9B%E2%80%9D%E8%80%8C%E5%8A%A8%E7%9A%84%E4%BD%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [西安市胸科医院院长李向前被查](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E5%B8%82%E8%83%B8%E7%A7%91%E5%8C%BB%E9%99%A2%E9%99%A2%E9%95%BF%E6%9D%8E%E5%90%91%E5%89%8D%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [59岁法医因抑郁症女孩一句话哭了](https://www.baidu.com/s?wd=59%E5%B2%81%E6%B3%95%E5%8C%BB%E5%9B%A0%E6%8A%91%E9%83%81%E7%97%87%E5%A5%B3%E5%AD%A9%E4%B8%80%E5%8F%A5%E8%AF%9D%E5%93%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女孩险被诱骗到缅甸在加油站获救](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E9%99%A9%E8%A2%AB%E8%AF%B1%E9%AA%97%E5%88%B0%E7%BC%85%E7%94%B8%E5%9C%A8%E5%8A%A0%E6%B2%B9%E7%AB%99%E8%8E%B7%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子提供代骂服务被拘：一单100元](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8F%90%E4%BE%9B%E4%BB%A3%E9%AA%82%E6%9C%8D%E5%8A%A1%E8%A2%AB%E6%8B%98%EF%BC%9A%E4%B8%80%E5%8D%95100%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [今天也辛苦了](https://www.baidu.com/s?wd=%E4%BB%8A%E5%A4%A9%E4%B9%9F%E8%BE%9B%E8%8B%A6%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [重庆观音桥高楼爆破瞬间倒地](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%A7%82%E9%9F%B3%E6%A1%A5%E9%AB%98%E6%A5%BC%E7%88%86%E7%A0%B4%E7%9E%AC%E9%97%B4%E5%80%92%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女孩险被诱骗到缅甸在加油站获救](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E9%99%A9%E8%A2%AB%E8%AF%B1%E9%AA%97%E5%88%B0%E7%BC%85%E7%94%B8%E5%9C%A8%E5%8A%A0%E6%B2%B9%E7%AB%99%E8%8E%B7%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
