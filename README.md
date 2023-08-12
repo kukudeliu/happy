@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-13 06:52:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-13 06:53:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [黄晓明发文告别方嘉树](https://www.baidu.com/s?wd=%E9%BB%84%E6%99%93%E6%98%8E%E5%8F%91%E6%96%87%E5%91%8A%E5%88%AB%E6%96%B9%E5%98%89%E6%A0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [59岁法医因抑郁症女孩一句话哭了](https://www.baidu.com/s?wd=59%E5%B2%81%E6%B3%95%E5%8C%BB%E5%9B%A0%E6%8A%91%E9%83%81%E7%97%87%E5%A5%B3%E5%AD%A9%E4%B8%80%E5%8F%A5%E8%AF%9D%E5%93%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子重击妻子头部殴打儿媳 警方通报](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%87%8D%E5%87%BB%E5%A6%BB%E5%AD%90%E5%A4%B4%E9%83%A8%E6%AE%B4%E6%89%93%E5%84%BF%E5%AA%B3+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [阮经天发生车祸？经纪人回应](https://www.baidu.com/s?wd=%E9%98%AE%E7%BB%8F%E5%A4%A9%E5%8F%91%E7%94%9F%E8%BD%A6%E7%A5%B8%EF%BC%9F%E7%BB%8F%E7%BA%AA%E4%BA%BA%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女孩险被诱骗到缅甸在加油站获救](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E9%99%A9%E8%A2%AB%E8%AF%B1%E9%AA%97%E5%88%B0%E7%BC%85%E7%94%B8%E5%9C%A8%E5%8A%A0%E6%B2%B9%E7%AB%99%E8%8E%B7%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [黄晓明发文告别方嘉树](https://www.baidu.com/s?wd=%E9%BB%84%E6%99%93%E6%98%8E%E5%8F%91%E6%96%87%E5%91%8A%E5%88%AB%E6%96%B9%E5%98%89%E6%A0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [59岁法医因抑郁症女孩一句话哭了](https://www.baidu.com/s?wd=59%E5%B2%81%E6%B3%95%E5%8C%BB%E5%9B%A0%E6%8A%91%E9%83%81%E7%97%87%E5%A5%B3%E5%AD%A9%E4%B8%80%E5%8F%A5%E8%AF%9D%E5%93%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子重击妻子头部殴打儿媳 警方通报](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%87%8D%E5%87%BB%E5%A6%BB%E5%AD%90%E5%A4%B4%E9%83%A8%E6%AE%B4%E6%89%93%E5%84%BF%E5%AA%B3+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [阮经天发生车祸？经纪人回应](https://www.baidu.com/s?wd=%E9%98%AE%E7%BB%8F%E5%A4%A9%E5%8F%91%E7%94%9F%E8%BD%A6%E7%A5%B8%EF%BC%9F%E7%BB%8F%E7%BA%AA%E4%BA%BA%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女孩险被诱骗到缅甸在加油站获救](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E9%99%A9%E8%A2%AB%E8%AF%B1%E9%AA%97%E5%88%B0%E7%BC%85%E7%94%B8%E5%9C%A8%E5%8A%A0%E6%B2%B9%E7%AB%99%E8%8E%B7%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
