@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-13 07:41:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-13 07:42:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [李雪琴在王鹤棣魏大勋之间做选择](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%9B%AA%E7%90%B4%E5%9C%A8%E7%8E%8B%E9%B9%A4%E6%A3%A3%E9%AD%8F%E5%A4%A7%E5%8B%8B%E4%B9%8B%E9%97%B4%E5%81%9A%E9%80%89%E6%8B%A9%23&t=31&band_rank=5&Refer=top)<br />
 6. [张杰谢娜](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9D%B0%E8%B0%A2%E5%A8%9C&t=31&band_rank=6&Refer=top)<br />
 7. [各大医院书记院长被抓后痛哭流涕](https://s.weibo.com/weibo?q=%E5%90%84%E5%A4%A7%E5%8C%BB%E9%99%A2%E4%B9%A6%E8%AE%B0%E9%99%A2%E9%95%BF%E8%A2%AB%E6%8A%93%E5%90%8E%E7%97%9B%E5%93%AD%E6%B5%81%E6%B6%95&t=31&band_rank=7&Refer=top)<br />
-8. [每天喝无糖饮料发生了什么变化](https://s.weibo.com/weibo?q=%E6%AF%8F%E5%A4%A9%E5%96%9D%E6%97%A0%E7%B3%96%E9%A5%AE%E6%96%99%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88%E5%8F%98%E5%8C%96&t=31&band_rank=8&Refer=top)<br />
-9. [iPhone14Pro用户抱怨电池容量大幅下滑](https://s.weibo.com/weibo?q=%23iPhone14Pro%E7%94%A8%E6%88%B7%E6%8A%B1%E6%80%A8%E7%94%B5%E6%B1%A0%E5%AE%B9%E9%87%8F%E5%A4%A7%E5%B9%85%E4%B8%8B%E6%BB%91%23&t=31&band_rank=9&Refer=top)<br />
+8. [iPhone14Pro用户抱怨电池容量大幅下滑](https://s.weibo.com/weibo?q=%23iPhone14Pro%E7%94%A8%E6%88%B7%E6%8A%B1%E6%80%A8%E7%94%B5%E6%B1%A0%E5%AE%B9%E9%87%8F%E5%A4%A7%E5%B9%85%E4%B8%8B%E6%BB%91%23&t=31&band_rank=8&Refer=top)<br />
+9. [邓为大笑](https://s.weibo.com/weibo?q=%23%E9%82%93%E4%B8%BA%E5%A4%A7%E7%AC%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
