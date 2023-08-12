@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-12 14:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-12 14:02:01</h4></div>
 
 > 微博  
 
@@ -23,9 +23,9 @@
 4. [努力让医保基金每一分钱都花得更值](https://www.baidu.com/s?wd=%E5%8A%AA%E5%8A%9B%E8%AE%A9%E5%8C%BB%E4%BF%9D%E5%9F%BA%E9%87%91%E6%AF%8F%E4%B8%80%E5%88%86%E9%92%B1%E9%83%BD%E8%8A%B1%E5%BE%97%E6%9B%B4%E5%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [国铁回应“高铁票越来越难买”](https://www.baidu.com/s?wd=%E5%9B%BD%E9%93%81%E5%9B%9E%E5%BA%94%E2%80%9C%E9%AB%98%E9%93%81%E7%A5%A8%E8%B6%8A%E6%9D%A5%E8%B6%8A%E9%9A%BE%E4%B9%B0%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子近视300度手术后变远视200度](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%BF%91%E8%A7%86300%E5%BA%A6%E6%89%8B%E6%9C%AF%E5%90%8E%E5%8F%98%E8%BF%9C%E8%A7%86200%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [航班延误头等舱下机经济舱等2小时](https://www.baidu.com/s?wd=%E8%88%AA%E7%8F%AD%E5%BB%B6%E8%AF%AF%E5%A4%B4%E7%AD%89%E8%88%B1%E4%B8%8B%E6%9C%BA%E7%BB%8F%E6%B5%8E%E8%88%B1%E7%AD%892%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [代言赌博游戏 娜扎经纪人道歉](https://www.baidu.com/s?wd=%E4%BB%A3%E8%A8%80%E8%B5%8C%E5%8D%9A%E6%B8%B8%E6%88%8F+%E5%A8%9C%E6%89%8E%E7%BB%8F%E7%BA%AA%E4%BA%BA%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [秘鲁一部落称遭2米高外星人袭击](https://www.baidu.com/s?wd=%E7%A7%98%E9%B2%81%E4%B8%80%E9%83%A8%E8%90%BD%E7%A7%B0%E9%81%AD2%E7%B1%B3%E9%AB%98%E5%A4%96%E6%98%9F%E4%BA%BA%E8%A2%AD%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [代言赌博游戏 娜扎经纪人道歉](https://www.baidu.com/s?wd=%E4%BB%A3%E8%A8%80%E8%B5%8C%E5%8D%9A%E6%B8%B8%E6%88%8F+%E5%A8%9C%E6%89%8E%E7%BB%8F%E7%BA%AA%E4%BA%BA%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [秘鲁一部落称遭2米高外星人袭击](https://www.baidu.com/s?wd=%E7%A7%98%E9%B2%81%E4%B8%80%E9%83%A8%E8%90%BD%E7%A7%B0%E9%81%AD2%E7%B1%B3%E9%AB%98%E5%A4%96%E6%98%9F%E4%BA%BA%E8%A2%AD%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [马苏参加网红生日宴被嘲当陪衬](https://www.baidu.com/s?wd=%E9%A9%AC%E8%8B%8F%E5%8F%82%E5%8A%A0%E7%BD%91%E7%BA%A2%E7%94%9F%E6%97%A5%E5%AE%B4%E8%A2%AB%E5%98%B2%E5%BD%93%E9%99%AA%E8%A1%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -35,6 +35,6 @@
 4. [努力让医保基金每一分钱都花得更值](https://www.baidu.com/s?wd=%E5%8A%AA%E5%8A%9B%E8%AE%A9%E5%8C%BB%E4%BF%9D%E5%9F%BA%E9%87%91%E6%AF%8F%E4%B8%80%E5%88%86%E9%92%B1%E9%83%BD%E8%8A%B1%E5%BE%97%E6%9B%B4%E5%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [国铁回应“高铁票越来越难买”](https://www.baidu.com/s?wd=%E5%9B%BD%E9%93%81%E5%9B%9E%E5%BA%94%E2%80%9C%E9%AB%98%E9%93%81%E7%A5%A8%E8%B6%8A%E6%9D%A5%E8%B6%8A%E9%9A%BE%E4%B9%B0%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子近视300度手术后变远视200度](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%BF%91%E8%A7%86300%E5%BA%A6%E6%89%8B%E6%9C%AF%E5%90%8E%E5%8F%98%E8%BF%9C%E8%A7%86200%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [航班延误头等舱下机经济舱等2小时](https://www.baidu.com/s?wd=%E8%88%AA%E7%8F%AD%E5%BB%B6%E8%AF%AF%E5%A4%B4%E7%AD%89%E8%88%B1%E4%B8%8B%E6%9C%BA%E7%BB%8F%E6%B5%8E%E8%88%B1%E7%AD%892%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [代言赌博游戏 娜扎经纪人道歉](https://www.baidu.com/s?wd=%E4%BB%A3%E8%A8%80%E8%B5%8C%E5%8D%9A%E6%B8%B8%E6%88%8F+%E5%A8%9C%E6%89%8E%E7%BB%8F%E7%BA%AA%E4%BA%BA%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [秘鲁一部落称遭2米高外星人袭击](https://www.baidu.com/s?wd=%E7%A7%98%E9%B2%81%E4%B8%80%E9%83%A8%E8%90%BD%E7%A7%B0%E9%81%AD2%E7%B1%B3%E9%AB%98%E5%A4%96%E6%98%9F%E4%BA%BA%E8%A2%AD%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [代言赌博游戏 娜扎经纪人道歉](https://www.baidu.com/s?wd=%E4%BB%A3%E8%A8%80%E8%B5%8C%E5%8D%9A%E6%B8%B8%E6%88%8F+%E5%A8%9C%E6%89%8E%E7%BB%8F%E7%BA%AA%E4%BA%BA%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [秘鲁一部落称遭2米高外星人袭击](https://www.baidu.com/s?wd=%E7%A7%98%E9%B2%81%E4%B8%80%E9%83%A8%E8%90%BD%E7%A7%B0%E9%81%AD2%E7%B1%B3%E9%AB%98%E5%A4%96%E6%98%9F%E4%BA%BA%E8%A2%AD%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [马苏参加网红生日宴被嘲当陪衬](https://www.baidu.com/s?wd=%E9%A9%AC%E8%8B%8F%E5%8F%82%E5%8A%A0%E7%BD%91%E7%BA%A2%E7%94%9F%E6%97%A5%E5%AE%B4%E8%A2%AB%E5%98%B2%E5%BD%93%E9%99%AA%E8%A1%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
