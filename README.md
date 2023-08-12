@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-12 09:08:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-12 09:09:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [尼日尔总统被软禁2周 食物将耗尽](https://www.baidu.com/s?wd=%E5%B0%BC%E6%97%A5%E5%B0%94%E6%80%BB%E7%BB%9F%E8%A2%AB%E8%BD%AF%E7%A6%812%E5%91%A8+%E9%A3%9F%E7%89%A9%E5%B0%86%E8%80%97%E5%B0%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [那英说你不吹牛能死吗](https://www.baidu.com/s?wd=%E9%82%A3%E8%8B%B1%E8%AF%B4%E4%BD%A0%E4%B8%8D%E5%90%B9%E7%89%9B%E8%83%BD%E6%AD%BB%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [专家：中国社会转为“养老为主”](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E8%BD%AC%E4%B8%BA%E2%80%9C%E5%85%BB%E8%80%81%E4%B8%BA%E4%B8%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [网传西安市胸科医院院长李向前被查](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E8%A5%BF%E5%AE%89%E5%B8%82%E8%83%B8%E7%A7%91%E5%8C%BB%E9%99%A2%E9%99%A2%E9%95%BF%E6%9D%8E%E5%90%91%E5%89%8D%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子划桨板被摩托艇故意撞倒2次](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%88%92%E6%A1%A8%E6%9D%BF%E8%A2%AB%E6%91%A9%E6%89%98%E8%89%87%E6%95%85%E6%84%8F%E6%92%9E%E5%80%922%E6%AC%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [尼日尔总统被软禁2周 食物将耗尽](https://www.baidu.com/s?wd=%E5%B0%BC%E6%97%A5%E5%B0%94%E6%80%BB%E7%BB%9F%E8%A2%AB%E8%BD%AF%E7%A6%812%E5%91%A8+%E9%A3%9F%E7%89%A9%E5%B0%86%E8%80%97%E5%B0%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [那英说你不吹牛能死吗](https://www.baidu.com/s?wd=%E9%82%A3%E8%8B%B1%E8%AF%B4%E4%BD%A0%E4%B8%8D%E5%90%B9%E7%89%9B%E8%83%BD%E6%AD%BB%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [专家：中国社会转为“养老为主”](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E8%BD%AC%E4%B8%BA%E2%80%9C%E5%85%BB%E8%80%81%E4%B8%BA%E4%B8%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [网传西安市胸科医院院长李向前被查](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E8%A5%BF%E5%AE%89%E5%B8%82%E8%83%B8%E7%A7%91%E5%8C%BB%E9%99%A2%E9%99%A2%E9%95%BF%E6%9D%8E%E5%90%91%E5%89%8D%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子划桨板被摩托艇故意撞倒2次](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%88%92%E6%A1%A8%E6%9D%BF%E8%A2%AB%E6%91%A9%E6%89%98%E8%89%87%E6%95%85%E6%84%8F%E6%92%9E%E5%80%922%E6%AC%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
