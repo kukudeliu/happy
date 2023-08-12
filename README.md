@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-12 09:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-12 09:46:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [李雪琴的北大真是没白上](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%9B%AA%E7%90%B4%E7%9A%84%E5%8C%97%E5%A4%A7%E7%9C%9F%E6%98%AF%E6%B2%A1%E7%99%BD%E4%B8%8A%23&t=31&band_rank=5&Refer=top)<br />
 6. [肾好不好睡一觉就知道了](https://s.weibo.com/weibo?q=%23%E8%82%BE%E5%A5%BD%E4%B8%8D%E5%A5%BD%E7%9D%A1%E4%B8%80%E8%A7%89%E5%B0%B1%E7%9F%A5%E9%81%93%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [那英 你不吹牛能死吗](https://s.weibo.com/weibo?q=%E9%82%A3%E8%8B%B1%20%E4%BD%A0%E4%B8%8D%E5%90%B9%E7%89%9B%E8%83%BD%E6%AD%BB%E5%90%97&t=31&band_rank=7&Refer=top)<br />
-8. [霸王茶姬](https://s.weibo.com/weibo?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC&t=31&band_rank=8&Refer=top)<br />
-9. [我好像删到电脑的大动脉了](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%A5%BD%E5%83%8F%E5%88%A0%E5%88%B0%E7%94%B5%E8%84%91%E7%9A%84%E5%A4%A7%E5%8A%A8%E8%84%89%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+8. [我好像删到电脑的大动脉了](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%A5%BD%E5%83%8F%E5%88%A0%E5%88%B0%E7%94%B5%E8%84%91%E7%9A%84%E5%A4%A7%E5%8A%A8%E8%84%89%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [霸王茶姬](https://s.weibo.com/weibo?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
