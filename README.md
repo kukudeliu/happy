@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-13 04:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-13 04:43:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [长相思男主爆红后综艺首秀](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D%E7%94%B7%E4%B8%BB%E7%88%86%E7%BA%A2%E5%90%8E%E7%BB%BC%E8%89%BA%E9%A6%96%E7%A7%80%23&t=31&band_rank=6&Refer=top)<br />
 7. [家长吐槽暑假40天孩子开销五六万](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%95%BF%E5%90%90%E6%A7%BD%E6%9A%91%E5%81%8740%E5%A4%A9%E5%AD%A9%E5%AD%90%E5%BC%80%E9%94%80%E4%BA%94%E5%85%AD%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [每天喝无糖饮料发生了什么变化](https://s.weibo.com/weibo?q=%E6%AF%8F%E5%A4%A9%E5%96%9D%E6%97%A0%E7%B3%96%E9%A5%AE%E6%96%99%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88%E5%8F%98%E5%8C%96&t=31&band_rank=8&Refer=top)<br />
-9. [各大医院书记院长被抓后痛哭流涕](https://s.weibo.com/weibo?q=%E5%90%84%E5%A4%A7%E5%8C%BB%E9%99%A2%E4%B9%A6%E8%AE%B0%E9%99%A2%E9%95%BF%E8%A2%AB%E6%8A%93%E5%90%8E%E7%97%9B%E5%93%AD%E6%B5%81%E6%B6%95&t=31&band_rank=9&Refer=top)<br />
+9. [李雪琴在王鹤棣魏大勋之间做选择](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%9B%AA%E7%90%B4%E5%9C%A8%E7%8E%8B%E9%B9%A4%E6%A3%A3%E9%AD%8F%E5%A4%A7%E5%8B%8B%E4%B9%8B%E9%97%B4%E5%81%9A%E9%80%89%E6%8B%A9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
