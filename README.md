@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-12 16:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-12 16:05:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [张艺兴突然哭了](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%89%BA%E5%85%B4%E7%AA%81%E7%84%B6%E5%93%AD%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
 5. [缅甸旅游业苦等中国游客重返](https://s.weibo.com/weibo?q=%23%E7%BC%85%E7%94%B8%E6%97%85%E6%B8%B8%E4%B8%9A%E8%8B%A6%E7%AD%89%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E9%87%8D%E8%BF%94%23&t=31&band_rank=5&Refer=top)<br />
 6. [娜扎经纪人为接广告道歉](https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8E%E7%BB%8F%E7%BA%AA%E4%BA%BA%E4%B8%BA%E6%8E%A5%E5%B9%BF%E5%91%8A%E9%81%93%E6%AD%89%23&t=31&band_rank=6&Refer=top)<br />
-7. [饭制版梅林殉情](https://s.weibo.com/weibo?q=%E9%A5%AD%E5%88%B6%E7%89%88%E6%A2%85%E6%9E%97%E6%AE%89%E6%83%85&t=31&band_rank=7&Refer=top)<br />
-8. [封神第一部票房破19亿](https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E%E7%AC%AC%E4%B8%80%E9%83%A8%E7%A5%A8%E6%88%BF%E7%A0%B419%E4%BA%BF%23&t=31&band_rank=8&Refer=top)<br />
+7. [杨紫选剧本](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E9%80%89%E5%89%A7%E6%9C%AC%23&t=31&band_rank=7&Refer=top)<br />
+8. [饭制版梅林殉情](https://s.weibo.com/weibo?q=%E9%A5%AD%E5%88%B6%E7%89%88%E6%A2%85%E6%9E%97%E6%AE%89%E6%83%85&t=31&band_rank=8&Refer=top)<br />
 9. [医生说曾黎顶多30岁](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E8%AF%B4%E6%9B%BE%E9%BB%8E%E9%A1%B6%E5%A4%9A30%E5%B2%81%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
