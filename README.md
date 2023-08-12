@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-13 02:56:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-13 02:57:01</h4></div>
 
 > 微博  
 
 1. [iPhone14Pro用户抱怨电池容量大幅下滑](https://s.weibo.com/weibo?q=%23iPhone14Pro%E7%94%A8%E6%88%B7%E6%8A%B1%E6%80%A8%E7%94%B5%E6%B1%A0%E5%AE%B9%E9%87%8F%E5%A4%A7%E5%B9%85%E4%B8%8B%E6%BB%91%23&t=31&band_rank=1&Refer=top)<br />
-2. [各大医院书记院长被抓后痛哭流涕](https://s.weibo.com/weibo?q=%E5%90%84%E5%A4%A7%E5%8C%BB%E9%99%A2%E4%B9%A6%E8%AE%B0%E9%99%A2%E9%95%BF%E8%A2%AB%E6%8A%93%E5%90%8E%E7%97%9B%E5%93%AD%E6%B5%81%E6%B6%95&t=31&band_rank=2&Refer=top)<br />
+2. [刘雨昕广州](https://s.weibo.com/weibo?q=%23%E5%88%98%E9%9B%A8%E6%98%95%E5%B9%BF%E5%B7%9E%23&t=31&band_rank=2&Refer=top)<br />
 3. [退伍老兵敬礼送别抗洪官兵](https://s.weibo.com/weibo?q=%23%E9%80%80%E4%BC%8D%E8%80%81%E5%85%B5%E6%95%AC%E7%A4%BC%E9%80%81%E5%88%AB%E6%8A%97%E6%B4%AA%E5%AE%98%E5%85%B5%23&t=31&band_rank=3&Refer=top)<br />
 4. [张杰谢娜](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9D%B0%E8%B0%A2%E5%A8%9C&t=31&band_rank=4&Refer=top)<br />
-5. [刘雨昕广州](https://s.weibo.com/weibo?q=%23%E5%88%98%E9%9B%A8%E6%98%95%E5%B9%BF%E5%B7%9E%23&t=31&band_rank=5&Refer=top)<br />
+5. [各大医院书记院长被抓后痛哭流涕](https://s.weibo.com/weibo?q=%E5%90%84%E5%A4%A7%E5%8C%BB%E9%99%A2%E4%B9%A6%E8%AE%B0%E9%99%A2%E9%95%BF%E8%A2%AB%E6%8A%93%E5%90%8E%E7%97%9B%E5%93%AD%E6%B5%81%E6%B6%95&t=31&band_rank=5&Refer=top)<br />
 6. [每天喝无糖饮料发生了什么变化](https://s.weibo.com/weibo?q=%E6%AF%8F%E5%A4%A9%E5%96%9D%E6%97%A0%E7%B3%96%E9%A5%AE%E6%96%99%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88%E5%8F%98%E5%8C%96&t=31&band_rank=6&Refer=top)<br />
 7. [长相思男主爆红后综艺首秀](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D%E7%94%B7%E4%B8%BB%E7%88%86%E7%BA%A2%E5%90%8E%E7%BB%BC%E8%89%BA%E9%A6%96%E7%A7%80%23&t=31&band_rank=7&Refer=top)<br />
 8. [原来这张表情包是喜羊羊遗照](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E8%BF%99%E5%BC%A0%E8%A1%A8%E6%83%85%E5%8C%85%E6%98%AF%E5%96%9C%E7%BE%8A%E7%BE%8A%E9%81%97%E7%85%A7&t=31&band_rank=8&Refer=top)<br />
