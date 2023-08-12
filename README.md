@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-12 12:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-12 12:47:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [医生说曾黎顶多30岁](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E8%AF%B4%E6%9B%BE%E9%BB%8E%E9%A1%B6%E5%A4%9A30%E5%B2%81%23&t=31&band_rank=5&Refer=top)<br />
 6. [刘浩存把丁程鑫撩到耳朵都红了](https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B5%A9%E5%AD%98%E6%8A%8A%E4%B8%81%E7%A8%8B%E9%91%AB%E6%92%A9%E5%88%B0%E8%80%B3%E6%9C%B5%E9%83%BD%E7%BA%A2%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [娜扎经纪人为接广告道歉](https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8E%E7%BB%8F%E7%BA%AA%E4%BA%BA%E4%B8%BA%E6%8E%A5%E5%B9%BF%E5%91%8A%E9%81%93%E6%AD%89%23&t=31&band_rank=7&Refer=top)<br />
-8. [奶茶奶盖有多不健康](https://s.weibo.com/weibo?q=%23%E5%A5%B6%E8%8C%B6%E5%A5%B6%E7%9B%96%E6%9C%89%E5%A4%9A%E4%B8%8D%E5%81%A5%E5%BA%B7%23&t=31&band_rank=8&Refer=top)<br />
+8. [罗翔 真正的爱是扶级而上的](https://s.weibo.com/weibo?q=%E7%BD%97%E7%BF%94%20%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%88%B1%E6%98%AF%E6%89%B6%E7%BA%A7%E8%80%8C%E4%B8%8A%E7%9A%84&t=31&band_rank=8&Refer=top)<br />
 9. [邓亚萍辟谣](https://s.weibo.com/weibo?q=%23%E9%82%93%E4%BA%9A%E8%90%8D%E8%BE%9F%E8%B0%A3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
