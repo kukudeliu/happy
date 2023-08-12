@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-12 10:10:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-12 10:11:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [肾好不好睡一觉就知道了](https://s.weibo.com/weibo?q=%23%E8%82%BE%E5%A5%BD%E4%B8%8D%E5%A5%BD%E7%9D%A1%E4%B8%80%E8%A7%89%E5%B0%B1%E7%9F%A5%E9%81%93%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [那英 你不吹牛能死吗](https://s.weibo.com/weibo?q=%E9%82%A3%E8%8B%B1%20%E4%BD%A0%E4%B8%8D%E5%90%B9%E7%89%9B%E8%83%BD%E6%AD%BB%E5%90%97&t=31&band_rank=7&Refer=top)<br />
 8. [娜扎为什么接这种广告](https://s.weibo.com/weibo?q=%E5%A8%9C%E6%89%8E%E4%B8%BA%E4%BB%80%E4%B9%88%E6%8E%A5%E8%BF%99%E7%A7%8D%E5%B9%BF%E5%91%8A&t=31&band_rank=8&Refer=top)<br />
-9. [家庭自卑就是这样来的](https://s.weibo.com/weibo?q=%E5%AE%B6%E5%BA%AD%E8%87%AA%E5%8D%91%E5%B0%B1%E6%98%AF%E8%BF%99%E6%A0%B7%E6%9D%A5%E7%9A%84&t=31&band_rank=9&Refer=top)<br />
+9. [邓为演技](https://s.weibo.com/weibo?q=%E9%82%93%E4%B8%BA%E6%BC%94%E6%8A%80&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
