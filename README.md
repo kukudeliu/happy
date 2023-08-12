@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-12 14:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-12 14:53:01</h4></div>
 
 > 微博  
 
@@ -6,9 +6,9 @@
 2. [上了大学不给孩子买手机可以吗](https://s.weibo.com/weibo?q=%E4%B8%8A%E4%BA%86%E5%A4%A7%E5%AD%A6%E4%B8%8D%E7%BB%99%E5%AD%A9%E5%AD%90%E4%B9%B0%E6%89%8B%E6%9C%BA%E5%8F%AF%E4%BB%A5%E5%90%97&t=31&band_rank=2&Refer=top)<br />
 3. [人气旺起来消费火起来经济活起来](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%94%E6%97%BA%E8%B5%B7%E6%9D%A5%E6%B6%88%E8%B4%B9%E7%81%AB%E8%B5%B7%E6%9D%A5%E7%BB%8F%E6%B5%8E%E6%B4%BB%E8%B5%B7%E6%9D%A5%23&t=31&band_rank=3&Refer=top)<br />
 4. [离职是上班提还是下班提](https://s.weibo.com/weibo?q=%23%E7%A6%BB%E8%81%8C%E6%98%AF%E4%B8%8A%E7%8F%AD%E6%8F%90%E8%BF%98%E6%98%AF%E4%B8%8B%E7%8F%AD%E6%8F%90%23&t=31&band_rank=4&Refer=top)<br />
-5. [封神第一部票房破19亿](https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E%E7%AC%AC%E4%B8%80%E9%83%A8%E7%A5%A8%E6%88%BF%E7%A0%B419%E4%BA%BF%23&t=31&band_rank=5&Refer=top)<br />
-6. [娜扎为什么接这种广告](https://s.weibo.com/weibo?q=%E5%A8%9C%E6%89%8E%E4%B8%BA%E4%BB%80%E4%B9%88%E6%8E%A5%E8%BF%99%E7%A7%8D%E5%B9%BF%E5%91%8A&t=31&band_rank=6&Refer=top)<br />
-7. [因为做饭太多被妈妈数落了](https://s.weibo.com/weibo?q=%E5%9B%A0%E4%B8%BA%E5%81%9A%E9%A5%AD%E5%A4%AA%E5%A4%9A%E8%A2%AB%E5%A6%88%E5%A6%88%E6%95%B0%E8%90%BD%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
+5. [因为做饭太多被妈妈数落了](https://s.weibo.com/weibo?q=%E5%9B%A0%E4%B8%BA%E5%81%9A%E9%A5%AD%E5%A4%AA%E5%A4%9A%E8%A2%AB%E5%A6%88%E5%A6%88%E6%95%B0%E8%90%BD%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
+6. [封神第一部票房破19亿](https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E%E7%AC%AC%E4%B8%80%E9%83%A8%E7%A5%A8%E6%88%BF%E7%A0%B419%E4%BA%BF%23&t=31&band_rank=6&Refer=top)<br />
+7. [娜扎为什么接这种广告](https://s.weibo.com/weibo?q=%E5%A8%9C%E6%89%8E%E4%B8%BA%E4%BB%80%E4%B9%88%E6%8E%A5%E8%BF%99%E7%A7%8D%E5%B9%BF%E5%91%8A&t=31&band_rank=7&Refer=top)<br />
 8. [医生说曾黎顶多30岁](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E8%AF%B4%E6%9B%BE%E9%BB%8E%E9%A1%B6%E5%A4%9A30%E5%B2%81%23&t=31&band_rank=8&Refer=top)<br />
 9. [孤注一掷 安娜](https://s.weibo.com/weibo?q=%E5%AD%A4%E6%B3%A8%E4%B8%80%E6%8E%B7%20%E5%AE%89%E5%A8%9C&t=31&band_rank=9&Refer=top)<br />
 
