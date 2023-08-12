@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-12 08:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-12 08:34:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [那英说你不吹牛能死吗](https://www.baidu.com/s?wd=%E9%82%A3%E8%8B%B1%E8%AF%B4%E4%BD%A0%E4%B8%8D%E5%90%B9%E7%89%9B%E8%83%BD%E6%AD%BB%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [台风卡努已在辽宁重新登陆](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E5%8D%A1%E5%8A%AA%E5%B7%B2%E5%9C%A8%E8%BE%BD%E5%AE%81%E9%87%8D%E6%96%B0%E7%99%BB%E9%99%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [尼日尔总统被软禁2周 食物将耗尽](https://www.baidu.com/s?wd=%E5%B0%BC%E6%97%A5%E5%B0%94%E6%80%BB%E7%BB%9F%E8%A2%AB%E8%BD%AF%E7%A6%812%E5%91%A8+%E9%A3%9F%E7%89%A9%E5%B0%86%E8%80%97%E5%B0%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [高叶狂飙后首部电视剧](https://www.baidu.com/s?wd=%E9%AB%98%E5%8F%B6%E7%8B%82%E9%A3%99%E5%90%8E%E9%A6%96%E9%83%A8%E7%94%B5%E8%A7%86%E5%89%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [“9人举报医院科主任”四大疑问待解](https://www.baidu.com/s?wd=%E2%80%9C9%E4%BA%BA%E4%B8%BE%E6%8A%A5%E5%8C%BB%E9%99%A2%E7%A7%91%E4%B8%BB%E4%BB%BB%E2%80%9D%E5%9B%9B%E5%A4%A7%E7%96%91%E9%97%AE%E5%BE%85%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [那英说你不吹牛能死吗](https://www.baidu.com/s?wd=%E9%82%A3%E8%8B%B1%E8%AF%B4%E4%BD%A0%E4%B8%8D%E5%90%B9%E7%89%9B%E8%83%BD%E6%AD%BB%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [台风卡努已在辽宁重新登陆](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E5%8D%A1%E5%8A%AA%E5%B7%B2%E5%9C%A8%E8%BE%BD%E5%AE%81%E9%87%8D%E6%96%B0%E7%99%BB%E9%99%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [尼日尔总统被软禁2周 食物将耗尽](https://www.baidu.com/s?wd=%E5%B0%BC%E6%97%A5%E5%B0%94%E6%80%BB%E7%BB%9F%E8%A2%AB%E8%BD%AF%E7%A6%812%E5%91%A8+%E9%A3%9F%E7%89%A9%E5%B0%86%E8%80%97%E5%B0%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [高叶狂飙后首部电视剧](https://www.baidu.com/s?wd=%E9%AB%98%E5%8F%B6%E7%8B%82%E9%A3%99%E5%90%8E%E9%A6%96%E9%83%A8%E7%94%B5%E8%A7%86%E5%89%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [“9人举报医院科主任”四大疑问待解](https://www.baidu.com/s?wd=%E2%80%9C9%E4%BA%BA%E4%B8%BE%E6%8A%A5%E5%8C%BB%E9%99%A2%E7%A7%91%E4%B8%BB%E4%BB%BB%E2%80%9D%E5%9B%9B%E5%A4%A7%E7%96%91%E9%97%AE%E5%BE%85%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
