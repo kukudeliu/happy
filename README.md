@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-12 13:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-12 13:17:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [医生说曾黎顶多30岁](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E8%AF%B4%E6%9B%BE%E9%BB%8E%E9%A1%B6%E5%A4%9A30%E5%B2%81%23&t=31&band_rank=5&Refer=top)<br />
 6. [罗翔 真正的爱是扶级而上的](https://s.weibo.com/weibo?q=%E7%BD%97%E7%BF%94%20%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%88%B1%E6%98%AF%E6%89%B6%E7%BA%A7%E8%80%8C%E4%B8%8A%E7%9A%84&t=31&band_rank=6&Refer=top)<br />
 7. [刘浩存把丁程鑫撩到耳朵都红了](https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B5%A9%E5%AD%98%E6%8A%8A%E4%B8%81%E7%A8%8B%E9%91%AB%E6%92%A9%E5%88%B0%E8%80%B3%E6%9C%B5%E9%83%BD%E7%BA%A2%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [奶茶奶盖有多不健康](https://s.weibo.com/weibo?q=%23%E5%A5%B6%E8%8C%B6%E5%A5%B6%E7%9B%96%E6%9C%89%E5%A4%9A%E4%B8%8D%E5%81%A5%E5%BA%B7%23&t=31&band_rank=8&Refer=top)<br />
+8. [赵雅芝 想叫我妈](https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9B%85%E8%8A%9D%20%E6%83%B3%E5%8F%AB%E6%88%91%E5%A6%88&t=31&band_rank=8&Refer=top)<br />
 9. [妻子实名举报医生老公每年药品回扣十几万](https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%E5%8C%BB%E7%94%9F%E8%80%81%E5%85%AC%E6%AF%8F%E5%B9%B4%E8%8D%AF%E5%93%81%E5%9B%9E%E6%89%A3%E5%8D%81%E5%87%A0%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
