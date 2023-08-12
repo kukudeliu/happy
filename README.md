@@ -1,13 +1,13 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-12 18:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-12 18:30:01</h4></div>
 
 > 微博  
 
 1. [59岁法医因抑郁症女孩一句话哭了](https://s.weibo.com/weibo?q=%2359%E5%B2%81%E6%B3%95%E5%8C%BB%E5%9B%A0%E6%8A%91%E9%83%81%E7%97%87%E5%A5%B3%E5%AD%A9%E4%B8%80%E5%8F%A5%E8%AF%9D%E5%93%AD%E4%BA%86%23&t=31&band_rank=1&Refer=top)<br />
 2. [全家22人从云南送小伙到国防科大报到](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%AE%B622%E4%BA%BA%E4%BB%8E%E4%BA%91%E5%8D%97%E9%80%81%E5%B0%8F%E4%BC%99%E5%88%B0%E5%9B%BD%E9%98%B2%E7%A7%91%E5%A4%A7%E6%8A%A5%E5%88%B0%23&t=31&band_rank=2&Refer=top)<br />
 3. [致敬青春最美的样子](https://s.weibo.com/weibo?q=%23%E8%87%B4%E6%95%AC%E9%9D%92%E6%98%A5%E6%9C%80%E7%BE%8E%E7%9A%84%E6%A0%B7%E5%AD%90%23&t=31&band_rank=3&Refer=top)<br />
-4. [缅甸旅游业苦等中国游客重返](https://s.weibo.com/weibo?q=%23%E7%BC%85%E7%94%B8%E6%97%85%E6%B8%B8%E4%B8%9A%E8%8B%A6%E7%AD%89%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E9%87%8D%E8%BF%94%23&t=31&band_rank=4&Refer=top)<br />
+4. [阮经天出车祸](https://s.weibo.com/weibo?q=%23%E9%98%AE%E7%BB%8F%E5%A4%A9%E5%87%BA%E8%BD%A6%E7%A5%B8%23&t=31&band_rank=4&Refer=top)<br />
 5. [女孩险被诱骗到缅甸在加油站获救](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E9%99%A9%E8%A2%AB%E8%AF%B1%E9%AA%97%E5%88%B0%E7%BC%85%E7%94%B8%E5%9C%A8%E5%8A%A0%E6%B2%B9%E7%AB%99%E8%8E%B7%E6%95%91%23&t=31&band_rank=5&Refer=top)<br />
-6. [阮经天出车祸](https://s.weibo.com/weibo?q=%23%E9%98%AE%E7%BB%8F%E5%A4%A9%E5%87%BA%E8%BD%A6%E7%A5%B8%23&t=31&band_rank=6&Refer=top)<br />
+6. [缅甸旅游业苦等中国游客重返](https://s.weibo.com/weibo?q=%23%E7%BC%85%E7%94%B8%E6%97%85%E6%B8%B8%E4%B8%9A%E8%8B%A6%E7%AD%89%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E9%87%8D%E8%BF%94%23&t=31&band_rank=6&Refer=top)<br />
 7. [电动车室内充电爆炸到燃烧仅3分钟](https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%8A%A8%E8%BD%A6%E5%AE%A4%E5%86%85%E5%85%85%E7%94%B5%E7%88%86%E7%82%B8%E5%88%B0%E7%87%83%E7%83%A7%E4%BB%853%E5%88%86%E9%92%9F%23&t=31&band_rank=7&Refer=top)<br />
 8. [网友评程潇喂许光汉吃东西像扔厨余垃圾](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E8%AF%84%E7%A8%8B%E6%BD%87%E5%96%82%E8%AE%B8%E5%85%89%E6%B1%89%E5%90%83%E4%B8%9C%E8%A5%BF%E5%83%8F%E6%89%94%E5%8E%A8%E4%BD%99%E5%9E%83%E5%9C%BE%23&t=31&band_rank=8&Refer=top)<br />
 9. [小夭喊杀错人的原因](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%A4%AD%E5%96%8A%E6%9D%80%E9%94%99%E4%BA%BA%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=9&Refer=top)<br />
