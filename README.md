@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-12 11:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-12 11:27:01</h4></div>
 
 > 微博  
 
@@ -17,7 +17,7 @@
 
 > 百度  
 
-1. [自觉反对形式主义官僚主义](https://www.baidu.com/s?wd=%E8%87%AA%E8%A7%89%E5%8F%8D%E5%AF%B9%E5%BD%A2%E5%BC%8F%E4%B8%BB%E4%B9%89%E5%AE%98%E5%83%9A%E4%B8%BB%E4%B9%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [筑牢国家安全钢铁长城](https://www.baidu.com/s?wd=%E7%AD%91%E7%89%A2%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E9%92%A2%E9%93%81%E9%95%BF%E5%9F%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [妻子举报老公每年药品回扣十几万](https://www.baidu.com/s?wd=%E5%A6%BB%E5%AD%90%E4%B8%BE%E6%8A%A5%E8%80%81%E5%85%AC%E6%AF%8F%E5%B9%B4%E8%8D%AF%E5%93%81%E5%9B%9E%E6%89%A3%E5%8D%81%E5%87%A0%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [北京市委书记市长带头捐款](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0%E5%B8%82%E9%95%BF%E5%B8%A6%E5%A4%B4%E6%8D%90%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [努力让医保基金每一分钱都花得更值](https://www.baidu.com/s?wd=%E5%8A%AA%E5%8A%9B%E8%AE%A9%E5%8C%BB%E4%BF%9D%E5%9F%BA%E9%87%91%E6%AF%8F%E4%B8%80%E5%88%86%E9%92%B1%E9%83%BD%E8%8A%B1%E5%BE%97%E6%9B%B4%E5%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,7 +29,7 @@
 
 > 哔哩哔哩  
 
-1. [自觉反对形式主义官僚主义](https://www.baidu.com/s?wd=%E8%87%AA%E8%A7%89%E5%8F%8D%E5%AF%B9%E5%BD%A2%E5%BC%8F%E4%B8%BB%E4%B9%89%E5%AE%98%E5%83%9A%E4%B8%BB%E4%B9%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [筑牢国家安全钢铁长城](https://www.baidu.com/s?wd=%E7%AD%91%E7%89%A2%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E9%92%A2%E9%93%81%E9%95%BF%E5%9F%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [妻子举报老公每年药品回扣十几万](https://www.baidu.com/s?wd=%E5%A6%BB%E5%AD%90%E4%B8%BE%E6%8A%A5%E8%80%81%E5%85%AC%E6%AF%8F%E5%B9%B4%E8%8D%AF%E5%93%81%E5%9B%9E%E6%89%A3%E5%8D%81%E5%87%A0%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [北京市委书记市长带头捐款](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0%E5%B8%82%E9%95%BF%E5%B8%A6%E5%A4%B4%E6%8D%90%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [努力让医保基金每一分钱都花得更值](https://www.baidu.com/s?wd=%E5%8A%AA%E5%8A%9B%E8%AE%A9%E5%8C%BB%E4%BF%9D%E5%9F%BA%E9%87%91%E6%AF%8F%E4%B8%80%E5%88%86%E9%92%B1%E9%83%BD%E8%8A%B1%E5%BE%97%E6%9B%B4%E5%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
