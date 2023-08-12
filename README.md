@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-12 19:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-12 19:40:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [西安市胸科医院院长李向前被查](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E5%B8%82%E8%83%B8%E7%A7%91%E5%8C%BB%E9%99%A2%E9%99%A2%E9%95%BF%E6%9D%8E%E5%90%91%E5%89%8D%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [59岁法医因抑郁症女孩一句话哭了](https://www.baidu.com/s?wd=59%E5%B2%81%E6%B3%95%E5%8C%BB%E5%9B%A0%E6%8A%91%E9%83%81%E7%97%87%E5%A5%B3%E5%AD%A9%E4%B8%80%E5%8F%A5%E8%AF%9D%E5%93%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [华为：不对外经营房地产业务](https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%EF%BC%9A%E4%B8%8D%E5%AF%B9%E5%A4%96%E7%BB%8F%E8%90%A5%E6%88%BF%E5%9C%B0%E4%BA%A7%E4%B8%9A%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [代言赌博游戏 娜扎经纪人道歉](https://www.baidu.com/s?wd=%E4%BB%A3%E8%A8%80%E8%B5%8C%E5%8D%9A%E6%B8%B8%E6%88%8F+%E5%A8%9C%E6%89%8E%E7%BB%8F%E7%BA%AA%E4%BA%BA%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [国铁回应“高铁票越来越难买”](https://www.baidu.com/s?wd=%E5%9B%BD%E9%93%81%E5%9B%9E%E5%BA%94%E2%80%9C%E9%AB%98%E9%93%81%E7%A5%A8%E8%B6%8A%E6%9D%A5%E8%B6%8A%E9%9A%BE%E4%B9%B0%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女孩险被诱骗到缅甸在加油站获救](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E9%99%A9%E8%A2%AB%E8%AF%B1%E9%AA%97%E5%88%B0%E7%BC%85%E7%94%B8%E5%9C%A8%E5%8A%A0%E6%B2%B9%E7%AB%99%E8%8E%B7%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [代言赌博游戏 娜扎经纪人道歉](https://www.baidu.com/s?wd=%E4%BB%A3%E8%A8%80%E8%B5%8C%E5%8D%9A%E6%B8%B8%E6%88%8F+%E5%A8%9C%E6%89%8E%E7%BB%8F%E7%BA%AA%E4%BA%BA%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [西安市胸科医院院长李向前被查](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E5%B8%82%E8%83%B8%E7%A7%91%E5%8C%BB%E9%99%A2%E9%99%A2%E9%95%BF%E6%9D%8E%E5%90%91%E5%89%8D%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [59岁法医因抑郁症女孩一句话哭了](https://www.baidu.com/s?wd=59%E5%B2%81%E6%B3%95%E5%8C%BB%E5%9B%A0%E6%8A%91%E9%83%81%E7%97%87%E5%A5%B3%E5%AD%A9%E4%B8%80%E5%8F%A5%E8%AF%9D%E5%93%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [华为：不对外经营房地产业务](https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%EF%BC%9A%E4%B8%8D%E5%AF%B9%E5%A4%96%E7%BB%8F%E8%90%A5%E6%88%BF%E5%9C%B0%E4%BA%A7%E4%B8%9A%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [代言赌博游戏 娜扎经纪人道歉](https://www.baidu.com/s?wd=%E4%BB%A3%E8%A8%80%E8%B5%8C%E5%8D%9A%E6%B8%B8%E6%88%8F+%E5%A8%9C%E6%89%8E%E7%BB%8F%E7%BA%AA%E4%BA%BA%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [国铁回应“高铁票越来越难买”](https://www.baidu.com/s?wd=%E5%9B%BD%E9%93%81%E5%9B%9E%E5%BA%94%E2%80%9C%E9%AB%98%E9%93%81%E7%A5%A8%E8%B6%8A%E6%9D%A5%E8%B6%8A%E9%9A%BE%E4%B9%B0%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女孩险被诱骗到缅甸在加油站获救](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E9%99%A9%E8%A2%AB%E8%AF%B1%E9%AA%97%E5%88%B0%E7%BC%85%E7%94%B8%E5%9C%A8%E5%8A%A0%E6%B2%B9%E7%AB%99%E8%8E%B7%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [代言赌博游戏 娜扎经纪人道歉](https://www.baidu.com/s?wd=%E4%BB%A3%E8%A8%80%E8%B5%8C%E5%8D%9A%E6%B8%B8%E6%88%8F+%E5%A8%9C%E6%89%8E%E7%BB%8F%E7%BA%AA%E4%BA%BA%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
