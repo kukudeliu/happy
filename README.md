@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-12 13:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-12 13:58:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [宿舍用了9000度电是什么体验](https://s.weibo.com/weibo?q=%23%E5%AE%BF%E8%88%8D%E7%94%A8%E4%BA%869000%E5%BA%A6%E7%94%B5%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23&t=31&band_rank=6&Refer=top)<br />
 7. [医生说曾黎顶多30岁](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E8%AF%B4%E6%9B%BE%E9%BB%8E%E9%A1%B6%E5%A4%9A30%E5%B2%81%23&t=31&band_rank=7&Refer=top)<br />
 8. [原著小夭成为王母](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E8%91%97%E5%B0%8F%E5%A4%AD%E6%88%90%E4%B8%BA%E7%8E%8B%E6%AF%8D%23&t=31&band_rank=8&Refer=top)<br />
-9. [消防员抓了只龙头鹿身的动物](https://s.weibo.com/weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E6%8A%93%E4%BA%86%E5%8F%AA%E9%BE%99%E5%A4%B4%E9%B9%BF%E8%BA%AB%E7%9A%84%E5%8A%A8%E7%89%A9%23&t=31&band_rank=9&Refer=top)<br />
+9. [上了大学不给孩子买手机可以吗](https://s.weibo.com/weibo?q=%E4%B8%8A%E4%BA%86%E5%A4%A7%E5%AD%A6%E4%B8%8D%E7%BB%99%E5%AD%A9%E5%AD%90%E4%B9%B0%E6%89%8B%E6%9C%BA%E5%8F%AF%E4%BB%A5%E5%90%97&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
