@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-12 22:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-12 22:38:01</h4></div>
 
 > 微博  
 
@@ -19,7 +19,7 @@
 
 1. [人民至上 生命至上](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E8%87%B3%E4%B8%8A+%E7%94%9F%E5%91%BD%E8%87%B3%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [各大医院书记院长被抓后痛哭流涕](https://www.baidu.com/s?wd=%E5%90%84%E5%A4%A7%E5%8C%BB%E9%99%A2%E4%B9%A6%E8%AE%B0%E9%99%A2%E9%95%BF%E8%A2%AB%E6%8A%93%E5%90%8E%E7%97%9B%E5%93%AD%E6%B5%81%E6%B6%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [中国商飞纪委书记赵九方逝世](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%95%86%E9%A3%9E%E7%BA%AA%E5%A7%94%E4%B9%A6%E8%AE%B0%E8%B5%B5%E4%B9%9D%E6%96%B9%E9%80%9D%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [医药反腐风暴已席卷20省份](https://www.baidu.com/s?wd=%E5%8C%BB%E8%8D%AF%E5%8F%8D%E8%85%90%E9%A3%8E%E6%9A%B4%E5%B7%B2%E5%B8%AD%E5%8D%B720%E7%9C%81%E4%BB%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [有个村庄叫“安家”](https://www.baidu.com/s?wd=%E6%9C%89%E4%B8%AA%E6%9D%91%E5%BA%84%E5%8F%AB%E2%80%9C%E5%AE%89%E5%AE%B6%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [大巴上乘客脱鞋女子巧用配音提醒](https://www.baidu.com/s?wd=%E5%A4%A7%E5%B7%B4%E4%B8%8A%E4%B9%98%E5%AE%A2%E8%84%B1%E9%9E%8B%E5%A5%B3%E5%AD%90%E5%B7%A7%E7%94%A8%E9%85%8D%E9%9F%B3%E6%8F%90%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [云南火把节万人狂欢集体玩火](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E7%81%AB%E6%8A%8A%E8%8A%82%E4%B8%87%E4%BA%BA%E7%8B%82%E6%AC%A2%E9%9B%86%E4%BD%93%E7%8E%A9%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -31,7 +31,7 @@
 
 1. [人民至上 生命至上](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E8%87%B3%E4%B8%8A+%E7%94%9F%E5%91%BD%E8%87%B3%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [各大医院书记院长被抓后痛哭流涕](https://www.baidu.com/s?wd=%E5%90%84%E5%A4%A7%E5%8C%BB%E9%99%A2%E4%B9%A6%E8%AE%B0%E9%99%A2%E9%95%BF%E8%A2%AB%E6%8A%93%E5%90%8E%E7%97%9B%E5%93%AD%E6%B5%81%E6%B6%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [中国商飞纪委书记赵九方逝世](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%95%86%E9%A3%9E%E7%BA%AA%E5%A7%94%E4%B9%A6%E8%AE%B0%E8%B5%B5%E4%B9%9D%E6%96%B9%E9%80%9D%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [医药反腐风暴已席卷20省份](https://www.baidu.com/s?wd=%E5%8C%BB%E8%8D%AF%E5%8F%8D%E8%85%90%E9%A3%8E%E6%9A%B4%E5%B7%B2%E5%B8%AD%E5%8D%B720%E7%9C%81%E4%BB%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [有个村庄叫“安家”](https://www.baidu.com/s?wd=%E6%9C%89%E4%B8%AA%E6%9D%91%E5%BA%84%E5%8F%AB%E2%80%9C%E5%AE%89%E5%AE%B6%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [大巴上乘客脱鞋女子巧用配音提醒](https://www.baidu.com/s?wd=%E5%A4%A7%E5%B7%B4%E4%B8%8A%E4%B9%98%E5%AE%A2%E8%84%B1%E9%9E%8B%E5%A5%B3%E5%AD%90%E5%B7%A7%E7%94%A8%E9%85%8D%E9%9F%B3%E6%8F%90%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [云南火把节万人狂欢集体玩火](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E7%81%AB%E6%8A%8A%E8%8A%82%E4%B8%87%E4%BA%BA%E7%8B%82%E6%AC%A2%E9%9B%86%E4%BD%93%E7%8E%A9%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
