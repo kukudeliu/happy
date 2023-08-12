@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-12 17:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-12 17:46:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [全家22人从云南送小伙到国防科大报到](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%AE%B622%E4%BA%BA%E4%BB%8E%E4%BA%91%E5%8D%97%E9%80%81%E5%B0%8F%E4%BC%99%E5%88%B0%E5%9B%BD%E9%98%B2%E7%A7%91%E5%A4%A7%E6%8A%A5%E5%88%B0%23&t=31&band_rank=6&Refer=top)<br />
 7. [张艺兴突然哭了](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%89%BA%E5%85%B4%E7%AA%81%E7%84%B6%E5%93%AD%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [杨紫选剧本](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E9%80%89%E5%89%A7%E6%9C%AC%23&t=31&band_rank=8&Refer=top)<br />
-9. [警方回应水果捞纠纷案件调查处理结果](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E6%B0%B4%E6%9E%9C%E6%8D%9E%E7%BA%A0%E7%BA%B7%E6%A1%88%E4%BB%B6%E8%B0%83%E6%9F%A5%E5%A4%84%E7%90%86%E7%BB%93%E6%9E%9C%23&t=31&band_rank=9&Refer=top)<br />
+9. [医疗反腐 改革医务人员薪酬体系](https://s.weibo.com/weibo?q=%E5%8C%BB%E7%96%97%E5%8F%8D%E8%85%90%20%E6%94%B9%E9%9D%A9%E5%8C%BB%E5%8A%A1%E4%BA%BA%E5%91%98%E8%96%AA%E9%85%AC%E4%BD%93%E7%B3%BB&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -25,7 +25,7 @@
 6. [女子赴美见男网友失联 中领馆回应](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%B5%B4%E7%BE%8E%E8%A7%81%E7%94%B7%E7%BD%91%E5%8F%8B%E5%A4%B1%E8%81%94+%E4%B8%AD%E9%A2%86%E9%A6%86%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [大巴上乘客脱鞋女子巧用配音提醒](https://www.baidu.com/s?wd=%E5%A4%A7%E5%B7%B4%E4%B8%8A%E4%B9%98%E5%AE%A2%E8%84%B1%E9%9E%8B%E5%A5%B3%E5%AD%90%E5%B7%A7%E7%94%A8%E9%85%8D%E9%9F%B3%E6%8F%90%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [加油站上公厕收费1元?员工回应](https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%B9%E7%AB%99%E4%B8%8A%E5%85%AC%E5%8E%95%E6%94%B6%E8%B4%B91%E5%85%83%3F%E5%91%98%E5%B7%A5%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [国铁回应“高铁票越来越难买”](https://www.baidu.com/s?wd=%E5%9B%BD%E9%93%81%E5%9B%9E%E5%BA%94%E2%80%9C%E9%AB%98%E9%93%81%E7%A5%A8%E8%B6%8A%E6%9D%A5%E8%B6%8A%E9%9A%BE%E4%B9%B0%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [这家药企3年销售费用超8亿被问询](https://www.baidu.com/s?wd=%E8%BF%99%E5%AE%B6%E8%8D%AF%E4%BC%813%E5%B9%B4%E9%94%80%E5%94%AE%E8%B4%B9%E7%94%A8%E8%B6%858%E4%BA%BF%E8%A2%AB%E9%97%AE%E8%AF%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [女子赴美见男网友失联 中领馆回应](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%B5%B4%E7%BE%8E%E8%A7%81%E7%94%B7%E7%BD%91%E5%8F%8B%E5%A4%B1%E8%81%94+%E4%B8%AD%E9%A2%86%E9%A6%86%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [大巴上乘客脱鞋女子巧用配音提醒](https://www.baidu.com/s?wd=%E5%A4%A7%E5%B7%B4%E4%B8%8A%E4%B9%98%E5%AE%A2%E8%84%B1%E9%9E%8B%E5%A5%B3%E5%AD%90%E5%B7%A7%E7%94%A8%E9%85%8D%E9%9F%B3%E6%8F%90%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [加油站上公厕收费1元?员工回应](https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%B9%E7%AB%99%E4%B8%8A%E5%85%AC%E5%8E%95%E6%94%B6%E8%B4%B91%E5%85%83%3F%E5%91%98%E5%B7%A5%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [国铁回应“高铁票越来越难买”](https://www.baidu.com/s?wd=%E5%9B%BD%E9%93%81%E5%9B%9E%E5%BA%94%E2%80%9C%E9%AB%98%E9%93%81%E7%A5%A8%E8%B6%8A%E6%9D%A5%E8%B6%8A%E9%9A%BE%E4%B9%B0%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [这家药企3年销售费用超8亿被问询](https://www.baidu.com/s?wd=%E8%BF%99%E5%AE%B6%E8%8D%AF%E4%BC%813%E5%B9%B4%E9%94%80%E5%94%AE%E8%B4%B9%E7%94%A8%E8%B6%858%E4%BA%BF%E8%A2%AB%E9%97%AE%E8%AF%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
