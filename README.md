@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-13 01:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-13 01:45:01</h4></div>
 
 > 微博  
 
-1. [各大医院书记院长被抓后痛哭流涕](https://s.weibo.com/weibo?q=%E5%90%84%E5%A4%A7%E5%8C%BB%E9%99%A2%E4%B9%A6%E8%AE%B0%E9%99%A2%E9%95%BF%E8%A2%AB%E6%8A%93%E5%90%8E%E7%97%9B%E5%93%AD%E6%B5%81%E6%B6%95&t=31&band_rank=1&Refer=top)<br />
-2. [iPhone14Pro用户抱怨电池容量大幅下滑](https://s.weibo.com/weibo?q=%23iPhone14Pro%E7%94%A8%E6%88%B7%E6%8A%B1%E6%80%A8%E7%94%B5%E6%B1%A0%E5%AE%B9%E9%87%8F%E5%A4%A7%E5%B9%85%E4%B8%8B%E6%BB%91%23&t=31&band_rank=2&Refer=top)<br />
+1. [iPhone14Pro用户抱怨电池容量大幅下滑](https://s.weibo.com/weibo?q=%23iPhone14Pro%E7%94%A8%E6%88%B7%E6%8A%B1%E6%80%A8%E7%94%B5%E6%B1%A0%E5%AE%B9%E9%87%8F%E5%A4%A7%E5%B9%85%E4%B8%8B%E6%BB%91%23&t=31&band_rank=1&Refer=top)<br />
+2. [各大医院书记院长被抓后痛哭流涕](https://s.weibo.com/weibo?q=%E5%90%84%E5%A4%A7%E5%8C%BB%E9%99%A2%E4%B9%A6%E8%AE%B0%E9%99%A2%E9%95%BF%E8%A2%AB%E6%8A%93%E5%90%8E%E7%97%9B%E5%93%AD%E6%B5%81%E6%B6%95&t=31&band_rank=2&Refer=top)<br />
 3. [退伍老兵敬礼送别抗洪官兵](https://s.weibo.com/weibo?q=%23%E9%80%80%E4%BC%8D%E8%80%81%E5%85%B5%E6%95%AC%E7%A4%BC%E9%80%81%E5%88%AB%E6%8A%97%E6%B4%AA%E5%AE%98%E5%85%B5%23&t=31&band_rank=3&Refer=top)<br />
 4. [张杰谢娜](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9D%B0%E8%B0%A2%E5%A8%9C&t=31&band_rank=4&Refer=top)<br />
 5. [家长吐槽暑假40天孩子开销五六万](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%95%BF%E5%90%90%E6%A7%BD%E6%9A%91%E5%81%8740%E5%A4%A9%E5%AD%A9%E5%AD%90%E5%BC%80%E9%94%80%E4%BA%94%E5%85%AD%E4%B8%87%23&t=31&band_rank=5&Refer=top)<br />
