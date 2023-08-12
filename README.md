@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-12 16:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-12 16:35:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [官方通报深圳南山医院医生刘某被举报](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%B7%B1%E5%9C%B3%E5%8D%97%E5%B1%B1%E5%8C%BB%E9%99%A2%E5%8C%BB%E7%94%9F%E5%88%98%E6%9F%90%E8%A2%AB%E4%B8%BE%E6%8A%A5%23&t=31&band_rank=5&Refer=top)<br />
 6. [杨紫选剧本](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E9%80%89%E5%89%A7%E6%9C%AC%23&t=31&band_rank=6&Refer=top)<br />
 7. [考完驾照是不是不能骑电动车了](https://s.weibo.com/weibo?q=%E8%80%83%E5%AE%8C%E9%A9%BE%E7%85%A7%E6%98%AF%E4%B8%8D%E6%98%AF%E4%B8%8D%E8%83%BD%E9%AA%91%E7%94%B5%E5%8A%A8%E8%BD%A6%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
-8. [娜扎经纪人为接广告道歉](https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8E%E7%BB%8F%E7%BA%AA%E4%BA%BA%E4%B8%BA%E6%8E%A5%E5%B9%BF%E5%91%8A%E9%81%93%E6%AD%89%23&t=31&band_rank=8&Refer=top)<br />
-9. [妻子实名举报医生老公每年药品回扣十几万](https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%E5%8C%BB%E7%94%9F%E8%80%81%E5%85%AC%E6%AF%8F%E5%B9%B4%E8%8D%AF%E5%93%81%E5%9B%9E%E6%89%A3%E5%8D%81%E5%87%A0%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
+8. [妻子实名举报医生老公每年药品回扣十几万](https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%E5%8C%BB%E7%94%9F%E8%80%81%E5%85%AC%E6%AF%8F%E5%B9%B4%E8%8D%AF%E5%93%81%E5%9B%9E%E6%89%A3%E5%8D%81%E5%87%A0%E4%B8%87%23&t=31&band_rank=8&Refer=top)<br />
+9. [娜扎经纪人为接广告道歉](https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8E%E7%BB%8F%E7%BA%AA%E4%BA%BA%E4%B8%BA%E6%8E%A5%E5%B9%BF%E5%91%8A%E9%81%93%E6%AD%89%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
