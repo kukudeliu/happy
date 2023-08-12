@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-12 19:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-12 19:48:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [一对双胞胎展示同款举手睡姿](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%AF%B9%E5%8F%8C%E8%83%9E%E8%83%8E%E5%B1%95%E7%A4%BA%E5%90%8C%E6%AC%BE%E4%B8%BE%E6%89%8B%E7%9D%A1%E5%A7%BF%23&t=31&band_rank=5&Refer=top)<br />
 6. [白日梦我原著党两眼一黑](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%97%A5%E6%A2%A6%E6%88%91%E5%8E%9F%E8%91%97%E5%85%9A%E4%B8%A4%E7%9C%BC%E4%B8%80%E9%BB%91%23&t=31&band_rank=6&Refer=top)<br />
 7. [阮经天出车祸](https://s.weibo.com/weibo?q=%23%E9%98%AE%E7%BB%8F%E5%A4%A9%E5%87%BA%E8%BD%A6%E7%A5%B8%23&t=31&band_rank=7&Refer=top)<br />
-8. [女孩险被诱骗到缅甸在加油站获救](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E9%99%A9%E8%A2%AB%E8%AF%B1%E9%AA%97%E5%88%B0%E7%BC%85%E7%94%B8%E5%9C%A8%E5%8A%A0%E6%B2%B9%E7%AB%99%E8%8E%B7%E6%95%91%23&t=31&band_rank=8&Refer=top)<br />
-9. [缅甸旅游业苦等中国游客重返](https://s.weibo.com/weibo?q=%23%E7%BC%85%E7%94%B8%E6%97%85%E6%B8%B8%E4%B8%9A%E8%8B%A6%E7%AD%89%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E9%87%8D%E8%BF%94%23&t=31&band_rank=9&Refer=top)<br />
+8. [原著中救了小夭的是小夭](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E8%91%97%E4%B8%AD%E6%95%91%E4%BA%86%E5%B0%8F%E5%A4%AD%E7%9A%84%E6%98%AF%E5%B0%8F%E5%A4%AD%23&t=31&band_rank=8&Refer=top)<br />
+9. [全家22人从云南送小伙到国防科大报到](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%AE%B622%E4%BA%BA%E4%BB%8E%E4%BA%91%E5%8D%97%E9%80%81%E5%B0%8F%E4%BC%99%E5%88%B0%E5%9B%BD%E9%98%B2%E7%A7%91%E5%A4%A7%E6%8A%A5%E5%88%B0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
