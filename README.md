@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-12 11:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-12 11:55:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [医生说曾黎顶多30岁](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E8%AF%B4%E6%9B%BE%E9%BB%8E%E9%A1%B6%E5%A4%9A30%E5%B2%81%23&t=31&band_rank=5&Refer=top)<br />
 6. [哥 成钢他会改的](https://s.weibo.com/weibo?q=%E5%93%A5%20%E6%88%90%E9%92%A2%E4%BB%96%E4%BC%9A%E6%94%B9%E7%9A%84&t=31&band_rank=6&Refer=top)<br />
 7. [我好像删到电脑的大动脉了](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%A5%BD%E5%83%8F%E5%88%A0%E5%88%B0%E7%94%B5%E8%84%91%E7%9A%84%E5%A4%A7%E5%8A%A8%E8%84%89%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [李雪琴的北大真是没白上](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%9B%AA%E7%90%B4%E7%9A%84%E5%8C%97%E5%A4%A7%E7%9C%9F%E6%98%AF%E6%B2%A1%E7%99%BD%E4%B8%8A%23&t=31&band_rank=8&Refer=top)<br />
+8. [六公主说王一博像一个宝藏](https://s.weibo.com/weibo?q=%23%E5%85%AD%E5%85%AC%E4%B8%BB%E8%AF%B4%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%83%8F%E4%B8%80%E4%B8%AA%E5%AE%9D%E8%97%8F%23&t=31&band_rank=8&Refer=top)<br />
 9. [妻子实名举报医生老公每年药品回扣十几万](https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%E5%8C%BB%E7%94%9F%E8%80%81%E5%85%AC%E6%AF%8F%E5%B9%B4%E8%8D%AF%E5%93%81%E5%9B%9E%E6%89%A3%E5%8D%81%E5%87%A0%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
