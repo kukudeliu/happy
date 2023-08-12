@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-12 09:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-12 09:17:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [肾好不好睡一觉就知道了](https://s.weibo.com/weibo?q=%23%E8%82%BE%E5%A5%BD%E4%B8%8D%E5%A5%BD%E7%9D%A1%E4%B8%80%E8%A7%89%E5%B0%B1%E7%9F%A5%E9%81%93%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [那英 你不吹牛能死吗](https://s.weibo.com/weibo?q=%E9%82%A3%E8%8B%B1%20%E4%BD%A0%E4%B8%8D%E5%90%B9%E7%89%9B%E8%83%BD%E6%AD%BB%E5%90%97&t=31&band_rank=6&Refer=top)<br />
 7. [我好像删到电脑的大动脉了](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%A5%BD%E5%83%8F%E5%88%A0%E5%88%B0%E7%94%B5%E8%84%91%E7%9A%84%E5%A4%A7%E5%8A%A8%E8%84%89%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [医院院长贪腐将成捆的现金提回家](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E9%99%A2%E9%95%BF%E8%B4%AA%E8%85%90%E5%B0%86%E6%88%90%E6%8D%86%E7%9A%84%E7%8E%B0%E9%87%91%E6%8F%90%E5%9B%9E%E5%AE%B6%23&t=31&band_rank=8&Refer=top)<br />
-9. [家庭自卑就是这样来的](https://s.weibo.com/weibo?q=%E5%AE%B6%E5%BA%AD%E8%87%AA%E5%8D%91%E5%B0%B1%E6%98%AF%E8%BF%99%E6%A0%B7%E6%9D%A5%E7%9A%84&t=31&band_rank=9&Refer=top)<br />
+8. [家庭自卑就是这样来的](https://s.weibo.com/weibo?q=%E5%AE%B6%E5%BA%AD%E8%87%AA%E5%8D%91%E5%B0%B1%E6%98%AF%E8%BF%99%E6%A0%B7%E6%9D%A5%E7%9A%84&t=31&band_rank=8&Refer=top)<br />
+9. [医院院长贪腐将成捆的现金提回家](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E9%99%A2%E9%95%BF%E8%B4%AA%E8%85%90%E5%B0%86%E6%88%90%E6%8D%86%E7%9A%84%E7%8E%B0%E9%87%91%E6%8F%90%E5%9B%9E%E5%AE%B6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
