@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-13 15:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-13 15:09:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [中药价格持续上涨 喝一天要100元](https://www.baidu.com/s?wd=%E4%B8%AD%E8%8D%AF%E4%BB%B7%E6%A0%BC%E6%8C%81%E7%BB%AD%E4%B8%8A%E6%B6%A8+%E5%96%9D%E4%B8%80%E5%A4%A9%E8%A6%81100%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [00后在精神病院当护士是什么体验](https://www.baidu.com/s?wd=00%E5%90%8E%E5%9C%A8%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2%E5%BD%93%E6%8A%A4%E5%A3%AB%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李玟二姐账号被网友刷屏](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E4%BA%8C%E5%A7%90%E8%B4%A6%E5%8F%B7%E8%A2%AB%E7%BD%91%E5%8F%8B%E5%88%B7%E5%B1%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男孩溺水昏迷护士跪地抢救20分钟](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E6%BA%BA%E6%B0%B4%E6%98%8F%E8%BF%B7%E6%8A%A4%E5%A3%AB%E8%B7%AA%E5%9C%B0%E6%8A%A2%E6%95%9120%E5%88%86%E9%92%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女生餐馆吃饭一抬头发现店家全午睡](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%A4%90%E9%A6%86%E5%90%83%E9%A5%AD%E4%B8%80%E6%8A%AC%E5%A4%B4%E5%8F%91%E7%8E%B0%E5%BA%97%E5%AE%B6%E5%85%A8%E5%8D%88%E7%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [专家：医保应按收入缴纳个人费用](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E5%8C%BB%E4%BF%9D%E5%BA%94%E6%8C%89%E6%94%B6%E5%85%A5%E7%BC%B4%E7%BA%B3%E4%B8%AA%E4%BA%BA%E8%B4%B9%E7%94%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [中药价格持续上涨 喝一天要100元](https://www.baidu.com/s?wd=%E4%B8%AD%E8%8D%AF%E4%BB%B7%E6%A0%BC%E6%8C%81%E7%BB%AD%E4%B8%8A%E6%B6%A8+%E5%96%9D%E4%B8%80%E5%A4%A9%E8%A6%81100%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [00后在精神病院当护士是什么体验](https://www.baidu.com/s?wd=00%E5%90%8E%E5%9C%A8%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2%E5%BD%93%E6%8A%A4%E5%A3%AB%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李玟二姐账号被网友刷屏](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E4%BA%8C%E5%A7%90%E8%B4%A6%E5%8F%B7%E8%A2%AB%E7%BD%91%E5%8F%8B%E5%88%B7%E5%B1%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男孩溺水昏迷护士跪地抢救20分钟](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E6%BA%BA%E6%B0%B4%E6%98%8F%E8%BF%B7%E6%8A%A4%E5%A3%AB%E8%B7%AA%E5%9C%B0%E6%8A%A2%E6%95%9120%E5%88%86%E9%92%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女生餐馆吃饭一抬头发现店家全午睡](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%A4%90%E9%A6%86%E5%90%83%E9%A5%AD%E4%B8%80%E6%8A%AC%E5%A4%B4%E5%8F%91%E7%8E%B0%E5%BA%97%E5%AE%B6%E5%85%A8%E5%8D%88%E7%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [专家：医保应按收入缴纳个人费用](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E5%8C%BB%E4%BF%9D%E5%BA%94%E6%8C%89%E6%94%B6%E5%85%A5%E7%BC%B4%E7%BA%B3%E4%B8%AA%E4%BA%BA%E8%B4%B9%E7%94%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
