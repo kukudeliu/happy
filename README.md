@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-13 15:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-13 15:55:01</h4></div>
 
 > 微博  
 
@@ -6,9 +6,9 @@
 2. [无意识刷手机会导致大脑退化](https://s.weibo.com/weibo?q=%23%E6%97%A0%E6%84%8F%E8%AF%86%E5%88%B7%E6%89%8B%E6%9C%BA%E4%BC%9A%E5%AF%BC%E8%87%B4%E5%A4%A7%E8%84%91%E9%80%80%E5%8C%96%23&t=31&band_rank=2&Refer=top)<br />
 3. [中国科考队发布亚洲最高树等身照](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A7%91%E8%80%83%E9%98%9F%E5%8F%91%E5%B8%83%E4%BA%9A%E6%B4%B2%E6%9C%80%E9%AB%98%E6%A0%91%E7%AD%89%E8%BA%AB%E7%85%A7%23&t=31&band_rank=3&Refer=top)<br />
 4. [举报补课网红称掉粉了](https://s.weibo.com/weibo?q=%23%E4%B8%BE%E6%8A%A5%E8%A1%A5%E8%AF%BE%E7%BD%91%E7%BA%A2%E7%A7%B0%E6%8E%89%E7%B2%89%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
-5. [魏大勋说杨紫是真不得罪人](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E8%AF%B4%E6%9D%A8%E7%B4%AB%E6%98%AF%E7%9C%9F%E4%B8%8D%E5%BE%97%E7%BD%AA%E4%BA%BA%23&t=31&band_rank=5&Refer=top)<br />
+5. [高密燃气闪爆已致2死2伤](https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%AF%86%E7%87%83%E6%B0%94%E9%97%AA%E7%88%86%E5%B7%B2%E8%87%B42%E6%AD%BB2%E4%BC%A4%23&t=31&band_rank=5&Refer=top)<br />
 6. [高密爆炸](https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%AF%86%E7%88%86%E7%82%B8%23&t=31&band_rank=6&Refer=top)<br />
-7. [高密燃气闪爆已致2死2伤](https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%AF%86%E7%87%83%E6%B0%94%E9%97%AA%E7%88%86%E5%B7%B2%E8%87%B42%E6%AD%BB2%E4%BC%A4%23&t=31&band_rank=7&Refer=top)<br />
+7. [魏大勋说杨紫是真不得罪人](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E8%AF%B4%E6%9D%A8%E7%B4%AB%E6%98%AF%E7%9C%9F%E4%B8%8D%E5%BE%97%E7%BD%AA%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [杨幂不愧是林萧](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E4%B8%8D%E6%84%A7%E6%98%AF%E6%9E%97%E8%90%A7%23&t=31&band_rank=8&Refer=top)<br />
 9. [李莲花 绝世武姬](https://s.weibo.com/weibo?q=%E6%9D%8E%E8%8E%B2%E8%8A%B1%20%E7%BB%9D%E4%B8%96%E6%AD%A6%E5%A7%AC&t=31&band_rank=9&Refer=top)<br />
 
