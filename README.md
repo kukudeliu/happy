@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-13 18:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-13 18:40:01</h4></div>
 
 > 微博  
 
@@ -22,10 +22,10 @@
 3. [卫健局副局长受贿 案发后举报局长](https://www.baidu.com/s?wd=%E5%8D%AB%E5%81%A5%E5%B1%80%E5%89%AF%E5%B1%80%E9%95%BF%E5%8F%97%E8%B4%BF+%E6%A1%88%E5%8F%91%E5%90%8E%E4%B8%BE%E6%8A%A5%E5%B1%80%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [暑期旅游旺季 多种玩法“上新”](https://www.baidu.com/s?wd=%E6%9A%91%E6%9C%9F%E6%97%85%E6%B8%B8%E6%97%BA%E5%AD%A3+%E5%A4%9A%E7%A7%8D%E7%8E%A9%E6%B3%95%E2%80%9C%E4%B8%8A%E6%96%B0%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中方车队遇枪击 车窗留下多个弹孔](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E8%BD%A6%E9%98%9F%E9%81%87%E6%9E%AA%E5%87%BB+%E8%BD%A6%E7%AA%97%E7%95%99%E4%B8%8B%E5%A4%9A%E4%B8%AA%E5%BC%B9%E5%AD%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [乌克兰征兵部门被连锅端](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E5%BE%81%E5%85%B5%E9%83%A8%E9%97%A8%E8%A2%AB%E8%BF%9E%E9%94%85%E7%AB%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [莫言作家账号被封？B站回应](https://www.baidu.com/s?wd=%E8%8E%AB%E8%A8%80%E4%BD%9C%E5%AE%B6%E8%B4%A6%E5%8F%B7%E8%A2%AB%E5%B0%81%EF%BC%9FB%E7%AB%99%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [新疆出现超级单体风暴云](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E5%87%BA%E7%8E%B0%E8%B6%85%E7%BA%A7%E5%8D%95%E4%BD%93%E9%A3%8E%E6%9A%B4%E4%BA%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男孩溺水昏迷护士跪地抢救20分钟](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E6%BA%BA%E6%B0%B4%E6%98%8F%E8%BF%B7%E6%8A%A4%E5%A3%AB%E8%B7%AA%E5%9C%B0%E6%8A%A2%E6%95%9120%E5%88%86%E9%92%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [莫言作家账号被封？B站回应](https://www.baidu.com/s?wd=%E8%8E%AB%E8%A8%80%E4%BD%9C%E5%AE%B6%E8%B4%A6%E5%8F%B7%E8%A2%AB%E5%B0%81%EF%BC%9FB%E7%AB%99%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男孩溺水昏迷护士跪地抢救20分钟](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E6%BA%BA%E6%B0%B4%E6%98%8F%E8%BF%B7%E6%8A%A4%E5%A3%AB%E8%B7%AA%E5%9C%B0%E6%8A%A2%E6%95%9120%E5%88%86%E9%92%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [植物人父亲用尽全力给儿子盖被子](https://www.baidu.com/s?wd=%E6%A4%8D%E7%89%A9%E4%BA%BA%E7%88%B6%E4%BA%B2%E7%94%A8%E5%B0%BD%E5%85%A8%E5%8A%9B%E7%BB%99%E5%84%BF%E5%AD%90%E7%9B%96%E8%A2%AB%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [乌克兰征兵部门被连锅端](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E5%BE%81%E5%85%B5%E9%83%A8%E9%97%A8%E8%A2%AB%E8%BF%9E%E9%94%85%E7%AB%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -34,7 +34,7 @@
 3. [卫健局副局长受贿 案发后举报局长](https://www.baidu.com/s?wd=%E5%8D%AB%E5%81%A5%E5%B1%80%E5%89%AF%E5%B1%80%E9%95%BF%E5%8F%97%E8%B4%BF+%E6%A1%88%E5%8F%91%E5%90%8E%E4%B8%BE%E6%8A%A5%E5%B1%80%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [暑期旅游旺季 多种玩法“上新”](https://www.baidu.com/s?wd=%E6%9A%91%E6%9C%9F%E6%97%85%E6%B8%B8%E6%97%BA%E5%AD%A3+%E5%A4%9A%E7%A7%8D%E7%8E%A9%E6%B3%95%E2%80%9C%E4%B8%8A%E6%96%B0%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中方车队遇枪击 车窗留下多个弹孔](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E8%BD%A6%E9%98%9F%E9%81%87%E6%9E%AA%E5%87%BB+%E8%BD%A6%E7%AA%97%E7%95%99%E4%B8%8B%E5%A4%9A%E4%B8%AA%E5%BC%B9%E5%AD%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [乌克兰征兵部门被连锅端](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E5%BE%81%E5%85%B5%E9%83%A8%E9%97%A8%E8%A2%AB%E8%BF%9E%E9%94%85%E7%AB%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [莫言作家账号被封？B站回应](https://www.baidu.com/s?wd=%E8%8E%AB%E8%A8%80%E4%BD%9C%E5%AE%B6%E8%B4%A6%E5%8F%B7%E8%A2%AB%E5%B0%81%EF%BC%9FB%E7%AB%99%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [新疆出现超级单体风暴云](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E5%87%BA%E7%8E%B0%E8%B6%85%E7%BA%A7%E5%8D%95%E4%BD%93%E9%A3%8E%E6%9A%B4%E4%BA%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男孩溺水昏迷护士跪地抢救20分钟](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E6%BA%BA%E6%B0%B4%E6%98%8F%E8%BF%B7%E6%8A%A4%E5%A3%AB%E8%B7%AA%E5%9C%B0%E6%8A%A2%E6%95%9120%E5%88%86%E9%92%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [莫言作家账号被封？B站回应](https://www.baidu.com/s?wd=%E8%8E%AB%E8%A8%80%E4%BD%9C%E5%AE%B6%E8%B4%A6%E5%8F%B7%E8%A2%AB%E5%B0%81%EF%BC%9FB%E7%AB%99%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男孩溺水昏迷护士跪地抢救20分钟](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E6%BA%BA%E6%B0%B4%E6%98%8F%E8%BF%B7%E6%8A%A4%E5%A3%AB%E8%B7%AA%E5%9C%B0%E6%8A%A2%E6%95%9120%E5%88%86%E9%92%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [植物人父亲用尽全力给儿子盖被子](https://www.baidu.com/s?wd=%E6%A4%8D%E7%89%A9%E4%BA%BA%E7%88%B6%E4%BA%B2%E7%94%A8%E5%B0%BD%E5%85%A8%E5%8A%9B%E7%BB%99%E5%84%BF%E5%AD%90%E7%9B%96%E8%A2%AB%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [乌克兰征兵部门被连锅端](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E5%BE%81%E5%85%B5%E9%83%A8%E9%97%A8%E8%A2%AB%E8%BF%9E%E9%94%85%E7%AB%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
