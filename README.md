@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-13 15:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-13 15:12:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [践行低碳生活新时尚](https://www.baidu.com/s?wd=%E8%B7%B5%E8%A1%8C%E4%BD%8E%E7%A2%B3%E7%94%9F%E6%B4%BB%E6%96%B0%E6%97%B6%E5%B0%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [家长吐槽暑假40天孩子开销五六万](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E5%90%90%E6%A7%BD%E6%9A%91%E5%81%8740%E5%A4%A9%E5%AD%A9%E5%AD%90%E5%BC%80%E9%94%80%E4%BA%94%E5%85%AD%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [山东高密燃气闪爆已致2死2伤](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E9%AB%98%E5%AF%86%E7%87%83%E6%B0%94%E9%97%AA%E7%88%86%E5%B7%B2%E8%87%B42%E6%AD%BB2%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [太原水果捞事件涉事摊主向女孩道歉](https://www.baidu.com/s?wd=%E5%A4%AA%E5%8E%9F%E6%B0%B4%E6%9E%9C%E6%8D%9E%E4%BA%8B%E4%BB%B6%E6%B6%89%E4%BA%8B%E6%91%8A%E4%B8%BB%E5%90%91%E5%A5%B3%E5%AD%A9%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [这个夏日 消费活力激荡](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E5%A4%8F%E6%97%A5+%E6%B6%88%E8%B4%B9%E6%B4%BB%E5%8A%9B%E6%BF%80%E8%8D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中药价格持续上涨 喝一天要100元](https://www.baidu.com/s?wd=%E4%B8%AD%E8%8D%AF%E4%BB%B7%E6%A0%BC%E6%8C%81%E7%BB%AD%E4%B8%8A%E6%B6%A8+%E5%96%9D%E4%B8%80%E5%A4%A9%E8%A6%81100%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [践行低碳生活新时尚](https://www.baidu.com/s?wd=%E8%B7%B5%E8%A1%8C%E4%BD%8E%E7%A2%B3%E7%94%9F%E6%B4%BB%E6%96%B0%E6%97%B6%E5%B0%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [家长吐槽暑假40天孩子开销五六万](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E5%90%90%E6%A7%BD%E6%9A%91%E5%81%8740%E5%A4%A9%E5%AD%A9%E5%AD%90%E5%BC%80%E9%94%80%E4%BA%94%E5%85%AD%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [山东高密燃气闪爆已致2死2伤](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E9%AB%98%E5%AF%86%E7%87%83%E6%B0%94%E9%97%AA%E7%88%86%E5%B7%B2%E8%87%B42%E6%AD%BB2%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [太原水果捞事件涉事摊主向女孩道歉](https://www.baidu.com/s?wd=%E5%A4%AA%E5%8E%9F%E6%B0%B4%E6%9E%9C%E6%8D%9E%E4%BA%8B%E4%BB%B6%E6%B6%89%E4%BA%8B%E6%91%8A%E4%B8%BB%E5%90%91%E5%A5%B3%E5%AD%A9%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [这个夏日 消费活力激荡](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E5%A4%8F%E6%97%A5+%E6%B6%88%E8%B4%B9%E6%B4%BB%E5%8A%9B%E6%BF%80%E8%8D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中药价格持续上涨 喝一天要100元](https://www.baidu.com/s?wd=%E4%B8%AD%E8%8D%AF%E4%BB%B7%E6%A0%BC%E6%8C%81%E7%BB%AD%E4%B8%8A%E6%B6%A8+%E5%96%9D%E4%B8%80%E5%A4%A9%E8%A6%81100%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
