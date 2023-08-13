@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-13 16:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-13 16:42:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [高密爆炸](https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%AF%86%E7%88%86%E7%82%B8%23&t=31&band_rank=6&Refer=top)<br />
 7. [封神票房](https://s.weibo.com/weibo?q=%E5%B0%81%E7%A5%9E%E7%A5%A8%E6%88%BF&t=31&band_rank=7&Refer=top)<br />
 8. [医疗反腐 医疗从业者的反应](https://s.weibo.com/weibo?q=%E5%8C%BB%E7%96%97%E5%8F%8D%E8%85%90%20%E5%8C%BB%E7%96%97%E4%BB%8E%E4%B8%9A%E8%80%85%E7%9A%84%E5%8F%8D%E5%BA%94&t=31&band_rank=8&Refer=top)<br />
-9. [莲花楼最新番外](https://s.weibo.com/weibo?q=%23%E8%8E%B2%E8%8A%B1%E6%A5%BC%E6%9C%80%E6%96%B0%E7%95%AA%E5%A4%96%23&t=31&band_rank=9&Refer=top)<br />
+9. [原著里相柳的外貌描写](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E8%91%97%E9%87%8C%E7%9B%B8%E6%9F%B3%E7%9A%84%E5%A4%96%E8%B2%8C%E6%8F%8F%E5%86%99%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
