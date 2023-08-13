@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-13 19:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-13 19:38:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [山东一家三口同日登记捐献遗体器官](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E5%90%8C%E6%97%A5%E7%99%BB%E8%AE%B0%E6%8D%90%E7%8C%AE%E9%81%97%E4%BD%93%E5%99%A8%E5%AE%98%23&t=31&band_rank=5&Refer=top)<br />
 6. [西安泥石流已发现21名遇难者](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E6%B3%A5%E7%9F%B3%E6%B5%81%E5%B7%B2%E5%8F%91%E7%8E%B021%E5%90%8D%E9%81%87%E9%9A%BE%E8%80%85%23&t=31&band_rank=6&Refer=top)<br />
 7. [这么霸气的接新生还是头回见](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B9%88%E9%9C%B8%E6%B0%94%E7%9A%84%E6%8E%A5%E6%96%B0%E7%94%9F%E8%BF%98%E6%98%AF%E5%A4%B4%E5%9B%9E%E8%A7%81%23&t=31&band_rank=7&Refer=top)<br />
-8. [封神第一部票房破20亿](https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E%E7%AC%AC%E4%B8%80%E9%83%A8%E7%A5%A8%E6%88%BF%E7%A0%B420%E4%BA%BF%23&t=31&band_rank=8&Refer=top)<br />
-9. [龙吸水](https://s.weibo.com/weibo?q=%E9%BE%99%E5%90%B8%E6%B0%B4&t=31&band_rank=9&Refer=top)<br />
+8. [龙吸水](https://s.weibo.com/weibo?q=%E9%BE%99%E5%90%B8%E6%B0%B4&t=31&band_rank=8&Refer=top)<br />
+9. [封神第一部票房破20亿](https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E%E7%AC%AC%E4%B8%80%E9%83%A8%E7%A5%A8%E6%88%BF%E7%A0%B420%E4%BA%BF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
