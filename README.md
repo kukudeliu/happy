@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-13 16:33:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-13 16:34:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [高密爆炸](https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%AF%86%E7%88%86%E7%82%B8%23&t=31&band_rank=6&Refer=top)<br />
 7. [封神票房](https://s.weibo.com/weibo?q=%E5%B0%81%E7%A5%9E%E7%A5%A8%E6%88%BF&t=31&band_rank=7&Refer=top)<br />
 8. [莲花楼最新番外](https://s.weibo.com/weibo?q=%23%E8%8E%B2%E8%8A%B1%E6%A5%BC%E6%9C%80%E6%96%B0%E7%95%AA%E5%A4%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [杨幂不愧是林萧](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E4%B8%8D%E6%84%A7%E6%98%AF%E6%9E%97%E8%90%A7%23&t=31&band_rank=9&Refer=top)<br />
+9. [医疗反腐 医疗从业者的反应](https://s.weibo.com/weibo?q=%E5%8C%BB%E7%96%97%E5%8F%8D%E8%85%90%20%E5%8C%BB%E7%96%97%E4%BB%8E%E4%B8%9A%E8%80%85%E7%9A%84%E5%8F%8D%E5%BA%94&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,9 +22,9 @@
 3. [太原水果捞事件涉事摊主向女孩道歉](https://www.baidu.com/s?wd=%E5%A4%AA%E5%8E%9F%E6%B0%B4%E6%9E%9C%E6%8D%9E%E4%BA%8B%E4%BB%B6%E6%B6%89%E4%BA%8B%E6%91%8A%E4%B8%BB%E5%90%91%E5%A5%B3%E5%AD%A9%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [暑期旅游旺季 多种玩法“上新”](https://www.baidu.com/s?wd=%E6%9A%91%E6%9C%9F%E6%97%85%E6%B8%B8%E6%97%BA%E5%AD%A3+%E5%A4%9A%E7%A7%8D%E7%8E%A9%E6%B3%95%E2%80%9C%E4%B8%8A%E6%96%B0%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [第8号台风多拉生成 双台风“共舞”](https://www.baidu.com/s?wd=%E7%AC%AC8%E5%8F%B7%E5%8F%B0%E9%A3%8E%E5%A4%9A%E6%8B%89%E7%94%9F%E6%88%90+%E5%8F%8C%E5%8F%B0%E9%A3%8E%E2%80%9C%E5%85%B1%E8%88%9E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [女生餐馆吃饭一抬头发现店家全午睡](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%A4%90%E9%A6%86%E5%90%83%E9%A5%AD%E4%B8%80%E6%8A%AC%E5%A4%B4%E5%8F%91%E7%8E%B0%E5%BA%97%E5%AE%B6%E5%85%A8%E5%8D%88%E7%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [驻美大使回应吊手臂亮相：不慎受伤](https://www.baidu.com/s?wd=%E9%A9%BB%E7%BE%8E%E5%A4%A7%E4%BD%BF%E5%9B%9E%E5%BA%94%E5%90%8A%E6%89%8B%E8%87%82%E4%BA%AE%E7%9B%B8%EF%BC%9A%E4%B8%8D%E6%85%8E%E5%8F%97%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [山东高密燃气闪爆已致2死2伤](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E9%AB%98%E5%AF%86%E7%87%83%E6%B0%94%E9%97%AA%E7%88%86%E5%B7%B2%E8%87%B42%E6%AD%BB2%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [宝宝参加婚礼被亲一脸口红印](https://www.baidu.com/s?wd=%E5%AE%9D%E5%AE%9D%E5%8F%82%E5%8A%A0%E5%A9%9A%E7%A4%BC%E8%A2%AB%E4%BA%B2%E4%B8%80%E8%84%B8%E5%8F%A3%E7%BA%A2%E5%8D%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女生餐馆吃饭一抬头发现店家全午睡](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%A4%90%E9%A6%86%E5%90%83%E9%A5%AD%E4%B8%80%E6%8A%AC%E5%A4%B4%E5%8F%91%E7%8E%B0%E5%BA%97%E5%AE%B6%E5%85%A8%E5%8D%88%E7%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [夏威夷80%景点被大火吞噬](https://www.baidu.com/s?wd=%E5%A4%8F%E5%A8%81%E5%A4%B780%25%E6%99%AF%E7%82%B9%E8%A2%AB%E5%A4%A7%E7%81%AB%E5%90%9E%E5%99%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [太原水果捞事件涉事摊主向女孩道歉](https://www.baidu.com/s?wd=%E5%A4%AA%E5%8E%9F%E6%B0%B4%E6%9E%9C%E6%8D%9E%E4%BA%8B%E4%BB%B6%E6%B6%89%E4%BA%8B%E6%91%8A%E4%B8%BB%E5%90%91%E5%A5%B3%E5%AD%A9%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [暑期旅游旺季 多种玩法“上新”](https://www.baidu.com/s?wd=%E6%9A%91%E6%9C%9F%E6%97%85%E6%B8%B8%E6%97%BA%E5%AD%A3+%E5%A4%9A%E7%A7%8D%E7%8E%A9%E6%B3%95%E2%80%9C%E4%B8%8A%E6%96%B0%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [第8号台风多拉生成 双台风“共舞”](https://www.baidu.com/s?wd=%E7%AC%AC8%E5%8F%B7%E5%8F%B0%E9%A3%8E%E5%A4%9A%E6%8B%89%E7%94%9F%E6%88%90+%E5%8F%8C%E5%8F%B0%E9%A3%8E%E2%80%9C%E5%85%B1%E8%88%9E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [女生餐馆吃饭一抬头发现店家全午睡](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%A4%90%E9%A6%86%E5%90%83%E9%A5%AD%E4%B8%80%E6%8A%AC%E5%A4%B4%E5%8F%91%E7%8E%B0%E5%BA%97%E5%AE%B6%E5%85%A8%E5%8D%88%E7%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [驻美大使回应吊手臂亮相：不慎受伤](https://www.baidu.com/s?wd=%E9%A9%BB%E7%BE%8E%E5%A4%A7%E4%BD%BF%E5%9B%9E%E5%BA%94%E5%90%8A%E6%89%8B%E8%87%82%E4%BA%AE%E7%9B%B8%EF%BC%9A%E4%B8%8D%E6%85%8E%E5%8F%97%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [山东高密燃气闪爆已致2死2伤](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E9%AB%98%E5%AF%86%E7%87%83%E6%B0%94%E9%97%AA%E7%88%86%E5%B7%B2%E8%87%B42%E6%AD%BB2%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [宝宝参加婚礼被亲一脸口红印](https://www.baidu.com/s?wd=%E5%AE%9D%E5%AE%9D%E5%8F%82%E5%8A%A0%E5%A9%9A%E7%A4%BC%E8%A2%AB%E4%BA%B2%E4%B8%80%E8%84%B8%E5%8F%A3%E7%BA%A2%E5%8D%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女生餐馆吃饭一抬头发现店家全午睡](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%A4%90%E9%A6%86%E5%90%83%E9%A5%AD%E4%B8%80%E6%8A%AC%E5%A4%B4%E5%8F%91%E7%8E%B0%E5%BA%97%E5%AE%B6%E5%85%A8%E5%8D%88%E7%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [夏威夷80%景点被大火吞噬](https://www.baidu.com/s?wd=%E5%A4%8F%E5%A8%81%E5%A4%B780%25%E6%99%AF%E7%82%B9%E8%A2%AB%E5%A4%A7%E7%81%AB%E5%90%9E%E5%99%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
