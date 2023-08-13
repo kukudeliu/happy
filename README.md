@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-13 14:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-13 14:54:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [第8号台风多拉生成 双台风“共舞”](https://www.baidu.com/s?wd=%E7%AC%AC8%E5%8F%B7%E5%8F%B0%E9%A3%8E%E5%A4%9A%E6%8B%89%E7%94%9F%E6%88%90+%E5%8F%8C%E5%8F%B0%E9%A3%8E%E2%80%9C%E5%85%B1%E8%88%9E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [电诈大数据：80后90后成最易受骗人群](https://www.baidu.com/s?wd=%E7%94%B5%E8%AF%88%E5%A4%A7%E6%95%B0%E6%8D%AE%EF%BC%9A80%E5%90%8E90%E5%90%8E%E6%88%90%E6%9C%80%E6%98%93%E5%8F%97%E9%AA%97%E4%BA%BA%E7%BE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [夏威夷大火约100人跳太平洋逃生](https://www.baidu.com/s?wd=%E5%A4%8F%E5%A8%81%E5%A4%B7%E5%A4%A7%E7%81%AB%E7%BA%A6100%E4%BA%BA%E8%B7%B3%E5%A4%AA%E5%B9%B3%E6%B4%8B%E9%80%83%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女生餐馆吃饭一抬头发现店家全午睡](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%A4%90%E9%A6%86%E5%90%83%E9%A5%AD%E4%B8%80%E6%8A%AC%E5%A4%B4%E5%8F%91%E7%8E%B0%E5%BA%97%E5%AE%B6%E5%85%A8%E5%8D%88%E7%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [专家：医保应按收入缴纳个人费用](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E5%8C%BB%E4%BF%9D%E5%BA%94%E6%8C%89%E6%94%B6%E5%85%A5%E7%BC%B4%E7%BA%B3%E4%B8%AA%E4%BA%BA%E8%B4%B9%E7%94%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [高薪养医能否遏制医疗腐败高发](https://www.baidu.com/s?wd=%E9%AB%98%E8%96%AA%E5%85%BB%E5%8C%BB%E8%83%BD%E5%90%A6%E9%81%8F%E5%88%B6%E5%8C%BB%E7%96%97%E8%85%90%E8%B4%A5%E9%AB%98%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女生餐馆吃饭一抬头发现店家全午睡](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%A4%90%E9%A6%86%E5%90%83%E9%A5%AD%E4%B8%80%E6%8A%AC%E5%A4%B4%E5%8F%91%E7%8E%B0%E5%BA%97%E5%AE%B6%E5%85%A8%E5%8D%88%E7%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [第8号台风多拉生成 双台风“共舞”](https://www.baidu.com/s?wd=%E7%AC%AC8%E5%8F%B7%E5%8F%B0%E9%A3%8E%E5%A4%9A%E6%8B%89%E7%94%9F%E6%88%90+%E5%8F%8C%E5%8F%B0%E9%A3%8E%E2%80%9C%E5%85%B1%E8%88%9E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [电诈大数据：80后90后成最易受骗人群](https://www.baidu.com/s?wd=%E7%94%B5%E8%AF%88%E5%A4%A7%E6%95%B0%E6%8D%AE%EF%BC%9A80%E5%90%8E90%E5%90%8E%E6%88%90%E6%9C%80%E6%98%93%E5%8F%97%E9%AA%97%E4%BA%BA%E7%BE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [夏威夷大火约100人跳太平洋逃生](https://www.baidu.com/s?wd=%E5%A4%8F%E5%A8%81%E5%A4%B7%E5%A4%A7%E7%81%AB%E7%BA%A6100%E4%BA%BA%E8%B7%B3%E5%A4%AA%E5%B9%B3%E6%B4%8B%E9%80%83%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女生餐馆吃饭一抬头发现店家全午睡](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%A4%90%E9%A6%86%E5%90%83%E9%A5%AD%E4%B8%80%E6%8A%AC%E5%A4%B4%E5%8F%91%E7%8E%B0%E5%BA%97%E5%AE%B6%E5%85%A8%E5%8D%88%E7%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [专家：医保应按收入缴纳个人费用](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E5%8C%BB%E4%BF%9D%E5%BA%94%E6%8C%89%E6%94%B6%E5%85%A5%E7%BC%B4%E7%BA%B3%E4%B8%AA%E4%BA%BA%E8%B4%B9%E7%94%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [高薪养医能否遏制医疗腐败高发](https://www.baidu.com/s?wd=%E9%AB%98%E8%96%AA%E5%85%BB%E5%8C%BB%E8%83%BD%E5%90%A6%E9%81%8F%E5%88%B6%E5%8C%BB%E7%96%97%E8%85%90%E8%B4%A5%E9%AB%98%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女生餐馆吃饭一抬头发现店家全午睡](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%A4%90%E9%A6%86%E5%90%83%E9%A5%AD%E4%B8%80%E6%8A%AC%E5%A4%B4%E5%8F%91%E7%8E%B0%E5%BA%97%E5%AE%B6%E5%85%A8%E5%8D%88%E7%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
