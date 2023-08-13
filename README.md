@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-13 12:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-13 12:04:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [高铁站近9成是按摩椅？工作人员回应](https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E7%AB%99%E8%BF%919%E6%88%90%E6%98%AF%E6%8C%89%E6%91%A9%E6%A4%85%EF%BC%9F%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女生餐馆吃饭一抬头发现店家全午睡](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%A4%90%E9%A6%86%E5%90%83%E9%A5%AD%E4%B8%80%E6%8A%AC%E5%A4%B4%E5%8F%91%E7%8E%B0%E5%BA%97%E5%AE%B6%E5%85%A8%E5%8D%88%E7%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [宝宝参加婚礼被亲一脸口红印](https://www.baidu.com/s?wd=%E5%AE%9D%E5%AE%9D%E5%8F%82%E5%8A%A0%E5%A9%9A%E7%A4%BC%E8%A2%AB%E4%BA%B2%E4%B8%80%E8%84%B8%E5%8F%A3%E7%BA%A2%E5%8D%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子游泳时徒手抓到1米多大鱼](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%B8%B8%E6%B3%B3%E6%97%B6%E5%BE%92%E6%89%8B%E6%8A%93%E5%88%B01%E7%B1%B3%E5%A4%9A%E5%A4%A7%E9%B1%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中药价格持续上涨 喝一天要100元](https://www.baidu.com/s?wd=%E4%B8%AD%E8%8D%AF%E4%BB%B7%E6%A0%BC%E6%8C%81%E7%BB%AD%E4%B8%8A%E6%B6%A8+%E5%96%9D%E4%B8%80%E5%A4%A9%E8%A6%81100%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中药价格持续上涨 喝一天要100元](https://www.baidu.com/s?wd=%E4%B8%AD%E8%8D%AF%E4%BB%B7%E6%A0%BC%E6%8C%81%E7%BB%AD%E4%B8%8A%E6%B6%A8+%E5%96%9D%E4%B8%80%E5%A4%A9%E8%A6%81100%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [电动自行车锂电池监管趋严](https://www.baidu.com/s?wd=%E7%94%B5%E5%8A%A8%E8%87%AA%E8%A1%8C%E8%BD%A6%E9%94%82%E7%94%B5%E6%B1%A0%E7%9B%91%E7%AE%A1%E8%B6%8B%E4%B8%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [高铁站近9成是按摩椅？工作人员回应](https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E7%AB%99%E8%BF%919%E6%88%90%E6%98%AF%E6%8C%89%E6%91%A9%E6%A4%85%EF%BC%9F%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女生餐馆吃饭一抬头发现店家全午睡](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%A4%90%E9%A6%86%E5%90%83%E9%A5%AD%E4%B8%80%E6%8A%AC%E5%A4%B4%E5%8F%91%E7%8E%B0%E5%BA%97%E5%AE%B6%E5%85%A8%E5%8D%88%E7%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [宝宝参加婚礼被亲一脸口红印](https://www.baidu.com/s?wd=%E5%AE%9D%E5%AE%9D%E5%8F%82%E5%8A%A0%E5%A9%9A%E7%A4%BC%E8%A2%AB%E4%BA%B2%E4%B8%80%E8%84%B8%E5%8F%A3%E7%BA%A2%E5%8D%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子游泳时徒手抓到1米多大鱼](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%B8%B8%E6%B3%B3%E6%97%B6%E5%BE%92%E6%89%8B%E6%8A%93%E5%88%B01%E7%B1%B3%E5%A4%9A%E5%A4%A7%E9%B1%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中药价格持续上涨 喝一天要100元](https://www.baidu.com/s?wd=%E4%B8%AD%E8%8D%AF%E4%BB%B7%E6%A0%BC%E6%8C%81%E7%BB%AD%E4%B8%8A%E6%B6%A8+%E5%96%9D%E4%B8%80%E5%A4%A9%E8%A6%81100%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中药价格持续上涨 喝一天要100元](https://www.baidu.com/s?wd=%E4%B8%AD%E8%8D%AF%E4%BB%B7%E6%A0%BC%E6%8C%81%E7%BB%AD%E4%B8%8A%E6%B6%A8+%E5%96%9D%E4%B8%80%E5%A4%A9%E8%A6%81100%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [电动自行车锂电池监管趋严](https://www.baidu.com/s?wd=%E7%94%B5%E5%8A%A8%E8%87%AA%E8%A1%8C%E8%BD%A6%E9%94%82%E7%94%B5%E6%B1%A0%E7%9B%91%E7%AE%A1%E8%B6%8B%E4%B8%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
