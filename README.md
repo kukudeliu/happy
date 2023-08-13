@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-13 20:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-13 20:40:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [沈腾问范丞丞的脸是靠打针吗](https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E9%97%AE%E8%8C%83%E4%B8%9E%E4%B8%9E%E7%9A%84%E8%84%B8%E6%98%AF%E9%9D%A0%E6%89%93%E9%92%88%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [西安泥石流已发现21名遇难者](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E6%B3%A5%E7%9F%B3%E6%B5%81%E5%B7%B2%E5%8F%91%E7%8E%B021%E5%90%8D%E9%81%87%E9%9A%BE%E8%80%85%23&t=31&band_rank=7&Refer=top)<br />
 8. [封神第一部票房破20亿](https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E%E7%AC%AC%E4%B8%80%E9%83%A8%E7%A5%A8%E6%88%BF%E7%A0%B420%E4%BA%BF%23&t=31&band_rank=8&Refer=top)<br />
-9. [内娱Queencard决赛圈](https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1Queencard%E5%86%B3%E8%B5%9B%E5%9C%88%23&t=31&band_rank=9&Refer=top)<br />
+9. [檀健次一句话我掉三滴泪](https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E4%B8%80%E5%8F%A5%E8%AF%9D%E6%88%91%E6%8E%89%E4%B8%89%E6%BB%B4%E6%B3%AA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,10 +22,10 @@
 3. [卫健局副局长受贿 案发后举报局长](https://www.baidu.com/s?wd=%E5%8D%AB%E5%81%A5%E5%B1%80%E5%89%AF%E5%B1%80%E9%95%BF%E5%8F%97%E8%B4%BF+%E6%A1%88%E5%8F%91%E5%90%8E%E4%B8%BE%E6%8A%A5%E5%B1%80%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [暑期旅游旺季 多种玩法“上新”](https://www.baidu.com/s?wd=%E6%9A%91%E6%9C%9F%E6%97%85%E6%B8%B8%E6%97%BA%E5%AD%A3+%E5%A4%9A%E7%A7%8D%E7%8E%A9%E6%B3%95%E2%80%9C%E4%B8%8A%E6%96%B0%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中方车队遇枪击 车窗留下多个弹孔](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E8%BD%A6%E9%98%9F%E9%81%87%E6%9E%AA%E5%87%BB+%E8%BD%A6%E7%AA%97%E7%95%99%E4%B8%8B%E5%A4%9A%E4%B8%AA%E5%BC%B9%E5%AD%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [电诈大数据：80后90后成最易受骗人群](https://www.baidu.com/s?wd=%E7%94%B5%E8%AF%88%E5%A4%A7%E6%95%B0%E6%8D%AE%EF%BC%9A80%E5%90%8E90%E5%90%8E%E6%88%90%E6%9C%80%E6%98%93%E5%8F%97%E9%AA%97%E4%BA%BA%E7%BE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [丈夫割草归来采一大把野花送妻子](https://www.baidu.com/s?wd=%E4%B8%88%E5%A4%AB%E5%89%B2%E8%8D%89%E5%BD%92%E6%9D%A5%E9%87%87%E4%B8%80%E5%A4%A7%E6%8A%8A%E9%87%8E%E8%8A%B1%E9%80%81%E5%A6%BB%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [西安泥石流已发现21名遇难者](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E6%B3%A5%E7%9F%B3%E6%B5%81%E5%B7%B2%E5%8F%91%E7%8E%B021%E5%90%8D%E9%81%87%E9%9A%BE%E8%80%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [丈夫割草归来采一大把野花送妻子](https://www.baidu.com/s?wd=%E4%B8%88%E5%A4%AB%E5%89%B2%E8%8D%89%E5%BD%92%E6%9D%A5%E9%87%87%E4%B8%80%E5%A4%A7%E6%8A%8A%E9%87%8E%E8%8A%B1%E9%80%81%E5%A6%BB%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [杨紫羊了个羊通关后的反应](https://www.baidu.com/s?wd=%E6%9D%A8%E7%B4%AB%E7%BE%8A%E4%BA%86%E4%B8%AA%E7%BE%8A%E9%80%9A%E5%85%B3%E5%90%8E%E7%9A%84%E5%8F%8D%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [杨紫羊了个羊通关后的反应](https://www.baidu.com/s?wd=%E6%9D%A8%E7%B4%AB%E7%BE%8A%E4%BA%86%E4%B8%AA%E7%BE%8A%E9%80%9A%E5%85%B3%E5%90%8E%E7%9A%84%E5%8F%8D%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [电诈大数据：80后90后成最易受骗人群](https://www.baidu.com/s?wd=%E7%94%B5%E8%AF%88%E5%A4%A7%E6%95%B0%E6%8D%AE%EF%BC%9A80%E5%90%8E90%E5%90%8E%E6%88%90%E6%9C%80%E6%98%93%E5%8F%97%E9%AA%97%E4%BA%BA%E7%BE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -34,7 +34,7 @@
 3. [卫健局副局长受贿 案发后举报局长](https://www.baidu.com/s?wd=%E5%8D%AB%E5%81%A5%E5%B1%80%E5%89%AF%E5%B1%80%E9%95%BF%E5%8F%97%E8%B4%BF+%E6%A1%88%E5%8F%91%E5%90%8E%E4%B8%BE%E6%8A%A5%E5%B1%80%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [暑期旅游旺季 多种玩法“上新”](https://www.baidu.com/s?wd=%E6%9A%91%E6%9C%9F%E6%97%85%E6%B8%B8%E6%97%BA%E5%AD%A3+%E5%A4%9A%E7%A7%8D%E7%8E%A9%E6%B3%95%E2%80%9C%E4%B8%8A%E6%96%B0%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中方车队遇枪击 车窗留下多个弹孔](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E8%BD%A6%E9%98%9F%E9%81%87%E6%9E%AA%E5%87%BB+%E8%BD%A6%E7%AA%97%E7%95%99%E4%B8%8B%E5%A4%9A%E4%B8%AA%E5%BC%B9%E5%AD%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [电诈大数据：80后90后成最易受骗人群](https://www.baidu.com/s?wd=%E7%94%B5%E8%AF%88%E5%A4%A7%E6%95%B0%E6%8D%AE%EF%BC%9A80%E5%90%8E90%E5%90%8E%E6%88%90%E6%9C%80%E6%98%93%E5%8F%97%E9%AA%97%E4%BA%BA%E7%BE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [丈夫割草归来采一大把野花送妻子](https://www.baidu.com/s?wd=%E4%B8%88%E5%A4%AB%E5%89%B2%E8%8D%89%E5%BD%92%E6%9D%A5%E9%87%87%E4%B8%80%E5%A4%A7%E6%8A%8A%E9%87%8E%E8%8A%B1%E9%80%81%E5%A6%BB%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [西安泥石流已发现21名遇难者](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E6%B3%A5%E7%9F%B3%E6%B5%81%E5%B7%B2%E5%8F%91%E7%8E%B021%E5%90%8D%E9%81%87%E9%9A%BE%E8%80%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [丈夫割草归来采一大把野花送妻子](https://www.baidu.com/s?wd=%E4%B8%88%E5%A4%AB%E5%89%B2%E8%8D%89%E5%BD%92%E6%9D%A5%E9%87%87%E4%B8%80%E5%A4%A7%E6%8A%8A%E9%87%8E%E8%8A%B1%E9%80%81%E5%A6%BB%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [杨紫羊了个羊通关后的反应](https://www.baidu.com/s?wd=%E6%9D%A8%E7%B4%AB%E7%BE%8A%E4%BA%86%E4%B8%AA%E7%BE%8A%E9%80%9A%E5%85%B3%E5%90%8E%E7%9A%84%E5%8F%8D%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [杨紫羊了个羊通关后的反应](https://www.baidu.com/s?wd=%E6%9D%A8%E7%B4%AB%E7%BE%8A%E4%BA%86%E4%B8%AA%E7%BE%8A%E9%80%9A%E5%85%B3%E5%90%8E%E7%9A%84%E5%8F%8D%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [电诈大数据：80后90后成最易受骗人群](https://www.baidu.com/s?wd=%E7%94%B5%E8%AF%88%E5%A4%A7%E6%95%B0%E6%8D%AE%EF%BC%9A80%E5%90%8E90%E5%90%8E%E6%88%90%E6%9C%80%E6%98%93%E5%8F%97%E9%AA%97%E4%BA%BA%E7%BE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
