@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-13 21:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-13 21:41:01</h4></div>
 
 > 微博  
 
@@ -17,10 +17,10 @@
 
 > 百度  
 
-1. [延续千年文脉 古今相得益彰](https://www.baidu.com/s?wd=%E5%BB%B6%E7%BB%AD%E5%8D%83%E5%B9%B4%E6%96%87%E8%84%89+%E5%8F%A4%E4%BB%8A%E7%9B%B8%E5%BE%97%E7%9B%8A%E5%BD%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [创造属于我们这个时代的新文化](https://www.baidu.com/s?wd=%E5%88%9B%E9%80%A0%E5%B1%9E%E4%BA%8E%E6%88%91%E4%BB%AC%E8%BF%99%E4%B8%AA%E6%97%B6%E4%BB%A3%E7%9A%84%E6%96%B0%E6%96%87%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [车队遭炸弹袭击 中方要巴方严惩凶手](https://www.baidu.com/s?wd=%E8%BD%A6%E9%98%9F%E9%81%AD%E7%82%B8%E5%BC%B9%E8%A2%AD%E5%87%BB+%E4%B8%AD%E6%96%B9%E8%A6%81%E5%B7%B4%E6%96%B9%E4%B8%A5%E6%83%A9%E5%87%B6%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [中国医学科学院肿瘤医院院长被举报](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E9%99%A2%E8%82%BF%E7%98%A4%E5%8C%BB%E9%99%A2%E9%99%A2%E9%95%BF%E8%A2%AB%E4%B8%BE%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [暑期旅游旺季 多种玩法“上新”](https://www.baidu.com/s?wd=%E6%9A%91%E6%9C%9F%E6%97%85%E6%B8%B8%E6%97%BA%E5%AD%A3+%E5%A4%9A%E7%A7%8D%E7%8E%A9%E6%B3%95%E2%80%9C%E4%B8%8A%E6%96%B0%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [人民子弟兵冲在防汛救灾最前线](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E5%AD%90%E5%BC%9F%E5%85%B5%E5%86%B2%E5%9C%A8%E9%98%B2%E6%B1%9B%E6%95%91%E7%81%BE%E6%9C%80%E5%89%8D%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [考古人员徒手摸兵马俑 博物馆回应](https://www.baidu.com/s?wd=%E8%80%83%E5%8F%A4%E4%BA%BA%E5%91%98%E5%BE%92%E6%89%8B%E6%91%B8%E5%85%B5%E9%A9%AC%E4%BF%91+%E5%8D%9A%E7%89%A9%E9%A6%86%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [小伙用七龙珠方式的记录妻子怀孕](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E7%94%A8%E4%B8%83%E9%BE%99%E7%8F%A0%E6%96%B9%E5%BC%8F%E7%9A%84%E8%AE%B0%E5%BD%95%E5%A6%BB%E5%AD%90%E6%80%80%E5%AD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [云南2480元酒店二次泡澡额外收费](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%972480%E5%85%83%E9%85%92%E5%BA%97%E4%BA%8C%E6%AC%A1%E6%B3%A1%E6%BE%A1%E9%A2%9D%E5%A4%96%E6%94%B6%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,10 +29,10 @@
 
 > 哔哩哔哩  
 
-1. [延续千年文脉 古今相得益彰](https://www.baidu.com/s?wd=%E5%BB%B6%E7%BB%AD%E5%8D%83%E5%B9%B4%E6%96%87%E8%84%89+%E5%8F%A4%E4%BB%8A%E7%9B%B8%E5%BE%97%E7%9B%8A%E5%BD%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [创造属于我们这个时代的新文化](https://www.baidu.com/s?wd=%E5%88%9B%E9%80%A0%E5%B1%9E%E4%BA%8E%E6%88%91%E4%BB%AC%E8%BF%99%E4%B8%AA%E6%97%B6%E4%BB%A3%E7%9A%84%E6%96%B0%E6%96%87%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [车队遭炸弹袭击 中方要巴方严惩凶手](https://www.baidu.com/s?wd=%E8%BD%A6%E9%98%9F%E9%81%AD%E7%82%B8%E5%BC%B9%E8%A2%AD%E5%87%BB+%E4%B8%AD%E6%96%B9%E8%A6%81%E5%B7%B4%E6%96%B9%E4%B8%A5%E6%83%A9%E5%87%B6%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [中国医学科学院肿瘤医院院长被举报](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E9%99%A2%E8%82%BF%E7%98%A4%E5%8C%BB%E9%99%A2%E9%99%A2%E9%95%BF%E8%A2%AB%E4%B8%BE%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [暑期旅游旺季 多种玩法“上新”](https://www.baidu.com/s?wd=%E6%9A%91%E6%9C%9F%E6%97%85%E6%B8%B8%E6%97%BA%E5%AD%A3+%E5%A4%9A%E7%A7%8D%E7%8E%A9%E6%B3%95%E2%80%9C%E4%B8%8A%E6%96%B0%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [人民子弟兵冲在防汛救灾最前线](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E5%AD%90%E5%BC%9F%E5%85%B5%E5%86%B2%E5%9C%A8%E9%98%B2%E6%B1%9B%E6%95%91%E7%81%BE%E6%9C%80%E5%89%8D%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [考古人员徒手摸兵马俑 博物馆回应](https://www.baidu.com/s?wd=%E8%80%83%E5%8F%A4%E4%BA%BA%E5%91%98%E5%BE%92%E6%89%8B%E6%91%B8%E5%85%B5%E9%A9%AC%E4%BF%91+%E5%8D%9A%E7%89%A9%E9%A6%86%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [小伙用七龙珠方式的记录妻子怀孕](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E7%94%A8%E4%B8%83%E9%BE%99%E7%8F%A0%E6%96%B9%E5%BC%8F%E7%9A%84%E8%AE%B0%E5%BD%95%E5%A6%BB%E5%AD%90%E6%80%80%E5%AD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [云南2480元酒店二次泡澡额外收费](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%972480%E5%85%83%E9%85%92%E5%BA%97%E4%BA%8C%E6%AC%A1%E6%B3%A1%E6%BE%A1%E9%A2%9D%E5%A4%96%E6%94%B6%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
