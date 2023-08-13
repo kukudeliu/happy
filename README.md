@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-13 15:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-13 15:13:01</h4></div>
 
 > 微博  
 
@@ -21,7 +21,7 @@
 2. [山东高密燃气闪爆已致2死2伤](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E9%AB%98%E5%AF%86%E7%87%83%E6%B0%94%E9%97%AA%E7%88%86%E5%B7%B2%E8%87%B42%E6%AD%BB2%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [太原水果捞事件涉事摊主向女孩道歉](https://www.baidu.com/s?wd=%E5%A4%AA%E5%8E%9F%E6%B0%B4%E6%9E%9C%E6%8D%9E%E4%BA%8B%E4%BB%B6%E6%B6%89%E4%BA%8B%E6%91%8A%E4%B8%BB%E5%90%91%E5%A5%B3%E5%AD%A9%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [这个夏日 消费活力激荡](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E5%A4%8F%E6%97%A5+%E6%B6%88%E8%B4%B9%E6%B4%BB%E5%8A%9B%E6%BF%80%E8%8D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [中药价格持续上涨 喝一天要100元](https://www.baidu.com/s?wd=%E4%B8%AD%E8%8D%AF%E4%BB%B7%E6%A0%BC%E6%8C%81%E7%BB%AD%E4%B8%8A%E6%B6%A8+%E5%96%9D%E4%B8%80%E5%A4%A9%E8%A6%81100%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [巴基斯坦发生疑针对中方工程师袭击](https://www.baidu.com/s?wd=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%8F%91%E7%94%9F%E7%96%91%E9%92%88%E5%AF%B9%E4%B8%AD%E6%96%B9%E5%B7%A5%E7%A8%8B%E5%B8%88%E8%A2%AD%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [00后在精神病院当护士是什么体验](https://www.baidu.com/s?wd=00%E5%90%8E%E5%9C%A8%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2%E5%BD%93%E6%8A%A4%E5%A3%AB%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李玟二姐账号被网友刷屏](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E4%BA%8C%E5%A7%90%E8%B4%A6%E5%8F%B7%E8%A2%AB%E7%BD%91%E5%8F%8B%E5%88%B7%E5%B1%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女生餐馆吃饭一抬头发现店家全午睡](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%A4%90%E9%A6%86%E5%90%83%E9%A5%AD%E4%B8%80%E6%8A%AC%E5%A4%B4%E5%8F%91%E7%8E%B0%E5%BA%97%E5%AE%B6%E5%85%A8%E5%8D%88%E7%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -33,7 +33,7 @@
 2. [山东高密燃气闪爆已致2死2伤](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E9%AB%98%E5%AF%86%E7%87%83%E6%B0%94%E9%97%AA%E7%88%86%E5%B7%B2%E8%87%B42%E6%AD%BB2%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [太原水果捞事件涉事摊主向女孩道歉](https://www.baidu.com/s?wd=%E5%A4%AA%E5%8E%9F%E6%B0%B4%E6%9E%9C%E6%8D%9E%E4%BA%8B%E4%BB%B6%E6%B6%89%E4%BA%8B%E6%91%8A%E4%B8%BB%E5%90%91%E5%A5%B3%E5%AD%A9%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [这个夏日 消费活力激荡](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E5%A4%8F%E6%97%A5+%E6%B6%88%E8%B4%B9%E6%B4%BB%E5%8A%9B%E6%BF%80%E8%8D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [中药价格持续上涨 喝一天要100元](https://www.baidu.com/s?wd=%E4%B8%AD%E8%8D%AF%E4%BB%B7%E6%A0%BC%E6%8C%81%E7%BB%AD%E4%B8%8A%E6%B6%A8+%E5%96%9D%E4%B8%80%E5%A4%A9%E8%A6%81100%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [巴基斯坦发生疑针对中方工程师袭击](https://www.baidu.com/s?wd=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%8F%91%E7%94%9F%E7%96%91%E9%92%88%E5%AF%B9%E4%B8%AD%E6%96%B9%E5%B7%A5%E7%A8%8B%E5%B8%88%E8%A2%AD%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [00后在精神病院当护士是什么体验](https://www.baidu.com/s?wd=00%E5%90%8E%E5%9C%A8%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2%E5%BD%93%E6%8A%A4%E5%A3%AB%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李玟二姐账号被网友刷屏](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E4%BA%8C%E5%A7%90%E8%B4%A6%E5%8F%B7%E8%A2%AB%E7%BD%91%E5%8F%8B%E5%88%B7%E5%B1%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女生餐馆吃饭一抬头发现店家全午睡](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%A4%90%E9%A6%86%E5%90%83%E9%A5%AD%E4%B8%80%E6%8A%AC%E5%A4%B4%E5%8F%91%E7%8E%B0%E5%BA%97%E5%AE%B6%E5%85%A8%E5%8D%88%E7%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
