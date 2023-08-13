@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-13 21:21:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-13 21:22:01</h4></div>
 
 > 微博  
 
-1. [杨紫羊了个羊通关后的反应](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E7%BE%8A%E4%BA%86%E4%B8%AA%E7%BE%8A%E9%80%9A%E5%85%B3%E5%90%8E%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=1&Refer=top)<br />
-2. [杨某人](https://s.weibo.com/weibo?q=%E6%9D%A8%E6%9F%90%E4%BA%BA&t=31&band_rank=2&Refer=top)<br />
+1. [杨某人](https://s.weibo.com/weibo?q=%E6%9D%A8%E6%9F%90%E4%BA%BA&t=31&band_rank=1&Refer=top)<br />
+2. [杨紫羊了个羊通关后的反应](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E7%BE%8A%E4%BA%86%E4%B8%AA%E7%BE%8A%E9%80%9A%E5%85%B3%E5%90%8E%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=2&Refer=top)<br />
 3. [洪水过后小学的黑板报看到泪目](https://s.weibo.com/weibo?q=%23%E6%B4%AA%E6%B0%B4%E8%BF%87%E5%90%8E%E5%B0%8F%E5%AD%A6%E7%9A%84%E9%BB%91%E6%9D%BF%E6%8A%A5%E7%9C%8B%E5%88%B0%E6%B3%AA%E7%9B%AE%23&t=31&band_rank=3&Refer=top)<br />
 4. [云南地震](https://s.weibo.com/weibo?q=%E4%BA%91%E5%8D%97%E5%9C%B0%E9%9C%87&t=31&band_rank=4&Refer=top)<br />
 5. [沈腾问范丞丞的脸是靠打针吗](https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E9%97%AE%E8%8C%83%E4%B8%9E%E4%B8%9E%E7%9A%84%E8%84%B8%E6%98%AF%E9%9D%A0%E6%89%93%E9%92%88%E5%90%97%23&t=31&band_rank=5&Refer=top)<br />
