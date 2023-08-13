@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-14 00:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-14 00:23:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [杨紫羊了个羊通关后的反应](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E7%BE%8A%E4%BA%86%E4%B8%AA%E7%BE%8A%E9%80%9A%E5%85%B3%E5%90%8E%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=5&Refer=top)<br />
 6. [周琦](https://s.weibo.com/weibo?q=%E5%91%A8%E7%90%A6&t=31&band_rank=6&Refer=top)<br />
 7. [李凯尔](https://s.weibo.com/weibo?q=%E6%9D%8E%E5%87%AF%E5%B0%94&t=31&band_rank=7&Refer=top)<br />
-8. [中国男篮vs新西兰男篮](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AEvs%E6%96%B0%E8%A5%BF%E5%85%B0%E7%94%B7%E7%AF%AE%23&t=31&band_rank=8&Refer=top)<br />
-9. [赵睿](https://s.weibo.com/weibo?q=%E8%B5%B5%E7%9D%BF&t=31&band_rank=9&Refer=top)<br />
+8. [赵睿](https://s.weibo.com/weibo?q=%E8%B5%B5%E7%9D%BF&t=31&band_rank=8&Refer=top)<br />
+9. [中国男篮vs新西兰男篮](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AEvs%E6%96%B0%E8%A5%BF%E5%85%B0%E7%94%B7%E7%AF%AE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
