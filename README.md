@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-13 13:05:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-13 13:06:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [女子吃菌出现幻觉 猫咪求登记结婚](https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E5%90%83%E8%8F%8C%E5%87%BA%E7%8E%B0%E5%B9%BB%E8%A7%89%20%E7%8C%AB%E5%92%AA%E6%B1%82%E7%99%BB%E8%AE%B0%E7%BB%93%E5%A9%9A&t=31&band_rank=6&Refer=top)<br />
 7. [许光汉表情](https://s.weibo.com/weibo?q=%E8%AE%B8%E5%85%89%E6%B1%89%E8%A1%A8%E6%83%85&t=31&band_rank=7&Refer=top)<br />
 8. [王栎鑫为吴悠拼了](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A0%8E%E9%91%AB%E4%B8%BA%E5%90%B4%E6%82%A0%E6%8B%BC%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [黄晓明特别想要一个女儿](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E7%89%B9%E5%88%AB%E6%83%B3%E8%A6%81%E4%B8%80%E4%B8%AA%E5%A5%B3%E5%84%BF%23&t=31&band_rank=9&Refer=top)<br />
+9. [王鹤棣被杨紫泼水的反应](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E8%A2%AB%E6%9D%A8%E7%B4%AB%E6%B3%BC%E6%B0%B4%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
