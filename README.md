@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-13 23:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-13 23:30:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [05后就要开学报到了](https://s.weibo.com/weibo?q=%2305%E5%90%8E%E5%B0%B1%E8%A6%81%E5%BC%80%E5%AD%A6%E6%8A%A5%E5%88%B0%E4%BA%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [三里屯太古里回应北区女生被偷拍](https://s.weibo.com/weibo?q=%23%E4%B8%89%E9%87%8C%E5%B1%AF%E5%A4%AA%E5%8F%A4%E9%87%8C%E5%9B%9E%E5%BA%94%E5%8C%97%E5%8C%BA%E5%A5%B3%E7%94%9F%E8%A2%AB%E5%81%B7%E6%8B%8D%23&t=31&band_rank=4&Refer=top)<br />
 5. [云南地震](https://s.weibo.com/weibo?q=%E4%BA%91%E5%8D%97%E5%9C%B0%E9%9C%87&t=31&band_rank=5&Refer=top)<br />
-6. [江苏盐城龙卷风2死15伤](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E7%9B%90%E5%9F%8E%E9%BE%99%E5%8D%B7%E9%A3%8E2%E6%AD%BB15%E4%BC%A4%23&t=31&band_rank=6&Refer=top)<br />
-7. [热烈](https://s.weibo.com/weibo?q=%E7%83%AD%E7%83%88&t=31&band_rank=7&Refer=top)<br />
+6. [六公主为什么如此关注封神](https://s.weibo.com/weibo?q=%23%E5%85%AD%E5%85%AC%E4%B8%BB%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A6%82%E6%AD%A4%E5%85%B3%E6%B3%A8%E5%B0%81%E7%A5%9E%23&t=31&band_rank=6&Refer=top)<br />
+7. [江苏盐城龙卷风2死15伤](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E7%9B%90%E5%9F%8E%E9%BE%99%E5%8D%B7%E9%A3%8E2%E6%AD%BB15%E4%BC%A4%23&t=31&band_rank=7&Refer=top)<br />
 8. [杨玏曾说自己是北京四大名菜](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%8E%8F%E6%9B%BE%E8%AF%B4%E8%87%AA%E5%B7%B1%E6%98%AF%E5%8C%97%E4%BA%AC%E5%9B%9B%E5%A4%A7%E5%90%8D%E8%8F%9C%23&t=31&band_rank=8&Refer=top)<br />
-9. [爷爷带着花花回家了](https://s.weibo.com/weibo?q=%E7%88%B7%E7%88%B7%E5%B8%A6%E7%9D%80%E8%8A%B1%E8%8A%B1%E5%9B%9E%E5%AE%B6%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [热烈](https://s.weibo.com/weibo?q=%E7%83%AD%E7%83%88&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
