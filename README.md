@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-14 07:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-14 07:40:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [孤注一掷票房断层第一](https://s.weibo.com/weibo?q=%23%E5%AD%A4%E6%B3%A8%E4%B8%80%E6%8E%B7%E7%A5%A8%E6%88%BF%E6%96%AD%E5%B1%82%E7%AC%AC%E4%B8%80%23&t=31&band_rank=6&Refer=top)<br />
 7. [丽水一无人售瓜摊1天收入2000多元](https://s.weibo.com/weibo?q=%23%E4%B8%BD%E6%B0%B4%E4%B8%80%E6%97%A0%E4%BA%BA%E5%94%AE%E7%93%9C%E6%91%8A1%E5%A4%A9%E6%94%B6%E5%85%A52000%E5%A4%9A%E5%85%83%23&t=31&band_rank=7&Refer=top)<br />
 8. [六公主为什么如此关注封神](https://s.weibo.com/weibo?q=%23%E5%85%AD%E5%85%AC%E4%B8%BB%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A6%82%E6%AD%A4%E5%85%B3%E6%B3%A8%E5%B0%81%E7%A5%9E%23&t=31&band_rank=8&Refer=top)<br />
-9. [内马尔](https://s.weibo.com/weibo?q=%E5%86%85%E9%A9%AC%E5%B0%94&t=31&band_rank=9&Refer=top)<br />
+9. [BLG与EDG携手晋级八强](https://s.weibo.com/weibo?q=%23BLG%E4%B8%8EEDG%E6%90%BA%E6%89%8B%E6%99%8B%E7%BA%A7%E5%85%AB%E5%BC%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
