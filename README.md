@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-13 22:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-13 22:42:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [汪苏泷 凤凰传奇](https://s.weibo.com/weibo?q=%E6%B1%AA%E8%8B%8F%E6%B3%B7%20%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87&t=31&band_rank=6&Refer=top)<br />
 7. [杨某人](https://s.weibo.com/weibo?q=%E6%9D%A8%E6%9F%90%E4%BA%BA&t=31&band_rank=7&Refer=top)<br />
 8. [洛阳市中心医院一住院患者坠楼死亡](https://s.weibo.com/weibo?q=%23%E6%B4%9B%E9%98%B3%E5%B8%82%E4%B8%AD%E5%BF%83%E5%8C%BB%E9%99%A2%E4%B8%80%E4%BD%8F%E9%99%A2%E6%82%A3%E8%80%85%E5%9D%A0%E6%A5%BC%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [沈腾问范丞丞的脸是靠打针吗](https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E9%97%AE%E8%8C%83%E4%B8%9E%E4%B8%9E%E7%9A%84%E8%84%B8%E6%98%AF%E9%9D%A0%E6%89%93%E9%92%88%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
+9. [热烈](https://s.weibo.com/weibo?q=%E7%83%AD%E7%83%88&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
