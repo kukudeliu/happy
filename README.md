@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-13 19:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-13 19:59:02</h4></div>
 
 > 微博  
 
 1. [杨紫羊了个羊通关后的反应](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E7%BE%8A%E4%BA%86%E4%B8%AA%E7%BE%8A%E9%80%9A%E5%85%B3%E5%90%8E%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=1&Refer=top)<br />
-2. [丈夫割草归来采一大把野花送妻子](https://s.weibo.com/weibo?q=%23%E4%B8%88%E5%A4%AB%E5%89%B2%E8%8D%89%E5%BD%92%E6%9D%A5%E9%87%87%E4%B8%80%E5%A4%A7%E6%8A%8A%E9%87%8E%E8%8A%B1%E9%80%81%E5%A6%BB%E5%AD%90%23&t=31&band_rank=2&Refer=top)<br />
+2. [女孩凌晨山顶哭诉讨厌现在的自己](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%87%8C%E6%99%A8%E5%B1%B1%E9%A1%B6%E5%93%AD%E8%AF%89%E8%AE%A8%E5%8E%8C%E7%8E%B0%E5%9C%A8%E7%9A%84%E8%87%AA%E5%B7%B1%23&t=31&band_rank=2&Refer=top)<br />
 3. [中国科考队发布亚洲最高树等身照](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A7%91%E8%80%83%E9%98%9F%E5%8F%91%E5%B8%83%E4%BA%9A%E6%B4%B2%E6%9C%80%E9%AB%98%E6%A0%91%E7%AD%89%E8%BA%AB%E7%85%A7%23&t=31&band_rank=3&Refer=top)<br />
 4. [男子要女孩微信被拒后对其爸爸动手视频警情通报](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%A6%81%E5%A5%B3%E5%AD%A9%E5%BE%AE%E4%BF%A1%E8%A2%AB%E6%8B%92%E5%90%8E%E5%AF%B9%E5%85%B6%E7%88%B8%E7%88%B8%E5%8A%A8%E6%89%8B%E8%A7%86%E9%A2%91%E8%AD%A6%E6%83%85%E9%80%9A%E6%8A%A5%23&t=31&band_rank=4&Refer=top)<br />
-5. [女孩凌晨山顶哭诉讨厌现在的自己](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%87%8C%E6%99%A8%E5%B1%B1%E9%A1%B6%E5%93%AD%E8%AF%89%E8%AE%A8%E5%8E%8C%E7%8E%B0%E5%9C%A8%E7%9A%84%E8%87%AA%E5%B7%B1%23&t=31&band_rank=5&Refer=top)<br />
+5. [丈夫割草归来采一大把野花送妻子](https://s.weibo.com/weibo?q=%23%E4%B8%88%E5%A4%AB%E5%89%B2%E8%8D%89%E5%BD%92%E6%9D%A5%E9%87%87%E4%B8%80%E5%A4%A7%E6%8A%8A%E9%87%8E%E8%8A%B1%E9%80%81%E5%A6%BB%E5%AD%90%23&t=31&band_rank=5&Refer=top)<br />
 6. [龙吸水](https://s.weibo.com/weibo?q=%E9%BE%99%E5%90%B8%E6%B0%B4&t=31&band_rank=6&Refer=top)<br />
 7. [西安泥石流已发现21名遇难者](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E6%B3%A5%E7%9F%B3%E6%B5%81%E5%B7%B2%E5%8F%91%E7%8E%B021%E5%90%8D%E9%81%87%E9%9A%BE%E8%80%85%23&t=31&band_rank=7&Refer=top)<br />
 8. [封神第一部票房破20亿](https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E%E7%AC%AC%E4%B8%80%E9%83%A8%E7%A5%A8%E6%88%BF%E7%A0%B420%E4%BA%BF%23&t=31&band_rank=8&Refer=top)<br />
