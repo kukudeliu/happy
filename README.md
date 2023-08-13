@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-13 15:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-13 15:31:01</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [这个夏日 消费活力激荡](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E5%A4%8F%E6%97%A5+%E6%B6%88%E8%B4%B9%E6%B4%BB%E5%8A%9B%E6%BF%80%E8%8D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [第8号台风多拉生成 双台风“共舞”](https://www.baidu.com/s?wd=%E7%AC%AC8%E5%8F%B7%E5%8F%B0%E9%A3%8E%E5%A4%9A%E6%8B%89%E7%94%9F%E6%88%90+%E5%8F%8C%E5%8F%B0%E9%A3%8E%E2%80%9C%E5%85%B1%E8%88%9E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [00后在精神病院当护士是什么体验](https://www.baidu.com/s?wd=00%E5%90%8E%E5%9C%A8%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2%E5%BD%93%E6%8A%A4%E5%A3%AB%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [宝宝参加婚礼被亲一脸口红印](https://www.baidu.com/s?wd=%E5%AE%9D%E5%AE%9D%E5%8F%82%E5%8A%A0%E5%A9%9A%E7%A4%BC%E8%A2%AB%E4%BA%B2%E4%B8%80%E8%84%B8%E5%8F%A3%E7%BA%A2%E5%8D%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [山东高密燃气闪爆已致2死2伤](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E9%AB%98%E5%AF%86%E7%87%83%E6%B0%94%E9%97%AA%E7%88%86%E5%B7%B2%E8%87%B42%E6%AD%BB2%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [央视公开霹雳15生产车间秀肌肉](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E5%85%AC%E5%BC%80%E9%9C%B9%E9%9B%B315%E7%94%9F%E4%BA%A7%E8%BD%A6%E9%97%B4%E7%A7%80%E8%82%8C%E8%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [男子游泳时徒手抓到1米多大鱼](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%B8%B8%E6%B3%B3%E6%97%B6%E5%BE%92%E6%89%8B%E6%8A%93%E5%88%B01%E7%B1%B3%E5%A4%9A%E5%A4%A7%E9%B1%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [这个夏日 消费活力激荡](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E5%A4%8F%E6%97%A5+%E6%B6%88%E8%B4%B9%E6%B4%BB%E5%8A%9B%E6%BF%80%E8%8D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [第8号台风多拉生成 双台风“共舞”](https://www.baidu.com/s?wd=%E7%AC%AC8%E5%8F%B7%E5%8F%B0%E9%A3%8E%E5%A4%9A%E6%8B%89%E7%94%9F%E6%88%90+%E5%8F%8C%E5%8F%B0%E9%A3%8E%E2%80%9C%E5%85%B1%E8%88%9E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [00后在精神病院当护士是什么体验](https://www.baidu.com/s?wd=00%E5%90%8E%E5%9C%A8%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2%E5%BD%93%E6%8A%A4%E5%A3%AB%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [宝宝参加婚礼被亲一脸口红印](https://www.baidu.com/s?wd=%E5%AE%9D%E5%AE%9D%E5%8F%82%E5%8A%A0%E5%A9%9A%E7%A4%BC%E8%A2%AB%E4%BA%B2%E4%B8%80%E8%84%B8%E5%8F%A3%E7%BA%A2%E5%8D%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [山东高密燃气闪爆已致2死2伤](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E9%AB%98%E5%AF%86%E7%87%83%E6%B0%94%E9%97%AA%E7%88%86%E5%B7%B2%E8%87%B42%E6%AD%BB2%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [央视公开霹雳15生产车间秀肌肉](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E5%85%AC%E5%BC%80%E9%9C%B9%E9%9B%B315%E7%94%9F%E4%BA%A7%E8%BD%A6%E9%97%B4%E7%A7%80%E8%82%8C%E8%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [男子游泳时徒手抓到1米多大鱼](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%B8%B8%E6%B3%B3%E6%97%B6%E5%BE%92%E6%89%8B%E6%8A%93%E5%88%B01%E7%B1%B3%E5%A4%9A%E5%A4%A7%E9%B1%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
