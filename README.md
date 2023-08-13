@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-13 14:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-13 14:36:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [网红举报补课称会出钱让更多人干](https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E4%B8%BE%E6%8A%A5%E8%A1%A5%E8%AF%BE%E7%A7%B0%E4%BC%9A%E5%87%BA%E9%92%B1%E8%AE%A9%E6%9B%B4%E5%A4%9A%E4%BA%BA%E5%B9%B2%23&t=31&band_rank=6&Refer=top)<br />
 7. [14岁女儿做好一桌菜等妈妈反被指责](https://s.weibo.com/weibo?q=14%E5%B2%81%E5%A5%B3%E5%84%BF%E5%81%9A%E5%A5%BD%E4%B8%80%E6%A1%8C%E8%8F%9C%E7%AD%89%E5%A6%88%E5%A6%88%E5%8F%8D%E8%A2%AB%E6%8C%87%E8%B4%A3&t=31&band_rank=7&Refer=top)<br />
 8. [杨紫檀健次片场烧烤](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E6%AA%80%E5%81%A5%E6%AC%A1%E7%89%87%E5%9C%BA%E7%83%A7%E7%83%A4%23&t=31&band_rank=8&Refer=top)<br />
-9. [玱玹和涂山篌联合杀了璟](https://s.weibo.com/weibo?q=%23%E7%8E%B1%E7%8E%B9%E5%92%8C%E6%B6%82%E5%B1%B1%E7%AF%8C%E8%81%94%E5%90%88%E6%9D%80%E4%BA%86%E7%92%9F%23&t=31&band_rank=9&Refer=top)<br />
+9. [龙吸水 妈见打行为](https://s.weibo.com/weibo?q=%E9%BE%99%E5%90%B8%E6%B0%B4%20%E5%A6%88%E8%A7%81%E6%89%93%E8%A1%8C%E4%B8%BA&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
