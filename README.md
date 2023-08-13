@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-13 11:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-13 11:24:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [四个显眼包狼尾发型](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E4%B8%AA%E6%98%BE%E7%9C%BC%E5%8C%85%E7%8B%BC%E5%B0%BE%E5%8F%91%E5%9E%8B%23&t=31&band_rank=4&Refer=top)<br />
 5. [女生餐馆吃饭一抬头发现店家全午睡](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E9%A4%90%E9%A6%86%E5%90%83%E9%A5%AD%E4%B8%80%E6%8A%AC%E5%A4%B4%E5%8F%91%E7%8E%B0%E5%BA%97%E5%AE%B6%E5%85%A8%E5%8D%88%E7%9D%A1%23&t=31&band_rank=5&Refer=top)<br />
 6. [被流放27年的泰国王子突然回国](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%B5%81%E6%94%BE27%E5%B9%B4%E7%9A%84%E6%B3%B0%E5%9B%BD%E7%8E%8B%E5%AD%90%E7%AA%81%E7%84%B6%E5%9B%9E%E5%9B%BD%23&t=31&band_rank=6&Refer=top)<br />
-7. [邓为涂山璟V榜破9](https://s.weibo.com/weibo?q=%23%E9%82%93%E4%B8%BA%E6%B6%82%E5%B1%B1%E7%92%9FV%E6%A6%9C%E7%A0%B49%23&t=31&band_rank=7&Refer=top)<br />
-8. [医院副院长被抓痛哭自己没法养老](https://s.weibo.com/weibo?q=%E5%8C%BB%E9%99%A2%E5%89%AF%E9%99%A2%E9%95%BF%E8%A2%AB%E6%8A%93%E7%97%9B%E5%93%AD%E8%87%AA%E5%B7%B1%E6%B2%A1%E6%B3%95%E5%85%BB%E8%80%81&t=31&band_rank=8&Refer=top)<br />
-9. [郑州某座桥下的佚名诗被涂掉了](https://s.weibo.com/weibo?q=%E9%83%91%E5%B7%9E%E6%9F%90%E5%BA%A7%E6%A1%A5%E4%B8%8B%E7%9A%84%E4%BD%9A%E5%90%8D%E8%AF%97%E8%A2%AB%E6%B6%82%E6%8E%89%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+7. [郑州某座桥下的佚名诗被涂掉了](https://s.weibo.com/weibo?q=%E9%83%91%E5%B7%9E%E6%9F%90%E5%BA%A7%E6%A1%A5%E4%B8%8B%E7%9A%84%E4%BD%9A%E5%90%8D%E8%AF%97%E8%A2%AB%E6%B6%82%E6%8E%89%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
+8. [邓为涂山璟V榜破9](https://s.weibo.com/weibo?q=%23%E9%82%93%E4%B8%BA%E6%B6%82%E5%B1%B1%E7%92%9FV%E6%A6%9C%E7%A0%B49%23&t=31&band_rank=8&Refer=top)<br />
+9. [医院副院长被抓痛哭自己没法养老](https://s.weibo.com/weibo?q=%E5%8C%BB%E9%99%A2%E5%89%AF%E9%99%A2%E9%95%BF%E8%A2%AB%E6%8A%93%E7%97%9B%E5%93%AD%E8%87%AA%E5%B7%B1%E6%B2%A1%E6%B3%95%E5%85%BB%E8%80%81&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
