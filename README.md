@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-13 16:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-13 16:08:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [高密燃气闪爆已致2死2伤](https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%AF%86%E7%87%83%E6%B0%94%E9%97%AA%E7%88%86%E5%B7%B2%E8%87%B42%E6%AD%BB2%E4%BC%A4%23&t=31&band_rank=5&Refer=top)<br />
 6. [高密爆炸](https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%AF%86%E7%88%86%E7%82%B8%23&t=31&band_rank=6&Refer=top)<br />
 7. [魏大勋说杨紫是真不得罪人](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E8%AF%B4%E6%9D%A8%E7%B4%AB%E6%98%AF%E7%9C%9F%E4%B8%8D%E5%BE%97%E7%BD%AA%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
-8. [杨幂不愧是林萧](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E4%B8%8D%E6%84%A7%E6%98%AF%E6%9E%97%E8%90%A7%23&t=31&band_rank=8&Refer=top)<br />
-9. [医疗反腐 医疗从业者的反应](https://s.weibo.com/weibo?q=%E5%8C%BB%E7%96%97%E5%8F%8D%E8%85%90%20%E5%8C%BB%E7%96%97%E4%BB%8E%E4%B8%9A%E8%80%85%E7%9A%84%E5%8F%8D%E5%BA%94&t=31&band_rank=9&Refer=top)<br />
+8. [医疗反腐 医疗从业者的反应](https://s.weibo.com/weibo?q=%E5%8C%BB%E7%96%97%E5%8F%8D%E8%85%90%20%E5%8C%BB%E7%96%97%E4%BB%8E%E4%B8%9A%E8%80%85%E7%9A%84%E5%8F%8D%E5%BA%94&t=31&band_rank=8&Refer=top)<br />
+9. [杨幂不愧是林萧](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E4%B8%8D%E6%84%A7%E6%98%AF%E6%9E%97%E8%90%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
