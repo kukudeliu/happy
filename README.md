@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-13 15:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-13 15:33:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [金晨孤注一掷破16亿海报](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E5%AD%A4%E6%B3%A8%E4%B8%80%E6%8E%B7%E7%A0%B416%E4%BA%BF%E6%B5%B7%E6%8A%A5%23&t=31&band_rank=6&Refer=top)<br />
 7. [14岁女儿做好一桌菜等妈妈反被指责](https://s.weibo.com/weibo?q=14%E5%B2%81%E5%A5%B3%E5%84%BF%E5%81%9A%E5%A5%BD%E4%B8%80%E6%A1%8C%E8%8F%9C%E7%AD%89%E5%A6%88%E5%A6%88%E5%8F%8D%E8%A2%AB%E6%8C%87%E8%B4%A3&t=31&band_rank=7&Refer=top)<br />
 8. [龙吸水 妈见打行为](https://s.weibo.com/weibo?q=%E9%BE%99%E5%90%B8%E6%B0%B4%20%E5%A6%88%E8%A7%81%E6%89%93%E8%A1%8C%E4%B8%BA&t=31&band_rank=8&Refer=top)<br />
-9. [网友高铁站偶遇王冰冰](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E9%AB%98%E9%93%81%E7%AB%99%E5%81%B6%E9%81%87%E7%8E%8B%E5%86%B0%E5%86%B0%23&t=31&band_rank=9&Refer=top)<br />
+9. [高密燃气闪爆已致2死2伤](https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%AF%86%E7%87%83%E6%B0%94%E9%97%AA%E7%88%86%E5%B7%B2%E8%87%B42%E6%AD%BB2%E4%BC%A4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
