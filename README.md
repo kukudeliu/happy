@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-13 16:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-13 16:21:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [高密爆炸](https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%AF%86%E7%88%86%E7%82%B8%23&t=31&band_rank=6&Refer=top)<br />
 7. [无意识刷手机会导致大脑退化](https://s.weibo.com/weibo?q=%23%E6%97%A0%E6%84%8F%E8%AF%86%E5%88%B7%E6%89%8B%E6%9C%BA%E4%BC%9A%E5%AF%BC%E8%87%B4%E5%A4%A7%E8%84%91%E9%80%80%E5%8C%96%23&t=31&band_rank=7&Refer=top)<br />
 8. [高密燃气闪爆已致2死2伤](https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%AF%86%E7%87%83%E6%B0%94%E9%97%AA%E7%88%86%E5%B7%B2%E8%87%B42%E6%AD%BB2%E4%BC%A4%23&t=31&band_rank=8&Refer=top)<br />
-9. [杨幂不愧是林萧](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E4%B8%8D%E6%84%A7%E6%98%AF%E6%9E%97%E8%90%A7%23&t=31&band_rank=9&Refer=top)<br />
+9. [封神票房](https://s.weibo.com/weibo?q=%E5%B0%81%E7%A5%9E%E7%A5%A8%E6%88%BF&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
