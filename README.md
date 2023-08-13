@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-13 12:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-13 12:36:01</h4></div>
 
 > 微博  
 
@@ -17,10 +17,10 @@
 
 > 百度  
 
-1. [人民至上 生命至上](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E8%87%B3%E4%B8%8A+%E7%94%9F%E5%91%BD%E8%87%B3%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [践行低碳生活新时尚](https://www.baidu.com/s?wd=%E8%B7%B5%E8%A1%8C%E4%BD%8E%E7%A2%B3%E7%94%9F%E6%B4%BB%E6%96%B0%E6%97%B6%E5%B0%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [央视公开霹雳15生产车间秀肌肉](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E5%85%AC%E5%BC%80%E9%9C%B9%E9%9B%B315%E7%94%9F%E4%BA%A7%E8%BD%A6%E9%97%B4%E7%A7%80%E8%82%8C%E8%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [家长吐槽暑假40天孩子开销五六万](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E5%90%90%E6%A7%BD%E6%9A%91%E5%81%8740%E5%A4%A9%E5%AD%A9%E5%AD%90%E5%BC%80%E9%94%80%E4%BA%94%E5%85%AD%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [有个村庄叫“安家”](https://www.baidu.com/s?wd=%E6%9C%89%E4%B8%AA%E6%9D%91%E5%BA%84%E5%8F%AB%E2%80%9C%E5%AE%89%E5%AE%B6%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [这个夏日 消费活力激荡](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E5%A4%8F%E6%97%A5+%E6%B6%88%E8%B4%B9%E6%B4%BB%E5%8A%9B%E6%BF%80%E8%8D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [高铁站近9成是按摩椅？工作人员回应](https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E7%AB%99%E8%BF%919%E6%88%90%E6%98%AF%E6%8C%89%E6%91%A9%E6%A4%85%EF%BC%9F%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [宝宝参加婚礼被亲一脸口红印](https://www.baidu.com/s?wd=%E5%AE%9D%E5%AE%9D%E5%8F%82%E5%8A%A0%E5%A9%9A%E7%A4%BC%E8%A2%AB%E4%BA%B2%E4%B8%80%E8%84%B8%E5%8F%A3%E7%BA%A2%E5%8D%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女生餐馆吃饭一抬头发现店家全午睡](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%A4%90%E9%A6%86%E5%90%83%E9%A5%AD%E4%B8%80%E6%8A%AC%E5%A4%B4%E5%8F%91%E7%8E%B0%E5%BA%97%E5%AE%B6%E5%85%A8%E5%8D%88%E7%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,10 +29,10 @@
 
 > 哔哩哔哩  
 
-1. [人民至上 生命至上](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E8%87%B3%E4%B8%8A+%E7%94%9F%E5%91%BD%E8%87%B3%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [践行低碳生活新时尚](https://www.baidu.com/s?wd=%E8%B7%B5%E8%A1%8C%E4%BD%8E%E7%A2%B3%E7%94%9F%E6%B4%BB%E6%96%B0%E6%97%B6%E5%B0%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [央视公开霹雳15生产车间秀肌肉](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E5%85%AC%E5%BC%80%E9%9C%B9%E9%9B%B315%E7%94%9F%E4%BA%A7%E8%BD%A6%E9%97%B4%E7%A7%80%E8%82%8C%E8%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [家长吐槽暑假40天孩子开销五六万](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E5%90%90%E6%A7%BD%E6%9A%91%E5%81%8740%E5%A4%A9%E5%AD%A9%E5%AD%90%E5%BC%80%E9%94%80%E4%BA%94%E5%85%AD%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [有个村庄叫“安家”](https://www.baidu.com/s?wd=%E6%9C%89%E4%B8%AA%E6%9D%91%E5%BA%84%E5%8F%AB%E2%80%9C%E5%AE%89%E5%AE%B6%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [这个夏日 消费活力激荡](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E5%A4%8F%E6%97%A5+%E6%B6%88%E8%B4%B9%E6%B4%BB%E5%8A%9B%E6%BF%80%E8%8D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [高铁站近9成是按摩椅？工作人员回应](https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E7%AB%99%E8%BF%919%E6%88%90%E6%98%AF%E6%8C%89%E6%91%A9%E6%A4%85%EF%BC%9F%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [宝宝参加婚礼被亲一脸口红印](https://www.baidu.com/s?wd=%E5%AE%9D%E5%AE%9D%E5%8F%82%E5%8A%A0%E5%A9%9A%E7%A4%BC%E8%A2%AB%E4%BA%B2%E4%B8%80%E8%84%B8%E5%8F%A3%E7%BA%A2%E5%8D%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女生餐馆吃饭一抬头发现店家全午睡](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%A4%90%E9%A6%86%E5%90%83%E9%A5%AD%E4%B8%80%E6%8A%AC%E5%A4%B4%E5%8F%91%E7%8E%B0%E5%BA%97%E5%AE%B6%E5%85%A8%E5%8D%88%E7%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
