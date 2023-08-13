@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-14 00:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-14 00:30:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [江苏盐城龙卷风致2死15伤](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E7%9B%90%E5%9F%8E%E9%BE%99%E5%8D%B7%E9%A3%8E%E8%87%B42%E6%AD%BB15%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [江苏盐城大丰发生EF2级龙卷风](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E7%9B%90%E5%9F%8E%E5%A4%A7%E4%B8%B0%E5%8F%91%E7%94%9FEF2%E7%BA%A7%E9%BE%99%E5%8D%B7%E9%A3%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [沈腾问范丞丞的脸是靠打针吗](https://www.baidu.com/s?wd=%E6%B2%88%E8%85%BE%E9%97%AE%E8%8C%83%E4%B8%9E%E4%B8%9E%E7%9A%84%E8%84%B8%E6%98%AF%E9%9D%A0%E6%89%93%E9%92%88%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [四川一大爷踩平衡车挑粪桶](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E5%A4%A7%E7%88%B7%E8%B8%A9%E5%B9%B3%E8%A1%A1%E8%BD%A6%E6%8C%91%E7%B2%AA%E6%A1%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [夫妻吵架报警 男子掌掴上门民警](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%90%B5%E6%9E%B6%E6%8A%A5%E8%AD%A6+%E7%94%B7%E5%AD%90%E6%8E%8C%E6%8E%B4%E4%B8%8A%E9%97%A8%E6%B0%91%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [夫妻吵架报警 男子掌掴上门民警](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%90%B5%E6%9E%B6%E6%8A%A5%E8%AD%A6+%E7%94%B7%E5%AD%90%E6%8E%8C%E6%8E%B4%E4%B8%8A%E9%97%A8%E6%B0%91%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [小伙用七龙珠方式记录妻子怀孕](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E7%94%A8%E4%B8%83%E9%BE%99%E7%8F%A0%E6%96%B9%E5%BC%8F%E8%AE%B0%E5%BD%95%E5%A6%BB%E5%AD%90%E6%80%80%E5%AD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [江苏盐城龙卷风致2死15伤](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E7%9B%90%E5%9F%8E%E9%BE%99%E5%8D%B7%E9%A3%8E%E8%87%B42%E6%AD%BB15%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [江苏盐城大丰发生EF2级龙卷风](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E7%9B%90%E5%9F%8E%E5%A4%A7%E4%B8%B0%E5%8F%91%E7%94%9FEF2%E7%BA%A7%E9%BE%99%E5%8D%B7%E9%A3%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [沈腾问范丞丞的脸是靠打针吗](https://www.baidu.com/s?wd=%E6%B2%88%E8%85%BE%E9%97%AE%E8%8C%83%E4%B8%9E%E4%B8%9E%E7%9A%84%E8%84%B8%E6%98%AF%E9%9D%A0%E6%89%93%E9%92%88%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [四川一大爷踩平衡车挑粪桶](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E5%A4%A7%E7%88%B7%E8%B8%A9%E5%B9%B3%E8%A1%A1%E8%BD%A6%E6%8C%91%E7%B2%AA%E6%A1%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [夫妻吵架报警 男子掌掴上门民警](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%90%B5%E6%9E%B6%E6%8A%A5%E8%AD%A6+%E7%94%B7%E5%AD%90%E6%8E%8C%E6%8E%B4%E4%B8%8A%E9%97%A8%E6%B0%91%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [夫妻吵架报警 男子掌掴上门民警](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%90%B5%E6%9E%B6%E6%8A%A5%E8%AD%A6+%E7%94%B7%E5%AD%90%E6%8E%8C%E6%8E%B4%E4%B8%8A%E9%97%A8%E6%B0%91%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [小伙用七龙珠方式记录妻子怀孕](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E7%94%A8%E4%B8%83%E9%BE%99%E7%8F%A0%E6%96%B9%E5%BC%8F%E8%AE%B0%E5%BD%95%E5%A6%BB%E5%AD%90%E6%80%80%E5%AD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
