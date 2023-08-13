@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-13 12:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-13 12:33:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [玱玹和涂山篌联合杀了璟](https://s.weibo.com/weibo?q=%23%E7%8E%B1%E7%8E%B9%E5%92%8C%E6%B6%82%E5%B1%B1%E7%AF%8C%E8%81%94%E5%90%88%E6%9D%80%E4%BA%86%E7%92%9F%23&t=31&band_rank=5&Refer=top)<br />
 6. [许光汉表情](https://s.weibo.com/weibo?q=%E8%AE%B8%E5%85%89%E6%B1%89%E8%A1%A8%E6%83%85&t=31&band_rank=6&Refer=top)<br />
 7. [中国的哪个小县城的名字好听](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%93%AA%E4%B8%AA%E5%B0%8F%E5%8E%BF%E5%9F%8E%E7%9A%84%E5%90%8D%E5%AD%97%E5%A5%BD%E5%90%AC%23&t=31&band_rank=7&Refer=top)<br />
-8. [身体缺啥脸上就长啥](https://s.weibo.com/weibo?q=%23%E8%BA%AB%E4%BD%93%E7%BC%BA%E5%95%A5%E8%84%B8%E4%B8%8A%E5%B0%B1%E9%95%BF%E5%95%A5%23&t=31&band_rank=8&Refer=top)<br />
-9. [女子吃菌出现幻觉 猫咪求登记结婚](https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E5%90%83%E8%8F%8C%E5%87%BA%E7%8E%B0%E5%B9%BB%E8%A7%89%20%E7%8C%AB%E5%92%AA%E6%B1%82%E7%99%BB%E8%AE%B0%E7%BB%93%E5%A9%9A&t=31&band_rank=9&Refer=top)<br />
+8. [女子吃菌出现幻觉 猫咪求登记结婚](https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E5%90%83%E8%8F%8C%E5%87%BA%E7%8E%B0%E5%B9%BB%E8%A7%89%20%E7%8C%AB%E5%92%AA%E6%B1%82%E7%99%BB%E8%AE%B0%E7%BB%93%E5%A9%9A&t=31&band_rank=8&Refer=top)<br />
+9. [山东一大街发生爆炸有人受伤](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E4%B8%80%E5%A4%A7%E8%A1%97%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%E6%9C%89%E4%BA%BA%E5%8F%97%E4%BC%A4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -25,7 +25,7 @@
 6. [宝宝参加婚礼被亲一脸口红印](https://www.baidu.com/s?wd=%E5%AE%9D%E5%AE%9D%E5%8F%82%E5%8A%A0%E5%A9%9A%E7%A4%BC%E8%A2%AB%E4%BA%B2%E4%B8%80%E8%84%B8%E5%8F%A3%E7%BA%A2%E5%8D%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女生餐馆吃饭一抬头发现店家全午睡](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%A4%90%E9%A6%86%E5%90%83%E9%A5%AD%E4%B8%80%E6%8A%AC%E5%A4%B4%E5%8F%91%E7%8E%B0%E5%BA%97%E5%AE%B6%E5%85%A8%E5%8D%88%E7%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女子海边被男孩袭胸](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%B5%B7%E8%BE%B9%E8%A2%AB%E7%94%B7%E5%AD%A9%E8%A2%AD%E8%83%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中药价格持续上涨 喝一天要100元](https://www.baidu.com/s?wd=%E4%B8%AD%E8%8D%AF%E4%BB%B7%E6%A0%BC%E6%8C%81%E7%BB%AD%E4%B8%8A%E6%B6%A8+%E5%96%9D%E4%B8%80%E5%A4%A9%E8%A6%81100%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [山东一门店爆炸 相邻银行损毁严重](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E4%B8%80%E9%97%A8%E5%BA%97%E7%88%86%E7%82%B8+%E7%9B%B8%E9%82%BB%E9%93%B6%E8%A1%8C%E6%8D%9F%E6%AF%81%E4%B8%A5%E9%87%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [宝宝参加婚礼被亲一脸口红印](https://www.baidu.com/s?wd=%E5%AE%9D%E5%AE%9D%E5%8F%82%E5%8A%A0%E5%A9%9A%E7%A4%BC%E8%A2%AB%E4%BA%B2%E4%B8%80%E8%84%B8%E5%8F%A3%E7%BA%A2%E5%8D%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女生餐馆吃饭一抬头发现店家全午睡](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%A4%90%E9%A6%86%E5%90%83%E9%A5%AD%E4%B8%80%E6%8A%AC%E5%A4%B4%E5%8F%91%E7%8E%B0%E5%BA%97%E5%AE%B6%E5%85%A8%E5%8D%88%E7%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女子海边被男孩袭胸](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%B5%B7%E8%BE%B9%E8%A2%AB%E7%94%B7%E5%AD%A9%E8%A2%AD%E8%83%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中药价格持续上涨 喝一天要100元](https://www.baidu.com/s?wd=%E4%B8%AD%E8%8D%AF%E4%BB%B7%E6%A0%BC%E6%8C%81%E7%BB%AD%E4%B8%8A%E6%B6%A8+%E5%96%9D%E4%B8%80%E5%A4%A9%E8%A6%81100%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [山东一门店爆炸 相邻银行损毁严重](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E4%B8%80%E9%97%A8%E5%BA%97%E7%88%86%E7%82%B8+%E7%9B%B8%E9%82%BB%E9%93%B6%E8%A1%8C%E6%8D%9F%E6%AF%81%E4%B8%A5%E9%87%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
