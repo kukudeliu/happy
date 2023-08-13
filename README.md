@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-13 12:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-13 12:09:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [女生餐馆吃饭一抬头发现店家全午睡](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%A4%90%E9%A6%86%E5%90%83%E9%A5%AD%E4%B8%80%E6%8A%AC%E5%A4%B4%E5%8F%91%E7%8E%B0%E5%BA%97%E5%AE%B6%E5%85%A8%E5%8D%88%E7%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [宝宝参加婚礼被亲一脸口红印](https://www.baidu.com/s?wd=%E5%AE%9D%E5%AE%9D%E5%8F%82%E5%8A%A0%E5%A9%9A%E7%A4%BC%E8%A2%AB%E4%BA%B2%E4%B8%80%E8%84%B8%E5%8F%A3%E7%BA%A2%E5%8D%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女子海边被男孩袭胸](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%B5%B7%E8%BE%B9%E8%A2%AB%E7%94%B7%E5%AD%A9%E8%A2%AD%E8%83%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [电动自行车锂电池监管趋严](https://www.baidu.com/s?wd=%E7%94%B5%E5%8A%A8%E8%87%AA%E8%A1%8C%E8%BD%A6%E9%94%82%E7%94%B5%E6%B1%A0%E7%9B%91%E7%AE%A1%E8%B6%8B%E4%B8%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [中药价格持续上涨 喝一天要100元](https://www.baidu.com/s?wd=%E4%B8%AD%E8%8D%AF%E4%BB%B7%E6%A0%BC%E6%8C%81%E7%BB%AD%E4%B8%8A%E6%B6%A8+%E5%96%9D%E4%B8%80%E5%A4%A9%E8%A6%81100%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [女生餐馆吃饭一抬头发现店家全午睡](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%A4%90%E9%A6%86%E5%90%83%E9%A5%AD%E4%B8%80%E6%8A%AC%E5%A4%B4%E5%8F%91%E7%8E%B0%E5%BA%97%E5%AE%B6%E5%85%A8%E5%8D%88%E7%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [宝宝参加婚礼被亲一脸口红印](https://www.baidu.com/s?wd=%E5%AE%9D%E5%AE%9D%E5%8F%82%E5%8A%A0%E5%A9%9A%E7%A4%BC%E8%A2%AB%E4%BA%B2%E4%B8%80%E8%84%B8%E5%8F%A3%E7%BA%A2%E5%8D%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女子海边被男孩袭胸](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%B5%B7%E8%BE%B9%E8%A2%AB%E7%94%B7%E5%AD%A9%E8%A2%AD%E8%83%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [电动自行车锂电池监管趋严](https://www.baidu.com/s?wd=%E7%94%B5%E5%8A%A8%E8%87%AA%E8%A1%8C%E8%BD%A6%E9%94%82%E7%94%B5%E6%B1%A0%E7%9B%91%E7%AE%A1%E8%B6%8B%E4%B8%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [中药价格持续上涨 喝一天要100元](https://www.baidu.com/s?wd=%E4%B8%AD%E8%8D%AF%E4%BB%B7%E6%A0%BC%E6%8C%81%E7%BB%AD%E4%B8%8A%E6%B6%A8+%E5%96%9D%E4%B8%80%E5%A4%A9%E8%A6%81100%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
