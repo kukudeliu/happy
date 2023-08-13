@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-13 13:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-13 13:36:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [玱玹和涂山篌联合杀了璟](https://s.weibo.com/weibo?q=%23%E7%8E%B1%E7%8E%B9%E5%92%8C%E6%B6%82%E5%B1%B1%E7%AF%8C%E8%81%94%E5%90%88%E6%9D%80%E4%BA%86%E7%92%9F%23&t=31&band_rank=6&Refer=top)<br />
 7. [追妻火葬场这种文火起来是有原因的](https://s.weibo.com/weibo?q=%E8%BF%BD%E5%A6%BB%E7%81%AB%E8%91%AC%E5%9C%BA%E8%BF%99%E7%A7%8D%E6%96%87%E7%81%AB%E8%B5%B7%E6%9D%A5%E6%98%AF%E6%9C%89%E5%8E%9F%E5%9B%A0%E7%9A%84&t=31&band_rank=7&Refer=top)<br />
 8. [四大名著买了合订本是一种什么体验](https://s.weibo.com/weibo?q=%E5%9B%9B%E5%A4%A7%E5%90%8D%E8%91%97%E4%B9%B0%E4%BA%86%E5%90%88%E8%AE%A2%E6%9C%AC%E6%98%AF%E4%B8%80%E7%A7%8D%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C&t=31&band_rank=8&Refer=top)<br />
-9. [王鹤棣被杨紫泼水的反应](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E8%A2%AB%E6%9D%A8%E7%B4%AB%E6%B3%BC%E6%B0%B4%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=9&Refer=top)<br />
+9. [网红举报补课称会出钱让更多人干](https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E4%B8%BE%E6%8A%A5%E8%A1%A5%E8%AF%BE%E7%A7%B0%E4%BC%9A%E5%87%BA%E9%92%B1%E8%AE%A9%E6%9B%B4%E5%A4%9A%E4%BA%BA%E5%B9%B2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
