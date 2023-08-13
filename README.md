@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-13 20:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-13 20:15:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [西安泥石流已发现21名遇难者](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E6%B3%A5%E7%9F%B3%E6%B5%81%E5%B7%B2%E5%8F%91%E7%8E%B021%E5%90%8D%E9%81%87%E9%9A%BE%E8%80%85%23&t=31&band_rank=6&Refer=top)<br />
 7. [封神第一部票房破20亿](https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E%E7%AC%AC%E4%B8%80%E9%83%A8%E7%A5%A8%E6%88%BF%E7%A0%B420%E4%BA%BF%23&t=31&band_rank=7&Refer=top)<br />
 8. [妈妈才是理想的旅游搭子](https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E6%89%8D%E6%98%AF%E7%90%86%E6%83%B3%E7%9A%84%E6%97%85%E6%B8%B8%E6%90%AD%E5%AD%90%23&t=31&band_rank=8&Refer=top)<br />
-9. [李佳琦说防风邶整个大上头](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E8%AF%B4%E9%98%B2%E9%A3%8E%E9%82%B6%E6%95%B4%E4%B8%AA%E5%A4%A7%E4%B8%8A%E5%A4%B4%23&t=31&band_rank=9&Refer=top)<br />
+9. [内娱Queencard决赛圈](https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1Queencard%E5%86%B3%E8%B5%9B%E5%9C%88%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
