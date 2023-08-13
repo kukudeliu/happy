@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-13 21:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-13 21:02:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [真的不建议带猫拍婚纱照](https://s.weibo.com/weibo?q=%23%E7%9C%9F%E7%9A%84%E4%B8%8D%E5%BB%BA%E8%AE%AE%E5%B8%A6%E7%8C%AB%E6%8B%8D%E5%A9%9A%E7%BA%B1%E7%85%A7%23&t=31&band_rank=6&Refer=top)<br />
 7. [爷爷最最最偏心小丸子啦](https://s.weibo.com/weibo?q=%E7%88%B7%E7%88%B7%E6%9C%80%E6%9C%80%E6%9C%80%E5%81%8F%E5%BF%83%E5%B0%8F%E4%B8%B8%E5%AD%90%E5%95%A6&t=31&band_rank=7&Refer=top)<br />
 8. [封神第一部票房破20亿](https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E%E7%AC%AC%E4%B8%80%E9%83%A8%E7%A5%A8%E6%88%BF%E7%A0%B420%E4%BA%BF%23&t=31&band_rank=8&Refer=top)<br />
-9. [檀健次一句话我掉三滴泪](https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E4%B8%80%E5%8F%A5%E8%AF%9D%E6%88%91%E6%8E%89%E4%B8%89%E6%BB%B4%E6%B3%AA%23&t=31&band_rank=9&Refer=top)<br />
+9. [杨某人](https://s.weibo.com/weibo?q=%E6%9D%A8%E6%9F%90%E4%BA%BA&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
