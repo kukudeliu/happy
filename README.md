@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-15 06:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-15 06:13:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [涂山璟再度解锁四爱play](https://s.weibo.com/weibo?q=%E6%B6%82%E5%B1%B1%E7%92%9F%E5%86%8D%E5%BA%A6%E8%A7%A3%E9%94%81%E5%9B%9B%E7%88%B1play&t=31&band_rank=6&Refer=top)<br />
 7. [立秋后一定要补气血](https://s.weibo.com/weibo?q=%E7%AB%8B%E7%A7%8B%E5%90%8E%E4%B8%80%E5%AE%9A%E8%A6%81%E8%A1%A5%E6%B0%94%E8%A1%80&t=31&band_rank=7&Refer=top)<br />
 8. [长相思结局](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D%E7%BB%93%E5%B1%80&t=31&band_rank=8&Refer=top)<br />
-9. [去年我国遭遇网络电信诈骗总金额超2万亿](https://s.weibo.com/weibo?q=%23%E5%8E%BB%E5%B9%B4%E6%88%91%E5%9B%BD%E9%81%AD%E9%81%87%E7%BD%91%E7%BB%9C%E7%94%B5%E4%BF%A1%E8%AF%88%E9%AA%97%E6%80%BB%E9%87%91%E9%A2%9D%E8%B6%852%E4%B8%87%E4%BA%BF%23&t=31&band_rank=9&Refer=top)<br />
+9. [3人偷渡到缅甸搞诈骗却因文化低被拒收](https://s.weibo.com/weibo?q=%233%E4%BA%BA%E5%81%B7%E6%B8%A1%E5%88%B0%E7%BC%85%E7%94%B8%E6%90%9E%E8%AF%88%E9%AA%97%E5%8D%B4%E5%9B%A0%E6%96%87%E5%8C%96%E4%BD%8E%E8%A2%AB%E6%8B%92%E6%94%B6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
