@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-14 10:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-14 10:41:01</h4></div>
 
 > 微博  
 
@@ -18,8 +18,8 @@
 > 百度  
 
 1. [创造属于我们这个时代的新文化](https://www.baidu.com/s?wd=%E5%88%9B%E9%80%A0%E5%B1%9E%E4%BA%8E%E6%88%91%E4%BB%AC%E8%BF%99%E4%B8%AA%E6%97%B6%E4%BB%A3%E7%9A%84%E6%96%B0%E6%96%87%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [张学友演唱会上突然头晕跌倒](https://www.baidu.com/s?wd=%E5%BC%A0%E5%AD%A6%E5%8F%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E7%AA%81%E7%84%B6%E5%A4%B4%E6%99%95%E8%B7%8C%E5%80%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [医生：极少贪腐代表不了辛苦的群体](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%EF%BC%9A%E6%9E%81%E5%B0%91%E8%B4%AA%E8%85%90%E4%BB%A3%E8%A1%A8%E4%B8%8D%E4%BA%86%E8%BE%9B%E8%8B%A6%E7%9A%84%E7%BE%A4%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [医生：极少贪腐代表不了辛苦的群体](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%EF%BC%9A%E6%9E%81%E5%B0%91%E8%B4%AA%E8%85%90%E4%BB%A3%E8%A1%A8%E4%B8%8D%E4%BA%86%E8%BE%9B%E8%8B%A6%E7%9A%84%E7%BE%A4%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [张学友演唱会上突然头晕跌倒](https://www.baidu.com/s?wd=%E5%BC%A0%E5%AD%A6%E5%8F%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E7%AA%81%E7%84%B6%E5%A4%B4%E6%99%95%E8%B7%8C%E5%80%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [人民子弟兵冲在防汛救灾最前线](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E5%AD%90%E5%BC%9F%E5%85%B5%E5%86%B2%E5%9C%A8%E9%98%B2%E6%B1%9B%E6%95%91%E7%81%BE%E6%9C%80%E5%89%8D%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [医疗反腐：有院长收受100套房](https://www.baidu.com/s?wd=%E5%8C%BB%E7%96%97%E5%8F%8D%E8%85%90%EF%BC%9A%E6%9C%89%E9%99%A2%E9%95%BF%E6%94%B6%E5%8F%97100%E5%A5%97%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [章莹颖走后这六年](https://www.baidu.com/s?wd=%E7%AB%A0%E8%8E%B9%E9%A2%96%E8%B5%B0%E5%90%8E%E8%BF%99%E5%85%AD%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,8 +30,8 @@
 > 哔哩哔哩  
 
 1. [创造属于我们这个时代的新文化](https://www.baidu.com/s?wd=%E5%88%9B%E9%80%A0%E5%B1%9E%E4%BA%8E%E6%88%91%E4%BB%AC%E8%BF%99%E4%B8%AA%E6%97%B6%E4%BB%A3%E7%9A%84%E6%96%B0%E6%96%87%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [张学友演唱会上突然头晕跌倒](https://www.baidu.com/s?wd=%E5%BC%A0%E5%AD%A6%E5%8F%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E7%AA%81%E7%84%B6%E5%A4%B4%E6%99%95%E8%B7%8C%E5%80%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [医生：极少贪腐代表不了辛苦的群体](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%EF%BC%9A%E6%9E%81%E5%B0%91%E8%B4%AA%E8%85%90%E4%BB%A3%E8%A1%A8%E4%B8%8D%E4%BA%86%E8%BE%9B%E8%8B%A6%E7%9A%84%E7%BE%A4%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [医生：极少贪腐代表不了辛苦的群体](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%EF%BC%9A%E6%9E%81%E5%B0%91%E8%B4%AA%E8%85%90%E4%BB%A3%E8%A1%A8%E4%B8%8D%E4%BA%86%E8%BE%9B%E8%8B%A6%E7%9A%84%E7%BE%A4%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [张学友演唱会上突然头晕跌倒](https://www.baidu.com/s?wd=%E5%BC%A0%E5%AD%A6%E5%8F%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E7%AA%81%E7%84%B6%E5%A4%B4%E6%99%95%E8%B7%8C%E5%80%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [人民子弟兵冲在防汛救灾最前线](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E5%AD%90%E5%BC%9F%E5%85%B5%E5%86%B2%E5%9C%A8%E9%98%B2%E6%B1%9B%E6%95%91%E7%81%BE%E6%9C%80%E5%89%8D%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [医疗反腐：有院长收受100套房](https://www.baidu.com/s?wd=%E5%8C%BB%E7%96%97%E5%8F%8D%E8%85%90%EF%BC%9A%E6%9C%89%E9%99%A2%E9%95%BF%E6%94%B6%E5%8F%97100%E5%A5%97%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [章莹颖走后这六年](https://www.baidu.com/s?wd=%E7%AB%A0%E8%8E%B9%E9%A2%96%E8%B5%B0%E5%90%8E%E8%BF%99%E5%85%AD%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
