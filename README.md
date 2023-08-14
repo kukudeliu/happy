@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-15 00:18:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-15 00:19:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [9人组团盗墓 3人中途中毒死亡](https://www.baidu.com/s?wd=9%E4%BA%BA%E7%BB%84%E5%9B%A2%E7%9B%97%E5%A2%93+3%E4%BA%BA%E4%B8%AD%E9%80%94%E4%B8%AD%E6%AF%92%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [张颂文一纸声明背后发生了什么？](https://www.baidu.com/s?wd=%E5%BC%A0%E9%A2%82%E6%96%87%E4%B8%80%E7%BA%B8%E5%A3%B0%E6%98%8E%E8%83%8C%E5%90%8E%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女子收集重婚证据被丈夫杀害](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%94%B6%E9%9B%86%E9%87%8D%E5%A9%9A%E8%AF%81%E6%8D%AE%E8%A2%AB%E4%B8%88%E5%A4%AB%E6%9D%80%E5%AE%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [48岁大姐成功应聘月薪3万麻将主播](https://www.baidu.com/s?wd=48%E5%B2%81%E5%A4%A7%E5%A7%90%E6%88%90%E5%8A%9F%E5%BA%94%E8%81%98%E6%9C%88%E8%96%AA3%E4%B8%87%E9%BA%BB%E5%B0%86%E4%B8%BB%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男孩动手打妈妈被爸爸丢高速口](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E5%8A%A8%E6%89%8B%E6%89%93%E5%A6%88%E5%A6%88%E8%A2%AB%E7%88%B8%E7%88%B8%E4%B8%A2%E9%AB%98%E9%80%9F%E5%8F%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [9人组团盗墓 3人中途中毒死亡](https://www.baidu.com/s?wd=9%E4%BA%BA%E7%BB%84%E5%9B%A2%E7%9B%97%E5%A2%93+3%E4%BA%BA%E4%B8%AD%E9%80%94%E4%B8%AD%E6%AF%92%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [张颂文一纸声明背后发生了什么？](https://www.baidu.com/s?wd=%E5%BC%A0%E9%A2%82%E6%96%87%E4%B8%80%E7%BA%B8%E5%A3%B0%E6%98%8E%E8%83%8C%E5%90%8E%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女子收集重婚证据被丈夫杀害](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%94%B6%E9%9B%86%E9%87%8D%E5%A9%9A%E8%AF%81%E6%8D%AE%E8%A2%AB%E4%B8%88%E5%A4%AB%E6%9D%80%E5%AE%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [48岁大姐成功应聘月薪3万麻将主播](https://www.baidu.com/s?wd=48%E5%B2%81%E5%A4%A7%E5%A7%90%E6%88%90%E5%8A%9F%E5%BA%94%E8%81%98%E6%9C%88%E8%96%AA3%E4%B8%87%E9%BA%BB%E5%B0%86%E4%B8%BB%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男孩动手打妈妈被爸爸丢高速口](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E5%8A%A8%E6%89%8B%E6%89%93%E5%A6%88%E5%A6%88%E8%A2%AB%E7%88%B8%E7%88%B8%E4%B8%A2%E9%AB%98%E9%80%9F%E5%8F%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
