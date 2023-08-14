@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-14 14:28:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-14 14:29:01</h4></div>
 
 > 微博  
 
@@ -23,9 +23,9 @@
 4. [洪灾之后防大疫 警惕这几类疾病](https://www.baidu.com/s?wd=%E6%B4%AA%E7%81%BE%E4%B9%8B%E5%90%8E%E9%98%B2%E5%A4%A7%E7%96%AB+%E8%AD%A6%E6%83%95%E8%BF%99%E5%87%A0%E7%B1%BB%E7%96%BE%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子吃菌产生驾车撞人幻觉后自首](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%90%83%E8%8F%8C%E4%BA%A7%E7%94%9F%E9%A9%BE%E8%BD%A6%E6%92%9E%E4%BA%BA%E5%B9%BB%E8%A7%89%E5%90%8E%E8%87%AA%E9%A6%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [取已故亲人存款遭拒 法院判了](https://www.baidu.com/s?wd=%E5%8F%96%E5%B7%B2%E6%95%85%E4%BA%B2%E4%BA%BA%E5%AD%98%E6%AC%BE%E9%81%AD%E6%8B%92+%E6%B3%95%E9%99%A2%E5%88%A4%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [山西一景区游客聚集高喊退票](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E4%B8%80%E6%99%AF%E5%8C%BA%E6%B8%B8%E5%AE%A2%E8%81%9A%E9%9B%86%E9%AB%98%E5%96%8A%E9%80%80%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [涿州瘫痪男子家中溺亡 父母求救无果](https://www.baidu.com/s?wd=%E6%B6%BF%E5%B7%9E%E7%98%AB%E7%97%AA%E7%94%B7%E5%AD%90%E5%AE%B6%E4%B8%AD%E6%BA%BA%E4%BA%A1+%E7%88%B6%E6%AF%8D%E6%B1%82%E6%95%91%E6%97%A0%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [乌军重登蛇岛 录视频挑衅俄罗斯](https://www.baidu.com/s?wd=%E4%B9%8C%E5%86%9B%E9%87%8D%E7%99%BB%E8%9B%87%E5%B2%9B+%E5%BD%95%E8%A7%86%E9%A2%91%E6%8C%91%E8%A1%85%E4%BF%84%E7%BD%97%E6%96%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [乌军重登蛇岛 录视频挑衅俄罗斯](https://www.baidu.com/s?wd=%E4%B9%8C%E5%86%9B%E9%87%8D%E7%99%BB%E8%9B%87%E5%B2%9B+%E5%BD%95%E8%A7%86%E9%A2%91%E6%8C%91%E8%A1%85%E4%BF%84%E7%BD%97%E6%96%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [山西一景区游客聚集高喊退票](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E4%B8%80%E6%99%AF%E5%8C%BA%E6%B8%B8%E5%AE%A2%E8%81%9A%E9%9B%86%E9%AB%98%E5%96%8A%E9%80%80%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [涿州瘫痪男子家中溺亡 父母求救无果](https://www.baidu.com/s?wd=%E6%B6%BF%E5%B7%9E%E7%98%AB%E7%97%AA%E7%94%B7%E5%AD%90%E5%AE%B6%E4%B8%AD%E6%BA%BA%E4%BA%A1+%E7%88%B6%E6%AF%8D%E6%B1%82%E6%95%91%E6%97%A0%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -35,6 +35,6 @@
 4. [洪灾之后防大疫 警惕这几类疾病](https://www.baidu.com/s?wd=%E6%B4%AA%E7%81%BE%E4%B9%8B%E5%90%8E%E9%98%B2%E5%A4%A7%E7%96%AB+%E8%AD%A6%E6%83%95%E8%BF%99%E5%87%A0%E7%B1%BB%E7%96%BE%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子吃菌产生驾车撞人幻觉后自首](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%90%83%E8%8F%8C%E4%BA%A7%E7%94%9F%E9%A9%BE%E8%BD%A6%E6%92%9E%E4%BA%BA%E5%B9%BB%E8%A7%89%E5%90%8E%E8%87%AA%E9%A6%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [取已故亲人存款遭拒 法院判了](https://www.baidu.com/s?wd=%E5%8F%96%E5%B7%B2%E6%95%85%E4%BA%B2%E4%BA%BA%E5%AD%98%E6%AC%BE%E9%81%AD%E6%8B%92+%E6%B3%95%E9%99%A2%E5%88%A4%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [山西一景区游客聚集高喊退票](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E4%B8%80%E6%99%AF%E5%8C%BA%E6%B8%B8%E5%AE%A2%E8%81%9A%E9%9B%86%E9%AB%98%E5%96%8A%E9%80%80%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [涿州瘫痪男子家中溺亡 父母求救无果](https://www.baidu.com/s?wd=%E6%B6%BF%E5%B7%9E%E7%98%AB%E7%97%AA%E7%94%B7%E5%AD%90%E5%AE%B6%E4%B8%AD%E6%BA%BA%E4%BA%A1+%E7%88%B6%E6%AF%8D%E6%B1%82%E6%95%91%E6%97%A0%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [乌军重登蛇岛 录视频挑衅俄罗斯](https://www.baidu.com/s?wd=%E4%B9%8C%E5%86%9B%E9%87%8D%E7%99%BB%E8%9B%87%E5%B2%9B+%E5%BD%95%E8%A7%86%E9%A2%91%E6%8C%91%E8%A1%85%E4%BF%84%E7%BD%97%E6%96%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [乌军重登蛇岛 录视频挑衅俄罗斯](https://www.baidu.com/s?wd=%E4%B9%8C%E5%86%9B%E9%87%8D%E7%99%BB%E8%9B%87%E5%B2%9B+%E5%BD%95%E8%A7%86%E9%A2%91%E6%8C%91%E8%A1%85%E4%BF%84%E7%BD%97%E6%96%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [山西一景区游客聚集高喊退票](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E4%B8%80%E6%99%AF%E5%8C%BA%E6%B8%B8%E5%AE%A2%E8%81%9A%E9%9B%86%E9%AB%98%E5%96%8A%E9%80%80%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [涿州瘫痪男子家中溺亡 父母求救无果](https://www.baidu.com/s?wd=%E6%B6%BF%E5%B7%9E%E7%98%AB%E7%97%AA%E7%94%B7%E5%AD%90%E5%AE%B6%E4%B8%AD%E6%BA%BA%E4%BA%A1+%E7%88%B6%E6%AF%8D%E6%B1%82%E6%95%91%E6%97%A0%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
