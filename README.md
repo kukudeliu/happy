@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-14 14:50:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-14 14:51:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [有医院院长收受100套房](https://s.weibo.com/weibo?q=%23%E6%9C%89%E5%8C%BB%E9%99%A2%E9%99%A2%E9%95%BF%E6%94%B6%E5%8F%97100%E5%A5%97%E6%88%BF%23&t=31&band_rank=5&Refer=top)<br />
 6. [当你被缅甸语专业录取](https://s.weibo.com/weibo?q=%E5%BD%93%E4%BD%A0%E8%A2%AB%E7%BC%85%E7%94%B8%E8%AF%AD%E4%B8%93%E4%B8%9A%E5%BD%95%E5%8F%96&t=31&band_rank=6&Refer=top)<br />
 7. [EXO来见中国爱丽了](https://s.weibo.com/weibo?q=%23EXO%E6%9D%A5%E8%A7%81%E4%B8%AD%E5%9B%BD%E7%88%B1%E4%B8%BD%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [魏大勋说不能困在一个角色里](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E8%AF%B4%E4%B8%8D%E8%83%BD%E5%9B%B0%E5%9C%A8%E4%B8%80%E4%B8%AA%E8%A7%92%E8%89%B2%E9%87%8C%23&t=31&band_rank=8&Refer=top)<br />
-9. [刘同 好像很多人进入一个人生误区](https://s.weibo.com/weibo?q=%E5%88%98%E5%90%8C%20%E5%A5%BD%E5%83%8F%E5%BE%88%E5%A4%9A%E4%BA%BA%E8%BF%9B%E5%85%A5%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%94%9F%E8%AF%AF%E5%8C%BA&t=31&band_rank=9&Refer=top)<br />
+8. [终于有晚会请孟子义唱歌了](https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E6%9C%89%E6%99%9A%E4%BC%9A%E8%AF%B7%E5%AD%9F%E5%AD%90%E4%B9%89%E5%94%B1%E6%AD%8C%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [魏大勋说不能困在一个角色里](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E8%AF%B4%E4%B8%8D%E8%83%BD%E5%9B%B0%E5%9C%A8%E4%B8%80%E4%B8%AA%E8%A7%92%E8%89%B2%E9%87%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
