@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-14 21:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-14 21:40:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [特斯拉：已在中国建立数据中心](https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%EF%BC%9A%E5%B7%B2%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%BB%BA%E7%AB%8B%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中学回应收费窗口近2米高：已整改](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E5%9B%9E%E5%BA%94%E6%94%B6%E8%B4%B9%E7%AA%97%E5%8F%A3%E8%BF%912%E7%B1%B3%E9%AB%98%EF%BC%9A%E5%B7%B2%E6%95%B4%E6%94%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男孩动手打妈妈被爸爸丢高速口](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E5%8A%A8%E6%89%8B%E6%89%93%E5%A6%88%E5%A6%88%E8%A2%AB%E7%88%B8%E7%88%B8%E4%B8%A2%E9%AB%98%E9%80%9F%E5%8F%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [反腐风暴下的医院：有医代原地休假](https://www.baidu.com/s?wd=%E5%8F%8D%E8%85%90%E9%A3%8E%E6%9A%B4%E4%B8%8B%E7%9A%84%E5%8C%BB%E9%99%A2%EF%BC%9A%E6%9C%89%E5%8C%BB%E4%BB%A3%E5%8E%9F%E5%9C%B0%E4%BC%91%E5%81%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [48岁大姐成功应聘月薪3万麻将主播](https://www.baidu.com/s?wd=48%E5%B2%81%E5%A4%A7%E5%A7%90%E6%88%90%E5%8A%9F%E5%BA%94%E8%81%98%E6%9C%88%E8%96%AA3%E4%B8%87%E9%BA%BB%E5%B0%86%E4%B8%BB%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [特斯拉：已在中国建立数据中心](https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%EF%BC%9A%E5%B7%B2%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%BB%BA%E7%AB%8B%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中学回应收费窗口近2米高：已整改](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E5%9B%9E%E5%BA%94%E6%94%B6%E8%B4%B9%E7%AA%97%E5%8F%A3%E8%BF%912%E7%B1%B3%E9%AB%98%EF%BC%9A%E5%B7%B2%E6%95%B4%E6%94%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男孩动手打妈妈被爸爸丢高速口](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E5%8A%A8%E6%89%8B%E6%89%93%E5%A6%88%E5%A6%88%E8%A2%AB%E7%88%B8%E7%88%B8%E4%B8%A2%E9%AB%98%E9%80%9F%E5%8F%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [反腐风暴下的医院：有医代原地休假](https://www.baidu.com/s?wd=%E5%8F%8D%E8%85%90%E9%A3%8E%E6%9A%B4%E4%B8%8B%E7%9A%84%E5%8C%BB%E9%99%A2%EF%BC%9A%E6%9C%89%E5%8C%BB%E4%BB%A3%E5%8E%9F%E5%9C%B0%E4%BC%91%E5%81%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [48岁大姐成功应聘月薪3万麻将主播](https://www.baidu.com/s?wd=48%E5%B2%81%E5%A4%A7%E5%A7%90%E6%88%90%E5%8A%9F%E5%BA%94%E8%81%98%E6%9C%88%E8%96%AA3%E4%B8%87%E9%BA%BB%E5%B0%86%E4%B8%BB%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
