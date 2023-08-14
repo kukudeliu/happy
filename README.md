@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-14 17:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-14 17:13:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [什么是开水房](https://s.weibo.com/weibo?q=%23%E4%BB%80%E4%B9%88%E6%98%AF%E5%BC%80%E6%B0%B4%E6%88%BF%23&t=31&band_rank=6&Refer=top)<br />
 7. [当你被缅甸语专业录取](https://s.weibo.com/weibo?q=%E5%BD%93%E4%BD%A0%E8%A2%AB%E7%BC%85%E7%94%B8%E8%AF%AD%E4%B8%93%E4%B8%9A%E5%BD%95%E5%8F%96&t=31&band_rank=7&Refer=top)<br />
 8. [游客称在黄山拍到神秘黄色动物](https://s.weibo.com/weibo?q=%23%E6%B8%B8%E5%AE%A2%E7%A7%B0%E5%9C%A8%E9%BB%84%E5%B1%B1%E6%8B%8D%E5%88%B0%E7%A5%9E%E7%A7%98%E9%BB%84%E8%89%B2%E5%8A%A8%E7%89%A9%23&t=31&band_rank=8&Refer=top)<br />
-9. [有医院院长收受100套房](https://s.weibo.com/weibo?q=%23%E6%9C%89%E5%8C%BB%E9%99%A2%E9%99%A2%E9%95%BF%E6%94%B6%E5%8F%97100%E5%A5%97%E6%88%BF%23&t=31&band_rank=9&Refer=top)<br />
+9. [刘涛一次性发了36张图](https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B6%9B%E4%B8%80%E6%AC%A1%E6%80%A7%E5%8F%91%E4%BA%8636%E5%BC%A0%E5%9B%BE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
