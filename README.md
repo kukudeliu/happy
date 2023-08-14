@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-14 21:21:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-14 21:22:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [48岁大姐成功应聘月薪3万麻将主播](https://s.weibo.com/weibo?q=%2348%E5%B2%81%E5%A4%A7%E5%A7%90%E6%88%90%E5%8A%9F%E5%BA%94%E8%81%98%E6%9C%88%E8%96%AA3%E4%B8%87%E9%BA%BB%E5%B0%86%E4%B8%BB%E6%92%AD%23&t=31&band_rank=6&Refer=top)<br />
 7. [邓为拍长相思中暑晕倒](https://s.weibo.com/weibo?q=%23%E9%82%93%E4%B8%BA%E6%8B%8D%E9%95%BF%E7%9B%B8%E6%80%9D%E4%B8%AD%E6%9A%91%E6%99%95%E5%80%92%23&t=31&band_rank=7&Refer=top)<br />
 8. [爸爸当家2收官长文](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E5%BD%93%E5%AE%B62%E6%94%B6%E5%AE%98%E9%95%BF%E6%96%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [北京故宫旅游的现状](https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E6%95%85%E5%AE%AB%E6%97%85%E6%B8%B8%E7%9A%84%E7%8E%B0%E7%8A%B6&t=31&band_rank=9&Refer=top)<br />
+9. [嗑cp也是一种恋爱脑](https://s.weibo.com/weibo?q=%E5%97%91cp%E4%B9%9F%E6%98%AF%E4%B8%80%E7%A7%8D%E6%81%8B%E7%88%B1%E8%84%91&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
