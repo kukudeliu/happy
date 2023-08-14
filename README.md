@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-14 14:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-14 14:09:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [医疗反腐：有院长收受100套房](https://www.baidu.com/s?wd=%E5%8C%BB%E7%96%97%E5%8F%8D%E8%85%90%EF%BC%9A%E6%9C%89%E9%99%A2%E9%95%BF%E6%94%B6%E5%8F%97100%E5%A5%97%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [洪灾之后防大疫 警惕这几类疾病](https://www.baidu.com/s?wd=%E6%B4%AA%E7%81%BE%E4%B9%8B%E5%90%8E%E9%98%B2%E5%A4%A7%E7%96%AB+%E8%AD%A6%E6%83%95%E8%BF%99%E5%87%A0%E7%B1%BB%E7%96%BE%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子吃菌产生驾车撞人幻觉后自首](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%90%83%E8%8F%8C%E4%BA%A7%E7%94%9F%E9%A9%BE%E8%BD%A6%E6%92%9E%E4%BA%BA%E5%B9%BB%E8%A7%89%E5%90%8E%E8%87%AA%E9%A6%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [取已故亲人存款遭拒 法院判了](https://www.baidu.com/s?wd=%E5%8F%96%E5%B7%B2%E6%95%85%E4%BA%B2%E4%BA%BA%E5%AD%98%E6%AC%BE%E9%81%AD%E6%8B%92+%E6%B3%95%E9%99%A2%E5%88%A4%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [华侨华人纽约街头抗议赖清德窜美](https://www.baidu.com/s?wd=%E5%8D%8E%E4%BE%A8%E5%8D%8E%E4%BA%BA%E7%BA%BD%E7%BA%A6%E8%A1%97%E5%A4%B4%E6%8A%97%E8%AE%AE%E8%B5%96%E6%B8%85%E5%BE%B7%E7%AA%9C%E7%BE%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [高一男生打赏主播花掉39万](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%80%E7%94%B7%E7%94%9F%E6%89%93%E8%B5%8F%E4%B8%BB%E6%92%AD%E8%8A%B1%E6%8E%8939%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [李大霄呼吁长期资金救市](https://www.baidu.com/s?wd=%E6%9D%8E%E5%A4%A7%E9%9C%84%E5%91%BC%E5%90%81%E9%95%BF%E6%9C%9F%E8%B5%84%E9%87%91%E6%95%91%E5%B8%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [取已故亲人存款遭拒 法院判了](https://www.baidu.com/s?wd=%E5%8F%96%E5%B7%B2%E6%95%85%E4%BA%B2%E4%BA%BA%E5%AD%98%E6%AC%BE%E9%81%AD%E6%8B%92+%E6%B3%95%E9%99%A2%E5%88%A4%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [华侨华人纽约街头抗议赖清德窜美](https://www.baidu.com/s?wd=%E5%8D%8E%E4%BE%A8%E5%8D%8E%E4%BA%BA%E7%BA%BD%E7%BA%A6%E8%A1%97%E5%A4%B4%E6%8A%97%E8%AE%AE%E8%B5%96%E6%B8%85%E5%BE%B7%E7%AA%9C%E7%BE%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [涿州瘫痪男子家中溺亡 父母求救无果](https://www.baidu.com/s?wd=%E6%B6%BF%E5%B7%9E%E7%98%AB%E7%97%AA%E7%94%B7%E5%AD%90%E5%AE%B6%E4%B8%AD%E6%BA%BA%E4%BA%A1+%E7%88%B6%E6%AF%8D%E6%B1%82%E6%95%91%E6%97%A0%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [医疗反腐：有院长收受100套房](https://www.baidu.com/s?wd=%E5%8C%BB%E7%96%97%E5%8F%8D%E8%85%90%EF%BC%9A%E6%9C%89%E9%99%A2%E9%95%BF%E6%94%B6%E5%8F%97100%E5%A5%97%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [洪灾之后防大疫 警惕这几类疾病](https://www.baidu.com/s?wd=%E6%B4%AA%E7%81%BE%E4%B9%8B%E5%90%8E%E9%98%B2%E5%A4%A7%E7%96%AB+%E8%AD%A6%E6%83%95%E8%BF%99%E5%87%A0%E7%B1%BB%E7%96%BE%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子吃菌产生驾车撞人幻觉后自首](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%90%83%E8%8F%8C%E4%BA%A7%E7%94%9F%E9%A9%BE%E8%BD%A6%E6%92%9E%E4%BA%BA%E5%B9%BB%E8%A7%89%E5%90%8E%E8%87%AA%E9%A6%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [取已故亲人存款遭拒 法院判了](https://www.baidu.com/s?wd=%E5%8F%96%E5%B7%B2%E6%95%85%E4%BA%B2%E4%BA%BA%E5%AD%98%E6%AC%BE%E9%81%AD%E6%8B%92+%E6%B3%95%E9%99%A2%E5%88%A4%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [华侨华人纽约街头抗议赖清德窜美](https://www.baidu.com/s?wd=%E5%8D%8E%E4%BE%A8%E5%8D%8E%E4%BA%BA%E7%BA%BD%E7%BA%A6%E8%A1%97%E5%A4%B4%E6%8A%97%E8%AE%AE%E8%B5%96%E6%B8%85%E5%BE%B7%E7%AA%9C%E7%BE%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [高一男生打赏主播花掉39万](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%80%E7%94%B7%E7%94%9F%E6%89%93%E8%B5%8F%E4%B8%BB%E6%92%AD%E8%8A%B1%E6%8E%8939%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [李大霄呼吁长期资金救市](https://www.baidu.com/s?wd=%E6%9D%8E%E5%A4%A7%E9%9C%84%E5%91%BC%E5%90%81%E9%95%BF%E6%9C%9F%E8%B5%84%E9%87%91%E6%95%91%E5%B8%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [取已故亲人存款遭拒 法院判了](https://www.baidu.com/s?wd=%E5%8F%96%E5%B7%B2%E6%95%85%E4%BA%B2%E4%BA%BA%E5%AD%98%E6%AC%BE%E9%81%AD%E6%8B%92+%E6%B3%95%E9%99%A2%E5%88%A4%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [华侨华人纽约街头抗议赖清德窜美](https://www.baidu.com/s?wd=%E5%8D%8E%E4%BE%A8%E5%8D%8E%E4%BA%BA%E7%BA%BD%E7%BA%A6%E8%A1%97%E5%A4%B4%E6%8A%97%E8%AE%AE%E8%B5%96%E6%B8%85%E5%BE%B7%E7%AA%9C%E7%BE%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [涿州瘫痪男子家中溺亡 父母求救无果](https://www.baidu.com/s?wd=%E6%B6%BF%E5%B7%9E%E7%98%AB%E7%97%AA%E7%94%B7%E5%AD%90%E5%AE%B6%E4%B8%AD%E6%BA%BA%E4%BA%A1+%E7%88%B6%E6%AF%8D%E6%B1%82%E6%95%91%E6%97%A0%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
