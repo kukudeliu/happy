@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-14 08:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-14 08:59:02</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [医院通知每周工作40小时？医生发声](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E9%80%9A%E7%9F%A5%E6%AF%8F%E5%91%A8%E5%B7%A5%E4%BD%9C40%E5%B0%8F%E6%97%B6%EF%BC%9F%E5%8C%BB%E7%94%9F%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [特斯拉ModelY降价](https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89ModelY%E9%99%8D%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [于适回应票房过20亿表演龙吸水](https://www.baidu.com/s?wd=%E4%BA%8E%E9%80%82%E5%9B%9E%E5%BA%94%E7%A5%A8%E6%88%BF%E8%BF%8720%E4%BA%BF%E8%A1%A8%E6%BC%94%E9%BE%99%E5%90%B8%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [电诈大数据：80后90后成最易受骗人群](https://www.baidu.com/s?wd=%E7%94%B5%E8%AF%88%E5%A4%A7%E6%95%B0%E6%8D%AE%EF%BC%9A80%E5%90%8E90%E5%90%8E%E6%88%90%E6%9C%80%E6%98%93%E5%8F%97%E9%AA%97%E4%BA%BA%E7%BE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [成都一出租车自燃引发大堵车](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E4%B8%80%E5%87%BA%E7%A7%9F%E8%BD%A6%E8%87%AA%E7%87%83%E5%BC%95%E5%8F%91%E5%A4%A7%E5%A0%B5%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [医院通知每周工作40小时？医生发声](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E9%80%9A%E7%9F%A5%E6%AF%8F%E5%91%A8%E5%B7%A5%E4%BD%9C40%E5%B0%8F%E6%97%B6%EF%BC%9F%E5%8C%BB%E7%94%9F%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [特斯拉ModelY降价](https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89ModelY%E9%99%8D%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [于适回应票房过20亿表演龙吸水](https://www.baidu.com/s?wd=%E4%BA%8E%E9%80%82%E5%9B%9E%E5%BA%94%E7%A5%A8%E6%88%BF%E8%BF%8720%E4%BA%BF%E8%A1%A8%E6%BC%94%E9%BE%99%E5%90%B8%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [电诈大数据：80后90后成最易受骗人群](https://www.baidu.com/s?wd=%E7%94%B5%E8%AF%88%E5%A4%A7%E6%95%B0%E6%8D%AE%EF%BC%9A80%E5%90%8E90%E5%90%8E%E6%88%90%E6%9C%80%E6%98%93%E5%8F%97%E9%AA%97%E4%BA%BA%E7%BE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [成都一出租车自燃引发大堵车](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E4%B8%80%E5%87%BA%E7%A7%9F%E8%BD%A6%E8%87%AA%E7%87%83%E5%BC%95%E5%8F%91%E5%A4%A7%E5%A0%B5%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
