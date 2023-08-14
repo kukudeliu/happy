@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-14 22:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-14 22:28:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [李兰迪被学士帽砸破头](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%85%B0%E8%BF%AA%E8%A2%AB%E5%AD%A6%E5%A3%AB%E5%B8%BD%E7%A0%B8%E7%A0%B4%E5%A4%B4%23&t=31&band_rank=6&Refer=top)<br />
 7. [涂山璟你否认啊](https://s.weibo.com/weibo?q=%23%E6%B6%82%E5%B1%B1%E7%92%9F%E4%BD%A0%E5%90%A6%E8%AE%A4%E5%95%8A%23&t=31&band_rank=7&Refer=top)<br />
 8. [早C晚A](https://s.weibo.com/weibo?q=%E6%97%A9C%E6%99%9AA&t=31&band_rank=8&Refer=top)<br />
-9. [互联网女儿况三喜](https://s.weibo.com/weibo?q=%E4%BA%92%E8%81%94%E7%BD%91%E5%A5%B3%E5%84%BF%E5%86%B5%E4%B8%89%E5%96%9C&t=31&band_rank=9&Refer=top)<br />
+9. [小米平板](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E5%B9%B3%E6%9D%BF&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
