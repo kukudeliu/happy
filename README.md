@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-14 16:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-14 16:31:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [游客称在黄山拍到神秘黄色动物](https://s.weibo.com/weibo?q=%23%E6%B8%B8%E5%AE%A2%E7%A7%B0%E5%9C%A8%E9%BB%84%E5%B1%B1%E6%8B%8D%E5%88%B0%E7%A5%9E%E7%A7%98%E9%BB%84%E8%89%B2%E5%8A%A8%E7%89%A9%23&t=31&band_rank=6&Refer=top)<br />
 7. [有医院院长收受100套房](https://s.weibo.com/weibo?q=%23%E6%9C%89%E5%8C%BB%E9%99%A2%E9%99%A2%E9%95%BF%E6%94%B6%E5%8F%97100%E5%A5%97%E6%88%BF%23&t=31&band_rank=7&Refer=top)<br />
 8. [莲花楼要散架了](https://s.weibo.com/weibo?q=%23%E8%8E%B2%E8%8A%B1%E6%A5%BC%E8%A6%81%E6%95%A3%E6%9E%B6%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [为什么钱叫米](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E9%92%B1%E5%8F%AB%E7%B1%B3%23&t=31&band_rank=9&Refer=top)<br />
+9. [年轻人选择放弃社保的理由](https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E9%80%89%E6%8B%A9%E6%94%BE%E5%BC%83%E7%A4%BE%E4%BF%9D%E7%9A%84%E7%90%86%E7%94%B1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
