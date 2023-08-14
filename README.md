@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-14 13:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-14 13:49:01</h4></div>
 
 > 微博  
 
@@ -18,23 +18,23 @@
 > 百度  
 
 1. [以高品质生态环境支撑高质量发展](https://www.baidu.com/s?wd=%E4%BB%A5%E9%AB%98%E5%93%81%E8%B4%A8%E7%94%9F%E6%80%81%E7%8E%AF%E5%A2%83%E6%94%AF%E6%92%91%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [医疗反腐：有院长收受100套房](https://www.baidu.com/s?wd=%E5%8C%BB%E7%96%97%E5%8F%8D%E8%85%90%EF%BC%9A%E6%9C%89%E9%99%A2%E9%95%BF%E6%94%B6%E5%8F%97100%E5%A5%97%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [女子与3干部水库夜游溺亡 家属不解](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%8E3%E5%B9%B2%E9%83%A8%E6%B0%B4%E5%BA%93%E5%A4%9C%E6%B8%B8%E6%BA%BA%E4%BA%A1+%E5%AE%B6%E5%B1%9E%E4%B8%8D%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [女子与3干部水库夜游溺亡 家属不解](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%8E3%E5%B9%B2%E9%83%A8%E6%B0%B4%E5%BA%93%E5%A4%9C%E6%B8%B8%E6%BA%BA%E4%BA%A1+%E5%AE%B6%E5%B1%9E%E4%B8%8D%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [药企“甩锅”给药代的把戏到头了吗](https://www.baidu.com/s?wd=%E8%8D%AF%E4%BC%81%E2%80%9C%E7%94%A9%E9%94%85%E2%80%9D%E7%BB%99%E8%8D%AF%E4%BB%A3%E7%9A%84%E6%8A%8A%E6%88%8F%E5%88%B0%E5%A4%B4%E4%BA%86%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [洪灾之后防大疫 警惕这几类疾病](https://www.baidu.com/s?wd=%E6%B4%AA%E7%81%BE%E4%B9%8B%E5%90%8E%E9%98%B2%E5%A4%A7%E7%96%AB+%E8%AD%A6%E6%83%95%E8%BF%99%E5%87%A0%E7%B1%BB%E7%96%BE%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [男子吃菌产生驾车撞人幻觉后自首](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%90%83%E8%8F%8C%E4%BA%A7%E7%94%9F%E9%A9%BE%E8%BD%A6%E6%92%9E%E4%BA%BA%E5%B9%BB%E8%A7%89%E5%90%8E%E8%87%AA%E9%A6%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [涿州瘫痪男子家中溺亡 父母求救无果](https://www.baidu.com/s?wd=%E6%B6%BF%E5%B7%9E%E7%98%AB%E7%97%AA%E7%94%B7%E5%AD%90%E5%AE%B6%E4%B8%AD%E6%BA%BA%E4%BA%A1+%E7%88%B6%E6%AF%8D%E6%B1%82%E6%95%91%E6%97%A0%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [高一男生打赏主播花掉39万](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%80%E7%94%B7%E7%94%9F%E6%89%93%E8%B5%8F%E4%B8%BB%E6%92%AD%E8%8A%B1%E6%8E%8939%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [龙湖已提前偿还17亿元债务](https://www.baidu.com/s?wd=%E9%BE%99%E6%B9%96%E5%B7%B2%E6%8F%90%E5%89%8D%E5%81%BF%E8%BF%9817%E4%BA%BF%E5%85%83%E5%80%BA%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [游客拍到珍稀云豹？专家：是大橘猫](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E6%8B%8D%E5%88%B0%E7%8F%8D%E7%A8%80%E4%BA%91%E8%B1%B9%EF%BC%9F%E4%B8%93%E5%AE%B6%EF%BC%9A%E6%98%AF%E5%A4%A7%E6%A9%98%E7%8C%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [医疗反腐：有院长收受100套房](https://www.baidu.com/s?wd=%E5%8C%BB%E7%96%97%E5%8F%8D%E8%85%90%EF%BC%9A%E6%9C%89%E9%99%A2%E9%95%BF%E6%94%B6%E5%8F%97100%E5%A5%97%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [高一男生打赏主播花掉39万](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%80%E7%94%B7%E7%94%9F%E6%89%93%E8%B5%8F%E4%B8%BB%E6%92%AD%E8%8A%B1%E6%8E%8939%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [涿州瘫痪男子家中溺亡 父母求救无果](https://www.baidu.com/s?wd=%E6%B6%BF%E5%B7%9E%E7%98%AB%E7%97%AA%E7%94%B7%E5%AD%90%E5%AE%B6%E4%B8%AD%E6%BA%BA%E4%BA%A1+%E7%88%B6%E6%AF%8D%E6%B1%82%E6%95%91%E6%97%A0%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子吃菌产生驾车撞人幻觉后自首](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%90%83%E8%8F%8C%E4%BA%A7%E7%94%9F%E9%A9%BE%E8%BD%A6%E6%92%9E%E4%BA%BA%E5%B9%BB%E8%A7%89%E5%90%8E%E8%87%AA%E9%A6%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [部分用户被双倍扣费 中国电信致歉](https://www.baidu.com/s?wd=%E9%83%A8%E5%88%86%E7%94%A8%E6%88%B7%E8%A2%AB%E5%8F%8C%E5%80%8D%E6%89%A3%E8%B4%B9+%E4%B8%AD%E5%9B%BD%E7%94%B5%E4%BF%A1%E8%87%B4%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [以高品质生态环境支撑高质量发展](https://www.baidu.com/s?wd=%E4%BB%A5%E9%AB%98%E5%93%81%E8%B4%A8%E7%94%9F%E6%80%81%E7%8E%AF%E5%A2%83%E6%94%AF%E6%92%91%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [医疗反腐：有院长收受100套房](https://www.baidu.com/s?wd=%E5%8C%BB%E7%96%97%E5%8F%8D%E8%85%90%EF%BC%9A%E6%9C%89%E9%99%A2%E9%95%BF%E6%94%B6%E5%8F%97100%E5%A5%97%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [女子与3干部水库夜游溺亡 家属不解](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%8E3%E5%B9%B2%E9%83%A8%E6%B0%B4%E5%BA%93%E5%A4%9C%E6%B8%B8%E6%BA%BA%E4%BA%A1+%E5%AE%B6%E5%B1%9E%E4%B8%8D%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [女子与3干部水库夜游溺亡 家属不解](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%8E3%E5%B9%B2%E9%83%A8%E6%B0%B4%E5%BA%93%E5%A4%9C%E6%B8%B8%E6%BA%BA%E4%BA%A1+%E5%AE%B6%E5%B1%9E%E4%B8%8D%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [药企“甩锅”给药代的把戏到头了吗](https://www.baidu.com/s?wd=%E8%8D%AF%E4%BC%81%E2%80%9C%E7%94%A9%E9%94%85%E2%80%9D%E7%BB%99%E8%8D%AF%E4%BB%A3%E7%9A%84%E6%8A%8A%E6%88%8F%E5%88%B0%E5%A4%B4%E4%BA%86%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [洪灾之后防大疫 警惕这几类疾病](https://www.baidu.com/s?wd=%E6%B4%AA%E7%81%BE%E4%B9%8B%E5%90%8E%E9%98%B2%E5%A4%A7%E7%96%AB+%E8%AD%A6%E6%83%95%E8%BF%99%E5%87%A0%E7%B1%BB%E7%96%BE%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [男子吃菌产生驾车撞人幻觉后自首](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%90%83%E8%8F%8C%E4%BA%A7%E7%94%9F%E9%A9%BE%E8%BD%A6%E6%92%9E%E4%BA%BA%E5%B9%BB%E8%A7%89%E5%90%8E%E8%87%AA%E9%A6%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [涿州瘫痪男子家中溺亡 父母求救无果](https://www.baidu.com/s?wd=%E6%B6%BF%E5%B7%9E%E7%98%AB%E7%97%AA%E7%94%B7%E5%AD%90%E5%AE%B6%E4%B8%AD%E6%BA%BA%E4%BA%A1+%E7%88%B6%E6%AF%8D%E6%B1%82%E6%95%91%E6%97%A0%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [高一男生打赏主播花掉39万](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%80%E7%94%B7%E7%94%9F%E6%89%93%E8%B5%8F%E4%B8%BB%E6%92%AD%E8%8A%B1%E6%8E%8939%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [龙湖已提前偿还17亿元债务](https://www.baidu.com/s?wd=%E9%BE%99%E6%B9%96%E5%B7%B2%E6%8F%90%E5%89%8D%E5%81%BF%E8%BF%9817%E4%BA%BF%E5%85%83%E5%80%BA%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [游客拍到珍稀云豹？专家：是大橘猫](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E6%8B%8D%E5%88%B0%E7%8F%8D%E7%A8%80%E4%BA%91%E8%B1%B9%EF%BC%9F%E4%B8%93%E5%AE%B6%EF%BC%9A%E6%98%AF%E5%A4%A7%E6%A9%98%E7%8C%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [医疗反腐：有院长收受100套房](https://www.baidu.com/s?wd=%E5%8C%BB%E7%96%97%E5%8F%8D%E8%85%90%EF%BC%9A%E6%9C%89%E9%99%A2%E9%95%BF%E6%94%B6%E5%8F%97100%E5%A5%97%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [高一男生打赏主播花掉39万](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%80%E7%94%B7%E7%94%9F%E6%89%93%E8%B5%8F%E4%B8%BB%E6%92%AD%E8%8A%B1%E6%8E%8939%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [涿州瘫痪男子家中溺亡 父母求救无果](https://www.baidu.com/s?wd=%E6%B6%BF%E5%B7%9E%E7%98%AB%E7%97%AA%E7%94%B7%E5%AD%90%E5%AE%B6%E4%B8%AD%E6%BA%BA%E4%BA%A1+%E7%88%B6%E6%AF%8D%E6%B1%82%E6%95%91%E6%97%A0%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子吃菌产生驾车撞人幻觉后自首](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%90%83%E8%8F%8C%E4%BA%A7%E7%94%9F%E9%A9%BE%E8%BD%A6%E6%92%9E%E4%BA%BA%E5%B9%BB%E8%A7%89%E5%90%8E%E8%87%AA%E9%A6%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [部分用户被双倍扣费 中国电信致歉](https://www.baidu.com/s?wd=%E9%83%A8%E5%88%86%E7%94%A8%E6%88%B7%E8%A2%AB%E5%8F%8C%E5%80%8D%E6%89%A3%E8%B4%B9+%E4%B8%AD%E5%9B%BD%E7%94%B5%E4%BF%A1%E8%87%B4%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
