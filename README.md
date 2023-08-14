@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-14 23:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-14 23:48:01</h4></div>
 
 > 微博  
 
-1. [3人偷渡到缅甸搞诈骗却因文化低被拒收](https://s.weibo.com/weibo?q=%233%E4%BA%BA%E5%81%B7%E6%B8%A1%E5%88%B0%E7%BC%85%E7%94%B8%E6%90%9E%E8%AF%88%E9%AA%97%E5%8D%B4%E5%9B%A0%E6%96%87%E5%8C%96%E4%BD%8E%E8%A2%AB%E6%8B%92%E6%94%B6%23&t=31&band_rank=1&Refer=top)<br />
-2. [涂山璟和小夭分手 真哭了](https://s.weibo.com/weibo?q=%E6%B6%82%E5%B1%B1%E7%92%9F%E5%92%8C%E5%B0%8F%E5%A4%AD%E5%88%86%E6%89%8B%20%E7%9C%9F%E5%93%AD%E4%BA%86&t=31&band_rank=2&Refer=top)<br />
+1. [涂山璟和小夭分手 真哭了](https://s.weibo.com/weibo?q=%E6%B6%82%E5%B1%B1%E7%92%9F%E5%92%8C%E5%B0%8F%E5%A4%AD%E5%88%86%E6%89%8B%20%E7%9C%9F%E5%93%AD%E4%BA%86&t=31&band_rank=1&Refer=top)<br />
+2. [3人偷渡到缅甸搞诈骗却因文化低被拒收](https://s.weibo.com/weibo?q=%233%E4%BA%BA%E5%81%B7%E6%B8%A1%E5%88%B0%E7%BC%85%E7%94%B8%E6%90%9E%E8%AF%88%E9%AA%97%E5%8D%B4%E5%9B%A0%E6%96%87%E5%8C%96%E4%BD%8E%E8%A2%AB%E6%8B%92%E6%94%B6%23&t=31&band_rank=2&Refer=top)<br />
 3. [我国再次成功发射一箭五星](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E5%86%8D%E6%AC%A1%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E4%B8%80%E7%AE%AD%E4%BA%94%E6%98%9F%23&t=31&band_rank=3&Refer=top)<br />
 4. [长相思结局](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D%E7%BB%93%E5%B1%80&t=31&band_rank=4&Refer=top)<br />
 5. [杭州女白领被骗回家当厂妹火了](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%A5%B3%E7%99%BD%E9%A2%86%E8%A2%AB%E9%AA%97%E5%9B%9E%E5%AE%B6%E5%BD%93%E5%8E%82%E5%A6%B9%E7%81%AB%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
