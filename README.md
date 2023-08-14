@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-14 23:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-14 23:26:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [我国再次成功发射一箭五星](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E5%86%8D%E6%AC%A1%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E4%B8%80%E7%AE%AD%E4%BA%94%E6%98%9F%23&t=31&band_rank=3&Refer=top)<br />
 4. [杭州女白领被骗回家当厂妹火了](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%A5%B3%E7%99%BD%E9%A2%86%E8%A2%AB%E9%AA%97%E5%9B%9E%E5%AE%B6%E5%BD%93%E5%8E%82%E5%A6%B9%E7%81%AB%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [涂山璟你否认啊](https://s.weibo.com/weibo?q=%23%E6%B6%82%E5%B1%B1%E7%92%9F%E4%BD%A0%E5%90%A6%E8%AE%A4%E5%95%8A%23&t=31&band_rank=5&Refer=top)<br />
-6. [EXO青岛签售会生图](https://s.weibo.com/weibo?q=%23EXO%E9%9D%92%E5%B2%9B%E7%AD%BE%E5%94%AE%E4%BC%9A%E7%94%9F%E5%9B%BE%23&t=31&band_rank=6&Refer=top)<br />
+6. [李兰迪被学士帽砸破头](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%85%B0%E8%BF%AA%E8%A2%AB%E5%AD%A6%E5%A3%AB%E5%B8%BD%E7%A0%B8%E7%A0%B4%E5%A4%B4%23&t=31&band_rank=6&Refer=top)<br />
 7. [檀健次从倒数第一到全国第一](https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E4%BB%8E%E5%80%92%E6%95%B0%E7%AC%AC%E4%B8%80%E5%88%B0%E5%85%A8%E5%9B%BD%E7%AC%AC%E4%B8%80%23&t=31&band_rank=7&Refer=top)<br />
-8. [李兰迪被学士帽砸破头](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%85%B0%E8%BF%AA%E8%A2%AB%E5%AD%A6%E5%A3%AB%E5%B8%BD%E7%A0%B8%E7%A0%B4%E5%A4%B4%23&t=31&band_rank=8&Refer=top)<br />
+8. [EXO青岛签售会生图](https://s.weibo.com/weibo?q=%23EXO%E9%9D%92%E5%B2%9B%E7%AD%BE%E5%94%AE%E4%BC%9A%E7%94%9F%E5%9B%BE%23&t=31&band_rank=8&Refer=top)<br />
 9. [他现在甚至都懒得张口了](https://s.weibo.com/weibo?q=%23%E4%BB%96%E7%8E%B0%E5%9C%A8%E7%94%9A%E8%87%B3%E9%83%BD%E6%87%92%E5%BE%97%E5%BC%A0%E5%8F%A3%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
