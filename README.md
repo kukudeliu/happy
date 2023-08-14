@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-15 04:13:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-15 04:14:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [卫星地图看缅甸KK园区](https://s.weibo.com/weibo?q=%E5%8D%AB%E6%98%9F%E5%9C%B0%E5%9B%BE%E7%9C%8B%E7%BC%85%E7%94%B8KK%E5%9B%AD%E5%8C%BA&t=31&band_rank=5&Refer=top)<br />
 6. [杭州女白领被骗回家当厂妹火了](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%A5%B3%E7%99%BD%E9%A2%86%E8%A2%AB%E9%AA%97%E5%9B%9E%E5%AE%B6%E5%BD%93%E5%8E%82%E5%A6%B9%E7%81%AB%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [长相思结局](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D%E7%BB%93%E5%B1%80&t=31&band_rank=7&Refer=top)<br />
-8. [他现在甚至都懒得张口了](https://s.weibo.com/weibo?q=%23%E4%BB%96%E7%8E%B0%E5%9C%A8%E7%94%9A%E8%87%B3%E9%83%BD%E6%87%92%E5%BE%97%E5%BC%A0%E5%8F%A3%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [3人偷渡到缅甸搞诈骗却因文化低被拒收](https://s.weibo.com/weibo?q=%233%E4%BA%BA%E5%81%B7%E6%B8%A1%E5%88%B0%E7%BC%85%E7%94%B8%E6%90%9E%E8%AF%88%E9%AA%97%E5%8D%B4%E5%9B%A0%E6%96%87%E5%8C%96%E4%BD%8E%E8%A2%AB%E6%8B%92%E6%94%B6%23&t=31&band_rank=9&Refer=top)<br />
+8. [3人偷渡到缅甸搞诈骗却因文化低被拒收](https://s.weibo.com/weibo?q=%233%E4%BA%BA%E5%81%B7%E6%B8%A1%E5%88%B0%E7%BC%85%E7%94%B8%E6%90%9E%E8%AF%88%E9%AA%97%E5%8D%B4%E5%9B%A0%E6%96%87%E5%8C%96%E4%BD%8E%E8%A2%AB%E6%8B%92%E6%94%B6%23&t=31&band_rank=8&Refer=top)<br />
+9. [檀健次从倒数第一到全国第一](https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E4%BB%8E%E5%80%92%E6%95%B0%E7%AC%AC%E4%B8%80%E5%88%B0%E5%85%A8%E5%9B%BD%E7%AC%AC%E4%B8%80%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
