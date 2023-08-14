@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-14 14:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-14 14:05:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [取已故亲人存款遭拒 法院判了](https://www.baidu.com/s?wd=%E5%8F%96%E5%B7%B2%E6%95%85%E4%BA%B2%E4%BA%BA%E5%AD%98%E6%AC%BE%E9%81%AD%E6%8B%92+%E6%B3%95%E9%99%A2%E5%88%A4%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [华侨华人纽约街头抗议赖清德窜美](https://www.baidu.com/s?wd=%E5%8D%8E%E4%BE%A8%E5%8D%8E%E4%BA%BA%E7%BA%BD%E7%BA%A6%E8%A1%97%E5%A4%B4%E6%8A%97%E8%AE%AE%E8%B5%96%E6%B8%85%E5%BE%B7%E7%AA%9C%E7%BE%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [高一男生打赏主播花掉39万](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%80%E7%94%B7%E7%94%9F%E6%89%93%E8%B5%8F%E4%B8%BB%E6%92%AD%E8%8A%B1%E6%8E%8939%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [店员用后厨剪刀修脚 商家回应](https://www.baidu.com/s?wd=%E5%BA%97%E5%91%98%E7%94%A8%E5%90%8E%E5%8E%A8%E5%89%AA%E5%88%80%E4%BF%AE%E8%84%9A+%E5%95%86%E5%AE%B6%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [涿州瘫痪男子家中溺亡 父母求救无果](https://www.baidu.com/s?wd=%E6%B6%BF%E5%B7%9E%E7%98%AB%E7%97%AA%E7%94%B7%E5%AD%90%E5%AE%B6%E4%B8%AD%E6%BA%BA%E4%BA%A1+%E7%88%B6%E6%AF%8D%E6%B1%82%E6%95%91%E6%97%A0%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [取已故亲人存款遭拒 法院判了](https://www.baidu.com/s?wd=%E5%8F%96%E5%B7%B2%E6%95%85%E4%BA%B2%E4%BA%BA%E5%AD%98%E6%AC%BE%E9%81%AD%E6%8B%92+%E6%B3%95%E9%99%A2%E5%88%A4%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [华侨华人纽约街头抗议赖清德窜美](https://www.baidu.com/s?wd=%E5%8D%8E%E4%BE%A8%E5%8D%8E%E4%BA%BA%E7%BA%BD%E7%BA%A6%E8%A1%97%E5%A4%B4%E6%8A%97%E8%AE%AE%E8%B5%96%E6%B8%85%E5%BE%B7%E7%AA%9C%E7%BE%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [高一男生打赏主播花掉39万](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%80%E7%94%B7%E7%94%9F%E6%89%93%E8%B5%8F%E4%B8%BB%E6%92%AD%E8%8A%B1%E6%8E%8939%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [店员用后厨剪刀修脚 商家回应](https://www.baidu.com/s?wd=%E5%BA%97%E5%91%98%E7%94%A8%E5%90%8E%E5%8E%A8%E5%89%AA%E5%88%80%E4%BF%AE%E8%84%9A+%E5%95%86%E5%AE%B6%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [涿州瘫痪男子家中溺亡 父母求救无果](https://www.baidu.com/s?wd=%E6%B6%BF%E5%B7%9E%E7%98%AB%E7%97%AA%E7%94%B7%E5%AD%90%E5%AE%B6%E4%B8%AD%E6%BA%BA%E4%BA%A1+%E7%88%B6%E6%AF%8D%E6%B1%82%E6%95%91%E6%97%A0%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
