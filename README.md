@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-14 19:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-14 19:36:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [刘涛一次性发了36张图](https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B6%9B%E4%B8%80%E6%AC%A1%E6%80%A7%E5%8F%91%E4%BA%8636%E5%BC%A0%E5%9B%BE%23&t=31&band_rank=6&Refer=top)<br />
 7. [男子球场晕倒4名打球医生合力抢救](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%90%83%E5%9C%BA%E6%99%95%E5%80%924%E5%90%8D%E6%89%93%E7%90%83%E5%8C%BB%E7%94%9F%E5%90%88%E5%8A%9B%E6%8A%A2%E6%95%91%23&t=31&band_rank=7&Refer=top)<br />
 8. [张晚意邓为你们不要再吵了](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%99%9A%E6%84%8F%E9%82%93%E4%B8%BA%E4%BD%A0%E4%BB%AC%E4%B8%8D%E8%A6%81%E5%86%8D%E5%90%B5%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [癌症在我国已经熬成慢性病](https://s.weibo.com/weibo?q=%23%E7%99%8C%E7%97%87%E5%9C%A8%E6%88%91%E5%9B%BD%E5%B7%B2%E7%BB%8F%E7%86%AC%E6%88%90%E6%85%A2%E6%80%A7%E7%97%85%23&t=31&band_rank=9&Refer=top)<br />
+9. [高一男生花光39万积蓄打赏主播](https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%B8%80%E7%94%B7%E7%94%9F%E8%8A%B1%E5%85%8939%E4%B8%87%E7%A7%AF%E8%93%84%E6%89%93%E8%B5%8F%E4%B8%BB%E6%92%AD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -23,9 +23,9 @@
 4. [国务院发布6方面24条政策措施](https://www.baidu.com/s?wd=%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%8F%91%E5%B8%836%E6%96%B9%E9%9D%A224%E6%9D%A1%E6%94%BF%E7%AD%96%E6%8E%AA%E6%96%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中秋国庆可拼17天长假](https://www.baidu.com/s?wd=%E4%B8%AD%E7%A7%8B%E5%9B%BD%E5%BA%86%E5%8F%AF%E6%8B%BC17%E5%A4%A9%E9%95%BF%E5%81%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [特斯拉：已在中国建立数据中心](https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%EF%BC%9A%E5%B7%B2%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%BB%BA%E7%AB%8B%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [张艺兴演唱会舞蹈动作引争议](https://www.baidu.com/s?wd=%E5%BC%A0%E8%89%BA%E5%85%B4%E6%BC%94%E5%94%B1%E4%BC%9A%E8%88%9E%E8%B9%88%E5%8A%A8%E4%BD%9C%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [小沈阳晒女儿与薛之谦合照](https://www.baidu.com/s?wd=%E5%B0%8F%E6%B2%88%E9%98%B3%E6%99%92%E5%A5%B3%E5%84%BF%E4%B8%8E%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%90%88%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子偷渡缅甸搞诈骗 因不会打字被拒](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%B7%E6%B8%A1%E7%BC%85%E7%94%B8%E6%90%9E%E8%AF%88%E9%AA%97+%E5%9B%A0%E4%B8%8D%E4%BC%9A%E6%89%93%E5%AD%97%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子偷渡缅甸搞诈骗 因不会打字被拒](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%B7%E6%B8%A1%E7%BC%85%E7%94%B8%E6%90%9E%E8%AF%88%E9%AA%97+%E5%9B%A0%E4%B8%8D%E4%BC%9A%E6%89%93%E5%AD%97%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [张艺兴演唱会舞蹈动作引争议](https://www.baidu.com/s?wd=%E5%BC%A0%E8%89%BA%E5%85%B4%E6%BC%94%E5%94%B1%E4%BC%9A%E8%88%9E%E8%B9%88%E5%8A%A8%E4%BD%9C%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [小沈阳晒女儿与薛之谦合照](https://www.baidu.com/s?wd=%E5%B0%8F%E6%B2%88%E9%98%B3%E6%99%92%E5%A5%B3%E5%84%BF%E4%B8%8E%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%90%88%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -35,6 +35,6 @@
 4. [国务院发布6方面24条政策措施](https://www.baidu.com/s?wd=%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%8F%91%E5%B8%836%E6%96%B9%E9%9D%A224%E6%9D%A1%E6%94%BF%E7%AD%96%E6%8E%AA%E6%96%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中秋国庆可拼17天长假](https://www.baidu.com/s?wd=%E4%B8%AD%E7%A7%8B%E5%9B%BD%E5%BA%86%E5%8F%AF%E6%8B%BC17%E5%A4%A9%E9%95%BF%E5%81%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [特斯拉：已在中国建立数据中心](https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%EF%BC%9A%E5%B7%B2%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%BB%BA%E7%AB%8B%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [张艺兴演唱会舞蹈动作引争议](https://www.baidu.com/s?wd=%E5%BC%A0%E8%89%BA%E5%85%B4%E6%BC%94%E5%94%B1%E4%BC%9A%E8%88%9E%E8%B9%88%E5%8A%A8%E4%BD%9C%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [小沈阳晒女儿与薛之谦合照](https://www.baidu.com/s?wd=%E5%B0%8F%E6%B2%88%E9%98%B3%E6%99%92%E5%A5%B3%E5%84%BF%E4%B8%8E%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%90%88%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子偷渡缅甸搞诈骗 因不会打字被拒](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%B7%E6%B8%A1%E7%BC%85%E7%94%B8%E6%90%9E%E8%AF%88%E9%AA%97+%E5%9B%A0%E4%B8%8D%E4%BC%9A%E6%89%93%E5%AD%97%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子偷渡缅甸搞诈骗 因不会打字被拒](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%B7%E6%B8%A1%E7%BC%85%E7%94%B8%E6%90%9E%E8%AF%88%E9%AA%97+%E5%9B%A0%E4%B8%8D%E4%BC%9A%E6%89%93%E5%AD%97%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [张艺兴演唱会舞蹈动作引争议](https://www.baidu.com/s?wd=%E5%BC%A0%E8%89%BA%E5%85%B4%E6%BC%94%E5%94%B1%E4%BC%9A%E8%88%9E%E8%B9%88%E5%8A%A8%E4%BD%9C%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [小沈阳晒女儿与薛之谦合照](https://www.baidu.com/s?wd=%E5%B0%8F%E6%B2%88%E9%98%B3%E6%99%92%E5%A5%B3%E5%84%BF%E4%B8%8E%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%90%88%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
