@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-14 17:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-14 17:49:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [癌症在我国已经熬成慢性病](https://www.baidu.com/s?wd=%E7%99%8C%E7%97%87%E5%9C%A8%E6%88%91%E5%9B%BD%E5%B7%B2%E7%BB%8F%E7%86%AC%E6%88%90%E6%85%A2%E6%80%A7%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子偷渡缅甸搞诈骗 因不会打字被拒](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%B7%E6%B8%A1%E7%BC%85%E7%94%B8%E6%90%9E%E8%AF%88%E9%AA%97+%E5%9B%A0%E4%B8%8D%E4%BC%9A%E6%89%93%E5%AD%97%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [未经配偶同意炒股亏损属重大过错](https://www.baidu.com/s?wd=%E6%9C%AA%E7%BB%8F%E9%85%8D%E5%81%B6%E5%90%8C%E6%84%8F%E7%82%92%E8%82%A1%E4%BA%8F%E6%8D%9F%E5%B1%9E%E9%87%8D%E5%A4%A7%E8%BF%87%E9%94%99&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [考生被缅甸语专业录取？高校回应](https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%E8%A2%AB%E7%BC%85%E7%94%B8%E8%AF%AD%E4%B8%93%E4%B8%9A%E5%BD%95%E5%8F%96%EF%BC%9F%E9%AB%98%E6%A0%A1%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [店员用后厨剪刀修脚 商家回应](https://www.baidu.com/s?wd=%E5%BA%97%E5%91%98%E7%94%A8%E5%90%8E%E5%8E%A8%E5%89%AA%E5%88%80%E4%BF%AE%E8%84%9A+%E5%95%86%E5%AE%B6%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [癌症在我国已经熬成慢性病](https://www.baidu.com/s?wd=%E7%99%8C%E7%97%87%E5%9C%A8%E6%88%91%E5%9B%BD%E5%B7%B2%E7%BB%8F%E7%86%AC%E6%88%90%E6%85%A2%E6%80%A7%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子偷渡缅甸搞诈骗 因不会打字被拒](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%B7%E6%B8%A1%E7%BC%85%E7%94%B8%E6%90%9E%E8%AF%88%E9%AA%97+%E5%9B%A0%E4%B8%8D%E4%BC%9A%E6%89%93%E5%AD%97%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [未经配偶同意炒股亏损属重大过错](https://www.baidu.com/s?wd=%E6%9C%AA%E7%BB%8F%E9%85%8D%E5%81%B6%E5%90%8C%E6%84%8F%E7%82%92%E8%82%A1%E4%BA%8F%E6%8D%9F%E5%B1%9E%E9%87%8D%E5%A4%A7%E8%BF%87%E9%94%99&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [考生被缅甸语专业录取？高校回应](https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%E8%A2%AB%E7%BC%85%E7%94%B8%E8%AF%AD%E4%B8%93%E4%B8%9A%E5%BD%95%E5%8F%96%EF%BC%9F%E9%AB%98%E6%A0%A1%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [店员用后厨剪刀修脚 商家回应](https://www.baidu.com/s?wd=%E5%BA%97%E5%91%98%E7%94%A8%E5%90%8E%E5%8E%A8%E5%89%AA%E5%88%80%E4%BF%AE%E8%84%9A+%E5%95%86%E5%AE%B6%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
