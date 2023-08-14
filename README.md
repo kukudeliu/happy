@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-14 11:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-14 11:40:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [有医院院长收受100套房](https://s.weibo.com/weibo?q=%23%E6%9C%89%E5%8C%BB%E9%99%A2%E9%99%A2%E9%95%BF%E6%94%B6%E5%8F%97100%E5%A5%97%E6%88%BF%23&t=31&band_rank=4&Refer=top)<br />
 5. [张碧晨也去看了张艺兴演唱会](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%A2%A7%E6%99%A8%E4%B9%9F%E5%8E%BB%E7%9C%8B%E4%BA%86%E5%BC%A0%E8%89%BA%E5%85%B4%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=5&Refer=top)<br />
 6. [下颌线与下颚线的区别](https://s.weibo.com/weibo?q=%23%E4%B8%8B%E9%A2%8C%E7%BA%BF%E4%B8%8E%E4%B8%8B%E9%A2%9A%E7%BA%BF%E7%9A%84%E5%8C%BA%E5%88%AB%23&t=31&band_rank=6&Refer=top)<br />
-7. [前任4定档](https://s.weibo.com/weibo?q=%23%E5%89%8D%E4%BB%BB4%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=7&Refer=top)<br />
+7. [为什么电影院的最佳位置没人选](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E7%94%B5%E5%BD%B1%E9%99%A2%E7%9A%84%E6%9C%80%E4%BD%B3%E4%BD%8D%E7%BD%AE%E6%B2%A1%E4%BA%BA%E9%80%89%23&t=31&band_rank=7&Refer=top)<br />
 8. [医生称极少贪腐代表不了辛苦的群体](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E7%A7%B0%E6%9E%81%E5%B0%91%E8%B4%AA%E8%85%90%E4%BB%A3%E8%A1%A8%E4%B8%8D%E4%BA%86%E8%BE%9B%E8%8B%A6%E7%9A%84%E7%BE%A4%E4%BD%93%23&t=31&band_rank=8&Refer=top)<br />
-9. [为什么电影院的最佳位置没人选](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E7%94%B5%E5%BD%B1%E9%99%A2%E7%9A%84%E6%9C%80%E4%BD%B3%E4%BD%8D%E7%BD%AE%E6%B2%A1%E4%BA%BA%E9%80%89%23&t=31&band_rank=9&Refer=top)<br />
+9. [前任4定档](https://s.weibo.com/weibo?q=%23%E5%89%8D%E4%BB%BB4%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
