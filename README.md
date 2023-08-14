@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-14 17:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-14 17:12:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [中国警察让孤注一掷导演不要害怕](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%AD%A6%E5%AF%9F%E8%AE%A9%E5%AD%A4%E6%B3%A8%E4%B8%80%E6%8E%B7%E5%AF%BC%E6%BC%94%E4%B8%8D%E8%A6%81%E5%AE%B3%E6%80%95%23&t=31&band_rank=4&Refer=top)<br />
 5. [癌症在我国已经熬成慢性病](https://s.weibo.com/weibo?q=%23%E7%99%8C%E7%97%87%E5%9C%A8%E6%88%91%E5%9B%BD%E5%B7%B2%E7%BB%8F%E7%86%AC%E6%88%90%E6%85%A2%E6%80%A7%E7%97%85%23&t=31&band_rank=5&Refer=top)<br />
 6. [什么是开水房](https://s.weibo.com/weibo?q=%23%E4%BB%80%E4%B9%88%E6%98%AF%E5%BC%80%E6%B0%B4%E6%88%BF%23&t=31&band_rank=6&Refer=top)<br />
-7. [游客称在黄山拍到神秘黄色动物](https://s.weibo.com/weibo?q=%23%E6%B8%B8%E5%AE%A2%E7%A7%B0%E5%9C%A8%E9%BB%84%E5%B1%B1%E6%8B%8D%E5%88%B0%E7%A5%9E%E7%A7%98%E9%BB%84%E8%89%B2%E5%8A%A8%E7%89%A9%23&t=31&band_rank=7&Refer=top)<br />
-8. [当你被缅甸语专业录取](https://s.weibo.com/weibo?q=%E5%BD%93%E4%BD%A0%E8%A2%AB%E7%BC%85%E7%94%B8%E8%AF%AD%E4%B8%93%E4%B8%9A%E5%BD%95%E5%8F%96&t=31&band_rank=8&Refer=top)<br />
+7. [当你被缅甸语专业录取](https://s.weibo.com/weibo?q=%E5%BD%93%E4%BD%A0%E8%A2%AB%E7%BC%85%E7%94%B8%E8%AF%AD%E4%B8%93%E4%B8%9A%E5%BD%95%E5%8F%96&t=31&band_rank=7&Refer=top)<br />
+8. [游客称在黄山拍到神秘黄色动物](https://s.weibo.com/weibo?q=%23%E6%B8%B8%E5%AE%A2%E7%A7%B0%E5%9C%A8%E9%BB%84%E5%B1%B1%E6%8B%8D%E5%88%B0%E7%A5%9E%E7%A7%98%E9%BB%84%E8%89%B2%E5%8A%A8%E7%89%A9%23&t=31&band_rank=8&Refer=top)<br />
 9. [有医院院长收受100套房](https://s.weibo.com/weibo?q=%23%E6%9C%89%E5%8C%BB%E9%99%A2%E9%99%A2%E9%95%BF%E6%94%B6%E5%8F%97100%E5%A5%97%E6%88%BF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
