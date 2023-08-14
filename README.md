@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-14 17:15:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-14 17:16:02</h4></div>
 
 > 微博  
 
-1. [冯绍峰的女主运](https://s.weibo.com/weibo?q=%23%E5%86%AF%E7%BB%8D%E5%B3%B0%E7%9A%84%E5%A5%B3%E4%B8%BB%E8%BF%90%23&t=31&band_rank=1&Refer=top)<br />
-2. [癌症在我国已经熬成慢性病](https://s.weibo.com/weibo?q=%23%E7%99%8C%E7%97%87%E5%9C%A8%E6%88%91%E5%9B%BD%E5%B7%B2%E7%BB%8F%E7%86%AC%E6%88%90%E6%85%A2%E6%80%A7%E7%97%85%23&t=31&band_rank=2&Refer=top)<br />
+1. [癌症在我国已经熬成慢性病](https://s.weibo.com/weibo?q=%23%E7%99%8C%E7%97%87%E5%9C%A8%E6%88%91%E5%9B%BD%E5%B7%B2%E7%BB%8F%E7%86%AC%E6%88%90%E6%85%A2%E6%80%A7%E7%97%85%23&t=31&band_rank=1&Refer=top)<br />
+2. [冯绍峰的女主运](https://s.weibo.com/weibo?q=%23%E5%86%AF%E7%BB%8D%E5%B3%B0%E7%9A%84%E5%A5%B3%E4%B8%BB%E8%BF%90%23&t=31&band_rank=2&Refer=top)<br />
 3. [子弟兵高温下抢通道路清除淤泥](https://s.weibo.com/weibo?q=%23%E5%AD%90%E5%BC%9F%E5%85%B5%E9%AB%98%E6%B8%A9%E4%B8%8B%E6%8A%A2%E9%80%9A%E9%81%93%E8%B7%AF%E6%B8%85%E9%99%A4%E6%B7%A4%E6%B3%A5%23&t=31&band_rank=3&Refer=top)<br />
 4. [叶童回应白发显老](https://s.weibo.com/weibo?q=%23%E5%8F%B6%E7%AB%A5%E5%9B%9E%E5%BA%94%E7%99%BD%E5%8F%91%E6%98%BE%E8%80%81%23&t=31&band_rank=4&Refer=top)<br />
 5. [中国警察让孤注一掷导演不要害怕](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%AD%A6%E5%AF%9F%E8%AE%A9%E5%AD%A4%E6%B3%A8%E4%B8%80%E6%8E%B7%E5%AF%BC%E6%BC%94%E4%B8%8D%E8%A6%81%E5%AE%B3%E6%80%95%23&t=31&band_rank=5&Refer=top)<br />
