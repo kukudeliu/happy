@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-14 16:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-14 16:47:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [游客称在黄山拍到神秘黄色动物](https://s.weibo.com/weibo?q=%23%E6%B8%B8%E5%AE%A2%E7%A7%B0%E5%9C%A8%E9%BB%84%E5%B1%B1%E6%8B%8D%E5%88%B0%E7%A5%9E%E7%A7%98%E9%BB%84%E8%89%B2%E5%8A%A8%E7%89%A9%23&t=31&band_rank=6&Refer=top)<br />
 7. [经纪人王力威退股肖战工作室](https://s.weibo.com/weibo?q=%23%E7%BB%8F%E7%BA%AA%E4%BA%BA%E7%8E%8B%E5%8A%9B%E5%A8%81%E9%80%80%E8%82%A1%E8%82%96%E6%88%98%E5%B7%A5%E4%BD%9C%E5%AE%A4%23&t=31&band_rank=7&Refer=top)<br />
 8. [有医院院长收受100套房](https://s.weibo.com/weibo?q=%23%E6%9C%89%E5%8C%BB%E9%99%A2%E9%99%A2%E9%95%BF%E6%94%B6%E5%8F%97100%E5%A5%97%E6%88%BF%23&t=31&band_rank=8&Refer=top)<br />
-9. [莲花楼要散架了](https://s.weibo.com/weibo?q=%23%E8%8E%B2%E8%8A%B1%E6%A5%BC%E8%A6%81%E6%95%A3%E6%9E%B6%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [叶童回应白发显老](https://s.weibo.com/weibo?q=%23%E5%8F%B6%E7%AB%A5%E5%9B%9E%E5%BA%94%E7%99%BD%E5%8F%91%E6%98%BE%E8%80%81%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
