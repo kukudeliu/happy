@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-14 21:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-14 21:05:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [48岁大姐成功应聘月薪3万麻将主播](https://s.weibo.com/weibo?q=%2348%E5%B2%81%E5%A4%A7%E5%A7%90%E6%88%90%E5%8A%9F%E5%BA%94%E8%81%98%E6%9C%88%E8%96%AA3%E4%B8%87%E9%BA%BB%E5%B0%86%E4%B8%BB%E6%92%AD%23&t=31&band_rank=6&Refer=top)<br />
 7. [北京故宫旅游的现状](https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E6%95%85%E5%AE%AB%E6%97%85%E6%B8%B8%E7%9A%84%E7%8E%B0%E7%8A%B6&t=31&band_rank=7&Refer=top)<br />
 8. [刘涛一次性发了36张图](https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B6%9B%E4%B8%80%E6%AC%A1%E6%80%A7%E5%8F%91%E4%BA%8636%E5%BC%A0%E5%9B%BE%23&t=31&band_rank=8&Refer=top)<br />
-9. [长相思直播](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D%E7%9B%B4%E6%92%AD&t=31&band_rank=9&Refer=top)<br />
+9. [爸爸当家2收官长文](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E5%BD%93%E5%AE%B62%E6%94%B6%E5%AE%98%E9%95%BF%E6%96%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
