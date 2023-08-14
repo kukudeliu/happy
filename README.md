@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-15 07:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-15 07:18:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [这样的豆浆千万别再喝了](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%A0%B7%E7%9A%84%E8%B1%86%E6%B5%86%E5%8D%83%E4%B8%87%E5%88%AB%E5%86%8D%E5%96%9D%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [入境旅客因照片像别人找到失散双胞胎兄弟](https://s.weibo.com/weibo?q=%23%E5%85%A5%E5%A2%83%E6%97%85%E5%AE%A2%E5%9B%A0%E7%85%A7%E7%89%87%E5%83%8F%E5%88%AB%E4%BA%BA%E6%89%BE%E5%88%B0%E5%A4%B1%E6%95%A3%E5%8F%8C%E8%83%9E%E8%83%8E%E5%85%84%E5%BC%9F%23&t=31&band_rank=7&Refer=top)<br />
 8. [立秋后一定要补气血](https://s.weibo.com/weibo?q=%E7%AB%8B%E7%A7%8B%E5%90%8E%E4%B8%80%E5%AE%9A%E8%A6%81%E8%A1%A5%E6%B0%94%E8%A1%80&t=31&band_rank=8&Refer=top)<br />
-9. [涂山璟再度解锁四爱play](https://s.weibo.com/weibo?q=%E6%B6%82%E5%B1%B1%E7%92%9F%E5%86%8D%E5%BA%A6%E8%A7%A3%E9%94%81%E5%9B%9B%E7%88%B1play&t=31&band_rank=9&Refer=top)<br />
+9. [日本战败投降78周年](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%88%98%E8%B4%A5%E6%8A%95%E9%99%8D78%E5%91%A8%E5%B9%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
