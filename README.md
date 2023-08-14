@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-14 15:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-14 15:36:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [终于有晚会请孟子义唱歌了](https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E6%9C%89%E6%99%9A%E4%BC%9A%E8%AF%B7%E5%AD%9F%E5%AD%90%E4%B9%89%E5%94%B1%E6%AD%8C%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [有医院院长收受100套房](https://s.weibo.com/weibo?q=%23%E6%9C%89%E5%8C%BB%E9%99%A2%E9%99%A2%E9%95%BF%E6%94%B6%E5%8F%97100%E5%A5%97%E6%88%BF%23&t=31&band_rank=7&Refer=top)<br />
 8. [邓为拍前为涂山璟写人物小传](https://s.weibo.com/weibo?q=%23%E9%82%93%E4%B8%BA%E6%8B%8D%E5%89%8D%E4%B8%BA%E6%B6%82%E5%B1%B1%E7%92%9F%E5%86%99%E4%BA%BA%E7%89%A9%E5%B0%8F%E4%BC%A0%23&t=31&band_rank=8&Refer=top)<br />
-9. [涿州51岁瘫痪男子家中溺亡](https://s.weibo.com/weibo?q=%23%E6%B6%BF%E5%B7%9E51%E5%B2%81%E7%98%AB%E7%97%AA%E7%94%B7%E5%AD%90%E5%AE%B6%E4%B8%AD%E6%BA%BA%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
+9. [马立奥好可爱](https://s.weibo.com/weibo?q=%E9%A9%AC%E7%AB%8B%E5%A5%A5%E5%A5%BD%E5%8F%AF%E7%88%B1&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
