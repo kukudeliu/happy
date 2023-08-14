@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-14 15:15:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-14 15:16:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [游客拍到珍稀云豹？专家：是大橘猫](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E6%8B%8D%E5%88%B0%E7%8F%8D%E7%A8%80%E4%BA%91%E8%B1%B9%EF%BC%9F%E4%B8%93%E5%AE%B6%EF%BC%9A%E6%98%AF%E5%A4%A7%E6%A9%98%E7%8C%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [取已故亲人存款遭拒 法院判了](https://www.baidu.com/s?wd=%E5%8F%96%E5%B7%B2%E6%95%85%E4%BA%B2%E4%BA%BA%E5%AD%98%E6%AC%BE%E9%81%AD%E6%8B%92+%E6%B3%95%E9%99%A2%E5%88%A4%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [华侨华人纽约街头抗议赖清德窜美](https://www.baidu.com/s?wd=%E5%8D%8E%E4%BE%A8%E5%8D%8E%E4%BA%BA%E7%BA%BD%E7%BA%A6%E8%A1%97%E5%A4%B4%E6%8A%97%E8%AE%AE%E8%B5%96%E6%B8%85%E5%BE%B7%E7%AA%9C%E7%BE%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [电诈大数据：80后90后最易受骗](https://www.baidu.com/s?wd=%E7%94%B5%E8%AF%88%E5%A4%A7%E6%95%B0%E6%8D%AE%EF%BC%9A80%E5%90%8E90%E5%90%8E%E6%9C%80%E6%98%93%E5%8F%97%E9%AA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [店员用后厨剪刀修脚 商家回应](https://www.baidu.com/s?wd=%E5%BA%97%E5%91%98%E7%94%A8%E5%90%8E%E5%8E%A8%E5%89%AA%E5%88%80%E4%BF%AE%E8%84%9A+%E5%95%86%E5%AE%B6%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [龙湖已提前偿还17亿元债务](https://www.baidu.com/s?wd=%E9%BE%99%E6%B9%96%E5%B7%B2%E6%8F%90%E5%89%8D%E5%81%BF%E8%BF%9817%E4%BA%BF%E5%85%83%E5%80%BA%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子吃菌产生驾车撞人幻觉后自首](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%90%83%E8%8F%8C%E4%BA%A7%E7%94%9F%E9%A9%BE%E8%BD%A6%E6%92%9E%E4%BA%BA%E5%B9%BB%E8%A7%89%E5%90%8E%E8%87%AA%E9%A6%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [游客拍到珍稀云豹？专家：是大橘猫](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E6%8B%8D%E5%88%B0%E7%8F%8D%E7%A8%80%E4%BA%91%E8%B1%B9%EF%BC%9F%E4%B8%93%E5%AE%B6%EF%BC%9A%E6%98%AF%E5%A4%A7%E6%A9%98%E7%8C%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [取已故亲人存款遭拒 法院判了](https://www.baidu.com/s?wd=%E5%8F%96%E5%B7%B2%E6%95%85%E4%BA%B2%E4%BA%BA%E5%AD%98%E6%AC%BE%E9%81%AD%E6%8B%92+%E6%B3%95%E9%99%A2%E5%88%A4%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [华侨华人纽约街头抗议赖清德窜美](https://www.baidu.com/s?wd=%E5%8D%8E%E4%BE%A8%E5%8D%8E%E4%BA%BA%E7%BA%BD%E7%BA%A6%E8%A1%97%E5%A4%B4%E6%8A%97%E8%AE%AE%E8%B5%96%E6%B8%85%E5%BE%B7%E7%AA%9C%E7%BE%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [电诈大数据：80后90后最易受骗](https://www.baidu.com/s?wd=%E7%94%B5%E8%AF%88%E5%A4%A7%E6%95%B0%E6%8D%AE%EF%BC%9A80%E5%90%8E90%E5%90%8E%E6%9C%80%E6%98%93%E5%8F%97%E9%AA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [店员用后厨剪刀修脚 商家回应](https://www.baidu.com/s?wd=%E5%BA%97%E5%91%98%E7%94%A8%E5%90%8E%E5%8E%A8%E5%89%AA%E5%88%80%E4%BF%AE%E8%84%9A+%E5%95%86%E5%AE%B6%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [龙湖已提前偿还17亿元债务](https://www.baidu.com/s?wd=%E9%BE%99%E6%B9%96%E5%B7%B2%E6%8F%90%E5%89%8D%E5%81%BF%E8%BF%9817%E4%BA%BF%E5%85%83%E5%80%BA%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子吃菌产生驾车撞人幻觉后自首](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%90%83%E8%8F%8C%E4%BA%A7%E7%94%9F%E9%A9%BE%E8%BD%A6%E6%92%9E%E4%BA%BA%E5%B9%BB%E8%A7%89%E5%90%8E%E8%87%AA%E9%A6%96&sa=fyb_news&rsv_dl=fyb_news)<br />
