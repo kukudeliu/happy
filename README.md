@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-14 19:13:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-14 19:14:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [特斯拉：已在中国建立数据中心](https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%EF%BC%9A%E5%B7%B2%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%BB%BA%E7%AB%8B%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [中秋国庆可拼17天长假](https://www.baidu.com/s?wd=%E4%B8%AD%E7%A7%8B%E5%9B%BD%E5%BA%86%E5%8F%AF%E6%8B%BC17%E5%A4%A9%E9%95%BF%E5%81%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [张艺兴演唱会舞蹈动作引争议](https://www.baidu.com/s?wd=%E5%BC%A0%E8%89%BA%E5%85%B4%E6%BC%94%E5%94%B1%E4%BC%9A%E8%88%9E%E8%B9%88%E5%8A%A8%E4%BD%9C%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [超级富豪“笼斗约架”夭折？](https://www.baidu.com/s?wd=%E8%B6%85%E7%BA%A7%E5%AF%8C%E8%B1%AA%E2%80%9C%E7%AC%BC%E6%96%97%E7%BA%A6%E6%9E%B6%E2%80%9D%E5%A4%AD%E6%8A%98%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子偷渡缅甸搞诈骗 因不会打字被拒](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%B7%E6%B8%A1%E7%BC%85%E7%94%B8%E6%90%9E%E8%AF%88%E9%AA%97+%E5%9B%A0%E4%B8%8D%E4%BC%9A%E6%89%93%E5%AD%97%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子偷渡缅甸搞诈骗 因不会打字被拒](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%B7%E6%B8%A1%E7%BC%85%E7%94%B8%E6%90%9E%E8%AF%88%E9%AA%97+%E5%9B%A0%E4%B8%8D%E4%BC%9A%E6%89%93%E5%AD%97%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [取已故亲人存款遭拒 法院判了](https://www.baidu.com/s?wd=%E5%8F%96%E5%B7%B2%E6%95%85%E4%BA%B2%E4%BA%BA%E5%AD%98%E6%AC%BE%E9%81%AD%E6%8B%92+%E6%B3%95%E9%99%A2%E5%88%A4%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [特斯拉：已在中国建立数据中心](https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%EF%BC%9A%E5%B7%B2%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%BB%BA%E7%AB%8B%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [中秋国庆可拼17天长假](https://www.baidu.com/s?wd=%E4%B8%AD%E7%A7%8B%E5%9B%BD%E5%BA%86%E5%8F%AF%E6%8B%BC17%E5%A4%A9%E9%95%BF%E5%81%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [张艺兴演唱会舞蹈动作引争议](https://www.baidu.com/s?wd=%E5%BC%A0%E8%89%BA%E5%85%B4%E6%BC%94%E5%94%B1%E4%BC%9A%E8%88%9E%E8%B9%88%E5%8A%A8%E4%BD%9C%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [超级富豪“笼斗约架”夭折？](https://www.baidu.com/s?wd=%E8%B6%85%E7%BA%A7%E5%AF%8C%E8%B1%AA%E2%80%9C%E7%AC%BC%E6%96%97%E7%BA%A6%E6%9E%B6%E2%80%9D%E5%A4%AD%E6%8A%98%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子偷渡缅甸搞诈骗 因不会打字被拒](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%B7%E6%B8%A1%E7%BC%85%E7%94%B8%E6%90%9E%E8%AF%88%E9%AA%97+%E5%9B%A0%E4%B8%8D%E4%BC%9A%E6%89%93%E5%AD%97%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子偷渡缅甸搞诈骗 因不会打字被拒](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%B7%E6%B8%A1%E7%BC%85%E7%94%B8%E6%90%9E%E8%AF%88%E9%AA%97+%E5%9B%A0%E4%B8%8D%E4%BC%9A%E6%89%93%E5%AD%97%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [取已故亲人存款遭拒 法院判了](https://www.baidu.com/s?wd=%E5%8F%96%E5%B7%B2%E6%95%85%E4%BA%B2%E4%BA%BA%E5%AD%98%E6%AC%BE%E9%81%AD%E6%8B%92+%E6%B3%95%E9%99%A2%E5%88%A4%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
