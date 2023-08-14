@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-14 19:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-14 19:42:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [张晚意邓为你们不要再吵了](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%99%9A%E6%84%8F%E9%82%93%E4%B8%BA%E4%BD%A0%E4%BB%AC%E4%B8%8D%E8%A6%81%E5%86%8D%E5%90%B5%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [男子球场晕倒4名打球医生合力抢救](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%90%83%E5%9C%BA%E6%99%95%E5%80%924%E5%90%8D%E6%89%93%E7%90%83%E5%8C%BB%E7%94%9F%E5%90%88%E5%8A%9B%E6%8A%A2%E6%95%91%23&t=31&band_rank=7&Refer=top)<br />
 8. [刘涛一次性发了36张图](https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B6%9B%E4%B8%80%E6%AC%A1%E6%80%A7%E5%8F%91%E4%BA%8636%E5%BC%A0%E5%9B%BE%23&t=31&band_rank=8&Refer=top)<br />
-9. [高一男生花光39万积蓄打赏主播](https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%B8%80%E7%94%B7%E7%94%9F%E8%8A%B1%E5%85%8939%E4%B8%87%E7%A7%AF%E8%93%84%E6%89%93%E8%B5%8F%E4%B8%BB%E6%92%AD%23&t=31&band_rank=9&Refer=top)<br />
+9. [刘敏涛被王一博送的炖牛肉打动](https://s.weibo.com/weibo?q=%23%E5%88%98%E6%95%8F%E6%B6%9B%E8%A2%AB%E7%8E%8B%E4%B8%80%E5%8D%9A%E9%80%81%E7%9A%84%E7%82%96%E7%89%9B%E8%82%89%E6%89%93%E5%8A%A8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
