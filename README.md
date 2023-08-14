@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-14 13:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-14 13:30:02</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [魏大勋耳骨夹](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E8%80%B3%E9%AA%A8%E5%A4%B9%23&t=31&band_rank=4&Refer=top)<br />
 5. [当你被缅甸语专业录取](https://s.weibo.com/weibo?q=%E5%BD%93%E4%BD%A0%E8%A2%AB%E7%BC%85%E7%94%B8%E8%AF%AD%E4%B8%93%E4%B8%9A%E5%BD%95%E5%8F%96&t=31&band_rank=5&Refer=top)<br />
 6. [EXO来见中国爱丽了](https://s.weibo.com/weibo?q=%23EXO%E6%9D%A5%E8%A7%81%E4%B8%AD%E5%9B%BD%E7%88%B1%E4%B8%BD%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [张碧晨也去看了张艺兴演唱会](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%A2%A7%E6%99%A8%E4%B9%9F%E5%8E%BB%E7%9C%8B%E4%BA%86%E5%BC%A0%E8%89%BA%E5%85%B4%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=7&Refer=top)<br />
-8. [长相思第二季](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D%E7%AC%AC%E4%BA%8C%E5%AD%A3&t=31&band_rank=8&Refer=top)<br />
-9. [仅4%受访年轻人几乎不熬夜](https://s.weibo.com/weibo?q=%23%E4%BB%854%25%E5%8F%97%E8%AE%BF%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%87%A0%E4%B9%8E%E4%B8%8D%E7%86%AC%E5%A4%9C%23&t=31&band_rank=9&Refer=top)<br />
+7. [长相思第二季](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D%E7%AC%AC%E4%BA%8C%E5%AD%A3&t=31&band_rank=7&Refer=top)<br />
+8. [张碧晨也去看了张艺兴演唱会](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%A2%A7%E6%99%A8%E4%B9%9F%E5%8E%BB%E7%9C%8B%E4%BA%86%E5%BC%A0%E8%89%BA%E5%85%B4%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=8&Refer=top)<br />
+9. [长相思全员晒重逢请帖](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D%E5%85%A8%E5%91%98%E6%99%92%E9%87%8D%E9%80%A2%E8%AF%B7%E5%B8%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
