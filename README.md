@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-14 17:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-14 17:41:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [医院书记被举报：情妇专揽医院工程](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E4%B9%A6%E8%AE%B0%E8%A2%AB%E4%B8%BE%E6%8A%A5%EF%BC%9A%E6%83%85%E5%A6%87%E4%B8%93%E6%8F%BD%E5%8C%BB%E9%99%A2%E5%B7%A5%E7%A8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [国务院发布6方面24条政策措施](https://www.baidu.com/s?wd=%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%8F%91%E5%B8%836%E6%96%B9%E9%9D%A224%E6%9D%A1%E6%94%BF%E7%AD%96%E6%8E%AA%E6%96%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [航拍对比夏威夷毛伊岛火灾前后](https://www.baidu.com/s?wd=%E8%88%AA%E6%8B%8D%E5%AF%B9%E6%AF%94%E5%A4%8F%E5%A8%81%E5%A4%B7%E6%AF%9B%E4%BC%8A%E5%B2%9B%E7%81%AB%E7%81%BE%E5%89%8D%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [东航回应航班因充电宝冒烟备降](https://www.baidu.com/s?wd=%E4%B8%9C%E8%88%AA%E5%9B%9E%E5%BA%94%E8%88%AA%E7%8F%AD%E5%9B%A0%E5%85%85%E7%94%B5%E5%AE%9D%E5%86%92%E7%83%9F%E5%A4%87%E9%99%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子赴美国见男网友失联 家属回应](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%B5%B4%E7%BE%8E%E5%9B%BD%E8%A7%81%E7%94%B7%E7%BD%91%E5%8F%8B%E5%A4%B1%E8%81%94+%E5%AE%B6%E5%B1%9E%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子偷渡缅甸搞诈骗 因不会打字被拒](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%B7%E6%B8%A1%E7%BC%85%E7%94%B8%E6%90%9E%E8%AF%88%E9%AA%97+%E5%9B%A0%E4%B8%8D%E4%BC%9A%E6%89%93%E5%AD%97%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [癌症在我国已经熬成慢性病](https://www.baidu.com/s?wd=%E7%99%8C%E7%97%87%E5%9C%A8%E6%88%91%E5%9B%BD%E5%B7%B2%E7%BB%8F%E7%86%AC%E6%88%90%E6%85%A2%E6%80%A7%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子偷渡缅甸搞诈骗 因不会打字被拒](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%B7%E6%B8%A1%E7%BC%85%E7%94%B8%E6%90%9E%E8%AF%88%E9%AA%97+%E5%9B%A0%E4%B8%8D%E4%BC%9A%E6%89%93%E5%AD%97%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [未经配偶同意炒股亏损属重大过错](https://www.baidu.com/s?wd=%E6%9C%AA%E7%BB%8F%E9%85%8D%E5%81%B6%E5%90%8C%E6%84%8F%E7%82%92%E8%82%A1%E4%BA%8F%E6%8D%9F%E5%B1%9E%E9%87%8D%E5%A4%A7%E8%BF%87%E9%94%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [考生被缅甸语专业录取？高校回应](https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%E8%A2%AB%E7%BC%85%E7%94%B8%E8%AF%AD%E4%B8%93%E4%B8%9A%E5%BD%95%E5%8F%96%EF%BC%9F%E9%AB%98%E6%A0%A1%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [医院书记被举报：情妇专揽医院工程](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E4%B9%A6%E8%AE%B0%E8%A2%AB%E4%B8%BE%E6%8A%A5%EF%BC%9A%E6%83%85%E5%A6%87%E4%B8%93%E6%8F%BD%E5%8C%BB%E9%99%A2%E5%B7%A5%E7%A8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [国务院发布6方面24条政策措施](https://www.baidu.com/s?wd=%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%8F%91%E5%B8%836%E6%96%B9%E9%9D%A224%E6%9D%A1%E6%94%BF%E7%AD%96%E6%8E%AA%E6%96%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [航拍对比夏威夷毛伊岛火灾前后](https://www.baidu.com/s?wd=%E8%88%AA%E6%8B%8D%E5%AF%B9%E6%AF%94%E5%A4%8F%E5%A8%81%E5%A4%B7%E6%AF%9B%E4%BC%8A%E5%B2%9B%E7%81%AB%E7%81%BE%E5%89%8D%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [东航回应航班因充电宝冒烟备降](https://www.baidu.com/s?wd=%E4%B8%9C%E8%88%AA%E5%9B%9E%E5%BA%94%E8%88%AA%E7%8F%AD%E5%9B%A0%E5%85%85%E7%94%B5%E5%AE%9D%E5%86%92%E7%83%9F%E5%A4%87%E9%99%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子赴美国见男网友失联 家属回应](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%B5%B4%E7%BE%8E%E5%9B%BD%E8%A7%81%E7%94%B7%E7%BD%91%E5%8F%8B%E5%A4%B1%E8%81%94+%E5%AE%B6%E5%B1%9E%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子偷渡缅甸搞诈骗 因不会打字被拒](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%B7%E6%B8%A1%E7%BC%85%E7%94%B8%E6%90%9E%E8%AF%88%E9%AA%97+%E5%9B%A0%E4%B8%8D%E4%BC%9A%E6%89%93%E5%AD%97%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [癌症在我国已经熬成慢性病](https://www.baidu.com/s?wd=%E7%99%8C%E7%97%87%E5%9C%A8%E6%88%91%E5%9B%BD%E5%B7%B2%E7%BB%8F%E7%86%AC%E6%88%90%E6%85%A2%E6%80%A7%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子偷渡缅甸搞诈骗 因不会打字被拒](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%B7%E6%B8%A1%E7%BC%85%E7%94%B8%E6%90%9E%E8%AF%88%E9%AA%97+%E5%9B%A0%E4%B8%8D%E4%BC%9A%E6%89%93%E5%AD%97%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [未经配偶同意炒股亏损属重大过错](https://www.baidu.com/s?wd=%E6%9C%AA%E7%BB%8F%E9%85%8D%E5%81%B6%E5%90%8C%E6%84%8F%E7%82%92%E8%82%A1%E4%BA%8F%E6%8D%9F%E5%B1%9E%E9%87%8D%E5%A4%A7%E8%BF%87%E9%94%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [考生被缅甸语专业录取？高校回应](https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%E8%A2%AB%E7%BC%85%E7%94%B8%E8%AF%AD%E4%B8%93%E4%B8%9A%E5%BD%95%E5%8F%96%EF%BC%9F%E9%AB%98%E6%A0%A1%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
