@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-14 16:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-14 16:17:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [有医院院长收受100套房](https://s.weibo.com/weibo?q=%23%E6%9C%89%E5%8C%BB%E9%99%A2%E9%99%A2%E9%95%BF%E6%94%B6%E5%8F%97100%E5%A5%97%E6%88%BF%23&t=31&band_rank=6&Refer=top)<br />
 7. [为什么钱叫米](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E9%92%B1%E5%8F%AB%E7%B1%B3%23&t=31&band_rank=7&Refer=top)<br />
 8. [莲花楼要散架了](https://s.weibo.com/weibo?q=%23%E8%8E%B2%E8%8A%B1%E6%A5%BC%E8%A6%81%E6%95%A3%E6%9E%B6%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [封神剧组 一群人同行的青春](https://s.weibo.com/weibo?q=%E5%B0%81%E7%A5%9E%E5%89%A7%E7%BB%84%20%E4%B8%80%E7%BE%A4%E4%BA%BA%E5%90%8C%E8%A1%8C%E7%9A%84%E9%9D%92%E6%98%A5&t=31&band_rank=9&Refer=top)<br />
+9. [雷军建议不要给年轻人建议](https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%BB%BA%E8%AE%AE%E4%B8%8D%E8%A6%81%E7%BB%99%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BB%BA%E8%AE%AE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
