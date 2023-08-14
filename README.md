@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-14 17:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-14 17:20:01</h4></div>
 
 > 微博  
 
 1. [癌症在我国已经熬成慢性病](https://s.weibo.com/weibo?q=%23%E7%99%8C%E7%97%87%E5%9C%A8%E6%88%91%E5%9B%BD%E5%B7%B2%E7%BB%8F%E7%86%AC%E6%88%90%E6%85%A2%E6%80%A7%E7%97%85%23&t=31&band_rank=1&Refer=top)<br />
 2. [小沈阳晒女儿与薛之谦合照](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%B2%88%E9%98%B3%E6%99%92%E5%A5%B3%E5%84%BF%E4%B8%8E%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%90%88%E7%85%A7%23&t=31&band_rank=2&Refer=top)<br />
 3. [子弟兵高温下抢通道路清除淤泥](https://s.weibo.com/weibo?q=%23%E5%AD%90%E5%BC%9F%E5%85%B5%E9%AB%98%E6%B8%A9%E4%B8%8B%E6%8A%A2%E9%80%9A%E9%81%93%E8%B7%AF%E6%B8%85%E9%99%A4%E6%B7%A4%E6%B3%A5%23&t=31&band_rank=3&Refer=top)<br />
-4. [冯绍峰的女主运](https://s.weibo.com/weibo?q=%23%E5%86%AF%E7%BB%8D%E5%B3%B0%E7%9A%84%E5%A5%B3%E4%B8%BB%E8%BF%90%23&t=31&band_rank=4&Refer=top)<br />
-5. [刘涛一次性发了36张图](https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B6%9B%E4%B8%80%E6%AC%A1%E6%80%A7%E5%8F%91%E4%BA%8636%E5%BC%A0%E5%9B%BE%23&t=31&band_rank=5&Refer=top)<br />
+4. [刘涛一次性发了36张图](https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B6%9B%E4%B8%80%E6%AC%A1%E6%80%A7%E5%8F%91%E4%BA%8636%E5%BC%A0%E5%9B%BE%23&t=31&band_rank=4&Refer=top)<br />
+5. [冯绍峰的女主运](https://s.weibo.com/weibo?q=%23%E5%86%AF%E7%BB%8D%E5%B3%B0%E7%9A%84%E5%A5%B3%E4%B8%BB%E8%BF%90%23&t=31&band_rank=5&Refer=top)<br />
 6. [叶童回应白发显老](https://s.weibo.com/weibo?q=%23%E5%8F%B6%E7%AB%A5%E5%9B%9E%E5%BA%94%E7%99%BD%E5%8F%91%E6%98%BE%E8%80%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [中国警察让孤注一掷导演不要害怕](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%AD%A6%E5%AF%9F%E8%AE%A9%E5%AD%A4%E6%B3%A8%E4%B8%80%E6%8E%B7%E5%AF%BC%E6%BC%94%E4%B8%8D%E8%A6%81%E5%AE%B3%E6%80%95%23&t=31&band_rank=7&Refer=top)<br />
 8. [游客称在黄山拍到神秘黄色动物](https://s.weibo.com/weibo?q=%23%E6%B8%B8%E5%AE%A2%E7%A7%B0%E5%9C%A8%E9%BB%84%E5%B1%B1%E6%8B%8D%E5%88%B0%E7%A5%9E%E7%A7%98%E9%BB%84%E8%89%B2%E5%8A%A8%E7%89%A9%23&t=31&band_rank=8&Refer=top)<br />
@@ -24,8 +24,8 @@
 5. [航拍对比夏威夷毛伊岛火灾前后](https://www.baidu.com/s?wd=%E8%88%AA%E6%8B%8D%E5%AF%B9%E6%AF%94%E5%A4%8F%E5%A8%81%E5%A4%B7%E6%AF%9B%E4%BC%8A%E5%B2%9B%E7%81%AB%E7%81%BE%E5%89%8D%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [癌症在我国已经熬成慢性病](https://www.baidu.com/s?wd=%E7%99%8C%E7%97%87%E5%9C%A8%E6%88%91%E5%9B%BD%E5%B7%B2%E7%BB%8F%E7%86%AC%E6%88%90%E6%85%A2%E6%80%A7%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [那些选择不交社保的年轻人](https://www.baidu.com/s?wd=%E9%82%A3%E4%BA%9B%E9%80%89%E6%8B%A9%E4%B8%8D%E4%BA%A4%E7%A4%BE%E4%BF%9D%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [未经配偶同意炒股亏损属重大过错](https://www.baidu.com/s?wd=%E6%9C%AA%E7%BB%8F%E9%85%8D%E5%81%B6%E5%90%8C%E6%84%8F%E7%82%92%E8%82%A1%E4%BA%8F%E6%8D%9F%E5%B1%9E%E9%87%8D%E5%A4%A7%E8%BF%87%E9%94%99&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [孤注一掷拍摄时遭国外电诈集团威胁](https://www.baidu.com/s?wd=%E5%AD%A4%E6%B3%A8%E4%B8%80%E6%8E%B7%E6%8B%8D%E6%91%84%E6%97%B6%E9%81%AD%E5%9B%BD%E5%A4%96%E7%94%B5%E8%AF%88%E9%9B%86%E5%9B%A2%E5%A8%81%E8%83%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子偷渡缅甸搞诈骗 因不会打字被拒](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%B7%E6%B8%A1%E7%BC%85%E7%94%B8%E6%90%9E%E8%AF%88%E9%AA%97+%E5%9B%A0%E4%B8%8D%E4%BC%9A%E6%89%93%E5%AD%97%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [未经配偶同意炒股亏损属重大过错](https://www.baidu.com/s?wd=%E6%9C%AA%E7%BB%8F%E9%85%8D%E5%81%B6%E5%90%8C%E6%84%8F%E7%82%92%E8%82%A1%E4%BA%8F%E6%8D%9F%E5%B1%9E%E9%87%8D%E5%A4%A7%E8%BF%87%E9%94%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [航拍对比夏威夷毛伊岛火灾前后](https://www.baidu.com/s?wd=%E8%88%AA%E6%8B%8D%E5%AF%B9%E6%AF%94%E5%A4%8F%E5%A8%81%E5%A4%B7%E6%AF%9B%E4%BC%8A%E5%B2%9B%E7%81%AB%E7%81%BE%E5%89%8D%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [癌症在我国已经熬成慢性病](https://www.baidu.com/s?wd=%E7%99%8C%E7%97%87%E5%9C%A8%E6%88%91%E5%9B%BD%E5%B7%B2%E7%BB%8F%E7%86%AC%E6%88%90%E6%85%A2%E6%80%A7%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [那些选择不交社保的年轻人](https://www.baidu.com/s?wd=%E9%82%A3%E4%BA%9B%E9%80%89%E6%8B%A9%E4%B8%8D%E4%BA%A4%E7%A4%BE%E4%BF%9D%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [未经配偶同意炒股亏损属重大过错](https://www.baidu.com/s?wd=%E6%9C%AA%E7%BB%8F%E9%85%8D%E5%81%B6%E5%90%8C%E6%84%8F%E7%82%92%E8%82%A1%E4%BA%8F%E6%8D%9F%E5%B1%9E%E9%87%8D%E5%A4%A7%E8%BF%87%E9%94%99&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [孤注一掷拍摄时遭国外电诈集团威胁](https://www.baidu.com/s?wd=%E5%AD%A4%E6%B3%A8%E4%B8%80%E6%8E%B7%E6%8B%8D%E6%91%84%E6%97%B6%E9%81%AD%E5%9B%BD%E5%A4%96%E7%94%B5%E8%AF%88%E9%9B%86%E5%9B%A2%E5%A8%81%E8%83%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子偷渡缅甸搞诈骗 因不会打字被拒](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%B7%E6%B8%A1%E7%BC%85%E7%94%B8%E6%90%9E%E8%AF%88%E9%AA%97+%E5%9B%A0%E4%B8%8D%E4%BC%9A%E6%89%93%E5%AD%97%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [未经配偶同意炒股亏损属重大过错](https://www.baidu.com/s?wd=%E6%9C%AA%E7%BB%8F%E9%85%8D%E5%81%B6%E5%90%8C%E6%84%8F%E7%82%92%E8%82%A1%E4%BA%8F%E6%8D%9F%E5%B1%9E%E9%87%8D%E5%A4%A7%E8%BF%87%E9%94%99&sa=fyb_news&rsv_dl=fyb_news)<br />
