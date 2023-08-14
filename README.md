@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-14 16:48:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-14 16:49:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [那些选择不交社保的年轻人](https://www.baidu.com/s?wd=%E9%82%A3%E4%BA%9B%E9%80%89%E6%8B%A9%E4%B8%8D%E4%BA%A4%E7%A4%BE%E4%BF%9D%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [于适回应票房过20亿表演龙吸水](https://www.baidu.com/s?wd=%E4%BA%8E%E9%80%82%E5%9B%9E%E5%BA%94%E7%A5%A8%E6%88%BF%E8%BF%8720%E4%BA%BF%E8%A1%A8%E6%BC%94%E9%BE%99%E5%90%B8%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [有医院收到数十亿退款？官方辟谣](https://www.baidu.com/s?wd=%E6%9C%89%E5%8C%BB%E9%99%A2%E6%94%B6%E5%88%B0%E6%95%B0%E5%8D%81%E4%BA%BF%E9%80%80%E6%AC%BE%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [取已故亲人存款遭拒 法院判了](https://www.baidu.com/s?wd=%E5%8F%96%E5%B7%B2%E6%95%85%E4%BA%B2%E4%BA%BA%E5%AD%98%E6%AC%BE%E9%81%AD%E6%8B%92+%E6%B3%95%E9%99%A2%E5%88%A4%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子吃菌产生驾车撞人幻觉后自首](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%90%83%E8%8F%8C%E4%BA%A7%E7%94%9F%E9%A9%BE%E8%BD%A6%E6%92%9E%E4%BA%BA%E5%B9%BB%E8%A7%89%E5%90%8E%E8%87%AA%E9%A6%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [那些选择不交社保的年轻人](https://www.baidu.com/s?wd=%E9%82%A3%E4%BA%9B%E9%80%89%E6%8B%A9%E4%B8%8D%E4%BA%A4%E7%A4%BE%E4%BF%9D%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [于适回应票房过20亿表演龙吸水](https://www.baidu.com/s?wd=%E4%BA%8E%E9%80%82%E5%9B%9E%E5%BA%94%E7%A5%A8%E6%88%BF%E8%BF%8720%E4%BA%BF%E8%A1%A8%E6%BC%94%E9%BE%99%E5%90%B8%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [有医院收到数十亿退款？官方辟谣](https://www.baidu.com/s?wd=%E6%9C%89%E5%8C%BB%E9%99%A2%E6%94%B6%E5%88%B0%E6%95%B0%E5%8D%81%E4%BA%BF%E9%80%80%E6%AC%BE%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [取已故亲人存款遭拒 法院判了](https://www.baidu.com/s?wd=%E5%8F%96%E5%B7%B2%E6%95%85%E4%BA%B2%E4%BA%BA%E5%AD%98%E6%AC%BE%E9%81%AD%E6%8B%92+%E6%B3%95%E9%99%A2%E5%88%A4%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子吃菌产生驾车撞人幻觉后自首](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%90%83%E8%8F%8C%E4%BA%A7%E7%94%9F%E9%A9%BE%E8%BD%A6%E6%92%9E%E4%BA%BA%E5%B9%BB%E8%A7%89%E5%90%8E%E8%87%AA%E9%A6%96&sa=fyb_news&rsv_dl=fyb_news)<br />
