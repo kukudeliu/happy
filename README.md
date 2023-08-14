@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-14 16:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-14 16:21:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [有医院院长收受100套房](https://s.weibo.com/weibo?q=%23%E6%9C%89%E5%8C%BB%E9%99%A2%E9%99%A2%E9%95%BF%E6%94%B6%E5%8F%97100%E5%A5%97%E6%88%BF%23&t=31&band_rank=5&Refer=top)<br />
 6. [莲花楼要散架了](https://s.weibo.com/weibo?q=%23%E8%8E%B2%E8%8A%B1%E6%A5%BC%E8%A6%81%E6%95%A3%E6%9E%B6%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [为什么钱叫米](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E9%92%B1%E5%8F%AB%E7%B1%B3%23&t=31&band_rank=7&Refer=top)<br />
-8. [洪水后战士们一家一家问能帮忙干什么](https://s.weibo.com/weibo?q=%23%E6%B4%AA%E6%B0%B4%E5%90%8E%E6%88%98%E5%A3%AB%E4%BB%AC%E4%B8%80%E5%AE%B6%E4%B8%80%E5%AE%B6%E9%97%AE%E8%83%BD%E5%B8%AE%E5%BF%99%E5%B9%B2%E4%BB%80%E4%B9%88%23&t=31&band_rank=8&Refer=top)<br />
-9. [游客称在黄山拍到神秘黄色动物](https://s.weibo.com/weibo?q=%23%E6%B8%B8%E5%AE%A2%E7%A7%B0%E5%9C%A8%E9%BB%84%E5%B1%B1%E6%8B%8D%E5%88%B0%E7%A5%9E%E7%A7%98%E9%BB%84%E8%89%B2%E5%8A%A8%E7%89%A9%23&t=31&band_rank=9&Refer=top)<br />
+8. [游客称在黄山拍到神秘黄色动物](https://s.weibo.com/weibo?q=%23%E6%B8%B8%E5%AE%A2%E7%A7%B0%E5%9C%A8%E9%BB%84%E5%B1%B1%E6%8B%8D%E5%88%B0%E7%A5%9E%E7%A7%98%E9%BB%84%E8%89%B2%E5%8A%A8%E7%89%A9%23&t=31&band_rank=8&Refer=top)<br />
+9. [真正导致医疗腐败的根源是什么](https://s.weibo.com/weibo?q=%E7%9C%9F%E6%AD%A3%E5%AF%BC%E8%87%B4%E5%8C%BB%E7%96%97%E8%85%90%E8%B4%A5%E7%9A%84%E6%A0%B9%E6%BA%90%E6%98%AF%E4%BB%80%E4%B9%88&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
