@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-15 10:58:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-15 10:59:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [湖北宜昌突发山体岩石崩塌致7死](https://www.baidu.com/s?wd=%E6%B9%96%E5%8C%97%E5%AE%9C%E6%98%8C%E7%AA%81%E5%8F%91%E5%B1%B1%E4%BD%93%E5%B2%A9%E7%9F%B3%E5%B4%A9%E5%A1%8C%E8%87%B47%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子接完诈骗电话卡里多出14万](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8E%A5%E5%AE%8C%E8%AF%88%E9%AA%97%E7%94%B5%E8%AF%9D%E5%8D%A1%E9%87%8C%E5%A4%9A%E5%87%BA14%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [日本投降签字仪式结束于9时18分](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%8A%95%E9%99%8D%E7%AD%BE%E5%AD%97%E4%BB%AA%E5%BC%8F%E7%BB%93%E6%9D%9F%E4%BA%8E9%E6%97%B618%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [夏威夷野火致近百人死 遗骸一碰就碎](https://www.baidu.com/s?wd=%E5%A4%8F%E5%A8%81%E5%A4%B7%E9%87%8E%E7%81%AB%E8%87%B4%E8%BF%91%E7%99%BE%E4%BA%BA%E6%AD%BB+%E9%81%97%E9%AA%B8%E4%B8%80%E7%A2%B0%E5%B0%B1%E7%A2%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [雷军分享大学经历称自己是社恐](https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%88%86%E4%BA%AB%E5%A4%A7%E5%AD%A6%E7%BB%8F%E5%8E%86%E7%A7%B0%E8%87%AA%E5%B7%B1%E6%98%AF%E7%A4%BE%E6%81%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [男子花150美元买狗结果是巴西老鼠](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%8A%B1150%E7%BE%8E%E5%85%83%E4%B9%B0%E7%8B%97%E7%BB%93%E6%9E%9C%E6%98%AF%E5%B7%B4%E8%A5%BF%E8%80%81%E9%BC%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [湖北宜昌突发山体岩石崩塌致7死](https://www.baidu.com/s?wd=%E6%B9%96%E5%8C%97%E5%AE%9C%E6%98%8C%E7%AA%81%E5%8F%91%E5%B1%B1%E4%BD%93%E5%B2%A9%E7%9F%B3%E5%B4%A9%E5%A1%8C%E8%87%B47%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子接完诈骗电话卡里多出14万](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8E%A5%E5%AE%8C%E8%AF%88%E9%AA%97%E7%94%B5%E8%AF%9D%E5%8D%A1%E9%87%8C%E5%A4%9A%E5%87%BA14%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [日本投降签字仪式结束于9时18分](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%8A%95%E9%99%8D%E7%AD%BE%E5%AD%97%E4%BB%AA%E5%BC%8F%E7%BB%93%E6%9D%9F%E4%BA%8E9%E6%97%B618%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [夏威夷野火致近百人死 遗骸一碰就碎](https://www.baidu.com/s?wd=%E5%A4%8F%E5%A8%81%E5%A4%B7%E9%87%8E%E7%81%AB%E8%87%B4%E8%BF%91%E7%99%BE%E4%BA%BA%E6%AD%BB+%E9%81%97%E9%AA%B8%E4%B8%80%E7%A2%B0%E5%B0%B1%E7%A2%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [雷军分享大学经历称自己是社恐](https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%88%86%E4%BA%AB%E5%A4%A7%E5%AD%A6%E7%BB%8F%E5%8E%86%E7%A7%B0%E8%87%AA%E5%B7%B1%E6%98%AF%E7%A4%BE%E6%81%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [男子花150美元买狗结果是巴西老鼠](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%8A%B1150%E7%BE%8E%E5%85%83%E4%B9%B0%E7%8B%97%E7%BB%93%E6%9E%9C%E6%98%AF%E5%B7%B4%E8%A5%BF%E8%80%81%E9%BC%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
