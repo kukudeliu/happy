@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-15 17:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-15 17:36:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [四六级](https://s.weibo.com/weibo?q=%E5%9B%9B%E5%85%AD%E7%BA%A7&t=31&band_rank=5&Refer=top)<br />
 6. [银行卡内突然到账14.8万](https://s.weibo.com/weibo?q=%23%E9%93%B6%E8%A1%8C%E5%8D%A1%E5%86%85%E7%AA%81%E7%84%B6%E5%88%B0%E8%B4%A614.8%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [猎罪图鉴编剧谈退出第二季](https://s.weibo.com/weibo?q=%23%E7%8C%8E%E7%BD%AA%E5%9B%BE%E9%89%B4%E7%BC%96%E5%89%A7%E8%B0%88%E9%80%80%E5%87%BA%E7%AC%AC%E4%BA%8C%E5%AD%A3%23&t=31&band_rank=7&Refer=top)<br />
-8. [大脑为什么删除2岁前的记忆](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%84%91%E4%B8%BA%E4%BB%80%E4%B9%88%E5%88%A0%E9%99%A42%E5%B2%81%E5%89%8D%E7%9A%84%E8%AE%B0%E5%BF%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [刘若英西安演唱会 取消](https://s.weibo.com/weibo?q=%E5%88%98%E8%8B%A5%E8%8B%B1%E8%A5%BF%E5%AE%89%E6%BC%94%E5%94%B1%E4%BC%9A%20%E5%8F%96%E6%B6%88&t=31&band_rank=9&Refer=top)<br />
+8. [刘若英西安演唱会 取消](https://s.weibo.com/weibo?q=%E5%88%98%E8%8B%A5%E8%8B%B1%E8%A5%BF%E5%AE%89%E6%BC%94%E5%94%B1%E4%BC%9A%20%E5%8F%96%E6%B6%88&t=31&band_rank=8&Refer=top)<br />
+9. [大脑为什么删除2岁前的记忆](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%84%91%E4%B8%BA%E4%BB%80%E4%B9%88%E5%88%A0%E9%99%A42%E5%B2%81%E5%89%8D%E7%9A%84%E8%AE%B0%E5%BF%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
