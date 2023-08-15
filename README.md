@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-15 17:10:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-15 17:11:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [夏威夷大火约1300人失踪](https://www.baidu.com/s?wd=%E5%A4%8F%E5%A8%81%E5%A4%B7%E5%A4%A7%E7%81%AB%E7%BA%A61300%E4%BA%BA%E5%A4%B1%E8%B8%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [一英国人长期感染新冠导致腿变蓝](https://www.baidu.com/s?wd=%E4%B8%80%E8%8B%B1%E5%9B%BD%E4%BA%BA%E9%95%BF%E6%9C%9F%E6%84%9F%E6%9F%93%E6%96%B0%E5%86%A0%E5%AF%BC%E8%87%B4%E8%85%BF%E5%8F%98%E8%93%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [举报新东方网红直播带货翻车](https://www.baidu.com/s?wd=%E4%B8%BE%E6%8A%A5%E6%96%B0%E4%B8%9C%E6%96%B9%E7%BD%91%E7%BA%A2%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%E7%BF%BB%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [考公热下一些人辞掉体制内工作](https://www.baidu.com/s?wd=%E8%80%83%E5%85%AC%E7%83%AD%E4%B8%8B%E4%B8%80%E4%BA%9B%E4%BA%BA%E8%BE%9E%E6%8E%89%E4%BD%93%E5%88%B6%E5%86%85%E5%B7%A5%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [单亲妈妈起诉不孝儿子返还370万房款](https://www.baidu.com/s?wd=%E5%8D%95%E4%BA%B2%E5%A6%88%E5%A6%88%E8%B5%B7%E8%AF%89%E4%B8%8D%E5%AD%9D%E5%84%BF%E5%AD%90%E8%BF%94%E8%BF%98370%E4%B8%87%E6%88%BF%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [#暑期嗨学计划#](https://www.baidu.com/s?wd=%23%E6%9A%91%E6%9C%9F%E5%97%A8%E5%AD%A6%E8%AE%A1%E5%88%92%23&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [考公热下一些人辞掉体制内工作](https://www.baidu.com/s?wd=%E8%80%83%E5%85%AC%E7%83%AD%E4%B8%8B%E4%B8%80%E4%BA%9B%E4%BA%BA%E8%BE%9E%E6%8E%89%E4%BD%93%E5%88%B6%E5%86%85%E5%B7%A5%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [夏威夷大火约1300人失踪](https://www.baidu.com/s?wd=%E5%A4%8F%E5%A8%81%E5%A4%B7%E5%A4%A7%E7%81%AB%E7%BA%A61300%E4%BA%BA%E5%A4%B1%E8%B8%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [一英国人长期感染新冠导致腿变蓝](https://www.baidu.com/s?wd=%E4%B8%80%E8%8B%B1%E5%9B%BD%E4%BA%BA%E9%95%BF%E6%9C%9F%E6%84%9F%E6%9F%93%E6%96%B0%E5%86%A0%E5%AF%BC%E8%87%B4%E8%85%BF%E5%8F%98%E8%93%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [举报新东方网红直播带货翻车](https://www.baidu.com/s?wd=%E4%B8%BE%E6%8A%A5%E6%96%B0%E4%B8%9C%E6%96%B9%E7%BD%91%E7%BA%A2%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%E7%BF%BB%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [考公热下一些人辞掉体制内工作](https://www.baidu.com/s?wd=%E8%80%83%E5%85%AC%E7%83%AD%E4%B8%8B%E4%B8%80%E4%BA%9B%E4%BA%BA%E8%BE%9E%E6%8E%89%E4%BD%93%E5%88%B6%E5%86%85%E5%B7%A5%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [单亲妈妈起诉不孝儿子返还370万房款](https://www.baidu.com/s?wd=%E5%8D%95%E4%BA%B2%E5%A6%88%E5%A6%88%E8%B5%B7%E8%AF%89%E4%B8%8D%E5%AD%9D%E5%84%BF%E5%AD%90%E8%BF%94%E8%BF%98370%E4%B8%87%E6%88%BF%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [#暑期嗨学计划#](https://www.baidu.com/s?wd=%23%E6%9A%91%E6%9C%9F%E5%97%A8%E5%AD%A6%E8%AE%A1%E5%88%92%23&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [考公热下一些人辞掉体制内工作](https://www.baidu.com/s?wd=%E8%80%83%E5%85%AC%E7%83%AD%E4%B8%8B%E4%B8%80%E4%BA%9B%E4%BA%BA%E8%BE%9E%E6%8E%89%E4%BD%93%E5%88%B6%E5%86%85%E5%B7%A5%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
