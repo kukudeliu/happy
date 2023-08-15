@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-16 04:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-16 04:51:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [视觉中国创始人称是误会](https://s.weibo.com/weibo?q=%23%E8%A7%86%E8%A7%89%E4%B8%AD%E5%9B%BD%E5%88%9B%E5%A7%8B%E4%BA%BA%E7%A7%B0%E6%98%AF%E8%AF%AF%E4%BC%9A%23&t=31&band_rank=6&Refer=top)<br />
 7. [人不像周迅但精神状态像](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E4%B8%8D%E5%83%8F%E5%91%A8%E8%BF%85%E4%BD%86%E7%B2%BE%E7%A5%9E%E7%8A%B6%E6%80%81%E5%83%8F%23&t=31&band_rank=7&Refer=top)<br />
 8. [韩剧国民死刑投票](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%89%A7%E5%9B%BD%E6%B0%91%E6%AD%BB%E5%88%91%E6%8A%95%E7%A5%A8&t=31&band_rank=8&Refer=top)<br />
-9. [火树贴脸开大](https://s.weibo.com/weibo?q=%E7%81%AB%E6%A0%91%E8%B4%B4%E8%84%B8%E5%BC%80%E5%A4%A7&t=31&band_rank=9&Refer=top)<br />
+9. [请理解一下我不回消息的原因](https://s.weibo.com/weibo?q=%E8%AF%B7%E7%90%86%E8%A7%A3%E4%B8%80%E4%B8%8B%E6%88%91%E4%B8%8D%E5%9B%9E%E6%B6%88%E6%81%AF%E7%9A%84%E5%8E%9F%E5%9B%A0&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
