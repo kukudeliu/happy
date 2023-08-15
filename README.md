@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-15 10:15:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-15 10:16:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [王大陆发长文感恩孤注一掷剧组](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%A4%A7%E9%99%86%E5%8F%91%E9%95%BF%E6%96%87%E6%84%9F%E6%81%A9%E5%AD%A4%E6%B3%A8%E4%B8%80%E6%8E%B7%E5%89%A7%E7%BB%84%23&t=31&band_rank=6&Refer=top)<br />
 7. [女货车司机月入2万在车里住2年](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E8%B4%A7%E8%BD%A6%E5%8F%B8%E6%9C%BA%E6%9C%88%E5%85%A52%E4%B8%87%E5%9C%A8%E8%BD%A6%E9%87%8C%E4%BD%8F2%E5%B9%B4%23&t=31&band_rank=7&Refer=top)<br />
 8. [今天为3500万同胞发一条微博](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E4%B8%BA3500%E4%B8%87%E5%90%8C%E8%83%9E%E5%8F%91%E4%B8%80%E6%9D%A1%E5%BE%AE%E5%8D%9A%23&t=31&band_rank=8&Refer=top)<br />
-9. [弟弟中暑我妈给他做的绿豆汤](https://s.weibo.com/weibo?q=%23%E5%BC%9F%E5%BC%9F%E4%B8%AD%E6%9A%91%E6%88%91%E5%A6%88%E7%BB%99%E4%BB%96%E5%81%9A%E7%9A%84%E7%BB%BF%E8%B1%86%E6%B1%A4%23&t=31&band_rank=9&Refer=top)<br />
+9. [815](https://s.weibo.com/weibo?q=815&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
