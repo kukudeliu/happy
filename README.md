@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-16 01:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-16 01:12:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [怕孩子长大压力大父亲掐死双胞胎儿子](https://s.weibo.com/weibo?q=%23%E6%80%95%E5%AD%A9%E5%AD%90%E9%95%BF%E5%A4%A7%E5%8E%8B%E5%8A%9B%E5%A4%A7%E7%88%B6%E4%BA%B2%E6%8E%90%E6%AD%BB%E5%8F%8C%E8%83%9E%E8%83%8E%E5%84%BF%E5%AD%90%23&t=31&band_rank=6&Refer=top)<br />
 7. [杨玏 早知道不来了](https://s.weibo.com/weibo?q=%E6%9D%A8%E7%8E%8F%20%E6%97%A9%E7%9F%A5%E9%81%93%E4%B8%8D%E6%9D%A5%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [多所高校将延长研究生学制](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%89%80%E9%AB%98%E6%A0%A1%E5%B0%86%E5%BB%B6%E9%95%BF%E7%A0%94%E7%A9%B6%E7%94%9F%E5%AD%A6%E5%88%B6%23&t=31&band_rank=8&Refer=top)<br />
-9. [90后姑娘摆摊卖热卤一晚最多卖5000元](https://s.weibo.com/weibo?q=%2390%E5%90%8E%E5%A7%91%E5%A8%98%E6%91%86%E6%91%8A%E5%8D%96%E7%83%AD%E5%8D%A4%E4%B8%80%E6%99%9A%E6%9C%80%E5%A4%9A%E5%8D%965000%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
+9. [马立奥告别爸爸当家2](https://s.weibo.com/weibo?q=%E9%A9%AC%E7%AB%8B%E5%A5%A5%E5%91%8A%E5%88%AB%E7%88%B8%E7%88%B8%E5%BD%93%E5%AE%B62&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
