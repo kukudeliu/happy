@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-16 02:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-16 02:36:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [韩剧国民死刑投票](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%89%A7%E5%9B%BD%E6%B0%91%E6%AD%BB%E5%88%91%E6%8A%95%E7%A5%A8&t=31&band_rank=6&Refer=top)<br />
 7. [日媒曝福原爱或将面临国际通缉](https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%AA%92%E6%9B%9D%E7%A6%8F%E5%8E%9F%E7%88%B1%E6%88%96%E5%B0%86%E9%9D%A2%E4%B8%B4%E5%9B%BD%E9%99%85%E9%80%9A%E7%BC%89%23&t=31&band_rank=7&Refer=top)<br />
 8. [杨玏 早知道不来了](https://s.weibo.com/weibo?q=%E6%9D%A8%E7%8E%8F%20%E6%97%A9%E7%9F%A5%E9%81%93%E4%B8%8D%E6%9D%A5%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [多所高校将延长研究生学制](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%89%80%E9%AB%98%E6%A0%A1%E5%B0%86%E5%BB%B6%E9%95%BF%E7%A0%94%E7%A9%B6%E7%94%9F%E5%AD%A6%E5%88%B6%23&t=31&band_rank=9&Refer=top)<br />
+9. [王者荣耀](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
