@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-15 22:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-15 22:04:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [吐鲁番多名游客突然头发直立如刺猬](https://www.baidu.com/s?wd=%E5%90%90%E9%B2%81%E7%95%AA%E5%A4%9A%E5%90%8D%E6%B8%B8%E5%AE%A2%E7%AA%81%E7%84%B6%E5%A4%B4%E5%8F%91%E7%9B%B4%E7%AB%8B%E5%A6%82%E5%88%BA%E7%8C%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子称带3娃买4张票登机被拒](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E5%B8%A63%E5%A8%83%E4%B9%B04%E5%BC%A0%E7%A5%A8%E7%99%BB%E6%9C%BA%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [没认出这是朱亚文](https://www.baidu.com/s?wd=%E6%B2%A1%E8%AE%A4%E5%87%BA%E8%BF%99%E6%98%AF%E6%9C%B1%E4%BA%9A%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子戴玉镯10年关节变形成手铐](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%88%B4%E7%8E%89%E9%95%AF10%E5%B9%B4%E5%85%B3%E8%8A%82%E5%8F%98%E5%BD%A2%E6%88%90%E6%89%8B%E9%93%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [医药代表连夜删与医生聊天记录](https://www.baidu.com/s?wd=%E5%8C%BB%E8%8D%AF%E4%BB%A3%E8%A1%A8%E8%BF%9E%E5%A4%9C%E5%88%A0%E4%B8%8E%E5%8C%BB%E7%94%9F%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [自己拍的照片被视觉中国告侵权](https://www.baidu.com/s?wd=%E8%87%AA%E5%B7%B1%E6%8B%8D%E7%9A%84%E7%85%A7%E7%89%87%E8%A2%AB%E8%A7%86%E8%A7%89%E4%B8%AD%E5%9B%BD%E5%91%8A%E4%BE%B5%E6%9D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [吐鲁番多名游客突然头发直立如刺猬](https://www.baidu.com/s?wd=%E5%90%90%E9%B2%81%E7%95%AA%E5%A4%9A%E5%90%8D%E6%B8%B8%E5%AE%A2%E7%AA%81%E7%84%B6%E5%A4%B4%E5%8F%91%E7%9B%B4%E7%AB%8B%E5%A6%82%E5%88%BA%E7%8C%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子称带3娃买4张票登机被拒](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E5%B8%A63%E5%A8%83%E4%B9%B04%E5%BC%A0%E7%A5%A8%E7%99%BB%E6%9C%BA%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [没认出这是朱亚文](https://www.baidu.com/s?wd=%E6%B2%A1%E8%AE%A4%E5%87%BA%E8%BF%99%E6%98%AF%E6%9C%B1%E4%BA%9A%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子戴玉镯10年关节变形成手铐](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%88%B4%E7%8E%89%E9%95%AF10%E5%B9%B4%E5%85%B3%E8%8A%82%E5%8F%98%E5%BD%A2%E6%88%90%E6%89%8B%E9%93%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [医药代表连夜删与医生聊天记录](https://www.baidu.com/s?wd=%E5%8C%BB%E8%8D%AF%E4%BB%A3%E8%A1%A8%E8%BF%9E%E5%A4%9C%E5%88%A0%E4%B8%8E%E5%8C%BB%E7%94%9F%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [自己拍的照片被视觉中国告侵权](https://www.baidu.com/s?wd=%E8%87%AA%E5%B7%B1%E6%8B%8D%E7%9A%84%E7%85%A7%E7%89%87%E8%A2%AB%E8%A7%86%E8%A7%89%E4%B8%AD%E5%9B%BD%E5%91%8A%E4%BE%B5%E6%9D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
