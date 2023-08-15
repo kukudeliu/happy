@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-15 09:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-15 09:54:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [涂山璟和小夭分手 真哭了](https://s.weibo.com/weibo?q=%E6%B6%82%E5%B1%B1%E7%92%9F%E5%92%8C%E5%B0%8F%E5%A4%AD%E5%88%86%E6%89%8B%20%E7%9C%9F%E5%93%AD%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [弟弟中暑我妈给他做的绿豆汤](https://s.weibo.com/weibo?q=%23%E5%BC%9F%E5%BC%9F%E4%B8%AD%E6%9A%91%E6%88%91%E5%A6%88%E7%BB%99%E4%BB%96%E5%81%9A%E7%9A%84%E7%BB%BF%E8%B1%86%E6%B1%A4%23&t=31&band_rank=7&Refer=top)<br />
 8. [长相思相柳封神瞬间](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D%E7%9B%B8%E6%9F%B3%E5%B0%81%E7%A5%9E%E7%9E%AC%E9%97%B4&t=31&band_rank=8&Refer=top)<br />
-9. [唐嫣念无双妆造换了](https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E5%BF%B5%E6%97%A0%E5%8F%8C%E5%A6%86%E9%80%A0%E6%8D%A2%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [今天为3500万同胞发一条微博](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E4%B8%BA3500%E4%B8%87%E5%90%8C%E8%83%9E%E5%8F%91%E4%B8%80%E6%9D%A1%E5%BE%AE%E5%8D%9A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -25,7 +25,7 @@
 6. [广西上林突发山洪 游客慌忙逃离](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E4%B8%8A%E6%9E%97%E7%AA%81%E5%8F%91%E5%B1%B1%E6%B4%AA+%E6%B8%B8%E5%AE%A2%E6%85%8C%E5%BF%99%E9%80%83%E7%A6%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子列车上假装精神病阻止孩子吵闹](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%88%97%E8%BD%A6%E4%B8%8A%E5%81%87%E8%A3%85%E7%B2%BE%E7%A5%9E%E7%97%85%E9%98%BB%E6%AD%A2%E5%AD%A9%E5%AD%90%E5%90%B5%E9%97%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子花150美元买狗结果是巴西老鼠](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%8A%B1150%E7%BE%8E%E5%85%83%E4%B9%B0%E7%8B%97%E7%BB%93%E6%9E%9C%E6%98%AF%E5%B7%B4%E8%A5%BF%E8%80%81%E9%BC%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [湖北宜昌突发山体岩石崩塌致7死](https://www.baidu.com/s?wd=%E6%B9%96%E5%8C%97%E5%AE%9C%E6%98%8C%E7%AA%81%E5%8F%91%E5%B1%B1%E4%BD%93%E5%B2%A9%E7%9F%B3%E5%B4%A9%E5%A1%8C%E8%87%B47%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [媒体：别让“崩溃论”绑架医药反腐](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E5%88%AB%E8%AE%A9%E2%80%9C%E5%B4%A9%E6%BA%83%E8%AE%BA%E2%80%9D%E7%BB%91%E6%9E%B6%E5%8C%BB%E8%8D%AF%E5%8F%8D%E8%85%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [广西上林突发山洪 游客慌忙逃离](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E4%B8%8A%E6%9E%97%E7%AA%81%E5%8F%91%E5%B1%B1%E6%B4%AA+%E6%B8%B8%E5%AE%A2%E6%85%8C%E5%BF%99%E9%80%83%E7%A6%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子列车上假装精神病阻止孩子吵闹](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%88%97%E8%BD%A6%E4%B8%8A%E5%81%87%E8%A3%85%E7%B2%BE%E7%A5%9E%E7%97%85%E9%98%BB%E6%AD%A2%E5%AD%A9%E5%AD%90%E5%90%B5%E9%97%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子花150美元买狗结果是巴西老鼠](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%8A%B1150%E7%BE%8E%E5%85%83%E4%B9%B0%E7%8B%97%E7%BB%93%E6%9E%9C%E6%98%AF%E5%B7%B4%E8%A5%BF%E8%80%81%E9%BC%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [湖北宜昌突发山体岩石崩塌致7死](https://www.baidu.com/s?wd=%E6%B9%96%E5%8C%97%E5%AE%9C%E6%98%8C%E7%AA%81%E5%8F%91%E5%B1%B1%E4%BD%93%E5%B2%A9%E7%9F%B3%E5%B4%A9%E5%A1%8C%E8%87%B47%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [媒体：别让“崩溃论”绑架医药反腐](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E5%88%AB%E8%AE%A9%E2%80%9C%E5%B4%A9%E6%BA%83%E8%AE%BA%E2%80%9D%E7%BB%91%E6%9E%B6%E5%8C%BB%E8%8D%AF%E5%8F%8D%E8%85%90&sa=fyb_news&rsv_dl=fyb_news)<br />
