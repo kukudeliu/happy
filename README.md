@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-15 11:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-15 11:56:01</h4></div>
 
 > 微博  
 
 1. [大脑为什么删除2岁前的记忆](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%84%91%E4%B8%BA%E4%BB%80%E4%B9%88%E5%88%A0%E9%99%A42%E5%B2%81%E5%89%8D%E7%9A%84%E8%AE%B0%E5%BF%86%23&t=31&band_rank=1&Refer=top)<br />
 2. [张杰电话](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9D%B0%E7%94%B5%E8%AF%9D&t=31&band_rank=2&Refer=top)<br />
 3. [8K镜头带你看遍大美中国](https://s.weibo.com/weibo?q=%238K%E9%95%9C%E5%A4%B4%E5%B8%A6%E4%BD%A0%E7%9C%8B%E9%81%8D%E5%A4%A7%E7%BE%8E%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top)<br />
-4. [为什么全身脸部的皮肤最差](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%85%A8%E8%BA%AB%E8%84%B8%E9%83%A8%E7%9A%84%E7%9A%AE%E8%82%A4%E6%9C%80%E5%B7%AE%23&t=31&band_rank=4&Refer=top)<br />
-5. [目前大部分毕业生已经落实就业去向](https://s.weibo.com/weibo?q=%23%E7%9B%AE%E5%89%8D%E5%A4%A7%E9%83%A8%E5%88%86%E6%AF%95%E4%B8%9A%E7%94%9F%E5%B7%B2%E7%BB%8F%E8%90%BD%E5%AE%9E%E5%B0%B1%E4%B8%9A%E5%8E%BB%E5%90%91%23&t=31&band_rank=5&Refer=top)<br />
+4. [目前大部分毕业生已经落实就业去向](https://s.weibo.com/weibo?q=%23%E7%9B%AE%E5%89%8D%E5%A4%A7%E9%83%A8%E5%88%86%E6%AF%95%E4%B8%9A%E7%94%9F%E5%B7%B2%E7%BB%8F%E8%90%BD%E5%AE%9E%E5%B0%B1%E4%B8%9A%E5%8E%BB%E5%90%91%23&t=31&band_rank=4&Refer=top)<br />
+5. [为什么全身脸部的皮肤最差](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%85%A8%E8%BA%AB%E8%84%B8%E9%83%A8%E7%9A%84%E7%9A%AE%E8%82%A4%E6%9C%80%E5%B7%AE%23&t=31&band_rank=5&Refer=top)<br />
 6. [易烊千玺去看薛之谦演唱会](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%8E%BB%E7%9C%8B%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=6&Refer=top)<br />
 7. [缅甸](https://s.weibo.com/weibo?q=%E7%BC%85%E7%94%B8&t=31&band_rank=7&Refer=top)<br />
 8. [Doinb下跪道歉](https://s.weibo.com/weibo?q=%23Doinb%E4%B8%8B%E8%B7%AA%E9%81%93%E6%AD%89%23&t=31&band_rank=8&Refer=top)<br />
