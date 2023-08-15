@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-15 14:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-15 14:19:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [小夭一句嫂嫂创飞了两个人](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%A4%AD%E4%B8%80%E5%8F%A5%E5%AB%82%E5%AB%82%E5%88%9B%E9%A3%9E%E4%BA%86%E4%B8%A4%E4%B8%AA%E4%BA%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [做饭的坏习惯可能导致家庭癌](https://s.weibo.com/weibo?q=%E5%81%9A%E9%A5%AD%E7%9A%84%E5%9D%8F%E4%B9%A0%E6%83%AF%E5%8F%AF%E8%83%BD%E5%AF%BC%E8%87%B4%E5%AE%B6%E5%BA%AD%E7%99%8C&t=31&band_rank=7&Refer=top)<br />
 8. [张子枫志愿军吃土豆镜头](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%AD%90%E6%9E%AB%E5%BF%97%E6%84%BF%E5%86%9B%E5%90%83%E5%9C%9F%E8%B1%86%E9%95%9C%E5%A4%B4%23&t=31&band_rank=8&Refer=top)<br />
-9. [邓为只是比桐华更爱涂山璟罢了](https://s.weibo.com/weibo?q=%E9%82%93%E4%B8%BA%E5%8F%AA%E6%98%AF%E6%AF%94%E6%A1%90%E5%8D%8E%E6%9B%B4%E7%88%B1%E6%B6%82%E5%B1%B1%E7%92%9F%E7%BD%A2%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [中国总和生育率已跌至1.09](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%80%BB%E5%92%8C%E7%94%9F%E8%82%B2%E7%8E%87%E5%B7%B2%E8%B7%8C%E8%87%B31.09%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
