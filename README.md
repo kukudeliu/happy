@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-15 13:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-15 13:38:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [取已故丈夫190万银行存款遭拒](https://s.weibo.com/weibo?q=%23%E5%8F%96%E5%B7%B2%E6%95%85%E4%B8%88%E5%A4%AB190%E4%B8%87%E9%93%B6%E8%A1%8C%E5%AD%98%E6%AC%BE%E9%81%AD%E6%8B%92%23&t=31&band_rank=4&Refer=top)<br />
 5. [张子枫志愿军吃土豆镜头](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%AD%90%E6%9E%AB%E5%BF%97%E6%84%BF%E5%86%9B%E5%90%83%E5%9C%9F%E8%B1%86%E9%95%9C%E5%A4%B4%23&t=31&band_rank=5&Refer=top)<br />
 6. [尹锡悦父亲去世](https://s.weibo.com/weibo?q=%23%E5%B0%B9%E9%94%A1%E6%82%A6%E7%88%B6%E4%BA%B2%E5%8E%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
-7. [为什么高铁座位没有E](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E9%AB%98%E9%93%81%E5%BA%A7%E4%BD%8D%E6%B2%A1%E6%9C%89E&t=31&band_rank=7&Refer=top)<br />
-8. [邓为只是比桐华更爱涂山璟罢了](https://s.weibo.com/weibo?q=%E9%82%93%E4%B8%BA%E5%8F%AA%E6%98%AF%E6%AF%94%E6%A1%90%E5%8D%8E%E6%9B%B4%E7%88%B1%E6%B6%82%E5%B1%B1%E7%92%9F%E7%BD%A2%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
+7. [邓为只是比桐华更爱涂山璟罢了](https://s.weibo.com/weibo?q=%E9%82%93%E4%B8%BA%E5%8F%AA%E6%98%AF%E6%AF%94%E6%A1%90%E5%8D%8E%E6%9B%B4%E7%88%B1%E6%B6%82%E5%B1%B1%E7%92%9F%E7%BD%A2%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
+8. [为什么高铁座位没有E](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E9%AB%98%E9%93%81%E5%BA%A7%E4%BD%8D%E6%B2%A1%E6%9C%89E&t=31&band_rank=8&Refer=top)<br />
 9. [为什么全身脸部的皮肤最差](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%85%A8%E8%BA%AB%E8%84%B8%E9%83%A8%E7%9A%84%E7%9A%AE%E8%82%A4%E6%9C%80%E5%B7%AE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
