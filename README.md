@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-15 14:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-15 14:54:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [大脑为什么删除2岁前的记忆](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%84%91%E4%B8%BA%E4%BB%80%E4%B9%88%E5%88%A0%E9%99%A42%E5%B2%81%E5%89%8D%E7%9A%84%E8%AE%B0%E5%BF%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [播一部火一部的明星](https://s.weibo.com/weibo?q=%23%E6%92%AD%E4%B8%80%E9%83%A8%E7%81%AB%E4%B8%80%E9%83%A8%E7%9A%84%E6%98%8E%E6%98%9F%23&t=31&band_rank=7&Refer=top)<br />
 8. [李玟患乳腺癌仍坚持录完好声音](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E6%82%A3%E4%B9%B3%E8%85%BA%E7%99%8C%E4%BB%8D%E5%9D%9A%E6%8C%81%E5%BD%95%E5%AE%8C%E5%A5%BD%E5%A3%B0%E9%9F%B3%23&t=31&band_rank=8&Refer=top)<br />
-9. [小夭一句嫂嫂创飞了两个人](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%A4%AD%E4%B8%80%E5%8F%A5%E5%AB%82%E5%AB%82%E5%88%9B%E9%A3%9E%E4%BA%86%E4%B8%A4%E4%B8%AA%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
+9. [韩国又现恐吓邮件称炸毁首尔市政府](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%8F%88%E7%8E%B0%E6%81%90%E5%90%93%E9%82%AE%E4%BB%B6%E7%A7%B0%E7%82%B8%E6%AF%81%E9%A6%96%E5%B0%94%E5%B8%82%E6%94%BF%E5%BA%9C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
