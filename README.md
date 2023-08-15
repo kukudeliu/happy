@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-15 08:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-15 08:24:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [广西上林突发山洪 游客慌忙逃离](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E4%B8%8A%E6%9E%97%E7%AA%81%E5%8F%91%E5%B1%B1%E6%B4%AA+%E6%B8%B8%E5%AE%A2%E6%85%8C%E5%BF%99%E9%80%83%E7%A6%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [弟弟被拐41年后和哥哥手牵手回家](https://www.baidu.com/s?wd=%E5%BC%9F%E5%BC%9F%E8%A2%AB%E6%8B%9041%E5%B9%B4%E5%90%8E%E5%92%8C%E5%93%A5%E5%93%A5%E6%89%8B%E7%89%B5%E6%89%8B%E5%9B%9E%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [卫星地图看缅甸KK园区](https://www.baidu.com/s?wd=%E5%8D%AB%E6%98%9F%E5%9C%B0%E5%9B%BE%E7%9C%8B%E7%BC%85%E7%94%B8KK%E5%9B%AD%E5%8C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [洪灾后五常大米还好吗](https://www.baidu.com/s?wd=%E6%B4%AA%E7%81%BE%E5%90%8E%E4%BA%94%E5%B8%B8%E5%A4%A7%E7%B1%B3%E8%BF%98%E5%A5%BD%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [内蒙古报告3例鼠疫病例](https://www.baidu.com/s?wd=%E5%86%85%E8%92%99%E5%8F%A4%E6%8A%A5%E5%91%8A3%E4%BE%8B%E9%BC%A0%E7%96%AB%E7%97%85%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [广西上林突发山洪 游客慌忙逃离](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E4%B8%8A%E6%9E%97%E7%AA%81%E5%8F%91%E5%B1%B1%E6%B4%AA+%E6%B8%B8%E5%AE%A2%E6%85%8C%E5%BF%99%E9%80%83%E7%A6%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [弟弟被拐41年后和哥哥手牵手回家](https://www.baidu.com/s?wd=%E5%BC%9F%E5%BC%9F%E8%A2%AB%E6%8B%9041%E5%B9%B4%E5%90%8E%E5%92%8C%E5%93%A5%E5%93%A5%E6%89%8B%E7%89%B5%E6%89%8B%E5%9B%9E%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [卫星地图看缅甸KK园区](https://www.baidu.com/s?wd=%E5%8D%AB%E6%98%9F%E5%9C%B0%E5%9B%BE%E7%9C%8B%E7%BC%85%E7%94%B8KK%E5%9B%AD%E5%8C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [洪灾后五常大米还好吗](https://www.baidu.com/s?wd=%E6%B4%AA%E7%81%BE%E5%90%8E%E4%BA%94%E5%B8%B8%E5%A4%A7%E7%B1%B3%E8%BF%98%E5%A5%BD%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [内蒙古报告3例鼠疫病例](https://www.baidu.com/s?wd=%E5%86%85%E8%92%99%E5%8F%A4%E6%8A%A5%E5%91%8A3%E4%BE%8B%E9%BC%A0%E7%96%AB%E7%97%85%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
