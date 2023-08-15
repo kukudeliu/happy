@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-16 04:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-16 04:57:02</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [怕孩子长大压力大父亲掐死双胞胎儿子](https://s.weibo.com/weibo?q=%23%E6%80%95%E5%AD%A9%E5%AD%90%E9%95%BF%E5%A4%A7%E5%8E%8B%E5%8A%9B%E5%A4%A7%E7%88%B6%E4%BA%B2%E6%8E%90%E6%AD%BB%E5%8F%8C%E8%83%9E%E8%83%8E%E5%84%BF%E5%AD%90%23&t=31&band_rank=4&Refer=top)<br />
 5. [日媒曝福原爱或将面临国际通缉](https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%AA%92%E6%9B%9D%E7%A6%8F%E5%8E%9F%E7%88%B1%E6%88%96%E5%B0%86%E9%9D%A2%E4%B8%B4%E5%9B%BD%E9%99%85%E9%80%9A%E7%BC%89%23&t=31&band_rank=5&Refer=top)<br />
 6. [视觉中国创始人称是误会](https://s.weibo.com/weibo?q=%23%E8%A7%86%E8%A7%89%E4%B8%AD%E5%9B%BD%E5%88%9B%E5%A7%8B%E4%BA%BA%E7%A7%B0%E6%98%AF%E8%AF%AF%E4%BC%9A%23&t=31&band_rank=6&Refer=top)<br />
-7. [人不像周迅但精神状态像](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E4%B8%8D%E5%83%8F%E5%91%A8%E8%BF%85%E4%BD%86%E7%B2%BE%E7%A5%9E%E7%8A%B6%E6%80%81%E5%83%8F%23&t=31&band_rank=7&Refer=top)<br />
-8. [韩剧国民死刑投票](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%89%A7%E5%9B%BD%E6%B0%91%E6%AD%BB%E5%88%91%E6%8A%95%E7%A5%A8&t=31&band_rank=8&Refer=top)<br />
+7. [韩剧国民死刑投票](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%89%A7%E5%9B%BD%E6%B0%91%E6%AD%BB%E5%88%91%E6%8A%95%E7%A5%A8&t=31&band_rank=7&Refer=top)<br />
+8. [人不像周迅但精神状态像](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E4%B8%8D%E5%83%8F%E5%91%A8%E8%BF%85%E4%BD%86%E7%B2%BE%E7%A5%9E%E7%8A%B6%E6%80%81%E5%83%8F%23&t=31&band_rank=8&Refer=top)<br />
 9. [单亲妈妈卖房给儿子买婚房被拉黑](https://s.weibo.com/weibo?q=%23%E5%8D%95%E4%BA%B2%E5%A6%88%E5%A6%88%E5%8D%96%E6%88%BF%E7%BB%99%E5%84%BF%E5%AD%90%E4%B9%B0%E5%A9%9A%E6%88%BF%E8%A2%AB%E6%8B%89%E9%BB%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
