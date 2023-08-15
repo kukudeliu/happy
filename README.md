@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-15 15:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-15 15:33:02</h4></div>
 
 > 微博  
 
@@ -18,23 +18,23 @@
 > 百度  
 
 1. [绿水青山映初心](https://www.baidu.com/s?wd=%E7%BB%BF%E6%B0%B4%E9%9D%92%E5%B1%B1%E6%98%A0%E5%88%9D%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [阜外医院徐波受贿12亿？官方回应](https://www.baidu.com/s?wd=%E9%98%9C%E5%A4%96%E5%8C%BB%E9%99%A2%E5%BE%90%E6%B3%A2%E5%8F%97%E8%B4%BF12%E4%BA%BF%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [岸田向靖国神社供奉玉串料 中方回应](https://www.baidu.com/s?wd=%E5%B2%B8%E7%94%B0%E5%90%91%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE%E4%BE%9B%E5%A5%89%E7%8E%89%E4%B8%B2%E6%96%99+%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [夏威夷大火约1300人失踪](https://www.baidu.com/s?wd=%E5%A4%8F%E5%A8%81%E5%A4%B7%E5%A4%A7%E7%81%AB%E7%BA%A61300%E4%BA%BA%E5%A4%B1%E8%B8%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [九月，大学见！](https://www.baidu.com/s?wd=%E4%B9%9D%E6%9C%88%EF%BC%8C%E5%A4%A7%E5%AD%A6%E8%A7%81%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [官方：当前中国经济不存在通缩](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%EF%BC%9A%E5%BD%93%E5%89%8D%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E4%B8%8D%E5%AD%98%E5%9C%A8%E9%80%9A%E7%BC%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [退休干部招募敢死队密谋暴力行动](https://www.baidu.com/s?wd=%E9%80%80%E4%BC%91%E5%B9%B2%E9%83%A8%E6%8B%9B%E5%8B%9F%E6%95%A2%E6%AD%BB%E9%98%9F%E5%AF%86%E8%B0%8B%E6%9A%B4%E5%8A%9B%E8%A1%8C%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [景甜冯绍峰藏头诗互动](https://www.baidu.com/s?wd=%E6%99%AF%E7%94%9C%E5%86%AF%E7%BB%8D%E5%B3%B0%E8%97%8F%E5%A4%B4%E8%AF%97%E4%BA%92%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [新疆生产建设兵团党委王炳炬被查](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E7%94%9F%E4%BA%A7%E5%BB%BA%E8%AE%BE%E5%85%B5%E5%9B%A2%E5%85%9A%E5%A7%94%E7%8E%8B%E7%82%B3%E7%82%AC%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [张子枫志愿军吃土豆镜头](https://www.baidu.com/s?wd=%E5%BC%A0%E5%AD%90%E6%9E%AB%E5%BF%97%E6%84%BF%E5%86%9B%E5%90%83%E5%9C%9F%E8%B1%86%E9%95%9C%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [阜外医院徐波受贿12亿？官方回应](https://www.baidu.com/s?wd=%E9%98%9C%E5%A4%96%E5%8C%BB%E9%99%A2%E5%BE%90%E6%B3%A2%E5%8F%97%E8%B4%BF12%E4%BA%BF%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [新疆生产建设兵团党委王炳炬被查](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E7%94%9F%E4%BA%A7%E5%BB%BA%E8%AE%BE%E5%85%B5%E5%9B%A2%E5%85%9A%E5%A7%94%E7%8E%8B%E7%82%B3%E7%82%AC%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [绿水青山映初心](https://www.baidu.com/s?wd=%E7%BB%BF%E6%B0%B4%E9%9D%92%E5%B1%B1%E6%98%A0%E5%88%9D%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [阜外医院徐波受贿12亿？官方回应](https://www.baidu.com/s?wd=%E9%98%9C%E5%A4%96%E5%8C%BB%E9%99%A2%E5%BE%90%E6%B3%A2%E5%8F%97%E8%B4%BF12%E4%BA%BF%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [岸田向靖国神社供奉玉串料 中方回应](https://www.baidu.com/s?wd=%E5%B2%B8%E7%94%B0%E5%90%91%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE%E4%BE%9B%E5%A5%89%E7%8E%89%E4%B8%B2%E6%96%99+%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [夏威夷大火约1300人失踪](https://www.baidu.com/s?wd=%E5%A4%8F%E5%A8%81%E5%A4%B7%E5%A4%A7%E7%81%AB%E7%BA%A61300%E4%BA%BA%E5%A4%B1%E8%B8%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [九月，大学见！](https://www.baidu.com/s?wd=%E4%B9%9D%E6%9C%88%EF%BC%8C%E5%A4%A7%E5%AD%A6%E8%A7%81%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [官方：当前中国经济不存在通缩](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%EF%BC%9A%E5%BD%93%E5%89%8D%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E4%B8%8D%E5%AD%98%E5%9C%A8%E9%80%9A%E7%BC%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [退休干部招募敢死队密谋暴力行动](https://www.baidu.com/s?wd=%E9%80%80%E4%BC%91%E5%B9%B2%E9%83%A8%E6%8B%9B%E5%8B%9F%E6%95%A2%E6%AD%BB%E9%98%9F%E5%AF%86%E8%B0%8B%E6%9A%B4%E5%8A%9B%E8%A1%8C%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [景甜冯绍峰藏头诗互动](https://www.baidu.com/s?wd=%E6%99%AF%E7%94%9C%E5%86%AF%E7%BB%8D%E5%B3%B0%E8%97%8F%E5%A4%B4%E8%AF%97%E4%BA%92%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [新疆生产建设兵团党委王炳炬被查](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E7%94%9F%E4%BA%A7%E5%BB%BA%E8%AE%BE%E5%85%B5%E5%9B%A2%E5%85%9A%E5%A7%94%E7%8E%8B%E7%82%B3%E7%82%AC%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [张子枫志愿军吃土豆镜头](https://www.baidu.com/s?wd=%E5%BC%A0%E5%AD%90%E6%9E%AB%E5%BF%97%E6%84%BF%E5%86%9B%E5%90%83%E5%9C%9F%E8%B1%86%E9%95%9C%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [阜外医院徐波受贿12亿？官方回应](https://www.baidu.com/s?wd=%E9%98%9C%E5%A4%96%E5%8C%BB%E9%99%A2%E5%BE%90%E6%B3%A2%E5%8F%97%E8%B4%BF12%E4%BA%BF%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [新疆生产建设兵团党委王炳炬被查](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E7%94%9F%E4%BA%A7%E5%BB%BA%E8%AE%BE%E5%85%B5%E5%9B%A2%E5%85%9A%E5%A7%94%E7%8E%8B%E7%82%B3%E7%82%AC%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
