@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-15 18:55:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-15 18:56:01</h4></div>
 
 > 微博  
 
-1. [仅有14%的科室主任副主任年收入超过20万元](https://s.weibo.com/weibo?q=%23%E4%BB%85%E6%9C%8914%25%E7%9A%84%E7%A7%91%E5%AE%A4%E4%B8%BB%E4%BB%BB%E5%89%AF%E4%B8%BB%E4%BB%BB%E5%B9%B4%E6%94%B6%E5%85%A5%E8%B6%85%E8%BF%8720%E4%B8%87%E5%85%83%23&t=31&band_rank=1&Refer=top)<br />
+1. [女子戴玉镯10年关节变形成手铐](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%88%B4%E7%8E%89%E9%95%AF10%E5%B9%B4%E5%85%B3%E8%8A%82%E5%8F%98%E5%BD%A2%E6%88%90%E6%89%8B%E9%93%90%23&t=31&band_rank=1&Refer=top)<br />
 2. [妈妈将自己和龙凤胎用水枪印墙上](https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E5%B0%86%E8%87%AA%E5%B7%B1%E5%92%8C%E9%BE%99%E5%87%A4%E8%83%8E%E7%94%A8%E6%B0%B4%E6%9E%AA%E5%8D%B0%E5%A2%99%E4%B8%8A%23&t=31&band_rank=2&Refer=top)<br />
 3. [人类全程护送藏羚羊回家画面太暖了](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E7%B1%BB%E5%85%A8%E7%A8%8B%E6%8A%A4%E9%80%81%E8%97%8F%E7%BE%9A%E7%BE%8A%E5%9B%9E%E5%AE%B6%E7%94%BB%E9%9D%A2%E5%A4%AA%E6%9A%96%E4%BA%86%23&t=31&band_rank=3&Refer=top)<br />
-4. [女子戴玉镯10年关节变形成手铐](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%88%B4%E7%8E%89%E9%95%AF10%E5%B9%B4%E5%85%B3%E8%8A%82%E5%8F%98%E5%BD%A2%E6%88%90%E6%89%8B%E9%93%90%23&t=31&band_rank=4&Refer=top)<br />
+4. [仅有14%的科室主任副主任年收入超过20万元](https://s.weibo.com/weibo?q=%23%E4%BB%85%E6%9C%8914%25%E7%9A%84%E7%A7%91%E5%AE%A4%E4%B8%BB%E4%BB%BB%E5%89%AF%E4%B8%BB%E4%BB%BB%E5%B9%B4%E6%94%B6%E5%85%A5%E8%B6%85%E8%BF%8720%E4%B8%87%E5%85%83%23&t=31&band_rank=4&Refer=top)<br />
 5. [山东2元炒菜摊主回应走红](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C2%E5%85%83%E7%82%92%E8%8F%9C%E6%91%8A%E4%B8%BB%E5%9B%9E%E5%BA%94%E8%B5%B0%E7%BA%A2%23&t=31&band_rank=5&Refer=top)<br />
 6. [日媒曝福原爱或将面临国际通缉](https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%AA%92%E6%9B%9D%E7%A6%8F%E5%8E%9F%E7%88%B1%E6%88%96%E5%B0%86%E9%9D%A2%E4%B8%B4%E5%9B%BD%E9%99%85%E9%80%9A%E7%BC%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [儿子一把抱起出差回来的老爸转圈圈](https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E4%B8%80%E6%8A%8A%E6%8A%B1%E8%B5%B7%E5%87%BA%E5%B7%AE%E5%9B%9E%E6%9D%A5%E7%9A%84%E8%80%81%E7%88%B8%E8%BD%AC%E5%9C%88%E5%9C%88%23&t=31&band_rank=7&Refer=top)<br />
