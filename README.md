@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-16 16:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-16 16:55:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [摄影师不接受视觉中国的回应](https://www.baidu.com/s?wd=%E6%91%84%E5%BD%B1%E5%B8%88%E4%B8%8D%E6%8E%A5%E5%8F%97%E8%A7%86%E8%A7%89%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [罕见病患者喝过的桶装水被倒掉浇树](https://www.baidu.com/s?wd=%E7%BD%95%E8%A7%81%E7%97%85%E6%82%A3%E8%80%85%E5%96%9D%E8%BF%87%E7%9A%84%E6%A1%B6%E8%A3%85%E6%B0%B4%E8%A2%AB%E5%80%92%E6%8E%89%E6%B5%87%E6%A0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [美国男子公布前女友私照被判赔87亿](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E7%94%B7%E5%AD%90%E5%85%AC%E5%B8%83%E5%89%8D%E5%A5%B3%E5%8F%8B%E7%A7%81%E7%85%A7%E8%A2%AB%E5%88%A4%E8%B5%9487%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [大爷用打火机检查煤气罐遇爆燃](https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E7%94%A8%E6%89%93%E7%81%AB%E6%9C%BA%E6%A3%80%E6%9F%A5%E7%85%A4%E6%B0%94%E7%BD%90%E9%81%87%E7%88%86%E7%87%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [新疆生产建设兵团原副司令被逮捕](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E7%94%9F%E4%BA%A7%E5%BB%BA%E8%AE%BE%E5%85%B5%E5%9B%A2%E5%8E%9F%E5%89%AF%E5%8F%B8%E4%BB%A4%E8%A2%AB%E9%80%AE%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [摄影师不接受视觉中国的回应](https://www.baidu.com/s?wd=%E6%91%84%E5%BD%B1%E5%B8%88%E4%B8%8D%E6%8E%A5%E5%8F%97%E8%A7%86%E8%A7%89%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [罕见病患者喝过的桶装水被倒掉浇树](https://www.baidu.com/s?wd=%E7%BD%95%E8%A7%81%E7%97%85%E6%82%A3%E8%80%85%E5%96%9D%E8%BF%87%E7%9A%84%E6%A1%B6%E8%A3%85%E6%B0%B4%E8%A2%AB%E5%80%92%E6%8E%89%E6%B5%87%E6%A0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [美国男子公布前女友私照被判赔87亿](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E7%94%B7%E5%AD%90%E5%85%AC%E5%B8%83%E5%89%8D%E5%A5%B3%E5%8F%8B%E7%A7%81%E7%85%A7%E8%A2%AB%E5%88%A4%E8%B5%9487%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [大爷用打火机检查煤气罐遇爆燃](https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E7%94%A8%E6%89%93%E7%81%AB%E6%9C%BA%E6%A3%80%E6%9F%A5%E7%85%A4%E6%B0%94%E7%BD%90%E9%81%87%E7%88%86%E7%87%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [新疆生产建设兵团原副司令被逮捕](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E7%94%9F%E4%BA%A7%E5%BB%BA%E8%AE%BE%E5%85%B5%E5%9B%A2%E5%8E%9F%E5%89%AF%E5%8F%B8%E4%BB%A4%E8%A2%AB%E9%80%AE%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
