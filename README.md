@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-16 23:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-16 23:12:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [涂山璟奶奶的药给相柳喝吧](https://s.weibo.com/weibo?q=%23%E6%B6%82%E5%B1%B1%E7%92%9F%E5%A5%B6%E5%A5%B6%E7%9A%84%E8%8D%AF%E7%BB%99%E7%9B%B8%E6%9F%B3%E5%96%9D%E5%90%A7%23&t=31&band_rank=5&Refer=top)<br />
 6. [奶奶接法国来电10岁乖孙帮转账](https://s.weibo.com/weibo?q=%23%E5%A5%B6%E5%A5%B6%E6%8E%A5%E6%B3%95%E5%9B%BD%E6%9D%A5%E7%94%B510%E5%B2%81%E4%B9%96%E5%AD%99%E5%B8%AE%E8%BD%AC%E8%B4%A6%23&t=31&band_rank=6&Refer=top)<br />
 7. [涂山璟 什么都抓不住了](https://s.weibo.com/weibo?q=%E6%B6%82%E5%B1%B1%E7%92%9F%20%E4%BB%80%E4%B9%88%E9%83%BD%E6%8A%93%E4%B8%8D%E4%BD%8F%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
-8. [赵露思blingbling的](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9Dblingbling%E7%9A%84%23&t=31&band_rank=8&Refer=top)<br />
+8. [被严重低估的两部古装剧](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E4%B8%A5%E9%87%8D%E4%BD%8E%E4%BC%B0%E7%9A%84%E4%B8%A4%E9%83%A8%E5%8F%A4%E8%A3%85%E5%89%A7%23&t=31&band_rank=8&Refer=top)<br />
 9. [檀健次别唱了我自己哭](https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E5%88%AB%E5%94%B1%E4%BA%86%E6%88%91%E8%87%AA%E5%B7%B1%E5%93%AD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
