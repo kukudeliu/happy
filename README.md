@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-17 00:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-17 00:37:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [朋友圈快乐的内容消失了](https://s.weibo.com/weibo?q=%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%BF%AB%E4%B9%90%E7%9A%84%E5%86%85%E5%AE%B9%E6%B6%88%E5%A4%B1%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [奶奶接法国来电10岁乖孙帮转账](https://s.weibo.com/weibo?q=%23%E5%A5%B6%E5%A5%B6%E6%8E%A5%E6%B3%95%E5%9B%BD%E6%9D%A5%E7%94%B510%E5%B2%81%E4%B9%96%E5%AD%99%E5%B8%AE%E8%BD%AC%E8%B4%A6%23&t=31&band_rank=7&Refer=top)<br />
 8. [莲花楼第二季剧本有了](https://s.weibo.com/weibo?q=%23%E8%8E%B2%E8%8A%B1%E6%A5%BC%E7%AC%AC%E4%BA%8C%E5%AD%A3%E5%89%A7%E6%9C%AC%E6%9C%89%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [缅北失联20岁男生解救过程](https://s.weibo.com/weibo?q=%23%E7%BC%85%E5%8C%97%E5%A4%B1%E8%81%9420%E5%B2%81%E7%94%B7%E7%94%9F%E8%A7%A3%E6%95%91%E8%BF%87%E7%A8%8B%23&t=31&band_rank=9&Refer=top)<br />
+9. [被严重低估的两部古装剧](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E4%B8%A5%E9%87%8D%E4%BD%8E%E4%BC%B0%E7%9A%84%E4%B8%A4%E9%83%A8%E5%8F%A4%E8%A3%85%E5%89%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
