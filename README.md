@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-16 11:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-16 11:22:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [封神](https://s.weibo.com/weibo?q=%E5%B0%81%E7%A5%9E&t=31&band_rank=6&Refer=top)<br />
 7. [丰隆房子塌了](https://s.weibo.com/weibo?q=%23%E4%B8%B0%E9%9A%86%E6%88%BF%E5%AD%90%E5%A1%8C%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [去面试连对方的问题都听不太懂了](https://s.weibo.com/weibo?q=%E5%8E%BB%E9%9D%A2%E8%AF%95%E8%BF%9E%E5%AF%B9%E6%96%B9%E7%9A%84%E9%97%AE%E9%A2%98%E9%83%BD%E5%90%AC%E4%B8%8D%E5%A4%AA%E6%87%82%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [原神](https://s.weibo.com/weibo?q=%E5%8E%9F%E7%A5%9E&t=31&band_rank=9&Refer=top)<br />
+9. [现在距离2028年比2018年还近](https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E8%B7%9D%E7%A6%BB2028%E5%B9%B4%E6%AF%942018%E5%B9%B4%E8%BF%98%E8%BF%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
