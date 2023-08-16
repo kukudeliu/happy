@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-16 09:54:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-16 09:55:01</h4></div>
 
 > 微博  
 
@@ -19,7 +19,7 @@
 
 1. [万里河山如此多彩](https://www.baidu.com/s?wd=%E4%B8%87%E9%87%8C%E6%B2%B3%E5%B1%B1%E5%A6%82%E6%AD%A4%E5%A4%9A%E5%BD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [朝鲜首次就越界入朝美军士兵发声](https://www.baidu.com/s?wd=%E6%9C%9D%E9%B2%9C%E9%A6%96%E6%AC%A1%E5%B0%B1%E8%B6%8A%E7%95%8C%E5%85%A5%E6%9C%9D%E7%BE%8E%E5%86%9B%E5%A3%AB%E5%85%B5%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [在缅中企员工：不要妖魔化缅甸](https://www.baidu.com/s?wd=%E5%9C%A8%E7%BC%85%E4%B8%AD%E4%BC%81%E5%91%98%E5%B7%A5%EF%BC%9A%E4%B8%8D%E8%A6%81%E5%A6%96%E9%AD%94%E5%8C%96%E7%BC%85%E7%94%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [男子缅甸洗钱经历：被吊着暴打一夜](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%BC%85%E7%94%B8%E6%B4%97%E9%92%B1%E7%BB%8F%E5%8E%86%EF%BC%9A%E8%A2%AB%E5%90%8A%E7%9D%80%E6%9A%B4%E6%89%93%E4%B8%80%E5%A4%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [他们是暴雨中的逆行者](https://www.baidu.com/s?wd=%E4%BB%96%E4%BB%AC%E6%98%AF%E6%9A%B4%E9%9B%A8%E4%B8%AD%E7%9A%84%E9%80%86%E8%A1%8C%E8%80%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [哈登震惊于中国卖货速度](https://www.baidu.com/s?wd=%E5%93%88%E7%99%BB%E9%9C%87%E6%83%8A%E4%BA%8E%E4%B8%AD%E5%9B%BD%E5%8D%96%E8%B4%A7%E9%80%9F%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [医生能摊到阳光下的薪水有多少](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E8%83%BD%E6%91%8A%E5%88%B0%E9%98%B3%E5%85%89%E4%B8%8B%E7%9A%84%E8%96%AA%E6%B0%B4%E6%9C%89%E5%A4%9A%E5%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -31,7 +31,7 @@
 
 1. [万里河山如此多彩](https://www.baidu.com/s?wd=%E4%B8%87%E9%87%8C%E6%B2%B3%E5%B1%B1%E5%A6%82%E6%AD%A4%E5%A4%9A%E5%BD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [朝鲜首次就越界入朝美军士兵发声](https://www.baidu.com/s?wd=%E6%9C%9D%E9%B2%9C%E9%A6%96%E6%AC%A1%E5%B0%B1%E8%B6%8A%E7%95%8C%E5%85%A5%E6%9C%9D%E7%BE%8E%E5%86%9B%E5%A3%AB%E5%85%B5%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [在缅中企员工：不要妖魔化缅甸](https://www.baidu.com/s?wd=%E5%9C%A8%E7%BC%85%E4%B8%AD%E4%BC%81%E5%91%98%E5%B7%A5%EF%BC%9A%E4%B8%8D%E8%A6%81%E5%A6%96%E9%AD%94%E5%8C%96%E7%BC%85%E7%94%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [男子缅甸洗钱经历：被吊着暴打一夜](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%BC%85%E7%94%B8%E6%B4%97%E9%92%B1%E7%BB%8F%E5%8E%86%EF%BC%9A%E8%A2%AB%E5%90%8A%E7%9D%80%E6%9A%B4%E6%89%93%E4%B8%80%E5%A4%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [他们是暴雨中的逆行者](https://www.baidu.com/s?wd=%E4%BB%96%E4%BB%AC%E6%98%AF%E6%9A%B4%E9%9B%A8%E4%B8%AD%E7%9A%84%E9%80%86%E8%A1%8C%E8%80%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [哈登震惊于中国卖货速度](https://www.baidu.com/s?wd=%E5%93%88%E7%99%BB%E9%9C%87%E6%83%8A%E4%BA%8E%E4%B8%AD%E5%9B%BD%E5%8D%96%E8%B4%A7%E9%80%9F%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [医生能摊到阳光下的薪水有多少](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E8%83%BD%E6%91%8A%E5%88%B0%E9%98%B3%E5%85%89%E4%B8%8B%E7%9A%84%E8%96%AA%E6%B0%B4%E6%9C%89%E5%A4%9A%E5%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
