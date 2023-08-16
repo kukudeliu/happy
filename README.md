@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-17 05:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-17 05:19:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [涉诈嫌犯看孤注一掷时被抓](https://www.baidu.com/s?wd=%E6%B6%89%E8%AF%88%E5%AB%8C%E7%8A%AF%E7%9C%8B%E5%AD%A4%E6%B3%A8%E4%B8%80%E6%8E%B7%E6%97%B6%E8%A2%AB%E6%8A%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [广东佛山新冠EG.5逐渐占流行优势](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%BD%9B%E5%B1%B1%E6%96%B0%E5%86%A0EG.5%E9%80%90%E6%B8%90%E5%8D%A0%E6%B5%81%E8%A1%8C%E4%BC%98%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [内蒙古多车相撞发生爆燃 致2死5伤](https://www.baidu.com/s?wd=%E5%86%85%E8%92%99%E5%8F%A4%E5%A4%9A%E8%BD%A6%E7%9B%B8%E6%92%9E%E5%8F%91%E7%94%9F%E7%88%86%E7%87%83+%E8%87%B42%E6%AD%BB5%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [重庆一男子偷拍女生被市民控制](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E7%94%B7%E5%AD%90%E5%81%B7%E6%8B%8D%E5%A5%B3%E7%94%9F%E8%A2%AB%E5%B8%82%E6%B0%91%E6%8E%A7%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [400万医生能摊到阳光下的薪水有多少](https://www.baidu.com/s?wd=400%E4%B8%87%E5%8C%BB%E7%94%9F%E8%83%BD%E6%91%8A%E5%88%B0%E9%98%B3%E5%85%89%E4%B8%8B%E7%9A%84%E8%96%AA%E6%B0%B4%E6%9C%89%E5%A4%9A%E5%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [闫妮在刘畊宏直播间摆烂式跳操](https://www.baidu.com/s?wd=%E9%97%AB%E5%A6%AE%E5%9C%A8%E5%88%98%E7%95%8A%E5%AE%8F%E7%9B%B4%E6%92%AD%E9%97%B4%E6%91%86%E7%83%82%E5%BC%8F%E8%B7%B3%E6%93%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [涉诈嫌犯看孤注一掷时被抓](https://www.baidu.com/s?wd=%E6%B6%89%E8%AF%88%E5%AB%8C%E7%8A%AF%E7%9C%8B%E5%AD%A4%E6%B3%A8%E4%B8%80%E6%8E%B7%E6%97%B6%E8%A2%AB%E6%8A%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [广东佛山新冠EG.5逐渐占流行优势](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%BD%9B%E5%B1%B1%E6%96%B0%E5%86%A0EG.5%E9%80%90%E6%B8%90%E5%8D%A0%E6%B5%81%E8%A1%8C%E4%BC%98%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [内蒙古多车相撞发生爆燃 致2死5伤](https://www.baidu.com/s?wd=%E5%86%85%E8%92%99%E5%8F%A4%E5%A4%9A%E8%BD%A6%E7%9B%B8%E6%92%9E%E5%8F%91%E7%94%9F%E7%88%86%E7%87%83+%E8%87%B42%E6%AD%BB5%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [重庆一男子偷拍女生被市民控制](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E7%94%B7%E5%AD%90%E5%81%B7%E6%8B%8D%E5%A5%B3%E7%94%9F%E8%A2%AB%E5%B8%82%E6%B0%91%E6%8E%A7%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [400万医生能摊到阳光下的薪水有多少](https://www.baidu.com/s?wd=400%E4%B8%87%E5%8C%BB%E7%94%9F%E8%83%BD%E6%91%8A%E5%88%B0%E9%98%B3%E5%85%89%E4%B8%8B%E7%9A%84%E8%96%AA%E6%B0%B4%E6%9C%89%E5%A4%9A%E5%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [闫妮在刘畊宏直播间摆烂式跳操](https://www.baidu.com/s?wd=%E9%97%AB%E5%A6%AE%E5%9C%A8%E5%88%98%E7%95%8A%E5%AE%8F%E7%9B%B4%E6%92%AD%E9%97%B4%E6%91%86%E7%83%82%E5%BC%8F%E8%B7%B3%E6%93%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
