@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-16 20:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-16 20:17:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [tangoz曾因酒驾被当做典型案例](https://s.weibo.com/weibo?q=%23tangoz%E6%9B%BE%E5%9B%A0%E9%85%92%E9%A9%BE%E8%A2%AB%E5%BD%93%E5%81%9A%E5%85%B8%E5%9E%8B%E6%A1%88%E4%BE%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [成毅拇指外翻](https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E6%8B%87%E6%8C%87%E5%A4%96%E7%BF%BB%23&t=31&band_rank=7&Refer=top)<br />
 8. [女朋友给我留的一半葡萄](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%9C%8B%E5%8F%8B%E7%BB%99%E6%88%91%E7%95%99%E7%9A%84%E4%B8%80%E5%8D%8A%E8%91%A1%E8%90%84%23&t=31&band_rank=8&Refer=top)<br />
-9. [涂山家没有丑的](https://s.weibo.com/weibo?q=%23%E6%B6%82%E5%B1%B1%E5%AE%B6%E6%B2%A1%E6%9C%89%E4%B8%91%E7%9A%84%23&t=31&band_rank=9&Refer=top)<br />
+9. [BLACKPINK官宣首尔演唱会](https://s.weibo.com/weibo?q=%23BLACKPINK%E5%AE%98%E5%AE%A3%E9%A6%96%E5%B0%94%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
