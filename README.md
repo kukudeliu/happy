@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-16 10:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-16 10:33:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [中国国家天文吐槽视觉中国](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%AE%B6%E5%A4%A9%E6%96%87%E5%90%90%E6%A7%BD%E8%A7%86%E8%A7%89%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=6&Refer=top)<br />
 7. [去面试连对方的问题都听不太懂了](https://s.weibo.com/weibo?q=%E5%8E%BB%E9%9D%A2%E8%AF%95%E8%BF%9E%E5%AF%B9%E6%96%B9%E7%9A%84%E9%97%AE%E9%A2%98%E9%83%BD%E5%90%AC%E4%B8%8D%E5%A4%AA%E6%87%82%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [丰隆房子塌了](https://s.weibo.com/weibo?q=%23%E4%B8%B0%E9%9A%86%E6%88%BF%E5%AD%90%E5%A1%8C%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [女子称带3娃买4张票登机被拒](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%B0%E5%B8%A63%E5%A8%83%E4%B9%B04%E5%BC%A0%E7%A5%A8%E7%99%BB%E6%9C%BA%E8%A2%AB%E6%8B%92%23&t=31&band_rank=9&Refer=top)<br />
+9. [披荆斩棘第三季官宣](https://s.weibo.com/weibo?q=%23%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E7%AC%AC%E4%B8%89%E5%AD%A3%E5%AE%98%E5%AE%A3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
