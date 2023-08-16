@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-16 18:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-16 18:22:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [疑被贩卖缅北女大学生发声](https://s.weibo.com/weibo?q=%23%E7%96%91%E8%A2%AB%E8%B4%A9%E5%8D%96%E7%BC%85%E5%8C%97%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%8F%91%E5%A3%B0%23&t=31&band_rank=6&Refer=top)<br />
 7. [17岁男孩街边痛哭民警自黑式安慰](https://s.weibo.com/weibo?q=%2317%E5%B2%81%E7%94%B7%E5%AD%A9%E8%A1%97%E8%BE%B9%E7%97%9B%E5%93%AD%E6%B0%91%E8%AD%A6%E8%87%AA%E9%BB%91%E5%BC%8F%E5%AE%89%E6%85%B0%23&t=31&band_rank=7&Refer=top)<br />
 8. [当爸妈问为什么洗澡那么久](https://s.weibo.com/weibo?q=%23%E5%BD%93%E7%88%B8%E5%A6%88%E9%97%AE%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B4%97%E6%BE%A1%E9%82%A3%E4%B9%88%E4%B9%85%23&t=31&band_rank=8&Refer=top)<br />
-9. [杨幂是檀健次的伯乐](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E6%98%AF%E6%AA%80%E5%81%A5%E6%AC%A1%E7%9A%84%E4%BC%AF%E4%B9%90%23&t=31&band_rank=9&Refer=top)<br />
+9. [涂山家没有丑的](https://s.weibo.com/weibo?q=%23%E6%B6%82%E5%B1%B1%E5%AE%B6%E6%B2%A1%E6%9C%89%E4%B8%91%E7%9A%84%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
