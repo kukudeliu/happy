@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-16 16:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-16 16:20:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [警方正调查女大学生疑被贩卖](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E6%AD%A3%E8%B0%83%E6%9F%A5%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%96%91%E8%A2%AB%E8%B4%A9%E5%8D%96%23&t=31&band_rank=5&Refer=top)<br />
 6. [邓为商务价格比之前涨了快一半多](https://s.weibo.com/weibo?q=%23%E9%82%93%E4%B8%BA%E5%95%86%E5%8A%A1%E4%BB%B7%E6%A0%BC%E6%AF%94%E4%B9%8B%E5%89%8D%E6%B6%A8%E4%BA%86%E5%BF%AB%E4%B8%80%E5%8D%8A%E5%A4%9A%23&t=31&band_rank=6&Refer=top)<br />
 7. [黄晓明3分钟讲了392个字一条过](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E3%E5%88%86%E9%92%9F%E8%AE%B2%E4%BA%86392%E4%B8%AA%E5%AD%97%E4%B8%80%E6%9D%A1%E8%BF%87%23&t=31&band_rank=7&Refer=top)<br />
-8. [17岁男孩街边痛哭民警自黑式安慰](https://s.weibo.com/weibo?q=%2317%E5%B2%81%E7%94%B7%E5%AD%A9%E8%A1%97%E8%BE%B9%E7%97%9B%E5%93%AD%E6%B0%91%E8%AD%A6%E8%87%AA%E9%BB%91%E5%BC%8F%E5%AE%89%E6%85%B0%23&t=31&band_rank=8&Refer=top)<br />
-9. [长相思云合](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D%E4%BA%91%E5%90%88&t=31&band_rank=9&Refer=top)<br />
+8. [长相思云合](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D%E4%BA%91%E5%90%88&t=31&band_rank=8&Refer=top)<br />
+9. [17岁男孩街边痛哭民警自黑式安慰](https://s.weibo.com/weibo?q=%2317%E5%B2%81%E7%94%B7%E5%AD%A9%E8%A1%97%E8%BE%B9%E7%97%9B%E5%93%AD%E6%B0%91%E8%AD%A6%E8%87%AA%E9%BB%91%E5%BC%8F%E5%AE%89%E6%85%B0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
