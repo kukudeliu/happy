@@ -1,8 +1,8 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-16 15:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-16 15:38:01</h4></div>
 
 > 微博  
 
-1. [22岁女大学生疑被贩卖缅北](https://s.weibo.com/weibo?q=22%E5%B2%81%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%96%91%E8%A2%AB%E8%B4%A9%E5%8D%96%E7%BC%85%E5%8C%97&t=31&band_rank=1&Refer=top)<br />
+1. [22岁女大学生疑被贩卖缅北](https://s.weibo.com/weibo?q=%2322%E5%B2%81%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%96%91%E8%A2%AB%E8%B4%A9%E5%8D%96%E7%BC%85%E5%8C%97%23&t=31&band_rank=1&Refer=top)<br />
 2. [一个老光棍苦了70年捡了个宝](https://s.weibo.com/weibo?q=%E4%B8%80%E4%B8%AA%E8%80%81%E5%85%89%E6%A3%8D%E8%8B%A6%E4%BA%8670%E5%B9%B4%E6%8D%A1%E4%BA%86%E4%B8%AA%E5%AE%9D&t=31&band_rank=2&Refer=top)<br />
 3. [30秒看308米长江大桥主塔拔地而起](https://s.weibo.com/weibo?q=%2330%E7%A7%92%E7%9C%8B308%E7%B1%B3%E9%95%BF%E6%B1%9F%E5%A4%A7%E6%A1%A5%E4%B8%BB%E5%A1%94%E6%8B%94%E5%9C%B0%E8%80%8C%E8%B5%B7%23&t=31&band_rank=3&Refer=top)<br />
 4. [青岛音乐节取消](https://s.weibo.com/weibo?q=%E9%9D%92%E5%B2%9B%E9%9F%B3%E4%B9%90%E8%8A%82%E5%8F%96%E6%B6%88&t=31&band_rank=4&Refer=top)<br />
