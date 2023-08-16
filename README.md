@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-16 11:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-16 11:43:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [视觉中国市值蒸发超3亿](https://s.weibo.com/weibo?q=%23%E8%A7%86%E8%A7%89%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91%E8%B6%853%E4%BA%BF%23&t=31&band_rank=6&Refer=top)<br />
 7. [中国国家天文吐槽视觉中国](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%AE%B6%E5%A4%A9%E6%96%87%E5%90%90%E6%A7%BD%E8%A7%86%E8%A7%89%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=7&Refer=top)<br />
 8. [缅甸失联20岁男生已找到父亲发声](https://s.weibo.com/weibo?q=%23%E7%BC%85%E7%94%B8%E5%A4%B1%E8%81%9420%E5%B2%81%E7%94%B7%E7%94%9F%E5%B7%B2%E6%89%BE%E5%88%B0%E7%88%B6%E4%BA%B2%E5%8F%91%E5%A3%B0%23&t=31&band_rank=8&Refer=top)<br />
-9. [封神](https://s.weibo.com/weibo?q=%E5%B0%81%E7%A5%9E&t=31&band_rank=9&Refer=top)<br />
+9. [丰隆房子塌了](https://s.weibo.com/weibo?q=%23%E4%B8%B0%E9%9A%86%E6%88%BF%E5%AD%90%E5%A1%8C%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
