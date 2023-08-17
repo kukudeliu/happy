@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 06:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 06:15:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [中国好声音声明](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E5%A3%B0%E6%98%8E%23&t=31&band_rank=6&Refer=top)<br />
 7. [衡水中学校长称已注意到网红要打衡中](https://s.weibo.com/weibo?q=%23%E8%A1%A1%E6%B0%B4%E4%B8%AD%E5%AD%A6%E6%A0%A1%E9%95%BF%E7%A7%B0%E5%B7%B2%E6%B3%A8%E6%84%8F%E5%88%B0%E7%BD%91%E7%BA%A2%E8%A6%81%E6%89%93%E8%A1%A1%E4%B8%AD%23&t=31&band_rank=7&Refer=top)<br />
 8. [海底捞在家有儿女里出现也不奇怪](https://s.weibo.com/weibo?q=%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%9C%A8%E5%AE%B6%E6%9C%89%E5%84%BF%E5%A5%B3%E9%87%8C%E5%87%BA%E7%8E%B0%E4%B9%9F%E4%B8%8D%E5%A5%87%E6%80%AA&t=31&band_rank=8&Refer=top)<br />
-9. [丫丫学会了萌兰的竹子打包技术](https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E5%AD%A6%E4%BC%9A%E4%BA%86%E8%90%8C%E5%85%B0%E7%9A%84%E7%AB%B9%E5%AD%90%E6%89%93%E5%8C%85%E6%8A%80%E6%9C%AF%23&t=31&band_rank=9&Refer=top)<br />
+9. [男孩ATM机上捡现金反复向监控示意](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9ATM%E6%9C%BA%E4%B8%8A%E6%8D%A1%E7%8E%B0%E9%87%91%E5%8F%8D%E5%A4%8D%E5%90%91%E7%9B%91%E6%8E%A7%E7%A4%BA%E6%84%8F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
