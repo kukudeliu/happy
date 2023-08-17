@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 03:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 03:23:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [中国好声音声明](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E5%A3%B0%E6%98%8E%23&t=31&band_rank=6&Refer=top)<br />
 7. [衡水中学校长称已注意到网红要打衡中](https://s.weibo.com/weibo?q=%23%E8%A1%A1%E6%B0%B4%E4%B8%AD%E5%AD%A6%E6%A0%A1%E9%95%BF%E7%A7%B0%E5%B7%B2%E6%B3%A8%E6%84%8F%E5%88%B0%E7%BD%91%E7%BA%A2%E8%A6%81%E6%89%93%E8%A1%A1%E4%B8%AD%23&t=31&band_rank=7&Refer=top)<br />
 8. [教育机构要求老师穿长裤的原因](https://s.weibo.com/weibo?q=%E6%95%99%E8%82%B2%E6%9C%BA%E6%9E%84%E8%A6%81%E6%B1%82%E8%80%81%E5%B8%88%E7%A9%BF%E9%95%BF%E8%A3%A4%E7%9A%84%E5%8E%9F%E5%9B%A0&t=31&band_rank=8&Refer=top)<br />
-9. [古天乐新片骂了33秒脏话](https://s.weibo.com/weibo?q=%23%E5%8F%A4%E5%A4%A9%E4%B9%90%E6%96%B0%E7%89%87%E9%AA%82%E4%BA%8633%E7%A7%92%E8%84%8F%E8%AF%9D%23&t=31&band_rank=9&Refer=top)<br />
+9. [芭比是戳到日本大叔痛点了吗](https://s.weibo.com/weibo?q=%23%E8%8A%AD%E6%AF%94%E6%98%AF%E6%88%B3%E5%88%B0%E6%97%A5%E6%9C%AC%E5%A4%A7%E5%8F%94%E7%97%9B%E7%82%B9%E4%BA%86%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
