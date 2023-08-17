@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 04:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 04:50:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [中国好声音声明](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E5%A3%B0%E6%98%8E%23&t=31&band_rank=6&Refer=top)<br />
 7. [衡水中学校长称已注意到网红要打衡中](https://s.weibo.com/weibo?q=%23%E8%A1%A1%E6%B0%B4%E4%B8%AD%E5%AD%A6%E6%A0%A1%E9%95%BF%E7%A7%B0%E5%B7%B2%E6%B3%A8%E6%84%8F%E5%88%B0%E7%BD%91%E7%BA%A2%E8%A6%81%E6%89%93%E8%A1%A1%E4%B8%AD%23&t=31&band_rank=7&Refer=top)<br />
 8. [海底捞在家有儿女里出现也不奇怪](https://s.weibo.com/weibo?q=%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%9C%A8%E5%AE%B6%E6%9C%89%E5%84%BF%E5%A5%B3%E9%87%8C%E5%87%BA%E7%8E%B0%E4%B9%9F%E4%B8%8D%E5%A5%87%E6%80%AA&t=31&band_rank=8&Refer=top)<br />
-9. [古天乐新片骂了33秒脏话](https://s.weibo.com/weibo?q=%23%E5%8F%A4%E5%A4%A9%E4%B9%90%E6%96%B0%E7%89%87%E9%AA%82%E4%BA%8633%E7%A7%92%E8%84%8F%E8%AF%9D%23&t=31&band_rank=9&Refer=top)<br />
+9. [广东人为什么喜欢用不锈钢](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E5%96%9C%E6%AC%A2%E7%94%A8%E4%B8%8D%E9%94%88%E9%92%A2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
