@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-17 17:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-17 17:59:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [女子坐飞机看到蟑螂趴在窗外](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%9D%90%E9%A3%9E%E6%9C%BA%E7%9C%8B%E5%88%B0%E8%9F%91%E8%9E%82%E8%B6%B4%E5%9C%A8%E7%AA%97%E5%A4%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [超市招聘牛肉试吃员需一天吃10斤](https://www.baidu.com/s?wd=%E8%B6%85%E5%B8%82%E6%8B%9B%E8%81%98%E7%89%9B%E8%82%89%E8%AF%95%E5%90%83%E5%91%98%E9%9C%80%E4%B8%80%E5%A4%A9%E5%90%8310%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [李玟生前控诉好声音录音曝光](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E7%94%9F%E5%89%8D%E6%8E%A7%E8%AF%89%E5%A5%BD%E5%A3%B0%E9%9F%B3%E5%BD%95%E9%9F%B3%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [判决书上网致被性侵少女信息泄露](https://www.baidu.com/s?wd=%E5%88%A4%E5%86%B3%E4%B9%A6%E4%B8%8A%E7%BD%91%E8%87%B4%E8%A2%AB%E6%80%A7%E4%BE%B5%E5%B0%91%E5%A5%B3%E4%BF%A1%E6%81%AF%E6%B3%84%E9%9C%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [卫健局副局长被查揭发上司收金条](https://www.baidu.com/s?wd=%E5%8D%AB%E5%81%A5%E5%B1%80%E5%89%AF%E5%B1%80%E9%95%BF%E8%A2%AB%E6%9F%A5%E6%8F%AD%E5%8F%91%E4%B8%8A%E5%8F%B8%E6%94%B6%E9%87%91%E6%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [女子坐飞机看到蟑螂趴在窗外](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%9D%90%E9%A3%9E%E6%9C%BA%E7%9C%8B%E5%88%B0%E8%9F%91%E8%9E%82%E8%B6%B4%E5%9C%A8%E7%AA%97%E5%A4%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [超市招聘牛肉试吃员需一天吃10斤](https://www.baidu.com/s?wd=%E8%B6%85%E5%B8%82%E6%8B%9B%E8%81%98%E7%89%9B%E8%82%89%E8%AF%95%E5%90%83%E5%91%98%E9%9C%80%E4%B8%80%E5%A4%A9%E5%90%8310%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [李玟生前控诉好声音录音曝光](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E7%94%9F%E5%89%8D%E6%8E%A7%E8%AF%89%E5%A5%BD%E5%A3%B0%E9%9F%B3%E5%BD%95%E9%9F%B3%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [判决书上网致被性侵少女信息泄露](https://www.baidu.com/s?wd=%E5%88%A4%E5%86%B3%E4%B9%A6%E4%B8%8A%E7%BD%91%E8%87%B4%E8%A2%AB%E6%80%A7%E4%BE%B5%E5%B0%91%E5%A5%B3%E4%BF%A1%E6%81%AF%E6%B3%84%E9%9C%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [卫健局副局长被查揭发上司收金条](https://www.baidu.com/s?wd=%E5%8D%AB%E5%81%A5%E5%B1%80%E5%89%AF%E5%B1%80%E9%95%BF%E8%A2%AB%E6%9F%A5%E6%8F%AD%E5%8F%91%E4%B8%8A%E5%8F%B8%E6%94%B6%E9%87%91%E6%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
