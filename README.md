@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 03:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 03:40:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [林志颖晒25年前未公开旧照](https://www.baidu.com/s?wd=%E6%9E%97%E5%BF%97%E9%A2%96%E6%99%9225%E5%B9%B4%E5%89%8D%E6%9C%AA%E5%85%AC%E5%BC%80%E6%97%A7%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中国好声音回应李玟控诉录音](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E5%9B%9E%E5%BA%94%E6%9D%8E%E7%8E%9F%E6%8E%A7%E8%AF%89%E5%BD%95%E9%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [衡水校长称已注意到网红要打衡中](https://www.baidu.com/s?wd=%E8%A1%A1%E6%B0%B4%E6%A0%A1%E9%95%BF%E7%A7%B0%E5%B7%B2%E6%B3%A8%E6%84%8F%E5%88%B0%E7%BD%91%E7%BA%A2%E8%A6%81%E6%89%93%E8%A1%A1%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [武汉大学：学生夫妻可申请合宿](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6%EF%BC%9A%E5%AD%A6%E7%94%9F%E5%A4%AB%E5%A6%BB%E5%8F%AF%E7%94%B3%E8%AF%B7%E5%90%88%E5%AE%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [北海侨港浴场两千米海岸线已被管控](https://www.baidu.com/s?wd=%E5%8C%97%E6%B5%B7%E4%BE%A8%E6%B8%AF%E6%B5%B4%E5%9C%BA%E4%B8%A4%E5%8D%83%E7%B1%B3%E6%B5%B7%E5%B2%B8%E7%BA%BF%E5%B7%B2%E8%A2%AB%E7%AE%A1%E6%8E%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [林志颖晒25年前未公开旧照](https://www.baidu.com/s?wd=%E6%9E%97%E5%BF%97%E9%A2%96%E6%99%9225%E5%B9%B4%E5%89%8D%E6%9C%AA%E5%85%AC%E5%BC%80%E6%97%A7%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中国好声音回应李玟控诉录音](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E5%9B%9E%E5%BA%94%E6%9D%8E%E7%8E%9F%E6%8E%A7%E8%AF%89%E5%BD%95%E9%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [衡水校长称已注意到网红要打衡中](https://www.baidu.com/s?wd=%E8%A1%A1%E6%B0%B4%E6%A0%A1%E9%95%BF%E7%A7%B0%E5%B7%B2%E6%B3%A8%E6%84%8F%E5%88%B0%E7%BD%91%E7%BA%A2%E8%A6%81%E6%89%93%E8%A1%A1%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [武汉大学：学生夫妻可申请合宿](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6%EF%BC%9A%E5%AD%A6%E7%94%9F%E5%A4%AB%E5%A6%BB%E5%8F%AF%E7%94%B3%E8%AF%B7%E5%90%88%E5%AE%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [北海侨港浴场两千米海岸线已被管控](https://www.baidu.com/s?wd=%E5%8C%97%E6%B5%B7%E4%BE%A8%E6%B8%AF%E6%B5%B4%E5%9C%BA%E4%B8%A4%E5%8D%83%E7%B1%B3%E6%B5%B7%E5%B2%B8%E7%BA%BF%E5%B7%B2%E8%A2%AB%E7%AE%A1%E6%8E%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
