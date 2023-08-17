@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-17 14:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-17 14:41:01</h4></div>
 
 > 微博  
 
-1. [12306回应母亲带病儿买三张票](https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E6%AF%8D%E4%BA%B2%E5%B8%A6%E7%97%85%E5%84%BF%E4%B9%B0%E4%B8%89%E5%BC%A0%E7%A5%A8%23&t=31&band_rank=1&Refer=top)<br />
-2. [曝七时吉祥抄袭秦时明月](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E4%B8%83%E6%97%B6%E5%90%89%E7%A5%A5%E6%8A%84%E8%A2%AD%E7%A7%A6%E6%97%B6%E6%98%8E%E6%9C%88%23&t=31&band_rank=2&Refer=top)<br />
+1. [曝七时吉祥抄袭秦时明月](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E4%B8%83%E6%97%B6%E5%90%89%E7%A5%A5%E6%8A%84%E8%A2%AD%E7%A7%A6%E6%97%B6%E6%98%8E%E6%9C%88%23&t=31&band_rank=1&Refer=top)<br />
+2. [12306回应母亲带病儿买三张票](https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E6%AF%8D%E4%BA%B2%E5%B8%A6%E7%97%85%E5%84%BF%E4%B9%B0%E4%B8%89%E5%BC%A0%E7%A5%A8%23&t=31&band_rank=2&Refer=top)<br />
 3. [3条高铁新线即将开通](https://s.weibo.com/weibo?q=%233%E6%9D%A1%E9%AB%98%E9%93%81%E6%96%B0%E7%BA%BF%E5%8D%B3%E5%B0%86%E5%BC%80%E9%80%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [陈立农diss宝石老舅](https://s.weibo.com/weibo?q=%23%E9%99%88%E7%AB%8B%E5%86%9Cdiss%E5%AE%9D%E7%9F%B3%E8%80%81%E8%88%85%23&t=31&band_rank=4&Refer=top)<br />
 5. [谢娜吴昕维嘉群名](https://s.weibo.com/weibo?q=%E8%B0%A2%E5%A8%9C%E5%90%B4%E6%98%95%E7%BB%B4%E5%98%89%E7%BE%A4%E5%90%8D&t=31&band_rank=5&Refer=top)<br />
