@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 07:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 07:19:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [衡水中学校长称已注意到网红要打衡中](https://s.weibo.com/weibo?q=%23%E8%A1%A1%E6%B0%B4%E4%B8%AD%E5%AD%A6%E6%A0%A1%E9%95%BF%E7%A7%B0%E5%B7%B2%E6%B3%A8%E6%84%8F%E5%88%B0%E7%BD%91%E7%BA%A2%E8%A6%81%E6%89%93%E8%A1%A1%E4%B8%AD%23&t=31&band_rank=6&Refer=top)<br />
 7. [教育机构要求老师穿长裤的原因](https://s.weibo.com/weibo?q=%E6%95%99%E8%82%B2%E6%9C%BA%E6%9E%84%E8%A6%81%E6%B1%82%E8%80%81%E5%B8%88%E7%A9%BF%E9%95%BF%E8%A3%A4%E7%9A%84%E5%8E%9F%E5%9B%A0&t=31&band_rank=7&Refer=top)<br />
 8. [我不是药神白血病少年扮演者入院捐髓](https://s.weibo.com/weibo?q=%23%E6%88%91%E4%B8%8D%E6%98%AF%E8%8D%AF%E7%A5%9E%E7%99%BD%E8%A1%80%E7%97%85%E5%B0%91%E5%B9%B4%E6%89%AE%E6%BC%94%E8%80%85%E5%85%A5%E9%99%A2%E6%8D%90%E9%AB%93%23&t=31&band_rank=8&Refer=top)<br />
-9. [男孩ATM机上捡现金反复向监控示意](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9ATM%E6%9C%BA%E4%B8%8A%E6%8D%A1%E7%8E%B0%E9%87%91%E5%8F%8D%E5%A4%8D%E5%90%91%E7%9B%91%E6%8E%A7%E7%A4%BA%E6%84%8F%23&t=31&band_rank=9&Refer=top)<br />
+9. [男子挂号因没听清楚被工作人员怼](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8C%82%E5%8F%B7%E5%9B%A0%E6%B2%A1%E5%90%AC%E6%B8%85%E6%A5%9A%E8%A2%AB%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E6%80%BC%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
