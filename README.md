@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 01:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 01:34:02</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [女子凌晨4点被短信告知航班提前起飞](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%87%8C%E6%99%A84%E7%82%B9%E8%A2%AB%E7%9F%AD%E4%BF%A1%E5%91%8A%E7%9F%A5%E8%88%AA%E7%8F%AD%E6%8F%90%E5%89%8D%E8%B5%B7%E9%A3%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [打响取消公摊第一枪 为什么是合肥？](https://www.baidu.com/s?wd=%E6%89%93%E5%93%8D%E5%8F%96%E6%B6%88%E5%85%AC%E6%91%8A%E7%AC%AC%E4%B8%80%E6%9E%AA+%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%AF%E5%90%88%E8%82%A5%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中国好声音回应李玟控诉录音](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E5%9B%9E%E5%BA%94%E6%9D%8E%E7%8E%9F%E6%8E%A7%E8%AF%89%E5%BD%95%E9%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [3岁男童被虐待园方未担责？官方通报](https://www.baidu.com/s?wd=3%E5%B2%81%E7%94%B7%E7%AB%A5%E8%A2%AB%E8%99%90%E5%BE%85%E5%9B%AD%E6%96%B9%E6%9C%AA%E6%8B%85%E8%B4%A3%EF%BC%9F%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [衡水校长称已注意到网红要打衡中](https://www.baidu.com/s?wd=%E8%A1%A1%E6%B0%B4%E6%A0%A1%E9%95%BF%E7%A7%B0%E5%B7%B2%E6%B3%A8%E6%84%8F%E5%88%B0%E7%BD%91%E7%BA%A2%E8%A6%81%E6%89%93%E8%A1%A1%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [衡水校长称已注意到网红要打衡中](https://www.baidu.com/s?wd=%E8%A1%A1%E6%B0%B4%E6%A0%A1%E9%95%BF%E7%A7%B0%E5%B7%B2%E6%B3%A8%E6%84%8F%E5%88%B0%E7%BD%91%E7%BA%A2%E8%A6%81%E6%89%93%E8%A1%A1%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [武汉大学：学生夫妻可申请合宿](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6%EF%BC%9A%E5%AD%A6%E7%94%9F%E5%A4%AB%E5%A6%BB%E5%8F%AF%E7%94%B3%E8%AF%B7%E5%90%88%E5%AE%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [女子凌晨4点被短信告知航班提前起飞](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%87%8C%E6%99%A84%E7%82%B9%E8%A2%AB%E7%9F%AD%E4%BF%A1%E5%91%8A%E7%9F%A5%E8%88%AA%E7%8F%AD%E6%8F%90%E5%89%8D%E8%B5%B7%E9%A3%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [打响取消公摊第一枪 为什么是合肥？](https://www.baidu.com/s?wd=%E6%89%93%E5%93%8D%E5%8F%96%E6%B6%88%E5%85%AC%E6%91%8A%E7%AC%AC%E4%B8%80%E6%9E%AA+%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%AF%E5%90%88%E8%82%A5%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中国好声音回应李玟控诉录音](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E5%9B%9E%E5%BA%94%E6%9D%8E%E7%8E%9F%E6%8E%A7%E8%AF%89%E5%BD%95%E9%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [3岁男童被虐待园方未担责？官方通报](https://www.baidu.com/s?wd=3%E5%B2%81%E7%94%B7%E7%AB%A5%E8%A2%AB%E8%99%90%E5%BE%85%E5%9B%AD%E6%96%B9%E6%9C%AA%E6%8B%85%E8%B4%A3%EF%BC%9F%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [衡水校长称已注意到网红要打衡中](https://www.baidu.com/s?wd=%E8%A1%A1%E6%B0%B4%E6%A0%A1%E9%95%BF%E7%A7%B0%E5%B7%B2%E6%B3%A8%E6%84%8F%E5%88%B0%E7%BD%91%E7%BA%A2%E8%A6%81%E6%89%93%E8%A1%A1%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [衡水校长称已注意到网红要打衡中](https://www.baidu.com/s?wd=%E8%A1%A1%E6%B0%B4%E6%A0%A1%E9%95%BF%E7%A7%B0%E5%B7%B2%E6%B3%A8%E6%84%8F%E5%88%B0%E7%BD%91%E7%BA%A2%E8%A6%81%E6%89%93%E8%A1%A1%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [武汉大学：学生夫妻可申请合宿](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6%EF%BC%9A%E5%AD%A6%E7%94%9F%E5%A4%AB%E5%A6%BB%E5%8F%AF%E7%94%B3%E8%AF%B7%E5%90%88%E5%AE%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
