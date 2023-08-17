@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 00:58:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 00:59:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [女子凌晨4点被短信告知航班提前起飞](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%87%8C%E6%99%A84%E7%82%B9%E8%A2%AB%E7%9F%AD%E4%BF%A1%E5%91%8A%E7%9F%A5%E8%88%AA%E7%8F%AD%E6%8F%90%E5%89%8D%E8%B5%B7%E9%A3%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [打响取消公摊第一枪 为什么是合肥？](https://www.baidu.com/s?wd=%E6%89%93%E5%93%8D%E5%8F%96%E6%B6%88%E5%85%AC%E6%91%8A%E7%AC%AC%E4%B8%80%E6%9E%AA+%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%AF%E5%90%88%E8%82%A5%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中国好声音回应李玟控诉录音](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E5%9B%9E%E5%BA%94%E6%9D%8E%E7%8E%9F%E6%8E%A7%E8%AF%89%E5%BD%95%E9%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [安徽一工厂凌晨爆炸 居民以为是地震](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E4%B8%80%E5%B7%A5%E5%8E%82%E5%87%8C%E6%99%A8%E7%88%86%E7%82%B8+%E5%B1%85%E6%B0%91%E4%BB%A5%E4%B8%BA%E6%98%AF%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [受贿百套房医院院长庭审画面曝光](https://www.baidu.com/s?wd=%E5%8F%97%E8%B4%BF%E7%99%BE%E5%A5%97%E6%88%BF%E5%8C%BB%E9%99%A2%E9%99%A2%E9%95%BF%E5%BA%AD%E5%AE%A1%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [卫星影像看夏威夷大火有多严重](https://www.baidu.com/s?wd=%E5%8D%AB%E6%98%9F%E5%BD%B1%E5%83%8F%E7%9C%8B%E5%A4%8F%E5%A8%81%E5%A4%B7%E5%A4%A7%E7%81%AB%E6%9C%89%E5%A4%9A%E4%B8%A5%E9%87%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [女子凌晨4点被短信告知航班提前起飞](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%87%8C%E6%99%A84%E7%82%B9%E8%A2%AB%E7%9F%AD%E4%BF%A1%E5%91%8A%E7%9F%A5%E8%88%AA%E7%8F%AD%E6%8F%90%E5%89%8D%E8%B5%B7%E9%A3%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [打响取消公摊第一枪 为什么是合肥？](https://www.baidu.com/s?wd=%E6%89%93%E5%93%8D%E5%8F%96%E6%B6%88%E5%85%AC%E6%91%8A%E7%AC%AC%E4%B8%80%E6%9E%AA+%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%AF%E5%90%88%E8%82%A5%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中国好声音回应李玟控诉录音](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E5%9B%9E%E5%BA%94%E6%9D%8E%E7%8E%9F%E6%8E%A7%E8%AF%89%E5%BD%95%E9%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [安徽一工厂凌晨爆炸 居民以为是地震](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E4%B8%80%E5%B7%A5%E5%8E%82%E5%87%8C%E6%99%A8%E7%88%86%E7%82%B8+%E5%B1%85%E6%B0%91%E4%BB%A5%E4%B8%BA%E6%98%AF%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [受贿百套房医院院长庭审画面曝光](https://www.baidu.com/s?wd=%E5%8F%97%E8%B4%BF%E7%99%BE%E5%A5%97%E6%88%BF%E5%8C%BB%E9%99%A2%E9%99%A2%E9%95%BF%E5%BA%AD%E5%AE%A1%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [卫星影像看夏威夷大火有多严重](https://www.baidu.com/s?wd=%E5%8D%AB%E6%98%9F%E5%BD%B1%E5%83%8F%E7%9C%8B%E5%A4%8F%E5%A8%81%E5%A4%B7%E5%A4%A7%E7%81%AB%E6%9C%89%E5%A4%9A%E4%B8%A5%E9%87%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
