@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 07:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 07:04:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [杭州突降冰雹 网友：开眼了](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E7%AA%81%E9%99%8D%E5%86%B0%E9%9B%B9+%E7%BD%91%E5%8F%8B%EF%BC%9A%E5%BC%80%E7%9C%BC%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [衡水校长称已注意到网红要打衡中](https://www.baidu.com/s?wd=%E8%A1%A1%E6%B0%B4%E6%A0%A1%E9%95%BF%E7%A7%B0%E5%B7%B2%E6%B3%A8%E6%84%8F%E5%88%B0%E7%BD%91%E7%BA%A2%E8%A6%81%E6%89%93%E8%A1%A1%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [花数百万买门牌石? 医院：实为66万](https://www.baidu.com/s?wd=%E8%8A%B1%E6%95%B0%E7%99%BE%E4%B8%87%E4%B9%B0%E9%97%A8%E7%89%8C%E7%9F%B3%3F+%E5%8C%BB%E9%99%A2%EF%BC%9A%E5%AE%9E%E4%B8%BA66%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子坐飞机看到蟑螂趴在窗外](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%9D%90%E9%A3%9E%E6%9C%BA%E7%9C%8B%E5%88%B0%E8%9F%91%E8%9E%82%E8%B6%B4%E5%9C%A8%E7%AA%97%E5%A4%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [武汉大学：学生夫妻可申请合宿](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6%EF%BC%9A%E5%AD%A6%E7%94%9F%E5%A4%AB%E5%A6%BB%E5%8F%AF%E7%94%B3%E8%AF%B7%E5%90%88%E5%AE%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [杭州突降冰雹 网友：开眼了](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E7%AA%81%E9%99%8D%E5%86%B0%E9%9B%B9+%E7%BD%91%E5%8F%8B%EF%BC%9A%E5%BC%80%E7%9C%BC%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [衡水校长称已注意到网红要打衡中](https://www.baidu.com/s?wd=%E8%A1%A1%E6%B0%B4%E6%A0%A1%E9%95%BF%E7%A7%B0%E5%B7%B2%E6%B3%A8%E6%84%8F%E5%88%B0%E7%BD%91%E7%BA%A2%E8%A6%81%E6%89%93%E8%A1%A1%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [花数百万买门牌石? 医院：实为66万](https://www.baidu.com/s?wd=%E8%8A%B1%E6%95%B0%E7%99%BE%E4%B8%87%E4%B9%B0%E9%97%A8%E7%89%8C%E7%9F%B3%3F+%E5%8C%BB%E9%99%A2%EF%BC%9A%E5%AE%9E%E4%B8%BA66%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子坐飞机看到蟑螂趴在窗外](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%9D%90%E9%A3%9E%E6%9C%BA%E7%9C%8B%E5%88%B0%E8%9F%91%E8%9E%82%E8%B6%B4%E5%9C%A8%E7%AA%97%E5%A4%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [武汉大学：学生夫妻可申请合宿](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6%EF%BC%9A%E5%AD%A6%E7%94%9F%E5%A4%AB%E5%A6%BB%E5%8F%AF%E7%94%B3%E8%AF%B7%E5%90%88%E5%AE%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
