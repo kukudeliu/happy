@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-17 12:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-17 12:07:01</h4></div>
 
 > 微博  
 
-1. [披荆斩棘3全阵容官宣](https://s.weibo.com/weibo?q=%23%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%983%E5%85%A8%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3%23&t=31&band_rank=1&Refer=top)<br />
-2. [原来焯水不是简单煮一下](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E7%84%AF%E6%B0%B4%E4%B8%8D%E6%98%AF%E7%AE%80%E5%8D%95%E7%85%AE%E4%B8%80%E4%B8%8B%23&t=31&band_rank=2&Refer=top)<br />
+1. [原来焯水不是简单煮一下](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E7%84%AF%E6%B0%B4%E4%B8%8D%E6%98%AF%E7%AE%80%E5%8D%95%E7%85%AE%E4%B8%80%E4%B8%8B%23&t=31&band_rank=1&Refer=top)<br />
+2. [披荆斩棘3全阵容官宣](https://s.weibo.com/weibo?q=%23%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%983%E5%85%A8%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3%23&t=31&band_rank=2&Refer=top)<br />
 3. [亚运会游泳跳水田径门票今起实时销售](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E4%BC%9A%E6%B8%B8%E6%B3%B3%E8%B7%B3%E6%B0%B4%E7%94%B0%E5%BE%84%E9%97%A8%E7%A5%A8%E4%BB%8A%E8%B5%B7%E5%AE%9E%E6%97%B6%E9%94%80%E5%94%AE%23&t=31&band_rank=3&Refer=top)<br />
 4. [林志颖参加披荆斩棘的原因](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%97%E9%A2%96%E5%8F%82%E5%8A%A0%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=4&Refer=top)<br />
 5. [孤注一掷东南亚上映](https://s.weibo.com/weibo?q=%23%E5%AD%A4%E6%B3%A8%E4%B8%80%E6%8E%B7%E4%B8%9C%E5%8D%97%E4%BA%9A%E4%B8%8A%E6%98%A0%23&t=31&band_rank=5&Refer=top)<br />
