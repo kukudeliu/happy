@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 02:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 02:20:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [缅甸外国游客只有疫情前的零头](https://www.baidu.com/s?wd=%E7%BC%85%E7%94%B8%E5%A4%96%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%8F%AA%E6%9C%89%E7%96%AB%E6%83%85%E5%89%8D%E7%9A%84%E9%9B%B6%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中国好声音回应李玟控诉录音](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E5%9B%9E%E5%BA%94%E6%9D%8E%E7%8E%9F%E6%8E%A7%E8%AF%89%E5%BD%95%E9%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [打响取消公摊第一枪 为什么是合肥？](https://www.baidu.com/s?wd=%E6%89%93%E5%93%8D%E5%8F%96%E6%B6%88%E5%85%AC%E6%91%8A%E7%AC%AC%E4%B8%80%E6%9E%AA+%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%AF%E5%90%88%E8%82%A5%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [受贿百套房医院院长庭审画面曝光](https://www.baidu.com/s?wd=%E5%8F%97%E8%B4%BF%E7%99%BE%E5%A5%97%E6%88%BF%E5%8C%BB%E9%99%A2%E9%99%A2%E9%95%BF%E5%BA%AD%E5%AE%A1%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子坐飞机看到蟑螂趴在窗外](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%9D%90%E9%A3%9E%E6%9C%BA%E7%9C%8B%E5%88%B0%E8%9F%91%E8%9E%82%E8%B6%B4%E5%9C%A8%E7%AA%97%E5%A4%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [缅甸外国游客只有疫情前的零头](https://www.baidu.com/s?wd=%E7%BC%85%E7%94%B8%E5%A4%96%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%8F%AA%E6%9C%89%E7%96%AB%E6%83%85%E5%89%8D%E7%9A%84%E9%9B%B6%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中国好声音回应李玟控诉录音](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E5%9B%9E%E5%BA%94%E6%9D%8E%E7%8E%9F%E6%8E%A7%E8%AF%89%E5%BD%95%E9%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [打响取消公摊第一枪 为什么是合肥？](https://www.baidu.com/s?wd=%E6%89%93%E5%93%8D%E5%8F%96%E6%B6%88%E5%85%AC%E6%91%8A%E7%AC%AC%E4%B8%80%E6%9E%AA+%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%AF%E5%90%88%E8%82%A5%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [受贿百套房医院院长庭审画面曝光](https://www.baidu.com/s?wd=%E5%8F%97%E8%B4%BF%E7%99%BE%E5%A5%97%E6%88%BF%E5%8C%BB%E9%99%A2%E9%99%A2%E9%95%BF%E5%BA%AD%E5%AE%A1%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子坐飞机看到蟑螂趴在窗外](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%9D%90%E9%A3%9E%E6%9C%BA%E7%9C%8B%E5%88%B0%E8%9F%91%E8%9E%82%E8%B6%B4%E5%9C%A8%E7%AA%97%E5%A4%96&sa=fyb_news&rsv_dl=fyb_news)<br />
