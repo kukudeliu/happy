@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 05:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 05:24:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [海底捞在家有儿女里出现也不奇怪](https://s.weibo.com/weibo?q=%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%9C%A8%E5%AE%B6%E6%9C%89%E5%84%BF%E5%A5%B3%E9%87%8C%E5%87%BA%E7%8E%B0%E4%B9%9F%E4%B8%8D%E5%A5%87%E6%80%AA&t=31&band_rank=5&Refer=top)<br />
 6. [中国好声音声明](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E5%A3%B0%E6%98%8E%23&t=31&band_rank=6&Refer=top)<br />
 7. [衡水中学校长称已注意到网红要打衡中](https://s.weibo.com/weibo?q=%23%E8%A1%A1%E6%B0%B4%E4%B8%AD%E5%AD%A6%E6%A0%A1%E9%95%BF%E7%A7%B0%E5%B7%B2%E6%B3%A8%E6%84%8F%E5%88%B0%E7%BD%91%E7%BA%A2%E8%A6%81%E6%89%93%E8%A1%A1%E4%B8%AD%23&t=31&band_rank=7&Refer=top)<br />
-8. [广东人为什么喜欢用不锈钢](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E5%96%9C%E6%AC%A2%E7%94%A8%E4%B8%8D%E9%94%88%E9%92%A2%23&t=31&band_rank=8&Refer=top)<br />
-9. [丁禹兮杨超越直播](https://s.weibo.com/weibo?q=%E4%B8%81%E7%A6%B9%E5%85%AE%E6%9D%A8%E8%B6%85%E8%B6%8A%E7%9B%B4%E6%92%AD&t=31&band_rank=9&Refer=top)<br />
+8. [丁禹兮杨超越直播](https://s.weibo.com/weibo?q=%E4%B8%81%E7%A6%B9%E5%85%AE%E6%9D%A8%E8%B6%85%E8%B6%8A%E7%9B%B4%E6%92%AD&t=31&band_rank=8&Refer=top)<br />
+9. [广东人为什么喜欢用不锈钢](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E5%96%9C%E6%AC%A2%E7%94%A8%E4%B8%8D%E9%94%88%E9%92%A2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -25,7 +25,7 @@
 6. [央行：房贷利率为历史低位](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%EF%BC%9A%E6%88%BF%E8%B4%B7%E5%88%A9%E7%8E%87%E4%B8%BA%E5%8E%86%E5%8F%B2%E4%BD%8E%E4%BD%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中国好声音回应李玟控诉录音](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E5%9B%9E%E5%BA%94%E6%9D%8E%E7%8E%9F%E6%8E%A7%E8%AF%89%E5%BD%95%E9%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [衡水校长称已注意到网红要打衡中](https://www.baidu.com/s?wd=%E8%A1%A1%E6%B0%B4%E6%A0%A1%E9%95%BF%E7%A7%B0%E5%B7%B2%E6%B3%A8%E6%84%8F%E5%88%B0%E7%BD%91%E7%BA%A2%E8%A6%81%E6%89%93%E8%A1%A1%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [12306回应女子买3座被骂不道德](https://www.baidu.com/s?wd=12306%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E4%B9%B03%E5%BA%A7%E8%A2%AB%E9%AA%82%E4%B8%8D%E9%81%93%E5%BE%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [杭州突降冰雹 网友：开眼了](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E7%AA%81%E9%99%8D%E5%86%B0%E9%9B%B9+%E7%BD%91%E5%8F%8B%EF%BC%9A%E5%BC%80%E7%9C%BC%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [央行：房贷利率为历史低位](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%EF%BC%9A%E6%88%BF%E8%B4%B7%E5%88%A9%E7%8E%87%E4%B8%BA%E5%8E%86%E5%8F%B2%E4%BD%8E%E4%BD%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中国好声音回应李玟控诉录音](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E5%9B%9E%E5%BA%94%E6%9D%8E%E7%8E%9F%E6%8E%A7%E8%AF%89%E5%BD%95%E9%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [衡水校长称已注意到网红要打衡中](https://www.baidu.com/s?wd=%E8%A1%A1%E6%B0%B4%E6%A0%A1%E9%95%BF%E7%A7%B0%E5%B7%B2%E6%B3%A8%E6%84%8F%E5%88%B0%E7%BD%91%E7%BA%A2%E8%A6%81%E6%89%93%E8%A1%A1%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [12306回应女子买3座被骂不道德](https://www.baidu.com/s?wd=12306%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E4%B9%B03%E5%BA%A7%E8%A2%AB%E9%AA%82%E4%B8%8D%E9%81%93%E5%BE%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [杭州突降冰雹 网友：开眼了](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E7%AA%81%E9%99%8D%E5%86%B0%E9%9B%B9+%E7%BD%91%E5%8F%8B%EF%BC%9A%E5%BC%80%E7%9C%BC%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
