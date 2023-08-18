@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 18:27:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 18:28:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [主播二驴直播时被绑架？警方：摆拍](https://www.baidu.com/s?wd=%E4%B8%BB%E6%92%AD%E4%BA%8C%E9%A9%B4%E7%9B%B4%E6%92%AD%E6%97%B6%E8%A2%AB%E7%BB%91%E6%9E%B6%EF%BC%9F%E8%AD%A6%E6%96%B9%EF%BC%9A%E6%91%86%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [警方辟谣女孩为追星把第一次给黄牛](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%A5%B3%E5%AD%A9%E4%B8%BA%E8%BF%BD%E6%98%9F%E6%8A%8A%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%BB%99%E9%BB%84%E7%89%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [好声音赞助商遭抵制 品牌评论区沦陷](https://www.baidu.com/s?wd=%E5%A5%BD%E5%A3%B0%E9%9F%B3%E8%B5%9E%E5%8A%A9%E5%95%86%E9%81%AD%E6%8A%B5%E5%88%B6+%E5%93%81%E7%89%8C%E8%AF%84%E8%AE%BA%E5%8C%BA%E6%B2%A6%E9%99%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [东部战区超近距离驱离美军机画面](https://www.baidu.com/s?wd=%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E8%B6%85%E8%BF%91%E8%B7%9D%E7%A6%BB%E9%A9%B1%E7%A6%BB%E7%BE%8E%E5%86%9B%E6%9C%BA%E7%94%BB%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [厦门一医院穿刺失误致4岁女童死亡](https://www.baidu.com/s?wd=%E5%8E%A6%E9%97%A8%E4%B8%80%E5%8C%BB%E9%99%A2%E7%A9%BF%E5%88%BA%E5%A4%B1%E8%AF%AF%E8%87%B44%E5%B2%81%E5%A5%B3%E7%AB%A5%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [300位特警下周将夜爬武功山](https://www.baidu.com/s?wd=300%E4%BD%8D%E7%89%B9%E8%AD%A6%E4%B8%8B%E5%91%A8%E5%B0%86%E5%A4%9C%E7%88%AC%E6%AD%A6%E5%8A%9F%E5%B1%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [出版社回应把中国踢出四大文明古国](https://www.baidu.com/s?wd=%E5%87%BA%E7%89%88%E7%A4%BE%E5%9B%9E%E5%BA%94%E6%8A%8A%E4%B8%AD%E5%9B%BD%E8%B8%A2%E5%87%BA%E5%9B%9B%E5%A4%A7%E6%96%87%E6%98%8E%E5%8F%A4%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [主播二驴直播时被绑架？警方：摆拍](https://www.baidu.com/s?wd=%E4%B8%BB%E6%92%AD%E4%BA%8C%E9%A9%B4%E7%9B%B4%E6%92%AD%E6%97%B6%E8%A2%AB%E7%BB%91%E6%9E%B6%EF%BC%9F%E8%AD%A6%E6%96%B9%EF%BC%9A%E6%91%86%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [警方辟谣女孩为追星把第一次给黄牛](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%A5%B3%E5%AD%A9%E4%B8%BA%E8%BF%BD%E6%98%9F%E6%8A%8A%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%BB%99%E9%BB%84%E7%89%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [好声音赞助商遭抵制 品牌评论区沦陷](https://www.baidu.com/s?wd=%E5%A5%BD%E5%A3%B0%E9%9F%B3%E8%B5%9E%E5%8A%A9%E5%95%86%E9%81%AD%E6%8A%B5%E5%88%B6+%E5%93%81%E7%89%8C%E8%AF%84%E8%AE%BA%E5%8C%BA%E6%B2%A6%E9%99%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [东部战区超近距离驱离美军机画面](https://www.baidu.com/s?wd=%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E8%B6%85%E8%BF%91%E8%B7%9D%E7%A6%BB%E9%A9%B1%E7%A6%BB%E7%BE%8E%E5%86%9B%E6%9C%BA%E7%94%BB%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [厦门一医院穿刺失误致4岁女童死亡](https://www.baidu.com/s?wd=%E5%8E%A6%E9%97%A8%E4%B8%80%E5%8C%BB%E9%99%A2%E7%A9%BF%E5%88%BA%E5%A4%B1%E8%AF%AF%E8%87%B44%E5%B2%81%E5%A5%B3%E7%AB%A5%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [300位特警下周将夜爬武功山](https://www.baidu.com/s?wd=300%E4%BD%8D%E7%89%B9%E8%AD%A6%E4%B8%8B%E5%91%A8%E5%B0%86%E5%A4%9C%E7%88%AC%E6%AD%A6%E5%8A%9F%E5%B1%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [出版社回应把中国踢出四大文明古国](https://www.baidu.com/s?wd=%E5%87%BA%E7%89%88%E7%A4%BE%E5%9B%9E%E5%BA%94%E6%8A%8A%E4%B8%AD%E5%9B%BD%E8%B8%A2%E5%87%BA%E5%9B%9B%E5%A4%A7%E6%96%87%E6%98%8E%E5%8F%A4%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
