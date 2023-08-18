@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 20:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 20:07:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [好声音寥寥数行回应就是对逝者的尊重吗](https://s.weibo.com/weibo?q=%23%E5%A5%BD%E5%A3%B0%E9%9F%B3%E5%AF%A5%E5%AF%A5%E6%95%B0%E8%A1%8C%E5%9B%9E%E5%BA%94%E5%B0%B1%E6%98%AF%E5%AF%B9%E9%80%9D%E8%80%85%E7%9A%84%E5%B0%8A%E9%87%8D%E5%90%97%23&t=31&band_rank=4&Refer=top)<br />
 5. [范丞丞玩梗关晓彤你叉叉](https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E7%8E%A9%E6%A2%97%E5%85%B3%E6%99%93%E5%BD%A4%E4%BD%A0%E5%8F%89%E5%8F%89%23&t=31&band_rank=5&Refer=top)<br />
 6. [九尾 倒霉蛋](https://s.weibo.com/weibo?q=%E4%B9%9D%E5%B0%BE%20%E5%80%92%E9%9C%89%E8%9B%8B&t=31&band_rank=6&Refer=top)<br />
-7. [涂山璟lookatme](https://s.weibo.com/weibo?q=%23%E6%B6%82%E5%B1%B1%E7%92%9Flookatme%23&t=31&band_rank=7&Refer=top)<br />
+7. [没十年相思病剪不出这玩意儿](https://s.weibo.com/weibo?q=%23%E6%B2%A1%E5%8D%81%E5%B9%B4%E7%9B%B8%E6%80%9D%E7%97%85%E5%89%AA%E4%B8%8D%E5%87%BA%E8%BF%99%E7%8E%A9%E6%84%8F%E5%84%BF%23&t=31&band_rank=7&Refer=top)<br />
 8. [质疑芒狗 理解芒狗 养芒狗](https://s.weibo.com/weibo?q=%E8%B4%A8%E7%96%91%E8%8A%92%E7%8B%97%20%E7%90%86%E8%A7%A3%E8%8A%92%E7%8B%97%20%E5%85%BB%E8%8A%92%E7%8B%97&t=31&band_rank=8&Refer=top)<br />
-9. [没十年相思病剪不出这玩意儿](https://s.weibo.com/weibo?q=%23%E6%B2%A1%E5%8D%81%E5%B9%B4%E7%9B%B8%E6%80%9D%E7%97%85%E5%89%AA%E4%B8%8D%E5%87%BA%E8%BF%99%E7%8E%A9%E6%84%8F%E5%84%BF%23&t=31&band_rank=9&Refer=top)<br />
+9. [涂山璟lookatme](https://s.weibo.com/weibo?q=%23%E6%B6%82%E5%B1%B1%E7%92%9Flookatme%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
