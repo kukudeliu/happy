@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 12:52:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 12:53:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [武大回应夫妻宿舍配有两张单人床](https://www.baidu.com/s?wd=%E6%AD%A6%E5%A4%A7%E5%9B%9E%E5%BA%94%E5%A4%AB%E5%A6%BB%E5%AE%BF%E8%88%8D%E9%85%8D%E6%9C%89%E4%B8%A4%E5%BC%A0%E5%8D%95%E4%BA%BA%E5%BA%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [出版社回应把中国踢出四大文明古国](https://www.baidu.com/s?wd=%E5%87%BA%E7%89%88%E7%A4%BE%E5%9B%9E%E5%BA%94%E6%8A%8A%E4%B8%AD%E5%9B%BD%E8%B8%A2%E5%87%BA%E5%9B%9B%E5%A4%A7%E6%96%87%E6%98%8E%E5%8F%A4%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [网友发现小时候舞蹈老师是李佳琦](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%8F%91%E7%8E%B0%E5%B0%8F%E6%97%B6%E5%80%99%E8%88%9E%E8%B9%88%E8%80%81%E5%B8%88%E6%98%AF%E6%9D%8E%E4%BD%B3%E7%90%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [李玟质疑好声音赛制不公视频曝光](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E8%B4%A8%E7%96%91%E5%A5%BD%E5%A3%B0%E9%9F%B3%E8%B5%9B%E5%88%B6%E4%B8%8D%E5%85%AC%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [厦门一医院穿刺失误致4岁女童死亡](https://www.baidu.com/s?wd=%E5%8E%A6%E9%97%A8%E4%B8%80%E5%8C%BB%E9%99%A2%E7%A9%BF%E5%88%BA%E5%A4%B1%E8%AF%AF%E8%87%B44%E5%B2%81%E5%A5%B3%E7%AB%A5%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [厦门一医院穿刺失误致4岁女童死亡](https://www.baidu.com/s?wd=%E5%8E%A6%E9%97%A8%E4%B8%80%E5%8C%BB%E9%99%A2%E7%A9%BF%E5%88%BA%E5%A4%B1%E8%AF%AF%E8%87%B44%E5%B2%81%E5%A5%B3%E7%AB%A5%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子看守所去世 家属称7根肋骨断裂](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%9C%8B%E5%AE%88%E6%89%80%E5%8E%BB%E4%B8%96+%E5%AE%B6%E5%B1%9E%E7%A7%B07%E6%A0%B9%E8%82%8B%E9%AA%A8%E6%96%AD%E8%A3%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [武大回应夫妻宿舍配有两张单人床](https://www.baidu.com/s?wd=%E6%AD%A6%E5%A4%A7%E5%9B%9E%E5%BA%94%E5%A4%AB%E5%A6%BB%E5%AE%BF%E8%88%8D%E9%85%8D%E6%9C%89%E4%B8%A4%E5%BC%A0%E5%8D%95%E4%BA%BA%E5%BA%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [出版社回应把中国踢出四大文明古国](https://www.baidu.com/s?wd=%E5%87%BA%E7%89%88%E7%A4%BE%E5%9B%9E%E5%BA%94%E6%8A%8A%E4%B8%AD%E5%9B%BD%E8%B8%A2%E5%87%BA%E5%9B%9B%E5%A4%A7%E6%96%87%E6%98%8E%E5%8F%A4%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [网友发现小时候舞蹈老师是李佳琦](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%8F%91%E7%8E%B0%E5%B0%8F%E6%97%B6%E5%80%99%E8%88%9E%E8%B9%88%E8%80%81%E5%B8%88%E6%98%AF%E6%9D%8E%E4%BD%B3%E7%90%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [李玟质疑好声音赛制不公视频曝光](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E8%B4%A8%E7%96%91%E5%A5%BD%E5%A3%B0%E9%9F%B3%E8%B5%9B%E5%88%B6%E4%B8%8D%E5%85%AC%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [厦门一医院穿刺失误致4岁女童死亡](https://www.baidu.com/s?wd=%E5%8E%A6%E9%97%A8%E4%B8%80%E5%8C%BB%E9%99%A2%E7%A9%BF%E5%88%BA%E5%A4%B1%E8%AF%AF%E8%87%B44%E5%B2%81%E5%A5%B3%E7%AB%A5%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [厦门一医院穿刺失误致4岁女童死亡](https://www.baidu.com/s?wd=%E5%8E%A6%E9%97%A8%E4%B8%80%E5%8C%BB%E9%99%A2%E7%A9%BF%E5%88%BA%E5%A4%B1%E8%AF%AF%E8%87%B44%E5%B2%81%E5%A5%B3%E7%AB%A5%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子看守所去世 家属称7根肋骨断裂](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%9C%8B%E5%AE%88%E6%89%80%E5%8E%BB%E4%B8%96+%E5%AE%B6%E5%B1%9E%E7%A7%B07%E6%A0%B9%E8%82%8B%E9%AA%A8%E6%96%AD%E8%A3%82&sa=fyb_news&rsv_dl=fyb_news)<br />
