@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 19:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 19:48:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [范丞丞玩梗关晓彤你叉叉](https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E7%8E%A9%E6%A2%97%E5%85%B3%E6%99%93%E5%BD%A4%E4%BD%A0%E5%8F%89%E5%8F%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [质疑芒狗 理解芒狗 养芒狗](https://s.weibo.com/weibo?q=%E8%B4%A8%E7%96%91%E8%8A%92%E7%8B%97%20%E7%90%86%E8%A7%A3%E8%8A%92%E7%8B%97%20%E5%85%BB%E8%8A%92%E7%8B%97&t=31&band_rank=7&Refer=top)<br />
 8. [古天乐毁容妆过敏](https://s.weibo.com/weibo?q=%23%E5%8F%A4%E5%A4%A9%E4%B9%90%E6%AF%81%E5%AE%B9%E5%A6%86%E8%BF%87%E6%95%8F%23&t=31&band_rank=8&Refer=top)<br />
-9. [爸爸车祸后7岁小哭包变成顶梁柱](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E8%BD%A6%E7%A5%B8%E5%90%8E7%E5%B2%81%E5%B0%8F%E5%93%AD%E5%8C%85%E5%8F%98%E6%88%90%E9%A1%B6%E6%A2%81%E6%9F%B1%23&t=31&band_rank=9&Refer=top)<br />
+9. [赵丽颖蓝色星钻人鱼裙](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%93%9D%E8%89%B2%E6%98%9F%E9%92%BB%E4%BA%BA%E9%B1%BC%E8%A3%99%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
