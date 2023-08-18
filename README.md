@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 22:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 23:00:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [何炅是半个娱乐圈的伯乐](https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%E6%98%AF%E5%8D%8A%E4%B8%AA%E5%A8%B1%E4%B9%90%E5%9C%88%E7%9A%84%E4%BC%AF%E4%B9%90%23&t=31&band_rank=4&Refer=top)<br />
 5. [杨颖不忍心拒绝小朋友合照要求的原因](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E9%A2%96%E4%B8%8D%E5%BF%8D%E5%BF%83%E6%8B%92%E7%BB%9D%E5%B0%8F%E6%9C%8B%E5%8F%8B%E5%90%88%E7%85%A7%E8%A6%81%E6%B1%82%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=5&Refer=top)<br />
 6. [周深绝了](https://s.weibo.com/weibo?q=%E5%91%A8%E6%B7%B1%E7%BB%9D%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
-7. [打响取消公摊第一枪的为什么是合肥](https://s.weibo.com/weibo?q=%23%E6%89%93%E5%93%8D%E5%8F%96%E6%B6%88%E5%85%AC%E6%91%8A%E7%AC%AC%E4%B8%80%E6%9E%AA%E7%9A%84%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%AF%E5%90%88%E8%82%A5%23&t=31&band_rank=7&Refer=top)<br />
-8. [中泰缅老警方合作打击赌诈集团](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%B3%B0%E7%BC%85%E8%80%81%E8%AD%A6%E6%96%B9%E5%90%88%E4%BD%9C%E6%89%93%E5%87%BB%E8%B5%8C%E8%AF%88%E9%9B%86%E5%9B%A2%23&t=31&band_rank=8&Refer=top)<br />
+7. [中泰缅老警方合作打击赌诈集团](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%B3%B0%E7%BC%85%E8%80%81%E8%AD%A6%E6%96%B9%E5%90%88%E4%BD%9C%E6%89%93%E5%87%BB%E8%B5%8C%E8%AF%88%E9%9B%86%E5%9B%A2%23&t=31&band_rank=7&Refer=top)<br />
+8. [打响取消公摊第一枪的为什么是合肥](https://s.weibo.com/weibo?q=%23%E6%89%93%E5%93%8D%E5%8F%96%E6%B6%88%E5%85%AC%E6%91%8A%E7%AC%AC%E4%B8%80%E6%9E%AA%E7%9A%84%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%AF%E5%90%88%E8%82%A5%23&t=31&band_rank=8&Refer=top)<br />
 9. [医院回应穿刺失误致女童死亡](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E7%A9%BF%E5%88%BA%E5%A4%B1%E8%AF%AF%E8%87%B4%E5%A5%B3%E7%AB%A5%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
