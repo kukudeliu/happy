@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 15:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 15:08:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [南风知我意](https://s.weibo.com/weibo?q=%E5%8D%97%E9%A3%8E%E7%9F%A5%E6%88%91%E6%84%8F&t=31&band_rank=5&Refer=top)<br />
 6. [感应式分手](https://s.weibo.com/weibo?q=%E6%84%9F%E5%BA%94%E5%BC%8F%E5%88%86%E6%89%8B&t=31&band_rank=6&Refer=top)<br />
 7. [最难喝饮料排行榜](https://s.weibo.com/weibo?q=%E6%9C%80%E9%9A%BE%E5%96%9D%E9%A5%AE%E6%96%99%E6%8E%92%E8%A1%8C%E6%A6%9C&t=31&band_rank=7&Refer=top)<br />
-8. [陈楚生对李玖哲唱张镐哲的歌](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A5%9A%E7%94%9F%E5%AF%B9%E6%9D%8E%E7%8E%96%E5%93%B2%E5%94%B1%E5%BC%A0%E9%95%90%E5%93%B2%E7%9A%84%E6%AD%8C%23&t=31&band_rank=8&Refer=top)<br />
+8. [杨洋告黑案将开庭](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B4%8B%E5%91%8A%E9%BB%91%E6%A1%88%E5%B0%86%E5%BC%80%E5%BA%AD%23&t=31&band_rank=8&Refer=top)<br />
 9. [爸爸车祸后7岁小哭包变成顶梁柱](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E8%BD%A6%E7%A5%B8%E5%90%8E7%E5%B2%81%E5%B0%8F%E5%93%AD%E5%8C%85%E5%8F%98%E6%88%90%E9%A1%B6%E6%A2%81%E6%9F%B1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
