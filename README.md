@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 10:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 10:01:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [缅甸华人称缅甸确实被妖魔化](https://s.weibo.com/weibo?q=%23%E7%BC%85%E7%94%B8%E5%8D%8E%E4%BA%BA%E7%A7%B0%E7%BC%85%E7%94%B8%E7%A1%AE%E5%AE%9E%E8%A2%AB%E5%A6%96%E9%AD%94%E5%8C%96%23&t=31&band_rank=5&Refer=top)<br />
 6. [杨超越演技](https://s.weibo.com/weibo?q=%E6%9D%A8%E8%B6%85%E8%B6%8A%E6%BC%94%E6%8A%80&t=31&band_rank=6&Refer=top)<br />
 7. [云之羽播出时间](https://s.weibo.com/weibo?q=%E4%BA%91%E4%B9%8B%E7%BE%BD%E6%92%AD%E5%87%BA%E6%97%B6%E9%97%B4&t=31&band_rank=7&Refer=top)<br />
-8. [金晨谈安娜](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E8%B0%88%E5%AE%89%E5%A8%9C%23&t=31&band_rank=8&Refer=top)<br />
+8. [电影孤注一掷被指侵权](https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E5%AD%A4%E6%B3%A8%E4%B8%80%E6%8E%B7%E8%A2%AB%E6%8C%87%E4%BE%B5%E6%9D%83%23&t=31&band_rank=8&Refer=top)<br />
 9. [年轻人脱发的四大原因](https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%84%B1%E5%8F%91%E7%9A%84%E5%9B%9B%E5%A4%A7%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
