@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 17:34:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 17:35:02</h4></div>
 
 > 微博  
 
-1. [林志颖公开回应车祸经历](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%97%E9%A2%96%E5%85%AC%E5%BC%80%E5%9B%9E%E5%BA%94%E8%BD%A6%E7%A5%B8%E7%BB%8F%E5%8E%86%23&t=31&band_rank=1&Refer=top)<br />
+1. [古天乐毁容妆过敏](https://s.weibo.com/weibo?q=%23%E5%8F%A4%E5%A4%A9%E4%B9%90%E6%AF%81%E5%AE%B9%E5%A6%86%E8%BF%87%E6%95%8F%23&t=31&band_rank=1&Refer=top)<br />
 2. [质疑芒狗 理解芒狗 养芒狗](https://s.weibo.com/weibo?q=%E8%B4%A8%E7%96%91%E8%8A%92%E7%8B%97%20%E7%90%86%E8%A7%A3%E8%8A%92%E7%8B%97%20%E5%85%BB%E8%8A%92%E7%8B%97&t=31&band_rank=2&Refer=top)<br />
 3. [中国式现代化的京津冀实践](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%E7%9A%84%E4%BA%AC%E6%B4%A5%E5%86%80%E5%AE%9E%E8%B7%B5%23&t=31&band_rank=3&Refer=top)<br />
 4. [李玟姐姐称网传视频属实](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E5%A7%90%E5%A7%90%E7%A7%B0%E7%BD%91%E4%BC%A0%E8%A7%86%E9%A2%91%E5%B1%9E%E5%AE%9E%23&t=31&band_rank=4&Refer=top)<br />
-5. [张晚意被杨紫叫哥哥叫到崩溃](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%99%9A%E6%84%8F%E8%A2%AB%E6%9D%A8%E7%B4%AB%E5%8F%AB%E5%93%A5%E5%93%A5%E5%8F%AB%E5%88%B0%E5%B4%A9%E6%BA%83%23&t=31&band_rank=5&Refer=top)<br />
-6. [警方通报网传二驴直播被绑架](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%BD%91%E4%BC%A0%E4%BA%8C%E9%A9%B4%E7%9B%B4%E6%92%AD%E8%A2%AB%E7%BB%91%E6%9E%B6%23&t=31&band_rank=6&Refer=top)<br />
-7. [最难喝饮料排行榜](https://s.weibo.com/weibo?q=%E6%9C%80%E9%9A%BE%E5%96%9D%E9%A5%AE%E6%96%99%E6%8E%92%E8%A1%8C%E6%A6%9C&t=31&band_rank=7&Refer=top)<br />
-8. [陆毅因为贝儿参加披荆斩棘](https://s.weibo.com/weibo?q=%23%E9%99%86%E6%AF%85%E5%9B%A0%E4%B8%BA%E8%B4%9D%E5%84%BF%E5%8F%82%E5%8A%A0%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%23&t=31&band_rank=8&Refer=top)<br />
-9. [程耳王一博人鱼立项](https://s.weibo.com/weibo?q=%23%E7%A8%8B%E8%80%B3%E7%8E%8B%E4%B8%80%E5%8D%9A%E4%BA%BA%E9%B1%BC%E7%AB%8B%E9%A1%B9%23&t=31&band_rank=9&Refer=top)<br />
+5. [林志颖公开回应车祸经历](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%97%E9%A2%96%E5%85%AC%E5%BC%80%E5%9B%9E%E5%BA%94%E8%BD%A6%E7%A5%B8%E7%BB%8F%E5%8E%86%23&t=31&band_rank=5&Refer=top)<br />
+6. [张晚意被杨紫叫哥哥叫到崩溃](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%99%9A%E6%84%8F%E8%A2%AB%E6%9D%A8%E7%B4%AB%E5%8F%AB%E5%93%A5%E5%93%A5%E5%8F%AB%E5%88%B0%E5%B4%A9%E6%BA%83%23&t=31&band_rank=6&Refer=top)<br />
+7. [警方通报网传二驴直播被绑架](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%BD%91%E4%BC%A0%E4%BA%8C%E9%A9%B4%E7%9B%B4%E6%92%AD%E8%A2%AB%E7%BB%91%E6%9E%B6%23&t=31&band_rank=7&Refer=top)<br />
+8. [最难喝饮料排行榜](https://s.weibo.com/weibo?q=%E6%9C%80%E9%9A%BE%E5%96%9D%E9%A5%AE%E6%96%99%E6%8E%92%E8%A1%8C%E6%A6%9C&t=31&band_rank=8&Refer=top)<br />
+9. [陆毅因为贝儿参加披荆斩棘](https://s.weibo.com/weibo?q=%23%E9%99%86%E6%AF%85%E5%9B%A0%E4%B8%BA%E8%B4%9D%E5%84%BF%E5%8F%82%E5%8A%A0%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
