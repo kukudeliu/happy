@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 17:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 17:51:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [张晚意被杨紫叫哥哥叫到崩溃](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%99%9A%E6%84%8F%E8%A2%AB%E6%9D%A8%E7%B4%AB%E5%8F%AB%E5%93%A5%E5%93%A5%E5%8F%AB%E5%88%B0%E5%B4%A9%E6%BA%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [警方通报网传二驴直播被绑架](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%BD%91%E4%BC%A0%E4%BA%8C%E9%A9%B4%E7%9B%B4%E6%92%AD%E8%A2%AB%E7%BB%91%E6%9E%B6%23&t=31&band_rank=7&Refer=top)<br />
 8. [林志颖公开回应车祸经历](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%97%E9%A2%96%E5%85%AC%E5%BC%80%E5%9B%9E%E5%BA%94%E8%BD%A6%E7%A5%B8%E7%BB%8F%E5%8E%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [网红二驴账号被封禁](https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E4%BA%8C%E9%A9%B4%E8%B4%A6%E5%8F%B7%E8%A2%AB%E5%B0%81%E7%A6%81%23&t=31&band_rank=9&Refer=top)<br />
+9. [爸爸车祸后7岁小哭包变成顶梁柱](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E8%BD%A6%E7%A5%B8%E5%90%8E7%E5%B2%81%E5%B0%8F%E5%93%AD%E5%8C%85%E5%8F%98%E6%88%90%E9%A1%B6%E6%A2%81%E6%9F%B1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
