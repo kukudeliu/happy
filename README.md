@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 20:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 20:15:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [医院回应穿刺失误致女童死亡](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E7%A9%BF%E5%88%BA%E5%A4%B1%E8%AF%AF%E8%87%B4%E5%A5%B3%E7%AB%A5%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=2&Refer=top)<br />
 3. [国家科技创新力的根本源泉在于人](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E7%A7%91%E6%8A%80%E5%88%9B%E6%96%B0%E5%8A%9B%E7%9A%84%E6%A0%B9%E6%9C%AC%E6%BA%90%E6%B3%89%E5%9C%A8%E4%BA%8E%E4%BA%BA%23&t=31&band_rank=3&Refer=top)<br />
 4. [好声音寥寥数行回应就是对逝者的尊重吗](https://s.weibo.com/weibo?q=%23%E5%A5%BD%E5%A3%B0%E9%9F%B3%E5%AF%A5%E5%AF%A5%E6%95%B0%E8%A1%8C%E5%9B%9E%E5%BA%94%E5%B0%B1%E6%98%AF%E5%AF%B9%E9%80%9D%E8%80%85%E7%9A%84%E5%B0%8A%E9%87%8D%E5%90%97%23&t=31&band_rank=4&Refer=top)<br />
-5. [九尾 倒霉蛋](https://s.weibo.com/weibo?q=%E4%B9%9D%E5%B0%BE%20%E5%80%92%E9%9C%89%E8%9B%8B&t=31&band_rank=5&Refer=top)<br />
-6. [范丞丞玩梗关晓彤你叉叉](https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E7%8E%A9%E6%A2%97%E5%85%B3%E6%99%93%E5%BD%A4%E4%BD%A0%E5%8F%89%E5%8F%89%23&t=31&band_rank=6&Refer=top)<br />
+5. [范丞丞玩梗关晓彤你叉叉](https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E7%8E%A9%E6%A2%97%E5%85%B3%E6%99%93%E5%BD%A4%E4%BD%A0%E5%8F%89%E5%8F%89%23&t=31&band_rank=5&Refer=top)<br />
+6. [九尾 倒霉蛋](https://s.weibo.com/weibo?q=%E4%B9%9D%E5%B0%BE%20%E5%80%92%E9%9C%89%E8%9B%8B&t=31&band_rank=6&Refer=top)<br />
 7. [没十年相思病剪不出这玩意儿](https://s.weibo.com/weibo?q=%23%E6%B2%A1%E5%8D%81%E5%B9%B4%E7%9B%B8%E6%80%9D%E7%97%85%E5%89%AA%E4%B8%8D%E5%87%BA%E8%BF%99%E7%8E%A9%E6%84%8F%E5%84%BF%23&t=31&band_rank=7&Refer=top)<br />
 8. [打响取消公摊第一枪的为什么是合肥](https://s.weibo.com/weibo?q=%23%E6%89%93%E5%93%8D%E5%8F%96%E6%B6%88%E5%85%AC%E6%91%8A%E7%AC%AC%E4%B8%80%E6%9E%AA%E7%9A%84%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%AF%E5%90%88%E8%82%A5%23&t=31&band_rank=8&Refer=top)<br />
 9. [涂山璟lookatme](https://s.weibo.com/weibo?q=%23%E6%B6%82%E5%B1%B1%E7%92%9Flookatme%23&t=31&band_rank=9&Refer=top)<br />
