@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 16:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 16:53:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [陆毅因为贝儿参加披荆斩棘](https://s.weibo.com/weibo?q=%23%E9%99%86%E6%AF%85%E5%9B%A0%E4%B8%BA%E8%B4%9D%E5%84%BF%E5%8F%82%E5%8A%A0%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%23&t=31&band_rank=6&Refer=top)<br />
 7. [最难喝饮料排行榜](https://s.weibo.com/weibo?q=%E6%9C%80%E9%9A%BE%E5%96%9D%E9%A5%AE%E6%96%99%E6%8E%92%E8%A1%8C%E6%A6%9C&t=31&band_rank=7&Refer=top)<br />
 8. [警方通报网传二驴直播被绑架](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%BD%91%E4%BC%A0%E4%BA%8C%E9%A9%B4%E7%9B%B4%E6%92%AD%E8%A2%AB%E7%BB%91%E6%9E%B6%23&t=31&band_rank=8&Refer=top)<br />
-9. [中国好声音母公司股价大跌](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E6%AF%8D%E5%85%AC%E5%8F%B8%E8%82%A1%E4%BB%B7%E5%A4%A7%E8%B7%8C%23&t=31&band_rank=9&Refer=top)<br />
+9. [视觉中国称支持戴建峰报警](https://s.weibo.com/weibo?q=%23%E8%A7%86%E8%A7%89%E4%B8%AD%E5%9B%BD%E7%A7%B0%E6%94%AF%E6%8C%81%E6%88%B4%E5%BB%BA%E5%B3%B0%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
