@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 18:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 18:10:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [李玟姐姐称网传视频属实](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E5%A7%90%E5%A7%90%E7%A7%B0%E7%BD%91%E4%BC%A0%E8%A7%86%E9%A2%91%E5%B1%9E%E5%AE%9E%23&t=31&band_rank=4&Refer=top)<br />
 5. [菜摊边写作业的女孩被川大华西口腔录取](https://s.weibo.com/weibo?q=%23%E8%8F%9C%E6%91%8A%E8%BE%B9%E5%86%99%E4%BD%9C%E4%B8%9A%E7%9A%84%E5%A5%B3%E5%AD%A9%E8%A2%AB%E5%B7%9D%E5%A4%A7%E5%8D%8E%E8%A5%BF%E5%8F%A3%E8%85%94%E5%BD%95%E5%8F%96%23&t=31&band_rank=5&Refer=top)<br />
 6. [李佳琦到底多大了啊](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E5%88%B0%E5%BA%95%E5%A4%9A%E5%A4%A7%E4%BA%86%E5%95%8A%23&t=31&band_rank=6&Refer=top)<br />
-7. [质疑芒狗 理解芒狗 养芒狗](https://s.weibo.com/weibo?q=%E8%B4%A8%E7%96%91%E8%8A%92%E7%8B%97%20%E7%90%86%E8%A7%A3%E8%8A%92%E7%8B%97%20%E5%85%BB%E8%8A%92%E7%8B%97&t=31&band_rank=7&Refer=top)<br />
-8. [广东房东给租客挨家送龙眼](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%88%BF%E4%B8%9C%E7%BB%99%E7%A7%9F%E5%AE%A2%E6%8C%A8%E5%AE%B6%E9%80%81%E9%BE%99%E7%9C%BC%23&t=31&band_rank=8&Refer=top)<br />
+7. [广东房东给租客挨家送龙眼](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%88%BF%E4%B8%9C%E7%BB%99%E7%A7%9F%E5%AE%A2%E6%8C%A8%E5%AE%B6%E9%80%81%E9%BE%99%E7%9C%BC%23&t=31&band_rank=7&Refer=top)<br />
+8. [质疑芒狗 理解芒狗 养芒狗](https://s.weibo.com/weibo?q=%E8%B4%A8%E7%96%91%E8%8A%92%E7%8B%97%20%E7%90%86%E8%A7%A3%E8%8A%92%E7%8B%97%20%E5%85%BB%E8%8A%92%E7%8B%97&t=31&band_rank=8&Refer=top)<br />
 9. [赵丽颖蓝色星钻人鱼裙](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%93%9D%E8%89%B2%E6%98%9F%E9%92%BB%E4%BA%BA%E9%B1%BC%E8%A3%99%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
