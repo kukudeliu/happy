@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 15:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 15:25:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [六公主播宝莲灯怀念李玟](https://s.weibo.com/weibo?q=%23%E5%85%AD%E5%85%AC%E4%B8%BB%E6%92%AD%E5%AE%9D%E8%8E%B2%E7%81%AF%E6%80%80%E5%BF%B5%E6%9D%8E%E7%8E%9F%23&t=31&band_rank=5&Refer=top)<br />
 6. [南风知我意](https://s.weibo.com/weibo?q=%E5%8D%97%E9%A3%8E%E7%9F%A5%E6%88%91%E6%84%8F&t=31&band_rank=6&Refer=top)<br />
 7. [感应式分手](https://s.weibo.com/weibo?q=%E6%84%9F%E5%BA%94%E5%BC%8F%E5%88%86%E6%89%8B&t=31&band_rank=7&Refer=top)<br />
-8. [最难喝饮料排行榜](https://s.weibo.com/weibo?q=%E6%9C%80%E9%9A%BE%E5%96%9D%E9%A5%AE%E6%96%99%E6%8E%92%E8%A1%8C%E6%A6%9C&t=31&band_rank=8&Refer=top)<br />
+8. [马伯骞把魏哲鸣认成魏巡](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%BC%AF%E9%AA%9E%E6%8A%8A%E9%AD%8F%E5%93%B2%E9%B8%A3%E8%AE%A4%E6%88%90%E9%AD%8F%E5%B7%A1%23&t=31&band_rank=8&Refer=top)<br />
 9. [亚运会门票](https://s.weibo.com/weibo?q=%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%97%A8%E7%A5%A8&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
