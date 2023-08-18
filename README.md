@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 19:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 19:38:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [质疑芒狗 理解芒狗 养芒狗](https://s.weibo.com/weibo?q=%E8%B4%A8%E7%96%91%E8%8A%92%E7%8B%97%20%E7%90%86%E8%A7%A3%E8%8A%92%E7%8B%97%20%E5%85%BB%E8%8A%92%E7%8B%97&t=31&band_rank=6&Refer=top)<br />
 7. [广东房东给租客挨家送龙眼](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%88%BF%E4%B8%9C%E7%BB%99%E7%A7%9F%E5%AE%A2%E6%8C%A8%E5%AE%B6%E9%80%81%E9%BE%99%E7%9C%BC%23&t=31&band_rank=7&Refer=top)<br />
 8. [古天乐毁容妆过敏](https://s.weibo.com/weibo?q=%23%E5%8F%A4%E5%A4%A9%E4%B9%90%E6%AF%81%E5%AE%B9%E5%A6%86%E8%BF%87%E6%95%8F%23&t=31&band_rank=8&Refer=top)<br />
-9. [赵丽颖蓝色星钻人鱼裙](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%93%9D%E8%89%B2%E6%98%9F%E9%92%BB%E4%BA%BA%E9%B1%BC%E8%A3%99%23&t=31&band_rank=9&Refer=top)<br />
+9. [范丞丞玩梗关晓彤你叉叉](https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E7%8E%A9%E6%A2%97%E5%85%B3%E6%99%93%E5%BD%A4%E4%BD%A0%E5%8F%89%E5%8F%89%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,10 +22,10 @@
 3. [警方辟谣女孩为追星把第一次给黄牛](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%A5%B3%E5%AD%A9%E4%B8%BA%E8%BF%BD%E6%98%9F%E6%8A%8A%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%BB%99%E9%BB%84%E7%89%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全力加快灾后恢复重建](https://www.baidu.com/s?wd=%E5%85%A8%E5%8A%9B%E5%8A%A0%E5%BF%AB%E7%81%BE%E5%90%8E%E6%81%A2%E5%A4%8D%E9%87%8D%E5%BB%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [委员建议降低法定婚龄 官方回应](https://www.baidu.com/s?wd=%E5%A7%94%E5%91%98%E5%BB%BA%E8%AE%AE%E9%99%8D%E4%BD%8E%E6%B3%95%E5%AE%9A%E5%A9%9A%E9%BE%84+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [情侣买婚房被原房主妻子将门焊死](https://www.baidu.com/s?wd=%E6%83%85%E4%BE%A3%E4%B9%B0%E5%A9%9A%E6%88%BF%E8%A2%AB%E5%8E%9F%E6%88%BF%E4%B8%BB%E5%A6%BB%E5%AD%90%E5%B0%86%E9%97%A8%E7%84%8A%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [东部战区超近距离驱离美军机画面](https://www.baidu.com/s?wd=%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E8%B6%85%E8%BF%91%E8%B7%9D%E7%A6%BB%E9%A9%B1%E7%A6%BB%E7%BE%8E%E5%86%9B%E6%9C%BA%E7%94%BB%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [铁头称打击衡水中学受到各方压力](https://www.baidu.com/s?wd=%E9%93%81%E5%A4%B4%E7%A7%B0%E6%89%93%E5%87%BB%E8%A1%A1%E6%B0%B4%E4%B8%AD%E5%AD%A6%E5%8F%97%E5%88%B0%E5%90%84%E6%96%B9%E5%8E%8B%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子为赚7000元试药 老婆要离婚](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%BA%E8%B5%9A7000%E5%85%83%E8%AF%95%E8%8D%AF+%E8%80%81%E5%A9%86%E8%A6%81%E7%A6%BB%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [程序员未写出赌博程序被拔掉14颗牙](https://www.baidu.com/s?wd=%E7%A8%8B%E5%BA%8F%E5%91%98%E6%9C%AA%E5%86%99%E5%87%BA%E8%B5%8C%E5%8D%9A%E7%A8%8B%E5%BA%8F%E8%A2%AB%E6%8B%94%E6%8E%8914%E9%A2%97%E7%89%99&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [情侣买婚房被原房主妻子将门焊死](https://www.baidu.com/s?wd=%E6%83%85%E4%BE%A3%E4%B9%B0%E5%A9%9A%E6%88%BF%E8%A2%AB%E5%8E%9F%E6%88%BF%E4%B8%BB%E5%A6%BB%E5%AD%90%E5%B0%86%E9%97%A8%E7%84%8A%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [东部战区超近距离驱离美军机画面](https://www.baidu.com/s?wd=%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E8%B6%85%E8%BF%91%E8%B7%9D%E7%A6%BB%E9%A9%B1%E7%A6%BB%E7%BE%8E%E5%86%9B%E6%9C%BA%E7%94%BB%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [铁头称打击衡水中学受到各方压力](https://www.baidu.com/s?wd=%E9%93%81%E5%A4%B4%E7%A7%B0%E6%89%93%E5%87%BB%E8%A1%A1%E6%B0%B4%E4%B8%AD%E5%AD%A6%E5%8F%97%E5%88%B0%E5%90%84%E6%96%B9%E5%8E%8B%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -34,7 +34,7 @@
 3. [警方辟谣女孩为追星把第一次给黄牛](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%A5%B3%E5%AD%A9%E4%B8%BA%E8%BF%BD%E6%98%9F%E6%8A%8A%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%BB%99%E9%BB%84%E7%89%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全力加快灾后恢复重建](https://www.baidu.com/s?wd=%E5%85%A8%E5%8A%9B%E5%8A%A0%E5%BF%AB%E7%81%BE%E5%90%8E%E6%81%A2%E5%A4%8D%E9%87%8D%E5%BB%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [委员建议降低法定婚龄 官方回应](https://www.baidu.com/s?wd=%E5%A7%94%E5%91%98%E5%BB%BA%E8%AE%AE%E9%99%8D%E4%BD%8E%E6%B3%95%E5%AE%9A%E5%A9%9A%E9%BE%84+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [情侣买婚房被原房主妻子将门焊死](https://www.baidu.com/s?wd=%E6%83%85%E4%BE%A3%E4%B9%B0%E5%A9%9A%E6%88%BF%E8%A2%AB%E5%8E%9F%E6%88%BF%E4%B8%BB%E5%A6%BB%E5%AD%90%E5%B0%86%E9%97%A8%E7%84%8A%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [东部战区超近距离驱离美军机画面](https://www.baidu.com/s?wd=%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E8%B6%85%E8%BF%91%E8%B7%9D%E7%A6%BB%E9%A9%B1%E7%A6%BB%E7%BE%8E%E5%86%9B%E6%9C%BA%E7%94%BB%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [铁头称打击衡水中学受到各方压力](https://www.baidu.com/s?wd=%E9%93%81%E5%A4%B4%E7%A7%B0%E6%89%93%E5%87%BB%E8%A1%A1%E6%B0%B4%E4%B8%AD%E5%AD%A6%E5%8F%97%E5%88%B0%E5%90%84%E6%96%B9%E5%8E%8B%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子为赚7000元试药 老婆要离婚](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%BA%E8%B5%9A7000%E5%85%83%E8%AF%95%E8%8D%AF+%E8%80%81%E5%A9%86%E8%A6%81%E7%A6%BB%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [程序员未写出赌博程序被拔掉14颗牙](https://www.baidu.com/s?wd=%E7%A8%8B%E5%BA%8F%E5%91%98%E6%9C%AA%E5%86%99%E5%87%BA%E8%B5%8C%E5%8D%9A%E7%A8%8B%E5%BA%8F%E8%A2%AB%E6%8B%94%E6%8E%8914%E9%A2%97%E7%89%99&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [情侣买婚房被原房主妻子将门焊死](https://www.baidu.com/s?wd=%E6%83%85%E4%BE%A3%E4%B9%B0%E5%A9%9A%E6%88%BF%E8%A2%AB%E5%8E%9F%E6%88%BF%E4%B8%BB%E5%A6%BB%E5%AD%90%E5%B0%86%E9%97%A8%E7%84%8A%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [东部战区超近距离驱离美军机画面](https://www.baidu.com/s?wd=%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E8%B6%85%E8%BF%91%E8%B7%9D%E7%A6%BB%E9%A9%B1%E7%A6%BB%E7%BE%8E%E5%86%9B%E6%9C%BA%E7%94%BB%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [铁头称打击衡水中学受到各方压力](https://www.baidu.com/s?wd=%E9%93%81%E5%A4%B4%E7%A7%B0%E6%89%93%E5%87%BB%E8%A1%A1%E6%B0%B4%E4%B8%AD%E5%AD%A6%E5%8F%97%E5%88%B0%E5%90%84%E6%96%B9%E5%8E%8B%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
