@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 22:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 22:58:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [周深绝了](https://s.weibo.com/weibo?q=%E5%91%A8%E6%B7%B1%E7%BB%9D%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [打响取消公摊第一枪的为什么是合肥](https://s.weibo.com/weibo?q=%23%E6%89%93%E5%93%8D%E5%8F%96%E6%B6%88%E5%85%AC%E6%91%8A%E7%AC%AC%E4%B8%80%E6%9E%AA%E7%9A%84%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%AF%E5%90%88%E8%82%A5%23&t=31&band_rank=7&Refer=top)<br />
 8. [中泰缅老警方合作打击赌诈集团](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%B3%B0%E7%BC%85%E8%80%81%E8%AD%A6%E6%96%B9%E5%90%88%E4%BD%9C%E6%89%93%E5%87%BB%E8%B5%8C%E8%AF%88%E9%9B%86%E5%9B%A2%23&t=31&band_rank=8&Refer=top)<br />
-9. [睡觉时手机在枕边充电有多危险](https://s.weibo.com/weibo?q=%23%E7%9D%A1%E8%A7%89%E6%97%B6%E6%89%8B%E6%9C%BA%E5%9C%A8%E6%9E%95%E8%BE%B9%E5%85%85%E7%94%B5%E6%9C%89%E5%A4%9A%E5%8D%B1%E9%99%A9%23&t=31&band_rank=9&Refer=top)<br />
+9. [医院回应穿刺失误致女童死亡](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E7%A9%BF%E5%88%BA%E5%A4%B1%E8%AF%AF%E8%87%B4%E5%A5%B3%E7%AB%A5%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
