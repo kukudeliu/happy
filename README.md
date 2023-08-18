@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 10:58:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 10:59:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [是中国建造更是中国设计](https://s.weibo.com/weibo?q=%23%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%BB%BA%E9%80%A0%E6%9B%B4%E6%98%AF%E4%B8%AD%E5%9B%BD%E8%AE%BE%E8%AE%A1%23&t=31&band_rank=3&Refer=top)<br />
 4. [缅甸华人称缅甸确实被妖魔化](https://s.weibo.com/weibo?q=%23%E7%BC%85%E7%94%B8%E5%8D%8E%E4%BA%BA%E7%A7%B0%E7%BC%85%E7%94%B8%E7%A1%AE%E5%AE%9E%E8%A2%AB%E5%A6%96%E9%AD%94%E5%8C%96%23&t=31&band_rank=4&Refer=top)<br />
 5. [王一栩再发长文](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E6%A0%A9%E5%86%8D%E5%8F%91%E9%95%BF%E6%96%87%23&t=31&band_rank=5&Refer=top)<br />
-6. [弟弟为救在缅甸哥哥又被骗电诈园区](https://s.weibo.com/weibo?q=%23%E5%BC%9F%E5%BC%9F%E4%B8%BA%E6%95%91%E5%9C%A8%E7%BC%85%E7%94%B8%E5%93%A5%E5%93%A5%E5%8F%88%E8%A2%AB%E9%AA%97%E7%94%B5%E8%AF%88%E5%9B%AD%E5%8C%BA%23&t=31&band_rank=6&Refer=top)<br />
-7. [四川内江地震](https://s.weibo.com/weibo?q=%E5%9B%9B%E5%B7%9D%E5%86%85%E6%B1%9F%E5%9C%B0%E9%9C%87&t=31&band_rank=7&Refer=top)<br />
+6. [四川内江地震](https://s.weibo.com/weibo?q=%E5%9B%9B%E5%B7%9D%E5%86%85%E6%B1%9F%E5%9C%B0%E9%9C%87&t=31&band_rank=6&Refer=top)<br />
+7. [弟弟为救在缅甸哥哥又被骗电诈园区](https://s.weibo.com/weibo?q=%23%E5%BC%9F%E5%BC%9F%E4%B8%BA%E6%95%91%E5%9C%A8%E7%BC%85%E7%94%B8%E5%93%A5%E5%93%A5%E5%8F%88%E8%A2%AB%E9%AA%97%E7%94%B5%E8%AF%88%E5%9B%AD%E5%8C%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [黄渤小时候被父亲打得皮带都断了](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%B8%A4%E5%B0%8F%E6%97%B6%E5%80%99%E8%A2%AB%E7%88%B6%E4%BA%B2%E6%89%93%E5%BE%97%E7%9A%AE%E5%B8%A6%E9%83%BD%E6%96%AD%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [蒲熠星 这个故事是我100%的作品](https://s.weibo.com/weibo?q=%E8%92%B2%E7%86%A0%E6%98%9F%20%E8%BF%99%E4%B8%AA%E6%95%85%E4%BA%8B%E6%98%AF%E6%88%91100%25%E7%9A%84%E4%BD%9C%E5%93%81&t=31&band_rank=9&Refer=top)<br />
+9. [受贿百套房医院院长庭审画面曝光](https://s.weibo.com/weibo?q=%23%E5%8F%97%E8%B4%BF%E7%99%BE%E5%A5%97%E6%88%BF%E5%8C%BB%E9%99%A2%E9%99%A2%E9%95%BF%E5%BA%AD%E5%AE%A1%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
