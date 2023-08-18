@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 08:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 08:49:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [王一栩抑郁症](https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B8%80%E6%A0%A9%E6%8A%91%E9%83%81%E7%97%87&t=31&band_rank=5&Refer=top)<br />
 6. [杨超越演技](https://s.weibo.com/weibo?q=%E6%9D%A8%E8%B6%85%E8%B6%8A%E6%BC%94%E6%8A%80&t=31&band_rank=6&Refer=top)<br />
 7. [假如相柳娶了青丘公主](https://s.weibo.com/weibo?q=%23%E5%81%87%E5%A6%82%E7%9B%B8%E6%9F%B3%E5%A8%B6%E4%BA%86%E9%9D%92%E4%B8%98%E5%85%AC%E4%B8%BB%23&t=31&band_rank=7&Refer=top)<br />
-8. [2年遭家暴16次女子被送精神病院治疗](https://s.weibo.com/weibo?q=%232%E5%B9%B4%E9%81%AD%E5%AE%B6%E6%9A%B416%E6%AC%A1%E5%A5%B3%E5%AD%90%E8%A2%AB%E9%80%81%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2%E6%B2%BB%E7%96%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [妈妈收到女儿的金戒指红了眼眶](https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E6%94%B6%E5%88%B0%E5%A5%B3%E5%84%BF%E7%9A%84%E9%87%91%E6%88%92%E6%8C%87%E7%BA%A2%E4%BA%86%E7%9C%BC%E7%9C%B6%23&t=31&band_rank=9&Refer=top)<br />
+8. [妈妈收到女儿的金戒指红了眼眶](https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E6%94%B6%E5%88%B0%E5%A5%B3%E5%84%BF%E7%9A%84%E9%87%91%E6%88%92%E6%8C%87%E7%BA%A2%E4%BA%86%E7%9C%BC%E7%9C%B6%23&t=31&band_rank=8&Refer=top)<br />
+9. [2年遭家暴16次女子被送精神病院治疗](https://s.weibo.com/weibo?q=%232%E5%B9%B4%E9%81%AD%E5%AE%B6%E6%9A%B416%E6%AC%A1%E5%A5%B3%E5%AD%90%E8%A2%AB%E9%80%81%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2%E6%B2%BB%E7%96%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
