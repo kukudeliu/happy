@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 08:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 08:18:02</h4></div>
 
 > 微博  
 
@@ -22,10 +22,10 @@
 3. [受贿百套房医院院长庭审画面曝光](https://www.baidu.com/s?wd=%E5%8F%97%E8%B4%BF%E7%99%BE%E5%A5%97%E6%88%BF%E5%8C%BB%E9%99%A2%E9%99%A2%E9%95%BF%E5%BA%AD%E5%AE%A1%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [南海开渔忙 千帆竞发迎丰收](https://www.baidu.com/s?wd=%E5%8D%97%E6%B5%B7%E5%BC%80%E6%B8%94%E5%BF%99+%E5%8D%83%E5%B8%86%E7%AB%9E%E5%8F%91%E8%BF%8E%E4%B8%B0%E6%94%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [央行：房贷利率为历史低位](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%EF%BC%9A%E6%88%BF%E8%B4%B7%E5%88%A9%E7%8E%87%E4%B8%BA%E5%8E%86%E5%8F%B2%E4%BD%8E%E4%BD%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [12306回应女子买3座被骂不道德](https://www.baidu.com/s?wd=12306%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E4%B9%B03%E5%BA%A7%E8%A2%AB%E9%AA%82%E4%B8%8D%E9%81%93%E5%BE%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [武汉大学：学生夫妻可申请合宿](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6%EF%BC%9A%E5%AD%A6%E7%94%9F%E5%A4%AB%E5%A6%BB%E5%8F%AF%E7%94%B3%E8%AF%B7%E5%90%88%E5%AE%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [衡水校长称已注意到网红要打衡中](https://www.baidu.com/s?wd=%E8%A1%A1%E6%B0%B4%E6%A0%A1%E9%95%BF%E7%A7%B0%E5%B7%B2%E6%B3%A8%E6%84%8F%E5%88%B0%E7%BD%91%E7%BA%A2%E8%A6%81%E6%89%93%E8%A1%A1%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [百度818企业搜索节](https://www.baidu.com/s?wd=%E7%99%BE%E5%BA%A6%E8%90%A5%E9%94%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [武汉大学：学生夫妻可申请合宿](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6%EF%BC%9A%E5%AD%A6%E7%94%9F%E5%A4%AB%E5%A6%BB%E5%8F%AF%E7%94%B3%E8%AF%B7%E5%90%88%E5%AE%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [12306回应女子买3座被骂不道德](https://www.baidu.com/s?wd=12306%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E4%B9%B03%E5%BA%A7%E8%A2%AB%E9%AA%82%E4%B8%8D%E9%81%93%E5%BE%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -34,7 +34,7 @@
 3. [受贿百套房医院院长庭审画面曝光](https://www.baidu.com/s?wd=%E5%8F%97%E8%B4%BF%E7%99%BE%E5%A5%97%E6%88%BF%E5%8C%BB%E9%99%A2%E9%99%A2%E9%95%BF%E5%BA%AD%E5%AE%A1%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [南海开渔忙 千帆竞发迎丰收](https://www.baidu.com/s?wd=%E5%8D%97%E6%B5%B7%E5%BC%80%E6%B8%94%E5%BF%99+%E5%8D%83%E5%B8%86%E7%AB%9E%E5%8F%91%E8%BF%8E%E4%B8%B0%E6%94%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [央行：房贷利率为历史低位](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%EF%BC%9A%E6%88%BF%E8%B4%B7%E5%88%A9%E7%8E%87%E4%B8%BA%E5%8E%86%E5%8F%B2%E4%BD%8E%E4%BD%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [12306回应女子买3座被骂不道德](https://www.baidu.com/s?wd=12306%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E4%B9%B03%E5%BA%A7%E8%A2%AB%E9%AA%82%E4%B8%8D%E9%81%93%E5%BE%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [武汉大学：学生夫妻可申请合宿](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6%EF%BC%9A%E5%AD%A6%E7%94%9F%E5%A4%AB%E5%A6%BB%E5%8F%AF%E7%94%B3%E8%AF%B7%E5%90%88%E5%AE%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [衡水校长称已注意到网红要打衡中](https://www.baidu.com/s?wd=%E8%A1%A1%E6%B0%B4%E6%A0%A1%E9%95%BF%E7%A7%B0%E5%B7%B2%E6%B3%A8%E6%84%8F%E5%88%B0%E7%BD%91%E7%BA%A2%E8%A6%81%E6%89%93%E8%A1%A1%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [百度818企业搜索节](https://www.baidu.com/s?wd=%E7%99%BE%E5%BA%A6%E8%90%A5%E9%94%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [武汉大学：学生夫妻可申请合宿](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6%EF%BC%9A%E5%AD%A6%E7%94%9F%E5%A4%AB%E5%A6%BB%E5%8F%AF%E7%94%B3%E8%AF%B7%E5%90%88%E5%AE%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [12306回应女子买3座被骂不道德](https://www.baidu.com/s?wd=12306%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E4%B9%B03%E5%BA%A7%E8%A2%AB%E9%AA%82%E4%B8%8D%E9%81%93%E5%BE%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
