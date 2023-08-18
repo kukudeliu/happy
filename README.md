@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 21:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 21:55:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [医院回应穿刺失误致女童死亡](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E7%A9%BF%E5%88%BA%E5%A4%B1%E8%AF%AF%E8%87%B4%E5%A5%B3%E7%AB%A5%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=5&Refer=top)<br />
 6. [睡觉时手机在枕边充电有多危险](https://s.weibo.com/weibo?q=%23%E7%9D%A1%E8%A7%89%E6%97%B6%E6%89%8B%E6%9C%BA%E5%9C%A8%E6%9E%95%E8%BE%B9%E5%85%85%E7%94%B5%E6%9C%89%E5%A4%9A%E5%8D%B1%E9%99%A9%23&t=31&band_rank=6&Refer=top)<br />
 7. [邓为一套衣服拍了多少物料](https://s.weibo.com/weibo?q=%23%E9%82%93%E4%B8%BA%E4%B8%80%E5%A5%97%E8%A1%A3%E6%9C%8D%E6%8B%8D%E4%BA%86%E5%A4%9A%E5%B0%91%E7%89%A9%E6%96%99%23&t=31&band_rank=7&Refer=top)<br />
-8. [央视818晚会](https://s.weibo.com/weibo?q=%E5%A4%AE%E8%A7%86818%E6%99%9A%E4%BC%9A&t=31&band_rank=8&Refer=top)<br />
-9. [卿卿日常紫薯精vs七时吉祥走地鸡](https://s.weibo.com/weibo?q=%23%E5%8D%BF%E5%8D%BF%E6%97%A5%E5%B8%B8%E7%B4%AB%E8%96%AF%E7%B2%BEvs%E4%B8%83%E6%97%B6%E5%90%89%E7%A5%A5%E8%B5%B0%E5%9C%B0%E9%B8%A1%23&t=31&band_rank=9&Refer=top)<br />
+8. [卿卿日常紫薯精vs七时吉祥走地鸡](https://s.weibo.com/weibo?q=%23%E5%8D%BF%E5%8D%BF%E6%97%A5%E5%B8%B8%E7%B4%AB%E8%96%AF%E7%B2%BEvs%E4%B8%83%E6%97%B6%E5%90%89%E7%A5%A5%E8%B5%B0%E5%9C%B0%E9%B8%A1%23&t=31&band_rank=8&Refer=top)<br />
+9. [央视818晚会](https://s.weibo.com/weibo?q=%E5%A4%AE%E8%A7%86818%E6%99%9A%E4%BC%9A&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
