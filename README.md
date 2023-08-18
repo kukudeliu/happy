@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 15:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 15:26:01</h4></div>
 
 > 微博  
 
 1. [陆毅因为贝儿参加披荆斩棘](https://s.weibo.com/weibo?q=%23%E9%99%86%E6%AF%85%E5%9B%A0%E4%B8%BA%E8%B4%9D%E5%84%BF%E5%8F%82%E5%8A%A0%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%23&t=31&band_rank=1&Refer=top)<br />
-2. [中国好声音母公司股价大跌](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E6%AF%8D%E5%85%AC%E5%8F%B8%E8%82%A1%E4%BB%B7%E5%A4%A7%E8%B7%8C%23&t=31&band_rank=2&Refer=top)<br />
+2. [质疑芒狗 理解芒狗 养芒狗](https://s.weibo.com/weibo?q=%E8%B4%A8%E7%96%91%E8%8A%92%E7%8B%97%20%E7%90%86%E8%A7%A3%E8%8A%92%E7%8B%97%20%E5%85%BB%E8%8A%92%E7%8B%97&t=31&band_rank=2&Refer=top)<br />
 3. [中国式现代化的京津冀实践](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%E7%9A%84%E4%BA%AC%E6%B4%A5%E5%86%80%E5%AE%9E%E8%B7%B5%23&t=31&band_rank=3&Refer=top)<br />
-4. [质疑芒狗 理解芒狗 养芒狗](https://s.weibo.com/weibo?q=%E8%B4%A8%E7%96%91%E8%8A%92%E7%8B%97%20%E7%90%86%E8%A7%A3%E8%8A%92%E7%8B%97%20%E5%85%BB%E8%8A%92%E7%8B%97&t=31&band_rank=4&Refer=top)<br />
+4. [中国好声音母公司股价大跌](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E6%AF%8D%E5%85%AC%E5%8F%B8%E8%82%A1%E4%BB%B7%E5%A4%A7%E8%B7%8C%23&t=31&band_rank=4&Refer=top)<br />
 5. [六公主播宝莲灯怀念李玟](https://s.weibo.com/weibo?q=%23%E5%85%AD%E5%85%AC%E4%B8%BB%E6%92%AD%E5%AE%9D%E8%8E%B2%E7%81%AF%E6%80%80%E5%BF%B5%E6%9D%8E%E7%8E%9F%23&t=31&band_rank=5&Refer=top)<br />
 6. [南风知我意](https://s.weibo.com/weibo?q=%E5%8D%97%E9%A3%8E%E7%9F%A5%E6%88%91%E6%84%8F&t=31&band_rank=6&Refer=top)<br />
 7. [感应式分手](https://s.weibo.com/weibo?q=%E6%84%9F%E5%BA%94%E5%BC%8F%E5%88%86%E6%89%8B&t=31&band_rank=7&Refer=top)<br />
