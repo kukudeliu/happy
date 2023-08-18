@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-19 02:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-19 02:34:02</h4></div>
 
 > 微博  
 
@@ -23,9 +23,9 @@
 4. [暑期消费正火热](https://www.baidu.com/s?wd=%E6%9A%91%E6%9C%9F%E6%B6%88%E8%B4%B9%E6%AD%A3%E7%81%AB%E7%83%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [委员建议降低法定婚龄 官方回应](https://www.baidu.com/s?wd=%E5%A7%94%E5%91%98%E5%BB%BA%E8%AE%AE%E9%99%8D%E4%BD%8E%E6%B3%95%E5%AE%9A%E5%A9%9A%E9%BE%84+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [周琦加入广东男篮 与赵睿互换东家](https://www.baidu.com/s?wd=%E5%91%A8%E7%90%A6%E5%8A%A0%E5%85%A5%E5%B9%BF%E4%B8%9C%E7%94%B7%E7%AF%AE+%E4%B8%8E%E8%B5%B5%E7%9D%BF%E4%BA%92%E6%8D%A2%E4%B8%9C%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [演员赵荀深夜发文感谢民警救其子](https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E8%B5%B5%E8%8D%80%E6%B7%B1%E5%A4%9C%E5%8F%91%E6%96%87%E6%84%9F%E8%B0%A2%E6%B0%91%E8%AD%A6%E6%95%91%E5%85%B6%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子为赚7000元试药 老婆要离婚](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%BA%E8%B5%9A7000%E5%85%83%E8%AF%95%E8%8D%AF+%E8%80%81%E5%A9%86%E8%A6%81%E7%A6%BB%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [林志颖谈车祸经历：差点半身不遂](https://www.baidu.com/s?wd=%E6%9E%97%E5%BF%97%E9%A2%96%E8%B0%88%E8%BD%A6%E7%A5%B8%E7%BB%8F%E5%8E%86%EF%BC%9A%E5%B7%AE%E7%82%B9%E5%8D%8A%E8%BA%AB%E4%B8%8D%E9%81%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [韩红团队捐赠黑龙江80辆救护车](https://www.baidu.com/s?wd=%E9%9F%A9%E7%BA%A2%E5%9B%A2%E9%98%9F%E6%8D%90%E8%B5%A0%E9%BB%91%E9%BE%99%E6%B1%9F80%E8%BE%86%E6%95%91%E6%8A%A4%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [专家建议将幼儿园纳入义务教育](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E5%BB%BA%E8%AE%AE%E5%B0%86%E5%B9%BC%E5%84%BF%E5%9B%AD%E7%BA%B3%E5%85%A5%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子为赚7000元试药 老婆要离婚](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%BA%E8%B5%9A7000%E5%85%83%E8%AF%95%E8%8D%AF+%E8%80%81%E5%A9%86%E8%A6%81%E7%A6%BB%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -35,6 +35,6 @@
 4. [暑期消费正火热](https://www.baidu.com/s?wd=%E6%9A%91%E6%9C%9F%E6%B6%88%E8%B4%B9%E6%AD%A3%E7%81%AB%E7%83%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [委员建议降低法定婚龄 官方回应](https://www.baidu.com/s?wd=%E5%A7%94%E5%91%98%E5%BB%BA%E8%AE%AE%E9%99%8D%E4%BD%8E%E6%B3%95%E5%AE%9A%E5%A9%9A%E9%BE%84+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [周琦加入广东男篮 与赵睿互换东家](https://www.baidu.com/s?wd=%E5%91%A8%E7%90%A6%E5%8A%A0%E5%85%A5%E5%B9%BF%E4%B8%9C%E7%94%B7%E7%AF%AE+%E4%B8%8E%E8%B5%B5%E7%9D%BF%E4%BA%92%E6%8D%A2%E4%B8%9C%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [演员赵荀深夜发文感谢民警救其子](https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E8%B5%B5%E8%8D%80%E6%B7%B1%E5%A4%9C%E5%8F%91%E6%96%87%E6%84%9F%E8%B0%A2%E6%B0%91%E8%AD%A6%E6%95%91%E5%85%B6%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子为赚7000元试药 老婆要离婚](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%BA%E8%B5%9A7000%E5%85%83%E8%AF%95%E8%8D%AF+%E8%80%81%E5%A9%86%E8%A6%81%E7%A6%BB%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [林志颖谈车祸经历：差点半身不遂](https://www.baidu.com/s?wd=%E6%9E%97%E5%BF%97%E9%A2%96%E8%B0%88%E8%BD%A6%E7%A5%B8%E7%BB%8F%E5%8E%86%EF%BC%9A%E5%B7%AE%E7%82%B9%E5%8D%8A%E8%BA%AB%E4%B8%8D%E9%81%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [韩红团队捐赠黑龙江80辆救护车](https://www.baidu.com/s?wd=%E9%9F%A9%E7%BA%A2%E5%9B%A2%E9%98%9F%E6%8D%90%E8%B5%A0%E9%BB%91%E9%BE%99%E6%B1%9F80%E8%BE%86%E6%95%91%E6%8A%A4%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [专家建议将幼儿园纳入义务教育](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E5%BB%BA%E8%AE%AE%E5%B0%86%E5%B9%BC%E5%84%BF%E5%9B%AD%E7%BA%B3%E5%85%A5%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子为赚7000元试药 老婆要离婚](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%BA%E8%B5%9A7000%E5%85%83%E8%AF%95%E8%8D%AF+%E8%80%81%E5%A9%86%E8%A6%81%E7%A6%BB%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
