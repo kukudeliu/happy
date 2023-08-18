@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 17:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 17:09:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [男子为赚7000元试药 老婆要离婚](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%BA%E8%B5%9A7000%E5%85%83%E8%AF%95%E8%8D%AF+%E8%80%81%E5%A9%86%E8%A6%81%E7%A6%BB%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [四川内江发生多次地震](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%86%85%E6%B1%9F%E5%8F%91%E7%94%9F%E5%A4%9A%E6%AC%A1%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [东部战区超近距离驱离美军机画面](https://www.baidu.com/s?wd=%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E8%B6%85%E8%BF%91%E8%B7%9D%E7%A6%BB%E9%A9%B1%E7%A6%BB%E7%BE%8E%E5%86%9B%E6%9C%BA%E7%94%BB%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [网红铁头称暂不再碰教培行业](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E9%93%81%E5%A4%B4%E7%A7%B0%E6%9A%82%E4%B8%8D%E5%86%8D%E7%A2%B0%E6%95%99%E5%9F%B9%E8%A1%8C%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [出版社回应把中国踢出四大文明古国](https://www.baidu.com/s?wd=%E5%87%BA%E7%89%88%E7%A4%BE%E5%9B%9E%E5%BA%94%E6%8A%8A%E4%B8%AD%E5%9B%BD%E8%B8%A2%E5%87%BA%E5%9B%9B%E5%A4%A7%E6%96%87%E6%98%8E%E5%8F%A4%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [男子为赚7000元试药 老婆要离婚](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%BA%E8%B5%9A7000%E5%85%83%E8%AF%95%E8%8D%AF+%E8%80%81%E5%A9%86%E8%A6%81%E7%A6%BB%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [四川内江发生多次地震](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%86%85%E6%B1%9F%E5%8F%91%E7%94%9F%E5%A4%9A%E6%AC%A1%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [东部战区超近距离驱离美军机画面](https://www.baidu.com/s?wd=%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E8%B6%85%E8%BF%91%E8%B7%9D%E7%A6%BB%E9%A9%B1%E7%A6%BB%E7%BE%8E%E5%86%9B%E6%9C%BA%E7%94%BB%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [网红铁头称暂不再碰教培行业](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E9%93%81%E5%A4%B4%E7%A7%B0%E6%9A%82%E4%B8%8D%E5%86%8D%E7%A2%B0%E6%95%99%E5%9F%B9%E8%A1%8C%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [出版社回应把中国踢出四大文明古国](https://www.baidu.com/s?wd=%E5%87%BA%E7%89%88%E7%A4%BE%E5%9B%9E%E5%BA%94%E6%8A%8A%E4%B8%AD%E5%9B%BD%E8%B8%A2%E5%87%BA%E5%9B%9B%E5%A4%A7%E6%96%87%E6%98%8E%E5%8F%A4%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
