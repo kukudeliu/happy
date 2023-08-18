@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 19:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 19:41:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [爸爸车祸后7岁小哭包变成顶梁柱](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E8%BD%A6%E7%A5%B8%E5%90%8E7%E5%B2%81%E5%B0%8F%E5%93%AD%E5%8C%85%E5%8F%98%E6%88%90%E9%A1%B6%E6%A2%81%E6%9F%B1%23&t=31&band_rank=5&Refer=top)<br />
 6. [质疑芒狗 理解芒狗 养芒狗](https://s.weibo.com/weibo?q=%E8%B4%A8%E7%96%91%E8%8A%92%E7%8B%97%20%E7%90%86%E8%A7%A3%E8%8A%92%E7%8B%97%20%E5%85%BB%E8%8A%92%E7%8B%97&t=31&band_rank=6&Refer=top)<br />
 7. [广东房东给租客挨家送龙眼](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%88%BF%E4%B8%9C%E7%BB%99%E7%A7%9F%E5%AE%A2%E6%8C%A8%E5%AE%B6%E9%80%81%E9%BE%99%E7%9C%BC%23&t=31&band_rank=7&Refer=top)<br />
-8. [古天乐毁容妆过敏](https://s.weibo.com/weibo?q=%23%E5%8F%A4%E5%A4%A9%E4%B9%90%E6%AF%81%E5%AE%B9%E5%A6%86%E8%BF%87%E6%95%8F%23&t=31&band_rank=8&Refer=top)<br />
-9. [范丞丞玩梗关晓彤你叉叉](https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E7%8E%A9%E6%A2%97%E5%85%B3%E6%99%93%E5%BD%A4%E4%BD%A0%E5%8F%89%E5%8F%89%23&t=31&band_rank=9&Refer=top)<br />
+8. [范丞丞玩梗关晓彤你叉叉](https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E7%8E%A9%E6%A2%97%E5%85%B3%E6%99%93%E5%BD%A4%E4%BD%A0%E5%8F%89%E5%8F%89%23&t=31&band_rank=8&Refer=top)<br />
+9. [古天乐毁容妆过敏](https://s.weibo.com/weibo?q=%23%E5%8F%A4%E5%A4%A9%E4%B9%90%E6%AF%81%E5%AE%B9%E5%A6%86%E8%BF%87%E6%95%8F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
