@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 10:02:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 10:03:02</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [浙江连发147条预警](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E8%BF%9E%E5%8F%91147%E6%9D%A1%E9%A2%84%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [好声音学员李嘉捷为李玟发声](https://www.baidu.com/s?wd=%E5%A5%BD%E5%A3%B0%E9%9F%B3%E5%AD%A6%E5%91%98%E6%9D%8E%E5%98%89%E6%8D%B7%E4%B8%BA%E6%9D%8E%E7%8E%9F%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [百度818企业搜索节](https://www.baidu.com/s?wd=%E7%99%BE%E5%BA%A6%E8%90%A5%E9%94%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [职工占用高铁商务座 广铁集团回应](https://www.baidu.com/s?wd=%E8%81%8C%E5%B7%A5%E5%8D%A0%E7%94%A8%E9%AB%98%E9%93%81%E5%95%86%E5%8A%A1%E5%BA%A7+%E5%B9%BF%E9%93%81%E9%9B%86%E5%9B%A2%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [2年遭家暴16次女子被送精神病院治疗](https://www.baidu.com/s?wd=2%E5%B9%B4%E9%81%AD%E5%AE%B6%E6%9A%B416%E6%AC%A1%E5%A5%B3%E5%AD%90%E8%A2%AB%E9%80%81%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2%E6%B2%BB%E7%96%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [浙江连发147条预警](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E8%BF%9E%E5%8F%91147%E6%9D%A1%E9%A2%84%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [好声音学员李嘉捷为李玟发声](https://www.baidu.com/s?wd=%E5%A5%BD%E5%A3%B0%E9%9F%B3%E5%AD%A6%E5%91%98%E6%9D%8E%E5%98%89%E6%8D%B7%E4%B8%BA%E6%9D%8E%E7%8E%9F%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [百度818企业搜索节](https://www.baidu.com/s?wd=%E7%99%BE%E5%BA%A6%E8%90%A5%E9%94%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [职工占用高铁商务座 广铁集团回应](https://www.baidu.com/s?wd=%E8%81%8C%E5%B7%A5%E5%8D%A0%E7%94%A8%E9%AB%98%E9%93%81%E5%95%86%E5%8A%A1%E5%BA%A7+%E5%B9%BF%E9%93%81%E9%9B%86%E5%9B%A2%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [2年遭家暴16次女子被送精神病院治疗](https://www.baidu.com/s?wd=2%E5%B9%B4%E9%81%AD%E5%AE%B6%E6%9A%B416%E6%AC%A1%E5%A5%B3%E5%AD%90%E8%A2%AB%E9%80%81%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2%E6%B2%BB%E7%96%97&sa=fyb_news&rsv_dl=fyb_news)<br />
