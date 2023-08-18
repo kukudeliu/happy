@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-19 03:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-19 03:55:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [睡觉时手机在枕边充电有多危险](https://s.weibo.com/weibo?q=%23%E7%9D%A1%E8%A7%89%E6%97%B6%E6%89%8B%E6%9C%BA%E5%9C%A8%E6%9E%95%E8%BE%B9%E5%85%85%E7%94%B5%E6%9C%89%E5%A4%9A%E5%8D%B1%E9%99%A9%23&t=31&band_rank=4&Refer=top)<br />
 5. [周琦赵睿互换东家](https://s.weibo.com/weibo?q=%23%E5%91%A8%E7%90%A6%E8%B5%B5%E7%9D%BF%E4%BA%92%E6%8D%A2%E4%B8%9C%E5%AE%B6%23&t=31&band_rank=5&Refer=top)<br />
 6. [中泰缅老警方合作打击赌诈集团](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%B3%B0%E7%BC%85%E8%80%81%E8%AD%A6%E6%96%B9%E5%90%88%E4%BD%9C%E6%89%93%E5%87%BB%E8%B5%8C%E8%AF%88%E9%9B%86%E5%9B%A2%23&t=31&band_rank=6&Refer=top)<br />
-7. [卿卿日常紫薯精vs七时吉祥走地鸡](https://s.weibo.com/weibo?q=%23%E5%8D%BF%E5%8D%BF%E6%97%A5%E5%B8%B8%E7%B4%AB%E8%96%AF%E7%B2%BEvs%E4%B8%83%E6%97%B6%E5%90%89%E7%A5%A5%E8%B5%B0%E5%9C%B0%E9%B8%A1%23&t=31&band_rank=7&Refer=top)<br />
-8. [檀健次怎么净想着爆自己料](https://s.weibo.com/weibo?q=%E6%AA%80%E5%81%A5%E6%AC%A1%E6%80%8E%E4%B9%88%E5%87%80%E6%83%B3%E7%9D%80%E7%88%86%E8%87%AA%E5%B7%B1%E6%96%99&t=31&band_rank=8&Refer=top)<br />
+7. [檀健次怎么净想着爆自己料](https://s.weibo.com/weibo?q=%E6%AA%80%E5%81%A5%E6%AC%A1%E6%80%8E%E4%B9%88%E5%87%80%E6%83%B3%E7%9D%80%E7%88%86%E8%87%AA%E5%B7%B1%E6%96%99&t=31&band_rank=7&Refer=top)<br />
+8. [卿卿日常紫薯精vs七时吉祥走地鸡](https://s.weibo.com/weibo?q=%23%E5%8D%BF%E5%8D%BF%E6%97%A5%E5%B8%B8%E7%B4%AB%E8%96%AF%E7%B2%BEvs%E4%B8%83%E6%97%B6%E5%90%89%E7%A5%A5%E8%B5%B0%E5%9C%B0%E9%B8%A1%23&t=31&band_rank=8&Refer=top)<br />
 9. [质疑芒狗 理解芒狗 养芒狗](https://s.weibo.com/weibo?q=%E8%B4%A8%E7%96%91%E8%8A%92%E7%8B%97%20%E7%90%86%E8%A7%A3%E8%8A%92%E7%8B%97%20%E5%85%BB%E8%8A%92%E7%8B%97&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -25,7 +25,7 @@
 6. [周琦加入广东男篮 与赵睿互换东家](https://www.baidu.com/s?wd=%E5%91%A8%E7%90%A6%E5%8A%A0%E5%85%A5%E5%B9%BF%E4%B8%9C%E7%94%B7%E7%AF%AE+%E4%B8%8E%E8%B5%B5%E7%9D%BF%E4%BA%92%E6%8D%A2%E4%B8%9C%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [法拍房骤增背后：有人主动断供](https://www.baidu.com/s?wd=%E6%B3%95%E6%8B%8D%E6%88%BF%E9%AA%A4%E5%A2%9E%E8%83%8C%E5%90%8E%EF%BC%9A%E6%9C%89%E4%BA%BA%E4%B8%BB%E5%8A%A8%E6%96%AD%E4%BE%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [白宫官员：拜登愿无条件会晤金正恩](https://www.baidu.com/s?wd=%E7%99%BD%E5%AE%AB%E5%AE%98%E5%91%98%EF%BC%9A%E6%8B%9C%E7%99%BB%E6%84%BF%E6%97%A0%E6%9D%A1%E4%BB%B6%E4%BC%9A%E6%99%A4%E9%87%91%E6%AD%A3%E6%81%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [3娃非亲生男子讲述妻子出轨全程](https://www.baidu.com/s?wd=3%E5%A8%83%E9%9D%9E%E4%BA%B2%E7%94%9F%E7%94%B7%E5%AD%90%E8%AE%B2%E8%BF%B0%E5%A6%BB%E5%AD%90%E5%87%BA%E8%BD%A8%E5%85%A8%E7%A8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子为赚7000元试药 老婆要离婚](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%BA%E8%B5%9A7000%E5%85%83%E8%AF%95%E8%8D%AF+%E8%80%81%E5%A9%86%E8%A6%81%E7%A6%BB%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [周琦加入广东男篮 与赵睿互换东家](https://www.baidu.com/s?wd=%E5%91%A8%E7%90%A6%E5%8A%A0%E5%85%A5%E5%B9%BF%E4%B8%9C%E7%94%B7%E7%AF%AE+%E4%B8%8E%E8%B5%B5%E7%9D%BF%E4%BA%92%E6%8D%A2%E4%B8%9C%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [法拍房骤增背后：有人主动断供](https://www.baidu.com/s?wd=%E6%B3%95%E6%8B%8D%E6%88%BF%E9%AA%A4%E5%A2%9E%E8%83%8C%E5%90%8E%EF%BC%9A%E6%9C%89%E4%BA%BA%E4%B8%BB%E5%8A%A8%E6%96%AD%E4%BE%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [白宫官员：拜登愿无条件会晤金正恩](https://www.baidu.com/s?wd=%E7%99%BD%E5%AE%AB%E5%AE%98%E5%91%98%EF%BC%9A%E6%8B%9C%E7%99%BB%E6%84%BF%E6%97%A0%E6%9D%A1%E4%BB%B6%E4%BC%9A%E6%99%A4%E9%87%91%E6%AD%A3%E6%81%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [3娃非亲生男子讲述妻子出轨全程](https://www.baidu.com/s?wd=3%E5%A8%83%E9%9D%9E%E4%BA%B2%E7%94%9F%E7%94%B7%E5%AD%90%E8%AE%B2%E8%BF%B0%E5%A6%BB%E5%AD%90%E5%87%BA%E8%BD%A8%E5%85%A8%E7%A8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子为赚7000元试药 老婆要离婚](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%BA%E8%B5%9A7000%E5%85%83%E8%AF%95%E8%8D%AF+%E8%80%81%E5%A9%86%E8%A6%81%E7%A6%BB%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
