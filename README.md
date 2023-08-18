@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 20:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 20:16:01</h4></div>
 
 > 微博  
 
@@ -20,7 +20,7 @@
 1. [美丽中国 绿色答卷](https://www.baidu.com/s?wd=%E7%BE%8E%E4%B8%BD%E4%B8%AD%E5%9B%BD+%E7%BB%BF%E8%89%B2%E7%AD%94%E5%8D%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [程序员未写出赌博程序被拔掉14颗牙](https://www.baidu.com/s?wd=%E7%A8%8B%E5%BA%8F%E5%91%98%E6%9C%AA%E5%86%99%E5%87%BA%E8%B5%8C%E5%8D%9A%E7%A8%8B%E5%BA%8F%E8%A2%AB%E6%8B%94%E6%8E%8914%E9%A2%97%E7%89%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [警方辟谣女孩为追星把第一次给黄牛](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%A5%B3%E5%AD%A9%E4%B8%BA%E8%BF%BD%E6%98%9F%E6%8A%8A%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%BB%99%E9%BB%84%E7%89%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [全力加快灾后恢复重建](https://www.baidu.com/s?wd=%E5%85%A8%E5%8A%9B%E5%8A%A0%E5%BF%AB%E7%81%BE%E5%90%8E%E6%81%A2%E5%A4%8D%E9%87%8D%E5%BB%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [暑期消费正火热](https://www.baidu.com/s?wd=%E6%9A%91%E6%9C%9F%E6%B6%88%E8%B4%B9%E6%AD%A3%E7%81%AB%E7%83%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [委员建议降低法定婚龄 官方回应](https://www.baidu.com/s?wd=%E5%A7%94%E5%91%98%E5%BB%BA%E8%AE%AE%E9%99%8D%E4%BD%8E%E6%B3%95%E5%AE%9A%E5%A9%9A%E9%BE%84+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [搂抱女家长的男老师坚称不是第三者](https://www.baidu.com/s?wd=%E6%90%82%E6%8A%B1%E5%A5%B3%E5%AE%B6%E9%95%BF%E7%9A%84%E7%94%B7%E8%80%81%E5%B8%88%E5%9D%9A%E7%A7%B0%E4%B8%8D%E6%98%AF%E7%AC%AC%E4%B8%89%E8%80%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [情侣买婚房被原房主妻子将门焊死](https://www.baidu.com/s?wd=%E6%83%85%E4%BE%A3%E4%B9%B0%E5%A9%9A%E6%88%BF%E8%A2%AB%E5%8E%9F%E6%88%BF%E4%B8%BB%E5%A6%BB%E5%AD%90%E5%B0%86%E9%97%A8%E7%84%8A%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -32,7 +32,7 @@
 1. [美丽中国 绿色答卷](https://www.baidu.com/s?wd=%E7%BE%8E%E4%B8%BD%E4%B8%AD%E5%9B%BD+%E7%BB%BF%E8%89%B2%E7%AD%94%E5%8D%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [程序员未写出赌博程序被拔掉14颗牙](https://www.baidu.com/s?wd=%E7%A8%8B%E5%BA%8F%E5%91%98%E6%9C%AA%E5%86%99%E5%87%BA%E8%B5%8C%E5%8D%9A%E7%A8%8B%E5%BA%8F%E8%A2%AB%E6%8B%94%E6%8E%8914%E9%A2%97%E7%89%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [警方辟谣女孩为追星把第一次给黄牛](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%A5%B3%E5%AD%A9%E4%B8%BA%E8%BF%BD%E6%98%9F%E6%8A%8A%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%BB%99%E9%BB%84%E7%89%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [全力加快灾后恢复重建](https://www.baidu.com/s?wd=%E5%85%A8%E5%8A%9B%E5%8A%A0%E5%BF%AB%E7%81%BE%E5%90%8E%E6%81%A2%E5%A4%8D%E9%87%8D%E5%BB%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [暑期消费正火热](https://www.baidu.com/s?wd=%E6%9A%91%E6%9C%9F%E6%B6%88%E8%B4%B9%E6%AD%A3%E7%81%AB%E7%83%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [委员建议降低法定婚龄 官方回应](https://www.baidu.com/s?wd=%E5%A7%94%E5%91%98%E5%BB%BA%E8%AE%AE%E9%99%8D%E4%BD%8E%E6%B3%95%E5%AE%9A%E5%A9%9A%E9%BE%84+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [搂抱女家长的男老师坚称不是第三者](https://www.baidu.com/s?wd=%E6%90%82%E6%8A%B1%E5%A5%B3%E5%AE%B6%E9%95%BF%E7%9A%84%E7%94%B7%E8%80%81%E5%B8%88%E5%9D%9A%E7%A7%B0%E4%B8%8D%E6%98%AF%E7%AC%AC%E4%B8%89%E8%80%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [情侣买婚房被原房主妻子将门焊死](https://www.baidu.com/s?wd=%E6%83%85%E4%BE%A3%E4%B9%B0%E5%A9%9A%E6%88%BF%E8%A2%AB%E5%8E%9F%E6%88%BF%E4%B8%BB%E5%A6%BB%E5%AD%90%E5%B0%86%E9%97%A8%E7%84%8A%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
