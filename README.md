@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 17:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 17:17:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [最难喝饮料排行榜](https://s.weibo.com/weibo?q=%E6%9C%80%E9%9A%BE%E5%96%9D%E9%A5%AE%E6%96%99%E6%8E%92%E8%A1%8C%E6%A6%9C&t=31&band_rank=6&Refer=top)<br />
 7. [折腰](https://s.weibo.com/weibo?q=%E6%8A%98%E8%85%B0&t=31&band_rank=7&Refer=top)<br />
 8. [陆毅因为贝儿参加披荆斩棘](https://s.weibo.com/weibo?q=%23%E9%99%86%E6%AF%85%E5%9B%A0%E4%B8%BA%E8%B4%9D%E5%84%BF%E5%8F%82%E5%8A%A0%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%23&t=31&band_rank=8&Refer=top)<br />
-9. [警方通报主播直播时编造被绑架](https://s.weibo.com/weibo?q=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B8%BB%E6%92%AD%E7%9B%B4%E6%92%AD%E6%97%B6%E7%BC%96%E9%80%A0%E8%A2%AB%E7%BB%91%E6%9E%B6&t=31&band_rank=9&Refer=top)<br />
+9. [张晚意被杨紫叫哥哥叫到崩溃](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%99%9A%E6%84%8F%E8%A2%AB%E6%9D%A8%E7%B4%AB%E5%8F%AB%E5%93%A5%E5%93%A5%E5%8F%AB%E5%88%B0%E5%B4%A9%E6%BA%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
