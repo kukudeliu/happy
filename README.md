@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 19:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 19:42:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [中国式现代化的京津冀实践](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%E7%9A%84%E4%BA%AC%E6%B4%A5%E5%86%80%E5%AE%9E%E8%B7%B5%23&t=31&band_rank=3&Refer=top)<br />
 4. [好声音寥寥数行回应就是对逝者的尊重吗](https://s.weibo.com/weibo?q=%23%E5%A5%BD%E5%A3%B0%E9%9F%B3%E5%AF%A5%E5%AF%A5%E6%95%B0%E8%A1%8C%E5%9B%9E%E5%BA%94%E5%B0%B1%E6%98%AF%E5%AF%B9%E9%80%9D%E8%80%85%E7%9A%84%E5%B0%8A%E9%87%8D%E5%90%97%23&t=31&band_rank=4&Refer=top)<br />
 5. [爸爸车祸后7岁小哭包变成顶梁柱](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E8%BD%A6%E7%A5%B8%E5%90%8E7%E5%B2%81%E5%B0%8F%E5%93%AD%E5%8C%85%E5%8F%98%E6%88%90%E9%A1%B6%E6%A2%81%E6%9F%B1%23&t=31&band_rank=5&Refer=top)<br />
-6. [质疑芒狗 理解芒狗 养芒狗](https://s.weibo.com/weibo?q=%E8%B4%A8%E7%96%91%E8%8A%92%E7%8B%97%20%E7%90%86%E8%A7%A3%E8%8A%92%E7%8B%97%20%E5%85%BB%E8%8A%92%E7%8B%97&t=31&band_rank=6&Refer=top)<br />
+6. [范丞丞玩梗关晓彤你叉叉](https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E7%8E%A9%E6%A2%97%E5%85%B3%E6%99%93%E5%BD%A4%E4%BD%A0%E5%8F%89%E5%8F%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [广东房东给租客挨家送龙眼](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%88%BF%E4%B8%9C%E7%BB%99%E7%A7%9F%E5%AE%A2%E6%8C%A8%E5%AE%B6%E9%80%81%E9%BE%99%E7%9C%BC%23&t=31&band_rank=7&Refer=top)<br />
-8. [范丞丞玩梗关晓彤你叉叉](https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E7%8E%A9%E6%A2%97%E5%85%B3%E6%99%93%E5%BD%A4%E4%BD%A0%E5%8F%89%E5%8F%89%23&t=31&band_rank=8&Refer=top)<br />
+8. [质疑芒狗 理解芒狗 养芒狗](https://s.weibo.com/weibo?q=%E8%B4%A8%E7%96%91%E8%8A%92%E7%8B%97%20%E7%90%86%E8%A7%A3%E8%8A%92%E7%8B%97%20%E5%85%BB%E8%8A%92%E7%8B%97&t=31&band_rank=8&Refer=top)<br />
 9. [古天乐毁容妆过敏](https://s.weibo.com/weibo?q=%23%E5%8F%A4%E5%A4%A9%E4%B9%90%E6%AF%81%E5%AE%B9%E5%A6%86%E8%BF%87%E6%95%8F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -24,8 +24,8 @@
 5. [委员建议降低法定婚龄 官方回应](https://www.baidu.com/s?wd=%E5%A7%94%E5%91%98%E5%BB%BA%E8%AE%AE%E9%99%8D%E4%BD%8E%E6%B3%95%E5%AE%9A%E5%A9%9A%E9%BE%84+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [程序员未写出赌博程序被拔掉14颗牙](https://www.baidu.com/s?wd=%E7%A8%8B%E5%BA%8F%E5%91%98%E6%9C%AA%E5%86%99%E5%87%BA%E8%B5%8C%E5%8D%9A%E7%A8%8B%E5%BA%8F%E8%A2%AB%E6%8B%94%E6%8E%8914%E9%A2%97%E7%89%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [情侣买婚房被原房主妻子将门焊死](https://www.baidu.com/s?wd=%E6%83%85%E4%BE%A3%E4%B9%B0%E5%A9%9A%E6%88%BF%E8%A2%AB%E5%8E%9F%E6%88%BF%E4%B8%BB%E5%A6%BB%E5%AD%90%E5%B0%86%E9%97%A8%E7%84%8A%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [东部战区超近距离驱离美军机画面](https://www.baidu.com/s?wd=%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E8%B6%85%E8%BF%91%E8%B7%9D%E7%A6%BB%E9%A9%B1%E7%A6%BB%E7%BE%8E%E5%86%9B%E6%9C%BA%E7%94%BB%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [铁头称打击衡水中学受到各方压力](https://www.baidu.com/s?wd=%E9%93%81%E5%A4%B4%E7%A7%B0%E6%89%93%E5%87%BB%E8%A1%A1%E6%B0%B4%E4%B8%AD%E5%AD%A6%E5%8F%97%E5%88%B0%E5%90%84%E6%96%B9%E5%8E%8B%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [铁头称打击衡水中学受到各方压力](https://www.baidu.com/s?wd=%E9%93%81%E5%A4%B4%E7%A7%B0%E6%89%93%E5%87%BB%E8%A1%A1%E6%B0%B4%E4%B8%AD%E5%AD%A6%E5%8F%97%E5%88%B0%E5%90%84%E6%96%B9%E5%8E%8B%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [好声音赞助商遭抵制 品牌评论区沦陷](https://www.baidu.com/s?wd=%E5%A5%BD%E5%A3%B0%E9%9F%B3%E8%B5%9E%E5%8A%A9%E5%95%86%E9%81%AD%E6%8A%B5%E5%88%B6+%E5%93%81%E7%89%8C%E8%AF%84%E8%AE%BA%E5%8C%BA%E6%B2%A6%E9%99%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [委员建议降低法定婚龄 官方回应](https://www.baidu.com/s?wd=%E5%A7%94%E5%91%98%E5%BB%BA%E8%AE%AE%E9%99%8D%E4%BD%8E%E6%B3%95%E5%AE%9A%E5%A9%9A%E9%BE%84+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [程序员未写出赌博程序被拔掉14颗牙](https://www.baidu.com/s?wd=%E7%A8%8B%E5%BA%8F%E5%91%98%E6%9C%AA%E5%86%99%E5%87%BA%E8%B5%8C%E5%8D%9A%E7%A8%8B%E5%BA%8F%E8%A2%AB%E6%8B%94%E6%8E%8914%E9%A2%97%E7%89%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [情侣买婚房被原房主妻子将门焊死](https://www.baidu.com/s?wd=%E6%83%85%E4%BE%A3%E4%B9%B0%E5%A9%9A%E6%88%BF%E8%A2%AB%E5%8E%9F%E6%88%BF%E4%B8%BB%E5%A6%BB%E5%AD%90%E5%B0%86%E9%97%A8%E7%84%8A%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [东部战区超近距离驱离美军机画面](https://www.baidu.com/s?wd=%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E8%B6%85%E8%BF%91%E8%B7%9D%E7%A6%BB%E9%A9%B1%E7%A6%BB%E7%BE%8E%E5%86%9B%E6%9C%BA%E7%94%BB%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [铁头称打击衡水中学受到各方压力](https://www.baidu.com/s?wd=%E9%93%81%E5%A4%B4%E7%A7%B0%E6%89%93%E5%87%BB%E8%A1%A1%E6%B0%B4%E4%B8%AD%E5%AD%A6%E5%8F%97%E5%88%B0%E5%90%84%E6%96%B9%E5%8E%8B%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [铁头称打击衡水中学受到各方压力](https://www.baidu.com/s?wd=%E9%93%81%E5%A4%B4%E7%A7%B0%E6%89%93%E5%87%BB%E8%A1%A1%E6%B0%B4%E4%B8%AD%E5%AD%A6%E5%8F%97%E5%88%B0%E5%90%84%E6%96%B9%E5%8E%8B%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [好声音赞助商遭抵制 品牌评论区沦陷](https://www.baidu.com/s?wd=%E5%A5%BD%E5%A3%B0%E9%9F%B3%E8%B5%9E%E5%8A%A9%E5%95%86%E9%81%AD%E6%8A%B5%E5%88%B6+%E5%93%81%E7%89%8C%E8%AF%84%E8%AE%BA%E5%8C%BA%E6%B2%A6%E9%99%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
