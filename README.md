@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 13:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 13:04:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [南风知我意](https://s.weibo.com/weibo?q=%E5%8D%97%E9%A3%8E%E7%9F%A5%E6%88%91%E6%84%8F&t=31&band_rank=6&Refer=top)<br />
 7. [电影孤注一掷被指侵权](https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E5%AD%A4%E6%B3%A8%E4%B8%80%E6%8E%B7%E8%A2%AB%E6%8C%87%E4%BE%B5%E6%9D%83%23&t=31&band_rank=7&Refer=top)<br />
 8. [披荆斩棘第三季开播](https://s.weibo.com/weibo?q=%23%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E7%AC%AC%E4%B8%89%E5%AD%A3%E5%BC%80%E6%92%AD%23&t=31&band_rank=8&Refer=top)<br />
-9. [武大回应夫妻宿舍配有两张单人床](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A4%A7%E5%9B%9E%E5%BA%94%E5%A4%AB%E5%A6%BB%E5%AE%BF%E8%88%8D%E9%85%8D%E6%9C%89%E4%B8%A4%E5%BC%A0%E5%8D%95%E4%BA%BA%E5%BA%8A%23&t=31&band_rank=9&Refer=top)<br />
+9. [罗布泊究竟有多恐怖](https://s.weibo.com/weibo?q=%E7%BD%97%E5%B8%83%E6%B3%8A%E7%A9%B6%E7%AB%9F%E6%9C%89%E5%A4%9A%E6%81%90%E6%80%96&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
