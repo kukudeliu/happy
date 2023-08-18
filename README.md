@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 21:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 21:39:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [委员建议降低法定婚龄 官方回应](https://www.baidu.com/s?wd=%E5%A7%94%E5%91%98%E5%BB%BA%E8%AE%AE%E9%99%8D%E4%BD%8E%E6%B3%95%E5%AE%9A%E5%A9%9A%E9%BE%84+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [老太将男婴放路边离开 男婴全身乌紫](https://www.baidu.com/s?wd=%E8%80%81%E5%A4%AA%E5%B0%86%E7%94%B7%E5%A9%B4%E6%94%BE%E8%B7%AF%E8%BE%B9%E7%A6%BB%E5%BC%80+%E7%94%B7%E5%A9%B4%E5%85%A8%E8%BA%AB%E4%B9%8C%E7%B4%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [杨洋告黑案将开庭](https://www.baidu.com/s?wd=%E6%9D%A8%E6%B4%8B%E5%91%8A%E9%BB%91%E6%A1%88%E5%B0%86%E5%BC%80%E5%BA%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [拜登激动演讲称“美国没有失败”](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E6%BF%80%E5%8A%A8%E6%BC%94%E8%AE%B2%E7%A7%B0%E2%80%9C%E7%BE%8E%E5%9B%BD%E6%B2%A1%E6%9C%89%E5%A4%B1%E8%B4%A5%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [情侣买婚房被原房主妻子将门焊死](https://www.baidu.com/s?wd=%E6%83%85%E4%BE%A3%E4%B9%B0%E5%A9%9A%E6%88%BF%E8%A2%AB%E5%8E%9F%E6%88%BF%E4%B8%BB%E5%A6%BB%E5%AD%90%E5%B0%86%E9%97%A8%E7%84%8A%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [睡在充电的iPhone旁有爆炸风险](https://www.baidu.com/s?wd=%E7%9D%A1%E5%9C%A8%E5%85%85%E7%94%B5%E7%9A%84iPhone%E6%97%81%E6%9C%89%E7%88%86%E7%82%B8%E9%A3%8E%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [委员建议降低法定婚龄 官方回应](https://www.baidu.com/s?wd=%E5%A7%94%E5%91%98%E5%BB%BA%E8%AE%AE%E9%99%8D%E4%BD%8E%E6%B3%95%E5%AE%9A%E5%A9%9A%E9%BE%84+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [老太将男婴放路边离开 男婴全身乌紫](https://www.baidu.com/s?wd=%E8%80%81%E5%A4%AA%E5%B0%86%E7%94%B7%E5%A9%B4%E6%94%BE%E8%B7%AF%E8%BE%B9%E7%A6%BB%E5%BC%80+%E7%94%B7%E5%A9%B4%E5%85%A8%E8%BA%AB%E4%B9%8C%E7%B4%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [杨洋告黑案将开庭](https://www.baidu.com/s?wd=%E6%9D%A8%E6%B4%8B%E5%91%8A%E9%BB%91%E6%A1%88%E5%B0%86%E5%BC%80%E5%BA%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [拜登激动演讲称“美国没有失败”](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E6%BF%80%E5%8A%A8%E6%BC%94%E8%AE%B2%E7%A7%B0%E2%80%9C%E7%BE%8E%E5%9B%BD%E6%B2%A1%E6%9C%89%E5%A4%B1%E8%B4%A5%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [情侣买婚房被原房主妻子将门焊死](https://www.baidu.com/s?wd=%E6%83%85%E4%BE%A3%E4%B9%B0%E5%A9%9A%E6%88%BF%E8%A2%AB%E5%8E%9F%E6%88%BF%E4%B8%BB%E5%A6%BB%E5%AD%90%E5%B0%86%E9%97%A8%E7%84%8A%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [睡在充电的iPhone旁有爆炸风险](https://www.baidu.com/s?wd=%E7%9D%A1%E5%9C%A8%E5%85%85%E7%94%B5%E7%9A%84iPhone%E6%97%81%E6%9C%89%E7%88%86%E7%82%B8%E9%A3%8E%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
