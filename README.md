@@ -1,15 +1,15 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 13:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-18 13:17:01</h4></div>
 
 > 微博  
 
-1. [最难喝饮料排行榜](https://s.weibo.com/weibo?q=%E6%9C%80%E9%9A%BE%E5%96%9D%E9%A5%AE%E6%96%99%E6%8E%92%E8%A1%8C%E6%A6%9C&t=31&band_rank=1&Refer=top)<br />
-2. [于正张檬再次合作](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E5%BC%A0%E6%AA%AC%E5%86%8D%E6%AC%A1%E5%90%88%E4%BD%9C%23&t=31&band_rank=2&Refer=top)<br />
+1. [中国好声音母公司股价大跌](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E6%AF%8D%E5%85%AC%E5%8F%B8%E8%82%A1%E4%BB%B7%E5%A4%A7%E8%B7%8C%23&t=31&band_rank=1&Refer=top)<br />
+2. [最难喝饮料排行榜](https://s.weibo.com/weibo?q=%E6%9C%80%E9%9A%BE%E5%96%9D%E9%A5%AE%E6%96%99%E6%8E%92%E8%A1%8C%E6%A6%9C&t=31&band_rank=2&Refer=top)<br />
 3. [是中国建造更是中国设计](https://s.weibo.com/weibo?q=%23%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%BB%BA%E9%80%A0%E6%9B%B4%E6%98%AF%E4%B8%AD%E5%9B%BD%E8%AE%BE%E8%AE%A1%23&t=31&band_rank=3&Refer=top)<br />
 4. [南风知我意](https://s.weibo.com/weibo?q=%E5%8D%97%E9%A3%8E%E7%9F%A5%E6%88%91%E6%84%8F&t=31&band_rank=4&Refer=top)<br />
-5. [杨洋告黑案将开庭](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B4%8B%E5%91%8A%E9%BB%91%E6%A1%88%E5%B0%86%E5%BC%80%E5%BA%AD%23&t=31&band_rank=5&Refer=top)<br />
-6. [六公主播宝莲灯怀念李玟](https://s.weibo.com/weibo?q=%23%E5%85%AD%E5%85%AC%E4%B8%BB%E6%92%AD%E5%AE%9D%E8%8E%B2%E7%81%AF%E6%80%80%E5%BF%B5%E6%9D%8E%E7%8E%9F%23&t=31&band_rank=6&Refer=top)<br />
+5. [于正张檬再次合作](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E5%BC%A0%E6%AA%AC%E5%86%8D%E6%AC%A1%E5%90%88%E4%BD%9C%23&t=31&band_rank=5&Refer=top)<br />
+6. [杨洋告黑案将开庭](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B4%8B%E5%91%8A%E9%BB%91%E6%A1%88%E5%B0%86%E5%BC%80%E5%BA%AD%23&t=31&band_rank=6&Refer=top)<br />
 7. [缅北受访者称噶腰子仅是段子](https://s.weibo.com/weibo?q=%23%E7%BC%85%E5%8C%97%E5%8F%97%E8%AE%BF%E8%80%85%E7%A7%B0%E5%99%B6%E8%85%B0%E5%AD%90%E4%BB%85%E6%98%AF%E6%AE%B5%E5%AD%90%23&t=31&band_rank=7&Refer=top)<br />
-8. [电影孤注一掷被指侵权](https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E5%AD%A4%E6%B3%A8%E4%B8%80%E6%8E%B7%E8%A2%AB%E6%8C%87%E4%BE%B5%E6%9D%83%23&t=31&band_rank=8&Refer=top)<br />
+8. [六公主播宝莲灯怀念李玟](https://s.weibo.com/weibo?q=%23%E5%85%AD%E5%85%AC%E4%B8%BB%E6%92%AD%E5%AE%9D%E8%8E%B2%E7%81%AF%E6%80%80%E5%BF%B5%E6%9D%8E%E7%8E%9F%23&t=31&band_rank=8&Refer=top)<br />
 9. [网易最大缝合怪](https://s.weibo.com/weibo?q=%23%E7%BD%91%E6%98%93%E6%9C%80%E5%A4%A7%E7%BC%9D%E5%90%88%E6%80%AA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
