@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-19 21:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-19 21:39:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [今天第6个中国医师节](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E7%AC%AC6%E4%B8%AA%E4%B8%AD%E5%9B%BD%E5%8C%BB%E5%B8%88%E8%8A%82%23&t=31&band_rank=3&Refer=top)<br />
 4. [魏大勋赵今麦版鬼怪](https://s.weibo.com/weibo?q=%E9%AD%8F%E5%A4%A7%E5%8B%8B%E8%B5%B5%E4%BB%8A%E9%BA%A6%E7%89%88%E9%AC%BC%E6%80%AA&t=31&band_rank=4&Refer=top)<br />
 5. [娃哈哈董事长女儿评论区](https://s.weibo.com/weibo?q=%23%E5%A8%83%E5%93%88%E5%93%88%E8%91%A3%E4%BA%8B%E9%95%BF%E5%A5%B3%E5%84%BF%E8%AF%84%E8%AE%BA%E5%8C%BA%23&t=31&band_rank=5&Refer=top)<br />
-6. [宗馥莉](https://s.weibo.com/weibo?q=%E5%AE%97%E9%A6%A5%E8%8E%89&t=31&band_rank=6&Refer=top)<br />
-7. [B站广告涉嫌用AI洗稿网易游戏](https://s.weibo.com/weibo?q=B%E7%AB%99%E5%B9%BF%E5%91%8A%E6%B6%89%E5%AB%8C%E7%94%A8AI%E6%B4%97%E7%A8%BF%E7%BD%91%E6%98%93%E6%B8%B8%E6%88%8F&t=31&band_rank=7&Refer=top)<br />
-8. [邓为你别太实诚了](https://s.weibo.com/weibo?q=%E9%82%93%E4%B8%BA%E4%BD%A0%E5%88%AB%E5%A4%AA%E5%AE%9E%E8%AF%9A%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
+6. [B站广告涉嫌用AI洗稿网易游戏](https://s.weibo.com/weibo?q=B%E7%AB%99%E5%B9%BF%E5%91%8A%E6%B6%89%E5%AB%8C%E7%94%A8AI%E6%B4%97%E7%A8%BF%E7%BD%91%E6%98%93%E6%B8%B8%E6%88%8F&t=31&band_rank=6&Refer=top)<br />
+7. [邓为你别太实诚了](https://s.weibo.com/weibo?q=%E9%82%93%E4%B8%BA%E4%BD%A0%E5%88%AB%E5%A4%AA%E5%AE%9E%E8%AF%9A%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
+8. [宗馥莉](https://s.weibo.com/weibo?q=%E5%AE%97%E9%A6%A5%E8%8E%89&t=31&band_rank=8&Refer=top)<br />
 9. [长相思第二季](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D%E7%AC%AC%E4%BA%8C%E5%AD%A3&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -22,10 +22,10 @@
 3. [四川内江连续2日发生4级以上地震](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%86%85%E6%B1%9F%E8%BF%9E%E7%BB%AD2%E6%97%A5%E5%8F%91%E7%94%9F4%E7%BA%A7%E4%BB%A5%E4%B8%8A%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [勇担健康使命 铸就时代新功](https://www.baidu.com/s?wd=%E5%8B%87%E6%8B%85%E5%81%A5%E5%BA%B7%E4%BD%BF%E5%91%BD+%E9%93%B8%E5%B0%B1%E6%97%B6%E4%BB%A3%E6%96%B0%E5%8A%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [今天是三伏最后一天](https://www.baidu.com/s?wd=%E4%BB%8A%E5%A4%A9%E6%98%AF%E4%B8%89%E4%BC%8F%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [稚晖君出走华为半年造出人形机器人](https://www.baidu.com/s?wd=%E7%A8%9A%E6%99%96%E5%90%9B%E5%87%BA%E8%B5%B0%E5%8D%8E%E4%B8%BA%E5%8D%8A%E5%B9%B4%E9%80%A0%E5%87%BA%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子家全屋使用不锈钢家具惊呆女友](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%AE%B6%E5%85%A8%E5%B1%8B%E4%BD%BF%E7%94%A8%E4%B8%8D%E9%94%88%E9%92%A2%E5%AE%B6%E5%85%B7%E6%83%8A%E5%91%86%E5%A5%B3%E5%8F%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [三家银行收到千万级别罚单](https://www.baidu.com/s?wd=%E4%B8%89%E5%AE%B6%E9%93%B6%E8%A1%8C%E6%94%B6%E5%88%B0%E5%8D%83%E4%B8%87%E7%BA%A7%E5%88%AB%E7%BD%9A%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [泰安站被通报后连夜更换按摩椅](https://www.baidu.com/s?wd=%E6%B3%B0%E5%AE%89%E7%AB%99%E8%A2%AB%E9%80%9A%E6%8A%A5%E5%90%8E%E8%BF%9E%E5%A4%9C%E6%9B%B4%E6%8D%A2%E6%8C%89%E6%91%A9%E6%A4%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [男子家全屋使用不锈钢家具惊呆女友](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%AE%B6%E5%85%A8%E5%B1%8B%E4%BD%BF%E7%94%A8%E4%B8%8D%E9%94%88%E9%92%A2%E5%AE%B6%E5%85%B7%E6%83%8A%E5%91%86%E5%A5%B3%E5%8F%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [三家银行收到千万级别罚单](https://www.baidu.com/s?wd=%E4%B8%89%E5%AE%B6%E9%93%B6%E8%A1%8C%E6%94%B6%E5%88%B0%E5%8D%83%E4%B8%87%E7%BA%A7%E5%88%AB%E7%BD%9A%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [稚晖君出走华为半年造出人形机器人](https://www.baidu.com/s?wd=%E7%A8%9A%E6%99%96%E5%90%9B%E5%87%BA%E8%B5%B0%E5%8D%8E%E4%B8%BA%E5%8D%8A%E5%B9%B4%E9%80%A0%E5%87%BA%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [表情包小狗Cheems去世](https://www.baidu.com/s?wd=%E8%A1%A8%E6%83%85%E5%8C%85%E5%B0%8F%E7%8B%97Cheems%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -34,7 +34,7 @@
 3. [四川内江连续2日发生4级以上地震](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%86%85%E6%B1%9F%E8%BF%9E%E7%BB%AD2%E6%97%A5%E5%8F%91%E7%94%9F4%E7%BA%A7%E4%BB%A5%E4%B8%8A%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [勇担健康使命 铸就时代新功](https://www.baidu.com/s?wd=%E5%8B%87%E6%8B%85%E5%81%A5%E5%BA%B7%E4%BD%BF%E5%91%BD+%E9%93%B8%E5%B0%B1%E6%97%B6%E4%BB%A3%E6%96%B0%E5%8A%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [今天是三伏最后一天](https://www.baidu.com/s?wd=%E4%BB%8A%E5%A4%A9%E6%98%AF%E4%B8%89%E4%BC%8F%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [稚晖君出走华为半年造出人形机器人](https://www.baidu.com/s?wd=%E7%A8%9A%E6%99%96%E5%90%9B%E5%87%BA%E8%B5%B0%E5%8D%8E%E4%B8%BA%E5%8D%8A%E5%B9%B4%E9%80%A0%E5%87%BA%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子家全屋使用不锈钢家具惊呆女友](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%AE%B6%E5%85%A8%E5%B1%8B%E4%BD%BF%E7%94%A8%E4%B8%8D%E9%94%88%E9%92%A2%E5%AE%B6%E5%85%B7%E6%83%8A%E5%91%86%E5%A5%B3%E5%8F%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [三家银行收到千万级别罚单](https://www.baidu.com/s?wd=%E4%B8%89%E5%AE%B6%E9%93%B6%E8%A1%8C%E6%94%B6%E5%88%B0%E5%8D%83%E4%B8%87%E7%BA%A7%E5%88%AB%E7%BD%9A%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [泰安站被通报后连夜更换按摩椅](https://www.baidu.com/s?wd=%E6%B3%B0%E5%AE%89%E7%AB%99%E8%A2%AB%E9%80%9A%E6%8A%A5%E5%90%8E%E8%BF%9E%E5%A4%9C%E6%9B%B4%E6%8D%A2%E6%8C%89%E6%91%A9%E6%A4%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [男子家全屋使用不锈钢家具惊呆女友](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%AE%B6%E5%85%A8%E5%B1%8B%E4%BD%BF%E7%94%A8%E4%B8%8D%E9%94%88%E9%92%A2%E5%AE%B6%E5%85%B7%E6%83%8A%E5%91%86%E5%A5%B3%E5%8F%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [三家银行收到千万级别罚单](https://www.baidu.com/s?wd=%E4%B8%89%E5%AE%B6%E9%93%B6%E8%A1%8C%E6%94%B6%E5%88%B0%E5%8D%83%E4%B8%87%E7%BA%A7%E5%88%AB%E7%BD%9A%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [稚晖君出走华为半年造出人形机器人](https://www.baidu.com/s?wd=%E7%A8%9A%E6%99%96%E5%90%9B%E5%87%BA%E8%B5%B0%E5%8D%8E%E4%B8%BA%E5%8D%8A%E5%B9%B4%E9%80%A0%E5%87%BA%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [表情包小狗Cheems去世](https://www.baidu.com/s?wd=%E8%A1%A8%E6%83%85%E5%8C%85%E5%B0%8F%E7%8B%97Cheems%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
