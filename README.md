@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-19 20:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-19 20:44:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [久哲卸任Hero主教练](https://s.weibo.com/weibo?q=%23%E4%B9%85%E5%93%B2%E5%8D%B8%E4%BB%BBHero%E4%B8%BB%E6%95%99%E7%BB%83%23&t=31&band_rank=5&Refer=top)<br />
 6. [马立奥来北京啦](https://s.weibo.com/weibo?q=%E9%A9%AC%E7%AB%8B%E5%A5%A5%E6%9D%A5%E5%8C%97%E4%BA%AC%E5%95%A6&t=31&band_rank=6&Refer=top)<br />
 7. [玲花不喜欢别人叫她全名的原因](https://s.weibo.com/weibo?q=%23%E7%8E%B2%E8%8A%B1%E4%B8%8D%E5%96%9C%E6%AC%A2%E5%88%AB%E4%BA%BA%E5%8F%AB%E5%A5%B9%E5%85%A8%E5%90%8D%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=7&Refer=top)<br />
-8. [Ella说山支回来了](https://s.weibo.com/weibo?q=%23Ella%E8%AF%B4%E5%B1%B1%E6%94%AF%E5%9B%9E%E6%9D%A5%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+8. [长相思第二季](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D%E7%AC%AC%E4%BA%8C%E5%AD%A3&t=31&band_rank=8&Refer=top)<br />
 9. [久哲要去哪](https://s.weibo.com/weibo?q=%23%E4%B9%85%E5%93%B2%E8%A6%81%E5%8E%BB%E5%93%AA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
