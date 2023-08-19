@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-19 21:09:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-19 21:10:01</h4></div>
 
 > 微博  
 
-1. [魏大勋赵今麦版鬼怪](https://s.weibo.com/weibo?q=%E9%AD%8F%E5%A4%A7%E5%8B%8B%E8%B5%B5%E4%BB%8A%E9%BA%A6%E7%89%88%E9%AC%BC%E6%80%AA&t=31&band_rank=1&Refer=top)<br />
-2. [你好星期六](https://s.weibo.com/weibo?q=%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD&t=31&band_rank=2&Refer=top)<br />
+1. [你好星期六](https://s.weibo.com/weibo?q=%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD&t=31&band_rank=1&Refer=top)<br />
+2. [魏大勋赵今麦版鬼怪](https://s.weibo.com/weibo?q=%E9%AD%8F%E5%A4%A7%E5%8B%8B%E8%B5%B5%E4%BB%8A%E9%BA%A6%E7%89%88%E9%AC%BC%E6%80%AA&t=31&band_rank=2&Refer=top)<br />
 3. [今天第6个中国医师节](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E7%AC%AC6%E4%B8%AA%E4%B8%AD%E5%9B%BD%E5%8C%BB%E5%B8%88%E8%8A%82%23&t=31&band_rank=3&Refer=top)<br />
 4. [娃哈哈董事长女儿评论区](https://s.weibo.com/weibo?q=%23%E5%A8%83%E5%93%88%E5%93%88%E8%91%A3%E4%BA%8B%E9%95%BF%E5%A5%B3%E5%84%BF%E8%AF%84%E8%AE%BA%E5%8C%BA%23&t=31&band_rank=4&Refer=top)<br />
 5. [杨紫好忙但不知道在忙什么](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%A5%BD%E5%BF%99%E4%BD%86%E4%B8%8D%E7%9F%A5%E9%81%93%E5%9C%A8%E5%BF%99%E4%BB%80%E4%B9%88%23&t=31&band_rank=5&Refer=top)<br />
