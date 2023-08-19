@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-19 15:44:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-19 15:45:01</h4></div>
 
 > 微博  
 
-1. [东部战区位台岛演训长时段抵近慑压](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E4%BD%8D%E5%8F%B0%E5%B2%9B%E6%BC%94%E8%AE%AD%E9%95%BF%E6%97%B6%E6%AE%B5%E6%8A%B5%E8%BF%91%E6%85%91%E5%8E%8B%23&t=31&band_rank=1&Refer=top)<br />
-2. [浙江一学校的军训是集体摸鱼](https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E4%B8%80%E5%AD%A6%E6%A0%A1%E7%9A%84%E5%86%9B%E8%AE%AD%E6%98%AF%E9%9B%86%E4%BD%93%E6%91%B8%E9%B1%BC%23&t=31&band_rank=2&Refer=top)<br />
+1. [四川地震](https://s.weibo.com/weibo?q=%E5%9B%9B%E5%B7%9D%E5%9C%B0%E9%9C%87&t=31&band_rank=1&Refer=top)<br />
+2. [东部战区位台岛演训长时段抵近慑压](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E4%BD%8D%E5%8F%B0%E5%B2%9B%E6%BC%94%E8%AE%AD%E9%95%BF%E6%97%B6%E6%AE%B5%E6%8A%B5%E8%BF%91%E6%85%91%E5%8E%8B%23&t=31&band_rank=2&Refer=top)<br />
 3. [今天第6个中国医师节](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E7%AC%AC6%E4%B8%AA%E4%B8%AD%E5%9B%BD%E5%8C%BB%E5%B8%88%E8%8A%82%23&t=31&band_rank=3&Refer=top)<br />
 4. [隔夜水不能喝的原因](https://s.weibo.com/weibo?q=%E9%9A%94%E5%A4%9C%E6%B0%B4%E4%B8%8D%E8%83%BD%E5%96%9D%E7%9A%84%E5%8E%9F%E5%9B%A0&t=31&band_rank=4&Refer=top)<br />
-5. [封神现代版](https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E%E7%8E%B0%E4%BB%A3%E7%89%88%23&t=31&band_rank=5&Refer=top)<br />
-6. [麻醉医生说请别叫我麻醉师](https://s.weibo.com/weibo?q=%23%E9%BA%BB%E9%86%89%E5%8C%BB%E7%94%9F%E8%AF%B4%E8%AF%B7%E5%88%AB%E5%8F%AB%E6%88%91%E9%BA%BB%E9%86%89%E5%B8%88%23&t=31&band_rank=6&Refer=top)<br />
-7. [T1对战KT](https://s.weibo.com/weibo?q=%23T1%E5%AF%B9%E6%88%98KT%23&t=31&band_rank=7&Refer=top)<br />
-8. [长相思之玱相思](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D%E4%B9%8B%E7%8E%B1%E7%9B%B8%E6%80%9D%23&t=31&band_rank=8&Refer=top)<br />
-9. [男子手臂割伤幸好有他们接力护送](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%89%8B%E8%87%82%E5%89%B2%E4%BC%A4%E5%B9%B8%E5%A5%BD%E6%9C%89%E4%BB%96%E4%BB%AC%E6%8E%A5%E5%8A%9B%E6%8A%A4%E9%80%81%23&t=31&band_rank=9&Refer=top)<br />
+5. [浙江一学校的军训是集体摸鱼](https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E4%B8%80%E5%AD%A6%E6%A0%A1%E7%9A%84%E5%86%9B%E8%AE%AD%E6%98%AF%E9%9B%86%E4%BD%93%E6%91%B8%E9%B1%BC%23&t=31&band_rank=5&Refer=top)<br />
+6. [封神现代版](https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E%E7%8E%B0%E4%BB%A3%E7%89%88%23&t=31&band_rank=6&Refer=top)<br />
+7. [麻醉医生说请别叫我麻醉师](https://s.weibo.com/weibo?q=%23%E9%BA%BB%E9%86%89%E5%8C%BB%E7%94%9F%E8%AF%B4%E8%AF%B7%E5%88%AB%E5%8F%AB%E6%88%91%E9%BA%BB%E9%86%89%E5%B8%88%23&t=31&band_rank=7&Refer=top)<br />
+8. [T1对战KT](https://s.weibo.com/weibo?q=%23T1%E5%AF%B9%E6%88%98KT%23&t=31&band_rank=8&Refer=top)<br />
+9. [长相思之玱相思](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D%E4%B9%8B%E7%8E%B1%E7%9B%B8%E6%80%9D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
