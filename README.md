@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-20 03:14:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-20 03:15:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [解救被困缅甸的中科院博士](https://s.weibo.com/weibo?q=%23%E8%A7%A3%E6%95%91%E8%A2%AB%E5%9B%B0%E7%BC%85%E7%94%B8%E7%9A%84%E4%B8%AD%E7%A7%91%E9%99%A2%E5%8D%9A%E5%A3%AB%23&t=31&band_rank=6&Refer=top)<br />
 7. [B站广告涉嫌用AI洗稿网易游戏](https://s.weibo.com/weibo?q=B%E7%AB%99%E5%B9%BF%E5%91%8A%E6%B6%89%E5%AB%8C%E7%94%A8AI%E6%B4%97%E7%A8%BF%E7%BD%91%E6%98%93%E6%B8%B8%E6%88%8F&t=31&band_rank=7&Refer=top)<br />
 8. [800多赞的朋友圈长什么样](https://s.weibo.com/weibo?q=%23800%E5%A4%9A%E8%B5%9E%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88%E9%95%BF%E4%BB%80%E4%B9%88%E6%A0%B7%23&t=31&band_rank=8&Refer=top)<br />
-9. [电影消失的她](https://s.weibo.com/weibo?q=%E7%94%B5%E5%BD%B1%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9&t=31&band_rank=9&Refer=top)<br />
+9. [山东一地让独居老人吃上免费午餐](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E4%B8%80%E5%9C%B0%E8%AE%A9%E7%8B%AC%E5%B1%85%E8%80%81%E4%BA%BA%E5%90%83%E4%B8%8A%E5%85%8D%E8%B4%B9%E5%8D%88%E9%A4%90%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,8 +24,8 @@
 5. [现场视频：台岛周边我舰抵近台舰](https://www.baidu.com/s?wd=%E7%8E%B0%E5%9C%BA%E8%A7%86%E9%A2%91%EF%BC%9A%E5%8F%B0%E5%B2%9B%E5%91%A8%E8%BE%B9%E6%88%91%E8%88%B0%E6%8A%B5%E8%BF%91%E5%8F%B0%E8%88%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [表情包小狗Cheems去世](https://www.baidu.com/s?wd=%E8%A1%A8%E6%83%85%E5%8C%85%E5%B0%8F%E7%8B%97Cheems%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [董明珠回应格力今年“落榜”](https://www.baidu.com/s?wd=%E8%91%A3%E6%98%8E%E7%8F%A0%E5%9B%9E%E5%BA%94%E6%A0%BC%E5%8A%9B%E4%BB%8A%E5%B9%B4%E2%80%9C%E8%90%BD%E6%A6%9C%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [商家回应价值两三百玉镯售2.7万](https://www.baidu.com/s?wd=%E5%95%86%E5%AE%B6%E5%9B%9E%E5%BA%94%E4%BB%B7%E5%80%BC%E4%B8%A4%E4%B8%89%E7%99%BE%E7%8E%89%E9%95%AF%E5%94%AE2.7%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [800多赞的朋友圈长什么样](https://www.baidu.com/s?wd=800%E5%A4%9A%E8%B5%9E%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88%E9%95%BF%E4%BB%80%E4%B9%88%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [800多赞的朋友圈长什么样](https://www.baidu.com/s?wd=800%E5%A4%9A%E8%B5%9E%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88%E9%95%BF%E4%BB%80%E4%B9%88%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [医生在面馆对女子说她可能有肿瘤](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E5%9C%A8%E9%9D%A2%E9%A6%86%E5%AF%B9%E5%A5%B3%E5%AD%90%E8%AF%B4%E5%A5%B9%E5%8F%AF%E8%83%BD%E6%9C%89%E8%82%BF%E7%98%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [现场视频：台岛周边我舰抵近台舰](https://www.baidu.com/s?wd=%E7%8E%B0%E5%9C%BA%E8%A7%86%E9%A2%91%EF%BC%9A%E5%8F%B0%E5%B2%9B%E5%91%A8%E8%BE%B9%E6%88%91%E8%88%B0%E6%8A%B5%E8%BF%91%E5%8F%B0%E8%88%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [表情包小狗Cheems去世](https://www.baidu.com/s?wd=%E8%A1%A8%E6%83%85%E5%8C%85%E5%B0%8F%E7%8B%97Cheems%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [董明珠回应格力今年“落榜”](https://www.baidu.com/s?wd=%E8%91%A3%E6%98%8E%E7%8F%A0%E5%9B%9E%E5%BA%94%E6%A0%BC%E5%8A%9B%E4%BB%8A%E5%B9%B4%E2%80%9C%E8%90%BD%E6%A6%9C%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [商家回应价值两三百玉镯售2.7万](https://www.baidu.com/s?wd=%E5%95%86%E5%AE%B6%E5%9B%9E%E5%BA%94%E4%BB%B7%E5%80%BC%E4%B8%A4%E4%B8%89%E7%99%BE%E7%8E%89%E9%95%AF%E5%94%AE2.7%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [800多赞的朋友圈长什么样](https://www.baidu.com/s?wd=800%E5%A4%9A%E8%B5%9E%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88%E9%95%BF%E4%BB%80%E4%B9%88%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [800多赞的朋友圈长什么样](https://www.baidu.com/s?wd=800%E5%A4%9A%E8%B5%9E%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88%E9%95%BF%E4%BB%80%E4%B9%88%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [医生在面馆对女子说她可能有肿瘤](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E5%9C%A8%E9%9D%A2%E9%A6%86%E5%AF%B9%E5%A5%B3%E5%AD%90%E8%AF%B4%E5%A5%B9%E5%8F%AF%E8%83%BD%E6%9C%89%E8%82%BF%E7%98%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
