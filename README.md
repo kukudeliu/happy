@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-19 15:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-19 15:44:02</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [浙江一学校的军训是集体摸鱼](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E5%AD%A6%E6%A0%A1%E7%9A%84%E5%86%9B%E8%AE%AD%E6%98%AF%E9%9B%86%E4%BD%93%E6%91%B8%E9%B1%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [70岁曾志伟被曝住院开刀 女儿发声](https://www.baidu.com/s?wd=70%E5%B2%81%E6%9B%BE%E5%BF%97%E4%BC%9F%E8%A2%AB%E6%9B%9D%E4%BD%8F%E9%99%A2%E5%BC%80%E5%88%80+%E5%A5%B3%E5%84%BF%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [BaiduWorld2023定档](https://www.baidu.com/s?wd=BaiduWorld2023%E5%AE%9A%E6%A1%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [气象组织警告极端天气未来将成常态](https://www.baidu.com/s?wd=%E6%B0%94%E8%B1%A1%E7%BB%84%E7%BB%87%E8%AD%A6%E5%91%8A%E6%9E%81%E7%AB%AF%E5%A4%A9%E6%B0%94%E6%9C%AA%E6%9D%A5%E5%B0%86%E6%88%90%E5%B8%B8%E6%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [泰安站被通报后连夜更换按摩椅](https://www.baidu.com/s?wd=%E6%B3%B0%E5%AE%89%E7%AB%99%E8%A2%AB%E9%80%9A%E6%8A%A5%E5%90%8E%E8%BF%9E%E5%A4%9C%E6%9B%B4%E6%8D%A2%E6%8C%89%E6%91%A9%E6%A4%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [浙江一学校的军训是集体摸鱼](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E5%AD%A6%E6%A0%A1%E7%9A%84%E5%86%9B%E8%AE%AD%E6%98%AF%E9%9B%86%E4%BD%93%E6%91%B8%E9%B1%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [70岁曾志伟被曝住院开刀 女儿发声](https://www.baidu.com/s?wd=70%E5%B2%81%E6%9B%BE%E5%BF%97%E4%BC%9F%E8%A2%AB%E6%9B%9D%E4%BD%8F%E9%99%A2%E5%BC%80%E5%88%80+%E5%A5%B3%E5%84%BF%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [BaiduWorld2023定档](https://www.baidu.com/s?wd=BaiduWorld2023%E5%AE%9A%E6%A1%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [气象组织警告极端天气未来将成常态](https://www.baidu.com/s?wd=%E6%B0%94%E8%B1%A1%E7%BB%84%E7%BB%87%E8%AD%A6%E5%91%8A%E6%9E%81%E7%AB%AF%E5%A4%A9%E6%B0%94%E6%9C%AA%E6%9D%A5%E5%B0%86%E6%88%90%E5%B8%B8%E6%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [泰安站被通报后连夜更换按摩椅](https://www.baidu.com/s?wd=%E6%B3%B0%E5%AE%89%E7%AB%99%E8%A2%AB%E9%80%9A%E6%8A%A5%E5%90%8E%E8%BF%9E%E5%A4%9C%E6%9B%B4%E6%8D%A2%E6%8C%89%E6%91%A9%E6%A4%85&sa=fyb_news&rsv_dl=fyb_news)<br />
