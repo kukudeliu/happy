@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-20 00:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-20 00:45:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [魏大勋泼李雪琴一杯水后在角落里自罚一杯](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E6%B3%BC%E6%9D%8E%E9%9B%AA%E7%90%B4%E4%B8%80%E6%9D%AF%E6%B0%B4%E5%90%8E%E5%9C%A8%E8%A7%92%E8%90%BD%E9%87%8C%E8%87%AA%E7%BD%9A%E4%B8%80%E6%9D%AF%23&t=31&band_rank=6&Refer=top)<br />
 7. [幂式穿搭真的绝](https://s.weibo.com/weibo?q=%E5%B9%82%E5%BC%8F%E7%A9%BF%E6%90%AD%E7%9C%9F%E7%9A%84%E7%BB%9D&t=31&band_rank=7&Refer=top)<br />
 8. [女生大专休学4年复读圆梦北影](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E5%A4%A7%E4%B8%93%E4%BC%91%E5%AD%A64%E5%B9%B4%E5%A4%8D%E8%AF%BB%E5%9C%86%E6%A2%A6%E5%8C%97%E5%BD%B1%23&t=31&band_rank=8&Refer=top)<br />
-9. [吉林女生体制内离职打零工创业](https://s.weibo.com/weibo?q=%23%E5%90%89%E6%9E%97%E5%A5%B3%E7%94%9F%E4%BD%93%E5%88%B6%E5%86%85%E7%A6%BB%E8%81%8C%E6%89%93%E9%9B%B6%E5%B7%A5%E5%88%9B%E4%B8%9A%23&t=31&band_rank=9&Refer=top)<br />
+9. [解救被困缅甸的中科院博士](https://s.weibo.com/weibo?q=%23%E8%A7%A3%E6%95%91%E8%A2%AB%E5%9B%B0%E7%BC%85%E7%94%B8%E7%9A%84%E4%B8%AD%E7%A7%91%E9%99%A2%E5%8D%9A%E5%A3%AB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
