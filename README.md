@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-19 14:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-19 14:21:01</h4></div>
 
 > 微博  
 
-1. [麻醉医生说请别叫我麻醉师](https://s.weibo.com/weibo?q=%23%E9%BA%BB%E9%86%89%E5%8C%BB%E7%94%9F%E8%AF%B4%E8%AF%B7%E5%88%AB%E5%8F%AB%E6%88%91%E9%BA%BB%E9%86%89%E5%B8%88%23&t=31&band_rank=1&Refer=top)<br />
-2. [东部战区位台岛演训长时段抵近慑压](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E4%BD%8D%E5%8F%B0%E5%B2%9B%E6%BC%94%E8%AE%AD%E9%95%BF%E6%97%B6%E6%AE%B5%E6%8A%B5%E8%BF%91%E6%85%91%E5%8E%8B%23&t=31&band_rank=2&Refer=top)<br />
+1. [东部战区位台岛演训长时段抵近慑压](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E4%BD%8D%E5%8F%B0%E5%B2%9B%E6%BC%94%E8%AE%AD%E9%95%BF%E6%97%B6%E6%AE%B5%E6%8A%B5%E8%BF%91%E6%85%91%E5%8E%8B%23&t=31&band_rank=1&Refer=top)<br />
+2. [麻醉医生说请别叫我麻醉师](https://s.weibo.com/weibo?q=%23%E9%BA%BB%E9%86%89%E5%8C%BB%E7%94%9F%E8%AF%B4%E8%AF%B7%E5%88%AB%E5%8F%AB%E6%88%91%E9%BA%BB%E9%86%89%E5%B8%88%23&t=31&band_rank=2&Refer=top)<br />
 3. [谢谢你生命的守护者](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E8%B0%A2%E4%BD%A0%E7%94%9F%E5%91%BD%E7%9A%84%E5%AE%88%E6%8A%A4%E8%80%85%23&t=31&band_rank=3&Refer=top)<br />
 4. [长相思导演回应官配为什么不是男主](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D%E5%AF%BC%E6%BC%94%E5%9B%9E%E5%BA%94%E5%AE%98%E9%85%8D%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E6%98%AF%E7%94%B7%E4%B8%BB%23&t=31&band_rank=4&Refer=top)<br />
 5. [竟然从一个摄影镜头里看到了慌张](https://s.weibo.com/weibo?q=%23%E7%AB%9F%E7%84%B6%E4%BB%8E%E4%B8%80%E4%B8%AA%E6%91%84%E5%BD%B1%E9%95%9C%E5%A4%B4%E9%87%8C%E7%9C%8B%E5%88%B0%E4%BA%86%E6%85%8C%E5%BC%A0%23&t=31&band_rank=5&Refer=top)<br />
