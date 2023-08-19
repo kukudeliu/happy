@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-20 02:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-20 02:43:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [周杰伦看到自己05年演唱的票根](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E7%9C%8B%E5%88%B0%E8%87%AA%E5%B7%B105%E5%B9%B4%E6%BC%94%E5%94%B1%E7%9A%84%E7%A5%A8%E6%A0%B9&t=31&band_rank=5&Refer=top)<br />
 6. [解救被困缅甸的中科院博士](https://s.weibo.com/weibo?q=%23%E8%A7%A3%E6%95%91%E8%A2%AB%E5%9B%B0%E7%BC%85%E7%94%B8%E7%9A%84%E4%B8%AD%E7%A7%91%E9%99%A2%E5%8D%9A%E5%A3%AB%23&t=31&band_rank=6&Refer=top)<br />
 7. [B站广告涉嫌用AI洗稿网易游戏](https://s.weibo.com/weibo?q=B%E7%AB%99%E5%B9%BF%E5%91%8A%E6%B6%89%E5%AB%8C%E7%94%A8AI%E6%B4%97%E7%A8%BF%E7%BD%91%E6%98%93%E6%B8%B8%E6%88%8F&t=31&band_rank=7&Refer=top)<br />
-8. [热刺vs曼联](https://s.weibo.com/weibo?q=%23%E7%83%AD%E5%88%BAvs%E6%9B%BC%E8%81%94%23&t=31&band_rank=8&Refer=top)<br />
-9. [800多赞的朋友圈长什么样](https://s.weibo.com/weibo?q=%23800%E5%A4%9A%E8%B5%9E%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88%E9%95%BF%E4%BB%80%E4%B9%88%E6%A0%B7%23&t=31&band_rank=9&Refer=top)<br />
+8. [800多赞的朋友圈长什么样](https://s.weibo.com/weibo?q=%23800%E5%A4%9A%E8%B5%9E%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88%E9%95%BF%E4%BB%80%E4%B9%88%E6%A0%B7%23&t=31&band_rank=8&Refer=top)<br />
+9. [热刺vs曼联](https://s.weibo.com/weibo?q=%23%E7%83%AD%E5%88%BAvs%E6%9B%BC%E8%81%94%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -25,7 +25,7 @@
 6. [马斯克要砍掉X“屏蔽”功能](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E8%A6%81%E7%A0%8D%E6%8E%89X%E2%80%9C%E5%B1%8F%E8%94%BD%E2%80%9D%E5%8A%9F%E8%83%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子为女友送行买票不登机被捕](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%BA%E5%A5%B3%E5%8F%8B%E9%80%81%E8%A1%8C%E4%B9%B0%E7%A5%A8%E4%B8%8D%E7%99%BB%E6%9C%BA%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [800多赞的朋友圈长什么样](https://www.baidu.com/s?wd=800%E5%A4%9A%E8%B5%9E%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88%E9%95%BF%E4%BB%80%E4%B9%88%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [薛之谦把大屏镜头给了歌迷](https://www.baidu.com/s?wd=%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%8A%8A%E5%A4%A7%E5%B1%8F%E9%95%9C%E5%A4%B4%E7%BB%99%E4%BA%86%E6%AD%8C%E8%BF%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [医生在面馆对女子说她可能有肿瘤](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E5%9C%A8%E9%9D%A2%E9%A6%86%E5%AF%B9%E5%A5%B3%E5%AD%90%E8%AF%B4%E5%A5%B9%E5%8F%AF%E8%83%BD%E6%9C%89%E8%82%BF%E7%98%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [马斯克要砍掉X“屏蔽”功能](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E8%A6%81%E7%A0%8D%E6%8E%89X%E2%80%9C%E5%B1%8F%E8%94%BD%E2%80%9D%E5%8A%9F%E8%83%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子为女友送行买票不登机被捕](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%BA%E5%A5%B3%E5%8F%8B%E9%80%81%E8%A1%8C%E4%B9%B0%E7%A5%A8%E4%B8%8D%E7%99%BB%E6%9C%BA%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [800多赞的朋友圈长什么样](https://www.baidu.com/s?wd=800%E5%A4%9A%E8%B5%9E%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88%E9%95%BF%E4%BB%80%E4%B9%88%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [薛之谦把大屏镜头给了歌迷](https://www.baidu.com/s?wd=%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%8A%8A%E5%A4%A7%E5%B1%8F%E9%95%9C%E5%A4%B4%E7%BB%99%E4%BA%86%E6%AD%8C%E8%BF%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [医生在面馆对女子说她可能有肿瘤](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E5%9C%A8%E9%9D%A2%E9%A6%86%E5%AF%B9%E5%A5%B3%E5%AD%90%E8%AF%B4%E5%A5%B9%E5%8F%AF%E8%83%BD%E6%9C%89%E8%82%BF%E7%98%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
