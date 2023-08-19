@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-20 02:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-20 02:24:01</h4></div>
 
 > 微博  
 
@@ -22,10 +22,10 @@
 3. [王毅同泰国副总理兼外长举行会谈](https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E5%90%8C%E6%B3%B0%E5%9B%BD%E5%89%AF%E6%80%BB%E7%90%86%E5%85%BC%E5%A4%96%E9%95%BF%E4%B8%BE%E8%A1%8C%E4%BC%9A%E8%B0%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [勇担健康使命 铸就时代新功](https://www.baidu.com/s?wd=%E5%8B%87%E6%8B%85%E5%81%A5%E5%BA%B7%E4%BD%BF%E5%91%BD+%E9%93%B8%E5%B0%B1%E6%97%B6%E4%BB%A3%E6%96%B0%E5%8A%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [现场视频：台岛周边我舰抵近台舰](https://www.baidu.com/s?wd=%E7%8E%B0%E5%9C%BA%E8%A7%86%E9%A2%91%EF%BC%9A%E5%8F%B0%E5%B2%9B%E5%91%A8%E8%BE%B9%E6%88%91%E8%88%B0%E6%8A%B5%E8%BF%91%E5%8F%B0%E8%88%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [肯尼亚前总理怼美大使：流氓 闭嘴](https://www.baidu.com/s?wd=%E8%82%AF%E5%B0%BC%E4%BA%9A%E5%89%8D%E6%80%BB%E7%90%86%E6%80%BC%E7%BE%8E%E5%A4%A7%E4%BD%BF%EF%BC%9A%E6%B5%81%E6%B0%93+%E9%97%AD%E5%98%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [知情人士预测特朗普下周自首](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%E5%A3%AB%E9%A2%84%E6%B5%8B%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E5%91%A8%E8%87%AA%E9%A6%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [800多赞的朋友圈长什么样](https://www.baidu.com/s?wd=800%E5%A4%9A%E8%B5%9E%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88%E9%95%BF%E4%BB%80%E4%B9%88%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [稚晖君出走华为半年造出人形机器人](https://www.baidu.com/s?wd=%E7%A8%9A%E6%99%96%E5%90%9B%E5%87%BA%E8%B5%B0%E5%8D%8E%E4%B8%BA%E5%8D%8A%E5%B9%B4%E9%80%A0%E5%87%BA%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [媒体：拜登称不针对中国但字字抹黑](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E6%8B%9C%E7%99%BB%E7%A7%B0%E4%B8%8D%E9%92%88%E5%AF%B9%E4%B8%AD%E5%9B%BD%E4%BD%86%E5%AD%97%E5%AD%97%E6%8A%B9%E9%BB%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [800多赞的朋友圈长什么样](https://www.baidu.com/s?wd=800%E5%A4%9A%E8%B5%9E%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88%E9%95%BF%E4%BB%80%E4%B9%88%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [厦门天空出现芭比粉闪电](https://www.baidu.com/s?wd=%E5%8E%A6%E9%97%A8%E5%A4%A9%E7%A9%BA%E5%87%BA%E7%8E%B0%E8%8A%AD%E6%AF%94%E7%B2%89%E9%97%AA%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -34,7 +34,7 @@
 3. [王毅同泰国副总理兼外长举行会谈](https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E5%90%8C%E6%B3%B0%E5%9B%BD%E5%89%AF%E6%80%BB%E7%90%86%E5%85%BC%E5%A4%96%E9%95%BF%E4%B8%BE%E8%A1%8C%E4%BC%9A%E8%B0%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [勇担健康使命 铸就时代新功](https://www.baidu.com/s?wd=%E5%8B%87%E6%8B%85%E5%81%A5%E5%BA%B7%E4%BD%BF%E5%91%BD+%E9%93%B8%E5%B0%B1%E6%97%B6%E4%BB%A3%E6%96%B0%E5%8A%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [现场视频：台岛周边我舰抵近台舰](https://www.baidu.com/s?wd=%E7%8E%B0%E5%9C%BA%E8%A7%86%E9%A2%91%EF%BC%9A%E5%8F%B0%E5%B2%9B%E5%91%A8%E8%BE%B9%E6%88%91%E8%88%B0%E6%8A%B5%E8%BF%91%E5%8F%B0%E8%88%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [肯尼亚前总理怼美大使：流氓 闭嘴](https://www.baidu.com/s?wd=%E8%82%AF%E5%B0%BC%E4%BA%9A%E5%89%8D%E6%80%BB%E7%90%86%E6%80%BC%E7%BE%8E%E5%A4%A7%E4%BD%BF%EF%BC%9A%E6%B5%81%E6%B0%93+%E9%97%AD%E5%98%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [知情人士预测特朗普下周自首](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%E5%A3%AB%E9%A2%84%E6%B5%8B%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E5%91%A8%E8%87%AA%E9%A6%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [800多赞的朋友圈长什么样](https://www.baidu.com/s?wd=800%E5%A4%9A%E8%B5%9E%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88%E9%95%BF%E4%BB%80%E4%B9%88%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [稚晖君出走华为半年造出人形机器人](https://www.baidu.com/s?wd=%E7%A8%9A%E6%99%96%E5%90%9B%E5%87%BA%E8%B5%B0%E5%8D%8E%E4%B8%BA%E5%8D%8A%E5%B9%B4%E9%80%A0%E5%87%BA%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [媒体：拜登称不针对中国但字字抹黑](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E6%8B%9C%E7%99%BB%E7%A7%B0%E4%B8%8D%E9%92%88%E5%AF%B9%E4%B8%AD%E5%9B%BD%E4%BD%86%E5%AD%97%E5%AD%97%E6%8A%B9%E9%BB%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [800多赞的朋友圈长什么样](https://www.baidu.com/s?wd=800%E5%A4%9A%E8%B5%9E%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88%E9%95%BF%E4%BB%80%E4%B9%88%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [厦门天空出现芭比粉闪电](https://www.baidu.com/s?wd=%E5%8E%A6%E9%97%A8%E5%A4%A9%E7%A9%BA%E5%87%BA%E7%8E%B0%E8%8A%AD%E6%AF%94%E7%B2%89%E9%97%AA%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
