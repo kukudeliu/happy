@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-19 12:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-19 12:39:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [夏威夷大火废墟中有很多X字样](https://www.baidu.com/s?wd=%E5%A4%8F%E5%A8%81%E5%A4%B7%E5%A4%A7%E7%81%AB%E5%BA%9F%E5%A2%9F%E4%B8%AD%E6%9C%89%E5%BE%88%E5%A4%9AX%E5%AD%97%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [缅甸旅行风险等级为橙色高风险](https://www.baidu.com/s?wd=%E7%BC%85%E7%94%B8%E6%97%85%E8%A1%8C%E9%A3%8E%E9%99%A9%E7%AD%89%E7%BA%A7%E4%B8%BA%E6%A9%99%E8%89%B2%E9%AB%98%E9%A3%8E%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [央广网评长安三万里被批误导观众](https://www.baidu.com/s?wd=%E5%A4%AE%E5%B9%BF%E7%BD%91%E8%AF%84%E9%95%BF%E5%AE%89%E4%B8%89%E4%B8%87%E9%87%8C%E8%A2%AB%E6%89%B9%E8%AF%AF%E5%AF%BC%E8%A7%82%E4%BC%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [官方辟谣家长花3万买幼儿园名额](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%AE%B6%E9%95%BF%E8%8A%B13%E4%B8%87%E4%B9%B0%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%90%8D%E9%A2%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [电诈集团悬赏60万抓捕逃离者](https://www.baidu.com/s?wd=%E7%94%B5%E8%AF%88%E9%9B%86%E5%9B%A2%E6%82%AC%E8%B5%8F60%E4%B8%87%E6%8A%93%E6%8D%95%E9%80%83%E7%A6%BB%E8%80%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [夏威夷大火废墟中有很多X字样](https://www.baidu.com/s?wd=%E5%A4%8F%E5%A8%81%E5%A4%B7%E5%A4%A7%E7%81%AB%E5%BA%9F%E5%A2%9F%E4%B8%AD%E6%9C%89%E5%BE%88%E5%A4%9AX%E5%AD%97%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [缅甸旅行风险等级为橙色高风险](https://www.baidu.com/s?wd=%E7%BC%85%E7%94%B8%E6%97%85%E8%A1%8C%E9%A3%8E%E9%99%A9%E7%AD%89%E7%BA%A7%E4%B8%BA%E6%A9%99%E8%89%B2%E9%AB%98%E9%A3%8E%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [央广网评长安三万里被批误导观众](https://www.baidu.com/s?wd=%E5%A4%AE%E5%B9%BF%E7%BD%91%E8%AF%84%E9%95%BF%E5%AE%89%E4%B8%89%E4%B8%87%E9%87%8C%E8%A2%AB%E6%89%B9%E8%AF%AF%E5%AF%BC%E8%A7%82%E4%BC%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [官方辟谣家长花3万买幼儿园名额](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%AE%B6%E9%95%BF%E8%8A%B13%E4%B8%87%E4%B9%B0%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%90%8D%E9%A2%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [电诈集团悬赏60万抓捕逃离者](https://www.baidu.com/s?wd=%E7%94%B5%E8%AF%88%E9%9B%86%E5%9B%A2%E6%82%AC%E8%B5%8F60%E4%B8%87%E6%8A%93%E6%8D%95%E9%80%83%E7%A6%BB%E8%80%85&sa=fyb_news&rsv_dl=fyb_news)<br />
