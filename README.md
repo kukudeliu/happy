@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-19 08:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-19 08:10:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [救命啊有人可以帮消防员打119吗](https://s.weibo.com/weibo?q=%23%E6%95%91%E5%91%BD%E5%95%8A%E6%9C%89%E4%BA%BA%E5%8F%AF%E4%BB%A5%E5%B8%AE%E6%B6%88%E9%98%B2%E5%91%98%E6%89%93119%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [卿卿日常紫薯精vs七时吉祥走地鸡](https://s.weibo.com/weibo?q=%23%E5%8D%BF%E5%8D%BF%E6%97%A5%E5%B8%B8%E7%B4%AB%E8%96%AF%E7%B2%BEvs%E4%B8%83%E6%97%B6%E5%90%89%E7%A5%A5%E8%B5%B0%E5%9C%B0%E9%B8%A1%23&t=31&band_rank=7&Refer=top)<br />
 8. [打响取消公摊第一枪的为什么是合肥](https://s.weibo.com/weibo?q=%23%E6%89%93%E5%93%8D%E5%8F%96%E6%B6%88%E5%85%AC%E6%91%8A%E7%AC%AC%E4%B8%80%E6%9E%AA%E7%9A%84%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%AF%E5%90%88%E8%82%A5%23&t=31&band_rank=8&Refer=top)<br />
-9. [儿科医生朋友圈点赞多得滑不到底](https://s.weibo.com/weibo?q=%23%E5%84%BF%E7%A7%91%E5%8C%BB%E7%94%9F%E6%9C%8B%E5%8F%8B%E5%9C%88%E7%82%B9%E8%B5%9E%E5%A4%9A%E5%BE%97%E6%BB%91%E4%B8%8D%E5%88%B0%E5%BA%95%23&t=31&band_rank=9&Refer=top)<br />
+9. [中泰缅老警方合作打击赌诈集团](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%B3%B0%E7%BC%85%E8%80%81%E8%AD%A6%E6%96%B9%E5%90%88%E4%BD%9C%E6%89%93%E5%87%BB%E8%B5%8C%E8%AF%88%E9%9B%86%E5%9B%A2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
