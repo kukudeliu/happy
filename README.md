@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-19 18:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-19 18:14:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [今天第6个中国医师节](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E7%AC%AC6%E4%B8%AA%E4%B8%AD%E5%9B%BD%E5%8C%BB%E5%B8%88%E8%8A%82%23&t=31&band_rank=3&Refer=top)<br />
 4. [花花急眼](https://s.weibo.com/weibo?q=%E8%8A%B1%E8%8A%B1%E6%80%A5%E7%9C%BC&t=31&band_rank=4&Refer=top)<br />
 5. [他拿了1瓶水放回来8提水](https://s.weibo.com/weibo?q=%23%E4%BB%96%E6%8B%BF%E4%BA%861%E7%93%B6%E6%B0%B4%E6%94%BE%E5%9B%9E%E6%9D%A58%E6%8F%90%E6%B0%B4%23&t=31&band_rank=5&Refer=top)<br />
-6. [隔夜水不能喝的原因](https://s.weibo.com/weibo?q=%E9%9A%94%E5%A4%9C%E6%B0%B4%E4%B8%8D%E8%83%BD%E5%96%9D%E7%9A%84%E5%8E%9F%E5%9B%A0&t=31&band_rank=6&Refer=top)<br />
+6. [质疑左立理解左立成为左立](https://s.weibo.com/weibo?q=%23%E8%B4%A8%E7%96%91%E5%B7%A6%E7%AB%8B%E7%90%86%E8%A7%A3%E5%B7%A6%E7%AB%8B%E6%88%90%E4%B8%BA%E5%B7%A6%E7%AB%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [浙江一学校的军训是集体摸鱼](https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E4%B8%80%E5%AD%A6%E6%A0%A1%E7%9A%84%E5%86%9B%E8%AE%AD%E6%98%AF%E9%9B%86%E4%BD%93%E6%91%B8%E9%B1%BC%23&t=31&band_rank=7&Refer=top)<br />
-8. [张晚意演我看檀健次跳舞](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%99%9A%E6%84%8F%E6%BC%94%E6%88%91%E7%9C%8B%E6%AA%80%E5%81%A5%E6%AC%A1%E8%B7%B3%E8%88%9E%23&t=31&band_rank=8&Refer=top)<br />
-9. [排球少年](https://s.weibo.com/weibo?q=%E6%8E%92%E7%90%83%E5%B0%91%E5%B9%B4&t=31&band_rank=9&Refer=top)<br />
+8. [隔夜水不能喝的原因](https://s.weibo.com/weibo?q=%E9%9A%94%E5%A4%9C%E6%B0%B4%E4%B8%8D%E8%83%BD%E5%96%9D%E7%9A%84%E5%8E%9F%E5%9B%A0&t=31&band_rank=8&Refer=top)<br />
+9. [张晚意演我看檀健次跳舞](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%99%9A%E6%84%8F%E6%BC%94%E6%88%91%E7%9C%8B%E6%AA%80%E5%81%A5%E6%AC%A1%E8%B7%B3%E8%88%9E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -25,7 +25,7 @@
 6. [国知局职工子女10人考上清华北大](https://www.baidu.com/s?wd=%E5%9B%BD%E7%9F%A5%E5%B1%80%E8%81%8C%E5%B7%A5%E5%AD%90%E5%A5%B310%E4%BA%BA%E8%80%83%E4%B8%8A%E6%B8%85%E5%8D%8E%E5%8C%97%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [实拍加拿大林火：宛如世界末日](https://www.baidu.com/s?wd=%E5%AE%9E%E6%8B%8D%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%9E%97%E7%81%AB%EF%BC%9A%E5%AE%9B%E5%A6%82%E4%B8%96%E7%95%8C%E6%9C%AB%E6%97%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [BaiduWorld2023定档](https://www.baidu.com/s?wd=BaiduWorld2023%E5%AE%9A%E6%A1%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [商家回应价值两三百玉镯售2.7万](https://www.baidu.com/s?wd=%E5%95%86%E5%AE%B6%E5%9B%9E%E5%BA%94%E4%BB%B7%E5%80%BC%E4%B8%A4%E4%B8%89%E7%99%BE%E7%8E%89%E9%95%AF%E5%94%AE2.7%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [北海不明鱼类咬人后海滩游客少了8成](https://www.baidu.com/s?wd=%E5%8C%97%E6%B5%B7%E4%B8%8D%E6%98%8E%E9%B1%BC%E7%B1%BB%E5%92%AC%E4%BA%BA%E5%90%8E%E6%B5%B7%E6%BB%A9%E6%B8%B8%E5%AE%A2%E5%B0%91%E4%BA%868%E6%88%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [国知局职工子女10人考上清华北大](https://www.baidu.com/s?wd=%E5%9B%BD%E7%9F%A5%E5%B1%80%E8%81%8C%E5%B7%A5%E5%AD%90%E5%A5%B310%E4%BA%BA%E8%80%83%E4%B8%8A%E6%B8%85%E5%8D%8E%E5%8C%97%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [实拍加拿大林火：宛如世界末日](https://www.baidu.com/s?wd=%E5%AE%9E%E6%8B%8D%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%9E%97%E7%81%AB%EF%BC%9A%E5%AE%9B%E5%A6%82%E4%B8%96%E7%95%8C%E6%9C%AB%E6%97%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [BaiduWorld2023定档](https://www.baidu.com/s?wd=BaiduWorld2023%E5%AE%9A%E6%A1%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [商家回应价值两三百玉镯售2.7万](https://www.baidu.com/s?wd=%E5%95%86%E5%AE%B6%E5%9B%9E%E5%BA%94%E4%BB%B7%E5%80%BC%E4%B8%A4%E4%B8%89%E7%99%BE%E7%8E%89%E9%95%AF%E5%94%AE2.7%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [北海不明鱼类咬人后海滩游客少了8成](https://www.baidu.com/s?wd=%E5%8C%97%E6%B5%B7%E4%B8%8D%E6%98%8E%E9%B1%BC%E7%B1%BB%E5%92%AC%E4%BA%BA%E5%90%8E%E6%B5%B7%E6%BB%A9%E6%B8%B8%E5%AE%A2%E5%B0%91%E4%BA%868%E6%88%90&sa=fyb_news&rsv_dl=fyb_news)<br />
