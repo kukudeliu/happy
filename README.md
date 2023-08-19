@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-19 08:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-19 08:40:01</h4></div>
 
 > 微博  
 
@@ -21,11 +21,11 @@
 2. [程序员未写出赌博程序被拔掉14颗牙](https://www.baidu.com/s?wd=%E7%A8%8B%E5%BA%8F%E5%91%98%E6%9C%AA%E5%86%99%E5%87%BA%E8%B5%8C%E5%8D%9A%E7%A8%8B%E5%BA%8F%E8%A2%AB%E6%8B%94%E6%8E%8914%E9%A2%97%E7%89%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [证监会释放重磅信号 事关你的股票](https://www.baidu.com/s?wd=%E8%AF%81%E7%9B%91%E4%BC%9A%E9%87%8A%E6%94%BE%E9%87%8D%E7%A3%85%E4%BF%A1%E5%8F%B7+%E4%BA%8B%E5%85%B3%E4%BD%A0%E7%9A%84%E8%82%A1%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [暑期消费正火热](https://www.baidu.com/s?wd=%E6%9A%91%E6%9C%9F%E6%B6%88%E8%B4%B9%E6%AD%A3%E7%81%AB%E7%83%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [3娃非亲生男子讲述妻子出轨全程](https://www.baidu.com/s?wd=3%E5%A8%83%E9%9D%9E%E4%BA%B2%E7%94%9F%E7%94%B7%E5%AD%90%E8%AE%B2%E8%BF%B0%E5%A6%BB%E5%AD%90%E5%87%BA%E8%BD%A8%E5%85%A8%E7%A8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [知情人曝李玟摔倒后节目组没喊停](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%E6%9B%9D%E6%9D%8E%E7%8E%9F%E6%91%94%E5%80%92%E5%90%8E%E8%8A%82%E7%9B%AE%E7%BB%84%E6%B2%A1%E5%96%8A%E5%81%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子加入卖淫团伙还让女友出卖身体](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%8A%A0%E5%85%A5%E5%8D%96%E6%B7%AB%E5%9B%A2%E4%BC%99%E8%BF%98%E8%AE%A9%E5%A5%B3%E5%8F%8B%E5%87%BA%E5%8D%96%E8%BA%AB%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [三家银行收到千万级别罚单](https://www.baidu.com/s?wd=%E4%B8%89%E5%AE%B6%E9%93%B6%E8%A1%8C%E6%94%B6%E5%88%B0%E5%8D%83%E4%B8%87%E7%BA%A7%E5%88%AB%E7%BD%9A%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [西安长期坐出租车不给钱女子被刑拘](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E9%95%BF%E6%9C%9F%E5%9D%90%E5%87%BA%E7%A7%9F%E8%BD%A6%E4%B8%8D%E7%BB%99%E9%92%B1%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子坐网约车被颠成九级伤残](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%9D%90%E7%BD%91%E7%BA%A6%E8%BD%A6%E8%A2%AB%E9%A2%A0%E6%88%90%E4%B9%9D%E7%BA%A7%E4%BC%A4%E6%AE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [3娃非亲生男子讲述妻子出轨全程](https://www.baidu.com/s?wd=3%E5%A8%83%E9%9D%9E%E4%BA%B2%E7%94%9F%E7%94%B7%E5%AD%90%E8%AE%B2%E8%BF%B0%E5%A6%BB%E5%AD%90%E5%87%BA%E8%BD%A8%E5%85%A8%E7%A8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -33,8 +33,8 @@
 2. [程序员未写出赌博程序被拔掉14颗牙](https://www.baidu.com/s?wd=%E7%A8%8B%E5%BA%8F%E5%91%98%E6%9C%AA%E5%86%99%E5%87%BA%E8%B5%8C%E5%8D%9A%E7%A8%8B%E5%BA%8F%E8%A2%AB%E6%8B%94%E6%8E%8914%E9%A2%97%E7%89%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [证监会释放重磅信号 事关你的股票](https://www.baidu.com/s?wd=%E8%AF%81%E7%9B%91%E4%BC%9A%E9%87%8A%E6%94%BE%E9%87%8D%E7%A3%85%E4%BF%A1%E5%8F%B7+%E4%BA%8B%E5%85%B3%E4%BD%A0%E7%9A%84%E8%82%A1%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [暑期消费正火热](https://www.baidu.com/s?wd=%E6%9A%91%E6%9C%9F%E6%B6%88%E8%B4%B9%E6%AD%A3%E7%81%AB%E7%83%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [3娃非亲生男子讲述妻子出轨全程](https://www.baidu.com/s?wd=3%E5%A8%83%E9%9D%9E%E4%BA%B2%E7%94%9F%E7%94%B7%E5%AD%90%E8%AE%B2%E8%BF%B0%E5%A6%BB%E5%AD%90%E5%87%BA%E8%BD%A8%E5%85%A8%E7%A8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [知情人曝李玟摔倒后节目组没喊停](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%E6%9B%9D%E6%9D%8E%E7%8E%9F%E6%91%94%E5%80%92%E5%90%8E%E8%8A%82%E7%9B%AE%E7%BB%84%E6%B2%A1%E5%96%8A%E5%81%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子加入卖淫团伙还让女友出卖身体](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%8A%A0%E5%85%A5%E5%8D%96%E6%B7%AB%E5%9B%A2%E4%BC%99%E8%BF%98%E8%AE%A9%E5%A5%B3%E5%8F%8B%E5%87%BA%E5%8D%96%E8%BA%AB%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [三家银行收到千万级别罚单](https://www.baidu.com/s?wd=%E4%B8%89%E5%AE%B6%E9%93%B6%E8%A1%8C%E6%94%B6%E5%88%B0%E5%8D%83%E4%B8%87%E7%BA%A7%E5%88%AB%E7%BD%9A%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [西安长期坐出租车不给钱女子被刑拘](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E9%95%BF%E6%9C%9F%E5%9D%90%E5%87%BA%E7%A7%9F%E8%BD%A6%E4%B8%8D%E7%BB%99%E9%92%B1%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子坐网约车被颠成九级伤残](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%9D%90%E7%BD%91%E7%BA%A6%E8%BD%A6%E8%A2%AB%E9%A2%A0%E6%88%90%E4%B9%9D%E7%BA%A7%E4%BC%A4%E6%AE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [3娃非亲生男子讲述妻子出轨全程](https://www.baidu.com/s?wd=3%E5%A8%83%E9%9D%9E%E4%BA%B2%E7%94%9F%E7%94%B7%E5%AD%90%E8%AE%B2%E8%BF%B0%E5%A6%BB%E5%AD%90%E5%87%BA%E8%BD%A8%E5%85%A8%E7%A8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
