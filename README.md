@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-19 11:28:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-19 11:29:01</h4></div>
 
 > 微博  
 
@@ -23,9 +23,9 @@
 4. [暑期消费正火热](https://www.baidu.com/s?wd=%E6%9A%91%E6%9C%9F%E6%B6%88%E8%B4%B9%E6%AD%A3%E7%81%AB%E7%83%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [央广网评长安三万里被批误导观众](https://www.baidu.com/s?wd=%E5%A4%AE%E5%B9%BF%E7%BD%91%E8%AF%84%E9%95%BF%E5%AE%89%E4%B8%89%E4%B8%87%E9%87%8C%E8%A2%AB%E6%89%B9%E8%AF%AF%E5%AF%BC%E8%A7%82%E4%BC%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [夏威夷大火废墟中有很多X字样](https://www.baidu.com/s?wd=%E5%A4%8F%E5%A8%81%E5%A4%B7%E5%A4%A7%E7%81%AB%E5%BA%9F%E5%A2%9F%E4%B8%AD%E6%9C%89%E5%BE%88%E5%A4%9AX%E5%AD%97%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [EG.5变异株流行情况如何？官方回应](https://www.baidu.com/s?wd=EG.5%E5%8F%98%E5%BC%82%E6%A0%AA%E6%B5%81%E8%A1%8C%E6%83%85%E5%86%B5%E5%A6%82%E4%BD%95%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [骗子开始伪装成外国美女了](https://www.baidu.com/s?wd=%E9%AA%97%E5%AD%90%E5%BC%80%E5%A7%8B%E4%BC%AA%E8%A3%85%E6%88%90%E5%A4%96%E5%9B%BD%E7%BE%8E%E5%A5%B3%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [官方辟谣家长花3万买幼儿园名额](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%AE%B6%E9%95%BF%E8%8A%B13%E4%B8%87%E4%B9%B0%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%90%8D%E9%A2%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [骗子开始伪装成外国美女了](https://www.baidu.com/s?wd=%E9%AA%97%E5%AD%90%E5%BC%80%E5%A7%8B%E4%BC%AA%E8%A3%85%E6%88%90%E5%A4%96%E5%9B%BD%E7%BE%8E%E5%A5%B3%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [官方辟谣家长花3万买幼儿园名额](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%AE%B6%E9%95%BF%E8%8A%B13%E4%B8%87%E4%B9%B0%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%90%8D%E9%A2%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [缅甸旅行风险等级为橙色高风险](https://www.baidu.com/s?wd=%E7%BC%85%E7%94%B8%E6%97%85%E8%A1%8C%E9%A3%8E%E9%99%A9%E7%AD%89%E7%BA%A7%E4%B8%BA%E6%A9%99%E8%89%B2%E9%AB%98%E9%A3%8E%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -35,6 +35,6 @@
 4. [暑期消费正火热](https://www.baidu.com/s?wd=%E6%9A%91%E6%9C%9F%E6%B6%88%E8%B4%B9%E6%AD%A3%E7%81%AB%E7%83%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [央广网评长安三万里被批误导观众](https://www.baidu.com/s?wd=%E5%A4%AE%E5%B9%BF%E7%BD%91%E8%AF%84%E9%95%BF%E5%AE%89%E4%B8%89%E4%B8%87%E9%87%8C%E8%A2%AB%E6%89%B9%E8%AF%AF%E5%AF%BC%E8%A7%82%E4%BC%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [夏威夷大火废墟中有很多X字样](https://www.baidu.com/s?wd=%E5%A4%8F%E5%A8%81%E5%A4%B7%E5%A4%A7%E7%81%AB%E5%BA%9F%E5%A2%9F%E4%B8%AD%E6%9C%89%E5%BE%88%E5%A4%9AX%E5%AD%97%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [EG.5变异株流行情况如何？官方回应](https://www.baidu.com/s?wd=EG.5%E5%8F%98%E5%BC%82%E6%A0%AA%E6%B5%81%E8%A1%8C%E6%83%85%E5%86%B5%E5%A6%82%E4%BD%95%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [骗子开始伪装成外国美女了](https://www.baidu.com/s?wd=%E9%AA%97%E5%AD%90%E5%BC%80%E5%A7%8B%E4%BC%AA%E8%A3%85%E6%88%90%E5%A4%96%E5%9B%BD%E7%BE%8E%E5%A5%B3%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [官方辟谣家长花3万买幼儿园名额](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%AE%B6%E9%95%BF%E8%8A%B13%E4%B8%87%E4%B9%B0%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%90%8D%E9%A2%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [骗子开始伪装成外国美女了](https://www.baidu.com/s?wd=%E9%AA%97%E5%AD%90%E5%BC%80%E5%A7%8B%E4%BC%AA%E8%A3%85%E6%88%90%E5%A4%96%E5%9B%BD%E7%BE%8E%E5%A5%B3%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [官方辟谣家长花3万买幼儿园名额](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%AE%B6%E9%95%BF%E8%8A%B13%E4%B8%87%E4%B9%B0%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%90%8D%E9%A2%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [缅甸旅行风险等级为橙色高风险](https://www.baidu.com/s?wd=%E7%BC%85%E7%94%B8%E6%97%85%E8%A1%8C%E9%A3%8E%E9%99%A9%E7%AD%89%E7%BA%A7%E4%B8%BA%E6%A9%99%E8%89%B2%E9%AB%98%E9%A3%8E%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
