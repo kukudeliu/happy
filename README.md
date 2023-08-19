@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-19 17:59:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-19 18:00:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [隔夜水不能喝的原因](https://s.weibo.com/weibo?q=%E9%9A%94%E5%A4%9C%E6%B0%B4%E4%B8%8D%E8%83%BD%E5%96%9D%E7%9A%84%E5%8E%9F%E5%9B%A0&t=31&band_rank=6&Refer=top)<br />
 7. [浙江一学校的军训是集体摸鱼](https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E4%B8%80%E5%AD%A6%E6%A0%A1%E7%9A%84%E5%86%9B%E8%AE%AD%E6%98%AF%E9%9B%86%E4%BD%93%E6%91%B8%E9%B1%BC%23&t=31&band_rank=7&Refer=top)<br />
 8. [排球少年](https://s.weibo.com/weibo?q=%E6%8E%92%E7%90%83%E5%B0%91%E5%B9%B4&t=31&band_rank=8&Refer=top)<br />
-9. [张晚意演我看檀健次跳舞](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%99%9A%E6%84%8F%E6%BC%94%E6%88%91%E7%9C%8B%E6%AA%80%E5%81%A5%E6%AC%A1%E8%B7%B3%E8%88%9E%23&t=31&band_rank=9&Refer=top)<br />
+9. [医生说的空腹究竟是多久](https://s.weibo.com/weibo?q=%E5%8C%BB%E7%94%9F%E8%AF%B4%E7%9A%84%E7%A9%BA%E8%85%B9%E7%A9%B6%E7%AB%9F%E6%98%AF%E5%A4%9A%E4%B9%85&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
