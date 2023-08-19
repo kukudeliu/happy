@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-19 21:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-19 21:59:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [魏大勋赵今麦版鬼怪](https://s.weibo.com/weibo?q=%E9%AD%8F%E5%A4%A7%E5%8B%8B%E8%B5%B5%E4%BB%8A%E9%BA%A6%E7%89%88%E9%AC%BC%E6%80%AA&t=31&band_rank=6&Refer=top)<br />
 7. [B站广告涉嫌用AI洗稿网易游戏](https://s.weibo.com/weibo?q=B%E7%AB%99%E5%B9%BF%E5%91%8A%E6%B6%89%E5%AB%8C%E7%94%A8AI%E6%B4%97%E7%A8%BF%E7%BD%91%E6%98%93%E6%B8%B8%E6%88%8F&t=31&band_rank=7&Refer=top)<br />
 8. [大宋探案局定档](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%AE%8B%E6%8E%A2%E6%A1%88%E5%B1%80%E5%AE%9A%E6%A1%A3&t=31&band_rank=8&Refer=top)<br />
-9. [久哲发文回应](https://s.weibo.com/weibo?q=%23%E4%B9%85%E5%93%B2%E5%8F%91%E6%96%87%E5%9B%9E%E5%BA%94%23&t=31&band_rank=9&Refer=top)<br />
+9. [山东一地让独居老人吃上免费午餐](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E4%B8%80%E5%9C%B0%E8%AE%A9%E7%8B%AC%E5%B1%85%E8%80%81%E4%BA%BA%E5%90%83%E4%B8%8A%E5%85%8D%E8%B4%B9%E5%8D%88%E9%A4%90%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -25,7 +25,7 @@
 6. [男子家全屋使用不锈钢家具惊呆女友](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%AE%B6%E5%85%A8%E5%B1%8B%E4%BD%BF%E7%94%A8%E4%B8%8D%E9%94%88%E9%92%A2%E5%AE%B6%E5%85%B7%E6%83%8A%E5%91%86%E5%A5%B3%E5%8F%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [境外诈骗目标多为编制人员](https://www.baidu.com/s?wd=%E5%A2%83%E5%A4%96%E8%AF%88%E9%AA%97%E7%9B%AE%E6%A0%87%E5%A4%9A%E4%B8%BA%E7%BC%96%E5%88%B6%E4%BA%BA%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [表情包小狗Cheems去世](https://www.baidu.com/s?wd=%E8%A1%A8%E6%83%85%E5%8C%85%E5%B0%8F%E7%8B%97Cheems%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [割猪草的少年带家人来北大报到](https://www.baidu.com/s?wd=%E5%89%B2%E7%8C%AA%E8%8D%89%E7%9A%84%E5%B0%91%E5%B9%B4%E5%B8%A6%E5%AE%B6%E4%BA%BA%E6%9D%A5%E5%8C%97%E5%A4%A7%E6%8A%A5%E5%88%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [商家回应价值两三百玉镯售2.7万](https://www.baidu.com/s?wd=%E5%95%86%E5%AE%B6%E5%9B%9E%E5%BA%94%E4%BB%B7%E5%80%BC%E4%B8%A4%E4%B8%89%E7%99%BE%E7%8E%89%E9%95%AF%E5%94%AE2.7%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [男子家全屋使用不锈钢家具惊呆女友](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%AE%B6%E5%85%A8%E5%B1%8B%E4%BD%BF%E7%94%A8%E4%B8%8D%E9%94%88%E9%92%A2%E5%AE%B6%E5%85%B7%E6%83%8A%E5%91%86%E5%A5%B3%E5%8F%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [境外诈骗目标多为编制人员](https://www.baidu.com/s?wd=%E5%A2%83%E5%A4%96%E8%AF%88%E9%AA%97%E7%9B%AE%E6%A0%87%E5%A4%9A%E4%B8%BA%E7%BC%96%E5%88%B6%E4%BA%BA%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [表情包小狗Cheems去世](https://www.baidu.com/s?wd=%E8%A1%A8%E6%83%85%E5%8C%85%E5%B0%8F%E7%8B%97Cheems%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [割猪草的少年带家人来北大报到](https://www.baidu.com/s?wd=%E5%89%B2%E7%8C%AA%E8%8D%89%E7%9A%84%E5%B0%91%E5%B9%B4%E5%B8%A6%E5%AE%B6%E4%BA%BA%E6%9D%A5%E5%8C%97%E5%A4%A7%E6%8A%A5%E5%88%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [商家回应价值两三百玉镯售2.7万](https://www.baidu.com/s?wd=%E5%95%86%E5%AE%B6%E5%9B%9E%E5%BA%94%E4%BB%B7%E5%80%BC%E4%B8%A4%E4%B8%89%E7%99%BE%E7%8E%89%E9%95%AF%E5%94%AE2.7%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
