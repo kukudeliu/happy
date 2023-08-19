@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-19 21:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-19 21:18:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [魏大勋赵今麦版鬼怪](https://s.weibo.com/weibo?q=%E9%AD%8F%E5%A4%A7%E5%8B%8B%E8%B5%B5%E4%BB%8A%E9%BA%A6%E7%89%88%E9%AC%BC%E6%80%AA&t=31&band_rank=5&Refer=top)<br />
 6. [宗馥莉](https://s.weibo.com/weibo?q=%E5%AE%97%E9%A6%A5%E8%8E%89&t=31&band_rank=6&Refer=top)<br />
 7. [马立奥来北京啦](https://s.weibo.com/weibo?q=%E9%A9%AC%E7%AB%8B%E5%A5%A5%E6%9D%A5%E5%8C%97%E4%BA%AC%E5%95%A6&t=31&band_rank=7&Refer=top)<br />
-8. [长相思第二季](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D%E7%AC%AC%E4%BA%8C%E5%AD%A3&t=31&band_rank=8&Refer=top)<br />
+8. [邓为你别太实诚了](https://s.weibo.com/weibo?q=%E9%82%93%E4%B8%BA%E4%BD%A0%E5%88%AB%E5%A4%AA%E5%AE%9E%E8%AF%9A%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
 9. [久哲卸任Hero主教练](https://s.weibo.com/weibo?q=%23%E4%B9%85%E5%93%B2%E5%8D%B8%E4%BB%BBHero%E4%B8%BB%E6%95%99%E7%BB%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
