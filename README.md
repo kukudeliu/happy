@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-19 23:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-19 23:14:01</h4></div>
 
 > 微博  
 
@@ -18,23 +18,23 @@
 > 百度  
 
 1. [同心奋战 凝聚力量](https://www.baidu.com/s?wd=%E5%90%8C%E5%BF%83%E5%A5%8B%E6%88%98+%E5%87%9D%E8%81%9A%E5%8A%9B%E9%87%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [东部战区发布轰炸机挂弹起飞画面](https://www.baidu.com/s?wd=%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E5%8F%91%E5%B8%83%E8%BD%B0%E7%82%B8%E6%9C%BA%E6%8C%82%E5%BC%B9%E8%B5%B7%E9%A3%9E%E7%94%BB%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [四川内江连续2日发生4级以上地震](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%86%85%E6%B1%9F%E8%BF%9E%E7%BB%AD2%E6%97%A5%E5%8F%91%E7%94%9F4%E7%BA%A7%E4%BB%A5%E4%B8%8A%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [东部战区对台演训出现新表述](https://www.baidu.com/s?wd=%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E5%AF%B9%E5%8F%B0%E6%BC%94%E8%AE%AD%E5%87%BA%E7%8E%B0%E6%96%B0%E8%A1%A8%E8%BF%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [王毅同泰国副总理兼外长举行会谈](https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E5%90%8C%E6%B3%B0%E5%9B%BD%E5%89%AF%E6%80%BB%E7%90%86%E5%85%BC%E5%A4%96%E9%95%BF%E4%B8%BE%E8%A1%8C%E4%BC%9A%E8%B0%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [勇担健康使命 铸就时代新功](https://www.baidu.com/s?wd=%E5%8B%87%E6%8B%85%E5%81%A5%E5%BA%B7%E4%BD%BF%E5%91%BD+%E9%93%B8%E5%B0%B1%E6%97%B6%E4%BB%A3%E6%96%B0%E5%8A%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [今天是三伏最后一天](https://www.baidu.com/s?wd=%E4%BB%8A%E5%A4%A9%E6%98%AF%E4%B8%89%E4%BC%8F%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [现场视频：台岛周边我舰抵近台舰](https://www.baidu.com/s?wd=%E7%8E%B0%E5%9C%BA%E8%A7%86%E9%A2%91%EF%BC%9A%E5%8F%B0%E5%B2%9B%E5%91%A8%E8%BE%B9%E6%88%91%E8%88%B0%E6%8A%B5%E8%BF%91%E5%8F%B0%E8%88%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [800多赞的朋友圈长什么样](https://www.baidu.com/s?wd=800%E5%A4%9A%E8%B5%9E%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88%E9%95%BF%E4%BB%80%E4%B9%88%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子家全屋使用不锈钢家具惊呆女友](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%AE%B6%E5%85%A8%E5%B1%8B%E4%BD%BF%E7%94%A8%E4%B8%8D%E9%94%88%E9%92%A2%E5%AE%B6%E5%85%B7%E6%83%8A%E5%91%86%E5%A5%B3%E5%8F%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [表情包小狗Cheems去世](https://www.baidu.com/s?wd=%E8%A1%A8%E6%83%85%E5%8C%85%E5%B0%8F%E7%8B%97Cheems%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [浙江一学校的军训是集体摸鱼](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E5%AD%A6%E6%A0%A1%E7%9A%84%E5%86%9B%E8%AE%AD%E6%98%AF%E9%9B%86%E4%BD%93%E6%91%B8%E9%B1%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [“敬礼娃娃”郎铮低调报到北大](https://www.baidu.com/s?wd=%E2%80%9C%E6%95%AC%E7%A4%BC%E5%A8%83%E5%A8%83%E2%80%9D%E9%83%8E%E9%93%AE%E4%BD%8E%E8%B0%83%E6%8A%A5%E5%88%B0%E5%8C%97%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [商家回应价值两三百玉镯售2.7万](https://www.baidu.com/s?wd=%E5%95%86%E5%AE%B6%E5%9B%9E%E5%BA%94%E4%BB%B7%E5%80%BC%E4%B8%A4%E4%B8%89%E7%99%BE%E7%8E%89%E9%95%AF%E5%94%AE2.7%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [同心奋战 凝聚力量](https://www.baidu.com/s?wd=%E5%90%8C%E5%BF%83%E5%A5%8B%E6%88%98+%E5%87%9D%E8%81%9A%E5%8A%9B%E9%87%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [东部战区发布轰炸机挂弹起飞画面](https://www.baidu.com/s?wd=%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E5%8F%91%E5%B8%83%E8%BD%B0%E7%82%B8%E6%9C%BA%E6%8C%82%E5%BC%B9%E8%B5%B7%E9%A3%9E%E7%94%BB%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [四川内江连续2日发生4级以上地震](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%86%85%E6%B1%9F%E8%BF%9E%E7%BB%AD2%E6%97%A5%E5%8F%91%E7%94%9F4%E7%BA%A7%E4%BB%A5%E4%B8%8A%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [东部战区对台演训出现新表述](https://www.baidu.com/s?wd=%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E5%AF%B9%E5%8F%B0%E6%BC%94%E8%AE%AD%E5%87%BA%E7%8E%B0%E6%96%B0%E8%A1%A8%E8%BF%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [王毅同泰国副总理兼外长举行会谈](https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E5%90%8C%E6%B3%B0%E5%9B%BD%E5%89%AF%E6%80%BB%E7%90%86%E5%85%BC%E5%A4%96%E9%95%BF%E4%B8%BE%E8%A1%8C%E4%BC%9A%E8%B0%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [勇担健康使命 铸就时代新功](https://www.baidu.com/s?wd=%E5%8B%87%E6%8B%85%E5%81%A5%E5%BA%B7%E4%BD%BF%E5%91%BD+%E9%93%B8%E5%B0%B1%E6%97%B6%E4%BB%A3%E6%96%B0%E5%8A%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [今天是三伏最后一天](https://www.baidu.com/s?wd=%E4%BB%8A%E5%A4%A9%E6%98%AF%E4%B8%89%E4%BC%8F%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [现场视频：台岛周边我舰抵近台舰](https://www.baidu.com/s?wd=%E7%8E%B0%E5%9C%BA%E8%A7%86%E9%A2%91%EF%BC%9A%E5%8F%B0%E5%B2%9B%E5%91%A8%E8%BE%B9%E6%88%91%E8%88%B0%E6%8A%B5%E8%BF%91%E5%8F%B0%E8%88%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [800多赞的朋友圈长什么样](https://www.baidu.com/s?wd=800%E5%A4%9A%E8%B5%9E%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88%E9%95%BF%E4%BB%80%E4%B9%88%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子家全屋使用不锈钢家具惊呆女友](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%AE%B6%E5%85%A8%E5%B1%8B%E4%BD%BF%E7%94%A8%E4%B8%8D%E9%94%88%E9%92%A2%E5%AE%B6%E5%85%B7%E6%83%8A%E5%91%86%E5%A5%B3%E5%8F%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [表情包小狗Cheems去世](https://www.baidu.com/s?wd=%E8%A1%A8%E6%83%85%E5%8C%85%E5%B0%8F%E7%8B%97Cheems%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [浙江一学校的军训是集体摸鱼](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E5%AD%A6%E6%A0%A1%E7%9A%84%E5%86%9B%E8%AE%AD%E6%98%AF%E9%9B%86%E4%BD%93%E6%91%B8%E9%B1%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [“敬礼娃娃”郎铮低调报到北大](https://www.baidu.com/s?wd=%E2%80%9C%E6%95%AC%E7%A4%BC%E5%A8%83%E5%A8%83%E2%80%9D%E9%83%8E%E9%93%AE%E4%BD%8E%E8%B0%83%E6%8A%A5%E5%88%B0%E5%8C%97%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [商家回应价值两三百玉镯售2.7万](https://www.baidu.com/s?wd=%E5%95%86%E5%AE%B6%E5%9B%9E%E5%BA%94%E4%BB%B7%E5%80%BC%E4%B8%A4%E4%B8%89%E7%99%BE%E7%8E%89%E9%95%AF%E5%94%AE2.7%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
