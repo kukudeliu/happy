@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-19 14:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-19 14:08:01</h4></div>
 
 > 微博  
 
@@ -22,8 +22,8 @@
 3. [夏威夷大火废墟中有很多X字样](https://www.baidu.com/s?wd=%E5%A4%8F%E5%A8%81%E5%A4%B7%E5%A4%A7%E7%81%AB%E5%BA%9F%E5%A2%9F%E4%B8%AD%E6%9C%89%E5%BE%88%E5%A4%9AX%E5%AD%97%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全力以赴做好灾后恢复重建工作](https://www.baidu.com/s?wd=%E5%85%A8%E5%8A%9B%E4%BB%A5%E8%B5%B4%E5%81%9A%E5%A5%BD%E7%81%BE%E5%90%8E%E6%81%A2%E5%A4%8D%E9%87%8D%E5%BB%BA%E5%B7%A5%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [西安长期坐出租车不给钱女子被刑拘](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E9%95%BF%E6%9C%9F%E5%9D%90%E5%87%BA%E7%A7%9F%E8%BD%A6%E4%B8%8D%E7%BB%99%E9%92%B1%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [揭黑医生称医疗反腐让普通医生获益](https://www.baidu.com/s?wd=%E6%8F%AD%E9%BB%91%E5%8C%BB%E7%94%9F%E7%A7%B0%E5%8C%BB%E7%96%97%E5%8F%8D%E8%85%90%E8%AE%A9%E6%99%AE%E9%80%9A%E5%8C%BB%E7%94%9F%E8%8E%B7%E7%9B%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [赵本山新剧首波口碑出炉](https://www.baidu.com/s?wd=%E8%B5%B5%E6%9C%AC%E5%B1%B1%E6%96%B0%E5%89%A7%E9%A6%96%E6%B3%A2%E5%8F%A3%E7%A2%91%E5%87%BA%E7%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [赵本山新剧首波口碑出炉](https://www.baidu.com/s?wd=%E8%B5%B5%E6%9C%AC%E5%B1%B1%E6%96%B0%E5%89%A7%E9%A6%96%E6%B3%A2%E5%8F%A3%E7%A2%91%E5%87%BA%E7%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [揭黑医生称医疗反腐让普通医生获益](https://www.baidu.com/s?wd=%E6%8F%AD%E9%BB%91%E5%8C%BB%E7%94%9F%E7%A7%B0%E5%8C%BB%E7%96%97%E5%8F%8D%E8%85%90%E8%AE%A9%E6%99%AE%E9%80%9A%E5%8C%BB%E7%94%9F%E8%8E%B7%E7%9B%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [美日韩领导人会面 拜登露出神秘微笑](https://www.baidu.com/s?wd=%E7%BE%8E%E6%97%A5%E9%9F%A9%E9%A2%86%E5%AF%BC%E4%BA%BA%E4%BC%9A%E9%9D%A2+%E6%8B%9C%E7%99%BB%E9%9C%B2%E5%87%BA%E7%A5%9E%E7%A7%98%E5%BE%AE%E7%AC%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [志高空调创始人被公安机关控制](https://www.baidu.com/s?wd=%E5%BF%97%E9%AB%98%E7%A9%BA%E8%B0%83%E5%88%9B%E5%A7%8B%E4%BA%BA%E8%A2%AB%E5%85%AC%E5%AE%89%E6%9C%BA%E5%85%B3%E6%8E%A7%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -34,7 +34,7 @@
 3. [夏威夷大火废墟中有很多X字样](https://www.baidu.com/s?wd=%E5%A4%8F%E5%A8%81%E5%A4%B7%E5%A4%A7%E7%81%AB%E5%BA%9F%E5%A2%9F%E4%B8%AD%E6%9C%89%E5%BE%88%E5%A4%9AX%E5%AD%97%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全力以赴做好灾后恢复重建工作](https://www.baidu.com/s?wd=%E5%85%A8%E5%8A%9B%E4%BB%A5%E8%B5%B4%E5%81%9A%E5%A5%BD%E7%81%BE%E5%90%8E%E6%81%A2%E5%A4%8D%E9%87%8D%E5%BB%BA%E5%B7%A5%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [西安长期坐出租车不给钱女子被刑拘](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E9%95%BF%E6%9C%9F%E5%9D%90%E5%87%BA%E7%A7%9F%E8%BD%A6%E4%B8%8D%E7%BB%99%E9%92%B1%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [揭黑医生称医疗反腐让普通医生获益](https://www.baidu.com/s?wd=%E6%8F%AD%E9%BB%91%E5%8C%BB%E7%94%9F%E7%A7%B0%E5%8C%BB%E7%96%97%E5%8F%8D%E8%85%90%E8%AE%A9%E6%99%AE%E9%80%9A%E5%8C%BB%E7%94%9F%E8%8E%B7%E7%9B%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [赵本山新剧首波口碑出炉](https://www.baidu.com/s?wd=%E8%B5%B5%E6%9C%AC%E5%B1%B1%E6%96%B0%E5%89%A7%E9%A6%96%E6%B3%A2%E5%8F%A3%E7%A2%91%E5%87%BA%E7%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [赵本山新剧首波口碑出炉](https://www.baidu.com/s?wd=%E8%B5%B5%E6%9C%AC%E5%B1%B1%E6%96%B0%E5%89%A7%E9%A6%96%E6%B3%A2%E5%8F%A3%E7%A2%91%E5%87%BA%E7%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [揭黑医生称医疗反腐让普通医生获益](https://www.baidu.com/s?wd=%E6%8F%AD%E9%BB%91%E5%8C%BB%E7%94%9F%E7%A7%B0%E5%8C%BB%E7%96%97%E5%8F%8D%E8%85%90%E8%AE%A9%E6%99%AE%E9%80%9A%E5%8C%BB%E7%94%9F%E8%8E%B7%E7%9B%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [美日韩领导人会面 拜登露出神秘微笑](https://www.baidu.com/s?wd=%E7%BE%8E%E6%97%A5%E9%9F%A9%E9%A2%86%E5%AF%BC%E4%BA%BA%E4%BC%9A%E9%9D%A2+%E6%8B%9C%E7%99%BB%E9%9C%B2%E5%87%BA%E7%A5%9E%E7%A7%98%E5%BE%AE%E7%AC%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [志高空调创始人被公安机关控制](https://www.baidu.com/s?wd=%E5%BF%97%E9%AB%98%E7%A9%BA%E8%B0%83%E5%88%9B%E5%A7%8B%E4%BA%BA%E8%A2%AB%E5%85%AC%E5%AE%89%E6%9C%BA%E5%85%B3%E6%8E%A7%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
