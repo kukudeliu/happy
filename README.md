@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-19 16:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-19 16:14:01</h4></div>
 
 > 微博  
 
@@ -23,9 +23,9 @@
 4. [奋战在守护生命健康的第一线](https://www.baidu.com/s?wd=%E5%A5%8B%E6%88%98%E5%9C%A8%E5%AE%88%E6%8A%A4%E7%94%9F%E5%91%BD%E5%81%A5%E5%BA%B7%E7%9A%84%E7%AC%AC%E4%B8%80%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [四川内江发生4.2级地震](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%86%85%E6%B1%9F%E5%8F%91%E7%94%9F4.2%E7%BA%A7%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子为女友送行买票不登机被捕](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%BA%E5%A5%B3%E5%8F%8B%E9%80%81%E8%A1%8C%E4%B9%B0%E7%A5%A8%E4%B8%8D%E7%99%BB%E6%9C%BA%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [浙江一学校的军训是集体摸鱼](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E5%AD%A6%E6%A0%A1%E7%9A%84%E5%86%9B%E8%AE%AD%E6%98%AF%E9%9B%86%E4%BD%93%E6%91%B8%E9%B1%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [媒体：拜登称不针对中国但字字抹黑](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E6%8B%9C%E7%99%BB%E7%A7%B0%E4%B8%8D%E9%92%88%E5%AF%B9%E4%B8%AD%E5%9B%BD%E4%BD%86%E5%AD%97%E5%AD%97%E6%8A%B9%E9%BB%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [BaiduWorld2023定档](https://www.baidu.com/s?wd=BaiduWorld2023%E5%AE%9A%E6%A1%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [70岁曾志伟被曝住院开刀 女儿发声](https://www.baidu.com/s?wd=70%E5%B2%81%E6%9B%BE%E5%BF%97%E4%BC%9F%E8%A2%AB%E6%9B%9D%E4%BD%8F%E9%99%A2%E5%BC%80%E5%88%80+%E5%A5%B3%E5%84%BF%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [浙江一学校的军训是集体摸鱼](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E5%AD%A6%E6%A0%A1%E7%9A%84%E5%86%9B%E8%AE%AD%E6%98%AF%E9%9B%86%E4%BD%93%E6%91%B8%E9%B1%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -35,6 +35,6 @@
 4. [奋战在守护生命健康的第一线](https://www.baidu.com/s?wd=%E5%A5%8B%E6%88%98%E5%9C%A8%E5%AE%88%E6%8A%A4%E7%94%9F%E5%91%BD%E5%81%A5%E5%BA%B7%E7%9A%84%E7%AC%AC%E4%B8%80%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [四川内江发生4.2级地震](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%86%85%E6%B1%9F%E5%8F%91%E7%94%9F4.2%E7%BA%A7%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子为女友送行买票不登机被捕](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%BA%E5%A5%B3%E5%8F%8B%E9%80%81%E8%A1%8C%E4%B9%B0%E7%A5%A8%E4%B8%8D%E7%99%BB%E6%9C%BA%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [浙江一学校的军训是集体摸鱼](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E5%AD%A6%E6%A0%A1%E7%9A%84%E5%86%9B%E8%AE%AD%E6%98%AF%E9%9B%86%E4%BD%93%E6%91%B8%E9%B1%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [媒体：拜登称不针对中国但字字抹黑](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E6%8B%9C%E7%99%BB%E7%A7%B0%E4%B8%8D%E9%92%88%E5%AF%B9%E4%B8%AD%E5%9B%BD%E4%BD%86%E5%AD%97%E5%AD%97%E6%8A%B9%E9%BB%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [BaiduWorld2023定档](https://www.baidu.com/s?wd=BaiduWorld2023%E5%AE%9A%E6%A1%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [70岁曾志伟被曝住院开刀 女儿发声](https://www.baidu.com/s?wd=70%E5%B2%81%E6%9B%BE%E5%BF%97%E4%BC%9F%E8%A2%AB%E6%9B%9D%E4%BD%8F%E9%99%A2%E5%BC%80%E5%88%80+%E5%A5%B3%E5%84%BF%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [浙江一学校的军训是集体摸鱼](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E5%AD%A6%E6%A0%A1%E7%9A%84%E5%86%9B%E8%AE%AD%E6%98%AF%E9%9B%86%E4%BD%93%E6%91%B8%E9%B1%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
