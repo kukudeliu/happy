@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-20 07:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-20 07:40:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [魏大勋泼李雪琴一杯水后在角落里自罚一杯](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E6%B3%BC%E6%9D%8E%E9%9B%AA%E7%90%B4%E4%B8%80%E6%9D%AF%E6%B0%B4%E5%90%8E%E5%9C%A8%E8%A7%92%E8%90%BD%E9%87%8C%E8%87%AA%E7%BD%9A%E4%B8%80%E6%9D%AF%23&t=31&band_rank=6&Refer=top)<br />
 7. [解救被困缅甸的中科院博士](https://s.weibo.com/weibo?q=%23%E8%A7%A3%E6%95%91%E8%A2%AB%E5%9B%B0%E7%BC%85%E7%94%B8%E7%9A%84%E4%B8%AD%E7%A7%91%E9%99%A2%E5%8D%9A%E5%A3%AB%23&t=31&band_rank=7&Refer=top)<br />
 8. [长相思第二季或将七夕播出](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D%E7%AC%AC%E4%BA%8C%E5%AD%A3%E6%88%96%E5%B0%86%E4%B8%83%E5%A4%95%E6%92%AD%E5%87%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [幂式穿搭真的绝](https://s.weibo.com/weibo?q=%E5%B9%82%E5%BC%8F%E7%A9%BF%E6%90%AD%E7%9C%9F%E7%9A%84%E7%BB%9D&t=31&band_rank=9&Refer=top)<br />
+9. [内娱天选仙侠剧男主](https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E5%A4%A9%E9%80%89%E4%BB%99%E4%BE%A0%E5%89%A7%E7%94%B7%E4%B8%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
