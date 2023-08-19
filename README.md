@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-20 01:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-20 01:44:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [电影消失的她](https://s.weibo.com/weibo?q=%E7%94%B5%E5%BD%B1%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9&t=31&band_rank=5&Refer=top)<br />
 6. [女生大专休学4年复读圆梦北影](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E5%A4%A7%E4%B8%93%E4%BC%91%E5%AD%A64%E5%B9%B4%E5%A4%8D%E8%AF%BB%E5%9C%86%E6%A2%A6%E5%8C%97%E5%BD%B1%23&t=31&band_rank=6&Refer=top)<br />
 7. [解救被困缅甸的中科院博士](https://s.weibo.com/weibo?q=%23%E8%A7%A3%E6%95%91%E8%A2%AB%E5%9B%B0%E7%BC%85%E7%94%B8%E7%9A%84%E4%B8%AD%E7%A7%91%E9%99%A2%E5%8D%9A%E5%A3%AB%23&t=31&band_rank=7&Refer=top)<br />
-8. [B站广告涉嫌用AI洗稿网易游戏](https://s.weibo.com/weibo?q=B%E7%AB%99%E5%B9%BF%E5%91%8A%E6%B6%89%E5%AB%8C%E7%94%A8AI%E6%B4%97%E7%A8%BF%E7%BD%91%E6%98%93%E6%B8%B8%E6%88%8F&t=31&band_rank=8&Refer=top)<br />
-9. [800多赞的朋友圈长什么样](https://s.weibo.com/weibo?q=%23800%E5%A4%9A%E8%B5%9E%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88%E9%95%BF%E4%BB%80%E4%B9%88%E6%A0%B7%23&t=31&band_rank=9&Refer=top)<br />
+8. [800多赞的朋友圈长什么样](https://s.weibo.com/weibo?q=%23800%E5%A4%9A%E8%B5%9E%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88%E9%95%BF%E4%BB%80%E4%B9%88%E6%A0%B7%23&t=31&band_rank=8&Refer=top)<br />
+9. [B站广告涉嫌用AI洗稿网易游戏](https://s.weibo.com/weibo?q=B%E7%AB%99%E5%B9%BF%E5%91%8A%E6%B6%89%E5%AB%8C%E7%94%A8AI%E6%B4%97%E7%A8%BF%E7%BD%91%E6%98%93%E6%B8%B8%E6%88%8F&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
