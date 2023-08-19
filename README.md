@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-19 08:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-19 08:47:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [李玟控诉中国好声音的音频是不是恶意剪辑](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E6%8E%A7%E8%AF%89%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E7%9A%84%E9%9F%B3%E9%A2%91%E6%98%AF%E4%B8%8D%E6%98%AF%E6%81%B6%E6%84%8F%E5%89%AA%E8%BE%91%23&t=31&band_rank=6&Refer=top)<br />
 7. [周琦赵睿互换东家](https://s.weibo.com/weibo?q=%23%E5%91%A8%E7%90%A6%E8%B5%B5%E7%9D%BF%E4%BA%92%E6%8D%A2%E4%B8%9C%E5%AE%B6%23&t=31&band_rank=7&Refer=top)<br />
 8. [睡觉时手机在枕边充电有多危险](https://s.weibo.com/weibo?q=%23%E7%9D%A1%E8%A7%89%E6%97%B6%E6%89%8B%E6%9C%BA%E5%9C%A8%E6%9E%95%E8%BE%B9%E5%85%85%E7%94%B5%E6%9C%89%E5%A4%9A%E5%8D%B1%E9%99%A9%23&t=31&band_rank=8&Refer=top)<br />
-9. [救命啊有人可以帮消防员打119吗](https://s.weibo.com/weibo?q=%23%E6%95%91%E5%91%BD%E5%95%8A%E6%9C%89%E4%BA%BA%E5%8F%AF%E4%BB%A5%E5%B8%AE%E6%B6%88%E9%98%B2%E5%91%98%E6%89%93119%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
+9. [披荆斩棘的哥哥](https://s.weibo.com/weibo?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E7%9A%84%E5%93%A5%E5%93%A5&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
