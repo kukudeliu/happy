@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-19 15:03:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-19 15:04:01</h4></div>
 
 > 微博  
 
@@ -22,10 +22,10 @@
 3. [夏威夷大火废墟中有很多X字样](https://www.baidu.com/s?wd=%E5%A4%8F%E5%A8%81%E5%A4%B7%E5%A4%A7%E7%81%AB%E5%BA%9F%E5%A2%9F%E4%B8%AD%E6%9C%89%E5%BE%88%E5%A4%9AX%E5%AD%97%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [奋战在守护生命健康的第一线](https://www.baidu.com/s?wd=%E5%A5%8B%E6%88%98%E5%9C%A8%E5%AE%88%E6%8A%A4%E7%94%9F%E5%91%BD%E5%81%A5%E5%BA%B7%E7%9A%84%E7%AC%AC%E4%B8%80%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [西安长期坐出租车不给钱女子被刑拘](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E9%95%BF%E6%9C%9F%E5%9D%90%E5%87%BA%E7%A7%9F%E8%BD%A6%E4%B8%8D%E7%BB%99%E9%92%B1%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [70岁曾志伟被曝住院开刀 女儿发声](https://www.baidu.com/s?wd=70%E5%B2%81%E6%9B%BE%E5%BF%97%E4%BC%9F%E8%A2%AB%E6%9B%9D%E4%BD%8F%E9%99%A2%E5%BC%80%E5%88%80+%E5%A5%B3%E5%84%BF%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [赵本山新剧首波口碑出炉](https://www.baidu.com/s?wd=%E8%B5%B5%E6%9C%AC%E5%B1%B1%E6%96%B0%E5%89%A7%E9%A6%96%E6%B3%A2%E5%8F%A3%E7%A2%91%E5%87%BA%E7%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [媒体：拜登称不针对中国但字字抹黑](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E6%8B%9C%E7%99%BB%E7%A7%B0%E4%B8%8D%E9%92%88%E5%AF%B9%E4%B8%AD%E5%9B%BD%E4%BD%86%E5%AD%97%E5%AD%97%E6%8A%B9%E9%BB%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [70岁曾志伟被曝住院开刀 女儿发声](https://www.baidu.com/s?wd=70%E5%B2%81%E6%9B%BE%E5%BF%97%E4%BC%9F%E8%A2%AB%E6%9B%9D%E4%BD%8F%E9%99%A2%E5%BC%80%E5%88%80+%E5%A5%B3%E5%84%BF%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [BaiduWorld2023定档](https://www.baidu.com/s?wd=BaiduWorld2023%E5%AE%9A%E6%A1%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [毕业生回校看望张桂梅被反向关怀](https://www.baidu.com/s?wd=%E6%AF%95%E4%B8%9A%E7%94%9F%E5%9B%9E%E6%A0%A1%E7%9C%8B%E6%9C%9B%E5%BC%A0%E6%A1%82%E6%A2%85%E8%A2%AB%E5%8F%8D%E5%90%91%E5%85%B3%E6%80%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [赵本山新剧首波口碑出炉](https://www.baidu.com/s?wd=%E8%B5%B5%E6%9C%AC%E5%B1%B1%E6%96%B0%E5%89%A7%E9%A6%96%E6%B3%A2%E5%8F%A3%E7%A2%91%E5%87%BA%E7%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -34,7 +34,7 @@
 3. [夏威夷大火废墟中有很多X字样](https://www.baidu.com/s?wd=%E5%A4%8F%E5%A8%81%E5%A4%B7%E5%A4%A7%E7%81%AB%E5%BA%9F%E5%A2%9F%E4%B8%AD%E6%9C%89%E5%BE%88%E5%A4%9AX%E5%AD%97%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [奋战在守护生命健康的第一线](https://www.baidu.com/s?wd=%E5%A5%8B%E6%88%98%E5%9C%A8%E5%AE%88%E6%8A%A4%E7%94%9F%E5%91%BD%E5%81%A5%E5%BA%B7%E7%9A%84%E7%AC%AC%E4%B8%80%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [西安长期坐出租车不给钱女子被刑拘](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E9%95%BF%E6%9C%9F%E5%9D%90%E5%87%BA%E7%A7%9F%E8%BD%A6%E4%B8%8D%E7%BB%99%E9%92%B1%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [70岁曾志伟被曝住院开刀 女儿发声](https://www.baidu.com/s?wd=70%E5%B2%81%E6%9B%BE%E5%BF%97%E4%BC%9F%E8%A2%AB%E6%9B%9D%E4%BD%8F%E9%99%A2%E5%BC%80%E5%88%80+%E5%A5%B3%E5%84%BF%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [赵本山新剧首波口碑出炉](https://www.baidu.com/s?wd=%E8%B5%B5%E6%9C%AC%E5%B1%B1%E6%96%B0%E5%89%A7%E9%A6%96%E6%B3%A2%E5%8F%A3%E7%A2%91%E5%87%BA%E7%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [媒体：拜登称不针对中国但字字抹黑](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E6%8B%9C%E7%99%BB%E7%A7%B0%E4%B8%8D%E9%92%88%E5%AF%B9%E4%B8%AD%E5%9B%BD%E4%BD%86%E5%AD%97%E5%AD%97%E6%8A%B9%E9%BB%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [70岁曾志伟被曝住院开刀 女儿发声](https://www.baidu.com/s?wd=70%E5%B2%81%E6%9B%BE%E5%BF%97%E4%BC%9F%E8%A2%AB%E6%9B%9D%E4%BD%8F%E9%99%A2%E5%BC%80%E5%88%80+%E5%A5%B3%E5%84%BF%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [BaiduWorld2023定档](https://www.baidu.com/s?wd=BaiduWorld2023%E5%AE%9A%E6%A1%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [毕业生回校看望张桂梅被反向关怀](https://www.baidu.com/s?wd=%E6%AF%95%E4%B8%9A%E7%94%9F%E5%9B%9E%E6%A0%A1%E7%9C%8B%E6%9C%9B%E5%BC%A0%E6%A1%82%E6%A2%85%E8%A2%AB%E5%8F%8D%E5%90%91%E5%85%B3%E6%80%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [赵本山新剧首波口碑出炉](https://www.baidu.com/s?wd=%E8%B5%B5%E6%9C%AC%E5%B1%B1%E6%96%B0%E5%89%A7%E9%A6%96%E6%B3%A2%E5%8F%A3%E7%A2%91%E5%87%BA%E7%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
