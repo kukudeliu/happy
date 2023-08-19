@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-19 08:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-19 09:00:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [李玟控诉中国好声音的音频是不是恶意剪辑](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E6%8E%A7%E8%AF%89%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E7%9A%84%E9%9F%B3%E9%A2%91%E6%98%AF%E4%B8%8D%E6%98%AF%E6%81%B6%E6%84%8F%E5%89%AA%E8%BE%91%23&t=31&band_rank=6&Refer=top)<br />
 7. [EDG晋级全球冠军赛六强](https://s.weibo.com/weibo?q=%23EDG%E6%99%8B%E7%BA%A7%E5%85%A8%E7%90%83%E5%86%A0%E5%86%9B%E8%B5%9B%E5%85%AD%E5%BC%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [周琦赵睿互换东家](https://s.weibo.com/weibo?q=%23%E5%91%A8%E7%90%A6%E8%B5%B5%E7%9D%BF%E4%BA%92%E6%8D%A2%E4%B8%9C%E5%AE%B6%23&t=31&band_rank=8&Refer=top)<br />
-9. [披荆斩棘的哥哥](https://s.weibo.com/weibo?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E7%9A%84%E5%93%A5%E5%93%A5&t=31&band_rank=9&Refer=top)<br />
+9. [胡彦斌问胡兵和瞿颖合作心动过吗](https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%BD%A6%E6%96%8C%E9%97%AE%E8%83%A1%E5%85%B5%E5%92%8C%E7%9E%BF%E9%A2%96%E5%90%88%E4%BD%9C%E5%BF%83%E5%8A%A8%E8%BF%87%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
