@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-19 15:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-19 15:53:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [浙江一学校的军训是集体摸鱼](https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E4%B8%80%E5%AD%A6%E6%A0%A1%E7%9A%84%E5%86%9B%E8%AE%AD%E6%98%AF%E9%9B%86%E4%BD%93%E6%91%B8%E9%B1%BC%23&t=31&band_rank=5&Refer=top)<br />
 6. [封神现代版](https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E%E7%8E%B0%E4%BB%A3%E7%89%88%23&t=31&band_rank=6&Refer=top)<br />
 7. [长相思之玱相思](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D%E4%B9%8B%E7%8E%B1%E7%9B%B8%E6%80%9D%23&t=31&band_rank=7&Refer=top)<br />
-8. [麻醉医生说请别叫我麻醉师](https://s.weibo.com/weibo?q=%23%E9%BA%BB%E9%86%89%E5%8C%BB%E7%94%9F%E8%AF%B4%E8%AF%B7%E5%88%AB%E5%8F%AB%E6%88%91%E9%BA%BB%E9%86%89%E5%B8%88%23&t=31&band_rank=8&Refer=top)<br />
-9. [T1对战KT](https://s.weibo.com/weibo?q=%23T1%E5%AF%B9%E6%88%98KT%23&t=31&band_rank=9&Refer=top)<br />
+8. [T1对战KT](https://s.weibo.com/weibo?q=%23T1%E5%AF%B9%E6%88%98KT%23&t=31&band_rank=8&Refer=top)<br />
+9. [麻醉医生说请别叫我麻醉师](https://s.weibo.com/weibo?q=%23%E9%BA%BB%E9%86%89%E5%8C%BB%E7%94%9F%E8%AF%B4%E8%AF%B7%E5%88%AB%E5%8F%AB%E6%88%91%E9%BA%BB%E9%86%89%E5%B8%88%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
