@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-21 00:42:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-21 00:43:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [突发心梗 4个千万不能做和一定要做](https://s.weibo.com/weibo?q=%E7%AA%81%E5%8F%91%E5%BF%83%E6%A2%97%204%E4%B8%AA%E5%8D%83%E4%B8%87%E4%B8%8D%E8%83%BD%E5%81%9A%E5%92%8C%E4%B8%80%E5%AE%9A%E8%A6%81%E5%81%9A&t=31&band_rank=4&Refer=top)<br />
 5. [Angelababy去看林俊杰演唱会了](https://s.weibo.com/weibo?q=%23Angelababy%E5%8E%BB%E7%9C%8B%E6%9E%97%E4%BF%8A%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [姜潮差点替黄子韬徐艺洋官宣](https://s.weibo.com/weibo?q=%23%E5%A7%9C%E6%BD%AE%E5%B7%AE%E7%82%B9%E6%9B%BF%E9%BB%84%E5%AD%90%E9%9F%AC%E5%BE%90%E8%89%BA%E6%B4%8B%E5%AE%98%E5%AE%A3%23&t=31&band_rank=6&Refer=top)<br />
-7. [金晨白举纲私联](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E7%99%BD%E4%B8%BE%E7%BA%B2%E7%A7%81%E8%81%94%23&t=31&band_rank=7&Refer=top)<br />
-8. [医生吃面发现邻座女子长肿瘤提醒就医](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E5%90%83%E9%9D%A2%E5%8F%91%E7%8E%B0%E9%82%BB%E5%BA%A7%E5%A5%B3%E5%AD%90%E9%95%BF%E8%82%BF%E7%98%A4%E6%8F%90%E9%86%92%E5%B0%B1%E5%8C%BB%23&t=31&band_rank=8&Refer=top)<br />
+7. [一个刘海搞定所有脸型bug](https://s.weibo.com/weibo?q=%E4%B8%80%E4%B8%AA%E5%88%98%E6%B5%B7%E6%90%9E%E5%AE%9A%E6%89%80%E6%9C%89%E8%84%B8%E5%9E%8Bbug&t=31&band_rank=7&Refer=top)<br />
+8. [金晨白举纲私联](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E7%99%BD%E4%B8%BE%E7%BA%B2%E7%A7%81%E8%81%94%23&t=31&band_rank=8&Refer=top)<br />
 9. [相柳这次有东方青苍](https://s.weibo.com/weibo?q=%23%E7%9B%B8%E6%9F%B3%E8%BF%99%E6%AC%A1%E6%9C%89%E4%B8%9C%E6%96%B9%E9%9D%92%E8%8B%8D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
