@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-20 15:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-20 15:25:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [王栎鑫被问0713能不一直绑定吗](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A0%8E%E9%91%AB%E8%A2%AB%E9%97%AE0713%E8%83%BD%E4%B8%8D%E4%B8%80%E7%9B%B4%E7%BB%91%E5%AE%9A%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [台湾当归](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E5%BD%93%E5%BD%92%23&t=31&band_rank=7&Refer=top)<br />
 8. [晒太阳时千万别睡过头了](https://s.weibo.com/weibo?q=%23%E6%99%92%E5%A4%AA%E9%98%B3%E6%97%B6%E5%8D%83%E4%B8%87%E5%88%AB%E7%9D%A1%E8%BF%87%E5%A4%B4%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [游客被吸入水上乐园排水口身亡](https://s.weibo.com/weibo?q=%23%E6%B8%B8%E5%AE%A2%E8%A2%AB%E5%90%B8%E5%85%A5%E6%B0%B4%E4%B8%8A%E4%B9%90%E5%9B%AD%E6%8E%92%E6%B0%B4%E5%8F%A3%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
+9. [乌尔善曾说电视剧版封神不是高山是水沟](https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%B0%94%E5%96%84%E6%9B%BE%E8%AF%B4%E7%94%B5%E8%A7%86%E5%89%A7%E7%89%88%E5%B0%81%E7%A5%9E%E4%B8%8D%E6%98%AF%E9%AB%98%E5%B1%B1%E6%98%AF%E6%B0%B4%E6%B2%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
