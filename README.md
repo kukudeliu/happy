@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-20 15:08:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-20 15:09:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [男子出门前闻到糊味回来家烧没了](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%87%BA%E9%97%A8%E5%89%8D%E9%97%BB%E5%88%B0%E7%B3%8A%E5%91%B3%E5%9B%9E%E6%9D%A5%E5%AE%B6%E7%83%A7%E6%B2%A1%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [21岁姑娘暴瘦30斤结果悔惨](https://www.baidu.com/s?wd=21%E5%B2%81%E5%A7%91%E5%A8%98%E6%9A%B4%E7%98%A630%E6%96%A4%E7%BB%93%E6%9E%9C%E6%82%94%E6%83%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [李荣浩演唱会抓包提前走的粉丝](https://www.baidu.com/s?wd=%E6%9D%8E%E8%8D%A3%E6%B5%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E6%8A%93%E5%8C%85%E6%8F%90%E5%89%8D%E8%B5%B0%E7%9A%84%E7%B2%89%E4%B8%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [痞幼追星Angelababy](https://www.baidu.com/s?wd=%E7%97%9E%E5%B9%BC%E8%BF%BD%E6%98%9FAngelababy&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [美媒：好莱坞电影打不过中国电影了](https://www.baidu.com/s?wd=%E7%BE%8E%E5%AA%92%EF%BC%9A%E5%A5%BD%E8%8E%B1%E5%9D%9E%E7%94%B5%E5%BD%B1%E6%89%93%E4%B8%8D%E8%BF%87%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%BD%B1%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [男子出门前闻到糊味回来家烧没了](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%87%BA%E9%97%A8%E5%89%8D%E9%97%BB%E5%88%B0%E7%B3%8A%E5%91%B3%E5%9B%9E%E6%9D%A5%E5%AE%B6%E7%83%A7%E6%B2%A1%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [21岁姑娘暴瘦30斤结果悔惨](https://www.baidu.com/s?wd=21%E5%B2%81%E5%A7%91%E5%A8%98%E6%9A%B4%E7%98%A630%E6%96%A4%E7%BB%93%E6%9E%9C%E6%82%94%E6%83%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [李荣浩演唱会抓包提前走的粉丝](https://www.baidu.com/s?wd=%E6%9D%8E%E8%8D%A3%E6%B5%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E6%8A%93%E5%8C%85%E6%8F%90%E5%89%8D%E8%B5%B0%E7%9A%84%E7%B2%89%E4%B8%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [痞幼追星Angelababy](https://www.baidu.com/s?wd=%E7%97%9E%E5%B9%BC%E8%BF%BD%E6%98%9FAngelababy&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [美媒：好莱坞电影打不过中国电影了](https://www.baidu.com/s?wd=%E7%BE%8E%E5%AA%92%EF%BC%9A%E5%A5%BD%E8%8E%B1%E5%9D%9E%E7%94%B5%E5%BD%B1%E6%89%93%E4%B8%8D%E8%BF%87%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%BD%B1%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
