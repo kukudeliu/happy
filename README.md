@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-20 15:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-20 15:43:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [王栎鑫被问0713能不一直绑定吗](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A0%8E%E9%91%AB%E8%A2%AB%E9%97%AE0713%E8%83%BD%E4%B8%8D%E4%B8%80%E7%9B%B4%E7%BB%91%E5%AE%9A%E5%90%97%23&t=31&band_rank=5&Refer=top)<br />
 6. [台湾当归](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E5%BD%93%E5%BD%92%23&t=31&band_rank=6&Refer=top)<br />
 7. [科学家预测本世纪末地球将重置人口数量](https://s.weibo.com/weibo?q=%23%E7%A7%91%E5%AD%A6%E5%AE%B6%E9%A2%84%E6%B5%8B%E6%9C%AC%E4%B8%96%E7%BA%AA%E6%9C%AB%E5%9C%B0%E7%90%83%E5%B0%86%E9%87%8D%E7%BD%AE%E4%BA%BA%E5%8F%A3%E6%95%B0%E9%87%8F%23&t=31&band_rank=7&Refer=top)<br />
-8. [秀才宿舍](https://s.weibo.com/weibo?q=%23%E7%A7%80%E6%89%8D%E5%AE%BF%E8%88%8D%23&t=31&band_rank=8&Refer=top)<br />
-9. [乌尔善曾说电视剧版封神不是高山是水沟](https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%B0%94%E5%96%84%E6%9B%BE%E8%AF%B4%E7%94%B5%E8%A7%86%E5%89%A7%E7%89%88%E5%B0%81%E7%A5%9E%E4%B8%8D%E6%98%AF%E9%AB%98%E5%B1%B1%E6%98%AF%E6%B0%B4%E6%B2%9F%23&t=31&band_rank=9&Refer=top)<br />
+8. [乌尔善曾说电视剧版封神不是高山是水沟](https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%B0%94%E5%96%84%E6%9B%BE%E8%AF%B4%E7%94%B5%E8%A7%86%E5%89%A7%E7%89%88%E5%B0%81%E7%A5%9E%E4%B8%8D%E6%98%AF%E9%AB%98%E5%B1%B1%E6%98%AF%E6%B0%B4%E6%B2%9F%23&t=31&band_rank=8&Refer=top)<br />
+9. [秀才宿舍](https://s.weibo.com/weibo?q=%23%E7%A7%80%E6%89%8D%E5%AE%BF%E8%88%8D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
