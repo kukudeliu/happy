@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-20 16:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-20 16:36:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [乌尔善曾说电视剧版封神不是高山是水沟](https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%B0%94%E5%96%84%E6%9B%BE%E8%AF%B4%E7%94%B5%E8%A7%86%E5%89%A7%E7%89%88%E5%B0%81%E7%A5%9E%E4%B8%8D%E6%98%AF%E9%AB%98%E5%B1%B1%E6%98%AF%E6%B0%B4%E6%B2%9F%23&t=31&band_rank=5&Refer=top)<br />
 6. [台湾当归](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E5%BD%93%E5%BD%92%23&t=31&band_rank=6&Refer=top)<br />
 7. [秀才宿舍](https://s.weibo.com/weibo?q=%23%E7%A7%80%E6%89%8D%E5%AE%BF%E8%88%8D%23&t=31&band_rank=7&Refer=top)<br />
-8. [王栎鑫被问0713能不一直绑定吗](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A0%8E%E9%91%AB%E8%A2%AB%E9%97%AE0713%E8%83%BD%E4%B8%8D%E4%B8%80%E7%9B%B4%E7%BB%91%E5%AE%9A%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
+8. [郝蕾 永远靠自己](https://s.weibo.com/weibo?q=%E9%83%9D%E8%95%BE%20%E6%B0%B8%E8%BF%9C%E9%9D%A0%E8%87%AA%E5%B7%B1&t=31&band_rank=8&Refer=top)<br />
 9. [张伟丽](https://s.weibo.com/weibo?q=%E5%BC%A0%E4%BC%9F%E4%B8%BD&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
