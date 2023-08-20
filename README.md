@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-21 01:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-21 01:25:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [梅西少领一个奖杯提前下台被叫回](https://www.baidu.com/s?wd=%E6%A2%85%E8%A5%BF%E5%B0%91%E9%A2%86%E4%B8%80%E4%B8%AA%E5%A5%96%E6%9D%AF%E6%8F%90%E5%89%8D%E4%B8%8B%E5%8F%B0%E8%A2%AB%E5%8F%AB%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [新中国英语教学拓荒人伊莎白逝世](https://www.baidu.com/s?wd=%E6%96%B0%E4%B8%AD%E5%9B%BD%E8%8B%B1%E8%AF%AD%E6%95%99%E5%AD%A6%E6%8B%93%E8%8D%92%E4%BA%BA%E4%BC%8A%E8%8E%8E%E7%99%BD%E9%80%9D%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [当代年轻人把离职办成了婚礼](https://www.baidu.com/s?wd=%E5%BD%93%E4%BB%A3%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%8A%8A%E7%A6%BB%E8%81%8C%E5%8A%9E%E6%88%90%E4%BA%86%E5%A9%9A%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [教授称大学生送外卖是因专业不实用](https://www.baidu.com/s?wd=%E6%95%99%E6%8E%88%E7%A7%B0%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%80%81%E5%A4%96%E5%8D%96%E6%98%AF%E5%9B%A0%E4%B8%93%E4%B8%9A%E4%B8%8D%E5%AE%9E%E7%94%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [小车被运粪车追尾灌一车粪便](https://www.baidu.com/s?wd=%E5%B0%8F%E8%BD%A6%E8%A2%AB%E8%BF%90%E7%B2%AA%E8%BD%A6%E8%BF%BD%E5%B0%BE%E7%81%8C%E4%B8%80%E8%BD%A6%E7%B2%AA%E4%BE%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [梅西少领一个奖杯提前下台被叫回](https://www.baidu.com/s?wd=%E6%A2%85%E8%A5%BF%E5%B0%91%E9%A2%86%E4%B8%80%E4%B8%AA%E5%A5%96%E6%9D%AF%E6%8F%90%E5%89%8D%E4%B8%8B%E5%8F%B0%E8%A2%AB%E5%8F%AB%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [新中国英语教学拓荒人伊莎白逝世](https://www.baidu.com/s?wd=%E6%96%B0%E4%B8%AD%E5%9B%BD%E8%8B%B1%E8%AF%AD%E6%95%99%E5%AD%A6%E6%8B%93%E8%8D%92%E4%BA%BA%E4%BC%8A%E8%8E%8E%E7%99%BD%E9%80%9D%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [当代年轻人把离职办成了婚礼](https://www.baidu.com/s?wd=%E5%BD%93%E4%BB%A3%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%8A%8A%E7%A6%BB%E8%81%8C%E5%8A%9E%E6%88%90%E4%BA%86%E5%A9%9A%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [教授称大学生送外卖是因专业不实用](https://www.baidu.com/s?wd=%E6%95%99%E6%8E%88%E7%A7%B0%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%80%81%E5%A4%96%E5%8D%96%E6%98%AF%E5%9B%A0%E4%B8%93%E4%B8%9A%E4%B8%8D%E5%AE%9E%E7%94%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [小车被运粪车追尾灌一车粪便](https://www.baidu.com/s?wd=%E5%B0%8F%E8%BD%A6%E8%A2%AB%E8%BF%90%E7%B2%AA%E8%BD%A6%E8%BF%BD%E5%B0%BE%E7%81%8C%E4%B8%80%E8%BD%A6%E7%B2%AA%E4%BE%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
