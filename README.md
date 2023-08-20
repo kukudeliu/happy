@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-20 12:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-20 12:22:02</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [东部战区位台岛周边海空联合演训](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E4%BD%8D%E5%8F%B0%E5%B2%9B%E5%91%A8%E8%BE%B9%E6%B5%B7%E7%A9%BA%E8%81%94%E5%90%88%E6%BC%94%E8%AE%AD%23&t=31&band_rank=3&Refer=top)<br />
 4. [杨紫双手戴满了镯子](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%8F%8C%E6%89%8B%E6%88%B4%E6%BB%A1%E4%BA%86%E9%95%AF%E5%AD%90%23&t=31&band_rank=4&Refer=top)<br />
 5. [真正的沙县小吃从未走出沙县](https://s.weibo.com/weibo?q=%E7%9C%9F%E6%AD%A3%E7%9A%84%E6%B2%99%E5%8E%BF%E5%B0%8F%E5%90%83%E4%BB%8E%E6%9C%AA%E8%B5%B0%E5%87%BA%E6%B2%99%E5%8E%BF&t=31&band_rank=5&Refer=top)<br />
-6. [周冬雨变好看了](https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%86%AC%E9%9B%A8%E5%8F%98%E5%A5%BD%E7%9C%8B%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [Cheems去世](https://s.weibo.com/weibo?q=%23Cheems%E5%8E%BB%E4%B8%96%23&t=31&band_rank=7&Refer=top)<br />
+6. [Cheems去世](https://s.weibo.com/weibo?q=%23Cheems%E5%8E%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
+7. [周冬雨变好看了](https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%86%AC%E9%9B%A8%E5%8F%98%E5%A5%BD%E7%9C%8B%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [我的人间烟火剧组hi6收视率](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E4%BA%BA%E9%97%B4%E7%83%9F%E7%81%AB%E5%89%A7%E7%BB%84hi6%E6%94%B6%E8%A7%86%E7%8E%87%23&t=31&band_rank=8&Refer=top)<br />
 9. [为什么睡够8小时还是很困](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E7%9D%A1%E5%A4%9F8%E5%B0%8F%E6%97%B6%E8%BF%98%E6%98%AF%E5%BE%88%E5%9B%B0%23&t=31&band_rank=9&Refer=top)<br />
 
