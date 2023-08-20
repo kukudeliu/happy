@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-21 00:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-21 00:07:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [Angelababy去看林俊杰演唱会了](https://s.weibo.com/weibo?q=%23Angelababy%E5%8E%BB%E7%9C%8B%E6%9E%97%E4%BF%8A%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [吃过最难吃的水果是什么](https://s.weibo.com/weibo?q=%23%E5%90%83%E8%BF%87%E6%9C%80%E9%9A%BE%E5%90%83%E7%9A%84%E6%B0%B4%E6%9E%9C%E6%98%AF%E4%BB%80%E4%B9%88%23&t=31&band_rank=7&Refer=top)<br />
 8. [医生吃面发现邻座女子长肿瘤提醒就医](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E5%90%83%E9%9D%A2%E5%8F%91%E7%8E%B0%E9%82%BB%E5%BA%A7%E5%A5%B3%E5%AD%90%E9%95%BF%E8%82%BF%E7%98%A4%E6%8F%90%E9%86%92%E5%B0%B1%E5%8C%BB%23&t=31&band_rank=8&Refer=top)<br />
-9. [2 #大一新生如何用录取通知书买火车票](https://s.weibo.com/weibo?q=2%20%23%E5%A4%A7%E4%B8%80%E6%96%B0%E7%94%9F%E5%A6%82%E4%BD%95%E7%94%A8%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E4%B9%B0%E7%81%AB%E8%BD%A6%E7%A5%A8&t=31&band_rank=9&Refer=top)<br />
+9. [接到96110来电千万不要挂](https://s.weibo.com/weibo?q=%23%E6%8E%A5%E5%88%B096110%E6%9D%A5%E7%94%B5%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E6%8C%82%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
