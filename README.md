@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-20 21:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-20 22:00:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [浙江广电称李玟值得铭记](https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E5%B9%BF%E7%94%B5%E7%A7%B0%E6%9D%8E%E7%8E%9F%E5%80%BC%E5%BE%97%E9%93%AD%E8%AE%B0%23&t=31&band_rank=2&Refer=top)<br />
 3. [子弟兵连续奋战抢修受损堤坝](https://s.weibo.com/weibo?q=%23%E5%AD%90%E5%BC%9F%E5%85%B5%E8%BF%9E%E7%BB%AD%E5%A5%8B%E6%88%98%E6%8A%A2%E4%BF%AE%E5%8F%97%E6%8D%9F%E5%A0%A4%E5%9D%9D%23&t=31&band_rank=3&Refer=top)<br />
 4. [正式确诊为雷小米](https://s.weibo.com/weibo?q=%23%E6%AD%A3%E5%BC%8F%E7%A1%AE%E8%AF%8A%E4%B8%BA%E9%9B%B7%E5%B0%8F%E7%B1%B3%23&t=31&band_rank=4&Refer=top)<br />
-5. [替全世界感到尴尬](https://s.weibo.com/weibo?q=%23%E6%9B%BF%E5%85%A8%E4%B8%96%E7%95%8C%E6%84%9F%E5%88%B0%E5%B0%B4%E5%B0%AC%23&t=31&band_rank=5&Refer=top)<br />
-6. [胡明轩](https://s.weibo.com/weibo?q=%E8%83%A1%E6%98%8E%E8%BD%A9&t=31&band_rank=6&Refer=top)<br />
+5. [胡明轩](https://s.weibo.com/weibo?q=%E8%83%A1%E6%98%8E%E8%BD%A9&t=31&band_rank=5&Refer=top)<br />
+6. [替全世界感到尴尬](https://s.weibo.com/weibo?q=%23%E6%9B%BF%E5%85%A8%E4%B8%96%E7%95%8C%E6%84%9F%E5%88%B0%E5%B0%B4%E5%B0%AC%23&t=31&band_rank=6&Refer=top)<br />
 7. [去外省上大学的新生开始慌了](https://s.weibo.com/weibo?q=%23%E5%8E%BB%E5%A4%96%E7%9C%81%E4%B8%8A%E5%A4%A7%E5%AD%A6%E7%9A%84%E6%96%B0%E7%94%9F%E5%BC%80%E5%A7%8B%E6%85%8C%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [歪歪 内蒙人血脉觉醒](https://s.weibo.com/weibo?q=%E6%AD%AA%E6%AD%AA%20%E5%86%85%E8%92%99%E4%BA%BA%E8%A1%80%E8%84%89%E8%A7%89%E9%86%92&t=31&band_rank=8&Refer=top)<br />
 9. [医生吃面发现邻座女子长肿瘤提醒就医](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E5%90%83%E9%9D%A2%E5%8F%91%E7%8E%B0%E9%82%BB%E5%BA%A7%E5%A5%B3%E5%AD%90%E9%95%BF%E8%82%BF%E7%98%A4%E6%8F%90%E9%86%92%E5%B0%B1%E5%8C%BB%23&t=31&band_rank=9&Refer=top)<br />
