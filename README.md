@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-20 23:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-20 23:53:02</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [姜潮差点替黄子韬徐艺洋官宣](https://s.weibo.com/weibo?q=%23%E5%A7%9C%E6%BD%AE%E5%B7%AE%E7%82%B9%E6%9B%BF%E9%BB%84%E5%AD%90%E9%9F%AC%E5%BE%90%E8%89%BA%E6%B4%8B%E5%AE%98%E5%AE%A3%23&t=31&band_rank=5&Refer=top)<br />
 6. [金晨白举纲私联](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E7%99%BD%E4%B8%BE%E7%BA%B2%E7%A7%81%E8%81%94%23&t=31&band_rank=6&Refer=top)<br />
 7. [吃过最难吃的水果是什么](https://s.weibo.com/weibo?q=%23%E5%90%83%E8%BF%87%E6%9C%80%E9%9A%BE%E5%90%83%E7%9A%84%E6%B0%B4%E6%9E%9C%E6%98%AF%E4%BB%80%E4%B9%88%23&t=31&band_rank=7&Refer=top)<br />
-8. [正式确诊为雷小米](https://s.weibo.com/weibo?q=%23%E6%AD%A3%E5%BC%8F%E7%A1%AE%E8%AF%8A%E4%B8%BA%E9%9B%B7%E5%B0%8F%E7%B1%B3%23&t=31&band_rank=8&Refer=top)<br />
+8. [Angelababy去看林俊杰演唱会了](https://s.weibo.com/weibo?q=%23Angelababy%E5%8E%BB%E7%9C%8B%E6%9E%97%E4%BF%8A%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [医生吃面发现邻座女子长肿瘤提醒就医](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E5%90%83%E9%9D%A2%E5%8F%91%E7%8E%B0%E9%82%BB%E5%BA%A7%E5%A5%B3%E5%AD%90%E9%95%BF%E8%82%BF%E7%98%A4%E6%8F%90%E9%86%92%E5%B0%B1%E5%8C%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
