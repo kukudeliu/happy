@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-20 11:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-20 11:14:02</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [周华健疑似退出《中国好声音》](https://www.baidu.com/s?wd=%E5%91%A8%E5%8D%8E%E5%81%A5%E7%96%91%E4%BC%BC%E9%80%80%E5%87%BA%E3%80%8A%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E3%80%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [21岁姑娘暴瘦30斤结果悔惨](https://www.baidu.com/s?wd=21%E5%B2%81%E5%A7%91%E5%A8%98%E6%9A%B4%E7%98%A630%E6%96%A4%E7%BB%93%E6%9E%9C%E6%82%94%E6%83%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [美媒：好莱坞电影打不过中国电影了](https://www.baidu.com/s?wd=%E7%BE%8E%E5%AA%92%EF%BC%9A%E5%A5%BD%E8%8E%B1%E5%9D%9E%E7%94%B5%E5%BD%B1%E6%89%93%E4%B8%8D%E8%BF%87%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%BD%B1%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [一岁多孩子高铁哭闹遭女子要求闭嘴](https://www.baidu.com/s?wd=%E4%B8%80%E5%B2%81%E5%A4%9A%E5%AD%A9%E5%AD%90%E9%AB%98%E9%93%81%E5%93%AD%E9%97%B9%E9%81%AD%E5%A5%B3%E5%AD%90%E8%A6%81%E6%B1%82%E9%97%AD%E5%98%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [马斯克要砍掉X“屏蔽”功能](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E8%A6%81%E7%A0%8D%E6%8E%89X%E2%80%9C%E5%B1%8F%E8%94%BD%E2%80%9D%E5%8A%9F%E8%83%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [周华健疑似退出《中国好声音》](https://www.baidu.com/s?wd=%E5%91%A8%E5%8D%8E%E5%81%A5%E7%96%91%E4%BC%BC%E9%80%80%E5%87%BA%E3%80%8A%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E3%80%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [21岁姑娘暴瘦30斤结果悔惨](https://www.baidu.com/s?wd=21%E5%B2%81%E5%A7%91%E5%A8%98%E6%9A%B4%E7%98%A630%E6%96%A4%E7%BB%93%E6%9E%9C%E6%82%94%E6%83%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [美媒：好莱坞电影打不过中国电影了](https://www.baidu.com/s?wd=%E7%BE%8E%E5%AA%92%EF%BC%9A%E5%A5%BD%E8%8E%B1%E5%9D%9E%E7%94%B5%E5%BD%B1%E6%89%93%E4%B8%8D%E8%BF%87%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%BD%B1%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [一岁多孩子高铁哭闹遭女子要求闭嘴](https://www.baidu.com/s?wd=%E4%B8%80%E5%B2%81%E5%A4%9A%E5%AD%A9%E5%AD%90%E9%AB%98%E9%93%81%E5%93%AD%E9%97%B9%E9%81%AD%E5%A5%B3%E5%AD%90%E8%A6%81%E6%B1%82%E9%97%AD%E5%98%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [马斯克要砍掉X“屏蔽”功能](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E8%A6%81%E7%A0%8D%E6%8E%89X%E2%80%9C%E5%B1%8F%E8%94%BD%E2%80%9D%E5%8A%9F%E8%83%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
