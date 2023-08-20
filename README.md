@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-20 17:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-20 17:25:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [刘昊然被喊老公周冬雨的反应](https://s.weibo.com/weibo?q=%23%E5%88%98%E6%98%8A%E7%84%B6%E8%A2%AB%E5%96%8A%E8%80%81%E5%85%AC%E5%91%A8%E5%86%AC%E9%9B%A8%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=4&Refer=top)<br />
 5. [女子遭陌生男搭话称长了肿瘤一查真有](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%81%AD%E9%99%8C%E7%94%9F%E7%94%B7%E6%90%AD%E8%AF%9D%E7%A7%B0%E9%95%BF%E4%BA%86%E8%82%BF%E7%98%A4%E4%B8%80%E6%9F%A5%E7%9C%9F%E6%9C%89%23&t=31&band_rank=5&Refer=top)<br />
 6. [郝蕾 永远靠自己](https://s.weibo.com/weibo?q=%E9%83%9D%E8%95%BE%20%E6%B0%B8%E8%BF%9C%E9%9D%A0%E8%87%AA%E5%B7%B1&t=31&band_rank=6&Refer=top)<br />
-7. [游客被吸入水上乐园排水口身亡](https://s.weibo.com/weibo?q=%23%E6%B8%B8%E5%AE%A2%E8%A2%AB%E5%90%B8%E5%85%A5%E6%B0%B4%E4%B8%8A%E4%B9%90%E5%9B%AD%E6%8E%92%E6%B0%B4%E5%8F%A3%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=7&Refer=top)<br />
-8. [GEN战胜T1](https://s.weibo.com/weibo?q=%23GEN%E6%88%98%E8%83%9CT1%23&t=31&band_rank=8&Refer=top)<br />
+7. [GEN战胜T1](https://s.weibo.com/weibo?q=%23GEN%E6%88%98%E8%83%9CT1%23&t=31&band_rank=7&Refer=top)<br />
+8. [游客被吸入水上乐园排水口身亡](https://s.weibo.com/weibo?q=%23%E6%B8%B8%E5%AE%A2%E8%A2%AB%E5%90%B8%E5%85%A5%E6%B0%B4%E4%B8%8A%E4%B9%90%E5%9B%AD%E6%8E%92%E6%B0%B4%E5%8F%A3%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
 9. [黑神话悟空](https://s.weibo.com/weibo?q=%E9%BB%91%E7%A5%9E%E8%AF%9D%E6%82%9F%E7%A9%BA&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
