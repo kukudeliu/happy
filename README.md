@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-20 22:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-20 22:27:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [正式确诊为雷小米](https://s.weibo.com/weibo?q=%23%E6%AD%A3%E5%BC%8F%E7%A1%AE%E8%AF%8A%E4%B8%BA%E9%9B%B7%E5%B0%8F%E7%B1%B3%23&t=31&band_rank=4&Refer=top)<br />
 5. [替全世界感到尴尬](https://s.weibo.com/weibo?q=%23%E6%9B%BF%E5%85%A8%E4%B8%96%E7%95%8C%E6%84%9F%E5%88%B0%E5%B0%B4%E5%B0%AC%23&t=31&band_rank=5&Refer=top)<br />
 6. [姜潮差点替黄子韬徐艺洋官宣](https://s.weibo.com/weibo?q=%23%E5%A7%9C%E6%BD%AE%E5%B7%AE%E7%82%B9%E6%9B%BF%E9%BB%84%E5%AD%90%E9%9F%AC%E5%BE%90%E8%89%BA%E6%B4%8B%E5%AE%98%E5%AE%A3%23&t=31&band_rank=6&Refer=top)<br />
-7. [去外省上大学的新生开始慌了](https://s.weibo.com/weibo?q=%23%E5%8E%BB%E5%A4%96%E7%9C%81%E4%B8%8A%E5%A4%A7%E5%AD%A6%E7%9A%84%E6%96%B0%E7%94%9F%E5%BC%80%E5%A7%8B%E6%85%8C%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [胡明轩](https://s.weibo.com/weibo?q=%E8%83%A1%E6%98%8E%E8%BD%A9&t=31&band_rank=8&Refer=top)<br />
+7. [胡明轩](https://s.weibo.com/weibo?q=%E8%83%A1%E6%98%8E%E8%BD%A9&t=31&band_rank=7&Refer=top)<br />
+8. [去外省上大学的新生开始慌了](https://s.weibo.com/weibo?q=%23%E5%8E%BB%E5%A4%96%E7%9C%81%E4%B8%8A%E5%A4%A7%E5%AD%A6%E7%9A%84%E6%96%B0%E7%94%9F%E5%BC%80%E5%A7%8B%E6%85%8C%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [医生吃面发现邻座女子长肿瘤提醒就医](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E5%90%83%E9%9D%A2%E5%8F%91%E7%8E%B0%E9%82%BB%E5%BA%A7%E5%A5%B3%E5%AD%90%E9%95%BF%E8%82%BF%E7%98%A4%E6%8F%90%E9%86%92%E5%B0%B1%E5%8C%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
