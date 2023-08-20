@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-20 19:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-20 19:37:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [勋丞则麟](https://s.weibo.com/weibo?q=%23%E5%8B%8B%E4%B8%9E%E5%88%99%E9%BA%9F%23&t=31&band_rank=6&Refer=top)<br />
 7. [爸爸低估了儿子的豪爽度](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E4%BD%8E%E4%BC%B0%E4%BA%86%E5%84%BF%E5%AD%90%E7%9A%84%E8%B1%AA%E7%88%BD%E5%BA%A6%23&t=31&band_rank=7&Refer=top)<br />
 8. [腐竹牛腩煲](https://s.weibo.com/weibo?q=%E8%85%90%E7%AB%B9%E7%89%9B%E8%85%A9%E7%85%B2&t=31&band_rank=8&Refer=top)<br />
-9. [业内评价莲花楼8分剧很不容易](https://s.weibo.com/weibo?q=%23%E4%B8%9A%E5%86%85%E8%AF%84%E4%BB%B7%E8%8E%B2%E8%8A%B1%E6%A5%BC8%E5%88%86%E5%89%A7%E5%BE%88%E4%B8%8D%E5%AE%B9%E6%98%93%23&t=31&band_rank=9&Refer=top)<br />
+9. [首档说唱真人秀要来了](https://s.weibo.com/weibo?q=%23%E9%A6%96%E6%A1%A3%E8%AF%B4%E5%94%B1%E7%9C%9F%E4%BA%BA%E7%A7%80%E8%A6%81%E6%9D%A5%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
