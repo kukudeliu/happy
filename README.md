@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-21 06:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-21 06:07:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [接到96110来电千万不要挂](https://s.weibo.com/weibo?q=%23%E6%8E%A5%E5%88%B096110%E6%9D%A5%E7%94%B5%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E6%8C%82%23&t=31&band_rank=3&Refer=top)<br />
 4. [当我姐发现自己曾拒绝过华为](https://s.weibo.com/weibo?q=%23%E5%BD%93%E6%88%91%E5%A7%90%E5%8F%91%E7%8E%B0%E8%87%AA%E5%B7%B1%E6%9B%BE%E6%8B%92%E7%BB%9D%E8%BF%87%E5%8D%8E%E4%B8%BA%23&t=31&band_rank=4&Refer=top)<br />
 5. [缅北诈骗人员自曝专盯单身公务员](https://s.weibo.com/weibo?q=%23%E7%BC%85%E5%8C%97%E8%AF%88%E9%AA%97%E4%BA%BA%E5%91%98%E8%87%AA%E6%9B%9D%E4%B8%93%E7%9B%AF%E5%8D%95%E8%BA%AB%E5%85%AC%E5%8A%A1%E5%91%98%23&t=31&band_rank=5&Refer=top)<br />
-6. [医生吃面发现邻座女子长肿瘤提醒就医](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E5%90%83%E9%9D%A2%E5%8F%91%E7%8E%B0%E9%82%BB%E5%BA%A7%E5%A5%B3%E5%AD%90%E9%95%BF%E8%82%BF%E7%98%A4%E6%8F%90%E9%86%92%E5%B0%B1%E5%8C%BB%23&t=31&band_rank=6&Refer=top)<br />
-7. [一个刘海搞定所有脸型bug](https://s.weibo.com/weibo?q=%E4%B8%80%E4%B8%AA%E5%88%98%E6%B5%B7%E6%90%9E%E5%AE%9A%E6%89%80%E6%9C%89%E8%84%B8%E5%9E%8Bbug&t=31&band_rank=7&Refer=top)<br />
-8. [替全世界感到尴尬](https://s.weibo.com/weibo?q=%23%E6%9B%BF%E5%85%A8%E4%B8%96%E7%95%8C%E6%84%9F%E5%88%B0%E5%B0%B4%E5%B0%AC%23&t=31&band_rank=8&Refer=top)<br />
-9. [姜潮差点替黄子韬徐艺洋官宣](https://s.weibo.com/weibo?q=%23%E5%A7%9C%E6%BD%AE%E5%B7%AE%E7%82%B9%E6%9B%BF%E9%BB%84%E5%AD%90%E9%9F%AC%E5%BE%90%E8%89%BA%E6%B4%8B%E5%AE%98%E5%AE%A3%23&t=31&band_rank=9&Refer=top)<br />
+6. [一个刘海搞定所有脸型bug](https://s.weibo.com/weibo?q=%E4%B8%80%E4%B8%AA%E5%88%98%E6%B5%B7%E6%90%9E%E5%AE%9A%E6%89%80%E6%9C%89%E8%84%B8%E5%9E%8Bbug&t=31&band_rank=6&Refer=top)<br />
+7. [医生吃面发现邻座女子长肿瘤提醒就医](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E5%90%83%E9%9D%A2%E5%8F%91%E7%8E%B0%E9%82%BB%E5%BA%A7%E5%A5%B3%E5%AD%90%E9%95%BF%E8%82%BF%E7%98%A4%E6%8F%90%E9%86%92%E5%B0%B1%E5%8C%BB%23&t=31&band_rank=7&Refer=top)<br />
+8. [姜潮差点替黄子韬徐艺洋官宣](https://s.weibo.com/weibo?q=%23%E5%A7%9C%E6%BD%AE%E5%B7%AE%E7%82%B9%E6%9B%BF%E9%BB%84%E5%AD%90%E9%9F%AC%E5%BE%90%E8%89%BA%E6%B4%8B%E5%AE%98%E5%AE%A3%23&t=31&band_rank=8&Refer=top)<br />
+9. [替全世界感到尴尬](https://s.weibo.com/weibo?q=%23%E6%9B%BF%E5%85%A8%E4%B8%96%E7%95%8C%E6%84%9F%E5%88%B0%E5%B0%B4%E5%B0%AC%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
