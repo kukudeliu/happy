@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-20 16:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-20 16:20:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [刘昊然被喊老公周冬雨的反应](https://s.weibo.com/weibo?q=%23%E5%88%98%E6%98%8A%E7%84%B6%E8%A2%AB%E5%96%8A%E8%80%81%E5%85%AC%E5%91%A8%E5%86%AC%E9%9B%A8%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=4&Refer=top)<br />
 5. [张伟丽](https://s.weibo.com/weibo?q=%E5%BC%A0%E4%BC%9F%E4%B8%BD&t=31&band_rank=5&Refer=top)<br />
 6. [台湾当归](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E5%BD%93%E5%BD%92%23&t=31&band_rank=6&Refer=top)<br />
-7. [久坐有可能会导致猝死](https://s.weibo.com/weibo?q=%23%E4%B9%85%E5%9D%90%E6%9C%89%E5%8F%AF%E8%83%BD%E4%BC%9A%E5%AF%BC%E8%87%B4%E7%8C%9D%E6%AD%BB%23&t=31&band_rank=7&Refer=top)<br />
-8. [秀才宿舍](https://s.weibo.com/weibo?q=%23%E7%A7%80%E6%89%8D%E5%AE%BF%E8%88%8D%23&t=31&band_rank=8&Refer=top)<br />
+7. [秀才宿舍](https://s.weibo.com/weibo?q=%23%E7%A7%80%E6%89%8D%E5%AE%BF%E8%88%8D%23&t=31&band_rank=7&Refer=top)<br />
+8. [久坐有可能会导致猝死](https://s.weibo.com/weibo?q=%23%E4%B9%85%E5%9D%90%E6%9C%89%E5%8F%AF%E8%83%BD%E4%BC%9A%E5%AF%BC%E8%87%B4%E7%8C%9D%E6%AD%BB%23&t=31&band_rank=8&Refer=top)<br />
 9. [王栎鑫被问0713能不一直绑定吗](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A0%8E%E9%91%AB%E8%A2%AB%E9%97%AE0713%E8%83%BD%E4%B8%8D%E4%B8%80%E7%9B%B4%E7%BB%91%E5%AE%9A%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
