@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-20 17:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-20 17:41:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [医生吃面发现邻座女子长肿瘤提醒就医](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E5%90%83%E9%9D%A2%E5%8F%91%E7%8E%B0%E9%82%BB%E5%BA%A7%E5%A5%B3%E5%AD%90%E9%95%BF%E8%82%BF%E7%98%A4%E6%8F%90%E9%86%92%E5%B0%B1%E5%8C%BB%23&t=31&band_rank=4&Refer=top)<br />
 5. [刘昊然被喊老公周冬雨的反应](https://s.weibo.com/weibo?q=%23%E5%88%98%E6%98%8A%E7%84%B6%E8%A2%AB%E5%96%8A%E8%80%81%E5%85%AC%E5%91%A8%E5%86%AC%E9%9B%A8%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=5&Refer=top)<br />
 6. [王楚然的下一部现代剧](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E7%84%B6%E7%9A%84%E4%B8%8B%E4%B8%80%E9%83%A8%E7%8E%B0%E4%BB%A3%E5%89%A7%23&t=31&band_rank=6&Refer=top)<br />
-7. [景甜冯绍峰色差](https://s.weibo.com/weibo?q=%23%E6%99%AF%E7%94%9C%E5%86%AF%E7%BB%8D%E5%B3%B0%E8%89%B2%E5%B7%AE%23&t=31&band_rank=7&Refer=top)<br />
-8. [GEN战胜T1](https://s.weibo.com/weibo?q=%23GEN%E6%88%98%E8%83%9CT1%23&t=31&band_rank=8&Refer=top)<br />
-9. [女子遭陌生男搭话称长了肿瘤一查真有](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%81%AD%E9%99%8C%E7%94%9F%E7%94%B7%E6%90%AD%E8%AF%9D%E7%A7%B0%E9%95%BF%E4%BA%86%E8%82%BF%E7%98%A4%E4%B8%80%E6%9F%A5%E7%9C%9F%E6%9C%89%23&t=31&band_rank=9&Refer=top)<br />
+7. [GEN战胜T1](https://s.weibo.com/weibo?q=%23GEN%E6%88%98%E8%83%9CT1%23&t=31&band_rank=7&Refer=top)<br />
+8. [女子遭陌生男搭话称长了肿瘤一查真有](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%81%AD%E9%99%8C%E7%94%9F%E7%94%B7%E6%90%AD%E8%AF%9D%E7%A7%B0%E9%95%BF%E4%BA%86%E8%82%BF%E7%98%A4%E4%B8%80%E6%9F%A5%E7%9C%9F%E6%9C%89%23&t=31&band_rank=8&Refer=top)<br />
+9. [游客被吸入水上乐园排水口身亡](https://s.weibo.com/weibo?q=%23%E6%B8%B8%E5%AE%A2%E8%A2%AB%E5%90%B8%E5%85%A5%E6%B0%B4%E4%B8%8A%E4%B9%90%E5%9B%AD%E6%8E%92%E6%B0%B4%E5%8F%A3%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
