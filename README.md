@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-20 13:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-20 13:13:02</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [景区游客被吸入水上乐园排水口身亡](https://www.baidu.com/s?wd=%E6%99%AF%E5%8C%BA%E6%B8%B8%E5%AE%A2%E8%A2%AB%E5%90%B8%E5%85%A5%E6%B0%B4%E4%B8%8A%E4%B9%90%E5%9B%AD%E6%8E%92%E6%B0%B4%E5%8F%A3%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [俄探测器在月球轨道遇紧急情况](https://www.baidu.com/s?wd=%E4%BF%84%E6%8E%A2%E6%B5%8B%E5%99%A8%E5%9C%A8%E6%9C%88%E7%90%83%E8%BD%A8%E9%81%93%E9%81%87%E7%B4%A7%E6%80%A5%E6%83%85%E5%86%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [张晚意众筹笑话但没记住](https://www.baidu.com/s?wd=%E5%BC%A0%E6%99%9A%E6%84%8F%E4%BC%97%E7%AD%B9%E7%AC%91%E8%AF%9D%E4%BD%86%E6%B2%A1%E8%AE%B0%E4%BD%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [21岁姑娘暴瘦30斤结果悔惨](https://www.baidu.com/s?wd=21%E5%B2%81%E5%A7%91%E5%A8%98%E6%9A%B4%E7%98%A630%E6%96%A4%E7%BB%93%E6%9E%9C%E6%82%94%E6%83%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [多所高校宿舍床位可网上自选](https://www.baidu.com/s?wd=%E5%A4%9A%E6%89%80%E9%AB%98%E6%A0%A1%E5%AE%BF%E8%88%8D%E5%BA%8A%E4%BD%8D%E5%8F%AF%E7%BD%91%E4%B8%8A%E8%87%AA%E9%80%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [景区游客被吸入水上乐园排水口身亡](https://www.baidu.com/s?wd=%E6%99%AF%E5%8C%BA%E6%B8%B8%E5%AE%A2%E8%A2%AB%E5%90%B8%E5%85%A5%E6%B0%B4%E4%B8%8A%E4%B9%90%E5%9B%AD%E6%8E%92%E6%B0%B4%E5%8F%A3%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [俄探测器在月球轨道遇紧急情况](https://www.baidu.com/s?wd=%E4%BF%84%E6%8E%A2%E6%B5%8B%E5%99%A8%E5%9C%A8%E6%9C%88%E7%90%83%E8%BD%A8%E9%81%93%E9%81%87%E7%B4%A7%E6%80%A5%E6%83%85%E5%86%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [张晚意众筹笑话但没记住](https://www.baidu.com/s?wd=%E5%BC%A0%E6%99%9A%E6%84%8F%E4%BC%97%E7%AD%B9%E7%AC%91%E8%AF%9D%E4%BD%86%E6%B2%A1%E8%AE%B0%E4%BD%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [21岁姑娘暴瘦30斤结果悔惨](https://www.baidu.com/s?wd=21%E5%B2%81%E5%A7%91%E5%A8%98%E6%9A%B4%E7%98%A630%E6%96%A4%E7%BB%93%E6%9E%9C%E6%82%94%E6%83%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [多所高校宿舍床位可网上自选](https://www.baidu.com/s?wd=%E5%A4%9A%E6%89%80%E9%AB%98%E6%A0%A1%E5%AE%BF%E8%88%8D%E5%BA%8A%E4%BD%8D%E5%8F%AF%E7%BD%91%E4%B8%8A%E8%87%AA%E9%80%89&sa=fyb_news&rsv_dl=fyb_news)<br />
