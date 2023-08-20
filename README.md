@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-20 13:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-20 13:21:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [梅西](https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF&t=31&band_rank=6&Refer=top)<br />
 7. [妈妈想女儿进厂女儿称不想拿死工资](https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E6%83%B3%E5%A5%B3%E5%84%BF%E8%BF%9B%E5%8E%82%E5%A5%B3%E5%84%BF%E7%A7%B0%E4%B8%8D%E6%83%B3%E6%8B%BF%E6%AD%BB%E5%B7%A5%E8%B5%84%23&t=31&band_rank=7&Refer=top)<br />
 8. [贝克汉姆拥抱梅西](https://s.weibo.com/weibo?q=%E8%B4%9D%E5%85%8B%E6%B1%89%E5%A7%86%E6%8B%A5%E6%8A%B1%E6%A2%85%E8%A5%BF&t=31&band_rank=8&Refer=top)<br />
-9. [周冬雨变好看了](https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%86%AC%E9%9B%A8%E5%8F%98%E5%A5%BD%E7%9C%8B%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [科学家预测本世纪末地球将重置人口数量](https://s.weibo.com/weibo?q=%23%E7%A7%91%E5%AD%A6%E5%AE%B6%E9%A2%84%E6%B5%8B%E6%9C%AC%E4%B8%96%E7%BA%AA%E6%9C%AB%E5%9C%B0%E7%90%83%E5%B0%86%E9%87%8D%E7%BD%AE%E4%BA%BA%E5%8F%A3%E6%95%B0%E9%87%8F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
