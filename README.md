@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-20 12:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-20 12:51:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [东部战区位台岛周边海空联合演训](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E4%BD%8D%E5%8F%B0%E5%B2%9B%E5%91%A8%E8%BE%B9%E6%B5%B7%E7%A9%BA%E8%81%94%E5%90%88%E6%BC%94%E8%AE%AD%23&t=31&band_rank=3&Refer=top)<br />
 4. [杨紫双手戴满了镯子](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%8F%8C%E6%89%8B%E6%88%B4%E6%BB%A1%E4%BA%86%E9%95%AF%E5%AD%90%23&t=31&band_rank=4&Refer=top)<br />
 5. [张伟丽](https://s.weibo.com/weibo?q=%E5%BC%A0%E4%BC%9F%E4%B8%BD&t=31&band_rank=5&Refer=top)<br />
-6. [贝克汉姆拥抱梅西](https://s.weibo.com/weibo?q=%E8%B4%9D%E5%85%8B%E6%B1%89%E5%A7%86%E6%8B%A5%E6%8A%B1%E6%A2%85%E8%A5%BF&t=31&band_rank=6&Refer=top)<br />
-7. [周冬雨变好看了](https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%86%AC%E9%9B%A8%E5%8F%98%E5%A5%BD%E7%9C%8B%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [真正的沙县小吃从未走出沙县](https://s.weibo.com/weibo?q=%E7%9C%9F%E6%AD%A3%E7%9A%84%E6%B2%99%E5%8E%BF%E5%B0%8F%E5%90%83%E4%BB%8E%E6%9C%AA%E8%B5%B0%E5%87%BA%E6%B2%99%E5%8E%BF&t=31&band_rank=8&Refer=top)<br />
-9. [Cheems去世](https://s.weibo.com/weibo?q=%23Cheems%E5%8E%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
+6. [游客被吸入水上乐园排水口身亡](https://s.weibo.com/weibo?q=%23%E6%B8%B8%E5%AE%A2%E8%A2%AB%E5%90%B8%E5%85%A5%E6%B0%B4%E4%B8%8A%E4%B9%90%E5%9B%AD%E6%8E%92%E6%B0%B4%E5%8F%A3%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=6&Refer=top)<br />
+7. [贝克汉姆拥抱梅西](https://s.weibo.com/weibo?q=%E8%B4%9D%E5%85%8B%E6%B1%89%E5%A7%86%E6%8B%A5%E6%8A%B1%E6%A2%85%E8%A5%BF&t=31&band_rank=7&Refer=top)<br />
+8. [周冬雨变好看了](https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%86%AC%E9%9B%A8%E5%8F%98%E5%A5%BD%E7%9C%8B%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [真正的沙县小吃从未走出沙县](https://s.weibo.com/weibo?q=%E7%9C%9F%E6%AD%A3%E7%9A%84%E6%B2%99%E5%8E%BF%E5%B0%8F%E5%90%83%E4%BB%8E%E6%9C%AA%E8%B5%B0%E5%87%BA%E6%B2%99%E5%8E%BF&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
