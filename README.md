@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-21 18:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-21 18:12:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [男子打12345要求停播中国好声音](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%89%9312345%E8%A6%81%E6%B1%82%E5%81%9C%E6%92%AD%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [爸爸第一次吃自助火锅满脸拘谨](https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%90%83%E8%87%AA%E5%8A%A9%E7%81%AB%E9%94%85%E6%BB%A1%E8%84%B8%E6%8B%98%E8%B0%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [汽车价格战又“杀疯了”？](https://www.baidu.com/s?wd=%E6%B1%BD%E8%BD%A6%E4%BB%B7%E6%A0%BC%E6%88%98%E5%8F%88%E2%80%9C%E6%9D%80%E7%96%AF%E4%BA%86%E2%80%9D%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [建议明天把微信步数关一下](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E6%98%8E%E5%A4%A9%E6%8A%8A%E5%BE%AE%E4%BF%A1%E6%AD%A5%E6%95%B0%E5%85%B3%E4%B8%80%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [中国印钞造币集团原董事陈义清被查](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%8D%B0%E9%92%9E%E9%80%A0%E5%B8%81%E9%9B%86%E5%9B%A2%E5%8E%9F%E8%91%A3%E4%BA%8B%E9%99%88%E4%B9%89%E6%B8%85%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [男子打12345要求停播中国好声音](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%89%9312345%E8%A6%81%E6%B1%82%E5%81%9C%E6%92%AD%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [爸爸第一次吃自助火锅满脸拘谨](https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%90%83%E8%87%AA%E5%8A%A9%E7%81%AB%E9%94%85%E6%BB%A1%E8%84%B8%E6%8B%98%E8%B0%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [汽车价格战又“杀疯了”？](https://www.baidu.com/s?wd=%E6%B1%BD%E8%BD%A6%E4%BB%B7%E6%A0%BC%E6%88%98%E5%8F%88%E2%80%9C%E6%9D%80%E7%96%AF%E4%BA%86%E2%80%9D%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [建议明天把微信步数关一下](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E6%98%8E%E5%A4%A9%E6%8A%8A%E5%BE%AE%E4%BF%A1%E6%AD%A5%E6%95%B0%E5%85%B3%E4%B8%80%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [中国印钞造币集团原董事陈义清被查](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%8D%B0%E9%92%9E%E9%80%A0%E5%B8%81%E9%9B%86%E5%9B%A2%E5%8E%9F%E8%91%A3%E4%BA%8B%E9%99%88%E4%B9%89%E6%B8%85%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
