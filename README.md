@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-22 02:55:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-22 02:56:02</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [女子每天1顿口味虾吃到下巴脱臼](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%AF%8F%E5%A4%A91%E9%A1%BF%E5%8F%A3%E5%91%B3%E8%99%BE%E5%90%83%E5%88%B0%E4%B8%8B%E5%B7%B4%E8%84%B1%E8%87%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [大熊猫拿着竹子仿佛在钓鱼](https://www.baidu.com/s?wd=%E5%A4%A7%E7%86%8A%E7%8C%AB%E6%8B%BF%E7%9D%80%E7%AB%B9%E5%AD%90%E4%BB%BF%E4%BD%9B%E5%9C%A8%E9%92%93%E9%B1%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子称任500强公司总监被裁后送外卖](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A7%B0%E4%BB%BB500%E5%BC%BA%E5%85%AC%E5%8F%B8%E6%80%BB%E7%9B%91%E8%A2%AB%E8%A3%81%E5%90%8E%E9%80%81%E5%A4%96%E5%8D%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [官方：暂停台湾地区芒果输入大陆](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%EF%BC%9A%E6%9A%82%E5%81%9C%E5%8F%B0%E6%B9%BE%E5%9C%B0%E5%8C%BA%E8%8A%92%E6%9E%9C%E8%BE%93%E5%85%A5%E5%A4%A7%E9%99%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [98岁美国前总统卡特接受临终关怀](https://www.baidu.com/s?wd=98%E5%B2%81%E7%BE%8E%E5%9B%BD%E5%89%8D%E6%80%BB%E7%BB%9F%E5%8D%A1%E7%89%B9%E6%8E%A5%E5%8F%97%E4%B8%B4%E7%BB%88%E5%85%B3%E6%80%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [女子每天1顿口味虾吃到下巴脱臼](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%AF%8F%E5%A4%A91%E9%A1%BF%E5%8F%A3%E5%91%B3%E8%99%BE%E5%90%83%E5%88%B0%E4%B8%8B%E5%B7%B4%E8%84%B1%E8%87%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [大熊猫拿着竹子仿佛在钓鱼](https://www.baidu.com/s?wd=%E5%A4%A7%E7%86%8A%E7%8C%AB%E6%8B%BF%E7%9D%80%E7%AB%B9%E5%AD%90%E4%BB%BF%E4%BD%9B%E5%9C%A8%E9%92%93%E9%B1%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子称任500强公司总监被裁后送外卖](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A7%B0%E4%BB%BB500%E5%BC%BA%E5%85%AC%E5%8F%B8%E6%80%BB%E7%9B%91%E8%A2%AB%E8%A3%81%E5%90%8E%E9%80%81%E5%A4%96%E5%8D%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [官方：暂停台湾地区芒果输入大陆](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%EF%BC%9A%E6%9A%82%E5%81%9C%E5%8F%B0%E6%B9%BE%E5%9C%B0%E5%8C%BA%E8%8A%92%E6%9E%9C%E8%BE%93%E5%85%A5%E5%A4%A7%E9%99%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [98岁美国前总统卡特接受临终关怀](https://www.baidu.com/s?wd=98%E5%B2%81%E7%BE%8E%E5%9B%BD%E5%89%8D%E6%80%BB%E7%BB%9F%E5%8D%A1%E7%89%B9%E6%8E%A5%E5%8F%97%E4%B8%B4%E7%BB%88%E5%85%B3%E6%80%80&sa=fyb_news&rsv_dl=fyb_news)<br />
