@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-21 11:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-21 11:51:01</h4></div>
 
 > 微博  
 
@@ -17,7 +17,7 @@
 
 > 百度  
 
-1. [金砖国家这样发挥“金砖力量”](https://www.baidu.com/s?wd=%E9%87%91%E7%A0%96%E5%9B%BD%E5%AE%B6%E8%BF%99%E6%A0%B7%E5%8F%91%E6%8C%A5%E2%80%9C%E9%87%91%E7%A0%96%E5%8A%9B%E9%87%8F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [解码金砖](https://www.baidu.com/s?wd=%E8%A7%A3%E7%A0%81%E9%87%91%E7%A0%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [9亿修出面目全非？央视调查天水古城](https://www.baidu.com/s?wd=9%E4%BA%BF%E4%BF%AE%E5%87%BA%E9%9D%A2%E7%9B%AE%E5%85%A8%E9%9D%9E%EF%BC%9F%E5%A4%AE%E8%A7%86%E8%B0%83%E6%9F%A5%E5%A4%A9%E6%B0%B4%E5%8F%A4%E5%9F%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [留学期间被策反 国家部委干部成间谍](https://www.baidu.com/s?wd=%E7%95%99%E5%AD%A6%E6%9C%9F%E9%97%B4%E8%A2%AB%E7%AD%96%E5%8F%8D+%E5%9B%BD%E5%AE%B6%E9%83%A8%E5%A7%94%E5%B9%B2%E9%83%A8%E6%88%90%E9%97%B4%E8%B0%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [科学做好灾后恢复重建工作](https://www.baidu.com/s?wd=%E7%A7%91%E5%AD%A6%E5%81%9A%E5%A5%BD%E7%81%BE%E5%90%8E%E6%81%A2%E5%A4%8D%E9%87%8D%E5%BB%BA%E5%B7%A5%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,7 +29,7 @@
 
 > 哔哩哔哩  
 
-1. [金砖国家这样发挥“金砖力量”](https://www.baidu.com/s?wd=%E9%87%91%E7%A0%96%E5%9B%BD%E5%AE%B6%E8%BF%99%E6%A0%B7%E5%8F%91%E6%8C%A5%E2%80%9C%E9%87%91%E7%A0%96%E5%8A%9B%E9%87%8F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [解码金砖](https://www.baidu.com/s?wd=%E8%A7%A3%E7%A0%81%E9%87%91%E7%A0%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [9亿修出面目全非？央视调查天水古城](https://www.baidu.com/s?wd=9%E4%BA%BF%E4%BF%AE%E5%87%BA%E9%9D%A2%E7%9B%AE%E5%85%A8%E9%9D%9E%EF%BC%9F%E5%A4%AE%E8%A7%86%E8%B0%83%E6%9F%A5%E5%A4%A9%E6%B0%B4%E5%8F%A4%E5%9F%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [留学期间被策反 国家部委干部成间谍](https://www.baidu.com/s?wd=%E7%95%99%E5%AD%A6%E6%9C%9F%E9%97%B4%E8%A2%AB%E7%AD%96%E5%8F%8D+%E5%9B%BD%E5%AE%B6%E9%83%A8%E5%A7%94%E5%B9%B2%E9%83%A8%E6%88%90%E9%97%B4%E8%B0%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [科学做好灾后恢复重建工作](https://www.baidu.com/s?wd=%E7%A7%91%E5%AD%A6%E5%81%9A%E5%A5%BD%E7%81%BE%E5%90%8E%E6%81%A2%E5%A4%8D%E9%87%8D%E5%BB%BA%E5%B7%A5%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
