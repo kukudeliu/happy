@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-21 21:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-21 21:48:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [爷爷去世前和朋友发的短信](https://s.weibo.com/weibo?q=%E7%88%B7%E7%88%B7%E5%8E%BB%E4%B8%96%E5%89%8D%E5%92%8C%E6%9C%8B%E5%8F%8B%E5%8F%91%E7%9A%84%E7%9F%AD%E4%BF%A1&t=31&band_rank=6&Refer=top)<br />
 7. [蒲熠星to签](https://s.weibo.com/weibo?q=%E8%92%B2%E7%86%A0%E6%98%9Fto%E7%AD%BE&t=31&band_rank=7&Refer=top)<br />
 8. [魏大勋称体重好真实](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E7%A7%B0%E4%BD%93%E9%87%8D%E5%A5%BD%E7%9C%9F%E5%AE%9E%23&t=31&band_rank=8&Refer=top)<br />
-9. [世界上唯一拥有3个首都的国家](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E4%B8%8A%E5%94%AF%E4%B8%80%E6%8B%A5%E6%9C%893%E4%B8%AA%E9%A6%96%E9%83%BD%E7%9A%84%E5%9B%BD%E5%AE%B6%23&t=31&band_rank=9&Refer=top)<br />
+9. [夭柳海底看鲛人被删改了](https://s.weibo.com/weibo?q=%23%E5%A4%AD%E6%9F%B3%E6%B5%B7%E5%BA%95%E7%9C%8B%E9%B2%9B%E4%BA%BA%E8%A2%AB%E5%88%A0%E6%94%B9%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
