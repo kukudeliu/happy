@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-21 10:37:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-21 10:38:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [多家央企社招出现亲属回避条款](https://www.baidu.com/s?wd=%E5%A4%9A%E5%AE%B6%E5%A4%AE%E4%BC%81%E7%A4%BE%E6%8B%9B%E5%87%BA%E7%8E%B0%E4%BA%B2%E5%B1%9E%E5%9B%9E%E9%81%BF%E6%9D%A1%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [武汉枪杀律师主犯曾开着卡宴去买枪](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E6%9E%AA%E6%9D%80%E5%BE%8B%E5%B8%88%E4%B8%BB%E7%8A%AF%E6%9B%BE%E5%BC%80%E7%9D%80%E5%8D%A1%E5%AE%B4%E5%8E%BB%E4%B9%B0%E6%9E%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [药代举报两所省级三甲医院医生受贿](https://www.baidu.com/s?wd=%E8%8D%AF%E4%BB%A3%E4%B8%BE%E6%8A%A5%E4%B8%A4%E6%89%80%E7%9C%81%E7%BA%A7%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2%E5%8C%BB%E7%94%9F%E5%8F%97%E8%B4%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中国好声音母公司股价持续大跌](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E6%AF%8D%E5%85%AC%E5%8F%B8%E8%82%A1%E4%BB%B7%E6%8C%81%E7%BB%AD%E5%A4%A7%E8%B7%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [张雪峰：报志愿不要听网红忽悠](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B3%B0%EF%BC%9A%E6%8A%A5%E5%BF%97%E6%84%BF%E4%B8%8D%E8%A6%81%E5%90%AC%E7%BD%91%E7%BA%A2%E5%BF%BD%E6%82%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [多家央企社招出现亲属回避条款](https://www.baidu.com/s?wd=%E5%A4%9A%E5%AE%B6%E5%A4%AE%E4%BC%81%E7%A4%BE%E6%8B%9B%E5%87%BA%E7%8E%B0%E4%BA%B2%E5%B1%9E%E5%9B%9E%E9%81%BF%E6%9D%A1%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [武汉枪杀律师主犯曾开着卡宴去买枪](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E6%9E%AA%E6%9D%80%E5%BE%8B%E5%B8%88%E4%B8%BB%E7%8A%AF%E6%9B%BE%E5%BC%80%E7%9D%80%E5%8D%A1%E5%AE%B4%E5%8E%BB%E4%B9%B0%E6%9E%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [药代举报两所省级三甲医院医生受贿](https://www.baidu.com/s?wd=%E8%8D%AF%E4%BB%A3%E4%B8%BE%E6%8A%A5%E4%B8%A4%E6%89%80%E7%9C%81%E7%BA%A7%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2%E5%8C%BB%E7%94%9F%E5%8F%97%E8%B4%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中国好声音母公司股价持续大跌](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E6%AF%8D%E5%85%AC%E5%8F%B8%E8%82%A1%E4%BB%B7%E6%8C%81%E7%BB%AD%E5%A4%A7%E8%B7%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [张雪峰：报志愿不要听网红忽悠](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B3%B0%EF%BC%9A%E6%8A%A5%E5%BF%97%E6%84%BF%E4%B8%8D%E8%A6%81%E5%90%AC%E7%BD%91%E7%BA%A2%E5%BF%BD%E6%82%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
