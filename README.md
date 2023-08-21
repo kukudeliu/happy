@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-22 00:27:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-22 00:28:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [最近韩国渐渐出现无糖葫芦区](https://s.weibo.com/weibo?q=%E6%9C%80%E8%BF%91%E9%9F%A9%E5%9B%BD%E6%B8%90%E6%B8%90%E5%87%BA%E7%8E%B0%E6%97%A0%E7%B3%96%E8%91%AB%E8%8A%A6%E5%8C%BA&t=31&band_rank=6&Refer=top)<br />
 7. [七夕文案](https://s.weibo.com/weibo?q=%E4%B8%83%E5%A4%95%E6%96%87%E6%A1%88&t=31&band_rank=7&Refer=top)<br />
 8. [iPhone换C口 安卓不通用](https://s.weibo.com/weibo?q=iPhone%E6%8D%A2C%E5%8F%A3%20%E5%AE%89%E5%8D%93%E4%B8%8D%E9%80%9A%E7%94%A8&t=31&band_rank=8&Refer=top)<br />
-9. [鸥茉莉 小蒲敬上](https://s.weibo.com/weibo?q=%E9%B8%A5%E8%8C%89%E8%8E%89%20%E5%B0%8F%E8%92%B2%E6%95%AC%E4%B8%8A&t=31&band_rank=9&Refer=top)<br />
+9. [柳州4家超强螺蛳粉](https://s.weibo.com/weibo?q=%E6%9F%B3%E5%B7%9E4%E5%AE%B6%E8%B6%85%E5%BC%BA%E8%9E%BA%E8%9B%B3%E7%B2%89&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
