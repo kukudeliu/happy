@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-21 12:06:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-21 12:07:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [无意识减肥却减肥的行为](https://s.weibo.com/weibo?q=%23%E6%97%A0%E6%84%8F%E8%AF%86%E5%87%8F%E8%82%A5%E5%8D%B4%E5%87%8F%E8%82%A5%E7%9A%84%E8%A1%8C%E4%B8%BA%23&t=31&band_rank=5&Refer=top)<br />
 6. [身边人成为了明星](https://s.weibo.com/weibo?q=%23%E8%BA%AB%E8%BE%B9%E4%BA%BA%E6%88%90%E4%B8%BA%E4%BA%86%E6%98%8E%E6%98%9F%23&t=31&band_rank=6&Refer=top)<br />
 7. [玱玹今晚大婚](https://s.weibo.com/weibo?q=%23%E7%8E%B1%E7%8E%B9%E4%BB%8A%E6%99%9A%E5%A4%A7%E5%A9%9A%23&t=31&band_rank=7&Refer=top)<br />
-8. [乘客未系安全带6次弹起致骨折](https://s.weibo.com/weibo?q=%23%E4%B9%98%E5%AE%A2%E6%9C%AA%E7%B3%BB%E5%AE%89%E5%85%A8%E5%B8%A66%E6%AC%A1%E5%BC%B9%E8%B5%B7%E8%87%B4%E9%AA%A8%E6%8A%98%23&t=31&band_rank=8&Refer=top)<br />
-9. [这下全国人民都知道你破案快了](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%8B%E5%85%A8%E5%9B%BD%E4%BA%BA%E6%B0%91%E9%83%BD%E7%9F%A5%E9%81%93%E4%BD%A0%E7%A0%B4%E6%A1%88%E5%BF%AB%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+8. [国考](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%80%83&t=31&band_rank=8&Refer=top)<br />
+9. [田曦薇演的李玉湖是炸毛哈基米](https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E6%BC%94%E7%9A%84%E6%9D%8E%E7%8E%89%E6%B9%96%E6%98%AF%E7%82%B8%E6%AF%9B%E5%93%88%E5%9F%BA%E7%B1%B3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
