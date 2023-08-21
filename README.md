@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-21 17:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-21 17:45:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [金晨录早了](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E5%BD%95%E6%97%A9%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [小动物被爱会疯狂长出血肉](https://s.weibo.com/weibo?q=%E5%B0%8F%E5%8A%A8%E7%89%A9%E8%A2%AB%E7%88%B1%E4%BC%9A%E7%96%AF%E7%8B%82%E9%95%BF%E5%87%BA%E8%A1%80%E8%82%89&t=31&band_rank=7&Refer=top)<br />
 8. [华晨宇鸟巢四面台演唱会第一人](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E9%B8%9F%E5%B7%A2%E5%9B%9B%E9%9D%A2%E5%8F%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E7%AC%AC%E4%B8%80%E4%BA%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [长相思第二季再不播就不礼貌了](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D%E7%AC%AC%E4%BA%8C%E5%AD%A3%E5%86%8D%E4%B8%8D%E6%92%AD%E5%B0%B1%E4%B8%8D%E7%A4%BC%E8%B2%8C%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [安慕希回应主播不当言论](https://s.weibo.com/weibo?q=%23%E5%AE%89%E6%85%95%E5%B8%8C%E5%9B%9E%E5%BA%94%E4%B8%BB%E6%92%AD%E4%B8%8D%E5%BD%93%E8%A8%80%E8%AE%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
