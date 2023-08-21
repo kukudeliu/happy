@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-21 22:05:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-21 22:06:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [已有152例猴痘病例死亡](https://s.weibo.com/weibo?q=%23%E5%B7%B2%E6%9C%89152%E4%BE%8B%E7%8C%B4%E7%97%98%E7%97%85%E4%BE%8B%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=4&Refer=top)<br />
 5. [男孩在柬埔寨坠亡身上刻着被害冤枉](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E5%9C%A8%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%9D%A0%E4%BA%A1%E8%BA%AB%E4%B8%8A%E5%88%BB%E7%9D%80%E8%A2%AB%E5%AE%B3%E5%86%A4%E6%9E%89%23&t=31&band_rank=5&Refer=top)<br />
 6. [涂山璟已婚](https://s.weibo.com/weibo?q=%23%E6%B6%82%E5%B1%B1%E7%92%9F%E5%B7%B2%E5%A9%9A%23&t=31&band_rank=6&Refer=top)<br />
-7. [爷爷去世前和朋友发的短信](https://s.weibo.com/weibo?q=%E7%88%B7%E7%88%B7%E5%8E%BB%E4%B8%96%E5%89%8D%E5%92%8C%E6%9C%8B%E5%8F%8B%E5%8F%91%E7%9A%84%E7%9F%AD%E4%BF%A1&t=31&band_rank=7&Refer=top)<br />
-8. [蒲熠星to签](https://s.weibo.com/weibo?q=%E8%92%B2%E7%86%A0%E6%98%9Fto%E7%AD%BE&t=31&band_rank=8&Refer=top)<br />
+7. [蒲熠星to签](https://s.weibo.com/weibo?q=%E8%92%B2%E7%86%A0%E6%98%9Fto%E7%AD%BE&t=31&band_rank=7&Refer=top)<br />
+8. [爷爷去世前和朋友发的短信](https://s.weibo.com/weibo?q=%E7%88%B7%E7%88%B7%E5%8E%BB%E4%B8%96%E5%89%8D%E5%92%8C%E6%9C%8B%E5%8F%8B%E5%8F%91%E7%9A%84%E7%9F%AD%E4%BF%A1&t=31&band_rank=8&Refer=top)<br />
 9. [魏大勋称体重好真实](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E7%A7%B0%E4%BD%93%E9%87%8D%E5%A5%BD%E7%9C%9F%E5%AE%9E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
