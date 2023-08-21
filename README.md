@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-21 21:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-21 21:18:01</h4></div>
 
 > 微博  
 
-1. [爷爷去世前和朋友发的短信](https://s.weibo.com/weibo?q=%E7%88%B7%E7%88%B7%E5%8E%BB%E4%B8%96%E5%89%8D%E5%92%8C%E6%9C%8B%E5%8F%8B%E5%8F%91%E7%9A%84%E7%9F%AD%E4%BF%A1&t=31&band_rank=1&Refer=top)<br />
-2. [涂山璟已婚](https://s.weibo.com/weibo?q=%23%E6%B6%82%E5%B1%B1%E7%92%9F%E5%B7%B2%E5%A9%9A%23&t=31&band_rank=2&Refer=top)<br />
+1. [涂山璟已婚](https://s.weibo.com/weibo?q=%23%E6%B6%82%E5%B1%B1%E7%92%9F%E5%B7%B2%E5%A9%9A%23&t=31&band_rank=1&Refer=top)<br />
+2. [爷爷去世前和朋友发的短信](https://s.weibo.com/weibo?q=%E7%88%B7%E7%88%B7%E5%8E%BB%E4%B8%96%E5%89%8D%E5%92%8C%E6%9C%8B%E5%8F%8B%E5%8F%91%E7%9A%84%E7%9F%AD%E4%BF%A1&t=31&band_rank=2&Refer=top)<br />
 3. [世界上唯一拥有3个首都的国家](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E4%B8%8A%E5%94%AF%E4%B8%80%E6%8B%A5%E6%9C%893%E4%B8%AA%E9%A6%96%E9%83%BD%E7%9A%84%E5%9B%BD%E5%AE%B6%23&t=31&band_rank=3&Refer=top)<br />
 4. [男孩在柬埔寨坠亡身上刻着被害冤枉](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E5%9C%A8%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%9D%A0%E4%BA%A1%E8%BA%AB%E4%B8%8A%E5%88%BB%E7%9D%80%E8%A2%AB%E5%AE%B3%E5%86%A4%E6%9E%89%23&t=31&band_rank=4&Refer=top)<br />
 5. [最近韩国渐渐出现无糖葫芦区](https://s.weibo.com/weibo?q=%E6%9C%80%E8%BF%91%E9%9F%A9%E5%9B%BD%E6%B8%90%E6%B8%90%E5%87%BA%E7%8E%B0%E6%97%A0%E7%B3%96%E8%91%AB%E8%8A%A6%E5%8C%BA&t=31&band_rank=5&Refer=top)<br />
 6. [魏大勋称体重好真实](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E7%A7%B0%E4%BD%93%E9%87%8D%E5%A5%BD%E7%9C%9F%E5%AE%9E%23&t=31&band_rank=6&Refer=top)<br />
 7. [夭柳海底看鲛人被删改了](https://s.weibo.com/weibo?q=%23%E5%A4%AD%E6%9F%B3%E6%B5%B7%E5%BA%95%E7%9C%8B%E9%B2%9B%E4%BA%BA%E8%A2%AB%E5%88%A0%E6%94%B9%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [建议明天把微信步数关一下](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%98%8E%E5%A4%A9%E6%8A%8A%E5%BE%AE%E4%BF%A1%E6%AD%A5%E6%95%B0%E5%85%B3%E4%B8%80%E4%B8%8B%23&t=31&band_rank=8&Refer=top)<br />
-9. [东方青苍与涂山璟一起洗澡](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E6%96%B9%E9%9D%92%E8%8B%8D%E4%B8%8E%E6%B6%82%E5%B1%B1%E7%92%9F%E4%B8%80%E8%B5%B7%E6%B4%97%E6%BE%A1%23&t=31&band_rank=9&Refer=top)<br />
+9. [苏醒身负三代家当](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%E8%BA%AB%E8%B4%9F%E4%B8%89%E4%BB%A3%E5%AE%B6%E5%BD%93%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
