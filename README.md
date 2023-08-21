@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-21 11:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-21 11:45:02</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [原来我的专业考不了公务员](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%88%91%E7%9A%84%E4%B8%93%E4%B8%9A%E8%80%83%E4%B8%8D%E4%BA%86%E5%85%AC%E5%8A%A1%E5%91%98%23&t=31&band_rank=4&Refer=top)<br />
 5. [身边人成为了明星](https://s.weibo.com/weibo?q=%23%E8%BA%AB%E8%BE%B9%E4%BA%BA%E6%88%90%E4%B8%BA%E4%BA%86%E6%98%8E%E6%98%9F%23&t=31&band_rank=5&Refer=top)<br />
 6. [无意识减肥却减肥的行为](https://s.weibo.com/weibo?q=%23%E6%97%A0%E6%84%8F%E8%AF%86%E5%87%8F%E8%82%A5%E5%8D%B4%E5%87%8F%E8%82%A5%E7%9A%84%E8%A1%8C%E4%B8%BA%23&t=31&band_rank=6&Refer=top)<br />
-7. [林俊杰回应被激光笔照眼](https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%BF%80%E5%85%89%E7%AC%94%E7%85%A7%E7%9C%BC%23&t=31&band_rank=7&Refer=top)<br />
-8. [玱玹今晚大婚](https://s.weibo.com/weibo?q=%23%E7%8E%B1%E7%8E%B9%E4%BB%8A%E6%99%9A%E5%A4%A7%E5%A9%9A%23&t=31&band_rank=8&Refer=top)<br />
+7. [玱玹今晚大婚](https://s.weibo.com/weibo?q=%23%E7%8E%B1%E7%8E%B9%E4%BB%8A%E6%99%9A%E5%A4%A7%E5%A9%9A%23&t=31&band_rank=7&Refer=top)<br />
+8. [林俊杰回应被激光笔照眼](https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%BF%80%E5%85%89%E7%AC%94%E7%85%A7%E7%9C%BC%23&t=31&band_rank=8&Refer=top)<br />
 9. [乘客未系安全带6次弹起致骨折](https://s.weibo.com/weibo?q=%23%E4%B9%98%E5%AE%A2%E6%9C%AA%E7%B3%BB%E5%AE%89%E5%85%A8%E5%B8%A66%E6%AC%A1%E5%BC%B9%E8%B5%B7%E8%87%B4%E9%AA%A8%E6%8A%98%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
