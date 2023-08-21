@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-21 18:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-21 18:28:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [21日起暂停台湾地区芒果输入大陆](https://s.weibo.com/weibo?q=%2321%E6%97%A5%E8%B5%B7%E6%9A%82%E5%81%9C%E5%8F%B0%E6%B9%BE%E5%9C%B0%E5%8C%BA%E8%8A%92%E6%9E%9C%E8%BE%93%E5%85%A5%E5%A4%A7%E9%99%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [浪漫从来不受年龄限制](https://s.weibo.com/weibo?q=%23%E6%B5%AA%E6%BC%AB%E4%BB%8E%E6%9D%A5%E4%B8%8D%E5%8F%97%E5%B9%B4%E9%BE%84%E9%99%90%E5%88%B6%23&t=31&band_rank=5&Refer=top)<br />
 6. [金晨录早了](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E5%BD%95%E6%97%A9%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [爸爸第一次吃自助火锅满脸拘谨](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%90%83%E8%87%AA%E5%8A%A9%E7%81%AB%E9%94%85%E6%BB%A1%E8%84%B8%E6%8B%98%E8%B0%A8%23&t=31&band_rank=7&Refer=top)<br />
-8. [年轻时吸的烟 年老时都会找你算账](https://s.weibo.com/weibo?q=%E5%B9%B4%E8%BD%BB%E6%97%B6%E5%90%B8%E7%9A%84%E7%83%9F%20%E5%B9%B4%E8%80%81%E6%97%B6%E9%83%BD%E4%BC%9A%E6%89%BE%E4%BD%A0%E7%AE%97%E8%B4%A6&t=31&band_rank=8&Refer=top)<br />
-9. [建议明天把微信步数关一下](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%98%8E%E5%A4%A9%E6%8A%8A%E5%BE%AE%E4%BF%A1%E6%AD%A5%E6%95%B0%E5%85%B3%E4%B8%80%E4%B8%8B%23&t=31&band_rank=9&Refer=top)<br />
+7. [消防脱衣为爬山掉鞋女子护脚](https://s.weibo.com/weibo?q=%23%E6%B6%88%E9%98%B2%E8%84%B1%E8%A1%A3%E4%B8%BA%E7%88%AC%E5%B1%B1%E6%8E%89%E9%9E%8B%E5%A5%B3%E5%AD%90%E6%8A%A4%E8%84%9A%23&t=31&band_rank=7&Refer=top)<br />
+8. [爸爸第一次吃自助火锅满脸拘谨](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%90%83%E8%87%AA%E5%8A%A9%E7%81%AB%E9%94%85%E6%BB%A1%E8%84%B8%E6%8B%98%E8%B0%A8%23&t=31&band_rank=8&Refer=top)<br />
+9. [年轻时吸的烟 年老时都会找你算账](https://s.weibo.com/weibo?q=%E5%B9%B4%E8%BD%BB%E6%97%B6%E5%90%B8%E7%9A%84%E7%83%9F%20%E5%B9%B4%E8%80%81%E6%97%B6%E9%83%BD%E4%BC%9A%E6%89%BE%E4%BD%A0%E7%AE%97%E8%B4%A6&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
