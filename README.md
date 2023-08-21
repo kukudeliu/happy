@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-21 13:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-21 13:57:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [白敬亭居然放不开](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%B1%85%E7%84%B6%E6%94%BE%E4%B8%8D%E5%BC%80%23&t=31&band_rank=6&Refer=top)<br />
 7. [无意识减肥却减肥的行为](https://s.weibo.com/weibo?q=%23%E6%97%A0%E6%84%8F%E8%AF%86%E5%87%8F%E8%82%A5%E5%8D%B4%E5%87%8F%E8%82%A5%E7%9A%84%E8%A1%8C%E4%B8%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [肖战纱袍造型仙气十足](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%BA%B1%E8%A2%8D%E9%80%A0%E5%9E%8B%E4%BB%99%E6%B0%94%E5%8D%81%E8%B6%B3%23&t=31&band_rank=8&Refer=top)<br />
-9. [舒淇 海神降临](https://s.weibo.com/weibo?q=%E8%88%92%E6%B7%87%20%E6%B5%B7%E7%A5%9E%E9%99%8D%E4%B8%B4&t=31&band_rank=9&Refer=top)<br />
+9. [沈腾 中国最帅的男演员全在这了](https://s.weibo.com/weibo?q=%E6%B2%88%E8%85%BE%20%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%B8%85%E7%9A%84%E7%94%B7%E6%BC%94%E5%91%98%E5%85%A8%E5%9C%A8%E8%BF%99%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
