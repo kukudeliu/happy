@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-21 21:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-21 21:22:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [魏大勋称体重好真实](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E7%A7%B0%E4%BD%93%E9%87%8D%E5%A5%BD%E7%9C%9F%E5%AE%9E%23&t=31&band_rank=6&Refer=top)<br />
 7. [夭柳海底看鲛人被删改了](https://s.weibo.com/weibo?q=%23%E5%A4%AD%E6%9F%B3%E6%B5%B7%E5%BA%95%E7%9C%8B%E9%B2%9B%E4%BA%BA%E8%A2%AB%E5%88%A0%E6%94%B9%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [蒲熠星to签](https://s.weibo.com/weibo?q=%E8%92%B2%E7%86%A0%E6%98%9Fto%E7%AD%BE&t=31&band_rank=8&Refer=top)<br />
-9. [建议明天把微信步数关一下](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%98%8E%E5%A4%A9%E6%8A%8A%E5%BE%AE%E4%BF%A1%E6%AD%A5%E6%95%B0%E5%85%B3%E4%B8%80%E4%B8%8B%23&t=31&band_rank=9&Refer=top)<br />
+9. [苏醒身负三代家当](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%E8%BA%AB%E8%B4%9F%E4%B8%89%E4%BB%A3%E5%AE%B6%E5%BD%93%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
