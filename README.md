@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-21 16:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-21 16:57:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [年轻时吸的烟 年老时都会找你算账](https://s.weibo.com/weibo?q=%E5%B9%B4%E8%BD%BB%E6%97%B6%E5%90%B8%E7%9A%84%E7%83%9F%20%E5%B9%B4%E8%80%81%E6%97%B6%E9%83%BD%E4%BC%9A%E6%89%BE%E4%BD%A0%E7%AE%97%E8%B4%A6&t=31&band_rank=6&Refer=top)<br />
 7. [白敬亭回应放不开](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%9B%9E%E5%BA%94%E6%94%BE%E4%B8%8D%E5%BC%80%23&t=31&band_rank=7&Refer=top)<br />
 8. [骑手回应称孩子跳楼是误会](https://s.weibo.com/weibo?q=%23%E9%AA%91%E6%89%8B%E5%9B%9E%E5%BA%94%E7%A7%B0%E5%AD%A9%E5%AD%90%E8%B7%B3%E6%A5%BC%E6%98%AF%E8%AF%AF%E4%BC%9A%23&t=31&band_rank=8&Refer=top)<br />
-9. [无法保持长期自律的原因](https://s.weibo.com/weibo?q=%E6%97%A0%E6%B3%95%E4%BF%9D%E6%8C%81%E9%95%BF%E6%9C%9F%E8%87%AA%E5%BE%8B%E7%9A%84%E5%8E%9F%E5%9B%A0&t=31&band_rank=9&Refer=top)<br />
+9. [华晨宇鸟巢四面台演唱会第一人](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E9%B8%9F%E5%B7%A2%E5%9B%9B%E9%9D%A2%E5%8F%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E7%AC%AC%E4%B8%80%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
