@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-22 11:55:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-22 11:56:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [莫斯科所有机场禁止进出航班](https://s.weibo.com/weibo?q=%23%E8%8E%AB%E6%96%AF%E7%A7%91%E6%89%80%E6%9C%89%E6%9C%BA%E5%9C%BA%E7%A6%81%E6%AD%A2%E8%BF%9B%E5%87%BA%E8%88%AA%E7%8F%AD%23&t=31&band_rank=6&Refer=top)<br />
 7. [官配是有官配的道理](https://s.weibo.com/weibo?q=%23%E5%AE%98%E9%85%8D%E6%98%AF%E6%9C%89%E5%AE%98%E9%85%8D%E7%9A%84%E9%81%93%E7%90%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [沈腾好像刚从月子中心出来](https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E5%A5%BD%E5%83%8F%E5%88%9A%E4%BB%8E%E6%9C%88%E5%AD%90%E4%B8%AD%E5%BF%83%E5%87%BA%E6%9D%A5%23&t=31&band_rank=8&Refer=top)<br />
-9. [亚洲象一鼻子甩出毒品2.8公斤](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E6%B4%B2%E8%B1%A1%E4%B8%80%E9%BC%BB%E5%AD%90%E7%94%A9%E5%87%BA%E6%AF%92%E5%93%812.8%E5%85%AC%E6%96%A4%23&t=31&band_rank=9&Refer=top)<br />
+9. [天官赐福](https://s.weibo.com/weibo?q=%E5%A4%A9%E5%AE%98%E8%B5%90%E7%A6%8F&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
