@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-22 21:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-22 21:31:01</h4></div>
 
 > 微博  
 
@@ -17,7 +17,7 @@
 
 > 百度  
 
-1. [踏上“彩虹之国”的热土](https://www.baidu.com/s?wd=%E8%B8%8F%E4%B8%8A%E2%80%9C%E5%BD%A9%E8%99%B9%E4%B9%8B%E5%9B%BD%E2%80%9D%E7%9A%84%E7%83%AD%E5%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [共赴“金砖之约”](https://www.baidu.com/s?wd=%E5%85%B1%E8%B5%B4%E2%80%9C%E9%87%91%E7%A0%96%E4%B9%8B%E7%BA%A6%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [洛阳不明物体将地面砸出坑?消防回应](https://www.baidu.com/s?wd=%E6%B4%9B%E9%98%B3%E4%B8%8D%E6%98%8E%E7%89%A9%E4%BD%93%E5%B0%86%E5%9C%B0%E9%9D%A2%E7%A0%B8%E5%87%BA%E5%9D%91%3F%E6%B6%88%E9%98%B2%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [专家认为年轻人缺乏谈情说爱能力](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E8%AE%A4%E4%B8%BA%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%BC%BA%E4%B9%8F%E8%B0%88%E6%83%85%E8%AF%B4%E7%88%B1%E8%83%BD%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [让世界听到更多的金砖声音](https://www.baidu.com/s?wd=%E8%AE%A9%E4%B8%96%E7%95%8C%E5%90%AC%E5%88%B0%E6%9B%B4%E5%A4%9A%E7%9A%84%E9%87%91%E7%A0%96%E5%A3%B0%E9%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,7 +29,7 @@
 
 > 哔哩哔哩  
 
-1. [踏上“彩虹之国”的热土](https://www.baidu.com/s?wd=%E8%B8%8F%E4%B8%8A%E2%80%9C%E5%BD%A9%E8%99%B9%E4%B9%8B%E5%9B%BD%E2%80%9D%E7%9A%84%E7%83%AD%E5%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [共赴“金砖之约”](https://www.baidu.com/s?wd=%E5%85%B1%E8%B5%B4%E2%80%9C%E9%87%91%E7%A0%96%E4%B9%8B%E7%BA%A6%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [洛阳不明物体将地面砸出坑?消防回应](https://www.baidu.com/s?wd=%E6%B4%9B%E9%98%B3%E4%B8%8D%E6%98%8E%E7%89%A9%E4%BD%93%E5%B0%86%E5%9C%B0%E9%9D%A2%E7%A0%B8%E5%87%BA%E5%9D%91%3F%E6%B6%88%E9%98%B2%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [专家认为年轻人缺乏谈情说爱能力](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E8%AE%A4%E4%B8%BA%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%BC%BA%E4%B9%8F%E8%B0%88%E6%83%85%E8%AF%B4%E7%88%B1%E8%83%BD%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [让世界听到更多的金砖声音](https://www.baidu.com/s?wd=%E8%AE%A9%E4%B8%96%E7%95%8C%E5%90%AC%E5%88%B0%E6%9B%B4%E5%A4%9A%E7%9A%84%E9%87%91%E7%A0%96%E5%A3%B0%E9%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
