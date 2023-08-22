@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-23 06:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-23 06:15:01</h4></div>
 
 > 微博  
 
-1. [百万网红被闺蜜骗至东南亚生死未卜](https://s.weibo.com/weibo?q=%23%E7%99%BE%E4%B8%87%E7%BD%91%E7%BA%A2%E8%A2%AB%E9%97%BA%E8%9C%9C%E9%AA%97%E8%87%B3%E4%B8%9C%E5%8D%97%E4%BA%9A%E7%94%9F%E6%AD%BB%E6%9C%AA%E5%8D%9C%23&t=31&band_rank=1&Refer=top)<br />
-2. [老默新剧依然卖鱼](https://s.weibo.com/weibo?q=%23%E8%80%81%E9%BB%98%E6%96%B0%E5%89%A7%E4%BE%9D%E7%84%B6%E5%8D%96%E9%B1%BC%23&t=31&band_rank=2&Refer=top)<br />
+1. [老默新剧依然卖鱼](https://s.weibo.com/weibo?q=%23%E8%80%81%E9%BB%98%E6%96%B0%E5%89%A7%E4%BE%9D%E7%84%B6%E5%8D%96%E9%B1%BC%23&t=31&band_rank=1&Refer=top)<br />
+2. [百万网红被闺蜜骗至东南亚生死未卜](https://s.weibo.com/weibo?q=%23%E7%99%BE%E4%B8%87%E7%BD%91%E7%BA%A2%E8%A2%AB%E9%97%BA%E8%9C%9C%E9%AA%97%E8%87%B3%E4%B8%9C%E5%8D%97%E4%BA%9A%E7%94%9F%E6%AD%BB%E6%9C%AA%E5%8D%9C%23&t=31&band_rank=2&Refer=top)<br />
 3. [金砖国家形象网宣片](https://s.weibo.com/weibo?q=%23%E9%87%91%E7%A0%96%E5%9B%BD%E5%AE%B6%E5%BD%A2%E8%B1%A1%E7%BD%91%E5%AE%A3%E7%89%87%23&t=31&band_rank=3&Refer=top)<br />
 4. [苏翊鸣 恋爱](https://s.weibo.com/weibo?q=%E8%8B%8F%E7%BF%8A%E9%B8%A3%20%E6%81%8B%E7%88%B1&t=31&band_rank=4&Refer=top)<br />
 5. [日本核污染水排海至少要持续30年](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%B5%B7%E8%87%B3%E5%B0%91%E8%A6%81%E6%8C%81%E7%BB%AD30%E5%B9%B4%23&t=31&band_rank=5&Refer=top)<br />
