@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-22 17:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-22 17:02:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [失传2000多年的扁鹊医书被修复](https://www.baidu.com/s?wd=%E5%A4%B1%E4%BC%A02000%E5%A4%9A%E5%B9%B4%E7%9A%84%E6%89%81%E9%B9%8A%E5%8C%BB%E4%B9%A6%E8%A2%AB%E4%BF%AE%E5%A4%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [日本核污染水排放时间将长达30年](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%94%BE%E6%97%B6%E9%97%B4%E5%B0%86%E9%95%BF%E8%BE%BE30%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [高中免费教育 真的要来了？](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%AD%E5%85%8D%E8%B4%B9%E6%95%99%E8%82%B2+%E7%9C%9F%E7%9A%84%E8%A6%81%E6%9D%A5%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [坚如磐石张艺谋要求全员素颜](https://www.baidu.com/s?wd=%E5%9D%9A%E5%A6%82%E7%A3%90%E7%9F%B3%E5%BC%A0%E8%89%BA%E8%B0%8B%E8%A6%81%E6%B1%82%E5%85%A8%E5%91%98%E7%B4%A0%E9%A2%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [一家人看场电影花掉400多](https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B6%E4%BA%BA%E7%9C%8B%E5%9C%BA%E7%94%B5%E5%BD%B1%E8%8A%B1%E6%8E%89400%E5%A4%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [失传2000多年的扁鹊医书被修复](https://www.baidu.com/s?wd=%E5%A4%B1%E4%BC%A02000%E5%A4%9A%E5%B9%B4%E7%9A%84%E6%89%81%E9%B9%8A%E5%8C%BB%E4%B9%A6%E8%A2%AB%E4%BF%AE%E5%A4%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [日本核污染水排放时间将长达30年](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%94%BE%E6%97%B6%E9%97%B4%E5%B0%86%E9%95%BF%E8%BE%BE30%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [高中免费教育 真的要来了？](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%AD%E5%85%8D%E8%B4%B9%E6%95%99%E8%82%B2+%E7%9C%9F%E7%9A%84%E8%A6%81%E6%9D%A5%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [坚如磐石张艺谋要求全员素颜](https://www.baidu.com/s?wd=%E5%9D%9A%E5%A6%82%E7%A3%90%E7%9F%B3%E5%BC%A0%E8%89%BA%E8%B0%8B%E8%A6%81%E6%B1%82%E5%85%A8%E5%91%98%E7%B4%A0%E9%A2%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [一家人看场电影花掉400多](https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B6%E4%BA%BA%E7%9C%8B%E5%9C%BA%E7%94%B5%E5%BD%B1%E8%8A%B1%E6%8E%89400%E5%A4%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
