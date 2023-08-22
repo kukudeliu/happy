@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-23 07:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-23 07:28:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [民政局直播新人领证仅12对登记](https://s.weibo.com/weibo?q=%23%E6%B0%91%E6%94%BF%E5%B1%80%E7%9B%B4%E6%92%AD%E6%96%B0%E4%BA%BA%E9%A2%86%E8%AF%81%E4%BB%8512%E5%AF%B9%E7%99%BB%E8%AE%B0%23&t=31&band_rank=5&Refer=top)<br />
 6. [妻子车祸被困丈夫头包纱布围着安抚](https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E8%BD%A6%E7%A5%B8%E8%A2%AB%E5%9B%B0%E4%B8%88%E5%A4%AB%E5%A4%B4%E5%8C%85%E7%BA%B1%E5%B8%83%E5%9B%B4%E7%9D%80%E5%AE%89%E6%8A%9A%23&t=31&band_rank=6&Refer=top)<br />
 7. [男子中奖1000万彩票粘手机壳取不下](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%AD%E5%A5%961000%E4%B8%87%E5%BD%A9%E7%A5%A8%E7%B2%98%E6%89%8B%E6%9C%BA%E5%A3%B3%E5%8F%96%E4%B8%8D%E4%B8%8B%23&t=31&band_rank=7&Refer=top)<br />
-8. [日本核污染水排海至少要持续30年](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%B5%B7%E8%87%B3%E5%B0%91%E8%A6%81%E6%8C%81%E7%BB%AD30%E5%B9%B4%23&t=31&band_rank=8&Refer=top)<br />
-9. [警校生和军校生的婚后生活](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%A0%A1%E7%94%9F%E5%92%8C%E5%86%9B%E6%A0%A1%E7%94%9F%E7%9A%84%E5%A9%9A%E5%90%8E%E7%94%9F%E6%B4%BB%23&t=31&band_rank=9&Refer=top)<br />
+8. [警校生和军校生的婚后生活](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%A0%A1%E7%94%9F%E5%92%8C%E5%86%9B%E6%A0%A1%E7%94%9F%E7%9A%84%E5%A9%9A%E5%90%8E%E7%94%9F%E6%B4%BB%23&t=31&band_rank=8&Refer=top)<br />
+9. [日本核污染水排海至少要持续30年](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%B5%B7%E8%87%B3%E5%B0%91%E8%A6%81%E6%8C%81%E7%BB%AD30%E5%B9%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
