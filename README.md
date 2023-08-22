@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-22 10:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-22 10:45:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [对象能不能处看了学爸就知道](https://s.weibo.com/weibo?q=%23%E5%AF%B9%E8%B1%A1%E8%83%BD%E4%B8%8D%E8%83%BD%E5%A4%84%E7%9C%8B%E4%BA%86%E5%AD%A6%E7%88%B8%E5%B0%B1%E7%9F%A5%E9%81%93%23&t=31&band_rank=6&Refer=top)<br />
 7. [沈腾好像刚从月子中心出来](https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E5%A5%BD%E5%83%8F%E5%88%9A%E4%BB%8E%E6%9C%88%E5%AD%90%E4%B8%AD%E5%BF%83%E5%87%BA%E6%9D%A5%23&t=31&band_rank=7&Refer=top)<br />
 8. [北京大兴出现一只一米长巨型蜥蜴](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%85%B4%E5%87%BA%E7%8E%B0%E4%B8%80%E5%8F%AA%E4%B8%80%E7%B1%B3%E9%95%BF%E5%B7%A8%E5%9E%8B%E8%9C%A5%E8%9C%B4%23&t=31&band_rank=8&Refer=top)<br />
-9. [魏大勋爆火前后的站位](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E7%88%86%E7%81%AB%E5%89%8D%E5%90%8E%E7%9A%84%E7%AB%99%E4%BD%8D%23&t=31&band_rank=9&Refer=top)<br />
+9. [21岁小伙和女网友吃饭被捅身亡](https://s.weibo.com/weibo?q=%2321%E5%B2%81%E5%B0%8F%E4%BC%99%E5%92%8C%E5%A5%B3%E7%BD%91%E5%8F%8B%E5%90%83%E9%A5%AD%E8%A2%AB%E6%8D%85%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
