@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-23 07:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-23 07:23:02</h4></div>
 
 > 微博  
 
-1. [老默新剧依然卖鱼](https://s.weibo.com/weibo?q=%23%E8%80%81%E9%BB%98%E6%96%B0%E5%89%A7%E4%BE%9D%E7%84%B6%E5%8D%96%E9%B1%BC%23&t=31&band_rank=1&Refer=top)<br />
-2. [C罗怒喷傅明](https://s.weibo.com/weibo?q=%23C%E7%BD%97%E6%80%92%E5%96%B7%E5%82%85%E6%98%8E%23&t=31&band_rank=2&Refer=top)<br />
+1. [C罗怒喷傅明](https://s.weibo.com/weibo?q=%23C%E7%BD%97%E6%80%92%E5%96%B7%E5%82%85%E6%98%8E%23&t=31&band_rank=1&Refer=top)<br />
+2. [老默新剧依然卖鱼](https://s.weibo.com/weibo?q=%23%E8%80%81%E9%BB%98%E6%96%B0%E5%89%A7%E4%BE%9D%E7%84%B6%E5%8D%96%E9%B1%BC%23&t=31&band_rank=2&Refer=top)<br />
 3. [金砖国家形象网宣片](https://s.weibo.com/weibo?q=%23%E9%87%91%E7%A0%96%E5%9B%BD%E5%AE%B6%E5%BD%A2%E8%B1%A1%E7%BD%91%E5%AE%A3%E7%89%87%23&t=31&band_rank=3&Refer=top)<br />
 4. [苏翊鸣 恋爱](https://s.weibo.com/weibo?q=%E8%8B%8F%E7%BF%8A%E9%B8%A3%20%E6%81%8B%E7%88%B1&t=31&band_rank=4&Refer=top)<br />
 5. [妻子车祸被困丈夫头包纱布围着安抚](https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E8%BD%A6%E7%A5%B8%E8%A2%AB%E5%9B%B0%E4%B8%88%E5%A4%AB%E5%A4%B4%E5%8C%85%E7%BA%B1%E5%B8%83%E5%9B%B4%E7%9D%80%E5%AE%89%E6%8A%9A%23&t=31&band_rank=5&Refer=top)<br />
