@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-22 23:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-22 23:18:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [男子被女友亲到鼓膜破裂进医院](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A2%AB%E5%A5%B3%E5%8F%8B%E4%BA%B2%E5%88%B0%E9%BC%93%E8%86%9C%E7%A0%B4%E8%A3%82%E8%BF%9B%E5%8C%BB%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [菲运补船再闯仁爱礁近海 中方表态](https://www.baidu.com/s?wd=%E8%8F%B2%E8%BF%90%E8%A1%A5%E8%88%B9%E5%86%8D%E9%97%AF%E4%BB%81%E7%88%B1%E7%A4%81%E8%BF%91%E6%B5%B7+%E4%B8%AD%E6%96%B9%E8%A1%A8%E6%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子被骗缅甸遇害 埋尸地未找到尸体](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A2%AB%E9%AA%97%E7%BC%85%E7%94%B8%E9%81%87%E5%AE%B3+%E5%9F%8B%E5%B0%B8%E5%9C%B0%E6%9C%AA%E6%89%BE%E5%88%B0%E5%B0%B8%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [失传2000多年的扁鹊医书被修复](https://www.baidu.com/s?wd=%E5%A4%B1%E4%BC%A02000%E5%A4%9A%E5%B9%B4%E7%9A%84%E6%89%81%E9%B9%8A%E5%8C%BB%E4%B9%A6%E8%A2%AB%E4%BF%AE%E5%A4%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [地产大亨从政不足一年就当选总理](https://www.baidu.com/s?wd=%E5%9C%B0%E4%BA%A7%E5%A4%A7%E4%BA%A8%E4%BB%8E%E6%94%BF%E4%B8%8D%E8%B6%B3%E4%B8%80%E5%B9%B4%E5%B0%B1%E5%BD%93%E9%80%89%E6%80%BB%E7%90%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [男子被女友亲到鼓膜破裂进医院](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A2%AB%E5%A5%B3%E5%8F%8B%E4%BA%B2%E5%88%B0%E9%BC%93%E8%86%9C%E7%A0%B4%E8%A3%82%E8%BF%9B%E5%8C%BB%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [菲运补船再闯仁爱礁近海 中方表态](https://www.baidu.com/s?wd=%E8%8F%B2%E8%BF%90%E8%A1%A5%E8%88%B9%E5%86%8D%E9%97%AF%E4%BB%81%E7%88%B1%E7%A4%81%E8%BF%91%E6%B5%B7+%E4%B8%AD%E6%96%B9%E8%A1%A8%E6%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子被骗缅甸遇害 埋尸地未找到尸体](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A2%AB%E9%AA%97%E7%BC%85%E7%94%B8%E9%81%87%E5%AE%B3+%E5%9F%8B%E5%B0%B8%E5%9C%B0%E6%9C%AA%E6%89%BE%E5%88%B0%E5%B0%B8%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [失传2000多年的扁鹊医书被修复](https://www.baidu.com/s?wd=%E5%A4%B1%E4%BC%A02000%E5%A4%9A%E5%B9%B4%E7%9A%84%E6%89%81%E9%B9%8A%E5%8C%BB%E4%B9%A6%E8%A2%AB%E4%BF%AE%E5%A4%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [地产大亨从政不足一年就当选总理](https://www.baidu.com/s?wd=%E5%9C%B0%E4%BA%A7%E5%A4%A7%E4%BA%A8%E4%BB%8E%E6%94%BF%E4%B8%8D%E8%B6%B3%E4%B8%80%E5%B9%B4%E5%B0%B1%E5%BD%93%E9%80%89%E6%80%BB%E7%90%86&sa=fyb_news&rsv_dl=fyb_news)<br />
