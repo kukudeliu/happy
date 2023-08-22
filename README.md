@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-22 19:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-22 19:14:02</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [家属称遗体还没火化骨灰就已出炉](https://www.baidu.com/s?wd=%E5%AE%B6%E5%B1%9E%E7%A7%B0%E9%81%97%E4%BD%93%E8%BF%98%E6%B2%A1%E7%81%AB%E5%8C%96%E9%AA%A8%E7%81%B0%E5%B0%B1%E5%B7%B2%E5%87%BA%E7%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [微信回应七夕关闭运动步数](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E5%9B%9E%E5%BA%94%E4%B8%83%E5%A4%95%E5%85%B3%E9%97%AD%E8%BF%90%E5%8A%A8%E6%AD%A5%E6%95%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#每帧都心动#](https://www.baidu.com/s?wd=%23%E6%AF%8F%E5%B8%A7%E9%83%BD%E5%BF%83%E5%8A%A8%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [落马副部肖毅贪1.25亿被判无期](https://www.baidu.com/s?wd=%E8%90%BD%E9%A9%AC%E5%89%AF%E9%83%A8%E8%82%96%E6%AF%85%E8%B4%AA1.25%E4%BA%BF%E8%A2%AB%E5%88%A4%E6%97%A0%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [央媒发声剑指“抹黑小作文”](https://www.baidu.com/s?wd=%E5%A4%AE%E5%AA%92%E5%8F%91%E5%A3%B0%E5%89%91%E6%8C%87%E2%80%9C%E6%8A%B9%E9%BB%91%E5%B0%8F%E4%BD%9C%E6%96%87%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [家属称遗体还没火化骨灰就已出炉](https://www.baidu.com/s?wd=%E5%AE%B6%E5%B1%9E%E7%A7%B0%E9%81%97%E4%BD%93%E8%BF%98%E6%B2%A1%E7%81%AB%E5%8C%96%E9%AA%A8%E7%81%B0%E5%B0%B1%E5%B7%B2%E5%87%BA%E7%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [微信回应七夕关闭运动步数](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E5%9B%9E%E5%BA%94%E4%B8%83%E5%A4%95%E5%85%B3%E9%97%AD%E8%BF%90%E5%8A%A8%E6%AD%A5%E6%95%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#每帧都心动#](https://www.baidu.com/s?wd=%23%E6%AF%8F%E5%B8%A7%E9%83%BD%E5%BF%83%E5%8A%A8%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [落马副部肖毅贪1.25亿被判无期](https://www.baidu.com/s?wd=%E8%90%BD%E9%A9%AC%E5%89%AF%E9%83%A8%E8%82%96%E6%AF%85%E8%B4%AA1.25%E4%BA%BF%E8%A2%AB%E5%88%A4%E6%97%A0%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [央媒发声剑指“抹黑小作文”](https://www.baidu.com/s?wd=%E5%A4%AE%E5%AA%92%E5%8F%91%E5%A3%B0%E5%89%91%E6%8C%87%E2%80%9C%E6%8A%B9%E9%BB%91%E5%B0%8F%E4%BD%9C%E6%96%87%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
