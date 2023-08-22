@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-22 23:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-22 23:38:01</h4></div>
 
 > 微博  
 
@@ -23,9 +23,9 @@
 4. [让世界听到更多的金砖声音](https://www.baidu.com/s?wd=%E8%AE%A9%E4%B8%96%E7%95%8C%E5%90%AC%E5%88%B0%E6%9B%B4%E5%A4%9A%E7%9A%84%E9%87%91%E7%A0%96%E5%A3%B0%E9%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [#七夕节快乐#](https://www.baidu.com/s?wd=%23%E4%B8%83%E5%A4%95%E8%8A%82%E5%BF%AB%E4%B9%90%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子被女友亲到鼓膜破裂进医院](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A2%AB%E5%A5%B3%E5%8F%8B%E4%BA%B2%E5%88%B0%E9%BC%93%E8%86%9C%E7%A0%B4%E8%A3%82%E8%BF%9B%E5%8C%BB%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [景区私自拍摄游客照片并挂墙售卖](https://www.baidu.com/s?wd=%E6%99%AF%E5%8C%BA%E7%A7%81%E8%87%AA%E6%8B%8D%E6%91%84%E6%B8%B8%E5%AE%A2%E7%85%A7%E7%89%87%E5%B9%B6%E6%8C%82%E5%A2%99%E5%94%AE%E5%8D%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [高中免费教育 真的要来了？](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%AD%E5%85%8D%E8%B4%B9%E6%95%99%E8%82%B2+%E7%9C%9F%E7%9A%84%E8%A6%81%E6%9D%A5%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [泰国前总理他信被判8年监禁](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E5%89%8D%E6%80%BB%E7%90%86%E4%BB%96%E4%BF%A1%E8%A2%AB%E5%88%A48%E5%B9%B4%E7%9B%91%E7%A6%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [高中免费教育 真的要来了？](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%AD%E5%85%8D%E8%B4%B9%E6%95%99%E8%82%B2+%E7%9C%9F%E7%9A%84%E8%A6%81%E6%9D%A5%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [泰国前总理他信被判8年监禁](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E5%89%8D%E6%80%BB%E7%90%86%E4%BB%96%E4%BF%A1%E8%A2%AB%E5%88%A48%E5%B9%B4%E7%9B%91%E7%A6%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子被骗缅甸遇害 埋尸地未找到尸体](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A2%AB%E9%AA%97%E7%BC%85%E7%94%B8%E9%81%87%E5%AE%B3+%E5%9F%8B%E5%B0%B8%E5%9C%B0%E6%9C%AA%E6%89%BE%E5%88%B0%E5%B0%B8%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -35,6 +35,6 @@
 4. [让世界听到更多的金砖声音](https://www.baidu.com/s?wd=%E8%AE%A9%E4%B8%96%E7%95%8C%E5%90%AC%E5%88%B0%E6%9B%B4%E5%A4%9A%E7%9A%84%E9%87%91%E7%A0%96%E5%A3%B0%E9%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [#七夕节快乐#](https://www.baidu.com/s?wd=%23%E4%B8%83%E5%A4%95%E8%8A%82%E5%BF%AB%E4%B9%90%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子被女友亲到鼓膜破裂进医院](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A2%AB%E5%A5%B3%E5%8F%8B%E4%BA%B2%E5%88%B0%E9%BC%93%E8%86%9C%E7%A0%B4%E8%A3%82%E8%BF%9B%E5%8C%BB%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [景区私自拍摄游客照片并挂墙售卖](https://www.baidu.com/s?wd=%E6%99%AF%E5%8C%BA%E7%A7%81%E8%87%AA%E6%8B%8D%E6%91%84%E6%B8%B8%E5%AE%A2%E7%85%A7%E7%89%87%E5%B9%B6%E6%8C%82%E5%A2%99%E5%94%AE%E5%8D%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [高中免费教育 真的要来了？](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%AD%E5%85%8D%E8%B4%B9%E6%95%99%E8%82%B2+%E7%9C%9F%E7%9A%84%E8%A6%81%E6%9D%A5%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [泰国前总理他信被判8年监禁](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E5%89%8D%E6%80%BB%E7%90%86%E4%BB%96%E4%BF%A1%E8%A2%AB%E5%88%A48%E5%B9%B4%E7%9B%91%E7%A6%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [高中免费教育 真的要来了？](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%AD%E5%85%8D%E8%B4%B9%E6%95%99%E8%82%B2+%E7%9C%9F%E7%9A%84%E8%A6%81%E6%9D%A5%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [泰国前总理他信被判8年监禁](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E5%89%8D%E6%80%BB%E7%90%86%E4%BB%96%E4%BF%A1%E8%A2%AB%E5%88%A48%E5%B9%B4%E7%9B%91%E7%A6%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子被骗缅甸遇害 埋尸地未找到尸体](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A2%AB%E9%AA%97%E7%BC%85%E7%94%B8%E9%81%87%E5%AE%B3+%E5%9F%8B%E5%B0%B8%E5%9C%B0%E6%9C%AA%E6%89%BE%E5%88%B0%E5%B0%B8%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
