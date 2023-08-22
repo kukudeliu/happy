@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-22 10:30:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-22 10:31:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [24日起日本将开始核污染水排海](https://s.weibo.com/weibo?q=%2324%E6%97%A5%E8%B5%B7%E6%97%A5%E6%9C%AC%E5%B0%86%E5%BC%80%E5%A7%8B%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%B5%B7%23&t=31&band_rank=5&Refer=top)<br />
 6. [亚洲象一鼻子甩出毒品2.8公斤](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E6%B4%B2%E8%B1%A1%E4%B8%80%E9%BC%BB%E5%AD%90%E7%94%A9%E5%87%BA%E6%AF%92%E5%93%812.8%E5%85%AC%E6%96%A4%23&t=31&band_rank=6&Refer=top)<br />
 7. [沈腾好像刚从月子中心出来](https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E5%A5%BD%E5%83%8F%E5%88%9A%E4%BB%8E%E6%9C%88%E5%AD%90%E4%B8%AD%E5%BF%83%E5%87%BA%E6%9D%A5%23&t=31&band_rank=7&Refer=top)<br />
-8. [北方人真的不吃挂面吗](https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%96%B9%E4%BA%BA%E7%9C%9F%E7%9A%84%E4%B8%8D%E5%90%83%E6%8C%82%E9%9D%A2%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [A股](https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=9&Refer=top)<br />
+8. [A股](https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=8&Refer=top)<br />
+9. [北方人真的不吃挂面吗](https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%96%B9%E4%BA%BA%E7%9C%9F%E7%9A%84%E4%B8%8D%E5%90%83%E6%8C%82%E9%9D%A2%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
