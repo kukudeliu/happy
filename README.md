@@ -1,14 +1,14 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-22 15:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-22 15:54:02</h4></div>
 
 > 微博  
 
 1. [天津着火](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E7%9D%80%E7%81%AB%23&t=31&band_rank=1&Refer=top)<br />
-2. [缅甸高官首度回应缅北诈骗](https://s.weibo.com/weibo?q=%23%E7%BC%85%E7%94%B8%E9%AB%98%E5%AE%98%E9%A6%96%E5%BA%A6%E5%9B%9E%E5%BA%94%E7%BC%85%E5%8C%97%E8%AF%88%E9%AA%97%23&t=31&band_rank=2&Refer=top)<br />
+2. [Steam](https://s.weibo.com/weibo?q=Steam&t=31&band_rank=2&Refer=top)<br />
 3. [合作三重奏将在南非奏响](https://s.weibo.com/weibo?q=%23%E5%90%88%E4%BD%9C%E4%B8%89%E9%87%8D%E5%A5%8F%E5%B0%86%E5%9C%A8%E5%8D%97%E9%9D%9E%E5%A5%8F%E5%93%8D%23&t=31&band_rank=3&Refer=top)<br />
 4. [陕西煤矿瓦斯爆炸已致7死](https://s.weibo.com/weibo?q=%23%E9%99%95%E8%A5%BF%E7%85%A4%E7%9F%BF%E7%93%A6%E6%96%AF%E7%88%86%E7%82%B8%E5%B7%B2%E8%87%B47%E6%AD%BB%23&t=31&band_rank=4&Refer=top)<br />
 5. [除了沙溢没人愿意承认这张照片](https://s.weibo.com/weibo?q=%E9%99%A4%E4%BA%86%E6%B2%99%E6%BA%A2%E6%B2%A1%E4%BA%BA%E6%84%BF%E6%84%8F%E6%89%BF%E8%AE%A4%E8%BF%99%E5%BC%A0%E7%85%A7%E7%89%87&t=31&band_rank=5&Refer=top)<br />
-6. [LV 李龙馥](https://s.weibo.com/weibo?q=LV%20%E6%9D%8E%E9%BE%99%E9%A6%A5&t=31&band_rank=6&Refer=top)<br />
-7. [Steam](https://s.weibo.com/weibo?q=Steam&t=31&band_rank=7&Refer=top)<br />
+6. [缅甸高官首度回应缅北诈骗](https://s.weibo.com/weibo?q=%23%E7%BC%85%E7%94%B8%E9%AB%98%E5%AE%98%E9%A6%96%E5%BA%A6%E5%9B%9E%E5%BA%94%E7%BC%85%E5%8C%97%E8%AF%88%E9%AA%97%23&t=31&band_rank=6&Refer=top)<br />
+7. [LV 李龙馥](https://s.weibo.com/weibo?q=LV%20%E6%9D%8E%E9%BE%99%E9%A6%A5&t=31&band_rank=7&Refer=top)<br />
 8. [丰隆小夭订婚](https://s.weibo.com/weibo?q=%23%E4%B8%B0%E9%9A%86%E5%B0%8F%E5%A4%AD%E8%AE%A2%E5%A9%9A%23&t=31&band_rank=8&Refer=top)<br />
 9. [亚洲象一鼻子甩出毒品2.8公斤](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E6%B4%B2%E8%B1%A1%E4%B8%80%E9%BC%BB%E5%AD%90%E7%94%A9%E5%87%BA%E6%AF%92%E5%93%812.8%E5%85%AC%E6%96%A4%23&t=31&band_rank=9&Refer=top)<br />
 
