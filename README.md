@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-22 22:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-22 22:29:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [男子被女友亲到鼓膜破裂进医院](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A2%AB%E5%A5%B3%E5%8F%8B%E4%BA%B2%E5%88%B0%E9%BC%93%E8%86%9C%E7%A0%B4%E8%A3%82%E8%BF%9B%E5%8C%BB%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [研究：日本核污水排海240天到达中国](https://www.baidu.com/s?wd=%E7%A0%94%E7%A9%B6%EF%BC%9A%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E6%B5%B7240%E5%A4%A9%E5%88%B0%E8%BE%BE%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [高中免费教育 真的要来了？](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%AD%E5%85%8D%E8%B4%B9%E6%95%99%E8%82%B2+%E7%9C%9F%E7%9A%84%E8%A6%81%E6%9D%A5%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女孩养蚕做百家被给姐姐当嫁妆](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%85%BB%E8%9A%95%E5%81%9A%E7%99%BE%E5%AE%B6%E8%A2%AB%E7%BB%99%E5%A7%90%E5%A7%90%E5%BD%93%E5%AB%81%E5%A6%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [落马副部肖毅贪1.25亿被判无期](https://www.baidu.com/s?wd=%E8%90%BD%E9%A9%AC%E5%89%AF%E9%83%A8%E8%82%96%E6%AF%85%E8%B4%AA1.25%E4%BA%BF%E8%A2%AB%E5%88%A4%E6%97%A0%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [男子被女友亲到鼓膜破裂进医院](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A2%AB%E5%A5%B3%E5%8F%8B%E4%BA%B2%E5%88%B0%E9%BC%93%E8%86%9C%E7%A0%B4%E8%A3%82%E8%BF%9B%E5%8C%BB%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [研究：日本核污水排海240天到达中国](https://www.baidu.com/s?wd=%E7%A0%94%E7%A9%B6%EF%BC%9A%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E6%B5%B7240%E5%A4%A9%E5%88%B0%E8%BE%BE%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [高中免费教育 真的要来了？](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%AD%E5%85%8D%E8%B4%B9%E6%95%99%E8%82%B2+%E7%9C%9F%E7%9A%84%E8%A6%81%E6%9D%A5%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女孩养蚕做百家被给姐姐当嫁妆](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%85%BB%E8%9A%95%E5%81%9A%E7%99%BE%E5%AE%B6%E8%A2%AB%E7%BB%99%E5%A7%90%E5%A7%90%E5%BD%93%E5%AB%81%E5%A6%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [落马副部肖毅贪1.25亿被判无期](https://www.baidu.com/s?wd=%E8%90%BD%E9%A9%AC%E5%89%AF%E9%83%A8%E8%82%96%E6%AF%85%E8%B4%AA1.25%E4%BA%BF%E8%A2%AB%E5%88%A4%E6%97%A0%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
