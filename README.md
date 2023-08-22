@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-22 15:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-22 15:15:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [那英因身体欠佳请辞音乐节演出](https://s.weibo.com/weibo?q=%23%E9%82%A3%E8%8B%B1%E5%9B%A0%E8%BA%AB%E4%BD%93%E6%AC%A0%E4%BD%B3%E8%AF%B7%E8%BE%9E%E9%9F%B3%E4%B9%90%E8%8A%82%E6%BC%94%E5%87%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [昆明一窨井里发现两具年轻男尸](https://s.weibo.com/weibo?q=%23%E6%98%86%E6%98%8E%E4%B8%80%E7%AA%A8%E4%BA%95%E9%87%8C%E5%8F%91%E7%8E%B0%E4%B8%A4%E5%85%B7%E5%B9%B4%E8%BD%BB%E7%94%B7%E5%B0%B8%23&t=31&band_rank=7&Refer=top)<br />
 8. [女子使用酒店毛巾后发现不明血迹报警](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%BD%BF%E7%94%A8%E9%85%92%E5%BA%97%E6%AF%9B%E5%B7%BE%E5%90%8E%E5%8F%91%E7%8E%B0%E4%B8%8D%E6%98%8E%E8%A1%80%E8%BF%B9%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=8&Refer=top)<br />
-9. [涂山璟当爹](https://s.weibo.com/weibo?q=%23%E6%B6%82%E5%B1%B1%E7%92%9F%E5%BD%93%E7%88%B9%23&t=31&band_rank=9&Refer=top)<br />
+9. [丰隆小夭订婚](https://s.weibo.com/weibo?q=%23%E4%B8%B0%E9%9A%86%E5%B0%8F%E5%A4%AD%E8%AE%A2%E5%A9%9A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
