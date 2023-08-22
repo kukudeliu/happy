@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-22 22:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-22 22:28:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [刘昊然屈楚萧回应燃冬角色关系](https://s.weibo.com/weibo?q=%23%E5%88%98%E6%98%8A%E7%84%B6%E5%B1%88%E6%A5%9A%E8%90%A7%E5%9B%9E%E5%BA%94%E7%87%83%E5%86%AC%E8%A7%92%E8%89%B2%E5%85%B3%E7%B3%BB%23&t=31&band_rank=6&Refer=top)<br />
 7. [肖战白百何骄阳伴我集数变更](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%99%BD%E7%99%BE%E4%BD%95%E9%AA%84%E9%98%B3%E4%BC%B4%E6%88%91%E9%9B%86%E6%95%B0%E5%8F%98%E6%9B%B4%23&t=31&band_rank=7&Refer=top)<br />
 8. [央视七夕晚会](https://s.weibo.com/weibo?q=%E5%A4%AE%E8%A7%86%E4%B8%83%E5%A4%95%E6%99%9A%E4%BC%9A&t=31&band_rank=8&Refer=top)<br />
-9. [七夕](https://s.weibo.com/weibo?q=%E4%B8%83%E5%A4%95&t=31&band_rank=9&Refer=top)<br />
+9. [彪子 曾经只有侯雯元爱你](https://s.weibo.com/weibo?q=%E5%BD%AA%E5%AD%90%20%E6%9B%BE%E7%BB%8F%E5%8F%AA%E6%9C%89%E4%BE%AF%E9%9B%AF%E5%85%83%E7%88%B1%E4%BD%A0&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
