@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-22 22:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-22 22:18:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [男子被女友亲到鼓膜破裂进医院](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A2%AB%E5%A5%B3%E5%8F%8B%E4%BA%B2%E5%88%B0%E9%BC%93%E8%86%9C%E7%A0%B4%E8%A3%82%E8%BF%9B%E5%8C%BB%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [研究：日本核污水排海240天到达中国](https://www.baidu.com/s?wd=%E7%A0%94%E7%A9%B6%EF%BC%9A%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E6%B5%B7240%E5%A4%A9%E5%88%B0%E8%BE%BE%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [陕西延安一煤矿闪爆致11人遇难](https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF%E5%BB%B6%E5%AE%89%E4%B8%80%E7%85%A4%E7%9F%BF%E9%97%AA%E7%88%86%E8%87%B411%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男孩在柬埔寨坠亡身上刻着冤枉](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E5%9C%A8%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%9D%A0%E4%BA%A1%E8%BA%AB%E4%B8%8A%E5%88%BB%E7%9D%80%E5%86%A4%E6%9E%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [地产大亨从政不足一年就当选总理](https://www.baidu.com/s?wd=%E5%9C%B0%E4%BA%A7%E5%A4%A7%E4%BA%A8%E4%BB%8E%E6%94%BF%E4%B8%8D%E8%B6%B3%E4%B8%80%E5%B9%B4%E5%B0%B1%E5%BD%93%E9%80%89%E6%80%BB%E7%90%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [男子被女友亲到鼓膜破裂进医院](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A2%AB%E5%A5%B3%E5%8F%8B%E4%BA%B2%E5%88%B0%E9%BC%93%E8%86%9C%E7%A0%B4%E8%A3%82%E8%BF%9B%E5%8C%BB%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [研究：日本核污水排海240天到达中国](https://www.baidu.com/s?wd=%E7%A0%94%E7%A9%B6%EF%BC%9A%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E6%B5%B7240%E5%A4%A9%E5%88%B0%E8%BE%BE%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [陕西延安一煤矿闪爆致11人遇难](https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF%E5%BB%B6%E5%AE%89%E4%B8%80%E7%85%A4%E7%9F%BF%E9%97%AA%E7%88%86%E8%87%B411%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男孩在柬埔寨坠亡身上刻着冤枉](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E5%9C%A8%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%9D%A0%E4%BA%A1%E8%BA%AB%E4%B8%8A%E5%88%BB%E7%9D%80%E5%86%A4%E6%9E%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [地产大亨从政不足一年就当选总理](https://www.baidu.com/s?wd=%E5%9C%B0%E4%BA%A7%E5%A4%A7%E4%BA%A8%E4%BB%8E%E6%94%BF%E4%B8%8D%E8%B6%B3%E4%B8%80%E5%B9%B4%E5%B0%B1%E5%BD%93%E9%80%89%E6%80%BB%E7%90%86&sa=fyb_news&rsv_dl=fyb_news)<br />
