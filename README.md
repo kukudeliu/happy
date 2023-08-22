@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-22 23:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-22 23:44:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [山航飞机狗狗祟祟出发了](https://s.weibo.com/weibo?q=%E5%B1%B1%E8%88%AA%E9%A3%9E%E6%9C%BA%E7%8B%97%E7%8B%97%E7%A5%9F%E7%A5%9F%E5%87%BA%E5%8F%91%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [一条MV换郑恺一条命](https://s.weibo.com/weibo?q=%E4%B8%80%E6%9D%A1MV%E6%8D%A2%E9%83%91%E6%81%BA%E4%B8%80%E6%9D%A1%E5%91%BD&t=31&band_rank=7&Refer=top)<br />
 8. [新疆吐鲁番西瓜5元一个也难卖](https://s.weibo.com/weibo?q=%E6%96%B0%E7%96%86%E5%90%90%E9%B2%81%E7%95%AA%E8%A5%BF%E7%93%9C5%E5%85%83%E4%B8%80%E4%B8%AA%E4%B9%9F%E9%9A%BE%E5%8D%96&t=31&band_rank=8&Refer=top)<br />
-9. [供电局回应员工家属疑炫富事件](https://s.weibo.com/weibo?q=%23%E4%BE%9B%E7%94%B5%E5%B1%80%E5%9B%9E%E5%BA%94%E5%91%98%E5%B7%A5%E5%AE%B6%E5%B1%9E%E7%96%91%E7%82%AB%E5%AF%8C%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=9&Refer=top)<br />
+9. [刘彰巡演回应](https://s.weibo.com/weibo?q=%E5%88%98%E5%BD%B0%E5%B7%A1%E6%BC%94%E5%9B%9E%E5%BA%94&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -23,9 +23,9 @@
 4. [让世界听到更多的金砖声音](https://www.baidu.com/s?wd=%E8%AE%A9%E4%B8%96%E7%95%8C%E5%90%AC%E5%88%B0%E6%9B%B4%E5%A4%9A%E7%9A%84%E9%87%91%E7%A0%96%E5%A3%B0%E9%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [#七夕节快乐#](https://www.baidu.com/s?wd=%23%E4%B8%83%E5%A4%95%E8%8A%82%E5%BF%AB%E4%B9%90%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子被女友亲到鼓膜破裂进医院](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A2%AB%E5%A5%B3%E5%8F%8B%E4%BA%B2%E5%88%B0%E9%BC%93%E8%86%9C%E7%A0%B4%E8%A3%82%E8%BF%9B%E5%8C%BB%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [民政局为七夕新人准备誓词和汉服](https://www.baidu.com/s?wd=%E6%B0%91%E6%94%BF%E5%B1%80%E4%B8%BA%E4%B8%83%E5%A4%95%E6%96%B0%E4%BA%BA%E5%87%86%E5%A4%87%E8%AA%93%E8%AF%8D%E5%92%8C%E6%B1%89%E6%9C%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [高中免费教育 真的要来了？](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%AD%E5%85%8D%E8%B4%B9%E6%95%99%E8%82%B2+%E7%9C%9F%E7%9A%84%E8%A6%81%E6%9D%A5%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [驻缅使馆称正全力解救中科院博士](https://www.baidu.com/s?wd=%E9%A9%BB%E7%BC%85%E4%BD%BF%E9%A6%86%E7%A7%B0%E6%AD%A3%E5%85%A8%E5%8A%9B%E8%A7%A3%E6%95%91%E4%B8%AD%E7%A7%91%E9%99%A2%E5%8D%9A%E5%A3%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [高中免费教育 真的要来了？](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%AD%E5%85%8D%E8%B4%B9%E6%95%99%E8%82%B2+%E7%9C%9F%E7%9A%84%E8%A6%81%E6%9D%A5%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [民政局为七夕新人准备誓词和汉服](https://www.baidu.com/s?wd=%E6%B0%91%E6%94%BF%E5%B1%80%E4%B8%BA%E4%B8%83%E5%A4%95%E6%96%B0%E4%BA%BA%E5%87%86%E5%A4%87%E8%AA%93%E8%AF%8D%E5%92%8C%E6%B1%89%E6%9C%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女孩养蚕做百家被给姐姐当嫁妆](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%85%BB%E8%9A%95%E5%81%9A%E7%99%BE%E5%AE%B6%E8%A2%AB%E7%BB%99%E5%A7%90%E5%A7%90%E5%BD%93%E5%AB%81%E5%A6%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -35,6 +35,6 @@
 4. [让世界听到更多的金砖声音](https://www.baidu.com/s?wd=%E8%AE%A9%E4%B8%96%E7%95%8C%E5%90%AC%E5%88%B0%E6%9B%B4%E5%A4%9A%E7%9A%84%E9%87%91%E7%A0%96%E5%A3%B0%E9%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [#七夕节快乐#](https://www.baidu.com/s?wd=%23%E4%B8%83%E5%A4%95%E8%8A%82%E5%BF%AB%E4%B9%90%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子被女友亲到鼓膜破裂进医院](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A2%AB%E5%A5%B3%E5%8F%8B%E4%BA%B2%E5%88%B0%E9%BC%93%E8%86%9C%E7%A0%B4%E8%A3%82%E8%BF%9B%E5%8C%BB%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [民政局为七夕新人准备誓词和汉服](https://www.baidu.com/s?wd=%E6%B0%91%E6%94%BF%E5%B1%80%E4%B8%BA%E4%B8%83%E5%A4%95%E6%96%B0%E4%BA%BA%E5%87%86%E5%A4%87%E8%AA%93%E8%AF%8D%E5%92%8C%E6%B1%89%E6%9C%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [高中免费教育 真的要来了？](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%AD%E5%85%8D%E8%B4%B9%E6%95%99%E8%82%B2+%E7%9C%9F%E7%9A%84%E8%A6%81%E6%9D%A5%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [驻缅使馆称正全力解救中科院博士](https://www.baidu.com/s?wd=%E9%A9%BB%E7%BC%85%E4%BD%BF%E9%A6%86%E7%A7%B0%E6%AD%A3%E5%85%A8%E5%8A%9B%E8%A7%A3%E6%95%91%E4%B8%AD%E7%A7%91%E9%99%A2%E5%8D%9A%E5%A3%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [高中免费教育 真的要来了？](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%AD%E5%85%8D%E8%B4%B9%E6%95%99%E8%82%B2+%E7%9C%9F%E7%9A%84%E8%A6%81%E6%9D%A5%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [民政局为七夕新人准备誓词和汉服](https://www.baidu.com/s?wd=%E6%B0%91%E6%94%BF%E5%B1%80%E4%B8%BA%E4%B8%83%E5%A4%95%E6%96%B0%E4%BA%BA%E5%87%86%E5%A4%87%E8%AA%93%E8%AF%8D%E5%92%8C%E6%B1%89%E6%9C%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女孩养蚕做百家被给姐姐当嫁妆](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%85%BB%E8%9A%95%E5%81%9A%E7%99%BE%E5%AE%B6%E8%A2%AB%E7%BB%99%E5%A7%90%E5%A7%90%E5%BD%93%E5%AB%81%E5%A6%86&sa=fyb_news&rsv_dl=fyb_news)<br />
