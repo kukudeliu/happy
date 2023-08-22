@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-22 21:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-22 21:42:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [檀健次直播](https://s.weibo.com/weibo?q=%E6%AA%80%E5%81%A5%E6%AC%A1%E7%9B%B4%E6%92%AD&t=31&band_rank=5&Refer=top)<br />
 6. [央视七夕晚会](https://s.weibo.com/weibo?q=%E5%A4%AE%E8%A7%86%E4%B8%83%E5%A4%95%E6%99%9A%E4%BC%9A&t=31&band_rank=6&Refer=top)<br />
 7. [七夕](https://s.weibo.com/weibo?q=%E4%B8%83%E5%A4%95&t=31&band_rank=7&Refer=top)<br />
-8. [华晨宇演唱会让黄牛别来沾边](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E6%BC%94%E5%94%B1%E4%BC%9A%E8%AE%A9%E9%BB%84%E7%89%9B%E5%88%AB%E6%9D%A5%E6%B2%BE%E8%BE%B9%23&t=31&band_rank=8&Refer=top)<br />
+8. [欧美纯爱四大名著](https://s.weibo.com/weibo?q=%E6%AC%A7%E7%BE%8E%E7%BA%AF%E7%88%B1%E5%9B%9B%E5%A4%A7%E5%90%8D%E8%91%97&t=31&band_rank=8&Refer=top)<br />
 9. [天官赐福动画](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E5%AE%98%E8%B5%90%E7%A6%8F%E5%8A%A8%E7%94%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -18,23 +18,23 @@
 > 百度  
 
 1. [踏上“彩虹之国”的热土](https://www.baidu.com/s?wd=%E8%B8%8F%E4%B8%8A%E2%80%9C%E5%BD%A9%E8%99%B9%E4%B9%8B%E5%9B%BD%E2%80%9D%E7%9A%84%E7%83%AD%E5%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [洛阳不明物体将地面砸出坑?消防回应](https://www.baidu.com/s?wd=%E6%B4%9B%E9%98%B3%E4%B8%8D%E6%98%8E%E7%89%A9%E4%BD%93%E5%B0%86%E5%9C%B0%E9%9D%A2%E7%A0%B8%E5%87%BA%E5%9D%91%3F%E6%B6%88%E9%98%B2%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [专家认为年轻人缺乏谈情说爱能力](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E8%AE%A4%E4%B8%BA%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%BC%BA%E4%B9%8F%E8%B0%88%E6%83%85%E8%AF%B4%E7%88%B1%E8%83%BD%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [29.9元的“钻戒”卖超10万单](https://www.baidu.com/s?wd=29.9%E5%85%83%E7%9A%84%E2%80%9C%E9%92%BB%E6%88%92%E2%80%9D%E5%8D%96%E8%B6%8510%E4%B8%87%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [研究：日本核污水排海240天到达中国](https://www.baidu.com/s?wd=%E7%A0%94%E7%A9%B6%EF%BC%9A%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E6%B5%B7240%E5%A4%A9%E5%88%B0%E8%BE%BE%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [让世界听到更多的金砖声音](https://www.baidu.com/s?wd=%E8%AE%A9%E4%B8%96%E7%95%8C%E5%90%AC%E5%88%B0%E6%9B%B4%E5%A4%9A%E7%9A%84%E9%87%91%E7%A0%96%E5%A3%B0%E9%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [央视七夕晚会](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E4%B8%83%E5%A4%95%E6%99%9A%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [研究：日本核污水排海240天到达中国](https://www.baidu.com/s?wd=%E7%A0%94%E7%A9%B6%EF%BC%9A%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E6%B5%B7240%E5%A4%A9%E5%88%B0%E8%BE%BE%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [福建一地倡议为岳父母买保险代替彩礼](https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E4%B8%80%E5%9C%B0%E5%80%A1%E8%AE%AE%E4%B8%BA%E5%B2%B3%E7%88%B6%E6%AF%8D%E4%B9%B0%E4%BF%9D%E9%99%A9%E4%BB%A3%E6%9B%BF%E5%BD%A9%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [福建一地倡议为岳父母买保险代替彩礼](https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E4%B8%80%E5%9C%B0%E5%80%A1%E8%AE%AE%E4%B8%BA%E5%B2%B3%E7%88%B6%E6%AF%8D%E4%B9%B0%E4%BF%9D%E9%99%A9%E4%BB%A3%E6%9B%BF%E5%BD%A9%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [微信回应七夕关闭运动步数](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E5%9B%9E%E5%BA%94%E4%B8%83%E5%A4%95%E5%85%B3%E9%97%AD%E8%BF%90%E5%8A%A8%E6%AD%A5%E6%95%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#每帧都心动#](https://www.baidu.com/s?wd=%23%E6%AF%8F%E5%B8%A7%E9%83%BD%E5%BF%83%E5%8A%A8%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子被骗缅甸遇害 埋尸地未找到尸体](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A2%AB%E9%AA%97%E7%BC%85%E7%94%B8%E9%81%87%E5%AE%B3+%E5%9F%8B%E5%B0%B8%E5%9C%B0%E6%9C%AA%E6%89%BE%E5%88%B0%E5%B0%B8%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [警方：窨井两男尸系检修设备时溺亡](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%EF%BC%9A%E7%AA%A8%E4%BA%95%E4%B8%A4%E7%94%B7%E5%B0%B8%E7%B3%BB%E6%A3%80%E4%BF%AE%E8%AE%BE%E5%A4%87%E6%97%B6%E6%BA%BA%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [踏上“彩虹之国”的热土](https://www.baidu.com/s?wd=%E8%B8%8F%E4%B8%8A%E2%80%9C%E5%BD%A9%E8%99%B9%E4%B9%8B%E5%9B%BD%E2%80%9D%E7%9A%84%E7%83%AD%E5%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [洛阳不明物体将地面砸出坑?消防回应](https://www.baidu.com/s?wd=%E6%B4%9B%E9%98%B3%E4%B8%8D%E6%98%8E%E7%89%A9%E4%BD%93%E5%B0%86%E5%9C%B0%E9%9D%A2%E7%A0%B8%E5%87%BA%E5%9D%91%3F%E6%B6%88%E9%98%B2%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [专家认为年轻人缺乏谈情说爱能力](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E8%AE%A4%E4%B8%BA%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%BC%BA%E4%B9%8F%E8%B0%88%E6%83%85%E8%AF%B4%E7%88%B1%E8%83%BD%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [29.9元的“钻戒”卖超10万单](https://www.baidu.com/s?wd=29.9%E5%85%83%E7%9A%84%E2%80%9C%E9%92%BB%E6%88%92%E2%80%9D%E5%8D%96%E8%B6%8510%E4%B8%87%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [研究：日本核污水排海240天到达中国](https://www.baidu.com/s?wd=%E7%A0%94%E7%A9%B6%EF%BC%9A%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E6%B5%B7240%E5%A4%A9%E5%88%B0%E8%BE%BE%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [让世界听到更多的金砖声音](https://www.baidu.com/s?wd=%E8%AE%A9%E4%B8%96%E7%95%8C%E5%90%AC%E5%88%B0%E6%9B%B4%E5%A4%9A%E7%9A%84%E9%87%91%E7%A0%96%E5%A3%B0%E9%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [央视七夕晚会](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E4%B8%83%E5%A4%95%E6%99%9A%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [研究：日本核污水排海240天到达中国](https://www.baidu.com/s?wd=%E7%A0%94%E7%A9%B6%EF%BC%9A%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E6%B5%B7240%E5%A4%A9%E5%88%B0%E8%BE%BE%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [福建一地倡议为岳父母买保险代替彩礼](https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E4%B8%80%E5%9C%B0%E5%80%A1%E8%AE%AE%E4%B8%BA%E5%B2%B3%E7%88%B6%E6%AF%8D%E4%B9%B0%E4%BF%9D%E9%99%A9%E4%BB%A3%E6%9B%BF%E5%BD%A9%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [福建一地倡议为岳父母买保险代替彩礼](https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E4%B8%80%E5%9C%B0%E5%80%A1%E8%AE%AE%E4%B8%BA%E5%B2%B3%E7%88%B6%E6%AF%8D%E4%B9%B0%E4%BF%9D%E9%99%A9%E4%BB%A3%E6%9B%BF%E5%BD%A9%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [微信回应七夕关闭运动步数](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E5%9B%9E%E5%BA%94%E4%B8%83%E5%A4%95%E5%85%B3%E9%97%AD%E8%BF%90%E5%8A%A8%E6%AD%A5%E6%95%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#每帧都心动#](https://www.baidu.com/s?wd=%23%E6%AF%8F%E5%B8%A7%E9%83%BD%E5%BF%83%E5%8A%A8%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子被骗缅甸遇害 埋尸地未找到尸体](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A2%AB%E9%AA%97%E7%BC%85%E7%94%B8%E9%81%87%E5%AE%B3+%E5%9F%8B%E5%B0%B8%E5%9C%B0%E6%9C%AA%E6%89%BE%E5%88%B0%E5%B0%B8%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [警方：窨井两男尸系检修设备时溺亡](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%EF%BC%9A%E7%AA%A8%E4%BA%95%E4%B8%A4%E7%94%B7%E5%B0%B8%E7%B3%BB%E6%A3%80%E4%BF%AE%E8%AE%BE%E5%A4%87%E6%97%B6%E6%BA%BA%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
