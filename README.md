@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-22 17:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-22 17:52:02</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [邓为 华伦天奴](https://s.weibo.com/weibo?q=%E9%82%93%E4%B8%BA%20%E5%8D%8E%E4%BC%A6%E5%A4%A9%E5%A5%B4&t=31&band_rank=4&Refer=top)<br />
 5. [除了沙溢没人愿意承认这张照片](https://s.weibo.com/weibo?q=%E9%99%A4%E4%BA%86%E6%B2%99%E6%BA%A2%E6%B2%A1%E4%BA%BA%E6%84%BF%E6%84%8F%E6%89%BF%E8%AE%A4%E8%BF%99%E5%BC%A0%E7%85%A7%E7%89%87&t=31&band_rank=5&Refer=top)<br />
 6. [天津着火大厦火情已被控制](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E7%9D%80%E7%81%AB%E5%A4%A7%E5%8E%A6%E7%81%AB%E6%83%85%E5%B7%B2%E8%A2%AB%E6%8E%A7%E5%88%B6%23&t=31&band_rank=6&Refer=top)<br />
-7. [缅甸高官首度回应缅北诈骗](https://s.weibo.com/weibo?q=%23%E7%BC%85%E7%94%B8%E9%AB%98%E5%AE%98%E9%A6%96%E5%BA%A6%E5%9B%9E%E5%BA%94%E7%BC%85%E5%8C%97%E8%AF%88%E9%AA%97%23&t=31&band_rank=7&Refer=top)<br />
-8. [上海暴雨](https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E6%9A%B4%E9%9B%A8&t=31&band_rank=8&Refer=top)<br />
+7. [上海暴雨](https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E6%9A%B4%E9%9B%A8&t=31&band_rank=7&Refer=top)<br />
+8. [缅甸高官首度回应缅北诈骗](https://s.weibo.com/weibo?q=%23%E7%BC%85%E7%94%B8%E9%AB%98%E5%AE%98%E9%A6%96%E5%BA%A6%E5%9B%9E%E5%BA%94%E7%BC%85%E5%8C%97%E8%AF%88%E9%AA%97%23&t=31&band_rank=8&Refer=top)<br />
 9. [情侣七夕熬夜排队5小时领证2分钟](https://s.weibo.com/weibo?q=%23%E6%83%85%E4%BE%A3%E4%B8%83%E5%A4%95%E7%86%AC%E5%A4%9C%E6%8E%92%E9%98%9F5%E5%B0%8F%E6%97%B6%E9%A2%86%E8%AF%812%E5%88%86%E9%92%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
