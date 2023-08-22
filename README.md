@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-22 23:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-22 23:26:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [一条MV换郑恺一条命](https://s.weibo.com/weibo?q=%E4%B8%80%E6%9D%A1MV%E6%8D%A2%E9%83%91%E6%81%BA%E4%B8%80%E6%9D%A1%E5%91%BD&t=31&band_rank=6&Refer=top)<br />
 7. [新疆吐鲁番西瓜5元一个也难卖](https://s.weibo.com/weibo?q=%E6%96%B0%E7%96%86%E5%90%90%E9%B2%81%E7%95%AA%E8%A5%BF%E7%93%9C5%E5%85%83%E4%B8%80%E4%B8%AA%E4%B9%9F%E9%9A%BE%E5%8D%96&t=31&band_rank=7&Refer=top)<br />
 8. [供电局回应员工家属疑炫富事件](https://s.weibo.com/weibo?q=%23%E4%BE%9B%E7%94%B5%E5%B1%80%E5%9B%9E%E5%BA%94%E5%91%98%E5%B7%A5%E5%AE%B6%E5%B1%9E%E7%96%91%E7%82%AB%E5%AF%8C%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=8&Refer=top)<br />
-9. [一个人坐高铁行李箱只能放脚下](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E4%BA%BA%E5%9D%90%E9%AB%98%E9%93%81%E8%A1%8C%E6%9D%8E%E7%AE%B1%E5%8F%AA%E8%83%BD%E6%94%BE%E8%84%9A%E4%B8%8B%23&t=31&band_rank=9&Refer=top)<br />
+9. [刘彰巡演回应](https://s.weibo.com/weibo?q=%E5%88%98%E5%BD%B0%E5%B7%A1%E6%BC%94%E5%9B%9E%E5%BA%94&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
