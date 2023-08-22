@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-22 18:18:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-22 18:19:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [陕西延安一煤矿闪爆致11人遇难](https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF%E5%BB%B6%E5%AE%89%E4%B8%80%E7%85%A4%E7%9F%BF%E9%97%AA%E7%88%86%E8%87%B411%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男朋友送的花能有多丑](https://www.baidu.com/s?wd=%E7%94%B7%E6%9C%8B%E5%8F%8B%E9%80%81%E7%9A%84%E8%8A%B1%E8%83%BD%E6%9C%89%E5%A4%9A%E4%B8%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#每帧都心动#](https://www.baidu.com/s?wd=%23%E6%AF%8F%E5%B8%A7%E9%83%BD%E5%BF%83%E5%8A%A8%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [高中免费教育 真的要来了？](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%AD%E5%85%8D%E8%B4%B9%E6%95%99%E8%82%B2+%E7%9C%9F%E7%9A%84%E8%A6%81%E6%9D%A5%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [妈妈偷走录取通知书阻挠女儿入学](https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E5%81%B7%E8%B5%B0%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E9%98%BB%E6%8C%A0%E5%A5%B3%E5%84%BF%E5%85%A5%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [陕西延安一煤矿闪爆致11人遇难](https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF%E5%BB%B6%E5%AE%89%E4%B8%80%E7%85%A4%E7%9F%BF%E9%97%AA%E7%88%86%E8%87%B411%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男朋友送的花能有多丑](https://www.baidu.com/s?wd=%E7%94%B7%E6%9C%8B%E5%8F%8B%E9%80%81%E7%9A%84%E8%8A%B1%E8%83%BD%E6%9C%89%E5%A4%9A%E4%B8%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#每帧都心动#](https://www.baidu.com/s?wd=%23%E6%AF%8F%E5%B8%A7%E9%83%BD%E5%BF%83%E5%8A%A8%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [高中免费教育 真的要来了？](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%AD%E5%85%8D%E8%B4%B9%E6%95%99%E8%82%B2+%E7%9C%9F%E7%9A%84%E8%A6%81%E6%9D%A5%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [妈妈偷走录取通知书阻挠女儿入学](https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E5%81%B7%E8%B5%B0%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E9%98%BB%E6%8C%A0%E5%A5%B3%E5%84%BF%E5%85%A5%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
