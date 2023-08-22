@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-22 18:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-22 18:13:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [消防员与女友约会队友边看边指导](https://s.weibo.com/weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E4%B8%8E%E5%A5%B3%E5%8F%8B%E7%BA%A6%E4%BC%9A%E9%98%9F%E5%8F%8B%E8%BE%B9%E7%9C%8B%E8%BE%B9%E6%8C%87%E5%AF%BC%23&t=31&band_rank=5&Refer=top)<br />
 6. [除了沙溢没人愿意承认这张照片](https://s.weibo.com/weibo?q=%E9%99%A4%E4%BA%86%E6%B2%99%E6%BA%A2%E6%B2%A1%E4%BA%BA%E6%84%BF%E6%84%8F%E6%89%BF%E8%AE%A4%E8%BF%99%E5%BC%A0%E7%85%A7%E7%89%87&t=31&band_rank=6&Refer=top)<br />
 7. [民政局为七夕新人准备誓词和汉服](https://s.weibo.com/weibo?q=%23%E6%B0%91%E6%94%BF%E5%B1%80%E4%B8%BA%E4%B8%83%E5%A4%95%E6%96%B0%E4%BA%BA%E5%87%86%E5%A4%87%E8%AA%93%E8%AF%8D%E5%92%8C%E6%B1%89%E6%9C%8D%23&t=31&band_rank=7&Refer=top)<br />
-8. [封神第一部票房破23亿](https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E%E7%AC%AC%E4%B8%80%E9%83%A8%E7%A5%A8%E6%88%BF%E7%A0%B423%E4%BA%BF%23&t=31&band_rank=8&Refer=top)<br />
-9. [缅甸高官首度回应缅北诈骗](https://s.weibo.com/weibo?q=%23%E7%BC%85%E7%94%B8%E9%AB%98%E5%AE%98%E9%A6%96%E5%BA%A6%E5%9B%9E%E5%BA%94%E7%BC%85%E5%8C%97%E8%AF%88%E9%AA%97%23&t=31&band_rank=9&Refer=top)<br />
+8. [缅甸高官首度回应缅北诈骗](https://s.weibo.com/weibo?q=%23%E7%BC%85%E7%94%B8%E9%AB%98%E5%AE%98%E9%A6%96%E5%BA%A6%E5%9B%9E%E5%BA%94%E7%BC%85%E5%8C%97%E8%AF%88%E9%AA%97%23&t=31&band_rank=8&Refer=top)<br />
+9. [封神第一部票房破23亿](https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E%E7%AC%AC%E4%B8%80%E9%83%A8%E7%A5%A8%E6%88%BF%E7%A0%B423%E4%BA%BF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
