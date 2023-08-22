@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-22 21:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-22 21:44:02</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [福建一地倡议为岳父母买保险代替彩礼](https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E4%B8%80%E5%9C%B0%E5%80%A1%E8%AE%AE%E4%B8%BA%E5%B2%B3%E7%88%B6%E6%AF%8D%E4%B9%B0%E4%BF%9D%E9%99%A9%E4%BB%A3%E6%9B%BF%E5%BD%A9%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [微信回应七夕关闭运动步数](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E5%9B%9E%E5%BA%94%E4%B8%83%E5%A4%95%E5%85%B3%E9%97%AD%E8%BF%90%E5%8A%A8%E6%AD%A5%E6%95%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#每帧都心动#](https://www.baidu.com/s?wd=%23%E6%AF%8F%E5%B8%A7%E9%83%BD%E5%BF%83%E5%8A%A8%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [警方：窨井两男尸系检修设备时溺亡](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%EF%BC%9A%E7%AA%A8%E4%BA%95%E4%B8%A4%E7%94%B7%E5%B0%B8%E7%B3%BB%E6%A3%80%E4%BF%AE%E8%AE%BE%E5%A4%87%E6%97%B6%E6%BA%BA%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [家属称遗体还没火化骨灰就已出炉](https://www.baidu.com/s?wd=%E5%AE%B6%E5%B1%9E%E7%A7%B0%E9%81%97%E4%BD%93%E8%BF%98%E6%B2%A1%E7%81%AB%E5%8C%96%E9%AA%A8%E7%81%B0%E5%B0%B1%E5%B7%B2%E5%87%BA%E7%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [福建一地倡议为岳父母买保险代替彩礼](https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E4%B8%80%E5%9C%B0%E5%80%A1%E8%AE%AE%E4%B8%BA%E5%B2%B3%E7%88%B6%E6%AF%8D%E4%B9%B0%E4%BF%9D%E9%99%A9%E4%BB%A3%E6%9B%BF%E5%BD%A9%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [微信回应七夕关闭运动步数](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E5%9B%9E%E5%BA%94%E4%B8%83%E5%A4%95%E5%85%B3%E9%97%AD%E8%BF%90%E5%8A%A8%E6%AD%A5%E6%95%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#每帧都心动#](https://www.baidu.com/s?wd=%23%E6%AF%8F%E5%B8%A7%E9%83%BD%E5%BF%83%E5%8A%A8%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [警方：窨井两男尸系检修设备时溺亡](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%EF%BC%9A%E7%AA%A8%E4%BA%95%E4%B8%A4%E7%94%B7%E5%B0%B8%E7%B3%BB%E6%A3%80%E4%BF%AE%E8%AE%BE%E5%A4%87%E6%97%B6%E6%BA%BA%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [家属称遗体还没火化骨灰就已出炉](https://www.baidu.com/s?wd=%E5%AE%B6%E5%B1%9E%E7%A7%B0%E9%81%97%E4%BD%93%E8%BF%98%E6%B2%A1%E7%81%AB%E5%8C%96%E9%AA%A8%E7%81%B0%E5%B0%B1%E5%B7%B2%E5%87%BA%E7%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
