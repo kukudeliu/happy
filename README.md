@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-24 00:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-24 00:45:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [一路朝阳导演谁啊](https://s.weibo.com/weibo?q=%E4%B8%80%E8%B7%AF%E6%9C%9D%E9%98%B3%E5%AF%BC%E6%BC%94%E8%B0%81%E5%95%8A&t=31&band_rank=6&Refer=top)<br />
 7. [七夕晚上翻了二十多个垃圾桶](https://s.weibo.com/weibo?q=%E4%B8%83%E5%A4%95%E6%99%9A%E4%B8%8A%E7%BF%BB%E4%BA%86%E4%BA%8C%E5%8D%81%E5%A4%9A%E4%B8%AA%E5%9E%83%E5%9C%BE%E6%A1%B6&t=31&band_rank=7&Refer=top)<br />
 8. [俞灏明多年后调侃端木磊造型](https://s.weibo.com/weibo?q=%23%E4%BF%9E%E7%81%8F%E6%98%8E%E5%A4%9A%E5%B9%B4%E5%90%8E%E8%B0%83%E4%BE%83%E7%AB%AF%E6%9C%A8%E7%A3%8A%E9%80%A0%E5%9E%8B%23&t=31&band_rank=8&Refer=top)<br />
-9. [核污染水](https://s.weibo.com/weibo?q=%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4&t=31&band_rank=9&Refer=top)<br />
+9. [东方树叶 三得利](https://s.weibo.com/weibo?q=%E4%B8%9C%E6%96%B9%E6%A0%91%E5%8F%B6%20%E4%B8%89%E5%BE%97%E5%88%A9&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
