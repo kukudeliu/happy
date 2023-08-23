@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-23 08:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-23 08:40:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [乌尔善大爆料封神第二部](https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%B0%94%E5%96%84%E5%A4%A7%E7%88%86%E6%96%99%E5%B0%81%E7%A5%9E%E7%AC%AC%E4%BA%8C%E9%83%A8%23&t=31&band_rank=6&Refer=top)<br />
 7. [苏翊鸣 恋爱](https://s.weibo.com/weibo?q=%E8%8B%8F%E7%BF%8A%E9%B8%A3%20%E6%81%8B%E7%88%B1&t=31&band_rank=7&Refer=top)<br />
 8. [邓为也念念不忘杨紫的烧烤](https://s.weibo.com/weibo?q=%23%E9%82%93%E4%B8%BA%E4%B9%9F%E5%BF%B5%E5%BF%B5%E4%B8%8D%E5%BF%98%E6%9D%A8%E7%B4%AB%E7%9A%84%E7%83%A7%E7%83%A4%23&t=31&band_rank=8&Refer=top)<br />
-9. [男子中奖1000万彩票粘手机壳取不下](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%AD%E5%A5%961000%E4%B8%87%E5%BD%A9%E7%A5%A8%E7%B2%98%E6%89%8B%E6%9C%BA%E5%A3%B3%E5%8F%96%E4%B8%8D%E4%B8%8B%23&t=31&band_rank=9&Refer=top)<br />
+9. [燃冬](https://s.weibo.com/weibo?q=%E7%87%83%E5%86%AC&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
