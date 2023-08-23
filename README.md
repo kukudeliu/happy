@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-23 17:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-23 17:42:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [日媒称24号核污染水排海可能取消](https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%AA%92%E7%A7%B024%E5%8F%B7%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%B5%B7%E5%8F%AF%E8%83%BD%E5%8F%96%E6%B6%88%23&t=31&band_rank=6&Refer=top)<br />
 7. [科学家在各种女性卫生用品中发现永久危险物质](https://s.weibo.com/weibo?q=%23%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%9C%A8%E5%90%84%E7%A7%8D%E5%A5%B3%E6%80%A7%E5%8D%AB%E7%94%9F%E7%94%A8%E5%93%81%E4%B8%AD%E5%8F%91%E7%8E%B0%E6%B0%B8%E4%B9%85%E5%8D%B1%E9%99%A9%E7%89%A9%E8%B4%A8%23&t=31&band_rank=7&Refer=top)<br />
 8. [法院说夭玹可以结婚](https://s.weibo.com/weibo?q=%23%E6%B3%95%E9%99%A2%E8%AF%B4%E5%A4%AD%E7%8E%B9%E5%8F%AF%E4%BB%A5%E7%BB%93%E5%A9%9A%23&t=31&band_rank=8&Refer=top)<br />
-9. [iPhone15Pro被曝的21项变化](https://s.weibo.com/weibo?q=%23iPhone15Pro%E8%A2%AB%E6%9B%9D%E7%9A%8421%E9%A1%B9%E5%8F%98%E5%8C%96%23&t=31&band_rank=9&Refer=top)<br />
+9. [燃冬豆瓣开分6.3](https://s.weibo.com/weibo?q=%23%E7%87%83%E5%86%AC%E8%B1%86%E7%93%A3%E5%BC%80%E5%88%866.3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
