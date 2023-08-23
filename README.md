@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-23 14:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-23 14:20:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [央媒称并非所有人都适合体制内工作](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E5%AA%92%E7%A7%B0%E5%B9%B6%E9%9D%9E%E6%89%80%E6%9C%89%E4%BA%BA%E9%83%BD%E9%80%82%E5%90%88%E4%BD%93%E5%88%B6%E5%86%85%E5%B7%A5%E4%BD%9C%23&t=31&band_rank=6&Refer=top)<br />
 7. [男子被骗缅甸家属被告知已遭杀害](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%A2%AB%E9%AA%97%E7%BC%85%E7%94%B8%E5%AE%B6%E5%B1%9E%E8%A2%AB%E5%91%8A%E7%9F%A5%E5%B7%B2%E9%81%AD%E6%9D%80%E5%AE%B3%23&t=31&band_rank=7&Refer=top)<br />
 8. [餐厅6片莴笋售价98元](https://s.weibo.com/weibo?q=%23%E9%A4%90%E5%8E%856%E7%89%87%E8%8E%B4%E7%AC%8B%E5%94%AE%E4%BB%B798%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [七夕后的垃圾桶](https://s.weibo.com/weibo?q=%E4%B8%83%E5%A4%95%E5%90%8E%E7%9A%84%E5%9E%83%E5%9C%BE%E6%A1%B6&t=31&band_rank=9&Refer=top)<br />
+9. [从日本进口的海鲜还能吃吗](https://s.weibo.com/weibo?q=%23%E4%BB%8E%E6%97%A5%E6%9C%AC%E8%BF%9B%E5%8F%A3%E7%9A%84%E6%B5%B7%E9%B2%9C%E8%BF%98%E8%83%BD%E5%90%83%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
