@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-23 22:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-23 22:54:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [中国没有称王称霸的基因](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B2%A1%E6%9C%89%E7%A7%B0%E7%8E%8B%E7%A7%B0%E9%9C%B8%E7%9A%84%E5%9F%BA%E5%9B%A0%23&t=31&band_rank=3&Refer=top)<br />
 4. [日媒称24号核污染水排海可能取消](https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%AA%92%E7%A7%B024%E5%8F%B7%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%B5%B7%E5%8F%AF%E8%83%BD%E5%8F%96%E6%B6%88%23&t=31&band_rank=4&Refer=top)<br />
 5. [导致脊柱侧弯的元凶](https://s.weibo.com/weibo?q=%E5%AF%BC%E8%87%B4%E8%84%8A%E6%9F%B1%E4%BE%A7%E5%BC%AF%E7%9A%84%E5%85%83%E5%87%B6&t=31&band_rank=5&Refer=top)<br />
-6. [研究称吃薯条可能会抑郁](https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E7%A7%B0%E5%90%83%E8%96%AF%E6%9D%A1%E5%8F%AF%E8%83%BD%E4%BC%9A%E6%8A%91%E9%83%81%23&t=31&band_rank=6&Refer=top)<br />
-7. [奶茶店遭遇120杯奶茶订单诈骗](https://s.weibo.com/weibo?q=%23%E5%A5%B6%E8%8C%B6%E5%BA%97%E9%81%AD%E9%81%87120%E6%9D%AF%E5%A5%B6%E8%8C%B6%E8%AE%A2%E5%8D%95%E8%AF%88%E9%AA%97%23&t=31&band_rank=7&Refer=top)<br />
-8. [被偷走录取通知书女生称妈妈已同意她去中戏](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%81%B7%E8%B5%B0%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E5%A5%B3%E7%94%9F%E7%A7%B0%E5%A6%88%E5%A6%88%E5%B7%B2%E5%90%8C%E6%84%8F%E5%A5%B9%E5%8E%BB%E4%B8%AD%E6%88%8F%23&t=31&band_rank=8&Refer=top)<br />
+6. [被偷走录取通知书女生称妈妈已同意她去中戏](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%81%B7%E8%B5%B0%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E5%A5%B3%E7%94%9F%E7%A7%B0%E5%A6%88%E5%A6%88%E5%B7%B2%E5%90%8C%E6%84%8F%E5%A5%B9%E5%8E%BB%E4%B8%AD%E6%88%8F%23&t=31&band_rank=6&Refer=top)<br />
+7. [研究称吃薯条可能会抑郁](https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E7%A7%B0%E5%90%83%E8%96%AF%E6%9D%A1%E5%8F%AF%E8%83%BD%E4%BC%9A%E6%8A%91%E9%83%81%23&t=31&band_rank=7&Refer=top)<br />
+8. [奶茶店遭遇120杯奶茶订单诈骗](https://s.weibo.com/weibo?q=%23%E5%A5%B6%E8%8C%B6%E5%BA%97%E9%81%AD%E9%81%87120%E6%9D%AF%E5%A5%B6%E8%8C%B6%E8%AE%A2%E5%8D%95%E8%AF%88%E9%AA%97%23&t=31&band_rank=8&Refer=top)<br />
 9. [大连地震](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%BF%9E%E5%9C%B0%E9%9C%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -22,10 +22,10 @@
 3. [福岛核污水排放或对美国影响更大](https://www.baidu.com/s?wd=%E7%A6%8F%E5%B2%9B%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E6%94%BE%E6%88%96%E5%AF%B9%E7%BE%8E%E5%9B%BD%E5%BD%B1%E5%93%8D%E6%9B%B4%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [共建更加美好的世界](https://www.baidu.com/s?wd=%E5%85%B1%E5%BB%BA%E6%9B%B4%E5%8A%A0%E7%BE%8E%E5%A5%BD%E7%9A%84%E4%B8%96%E7%95%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [大连4.6级地震 市民称晃到头晕](https://www.baidu.com/s?wd=%E5%A4%A7%E8%BF%9E4.6%E7%BA%A7%E5%9C%B0%E9%9C%87+%E5%B8%82%E6%B0%91%E7%A7%B0%E6%99%83%E5%88%B0%E5%A4%B4%E6%99%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [张艺谋：我不负责拍漂亮](https://www.baidu.com/s?wd=%E5%BC%A0%E8%89%BA%E8%B0%8B%EF%BC%9A%E6%88%91%E4%B8%8D%E8%B4%9F%E8%B4%A3%E6%8B%8D%E6%BC%82%E4%BA%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [官方回应保安倒掉罕见病患接过的水](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E4%BF%9D%E5%AE%89%E5%80%92%E6%8E%89%E7%BD%95%E8%A7%81%E7%97%85%E6%82%A3%E6%8E%A5%E8%BF%87%E7%9A%84%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [七夕节两女子翻垃圾桶捡到金项链](https://www.baidu.com/s?wd=%E4%B8%83%E5%A4%95%E8%8A%82%E4%B8%A4%E5%A5%B3%E5%AD%90%E7%BF%BB%E5%9E%83%E5%9C%BE%E6%A1%B6%E6%8D%A1%E5%88%B0%E9%87%91%E9%A1%B9%E9%93%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子没给丈夫钱充手游被殴打失明](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%B2%A1%E7%BB%99%E4%B8%88%E5%A4%AB%E9%92%B1%E5%85%85%E6%89%8B%E6%B8%B8%E8%A2%AB%E6%AE%B4%E6%89%93%E5%A4%B1%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [女子称写炫富小作文是为了举报丈夫](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E5%86%99%E7%82%AB%E5%AF%8C%E5%B0%8F%E4%BD%9C%E6%96%87%E6%98%AF%E4%B8%BA%E4%BA%86%E4%B8%BE%E6%8A%A5%E4%B8%88%E5%A4%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [张艺谋：我不负责拍漂亮](https://www.baidu.com/s?wd=%E5%BC%A0%E8%89%BA%E8%B0%8B%EF%BC%9A%E6%88%91%E4%B8%8D%E8%B4%9F%E8%B4%A3%E6%8B%8D%E6%BC%82%E4%BA%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子为解决漏尿将吸水棉塞入尿道](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%BA%E8%A7%A3%E5%86%B3%E6%BC%8F%E5%B0%BF%E5%B0%86%E5%90%B8%E6%B0%B4%E6%A3%89%E5%A1%9E%E5%85%A5%E5%B0%BF%E9%81%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [七夕节两女子翻垃圾桶捡到金项链](https://www.baidu.com/s?wd=%E4%B8%83%E5%A4%95%E8%8A%82%E4%B8%A4%E5%A5%B3%E5%AD%90%E7%BF%BB%E5%9E%83%E5%9C%BE%E6%A1%B6%E6%8D%A1%E5%88%B0%E9%87%91%E9%A1%B9%E9%93%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -34,7 +34,7 @@
 3. [福岛核污水排放或对美国影响更大](https://www.baidu.com/s?wd=%E7%A6%8F%E5%B2%9B%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E6%94%BE%E6%88%96%E5%AF%B9%E7%BE%8E%E5%9B%BD%E5%BD%B1%E5%93%8D%E6%9B%B4%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [共建更加美好的世界](https://www.baidu.com/s?wd=%E5%85%B1%E5%BB%BA%E6%9B%B4%E5%8A%A0%E7%BE%8E%E5%A5%BD%E7%9A%84%E4%B8%96%E7%95%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [大连4.6级地震 市民称晃到头晕](https://www.baidu.com/s?wd=%E5%A4%A7%E8%BF%9E4.6%E7%BA%A7%E5%9C%B0%E9%9C%87+%E5%B8%82%E6%B0%91%E7%A7%B0%E6%99%83%E5%88%B0%E5%A4%B4%E6%99%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [张艺谋：我不负责拍漂亮](https://www.baidu.com/s?wd=%E5%BC%A0%E8%89%BA%E8%B0%8B%EF%BC%9A%E6%88%91%E4%B8%8D%E8%B4%9F%E8%B4%A3%E6%8B%8D%E6%BC%82%E4%BA%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [官方回应保安倒掉罕见病患接过的水](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E4%BF%9D%E5%AE%89%E5%80%92%E6%8E%89%E7%BD%95%E8%A7%81%E7%97%85%E6%82%A3%E6%8E%A5%E8%BF%87%E7%9A%84%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [七夕节两女子翻垃圾桶捡到金项链](https://www.baidu.com/s?wd=%E4%B8%83%E5%A4%95%E8%8A%82%E4%B8%A4%E5%A5%B3%E5%AD%90%E7%BF%BB%E5%9E%83%E5%9C%BE%E6%A1%B6%E6%8D%A1%E5%88%B0%E9%87%91%E9%A1%B9%E9%93%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子没给丈夫钱充手游被殴打失明](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%B2%A1%E7%BB%99%E4%B8%88%E5%A4%AB%E9%92%B1%E5%85%85%E6%89%8B%E6%B8%B8%E8%A2%AB%E6%AE%B4%E6%89%93%E5%A4%B1%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [女子称写炫富小作文是为了举报丈夫](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E5%86%99%E7%82%AB%E5%AF%8C%E5%B0%8F%E4%BD%9C%E6%96%87%E6%98%AF%E4%B8%BA%E4%BA%86%E4%B8%BE%E6%8A%A5%E4%B8%88%E5%A4%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [张艺谋：我不负责拍漂亮](https://www.baidu.com/s?wd=%E5%BC%A0%E8%89%BA%E8%B0%8B%EF%BC%9A%E6%88%91%E4%B8%8D%E8%B4%9F%E8%B4%A3%E6%8B%8D%E6%BC%82%E4%BA%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子为解决漏尿将吸水棉塞入尿道](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%BA%E8%A7%A3%E5%86%B3%E6%BC%8F%E5%B0%BF%E5%B0%86%E5%90%B8%E6%B0%B4%E6%A3%89%E5%A1%9E%E5%85%A5%E5%B0%BF%E9%81%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [七夕节两女子翻垃圾桶捡到金项链](https://www.baidu.com/s?wd=%E4%B8%83%E5%A4%95%E8%8A%82%E4%B8%A4%E5%A5%B3%E5%AD%90%E7%BF%BB%E5%9E%83%E5%9C%BE%E6%A1%B6%E6%8D%A1%E5%88%B0%E9%87%91%E9%A1%B9%E9%93%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
