@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-23 09:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-23 09:12:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [C罗怒喷傅明](https://s.weibo.com/weibo?q=%23C%E7%BD%97%E6%80%92%E5%96%B7%E5%82%85%E6%98%8E%23&t=31&band_rank=6&Refer=top)<br />
 7. [乌尔善大爆料封神第二部](https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%B0%94%E5%96%84%E5%A4%A7%E7%88%86%E6%96%99%E5%B0%81%E7%A5%9E%E7%AC%AC%E4%BA%8C%E9%83%A8%23&t=31&band_rank=7&Refer=top)<br />
 8. [日本为了自己划算不惜让全世界买单](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%BA%E4%BA%86%E8%87%AA%E5%B7%B1%E5%88%92%E7%AE%97%E4%B8%8D%E6%83%9C%E8%AE%A9%E5%85%A8%E4%B8%96%E7%95%8C%E4%B9%B0%E5%8D%95%23&t=31&band_rank=8&Refer=top)<br />
-9. [民政局直播新人领证仅12对登记](https://s.weibo.com/weibo?q=%23%E6%B0%91%E6%94%BF%E5%B1%80%E7%9B%B4%E6%92%AD%E6%96%B0%E4%BA%BA%E9%A2%86%E8%AF%81%E4%BB%8512%E5%AF%B9%E7%99%BB%E8%AE%B0%23&t=31&band_rank=9&Refer=top)<br />
+9. [王耀庆 演员看镜头会被导演骂](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%80%E5%BA%86%20%E6%BC%94%E5%91%98%E7%9C%8B%E9%95%9C%E5%A4%B4%E4%BC%9A%E8%A2%AB%E5%AF%BC%E6%BC%94%E9%AA%82&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
