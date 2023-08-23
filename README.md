@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-23 14:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-23 14:56:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [研究称日本核污水排海240天到达中国](https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E7%A7%B0%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E6%B5%B7240%E5%A4%A9%E5%88%B0%E8%BE%BE%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=6&Refer=top)<br />
 7. [男子被骗缅甸家属被告知已遭杀害](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%A2%AB%E9%AA%97%E7%BC%85%E7%94%B8%E5%AE%B6%E5%B1%9E%E8%A2%AB%E5%91%8A%E7%9F%A5%E5%B7%B2%E9%81%AD%E6%9D%80%E5%AE%B3%23&t=31&band_rank=7&Refer=top)<br />
 8. [从日本进口的海鲜还能吃吗](https://s.weibo.com/weibo?q=%23%E4%BB%8E%E6%97%A5%E6%9C%AC%E8%BF%9B%E5%8F%A3%E7%9A%84%E6%B5%B7%E9%B2%9C%E8%BF%98%E8%83%BD%E5%90%83%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [七夕后的垃圾桶](https://s.weibo.com/weibo?q=%E4%B8%83%E5%A4%95%E5%90%8E%E7%9A%84%E5%9E%83%E5%9C%BE%E6%A1%B6&t=31&band_rank=9&Refer=top)<br />
+9. [长空之王上映第118天票房逆跌](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%A9%BA%E4%B9%8B%E7%8E%8B%E4%B8%8A%E6%98%A0%E7%AC%AC118%E5%A4%A9%E7%A5%A8%E6%88%BF%E9%80%86%E8%B7%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
