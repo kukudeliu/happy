@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-23 23:10:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-23 23:11:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [中国没有称王称霸的基因](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B2%A1%E6%9C%89%E7%A7%B0%E7%8E%8B%E7%A7%B0%E9%9C%B8%E7%9A%84%E5%9F%BA%E5%9B%A0%23&t=31&band_rank=3&Refer=top)<br />
 4. [被偷走录取通知书女生称妈妈已同意她去中戏](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%81%B7%E8%B5%B0%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E5%A5%B3%E7%94%9F%E7%A7%B0%E5%A6%88%E5%A6%88%E5%B7%B2%E5%90%8C%E6%84%8F%E5%A5%B9%E5%8E%BB%E4%B8%AD%E6%88%8F%23&t=31&band_rank=4&Refer=top)<br />
 5. [日媒称24号核污染水排海可能取消](https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%AA%92%E7%A7%B024%E5%8F%B7%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%B5%B7%E5%8F%AF%E8%83%BD%E5%8F%96%E6%B6%88%23&t=31&band_rank=5&Refer=top)<br />
-6. [导致脊柱侧弯的元凶](https://s.weibo.com/weibo?q=%E5%AF%BC%E8%87%B4%E8%84%8A%E6%9F%B1%E4%BE%A7%E5%BC%AF%E7%9A%84%E5%85%83%E5%87%B6&t=31&band_rank=6&Refer=top)<br />
-7. [研究称吃薯条可能会抑郁](https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E7%A7%B0%E5%90%83%E8%96%AF%E6%9D%A1%E5%8F%AF%E8%83%BD%E4%BC%9A%E6%8A%91%E9%83%81%23&t=31&band_rank=7&Refer=top)<br />
+6. [24岁女生的退休生活](https://s.weibo.com/weibo?q=%2324%E5%B2%81%E5%A5%B3%E7%94%9F%E7%9A%84%E9%80%80%E4%BC%91%E7%94%9F%E6%B4%BB%23&t=31&band_rank=6&Refer=top)<br />
+7. [导致脊柱侧弯的元凶](https://s.weibo.com/weibo?q=%E5%AF%BC%E8%87%B4%E8%84%8A%E6%9F%B1%E4%BE%A7%E5%BC%AF%E7%9A%84%E5%85%83%E5%87%B6&t=31&band_rank=7&Refer=top)<br />
 8. [黎光有女儿了](https://s.weibo.com/weibo?q=%23%E9%BB%8E%E5%85%89%E6%9C%89%E5%A5%B3%E5%84%BF%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [姥爷总是把微信当成书信用](https://s.weibo.com/weibo?q=%E5%A7%A5%E7%88%B7%E6%80%BB%E6%98%AF%E6%8A%8A%E5%BE%AE%E4%BF%A1%E5%BD%93%E6%88%90%E4%B9%A6%E4%BF%A1%E7%94%A8&t=31&band_rank=9&Refer=top)<br />
+9. [研究称吃薯条可能会抑郁](https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E7%A7%B0%E5%90%83%E8%96%AF%E6%9D%A1%E5%8F%AF%E8%83%BD%E4%BC%9A%E6%8A%91%E9%83%81%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
