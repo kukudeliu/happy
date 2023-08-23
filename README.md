@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-23 18:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-23 18:10:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [李维嘉 是独居非老人](https://s.weibo.com/weibo?q=%E6%9D%8E%E7%BB%B4%E5%98%89%20%E6%98%AF%E7%8B%AC%E5%B1%85%E9%9D%9E%E8%80%81%E4%BA%BA&t=31&band_rank=6&Refer=top)<br />
 7. [新疆交警化身草原牧羊人护航转场](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E4%BA%A4%E8%AD%A6%E5%8C%96%E8%BA%AB%E8%8D%89%E5%8E%9F%E7%89%A7%E7%BE%8A%E4%BA%BA%E6%8A%A4%E8%88%AA%E8%BD%AC%E5%9C%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [中方不希望8月24日成海洋环境灾难日](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E4%B8%8D%E5%B8%8C%E6%9C%9B8%E6%9C%8824%E6%97%A5%E6%88%90%E6%B5%B7%E6%B4%8B%E7%8E%AF%E5%A2%83%E7%81%BE%E9%9A%BE%E6%97%A5%23&t=31&band_rank=8&Refer=top)<br />
-9. [金晨是30亿票房女主了](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E6%98%AF30%E4%BA%BF%E7%A5%A8%E6%88%BF%E5%A5%B3%E4%B8%BB%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [日媒称24号核污染水排海可能取消](https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%AA%92%E7%A7%B024%E5%8F%B7%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%B5%B7%E5%8F%AF%E8%83%BD%E5%8F%96%E6%B6%88%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
