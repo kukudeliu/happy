@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-23 11:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-23 11:24:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [情侣看燃冬 各自沉默](https://s.weibo.com/weibo?q=%E6%83%85%E4%BE%A3%E7%9C%8B%E7%87%83%E5%86%AC%20%E5%90%84%E8%87%AA%E6%B2%89%E9%BB%98&t=31&band_rank=6&Refer=top)<br />
 7. [韩国回应日本核污染水排海](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%B5%B7%23&t=31&band_rank=7&Refer=top)<br />
 8. [王阳 叔圈天菜](https://s.weibo.com/weibo?q=%E7%8E%8B%E9%98%B3%20%E5%8F%94%E5%9C%88%E5%A4%A9%E8%8F%9C&t=31&band_rank=8&Refer=top)<br />
-9. [老人误将2万结婚汉服当垃圾扔掉](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E8%AF%AF%E5%B0%862%E4%B8%87%E7%BB%93%E5%A9%9A%E6%B1%89%E6%9C%8D%E5%BD%93%E5%9E%83%E5%9C%BE%E6%89%94%E6%8E%89%23&t=31&band_rank=9&Refer=top)<br />
+9. [初二女生夺100米世界级冠军](https://s.weibo.com/weibo?q=%23%E5%88%9D%E4%BA%8C%E5%A5%B3%E7%94%9F%E5%A4%BA100%E7%B1%B3%E4%B8%96%E7%95%8C%E7%BA%A7%E5%86%A0%E5%86%9B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
