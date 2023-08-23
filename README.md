@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-23 08:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-23 08:08:01</h4></div>
 
 > 微博  
 
-1. [C罗怒喷傅明](https://s.weibo.com/weibo?q=%23C%E7%BD%97%E6%80%92%E5%96%B7%E5%82%85%E6%98%8E%23&t=31&band_rank=1&Refer=top)<br />
-2. [民政局直播新人领证仅12对登记](https://s.weibo.com/weibo?q=%23%E6%B0%91%E6%94%BF%E5%B1%80%E7%9B%B4%E6%92%AD%E6%96%B0%E4%BA%BA%E9%A2%86%E8%AF%81%E4%BB%8512%E5%AF%B9%E7%99%BB%E8%AE%B0%23&t=31&band_rank=2&Refer=top)<br />
+1. [民政局直播新人领证仅12对登记](https://s.weibo.com/weibo?q=%23%E6%B0%91%E6%94%BF%E5%B1%80%E7%9B%B4%E6%92%AD%E6%96%B0%E4%BA%BA%E9%A2%86%E8%AF%81%E4%BB%8512%E5%AF%B9%E7%99%BB%E8%AE%B0%23&t=31&band_rank=1&Refer=top)<br />
+2. [C罗怒喷傅明](https://s.weibo.com/weibo?q=%23C%E7%BD%97%E6%80%92%E5%96%B7%E5%82%85%E6%98%8E%23&t=31&band_rank=2&Refer=top)<br />
 3. [金砖国家形象网宣片](https://s.weibo.com/weibo?q=%23%E9%87%91%E7%A0%96%E5%9B%BD%E5%AE%B6%E5%BD%A2%E8%B1%A1%E7%BD%91%E5%AE%A3%E7%89%87%23&t=31&band_rank=3&Refer=top)<br />
 4. [苏翊鸣 恋爱](https://s.weibo.com/weibo?q=%E8%8B%8F%E7%BF%8A%E9%B8%A3%20%E6%81%8B%E7%88%B1&t=31&band_rank=4&Refer=top)<br />
 5. [研究称日本核污水排海240天到达中国](https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E7%A7%B0%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E6%B5%B7240%E5%A4%A9%E5%88%B0%E8%BE%BE%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=5&Refer=top)<br />
