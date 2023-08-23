@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-23 13:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-23 13:09:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [妈妈偷走女儿通知书 算卦后同意入学](https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E5%81%B7%E8%B5%B0%E5%A5%B3%E5%84%BF%E9%80%9A%E7%9F%A5%E4%B9%A6+%E7%AE%97%E5%8D%A6%E5%90%8E%E5%90%8C%E6%84%8F%E5%85%A5%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [核污染水里含64种核放射性元素](https://www.baidu.com/s?wd=%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E9%87%8C%E5%90%AB64%E7%A7%8D%E6%A0%B8%E6%94%BE%E5%B0%84%E6%80%A7%E5%85%83%E7%B4%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [日本核污水排海 韩国开始疯狂抢盐](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E6%B5%B7+%E9%9F%A9%E5%9B%BD%E5%BC%80%E5%A7%8B%E7%96%AF%E7%8B%82%E6%8A%A2%E7%9B%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [俄空天军总司令苏罗维金被解职](https://www.baidu.com/s?wd=%E4%BF%84%E7%A9%BA%E5%A4%A9%E5%86%9B%E6%80%BB%E5%8F%B8%E4%BB%A4%E8%8B%8F%E7%BD%97%E7%BB%B4%E9%87%91%E8%A2%AB%E8%A7%A3%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子被困浴室用修眉刀自救](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%9B%B0%E6%B5%B4%E5%AE%A4%E7%94%A8%E4%BF%AE%E7%9C%89%E5%88%80%E8%87%AA%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [妈妈偷走女儿通知书 算卦后同意入学](https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E5%81%B7%E8%B5%B0%E5%A5%B3%E5%84%BF%E9%80%9A%E7%9F%A5%E4%B9%A6+%E7%AE%97%E5%8D%A6%E5%90%8E%E5%90%8C%E6%84%8F%E5%85%A5%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [核污染水里含64种核放射性元素](https://www.baidu.com/s?wd=%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E9%87%8C%E5%90%AB64%E7%A7%8D%E6%A0%B8%E6%94%BE%E5%B0%84%E6%80%A7%E5%85%83%E7%B4%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [日本核污水排海 韩国开始疯狂抢盐](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E6%B5%B7+%E9%9F%A9%E5%9B%BD%E5%BC%80%E5%A7%8B%E7%96%AF%E7%8B%82%E6%8A%A2%E7%9B%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [俄空天军总司令苏罗维金被解职](https://www.baidu.com/s?wd=%E4%BF%84%E7%A9%BA%E5%A4%A9%E5%86%9B%E6%80%BB%E5%8F%B8%E4%BB%A4%E8%8B%8F%E7%BD%97%E7%BB%B4%E9%87%91%E8%A2%AB%E8%A7%A3%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子被困浴室用修眉刀自救](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%9B%B0%E6%B5%B4%E5%AE%A4%E7%94%A8%E4%BF%AE%E7%9C%89%E5%88%80%E8%87%AA%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
