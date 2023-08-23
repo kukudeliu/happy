@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-23 09:07:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-23 09:08:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [女子被困浴室6小时用修眉刀自救](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%9B%B0%E6%B5%B4%E5%AE%A46%E5%B0%8F%E6%97%B6%E7%94%A8%E4%BF%AE%E7%9C%89%E5%88%80%E8%87%AA%E6%95%91%23&t=31&band_rank=4&Refer=top)<br />
 5. [C罗怒喷傅明](https://s.weibo.com/weibo?q=%23C%E7%BD%97%E6%80%92%E5%96%B7%E5%82%85%E6%98%8E%23&t=31&band_rank=5&Refer=top)<br />
 6. [乌尔善大爆料封神第二部](https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%B0%94%E5%96%84%E5%A4%A7%E7%88%86%E6%96%99%E5%B0%81%E7%A5%9E%E7%AC%AC%E4%BA%8C%E9%83%A8%23&t=31&band_rank=6&Refer=top)<br />
-7. [民政局直播新人领证仅12对登记](https://s.weibo.com/weibo?q=%23%E6%B0%91%E6%94%BF%E5%B1%80%E7%9B%B4%E6%92%AD%E6%96%B0%E4%BA%BA%E9%A2%86%E8%AF%81%E4%BB%8512%E5%AF%B9%E7%99%BB%E8%AE%B0%23&t=31&band_rank=7&Refer=top)<br />
-8. [老人误将2万结婚汉服当垃圾扔掉](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E8%AF%AF%E5%B0%862%E4%B8%87%E7%BB%93%E5%A9%9A%E6%B1%89%E6%9C%8D%E5%BD%93%E5%9E%83%E5%9C%BE%E6%89%94%E6%8E%89%23&t=31&band_rank=8&Refer=top)<br />
+7. [老人误将2万结婚汉服当垃圾扔掉](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E8%AF%AF%E5%B0%862%E4%B8%87%E7%BB%93%E5%A9%9A%E6%B1%89%E6%9C%8D%E5%BD%93%E5%9E%83%E5%9C%BE%E6%89%94%E6%8E%89%23&t=31&band_rank=7&Refer=top)<br />
+8. [民政局直播新人领证仅12对登记](https://s.weibo.com/weibo?q=%23%E6%B0%91%E6%94%BF%E5%B1%80%E7%9B%B4%E6%92%AD%E6%96%B0%E4%BA%BA%E9%A2%86%E8%AF%81%E4%BB%8512%E5%AF%B9%E7%99%BB%E8%AE%B0%23&t=31&band_rank=8&Refer=top)<br />
 9. [日本为了自己划算不惜让全世界买单](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%BA%E4%BA%86%E8%87%AA%E5%B7%B1%E5%88%92%E7%AE%97%E4%B8%8D%E6%83%9C%E8%AE%A9%E5%85%A8%E4%B8%96%E7%95%8C%E4%B9%B0%E5%8D%95%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
