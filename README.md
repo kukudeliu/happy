@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-23 13:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-23 13:32:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [共建更加美好的世界](https://s.weibo.com/weibo?q=%23%E5%85%B1%E5%BB%BA%E6%9B%B4%E5%8A%A0%E7%BE%8E%E5%A5%BD%E7%9A%84%E4%B8%96%E7%95%8C%23&t=31&band_rank=3&Refer=top)<br />
 4. [研究称日本核污水排海240天到达中国](https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E7%A7%B0%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E6%B5%B7240%E5%A4%A9%E5%88%B0%E8%BE%BE%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=4&Refer=top)<br />
 5. [男子被骗缅甸家属被告知已遭杀害](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%A2%AB%E9%AA%97%E7%BC%85%E7%94%B8%E5%AE%B6%E5%B1%9E%E8%A2%AB%E5%91%8A%E7%9F%A5%E5%B7%B2%E9%81%AD%E6%9D%80%E5%AE%B3%23&t=31&band_rank=5&Refer=top)<br />
-6. [BLACKPINK新歌](https://s.weibo.com/weibo?q=BLACKPINK%E6%96%B0%E6%AD%8C&t=31&band_rank=6&Refer=top)<br />
-7. [七夕后的垃圾桶](https://s.weibo.com/weibo?q=%E4%B8%83%E5%A4%95%E5%90%8E%E7%9A%84%E5%9E%83%E5%9C%BE%E6%A1%B6&t=31&band_rank=7&Refer=top)<br />
+6. [七夕后的垃圾桶](https://s.weibo.com/weibo?q=%E4%B8%83%E5%A4%95%E5%90%8E%E7%9A%84%E5%9E%83%E5%9C%BE%E6%A1%B6&t=31&band_rank=6&Refer=top)<br />
+7. [BLACKPINK新歌](https://s.weibo.com/weibo?q=BLACKPINK%E6%96%B0%E6%AD%8C&t=31&band_rank=7&Refer=top)<br />
 8. [iPhone15Pro被曝的21项变化](https://s.weibo.com/weibo?q=%23iPhone15Pro%E8%A2%AB%E6%9B%9D%E7%9A%8421%E9%A1%B9%E5%8F%98%E5%8C%96%23&t=31&band_rank=8&Refer=top)<br />
 9. [燃冬 三个年轻人的抱团取暖](https://s.weibo.com/weibo?q=%E7%87%83%E5%86%AC%20%E4%B8%89%E4%B8%AA%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E6%8A%B1%E5%9B%A2%E5%8F%96%E6%9A%96&t=31&band_rank=9&Refer=top)<br />
 
