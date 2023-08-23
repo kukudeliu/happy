@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-24 00:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-24 00:43:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [我们嫌出师表太长 刘禅嫌出师表太短](https://s.weibo.com/weibo?q=%E6%88%91%E4%BB%AC%E5%AB%8C%E5%87%BA%E5%B8%88%E8%A1%A8%E5%A4%AA%E9%95%BF%20%E5%88%98%E7%A6%85%E5%AB%8C%E5%87%BA%E5%B8%88%E8%A1%A8%E5%A4%AA%E7%9F%AD&t=31&band_rank=4&Refer=top)<br />
 5. [宁静太敢说了](https://s.weibo.com/weibo?q=%E5%AE%81%E9%9D%99%E5%A4%AA%E6%95%A2%E8%AF%B4%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
 6. [七夕晚上翻了二十多个垃圾桶](https://s.weibo.com/weibo?q=%E4%B8%83%E5%A4%95%E6%99%9A%E4%B8%8A%E7%BF%BB%E4%BA%86%E4%BA%8C%E5%8D%81%E5%A4%9A%E4%B8%AA%E5%9E%83%E5%9C%BE%E6%A1%B6&t=31&band_rank=6&Refer=top)<br />
-7. [俞灏明多年后调侃端木磊造型](https://s.weibo.com/weibo?q=%23%E4%BF%9E%E7%81%8F%E6%98%8E%E5%A4%9A%E5%B9%B4%E5%90%8E%E8%B0%83%E4%BE%83%E7%AB%AF%E6%9C%A8%E7%A3%8A%E9%80%A0%E5%9E%8B%23&t=31&band_rank=7&Refer=top)<br />
-8. [一路朝阳导演谁啊](https://s.weibo.com/weibo?q=%E4%B8%80%E8%B7%AF%E6%9C%9D%E9%98%B3%E5%AF%BC%E6%BC%94%E8%B0%81%E5%95%8A&t=31&band_rank=8&Refer=top)<br />
-9. [把核污水与核废水混为一谈骗不了人](https://s.weibo.com/weibo?q=%23%E6%8A%8A%E6%A0%B8%E6%B1%A1%E6%B0%B4%E4%B8%8E%E6%A0%B8%E5%BA%9F%E6%B0%B4%E6%B7%B7%E4%B8%BA%E4%B8%80%E8%B0%88%E9%AA%97%E4%B8%8D%E4%BA%86%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
+7. [一路朝阳导演谁啊](https://s.weibo.com/weibo?q=%E4%B8%80%E8%B7%AF%E6%9C%9D%E9%98%B3%E5%AF%BC%E6%BC%94%E8%B0%81%E5%95%8A&t=31&band_rank=7&Refer=top)<br />
+8. [俞灏明多年后调侃端木磊造型](https://s.weibo.com/weibo?q=%23%E4%BF%9E%E7%81%8F%E6%98%8E%E5%A4%9A%E5%B9%B4%E5%90%8E%E8%B0%83%E4%BE%83%E7%AB%AF%E6%9C%A8%E7%A3%8A%E9%80%A0%E5%9E%8B%23&t=31&band_rank=8&Refer=top)<br />
+9. [核污染水](https://s.weibo.com/weibo?q=%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
