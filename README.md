@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-23 22:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-23 22:34:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [导致脊柱侧弯的元凶](https://s.weibo.com/weibo?q=%E5%AF%BC%E8%87%B4%E8%84%8A%E6%9F%B1%E4%BE%A7%E5%BC%AF%E7%9A%84%E5%85%83%E5%87%B6&t=31&band_rank=6&Refer=top)<br />
 7. [姥爷总是把微信当成书信用](https://s.weibo.com/weibo?q=%E5%A7%A5%E7%88%B7%E6%80%BB%E6%98%AF%E6%8A%8A%E5%BE%AE%E4%BF%A1%E5%BD%93%E6%88%90%E4%B9%A6%E4%BF%A1%E7%94%A8&t=31&band_rank=7&Refer=top)<br />
 8. [东方树叶 三得利](https://s.weibo.com/weibo?q=%E4%B8%9C%E6%96%B9%E6%A0%91%E5%8F%B6%20%E4%B8%89%E5%BE%97%E5%88%A9&t=31&band_rank=8&Refer=top)<br />
-9. [炫富致丈夫被查妻子回应](https://s.weibo.com/weibo?q=%23%E7%82%AB%E5%AF%8C%E8%87%B4%E4%B8%88%E5%A4%AB%E8%A2%AB%E6%9F%A5%E5%A6%BB%E5%AD%90%E5%9B%9E%E5%BA%94%23&t=31&band_rank=9&Refer=top)<br />
+9. [研究称吃薯条可能会抑郁](https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E7%A7%B0%E5%90%83%E8%96%AF%E6%9D%A1%E5%8F%AF%E8%83%BD%E4%BC%9A%E6%8A%91%E9%83%81%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -23,9 +23,9 @@
 4. [共建更加美好的世界](https://www.baidu.com/s?wd=%E5%85%B1%E5%BB%BA%E6%9B%B4%E5%8A%A0%E7%BE%8E%E5%A5%BD%E7%9A%84%E4%B8%96%E7%95%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [大连4.6级地震 市民称晃到头晕](https://www.baidu.com/s?wd=%E5%A4%A7%E8%BF%9E4.6%E7%BA%A7%E5%9C%B0%E9%9C%87+%E5%B8%82%E6%B0%91%E7%A7%B0%E6%99%83%E5%88%B0%E5%A4%B4%E6%99%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [俄罗斯月球-25号坠毁细节披露](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E6%9C%88%E7%90%83-25%E5%8F%B7%E5%9D%A0%E6%AF%81%E7%BB%86%E8%8A%82%E6%8A%AB%E9%9C%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [张艺谋：我不负责拍漂亮](https://www.baidu.com/s?wd=%E5%BC%A0%E8%89%BA%E8%B0%8B%EF%BC%9A%E6%88%91%E4%B8%8D%E8%B4%9F%E8%B4%A3%E6%8B%8D%E6%BC%82%E4%BA%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [七夕节两女子翻垃圾桶捡到金项链](https://www.baidu.com/s?wd=%E4%B8%83%E5%A4%95%E8%8A%82%E4%B8%A4%E5%A5%B3%E5%AD%90%E7%BF%BB%E5%9E%83%E5%9C%BE%E6%A1%B6%E6%8D%A1%E5%88%B0%E9%87%91%E9%A1%B9%E9%93%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [2名在缅电诈嫌犯回国 1人为骨干头目](https://www.baidu.com/s?wd=2%E5%90%8D%E5%9C%A8%E7%BC%85%E7%94%B5%E8%AF%88%E5%AB%8C%E7%8A%AF%E5%9B%9E%E5%9B%BD+1%E4%BA%BA%E4%B8%BA%E9%AA%A8%E5%B9%B2%E5%A4%B4%E7%9B%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [4名缅甸妙瓦底电诈嫌犯被押解回国](https://www.baidu.com/s?wd=4%E5%90%8D%E7%BC%85%E7%94%B8%E5%A6%99%E7%93%A6%E5%BA%95%E7%94%B5%E8%AF%88%E5%AB%8C%E7%8A%AF%E8%A2%AB%E6%8A%BC%E8%A7%A3%E5%9B%9E%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [张艺谋：我不负责拍漂亮](https://www.baidu.com/s?wd=%E5%BC%A0%E8%89%BA%E8%B0%8B%EF%BC%9A%E6%88%91%E4%B8%8D%E8%B4%9F%E8%B4%A3%E6%8B%8D%E6%BC%82%E4%BA%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [七夕节两女子翻垃圾桶捡到金项链](https://www.baidu.com/s?wd=%E4%B8%83%E5%A4%95%E8%8A%82%E4%B8%A4%E5%A5%B3%E5%AD%90%E7%BF%BB%E5%9E%83%E5%9C%BE%E6%A1%B6%E6%8D%A1%E5%88%B0%E9%87%91%E9%A1%B9%E9%93%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -35,6 +35,6 @@
 4. [共建更加美好的世界](https://www.baidu.com/s?wd=%E5%85%B1%E5%BB%BA%E6%9B%B4%E5%8A%A0%E7%BE%8E%E5%A5%BD%E7%9A%84%E4%B8%96%E7%95%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [大连4.6级地震 市民称晃到头晕](https://www.baidu.com/s?wd=%E5%A4%A7%E8%BF%9E4.6%E7%BA%A7%E5%9C%B0%E9%9C%87+%E5%B8%82%E6%B0%91%E7%A7%B0%E6%99%83%E5%88%B0%E5%A4%B4%E6%99%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [俄罗斯月球-25号坠毁细节披露](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E6%9C%88%E7%90%83-25%E5%8F%B7%E5%9D%A0%E6%AF%81%E7%BB%86%E8%8A%82%E6%8A%AB%E9%9C%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [张艺谋：我不负责拍漂亮](https://www.baidu.com/s?wd=%E5%BC%A0%E8%89%BA%E8%B0%8B%EF%BC%9A%E6%88%91%E4%B8%8D%E8%B4%9F%E8%B4%A3%E6%8B%8D%E6%BC%82%E4%BA%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [七夕节两女子翻垃圾桶捡到金项链](https://www.baidu.com/s?wd=%E4%B8%83%E5%A4%95%E8%8A%82%E4%B8%A4%E5%A5%B3%E5%AD%90%E7%BF%BB%E5%9E%83%E5%9C%BE%E6%A1%B6%E6%8D%A1%E5%88%B0%E9%87%91%E9%A1%B9%E9%93%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [2名在缅电诈嫌犯回国 1人为骨干头目](https://www.baidu.com/s?wd=2%E5%90%8D%E5%9C%A8%E7%BC%85%E7%94%B5%E8%AF%88%E5%AB%8C%E7%8A%AF%E5%9B%9E%E5%9B%BD+1%E4%BA%BA%E4%B8%BA%E9%AA%A8%E5%B9%B2%E5%A4%B4%E7%9B%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [4名缅甸妙瓦底电诈嫌犯被押解回国](https://www.baidu.com/s?wd=4%E5%90%8D%E7%BC%85%E7%94%B8%E5%A6%99%E7%93%A6%E5%BA%95%E7%94%B5%E8%AF%88%E5%AB%8C%E7%8A%AF%E8%A2%AB%E6%8A%BC%E8%A7%A3%E5%9B%9E%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [张艺谋：我不负责拍漂亮](https://www.baidu.com/s?wd=%E5%BC%A0%E8%89%BA%E8%B0%8B%EF%BC%9A%E6%88%91%E4%B8%8D%E8%B4%9F%E8%B4%A3%E6%8B%8D%E6%BC%82%E4%BA%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [七夕节两女子翻垃圾桶捡到金项链](https://www.baidu.com/s?wd=%E4%B8%83%E5%A4%95%E8%8A%82%E4%B8%A4%E5%A5%B3%E5%AD%90%E7%BF%BB%E5%9E%83%E5%9C%BE%E6%A1%B6%E6%8D%A1%E5%88%B0%E9%87%91%E9%A1%B9%E9%93%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
