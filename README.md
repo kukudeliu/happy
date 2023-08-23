@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-23 14:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-23 14:09:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [合肥中介劝退客户：现在不适合买房](https://www.baidu.com/s?wd=%E5%90%88%E8%82%A5%E4%B8%AD%E4%BB%8B%E5%8A%9D%E9%80%80%E5%AE%A2%E6%88%B7%EF%BC%9A%E7%8E%B0%E5%9C%A8%E4%B8%8D%E9%80%82%E5%90%88%E4%B9%B0%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [香港学校聘任教师须通过国安法测试](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%AD%A6%E6%A0%A1%E8%81%98%E4%BB%BB%E6%95%99%E5%B8%88%E9%A1%BB%E9%80%9A%E8%BF%87%E5%9B%BD%E5%AE%89%E6%B3%95%E6%B5%8B%E8%AF%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [妈妈偷走女儿通知书 算卦后同意入学](https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E5%81%B7%E8%B5%B0%E5%A5%B3%E5%84%BF%E9%80%9A%E7%9F%A5%E4%B9%A6+%E7%AE%97%E5%8D%A6%E5%90%8E%E5%90%8C%E6%84%8F%E5%85%A5%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [当地回应女生被同学父亲性侵产子](https://www.baidu.com/s?wd=%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%94%9F%E8%A2%AB%E5%90%8C%E5%AD%A6%E7%88%B6%E4%BA%B2%E6%80%A7%E4%BE%B5%E4%BA%A7%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子没给丈夫钱充手游被殴打失明](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%B2%A1%E7%BB%99%E4%B8%88%E5%A4%AB%E9%92%B1%E5%85%85%E6%89%8B%E6%B8%B8%E8%A2%AB%E6%AE%B4%E6%89%93%E5%A4%B1%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [合肥中介劝退客户：现在不适合买房](https://www.baidu.com/s?wd=%E5%90%88%E8%82%A5%E4%B8%AD%E4%BB%8B%E5%8A%9D%E9%80%80%E5%AE%A2%E6%88%B7%EF%BC%9A%E7%8E%B0%E5%9C%A8%E4%B8%8D%E9%80%82%E5%90%88%E4%B9%B0%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [香港学校聘任教师须通过国安法测试](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%AD%A6%E6%A0%A1%E8%81%98%E4%BB%BB%E6%95%99%E5%B8%88%E9%A1%BB%E9%80%9A%E8%BF%87%E5%9B%BD%E5%AE%89%E6%B3%95%E6%B5%8B%E8%AF%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [妈妈偷走女儿通知书 算卦后同意入学](https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E5%81%B7%E8%B5%B0%E5%A5%B3%E5%84%BF%E9%80%9A%E7%9F%A5%E4%B9%A6+%E7%AE%97%E5%8D%A6%E5%90%8E%E5%90%8C%E6%84%8F%E5%85%A5%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [当地回应女生被同学父亲性侵产子](https://www.baidu.com/s?wd=%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%94%9F%E8%A2%AB%E5%90%8C%E5%AD%A6%E7%88%B6%E4%BA%B2%E6%80%A7%E4%BE%B5%E4%BA%A7%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子没给丈夫钱充手游被殴打失明](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%B2%A1%E7%BB%99%E4%B8%88%E5%A4%AB%E9%92%B1%E5%85%85%E6%89%8B%E6%B8%B8%E8%A2%AB%E6%AE%B4%E6%89%93%E5%A4%B1%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
