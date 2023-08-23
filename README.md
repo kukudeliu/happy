@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-23 14:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-23 14:42:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [男子被骗缅甸家属被告知已遭杀害](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%A2%AB%E9%AA%97%E7%BC%85%E7%94%B8%E5%AE%B6%E5%B1%9E%E8%A2%AB%E5%91%8A%E7%9F%A5%E5%B7%B2%E9%81%AD%E6%9D%80%E5%AE%B3%23&t=31&band_rank=6&Refer=top)<br />
 7. [研究称日本核污水排海240天到达中国](https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E7%A7%B0%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E6%B5%B7240%E5%A4%A9%E5%88%B0%E8%BE%BE%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=7&Refer=top)<br />
 8. [从日本进口的海鲜还能吃吗](https://s.weibo.com/weibo?q=%23%E4%BB%8E%E6%97%A5%E6%9C%AC%E8%BF%9B%E5%8F%A3%E7%9A%84%E6%B5%B7%E9%B2%9C%E8%BF%98%E8%83%BD%E5%90%83%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [餐厅6片莴笋售价98元](https://s.weibo.com/weibo?q=%23%E9%A4%90%E5%8E%856%E7%89%87%E8%8E%B4%E7%AC%8B%E5%94%AE%E4%BB%B798%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
+9. [孤注一掷里的诈骗方式过时了](https://s.weibo.com/weibo?q=%23%E5%AD%A4%E6%B3%A8%E4%B8%80%E6%8E%B7%E9%87%8C%E7%9A%84%E8%AF%88%E9%AA%97%E6%96%B9%E5%BC%8F%E8%BF%87%E6%97%B6%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
