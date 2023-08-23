@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-23 09:58:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-23 09:59:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [杨丞琳撮合马伯骞徐璐](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E4%B8%9E%E7%90%B3%E6%92%AE%E5%90%88%E9%A9%AC%E4%BC%AF%E9%AA%9E%E5%BE%90%E7%92%90%23&t=31&band_rank=6&Refer=top)<br />
 7. [日本为了自己划算不惜让全世界买单](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%BA%E4%BA%86%E8%87%AA%E5%B7%B1%E5%88%92%E7%AE%97%E4%B8%8D%E6%83%9C%E8%AE%A9%E5%85%A8%E4%B8%96%E7%95%8C%E4%B9%B0%E5%8D%95%23&t=31&band_rank=7&Refer=top)<br />
 8. [女子被困浴室6小时用修眉刀自救](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%9B%B0%E6%B5%B4%E5%AE%A46%E5%B0%8F%E6%97%B6%E7%94%A8%E4%BF%AE%E7%9C%89%E5%88%80%E8%87%AA%E6%95%91%23&t=31&band_rank=8&Refer=top)<br />
-9. [30000只鸡中暑见消防员来张嘴讨水喝](https://s.weibo.com/weibo?q=%2330000%E5%8F%AA%E9%B8%A1%E4%B8%AD%E6%9A%91%E8%A7%81%E6%B6%88%E9%98%B2%E5%91%98%E6%9D%A5%E5%BC%A0%E5%98%B4%E8%AE%A8%E6%B0%B4%E5%96%9D%23&t=31&band_rank=9&Refer=top)<br />
+9. [我国单身人口2.39亿](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E5%8D%95%E8%BA%AB%E4%BA%BA%E5%8F%A32.39%E4%BA%BF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -23,8 +23,8 @@
 4. [让世界听到更多的金砖声音](https://www.baidu.com/s?wd=%E8%AE%A9%E4%B8%96%E7%95%8C%E5%90%AC%E5%88%B0%E6%9B%B4%E5%A4%9A%E7%9A%84%E9%87%91%E7%A0%96%E5%A3%B0%E9%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [C罗怒喷中国裁判傅明](https://www.baidu.com/s?wd=C%E7%BD%97%E6%80%92%E5%96%B7%E4%B8%AD%E5%9B%BD%E8%A3%81%E5%88%A4%E5%82%85%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [准新人被逼婚：人不到就放照片举办](https://www.baidu.com/s?wd=%E5%87%86%E6%96%B0%E4%BA%BA%E8%A2%AB%E9%80%BC%E5%A9%9A%EF%BC%9A%E4%BA%BA%E4%B8%8D%E5%88%B0%E5%B0%B1%E6%94%BE%E7%85%A7%E7%89%87%E4%B8%BE%E5%8A%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [丈夫酒后打妻子致坠楼 检方：不起诉](https://www.baidu.com/s?wd=%E4%B8%88%E5%A4%AB%E9%85%92%E5%90%8E%E6%89%93%E5%A6%BB%E5%AD%90%E8%87%B4%E5%9D%A0%E6%A5%BC+%E6%A3%80%E6%96%B9%EF%BC%9A%E4%B8%8D%E8%B5%B7%E8%AF%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [唐尚珺回应去衡水中学复读](https://www.baidu.com/s?wd=%E5%94%90%E5%B0%9A%E7%8F%BA%E5%9B%9E%E5%BA%94%E5%8E%BB%E8%A1%A1%E6%B0%B4%E4%B8%AD%E5%AD%A6%E5%A4%8D%E8%AF%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [唐尚珺回应去衡水中学复读](https://www.baidu.com/s?wd=%E5%94%90%E5%B0%9A%E7%8F%BA%E5%9B%9E%E5%BA%94%E5%8E%BB%E8%A1%A1%E6%B0%B4%E4%B8%AD%E5%AD%A6%E5%A4%8D%E8%AF%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [丈夫酒后打妻子致坠楼 检方：不起诉](https://www.baidu.com/s?wd=%E4%B8%88%E5%A4%AB%E9%85%92%E5%90%8E%E6%89%93%E5%A6%BB%E5%AD%90%E8%87%B4%E5%9D%A0%E6%A5%BC+%E6%A3%80%E6%96%B9%EF%BC%9A%E4%B8%8D%E8%B5%B7%E8%AF%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [九部门：鼓励退休干部等回乡定居](https://www.baidu.com/s?wd=%E4%B9%9D%E9%83%A8%E9%97%A8%EF%BC%9A%E9%BC%93%E5%8A%B1%E9%80%80%E4%BC%91%E5%B9%B2%E9%83%A8%E7%AD%89%E5%9B%9E%E4%B9%A1%E5%AE%9A%E5%B1%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [让世界听到更多的金砖声音](https://www.baidu.com/s?wd=%E8%AE%A9%E4%B8%96%E7%95%8C%E5%90%AC%E5%88%B0%E6%9B%B4%E5%A4%9A%E7%9A%84%E9%87%91%E7%A0%96%E5%A3%B0%E9%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [C罗怒喷中国裁判傅明](https://www.baidu.com/s?wd=C%E7%BD%97%E6%80%92%E5%96%B7%E4%B8%AD%E5%9B%BD%E8%A3%81%E5%88%A4%E5%82%85%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [准新人被逼婚：人不到就放照片举办](https://www.baidu.com/s?wd=%E5%87%86%E6%96%B0%E4%BA%BA%E8%A2%AB%E9%80%BC%E5%A9%9A%EF%BC%9A%E4%BA%BA%E4%B8%8D%E5%88%B0%E5%B0%B1%E6%94%BE%E7%85%A7%E7%89%87%E4%B8%BE%E5%8A%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [丈夫酒后打妻子致坠楼 检方：不起诉](https://www.baidu.com/s?wd=%E4%B8%88%E5%A4%AB%E9%85%92%E5%90%8E%E6%89%93%E5%A6%BB%E5%AD%90%E8%87%B4%E5%9D%A0%E6%A5%BC+%E6%A3%80%E6%96%B9%EF%BC%9A%E4%B8%8D%E8%B5%B7%E8%AF%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [唐尚珺回应去衡水中学复读](https://www.baidu.com/s?wd=%E5%94%90%E5%B0%9A%E7%8F%BA%E5%9B%9E%E5%BA%94%E5%8E%BB%E8%A1%A1%E6%B0%B4%E4%B8%AD%E5%AD%A6%E5%A4%8D%E8%AF%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [唐尚珺回应去衡水中学复读](https://www.baidu.com/s?wd=%E5%94%90%E5%B0%9A%E7%8F%BA%E5%9B%9E%E5%BA%94%E5%8E%BB%E8%A1%A1%E6%B0%B4%E4%B8%AD%E5%AD%A6%E5%A4%8D%E8%AF%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [丈夫酒后打妻子致坠楼 检方：不起诉](https://www.baidu.com/s?wd=%E4%B8%88%E5%A4%AB%E9%85%92%E5%90%8E%E6%89%93%E5%A6%BB%E5%AD%90%E8%87%B4%E5%9D%A0%E6%A5%BC+%E6%A3%80%E6%96%B9%EF%BC%9A%E4%B8%8D%E8%B5%B7%E8%AF%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [九部门：鼓励退休干部等回乡定居](https://www.baidu.com/s?wd=%E4%B9%9D%E9%83%A8%E9%97%A8%EF%BC%9A%E9%BC%93%E5%8A%B1%E9%80%80%E4%BC%91%E5%B9%B2%E9%83%A8%E7%AD%89%E5%9B%9E%E4%B9%A1%E5%AE%9A%E5%B1%85&sa=fyb_news&rsv_dl=fyb_news)<br />
