@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-23 13:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-23 13:10:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [BLACKPINK新歌](https://s.weibo.com/weibo?q=BLACKPINK%E6%96%B0%E6%AD%8C&t=31&band_rank=6&Refer=top)<br />
 7. [七夕后的垃圾桶](https://s.weibo.com/weibo?q=%E4%B8%83%E5%A4%95%E5%90%8E%E7%9A%84%E5%9E%83%E5%9C%BE%E6%A1%B6&t=31&band_rank=7&Refer=top)<br />
 8. [假签名被孙阳本人打假](https://s.weibo.com/weibo?q=%23%E5%81%87%E7%AD%BE%E5%90%8D%E8%A2%AB%E5%AD%99%E9%98%B3%E6%9C%AC%E4%BA%BA%E6%89%93%E5%81%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [情侣看燃冬 各自沉默](https://s.weibo.com/weibo?q=%E6%83%85%E4%BE%A3%E7%9C%8B%E7%87%83%E5%86%AC%20%E5%90%84%E8%87%AA%E6%B2%89%E9%BB%98&t=31&band_rank=9&Refer=top)<br />
+9. [日本为了自己划算不惜让全世界买单](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%BA%E4%BA%86%E8%87%AA%E5%B7%B1%E5%88%92%E7%AE%97%E4%B8%8D%E6%83%9C%E8%AE%A9%E5%85%A8%E4%B8%96%E7%95%8C%E4%B9%B0%E5%8D%95%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
