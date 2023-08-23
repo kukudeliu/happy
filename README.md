@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-23 22:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-23 22:17:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [大连地震](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%BF%9E%E5%9C%B0%E9%9C%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [东方树叶 三得利](https://s.weibo.com/weibo?q=%E4%B8%9C%E6%96%B9%E6%A0%91%E5%8F%B6%20%E4%B8%89%E5%BE%97%E5%88%A9&t=31&band_rank=7&Refer=top)<br />
 8. [谁来管管装逼酒桌文化](https://s.weibo.com/weibo?q=%23%E8%B0%81%E6%9D%A5%E7%AE%A1%E7%AE%A1%E8%A3%85%E9%80%BC%E9%85%92%E6%A1%8C%E6%96%87%E5%8C%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [enhypen 一直娱](https://s.weibo.com/weibo?q=enhypen%20%E4%B8%80%E7%9B%B4%E5%A8%B1&t=31&band_rank=9&Refer=top)<br />
+9. [研究称吃薯条可能会抑郁](https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E7%A7%B0%E5%90%83%E8%96%AF%E6%9D%A1%E5%8F%AF%E8%83%BD%E4%BC%9A%E6%8A%91%E9%83%81%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
