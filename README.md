@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-23 21:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-23 21:34:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [谁来管管装逼酒桌文化](https://s.weibo.com/weibo?q=%23%E8%B0%81%E6%9D%A5%E7%AE%A1%E7%AE%A1%E8%A3%85%E9%80%BC%E9%85%92%E6%A1%8C%E6%96%87%E5%8C%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [东方树叶 三得利](https://s.weibo.com/weibo?q=%E4%B8%9C%E6%96%B9%E6%A0%91%E5%8F%B6%20%E4%B8%89%E5%BE%97%E5%88%A9&t=31&band_rank=7&Refer=top)<br />
 8. [岑先生直播](https://s.weibo.com/weibo?q=%E5%B2%91%E5%85%88%E7%94%9F%E7%9B%B4%E6%92%AD&t=31&band_rank=8&Refer=top)<br />
-9. [TFBOYS演唱会门票炒到200万系谣言](https://s.weibo.com/weibo?q=%23TFBOYS%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E7%82%92%E5%88%B0200%E4%B8%87%E7%B3%BB%E8%B0%A3%E8%A8%80%23&t=31&band_rank=9&Refer=top)<br />
+9. [核废水](https://s.weibo.com/weibo?q=%E6%A0%B8%E5%BA%9F%E6%B0%B4&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
