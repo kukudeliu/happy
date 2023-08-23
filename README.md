@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-23 08:49:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-23 08:50:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [女子被困浴室6小时用修眉刀自救](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%9B%B0%E6%B5%B4%E5%AE%A46%E5%B0%8F%E6%97%B6%E7%94%A8%E4%BF%AE%E7%9C%89%E5%88%80%E8%87%AA%E6%95%91%23&t=31&band_rank=2&Refer=top)<br />
 3. [金砖国家形象网宣片](https://s.weibo.com/weibo?q=%23%E9%87%91%E7%A0%96%E5%9B%BD%E5%AE%B6%E5%BD%A2%E8%B1%A1%E7%BD%91%E5%AE%A3%E7%89%87%23&t=31&band_rank=3&Refer=top)<br />
 4. [民政局直播新人领证仅12对登记](https://s.weibo.com/weibo?q=%23%E6%B0%91%E6%94%BF%E5%B1%80%E7%9B%B4%E6%92%AD%E6%96%B0%E4%BA%BA%E9%A2%86%E8%AF%81%E4%BB%8512%E5%AF%B9%E7%99%BB%E8%AE%B0%23&t=31&band_rank=4&Refer=top)<br />
-5. [C罗怒喷傅明](https://s.weibo.com/weibo?q=%23C%E7%BD%97%E6%80%92%E5%96%B7%E5%82%85%E6%98%8E%23&t=31&band_rank=5&Refer=top)<br />
-6. [费翔 不是每个人都适合结婚](https://s.weibo.com/weibo?q=%E8%B4%B9%E7%BF%94%20%E4%B8%8D%E6%98%AF%E6%AF%8F%E4%B8%AA%E4%BA%BA%E9%83%BD%E9%80%82%E5%90%88%E7%BB%93%E5%A9%9A&t=31&band_rank=6&Refer=top)<br />
+5. [费翔 不是每个人都适合结婚](https://s.weibo.com/weibo?q=%E8%B4%B9%E7%BF%94%20%E4%B8%8D%E6%98%AF%E6%AF%8F%E4%B8%AA%E4%BA%BA%E9%83%BD%E9%80%82%E5%90%88%E7%BB%93%E5%A9%9A&t=31&band_rank=5&Refer=top)<br />
+6. [C罗怒喷傅明](https://s.weibo.com/weibo?q=%23C%E7%BD%97%E6%80%92%E5%96%B7%E5%82%85%E6%98%8E%23&t=31&band_rank=6&Refer=top)<br />
 7. [乌尔善大爆料封神第二部](https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%B0%94%E5%96%84%E5%A4%A7%E7%88%86%E6%96%99%E5%B0%81%E7%A5%9E%E7%AC%AC%E4%BA%8C%E9%83%A8%23&t=31&band_rank=7&Refer=top)<br />
 8. [苏翊鸣 恋爱](https://s.weibo.com/weibo?q=%E8%8B%8F%E7%BF%8A%E9%B8%A3%20%E6%81%8B%E7%88%B1&t=31&band_rank=8&Refer=top)<br />
 9. [邓为也念念不忘杨紫的烧烤](https://s.weibo.com/weibo?q=%23%E9%82%93%E4%B8%BA%E4%B9%9F%E5%BF%B5%E5%BF%B5%E4%B8%8D%E5%BF%98%E6%9D%A8%E7%B4%AB%E7%9A%84%E7%83%A7%E7%83%A4%23&t=31&band_rank=9&Refer=top)<br />
