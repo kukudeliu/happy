@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-23 21:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-23 21:22:01</h4></div>
 
 > 微博  
 
@@ -17,7 +17,7 @@
 
 > 百度  
 
-1. [携手构建高水平中南命运共同体](https://www.baidu.com/s?wd=%E6%90%BA%E6%89%8B%E6%9E%84%E5%BB%BA%E9%AB%98%E6%B0%B4%E5%B9%B3%E4%B8%AD%E5%8D%97%E5%91%BD%E8%BF%90%E5%85%B1%E5%90%8C%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [金砖+加的是什么](https://www.baidu.com/s?wd=%E9%87%91%E7%A0%96%2B%E5%8A%A0%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [12年前号称喝核污染水日官员怎么样了](https://www.baidu.com/s?wd=12%E5%B9%B4%E5%89%8D%E5%8F%B7%E7%A7%B0%E5%96%9D%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%97%A5%E5%AE%98%E5%91%98%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [印度“月船3号”飞船成功登月](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E2%80%9C%E6%9C%88%E8%88%B93%E5%8F%B7%E2%80%9D%E9%A3%9E%E8%88%B9%E6%88%90%E5%8A%9F%E7%99%BB%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [共建更加美好的世界](https://www.baidu.com/s?wd=%E5%85%B1%E5%BB%BA%E6%9B%B4%E5%8A%A0%E7%BE%8E%E5%A5%BD%E7%9A%84%E4%B8%96%E7%95%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,7 +29,7 @@
 
 > 哔哩哔哩  
 
-1. [携手构建高水平中南命运共同体](https://www.baidu.com/s?wd=%E6%90%BA%E6%89%8B%E6%9E%84%E5%BB%BA%E9%AB%98%E6%B0%B4%E5%B9%B3%E4%B8%AD%E5%8D%97%E5%91%BD%E8%BF%90%E5%85%B1%E5%90%8C%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [金砖+加的是什么](https://www.baidu.com/s?wd=%E9%87%91%E7%A0%96%2B%E5%8A%A0%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [12年前号称喝核污染水日官员怎么样了](https://www.baidu.com/s?wd=12%E5%B9%B4%E5%89%8D%E5%8F%B7%E7%A7%B0%E5%96%9D%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%97%A5%E5%AE%98%E5%91%98%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [印度“月船3号”飞船成功登月](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E2%80%9C%E6%9C%88%E8%88%B93%E5%8F%B7%E2%80%9D%E9%A3%9E%E8%88%B9%E6%88%90%E5%8A%9F%E7%99%BB%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [共建更加美好的世界](https://www.baidu.com/s?wd=%E5%85%B1%E5%BB%BA%E6%9B%B4%E5%8A%A0%E7%BE%8E%E5%A5%BD%E7%9A%84%E4%B8%96%E7%95%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
