@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-24 10:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-24 10:05:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [民警和女友的约会太刺激了](https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E5%92%8C%E5%A5%B3%E5%8F%8B%E7%9A%84%E7%BA%A6%E4%BC%9A%E5%A4%AA%E5%88%BA%E6%BF%80%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [瓦格纳集团称普里戈任被叛徒杀害](https://s.weibo.com/weibo?q=%23%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%9B%86%E5%9B%A2%E7%A7%B0%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E8%A2%AB%E5%8F%9B%E5%BE%92%E6%9D%80%E5%AE%B3%23&t=31&band_rank=7&Refer=top)<br />
 8. [王阳新剧被李兰迪亲了的反应](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%98%B3%E6%96%B0%E5%89%A7%E8%A2%AB%E6%9D%8E%E5%85%B0%E8%BF%AA%E4%BA%B2%E4%BA%86%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=8&Refer=top)<br />
-9. [民警在财务员手机里检测出3个高危APP](https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E5%9C%A8%E8%B4%A2%E5%8A%A1%E5%91%98%E6%89%8B%E6%9C%BA%E9%87%8C%E6%A3%80%E6%B5%8B%E5%87%BA3%E4%B8%AA%E9%AB%98%E5%8D%B1APP%23&t=31&band_rank=9&Refer=top)<br />
+9. [苏可居然是中戏表演老师](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E5%8F%AF%E5%B1%85%E7%84%B6%E6%98%AF%E4%B8%AD%E6%88%8F%E8%A1%A8%E6%BC%94%E8%80%81%E5%B8%88%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
