@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-24 09:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-24 09:16:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [景甜没人告诉我扫楼要跑啊](https://s.weibo.com/weibo?q=%23%E6%99%AF%E7%94%9C%E6%B2%A1%E4%BA%BA%E5%91%8A%E8%AF%89%E6%88%91%E6%89%AB%E6%A5%BC%E8%A6%81%E8%B7%91%E5%95%8A%23&t=31&band_rank=6&Refer=top)<br />
 7. [普里戈任确认在坠机中遇难](https://s.weibo.com/weibo?q=%23%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E7%A1%AE%E8%AE%A4%E5%9C%A8%E5%9D%A0%E6%9C%BA%E4%B8%AD%E9%81%87%E9%9A%BE%23&t=31&band_rank=7&Refer=top)<br />
 8. [核污染水](https://s.weibo.com/weibo?q=%23%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%23&t=31&band_rank=8&Refer=top)<br />
-9. [日本核污水排海或化作雨水洒遍全球](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E6%B5%B7%E6%88%96%E5%8C%96%E4%BD%9C%E9%9B%A8%E6%B0%B4%E6%B4%92%E9%81%8D%E5%85%A8%E7%90%83%23&t=31&band_rank=9&Refer=top)<br />
+9. [民警和女友的约会太刺激了](https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E5%92%8C%E5%A5%B3%E5%8F%8B%E7%9A%84%E7%BA%A6%E4%BC%9A%E5%A4%AA%E5%88%BA%E6%BF%80%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
