@@ -1,10 +1,10 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-24 14:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-24 14:01:01</h4></div>
 
 > 微博  
 
 1. [日本核污染水排海正式开始](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%B5%B7%E6%AD%A3%E5%BC%8F%E5%BC%80%E5%A7%8B%23&t=31&band_rank=1&Refer=top)<br />
 2. [日本官员喝下核污染水4年后引退消失](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%AE%98%E5%91%98%E5%96%9D%E4%B8%8B%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B44%E5%B9%B4%E5%90%8E%E5%BC%95%E9%80%80%E6%B6%88%E5%A4%B1%23&t=31&band_rank=2&Refer=top)<br />
-3. [2023金砖会晤](https://s.weibo.com/weibo?q=%232023%E9%87%91%E7%A0%96%E4%BC%9A%E6%99%A4%23&t=31&band_rank=3&Refer=top)<br />
+3. [杭州亚运主题歌曲发布](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%B8%BB%E9%A2%98%E6%AD%8C%E6%9B%B2%E5%8F%91%E5%B8%83%23&t=31&band_rank=3&Refer=top)<br />
 4. [海关总署全面暂停进口日本水产品](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%85%B3%E6%80%BB%E7%BD%B2%E5%85%A8%E9%9D%A2%E6%9A%82%E5%81%9C%E8%BF%9B%E5%8F%A3%E6%97%A5%E6%9C%AC%E6%B0%B4%E4%BA%A7%E5%93%81%23&t=31&band_rank=4&Refer=top)<br />
 5. [外交部就日本启动核污染水排海发表谈话](https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%B0%B1%E6%97%A5%E6%9C%AC%E5%90%AF%E5%8A%A8%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%B5%B7%E5%8F%91%E8%A1%A8%E8%B0%88%E8%AF%9D%23&t=31&band_rank=5&Refer=top)<br />
 6. [杜海涛吃蜈蚣在嘴里八进八出](https://s.weibo.com/weibo?q=%23%E6%9D%9C%E6%B5%B7%E6%B6%9B%E5%90%83%E8%9C%88%E8%9A%A3%E5%9C%A8%E5%98%B4%E9%87%8C%E5%85%AB%E8%BF%9B%E5%85%AB%E5%87%BA%23&t=31&band_rank=6&Refer=top)<br />
